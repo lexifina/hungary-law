@@ -1,0 +1,1 @@
+3. § Hogy a tett intézkedésekről, azok eredményéről s az emlék ügyéről általában a ministerium által az országgyűlés mindkét házának minden év végén jelentés tétessék mindaddig, mig az emlék tettleg felállitva nem lesz.
