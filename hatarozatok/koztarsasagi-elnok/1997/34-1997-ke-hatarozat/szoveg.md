@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Budai János rendkívüli és meghatalmazott nagykövetet – a Magyar Köztársaság pretóriai nagykövetsége vezetésére kapott megbízása érintetlenül hagyásával – megbízom a Magyar Köztársaságnak a Mozambiki Köztársaságban való képviseletével.
