@@ -1,0 +1,1 @@
+1. § Az 1921. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a hajókon alkalmazott gyermekek és fiatalkorúak kötelező orvosi vizsgálata tárgyában tervezet alakjában elfogadott nemzetközi egyezmény a magyar állam törvényei közé iktattatik.
