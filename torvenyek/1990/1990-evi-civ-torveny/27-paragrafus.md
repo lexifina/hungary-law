@@ -1,0 +1,1 @@
+27. § A 24. § (1) bekezdés b), c) és h) pontjaiban szereplő államadósság kezelésére vonatkozó, érvényben lévő szerződéseket a pénzügyminiszter és a Magyar Nemzeti Bank elnöke az e törvényben szabályozott feltételek szerint módosítsa.

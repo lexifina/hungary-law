@@ -1,0 +1,1 @@
+Az Országgyűlés az államháztartási rendszer újraszabályozását megelőzően, a közpénzekkel való hatékony és ellenőrizhető gazdálkodás igényével az 1991. évi állami költségvetésről és annak végrehajtásához kapcsolódóan az államháztartás vitelének egyes átmeneti szabályairól az alábbi törvényt alkotja.

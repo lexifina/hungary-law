@@ -1,0 +1,1 @@
+30. § A 24. § (2) bekezdésében és a 25. §-ban szereplő államadósságok lejárati és kamatfeltételei megegyeznek az érvényben lévő belföldi és nemzetközi szerződésekben, illetőleg kibocsátási szabályokban rögzítettekkel.
