@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között Budapesten, az 1978. évi november hó 1. napján aláírt, az orvostudományi és egészségügyi együttműködésről szóló egyezményt e rendelettel kihirdeti.
