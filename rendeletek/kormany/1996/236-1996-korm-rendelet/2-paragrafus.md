@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel a Magyar Köztársaság Kormánya és a Kazak Köztársaság Kormánya között 1996. október 7-én aláírt, a diplomata és szolgálati útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről szóló megállapodást kihirdeti.
