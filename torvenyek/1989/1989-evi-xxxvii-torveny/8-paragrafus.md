@@ -1,0 +1,1 @@
+8. § Nem terjed ki a mentesítés azokra a 6. § (1) bekezdése alá eső elítéltekre, akikkel szemben a bíróság összbüntetést szabott ki és az összbüntetés mértéke az ott meghatározott időtartamot meghaladja.

@@ -1,0 +1,1 @@
+3. § Mentesülnek valamennyi büntetés és a büntetett előélethez fűződő hátrányok alól azok is, akiket – kémkedés kivételével – állam elleni bűncselekmény (az 1961. évi V. törvény IX. fejezete, illetve az 1978. évi IV. törvény X. fejezete) vagy közösség megsértése miatt ítéltek el.

@@ -1,0 +1,1 @@
+2. § Mentesülnek a büntetés végrehajtása alól az 1. § (1) bekezdésében felsorolt azok az elítéltek is, akikkel szemben a bíróság a kiszabott javító-nevelő munka, illetve szigorított javító-nevelő munka büntetést utóbb szabadságvesztésre változtatta át.
