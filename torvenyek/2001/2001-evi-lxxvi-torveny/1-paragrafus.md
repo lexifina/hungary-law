@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Nemzetközi Atomenergia Ügynökség keretében a kiégett fűtőelemek kezelésének biztonságáról és a radioaktív hulladékok kezelésének biztonságáról létrehozott, Bécsben, 1997. szeptember 5-én kelt közös egyezményt (a továbbiakban: egyezmény) e törvénnyel kihirdeti.
