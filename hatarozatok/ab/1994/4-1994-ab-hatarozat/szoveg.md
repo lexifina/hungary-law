@@ -1,0 +1,47 @@
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+
+Az Alkotmánybíróság önkormányzati rendelet törvényellenességének megállapítására és megsemmisítésére irányuló kezdeményezés alapján meghozta a következő
+
+határozatot.
+
+Az Alkotmánybíróság megállapítja, hogy Fülöpszállás Község Képviselő-testületének a helyi közutak építéséről szóló 4/1993. (III. 10.) számú önkormányzati rendelete törvénysértő, ezért azt 1993. március 10. napjáig visszamenő hatállyal megsemmisíti.
+
+Az Alkotmánybíróság e határozatát a Magyar Közlönyben közzéteszi.
+
+INDOKOLÁS
+
+1. Fülöpszállás képviselő-testülete 4/1993. (III. 10.) számú rendeletében (a továbbiakban: Ör.) a helyi közutak használatában érdekelt magán- és jogi személyek terhére ,,adók módjára behajtható'' 10 000 Ft összegben megállapított ,,egyszeri érdekeltségi hozzájárulást'' vetett ki. Az Ör. arról is rendelkezik, hogy a ,,testület utanként határozattal kezdeményezi a közútépítő közösségek megalakítását'', meghatározza, hogy ki ,,minősül'' az ,,együttműködésben részt vevőnek'', s utal arra, hogy az ,,önkormányzat érdekeltségi hozzájárulásának összegét közútépítő közösségenként a képviselő-testület határozattal állapítja meg''.
+
+2. A köztársasági megbízott az Ör.-t több okból is törvénysértőnek tartja. Az egyszeri útépítési hozzájárulás megfizetésére való kötelezés ,,a közműfejlesztési hozzájárulást idézi fel''. Márpedig a ,,helyi adókról szóló 1990. évi C. tv. (a továbbiakban: Htv.) 48. §-a ,,1992. január 1. napjával hatályon kívül helyezte az út- és közműfejlesztési hozzájárulásról szóló 18/1983. (X. 16.) ÉVM—PM együttes rendeletet, ezért közműfejlesztési hozzájárulást kivetni nem lehet''. A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Ktv.) 31. §-a — melynek felhatalmazására alapozza a képviselő-testület az Ör.-t — csupán arról szól, hogy magánszemélyek, jogi személyek és az önkormányzat helyi közút építésére ,,önként, szabad elhatározás alapján, az együttműködés formáját meghatározva'' együttműködhetnek. ,,Ez a szabályozás mellérendelt feleket feltételez.'' Az önkormányzatnak csak arra van jogosultsága, hogy, ha az útépítési önkéntes együttműködésben az érdekeltek több mint kétharmada részt vesz, az abban ,,részt nem vevő, de a közút használatában érdekelt magán- vagy jogi személyt a résztvevők által vállalt anyagi hozzájárulás mértékéig útépítési érdekeltségi hozzájárulás fizetésére'' kötelezze. ,,Ebből következően rendeletben konkrét összeget megállapítani törvénysértő.''
+
+A köztársasági megbízott felhívta a községi képviselő-testületet, hogy kifejtett indokai alapján a törvénysértést szüntesse meg. A testület azonban úgy foglalt állást, hogy az Ör. ,,nem ellentétes az 1988. évi I. tv. előírásaival'', továbbá, mert ,,a gyakorlati alkalmazás során eddig semmiféle problémát nem okozott, sőt biztosítja a helyi ilyen jellegű kérdések igazságos rendezését'', az Ör.-t érvényben tartja.
+
+E válasz után indítványozta a köztársasági megbízott az Ör. alkotmánybírósági felülvizsgálatát.
+
+3. A köztársasági megbízott kezdeményezése megalapozott.
+
+A helyi lakossági érdekeket szolgáló közút kijelölése, építése, korszerűsítése stb. ugyan a helyi önkormányzatról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 16. § (1) bekezdése alapján ,,a helyi társadalmi viszonyok rendezése'' fogalmi körbe tartozik, de a képviselő-testület a közúttal kapcsolatos rendeletét csak törvényi szabályozási keretek között hozhatja meg.
+
+A Ktv. 31. §-a nem ad teljes, hanem csak korlátozott jogosultságot az önkormányzatoknak a helyi közúti jogviszonyok rendezésére. A korlátozás abban nyilvánul meg, hogy a képviselő-testület pusztán közhatalmi aktus meghozatalával nem írhat elő közútépítési hozzájárulást, de közútépítésben érdekeltek körét sem határozhatja meg egyoldalúan. A törvénysértés lakossági kifogásolásának elmaradásával sem indokolható meg az Ör. törvényellenessége. A Ktv. 31. § (1) bekezdése csak arra ad felhatalmazást a képviselő-testületnek, hogy a közút használatában érdekelt magánszemélyekkel és jogi személyekkel együttműködjék valamely helyi közút építésében vagy korszerűsítésében. Jogszerűen mutat rá a köztársasági megbízott arra, hogy az együttműködési lehetőség önkéntességet és mellérendeltséget tételez fel, nem pedig közhatalmi rendelkezés kibocsáthatását. Erre utal az idézett bekezdés utolsó mondata is: az útépítési együttműködés ,,formáját a résztvevők maguk határozzák meg''. Hatósági intézkedést is csak akkor tehet az önkormányzat, ha a Ktv. 31. § (2) bekezdésének rendelkezése szerint ,,az útépítési együttműködésben az érdekeltek több mint kétharmada részt vesz''. Ebben az esetben sem rendeletben meghatározott összegű, hanem ,,a résztvevők által vállalt anyagi hozzájárulás mértékéig'' terjedő útépítési hozzájárulás fizetésére kötelezheti a használatban érdekelt magán- vagy jogi személyeket.
+
+A Ktv. korlátozó rendelkezésével összhangban a Htv. sem hatalmazza fel a települési önkormányzatot arra, hogy egyszeri útépítési érdekeltségi hozzájárulás címen adójellegű köztartozást írjon elő. Az Ör. által meghatározott érdekeltségi hozzájárulás egyik — törvényesen bevezethető — helyi adó fajtájába sem sorolható be. A Htv. 48. §-a pedig úgy rendelkezik, hogy újonnan út- és közműfejlesztési hozzájárulás nem vethető ki.
+
+Mivelhogy az Ör. a Ktv. és a Htv. előírásaival ellentétes útépítési érdekeltségi kört és érdekeltségi hozzájárulást állapított meg, s annak adók módjára behajtható megfizetéséről rendelkezett, az Alkotmánybíróság a törvénysértő rendeletet megsemmisítette.
+
+4. Az Alkotmánybíróság — az Alkotmánybíróságról szóló 1989. évi XXXII. törvény 43. § (4) bekezdésében biztosított jogkörében eljárva — az Ör. kihirdetéséig visszamenő hatállyal semmisítette meg a rendeletet. A jogbiztonság érdeke ugyanis azt követeli meg, hogy ne kerüljenek hátrányba azok a magán- és jogi személyek, akik és amelyek — az Ör. törvényes voltában nem kételkedve — az előírt hozzájárulási összeget ténylegesen megfizették azokhoz képest, akik, illetve amelyek azt nem tették meg, s az Ör. megsemmisítése folytán erre már a jövőben nem is lennének kötelezhetők.
+
+Az Alkotmánybíróságnak az Ör.-t ex tunc hatállyal történt megsemmisítése azzal a következménnyel jár, hogy a község képviselő-testületének a Ktv. 31. §-a alapján az érdekelt magán- és jogi személyekkel együtt önkéntes együttműködési megállapodásban kell döntenie a helyi lakossági érdekeket szolgáló közutak építésének feltételeiről. Az együttműködési megállapodások függvényében lehet majd intézkedni a már megfizetett összegek jogszerű útépítési felhasználásáról, részleges vagy teljes visszafizetéséről, vagy akár felemeléséről is. A bármilyen formában megvalósuló együttműködés — a Ktv. 31. § (2) bekezdésében foglalt előírások teljesülése esetén — szolgál majd alapul a közutak használatában érdekelt, de az önkéntes együttműködést esetleg nem vállaló magán- és jogi személyek érdekeltségi hozzájárulás fizetésére való kötelezésének.
+
+Dr. Ádám Antal s. k.,
+
+alkotmánybíró
+
+Dr. Kilényi Géza s. k.,
+
+előadó alkotmánybíró
+
+Dr. Schmidt Péter s. k.,
+
+alkotmánybíró
+
+Alkotmánybírósági ügyszám: 909/H/1993.
