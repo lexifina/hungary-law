@@ -1,0 +1,1 @@
+A helyi önkormányzatokról szóló — többször módosított — 1990. évi LXV. törvény 97. §-ának b) pontjában, továbbá a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Kt.) 94. §-a (1) bekezdésének b) és h) pontjában foglalt felhatalmazás alapján a következőket rendelem el:

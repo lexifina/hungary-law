@@ -1,0 +1,3 @@
+## Az ÖNKORMÁNYZATI PEDAGÓGIAI-SZAKMAI SZOLGÁLTATÁST ELLÁTÓ INTÉZMÉNY
+
+## A pedagógiai intézet
