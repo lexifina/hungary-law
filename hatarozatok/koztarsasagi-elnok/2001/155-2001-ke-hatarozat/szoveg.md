@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Kovács Dezső határőr vezérőrnagy szolgálati viszonyát – érdemei elismerése mellett – a törvény erejénél fogva, 2001. december 18-i hatállyal megszüntetem és nyugállományba helyezem.
