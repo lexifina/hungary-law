@@ -1,0 +1,1 @@
+## 6. § Az Etv. 4. §-a (2) bekezdésének c) pontja alkalmazásában üzemfásításnak minősül a honvédelmi zárt objektumokhoz tartozó bekerített területeken lévő termelésből kivont, ötezer négyzetméternél kisebb erdei faállománnyal borított földrészlet.

@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya kiterjed az állami tulajdonban és honvédelmi kezelésben lévő, honvédelemi érdeket is szolgáló erdőterületek és fásítások (a továbbiakban: honvédelmi erdők és fásítások) egyes szabályaira.
