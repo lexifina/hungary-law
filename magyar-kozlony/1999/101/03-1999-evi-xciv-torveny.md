@@ -1,0 +1,95 @@
+# 1999. évi XCIV. törvény
+
+Magyar Közlöny 1999. évi 101. szám, 1999. november 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/eb96bbbae1b4a851cb6315421f82b715e5c32e87/dokumentumok/bf3e8f105861581c1e33a92f210b19f1314fd244/letoltes)
+
+---
+
+1999. évi XCIV.
+törvény
+az Országos Rádió és Televízió Testület
+1998. évi költségvetésének végrehajtásáról*
+Az Országgyűlés az Országos Rádió és Televízió Testü-
+let 1998. évi költségvetéséről szóló 1998. évi LXXXIII.
+törvényben meghatározott költségvetése végrehajtásáról a
+következő törvényt alkotja:
+A főösszegek alakulása
+1. § (1) Az Országgyűlés az ORTT 1998. évi költségve-
+tése végrehajtását 522,735 M Ft bevétellel és 512,246 M Ft
+kiadással jóváhagyja.
+(2) Az Országos Rádió és Televízió Testület 1998. évi
+költségvetése végrehajtásának mérlegét az 1. és 2. számú
+melléklet tartalmazza.
+A bevételek részletezése
+2. § (1) Az Országos Rádió és Televízió Testület általános
+működési és felhalmozási kiadásainak fedezetére, a Műsor-
+szolgáltatási Alap által az1996.éviI.törvény84.§-ának (2) és
+(3) bekezdése alapján átutalt összes támogatás 522 M Ft.
+(2) Az Országos Rádió és Televízió Testület összes
+működési bevétele 0,735 M Ft.
+A kiadások részletezése
+3. § (1) Az Országos Rádió és Televízió Testület általá-
+nos működési kiadásai összesen 499,090 M Ft, a felhalmo-
+zási kiadás 13,156 M Ft.
+(2) A működési kiadásokról 245,654 M Ft a személyi
+juttatás, 101,136 M Ft a munkaadókat terhelő járulék és
+152,300 M Ft a dologi kiadás.
+A pénzmaradvány jóváhagyása
+4. § (1) Az Országgyűlés az Országos Rádió és Televízió
+Testület 1998. évi pénzmaradványát, az éves mérleg forrá-
+sok oldalán szereplő összegével egyezően, 27,322 M Ft
+értékben hagyja jóvá.
+(2) A pénzmaradvány összege az 1998. évi kötelezettség-
+vállalások 1999. évre áthúzódó pénzügyi teljesítésének fe-
+dezetére használható azzal, hogy az 1997. évi 18,234 M Ft
+összegű pénzmaradvány szintén felhasználható az 1997.
+évről áthúzódó kiadások fedezetére.
+* A törvényt az Országgyűlés az 1999. november 9-i ülésnapján fo-
+gadta el.
+Záró rendelkezések
+5. § Az Országgyűlés felhatalmazza az Országos Rá-
+dió és Televízió Testületet arra, hogy az ORTT tárgyévi
+költségvetéséről szóló törvényben a meghatározott be-
+vételi főösszegen belül, annak terhére — a főösszeg
+változatlanul hagyása mellett — az időarányos finanszí-
+rozástól eltérjen.
+6. § Ez a törvény a kihirdetését követő 8. napon lép
+hatályba.
+Göncz Árpád s. k., Dr. Áder János s. k.,
+a Köztársaság elnöke az Országgyűlés elnöke
+1. számú melléklet
+az 1999. évi XCIV. törvényhez
+Az ORTT 1998. évi költségvetése
+végrehajtásának mérlege
+Bevételek
+Millió forintban
+Megnevezés
+Eredeti
+előirányzat
+Módosított
+előirányzat
+1998. évi
+teljesítés
+Törvény szerinti
+bevételek 522,000 522,000
+Működési bevételek 0,735 0,735
+Összesen 522,000 0,735 522,735
+2. számú melléklet
+az 1999. évi XCIV. törvényhez
+Az ORTT 1998. évi költségvetése
+végrehajtásának mérlege
+Kiadások
+Millió forintban
+Megnevezés
+Eredeti
+előirányzat
+Módosított
+előirányzat
+1998. évi
+teljesítés
+Személyi juttatások 244,440 245,654 245,654
+Munkaadókat
+terhelő járulékok 103,867 101,136 101,136
+Dologi kiadások 158,232 162,054 152,300
+Felhalmozási
+kiadások 15,461 13,156 13,156
+Összesen 522,000 522,000 512,246
