@@ -1,0 +1,1 @@
+22. § Az Országgyűlés felhatalmazza a Kormányt arra, hogy a Magyar Távirati Irodát — vállalkozássá való átalakításához kapcsolódva — mentesítse az Adó- és Pénzügyi Ellenőrzési Hivatalnál 1995. december 31-én fennálló 187 810,0 ezer forint adótartozásának megfizetése alól.

@@ -1,0 +1,1 @@
+14. § Az Országgyűlés elfogadja, hogy a pénzügyminiszter a Magyar Nemzeti Bankról szóló 1991. évi LX. törvény 22. §-a alapján 72 003,0 millió forint összegben bocsátott ki piaci kamatozású államkötvényt az MNB-vel szembeni kamatmentes lejárat nélküli költségvetési adósság átalakítása céljából.
