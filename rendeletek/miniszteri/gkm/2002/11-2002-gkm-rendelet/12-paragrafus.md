@@ -1,0 +1,3 @@
+## 11. § Ez a rendelet 2004. január 1. napján lép hatályba.
+
+12. § Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban – az e rendelet 2. §-ában hivatkozott nemzetközi egyezményeket, illetve szabályzatokat kihirdető külön jogszabályokkal együtt – a Tanácsnak a Közösség tagállamainak kikötőjébe irányuló vagy onnan induló forgalomban részt vevő személyhajókon utazó személyek regisztrálásáról szóló 98/41/EK irányelvével összeegyeztethető szabályozást tartalmaz.
