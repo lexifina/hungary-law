@@ -1,0 +1,3 @@
+1. § (1) Műemlék jellegűvé nyilvánítjuk a Vas megyei TÁPLÁNSZENTKERESZT község, Petőfi Sándor u. 20. szám, a 310. számú tulajdoni lapon, 257/3 hrsz. alatt, a Községi Önkormányzat tulajdonaként nyilvántartott lakóépületet. A műemléki védelem kiterjed a 2683 m2 területű ingatlan teljes területére, melléképítményekre, tartozékokra (burkolatok, nyílászárók, stukkódíszek stb.), valamint a berendezési tárgyakra.
+
+(2) A műemléki védettség elrendelésének célja a XVIII. század végén klasszicizáló késő barokk stílusban épült emeletes kastély egységes külső képének és belső beosztásának, valamint építészeti részleteinek megőrzése a megcsonkított kertjében.

@@ -1,0 +1,3 @@
+11. § (1) Műemlék jellegűvé nyilvánítjuk a Baranya megyei PÉCS város, Király u. 11. szám, 2306. számú tulajdoni lapon felvett, 17536 hrsz. alatt, a Baranya Megyei Közgyűlés tulajdonaként nyilvántartott Levéltár épületet. A műemléki védelem kiterjed a 3343 m2 ingatlan teljes területére (fő- és melléképület, támfalak), tartozékokra, a főépület földszinti helyiségeinek díszítőfestésére.
+
+(2) A védelem célja a pécsi Király utca egyik legkvalitásosabb középületének, az 1871–1872 között Ivánkovits István építész tervei szerint, a késő romantika és az érett historizmus közötti átmeneti stílusban a Pénzügyigazgatóság számára emelt épület értékeinek megőrzése.

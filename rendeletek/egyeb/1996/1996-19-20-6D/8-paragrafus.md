@@ -1,0 +1,3 @@
+8. § (1) Műemlék jellegűvé nyilvánítjuk a Baranya megyei VILLÁNY község, Móra Ferenc u. 1. szám, 113. számú tulajdoni lapon, 12 hrsz. alatt, a Villányi Görögkeleti Szerb Egyházközség tulajdonaként nyilvántartott görögkeleti szerb templomot. A műemléki védelem kiterjed a 935 m2 ingatlan teljes területére, az ingatlanon elhelyezkedő templomra és teljes belső berendezésére, a plébánia épületre és a falazott kerítésre.
+
+(2) A műemléki védelem célja a település szempontjából meghatározó épületegyüttes megőrzése. Az építészeti értékén kívül jelentős művészettörténeti értéket képviselő belső berendezés megőrzése a védelemmel biztosítható.
