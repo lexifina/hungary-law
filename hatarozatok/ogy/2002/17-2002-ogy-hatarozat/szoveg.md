@@ -1,0 +1,1 @@
+Az Országgyűlés elfogadja a Kormány által előterjesztett 2001. évről szóló Jelentést a kábítószer-probléma visszaszorítása érdekében készített nemzeti stratégiai program megvalósulásáról, az ellátó-intézményrendszer átvilágításáról és hatékonyságvizsgálatáról.
