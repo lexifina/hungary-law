@@ -1,0 +1,1 @@
+Az Országgyűlés hozzájárul ahhoz, hogy a HUNGALU Rt. fennálló, összesen 1723 M Ft állami kölcsön tartozását, valamint az 1991—92. években esedékes, 408 M Ft állami alapjuttatáshoz kapcsolódó járadékfizetési kötelezettségét a pénzügyminiszter az ÁFI tulajdonába kerülő HUNGALU részvénnyé átváltsa. Ennek fedezetét az államadósság 2131 M Ft összegű növelése képezi.
