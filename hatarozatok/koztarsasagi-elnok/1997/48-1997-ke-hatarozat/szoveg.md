@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére dr. Fazekas Attila rendőr dandártábornok szolgálati viszonyát – érdemei elismerése mellett – vele egyetértésben, 1997. augusztus 31-i hatállyal, felmentéssel megszüntetem.
