@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya közötti, Zalaegerszegen, 1995. október 20-án aláírt, a növényvédelmi együttműködésről szóló Egyezményt e rendelettel kihirdeti.
