@@ -1,0 +1,1 @@
+(A Megállapodás 6. Cikkének megfelelően a módosított Megállapodás 1990. február 2-án lépett életbe, amikor a Felek kölcsönösen értesítették egymást az életbelépéshez szükséges belső állami feltételek teljesüléséről.)
