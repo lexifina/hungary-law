@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Európa Tanács kiváltságairól és mentességeiről szóló, Párizsban, 1949. szeptember 2-án kelt és a Strasbourgban 1952. november 6-án kelt Jegyzőkönyvvel kiegészített Általános Megállapodást e törvénnyel kihirdeti.
