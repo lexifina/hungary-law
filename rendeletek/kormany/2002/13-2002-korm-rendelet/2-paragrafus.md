@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a magyarországi levéltárakban őrzött, védett személyes adatot tartalmazó Holocaust-dokumentumok másolatának a jeruzsálemi Yad Vashem, a Holocaust Mártírjai és Hősei Megemlékezési Hivatala részére történő átadása és felhasználása tárgyában készült adatvédelmi szerződést e rendelettel kihirdeti.
