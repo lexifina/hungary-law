@@ -1,0 +1,1 @@
+## 1. § A Magyar Köztársaság Kormánya, a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulást létesítő Európai Megállapodáshoz kapcsolódó, Brüsszelben, 1995. július 13. napján aláírt Kiegészítő Jegyzőkönyvet és az aláíráskor tett Nyilatkozatot e rendelettel kihirdeti.
