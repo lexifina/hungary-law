@@ -1,0 +1,1 @@
+## 5. § Ha a belföldi ösztöndíjas tudományos továbbképzési jogviszonya a továbbképzési idő letelte előtt, vagy a képzési idő leteltével, de eredménytelenül szűnik meg, a részére ösztöndíjként már kifizetett illetmény és pótlék visszakövetelésének nincs helye.

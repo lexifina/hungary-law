@@ -1,0 +1,1 @@
+## 7. § A belföldi ösztöndíjas tudományos továbbképzési jogviszonyára mindazokban az esetekben, amelyekről a jelen rendelet nem tartalmaz előírást, az ösztöndíjassal a felvételkor kötött megállapodásban foglaltakat kell alkalmazni.
