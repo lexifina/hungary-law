@@ -1,0 +1,1 @@
+A Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapról szóló 2003. évi LVIII. törvény (a továbbiakban: Wtv.) 10. §-ának (6) bekezdésében kapott felhatalmazás alapján a következőket rendeljük el:
