@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között az állampolgárok kölcsönös foglalkoztatása érdekében Pozsonyban, 1999. február 12. napján aláírt Egyezményt e rendelettel kihirdeti.
