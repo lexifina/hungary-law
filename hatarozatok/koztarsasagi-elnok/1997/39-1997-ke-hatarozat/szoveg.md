@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Misley Károly rendkívüli és meghatalmazott nagykövetet – a Magyar Köztársaság Buenos Aires-i nagykövetsége vezetésére kapott megbízása érintetlenül hagyása mellett – megbízom a Magyar Köztársaság Uruguayban való képviseletével.
