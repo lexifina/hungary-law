@@ -1,0 +1,1 @@
+## 3. § A magyar vámszervek kötelesek ellenőrizni, hogy a Szovjet Szocialista Köztársaságok Szövetségébe kivitelre vagy azon átvitelre kerülő árukhoz csatolták-e a magyar és szovjet törvényes rendelkezések által megkövetelt okmányokat és azok kitöltése nem hiányos-e. Az erre vonatkozó részletes rendelkezéseket külön utasítás fogja tartalmazni.
