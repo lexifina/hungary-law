@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Mátrai Márta országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 4.B.V.25.133/2004/4. számú megkeresésével érintett ügyben nem függeszti fel.
