@@ -1,0 +1,1 @@
+A Magyar Köztársaság ügyészségéről szóló – többször módosított – 1972. évi V. törvény (a továbbiakban: Ütv.) 19. §-ának (1) bekezdésében foglalt hatáskörömben a Magyar Köztársaság ügyészi szerveit és székhelyüket a következők szerint határozom meg:
