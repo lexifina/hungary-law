@@ -1,0 +1,1 @@
+7. § Az Országgyűlés tudomásul veszi, hogy a Bős-Nagymaros Vízlépcsőhöz kapcsolódó hitelt az osztrák partner adósságelengedés miatt visszafizetettnek tekinti. Ezen adósságelem – az osztrák hitelnyújtó fél értesítése szerint – 2001. december 18-ával megszűnt. Ennek következtében a központi költségvetés adóssága 4150,9 millió forinttal csökkent.

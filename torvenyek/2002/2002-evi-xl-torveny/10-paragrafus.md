@@ -1,0 +1,1 @@
+10. § Az Országgyűlés tudomásul veszi, hogy a helyi önkormányzatok a Magyar Köztársaság 2000. évi költségvetésének végrehajtásáról szóló 2001. évi LXXV. törvény (a továbbiakban: 2000. évi Zárszámadási Törvény) 8. §-ának (3), (4) és (6) bekezdésében előírt összesen 2499,4 millió forint és annak késedelmi kamatokkal növelt befizetési kötelezettségét teljesítették.

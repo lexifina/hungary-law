@@ -1,0 +1,1 @@
+19. § Az Országgyűlés elrendeli, hogy a Ztv. 21. §-ának b) pontjában előírt beszedéshez az Országos Nyugdíjbiztosítási Főigazgatóság adja át a behajtható adósállomány analitikáját az Adó- és Pénzügyi Ellenőrzési Hivatal (a továbbiakban: APEH) számára legkésőbb 2002. december 31-ig.

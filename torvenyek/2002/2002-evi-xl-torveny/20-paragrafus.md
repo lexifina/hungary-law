@@ -1,0 +1,3 @@
+20. § (1) Az Országgyűlés jóváhagyja hogy a központi költségvetésnek a XXII. Pénzügyminisztérium fejezet, 13. cím, 2. alcím, 5. Kárrendezési célelőirányzat jogcímcsoporttal szemben 2001. december 31-én fennálló 1,4 milliárd forint összegű indulóvagyon-feltöltési kötelezettségét nem kell megfizetnie.
+
+(2) Az Országgyűlés az ÁPV Rt.-nek a Kárrendezési célelőirányzattal szemben 2001. december 31-én fennálló, 3,6 milliárd forintot kitevő – tőke és kamat – kötelezettségét elengedi, amely kötelezettség 1991. előtt a kötelező gépjármű-biztosítás körében bekövetkezett károk okozta veszteségek fedezetéről szóló megállapodás alapján áll fenn.
