@@ -1,0 +1,1 @@
+## 5. § Az önhibájukon kívül hátrányos helyzetben lévő (forráshiányos) helyi önkormányzatok támogatására és a bérkiadásaikhoz kapott kiegészítő támogatás elszámolásakor megállapított visszafizetési kötelezettségeket a 6. és 7. számú melléklet tartalmazza.

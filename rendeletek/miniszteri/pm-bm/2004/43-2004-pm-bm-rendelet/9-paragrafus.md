@@ -1,0 +1,1 @@
+## 8. § A 2002. december 31-én feladattal terhelt központosított és normatív, kötött felhasználású támogatásokból fel nem használt összegek elszámolását – figyelemmel az Állami Számvevőszék megállapításaira – a 10. és 11. számú melléklet tartalmazza.

@@ -1,0 +1,1 @@
+## 7. § A személyi jövedelemadó differenciálódás mérséklésének elszámolásakor megállapított visszafizetési kötelezettségeket – figyelemmel az Állami Számvevőszék vizsgálatára – a 9. számú melléklet tartalmazza.

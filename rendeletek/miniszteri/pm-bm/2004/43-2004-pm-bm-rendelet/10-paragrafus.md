@@ -1,0 +1,1 @@
+## 9. § Az Állami Számvevőszék által 2003. évben feltárt, a helyi önkormányzatok részéről jogtalanul igénybe vett céltámogatások, céljellegű decentralizált támogatások, valamint területi kiegyenlítést szolgáló fejlesztési célú támogatások visszafizetési kötelezettségeinek önkormányzatok szerinti részletezését a 12., 13. és 14. számú melléklet tartalmazza.

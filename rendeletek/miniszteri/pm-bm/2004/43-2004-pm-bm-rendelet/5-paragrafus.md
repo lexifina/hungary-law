@@ -1,0 +1,1 @@
+## 4. § A központosított előirányzatok, az egyes jövedelempótló támogatások kiegészítése és az önkormányzatok által szervezett közcélú foglalkoztatás támogatásának önkormányzatonkénti elszámolását – figyelemmel az Állami Számvevőszék megállapításaira – az 5. számú melléklet tartalmazza.
