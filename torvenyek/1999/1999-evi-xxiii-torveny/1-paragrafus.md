@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és Románia között a beruházások ösztönzéséről és kölcsönös védelméről Bukarestben, 1993. szeptember 16-án aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1996. május 6-án megtörtént, és a Megállapodás 1996. május 6-án hatályba lépett.)
