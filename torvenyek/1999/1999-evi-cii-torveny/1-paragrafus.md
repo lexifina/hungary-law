@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Egyiptomi Arab Köztársaság között a polgári és kereskedelmi jogsegélyről szóló, Kairóban, 1996. március 26. napján aláírt Egyezményt e törvénnyel kihirdeti.
