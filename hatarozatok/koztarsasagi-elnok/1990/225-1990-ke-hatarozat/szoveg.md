@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére dr. Héra Attila tűzoltó vezérőrnagyot, a Tűzoltóság Országos Parancsnokát, e beosztásából, 1990. szeptember 30-ai hatállyal – érdemei elismerése mellett – nyugállományba vonulása alkalmából felmentem.
