@@ -1,0 +1,3 @@
+## 1. §[^1] Az illetékhivatal a magánszemély vagyonszerző kérelmére mellőzi a visszterhes vagyonátruházási illeték megállapítását (kiszabását) az olyan lakástulajdon után, amelyet a vagyonszerző az életveszélyessé vált, bontásra ítélt vagy már elbontott lakástulajdona pótlásához nyújtott vissza nem térítendő állami támogatásból vásárolt, feltéve, hogy a vagyonszerzőnek nincs másik lakástulajdona, illetve másik lakástulajdonban 50%-ot elérő tulajdoni hányada.
+
+[^1]: Az 1. § a 35/2003. (XII. 19.) PM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 2. §-a alapján rendelkezéseit 2003. március 31-e után megkötött adásvételi szerződések esetén kell alkalmazni.
