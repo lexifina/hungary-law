@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Olasz Köztársaság között Budapesten, 1991. július 6-án aláírt barátsági és együttműködési Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítő okiratait Rómában, 1996. február 14-én kicserélték, és a Szerződés ezen a napon hatályba lépett.)
