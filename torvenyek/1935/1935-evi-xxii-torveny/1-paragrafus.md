@@ -1,0 +1,1 @@
+1. § Az 1934. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a foglalkozási betegségek kártalanítása tárgyában tervezett alakjában elfogadott nemzetközi (módosított) egyezmény az ország törvényei közé iktattatik.

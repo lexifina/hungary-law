@@ -1,0 +1,1 @@
+3. § A minisztérium felhatalmazást kap, hogy a silicosis nevű foglalkozási betegséggel és a zsírsorozat szénhidrogénjeinek halogén vegyületei által okozott mérgezésekkel vonatkozásban rendelettel állapítsa meg azokat a foglalkozásokat, iparokat vagy eljárásokat, amelyekre e törvény hatálya kiterjed.
