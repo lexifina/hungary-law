@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Kormánya és a Kínai Népköztársaság között a beruházások elősegítéséről és kölcsönös védelméről Budapesten, 1991. május hó 29. napján aláírt Megállapodást e határozattal megerősíti.
