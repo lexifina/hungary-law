@@ -1,0 +1,1 @@
+## 1. § A polgári nemzetbiztonsági szolgálatoknál (a továbbiakban: szolgálatok) a munkaügyi ellenőrzést a Miniszterelnöki Hivatal Nemzetbiztonsági Irodájának (a továbbiakban: NBI) ellenőrző szerve (a továbbiakban: ellenőrző szerv) látja el.

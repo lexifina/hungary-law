@@ -1,0 +1,1 @@
+## 5. § A szolgálatok belső ellenőrzési feladatokat ellátó szervei is kötelesek a törvény 3. §-ának (1) bekezdésében foglaltakat helyi ellenőrzés keretében kétévente ellenőrizni, és ennek eredményéről a második év III. negyedév végén jelentést tenni az NBI felé.

@@ -1,0 +1,1 @@
+A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény (a továbbiakban: törvény) 1. §-ának (6) bekezdésében foglalt felhatalmazás alapján – figyelemmel a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 11. §-a (2) bekezdésének g) pontjában foglaltakra – a következőket rendelem el:
