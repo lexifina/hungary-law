@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya között az idegenforgalom területén való együttműködésről szóló, Budapesten, 1998. október 19. napján aláírt Megállapodást e rendelettel kihirdeti.
