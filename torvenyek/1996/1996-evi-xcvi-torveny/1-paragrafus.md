@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Lengyel Köztársaság között a beruházások kölcsönös elősegítéséről és védelméről Budapesten, 1992. szeptember 23-án aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1995. június 16-án megtörtént. Ennek megfelelően a Megállapodás 1995. június 16-án hatályba lépett.)
