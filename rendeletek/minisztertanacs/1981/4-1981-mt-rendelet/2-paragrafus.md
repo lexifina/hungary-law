@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Osztrák Szövetségi Kormány között Bécsben, 1980. október 17. napján aláírt idegenforgalmi együttműködési egyezményt e rendelettel kihirdeti.
