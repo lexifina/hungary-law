@@ -1,0 +1,1 @@
+A Kormány megadja a felmentést az igazságügy-miniszter számára a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 87. §-ának (1) bekezdése szerinti rendeletalkotási kötelezettsége alól. A felmentés nem terjed ki a büntetés-végrehajtási szervezetek szolgálati lakásaira.
