@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Cseh Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről Prágában, 1993. január 14-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1995. május 15-én megtörtént. Ennek megfelelően a Megállapodás 1995. május 15-én hatályba lépett.)
