@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Ciprusi Köztársaság Kormánya között az idegenforgalmi együttműködés tárgyában Budapesten az 1977. április 15-én aláírt egyezményt e rendelettel kihirdeti.
