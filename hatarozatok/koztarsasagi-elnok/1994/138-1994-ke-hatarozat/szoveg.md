@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Somogyszob község Darvaspuszta, Kanizsaberek és Kaszópuszta elnevezésű településrészét Kaszó néven községgé nyilvánítom a következő önkormányzati általános választás napjával.
