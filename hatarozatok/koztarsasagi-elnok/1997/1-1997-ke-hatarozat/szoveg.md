@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Czeglédi János főkonzult – érdemei elismerése mellett – felmentem a rangja, valamint a Magyar Köztársaság moszkvai nagykövetsége konzuli osztályának vezetésére kapott megbízása alól.
