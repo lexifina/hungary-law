@@ -1,0 +1,1 @@
+A Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek használatáról szóló 1995. évi LXXXIII. törvény 1. §-ának (2) bekezdésében, valamint a 21. §-a (1) bekezdésének a) pontjában kapott felhatalmazás alapján – az érintett miniszterekkel egyetértésben – a következőket rendelem el:
