@@ -1,0 +1,1 @@
+A Minisztertanács elnökének előterjesztésére dr. Kunos Péter pénzügyminisztériumi államtitkárt e tisztségéből – saját kérésére, érdemei elismerésével – a Magyar Köztársaság új Minisztertanácsa hivatalba lépésének napjával felmentem.
