@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Demeter Ervin országgyűlési képviselő mentelmi jogát a Budapesti II. és III. kerületi Bíróság 9.B.III.1433/2004/3. számú megkeresésével érintett ügyben nem függeszti fel.
