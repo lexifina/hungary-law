@@ -1,0 +1,1 @@
+Az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény 10. § (2) bekezdésének b) pontjában kapott felhatalmazás alapján – 2016/2004. (I. 22.) Korm. határozatban foglaltakra is figyelemmel – a következőket rendelem el:

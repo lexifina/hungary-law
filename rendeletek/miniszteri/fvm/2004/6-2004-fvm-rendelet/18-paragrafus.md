@@ -1,0 +1,5 @@
+18. § (1) Az Európa hitelhez kapcsolódó 8. § (1) bekezdése, a 9. § c) pontja és a 14. § (1) bekezdése szerinti támogatások a 0411. számú ,,Bevallás az államháztartással szembeni egyes juttatások igényléséről'' nyomtatvány felhasználásával igényelhetők a XII. FVM fejezet 10. cím, 5. alcím ,,Folyó kiadások és jövedelemtámogatások'' előirányzat terhére a 10032000-01905616 APEH Agrárfinanszírozás támogatása lebonyolítási számláról az illetékes adóhatóságtól.
+
+(2) A kamattámogatást igénylőnek az (1) bekezdés szerinti nyomtatványhoz csatolnia kell a pénzügyi intézménynek az esedékes kamatmegfizetéséről szóló igazolását, valamint első igényléskor a záradékolt hitelkérelem eredeti példányát. A kamattámogatás kiszámításának módját e rendelet 2. számú melléklete tartalmazza. Integrátor igénylő esetében az előzőeken túlmenően csatolni kell az integrációs szerződésekről készített összesítő kimutatást is.
+
+(3) A kezességvállalási díjtámogatás a kezességvállalási szerződés szerinti díjfizetés gyakoriságának megfelelően igényelhető. Az igényléshez csatolni kell a pénzügyi intézmény díjfizetési igazolását.
