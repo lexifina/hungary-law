@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között Budapesten, 2001. február 2-án aláírt, a nemzetközi gépjárműközlekedésről szóló Egyezményt e rendelettel kihirdeti.
