@@ -1,0 +1,1 @@
+(A Magyar Népköztársaság Kormányának jóváhagyásáról szóló értesítése az 1984. évi március hó 14. napján megtörtént. Az egyezmény a Magyar Népköztársaság vonatkozásában az 1985. évi július hó 6. napján lépett hatályba.)
