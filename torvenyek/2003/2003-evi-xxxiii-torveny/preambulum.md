@@ -1,0 +1,1 @@
+(A Magyar Köztársaság csatlakozási okiratának letétbe helyezése a Letéteményesnél 2002. december 17-én megtörtént. A Megállapodás a Magyar Köztársaság tekintetében 2003. március 1-jén lépett hatályba.)

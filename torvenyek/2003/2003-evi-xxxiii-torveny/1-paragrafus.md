@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Kormány előterjesztésére a Magyar Köztársaságnak az afrikai-eurázsiai vándorló vízimadarak védelméről szóló, Hágában, 1995. június 16-án aláírt nemzetközi megállapodáshoz (a továbbiakban: Megállapodás) történő csatlakozását – a 3. §-ban foglalt szövegű fenntartással – e törvénnyel kihirdeti.
