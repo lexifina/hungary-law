@@ -1,0 +1,1 @@
+## 1. § A Kormány az ENSZ Élelmezési és Mezőgazdasági Szervezete Konferenciájának 31. ülésszakán, Rómában, 2001. november 3-án elfogadott, az élelmezési és mezőgazdasági célú növényi génforrásokról szóló nemzetközi Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.

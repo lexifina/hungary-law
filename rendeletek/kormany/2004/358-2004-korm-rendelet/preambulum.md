@@ -1,0 +1,1 @@
+(A Magyarország csatlakozásáról szóló okirat letétbe helyezése 2004. március 4. napján megtörtént, az Egyezmény – 28. cikkének 1. bekezdése értelmében – a Magyar Köztársaság vonatkozásában 2004. június 29-én hatályba lépett.)
