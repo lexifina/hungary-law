@@ -1,0 +1,1 @@
+1. § Az 1929. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a hajón szállított nehéz csomagok súlyának megjelölése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény az ország törvényei közé iktattatik.
