@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Televízió, a Magyar Rádió és a Hungária Televízió Közalapítványok kiegészítő támogatásáról szóló 108/1999. (XII. 22.) OGY határozat 2. pontját hatályon kívül helyezi, a többi pont számozása értelemszerűen változik.
