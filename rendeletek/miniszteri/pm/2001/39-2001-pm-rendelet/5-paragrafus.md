@@ -1,0 +1,3 @@
+5. § (1) A Kat. alapján kihirdetett katasztrófahelyzetben, továbbá a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény alapján kihirdetett veszélyhelyzetben, illetve szükségállapotban a minisztériumban a kialakult helyzet értékelése, elemzése és a döntési javaslatok előkészítése érdekében elkülönített munkacsoportot (a továbbiakban: munkacsoport) kell működtetni.
+
+(2) A munkacsoportot a felkészülés időszakában kell létrehozni és állományát felkészíteni. Vezetőjét és összetételét a közigazgatási államtitkár határozza meg. A munkacsoport az ügyrendjét maga határozza meg, azt a közigazgatási államtitkár hagyja jóvá.
