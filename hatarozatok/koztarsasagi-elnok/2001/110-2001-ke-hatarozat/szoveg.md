@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Jaczkovits Miklós rendkívüli és meghatalmazott nagykövetet megbízom a Magyar Köztársaság almati nagykövetségének vezetésével, valamint a Magyar Köztársaság képviseletével a Tadzsik Köztársaságban és a Kirgiz Köztársaságban.
