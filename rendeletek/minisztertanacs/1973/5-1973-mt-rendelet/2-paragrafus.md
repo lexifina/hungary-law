@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között a postai és távközlési együttműködés tárgyában Budapesten, az 1972. évi október hó 13. napján aláírt egyezményt e rendelettel kihirdeti.
