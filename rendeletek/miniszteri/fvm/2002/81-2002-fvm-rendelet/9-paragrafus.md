@@ -1,0 +1,3 @@
+9. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2) E rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban szabályozási körében az Európai Közösségeknek a Tanács az állatokban és állati eredetű termékekben előforduló meghatározott zoonózisok és meghatározott zoonózis-kórokozók elleni, valamint az élelmiszerből származó fertőzések és mérgezések megelőzése érdekében tett óvintézkedésekről szóló 92/117/EGK irányelvével összeegyeztethető szabályozást tartalmaz.

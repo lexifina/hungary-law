@@ -1,0 +1,3 @@
+5. § (1) A külön jogszabály alapján működő hatóságilag engedélyezett vágóhidak és élelmiszer-előállító üzemek az 1. számú mellékletben meghatározott zoonózisokra irányuló laboratóriumi vizsgálatok eredményeit kötelesek tíz évig megőrizni, és szükség esetén ellenőrzésre vagy járványügyi nyomozás lefolytatására az arra jogosult rendelkezésére bocsátani.
+
+(2) A laboratóriumok kötelesek az 1. számú melléklet szerinti zoonózisok kórokozóinak laboratóriumi diagnosztikai vizsgálatokkal történő meghatározása esetén az illetékes állomást, valamint az ÁNTSZ megyei (fővárosi) intézetét haladéktalanul értesíteni.
