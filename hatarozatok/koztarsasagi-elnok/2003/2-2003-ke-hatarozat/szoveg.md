@@ -1,0 +1,3 @@
+Az Országos Igazságszolgáltatási Tanács előterjesztésére a bíróságok szervezetéről és igazgatásáról szóló 1997. évi LXVI. törvénynek a Fővárosi Bíróság és a megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illetékességi területéről rendelkező melléklete I. Részét 2002. december 1. napjával akként módosítom, hogy a 14/1. pont Remeteszőlős, a 12/3. pont Ászár, a 14/11. pont Csörög, a 7/3. pont Daruszentmiklós, a 8/2. pont Károlyháza, a 13/3. pont Rákóczibánya, a 10/1. pont Szarvaskő, a 16/1. pont Szorgalmatos, a 11/6. pont Tiszaszőlős, valamint a 15/5. pont Zsákányfalu községekkel egészül ki.
+
+KEH ügyszám: I-1/0053-0/2003.
