@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között Poprádon, 1998. január 29-én aláírt, a vámügyekben történő kölcsönös segítségnyújtásról szóló Megállapodást e rendelettel kihirdeti.
