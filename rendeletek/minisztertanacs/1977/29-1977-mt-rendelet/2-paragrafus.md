@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Portugál Köztársaság Kormánya között Lisszabonban az 1976. évi március hó 19. napján idegenforgalmi együttműködés tárgyában aláírt egyezményt e rendelettel kihirdeti.
