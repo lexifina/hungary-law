@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és az Indonéz Köztársaság Kormánya között a beruházások ösztönzéséről és védelméről Jakartában, 1992. május 20-án aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1995. november 13-án megtörtént, és a Megállapodás 1996. február 13-án hatályba lépett.)
