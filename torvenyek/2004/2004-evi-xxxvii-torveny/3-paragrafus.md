@@ -1,0 +1,1 @@
+3. § A Jegyzőkönyv rendelkezéseinek alkalmazása során a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény rendelkezéseit értelemszerűen alkalmazni kell, ha a Jegyzőkönyvből más nem következik.
