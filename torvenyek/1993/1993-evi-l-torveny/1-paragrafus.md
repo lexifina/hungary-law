@@ -1,0 +1,3 @@
+1. § (1) A helyi önkormányzatok központi támogatással folyamatban lévő beruházásaihoz kapcsolódó, az 1993. és az azt követő évek címzett támogatásainak önkormányzatonkénti és címenkénti részletezését az 1. számú melléklet tartalmazza.
+
+(2) A Fejér megyei Szent György Kórház; a gyöngyösi Bugát Pál Kórház; a Szabolcs-Szatmár-Bereg megyei Jósa András Kórház-Rendelőintézet; a mátészalkai II. Rákóczi Ferenc Kórház, továbbá a Zala megyei Megyei Kórház rekonstrukciójának szakmai tartalmát és beruházási összköltségét — a jelentős költségnövekedésre tekintettel — felül kell vizsgálni. A beruházás összköltségét, a bevonható saját forrást és az éves támogatási összegeket az 1993-ban kezdődő új címzett támogatási igényeket jóváhagyó törvényben kell meghatározni.
