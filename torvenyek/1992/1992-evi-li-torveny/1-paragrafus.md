@@ -1,0 +1,3 @@
+1. § (1) A törvény hatálya kiterjed a Kormány, a Kincstári Vagyoni Igazgatóság, valamint az Országos Munkaügyi Tanácsban képviselt hat érdekképviseleti szervezet által a Magyar Nemzeti Üdülési Alapítvány (a továbbiakban: Alapítvány) javára felajánlott vagyonra.
+
+(2) Az Alapítvány tulajdonába kerülő vagyonra a társadalmi szervezetek kezelői jogának megszüntetéséről szóló, többször módosított 1990. évi LXX. törvény 6. § (2) bekezdésének, valamint a szakszervezeti vagyon védelméről, a munkavállalók szervezkedési és szervezeteik működésének esélyegyenlőségéről szóló 1991. évi XXVIII. törvény (a továbbiakban: Tv.) 2. §-ának és 10. §-ának rendelkezéseit nem kell alkalmazni.
