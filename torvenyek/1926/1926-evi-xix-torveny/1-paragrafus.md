@@ -1,0 +1,1 @@
+1. § A polgári eljárásra vonatkozólag az 1905. évi július hó 17-én Hágában kelt és az 1909 :XIV. törvénycikkbe iktatott nemzetközi egyezmény 27. cikkének módosítása céljából az 1924. évi július hó 4-én Hágában kelt Jegyzőkönyv az ország törvényei közé iktattatik.
