@@ -1,0 +1,3 @@
+1. § A Magyar Köztársaság Országgyűlése a Cseh Köztársaság, a Magyar Köztársaság, a Lengyel Köztársaság, a Szlovák Köztársaság, a Szlovén Köztársaság és Románia között 1997. április 12-én, Bukarestben aláírt, a Románia Közép-európai Szabadkereskedelmi Megállapodáshoz történő csatlakozásáról szóló Megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.
+
+(A Megállapodás a Magyar Köztársaság Országgyűlése általi megerősítéséről szóló okirat letétbe helyezése 1997. év november hónap 14. napján megtörtént; a Letéteményes értesítése szerint a Megállapodás – annak 14. Cikk 1. bekezdése értelmében – 2002. év június hónap 9. napján hatályba lépett.)
