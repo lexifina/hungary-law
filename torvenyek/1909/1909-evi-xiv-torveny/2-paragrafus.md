@@ -1,0 +1,1 @@
+2. § Felhatalmaztatik az igazságügyminister, hogy a jelen törvénynyel beczikkelyezett egyezmény folytán szükséges eljárást rendelettel szabályozza. Horvát-Szlavonországokban ezen eljárás szabályozása iránt Horvát-Szlavon- és Dalmátországok bánja intézkedik.
