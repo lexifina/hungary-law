@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Ukrán Köztársaság Kormánya között Kijevben, 1995. május 19-én aláírt, a növényegészségügyi és a növényvédelmi együttműködésről szóló egyezményt e rendelettel kihirdeti.
