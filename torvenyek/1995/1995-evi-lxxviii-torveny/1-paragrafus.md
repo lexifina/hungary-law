@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Litván Köztársaság közötti, Vilniusban, 1992. augusztus 8-án aláírt, baráti kapcsolatok és együttműködés alapjairól szóló Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló okiratok cseréje 1994. június 8-án lezajlott, és a Szerződés ezen a napon hatályba lépett.)
