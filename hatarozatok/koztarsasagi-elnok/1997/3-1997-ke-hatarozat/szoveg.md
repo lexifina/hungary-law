@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Basch Andrást kinevezem főkonzullá, és megbízom a Magyar Köztársaságnak Sao Paulo Állam, Paraná Állam, Santa Catarina Állam és Rio Grande do Sul Állam területére kiterjedő hatáskörrel működő Sao Pauló-i főkonzulátusa vezetésével.
