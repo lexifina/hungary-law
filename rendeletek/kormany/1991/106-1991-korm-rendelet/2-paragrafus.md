@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között Budapesten, 1989. december 18. napján aláírt ,,magyar munkavállalók foglalkoztatásáról szakmai és nyelvi ismereteik bővítése céljából'' című megállapodás módosítását kihirdeti.
