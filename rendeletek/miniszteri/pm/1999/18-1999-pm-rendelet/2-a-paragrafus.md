@@ -1,0 +1,1 @@
+## 2. § A vagyonszerző a megsemmisült lakás tulajdoni viszonyait hiteles tulajdoni lap másolatával, az 1. § (1) bekezdése a) pontjában foglaltakat pedig erről szóló nyilatkozatával igazolja a visszterhes vagyonátruházási illeték megállapítására (kiszabására) illetékes illetékhivatalnál. Az illetékhivatal a nyilatkozatban foglaltakat ellenőrzi.
