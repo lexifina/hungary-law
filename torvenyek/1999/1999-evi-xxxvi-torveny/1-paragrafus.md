@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és Románia Kormánya közötti együttműködésről a katonai szállítások területén Félixfürdőn, 1997. december 20-án aláírt Megállapodást (a továbbiakban: Megállapodás) e törvénnyel megerősíti.
