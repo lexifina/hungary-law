@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Horvát Köztársaság között 1995. december 7-én, Budapesten aláírt békéltetési és választott bírósági szerződést e törvénnyel kihirdeti. (A szerződés megerősítéséről szóló jegyzékváltás 1999. február 23-án megtörtént, és a szerződés ezen a napon, azaz 1999. február 23-án hatályba lépett.)
