@@ -1,0 +1,1 @@
+A Közbeszerzések Tanácsának az 1995. november 1.–1996. december 31. közötti időszakban végzett tevékenységéről, valamint a közbeszerzések tisztaságával és átláthatóságával kapcsolatos tapasztalatairól szóló jelentését az Országgyűlés elfogadja.
