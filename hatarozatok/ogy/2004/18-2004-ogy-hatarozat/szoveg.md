@@ -1,0 +1,3 @@
+1. Az Országgyűlés nem fogadja el a Magyar Rádió Közalapítvány Kuratóriuma 2002. április 1.–2003. március 27. közötti tevékenységéről szóló beszámolót.
+
+2. Az Országgyűlés felkéri a Magyar Rádió Közalapítvány Kuratóriumát, hogy az érdemi döntések előtt tájékoztassa az Országgyűlést az ingatlanvagyon értékesítését érintő elképzelésekről. Ugyancsak felkéri: tegyen határozott lépéseket annak érdekében, hogy a Magyar Rádió szüntesse meg az 1996. évi I. törvénnyel, a Magyar Rádió Közszolgálati Műsorszolgáltatási Szabályzatával és az Rt. elnöki utasításaival összeegyeztethetetlen tevékenységét, szólítsa fel a Magyar Rádió elnökét, hogy közszolgálati intézmény vezetőjeként és megjelenítőjeként ne vállaljon nyilvános politikai szerepet.
