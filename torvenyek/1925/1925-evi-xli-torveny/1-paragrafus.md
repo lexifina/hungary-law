@@ -1,0 +1,1 @@
+1. § A nemzetközi kereskedelmi statisztika létesítése tárgyában Brüsszelben 1913. évi december hó 31. napján kelt egyezmény az abban említett függelékekkel és a jegyzőkönyvvel együtt a magyar állam törvényei közé iktattatik.
