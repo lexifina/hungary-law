@@ -1,0 +1,69 @@
+## 1. § A gyümölcsborok előállítása során a felhasználható anyagokra, a minőségi követelményekre, valamint megnevezésükre az e rendelet mellékletében meghatározott előírásokat kell alkalmazni.
+
+2. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, egyidejűleg az egyéb borok előállításának, minőség-ellenőrzésének és fogyasztói forgalomba hozatalának szakmai szabályairól szóló 54/2000. (VIII. 11.) FVM rendelet hatályát veszti.
+
+Melléklet a 116/2004. (VII. 9.) FVM–ESZCSM–GKM
+
+együttes rendelethez
+
+1. Felhasználható anyagok:
+
+a) Friss vagy hűtéssel tartósított gyümölcsből előállított gyümölcslé, koncentrátumból (sűrítményből) előállított gyümölcslé, vagy visszahígított sűrített gyümölcslé, a szőlő kivételével;
+
+b) Méz;
+
+c) Víz;
+
+d) Cukor;
+
+e) Izoglükózszirup;
+
+f) Mezőgazdasági eredetű etil-alkohol, az alkoholtartalom beállításához, legfeljebb a késztermék alkoholtartalmának 20%-áig;
+
+g) Szén-dioxid a szénsavas gyümölcsborokhoz;
+
+h) Adalékanyagok a Magyar Élelmiszerkönyv előírásai szerint.
+
+2. Gyümölcstartalom:
+
+a) Alma, körte és méz esetében a végtermék alkoholtartalmának legalább 50%-a gyümölcsléből származzon;
+
+b) Egyéb gyümölcsök esetében a végtermék alkoholtartalmának legalább 30%-a gyümölcsléből származzon.
+
+3. Minőségi követelmények:
+
+a) Alkoholtartalom, % (V/V) 1,2–14
+
+b) Illósav-tartalom, ecetsavban kifejezve, g/l, legfeljebb
+
+ba) száraz: 1,2
+
+bb) félszáraz: 1,4
+
+bc) félédes: 1,4
+
+bd) édes: 1,4
+
+c) Összessav-tartalom, borkősavban kifejezve, g/l 4–10
+
+d) Cukortartalom, g/l
+
+da) száraz: 0–15
+
+db) félszáraz: 15,1–25
+
+dc) félédes: 25,1–40
+
+dd) édes: 40 felett
+
+e) Cukormentes extrakt-tartalom, g/l, legalább
+
+ea) almabor: 16
+
+eb) egyéb gyümölcsbor: 20
+
+4. Megnevezés:
+
+A termék megnevezése a felhasznált gyümölcs, illetve méz nevét, a „bor” szót, valamint a cukortartalomnak megfelelően a „száraz”, „félszáraz”, „félédes” vagy „édes” szavak egyikét tartalmazza.
+
+Ha az alap gyümölcsléhez 10% (V/V)-nál több más gyümölcslevet adnak, a gyümölcs neve helyett a „vegyes” szót kell feltüntetni.
