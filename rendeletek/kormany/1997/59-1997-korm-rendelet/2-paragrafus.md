@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság és az Osztrák Köztársaság között Budapesten, 1993. június 23-án aláírt a betegszállító, kutató- és mentőrepülések megkönnyítéséről szóló Egyezményt e rendelettel kihirdeti.
