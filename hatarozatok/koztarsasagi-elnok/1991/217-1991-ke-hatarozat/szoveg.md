@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére elhatározom nagykövetség létesítését a Fülöp-szigeteki Köztársaság fővárosában Manilában és a Malájziai Államszövetség fővárosában, Kuala Lumpurban, a kabuli, a vientianei és a Dar es Salaam-i nagykövetség egyidejű bezárásával.
