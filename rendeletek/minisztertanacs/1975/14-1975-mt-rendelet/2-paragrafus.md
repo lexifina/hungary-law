@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Koreai Népi Demokratikus Köztársaság Kormánya között az egészségügyi együttműködésről szóló, Budapesten 1974. június hó 24. napján aláírt Egyezményt e rendelettel kihirdeti.
