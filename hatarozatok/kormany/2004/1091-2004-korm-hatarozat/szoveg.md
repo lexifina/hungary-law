@@ -1,0 +1,1 @@
+Az M5-ös autópálya matricás rendszerbe történő bekapcsolásával kapcsolatban meghozott 90/2004. (IX. 23.) OGY határozat 4. pontja alapján a Kormány jóváhagyja az M5-ös autópálya megépítését követő időszakra a kamatváltozás kockázatának az állam által történő átvállalását, és a koncessziós szerződés ennek megfelelő módosítását.
