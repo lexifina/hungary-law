@@ -1,0 +1,3 @@
+1. § (1) Az Európai Unió irányelveiben meghatározott állatorvosi bizonyítványmintákat a Földművelésügyi és Vidékfejlesztési Értesítőben, valamint a Földművelésügyi és Vidékfejlesztési Minisztérium internetes honlapján, közlemény formájában kell közzétenni.
+
+(2) Az Áet. 18. §-ának (1) bekezdésében meghatározott áruk tagállamok közötti kereskedelméhez, valamint harmadik országból történő behozatalához szükséges állatorvosi bizonyítványmintákat, továbbá a vonatkozó ország-, régió- és üzemlistákat a Földművelésügyi és Vidékfejlesztési Értesítőben, valamint a Földművelésügyi és Vidékfejlesztési Minisztérium internetes honlapján, közlemény formájában közzé lehet tenni.
