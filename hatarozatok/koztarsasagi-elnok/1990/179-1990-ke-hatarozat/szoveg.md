@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére Krasznai Lajos vezérőrnagynak, a Magyar Köztársaság Moszkvai Nagykövetsége katonai és légügyi attaséjának – a hivatásos szolgálat felső korhatára betöltése előtt – kérelmére, 1990. szeptember 1-jével szolgálati viszonyát megszüntetem és egyidejűleg nyugállományba helyezem.
