@@ -1,0 +1,1 @@
+3. § Felhatalmazást kap a Kormány, hogy a Konvencióhoz való csatlakozásból eredő kötelezettségek végrehajtásához szükséges intézkedéseket a törvényhozási tárgykörbe tartozó szabályozási tárgyak kivételével rendeletben meghatározza.
