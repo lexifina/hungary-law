@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére Gábor Ferenc mk. vezérőrnagy szolgálati viszonyát – figyelembe véve, hogy a hivatásos szolgálat felső korhatárát túlhaladta – érdemei elismerése mellett, kérelmére 1990. december 1-jei hatállyal megszüntetem és nyugállományba helyezem.
