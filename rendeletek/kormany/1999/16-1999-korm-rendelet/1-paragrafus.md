@@ -1,0 +1,9 @@
+## 1. § A rendőrség – mint közhatalmi jogosítványokkal és kötelezettségekkel felruházott fegyveres rendvédelmi szerv – jogszabályban meghatározott feladatai kivételével – az államháztartásról szóló 1992. évi XXXVIII. törvény 96. §-ában foglaltakra figyelemmel – kizárólag az alábbi szolgáltatások nyújtására, írásban szerződhet:
+
+a) a gyülekezési jogról szóló 1989. évi III. törvény (a továbbiakban: Gytv.) hatálya alá nem tartozó, közterületen tartott rendezvények közrendvédelmi biztosítása;
+
+b) a rendezvény szervezőjének külön igénye alapján a Gytv. hatálya alá tartozó rendezvények biztosításában való közreműködés;
+
+c) a nem közterületen tartott rendezvények közrendvédelmi biztosítása;
+
+d) a nem közterületnek minősülő helyek, objektumok biztosítása, tűzszerészeti átvizsgálása.
