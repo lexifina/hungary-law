@@ -1,0 +1,1 @@
+Az Országgyűlés a helyi önkormányzatokról szóló 1990. évi LXV. törvény 93. §-ának (4) bekezdése alapján Szárliget község lakosságának és képviselő-testületének kezdeményezésére Szárliget községet jelenlegi területével 1999. június 30. napjával Fejér megyéből Komárom-Esztergom megyéhez csatolja.
