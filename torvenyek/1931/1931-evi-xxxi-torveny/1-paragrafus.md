@@ -1,0 +1,1 @@
+1. § Az irodalmi és a művészeti tulajdon tárgyában Montevideóban 1889. évi január hó 11. napján kelt nemzetközi szerződés és az 1889. évi február hó 13. napján ugyanott kelt pótjegyzőkönyv az ország törvényei közé iktattatnak.

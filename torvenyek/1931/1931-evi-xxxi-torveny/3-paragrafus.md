@@ -1,0 +1,1 @@
+3. § E törvény kihirdetésének napján, azonban az 1. §-ban em1ített szerződésnek Magyarországgal szemben való életbelépése napjától kezdődő hatállyal lép életbe ; azt az igazságügyminiszter és a vallás- és közoktatásügyi miniszter hajtja végre.
