@@ -1,0 +1,1 @@
+A művelődési és közoktatási miniszter előterjesztésére dr. Erdei Lászlónak, az Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar Logika Tanszék egyetemi tanárának a 123/1990. (VI. 28.) KE (Magyar Közlöny) határozattal megállapított e tisztsége alóli felmentése időpontját 1990. december 30. napjáról 1990. december 31. napjára módosítom.
