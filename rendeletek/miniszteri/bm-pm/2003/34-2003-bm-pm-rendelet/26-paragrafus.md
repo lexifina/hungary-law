@@ -1,0 +1,5 @@
+## Iskoláztatási költség
+
+26. § (1) Az összekötőnek a vele külföldön tartózkodó és családtagi pótlékra jogosító gyermeke után az átlagos képzési követelményeknek megfelelő és átlagos költségszintű alap- és középfokú oktatási intézményben felmerülő tandíjköltséget – a (2) bekezdésben foglalt összeghatárig – meg kell téríteni, ha egészségügyi vagy más okból a helyi állami iskolarendszer nem vehető igénybe, vagy az is tandíjköteles.
+
+(2) Az (1) bekezdés szerinti tandíjköltség-térítés legmagasabb összege gyermekenként és tanévenként az adott országra a KüM R.-ben meghatározott alapösszeg háromszorosáig terjedhet. Ennél nagyobb költségtérítés csak a miniszter külön engedélye alapján folyósítható. A tandíjköltség-térítés összegét gyermekenként kell megállapítani és folyósítani. A tandíjköltség az éves (féléves) tandíjat és a beiratkozás díját foglalja magában. Nem lehet megtéríteni az oktatási intézmény által szervezett kirándulás, szabadidős programok, külön nyelvórák, iskolabusz költségeit.
