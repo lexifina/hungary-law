@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére dr. Himber Péter rendőr vezérőrnagy, a BM Közgazdasági Főosztály vezetőjének felmentéséhez érdemei elismerése mellett – kérelmére történő nyugállományba vonulására tekintettel – 1990. december 31-ei hatállyal hozzájárulok.
