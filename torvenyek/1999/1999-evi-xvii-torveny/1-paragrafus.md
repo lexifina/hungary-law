@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Moldovai Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről Budapesten, 1995. április 19-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1996. augusztus 16-án megtörtént, és a Megállapodás 1996. augusztus 16-án hatályba lépett.)
