@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Kerepes és Kistarcsa községeknek Kerepestarcsa néven történt egyesítését megszüntetem, Kerepest és Kistarcsát községgé nyilvánítom a következő önkormányzati általános választás napjával.
