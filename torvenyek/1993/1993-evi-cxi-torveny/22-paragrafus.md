@@ -1,0 +1,1 @@
+22. § Az önkormányzatok megalakulásakor az alapítói jog gyakorlása tekintetében tanácsi vállalatnak — az Állami Vagyonügynökség által történő — értékesítéséből származó bevétel 50%-a az alapítói jogot gyakorló települési önkormányzatot illeti meg. Ha az alapítói jogot gyakorló önkormányzat megyei önkormányzat, a bevételi részesedésének mértéke 20%.

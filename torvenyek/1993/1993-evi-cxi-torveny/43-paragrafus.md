@@ -1,0 +1,5 @@
+43. § (1) A VII. Miniszterelnökség fejezeten belül a Miniszterelnöki Hivatal közigazgatási államtitkárának — mint a fejezetért felelős szerv vezetőjének — tervezési, előirányzat-módosítási és -felhasználási, beszámolási, információszolgáltatási, ellenőrzési kötelezettsége és joga nem terjed ki a 11. cím: Biztonsági Szolgálatok, 16. cím: Állami Vagyonügynökség, a 17. cím: Országos Testnevelési és Sporthivatal, a 18—24. cím: Országos Műszaki Fejlesztési Bizottság, a 31. cím: Magyar Rádió, a 32. cím: Magyar Televízió költségvetési előirányzataira, valamint a központi költségvetés kormányzati végrehajtásával összefüggő központilag kezelt és tartalék-előirányzatokra (27—30. címek).
+
+(2) A VII. Miniszterelnökség fejezeten belül az (1) bekezdésben említett címek fölött a tervezési, beszámolási, információszolgáltatási, ellenőrzési kötelezettséget és jogot a Kormány kijelölt tagja gyakorolja.
+
+(3) A XVII. Pénzügyminisztérium fejezeten belül a pénzügyminiszternek a fejezeten belüli átcsoportosítási joga az 1—17. címekre, illetve a 18. cím 1. alcím 2. kiemelt előirányzatára és 2. alcím 3., 5. kiemelt előirányzatára terjed ki.

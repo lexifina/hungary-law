@@ -1,0 +1,1 @@
+34. § A nemzeti és etnikai kisebbségek és a társadalmi szervezetek támogatására szolgáló keretek (II. Országgyűlés fejezet 5. és 8. cím) felhasználásáról az Országgyűlés — az általa kijelölt bizottság javaslata alapján — dönt.

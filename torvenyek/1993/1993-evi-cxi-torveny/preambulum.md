@@ -1,0 +1,1 @@
+Az Országgyűlés az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: ÁHT) 28. §-a alapján a Magyar Köztársaság 1994. évi központi költségvetéséről, valamint a végrehajtásához kapcsolódóan egyes törvények módosításáról a következő törvényt alkotja:

@@ -1,0 +1,3 @@
+42. § (1) A központi költségvetési szerv 14. § (3) bekezdésében meghatározott bevételeinek és ezzel összefüggésben kiadásainak előirányzatát év közben kizárólag a fejezetért felelős szerv módosíthatja. A fejezet 14. § (3) bekezdésében meghatározott bevételeinek összesített előirányzatát év közben kizárólag a pénzügyminiszter csökkentheti.
+
+(2) A központi költségvetési szervek bevételeit az e törvény 9. számú mellékletében meghatározott befizetési kötelezettség terheli a központi költségvetés részére, amelynek teljesítésére a felügyeleti szerv a költségvetési szerveit kötelezni jogosult. Amennyiben e befizetési kötelezettség nem teljesül, ezzel azonos összeggel a fejezet támogatása csökken.

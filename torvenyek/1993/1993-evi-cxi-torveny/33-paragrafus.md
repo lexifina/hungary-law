@@ -1,0 +1,3 @@
+33. § (1) A pártok támogatására fordítható keretből (II. Országgyűlés fejezet 6. cím) az ott megnevezett pártok a pártok működéséről és gazdálkodásáról szóló — többször módosított — 1989. évi XXXIII. törvény (a továbbiakban: Ptv.) rendelkezései szerint a képviselői megbízatás érvényessége megszűnésének napját magában foglaló hónap utolsó napjáig terjedően, időarányosan részesülnek. A támogatást havonta kell folyósítani.
+
+(2) Az (1) bekezdésben foglaltak alapján fel nem használt előirányzat — a Ptv. 5. §-ában foglaltaknak megfelelő — új elosztására az országgyűlési képviselő-választást követően a költségvetési törvény módosításával kerülhet sor.

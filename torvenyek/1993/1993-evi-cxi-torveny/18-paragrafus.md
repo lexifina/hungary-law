@@ -1,0 +1,1 @@
+18. § A helyi önkormányzatokról szóló 1990. évi LXV. törvény 87. § (1) bekezdése alapján önállósága és működőképessége érdekében az önhibáján kívül hátrányos helyzetben lévő helyi önkormányzat kiegészítő támogatást igényelhet a 6. számú mellékletben foglalt feltételek alapján.

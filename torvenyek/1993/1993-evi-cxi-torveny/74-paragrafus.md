@@ -1,0 +1,7 @@
+74. § (1) Az Adó- és Pénzügyi Ellenőrzési Hivatal, vagy a Vám- és Pénzügyőrség Országos Parancsnoksága — a pénzügyminiszter előzetes hozzájárulásával — 1994. december 31-ig a bankkonszolidációban részt vevő pénzintézetnél a pénzintézetekről szóló1991. évi LXIX. törvény 28. §-ában meghatározott, minősített hitellel rendelkező adós kérelmére, az 1993. december 31-ig keletkezett adó-, vám-, vámkezelési díj- és kamattartozása — a helyi adótartozás kivételével — fejében tulajdonrészt (üzletrész, részvény) fogadhat el, amely tekintetében a tulajdonosi jogokat az Állami Privatizációs és Vagyonkezelő Rt. gyakorolja.
+
+(2) Az (1) bekezdésben meghatározott egyezség feltétele, hogy az adós reorganizációs tervét a hitelezők képviselői elfogadják.
+
+(3) Ha az Adó- és Pénzügyi Ellenőrzési Hivatal, vagy a Vám- és Pénzügyőrség Országos Parancsnoksága az (1) bekezdés szerint tulajdonrészt (üzletrész, részvény) nem fogad el, az adós kérelmére az 1993. december 31-ig keletkezett adó-, vám-, vámkezelési díj- és kamattartozásról — a helyi adó tartozás kivételével — a pénzügyminiszter hozzájárulásával megállapodásban lemondhat.
+
+(4) A Központi Műszaki Fejlesztési Alapot megillető visszatérítési kötelezettséggel adott kölcsöntartozás tekintetében az (1)—(3) bekezdésben foglalt jogokat az ott meghatározott feltételek mellett az Alap felett rendelkezni jogosult gyakorolja azzal az eltéréssel, hogy megállapodásához a pénzügyminiszter hozzájárulása nem szükséges.
