@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között Rigában, 2001. május 2-án aláírt, a vámügyekben történő együttműködésről és kölcsönös segítségnyújtásról szóló megállapodást e rendelettel kihirdeti.
