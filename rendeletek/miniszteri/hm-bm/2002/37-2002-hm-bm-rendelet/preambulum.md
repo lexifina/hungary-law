@@ -1,0 +1,1 @@
+A honvédelmi miniszter által honvédelmi célra feleslegesnek minősített és az Állami Privatizációs és Vagyonkezelő Rt. részére átadott haditechnikai eszközök és készletek vagyonkezelésére és belföldi értékesítésére vonatkozó eljárási szabályokról szóló 304/2001. (XII. 27.) Korm. rendelet (a továbbiakban: R.) 15. §-ában kapott felhatalmazás alapján a következőket rendeljük el:
