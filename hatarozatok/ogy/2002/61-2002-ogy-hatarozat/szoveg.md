@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Szili Katalin országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 4.B.VIII.24.313/2002/2. számú megkeresésével érintett ügyben nem függeszti fel.
