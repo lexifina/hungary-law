@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Szlovák Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről Pozsonyban, 1993. január 15-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1996. július 19-én megtörtént, és a Megállapodás 1996. július 19-én hatályba lépett.)
