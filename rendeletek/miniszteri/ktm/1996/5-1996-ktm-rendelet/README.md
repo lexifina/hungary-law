@@ -1,0 +1,9 @@
+# 5/1996. (IV. 17.) KTM rendelet
+
+a Rácalmási-szigetek Természetvédelmi Terület létesítéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-5-20-6D
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 1996-04-25 | 1996-5-20-6D.1 | 5/1996. (IV. 17.) KTM rendelet |

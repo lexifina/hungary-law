@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Rácalmási-szigetek Természetvédelmi Terület elnevezéssel a Rácalmás községhatárában lévő, mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, 381,8 hektár kiterjedésű területet.

@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja, hogy megőrizze a sziget egyes helyein megmaradt, a Duna árterére jellemző erdőtársulások maradványait, valamint az ezekben élőhelyet találó védett, lágyszárú növényeket, megfelelő szaporodó és táplálkozó helyet biztosítson az árterekre jellemző, védett és fokozottan védett állatfajoknak.
