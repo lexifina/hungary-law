@@ -1,0 +1,1 @@
+Az Országgyűlés elfogadja a Gazdasági Versenyhivatal 1999. évi tevékenységéről és a versenytörvény alkalmazása során szerzett, a verseny tisztaságának és szabadságának érvényesülésével kapcsolatos tapasztalatokról szóló beszámolót.
