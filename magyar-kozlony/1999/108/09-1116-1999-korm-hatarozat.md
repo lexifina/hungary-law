@@ -1,0 +1,4277 @@
+# A Kormány 1116/1999. (XII. 6.) Korm. határozata
+
+Magyar Közlöny 1999. évi 108. szám, 1999. december 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/cff9edc909fa467b69e2a6a60498bb8c0acceda6/dokumentumok/97a331193c96b8a96ca920d849ccae08b3ac2aeb/letoltes)
+
+---
+
+A Kormány
+1116/1999. (XII. 6.) Korm.
+határozata
+a Magyarországi Református Egyház, a Magyarországi
+Evangélikus Egyház, a Magyarországi Zsidó
+Hitközségek Szövetsége, a Budai Szerb Ortodox
+Egyházmegye, a Magyarországi Baptista Egyház és a
+Magyarországi Unitárius Egyház javára 2011-ig
+rendezendő ingatlanok jegyzékének elfogadásáról,
+valamint az 1999. évben megoldásra javasolt
+ingatlanügyekről
+A Kormány
+1. a) elfogadja az 1991. évi XXXII. törvény (a továb-
+biakban: Etv.) 7. §-ának (1) bekezdése alapján a Magyar-
+országi Református Egyház, a Magyarországi Evangélikus
+Egyház, a Magyarországi Zsidó Hitközségek Szövetsége, a
+Budai Szerb Ortodox Egyházmegye, a Magyarországi Uni-
+tárius Egyház és a Magyarországi Baptista Egyház részére
+2011-ig rendezésre javasolt, az 1. számú melléklet szerinti
+ingatlanok jegyzékét, és egyetért azzal, hogy a további
+rendezés az Etv. által előírt eljárás szerint — éves jegyzé-
+kek alapján, értékarányos ütemezésben — történjék, az
+aktualizált értékek figyelembevételével;
+b) az 1046/1999. (V. 5.) Korm. határozat 1. a) pontjával
+elfogadott, a határozat 1. számú melléklete szerint a Ma-
+gyar Katolikus Egyház javára 2011-ig rendezendő ingat-
+lanok jegyzékét
+— az e határozat 2. számú mellékletében foglalt ingat-
+lanokkal kiegészíti,
+— az e határozat 3. számú mellékletében foglaltak sze-
+rint, az ott megjelölt sorszám alatti ingatlanok tekinteté-
+ben módosítja;
+c) felhívja az ingatlanok jelenlegi tulajdonosainak, ke-
+zelőinek és használóinak figyelmét arra, hogy az ingat-
+lanok tulajdoni helyzetének végleges rendezéséig azok ál-
+lagának megóvására és megfelelő karbantartására kötele-
+sek;
+Felelős:
+nemzeti kulturális örökség minisztere
+Határidő: folyamatos
+2. a) az Etv. értelmében alakított egyeztető bizottságok
+által rendezésre javasolt ingatlanok 4. számú melléklet sze-
+rinti jegyzékét jóváhagyja, és elrendeli, hogy a határozat
+mellékletét képező jegyzékben felsorolt ingatlanok tulaj-
+donba adásáról és a kártalanítás kifizetéséről a Nemzeti
+Kulturális Örökség Minisztériumának helyettes államtit-
+kára gondoskodjék;
+Felelős:
+nemzeti kulturális örökség minisztere
+pénzügyminiszter
+Határidő: a határozat kihirdetését követő 30 nap
+b) felhívja az érdekeltek figyelmét arra, hogy az állami
+költségvetési pénzek felhasználását az Állami Számvevő-
+szék ellenőrizheti. Erre tekintettel a kártalanítás felhasz-
+nálására vonatkozó bizonylatokat őrizzék meg és azokat
+tájékoztató jelleggel, másolatban küldjék meg a Nemzeti
+Kulturális Örökség Minisztériuma részére;
+3. a) az 1064/1997. (VI. 11.) Korm. határozat 3. d) pont-
+ját hatályon kívül helyezi.
+A Szeged, Szabadkai úti Damjanich János honvéd gim-
+náziumnak (hrsz: 24009/1, 24011/2) Szeged Megyei Jogú
+Város Önkormányzatának tulajdonába adott 3 ha 1996 m2
+területe visszakerül a Magyar Állam tulajdonába és a Hon-
+védelmi Minisztérium vagyonkezelésébe.
+Szeged Megyei Jogú Város Önkormányzata részére
+200 millió Ft kártalanítás kifizetését a Kormány —
+funkcióváltás címén — jóváhagyja az alábbi ütemezés-
+ben: 2000. június 30-ig 100 millió Ft, 2001. június 30-ig
+100 millió Ft;
+Felelős:
+nemzeti kulturális örökség minisztere
+Határidő: a határozat kihirdetését követő 30 nap
+b) tudomásul veszi, hogy a kártalanítási összegből a
+városi önkormányzat 2000. június 30-ig a Honvédelmi
+Minisztérium részére 20 millió Ft-ot költségtérítés címén
+átutal;
+4. engedélyezi, hogy a 2399/1997. (XII. 8.) Korm. hatá-
+rozat 2. pontja szerint 1998-ban az egyeztető bizottságok
+folyamatos működtetése és szakértői díjak kifizetésére
+biztosított 12 millió Ft-ból a fel nem használt 2,095 millió
+Ft az egyházi ingatlanok rendezésével kapcsolatos kárta-
+lanítások céljára kerüljön kifizetésre.
+Felelős:
+nemzeti kulturális örökség minisztere
+Határidő: 1999. december 15.
+5. egyetért azzal, hogy az 1056/1999. (V. 26.) Korm.
+határozattal közzétett, a Magyar Köztársaság Kormánya
+és a Magyarországi Evangélikus Egyház között 1998. de-
+cember 7-én létrejött megállapodás mellékletében szerep-
+lő és a járadék alapját képező jegyzéken található Miskolc,
+Dayka G. u. 4. (hrsz: 14/2) szám alatti ingatlan helyébe
+— az egyház kérésére — a Nagyatád, Baross G. u. 32.
+(hrsz: 1347) szám alatti ingatlan kerüljön;
+6. egyetért azzal, hogy az egyházi ingatlanok rendezésé-
+re biztosított 2000. évi költségvetési előirányzat terhére
+III. rész HATÁROZATOK
+
+6 millió Ft az egyeztető bizottságok folyamatos működé-
+séhez, a szakértői és megbízási díjak, illetve az egyházi
+ingatlanrendezéssel összefüggő beszerzések céljára kerül-
+jön felhasználásra.
+Felelős: nemzeti kulturális örökség minisztere
+pénzügyminiszter
+Határidő: 2000. január 31.
+7. Az 1046/1999. (V. 5.) Korm. határozat 1. a) pontjában
+a „2011-ig átadásra javasolt” szövegrész helyébe a „2011-ig
+rendezésre javasolt” szövegrész lép.
+Orbán Viktor s. k.
+miniszterelnök
+1. számú melléklet
+az 1116/1999. (XII. 6.) Korm. határozathoz
+Magyarországi Református Egyház
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+1. Aba, Béke u. 1.
+494 hrsz.
+parókia létesíté-
+se
+2. Abaújszántó, Béke u. 3.
+1812/A hrsz.
+kollégiumi beru-
+házás
+3. Abaújszántó, Béke u. 3.
+1812/A/1 hrsz.
+kollégiumi beru-
+házás
+4. Abaújszántó, Béke u. 3.
+1812/A/2 hrsz.
+kollégiumi beru-
+házás
+5. Abaújszántó, Béke u. 3.
+1812/A/3 hrsz.
+kollégiumi beru-
+házás
+6. Abaújszántó, Béke u. 3.
+1812/A/4 hrsz.
+kollégiumi beru-
+házás
+7. Abony, Kálvin J. u. 1.
+3310 hrsz.
+ifjúsági ház léte-
+sítése
+8. Abony, Kálvin J. u. 3.
+3328/1 hrsz.
+református isko-
+la, szolgálati la-
+kás
+9. Abony, Kálvin J. u. 7.
+3336 hrsz.
+hitoktatás, szol-
+gálati lakás
+10. Adorjánháza, Fő u. 72.
+217 hrsz.
+szolgálati lakás
+11. Ajak, Bocskai u. 8.
+1046/2 hrsz.
+gyülekezeti ház
+12. Ajka, Bajcsy-Zs. u. 3.
+210/1 hrsz.
+gyülekezeti ház
+13. Ajka, Bajcsy-Zs. u. 3.
+210/2 hrsz.
+gyülekezeti ház
+14. Ajka, Névtelen tér
+1339 hrsz.
+gyülekezeti ház
+létesítése
+15. Ajka (Padragkút), Vöröstele-
+ki u. 50.
+372 hrsz.
+imaterem létesí-
+tése
+16. Alap, Béke u. 12—14.
+467 hrsz.
+gyülekezeti ház
+létesítése
+17. Alcsútdoboz, Máriavölgy u.
+0179 hrsz.
+szeretetotthon
+létesítése
+18. Alcsútdoboz, Szabadság u.
+120.
+506 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+19. Alsónémedi, Kossuth L. u.
+60/A.
+1848/2 hrsz.
+református óvo-
+da létesítése
+20. Alsószuha, Táncsics u. 3.
+24/1 hrsz.
+gyülekezeti te-
+rem létesítése
+21. Alsóvadász, Fő u. 62.
+2 hrsz.
+szolgálati lakás,
+ifjúsági ház
+22. Apagy, Kossuth u. 132—1.
+9/3 hrsz.
+parókia létesíté-
+se
+23. Apostag, Bajcsy-Zs. u. 1.
+648 hrsz.
+gyülekezeti ház
+építése
+24. Aranyosapáti, Kossuth u. 85.
+637/1 hrsz.
+parókia létesíté-
+se
+25. Aranyosapáti, Kossuth u. 85.
+637/2 hrsz.
+parókia létesíté-
+se
+26. Aranyosapáti, Petőfi u. 51.
+48 hrsz.
+parókia létesíté-
+se
+27. Ács, Fő u. 69.
+2265/1 hrsz.
+szolgálati lakás,
+hitélet
+28. Ádánd, Árpád u. 2—4.
+228/1 hrsz.
+gyülekezeti ott-
+hon létesítése
+29. Ádánd, Kossuth u. 57.
+228/2 hrsz.
+közösségi ház lé-
+tesítése
+30. Ászár, Kossuth L. u. 41.
+62 hrsz.
+szolgálati laká-
+sok, ifjúsági te-
+rem
+31. Babarc
+102/2 hrsz.
+hitéleti célú épü-
+let létesítése
+32. Baktalórántháza, Kossuth u.
+37.
+739 hrsz.
+közösségi ház lé-
+tesítése
+33. Balajt, Fő u. 30.
+7090 hrsz.
+parókia bővítése
+34. Balajt, Szabadság u. 14.
+250 hrsz.
+parókia bővítése
+35. Balatonalmádi, Veszprémi u.
+103.
+18/1 hrsz.
+gyülekezeti ház
+36. Balatonfüred, Mogyoró u. 1.
+2020/2 hrsz.
+oktatás és hitélet
+37. Balatonhenye, Fő u. 20.
+166 hrsz.
+hitélet
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+38. Balatonszabadi, Vak Bottyán
+u. 143.
+563 hrsz.
+közösségi ház,
+szolgálati lakás
+39. Balatonszárszó, Fő u. 58.
+85/4 hrsz.
+gyülekezeti ház
+40. Balatonszőlős, Fő u. 1.
+41 hrsz.
+gyülekezeti te-
+rem, óvoda
+41. Balkány, Rákóczi u. 2.
+731/1 hrsz.
+szociális épület
+bővítése
+42. Balkány, Rákóczi u. 2.
+731/2 hrsz.
+szociális épület
+bővítése
+43. Barabás, Árpád u. 13.
+2/3 hrsz.
+imaház bővítése
+44. Barabás, Árpád u. 15.
+2/4 hrsz.
+imaház
+45. Barabás, Kossuth L. u. 1.
+2/5 hrsz.
+imaház
+46. Baracska, Kossuth L. u. 16.
+875 hrsz.
+oktatás, cser-
+készotthon
+47. Baracska, Kossuth L. u. 18.
+874/2 hrsz.
+szolgálati lakás
+48. Baracska, Kossuth L. u. 20.
+874/1 hrsz.
+szociális otthon
+49. Bábonymegyer, Ságvári E. u.
+44.
+532/3 hrsz.
+imaház létesítése
+50. Bálványos, Petőfi S. u. 35.
+122 hrsz.
+gyülekezeti ház
+51. Báta, Fő u. 465.
+256 hrsz.
+imaház létesítése
+52. Becsvölgye, Fő u. 61.
+125 hrsz.
+hitélet
+53. Beregdaróc, Alkotmány u. 7.
+21 hrsz.
+konferenciatelep
+54. Beregdaróc, Szabadság u. 23.
+1 hrsz.
+gyülekezeti ház
+55. Beregdaróc, Szabadság u. 27.
+117 hrsz.
+diakóniai célú
+épület létesítése
+56. Beregdaróc, Szabadság u. 27.
+118 hrsz.
+diakóniai célú
+épület létesítése
+57. Beregsurány, Árpád u. 73.
+164 hrsz.
+imaház, diakónia
+58. Berekböszörmény, Köztár-
+saság tér 10.
+629 hrsz.
+szolgálati lakás
+59. Berettyóújfalu, Puskin u. 62.
+4782/6 hrsz.
+ifjúsági ház,
+cserkészotthon
+60. Berettyóújfalu, Wesselényi u. 1.
+3890/2 hrsz.
+református isko-
+la bővítése, szol-
+gálati lakás
+61. Berkesz, Lenin u. 1.
+234 hrsz.
+hitéleti célú épü-
+let létesítése
+62. Besenyőd, Fő u. 30.
+295 hrsz.
+gyülekezeti te-
+rem, istentiszte-
+leti hely
+63. Beszterec, Kossuth L. u. 28.
+259 hrsz.
+parókia létesíté-
+se
+64. Békés, Petőfi S. u. 41.
+816 hrsz.
+református isko-
+la bővítése
+65. Békés, Petőfi S. u. 42.
+2270 hrsz.
+református isko-
+la bővítése
+66. Békés, Rákóczi u. 16.
+76 hrsz.
+református isko-
+la bővítése
+67. Békéssámson, Fő tér 4.
+7 hrsz.
+gyülekezeti te-
+rem
+68. Bélmegyer, Petőfi S. u. 27—31.
+378/2 hrsz.
+gyülekezeti ház
+létesítése
+69. Biharkeresztes, Damjanich u.
+21.
+185 hrsz.
+református zene-
+iskola
+70. Biharkeresztes, Hősök tere
+15.
+197/2 hrsz.
+szolgálati lakás
+71. Biharkeresztes, Hősök tere
+16.
+197/4 hrsz.
+szolgálati laká-
+sok
+72. Biharnagybajom, Ady E. u. 12.
+633 hrsz.
+hitéleti célú in-
+gatlan bővítése
+73. Biharnagybajom, Bacsó B. 2—4.
+49 hrsz.
+gyülekezeti ház
+létesítése
+74. Biharnagybajom, Mátyás ki-
+rály u. 13.
+1355 hrsz.
+szeretetotthon,
+közösségi cél
+75. Biharnagybajom, Rákóczi u.
+20.
+2/2 hrsz.
+szeretetotthon
+76. Bihartorda, Kossuth u. 40.
+62 hrsz.
+gyülekezeti te-
+rem, parókia bő-
+vítése
+77. Biharugra, Erzsébet u. 37.
+22 hrsz.
+gyülekezeti ház
+építése
+78. Bisse, Petőfi S. u. 43.
+7 hrsz.
+gyülekezeti te-
+rem létesítése
+79. Bodajk, Petőfi S. u. 1.
+490 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+80. Bogádmindszent, Kossuth L.
+u. 40.
+153 hrsz.
+gyülekezeti te-
+rem létesítése
+81. Bodroghalom, Szabadság u.
+125.
+469 hrsz.
+gyülekezeti ház
+82. Bodrogolaszi, Ságvári u. 15.
+172 hrsz.
+gyülekezeti ház
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+83. Bogyiszló, Kossuth L. u.
+45—47.
+1 hrsz.
+oktatási célú ép.
+létesítése
+84. Botpalád, Fő u. 88.
+234/1 hrsz.
+hitélet
+85. Bódvaszilas, Táncsics u. 27.
+258 hrsz.
+imaház, szolgála-
+ti lakás
+86. Böhönye, Kossuth L. u. 1.
+114/1 hrsz.
+gyülekezeti ház
+építése
+87. Bököny, Kossuth L. u. 54.
+234/1 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+88. Bököny, Kossuth L. u. 54.
+234/2 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+89. Bőcs, Munkácsy M. u. 7.
+167 hrsz.
+gyülekezeti ház
+létesítése
+90. Budapest V., Múzeum krt. 39.
+24118 hrsz.
+oktatási célú in-
+gatlan bővítése
+91. Budapest X., Hölgy u. 22.
+38954 hrsz.
+Kálvin Központ
+kialakítása
+92. Budapest X., Kerepesi út 69.
+39216/5 hrsz.
+református
+templom, lakó-
+ház
+93. Budapest XI., Október 23. u.
+5. alagsor 1.
+4298/3/A/1 hrsz.
+szolgálati lakás
+vásárlása
+94. Budapest XI., Október 23. u.
+5. alagsor 2.
+4298/3/A/2 hrsz.
+szolgálati lakás
+vásárlása
+95. Budapest XI., Október 23. u.
+5. földszint 3.
+4298/3/A/3 hrsz.
+szolgálati lakás
+vásárlása
+96. Budapest XI., Október 23. u.
+5. földszint 5.
+4298/3/A/5 hrsz.
+szolgálati lakás
+vásárlása
+97. Budapest XI., Október 23. u.
+5. földszint 6.
+4298/3/A/6 hrsz.
+szolgálati lakás
+vásárlása
+98. Budapest XI., Október 23. u.
+5. I. emelet 7.
+4298/3/A/7 hrsz.
+szolgálati lakás
+vásárlása
+99. Budapest XI., Október 23. u.
+5. I. emelet 8.
+4298/3/A/8 hrsz.
+szolgálati lakás
+vásárlása
+100. Budapest XI., Október 23. u.
+5. I. emelet 9.
+4298/3/A/9 hrsz.
+szolgálati lakás
+vásárlása
+101. Budapest XI., Október 23. u.
+5. I. emelet 10.
+4298/3/A/10 hrsz.
+szolgálati lakás
+vásárlása
+102. Budapest XI., Október 23. u.
+5. I. emelet 11.
+4298/3/A/11 hrsz.
+szolgálati lakás
+vásárlása
+103. Budapest XI., Október 23. u.
+5. II. emelet 13.
+4298/3/A/13 hrsz.
+szolgálati lakás
+vásárlása
+104. Budapest XI., Október 23. u.
+5. II. emelet 14.
+4298/3/A/14 hrsz.
+szolgálati lakás
+vásárlása
+105. Budapest XI., Október 23. u.
+5. II. emelet 15.
+4298/3/A/15 hrsz.
+szolgálati lakás
+vásárlása
+106. Budapest XI., Október 23. u.
+5. II. emelet 16.
+4298/3/A/16 hrsz.
+szolgálati lakás
+vásárlása
+107. Budapest XI., Október 23. u.
+5. III. emelet 17.
+4298/3/A/17 hrsz.
+szolgálati lakás
+vásárlása
+108. Budapest XI., Október 23. u.
+5. III. emelet 19.
+4298/3/A/19 hrsz.
+szolgálati lakás
+vásárlása
+109. Budapest XI., Október 23. u.
+5. III. emelet 20.
+4298/3/A/20 hrsz.
+szolgálati lakás
+vásárlása
+110. Budapest XI., Október 23. u.
+5. III. emelet 21.
+4298/3/A/21 hrsz.
+szolgálati lakás
+vásárlása
+111. Budapest XI., Október 23. u.
+5. IV. emelet 22.
+4298/3/A/22 hrsz.
+szolgálati lakás
+vásárlása
+112. Budapest XI., Október 23. u.
+5. IV. emelet 23.
+4298/3/A/23 hrsz.
+szolgálati lakás
+vásárlása
+113. Budapest XI., Október 23. u.
+5. IV. emelet 24.
+4298/3/A/24 hrsz.
+szolgálati lakás
+vásárlása
+114. Budapest XI., Október 23. u.
+IV. 5. emelet 25.
+4298/3/A/25 hrsz.
+szolgálati lakás
+vásárlása
+115. Budapest XI., Október 23. u.
+5. IV. emelet 26.
+4298/3/A/26 hrsz.
+szolgálati lakás
+vásárlása
+116. Budapest XV., Kossuth L. u. 10.
+89948 hrsz.
+oktatás, szolgá-
+lati lakás
+117. Budapest XXII., Rákóczi u. 30.
+229443 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+118. Buj, Béke u. 2.
+237 hrsz.
+szolgálati laká-
+sok
+119. Buj, Béke u. 4.
+238 hrsz.
+gyülekezeti te-
+rem
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+120. Buj, Béke u. 6.
+239 hrsz.
+szolgálati lakás
+121. Bükkábrány, Béke u. 38.
+308/1 hrsz.
+parókia bővítése
+122. Cece, Deák F. u. 44.
+877 hrsz.
+gyülekezeti ház
+létesítése
+123. Cece, Deák F. u. 44.
+877 hrsz.
+szolgálati lakás
+124. Cegléd, Szabadság tér 3.
+46 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+125. Cigánd, Iskola u. 22.
+1167 hrsz.
+szolgálati laká-
+sok
+126. Cigánd, Iskola u. 22.
+1168 hrsz.
+gyülekezeti ház
+127. Cigánd, Iskola u. 8.
+1213/3 hrsz.
+ifjúsági ház léte-
+sítése
+128. Csarnota, Fő u. 7.
+14 hrsz.
+gyülekezeti ház
+129. Csákberény, Bajcsy-Zs. u. 12.
+85/1 hrsz.
+gyülekezeti ház,
+lelkészi hivatal
+130. Csákvár, Kálvin u. 11.
+1897 hrsz.
+ifjúsági ház
+131. Csányoszró, Petőfi S. u. 2.
+65 hrsz.
+gyülekezeti te-
+rem létesítése
+132. Csárdaszállás, Felszabadulás
+u. 9.
+52 hrsz.
+templom létesí-
+tése
+133. Csengersima, Fő u. 10.
+1225 hrsz.
+gyülekezeti ház
+építése
+134. Csengersima, Fő u. 22.
+174 hrsz.
+ifjúsági és gyüle-
+kezeti ház
+135. Cserépfalu, Kossuth L. u. 95.
+608 hrsz.
+gyülekezeti ház
+létesítése
+136. Csetény, Petőfi S. u.
+511 hrsz.
+gyülekezeti ház
+létesítése
+137. Csobaj, Rákóczi u. 1.
+294/2 hrsz.
+parókia építése
+138. Csokonyavisonta, Széchenyi
+u. 56.
+587 hrsz.
+hitélet
+139. Csonkahegyhát, Fő u. 8.
+241 hrsz.
+hitélet
+140. Csögle, Rákóczi F. u. 114.
+55/2 hrsz.
+gyülekezeti te-
+rem létesítése
+141. Dabas, Kossuth László u. 2.
+2154/1 hrsz.
+gyülekezeti ház
+létesítése
+142. Dad, Fő u. 25.
+228/1 hrsz.
+ifjúsági otthon
+143. Darány, Rákóczi u. 70.
+85/1 hrsz.
+parókia bővítése
+144. Debrecen, Csonka u. 3.
+6943 hrsz.
+ifjúsági centrum
+145. Debrecen, Deák F. u. 69.
+26208/3 hrsz.
+gyülekezeti ház
+146. Debrecen, Komáromi Csip-
+kés Gy. tér 3.
+1312 hrsz.
+gyülekezeti ház
+létesítése
+147. Debrecen, Leány u. 2.
+7202 hrsz.
+óvoda
+148. Demecser, Dózsa Gy. tér 14/1.
+362/1 hrsz.
+gyülekezeti ház
+149. Demecser, Dózsa Gy. tér 14/2.
+362/2 hrsz
+gyülekezeti ház
+150. Derecske, Szováti u. 2.
+1519 hrsz
+szeretetotthon
+létesítése
+151. Derecske, Szováti u. 4.
+1513 hrsz.
+szolgálati lakás
+152. Dég, Kossuth L. u. 22.
+674 hrsz.
+gyülekezeti ház
+153. Dég, Kossuth L. u. 23.
+708 hrsz.
+öregek napközi
+otthona létesíté-
+se
+154. Dévaványa, Bem J. u. 7.
+1905 hrsz.
+református isko-
+la
+155. Doboz, Kossuth tér 22.
+1699 hrsz.
+szolgálati lakás
+156. Doboz, Kossuth tér 22.
+1700 hrsz.
+gyülekezeti ház
+építése
+157. Dombrád, Kossuth u. 43.
+11 hrsz.
+református isko-
+la
+158. Dömsöd, Petőfi tér 12.
+804 hrsz.
+cserkészotthon
+159. Drávapalkonya, Sallai u. 73.
+104/1 hrsz.
+hitéleti célú épü-
+let létesítése
+160. Dubicsány, Rákóczi u. 3.
+67 hrsz.
+gyülekezeti ház
+161. Dudar, Kossuth L. u. 17.
+712 hrsz.
+gyülekezeti ház
+létesítése
+162. Dunapataj, Petőfi S. u. 3.
+83 hrsz.
+szociális célú
+épület létesítése
+163. Dunaszentbenedek, Kossuth
+L. u. 38.
+252 hrsz.
+gyülekezeti te-
+rem létesítése
+164. Dunaszentgyörgy, Rákóczi u.
+113.
+9 hrsz.
+ifjúsági és gyüle-
+kezeti ház létesí-
+tése
+165. Dunaszentgyörgy, Rákóczi u.
+116.
+168 hrsz.
+ifjúsági és gyüle-
+kezeti ház létesí-
+tése
+166. Edelény, Borsodi u. 172.
+1483 hrsz.
+gyülekezeti ház
+167. Encsencs, Fő u. 84.
+571/1 hrsz.
+gyülekezeti te-
+rem létesítése
+168. Encsencs, Fő u. 86.
+572 hrsz.
+közösségi ház
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+169. Encsencs, Fő u. 98.
+579 hrsz.
+gyülekezeti ház
+kialakítása
+170. Encsencs, Sport u. 1.
+323 hrsz.
+gyülekezeti ház
+kialakítása
+171. Erdőhorváti, Egres u. 22.
+785/1 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+172. Ete, Kossuth L. u. 61.
+16 hrsz.
+közalapítványi
+általános iskola
+173. Etyek, Kossuth L. u. 17.
+12/3 hrsz.
+hitéleti célú
+komplexum léte-
+sítése
+174. Érsekcsanád, Deák F. u. 1.
+388 hrsz.
+szeretetotthon
+létesítése
+175. Fábiánháza, Kossuth u. 47.
+856 hrsz.
+parókia létesíté-
+se
+176. Felsőkelecsény, Petőfi S. u. 3.
+3 hrsz.
+gyülekezeti te-
+rem bővítése
+177. Felsőnyék, Kossuth L. u. 75.
+76 hrsz.
+gyülekezeti ház
+létesítése
+178. Fényeslitke, Petőfi u. 27.
+36 hrsz.
+ifjúsági ház
+179. Foktő, Fő u. 52.
+269 hrsz.
+hitéleti célú épü-
+let bővítése
+180. Foktő, Fő u. 77.
+479/2 hrsz.
+gyülekezeti ház
+bővítése
+181. Földes, Karácsony S. tér 6.
+993 hrsz.
+szolgálati lakás,
+KIE otthon
+182. Furta, Templom u. 10—12.
+1 hrsz.
+lelkészi hivatal
+létesítése
+183. Furta, Templom u. 3.
+738 hrsz.
+lelkészi hivatal
+létesítése
+184. Fülesd, Kis u. 14.
+321 hrsz.
+gyülekezeti ház
+185. Gacsály, Petőfi S. u. 23.
+3 hrsz.
+gyülekezeti te-
+rem létesítése,
+szolgálati lakás
+186. Gárdony, Bóné K. u. 8.
+2326 hrsz.
+ifjúsági és gyüle-
+kezeti ház
+187. Gárdony, Posta u. 20.
+1872 hrsz.
+parókia létesíté-
+se
+188. Gelénes, Kossuth u. 18.
+23 hrsz.
+konferenciate-
+lep létesítése
+189. Gemzse, Rákóczi u. 52.
+329 hrsz.
+templomtorony,
+imaterem létesí-
+tése
+190. Gomba, Iskola u. 2.
+619/2 hrsz.
+ref. iskola
+191. Gomba, Iskola u. 2.
+619/3 hrsz.
+iskola bővítése
+192. Gordisa, Kossuth L. u. 12.
+10 hrsz.
+hitéleti célú épü-
+let létesítése
+193. Gordisa, Közpark
+79 hrsz.
+hitéleti célú épü-
+let létesítése
+194. Gödöllő, Szőlő u. 20.
+1474/8 hrsz.
+református isko-
+la bővítése
+195. Göncruszka, Szabadság u. 3.
+261 hrsz.
+gyülekezeti ott-
+hon
+196. Gulács, Rákóczi u. 4.
+22 hrsz.
+gyülekezeti ház
+197. Gulács, Szabadság u. 33.
+231 hrsz.
+szeretetotthon
+198. Gyomaendrőd, Hősök u. 45—
+47.
+1591 hrsz.
+szeretetotthon
+bővítése
+199. Gyomaendrőd, Rákóczi u. 19.
+171 hrsz.
+szeretetotthon
+bővítése
+200. Gyömrő, Csillag K. u. 2.
+429 hrsz.
+ifjúsági ház bőví-
+tése
+201. Gyömrő, Dózsa Gy. u. 1.
+115 hrsz.
+ifjúsági ház
+202. Gyönk, Rákóczi u. 90.
+386 hrsz.
+közösségi ház lé-
+tesítése
+203. Gyügye, Fő u. 67.
+41/1 hrsz.
+gyülekezeti te-
+rem kialakítása
+204. Hajdúbagos, Nagy u. 114.
+185/2 hrsz.
+ifjúsági központ
+205. Hajdúböszörmény, Bocskai
+tér 10.
+1877 hrsz.
+református isko-
+la
+206. Hajdúböszörmény, Bocskai
+tér 9.
+1878 hrsz.
+szolgálati lakás
+207. Hajdúböszörmény, Budai
+Nagy A. u. 82.
+7544 hrsz.
+közösségi ház,
+idősek otthona
+létesítése
+208. Hajdúböszörmény, Eötvös u.
+10.
+3638 hrsz.
+szeretetotthon
+létesítése
+209. Hajdúböszörmény, II. Rákó-
+czi F. u. 11.
+6220 hrsz.
+szeretetotthon
+létesítése
+210. Hajdúböszörmény, Kálvin tér
+18.
+5903 hrsz.
+református óvo-
+da
+211. Hajdúböszörmény, Kálvi-
+neum u. 12.
+2155 hrsz.
+iskola bővítése
+212. Hajdúböszörmény, temető
+3270 hrsz.
+temető
+213. Hajdúhadház, temető
+13917/1 hrsz.
+református te-
+mető
+214. Hajdúhadház, temető
+13917/2 hrsz.
+temetőépületek
+bővítése
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+215. Hajdúnánás, Bem u. 2.
+2803 hrsz.
+hitéleti, karita-
+tív tevékenység
+216. Hajdúnánás, Iskola u. 22.
+29/1 hrsz.
+hitéleti, karita-
+tív tevékenység
+217. Hajdúszoboszló, Kossuth u.
+15.
+6083/1 hrsz.
+karitatív tevé-
+kenység
+218. Hajdúszovát, Ady E. u. 2.
+1192 hrsz.
+parókia létesíté-
+se
+219. Hajmáskér, Rákóczi u. 12.
+225 hrsz.
+gyülekezeti ház
+220. Harta, Templom u. 67.
+1094 hrsz.
+imaterem létesí-
+tése
+221. Hegymeg, Dózsa Gy. u. 1.
+72 hrsz.
+lelkészlakás bő-
+vítése
+222. Hejőszalonta, Rákóczi u. 10.
+239 hrsz.
+gyülekezeti te-
+rem létesítése
+223. Hetefejércse, Bajcsy-Zs. u. 13.
+211 hrsz.
+gyülekezeti ház
+létesítése
+224. Hetefejércse, Fő u. 26.
+55 hrsz.
+gyülekezeti ház
+létesítése
+225. Hét, Kossuth L. u. 68.
+61 hrsz.
+gyülekezeti ház
+226. Hét, Kossuth L. u. 76.
+57/1 hrsz.
+szociális célú in-
+gatlan létesítése
+227. Hét, Kossuth L. u. 78.
+57/2 hrsz.
+szolgálati lakás
+228. Hodász, Kossuth u. 1.
+546 hrsz.
+parókia, szolgá-
+lati lakás építése
+229. Hodász, Petőfi S. u. 1.
+115 hrsz.
+parókia, szolgá-
+lati lakások léte-
+sítése
+230. Hosszúpályi, Szabadság tér 29.
+145/2 hrsz.
+parókia létesíté-
+se
+231. Hosszúpályi, Szabadság tér 30.
+1/1 hrsz.
+parókia létesíté-
+se
+232. Hódmezővásárhely, Bajcsy-Zs.
+u. 13.
+9240 hrsz.
+óvoda
+233. Hódmezővásárhely, Deák F.
+u. 4.
+12809 hrsz.
+református isko-
+la
+234. Hódmezővásárhely, Klauzál
+u. 1—3.
+9621 hrsz.
+diakónia
+235. Hódmezővásárhely, Malom
+u. 15.
+2142 hrsz.
+imaház
+236. Hódmezővásárhely, Nagy S.
+u. 9.
+12614 hrsz.
+református isko-
+la bővítése
+237. Hódmezővásárhely, Szőnyi u. 2.
+13501 hrsz.
+hitéleti célú épü-
+let vásárlása
+238. Ibrány, Ady E. u. 46.
+1629 hrsz.
+gyülekezeti ház
+létesítése
+239. Ibrány, Árpád u. 1.
+1313/2 hrsz.
+gyülekezeti ház
+létesítése
+240. Ibrány, Árpád u. 1.
+1313/3 hrsz.
+gyülekezeti ház
+létesítése
+241. Ibrány, Hősök tere 1—3.
+1313/1 hrsz.
+gyülekezeti ház
+létesítése
+242. Ibrány, Iskola u. 2.
+921 hrsz.
+szolgálati laká-
+sok
+243. Izsófalva, Izsó u. 62.
+1125 hrsz.
+közösségi ház lé-
+tesítése
+244. Jánd, Rákóczi u. 38.
+181 hrsz.
+ifjúsági ház
+245. Jászberény, Bajcsy-Zs. u. 10.
+5418 hrsz.
+szolgálati lakás
+vásárlása
+246. Jászkarajenő, Fő u. 82.
+25 hrsz.
+gyülekezeti ház
+létesítése
+247. Jászkarajenő, Zrínyi u. 12.
+22 hrsz.
+gyülekezeti ház
+létesítése
+248. Jászkisér, Fő u. 3.
+221 hrsz.
+szeretetotthon
+létesítése
+249. Jászkisér, Hősök tere 2.
+597/1 hrsz.
+szeretetotthon
+létesítése
+250. Jászkisér, Petőfi S. u. 1.
+979/2 hrsz.
+szeretetotthon
+létesítése
+251. Jászkisér, Vágóhíd u. 6.
+599 hrsz.
+szeretetotthon
+létesítése
+252. Jéke, Dózsa u. 29/A.
+43 hrsz.
+ifjúsági ház léte-
+sítése
+253. Kaba, Kossuth u. 2.
+146/1 hrsz.
+ifjúsági célú épü-
+let létesítése
+254. Kajászó, Rákóczi u. 82.
+2 hrsz.
+szolgálati lakás,
+idősek otthona
+létesítése
+255. Kapoly, Petőfi S. u. 14.
+238 hrsz.
+szociális épület
+létesítése
+256. Karcag, Kálvin u. 2.
+3 hrsz.
+református isko-
+la
+257. Karcag, Kálvin u. 5.
+20 hrsz.
+oktatási célú
+épület bővítése
+258. Karcag, Madarasi u. 1.
+47 hrsz.
+iskola bővítése
+259. Karcag, Varró u. 1.
+17 hrsz.
+iskola bővítése
+260. Karcsa, Alkotmány u. 5.
+131/1 hrsz.
+gyülekezeti ház
+bővítése
+261. Karcsa, Alkotmány u. 7.
+131/2 hrsz.
+gyülekezeti ház
+262. Kastélyosdombó, Fő u. 73.
+112 hrsz.
+imaterem létesí-
+tése
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+263. Kazincbarcika, Dózsa Gy. u.
+28.
+2230/66 hrsz.
+hitoktatás, szol-
+gálati lakás
+264. Kálmáncsa, Kossuth L. u. 119.
+123/1 hrsz.
+imaterem létesí-
+tése
+265. Kántorjánosi, Arany J. u.
+20/A.
+120/1 hrsz.
+gyülekezeti és if-
+júsági ház létesí-
+tése
+266. Kántorjánosi, Arany J. u. 5.
+5 hrsz.
+gyülekezeti és if-
+júsági ház létesí-
+tése
+267. Kántorjánosi, Kossuth u. 6.
+4 hrsz.
+gyülekezeti és if-
+júsági ház létesí-
+tése
+268. Kántorjánosi, Zalka Máté u. 2.
+424 hrsz.
+gyülekezeti és if-
+júsági ház létesí-
+tése
+269. Kápolnásnyék, Vörösmarty u.
+11.
+164 hrsz.
+oktatás
+270. Kápolnásnyék, Vörösmarty u.
+16.
+28/1 hrsz.
+lelkészi hivatal,
+szolgálati lakás
+271. Kázsmárk, Kossuth L. u. 5.
+68 hrsz.
+gyülekezeti ház
+272. Kecskemét, Fráter Gy. u. 2.
+3912 hrsz.
+szolgálati laká-
+sok
+273. Kelemér, Tompa u. 26.
+245 hrsz.
+gyülekezeti ház
+274. Kelemér, Tompa u. 38.
+250 hrsz.
+gyülekezeti ház
+létesítése
+275. Kemecse, Kossuth u. 3.
+1316 hrsz.
+gyülekezeti ház
+létesítése
+276. Kemecse, Kossuth L. u. 4.
+89 hrsz.
+gyülekezeti ház
+építése
+277. Kék, Kölcsey u. 19.
+146 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+278. Kék, Kölcsey u. 43.
+160 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+279. Kékcse, Fő u. 132.
+283/1 hrsz.
+parókia létesíté-
+se
+280. Kérsemjén, Alkotmány u. 7.
+3 hrsz.
+imaház létesítése
+281. Kisasszond, Kossuth L. u. 30.
+46/2 hrsz.
+gyülekezeti te-
+rem létesítése
+282. Kisigmánd, Fő u. 29.
+210/1 hrsz.
+közösségi ház
+283. Kiskunhalas, Szatmári S. u. 2.
+71 hrsz.
+diákotthon bőví-
+tése
+284. Kisláng, Fő u. 54/A.
+457/3 hrsz.
+gyülekezeti ház
+létesítése
+285. Kisláng, Fő u. 54/B.
+457/2 hrsz.
+gyülekezeti ház
+létesítése
+286. Kisléta, Bogáti u. 1.
+406/4 hrsz.
+templomkert
+287. Kisléta, Debreceni u. 4.
+404 hrsz.
+parókia létesíté-
+se
+288. Kisléta, Debreceni u. 6.
+403 hrsz.
+parókia létesíté-
+se
+289. Kismarja, Bethlen u. 5.
+122 hrsz.
+hitoktatás, gyü-
+lekezeti ház
+290. Kismarja, Bocskai u. 41.
+57 hrsz.
+templomtorony
+építése
+291. Kismarja, Damjanich u. 2.
+876 hrsz.
+templomtorony
+építése
+292. Kisnamény, Kis u. 9.
+264/2 hrsz.
+parókia bővítése
+293. Kispalád, Fő u. 111.
+315 hrsz.
+ifjúsági központ
+létesítése
+294. Kisszentmárton, Kossuth u.
+42.
+24 hrsz.
+gyülekezeti te-
+rem
+295. Kistokaj, Rákóczi u. 52.
+32 hrsz.
+közösségi ház
+296. Kisújszállás, Arany J. u. 1.
+2666/2 hrsz.
+református isko-
+la, szolgálati la-
+kás
+297. Kisújszállás, Vásár u. 24.
+2821 hrsz.
+ref. iskola
+298. Kisvarsány, Fő u. 27.
+149 hrsz.
+gyülekezeti ház
+építése
+299. Kocsord, Hunyadi u. 33.
+602/1 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+300. Kocsord, Hunyadi u. 33.
+602/2 hrsz.
+templom építése
+301. Kocsord, Szent István u. 38.
+238 hrsz.
+ifjúsági ház
+302. Kocsord, Táncsics u. 52.
+100 hrsz.
+közösségi ház
+303. Kokad, Kossuth u. 63—1.
+316/1 hrsz.
+gyülekezeti ház
+304. Kokad, Petőfi S. u. 20.
+316/2 hrsz.
+gyülekezeti ház
+305. Komádi, Dózsa Gy. u. 1.
+1301/4 hrsz.
+szolgálati lakás
+létesítése
+306. Komárom-Szőny, Kossuth L.
+u. 43.
+4695 hrsz.
+szolgálati laká-
+sok
+307. Komlósd, Fő u. 23.
+54 hrsz.
+gyülekezeti te-
+rem létesítése
+308. Komoró, Petőfi S. u. 14.
+63/2 hrsz.
+parókia bővítése
+309. Komoró, Petőfi S. u. 16.
+65/1 hrsz.
+parókia, gyüle-
+kezeti terem
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+310. Komoró, Petőfi S. u. 16.
+65/2 hrsz.
+hitélet
+311. Kondó, Szabadság u. 81.
+25 hrsz.
+gyülekezeti ház
+építése
+312. Konyár, Rákóczi u. 16.
+12 hrsz.
+gyülekezeti ház
+313. Konyár, Rákóczi u. 26.
+20 hrsz.
+gyermek- és ifjú-
+sági ház
+314. Kovácsvágás, Táncsics u. 12.
+411 hrsz.
+gyülekezeti te-
+rem létesítése
+315. Kölcse, Dózsa Gy. u. 4.
+17/4 hrsz.
+ifjúsági tábor bő-
+vítése
+316. Kölcse, Dózsa Gy. u. 6.
+17/3 hrsz.
+ifjúsági tábor bő-
+vítése
+317. Kömlőd, Palóczi H. Á. u. 1.
+2/1 hrsz.
+gyülekezeti ház
+318. Kömlőd, Palóczi H. Á. u. 1.
+2/2 hrsz.
+gyülekezeti ház
+bővítése
+319. Kömörő, Kossuth u. 31.
+26 hrsz.
+parókia létesíté-
+se
+320. Körmend, Deák F. u. 22.
+435 hrsz.
+gyülekezeti köz-
+pont
+321. Környe
+3663/1 hrsz.
+konferenciate -
+lep bővítése
+322. Köröshegy, Petőfi S. u. 83.
+618 hrsz.
+oktatás, nevelés
+323. Körösladány, Tüköry u. 2.
+464 hrsz.
+szolgálati lakás
+324. Körösladány, Tüköry u. 21.
+588/4 hrsz.
+szolgálati laká-
+sok
+325. Körösladány, Tüköry u. 3.
+604 hrsz.
+idősek otthona
+326. Körösnagyharsány, Kossuth
+tér 3—1.
+6/1 hrsz.
+gyülekezeti ház
+létesítése
+327. Körösnagyharsány, Kossuth
+tér 3—2.
+6/2 hrsz.
+szolgálati laká-
+sok
+328. Kötegyán, Kossuth u. 36.
+318 hrsz.
+imaterem létesí-
+tése
+329. Kötegyán, Kossuth u. 88.
+507/1 hrsz.
+imaterem létesí-
+tése
+330. Kunmadaras, Kálvin u. 2.
+17 hrsz.
+református isko-
+la, szolgálati la-
+kás
+331. Kunmadaras, Kossuth tér 5—7.
+1031/2 hrsz.
+oktatási és hité-
+leti célú épület
+létesítése
+332. Kunszentmiklós, Apostol Pál
+u. 2.
+1887 hrsz.
+lelkészi hivatal,
+szolgálati lakás
+létesítése
+333. Kustánszeg, Felszabadulás u. 5.
+236 hrsz.
+gyülekezeti te-
+rem létesítése
+334. Lácacséke, Templom u. 3.
+3 hrsz.
+parókia bővítése
+335. Legyesbénye, Rákóczi u. 41.
+783 hrsz.
+gyülekezeti ház
+336. Legyesbénye, Rákóczi u. 74.
+2 hrsz.
+lelkészi hivatal,
+gyülekezeti ház
+337. Létavértes, Árpád tér 10.
+1871/3 hrsz.
+ifjúsági centrum
+létesítése
+338. Létavértes, Irinyi u. 11.
+196 hrsz.
+szolgálati lakás,
+ifjúsági ház
+339. Lovasberény, Kossuth u. 88.
+259/B hrsz.
+szolgálati lakás
+340. Lovasberény, Kossuth u. 90.
+258 hrsz.
+gyülekezeti ház
+bővítése
+341. Lónya, Kossuth L. u. 89.
+161 hrsz.
+gyülekezeti ház
+építése
+342. Lövőpetri, Petőfi S. u. 30.
+54 hrsz.
+gyülekezeti te-
+rem létesítése
+343. Luzsok, Fő u. 16.
+22 hrsz.
+gyülekezeti te-
+rem létesítése
+344. Madocsa, Torony u. 39.
+4 hrsz.
+gyülekezeti ház
+345. Magosliget, Fő u. 50.
+56 hrsz.
+gyülekezeti ház,
+cigánymisszió
+346. Magyaregres, Fő u. 4.
+176 hrsz.
+parókia bővítése
+347. Magyarhomorog, Árpád u. 32.
+167/1 hrsz.
+gyülekezeti te-
+rem bővítése
+348. Magyarhomorog, Árpád u. 32.
+167/2 hrsz.
+szolgálati lakás
+349. Magyarmecske, Petőfi S. u. 18.
+22 hrsz.
+szolgálati lakás
+vásárlása
+350. Makád, Kossuth u. 45.
+115 hrsz.
+gyülekezeti ház,
+öregek napközi
+otthona
+351. Makó, Justh Gy. u. 23/B.
+8054/2 hrsz.
+református isko-
+la bővítése
+352. Makó, Justh Gy. u. 23/C.
+8056 hrsz.
+református isko-
+la bővítése
+353. Makó, Kálvin tér 6.
+5301 hrsz.
+református kö-
+zépiskola, óvo-
+da, iskola bővíté-
+se
+354. Makó, Királyhegyesi u. 13.
+9171 hrsz.
+iskola bővítése
+355. Makó, Szikszai u. 4.
+8054/1 hrsz.
+református isko-
+la, szolgálati la-
+kások
+356. Makó, Vásárhelyi u. 37.
+8009 hrsz.
+református isko-
+la bővítése
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+357. Marocsa, Kossuth L. u. 1.
+56 hrsz.
+gyülekezeti te-
+rem létesítése
+358. Maroslele, Hunyadi u. 12.
+220/1 hrsz.
+imaház, szolgála-
+ti lakás
+359. Maroslele, Rózsa u. 17/A.
+220/3 hrsz.
+hitéleti cél
+360. Martonyi, Fő u. 107.
+143 hrsz.
+gyülekezeti ház
+361. Matty, Kossuth L. u. 49.
+156/2 hrsz.
+hitéleti épület
+létesítése
+362. Mályi, Kossuth L. u. 4.
+88 hrsz.
+gyülekezeti ház
+363. Mándok, Kossuth u. 10.
+725/2 hrsz.
+református gim-
+názium, szolgá-
+lati lakás
+364. Mány, Béke tér 10.
+137 hrsz.
+hitélet
+365. Márokpapi, Kossuth L. u. 9.
+198 hrsz.
+imaház, diakónia
+366. Márokpapi, Petőfi S. u. 10.
+185 hrsz.
+gyülekezeti te-
+rem létesítése
+367. Mátészalka, Budai NagyA. u. 1.
+3139 hrsz.
+szeretetotthon
+létesítése
+368. Mátészalka, Budai NagyA. u. 3.
+3141 hrsz.
+szeretetotthon
+létesítése
+369. Mátészalka, Kossuth tér 4.
+3368/1 hrsz.
+szeretetotthon
+létesítése
+370. Mátészalka, Kossuth tér 4.
+3368/2 hrsz.
+szeretetotthon
+létesítése
+371. Mezőberény, Belentai u. 1.
+898 hrsz.
+szolgálati lakás
+372. Mezőladány, Dózsa u. 4.
+407 hrsz.
+parókia létesíté-
+se
+373. Mezősas, Nagy S. u. 38.
+296 hrsz.
+gyülekezeti ház
+létesítése
+374. Mezősas, Nagy S. u. 55.
+431 hrsz.
+gyülekezeti ház
+létesítése
+375. Mezőtúr, Kiss J. u. 6.
+4281 hrsz.
+református isko-
+la
+376. Mezőtúr, Kossuth tér 6.
+4 hrsz.
+református isko-
+la
+377. Mezőtúr, Kossuth u. 2.
+173/1 hrsz.
+református gim-
+názium, szolgá-
+lati lakások
+378. Mezőtúr, Vásár u. 40.
+1449/2 hrsz.
+református isko-
+la, szolgálati la-
+kás
+379. Mérk, Béke u. 1.
+740 hrsz.
+ravatalozó építé-
+se
+380. Mikepércs, Orosz J. u. 4.
+6 hrsz.
+idősek otthona
+létesítése
+381. Mikepércs, Szabadság tér 4.
+408 hrsz.
+karitatív tevé-
+kenység, szolgá-
+lati lakás
+382. Milota, temető
+017 hrsz.
+temető
+383. Milota, Vörösmarty u. 95.
+137 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+384. Miskolc I., Palóczy u. 8.
+2560 hrsz.
+szolgálati lakás
+létesítése
+385. Miskolc I., volt Széchenyi u.
+70.
+3700/55 hrsz.
+gyermek- és ifjú-
+sági központ lé-
+tesítése
+386. Miskolc I., Jókai u. 41.
+2677/37 hrsz.
+deszkatemplom
+építése
+387. Miskolc I., Palóczy u. 4.
+2557 hrsz.
+általános iskola
+létesítése
+388. Miskolc I., Széchenyi u. 46.
+3688 hrsz.
+templom építése
+389. Miskolc I., Vörösmarty u. 78.
+6571/21 hrsz.
+gyülekezeti ház
+bővítése
+390. Miskolc-Szirma, Erkel F.
+u. 68.
+49990 hrsz.
+ifjúsági ház bőví-
+tése
+391. Mohács, Jókai M. u. 28.
+2170 hrsz.
+hajléktalan ellá-
+tó
+392. Monor, Kossuth L. u. 76.
+6833 hrsz.
+hitéleti célú épü-
+let létesítése
+393. Monostorpályi, Damjanich u. 1.
+1 hrsz.
+gyülekezeti ház
+építése
+394. Monostorpályi, Kossuth u. 47.
+2 hrsz.
+imaház létesítése
+395. Mór, Perczel M. u. 10.
+2496 hrsz.
+gyülekezeti ház
+396. Mórágy, Kismórágyi u. 50.
+1008 hrsz.
+gyülekezeti ház
+létesítése
+397. Nagyacsád, Deák F. u. 41.
+283 hrsz.
+gyülekezeti te-
+rem létesítése
+398. Nagyar, Petőfi S. u. 21.
+337 hrsz.
+gyülekezeti ház
+létesítése
+399. Nagyar, Petőfi S. u.
+334 hrsz.
+gyülekezeti te-
+rem létesítése
+400. Nagycsány, Fő u. 40.
+184 hrsz.
+gyülekezeti te-
+rem létesítése
+401. Nagydobos, Fő u. 161.
+317 hrsz.
+szolgálati lakás
+létesítése
+402. Nagydobsza, Fő u. 71.
+92/1 hrsz.
+hitélet, szociális
+cél
+403. Nagyecsed, Rákóczi u. 102.
+1112 hrsz.
+hitélet
+404. Nagyhódos, Dózsa u. 2.
+44 hrsz.
+szolgálati lakás
+létesítése
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+405. Nagyigmánd, Petőfi S. u. 4.
+594 hrsz.
+közösségi ház,
+szolgálati laká-
+sok
+406. Nagyigmánd, Petőfi S. u. 4.
+595 hrsz.
+közösségi ház,
+szolgálati laká-
+sok
+407. Nagyigmánd, Petőfi S. u. 4.
+597 hrsz.
+közösségi ház,
+szolgálati laká-
+sok
+408. Nagyigmánd, Petőfi S. u. 4.
+598 hrsz.
+közösségi ház,
+szolgálati laká-
+sok
+409. Nagyigmánd, Petőfi S. u. 4.
+599 hrsz.
+közösségi ház,
+szolgálati laká-
+sok
+410. Nagyigmánd, Petőfi S. u. 4.
+600 hrsz.
+ségi ház, szolgá-
+lati lakások
+411. Nagykálló, Deák F. u. 6.
+367/1 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+létesítése
+412. Nagykálló, Debreceni u. 2.
+1380 hrsz.
+gyülekezeti ház
+413. Nagykálló, Nagybalkányi u. 6.
+1156 hrsz.
+gyülekezeti ház
+létesítése
+414. Nagykereki, Kossuth u. 6.
+319 hrsz.
+parókia, imate-
+rem építése
+415. Nagykinizs, Hernád u. 2.
+17 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+416. Nagykőrös, Dalmady Gy. u. 4.
+1687 hrsz.
+szolgálati laká-
+sok
+417. Nagykőrös, Helmeczi u. 10.
+4646 hrsz.
+gyülekezeti ház
+létesítése
+418. Nagykőrös, Jósika u. 8.
+4412/1 hrsz.
+gyülekezeti ház
+létesítése
+419. Nagykőrös, Kinizsi u. 7.
+1441 hrsz.
+gyülekezeti ház
+létesítése
+420. Nagykőrös, Losonczi u. 1.
+5100 hrsz.
+szolgálati laká-
+sok
+421. Nagyvisnyó, Petőfi S. u. 15.
+212 hrsz.
+gyülekezeti ház
+422. Naszály, Rákóczi u. 117—119.
+74 hrsz.
+gyülekezeti ház
+létesítése
+423. Naszály, Rákóczi u. 130.
+220 hrsz.
+gyülekezeti ház
+létesítése
+424. Nemesbikk, Alkotmány u. 16.
+4 hrsz.
+gyülekezeti te-
+rem építése
+425. Nemesbikk, Alkotmány u. 20.
+2 hrsz.
+gyülekezeti te-
+rem építése
+426. Nemesborzova, Fő u. 33.
+20 hrsz.
+közösségi ház lé-
+tesítése
+427. Nemesdéd, Fő u. 68.
+496 hrsz.
+gyülekezeti ház
+létesítése
+428. Nemesgörzsöny, Petőfi S. u. 2.
+1 hrsz.
+imaterem létesí-
+tése
+429. Nemesszalók, Rákóczi u. 43.
+330 hrsz.
+szolgálati lakás
+430. Nemesvámos, Kossuth L. u.
+31.
+1 hrsz.
+hitélet
+431. Nemesvámos, Kossuth L. u.
+35.
+405 hrsz.
+hitélet, szolgála-
+ti lakás
+432. Nyékládháza, Vasút u. 7.
+725/1 hrsz.
+templom építése
+433. Nyírábrány, Szabadság u. 53.
+967 hrsz.
+parókia
+434. Nyírbátor, Báthori u. 22.
+2026 hrsz.
+református okta-
+tás, szolgálati la-
+kás
+435. Nyírbátor, Báthori u. 24.
+2027 hrsz.
+református isko-
+la
+436. Nyírbátor, Édesanyák útja 14.
+2029 hrsz.
+szolgálati laká-
+sok
+437. Nyírbátor, Édesanyák útja 16.
+2030 hrsz.
+szolgálati lakás
+438. Nyírbogát, Árpád u. 1.
+579/2 hrsz.
+szolgálati laká-
+sok
+439. Nyírbogát, Béke tér 3.
+226 hrsz.
+gyülekezeti ház
+építése
+440. Nyírgyulaj, Kossuth L. u. 7.
+999 hrsz.
+gyülekezeti ház
+441. Nyíri, Rákóczi u. 29.
+105 hrsz.
+gyülekezeti te-
+rem építése
+442. Nyírjákó, Fő u. 20.
+24 hrsz.
+gyülekezeti ház
+létesítése
+443. Nyírkarász, Fő u. 13.
+922 hrsz.
+imaterem, szol-
+gálati lakás
+444. Nyírkércs, Fő u. 60.
+41 hrsz.
+gyülekezeti ház
+445. Nyírlövő, Kossuth u. 6.
+264 hrsz.
+gyülekezeti ház
+létesítése
+446. Nyírmada, Kálvin tér 20.
+1311 hrsz.
+gyülekezeti ház
+447. Nyírparasznya, Rákóczi u. 88.
+266 hrsz.
+közösségi ház
+bővítése
+448. Okány, Kossuth u. 13.
+665 hrsz.
+szolgálati lakás
+449. Okány, Kossuth u. 8.
+6 hrsz.
+imaterem létesí-
+tése
+450. Old, Kossuth L. u. 74.
+93 hrsz.
+parókia bővítése
+451. Ordas, Kossuth L. u. 6.
+105 hrsz.
+szolgálati lakás
+452. Ófehértó, Alkotmány u. 26.
+724 hrsz.
+ifjúsági ház léte-
+sítése
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+453. Ófehértó, Alkotmány u. 28.
+725 hrsz.
+imaterem, szol-
+gálati lakás
+454. Ózd (Susa), Tompa u. 28.
+12011 hrsz.
+gyülekezeti ház
+455. Öcsöd, Váncsodi temető
+1906 hrsz.
+református te-
+mető
+456. Őcsény, Fő u. 31.
+5 hrsz.
+gyülekezeti ház
+457. Őrbottyán, Rákóczi u. 26.
+94 hrsz.
+parókia és gyüle-
+kezeti ház létesí-
+tése
+458. Őrbottyán, Rákóczi u. 26.
+95 hrsz.
+parókia és gyüle-
+kezeti ház létesí-
+tése
+459. Őriszentpéter, Városszer u.
+56.
+271 hrsz.
+ifjúsági ház léte-
+sítése
+460. Ősi, Kossuth L. u. 14.
+818 hrsz.
+gyülekezeti ház
+létesítése
+461. Paks, Templom tér 4.
+1011 hrsz.
+ifjúsági ház léte-
+sítése
+462. Panyola, Szamosvég 3.
+340 hrsz.
+gyülekezeti és if-
+júsági ház létesí-
+tése
+463. Panyola, Szombathelyi u. 8.
+337 hrsz.
+gyülekezeti és if-
+júsági ház létesí-
+tése
+464. Papos, Kossuth u. 2.
+284 hrsz.
+gyülekezeti te-
+rem létesítése
+465. Paszab, Fő u. 9.
+6 hrsz.
+parókia bővítése
+466. Paszab, Posta u. 11.
+406 hrsz.
+szolgálati lakás
+467. Pápa, Jókai M. u. 16.
+140/1 hrsz.
+oktatási vagy
+szociális célú
+épület létesítése
+468. Pápa, Jókai M. u. 20.
+141/1 hrsz.
+szolgálati laká-
+sok
+469. Pápa, Veszprémi u. 9.
+2106 hrsz.
+oktatási vagy
+szociális célú
+épület létesítése
+470. Pápadereske, Rákóczi u. 28.
+92 hrsz.
+imaterem létesí-
+tése
+471. Pátroha, Hajnal u. 7.
+691 hrsz.
+konferenciate -
+lep létesítése
+472. Pátroha, Kossuth L. u. 43.
+106 hrsz.
+konferenciate -
+lep létesítése
+473. Páty, Iskola u. 16.
+327/1 hrsz.
+parókia építése
+474. Páty, Kossuth u. 77.
+310 hrsz.
+parókia és ifjúsá-
+gi ház létesítése
+475. Pázmándfalu, Kertalja u. 28.
+301 hrsz.
+gyermek- és ifjú-
+ság-védelem
+476. Perőcsény, Diófa u. 2.
+33 hrsz.
+ifjúsági célú épü-
+let létesítése
+477. Perőcsény, Diófa u. 14.
+17 hrsz.
+ifjúsági célú épü-
+let létesítése
+478. Pécel, Kálvin tér 5/B.
+358/2 hrsz.
+gyülekezeti ház
+479. Pécsely, Templom u. 43.
+167 hrsz.
+gyülekezeti ház
+létesítése
+480. Pilismarót, Esztergomi u. 29.
+830 hrsz.
+gyülekezeti te-
+rem létesítése
+481. Pocsaj, Petőfi S. u. 38.
+126 hrsz.
+gyülekezeti és if-
+júsági ház létesí-
+tése
+482. Pocsaj, Petőfi S. u. 40.
+125/1 hrsz.
+imaház létesítése
+483. Pocsaj, Petőfi S. u. 75.
+1050 hrsz.
+parókia létesíté-
+se
+484. Porcsalma, Batthyány u. 3.
+924/1 hrsz.
+hitoktatás, idő-
+sek klubja
+485. Poroszló, Fő út 30.
+81 hrsz.
+konferencia köz-
+pont, szolgálati
+lakás
+486. Pócsmegyer, Bocskai tér 1.
+156 hrsz.
+oktatás, szolgá-
+lati lakások
+487. Püspökladány, Kálvin tér 3.
+39 hrsz.
+református isko-
+la
+488. Püspökladány, Kálvin tér 6.
+846 hrsz.
+református óvo-
+da
+489. Püspökladány, Karcagi u. 26.
+4528/4 hrsz.
+oktatás
+490. Radostyán, Ady E. u. 2.
+209 hrsz.
+gyülekezeti ház
+létesítése
+491. Ramocsaháza, Kossuth u. 55.
+15 hrsz.
+cserkészotthon,
+szolgálati lakás
+492. Rinyaújlak, Kossuth L. u. 43.
+13/2 hrsz.
+gyülekezeti ház
+493. Rohod, Petőfi S. u. 5.
+4 hrsz.
+közösségi ház lé-
+tesítése
+494. Sajóhídvég, Rákóczi u. 18.
+66/1 hrsz.
+parókia építése
+495. Sajókaza, Papszer u. 2.
+410 hrsz.
+parókia bővítése
+496. Sajóvámos, Dózsa Gy. u. 6.
+652/1 hrsz.
+gyülekezeti ház
+bővítése
+497. Sarkad, Veress S. u. 17.
+33 hrsz.
+ifjúsági konfe-
+rencia telep
+498. Sály, Toldi u. 6.
+1292 hrsz.
+gyülekezeti te-
+rem bővítése
+499. Sárospatak, Kazinczy u. 33.
+768 hrsz.
+szolgálati laká-
+sok
+500. Sárospatak, Kossuth u. 10.
+465/1 hrsz.
+udvar
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+501. Sárospatak, Kossuth u. 10.
+465/2 hrsz.
+szolgálati laká-
+sok
+502. Sárospatak, Kossuth u. 10.
+465/3 hrsz.
+szolgálati laká-
+sok
+503. Sárospatak, Kossuth u. 10.
+465/4 hrsz.
+szolgálati laká-
+sok
+504. Sárospatak, Kossuth u. 10.
+465/5 hrsz.
+gazdasági épület
+505. Sárospatak, Kossuth u. 10.
+465/6 hrsz.
+gazdasági épület
+506. Sárospatak, Kossuth u. 10.
+465/7 hrsz.
+gazdasági épület
+507. Sárospatak, Kossuth u. 15.
+521 hrsz.
+szolgálati laká-
+sok
+508. Sárospatak, Kossuth u. 20.
+451 hrsz.
+szolgálati laká-
+sok
+509. Sárospatak, Kossuth u. 25.
+514 hrsz.
+szolgálati laká-
+sok
+510. Sárospatak, Kossuth u. 8.
+469 hrsz.
+szolgálati laká-
+sok
+511. Sárospatak, Lórántffy Zs. u. 6.
+447 hrsz.
+református álta-
+lános iskola
+512. Sárospatak, Rákóczi u. 1.
+471 hrsz.
+szolgálati lakás
+513. Sátoraljaújhely, Kossuth L. u.
+44.
+2374 hrsz.
+ifjúsági otthon
+514. Segesd, Vörösmarty u. 31.
+701 hrsz.
+gyülekezeti ház
+515. Simontornya, Iskola u. 9.
+591 hrsz.
+szociális, kultu-
+rális cél
+516. Soltvadkert, Bocskai u. 8—10.
+1521/2 hrsz.
+református
+nyelviskola
+517. Somogyaszaló, Kossuth L. u.
+107.
+58 hrsz.
+hitélet, oktatás
+518. Somogyhatvan, Kossuth L. u.
+60.
+223 hrsz.
+hitélet
+519. Somogyviszló, Kossuth L. u.
+32.
+92/2 hrsz.
+gyülekezeti ház
+520. Sukoró, Fő u. 58.
+599 hrsz.
+ifjúsági otthon
+létesítése
+521. Szabadhídvég, Úttörő u. 2.
+45 hrsz.
+gyülekezeti ház
+522. Szabadszállás, temető
+2163/2 hrsz.
+református te-
+mető
+523. Szabolcs, Petőfi S. u. 16.
+23/1 hrsz.
+parókia létesíté-
+se
+524. Szakoly, Balkányi u. 1.
+2/2 hrsz.
+parókia létesíté-
+se
+525. Szakoly, Balkányi u. 42.
+323 hrsz.
+parókia létesíté-
+se
+526. Szakoly, Létai u. 10.
+809 hrsz.
+parókia létesíté-
+se
+527. Szamosangyalos, Rákóczi u.
+18.
+314, 315 hrsz.
+gyülekezeti ház
+építése
+528. Szamosbecs, Kossuth u. 31.
+21 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+létesítése
+529. Szamosszeg, Árpád u. 1.
+963 hrsz.
+imaház bővítése
+530. Szamosszeg, Nagydobosi u. 6.
+956/4 hrsz.
+gyülekezeti ház
+531. Szamosújlak, Petőfi S. u. 34.
+195 hrsz.
+gyülekezeti ház
+létesítése
+532. Szank, Béke u. 38.
+532/1 hrsz.
+öregek otthona,
+szolgálati lakás
+533. Szank, Béke u. 40.
+532/2 hrsz.
+hitéleti cél
+534. Szatmárcseke, Táncsics u. 2.
+180/4 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+535. Szákszend, Csillag u. 21/A.
+218 hrsz.
+gyülekezeti ház
+536. Szeged, Kálvin tér 2.
+2985 hrsz.
+szolgálati laká-
+sok, egyházi
+igazgatás, tante-
+rem kialakítása
+537. Szeged, Kárász u. 15.
+3902 hrsz.
+egyházi hivatal,
+szolgálati lakás,
+diákotthon
+538. Szeghalom, Arany J. u. 50.
+2161 hrsz.
+szolgálati lakás
+539. Szeghalom, Baross u. 2.
+1092/2 hrsz.
+parókia létesíté-
+se
+540. Szeghalom, Bocskai u. 5.
+1089/2 hrsz.
+parókia létesíté-
+se
+541. Szeghalom, Érmellék u. 40.
+0701 hrsz.
+temető
+542. Szeghalom, Kossuth tér 7.
+975/2 hrsz.
+parókia létesíté-
+se
+543. Szeghalom, temető
+01040/1 hrsz.
+temető
+544. Szeghalom, VIII. külterület
+6104 hrsz.
+hitélet
+545. Szeghalom, Vörösmarty u. 35.
+1403/2 hrsz.
+református isko-
+la
+546. Szeghalom, XIII. u. 1.
+2736/1 hrsz.
+imaház építése
+547. Szeghalom, XIII. u. 1.
+2736/4
+imaház építése
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+548. Szekszárd, Bálint köz 18.
+1248 hrsz.
+gyülekezeti te-
+rem bővítése
+549. Szekszárd, Bálint köz 18.
+1249 hrsz.
+gyülekezeti te-
+rem bővítése
+550. Szemere, Arany J. u. 12.
+80/1 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+551. Szentes, Deák F. u. 51.
+1845 hrsz.
+gyülekezeti ott-
+hon kialakítása
+552. Szentes, Deák F. u. 53.
+1843 hrsz.
+gyülekezeti ott-
+hon létesítése
+553. Szentes, Deák F. u. 54.
+2030 hrsz.
+gyülekezeti ház
+létesítése
+554. Szentes, Farkas A. u. 11.
+6178 hrsz.
+imaház létesítése
+555. Szentes, Farkas M. u. 13.
+921 hrsz.
+ifjúsági ház, szol-
+gálati lakások lé-
+tesítése
+556. Szentes, Kiss B. u. 6.
+18 hrsz.
+gyülekezeti ott-
+hon bővítése
+557. Szentes, Kossuth tér 4.
+24 hrsz.
+szolgálati laká-
+sok, hitélet
+558. Szentes, Veresháza u. 21.
+0724/2 hrsz.
+gyülekezeti ház
+559. Szentgál, Fő u. 69.
+3/1 hrsz.
+ifjúsági ház léte-
+sítése
+560. Szerecseny, Széchenyi u. 44.
+33 hrsz.
+közösségi ház
+561. Szeremle, Fő u. 34.
+448 hrsz.
+hitéleti célú épü-
+let bővítése
+562. Szerencs (Ond), Fő u. 104.
+6026 hrsz.
+szociális, karita-
+tív épület létesí-
+tése
+563. Szerencs (Ond), Kossuth u.
+14.
+6015 hrsz.
+szociális, karita-
+tív épület létesí-
+tése
+564. Szerep, Nagy u. 38.
+1 hrsz.
+szociális ház
+565. Székely, Illyés Gy. u. 3.
+107 hrsz.
+gyülekezeti ház
+létesítése
+566. Székesfehérvár, Széchenyi u.
+20.
+547 hrsz.
+oktatási intéz-
+mény
+567. Szigetszentmiklós, Kossuth
+L. u. 17/A.
+1916 hrsz.
+gyülekezeti ház
+létesítése
+568. Szigetvár (Becefa), Fő u. 21.
+2430 hrsz.
+szolgálati lakás
+569. Szilvásvárad, Miskolci u. 80.
+98 hrsz.
+gyülekezeti ház
+építése
+570. Szokolya, Mányoki Á. u. 14.
+173 hrsz.
+könyvtár, diakó-
+nia
+571. Szomód, Tompa u. 3.
+574 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+572. Tabajd, Kossuth u. 31.
+422 hrsz.
+közösségi ház
+573. Tahitótfalu, Hősök tere 6.
+1654 hrsz.
+gyülekezeti ház
+építése
+574. Tahitótfalu, Kossuth L. u. 26.
+1769/3 hrsz.
+gyülekezeti ház
+létesítése
+575. Takácsi, Petőfi S. u. 15.
+139 hrsz.
+imaház létesítése
+576. Taktakenéz, Kossuth L. u. 9.
+124 hrsz.
+parókia bővítése
+577. Taktaszada, Kossuth L. u. 87.
+415 hrsz.
+gyülekezeti te-
+rem bővítése
+578. Tarpa, Kossuth L. u. 17—19.
+1058 hrsz.
+gyülekezeti ház
+létesítése
+579. Tarpa, Kossuth L. u.
+1046 hrsz.
+gyülekezeti ház
+építése
+580. Tata, Kocsi u. 13.
+25/1 hrsz.
+református isko-
+la, cserkészott-
+hon
+581. Tata, Kocsi u. 13.
+25/3 hrsz.
+szolgálati laká-
+sok
+582. Tác, Kossuth u. 135.
+212 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+létesítése
+583. Tákos, Bajcsy-Zs. u. 13.
+17 hrsz.
+gyülekezeti ház
+létesítése
+584. Tengőd, Petőfi S. u. 147.
+54 hrsz.
+gyülekezeti ház
+létesítése
+585. Tibolddaróc, Ábrányi u. 4.
+917/1 hrsz.
+konferenciatelep
+586. Tibolddaróc, Ábrányi u. 4.
+917/2 hrsz.
+konferenciatelep
+587. Tinnye, Bocskai u. 33.
+300 hrsz.
+imaterem, szol-
+gálati lakás
+588. Tiszabecs, Rákóczi u. 23.
+379 hrsz.
+oktatás, szolgá-
+lati lakás
+589. Tiszabecs, Rákóczi u. 57.
+352/2 hrsz.
+gyülekezeti ház
+590. Tiszabura, Dózsa Gy. u. 84.
+170 hrsz.
+gyülekezeti ház
+építése
+591. Tiszabura, Dózsa Gy. u. 84.
+171 hrsz.
+gyülekezeti ház
+építése
+592. Tiszacsécse, Kossuth u. 69.
+158 hrsz.
+szolgálati lakás,
+imaterem
+593. Tiszacsege, Fő u. 29.
+3/2 hrsz.
+cserkészotthon
+594. Tiszaderzs, Arany J. u. 1.
+616 hrsz.
+gyülekezeti ház
+létesítése
+595. Tiszaderzs, Fő u. 22.
+2 hrsz.
+gyülekezeti ház
+létesítése
+596. Tiszadob, Andrássy u. 28.
+66 hrsz.
+gyülekezeti ház
+építése
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+597. Tiszadorogma, Arany J. u. 1.
+54 hrsz.
+parókia bővítése
+598. Tiszaföldvár, Iskola u. 6.
+44/1 hrsz.
+gyülekezeti és if-
+júsági ház
+599. Tiszaföldvár, Kossuth u. 61.
+231 hrsz.
+gyülekezeti ház
+létesítése
+600. Tiszafüred, Fő u. 2.
+4018 hrsz.
+református isko-
+la, szolgálati la-
+kások
+601. Tiszainoka, Kossuth L. u. 5.
+222 hrsz.
+ifjúsági és közös-
+ségi ház
+602. Tiszakanyár, Dombrádi u. 37.
+510 hrsz.
+ifjúsági ház léte-
+sítése
+603. Tiszakarád, Petőfi S. u. 31.
+593 hrsz.
+ifjúsági ház léte-
+sítése
+604. Tiszakerecseny, Alkotmány u.
+50.
+276 hrsz.
+közösségi ház,
+szolgálati lakás
+605. Tiszakerecseny, Árpád u. 65.
+161 hrsz.
+közösségi ház,
+szolgálati lakás
+606. Tiszaladány, Kossuth L. u. 38.
+309/1 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+607. Tiszaladány, Kossuth u. 49.
+58 hrsz.
+gyülekezeti te-
+rem kialakítása
+608. Tiszalök, Kossuth L. u. 40.
+971 hrsz.
+ifjúsági központ
+létesítése
+609. Tiszalök, Kossuth L. u. 43.
+1693/2 hrsz.
+ifjúsági központ
+létesítése
+610. Tiszaluc, Hársfa u. 13.
+724 hrsz.
+óvoda létesítése
+611. Tiszamogyorós, Béke u. 7.
+129 hrsz.
+gyülekezeti ház
+létesítése
+612. Tiszamogyorós, Szabadság u.
+25.
+25 hrsz.
+gyülekezeti ház
+létesítése
+613. Tiszanagyfalu, Kossuth L. u.
+49.
+152 hrsz.
+ifjúsági centrum
+bővítése
+614. Tiszapalkonya, Dózsa Gy. u. 4.
+31/1 hrsz.
+gyülekezeti ház
+bővítése
+615. Tiszaroff, Rákóczi u. 21.
+389 hrsz.
+misszió
+616. Tiszaszalka, Váci M. u. 39.
+128 hrsz.
+gyülekezeti te-
+rem létesítése
+617. Tiszaszentmárton, Damja-
+nich u. 64.
+159 hrsz.
+szolgálati lakás
+618. Tiszaszentmárton, Dózsa Gy.
+u. 4.
+152 hrsz.
+ifjúsági ház
+619. Tiszaszentmárton, Dózsa Gy.
+u. 6.
+153 hrsz.
+közösségi ház
+620. Tiszavasvári, Ady E. u. 6.
+2866 hrsz.
+szociális és ifjú-
+sági célú épület
+létesítése
+621. Tiszavasvári, Garami E. u. 1.
+2861 hrsz.
+református isko-
+la
+622. Tolnanémedi, Fő u. 11.
+362 hrsz.
+gyülekezeti ház
+623. Tornyospálca, Árpád tér 3.
+54 hrsz.
+öregek otthona
+624. Tornyospálca, Árpád tér 5.
+51 hrsz.
+öregek otthona
+625. Tószeg, Petőfi S. u. 18.
+220 hrsz.
+gyülekezeti te-
+rem létestése
+626. Tunyogmatolcs, Rákóczi u.
+79.
+1151 hrsz.
+ifjúsági központ
+létesítése
+627. Turony, Kossuth L. u. 19.
+102 hrsz.
+gyülekezeti te-
+rem
+628. Túristvándi, Kölcsey u. 2.
+79 hrsz.
+gyülekezeti te-
+rem létesítése
+629. Túrkeve, Kálmán király u. 2.
+2583 hrsz.
+református isko-
+la, szolgálati la-
+kás
+630. Túrkeve, Kálmán király u. 4.
+2582 hrsz.
+református isko-
+la, szolgálati la-
+kás
+631. Uny, Kossuth L. u. 4.
+373 hrsz.
+gyülekezeti ház
+632. Uszka, Fő u. 80.
+57 hrsz.
+parókia bővítése
+633. Uszod, Hősök tere 3—4.
+661/1 hrsz.
+gyülekezeti te-
+rem létesítése
+634. Újfehértó, Petőfi S. u. 23.
+271 hrsz.
+szolgálati lakás
+635. Újfehértó, Petőfi S. u. 25.
+272 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+636. Újkenéz, Petőfi S. u. 40.
+124 hrsz.
+ifjúsági ház
+637. Újlőrincfalva, Fő u. 36.
+2/2 hrsz.
+gyülekezeti te-
+rem létesítése
+638. Üllő, Gyömrői u. 3.
+657 hrsz.
+misszió létesíté-
+se
+639. Vajdácska, Fő u. 100.
+327 hrsz.
+imaház létesítése
+640. Vajszló, Kodolányi J. tér 1.
+316/2 hrsz.
+gyülekezeti te-
+rem, konferen-
+ciatelep
+641. Varbó, Dózsa Gy. u. 10.
+247 hrsz.
+öregek napközi
+otthona
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+642. Varbó, Rákóczi u. 52.
+236 hrsz.
+öregek napközi
+otthona bővíté-
+sére
+643. Vasad, Kossuth L. u. 37.
+11 hrsz.
+közösségi ház,
+szolgálati lakás
+644. Vasmegyer, Kossuth u. 104.
+284 hrsz.
+gyülekezeti ház
+építése
+645. Vasmegyer, Kossuth u. 106.
+14/1 hrsz.
+gyülekezeti ház
+építése
+646. Vasmegyer, Kossuth u. 139.
+500 hrsz.
+gyülekezeti ház
+építése
+647. Vác, Kálvin u. 9.
+2121 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+648. Vámosatya, Szabadság u. 84.
+17/1 hrsz.
+gyülekezeti ház
+649. Vámosatya, Szabadság u. 86.
+17/2 hrsz.
+ifjúsági otthon
+létesítése
+650. Vámosoroszi, Zrínyi u. 14.
+2 hrsz.
+imaház létesítése
+651. Vásárosnamény, Kiss E. u. 5.
+1833 hrsz.
+parókia létesíté-
+se
+652. Vásárosnamény, Szabadság
+tér 9.
+1032 hrsz.
+református isko-
+la, szolgálati la-
+kás
+653. Vejti, Petőfi S. u. 11.
+11/2 hrsz.
+református isko-
+la, szolgálati la-
+kás, gyülekezeti
+terem
+654. Vereb, Szabadság tér 36.
+282 hrsz.
+parókia bővítése
+655. Veresegyház, Mogyoródi u. 6.
+1573 hrsz.
+ifjúsági központ
+bővítése
+656. Veresegyház, Új iskola u. 3.
+2 hrsz.
+ifjúsági központ
+bővítése
+657. Veszprém, Győri u. 44.
+2791 hrsz.
+gyülekezeti ház
+658. Véménd, Kossuth L. u. 128.
+867 hrsz.
+imaház bővítése
+659. Vésztő, Békési u. 54.
+2451 hrsz.
+iskola építése
+660. Vésztő, Piac u. 1.
+20/2 hrsz.
+iskola építése
+661. Vésztő, temető
+0289/203 hrsz.
+temető
+662. Vésztő, temető
+0289/205 hrsz.
+temető
+663. Vilmány, Fő u. 101.
+335 hrsz.
+gyülekezeti ház
+664. Vilyvitány, Somogyi B. u. 59.
+137 hrsz.
+ifjúsági központ
+létesítése
+665. Zádorfalva, Petőfi S. u. 21.
+191 hrsz.
+ifjúsági terem lé-
+tesítése
+666. Zemplénagárd, Fő u. 29.
+652 hrsz.
+gyülekezeti ház
+bővítése
+667. Zemplénagárd, Tuzséri u. 2.
+121 hrsz.
+gyülekezeti ház
+bővítése
+668. Zsarolyán, Fő u. 28.
+233 hrsz.
+lelkészi hivatal,
+gyülekezeti te-
+rem
+669. Zsurk, Kossuth tér 32.
+90 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+670. Zsurk, Kossuth tér 62.
+62 hrsz.
+gyülekezeti ház
+bővítése
+Magyarországi Evangélikus Egyház
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+1. Acsa, Kossuth u. 99.
+260 hrsz.
+gyülekezeti ház
+2. Acsád, Béke u. 58.
+287 hrsz.
+ifjúsági terem,
+szolgálati laká-
+sok
+3. Apostag, Hunyadi u. 18.
+589 hrsz.
+gyülekezeti köz-
+pont
+4. Arnót, Petőfi S. u. 98.
+2 hrsz.
+gyülekezeti ház
+5. Aszód, Szabadság tér 8.
+185 hrsz.
+szolgálati laká-
+sok
+6. Aszód, Szontágh lépcső 4.
+196/2 hrsz.
+ifjúsági cent-
+rum, lelkészla-
+kás
+7. Ágfalva, Iskola u. 1.
+484 hrsz.
+lelkészlakás
+8. Ászár, Kossuth L. u. 47.
+66, 67, 68, 74 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+9. Bakonybánk, Kossuth L. u. 9.
+153/1 hrsz.
+szolgálati lakás
+10. Bakonyszentlászló, Vak
+Bottyán u. 4.
+31/3 hrsz.
+imaház
+11. Bakonytamási, Széchenyi u.
+13.
+7 hrsz.
+lelkészlakás
+12. Balassagyarmat, Patvarci u. 2.
+1497 hrsz.
+szociális, oktatá-
+si központ
+13. Balassagyarmat (Ipolyszög),
+Temesvár u. 8.
+6105 hrsz.
+gyülekezeti te-
+rem
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+14. Balatonakali, belterület
+370, 413, 455, 456, 481,
+498/1, 498/2, 499/1 hrsz.
+ifjúsági, közössé-
+gi célú épület
+15. Balf, Fő u. 148.
+5 hrsz.
+hitéleti célú in-
+tézmény, gyüle-
+kezeti ház
+16. Barlahida, Béke u. 5.
+49/1 hrsz.
+ifjúsági központ
+17. Békéscsaba, Jókai u. 22.
+3498 hrsz.
+iskola, kollé-
+gium
+18. Békéscsaba, Luther u. 3.
+4080/2 hrsz.
+hitélet, levéltár,
+szolgálati laká-
+sok
+19. Békéscsaba, Madách u. 2.
+9332/2 hrsz.
+hitéleti célú épü-
+let, levéltár, szol-
+gálati lakás
+20. Békéscsaba, Tessedik S. u. 21.
+2770 hrsz.
+gyermek-, ifjú-
+ságvédelmi in-
+tézmény
+21. Bénye, Fő u. 83—85.
+332 hrsz.
+gyülekezeti te-
+rem, lelkészlakás
+22. Bér, Szabadság tér 2.
+11/1 hrsz.
+gyülekezeti ház
+23. Bezi, Rákóczi u. 45.
+4 hrsz.
+hitoktatás
+24. Boba, Széchenyi u. 28.
+140 hrsz.
+gyülekezeti ház,
+lelkészlakás
+25. Bonyhád, Dózsa Gy. u. 65.
+403 hrsz.
+szociális célú
+épület
+26. Bőny, Ady Endre u. 4.
+533 hrsz.
+gyülekezeti te-
+rem
+27. Budapest V., Fehérhajó u.
+8—10.
+24418 hrsz. (17 db lakás)
+szolgálati lakás,
+idősek napközi
+otthona
+28. Budapest VIII., Karácsonyi S.
+u. 35.
+35460 hrsz.
+gyülekezeti te-
+rem bővítése
+29. Budapest VIII., Vajda Péter
+u. 33.
+38589 hrsz.
+templom, szol-
+gálati lakás
+30. Budapest XII., Márvány u. 23.
+7728/A/13, 7728/A/24,
+7728/A/25—30, 7728/A/32
+hrsz.
+szolgálati laká-
+sok, lelkészi hi-
+vatal
+31. Budapest XIV., Bosnyák tér
+31264/2 hrsz.
+templom, paró-
+kia, teológia kol-
+légium
+32. Budapest XXII., Vöröske-
+reszt u. 1.
+224668 hrsz.
+parókia, közös-
+ségi ház
+33. Bük, Kossuth L. u. 9.
+261 hrsz.
+szolgálati lakás
+34. Cegléd, belterület
+5721 hrsz.
+temető
+35. Cegléd, Nagykátai u. 35.
+1624/4 hrsz.
+szolgálati lakás
+36. Cegléd, Népkör 1.
+58 hrsz.
+gyülekezeti ház
+37. Cegléd, Szabadság tér 5/A.
+60 hrsz.
+gyülekezeti ház
+38. Celldömölk, Rákóczi u. 10.
+743 hrsz.
+ima- és konfe-
+rencia terem
+39. Celldömölk, Somogyi B. u. 31.
+2792 hrsz.
+idősek otthona
+40. Celldömölk, Széchenyi u. 17.
+734 hrsz.
+ima- és konfe-
+rencia terem
+41. Csánig, Fő u. 29.
+178/1 hrsz.
+ifjúsági keresz-
+tény konferen-
+cia ház
+42. Csikóstöttös, Szabadság u. 33.
+175 hrsz.
+gyülekezeti ház,
+szeretetotthon
+43. Csönge, Dózsa Gy. u. 10.
+3/2 hrsz.
+ifjúsági központ
+létesítése
+44. Csönge, Dózsa Gy. u. 25.
+387 hrsz.
+ifjúsági központ
+létesítése
+45. Csót, Rákóczi F. u. 6.
+291 hrsz.
+gyülekezeti ház
+46. Dabas, Luther u. 12.
+4449 hrsz.
+gyülekezeti
+terem
+47. Dabas, Luther u. 27.
+4398 hrsz.
+hitélet
+48. Dabas, Vasút u. 1.
+3247 hrsz.
+gyülekezeti ház
+49. Dabrony, Malom u. 10.
+170 hrsz.
+ifjúsági konfe-
+rencia telep
+50. Dabrony, Malom u. 8.
+171 hrsz.
+gyülekezeti
+terem
+51. Debrecen I., Miklós u. 3.
+9167 hrsz.
+oktatás, egyházi
+igazgatás
+52. Dunaföldvár, Templom u. 38.
+979 hrsz.
+gyülekezeti
+terem
+53. Egyházaskozár, Rákóczi u. 56.
+39 hrsz.
+ifjúsági központ
+54. Erdőkürt, Petőfi S. u. 36.
+342/4 hrsz.
+ifjúsági zenei
+tábor
+55. Fancsal, Rákóczi u. 49.
+174 hrsz.
+gyülekezeti
+terem
+56. Farád, Győri u. 70—72.
+5042/3, 5042/4 hrsz.
+ifjúsági és gyüle-
+kezeti terem
+57. Farmos, Tápiószelei u. 2.
+804/2 hrsz.
+hitélet
+58. Felpéc, belterület
+386 hrsz.
+lelkészlakás
+59. Felsőpetény, Rákóczi u. 11.
+133/2 hrsz.
+ifjúsági ház
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+60. Galgaguta, Gábor Á. u. 3.
+288 hrsz.
+gyülekezeti ház
+61. Gecse, Kossuth L. u. 46.
+229/1, 229/2 hrsz.
+hitéleti célú épü-
+let
+62. Gérce, Kossuth telep 2.
+99/4 hrsz.
+gyülekezeti te-
+rem
+63. Gyönk, Petőfi S. u. 354.
+525 hrsz.
+parókia
+64. Györköny, Fő u. 58.
+4 hrsz.
+vendégház
+65. Györköny, Hegy u. 182.
+1035 hrsz.
+jfjúsági ház, ven-
+dégház
+66. Győr, Ráth Mátyás tér 1—2.
+7499 hrsz.
+szolgálati laká-
+sok
+67. Győr, Bálint M. u. 51. — Rá-
+ba u. 54.
+7555, 7556 hrsz.
+kollégium
+68. Győr, József A. u. 26.
+1886 hrsz
+lelkészlakás
+69. Hánta, Kossuth u. 38.
+419 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+70. Harka, Soproni u. 1.
+32, 33 hrsz.
+gyülekezeti ház
+71. Harta, Templom u. 53.
+1087 hrsz.
+hitéleti célú épü-
+let, kántorlakás
+72. Hegyháthodász, Petőfi S. u. 1.
+90 hrsz.
+gyülekezeti te-
+rem
+73. Heréd, Tabán u. 18.
+351/1 hrsz.
+hitélet
+74. Iharosberény, Rákóczi u. 12.
+152/3 hrsz.
+tanítói lakás
+75. Jákfalva, Kossuth L. u. 4.
+183/1, 183/2 hrsz.
+hitéleti célú épü-
+let
+76. Jobaháza, Ady E. u. 5.
+139/4 hrsz.
+imaház
+77. Káld, Lenin u. 49.
+196/A, 196/A/1, 196/A/2 hrsz.
+hitéleti célú épü-
+let
+78. Kapolcs, Kossuth L. u. 33.
+452 hrsz.
+gyülekezeti te-
+rem
+79. Kaposszekcső, Táncsics M. u.
+35.
+231 hrsz.
+gyülekezeti és if-
+júsági ház
+80. Kecskemét, Arany J. u. 1.
+4029/1, 4029/2 hrsz.
+lelkészi hivatal,
+templomkert
+81. Kemeneshőgyész, Ady E. u.
+25.
+397 hrsz.
+gyülekezeti ház
+82. Kemenesmagasi, Berzsenyi
+tér 3.
+702 hrsz.
+gyülekezeti te-
+rem
+83. Kemenesmagasi, Berzsenyi
+tér 5.
+703 hrsz.
+gyülekezeti ház,
+öregek napközi
+otthona
+84. Kemenespálfa, Kosuth L. u.
+57.
+233 hrsz.
+templom építése
+85. Kemenessömjén, Berzsenyi u.
+34.
+224 hrsz.
+gyülekezeti te-
+rem,
+helytörténeti
+múzeum, szolgá-
+lati lak.
+86. Kéty, Rákóczi u. 82.
+179/1, 179/2 hrsz.
+ifjúsági központ
+87. Kisbabot, Dózsa Gy. u. 30.
+40/4 hrsz.
+hitéleti, oktatási
+épület
+88. Kissomlyó, Kossuth u. 92.
+216 hrsz.
+gyülekezeti ház
+89. Kistormás, Kossuth L. u. 45.
+135 hrsz.
+gyülekezeti te-
+rem
+90. Kölcse, Kölcsey u. 22.
+261 hrsz.
+gyermek- ifjúsá-
+gi intézmény
+91. Kölesd, Öreg u. 3.
+136 hrsz.
+gyülekezeti te-
+rem
+92. Kőszeg, Árpád tér 1.
+1727 hrsz.
+gimnázium, kol-
+légium
+93. Kőszeg, Rajnis u. 11.
+1820/A hrsz.
+szeretetotthon
+bővítése
+94. Kőszeg, Várkör 42.
+1737 hrsz.
+ifjúsági, oktatási
+központ
+95. Kőszeg, Várkör 44.
+1729 hrsz.
+szociális otthon
+96. Kötcse, Kossuth L. u. 3.
+192, 340 hrsz.
+gyülekezeti, ifjú-
+sági ház, lelkész-
+lak.
+97. Kutasó, Ady E. u. 1.
+153/2 hrsz.
+hitéleti célú épü-
+let
+98. Legénd, Dózsa Gy. u. 4.
+328/2 hrsz.
+gyülekezeti te-
+rem bővítése
+99. Lucfalva, Szabadság u. 9.
+311/1, 311/2 hrsz.
+gyülekezeti te-
+rem bővítése
+100. Maglód, Dózsa Gy. u. 20.
+62 hrsz.
+ifjúsági centrum
+101. Magyarbóly, Kossuth L. u. 17.
+395/2 hrsz.
+gyülekezeti ház
+bővítése
+102. Magyargencs, Petőfi S. u. 87.
+597/1 hrsz.
+ifjúsági és gyüle-
+kezeti központ
+103. Magyarkeresztúr, Kossuth L.
+u. 52.
+168/1 hrsz.
+közösségi te-
+rem, szolgálati
+lakás
+104. Malomsok, Kossuth L. u. 14.
+68 hrsz.
+hitéleti célú in-
+tézmény, idősek
+napközi otthona
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+105. Malomsok, Kossuth L. u. 2.
+293, 294, 295 hrsz.
+hitéleti célú int.,
+idősek napközi
+otthona
+106. Mekényes, Fő u. 134.
+299 hrsz.
+gyülekezeti ház
+107. Mencshely, belterület
+10 hrsz.
+gyülekezeti ház
+108. Meszlen, Béke u. 41.
+79 hrsz.
+ifjúsági ház
+109. Mihályháza, Kossuth L. u. 32.
+345 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+110. Miskolc, Dayka G. u. 4.
+14/2 hrsz.
+óvoda és ált. is-
+kola
+111. Miskolc, Hunyadi u. 10.
+14/1 hrsz.
+oktatási célú in-
+gatlan létesítése
+112. Miskolc, Hunyadi u. 8/a.
+11/1 hrsz.
+szolgálati laká-
+sok
+113. Miskolc, Kis-Hunyad u. 5.
+10 hrsz.
+oktatási célú in-
+gatlan létesítése
+114. Miskolc III., Bodrogi Zs. u. 12.
+32838 hrsz. 368/1563-ad része
+fogyatékosok
+napközi otthona
+115. Mórichida, Fő u. 138.
+336 hrsz.
+gyülekezeti te-
+rem, hitoktatói
+terem és szolgá-
+lati lakások
+116. Nagyacsád, Zrínyi u. 21.
+232/4 hrsz.
+gyülekezeti és if-
+júsági központ
+117. Nagyalásony, Kossuth L. u.
+35.
+29 hrsz.
+gyülekezeti te-
+rem bővítése
+118. Nagyalásony, Kossuth L. u.
+86.
+196 hrsz.
+gyülekezeti te-
+rem
+119. Nagybánhegyes, Kossuth L. u.
+24.
+179 hrsz.
+parókia bővítése
+120. Nagybánhegyes, Petőfi S. u.
+59.
+107 hrsz.
+parókia bővítése
+121. Nagycserkesz, Cigánybokor
+0214/2 hrsz.
+gyülekezeti ház,
+gondnoki lakás
+122. Nagycserkesz, Tamásbokor
+0125/9 hrsz.
+templomépítés
+123. Nagydém, Árpád u. 12.
+248 hrsz.
+gyülekezeti ház
+124. Nagygyimót, Pápai u. 51.
+132, 133 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakás
+125. Nagysimonyi, Kossuth u. 3.
+2 hrsz.
+gyülekezeti ház
+126. Nagytarcsa, Petőfi S. u. 4.
+3 hrsz.
+gyülekezeti
+terem
+127. Nemescsó, Péterffy S. u. 35.
+194 hrsz.
+szolgálati lakás,
+ifjúsági terem
+128. Nemeshany, Petőfi S. u. 101.
+203 hrsz.
+hitoktatói terem
+129. Nemeskolta, Szabadság u. 65.
+110 hrsz.
+ifjúsági központ
+130. Nyíregyháza, Antalbokor 17.
+0554/12 hrsz.
+iskola bővítése
+131. Nyíregyháza, Bálintbokor
+01017/17 hrsz.
+iskola bővítése
+132. Nyíregyháza, Salamonbokor
+0670/2 hrsz.
+gyülekezeti ház
+133. Nyíregyháza, Szent István
+u.17—19. — Eötvös u. 12.
+4706/2 hrsz.
+gimnázium
+134. Oroszlány, Alkotmány u. 67.
+959 hrsz.
+hitoktatási helyi-
+ség, levéltár,
+gondnoki lakás
+135. Ostffyasszonyfa, Március 15.
+tér 3.
+507 hrsz.
+közösségi ház
+136. Örménykút, Galóhalmi isko-
+la
+0150/4 hrsz.
+szeretetotthon
+137. Örménykút, külterület
+0151/23 hrsz.
+szeretetotthon
+bővítése
+138. Öskü, Iskola u. 2.
+216 hrsz.
+gyülekezeti ház
+139. Pálfa, Fő u. 23.
+29 hrsz.
+gyülekezeti ház
+140. Pápa, Anna tér 3—5.
+2982/2, 2984/A/1—7, 2985
+hrsz.
+gyülekezeti, ok-
+tatási termek
+141. Pápa-Tapolcafő, Park u. 7.
+9484 hrsz.
+gyülekezeti te-
+rem
+142. Patvarc, Gyarmati u. 32.
+27 hrsz.
+gyülekezeti te-
+rem
+143. Péteri, Petőfi S. u. 58.
+240 hrsz.
+idősek napközi
+otthona
+144. Pilis, Kossuth L. u. 45.
+1775 hrsz.
+szeretetotthon
+145. Püspökmolnári, Kossuth L. u.
+91.
+210 hrsz.
+gyülekezeti ház
+146. Pusztaszentlászló, Kossuth L.
+u. 112.
+114 hrsz.
+hittanterem, if-
+júsági tábor
+147. Pusztavám, Kossuth L. u. 123.
+1561 hrsz. 188/204-ed rész
+hitéleti célú épü-
+let
+148. Rád, Petőfi S. u. 11.
+306 hrsz.
+gyülekezeti ház
+bővítése
+149. Rád, Petőfi S. u. 9.
+307 hrsz.
+kántorlakás
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+150. Rápcakapi, Fő u. 72.
+95 hrsz.
+ifjúsági ház
+151. Répcelak, Bartók B. u. 55.
+297/1, 297/2 hrsz.
+gyülekezeti ház
+152. Répcelak, Jókai u. 2—1.
+264/1, 264/2, 264/3 hrsz.
+gyülekezeti ház
+153. Répceszemere, Fő u. 36.
+71 hrsz.
+gyülekezeti ház
+154. Sárbogárd, Magyar u. 1.
+5750 hrsz.
+szolgálati laká-
+sok
+155. Sárszentlőrinc, Petőfi S. u. 19.
+142/4, 142/5 hrsz.
+gyülekezeti és if-
+júsági ház
+156. Sárszentlőrinc, Petőfi S. u. 39.
+128 hrsz.
+gyülekezeti és if-
+júsági ház
+157. Sárvár, Erdőssy Sz. J. u. 2.
+187 hrsz.
+gyülekezeti te-
+rem, szolgálati
+lakások
+158. Soltvadkert, Bocskai u. 8.
+1521/5 hrsz.
+egyházi központ
+létesítése
+159. Somlószőlős, Kossuth L. u.
+105.
+446/1 hrsz.
+gyülekezeti te-
+rem
+160. Somogyszil, Szabadság u. 295.
+207/1 hrsz.
+hitéleti célú in-
+tézmény
+161. Somogyszil, Szabadság u. 296.
+208/2 hrsz.
+szolgálati lakás,
+hitéleti célú int.
+162. Sopron, Bajcsy-Zs. u. 9.
+6162 hrsz.
+szeretetotthon,
+hitéleti intéz-
+mény
+163. Sopron, Bünker Rajnárd köz 4.
+238 hrsz.
+szolgálati laká-
+sok
+164. Sopron, Fő tér 6.
+192, 193 hrsz.
+gyülekezeti ház,
+múzeum
+165. Sopron, Halász u. 46.
+1909/1 hrsz.
+gyülekezeti ház,
+múzeum
+166. Sopron, Halász u. 9.
+1035 hrsz.
+gyülekezeti ház,
+múzeum
+167. Sopron, Rákóczi u. 12.
+411/A hrsz.
+szolgálati laká-
+sok
+168. Sopron, Színház u. 27.
+239/1, 239/2 hrsz.
+hitéleti, kulturá-
+lis és oktatási in-
+tézmény
+169. Sopron, Templom u. 12.
+182/1 hrsz.
+paplak
+170. Sopron, Templom u. 15.
+33 hrsz.
+szolgálati laká-
+sok
+171. Súr, Petőfi S. u. 36.
+217 hrsz.
+lelkészlakás
+172. Szabadi, Petőfi S. u. 20.
+125/1 hrsz.
+gyülekezeti ház,
+szeretetotthon
+173. Szakony, Fő u. 49.
+88 hrsz.
+ifjúsági ház, szol-
+gálati lakás
+174. Szarvas, Arany J. u. 82.
+2606 hrsz.
+szolgálati laká-
+sok
+175. Szarvas, Dózsa Gy. u. 56.
+2682 hrsz.
+szeretetotthon
+176. Szarvas, Dózsa u. 2.
+3450 hrsz.
+szociális, oktatá-
+si célú épület
+177. Szarvas, Fő tér 3.
+5024/1 hrsz.
+általános iskola
+178. Szarvas, Kossuth u. 7/1.
+2041/1 hrsz.
+szeretetotthon
+179. Szarvas, külterület
+01235/2 hrsz.
+gyülekezeti te-
+rem
+180. Szarvas, Szabadság u. 6—10.
+2045/A/4, 2045/A/7—38 hrsz.
+szolgálati laká-
+sok
+181. Szarvaskend, Fő u. 40.
+187/2 hrsz.
+templomépítés
+182. Szeged I., Osztrovszky u. 5.
+2632 hrsz.
+hittanár képző
+iskola
+183. Szentgotthárd, Alkotmány u.
+84.
+2224 hrsz.
+szolgálati lakás
+184. Szergény, Kolozsvári u. 47.
+75 hrsz.
+gyülekezeti te-
+rem, hitélet
+185. Szergény, Kolozsvári u. 59.
+95 hrsz.
+hitélet
+186. Szilsárkány, Kiss F. u. 24.
+330 hrsz.
+lelkészlakás
+187. Szolnok, Szigligeti u. 5.
+812/2/ A—E hrsz.
+gyülekezeti ház
+188. Tab, József A. u. 4.
+158 hrsz.
+szolgálati lakás
+bővítése
+189. Tab, Kossuth L. u. 55.
+159, 160 hrsz.
+szolgálati lakás,
+hitélet
+190. Taliándörögd, Petőfi S. u. 2.
+174/1 hrsz.
+gyülekezeti ház
+191. Tápiószentmárton, Kossuth
+u. 1.
+658/3, 658/4 hrsz.
+gyülekezeti ház
+192. Tékes, Petőfi S. u. 55.
+29 hrsz.
+gyülekezeti ház,
+szeretetotthon
+193. Tényő, Domb u. 1.
+116/2 hrsz.
+gyülekezeti ház
+194. Terény, Arany J. u. 6.
+244 hrsz.
+gyülekezeti ház,
+parókia
+195. Tét, Fő u. 75.
+234/1 hrsz.
+ifjúsági ház, szol-
+gálati lakás
+196. Tokaj, Kossuth tér 14.
+81/1 hrsz.
+evangélikus tu-
+rista központ,
+vendégház, kon-
+ferenciaterem
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+197. Tokorcs, Szabadság u.
+15/1., 15/2, 32/1, 32/2 hrsz.
+gyermek és ifjú-
+sági intézmény.
+198. Tolnanémedi, Fő u. 36.
+2 hrsz.
+gyülekezeti ház,
+konferenciaköz -
+pont
+199. Tolnanémedi, Fő u. 37.
+435 hrsz.
+gyülekezeti ház,
+konferenciaköz -
+pont
+200. Tolnanémedi, Fő u. 39.
+436 hrsz.
+gyülekezeti ház,
+konferenciaköz -
+pont
+201. Torvaj, Kossuth L. u. 49.
+282 hrsz.
+gyülekezeti te-
+rem
+202. Újcsanálos, Rákóczi u. 45.
+304 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+203. Uraiújfalu, Petőfi S. u. 31.
+406 hrsz.
+ifjúsági és hitéle-
+ti cél
+204. Vác, Liszt F. sétány 3.
+2933/A/3 hrsz.
+szolgálati lakás
+205. Vác, Széchenyi u. 24.
+3039/A/2 hrsz.
+gyülekezeti ház
+206. Vanyola, Vajda P. u. 2.
+77/3 hrsz.
+gyülekezeti te-
+rem
+207. Veszprém, Kossuth L. u. 6.
+6/5, 11 hrsz.
+szolgálati lakás
+208. Veszprémvarsány, Kossuth L.
+u. 34.
+131 hrsz.
+gyülekezeti ház,
+szolgálati lakás
+209. Zsebeháza, Kossuth L. u. 57.
+62 hrsz.
+ifjúsági intéz-
+mény
+Magyarországi Zsidó Hitközségek Szövetsége
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+1. Budapest I., Hegyalja út 24.
+4884/5 hrsz.
+oktatás
+2. Budapest VI., Vasvári P. u. 5.
+29346 hrsz. 52/100-ad része
+szolgálati laká-
+sok
+3. Budapest VII., Dob u. 23.
+34249 hrsz.
+ifjúsági klub,
+idősek otthona,
+foglalkoztató
+4. Budapest VII., Dob u. 108.
+33966 hrsz. 5/90-ed része
+ifjúsági klub
+5. Budapest VII., Kertész u. 32.
+34341 hrsz.
+ortodox iskola
+6. Budapest VIII., Nagyfuvaros
+u. 4
+35058 hrsz. 409/500-ad része
+hitközségi kör-
+zet, szolgálati
+lakás
+7. Budapest XII., Budakeszi u.
+32.
+10864 hrsz.
+kulturális
+központ
+8. Budapest XIII., Szabolcs u.
+37.
+28051 hrsz.
+kórház bővítése
+9. Debrecen, Hadházi u. 6.
+20596/2 hrsz.
+idősek otthona
+10. Debrecen, Simonffy u.
+21—23.
+8693 hrsz.
+szociális célú
+épület
+11. Győr, Bajcsy-Zs. u. 24.
+7186 hrsz.
+Talmud Tóra
+helyiség
+12. Kecskemét, Rákóczi u. 2.
+4097 hrsz.
+hitélet
+13. Nagykálló, Mártírok u. 58.
+1376 hrsz.
+hitélet
+14. Szeged, Moszkvai krt. 1—3.
+25196 hrsz.
+idősek otthona
+és kollégium
+15. Vác, Eötvös u. 3. — Törpe u.
+3.
+3033, 3035 hrsz.
+hitélet
+16. Zalaegerszeg, Tompa M. u. 2.
+3152 hrsz.
+hitélet
+Budai Szerb Ortodox Egyházmegye
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+1. Budakalász, Iskola u. 1.
+2, 3/2 hrsz.
+közösségi ház,
+egyházközségi
+iroda
+2. Budapest I., Attila u. 77.
+7113/A hrsz.
+szolgálati
+lakások
+3. Budapest V., Hercegprímás
+u. 4.
+24543 hrsz.
+egyházi közmű-
+velődési, nevelé-
+si célok
+4. Budapest V., Váci u. 63.
+23900 hrsz.
+lelkészlakás
+5. Budapest V., Veres Pálné
+u. 17.
+23972/A/33, 23972/A/15 hrsz.
+szolgálati lakás,
+oktatás
+6. Deszk, Felszabadulás u. 41.
+84 hrsz.
+hitélet, oktatási
+célok
+7. Hercegszántó, Alkotmány tér
+10.
+696 hrsz.
+szolgálati lakás,
+iroda, közösségi
+terem
+8. Hódmezővásárhely, Szántó
+Kovács J. u. 9—11.
+5199/4 hrsz.
+egyházi iroda,
+szolgálati
+lakások
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+9. Lórév, Dózsa György u. 63.
+103 hrsz.
+szociális célú
+épület
+10. Magyarcsanád, Templom tér 5.
+461/1, 461/2 hrsz.
+szolgálati laká-
+sok
+11. Majs, Kossuth u. 304.
+355 hrsz.
+Pécsi Egyházme-
+gyei Központ
+12. Pécs, Zrínyi u. 15.
+18597 hrsz.
+kulturális célok
+13. Szeged I. (Szőreg), Szerb u. 52.
+1605/1 hrsz.
+közösségi ház
+14. Szentendre, Fő tér 6.
+1858 hrsz.
+múzeum, orszá-
+gos vallási köz-
+pont
+Magyarországi Baptista Egyház
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+1. Budapest VIII., József u. 12.
+34901 hrsz. 173/200-ad része
+hitéleti célú épü-
+let
+2. számú melléklet
+az 1116/1999. (XII. 6.) Korm. határozathoz
+A Magyar Katolikus Egyház javára 2011-ig rendezésre
+kerülő ingatlanok jegyzékének kiegészítése
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+1. Budapest VII., Rózsák tere 9.
+33583 hrsz.
+templom
+2. Budapest X., Kápolna u.
+41455 hrsz.
+kápolna
+3. Budapest XII., Diana u. 4.
+9612/7, 9617/8 hrsz.
+templom, temp-
+lomkert, közös-
+ségi ház
+4. Dorogháza, Malom u. 1.
+416 hrsz.
+iskola
+5. Hernádvécse, Rákóczi u. 56.
+240 hrsz.
+tanterem, kápol-
+na
+6. Kemenespálfa, Kossuth u. 30.
+274 hrsz.
+iskola
+7. Kőszegdoroszló, Fő u. 34.
+77 hrsz.
+polgármesteri
+hivatal, orvosi
+rendelő, kultur-
+terem
+8. Mucsony, Ady E. u. 4.
+794 hrsz.
+iskola
+Magyarországi Unitárius Egyház
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+1. Budapest IX., Hőgyes Endre
+u. 3.
+36870 hrsz. 25/100-ad része
+templom, szol-
+gálati lakások
+3. számú melléklet
+az 1116/1999. (XII. 6.) Korm. határozathoz
+Az 1046/1999. (V. 5.) Korm. határozat 1. számú
+mellékletének módosítása
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+79. Bodvarákó, Ostoros dülő 1. 1075
+114. Budapest V., Ferenciek tere 7—8. 24188/A/
+111—118,
+
+115. Budapest V., Ferenciek tere 7—8. 24188/A/27,
+
+116. Budapest V., Hercegprímás
+u. 7. 24546/0/A/27
+117. Budapest V., Március 15. tér 2. 24320/A/7/8/9
+118. Budapest V., Március 15. tér 2. 24320/A/2/5/6
+135. Budapest XI., Ménesi út 26. 4957
+(1781/2895-
+öd rész)
+140. Budapest XII., Diana u. 4. 9612/5
+141. Budapest XII., Diana u. 4. 9612/7,
+9612/8
+171. Bükkösd-
+Megyefa,
+Petőfi u. 22. 583
+172. Bükkzsérc, Rákóczi u. 122. 197/1
+254. Felsőtárkány, Fő u. 400. 1529, 1530,
+
+324. Ibrány, Ady E. u.
+Lehel u.
+34.
+57.
+
+456. Mosonma-
+gyaróvár,
+Csaba u. 1. 1591, 1592,
+1593/2
+536. Pápa, Borsosgyőri u. 32. 7076
+Sor-
+szám
+Ingatlan megnevezése
+Ingatlan tervezett
+funkciója
+
+Magyarországi Református Egyház
+Sorszám Kártalanítással rendezett ingatlan Tulajdonba adott ingatlan Ingatlan tervezett funkciója
+1. Abony, Kálvin J. u. 3.
+3328/1 hrsz
+ref. iskola, szolgálati lakás
+2. Csarnóta, Fő u. 7.
+14 hrsz.
+gyülekezeti ház
+3. Luzsok, Fő u. 16.
+22 hrsz.
+gyülekezeti terem
+4. Madocsa, Torony u. 39.
+4 hrsz.
+gyülekezeti ház
+5. Szigetvár (Becefa), Fő u. 21.
+2430 hrsz.
+szolgálati lakás
+6. Tolnanémedi, Fő u. 11.
+362 hrsz.
+gyülekezeti ház
+7. Turony, Kossuth L. u. 19.
+102 hrsz.
+gyülekezeti terem
+8. Vajszló, Kodolányi J. tér 1.
+316/2 hrsz.
+gyülekezeti terem, konferencia
+telep
+9. Ajka, Bajcsy-Zs. u. 3.
+210/1 hrsz.
+gyülekezeti ház
+10. Ádánd, Árpád u. 2—4.
+228/1 hrsz.
+gyülekezeti ház
+11. Balatonhenye, Fő u. 20.
+166 hrsz.
+hitélet
+12. Dudar, Kossuth L. u. 17.
+712 hrsz.
+gyülekezeti ház
+13. Kálmáncsa, Kossuth L. u.
+119.
+123/1 hrsz.
+imaterem
+14. Nemesvámos, Kossuth L. u. 31.
+1 hrsz.
+hitélet
+15. Szákszend, Csillag u. 21/A.
+218 hrsz.
+gyülekezeti ház
+16. Békés, Petőfi S. u. 41.
+816 hrsz.
+ref. iskola bővítése
+17. Nyírbátor, Édesanyák útja 14.
+2029 hrsz.
+szolgálati lakások
+18. Nyírbátor, Édesanyák útja 16.
+2030 hrsz.
+szolgálati lakás
+19. Szakoly, Létai u. 10.
+809 hrsz.
+parókia létesítése
+20. Szamosangyalos, Rákóczi
+u. 18.
+314, 315 hrsz.
+gyülekezeti ház építése
+21. Tiszaszentmárton, Damjanich
+u. 64.
+159 hrsz.
+szolgálati lakás
+22. Újfehértó, Petőfi S. u. 25.
+272 hrsz.
+gyülekezeti terem, szolgálati la-
+kás
+23. Budapest X., Kerepesi út 69.
+39216/5 hrsz.
+ref. templom, lakóház
+24. Kisléta, Bogáti u. 1.
+406/4 hrsz.
+templomkert
+
+Sorszám Kártalanítással rendezett ingatlan Tulajdonba adott ingatlan Ingatlan tervezett funkciója
+25. Debrecen, Deák F. u. 69.
+26208/3 hrsz.
+gyülekezeti ház
+26. Székesfehérvár, Széchenyi u. 20.
+547 hrsz.
+iskola
+27. Tata, Kocsi u. 13.
+25/1 hrsz.
+ref. iskola, cserkész-otthon
+28. Tác, Kossuth L. u. 135.
+212 hrsz.
+gyülekezeti ház, szolgálati la-
+kás létesítése
+29. Biharkeresztes, Damjanich u. 21.
+185 hrsz.
+zeneiskola
+30. Dévaványa, Bem J. u. 7.
+1905 hrsz.
+ált. iskola
+31. Dombrád, Kossuth u. 43.
+11 hrsz.
+ált. iskola
+32. Kisújszállás, Arany J. u. 1.
+2666/2 hrsz.
+ált. iskola, szolgálati lakás
+33. Kisújszállás, Vásár u. 24.
+2821 hrsz.
+ált. iskola
+34. Kocsord, Táncsics u. 52.
+100 hrsz.
+közösségi ház
+35. Létavértes, Irinyi u. 11.
+196 hrsz.
+szolgálati lakás, ifjúsági ház,
+nyomda
+36. Milota, Vörösmarty u. 95.
+137 hrsz.
+gyülekezeti ház, szolgálati lakás
+37. Szatmárcseke, Táncsics u. 2.
+180/4 hrsz.
+gyülekezeti terem, szolgálati la-
+kás
+38. Szeged, Kálvin tér 2.
+2985 hrsz.
+egyházi igazgatás, szolgálati la-
+kások
+39. Tarpa, Kossuth L. u. 17—19.
+1058 hrsz.
+gyülekezeti ház létesítése
+40. Tiszacsécse, Kossuth L. u. 69.
+158 hrsz.
+imaterem, szolgálati lakás
+41. Tiszakerecseny, Árpád u. 65.
+161 hrsz.
+közösségi ház
+42. Tiszakerecseny, Alkotmány u.
+50.
+276 hrsz.
+közösségi ház
+43. Miskolc I., Széchenyi u. 46.
+3688 hrsz.
+templom építése
+44. Miskolc, Palóczy u. 4.
+2557 hrsz.
+egyházker. isk. bőv.
+45. Miskolc, I. Corvin u. 70.
+3700/55 hrsz.
+gyermek- és ifjúsági központ,
+szolgálati lakás létesítése
+46. Nemesbikk, Alkotmány u.
+16.
+4 hrsz.
+gyülekezeti terem építése
+47. Kondó, Szabadság u. 81.
+25 hrsz.
+gyülekezeti ház építése
+
+Magyarországi Evangélikus Egyház
+Sorszám Kártalanítással rendezett ingatlan Tulajdonba adott ingatlan Ingatlan tervezett funkciója
+1. Dunaföldvár, Templom u. 38.
+979 hrsz.
+gyülekezeti terem
+2. Iharosberény, Rákóczi F. u. 12.
+152/3 hrsz.
+tanítói lakás
+3. Aszód, Szongtágh L. 4.
+196/2 hrsz.
+ifjúsági centrum, lelkészlakás
+4. Kissomlyó, Kossuth u. 92.
+216 hrsz.
+gyülekezeti ház
+5. Nyíregyháza, Szent István u.
+17—19.
+Eötvös u. 12.
+4706/2 hrsz.
+gimnázium
+6. Bakonytamási, Széchenyi u.
+13.
+7 hrsz.
+lelkészlakás
+7. Acsád, Béke u. 58.
+287 hrsz.
+ifjúsági és egyházi szolg. épület
+8. Nagytarcsa, Petőfi S. u. 4.
+3 hrsz.
+gyülekezeti terem
+9. Vác, Széchenyi u. 24.
+3039/A/2 hrsz.
+gyülekezeti ház
+10. Budapest XII., Márvány u.
+23.
+7728/A/24, 7728/A/13,
+7728/A/25—30, 7728/A/32
+hrsz.
+hitéleti célú épület
+11. Budapest XIV., Bosnyák tér
+31264/2 hrsz.
+templom, parókia, teológia
+12. Budapest VIII. ,Vajda Péter u. 33.
+38589 hrsz.
+templom, egyházi lakás
+Magyar Katolikus Egyház
+Sorszám Kártalanítással rendezett ingatlan Tulajdonba adott ingatlan Ingatlan tervezett funkciója
+1. Budapest I., Szabó Ilonka u.
+2—4.
+14206 hrsz.
+gimnázium
+2. Süttő
+0167/1, 0167/4 hrsz.
+ifjúsági tábor
+Magyarországi Zsidó Hitközségek Szövetsége
+Sorszám Kártalanítással rendezett ingatlan Tulajdonba adott ingatlan Ingatlan tervezett funkciója
+1. Zalaegerszeg, Tompa M. u. 2.
+3152 hrsz.
+oktatási és kulturális központ
+2. Nagykálló, Mártírok u. 58.
+1376 hrsz.
+közösségi és hitéleti cél
