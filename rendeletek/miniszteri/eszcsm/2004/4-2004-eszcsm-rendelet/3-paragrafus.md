@@ -1,0 +1,1 @@
+## ,,(4) Az egyéni gondozási terv – a fogyatékos személyek otthona kivételével – az ápolást, gondozást nyújtó intézményben elhelyezett, a nappali intézményi ellátásban részesülő, valamint az (1) bekezdés c) pontjában meghatározott alapellátásban részesülő személy ellátásához kapcsolódó, az e rendeletben meghatározott feladatokat rögzíti.''

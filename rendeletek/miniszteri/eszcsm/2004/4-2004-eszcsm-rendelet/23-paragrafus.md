@@ -1,0 +1,1 @@
+## ,,(3) A pszichiátriai, illetve a szenvedélybetegek lakóotthonában élőket – a 98. § (2) bekezdésében foglaltak mellett – a közösségi pszichiátriai gondozó, illetve a szenvedélybetegek közösségi gondozója is szükség szerint, de legalább hetente egyszer meglátogatja.''

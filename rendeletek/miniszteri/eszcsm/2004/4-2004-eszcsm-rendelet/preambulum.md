@@ -1,0 +1,1 @@
+A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 132. §-a (2) bekezdésének b) és c) pontjában, valamint a helyi önkormányzatokról szóló 1990. évi LXV. törvény 97. §-ának b) pontjában kapott felhatalmazás alapján a következőket rendelem el:
