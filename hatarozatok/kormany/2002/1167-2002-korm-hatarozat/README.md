@@ -1,0 +1,9 @@
+# 1167/2002. (X. 10.) Korm. határozat
+
+az ,,Esélyt a jövőnek!'' program megvalósításával kapcsolatos feladatokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-1167-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2002-10-10 | 2002-1167-30-22.1 | 1167/2002. (X. 10.) Korm. határozat |
