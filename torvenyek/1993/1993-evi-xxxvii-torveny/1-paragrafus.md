@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság Országgyűlése a Magyar Köztársaság és Ausztrália között a beruházások kölcsönös elősegítéséről és védelméről Budapesten, az 1991. évi augusztus hó 15. napján aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1992. április 10-én megtörtént. Ennek megfelelően a Megállapodás 1992. május 10-én hatályba lépett.)
