@@ -1,0 +1,1 @@
+A Kormány felkéri a helyi önkormányzatokat, hogy a társasházzá alakult épületek központi hőellátó berendezéseit – a távhőszolgáltatásról szóló 1998. évi XVIII. törvény rendelkezéseire figyelemmel a távhőszolgáltatásként működtetettek visszaminősítésével – 1999. január 1-jétől kezdődően – a szolgáltatás szüneteltetése nélkül – adja a társasházak tulajdonába.
