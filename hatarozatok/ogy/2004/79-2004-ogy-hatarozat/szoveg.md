@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Újhelyi István országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 20.B.24.203/2004/1. számú megkeresésével érintett ügyben nem függeszti fel.
