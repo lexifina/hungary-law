@@ -1,0 +1,1 @@
+## 1. § A Vámtarifa Bizottság feladata az autonóm vámfelfüggesztésekre és vámkontingensekre vonatkozó kérelmek és kifogások összegyűjtése, az alaki és tartalmi elemek ellenőrzése, valamint a követelményeknek megfelelő kérelmek és kifogások továbbítása az Európai Bizottsághoz.

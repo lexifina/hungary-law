@@ -1,0 +1,1 @@
+## 4. § A Vámtarifa Bizottság üléseit szükség szerint, de évente legalább kétszer tartja. Az üléseket a Vámtarifa Bizottság elnöke hívja össze. Az ülésekről jegyzőkönyv készül, amelyben rögzíteni kell az adott kérelem vagy kifogás lényegét és a Vámtarifa Bizottság állásfoglalását.

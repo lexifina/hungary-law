@@ -1,0 +1,1 @@
+## 5. § A Vámtarifa Bizottság üléseinek előkészítését és a jegyzőkönyv elkészítését a Vámtarifa Bizottság titkára végzi. A Vámtarifa Bizottság állásfoglalásáról a titkár az ülést követő két héten belül tájékoztatja a kérelmezőt (előterjesztőt).
