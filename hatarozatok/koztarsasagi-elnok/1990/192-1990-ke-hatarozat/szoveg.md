@@ -1,0 +1,1 @@
+Az Alkotmány 30/A. §-ának (1) bekezdése alapján, a miniszterelnök javaslatára Lukáts Miklóst, a Művelődési és Közoktatási Minisztérium politikai államtitkárát tisztségéből – más fontos megbízatása miatt – 1990. szeptember 14-ei hatállyal felmentem.
