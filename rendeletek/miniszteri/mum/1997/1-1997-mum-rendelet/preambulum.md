@@ -1,0 +1,1 @@
+A Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény 21. §-a (1) bekezdésének a) és b) pontjaiban kapott felhatalmazás alapján – a 2. § tekintetében a szakképzésről szóló 1993. évi LXXVI. törvény értelmében a szakképesítésért felelős miniszterrel egyetértésben – a következőket rendelem el:
