@@ -1,0 +1,1 @@
+Az Egyetemes Postaegyesület 1964. évi július hó 10. napján, Bécsben aláírt Alapokmánya kihirdetéséről rendelkező 1967. évi 26. törvényerejű rendeletnek (a továbbiakban: Ao.) a Washingtonban, 1989. december hó 14-én elfogadott 4. Pótjegyzőkönyvvel történő módosítására az Országgyűlés a következő törvényt alkotja:

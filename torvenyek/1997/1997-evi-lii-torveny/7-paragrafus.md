@@ -1,0 +1,1 @@
+7. § Ez a törvény a kihirdetése napján lép hatályba, rendelkezéseit azonban 1991. január 1-jétől kell alkalmazni, egyidejűleg az Ao.-ból az Egyetemes Postaegyesület Alapokmányának Zárójegyzőkönyve, az Egyetemes Postaegyesület Általános Szabályzata, az Egyetemes Postaegyesület Általános Szabályzatának Zárójegyzőkönyve hatályát veszti.
