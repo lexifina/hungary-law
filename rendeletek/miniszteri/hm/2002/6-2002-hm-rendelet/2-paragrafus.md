@@ -1,0 +1,3 @@
+2. § (1) A Hjt. 66. §-ában, illetőleg a Hft. 31. §-ának (5) bekezdésében szereplő esetekben a képzési támogatás visszatérítésére azok a hivatásos katonák kötelezhetők, akik tanulmányi, illetve ösztöndíjszerződés alapján iskolai vagy tanfolyami rendszerű belföldi vagy külföldi képzésben vettek részt.
+
+(2) Nem kötelezhető a képzési támogatás visszatérítésére az, akit a katonai szervezet kötelezett a tanulmányok elvégzésére, különösen, ha az általa betöltött beosztásra előírt iskolai végzettség megszerzése érdekében folytatta tanulmányait, illetve a honvédség által elrendelt szaktanfolyami képzésen vett részt.
