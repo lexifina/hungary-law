@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Meteorológiai Műholdak Hasznosításának Európai Szervezete (EUMETSAT) között, 1999. július 7-én aláírt Együttműködési Megállapodást e rendelettel kihirdeti.
