@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére – figyelembe véve, hogy a hivatásos szolgálat felső korhatárát túlhaladta – érdemei, elismerése mellett, vele egyetértésben 1990. december 1-jei hatállyal Nagy Lajos vezérőrnagy szolgálati viszonyát megszüntetem és nyugállományba helyezem.
