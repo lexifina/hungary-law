@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére – figyelembe véve, hogy a hivatásos szolgálat felső korhatárát túlhaladta – érdemei elismerése mellett, 1990. november 15-ei hatállyal, dr. Lapos Mihály vezérőrnagy szolgálati viszonyát megszüntetem és nyugállományba helyezem.
