@@ -1,0 +1,1 @@
+## 14. § Pengőben és adópengőben teljesítendő minden fizetési kötelezettséget az 1946. évi augusztus hó 1. napjától kezdve a minisztérium rendeletében (7. §) meghatározandó értékarány szerint forintértékben lehet teljesíteni.

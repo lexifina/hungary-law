@@ -1,0 +1,1 @@
+## 13. § Ha az 1946. évi augusztus hó 1. napján vagy e nap után keletkezett jogügyletben valamely pénzösszeg a pénzérték megjelölése nélkül van meghatározva, azt forintértékben meghatározottnak kell tekinteni, kivéve ha bizonyítást nyert, hogy a jogügyeletet létesítő fél vagy felek szándéka a jogügylet létesítéskor más pénzérték meghatározására irányult.
