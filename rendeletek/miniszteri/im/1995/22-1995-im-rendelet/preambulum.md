@@ -1,0 +1,1 @@
+A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lt.) 87. §-a (1) bekezdésének k)—l) pontjában kapott felhatalmazás alapján a következőket rendelem el:
