@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Boros Jenőt kinevezem főkonzullá és megbízom a Magyar Köztársaságnak a Cseh és Szlovák Szövetségi Köztársaságban Szlovákia területére kiterjedő hatáskörrel, Bratislava székhellyel működő főkonzulátusa vezetésével.
