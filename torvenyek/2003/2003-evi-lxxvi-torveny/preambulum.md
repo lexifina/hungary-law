@@ -1,0 +1,1 @@
+Az Országgyűlés az Országos Rádió és Televízió Testület (a továbbiakban: ORTT) 2002. évi költségvetéséről szóló 2000. évi CXXXV. törvényben meghatározott költségvetése végrehajtásáról a következő törvényt alkotja:
