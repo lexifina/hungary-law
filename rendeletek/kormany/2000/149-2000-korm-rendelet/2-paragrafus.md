@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Európa Tanács tagállamai között 1992. január 16-án kelt, Vallettában aláírt Európai Egyezmény a régészeti örökség védelméről szóló Egyezményt e rendelettel kihirdeti.
