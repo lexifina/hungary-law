@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére Schmidt István vezérőrnagynak, a Magyar Honvédség repülőfönökének – a hivatásos szolgálat felső korhatárának túlhaladtával – kérelmére 1990. május 1-jével szolgálati viszonyát megszüntetem és egyidejűleg nyugállományba helyezem.
