@@ -1,0 +1,1 @@
+A Kormány a bankok konszolidációjának ellenőrzésére, valamint a privatizációs folyamatok koordinálására — munkakörének és egyéb feladatainak érintetlenül hagyása mellett — Farkas Istvánt, a Pénzügyminisztérium főcsoportfőnökét, 1994. október 20-i hatállyal bankprivatizációs kormánybiztossá kinevezi.
