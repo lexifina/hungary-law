@@ -1,0 +1,1 @@
+Az Országgyűlés a képviselők jogállásáról szóló törvény hatályba lépéséig úgy határoz, hogy miniszteri, illetőleg politikai államtitkári tisztséget betöltő képviselő országgyűlési bizottságnak nem lehet tagja.
