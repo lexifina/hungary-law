@@ -1,0 +1,1 @@
+## 3. § A védetté nyilvánítás célja a területen lévő növény- és állatfajok, természetes erdő- és növénytársulások, jellegzetes tájképi adottságok, kultúrtörténeti értékek, valamint a táj jellegét meghatározó földfelszíni formák, felszíni vizek megóvása, fenntartása.

@@ -1,0 +1,3 @@
+1. § (1) Védetté nyilvánítom ,,Pécselyi-medence Tájvédelmi Körzet'' (a továbbiakban: Tájvédelmi Körzet) elnevezéssel az Aszófő, Balatonfüred, Balatonszőlős, Balatonudvari, Dörgicse, Mencshely, Örvényes, Pécsely, Vászoly községhatárokban lévő, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, 5780 hektár kiterjedésű területet.
+
+(2) A Tájvédelmi Körzet területe tartalmazza az Országos Természetvédelmi Tanács 1195/94. számú határozatával védetté nyilvánított Pécselyi Zádor-kút, valamint a 3/1987. (VII. 10.) OKTH rendelkezéssel létesített Aszófői erdő Természetvédelmi Területeket.

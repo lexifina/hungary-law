@@ -1,0 +1,1 @@
+## 2. § A Tájvédelmi Körzet területéből fokozottan védetté nyilvánítom a 2. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, valamint erdőtervi jelű, összesen 90 hektár kiterjedésű területet.
