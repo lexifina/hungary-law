@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya között a beruházások kölcsönös elősegítéséről és védelméről Rabatban, 1991. december 12-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 2000. január 3-án megtörtént és a Megállapodás 2000. február 3-án hatályba lépett.)
