@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Afgán Köztársaság Kormánya között Kabulban, 1977. október 16-án aláírt nemzetközi közúti árufuvarozási megállapodást e rendelettel kihirdeti.
