@@ -1,0 +1,1 @@
+(A Magyar Köztársaság elnöke megerősítő okiratának letétbe helyezése az Európai Unió Tanácsa Főtitkárságán 1996. május 28. napján megtörtént. Az Egyezmény a Magyar Köztársaság vonatkozásában 1996. július 1. napján lép hatályba.)
