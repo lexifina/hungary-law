@@ -1,0 +1,1 @@
+A természetvédelemről szóló 1982. évi 4. törvényerejű rendelet végrehajtására kiadott 8/1982. (III. 15.) MT rendelet (a továbbiakban: R.) 11. §-ának (1) bekezdése a) pontjában a 13. §-ának (1) bekezdésében és a 46. §-a (1) bekezdésében foglalt felhatalmazás alapján — az érdekelt miniszterekkel egyetértésben — a következőket rendelem:
