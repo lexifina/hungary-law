@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Gergely András rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaságnak a Mozambiki Köztársaságban való képviseletére kapott megbízása alól.
