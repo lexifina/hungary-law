@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Keskeny Ernő rendkívüli és meghatalmazott nagykövetet – a Magyar Köztársaság moszkvai nagykövetségének vezetésére kapott megbízása érintetlenül hagyása mellett – megbízom a Magyar Köztársaság Belarusz Köztársaságban való képviseletével.
