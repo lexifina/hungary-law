@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a háborúkban elesett katonák és polgári áldozatok emlékének megörökítéséről, valamint sírjaik jogi helyzetéről szóló, Moszkvában, 1995. március 6-án aláírt Megállapodást kihirdeti.
