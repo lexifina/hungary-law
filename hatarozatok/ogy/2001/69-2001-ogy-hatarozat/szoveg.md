@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Burány Sándor országgyűlési képviselő mentelmi jogát a Budapesti XVIII. és XIX. Kerületi Bíróság 4.B.XVIII.1697/1999/3. számú megkeresésével érintett ügyben nem függeszti fel.
