@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Laoszi Népi Demokratikus Köztársaság Kormánya között a postai és távközlési szolgálat tárgyában Vientianéban, az 1976. évi május hó 28. napján aláírt egyezményt e rendelettel kihirdeti.
