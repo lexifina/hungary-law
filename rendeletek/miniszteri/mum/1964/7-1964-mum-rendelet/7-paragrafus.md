@@ -1,0 +1,9 @@
+## A nyugellátások megállapítása és folyósítása
+
+7. § (1) Az egyezmény alapján járó nyugellátást igénybejelentés alapján kell megállapítani, mégpedig legkorábban 1963. július 1-jétől kezdődően. Az egyezmény 18. cikkének (2) bekezdése szerinti esetekben a nyugdíjmegállapító eljárást hivatalból kell lefolytatni.
+
+(2) Abban az esetben, ha a Szovjet Szocialista Köztársaságok Szövetsége területén eltöltött szolgálati időre alapított igényt az illetékes nyugdíjmegállapító szerv az egyezmény kihirdetése előtt jogerősen már elutasította, az egyezmény alapján járó nyugellátást csak az új igénybejelentés alapján lehet megállapítani. Ha az igényt az illetékes nyugdíjmegállapító szerv jogerősen még nem bírálta el, az igényt az egyezmény alapján kell elbírálni, ha ez az igénylő részére kedvezőbb. Ha az illetékes nyugdíjmegállapító szerv a nyugdíjmegállapító eljárást felfüggesztette, a felfüggesztésre okot adó körülmény megszünte után az igényt az egyezmény alapján járó nyugellátásra vonatkozó igénynek kell tekinteni, amelynek elbírálására a 8. §-ban megjelölt nyugdíjmegállapító szerv illetékes.
+
+(3) Ha az egyezményen alapuló nyugellátási igényt nem az arra illetékes szervnél jelentették be, azt a 8.§-ban megjelölt nyugdíjmegállapító szervhez kell továbbítani. Az igénybejelentés időpontjának azonban azt a napot kell tekinteni, amelyen az igényt – az elbírálásra nem illetékes megállapító vagy folyósító szervnél bejelentették.
+
+(4) Abban az esetben, ha olyan személy jelent be nyugellátási igényt, akinek állandó lakóhelye a Szovjet Szocialista Köztársaságok Szövetsége területén van, azt az illetékes magyar központi szerv [11. § (2) bek.] útján a szovjet központi szervnek kell megküldeni. Egyidejűleg meg kell küldeni az igénylőnek Magyarországon biztosításban eltöltött idejére vonatkozó, valamint az igény elbírálásához szükséges egyéb adatokat és iratokat (például a nyugdíj megállapításáról szóló határozatot).
