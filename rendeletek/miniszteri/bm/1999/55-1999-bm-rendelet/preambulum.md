@@ -1,0 +1,1 @@
+A Rendőrségről szóló 1994. évi XXXIV. törvény 101. §-a (1) bekezdésének a) pontjában foglalt felhatalmazás alapján a rendőrkapitányságok illetékességi területének megállapításáról szóló 11/1991. (IX. 6.) BM rendelet (a továbbiakban: R.) módosítására a következőket rendelem el:
