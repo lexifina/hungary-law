@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között 1995. február 3-án aláírt Egyezménnyel módosított, a Magyar Népköztársaság és a Németországi Szövetségi Köztársaság Kormánya között 1984. október 12-én aláírt Állat-egészségügyi Egyezményt a módosítással egységes szerkezetben e rendelettel kihirdeti.
