@@ -1,0 +1,9 @@
+# 149/1998. (IX. 18.) Korm. rendelet
+
+a Magyar Köztársaság Kormánya és a Libanoni Köztársaság Kormánya közötti kulturális, felsőoktatási és tudományos együttműködési Egyezmény kihirdetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-149-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 1998-09-18 | 1998-149-20-22.1 | 149/1998. (IX. 18.) Korm. rendelet |

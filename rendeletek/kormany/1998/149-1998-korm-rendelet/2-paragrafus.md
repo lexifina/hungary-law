@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Libanoni Köztársaság Kormánya közötti kulturális, felsőoktatási és tudományos együttműködésről szóló, Budapesten, 1995. április 2-án aláírt Egyezményt e rendelettel kihirdeti.
