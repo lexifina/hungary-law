@@ -1,0 +1,1 @@
+13. § Az E. Alap likviditási tartalékának 1996. december 31-i záróállománya 16 870 millió forint. Az E. Alap 1996. évi költségvetési hiánya fedezetébe az MT 58. §-ának (5) bekezdésében foglalt rendelkezések végrehajtása során ez az összeg vonható be.

@@ -1,0 +1,7 @@
+14. § (1) A Társadalombiztosítási Alap 1992. évi költségvetéséről, valamint a Társadalombiztosítási Alapról szóló 1988. évi XXI. törvény módosításáról rendelkező – módosított – 1992. évi X. törvény 21. §-ának (4) bekezdésében foglalt rendelkezés alapján, 1996-ban az E. Alap javára 3737 millió forint összegben történt állam általi vissztehermentes vagyonátadás. E vagyon az E. Alapnak az AT. 6. §-ának (2) bekezdésében meghatározott tartalékalapjába került.
+
+(2) Az E. Alap javára 1995-ben történt állam általi vissztehermentes vagyonátadás a társadalombiztosítás pénzügyi alapjai 1995. évi költségvetésének végrehajtásáról szóló 1996. évi CX. törvény 11. §-ának (1) bekezdése szerint részben ideiglenes átadás-átvételi értéken lett számításba véve. Az 1996-ban megállapított végleges átadás-átvételi értékek figyelembevétele alapján az 1995. évi állam általi vissztehermentes vagyonátadás összege 5195 millió forint volt.
+
+(3) Az (1) bekezdés szerinti tartalékban nyilvántartott vagyonelemek értékcsökkenése, értékvesztése 1996. év végi elszámolásának tartalékcsökkentő hatása – ideszámítva a Club Aliga üdülőegyüttes üzemeltetési vagyona csökkenésének hatását is – 97 millió forint.
+
+(4) Az E. Alap tartósan befektetett eszközök tartalékában nyilvántartott, tulajdonában álló bérházak értékcsökkenése 1996. év végi elszámolásának a tartósan befektetett eszközök állományát csökkentő hatása 1 millió forint. Az említett tartalékban nyilvántartott értékpapíroknál 1996. év végén értékvesztés elszámolására nem került sor.

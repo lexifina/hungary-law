@@ -1,0 +1,3 @@
+7. § (1) A Társadalombiztosítási Alap 1992. évi költségvetéséről, valamint a Társadalombiztosítási Alapról szóló 1988. évi XXI. törvény módosításáról rendelkező – módosított – 1992. évi X. törvény 21. §-ának (4) bekezdésében foglalt rendelkezés alapján 1996-ban az Ny. Alap javára 7148 millió forint összegben történt állam általi vissztehermentes vagyonátadás. E vagyon az Ny. Alap vissztehermentesen átvett vagyona tartalékalapjába került.
+
+(2) Az (1) bekezdés szerinti tartalékban nyilvántartott vagyonelemek értékcsökkenése, értékvesztése 1996. év végi elszámolásának tartalékcsökkentő hatása 643 millió forint, a számvitelről szóló – módosított – 1991. évi XVIII. törvény 39. §-ának (4) bekezdése szerint.

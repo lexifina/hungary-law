@@ -1,0 +1,1 @@
+Az Országgyűlés a társadalombiztosítás pénzügyi alapjai 1996. évi – a társadalombiztosítás pénzügyi alapjainak 1996. évi költségvetéséről szóló, az 1996. évi LX. törvénnyel és az 1996. évi CXX. törvénnyel módosított 1996. évi XIV. törvényben (a továbbiakban: KT) meghatározott – költségvetése végrehajtásáról a következő törvényt alkotja:
