@@ -1,0 +1,1 @@
+3. § Jelen törvény kihirdetése napján, azonban az 1. §-ban említett egyezmény életbeléptetésétől kezdődő hatállyal lép életbe. Végrehajtásáról a m. kir. vallás- és közoktatásügyi miniszter gondoskodik.
