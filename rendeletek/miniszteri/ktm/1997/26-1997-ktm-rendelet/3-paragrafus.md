@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja az egykori hatalmas kiterjedésű vizes terület maradványainak, a Sárvizet kísérő változatos homoki és szikes tavak, rétek, legelők, mocsarak, erdők gazdag élővilágának megőrzése, a vízimadarak vonuló-, fészkelő- és táplálkozóhelyének biztosítása, a jellegzetes tájképi értékek megóvása.
