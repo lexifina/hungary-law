@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Mátraszőlőst — a Pásztóval történt korábbi egyesítését megszüntetve — 1991. március 1. napjával községgé nyilvánítom. Mátraszőlős községgé nyilvánítása Pásztó városi címét nem érinti.
