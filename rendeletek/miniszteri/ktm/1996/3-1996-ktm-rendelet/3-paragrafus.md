@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a korábban a Nyírség nagyszámú természetes vízállásából kialakított tározó értékes növénytársulásainak, elsősorban úszólápjainak, az ezekhez kötődő fajokban gazdag állatvilágnak a védelme és hasznosításának olyan módon történő szabályozása, amely a védett természeti értékek fennmaradását biztosítja.
