@@ -1,0 +1,1 @@
+A művelődési miniszter előterjesztésére Dr. Gyenge Zoltánt a Marx Károly Közgazdaságtudományi Egyetem Közgazdasági Kar Világgazdasági Tanszékének egyetemi tanárát – nyugállományba vonulására tekintettel – 1990. január 15. napjával e tisztsége alól felmentem.
