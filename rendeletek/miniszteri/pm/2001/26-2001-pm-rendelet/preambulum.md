@@ -1,0 +1,1 @@
+A csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi IL. törvény (a továbbiakban: Cstv.) 59. §-ának (5) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
