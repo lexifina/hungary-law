@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Francia Köztársaság közötti egyetértésről és barátságról Párizsban, 1991. szeptember 11-én aláírt Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló okiratok cseréje 1992. október 27-én lezajlott, és a Szerződés harminc nappal ezután, 1992. november 26-án hatályba lépett.)
