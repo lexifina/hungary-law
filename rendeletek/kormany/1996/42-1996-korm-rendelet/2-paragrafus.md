@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya között Brasília városban, 1992. március 19-én aláírt kulturális együttműködési megállapodást e rendelettel kihirdeti.
