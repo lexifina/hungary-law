@@ -1,0 +1,1 @@
+Az Országgyűlés a helyi önkormányzatokról szóló 1990. évi LXV. törvény 93. §-ának (4) bekezdése alapján, Dunafalva község lakosságának és képviselő-testületének kezdeményezésére, Dunafalva községet jelenlegi területével 1996. január 1. napjával Baranya megyétől Bács-Kiskun megyéhez csatolja.
