@@ -1,0 +1,1 @@
+A szociális és egészségügyi miniszter előterjesztésére – nyugállományba vonulására tekintettel – dr. Szenes Iván egyetemi tanárt (Semmelweis Orvostudományi Egyetem) 1990. december 31. napjának hatályával e tiszte alól felmentem.
