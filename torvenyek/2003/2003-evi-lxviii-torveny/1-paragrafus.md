@@ -1,0 +1,3 @@
+1. § Az Országgyűlés a tengerhajózás biztonsága elleni jogellenes cselekmények visszaszorításáról szóló, az ENSZ Nemzetközi Tengerészeti Szervezete által 1988. március 10-én, Rómában elfogadott Egyezményt (a továbbiakban: Egyezmény), és a kontinentális talapzaton rögzített mesterséges szigetek biztonsága elleni jogellenes cselekmények visszaszorításáról szóló Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
+
+(Magyarország megerősítő okiratának letétbe helyezése a Nemzetközi Tengerészeti Szervezet főtitkáránál 1989. november 9-én megtörtént; a Magyar Köztársaság tekintetében az Egyezmény és a Jegyzőkönyv – az Egyezmény 18. cikkének 1. bekezdésével, illetve a Jegyzőkönyv 6. cikkének 1. bekezdésével összhangban – 1992. március 1-jén lépett hatályba.)
