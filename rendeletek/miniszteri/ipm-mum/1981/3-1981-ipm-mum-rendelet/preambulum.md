@@ -1,0 +1,1 @@
+A villamos energia fejlesztéséről, átviteléről és elosztásáról szóló 1962. évi IV. törvény 20. §-ában foglalt felhatalmazás alapján – az érdekelt miniszterekkel (országos hatáskörű szervek vezetőivel) és szakszervezetekkel egyetértésben – a következőket rendeljük.
