@@ -1,0 +1,1 @@
+Az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatás rendjéről és a nyelvvizsga-bizonyítványokról szóló 71/1998. (IV. 8.) Korm. rendelet 5. §-ának (4) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
