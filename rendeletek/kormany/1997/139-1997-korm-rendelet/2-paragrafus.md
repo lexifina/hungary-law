@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a Pető Intézet Villányi út 67. szám alatti épületének kibővítéséről és felújításáról szóló Megállapodást e rendelettel kihirdeti.
