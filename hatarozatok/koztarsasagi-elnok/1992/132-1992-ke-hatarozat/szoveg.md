@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére, a Magyar Köztársaság Alkotmánya 30/A. Cikk (1) bekezdésének b) pontjában foglalt jogkörömben eljárva ezennel megerősítem a Magyar Köztársaság és az Osztrák Köztársaság között a közúti és a vízi közlekedésben a határforgalom ellenőrzéséről szóló, Budapesten, az 1992. évi május hó 15. napján aláírt Egyezményt.
