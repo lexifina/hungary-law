@@ -1,0 +1,3 @@
+14. § (1) Megszüntetem a Budapest VI., Király utca, Székely Mihály utca, Paulay Ede utca és Vasvári Pál utca által határolt tömb területén elhelyezkedő 29312/2 hrsz.-ú ingatlan műemléki védettségét, egyúttal az ingatlant műemléki környezetté nyilvánítom.
+
+(2) A 29312/2 hrsz.-ú ingatlan a 29312 hrsz.-ú, Budapest VI., Király utca 36. szám alatti és 29313 hrsz.-ú, Budapest VI., Király utca 38. szám alatti ingatlanok telekalakítása során jött létre, a rendezési tervnek megfelelően. A 29312/2 hrsz.-ú földrészleten műemléki értéket hordozó objektum nem található, ezért a műemléki védelem fenntartása nem indokolt.
