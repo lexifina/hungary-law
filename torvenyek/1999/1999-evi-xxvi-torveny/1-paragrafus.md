@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a védelmi és katonai együttműködésről szóló, Misefán, 1998. október 5-én aláírt Megállapodást (a továbbiakban: Megállapodás) e törvénnyel megerősíti.
