@@ -1,0 +1,1 @@
+Az egészségügyi hozzájárulásról szóló 1996. évi LXXXVIII. törvény 14. §-ának (3) bekezdésében foglalt felhatalmazás alapján — a Munkaerőpiaci Alap Irányító Testülete véleményének meghallgatásával — a következőket rendelem el:
