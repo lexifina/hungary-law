@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a nemzetközi kombinált árufuvarozásról szóló, Prágában, 2001. június 27-én aláírt Egyezményt e rendelettel kihirdeti.
