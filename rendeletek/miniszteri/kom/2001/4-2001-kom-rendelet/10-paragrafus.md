@@ -1,0 +1,1 @@
+## 9. § A hulladékolajok hulladékégetőben történő ártalmatlanításánál be kell tartani a veszélyes hulladék kezelésére, valamint a levegőtisztaság védelmére vonatkozó külön jogszabályokba foglaltakat, továbbá az üzemeltetési és mérési követelményeket.
