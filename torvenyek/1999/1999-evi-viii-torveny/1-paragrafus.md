@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Egyiptomi Arab Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről Kairóban, 1995. május 23-án aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1997. augusztus 21-én megtörtént, és a Megállapodás 1997. augusztus 21-én hatályba lépett.)
