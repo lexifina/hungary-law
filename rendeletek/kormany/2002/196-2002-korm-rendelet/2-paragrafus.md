@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti, az állatorvoslás és az állategészségügy területén megvalósuló technikai együttműködésről és a szakmai eljárási rendről szóló, Brazíliavárosban, 1999. november 10-én aláírt megállapodást e rendelettel kihirdeti.
