@@ -1,0 +1,1 @@
+## 3. § A polgári védelmi kötelezettségét a Pvtv. 21. §-ának f)–h) pontjaiban meghatározott személy, a Pvtv. 21. §-ának b) pontja alapján az ÁNTSZ központi szerveinek közalkalmazottja, valamint a Pvtv. 21. §-ának g) pontja alapján az Országos Vérellátó Szolgálat dolgozója munkaköre ellátásával teljesíti.
