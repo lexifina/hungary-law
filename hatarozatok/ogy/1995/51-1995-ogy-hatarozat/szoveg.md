@@ -1,0 +1,3 @@
+Az Országgyűlés az 1994. évi LXXXI. törvénybe iktatta az Ideiglenes Nemzetgyűlés megalakulásának történelmi jelentőségét. E kiemelkedő eseményhez kapcsolódóan szükségesnek tartja méltóképpen megemlékezni a fasizmus feletti győzelemről és az Ideiglenes Nemzetgyűlés megalakulását nagymértékben elősegítő nemzeti ellenállási mozgalomról, mely az ország függetlenné válásában jelentős szerepet töltött be.
+
+Az Országgyűlés ennek érdekében 1995. május 9-e — a II. világháború európai befejeződése és a fasizmus felett aratott győzelem 50. évfordulója — alkalmából, az ország felszabadítását célzó nemzeti ellenállási és antifasiszta mozgalom hazafias helytállását, erőfeszítéseket és áldozatokat követelő társadalmi küzdelmének emlékét e határozatban örökíti meg.
