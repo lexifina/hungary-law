@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Kunpeszéri Szalag-erdő Természetvédelmi Terület elnevezéssel a Kunpeszér 0172, 0173, 0174, 0175, 0176, 0179 ingatlan-nyilvántartási helyrajzi számú, 155,6 hektár kiterjedésű területet.
