@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Iraki Köztársaság Kormánya között Budapesten, az 1977. évi július hó 8. napján aláírt egészségügyi együttműködésről szóló egyezményt e rendelettel kihirdeti.
