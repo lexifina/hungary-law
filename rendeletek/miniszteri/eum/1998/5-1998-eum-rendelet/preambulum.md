@@ -1,0 +1,1 @@
+A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet (a továbbiakban: R.) 13. §-ának (4) bekezdésében kapott felhatalmazás alapján, a belügyminiszterrel és – a 4–5. §-ok tekintetében – a honvédelmi miniszterrel egyetértésben a következőket rendelem el:
