@@ -1,0 +1,1 @@
+Az államháztartásról szóló 1992. évi XXXVIII. törvény 124. §-a (4) bekezdésének b) pontja és a központosított illetményszámfejtésről szóló 172/2000. (X. 18.) Korm. rendelet (a továbbiakban: R.) 7. §-a (4) bekezdésének a) pontjában kapott felhatalmazás alapján a következőket rendelem el:
