@@ -1,0 +1,1 @@
+## 1. § Az egyszerűsített, eszköz szerinti vagyonértékelést (a továbbiakban: egyszerűsített vagyonértékelés) az értékelés időpontjában felveendő leltár alapján, az 1. számú melléklet szerinti módszerrel kell elvégezni.

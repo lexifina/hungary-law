@@ -1,0 +1,1 @@
+A Kormány a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény (a továbbiakban: Tv.) 39. § (1) bekezdésében megjelölt egyszerűsített vagyonértékelés szabályairól a következőket rendeli el:
