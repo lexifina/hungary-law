@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság és Izrael Állam között a kettős adóztatás elkerülésére és az adóztatás kijátszásának megakadályozására a jövedelemadók területén Jeruzsálemben, 1991. május 14-én aláírt Egyezményt e határozattal megerősíti.
