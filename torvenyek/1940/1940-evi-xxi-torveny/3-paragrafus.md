@@ -1,0 +1,1 @@
+3. § A vallás- és közoktatásügyi miniszter felhatalmaztatik arra, hogy a megállapodás III. pontjában említett alapítvány létesítése érdekében szükséges intézkedéseket megtegye s az ösztöndíj-alapítvány szervezetét és kezelési szabályzatát a m. kir. miniszterelnökkel egyetértőleg megállapítsa.

@@ -1,0 +1,1 @@
+1. § A Gozsdu-alapítványt érdeklő ügyek végleges rendezése tárgyában Bukarestben, 1937. évi október hó 27. napján kelt magyar-román megállapodás a hozzátartozó melléklettel együtt az ország törvényei közé iktattatik.
