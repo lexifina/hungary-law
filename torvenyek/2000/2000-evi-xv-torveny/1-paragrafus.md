@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Albán Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről Tiranában, 1996. január 24-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1998. április 1-jén megtörtént, és a Megállapodás 1998. április 1-jén hatályba lépett.)
