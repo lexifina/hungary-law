@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Récsey Róbert rendőr vezérőrnagyot a MK Kormányőrség Parancsnokát, e beosztásából, 1990. szeptember 30-ai hatállyal – érdemei elismerése mellett – nyugállományba vonulása alkalmából felmentem.
