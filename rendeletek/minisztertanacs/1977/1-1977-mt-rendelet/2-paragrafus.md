@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Lengyel Népköztársaság Kormánya között a légiközlekedés tárgyában Varsóban, az 1976. évi február hó 12. napján aláírt egyezményt e rendelettel kihirdeti.
