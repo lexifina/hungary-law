@@ -1,0 +1,1 @@
+1. § Az Osztrák Köztársasággal Budapesten 1923. évi április hó 10-én kötött és az 1923 : XXXI. törvénycikkbe iktatott választott bírósági megállapodás kiegészítéséül Wienben 1931. évi január hó 26. napján kelt magyar-osztrák barátsági, békéltető eljárási és választott bírósági szerződés az ország törvényei közé iktattatik.
