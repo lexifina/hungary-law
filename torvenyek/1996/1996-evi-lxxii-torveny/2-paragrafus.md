@@ -1,0 +1,1 @@
+2. § E törvény 1997. január 1. napján lép hatályba, egyidejűleg a helyi önkormányzatokról szóló 1990. évi LXV. törvény 96. §-ának e) pontja, a 98. §-a (2) bekezdésének b) és d) pontjai, valamint a 100. §-a hatályát veszti.
