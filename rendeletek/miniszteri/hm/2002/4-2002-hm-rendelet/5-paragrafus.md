@@ -1,0 +1,1 @@
+## 4. § A Hjt. 122. §-a (1) bekezdésében szereplő repülőhajózók és ejtőernyősök részére az egyszeri juttatást földi beosztásba, illetőleg szolgálati, rokkantsági (baleseti rokkantsági) nyugállományba vagy tartalékállományba helyezéskor kell kifizetni.

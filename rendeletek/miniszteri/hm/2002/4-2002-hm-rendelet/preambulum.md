@@ -1,0 +1,1 @@
+A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 287. §-ának f) pontjában kapott felhatalmazás alapján a repülőhajózók és ejtőernyősök egyszeri juttatására a következőket rendelem el:

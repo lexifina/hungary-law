@@ -1,0 +1,1 @@
+1. § (1) A Hjt. 122. §-ának (1) bekezdése szerinti repülőhajózók és ejtőernyősök egyszeri pénzjuttatásának (a továbbiakban: egyszeri pénzjuttatás) évenkénti összege a kifizetés időpontjában érvényes köztisztviselői illetményalap százalékában a következő:

@@ -1,0 +1,1 @@
+## 3. § Az egyszeri juttatás összegének kiszámításánál a hajózó-(ejtőernyős-)napló adatait kell alapul venni. A kifizetett egyszeri juttatás összegét, a kifizetés időpontját, valamint az elszámolt időszakot a hajózó-(ejtőernyős-)naplóba be kell jegyezni.
