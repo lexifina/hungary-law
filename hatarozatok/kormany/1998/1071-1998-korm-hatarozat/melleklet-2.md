@@ -1,0 +1,969 @@
+## A Kormány Hírközléspolitikája
+
+## 1998–2005
+
+## Tartalomjegyzék
+
+## Bevezetés
+
+## I. A hírközlés aktuális helyzete
+
+## 1. A hírközlés gazdasági, intézményi környezete és szerepe a nemzetgazdaság fejlődésében
+
+## 2. Társadalmi környezet
+
+## 3. A szellemi értékek hasznosítása
+
+## II. A hírközlés modernizációs programja
+
+## 1. Távközlés
+
+## a) Műsorjelelosztás (kábeltelevízió)
+
+## b) Alternatív távközlési szolgáltatások
+
+## c) Kormányzati célú távközlés
+
+## d) Közcélú mobil rádiótelefon szolgáltatás
+
+## e) Műsorszórás
+
+## 2. Információs technológia
+
+## 3. Információs csomópont kialakítása
+
+## 4. Postai szolgáltatások
+
+## III. Az állami irányítás szerepe
+
+## 1. A szolgáltatásokat érintő szabályozási feladatok
+
+## A) Az információs társadalom jogszabályrendszerének létrehozása
+
+## B) Szolgáltatás engedélyezés
+
+## C) Egyetemes szolgáltatási kötelezettség
+
+## D) Versenyszabályozás
+
+## E) Árszabályozás
+
+## a) Távközlés
+
+## b) Műsorszórás és műsorjelelosztás
+
+## c) Postai szolgáltatások
+
+## F) A szűkös erőforrások kezelése
+
+## a) Frekvenciagazdálkodás
+
+## b) Számgazdálkodás
+
+## c) Területfelhasználás
+
+## G) Szabványok
+
+## 2. Intézményi háttér
+
+## 3. Felkészülés az Európai Unióhoz való csatlakozásra
+
+## Függelék: Hírközlési Stratégia
+
+## Melléklet: A hírközlés fejlesztésének forrásigénye
+
+## Bevezetés
+
+## A hírközlés általános fogalom, mely magába foglalja a hírek és információk átvitelének, tárolásának és feldolgozásának számos területét, jelesül a postai és távközlési szolgáltatásokat, beleértve a közcélú és különcélú, helyhez kötött és mobil telefóniát, illetve adatátvitelt, az ország nemzetbiztonsági és védelmi igényeit kielégítő távközlést, a rádió és televízió műsorszórást, műsorelosztást és műsorszétosztást, valamint a postai levél, pénzforgalmi és csomag szolgáltatásokat. Mindezek a modern információs társadalom infrastrukturális alapelemei.
+
+## A hírközlés és ezen belül különösen a távközlés területén végbemenő és prognosztizálható fejlődés, a szolgáltatások és technológiák integrációja, az informatika, a távközlés egyre szorosabb összekapcsolódása egyértelművé teszi, hogy a hírközlési infrastruktúra nemzetgazdasági és társadalmi jelentősége egyre meghatározóbb lesz a jövőben. A távközlés fejlettsége és az informatikai eszközök széles körű elterjesztése, valamint használata alapvető hatást gyakorol az ország nemzetközi versenyképességére, kulturális színvonalára, az egyes régiók gazdasági növekedésére és a társadalmi életminőség javítására.
+
+## Az ezredforduló utáni társadalom fejlődése már elsősorban a hírközlésre és a vele szoros kapcsolatban lévő informatikára épül. Az oktatás, a kereskedelem, az ipar, az államigazgatás és a háztartások működésének nélkülözhetetlen része lesz a kommunikáció és az annak bázisán megvalósuló integrált információs infrastruktúra. Magyarországon ez akkor valósulhat meg ha az informatikai eszközök és az információt továbbító hírközlő készülékek kezelését a lakosság széles rétegei úgy sajátítják el, hogy az alkalmazás természetes készségükké válik. Ennek fontos előfeltétele egyes társadalmi rétegek további leszakadásának megakadályozása, ugyanakkor a két folyamat kölcsönhatásában az információs technikák elsajátítása széles rétegek számára nyitja meg a felzárkózás útját.
+
+## A magyar információs társadalom megteremtése csak a már kialakulóban lévő globális információs társadalom részeként képzelhető el. A világpiacot az oligopolisztikus verseny jellemzi. A hírközlési ágazatban a nemzetközi vállalatok szerepe erősödik. Folytatódik a globalizáció, a világgazdaságban áramló, befektetési célt kereső tőke értéke tartósan évi 200 milliárd dollár fölé emelkedik. A távközlésben a társaságok 1995. évi 804 milliárd USD bevétele 2005-re kb. 2 billió USD-re növekszik. A Magyarországra letelepedett és a jövőben betelepedő multinacionális vállalatok és pénzintézetek növekvő keresletet támasztanak a hírközlési szolgáltatások iránt, miközben maguk is hozzájárulnak az ágazat fejlesztéséhez. A teljes liberalizáció közelsége, illetve bevezetése további befektetéseket eredményez a hírközlés, ezen belül főleg a távközlés területén. Az ezredforduló után a médiában, az informatikában és a távközlésben egyaránt a mindhárom területre befektető multinacionális cégek jelenléte lesz a jellemző.
+
+## Az előttünk álló gazdaságfejlesztési feladatok, felzárkózásunk a fejlett országokhoz, valamint csatlakozásunk a NATO-hoz és az Európai Unióhoz azt követelik meg, hogy az ország gazdaságpolitikájához illeszkedően a hírközlés fejlődését mintegy 8 évre szóló szakmapolitika alapozza meg. Ez idő alatt jön létre az a kiszámítható jogállami és piacgazdasági környezet, amelyben a felhasználók és szolgáltatók, a fogyasztók és termelők, a közigazgatás és a magánszféra szinergikus kölcsönhatása kialakulhat.
+
+## A Hírközléspolitika fő célja olyan feltételrendszer kialakítása hosszú távon, amely a felhasználók által igényelt szolgáltatások körének bővítését, hozzáférhetőségük szélesítését, áraik csökkentését és minőségük javítását eredményezi.
+
+## Hírközléspolitikánk figyelembe veszi a nemzetközi és hazai fejlődési trendeket, a Kormány Modernizációs Programjában és az OECD 1996-ban készített távközlési országtanulmányában foglalt javaslatokat, valamint az EU Agenda 2000 megnevezésű, csatlakozásunkkal kapcsolatos országvéleményében foglalt megállapításokat.
+
+## A Kormány hírközléspolitikája különös figyelmet szentel azoknak a folyamatoknak és intézkedéseknek, amelyek
+
+## – javítják Magyarország beilleszkedését mindazon nemzetközi szervezetekbe, amelyeknek a közelmúlt éveiben váltunk tagjává,
+
+## – a hírközlési szektor oldaláról elősegítik és időben előbbre hozhatják hazánknak az Európai Unióhoz való csatlakozását,
+
+## – elősegítik az ország nemzetbiztonsági és NATO tagságunkkal is összefüggő védelmi igényeinek érvényesítését.
+
+## Stratégiánk illeszkedik az Európai Unióban megfogalmazott követelményekhez és ajánlásokhoz, de a hírközlés világméretű fejlődése elengedhetetlenné teszi azt is, hogy a hazai hírközléspolitikai döntések előkészítése során a világ más fejlett régióiban alkalmazott megoldási alternatívák is mérlegelés tárgyát képezzék, továbbá – mind politikai, mind gazdasági téren – maradjon meg az ország önrendelkezése addig a maximális mértékig, amit az Unió bármely tagországának megenged. Szükséges, hogy az Európai Unióhoz való csatlakozás során az Unió – nem kötelező – szabályainak merev, kritikamentes átvétele helyett minden olyan politikai és gazdasági döntésben, ahol mozgásterünk van, jusson kifejezésre az ország politikai és gazdasági érdeke.
+
+## I. A HÍRKÖZLÉS AKTUÁLIS HELYZETE
+
+## 1. A hírközlés gazdasági, intézményi környezete és szerepe a nemzetgazdaság fejlődésében
+
+## A hazai hírközlés mai domináns elemét képező távközlés intenzív fejlődési szakasza lezárult. Az ágazatba évente befektetett kb. 120–150 Mrd Ft magántőke (melyből a MATÁV beruházások 90–100 Mrd Ft/év között mozogtak) ennek ellenére nem fog csökkenni, csak belső struktúrája változik meg, elsősorban az adatátvitel és egyéb információs technológiák valamint a kábeltelevízió javára. Az elkövetkező években a hírközlés makrogazdasági szerepe ennek megfelelően megváltozik, átértékelődik. A távközlési, audiovizuális és informatikai terület közeledése bővíteni fogja az információ és annak távközlési infrastruktúrája iránti igényt azáltal, hogy az integrált szolgáltatások jobban hozzáférhetők lesznek mind a gazdaság, mind a felhasználók egyre szélesebb köre számára. A hírközlési ágazat várható növekedése így továbbra is dinamikusabb lesz, mint a gazdaság egészének átlagos növekedése.
+
+## A hazai pénzügyi rendszer fejlődése és az ezredfordulóra várható integrációja felgyorsítja a tartós külföldi tőkebeáramlást, ezáltal lökést ad a gazdaság növekedésének és ezzel együtt a pénzügyi tranzakciók mennyiségi bővülésének is. A pénzügyi közvetítő intézmények – melyek között jelentős részarányt képviselnek a külföldi intézmények – megjelenése a magyar piacon növeli a fejlett információs hálózatok és szolgáltatások iránti keresletet, amelyet az alternatív szolgáltatásfajták közötti verseny erősödése kísér. Növekvő lehetőség nyílik külföldi források bevonására.
+
+## A sikeres privatizáció eredményeként és a hírközlési szolgáltatások önfenntartó jellegéből következően az állam anyagi szerepvállalása csupán néhány speciális területre korlátozódik, mint például:
+
+## – kutatás-fejlesztés, elsősorban az információs technológiák elterjesztése és az alkalmazásukhoz szükséges készség fejlesztés területén, az információs társadalom mielőbbi megvalósíthatósága érdekében,
+
+## – az univerzális szolgáltatási kötelezettség biztosítása,
+
+## – a frekvenciák polgári célokra történő felszabadítása, és
+
+## – a postaszolgáltatások korszerűsítése.
+
+## Az állam szabályozó, ellenőrző szerepe egyre inkább a fogyasztók védelmére, a piaci esélyegyenlőség biztosítására, a domináns pozícióban levő piaci szereplő(k) szabályozására és a kartelljog kialakítására irányul. A szabályozást más tekintetben úgy kell alakítani, hogy a tőke elsősorban a hírközlés olyan, viszonylag lemaradt, illetve tőkehiányos területeire menjen mint pl. a kábeltelevíziózás, postai szolgáltatások és az információs technológia. Így megalapozható azon szélessávú hálózatok létrehozása is, melyek hiánya negatív hatással lenne a távközlés fejlődésére. E követelmények teljesítése az állam szolgáltatási funkcióinak átrendezésével és a hírközlés magasabb szintű piacosításával jár együtt.
+
+## 2. Társadalmi környezet
+
+## A hírközlés munkaerő-megtartó és foglalkoztató képessége lényegesen nem csökken, mivel várhatóan jelentős számú új szereplő lép be a piacra. A társadalmi individualizáció ellenére új integrációs szükségletként jelenik meg az ún. információs országúton való találkozás sokszínű egyéni igénye. Az információs infrastruktúrával szembeni kereslet az egyéni fogyasztó szintjén alacsony jövedelem rugalmasságú.
+
+## A gazdasági rendszerváltozással felerősödő területi differenciák sokkal inkább a termelési feltételek különbözőségében jelennek meg, mintsem a jövedelemszerzés és költekezés eltéréseiben. A nemkívánatos regionális polarizáció további erősödésének feltartóztatására irányuló törekvések akkor lehetnek eredményesek, ha meghatározó módon tudnak érvényesülni azok a település fejlesztési programok, amelyek lehetővé teszik a hátrányos helyzetű kistérségek újra integrálódását. Ezek keretében a hírközlés területén ki kell dolgozni a teleház, intelligens város és intelligens régió programokat, melyek megvalósítása és működtetése évente kb. 1 Mrd Ft költségvetései forrást igényel. A programokkal kapcsolatos első lépések megtörténtek. A KHVM fejezeti kezelésű előirányzatának igénybevételére ilyen jellegű pályázatok kedvező elbírálásban részesültek.
+
+## 3. A szellemi értékek hasznosítása
+
+## Magyarország olyan képzett szakembergárdával rendelkezik, mely
+
+## – aktívan képes részt venni az ország hírközlési infrastruktúrájának kiépítésében,
+
+## – be tud kapcsolódni a multinacionális hírközlési vállalatok tevékenységébe,
+
+## – vállalkozik a hírközlés és információtechnológia széles körű elterjesztéséhez szükséges sajátos kultúra megteremtésére,
+
+## – alkalmas a hírközlés területén szükséges szabályozási feladatok magas színvonalú ellátására,
+
+## – képes lépést tartani a terület tudományos-műszaki fejlődésével.
+
+## Rendelkezésünkre állnak azok a szellemi erőforrások, melyek a célul kitűzött információs társadalom és a fejlett világban versenyképes magyar munkaerő kialakításához szükségesek. Hasznosításuk érdekében fontos számba venni a kis- és középvállalati réteg mozgósítására alkalmas eszközöket. Az alap- és alkalmazott kutatásokat döntően állami forrásokból kell finanszírozni.
+
+## A hazai adottságok biztosítékot jelentenek arra, hogy Magyarország – megfelelő politikai-gazdasági lépésekkel – a hírközlési infrastruktúrával való ellátottságot illetően képes felzárkózni a világ fejlett gazdasággal rendelkező országaihoz.
+
+## II. A HÍRKÖZLÉS
+
+## MODERNIZÁCIÓS PROGRAMJA
+
+## Az információs társadalom új, posztindusztriális szakaszt jelez az emberi társadalom történetében. Megvalósulása a humán erőforrásoknak, a felhalmozott tudásnak jelentős hasznosulását eredményezi, amely a globális információhoz való szabad, könnyű, olcsó és mindenki számára biztosított egyetemes hozzáférés útján valósul meg. Az egyes szolgáltatási területek közötti tradicionális határok átlépése már bekövetkezett. A legnagyobb áttörést az Internet jelenti, de 1998-ban az Európai Unió országaiban életbelépő teljes távközlési liberalizáció következményeként televízió műsorszétosztó és jelelosztó társaságok is beléphetnek a telefonpiacra. Az így kialakuló verseny jelentősen hozzájárulhat az új szolgáltatások elterjedésének felgyorsulásához. A távközlési szolgáltatásválaszték bővülésével és a verseny teljeskörűvé válásával az információtechnológiai iparág előtt új piacok nyílnak meg. A közeledés eltünteti a tradicionális határokat, nem lesz lényegbeli különbség a műsorszórás és a klasszikus távközlés által nyújtott szolgáltatási választék között, amelyet a postai szolgáltatásokhoz is növekvő mértékben használnak fel.
+
+## A piac egyre több új szereplője összetett és dinamikusan változó viszonyrendszert épít ki egymással nemcsak regionális, hanem globális szinten is. A szolgáltatók és szolgáltatások átlépik az országhatárokat. A versenyben azok a szolgáltatók tudnak leginkább talpon maradni, amelyek képesek és hajlandók szövetségeseik számára – azok földrajzi elhelyezkedésétől függetlenül – előnyöket biztosítani, saját versenyelőnyeiket szövetségi rendszerükön belül értékesíteni és növelni.
+
+## Az államnak mint jogalkotónak, gazdasági szabályozónak, felhasználónak és a kutatás-fejlesztés finanszírozójának igen jelentős szerepe van az ágazat fejlődésének ösztönzésében. Legfőbb eszközeit a külföldi tőkebefektetések elősegítése, az engedélyezési eljárások liberalizálása és leegyszerűsítése, valamint a technológiai fejlődést korlátozó és a technológiai választásokat torzító előírások és beavatkozások megszüntetése képezik. A technológiai fejlődés közvetett ösztönzésén túlmenően a magyar távközlésben szükség van az állam aktív közvetlen részvételére is például olyan kutatás-fejlesztési projektek finanszírozásához való állami hozzájárulás formájában, amelyek magánvállalkozások által gazdaságosan nem végezhetők el, illetve felerősítik a magánvállalkozások aktív bekapcsolódását. Az állam haladást ösztönző szerepét elsősorban a távközlés jogi és szabályozási reformja keretében kell kialakítani és hatékonnyá tenni, de elkerülhetetlen állami pénzügyi források bevonása is. A 7 Mrd Ft-ot meghaladó összegű állami forrásigényt felhasználás szerinti és éves bontásban bemutató táblázatot a melléklet tartalmazza.
+
+## 1. Távközlés
+
+## A hírközléspolitika által tárgyalt időszakban a távközlési piac jelentős átalakulása következik be. Ennek jelentős állomásai:
+
+## – a telefonszolgáltatás liberalizációja, a koncessziós rendszer felülvizsgálata 2002-től,
+
+## – a liberalizált, de szabályozott versenypiacon új szolgáltatók, illetve a piacon lévők számára új lehetőségek megjelenése. (Műsorelosztók is nyújthatnak távbeszélő szolgáltatást, illeszkedve az átalakuló koncessziós rendszerhez, új piaci szereplők jelennek meg a nemzetközi és belföldi távhívó, valamint a helyi távközlő szolgáltatásban, a személyi távközlés, mint a teljes vertikumot átfogó ,,intelligens szolgáltatás'' meghatározóvá válik.),
+
+## – az audiovizuális piacon a verseny feltételeinek kialakulása és a szolgáltatási területek közeledése,
+
+## – az információtechnológia szerves részévé válik mind a távközlésnek, mind az audiovizuális szolgáltatásoknak,
+
+## – a szabályosan működő, már az információs társadalmat szolgáló piac követelményeinek megfelelő új szabályozási rendszer kialakítása.
+
+## A távközlési piac ezredforduló után bekövetkező teljes liberalizációját megelőzően kormányzati támogatással és szabályozással elő kell segíteni azokat a piacbővítő lépéseket, amelyek előkészíthetik a teljesen liberalizált piac létrejöttét és megfelelő működését. Ezek közül a legjelentősebbek a következők:
+
+## a) Műsorjelelosztás (kábeltelevízió)
+
+## A műsorjelelosztási szabvány kötelezővé tételével és a műsorjelelosztó szolgáltatási vállalkozások piaci lehetőségeinek bővítésével (a kizárólagos távbeszélő szolgáltatási jogosultságok megszüntetésével) megteremthetők a feltételei annak, hogy 2002-ig korszerű technikai bázison megújuljanak a műsorjelelosztó hálózatok. Ez akkor valósulhat meg, ha megszűnik a hálózatok jelenlegi fragmentáltsága és eltűnnek vagy egyesülnek a nem életképes méretű vállalkozások. A hálózatok vonzerejét növeli a vállalkozások számának olyan mértékű csökkenése, ami a fennmaradók számára a gazdaságos méretnagyságot biztosítja.
+
+## Az új architektúrájú hálózatok alkalmasak lesznek mind a távbeszélő, mind a szélessávú interaktív szolgáltatásokra (video on demand, teleshopping, telebanking stb.). Az egységes országos vagy regionális hálózatba kapcsolt műsorjelelosztó hálózatokon nyújtott szolgáltatások a hozzáférési piacon versenytársai lehetnek a hagyományos közcélú távbeszélő hálózatokon nyújtott szolgáltatásoknak. A társaságok állami források igénybevétele nélkül, piaci alapon állnak fel, és versenykihívást jelentenek majd a domináns szolgáltatónak.
+
+## Szükséges, hogy a szolgáltatási koncessziók kizárólagosságának megszűnésétől kezdve a közcélú távbeszélő szolgáltatók szabadon kínálhassanak kábeltelevíziós, illetőleg a kábeltelevíziós társaságok távbeszélő szolgáltatásokat. A távközlési és műsorjelelosztó szolgáltatások közötti káros keresztfinanszírozások kialakulásának megakadályozása érdekében minden integrált szolgáltató esetében a bevételek, a folyó termelési költségek és a beruházási ráfordítások teljes számviteli szeparációját kell végrehajtani.
+
+## Szükséges a műsorjelelosztó hálózatok létesítésének és üzemeltetésének mindenre kiterjedő módon (jogi, műszaki, médiapolitikai és gazdasági aspektusok), törvényben történő szabályozása. A törvényben biztosítani kell az egyetemes szolgáltatási kötelezettség érvényesülését, vagyis a mindenki számára elérhető áron való hozzáférést.
+
+## b) Alternatív távközlési szolgáltatások
+
+## Alapvetően meg fog változni a beszédcélú és nem beszédcélú, valamint a keskenysávú és a szélessávú szolgáltatások aránya. A beszédcélú szolgáltatások várhatóan a jövőben is meghatározóak lesznek, tekintettel azonban az informatika rohamos fejlődésére és a médiák iránti igény bővülésére a nem kizárólagosan beszédcélú szolgáltatások részaránya növekedni fog.
+
+## Megnövekszik a bérelt vonali szolgáltatások nyújtása iránti igény, bővül az értéknövelt szolgáltatások köre és egyes területeken a szolgáltatók száma. A bővülő igény, a monopólium spontán fennmaradásának veszélye a liberalizált piacon, valamint a piaci árak kialakulásának szükségessége már most kívánatossá teszik, hogy párhuzamos távközlési infrastruktúra épüljön ki Magyarországon. Ezen az úton biztosítható az alacsonyabb bérelt vonali ár és új szolgáltatók piacra lépése a hálózatokhoz való könnyebb hozzáféréssel.
+
+## Az alternatív szolgáltató szükségessége jó lehetőséget ad az állami tulajdon hasznosítására, az – elsősorban nemzetbiztonsági szempontok miatt – tartósan állami résztulajdonban maradó Antenna Hungária és a MÁV távközlési infrastruktúrájának felhasználásával. Az Antenna Hungária piaci pozícióit, illetve a piaci folyamatokban való részvételének anyagi feltételeit a cég privatizációjával lehet és kell megteremteni. A privatizáció elmaradása esetén az Antenna Hungáriának nem lenne meg a műsorszóráson kívüli távközlési szolgáltatói pozíciók megpályázáshoz, illetve elnyeréséhez szükséges anyagi fedezete és tevékenysége a bizonytalan volumenű műsorszórásra és szétosztásra korlátozódna.
+
+## A vázolt intézkedések sikeres végrehajtása esetén a magyarországi távközlési piac szereplői 2002 után globálisan 3 nagy csoportba tartozhatnak:
+
+## – MATÁV Rt., a piac 60–70%-át lefedve,
+
+## – az ún. alternatív távközlési szolgáltató vagy szolgáltatók szövetsége, mely állhat az Antenna Hungária infrastruktúráját működtető AH Holdingból és a MÁV távközlési infrastruktúráját működtető PanTel-ből továbbá az üzleti érdekből ezekhez várhatóan kapcsolódó helyi koncessziós társaságokból,
+
+## – az elsősorban adatátviteli, Internet és kábeltelevíziós szolgáltatásokat nyújtó egyéb távközlési szolgáltatók, melyek a piac 5–10%-át fedik le.
+
+## Az ,,alternatív'' és ,,egyéb'' szolgáltatók ütőképes versenytárs megjelenést jelenthetik a domináns távközlési szolgáltató számára az információ átviteli piacon.
+
+## Az így kialakuló alternatív infrastruktúra és az arra épülő szolgáltatási piac lehetővé teszi az előfizetők számára a felhasználói igények szerinti választást a szolgáltatók és a szolgáltatások között. Ez a választási lehetőség ki fog terjedni – a felhasználói sajátosságok érvényesítése mellett – az önkormányzati, kormányzati és más államhatalmi, igazságszolgáltatási szervekre is.
+
+## c) Kormányzati célú távközlés
+
+## A távközlési törvény a Kormány számára előírja a nemzeti távközléspolitika keretein belül az ország nemzetbiztonsági, közbiztonsági, közigazgatási és védelmi igényeinek érvényesítését is. Ezen igények kielégítése érdekében létre kell hozni – minimális költségvetési közreműködéssel, elsősorban a szolgáltatók versenyeztetése útján és a kormányzati szervezetek, illetve állami többségi tulajdonú gazdálkodó szervezetek meglevő távközlési erőforrásait is szolgáltatási alapon felhasználva – a közigazgatási, valamint a rendvédelmi szervezetek igényeit kielégítő, többszintű, szintenként differenciáltan védett, költségtakarékos, integrált távközlő rendszert. Az állam tehervállalásának a jelenlegi költségvetési ráfordításokkal arányosnak, azt lényegesen nem meghaladó mértékűnek kell lennie.
+
+## A közcélú és különhálózatok optimális kombinációjaként megvalósítandó rendszer egységes irányítását kormányzati (ágazati) felügyelet alá kell vonni. Egyidejűleg meg kell szüntetni az indokolatlan párhuzamosságokat a zártcélú kormányzati távközlő hálózatok létesítése és működtetése terén. Az egységes, európai színvonalú rendszernek béke idején és a minősített időszakban is folyamatosan biztosítania kell az országirányítás távközlési feltételeit. Mindenkor és mindenhol biztosítania kell továbbá a megfelelő szintű és minőségű távközlési kapcsolatokat az Európai Unió és a NATO kormányzati és védelmi szerveivel.
+
+## Elkerülhetetlen a készenléti szolgálatok részére biztosított 380–400 MHz-es sávban, valamint egyéb kormányzati célokra a 410–430 MHz-es sávban működő (PAMR) digitális trönkölt diszpécser jellegű rádiótelefon szolgáltatás bevezetése 1999-ben. Amennyiben nem sikerül ezt vállalkozási alapon megoldani, mintegy 20 Mrd Ft költségvetési igény jelenhet meg.
+
+## A hírközlés honvédelmi feladatainak magas színvonalú ellátása érdekében
+
+## – növelni kell a közcélú hálózatok, elsődlegesen az országos gerinchálózat biztonságát, csökkenteni zavarérzékenységét, és növelni a honvédelmi érdekből történő hozzáférhetőségét,
+
+## – ki kell jelölni a honvédelmi feladatokban részt vevő hírközlési szerveket, és meghatározni feladataikat,
+
+## – fel kell készülni a NATO tagságból eredően a védelmi távközlési igények kielégítése módszereinek, illetve eljárási rendjének szükség szerinti átvételére,
+
+## – növelni kell a közcélú hálózatok nemzetbiztonsági célokra történő hozzáférhetőségét,
+
+## – ki kell jelölni a nemzetbiztonsági feladatokban részt vevő hírközlési szerveket, és meg kell határozni feladataikat.
+
+## d) Közcélú mobil rádiótelefon szolgáltatás
+
+## A Kormány célja, hogy a mobil szolgáltatási piacon a versenyhelyzetet fenntartsa. A mozgó és személyi távközlés támogatása az Európai Unió egyik fontos célkitűzése. A hazai digitális közcélú mozgó rádiótelefon szolgáltatások (GSM) sikere is igazolja, hogy ezt a törekvést támogatni kell oly módon is, hogy a még be nem vezetett köz-, külön- és zártcélú rádiótávközlő rendszerek – pl. polgári célú TETRA, PAMR, kormányzati készenléti rádiótávközlő rendszer, DCS 1800, UMTS, S-PCS (műholdas), szórt spektrumú szolgáltatás – frekvenciasávjaira vonatkozó terveket a Frekvenciasávok Nemzeti Felosztási Táblázatában rendszeresen nyilvánosságra hozzuk.
+
+## Az 1800 MHz-es sávban működő GSM platformú mobil rádiótelefon szolgáltatás az ún. DCS 1800 rendszer bevezetése hasonló fontosságú. Ennek költségeit a koncessziós bevételek meghaladják, költségvetései forrást tehát ez szolgáltatás nem igényel, hanem inkább állami bevételt eredményez. Tekintettel a hazai piac nagyságára és a gazdaság növekedési kilátásaira rövid távon az látszik indokoltnak, hogy a meghatározó piaci szereplők száma az UMTS rendszer bevezetéséig háromnál több ne legyen. Természetesen, ha a piac igényli és frekvenciasávok rendelkezésre állnak, nem szükséges korlátozni a piaci szereplők számát. A meglevő mobil szolgáltatók eredményes pályázása esetén gondoskodni kell arról, hogy ne élvezhessenek versenyelőnyt az új belépővel szemben, és kötelezettségként kell meghatározni a jelenlegi GSM szolgáltatók belső roaming szolgáltatását az új belépő részére.
+
+## A polgári TETRA és a DCS rendszerek megnyitják a lehetőséget a mobil rádiótelefon szolgáltatás általánossá tétele előtt. Ez jelentheti az első lépést a személyi és az univerzális mobil távközlés megvalósítása felé. Az UMTS megjelenésével a mobil piac teljes liberalizálása után 2002–2003-tól kezdődően kell számolnunk, amikor már csak a frekvenciák biztosítása jelenthet korlátozást. A szolgáltatási kínálat abban a mértékben fog bővülni, ahogy azt a vásárlóerő igényli, illetve engedi.
+
+## E célok megvalósítása érdekében törekedni kell arra, hogy NATO csatlakozási felkészülésünk során a NATO rendszerekhez alkalmazkodó eszköz korszerűsítésnél a frekvenciagazdálkodási szempontok is érvényesüljenek és új berendezést a DCS 1800 sávjába sem a jelenlegi polgári, sem a katonai felhasználók ne telepíthessenek. Szabaddá kell tenni az EU szabvány szerinti 3. GSM sávot is polgári felhasználásra. A Kormány a megszűnt hírközlési alapból átvett feladatok fejezeti kezelésű előirányzatának felhasználásával az 1999–2001 közötti időszakban 3 Mrd Ft összeget biztosít azon új berendezések beszerzésére, melyek a – DCS 1800 rendszer 1998. december 31-én esedékes sávfelszabadításával ideiglenesen másik frekvenciasávba áthangolandó – mobil kormányzati eszközök kiváltását szolgálják.
+
+## e) Műsorszórás
+
+## A távközlés egyéb területeitől eltérően a műsorszórást a 2002-ig terjedő időszakban az állam tulajdonosi jelenléte, valamint a monopolhelyzet megőrzésére való állami törekvés fogja jellemezni. A műsorszórás fejlődése, az ahhoz nélkülözhetetlen tőkebevonás lehetőségének biztosítása, valamint a távközlési piac teljes liberalizációjára vonatkozó európai uniós kötelezettségünk teljesítése érdekében az Antenna Hungária monopóliumát legkésőbb 2002-ben meg kell szüntetni.
+
+## A rádiózásról és televíziózásról szóló 1996. évi I. törvényben kitűzött öt országos rádió, három földi és két műholdas sugárzású televízió műsorszóró hálózaton az elkövetkező 15 évben – a kapott vagy elnyert műsorszolgáltatási jogosultság miatt – a meglevő távközlési szolgáltató sugározni fog. Ez a helyzet korlátozni fogja az új szolgáltatók piacra lépését, és amíg ez az állapot fennmarad, akadályt fog jelenteni az új információs szolgáltatások egységes hazai piacának kialakítása, majd az Európai Unióhoz való csatlakozásunk után az egységes európai információs piachoz történő kapcsolódásunk előtt.
+
+## Az ezredforduló után uralkodó digitális technika alkalmazása azonban új lehetőségeket nyit meg a műsorszórás előtt. A műsorszórás digitalizálása újabb országos földi hálózatok kialakítását és az olcsó közvetlen műholdas vételt és a távközlés (műsorszórás), informatika és média integrálódását teszi lehetővé. A műsorszórási frekvenciák szűkösségéből adódó fokozottabb szabályozás ellentétesen hat a kiadói piacon és a távközlés egyéb területein kialakuló liberalizációval. A hagyományos műsorszórást az információ technológiai iparág felől jelentős kihívás fogja érni. Az Internet web-tv növekvő jelentősége folytán egyre nagyobb hatást gyakorol majd a műsorszórásra. A video-on-demand típusú szolgáltatások – beleértve az egyre jobban terjedő elektronikus kereskedelmet – új szabályozási kereteket igényelnek.
+
+## A Kormány célja, hogy
+
+## – a műsorszórási piac az új technikai adottságokat kihasználva fejlődőképes maradjon, és akadályoztatás nélkül piacszerűen fejlődjön,
+
+## – a műsorszórás fejlődése és a további tőkebevonás lehetőségének biztosítása érdekében liberalizálja 2002-t követően a műsorszórást,
+
+## – az átmeneti időszakban megteremtse azokat a szabályozási feltételeket, amelyek biztosítják a műsorszórás megváltozott szerepének megfelelő piaci alkalmazkodást,
+
+## – a megszűnt Hírközlési Alapból átvett fejezeti kezelésű előirányzatból a földi digitális rádiózás (T–DAB) 2000–2002. években esedékes létrehozása feltételeinek megteremtésére 1 Mrd Ft összeget biztosítson.
+
+## 2. Információs technológia
+
+## Az információs társadalom kialakulásának alapjául szolgáló informatikai és kommunikációs technológiák a gazdaság jelentős tényezőivé válnak. Növekedésük világszerte meghaladja a termelés átlagos növekedését, és fejlettségük mind a GDP alakulásának, mind a gazdaság munkaerő-szükségletének meghatározó tényezője. Magyarország is megkezdte a felkészülést az információs társadalom létrehozására, kiindulási helyzetünk reális felmérésénél és stratégiánk meghatározásánál azonban figyelembe kell vennünk elmaradottságunkat a világ fejlettebb régióitól, valamint a változások olyan jelenségeit, mint a globalizáció következtében kiéleződő verseny a befektető tőkéért, a társadalmi stabilitás fenntartásának problémái és a határok jelentőségének csökkenése.
+
+## Az információs társadalom megvalósításának előmozdítása terén az elmúlt években jelentős eredmények születtek Magyarországon, melyek sorában leglényegesebb a távközlési infrastruktúra helyzetének kedvező alakulása, ezen belül a tudományos szféra legfontosabb intézményeinek számítógépes ellátottsága. Jelentős eredmények születtek az informatika alkalmazásában és terjesztésében, többek között az államigazgatásban, a banki szférában, az iskolák számítógéppel való ellátásában, az informatikának az oktatásba való bevezetésében, az Internet terjedésében, a hazai tartalom szolgáltatás kialakításában és vezető multinacionális cégek betelepedésében. Az információs társadalom kialakításában Magyarország előtt álló további kihívások megválaszolása az egész társadalom feladata. A Kormány mindezekre figyelemmel biztosítani kívánja az informatikai ipar dinamikus fejlődésének kereteit, melynek eredményeként el kell érni, hogy
+
+## – az információs technológia valóban generikus technológia legyen, és ennek eredményeként együttes hatása (beleértve közvetett hatását is, pl. más termékbe beépülve, illetve termelési folyamatokban felhasználva stb.) évi 2,5–3% növekedést idézzen elő,
+
+## – az informatikát hatékonyan alkalmazzák a különböző ágazatokban (tudomány, pénzügy, kereskedelem, közlekedés, oktatás, egészségügy stb.),
+
+## – növekedjen a távmunkával foglalkoztatottak aránya és a munkavégzés hatékonysága.
+
+## 3. Információs csomópont kialakítása
+
+## A fejlett információs rendszerekhez való csatlakozásunk és a kapacitások kiépülésének üteme megalapozza azt, hogy Magyarország a közép-kelet-európai régió egyik fontos információs központja legyen, kihasználva földrajzi elhelyezkedéséből, mikrokapcsolataiból és eddigi fejlődéséből fakadó előnyeit. Célszerű arra törekedni, hogy – összhangban az 1993-ban megkötött Országos Koncessziós Szerződéssel – ez megvalósuljon. A kormányzat fontos feladata, hogy támogassa mindazokat a kezdeményezéseket, melyek az ország számára domináns szerepet kívánnak biztosítani a közép-európai távközlési szolgáltatásokban, különös tekintettel az értéknövelt üzleti távközlésre, valamint a Földközi-tenger keleti medencéje távközlési forgalmának tranzitálására és az intelligens hálózati szolgáltatások nemzetközi felkínálására. A gerinchálózat és a nemzetközi összeköttetések szempontjából ennek megszületett az alapja, fontos cél azonban a szélessávú nemzetközi összeköttetések (ATM, TEN 34) kiépítése.
+
+## 4. Postai szolgáltatások
+
+## A postai piac globálisan, de különösen az EU tagországai vonatkozásában fokozatos és ütemezett liberalizálás előtt áll. A piaci liberalizálás általában a jelenleg kizárólagos joggal nyújtott szolgáltatások szűkülését jelenti, míg a minőség és az ügyfélkiszolgálás terén a szolgáltatási kötelezettségek jogszabályi rögzítését is magába foglalja. A postai piacon a magán szolgáltatókkal jelenleg is folyó verseny erősödni fog, és kibővül a nemzeti posták egymás közötti versenyével. A verseny a globális piac újrafelosztásáért, illetve a nemzeti piacokon a koncentrált üzleti igények kielégítésének megszerzéséért folyik. Versenyelőnyt a postai szolgáltatások minősége, valamint azok költséghatékony biztosítása jelent.
+
+## Mindezen tényezők figyelembevételével meg kell vizsgálni és elő kell készíteni a Magyar Posta Rt. privatizációját az ezredforduló környékén, az új hírközlési törvény megalkotását követően.
+
+## A nemzetközi trendeket követve 1997-ben megkezdődött az országban az ,,Integrált Postai Hálózat'' (Front Office) programjának megvalósítása. Ez a projekt a szolgáltatások teljes informatikai támogatottságát megvalósítja, és olyan informatikai infrastruktúrát biztosít, amely lehetővé teszi a postai bekapcsolódást az informatikai alapú szolgáltatások területére is.
+
+## Az informatika területén megvalósuló technológiai fejlődés kihat a postai szolgáltatások iránti igények alakulására is. A teleshopping – az Internet hálózat felhasználásával – a magyar vásárlók részére is a világméretűvé vált fogyasztói piacon való vásárlás, és az egymástól eltérő országok kereskedői árajánlatai közötti választás lehetőségét biztosítja. Az informatikai úton rendelt áru postai úton juthat el a megrendelőhöz, tehát távlatilag a csomagforgalom mennyiségi növekedésével kell számolni. Ez a növekedés szükségessé teszi a csomagforgalom informatikán alapuló ,,nyomon követési'' rendszerének mielőbbi kiépítését.
+
+## Az informatikai hálózat kiépítésével lehetőség nyílik a hagyományos postai szolgáltatások területén is korszerűbb, értéknövelt szolgáltatások bevezetésére. Ezek közül a legfontosabb az elektronikus levél, amely esetében a felvétel és továbbítás elektronikus úton, a kézbesítés fizikai úton történik. Az informatikai rendszer kiépítésével jelentősen gyorsulhat a postai közvetítéssel megvalósuló pénzmozgás, amely elősegíti az ország gazdasága számára oly fontos pénzforgási sebesség növelését.
+
+## A postai szolgáltatóhely hálózat alkalmassá tehető megfelelő informatikai hálózat kiépítésével információs kapcsolódó pontok kialakítására, melyek segítségével a saját informatikai végberendezéssel nem rendelkező ügyfelek is igénybe vehetik a modern technika által nyújtott lehetőségek széles skáláját és a postai szolgáltató helyek bázisai lehetnek a telefalu hálózatoknak.
+
+## A technikai fejlődés és a pénzügyi kormányzat ez irányú erőfeszítésének eredményeként az országban a készpénzforgalom rohamos mértékben csökkeni fog. A postai szolgáltatót szellemi és hálózati kapacitása, a beindított technikai fejlesztés alkalmassá teszi arra, hogy nagyobb mértékben nyújtson banki szolgáltatásokat, ideértve az értékpapírok forgalmazását és lakossági megtakarítások gyűjtését is.
+
+## III. AZ ÁLLAMI IRÁNYÍTÁS SZEREPE
+
+## 1. A szolgáltatásokat érintő szabályozási feladatok
+
+## A távközlési szolgáltatások szabályozási feladatainak ellátása azok széles körű külső kapcsolati rendszere miatt nem lehet egy tárca feladata, hanem az egész kormányzaté.
+
+## A távközlésben az új szabályozás kialakításának igénye már most is felmerül, pl. az Interneten keresztül közvetített rádióműsorok vagy telefonbeszélgetések vonatkozásában. A szabályozás célja nem lehet az, hogy meggátolja az új technikai lehetőségek elterjedését, de fel kell oldania a hatályos törvények kötöttségeit és fenn kell tartania a pluralizmust az információforrások elérhetőségében.
+
+## A) Az információs társadalom jogszabályrendszerének létrehozása
+
+## Az új szolgáltatásokra vonatkozó jogszabályokban kell meghatározni azok nyújtásának és felhasználásának feltételeit, továbbá rendelkezni a szolgáltatások, fogyasztók és az adatok védelméről, valamint rögzíteni a szereplők felelősségét.
+
+## – Az euro-atlanti csatlakozás érdekében – igazodva a nemzetközi adatvédelem stratégiájához – ki kell alakítani a hazai (nemzeti) kriptográfiai elvárásokat.
+
+## – Meg kell határozni az elektronikus dokumentumok hitelesítésének és az ún. digitális azonosítók jogi elfogadásának feltételeit.
+
+## – Ki kell fejleszteni és alkalmazni azokat a számítástechnikai módszereket, amelyekkel megakadályozható a büntetőjogilag tiltott, a fiatalkorúakra veszélyes adatok, információk forgalma, és amelyek segítik a bűnüldözést, illetve bizonyos esetekben a bűnmegelőzést.
+
+## – A hírközlés fejlesztése során eleget kell tenni a nemzetbiztonsági, valamint bűnüldözési célú ellenőrizhetőség követelményének az ellenőrzési lehetőségek egyenrangú és harmonikus fejlesztésének megvalósításával. Ennek keretében szükséges megteremteni az ellenőrzés feltételrendszerét (finanszírozás, technikai, személyi feltételek, hatósági lehetőségek).
+
+## – Fontos az adatbankokra és a műsorterjesztésre vonatkozó szellemi tulajdon védelme.
+
+## – A statisztikai törvény alapján készülő országos adatgyűjtési programot ki kell terjeszteni mindazon hatósági statisztikára, országos alapnyilvántartásra és a kormányzati irányítással összefüggő adatgyűjtésre, amelyek lehetővé teszik a hírközlési, az informatikai és a médiaszektorok fejlődésére vonatkozó gazdasági elemzések végzését.
+
+## B) Szolgáltatás engedélyezés
+
+## Az EU alapelveinek megfelelően államunk már ma is szabályozza a liberalizált szolgáltatások piacra lépésének feltételeit, engedélyezési rendjét és a versenyfeltételeket. Az ezredforduló után a szolgáltatások engedélyezése leginkább a piaci igényeken, a keresleten és kínálaton fog múlni. Olyan szolgáltatás engedélyezési feltételeket kell kialakítani, amelyek
+
+## – elősegítik a szolgáltatások választékának bővítését,
+
+## – vonzzák a tőkebefektetéseket, és fenntartják a liberalizációs folyamatot,
+
+## – a hazai piac sajátosságainak megfelelően alkalmazzák az európai normákat,
+
+## – nem veszélyeztetik a közszolgáltatások nyújtását,
+
+## – tiszteletben tartják a megkötött koncessziós szerződéseket,
+
+## – lehetővé teszik a szolgáltatások tartalmának indokolt szintű ellenőrzését,
+
+## – a globalizálódás révén nem hozzák a belföldi szolgáltatókat hátrányos helyzetbe.
+
+## Globális hálózati szolgáltatók piacra lépése nemzetközi egyezmények keretében engedélyezhető. Ezek magyar partnert a fennálló piaci helyzetnek megfelelően választhatnak. A globális értéknövelt szolgáltatások tekintetében formailag sem létezhetnek egyes belföldi szolgáltatóknak kizárólagos jogai. Célszerű ezért, hogy a globális értéknövelt szolgáltatásokat magyar szabályok szerinti távközlési szolgáltatási engedéllyel, illetve az értékesítési és ügynöki tevékenységre magyarországi joghatállyal rendelkező cégek nyújthassák.
+
+## C) Egyetemes szolgáltatási kötelezettség
+
+## Az Európai Unió normáinak megfelelően kell szabályozni az egyetemes szolgáltatások körét és árát. Az Európai Unió előírja, hogy az egyetemes minősített szolgáltatásoknak mindenki számára mindenhol elérhetőnek, áraiknak pedig ,,elfogadhatónak és megfizethetőnek'' kell lenniük. Ezeket az elveket kell érvényesíteni a magyar egyetemes hírközlési szolgáltatásokra is. Magyarország jelenlegi gazdasági körülményei között is képes lesz vállalni az egyetemes szolgáltatásoknak az Unió kevésbé fejlett tagállamaitól elvárt kötelező minimum szintjét. E szolgáltatások finanszírozási sémáját a fogyasztókra szabottan, a fogyasztók általános teherbíró képességét figyelembe véve kell kialakítani, és általában kerülni kell azokat az eszközöket, amelyek a rá nem szorulók széles körét is előnyben részesítik. A minimumot úgy kell azonban meghatározni, hogy figyelembe vegye a gazdaság jelenlegi teherbíró képességét is. Jogszabályban kell rögzíteni az új szolgáltatásokra vonatkozó ellátási kötelezettséget, és azt, hogy a települések, iskolák, kórházak és közintézmények, valamint a hátrányos helyzetűek (egészségkárosultak, idősek) előírt színvonalú szolgáltatásokhoz juthassanak elfogadható díjtételek mellett. Csak abban az esetben lehet megfelelően gondoskodni a szolgáltatók számára gyakran veszteséges egyetemes szolgáltatások fennmaradásáról, ha a piac olyan mértékű profitot termel, amelyből állni tudja a kompenzációs igényeket. A finanszírozásban megoldás az, ha forrását maguk a távközlési szolgáltatók képezik, és létrehoznak egy finanszírozási alapot vagy alapítványt, amely feltöltésének módja hasonlít az adózáshoz. Ezt a célt jól szolgálhatta volna a – sokak által vitathatónak tartott módon megszüntetett – Hírközlési Alap.
+
+## A Kormány a távközlési szolgáltatások bizonyos minimumát – már 1998-tól folyamatosan – elérhetővé kívánja tenni az ország lakossága részére olyan területeken és viszonyok között is, ahol a szolgáltatás nem gazdaságos. A koncessziós közcélú távbeszélő szolgáltatók kötelesek területi és jövedelmezőségi diszkrimináció nélkül minden igényt kielégíteni a koncessziós szerződésben rögzített feltételek szerint. A mindenkire kiterjedő szolgáltatás biztosított a koncessziós rendszer keretében mindaddig, amíg a koncessziósok kizárólagos szolgáltatási joga és kötelezettsége fennáll. Az egyetemes szolgáltatás feltételrendszerét a kizárólagossági időszak lejártáig, 2002-ig kell kialakítani.
+
+## Az EU-nak az egyetemes szolgáltatásokra megfogalmazott definícióiból az ellátási kötelezettség szélesítése adódik, ami postai területen bevételcsökkenést eredményez. Az Európai Parlament és Tanács 97/67/EK (1997. XII. 15.) irányelve a közösségi postai szolgáltatások belső piaca fejlesztésének és a szolgáltatások minősége javításának meghatározza az egyetemes szolgáltatások körében teljesítendő kötelezettségeket[^3]. Ezek sorában egyebek mellett előírja
+
+## – egyetemes szolgáltató kijelölését,
+
+## – legalább 2 kg súlyhatárig a levélküldemények, legalább 10 g súlyhatárig a csomagküldemények, valamint az ajánlott és biztosított küldemények gyűjtését, szállítását, feldolgozását és házhoz kézbesítését minden munkanapon, de legalább a hét 5 napján,
+
+## – a határt átlépő forgalomban a küldemények 85%-ának a feladást követő 3 napon belül történő, 97%-ának 5 napon belül történő kézbesítését,
+
+## – a belföldi minőségi előírások összhangba hozatalát a határt átlépő forgaloméval,
+
+## – évente legalább egyszeri független minőség mérést és eredményének nyilvánosságra hozatalát,
+
+## – költségalapú, átlátható díjrendszert, melynek vonatkoznia kell a nemzetközi szolgáltatásban alkalmazott végdíjakra is,
+
+## – az egyetemes szolgáltatóknál fenntartott és nem fenntartott szolgáltatásaik különválasztott költségelszámolását számlarendjükben.
+
+## A Magyar Postát mint domináns szolgáltatót tudatosan átgondolt állami eszközökkel is támogatni kell abban, hogy az Unió által előírt egyetemes szolgáltatási kötelezettségeket idejében teljesíteni tudja.
+
+## D) Versenyszabályozás
+
+## Az általános versenyszabályok – amelyek a távközlésre is érvényesek – tiltják a vállalkozók versenyellenes együttműködését. A távközlésben azonban a vállalkozók együttműködése sok esetben éppen a hálózatok igénybe vevői számára – ideértve a felhasználókat és a további szolgáltatókat is – fontos. A távközlési versenyszabályozásnak ezért bizonyos esetekben éppen az a feladata, hogy kikényszerítse és előkészítse a hálózatok–szolgáltatások–szolgáltatók együttműködését még akkor is, ha ez egyes szolgáltatók piaci pozícióját rontja.
+
+## A távközlési hálózatok összekapcsolásának a versenyt ösztönző szabályozása kritikus fontosságú a magyar távközlés továbbfejlődése szempontjából. A hatályos jogszabályok az összekapcsolást csak bizonyos korlátozásokkal engedik meg (közcélú – különcélú hálózatok összekapcsolása). A verseny kiteljesedésével párhuzamosan azonban az összekapcsolás egymással versengő, de nem egyenlő piaci helyzetben lévő üzleti vállalkozók gazdasági-pénzügyi viszonyává válik. Ezért szükséges a jövőben a távközlő hálózatok összekapcsolásán túl a távközlési szolgáltatók együttműködését is szabályozni. A közcélú távbeszélő szolgáltatás kizárólagos időszakának lejárta után meg kell szüntetni a hálózatok összekapcsolásának minden korlátozását.
+
+## A liberalizáció útján megvalósuló verseny igényli a versenyfeltételek teljes egyenlőségét és – ebből kiindulva, valamint a fogyasztói érdekek érvényesülését kiemelten figyelembe véve – mindenképpen megköveteli a távközlési koncesszió intézményének felülvizsgálatát. Ezért szükséges a különböző lehetséges változatok nemzetgazdasági hatásait elemezni, és ezzel kapcsolatos hatástanulmányokat elkészíteni. Ilyen változatok:
+
+## 1. Fenntartjuk a koncessziós rendszert a hatályos törvényben és a szerződésekben foglalt feltételekkel. Az új belépők koncessziós pályázat elnyerése, koncessziós szerződés alapján léphetnek a piacra. A piacra lépők száma nem korlátozott.
+
+## 2. Felmondjuk és szolgáltatási engedélyhez kötjük 2002-ben a koncessziós tevékenységeket. A piacra lépés a szolgáltatási engedélyezés keretében történik ezután. Ebben az esetben a koncesszió jogosultjait várhatóan kártalanítani kell.
+
+## 3. A koncessziós szerződéseket nem mondjuk fel, csak módosítjuk azokat. A közcélú távbeszélő koncesszióval rendelkező szolgáltatók az univerzális szolgáltatás kötelezettjeivé válnának. Az új piacra lépők tevékenységüket szolgáltatási engedély alapján folytatják.
+
+## A Kormány célja a verseny bevezetésének elősegítése és kiteljesítése a távközlés több területén lehetőleg már 2002-t megelőzően. Első lépésként a távolsági telefonszolgáltatások liberalizációját lehetne előre hozni, amennyiben az érdekelt felek meg tudnak állapodni.
+
+## A postai szolgáltatások területén a liberalizáció megindult. Liberalizációs politikánk összhangban van a postai szektor EU szintű liberalizációs folyamatával. A postai alapszolgáltatások mellett az egyéb postai szolgáltatásokat az állam részben már ma is, hosszabb távon pedig fokozatosan bővülő mértékben a versenypiaci körülmények megteremtésével biztosítja, míg a hírlappiac már teljesen liberalizált. Magyarországon a belföldi levelek jelenleg 500 gr, egyéb levélpostai küldemények a belföldi és nemzetközi forgalomban 2000 gr súlyhatárig tartoznak a monopólium körébe. Az EU fentiekben hivatkozott 97/67/EK irányelve a posta monopóliuma alá tartozó ún. ,,fenntartott szolgáltatást'' a 350 gr alatti súlyú és a leggyorsabb szabványküldemény díjának ötszörösét meg nem haladó díjú levélpostai küldeményekre korlátozza. Monopólium alá tartozik ezen súlyhatáron belül a nemzetközi levélforgalom és az ún. direct-mail. Mivel a fenntartott szolgáltatási kör korlátozott és átmeneti célja, hogy az egyetemes szolgáltatást ellátó postai szolgáltató számára biztosítsa a forrást az ország egész területét lefedő egyetemes szolgáltatás ellátásához, ennek EU által történő folyamatos szűkítése, illetve későbbi eltörlése növekvő anyagi terhet ró a jogharmonizáció folyamatában a hazai domináns szolgáltatóra. Tekintve, hogy az európai normákhoz való igazodás ezen a területen sem kerülhető meg, a Magyar Posta fentiekből adódó veszteségeinek fedezése állami eszközökkel oldandó meg.
+
+## E) Árszabályozás
+
+## a) Távközlés
+
+## A távközlési szolgáltatások közül ma csak a koncessziós közcélú szolgáltatásoknak tekintett koncessziós tevékenységek (vagyis a nem versenykörbe tartozó szolgáltatások) árai hatóságiak. Az állam árszabályozó szerepét meg kell tartani azoknál a szolgáltatásoknál, amelyeket csak egy vagy két szolgáltatótól lehet igénybe venni, a valódi versenypiac létrejöttéig.
+
+## A jelenlegi árszabályozás – ún. price cap szabályozás – ugyan már alkalmazza a korszerű szabályozás több elemét, de változatlanul hagyása mellett nem biztosíthatók a piac kiegyensúlyozott működésének és a távbeszélő szolgáltatás 2002-re tervezett liberalizálásának feltételei. Ezért az elkövetkező 4 éves időszakban tovább kell fejleszteni a díjszabályozást. Amennyiben az indexálás a következő időszakban is elkerülhetetlen lesz, mielőbb át kell térni az előre mutató indexek használatára a hivatalosan előre jelzett árindexek alapulvételével. A változtatásokat továbbra is az ún. ösztönző díjszabályozás elvei szerint kell végrehajtani, ami nem veszi el a szolgáltatónak azt a jogát, hogy maga határozza meg a piac árait, hanem ezt a jogot korlátozza, az árképzéshez adott kerettel. Meg kell jeleníteni a költségek áttekinthetőségének és a szolgáltatók szigorúan számon kért adatszolgáltatásának követelményét.
+
+## A szabályozásnak az előfizetői díjak és az összekapcsolási díjak szabályozásának elveire kell kiterjednie. Ennek keretében olyan árszabályozó mechanizmust kell bevezetni, mely a piac liberalizálása után biztosítja a társszolgáltatók számára, hogy szolgáltatásukhoz a domináns szolgáltató hálózatát igénybe vehessék az általa alkalmazott legkedvezményesebb tarifaszint alatt.
+
+## A közcélú távbeszélő szolgáltatások díjai újraegyensúlyozását radikálisan fel kell gyorsítani, folyamatosan végre kell hajtani, és legkésőbb 2002-ig be kell fejezni. A díjak újraegyensúlyozásával, a költségalapú díjrendszer kialakításával meg kell szüntetni a keresztfinanszírozás minden formáját. Ennek keretében megváltozik az előfizetési és a forgalmi díjak szerkezete is úgy, hogy az előfizetési díjak nőnek, a forgalmi díjak csökkennek. A forgalmi díjak szerkezetének változásával a helyi hívások díjai nőni, a távolságiaké csökkenni fognak.
+
+## Az ezredfordulóig meg kell teremteni és jogszabályban rögzíteni a valós költségalapú szolgáltatási díjak és a szolgáltatók egymás közötti elszámolását objektív alapokra helyező számviteli rendet.
+
+## A hálózaton közszolgáltatást és versenyszférába tartozó szolgáltatást nyújtó, vertikálisan integrált vállalkozás működésével szemben az alábbi követelményeket kell támasztani:
+
+## – a hálózat működtetésének és a szolgáltatási tevékenységnek irányításbeli és könyvviteli elkülönítése a keresztfinanszírozás megakadályozása érdekében,
+
+## – a koncessziós közcélú szolgáltatások és a nem koncessziós közcélú szolgáltatásnak minősülő értéknövelt szolgáltatások költségeinek elkülönített kezelése,
+
+## – azon szolgáltatóknál, amelyek többféle közcélú szolgáltatást (pl. helyi, helyközi, nemzetközi, mobil) nyújtanak, mind a költségek, mind a bevétel elkülönített kezelése,
+
+## – a koncessziósok nem tehetnek hátrányos megkülönböztetést sem a fogyasztók, sem üzleti partnereik között, további szolgáltatásaikat, berendezéseik felszerelését, hálózatuk használatát nem köthetik más szolgáltatáshoz vagy áruvásárláshoz, és biztosítaniuk kell más szolgáltatók számára a hálózathoz való hozzáférést.
+
+## b) Műsorszórás és műsorjelelosztás
+
+## A médiatörvény révén csökkenhet az országos műsorszóró finanszírozási függése a költségvetéstől. Bővül a műsorszórásra és szétosztásra, illetve műsorjelelosztásra alkalmas eszközök választéka (műhold, kábeltelevízió), illetve a korábbi műsorszóró és szétosztó eszközök a versenykörbe tartozó távközlési szolgáltatások nyújtására is alkalmazhatók. Ezért szükséges és kialakítandó az országos, regionális és helyi műsorszórás, valamint az országos és regionális műsorjelelosztás díjainak és a díjakhoz tartozó minőségi paramétereknek újra szabályozása és a szabályozás 3 évenkénti felülvizsgálata.
+
+## c) Postai szolgáltatások
+
+## A postai alapszolgáltatásokra, valamint néhány közszolgáltatásként definiált postai tevékenységre (pl. postacsomag) maximált hatósági ár van érvényben. A hatósági árszabályozás jelenlegi gyakorlata alapvetően az inflációs várakozáshoz és az állam inflációval kapcsolatos politikájához köti az árszint és az árak jóváhagyását. A hatósági árszabályozás intézménye a kizárólagos joggal nyújtott szolgáltatások árkorlátozását biztosítja. Annak érdekében, hogy a postai szolgáltató szolgáltatási skáláját korszerűsíteni tudja, szükséges az árformabesorolás és a tevékenységi jegyzékbesorolás felülvizsgálata.
+
+## A posta területén az állami árszabályozás intézményét a fenntartott szolgáltatások vonatkozásában kell működtetni, figyelembe véve azt is, hogy ezen monopolizált szolgáltatási kör jelentősen szűkül. A fenntartott szolgáltatási körön kívüli árakat a versenynek kell szabályoznia. Ezzel a szolgáltatások hozzáférhetőségét garantáló árakat az egyetemes szolgáltatási kör egy részében is a verseny szabályozza. Uniós csatlakozásunkkal egyidejűleg meg kell teremteni a fenntartott, az egyetemes és a versenyszférába tartozó szolgáltatások árbevételeinek és költségeinek elkülönített számviteli nyilvántartását.
+
+## F) A szűkös erőforrások kezelése
+
+## A hírközlési rendszerek működtetése sok esetben igényli szűkösen rendelkezésre álló erőforrások felhasználását. A piaci szereplők ezzel kapcsolatos ellenérdekeltsége szükségessé teszi az operatív állami intézkedéseket.
+
+## a) Frekvenciagazdálkodás
+
+## A frekvenciagazdálkodásnak biztosítania kell a rádiótávközlő eszközök működtetéséhez szükséges frekvenciaspektrumot mind a távközlési, mind a nem távközlési célú igények kielégítéséhez. Az államnak ezért gondoskodnia kell a hatékony korszerű frekvenciagazdálkodás gazdasági, technikai, jogi, illetőleg személyi feltételeiről, intézményi kereteiről. Figyelemmel mindezekre, meg kell szerveznie a spektrumgazdálkodás kutatás-fejlesztési bázisát, elő kell segítenie a szükséges mérőszolgálati rendszernek és a rádióellenőrzés, megfigyelés és zavarelhárítás komplex rendszerének kialakítását, és ki kell építenie ezek információs hátterét. A polgári távközlést elősegítő kormányzati spektrum felülvizsgálatot (átrendezést) az állam védelmi és nemzetbiztonsági feladatainak és az ország euro-atlanti csatlakozásának megfelelő ütemben szükséges tervezni. Végrehajtását az elérhető anyagi erőforrások koncentrálásával kell (lehet) biztosítani.
+
+## Elsősorban a polgári célú távközlési igények szempontjából értékes frekvenciaspektrumok átrendezését szükséges az államnak megfelelő jogszabályi és anyagi háttér megteremtésével megoldania. A Frekvenciasávok Nemzeti Felosztási Táblázata szerinti frekvenciasávok átrendezésének forrásigényét az 1998–2003 közötti időszakban a melléklet tartalmazza.
+
+## A szolgáltatásokhoz igénybe vett frekvenciáért – a szolgáltatás jellegéhez igazodóan – frekvencialekötési és -használati díjat kell fizetni. Az állam által megállapított díj mértékének igazodnia kell a frekvenciagazdálkodás költségeihez és az elfoglalt spektrumtér nagyságához, kiemelten kell ösztönöznie azoknak a technológiáknak az alkalmazását, amelyek biztosítják a frekvenciasáv maximális és gazdaságos használatát, továbbá elő kell segítenie, hogy a szolgáltatók és más frekvenciahasználók magasabb műszaki színvonalú, többféle szolgáltatást nyújtó rendszereket alkalmazzanak.
+
+## b) Számgazdálkodás
+
+## Az ország egységes távközlő hálózatának számozási tartománya nemzeti érték. A számozási terv kialakításánál tekintettel kell lenni a nemzetközi, ezen belül az európai egységesítési törekvésekre és a szolgáltatók igényeinek egységes kielégítésére. Mindezekre figyelemmel indokolt tehát a jelenleg még műszaki tervként kezelt, de a távközlési törvény módosítása alapján Kormány kompetenciába emelt számgazdálkodás teljes feltételrendszerének jogi újraszabályozása, kiemelten kezelve a számok hordozhatóságának biztosítását.
+
+## c) Területfelhasználás
+
+## Az ország egységes távközlő hálózata, a távközléshez szükséges berendezések, az ingatlanokon elhelyezett különféle eszközök helyet foglalnak el. A mai rendelkezések alapján a közúton és közterületeken elvileg minden távközlő hálózatnak azonos esélye van az általa igényelt terület megszerzésére. A meglévő közművek, illetve távközlési létesítmények által szerzett használati jogon lehetséges újabb használati jogot alapítani, amivel visszaélve – a szűk kapacitású közterületi és úthálózati helyeken – a jogot birtoklók akadályozhatják újabb hálózatok megépítését. Mindezek alapján szükséges az ingatlanhasználati jogok olyan szabályozása, ami megakadályozza az erőfölénnyel való visszaélést, továbbá egységes közműkoncepció kialakítása. Ennek keretében meg kell vizsgálni annak lehetőségét is, hogy a kábeltelevízió hálózatokat hatóságilag közműnek nyilvánítsák.
+
+## G) Szabványok
+
+## Az állami szabályozás szabványosítási előírásait harmonizálni kell az ETSI (Európai Távközlési Szabványosítási Szervezet) ajánlásaival, illetve a szabályozásnak törekednie kell – összhangban az EU szabályozási elveivel – a jogszabállyal kötelezővé tett nemzeti szabványok számának csökkentésére és távlati megszüntetésére.
+
+## A környezetvédelmi szempontokat figyelembe véve meg kell oldania az elektromágneses hullámok egészségre káros határértékeinek rögzítését és az elektromágneses kompatibilitás feltételeit tartalmazó szabványok kötelezővé tételét a vonatkozó EU normák átvételével.
+
+## 2. Intézményi háttér
+
+## A szabályozási és hatósági tevékenység politikai befolyásolhatatlanságának, valamint az állam szabályozó funkciói szétválasztásának érdekében – a fejlett országok gyakorlatának és az EU integrációs elvárásoknak megfelelően – folyamatban van és befejezéséhez közeledik a feladatok és felelősségek minisztérium és hírközlési hatóság közötti megosztásának meghatározása a következők szerint:
+
+## A minisztérium
+
+## – megalapozza a hírközlési stratégia döntéseit,
+
+## – kidolgozza és a Kormány elé terjeszti a hírközléspolitikát és egyéb koncepcionális terveket,
+
+## – előkészíti az ágazatpolitikai döntéseknek megfelelő normatív szabályokat és azok jogszabályként való kibocsátását,
+
+## – végzi a hírközlés nemzetközi koordinációját, a szabályozás nemzetközi keretekbe illesztését és az integrációs feladatokat,
+
+## – előkészíti, karbantartja és értékeli a koncessziós szerződéseket,
+
+## – biztosítja a társadalmi érdekegyeztetés fórumainak cselekvő részvételét a szabályozás és a különböző szintű döntések kidolgozásában.
+
+## A minisztérium feladatkört, jogkört nem vonhat el a hatóságtól, annak döntéseit nem befolyásolhatja. A hatóság működését bevételeiből finanszírozza, költségvetési forrást nem vesz igénybe. A Hírközlési Főfelügyelet vezetőjét a miniszter nevezi ki a Nemzeti Hírközlési és Informatikai Tanács javaslata alapján.
+
+## A hírközlési hatóság
+
+## – teljeskörűen ellátja a hírközlés hatósági feladatait,
+
+## – ellenőrzi a piac működését, a piac szereplőinek tevékenységét, normatív feltételek alapján kiadja a hatósági szolgáltatási engedélyeket és tapasztalatai alapján javaslatot tesz a minisztériumnak a szükséges szabályozási változtatásokra,
+
+## – a minőségtanúsítási rendszer működését elősegítve végzi a típusjóváhagyásokat és az ellenőrzési tevékenységét,
+
+## – kidolgozza és ellenőrzi a közcélú távközlés biztonságát és védelmét garantáló rendszert.
+
+## A liberalizálás befejezésével, az új hírközlési törvény elfogadása után meg kell teremteni a hírközlési hatóság teljes függetlenségét.
+
+## A hatósági és szabályozási tevékenységet a hírközlés és az informatika konvergenciájának megfelelően egységesíteni kell. Ennek folyamán – a frekvenciagazdálkodáshoz hasonlóan – biztosítani kell a kormányzati hírközlés és informatika egységes hatósági szabályozó funkcióinak érvényesítését.
+
+## 3. Felkészülés az Európai Unióhoz való csatlakozásra
+
+## Az EU csatlakozásra való felkészülés során meg kell teremteni azokat a feltételeket, amelyek csatlakozásunkat a lehető legnagyobb mértékben zökkenő mentessé teszik. Ezekre a hírközléspolitika különböző fejezeteiben utalás történt.
+
+## A hírközlési ágazat a nemzetgazdaság több szektorához képest kedvezőbb helyzetben van, mivel a szabályozás, illetve jogharmonizáció terén idejében megkezdett és eddig elvégzett munka eredményeként csatlakozásunk feltételei többnyire teljesültek, illetve a teljes jogharmonizáció a csatlakozásig megvalósítható. A szolgáltatások színvonala és az infrastruktúra állapota az EU normáknak lényegében megfelel, az egész ágazat versenyképessége jó.
+
+## A csatlakozást előkészítő tárgyalások során arra kell törekedni, hogy az egyetemes szolgáltatási kötelezettség tekintetében a nemzeti sajátosságainknak megfelelő és az ország teherbíró képességével összhangban álló szolgáltatási kört és feltételeket definiáljunk. Fontos teendő a díjrendszer EU által is elvárt reformja és a költségalapú díjrendszer bevezetése 2002-ig, ami hosszabb távon magyar érdek is. Törekedni kell a kutatás-fejlesztés és a postai ágazat – most alakuló EU normáihoz – való felzárkózást segítő fejlesztésekhez EU alapokból történő támogatások elnyerésére.
+
+## Függelék
+
+## Hírközlési Stratégia
+
+## A magyar hírközlési ágazat fejlesztésének stratégiája mindazon hosszabb távra is kiható állami intézkedések összességét tartalmazza, melyek az 1998–2005 közötti időszakot átölelő Hírközléspolitikában megfogalmazott elvek és célkitűzések gyakorlatba ültetését, illetve megvalósítását szolgálják. Meghatározza a távközlés és postai szolgáltatások technológiájának, infrastruktúrájának, integrációjának, tulajdonosi és piaci szerkezetének, intézményi hátterének, valamint szabályozási környezetének fejlesztésével kapcsolatos állami feladatokat, a végrehajtáshoz szükséges forrásigényeket 1998. évi árakon, a globális és ezen belül különösképpen az európai uniós nemzetközi együttműködésben való részvétel bővüléséből adódó teendőket, illetve a mindezek létjogosultságát megadó fő kötelezettséget, a társadalom széles körű igényeinek kielégítését.
+
+## 1. A hírközlés szerepe a társadalom fejlődésében
+
+## 1.1. A lakosság hírközlési igényeit úgy kell kielégíteni, hogy a hírközlés hozzájáruljon az életminőség javulásához, a műveltségi-kulturális szint emelkedéséhez, megfelelő életérzés kialakulásához, a társadalmi rétegek, valamint az ország egyes régiói közötti különbségek csökkentéséhez és mindezzel alapozza meg az információs társadalom megvalósítását.
+
+## 1.1.1. Egyetemes szolgáltatási kötelezettség
+
+## Az Európai Unió normáinak megfelelően kell szabályozni a távközlési és postai szolgáltatások területén az egyetemes szolgáltatások körét és árát, emellett a postai szektorban a fenntartott szolgáltatások körét és terjedelmét is. Az egyetemes minősített szolgáltatásoknak mindenki számára mindenhol elérhetőnek, áraiknak ,,elfogadhatónak és megfizethetőnek'' kell lenniük. Az egyetemes szolgáltatás feltételrendszerét a távbeszélő szolgáltatás teljes liberalizációjának időpontjáig, 2002-ig szükséges kialakítani.
+
+## A távközlési szektorban a szolgáltatások finanszírozási sémáját a fogyasztókra szabottan, a fogyasztók és a gazdaság teherbíró képességét figyelembe véve kell kialakítani úgy, hogy az egyetemes szolgáltatás nyújtására kötelezett és/vagy azt vállaló szolgáltató kompenzálásának forrását elsősorban maguk a szolgáltatók képezzék, létrehozva egy finanszírozási alapot vagy alapítványt, amelynek feltöltési módja hasonlít az adózáshoz. Az alap létrehozásánál nem nélkülözhető a fejezeti kezelésű előirányzat (a volt Hírközlési Alap) közreműködése sem. Az egyetemes szolgáltatási kötelezettség keretében olyan távközlési szolgáltatási minőséget, illetve infrastruktúrát kell biztosítani, amivel a lakosság minden rétege számára 2004-ig elérhetővé válik a minimum 64 kbit/s adatátviteli kapcsolatú Internet szolgáltatás.
+
+## Postai területen az EU-nak az egyetemes, valamint a fenntartott szolgáltatásokra megfogalmazott definícióiból nemcsak az ellátási kötelezettség szélesítése, hanem az egyetemes szolgáltatás nyújtásának veszteségeit bizonyos fokig kompenzáló, ún. fenntartott (kizárólagos) szolgáltatási kör jelentős szűkítése adódik. Ez évente 1,5–2 Mrd Ft olyan üzemeltetési költségtöbbletet okoz, amelyet többletbevétellel nem lehet fedezni, így állami forrás igénybevétele is szükséges. A veszteségek csökkenthetők, amennyiben az EU irányelvek szerinti szabályozás bevezetésére csak 2001 után kerül sor.
+
+## A Magyar Posta Rt.-nek mint egyetemes szolgáltatónak – az európai irányelvek szerint szélesedő ellátási kötelezettség teljesítése érdekében – szállító eszközparkjának bővítését, feldolgozókapacitásának és kézbesítőrendszerének fejlesztését kell végrehajtania. A költségvetési forrásigény mintegy 7 Mrd Ft, mely összeg visszatérülhet, ha a Magyar Posta Rt. a privatizációt követően tőzsdei bevezetésre kerül.
+
+## 1.1.2. Lakossági elérési pontok hálózatának kialakítása
+
+## A hírközlés területén ki kell dolgozni a teleház, intelligens város és intelligens régió programokat, melyek megvalósítása évente kb. 1 Mrd Ft költségvetési forrást igényel.
+
+## Létre kell hozni a számítógépes hálózati szolgáltatások nyilvános elérésére alkalmas helyek olyan rendszerét, amelyeken keresztül biztosítható, hogy minden magyar lakos (elvben) hozzáférjen az informatikai hálózatokhoz akkor is, ha otthon ilyen lehetőségekkel nem rendelkezik. A postai szolgáltatóhely hálózatot alkalmassá kell tenni megfelelő informatikai hálózat kiépítésével információs hozzáférési pontok kialakítására, miáltal a postai szolgáltatóhelyek bázisai lehetnek a telefalu hálózatoknak.
+
+## 1.1.3. Az elektronikus média programjai
+
+## Az államnak kezdeményező szerepet kell játszania a transznacionális (regionális) értékeket közvetítő, tartalmas műsorokat sugárzó televíziózás megteremtésében. Támogatni kell a kisközösségek életét szervező, azt programmal ellátó helyi kezdeményezéseket az ismeretterjesztés, nevelés és a térségre vonatkozó specifikus kérdések kezelése tekintetében.
+
+## 1.1.4. Minden otthonból elfogadható áron elérhető legyen az Internet
+
+## El kell érni, hogy Magyarország teljes területén a háztartások, intézmények és a vállalkozások univerzális szolgáltatásként mind a távbeszélő, mind az Internet szolgáltatáshoz hozzáférjenek. Fő célkitűzés, hogy kb. 2002-ig az Internet elérhetősége azonos legyen a távbeszélő szolgáltatás elérhetőségével. Az információs társadalom kialakulását gyorsító és támogató intézkedések között jelentős szerepet kell betöltenie annak, amely az Internet szolgáltatások általánosan olcsó elérhetőségét biztosítja. Szükséges feltétel a helyi távbeszélő díjjal való Internet elérés országos biztosítása és az Internet szolgáltatást terhelő állami elvonások (adó, vám) csökkentése.
+
+## 1.1.5. Multimédia általános elérhetősége
+
+## A kábeltelevíziós hálózatokat úgy kell továbbfejleszteni, hogy adatátvitelre is alkalmassá váljanak. El kell érni, hogy a háztartásokban a műsorjel-szolgáltatás hozzáférési pontja legyen alkalmas az interaktív hálózati csatlakozásra. A jogalkotás eszközrendszerével lehetővé kell tenni, hogy a szolgáltatók 2002-től – a technológiai konvergencia eredményének kihasználásával – képesek legyenek azonos szolgáltatás hozzáférési ponton keresztül beszéd-, kép- és informatikai interaktív szolgáltatásokat nyújtani.
+
+## 1.2. A nemzetgazdaság hírközlési igényeit úgy kell kielégíteni, hogy az ágazat közvetlen és közvetett módon az átlagosnál nagyobb mértékben járuljon hozzá a nemzeti jövedelem növekedéséhez, az új technológiák gyors bevezetéséhez, az ország nemzetközi versenyképességének javulásához és – az általános intelligenciaszint emelését is célzó új állami beruházások útján mint pl. informatika parkok létrehozása, kutatás-fejlesztést elősegítő beruházások – a korszerű infrastruktúra megteremtéséhez, illetve a foglalkoztatás növeléséhez. A gazdaság, az állami és közigazgatási szféra számára biztosítani kell az igényük szerinti távbeszélő és adatátviteli kapacitást.
+
+## 1.2.1. Exportképes informatikai termékek és szolgáltatások létrehozásának támogatása
+
+## Az információs társadalom új, tudás-intenzív termékeket igényel és hoz létre, ami egyedülálló lehetőséget kínál az országnak arra, hogy sikerrel találjon olyan területeket, ahol exportképessé tud válni. Ezért elő kell segíteni a multinacionális cégek és a magyar szellemi és ipari kapacitások kooperációját. Számba kell venni a hazai kis- és középvállalkozások mozgósítására és támogatására alkalmas eszközöket. Szükséges a hírközlési és informatikai kötődésű hazai kis- és középvállalkozások külföldi piacokon való megjelenésének támogatása a kapcsolatteremtés, piacelemzés segítségével, a minőségbiztosítás, valamint a korszerű fejlesztési technológiák átvételének támogatásával.
+
+## Hasonlóan támogatni kell a már kialakult hazai tevékenységek kilépését a környező országokba (pl. mobil telefónia, amennyiben a helyi szabályozás már lehetővé teszi ezt; hardver-termékek disztribúciója; oktatás stb.).
+
+## Ki kell választani szolgáltatásokon belüli azon kulcsfontosságú területeket, melyek koncentrált támogatása a leghatékonyabban segíti elő az információs társadalom kialakulását és fejlődését. Ezeken a területeken a vállalkozói szféra az állammal közösen hozhat létre projekteket, például:
+
+## – postai és távközlési alkalmazási csomagok adaptálásának támogatása,
+
+## – az új szolgáltatásokhoz kapcsolódó szoftver technológiák bevezetésének támogatása,
+
+## – távközlési, postai és informatikai minőségbiztosítási technológiák bevezetésének támogatása,
+
+## – az előremutató távközlési megoldások (1800 MHz-es GSM, műholdas kommunikáció stb.),
+
+## – ,,Web-ágazat'', Internet szolgáltatás,
+
+## – távvásárlás (teleshopping) üzleti és postai szállítási hátterének kiépítése.
+
+## Külön intézkedésekkel kell elősegíteni a szolgáltatói és a nonprofit szféra közötti együttműködést.
+
+## 1.2.2. Kutatás-fejlesztés
+
+## Az alap- és alkalmazott kutatásokat a hírközlés területén részben állami forrásokból kell finanszírozni. Emellett szükség van az állam aktív közvetlen részvételére elsősorban olyan kutatás-fejlesztési projektek finanszírozásában, amelyek magánvállalkozások által gazdaságosan nem végezhetők el, de segíthetik a magánvállalkozások aktív bekapcsolódását is. A felsőoktatási és kutatási szféra számára költségvetési forrásból biztosítani kell a legkorszerűbb technológiájú és kapacitású eszközparkot és az európai kutatási és fejlesztési programokhoz való csatlakozás forrás fedezetét. A gazdasági szabályozást úgy kell alakítani, hogy ösztönözze a vállalkozásokat a kutatás-fejlesztési tevékenységre.
+
+## Összességében évente mintegy 3–5 Mrd Ft költségvetési forrásigénnyel lehet számolni úgy, hogy a kezdeti 3 Mrd Ft-os felhasználás az EU csatlakozásunkat követő évekre 5 Mrd Ft-ra is növekedhet. A forrást nem a Hírközléspolitika keretein belül, hanem a kutatás-fejlesztési keretprogramok részeként kell biztosítani.
+
+## 2. A szolgáltatások és azok infrastruktúrájának fejlesztése
+
+## 2.1. Távközlés
+
+## 2.1.1. Párhuzamos (alternatív) hálózati infrastruktúra létrehozása
+
+## A bővülő igény, a spontán monopólium fennmaradásának veszélye a liberalizált piacon, valamint a piaci árak kialakulásának szükségessége már most kívánatossá teszik, hogy párhuzamos távközlési infrastruktúra épüljön ki Magyarországon. Az ,,alternatív'' és ,,egyéb'' szolgáltatók ütőképes versenytárs megjelenését jelenthetik a domináns távközlési szolgáltató számára az információátviteli piacon. Ezen az úton biztosítható az alacsonyabb bérelt vonali ár és új szolgáltatók piacra lépése a hálózatokhoz való könnyebb hozzáféréssel. Az így kialakuló alternatív infrastruktúra és az arra épülő liberalizált szolgáltatási piac lehetővé teszi az előfizetők számára a felhasználói igények szerinti választást a szolgáltatók és a szolgáltatások között. Ez a választási lehetőség kiterjed a kormányzati, önkormányzati és más állami szervekre is.
+
+## Alternatív szolgáltató(k) létrehozása jó lehetőséget ad az állami tulajdon hasznosítására, az Antenna Hungária és a MÁV távközlési infrastruktúrájának felhasználásával.
+
+## 2.1.2. Kormányzati integrált távközlő rendszer létrehozása
+
+## Létre kell hozni – elsősorban a szolgáltatók versenyeztetése útján és a kormányzati szervezetek és állami többségi tulajdonú gazdálkodó szervezetek meglevő távközlési erőforrásait is felhasználva – a közigazgatási, valamint a rendvédelmi szervezetek igényeit kielégítő, többszintű, szintenként differenciáltan védett, költségtakarékos, integrált távközlő rendszert. A közcélú és különhálózatok optimális kombinációjaként megvalósítandó rendszer egységes irányítását kormányzati (ágazati) felügyelet alá kell vonni. Egyidejűleg meg kell szüntetni az indokolatlan párhuzamosságokat a zártcélú kormányzati távközlő hálózatok létesítése és működtetése terén. Az egységes, európai színvonalú rendszernek béke idején és a minősített időszakban is folyamatosan biztosítania kell az országirányítás távközlési feltételeit. Mindenkor és mindenhol szükségesek a megfelelő szintű és minőségű távközlési kapcsolatok az Európai Unió és a NATO kormányzati és védelmi szerveivel. Ennek legcélszerűbb megvalósítási módja a NATO integrált vezetéstámogatási rendszerének honosítása, illetve kiépítése.
+
+## Elkerülhetetlen a készenléti szolgálatok részére biztosított 380–400 MHz-es sávban, valamint egyéb kormányzati célokra a 410–430 MHz-es sávban működő (PAMR) digitális trönkölt diszpécser jellegű rádiótelefon szolgáltatás bevezetése 1999-ben. Amennyiben nem sikerül ezt vállalkozási alapon megoldani, mintegy 20 Mrd Ft költségvetési igény fog megjelenni.
+
+## A hírközlés honvédelmi feladatainak magas színvonalú ellátása érdekében
+
+## – növelni kell a közcélú hálózatok, elsődlegesen az országos gerinchálózat, biztonságát, csökkenteni zavarérzékenységét, és növelni a honvédelmi érdekből történő hozzáférhetőségét,
+
+## – ki kell jelölni a honvédelmi feladatokban részt vevő hírközlési szerveket, és meghatározni feladataikat,
+
+## – fel kell készülni a NATO tagságból eredően a védelmi távközlési igények kielégítése módszereinek, illetve eljárási rendjének szükség szerinti átvételére,
+
+## – növelni kell a közcélú hálózatok nemzetbiztonsági célokra történő hozzáférhetőségét,
+
+## – ki kell jelölni a nemzetbiztonsági feladatokban részt vevő hírközlési szerveket, és meg kell határozni feladataikat.
+
+## 2.1.3. Mobil rádiótelefon szolgáltatás
+
+## A mobil rádiótelefon szolgáltatások költségvetési támogatást nem igényelnek, hanem inkább állami bevételt eredményeznek.
+
+## 1999-ben kerül bevezetésre az 1800 MHz-es sávban működő GSM platformú mobil rádiótelefon szolgáltatás, az ún. DCS 1800 rendszer. Ennél is a bevezetés költségeit a koncesszióból származó bevételek meghaladják. Tekintettel a hazai piac nagyságára és a gazdaság növekedési kilátásaira, rövid távon az látszik indokoltnak, hogy a meghatározó piaci szereplők száma az UMTS (univerzális mobil távközlési rendszer) bevezetéséig háromnál több ne legyen. A meglevő mobil szolgáltatók eredményes pályázása esetén – pozícióelőnyük ellensúlyozására – az új mobil szolgáltató piaci erősödését elő kell segíteni. Előnyt kell biztosítani számára a piacra lépésnél, és kötelezettségként kell meghatározni a jelenlegi GSM szolgáltatók belső roaming szolgáltatását az új belépő részére.
+
+## A DCS rendszer megnyitja a lehetőséget a mobil rádiótelefon szolgáltatás általánossá tétele előtt. Ez jelentheti az első lépést a személyi és az univerzális mobil távközlés megvalósítása felé. Az UMTS megjelenésével a mobil piac teljes liberalizálása után 2002–2003-tól kezdődően kell számolnunk, amikor már csak a frekvenciák biztosítása jelenthet korlátozást.
+
+## 2.1.4. Magyarország régiós szerepvállalása
+
+## A fejlett információs rendszerekhez való csatlakozásunk és a kapacitások kiépülésének üteme megalapozza azt, hogy Magyarország a közép-kelet-európai régió egyik fontos információs központja legyen, kihasználva földrajzi elhelyezkedéséből, mikrokapcsolataiból és eddigi fejlődéséből fakadó előnyeit. Az államnak támogatnia kell mindazokat a kezdeményezéseket, melyek az ország számára domináns szerepet kívánnak biztosítani a közép-európai távközlési szolgáltatásokban, különös tekintettel az értéknövelt üzleti távközlésre, valamint a Földközi-tenger keleti medencéje távközlési forgalmának tranzitálására és az intelligens hálózati szolgáltatások nemzetközi felkínálására. A megvalósítás fontos feltétele a szélessávú nemzetközi összeköttetések (ATM, TEN 34) kiépítése.
+
+## 2.1.5. Műsorszórás
+
+## Az ezredforduló után uralkodóvá váló digitális technika alkalmazása új lehetőségeket nyit meg a műsorszórás előtt. A műsorszórás digitalizálása újabb országos földi hálózatok kialakítását, olcsó közvetlen műholdas vételt, valamint a távközlés (műsorszórás), informatika és média integrálódását teszi lehetővé.
+
+## A magasabb minőségi követelményeket kielégítő és a frekvencialehetőségek szempontjából is kedvező új technika, a földi digitális rádiózás (T–DAB) 2000–2002. években esedékes létrehozásához szükséges frekvenciasáv-átrendezéshez, illetve a sávot jelenleg használó TV adó kiváltásához és az ezzel összefüggésben felállítandó 2 TV gerincállomás telepítéséhez 1 Mrd Ft összeget kell biztosítani állami forrásból.
+
+## 2.2. Frekvenciagazdálkodás
+
+## A frekvenciagazdálkodásnak biztosítania kell a rádiótávközlő eszközök működtetéséhez szükséges frekvenciaspektrumot mind a távközlési, mind a nem távközlési célú igények kielégítéséhez. Az államnak ezért gondoskodnia kell a hatékony korszerű frekvenciagazdálkodás gazdasági, technikai, jogi, illetőleg személyi feltételeiről, intézményi kereteiről. Meg kell szerveznie a spektrumgazdálkodás kutatás-fejlesztési bázisát, elő kell segítenie a szükséges mérőszolgálati rendszernek és a rádióellenőrzés, megfigyelés és zavarelhárítás komplex rendszerének kialakítását, illetve ki kell építenie ezek információs hátterét, melynek költsége 2 Mrd Ft (1999–2000-ben). A szükséges beruházási forrás a Hírközlési Főfelügyelet bevételeiből 2 év alatt részben biztosítható, ha a HIF működésének finanszírozási feltételei kedvezőtlenül nem változnak.
+
+## Törekedni kell arra, hogy NATO csatlakozási felkészülésünk során a NATO rendszerekhez alkalmazkodó eszköz korszerűsítésnél a frekvenciagazdálkodási szempontok is érvényesüljenek, és új berendezést a DCS 1800 sávjába sem a jelenlegi polgári, sem a katonai felhasználók ne telepíthessenek. Szabaddá kell tenni az EU szabvány szerinti 3. GSM sávot is polgári felhasználásra. Elsődlegesen a megszűnt Hírközlési Alapból átvett feladatok fejezeti kezelésű előirányzatának felhasználásával az 1999–2001 közötti időszakban 3 Mrd Ft összeget kell biztosítani azon új berendezések beszerzésére, melyek a – DCS 1800 rendszer számára szükséges frekvenciasáv 1998 december 31-én esedékes felszabadításával ideiglenesen másik frekvenciasávba áthangolandó – mobil kormányzati eszközök kiváltását szolgálják. Amennyiben a fejezeti kezelésű előirányzat nem tölthető fel, a hiányzó forrásról a költségvetésnek kell gondoskodnia.
+
+## 2.3. Postai szolgáltatások
+
+## A Magyar Posta az elkövetkezendő négy évben folyó áron 45 milliárd Ft fejlesztést tervez. A Posta 32,9 Mrd Ft saját forrással rendelkezik, a többit hitelfelvételből, az Európai Uniótól megszerezhető pénzeszközökből, illetve a költségvetésből kell fedeznie. Ez utóbbi a jelenlegi költségvetési támogatást is figyelembe véve az elkövetkezendő 3 évben évente – változatlan áron – összesen 1-1 Mrd Ft.
+
+## 2.3.1. Integrált szolgáltatási hálózat kialakítása
+
+## Az informatika területén megvalósuló technológiai fejlődés kihat a postai szolgáltatások iránti igények alakulására is. A nemzetközi trendeket követve véghez kell vinni az 1997-ben megkezdett ,,Integrált Postai Hálózat'' (Front Office) program megvalósítását. Ez a projekt a szolgáltatások teljes informatikai támogatottságán alapul, és olyan infrastruktúrát biztosít, amely lehetővé teszi a postai bekapcsolódást az informatikai alapú szolgáltatások területére is.
+
+## 2.3.2. Távvásárlás és a csomagforgalom korszerűsítése
+
+## A teleshopping – az Internet hálózat felhasználásával – a világméretűvé vált fogyasztói piacon való vásárlás és az egymástól eltérő országok kereskedői árajánlatai közötti választás lehetőségét biztosítja. Az informatikai úton rendelt áru postai úton juthat el a megrendelőhöz, tehát távlatilag a csomagforgalom mennyiségi növekedésével kell számolni. Ez a növekedés szükségessé teszi a csomagforgalom informatikán alapuló ,,nyomon követési'' rendszerének mielőbbi kiépítését.
+
+## 2.3.3. Értéknövelt szolgáltatások a posta területén
+
+## Az informatikai hálózat kiépítésével lehetőség nyílik a hagyományos postai szolgáltatások területén is korszerűbb, értéknövelt szolgáltatások bevezetésére. Ezek közül a legfontosabb az elektronikus levél, amely esetében a felvétel és továbbítás elektronikus úton, a kézbesítés fizikai úton történik.
+
+## 2.3.4. Pénzforgalmi és bankszolgáltatások
+
+## Az informatikai rendszer kiépítésével jelentősen gyorsulhat a postai közvetítéssel megvalósuló pénzmozgás, amely elősegíti az ország gazdasága számára oly fontos pénzforgási sebesség növelését. A technikai fejlődés és a pénzügyi kormányzat ez irányú erőfeszítésének eredményeként az országban a készpénzforgalom rohamos mértékben csökkenni fog. A postai szolgáltatót szellemi és hálózati kapacitása, a beindított technikai fejlesztés alkalmassá teszi arra, hogy nagyobb mértékben nyújtson banki szolgáltatásokat, ideértve az értékpapírok forgalmazását és lakossági megtakarítások gyűjtését is. A pénz- és bankforgalomra vonatkozó EU szabályozás postai specifikumai egyelőre nem ismeretesek, de az Unióban szó van olyan ajánlásokról, melyek pótlólagos forrásigényeket eredményezhetnek.
+
+## 3. Liberalizálás, a piaci verseny feltételeinek biztosítása
+
+## A távközlési piac 2002 után bekövetkező teljes liberalizációját megelőzően kormányzati támogatással és szabályozással elő kell segíteni azokat a piacbővítő lépéseket, amelyek előkészíthetik a teljesen liberalizált piac létrejöttét és megfelelő működését. Ezt a célt szolgálja az EU Nyílt Hálózati Hozzáférés (ONP) irányelvének átvétele, amivel összhangban a közcélú távbeszélő szolgáltatás kizárólagossági időszakának lejárta után meg kell szüntetni a hálózatok összekapcsolásának minden korlátozását.
+
+## 3.1. Közcélú távbeszélő, mobil rádiótelefon és személyhívó szolgáltatás
+
+## Az országos koncessziós szerződés kizárólagosságot biztosító időszaka 2002-ben, a helyi koncessziósoké 2003-ban jár le, a 25 évre kötött koncessziós szerződések azonban érvényben maradnak. Felül kell vizsgálni és indokolt esetben a szerződő felek megállapodása alapján meg kell változtatni a koncessziós szerződéseket a versenyegyenlőség biztosítása érdekében. Amennyiben ez nem valósítható meg, a szolgáltatási engedélyezési feltételeket úgy kell alakítani, hogy az új belépők a meglevőkkel egyenlő feltételekkel indulhassanak.
+
+## Meg kell vizsgálni annak lehetőségét, hogy a kizárólagossági időszak lejárta előtt, 2000-ben a nemzetközi távbeszélő forgalom a felek megállapodása alapján a liberalizált körbe kerülhessen.
+
+## A mobil rádiótelefon szolgáltatások vonatkozásában a verseny teljesebbé tételét a 2.1.3. pontban foglaltak szerint kell végrehajtani.
+
+## A személyhívó szolgáltatások terén az alacsony kereslet miatt a várt verseny, a kétszereplős piac nem tartható fenn. A fogyasztók érdekében azonban az államnak ki kell alakítania a szolgáltatás fenntartásának feltételeit.
+
+## 3.2. Műsorszórás
+
+## A távközlés egyéb területeitől eltérően a műsorszórást a 2002-ig terjedő időszakban az állam tartós tulajdonosi jelenléte, valamint a monopol helyzet megőrzésére való állami törekvés fogja jellemezni. A műsorszórás fejlődése, az ahhoz nélkülözhetetlen tőkebevonás lehetőségének biztosítása, valamint Európai Uniós kötelezettségeink teljesítése érdekében az Antenna Hungária monopóliumát legkésőbb 2002-ben meg kell szüntetni, és az átmeneti időszakban a liberalizált piac szabályozásának feltételrendszerét meg kell teremteni.
+
+## 3.3. Postai szolgáltatás
+
+## A postai piac globálisan, de különösen az EU tagországai vonatkozásában fokozatos és ütemezett liberalizálás előtt áll. A postai piacon a magánszolgáltatókkal jelenleg is folyó verseny erősödik és kibővül a nemzeti posták egymás közötti versenyével. A verseny a globális piac újrafelosztásáért illetve a nemzeti piacokon a koncentrált üzleti igények kielégítésének megszerzéséért folyik. Versenyelőnyt a postai szolgáltatások minősége, valamint azok költséghatékony biztosítása jelent. Mindezen tényezők figyelembevételével meg kell vizsgálni és elő kell készíteni a Magyar Posta Rt. privatizációját az ezredforduló környékén, az új hírközlési törvény megalkotását követően és az EU irányelvekkel összhangban kell haladni a fenntartott szolgáltatási kör liberalizációjának kérdésében.
+
+## 4. Jogi, szabályozási és intézményi környezet
+
+## 4.1. Hírközléspolitika
+
+## 3 évenként történő felülvizsgálattal karban kell tartani a Hírközléspolitikát, hogy annak irányelvei alapján történhessen meg a hazai szabályozás, az erőforrások elosztása stb., valamint kialakítható legyen a nemzetközi együttműködésekben képviselt magyar álláspont.
+
+## 4.2. Szabályozás
+
+## Stratégiai fontosságú kérdés olyan szabályozási rendszer kialakítása, mely nemzetközi kötelezettségeinkkel minden tekintetben összhangban áll, és megalapozza az információs társadalom jogszabályrendszerét.
+
+## 4.2.1. Törvényalkotás
+
+## Az ezredfordulóig meg kell alkotni a szabályosan működő és már az információs társadalmat szolgáló piac követelményeinek megfelelő, egységes hírközlési törvényt, amely magában foglalja a távközlés (beleértve a műsorszórást és a műsorjelelosztást), a frekvenciagazdálkodás, valamint a postai szolgáltatások területét, és átfogó szabályozással elősegíti a technológiai konvergencia, illetve – az ennek alapján megvalósuló szélessávú hálózatokra épített – szolgáltatási konvergencia létrejöttét.
+
+## 4.2.2. Ár- és díjszabályozás
+
+## A nemzetközi tendenciákkal és kötelezettségekkel összhangban a hírközlés minden területén meg kell teremteni a költségalapú árrendszer megvalósításának szabályozási feltételeit.
+
+## 4.2.2.1. Távbeszélő szolgáltatások
+
+## Ma csak a koncessziós közcélú távbeszélő és műsorszóró szolgáltatásoknak tekintett koncessziós tevékenységek árai hatóságiak. A valódi versenypiac létrejöttéig az állam árszabályozó szerepét meg kell tartani azoknál a szolgáltatásoknál, amelyeket csak egy vagy két szolgáltatótól lehet igénybe venni. Az elkövetkező 4 éves időszakban tovább kell fejleszteni a díjszabályozást. A változtatást továbbra is az ún. ösztönző díjszabályozás elvei szerint kell végrehajtani, és meg kell jeleníteni a költségek áttekinthetőségének és a szolgáltatók szigorúan számon kért adatszolgáltatásának követelményét.
+
+## A szabályozásnak az előfizetői díjak és az összekapcsolási díjak szabályozásának az Európai Unió direktíváinak megfelelő elveire kell kiterjednie. Ennek keretében olyan árszabályozó mechanizmust kell bevezetni, mely a piac liberalizálása után biztosítja a társszolgáltatók számára, hogy szolgáltatásukhoz a domináns szolgáltató hálózatát igénybe vehessék az általa alkalmazott legkedvezményesebb szint alatt.
+
+## A közcélú távbeszélő szolgáltatások díjai újraegyensúlyozását radikálisan fel kell gyorsítani, folyamatosan végre kell hajtani és legkésőbb 2002-ig be kell fejezni. A díjak újraegyensúlyozásával, a költségalapú díjrendszer kialakításával meg kell szüntetni a keresztfinanszírozás minden formáját. Az ezredfordulóig meg kell teremteni és jogszabályban rögzíteni a valós költségalapú szolgáltatási díjak és a szolgáltatók egymás közötti elszámolását objektív alapokra helyező számviteli rendet.
+
+## 4.2.2.2. Műsorszórás és műsorjelelosztás
+
+## A médiatörvény révén csökkenhet az országos műsorszóró finanszírozási függése a költségvetéstől. Bővül a műsorszórásra és szétosztásra, illetve műsorjelelosztásra alkalmas eszközök választéka (műhold, kábeltelevízió). A korábbi műsorszóró és szétosztó eszközök a versenykörbe tartozó távközlési szolgáltatások nyújtására is alkalmazhatók. Ezért szükséges és kialakítandó az országos, regionális és helyi műsorszórás, valamint az országos és regionális műsorjelelosztás díjainak és a díjakhoz tartozó minőségi paramétereknek újraszabályozása és a szabályozás 3 évenkénti felülvizsgálata.
+
+## A távközlési és műsorjelelosztó szolgáltatások közötti káros keresztfinanszírozások kialakulásának megakadályozása érdekében minden integrált szolgáltató esetében a bevételek, a folyó termelési költségek és a beruházási ráfordítások teljes számviteli szeparációját kell végrehajtani.
+
+## 4.2.2.3. Frekvencia díjszabályozás
+
+## A szolgáltatásokhoz igénybe vett frekvenciáért – a szolgáltatás jellegéhez igazodóan – frekvencialekötési és használati díjat kell fizetni. Az állam által megállapított díj mértékének igazodnia kell a frekvenciagazdálkodás költségeihez és az elfoglalt spektrumtér nagyságához, kiemelten kell ösztönöznie azoknak a technológiáknak az alkalmazását, amelyek biztosítják a frekvenciasáv maximális és gazdaságos használatát, továbbá elő kell segítenie, hogy a szolgáltatók és más frekvenciahasználók magasabb műszaki színvonalú, többféle szolgáltatást nyújtó rendszereket alkalmazzanak.
+
+## 4.2.2.4. Postai díjak
+
+## Annak érdekében, hogy a postai szolgáltató szolgáltatási skáláját korszerűsíteni tudja, szükséges az árformabesorolás és a tevékenységi jegyzékbesorolás felülvizsgálata. A posta területén az állami árszabályozás intézményét a fenntartott szolgáltatások vonatkozásában kell csak működtetni, figyelembe véve azt is, hogy ez a monopolizált szolgáltatási kör jelentősen szűkül. Uniós csatlakozásunkkal egyidejűleg meg kell teremteni a fenntartott, az egyetemes és a versenyszférába tartozó szolgáltatások árbevételeinek és költségeinek elkülönített számviteli nyilvántartását.
+
+## Várhatóan 2003 után az EU a postai szolgáltatások esetében bevezeti a pozitív kulcsú ÁFA-t, melynek hazai bevezetése a versenyhelyzet fenntartása érdekében egyébként is indokolt.
+
+## 4.2.3. Szolgáltatás engedélyezés
+
+## A jelenlegi szabályozást úgy kell karbantartani, hogy az nyomon kövesse az európai uniós fejlődést.
+
+## 4.2.3.1. Globális hálózati szolgáltatók
+
+## A globális értéknövelt szolgáltatások tekintetében formailag sem létezhetnek egyes belföldi szolgáltatóknak kizárólagos jogai. Ezeket a szolgáltatásokat a magyar szabályok szerinti távközlési szolgáltatási engedéllyel, illetve az értékesítési és ügynöki tevékenységre magyarországi joghatállyal rendelkező cégek számára kell engedélyezni.
+
+## 4.2.4. Szűkös erőforrások használatának szabályozása
+
+## 4.2.4.1. Frekvenciák
+
+## A még be nem vezetett köz-, külön- és zártcélú rádiótávközlő rendszerek – pl. polgári célú TETRA, PAMR, kormányzati készenléti rádiótávközlő rendszer, DCS 1800, UMTS, S–PCS (műholdas), szórt spektrumú szolgáltatás – frekvenciasávjaira vonatkozó terveket az európai uniós tendenciákat figyelembe véve kell karbantartani és a Frekvenciasávok Nemzeti Felosztási Táblázatában rendszeresen nyilvánosságra hozni.
+
+## A polgári távközlést elősegítő kormányzati spektrum felülvizsgálatot (átrendezést) az állam védelmi és nemzetbiztonsági feladatainak és az ország euro-atlanti csatlakozásának megfelelő ütemben szükséges tervezni. Végrehajtását az elérhető anyagi erőforrások koncentrálásával kell és lehet biztosítani. Elsősorban a polgári célú távközlési igények szempontjából értékes frekvenciaspektrumok átrendezését kell az államnak megfelelő jogszabályi és anyagi háttér megteremtésével megoldania.
+
+## A Frekvenciasávok Nemzeti Felosztási Táblázata szerinti frekvenciasávok átrendezésének forrásigénye az 1998–2003 közötti időszakban – a 2.1.5. pontban megjelölt összeget is beleértve – 4,13 Mrd Ft.
+
+## 4.2.4.2. Számgazdálkodás
+
+## A számozási terv kialakításánál tekintettel kell lenni a nemzetközi, ezen belül az európai egységesítési törekvésekre és a szolgáltatók igényeinek egységes kielégítésére. Szükséges a jelenleg még műszaki tervként kezelt, a számgazdálkodás teljes feltételrendszerének jogi újraszabályozása, kiemelten kezelve a számok hordozhatóságának biztosítását.
+
+## 4.2.5. Az új, digitális technikák megjelenésének szabályozása
+
+## 4.2.5.1. Az informatika és távközlés biztonsági kérdései
+
+## Az informatikai és adatátviteli rendszerek létesítésére és üzemeltetésére vonatkozó biztonsági előírásokra EU és OECD ajánlások születtek, melyeket be kell emelni a magyar szabályozásba és intézményrendszerbe.
+
+## Az euro-atlanti csatlakozás érdekében – igazodva a nemzetközi adatvédelem stratégiájához – ki kell alakítani a hazai (nemzeti) kriptográfiai követelményeket.
+
+## Ki kell fejleszteni és alkalmazni azokat a számítástechnikai módszereket, amelyekkel megakadályozható a büntetőjogilag tiltott, a fiatalkorúakra veszélyes adatok, információk forgalma, és amelyek segítik a bűnüldözést, illetve bizonyos esetekben a bűnmegelőzést.
+
+## A hírközlés fejlesztése során eleget kell tenni a nemzetbiztonsági, valamint bűnüldözési célú ellenőrizhetőség követelményének az ellenőrzési lehetőségek egyenrangú és harmonikus fejlesztésének megvalósításával. Ennek keretében szükséges megteremteni az ellenőrzés feltételrendszerét (finanszírozás, hardware és software, illetve személyi feltételek, hatósági lehetőségek). A finanszírozás berendezésen (hálózaton) belüli feltételeit a szolgáltatónak, az egyéb feltételeket az államnak kell megteremtenie.
+
+## 4.2.5.2. Digitális információtovábbítás szabályozásának finomítása, hazai környezetbe illesztése
+
+## A szabályozást ki kell egészíteni a digitális jelek műsorszórásának, a távolsági telefonbeszélgetések Interneten keresztül történő lefolytatásának és a digitális jelek kábel-televízió hálózaton történő továbbításának kérdéseivel.
+
+## 4.3. Szabványok
+
+## Az állami szabályozás szabványosítási előírásait harmonizálni kell az ETSI (Európai Távközlési Szabványosítási Szervezet) ajánlásaival, illetve a szabályozásnak törekednie kell – összhangban az EU szabályozási elveivel – a jogszabállyal kötelezővé tett nemzeti szabványok számának csökkentésére és távlati megszüntetésére. A harmonizálás államiforrás igénye 50 M Ft évente.
+
+## 4.3.1. A környezetvédelmi szempontokat figyelembe véve meg kell oldani az elektromágneses hullámok egészségre káros határértékeinek rögzítését és az elektromágneses kompatibilitás feltételeit tartalmazó szabványok kötelezővé tételét a vonatkozó EU normák átvételével.
+
+## 4.3.2. Digitális és kábeltelevízió
+
+## Ki kell dolgozni a digitális tv műsorszórás szabványát, és kötelező jelleggel szabványosítani kell a műsorjelelosztó hálózatok műszaki követelményeit.
+
+## 4.4. Statisztika
+
+## A statisztikai törvény alapján készülő országos adatgyűjtési programot ki kell terjeszteni mindazon hatósági statisztikára, országos alapnyilvántartásra és a kormányzati irányítással összefüggő adatgyűjtésre, amely lehetővé teszi a hírközlési, az informatikai és a médiaszektorok fejlődésére vonatkozó gazdasági elemzések végzését.
+
+## 4.5. Intézményi háttér
+
+## A hírközlésért felelős szakminisztérium (KHVM) és a hírközlési hatóság (HIF) közötti munka- és hatáskör megosztást rendszeresen újra kell szabályozni a hírközlés szabályozásának változó követelményrendszere, a nemzetközi tendenciák alakulása és ebből adódó nemzetközi kötelezettségvállalásaink (EU és OECD ajánlások) függvényében.
+
+## A Hírközlési Főfelügyelet keretein belül biztosítani kell a távközlés és informatika biztonsági előírásainak folyamatos karbantartásáért, betartatásáért és ellenőrzéséért felelős hatósági jogkörű szervezet működési feltételeit. A megfelelőségvizsgáló és ellenőrző laboratóriumok vállalkozássá való átszervezésével teljessé kell tenni a hatósági és vállakozási funkciók szétválasztását.
+
+## 5. Részvétel a globális folyamatokban, multilaterális nemzetközi együttműködés
+
+## 5.1. Az EU csatlakozás hírközlési és informatikai feladatai
+
+## Az 1997-ben megkezdett munka folytatásaként végrehajtandó az európai uniós csatlakozás távközlési, postai és informatikai feltételeinek, direktíváinak áttekintése, e területek kívánatos mutatóinak kidolgozása, az EU kormányzati hálózatára (IDA), illetve egyéb hálózatokra (pl. kutató hálózatra) való rácsatlakozás, az európai pénzforgalmi elszámoló rendszerhez (TARGET) való csatlakozás, a munkaerő szabad áramlásával kapcsolatos EURES programhoz való csatlakozás, a kiemelt fontosságú informatikai projektek megvalósításában való részvétel (pl. elektronikus kereskedelem feltételeinek megteremtése.
+
+## Végrehajtandó továbbá az információ- és távközlés-technológiai (ICT) vonatkozású közös EU kutatási programok monitorozása, illetve a programszintű részvétel lehetőségének megteremtése. Az V. Kutatási és Technológia Fejlesztési Keretprogram kidolgozását figyelemmel kell kísérni, és a bekapcsolódást a hazai K+F politika megfelelő alakításával kell elősegíteni.
+
+## 5.2. Az EU Információs Társadalom Fórumával kapcsolatos feladatok.
+
+## Az EU Információs Társadalom Fórumának működéséből adódó feladatok sorában véglegesíteni kell az ország informatikai stratégiájának szövegét, ki kell dolgozni a stratégiák megvalósítását követő generikus és sajátos statisztikai mutatók és azok nyomon követésének rendszerét. PHARE támogatást kell kérni az információs társadalom érdekében megfogalmazott stratégiák hazai stratégiákba történő integrálásához.
+
+## 5.3. A világ informatikai stratégiáinak hasznosítása
+
+## Össze kell gyűjteni, figyelemmel kísérni és elemezni a Globális Információs Társadalom kidolgozásában aktívan részt vevő államok stratégiáit. Az analízis eredményeit hasznosítani kell a nemzetközi gazdasági kooperációban, illetve a hazai prioritások megvalósításában. Ebben a munkában támaszkodni kell az OMFB szakmai irányításával működő magyar TéT (tudományos és technológiai) attasék hálózatára, valamint a kormányközi TéT egyezményekre.
+
+## 5.4. Az OECD együttműködés hírközlési és informatikai vetülete
+
+## A Hírközlési Stratégia alkalmazásánál figyelembe kell venni az OECD-nek a magyar hírközlésről 1996-ban készített országtanulmányában foglalt ajánlásokat.
+
+## Részt kell venni az OECD Informatikai, Kommunikációs és a Számítástechnikai Bizottságának (ICCP) és munkacsoportjainak munkájában és egyes, a hazai információs társadalom építése szempontjából kiemelt prioritású OECD projektek (dokumentumok, felmérések stb.) kidolgozásában, illetve megvalósításában.
+
+## Melléklet
+
+## A hírközlés fejlesztésének forrásigénye
+
+## -------------------------
+
+## Felhasználás célja | Esedékesség (év) | Összeg (Mrd Ft)* | Forrás
+
+## -------------------------
+
+## A 418–420 és 428–430 MHz sávrészben működő rádióberendezések kivonása a polgári TETRA bevezetése céljából | 1998 | 0,03 | A TETRA rendszerre meghirdetett árverés nyertese
+
+## Polgári rádiórelék kivonása a DCS 1800 sávjából | 1998 | 0,1 | A DCS 1800 rendszerre kiírt pályázat nyertesei
+
+## -------------------------
+
+## 1998. évben összesen: | | 0,13
+
+## -------------------------
+
+## A DCS 1800 sáv felszabadításával egy időben ideiglenesen más frekvenciasávba hangolt mobil eszközök cseréje | 1999 | 1,0 | A DCS 1800 koncessziós díjbevételei a fejezeti kezelésű előirányzaton keresztül
+
+## EU Szabványosítás harmonizálása | 1999 | 0,05 | Költségvetés
+
+## Intelligens város, intelligens régió programok | 1999 | 1,0 | Költségvetés és EU strukturális alapjai (50-50%)
+
+## Posta szállítóeszköz parkjának, feldolgozó kapacitásának és kézbesítő rendszerének fejlesztése | 1999 | 1,0 | Költségvetés
+
+## Spektrumgazdálkodás K+F bázisa, mérőszolgálati rendszer és információs hátterének kiépítése | 1999 | 1,0 | Költségvetés és Hírközlési Főfelügyelet bevételei (50-50%)
+
+## -------------------------
+
+## 1999. évben összesen: | | 4,05 |
+
+## -------------------------
+
+## A DCS 1800 sáv felszabadításával egy időben ideiglenesen más frekvenciasávba hangolt mobil eszközök cseréje | 2000 | 1,0 | A DCS 1800 koncessziós díjbevételei a fejezeti kezelésű előirányzaton keresztül
+
+## Posta szállítóeszköz parkjának, feldolgozó kapacitásának és kézbesítő rendszerének fejlesztése | 2000 | 2,0 | Költségvetés és EU strukturális alapjai (50-50%)
+
+## EU Szabványosítás harmonizálása | 2000 | 0,05 | Költségvetés
+
+## Intelligens város, intelligens régió programok | 2000 | 1,0 | Költségvetés és EU strukturális alapjai (50-50%)
+
+## Spektrumgazdálkodás K+F bázisa, mérőszolgálati rendszer és információs hátterének kiépítése | 2000 | 1,0 | Költségvetés és Hírközlési Főfelügyelet bevételei (50-50%)
+
+## -------------------------
+
+## 2000. évben összesen: | | 5,05 |
+
+## -------------------------
+
+## A DCS 1800 sáv felszabadításával egy időben ideiglenesen más frekvenciasávba hangolt mobil eszközök cseréje | 2001 | 1,0 | A DCS 1800 koncessziós díjbevételei a fejezeti kezelésű előirányzaton keresztül
+
+## Intelligens város, intelligens régió programok | 2001 | 1,0 | Költségvetés és EU strukturális alapjai (50-50%)
+
+## Posta szállítóeszköz parkjának, feldolgozó kapacitásának és kézbesítő rendszerének fejlesztése | 2001 | 2,0 | Költségvetés és EU strukturális és kohéziós alapjai (50-50%)
+
+## EU Szabványosítás harmonizálása | 2001 | 0,05 | Költségvetés
+
+## Műsorsugárzás megszüntetés a TV 2. csatornán a digitális hang műsorszórás (T–DAB) bevezetése érdekében | 2001 | 0,5 | A megszűnt Hírközlési Alapból átvett fejezeti kezelésű előirányzat
+
+## -------------------------
+
+## 2001. évben összesen: | | 4,55 |
+
+## -------------------------
+
+## Posta szállítóeszköz parkjának, feldolgozó kapacitásának és kézbesítő rendszerének fejlesztése | 2002 | 2,0 | Költségvetés és EU strukturális alapjai (50-50%)
+
+## Műsorsugárzás megszüntetése a TV 12.[^4] csatornán a digitális hang műsorszórás (T–DAB) bevezetése érdekében | 2002 | 0,5 | A megszűnt Hírközlési Alapból átvett fejezeti kezelésű előirányzat
+
+## EU Szabványosítás harmonizálása | 2002 | 0,05 | Költségvetés
+
+## Intelligens város, intelligens régió programok | 2002 | 1,0 | Költségvetés és EU strukturális alapjai (50-50%)
+
+## -------------------------
+
+## 2002. évben összesen: | | 3,55 |
+
+## -------------------------
+
+## EU Szabványosítás harmonizálása | 2003 | 0,05 | Költségvetés
+
+## -------------------------
+
+## 2003. évben összesen: | | 0,05 |
+
+## -------------------------
+
+## 1998–2003. évben összesen: | | 17,38 |
+
+## -------------------------
+
+## Ebből állami forrásigény:** | | 7,25 |
+
+## _______
+
+## * 1998. évi árakon.
+
+## ** A fejezeti kezelésű előirányzat, a koncessziós bevételek és az EU alapokból származó támogatások levonása után fennmaradó igény.
+
+2. számú melléklet az 1071/1998. (V. 22.) Korm. határozathoz
+
+A Kormány Cselekvési Programja
+
+I. A piaci struktúra fejlesztése
+
+Gazdasági érdekeinknek, az OECD ajánlásának és az Európai Unió elvárásainak megfelelően a hírközlési ágazatban egyik fő feladat a versenypiac kialakulásának elősegítése. Ezzel párhuzamosan meg kell tenni mindazokat a kormányzati lépéseket, melyek a piaci mechanizmusok felhasználásával
+
+– a távközlési és postai szolgáltatások, illetve infrastruktúra dinamikus fejlődését,
+
+– a távközlés és az informatika, illetve a távközlés és média integrációját és ezáltal
+
+– az információs társadalom létrejöttét
+
+szolgálják.
+
+1. Piaci elemzés alapján meg kell határozni a mobil rádiótelefon piac jövőbeni szerkezetét és a különböző közcélú rádiótelefon szolgáltatások bevezetésének feltételeit.
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter; Hírközlési Főfelügyelet elnöke
+
+Határidő: a jelenlegi struktúrára vonatkozóan: 1998. június 30., az UMTS-re vonatkozóan: 2000. december 31.
+
+2. Az Európai Unió 5. Kutatási és Technológiafejlesztési Keretprogramjához való magyar csatlakozás előkészítésével szinkronban ki kell dolgozni azon kormányintézkedéseket, amelyekkel – a Keretprogram élvonalbeli lehetőségeit, finanszírozási hátterét alapul véve – elindíthatók a hírközlés területén is a hazai műszaki fejlesztési és technológiaváltási programok. Különös fontossággal bírnak a Keretprogram felhasználóbarát információs társadalmat célzó tematikus programjával szinkron, a magyarországi szereplők számára az eredményes részvétel alapját is megteremtő hazai programok. Hasonló mélységű prioritás átgondolást igényel a szakterületen az alapkutatások célterületeinek definiálása, a kiválósági központok hálózatához csatlakozásunk kérdésköre, valamint a kis- és középvállalatok bevonását és humán erőforrások fejlesztését célzó horizontális programok részterületeinek EU-konform modernizációja is.
+
+Kiemelkedő jelentőségű a kutatói, felsőoktatási, közgyűjteményi és közigazgatási szférák modern adatkommunikációs hálózatának az EU 5. KTF keretprogramjában megcélzott – világméretben versenyképes, a kutatói és a kutatási hálózatok összehangolt, a piaci szereplőkkel folyamatosan egyeztetett, az egységes belső piachoz igazodó, illetve azt közelítő – szabályozása és működtetése.
+
+Ezekhez a stratégiai feladatokhoz ki kell alakítani az állami szerepvállalás formáit és a hazai szabályozási menetrendeket. Gazdasági-versenyképességi szempontból is kulcsfontosságú a nagyszámú, eredményes projektbeli magyar részvétel lehetőségének megteremtése, az ösztönzők és érdekérvényesítési megoldások kidolgozása a Keretprogramhoz csatlakozásunk – optimálisan 1999. legeleje, az első pályázati felhívások megjelenése – előtt. Ki kell alakítani az új K+F lehetőségek és strukturális, kohéziós alapok összehangolt, eredményes felhasználásának feltételrendszerét.
+
+Felelős: Országos Műszaki Fejlesztési Bizottság ügyvezető elnöke; közlekedési, hírközlési és vízügyi miniszter; környezetvédelmi és területfejlesztési miniszter; pénzügyminiszter; Miniszterelnöki Hivatal közigazgatási államtitkára az érintett tárcák, és a Magyar Tudományos Akadémia elnökének bevonásával
+
+Határidő: 1998. december 31.
+
+3.[^5] El kell végezni annak vizsgálatát, hogy megvannak-e a feltételei a közcélú távbeszélő szolgáltatási koncessziók kizárólagos időszaka lerövidítésének. Ennek keretében javaslatot kell tenni a vizsgálat módszerére és tartalmára, valamint a koncessziós társaságokkal folytatandó állami tárgyalási elvekre, azok fő tartalmi pontjait kidolgozni, felvázolva a követendő eljárás lényegi mozzanatait. A javaslatnak tartalmaznia kell az egyetemes szolgáltatási kötelezettség körét, finanszírozási rendszerét.
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter; Hírközlési Főfelügyelet elnöke
+
+Határidő: 2001. június 30.
+
+4. Meg kell tenni a digitális televízió műsorszolgáltatás bevezetéséhez, valamint a földi digitális rádió műsorszolgáltatás elterjesztéséhez szükséges intézkedéseket. Ezek keretében:
+
+a) a digitális televízió műsorszórás céljára fenntartott 67-es televíziócsatorna kijelölhetősége érdekében a csatornán üzemelő kormányzati eszközöket más frekvenciasávba kell áthelyezni;
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter; honvédelmi miniszter
+
+Határidő:[^6] 2004. december 31.
+
+b) a digitális televízió műsorszórás céljára tervezett további európai harmonizált frekvenciasávokban a kormányzati légi rádiónavigációs eszközök működését meg kell szüntetni;
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter; honvédelmi miniszter
+
+Határidő: 2008. december 31.
+
+c) a digitális földfelszíni hang-műsorszórás részére fenntartott frekvenciasávokban üzemelő 12-es csatornájú televízió adóállomások működését meg kell szüntetni;
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter
+
+Határidő:[^7] 2007. december 31.
+
+5. Ki kell alakítani a postai piacra vonatkozó liberalizációs politikát, amely az EU irányelveivel összhangban tartalmazza az egyetemes szolgáltatás nyújtásának kötelezettségét is.
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter; Hírközlési Főfelügyelet elnöke
+
+Határidő: 1999. június 30.
+
+6. A műsorszórási piac fejlődésének biztosítására irányuló kormányzati törekvéssel összhangban – az érdekeltek bevonásával – meg kell vizsgálni, hogy milyen stratégiával és szabályozási keretek között biztosítható a digitalizálódó rádió- és televízióműsorszórásnak az információs társadalom követelményeit kielégítő fejlődése. A Kormány felkéri az Országos Rádió és Televízió Testületet a vizsgálatban való részvételre.
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter; ipari, kereskedelmi és idegenforgalmi miniszter; Nemzeti Hírközlési és Informatikai Tanács
+
+Határidő: 1999. szeptember 30.
+
+7.[^8] Hatástanulmányt kell készíttetni a Magyar Posta Rt. privatizációjának lehetőségéről és megoldási módozatairól. A tanulmány megállapításainak figyelembevételével döntést kell hozni a privatizációról.
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter; pénzügyminiszter
+
+Határidő: 2001. június 30.
+
+8. Európai uniós kötelezettségünkkel összhangban, a megfelelő szabályozás kialakításával és érvényesítésével biztosítani kell a távbeszélő hívószámok földrajzi, szolgáltatók közötti és szolgáltatásfajták közötti hordozhatóságát.
+
+Felelős:[^9] informatikai és hírközlési miniszter, Hírközlési Felügyelet elnöke
+
+Határidő: 2004. március 31.
+
+II. A szabályozás továbbfejlesztése
+
+Az ezredforduló után Magyarországon is létrejön a teljesen liberalizált távközlési piac. Megkezdődik a postai szektor piacorientált átalakulása, és folytatódik a távközlési, informatikai és médiaterületek konvergenciája. Ezek a változások új helyzetet teremtenek a hírközlési szabályozás területén. A szabályozásnak meg kell előznie a változásokat és elő kell segítenie az információs társadalom kialakulását. Ennek érdekében a kormánynak felül kell vizsgálnia a teljes szabályozási rendszert, és a jogszabály-előkészítő és jogszabályalkotó munka keretében a következő feladatokat kell végrehajtania:
+
+1. A Hírközléspolitikában elfogadott elveknek megfelelően, valamint az Európai Unió jogi normáinak figyelembevételével felül kell vizsgálni a hírközlést szabályozó ágazati törvényeket, és ki kell dolgozni egy új, egységes hírközlési törvény megalkotásának irányelveit. A kialakított irányelveket az Országgyűlésnek elfogadás céljából be kell mutatni.
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter
+
+Határidő: a kormány-előterjesztés benyújtására: 1999. március 31.
+
+2. Az elfogadott irányelvek alapján
+
+a)[^10] meg kell határozni az egyetemes szolgáltatások terjedelmét, finanszírozási rendszerét és nyújtásának feltételeit, tovább kell fejleszteni a tulajdonosi, szabályozási és hatósági feladatok elhatárolásával a hírközlés új követelményeknek és az Európai Unió elvárásainak megfelelő intézményi rendszerét, valamint ki kell dolgozni és az Országgyűlés elé kell terjeszteni az új, egységes hírközlési törvényt;
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter
+
+Határidő: a kormány-előterjesztés benyújtására: 2001. június 30.
+
+b)[^11] ki kell dolgozni a díjak, az engedélyezés, az adatvédelem és a minőségbiztosítás Európa konform szabályozását.
+
+Felelős: közlekedési, hírközlési és vízügyi miniszter
+
+Határidő: 2001. június 30.
+
+[^3]: A Magyar Közlöny az 1998. évi 58. számában közzétett helyesbítésnek megfelelő szöveg.
+[^4]: A Magyar Közlöny az 1998. évi 58. számában közzétett helyesbítésnek megfelelő szöveg.
+[^5]: Lásd a 2037/2001. (II. 23.) Korm. határozat 1. pontjának a) alpontját.
+[^6]: A 2. számú melléklet I/4. a) pontjára vonatkozó határidő az 1190/2002. (XI. 7.) Korm. határozat 1. a) pontjának nyolcadik francia bekezdésével megállapított szöveg.
+[^7]: A 2. számú melléklet I/4. c) pontjára vonatkozó határidő az 1190/2002. (XI. 7.) Korm. határozat 1. a) pontjának nyolcadik francia bekezdésével megállapított szöveg.
+[^8]: Lásd a 2037/2001. (II. 23.) Korm. határozat 1. pontjának a) alpontját.
+[^9]: A 2. számú melléklet I/8. pontjára vonatkozó felelős az 1190/2002. (XI. 7.) Korm. határozat 1. b) pontjának harmadik francia bekezdésével megállapított szöveg.
+[^10]: Lásd a 2037/2001. (II. 23.) Korm. határozat 1. pontjának a) alpontját.
+[^11]: Lásd a 2037/2001. (II. 23.) Korm. határozat 1. pontjának a) alpontját.
