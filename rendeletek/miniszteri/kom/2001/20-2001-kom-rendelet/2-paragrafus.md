@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom és a 19/1992. (XI. 6.) KTM rendelettel létesített Pannonhalmi Tájvédelmi Körzet területéhez csatolom a Győrújbarát 0208/1, 0208/2 ingatlan-nyilvántartási helyrajzi számú, összesen 3,1 hektár kiterjedésű területet.
