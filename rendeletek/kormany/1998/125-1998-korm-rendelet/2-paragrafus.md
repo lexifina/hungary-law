@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Dél-afrikai Köztársaság Kormánya között Pretoriában, 1997. november 24-én aláírt tudományos és technológiai együttműködési Megállapodást e kormányrendelettel kihirdeti.
