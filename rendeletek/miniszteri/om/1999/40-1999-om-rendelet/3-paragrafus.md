@@ -1,0 +1,1 @@
+## Személyi és tárgyi hatály
