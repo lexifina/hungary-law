@@ -1,0 +1,3 @@
+42. § A Tbj. 50. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+,,(1) A foglalkoztató a biztosítottnak juttatott, a járulék alapját képező tárgyhavi kifizetések után köteles a járulékok alapját és összegét megállapítani, a biztosítottat terhelő járulékot levonni és arról a (2) bekezdésben foglaltak szerint a bevallást benyújtani, és a tárgyhót követő hó 10. napjáig az igazgatási szervnek megfizetni. A kifizetéssel egyidejűleg a foglalkoztató a biztosítottat írásban tájékoztatja az utána fizetett társadalombiztosítási járulékról, baleseti járulékról és az egészségügyi hozzájárulásról, valamint a tőle levont nyugdíj- és egészségbiztosítási járulékról, valamint tagdíj összegéről.''

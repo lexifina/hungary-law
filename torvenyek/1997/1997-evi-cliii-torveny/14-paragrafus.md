@@ -1,0 +1,5 @@
+14. § (1) A 6. számú melléklet kiadások 2. cím működésre fordított kiadások, 2. alcím behajtás ösztönzése, valamint az 5. alcím APEH–OEP együttműködéssel történő behajtás ösztönzése előirányzat a tényleges bevételek mértéke, a 3. számú melléklet kiadások 2. cím, 2 alcím ellenőrzési tevékenység ösztönzése előirányzat a járulékellenőrzés során ténylegesen feltárt, illetve kirótt járulék arányában túlléphető.
+
+(2) Ha a 3. számú melléklet kiadások 2. cím, 2. alcím ellenőrzési tevékenység ösztönzése, 3. alcím felhalmozási és fejlesztési kiadások előirányzatának, valamint a 6. számú melléklet kiadások 2. cím, 2., 3., 4., alcím behajtás ösztönzése, ellenőrzési rendszerek fejlesztése és a felhalmozási és fejlesztési kiadások előirányzatok tényleges kiadása kevesebb mint az előirányzat, azt a tárgyévben nem lehet felhasználni.
+
+(3) A 3. számú melléklet bevételek 2. cím, 3. alcím és a 6. számú melléklet bevételek 2. cím, 3. alcím a társadalombiztosítás informatikai programjának támogatása előirányzatait a felhasználás igényeihez igazodóan a Kormány az Alapok között átcsoportosíthatja az érintett kiadási előirányzatok azonos összegű és egyidejű módosítása mellett.

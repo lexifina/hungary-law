@@ -1,0 +1,1 @@
+8. § Az E. Alap, valamint a társadalombiztosításon kívüli forrásból finanszírozott, az egészségbiztosítás közreműködésével folyósított ellátások összesített mérlegét e törvény 9. számú melléklete tartalmazza.

@@ -1,0 +1,1 @@
+4. § Az Ny. Alap és a társadalombiztosításon kívüli forrásból finanszírozott, a nyugdíjbiztosítás közreműködésével folyósított ellátások összesített mérlegét e törvény 5. számú melléklete tartalmazza.
