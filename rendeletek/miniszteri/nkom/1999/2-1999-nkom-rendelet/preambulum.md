@@ -1,0 +1,1 @@
+A közalkalmazottak jogállásáról szóló – többször módosított – 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 69. §-ában, valamint 75. §-ának (1) bekezdésében kapott felhatalmazás alapján az alábbiakat rendelem el:
