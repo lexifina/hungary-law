@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Kőlyuktető Természetvédelmi Terület elnevezéssel az Andornaktálya 0208/2, 0210/1–2, valamint az Eger 0714/1–2, 0717/2 a–b, 0718/1–2, 0720/2, 0721/3 ingatlan-nyilvántartási helyrajzi számú, összesen 117,5 hektár kiterjedésű területet.

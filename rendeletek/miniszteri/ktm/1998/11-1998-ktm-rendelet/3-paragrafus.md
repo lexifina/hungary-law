@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a jelentős tájképi értékekkel rendelkező szőlőültetvény fenntartása, biztosítva ezzel a térségi borvidékekre jellemző fajták, valamint a szőlő fajtagyűjtemény génbanki funkciójának megőrzését is.
