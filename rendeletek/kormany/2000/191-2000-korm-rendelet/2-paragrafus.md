@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság és a Lett Köztársaság között létrejött Szabadkereskedelmi Megállapodás (a továbbiakban: Megállapodás) kihirdetéséről szóló 2000. évi XXVIII. törvény 3. §-ában kapott felhatalmazás alapján a Szabadkereskedelmi Megállapodás 3. számú, a származási szabályokról szóló Jegyzőkönyve módosításáról rendelkező megállapodást e rendelettel kihirdeti.
