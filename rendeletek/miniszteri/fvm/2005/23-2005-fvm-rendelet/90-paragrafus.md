@@ -1,0 +1,1 @@
+## 89. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, egyidejűleg az állategészségügyről szóló 1995. évi XCI. törvény végrehajtására kiadott a ragadós száj- és körömfájás elleni védekezésről szóló 71/2002. (VIII. 15.) FVM rendelet hatályát veszti.
