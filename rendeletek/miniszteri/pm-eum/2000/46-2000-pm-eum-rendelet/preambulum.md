@@ -1,0 +1,1 @@
+A kötelező egészségbiztosításról szóló 1997. évi LXXXIII. törvény végrehajtásáról rendelkező 217/1997. (XII. 1.) Korm. rendelet 7. §-ának (2) bekezdésében foglalt felhatalmazásra tekintettel az alábbiakat rendeljük el:
