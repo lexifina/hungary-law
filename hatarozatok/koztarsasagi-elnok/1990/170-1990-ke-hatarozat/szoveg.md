@@ -1,0 +1,1 @@
+A Magyar Köztársaság Elnöke Katonai Irodájának vezetőjévé és főhadsegéddé dr. Pick Róbert alezredest, szárnysegéddé Zólomy László vezérőrnagyot, Horváth János ezredest, Réti János ezredest, Válóczy István ezredest kinevezem – 1990. augusztus 3-ai hatállyal.
