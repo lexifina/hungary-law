@@ -1,0 +1,1 @@
+2. § Az Országgyűlés kinyilvánítja, hogy Nagy Imre személyisége, államférfiúi magatartása, erkölcsi helytállása elválaszthatatlan az 1956-os forradalomtól és szabadságharctól, a demokrácia és a nemzeti függetlenség eszméjétől.
