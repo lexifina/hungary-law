@@ -1,0 +1,1 @@
+A művelődési és közoktatási miniszter előterjesztésére dr. Fodor Lajos egyetemi tanárt a Budapesti Műszaki Egyetem rektorát – munkája elismerése mellett, kérésére – 1990. december 9-ével tisztsége alól felmentem.
