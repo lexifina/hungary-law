@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között Ljubljanában, 1994. március 21-én aláírt, a növényvédelmi együttműködésről szóló Egyezményt e rendelettel kihirdeti.
