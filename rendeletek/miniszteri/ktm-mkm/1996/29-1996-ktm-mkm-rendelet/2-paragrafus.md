@@ -1,0 +1,3 @@
+2. § (1) Városképi jelentőségűvé nyilvánítjuk a Bács-Kiskun megye Kecskemét, Izsáki út 4. szám alatt lévő, 9458. számú tulajdoni lapon, 10004 hrsz. alatt nyilvántartott, volt Erzsébet laktanya épületei közül a bejárat melletti volt legénységi épületet, a lovardát és az utcai kerítést. A műemléki védelem a megjelölt építményekre és területre terjed ki. Az ingatlan fel nem sorolt épületei helyén és a további terület tekintetében a védettség az új épületek elhelyezésének, kubatúrájának és homlokzati megjelenésének műemléki szempontú meghatározását jelenti.
+
+(2) A védelem célja a felsorolt építmények technikatörténeti, várostörténeti és városszerkezeti értékének megóvása.
