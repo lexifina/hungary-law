@@ -1,0 +1,1 @@
+## 1. § A Játékszín (székhelye: 1065 Budapest, Teréz krt. 48.) és a Budapesti Kamaraszínház (székhelye: 1089 Budapest, Kálvária tér 6.) központi költségvetési szervek 1999. március 31-i hatállyal megszűnnek.
