@@ -1,0 +1,1 @@
+A művelődési és közoktatási miniszter előterjesztésére dr. Dancs Istvánt a Budapesti Közgazdaságtudományi Egyetem Közgazdaságtudományi Kar Matematika és Számítástudományi Intézetébe 1990. október 1-jével egyetemi tanárrá kinevezem.
