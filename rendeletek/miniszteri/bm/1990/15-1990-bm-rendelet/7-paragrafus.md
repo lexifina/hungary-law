@@ -1,0 +1,5 @@
+7. § (1) A rendezvény megtiltásáról szóló határozat egy példányát a közrendvédelmi szerv eljuttatja, illetve átadja a közrend és közbiztonság fenntartásában közreműködő rendőri ágak vezetőinek is. A fővárosban a közrendvédelmi szerv vezetője a rendezvény megtiltásáról szóban a rendezvénnyel érintett kerületi rendőrkapitányságok vezetőjét is értesíti. A vezetőket azokról a bejelentésekről is tájékoztatja, amelyek nem felelnek meg a rendezvény előzetes bejelentésére, szervezésére vonatkozó törvényi feltételeknek.
+
+(2) A rendőrkapitányság vezetői a rendezvény tudomásul vételét vagy megtiltását, illetve a törvény rendelkezéseibe ütköző rendezvény bejelentését a rendőr-főkapitányság vezetőjének jelentik.
+
+(3) Ha bármely rendőri szerv tudomására jut, hogy bejelentéshez kötött rendezvényt bejelentés nélkül, a rendezvényt megtiltó határozat ellenére, vagy a bejelentéstől eltérő módon szerveznek, a rendezvény (tervezett) helye szerint illetékes közrendvédelmi szerv vezetőjét azonnal értesíti. A közrendvédelmi szerv vezetője az információt azonnal jelenti a vezetőnek, egyidejűleg értesíti a 7. § (1) bekezdésében meghatározott szervek vezetőit.
