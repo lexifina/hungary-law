@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Edelény város Balajt elnevezésű településrészét, az egyesítés megszüntetésével, Balajt néven községgé nyilvánítom a következő önkormányzati általános választás napjával. Balajt községgé nyilvánítása nem érinti Edelény városi címét.
