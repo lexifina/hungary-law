@@ -1,0 +1,1 @@
+## [Az ózonréteget lebontó anyagokról szóló, Montreálban 1987. szeptember 16. napján aláírt — a 35/1990. (II. 28.) MT rendelettel kihirdetett — Jegyzőkönyv kiegészítése a Magyar Köztársaság vonatkozásában 1991. március 7. napján lépett hatályba.]
