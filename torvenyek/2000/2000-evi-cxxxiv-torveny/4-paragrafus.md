@@ -1,0 +1,1 @@
+4. § Az Országgyűlés az Rtv. 32. §-ában és a 77. § (6) bekezdésében foglaltaknak megfelelően az ORTT költségvetésének mellékleteként jóváhagyja a Műsorszolgáltatási Alap költségvetését (3. számú melléklet).
