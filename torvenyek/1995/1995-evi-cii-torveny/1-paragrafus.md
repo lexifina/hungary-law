@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Észak-atlanti Szerződés részes államai és a ,,Békepartnerség'' más résztvevő államai közötti, fegyveres erőik jogállásáról szóló Megállapodást és annak Kiegészítő Jegyzőkönyvét (a továbbiakban: Megállapodás, illetve Jegyzőkönyv) e törvénnyel megerősíti.
