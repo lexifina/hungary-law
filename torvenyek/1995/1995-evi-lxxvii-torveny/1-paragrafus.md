@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Lett Köztársaság közötti, Rigában, 1992. augusztus 7-én aláírt, baráti kapcsolatok és együttműködés alapjairól szóló Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló okiratok cseréje 1994. április 19-én lezajlott és a Szerződés ezen a napon hatályba lépett.)
