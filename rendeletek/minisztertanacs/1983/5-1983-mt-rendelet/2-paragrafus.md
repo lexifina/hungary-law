@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között, Budapesten, az 1982. évi július hó 8. napján aláírt egészségügyi ellátási egyezményt e rendelettel kihirdeti.
