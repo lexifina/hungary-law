@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Südy Zoltán rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaságnak a Myanmar Unióban való képviseletére kapott megbízása alól.
