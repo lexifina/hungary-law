@@ -1,0 +1,1 @@
+A szociális és egészségügyi miniszter előterjesztésére 1990. január 1-jei hatállyal a Semmelweis Orvostudományi Egyetemről dr. Farsang Csaba egyetemi tanárt – más munkakörbe történő áthelyezése miatt – e tisztsége alól felmentem.
