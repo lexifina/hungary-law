@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Afganisztáni Köztársaság Kormánya között Kabulban, az 1977. évi október hó 16. napján aláírt, az egészségügyi együttműködésről szóló egyezményt e rendelettel kihirdeti.
