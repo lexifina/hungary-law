@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és Kuvait Állam Kormánya között Kuvait városban az 1975. évi június hó 25. napján aláírt, a nemzetközi közúti árufuvarozásról szóló megállapodást e rendelettel kihirdeti.
