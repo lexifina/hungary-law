@@ -1,0 +1,7 @@
+1. A Kormány szükségesnek tartja, hogy a büntetőeljárásról szóló 1998. évi XIX. törvény módosításáról szóló törvényjavaslat Országgyűléshez történő benyújtásával egyidejűleg kezdődjön meg a büntetőeljárási törvény jogorvoslati rendszerének átfogó felülvizsgálata. A felülvizsgálat során fokozottan vizsgálni kell, hogy szükséges-e és milyen terjedelemben a büntetőeljárásban a kétfokú rendes jogorvoslati rendszer bevezetése, és ezzel összhangban a rendkívüli jogorvoslati lehetőségek módosítása. A felülvizsgálat során figyelembe kell venni a külföldi szabályozási példákat és a nemzetközi emberi jogi követelményeket, valamint azt, hogy a büntetőeljárás jogorvoslati rendszere milyen módon képes eleget tenni ezeknek a követelményeknek anélkül, hogy az ítélkezés időszerűsége csökkenne. A felülvizsgálat során figyelmet kell fordítani arra is, hogy a felállításra kerülő ítélőtáblák, valamint a Legfelsőbb Bíróság milyen feltételekkel lesznek képesek ellátni az esetleges második fellebbezési fórum feladatait.
+
+Felelős: igazságügy-miniszter
+
+Határidő: 2003. december 31.(a felülvizsgálat elvégzésére), 2004. június 30. (a felülvizsgálat eredményéhez képest a szükséges törvényjavaslat előkészítésére)
+
+2. A Kormány felkéri a Legfelsőbb Bíróság, illetőleg az Országos Igazságszolgáltatási Tanács elnökét, a legfőbb ügyészt és a Magyar Ügyvédi Kamara elnökét, hogy az igazságügy-miniszter 1. pontban meghatározott feladatának végrehajtásában működjenek közre.
