@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Bosznia-Hercegovina Köztársaság Kormánya között Budapesten, 1995. május 24-én aláírt nemzetközi közúti személyszállításról és árufuvarozásról szóló Egyezményt e rendelettel kihirdeti.
