@@ -1,0 +1,1 @@
+## 1. § Az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény 10. §-a (2) bekezdésének e) pontjában kapott felhatalmazás alapján a földművelésügyi és vidékfejlesztési miniszter ,,Magyarország SAPARD Terve 2000–2006.'' programot (a továbbiakban: SAPARD Terv) e rendelettel kihirdeti.
