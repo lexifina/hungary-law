@@ -1,0 +1,3 @@
+## 18. § A bv. intézet a szabadságvesztés kezdő és utolsó napjáról, valamint a feltételes szabadságra bocsátás esedékességi napjáról, továbbá ezek módosításáról az első fokú bíróságot, a bűntettesek nyilvántartását kezelő szervet, valamint a lakóhely szerint illetékes Hadkiegészítési és Területvédelmi Parancsnokságot a foganatba vételtől számított 3 munkanapon belül értesíti.
+
+19. § E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépés idején még ki nem töltött szabadságvesztések utolsó napjának, illetve a feltételes szabadságra bocsátás esedékességi napjának a meghatározására is alkalmazni kell, ha ez az elítélt részére hátrányosabb helyzetet nem eredményez.
