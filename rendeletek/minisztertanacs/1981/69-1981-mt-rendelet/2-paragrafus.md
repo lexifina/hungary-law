@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Kambodzsai Népi Forradalmi Tanács között Budapesten, az 1980. évi november hó 27. napján aláírt, a kulturális és tudományos együttműködésről szóló egyezményt e rendelettel kihirdeti.
