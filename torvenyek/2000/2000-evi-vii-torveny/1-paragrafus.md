@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Norvég Királyság Kormánya között a minősített katonai információk védelméről, Oslóban, 1999. október 12-én aláírt Egyezményt (a továbbiakban: Egyezmény) e törvénnyel megerősíti és kihirdeti.
