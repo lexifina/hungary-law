@@ -1,0 +1,1 @@
+## 7. § Az 5–6. §-ok rendelkezéseit a szövet-tipizáló reagensek vizsgálatában, kutatásában felhasznált ismert antigén összetételű sejtek segítségnyújtás keretében történő csereforgalmára is megfelelően alkalmazni kell.
