@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Nagy Lajos főkonzulnak a Berlin nyugati szektoraiban működött katonai kormányzatoknál történő képviseletére vonatkozó megbízását – 1990. október 1-jei hatállyal – megszüntetem.
