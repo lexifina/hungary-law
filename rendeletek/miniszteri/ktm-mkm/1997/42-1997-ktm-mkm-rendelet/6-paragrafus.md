@@ -1,0 +1,1 @@
+## 5. § Megszüntetjük a műemlék jellegű, 5803 törzsszám alatt nyilvántartott Nógrád megyei Rétság, Jásztelekpuszta 0116–0115 hrsz.-ú és a műemlék jellegű, 5801 törzsszám alatt nyilvántartott Pusztaberki, Petőfi u. 10. szám, 67/12 hrsz.-ú ingatlanok védettségét.

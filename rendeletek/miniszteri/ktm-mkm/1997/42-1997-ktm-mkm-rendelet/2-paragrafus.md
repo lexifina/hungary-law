@@ -1,0 +1,3 @@
+2. § (1) Műemlék jellegűvé nyilvánítjuk a Vas megyei Kőszeg város, Pék u. 23. szám alatti, 1621 hrsz.-ú, 76 m2 területű, 1622 hrsz.-ú, 50 m2 területű, 1623 hrsz.-ú, 72 m2 területű, 1624 hrsz.-ú, 29 m2 területű, 1625 hrsz.-ú, 40 m2 területű, 1626 hrsz.-ú, 79 m2 területű, 1627 hrsz.-ú, 101 m2 területű, 1628 hrsz.-ú, 155 m2 területű, 1629 hrsz.-ú, 180 m2 területi ingatlanokon álló polgárházegyüttest. A műemléki védelem kiterjed az összesen 782 m2 teljes területre.
+
+(2) A műemléki védelem célja a XVIII. században kiépült földszintes polgárházegyüttes (lakóépület, melléképület, udvar) egységének megőrzése.
