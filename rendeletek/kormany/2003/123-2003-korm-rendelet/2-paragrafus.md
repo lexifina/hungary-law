@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Chilei Köztársaság Kormánya között Budapesten, 2002. október 7-én aláírt, a növényvédelmi karantén és a növényvédelem területén való együttműködésről szóló megállapodást e rendelettel kihirdeti.
