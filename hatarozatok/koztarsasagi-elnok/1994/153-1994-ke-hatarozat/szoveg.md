@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Nagyatád város Ötvöskónyi elnevezésű településrészét, a várossal történt egyesítését megszüntetve, Ötvöskónyi néven községgé nyilvánítom a következő önkormányzati általános választás napjával. A községgé nyilvánítás nem érinti Nagyatád városi címét.
