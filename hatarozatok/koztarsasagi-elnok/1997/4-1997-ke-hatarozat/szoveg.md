@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Krasznai Márton rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaságnak az Európai Biztonsági és Együttműködési Szervezet mellett működő bécsi Állandó Képviselete vezetésére kapott megbízása alól.
