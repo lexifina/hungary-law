@@ -1,0 +1,157 @@
+## 2. §
+
+## A Megállapodás magyar nyelvű szövege a következő:
+
+## ,,MEGÁLLAPODÁS
+
+## a Magyar Köztársaság Kormánya és a Vöröskereszt
+
+## és Vörös Félhold Társaságok Nemzetközi Szövetsége között a Nemzetközi Szövetség budapesti Regionális Küldöttségének jogállásáról
+
+## A Magyar Köztársaság Kormánya (a továbbiakban: a Kormány) és a Vöröskereszt és Vörös Félhold Társaságok Nemzetközi Szövetsége (a továbbiakban: a Nemzetközi Szövetség),
+
+## Üdvözölve a Nemzetközi Szövetség Regionális Küldöttségének (a továbbiakban: Küldöttség) létrehozását Budapesten, abból a célból, hogy Nemzetközi Szövetség humanitárius segítségnyújtását Közép- és Kelet-Európa államaiban összehangolja;
+
+## Tekintetbe véve azt, hogy a Küldöttség és személyzete jogállása meghatározásáról, valamint hatékony működésük elősegítése érdekében megállapodást szükséges kötni,
+
+## az alábbiakban állapodnak meg:
+
+## 1. Cikk
+
+## 1. A Nemzetközi Szövetség, feladatainak ellátása és céljainak megvalósítása érdekében a Magyar Köztársaság területén teljes szerződéskötési és eljárási képességgel, valamint ingó és ingatlan tulajdonnal rendelkező jogi személy.
+
+## 2. Ebből a célból a Nemzetközi Szövetség Budapesten székelő Küldöttsége egy nemzetközi szervezet regionális irodájaként tekintendő.
+
+## 2. Cikk
+
+## 1. A Nemzetközi Szövetség, Küldöttsége révén, a humanitárius küldetésének gyakorlása során megkívánt feladatait a Magyar Köztársaság területén szabadon láthatja el, Alapokmányával, valamint a Vöröskereszt és Vörös Félhold Mozgalom alapelveivel összhangban.
+
+## 2. A Küldöttség jogosult arra, hogy tevékenységét Közép- és Kelet-Európa többi államának területére kiterjessze az érintett államok kormányainak hozzájárulásával.
+
+## 3. A Kormány a lehető legnagyobb mértékben megkönnyíti a Nemzetközi Szövetség és Küldöttségének humanitárius tevékenységét. A Kormány mindenekelőtt a Küldöttség nemzetközi jellegű működését, kapcsolatait és érintkezését engedélyezi és segíti elő.
+
+## 3. Cikk
+
+## 1. A Nemzetközi Szövetség és Küldöttsége a Magyar Köztársaság területén az ország törvényeinek és jogszabályainak megfelelően tevékenykedik. A Nemzetközi Szövetség a Magyar Köztársaság területén szervezett humanitárius tevékenységét a Magyar Vöröskereszt révén vagy azzal egyetértésben végzi. Ugyancsak a Küldöttség feladata a Magyar Vöröskereszttel történő együttműködés és annak támogatása is.
+
+## 2. A Nemzetközi Szövetségnek, Küldöttségének és személyzetének bármikor joga van a vörös kereszt és vörös félhold embléma használatára.
+
+## 4. Cikk
+
+## 1. A Küldöttség, valamint annak bárhol, bárkinél lévő tulajdona és pénzeszközei mentesek a joghatóság minden formája alól, kivéve, ha arról valamely esetben a Nemzetközi Szövetség kifejezetten lemondott. A Küldöttség tulajdona és pénzeszközei, beleértve a közlekedési eszközöket is, mentesek a házkutatás, az igénybevétel, az elkobzás, a kisajátítás, valamint a bírósági, közigazgatási vagy végrehajtási eljárás, illetve beavatkozás bármely más formája alól.
+
+## 2. A Küldöttség helyiségei, irattára és okmányai, bárhol is találhatók, sérthetetlenek.
+
+## 5. Cikk
+
+## A Küldöttség, pénzügyi ellenőrzés, szabályozás vagy fizetési moratóriumra vonatkozó korlátozás nélkül
+
+## 1. bármilyen külföldi fizetési eszközt és betétet tarthat, valamint rendelkezhet bármilyen fizetési eszközben lévő devizaszámla felett,
+
+## 2. szabadon átutalhatja külföldi fizetési eszközét és alapjait az egyik országból a másik országba, valamint átválthatja bármilyen külföldi fizetési eszközét bármely más külföldi fizetési eszközre.
+
+## 6. Cikk
+
+## 1. A Küldöttség vagyontárgyai, helyiségei, jövedelme és egyéb tulajdona mentes:
+
+## — mindenfajta egyenes adó alól, kivéve azon díjakat, amelyek közüzemi szolgáltatások fejében járnak,
+
+## — a hivatalos használatára, valamint kiadványai tekintetében behozott és kivitt áruk tekintetében vámmentességet élvez, továbbá mentes minden behozatali és kiviteli korlátozás és tilalom alól.[^2]
+
+## 2. A Küldöttség, valamint a Küldöttség vezetője és a küldöttek jogosultak az általuk vásárolt termékek és szolgáltatások árában foglalt általános forgalmi adó visszatérítésére a vonatkozó hatályos jogszabályokkal összhangban.
+
+## 7. Cikk
+
+## 1. A Kormány, a vonatkozó magyar jogszabályokkal összhangban engedélyezi és védi a Küldöttség szabad hírközlését hivatalos érintkezése tekintetében, valamint a lehető legnagyobb mértékben, kedvező elbánást biztosít a levelezés, a kábeltáviratok, a táviratok, a távfénymásolatok, a távbeszélő, illetve más közlések elsőbbsége, díja és illetéke tekintetében.
+
+## 2. A Küldöttség hivatalos levelezése és más hivatalos közlései tekintetében cenzúra nem alkalmazható.
+
+## 3. A Küldöttségnek joga van az országos és nemzetközi írásos és audiovizuális médiumok szabad igénybevételére.
+
+## 4. A Küldöttségnek joga van levelezését olyan futárok vagy csomagok útján továbbítani, illetve megkapni, amelyek a diplomáciai futárokkal és diplomáciai poggyásszal azonos kiváltságokat és mentességeket élveznek, feltéve, hogy ezeket a csomagokat a rájuk utaló látható külső jellel látták el és csak hivatalos célra szolgáló iratokat és tárgyakat tartalmaznak.
+
+## 8. Cikk
+
+## 1. A Küldöttség tagjai:
+
+## — a Küldöttség vezetője, akit a Nemzetközi Szövetség Főtitkára nevez ki,
+
+## — a küldöttek, akiket a Nemzetközi Szövetség Főtitkára nevez ki,
+
+## — az igazgatási és technikai személyzet, akiket vagy a Nemzetközi Szövetség Főtitkára nevez ki, vagy a Küldöttség helyben alkalmaz.
+
+## 2. A Küldöttség tagjainak nevét a Nemzetközi Szövetség Főtitkára közli a Magyar Köztársaság Külügyminisztériumával, amint megkezdték tisztségük ellátását a Küldöttségnél.
+
+## 3. Ezen értesítés kézhezvétele alapján a Magyar Köztársaság Külügyminisztériuma a Küldöttség tagjai részére kiállítja a megfelelő személyazonossági igazolványt.
+
+## 9. Cikk
+
+## 1. A Küldöttség tagjait, házastársát és olyan hozzátartozóit, akik eltartásáról gondoskodnak, a nemzetközi jognak a nemzetközi szervezetek tisztviselőire vonatkozó alapelveivel összhangban a következő kiváltságok és mentességek illetik meg:
+
+## a) mentesek hivatalos minőségükben szóban és írásban tett nyilatkozataik és összes egyéb hivatalos tevékenységük tekintetében a joghatóság alól;
+
+## b) mentesek a Nemzetközi Szövetség által fizetett illetmény és egyéb járandóság tekintetében az adózás alól;
+
+## c) mentesek, házastársukkal és általuk eltartott hozzátartozóikkal együtt a bevándorlást korlátozó szabályok, valamint a külföldiek bejelentésére vonatkozó előírások alól;
+
+## d) a fizetési eszközök beváltása tekintetében ugyanazokat a könnyítéseket élvezik, mint más nemzetközi szervezet magyarországi képviseletének tagjai;
+
+## e) nemzetközi vagy belső válság idején őket, házastársukat és olyan hozzátartozóikat, akiknek eltartásáról gondoskodnak, hazatérési könnyítések illetik meg, amelyek révén, kívánságukra, a lehető legkorábban távozhatnak;
+
+## f) mentesek a nemzeti szolgálati kötelezettség alól;
+
+## g) joguk van berendezési és személyes használati tárgyaikat vámmentesen behozni, hivataluknak a Magyar Köztársaságban első ízben történő átvétele alkalmával.
+
+## 2. Jelen Cikk (1) bekezdésének b)—g) pontja nem alkalmazható a Magyar Köztársaság állampolgáraira, vagy az állandó tartózkodásra jogosító engedéllyel rendelkező lakosaira. Annak érdekében, hogy a Küldöttség érdemi munkájának folyamatosságát zökkenőmentesen elláthassa, azon személyek, akik nevét feladataik teljesítése okából a Küldöttség vezetője által összeállított és a Kormány által jóváhagyott listára felvettek, a nemzeti szolgálati kötelezettségre történő behívásra vonatkozóan ideiglenes halasztást kapnak.
+
+## 3. Mivel ezek a kiváltságok és mentességek nem az egyének előnyben részesítését, hanem a Nemzetközi Szövetség humanitárius küldetése független gyakorlásának biztosítását szolgálják a Nemzetközi Vöröskereszt és a Vörös Félhold Mozgalom alapelveivel való szoros összhangban, a Nemzetközi Szövetség köteles a Küldöttség bármely tagjának mentességéről lemondani bármely esetben, amikor véleménye szerint, a mentesség az igazságszolgáltatás menetét akadályozná és arról a Nemzetközi Szövetség érdekeinek sérelme nélkül lehet lemondani.
+
+## A Nemzetközi Szövetség megtesz minden intézkedést annak érdekében, hogy az ilyen kiváltságokat és mentességeket élvező minden személy tiszteletben tartsa a Magyar Köztársaság törvényeit és jogszabályait.
+
+## 4. Jelen Cikk (1) bekezdésében felsorolt kiváltságok és mentességek — a (3) bekezdésben foglaltak, valamint a Magyar Köztársaság állampolgáraira és állandó lakosaira vonatkozó (2) bekezdésben említett kivételek figyelembevételével — alkalmazandók a Nemzetközi Szövetség azon képviselőire is, akik nem a Küldöttség tagjai, de a Magyar Köztársaságban kiküldetésük során feladatokat látnak el, amennyiben rendelkeznek a Nemzetközi Szövetség által kellő módon kiállított személyazonossági igazolvánnyal.
+
+## A Nemzetközi Szövetség feladatkörében utazó, és a Szövetség személyazonossági igazolványával ellátott személyeknek igazoló okirattal kísért vízumkérelmét (amennyiben szükséges) a lehető leggyorsabban kell elintézni. Amennyire lehetséges, többszöri belépő vízumot kell kiadni.
+
+## 5. A Nemzetközi Szövetség Elnökét és Főtitkárát, amikor a Nemzetközi Szövetség személyazonossági igazolványával a Szövetség nevében hivatalos úton az országban tartózkodnak, a diplomáciai képviselőt megillető kiváltságok és mentességek illetik meg.
+
+## 10. Cikk
+
+## 1. A Kormány megkönnyíti a Küldöttség részére szükséges helyiségek megszerzését, valamint a Küldöttség tagjainak megfelelő lakáshoz jutását.
+
+## 2. A Kormány megkönnyíti a Küldöttség közlekedési eszközeinek bejegyzését és kedvező elbírálásban részesíti őket.
+
+## 11. Cikk
+
+## 1. Bármely olyan ügyet, amelyről a jelen Megállapodás nem rendelkezik, a nemzetközi jognak a nemzetközi szervezetek tisztségviselőire vonatkozó alapelveivel összhangban rendeznek.
+
+## 2. A Kormány és a Nemzetközi Szövetség, vagy annak Küldöttsége között felmerülő bármely vitát, amely a jelen Megállapodás értelmezéséből ered, a Szerződő Felek tárgyalások útján kívánják rendezni. A Szerződő Felek, bármely Fél kezdeményezésére megállapodhatnak abban, hogy a vitát választott bíróság elé terjesztik. Ilyen esetekben megállapodhatnak a választott bíróság szervezetében és a választott bírósági döntés végrehajtásában.
+
+## 12. Cikk
+
+## 1. Jelen Megállapodás rendelkezéseit ideiglenesen az aláírás időpontjától kell alkalmazni, véglegesen pedig akkor lépnek hatályba, amikor a Kormány értesíti a Nemzetközi Szövetség Főtitkárát arról, hogy a Megállapodás hatálybalépéséhez szükséges belső eljárás befejeződött.
+
+## 2. Jelen Megállapodást bármelyik Szerződő Fél írásban felmondhatja. A felmondásra vonatkozó értesítést legalább hat hónappal előbb kell átadni.
+
+## 3. Jelen Megállapodásban történő változtatás és módosítás a Kormány és a Nemzetközi Szövetség közötti levélváltás útján történhet.
+
+## Ennek hiteléül kellőképpen meghatalmazott alulírottak jelen Megállapodást kézjegyükkel és pecsétjükkel látták el.
+
+## Készült két példányban, angol nyelven, 1993. március 10-én.
+
+## A Magyar Köztársaság Kormánya nevében
+
+## Dr. Jeszenszky Géza s. k.,
+
+## külügyminiszter
+
+## A Nemzetközi Szövetség nevében
+
+## George Weber s. k.,
+
+## főtitkár''
+
+3. §
+
+E rendelet a kihirdetése napján lép hatályba, de rendelkezéseit 1993. március 10-től kell alkalmazni.
+
+[^2]: A Magyar Közlöny 2000. évi 48. számában közzétett helyesbítésnek megfelelő szöveg.
