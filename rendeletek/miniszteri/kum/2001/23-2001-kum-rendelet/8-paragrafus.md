@@ -1,0 +1,1 @@
+## 7. § A külföldi állam vagy a nemzetközi szervezet megbízásából ad hoc diplomáciai megbízással a Magyar Köztársaságba utazó személy és családtagja – útiokmánya típusától függően – diplomáciai vagy szolgálati láttamozású hivatalos díjmentes vízumot kaphat.

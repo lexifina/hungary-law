@@ -1,0 +1,1 @@
+## 8. § Az olyan vízumkötelezett és családtagja részére, akinek a magyarországi be- és kiutazásához, valamint tartózkodásához külpolitikai érdek fűződik, a Külügyminisztérium vagy – a Külügyminisztérium engedélyével – a külképviselet adhat ki díjmentesen udvariassági láttamozású vízumot.

@@ -1,0 +1,1 @@
+## 15. § A rendelet 3–5. §-aiban és 7. §-ában írt külföldiekkel szemben a Tv. 61. § (3) bekezdésében, továbbá a rendelet 6. §-ában és 8. §-ában szereplő külföldivel szemben a Tv. 61. § (2)–(5) bekezdésében meghatározott ellenőrző intézkedésnek van helye.

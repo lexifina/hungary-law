@@ -1,0 +1,1 @@
+## 17. § A Külügyminisztérium az e rendelet alapján általa és a külképviseletek által kiadott vízumokról a Tv. 79. § (1) bekezdésében meghatározott adatok közlésével tájékoztatja a központi adatkezelő szervet. A kiadott tartózkodásra jogosító engedélyekről a Tv. 81. § (1) bekezdésében meghatározott adatokkal értesíti a központi adatkezelő szervet.

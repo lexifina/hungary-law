@@ -1,0 +1,1 @@
+## 5. § A 3. § a) pontjában és a 4. § a) pontjában meghatározott személyek háztartásában, illetőleg kizárólagos magánszolgálatára alkalmazott személy viszonosságtól függően díjmentesen hivatalos vízumot kaphat. A viszonosságról a Külügyminisztérium konzuli feladatot ellátó szervezeti egységének vezetője nyilatkozik.

@@ -1,0 +1,1 @@
+## 12. § Ha a rendelet hatálya alá tartozó külföldi tartózkodási ügyében a Külügyminisztérium a kérelmet elutasítja, erről diplomáciai úton értesíti a küldő állam külképviseletét vagy a nemzetközi szervezetet.
