@@ -1,0 +1,73 @@
+## 2. § A Megállapodás hivatalos magyar nyelvű fordítása a következő:
+
+## FELÜLVIZSGÁLT KIEGÉSZÍTŐ MEGÁLLAPODÁS
+
+## a Nemzetközi Atomenergia Ügynökség által Magyarországnak nyújtandó műszaki segítségről
+
+## A Nemzetközi Atomenergia Ügynökség (továbbiakban Ügynökség) és a Magyar Népköztársaság[^3] Kormánya (továbbiakban Kormány) megkötik a jelen Megállapodást, amely alapján a Kormány műszaki segítségben részesül az Ügynökségtől vagy az Ügynökségen keresztül.
+
+## I. Cikk
+
+## Segítségnyújtási típusegyezmény
+
+## A Kormány és az Ügynökség alkalmazza a Kormánynak az Ügynökség által vagy az Ügynökségen keresztül nyújtott műszaki segítségre az Egyesült Nemzetek Fejlesztési Programja segítségnyújtási típusegyezményének rendelkezéseit, amelynek egy másolata a jelen Megállapodás A mellékletében található.[^4]
+
+## II. Cikk
+
+## Biztonsági normatívák és előírások
+
+## A Kormány mindazon műveletekhez, amelyekhez jelen Megállapodást követően az Ügynökség műszaki segítségét igénybe veszi, alkalmazza az Ügynökségnek az INFCIRC/18/Rev. 1. dokumentumában meghatározott biztonsági normatíváit és előírásait és minadzokat az alkalmazandó biztonsági normatívákat, amelyeket az említett dokumentummal összhangban kidolgoznak és időről-időre módosítanak.
+
+## III. Cikk
+
+## Békés felhasználási tevékenységek és biztosítékok
+
+## 1. A Kormány vállalja, hogy azt a műszaki segítséget, amelyet a jelen Megállapodás alapján élvez, az atomenergiának kizárólag békés célra történő felhasználására fordítja és különösképpen, hogy ez a segítség ne mozdítsa elő nukleáris fegyver előállítását és semmiféle katonai cél elérését, sem olyan célokat, amelyek hozzájárulhatnak nukleáris fegyverek elterjedéséhez pl. olymódon, hogy nukleáris robbanó szerkezet előállítását célzó kutatásra, fejlesztésre, bemérésre vagy előállításra használják.
+
+## 2. Ennek érdekében és az Ügynökség Kormányzótanácsa által megkívánt mértékben jelen Megállapodás alapján megvalósítandó projekt tekintetében alkalmazni és folyamatosan biztosítani kell az Ügynökség biztosítéki jogait és felelősségét úgy, amint azt az alapokmány 12. cikkének A bekezdése előírja és a Kormány és az Ügynökség között megkötött biztosítéki egyezmény maga után vonja, vagy ha nincs ilyen hatályos Megállapodás, a műszaki segély dokumentum végrehajtását megelőzően a projektre vonatkozóan a Kormánynak eseti biztosítéki Megállapodást kell kötnie az Ügynökséggel.
+
+## IV. Cikk
+
+## Fizikai védelem
+
+## A szükséges mértékig a Kormány minden intézkedést megtesz az Ügynökség által vagy útján nyújtott műszaki segítséghez közvetlenül kapcsolódó nukleáris létesítmények, berendezések és anyagok fizikai védelme érdekében. A Kormány az Ügynökség INFCIRC/225/Rev. 1. dokumentumában foglalt és időről-időre felülvizsgált ajánlásoknak megfelelően jár el.
+
+## V. Cikk
+
+## Berendezések vagy anyagok tulajdonjoga
+
+## Ha a jelen Megállapodás részesei másként nem állapodnak meg, az Ügynökségen keresztüli vagy az Ügynökségtől származó, a jelen Megállapodás hatálya alá eső projekt alapján a Kormánynak szállított berendezés vagy anyag tulajdonjoga a Kormányra száll az Ügynökség azon értesítésével, amelyet az Ügynökség a műszaki segítségnyújtási projekt végrehajtását követően a Kormánynak küld. Ezt követően a Kormány viseli a teljes és kizárólagos felelősséget és kötelezettséget a berendezés vagy anyagok kezelésével, felhasználásával, karbantartásával, tárolásával és elhelyezésével kapcsolatosan. A berendezés vagy anyagok tulajdonjogának átvételekor a Kormány vállalja, hogy
+
+## a) biztosítja a berendezés helyes használatát és megfelelő karbantartását;
+
+## b) a berendezést az Ügynökség bármely szakértője rendelkezésére bocsátja, amennyiben a szakértő munkája azt szükségessé teszi; és
+
+## c) a berendezés és anyagok felhasználása a jelen Megállapodás III. Cikkében foglaltaknak megfelelő mértékben történik.
+
+## VI. Cikk
+
+## Viták rendezése
+
+## Minden olyan, a jelen Megállapodás értelmezésével és alkalmazásával kapcsolatos vitát, amely tárgyalás útján vagy más kölcsönösen elfogadott rendezési módon nem rendezhető, a Megállapodásban bármely részes fél kérésére választott bíróság elé kell utalni. Mindegyik fél kijelöl egy választott bírót, és az így kijelölt két választott bíró választja meg a harmadikat, az elnököt. Ha a vitának a választott bíróság elé történő terjesztésére irányuló kérelemtől számított 30 napon belül valamelyik fél nem jelöl ki választott bírót, vagy a második választott bíró kijelölésétől számított 15 napon belül nem választják meg a harmadikat, bármelyik fél kérheti az Egyesült Nemzetek főtitkárát, hogy jelölje ki a választott bírót. A választott bíróság határozatait tagjainak egyszerű szótöbbségével hozza meg. A választott bíróság eljárási rendjét a választott bírók határozzák meg és a választott bírósági eljárásnak a választott bírók által megállapított költségeit a Felek viselik. A választott bírósági ítélet tartalmazza az ítélet alapjául szolgáló indokolást, és a vita végleges rendezéseként mindkét fél számára kötelező érvényű.
+
+## VII. Cikk
+
+## Hatályba lépés
+
+## Jelen Megállapodás akkor lép hatályba, amikor azt mind a Kormány kellőképpen felhatalmazott képviselője, mind pedig az Ügynökség főigazgatója, vagy megbízottja aláírta.
+
+## A Magyar Népköztársaság Kormánya részéről
+
+## Tétényi Pál s. k.,
+
+## A Nemzetközi Atomenergia Ügynökség részéről
+
+## Hans Blix s. k.,
+
+3. § (1) E rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban 1989. június 12. napjától kezdődően kell alkalmazni.
+
+(2)[^5] E rendelet végrehajtásáról az Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben gondoskodik.
+
+[^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^4]: A mellékletet az érdekeltek közvetlenül kapták meg.
+[^5]: A 3. § (2) bekezdése a 87/1997. (V. 28.) Korm. rendelet 22. §-a (2) bekezdésének e) pontja szerint módosított szöveg.
