@@ -1,0 +1,1 @@
+A Kormány az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 14. §-a alapján az Állami Számvevőszék javaslatára 2004. október 1-jétől 2007. szeptember 14-ig kinevezi dr. Borbély Attilát az Állami Privatizációs és Vagyonkezelő Részvénytársaság Felügyelő Bizottsága elnökévé.
