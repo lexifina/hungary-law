@@ -1,0 +1,1 @@
+1. § A szellemi és kultúrális együttműködés tárgyában Berlinben 1936. évi május hó 28. napján kelt és az 1937 :V. törvénycikkbe iktatott magyar-német egyezmény kiegészítéseképpen Budapesten 1940. évi március hó 13. napján kelt pótegyezmény az ország törvényei közé iktattatik.
