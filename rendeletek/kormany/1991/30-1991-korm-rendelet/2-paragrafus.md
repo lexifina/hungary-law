@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya valamint Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a vámhatóságaik közötti kölcsönös adminisztratív segélynyújtásról szóló Egyetértési Memorandumot e rendelettel kihirdeti.
