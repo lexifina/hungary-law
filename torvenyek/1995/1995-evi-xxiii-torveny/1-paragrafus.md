@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és Kanada Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről Ottawában, 1991. október 3-án aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1993. október 21-én megtörtént. Ennek megfelelően a Megállapodás 1993. november 21-én hatályba lépett.)
