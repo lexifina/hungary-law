@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Bródi Gábor rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság Európai Biztonsági és Együttműködési Szervezete mellett működő bécsi Állandó Képviseletének vezetésére kapott megbízása alól.
