@@ -1,0 +1,1 @@
+A miniszterelnök egyetértésével, a honvédelmi miniszter által tett előterjesztésre; a Népköztársaság Elnöki Tanácsa 17/1958. (II. 21.) NET határozatának Janza Károly tartalékos altábornagyra vonatkozó részét semmissé nyilvánítom.
