@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és Malaysia között a beruházások elősegítéséről és védelméről Kuala Lumpurban, 1993. február 19-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1995. június 8-án megtörtént. Ennek megfelelően a Megállapodás 1995. június 8-án hatályba lépett.)
