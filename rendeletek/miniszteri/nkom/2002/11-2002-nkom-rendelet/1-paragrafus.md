@@ -1,0 +1,3 @@
+1. § (1) E rendelet hatálya – a (2) bekezdésben foglalt kivétellel – a nemzeti kulturális örökség minisztere által kiadott működési engedéllyel rendelkező muzeális intézményekben szakmai munkakört betöltő munkavállalókra terjed ki.
+
+(2) E rendelet hatálya nem terjed ki a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény végrehajtásáról a művészeti, a közművelődési és a közgyűjteményi területen foglalkoztatott közalkalmazottak jogviszonyával összefüggő egyes kérdések rendezéséről szóló 150/1992. (XI. 20.) Korm. rendelet, valamint az egyes kulturális közalkalmazotti munkakörök betöltéséhez szükséges képesítési és egyéb feltételekről szóló 2/1993. (I. 30.) MKM rendelet hatálya alá tartozó intézmények közalkalmazottaira.

@@ -1,0 +1,1 @@
+A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Tv.) 100. § (3) bekezdésének y) pontjában kapott felhatalmazás alapján a következőket rendelem el:
