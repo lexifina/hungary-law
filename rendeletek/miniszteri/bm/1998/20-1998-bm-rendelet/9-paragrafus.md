@@ -1,0 +1,1 @@
+## 8. § A tervkészítésre e rendelet alapján nem kötelezett településen a veszélyelhárítási alapterv elkészítéséről, valamint a tervkészítésre kötelezett településeken a veszélyelhárítási alapterv szükség szerinti kiegészítéséről a polgármester dönt.

@@ -1,0 +1,1 @@
+A polgári védelemről szóló 1996. évi XXXVII. törvény (a továbbiakban: Pvtv.) 42. §-a (2) bekezdésének b) pontjában kapott felhatalmazás alapján a polgári védelmi tervezés rendszeréről és követelményeiről a következőket rendelem el:
