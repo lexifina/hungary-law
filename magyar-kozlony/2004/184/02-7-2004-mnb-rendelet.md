@@ -1,0 +1,18420 @@
+# A Magyar Nemzeti Bank Elnökének 7/2004. (XII. 7.) MNB rendelete
+
+Magyar Közlöny 2004. évi 184. szám, 2004. december 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/9e0f81f03d369e1ef882be34d9842cb333f2d001/dokumentumok/28468319804764c1293b5109bf4502dd28c98e2f/letoltes)
+
+---
+
+A Magyar Nemzeti Bank Elnökének
+7/2004. (XII. 7.) MNB
+rendelete
+a jegybanki információs rendszerhez szolgáltatandó
+információk köréről, a szolgáltatás módjáról
+és határidejéről
+A Magyar Nemzeti Bankról szóló 2001. évi LVIII. tör-
+vény 60. §-a (1) bekezdésének i) pontja alapján fennálló
+jogkörömben eljárva a következőket rendelem el:
+1. §
+(1) E rendelet hatálya kiterjed:
+a) a pénzügyi intézményre,
+b) a befektetési vállalkozásra,
+c) az a)–b) pontban említett, az Európai Gazdasági
+Térség valamely tagállamában székhellyel rendelkező
+pénzügyi szervezet magyarországi fióktelepére (a továb-
+biakban: EGT fióktelep),
+d) a pénzügyi intézménynek nem minősülő, kiegészítő
+pénzügyi szolgáltatást teljesítő jogi személyre, valamint
+e) a pénzügyi intézménynek nem minősülő, saját tulaj-
+donú bankjegykiadó automatát (ATM), illetve készpénz-
+felvételi funkcióval rendelkező POS berendezést üzemel-
+tető jogi személyre (a továbbiakban együtt: adatszolgál-
+tatók).
+(2) E paragrafus (1) bekezdésének a)–b) pontjában
+meghatározott adatszolgáltatónak minősül az ott említett,
+az Európai Gazdasági Térségen kívüli országban szék-
+hellyel rendelkező pénzügyi szervezet magyarországi
+fióktelepe is.
+2. §
+Az adatszolgáltatók az e rendelet 1. számú mellékleté-
+ben felsorolt információkat az ott meghatározott módon,
+gyakorisággal és határidőben szolgáltatják a Magyar
+Nemzeti Bank (a továbbiakban: MNB) részére.
+3. §
+(1) A szolgáltatandó információkhoz kapcsolódó táblá-
+kat és az azok kitöltésére vonatkozó rendelkezéseket e ren-
+delet 2. számú melléklete tartalmazza.
+(2) Az információk szolgáltatásához szükséges – e ren-
+delet 3. számú mellékletében meghatározott – technikai
+segédleteket az MNB e rendelet hatálybalépésével egyide-
+jűleg, a honlapján teszi közzé.
+4. §
+Ez a rendelet a kihirdetése napján lép hatályba. Ezzel
+egyidejűleg hatályát veszti a jegybanknak szolgáltatandó
+információkról szóló 3/2003. (PK. 16.) MNB rendelkezés.
+Dr. Járai Zsigmond s. k.,
+a Magyar Nemzeti Bank elnöke
+
+1. számú melléklet a 7/2004. (XII. 7.) MNB rendelethez
+A jegybanki információs rendszerhez szolgáltatandó információk
+Az adatszolgáltatás
+Azono-
+sító kód
+Megnevezés Az adatszolgáltatók köre gyakorisága teljesíté-
+sének
+módja
+határideje
+D01 Operatív napi jelentés a
+hitelintézetek devizahelyzetének
+változásáról
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+napi elektronikus
+úton
+a
+tárgyidőszakot
+követő
+munkanap
+naponta 11.30
+óráig
+D11 Nem rezidensekkel szemben
+keletkezett éven túli állami és
+államilag garantált magán
+adósságra vonatkozó
+adatszolgáltatás
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+negyedéves papíron tárgyidőszakot
+követő hó
+20. munkanap
+D12 Nem rezidensekkel szemben
+keletkezett éven túli állami és
+államilag garantált magán
+adósság átütemezési, törlesztési
+és kamatfizetési ütemezése
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+negyedéves papíron tárgyidőszakot
+követő hó
+20. munkanap
+D13 Nem rezidensekkel szemben
+keletkezett éven túli állami és
+államilag garantált magán
+adósságra vonatkozó
+adatszolgáltatás
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+éves papíron tárgyidőszakot
+követő év
+február 28.
+D14 Nem rezidensekkel szemben
+keletkezett éven túli külföldi
+adósságra vonatkozó
+adatszolgáltatás
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+negyedéves papíron tárgyidőszakot
+követő hó
+20. munkanap
+D15 Nem rezidensekkel szemben
+keletkezett éven túli nem
+garantált magán adósságra
+vonatkozó adatszolgáltatás
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+éves papíron tárgyidőszakot
+követő év
+február 28.
+E04 Napi jelentés a forint értékpapír
+állományokról
+központi értéktári
+tevékenységet végző Tpt.
+szerinti elszámolóház
+napi elektronikus
+úton
+tárgyidőszakot
+követő
+munkanap 9.30
+óra
+E06 DVP értékpapír-számla transzfer
+és elsődleges piaci ügyletek
+adatai
+Tpt. szerinti
+elszámolóházak, az ezen
+típusú EGT fióktelepek
+napi elektronikus
+úton
+tárgyidőszakot
+követő
+munkanap
+E14 Határidős részvényügyletek a
+BÉT-en
+Tpt. szerinti
+elszámolóházak, az ezen
+típusú EGT fióktelepek
+napi elektronikus
+úton
+tőzsdenapot
+követő
+munkanap
+14 óra
+E20 A befektetési vállalkozások
+tulajdonában lévő, valamint a
+náluk letétbe helyezett
+(rezidensek és nem-rezidensek
+által kibocsátott) értékpapírok
+állománya, tulajdonosi bontásban
+befektetési vállalkozások,
+az ezen típusú EGT
+fióktelepek
+negyedéves elektronikus
+úton
+tárgyidőszakot
+követő hó
+8. munkanap
+
+Az adatszolgáltatás
+Azono-
+sító kód
+Megnevezés Az adatszolgáltatók
+köre
+gyakorisága teljesíté-
+sének
+módja
+határideje
+E21 A bankok és szakosított
+hitelintézetek saját tulajdonában
+lévő, valamint a náluk letétbe
+helyezett (rezidensek és nem
+rezidensek által kibocsátott)
+értékpapírok állománya,
+tulajdonosi bontásban
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+negyedéves elektronikus
+úton
+tárgyidőszakot
+követő hó
+8. munkanap
+E23 A központi értéktárnál vezetett
+egyesített összevont
+értékpapírszámlákon és biztosíték
+értékpapír letéti számlákon lévő
+értékpapír-állományok
+központi értéktári
+tevékenységet végző Tpt.
+szerinti elszámolóház
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+3. munkanap
+E27 Értékpapírok központi értéktár
+által kiadott ISIN-kódjai és egyéb
+alapadatai
+központi értéktári
+tevékenységet végző Tpt.
+szerinti elszámolóház
+heti elektronikus
+úton
+a hét első
+munkanapja
+11.30 óra
+E28 Értékpapír elszámolási
+rendszerben feldolgozott
+megbízások piaconkénti
+megoszlása
+Tpt. szerinti
+elszámolóházak
+féléves elektronikus
+úton
+tárgyidőszakot
+követő hó
+20. munkanap
+E43 Opciós részvényügyletek a BÉT-
+en
+Tpt. szerinti
+elszámolóházak, az ezen
+típusú EGT fióktelepek
+napi elektronikus
+úton
+tőzsdenapot
+követő
+munkanap
+14 óra
+F01 Felügyeleti mérleg és
+eredménykimutatás (hó végi záró
+állomány)
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+11. munkanap;
+a naptári
+negyedév utolsó
+hónapja
+tekintetében
+előzetes:
+tárgyidőszakot
+követő hó 11.
+munkanap;
+végleges:
+tárgyidőszakot
+követő hó 20.
+munkanap
+F03 Felügyeleti mérleg és
+eredménykimutatás (hó végi záró
+állomány)
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+11. munkanap;
+negyedév végén
+előzetes:
+11. munkanap;
+végleges:
+20. munkanap
+F08 Felügyeleti mérleg és
+eredménykimutatás (tárgyév végi
+záró állomány)
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+eseti elektronikus
+úton
+2005. március
+31.
+
+Az adatszolgáltatás
+Azono-
+sító kód
+Megnevezés Az adatszolgáltatók
+köre
+gyakorisága teljesíté-
+sének
+módja
+határideje
+F09 Felügyeleti mérleg és
+eredménykimutatás (tárgyév végi
+auditált záró állomány)
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+eseti elektronikus
+úton
+záró-közgyűlést
+követő 15.
+munkanap,
+utána változás
+esetén
+(indoklással)
+F14 Felügyeleti mérleg és
+eredménykimutatás (tárgyév végi
+záró állomány)
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+eseti elektronikus
+úton
+záró-közgyűlést
+követő 15.
+munkanap,
+utána változás
+esetén
+(indoklással)
+F19 A Felügyeleti mérleghez
+kapcsolódó negyedéves jelentés
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+negyedéves elektronikus
+úton
+tárgyidőszakot
+követő hó
+20. munkanap
+F33 A Felügyeleti mérleghez
+kapcsolódó negyedéves jelentés
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+negyedéves elektronikus
+úton
+tárgyidőszakot
+követő hó
+20. munkanap
+F39 Befektetési vállalkozások
+statisztikai mérlege
+befektetési vállalkozások,
+az ezen típusú EGT
+fióktelepek
+éves elektronikus
+úton
+tárgyidőszakot
+követő január
+hó utolsó
+munkanap
+F40 Pénzügyi vállalkozások
+statisztikai mérlege
+pénzügyi vállalkozások,
+az ezen típusú EGT
+fióktelepek
+éves elektronikus
+úton
+tárgyidőszakot
+követő január
+hó utolsó
+munkanap
+H01 A nem pénzügyi vállalatokkal
+szembeni követelések állományai
+bankok, szakosított
+hitelintézetek
+negyedéves elektronikus
+úton
+tárgyidőszakot
+követő hó 20.
+munkanap
+H08 Hitel- és betétállomány
+településtípusonkénti bontásban
+szövetkezeti hitelintézetek féléves elektronikus
+úton
+tárgyidőszakot
+követő hó 20.
+munkanap
+H09 A nem pénzügyi vállalatokkal
+szembeni követelések állományai
+5 milliárd forintot
+meghaladó
+mérlegfőösszeggel
+rendelkező szövetkezeti
+hitelintézetek
+negyedéves elektronikus
+úton
+tárgyidőszakot
+követő hó
+20. munkanap
+H34 A háztartási szektor részére
+nyújtott lakáscélú hitelállomány
+összetétele
+bankok, szakosított
+hitelintézetek
+negyedéves elektronikus
+úton
+tárgyidőszakot
+követő hó
+20. munkanap
+K01 Jelentés a nem pénzügyi
+vállalatok forintbetéteinek és
+forinthiteleinek kamatlábáról
+bankok, - Tpt. szerinti
+elszámolóházak
+kivételével - a szakosított
+hitelintézetek, 5 milliárd
+forintot meghaladó
+mérlegfőösszeggel
+rendelkező szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+9. munkanap
+
+Az adatszolgáltatás
+Azono-
+sító kód
+Megnevezés Az adatszolgáltatók
+köre
+gyakorisága teljesíté-
+sének
+módja
+határideje
+K02 Napi jelentés a bankközi Ft-
+hitelek és Ft-betétek kamatlábáról
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+napi elektroniku
+s úton
+tárgyidőszakot
+követő munkanap
+10 óra
+K03 Jelentés a háztartások és a
+háztartásokat segítő nonprofit
+intézmények forintbetéteinek és
+forinthiteleinek kamatlábáról,
+hitelköltség mutatójáról
+bankok, - Tpt. szerinti
+elszámolóházak
+kivételével - a szakosított
+hitelintézetek, 5 milliárd
+forintot meghaladó
+mérlegfőösszeggel
+rendelkező szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektroniku
+s úton
+tárgyidőszakot
+követő hó
+9. munkanap
+K12 Napi jelentés a bankközi
+overnight Ft-hitelek és Ft-betétek
+kamatlábáról
+bankok, szakosított
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+napi elektroniku
+s úton
+VIBER zárási
+időpontja után
+legkésőbb fél óra
+L09 Napi jelentés a rezidensekkel
+szembeni egyes követelések és
+kötelezettségek könyv szerinti
+bruttó állományáról
+bankok, szakosított
+hitelintézetek
+egyedi
+elrendelés
+alapján, napi
+elektroniku
+s úton
+elrendelést követő
+első alkalommal a
+tárgynapot követő
+2. munkanap 15
+óra; az elrendelést
+követő második
+naptól a tárgynapot
+követő 1.nap 15 óra
+M01 Követelések és tartozások
+állománya
+bankok, szakosított
+hitelintézetek, közvetlen
+GIRO csatlakozott
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektroniku
+s úton
+tárgyidőszakot
+követő hó
+8. munkanap
+M02 Fizetési forgalom bankok, szakosított
+hitelintézetek, közvetlen
+GIRO csatlakozott
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektroniku
+s úton
+tárgyidőszakot
+követő hó
+8. munkanap
+M03 Export - import ügyletekkel
+kapcsolatos kereskedelmi
+követelések és tartozások
+forgalma
+bankok, szakosított
+hitelintézetek, közvetlen
+GIRO csatlakozott
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektroniku
+s úton
+tárgyidőszakot
+követő hó
+8. munkanap
+M05 Egyéb állományváltozások bankok, szakosított
+hitelintézetek, közvetlen
+GIRO csatlakozott
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektroniku
+s úton
+01. tábla: a
+tárgyidőszakot
+követő hó
+8. munkanap
+02. tábla: a
+tárgyidőszakot
+követő hó 15.
+munkanap
+
+Az adatszolgáltatás
+Azono-
+sító kód
+Megnevezés Az adatszolgáltatók
+köre
+gyakorisága teljesíté-
+sének
+módja
+határideje
+M06 Éven túli lejáratú követelések és
+tartozások esedékesség szerinti
+bontása
+bankok, szakosított
+hitelintézetek, közvetlen
+GIRO csatlakozott
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+10. munkanap
+M07 Konzorciális hitelek esedékesség
+szerinti bontása
+bankok, szakosított
+hitelintézetek, közvetlen
+GIRO csatlakozott
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+8. munkanap
+M08 Konzorciális hitelek hó végi
+állománya és havi forgalma
+bankok, szakosított
+hitelintézetek, közvetlen
+GIRO csatlakozott
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+8. munkanap
+M09 Rezidensek által külföldön
+kibocsátott, visszavásárolt
+kötvények hó végi állománya és
+havi forgalma
+bankok, szakosított
+hitelintézetek, közvetlen
+GIRO csatlakozott
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+8. munkanap
+M13 A 923-as jogcímen jelentett
+adatok tartalmi magyarázata
+bankok, szakosított
+hitelintézetek, közvetlen
+GIRO csatlakozott
+szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+8. munkanap
+M16 Jelentés a pénzváltók
+valutaállományáról és
+-forgalmáról
+nem közvetlen GIRO
+csatlakozott szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek,
+valamint a pénzváltók
+havi papíron tárgyidőszakot
+követő hó
+10-e
+P01 Bankjegy- és érmeállomány
+jelentés
+bankok, szakosított
+hitelintézetek, 5 milliárd
+forintot meghaladó
+mérlegfőösszeggel
+rendelkező szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+10. munkanap
+P04 A bankszámlák száma bankok, pénzforgalmi
+szolgáltatást végző
+szakosított hitelintézetek,
+pénzforgalmi szolgáltatást
+végző szövetkezeti
+hitelintézetek, az ezen
+típusú EGT fióktelepek
+éves elektronikus
+úton és
+papíron
+tárgyidőszakot
+követő év
+január utolsó
+munkanapja
+
+Az adatszolgáltatás
+Azono-
+sító kód
+Megnevezés Az adatszolgáltatók
+köre gyakorisága teljesíté-
+sének
+módja
+határideje
+P05 Forint és deviza fizetések
+jóváírási és terhelési forgalma
+bankok, pénzforgalmi
+szolgáltatást végző
+szakosított hitelintézetek,
+az ezen típusú EGT
+fióktelepek
+éves elektronikus
+úton és
+papíron
+tárgyidőszakot
+követő év
+január utolsó
+munkanapja
+P07 Bankkártya elfogadói üzletág bankok, szakosított
+hitelintézetek, pénzügyi
+vállalkozások, az ezen
+típusú EGT fióktelepek,
+pénzügyi intézménynek
+nem minősülő, saját
+tulajdonú bankjegykiadó
+automatát (ATM), illetve
+készpénzfelvételi
+funkcióval rendelkező
+POS berendezést
+üzemeltető jogi személyek
+féléves elektronikus
+úton
+tárgyidőszakot
+követő hó
+utolsó
+munkanapja
+P27 Bankkártya kibocsátói üzletág bankok, szakosított
+hitelintézetek, pénzügyi
+vállalkozások, az ezen
+típusú EGT fióktelepek
+féléves elektronikus
+úton
+tárgyidőszakot
+követő hó
+utolsó
+munkanapja
+P34 Visszaélések a bankkártya
+üzletágban
+bankok, szakosított
+hitelintézetek, pénzügyi
+vállalkozások, az ezen
+típusú EGT fióktelepek
+féléves elektronikus
+úton
+tárgyidőszakot
+követő
+negyedik hó
+utolsó
+munkanapja
+P37 Havi jelentés a levelező banknál
+számlát vezető levelezett
+hitelintézetek pénzforgalmi
+(elszámolási) számla
+egyenlegéről
+hitelintézetek számára
+számlát vezető bankok, az
+ezen típusú EGT
+fióktelepek
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+1. munkanap
+P38 Fizetési forgalom statisztikák hitelintézeti
+elszámolóházak
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+10. munkanap
+P39 Fizetési rendszer statisztikák hitelintézeti
+elszámolóházak
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+10. munkanap
+P40 BKR statisztikák hitelintézeti
+elszámolóházak
+havi elektronikus
+úton
+tárgyidőszakot
+követő hó
+5. munkanap
+W01 A hitelintézetek által a közgyűlés
+elé terjesztett éves beszámoló
+bankok, szakosított
+hitelintézetek
+éves papíron tárgyidőszakot
+követő év
+április 30.
+W02 Konszolidált éves beszámoló bankok, szakosított
+hitelintézetek
+éves papíron tárgyidőszakot
+követő év
+június 30.
+W03 A közgyűlésről készült
+jegyzőkönyv
+bankok, szakosított
+hitelintézetek
+éves papíron közgyűlést
+követő 30
+napon belül
+
+Az adatszolgáltatás
+Azono-
+sító kód
+Megnevezés Az adatszolgáltatók
+köre gyakorisága teljesíté-
+sének
+módja
+határideje
+W04 A rendkívüli közgyűlésről
+készült jegyzőkönyv
+bankok, szakosított
+hitelintézetek
+eseti papíron rendkívüli
+közgyűlést
+követő 30
+napon belül
+W05 A hitelintézetek rendszeres
+negyedéves beszámolója
+bankok, szakosított
+hitelintézetek
+negyedéves papíron tárgyidőszakot
+követő hó
+20. munkanap
+W06 A hitelintézetek szöveges
+jelentése aktuális témákban
+bankok, szakosított
+hitelintézetek
+egyedi
+elrendelés
+alapján, eseti
+papíron az egyedi
+elrendelésben
+foglaltak
+szerint
+W07 A hitelintézetek éves és
+középtávú üzletpolitikai
+irányelvei
+bankok, szakosított
+hitelintézetek
+éves papíron az irányelvek
+elkészítési
+határideje
+szerint, de
+legkésőbb
+tárgyév
+február 28-ig
+W08 Jelentések az üzemzavarokról
+és elhárításukról
+hitelintézeti
+elszámolóházak
+eseti elektroniku
+s úton és
+papíron
+az eset
+bekövetke-
+zését követő
+5. munkanap
+
+2. számú melléklet a 7/2004. (XII. 7.) MNB rendelethez
+I. AZ INFORMÁCIÓK SZOLGÁLTATÁSÁRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
+A szolgáltatandó információkhoz kapcsolódó táblákban (továbbiakban: táblák) és az azok kitöltésére
+vonatkozó útmutatókban (továbbiakban: kitöltési útmutató) használt kifejezések tartalmára – e rendelet eltérő
+rendelkezése hiányában – az egyes adatszolgáltatókra vonatkozó számviteli és egyéb jogszabályokban
+foglaltak tekintendők irányadónak.
+Amennyiben valamely adatszolgáltatás teljesítésére e rendelet 1. mellékletében foglaltak szerint az EGT
+fióktelep is köteles, a kitöltési útmutató alkalmazása szempontjából az ott nevesített pénzügyi szervezet
+típuson – adatszolgáltatói vonatkozásban – az ugyanezen típusú EGT fióktelepet is érteni kell.
+A jelen mellékletben használt rövidítések a táblákra és a kitöltési útmutatókra érvényesek.
+A. Szektor-meghatározások
+1. Változások a szektor-meghatározásokban
+A 2001-ben bevezetett, az adatszolgáltatásokban egységesen alkalmazandó szektorbontás alapvetően
+változatlan marad, két kisebb jelentőségű változás kivételével:
+– megjelent egy új gazdálkodási forma, a Magyarországi székhelyű európai gazdasági
+egyesülés, melynek gazdálkodási forma kódja 592 és az A) nem pénzügyi vállalatok
+szektorába sorolandó;
+– a C) szektor elnevezése Egyéb monetáris pénzügyi intézményekre változik.
+2. A szektorok
+Az adatgyűjtésekben a következő szektorok szerepelnek:
+Szektorkód Szektor
+Rezidensek:
+A) Nem pénzügyi vállalatok
+B) Központi bank
+C) Egyéb monetáris pénzügyi intézmények
+D) Egyéb pénzügyi közvetítők
+E) Pénzügyi kiegészítő tevékenységet végzők
+F) Biztosítók és nyugdíjpénztárak
+G) Központi kormányzat
+H) Helyi önkormányzatok
+I) Társadalombiztosítási alapok
+J) Háztartások
+K) Háztartásokat segítő nonprofit intézmények
+Nem-rezidensek:
+L) Külföld
+
+3. Rezidensek és nem-rezidensek elkülönítése
+Statisztikailag – fő szabályként – magyar rezidensnek minősül minden természetes és nem természetes
+személy, akinek vagy amelynek közvetlen gazdasági érdeke (állandó lakhelye, telephelye, termelése stb.)
+elsődlegesen Magyarország gazdasági területéhez kapcsolódik [A gazdasági terület nem tartalmazza az idegen
+államoknak és nemzetközi szervezeteknek az adott államba beékelt területét, jóllehet ezek földrajzilag az
+ország közigazgatási határain belül találhatók (kormányzati, diplomáciai, katonai stb. képviseletek, illetve más
+államok kormányzati szintű kereskedelmi, kulturális képviseletei)]. A meghatározásból következik, hogy egy
+ország rezidensének minősül az a gazdasági egység, amely valamely gazdasági tevékenységet tartósan – egy
+évnél hosszabb ideig – végez az adott ország területén, illetve természetes személyek esetében, aki az adott
+ország területén huzamosan, legalább egy éven keresztül tartózkodik, illetve szándékai szerint
+tartózkodni kíván (kivéve a tanulmányokat folytatókat, illetve a gyógykezelésben részesülőket).
+Természetes (vagy magán-) személyek esetében a Magyarországhoz fűződő közvetlen gazdasági érdek
+meglétéről, vagyis az adott természetes személy rezidens (vagy nem-rezidens) besorolásáról az eset összes
+körülményét figyelembe véve kell dönteni. Alapvetően a huzamos, legalább egy éves magyarországi
+tartózkodás, illetve annak szándéka a meghatározó, melyre nézve az ügyféltől kapott felvilágosítás mellett a
+banknál vezetett számla jellegéből (pl. munkabérszámla), magyarországi állandó lakhely vagy levelezési cím
+feltüntetéséből, magyarországi közüzemi díjak (víz, gáz, villany stb.) fizetéséből, az ügyfél banknál történő
+megjelenésének gyakoriságából, személyes és köztudomású tényekből (pl. a key account manager ismeri az
+adott ügyfél üzleti tevékenységét és személyes életvitelét) kell összességében megalapozott következtetést
+levonni. A fentiek nem vonatkoznak a külföldi diákokra és a gyógykezeltekre, akik a tartózkodás
+időtartamától függetlenül nem-rezidensnek tekintendők.
+A nem természetes személyek esetében a mindenkor hatályos cégjogi szabályok alapján Magyarországon
+bejegyzett cégek – mivel a cégbírósági bejegyzés, illetve egyéb jogszabályon alapuló nyilvántartásba vétel
+közvetlenül is az adott gazdálkodó egység, illetve szervezet adott országgal szembeni közvetlen gazdasági
+érdekére utal, cégformára tekintet nélkül –, illetve Magyarországon nyilvántartásba vett szervezetek (pártok,
+alapítványok, egyházak, egyesületek stb.) rezidensnek minősülnek.
+A fentiek alapján nem természetes személyek esetében a döntő elhatárolási ismérv, hogy az adott
+gazdálkodó egység rendelkezik-e – a cégjegyzékben is megjelenő – KSH egységes azonosító jelével, vagy
+sem. A rezidensi státusz szempontjából közömbös, hogy adó, vám stb. szabályok szerint a rezidenst egyéb
+kedvezmények is megilletik (így pl. ha „off-shore” státusza alapján reá nézve kedvezőbb adózási szabályok
+érvényesek).
+Így rezidens a
+– vámszabadterületi társaság, hiszen közvetlen gazdasági érdeke Magyarországhoz kötődik, a
+társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4 § 28. pont szerinti, külföldön
+tevékenységet végző (off-shore; a „külföldön tevékenységet végző” adójogi meghatározás a kizárólag nem-
+rezidensekkel kereskedelmi tevékenységet folytató és/vagy a nem-rezidensek részére egyes szolgáltatásokat
+nyújtó gazdasági egységek megfelelője), belföldön bejegyzett kft., vagy rt.
+4. A rezidens szektorok leírása
+Egyes intézményi egységek sokféle tevékenységet végeznek egymás mellett. A szektorba soroláshoz mindig
+az adott intézményi egység főtevékenysége szolgál alapul. A külföldi székhelyű vállalkozások magyarországi
+fióktelepeit abba a szektorba kell sorolni, amelybe az anyavállat kerülne, amennyiben rezidens volna.
+A) Nem pénzügyi vállalatok
+A nem pénzügyi vállalatok szektorába tartoznak azok a gazdasági szervezetek, amelyek fő tevékenységként
+piaci értékesítésre szánt javakat vagy nem pénzügyi szolgáltatásokat állítanak elő.
+Gazdálkodási forma szerint - a pénzügyi szolgáltatást előállítók kivételével - ide tartoznak:
+- a jogi személyiségű gazdasági társaságok (egyesülés, közös vállalat, kft, rt), kivéve ÁPV Rt., MÁK, ÁKK
+Rt., NA Rt., MFB Üzletrészhasznosító Kft és CASA Vagyonkezelő Kft.
+
+- a szövetkezetek (a szövetkezeti hitelintézetek kivételével)
+- egyéb jogi személyiségű vállalkozások
+- jogi személyiség nélküli társas vállalkozások (kkt, bt, pjt, társasház, stb.)
+- a gazdasági szervezeteket segítő és azok által finanszírozott nonprofit intézmények
+B) Központi bank
+Ide a Magyar Nemzeti Bank tartozik.
+C) Egyéb monetáris pénzügyi intézmények
+Jellegzetesen a betétgyűjtő pénzügyi intézmények alkotják ezt a szektort.
+Ide a központi bank kivételével a bankok, a szakosított hitelintézetek és a szövetkezeti hitelintézetek
+tartoznak, valamint a befektetési alapok közül a pénzpiaci alapok. A pénzpiaci alapokhoz azok a befektetési
+alapok sorolandók, amelyek befektetési jegyei likviditás szempontjából a bankbetétekhez hasonlóak, és
+eszközeiket elsősorban pénzpiaci eszközökbe, vagy maximum 1 éves hátralévő lejáratú transzferálható
+hitelviszonyt megtestesítő értékpapírokba, vagy pénzpiaci eszközök kamataihoz hasonló megtérülésű
+eszközökbe fektetik. (Pénzpiaci eszközök: alacsony kockázatú, likvid, olyan piacon forgó értékpapírok, ahol
+nagy forgalmat bonyolítanak le nagy mennyiségű papírokkal, és ahol ezek készpénzre váltása azonnal és
+alacsony költséggel lehetséges.)
+D) Egyéb pénzügyi közvetítők
+Ide azok a pénzügyi közvetítők tartoznak, amelyek nem végeznek betétgyűjtést, de főtevékenységként jelentős
+mennyiségű egyéb forrást gyűjtenek, amelyet kihelyeznek a pénz- és tőkepiacon.
+Ide sorolandók jelenleg a pénzügyi vállalkozások jelentős része, a befektetési alapok a pénzpiaci alapok
+kivételével, a befektetési alapkezelő társaságok, a kockázatitőke-társaságok és alapok, valamint a befektetési
+vállalkozások közül az értékpapír-befektetési társaságok és az értékpapír-kereskedők.
+E) Pénzügyi kiegészítő tevékenységet végzők
+Itt azok az intézmények szerepelnek, amelyeknek fő tevékenysége olyan pénzügyi kiegészítő szolgáltatás
+nyújtása, amely szorosan kapcsolódik valamilyen pénzügyi közvetítési tevékenységhez. Ezen intézményi
+egységek azonban nem gyűjtenek jelentős mennyiségű forrást, hanem a hitelnyújtókat és a hitelfelvevők
+között úgy létesítenek kapcsolatot, hogy az nem érinti lényegesen a mérlegüket. Ide tartoznak azok a pénzügyi
+intézmények is, amelyek fő tevékenységként a pénzügyi közvetítés biztonságát garantálják.
+Ide tartoznak a tőzsdék, az elszámolóházak, a betétbiztosítási, intézményvédelmi és befektetésvédelmi alapok,
+egyéb pénzügyi kiegészítő szolgáltatást végző intézmények, és a befektetési vállalkozások közül az
+értékpapír-bizományosok.
+F) Biztosítók és nyugdíjpénztárak
+Ide a biztosítótársaságok, a biztosítási egyesületek, a magánnyugdíjpénztárak, az önkéntes kölcsönös nyugdíj,
+egészség és önsegélyező pénztárak tartoznak.
+G) Központi kormányzat
+A központi kormányzat magába foglalja a központi költségvetést, a központi költségvetés intézményeit, az
+elkülönített állami pénzalapokat, az Államadósság Kezelő Központ (ÁKK) Rt-t, a Magyar Államkincstár
+(MÁK), az Állami Privatizációs és Vagyonkezelő (ÁPV) Rt-t, a Nemzeti Autópálya (NA) Rt-t, az MFB
+Üzletrészhasznosító Kft-t és a CASA Vagyonkezelő Kft-t. Ide tartoznak azok a nonprofit szervezetek is,
+amelyeket elsősorban a központi kormányzat finanszíroz, és amelyek felett a központi kormányzat gyakorolja
+az irányítást.
+H) Helyi önkormányzatok
+A helyi önkormányzatok magukba foglalják a megyei és a települési önkormányzatokat és azok intézményeit,
+valamint a helyi kisebbségi önkormányzatokat és azok intézményeit. Ide tartoznak azok a nonprofit
+szervezetek is, amelyeket elsősorban a helyi önkormányzatok finanszíroznak, és amelyek felett a helyi
+önkormányzatok gyakorolják az irányítást.
+I) Társadalombiztosítási alapok
+Ide tartoznak a Nyugdíjbiztosítási Alap és az Egészségbiztosítási Alap, valamint ezek intézményei.
+
+J) Háztartások
+A háztartások szektora a természetes személyeket és az egyéni vállalkozókat foglalja magába. Az egyéni
+vállalkozók a vállalkozói igazolvánnyal rendelkező és egyéb egyéni vállalkozók (mezőgazdasági őstermelők,
+mezőgazdasági kistermelők, kisiparosok, magánkereskedők, stb.).
+K) Háztartásokat segítő nonprofit intézmények
+A nonprofit intézmények közül csak a háztartásokat segítő nonprofit intézmények alkotnak külön szektort a
+nemzetközi makrostatisztikai módszertan szerint. Azok a nonprofit intézmények, amelyeket az üzleti
+szervezetek finanszíroznak és irányítanak, a nem pénzügyi vállalatokhoz tartoznak. Azok a nonprofit
+szervezetek, amelyeket az államháztartás intézményei finanszíroznak és irányítanak, a központi kormányzatba
+vagy a helyi önkormányzatokhoz sorolódnak.
+A háztartásokat segítő nonprofit intézmények körébe tartoznak azok a nonprofit szervezetek, amelyek
+elsősorban a háztartásoktól kapják forrásaikat vagy nincsenek az állam vagy a gazdálkodó szervezetek
+irányítása alatt. Ezek a szervezetek lehetnek szakszervezetek, munkavállalói érdekképviseleti szervezetek,
+politikai pártok, egyházak, egyházi intézmények, egyesületek és az alapítványok jelentős része.
+5. A szektor meghatározásának módja
+Egy adott ügyfél megfelelő szektorát a következőképpen kell meghatározni:
+5.1. Meg kell vizsgálni, hogy az ügyfél rendelkezik-e egységes statisztikai számjellel. Ha igen, akkor a jelen
+pont 5.2-es alpontjában leírtakat kell követni, ha nem, akkor az 5.4-es pont előírásait.
+5.2. Ha az ügyfél rendelkezik egységes statisztikai számjellel, akkor meg kell vizsgálni, hogy szerepel-e
+valamelyik, az MNB által készített listán. A listákon azok az intézmények szerepelnek, amelyek
+szektorbesorolásnál gazdálkodási forma kódjukat, azaz egységes statisztikai számjelük 13-15. számjelét nem
+kell felhasználni. Ha az ügyfél szerepel valamelyik listán, akkor a lista alapján kell a megfelelő szektorba
+sorolni. Ha az ügyfél nem szerepel a listákon, akkor a jelen pont 5.3-as alpontja szerint kell eljárni.
+Az MNB listát készített azokról a szervezetekről, amelyek a B) Központi bank, a C) Egyéb monetáris
+intézmények, a D) Egyéb pénzügyi közvetítők, az E) Pénzügyi kiegészítő tevékenységet végzők és az F)
+Biztosítók és nyugdíjpénztárak szektorba tartoznak. A listák az adott szektort illetően teljeskörűek és egy
+szervezet legfeljebb egy listán szerepel.
+Ugyancsak listát készített az MNB azokról az intézményekről, amelyeket az A) nem pénzügyi vállalatok, a H)
+központi kormányzat vagy I) helyi önkormányzatok szektorába kell besorolni. Ha az ügyfél nem szerepel a
+fenti listák egyikén sem, akkor a jelen pont 5.3-as alpontja szerint kell eljárni.
+A fentiekben említett, e rendelet 3. mellékletének 1-2. pontja szerinti listák tartalmazzák az érintett
+szervezetek nevét, törzsszámát (az egységes statisztikai számjel első nyolc számjegyét) és a megfelelő
+szektorbesorolást. A listákat az MNB a honlapján teszik közzé, és azok minden hónap harmadik munkanapján
+frissítésre kerülnek.
+5.3. Ha az ügyfél rendelkezik egységes statisztikai számjellel és nincs egy listán sem, akkor az egységes
+statisztikai számjele alapján a jelen melléklet I.A.6. pontban leírt algoritmus alapján kell a megfelelő
+szektorba sorolni. Ha az algoritmus alapján nem lehet szektorba sorolni, akkor a jelen pont 5.4-es alpontjában
+leírtakat kell követni.
+5.4. Ha a besorolandó ügyfélnek nincs egységes statisztikai számjele, (ami a magánszemélyeknél és a nem
+rezidenseknél tipikusan előforduló helyzet,) vagy az egységes statisztikai számjel alapján nem lehet
+meghatározni a megfelelő szektort, akkor jelen melléklet I.A. 3., 4. pontjaiban leírt információk alapján (tehát
+a rezidensek és nem rezidensek elkülönítése, valamint a rezidens szektorok leírása alapján) kell meghatározni
+a megfelelő szektort.
+
+6. Az egységes statisztikai számjel felhasználása a gazdasági szereplők szektorának meghatározásában
+6.1. Az egységes statisztikai számjel (ESS)
+Az egységes statisztikai számjel (ESS) használatát a Központi Statisztikai Hivatal elnökének – a
+statisztikáról szóló 1993. évi XLVI. törvény 6. § f) pontja alapján kiadott – az egységes statisztikai számjel
+elemeiről és nómenklatúráiról szóló 9001/2002. (SK 3.) KSH közleménye határozza meg.
+Az ESS első 8 számjegye a törzsszám, a szervezetek egyedi azonosítója, ennek alapján lehet eldönteni, hogy
+egy adott cég szerepel el a kivétel listákon vagy sem. Az ESS 9-12. számjegye a szervezet főtevékenysége
+szerinti szakágazatát fejezi ki. Ez a négy számjegy megegyezik az adott szervezet négyjegyű TEÁOR
+besorolásával. A TEÁOR besorolást nem kell használni a szektor-meghatározás során, mivel a pénzügyi
+szervezeteket az MNB külön listákon határozza meg. Az ESS 13-15. számjegye a gazdálkodási forma szerinti
+kód. Ennek a kódnak van szerepe a megfelelő szektor meghatározásában.
+Az ESS 16-17. számjegye a területi (megye) kód. Nincs szerepe a szektorizációban.
+6.2. A listákon nem szereplő, egységes statisztikai számjellel rendelkező gazdasági szereplők szektorának
+meghatározása az ESS segítségével
+6.2.1. Az A) Nem pénzügyi vállalatok szektorba kell sorolni a következő egységeket:
+a) Az ESS 13-14. számjegye 11, 12, 13, 21, 22, 54, 61, 71, 72, 73, 92
+A fenti meghatározás alól kivételt képeznek az alábbi intézmények, melyek a G) Központi kormányzat
+szektorba tartoznak:
+az ÁPV Rt.,
+az Államadósság Kezelő Központ Rt.,
+a Magyar Államkincstár,
+a Nemzeti Autópálya Rt.,
+MFB Üzletrészhasznosító Kft.,
+CASA Vagyonkezelő Kft.,
+b) Az ESS 13-15. számjegye 571, 591, 592.
+6.2.2. A B) Központi bank szektorba kell sorolni a következő egységeket:
+Lista alapján kell meghatározni.
+6.2.3. A C) Egyéb monetáris pénzügyi intézmények szektorba kell sorolni a következő egységeket:
+Lista alapján kell meghatározni.
+6.2.4. A D) Egyéb pénzügyi közvetítők szektorba kell sorolni a következő egységeket:
+Lista alapján kell meghatározni.
+6.2.5. Az E) Pénzügyi kiegészítő tevékenységet végzők szektorba kell sorolni a következő egységeket:
+Lista alapján kell meghatározni.
+6.2.6. Az F) Biztosítók és nyugdíjpénztárak szektorba kell sorolni a következő egységeket:
+Lista alapján kell meghatározni.
+6.2.7. A G) Központi kormányzat szektorba kell sorolni a következő egységeket:
+a) Az ESS 13-14. számjegye 31, 34, 35.
+b) Az ESS 13-15. számjegye 561, 562, 911, 912.
+c) Az ÁPV Rt., amelynek az ESS-e: 10792601-7415-114-01
+d) Az Államadósság Kezelő Központ Rt., amelynek ESS-e: 12598757-6712-114-01
+e) A Magyar Államkincstár Rt., amelynek ESS-e: 12751631-6523-114-01
+f) A Nemzeti Autópálya Rt., amelynek ESS-e: 11906522-4523-114-01
+g) MFB Üzletrészhasznosító Kft., amelynek ESS-e: 12692246-7415-113-01
+h) CASA Vagyonkezelő Kft., amelynek ESS-e: 10904266-7415-113-01
+
+6.2.8. A H) Helyi önkormányzatok szektorba kell sorolni a következő egységeket:
+ESS 13-14. számjegye 32, 36, 95.
+6.2.9. Az I) Társadalombiztosítási alapok szektorba kell sorolni a következő egységeket:
+a) Az ESS 13-14. számjegye 33.
+b) Az ESS 13-15. számjegye 913, 914.
+6.2.10. A J) Háztartások szektorba kell sorolni a következő egységeket:
+a) Az ESS 13-14. számjegye 23.
+b) Az ESS 13-15. számjegye 811.
+6.2.11. A K) Háztartásokat segítő nonprofit intézetek szektorba kell sorolni a következő, a listákon nem
+szereplő egységeket:
+ESS 13-14. számjegye 51, 52, 53, 55, 69.
+Az ESS 13-15. számjegye 569, 599.
+6.2.12. Az L) Külföld szektorba kell sorolni a következő egységeket:
+ESS 13-15. számjegye 941.
+B. Számítástechnikai segédlet (általános leírás)
+Az általános számítástechnikai leírás célja, hogy az adatszolgáltatások készítőit ellássa azon információkkal,
+amelyek szükségesek bármely adatszolgáltatás – MNB által előírt szerkezetben történő – elkészítéséhez.
+1. Általános tartalmi tudnivalók
+1.1. Egy fájlban egy adatszolgáltatónak eredeti jelentés esetén ("E" jelű) egy adott adatgyűjtési egység (a
+továbbiakban: adatgyűjtés) egy konkrét vonatkozási idejéhez tartozó összes adatát kell beküldenie.
+Amennyiben módosított ("M" jelű) jelentést tartalmaz a fájl, a legkisebb beküldendő egység egy tábla
+minden adata. Amennyiben az adatszolgáltató a megadott vonatkozási időre nem rendelkezik adattal,
+tehát a teljes jelentése nemleges, a beküldendő fájl egyetlen olyan rekordot kell tartalmazzon,
+amelyben csak az azonosítók (adatgyűjtés azonosító, vonatkozási idő, az adatszolgáltató azonosítója,
+kitöltés dátuma, és a bizonylat jellegeként az "N" betűkód) szerepelnek.
+Egy adatgyűjtés egy vagy több kérdőív-táblából áll, a táblák sorokból, a sorok rovatokból állnak.
+A fájlok rekordjai tartalmilag a kérdőív-táblák sorainak, a rekordok egyes mezői pedig - az azonosító
+mezőkön túl - a kérdőív-táblák rovatainak felelnek meg.
+1.2. A fájl egy rekordjának szerkezetét tekintve minden rekord eleje – még a kérdőív-tábla adatrovatait
+tartalmazó mezők előtt – azonosító mezőket is tartalmaz. Ezek az azonosító mezők mondják meg a
+feldolgozó rendszer számára, hogy az adatok pl.:
+- melyik adatgyűjtésből származnak,
+- melyik időszakra/időpontra vonatkoznak (vonatkozási idő dátuma),
+- melyik adatszolgáltatótól érkeznek,
+- az adatszolgáltató mely napon készítette az adatszolgáltatást (kitöltés dátuma),
+- a bizonylat eredeti, módosító vagy nemleges jellegű-e,
+- a mezők melyik kérdőív-tábla melyik sorának adatait tartalmazzák stb.
+Ezután következnek a rekordban a kérdőív-tábla adatrovatait tartalmazó mezők. (A pontos
+rekordszerkezet-leírást lásd. a I. B. 4.4. - 4.5. pontokban.)
+1.3. A fájl a fent leírt tartalmú és szerkezetű rekordokon kívül még technikai összesítő (ellenőrző)
+rekordokat is tartalmazhat - ha annak készítését a kitöltési útmutató előírja, és a kérdőív táblázatán
+szerepel ilyen sor. Ilyen technikai ellenőrző sor előírására olyan kérdőív-tábla esetén kerülhet sor,
+amely „igazi”, tehát tartalommal bíró összesen sort nem tartalmaz. A technikai ellenőrző rekord
+kizárólag arra szolgál, hogy a fájl beolvasásakor ellenőrizhető legyen, hogy valamennyi rekord (sor)
+sikeresen beolvasásra került-e. Szerkezete azonos a fájl többi rekordjának szerkezetével, az azonosító
+mezők után a táblaszám annak a táblának a száma, amihez tartozik, a sorszám csupa nulla, az egyes
+mezők pedig a tábla megfelelő oszlopaiban lévő értékek összegét tartalmazzák akkor, ha az
+
+oszlopban lévő mezők számértéket tartalmaznak, azaz összesíthetők. Mivel a sor célja tisztán
+technikai jellegű, az összeg nem kell, hogy jelentéssel bíró legyen, a sor mezőinek hossza az
+összegzés miatt természetesen nagyobb lehet, mint az elemi sorokban lévő mezők hossza.
+1.4. Az értékadatokat tartalmazó mezők hosszára vonatkozóan (ld. az I.B. 4. pont alatt található
+táblázatokat) vagy a kérdőív-tábla egészére, vagy annak oszlopaiban megadott mértékegység,
+illetve leírás (kódérték vagy szöveg) határozza meg az adat típusát (ld. az I.B. 4.2. pontot: C, N
+vagy S).
+A technikai ellenőrző rekordban lévő mezők hossza az alapadatokra vonatkozóan meghatározottnál
+hosszabb is lehet.
+1.5. A vonatkozási idő jelzésére az alábbi táblázatban közölt dátumkódokat kell használni:
+200 0–9 éves gyakoriság esetén
+200 F 1 vagy 2 féléves gyakoriság esetén
+200 N 1–4 negyedéves gyakoriság esetén
+200 01–12 havi gyakoriság esetén
+200 H 01–52 heti gyakoriság esetén
+200 K 01–12/1–2 kétheti gyakoriság esetén (hónapon belüli sorszám)
+200 01–31 napi gyakoriság esetén
+... egyszeri *
+... eseti *
+*Az adatgyűjtés konkrét vonatkozási ideje alapján lehet bekódolni.
+2. A fájl típusa, szerkezete
+2.1 A fájlt CSV (comma separated values, azaz vesszővel elválasztott értékek) típusú, ASCII szöveg
+fájlként kérjük elkészíteni.
+A fájl formátuma feleljen meg az IBM PC DOS 3.3-as vagy magasabb verzió számú operációs
+rendszer követelményeinek.
+A karakterkészlet DOS 852 (Windows 1250)
+2.2. A rekordokat rekordhatárolójel, a mezőket mezőhatárolójel választja el egymástól (ld. I.B. 2.10 pont).
+2.3. A mezők tetszőlegesen fix vagy változó hosszon küldhetők.
+(Magyarázat: A fogadó program első lépése két vessző közötti értékekkel dolgozik - természetesen az
+első, illetve utolsó mező sajátosságait figyelembe véve -, így az adatszolgáltatóra van bízva, hogy
+eszközeinek megfelelően fix hosszan, változó hosszan vagy vegyesen küldi be - két vessző között - a
+mezőket.)
+2.4. A rekord elején szereplő, azonosítás célját szolgáló mezők soha nem lehetnek üresek.
+2.5. A számértéket tartalmazó mezők, ha értékük nulla, üresen hagyhatók, de tetszés szerint a nulla be is
+írható. Az „üres” mezőhöz tartozó elválasztó karaktert (a vesszőt) ki kell tenni. Ilyenkor két vessző -
+vagy több üres mező esetén több vessző - követi egymást.
+2.6. Üres adattartalmú sor beküldése lehetséges, de nem kötelező. Vonatkozik ez arra az esetre is, amikor a
+kérdőív táblájában sorszámmal ellátott, de adattal nem rendelkező ú.n. címsor található (a sor összes
+rovata ki van szürkítve).
+2.7. A sorban az utolsó értékes adatot követő vessző(k) elhagyható(k) akkor is, ha még több mező
+következne (de csak akkor, ha ezek mindegyike üres). Ezek a vesszők, az adatszolgáltató választásától
+függően, szerepeltethetők is. A rekordelválasztó jel előtti utolsó mezőt is tetszőlegesen követheti
+vessző, vagy nem.
+(Magyarázat: A fogadó program a rekordelválasztó jelből észreveszi, hogy vége a sornak, és a
+hiányzó mezőket üres mezőnek tételezi fel. Ha ezek numerikus adatokat tartalmazó mezők lennének,
+akkor értékük nulla lesz.)
+2.8. A ‘két vessző között’ szereplő érték idézőjelek között is lehet.
+
+2.9. Szabad szöveget tartalmazó mező küldése esetén a mező tartalmát idézőjelek közé kell tenni, akkor
+- ha a szöveg maga vessző karaktert tartalmaz, vagy
+- ha a szöveg maga idézőjelet tartalmaz. A szövegben eredetileg előforduló idézőjelet meg kell
+duplázni.
+(A szoftverek nagy része automatikusan így viszi ki fájlba íráskor a szöveges mezők tartalmát.)
+2.10. Különleges karakterek a fájlban:
+- rekordelválasztó karakter: ASCII 13-as és 10-es kód (ez az enter vagy másképpen return
+billentyű,),
+- mezőelválasztó karakter: ASCII 44-es kód (vessző),
+- negatív előjel: ASCII 45-ös kód (mínusz jel),
+- tizedesjel: ASCII 46-os kód (pont),
+- idézőjel: ASCII 34-es kód (”),
+- magyar ékezetes szöveg küldése esetén a karakterkészlet tekintetében az I.B. 2.1. pont tartalma
+az irányadó.
+3. A fájl neve
+A fájl neve: AAADDDDD.GGG
+ahol AAA az adatgyűjtés azonosító kódja (e rendelet 1. mellékletében foglalt táblázat
+első oszlopában megadott kód) - fix, 3 karakter hosszon.
+DDDDD a vonatkozási idő dátumkódja - változó, max. 5 karakter hosszon.
+Felbomolhat az évet, hónapot (hetet, kéthetet, stb.), napot jelző részekre, az
+adatgyűjtés gyakoriságának függvényében. A dátumkódot az I.B. 1.5. pontban
+leírt táblázat alapján kell képezi.
+Példák:
+2 éves gyakoriság esetén (2002 év)
+2F1 féléves gyakoriság esetén (2002 első félév)
+2N3 negyedéves gyakoriság esetén (2002 harmadik negyedév)
+210 havi gyakoriság esetén (2002 október)
+2H35 heti gyakoriság esetén (2002 35. hét)
+205K1 kétheti gyakoriság esetén (2002 május első két hete)
+21231 napi gyakoriság esetén (2002 december 31)
+. a fájl kiterjesztése előtti pont
+GGG hitelintézet esetén az adatszolgáltató Giro kódja, más esetben az MNB által
+adott három karakteres azonosító kód - fix, 3 karakter hosszon.
+4. A mezőkre vonatkozó ellenőrzési szabályok
+4.1. A következőkben megadjuk azokat a legfontosabb formai és tartalmi szabályokat, amelyek betartását
+(többek között) ellenőrzi a befogadó program az MNB-ben. A megadott formai szabályokat úgy kell
+értelmezni, hogy a ‘két határoló vessző között beérkező’ mező tartalmát a fogadó programnak át kell
+tudnia tenni egy olyan mezőbe, amelyre a jelen pont 4.4.,4.5. alpontja alatt szereplő táblázatokban
+megadott szabályok igazak. (Pl.: az I.B. 4.5. alpontban N típusúra definiált mező esetén a text fájlban
+lévő karaktersorozatban nem lehet számjegytől, előjeltől, tizedesjeltől eltérő karakter.)
+4.2. A táblázatokban szereplő rövidítések jelentése és a velük kapcsolatos tudnivalók a következők:
+A tartalom típusa szerint a mező lehet:
+C: Kódot tartalmazó mező: leggyakrabban azonosítási célokat szolgál
+- Általában adott kódértéket, vagy egy adott értékkészlet valamely tagját, esetleg dátumot
+(dátumkódot) tartalmaz.
+- Nem lehet üres.
+(Kivétel: Technikai ellenőrző sor esetén üres mező lehet ott, ahol a kitöltési útmutató ezt
+leírja.)
+
+N: Számértéket tartalmazó mező: az értékadatokat tartalmazó mezők ilyenek
+- Csak számjegy karaktereket (0-tól 9-ig), előjelet és tizedesjelet tartalmaz.
+- Az előjel közvetlenül az első számjegy előtt legyen.
+- A tizedesjel a „pont”.
+- Az értékadatokat a táblákban vagy a kitöltési útmutatóban meghatározott formában kell
+megadni, amely formátum kivételes esetben lehet az általánostól eltérő is.
+Általánosságban az értékadatokat egész számban, tizedesek nélkül, vagy százalékos
+adatok esetében két tizedesjegy pontossággal kell megadni.
+S: Szöveget tartalmazó mező:
+- Tetszőleges szöveg.
+- A szövegben előforduló idézőjelet duplán kell megadni. A szövegben vessző is lehet.
+- Ha a szöveg vesszőt vagy idézőjelet tartalmaz, akkor a mező tartalma idézőjelek között
+legyen.
+A hossz típusa szerint a mező lehet:
+F: Fix hosszúságú (a kódok hosszúsága határozza meg)
+V: Változó hosszúságú
+4.3. Az általános rekordszerkezet a következő:
+A, D, Tsz, K, J, T, I1
+,......,In
+,S,a,b,...........,x
+azaz:
+adatgyűjtés azonosító kódja, vonatkozási idő dátum kódja, adatszolgáltató törzsszáma, kitöltés
+dátuma, bizonylat jellege, táblaszám, első csoportosító ismérv, ….., utolsó csoportosító ismérv,
+sorszám a táblán belül, első adatmező tartalma, második adatmező tartalma, ……., utolsó
+adatmező tartalma.
+4.4. Minden tábla minden sora elején, azaz minden rekord elején a következő azonosító mezőknek kell
+lenniük:
+A, D, Tsz, K, J
+Mező jele,
+megnevezése
+Tartalom
+típusa
+Hossz
+típusa
+Mező
+hossza
+(számérték
+esetén az
+egészrész)
+Tizedes
+jegyek
+száma
+Magyarázat
+(érték, értékkészlet, összefüggés)
+A
+Adatgyűjtés
+azonosítója
+C F 3 Az adatgyűjtés azonosító kódja, AAA
+pl. L09
+D
+Vonatkozási idő
+C F 4 vagy 6 vagy
+
+vagy 8
+A gyakoriságnak megfelelő dátumkód
+kitöltési leírása.
+Pl.: ééééNx: éééé évszám
+N negyedév jele
+x negyedév száma
+Tsz
+Adatszolgáltató /
+adatátadó
+azonosítója
+C F 8 Törzsszám
+K
+Kitöltés dátuma
+C F 8 ééééhhnn: éééé évszám
+hh hónap előnullázva
+nn nap előnullázva
+J
+Bizonylat jellege
+C F 1 E, M vagy N: E eredeti
+M módosító
+N nemleges
+
+4.5. A folytató mezők (táblánként) a következők:
+T, I1
+, ...In
+, S, a, b,...........,x
+Mező jele,
+megnevezése
+Tartalom
+típusa
+Hossz
+típusa
+Mező
+hossza
+(számérték
+esetén
+az
+egészrész)
+Tizedes
+jegyek
+száma
+Magyarázat
+(érték, értékkészlet, példa, valamint a mezőre
+önmagára vonatkozó szabály leírása)
+előtte kell legyenek
+az állandó mezők,
+ld. az I.B. 4.4. alatti
+táblázatot
+T
+Táblaszám
+C F 2 Táblaszám (előnullázva)
+I1
+Kiemelt csoportosító
+ismérv 1
+C F
+(a mező létezése esetleges)
+pl.: devizanemek
+... C F
+In
+Kiemelt csoportosító
+ismérv n
+C F
+(a mező létezése esetleges)
+S
+Sorszám vagy
+sorazonosító
+C F Sorszám (előnullázva),
+ISIN kód,
+esetleg a sorszámot helyettesítő egyéb azonosító
+kód
+a
+„a” rovat adata
+N vagy C
+vagy S
+V
+vagy
+F
+b
+„b” rovat adata
+N vagy C
+vagy S
+V
+vagy
+F
+... ...
+x
+„x” rovat adata
+N vagy C
+vagy S
+V
+vagy
+F
+Kiemelt csoportosító ismérv mezők olyan adatszolgáltatásokban fordulnak elő, ahol egy adott számú táblát
+többször kell/lehet kitölteni pl. a fizetési mérleg adatszolgáltatások esetében kiemelt csoportosító ismérv a
+devizanem.
+Egy konkrét adatszolgáltatásban minden tábla esetén az ABC betűivel jelzett oszlopoknak megfelelő számú
+adatmezőt kell szerepeltetni a Sorszám mező után.
+Amelyik táblában van csupa nulla sorszámú ún. technikai ellenőrző sor, az ebben a sorban lévő mezők hossza
+az összegzés miatt természetesen nagyobb lehet, mint az elemi sorokban lévő mezők hossza. A technikai
+jellegű összesen adat képzését lásd az I.B. 1.3 pontban.
+4.6. További szabályok és összefüggések
+Az e rendelet 3. mellékletének 5. pontja szerinti, "A jelentések összefüggései, egyedi ellenőrzési szempontjai"
+című, az MNB honlapján közzétett táblázat tartalmazza azokat az ellenőrzési szempontokat, amelyek olyan –
+mezők közötti, táblák közötti, illetve adatgyűjtések közötti – összefüggéseket írnak le, amelyek meglétét az
+MNB adatbefogadó és -ellenőrző programjai ellenőrzik, és hiba esetén a javításhoz az adatszolgáltató
+közreműködése szükséges. Ezért célszerű, hogy ezen szabályok fennállását már az adatküldő rendszerek
+előzetesen is ellenőrizzék.
+C. Eljárás bankszünnap esetén
+A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 215. § (1)-(2)
+bekezdésében foglaltak alapján a hitelintézeteknek a PSZÁF-nál, illetve az MNB-nél tett bejelentésében
+
+pontosan fel kell tüntetniük, hogy a bankszünnap könyvelési szünnapot (a), pénztári szünnapot (b),
+vagy könyvelési és pénztári szünnapot (c) együttesen jelentenek-e.
+A b) eset előfordulása esetén, azaz csak pénztári bankszünnapon valamennyi aznapra, mint tárgynapra
+vonatkozó, és az aznapi határidős adatszolgáltatást is teljesíteni kell.
+Amennyiben az a) vagy a c) esetről van szó, azaz a bankszünnap egyben könyvelési szünnapot is jelent,
+a napi gyakorisággal elrendelt adatszolgáltatásokra az alábbiak érvényesek:
+Ha az adatszolgáltatás vonatkozási időpontja bankszünnapra esik, és azon a napon bármilyen
+ügylet lebonyolítására sor került, arra vonatkozóan az adatszolgáltatást minden esetben teljesíteni
+kell.
+Ha az adatszolgáltatás vonatkozási időpontja bankszünnapra esik, de azon a napon ügyletkötés
+nem történt, akkor aznapra nemleges adatszolgáltatást kell beküldeni.
+Ha az adatszolgáltatás teljesítési határideje bankszünnapra esik és ezért az adatszolgáltató aznap
+adatszolgáltatást nem tud küldeni, akkor gondoskodnia kell arról, hogy az ezen a napon
+teljesítendő adatszolgáltatások a megelőző nap 22 óráig beérkezzenek az MNB-hez.
+Havi, negyedéves, féléves vagy éves adatszolgáltatásnál, amennyiben az adatszolgáltatási
+kötelezettség teljesítési határideje könyvelési szünnapra esik, akkor az adatszolgáltatást a banküzem
+szünetelésétől függetlenül az e rendelet 1. mellékletében rögzített időszakra vonatkozóan, az ott
+meghatározott teljesítési határidőre kell megküldeni.
+D. A nem elektronikusan küldött adatszolgáltatások kísérőlevele
+Minden nem elektronikusan küldött adatszolgáltatáshoz az alábbi adatokat tartalmazó, kitöltött táblázatot kell
+mellékelni:
+Az adatszolgáltató neve, címe:
+Az adatszolgáltató törzsszáma:
+A bizonylat jellege: eredeti (E) - módosító (M) - nemleges (N)
+A kitöltésért felelős személy
+olvasható aláírása, telefonszáma:
+A kitöltés dátuma:
+Ha az adott időszakban valamelyik adatgyűjtés egyetlen táblájában sincs adat, tehát az adatszolgáltatás
+"nemleges", ezt az adatszolgáltatáshoz tartozó kísérőlevél kitöltésével, az ott megadott gyakorisággal és
+határidőre történő beküldésével kell jelezni. Amennyiben több olyan, az MNB által papíron bekért
+adatgyűjtésük van, amely tevékenységi körük meghatározása alapján egész évben „nemleges” lesz, elegendő
+azok egy összefoglaló listán történő egyszeri megküldése az MNB Statisztikai főosztálya Adatbefogadó és
+-előkészítő osztálya részére.
+E. Irányelvek a statisztikai információszolgáltatásokhoz
+A statisztikai információk helyessége érdekében:
+- teljesülnie kell valamennyi lineáris megkötöttségnek (pl. a mérleg két oldalának egyensúlyban kell
+lennie, a részösszegek összegének meg kell egyeznie a végösszeggel);
+- a különböző gyakoriságú adatok legyenek konzisztensek;
+- a szolgáltatott statisztikai információknak teljes körűeknek kell lenniük.
+
+II. A SZOLGÁLTATANDÓ INFORMÁCIÓKHOZ KAPCSOLÓDÓ TÁBLÁK
+ÉS AZ AZOK KITÖLTÉSÉRE VONATKOZÓ RENDELKEZÉSEK
+
+MNB adatgy jtés azonosító: D01
+01. Állományi adatok külföld
+Értéknap: _ _ _ _ _ _ _ _ Az állomány típusa: K (külföld)
+(Adatok ezerben, JPY millióban)
+Sorkód ISO Nostro Bankközi Egyéb Érték- Egyéb Pénztári Loro Bankközi Egyéb Érték- Egyéb
+kód számlák kihelyezések kihelyezések papír eszköz valuta- számlák felvétek felvétek papír forrás
+állománya követelés készlet állománya tartozás
+Rövid Hosszú Rövid Hosszú Bank Egyéb Rövid Hosszú Rövid Hosszú
+a b c d e f g h i j k l m n o p q
+01 USD
+02 CHF
+03 CAD
+04 GBP
+… …
+Operatív napi jelentés a hitelintézetek devizahelyzetének változásáról
+
+MNB adatgy jtés azonosító: D01
+02. Állományi adatok belföld
+Értéknap: _ _ _ _ _ _ _ _ Az állomány típusa: B (belföld)
+(Adatok ezerben,JPY millióban)
+Sorkód ISO Nostro Bankközi Egyéb Érték- Egyéb Loro Bankközi Egyéb Érték- Egyéb
+kód számlák kihelyezések kihelyezések papír eszköz számlák felvétek felvétek papír forrás
+állománya követelés állománya tartozás
+Rövid Hosszú Rövid Hosszú Bank Egyéb Rövid Hosszú Rövid Hosszú
+a b c d e f g h i j k l m n o p
+01 USD
+02 CHF
+03 CAD
+04 GBP
+… …
+
+MNB adatgy jtés azonosító: D01
+03. Nyitott pozíciók (külföldi állomány + belföldi állomány)
+Értéknap: _ _ _ _ _ _ _ _
+adatok millió Ft-ban
+Sorkód ISO Nettó Nettó bankközi Nettó egyéb Nettó egyéb Mérleg szerinti Azonnali Nettó határid s Visszavonhatatlan Jöv beli Opciós Devizanemenkénti
+kód számla-
+állomány
+kihelyezések/
+felvétek
+kihelyezések/
+felvétek
+eszköz/forrás nettó nyitott
+pozíciók
+pozíció pozíció garanciák
+pozíciója
+bevételek/
+kiadások
+pozíciója
+ügyletek
+pozíciója
+nettó nyitott
+pozíciók
+a b c d e f g h i j k l
+01 USD
+02 CHF
+03 CAD
+04 GBP
+… …
+04. Nyitott pozíciók összesen (külföldi állomány + belföldi állomány)
+Értéknap: _ _ _ _ _ _ _ _
+adatok millió Ft-ban
+Mérleg szerinti
+Sorkód Megnevezés
+nettó nyitott
+pozíciók
+a b
+01 Nettó nyitott hosszú pozíció
+02 Nettó nyitott rövid pozíció
+03 Teljes nyitott pozíció
+04 Szavatoló t ke
+Operatív napi jelentés a hitelintézetek devizahelyzetének változásáról
+Devizanemenkénti
+nettó nyitott
+pozíciók
+
+MNB adatgy jtés azonosító: D01
+05. Azonnali üzletek
+Kötésnap Értéknap
+Vételi
+deviza ISO
+kódja
+Vételi
+összeg
+Eladási
+deviza ISO
+kódja
+Eladott
+összeg
+Bankközi/
+ügyfél
+Külföldi/
+belföldi
+Partner
+azonosítój
+a
+a b c d e f g h i
+
+…
+06.Határid s m veletek
+Kötésnap Értéknap Üzlettípus
+Lejárat
+típusa
+Vételi
+deviza ISO
+kódja
+Vételi
+összeg
+Eladási
+deviza ISO
+kódja
+Eladott
+összeg
+Swap
+termin
+értéknap
+Swap
+termin
+értéknap
+típusa
+Swap
+termin
+vételi
+összeg
+Swap
+termin
+eladási
+összeg
+Bankközi/
+ügyfél
+Külföldi/
+belföldi
+Partner
+azonosítója
+OTC /
+T zsde
+Opciós
+díj
+a b c d e f g h i j k l m n o p r
+
+…
+Operatív napi jelentés a hitelintézetek devizahelyzetének változásáról
+Sorkód
+Sorkód
+
+MNB adatgyűjtés azonosító: D01
+KITÖLTÉSI ÚTMUTATÓ
+Operatív napi jelentés a hitelintézetek
+devizahelyzetének változásáról
+I. Általános tudnivalók
+1.Az "Operatív napi jelentés" -nek a benyújtást megelőző napra, mint értéknapra (a külön megjelölteknél
+üzletkötési napra) vonatkozó állományi adatokat és e napra vonatkozó forgalmi adatokat kell
+tartalmaznia.
+2. A jelentés az adatszolgáltatók devizaállományára és devizaforgalmára vonatkozó adatokat tartalmaz. A
+forintra, dollárra történő átszámításokat a benyújtást megelőző munkanapon kiadott hivatalos MNB
+deviza középárfolyamon kell elvégezni. A kitöltési útmutató 1. táblájában külön sorban nem megjelölt
+devizákra vonatkozó állományi és forgalmi adatokat USD-ra átszámítva, EGY ISO kóddal kell jelenteni.
+3. Az adatokat a 01 és 02. táblákban tizedesjegy nélkül, kerekítve ezerben, a JPY-ben lévőket millióban
+kell megadni, a 03 és 04. táblákban tizedesjegy nélkül, kerekítve, millió HUF-ban. A 05 és 06. forgalmi
+táblák tranzakciós értékeit ezres ill. JPY és HUF esetében milliós nagyságrendben, az összes tizedesjegy
+kiírásával (kerekítés nélkül) kell megadni.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+Táblaszám: 01, 02 - Állományi adatok külföld; Állományi adatok belföld
+1. Az állományi adatok esetében a jelentés tárgynapja megegyezik az értéknappal.
+2. Az állományi adatok között az eszköztételeket könyv szerinti nettó értéken kell szerepeltetni.
+3. Kiemelt csoportazonosító ismérv 1: értéknap, mely megegyezik a vonatkozási idővel.
+4. Kiemelt csoportazonosító ismérv 2: Külföld/belföld
+A külföld a nem rezidens, a belföld a rezidens körnek felel meg. (A rezidens, nem-rezidens kör pontos
+meghatározása az MNB rendelet 2. sz. mellékletének A/3. pontjában található.)
+5. A tábla oszlopainak tartalma:
+a) Sorazonosító
+b) ISO kód (01a,02a.)
+Az EGY ISO kóddal jelölve az alábbi táblában külön fel nem sorolt egyéb devizáknak és az aranynak kell
+szerepelniük USD-ra átszámítva és összesítve. Az átszámításhoz az MNB által jegyzett napi hivatalos
+középárfolyamot kell használni. Ha az MNB az adott devizára nem jegyzett devizaárfolyamot, akkor az
+árfolyamot az adott devizát kibocsátó ország jegybankja vagy jegybanki funkciókkal rendelkező
+intézménye által meghatározott hazai devizaárfolyam és az euró keresztárfolyamából kell átszámítani.
+
+1. tábla: a D01 jelentésben használandó devizák megnevezése és ISO kódjai
+ISO Megnevezés A jelentésben használt egység1
+USD USA DOLLÁR 1,000
+CHF SVÁJCI FRANK 1,000
+CAD KANADAI DOLLÁR 1,000
+GBP ANGOL FONT 1,000
+DKK DÁN KORONA 1,000
+SEK SVÉD KORONA 1,000
+NOK NORVÉG KORONA 1,000
+AUD AUSZTRÁL DOLLÁR 1,000
+JPY JAPÁN YEN 1,000,000
+EUR EURO 1,000
+HUF HUF FORINT 1,000,000
+EGY EGYÉB DEVIZA 1,000
+1 Példa: 1256.65 USD, USD 1.257-ként szerepel
+c) Nostro számlák állománya (01b,02b.)
+Az adatszolgáltató számára vezetett látra szóló számlákon levő, az adatszolgáltató által könyvelt
+állományokat kell jelenteni. Amennyiben egy-egy konkrét nostro számla könyvelt állományának
+egyenlege negatív, úgy azt az egyéb források között kell szerepeltetni.
+A külföldi/belföldi megbontás a számlavezető hitelintézet alapján történik.
+d) Bankközi kihelyezések rövid (01c,02c.)
+Bankközi kihelyezések hosszú (01d,02d.)
+Az adatszolgáltató által hitelintézethez kihelyezett betétállományt, illetve az adatszolgáltató által
+hitelintézet számára nyújtott hitelállományt kell itt jelenteni.
+A lejárt, de még le nem írt követeléseket prolongációként kell kezelni, azaz mindaddig szerepeltetni kell a
+jelentésben, amíg a könyvekben szerepelnek.
+A futamidő meghatározásánál az eredeti lejárat szerinti futamidőt kell figyelembe venni. Az egy éves és
+az egy év alatti futamidejű tételek rövidlejáratúaknak, az egy év feletti futamidejű tételek
+hosszúlejáratúnak tekintendők. Megvásárolt követelés esetén nem a megvásárolt követelés eredeti
+lejáratát, hanem a megvásárláskor nyújtott hitel eredeti lejáratát kell figyelembe venni.
+A külföldi/belföldi, bankközi kihelyezések/egyéb kihelyezések megbontás a végső hiteladós alapján
+történik.
+e) Egyéb kihelyezések rövid (01e,02e.)
+Egyéb kihelyezések hosszú (01f,02f.)
+Az adatszolgáltató által nem hitelintézethez kihelyezett betétek, illetve az adatszolgáltató által nem
+hitelintézetnek nyújtott hitelek állományát kell itt szerepeltetni.
+A lejárt, de még le nem írt követeléseket prolongációként kell kezelni, azaz mindaddig szerepeltetni kell a
+jelentésben, amíg a könyvekben szerepelnek.
+A futamidő meghatározásánál az eredeti lejárat szerinti futamidőt kell figyelembe venni. Az egy éves és
+az egy év alatti futamidejű tételek rövidlejáratúnak, az egy év feletti futamidejű tételek hosszúlejáratúnak
+tekintendők. Megvásárolt követelés esetén nem a megvásárolt követelés eredeti lejáratát, hanem a
+megvásárláskor nyújtott hitel eredeti lejáratát kell figyelembe venni.
+A külföldi/belföldi, bankközi kihelyezések/egyéb kihelyezések megbontás a végső hiteladós alapján
+történik.
+
+f) Értékpapír követelés (01g,02g.)
+Itt kell szerepeltetni a megvásárolt idegen értékpapírokat, a devizában eszközölt befektetéseket,
+tulajdonosi részesedéseket beszerzési értéken, a visszavásárolt, és ideiglenesen a portfolióban kezelt saját
+kibocsátású értékpapírokat visszavásárlási értéken.
+Az MNB vagy más belföldi hitelintézet által külföldön kibocsátott devizakötvények megvásárlását a
+belföldi állománytáblában kell figyelembe venni.
+A külföldi, belföldi megbontást az értékpapír kibocsátója szerint kell alkalmazni.
+g) Egyéb eszköz (01h,02h.)
+Az oszlop az adatszolgáltató valamennyi, eddig fel nem sorolt, devizában nyilvántartott, mérleg szerinti
+eszköz állományát tartalmazza, ideértve az aktív időbeli elhatárolásokat is.
+h) Pénztári valutakészlet (01i.)
+Csak a külföldi állományban szerepel, a jelentés benyújtása előtti munkanap záró pénztári valutakészletét
+tartalmazza.
+i) Loro számlák állománya hitelintézet (01j,02i.)
+Loro számlák állománya egyéb (01k, 02j.)
+Az adatszolgáltató által vezetett látraszóló számlák más hitelintézetek és nem hitelintézetek (egyéb)
+részére.
+Az adatszolgáltató által könyvelt állományokat kell jelenteni. Amennyiben a számla egyenlege negatív,
+úgy azt az egyéb eszközök között kell jelenteni.
+A megbontás külföldire, belföldire a számlatulajdonos alapján történik.
+j) Bankközi felvétek rövid (01l,02k.)
+Bankközi felvétek hosszú (01m,02l.)
+Az adatszolgáltató által hitelintézettől felvett hitelek, hitelintézettől származó betétek állományát
+tartalmazzák az oszlopok.
+A futamidő meghatározásánál az eredeti lejárat szerinti futamidőt kell figyelembe venni. Az egy éves és
+az egy év alatti futamidejű tételek rövidlejáratúnak, az egy év feletti futamidejű tételek hosszúlejáratúnak
+tekintendők.
+A külföldi/belföldi megbontás a partner szerint történik.
+k) Egyéb felvétek rövid (01n,02m.)
+Egyéb felvétek hosszú (01o,02n.)
+Az adatszolgáltató által nem hitelintézettől felvett hitelek, nem hitelintézettől származó betétek
+állományát kell jelenteni.
+A futamidő meghatározásánál az eredeti lejárat szerinti futamidőt kell figyelembe venni. Az egy éves és
+az egy év alatti futamidejű tételek rövidlejáratúaknak, az egy év feletti futamidejű tételek
+hosszúlejáratúnak tekintendők.
+A külföldi/belföldi megbontás a hitelnyújtó szerint történik.
+l) Értékpapír tartozás (01p,02o.)
+Az értékpapírok között az adatszolgáltató által kibocsátott, saját értékpapírok szerepelnek névértéken.
+
+m) Egyéb forrás (01q,02p.)
+Az oszlop az adatszolgáltató valamennyi, eddig fel nem sorolt, devizában nyilvántartott mérleg szerinti
+forrás állományát tartalmazza, ideértve a passzív időbeli elhatárolásokat is.
+Táblaszám: 03 - Nyitott pozíciók tábla
+1. A nyitott pozíció számítása során a kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a
+devizaárfolyam kockázat és nagykockázatok fedezetéhez szükséges tőkekövetelmény megállapításának
+szabályairól és a kereskedési könyv vezetésének részletes szabályairól szóló, mindenkor hatályos
+244/2000. Kormányrendeletben (a továbbiakban: Kkr.) foglaltak és a lent leírtak az irányadóak.
+A mérleg szerinti nyitott pozíció számításának keretében devizanemenként kell meghatározni a nyitott
+pozíciót, ami az adott devizában nyilvántartott összes eszköz és összes forrás nettó egyenlegéből adódó
+pozíció. Az adatokat a 01, 02 állományi táblák ide vonatkozó adatai alapján kell kiszámítani. A
+mérlegben nem jelentkező tételekhez kapcsolódó nyitott pozíció számítását a Kkr. 40. §-ában
+meghatározottak szerint kell elvégezni, azzal a kiegészítéssel, az azonnali ügyletek nyitott pozícióit is
+meg kell határozni, a lentiekben részletezettek szerint.
+2. A nyitott pozícióra vonatkozó adatokat tizedesjegy kiírása nélkül, millió forintban kell szerepeltetni. A
+nap végi pozíció értékét az MNB által jegyzett napi hivatalos középárfolyamon kell meghatározni. Ha az
+MNB az adott devizára nem jegyzett devizaárfolyamot, akkor az árfolyamot az adott devizát kibocsátó
+ország jegybankja vagy jegybanki funkciókkal rendelkező intézménye által meghatározott hazai
+devizaárfolyam és az euró keresztárfolyamából kell átszámítani.
+3. Kiemelt csoportazonosító ismérv 1 : értéknap, mely megegyezik a vonatkozási idővel.
+4. A tábla oszlopainak tartalma:
+a) Sorazonosító
+b) ISO kód (a)
+Kitöltésénél a 01 tábla idevonatkozó részében leírtak az irányadók.
+c) Nettó számlaállomány (b)
+[(01b + 01i + 02b) - (01j + 01k + 02i + 02j)]
+d) Nettó bankközi kihelyezések/felvétek (c)
+[(01c + 01d + 02c + 02d ) - (01l + 01m + 02k + 02l)]
+e) Nettó egyéb kihelyezések/felvétek (d)
+[(01e + 01f + 02e + 02f) - (01n + 01o + 02m + 02n)]
+f) Nettó egyéb eszköz/forrás, értékpapírok (e)
+[(01g + 01h + 02g + 02h) - (01p + 01q + 02o +02p)]
+g) Mérleg szerinti nettó nyitott pozíciók (f)
+[03b + 03c + 03d + 03e]
+h) Azonnali pozíció (g)
+A spot napon, vagy spot napon belül esedékes deviza konverziók pozícióját tartalmazza
+– ideértve a swap üzletek induló oldalát és az overnight, valamint a tom next swapok termin lábát,
+amennyiben teljesítésük spot napon, vagy azon belül esedékes - az üzletkötés napjától az értéknapig
+terjedő időszakra.
+i) Nettó határidős pozíció (h)
+A Kkr 40. §-ának b) pontjában szereplő határidős pozíciók értéke.
+
+j) Visszavonhatatlan garanciák pozíciója (i)
+A Kkr 40. §-ának c) pontja alapján a visszavonhatatlan garanciák és hasonló okmányok pozíciója,
+amennyiben ezeket bizonyosan igénybe veszik.
+k) Jövőbeli bevételek/kiadások pozíciója (j)
+A Kkr 40. §-a d) pontjának megfelelően számított pozíciós érték.
+l) Opciós ügyletek pozíciója (k)
+A Kkr 40.§-a e), f.) pontjainak megfelelően számított opciós pozíció.
+A Kkr. 40. §-ának (2) bekezdése értelmében a deviza nettó nyitott pozíció meghatározása során a
+Felügyelet engedélye alapján az adatszolgáltató a belső szabályzatában meghatározott diszkonttényezővel
+számított - az egyes devizák szerinti - nettó jelenértékre vonatkozó számítási módszert is alkalmazhatja
+m) Devizanemenkénti nettó nyitott pozíciók (l)
+[03f+03g + 03h + 03i +03j +03k]
+Táblaszám: 04 - Nyitott pozíciók összesen
+1. A nyitott pozícióra vonatkozó összesített adatokat tartalmazza
+2. Kiemelt csoportazonosító ismérv 1 : értéknap, mely megegyezik a vonatkozási idővel.
+3. A tábla tartalma:
+01. Nettó nyitott hosszú pozíció: devizanemenkénti nettó nyitott hosszú pozíciók előjeles összege.
+02. Nettó nyitott rövid pozíció: devizanemenkénti nettó nyitott rövid pozíciók előjeles összege.
+03. Teljes nyitott pozíció: az egyes külföldi pénznemekben fennálló, és forintra átszámított, előjel nélküli
+nettó hosszú és nettó rövid pozíciók összege.
+04. Szavatoló tőke: A hitelintézetekről és pénzügyi vállalkozásokról szóló, mindenkor hatályos
+CXII/1996. törvény 5. számú mellékletében leírtak szerinti szavatoló tőke.
+a) A mérleg szerinti nettó nyitott pozíciókra vonatkozó adatok
+b) A devizanemenkénti nettó nyitott pozíciókra vonatkozó adatok
+A szavatoló tőke esetében a két oszlop értéke megegyezik.
+Devizaforgalomra vonatkozó adatok.
+1. A forgalmi adatok között csak az 5 millió forintnak megfelelő értékhatárt meghaladó tranzakciókat kell
+jelenteni.
+Táblaszám: 05 - Azonnali konverziós ügyletek
+1. Az adatszolgáltató által a jelentés benyújtását megelőző napon kötött deviza/deviza, deviza/forint
+azonnali konverzióra vonatkozó forgalmi tételeket kell itt jelenteni az értéknap megjelölésével.
+A jelentés szempontjából azonnalinak minősülnek a spot napnál nem későbbi értéknapra kötött
+konverziók.
+2. A jelentést ügyletenként kell kitölteni az alábbi bontásban:
+a) Sorszám
+
+b) Kötésnap (a):
+Az üzletkötés napja, megegyezik a jelentés tárgynapjával.
+c) Értéknap (b):
+Az üzlet értéknapja.
+d) Vételi deviza (c):
+A vásárolt deviza ISO kódja.
+e) Vételi összeg (d):
+A vásárolt deviza összege.
+f) Eladási deviza (e):
+Az eladott deviza ISO kódja.
+g) Eladott összeg (f):
+Az eladott deviza összege.
+h) Bankközi/ügyfél jelző (g):
+B: a partner hitelintézet
+E: a partner egyéb
+i) Külföldi/belföldi jelző (h):
+K: a partner nem-rezidens
+B: a partner rezidens
+j) Partner azonosítója (i):
+Ha a partner C: egyéb monetáris intézmények, D: egyéb pénzügyi közvetítők, E. Pénzügyi kiegészítő
+tevékenységet végzők, F: Biztosítók és nyugdíjpénztárak szektorok valamelyikébe tartozik és rezidens,
+akkor a törzsszámát kell megadni. A törzsszámokat az MNB honlapján található MNB rendelet 3. sz.
+mellékletének 1.1. pontjában szereplő lista tartalmazza. Ha a partner nem rezidens hitelintézet, vagy
+pénzintézet, a SWIFT-kódjának első nyolc karakterét kell jelenteni. A fel nem sorolt esetekben ha a
+partner rezidens, az 00000002, ha nem rezidens, az 00000001 azonosítót kell beírni.
+A szektor-meghatározások az MNB rendelet 2. sz. mellékletének A. pontjában találhatók.
+3. A megkötött üzletek pozícióját a kötés napjától az értéknapig a 03. Nyitott pozíciók tábla „g” azonnali
+pozíció oszlopában kell jelenteni.
+4. A valuta-deviza, valuta-valuta, valuta-forint konverziókat nem kell szerepeltetni.
+5. A swap üzletek induló lábát, valamint az overnight és a tom next swapok termin lábát –a teljesítés
+idejétől függetlenül - nem itt, hanem a határidős forgalmak között kell feltüntetni.
+Táblaszám: 06 - Határidős műveletek
+1. Itt kell szerepeltetni valamennyi határidős deviza/deviza, deviza/forint konverziós ügylet forgalmát az
+elszámolás módjától függetlenül. Az adatszolgáltató által a jelentés benyújtását megelőző napon kötött
+tranzakciókat kell lejelenteni szerződés szerinti értéken, az értéknap feltüntetésével. A swap termin
+üzletet a swap üzlet induló lábának jelentésével egyidejűleg kell szerepeltetni. Ebben a táblában kell
+szerepeltetni az overnight és a tom next swapok nyitó és termin lábaira vonatkozó forgalmi adatokat is.
+
+2. A forgalmat ügyletenként kell jelenteni az alábbi bontásban:
+a) Sorszám
+b) Kötésnap (a):
+Az üzletkötés napja.
+c) Értéknap (b):
+Az üzlet értéknapja. Újonnan kötött swap üzlet esetében az üzlet induló lábának értéknapja.
+d) Üzlettípus (c):
+TM: újonnan kötött termin, futures üzlet. OTC piacon és tőzsdén kötött határidős deviza vétel/eladás
+meghatározott áron, meghatározott időpontban, vagy időpontig. Az üzlet kötésének napjára vonatkozó
+jelentésben kell jelenteni, az értéknap megjelölésével.
+SW: újonnan kötött swap üzlet. A swap üzletek közül a deviza (FX) swapokat kell jelenteni. Deviza swap
+fogalmán egy adott devizaösszegre egy másik ellenében egyszerre és ugyanazon partnerrel kötött, két
+ellentétes irányú, különböző értéknapú konverziót értünk. Az üzlet kötésének napjára vonatkozó
+tárgynapon kell jelenteni, az induló és a termin lábra vonatkozó értéknapok megjelölésével. Itt kell
+jelenteni a kamatozó devizaswapok induló és termin lábát is.
+OV: opció vásárlásával keletkezett jog az opció eladójával (kiírójával) szemben egy bizonyos
+mennyiségű deviza egy másik devizával szembeni vételére vagy eladására egy előre meghatározott
+árfolyamon, előre meghatározott időpontban, vagy időpontig. Az üzlet kötésének napjára vonatkozó
+tárgynapon kell jelenteni, az értéknap megjelölésével.
+OE: opció kiírásával keletkezett kötelesség az opció vásárlójával szemben egy bizonyos mennyiségű
+deviza egy másik devizával szembeni vételére vagy eladására egy előre meghatározott árfolyamon, előre
+meghatározott időpontban, vagy időpontig. Az üzlet kötésének napjára vonatkozó tárgynapon kell
+jelenteni, az értéknap megjelölésével.
+e) Lejárat típusa (d):
+R: spot napnál nem későbbi
+S: spot napon túli, egy évnél nem későbbi
+H: éven túli
+A termin és opciós ügyletek lejáratát, illetve swap üzlet esetén a spot láb lejáratát kell figyelembe venni.
+f) Vételi deviza (e):
+A vásárolt deviza ISO kódja. Újonnan kötött swap üzlet esetében az induló lábat kell figyelembe venni.
+g) Vételi összeg (f):
+A vásárolt deviza összege. Újonnan kötött swap üzlet esetében az induló lábat kell figyelembe venni.
+h) Eladási deviza (g):
+Az eladott deviza ISO kódja. Újonnan kötött swap üzlet esetében az induló lábat kell figyelembe venni.
+i) Eladott összeg (h):
+Az eladott deviza összege. Újonnan kötött swap üzlet esetében az induló lábat kell figyelembe venni.
+j) Swap termin értéknap (i):
+Csak a swap üzletek esetében kell kitölteni. A swap termin lábának értéknapját kell itt jelenteni.
+k) Swap termin értéknap típusa (j):
+R: spot napnál nem későbbi
+S: spot napon túli, egy évnél nem későbbi
+H: éven túli
+A swap ügyletek termin lábának lejáratát kell figyelembe venni.
+
+l) Swap termin vételi összeg (k):
+Csak a swap üzletek esetében kell kitölteni. A swap termin lábának vételi összegét kell itt jelenteni.
+m) Swap termin eladási összeg (l):
+Csak a swap üzletek esetében kell kitölteni. A swap termin lábának eladási összegét kell itt jelenteni.
+n) Bankközi/ügyfél jelző (m):
+B: a partner hitelintézet
+E: a partner egyéb
+o) Külföldi/belföldi jelző (n):
+K: a partner nem-rezidens
+B: a partner rezidens
+p) Partner azonosítója (o):
+Ha a partner C: egyéb monetáris intézmények, D: egyéb pénzügyi közvetítők, E. Pénzügyi kiegészítő
+tevékenységet végzők, F: Biztosítók és nyugdíjpénztárak szektorok valamelyikébe tartozik és rezidens,
+akkor a törzsszámát kell megadni. A törzsszámokat az MNB honlapján található MNB rendelet 3. sz.
+mellékletének 1.1. pontjában szereplő lista tartalmazza. Ha a partner nem rezidens hitelintézet, vagy
+pénzintézet, a SWIFT-kódjának első nyolc karakterét kell jelenteni. A fel nem sorolt esetekben ha a
+partner rezidens, az 00000002, ha nem rezidens, az 00000001 azonosítót kell beírni.
+A szektor-meghatározások az MNB rendelet 2. sz. mellékletének A. pontjában találhatók.
+r) Üzletkötés helye (p):
+O: OTC
+T: Tőzsde
+s) Opciós díj (r):
+Az újonnan kötött opció (mind vett, mind eladott) opciós díját kell megadni, millió HUF-ban kifejezve.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: D11
+1: NEM REZIDENSEKKEL SZEMBEN KELETKEZETT ÉVEN TÚLI ÁLLAMI ÉS ÁLLAMILAG GARANTÁLT
+MAGÁN ADÓSSÁGRA VONATKOZÓ ADATSZOLGÁLTATÁS
+1. JELENTÉST ADÓ ORSZÁG 2.1. HITEL SZÁM 2.2. HITEL SZÁM A JELENTÉST ADÓ ORSZÁGBAN
+3. HITELFELVEVŐ INTÉZMÉNY PONTOS
+MEGNEVEZÉSE
+4. HITELFELVEVŐ INTÉZMÉNY TÍPUSA
+.. 1. Központi kormányzati szerv
+.. 2. Központi bank
+.. 4. Helyi önkormányzati szerv
+.. 6. Állami vállalat
+.. 7. Vegyes tulajdonú vállalat
+.. 8. Hivatalos fejlesztési bank
+.. 9. Magán vállalat
+5. GARANCIÁT VÁLLALÓ NEVE
+6. KÖLTSÉGVETÉST TERHELŐ
+.. IGEN .. NEM
+7. GAZDASÁGI SZEKTOR ÉS A
+HITELFELVÉTEL CÉLJA
+8. HITELSZERZŐDÉS TÍPUSA
+.. 0. Normál
+.. 1. Adósság szolg. teljesítésére felvett
+.. 2. Adósság átütem. céljából felvett
+.. 3. Egyéb (részletezve a megjegyz. rovatban)
+9. TŐKETÖRLESZTÉS
+1. Törlesztés módja (kérjük, hogy csak egyet
+jelöljön meg)
+.. 1. Egyenlő részletekben
+.. 2. Évente
+.. 3. Egy összegben
+.. 4. Egyéb (lásd a FORMA 1A-t)
+2. Törlesztés alapja (egyet jelöljön)
+.. Teljes hitelszerződés
+.. Lehíváson alapuló
+3. Ha a törlesztés lehíváson alapul
+a. Hónapok száma a lehívástól az első
+tőketörlesztésig.....................
+b. Az egyes lehívások tőketörlesztéseinek
+a száma..............................
+10. TŐKETÖRLESZTÉS DÁTUMA
+1. Első................. 2. Utolsó....................
+3. Törlesztések száma évenként.................
+11. KONSZOLIDÁCIÓS PERIÓDUS
+......................TÓL ...............................-IG
+(Töltse ki a FORMA 1A 3. oszlopát a minden
+évben átütemezett összegekkel)
+12. HITELNYÚJTÓ PONTOS MEGNEVEZÉSE,
+TELEPHELYE
+12.1. A HITELNYÚJTÁSÉRT GARANCIÁT
+VÁLLALÓ INTÉZMÉNY NEVE
+13. A HITELNYÚJTÓ ORSZÁG
+14. HITELNYÚJTÓ TÍPUSA
+.. 1. Exportőr
+.. 2. Bank, ill. egyéb hitelintézet
+.. 4. Nemzetközi szervezet
+.. 5. Kormány, ill. állami vállalat/intézmény
+.. 6. Kötvény
+.. 8. Államosításhoz kapcsolódó hitelek
+15. SZERZŐDÉS KELTE
+16. SZERZŐDÉS SZERINTI ÖSSZEG
+....................................................amelyből
+1. ..............................átütemezett tőkehátralék
+2. ..............................átütemezett kamathátralék
+3. ..............................átütemezett lejárat
+4. ..............................átütemezett kamat
+5. ..............................átütemezett rövid lejárat
+6. ..............................átütemezett magán nem
+. garantált hitel
+17. DEVIZANEM
+1. Jelentés................
+2. Törlesztés................
+18. KAMAT FIZETÉS MÓDJA VAGY ALAPJA
+1. Kamatmentes
+2. A kamat összegét a tőke össz. tartl.
+3. Fix kamatláb/kamatlábak
+4. Változó kamatláb/kamatlábak
+5. Egyéb (lásd FORMA 1A-t)
+Ha a kamatlábak változóak
+6. Első bázisa................
+7. Második bázisa.........
+19. KAMATLÁBAK ILLETVE MARGE
+1. Első fix ............% 3. Második fix...........%
+kamatláb kamatláb
+2. Első vál-...........% 4. Második vál-.........%
+tozó marge tozó marge
+20. KAMATFIZETÉS IDŐPONTJA
+1. Első ................... 2. Utolsó ....................
+3. Az évenkénti fizetések száma:...................
+4. a 19.3 vagy a 19.4 kamatszámításnál
+figyelembe veendő dátumok
+21. RENDELKEZÉSRE TARTÁSI JUTALÉK
+(Kamatláb %)
+22. MEGJEGYZÉS
+
+MNB adatgyűjtés azonosító: D12
+1.A.: NEM REZIDENSEKKEL SZEMBEN KELETKEZETT ÉVEN TÚLI ÁLLAMI ÉS
+ÁLLAMILAG GARANTÁLT MAGÁN ADÓSSÁG
+ÁTÜTEMEZÉSI, TÖRLESZTÉSI ÉS KAMATFIZETÉSI ÜTEMEZÉSE
+1. Jelentést adó ország: 2. Hitel szám:
+3. Devizanem 4. Törlesztőterv jellege Eredeti Módosított
+......... ............
+Dátum Átütemezett összeg (3) Becsült jövőbeni fizetések
+Hónap (1) Év (2) tőke (4) kamat (5)
+Megjegyzések:
+
+MNB adatgyűjtés azonosító: D13
+2: NEM REZIDENSEKKEL SZEMBEN KELETKEZETT ÉVEN TÚLI ÁLLAMI ÉS
+ÁLLAMILAG GARANTÁLT MAGÁN
+ADÓSSÁGRA VONATKOZÓ ADATSZOLGÁLTATÁS
+Állományok és évközi műveletek
+1. Jelentést adó ország:
+2. Beszámolási időszak vége (év,
+hó)
+Sorsz. Megnevezés
+02 Hitel szám
+03 Devizanem
+ÁLLOMÁNYOK ÉS
+MŰVELETEK
+010 Fennálló
+adósságállomán
+y.
+100 Lehívatlan
+állomány
+200 Tőkehátralék
+300 Kamathátralék
+400 Szerződés
+szerinti összeg
+500 Lehívás
+600 Törlés
+700 Leírás
+800 Törlesztett tőke
+900 Kifizetett kamat
+30R Átütemezett
+tőkehátralék
+20R Átütemezett
+kamathátralék
+80R Átütemezett
+tőke
+90R Átütemezett
+kamat
+
+MNB adatgyűjtés azonosító: D14
+3: NEM REZIDENSEKKEL SZEMBEN KELETKEZETT ÉVEN TÚLI KÜLFÖLDI
+ADÓSSÁGRA VONATKOZÓ ADATSZOLGÁLTATÁS
+(1. és 2. számú táblázatok módosítása)
+1. Jelentést adó ország:
+2. Jelentés készítés dátuma)
+Hitelszám (1)
+1/
+Beszámolási időszak
+(2)
+Tétel vagy oszlop leírása
+(3)
+2/
+Módosított adatok (4)
+1/ FORMA 2 esetén a módosítandó formanyomtatvány dátumát kérjük beírni.
+2/ Amennyiben összegről van szó, kérjük a jelentett devizanemet feltüntetni.
+Megjegyzések:
+
+MNB adatgyűjtés azonosító: D15
+4: NEM REZIDENSEKKEL SZEMBEN KELETKEZETT ÉVEN TÚLI NEM GARANTÁLT MAGÁN ADÓSSÁGRA VONATKOZÓ ADATSZOLGÁLTATÁS
+1. JELENTÉST ADÓ ORSZ ÁG
+2. HITELFELVEVŐ TÍPUSA (csak egyet jelöljön)
+o bankok o működőtőkével létrehozott társaságoko egyéb
+3. BESZ ÁMOL ÁSI IDŐSZAK
+A. ÁLLOM ÁNYOK ÉS MŰVELETEK
+HITELNYÚJTÓ TÍPUSA
+IDŐSZAK
+KEZDETE
+BESZ ÁMOLÁSI IDŐSZAK ALATTI MŰVELETEK BESZ ÁMOLÁSI IDŐSZAK VÉGE
+(1) Fennálló adósság
+állomány (2)*
+Lehívások
+(3)
+Törlesztett
+tőke (4)
+Kifizetett
+kamat (5)
+Á tütemezett tőke
+(6)
+Á tütemezett
+kamat (7)
+Fennálló adósság
+állomány (8)**
+Tőkehátralék
+(9)
+Kamat
+hátralék
+(10)
+BANKOK ÉS EGYÉB HITELINTÉZETEK
+KÜLFÖLDI ANYA- ÉS LE ÁNYV ÁLLALATOK
+EXPORTŐRÖK ÉS EGYÉB MAG ÁN HITELNYÚJTÓK
+KORM ÁNY, ILLETVE ÁLLAMI VÁLLALAT,
+NEMZETKÖZI SZERVEZET
+ÖSSZESEN:
+B. BECSÜLT JÖVŐBENI TŐKE ÉS KAMAT FIZETÉSEK TŐKE
+HITELNYÚJTÓ TÍPUSA
+20- 20- 20- 20- 20- 20- 20- 20- 20- 20- 20-
+után
+(1)
+BANKOK ÉS EGYÉB HITELINTÉZETEK
+KÜLFÖLDI ANYA ÉS LE ÁNYV ÁLLALATOK
+EXPORTŐRÖK ÉS EGYÉB MAG ÁN HITELNYÚJTÓK
+KORM ÁNY, ILLETVE ÁLLAMI VÁLLALAT,
+NEMZETKÖZI SZERVEZET
+ÖSSZESEN:
+KAMAT
+HITELNYÚJTÓ TÍPUSA
+20- 20- 20- 20- 20- 20- 20- 20- 20- 20- 20-
+után
+(1)
+BANKOK ÉS EGYÉB HITELINTÉZETEK
+KÜLFÖLDI ANYA- ÉS LE ÁNYV ÁLLALATOK
+EXPORTŐRÖK ÉS EGYÉB MAG ÁN HITELNYÚJTÓK
+KORM ÁNY, ILLETVE ÁLLAMI VÁLLALAT,
+NEMZETKÖZI SZERVEZET
+ÖSSZESEN:
+* Az előző év záróállományaival egyezően
+** A fizetési mérleg statisztika 56 C, 69 C, és 49 C típusainak összegével egyezően. ( Az M08.02 táblázatban közölt hitelek adatait — 698-as típus — a Fizetési mérleg osztály a hitelfelvevő banknál veszi figyelembe.)
+
+MNB adatgyűjtés azonosítók: D11, D12, D13, D14, D15
+KITÖLTÉSI ÚTMUTATÓ
+Éven túli külföldi adósságra vonatkozó adatszolgáltatás
+1., 1.A., 2., 3., 4. sz. táblák
+I. Általános tudnivalók
+Az éven túli külföldi adósságra vonatkozó jelentéseknél a Világbank által - valamennyi
+tagországra - kialakított táblagarnitúrákat vettük figyelembe. A hitelfelvételek mellett a
+külföldi kötvénykibocsátásokat és az Önöknél elhelyezett éven túli betéteket is jelenteni
+kell. A nemleges jelentést is be kell küldeni. Nemleges jelentés esetén elegendő a
+kísérőlevél, a táblák megküldésétől eltekintünk.
+Az 1.,1A.. táblákat az állami szektor és az állam által garantált magán adósságra
+negyedévente tételesen, a 2. táblát évente egyszer, az éves zárás után, a 3. táblát pedig az
+előbbi nyomtatványok adatainak módosítására kell kitölteni. Az állami szektor hiteleiről
+akkor beszélünk, ha a hitelfelvevő:
+– a kormány vagy a kormányzati szervek és a többségi tulajdonukban lévő
+intézmények, mint ÁPV Rt., MFB Rt., Eximbank, Postabank, Rákóczi Bank a
+decentralizált alapok, valamint a Nyugdíjbiztosítási és Egészségbiztosítási
+Alapok,
+– önkormányzatok, mint megye, város és ezek intézményei,
+– központi bank
+– többségi állami tulajdonban lévő közmű vállalatok.
+A magánszektor állam által garantált adóssága akkor keletkezik, ha magánszemély, vállalat
+vagy bank (az előzőekben fel nem soroltak) adósságszolgálatára (tőketörlesztés,
+kamatfizetés) a fentiekben meghatározott állami szektor garanciát vállal. Amennyiben a
+garanciavállalás csak az átváltásra vonatkozik, a többi magánadóssággal együtt a 4. táblán
+kell jelenteni.
+A 4. táblán a nem állami szektorba tartozó bankoknak a saját külfölddel szemben fennálló
+éven túli tartozásáról évente egyszer, összevontan kell jelentést adni. A magánszemélyek,
+illetve a vállalkozói szektor hiteleit a bankoknak a nyomtatványokon nem kell jelenteni.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának
+módja
+1. tábla
+Az újonnan, nem rezidensekkel szemben keletkezett állami és az állam által garantált magán
+adósságról kell jelentést készíteni, és a tárgynegyedévet követő 20 napon belül megküldeni.
+
+1. Jelentést adó ország (Magyarország).
+2.1. Hitel száma. Azonosításra szolgáló szám, amelyet a későbbiek folyamán a 1A, 2 és 3
+lapokon is alkalmazni kell. A hitelszám a szerződéskötés évéből és az MNB Statisztikai
+Főosztály fizetési mérleg osztályával egyeztetett sorszámból áll.
+2.2. Hitel száma a jelentést adó országban: Bankon belüli azonosításra szolgál, ha van ilyen.
+3. A hitelfelvevő intézmény/intézmények pontos megnevezése.
+4. A hitelfelvevő intézmény/intézmények típusa.
+A hitelfelvevő intézményt a következő típusok szerint kell besorolni:
+1. Központi költségvetés, a kormány vagy annak valamelyik szerve.
+2. Központi bank.
+4. Helyi önkormányzati szerv (állam, megye, város).
+6. Állami szervezet, mely teljes egészében állami tulajdonban van (akár gazdálkodó
+szervezet, akár hitelintézet).
+7. Vegyes tulajdonú vállalat, mely legalább 50%-ban (de kevesebb, mint 100%-ban)
+állami tulajdonban van. Itt kell jelenteni az ennek megfelelő tulajdonosi struktúrával
+rendelkező hitelintézetet is.
+8. Fejlesztési bankok. Hosszú lejáratú hitelek nyújtására specializálódott, betéttel nem
+foglalkozó hitelintézet.
+9. Magánvállalat. Ide tartoznak azok a gazdálkodó szervezetek, ahol az állami tulajdon
+aránya nem éri el az 50%-ot, de adósságszolgálatáért egy állami szervezet garanciát
+vállal.
+5. A garanciát vállaló intézmény neve.
+Amennyiben az adósság visszafizetésére az állami testületek garanciát vállalnak (nemcsak a
+szükséges deviza biztosítására), úgy a garanciát vállaló intézmény nevét itt kell feltüntetni (pl.
+PM).
+6. Az adósságszolgálat (tőke- és kamatfizetés) közvetlenül a központi költségvetést terheli-e:
+1. igen, 2. nem.
+7. Gazdasági szektor és a hitelfelvétel célja.
+(Projekt finanszírozás, importfizetés, adósságszolgálat, stb.) Projekt finanszírozás esetén a
+projektet meg kell nevezni és megjelölni azt a statisztikai besorolás szerinti népgazdasági
+ágazatot (gazdasági szektort), amelyikbe a projekt tartozik.
+8. A hitelszerződés típusa: (csak egyet jelöljön meg).
+0. Normál - ide tartozik minden hitelfelvét az adósság szolgálat teljesítésére felvett hitelek
+kivételével.
+1. Adósságszolgálat teljesítésére felvett hitelek.
+2. Adósság-átütemezés céljából felvett hitelek.
+3. Egyéb (”Megjegyzések” rovatban specifikálni kell).
+9. A tőketörlesztés.
+1. módja: (csak egyet jelöljön meg)
+
+1. Egyenlő részletekben,
+2. Évente,
+3. Egy összegben,
+4. Egyéb (az 1.A.sz. táblán részletezve).
+2. alapja: (csak egyet jelöljön meg)
+- teljes hitelszerződés
+- lehíváson alapuló.
+3. Amennyiben a tőketörlesztés lehíváson alapul, itt kell megadni a tőketörlesztések számát
+a lehívástól az első tőketörlesztésig, valamint a tőketörlesztések számát.
+10. A tőketörlesztés dátuma:
+1. első törlesztés dátuma
+2. utolsó törlesztés dátuma
+3. az évente esedékes törlesztések száma.
+11. Konszolidációs periódus.
+Ezt a pontot csak átütemezés esetén kell kitölteni. Ilyenkor meg kell adni a törlesztés
+eredeti és az új dátumát is. (1.A.sz. táblán részletezve.)
+12. A hitelnyújtó pontos megnevezése.
+Szindikált hitel esetén itt a hitelszervezőt kell feltüntetni, a ”Megjegyzések” pontban
+pedig le kell írni, hogy a hitelnyújtásban mely országok vesznek részt.
+12.1. A hitelnyújtásért garanciát vállaló intézmény neve (ha van ilyen).
+13. A hitelnyújtó intézmény telephelyének megnevezése.
+A hitelnyújtó országát itt kell feltüntetni, amennyiben pl. egy japán bank londoni
+egysége (fiókja) nyújtja a hitelt, azt brit hitelnyújtásként kell szerepeltetni. Ha a
+hitelezésben több ország vesz részt, pl. Euro-kötvény, akkor ide a ”multiple” szót kell
+beírni. Amennyiben a hitelnyújtó nemzetközi szervezet, nem kell országot megnevezni.
+14. A hitel illetve a hitelnyújtó típusa.
+1. Exportőr (kereskedelmi hitel),
+2. Bank vagy egyéb hitelintézet,
+4. Nemzetközi szervezet (Ide tartoznak a kormányközi szervezetek. Az IMF, a Világ-
+bank és annak társintézményei (IDA) által nyújtott hiteleket kivéve),
+5. Kormányzat vagy állami vállalat/intézmény (kormányzati szektor, központi bank,
+állami vállalatok),
+6. Kötvény,
+8. Államosításhoz kapcsolódó hitelek (csak azok a kötvények és egyéb értékpapírok,
+amelyeket az államosított tulajdon eredeti tulajdonosai számára bocsátottak ki).
+15. A szerződés kelte.
+16. A szerződés szerinti összeg.
+(kamatok nélkül, kötvényeknél a névérték)
+Az összeget JPY és ITL esetén millió, egyébként ezer devizában kell feltüntetni.
+
+1. átütemezett tőkehátralék
+2. átütemezett kamathátralék
+3. átütemezett lejárt összeg
+4. átütemezett kamat
+5. átütemezett rövid lejáratú
+6. átütemezett magán nem garantált adósság.
+17.1 A jelentés devizaneme.
+17.2 A törlesztés devizaneme.
+Ha a visszafizetés több fajta devizában történik, ide a ”multiple” szót kell beírni és a
+”Megjegyzések” pontban kell a részleteket megadni.
+18. A kamatfizetés módja vagy alapja:
+a) Kamatmentes,
+b) A kamat összegét a tőke összege tartalmazza,
+c) Fix kamatláb/-ak,
+d) Változó kamatláb/-ak,
+e) Egyéb (az 1.A.sz. táblán részletezve),
+Változó kamatláb esetén az első és második bázist is meg kell adni.
+19. Kamatlábak, illetve marge.
+1. Első fix kamatláb
+2. Első változó marge
+3. Második fix kamatláb
+4. Második változó marge
+Több kamatláb, illetve marge esetén valamennyit be kell írni.
+20. A kamatfizetés időpontjai.
+1. A kamatfizetés első dátuma (hó, év)
+2. A kamatfizetés utolsó dátuma (hó, év)
+3. Az évente esedékes kamatfizetések száma
+4. A 19.3. vagy a 19.4. pontok életbelépésének dátumai.
+21. Rendelkezésre tartási jutalék (%).
+Az egyéb jutalékokat a ”Megjegyzések” között kell feltüntetni.
+22. Megjegyzések
+A következőket kell itt jelenteni:
+1. Azt a tényt, hogy a szerződés szerint az állami testületek garanciát vállalnak arra, hogy-
+ha szükséges biztosítják az adósság visszafizetéséhez szükséges devizát,
+2. A hitelszerződés típusát, amennyiben a 8. pontban azt az ”Egyéb” kategóriába sorolták,
+3. Szindikált hitelnyújtás esetén a hitelnyújtásban résztvevő országokat,
+4. Amennyiben a visszafizetés többfajta devizában történik a részletezést itt kell megadni,
+5. A rendelkezésre tartási jutalékon kívüli egyéb jutalékokat,
+6. Minden egyéb, a hitelfelvétellel kapcsolatos, hasznosnak tartott megjegyzést.
+
+1.A. tábla
+Ennek a táblának a célja, hogy lehetővé tegye a bank számára a jövőben esedékes tőke- és
+kamatfizetések előrejelzését abban az esetben, ha a nem szabályos időszakonkénti törlesztések
+az automatikus előrejelzést lehetetlenné teszik.
+Ezért ezt a táblát minden olyan esetben ki kell tölteni, amikor a 1-en a 9.1.4 és a 18.5 pontot
+jelölték be.
+Használatos ez a tábla a több éves átütemezési szerződések esetén is, amikor a 1-ben
+jelentett, teljes átütemezendő összeget éves összetevőkre bontják le.
+1. sor. Jelentést adó ország (Magyarország).
+2. sor. Hitel száma (egyezően a 1 táblán megadottal).
+3. sor. Devizaneme (egyezően a 1.sz. tábla 17.1. pontjában megadottal).
+4. sor. A törlesztőterv jellege.
+Amennyiben az első eset, hogy a kérdéses hitellel kapcsolatos törlesztőterv bizonylat
+benyújtásra kerül, akkor az ”eredeti”, ha egy előzetesen már benyújtott 1.A.
+sz. tábla kerül módosításra, akkor a ”módosított” megjelölés alkalmazandó.
+1.,2. oszlop. Dátum (hónap, év).
+Ebben az oszlopban a későbbi oszlopokban megjelölt fizetések esedékessé válásának
+dátumát kell megadni.
+3. oszlop. Átütemezett összeg.
+Az ebben az oszlopban az összegek együttes összegének meg kell egyezni a 1 tábla
+16. pontjában megadott összeggel.
+4. oszlop. Becsült jövőbeni tőke fizetés.
+Ezt az oszlopot csak akkor kell kitölteni, ha a visszafizetési terv rendhagyó (azaz 1
+tábla 9.1.4. pontja jelölésre került). Az oszlopban megadott együttes összeg a 1 16.
+pontjában megadottal egyező. Ha nem lehetséges a tőke és a kamat fizetés
+szétválasztása (egyezően a 1 tábla 18.2. pontjában megadottal), akkor az együttes
+összeget itt kell megadni és az 5. oszlopot üresen kell hagyni.
+5. oszlop. Becsült jövőbeni kamat fizetés.
+Az 1.,2 oszlopban megjelölt dátumkor esedékes kamat és egyéb költségeket kell
+megadni. A 1 tábla 18.5. sorának jelölése esetén töltendő ki.
+
+2. tábla
+Az adott évben nem rezidensekkel szemben fennálló állami és garantált magán adósság
+állományi és forgalmi adatairól évente egyszer készülő jelentés. Benyújtási határidő: február
+28.
+1. sor. Jelentést adó ország (Magyarország).
+2. sor. Beszámolási időszak.
+02. sor. Hitel száma (egyezően a 1 táblán megadottal).
+03. sor. Devizaneme (egyezően a 1 tábla 17.1. pontjában megadottal).
+010. sor. Fennálló adósságállomány.
+A beszámolási időszak végén fennálló adósságállomány. Kötvények esetén a nominál
+érték. Az összegnek tartalmaznia kell a tőkehátralékot, ha van ilyen (200.sor).
+Korábban is jelentett hitelek esetén: A jelenleg fennálló adósságállomány előző éves
+jelentésben szereplő fennálló adósságállomány (az előző évi 2-nek a 010-es sora +
+lehívások (500.sor.) - tőketörlesztés (800.sor.) - leírás (700.sor.).
+100. sor. Lehívatlan állomány.
+A beszámolási időszak végén a szerződésben szereplő összeg azon része, amely még
+nem került lehívásra. A már korábban is jelentett hitelek esetén: A jelenleg lehívatlan
+állomány (100.sor.) = előző éves jelentésben szereplő lehívatlan állomány (az előző
+évi 2-nek 100. sor) + szerződés szerinti új összeg (400.sor.) - lehívások (500.sor.) -
+törlések (600.sor.).
+200. sor. Tőkehátralék.
+A halmozódó esedékes, de ki nem fizetett tőke összege, amelyet nem kell levonni a
+fennálló adósságállományból (010.sor.).
+300. sor. Kamathátralék.
+A halmozódó esedékes, de ki nem fizetett kamat összege.
+400. sor. Szerződés szerinti összeg.
+A beszámolási időszak alatt szerződött összeg nagysága (egyezően az 1.sz. tábla 16.
+pontjában megadottal).
+500. sor. Lehívás.
+A beszámolási időszak alatt lehívott összeg nagysága.
+600. sor. Törlés.
+A beszámolási időszak alatt törlésre került összeg nagysága, amely a lehívatlan
+állományt csökkenti.
+700. sor. Leírás.
+A beszámolási időszak alatt leírásra került összeg nagysága, amely a fennálló
+adósságállományt csökkenti.
+
+800. sor. Törlesztett tőke.
+A beszámolási időszak alatt törlesztett tőke nagysága.
+900. sor. Kifizetett kamat.
+A beszámolási időszak alatt kifizetett kamat és egyéb költség nagysága.
+20R. sor. Átütemezett tőkehátralék.
+Az előző beszámolási időszak végéig összegyűlt tőkehátralék összege, amely jelenleg
+átütemezésre került.
+30R. sor. Átütemezett kamathátralék.
+Az előző beszámolási időszak végéig összegyűlt kamathátralék összege, amely
+jelenleg átütemezésre került.
+80R. sor. Átütemezett tőke.
+A jelenlegi beszámolási időszak alatt esedékessé váló tőketörlesztés összege, amely
+átütemezésre került.
+90R. sor. Átütemezett kamat.
+A jelenlegi beszámolási időszak alatt esedékessé váló kamatfizetés összege, amely
+átütemezésre került.
+3. tábla
+A garantált hitelfelvételek 1. és 2. számú nyomtatványain jelentett egyes adatok
+módosítására szolgál, amelyet folyamatosan kérünk készíteni és negyedévente a 1., 1.A.
+nyomtatványokkal együtt benyújtani.
+1. sor. Jelentést adó ország (Magyarország).
+2. sor. Jelentés készítés dátuma.
+1. oszlop. Hitel száma.
+2. oszlop. Beszámolási időszak, hónap, év.
+Csak a 2. sz. tábla módosítása esetén töltendő ki.
+3. oszlop. Tétel vagy oszlop leírása.
+Annak az eredeti 1. vagy 2. sz. táblán jelentett tételnek vagy oszlopnak a címét vagy
+leírását kell megadni, amelyik tétel vagy oszlop módosításra került.
+4. oszlop. Módosított adat.
+Az eredeti táblákon megadott adatokat itt kell módosítani és a módosított adatot beírni.
+Amennyiben ez egy összeg, akkor a jelentés devizanemét is fel kell tüntetni.
+
+4. tábla
+A nem-garantált magán adósságról évente kell a jelentést elkészíteni és február 28-ig
+benyújtani. Az összeget ezer USD-ben kell feltüntetni, az eltérő devizanemű összegeket
+állományok esetén a beszámolási időszak utolsó napján érvényes devizaközép árfolyamon,
+illetve a forgalom esetén az éves átlagos hivatalos devizaközép árfolyamon átszámolva.
+1. sor. Jelentést adó ország.
+2. sor. Hitelfelvevő megnevezése.
+Bankok, külföldi működőtőkével létrehozott társaságok, egyéb, az előző két
+kategóriába nem sorolható vállalatok.
+3. sor. Beszámolási időszak.
+A. rész. Jelenlegi helyzet és a beszámolási időszak alatti ügyletek.
+1. oszlop. A hitelnyújtó típusa.
+- bankok és egyéb hitelintézetek
+- anya- és leányvállalatok
+- exportőrök és magán hitelnyújtók
+- korm., illetve állami vállalatok, nemzetközi szervezetek.
+2. oszlop. Fennálló adósságállomány.
+A beszámolási időszak elején fennálló adósságállomány.
+Előző év dec. 31-i hivatalos devizaközép árfolyamon számítva.
+3. oszlop. Lehívások.
+A beszámolási időszak alatt lehívott összeg nagysága.
+Éves átlagos hivatalos devizaközép árfolyamon számítva.
+4. oszlop. Törlesztett tőke.
+A beszámolási időszak alatt törlesztett tőke nagysága.
+Éves átlagos hivatalos devizaközép árfolyamon számítva.
+5. oszlop. Kifizetett kamat.
+A beszámolási időszak alatt kifizetett kamat.
+Éves átlagos hivatalos devizaközép árfolyamon számítva.
+6. oszlop. Átütemezett tőke.
+A jelenlegi beszámolási időszak alatt esedékessé váló tőketörlesztések összege, amely
+átütemezésre került.
+Éves átlagos hivatalos devizaközép árfolyamon számítva.
+7. oszlop. Átütemezett kamat.
+A jelenlegi beszámolási időszak alatt esedékessé váló kamat és egyéb költség fizetés
+összege, amely átütemezésre került.
+Éves átlagos hivatalos devizaközép árfolyamon számítva.
+
+8. oszlop. Fennálló adósságállomány.
+A beszámolási időszak végén fennálló adósságállomány. (A tőkehátralék beszámít).
+Tárgyév dec. 31-i hivatalos devizaközép árfolyamon számítva.
+9. oszlop. Tőkehátralék.
+A halmozódó, beszámolási időszak végén esedékes tőke összege, amely sem
+törlesztésre, sem átütemezésre nem került.
+10. oszlop. Kamathátralék.
+A halmozódó, beszámolási időszak végén esedékes kamat és egyéb költség összege,
+amely sem kifizetésre, sem átütemezésre nem került.
+B. rész. Becsült jövőbeni tőketörlesztések és kamatfizetések.
+- Tőketörlesztés
+A beszámolási időszakot követő első 10 évre kell a tőketörlesztés összegét megadni. Az
+utolsó oszlopba a fennmaradó összeget kell beírni.
+A teljes tőketörlesztésnek meg kell egyeznie a jelenlegi beszámolási időszak végén fennálló
+adósságállománnyal (8. oszlop.).
+- Kamatfizetés
+A beszámolási időszakot követő első 10 évre kell a kamatfizetések összegét megadni. Az
+utolsó oszlopba a fennmaradó összeget kell beírni.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: postai úton
+A beküldés formája: papíron
+Az adatszolgáltatás címzettje: MNB Statisztikai főosztály Fizetési mérleg osztály
+
+MNB adatgyűjtés azonosító: E04
+Napi jelentés a forint értékpapír állományokról
+Az adatok: forintban, teljes összegben, kerekítés nélkül
+01.tábla
+Sor- Intézmény Értékpapír típusa** Értékpapír azonosítója Saját/Idegen*** Állomány összesen Nem-rezidens
+szám típus* törzsszám név (ISIN kód)
+a b c d e f g h
+
+...
+...
+*/ 1: hitelintézet, 2: bróker, 3: Magyar Államkincstár, 4: Magyar Nemzeti Bank, 5: külföldi intézmények
+**/ A: államkötvény, K: kincstárjegy, E: egyéb értékpapír, M: MNB kötvény
+***/ S: saját, I: idegen
+02.tábla
+Sor- Intézmény Alszámla besorolása**** Értékpapír típusa***** Értékpapír azonosítója Állomány összesen
+szám típus* törzsszám*
+*
+név*** (ISIN kód)
+a b c d e f g
+
+...
+...
+*/ 3
+****/ 00: MÁK saját alszámlája 01: ügyfelek alszámlája 02: ÁKK alszámlája
+*****/ A: államkötvény, K: kincstárjegy, E: egyéb értékpapír, M: MNB kötvény
+**/ A MÁK KSH törzsszáma ***/ Magyar Államkincstár
+
+MNB adatgyűjtés azonosító: E04
+Kitöltési útmutató
+Napi jelentés a forint értékpapír állományokról
+I. Általános tudnivalók
+1. A jelentést az adatszolgáltatónak naponta kell benyújtania a forint államkötvény, kincstárjegy,
+MNB kötvény és egyéb értékpapír állományokról.
+2. A jelentésnek az értékpapír típusánál megjelölt papír tényleges, az értékpapírszámlákon lekönyvelt
+állományának adatait kell tartalmaznia.
+3. A jelentésben nem kell szerepeltetni a tárgynapon lejáró értékpapír állományokat.
+4. A jelentésben nem kell szerepeltetni a befektetési jegyek ún. "puffer" számláinak állományát.
+5. Hibás adatok javításának módja: abban az esetben, ha a beküldött jelentés hibás adatot tartalmaz, a
+hiba kijavítása után a teljes jelentést ismételten el kell küldeni.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla:
+Az adatokat intézménycsoportok, értékpapír típus, saját/idegen tulajdonú értékpapír szerinti, valamint
+állomány összesen és ebből nem-rezidens bontásban kell megadni.
+A tábla mezőinek leírása:
+1. Tárgynap: az üzlet elszámolási műveletének lebonyolítási napja.
+2. Intézménycsoportok:
+Típus= 1: hitelintézetek
+2: brókerek
+3: Magyar Államkincstár
+4: Magyar Nemzeti Bank
+5: külföldi intézmények (Clearstream, Euroclear, stb.)
+KSH törzsszám = az adószám 1-8 számjegye
+Név = a jelentésben szereplő intézmények teljes neve
+3. Értékpapír típusa: itt kell megadni az államkötvény, kincstárjegy, MNB kötvény, egyéb értékpapír
+megbontást.
+4. Értékpapír azonosítója: az egyes értékpapírok ISIN-kódját kell itt megadni.
+5. Saját/Idegen tulajdonú értékpapír: Saját, illetve idegen tulajdonú értékpapír megbontásban kell
+megadni az egyes papírok állományát.
+6. Á llomány összesen: az egyes intézmények által vásárolt, illetve letétkezelt teljes értékpapír
+állomány. Az adatokat névértéken, teljes összegben, kerekítés nélkül kell szerepeltetni.
+7. Nem-rezidens: a rezidens / nem-rezidens fogalmának meghatározását lásd az MNB rendelet 2. sz.
+mellékletének A/3. pontjában. Az adatokat névértéken, teljes összegben, kerekítés nélkül kell
+szerepeltetni.
+02.tábla:
+A Magyar Államkincstár alszámláin lévő értékpapírok állományát kell megadni.
+A tábla mezőinek leírása
+1. Tárgynap: az üzlet elszámolási műveletének lebonyolítási napja.
+2. Intézmény:
+ Típus: 3
+
+ Törzsszám: a Magyar Államkincstár KSH törzsszáma
+ Név: Magyar Államkincstár
+
+3. Az alszámla besorolása: 00: a Magyar Államkincstár saját
+alszámlája
+ 01: ügyfelek alszámlája
+ 02: az ÁKK alszámlája
+00 besorolással, a M ÁK saját alszámlájaként, a 000000 azonosítású számú alszámlához kapcsolódó
+állományokat kell jelenteni.
+02 besorolással, a M ÁK ÁKK alszámlájaként, a 000002 azonosítási számon nyitott alszámlán levő
+értékpapír állományokat kell megadni.
+01 besorolással a fennmaradó alszámlákon levő állományokat kell szerepeltetni.
+4. Értékpapír típusa: itt kell megadni az államkötvény, kincstárjegy, MNB kötvény, egyéb értékpapír
+megbontást.
+5. Értékpapír azonosítója: az egyes értékpapírok ISIN-kódját kell itt megadni.
+6. Á llomány összesen: az adatokat névértéken, teljes összegben, kerekítés nélkül kell szerepeltetni.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: E06
+A DVP értékpapír-számla transzfer és az elsődleges piaci ügyletek adatai
+Értékpapír-
+Érték-
+nap
+ISIN-
+kód
+Értékpapír
+rövid
+neve
+Értékpapír-
+fajta
+OTC-ügylet
+típusa
+OTC
+forrás kód sorozat jelleg
+Ügylet
+szereplői
+Hosszabbítás
+típusa
+Vissza-
+vásárlás
+dátuma
+Vissza-
+vásárlási
+ár (Ft)
+Névérték
+(Ft)
+Vételár
+(Ft)
+Á rfolyam
+(%)
+Sor-
+szám
+a b c d e f g h i j k l m n o p
+
+...
+…
+nnn
+
+MNB adatgyűjtés azonosító: E06
+Kitöltési útmutató
+A DVP értékpapír-számla transzfer és az elsődleges piaci ügyletek adatai
+I. Általános tudnivalók
+1. Az adatszolgáltatás a bruttó elvű DVP elszámolások közül a DVP értékpapír-számla transzfer és az elsődleges
+piaci ügyletek adatait tartalmazza ügyletenként.
+2. A táblában szereplő tételek közül az értéknapot, az ISIN-kódot, az értékpapír rövid nevét, az ügylet típusát
+(OTC típus), a visszavásárlás napját (reponál vagy passzív reponál), a névértéket (forintban), a vételárat (forintban) és az
+árfolyamot az “Elszámolási jegy” alapján kell feltüntetni.
+3. Az állampapírfajta, az értékpapírkód, a sorozat és a jelleg a KELER saját jelölései alapján töltendők ki.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja, az alkalmazott kódok
+1. Értékpapírok fajtái:
+0 Kötvény
+1 Államkötvény
+2 Hitelkonszolidációs kötvény
+3 Diszkont kincstárjegy
+4 Kamatozó kincstárjegy
+5 Egyéb külföldiek által vásárolható állampapír
+9 Külföldi kibocsátás
+B Befektetési jegy
+R Részvény
+2. Az OTC-ügylet típusa:
+0 Prompt
+1 Repo
+2 Repo hosszabbítása
+3 Lejárt repo
+4 Szállításos repo
+5 Szállításos repo hosszabbítása
+8 Elsődleges kibocsátás
+3. OTC forrás:
+0 T. napi
+1 Lejárt repo
+2 Repo-hosszabbítás
+
+4. Az ügylet szereplői :
+1 Bróker-bróker
+2 Hitelintézet-bróker
+3 Hitelintézet-hitelintézet
+4 MNB-bróker
+5 MNB-hitelintézet
+5. Hosszabbítás típusa:
+0 teljes
+1 rész
+6. Visszavásárlási árat csak repo, illetve szállításos repo esetén kell megadni.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: E14
+Határidős részvényügyletek a BÉT-en
+01. tábla Napi forgalom a határidős* ...............-piacon
+Rezidens Nem rezidens
+Vétel Eladás Vétel Eladás
+Határidő
+(kontraktus) (kontraktus)
+Elszámolóár
+(pont, illetve
+forint)
+Sor-
+szám
+a b c d e f
+001 1. határidő
+002 2. határidő
+
+...
+...
+...
+nnn
+02. tábla Napi nyitott* ..........-pozíciók (a klíring után)
+kontraktus
+Rezidens Nem rezidens
+Határidő
+Vételi Eladási Vételi Eladási
+Sor-
+szám
+a b c d e
+001 1. határidő
+002 2. határidő
+
+...
+...
+...
+nnn
+*) Külön-külön táblát kell készíteni minden egyes határidős részvénytermékről (beleértve a BUX-ot)
+
+MNB adatgyűjtés azonosító: E14
+Határidős részvényügyletek a BÉT-en
+03. tábla A tőzsdenapon lezárt* ........-pozíciók
+kontraktus
+Rezidens Nem rezidens
+Határidő
+Vételi Eladási Vételi Eladási
+Sor-
+szám
+a b c d e
+001 1. határidő
+002 2. határidő
+
+...
+...
+...
+nnn
+04. tábla A nyitott pozíciókon keletkezett tőzsdenapi árkülönbözet
+forint
+Határidő Rezidens Nem rezidens
+Sor-
+szám a b c
+001 1. határidő
+002 2. határidő
+
+...
+...
+...
+nnn
+*) Külön-külön táblát kell készíteni minden egyes határidős részvénytermékről (beleértve a BUX-ot)
+
+MNB adatgyűjtés azonosító: E14
+Kitöltési útmutató
+Határidős részvényügyletek a BÉT-en
+I. Általános tudnivalók
+1. A rezidensek, illetve a nem-rezidensek meghatározásánál az e rendelet 2. mellékletének A pontjában leírtakat kell
+figyelembe venni.
+2. A táblák a rezidensek, illetve a nem rezidensek összevont adatait tartalmazzák (tehát brókerenkénti, illetve
+megbízónkénti adatok nem szerepelnek bennük).
+3. A határidőket arab számokkal kell megadni. Például 200403 jelenti 2004. márciust. Mindegyik határidő csak
+egyszer szerepelhet az egyes táblákban.
+4. Valamennyi, aktuálisan létező instrumentumot hiánytalanul szerepeltetni kell. A már létező instrumentumok
+elnevezése, kódja nem változhat.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+1. Összefüggések a 01. táblán belül:
+Minden határidőre külön-külön igaz, hogy az összes vétel (kontraktusban kifejezve) megegyezik az összes eladással
+(b+d = c+e).
+2. Összefüggések a 02. táblán belül:
+Minden határidőre külön-külön igaz, hogy az összes nyitott vételi pozíció (kontraktusban kifejezve) megegyezik az
+összes nyitott eladási pozícióval (b+d = c+e).
+3. A tőzsdenapon keletkezett árkülönbözet kiszámítása a tőzsdenapi és az előző napi elszámolóárak alapján történik.
+Az adatokat forintban kell megadni.
+4. Összefüggések a 04. táblán belül:
+Minden határidőre külön-külön igaz, hogy a rezidensek nyeresége egyenlő a nem rezidensek veszteségével, és
+fordítva. Tehát: b = -c.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: E20
+01. tábla Értékpapírok állománya tulajdonosi szektorok szerint
+(darab ill. ezer deviza)
+Rezidens ügyfelek tulajdonában lévő értékpapírok állománya szektoronként **
+Értékpapír-
+azonosító
+(ISIN-kód)
+Érték-
+papír neve
+Az állomány
+megfigye-
+lési egységé-
+nek kódja*
+Összes
+állomány
+Az adatszol-
+gáltató saját
+tulajdoná-
+ban lévő,
+nem általa
+kibocsátott
+állomány**
+Ügyfelek
+tulajdoná-
+ban lévő
+nem
+általuk
+kibocsátott
+állomány
+összesen**
+(A)
+Nem
+pénzügyi
+vállalatok
+(C)-ből
+Szövetke-
+zeti hitel-
+intézetek
+és pénzpi-
+aci alapok
+(D)
+Egyéb
+pénzügyi
+közvetítők
+(E)
+Pénzügyi
+kiegészítő
+tevékeny-
+séget
+végzők
+(F)
+Biztosítók,
+nyugdíj-
+pénztárak
+(G)
+Központi
+költség-
+vetés
+(H)
+Helyi
+önkor-
+mányzatok
+(I)
+Társada-
+lombiztosí-
+tási alapok
+(J)
+Háztartá-
+sok
+(K)
+Háztartá-
+sokat segí-
+tő nonpro-
+fit intéz-
+mények
+(L)
+Nem-
+rezidens
+ügyfelek
+tulajdoná-
+ban lévő
+érték-
+papírok
+állo-
+mánya**
+A
+kibocsátó
+tulajdoná-
+ban lévő,
+általa
+kibocsátott
+értékpapí-
+rok
+állománya
+Sor-
+szám
+a b c d=e+f+r e f=g+...+q g h i j k l m n o p q r
+
+…
+…
+…
+nn
+A zárójelben lévő nyomtatott nagybetűk az MNB által egységesen alkalmazott szektorkódokat jelentik.
+A tulajdonviszonyt megtestesítő értékpapírok állományát darabszám szerint, míg a hitelviszonyt megtestesítő értékpapírok (kötvények) állományát névértéken (ezer devizában) kell a táblában szerepeltetni.
+*/ Részesedést megtestesítő értékpapírok esetén DB, hitelviszonyt megtestesítő papíroknál a papír denominációjának deviza ISO-kódja.
+**/ Az értékpapír kibocsátójának tulajdonában lévő állományt nem szabad az e-q oszlopokban szerepeltetni. (Ezen állományok jelentésére az "r" oszlop szolgál.)
+
+MNB adatgyűjtés azonosító: E20
+03. tábla Nem-rezidensek tulajdonában lévő értékpapírok tulajdonosok szerinti országbontása
+(darab ill. ezer deviza)
+Értékpapír-azonosító
+(ISIN-kód)
+Értékpapír neve
+Az állomány
+megfigyelési
+egységének kódja*
+Ország
+ISO-kódja
+Értékpapír-állomány
+Sorszám
+a b c d e
+
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+nn
+A tulajdonviszonyt megtestesítő értékpapírok állományát darabszám szerint, míg a hitelviszonyt megtestesítő értékpapírok (kötvények) állományát
+névértéken (ezer devizában) kell a táblában szerepeltetni.
+*/ Részesedést megtestesítő értékpapírok esetén DB, hitelviszonyt megtestesítő papíroknál a papír denominációjának
+deviza ISO-kódja.
+
+MNB adatgyűjtés azonosító: E20
+04. tábla: Az adatszolgáltató jelentésében 111-es kóddal szereplő értékpapírok jellemzői
+Hivatkozott
+Táblaszám
+Hivatkozott
+Sorszám
+Értékpapír
+neve
+Értékpapír-
+azonosítók
+Értékpapír
+hosszú neve
+Kibocsátó
+neve
+Kibocsátó
+országa
+Kibocsátás
+dátuma
+Lejárat
+dátuma
+Denominá-
+ció
+Címletérték
+Jogviszony
+jellege
+Kamatláb
+Kamatozás
+típusa
+Kamatfize-
+tés dátuma
+Kamatfize-
+tési
+gyakoriság
+Első
+kamatfize-
+tés dátuma
+Tőke-
+törlesztések
+adatai
+Hozam/
+kamat/
+osztalék
+kifizeté-
+sének adatai
+Értékpapír-
+hoz
+kapcsolódó
+speciális
+jogok
+Sor-
+szám
+a b c d e f g h i j k l m n o p q r s t
+
+…
+…
+…
+nn
+
+MNB adatgyűjtés azonosító:E20
+05. tábla: Az adatszolgáltató által a KELER-számláitól* különböző helyen elhelyezett értékpapírok állománya
+Értékpapír-azonosító
+(ISIN-kód)
+Értékpapír neve Az állomány megfigyelési
+egységének kódja**
+Értékpapír állománya
+(darab ill. ezer deviza)
+Elhelyezés jogcímének kódja Értékpapír helye Értékpapír helyének
+törzsszáma
+Sorszám
+a b c d e f g
+
+…
+…
+nn
+A tulajdonviszonyt megtestesítő értékpapírok állományát darabszám szerint, míg a hitelviszonyt megtestesítő értékpapírok (kötvények) állományát névértéken (ezer devizában) kell a táblában szerepeltetni.
+* Összevont értékpapírszámla; Tőzsdei elszámolási értékpapírszámla; Biztosíték értékpapír letéti számla
+**/ Részesedést megtestesítő értékpapírok esetén DB, hitelviszonyt megtestesítő papíroknál a papír denominációjának deviza ISO-kódja.
+06. tábla: Más jelentő letétkezelő által az adatszolgáltatónál letétben elhelyezett értékpapírok állománya
+Értékpapír-azonosító
+(ISIN-kód)
+Értékpapír neve Az állomány megfigyelési
+egységének kódja*
+Értékpapír állománya
+(darab ill. ezer deviza)
+Elhelyezés jogcímének kódja Jelentő letétkezelő
+neve
+Jelentő letétkezelő
+törzsszáma
+Sorszám
+a b c d e f g
+
+…
+…
+nn
+A tulajdonviszonyt megtestesítő értékpapírok állományát darabszám szerint, míg a hitelviszonyt megtestesítő értékpapírok (kötvények) állományát névértéken (ezer devizában) kell a táblában szerepeltetni.
+*/ Részesedést megtestesítő értékpapírok esetén DB, hitelviszonyt megtestesítő papíroknál a papír denominációjának deviza ISO-kódja.
+
+MNB adatgyűjtés azonosító: E20
+Kitöltési útmutató
+A befektetési vállalkozások tulajdonában lévő, valamint a náluk letétbe helyezett (rezidensek és
+nem-rezidensek által kibocsátott) értékpapírok állománya, tulajdonosi bontásban
+I. Általános tudnivalók
+1. A jelentésben használt egyes fogalmak definiálása
+a) Értékpapír-sorozat: a tőkepiacról szóló 2001. évi CXX. törvényben ekként meghatározott fogalom.
+b) Jelentő letétkezelő: ezen adatgyűjtésben a jelentő letétkezelők körébe tartozik valamennyi rezidens befektetési
+vállalkozás, bank, szakosított hitelintézet, az ezen típusú EGT fióktelepek, valamint a Magyar Államkincstár. A jelentő
+letétkezelők körének listája megtalálható a Rendelet 3. sz. mellékletében.
+c) Letétkezelt értékpapír: Ezen jelentés keretében letétkezelt értékpapíron értjük az adatszolgáltatónál értékpapír-
+számlán, valamint értékpapír-letétkezelés, letéti őrzés, vagy felelős őrzés keretében elhelyezett értékpapírokat, abban az
+esetben is, ha az adatszolgáltató az értékpapírt máshol helyezte letétbe, letéti őrzésbe vagy értékpapír számlára
+(Részletesebben lásd II.1.a) pont: másodlagos letétkezelés).
+d) Másodlagos letétkezelés: Ezen adatgyűjtés keretében másodlagos letétkezelésről akkor beszélünk, ha egy jelentő
+letétkezelő a saját vagy ügyfele tulajdonában lévő értékpapírt
+– egy másik jelentő letétkezelőnek adja tovább letétkezelés (letéti őrzés, felelős őrzés) céljából, vagy
+– egy másik jelentő letétkezelő KELER - számláján tartja, úgy hogy – ügyfél tulajdonú papír esetén – az értékpapír
+eredeti tulajdonosával továbbra is ő (mint elsődleges letétkezelő) áll kapcsolatban.
+e) Tárgynap:
+– KELER Rt.-nél nyilvántartott értékpapírok esetében: a KELER Rt. szabályzata szerinti „Elszámoló nap”.
+– KELER Rt.-nél nem nyilvántartott értékpapírok esetében: a számviteli elszámolás időpontja.
+2. Az adatgyűjtésben szereplő értékpapírok köre
+a) Az adatgyűjtés a befektetési vállalkozások tulajdonában lévő, valamint a náluk letéti őrzés, letétkezelés, vagy felelős
+őrzés során elhelyezett (rezidensek, illetve nem-rezidensek által sorozatban kibocsátott) értékpapírok negyedév utolsó
+napjára (mint tárgynapra) vonatkozó záró állományát tartalmazza, tulajdonosi bontásban.
+b) A jelentésben valamennyi, sorozatban kibocsátott értékpapírt (államkötvény, MNB-kötvény, kincstárjegy, egyéb
+kötvény, részvény, beleértve a letéti igazolás formájában forgalmazott részvényeket is, befektetési jegy, kárpótlási jegy,
+jelzáloglevél, letéti jegy) szerepeltetni kell, függetlenül attól, hogy azt rezidens vagy nem-rezidens bocsátotta-e ki1,
+illetve hogy a kibocsátás külföldön, vagy belföldön történt-e. A táblákban a jelentett értékpapíroknak sorozatonként kell
+megjelenniük.
+c) A jelentésben a nyilvános és a zárt körben kibocsátott értékpapírokat egyaránt szerepeltetni kell.
+d) A saját tulajdonban lévő értékpapír-állomány teljes mennyiségét jelenteni kell, függetlenül attól, hogy az értékpapír
+fizikailag hol található (KELER Rt-nél, idegen helyen, saját trezorban). A letétkezelés, letéti őrzés, vagy felelős őrzés
+keretében az adatszolgáltatónál elhelyezett értékpapírokat szintén teljes mennyiségben jelenteni kell, még akkor is, ha
+az adatszolgáltató az értékpapírt máshol helyezte letétbe, vagy letéti őrzésbe (Részletesebben lásd II.1. 1.) pont:
+másodlagos letétkezelés). Az adatszolgáltatónál más jelentő letétkezelő által elhelyezett értékpapír-állományok a 01.
+táblában nem jelenhetnek meg.
+3. Az értékpapírok azonosítása és egyéb kérdések
+a) Az ISIN-kód alapvető szerepet játszik az adatgyűjtésben, ugyanis elsődleges értékpapír-azonosítóként alkalmazzuk.
+b) PSZÁF-kód: Ha valamelyik értékpapír esetleg nem rendelkezne ISIN-kóddal, akkor – és csak akkor – használható a
+PSZÁF által kiadott azonosító. A kódlista hozzáférhető a Felügyelet honlapján
+(http://external.pszaf.hu/infohu/uj/pszafisin.htm).
+1 A letéti igazolások aszerint minősülnek rezidens vagy nem-rezidens kibocsátásúnak, hogy a mögötte lévő részvény rezidens vagy nem-rezidens
+kibocsátású értékpapír-e.
+
+c) A 111-es gyűjtőkód: Ha az értékpapír sem ISIN-kóddal, sem PSZÁF–kóddal nem rendelkezik akkor „111”-et
+kérünk azonosító-kódként szerepeltetni. Ezeknél az értékpapíroknál (egy adott jelentő esetében) az „Értékpapír neve”
+mező szolgál egyedi azonosítóként: A 111-es kód alatt megjelenő értékpapír-sorozatoknál egymástól eltérő nevet kell
+alkalmazni, viszont ugyanannak a sorozatnak minden táblában tökéletesen megegyező néven kell szerepelnie.
+d) Azokról az értékpapírokról, amelyek a jelentésben 111-es kóddal szerepelnek a 04. táblában is kell leíró jellegű
+adatokat szolgáltatni.
+e) A letéti igazolások (ADR, EDR, GDR stb.) esetében a letéti igazolás saját ISIN-kódját kell megadni.
+4. Az értékpapír-állományok számbavétele
+Az értékpapír-állományokat a jelentés minden táblájában egységesen az alábbiak szerint kell jelenteni:
+a) A tulajdonviszonyt megtestesítő értékpapírok esetén az állományokat darabszám szerint kell a táblákban
+szerepeltetni, míg a hitelviszonyt megtestesítő értékpapírok (kötvények) névértéken kerülnek a jelentésbe ezer
+egységben, az értékpapír eredeti denominációjában. (az I.4.d.) pontban leírtak figyelembevételével)
+b) Ebben az adatszolgáltatásban tulajdonviszonyt megtestesítő értékpapíroknak tekintjük2 a részvényeket, valamint a
+befektetési alapok által kibocsátott befektetési jegyeket.
+c) A futamidő alatt is törlesztő kötvényeknél a táblákban a törlesztéssel korrigált névértéket kell jelenteni.3
+d) A GMU tagdevizákban denominált értékpapírokat úgy kell szerepeltetni az adatszolgáltatásban, mintha euróban
+lennének denominálva, az állományok értékét pedig az euró-tagdevizák euróhoz rögzített árfolyamai alapján kell
+meghatározni.
+e) A jelentés helyes kitöltése esetén a táblákban negatív állományok nem szerepelhetnek.
+f) Minden egyes értékpapír esetén4 az adatszolgáltató KELER-számláján (egyesített összevont értékpapírszámlán,
+biztosíték értékpapír letéti számlán) lévő állomány és ezen jelentés tábláiban szereplő állományok között a következő
+egyezőségnek kell fennállnia:
+KELER-számla állománya = 01. tábla állománya – 05. tábla állománya + 06. tábla állománya
+Ezt az összefüggést tekintjük a jelentés alapegyenletének.
+Az adatgyűjtés logikája és szerkezete
+Az adatgyűjtés fő táblája a 01-es, szektorok szerinti megoszlást mutató tábla, ehhez kapcsolódik a 03-as, nem-rezidens
+szektort országbontásban részletező tábla. A 04-06 táblák segédtáblák, amelyeknek döntően technikai szerepük van. A
+04-es tábla adatai a többi táblában egyedi ISIN-, vagy PSZÁF-azonosítóval nem rendelkező értékpapírok azonosítását
+teszi lehetővé. A 05 és 06 táblák biztosítják a 01-es táblában szereplő értékpapír-állományok teljeskürűségét és a
+duplikációk elkerülését. Lehetővé teszik továbbá, hogy a 01-es táblában jelentett összállományok összehasonlíthatóak
+legyenek a KELER-számla állományaival.
+5. Speciális kezelést igénylő esetek
+a) Másodlagos letétkezelés: Az értékpapírt a 01. táblában mindig az jelenti, aki az eredeti tulajdonossal letétkezelőként
+kapcsolatban van. Ezért többszörös letétkezelés esetén a következőket kell alkalmazni:
+Az a jelentő letétkezelő, akinél az értékpapírt tulajdonosa eredetileg elhelyezte, a 01-es és 05-ös táblában is jelenti az
+adott értékpapírt. A más jelentő letétkezelő által az adatszolgáltatónál elhelyezett értékpapírokat a 01. tábla kitöltésekor
+nem szabad szerepeltetni, ezek a 06-os táblába kerülnek. Előfordulhat olyan eset is, hogy az adatszolgáltató a más
+jelentő letétkezelőtől kapott értékpapírt továbbadja letétkezelésre egy újabb jelentő letétkezelőnek. Ekkor az adott
+értékpapír-állománynak a 06-os és 05-ös táblában egyaránt meg kell jelennie (a 01. táblában viszont értelemszerűen
+nem szerepelhet).
+b) Repó-ügyletek: Eladási és visszavásárlási megállapodások, amelyeknek két fajtáját különböztetjük meg ebben a
+jelentésben: az óvadéki és a szállításos repót. Óvadéki repó esetén az értékpapír vevője csak korlátozott rendelkezési
+jogot szerez, míg szállításos repó esetén a vevő teljes körűen rendelkezik a megvásárolt értékpapírok felett.
+2 A nemzetközi terminológiában „equity”-típusú értékpapírok.
+3 A jelentés összeállításakor a tárgynapi T761-es KELER–kivonatot kell használni, amely a névértékes állomány mellett tartalmazza a fennálló
+tőkeértékre vonatkozó információt is. A törlesztés napján már a csökkentett tőkeértéket kell jelenteni. Amennyiben a negyedév utolsó napja
+munkaszüneti napra esik, a tőke továbbvezetését ennek az „elméleti” vonatkozási időpontnak megfelelő állapotra kell elvégezni, tehát a jelentésben a
+korrigált értéknek kell szerepelnie.
+4 Azoknál a dematerializált értékpapíroknál, ahol a futamidő alatti tőketörlesztés miatt a kibocsátáskori és a fennálló névérték eltér egymástól, a
+KELER, az ügyfeleinek küldött számlakivonatain a kibocsátáskori névértéket szerepelteti. Ezen jelentésben az adatszolgáltatóknak ugyanakkor a
+fennálló névértéket kell jelenteni. Az ellenőrzési proceduráknál figyelemmel kell lenni arra, hogy a KELER-számla adatait a teljes egyezőséghez ezen
+papíroknál korrigálni kell. (A fizikai értékpapírok KELER-számlákon nyilvántartott névértéke a KELER-ben automatikusan korrigálásra kerül a
+tőketörlesztés összegével.)
+
+Ezen adatgyűjtés keretében az a lényeges szempont, hogy a repó-ügyletben szereplő értékpapírok kinek a birtokában
+vannak, ki rendelkezik felettük.
+c) Óvadéki repó-ügylet esetén a vevő az ügylet időtartama alatt az értékpapírral nem rendelkezik szabadon (pl. a
+KELER Rt-n keresztül végrehajtott ügyletek esetén az eladó számlájáról nem veszik le azt, csak zárolják), ezért az
+értékpapírt az eladó tulajdonaként kell jelenteni.
+d) Szállításos repó-ügylet esetén az értékpapír vevője tulajdonosi és birtokosi jogot is szerez az értékpapír fölött (pl. a
+KELER Rt-n keresztül végrehajtott ügyletek esetén az értékpapírokat a pénzügyi teljesítéssel egyidejűleg az eladó
+KELER Rt-nél lévő értékpapír-számlájáról transzferálják a vevő értékpapír-számlájára), ezért az értékpapír vevőjének
+kell jelentenie, az eladó viszont nem szerepeltetheti a jelentésében. (Előfordulhat, hogy a letétkezelő saját ügyfelével
+köt szállításos repó-ügyletet, ezért a KELER-számláját nem érinti közvetlenül az ügylet, de ekkor is az előbbiekkel
+analóg módon kell eljárni: vagyis, az adatszolgáltató eladói minőségében nem szerepeltetheti saját tulajdonaként az
+értékpapírt, viszont mint a vevő letétkezelője, a vevő szektorában jelentenie kell.)
+e) Kölcsönszerződések: A kölcsönszerződés keretében átadott értékpapírt minden esetben a kölcsönbevevő
+tulajdonában kell kimutatni, a kölcsönbeadó állományában nem szerepelhet azon idő alatt, amíg az kölcsönben van.
+f) Amennyiben egy jelentő letétkezelő konkrét és meghatározott számú értékpapírt kölcsönvesz egy másik jelentő
+letétkezelőtől, akkor a kölcsönbeadó letétkezelő a saját tulajdonú értékpapír-állományát a kölcsönadott értékpapír-
+mennyiséggel a jelentéseiben csökkenti, a kölcsönbevevő letétkezelő pedig ezt az értékpapír-mennyiséget a saját
+tulajdonaként a jelentéseiben kimutatja.
+g) Ha a letétkezelő saját ügyfelének adott mennyiségű értékpapírt kölcsönöz, akkor a kölcsönbeadó letétkezelő a
+kölcsönbeadott értékpapír mennyiségével csökkenti saját tulajdonát. Ha az értékpapír kölcsönbevevője az értékpapírt a
+hitelező letétkezelőnél vezetett számlán tartja, akkor a letétkezelő az értékpapírt abban az ügyfélszektorban jelenti le,
+amelybe a kölcsönbevevő ügyfél tartozik. Ha pedig az ügyfél már eladta (vagy más letétkezelőnél vezetett számlára
+transzferáltatta) az értékpapírt, akkor a hitelező letétkezelő jelentésében az általa kölcsönzött értékpapír már nem
+szerepelhet.
+h) A fentiek szerint kell a jelentéseket elkészíteni abban az esetben is, amikor a tőzsdetag letétkezelő (adatszolgáltató)
+az ügyfele megbízásából annak tőzsdei értékpapírját adja el, de az eladni kívánt tőzsdei értékpapír (az ügyfél
+késedelmes értékpapír-teljesítése miatt) nem érkezik meg az elszámolóház által előírt elszámolási napra a letétkezelő
+KELER Rt-nél vezetett számlájára, és a letétkezelő –a köztük lévő szerződés alapján– saját állományával hidalja át az
+ügyfele késedelmes értékpapír-szállítását (számlatranszferét). Ebben az esetben az adatszolgáltató saját állománya
+csökken az általa biztosított értékpapír mennyiségével, az ügyfele szektorában pedig nem történik állományváltozás.
+i) A kölcsönügyleteket a teljesítés napjától kezdve kell a jelentésekben kimutatni. A teljesítés napja leggyakrabban a
+kölcsönbevevő KELER Rt-nél vezetett számláján történő jóváírás értéknapja.
+j) Hitelmegállapodás fedezeteként a jelentőnél elhelyezett értékpapírok: Amennyiben bármilyen hitel-megállapodás
+keretében (pl. lombard hitel) fedezetként az ügyfél értékpapírt helyez el az adatszolgáltatónál, akkor ezeket az
+értékpapírokat is jelenteni kell a megfelelő ügyfélszektorban.
+k) Vagyonkezelés (portfóliókezelés): Ha az adatszolgáltató olyan vagyonkezelést (portfóliókezelést) végez, amelynél
+más a letétkezelő, akkor az értékpapír-állományt a 01. táblában nem kell jelentenie. Viszont a vagyonkezelt
+értékpapírokkal kapcsolatos bizományosi tevékenysége keretében átmenetileg hozzá került (KELER-számláján lévő)
+értékpapír-állományokra a másodlagos letétkezelésnél leírt jelentési technikát kell alkalmazni, azaz a 06-os táblában
+szerepeltetnie kell.
+l) A vagyonkezelt értékpapírok letétkezelőjének jelentési kötelezettsége a vagyonkezelésbe került értékpapír
+vásárlásának tárgynapjától az értékpapír eladásának tárgynapjáig áll fenn. (A jelentés tárgynapjára vonatkozó
+információkat a jelentés beküldéséig rendelkezésre álló idő alatt kell korrigálnia.)
+m) Puffer-számla (befektetési jegyeknél): Az un. puffer számlán lévő, ki nem bocsátott vagy visszavásárolt
+állományokat a jelentésben technikai okok miatt – a kibocsátó tulajdonában lévőként (r oszlop) – szerepeltetni kell.
+Az az adatszolgáltató akinél az összevont címletű fizikai értékpapírt letétkezelés, letéti őrzés vagy felelős őrzés
+keretében elhelyezték (abban az esetben is ha azt a letétkezelő adatszolgáltató a KELER-be beszállította) az alábbi
+módon szerepeltesse az állományokat jelentésében: A 01. táblában az ügyfelek és saját tulajdonában lévő állomány
+mellett, jelentse le a puffer-számla állományát is. (r oszlop) A 05. táblában szerepeltesse az értékpapír teljes
+mennyiségét amennyiben az az értéktárában, vagy egyéb a KELER-től különböző helyen van. Ha beszállította a
+KELER-be akkor a 05. táblában nem kell jelentenie. A 06. táblában kell jelentenie a forgalomban lévő állománynak azt
+a részét, amely más jelentő letétkezelők ügyfeleinek tulajdonában vannak. A dematerializált értékpapírok esetében is a
+fentiek szerint kell eljárni.
+
+A KELER a tárgynapon forgalmazott (eladott vagy visszavásárolt) dematerializált befektetési jegyek keletkeztetését,
+illetve megszüntetését csak a tárgynapot követően végzi el. A valóságnak való megfelelés miatt ugyanakkor az
+adatszolgáltatás 01-es táblájában ténylegesen az ügyfelek (beleértve az adatszolgáltatót is) tulajdonában lévő állományt
+kell jelenteni. (Természetesen ebben az esetben a lejelentett állomány nem fog megegyezni a tágynapi Keler kivonaton
+szereplő állománnyal.) Ha a tárgynapon befektetési jegy eladás (keletkeztetés) történt, az előző napi állományhoz
+képest keletkezett többlet állományt (a Keler kivonathoz képest mutatott eltérést) a 05-ös táblában kell jelenteni KE
+kóddal. Amennyiben a tárgynapon visszavásárlás történt, a tárgynapon megszűnt papírok állományát (a Keler
+kivonathoz képest mutatott eltérést) a 06-os táblában kell jelenteni KE kóddal. A segéd táblákban való állományok
+szerepeltetésével a korrigált KELER számla egyezőség (Útmutató IV. pont) teljesülése biztosítottá válik.
+A befektetési alapok által visszavásárolt, az alap nettó eszközértékének kiszámításakor is figyelembe vett (tehát
+ténylegesen forgalomban lévő) jegyek állományait nem az r oszlopban, hanem az i oszlopban a D szektor (Egyéb
+pénzügyi közvetítők) állományai között kell szerepeltetni.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: Értékpapírok állománya tulajdonosi szektorok szerint
+1. A 01. tábla a befektetési vállalkozások tulajdonában lévő, és a náluk letéti őrzés, letétkezelés, vagy felelős őrzés
+során elhelyezett, rezidensek és nem rezidensek által (belföldön, vagy külföldön) kibocsátott értékpapírok negyedév
+végi állományát tartalmazza, tulajdonosi bontásban.
+2. A Magyarországon kibocsátott, letéti igazolás formájában (ADR, EDR, GDR stb.) külföldön forgalmazott
+értékpapírokat is jelenteni kell. (A letéti igazolás saját ISIN-kódjával, a tulajdonos szektorában, tehát ugyanúgy kell
+szerepeltetni, mint bármely más értékpapírt.)
+3. Abban az esetben, ha az adatszolgáltató belföldi konverziós hely (vagyis a letéti igazolás kibocsátójának a számlája
+nála van), akkor és csak akkor, a letéti igazolások mögötti értékpapírletéteket is szerepeltetni kell a jelentésben,
+mégpedig a letéti igazolás kibocsátójának szektorában (általában ez a nem-rezidensek szektora).
+Az egyes oszlopokban lévő mezők tartalma:
+a/Az értékpapír-azonosító című oszlop az adott értékpapírhoz rendelt ISIN-kódot tartalmazza, vagy ha az értékpapírnak
+nincs ISIN-azonosítója, akkor a PSZÁF-kódot. Ha az értékpapír Felügyeleti –kóddal sem rendelkezik akkor „111”-et
+kérünk a mezőbe írni.
+b/ Az értékpapír pontos nevét kell megadni.
+Letéti igazolások esetében a névben a típust (ADR, EDR, GDR stb.) is szükséges feltüntetni.
+c/ A részesedést megtestesítő értékpapírok esetén a DB kódjelet (darab), a hitelviszonyt megtestesítő papíroknál a papír
+denominációjának deviza ISO-kódját tartalmazza (az I.4. 4.) pontban leírtak figyelembevételével). A letéti igazolásokat
+a mögöttes értékpapír mennyiségi egységében kell megadni. (Ez a gyakorlatban azt jelenti, hogy a letéti igazolásokat
+darabban kell közölni, hiszen nem jellemző, hogy hitelviszonyt megtestesítő értékpapír lenne a mögöttes letét.)
+d/ Az összes állomány megegyezik az e, az f, és az r oszlopok összegével: d=e+f+r.
+e/ Az adatszolgáltató tulajdonában lévő értékpapírok állományát tartalmazza. Nem szerepelhet ebben az oszlopban az
+adatszolgáltató által birtokolt, saját maga által kibocsátott értékpapírok állománya (amelyek jelentésére az r oszlop
+szolgál).
+f/ Az ügyfelek tulajdonában lévő értékpapírok állományát tartalmazza. Meg kell egyeznie az ügyfélszektorokban lévő
+állományok összegével: f=g+…+q.
+g-től q-ig/ Az adatszolgáltató ügyfelei tulajdonában lévő értékpapír-állományok, megbontva a tulajdonosok szektorai
+szerint. A szektorok meghatározásánál az MNB Rendelet 2. sz. melléklet A) pontjában külön megjelenő szektorleírást
+kell követni, azzal az eltéréssel, hogy a h/ oszlopban az „Egyéb monetáris intézmények” közül csak a szövetkezeti
+hitelintézetek és a pénzpiaci alapok szerepelhetnek. Az értékpapír kibocsátójának tulajdonában lévő állományt nem
+szabad ezekben az oszlopokban szerepeltetni (azok jelentésére az r oszlop szolgál).
+r/ Ebbe az oszlopba a kibocsátó tulajdonában lévő, általa kibocsátott értékpapírok állományát kell beírni. Ide kerül
+tehát a jelentő befektetési vállalkozás tulajdonában lévő, saját kibocsátású értékpapírjainak állománya, illetve a jelentő
+befektetési vállalkozás ügyfelének, mint az adott értékpapír kibocsátójának tulajdonában lévő értékpapír-állomány. (Pl.
+itt kell jelenteni, ha Kibocsátó Rt. tulajdonában van 1000 darab Kibocsátó Rt. törzsrészvény; vagy a jelentést beküldő
+Bróker Rt. tulajdonol 1500 eFt névértékű Bróker Rt. kötvényt vagy 200 ezer USD névértékű Bróker Rt. dollár kötvényt.)
+Ugyancsak itt kell szerepeltetni az un. puffer számlán lévő állományokat is.
+
+02. tábla: MEGSZŰNT: Eddig a rezidensek és nem-rezidensek által kibocsátott papírokat 01. és 02. táblákban külön
+kellett jelenteni. 2002-től a két táblát összevontuk: a korábban a 02. táblában szereplő papírok adatait a 01. táblában kell
+jelentetni.
+03. tábla: Nem-rezidensek tulajdonában lévő értékpapírok tulajdonosok szerinti országbontása
+A 03. tábla a 01. tábla „q” oszlopának adatait tartalmazza, országok szerinti bontásban.
+1. Minden egyes értékpapír esetén a 01. tábla q oszlopában (nem-rezidens ügyfél) lévő állománynak meg kell egyeznie
+a 03. tábla e oszlopában lévő, ugyanarra az értékpapírra vonatkozó (akár több sorban szereplő) állományok
+összegével. Ebből adódóan, a 01. tábla q oszlopának összege megegyezik a 03. tábla e oszlopának összegével.
+2. A táblában – a külföldi tulajdonosok országbontása miatt – egy adott értékpapírt annyiszor kell felsorolni (ISIN-kód,
+értékpapír neve megjelölésével), ahány országból származó külföldi tulajdonos azt birtokolja. (A letéti igazolások
+mögött lévő értékpapírletétnél a letéti igazolást kibocsátó intézmény országát kell feltüntetni az ország oszlopban.)
+Az egyes oszlopokban lévő mezők tartalma:
+a/ Az adott értékpapírhoz rendelt ISIN-kódot tartalmazza, vagy ha az értékpapírnak nincs ISIN-azonosítója, akkor a
+PSZÁF-kódot. Ha az értékpapír Felügyeleti –kóddal sem rendelkezik akkor „111”-et kérünk a mezőbe írni.
+b/ Ugyanazt a nevet kell használni, mint a 01. táblában.
+c/ Részesedést megtestesítő értékpapírok esetén a DB kódjelet (darab), a hitelviszonyt megtestesítő papíroknál a papír
+denominációjának deviza ISO-kódját tartalmazza. (az I.4. 4.) pontban leírtak figyelembevételével)
+d/ Annak az országnak az ISO-kódját kell beírni, amely országból az értékpapír tulajdonosa származik. Letéti
+igazolások mögött lévő értékpapírletét esetén, a letéti igazolást kibocsátó intézmény telephelyének országkódját kell
+megadni.
+e/ Adott értékpapír adott országbeli, nem-rezidens tulajdonú értékpapír-állományát tartalmazza.
+04. tábla: Az adatszolgáltató jelentésében 111-es kóddal szereplő értékpapírok jellemzői
+Ha az értékpapír ISIN–kóddal és Felügyeleti –kóddal sem rendelkezik akkor – és csak akkor – „111”-et kérünk
+azonosító-kódként szerepeltetni.
+A 04. tábla a jelentés egyéb tábláiban „111”-es kóddal (ISIN- vagy PSZÁF-kód nélkül) szerepeltetett értékpapírok
+leírását tartalmazza. Az adatszolgáltatás többi táblájának kérdéses sorait a 04-es tábla a, b és c mezői együttesen
+azonosítják.
+Az egyes oszlopokban lévő mezők tartalma:
+a/ Annak a táblának a számát kell megjelölni, amelyben a 111-es kóddal jelentett értékpapír előfordul. (Ha ez több
+táblát is érint, akkor a sorszám szerinti legelső adatszolgáltatási tábla szerepeljen.)
+b/ Annak az a mezőben megjelölt táblában lévő sornak a sorszámát jelöli, amelyben a kérdéses értékpapír szerepel.
+c/ Egy adott értékpapírnak, amelyet 111-es gyűjtőkódon jelentenek, az adatszolgáltatás minden táblájában azonos néven
+kell szerepelnie. („Értékpapír neve” mezők.) Ebben a mezőben is ez az elnevezés szerepeljen. Minden 111-es kód alatt
+megjelenő értékpapír-sorozatnál egymástól eltérő nevet kell alkalmazni.
+d/ Az értékpapír-azonosítók mellett meg kell jelölni azok típusát is. (Pl.: CUSIP, saját stb.) Az egyes adatok egymástól
+szóközzel legyenek elválasztva.
+e/ A c mező kódjellegű tartalmával szemben itt lehetőség van hosszú, az értékpapír beazonosítására alkalmas név
+megadására.
+f/ A kibocsátó cég hivatalos neve.
+g/ Azon ország ISO-kódját kell beírni, ahol a papír kibocsátóját bejegyezték.
+h/ Kibocsátás dátuma (ÉÉÉÉHHNN)
+i/ Lejárat dátuma (ÉÉÉÉHHNN)
+j/ Az ISO 4217-es szabvány szerinti, három karakteres devizakódot kell megadni. A többdevizás kibocsátás kódja:
+MCU (=Multi Currency Issue)
+k/ Címletérték
+l/ A következő kódok valamelyikét kell szerepeltetni:
+D= Hitelviszonyt megtestesítő értékpapír (Debt Instrument)
+E= Tulajdonosi jogviszonyt megtestesítő értékpapír (Equity Instrument)
+S= Eredetileg hitelviszonyt megtestesítő értékpapírral kibocsátott, de már önálló értékpapírként funkcionáló
+pénzügyi eszköz. Pl.: kötvény kamatszelvénye /Strips/.
+V= Egyéb (Spare)
+
+m/ Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg és fix kamatozású, tehát ha az l mező értéke ’D’
+és az n mező értéke ’F’.
+Maximum 3 karakter egészrész és maximum 6 karakter tizedes.
+n/ Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg, tehát ha az l mező értéke ’D’.
+F= Fix kamatozású
+V= Változó kamatozású
+Z= Zéró kupon
+o/ Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg, tehát az l mező értéke ’D’.
+Egy teljes naptári évet tekintve, a naptári éven belüli első kamatfizetés dátumát kell beírni. (ÉÉÉÉHHNN)
+p/ Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg, tehát a l mező értéke ’D’.
+B = Kétéves (Bi-annual)
+A = Éves (Annual)
+S = Féléves (Semi-annual)
+Q = Negyedéves (Quarterly)
+M = Havi (Monthly)
+W = Heti (Weekly)
+N = Nem alkalmazható (Not Applicable)
+X = Egyéb, a fentiektől eltérő (Other)
+q/ Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg, tehát a l mező értéke ’D’.
+r/ A törlesztés dátuma ÉÉÉÉHHNN formátumban, szóközzel elválasztva a törlesztésnek a címletérték százalékában
+megadott mértékétől. Az egyes törlesztésekre vonatkozó adatokat egymástól szintén szóközzel kell elválasztani.
+s/ A kifizetések dátuma ÉÉÉÉHHNN formátumban, szóközzel elválasztva a kifizetésnek a címletérték százalékában
+megadott mértékétől. Az egyes kifizetésekre vonatkozó adatokat egymástól szintén szóközzel kell elválasztani.
+t/ Értékpapírhoz kapcsolódó speciális jogok
+05. tábla: Az adatszolgáltató által a KELER-számláitól különböző helyen elhelyezett értékpapírok állománya
+A 05. tábla az adatszolgáltató által a KELER-számláitól (egyesített összevont értékpapírszámla, biztosíték értékpapír
+letéti számla) különböző helyen (beleértve a saját értéktárban) elhelyezett értékpapírok állományának jelentésére
+szolgál.
+Az egyes oszlopokban lévő mezők tartalma:
+a/ Az adott értékpapírhoz rendelt ISIN-kódot tartalmazza, vagy ha az értékpapírnak nincs ISIN-azonosítója, akkor a
+PSZÁF-kódot. Ha az értékpapír Felügyeleti–kóddal sem rendelkezik akkor „111”-et kérünk a mezőbe írni.
+b/ Az értékpapír pontos nevét kell megadni.
+c/ A részesedést megtestesítő értékpapírok esetén a DB kódjelet (darab), a hitelviszonyt megtestesítő papíroknál a papír
+denominációjának deviza ISO-kódját tartalmazza. (az I.4. 4.) pontban leírtak figyelembevételével)
+d/ Az értékpapír állománya.
+e/ A következő kódok valamelyikét kell beírni:
+SE= saját értéktári elhelyezés
+ML=másodlagos letét
+KE=késedelmes elszámolás
+EG=egyéb
+f/ Azt az intézményt kell megnevezni, ahol az értékpapírt elhelyezték. (Saját értéktárban történt elhelyezés esetén az
+adatszolgáltató saját nevét kell megadni.)
+g/ Az „f” oszlopban megadott cég törzsszáma, nem-rezidens esetén pedig „00000001” szerepel.
+06. tábla: Más jelentő letétkezelő által az adatszolgáltatónál elhelyezett értékpapírok állománya
+A 06. táblában azokat az értékpapírokat kell felsorolni, amelyeket az adatszolgáltatónál egy másik jelentő letétkezelő
+(rezidens bank, szakosított hitelintézet, befektetési vállalkozás) helyezett el. E papírok megjelenhetnek a jelentő
+KELER-számláján, saját értéktárában, illetve - ha a jelentő pl harmadlagos letétbe adta tovább – egy másik jelentő
+letétkezelőnél is. (Ez utóbbi esetben természetesen a 05-ös táblában is szerepeltetnie kell a kérdéses állományt.)
+Ezek az állományok a 01-es táblában nem jelenhetnek meg.
+
+Az egyes oszlopokban lévő mezők tartalma:
+a/ Az adott értékpapírhoz rendelt ISIN-kódot tartalmazza, vagy ha az értékpapírnak nincs ISIN-azonosítója, akkor a
+PSZÁF-kódot. Ha az értékpapír Felügyeleti –kóddal sem rendelkezik akkor „111”-et kérünk a mezőbe írni.
+b/ Az értékpapír pontos nevét kell megadni.
+c/ A részesedést megtestesítő értékpapírok esetén a DB kódjelet (darab), a hitelviszonyt megtestesítő papíroknál a papír
+denominációjának deviza ISO-kódját tartalmazza (az I.4. 4.) pontban leírtak figyelembevételével).
+d/ Az értékpapír állománya.
+e/ A következő kódok valamelyikét kell beírni:
+ML=másodlagos letét
+IT= ismeretlen tulajdonos
+KE=késedelmes elszámolás
+EG=egyéb
+f/ Annak a jelentő letétkezelőnek a nevét kell beírni, amely az értékpapírt az adatszolgáltatónál elhelyezte.
+g/ Az „f” oszlopban megadott cég törzsszámát kell megadni.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: E21
+01. tábla Értékpapírok állománya tulajdonosi szektorok szerint
+(darab ill. ezer deviza)
+Rezidens ügyfelek tulajdonában lévő értékpapírok állománya szektoronként **
+Sor-
+szám
+Értékpapír-
+azonosító
+(ISIN-kód)
+Értékpapír
+neve
+Az
+állomány
+megfigye-
+lési egy-
+ségének
+kódja*
+Összes
+állomány
+Az adatszol-
+gáltató saját
+tulajdonában
+lévő, nem
+általa
+kibocsátott
+állomány**
+Ügyfelek
+tulajdonában
+lévő nem
+általuk
+kibocsátott
+állomány
+összesen**
+(A)
+Nem
+pénzügyi
+vállalatok
+(C)-ből
+Szövetkezeti
+hitelintézetek és
+pénzpiaci alapok
+(D)
+Egyéb
+pénzügyi
+közvetítők
+(E)
+Pénzügyi
+kiegészítő
+tevékenységet
+végzők
+(F)
+Biztosítók,
+nyugdíjpénztárak
+(G)
+Központi
+költségvetés
+(H)
+Helyi önkor-
+mányzatok
+(I)
+Társadalom-
+biztosítási
+alapok
+(J)
+Háztartások
+(K)
+Háztartásokat
+segítő nonprofit
+intézmények
+(L)
+Nem-rezidens
+ügyfelek
+tulajdonában lévő
+értékpapírok
+állománya**
+A kibocsátó
+tulajdonában lévő,
+általa kibocsátott
+értékpapírok
+állománya
+a b c d=e+f+r e f=g+...+q g h i j k l m n o p q r
+
+…
+…
+…
+nn
+A zárójelben lévő nyomtatott nagybetűk az MNB által egységesen alkalmazott szektorkódokat jelentik.
+A tulajdonviszonyt megtestesítő értékpapírok állományát darabszám szerint, míg a hitelviszonyt megtestesítő értékpapírok (kötvények) állományát névértéken
+(ezer devizában) kell a táblában szerepeltetni.
+*/ Részesedést megtestesítő értékpapírok esetén DB, hitelviszonyt megtestesítő papíroknál a papír denominációjának deviza ISO-kódja.
+**/ Az értékpapír kibocsátójának tulajdonában lévő állományt nem szabad az e-q oszlopokban szerepeltetni. (Ezen állományok jelentésére az "r" oszlop szolgál.)
+
+MNB adatgyűjtés azonosító: E21
+03. tábla: Nem-rezidensek tulajdonában lévő értékpapírok tulajdonosok szerinti országbontása
+(darab ill. ezer deviza)
+Értékpapír-azonosító
+(ISIN-kód)
+Értékpapír neve
+Az állomány megfigyelési
+egységének kódja*
+Ország
+ISO-kódja
+Értékpapír-állomány
+Sorszám
+a b c d e
+
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+nn
+A tulajdonviszonyt megtestesítő értékpapírok állományát darabszám szerint, míg a hitelviszonyt megtestesítő értékpapírok (kötvények)
+állományát névértéken (ezer devizában) kell a táblában szerepeltetni.
+*/ Részesedést megtestesítő értékpapírok esetén DB, hitelviszonyt megtestesítő papíroknál a papír denominációjának deviza ISO-kódja.
+
+MNB adatgyűjtés azonosító: E21
+04. tábla: Az adatszolgáltató jelentésében 111-es kóddal szereplő értékpapírok jellemzői
+Hivatkozott
+táblaszám
+Hivatkozott
+sorszám
+Értékpapír
+neve
+Értékpapír-
+azonosítók
+Értékpapír
+hosszú neve
+Kibocsátó
+neve
+Kibocsátó
+országa
+Kibocsátás
+dátuma
+Lejárat
+dátuma
+Denominá-
+ció
+Címletérték
+Jogviszony
+jellege
+Kamatláb
+Kamatozás
+típusa
+Kamatfize-
+tés dátuma
+Kamatfize-
+tési
+gyakoriság
+Első
+kamatfizetés
+dátuma
+Tőketör-
+lesztések
+adatai
+Hozam/
+kamat/
+osztalék
+kifizetésé-
+nek adatai
+Értékpapír-
+hoz kapcso-
+lódó
+speciális
+jogok
+Sor-
+szám
+a b c d e f g h i j k l m n o p q r s t
+
+…
+…
+…
+nn
+
+MNB adatgyűjtés azonosító: E21
+05. tábla: Az adatszolgáltató által a KELER-számláitól* különböző helyen elhelyezett értékpapírok állománya
+Értékpapír-azonosító
+(ISIN-kód)
+Értékpapír neve
+Az állomány megfigyelési
+egységének kódja**
+Értékpapír állománya
+(darab ill. ezer deviza)
+Elhelyezés jogcímének
+kódja
+Értékpapír helye
+Értékpapír helyének
+törzsszáma
+Sorszám
+a b c d e f g
+
+…
+…
+nn
+A tulajdonviszonyt megtestesítő értékpapírok állományát darabszám szerint, míg a hitelviszonyt megtestesítő értékpapírok (kötvények) állományát névértéken (ezer devizában) kell a táblában szerepeltetni.
+* Összevont értékpapírszámla; Tőzsdei elszámolási értékpapírszámla; Biztosíték értékpapír letéti számla
+**/ Részesedést megtestesítő értékpapírok esetén DB, hitelviszonyt megtestesítő papíroknál a papír denominációjának deviza ISO-kódja.
+06. tábla: Más jelentő letétkezelő által az adatszolgáltatónál letétben elhelyezett értékpapírok állománya
+Értékpapír-azonosító
+(ISIN-kód)
+Értékpapír neve
+Az állomány megfigyelési
+egységének kódja*
+Értékpapír állománya
+(darab ill. ezer deviza)
+Elhelyezés jogcímének
+kódja
+Jelentő letétkezelő neve
+Jelentő letétkezelő
+törzsszáma
+Sorszám
+a b c d e f g
+
+…
+…
+nn
+A tulajdonviszonyt megtestesítő értékpapírok állományát darabszám szerint, míg a hitelviszonyt megtestesítő értékpapírok (kötvények) állományát névértéken (ezer devizában) kell a táblában szerepeltetni.
+*/ Részesedést megtestesítő értékpapírok esetén DB, hitelviszonyt megtestesítő papíroknál a papír denominációjának deviza ISO-kódja.
+
+MNB adatgyűjtés azonosító: E21
+Kitöltési útmutató
+A bankok és a szakosított hitelintézetek tulajdonában lévő, valamint a náluk letétbe helyezett (rezidensek és
+nem-rezidensek által kibocsátott) értékpapírok állománya, tulajdonosi bontásban
+I. Általános tudnivalók
+1. A jelentésben használt egyes fogalmak definiálása
+a) Értékpapír-sorozat: a tőkepiacról szóló 2001. évi CXX. törvényben ekként meghatározott fogalom.
+b) Jelentő letétkezelő: Ezen adatgyűjtésben a jelentő letétkezelők körébe tartozik valamennyi rezidens befektetési
+vállalkozás, bank, szakosított hitelintézet, az ezen típusú EGT fióktelepek, valamint a Magyar Államkincstár. A
+jelentő letétkezelők körének listája megtalálható a Rendelet 3. sz. mellékletében.
+c) Letétkezelt értékpapír: Ezen jelentés keretében letétkezelt értékpapíron értjük az adatszolgáltatónál értékpapír-
+számlán, valamint értékpapír-letétkezelés, letéti őrzés, vagy felelős őrzés keretében elhelyezett értékpapírokat,
+abban az esetben is, ha az adatszolgáltató az értékpapírt máshol helyezte letétbe, letéti őrzésbe vagy értékpapír
+számlára (Részletesebben lásd II.1.a.) pont: másodlagos letétkezelés).
+d) Másodlagos letétkezelés: Ezen adatgyűjtés keretében másodlagos letétkezelésről akkor beszélünk, ha egy jelentő
+letétkezelő a saját vagy ügyfele tulajdonában lévő értékpapírt
+– egy másik jelentő letétkezelőnek adja tovább letétkezelés (letéti őrzés, felelős őrzés) céljából, vagy
+– egy másik jelentő letétkezelő KELER - számláján tartja, úgy hogy – ügyfél tulajdonú papír esetén – az
+értékpapír eredeti tulajdonosával továbbra is ő (mint elsődleges letétkezelő) áll kapcsolatban.
+e) Tárgynap:
+– KELER Rt.-nél nyilvántartott értékpapírok esetében: a KELER Rt. szabályzata szerinti „Elszámoló nap”.
+– KELER Rt.-nél nem nyilvántartott értékpapírok esetében: a számviteli elszámolás időpontja.
+2. Az adatgyűjtésben szereplő értékpapírok köre
+a) Az adatgyűjtés a bankok és a szakosított hitelintézetek tulajdonában lévő, valamint a náluk letéti őrzés,
+letétkezelés, vagy felelős őrzés során elhelyezett (rezidensek, illetve nem-rezidensek által sorozatban kibocsátott)
+értékpapírok negyedév utolsó napjára (mint tárgynapra) vonatkozó záró állományát tartalmazza, tulajdonosi
+bontásban.
+b) A jelentésben valamennyi, sorozatban kibocsátott értékpapírt (államkötvény, MNB-kötvény, kincstárjegy,
+egyéb kötvény, részvény, beleértve a letéti igazolás formájában forgalmazott részvényeket is, befektetési jegy,
+kárpótlási jegy, jelzáloglevél, letéti jegy) szerepeltetni kell, függetlenül attól, hogy azt rezidens vagy nem-rezidens
+bocsátotta-e ki, illetve hogy a kibocsátás külföldön, vagy belföldön történt-e. A táblákban a jelentett
+értékpapíroknak sorozatonként kell megjelenniük.
+c) A jelentésben a nyilvános és a zárt körben kibocsátott értékpapírokat egyaránt szerepeltetni kell.
+d) A saját tulajdonban lévő értékpapír-állomány teljes mennyiségét jelenteni kell, függetlenül attól, hogy az
+értékpapír fizikailag hol található (KELER Rt-nél, idegen helyen, saját trezorban). A letétkezelés, letéti őrzés, vagy
+felelős őrzés keretében az adatszolgáltatónál elhelyezett értékpapírokat szintén teljes mennyiségben jelenteni kell,
+még akkor is, ha az adatszolgáltató az értékpapírt máshol helyezte letétbe, vagy letéti őrzésbe (Részletesebben lásd
+II.1.a.) pont: másodlagos letétkezelés). Az adatszolgáltatónál más jelentő letétkezelő által elhelyezett értékpapír-
+állományok a 01. táblában nem jelenhetnek meg.
+3. Az értékpapírok azonosítása és egyéb kérdések
+a) Az ISIN-kód alapvető szerepet játszik az adatgyűjtésben, ugyanis elsődleges értékpapír-azonosítóként
+alkalmazzuk.
+b) PSZÁF-kód: Ha valamelyik értékpapír esetleg nem rendelkezne ISIN-kóddal, akkor – és csak akkor –
+használható a PSZÁF által kiadott azonosító. A kódlista hozzáférhető a Felügyelet honlapján
+(http://external.pszaf.hu/infohu/uj/ps_Hlt55697781z_Hlt55697781afi_Hlt55697824s_Hlt55697793_Hlt55697824i
+_Hlt55697793n.htm).
+1 A letéti igazolások aszerint minősülnek rezidens, vagy nem-rezidens kibocsátásúnak, hogy a mögötte lévő részvény rezidens, vagy nem-rezidens
+kibocsátású értékpapír-e.
+
+c) A 111-es gyűjtőkód: Ha az értékpapír sem ISIN-kóddal, sem PSZÁF–kóddal nem rendelkezik akkor „111”-et
+kérünk azonosító-kódként szerepeltetni. Ezeknél az értékpapíroknál (egy adott jelentő esetében) az “Értékpapír
+neve” mező szolgál egyedi azonosítóként: A 111-es kód alatt megjelenő értékpapír-sorozatoknál egymástól eltérő
+nevet kell alkalmazni, viszont ugyanannak a sorozatnak minden táblában tökéletesen megegyező néven kell
+szerepelnie.
+d) Azokról az értékpapírokról, amelyek a jelentésben 111-es kóddal szerepelnek a 04. táblában is kell leíró jellegű
+adatokat szolgáltatni.
+e) A letéti igazolások (ADR, EDR, GDR stb.) esetében a letéti igazolás saját ISIN-kódját kell megadni.
+4. Az értékpapír-állományok számbavétele
+Az értékpapír-állományokat a jelentés minden táblájában egységesen az alábbiak szerint kell jelenteni:
+a) A tulajdonviszonyt megtestesítő értékpapírok esetén az állományokat darabszám szerint kell a táblákban
+szerepeltetni, míg a hitelviszonyt megtestesítő értékpapírok (kötvények) névértéken kerülnek a jelentésbe ezer
+egységben, az értékpapír eredeti denominációjában (az I.4.d.) pontban leírtak figyelembevételével)
+b) Ebben az adatszolgáltatásban tulajdonviszonyt megtestesítő értékpapíroknak tekintjük1 a részvényeket, valamint
+a befektetési alapok által kibocsátott befektetési jegyeket.
+c) A futamidő alatt is törlesztő kötvényeknél a táblákban a törlesztéssel korrigált névértéket kell jelenteni.2
+d) A GMU tagdevizákban denominált értékpapírokat úgy kell szerepeltetni az adatszolgáltatásban, mintha euróban
+lennének denominálva, az állományok értékét pedig az euró-tagdevizák euróhoz rögzített árfolyamai alapján kell
+meghatározni.
+e) A jelentés helyes kitöltése esetén a táblákban negatív állományok nem szerepelhetnek.
+f) Minden egyes értékpapír esetén3, az adatszolgáltató KELER-számláján (egyesített összevont értékpapírszámlán,
+biztosíték értékpapír letéti számlán) lévő állomány és ezen jelentés tábláiban szereplő állományok között a
+következő egyezőségnek kell fennállnia:
+KELER-számla állománya = 01. tábla állománya – 05. tábla állománya + 06. tábla állománya
+Ezt az összefüggést tekintjük a jelentés alapegyenletének.
+Az adatgyűjtés logikája és szerkezete
+Az adatgyűjtés fő táblája a 01-es, szektorok szerinti megoszlást mutató tábla, ehhez kapcsolódik a 03-as, nem-
+rezidens szektort országbontásban részletező tábla. A 04-06 táblák segédtáblák, amelyeknek döntően technikai
+szerepük van. A 04-es tábla adatai a többi táblában egyedi ISIN-, vagy PSZÁF-azonosítóval nem rendelkező
+értékpapírok azonosítását teszi lehetővé. A 05 és 06 táblák biztosítják a 01-es táblában szereplő értékpapír-
+állományok teljeskörűségét és a duplikációk elkerülését. Lehetővé teszik továbbá, hogy a 01-es táblában jelentett
+összállományok összehasonlíthatóak legyenek a KELER-számla állományaival.
+5. Speciális kezelést igénylő esetek
+a) Másodlagos letétkezelés: Az értékpapírt a 01. táblában mindig az jelenti, aki az eredeti tulajdonossal
+letétkezelőként kapcsolatban van. Ezért többszörös letétkezelés esetén a következőket kell alkalmazni:
+Az a jelentő letétkezelő, akinél az értékpapírt tulajdonosa eredetileg elhelyezte, a 01-es és 05-ös táblában is jelenti
+az adott értékpapírt. A más jelentő letétkezelő által az adatszolgáltatónál elhelyezett értékpapírokat a 01. tábla
+kitöltésekor nem szabad szerepeltetni, ezek a 06-os táblába kerülnek. Előfordulhat olyan eset is, hogy az
+adatszolgáltató a más jelentő letétkezelőtől kapott értékpapírt továbbadja letétkezelésre egy újabb jelentő
+letétkezelőnek. Ekkor az adott értékpapír-állománynak a 06-os és 05-ös táblában egyaránt meg kell jelennie (a 01.
+táblában viszont értelemszerűen nem szerepelhet).
+b) Repó-ügyletek: Eladási és visszavásárlási megállapodások, amelyeknek két fajtáját különböztetjük meg ebben a
+jelentésben: az óvadéki és a szállításos repót. Óvadéki repó esetén az értékpapír vevője csak korlátozott
+rendelkezési jogot szerez, míg szállításos repó esetén a vevő teljes körűen rendelkezik a megvásárolt értékpapírok
+felett.
+Ezen adatgyűjtés keretében az a lényeges szempont, hogy a repó-ügyletben szereplő értékpapírok kinek a
+birtokában vannak, ki rendelkezik felettük.
+1 A nemzetközi terminológiában „equity”-típusú értékpapírok.
+2 A jelentés összeállításakor a tárgynapi T761-es KELER–kivonatot kell használni, amely a névértékes állomány mellett tartalmazza a fennálló
+tőkeértékre vonatkozó információt is. A törlesztés napján már a csökkentett tőkeértéket kell jelenteni. Amennyiben a negyedév utolsó napja
+munkaszüneti napra esik, a tőke továbbvezetését ennek az “elméleti” vonatkozási időpontnak megfelelő állapotra kell elvégezni, tehát a jelentésben a
+korrigált értéknek kell szerepelnie.
+3 Azoknál a dematerializált értékpapíroknál, ahol a futamidő alatti tőketörlesztés miatt a kibocsátáskori és a fennálló névérték eltér egymástól, a
+KELER, az ügyfeleinek küldött számlakivonatain a kibocsátáskori névértéket szerepelteti. Ezen jelentésben az adatszolgáltatóknak ugyanakkor a
+fennálló névértéket kell jelenteni. Az ellenőrzési proceduráknál figyelemmel kell lenni arra, hogy a KELER-számla adatait a teljes egyezőséghez ezen
+papíroknál korrigálni kell. (A fizikai értékpapírok KELER-számlákon nyilvántartott névértéke a KELER-ben automatikusan korrigálásra kerül a
+tőketörlesztés összegével.)
+
+c) Óvadéki repó-ügylet esetén a vevő az ügylet időtartama alatt az értékpapírral nem rendelkezik szabadon (pl. a
+KELER Rt-n keresztül végrehajtott ügyletek esetén az eladó számlájáról nem veszik le azt, csak zárolják), ezért az
+értékpapírt az eladó tulajdonaként kell jelenteni.
+d) Szállításos repó-ügylet esetén az értékpapír vevője tulajdonosi és birtokosi jogot is szerez az értékpapír fölött (pl.
+a KELER Rt-n keresztül végrehajtott ügyletek esetén az értékpapírokat a pénzügyi teljesítéssel egyidejűleg az
+eladó KELER Rt-nél lévő értékpapír-számlájáról transzferálják a vevő értékpapír-számlájára), ezért az értékpapír
+vevőjének kell jelentenie, az eladó viszont nem szerepeltetheti a jelentésében. (Előfordulhat, hogy a letétkezelő
+saját ügyfelével köt szállításos repó-ügyletet, ezért a KELER-számláját nem érinti közvetlenül az ügylet, de ekkor
+is az előbbiekkel analóg módon kell eljárni: vagyis, az adatszolgáltató eladói minőségében nem szerepeltetheti
+saját tulajdonaként az értékpapírt, viszont mint a vevő letétkezelője, a vevő szektorában jelentenie kell.)
+e) Kölcsönszerződések: A kölcsönszerződés keretében átadott értékpapírt minden esetben a kölcsönbevevő
+tulajdonában kell kimutatni, a kölcsönbeadó állományában nem szerepelhet azon idő alatt, amíg az kölcsönben
+van.
+f) Amennyiben egy jelentő letétkezelő konkrét és meghatározott számú értékpapírt kölcsönvesz egy másik jelentő
+letétkezelőtől, akkor a kölcsönbeadó letétkezelő a saját tulajdonú értékpapír-állományát a kölcsönadott értékpapír-
+mennyiséggel a jelentéseiben csökkenti, a kölcsönbevevő letétkezelő pedig ezt az értékpapír-mennyiséget a saját
+tulajdonaként a jelentéseiben kimutatja.
+g) Ha a letétkezelő saját ügyfelének adott mennyiségű értékpapírt kölcsönöz, akkor a kölcsönbeadó letétkezelő a
+kölcsönbeadott értékpapír mennyiségével csökkenti saját tulajdonát. Ha az értékpapír kölcsönbevevője az
+értékpapírt a hitelező letétkezelőnél vezetett számlán tartja, akkor a letétkezelő az értékpapírt abban az
+ügyfélszektorban jelenti le, amelybe a kölcsönbevevő ügyfél tartozik. Ha pedig az ügyfél már eladta (vagy más
+letétkezelőnél vezetett számlára transzferáltatta) az értékpapírt, akkor a hitelező letétkezelő jelentésében az általa
+kölcsönzött értékpapír már nem szerepelhet.
+h) A fentiek szerint kell a jelentéseket elkészíteni abban az esetben is, amikor a tőzsdetag letétkezelő
+(adatszolgáltató) az ügyfele megbízásából annak tőzsdei értékpapírját adja el, de az eladni kívánt tőzsdei
+értékpapír (az ügyfél késedelmes értékpapír-teljesítése miatt) nem érkezik meg az elszámolóház által előírt
+elszámolási napra a letétkezelő KELER Rt-nél vezetett számlájára, és a letétkezelő –a köztük lévő szerződés
+alapján– saját állományával hidalja át az ügyfele késedelmes értékpapír-szállítását (számlatranszferét). Ebben az
+esetben az adatszolgáltató saját állománya csökken az általa biztosított értékpapír mennyiségével, az ügyfele
+szektorában pedig nem történik állományváltozás.
+i) A kölcsönügyleteket a teljesítés napjától kezdve kell a jelentésekben kimutatni. A teljesítés napja leggyakrabban a
+kölcsönbevevő KELER Rt-nél vezetett számláján történő jóváírás értéknapja.
+j) Hitelmegállapodás fedezeteként a jelentőnél elhelyezett értékpapírok: Amennyiben bármilyen hitel-
+megállapodás keretében (pl. lombard hitel) fedezetként az ügyfél értékpapírt helyez el az adatszolgáltatónál, akkor
+ezeket az értékpapírokat is jelenteni kell a megfelelő ügyfélszektorban.
+k) Vagyonkezelés (portfóliókezelés): Ha az adatszolgáltató olyan vagyonkezelést (portfóliókezelést) végez,
+amelynél más a letétkezelő, akkor az értékpapír-állományt a 01. táblában nem kell jelentenie. Viszont a
+vagyonkezelt értékpapírokkal kapcsolatos bizományosi tevékenysége keretében átmenetileg hozzá került
+(KELER-számláján lévő) értékpapír-állományokra a másodlagos letétkezelésnél leírt jelentési technikát kell
+alkalmazni, azaz a 06-os táblában szerepeltetnie kell.
+l) A vagyonkezelt értékpapírok letétkezelőjének jelentési kötelezettsége a vagyonkezelésbe került értékpapír
+vásárlásának tárgynapjától az értékpapír eladásának tárgynapjáig áll fenn. (A jelentés tárgynapjára vonatkozó
+információkat a jelentés beküldéséig rendelkezésre álló idő alatt kell korrigálnia.)
+m) Puffer-számla (befektetési jegyeknél): Az un. puffer számlán lévő, ki nem bocsátott vagy visszavásárolt
+állományokat a jelentésben technikai okok miatt – a kibocsátó tulajdonában lévőként (r oszlop) –szerepeltetni kell.
+Az az adatszolgáltató akinél az összevont címletű fizikai értékpapírt letétkezelés, letéti őrzés vagy felelős őrzés
+keretében elhelyezték (abban az esetben is ha azt a letétkezelő adatszolgáltató a KELER-be beszállította) az alábbi
+módon szerepeltesse az állományokat jelentésében: A 01. táblában az ügyfelek és saját tulajdonában lévő
+állomány mellett, jelentse le a puffer-számla állományát is. (r oszlop) A 05. táblában szerepeltesse az értékpapír
+teljes mennyiségét amennyiben az az értéktárában, vagy egyéb a KELER-től különböző helyen van. Ha
+beszállította a KELER-be akkor a 05. táblában nem kell jelentenie. A 06. táblában kell jelentenie a forgalomban
+lévő állománynak azt a részét, amely más jelentő letétkezelők ügyfeleinek tulajdonában vannak. A dematerializált
+értékpapírok esetében is a fentiek szerint kell eljárni.
+
+A KELER a tárgynapon forgalmazott (eladott vagy visszavásárolt) dematerializált befektetési jegyek
+keletkeztetését, illetve megszüntetését csak a tárgynapot követően végzi el. A valóságnak való megfelelés miatt
+ugyanakkor az adatszolgáltatás 01-es táblájában ténylegesen az ügyfelek (beleértve az adatszolgáltatót is)
+tulajdonában lévő állományt kell jelenteni. (Természetesen ebben az esetben a lejelentett állomány nem fog
+megegyezni a tágynapi Keler kivonaton szereplő állománnyal.) Ha a tárgynapon befektetési jegy eladás
+(keletkeztetés) történt, az előző napi állományhoz képest keletkezett többlet állományt (a Keler kivonathoz képest
+mutatott eltérést) a 05-ös táblában kell jelenteni KE kóddal. Amennyiben a tárgynapon visszavásárlás történt, a
+tárgynapon megszűnt papírok állományát (a Keler kivonathoz képest mutatott eltérést) a 06-os táblában kell
+jelenteni KE kóddal. A segéd táblákban való állományok szerepeltetésével a korrigált KELER számla egyezőség
+(I.4. g) teljesülése biztosítottá válik.
+A befektetési alapok által visszavásárolt, az alap nettó eszközértékének kiszámításakor is figyelembe vett (tehát
+ténylegesen forgalomban lévő) jegyek állományait nem az r oszlopban, hanem az i oszlopban a D szektor (Egyéb
+pénzügyi közvetítők) állományai között kell szerepeltetni.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: Értékpapírok állománya tulajdonosi szektorok szerint
+1. A 01. tábla a bankok és a szakosított hitelintézetek tulajdonában lévő, és a náluk letéti őrzés, letétkezelés, vagy
+felelős őrzés során elhelyezett, rezidensek és nem rezidensek által (belföldön, vagy külföldön) kibocsátott
+értékpapírok negyedév végi állományát tartalmazza, tulajdonosi bontásban.
+2. A Magyarországon kibocsátott, letéti igazolás formájában (ADR, EDR, GDR stb.) külföldön forgalmazott
+értékpapírokat is jelenteni kell. (A letéti igazolás saját ISIN-kódjával, a tulajdonos szektorában, tehát ugyanúgy
+kell szerepeltetni, mint bármely más értékpapírt.)
+3. Abban az esetben, ha az adatszolgáltató belföldi konverziós hely (vagyis a letéti igazolás kibocsátójának a
+számlája nála van), akkor és csak akkor, a letéti igazolások mögötti értékpapírletéteket is szerepeltetni kell a
+jelentésben, mégpedig a letéti igazolás kibocsátójának szektorában (általában ez a nem-rezidensek szektora).
+Az egyes oszlopokban lévő mezők tartalma:
+a/Az értékpapír-azonosító című oszlop az adott értékpapírhoz rendelt ISIN-kódot tartalmazza, vagy ha az értékpapírnak
+nincs ISIN-azonosítója, akkor a PSZÁF-kódot. Ha az értékpapír Felügyeleti –kóddal sem rendelkezik akkor „111”-et
+kérünk a mezőbe írni.
+b/ Az értékpapír pontos nevét kell megadni.
+Letéti igazolások esetében a névben a típust (ADR, EDR, GDR stb.) is fel kell tüntetni.
+c/ A részesedést megtestesítő értékpapírok esetén a DB kódjelet (darab), a hitelviszonyt megtestesítő papíroknál a papír
+denominációjának deviza ISO-kódját tartalmazza (az I.4. d.) pontban leírtak figyelembevételével). A letéti igazolásokat
+a mögöttes értékpapír mennyiségi egységében kell megadni. (Ez a gyakorlatban azt jelenti, hogy a letéti igazolásokat
+darabban kell közölni, hiszen nem jellemző, hogy hitelviszonyt megtestesítő értékpapír lenne a mögöttes letét.)
+d/ Az összes állomány megegyezik az e, az f, és az r oszlopok összegével: d=e+f+r.
+e/ Az adatszolgáltató tulajdonában lévő értékpapírok állományát tartalmazza. Nem szerepelhet ebben az oszlopban az
+adatszolgáltató által birtokolt, saját maga által kibocsátott értékpapírok állománya (amelyek jelentésére az r oszlop
+szolgál).
+f/ Az ügyfelek tulajdonában lévő értékpapírok állományát tartalmazza. Meg kell egyeznie az ügyfélszektorokban lévő
+állományok összegével: f=g+…+q.
+g-tól q-ig/ Az adatszolgáltató ügyfelei tulajdonában lévő értékpapír-állományok, megbontva a tulajdonosok szektorai
+szerint. A szektorok meghatározásánál az MNB Rendelet 2. sz. melléklet A) pontjában külön megjelenő szektorleírást
+kell követni, azzal az eltéréssel, hogy a h/ oszlopban az „Egyéb monetáris intézmények” közül csak a szövetkezeti
+hitelintézetek és a pénzpiaci alapok szerepelhetnek. Az értékpapír kibocsátójának tulajdonában lévő állományt nem
+szabad ezekben az oszlopokban szerepeltetni (azok jelentésére az r oszlop szolgál).
+r/ Ebbe az oszlopba a kibocsátó tulajdonában lévő, általa kibocsátott értékpapírok állományát kell beírni. Ide kerül
+tehát a jelentő hitelintézet tulajdonában lévő, saját kibocsátású értékpapírjainak állománya, illetve a jelentő hitelintézet
+ügyfelének, mint az adott értékpapír kibocsátójának tulajdonában lévő értékpapír-állomány. (Pl. itt kell jelenteni, ha
+Kibocsátó Rt. tulajdonában van 1000 darab Kibocsátó Rt. törzsrészvény; vagy a jelentést beküldő Bank Rt. tulajdonol
+1500 eFt névértékű Bank Rt. kötvényt vagy 200 ezer USD névértékű Bank Rt. dollár kötvényt.) Ugyancsak itt kell
+szerepeltetni az un. puffer számlán lévő állományokat is.
+
+02. tábla: MEGSZŰNT: Eddig a rezidensek és nem-rezidensek által kibocsátott papírokat 01. és 02. táblákban külön
+kellett jelenteni. 2002-től a két táblát összevontuk: a korábban a 02. táblában szereplő papírok adatatait a 01. táblában
+kell jelentetni.
+03. tábla: Nem-rezidensek tulajdonában lévő értékpapírok tulajdonosok szerinti országbontása
+A 03. tábla a 01. tábla "q" oszlopának adatait tartalmazza, országok szerinti bontásban.
+1. Minden egyes értékpapír esetén a 01. tábla q oszlopában (nem-rezidens ügyfél) lévő állománynak meg kell
+egyeznie a 03. tábla e oszlopában lévő, ugyanarra az értékpapírra vonatkozó (akár több sorban szereplő)
+állományok összegével. Ebből adódóan, a 01. tábla q oszlopának összege megegyezik a 03. tábla e oszlopának
+összegével.
+2. A táblában – a külföldi tulajdonosok országbontása miatt – egy adott értékpapírt annyiszor kell felsorolni (ISIN-
+kód, értékpapír neve megjelölésével), ahány országból származó külföldi tulajdonos azt birtokolja. (A letéti
+igazolások mögött lévő értékpapírletétnél a letéti igazolást kibocsátó intézmény országát kell feltüntetni az ország
+oszlopban.)
+Az egyes oszlopokban lévő mezők tartalma:
+a/ Az adott értékpapírhoz rendelt ISIN-kódot tartalmazza, vagy ha az értékpapírnak nincs ISIN-azonosítója, akkor a
+PSZÁF-kódot. Ha az értékpapír Felügyeleti –kóddal sem rendelkezik akkor „111”-et kérünk a mezőbe írni.
+b/ Ugyanazt a nevet kell használni, mint a 01. táblában.
+c/ Részesedést megtestesítő értékpapírok esetén a DB kódjelet (darab), a hitelviszonyt megtestesítő papíroknál a papír
+denominációjának deviza ISO-kódját tartalmazza (az I.4. d.) pontban leírtak figyelembevételével).
+d/ Annak az országnak az ISO-kódját kell beírni, amely országból az értékpapír tulajdonosa származik. Letéti
+igazolások mögött lévő értékpapírletét esetén, a letéti igazolást kibocsátó intézmény telephelyének országkódját kell
+megadni.
+e/ Adott értékpapír adott országbeli, nem-rezidens tulajdonú értékpapír-állományát tartalmazza.
+04. tábla: Az adatszolgáltató jelentésében 111-es kóddal szereplő értékpapírok jellemzői
+Ha az értékpapír ISIN–kóddal és Felügyeleti –kóddal sem rendelkezik akkor – és csak akkor – „111”-et kérünk
+azonosító-kódként szerepeltetni.
+A 04. tábla a jelentés egyéb tábláiban „111”-es kóddal (ISIN- vagy PSZÁF-kód nélkül) szerepeltetett értékpapírok
+leírását tartalmazza. Az adatszolgáltatás többi táblájának kérdéses sorait a 04-es tábla a, b és c mezői együttesen
+azonosítják.
+Az egyes oszlopokban lévő mezők tartalma:
+a/ Annak a táblának a számát kell megjelölni, amelyben a 111-es kóddal jelentett értékpapír előfordul. (Ha ez több
+táblát is érint, akkor a sorszám szerinti legelső adatszolgáltatási tábla szerepeljen.)
+b/ Annak az a mezőben megjelölt táblában lévő sornak a sorszámát jelöli, amelyben a kérdéses értékpapír szerepel.
+c/ Egy adott értékpapírnak, amelyet 111-es gyűjtőkódon jelentenek, az adatszolgáltatás minden táblájában azonos néven
+kell szerepelnie. (“Értékpapír neve” mezők.) Ebben a mezőben is ez az elnevezés szerepeljen. Minden 111-es kód alatt
+megjelenő értékpapír-sorozatnál egymástól eltérő nevet kell alkalmazni
+d/ Az értékpapír-azonosítók mellett meg kell jelölni azok típusát is. (Pl.: CUSIP, saját stb.) Az egyes adatok egymástól
+szóközzel legyenek elválasztva.
+e/ A c mező kódjellegű tartalmával szemben itt lehetőség van hosszú, az értékpapír beazonosítására alkalmas név
+megadására.
+f/ A kibocsátó cég hivatalos neve.
+g/ Azon ország ISO-kódját kell beírni, ahol a papír kibocsátóját bejegyezték.
+h/ Kibocsátás dátuma (ÉÉÉÉHHNN)
+i/ Lejárat dátuma (ÉÉÉÉHHNN)
+j/ Az ISO 4217-es szabvány szerinti, három karakteres devizakódot kell megadni. A többdevizás kibocsátás kódja:
+MCU (=Multi Currency Issue)
+k/ Címletérték
+l/ A következő kódok valamelyikét kell szerepeltetni:
+D= Hitelviszonyt megtestesítő értékpapír (Debt Instrument)
+E= Tulajdonosi jogviszonyt megtestesítő értékpapír (Equity Instrument)
+S= Eredetileg hitelviszonyt megtestesítő értékpapírral kibocsátott, de már önálló értékpapírként funkcionáló
+pénzügyi eszköz. Pl.: kötvény kamatszelvénye /Strips/.
+V= Egyéb (Spare)
+
+m/ Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg és fix kamatozású, tehát ha az l mező értéke ’D’
+és az n mező értéke ’F’.
+Maximum 3 karakter egészrész és maximum 6 karakter tizedes.
+n/ Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg, tehát ha az l mező értéke ’D’.
+F= Fix kamatozású
+V= Változó kamatozású
+Z= Zéró kupon
+o/ Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg, tehát az l mező értéke ’D’.
+Egy teljes naptári évet tekintve, a naptári éven belüli első kamatfizetés dátumát kell beírni. (ÉÉÉÉHHNN)
+p/ Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg, tehát a l mező értéke ’D’.
+B = Kétéves (Bi-annual)
+A = Éves (Annual)
+S = Féléves (Semi-annual)
+Q = Negyedéves (Quarterly)
+M = Havi (Monthly)
+W = Heti (Weekly)
+N = Nem alkalmazható (Not Applicable)
+X = Egyéb, a fentiektől eltérő (Other)
+q/ Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg, tehát a l mező értéke ’D’.
+r/ A törlesztés dátuma ÉÉÉÉHHNN formátumban, szóközzel elválasztva a törlesztésnek a címletérték százalékában
+megadott mértékétől. Az egyes törlesztésekre vonatkozó adatokat egymástól szintén szóközzel kell elválasztani.
+s/ A kifizetések dátuma ÉÉÉÉHHNN formátumban, szóközzel elválasztva a kifizetésnek a címletérték százalékában
+megadott mértékétől. Az egyes kifizetésekre vonatkozó adatokat egymástól szintén szóközzel kell elválasztani.
+t/ Értékpapírhoz kapcsolódó speciális jogok
+05. tábla: Az adatszolgáltató által a KELER-számláitól különböző helyen elhelyezett értékpapírok állománya
+A 05. tábla az adatszolgáltató által a KELER-számláitól (egyesített összevont értékpapírszámla, biztosíték értékpapír
+letéti számla) különböző helyen (beleértve a saját értéktárban) elhelyezett értékpapírok állományának jelentésére
+szolgál.
+Az egyes oszlopokban lévő mezők tartalma:
+a/ Az adott értékpapírhoz rendelt ISIN-kódot tartalmazza, vagy ha az értékpapírnak nincs ISIN-azonosítója, akkor a
+PSZÁF-kódot. Ha az értékpapír Felügyeleti–kóddal sem rendelkezik, akkor „111”-et kérünk a mezőbe írni.
+b/ Az értékpapír pontos nevét kell megadni.
+c/ A részesedést megtestesítő értékpapírok esetén a DB kódjelet (darab), a hitelviszonyt megtestesítő papíroknál a papír
+denominációjának deviza ISO-kódját tartalmazza. (az I.4. d.) pontban leírtak figyelembevételével)
+d/ Az értékpapír állománya.
+e/ A következő kódok valamelyikét kell beírni:
+SE= saját értéktári elhelyezés
+ML=másodlagos letét
+KE=késedelmes elszámolás
+EG=egyéb
+f/ Azt az intézményt kell megnevezni, ahol az értékpapírt elhelyezték. (Saját értéktárban történt elhelyezés esetén az
+adatszolgáltató saját nevét kell megadni.)
+g/ Az „f” oszlopban megadott cég törzsszáma, nem-rezidens esetén pedig „00000001” szerepel.
+
+06. tábla: Más jelentő letétkezelő által az adatszolgáltatónál elhelyezett értékpapírok állománya
+A 06. táblában azokat az értékpapírokat kell felsorolni, amelyeket az adatszolgáltatónál egy másik jelentő letétkezelő
+(rezidens bank, szakosított hitelintézet, befektetési vállalkozás) helyezett el. E papírok megjelenhetnek a jelentő
+KELER-számláján, saját értéktárában, illetve - ha a jelentő pl. harmadlagos letétbe adta tovább – egy másik jelentő
+letétkezelőnél is. (Ez utóbbi esetben természetesen a 05-ös táblában is szerepeltetnie kell a kérdéses állományt.)
+Ezek az állományok a 01-es táblában nem jelenhetnek meg.
+Az egyes oszlopokban lévő mezők tartalma:
+a/ Az adott értékpapírhoz rendelt ISIN-kódot tartalmazza, vagy ha az értékpapírnak nincs ISIN-azonosítója, akkor a
+PSZÁF-kódot. Ha az értékpapír Felügyeleti –kóddal sem rendelkezik akkor „111”-et kérünk a mezőbe írni.
+b/ Az értékpapír pontos nevét kell megadni.
+c/ A részesedést megtestesítő értékpapírok esetén a DB kódjelet (darab), a hitelviszonyt megtestesítő papíroknál a papír
+denominációjának deviza ISO-kódját tartalmazza (az I.4. d.) pontban leírtak figyelembevételével).
+d/ Az értékpapír állománya.
+e/ A következő kódok valamelyikét kell beírni:
+ML=másodlagos letét
+IT= ismeretlen tulajdonos
+KE=késedelmes elszámolás
+EG=egyéb
+f/ Annak a jelentő letétkezelőnek a nevét kell beírni, amely az értékpapírt az adatszolgáltatónál elhelyezte.
+g/ Az „f” oszlopban megadott cég törzsszámát kell megadni.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: E23
+A KELER Rt-nél vezetett egyesített összevont értékpapírszámlákon és
+biztosíték értékpapír letéti számlákon lévő értékpapír-állományok
+(darab ill. ezer deviza)
+Teljes értékpapír
+számlaállomány Ebből:
+Sor-
+szám
+Főszámla-
+tulajdonos
+törzsszáma
+Főszámla-
+tulajdonos
+megneve-
+zése
+ISIN kód Az
+értékpapír
+neve
+Az állomány
+megfigyelési
+egységének
+kódja* saját
+tulajdonú
+nem saját
+tulajdonú
+puffer
+számla
+állománya
+a b c d e f g h
+
+...
+...
+...
+
+*/ Részesedést megtestesítő értékpapírok esetén db, hitelviszonyt megtestesítő papíroknál a papír denominációjának deviza ISO-kódja.
+
+MNB adatgyűjtés azonosító: E23
+Kitöltési útmutató
+A KELER Rt-nél vezetett egyesített összevont értékpapírszámlákon és biztosíték értékpapír letéti számlákon
+lévő értékpapír-állományok
+I. Általános tudnivalók
+1. A tábla valamennyi gazdálkodó szervezetnek a Keler Rt-nél vezetett egyesített összevont értékpapírszámláján és
+biztosíték értékpapír letéti számláján lévő értékpapír állományokat tartalmazza.
+2. Az állományokat értékpapírsorozatonként és főszámlatulajdonosonként kell felsorolni.
+3. A jelentésnek az értékpapír hóvégi, az egyesített összevont értékpapírszámlákon és a biztosíték értékpapír letéti
+számlákon lekönyvelt záró állományának adatait kell tartalmaznia.
+4. Az értékpapírok állományát a következő módon kell jelenteni:
+a tulajdonviszonyt megtestesítő értékpapírok esetén az állományokat darabszám szerint,
+a hitelviszonyt megtestesítő értékpapírokat (kötvények) pedig névértéken, az értékpapír eredeti denominációjában.4
+II. A tábla kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+e/ Az állomány megfigyelési egységének kódja részesedést megtestesítő értékpapírok esetén a DB kódjel (darab), a
+hitelviszonyt megtestesítő papíroknál a papír denominációjának deviza ISO-kódja.
+f-g/ A teljes értékpapír számlaállomány saját (saját tulajdonú) illetve idegen (ügyfél tulajdonú) bontásban.
+h/ A teljes értékpapír számlaállományból (f+g) a puffer számlákon szereplő (a kibocsátó által visszavásárolt, vagy
+forgalomba nem hozott) állományok.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+4 A GMU tagdevizákban denominált értékpapírokat úgy kell szerepeltetni az adatszolgáltatásban, mintha euróban lennének denominálva, az
+állományok értékét pedig az euró-tagdevizák euróhoz rögzített árfolyamai alapján kell meghatározni.
+
+MNB adatgyűjtés azonosító: E27
+01. tábla Értékpapírok KELER Rt. által kiadott ISIN-kódjai és egyéb alapadatai
+Sorszám Az utolsó
+módosítás
+dátuma
+Módosítás
+típusa
+ISIN státusza Kereszt
+hivatkozások
+ISIN-kód Értékpapír
+hivatalos neve
+CFI-kód Értékpapír
+fajta
+Értékpapír
+alfajta
+Kibocsátó
+törzsszáma
+Kibocsátó
+neve
+Befektetési
+Alap neve
+a b c d e f g h i j k l
+
+…
+nn
+(folytatás)
+Kibocsátó
+székhelyének
+országa
+Alap-
+címlet
+Deno-
+mináció
+Kibocsátott
+összes
+darabszám
+Kibocsátott
+össznévérték
+Értékpapír
+kibocsátás
+dátuma
+Lejárat
+dátuma
+Értékpapír
+megjelenési
+formája
+Kamatláb Kamatfizetés
+dátuma
+Kamatfize-
+tési
+gyakoriság
+Első
+kamatfizetés
+dátuma
+BÉT-re
+bevezetett-e
+Esemény-
+kód
+m n o p q r s t u v w x y z
+
+MNB adatgyűjtés azonosító: E27
+02. tábla Értékpapírok kibocsátásai, tőketörlesztései és kamatfizetései
+Sor-
+szám
+ISIN-kód Változáskezelés/Tranzakció kódja Tranzakció dátuma Mennyiség megfigyelési egysége Kibocsátás, tőketörlesztés,
+kamatfizetés valamint
+állományátadás adatai
+Kereszt
+hivatkozások
+a b c d e f
+
+…
+nn
+03. tábla KELER Rt. által vezetett értékpapírszámlán tartott értékpapírok egyéb “Kódkiadó Szervezet” által kiadott ISIN-kódja és egyes alapadatai
+ISIN-kód Értékpapír rövid neve Névérték (alapcímlet) Devizanem Értékpapír fajta
+Sor-
+szám
+a b c d e
+
+…
+nn
+
+01-b-kódtábla az E27 adatgyűjtéshez
+Sorsz.
+Esemény
+Megnevezése
+papír a z b c d e
+módosítás dátuma esemény-kód mód. Típusa ISIN státusz keresztref. ISIN
+
+Születés (Új értékpapír
+előzmény nélkül kerül
+a rendszerbe)
+új papír születés dátuma 1 N A, D, R üres új isin
+
+Jellemző változás
+(Rendszerben lévő
+papír egy vagy több
+attribútumának
+megváltozása)
+papír változás dátuma 2 U A, D, R üres régi
+régi papír változás dátuma 3 D A, D, R
+jogutód ISIN kódja
++ "N"
+régi
+
+Átváltozás
+(Rendszerben lévő
+papír átalakulása
+1 másik papírrá, a régi
+papír megszűnik) új papír változás napja 3 N A, D, R
+jogelőd ISIN kódja
++ "O"
+új
+régi papír változás napja 4 D A, D, R
+jogutód ISIN kódja
++ "N" + <space>
++ másik jogutód (ha
+van) ISIN kódja
++ N…stb
+régi
+új papír 1 változás napja 4 N A, D, R
+jogelőd ISIN kódja
++ "O"
+új
+
+Szétválás (1 régiből
+több új, a régi
+megszűnik)
+új papír 2 változás dátuma 4 N A, D, R
+jogelőd ISIN kódja
++ "O"
+új
+régi papír
+(amiből
+kiválnak)
+változás dátuma 5 U A, D, R
+a kiválók kódjainak
+listája ("N"
+toldalékkóddal)
+régi 1
+új papír 1 változás dátuma 5 N A, D, R
+jogelőd ISIN kódja
++ "O"
+új 1
+
+Kiválás (1 régiből
+1 vagy több új, a régi
+is megmarad)
+új papír 2 változás dátuma 5 N A, D, R
+jogelőd ISIN kódja
++ "O"
+új 2
+régi 1. változás dátuma 6 D A, D, R
+jogutód ISIN kódja
++ "N"
+régi 1
+régi 2 változás dátuma 6 D A, D, R
+jogutód ISIN kódja
++ "N"
+régi 2
+
+Egyesülés (több
+régiből 1 új, a régiek
+megszűnnek)
+új változás dátuma 6 N A, D, R
+a jogelődök kódjának
+listája ("O"
+toldalékkóddal)
+új
+régi 1 (amibe
+beolvadnak)
+változás dátuma 7 U A, D, R
+beolvadók kódjának
+listája ("O"
+toldalékkóddal)
+régi 1
+régi 2 változás dátuma 7 D A, D, R
+jogutód ISIN kódja
++ "N"
+régi 2
+
+Beolvadás ( 1 vagy
+több régi egy másik
+régibe, a beolvadók
+megszűnnek)
+régi 3 változás dátuma 7 D A, D, R
+jogutód ISIN kódja
++ "N"
+régi 3
+
+Értékpapír megszűnés
+(jogutód nélkül)
+papír változás napja 8 D A, D, R üres régi
+9 Értékpapír lejárat papír változás napja 9 D A, D, R üres régi
+régi 1 (amelyik
+állományt ad
+át)
+Az állomány
+átadás
+(átcsoportosítás)
+dátuma
+A U A, D, R
+állományt fogadó
+kódja ("O"
+toldalékkóddal)
+régi 1
+A Állomány átadás
+régi 2 (amelyik
+állományt kap)
+Az állomány
+átadás
+(átcsoportosítás)
+dátuma
+A U A, D, R
+állományt átadó
+kódja ("O"
+toldalékkóddal)
+régi 2
+(Születőknek jogelődje, megszűnőknek jogutódja lehet.)
+
+MNB adatszolgáltatás azonosító. E27
+Kitöltési útmutató
+Értékpapírok KELER Rt. által kiadott ISIN-kódjai és egyéb alapadatai
+I. Általános tudnivalók
+1. A jelentést a KELER Rt-nek kell benyújtania azon értékpapírok ISIN-kódjáról és más alapadatairól,
+amelyeknél a KELER Rt. mint „Nemzeti Kódkiadó Szervezet”, ISIN-kódot ad ki (01.tábla és 02. tábla),
+valamint azon értékpapírokról, amelyekre ugyan nem a KELER adja ki az ISIN-kódot, de rendszereiben
+információval rendelkezik az adott értékpapírról (03. tábla).
+2. A jelentésben csak azokat a rekordokat kell szerepeltetni, amelyeknél valamely mezőben változás következett be.
+3. Az eredetileg GMU tagdevizákban denominált értékpapírok devizaértékben megadott állományait minden esetben
+euróban kell jelenteni, EUR deviza ISO-kód használata mellett.
+4. A kérdőív összhangban van a KELER Rt-nek mint „Nemzeti Kódkiadó Szervezet”-nek (National Numbering
+Agency) a nemzetközi szövetség (Association of National Numbering Agencies, továbbiakban: ANNA) felé
+nyújtandó adatszolgáltatási kötelezettségével.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: Értékpapírok KELER Rt. által kiadott ISIN-kódja és egyéb alapadatai
+a/ Az utolsó módosítás dátuma
+Az ISIN-kód kiadásának, megszüntetésének, – esetleges módosítások esetén – a rekord frissítésének dátuma.
+b/ Módosítás típusa
+D= ISIN törlés (delete)
+N= új ISIN (new)
+U= ISIN frissítése (update)
+c/ ISIN státusza
+Ez a mező biztosítja az ANNA által előírt és az MNB-nek jelentett fájlszerkezet azonosságát.
+A= Aktív ISIN (Active ISIN)
+D= Törölt ISIN (Deleted ISIN)
+R= Újrafelhasznált ISIN (Reused ISIN)
+Ha a Módosítás típusa mező N, akkor az ISIN státusza mezőben a módosítás eredményeképpen létrejött státuszt kell
+feltüntetni.
+Ha a Módosítás típusa mező D vagy U akkor a módosítás előtti státuszt tartalmazza a mező.
+d/ Kereszt hivatkozások
+Maximum 18 hivatkozás, szóközzel elválasztva. Minden egyes hivatkozás tartalmaz egy 12 karakteres ISIN kódot plusz
+1 toldalék kódot.
+A toldalékkódok:
+U = Mögöttes kibocsátás(Underlying issue)
+O= Régi ISIN (pl.: egy névváltozás után) (Old)
+N = Új ISIN (pl.: dematerializálás esetén, amikor egy ISIN-t felvált egy másik ISIN) (New)
+e./ ISIN
+Az ISO 6166-os szabványnak megfelelő 12 karakteres egyedi értékpapír-azonosító.
+Az a/, z/, b/, c/, d/, és e/ mezők lehetséges kapcsolatait és összefüggéseit mutatja a 01-es táblához mellékelt kódtábla.
+
+f/ Értékpapír hivatalos neve
+g/ CFI-kód
+Pénzügyi eszközök osztályozása (Classification for Financial Instruments) ISO 10962. Amennyiben az ISIN-kód
+kiadásának időpontja 2001. december 31. utáni, ki kell tölteni.
+h/ Értékpapírfajta
+Az i/-nél lévő tábla alapján.
+i/ Értékpapír-alfajta
+Az alábbi tábla alapján.
+Tábla az értékpapírfajta és -alfajta mezők értékeiről
+(az Értékpapírok KELER Rt. által kiadott ISIN-kódját és egyéb alapadatait tartalmazó munkalap h és i oszlopához.)
+Amennyiben a KELER a CFI-kód kiadása után nem rögzíti ezt a csoportosítást a rendszerében, akkor ezeket a
+mezőket nem kell kitölteni.
+Értékpapír
+Fajta Alfajta
+Államkötvény
+Kincstári Államkötv.
+Diszkont KJ
+Kamatozó KJ
+Kincstári takarékj.
+MNB Kötvény
+Kötvény Gazdasági társaság által kibocsátott
+Kötvény Önkormányzat által kibocsátott
+Kötvény Hitelintézet által kibocsátott
+Befektetési jegy A sorozat
+Befektetési jegy AA sorozat
+Befektetési jegy B sorozat
+Befektetési jegy Egyéb sorozat
+Jelzáloglevél
+Kárpótlási jegy
+Letéti jegy
+Részvény Dolgozói részvény
+Részvény Törzsrészvény
+Részvény Kamatozó részvény
+Részvény Likvidációs elsőbbségi részvény
+Részvény Osztalék elsőbbségi részvény
+Részvény Osztalékelsőbbségi-kamatozó
+Részvény Szavazat elsőbbségi részvény
+Részvény Zártkörű rt. Elővásárlási jogot bizt.
+Részvény Egyéb elsőbbségi részvény
+Részvény Alapítói részvény
+Részvény Arany részvény
+Részvény Egyéb részvény
+Egyéb
+j/ Kibocsátó törzsszáma
+Az értékpapírt kibocsátó KSH törzsszáma (adószámának első nyolc karaktere).
+Befektetési jegy esetén az alapkezelő törzsszámát, nem-rezidens kibocsátó esetén, amennyiben nincs KSH törzsszáma,
+vagy az MNB és a KELER által közösen rögzített „fiktív” törzsszáma, akkor a „00000001” nyolc karakteres kódot kell
+ebbe a mezőbe írni.
+k/ Kibocsátó neve (hosszú)
+A kibocsátó cég hivatalos neve. (Befektetési jegy esetén az alapkezelőt tekintjük kibocsátónak.)
+
+l/ Befektetési Alap neve
+Csak befektetési jegyek esetén kell kitölteni.
+m/ Kibocsátó székhelyének országa
+ISO 3166-os szabvány szerinti két karakteres országkód. Plusz XS, XA, XB, XC, és XD
+n/ Alapcímlet
+o/ Denomináció
+ISO 4217-es szabvány szerinti három karakteres devizakód. A többdevizás kibocsátás kódja: MCU (Multi Currency
+Issue)
+p/ Kibocsátott összes darabszám
+q/ Kibocsátott össznévérték
+Kitöltése kötelező, amennyiben az alapcímlet (n) és a kibocsátott összes darabszám (p) mező együtt nem határozható
+meg. (Devizaegységben, az o mezőben meghatározott devizanemben, MCU esetén HUF-ban.)
+r/ Értékpapír kibocsátás dátuma
+Az értékpapír első kibocsátásának dátuma
+s/ Lejárat dátuma
+Lejárattal rendelkező értékpapíroknál kell kitölteni.
+t/ Értékpapír megjelenési formája
+D = Dematerializált (Dematerialized)
+I = Nyomdai és immobilizált (Printed Immobilized)
+P = Nyomdai és nem immobilizált (Printed not immobilized)
+u/ Kamatláb
+Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg és fix kamatozású.
+v/ Kamatfizetés dátuma
+Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg és a b/ mező értéke „N„ (a c/ mező értéke pedig
+„A”).
+Egy teljes naptári évet tekintve, a naptári éven belüli első kamatfizetés.
+w/ Kamatfizetési gyakoriság
+Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg és a b/ mező értéke „N„ (a c/ mező értéke pedig
+„A”).
+B = Kétéves (Bi-annual)
+A = Éves (Annual)
+S = Féléves (Semi-annual)
+Q = Negyedéves (Quarterly)
+M = Havi (Monthly)
+W = Heti (Weekly)
+N = Nem besorolható (Not Applicable)
+X = Egyéb (Other)
+x/ Első kamatfizetés dátuma
+Csak akkor kell kitölteni, ha az értékpapír hitelviszonyt testesít meg és a b/ mező értéke „N„ (a c/ mező értéke pedig
+„A”).
+y/ BÉT-re bevezetett-e
+T = Igen
+F = Nem
+z/ Esemény-kód
+1= Születés
+2= Jellemző változás
+3= Átváltozás
+4= Szétválás
+5= Kiválás
+6= Egyesülés
+
+7= Beolvadás
+8= Értékpapír megszűnés
+9= Értékpapír lejárat
+A= Állományátadás
+Bővebben lásd a 01-es táblához mellékelt kódtáblát.
+02. tábla: Értékpapírok kibocsátásai, tőketörlesztései és kamatfizetései
+1. A tábla az előző E27-es adatszolgáltatás óta bekövetkezett, adott értékpapírsorozatokhoz kapcsolódó
+állományváltozási (kibocsátási, tőketörlesztési, kamatfizetési és állomány átcsoportosításra vonatkozó)
+adatokat tartalmazza. A módosított rekordnál a bizonylat jellege mező értéke legyen ’M’, a Kitöltés dátuma
+mező értéke pedig a módosítás dátumát tartalmazza. Csak a 2001. december 31. utáni kibocsátásokra,
+tőketörlesztésekre ill. az ezen időpont után kiadott ISIN-kódokkal rendelkező értékpapírok kamatozásáról kell
+információt szolgáltatni.
+2. Kibocsátási adatokat, minden értékapírra amelyre a KELER Rt. azonosítót ad ki, tőketörlesztési adatokat csak
+ún. tőketörlesztéses papírokra, a melyek a futamidejük alatt tőkét törlesztenek, kamatfizetési adatokat pedig
+azokra a hitelviszonyt megtestesítő fix kamatozású papírokra, amelyeknek cashflowja a 01. tábla u-x
+oszlopaiban szereplő adatokból egyértelműen nem határozható meg.
+a/ ISIN
+Az ISO 6166-os szabványnak megfelelő 12 karakteres egyedi értékpapír-azonosító.
+b/ Változáskezelés/ Tranzakció kódja
+A változáskezelés kódjai:
+1= Születés
+2= Jellemző változás
+3= Átváltozás
+4= Szétválás
+5= Kiválás
+6= Egyesülés
+7= Beolvadás
+8= Értékpapír megszűnés
+9= Értékpapír lejárat
+A= Állományátadás
+Bővebben lásd a 01-es táblához mellékelt kódtáblát.
+Nem a változáskezeléshez kapcsolódó kódok:
+I = Kibocsátás
+R = Tőketörlesztés
+C = Kamatfizetés
+c/ Tranzakció dátuma
+d/ Mennyiség megfigyelési egysége
+Értékadatok esetén a papír denominációjának deviza ISO-kódja, darabban megadott adatok esetén DB, százalékos
+adatok esetén PC kódjel.
+e/ Kibocsátás, tőketörlesztés, kamatfizetés valamint állományátadás adatai
+Törlesztés esetén, százalékos érték megadásánál, a törlesztés címletértéknek százalékában megadott mértéke,
+kamatfizetésnél a címletérték százalékában megadott mértéke. A kibocsátási adatokat a mennyiség megfigyelési
+egységében kell megadni.
+Az állományátadásnál: állománynövekedés esetén pozitív, állománycsökkenés esetén negatív számot kell megadni.
+f/ Kereszt hivatkozások
+Maximum 18 hivatkozás, szóközzel elválasztva. Minden egyes hivatkozás tartalmaz egy 12 karakteres ISIN kódot plusz
+1 toldalék kódot.
+
+03. tábla: KELER Rt. által vezetett értékpapírszámlán tartott értékpapírok egyéb “Kódkiadó Szervezet” által
+kiadott ISIN-kódja és egyes alapadatai
+a/ ISIN-kód
+Az ISO 6166-os szabványnak megfelelő 12 karakteres egyedi értékpapír-azonosító.
+b./ Értékpapír rövid neve
+c./ Alapcímlet
+d./ Devizanem
+ISO 4217-es szabvány szerinti három karakteres devizakód.
+e./ Értékpapír fajta
+Értékei: „D” vagy „E”,attól függően, hogy az értékpapír hiteljogviszonyt (D = Debt instruments) vagy tulajdonosi
+jogviszonyt (E = Equities) testesít meg.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: E28
+Értékpapír elszámolási rendszerben feldolgozott megbízások piaconkénti megoszlása
+Tranzakció szám Értékpapír devizaneme
+Névérték
+millió-ban
+Sor-
+szám
+Megnevezés
+a b c
+01 OTC állampapírpiac / DVP elven
+02 Egyszerű értékpapír átutalás
+03 ezen belül: állampapír
+04 részvény
+05 egyéb kötvény
+06 egyéb értékpapír
+
+MNB adatgyűjtés azonosító: E28
+Kitöltési útmutató
+Értékpapír elszámolási rendszerben feldolgozott megbízások piaconkénti megoszlása
+I. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. sor: A sor tartalmazza az elsődleges kibocsátás allokációjából generált adatokat is.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: E43
+Opciós részvényügyletek a BÉT-en
+01.tábla Napi forgalom a BÉT opciós piacán (Call)
+kontraktus
+Call
+Rezidens Nem rezidens
+Opciós sorozat
+Vétel Eladás Vétel Eladás
+Elszámolóár
+(forint)
+Sor-
+szám
+a b c d e f
+
+...
+…
+...
+...
+nnn
+02.tábla Napi forgalom a BÉT opciós piacán (Put)
+kontraktus
+Put
+Rezidens Nem rezidens
+Opciós sorozat
+Vétel Eladás Vétel Eladás
+Elszámolóár
+(forint)
+Sor-
+szám
+a b c d e f
+
+...
+…
+...
+...
+nnn
+
+MNB adatgyűjtés azonosító: E43
+Opciós részvényügyletek a BÉT-en
+03.tábla Nyitott kötésállomány a BÉT opciós piacán (a tőzsdenap végén) (Call)
+kontraktus
+Call
+Rezidens Nem rezidens
+Opciós sorozat
+Vételi Eladási Vételi Eladási
+Sor-
+szám
+a b c d e
+
+...
+…
+...
+...
+nnn
+04.tábla Nyitott kötésállomány a BÉT opciós piacán (a tőzsdenap végén) (Put)
+kontraktus
+Put
+Rezidens Nem rezidens
+Opciós sorozat
+Vételi Eladási Vételi Eladási
+Sor-
+szám
+a b c d e
+
+...
+…
+...
+...
+nnn
+
+MNB adatgyűjtés azonosító: E43
+Opciós részvényügyletek a BÉT-en
+05.tábla A tőzsdenapon lehívott opciók a BÉT opciós piacán (Call)
+kontraktus
+Lehívott call opció
+Opciós sorozat
+Rezidens által
+Rezidenssel
+szemben
+Nem rezidens által
+Nem rezidenssel
+szemben
+Sor-
+szám
+a b c d e
+
+...
+…
+...
+...
+nnn
+06.tábla A tőzsdenapon lehívott opciók a BÉT opciós piacán (Put)
+kontraktus
+Lehívott put opció
+Opciós sorozat
+Rezidens által
+Rezidenssel
+szemben
+Nem rezidens által
+Nem rezidenssel
+szemben
+Sor-
+szám
+a b c d e
+
+...
+…
+...
+...
+nnn
+07.tábla A tőzsdenapi forgalomhoz kapcsolódó prémiumok a BÉT opciós piacán
+forint
+Rezidens Nem rezidens Rezidens Nem rezidens
+Opciós sorozat
+által fizetett prémium által kapott prémium
+Sor-
+szám
+a b c d e
+
+...
+…
+...
+...
+nnn
+
+MNB adatgyűjtés azonosító: E43
+Kitöltési útmutató
+Opciós részvényügyletek a BÉT-en
+I. Általános tudnivalók
+1. A rezidensek, illetve a nem-rezidensek meghatározásánál az e rendelet 2. mellékletének A pontjában leírtakat kell
+figyelembe venni.
+2. A táblák a rezidensek, illetve a nem rezidensek összevont adatait tartalmazzák (tehát brókerenkénti, illetve
+megbízónkénti adatok nem szerepelnek bennük).
+3. Mindegyik opciós sorozat csak egyszer szerepelhet az egyes táblákban.
+4. Valamennyi, aktuálisan létező instrumentumot hiánytalanul szerepeltetni kell. A már létező opciós sorozatok
+elnevezése, kódja nem változhat.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+1. A 01. és a 02. táblában az elszámolóárakat egy tizedesre kell megadni.
+2. Összefüggések a 01., illetve a 02. táblán belül:
+Minden opciós sorozatra külön-külön igaz, hogy az összes vétel (kontraktusban kifejezve) megegyezik az összes
+eladással (b+d = c+e).
+3. Összefüggések a 03., illetve a 04. táblán belül:
+Minden opciós sorozatra külön-külön igaz, hogy az összes nyitott vételi pozíció (kontraktusban kifejezve) megegyezik
+az összes nyitott eladási pozícióval (b+d = c+e).
+4. Összefüggések a 05., illetve a 06. táblán belül:
+Minden opciós sorozatra külön-külön igaz, hogy: b+d = c+e.
+
+5. A 07. táblában az adatokat opciós kontraktusonként, forintban kell megadni.
+6. Összefüggések a 07. táblán belül:
+Mivel a fizetett és a kapott prémiumok összege megegyezik egymással, ezért: b +c = d+e.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+001 1 A B 0
+Eszközök összesen
+(2+11+90+162+174+332+362+378+418)
+Σ
+002 1 A B 1 Pénztár és elszámolási számlák (3+...+10) Σ
+003 1 A B 1 1 Pénztárkészlet (forint, valuta)
+004 1 A B 1 2 Jegybanki nostro számlák
+005 1 A B 1 3 Szöv. hit. int. MTB-nél lévő elszámolási számlája
+006 1 A B 1 4
+Jegybanki nostro számlákkal és MTB-nél lévő
+elsz.szlával kapcs.átvez.szla állomány
+007 1 A B 1 5 Nostro számlák belföldi hitelintézeteknél
+008 1 A B 1 6 1 Nostro számlák GMU hitelintézeteknél
+009 1 A B 1 6 2 Nostro számlák egyéb külföldi bankoknál
+010 1 A B 1 7 Nostro számlák értékvesztése
+011 1 A B 2 Forgatási célú értékpapírok (12+63) Σ
+012 1 A B 2 1
+Hitelviszonyt megtestesítő értékpapírok összesen
+(13+...+62)
+Σ
+013 1 A B 2 1 1 1 Kincstárjegy
+014 1 A B 2 1 1 2 Államkötvény
+015 1 A B 2 1 1 3 Konszolidációs államkötvény
+016 1 A B 2 1 2 1 Helyi önkormányzati kötvény - rövid
+017 1 A B 2 1 2 2 Helyi önkormányzati kötvény - hosszú
+018 1 A B 2 1 2 3
+Állampapírok és helyi önkormányzati kötvény
+értékvesztése, értékelési különbözete
+019 1 A B 2 1 3 1 Jegybanki kötvény - rövid
+020 1 A B 2 1 3 2
+Jegybanki kötvény - hosszú - legfeljebb 2 éves
+lejáratú
+021 1 A B 2 1 3 3 Jegybanki kötvény - hosszú - 2 éven túli lejáratú
+022 1 A B 2 1 3 4
+Jegybanki kötvény értékvesztése, értékelési
+különbözete
+023 1 A B 2 1 4 1 Belföldi hitelintézetek kötvénye - rövid
+024 1 A B 2 1 4 2 1
+Belföldi hitelintézetek kötvénye - hosszú -
+legfeljebb 2 éves lejáratú
+025 1 A B 2 1 4 2 2
+Belföldi hitelintézetek kötvénye - hosszú - 2 éven
+túli lejáratú
+026 1 A B 2 1 4 3
+Belföldi hitelintézeti kötvény értékvesztése,
+értékelési különbözete
+027 1 A B 2 1 5 1 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások kötvénye - rövid
+028 1 A B 2 1 5 1 1 2
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások kötvénye - hosszú
+029 1 A B 2 1 5 1 2 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+kötvénye - rövid
+030 1 A B 2 1 5 1 2 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+kötvénye - hosszú
+031 1 A B 2 1 5 2 1 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások kötvénye -
+rövid
+032 1 A B 2 1 5 2 1 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások kötvénye -
+hosszú
+033 1 A B 2 1 5 2 2 1
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények kötvénye - rövid
+034 1 A B 2 1 5 2 2 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények kötvénye - hosszú
+035 1 A B 2 1 5 3 1 Biztosítók kötvénye - rövid
+036 1 A B 2 1 5 3 2 Biztosítók kötvénye - hosszú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+037 1 A B 2 1 5 4
+Egyéb püi közvetítők, püi kieg. tev. végzők,
+biztosítók kötvényének értékvesztése, értékelési
+különbözete
+038 1 A B 2 1 6 1 1 Járulékos vállalkozások kötvénye - rövid
+039 1 A B 2 1 6 1 2 Járulékos vállalkozások kötvénye - hosszú
+040 1 A B 2 1 6 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül)
+kötvénye - rövid
+041 1 A B 2 1 6 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül)
+kötvénye - hosszú
+042 1 A B 2 1 6 3
+Nem pénzügyi vállalatok kötvényének
+értékvesztése, értékelési különbözete
+043 1 A B 2 1 7 1
+Háztartásokat segítő nonprofit intézmények
+kötvénye - rövid
+044 1 A B 2 1 7 2
+Háztartásokat segítő nonprofit intézmények
+kötvénye - hosszú
+045 1 A B 2 1 7 3
+Háztartásokat segítő nonprofit intézmények
+kötvényének értékvesztése, értékelési különbözete
+046 1 A B 2 1 8 1 Egyéb belföldi kötvény - rövid
+047 1 A B 2 1 8 2 Egyéb belföldi kötvény - hosszú
+048 1 A B 2 1 8 3
+Egyéb belföldi kötvény értékvesztése, értékelési
+különbözete
+049 1 A B 2 1 9 1 1 1 GMU állampapírok - rövid
+050 1 A B 2 1 9 1 1 2 GMU állampapírok - hosszú
+051 1 A B 2 1 9 1 2 1 GMU egyéb ÁHT értékpapírja - rövid
+052 1 A B 2 1 9 1 2 2 GMU egyéb ÁHT értékpapírja - hosszú
+053 1 A B 2 1 9 1 3 1 GMU MPIk kötvénye - rövid
+054 1 A B 2 1 9 1 3 2 1
+GMU MPIk kötvénye - hosszú - legfeljebb 2 éves
+lejáratú
+055 1 A B 2 1 9 1 3 2 2 GMU MPIk kötvénye - hosszú - 2 éven túli lejáratú
+056 1 A B 2 1 9 1 4 1 GMU egyéb szektorok kötvénye - rövid
+057 1 A B 2 1 9 1 4 2 GMU egyéb szektorok kötvénye - hosszú
+058 1 A B 2 1 9 2 1 1 Egyéb külföldi állampapírok - rövid
+059 1 A B 2 1 9 2 1 2 Egyéb külföldi állampapírok - hosszú
+060 1 A B 2 1 9 2 2 1 Egyéb külföldiek kötvénye - rövid
+061 1 A B 2 1 9 2 2 2 Egyéb külföldiek kötvénye - hosszú
+062 1 A B 2 1 9 3
+Külföldi kötvények értékvesztése, értékelési
+különbözete
+063 1 A B 2 2 Tulajdoni részesedések összesen (64+...+89) Σ
+064 1 A B 2 2 1 1
+Belföldi hitelintézetek tőzsdére bevezetett
+részvényei
+065 1 A B 2 2 1 2
+Belföldi hitelintézetek tőzsdére NEM bevezetett
+részvényei
+066 1 A B 2 2 1 3
+Belföldi hitelintézetek részvényeinek értékvesztése,
+értékelési különbözete
+067 1 A B 2 2 2 1 1 Pénzpiaci alapok befektetési jegyei
+068 1 A B 2 2 2 1 2
+Pénzpiaci alapok befektetési jegyeinek
+értékvesztése, értékelési különbözete
+069 1 A B 2 2 2 2 1 Egyéb befektetési jegyek
+070 1 A B 2 2 2 2 2 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások tőzsdére bevezetett
+részvényei
+071 1 A B 2 2 2 2 2 1 2
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások tőzsdére NEM bevezetett
+részvényei
+072 1 A B 2 2 2 2 2 2 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+tőzsdére bevezetett részvényei
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+073 1 A B 2 2 2 2 2 2 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+tőzsdére NEM bevezetett részvényei
+074 1 A B 2 2 2 2 3 1 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások tőzsdére
+bevezetett részvényei
+075 1 A B 2 2 2 2 3 1 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások tőzsdére
+NEM bevezetett részvényei
+076 1 A B 2 2 2 2 3 2 1
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények tőzsdére bevezetett részvényei
+077 1 A B 2 2 2 2 3 2 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények tőzsdére NEM bevezetett részvényei
+078 1 A B 2 2 2 2 4 1 Biztosítók tőzsdére bevezetett részvényei
+079 1 A B 2 2 2 2 4 2 Biztosítók tőzsdére NEM bevezetett részvényei
+080 1 A B 2 2 2 2 5
+Egyéb bef.jegyek, egyéb püi közvetítők, pénzügyi
+kieg. tev. végzők, biztosítók részvényének
+értékvesztése, értékelési különbözete
+081 1 A B 2 2 3 1
+Nem pénzügyi vállalatok tőzsdére bevezetett
+részvényei
+082 1 A B 2 2 3 2
+Nem pénzügyi vállalatok tőzsdére NEM bevezetett
+részvényei
+083 1 A B 2 2 3 3
+Nem pénzügyi vállalatok részvényeinek
+értékvesztése, értékelési különbözete
+084 1 A B 2 2 4 1 1 GMU pénzpiaci alapok bef. jegyei
+085 1 A B 2 2 4 1 2 GMU MPIk részvényei
+086 1 A B 2 2 4 1 3 GMU egyéb szektorok részvénye és bef. jegye
+087 1 A B 2 2 4 2 1 Egyéb külföldi pénzpiaci alapok bef. jegyei
+088 1 A B 2 2 4 2 2 Egyéb külföldiek részvénye és bef. jegye
+089 1 A B 2 2 4 3
+Külföldi részvények, bef. jegyek értékvesztése,
+értékelési különbözete
+090 1 A B 3 Befektetési célú értékpapírok (91+135) Σ
+091 1 A B 3 1
+Hitelviszonyt megtestesítő értékpapírok összesen
+(92+...+134)
+Σ
+092 1 A B 3 1 1 1 Államkötvény
+093 1 A B 3 1 1 2 Konszolidációs államkötvény
+094 1 A B 3 1 1 3 Helyi önkormányzati kötvény
+095 1 A B 3 1 1 4
+Állampapírok és helyi önkormányzati kötvény
+értékvesztése, értékelési különbözete
+096 1 A B 3 1 2 1 Jegybanki kötvény - legfeljebb 2 éves lejáratú
+097 1 A B 3 1 2 2 Jegybanki kötvény - 2 éven túli lejáratú
+098 1 A B 3 1 2 3
+Jegybanki kötvény értékvesztése, értékelési
+különbözete
+099 1 A B 3 1 3 1
+Belföldi hitelintézetek kötvénye - legfeljebb 2 éves
+lejáratú
+100 1 A B 3 1 3 2
+Belföldi hitelintézetek kötvénye - 2 éven túli
+lejáratú
+101 1 A B 3 1 3 3
+Belföldi hitelintézeti kötvény értékvesztése,
+értékelési különbözete
+102 1 A B 3 1 4 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások kötvénye
+103 1 A B 3 1 4 1 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+kötvénye
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+104 1 A B 3 1 4 2 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások kötvénye
+105 1 A B 3 1 4 2 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények kötvénye
+106 1 A B 3 1 4 3 Biztosítók kötvénye
+107 1 A B 3 1 4 4
+Egyéb püi közvetítők, püi kieg. tev. végzők,
+biztosítók kötvényének értékvesztése, értékelési
+különbözete
+108 1 A B 3 1 5 1 Járulékos vállalkozások kötvénye
+109 1 A B 3 1 5 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül)
+kötvénye
+110 1 A B 3 1 5 3
+Nem pénzügyi vállalatok kötvényének
+értékvesztése, értékelési különbözete
+111 1 A B 3 1 6 1
+Háztartásokat segítő nonprofit intézmények
+kötvénye
+112 1 A B 3 1 6 2
+Háztartásokat segítő nonprofit intézmények
+kötvényének értékvesztése, értékelési különbözete
+113 1 A B 3 1 7 1 Egyéb belföldi kötvény
+114 1 A B 3 1 7 2
+Egyéb belföldi kötvény értékvesztése, értékelési
+különbözete
+115 1 A B 3 1 8 1 1 GMU állampapírok
+116 1 A B 3 1 8 1 2 GMU egyéb ÁHT értékpapírja
+117 1 A B 3 1 8 1 3 1 GMU MPIk kötvénye - legfeljebb 2 éves lejáratú
+118 1 A B 3 1 8 1 3 2 GMU MPIk kötvénye - 2 éven túli lejáratú
+119 1 A B 3 1 8 1 4 GMU egyéb szektorok kötvénye
+120 1 A B 3 1 8 2 1 Egyéb külföldi állampapírok
+121 1 A B 3 1 8 2 2 Egyéb külföldiek kötvénye
+122 1 A B 3 1 8 3
+Külföldi kötvények értékvesztése, értékelési
+különbözete
+123 1 A B 3 1 9 1 1
+Belföldi hitelintézetek ZÁRT körű kötvénye -
+legfeljebb 2 éves lejáratú
+124 1 A B 3 1 9 1 2
+Belföldi hitelintézetek ZÁRT körű kötvénye -
+2 éven túli lejáratú
+125 1 A B 3 1 9 1 3
+Belföldi hitelintézetek ZÁRT körű kötvényének
+értékvesztése, értékelési különbözete
+126 1 A B 3 1 9 2 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalk. ZÁRT körű kötvénye
+127 1 A B 3 1 9 2 1 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+ZÁRT körű kötvénye
+128 1 A B 3 1 9 2 2 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalk. ZÁRT körű
+kötvénye
+129 1 A B 3 1 9 2 2 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények ZÁRT körű kötvénye
+130 1 A B 3 1 9 2 3 Biztosítók ZÁRT körű kötvénye
+131 1 A B 3 1 9 2 4
+Egyéb püi közvetítők, pénzügyi kieg. tev. végzők,
+biztosítók ZÁRT körű kötvényének értékvesztése,
+értékelési különbözete
+132 1 A B 3 1 9 3 1 Járulékos vállalkozások ZÁRT körű kötvénye
+133 1 A B 3 1 9 3 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül)
+ZÁRT körű kötvénye
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+134 1 A B 3 1 9 3 3
+Nem pénzügyi vállalatok ZÁRT körű kötvényének
+értékvesztése, értékelési különbözete
+135 1 A B 3 2 Tulajdoni részesedések összesen (136+...+161) Σ
+136 1 A B 3 2 1 1
+Belföldi hitelintézetek tőzsdére bevezetett
+részvényei
+137 1 A B 3 2 1 2
+Belföldi hitelintézetek tőzsdére NEM bevezetett
+részvényei
+138 1 A B 3 2 1 3
+Belföldi hitelintézetek részvényeinek
+értékvesztése, értékelési különbözete
+139 1 A B 3 2 2 1 1 Pénzpiaci alapok befektetési jegyei
+140 1 A B 3 2 2 1 2
+Pénzpiaci alapok befektetési jegyeinek
+értékvesztése, értékelési különbözete
+141 1 A B 3 2 2 2 1 Egyéb befektetési jegyek
+142 1 A B 3 2 2 2 2 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások tőzsdére bevezetett
+részvényei
+143 1 A B 3 2 2 2 2 1 2
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások tőzsdére
+NEM bevezetett részvényei
+144 1 A B 3 2 2 2 2 2 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+tőzsdére bevezetett részvényei
+145 1 A B 3 2 2 2 2 2 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+tőzsdére NEM bevezetett részvényei
+146 1 A B 3 2 2 2 3 1 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások tőzsdére
+bevezetett részvényei
+147 1 A B 3 2 2 2 3 1 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások tőzsdére
+NEM bevezetett részvényei
+148 1 A B 3 2 2 2 3 2 1
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények tőzsdére bevezetett részvényei
+149 1 A B 3 2 2 2 3 2 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények tőzsdére NEM bevezetett részvényei
+150 1 A B 3 2 2 2 4 1 Biztosítók tőzsdére bevezetett részvényei
+151 1 A B 3 2 2 2 4 2 Biztosítók tőzsdére NEM bevezetett részvényei
+152 1 A B 3 2 2 2 5
+Egyéb bef.jegyek, egyéb püi közvetítők, pénzügyi
+kieg. tev. végzők, biztosítók részvényének
+értékvesztése, értékelési különbözete
+153 1 A B 3 2 3 1
+Nem pénzügyi vállalatok tőzsdére bevezetett
+részvényei
+154 1 A B 3 2 3 2
+Nem pénzügyi vállalatok tőzsdére NEM bevezetett
+részvényei
+155 1 A B 3 2 3 3
+Nem pénzügyi vállalatok részvényeinek
+értékvesztése, értékelési különbözete
+156 1 A B 3 2 4 1 1 GMU pénzpiaci alapok bef. jegyei
+157 1 A B 3 2 4 1 2 GMU MPIk részvényei
+158 1 A B 3 2 4 1 3 GMU egyéb szektorok részvénye és bef. jegye
+159 1 A B 3 2 4 2 1 Egyéb külföldi pénzpiaci alapok bef. jegyei
+160 1 A B 3 2 4 2 2 Egyéb külföldiek részvénye és bef. jegye
+161 1 A B 3 2 4 3
+Külföldi részvények, részesedések, bef. jegyek
+értékvesztése, értékelési különbözete
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+162 1 A B 4 Jegybanki és bankközi betétek (163+...+173) Σ
+163 1 A B 4 1 1 1 Jegybanknál elhelyezett betétek - rövid
+164 1 A B 4 1 1 2 Jegybanknál elhelyezett betétek - hosszú
+165 1 A B 4 2 1
+Belföldi hitelintézeteknél elhelyezett betétek -
+rövid
+166 1 A B 4 2 2
+Belföldi hitelintézeteknél elhelyezett betétek -
+hosszú
+167 1 A B 4 2 3
+Belföldi hitelintézetek - követelések valódi penziós
+ügyletekből
+168 1 A B 4 2 4
+Belföldi hitelintézetek bankközi betéteinek
+értékvesztése
+169 1 A B 4 3 1 1
+GMU hitelintézeteknél elhelyezett bankközi
+betétek - rövid
+170 1 A B 4 3 1 2
+GMU hitelintézeteknél elhelyezett bankközi
+betétek - hosszú
+171 1 A B 4 3 2 1
+Egyéb külföldön elhelyezett bankközi betétek -
+rövid
+172 1 A B 4 3 2 2
+Egyéb külföldön elhelyezett bankközi betétek -
+hosszú
+173 1 A B 4 3 3
+Külföldön elhelyezett bankközi betétek
+értékvesztése
+174 1 A B 5 Hitelek (175+...+331) Σ
+175 1 A B 5 1 1 1 Központi költségvetésnek nyújtott hitel - rövid
+176 1 A B 5 1 1 2 Központi költségvetésnek nyújtott hitel - hosszú
+177 1 A B 5 1 1 3 1
+Központi kormányzathoz sorolt egyéb intézmények
+hitele - rövid
+178 1 A B 5 1 1 3 2
+Központi kormányzathoz sorolt egyéb intézmények
+hitele - hosszú
+179 1 A B 5 1 1 4
+Központi kormányzat hitelének értékvesztése,
+értékelési különbözete
+180 1 A B 5 1 2 1 Helyi önkormányzatok hitele - rövid
+181 1 A B 5 1 2 2 Helyi önkormányzatok hitele - hosszú
+182 1 A B 5 1 2 3
+Helyi önkormányzatok hitelének értékvesztése,
+értékelési különbözete
+183 1 A B 5 2 Jegybanknak nyújtott hitel
+184 1 A B 5 3 1 1 Belföldi hitelintézeteknek nyújtott hitel - rövid
+185 1 A B 5 3 1 2 Belföldi hitelintézeteknek nyújtott hitel - hosszú
+186 1 A B 5 3 2 1
+Belföldi hitelintézeteknek nyújtott kiegészítő
+alárendelt kölcsöntőke
+187 1 A B 5 3 2 2
+Belföldi hitelintézeteknek nyújtott alárendelt
+kölcsöntőke
+188 1 A B 5 3 2 3
+Belföldi hitelintézeteknek nyújtott külföldi
+szervezésű hitel
+189 1 A B 5 3 3 1 Pénzpiaci alapoknak nyújtott hitel
+190 1 A B 5 3 3 2
+Pénzpiaci alapok - követelés valódi penziós
+ügyletekből
+191 1 A B 5 3 4
+Monetáris pénzügyi intézményeknek nyújtott hitel
+értékvesztése, értékelési különbözete
+192 1 A B 5 4 1 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozásoknak nyújtott hitel - rövid
+193 1 A B 5 4 1 1 2 1
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozásoknak nyújtott hitel - hosszú - legfeljebb
+5 éves lejáratra
+194 1 A B 5 4 1 1 2 2
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozásoknak nyújtott hitel - hosszú - 5 éven
+túli lejáratra
+195 1 A B 5 4 1 1 3
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozásoknak nyújtott kieg. alárendelt
+kölcs.tőke
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+196 1 A B 5 4 1 1 4
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozásoknak nyújtott alárendelt kölcsöntőke
+197 1 A B 5 4 1 1 5 1
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozások - köv. valódi penziós ügyletből -
+rövid
+198 1 A B 5 4 1 1 5 2 1
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozások - köv. valódi penziós ügyletből -
+hosszú - legfeljebb 5 éves lejáratú
+199 1 A B 5 4 1 1 5 2 2
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozások - köv. valódi penziós ügyletből -
+hosszú - 5 éven túli lejáratú
+200 1 A B 5 4 1 2 1
+Egyéb pénzügyi közvetítők - Egyéb
+intézményeknek nyújtott hitel - rövid
+201 1 A B 5 4 1 2 2 1
+Egyéb pénzügyi közvetítők - Egyéb
+intézményeknek nyújtott hitel - hosszú - legfeljebb
+5 éves lejáratra
+202 1 A B 5 4 1 2 2 2
+Egyéb pénzügyi közvetítők - Egyéb
+intézményeknek nyújtott hitel - hosszú - 5 éven túli
+lejáratra
+203 1 A B 5 4 1 2 3
+Egyéb pénzügyi közvetítők - Egyéb
+intézményeknek nyújtott kieg. alárendelt
+kölcsöntőke
+204 1 A B 5 4 1 2 4
+Egyéb pénzügyi közvetítők - Egyéb
+intézményeknek nyújtott alárendelt kölcs.tőke
+205 1 A B 5 4 1 2 5 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények -
+köv. valódi penziós ügyletből - rövid
+206 1 A B 5 4 1 2 5 2 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények -
+köv. valódi penziós ügyletből - hosszú - legfeljebb
+5 éves lejáratú
+207 1 A B 5 4 1 2 5 2 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények -
+köv. valódi penziós ügyletből - hosszú - 5 éven túli
+lejáratú
+208 1 A B 5 4 2 1 1
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi és
+befekt. vállalkozásoknak nyújtott hitel - rövid
+209 1 A B 5 4 2 1 2 1
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi és
+befekt. vállalkozásoknak nyújtott hitel - hosszú -
+legfeljebb 5 éves lejáratra
+210 1 A B 5 4 2 1 2 2
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi és
+befekt. vállalkozásoknak nyújtott hitel - hosszú -
+5 éven túli lejáratra
+211 1 A B 5 4 2 1 3
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi és
+befekt. vállalkozásoknak nyújtott kieg. alárendelt
+kölcs.tőke
+212 1 A B 5 4 2 1 4
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi és
+befekt. vállalkozásoknak nyújtott alárendelt
+kölcs.tőke
+213 1 A B 5 4 2 1 5 1
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi és
+befekt. vállalkozások - köv. valódi penziós
+ügyletből - rövid
+214 1 A B 5 4 2 1 5 2 1
+Püi kieg. tevékenységet végzők - Pénzügyi és
+befekt. vállalkozások - köv. valódi penziós
+ügyletből - hosszú - legfeljebb 5 éves lejáratú
+215 1 A B 5 4 2 1 5 2 2
+Püi kieg. tevékenységet végzők - Pénzügyi és
+befekt. vállalkozások - köv. valódi penziós
+ügyletből - hosszú - 5 éven túli lejáratú
+216 1 A B 5 4 2 2 1
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézményeknek nyújtott hitel - rövid
+217 1 A B 5 4 2 2 2 1
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézményeknek nyújtott hitel - hosszú - legfeljebb
+5 éves lejáratra
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+218 1 A B 5 4 2 2 2 2
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézményeknek nyújtott hitel - hosszú - 5 éven túli
+lejáratra
+219 1 A B 5 4 2 2 3
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézményeknek nyújtott kieg. alárendelt
+kölcsöntőke
+220 1 A B 5 4 2 2 4
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézményeknek nyújtott alárendelt kölcs.tőke
+221 1 A B 5 4 2 2 5 1
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézmények - köv. valódi penziós ügyletből - rövid
+222 1 A B 5 4 2 2 5 2 1
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézmények - köv. valódi penziós ügyletből -
+hosszú - legfeljebb 5 éves lejáratú
+223 1 A B 5 4 2 2 5 2 2
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézmények - köv. valódi penziós ügyletből -
+hosszú - 5 éven túli lejáratú
+224 1 A B 5 4 3 1 Biztosítóknak nyújtott hitel - rövid
+225 1 A B 5 4 3 2 1
+Biztosítóknak nyújtott hitel - hosszú - legfeljebb
+5 éves lejáratra
+226 1 A B 5 4 3 2 2
+Biztosítóknak nyújtott hitel - hosszú - 5 éven túli
+lejáratra
+227 1 A B 5 4 3 3 Biztosítóknak nyújtott alárendelt kölcsöntőke
+228 1 A B 5 4 3 4 1
+Biztosítók és nyugdíjpénztárak - követelés valódi
+penziós ügyletekből - rövid
+229 1 A B 5 4 3 4 2 1
+Biztosítók és nyugdíjpénztárak - követelés valódi
+penziós ügyletekből - hosszú - legfeljebb 5 éves
+lejáratú
+230 1 A B 5 4 3 4 2 2
+Biztosítók és nyugdíjpénztárak - követelés valódi
+penziós ügyletekből - hosszú - 5 éven túli lejáratú
+231 1 A B 5 4 4
+Egyéb püi közv., püi kieg. tev. végzőknek,
+biztosítóknak nyújtott hitelek értékvesztése,
+értékelési különbözete
+232 1 A B 5 5 1 1 Járulékos vállalkozások - folyószámla hitel
+233 1 A B 5 5 1 2 1
+Járulékos vállalkozások - értékpapír vásárlásra
+nyújtott hitel - rövid
+234 1 A B 5 5 1 2 2 1
+Járulékos vállalkozások - értékpapír vásárlásra
+nyújtott hitel - hosszú - legfeljebb 5 éves lejáratú
+235 1 A B 5 5 1 2 2 2
+Járulékos vállalkozások - értékpapír vásárlásra
+nyújtott hitel - hosszú - 5 éven túli lejáratú
+236 1 A B 5 5 1 3 1
+Járulékos vállalkozások - egyéb hitel és hiteljellegű
+követelés - rövid
+237 1 A B 5 5 1 3 2 1
+Járulékos vállalkozások - egyéb hitel és hiteljellegű
+követelés - hosszú - legfeljebb 5 éves lejáratú
+238 1 A B 5 5 1 3 2 2
+Járulékos vállalkozások - egyéb hitel és hiteljellegű
+követelés - hosszú - 5 éven túli lejáratú
+239 1 A B 5 5 1 4 1
+Járulékos vállalkozások - követelés valódi penziós
+ügyletekből - rövid
+240 1 A B 5 5 1 4 2 1
+Járulékos vállalkozások - követelés valódi penziós
+ügyletekből - hosszú - legfeljebb 5 éves lejáratú
+241 1 A B 5 5 1 4 2 2
+Járulékos vállalkozások - követelés valódi penziós
+ügyletekből - hosszú - 5 éven túli lejáratú
+242 1 A B 5 5 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+folyószámla hitel
+243 1 A B 5 5 2 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - váltó -
+rövid
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+244 1 A B 5 5 2 2 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - váltó -
+hosszú - legfeljebb 5 éves lejáratú
+245 1 A B 5 5 2 2 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - váltó -
+hosszú - 5 éven túli lejáratú
+246 1 A B 5 5 2 3 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+megvásárolt követelés - rövid
+247 1 A B 5 5 2 3 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+megvásárolt követelés - hosszú - legfeljebb 5 éves
+lejáratú
+248 1 A B 5 5 2 3 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+megvásárolt követelés - hosszú - 5 éven túli lejáratú
+249 1 A B 5 5 2 4 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+értékpapír vásárlásra nyújtott hitel - rövid
+250 1 A B 5 5 2 4 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+értékpapír vásárlásra nyújtott hitel - hosszú -
+legfeljebb 5 éves lejáratú
+251 1 A B 5 5 2 4 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+értékpapír vásárlásra nyújtott hitel - hosszú -
+5 éven túli lejáratú
+252 1 A B 5 5 2 5 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+lakáscélú hitel - rövid
+253 1 A B 5 5 2 5 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+lakáscélú hitel - hosszú - legfeljebb 5 éves lejáratú
+254 1 A B 5 5 2 5 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+lakáscélú hitel - hosszú - 5 éven túli lejáratú
+255 1 A B 5 5 2 6 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - egyéb
+hitel - rövid
+256 1 A B 5 5 2 6 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - egyéb
+hitel - hosszú - legfeljebb 5 éves lejáratú
+257 1 A B 5 5 2 6 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - egyéb
+hitel - hosszú - 5 éven túli lejáratú
+258 1 A B 5 5 2 7 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+pénzügyi lízing - legfeljebb 5 éves lejáratú
+259 1 A B 5 5 2 7 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+pénzügyi lízing - 5 éven túli lejáratú
+260 1 A B 5 5 2 8 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+követelés valódi penziós ügyletekből - rövid
+261 1 A B 5 5 2 8 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+követelés valódi penziós ügyletekből - hosszú -
+legfeljebb 5 éves lejáratú
+262 1 A B 5 5 2 8 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+követelés valódi penziós ügyletekből - hosszú -
+5 éven túli lejáratú
+263 1 A B 5 5 3
+Nem pénzügyi vállalatoknak nyújtott hitelek
+értékvesztése, értékelési különbözete
+264 1 A B 5 6 1 1 Háztartások - Lakosság - folyószámla hitel
+265 1 A B 5 6 1 2 1 Háztartások - Lakosság - fogyasztási hitel - rövid
+266 1 A B 5 6 1 2 2 1
+Háztartások - Lakosság - fogyasztási hitel - hosszú
+- legfeljebb 5 éves lejáratú
+267 1 A B 5 6 1 2 2 2
+Háztartások - Lakosság - fogyasztási hitel - hosszú
+- 5 éven túli lejáratú
+268 1 A B 5 6 1 3 1
+Háztartások - Lakosság - értékpapír vásárlásra
+nyújtott hitel - rövid
+269 1 A B 5 6 1 3 2 1
+Háztartások - Lakosság - értékpapír vásárlásra
+nyújtott hitel - hosszú - legfeljebb 5 éves lejáratú
+270 1 A B 5 6 1 3 2 2
+Háztartások - Lakosság - értékpapír vásárlásra
+nyújtott hitel - hosszú - 5 éven túli lejáratú
+271 1 A B 5 6 1 4 1 Háztartások - Lakosság - lakáscélú hitel - rövid
+272 1 A B 5 6 1 4 2 1
+Háztartások - Lakosság - lakáscélú hitel - hosszú -
+legfeljebb 5 éves lejáratú
+273 1 A B 5 6 1 4 2 2
+Háztartások - Lakosság - lakáscélú hitel - hosszú -
+5 éven túli lejáratú
+274 1 A B 5 6 1 5 1 Háztartások - Lakosság - egyéb hitel - rövid
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+275 1 A B 5 6 1 5 2 1
+Háztartások - Lakosság - egyéb hitel - hosszú -
+legfeljebb 5 éves lejáratú
+276 1 A B 5 6 1 5 2 2
+Háztartások - Lakosság - egyéb hitel - hosszú -
+5 éven túli lejáratú
+277 1 A B 5 6 1 6 1
+Háztartások - Lakosság - köv. valódi penziós
+ügyletekből - rövid
+278 1 A B 5 6 1 6 2 1
+Háztartások - Lakosság - köv. valódi penziós
+ügyletekből - hosszú - legfeljebb 5 éves lejáratú
+279 1 A B 5 6 1 6 2 2
+Háztartások - Lakosság - köv. valódi penziós
+ügyletekből - hosszú - 5 éven túli lejáratú
+280 1 A B 5 6 1 7
+Háztartások - Lakosság - hitelek értékvesztése,
+értékelési különbözete
+281 1 A B 5 6 2 1
+Háztartások - Egyéni vállalkozók - folyószámla
+hitel
+282 1 A B 5 6 2 2 1
+Háztartások - Egyéni vállalkozók - értékpapír
+vásárlásra nyújtott hitel - rövid
+283 1 A B 5 6 2 2 2 1
+Háztartások - Egyéni vállalkozók - értékpapír
+vásárlásra nyújtott hitel - hosszú - legfeljebb 5 éves
+lejáratú
+284 1 A B 5 6 2 2 2 2
+Háztartások - Egyéni vállalkozók - értékpapír
+vásárlásra nyújtott hitel - hosszú - 5 éven túli
+lejáratú
+285 1 A B 5 6 2 3 1
+Háztartások - Egyéni vállalkozók - lakáscélú hitel -
+rövid
+286 1 A B 5 6 2 3 2 1
+Háztartások - Egyéni vállalkozók - lakáscélú hitel -
+hosszú - legfeljebb 5 éves lejáratú
+287 1 A B 5 6 2 3 2 2
+Háztartások - Egyéni vállalkozók - lakáscélú hitel -
+hosszú - 5 éven túli lejáratú
+288 1 A B 5 6 2 4 1
+Háztartások - Egyéni vállalkozók - egyéb hitel -
+rövid
+289 1 A B 5 6 2 4 2 1
+Háztartások - Egyéni vállalkozók - egyéb hitel -
+hosszú - legfeljebb 5 éves lejáratú
+290 1 A B 5 6 2 4 2 2
+Háztartások - Egyéni vállalkozók - egyéb hitel -
+hosszú - 5 éven túli lejáratú
+291 1 A B 5 6 2 5 1
+Háztartások - Egyéni vállalkozók - köv. valódi
+penziós ügyletekből - rövid
+292 1 A B 5 6 2 5 2 1
+Háztartások - Egyéni vállalkozók - köv. valódi
+penziós ügyletekből - hosszú - legfeljebb 5 éves
+lejáratú
+293 1 A B 5 6 2 5 2 2
+Háztartások - Egyéni vállalkozók - köv. valódi
+penziós ügyletekből - hosszú - 5 éven túli lejáratú
+294 1 A B 5 6 2 6
+Háztartások - Egyéni vállalkozók - hitelek
+értékvesztése, értékelési különbözete
+295 1 A B 5 7 1 1
+Háztartásokat segítő nonprofit intézmények -
+folyószámla hitele
+296 1 A B 5 7 1 2
+Háztartásokat segítő nonprofit intézmények egyéb
+hitele - rövid
+297 1 A B 5 7 2 1
+Háztartásokat segítő nonprofit intézmények egyéb
+hitele - hosszú - legfeljebb 5 éves lejáratú
+298 1 A B 5 7 2 2
+Háztartásokat segítő nonprofit intézmények egyéb
+hitele - hosszú - 5 éven túli lejáratú
+299 1 A B 5 7 3 1
+Háztartásokat segítő nonprofit int. - köv. valódi
+penziós ügyl.-ből - rövid
+300 1 A B 5 7 3 2 1
+Háztartásokat segítő nonprofit int. - köv. valódi
+penziós ügyl.-ből - hosszú - legfeljebb 5 éves
+lejáratú
+301 1 A B 5 7 3 2 2
+Háztartásokat segítő nonprofit int. - köv. valódi
+penziós ügyl.-ből - hosszú - 5 éven túli lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+302 1 A B 5 7 4
+Háztartásokat segítő nonprofit intézmények
+hitelének értékvesztése, értékelési különbözete
+303 1 A B 5 8 1 1 1
+GMU hitelintézetekkel szembeni követelés -
+rövid
+304 1 A B 5 8 1 1 2
+GMU hitelintézetekkel szembeni követelés -
+hosszú
+305 1 A B 5 8 1 2 1
+GMU pénzpiaci alapokkal szembeni követelés -
+rövid
+306 1 A B 5 8 1 2 2
+GMU pénzpiaci alapokkal szembeni követelés -
+hosszú
+307 1 A B 5 8 1 3 1 GMU ÁHT-nak nyújtott hitelek - rövid
+308 1 A B 5 8 1 3 2 GMU ÁHT-nak nyújtott hitelek - hosszú
+309 1 A B 5 8 1 4 1
+GMU egyéb püi közvetítőknek, püi kieg. tev.
+végzőknek nyújtott hitelek - rövid
+310 1 A B 5 8 1 4 2 1
+GMU egyéb püi közvetítőknek, püi kieg. tev.
+végzőknek nyújtott hitelek - hosszú - legfeljebb
+5 éves lejáratra
+311 1 A B 5 8 1 4 2 2
+GMU egyéb püi közvetítőknek, püi kieg. tev.
+végzőknek nyújtott hitelek - hosszú - 5 éven túli
+lejáratra
+312 1 A B 5 8 1 4 3 1
+GMU biztosítóknak és nyugdíjpénztáraknak
+nyújtott hitel - rövid
+313 1 A B 5 8 1 4 3 2 1
+GMU biztosítóknak és nyugdíjjpénztáraknak
+nyújtott hitel - hosszú - legfeljebb 5 éves lejáratra
+314 1 A B 5 8 1 4 3 2 2
+GMU biztosítóknak és nyugdíjjpénztáraknak
+nyújtott hitel - hosszú - 5 éven túli lejáratra
+315 1 A B 5 8 1 5 1 GMU nem püi vállalatoknak nyújtott hitel - rövid
+316 1 A B 5 8 1 5 2 1
+GMU nem püi vállalatoknak nyújtott hitel - hosszú
+- legfeljebb 5 éves lejáratra
+317 1 A B 5 8 1 5 2 2
+GMU nem püi vállalatoknak nyújtott hitel - hosszú
+- 5 éven túli lejáratra
+318 1 A B 5 8 1 6 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott fogyasztási hitel - rövid
+319 1 A B 5 8 1 6 2 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott fogyasztási hitel - hosszú - legfeljebb
+5 éves lejáratra
+320 1 A B 5 8 1 6 2 2
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott fogyasztási hitel - hosszú - 5 éven túli
+lejáratra
+321 1 A B 5 8 1 6 3 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott lakáscélú hitel - rövid
+322 1 A B 5 8 1 6 3 2 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott lakáscélú hitel - hosszú - legfeljebb 5 éves
+lejáratra
+323 1 A B 5 8 1 6 3 2 2
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott lakáscélú hitel - hosszú - 5 éven túli
+lejáratra
+324 1 A B 5 8 1 6 4 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott egyéb hitel - rövid
+325 1 A B 5 8 1 6 4 2 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott egyéb hitel - hosszú - legfeljebb 5 éves
+lejáratra
+326 1 A B 5 8 1 6 4 2 2
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott egyéb hitel - hosszú - 5 éven túli lejáratra
+327 1 A B 5 8 2 1 1
+Egyéb külföldi bankokkal szembeni követelés -
+rövid
+328 1 A B 5 8 2 1 2
+Egyéb külföldi bankokkal szembeni követelés -
+hosszú
+329 1 A B 5 8 2 2 1 Egyéb külföldivel szembeni követelés - rövid
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+330 1 A B 5 8 2 2 2 Egyéb külföldivel szembeni követelés - hosszú
+331 1 A B 5 8 3
+Külfölddel szembeni követelések értékvesztése,
+értékelési különbözete
+332 1 A B 6 Vagyoni érdekeltségek (333+...+361) Σ
+333 1 A B 6 1 1 Belföldi hitelintézetek részvényei
+334 1 A B 6 1 2
+Belföldi hitelintézetek részvényeinek értékvesztése,
+értékelési különbözete
+335 1 A B 6 2 1 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi
+vállalkozások részvényei
+336 1 A B 6 2 1 1 2
+Egyéb pénzügyi közvetítők - Pénzügyi
+vállalkozásokban egyéb részesedések, üzletrészek
+337 1 A B 6 2 1 2 1
+Egyéb pénzügyi közvetítők - Befektetési
+vállalkozások részvényei
+338 1 A B 6 2 1 2 2
+Egyéb pénzügyi közvetítők - Befektetési
+vállalkozásokban egyéb részesedések, üzletrészek
+339 1 A B 6 2 1 3 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+részvényei
+340 1 A B 6 2 1 3 2
+Egyéb pénzügyi közvetítők - Egyéb
+intézményekben egyéb részesedések, üzletrészek
+341 1 A B 6 2 2 1 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi vállalkozások részvényei
+342 1 A B 6 2 2 1 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi vállalkozásokban egyéb részesedések,
+üzletrészek
+343 1 A B 6 2 2 2 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Befektetési vállalkozások részvényei
+344 1 A B 6 2 2 2 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Befektetési vállalkozásokban egyéb részesedések,
+üzletrészek
+345 1 A B 6 2 2 3 1
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények részvényei
+346 1 A B 6 2 2 3 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézményekben egyéb részesedések, üzletrészek
+347 1 A B 6 2 3 Biztosítók részvényei
+348 1 A B 6 2 4 Nyugdíjpénztárakban részesedések
+349 1 A B 6 2 5
+Egyéb püi közv., püi kieg. tev. végzőkben,
+biztosítókban, nypénzt. részesedés értékvesztése,
+értékelési különbözete
+350 1 A B 6 3 1 1 Járulékos vállalkozások részvényei
+351 1 A B 6 3 1 2
+Járulékos vállalkozásokban egyéb részesedések,
+üzletrészek
+352 1 A B 6 3 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül)
+részvényei
+353 1 A B 6 3 2 2
+Nem pénzügyi vállalatokban (Jár. váll. nélkül)
+egyéb részesedések, üzletrészek
+354 1 A B 6 3 3
+Hitel-tőke konverzióból származó részvények,
+részesedések, egyéb üzletrészek
+355 1 A B 6 3 4
+Nem pénzügyi vállalatokban részesedések,
+üzletrészek értékvesztése, értékelési különbözete
+356 1 A B 6 4 1 1 GMU hitelintézetek részvényei
+357 1 A B 6 4 1 2 GMU egyéb szektorok részvénye
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+358 1 A B 6 4 1 3
+Hitel-tőke konverzióból származó GMU
+részvények, részesedések, egyéb üzletrészek
+359 1 A B 6 4 2 1 Egyéb külföldiek részvénye
+360 1 A B 6 4 2 2
+Hitel-tőke konverzióból származó egyéb külföldi
+részvények, részesedések, egyéb üzletrészek
+361 1 A B 6 4 3
+Külföldi részvények, részesedések értékvesztése,
+értékelési különbözete
+362 1 A B 7 Aktív kamatelhatárolások (363+...+377) Σ
+363 1 A B 7 1 - központi kormányzattal
+364 1 A B 7 2 - helyi önkormányzatokkal
+365 1 A B 7 3 - jegybankkal
+366 1 A B 7 4 - hitelintézetekkel
+367 1 A B 7 5 1 - pénzpiaci alapokkal
+368 1 A B 7 5 2 1
+- egyéb pénzügyi közvetítők - pénzügyi és
+befektetési vállalkozásokkal
+369 1 A B 7 5 2 2
+- egyéb pénzügyi közvetítők - egyéb
+intézményekkel
+370 1 A B 7 5 3 1
+- pénzügyi kiegészítő tevékenységet végzők -
+pénzügyi és befektetési vállalkozásokkal
+371 1 A B 7 5 3 2
+- pénzügyi kiegészítő tevékenységet végzők -
+egyéb intézményekkel
+372 1 A B 7 5 4 - biztosítókkal és nyugdíjpénztárakkal
+373 1 A B 7 6 - nem pénzügyi vállalatokkal
+374 1 A B 7 7 1 - háztartásokkal - lakossággal
+375 1 A B 7 7 2 - háztartások - egyéni vállalkozókkal
+376 1 A B 7 8 - háztartásokat segítő nonprofit intézményekkel
+377 1 A B 7 9 - külföldiekkel
+378 1 A B 8
+Egyéb aktív elszámolások és egyéb eszközök
+(379+397+414+..+417)
+Σ
+379 1 A B 8 1
+Aktív elszámolás és egyéb aktív időbeli elhatárolás
+összesen (380+…+396)
+Σ
+380 1 A B 8 1 1 - központi kormányzattal
+381 1 A B 8 1 2 1 - helyi önkormányzatokkal
+382 1 A B 8 1 2 2 - TB-vel
+383 1 A B 8 1 3 - jegybankkal
+384 1 A B 8 1 4 - hitelintézetekkel
+385 1 A B 8 1 5 1 - pénzpiaci alapokkal
+386 1 A B 8 1 5 2 1
+- egyéb pénzügyi közvetítők - pénzügyi és
+befektetési vállalkozásokkal
+387 1 A B 8 1 5 2 2
+- egyéb pénzügyi közvetítők - egyéb
+intézményekkel
+388 1 A B 8 1 5 3 1
+- pénzügyi kiegészítő tevékenységet végzők -
+pénzügyi és befektetési vállalkozásokkal
+389 1 A B 8 1 5 3 2
+- pénzügyi kiegészítő tevékenységet végzők -
+egyéb intézményekkel
+390 1 A B 8 1 5 4 - biztosítókkal és nyugdíjpénztárakkal
+391 1 A B 8 1 6 - nem pénzügyi vállalatokkal
+392 1 A B 8 1 7 1 - háztartások - lakossággal
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+393 1 A B 8 1 7 2 - háztartások - egyéni vállalkozókkal
+394 1 A B 8 1 7 3 - háztartásokat segítő nonprofit intézményekkel
+395 1 A B 8 1 8 - külföldiekkel
+396 1 A B 8 1 9
+- szektor szerint nem bontható aktív időbeli
+elhatárolás
+397 1 A B 8 2
+Befektetési szolgáltatási tevékenységből adódó
+követelés összesen (398+…+413)
+Σ
+398 1 A B 8 2 1 - központi kormányzattal szemben
+399 1 A B 8 2 2 1 - helyi önkormányzatokkal szemben
+400 1 A B 8 2 2 2 - TB-vel szemben
+401 1 A B 8 2 3 - jegybankkal szemben
+402 1 A B 8 2 4 - hitelintézetekkel szemben
+403 1 A B 8 2 5 1 - pénzpiaci alapokkal szemben
+404 1 A B 8 2 5 2 1
+- egyéb pénzügyi közvetítők - pénzügyi és
+befektetési vállalkozásokkal
+405 1 A B 8 2 5 2 2
+- egyéb pénzügyi közvetítők - egyéb
+intézményekkel
+406 1 A B 8 2 5 3 1
+- pénzügyi kiegészítő tevékenységet végzők -
+pénzügyi és befektetési vállalkozásokkal
+407 1 A B 8 2 5 3 2
+- pénzügyi kiegészítő tevékenységet végzők -
+egyéb intézményekkel
+408 1 A B 8 2 5 4 - biztosítókkal és nyugdíjpénztárakkal szemben
+409 1 A B 8 2 6 - nem pénzügyi vállalatokkal szemben
+410 1 A B 8 2 7 1 - háztartások - lakossággal szemben
+411 1 A B 8 2 7 2 - háztartások - egyéni vállalkozókkal szemben
+412 1 A B 8 2 8
+- háztartásokat segítő nonprofit intézményekkel
+szemben
+413 1 A B 8 2 9 - külföldiekkel szemben
+414 1 A B 8 3 Függő tételek
+415 1 A B 8 4 Szövetkezeti visszafizetett részjegy
+416 1 A B 8 5 Egyéb
+417 1 A B 8 6
+Egyéb aktív elszámolások és egyéb eszközök
+értékvesztése, értékelési különbözete
+418 1 A B 9 Saját eszközök (419+...+439) Σ
+419 1 A B 9 1 1 1 Visszavásárolt saját belföldi kötvény
+420 1 A B 9 1 1 2 Visszavásárolt saját külföldi kötvény
+421 1 A B 9 1 2 Visszavásárolt saját részvény
+422 1 A B 9 1 3 Egyéb saját eszközök (készletek)
+423 1 A B 9 2 1 Átvett eszközök
+424 1 A B 9 2 2 Átvett eszközök és készletek értékvesztése
+425 1 A B 9 3 1 Immateriális javak - vagyoni jogok
+426 1 A B 9 3 2 Immateriális javak - szoftverek
+427 1 A B 9 3 3 Immateriális javak - egyéb
+428 1 A B 9 3 4 Immateriális javak értékhelyesbítése
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. AB.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti bruttó adatokkal)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+429 1 A B 9 4 1
+Püi és bef. szolg. célú tárgyi eszközök - elhelyezés
+bérleti joga
+430 1 A B 9 4 2
+Püi és bef. szolg. célú tárgyi eszközök -
+ingatlanokhoz kapcsolódó vagyoni jogok
+431 1 A B 9 4 3 Püi és bef. szolg. célú tárgyi eszközök - ingatlanok
+432 1 A B 9 4 4
+Püi és bef. szolg. célú tárgyi eszközök - műszaki
+berendezések, gépek, felszerelések, járművek
+433 1 A B 9 4 5
+Püi és bef. szolg. célú tárgyi eszközök -
+beruházások és beruházásra adott előlegek
+434 1 A B 9 4 6
+Püi és bef. szolg. célú tárgyi eszközök
+értékhelyesbítése
+435 1 A B 9 5 1
+Nem püi és bef. szolg. célú tárgyi eszközök -
+ingatlanokhoz kapcsolódó vagyoni jogok
+436 1 A B 9 5 2
+Nem püi és bef. szolg. célú tárgyi eszközök -
+ingatlanok
+437 1 A B 9 5 3
+Nem püi és bef. szolg. célú tárgyi eszközök -
+műszaki berendezések, gépek, felszerelések,
+járművek
+438 1 A B 9 5 4
+Nem püi és bef. szolg. célú tárgyi eszközök -
+beruházások és beruházásra adott előlegek
+439 1 A B 9 5 5
+Nem püi és bef. szolg. célú tárgyi eszközök
+értékhelyesbítése
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AB. Eszköz (bruttó)
+
+PSZÁF azonosító
+1. B.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Források)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+440 1 B 0
+Források összesen
+(441+559+580+632+650+668+709+722+727)
+Σ
+441 1 B 1 Betétek (442+...+558) Σ
+442 1 B 1 1 1 1 Központi kormányzat betéte - rövid
+443 1 B 1 1 1 2 1
+Központi kormányzat betéte - hosszú -
+legfeljebb 2 éves lejáratú
+444 1 B 1 1 1 2 2
+Központi kormányzat betéte - hosszú - 2 éven
+túli lejáratú
+445 1 B 1 1 1 3 1
+Központi kormányzat - repó ügyletekből
+szerzett forrás
+446 1 B 1 1 1 3 2
+Központi kormányzat - egyéb valódi penziós
+ügyletekből szerzett forrás
+447 1 B 1 1 2 1
+Helyi önkormányzatok - látra szóló és
+folyószámla betét
+448 1 B 1 1 2 2 Helyi önkormányzatok lekötött betéte - rövid
+449 1 B 1 1 2 3 1
+Helyi önkormányzatok lekötött betéte - hosszú
+- legfeljebb 2 éves lejáratú
+450 1 B 1 1 2 3 2
+Helyi önkormányzatok lekötött betéte - hosszú
+- 2 éven túli lejáratú
+451 1 B 1 1 2 4 1
+Helyi önkormányzatok - repó ügyletekből
+szerzett forrás
+452 1 B 1 1 2 4 2
+Helyi önkormányzatok - egyéb valódi penziós
+ügyletekből szerzett forrás
+453 1 B 1 2 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befekt. vállalkozások - látra szóló és folyószla
+betét
+454 1 B 1 2 1 2
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befekt. vállalkozások - lekötött betét - rövid
+455 1 B 1 2 1 3 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befekt. vállalkozások - lekötött betét - hosszú -
+legfeljebb 2 éves lejáratú
+456 1 B 1 2 1 3 2
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befekt. vállalkozások - lekötött betét - hosszú -
+2 éven túli lejáratú
+457 1 B 1 2 1 4 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befekt. vállalkozások - repó ügyletekből
+szerzett forrás
+458 1 B 1 2 1 4 2
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befekt. vállalkozások - egyéb valódi penziós
+ügyletekből szerzett forrás
+459 1 B 1 2 2 1
+Egyéb pénzügyi közvetítők - Egyéb
+intézmények - látra szóló és folyószla betét
+460 1 B 1 2 2 2
+Egyéb pénzügyi közvetítők - Egyéb
+intézmények - lekötött betét - rövid
+461 1 B 1 2 2 3 1
+Egyéb pénzügyi közvetítők - Egyéb
+intézmények - lekötött betét - hosszú -
+legfeljebb 2 éves lejáratú
+462 1 B 1 2 2 3 2
+Egyéb pénzügyi közvetítők - Egyéb
+intézmények - lekötött betét - hosszú - 2 éven
+túli lejáratú
+463 1 B 1 2 2 4 1
+Egyéb pénzügyi közvetítők - Egyéb
+intézmények - repó ügyletekből szerzett forrás
+464 1 B 1 2 2 4 2
+Egyéb pénzügyi közvetítők - Egyéb
+intézmények - egyéb valódi penziós
+ügyletekből szerzett forrás
+465 1 B 1 2 3 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befekt. vállalkozások - látra szóló
+és folyószla betét
+466 1 B 1 2 3 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befekt. vállalkozások - lekötött
+betét - rövid
+467 1 B 1 2 3 3 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befekt. vállalkozások - lekötött
+betét - hosszú - legfeljebb 2 éves lejáratú
+468 1 B 1 2 3 3 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befekt. vállalkozások - lekötött
+betét - hosszú - 2 éven túli lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.B. Forrás
+
+PSZÁF azonosító
+1. B.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Források)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+469 1 B 1 2 3 4 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befekt. vállalkozások - repó
+ügyletekből szerzett forrás
+470 1 B 1 2 3 4 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befekt. vállalkozások - egyéb
+valódi penziós ügyletekből szerzett forrás
+471 1 B 1 2 4 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Egyéb intézmények - látra szóló és folyószla
+betét
+472 1 B 1 2 4 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Egyéb intézmények - lekötött betét - rövid
+473 1 B 1 2 4 3 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Egyéb intézmények - lekötött betét - hosszú -
+legfeljebb 2 éves lejáratú
+474 1 B 1 2 4 3 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Egyéb intézmények - lekötött betét - hosszú -
+2 éven túli lejáratú
+475 1 B 1 2 4 4 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Egyéb intézmények - repó ügyletekből szerzett
+forrás
+476 1 B 1 2 4 4 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Egyéb intézmények - egyéb valódi penziós
+ügyletekből szerzett forrás
+477 1 B 1 3 1
+Biztosítók és nyugdíjpénztárak - látra szóló és
+folyószámla betét
+478 1 B 1 3 2
+Biztosítók és nyugdíjpénztárak - lekötött betét -
+rövid
+479 1 B 1 3 3 1
+Biztosítók és nyugdíjpénztárak - lekötött betét -
+hosszú - legfeljebb 2 éves lejáratú
+480 1 B 1 3 3 2
+Biztosítók és nyugdíjpénztárak - lekötött betét -
+hosszú - 2 éven túli lejáratú
+481 1 B 1 3 4 1
+Biztosítók és nyugdíjpénztárak - repó
+ügyletekből szerzett forrás
+482 1 B 1 3 4 2
+Biztosítók és nyugdíjpénztárak - egyéb valódi
+penziós ügyletekből szerzett forrás
+483 1 B 1 4 1 1
+Járulékos vállalkozások - látra szóló és
+folyószámla betét
+484 1 B 1 4 1 2 Járulékos vállalkozások - lekötött betét - rövid
+485 1 B 1 4 1 3 1
+Járulékos vállalkozások - lekötött betét - hosszú
+- legfeljebb 2 éves lejáratú
+486 1 B 1 4 1 3 2
+Járulékos vállalkozások - lekötött betét - hosszú
+- 2 éven túli lejáratú
+487 1 B 1 4 1 4 1
+Járulékos vállalkozások - repó ügyletekből
+szerzett forrás
+488 1 B 1 4 1 4 2
+Járulékos vállalkozások - egyéb valódi penziós
+ügyletekből szerzett forrás
+489 1 B 1 4 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+látra szóló és folyószámla betét
+490 1 B 1 4 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+lekötött betét - rövid
+491 1 B 1 4 2 3 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+lekötött betét - hosszú - legfeljebb 2 éves
+lejáratú
+492 1 B 1 4 2 3 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+lekötött betét - hosszú - 2 éven túli lejáratú
+493 1 B 1 4 2 4 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+repó ügyletekből szerzett forrás
+494 1 B 1 4 2 4 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+egyéb valódi penziós ügyletekből szerzett
+forrás
+495 1 B 1 5 1 1
+Háztartások - Lakosság - látra szóló és
+folyószámla betét
+496 1 B 1 5 1 2 1
+Háztartások - Lakosság - lekötött betét
+(számlán) - rövid
+497 1 B 1 5 1 2 2 1
+Háztartások - Lakosság - lekötött betét
+(számlán) - hosszú - legfeljebb 2 éves lejáratú
+498 1 B 1 5 1 2 2 2
+Háztartások - Lakosság - lekötött betét
+(számlán) - hosszú - 2 éven túli lejáratú
+499 1 B 1 5 1 3 1
+Háztartások - Lakosság - lekötött betét
+(könyvesbetétben) - rövid
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.B. Forrás
+
+PSZÁF azonosító
+1. B.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Források)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+500 1 B 1 5 1 3 2 1
+Háztartások - Lakosság - lekötött betét
+(könyvesbetétben) - hosszú - legfeljebb 2 éves
+lejáratú
+501 1 B 1 5 1 3 2 2
+Háztartások - Lakosság - lekötött betét
+(könyvesbetétben) - hosszú - 2 éven túli lejáratú
+502 1 B 1 5 1 4 1
+Háztartások - Lakosság - lekötött betét (okiratban) -
+rövid
+503 1 B 1 5 1 4 2 1
+Háztartások - Lakosság - lekötött betét (okiratban) -
+hosszú - legfeljebb 2 éves lejáratú
+504 1 B 1 5 1 4 2 2
+Háztartások - Lakosság - lekötött betét (okiratban) -
+hosszú - 2 éven túli lejáratú
+505 1 B 1 5 1 5 1
+Háztartások - Lakosság - lakáscélú betét -
+legfeljebb 2 éves lejáratú
+506 1 B 1 5 1 5 2
+Háztartások - Lakosság - lakáscélú betét -
+2 éven túli lejáratú
+507 1 B 1 5 1 6 1 1
+Háztartások - Lakosság - repó ügyletekből szerzett
+forrás
+508 1 B 1 5 1 6 1 2
+Háztartások - Lakosság - egyéb valódi penziós
+ügyletekből szerzett forrás
+509 1 B 1 5 2 1
+Háztartások - Egyéni vállalkozók - látra szóló és
+folyószámla betét
+510 1 B 1 5 2 2
+Háztartások - Egyéni vállalkozók - lekötött betét -
+rövid
+511 1 B 1 5 2 3 1
+Háztartások - Egyéni vállalkozók - lekötött betét -
+hosszú - legfeljebb 2 éves lejáratú
+512 1 B 1 5 2 3 2 Háztartások - Egyéni vállalkozók - lekötött betét -
+hosszú - 2 éven túli lejáratú
+513 1 B 1 5 2 4 1
+Háztartások - Egyéni vállalkozók - repó
+ügyletekből szerzett forrás
+514 1 B 1 5 2 4 2 Háztartások - Egyéni vállalkozók - egyéb valódi
+penziós ügyletekből szerzett forrás
+515 1 B 1 6 1
+Háztartásokat segítő nonprofit intézmények - látra
+szóló és folyószámla betét
+516 1 B 1 6 2
+Háztartásokat segítő nonprofit intézmények lekötött
+betéte - rövid
+517 1 B 1 6 3 1
+Háztartásokat segítő nonprofit intézmények lekötött
+betéte - hosszú - legfeljebb 2 éves lejáratú
+518 1 B 1 6 3 2
+Háztartásokat segítő nonprofit intézmények lekötött
+betéte - hosszú - 2 éven túli lejáratú
+519 1 B 1 6 4 1
+Háztartásokat segítő nonprofit intézmények - repó
+ügyletekből szerzett forrás
+520 1 B 1 6 4 2
+Háztartásokat segítő nonprofit intézmények - egyéb
+valódi penziós ügyletekből szerzett forrás
+521 1 B 1 7 1 Szektor szerint nem bontható betéti okirat - rövid
+522 1 B 1 7 2 1
+Szektor szerint nem bontható betéti okirat - hosszú
+- legfeljebb 2 éves lejáratú
+523 1 B 1 7 2 2
+Szektor szerint nem bontható betéti okirat - hosszú
+- 2 éven túli lejáratú
+524 1 B 1 8 1 1 1
+GMU központi kormányzattól szerzett forrás -
+rövid
+525 1 B 1 8 1 1 2 1
+GMU központi kormányzattól szerzett forrás -
+hosszú - legfeljebb 2 éves lejáratú
+526 1 B 1 8 1 1 2 2
+GMU központi kormányzattól szerzett forrás -
+hosszú - 2 éven túli lejáratú
+527 1 B 1 8 1 1 3
+GMU központi kormányzattól repó ügyletekből
+szerzett forrás
+528 1 B 1 8 1 2 1 GMU egyéb ÁHT - látraszóló és folyószámla betét
+529 1 B 1 8 1 2 2 GMU egyéb ÁHT-tól szerzett forrás - rövid
+530 1 B 1 8 1 2 3 1
+GMU egyéb ÁHT-tól szerzett forrás - hosszú -
+legfeljebb 2 éves lejáratú
+531 1 B 1 8 1 2 3 2
+GMU egyéb ÁHT-tól szerzett forrás - hosszú - 2
+éven túli lejáratú
+532 1 B 1 8 1 2 4
+GMU egyéb ÁHT-tól repó ügyletekből szerzett
+forrás
+533 1 B 1 8 1 3 1
+GMU egyéb pü közv. és pü kieg. tev-et végzők -
+látraszóló és folyószámla betét
+534 1 B 1 8 1 3 2
+GMU egyéb pü közv. és pü kieg. tev-et végzőktől
+szerzett egyéb forrás - rövid
+535 1 B 1 8 1 3 3 1
+GMU egyéb pü közv. és pü kieg. tev-et végzőktől
+szerzett egyéb forrás - hosszú - legfeljebb 2 éves
+lejáratú
+536 1 B 1 8 1 3 3 2
+GMU egyéb pü közv. és pü kieg. tev-et végzőktől
+szerzett egyéb forrás - hosszú -
+2 éven túli lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.B. Forrás
+
+PSZÁF azonosító
+1. B.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Források)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+537 1 B 1 8 1 3 4
+GMU egyéb pü közv. és pü kieg. tev-et
+végzőktől repó ügyletekből szerzett forrás
+538 1 B 1 8 1 4 1
+GMU biztosítók és nyugdíjalapok - látraszóló
+és folyószámla betét
+539 1 B 1 8 1 4 2
+GMU biztosítóktól és nyugdíjalapoktól szerzett
+egyéb forrás - rövid
+540 1 B 1 8 1 4 3 1
+GMU biztosítóktól és nyugdíjalapoktól szerzett
+egyéb forrás - hosszú - legfeljebb 2 éves
+lejáratú
+541 1 B 1 8 1 4 3 2
+GMU biztosítóktól és nyugdíjalapoktól szerzett
+egyéb forrás - hosszú - 2 éven túli lejáratú
+542 1 B 1 8 1 4 4
+GMU biztosítóktól és nyugdíjalapoktól repó
+ügyletekből szerzett forrás
+543 1 B 1 8 1 5 1
+GMU nem pénzügyi vállalatok - látraszóló és
+folyószámla betét
+544 1 B 1 8 1 5 2
+GMU nem pénzügyi vállalatok - lekötött betét -
+rövid
+545 1 B 1 8 1 5 3 1
+GMU nem pénzügyi vállalatok - lekötött betét -
+hosszú - legfeljebb 2 éves lejáratú
+546 1 B 1 8 1 5 3 2
+GMU nem pénzügyi vállalatok - lekötött betét -
+hosszú - 2 éven túli lejáratú
+547 1 B 1 8 1 5 4
+GMU nem pénzügyi vállalatoktól repó
+ügyletekből szerzett forrás
+548 1 B 1 8 1 6 1
+GMU háztartások és háztart. s. nonpr. int. -
+látraszóló és folyószámla betét
+549 1 B 1 8 1 6 2
+GMU háztartások és háztart. s. nonpr. int. -
+lekötött betét - rövid
+550 1 B 1 8 1 6 3 1
+GMU háztartások és háztart. s. nonpr. int. -
+lekötött betét - hosszú - legfeljebb 2 éves
+lejáratú
+551 1 B 1 8 1 6 3 2
+GMU háztartások és háztart. s. nonpr. int. -
+lekötött betét - hosszú - 2 éven túli lejáratú
+552 1 B 1 8 1 6 4 1
+GMU háztartásoktól és háztart. s. nonpr. int.től
+repó ügyletekből szerzett forrás
+553 1 B 1 8 1 6 4 2
+GMU szektoroktól egyéb valódi penziós
+ügyletekből szerzett forrás
+554 1 B 1 8 2 1 Egyéb külföldiek betéte - rövid
+555 1 B 1 8 2 2 1
+Egyéb külföldiek betéte - hosszú - legfeljebb
+2 éves lejáratú
+556 1 B 1 8 2 2 2
+Egyéb külföldiek betéte - hosszú - 2 éven túli
+lejáratú
+557 1 B 1 8 3 1
+Egyéb külföldiektől repó ügyletekből szerzett
+forrás
+558 1 B 1 8 3 2
+Egyéb külföldiektől egyéb valódi penziós
+ügyletekből szerzett forrás
+559 1 B 2
+Monetáris pénzügyi intézményektől
+származó betétek (560+...+579)
+Σ
+560 1 B 2 1 1 Belföldi hitelintézetek loro számlái
+561 1 B 2 1 2 Belföldi hitelintézetek lekötött betéte - rövid
+562 1 B 2 1 3 1
+Belföldi hitelintézetek lekötött betéte - hosszú -
+legfeljebb 2 éves lejáratú
+563 1 B 2 1 3 2
+Belföldi hitelintézetek lekötött betéte - hosszú -
+2 éven túli lejáratú
+564 1 B 2 2 1 Pénzpiaci alapok loro számlái
+565 1 B 2 2 2 Pénzpiaci alapok lekötött betéte - rövid
+566 1 B 2 2 3 1
+Pénzpiaci alapok lekötött betéte - hosszú -
+legfeljebb 2 éves lejáratú
+567 1 B 2 2 3 2
+Pénzpiaci alapok lekötött betéte - hosszú -
+2 éven túli lejáratú
+568 1 B 2 3 1 1
+GMU jegybankok, EKB és GMU tartalékolási
+kötelezettség alá eső MPI-k loro számlái
+569 1 B 2 3 1 2
+GMU jegybankok, EKB és GMU tartalékolási
+kötelezettség alá eső MPI-k lekötött betéte -
+rövid
+570 1 B 2 3 1 3 1
+GMU jegybankok, EKB és GMU tartalékolási
+kötelezettség alá eső MPI-k lekötött betéte -
+hosszú - legfeljebb 2 éves lejáratú
+571 1 B 2 3 1 3 2
+GMU jegybankok, EKB és GMU tartalékolási
+kötelezettség alá eső MPI-k lekötött betéte -
+hosszú - 2 éven túli lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.B. Forrás
+
+PSZÁF azonosító
+1. B.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Források)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+572 1 B 2 3 2 1
+GMU tartalékolási kötelezettség alá nem eső
+egyéb MPI-k loro számlái
+573 1 B 2 3 2 2
+GMU tartalékolási kötelezettség alá nem eső
+egyéb MPI-k lekötött betéte - rövid
+574 1 B 2 3 2 3 1
+GMU tartalékolási kötelezettség alá nem eső
+egyéb MPI-k lekötött betéte - hosszú -
+legfeljebb 2 éves lejáratú
+575 1 B 2 3 2 3 2
+GMU tartalékolási kötelezettség alá nem eső
+egyéb MPI-k lekötött betéte - hosszú - 2 éven
+túli lejáratú
+576 1 B 2 3 3 1 Egyéb külföldi bankok loro számlái
+577 1 B 2 3 3 2 Egyéb külföldi bankok lekötött betéte - rövid
+578 1 B 2 3 3 3 1
+Egyéb külföldi bankok lekötött betéte - hosszú
+- legfeljebb 2 éves lejáratú
+579 1 B 2 3 3 3 2
+Egyéb külföldi bankok lekötött betéte - hosszú
+- 2 éven túli lejáratú
+580 1 B 3 Felvett hitelek (581+...+631) Σ
+581 1 B 3 1 1 Jegybanktól felvett hitel - rövid
+582 1 B 3 1 2 1
+Jegybanktól felvett hitel - hosszú - legfeljebb
+2 éves lejáratú
+583 1 B 3 1 2 2
+Jegybanktól felvett hitel - hosszú - 2 éven túli
+lejáratú
+584 1 B 3 1 3 Jegybanki aktív repó
+585 1 B 3 2 1 1 Hitelintézetektől felvett hitel - rövid
+586 1 B 3 2 1 2 1
+Hitelintézetektől felvett hitel - hosszú -
+legfeljebb 2 éves lejáratú
+587 1 B 3 2 1 2 2
+Hitelintézetektől felvett hitel - hosszú - 2 éven
+túli lejáratú
+588 1 B 3 2 1 3 1
+Hitelintézetektől repó ügyletekből szerzett
+forrás
+589 1 B 3 2 1 3 2
+Hitelintézetektől egyéb valódi penziós
+ügyletekből szerzett forrás
+590 1 B 3 3 1
+Pénzpiaci alapoktól valódi penziós ügyletekből
+szerzett forrás
+591 1 B 3 3 2 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozásoktól - felvett hitel -
+rövid
+592 1 B 3 3 2 2 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozásoktól - felvett hitel -
+hosszú - legfeljebb 2 éves lejáratú
+593 1 B 3 3 2 2 2
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozásoktól - felvett hitel -
+hosszú - 2 éven túli lejáratú
+594 1 B 3 3 2 3 1
+Egyéb pénzügyi közvetítők - Egyéb
+intézményektől - felvett hitel - rövid
+595 1 B 3 3 2 3 2 1
+Egyéb pénzügyi közvetítők - Egyéb
+intézményektől - felvett hitel - hosszú -
+legfeljebb 2 éves lejáratú
+596 1 B 3 3 2 3 2 2
+Egyéb pénzügyi közvetítők - Egyéb
+intézményektől - felvett hitel - hosszú - 2 éven
+túli lejáratú
+597 1 B 3 3 3 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozásoktól -
+felvett hitel - rövid
+598 1 B 3 3 3 2 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozásoktól -
+felvett hitel - hosszú - legfeljebb 2 éves lejáratú
+599 1 B 3 3 3 2 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozásoktól -
+felvett hitel - hosszú - 2 éven túli lejáratú
+600 1 B 3 3 3 3 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Egyéb intézményektől - felvett hitel - rövid
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.B. Forrás
+
+PSZÁF azonosító
+1. B.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Források)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+601 1 B 3 3 3 3 2 1
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézményektől - felvett hitel - hosszú - legfeljebb 2
+éves lejáratú
+602 1 B 3 3 3 3 2 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézményektől - felvett hitel - hosszú - 2 éven túli
+lejáratú
+603 1 B 3 3 4 1
+Biztosítóktól és nyugdíjpénztáraktól - felvett hitel -
+rövid
+604 1 B 3 3 4 2 1
+Biztosítóktól és nyugdíjpénztáraktól - felvett hitel -
+hosszú - legfeljebb 2 éves lejáratú
+605 1 B 3 3 4 2 2
+Biztosítóktól és nyugdíjpénztáraktól - felvett hitel -
+hosszú - 2 éven túli lejáratú
+606 1 B 3 4 Szövetkezeti tagok vagyoni hozzájárulása - rövid
+607 1 B 3 5 1 Egyéb belfölditől felvett hitel - rövid
+608 1 B 3 5 2 1
+Egyéb belfölditől felvett hitel - hosszú - legfeljebb
+2 éves lejáratú
+609 1 B 3 5 2 2
+Egyéb belfölditől felvett hitel - hosszú - 2 éven túli
+lejáratú
+610 1 B 3 6 1 1
+GMU jegybankoktól, EKB-tól és GMU
+tartalékolási kötelezettség alá eső MPI-ktől felvett
+hitel - rövid
+611 1 B 3 6 1 2 1
+GMU jegybankoktól, EKB-tól és GMU
+tartalékolási kötelezettség alá eső MPI-ktől felvett
+hitel - hosszú - legfeljebb 2 éves lejáratú
+612 1 B 3 6 1 2 2
+GMU jegybankoktól, EKB-tól és GMU
+tartalékolási kötelezettség alá eső MPI-ktől felvett
+hitel - hosszú - 2 éven túli lejáratú
+613 1 B 3 6 1 3 1
+GMU jegybankoktól, EKB-tól és GMU
+tartalékolási kötelezettség alá eső MPI-ktől repó
+ügyletekből szerzett forrás
+614 1 B 3 6 1 3 2
+GMU jegybankoktól, EKB-tól és GMU
+tartalékolási kötelezettség alá eső MPI-ktől egyéb
+valódi penziós ügyletekből szerzett forrás
+615 1 B 3 6 2 1
+GMU tartalékolási kötelezettség alá nem eső egyéb
+MPI-ktől felvett hitel - rövid
+616 1 B 3 6 2 2 1
+GMU tartalékolási kötelezettség alá nem eső egyéb
+MPI-ktől felvett hitel - hosszú - legfeljebb 2 éves
+lejáratú
+617 1 B 3 6 2 2 2
+GMU tartalékolási kötelezettség alá nem eső egyéb
+MPI-ktől felvett hitel - hosszú - 2 éven túli lejáratú
+618 1 B 3 6 2 3 1
+GMU tartalékolási kötelezettség alá nem eső egyéb
+MPI-ktől repó ügyletekből szerzett forrás
+619 1 B 3 6 2 3 2
+GMU tartalékolási kötelezettség alá nem eső egyéb
+MPI-ktől egyéb valódi penziós ügyletekből szerzett
+forrás
+620 1 B 3 6 3 1
+GMU egyéb szektorokkal szembeni egyéb
+kötelezettség - rövid
+621 1 B 3 6 3 2 1
+GMU egyéb szektorokkal szembeni egyéb
+kötelezettség - hosszú - legfeljebb 2 éves lejáratú
+622 1 B 3 6 3 2 2
+GMU egyéb szektorokkal szembeni egyéb
+kötelezettség - hosszú - 2 éven túli lejáratú
+623 1 B 3 6 4 1 Egyéb külföldi bankoktól felvett hitel - rövid
+624 1 B 3 6 4 2 1
+Egyéb külföldi bankoktól felvett hitel - hosszú -
+legfeljebb 2 éves lejáratú
+625 1 B 3 6 4 2 2
+Egyéb külföldi bankoktól felvett hitel - hosszú - 2
+éven túli lejáratú
+626 1 B 3 6 5 1
+Egyéb nemzetközi intézményektől, külföldi
+kormányoktól szerzett forrás - rövid
+627 1 B 3 6 5 2 1
+Egyéb nemzetközi int.-től, külf. kormányoktól
+szerzett forrás - hosszú - legfeljebb 2 éves lejáratú
+628 1 B 3 6 5 2 2
+Egyéb nemzetközi int.-től, külf. kormányoktól
+szerzett forrás - hosszú - 2 éven túli lejáratú
+629 1 B 3 6 6 1
+Egyéb külföldivel szembeni egyéb kötelezettség -
+rövid
+630 1 B 3 6 6 2 1
+Egyéb külföldivel szembeni egyéb kötelezettség -
+hosszú - legfeljebb 2 éves lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.B. Forrás
+
+PSZÁF azonosító
+1. B.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Források)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+631 1 B 3 6 6 2 2
+Egyéb külföldivel szembeni egyéb
+kötelezettség - hosszú - 2 éven túli lejáratú
+632 1 B 4
+Saját kibocsátású, hitelviszonyt megtestesítő
+értékpapírok (633+...+649)
+Σ
+633 1 B 4 1 1 1 Kötvény - rövid
+634 1 B 4 1 1 2 1 Kötvény - hosszú - legfeljebb 2 éves lejáratú
+635 1 B 4 1 1 2 2 Kötvény - hosszú - 2 éven túli lejáratú
+636 1 B 4 1 2 1
+Átváltoztatható kötvény - legfeljebb 2 éves
+lejáratú
+637 1 B 4 1 2 2 Átváltoztatható kötvény - 2 éven túli lejáratú
+638 1 B 4 2 1 Letéti jegy - rövid
+639 1 B 4 2 2 1 Letéti jegy - hosszú - legfeljebb 2 éves lejáratú
+640 1 B 4 2 2 2 Letéti jegy - hosszú - 2 éven túli lejáratú
+641 1 B 4 3 1 Egyéb értékpapír - rövid
+642 1 B 4 3 2 1
+Egyéb értékpapír - hosszú - legfeljebb 2 éves
+lejáratú
+643 1 B 4 3 2 2 Egyéb értékpapír - hosszú - 2 éven túli lejáratú
+644 1 B 4 4 1 ZÁRT körben kibocsátott értékpapír - rövid
+645 1 B 4 4 2 1
+ZÁRT körben kibocsátott értékpapír - hosszú -
+legfeljebb 2 éves lejáratú
+646 1 B 4 4 2 2
+ZÁRT körben kibocsátott értékpapír - hosszú -
+2 éven túli lejáratú
+647 1 B 4 5 1 Külföldön kibocsátott értékpapír - rövid
+648 1 B 4 5 2 1
+Külföldön kibocsátott értékpapír - hosszú -
+legfeljebb 2 éves lejáratú
+649 1 B 4 5 2 2
+Külföldön kibocsátott értékpapír - hosszú -
+2 éven túli lejáratú
+650 1 B 5 Passzív kamatelhatárolások (651+...+667) Σ
+651 1 B 5 1 - központi kormányzattal
+652 1 B 5 2 - helyi önkormányzatokkal
+653 1 B 5 3 - jegybankkal
+654 1 B 5 4 - hitelintézetekkel
+655 1 B 5 5 1 - pénzpiaci alapokkal
+656 1 B 5 5 2 1 1
+- egyéb pénzügyi közvetítők - pénzügyi és
+befektetési vállalkozásokkal
+657 1 B 5 5 2 1 2
+- egyéb pénzügyi közvetítők - egyéb
+intézményekkel
+658 1 B 5 5 2 2 1
+- pénzügyi kiegészítő tevékenységet végzők -
+pénzügyi és befektetési vállalkozásokkal
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.B. Forrás
+
+PSZÁF azonosító
+1. B.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Források)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+659 1 B 5 5 2 2 2
+- pénzügyi kiegészítő tevékenységet végzők -
+egyéb intézményekkel
+660 1 B 5 5 3 - biztosítókkal és nyugdíjpénztárakkal
+661 1 B 5 6 - nem pénzügyi vállalatokkal
+662 1 B 5 7 1 - háztartások - lakossággal
+663 1 B 5 7 2 - háztartások - egyéni vállalkozókkal
+664 1 B 5 7 3 - háztartásokat segítő nonprofit intézményekkel
+665 1 B 5 8 - külföldiekkel
+666 1 B 5 9 1 - szektor szerint nem bontható betéti okiratokkal
+667 1 B 5 9 2
+- szektor szerint nem bontható hitelezői jogot
+megtestesítő értékpapírokkal
+668 1 B 6 Egyéb passzív elszámolások
+(669+670+671+688+689+708)
+Σ
+669 1 B 6 1 Úton levő tételek
+670 1 B 6 2 Függő tételek
+671 1 B 6 3
+Befektetési szolgáltatási tevékenységből származó
+forrás összesen (672+…+687)
+Σ
+672 1 B 6 3 1 - központi kormányzattól
+673 1 B 6 3 2 1 - helyi önkormányzatoktól
+674 1 B 6 3 2 2 - TB-től
+675 1 B 6 3 3 - jegybanktól
+676 1 B 6 3 4 - hitelintézetektől
+677 1 B 6 3 5 1 - pénzpiaci alapoktól
+678 1 B 6 3 5 2 1 1 - egyéb pénzügyi közvetítők - pénzügyi és
+befektetési vállalkozásokkal
+679 1 B 6 3 5 2 1 2
+- egyéb pénzügyi közvetítők - egyéb
+intézményekkel
+680 1 B 6 3 5 2 2 1 - pénzügyi kiegészítő tevékenységet végzők -
+pénzügyi és befektetési vállalkozásokkal
+681 1 B 6 3 5 2 2 2
+- pénzügyi kiegészítő tevékenységet végzők -
+egyéb intézményekkel
+682 1 B 6 3 5 3 - biztosítóktól és nyugdíjpénztáraktól
+683 1 B 6 3 6 - nem pénzügyi vállalatoktól
+684 1 B 6 3 7 1 - háztartások - lakosságtól
+685 1 B 6 3 7 2 - háztartások - egyéni vállalkozóktól
+686 1 B 6 3 8 - háztartásokat segítő nonprofit intézményektől
+687 1 B 6 3 9 - külföldiektől
+688 1 B 6 4
+Államtól továbbkölcsönzésre folyósított
+pénzeszköz
+689 1 B 6 5
+Passzív elszámolás és egyéb passzív időbeli
+elhatárolás összesen (690+…+707)
+Σ
+690 1 B 6 5 1 - központi kormányzattal
+691 1 B 6 5 2 1 - helyi önkormányzatokkal
+692 1 B 6 5 2 2 - TB-vel
+693 1 B 6 5 3 - jegybankkal
+694 1 B 6 5 4 - hitelintézetekkel
+695 1 B 6 5 5 1 - pénzpiaci alapokkal
+696 1 B 6 5 5 2 1 1
+- egyéb pénzügyi közvetítők - pénzügyi és
+befektetési vállalkozásokkal
+697 1 B 6 5 5 2 1 2
+- egyéb pénzügyi közvetítők - egyéb
+intézményekkel
+698 1 B 6 5 5 2 2 1
+- pénzügyi kiegészítő tevékenységet végzők -
+pénzügyi és befektetési vállalkozásokkal
+699 1 B 6 5 5 2 2 2
+- pénzügyi kiegészítő tevékenységet végzők -
+egyéb intézményekkel
+700 1 B 6 5 5 3 - biztosítókkal és nyugdíjpénztárakkal
+701 1 B 6 5 6 - nem pénzügyi vállalatokkal
+702 1 B 6 5 7 1 - háztartások - lakossággal
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.B. Forrás
+
+PSZÁF azonosító
+1. B.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Források)
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+703 1 B 6 5 7 2 - háztartások - egyéni vállalkozókkal
+704 1 B 6 5 7 3
+- háztartásokat segítő nonprofit
+intézményekkel
+705 1 B 6 5 8 - külföldiekkel
+706 1 B 6 5 9 1
+- szektor szerint nem bontható passzív időbeli
+elhatárolás
+707 1 B 6 5 9 2
+Passzív időbeli elhatárolás működési
+költségekre
+708 1 B 6 6 Egyéb
+709 1 B 7
+Hátrasorolt és vagyoni kötelezettségek
+(710+...+721)
+Σ
+710 1 B 7 1 1
+Belföldiektől kapott alárendelt kölcsöntőke -
+szavatoló tőkénél figyelembe vehető
+711 1 B 7 1 2
+Belföldiektől kapott alárendelt kölcsöntőke -
+szavatoló tőkénél NEM figyelembe vehető
+712 1 B 7 2
+Belföldiektől kapott kiegészítő alárendelt
+kölcsöntőke
+713 1 B 7 3 1
+Külföldiektől kapott alárendelt kölcsöntőke -
+szavatoló tőkénél figyelembe vehető
+714 1 B 7 3 2
+Külföldiektől kapott alárendelt kölcsöntőke -
+szavatoló tőkénél NEM figyelembe vehető
+715 1 B 7 4
+Külföldiektől kapott kiegészítő alárendelt
+kölcsöntőke
+716 1 B 7 5 1 Szövetkezeti részjegy, vagyonjegy
+717 1 B 7 5 2 Szövetkezeti egyéb vagyoni hozzájárulás
+718 1 B 7 6 1
+Belföldi tulajdonossal szembeni vagyoni
+kötelezettség
+719 1 B 7 6 2
+Külföldi tulajdonossal szembeni vagyoni
+kötelezettség
+720 1 B 7 7 1
+Egyéb hátrasorolt kötelezettség - belföldivel
+szemben
+721 1 B 7 7 2
+Egyéb hátrasorolt kötelezettség - külföldivel
+szemben
+722 1 B 8 Céltartalék (723+...+726) Σ
+723 1 B 8 1 Függő és jövőbeni kötelezettség után
+724 1 B 8 2 Általános kockázati céltartalék
+725 1 B 8 3
+Lakástakarékpénztárak kiegyenlítési
+céltartaléka
+726 1 B 8 4 Egyéb céltartalék
+727 1 B 9 Saját tőke (728+...+738) Σ
+728 1 B 9 1 1 Jegyzett tőke
+729 1 B 9 1 2 Jegyzett, de be nem fizetett tőke
+730 1 B 9 2 1 Tőketartalék - ázsió
+731 1 B 9 2 2 Tőketartalék - egyéb
+732 1 B 9 3 1 Eredménytartalék - előző évek után
+733 1 B 9 3 2
+Eredménytartalék - előző évi előzetes
+eredményből
+734 1 B 9 3 3 Eredménytartalék - egyéb
+735 1 B 9 4 Lekötött tartalék
+736 1 B 9 5 Értékelési tartalék
+737 1 B 9 6 Általános tartalék
+738 1 B 9 7
+Mérleg szerinti eredmény (év közben
+Eredmény)
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.B. Forrás
+
+PSZÁF azonosító
+1. C.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+T Á J É K O Z T A T Ó A D A T O K 1.
+02 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+001 1 C 1 1
+Fedezetek, biztosítékok (teljes értéken)
+(2+...+12)
+Σ
+002 1 C 1 1 1 Pénzfedezet
+003 1 C 1 1 2 Bankgaranciák és készfizető kezességek
+004 1 C 1 1 3 1 Központi költségvetés garanciái
+005 1 C 1 1 3 2
+Egyéb állami, illetve állami tulajdonú szerv
+garanciái
+006 1 C 1 1 4 1 Értékpapírok - részvények
+007 1 C 1 1 4 2 Értékpapírok - egyéb értékpapírok
+008 1 C 1 1 5 1 Árbevétel engedményezés
+009 1 C 1 1 5 2 Egyéb követelés engedményezés
+010 1 C 1 1 6 Árukészletre bejegyzett zálogjog
+011 1 C 1 1 7 Jelzálogok
+012 1 C 1 1 8 Egyéb
+013 1 C 1 2
+Fedezetek, biztosítékok (követelés értékéig)
+(14+…+24)
+Σ
+014 1 C 1 2 1 Pénzfedezet
+015 1 C 1 2 2 Bankgaranciák és készfizető kezességek
+016 1 C 1 2 3 1 Központi költségvetés garanciái
+017 1 C 1 2 3 2
+Egyéb állami, illetve állami tulajdonú szerv
+garanciái
+018 1 C 1 2 4 1 Értékpapírok - részvények
+019 1 C 1 2 4 2 Értékpapírok - egyéb értékpapírok
+020 1 C 1 2 5 1 Árbevétel engedményezés
+021 1 C 1 2 5 2 Egyéb követelés engedményezés
+022 1 C 1 2 6 Árukészletre bejegyzett zálogjog
+023 1 C 1 2 7 Jelzálogok
+024 1 C 1 2 8 Egyéb
+025 1 C 1 3
+Comfort letter-rel fedezett követelések
+értéke
+026 1 C 2 1
+Lombard hitelek könyv szerinti bruttó
+értéken (27+28+29)
+Σ
+027 1 C 2 1 1 Részvényfedezet mellett
+028 1 C 2 1 2 Állampapír fedezete mellett
+029 1 C 2 1 3 Egyéb értékpapír fedezet mellett
+030 1 C 2 2
+Lombard hitelek könyv szerinti nettó
+értéken (31+32+33)
+Σ
+031 1 C 2 2 1 Részvényfedezet mellett
+032 1 C 2 2 2 Állampapír fedezete mellett
+033 1 C 2 2 3 Egyéb értékpapír fedezet mellett
+034 1 C 3
+Függővé tett kamatok, kamat jellegű
+jutalékok (35+...+38)
+Σ
+035 1 C 3 1 Nem pénzügyi vállalatokkal szemben
+036 1 C 3 2 Háztartások - Lakossággal szemben
+037 1 C 3 3 Háztartások - Egyéni vállalkozókkal szemben
+038 1 C 3 4 Egyéb szektorokkal szemben
+039 1 C 4 1
+Összes lejárt hitelállomány könyv szerinti
+bruttó értéken
+040 1 C 4 2
+Összes lejárt hitelállomány könyv szerinti
+nettó értéken
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.C. Tájékoztató 1.
+
+PSZÁF azonosító
+1. C.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+T Á J É K O Z T A T Ó A D A T O K 1.
+02 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+041 1 C 5 1
+Összes leírt kihelyezés (január 1-jétől a
+tárgyhó végéig) könyv szerinti bruttó
+értéken (42+...+50)
+Σ
+042 1 C 5 1 1 Nem pénzügyi vállalatok - hitel
+043 1 C 5 1 2 Nem pénzügyi vállalatok - egyéb NEM hitel
+044 1 C 5 1 3 1 Háztartások - Lakosság
+045 1 C 5 1 3 2 Háztartások - Egyéni vállalkozók
+046 1 C 5 1 4 1 Külföld - hitel
+047 1 C 5 1 4 2 Külföld - egyéb NEM hitel
+048 1 C 5 1 5 1 Egyéb - hitel
+049 1 C 5 1 5 2 Egyéb - egyéb NEM hitel
+050 1 C 5 1 6 Leírt kamatkövetelés
+051 1 C 5 2
+Összes leírt kihelyezés (január 1-jétől a
+tárgyhó végéig) könyv szerinti nettó értéken
+(52+...+59)
+Σ
+052 1 C 5 2 1 Nem pénzügyi vállalatok - hitel
+053 1 C 5 2 2 Nem pénzügyi vállalatok - egyéb NEM hitel
+054 1 C 5 2 3 1 Háztartások - Lakosság
+055 1 C 5 2 3 2 Háztartások - Egyéni vállalkozók
+056 1 C 5 2 4 1 Külföld - hitel
+057 1 C 5 2 4 2 Külföld - egyéb NEM hitel
+058 1 C 5 2 5 1 Egyéb - hitel
+059 1 C 5 2 5 2 Egyéb - egyéb NEM hitel
+060 1 C 5 3
+Összes véglegesen eladott kihelyezés
+(jan.1-jétől a tárgyhó végéig) - könyv szerinti
+bruttó értéken (61+…+69)
+Σ
+061 1 C 5 3 1 Nem pénzügyi vállalatok - hitel
+062 1 C 5 3 2 Nem pénzügyi vállalatok - egyéb NEM hitel
+063 1 C 5 3 3 1 Háztartások - Lakosság
+064 1 C 5 3 3 2 Háztartások - Egyéni vállalkozók
+065 1 C 5 3 4 1 Külföld - hitel
+066 1 C 5 3 4 2 Külföld - egyéb NEM hitel
+067 1 C 5 3 5 1 Egyéb - hitel
+068 1 C 5 3 5 2 Egyéb - egyéb NEM hitel
+069 1 C 5 3 6 Véglegesen eladott kamatkövetelés
+070 1 C 5 4
+Összes véglegesen eladott kihelyezés
+(jan.1-jétől a tárgyhó végéig) - könyv szerinti
+nettó értéken (71+…+78)
+Σ
+071 1 C 5 4 1 Nem pénzügyi vállalatok - hitel
+072 1 C 5 4 2 Nem pénzügyi vállalatok - egyéb NEM hitel
+073 1 C 5 4 3 1 Háztartások - Lakosság
+074 1 C 5 4 3 2 Háztartások - Egyéni vállalkozók
+075 1 C 5 4 4 1 Külföld - hitel
+076 1 C 5 4 4 2 Külföld - egyéb NEM hitel
+077 1 C 5 4 5 1 Egyéb - hitel
+078 1 C 5 4 5 2 Egyéb - egyéb NEM hitel
+079 1 C 5 5
+Összes véglegesen eladott kihelyezés
+(jan.1-jétől a tárgyhó végéig) - eladási
+értéken (80+...+88)
+Σ
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.C. Tájékoztató 1.
+
+PSZÁF azonosító
+1. C.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+T Á J É K O Z T A T Ó A D A T O K 1.
+02 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+080 1 C 5 5 1 Nem pénzügyi vállalatok - hitel
+081 1 C 5 5 2 Nem pénzügyi vállalatok - egyéb NEM hitel
+082 1 C 5 5 3 1 Háztartások - Lakosság
+083 1 C 5 5 3 2 Háztartások - Egyéni vállalkozók
+084 1 C 5 5 4 1 Külföld - hitel
+085 1 C 5 5 4 2 Külföld - egyéb NEM hitel
+086 1 C 5 5 5 1 Egyéb - hitel
+087 1 C 5 5 5 2 Egyéb - egyéb NEM hitel
+088 1 C 5 5 6 Véglegesen eladott kamatkövetelés
+089 1 C 5 6 1
+Saját érd.-nek véglegesen eladott összes kih.
+(jan.1-től a tárgyhó végéig) könyv szerinti
+bruttó értéken
+090 1 C 5 6 2
+Saját érd.-nek véglegesen eladott összes kih.
+(jan.1-től a tárgyhó végéig) könyv szerinti
+nettó értéken
+091 1 C 5 6 3
+Saját érd.-nek véglegesen eladott összes kih.
+(jan.1-től a tárgyhó végéig) eladási értéken
+092 1 C 5 7
+Nem MPI-nek és nem ÁHT-nak nyújtott
+hitelből A HÓ SORÁN nem MPI
+belföldieknek és nem-rezidenseknek
+véglegesen eladott/értékpapírosított rész -
+könyv szerinti bruttó értéken
+093 1 C 6
+Saját, belföldön kibocsátott, hitelviszonyt
+megtestesítő értékpapírok összesen
+(94+...+99)
+Σ
+094 1 C 6 1 Nem pénzügyi vállalatok
+095 1 C 6 2 1 Háztartások - Lakosság
+096 1 C 6 2 2 Háztartások - Egyéni vállalkozók
+097 1 C 6 3 Egyéb belföldiek
+098 1 C 6 4 Külföld
+099 1 C 6 5 Szektorálisan nem bontható
+100 1 C 6 6
+Saját, belföldön kibocsátott NEM
+FORGATHATÓ hitelviszonyt megtestesítő
+értékpapírok állománya
+101 1 C 6 6 1 1
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - központi kormányzatnál -
+legfeljebb 2 éves lejáratú
+102 1 C 6 6 1 2
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - központi kormányzatnál - 2 éven
+túli lejáratú
+103 1 C 6 6 2 1
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - helyi önkormányzatnál - legfeljebb
+2 éves lejáratú
+104 1 C 6 6 2 2
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - helyi önkormányzatnál - 2 éven túli
+lejáratú
+105 1 C 6 6 3 1
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - belföldi monetáris pénzügyi
+intézményeknél - legfeljebb 2 éves lejáratú
+106 1 C 6 6 3 2
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - belföldi monetáris pénzügyi
+intézményeknél - 2 éven túli lejáratú
+107 1 C 6 6 4 1
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - egyéb püi közvtítőknél, püi
+kieg.tev. végzőknél, biztosítóknál és
+nyugdíjpénztáraknál - legfeljebb 2 éves lejáratú
+108 1 C 6 6 4 2
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - egyéb püi közvtítőknél, püi
+kieg.tev. végzőknél, biztosítóknál és
+nyugdíjpénztáraknál - 2 éven túli lejáratú
+109 1 C 6 6 5 1
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - nem pénzügyi vállalatnál -
+legfeljebb 2 éves lejáratú
+110 1 C 6 6 5 2
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - nem pénzügyi vállalatnál - 2 éven
+túli lejáratú
+111 1 C 6 6 6 1
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - háztartásoknál - legfeljebb 2 éves
+lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.C. Tájékoztató 1.
+
+PSZÁF azonosító
+1. C.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+T Á J É K O Z T A T Ó A D A T O K 1.
+02 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+112 1 C 6 6 6 2
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - háztartásoknál - 2 éven túli lejáratú
+113 1 C 6 6 7 1
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - házt. segítő nonprofit intézményeknél -
+legfeljebb 2 éves lejáratú
+114 1 C 6 6 7 2
+Saját, belföldön kibocsátott nem forgatható
+értékpapír - házt. segítő nonprofit intézményeknél -
+2 éven túli lejáratú
+115 1 C 6 7
+A hitelintézet tulajdonában lévő NEM
+FORGATHATÓ hitelviszonyt megtestesítő
+értékpapírok állománya
+116 1 C 6 7 1 1
+Nem pénzügyi vállalatok nem forgatható
+értékpapírja bruttó értéken - legfeljebb 5 éves
+lejáratú
+117 1 C 6 7 1 2
+Nem pénzügyi vállalatok nem forgatható
+értékpapírja bruttó értéken - 5 éven túli lejáratú
+118 1 C 6 7 2 1
+Egyéb püi közvetítők, püi kieg. tev-et végzők,
+biztosítók nem forgatható értékpapírja bruttó
+értéken - legfeljebb 5 éves lejáratú
+119 1 C 6 7 2 2
+Egyéb püi közvetítők, püi kieg. tev-et végzők,
+biztosítók nem forgatható értékpapírja bruttó
+értéken - 5 éven túli lejáratú
+120 1 C 7 Egyéb tájékoztató adatok
+121 1 C 7 1 Munkáltatói és helyi támogatás állománya
+122 1 C 7 2 1
+LTP-vel kötött szerződéshez kapcs. azonnali
+hitelek állománya könyv szerinti bruttó értéken
+123 1 C 7 2 2
+LTP-vel kötött szerződéshez kapcs. azonnali
+hitelek állománya könyv szerinti nettó értéken
+124 1 C 7 3 1 Adófizetési kötelezettség (halmozott
+január 1-jétől a tárgyhó végéig)
+125 1 C 7 3 2
+Adófizetési különbözet (halmozott
+január 1-jétől a tárgyhó végéig)
+126 1 C 7 4 1 Egyéb aktív időbeli elhatárolás (1AB81-ből)
+127 1 C 7 4 2 Egyéb passzív időbeli elhatárolás (1B65-ből)
+128 1 C 7 5 1 Nem valódi penziós ügyletekkel kapcsolatos
+mérlegen kívüli követelések
+129 1 C 7 5 2 1
+Nem valódi penziós ügyletekkel kapcsolatos
+mérlegen kívüli kötelezettség nyilvántartási értéken
+130 1 C 7 5 2 2
+Nem valódi penziós ügyletekkel kapcsolatos
+mérlegen kívüli kötelezettség nettó, céltartalékkal
+csökkentett értéken
+131 1 C 7 6 1
+Még be nem jegyzett vállalkozásba fizetett alapítói
+hozzájárulás (nettó értéken)
+132 1 C 7 6 2
+Külföldi tulajdonostól alárendelt és kieg. alárendelt
+kölcsöntőke (1B73-74-ből)
+133 1 C 7 7 1
+Hitelviszonyt megtestesítő értékpapírokból szárm.
+köv. (nettó értéken)
+134 1 C 7 7 2 Régi TB kötvény (nettó értéken)
+135 1 C 7 7 3 Visszavásárolt saját részvény névértéken
+136 1 C 7 8 1 1 1
+Iroda- és üzletházépítésre nyújtott hitel könyv
+szerinti bruttó értéken - legfeljebb 5 éves lejáratú
+137 1 C 7 8 1 1 2
+Iroda- és üzletházépítésre nyújtott hitel könyv
+szerinti bruttó értéken - 5 éven túli lejáratú
+138 1 C 7 8 1 2 1
+Iroda- és üzletházépítésre nyújtott hitel nettó
+értéken - legfeljebb 5 éves lejáratú
+139 1 C 7 8 1 2 2
+Iroda- és üzletházépítésre nyújtott hitel nettó
+értéken - 5 éven túli lejáratú
+140 1 C 7 8 2 1
+Lakosságnak jelzálog fedezete mellett nyújtott
+lakáscélú hitel összesen
+141 1 C 7 8 2 2
+Lakosságnak jelzálog fedezete mellett nyújtott
+egyéb hitel összesen
+142 1 C 7 9 1 Látra szóló takarékbetétek összesen
+143 1 C 7 9 2 Nem névre szóló összes betét (betéti okirat nélkül)
+144 1 C 7 9 3 Nem névre szóló betéti okirat összesen
+145 1 C 7 9 4 Nem névre szóló letéti jegy összesen
+146 1 C 8 1 Külföldi befektetésekből kiemelt részesedések
+nettó értéken (147+...+151)
+Σ
+147 1 C 8 1 1
+- Forgatási célú külföldi részvényekből -
+hitelintézetek
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.C. Tájékoztató 1.
+
+PSZÁF azonosító
+1. C.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+T Á J É K O Z T A T Ó A D A T O K 1.
+02 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+148 1 C 8 1 2
+- Forgatási célú külföldi részvényekből - PBB
+vállalkozások
+149 1 C 8 1 3
+- Bef. célú és vagyoni érd. külföldi
+részvényekből - hitelintézetek
+150 1 C 8 1 4
+- Bef. célú és vagyoni érd. külföldi
+részvényekből - PBB vállalkozások
+151 1 C 8 1 5
+- Vagyoni érd. külföldi részvényekből -
+járulékos vállalkozások
+152 1 C 8 2
+Külföldiek részére nyújtott alárendelt
+kölcsöntőke nettó értéken (153+...+157)
+Σ
+153 1 C 8 2 1 - Hitelintézetek részére
+154 1 C 8 2 2 - Pénzügyi vállalkozások részére
+155 1 C 8 2 3 - Befektetési vállalkozások részére
+156 1 C 8 2 4 - Biztosítók részére
+157 1 C 8 2 5 - Egyéb vállalkozások részére
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.C. Tájékoztató 1.
+
+PSZÁF azonosító
+1. D.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+E L A D O T T E S Z K Ö Z Ö K
+halasztott fizetéssel, illetve visszavásárlási kötelezettséggel
+03 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Visszavásárlási köt.
+a
+Halasztott és visszv.
+b
+Halasztott fizetésű
+c
+Módosult
+001 1 D 1 Könyv szerinti értéken (2+...+5) Σ
+002 1 D 1 1 Saját eszközök
+003 1 D 1 2 Követelés
+004 1 D 1 3 Értékpapír
+005 1 D 1 4 Befektetés
+006 1 D 2 Eladási értéken (7+...+10) Σ
+007 1 D 2 1 Saját eszközök
+008 1 D 2 2 Követelés
+009 1 D 2 3 Értékpapír
+010 1 D 2 4 Befektetés
+011 1 D 3 Visszavásárlási értéken (12+...15) Σ
+012 1 D 3 1 Saját eszközök
+013 1 D 3 2 Követelés
+014 1 D 3 3 Értékpapír
+015 1 D 3 4 Befektetés
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.D. Eladott eszköz
+
+PSZÁF azonosító
+1. E.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+TRANZAKCIÓK SZÁMÍTÁSÁHOZ SZÜKSÉGES ADATOK
+04 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+001 1 E 0 Eszközök
+002 1 E 1 Hitelleírások (3+…+17) Σ
+003 1 E 1 1 Monetáris pénzügyi intézményeknek nyújtott hitel
+004 1 E 1 2 1
+Egyéb pénzügyi közvetítőknek és püi kieg. tev-et
+végzőknek nyújtott hitel
+005 1 E 1 2 2 Biztosítóknak és nyugdíjpénztáraknak nyújtott hitel
+006 1 E 1 3 Nem pénzügyi vállalatoknak nyújtott hitel
+007 1 E 1 4 1
+Háztartásoknak és háztartásokat segítő nonprofit
+int. nyújtott - fogyasztási hitel
+008 1 E 1 4 2
+Háztartásoknak és háztartásokat segítő nonprofit
+int. nyújtott - lakáscélú hitel
+009 1 E 1 4 3
+Háztartásoknak és háztartásokat segítő nonprofit
+int. nyújtott - egyéb hitel
+010 1 E 1 5 1
+GMU monetáris pénzügyi intézményeknek nyújtott
+hitel
+011 1 E 1 5 2
+GMU egyéb pénzügyi közvetítőknek és püi kieg.
+tev-et végzőknek nyújtott hitel
+012 1 E 1 5 3
+GMU biztosítóknak és nyugdíjpénztáraknak
+nyújtott hitel
+013 1 E 1 5 4 GMU nem pénzügyi vállalatoknak nyújtott hitel
+014 1 E 1 5 5 1
+GMU háztartásoknak és háztartásokat segítő
+nonprofit int. nyújtott - fogyasztási hitel
+015 1 E 1 5 5 2
+GMU háztartásoknak és háztartásokat segítő
+nonprofit int. nyújtott - lakáscélú hitel
+016 1 E 1 5 5 3
+GMU háztartásoknak és háztartásokat segítő
+nonprofit int. nyújtott - egyéb hitel
+017 1 E 1 5 6 Egyéb külföldieknek nyújtott hitel
+018 1 E 2
+2 éven túli lejáratú hitelviszonyt megtestesítő
+értékpapírok árváltozása (19+…+27)
+Σ
+019 1 E 2 1 Monetáris pénzügyi intézmények értékpapírja
+020 1 E 2 2 Államháztartás értékpapírja
+021 1 E 2 3 Nem pénzügyi vállalatok értékpapírja
+022 1 E 2 4 Egyéb pénzügyi vállalatok értékpapírja
+023 1 E 2 5 Egyéb belföldi szektorok értékpapírja
+024 1 E 2 6 1
+GMU monetáris pénzügyi intézmények
+értékpapírja
+025 1 E 2 6 2 GMU államháztartás értékpapírja
+026 1 E 2 6 3 GMU egyéb szektorok értékpapírja
+027 1 E 2 6 4 Egyéb külföldiek értékpapírja
+028 1 E 3
+Részvények és egyéb üzletrészek árváltozása
+(29+…+35)
+Σ
+029 1 E 3 1 Monetáris pénzügyi intézmények
+030 1 E 3 2 Nem pénzügyi vállalatok
+031 1 E 3 3 Egyéb pénzügyi vállalatok
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.E. Tranzakciós tábla
+
+PSZÁF azonosító
+1. E.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+TRANZAKCIÓK SZÁMÍTÁSÁHOZ SZÜKSÉGES ADATOK
+04 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+032 1 E 3 4 Egyéb belföldi szektorok
+033 1 E 3 5 1 GMU monetáris pénzügyi intézmények
+034 1 E 3 5 2 GMU egyéb szektorok
+035 1 E 3 6 Egyéb külföldiek
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.E. Tranzakciós tábla
+
+PSZÁF azonosító
+1. F.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+T Á J É K O Z T A T Ó A D A T O K 2.
+05 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+001 1 F 1
+Hátrasorolt és vagyoni kötelezettségek
+szektorbontása (2+…+17)
+Σ
+002 1 F 1 1 - központi kormányzattal szemben
+003 1 F 1 2 - helyi önkormányzatokkal szemben
+004 1 F 1 3 - belföldi hitelintézetekkel szemben
+005 1 F 1 4 1 - belföldi pénzpiaci alapokkal szemben
+006 1 F 1 4 2
+- egyéb pénzügyi közvetítőkkel és püi kieg. tev.
+végzőkkel szemben
+007 1 F 1 5 - biztosítókkal és nyugdíjpénztárakkal szemben
+008 1 F 1 6 - nem pénzügyi vállalatokkal szemben
+009 1 F 1 7
+- háztartásokkal és háztartásokat segítő nonprofit
+intézményekkel szemben
+010 1 F 1 8 1 - GMU MPIk-kel szemben
+011 1 F 1 8 2 - GMU központi kormányzattal szemben
+012 1 F 1 8 3 - GMU egyéb ÁHT-val szemben
+013 1 F 1 8 4
+- GMU egyéb pü közv. és pü kieg. tev-et
+végzőkkel szemben
+014 1 F 1 8 5
+- GMU biztosítókkal és nyugdíjpénztárakkal
+szemben
+015 1 F 1 8 6 - GMU nem pénzügyi vállalatokkal szemben
+016 1 F 1 8 7
+- GMU háztartásokkal és háztartásokat segítő
+nonprofit intézményekkel szemben
+017 1 F 1 8 8 - egyéb külföldiekkel szemben
+018 1 F 2
+Lakosságnak ingatlanon alapított jelzálogjog
+fedezete mellett nyújtott hitelek bruttó értéken
+összesen (19+27)
+Σ
+019 1 F 2 1 Jelzáloghitelek összesen (20+24) Σ
+020 1 F 2 1 1 Lakáscélú jelzáloghitelek (21+22+23) Σ
+021 1 F 2 1 1 1 Forrásoldali kamattámogatásos lakáshitelek
+022 1 F 2 1 1 2
+Állami kiegészítő kamattámogatású és forrásoldali
+kamattámogatásos lakáshitelek kombinációja
+023 1 F 2 1 1 3 Piaci kamatozású és egyéb lakáshitelek
+024 1 F 2 1 2 Általános célú jelzáloghitelek (25+26) Σ
+025 1 F 2 1 2 1 Ingatlancélú felhasználásra nyújtott hitelek
+026 1 F 2 1 2 2 Egyéb felhasználásra nyújtott hitelek
+027 1 F 2 2
+Ingatlanon alapított jelzálogjog fedezete mellett
+nyújtott, NEM jelzáloghitelek összesen (28+32)
+Σ
+028 1 F 2 2 1
+Lakáscélú hitelek ingatlanon alapított jelzálogjog
+fedezete mellett (29+30+31)
+Σ
+029 1 F 2 2 1 1 Állami kiegészítő kamattámogatású
+030 1 F 2 2 1 2 Egyéb eszközoldali kamattámogatású
+031 1 F 2 2 1 3 Piaci kamatozású és egyéb lakáshitelek
+032 1 F 2 2 2
+Egyéb célra, ingatlanon alapított jelzálogjog
+fedezete mellett nyújtott hitelek (33+34)
+Σ
+033 1 F 2 2 2 1 Ingatlancélú felhasználás
+034 1 F 2 2 2 2 Egyéb felhasználás
+035 1 F 3
+Repó típusú ügyletekből eredő követelés
+(36+…+47)
+Σ
+036 1 F 3 1 Központi kormányzattal szemben
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.F. Tájéloztató 2.
+
+PSZÁF azonosító
+1. F.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+T Á J É K O Z T A T Ó A D A T O K 2.
+05 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+037 1 F 3 2 Helyi önkormányzatokkal szemben
+038 1 F 3 3 Belföldi hitelintézetekkel szemben
+039 1 F 3 4 1 Pénzpiaci alapokkal szemben
+040 1 F 3 4 2
+Egyéb püi közvetítőkkel és püi kieg.tev. végzőkkel
+szemben
+041 1 F 3 5 Biztosítókkal és nyugdíjpénztárakkal szemben
+042 1 F 3 6 Nem pénzügyi vállalatokkal szemben
+043 1 F 3 7 Háztartásokkal szemben
+044 1 F 3 8
+Háztartásokat segítő nonprofit intézményekkel
+szemben
+045 1 F 3 9 1 GMU MPI-kkel szemben
+046 1 F 3 9 2 GMU egyéb szektorokkal szemben
+047 1 F 3 9 3 Egyéb külföldiekkel szemben
+048 1 F 4
+Repó típusú ügyletekből eredő kötelezettség
+(49+…+60)
+Σ
+049 1 F 4 1 Belföldi hitelintézetekkel szemben
+050 1 F 4 2 Pénzpiaci alapokkal szemben
+051 1 F 4 3 Központi kormányzattal szemben
+052 1 F 4 4 1 Helyi önkormányzatokkal szemben
+053 1 F 4 4 2
+Egyéb püi közvetítőkkel és püi kieg.tev. végzőkkel
+szemben
+054 1 F 4 5 Biztosítókkal és nyugdíjpénztárakkal szemben
+055 1 F 4 6 Nem pénzügyi vállalatokkal szemben
+056 1 F 4 7 Háztartásokkal szemben
+057 1 F 4 8
+Háztartásokat segítő nonprofit intézményekkel
+szemben
+058 1 F 4 9 1 GMU MPI-kkel szemben
+059 1 F 4 9 2 GMU egyéb szektorokkal szemben
+060 1 F 4 9 3 Egyéb külföldiekkel szemben
+061 1 F 5 1
+Háztartások egyes hitel fajtáinak részletezése -
+bruttó értéken
+062 1 F 5 1 1
+Háztartások - Lakosság - fogyasztási hitel -
+személyi hitel - rövid
+063 1 F 5 1 1 1
+Háztartások - Lakosság - fogyasztási hitel -
+személyi hitel - hosszú - legfeljebb 5 éves lejáratú
+064 1 F 5 1 1 2
+Háztartások - Lakosság - fogyasztási hitel -
+személyi hitel - hosszú - 5 éven túli lejáratú
+065 1 F 5 1 2
+Háztartások - Lakosság - fogyasztási hitel -
+gépjármű vásárlási hitel - rövid
+066 1 F 5 1 2 1
+Háztartások - Lakosság - fogyasztási hitel -
+gépjármű vásárlási hitel - hosszú - legfeljebb
+5 éves lejáratú
+067 1 F 5 1 2 2
+Háztartások - Lakosság - fogyasztási hitel -
+gépjármű vásárlási hitel - hosszú - 5 éven túli
+lejáratú
+068 1 F 5 1 3
+Háztartások - Lakosság - fogyasztási hitel -
+áruvásárlási és egyéb - rövid
+069 1 F 5 1 3 1
+Háztartások - Lakosság - fogyasztási hitel -
+áruvásárlási és egyéb - hosszú - legfeljebb 5 éves
+lejáratú
+070 1 F 5 1 3 2
+Háztartások - Lakosság - fogyasztási hitel -
+áruvásárlási és egyéb - hosszú - 5 éven túli lejáratú
+071 1 F 5 1 4 Háztartások - Lakosság - diákhitel
+072 1 F 5 1 5
+Háztartások - Egyéni vállalkozók - gépjármű
+vásárlási hitel - rövid
+073 1 F 5 1 5 1
+Háztartások - Egyéni vállalkozók - gépjármű
+vásárlási hitel - hosszú - legfeljebb 5 éves lejáratú
+074 1 F 5 1 5 2
+Háztartások - Egyéni vállalkozók - gépjármű
+vásárlási hitel - hosszú - 5 éven túli lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.F. Tájéloztató 2.
+
+PSZÁF azonosító
+1. F.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+T Á J É K O Z T A T Ó A D A T O K 2.
+05 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+075 1 F 5 2
+Háztartások egyes hitel fajtáinak részletezése -
+nettó értéken
+076 1 F 5 2 1
+Háztartások - Lakosság - fogyasztási hitel -
+személyi hitel - rövid
+077 1 F 5 2 1 1
+Háztartások - Lakosság - fogyasztási hitel -
+személyi hitel - hosszú - legfeljebb 5 éves lejáratú
+078 1 F 5 2 1 2
+Háztartások - Lakosság - fogyasztási hitel -
+személyi hitel - hosszú - 5 éven túli lejáratú
+079 1 F 5 2 2
+Háztartások - Lakosság - fogyasztási hitel -
+gépjármű vásárlási hitel - rövid
+080 1 F 5 2 2 1
+Háztartások - Lakosság - fogyasztási hitel -
+gépjármű vásárlási hitel - hosszú - legfeljebb
+5 éves lejáratú
+081 1 F 5 2 2 2
+Háztartások - Lakosság - fogyasztási hitel -
+gépjármű vásárlási hitel - hosszú - 5 éven túli
+lejáratú
+082 1 F 5 2 3
+Háztartások - Lakosság - fogyasztási hitel -
+áruvásárlási és egyéb - rövid
+083 1 F 5 2 3 1
+Háztartások - Lakosság - fogyasztási hitel -
+áruvásárlási és egyéb - hosszú - legfeljebb 5 éves
+lejáratú
+084 1 F 5 2 3 2
+Háztartások - Lakosság - fogyasztási hitel -
+áruvásárlási és egyéb - hosszú - 5 éven túli lejáratú
+085 1 F 5 2 4 Háztartások - Lakosság - diákhitel
+086 1 F 5 2 5
+Háztartások - Egyéni vállalkozók - gépjármű
+vásárlási hitel - rövid
+087 1 F 5 2 5 1
+Háztartások - Egyéni vállalkozók - gépjármű
+vásárlási hitel - hosszú - legfeljebb 5 éves lejáratú
+088 1 F 5 2 5 2
+Háztartások - Egyéni vállalkozók - gépjármű
+vásárlási hitel - hosszú - 5 éven túli lejáratú
+089 1 F 6 1
+Az adott havi forint források után a jövőben
+elhelyezendő kötelező tartalék
+090 1 F 6 2
+Az adott havi deviza források után a jövőben
+elhelyezendő kötelező tartalék
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.F. Tájéloztató 2.
+
+MNB adatgyűjtési azonosító: F01, F08, F09
+EGYES ESZKÖZ ÉS FORRÁSTÉTELEK
+hóvégi állományának DEVIZASZERKEZETE (kiegészítő adatok; hitelek bruttó, értékpapírok nettó könyv szerinti értékben)
+06 tábla ezer deviza; JPY millió; egyéb EU devizák összesen, többi deviza összesen: mFt
+Nem GMU EU tagországok devizája Egyéb devizák
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés DKK
+a
+SEK
+b
+GBP
+c
+Egyéb EU
+devizák
+összesen d
+USD
+e
+JPY
+f
+CHF
+g
+CAD
+h
+NOK
+i
+AUD
+j
+több deviza
+összesen
+k
+001 1 G 1 ESZKÖZÖK
+002 1 G 1 1 Hitelek, elhelyezett betétek
+003 1 G 1 1 1 1 Központi kormányzatnak nyújtott hitel
+004 1 G 1 1 1 2 Helyi önkormányzatoknak nyújtott hitel
+005 1 G 1 1 2
+Belföldi monetáris pénzügyi intézményeknek nyújtott hitel,
+náluk elhelyezett betét
+006 1 G 1 1 3 Egyéb pénzügyi vállalatoknak nyújtott hitel
+007 1 G 1 1 4 Nem pénzügyi vállalatoknak nyújtott hitel
+008 1 G 1 1 5 Háztartásoknak nyújtott hitel
+009 1 G 1 1 6
+Háztartásokat segítő nonprofit intézményeknek nyújtott
+hitel
+010 1 G 1 1 7 1
+GMU monetáris pénzügyi intézményeknek nyújtott hitelek,
+náluk elhelyezett betétek
+011 1 G 1 1 7 2
+GMU rezidenseknek (monetáris pénzügyi intézmények
+kivételével) nyújtott hitel
+012 1 G 1 1 8 1
+Egyéb külföldi bankoknak nyújtott hitel, náluk elhelyezett
+betét - rövid
+013 1 G 1 1 8 2
+Egyéb külföldi bankoknak nyújtott hitel, náluk elhelyezett
+betét - hosszú
+014 1 G 1 1 9 1 Egyéb külföldieknek nyújtott hitel - rövid
+015 1 G 1 1 9 2 Egyéb külföldieknek nyújtott hitel - hosszú
+016 1 G 1 2 Hitelviszonyt megtestesítő értékpapírok
+017 1 G 1 2 1 1 Központi kormányzat által kibocsátott értékpapírok
+018 1 G 1 2 1 2 Helyi önkormányzatok által kibocsátott értékpapírok
+019 1 G 1 2 2
+Belföldi monetáris pénzügyi intézmények által kibocsátott
+értékpapírok
+020 1 G 1 2 3 Egyéb belföldi szektorok által kibocsátott értékpapírok
+021 1 G 1 2 4 1
+GMU monetáris pénzügyi intézmények által kibocsátott
+értékpapírok
+022 1 G 1 2 4 2 GMU egyéb szektorok által kibocsátott értékpapírok
+023 1 G 1 2 5 1 Egyéb külföldi bankok által kibocsátott értékpapírok
+024 1 G 1 2 5 2 Egyéb külföldiek által kibocsátott értékpapírok
+HM-1-00 1.G. Devizaszerkezet
+
+MNB adatgyűjtési azonosító: F01, F08, F09
+EGYES ESZKÖZ ÉS FORRÁSTÉTELEK
+hóvégi állományának DEVIZASZERKEZETE (kiegészítő adatok; hitelek bruttó, értékpapírok nettó könyv szerinti értékben)
+06 tábla ezer deviza; JPY millió; egyéb EU devizák összesen, többi deviza összesen: mFt
+Nem GMU EU tagországok devizája Egyéb devizák
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés DKK
+a
+SEK
+b
+GBP
+c
+Egyéb EU
+devizák
+összesen d
+USD
+e
+JPY
+f
+CHF
+g
+CAD
+h
+NOK
+i
+AUD
+j
+több deviza
+összesen
+k
+025 1 G 1 2 6 Külföldi részesedések
+026 1 G 2 FORRÁSOK
+027 1 G 2 1 Betétek, felvett hitelek, alárendelt kölcsöntőke
+028 1 G 2 1 1 1 Központi kormányzattól
+029 1 G 2 1 1 2 Helyi önkormányzatoktól
+030 1 G 2 1 2 Belföldi monetáris pénzügyi intézményektől
+031 1 G 2 1 3 Egyéb pénzügyi vállalatoktól
+032 1 G 2 1 4 Nem pénzügyi vállalatoktól
+033 1 G 2 1 5 Háztartásoktól
+034 1 G 2 1 6 Háztartásokat segítő nonprofit intézményektől
+035 1 G 2 1 7 1 GMU monetáris pénzügyi intézményektől
+036 1 G 2 1 7 2 GMU egyéb szektoroktól
+037 1 G 2 1 8 1 Egyéb külföldi bankoktól - rövid
+038 1 G 2 1 8 2 Egyéb külföldi bankoktól - hosszú
+039 1 G 2 1 9 1 Egyéb külföldiektől - rövid
+040 1 G 2 1 9 2 Egyéb külföldiektől - hosszú
+041 1 G 2 2 Hitelviszonyt megtestesítő értékpapírok
+HM-1-00 1.G. Devizaszerkezet
+
+PSZÁF azonosító
+1. H.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M)
+F 2 0 0
+ÉRTÉKELÉSSEL KAPCSOLATOS ADATOK
+08 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+001 1 H 1 1
+Egyes eszközök értékvesztése összesen
+(3+35+73+93+109)
+Σ
+002 1 H 1 2
+Egyes eszközök értékelési különbözete összesen
+(19+54+83+101+110)
+Σ
+003 1 H 2 1
+Forgatási célú értékpapírok értékvesztése
+összesen (4+13)
+Σ
+004 1 H 2 1 1
+Hitelviszonyt megtestesítő értékpapírok
+értékvesztése összesen (5+…+12)
+Σ
+005 1 H 2 1 1 1
+Állampapírok és helyi önkormányzati kötvény
+értékvesztése
+006 1 H 2 1 1 2 Jegybanki kötvény értékvesztése
+007 1 H 2 1 1 3 Belföldi hitelintézeti kötvény értékvesztése
+008 1 H 2 1 1 4
+Egyéb püi közvetítők, püi kieg. tev. végzők,
+biztosítók kötvényének értékvesztése
+009 1 H 2 1 1 5
+Nem pénzügyi vállalatok kötvényének
+értékvesztése
+010 1 H 2 1 1 6
+Háztartásokat segítő nonprofit intézmények
+kötvényének értékvesztése
+011 1 H 2 1 1 7 Egyéb belföldi kötvény értékvesztése
+012 1 H 2 1 1 8 Külföldi kötvények értékvesztése
+013 1 H 2 1 2
+Tulajdoni részesedések értékvesztése összesen
+(14+…+18)
+Σ
+014 1 H 2 1 2 1 Belföldi hitelintézetek részvényeinek értékvesztése
+015 1 H 2 1 2 2
+Pénzpiaci alapok befektetési jegyeinek
+értékvesztése
+016 1 H 2 1 2 3
+Egyéb bef.jegyek, egyéb püi közvetítők, pénzügyi
+kieg. tev. végzők, biztosítók részvényének
+értékvesztése
+017 1 H 2 1 2 4
+Nem pénzügyi vállalatok részvényeinek
+értékvesztése
+018 1 H 2 1 2 5 Külföldi részvények, bef. jegyek értékvesztése
+019 1 H 2 2
+Forgatási célú értékpapírok értékelési
+különbözete összesen (20+29)
+Σ
+020 1 H 2 2 1
+Hitelviszonyt megtestesítő értékpapírok értékelési
+különbözete összesen (21+…+28)
+Σ
+021 1 H 2 2 1 1
+Állampapírok és helyi önkormányzati kötvény
+értékelési különbözete
+022 1 H 2 2 1 2 Jegybanki kötvény értékelési különbözete
+023 1 H 2 2 1 3
+Belföldi hitelintézeti kötvény értékelési
+különbözete
+024 1 H 2 2 1 4
+Egyéb püi közvetítők, püi kieg. tev. végzők,
+biztosítók kötvényének értékelési különbözete
+025 1 H 2 2 1 5
+Nem pénzügyi vállalatok kötvényének értékelési
+különbözete
+026 1 H 2 2 1 6
+Háztartásokat segítő nonprofit intézmények
+kötvényének értékelési különbözete
+027 1 H 2 2 1 7 Egyéb belföldi kötvény értékelési különbözete
+028 1 H 2 2 1 8 Külföldi kötvények értékelési különbözete
+029 1 H 2 2 2
+Tulajdoni részesedések értékelési különbözete
+összesen (30+…+34)
+Σ
+030 1 H 2 2 2 1
+Belföldi hitelintézetek részvényeinek értékelési
+különbözete
+031 1 H 2 2 2 2
+Pénzpiaci alapok befektetési jegyeinek értékelési
+különbözete
+032 1 H 2 2 2 3
+Egyéb bef.jegyek, egyéb püi közvetítők, pénzügyi
+kieg. tev. végzők, biztosítók részvényének
+értékelési különbözete
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 1.H. Értékeléssel kapcsolatos adatok
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+1. H.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M)
+F 2 0 0
+ÉRTÉKELÉSSEL KAPCSOLATOS ADATOK
+08 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+033 1 H 2 2 2 4
+Nem pénzügyi vállalatok részvényeinek értékelési
+különbözete
+034 1 H 2 2 2 5
+Külföldi részvények, bef. jegyek értékelési
+különbözete
+035 1 H 3 1
+Befektetési célú értékpapírok értékvesztése
+összesen (36+48)
+Σ
+036 1 H 3 1 1
+Hitelviszonyt megtestesítő értékpapírok
+értékvesztése összesen (37+…+47)
+Σ
+037 1 H 3 1 1 1
+Állampapírok és helyi önkormányzati kötvény
+értékvesztése
+038 1 H 3 1 1 2 Jegybanki kötvény értékvesztése
+039 1 H 3 1 1 3 Belföldi hitelintézeti kötvény értékvesztése
+040 1 H 3 1 1 4
+Egyéb püi közvetítők, püi kieg. tev. végzők,
+biztosítók kötvényének értékvesztése
+041 1 H 3 1 1 5
+Nem pénzügyi vállalatok kötvényének
+értékvesztése
+042 1 H 3 1 1 6
+Háztartásokat segítő nonprofit intézmények
+kötvényének értékvesztése
+043 1 H 3 1 1 7 Egyéb belföldi kötvény értékvesztése
+044 1 H 3 1 1 8 Külföldi kötvények értékvesztése
+045 1 H 3 1 1 9 1
+Belföldi hitelintézetek ZÁRT körű kötvényének
+értékvesztése
+046 1 H 3 1 1 9 2
+Egyéb püi közvetítők, pénzügyi kieg. tev. végzők,
+biztosítók ZÁRT körű kötvényének értékvesztése
+047 1 H 3 1 1 9 3
+Nem pénzügyi vállalatok ZÁRT körű kötvényének
+értékvesztése
+048 1 H 3 1 2
+Tulajdoni részesedések értékvesztése összesen
+(49+…+53)
+Σ
+049 1 H 3 1 2 1 Belföldi hitelintézetek részvényeinek értékvesztése
+050 1 H 3 1 2 2
+Pénzpiaci alapok befektetési jegyeinek
+értékvesztése
+051 1 H 3 1 2 3
+Egyéb bef.jegyek, egyéb püi közvetítők, pénzügyi
+kieg. tev. végzők, biztosítók részvényének
+értékvesztése
+052 1 H 3 1 2 4
+Nem pénzügyi vállalatok részvényeinek
+értékvesztése
+053 1 H 3 1 2 5 Külföldi részvények, bef. jegyek értékvesztése
+054 1 H 3 2
+Befektetési célú értékpapírok értékelési
+különbözete összesen (55+67)
+Σ
+055 1 H 3 2 1
+Hitelviszonyt megtestesítő értékpapírok értékelési
+különbözete összesen (56+…+66)
+Σ
+056 1 H 3 2 1 1
+Állampapírok és helyi önkormányzati kötvény
+értékelési különbözete
+057 1 H 3 2 1 2 Jegybanki kötvény értékelési különbözete
+058 1 H 3 2 1 3
+Belföldi hitelintézeti kötvény értékelési
+különbözete
+059 1 H 3 2 1 4
+Egyéb püi közvetítők, püi kieg. tev. végzők,
+biztosítók kötvényének értékelési különbözete
+060 1 H 3 2 1 5
+Nem pénzügyi vállalatok kötvényének értékelési
+különbözete
+061 1 H 3 2 1 6
+Háztartásokat segítő nonprofit intézmények
+kötvényének értékelési különbözete
+062 1 H 3 2 1 7 Egyéb belföldi kötvény értékelési különbözete
+063 1 H 3 2 1 8 Külföldi kötvények értékelési különbözete
+064 1 H 3 2 1 9 1
+Belföldi hitelintézetek ZÁRT körű kötvényének
+értékelési különbözete
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 1.H. Értékeléssel kapcsolatos adatok
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+1. H.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M)
+F 2 0 0
+ÉRTÉKELÉSSEL KAPCSOLATOS ADATOK
+08 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+065 1 H 3 2 1 9 2
+Egyéb püi közvetítők, pénzügyi kieg. tev. végzők,
+biztosítók ZÁRT körű kötvényének értékelési
+különbözete
+066 1 H 3 2 1 9 3
+Nem pénzügyi vállalatok ZÁRT körű
+kötvényének értékelési különbözete
+067 1 H 3 2 2
+Tulajdoni részesedések értékelési különbözete
+összesen (68+…+72)
+Σ
+068 1 H 3 2 2 1
+Belföldi hitelintézetek részvényeinek értékelési
+különbözete
+069 1 H 3 2 2 2
+Pénzpiaci alapok befektetési jegyeinek értékelési
+különbözete
+070 1 H 3 2 2 3
+Egyéb bef.jegyek, egyéb püi közvetítők, pénzügyi
+kieg. tev. végzők, biztosítók részvényének
+értékelési különbözete
+071 1 H 3 2 2 4
+Nem pénzügyi vállalatok részvényeinek értékelési
+különbözete
+072 1 H 3 2 2 5
+Külföldi részvények, bef. jegyek értékelési
+különbözete
+073 1 H 4 1 Hitelek értékvesztése összesen (74+…+82) Σ
+074 1 H 4 1 1 Központi kormányzat hitelének értékvesztése
+075 1 H 4 1 2 Helyi önkormányzatok hitelének értékvesztése
+076 1 H 4 1 3
+Monetáris pénzügyi intézményeknek nyújtott hitel
+értékvesztése
+077 1 H 4 1 4
+Egyéb püi közv., püi kieg. tev. végzőknek,
+biztosítóknak nyújtott hitelek értékvesztése
+078 1 H 4 1 5
+Nem pénzügyi vállalatoknak nyújtott hitelek
+értékvesztése
+079 1 H 4 1 6 Háztartások - Lakosság - hitelek értékvesztése
+080 1 H 4 1 7
+Háztartások - Egyéni vállalkozók - hitelek
+értékvesztése
+081 1 H 4 1 8
+Háztartásokat segítő nonprofit intézmények
+hitelének értékvesztése
+082 1 H 4 1 9 Külfölddel szembeni követelések értékvesztése
+083 1 H 4 2
+Hitelek értékelési különbözete összesen
+(84+…+92)
+Σ
+084 1 H 4 2 1
+Központi kormányzat hitelének értékelési
+különbözete
+085 1 H 4 2 2
+Helyi önkormányzatok hitelének értékelési
+különbözete
+086 1 H 4 2 3
+Monetáris pénzügyi intézményeknek nyújtott hitel
+értékelési különbözete
+087 1 H 4 2 4
+Egyéb püi közv., püi kieg. tev. végzőknek,
+biztosítóknak nyújtott hitelek értékelési
+különbözete
+088 1 H 4 2 5
+Nem pénzügyi vállalatoknak nyújtott hitelek
+értékelési különbözete
+089 1 H 4 2 6
+Háztartások - Lakosság - hitelek értékelési
+különbözete
+090 1 H 4 2 7
+Háztartások - Egyéni vállalkozók - hitelek
+értékelési különbözete
+091 1 H 4 2 8
+Háztartásokat segítő nonprofit intézmények
+hitelének értékelési különbözete
+092 1 H 4 2 9
+Külfölddel szembeni követelések értékelési
+különbözete
+093 1 H 5 1 Vagyoni érdekeltségek értékvesztése (94+...+97) Σ
+094 1 H 5 1 1 Belföldi hitelintézetek részvényeinek értékvesztése
+095 1 H 5 1 2
+Egyéb püi közv., püi kieg. tev. végzőkben,
+biztosítókban, nypénzt. részesedés értékvesztése
+096 1 H 5 1 3
+Nem pénzügyi vállalatokban részesedések,
+üzletrészek értékvesztése
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 1.H. Értékeléssel kapcsolatos adatok
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+1. H.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M)
+F 2 0 0
+ÉRTÉKELÉSSEL KAPCSOLATOS ADATOK
+08 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+Módosult
+097 1 H 5 1 4
+Külföldi részvények, részesedések értékvesztése
+(98+…+100)
+Σ
+098 1 H 5 1 4 1 Külföldi hitelintézetek részvényeinek értékvesztése
+099 1 H 5 1 4 2 Külföldi PBB-k részvényeinek értékvesztése
+100 1 H 5 1 4 3 Külföldi egyéb részvények értékvesztése
+101 1 H 5 2
+Vagyoni érdekeltségek értékelési különbözete
+(102+…+105)
+Σ
+102 1 H 5 2 1
+Belföldi hitelintézetek részvényeinek értékelési
+különbözete
+103 1 H 5 2 2
+Egyéb püi közv., püi kieg. tev. végzőkben,
+biztosítókban, nypénzt. részesedés értékelési
+különbözete
+104 1 H 5 2 3
+Nem pénzügyi vállalatokban részesedések,
+üzletrészek értékelési különbözete
+105 1 H 5 2 4
+Külföldi részvények, részesedések értékelési
+különbözete (106+…+108)
+Σ
+106 1 H 5 2 4 1
+Külföldi hitelintézetek részvényeinek értékelési
+különbözete
+107 1 H 5 2 4 2
+Külföldi PBB-k részvényeinek értékelési
+különbözete
+108 1 H 5 2 4 3 Külföldi egyéb részvények értékelési különbözete
+109 1 H 6 1
+Egyéb aktív elszámolások és egyéb eszközök
+értékvesztése
+110 1 H 6 2
+Egyéb aktív elszámolások és egyéb eszközök
+értékelési különbözete (1AB86-ból) (111+112)
+Σ
+111 1 H 6 2 1
+Egyéb elszámolások, eszközök, követelések
+értékelési különbözete
+112 1 H 6 2 2
+Származékos ügyletek pozitív értékelési
+különbözete
+113 1 H 7 Források értékelése
+114 1 H 7 1 1
+Kötelezettségek értékelési különbözete (1B66-ból)
+(115+116)
+Σ
+115 1 H 7 1 1 1
+Hitelintézetekkel szembeni kötelezettségek
+értékelési különbözete
+116 1 H 7 1 1 2
+Ügyfelekkel szembeni kötelezettségek értékelési
+különbözete
+117 1 H 7 1 2
+Származékos ügyletek negatív értékelési
+különbözete (1B66-ból)
+118 1 H 7 2 1 Értékhelyesbítés értékelési tartaléka (1B95-ből)
+119 1 H 7 2 2 Valós értékelés értékelési tartaléka (1B95-ből)
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 1.H. Értékeléssel kapcsolatos adatok
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+2. A.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+E R E D M É N Y K I M U T A T Á S
+07 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Tárgyhavi
+a
+Halmozott
+b
+Módosult
+001 2 A 1 1 Hitelek kamat és kamatjellegű bevétele (2+...+12) Σ
+002 2 A 1 1 1 1 Folyószámla hitelek
+003 2 A 1 1 1 2 Váltók
+004 2 A 1 1 1 3 Fogyasztási hitelek
+005 2 A 1 1 1 4 Egyéb rövid lejáratú hitelek
+006 2 A 1 1 2 1 Megvásárolt követelések
+007 2 A 1 1 2 2 Értékpapírvásárlásra nyújtott hitelek
+008 2 A 1 1 2 3 Lakáscélú hitelek
+009 2 A 1 1 2 4 Nyújtott alárendelt és kiegészítő alárendelt kölcsöntőke
+010 2 A 1 1 2 5 Egyéb hosszúlejáratú hitelek
+011 2 A 1 1 3 Pénzügyi lízing
+012 2 A 1 1 4 Hitelek között szereplő valódi penziós ügyletek
+013 2 A 1 2 Jegybanki és bankközi betétek kamat és kamatjellegű bevétele (14+...+17) Σ
+014 2 A 1 2 1 Jegybanknál elhelyezett betétek
+015 2 A 1 2 2 1 Belföldi hitelintézeteknél elhelyezett betétek
+016 2 A 1 2 2 2 Külföldi hitelintézeteknél elhelyezett betétek
+017 2 A 1 2 3 Hitelintézetek - bankközi valódi penziós ügyletek
+018 2 A 1 3 Értékpapírok kamat és kamatjellegű bevétele (19+...+27) Σ
+019 2 A 1 3 1 Kincstárjegy, államkötvény
+020 2 A 1 3 2 Konszolidációs államkötvény
+021 2 A 1 3 3 Jegybanki kötvény
+022 2 A 1 3 4 1
+Hitelintézetek, egyéb püi közvetítők, pénzügyi kieg. tev. végzők, biztosítók
+nyílt körű kötvénye
+023 2 A 1 3 4 2 Egyéb nyílt körű kötvény
+024 2 A 1 3 4 3 Zárt körű kötvény
+025 2 A 1 3 4 4 Befeketetési jegy hozama
+026 2 A 1 3 5 1 Külföldi állampapír
+027 2 A 1 3 5 2 Külföldi egyéb értékpapír
+028 2 A 1 4 Egyéb kamat és kamatjellegű bevétel
+029 2 A 1 KAMAT ÉS KAMATJELLEGŰ BEVÉTEL ÖSSZESEN (1+13+18+28) Σ
+030 2 A 2 1 Betétek kamat és kamatjellegű ráfordítása (31+...+37) Σ
+031 2 A 2 1 1 1 Folyószámla- és látra szóló betétek
+032 2 A 2 1 1 2 Rövid lejáratú betétek
+033 2 A 2 1 1 3 Hosszú lejáratú betétek
+034 2 A 2 1 2 1 Rövid lejáratú betéti okiratok
+HM-2-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 2.A. Eredménykimutatás
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+2. A.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+E R E D M É N Y K I M U T A T Á S
+07 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Tárgyhavi
+a
+Halmozott
+b
+Módosult
+035 2 A 2 1 2 2 Hosszú lejáratú betéti okiratok
+036 2 A 2 1 3 Lakáscélú betétek
+037 2 A 2 1 4 Betétek között szereplő valódi penziós ügyletek
+038 2 A 2 2
+Hitelintézetektől származó bankközi betét kamat és kamatjellegű
+ráfordítása (39+40)
+Σ
+039 2 A 2 2 1 Belföldi hitelintézetek által elhelyezett betétek
+040 2 A 2 2 2 Külföldi hitelintézetek által elhelyezett betétek
+041 2 A 2 3 Felvett hitelek kamat és kamatjellegű ráfordítása (42+...+48) Σ
+042 2 A 2 3 1 1 Jegybanktól felvett hitelek
+043 2 A 2 3 1 2 Jegybanki aktív repo
+044 2 A 2 3 2 1
+Belföldi hitelintézetektől, egyéb püi közvetítőktől, püi kieg. tev. végzőktől,
+biztosítóktól felvett hitelek
+045 2 A 2 3 2 2 Külföldi hitelintézetektől felvett hitelek
+046 2 A 2 3 3 Hitelintézetek - valódi penziós ügyletek
+047 2 A 2 3 4 Nemzetközi intézményektől, kormányoktól felvett hitelek
+048 2 A 2 3 5 Egyéb felvett hitelek
+049 2 A 2 4 Értékpapírok kamat és kamatjellegű ráfordítása (50+51+52) Σ
+050 2 A 2 4 1 Kötvények
+051 2 A 2 4 2 Letéti jegyek
+052 2 A 2 4 3 Egyéb értékpapírok
+053 2 A 2 5 Hátrasorolt kötelezettségek kamat és kamatjellegű ráfordítása
+054 2 A 2 6 Egyéb kamat és kamat jellegű ráfordítás
+055 2 A 2
+KAMAT ÉS KAMATJELLEGŰ RÁFORDÍTÁS ÖSSZESEN
+(30+38+41+49+53+54)
+Σ
+056 2 A 3 KAMATKÜLÖNBÖZET (29-55)
+057 2 A 4 1 Kapott osztalék (58+59+60) Σ
+058 2 A 4 1 1 Befektetési célú részvényekből, részesedésekből - kapcsolt vállalkozásoktól
+059 2 A 4 1 2
+Befektetési célú részvényekből, részesedésekből - egyéb részesedési
+viszonyban lévő vállalkozásoktól
+060 2 A 4 1 3 Forgatási célú részvényekből, egyéb részesedésekből
+061 2 A 4 2 JUTALÉK ÉS DÍJEREDMÉNY (62-67) Σ
+062 2 A 4 2 1 Jutalékért végzett pénzügyi és bef. szolgáltatások bevétele (63+…+66) Σ
+063 2 A 4 2 1 1 Pénzforgalmi és lebonyolítási jutalékok
+064 2 A 4 2 1 2 Garancia, kezességvállalási díjak
+065 2 A 4 2 1 3 Egyéb jutalékok és díjak
+066 2 A 4 2 1 4 Befektetési szolgáltatásokkal kapcsolatos díj- és jutalék bevételek
+067 2 A 4 2 2 Jutalékért végzett pénzügyi és bef. szolgáltatások ráfordítása (68+69+70) Σ
+HM-2-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 2.A. Eredménykimutatás
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+2. A.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+E R E D M É N Y K I M U T A T Á S
+07 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Tárgyhavi
+a
+Halmozott
+b
+Módosult
+068 2 A 4 2 2 1 Pénzforgalmi és lebonyolítási jutalékok
+069 2 A 4 2 2 2 Egyéb jutalékok és díjak
+070 2 A 4 2 2 3 Befektetési szolgáltatásokkal kapcsolatos díj- és jutalék ráfordítások
+071 2 A 4 3 PÉNZÜGYI MŰVELETEK EREDMÉNYE (72+88+104) Σ
+072 2 A 4 3 1
+Pénzügyi szolgáltatásokból származó eredmény (73-74+75+76-77+78+79-
+80+81-82+83-84+85+86-87)
+073 2 A 4 3 1 1 1 Befektetési célú értékpapírok értékesítéséből származó bevétel
+074 2 A 4 3 1 1 2 Befektetési célú értékpapírok értékesítéséből, leírásából származó ráfordítás
+075 2 A 4 3 1 1 3 Értékvesztés visszaírása befektetési célú értékpapírok értékesítése miatt
+076 2 A 4 3 1 2 1 Vagyoni érdekeltségek értékesítéséből származó bevétel
+077 2 A 4 3 1 2 2 Vagyoni érdekeltségek értékesítéséből, leírásából származó ráfordítás
+078 2 A 4 3 1 2 3 Értékvesztés visszaírása vagyoni érdekeltségek értékesítése miatt
+079 2 A 4 3 1 3 1 Devizaeszközök és kötelezettségek átértékeléséből származó nyereség
+080 2 A 4 3 1 3 2 Devizaeszközök és kötelezettségek átértékeléséből származó veszteség
+081 2 A 4 3 1 3 3
+Devizaeszközökkel és devizaforrásokkal kapcsolatos realizált
+árfolyamnyereség
+082 2 A 4 3 1 3 4
+Devizaeszközökkel és devizaforrásokkal kapcsolatos realizált
+árfolyamveszteség
+083 2 A 4 3 1 4 1 Vásárolt követelés értékesítés nyeresége
+084 2 A 4 3 1 4 2 Vásárolt követelés értékesítés vesztesége
+085 2 A 4 3 1 4 3 Vásárolt követelés értékesítéséhez kapcsolódó értékvesztés visszaírás
+086 2 A 4 3 1 5 1 Pénzügyi szolgáltatás egyéb bevétele
+087 2 A 4 3 1 5 2 Pénzügyi szolgáltatás egyéb ráfordítása
+088 2 A 4 3 2
+Hitelintézettel, MNB-vel végzett befekt. szolg. tevék.-ből szárm. eredmény
+(89-90-91+92+93+94-95-96+97+98+99-100+101+102-103)
+089 2 A 4 3 2 1 1 Deviza határidős ügyletekből származó bevétel
+090 2 A 4 3 2 1 2 Deviza határidős ügyletekből származó ráfordítás
+091 2 A 4 3 2 1 3 1 Deviza határidős ügyletekhez kapcsolódó céltartalékképzés
+092 2 A 4 3 2 1 3 2 Deviza határidős ügyletekhez kapcsolódó céltartalékfelhasználás
+093 2 A 4 3 2 1 3 3 Deviza határidős ügyletekhez kapcsolódó céltartalékfelszabadítás
+094 2 A 4 3 2 2 1 Egyéb határidős ügyletekből származó bevétel
+095 2 A 4 3 2 2 2 Egyéb határidős ügyletekből származó ráfordítás
+096 2 A 4 3 2 2 3 1 Egyéb határidős ügyletekhez kapcsolódó céltartalékképzés
+097 2 A 4 3 2 2 3 2 Egyéb határidős ügyletekhez kapcsolódó céltartalékfelhasználás
+HM-2-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 2.A. Eredménykimutatás
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+2. A.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+E R E D M É N Y K I M U T A T Á S
+07 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Tárgyhavi
+a
+Halmozott
+b
+Módosult
+098 2 A 4 3 2 2 3 3 Egyéb határidős ügyletekhez kapcsolódó céltartalékfelszabadítás
+099 2 A 4 3 2 3 1 Forgatási célú értékpapír árfolyamváltozásából származó bevétel
+100 2 A 4 3 2 3 2 Forgatási célú értékpapír árfolyamváltozásából származó ráfordítás
+101 2 A 4 3 2 3 3 Forgatási célú értékpapír értékesítéséhez kapcsolódó értékvesztés visszaírás
+102 2 A 4 3 2 4 1
+Hitelintézettel, MNB-vel végzett befekt. szolg. tevék.-ből szárm. egyéb
+bevétel
+103 2 A 4 3 2 4 2
+Hitelintézettel, MNB-vel végzett befekt. szolg. tevék.-ből szárm. egyéb
+ráfordítás
+104 2 A 4 3 3
+Befektetési szolgáltatásból származó eredmény (105-106-
+107+108+109+110-111-112+113+114+115-116-117+118+119-120)
+105 2 A 4 3 3 1 1 Deviza határidős ügyletekből származó bevétel
+106 2 A 4 3 3 1 2 Deviza határidős ügyletekből származó ráfordítás
+107 2 A 4 3 3 1 3 1 Deviza határidős ügyletekhez kapcsolódó céltartalékképzés
+108 2 A 4 3 3 1 3 2 Deviza határidős ügyletekhez kapcsolódó céltartalékfelhasználás
+109 2 A 4 3 3 1 3 3 Deviza határidős ügyletekhez kapcsolódó céltartalékfelszabadítás
+110 2 A 4 3 3 2 1 Egyéb határidős ügyletekből származó bevétel
+111 2 A 4 3 3 2 2 Egyéb határidős ügyletekből származó ráfordítás
+112 2 A 4 3 3 2 3 1 Egyéb határidős ügyletekhez kapcsolódó céltartalékképzés
+113 2 A 4 3 3 2 3 2 Egyéb határidős ügyletekhez kapcsolódó céltartalékfelhasználás
+114 2 A 4 3 3 2 3 3 Egyéb határidős ügyletekhez kapcsolódó céltartalékfelszabadítás
+115 2 A 4 3 3 3 1 Forgatási célú értékpapír árfolyamváltozásából származó bevétel
+116 2 A 4 3 3 3 2 Forgatási célú értékpapír árfolyamváltozásából származó ráfordítás
+117 2 A 4 3 3 3 3 Forgatási célú értékpapírok értékvesztése
+118 2 A 4 3 3 3 4 Forgatási célú értékpapírok értékvesztésének visszaírása
+119 2 A 4 3 3 4 1 Befektetési szolgáltatásból származó egyéb bevétel
+120 2 A 4 3 3 4 2 Befektetési szolgáltatásból származó egyéb ráfordítás
+121 2 A 4 4 EGYÉB ÜZLETI TEVÉKENYSÉG EREDMÉNYE (122+127) Σ
+122 2 A 4 4 1
+Nem pénzügyi és befektetési szolgáltatási eredmény
+(123-124+125-126)
+123 2 A 4 4 1 1 1 Lízingbe adott eszköz számlázott értéke (ÁFA és kamat nélkül)
+124 2 A 4 4 1 1 2 Lízingbe adott eszköz könyv szerinti értéke
+125 2 A 4 4 1 2 1
+Eseti vagy rendszeresen végzett nem pénzügyi és befektetési szolgáltatásból
+származó bevétel, egyéb
+126 2 A 4 4 1 2 2
+Eseti vagy rendszeresen végzett nem pénzügyi és befektetési szolgáltatásból
+származó ráfordítás, egyéb
+127 2 A 4 4 2
+Egyéb eredmény (128-129+130+131-132+133-134+135-136-137+138+139-
+140-141-142+143+144-145+146+147+148+149-150)
+HM-2-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 2.A. Eredménykimutatás
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+2. A.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+E R E D M É N Y K I M U T A T Á S
+07 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Tárgyhavi
+a
+Halmozott
+b
+Módosult
+128 2 A 4 4 2 1 1 Saját követelés értékesítés bevétele
+129 2 A 4 4 2 1 2 Saját követelés értékesítés, leírás ráfordítása
+130 2 A 4 4 2 1 3 Saját követelés értékesítéshez, leíráshoz kapcsolódó értékvesztés visszaírás
+131 2 A 4 4 2 2 1 Követelés fejében átvett, készletek között szereplő eszköz értékesítés bevétele
+132 2 A 4 4 2 2 2
+Követelés fejében átvett, készletek között szereplő eszköz értékesítés
+ráfordítása
+133 2 A 4 4 2 2 3
+Követelés fejében átvett, készletek között szereplő eszköz értékesítése miatti
+értékvesztés visszaírás
+134 2 A 4 4 2 2 4 Követelés fejében átvett, készletek között szerepelő eszköz értékvesztése
+135 2 A 4 4 2 3 1 Készletértékesítés bevétele
+136 2 A 4 4 2 3 2 Készletértékesítés ráfordítása
+137 2 A 4 4 2 3 3 Készletek értékvesztése
+138 2 A 4 4 2 3 4 Készletek értékvesztésének visszaírása
+139 2 A 4 4 2 4 1 Tárgyi eszközök és immateriális javak értékesítésének bevétele
+140 2 A 4 4 2 4 2
+Tárgyi eszközök és immateriális javak értékesítésekor a könyv szerinti érték
+kivezetése
+141 2 A 4 4 2 4 3 Tárgyi eszközök és immateriális javak terven felüli értékcsökkenése
+142 2 A 4 4 2 5 1 Általános kockázati céltartalék képzése
+143 2 A 4 4 2 5 2 1 Általános kockázati céltartalék felhasználása
+144 2 A 4 4 2 5 2 2 Általános kockázati céltartalék felszabadítása
+145 2 A 4 4 2 6 1 Egyéb céltartalék képzése
+146 2 A 4 4 2 6 2 1 Egyéb céltartalék felhasználása
+147 2 A 4 4 2 6 2 2 Egyéb céltartalék felszabadítása
+148 2 A 4 4 2 7 Egyéb bevétel jogszabály változás miatt
+149 2 A 4 4 2 8 1 Egyéb másutt nem szereplő egyéb bevételek
+150 2 A 4 4 2 8 2 Egyéb másutt nem szereplő egyéb ráfordítások
+151 2 A 5 1 ÁLTALÁNOS IGAZGATÁSI KÖLTSÉGEK (152+…+161) Σ
+152 2 A 5 1 1 1 Személyi jellegű ráfodítások - bérköltségek
+153 2 A 5 1 1 2
+Személyi jellegű ráfodítások - egyéb ráfordítások társadalombiztosítási
+költségek nélkül
+154 2 A 5 1 1 3 Személyi jellegű ráfodítások - társadalombiztosítás, nyugdíj
+155 2 A 5 1 1 4 Személyi jellegű ráfodítások - egyéb járulék
+156 2 A 5 1 2 Fizetett bérleti díj
+157 2 A 5 1 3 Számítástechnikai költségek
+158 2 A 5 1 4 Szakértői díjak
+HM-2-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 2.A. Eredménykimutatás
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+2. A.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+E R E D M É N Y K I M U T A T Á S
+07 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Tárgyhavi
+a
+Halmozott
+b
+Módosult
+159 2 A 5 1 5 Marketing költségek
+160 2 A 5 1 6 Egyéb igazgatási költségek
+161 2 A 5 1 7 Értékcsökkenési leírások
+162 2 A 6 1
+ÉRTÉKVESZTÉS ÉS KOCKÁZATI CÉLTARTALÉK VÁLTOZÁSA
+(-163+164-165+166-167+168-169+170-171+172+173)
+163 2 A 6 1 1 1 Értékvesztés saját követelések után
+164 2 A 6 1 1 2 Értékvesztés visszaírása saját követelések után
+165 2 A 6 1 1 3 Értékvesztés vásárolt követelések után
+166 2 A 6 1 1 4 Értékvesztés visszaírása vásárolt követelések után
+167 2 A 6 1 1 5 Értékvesztés a befektetési célú értékpapírok után
+168 2 A 6 1 1 6 Értékvesztés visszaírása a befektetési célú értékpapírok után
+169 2 A 6 1 2 1 Vagyoni érdekeltségek értékvesztése
+170 2 A 6 1 2 2 Vagyoni érdekeltségek értékvesztésének visszaírása
+171 2 A 6 1 3 1 Kockázati céltartalékképzés a függő és jövőbeni kötelezettségekre
+172 2 A 6 1 3 2 1 Kockázati céltartalék felhasználás a függő és jövőbeni kötelezettségek után
+173 2 A 6 1 3 2 2 Kockázati céltartalék felszabadítás a függő és jövőbeni kötelezettségek után
+174 2 A 6
+SZOKÁSOS (ÜZLETI) TEVÉKENYSÉG EREDMÉNYE
+(56+57+61+71+121-151+162 )
+175 2 A 7 1 RENDKÍVÜLI BEVÉTEL (176+…+179) Σ
+176 2 A 7 1 1 Gazdasági társaságba apportként bevitt vagyontárgyak szerződés szerinti értéke
+177 2 A 7 1 2
+Visszavásárolt saját részvény, üzletrész, vagyonjegy bevonása esetén annak
+névértéke
+178 2 A 7 1 3 Térítés nélkül átvett eszközök átadónál kimutatott nyilvántartási értéke
+179 2 A 7 1 4 Egyéb rendkívüli bevételek
+180 2 A 7 2 RENDKÍVÜLI RÁFORDÍTÁS (181+…+184) Σ
+181 2 A 7 2 1
+Gazdasági társaságba apportként bevitt vagyontárgyak nyilvántartás szerinti
+értéke
+182 2 A 7 2 2
+Visszavásárolt saját részvény, üzletrész, vagyonjegy bevonása esetén a
+visszavásárlási érték
+183 2 A 7 2 3
+Térítés nélkül átadott eszközök nyilvántartási értéke növelve a felszámított,
+átvevő által meg nem fizetett ÁFÁ-val
+184 2 A 7 2 4 Egyéb rendkívüli ráfordítások
+185 2 A 7 3 ADÓZÁS ELŐTTI EREDMÉNY (174+175-180)
+186 2 A 8 1 Befizetett adó (év közben adóelőleg), év végén adófizetési kötelezettség
+187 2 A 8 ADÓZOTT EREDMÉNY (185-186)
+188 2 A 9 1 Általános tartalék képzése
+HM-2-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 2.A. Eredménykimutatás
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+2. A.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+E R E D M É N Y K I M U T A T Á S
+07 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF sorkód Megnevezés
+Tárgyhavi
+a
+Halmozott
+b
+Módosult
+189 2 A 9 2 Általános tartalék felhasználása
+190 2 A 9 3 Eredménytartalék igénybevétele osztalékra, részesedésre
+191 2 A 9 4 Fizetett (jóváhagyott) osztalék, részesedés
+192 2 A 9 4 1 Ebből: kapcsolt vállalkozásnak
+193 2 A 9 4 2 egyéb részesedési viszonyban lévő vállalkozásnak
+194 2 A 9
+MÉRLEG SZERINTI EREDMÉNY (év közben EREDMÉNY)
+(187-188+189+190-191)
+HM-2-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat 2.A. Eredménykimutatás
+(MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos.
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+001 1 A N 0
+Eszközök összesen
+(2+10+83+150+160+316+345+361+400)
+S
+002 1 A N 1 Pénztár és elszámolási számlák (3+...+9) S
+003 1 A N 1 1 Pénztárkészlet (forint, valuta)
+004 1 A N 1 2 Jegybanki nostro számlák
+005 1 A N 1 3 Szöv. hit. int. MTB-nél lévő elszámolási számlája
+006 1 A N 1 4
+Jegybanki nostro számlákkal és MTB-nél lévő
+elsz.szlával kapcs.átvez.szla állomány
+007 1 A N 1 5 Nostro számlák belföldi hitelintézeteknél
+008 1 A N 1 6 1 Nostro számlák GMU hitelintézeteknél
+009 1 A N 1 6 2 Nostro számlák egyéb külföldi bankoknál
+010 1 A N 2 Forgatási célú értékpapírok (11+58) S
+011 1 A N 2 1
+Hitelviszonyt megtestesítő értékpapírok összesen
+(12+...+20+24+35+40+…+44)
+S
+012 1 A N 2 1 1 1 Kincstárjegy
+013 1 A N 2 1 1 2 Államkötvény
+014 1 A N 2 1 1 3 Konszolidációs államkötvény
+015 1 A N 2 1 2 1 Helyi önkormányzati kötvény - rövid
+016 1 A N 2 1 2 2 Helyi önkormányzati kötvény - hosszú
+017 1 A N 2 1 3 1 Jegybanki kötvény - rövid
+018 1 A N 2 1 3 2
+Jegybanki kötvény - hosszú - legfeljebb 2 éves
+lejáratú
+019 1 A N 2 1 3 3 Jegybanki kötvény - hosszú - 2 éven túli lejáratú
+020 1 A N 2 1 4
+Belföldi hitelintézetek kötvénye összesen
+(21+22+23)
+S
+021 1 A N 2 1 4 1 Belföldi hitelintézetek kötvénye - rövid
+022 1 A N 2 1 4 2 1
+Belföldi hitelintézetek kötvénye - hosszú -
+legfeljebb 2 éves lejáratú
+023 1 A N 2 1 4 2 2
+Belföldi hitelintézetek kötvénye - hosszú - 2 éven
+túli lejáratú
+024 1 A N 2 1 5
+Egyéb pénzügyi közvetítők, pénzügyi kiegészítő
+tevékenységet végzők, biztosítók kötvénye
+összesen (25+ … +34)
+S
+025 1 A N 2 1 5 1 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások kötvénye - rövid
+026 1 A N 2 1 5 1 1 2
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások kötvénye - hosszú
+027 1 A N 2 1 5 1 2 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+kötvénye - rövid
+028 1 A N 2 1 5 1 2 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+kötvénye - hosszú
+029 1 A N 2 1 5 2 1 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások kötvénye -
+rövid
+030 1 A N 2 1 5 2 1 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások kötvénye -
+hosszú
+031 1 A N 2 1 5 2 2 1
+Pénzügyi kiegészítő tevékenységet végzők
+- Egyéb intézmények kötvénye - rövid
+032 1 A N 2 1 5 2 2 2
+Pénzügyi kiegészítő tevékenységet végzők
+- Egyéb intézmények kötvénye - hosszú
+033 1 A N 2 1 5 3 1 Biztosítók kötvénye - rövid
+034 1 A N 2 1 5 3 2 Biztosítók kötvénye - hosszú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+035 1 A N 2 1 6
+Nem pénzügyi vállalatok kötvénye összesen
+(36+ … +39)
+S
+036 1 A N 2 1 6 1 1 Járulékos vállalkozások kötvénye - rövid
+037 1 A N 2 1 6 1 2 Járulékos vállalkozások kötvénye - hosszú
+038 1 A N 2 1 6 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül)
+kötvénye - rövid
+039 1 A N 2 1 6 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül)
+kötvénye - hosszú
+040 1 A N 2 1 7 1
+Háztartásokat segítő nonprofit intézmények
+kötvénye - rövid
+041 1 A N 2 1 7 2
+Háztartásokat segítő nonprofit intézmények
+kötvénye - hosszú
+042 1 A N 2 1 8 1 Egyéb belföldi kötvény - rövid
+043 1 A N 2 1 8 2 Egyéb belföldi kötvény - hosszú
+044 1 A N 2 1 9 Külföldi kötvények összesen (45+…+57) S
+045 1 A N 2 1 9 1 1 1 GMU állampapírok - rövid
+046 1 A N 2 1 9 1 1 2 GMU állampapírok - hosszú
+047 1 A N 2 1 9 1 2 1 GMU egyéb ÁHT értékpapírja - rövid
+048 1 A N 2 1 9 1 2 2 GMU egyéb ÁHT értékpapírja - hosszú
+049 1 A N 2 1 9 1 3 1 GMU MPIk kötvénye - rövid
+050 1 A N 2 1 9 1 3 2 1
+GMU MPIk kötvénye - hosszú - legfeljebb 2 éves
+lejáratú
+051 1 A N 2 1 9 1 3 2 2
+GMU MPIk kötvénye - hosszú - 2 éven túli
+lejáratú
+052 1 A N 2 1 9 1 4 1 GMU egyéb szektorok kötvénye - rövid
+053 1 A N 2 1 9 1 4 2 GMU egyéb szektorok kötvénye - hosszú
+054 1 A N 2 1 9 2 1 1 Egyéb külföldi állampapírok - rövid
+055 1 A N 2 1 9 2 1 2 Egyéb külföldi állampapírok - hosszú
+056 1 A N 2 1 9 2 2 1 Egyéb külföldiek kötvénye - rövid
+057 1 A N 2 1 9 2 2 2 Egyéb külföldiek kötvénye - hosszú
+058 1 A N 2 2
+Tulajdoni részesedések összesen
+(59+62+63+75+76+77)
+S
+059 1 A N 2 2 1 Belföldi hitelintézetek részvénye összesen (60+61) S
+060 1 A N 2 2 1 1
+Belföldi hitelintézetek tőzsdére bevezetett
+részvényei
+061 1 A N 2 2 1 2
+Belföldi hitelintézetek tőzsdére NEM bevezetett
+részvényei
+062 1 A N 2 2 2 1 Pénzpiaci alapok befektetési jegyei
+063 1 A N 2 2 2 2
+Egyéb befektetési jegyek, egyéb püi közvetítők,
+püi kiegészítő tevékenységet végzők, biztosítók
+részvénye összesen (64+…+74)
+S
+064 1 A N 2 2 2 2 1 Egyéb befektetési jegyek
+065 1 A N 2 2 2 2 2 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások tőzsdére bevezetett
+részvényei
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+066 1 A N 2 2 2 2 2 1 2
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások tőzsdére NEM bevezetett
+részvényei
+067 1 A N 2 2 2 2 2 2 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+tőzsdére bevezetett részvényei
+068 1 A N 2 2 2 2 2 2 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+tőzsdére NEM bevezetett részvényei
+069 1 A N 2 2 2 2 3 1 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások tőzsdére
+bevezetett részvényei
+070 1 A N 2 2 2 2 3 1 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások tőzsdére
+NEM bevezetett részvényei
+071 1 A N 2 2 2 2 3 2 1
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények tőzsdére bevezetett részvényei
+072 1 A N 2 2 2 2 3 2 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények tőzsdére NEM bevezetett részvényei
+073 1 A N 2 2 2 2 4 1 Biztosítók tőzsdére bevezetett részvényei
+074 1 A N 2 2 2 2 4 2 Biztosítók tőzsdére NEM bevezetett részvényei
+075 1 A N 2 2 3 1
+Nem pénzügyi vállalatok tőzsdére bevezetett
+részvényei
+076 1 A N 2 2 3 2
+Nem pénzügyi vállalatok tőzsdére NEM bevezetett
+részvényei
+077 1 A N 2 2 4
+Külföldi részvények, részesedések és befektetési
+jegyek összesen (78+…+82)
+S
+078 1 A N 2 2 4 1 1 GMU pénzpiaci alapok bef. jegyei
+079 1 A N 2 2 4 1 2 GMU MPIk részvényei
+080 1 A N 2 2 4 1 3 GMU egyéb szektorok részvénye és bef. jegye
+081 1 A N 2 2 4 2 1 Egyéb külföldi pénzpiaci alapok bef. jegyei
+082 1 A N 2 2 4 2 2 Egyéb külföldiek részvénye és bef. jegye
+083 1 A N 3 Befektetési célú értékpapírok (84+124) S
+084 1 A N 3 1
+Hitelviszonyt megtestesítő értékpapírok összesen
+(85+...+90+93+99+102+103+104+112+115+121)
+S
+085 1 A N 3 1 1 1 Államkötvény
+086 1 A N 3 1 1 2 Konszolidációs államkötvény
+087 1 A N 3 1 1 3 Helyi önkormányzati kötvény
+088 1 A N 3 1 2 1 Jegybanki kötvény - legfeljebb 2 éves lejáratú
+089 1 A N 3 1 2 2 Jegybanki kötvény - 2 éven túli lejáratú
+090 1 A N 3 1 3 Belföldi hitelintézetek kötvénye összesen (91+92) S
+091 1 A N 3 1 3 1
+Belföldi hitelintézetek kötvénye - legfeljebb 2 éves
+lejáratú
+092 1 A N 3 1 3 2
+Belföldi hitelintézetek kötvénye - 2 éven túli
+lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+093 1 A N 3 1 4
+Egyéb pénzügyi közvetítők, pénzügyi kiegészítő
+tevékenységet végzők, biztosítók kötvénye
+összesen (94+ … +98)
+S
+094 1 A N 3 1 4 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások kötvénye
+095 1 A N 3 1 4 1 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+kötvénye
+096 1 A N 3 1 4 2 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások kötvénye
+097 1 A N 3 1 4 2 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények kötvénye
+098 1 A N 3 1 4 3 Biztosítók kötvénye
+099 1 A N 3 1 5
+Nem pénzügyi vállalatok kötvénye összesen
+(100+101)
+S
+100 1 A N 3 1 5 1 Járulékos vállalkozások kötvénye
+101 1 A N 3 1 5 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül)
+kötvénye
+102 1 A N 3 1 6
+Háztartásokat segítő nonprofit intézmények
+kötvénye
+103 1 A N 3 1 7 Egyéb belföldi kötvény
+104 1 A N 3 1 8 Külföldi kötvények összesen (105+…+111) S
+105 1 A N 3 1 8 1 1 GMU állampapírok
+106 1 A N 3 1 8 1 2 GMU egyéb ÁHT értékpapírja
+107 1 A N 3 1 8 1 3 1 GMU MPIk kötvénye - legfeljebb 2 éves lejáratú
+108 1 A N 3 1 8 1 3 2 GMU MPIk kötvénye - 2 éven túli lejáratú
+109 1 A N 3 1 8 1 4 GMU egyéb szektorok kötvénye
+110 1 A N 3 1 8 2 1 Egyéb külföldi állampapírok
+111 1 A N 3 1 8 2 2 Egyéb külföldiek kötvénye
+112 1 A N 3 1 9 1
+Belföldi hitelintézetek ZÁRT körű kötvénye
+összesen (113+114)
+S
+113 1 A N 3 1 9 1 1
+Belföldi hitelintézetek ZÁRT körű kötvénye -
+legfeljebb 2 éves lejáratú
+114 1 A N 3 1 9 1 2
+Belföldi hitelintézetek ZÁRT körű kötvénye
+- 2 éven túli lejáratú
+115 1 A N 3 1 9 2
+Egyéb pénzügyi közvetítők, pénzügyi kiegészítő
+tevékenységet végzők, biztosítók ZÁRT körű
+kötvénye összesen (116+ … +120)
+S
+116 1 A N 3 1 9 2 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalk. ZÁRT körű kötvénye
+117 1 A N 3 1 9 2 1 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+ZÁRT körű kötvénye
+118 1 A N 3 1 9 2 2 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalk. ZÁRT körű
+kötvénye
+119 1 A N 3 1 9 2 2 2
+Pénzügyi kiegészítő tevékenységet végzők
+- Egyéb intézmények ZÁRT körű kötvénye
+120 1 A N 3 1 9 2 3 Biztosítók ZÁRT körű kötvénye
+121 1 A N 3 1 9 3
+Nem pénzügyi vállalatok ZÁRT körű kötvénye
+összesen (122+123)
+122 1 A N 3 1 9 3 1 Járulékos vállalkozások ZÁRT körű kötvénye
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+123 1 A N 3 1 9 3 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) ZÁRT
+körű kötvénye
+124 1 A N 3 2
+Tulajdoni részesedések összesen
+(125+128+129+141+144)
+S
+125 1 A N 3 2 1
+Belföldi hitelintézetek részvénye összesen
+(126+127)
+S
+126 1 A N 3 2 1 1
+Belföldi hitelintézetek tőzsdére bevezetett
+részvényei
+127 1 A N 3 2 1 2
+Belföldi hitelintézetek tőzsdére NEM bevezetett
+részvényei
+128 1 A N 3 2 2 1 Pénzpiaci alapok befektetési jegyei
+129 1 A N 3 2 2 2
+Egyéb bef. jegyek, egyéb püi közvetítők, püi
+kiegészítő tevékenységet végzők, biztosítók
+részvénye összesen (130+…+140)
+S
+130 1 A N 3 2 2 2 1 Egyéb befektetési jegyek
+131 1 A N 3 2 2 2 2 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások tőzsdére bevezetett
+részvényei
+132 1 A N 3 2 2 2 2 1 2
+Egyéb pénzügyi közvetítők - Pénzügyi és
+befektetési vállalkozások tőzsdére NEM bevezetett
+részvényei
+133 1 A N 3 2 2 2 2 2 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+tőzsdére bevezetett részvényei
+134 1 A N 3 2 2 2 2 2 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+tőzsdére NEM bevezetett részvényei
+135 1 A N 3 2 2 2 3 1 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások tőzsdére
+bevezetett részvényei
+136 1 A N 3 2 2 2 3 1 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi és befektetési vállalkozások tőzsdére
+NEM bevezetett részvényei
+137 1 A N 3 2 2 2 3 2 1
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények tőzsdére bevezetett részvényei
+138 1 A N 3 2 2 2 3 2 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények tőzsdére NEM bevezetett részvényei
+139 1 A N 3 2 2 2 4 1 Biztosítók tőzsdére bevezetett részvényei
+140 1 A N 3 2 2 2 4 2 Biztosítók tőzsdére NEM bevezetett részvényei
+141 1 A N 3 2 3
+Nem pénzügyi vállalatok részvénye összesen
+(142+143)
+S
+142 1 A N 3 2 3 1
+Nem pénzügyi vállalatok tőzsdére bevezetett
+részvényei
+143 1 A N 3 2 3 2
+Nem pénzügyi vállalatok tőzsdére NEM bevezetett
+részvényei
+144 1 A N 3 2 4
+Külföldi részvények, részesedések és befektetési
+jegyek összesen (145+…+149)
+S
+145 1 A N 3 2 4 1 1 GMU pénzpiaci alapok bef. jegyei
+146 1 A N 3 2 4 1 2 GMU MPIk részvényei
+147 1 A N 3 2 4 1 3 GMU egyéb szektorok részvénye és bef. jegye
+148 1 A N 3 2 4 2 1 Egyéb külföldi pénzpiaci alapok bef. jegyei
+149 1 A N 3 2 4 2 2 Egyéb külföldiek részvénye és bef. jegye
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+150 1 A N 4 Jegybanki és bankközi betétek (151+...+159) S
+151 1 A N 4 1 1 1 Jegybanknál elhelyezett betétek - rövid
+152 1 A N 4 1 1 2 Jegybanknál elhelyezett betétek - hosszú
+153 1 A N 4 2 1
+Belföldi hitelintézeteknél elhelyezett betétek -
+rövid
+154 1 A N 4 2 2
+Belföldi hitelintézeteknél elhelyezett betétek -
+hosszú
+155 1 A N 4 2 3
+Belföldi hitelintézetek - követelések valódi penziós
+ügyletekből
+156 1 A N 4 3 1 1
+GMU hitelintézeteknél elhelyezett bankközi
+betétek - rövid
+157 1 A N 4 3 1 2
+GMU hitelintézeteknél elhelyezett bankközi
+betétek - hosszú
+158 1 A N 4 3 2 1
+Egyéb külföldön elhelyezett bankközi betétek -
+rövid
+159 1 A N 4 3 2 2
+Egyéb külföldön elhelyezett bankközi betétek -
+hosszú
+160 1 A N 5
+Hitelek (161+...+165+168+…+176+216+248
++265+279+287)
+S
+161 1 A N 5 1 1 1 Központi költségvetésnek nyújtott hitel - rövid
+162 1 A N 5 1 1 2 Központi költségvetésnek nyújtott hitel - hosszú
+163 1 A N 5 1 1 3 1
+Központi kormányzathoz sorolt egyéb
+intézmények hitele - rövid
+164 1 A N 5 1 1 3 2
+Központi kormányzathoz sorolt egyéb
+intézmények hitele - hosszú
+165 1 A N 5 1 2 Helyi önkormányzatok hitele összesen (166+167) S
+166 1 A N 5 1 2 1 Helyi önkormányzatok hitele - rövid
+167 1 A N 5 1 2 2 Helyi önkormányzatok hitele - hosszú
+168 1 A N 5 2 Jegybanknak nyújtott hitel
+169 1 A N 5 3 1 1 Belföldi hitelintézeteknek nyújtott hitel - rövid
+170 1 A N 5 3 1 2 Belföldi hitelintézeteknek nyújtott hitel - hosszú
+171 1 A N 5 3 2 1
+Belföldi hitelintézeteknek nyújtott kiegészítő
+alárendelt kölcsöntőke
+172 1 A N 5 3 2 2
+Belföldi hitelintézeteknek nyújtott alárendelt
+kölcsöntőke
+173 1 A N 5 3 2 3
+Belföldi hitelintézeteknek nyújtott külföldi
+szervezésű hitel
+174 1 A N 5 3 3 1 Pénzpiaci alapoknak nyújtott hitel
+175 1 A N 5 3 3 2
+Pénzpiaci alapok - követelés valódi penziós
+ügyletekből
+176 1 A N 5 4
+Egyéb püi közvetítőknek, püi kiegészítő
+tevékenységet végzőknek, biztosítóknak nyújtott
+hitelösszesen (177+…+215)
+S
+177 1 A N 5 4 1 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozásoknak nyújtott hitel - rövid
+178 1 A N 5 4 1 1 2 1
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozásoknak nyújtott hitel - hosszú
+- legfeljebb 5 éves lejáratra
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+179 1 A N 5 4 1 1 2 2
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozásoknak nyújtott hitel - hosszú - 5 éven
+túli lejáratra
+180 1 A N 5 4 1 1 3
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozásoknak nyújtott kieg. alárendelt
+kölcs.tőke
+181 1 A N 5 4 1 1 4
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozásoknak nyújtott alárendelt kölcs.tőke
+182 1 A N 5 4 1 1 5 1
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozások - köv. valódi penziós ügyletből -
+rövid
+183 1 A N 5 4 1 1 5 2 1
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozások - köv. valódi penziós ügyletből -
+hosszú - legfeljebb 5 éves lejáratú
+184 1 A N 5 4 1 1 5 2 2
+Egyéb pénzügyi közvetítők - Pénzügyi és befekt.
+vállalkozások - köv. valódi penziós ügyletből -
+hosszú - 5 éven túli lejáratú
+185 1 A N 5 4 1 2 1
+Egyéb pénzügyi közvetítők - Egyéb
+intézményeknek nyújtott hitel - rövid
+186 1 A N 5 4 1 2 2 1
+Egyéb pénzügyi közvetítők - Egyéb
+intézményeknek nyújtott hitel - hosszú - legfeljebb
+5 éves lejáratra
+187 1 A N 5 4 1 2 2 2
+Egyéb pénzügyi közvetítők - Egyéb
+intézményeknek nyújtott hitel - hosszú - 5 éven
+túli lejáratra
+188 1 A N 5 4 1 2 3
+Egyéb pénzügyi közvetítők – Egyéb
+intézményeknek nyújtott kieg. alárendelt kölcs
+.tőke
+189 1 A N 5 4 1 2 4
+Egyéb pénzügyi közvetítők - Egyéb
+intézményeknek nyújtott alárendelt kölcs.tőke
+190 1 A N 5 4 1 2 5 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+- köv. valódi penziós ügyletből - rövid
+191 1 A N 5 4 1 2 5 2 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények -
+köv. valódi penziós ügyletből - hosszú - legfeljebb
+5 éves lejáratú
+192 1 A N 5 4 1 2 5 2 2
+Egyéb pénzügyi közvetítők - Egyéb intézmények -
+köv. valódi penziós ügyletből - hosszú - 5 éven túli
+lejáratú
+193 1 A N 5 4 2 1 1
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi
+és befekt. vállalkozásoknak nyújtott hitel - rövid
+194 1 A N 5 4 2 1 2 1
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi
+és befekt. vállalkozásoknak nyújtott hitel - hosszú
+- legfeljebb 5 éves lejáratra
+195 1 A N 5 4 2 1 2 2
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi
+és befekt. vállalkozásoknak nyújtott hitel - hosszú
+- 5 éven túli lejáratra
+196 1 A N 5 4 2 1 3
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi
+és befekt. vállalkozásoknak nyújtott kieg.
+alárendelt kölcs.tőke
+197 1 A N 5 4 2 1 4
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi
+és befekt. vállalkozásoknak nyújtott alárendelt
+kölcs.tőke
+198 1 A N 5 4 2 1 5 1
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi
+és befekt. vállalkozások - köv. valódi penziós
+ügyletből - rövid
+199 1 A N 5 4 2 1 5 2 1
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi
+és befekt. vállalkozások - köv. valódi penziós
+ügyletből - hosszú - legfeljebb 5 éves lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+200 1 A N 5 4 2 1 5 2 2
+Pénzügyi kieg. tevékenységet végzők - Pénzügyi
+és befekt. vállalkozások - köv. valódi penziós
+ügyletből - hosszú - 5 éven túli lejáratú
+201 1 A N 5 4 2 2 1
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézményeknek nyújtott hitel - rövid
+202 1 A N 5 4 2 2 2 1
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézményeknek nyújtott hitel - hosszú - legfeljebb
+5 éves lejáratra
+203 1 A N 5 4 2 2 2 2
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézményeknek nyújtott hitel - hosszú - 5 éven
+túli lejáratra
+204 1 A N 5 4 2 2 3
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézményeknek nyújtott kieg. alárendelt kölcs.
+tőke
+205 1 A N 5 4 2 2 4
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézményeknek nyújtott alárendelt kölcs.tőke
+206 1 A N 5 4 2 2 5 1
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézmények - köv. valódi penziós ügyletből
+- rövid
+207 1 A N 5 4 2 2 5 2 1
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézmények - köv. valódi penziós ügyletből -
+hosszú - legfeljebb 5 éves lejáratú
+208 1 A N 5 4 2 2 5 2 2
+Pénzügyi kieg. tevékenységet végzők - Egyéb
+intézmények - köv. valódi penziós ügyletből -
+hosszú - 5 éven túli lejáratú
+209 1 A N 5 4 3 1 Biztosítóknak nyújtott hitel - rövid
+210 1 A N 5 4 3 2 1
+Biztosítóknak nyújtott hitel - hosszú - legfeljebb
+5 éves lejáratra
+211 1 A N 5 4 3 2 2
+Biztosítóknak nyújtott hitel - hosszú - 5 éven túli
+lejáratra
+212 1 A N 5 4 3 3 Biztosítóknak nyújtott alárendelt kölcsöntőke
+213 1 A N 5 4 3 4 1
+Biztosítók és nyugdíjpénztárak - követelés valódi
+penziós ügyletekből - rövid
+214 1 A N 5 4 3 4 2 1
+Biztosítók és nyugdíjpénztárak - követelés valódi
+penziós ügyletekből - hosszú - legfeljebb 5 éves
+lejáratú
+215 1 A N 5 4 3 4 2 2
+Biztosítók és nyugdíjpénztárak - követelés valódi
+penziós ügyletekből - hosszú - 5 éven túli lejáratú
+216 1 A N 5 5
+Nem pénzügyi vállalatoknak nyújtott hitel
+összesen (217+…+247)
+S
+217 1 A N 5 5 1 1 Járulékos vállalkozások - folyószámla hitel
+218 1 A N 5 5 1 2 1
+Járulékos vállalkozások - értékpapír vásárlásra
+nyújtott hitel - rövid
+219 1 A N 5 5 1 2 2 1
+Járulékos vállalkozások - értékpapír vásárlásra
+nyújtott hitel - hosszú - legfeljebb 5 éves lejáratú
+220 1 A N 5 5 1 2 2 2
+Járulékos vállalkozások - értékpapír vásárlásra
+nyújtott hitel - hosszú - 5 éven túli lejáratú
+221 1 A N 5 5 1 3 1
+Járulékos vállalkozások - egyéb hitel és
+hiteljellegű követelés - rövid
+222 1 A N 5 5 1 3 2 1
+Járulékos vállalkozások - egyéb hitel és
+hiteljellegű követelés - hosszú - legfeljebb 5 éves
+lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+223 1 A N 5 5 1 3 2 2
+Járulékos vállalkozások - egyéb hitel és
+hiteljellegű követelés - hosszú - 5 éven túli
+lejáratú
+224 1 A N 5 5 1 4 1
+Járulékos vállalkozások - követelés valódi penziós
+ügyletekből - rövid
+225 1 A N 5 5 1 4 2 1
+Járulékos vállalkozások - követelés valódi penziós
+ügyletekből - hosszú - legfeljebb 5 éves lejáratú
+226 1 A N 5 5 1 4 2 2
+Járulékos vállalkozások - követelés valódi penziós
+ügyletekből - hosszú - 5 éven túli lejáratú
+227 1 A N 5 5 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+folyószámla hitel
+228 1 A N 5 5 2 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - váltó -
+rövid
+229 1 A N 5 5 2 2 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - váltó -
+hosszú - legfeljebb 5 éves lejáratú
+230 1 A N 5 5 2 2 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - váltó -
+hosszú - 5 éven túli lejáratú
+231 1 A N 5 5 2 3 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+megvásárolt követelés - rövid
+232 1 A N 5 5 2 3 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+megvásárolt követelés - hosszú - legfeljebb 5 éves
+lejáratú
+233 1 A N 5 5 2 3 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+megvásárolt követelés - hosszú - 5 éven túli
+lejáratú
+234 1 A N 5 5 2 4 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+értékpapír vásárlásra nyújtott hitel - rövid
+235 1 A N 5 5 2 4 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+értékpapír vásárlásra nyújtott hitel - hosszú -
+legfeljebb 5 éves lejáratú
+236 1 A N 5 5 2 4 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+értékpapír vásárlásra nyújtott hitel - hosszú
+- 5 éven túli lejáratú
+237 1 A N 5 5 2 5 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+lakáscélú hitel - rövid
+238 1 A N 5 5 2 5 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) –
+lakáscélú hitel - hosszú - legfeljebb 5 éves lejáratú
+239 1 A N 5 5 2 5 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) –
+lakáscélú hitel - hosszú - 5 éven túli lejáratú
+240 1 A N 5 5 2 6 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - egyéb
+hitel - rövid
+241 1 A N 5 5 2 6 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - egyéb
+hitel - hosszú - legfeljebb 5 éves lejáratú
+242 1 A N 5 5 2 6 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) - egyéb
+hitel - hosszú - 5 éven túli lejáratú
+243 1 A N 5 5 2 7 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+pénzügyi lízing - legfeljebb 5 éves lejáratú
+244 1 A N 5 5 2 7 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+pénzügyi lízing - 5 éven túli lejáratú
+245 1 A N 5 5 2 8 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+követelés valódi penziós ügyletekből - rövid
+246 1 A N 5 5 2 8 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+követelés valódi penziós ügyletekből - hosszú -
+legfeljebb 5 éves lejáratú
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+247 1 A N 5 5 2 8 2 2
+Nem pénzügyi vállalatok (Jár. váll. nélkül) -
+követelés valódi penziós ügyletekből - hosszú
+- 5 éven túli lejáratú
+248 1 A N 5 6 1
+Háztartások - Lakosság - hitelek összesen
+(249+…+264)
+S
+249 1 A N 5 6 1 1 Háztartások - Lakosság - folyószámla hitel
+250 1 A N 5 6 1 2 1 Háztartások - Lakosság - fogyasztási hitel - rövid
+251 1 A N 5 6 1 2 2 1
+Háztartások - Lakosság - fogyasztási hitel - hosszú
+- legfeljebb 5 éves lejáratú
+252 1 A N 5 6 1 2 2 2
+Háztartások - Lakosság - fogyasztási hitel - hosszú
+- 5 éven túli lejáratú
+253 1 A N 5 6 1 3 1
+Háztartások - Lakosság - értékpapír vásárlásra
+nyújtott hitel - rövid
+254 1 A N 5 6 1 3 2 1
+Háztartások - Lakosság - értékpapír vásárlásra
+nyújtott hitel - hosszú - legfeljebb 5 éves lejáratú
+255 1 A N 5 6 1 3 2 2
+Háztartások - Lakosság - értékpapír vásárlásra
+nyújtott hitel - hosszú - 5 éven túli lejáratú
+256 1 A N 5 6 1 4 1 Háztartások - Lakosság - lakáscélú hitel - rövid
+257 1 A N 5 6 1 4 2 1
+Háztartások - Lakosság - lakáscélú hitel - hosszú -
+legfeljebb 5 éves lejáratú
+258 1 A N 5 6 1 4 2 2
+Háztartások - Lakosság - lakáscélú hitel - hosszú -
+5 éven túli lejáratú
+259 1 A N 5 6 1 5 1 Háztartások - Lakosság - egyéb hitel - rövid
+260 1 A N 5 6 1 5 2 1
+Háztartások - Lakosság - egyéb hitel - hosszú -
+legfeljebb 5 éves lejáratú
+261 1 A N 5 6 1 5 2 2
+Háztartások - Lakosság - egyéb hitel - hosszú
+- 5 éven túli lejáratú
+262 1 A N 5 6 1 6 1
+Háztartások - Lakosság - köv. valódi penziós
+ügyletekből - rövid
+263 1 A N 5 6 1 6 2 1
+Háztartások - Lakosság - köv. valódi penziós
+ügyletekből - hosszú - legfeljebb 5 éves lejáratú
+264 1 A N 5 6 1 6 2 2
+Háztartások - Lakosság - köv. valódi penziós
+ügyletekből - hosszú - 5 éven túli lejáratú
+265 1 A N 5 6 2
+Háztartások - Egyéni vállalkozók - hitelek összesen
+(266+…+278)
+S
+266 1 A N 5 6 2 1
+Háztartások - Egyéni vállalkozók - folyószámla
+hitel
+267 1 A N 5 6 2 2 1
+Háztartások - Egyéni vállalkozók - értékpapír
+vásárlásra nyújtott hitel - rövid
+268 1 A N 5 6 2 2 2 1
+Háztartások - Egyéni vállalkozók - értékpapír
+vásárlásra nyújtott hitel - hosszú - legfeljebb 5 éves
+lejáratú
+269 1 A N 5 6 2 2 2 2
+Háztartások - Egyéni vállalkozók - értékpapír
+vásárlásra nyújtott hitel - hosszú - 5 éven túli
+lejáratú
+270 1 A N 5 6 2 3 1
+Háztartások - Egyéni vállalkozók - lakáscélú hitel -
+rövid
+271 1 A N 5 6 2 3 2 1
+Háztartások - Egyéni vállalkozók - lakáscélú hitel -
+hosszú - legfeljebb 5 éves lejáratú
+272 1 A N 5 6 2 3 2 2
+Háztartások - Egyéni vállalkozók - lakáscélú hitel -
+hosszú - 5 éven túli lejáratú
+273 1 A N 5 6 2 4 1
+Háztartások - Egyéni vállalkozók - egyéb hitel -
+rövid
+274 1 A N 5 6 2 4 2 1
+Háztartások - Egyéni vállalkozók - egyéb hitel -
+hosszú - legfeljebb 5 éves lejáratú
+275 1 A N 5 6 2 4 2 2
+Háztartások - Egyéni vállalkozók - egyéb hitel -
+hosszú - 5 éven túli lejáratú
+276 1 A N 5 6 2 5 1
+Háztartások - Egyéni vállalkozók - köv. valódi
+penziós ügyletekből - rövid
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+277 1 A N 5 6 2 5 2 1
+Háztartások - Egyéni vállalkozók - köv. valódi
+penziós ügyletekből - hosszú - legfeljebb 5 éves
+lejáratú
+278 1 A N 5 6 2 5 2 2
+Háztartások - Egyéni vállalkozók - köv. valódi
+penziós ügyletekből - hosszú - 5 éven túli lejáratú
+279 1 A N 5 7
+Háztartásokat segítő nonprofit intézmények hitele
+összesen (280+…+286)
+S
+280 1 A N 5 7 1 1
+Háztartásokat segítő nonprofit intézmények -
+folyószámla hitele
+281 1 A N 5 7 1 2
+Háztartásokat segítő nonprofit intézmények hitele -
+rövid
+282 1 A N 5 7 2 1
+Háztartásokat segítő nonprofit intézmények hitele -
+hosszú - legfeljebb 5 éves lejáratú
+283 1 A N 5 7 2 2
+Háztartásokat segítő nonprofit intézmények hitele -
+hosszú - 5 éven túli lejáratú
+284 1 A N 5 7 3 1
+Háztartásokat segítő nonprofit int. - köv. valódi
+penziós ügyl.-ből - rövid
+285 1 A N 5 7 3 2 1
+Háztartásokat segítő nonprofit int. - köv. valódi
+penziós ügyl.-ből - hosszú - legfeljebb 5 éves
+lejáratú
+286 1 A N 5 7 3 2 2
+Háztartásokat segítő nonprofit int. - köv. valódi
+penziós ügyl.-ből - hosszú - 5 éven túli lejáratú
+287 1 A N 5 8
+Külföldieknek nyújtott hitel összesen
+(288+…+315)
+S
+288 1 A N 5 8 1 1 1 GMU hitelintézetekkel szembeni követelés - rövid
+289 1 A N 5 8 1 1 2
+GMU hitelintézetekkel szembeni követelés -
+hosszú
+290 1 A N 5 8 1 2 1
+GMU pénzpiaci alapokkal szembeni követelés -
+rövid
+291 1 A N 5 8 1 2 2
+GMU pénzpiaci alapokkal szembeni követelés -
+hosszú
+292 1 A N 5 8 1 3 1 GMU ÁHT-nak nyújtott hitelek - rövid
+293 1 A N 5 8 1 3 2 GMU ÁHT-nak nyújtott hitelek - hosszú
+294 1 A N 5 8 1 4 1
+GMU egyéb püi közvetítőknek, püi kieg. tev.
+végzőknek nyújtott hitelek - rövid
+295 1 A N 5 8 1 4 2 1
+GMU egyéb püi közvetítőknek, püi kieg. tev.
+végzőknek nyújtott hitelek - hosszú - legfeljebb
+5 éves lejáratra
+296 1 A N 5 8 1 4 2 2
+GMU egyéb püi közvetítőknek, püi kieg. tev.
+végzőknek nyújtott hitelek - hosszú - 5 éven túli
+lejáratra
+297 1 A N 5 8 1 4 3 1
+GMU biztosítóknak és nyugdíjpénztáraknak
+nyújtott hitel - rövid
+298 1 A N 5 8 1 4 3 2 1
+GMU biztosítóknak és nyugdíjjpénztáraknak
+nyújtott hitel - hosszú - legfeljebb 5 éves lejáratra
+299 1 A N 5 8 1 4 3 2 2
+GMU biztosítóknak és nyugdíjjpénztáraknak
+nyújtott hitel - hosszú - 5 éven túli lejáratra
+300 1 A N 5 8 1 5 1 GMU nem püi vállalatoknak nyújtott hitel - rövid
+301 1 A N 5 8 1 5 2 1
+GMU nem püi vállalatoknak nyújtott hitel - hosszú
+- legfeljebb 5 éves lejáratra
+302 1 A N 5 8 1 5 2 2
+GMU nem püi vállalatoknak nyújtott hitel - hosszú
+- 5 éven túli lejáratra
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+303 1 A N 5 8 1 6 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott fogyasztási hitel - rövid
+304 1 A N 5 8 1 6 2 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott fogyasztási hitel - hosszú - legfeljebb
+5 éves lejáratra
+305 1 A N 5 8 1 6 2 2
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott fogyasztási hitel - hosszú - 5 éven túli
+lejáratra
+306 1 A N 5 8 1 6 3 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott lakáscélú hitel - rövid
+307 1 A N 5 8 1 6 3 2 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott lakáscélú hitel - hosszú - legfeljebb 5 éves
+lejáratra
+308 1 A N 5 8 1 6 3 2 2
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott lakáscélú hitel - hosszú - 5 éven túli
+lejáratra
+309 1 A N 5 8 1 6 4 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott egyéb hitel - rövid
+310 1 A N 5 8 1 6 4 2 1
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott egyéb hitel - hosszú - legfeljebb 5 éves
+lejáratra
+311 1 A N 5 8 1 6 4 2 2
+GMU háztartásoknak és házt.s.nonpr. int-eknek
+nyújtott egyéb hitel - hosszú - 5 éven túli lejáratra
+312 1 A N 5 8 2 1 1
+Egyéb külföldi bankokkal szembeni követelés -
+rövid
+313 1 A N 5 8 2 1 2
+Egyéb külföldi bankokkal szembeni követelés -
+hosszú
+314 1 A N 5 8 2 2 1 Egyéb külföldivel szembeni követelés - rövid
+315 1 A N 5 8 2 2 2 Egyéb külföldivel szembeni követelés - hosszú
+316 1 A N 6 Vagyoni érdekeltségek (317+318+333+339) S
+317 1 A N 6 1 Belföldi hitelintézetek részvényei
+318 1 A N 6 2
+Egyéb püi közvetítők, püi kieg. tevékenységet
+végzőkben, biztosítókban, nyugdíjpénztárakban
+részesedés összesen (319+…+332)
+S
+319 1 A N 6 2 1 1 1
+Egyéb pénzügyi közvetítők - Pénzügyi
+vállalkozások részvényei
+320 1 A N 6 2 1 1 2
+Egyéb pénzügyi közvetítők - Pénzügyi
+vállalkozásokban egyéb részesedések, üzletrészek
+321 1 A N 6 2 1 2 1
+Egyéb pénzügyi közvetítők - Befektetési
+vállalkozások részvényei
+322 1 A N 6 2 1 2 2
+Egyéb pénzügyi közvetítők - Befektetési
+vállalkozásokban egyéb részesedések, üzletrészek
+323 1 A N 6 2 1 3 1
+Egyéb pénzügyi közvetítők - Egyéb intézmények
+részvényei
+324 1 A N 6 2 1 3 2
+Egyéb pénzügyi közvetítők - Egyéb
+intézményekben egyéb részesedések, üzletrészek
+325 1 A N 6 2 2 1 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi vállalkozások részvényei
+326 1 A N 6 2 2 1 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Pénzügyi vállalkozásokban egyéb részesedések,
+üzletrészek
+327 1 A N 6 2 2 2 1
+Pénzügyi kiegészítő tevékenységet végzők -
+Befektetési vállalkozások részvényei
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+328 1 A N 6 2 2 2 2
+Pénzügyi kiegészítő tevékenységet végzők -
+Befektetési vállalkozásokban egyéb részesedések,
+üzletrészek
+329 1 A N 6 2 2 3 1
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézmények részvényei
+330 1 A N 6 2 2 3 2
+Pénzügyi kiegészítő tevékenységet végzők - Egyéb
+intézményekben egyéb részesedések, üzletrészek
+331 1 A N 6 2 3 Biztosítók részvényei
+332 1 A N 6 2 4 Nyugdíjpénztárakban részesedések
+333 1 A N 6 3
+Nem pénzügyi vállalatokban részesedések,
+üzletrészek összesen (334+…+338)
+S
+334 1 A N 6 3 1 1 Járulékos vállalkozások részvényei
+335 1 A N 6 3 1 2
+Járulékos vállalkozásokban egyéb részesedések,
+üzletrészek
+336 1 A N 6 3 2 1
+Nem pénzügyi vállalatok (Jár. váll. nélkül)
+részvényei
+337 1 A N 6 3 2 2
+Nem pénzügyi vállalatokban (Jár. váll. nélkül)
+egyéb részesedések, üzletrészek
+338 1 A N 6 3 3
+Hitel-tőke konverzióból származó részvények,
+részesedések, egyéb üzletrészek
+339 1 A N 6 4 Külföldi részesedések összesen (340+…+344) S
+340 1 A N 6 4 1 1 GMU hitelintézetek részvényei
+341 1 A N 6 4 1 2 GMU egyéb szektorok részvénye
+342 1 A N 6 4 1 3
+Hitel-tőke konverzióból származó GMU
+részvények, részesedések, egyéb üzletrészek
+343 1 A N 6 4 2 1 Egyéb külföldiek részvénye
+344 1 A N 6 4 2 2
+Hitel-tőke konverzióból származó egyéb külföldi
+részvények, részesedések, egyéb üzletrészek
+345 1 A N 7 Aktív kamatelhatárolások (346+...+360) S
+346 1 A N 7 1 - központi kormányzattal
+347 1 A N 7 2 - helyi önkormányzatokkal
+348 1 A N 7 3 - jegybankkal
+349 1 A N 7 4 - hitelintézetekkel
+350 1 A N 7 5 1 - pénzpiaci alapokkal
+351 1 A N 7 5 2 1
+- egyéb pénzügyi közvetítők - pénzügyi és
+befektetési vállalkozásokkal
+352 1 A N 7 5 2 2
+- egyéb pénzügyi közvetítők - egyéb
+intézményekkel
+353 1 A N 7 5 3 1
+- pénzügyi kiegészítő tevékenységet végzők -
+pénzügyi és befektetési vállalkozásokkal
+354 1 A N 7 5 3 2
+- pénzügyi kiegészítő tevékenységet végzők -
+egyéb intézményekkel
+355 1 A N 7 5 4 - biztosítókkal és nyugdíjpénztárakkal
+356 1 A N 7 6 - nem pénzügyi vállalatokkal
+357 1 A N 7 7 1 - háztartások - lakossággal
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+358 1 A N 7 7 2 - háztartások - egyéni vállalkozókkal
+359 1 A N 7 8 - háztartásokat segítő nonprofit intézményekkel
+360 1 A N 7 9 - külföldiekkel
+361 1 A N 8
+Egyéb aktív elszámolások és egyéb eszközök
+(362+380+397+…+399)
+S
+362 1 A N 8 1
+Aktív elszámolás és egyéb aktív időbeli elhatárolás
+összesen (363+…+379)
+S
+363 1 A N 8 1 1 - központi kormányzattal
+364 1 A N 8 1 2 1 - helyi önkormányzatokkal
+365 1 A N 8 1 2 2 - TB-vel
+366 1 A N 8 1 3 - jegybankkal
+367 1 A N 8 1 4 - hitelintézetekkel
+368 1 A N 8 1 5 1 - pénzpiaci alapokkal
+369 1 A N 8 1 5 2 1
+- egyéb pénzügyi közvetítők - pénzügyi és
+befektetési vállalkozásokkal
+370 1 A N 8 1 5 2 2
+- egyéb pénzügyi közvetítők - egyéb
+intézményekkel
+371 1 A N 8 1 5 3 1
+- pénzügyi kiegészítő tevékenységet végzők -
+pénzügyi és befektetési vállalkozásokkal
+372 1 A N 8 1 5 3 2
+- pénzügyi kiegészítő tevékenységet végzők -
+egyéb intézményekkel
+373 1 A N 8 1 5 4 - biztosítókkal és nyugdíjpénztárakkal
+374 1 A N 8 1 6 - nem pénzügyi vállalatokkal
+375 1 A N 8 1 7 1 - háztartások - lakossággal
+376 1 A N 8 1 7 2 - háztartások - egyéni vállalkozókkal
+377 1 A N 8 1 7 3 - háztartásokat segítő nonprofit intézményekkel
+378 1 A N 8 1 8 - külföldiekkel
+379 1 A N 8 1 9
+- szektor szerint nem bontható aktív időbeli
+elhatárolások
+380 1 A N 8 2
+Befektetési szolgáltatási tevékenységből adódó
+követelés összesen (381+…+396)
+S
+381 1 A N 8 2 1 - központi kormányzattal szemben
+382 1 A N 8 2 2 1 - helyi önkormányzatokkal szemben
+383 1 A N 8 2 2 2 - TB-vel szemben
+384 1 A N 8 2 3 - jegybankkal szemben
+385 1 A N 8 2 4 - hitelintézetekkel szemben
+386 1 A N 8 2 5 1 - pénzpiaci alapokkal szemben
+387 1 A N 8 2 5 2 1
+- egyéb pénzügyi közvetítők - pénzügyi és
+befektetési vállalkozásokkal
+388 1 A N 8 2 5 2 2
+- egyéb pénzügyi közvetítők - egyéb
+intézményekkel
+389 1 A N 8 2 5 3 1
+- pénzügyi kiegészítő tevékenységet végzők -
+pénzügyi és befektetési vállalkozásokkal
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+1. AN.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+F E L Ü G Y E L E T I M É R L E G (Eszközök könyv szerinti nettó adatokkal)
+11 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+(új)
+PSZÁF sorkód Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d Módosult
+390 1 A N 8 2 5 3 2
+- pénzügyi kiegészítő tevékenységet végzők -
+egyéb intézményekkel
+391 1 A N 8 2 5 4 - biztosítókkal és nyugdíjpénztárakkal szemben
+392 1 A N 8 2 6 - nem pénzügyi vállalatokkal szemben
+393 1 A N 8 2 7 1 - háztartások - lakossággal szemben
+394 1 A N 8 2 7 2 - háztartások - egyéni vállalkozókkal szemben
+395 1 A N 8 2 8
+- háztartásokat segítő nonprofit intézményekkel
+szemben
+396 1 A N 8 2 9 - külföldiekkel szemben
+397 1 A N 8 3 Függő tételek
+398 1 A N 8 4 Szövetkezeti visszafizetett részjegy
+399 1 A N 8 5 Egyéb
+400 1 A N 9 Saját eszközök (401+...+420) S
+401 1 A N 9 1 1 1 Visszavásárolt saját belföldi kötvény
+402 1 A N 9 1 1 2 Visszavásárolt saját külföldi kötvény
+403 1 A N 9 1 2 Visszavásárolt saját részvény
+404 1 A N 9 1 3 Egyéb saját eszközök (készletek)
+405 1 A N 9 2 1 Átvett eszközök
+406 1 A N 9 3 1 Immateriális javak - vagyoni jogok
+407 1 A N 9 3 2 Immateriális javak - szoftverek
+408 1 A N 9 3 3 Immateriális javak - egyéb
+409 1 A N 9 3 4 Immateriális javak értékhelyesbítése
+410 1 A N 9 4 1
+Püi és bef. szolg. célú tárgyi eszközök - elhelyezés
+bérleti joga
+411 1 A N 9 4 2
+Püi és bef. szolg. célú tárgyi eszközök -
+ingatlanokhoz kapcsolódó vagyoni jogok
+412 1 A N 9 4 3 Püi és bef. szolg. célú tárgyi eszközök - ingatlanok
+413 1 A N 9 4 4
+Püi és bef. szolg. célú tárgyi eszközök - műszaki
+berendezések, gépek, felszerelések, járművek
+414 1 A N 9 4 5
+Püi és bef. szolg. célú tárgyi eszközök -
+beruházások és beruházásra adott előlegek
+415 1 A N 9 4 6
+Püi és bef. szolg. célú tárgyi eszközök
+értékhelyesbítése
+416 1 A N 9 5 1
+Nem püi és bef. szolg. célú tárgyi eszközök -
+ingatlanokhoz kapcsolódó vagyoni jogok
+417 1 A N 9 5 2
+Nem püi és bef. szolg. célú tárgyi eszközök -
+ingatlanok
+418 1 A N 9 5 3
+Nem püi és bef. szolg. célú tárgyi eszközök -
+műszaki berendezések, gépek, felszerelések,
+járművek
+419 1 A N 9 5 4
+Nem püi és bef. szolg. célú tárgyi eszközök -
+beruházások és beruházásra adott előlegek
+420 1 A N 9 5 5
+Nem püi és bef. szolg. célú tárgyi eszközök
+értékhelyesbítése
+HM-1-00
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14) esetében azonos. 1.AN. Eszköz (nettó)
+
+PSZÁF azonosító
+2. C.
+MNB adatgy. azon*
+Vonatkozási idő
+Adatszolgáltató neve
+Adatszolgáltató törzsszáma
+A kitöltés dátuma
+év / hó / nap
+Bizonylat
+jellege (E, M, N)
+F 2 0 0
+E R E D M É N Y A D A T O K R É S Z L E T E Z É S E
+12 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+PSZÁF
+sorkód
+Megnevezés
+Tárgyhavi
+a
+Halmozott
+b
+Módosult
+001 2 C 1 Kamat és kamatjellegű bevételek/ráfordítások részletezése
+002 2 C 1 1 Kamat és kamatjellegű bevételek háztartásoktól
+003 2 C 1 2 Kamat és kamatjellegű bevételek nem pénzügyi vállalatoktól
+004 2 C 1 3
+Fedezeti (ill. fedezeti ügyletként elszámolható) ügyletekhez kapcsolódó
+kamatjellegű bevétel
+005 2 C 1 4
+Fedezeti (ill. fedezeti ügyletként elszámolható) ügyletekhez kapcsolódó
+kamatjellegű ráfordítás
+006 2 C 2 Pénzforgalmi és lebonyolítási jutalék bevételek (7+…+10) Σ
+007 2 C 2 1 Hitelekkel kapcsolatos lebonyolítási jutalékok
+008 2 C 2 2 Pénzforgalmi szolgáltatásokkal kapcsolatos jutalékok
+009 2 C 2 3 Kártyaüzletággal kapcsolatos jutalékok
+010 2 C 2 4 Egyéb lebonyolítási jutalékok
+011 2 C 3 1 Pénzügyi műveletek egyéb bevételéből értékelési különbözet (12+13+14) Σ
+012 2 C 3 1 1 Pénzügyi szolgáltatás egyéb bevételéből értékelési különbözet
+013 2 C 3 1 2
+Hitelintézettel, MNB-vel végzett befekt.szolg.tevék.-ből szárm.egyéb bevételből
+értékelési különbözet
+014 2 C 3 1 3 Befektetési szolgáltatásból származó egyéb bevételből értékelési különbözet
+015 2 C 3 2 Pénzügyi műveletek egyéb ráfordításából értékelési különbözet (16+17+18) Σ
+016 2 C 3 2 1 Pénzügyi szolgáltatás egyéb ráfordításából értékelési különbözet
+017 2 C 3 2 2
+Hitelintézettel, MNB-vel végzett befekt.szolg.tevék.-ből szárm.egyéb
+ráfordításából értékelési különbözet
+018 2 C 3 2 3 Befektetési szolgáltatásból származó egyéb ráfordításból értékelési különbözet
+*/ Ez a táblaformátum valamennyi felügyeleti mérleg változat (MNB adatgyűjtés azonosító: F01, F03, F08, F09) esetében azonos.
+
+HMK-1-01
+MNB adatgyűjtés azonosító: F01, F03, F08, F09, F14
+A FELÜGYELETI MÉRLEG, AZ EREDMÉNYKIMUTATÁS ÉS A MELLÉKLETEK
+KITÖLTÉSI ÚTMUTATÓJA
+I. Általános tudnivalók
+1. Rövidítések
+ÁHT: államháztartás rövidítése. A belföldi államháztartás részei: a központi kormányzat, a helyi
+önkormányzatok és a társadalombiztosítási alapok. A GMU tagországok esetében az államháztartás
+részei: a központi kormányzat, a tagállami/tartományi kormányzatok, a helyi önkormányzatok, a
+társadalombiztosítási alapok és a hozzájuk kapcsolódó nonprofit intézmények.
+ÁKK Rt.: Államadósság Kezelő Központ Rt.
+ÁPV Rt.: Állami Privatizációs és Vagyonkezelő Rt.
+EKB: Európai Központi Bank
+EU: Európai Unió
+GBC: Giro Bankkártya Rt.
+GMU: Gazdasági és Monetáris Unió (az EU-n belüli euróövezet). Jelenleg 12 EU-tagország tartozik
+ide: Belgium, Németország, Görögország, Spanyolország, Franciaország, Írország, Olaszország,
+Luxemburg, Hollandia, Ausztria, Portugália, Finnország.
+Hpt.: A hitelintézetekről és a pénzügyi vállalkozásokról szóló mindenkor hatályos 1996. évi CXII.
+törvény.
+KVH Rt.: Központi Váltó- és Hitelbank Rt.
+Ltp: Lakástakarékpénztár
+MÁK: Magyar Államkincstár
+MNB Tv: a Magyar Nemzeti Bankról szóló mindenkor hatályos 2001. évi LVIII. törvény
+MPI-k: monetáris pénzügyi intézmények. Ide tartoznak a központi bankok és az egyéb monetáris
+pénzügyi intézmények.
+OTIVA: Országos Takarékszövetkezeti Intézményvédelmi Alap.
+PEK: Posta Elszámoló Központ
+
+HMK-1-01
+PBB: A pénzügyi vállalkozások, a befektetési vállalkozások és a biztosító részvénytársaságok
+összefoglaló rövidítése.
+Szkr.: A hitelintézetek és pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési
+sajátosságairól szóló mindenkor hatályos 250/2000. (XII. 24.) Kormányrendelet.
+Szmt.: A számvitelről szóló mindenkor hatályos 2000. évi C. törvény.
+TAKIVA: Takarékszövetkezeti Intézményvédelmi Alap.
+Tpt.: A tőkepiacról szóló mindenkor hatályos 2001. évi CXX. törvény.
+2. Szektor szerinti bontás
+Az e rendelet 2. mellékletének I. 2. pontjában szereplő egységes szektorbontás néhány helyen
+szükségessé vált további alábontásait definiáljuk ebben a részben.
+A) Nem pénzügyi vállalatok
+A Felügyeleti mérlegben a nem pénzügyi vállalatok szektorán belül külön kiemelve kérünk adatokat a
+hitelintézetek saját járulékos vállalkozásaira.
+Járulékos vállalkozás: olyan vállalkozás, amelynek elsődleges tevékenysége, hogy hitelintézet számára
+végez üzletszerű tevékenységet kiegészítő tevékenységet, így különösen ingatlankezelést,
+adatfeldolgozást, pénzszállítást, biztonsági, illetőleg kommunikációs szolgáltatást.
+C) Egyéb monetáris pénzügyi intézmények
+Az egyéb monetáris pénzügyi intézmények a hitelintézeteket és a pénzpiaci alapokat tartalmazzák.
+A hitelintézetek közé a Hpt. szerint hitelintézetnek minősülő valamennyi hitelintézet besorolandó,
+függetlenül a KSH ESS számban szereplő szakágazati (TEÁOR) kódjától. (Pl. a Földhitel- és
+jelzálogbank a jelenlegi szakágazati kódja alapján nem a hitelintézetek közé kerülne.) A felszámolás
+alatt lévő hitelintézeteket azonban a nem pénzügyi vállalatok közé kell átsorolni.
+A pénzpiaci alapokhoz azok a befektetési alapok sorolandók, amelyek befektetési jegyei likviditás
+szempontjából a bankbetétekhez hasonlóak, és eszközeiket elsősorban pénzpiaci eszközökbe, vagy
+maximum 1 éves hátralévő lejáratú transzferálható hitelviszonyt megtestesítő értékpapírokba, vagy
+pénzpiaci eszközök kamataihoz hasonló megtérülésű eszközökbe fektetik. Pénzpiaci eszközök:
+alacsony kockázatú, likvid, olyan piacon forgó értékpapírok, ahol nagy forgalmat bonyolítanak le nagy
+mennyiségű papírokkal, és ahol ezek készpénzre váltása azonnal és alacsony költséggel lehetséges.
+D) Egyéb pénzügyi közvetítők és az E) Pénzügyi kiegészítő tevékenységet végzők
+A D) Egyéb pénzügyi közvetítők és az E.) Pénzügyi kiegészítő tevékenységet végzők szektorait a
+Felügyelet igényei szerint tovább bontjuk a Pénzügyi és befektetési vállalkozások, illetve az ezeken
+kívül a szektorokhoz sorolandó Egyéb intézmények alcsoportjára.
+Egyéb pénzügyi közvetítők – Pénzügyi vállalkozások: a szektorba sorolt intézmények közül azok, amelyek a
+Felügyelettől a Hpt. által meghatározott pénzügyi vállalkozási tevékenység végzésére engedélyt kaptak (az
+MNB honlapján közzétett, e rendelet 3. mellékletének 1. pontja szerinti listában a D.1. és D.2. csoportban
+felsorolt (pénzügyi) lízingcégek és egyéb pénzügyi vállalkozások).
+
+HMK-1-01
+Egyéb pénzügyi közvetítők – Befektetési vállalkozások: ide tartoznak a szektorba sorolt intézmények
+közül azok, amelyek a Felügyelettől a Tpt. által meghatározott befektetési vállalkozási tevékenység
+végzésére engedélyt kaptak (az MNB honlapján közzétett, e rendelet 3. mellékletének 1. pontja szerinti
+listában a D.6. és D.7. csoportban felsoroltak: értékpapír-kereskedelmi társaságok és értékpapír-befektetési
+társaságok).
+Egyéb pénzügyi közvetítők – Egyéb intézmények: ide tartoznak a fenti két csoportba nem sorolt egyéb
+pénzügyi közvetítők (az MNB honlapján közzétett, e rendelet 3. mellékletének 1. pontja szerinti listában a
+D.3., D.4., D.5. és D.99. csoportban felsoroltak).
+Pénzügyi kiegészítő tevékenységet végzők – Pénzügyi vállalkozások: a szektorba sorolt intézmények közül
+azok, amelyek a Felügyelettől a Hpt. által meghatározott pénzügyi vállalkozási tevékenység végzésére
+engedélyt kaptak (az MNB honlapján közzétett, e rendelet 3. mellékletének 1. pontja szerinti listában az E.6.
+csoportban felsorolt pénzügyi vállalkozások).
+Pénzügyi kiegészítő tevékenységet végzők – Befektetési vállalkozások: ide tartoznak a szektorba sorolt
+intézmények közül azok, amelyek a Felügyelettől a Tpt. által meghatározott befektetési vállalkozási
+tevékenység végzésére engedélyt kaptak (az MNB honlapján közzétett, e rendelet 3. mellékletének 1.
+pontja szerinti listában az E.1. csoportban felsorolt (értékpapír-bizományosi) társaságok).
+Pénzügyi kiegészítő tevékenységet végzők – Egyéb intézmények: ide tartoznak a fenti két csoportba
+nem sorolt pénzügyi kiegészítő tevékenységet végző intézmények (az MNB honlapján közzétett, e
+rendelet 3. mellékletének 1. pontja szerinti listában az E.2., E.3., E.4., E.5., E.7., E.8., E.99. csoportban
+felsoroltak).
+F) Biztosítók és nyugdíjpénztárak
+A biztosító részvénytársaságok és biztosító egyesületek (az MNB honlapján közzétett, e rendelet 3.
+mellékletének 1. pontja szerinti listában az F.1. és F.2.), valamint a magán- és önkéntes
+nyugdíjpénztárak, önkéntes önsegélyező pénztárak és önsegélyező egészségpénztárak (az F.3-F.6.
+csoportokban felsoroltak). Helyenként külön szerepel a szektorhoz tartozó két csoport.
+G) Központi kormányzat
+Tartalma megegyezik az egységes szektor-meghatározásban definiált körrel, de egyes
+instrumentumoknál külön kérünk adatokat a központi költségvetésre (magyar állam), és a központi
+kormányzathoz sorolt egyéb intézményekre.
+A központi kormányzathoz sorolt egyéb intézmények soroknál az államhatalom szervein, a
+Kormányon, a minisztériumokon, az országos hatáskörű szerveken és a felügyeletük alá tartozó
+költségvetési szerveken, valamint az elkülönített alapokon kívül a MÁK, az ÁKK Rt., az ÁPV Rt., a
+Nemzeti Autópálya Rt., a CASA Vagyonkezelő Kft, az MFB Üzletrészhasznosító Kft. és a központi
+kormányzathoz sorolt nonprofit intézmények adatait kell jelenteni.
+J) Háztartások
+A Háztartások szektorát Lakosság és Egyéni vállalkozók alcsoportra bontjuk. A mezőgazdasági
+őstermelők az egyéni vállalkozók közé sorolandók.
+L) Külföld
+A GMU országai külön szektort képeznek az adatszolgáltatásokban. A külfölddel kapcsolatos
+állományokat GMU tagországokra és egyéb külföldre bontva kell jelenteni.
+
+HMK-1-01
+GMU tagországok
+A GMU tagországokra ugyanazt a szektorbontást kell alkalmazni, mint a belföld esetében. Itt csak az
+ettől való eltéréseket jelezzük.
+A GMU monetáris pénzügyi intézmények szektora az alábbi két alszektorra bomlik1:
+• GMU jegybankok, EKB és tartalékolási kötelezettség alá eső GMU monetáris pénzügyi
+intézmények, valamint
+• tartalékolási kötelezettség alá nem eső GMU egyéb monetáris pénzügyi intézmények.
+A Felügyeleti mérlegben szereplő „GMU hitelintézetek” kifejezés a GMU tagországok pénzpiaci
+alapok nélküli monetáris pénzügyi intézményeit jelenti.
+Az ÁHT négy alszektorra bomlik a GMU tagországok esetében:
+• központi kormányzat,
+• tagállami/tartományi kormányzat,
+• helyi önkormányzatok,
+• társadalombiztosítási alapok
+Az egyes alszektorokba értendők a hozzájuk kapcsolódó nonprofit intézmények is.
+Egyéb külföld
+Az egyéb külföld szektorát a GMU tagországok kivételével az összes külföldi ország, valamint a
+nemzetközi intézmények (ideértve az EKB kivételével az EU intézményeit is) alkotják. Az egyéb
+külföldnél a következő bontást kell alkalmazni:
+• bankok,
+• nem bankok,
+• ÁHT (idesorolandók a fent említett nemzetközi intézmények is),
+• egyéb szektorok
+3. Lejárat szerinti bontás
+A Felügyeleti mérlegben szereplő tételeket mindig eredeti lejáratuk alapján kell a lejárati kategóriákba
+sorolni. Nem befolyásolja a lejárat szerinti besorolást, ha az instrumentum lejárata munkaszüneti vagy
+bankszünnapra esik, és ezért a teljesítés az azt követő munkanapon történik meg.
+Rövid lejárat: az instrumentum lejárata ≤ 1 év
+Hosszú lejárat: az instrumentum lejárata > 1 év
+Hosszú, legfeljebb 2 éves lejárat: 1 év < az instrumentum lejárata ≤ 2 év
+Hosszú, 2 éven túli lejárat: az instrumentum lejárata > 2 év
+Hosszú, legfeljebb 5 éves lejárat: 1 év < az instrumentum lejárata ≤ 5 év
+Hosszú, 5 éven túli lejárat: az instrumentum lejárata > 5 év
+
+Az egyes intézmények két alszektor szerinti besorolásához segítséget ad az Európai Központi Bank honlapján elhelyezett ún. MFI lista. amelynek pontos
+elérési útvonala az MNB honlapján közzétett, e rendelet 3. mellékletének 1. pontja szerinti listát tartalmazó file-ban található.
+
+HMK-1-01
+4. Fogalmak
+Átvezetési számla: a pénzeszközökkel kapcsolatos számlák egymás közötti forgalmában az
+ellenszámla helyettesítője. Az Szkr. szerint az átvezetési számla állománya a pénzeszközállomány
+része.
+Befektetési jegy: a Tpt.-ben meghatározott fogalom.
+Betét a Felügyeleti mérleg forrás oldalán: a hitelintézettel szemben fennálló követelés, amely
+betétszerződés, bankszámla-, illetve folyószámla-szerződés alapján a hitelintézetnél elhelyezett
+pénzeszközöket jelent. A treasury által kötött un. bankközi ügyletek szintén betétnek minősülnek a
+Felügyeleti mérleg szempontjából.
+Betéti okirat: a hitelintézetnél elhelyezett betétek közül az, amely nem számlán és nem könyves-
+betétben került elhelyezésre, függetlenül az okirat elnevezésétől, címletezésétől, lejáratától, illetve attól,
+hogy bemutatóra szóló-e vagy sem (pl. a hitelintézet által kibocsátott takaréklevél, értékjegy,
+pénztárjegy, betétjegy, takarékjegy, takarékszelvény, értéklevél, kamatjegy, trezorjegy).
+Bruttó érték: a beszerzési, bekerülési, nyilvántartási – értékvesztésekkel, céltartalékkal, stb. nem
+csökkentett, értékelési különbözettel nem módosított – érték. Mérlegtételek esetén a könyv szerinti
+bruttó érték, mérlegen kívüli tételek esetében a nyilvántartási érték.
+Egyéb hitel: minden, a kiemelt hitelsorokba nem tartozó hitel. Itt kell jelenteni az eseti hiteleket,
+valamint a Széchenyi-kártyához kapcsolódó hiteleket is. (Eseti hitel: ad hoc jellegű, a hitelfelvevő
+átmeneti likviditási problémáinak megoldására szolgáló rövid lejáratú hitel.)
+Értékpapír-kölcsönzés: a Tpt.-ben meghatározott fogalom.
+Értékpapírosítás: olyan művelet, amely során a monetáris pénzügyi intézmény a mérlegében lévő
+hitelt
+• vagy az eredeti adós által kibocsátott új, forgatható, hitelviszonyt megtestesítő értékpapírokra
+cseréli (közvetítő részvétele nélkül), amelyeket ezzel egy időben/vagy később befektetőknek
+elad (a hitel ebben az esetben megszűnik);
+• vagy egy – rendszerint az értékpapírosított hitel tartására létrehozott – közvetítőnek [Financial
+Vehicle Corporation (FVC)] adja el, amely azt új hitelviszonyt megtestesítő értékpapírok
+kibocsátásával finanszírozza. Ennek során két megoldás lehetséges:
+1. A hitelező monetáris pénzügyi intézmény a hitelt az új értékpapírokra cseréli, melyeket
+ezzel egy időben/vagy később befektetőknek elad.
+2. Az új értékpapírokat a közvetítő közvetlenül befektetőknek adja el, a hitelező monetáris
+pénzügyi intézmény pedig pénzt kap az eladott hitel fejében.
+Fogyasztási hitel: a háztartásoknak a mindennapi élet szokásos használati tárgyainak megvásárlásához,
+javíttatásához illetve szolgáltatások igénybevételéhez nyújtott kölcsön (például áruvásárlási,
+gépjárművásárlási, személyi hitel). A fogyasztási hitelek között kell jelenteni azokat a hitelkártya-
+konstrukciókat, ahol a bank nem biztosít kamatmentes periódust, és a kártya csak a hitelhez történő
+hozzáférést biztosítja. A Széchenyi-kártyához kapcsolódó hitelek azonban az egyéb hitelek között
+jelentendők.
+Folyószámlahitel: a folyószámlán kialakult negatív egyenleg (overdraft). Azok a kártyahitelek is ide
+sorolandók, amelyeknél a bank kamatmentes periódust biztosít. Azokat a kártyahiteleket, ahol a bank
+kamatmentes periódust nem biztosít a kártyához, a fogyasztási hitelek között kell jelenteni.
+Hitelleírás (a tranzakciók kiszámításához szükséges adatokat tartalmazó 04. táblában): az előző
+hónap végén még a mérlegben szereplő hitel- és hiteljellegű követelések leírása, valamint azok
+
+HMK-1-01
+törlesztésekkel csökkentett szerződés szerinti, illetve bruttó könyv szerinti értéke alatti eladása a
+tárgyhónapban.
+Hitelviszonyt megtestesítő értékpapír: a Tpt. szerinti fogalom. A Felügyeleti mérleg eszköz oldalán a
+kötvény instrumentum alatt az összes hitelviszonyt megtestesítő értékpapírt értjük, míg a mérleg forrás
+oldalán az értékpapírok részletes bontásban szerepelnek.
+Konszolidációs államkötvények a hitel-, bank- és adóskonszolidációk során kibocsátott, átadott
+államkötvények.
+Könyvesbetét: a hitelintézetnél elhelyezett betétek közül az, amelynek elhelyezésekor betétkönyvet
+állítanak ki (pl. takarékbetétkönyv, nyereménybetétkönyv, stb.), nem ideértve a takaréklevelet.
+Könyv szerinti bruttó érték: az eszközök, valamint azok mérlegen kívüli tételeinek beszerzési, illetve
+bekerülési, nyilvántartási (értékvesztésekkel, céltartalékkal, stb. nem csökkentett, értékelési
+különbözettel nem módosított) értéke. A hitelintézet által kötött szerződésből eredő követelés esetén a
+még nem törlesztett tőkeösszeg. Megvásárolt követelések esetén a bekerülési értékből még nem
+törlesztett rész.
+Kötvény: lásd a hitelviszonyt megtestesítő értékpapírnál.
+Látra szóló és folyószámla betét: a folyószámla betét a folyószámlán kialakult pozitív egyenleg. A
+látra szóló betétek közé soroljuk a nem folyószámlához kapcsolódó lekötetlen betéteket, valamint az
+egy napra lekötött betéteket is. (Az egy napos futamidő munkanapban értendő.)
+Lekötött betét: az egy napnál hosszabb időre lekötött betétek. A két éven túli lekötésű betétek
+tartalmazhatnak nyugdíj-előtakarékossági számlákat is.
+Letéti igazolás (angolszász területen depository receipt: GDR – Global Depository Receipt, ADR
+– American Depository Receipt): letéti intézmény által bizonylati formában kibocsátott, saját joga
+szerint értékpapírnak minősülő, átruházható befektetési forma, a letétbe helyezett, mögöttes
+értékpapírokra vonatkozó tulajdonjogot bizonyító okirat. A hitelintézet tulajdonába kerülő ilyen letéti
+igazolásokat a mögöttes értékpapíroknak megfelelő szektornál kell jelenteni a megfelelő sorban.
+Nem forgatható értékpapírok: azon hitelviszonyt megtestesítő értékpapírok, amelyek
+tulajdonjogának átruházása korlátozott, azaz vagy jogszabály tiltja eladásukat, vagy szervezett piac
+hiányában tulajdonosuk nem tudja eladni azokat. A magyar gyakorlatban korlátozottan
+forgalmazhatónak a zárt körű és az átváltoztatható kötvényeket tekintjük.
+Nem valódi penziós (elhelyezési) ügylet: Az Szmt. szerinti fogalom.
+Nettó érték: a könyv szerinti bruttó érték értékvesztéssel csökkentett, illetve értékelési különbözettel
+módosított összege.
+Penziós ügylet: Az Szmt. szerinti fogalom.
+Repó- és fordított repóügylet: a Tpt. szerinti fogalom. (A penziós ügylet egy alesete.)
+Valódi penziós (elhelyezési) ügylet: Az Szmt. szerinti fogalom.
+
+HMK-1-01
+5. Értékelési szabályok, illetve az adatszolgáltatásban szereplő egyes tételek szerepeltetésére
+vonatkozó egyéb előírások
+5.1. Az adatok tartalmára, értékelésére, stb. vonatkozóan – egyéb előírások hiányában – a mindenkor
+hatályos Szmt. és Szkr. az irányadó.
+5.2. A Felügyeleti mérlegben jelentett állományoknak meg kell egyezniük a hó végére lezárt főkönyv
+állományaival. Az Szkr. 12. § (2) bekezdése előírja, hogy a pénzügyi intézmények a PSZÁF és az
+MNB részére készítendő évközi jelentések alátámasztásául minden hónap utolsó napjára vonatkozóan
+kötelesek főkönyvüket lezárni. A főkönyv zárásának a hónap utolsó napjára vonatkozó helyesbítések
+elvégzésével kell történnie.
+A főkönyv helyesbítése az alábbiakat jelenti:
+- az állományokból ki kell venni a hónap utolsó napja után esedékes tételeket, és
+- az állományokba be kell számítani a hó vége utáni harmadik munkanapig ismertté vált, a hó
+utolsó napjáig még le nem könyvelt, a tárgyhónapot érintő, teljesített tételeket.
+5.3. A főkönyv havi zárásakor a deviza- és valutakészletek, valamint külföldi pénznemre szóló
+követelések és kötelezettségek hó végi állományát év közben is a Magyar Nemzeti Bank által közzétett,
+a hó utolsó napján érvényes hivatalos devizaárfolyamon forintra átszámított értéken kell közölni.
+Az MNB által nem jegyzett külföldi pénznemre szóló követeléseket, kötelezettségeket, deviza- és
+valutakészleteket az Szkr. 9. § (5) bekezdése alapján kell forintra átszámítani.
+5.4. A külfölddel kapcsolatos követelések és tartozások Felügyeleti mérlegben (a követelések esetében a
+könyv szerinti bruttó értékeket tartalmazó 01. táblában) közölt állománya, valamint az M01-M05
+jelentésekben szereplő, nem-rezidensekkel szemben fennálló követelések és tartozások állományadatai közötti
+tartalmi összhang biztosítása érdekében figyelembe kell venni az MNB honlapján közzétett, e rendelet 3.
+mellékletének 5. pontja szerinti technikai segédletben közölteket. Amennyiben az M01-M05 jelentésekben
+beküldött adatokban a későbbi ellenőrzések, egyeztetések során szükségessé vált javítások érintik a
+Felügyeleti mérlegben jelentett állományokat is, akkor a megfelelő módosításokat a Felügyeleti
+mérlegben is el kell végezni, és utólag be kell küldeni. Hasonlóképpen módosítandók az M01-M05
+jelentések adatai is, amennyiben a Felügyeleti mérlegben bekövetkezett javítások a külföldiekre
+vonatkozó állományokat érintik.
+5.5. A Felügyeleti mérleg minden sora forint (a), euró (b), egyéb deviza (c) és az ezek összegével
+megegyező összesen (d) oszlopokat tartalmaz. Az egyes sorokban a külföldi pénznemben fennálló
+(valuta vagy deviza) követelések, illetve kötelezettségek – a Felügyeleti mérlegnél előírt
+árfolyam(ok)on – forintra átszámított összegét kell a (b) euró illetve (c) egyéb devizaoszlopokban
+szerepeltetni. A devizaeszközökre képzett értékvesztést és értékelési különbözetet a megfelelő
+devizaoszlopokban kell jelenteni.
+5.6. A Felügyeleti mérleg eszköz-, illetve forrásoldalán az Szkr. előírásai alapján negatív összegként
+szerepeltetendő állományokat – eszköz oldali értékvesztések, értékhelyesbítések, eszköz oldali
+értékelési különbözetek (amennyiben a valós érték kisebb, mint a bekerülési érték), illetve be nem
+fizetett részvénytőke – negatív előjellel kell jelenteni. Amennyiben a hitelintézet – számviteli
+politikájában is rögzítetten – a valós érteken történő értékelést alkalmazza, a számviteli szabályoknak
+megfelelően kell eljárni és – egyéb előírás hiányában – az adott tétel-csoportban kimutatni az értékelési
+különbözetet.
+5.7. A Felügyeleti mérlegben szereplő saját vagyontárgyakat – pl. váltót, hiteleket, egyéb követeléseket
+vagy értékpapírokat (továbbiakban: vagyontárgyak) – eredeti (szerződés szerinti) lejárattal kell
+szerepeltetni, és nem csökkentve állományukat a valódi penziós ügyletek keretében átadott
+vagyontárgyak értékével.
+
+HMK-1-01
+5.8. Az egyes – kockázati, cél-, általános, illetve egyéb – tartalékokat, értékvesztéseket, értékelési
+különbözeteket a jogszabályban előírt esedékességkor (negyedév, mérleg fordulónapja, stb.), így december
+31-én is meg kell képezni. Ezért az éves mérlegbeszámoló elkészítésekor az egyes adatokban bekövetkezett
+módosításoknak megfelelően a már megképzett tartalék-, értékvesztés- illetve értékelési különbözet-összegek
+is változhatnak.
+5.9. A hitelintézeteknél különböző néven vezetett egyéb, az átvezetési számla definíciójától eltérő tartalmú
+„átvezetési”, elszámolási, technikai, stb. számlák állományát egyenlegük jellegének megfelelően az
+egyéb aktív, illetve passzív elszámolások között (a megfelelő szektorban, illetve ha nem eldönthető,
+akkor az “Egyéb” sorokban) kell kimutatni.
+5.10. A befektetési jegyek teljes állományát az Szmt.-től eltérően a tulajdoni részesedések között kell
+kimutatni.
+5.11. A hitelintézet által belföldön felvett (belföldi szervezésű) konzorciális hiteleket a konzorcium
+egyes tagjaival szembeni tartozásként kell kimutatni, az egyes tagok által nyújtott rész fennálló
+állományával megegyező összegben.
+5.12. Konzorcium keretében nyújtott hitelek, valamint lebonyolításra átvett hitelek esetében a a
+hitelintézeteknek az általuk nyújtott összegeket a végső adóssal szembeni követelésként kell
+kimutatniuk, a közvetítő (szervező, lebonyolító) hitelintézetnek pedig csak akkora összeget kell a
+Felügyeleti mérlegben a végső adóssal szemben szerepeltetnie, amekkora összeget saját részéről neki
+nyújtott. A számviteli mérlegben hitelintézetekkel szembeni kötelezettségként kimutatandó, más
+hitelintézetektől lebonyolításra átvett és még nem továbbadott hitelek összegét (ideértve a konzorciális
+hitelnyújtás keretén belül a szervező bankhoz a hitelnyújtó hitelintézet által átutalt hiteleket is), illetve a
+végső adós (hitelfelvevő) által átutalt törlesztő részletek lebonyolító (szervező) bank által még nem
+továbbutalt összegét nem bankközi tartozásként, hanem hitelintézetekkel szembeni passzív
+elszámolásként kell a Felügyeleti mérlegben szerepeltetni.
+5.13. A hitelintézet által külföldön kibocsátott kötvények, illetve külföldön felvett konzorciális hitelek
+teljes fennálló állományát a külföldiekkel szembeni tartozások között kell kimutatni, akkor is, ha a
+hitelintézet tudja, hogy eredetileg mekkora összegben vásárolt kötvényt, illetve vett részt a
+hitelnyújtásban más belföldi hitelintézet.
+5.14. Lejárt lekötött betétek kezelése:
+• amennyiben az ügyfél megújítja a betétet, akkor annál a lejáratnál kell jelenteni, ahová a megújítás
+után sorolandó;
+• a folyamatos lekötésű betéteket (amelyek az ügyfél közreműködése nélkül kerülnek újra lekötésre)
+továbbra is a lekötött betétek állományában kell szerepeltetni, az eredeti lejáratnál;
+• ha a betétet a folyószámláról kötötték le, és lejárat után a hitelintézet visszahelyezi a betétösszeget a
+folyószámlára, akkor a lejárt betétet a látra szóló és folyószámlabetétek között kell jelenteni;
+• ha az ügyfél nem újítja meg a betétet, de a hitelintézet újralekötés nélkül is az eredeti
+betétszerződésben rögzített változatlan feltételeket biztosít, a lejárt betétösszeget a lekötött betétek
+között kell szerepeltetni, az eredeti lejáratnál;
+ha az ügyféllel kötött eredeti szerződés értelmében a határozott időre lekötött betét a lejárat után
+futamidő nélküli betétté alakul át, a lekötött betétek között kell jelenteni, eredeti lejárata szerint.
+5.15. Megbízásból vezetett devizaszámlák esetében a hó végén a megbízott hitelintézetnél maradt
+valutakészletnél a lebonyolításra átvett hitelekhez hasonló módon kell eljárni: a valutakészletet a
+megbízott hitelintézetnek a valutakészletében kell jelenteni, s a megbízó hitelintézettel szemben ebből
+eredő kötelezettségét hitelintézettel szembeni passzív elszámolásként kell kimutatni.
+
+HMK-1-01
+5.16. A megvásárolt követelések és leszámítolt váltók helyét a Felügyeleti mérlegben az dönti el, hogy
+a végső adós melyik szektorba tartozik, függetlenül a visszkeresettől. A megvásárolt követelések között
+a faktorálásból és a forfetírozásból eredő követelések szerepelhetnek. (A megvásárolt hitelek az eredeti
+adósnak megfelelő szektorral szembeni hitelek között szerepeltetendők, a hitelek eredeti lejáratának
+megfelelő helyen, feltéve, hogy eladáskor nem módosították az eredeti szerződést.) A megvásárolt
+követelés lejárat szerinti besorolásakor a követelés-megvásárláskor nyújtott hitel eredeti lejáratát (és
+nem a megvásárolt követelés eredeti lejáratát) kell figyelembe venni.
+5.17. A pénzügyi eszközök valódi penziós ügylet keretében történt eladásából keletkezett pénzbevételt
+a hitelintézet kötelezettségeként a források között, a vagyontárgyak valódi penziós ügylet keretében
+történt vásárlásából keletkezett követeléseket az eszközök között a megfelelő szektoroknál kijelölt
+sorokban kell hozni. A Felügyeleti mérlegben a valódi penziós ügyletekre vonatkozó soroknak
+tartalmazniuk kell az Szkr. 21. § (3) bekezdésben felsorolt egyéb határidős, swap és opciós ügyletek
+lezárása előtti pénzmozgásokból származó, mérlegtételként kimutatandó követeléseket illetve
+kötelezettségeket is.
+5.18. A pénzügyi eszközök nem valódi penziós ügylet keretében történő átadását/átvételét a számviteli
+előírásoknak megfelelően tényleges eladásként/vételként kell kezelni a Felügyeleti mérlegben is, azaz
+összege kikerül a penzióba adó mérlegéből és mérlegen kívüli tételként (a visszavásárlási
+kötelezettségek között) szerepel. (A nem valódi penziós ügyletek szabályai szerint kerül elszámolásra a
+szállításos repóügylet is.)
+5.19. Számla-összevezetés alatt alapvetően kétféle ügylet-típust értünk:
+• A cash poolt, amely esetében az ügyfélcsoport bankszámláinak – általában nap végi – összevezetése egy
+főszámlára ténylegesen megtörténik, s az egyes pool-tagok a főszámla egyenlege erejéig egymást
+hitelezik, a bank pedig csak a főszámla mínuszba menetele esetén nyújt hitelt az ügyfélcsoportnak. E
+konstrukciónak léteznek különböző altípusai (zero balancing, target balancing, stb.), de az ügylet lényegét
+tekintve azok egységesen kezelhetők.
+• A kamat poolt, azaz a virtuális, vagy notional pool konstrukciót, amely nem jár tényleges számla-
+összevezetéssel, kizárólag arra irányul, hogy bizonyos szempontból kapcsolatban álló ügyfélcsoport (vagy
+egy ügyfél több számlája esetén) kedvezőbb kamatot érhessen el a bankszámláik egyenlegeinek virtuális
+összevezetése segítségével megállapítható egyenleg alapján.
+A két típust eltérően kell kezelni:
+• A cash pool esetén összevonhatók a részt vevő számlák egyenlegei, és a főszámla egyenlege (illetve
+a pool számára nyújtott hitel állománya) a pool-vezető szektorbesorolásának és rezidens-nem-
+rezidens státuszának megfelelően jelentendő.
+• A kamat pool esetén a poolban résztvevő számlák nem vonhatók össze. Az egyes ügyfelek
+számláinak egyenlegét a megfelelő szektoroknál kell kimutatni.
+5.20. Kártyaelszámolásokkal kapcsolatos szabályozás:
+A különböző elszámolási körökben, szinteken kialakult, pénzügyileg rendezendő nettó pozíciókat az
+egyéb aktív illetve passzív elszámolások között, annál a szektornál kell kimutatni, ahová az elszámolást
+végző intézmény tartozik:
+1. Az I. szint esetében (bankon belüli kör; mind a kártya birtokosa, mind a kártyát elfogadó
+kereskedő ugyanazon hitelintézet ügyfele, vagy a birtokos a kártyáját a kibocsátó bank
+illetve annak megbízottja által üzemeltetett ATM-ből, illetve POS berendezésen keresztül
+vesz fel készpénzt) az érintett bank elszámolja a saját ügyfeleit érintő műveleteket az
+ügyfélszámlákon, tehát pénzügyileg a bankon kívül elrendezendő nettó pozíció nem
+keletkezik.
+
+HMK-1-01
+2. A II. szint esetén (GBC kör) a GBC-vel szembeni nettó követelés, illetve tartozás az E.
+Pénzügyi kiegészítő tevékenységet végzőkön belül a Pénzügyi és befektetési
+vállalkozásokkal szembeni egyéb elszámolások között jelentendő.
+3. A III. szint [magyarországi kibocsátású (Visa, illetve MasterCard) bankkártyával
+magyarországi elfogadóhelyen lebonyolított olyan tranzakciók, amelyek az I. és II. szintbe
+nem tartoznak bele], valamint a szponzorált bankok esetében hitelintézetekkel szembeni
+egyéb aktív illetve passzív elszámolásként jelentendő a fennálló nettó összeg.
+4. A IV. szint (nemzetközi elszámolási körök: Magyarországon kibocsátott kártyával
+külföldön, vagy külföldi kibocsátású kártyával Magyarországon lebonyolított tranzakciók)
+esetében az ilyen jellegű követelés illetve tartozás a VISA-val illetve az MasterCard-dal
+szemben áll fenn, tehát a külfölddel szembeni egyéb aktív illetve passzív elszámolások közé
+kerül.
+II. A Felügyeleti mérleg, az eredménykimutatás és a mellékletek kitöltésével kapcsolatos
+részletes tudnivalók, az adatok összeállításának módja
+A hitelintézet eszközeiről kétféle adatszolgáltatást kell készíteni. A 01. tábla az eszközök könyv szerinti
+bruttó értékeit tartalmazza. Az egyes eszköz-soroknál a bekerülési, beszerzési, szerződés szerinti,
+nyilvántartási (a továbbiakban: bekerülési) értékeket kell figyelembe venni, az instrumentum-csoportokon
+belül pedig szektoronként összevonva egy sorban kell az értékvesztés-, illetve az értékelési különbözet-adatok
+egyenlegét feltüntetni2. A 11. tábla gyakorlatilag ugyanezen sorokat tartalmazza, csak sorai könyv szerinti
+nettó illetve – amennyiben a hitelintézet valós értékelést alkalmaz – valós értéken jelentendők. A Felügyeleti
+mérleg adataihoz a részletező leírás a 01. táblánál található.
+01. tábla: Felügyeleti mérleg (Eszközök könyv szerinti bruttó adatokkal)
+Az 1. Eszközök összesen (2+11+90+162+174+332+362+378+418) sor megegyezik a Felügyeleti
+mérleg főbb eszközcsoportjainak összegével.
+2. Pénztár és elszámolási számlák (3+…+10)
+Itt kell kimutatni – a jegybanknál elhelyezett éven belüli betétek kivételével – az Szkr. szerint pénzeszköznek
+minősülő eszközöket, valamint a hitelintézeteknél vezetett pénzforgalmi (elszámolási) számlákat, illetve
+nostro számlákat és értékvesztésüket, függetlenül attól, hogy a nostro számlák számviteli szempontból nem
+pénzeszközök, hanem hitelintézetekkel szembeni követelések.
+A 3. Pénztárkészlet sorban kell kimutatni a hitelintézetnél lévő forint és valuta készpénzállományt, a
+törvényes fizetési eszközül szolgáló nemesfém érméket, azok fizikai elhelyezésétől függetlenül [pénztár,
+értéktár, pénzkiadó automaták (ATM), stb.], továbbá a hitelintézet központja és fiókja, valamint a
+fiókok közötti úton lévő készpénz állományát. Itt kell a hitelintézetnek azokat a pénzeszköznek
+minősülő megvásárolt csekkeket is kimutatnia, amelyeknek a beváltását a csekkszámlavezető
+hitelintézetnél még nem kezdeményezte. A beszedésre már elindított csekket a hitelintézetekkel
+szembeni követelések között kell kimutatni. A más bankkal folytatott külföldi bankjegy- és érme-
+kereskedelemmel kapcsolatos követeléseket illetve tartozásokat (úton lévő valuta) belföldi illetve
+külföldi hitelintézetekkel szembeni rövid lejáratú követelésként illetve tartozásként kell kimutatni.
+A 4. Jegybanki nostro számlák sorba kell felvenni a hitelintézet Magyar Nemzeti Banknál vezetett forint
+pénzforgalmi (elszámolási) számlájának, betétszámlájának és deviza nostro számlájának hó végi egyenlegét.
+Itt kell szerepelnie a jegybanknál elhelyezett ún. szankciós kötelező tartalék állományának is.
+
+Az összevont értékvesztés- és értékelési különbözet-adatokat a 08. Értékeléssel kapcsolatos adatok táblában megfelelő előjellel ellátva részletezni kell.
+
+HMK-1-01
+Az 5. Szövetkezeti hitelintézetek MTB-nél lévő elszámolási számlája sorban azoknak a szövetkezeti
+hitelintézeteknek kell a Magyar Takarékszövetkezeti Banknál vezetett pénzforgalmi (elszámolási) számlájuk
+egyenlegét közölniük, amelyek az MNB tv. alapján pénzeszközüket, illetve kötelező jegybanki tartalékjukat
+az MNB által számlavezetésre felhatalmazott banknál kötelesek elhelyezni.
+A 6. Jegybanki nostro számlákkal és MTB-nél lévő elszámolási számlával kapcsolatos átvezetési számla
+állomány sorban külön kell szerepelnie a forint és deviza nostro számlákhoz kapcsolódó átvezetési számlák
+egyenlegének. Amennyiben az euró és az egyéb deviza oszlopban az egyes nostro számlák (átvezetési
+számlákkal összevont) egyenlege a hó végén negatív, akkor ezt az egyenleget forrásként (nem pedig negatív
+előjelű eszközként) kell kimutatni, mivel ez rövidlejáratú hitelfelvételt jelent.
+A 7. nostro számlák belföldi hitelintézeteknél sorban a belföldi, a 8. nostro számlák GMU
+hitelintézeteknél sorban a GMU hitelintézeteknél vezetett pénzforgalmi (elszámolási, nostro)
+számlák, valamint a hozzájuk kapcsolódó átvezetési számlák egyenlegét kell közölni. A 9. Nostro
+számlák egyéb külföldi bankoknál sorban az egyéb külföldi bankoknál vezetett pénzforgalmi
+(elszámolási, nostro) számlák, valamint a hozzájuk kapcsolódó átvezetési számlák egyenlegét kell
+közölni. Amennyiben az egyes nostro számlák átvezetési számlákkal összevont egyenlege a hó végén
+negatív, akkor ezt az egyenleget forrásként (nem pedig negatív előjelű eszközként) kell kimutatni,
+mivel ez rövidlejáratú hitelfelvételt jelent.
+A 10. sorban kell feltüntetni az 5. és a 7-9. sorokban szereplő nostro számlák értékvesztését.
+11. Forgatási célú értékpapírok (12+63)
+Ebben az eszközcsoportban a szokásos kereskedelmi célra, illetve spekulációs céllal vásárolt, az Szkr. szerint
+forgóeszközként nyilvántartott (rövid és hosszú eredeti lejáratú), nyílt körben kibocsátott, tőkearányosan és
+nem tőkearányosan jövedelmező értékpapírokat kell kimutatni szektoronként bontva, függetlenül attól, hogy a
+vásárlás az elsődleges vagy a másodlagos piacon történt. Értékelésük a számviteli szabályoknak megfelelően
+történik, de külön kimutatva bruttó könyv szerinti értéküket és – esetenként összevontan – értékvesztésük és
+értékelési különbözetük összevont egyenlegét. [A valós értéken történő értékelés alkalmazása nem érinti a
+forgatási cél szerinti minősítést (forgóeszközként vagy befektetett pénzügyi eszközként történő elszámolást).]
+Itt kell a forgatási célú egyéb részesedéseket és üzletrészeket, valamint a forgatási céllal szerzett, de a
+cégnyilvántartásba még nem bejegyzett vállalkozásokba történt befektetéseket is kimutatni, függetlenül attól,
+hogy a főkönyvben hol tartják nyilván. A szektoronkénti bontásnál az eredeti kibocsátó szerint kell az
+értékpapírokat besorolni, akkor is, ha értük valaki garanciát vállalt. A forgatási céllal vásárolt, de a számviteli
+szabályok szerint (például a be nem válthatóság miatt) átsorolt értékpapírokat nem itt, hanem a befektetési
+célúak között kell figyelembe venni. A hitelintézet üzletszerű tevékenységét kisegítő saját járulékos
+vállalkozásokban (mind belföldön, mind külföldön) történt befektetéseket – függetlenül a befektetési céltól –
+kizárólag a Vagyoni érdekeltségek eszközcsoportban kell kimutatni.
+12. Hitelviszonyt megtestesítő értékpapírok összesen (13+…+62)
+13. Kincstárjegy és 14. Államkötvény sorok: a 13. sorba a hitelintézet által megvásárolt
+kincstárjegyek, a 14. sorba a Magyar Állam által külföldön vagy belföldön kibocsátott különböző
+(kincstári, lakásfedezeti, államadóssági és egyéb, nem konszolidációs) államkötvények, a kárpótlási
+jegyek, valamint az állam által átvállalt, korábban kibocsátott TB kötvény forgatási céllal tartott
+állományának értéke kerül. (A TB kötvények, valamint a kárpótlási jegyek állományát a 02.
+Tájékoztató adatok 1. táblában külön is ki kell mutatni.)
+A 15. Konszolidációs államkötvény sorban a hitel-, bank- és adóskonszolidációk során kibocsátott
+államkötvények értékét kell szerepeltetni.
+
+HMK-1-01
+A 16-17. Helyi önkormányzatok kötvényei sorok a hitelintézetek tulajdonában lévő helyi, megyei és
+fővárosi önkormányzatok, intézményeik, valamint az idesorolt nonprofit intézmények által kibocsátott
+kötvényeket tartalmazza.
+A 18. sorban a 13-17. sorokban szereplő értékpapírok értékvesztését és értékelési különbözetét
+(összevontan) kell feltüntetni.
+A 19-21. Jegybanki kötvény soroknak a hitelintézet tulajdonában lévő, az MNB által belföldön vagy
+külföldön kibocsátott kötvényeket kell tartalmazniuk. Itt kell szerepeltetni a forgatási céllal tartott KVH
+Rt. kötvények állományát is. A 22. sorban a 19-21. sorokban kimutatott jegybanki kötvények
+értékvesztését és értékelési különbözetét (összevontan) kell feltüntetni.
+A 23-25. Belföldi hitelintézetek kötvénye sorokban kell kimutatni a hitelintézetek tulajdonában lévő,
+belföldi hitelintézetek által belföldön, illetve külföldön kibocsátott kötvényeket megfelelő lejárat
+szerint bontva. A 26. sor tartalmazza a 23-25. sorokban jelentett hitelintézeti kötvények értékvesztését
+és értékelési különbözetét (összevontan).
+A 27-34. sorok az egyéb pénzügyi közvetítők és a pénzügyi kiegészítő tevékenységet végzők
+kötvényeit tartalmazzák, pénzügyi és befektetési vállalkozások illetve egyéb intézmények bontásban,
+lejárat szerint részletezve.
+A 35-36. Biztosítók kötvényei sorban a biztosítók által kibocsátott hitelviszonyt megtestesítő
+értékpapírokat kell szerepeltetni lejárat szerinti bontásban.
+A 37. sorban a 27-36. sorokban jelentett – az egyéb pénzügyi közvetítők, pénzügyi kiegészítő
+tevékenységet végzők és biztosítók által kibocsátott – kötvények értékvesztését és értékelési
+különbözetét (összevontan) kell kimutatni.
+A 38-39. Járulékos vállalkozások kötvénye sorokban kell feltüntetni a hitelintézet saját járulékos
+vállalkozásai által kibocsátott kötvényeket megfelelő lejárat szerint bontva.
+A 40-41. Nem pénzügyi vállalatok kötvénye sorokban a nem pénzügyi vállalatok által kibocsátott
+kötvényeket kell szerepeltetni a járulékos vállalkozások kötvényei nélkül.
+A 42. sorban a nem pénzügyi vállalatok 38-41. sorokban jelentett kötvényének értékvesztését és
+értékelési különbözetét (összevontan) kell kimutatni.
+A 43-44. Háztartásokat segítő nonprofit intézmények kötvénye sorokban a háztartásokat segítő
+nonprofit intézmények által kibocsátott kötvényeket kell jelenteni.
+A 45. sorban a háztartásokat segítő nonprofit intézmények 43-44. sorokban jelentett kötvényének
+értékvesztését és értékelési különbözetét (összevontan) kell kimutatni.
+A 46-47. Egyéb belföldi kötvény és 48. Egyéb belföldi kötvény értékvesztése sorokban kell
+feltüntetni a mérlegben más soron nem jelentett, a hitelintézet birtokában lévő forgatási célú
+kötvényeket, valamint azok értékvesztését és értékelési különbözetét (összevontan).
+A 49-61. sorokban a GMU szektorok és egyéb külföldiek által kibocsátott, forgatási céllal tartott
+külföldi állampapírokat és kötvényeket kell szerepeltetni. A GMU tagországok jegybankjai által
+kibocsátott hitelviszonyt megtestesítő értékpapírokat a GMU MPI-k kötvénye között, az egyéb külföldi
+jegybankok által kibocsátott értékpapírokat az egyéb külföldiek kötvénye soron kell szerepeltetni, mivel azok
+nem felelnek meg a Tpt. szerint megfogalmazott állampapír kategóriának.
+
+HMK-1-01
+A 62. sorban a 49-61. sorokban jelentett külföldi értékpapírok értékvesztését és értékelési különbözetét
+(összevontan) kell feltüntetni.
+63. Tulajdoni részesedések összesen (64+…+89)
+A 64-83. sorokba kell kerülniük a hitelintézet által forgatási céllal birtokolt belföldi részvények,
+részesedések, valamint a számviteli előírásoktól eltérően a forgatási céllal tartott befektetési jegyek
+teljes állományának, valamint azok értékvesztésének és értékelési különbözetének (összevontan),
+szektoronként bontva. Külön soron kell kiemelni a belföldön vagy külföldön értéktőzsdére bevezetett
+részvények állományát. (A Budapesti Értéktőzsdére bevezetett részvények szektor szerinti bontását az
+MNB honlapján közzétett, az e rendelet 3. mellékletének 7. pontja szerinti lista tartalmazza.) A
+tőzsdére nem bevezetett részvények sorokban kell a forgatási céllal vásárolt egyéb részesedéseket is
+kimutatni.
+A 84-89. sorokban a GMU és egyéb külföldi részvények és befektetési jegyek állományát, valamint
+azok értékvesztését és értékelési különbözetét (összevontan) kell szerepeltetni. Az itt kimutatott
+állományból a PBB vállalkozásokban szerzett befektetések értékeit a 02. Tájékoztató adatok 1. táblában
+a Forgatási célú részvényekből (147-148.) sorokban részletezni kell. Az EKB honlapján megtalálható
+MFI-listában nem hitelintézeti és nem pénzpiaci alap kategóriába besorolt GMU egyéb intézmények
+befektetési jegyeit is a pénzpiaci alapok befektetési jegyei között (a 84. sorban) kell jelenteni.
+90. Befektetési célú értékpapírok (91+135)
+Ebben az eszközcsoportban azokat a nyílt körben kibocsátott, eredetileg hosszú lejáratú értékpapírokat és
+részesedéseket kell kimutatni, amelyeket elsősorban befektetésként, vagy hosszabb időre, tartós
+jövedelemszerzési céllal tart a hitelintézet. Itt kell feltüntetni továbbá a zárt körben kibocsátott valamennyi
+értékpapírt. Az értékpapírokat, részesedéseket az Szkr. szerint kell értékelni, de külön kimutatva bruttó könyv
+szerinti értéküket és – esetenként összevontan – értékvesztésük és értékelési különbözetük összevont
+egyenlegét. [A valós értéken történő értékelés alkalmazása nem érinti a befektetési célú minősítést
+(forgóeszközként vagy befektetett pénzügyi eszközként történő elszámolást).] A hitelintézet üzletszerű
+tevékenységét kisegítő saját járulékos vállalkozásokban (mind belföldön, mind külföldön) történt
+befektetéseket – függetlenül a befektetési céltól – kizárólag a Vagyoni érdekeltségek eszközcsoportban kell
+kimutatni. A felsorolás sorrendje követi a forgatási célú értékpapírokét, de külön kell bemutatni a zárt körben
+kibocsátott, hitelviszonyt megtestesítő értékpapírok állományát és az egyéb részesedéseket, üzletrészeket. A
+cégnyilvántartásba még nem bejegyzett vállalkozásokba történt befektetések (befizetett pénzbeli, vagy nem
+pénzbeli alapítói hozzájárulások) összegét is figyelembe kell venni, függetlenül attól, hogy a főkönyvben hol
+tartják nyilván. A szektoronkénti bontásnál az eredeti kibocsátó szerint kell az értékpapírokat besorolni, akkor
+is, ha értük valaki garanciát vállalt.
+91. Hitelviszonyt megtestesítő értékpapírok összesen (92+…+134)
+A 92. Államkötvény sorba a Magyar Állam által külföldön vagy belföldön kibocsátott különböző
+(kincstári, lakásfedezeti, államadóssági és egyéb, nem konszolidációs) államkötvények befektetési
+céllal tartott állományának értéke kerül. Az állam által átvállalt, korábban kibocsátott TB kötvény,
+valamint a kárpótlási jegyek befektetési céllal tartott állományának is itt kell szerepelnie. (A TB
+kötvények, valamint a kárpótlási jegyek állományát a 02. Tájékoztató adatok 1. táblában külön is ki
+kell mutatni.)
+A 93. sorban kell közölni a nem forgatási céllal tartott, a hitel-, bank- és adóskonszolidációk során
+kibocsátott konszolidációs államkötvények állományát.
+A 94. Helyi önkormányzatok kötvényei sorban a befektetési céllal megvásárolt önkormányzati
+kötvényeket kell kimutatni.
+
+HMK-1-01
+A 95. sorban a 92-94. sorokban szereplő kötvények értékvesztését és értékelési különbözetét
+(összevontan) kell feltüntetni.
+A 96-98. Jegybanki kötvény és Jegybanki kötvény értékvesztése, értékelési különbözete sorokban
+a jegybanki kötvényekkel együtt kell a befektetési céllal tartott KVH Rt. kötvényt, valamint azok
+értékvesztését és értékelési különbözetét (összevontan) kimutatni.
+A 99-101. Belföldi hitelintézetek kötvénye és Belföldi hitelintézeti kötvény értékvesztése, értékelési
+különbözete sorokban a belföldi hitelintézetek által kibocsátott befektetési céllal tartott kötvényeket, valamint
+azok értékvesztését és értékelési különbözetét (összevontan) kell kimutatni.
+A 102-105. sorok az egyéb pénzügyi közvetítők és a pénzügyi kiegészítő tevékenységet végzők
+befektetési céllal birtokolt kötvényeit tartalmazzák, pénzügyi és befektetési vállalkozások illetve egyéb
+intézmények bontásban.
+A 106. sorban a biztosítók által kibocsátott, befektetési céllal tartott kötvények állományát, a 107.
+sorban a 102-106. sorokban jelentett, az egyéb pénzügyi közvetítők, pénzügyi kiegészítő
+tevékenységet végzők és biztosítók által kibocsátott kötvények értékvesztését és értékelési különbözetét
+(összevontan) kell kimutatni.
+A nem pénzügyi vállalatok befektetési céllal tartott kötvényeinek könyv szerinti bruttó értékét a 108. és
+a 109. sorban, értékvesztését és értékelési különbözetét (összevontan) a 110. sorban kell jelenteni.
+A 111-112. sorokban a háztartásokat segítő nonprofit intézmények kötvényét, valamint azok
+értékvesztését és értékelési különbözetét (összevontan) kell szerepeltetni.
+A 113-114. sorokban az egyéb belföldiek által kibocsátott befektetési céllal tartott kötvényeket, valamint azok
+értékvesztését és értékelési különbözetét (összevontan) kell szerepeltetni.
+A 115-121. sorokban a külföldi állampapírok és külföldi kötvények állományát kell szerepeltetni GMU
+szektorok és egyéb külföldi szektorok szerinti bontásban. A GMU jegybankok által kibocsátott hitelviszonyt
+megtestesítő értékpapírokat a GMU MPI-k kötvénye között, az egyéb külföldi jegybankok által kibocsátott
+értékpapírokat az egyéb külföldiek kötvénye soron kell szerepeltetni, mivel azok nem felelnek meg a Tpt.
+szerint megfogalmazott állampapír kategóriának.
+A 122. sor a 115-121. sorokban jelentett értékpapírok értékvesztését és értékelési különbözetét
+(összevontan) tartalmazza.
+A 123-134. sorokban a zárt körben kibocsátott kötvényeket kell jelenteni, a 99-110. sorok tartalmának
+megfelelően.
+135. Tulajdoni részesedések összesen (136+…+161)
+Az ebben a részben szereplő szektorbontás megegyezik a forgatási célú részvények, részesedések
+részletezésével.
+A külföldi részesedések itt kimutatott állományából a hitelintézetben, pénzügyi, illetve befektetési
+vállalkozásban, valamint biztosító részvénytársaságban (PBB) szerzett befektetések (részesedések) értékeit a
+02. Tájékoztató adatok 1. táblában a Befektetési célú és vagyoni érdekeltség külföldi részvényekből sorokban
+részletezni kell. Az EKB honlapján megtalálható MFI-listában nem hitelintézeti és nem pénzpiaci alap
+kategóriába besorolt GMU egyéb intézmények befektetési jegyeit is a pénzpiaci alapok befektetési
+jegyei között kell jelenteni.
+162. Jegybanki és bankközi betétek (163+…+173)
+
+HMK-1-01
+Ebben a részben kell kimutatni a pénzeszközöknél nem szerepeltetett jegybanki betéteket, a
+hitelintézeteknél betéti szerződés keretében elhelyezett betéteket, a hitelintézetekkel kötött valódi
+penziós ügyletekből eredő követelések állományát, valamint a bankközi betétek értékvesztését.
+A 163-164. Jegybanknál elhelyezett betétek sorokban kell kimutatni a jegybanknál elhelyezett, a jegybanki
+nostro számláknál figyelembe nem vett valamennyi forint- és devizabetét állományát, ideértve a jegybanknál
+elhelyezett fix futamidejű, fel nem mondható forintbetéteket és a hitelintézetek saját fejlesztéseire elkülönített,
+jegybanknál ténylegesen elhelyezett betéteket is.
+A 165-166. Belföldi hitelintézeteknél elhelyezett betétek sorokban a belföldi hitelintézeteknél
+betétszerződés alapján elhelyezett forint- illetve devizaeszközöket kell szerepeltetni lejárati bontás szerint.
+A 167. sorban a más belföldi hitelintézettel szembeni valódi penziós ügyletekből eredő követelések
+állományát kell szerepeltetni (könyv szerinti bruttó értéken).
+A 168. sorban a 165-167. sorban szereplő eszközök értékvesztését kell jelenteni.
+A 169-173. sorokba a külföldi hitelintézetek betéteinek állománya – GMU és egyéb külföld szerinti
+megbontásban – és értékvesztése kerül.
+174. Hitelek (175+…+331)
+Ez a rész tartalmazza a hitelintézet által nyújtott hitelek és hitel jellegű követelések könyv szerinti
+bruttó állományát, valamint értékvesztését és értékelési különbözetét (összevontan) szektoronkénti és
+eredeti lejárat szerinti bontásban, esetenként hiteltípusok szerint is részletezve. A prolongált hiteleket
+az eredeti hitelszerződés szerinti lejáratnak megfelelően kell kimutatni. A megvásárolt hiteleket is
+ebben a részben, az eredeti hitelszerződésben szereplő eredeti lejárat szerint kell szerepeltetni. (Ha
+azonban a hitel megvásárlásakor a hitel lejáratára vonatkozóan szerződés-módosítás történt, akkor az új
+szerződésben szereplő lejárat tekintendő eredeti lejáratnak.) A rövid lejáratú (a nem pénzügyi
+vállalatoknál és a háztartásoknál az egyéb rövid lejáratú) hitelek között kell figyelembe venni a nem
+függővé tett, tehát a mérlegben követelésként a hármas számlaosztályban kimutatott esedékes, de nem
+kifizetett kamatok, kamatjellegű jutalékok összegét is. A hiteleknek tartalmazniuk kell a halasztott
+fizetéssel eladott eszközök, a saját tulajdonú értékpapírok kölcsönbeadásából eredő követelések,
+valamint az értékpapír kölcsönbevételekor a kölcsön futamideje alatt pénzben fizetett óvadék miatti
+követelések összegét is, annak a szektornak az „egyéb” hitelei között, amelyhez az eszközöket
+halasztott fizetéssel megvásárló vevő, az értékpapírt kölcsönbe adó, illetve kölcsönbe vevő tartozik. A
+beváltott bankgaranciák állományát a rövid lejáratú ill. az egyéb rövid lejáratú hitelek között kell
+jelenteni. A lakáscélú hitelek halasztott kamatának tőkésített összegében fennálló kamatkövetelések,
+valamint a tandíjhitelek türelmi idő alatt esedékes és a türelmi idő lejártáig elhalasztott kamatainak,
+kamatjellegű jutalékainak tőkésített összegében fennálló kamatkövetelések után képzett céltartalék
+állományát az érintett hitelekhez kapcsolódó értékvesztés sorokban kell kimutatni. A valódi penziós
+ügyletekre vonatkozó soroknak tartalmazniuk kell az egyéb határidős, swap és opciós ügyletek lezárása
+előtti pénzmozgásokból származó, mérlegtételként kimutatandó követeléseket (Szkr. 21. § (3)
+bekezdés).
+A 175-176. Központi költségvetésnek nyújtott hitel sorban kell feltüntetni a központi
+költségvetésnek közvetlenül nyújtott hiteleken felül az állam által szerződés vagy jogszabály alapján
+más pénztulajdonostól átvállalt hitelek állományát is. A korábbi TB kötvény-kibocsátásból eredő, 1995.
+végén átvállalt tartozást nem itt, hanem az államkötvények között kell kimutatni.
+A 177-178. sorokban a központi kormányzathoz sorolt egyéb intézmények részére nyújtott hitelek
+állományát kell jelenteni.
+
+HMK-1-01
+A 179. sorban a 175-178. sorokban jelentett hitelek értékvesztését és értékelési különbözetét
+(összevontan) kell kimutatni.
+A 180-182. sorok a helyi, megyei és a fővárosi önkormányzatok, intézményeik, valamint az e
+szektorba sorolt nonprofit intézmények részére nyújtott hiteleket, valamint azok értékvesztését és
+értékelési különbözetét (összevontan) tartalmazzák.
+A 183. Jegybanknak nyújtott hitel sorban kell szerepeltetni a jegybanknak nyújtott konzorciális hitel
+összegét bekerülési értéken, valamint a hitelintézet tulajdonába került külföldi MNB-tartozások
+állományát.
+A 184-185. Belföldi hitelintézeteknek nyújtott hitel sorokba kell beállítani a hitelintézetekkel
+szemben hitelszerződés alapján, illetve (a valódi penziós ügyleteken, a betétszerződéseken és az
+alárendelt kölcsöntőke-szerződéseken kívül) bármilyen megállapodás alapján ténylegesen fennálló
+követelések állományát (ideértve a számlavezetőként nyújtott hiteleket, valamint a más belföldi
+hitelintézet számára belföldön szervezett konzorciális hitelből a hitelintézet által nyújtott részt is). A
+184. sorban kell jelenteni a más belföldi hitelintézetnek eladott, illetve más belföldi hitelintézettől
+megvásárolt valutakészletekkel (úton lévő valuta), valamint a devizaszámla illetve valutakészlet
+ellenében történt forint bankjegy- és érme-kereskedelemmel kapcsolatos követelések hó végén fennálló
+állományát is.
+A 186. Belföldi hitelintézeteknek nyújtott kiegészítő alárendelt kölcsöntőke sorban a Hpt. 5. számú
+melléklete 19. pontja szerinti feltételek mellett nyújtott hiteleket, a 187. Hitelintézeteknek nyújtott
+alárendelt kölcsöntőke sorban a Hpt. 5. számú melléklete 10. és 11. pontjában foglalt feltételekkel
+nyújtott hiteleket kell szerepeltetni.
+A 188. Belföldi hitelintézeteknek nyújtott külföldi szervezésű hitel sorban kell feltüntetni a belföldi
+hitelintézetek külföldi tartozásainak a hitelintézet tulajdonába került állományát, valamint a belföldi
+hitelintézetek külföldi szervezésű konzorciális hiteleiből a hitelintézet által nyújtott részt.
+A 189. sor tartalmazza a belföldi pénzpiaci alapoknak nyújtott hitelek állományát.
+A 190. sor tartalmazza a belföldi pénzpiaci alapokkal kötött valódi penziós ügyletekből származó
+követeléseket.
+A 191. sor tartalmazza a belföldi hitelintézeteknek és pénzpiaci alapoknak nyújtott hitelek (184-190.
+sorok) értékvesztését és értékelési különbözetét (összevontan).
+A 192-231. sorok tartalmazzák az egyéb pénzügyi közvetítőknek, a pénzügyi kiegészítő tevékenységet
+végzőknek, valamint a biztosítóknak és nyugdíjpénztáraknak nyújtott hitelek, kiegészítő alárendelt és
+alárendelt kölcsöntőke, illetve a velük szemben fennálló valódi penziós ügyletekből származó
+követelések állományát lejárat szerinti bontásban, valamint azok értékvesztését és értékelési
+különbözetét (összevontan).
+A 232-241. sorban kell bemutatni a hitelintézet saját járulékos vállalkozásainak nyújtott hiteleket
+instrumentumok és lejárat szerinti bontásban. Az egyes sorokhoz tartozó útmutatást ld. a nem pénzügyi
+vállalatok (jár. váll. nélkül) rész megfelelő hitelsorainál.
+A 242-262. sorban a nem pénzügyi vállalatoknak nyújtott hiteleket kell részletezni instrumentumok és
+lejárat szerinti bontásban, a járulékos vállalkozások adatai nélkül.
+A 242. sor a nem pénzügyi vállalatok folyószámla hiteleit tartalmazza.
+
+HMK-1-01
+A 243-245. Nem pénzügyi vállalatok (Jár. váll. nélkül) – váltó sorban kell szerepeltetni a hitelintézet
+által leszámítolt, illetve a belföldi vevőkkel szembeni követelés ellenében kapott, nem leszámítolással
+szerzett – a nem pénzügyi vállalatok által kibocsátott – összes váltó értékét (ideértve az óvatolt,
+valamint a nem forgatható váltókat is) lejárat szerinti bontásban.
+A 246-248. Nem pénzügyi vállalatok (Jár. váll. nélkül) – megvásárolt követelés sorokba a nem
+pénzügyi vállalatokkal, mint végső adósokkal szembeni megvásárolt követelések (faktorálásból és
+forfetírozásból eredő követelések) kerülhetnek lejárat szerint megbontva. (A faktorálás általában rövid
+lejáratú, a forfetírozás éven túli lejáratú követelés megelőlegezést, vásárlást jelent.) A megvásárolt követelés
+lejárat szerinti besorolásakor a követelés-megvásárláskor nyújtott hitel eredeti lejáratát (és nem a
+megvásárolt követelés eredeti lejáratát) kell figyelembe venni.
+A 249-251. sorokban a nem pénzügyi vállalatoknak értékpapír vásárlásra nyújtott hiteleket kell
+kimutatni.
+A 252-254. Nem pénzügyi vállalatok (Jár. váll. nélkül) – lakáscélú hitel soroknak a lakásépítő
+vállalkozások, építőközösségek, lakásszövetkezetek, társasházak, stb. részére lakások illetve
+lakóparkok építésére nyújtott hitelek állományát kell tartalmazniuk lejárat szerint megbontva. A nem
+lakáscélú ingatlanok építésére, vásárlására nyújtott hiteleket – a jelzálogtól függetlenül – az egyéb
+hitelek között kell feltüntetni.
+A 255-257. Nem pénzügyi vállalatok (Jár. váll. nélkül) – egyéb hitele sorokban kell kimutatni a
+külön sorokban nem jelentett hitelfajtákat, illetve követeléseket, ideértve a halasztott fizetéssel eladott
+részesedés, illetve követelés még nem kiegyenlített összegét, a hitelintézet által saját kockázatára,
+visszkereseti kötelezettséggel kihelyezett állami alapjuttatás, az államtól lebonyolításra átvett
+pénzeszközökből – nem pénzügyi vállalatoknak – történt kihelyezések mérlegben szereplő összegét, a
+banki alapjuttatás címén fennálló követelések, a beváltott garanciák és az eseti hitelek, valamint a nem
+pénzügyi vállalatok számára Széchenyi-kártyához kapcsolódóan nyújtott hitelek állományát is. Ezeken
+a sorokon kell kimutatni a nem lakáscélú ingatlanvásárlási és építési hiteleket is, a jelzálogtól
+függetlenül. A 02. Tájékoztató adatok 1. táblában külön sorokon (136-139.) is ki kell mutatni az
+irodaházak, üzletházak, bevásárlóközpontok, stb. építésére nyújtott hitelek állományát az ott pontosított
+definíciónak megfelelő tartalommal.
+A 258-259. sorban a hitelintézet nem pénzügyi vállalatokkal szembeni, pénzügyi lízinggel kapcsolatos
+követeléseit az Szkr. által előírt (könyv szerinti bruttó) értéken kell szerepeltetni.
+A 260-262. sor a hitelintézet nem pénzügyi vállalatokkal szembeni összes valódi penziós ügylettel
+kapcsolatos követeléseit tartalmazza lejárat szerint bontva.
+A 263. sorban kell feltüntetni a járulékos vállalkozásoknak és az egyéb nem pénzügyi vállalatoknak
+nyújtott (a 232-262. sorokon jelentett) hitelek értékvesztését és értékelési különbözetét (összevontan).
+A 264-294. sorokban a háztartásokkal szembeni követeléseket (könyv szerinti bruttó értéken),
+valamint értékvesztésüket és értékelési különbözetüket (összevontan) kell kimutatni. A 264-280.
+sorokban a lakosságnak, a 281-294. sorokban az egyéni vállalkozóknak nyújtott hiteleket, valamint
+értékvesztésüket és értékelési különbözetét (összevontan) kell szerepeltetni. A megfelelő lakossági hitel
+sorokban a hitelintézet saját dolgozói részére nyújtott hitelek állományát is fel kell tüntetni. A
+bármilyen (devizabetét, értékpapír, egyéb pénzügyi eszköz, stb.) fedezet mellett nyújtott hitelt a hitel
+céljától függően a megfelelő sorban kell szerepeltetni.
+Külön sorokban kell jelenteni a háztartások folyószámla hiteleit (264. és 281. sorok), a lakossági
+fogyasztási hitelek állományát (265-267. sorok) és a háztartásoknak értékpapír vásárlására nyújtott
+hitelek állományát (268-270. és 282-284. sorok).
+
+HMK-1-01
+A 271-273. Háztartások – Lakosság – lakáscélú hitel sorokban kell közölni mind a támogatott,
+kedvezményes, mind a piaci feltételekkel nyújtott lakáscélú (építési, lakásvásárlási, ingatlanvásárlási,
+lakásfelújítási, lakásbővítési) hitel – jelzáloggal való terhelés mellett vagy anélkül nyújtott – összegét,
+ideértve a bankkölcsön, a lakáscseréhez nyújtott piaci kamatozású (áthidaló) hitelek és a lakástakarék-
+pénztárakkal kötött szerződéshez kapcsolódó azonnali hitelek állományát is. Az üdülő vagy garázs
+építésére, vásárlására nyújtott hitelek is lakáscélúnak tekintendők. A nem lakáscélú ingatlan hiteleket –
+a jelzálogtól függetlenül – az egyéb hitelek között kell feltüntetni. Az egyéni vállalkozók által
+értékesítési céllal épített lakásokkal kapcsolatban nyújtott hitelek állományát a 285-287. sorokban kell
+jelenteni.
+A 274-276. Háztartások – Lakosság – egyéb hitel és a 288-290. Háztartások – Egyéni vállalkozók
+– egyéb hitel sorok között kell jelenteni a lakosság, illetve az egyéni vállalkozók részére nyújtott,
+máshol nem szerepeltetett hiteleket (pl. tandíj hitel, záloghitel, nem lakáscélú ingatlanvásárlási, egyéni
+vállalkozók egyéb hitelei, stb.).
+A 288. Háztartások – Egyéni vállalkozók – egyéb hitel – rövid sorba kell besorolni az egyéni
+vállalkozók számára nyújtott, a Széchenyi-kártyához kapcsolódó hiteleket is.
+A 277-279. és a 291-293. sorokon a lakossággal és az egyéni vállalkozókkal kötött valódi penziós
+ügyletekből származó követeléseket kell lejárat szerinti bontásban szerepeltetni.
+A 280. sorban kell jelenteni a lakossági hitelek értékvesztésének és értékelési különbözetének
+összevont egyenlegén kívül a lakáscélú lakossági hitelek halasztott kamatának és a tandíjhitel
+kamatának céltartalékát is.
+A 295-302. sorok a Háztartásokat segítő nonprofit intézmények hiteleit, a valódi penziós
+ügyletekből eredő velük szembeni követeléseket, illetve ezek értékvesztését és értékelési különbözetét
+(összevontan) tartalmazzák.
+A 303-331. sorokban kell kimutatni a külföldiekkel (nem rezidensekkel) szemben forintban vagy
+devizában fennálló valamennyi követelés állományát (az értékpapírok és érdekeltségek kivételével),
+valamint értékvesztését és értékelési különbözetét (utóbbi kettőt összevontan). Itt kell kimutatni a
+külföldiek részére nyújtott alárendelt kölcsöntőkét is, amelyet a 02. Tájékoztató adatok 1. táblában
+külön ki kell emelni. A 303. és a 327. sorban kell jelenteni a GMU hitelintézeteknek és az egyéb
+külföldi banknak eladott, illetve azoktól megvásárolt valutakészletekkel (úton lévő valuta), valamint a
+devizaszámla illetve valutakészlet ellenében történt forint bankjegy- és érme-kereskedelemmel
+kapcsolatos követelések hó végén fennálló állományát is. Itt kell szerepeltetni a külföldiekkel kötött
+valódi penziós ügyletekből származó követelések állományát is. Az EKB honlapján megtalálható MFI-
+listában nem hitelintézeti és nem pénzpiaci alap kategóriába besorolt GMU egyéb intézményekkel
+szembeni követeléseket a GMU pénzpiaci alapokkal szembeni követelések között (a 305-306.
+sorokban) kell jelenteni.
+332. Vagyoni érdekeltségek (333+…+361)
+Ebben az eszközcsoportban kell kimutatni azokat a kevésbé mobilizálható befektetéseket, amelyeket a
+hitelintézet üzletpolitikai, illetve veszteségmérséklési célból szerzett, valamint a nem forgalomképes
+vagyoni érdekeltségeket szektor szerinti bontásban. A befektetéseket az Szkr. szerinti értéken kell
+szerepeltetni, külön kimutatva könyv szerinti bruttó értéküket, valamint értékvesztésüket és értékelési
+különbözetüket (összevontabban). (A valós értéken történő értékelés alkalmazása nem érinti a vagyoni
+érdekeltségi minősítést – a forgóeszközként vagy befektetett pénzügyi eszközként történő számviteli
+elszámolást.) Ide tartoznak a hitelintézet stratégiai, üzletpolitikai (illetve befolyásolási, irányítási,
+ellenőrzési) célját, a banki tevékenységet (pénzügyi vállalkozásként), a banküzem működtetését
+(járulékos vállalkozásként) tartósan szolgáló, az egyéb pénzügyi közvetítő és a pénzügyi kiegészítő
+tevékenységet végző intézményekben, valamint a veszteségmérséklés érdekében (hitel-tőke konverzió
+kapcsán) szerzett, illetve a tartósan a hitelintézet birtokában maradó (nem piacképes, tőzsdén és OTC-n
+
+HMK-1-01
+nem forgalmazott), vállalkozásokban lévő részvények, részesedések, vagyoni érdekeltségek, amelyek
+nem szerepelnek a befektetési célú részvények között. A cégnyilvántartásba még nem bejegyzett
+vállalkozásokba történt befektetések (befizetett pénzbeli, vagy nem pénzbeli alapítói hozzájárulások) összegét
+is figyelembe kell venni, függetlenül attól, hogy a főkönyvben hol tartják nyilván. Itt kell minden – a
+hitelintézet üzletszerű működését kiegészítő tevékenységet végző – saját járulékos vállalkozásokba történt
+befektetést kimutatni. Az „egyéb részesedések, üzletrészek” sorokban az olyan befektetéseket, vagyoni
+érdekeltségeket kell szerepeltetni, amelyek nem részvények.
+A 333-334. sorban az összes belföldi – Hpt. szerint meghatározott – hitelintézeti befektetés bekerülési értékét,
+valamint a befektetés értékvesztését és értékelési különbözetét (összevontan) kell feltüntetni.
+A 335-338. és a 341-344. sorokban az egyéb pénzügyi közvetítőkkel és a pénzügyi kiegészítő tevékenységet
+végzőkkel kapcsolatos összes vagyoni érdekeltség közül a pénzügyi vállalkozásokba és a befektetési
+vállalkozásokba történt befektetéseket kell kimutatni.
+A 339-340. és a 345-346. sorokban kell jelenteni a D) illetve E) szektorokba sorolt egyéb intézményekbe
+történt összes befektetést.
+A 347-348. sorokban a biztosító részvénytársaságokban és a nyugdíjpénztárakban szerzett összes részesedés
+értékét kell feltüntetni.
+A 349. sorban kell feltüntetni az egyéb pénzügyi közvetítőkben és pénzügyi kiegészítő tevékenységet
+végzőkben, valamint biztosítókban, nyugdíjpénztárakban lévő részesedés után elszámolt értékvesztést és
+értékelési különbözetét (összevontan).
+350-351. sor: itt kell a – hitelintézetek üzletszerű működését kiegészítő tevékenységet végző – saját járulékos
+vállalkozásokba történt minden befektetést kimutatni.
+A 352-353. sorokban a nem pénzügyi vállalatokban lévő valamennyi olyan befektetést kell feltüntetni, amely
+nem veszteségmérséklés során került a hitelintézet tulajdonába.
+A 354. sorban csak a nem pénzügyi vállalatok hitel-tőke konverzióból származó részvényeinek és egyéb
+üzletrészeinek állományát kell kimutatni. Az egyéb szektorok hitel-tőke konverzióból származó részvényeit,
+üzletrészeit a megfelelő vagyoni részesedés sorokban kell jelenteni.
+A 355. sorban a – 350-354. sorokban jelentett – nem pénzügyi vállalatokban lévő részesedések, üzletrészek
+értékvesztését és értékelési különbözetét (összevontan) kell kimutatni.
+A 356-357. és a 359. sorokban kell a nem-rezidens hitelintézetekkel, pénzügyi, befektetési, valamint járulékos
+vállalkozásokkal és biztosítókkal kapcsolatos összes külföldi befektetést jelenteni GMU és egyéb külföld
+bontásban, (függetlenül a szerzés módjától), s ezek összegét a 02. Tájékoztató adatok 1. táblában a Külföldi
+befektetésekből kiemelt részesedések között külön ki kell mutatni. Itt kell továbbá szerepeltetni az egyéb nem
+rezidensekkel kapcsolatos összes külföldi befektetést is, a 358. és 360. sorban jelentendő veszteségmérséklő
+befektetések kivételével.
+A 358. és 360. Hitel-tőke konverzióból származó külföldi részvények, részesedések, egyéb üzletrészek
+sorokban kell GMU és egyéb külföld bontásban jelenteni azokat a veszteségmérséklésként, hitel-tőke
+konverzióval szerzett külföldi vagyoni érdekeltségeket, amelyek nem hitelintézetekkel, pénzügyi, befektetési,
+vagy járulékos vállalkozásokkal, illetve biztosítókkal kapcsolatosak.
+
+HMK-1-01
+A 361. sorban kell feltüntetni a – 356-360. sorokban jelentett – külföldi részvények, részesedések
+értékvesztését és értékelési különbözetét (összevontan).
+362. Aktív kamatelhatárolások (363+…+377)
+A 363-377. Aktív kamatelhatárolások sorokba kell kerülnie a forint- és devizaügyletekkel
+kapcsolatos, forintban vagy devizában fennálló (a járó, de még nem esedékes) elhatárolt kamatok és
+kamatjellegű jutalékok összegének, szektoronkénti bontásban.
+378. Egyéb aktív elszámolások és egyéb eszközök (379+397+414+…+417)
+Az egyéb aktív elszámolások és egyéb eszközök sorokban kell szerepeltetni a külföldiekkel és
+belföldiekkel szembeni, forinttal, illetve devizával kapcsolatos valamennyi aktív elszámolást, ideértve
+az aktív időbeli elhatárolásokat is (a kamatelhatárolások kivételével). A halasztott fizetéssel eladott
+eszközök miatti követelések összegét a hitelek között kell jelenteni.
+379. Aktív elszámolás és egyéb aktív időbeli elhatárolás összesen (380+…+396)
+A 380-396. sorokban az aktív elszámolások és egyéb aktív időbeli elhatárolások között feltüntetendő –
+az egyes szektorokra jellemző – legfontosabb tételek a következők:
+Központi kormányzat (380. sor):
+Ebbe a sorba tartoznak az állami költségvetést illető adók – adónemenként nettósított –
+állománya, ha az egyes adónemek egyenlege Tartozik jellegű (ha Követel jellegű, akkor a forrás
+oldalon a 690. sorba kerül); a központi kormányzattal szembeni követelések; a
+Kereskedelempolitikai támogatás elszámolása; az Állami Fejlesztési Intézettel szembeni aktív
+pénzügyi elszámolások összege és az Állami Fejlesztési Intézettől lebonyolításra átvett, a nem
+pénzügyi vállalatok részére beruházáshoz állami alapjuttatásként, állami kölcsönként
+kihelyezett, a Felügyeleti mérlegben máshol még nem kimutatott, de a mérleg részét képező
+összegek, stb.
+Helyi önkormányzatok (381. sor):
+Itt kell kimutatni a befizetett helyi adók miatti, valamint az önkormányzatokkal,
+intézményeikkel és a hozzájuk sorolt nonprofit intézményekkel kapcsolatos egyéb követelések
+összegét.
+TB (382. sor.):
+Itt kell jelenteni a társadalombiztosítással (a Nyugdíjbiztosítási Alappal, valamint az
+Egészségbiztosítási Alappal és önkormányzataikkal) szembeni követelések összegét.
+Nem pénzügyi vállalatok (391. sor):
+Ebbe a sorba a Magyar Postával, illetve más nem pénzügyi vállalatokkal szembeni követelések,
+a külkereskedelmi ügyletekkel kapcsolatos elszámolások miatti követelések, a gazdasági
+társasággal – a hitelintézetek kivételével – kapcsolatos követelések, a nem pénzügyi
+vállalatokkal szembeni aktív pénzügyi elszámolások, a vevővel, szállítóval (ha a
+számlaegyenleg Tartozik jellegű) szembeni követelések kerülnek, ideértve az adásvételi
+szerződés alapján adott előlegeket is.
+Háztartások (lakosság és egyéni vállalkozók) (392-393. sor):
+Itt a munkavállalókkal és tagokkal szembeni egyéb, nem hitel jellegű követelések
+szerepelhetnek.
+Külföld (395. sor):
+Itt kell jelenteni a hitelintézet forint bankjegy- és érme forintszámla ellenében történt vételével
+vagy eladásával kapcsolatban nem rezidensekkel szemben fennálló követeléseit is.
+
+HMK-1-01
+Szektor szerint nem bontható aktív időbeli elhatárolás (396. sor):
+Itt azokat a nem kamat jellegű aktív időbeli elhatárolásokat kell jelenteni, amelyek valamilyen okból
+nem sorolhatók be valamelyik szektorhoz (pl. saját kibocsátású jelzáloglevelek elhatárolt
+árfolyamnyeresége, ha a kibocsátó és a forgalmazó nem azonos).
+397. Befektetési szolgáltatási tevékenységből adódó követelés összesen (398+…+413)
+Ebbe a részbe az Szkr. szerinti befektetési szolgáltatási tevékenységből eredő követelések állománya
+kerül. A szektorbontás megegyezik a kamatelhatárolásoknál lévő bontással.
+A 414. Függő tételek sor a mérleg zárásakor még hiányzó információk miatt (pl. pontatlan számlaszám
+megadás, stb.) véglegesen nem rendezett tételeket tartalmazza.
+A 415. Szövetkezeti visszafizetett részjegy sorban a szövetkezeti tagoktól visszavásárolt részjegyek
+ellenértékét kell szerepeltetni a jegyzett tőke módosítása esetén a Cégbíróság bejegyzéséig, amelyet követően
+a jegyzett tőke számvitelileg is rendeződik. Itt kell a jegyzett tőkét érintő visszafizetett más vagyoni
+hozzájárulást is kimutatni.
+A 416. Egyéb sorban kell kimutatni a PEK számla állományát Tartozik egyenleg esetén, valamint
+mindazokat a (nem időbelileg elhatárolt) tételeket, amelyek más eszköz-sorokban nem szerepelnek.
+A 417. sorban az egyéb aktív elszámolások és egyéb eszközök értékvesztését és értékelési különbözetét
+(összevontan) kell jelenteni.
+418. Saját eszközök (419+…+439)
+Ebben az eszközcsoportban a hitelintézet saját eszközeinek tekintendő tételek szerepelnek.
+A 419-421. sorban szerepel a hitelintézet által visszavásárolt saját, belföldön illetve külföldön
+kibocsátott kötvény és saját részvény állománya, abban az esetben is, ha követeléskiegyenlítés útján
+került a hitelintézethez.
+A 422. Egyéb saját eszközök sorban a hitelintézet összes olyan készletének állományát kell
+szerepeltetni, amelyet nem követelés ellenében kapott.
+A 423-424. sorokban külön ki kell mutatni a követelés ellenében kapott eszközök állományát,
+valamint az ezek után és a készletekre képzett értékvesztés fennálló állományát.
+A 425-439. sorban az immateriális javak és a tárgyi eszközök összegét az Szmt. által előírt értéken, a
+felsorolt részletezés szerint kell feltüntetni.
+A 425. Immateriális javak – vagyoni jogok sorban az ingatlanhoz nem kapcsolódó vagyoni jogok
+értékét kell jelenteni.
+A 426. sorban kell az immateriális javak között elszámolt szoftverállományt kimutatni.
+A 427. sorban kell az immateriális javak egyéb – külön soron nem kiemelt – állományát feltüntetni,
+beleértve az Szmt. 25. § (2) bekezdése szerint az immateriális javak között kimutatható alapítás-
+átszervezés aktivált értékét is.
+A 428. sorban a 425-427. sorban szereplő immateriális javak értékhelyesbítését kell jelenteni.
+
+HMK-1-01
+A 429. Pénzügyi és befektetési szolgáltatási célú tárgyi eszközök – elhelyezés bérleti joga sorban az
+intézmény elhelyezését szolgáló, vásárolt bérleti jogokat, a 430. sorban a pénzügyi és befektetési
+szolgáltatási célú ingatlanokhoz kapcsolódó egyéb vagyoni értékű jogokat kell jelenteni.
+A 431. illetve a 432. sorban a mérlegben közvetlen pénzügyi és befektetési szolgáltatási célú tárgyi
+eszközként szereplő ingatlanok illetve műszaki berendezések, gépek, felszerelések, járművek értékét
+kell jelenteni.
+A 433. sorban kell a pénzügyi és befektetési célú beruházásokat és a beruházásokra adott előlegeket is
+szerepeltetni.
+A 434. sorban kell kimutatni a pénzügyi és befektetési szolgáltatási célú tárgyi eszközök
+értékhelyesbítését.
+A 435-438. Nem pénzügyi és befektetési szolgáltatási célú tárgyi eszközök sorokban és a 439.
+sorban kell a nem a hitelintézet működéséhez kapcsolódó tárgyi eszközöket (beleértve a nem
+banküzemi ingatlanokat is) és értékhelyesbítésüket szerepeltetni. A 435. sorban kell kimutatni a
+szavatoló tőke számítása során levonandó, nem a pénzügyi intézmény elhelyezését szolgáló
+ingatlanokhoz kapcsolódó vagyoni értékű jogokat.
+A 440. Források összesen (441+559+580+632+650+668+709+722+727) sor megegyezik a
+Felügyeleti mérleg főbb forráscsoportjainak összegével.
+441. Betétek (442+…+558)
+Ez a rész szektoronkénti és lejárat szerinti bontásban tartalmazza a hitelintézet által a
+pénztulajdonosoktól szerzett betéteket, esetenként betétfajták szerint is részletezve. A saját tulajdonú
+értékpapírok kölcsönbe adásakor pénzben kapott óvadék összegét a lekötött betétek között kell
+jelenteni. A háztartások betétein belül a lakossági betétek között kell kimutatni a hitelintézet saját
+dolgozói számára vezetett betétszámlák állományát is. A valódi penziós ügyletekre vonatkozó soroknak
+tartalmazniuk kell az egyéb határidős, swap és opciós ügyletek lezárása előtti pénzmozgásokból
+származó, mérlegtételként kimutatandó kötelezettségeket is (Szkr. 21. § (3) bekezdés).
+A háztartások – lakosság által elhelyezett lakáscélú betéteket (megtakarításokat) a lakáscélú betét
+(505-506.) sorokban, a többi szektor lakáscélú betéteit a hosszú lejáratú lekötött betétek között kell
+jelenteni megfelelő futamidő szerint.
+A nem pénzügyi vállalatok látra szóló és folyószámla betétei (483. illetve 489.) sorokban
+szerepeltetendők a látra szóló és folyószámla betéteken kívül a pénzforgalmi (elszámolási) számlák és
+a csekkszámlabetétek is.
+A nem pénzügyi vállalatok lekötött betétei (484-486. illetve 490-492. sorok) között jelentendő a
+működési engedéllyel nem rendelkező (jövőbeli) hitelintézetek által a hitelintézetnél elhelyezett
+alaptőke összege is, függetlenül attól, hogy az alapítók belföldiek vagy külföldiek. A működési
+engedély hatálybalépésétől (azaz az erről szóló PSZÁF határozat keltétől) kezdve az összeg
+áthelyezendő a belföldi hitelintézetektől származó bankközi betétek közé.
+A névre szóló betéti okiratokat a megfelelő szektoroknál kell kimutatni vagy a külön ilyen néven
+szereplő sorokban, vagy az egyéb betétek között, illetve külföldiek esetén az egyéb kötelezettségek
+között. Szintén a megfelelő szektorba kell tenni azoknak a nem névre szóló betéti okiratoknak az
+állományát, amelyek csak egy meghatározott szektor részére lettek kibocsátva.
+A vegyes kibocsátású, nem névre szóló betéti okirattal szerzett források állományát – amennyiben
+nem megállapítható, hogy milyen szektor felé történt eladásuk – az 521-523. Szektor szerint nem
+
+HMK-1-01
+bontható betéti okirat sorokban kell szerepeltetni. Ha a vegyes kibocsátásúakról az eladáskor mégis
+eldönthető, hogy milyen szektorba kerültek, azokat is a megfelelő szektornál kell feltüntetni. Az
+okiratban lekötött betétek állományában szerepeltetni kell a több évre lekötött takaréklevél és
+takaréklevél jellegű betétekre az egy-egy év elteltével felhalmozódott kamat állományát is, akkor is, ha
+az egyes évek letelte után összegük nem kerül tőkésítésre. (Az év közben felhalmozódott – az
+ügyfélnek járó, de nem esedékes – kamatok összegét a passzív kamatelhatárolások között kell ezekre a
+betétekre is kimutatni.)
+559. Monetáris intézményektől származó betétek (560+…+579)
+Ebben a részben kell jelenteni a más belföldi, illetve a külföldi hitelintézetektől, valamint pénzpiaci
+alapoktól származó, betétszerződés alapján szerzett források, loro számlák állományát. Amennyiben a
+loro számlák egyenlege a hó végén Tartozik jellegű, akkor ezt az egyenleget nem negatív előjelű
+forrásként, hanem monetáris intézményekkel szembeni rövid lejáratú követelésként (hitelként) kell
+kimutatni, mivel ez rövid lejáratú hitelnyújtást jelent. Az 560. és 564. sorokba a loro számlákon kívül a
+hitelintézetek illetve a pénzpiaci alapok látra szóló betéteit is bele kell érteni (amelyek az 1
+/munka/napos betéteket is tartalmazzák). Ugyanilyen tartalommal kell jelenteni a külföldiek loro
+számláit is.
+A működési engedéllyel nem rendelkező (jövőbeli) hitelintézetek által a hitelintézetnél elhelyezett
+alaptőke összegét a nem pénzügyi vállalatok lekötött betétei között kell szerepeltetni. A működési
+engedély hatálybalépésétől (azaz az erről szóló PSZÁF határozat keltétől) kezdve azonban az összeg
+áthelyezendő a belföldi hitelintézetektől származó bankközi betétek közé.
+A már működő belföldi hitelintézetek alaptőke-emelésében közreműködő hitelintézetnek a hozzá
+tőkeemelésre befolyt összegeket – a tőkeemelés Cégbírósághoz történő benyújtásáig – az egyéb passzív
+elszámolások között (a 708. Egyéb soron) kell kimutatnia. A Cégbírósághoz történt benyújtás után ezen
+összegeket szintén a belföldi hitelintézetektől származó betétek közé kell áthelyezni.
+580. Felvett hitelek (581+…+631)
+Itt kell kimutatni minden hitelfelvételből vagy egyéb megállapodás alapján szerzett olyan forrást, amely
+a jegybanktól (581-584. sorok), belföldi hitelintézettől (585-589. sorok), pénzpiaci alapoktól (590. sor),
+egyéb pénzügyi közvetítőktől (591-596. sorok) és pénzügyi kiegészítő tevékenységet végzőktől (597-
+602. sorok), biztosítóktól és nyugdíjpénztáraktól (603-605. sorok), GMU jegybankoktól, az EKB-tól,
+GMU tartalékolási kötelezettség alá eső és nem eső monetáris pénzügyi intézményektől (610-614. és
+615-619. sorok), egyéb GMU szektoroktól (620-622. sorok), egyéb külföldi bankoktól (623-625.
+sorok), külföldi kormányoktól, vagy nemzetközi intézményektől illetve egyéb külföldiektől (626-628.
+illetve 629-631. sorok) származik. A 626-628. sorokban jelentendők az EU területén működő
+nemzetközi intézményektől, valamint az EU nemzetközi intézményeitől (kivéve az EKB-t) felvett
+hitelek is. A külföldi bankjegy- és érme-kereskedelemmel, valamint a devizaszámla illetve
+valutakészlet ellenében történt forint bankjegy- és érme-kereskedelemmel kapcsolatos tartozásokat a
+rövid lejáratú tartozások között – a más belföldi hitelintézettel kapcsolatos állományokat az 585.
+sorban, a külföldi bankokkal szembeni tartozásokat a 610., 615., illetve 623. sorokban – kell jelenteni.
+Az OTIVÁ-tól és TAKIVÁ-tól felvett hiteleket nem a többi pénzügyi kiegészítő tevékenységet végző
+adataival együtt az 597-602. sorban, hanem a 607-609. sorokban kell szerepeltetni.
+
+HMK-1-01
+A 606. sorban a szövetkezeti formában működő hitelintézeteknél a tagoknak a hátrasorolt
+kötelezettségekhez nem tartozó, más vagyoni hozzájárulását kell feltüntetni.
+A 607-609. sorokban az egyéb – pl. takarékszövetkezeteknek az OTIVÁ-tól illetve a TAKIVÁ-tól –
+felvett hitel fennálló állományát kell jelenteni lejárat szerinti bontásban.
+632. Saját kibocsátású hitelviszonyt megtestesítő értékpapírok (633+…+649)
+Ebben a forráscsoportban a hitelintézet által kibocsátott kötvények (hitelviszonyt megtestesítő értékpapírok) és
+letéti jegyek, valamint az egyéb, külön jogszabályban meghatározott értékpapírok értékét kell feltüntetni. (A
+betéti okiratban lévő, nem értékpapírnak számító betéteket a Betétek részben kell kimutatni.)
+A 633-646. sorokban a belföldi, a 647-649. sorokban a külföldi kibocsátású hitelviszonyt megtestesítő
+értékpapírokat kell szerepeltetni.
+Az olyan hitelviszonyt megtestesítő értékpapírok állományát, amelyek jogszabály szerint tulajdonosi
+jogviszonyt megtestesítő értékpapírokká átalakíthatók, külön (a 636-637. Átváltoztatható kötvény) sorokban
+kell feltüntetni.
+A 641-643. Egyéb értékpapírok sorokban kell szerepeltetni a külön jogszabály alapján kibocsátott
+értékpapírok (pl. jelzáloglevél) állományát.
+Külön sorokban kell jelenteni a zárt körben kibocsátott (644-646. sorok), valamint a külföldön kibocsátott
+értékpapírokat (647-649. sorok).
+A belföldön kibocsátott értékpapírok szektorális bontását a 02. Tájékoztató adatok 1. táblában kell jelenteni.
+650. Passzív kamatelhatárolások (651+…+667)
+Itt kell feltüntetni az Szkr. szerint elszámolandó passzív időbeli elhatárolások közül a (járó, de még nem
+esedékes) kamatokat és kamatjellegű jutalékokat (a takaréklevelek és takaréklevél jellegű betétek betéti
+okiratok állományában szerepeltetett, korábbi években felhalmozódott kamata nélkül), szektoronként bontva.
+668. Egyéb passzív elszámolások (669+670+671+688+689+708)
+Az egyéb passzív elszámolások sorokban kell szerepeltetni a külföldiekkel és belföldiekkel szembeni,
+forintban, euróban és egyéb devizában fennálló valamennyi egyéb passzív elszámolást, ideértve a
+passzív időbeli elhatárolásokat is (a kamatelhatárolások kivételével), az úton lévő és a függő tételeket,
+valamint egyéb tételeket.
+A 669. Úton lévő tételek sorban kell szerepeltetni az úton lévő forint és devizatételeket egyaránt.
+Ideértendő például a “Giro indított és fogadott tételek elszámolási számla”, valamint a PEK számla
+állománya Követel egyenleg esetén. Az úton lévő devizatételek, illetve a deviza elszámolásokkal
+kapcsolatos forintösszegek közé értendők például a hitelintézethez beérkezett, de az ügyfelek számláján
+még nem jóváírt, illetve az ügyfelek számlájáról már leemelt, de a deviza nostro számlákról még el
+nem indított összegek (pl. a hó végét követő értéknappal jóváírandó, illetve elindítandó összegek). A
+fiókok közti, valamint a központ és a fiókok közti (belső klíring) elszámolási számlák a hónap végére –
+helyes könyvelés esetén – egyenleget nem mutathatnak. (A mérleg lezárására biztosított 3 napos
+határidő lehetővé teszi a hibás tételek korrigálását.)
+A 670. Függő tételek sor a beszámolás napján a hiányzó információk miatt (pl. pontatlan számlaszám
+megadás miatt nem ismert ügyfél esetén, stb.) véglegesen még nem rendezett tételeket tartalmazza.
+
+HMK-1-01
+671. Befektetési szolgáltatási tevékenységből származó forrás (672+…+687)
+Ezeken a sorokon az Szkr. szerint ilyen címen fennálló kötelezettségeket kell feltüntetni szektor szerinti
+bontásban.
+A 688. Államtól továbbkölcsönzésre folyósított pénzeszköz sorba a hitelintézet mérlegében szereplő, az
+államtól átvett valamennyi világbanki forrást, valamint azokat az államtól származó egyéb forrásokat kell
+jelenteni, amelyeket a hitelintézet saját kockázatára továbbkölcsönzött (Szkr. 5. § (5) bekezdés b) pont).
+689. Passzív elszámolás és egyéb passzív időbeli elhatárolás (690+...+707)
+A 690-707. sorokban kell szerepeltetni a külföldiekkel és belföldiekkel szembeni, forinttal, euróval, illetve
+egyéb devizával kapcsolatos valamennyi passzív elszámolást, ideértve a passzív időbeli elhatárolásokat is (a
+651-667. sorokban szerepeltetett kamatelhatárolások kivételével).
+A passzív elszámolások és egyéb passzív időbeli elhatárolások között feltüntetendő – az egyes
+szektorokra jellemző – legfontosabb tételek a következők:
+Központi kormányzattal szemben (690. sor):
+Ebben a sorban szerepel a központi költségvetéstől lebonyolításra átvett, de folyósításra még
+nem került kölcsön állománya (ha a főkönyvi számla összevont egyenlege Követel jellegű); a
+központi kormányzattal szembeni tartozások állománya, ideértve az adótartozások
+adónemenként nettósított összegét, ha az egyes adónemek egyenlege Követel jellegű; a
+Munkaerőpiaci Alappal kapcsolatban kimutatott kötelezettség értéke; az Állami Fejlesztési
+Intézettel szemben még fennálló passzív elszámolások összege, stb.
+Helyi önkormányzatokkal szemben (691. sor):
+Itt a helyi önkormányzatokkal szembeni tartozások (pl. helyi adók) szerepelnek.
+TB-vel szemben (692. sor): ide kell kerülnie a társadalombiztosítással (a Nyugdíjbiztosítási
+Alappal, valamint az Egészségbiztosítási Alappal és önkormányzataikkal) szembeni tartozások
+állományának.
+Hitelintézetekkel szemben (694. sor):
+Itt az Szkr. szerint hitelintézeti kötelezettségként kimutatandó, más hitelintézetektől
+lebonyolításra átvett és még nem továbbadott hitelek összege (ideértve a konzorciális
+hitelnyújtás keretén belül a szervező bankhoz a hitelnyújtó hitelintézet által átutalt hiteleket is,
+illetve a végső adós (hitelfelvevő) által átutalt törlesztő részletek lebonyolító (szervező) bank
+által még nem továbbutalt összegét), valamint a hitelintézetekkel szembeni passzív pénzügyi
+elszámolások és egyéb passzív időbeli elhatárolások szerepelnek.
+Nem pénzügyi vállalatokkal szemben (701. sor):
+Ide a beruházási szállítókkal, az egyéb belföldi szállítókkal, illetve vevőkkel (ha a számla
+egyenlege Követel jellegű) szembeni tartozások, a nem pénzügyi vállalatokkal szembeni passzív
+pénzügyi elszámolások és egyéb passzív időbeli elhatárolások, stb. kerülnek.
+Háztartásokkal (lakosság és egyéni vállalkozók) szemben (702-703. sor) és Háztartásokat
+segítő nonprofit intézményekkel szemben (704. sor):
+Itt a munkavállalókkal és tagokkal kapcsolatos passzív elszámolások (jövedelem elszámolás, fel
+nem vett járandóság és egyéb elszámolások) és egyéb passzív időbeli elhatárolások, valamint a
+háztartásokat segítő nonprofit intézményekkel szembeni passzív elszámolások összegét kell
+feltüntetni.
+
+HMK-1-01
+Külföld (705. sor):
+Itt kell jelenteni a hitelintézet forintszámla ellenében történt forint bankjegy- és érme-
+kereskedelemmel kapcsolatban nem rezidensekkel szemben fennálló tartozásait is.
+Szektor szerint nem bontható passzív időbeli elhatárolás (706. sor):
+Itt azokat a nem kamat jellegű passzív időbeli elhatárolásokat kell jelenteni, amelyek valamilyen okból
+nem sorolhatók be valamelyik szektorhoz (pl. saját kibocsátású jelzáloglevelek elhatárolt
+árfolyamvesztesége, ha a kibocsátó és a forgalmazó nem azonos).
+Passzív időbeli elhatárolások működési költségekre (707. sor):
+Ebbe a sorba a passzív időbeli elhatárolásokból külön ki kell emelni a beszámolási időszakot
+érintő működési költségek összegét.
+A 708. Egyéb sorba kerülnek mindazok a forrásoldali mérlegtételek (kivéve a passzív időbeli
+elhatárolásokat), amelyek más forrás sorokban nem szerepelnek. Itt kell például kimutatni a más
+munkáltató által a hitelintézethez lebonyolításra átadott munkáltatói hitelekből a címzettnek még nem
+továbbított összeget, valamint a hitelek törlesztő részleteiből a hitelintézet által a munkáltatónak még
+nem átadott részt. Ezen a soron kell nyilvántartania hitelintézeti alaptőke-emeléskor az alaptőke-
+emelést végrehajtó banknak az alaptőke-emelés összegéből a tőkeemelés Cégbírósághoz történő
+benyújtásáig befolyt összegeket – amennyiben részben, vagy egészben ő a forrásgyűjtő bank. Itt kell
+szerepeltetnie továbbá a már működő belföldi hitelintézetek alaptőke-emelésében közreműködő (a
+tőkeszámlát vezető) hitelintézetnek a hozzá tőkeemelésre befolyt összegeket – a tőkeemelés
+Cégbírósághoz történő benyújtásáig. A Cégbírósághoz történt benyújtás után ezek az összegek a
+belföldi hitelintézetektől származó betétek közé sorolandók, ameddig átutalásuk az alaptőke-emelést
+végrehajtó hitelintézet számlája javára még nem történt meg. Itt kell szerepeltetni a számviteli
+szabályok szerinti valós értéken történő értékelésből adódó, forrás oldalon elszámolandó
+(hitelintézetekkel, illetve ügyfelekkel szembeni, valamint a származékos ügyletek negatív) értékelési
+különbözeteket is.
+709. Hátrasorolt és vagyoni kötelezettségek (710+…+721)
+Itt kell a hátrasorolt kötelezettségnek számító alárendelt, valamint a kiegészítő alárendelt kölcsöntőkét, a
+tulajdonossal szembeni vagyoni kötelezettséget és az egyéb hátrasorolt kötelezettséget kimutatni. A
+csoportosításnál külön kell választani a külföldiektől és a belföldiektől származó részt. Szintén itt kell
+szerepeltetni a szövetkezeti formában működő hitelintézeteknek a – Cégbírósághoz bejegyzés céljából be nem
+nyújtott – részjegytőkét, vagyoni hozzájárulást, stb.
+A 710. és 713. “Alárendelt kölcsöntőke – szavatoló tőkénél figyelembe vehető” sorokban a Hpt. 5.
+sz. mellékletének 10. pontjában ilyenként meghatározott alárendelt kölcsöntőke szerződés szerinti
+összegének az 5. sz. melléklet 11. pontjában foglaltak szerinti évenkénti fokozatos csökkentés után
+fennmaradó része szerepelhet.
+A 711. és 714. “Alárendelt kölcsöntőke – szavatoló tőkénél NEM figyelembe vehető” sorokban a
+törvényi előírásnak megfelelően az alárendelt kölcsöntőkének – a Hpt. 5. számú melléklet 11. pontja
+szerint – a szavatoló tőke értékébe nem beszámítható részét kell szerepeltetni. Az alárendelt kölcsöntőke
+fokozatos – a visszafizetési időpontot megelőző öt év során történő évenkénti – csökkentésének összegét a
+lejárat szerinti időpontban egy összegben kell számításba venni, és ezt kell ezekben a sorokban feltüntetni.
+Deviza esetén a csökkentés nagyságát a szerződés szerinti alárendelt kölcsöntőke devizaértéke határozza meg.
+(A szavatoló tőkébe való beszámíthatóság korlátja nem érinti az alárendelt kölcsöntőke könyv szerinti értékét,
+az a visszafizetésig továbbra is a szerződés szerinti értéken szerepel a főkönyvben!)
+A 712. és 715. Kiegészítő alárendelt kölcsöntőke sorokban a Hpt. 5. sz. mellékletének 19. pontjában
+ilyenként meghatározott kölcsöntőke teljes összegét kell szerepeltetni.
+
+HMK-1-01
+A 716. Szövetkezeti részjegy, vagyonjegy sorban a szövetkezeti formában működő hitelintézeteknek a
+tulajdonukat képező részjegy állományt és vagyonjegyalapot, a 717. Szövetkezeti egyéb vagyoni
+hozzájárulás sorban a bankkonszolidáció során kapott vagyoni hozzájárulást, valamint a fel nem
+sorolt, de a szövetkezeti hitelintézet számára hátrasorolt kötelezettségnek számító egyéb állományt (pl.
+a konszolidációhoz nem kapcsolódó vagyoni hozzájárulást) kell jelenteni. A kétszeres számbavétel
+elkerülése érdekében azok a szövetkezeti jegyzett tőke elemek, amelyek a 728. Jegyzett tőke sorban
+figyelembe lettek véve, nem szerepelhetnek a 716-717. sorokban.
+722. Céltartalék (723+…+726)
+Ebben a csoportban a forrás oldalon kimutatandó – a Hpt., a számviteli és külön jogszabályi előírások szerinti
+képzés és felhasználás (illetve felszabadítás) különbségeként előálló – kockázati és egyéb céltartalékok
+beszámolás napján fennálló állománya szerepel.
+A 723. Függő és jövőbeni kötelezettség utáni céltartalék sorban a mérlegen kívül nyilvántartott függő és
+jövőbeni kötelezettségek után képzett kockázati céltartalékok beszámolás napján fennálló együttes összegét
+kell jelenteni.
+A 724. Általános kockázati céltartalék sorban – a Hpt. és a számviteli szabályok által előírt – általános
+kockázati céltartalék meglévő állományát kell szerepeltetni.
+A 725. sorban kell külön feltüntetni a lakás-takarékpénztárak kiegyenlítési céltartalékának állományát.
+A 726. Egyéb céltartalék sorban kell a számviteli, illetve az egyéb jogszabály által előírt céltartalékok
+beszámolás napján fennálló állományát szerepeltetni.
+727. Saját tőke (728+…+738)
+Ebben a sorban kell összesíteni az évközi, illetve év végi saját tőke elemek állományát, amelyet a részletező
+sorokban a számviteli előírásoknak megfelelően kell feltüntetni.
+A 728. Jegyzett tőke sorban – az Szmt. által meghatározottak szerint – a Cégbíróságon bejegyzett tőke
+összegét kell feltüntetni. A fióktelepként működő hitelintézet esetén a jegyzett tőke sorban a dotációs tőkét
+kell feltüntetni. A szövetkezeti hitelintézetek esetében itt azt a (részjegy, vagyoni hozzájárulás) tőke összeget
+kell kimutatni, amelyet a Cégbíróságon már bejegyeztek, függetlenül annak a szövetkezetnél külön
+nyilvántartott összetételétől. Tőkeleszállítás esetén a cégbírósági bejegyzésig a jegyzett tőke értéke
+változatlan, de a visszafizetett tőke (részjegy) összeget nem itt, hanem a számviteli előírások szerint (a
+415. sorban) kell kimutatni. Hitelintézeti alaptőke-emeléskor az alaptőke-emelés összegéből a
+tőkeemelésnek a Cégbíróságnál történő bejegyzéséig a befolyt összegeket az alaptőke-emelést
+végrehajtó banknak – amennyiben részben vagy egészben ő a forrásgyűjtő bank – az egyéb passzív
+elszámolások között a 708. Egyéb soron kell nyilvántartania.
+A 729. Jegyzett, de be nem fizetett tőke sorban a jegyzett tőke még be nem fizetett összegét kell kimutatni
+negatív előjellel.
+730-731. Tőketartalék sorok: a számviteli szabályok szerinti tőketartalékokat a 730. ázsió és 731. egyéb
+tőketartalék sorokban részletezve kell feltüntetni. A 730. “Tőketartalék – ázsió” sorban azt az ázsió összeget,
+amely a Cégbíróságnál még be nem jegyzett tőkeemeléssel kapcsolatos, de amelyre vonatkozóan a szükséges
+dokumentumok benyújtása a Felügyelethez már megtörtént, addig nem lehet itt figyelembe venni, amíg
+számvitelileg nincs rendezve, azonban a változást a 3A Szavatoló tőke táblában jelezni kell. A 731.
+
+HMK-1-01
+“Tőketartalék – egyéb” sorban kell a szövetkezeti formában működő hitelintézeteknek az 1994. június 30-ai
+ingatlanátértékeléshez kapcsolódó tőketartalékot jelenteniük.
+A 732-734. Eredménytartalék sorokban külön kell feltüntetni az előző évek után képződött (a 732. sorban),
+az előző év végi nyereségből tartalékként tervezett, de közgyűlés által még jóvá nem hagyott (a 733. sorban)
+és az egyéb módon (pl. átvétel útján) keletkezett eredménytartalékot (a 734. sorban).
+A 733. Eredménytartalék – előző évi előzetes eredményből sort csak a mérleg fordulónapját követően az
+előző évet lezáró, a közgyűlés által jóváhagyott éves beszámoló (auditált mérleg) megjelenéséig lehet
+kitölteni. Itt a jogszabályi előírások szerint kötelezően elszámolandó tételek (tartalékok, adófizetés)
+figyelembe vétele után az előzetes eredményből megmaradó, de a tervezett osztalékfizetést nem tartalmazó, –
+a későbbiek során várható eredménytartalékként szereplő – mérleg szerinti eredményt kell kimutatni.
+A 735. Lekötött tartalék sorban a számviteli szabályok szerint meghatározott összeg szerepelhet.
+A 736. Értékelési tartalék sorban a Hpt. által előírt és a számviteli szabályok szerint megképzett értékelési
+tartalékokat kell feltüntetni, amelyek egyrészt az értékhelyesbítésből, másrészt a valós értékelésből
+adódnak.
+A 737. Általános tartalék sorban a Hpt. 75. paragrafus (2) bekezdése által előírt és a számviteli szabályok
+szerint megképzett és rendelkezésre álló általános tartalékot kell kimutatni. (Az 1997. január 1-jét
+megelőzően megképzett és veszteségrendezésre még fel nem használt általános tartalékot továbbra is itt kell
+nyilvántartani.)
+A 738. Mérleg szerinti eredmény (év közben Eredmény) sorba az Eredménykimutatás (07. tábla) alapján
+kiszámított (halmozott) eredményt kell feltüntetni. (A devizaoszlopban nem szerepelhet összeg!) Év közben
+ez az eredmény az eredményszámlák lezárása utáni – a bevételeknek, ráfordításoknak és költségeknek – a
+társasági adóelőleg befizetett összegével csökkentett egyenlege. Év végén az előzetes eredménynél az
+(előzetes adatok alapján meghatározott) adófizetési kötelezettséggel számított összeget kell figyelembe venni.
+Az év végi végleges adat az éves beszámoló mérleg szerinti (auditált) eredménye.
+02. tábla: Tájékoztató adatok 1.
+1. Fedezetek, biztosítékok (Teljes értéken) (2+…+12)
+Az ügyfelektől kapott fedezeteket, biztosítékokat – a szabályok szerinti értékelésnek megfelelően – a
+hitelintézetnél nyilvántartott teljes értékük figyelembevételével kell kimutatni. (A teljes érték a
+jogszabálynak illetve a hitelintézet belső szabályzatának megfelelő aktuális nyilvántartási értéket
+jelenti.) A b) és c) euró illetve egyéb deviza oszlopban a devizában kapott fedezetnek forintban
+kimutatott értékét kell szerepeltetni.
+Az ügyfelekkel (ideértve a pénzügyi intézményeket és a pénzügyi szektorba tartozó többi szervezetet is)
+szemben a vonatkozási időpontban fennálló összes követelés (azaz a mérlegben kimutatott követelések –
+köztük a halasztott fizetéssel eladott eszközök utáni követelések –, valamint a mérlegen kívüli vállalt
+kötelezettségek) mögé állított fedezeteket és biztosítékokat kell feltüntetni az alábbi részletezésben:
+A 2. Pénzfedezet sorban a hitelintézetnél az óvadékként lekötött összeget (zárolt számlát) és az óvadékul
+kapott (letétbe helyezett) betéti okiratokat kell kimutatni. E soron kell szerepeltetni az óvadékként lekötött
+devizabetéteket.
+A 3. Bankgaranciák között a más hitelintézettől kapott garanciát, illetve a hitelintézeti készfizető kezességet
+kell szerepeltetni, így ide számít az olyan leszámítolt váltó, amelynek korábbi forgatmányosai között
+hitelintézet is szerepelt. (Az Eximbank saját kockázatára – és nem központi költségvetési garanciára – nyújtott
+bankgaranciáját itt kell feltüntetni.)
+
+HMK-1-01
+A 4. Központi költségvetés garanciái sorban kell feltüntetni a hitelintézeti követelés mögé –
+jogszabályban vagy szerződésben biztosított – a központi költségvetés készfizető kezességeként állított
+fedezeteket. (Itt kell kimutatni a központi költségvetés Eximbank közvetítésével biztosított készfizető
+kezességét is, de csak az állami garancia mértékéig.)
+Az 5. Egyéb állami, illetve állami tulajdonú szerv garanciái sorban kell szerepeltetni az egyéb állami,
+illetve állami tulajdonú szervek által jogszabályban biztosított vagy szerződésben vállalt garanciákat, illetve
+készfizető kezességet. (Itt kell feltüntetni pl. a Hitelgarancia Rt. közvetítésével biztosított állami garanciákat
+is.)
+A 6-7. Értékpapírok sorban külön kell kimutatni a kapott értékpapír fedezeteket részvény, illetve egyéb
+értékpapír bontásban.
+A 8-9. sorban az ügyfelek által nyújtott biztosítékok közül az árbevétel-, illetve az egyéb követelés-
+engedményezést külön sorban kell részletezni. Itt csak azokat a összegeket lehet figyelembe venni,
+amelyek az ügyféllel kötött engedményezési szerződés alapján az ügyfél könyveiben a beszámolás
+időpontjában érvényes vevőkövetelésként szerepelnek. Az „árbevétel engedményezés”, mint kapott
+fedezet esetében az ügyfél nyilvántartásaiban lévő vevőkövetelésnek a jogilag fennálló hátralévő, még
+nem törlesztett összegét kell figyelembe venni. Ugyanez vonatkozik a követelésengedményezésre is.
+A 10. Árukészletre bejegyzett zálogjog sorban az árukészlettel (közjegyzői okiratba foglalt zálogjogként)
+biztosított fedezet értékét kell kimutatni.
+A 11. Jelzálogok sorban csak az ingatlanra vagy egyéb zálogtárgyra jelzálogjogként bejegyzett és
+nyilvántartott fedezeteket kell feltüntetni.
+A 12. Egyéb sorban szerepelnek az előzőekben nem kiemelt biztosítékok, fedezetek (pl. a hitelek
+fedezetéül szolgáló egyéb biztosíték, kézizálog, célbetét, stb.). A készfizető kezességet legfeljebb a
+követelés erejéig kell figyelembe venni.
+Azoknál a fedezeteknél, amelyeket jogszabály, vagy szerződés alapján nem lehet teljes egészében,
+egyszerre bevonni a követelés rendezésébe, a beszámolási időszakban rendelkezésre álló fedezetből
+csak az egy összegben (pl. munkabérből való levonhatóság erejéig) teljesíthető részt lehet figyelembe
+venni.
+13. Fedezetek, biztosítékok (követelés értékéig) (14+…+24)
+Itt ugyanazokat a követeléseket kell figyelembe venni, mint az előző részben, de a fedezeteket itt nem
+teljes értékben, hanem csak a követelés bruttó (tőke és időarányosan járó, de még meg nem fizetett kamat –
+ideértve az Szkr. szerint függővé tett kamatokat is) értékéig kell kimutatni az 1. sor részletezése szerint. Ha
+egy követelés mögött többféle fedezet áll, akkor a mögöttes fedezetek részletezését a hitelintézet
+fedezetekre vonatkozó belső szabályzatának és rendszerének megfelelő prioritással és aktuális értékkel
+kell a követelés erejéig feltüntetni. A “túlbiztosított” eszközök esetében a fedezetek értékét legfeljebb a
+követelés erejéig lehet figyelembe venni. A követelés értékét meghaladó többletfedezetek nem vehetők
+figyelembe. A követelés értékét el nem érő fedezeteket teljes mértékben, de a fedezetértékelési
+szabályoknak megfelelő értéken kell számításba venni.
+
+HMK-1-01
+25. Comfort letter-rel fedezett követelések
+A 25. sorban csak azokat az ún. “erős” ígérvényeket lehet figyelembe venni, amelyekben legalább arra
+vállalnak garanciát, hogy a vállalkozást – minden esetben – a meglévő jó állapotban tartják. Az ilyen
+ígérvényeket legfeljebb csak a követelés (tőke és időarányosan járó, de még meg nem fizetett kamat) értékéig
+szabad kimutatni.
+26. és 30. Lombard hitelek
+Itt azokat a kizárólag értékpapír fedezet mellett nyújtott hiteleket kell jelenteni a hitel céljától
+függetlenül, amelyeknél az ügyfél már meglévő értékpapírját a hitelintézetnél óvadéki letétbe
+helyezték, hogy annak fedezete mellett részére hitelt folyósítsanak.
+A 26. sorban a PSZÁF által előírt 7. D. negyedéves táblában szereplő lombard hitelek könyv szerinti bruttó
+értékét kell feltüntetni. A 27-29. sorban a hitelek részletező bontását kell adni részvényfedezet, állampapír
+fedezet, egyéb értékpapír fedezet bontásban.
+A 30. sorban a 26. sorban szereplő hitelek könyv szerinti nettó értékét kell szerepeltetni. A 31-33. sorban a
+hitelek részletező bontását kell adni részvényfedezet, állampapír fedezet, egyéb értékpapír fedezet bontásban.
+34. Függővé tett kamatok, kamatjellegű jutalékok (35+…+38)
+Ezekben a sorokban a számviteli előírások szerint függővé tett kamatokat és kamatjellegű jutalékokat kell
+jelenteni a megadott szektorokra.
+39-40. Összes lejárt hitelállomány
+A 39. és a 40. sorba kell beírni az esedékesség napján vissza nem fizetett, illetve esedékesség előtt
+felmondott összes lejárt hitel tárgyhó végi könyv szerinti nyilvántartási értékét a még nem esedékes
+kamatok és jutalékok összege nélkül. Ideértendő minden hitel, kölcsön, leszámítolt váltó, beváltott
+bankgarancia, megvásárolt követelés azon összege, amelyet a szerződésben rögzített esedékesség
+napján nem fizettek vissza, illetve esedékesség előtt felmondásra került. Hosszú lejáratú hitelek esetén
+nem a végső lejáratot, hanem az egyes részletek esedékességét kell figyelembe venni. A rövid lejáratú
+hitelek között jelentendő, követelésként kimutatott lejárt kamat és kamatjellegű jutalék összegét szintén
+tartalmaznia kell ennek a sornak. A 39. sorban könyv szerinti bruttó értéken, a 40. sorban könyv
+szerinti nettó értéken kell a lejárt hitelállományt jelenteni.
+41. Összes leírt kihelyezés (január 1-jétől a tárgyhó végéig) – könyv szerinti bruttó értéken (42+…+50)
+A 41. sorban kell szerepeltetni az adott év során a tárgyhó végéig behajthatatlannak minősített és leírt,
+illetve az egyéb okból – szerződés módosítás alapján elengedett és – leírt összes követelésnek
+(beleértve az értékpapírokat és a nem értékpapír részesedéseket is) a leírás előtti könyv szerinti bruttó
+(teljes) nyilvántartási értékét összesen és a részletező sorok szerinti bontásban. A többszörös
+számbavétel elkerülése érdekében e sorokat az eladott követelésekkel kapcsolatos leírások nélkül kell
+jelenteni. A bármilyen okból kizárólag a nullás számlaosztályban nyilvántartott követelések leírását itt
+nem kell szerepeltetni.
+A 42-43. Nem pénzügyi vállalatoknál külön sorban kell jelenteni az összes hitelt (42. sor), valamint az
+egyéb NEM hitel sorban (43. sor) az egyéb követeléseket.
+
+HMK-1-01
+A 44-45. Háztartások illetve a 46-47. Külföld sorokban kell a magánszemélyekkel és egyéni
+vállalkozókkal, illetve a külföldi ügyfelekkel szembeni leírt követeléseket (utóbbiaknál hitel és NEM
+hitel bontásban is) feltüntetni.
+A 48-49. Egyéb sorban kell a többi, szektorálisan nem részletezett leírt kihelyezést kimutatni hitel és
+egyéb NEM hitel bontásban.
+Az 50. Leírt kamatkövetelések soron egy összegben kell szerepeltetni az adott év során a tárgyhó
+végéig behajthatatlannak minősített és leírt, a leírás előtt a rövid lejáratú hitelek között nyilvántartott,
+1996. január 1. előtt keletkezett lejárt kamat és kamatjellegű jutalék összegét, ezért ezt a 42-49.
+részletező sorok nem tartalmazhatják.
+51. Összes leírt kihelyezés (január 1-jétől a tárgyhó végéig) – könyv szerinti nettó értéken (52+…+59)
+Az 51. sorban kell szerepeltetni az adott év során a tárgyhó végéig behajthatatlannak minősített és leírt,
+illetve egyéb okból – pl. szerződés-módosítás alapján elengedett és – leírt összes követelésnek a leírás
+előtti könyv szerinti nettó értékét összesen és a részletező sorok szerinti bontásban. Az adatok
+alapvetően ugyanarra a körre vonatkoznak, mint a 41. sor és részletező sorai, a leírt kamatkövetelések
+kivételével, mert ezeknek a könyv szerinti nettó értéke nulla.
+60., 70. és 79. Összes véglegesen eladott kihelyezés (január 1-jétől a tárgyhó végéig)
+Az eladott kihelyezéseket attól a hónaptól kell szerepeltetni az érintett sorokban, amelyik hónapban a
+hitelintézet kivezette azokat a könyveiből, függetlenül attól, hogy ellenértékük kifizetésére mikor került
+sor. Az eladott kihelyezéseket azokban az oszlopokban kell jelenteni, amelyekben eredetileg a
+mérlegben voltak, még akkor is, ha más devizában történt az eladásuk.
+A 60-88. sorokban kell szerepeltetni az adott év során a tárgyhó végéig véglegesen eladott – az eladás
+előtt a mérlegben kimutatott – követelésállományt (csak a kintlevőségek, befektetések, mérlegen kívüli
+tételek és a fedezetek minősítésének és értékelésének szempontjairól szóló 14/2001. (III. 9.) PM
+rendelet szerinti minősítési kötelezettség alá tartozó mérlegtételeket ideértve) a megadott bontásban
+könyv szerinti bruttó értéken (60-69.), könyv szerinti nettó értéken (70-78. sorok), valamint eladási
+értéken (79-88. sorok). (A bármilyen okból kizárólag a 0-s számlaosztályban nyilvántartott követelések
+eladását itt nem kell jelenteni.)
+Az eladott követeléseket – a leírásokhoz hasonlóan – a nem pénzügyi vállalatoknál és a külföldnél meg
+kell bontani hitel, valamint egyéb NEM hitel sorokra, s az egyéb soroknak kell tartalmazniuk a nem
+részletezett szektorokkal szembeni véglegesen eladott kihelyezéseket.
+Itt is külön kell kimutatni az adott év során a tárgyhó végéig – az eladás előtt a rövid lejáratú hitelek
+között szerepelt – véglegesen eladott kamat és kamatjellegű jutalékkövetelések összegét.
+60. Könyv szerinti bruttó értéken (61+…+69)
+Itt a követelés eladás előtti, könyv szerinti bruttó értéke jelentendő, a részletező sorokban a megfelelő
+szektorokra bontva.
+70. Könyv szerinti nettó értéken (71+…+78)
+Itt a követelés eladás előtti, könyv szerinti nettó értékét kell feltüntetni, a részletező sorokban a
+megfelelő szektorokra bontva.
+
+HMK-1-01
+79. Eladási értéken (80+…+88)
+Ez a csoport az eladott követelésnek az adásvételi szerződés szerinti értékét (eladási árát) tartalmazza.
+89-91. Saját érdekeltségnek véglegesen eladott összes kihelyezés (január 1-jétől a tárgyhó végéig)
+A véglegesen eladott összes kihelyezés közül azokat kell könyv szerinti bruttó értéken (89. sor), könyv
+szerinti nettó értéken (90. sor), illetve eladási értéken (91. sor) kimutatni, amelyeket a hitelintézet saját
+érdekeltségének értékesített. Saját érdekeltségnek az a vállalkozás számít, ahol a hitelintézet a vagyoni
+vagy a szavazati jogoknak legalább tíz százalékát birtokolja.
+A 92. sorban a hitelintézet által nem monetáris pénzügyi intézményeknek és nem államháztartásnak
+nyújtott hitelekből a hónap során a nem monetáris intézmény belföldieknek, vagy nem-rezidenseknek
+véglegesen eladott/értékpapírosított részt kell jelenteni könyv szerinti bruttó értéken. (Az
+értékpapírosítás definícióját ld. a I. 4. Fogalmak részben.)
+93. Saját, belföldön kibocsátott, hitelviszonyt megtestesítő értékpapírok összesen (94+…+99)
+A Felügyeleti mérleg Forrás oldalán a 632. Saját kibocsátású, hitelviszonyt megtestesítő értékpapírok sorban
+kimutatott összes – a hitelintézet által kibocsátott – értékpapír értékéből a belföldön kibocsátott állományt a
+kiemelt szektorok szerint itt kell részletezni. A névre szóló értékpapírokat a megfelelő szektoroknál kell
+szerepeltetni. Szintén a megfelelő szektorba kell tenni azoknak a nem névre szóló értékpapíroknak az
+állományát, amelyek csak egy meghatározott szektor részére lettek kibocsátva. A 98. Külföld sorban a
+hitelintézet által belföldön kibocsátott értékpapírok közül a nem-rezidensek által megvásárolt állományt
+kell kimutatni. A 99. Szektorálisan nem bontható sorban kell szerepeltetni a vegyes kibocsátású, nem
+névre szóló értékpapírokkal szerzett források állományát, amennyiben nem állapítható meg, hogy
+milyen szektor felé történt eladásuk. Ha a vegyes kibocsátásúakról az eladáskor mégis eldönthető, hogy
+milyen szektorba kerültek, azokat is a megfelelő szektornál kell feltüntetni.
+100. Saját, belföldön kibocsátott NEM FORGATHATÓ hitelviszonyt megtestesítő értékpapírok
+állománya és 115. A hitelintézet tulajdonában lévő NEM FORGATHATÓ hitelviszonyt megtestesítő
+értékpapírok állománya sorok
+Ebben a részben a zárt körű és az átváltoztatható kötvények eszköz és forrásoldali állományait kell
+részletezni. A 100-114. sorokban a hitelintézet által belföldön kibocsátott zárt körű és átváltoztatható
+kötvények állományát kell szerepeltetni tulajdonosok és lejárat szerinti bontásban, míg a 116-119.
+sorokban a hitelintézet tulajdonában lévő, a nem pénzügyi vállalatok és az egyéb pénzügyi közvetítők, a
+pénzügyi kiegészítő tevékenységet végzők, valamint a biztosítók által kibocsátott zárt körű és átváltoztatható
+kötvényekből a hitelintézet tulajdonában lévő állományokat kell bruttó értéken jelenteni, a megadott lejárati
+részletezésben.
+120. Egyéb tájékoztató adatok
+A 121. Munkáltatói és helyi támogatás állománya sornak kell tartalmaznia a munkáltatók, illetve az
+önkormányzatok által lakásépítéshez, -vásárláshoz a háztartásoknak nyújtott és a hitelintézet által
+továbbított hitelek fennálló állományát (nem ideértve a hitelintézet saját dolgozóinak nyújtott hiteleket)
+nyilvántartási értéken.
+A 122-123. LTP-vel kötött szerződéshez kapcsolódó azonnali hitelek állománya sorokban a lakás-
+takarékpénztárakkal kötött szerződéssel rendelkező ügyfelek részére nyújtott azonnali banki hitelek
+állományát kell feltüntetni könyv szerinti bruttó és nettó értéken. Ezek az állományok az éven túli, lakáscélú
+hitelek részét képezik, s a hitelnyújtók döntően az 1997-ben megalakult lakás-takarékpénztárak
+tulajdonosai.
+
+HMK-1-01
+A 124. Adófizetési kötelezettség (halmozott január 1-jétől a tárgyhó végéig) sorban kell feltüntetni
+a – társasági adótörvény előírásainak figyelembevételével – számított adófizetési kötelezettség
+időarányos részét. Itt nem a ténylegesen kifizetett adóelőleg összegét kell szerepeltetni, hanem a
+tárgyévi adatok alapján számított várható társasági adó összegét.
+A 125. Adófizetési különbözet (halmozott január 1-jétől a tárgyhó végéig) sorba a ténylegesen
+befizetett és az – időarányos – adófizetési kötelezettség különbözetét kell beírni. A fizetendő adó-
+különbözetet előjel nélkül kell feltüntetni. Ha a befizetett adóelőleg meghaladja az – időarányos –
+adófizetési kötelezettség összegét, a visszatérítendő adót (az adóhatósággal szembeni követelést)
+negatív előjellel kell szerepeltetni.
+A 126. Egyéb aktív időbeli elhatárolás (1AB81-ből) sorban a Felügyeleti mérleg eszköz oldalán a
+379. “Egyéb aktív elszámolások és egyéb eszközök” sorból az egyéb aktív időbeli elhatárolásokat kell
+kiemelni egy összegben.
+A 127. Egyéb passzív időbeli elhatárolás (1B65-ből) sorban a Mérleg forrás oldalán az egyéb passzív
+elszámolások között a 689. sorban kimutatott egyéb passzív időbeli elhatárolások összegét kell
+kiemelni.
+A 128. sorban a nem valódi penziós ügyletekkel kapcsolatos mérlegen kívüli követelések értékét kell
+szerepeltetni. Ezeknél az ügyleteknél a hitelintézet az eszköz penzióba vevője, aki jogosult, de nem
+köteles a penzióba adó részére az eszközt meghatározott áron visszaadni. A nyilvántartásban szereplő
+követelés azt az összeget tükrözi, amelyet a hitelintézet akkor kap, ha az eszközt visszaadja a penzióba
+adónak. Ez az eset akkor következik be, ha az eszköz piaci értéke alacsonyabb lesz annál az árnál,
+amely mellett a penzióba adó visszavásárlási kötelezettséget vállalt.
+A 129. sorban a nem valódi penziós ügyletekkel kapcsolatos mérlegen kívüli kötelezettségeket kell
+szerepeltetni nyilvántartási értéken. Ezeknél az ügyleteknél a hitelintézet volt az eszköz penzióba adója,
+és a partner a penzióba vevő, aki csak jogosult, de nem köteles az eszközt a hitelintézetnek
+meghatározott áron visszaadni. A kötelezettség nagysága a visszavásárlási árat tükrözi.
+A 130. sorban a nem valódi penziós ügyletekkel kapcsolatos mérlegen kívüli kötelezettségeket kell
+szerepeltetni céltartalékkal csökkentett nyilvántartási értéken. A céltartalék képzési kötelezettség akkor
+merül fel, ha az eszköz piaci értéke a visszavásárlási árhoz képest alacsonyabb.
+A 131. Még be nem jegyzett vállalkozásba fizetett alapítói hozzájárulás sorba az olyan
+vállalkozásokba befizetett pénzbeli, vagy nem pénzbeli alapítói hozzájárulásoknak a nettó könyv
+szerinti összegét kell beírni, amelyeket még nem jegyeztek be a cégnyilvántartásba. (Ezeknek a
+befektetéseknek szerepelniük kell a Felügyeleti mérleg megfelelő – befektetési célú értékpapírok vagy
+vagyoni érdekeltségek című – eszköz-csoportjai között, függetlenül attól, hogy számviteli szempontból
+ezek az alapítói hozzájárulások – amelyek részvényutalvány formájában testesülnek meg – mindaddig
+követelésként kerülnek kimutatásra, amíg a cégbejegyzés meg nem történik.)
+A 132. Külföldi tulajdonostól alárendelt és kiegészítő alárendelt kölcsöntőke sorban a mérleg 713-
+715. soraiból a külföldi tulajdonos(ok)tól kapott összegeket kell kimutatni.
+A 133. Hitelviszonyt megtestesítő értékpapírokból származó követelések (nettó értéken) sorban a
+Felügyeleti mérleg Forgatási célú értékpapírok és Befektetési célú értékpapírok eszköz-soraiban
+szereplő értékpapírok közül a hitelviszonyt megtestesítő értékpapírokat kell jelenteni nettó értéken – az
+állampapírok és a jegybank által kibocsátott kötvények nélkül –, mivel ezeket – az állampapírokhoz és
+a jegybank által kibocsátott kötvényekhez hasonlóan – a Hpt. által előírt befektetési korlátnál nem kell
+figyelembe venni.
+
+HMK-1-01
+A 134. sorban kell szerepeltetni mind a forgatási, mind a befektetési céllal szerzett – a Felügyeleti
+mérlegben az államkötvények között (a bruttó tábla 14. és 92. soraiban) kimutatott –, az állam által
+1995-ben átvállalt, korábban kibocsátott TB kötvények állományának nettó értékét.
+A 135. soron a Visszavásárolt saját részvényeket névértéken kell jelenteni. (A könyv szerinti értékük
+a mérleg eszközei között szerepel.)
+A 136-139. Iroda- és üzletházépítésre nyújtott hitel sorokban szerepeltetendő (a Felügyeleti mérleg
+bruttó táblájának 255-257. soraiból kiemelve) az egyéb hitelek azon része, melyet iroda- és
+üzletházépítésre nyújtott a hitelintézet. Olyan egyéb (nem lakáscélú) ingatlanfejlesztési hitelek fennálló
+állományát kell tartalmazniuk e soroknak (eredeti lejárat szerinti bontásban, könyv szerinti bruttó és
+nettó értéken), amelyeknél a közvetlen felhasználó és az építtető, fejlesztő személye nem azonos; azaz
+amelyeket részben vagy egészben eladásra vagy bérbeadásra szánt irodaházak, székházak, üzletházak
+vagy bevásárlóközpontok, stb. építésére, vagy fejlesztésére jelzáloggal, egyéb fedezettel, vagy fedezet
+nélkül nyújtott a hitelintézet.
+A 140. Lakosságnak jelzálog fedezete mellett nyújtott lakáscélú hitelek összesen sorban a Felügyeleti
+mérleg 271-273. soraiban jelentett lakáscélú hitelek közül az összes (ingatlan és egyéb) jelzálog fedezete
+mellett nyújtott hitelek állományát kell jelenteni. Ha az adott hitelnél a jelzálog fedezet mellett egyéb
+fedezetet is kér a hitelintézet, akkor csak abban az esetben kell a hitelt ebben a sorban – de a teljes
+fennálló hitelállománnyal – szerepeltetni, ha a jelzálog fedezet eléri a fedezetek összes értékének 50%-
+át. (Amennyiben munkabér (jövedelem) is áll a hitel mögött, akkor azt az összes fedezet kiszámításánál
+nem kell figyelembe venni.)
+A 141. Lakosságnak jelzálog fedezete mellett nyújtott egyéb hitelek összesen sorban jelentendő az
+összes lakossági hitelből a nem lakáscélra nyújtott összes (ingatlan és egyéb) jelzálog fedezete mellett
+nyújtott hitelek állománya. Ha az adott hitelnél a jelzálog fedezet mellett egyéb fedezetet is kér a
+hitelintézet, akkor csak abban az esetben kell a hitelt ebben a sorban – de a teljes fennálló
+hitelállománnyal – szerepeltetni, ha a jelzálog fedezet eléri a fedezetek összes értékének 50%-át.
+(Amennyiben munkabér (jövedelem) is áll a hitel mögött, akkor azt az összes fedezet kiszámításánál
+nem kell figyelembe venni.)
+A 142. Látra szóló takarékbetétek összesen sorba a háztartások látra szóló és folyószámlabetétei közül a
+lakossági látra szóló takarékbetétek állományát kell feltüntetni.
+A 143. Nem névre szóló összes betét sorban kell jelenteni a hitelintézet forrásai között kimutatott valamennyi
+nem névre szóló betét állományát egy összegben, a betéti okiratok nélkül. A nem névre szóló betéti okirat-
+állományt a 144. Nem névre szóló betéti okirat összesen, az ugyanilyen letéti jegy-állományt a 145. Nem
+névre szóló letéti jegy összesen sorban kell jelenteni.
+146. Külföldi befektetésekből kiemelt részesedések (147+…+151)
+A forgatási, illetve befektetési célú értékpapírok, valamint a vagyoni érdekeltségek eszközcsoportok külföldi
+részvények soraiban szereplő befektetések közül itt kell kiemelni és a részletező sorokban külön feltüntetni a
+PBB-ben, illetve a járulékos vállalkozásokban lévő részesedések nettó könyv szerinti értékét. A „PBB
+vállalkozások” sorokban kell kimutatni nettó értéken azokat a részesedéseket is, amelyeket külföldi speciális
+pénzügyi szervezetekben szereztek és a Hpt. 83. §-ban foglaltak szerint nem tartoznak az egyedi befektetési
+korlátozás alá.
+152. Külföldiek részére nyújtott alárendelt kölcsöntőke nettó értéken (153+…+157)
+Itt kell könyv szerinti nettó értéken kimutatni, és a részletező sorokban külön feltüntetni a külföldiek
+részére nyújtott alárendelt kölcsöntőkéket, amelyek a Felügyeleti mérlegben a 11. tábla 288-289. és
+312-313. soraiban szerepelnek. A 157. Egyéb vállalkozások részére sornak a kiemelt szektorokba nem
+sorolt nem-rezidens egyéb intézményekkel kapcsolatos állományokat kell tartalmaznia.
+
+HMK-1-01
+03. tábla: Eladott eszközök halasztott fizetéssel, illetve visszavásárlási kötelezettséggel
+Ebben a táblában a Hpt. szerint a hitelintézeteknél pénzkölcsön nyújtásának minősülő, halasztott fizetéssel
+eladott eszközök miatti – a számviteli mérlegben vevővel szembeni – követelések, valamint a mérlegen kívüli
+követelések közül a halasztott fizetéssel és/vagy visszavásárlási kötelezettséggel eladott eszközök összértékét
+kell feltüntetni a fennálló követelés alapján, a lejárati időtartamtól függetlenül.
+Külön-külön oszlopban kell kimutatni
+a) a csak visszavásárlási kötelezettséggel,
+b) a halasztott fizetéssel és visszavásárlási kötelezettséggel, valamint
+c) a csak halasztott fizetéssel eladott eszközöket.
+A felsorolást a saját eszközökre, a hitel (és egyéb) követelésekre, az értékpapírokra, valamint a vagyoni
+érdekeltségekre vonatkozóan – a csoportosítás szerint – könyv szerinti, eladási és visszavásárlási értéken kell
+végrehajtani.
+A jelentésben az eladott eszközök értékét mindaddig ki kell mutatni, míg a vételár kiegyenlítésre nem
+kerül, illetve a visszavásárlás meg nem történik.
+A Saját eszközök sorokban a Mérleg 418. Saját eszközök csoportban felsorolt eszközök halasztott
+fizetéssel, illetve visszavásárlási kötelezettséggel történő értékesítését kell feltüntetni. Ezekben a
+sorokban az ilyen módon eladott saját részvény értékét is mindaddig ki kell mutatni, míg a vételár
+kiegyenlítésre nem kerül, illetve a visszavásárlás meg nem történik.
+Az Értékpapír sorokban minden olyan értékpapír eladását fel kell tüntetni, amely nem jelent tulajdoni
+részesedést. (Itt a Felügyeleti mérleg 01. tábla 12. és 91. soraiból eladásra került értékpapírokat,
+kötvényeket kell kimutatni.)
+A Befektetés sorokban a tulajdoni jogokat jelentő értékpapírok (részvények), részesedések és más
+vagyoni érdekeltség eladását kell szerepeltetni függetlenül attól, hogy azok forgatási, befektetési céllal,
+vagy vagyoni érdekeltségként kerültek a hitelintézet birtokába. (Az eladott befektetések a Felügyeleti
+mérleg 01. tábla 63. és 135., illetve 332. soraiból kerültek ki.)
+A táblában könyv szerinti értéken az adott eszköznek az Szkr. előírásainak megfelelő nyilvántartási értéke
+értendő. Eladási érték alatt a szerződésben rögzített értéknek a teljesített fizetések figyelembevételével vett
+összegét kell érteni. Részletfizetés esetén az eladási árat a befolyt összegben, a nyilvántartási értéket pedig
+arányosan (a részletfizetést a teljes eladási árhoz viszonyítottan) kell figyelembe venni. A visszavásárlási érték
+a szerződésben rögzített összeg.
+04. tábla: Tranzakciók számításához szükséges adatok
+Hitelleírásnak jelentendő – csak ebben a táblában – az előző hónap végén még a mérlegben szereplő, és
+az adott hónapban leírt hitelkövetelések előző hó végén fennálló könyv szerinti bruttó értéke, valamint
+az előző hónap végén még a mérlegben szereplő, és az adott hónapban bruttó érték alatt eladott
+hitelkövetelések előző hó végén fennálló könyv szerinti bruttó értéke és eladási értéke közötti
+különbözet. A hitelkövetelések közé értendők a valódi penziós ügyletekből származó követelések és a
+monetáris intézmények által elhelyezett betétek is. A bruttó érték alatt eladott hitelkövetelésekre
+vonatkozó leírásokat abban a hónapban kell szerepeltetni az érintett sorokban, amelyik hónapban a
+hitelintézet kivezette azokat a könyveiből, függetlenül attól, hogy az ellenérték kifizetésére mikor
+került sor. Az eladott követeléseket abban az oszlopban kell jelenteni, amelyben eredetileg a mérlegben
+volt, még akkor is, ha más devizában történt az eladás.
+
+HMK-1-01
+A 3-17. sorok az egyes szektoroknak nyújtott hitelekre vonatkozó – a fenti definíció szerinti –
+hitelleírásokat tartalmazzák szektor szerinti bontásban. Az adott havi leírásadatokat negatív előjellel
+kell jelenteni.
+A 19-35. sorokban a hitelintézet által birtokolt részesedésekben, valamint 2 éven túli eredeti lejáratú
+értékpapírok könyv szerinti nettó értékében egyik hónapról a másikra bekövetkezett árváltozásokat kell
+jelenteni, megfelelő előjellel ellátva: amennyiben az értékpapírok és részesedések nettó értéke
+árváltozás miatt nőtt a hónap során, akkor pozitív, ha csökkent, negatív előjellel kell az összeget
+szerepeltetni. Az árváltozásnak csak azoknak a tárgyhó végén a mérlegben lévő részesedéseknek és (2
+éven túli) értékpapíroknak a tárgyhó során bekövetkezett árváltozását kell tartalmaznia, amelyek már az
+előző hónap végén is a hitelintézet tulajdonában voltak. Az előző hó végén és a tárgyhó végén a
+mérlegben szereplő azonos típusú, de eltérő sorszámú értékpapírok árváltozását nem kell jelenteni.
+Annak az értékpapírnak az árváltozását sem kell a jelentésben szerepeltetni, amely mind az előző, mind
+a tárgyhónap végén szerepelt a mérlegben, de a hónap során a hitelintézet eladta és újra visszavásárolta.
+A devizában denominált értékpapírok árváltozását eredeti devizanemben kell kiszámítani, és a
+tárgyhavi hivatalos átlagárfolyamon kell forintra átszámítani. A devizában denominált értékpapírok
+esetében az árváltozás nem tartalmazhatja a devizaárfolyamváltozás hatására bekövetkezett
+átértékelődéseket.
+A jelenlegi magyar számviteli gyakorlat szerint az értékpapírok a mérlegben vagy beszerzési értéken
+maradnak, s csak az értékvesztés-képzés illetve -visszaírás miatt változik nettó értékük, vagy valós
+értéken szerepelnek, s az értékelési különbözet alakulásától függően is változik nettó értékük. Ez azt
+jelenti, hogy a hitelintézet tulajdonában lévő 2 éven túli lejáratú értékpapírok előző hó végén is
+meglévő állományának értékvesztés- és értékelési különbözet-változása lesz az „árváltozás” miatti
+állományváltozás. Ha a hitelintézet a hó során nem ad el, illetve nem vásárol értékpapírt, akkor –
+negyedéves értékvesztés- és értékelési különbözet-változást feltételezve – csak minden harmadik
+hónapban szerepel majd itt adat, amely értékvesztés-képzéskor negatív, értékvesztés-visszaíráskor
+pozitív értéket, értékelési különbözet változáskor a változás jellegéből adódóan negatív vagy pozitív
+értéket vesz fel. Amennyiben a hitelintézet tulajdonában lévő részesedések értékelése azonos módon
+történik az értékpapírokéval, a számítás módja azoknál is azonos az előzőleg leírtakkal.
+A 19-27. sorok a két éven túli lejáratú hitelviszonyt megtestesítő értékpapírok, a 29-35. sorok a
+részvények és egyéb részesedések árváltozását tartalmazzák szektor szerinti bontásban.
+E táblában egyéb pénzügyi vállalatok alatt az egyéb pénzügyi közvetítők, pénzügyi kiegészítő tevékenységet
+végzők, biztosítók és nyugdíjpénztárak értendők.
+05. tábla: Tájékoztató adatok 2.
+1. Hátrasorolt és vagyoni kötelezettségek szektorbontása (2+…+17)
+A Felügyeleti mérleg 711. sorában szereplő hátrasorolt és vagyoni kötelezettségeket kell itt szektor szerint
+részletezni. A szövetkezeti részjegyekkel kapcsolatos állományokat a háztartások és háztartásokat segítő
+nonprofit intézmények szektorában kell jelenteni.
+18. Lakosságnak ingatlanon alapított jelzálogjog fedezete mellett nyújtott hitelek bruttó értéken
+összesen (19+27)
+19. Jelzáloghitelek összesen (20+24)
+Jelzáloghitelek alatt e táblában azon – jelzáloglevél fedezetéül felhasználható – hitelek értendők,
+amelyeket a jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény által
+szabályozottan jelzálogbankok, vagy ugyanezen törvény jelzáloghitelezésre vonatkozó előírásait
+betartva hitelintézetek nyújtanak.
+
+HMK-1-01
+20. Lakáscélú jelzáloghitelek (21+22+23)
+Azon hitelek állományát tartalmazza, amelyeket lakáscélra (bővítés, építés, vásárlás, korszerűsítés és
+felújítás) nyújtottak.
+21. Forrásoldali kamattámogatásos lakáshitelek
+Jelzálog-hitelintézetek és azon hitelintézetek által kitöltendő sor, amelyek jelzálog-hitelintézetekkel
+konzorciális és/vagy refinanszírozási konstrukció keretében együttműködnek. Azon lakáscélú
+jelzáloghitelek állományát tartalmazza, amelyek kamattámogatása jelenleg a lakáscélú állami
+támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 12. §-a alapján meghatározott.
+22. Állami kiegészítő kamattámogatású és forrásoldali kamattámogatásos lakáshitelek
+kombinációja
+Itt az eszköz és forrásoldali kamattámogatás kombinált formájában nyújtott hiteleket kell kimutatni.
+Azon lakáscélú jelzáloghitelek állományát tartalmazza, amelyek kamattámogatása jelenleg a lakáscélú
+állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 13. §-a alapján meghatározott. Jelzálog-
+hitelintézetek és az FHB-val (konzorciális és/vagy refinanszírozási konstrukció keretében)
+együttműködő hitelintézetek által kitöltendő sor.
+23. Piaci kamatozású és egyéb lakáshitelek
+Csak jelzálog-hitelintézetek által kitöltendő sor. Azon hiteleket tartalmazza, amelyeket lakáscélú
+felhasználásra, támogatás nélkül nyújtottak.
+24. Általános célú jelzáloghitelek (25+26)
+Csak jelzálog-hitelintézetek által kitöltendő sor. A nem lakáscélú jelzáloghitelek állományát
+tartalmazza.
+25. Ingatlancélú felhasználásra nyújtott hitelek
+Az általános jelzáloghiteleken belül az ingatlancélú felhasználásra nyújtott hitelek állományát
+tartalmazza.
+26. Egyéb felhasználásra nyújtott hitelek
+Azon jelzáloghitelek állományát tartalmazza, amelyeket lakás- és egyéb ingatlan célú felhasználáson
+kívül bármely egyéb célra nyújtottak.
+27. Ingatlanon alapított jelzálogjog fedezete mellett nyújtott, NEM jelzáloghitelek összesen
+(28+32)
+Itt a lakosságnak ingatlanon alapított jelzálogjog fedezete mellett nyújtott hitelek közül azok állománya
+jelentendő, amelyek a jelzáloghitelek 19. sornál leírt fogalmába nem tartoznak bele.
+28. Lakáscélú hitelek ingatlanon alapított jelzálogjog fedezete mellett (29+30+31)
+Azon hitelek állományát tartalmazza, amelyeket lakáscélra (bővítés, építés, vásárlás, korszerűsítés és
+felújítás) nyújtottak.
+
+HMK-1-01
+29. Állami kiegészítő kamattámogatású
+Hitelintézetek által nyújtott azon hitelek állományát tartalmazza, amelyek kamattámogatása jelenleg a
+lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 13. §-a alapján meghatározott.
+30. Egyéb eszközoldali kamattámogatású
+Ez a sor a hitelintézetek által nyújtott azon hitelek állományát tartalmazza, amelyek kamattámogatása a
+költségvetéstől közvetlenül lehívható, de nem a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.)
+Korm. rendelet 13.§-a alapján meghatározottak. E sorban kell jelenteni a 2001. februárt megelőzően
+eszközoldali támogatás mellett nyújtott lakáscélú hiteleket.
+31. Piaci kamatozású és egyéb lakáshitelek
+A hitelintézetek által nyújtott azon hiteleket kell itt kimutatni, amelyeket lakáscélú felhasználásra
+támogatás nélkül nyújtottak.
+32. Egyéb célra, ingatlanon alapított jelzálogjog fedezete mellett nyújtott hitelek (33+34)
+A hitelintézetek által nyújtott azon hitelek állományát tartalmazza, amelyeket nem lakáscélra
+nyújtottak.
+33. Ingatlancélú felhasználás
+Ez a sor a jelzálogjog fedezete mellett nem lakáscélú, de ingatlancélú felhasználásra nyújtott hitelek
+állományát tartalmazza.
+34. Egyéb felhasználás
+Itt a bármely célra, jelzálogjog fedezete mellett nyújtott hitelek állományát kell szerepeltetni, kivéve a
+lakáscélú és egyéb ingatlancélú felhasználást.
+35. Repó típusú ügyletekből eredő követelés (36+…+47)
+A szállításos repó, az értékpapír-kölcsönzési és a sell and buy back megállapodásokban átadott
+pénzeszközök állományát kell itt jelenteni szektor szerinti bontásban.
+48. Repó típusú ügyletekből eredő kötelezettség (49+…+60)
+A szállításos repó, az értékpapír-kölcsönzési és a sell and buy back megállapodásokban átvett
+pénzeszközök állományát kell itt jelenteni szektor szerinti bontásban.
+61-88. sorok: Háztartások egyes hitel fajtáinak részletezése
+Ezekben a sorokban a háztartásoknak nyújtott egyes hitelek hitelfajták szerinti alábontását kell megadni
+könyv szerinti bruttó és nettó értéken, külön a lakosságra és az egyéni vállalkozókra, eredeti lejárat
+szerint is megbontva.
+A 62-70., valamint a 76-84. sorokban a lakosságnak nyújtott fogyasztási hitelek további hitelcél
+szerinti részletezését kell megadni:
+- a 62-64., illetve a 76-78. sorokban a személyi hitelek állományát kell jelenteni. (A személyi hitelt a
+hitelintézet a hitelfelvétel konkrét céljának megjelölése nélkül folyósítja az ügyfélnek.)
+
+HMK-1-01
+- a 65-67., illetve a 79-81. sorokban a gépjármű vásárlási hitelek állománya jelentendő. (A gépjármű
+vásárlási hitelek közé azon hitelek állománya sorolandó, amelyek új, vagy használt gépjárművek
+megvásárlását finanszírozzák, ideértve a gépjárműként funkcionáló haszonjárműveket is.)
+- a 68-70., illetve a 82-84. sorokban az áruvásárlási hitelek, valamint az egyéb, fogyasztási hitelnek
+tekinthető, de a fenti két hitelcélba nem sorolható hitelek állományát kell jelenteni. (Az áruvásárlási
+hitel tartós fogyasztási cikkek – gépjármű kivételével – lakossági ügyfél által történő megvásárlását
+finanszírozza.)
+A 71., valamint a 85. sorba nem kerülhet adat, mert a hitelintézet saját jogon nem nyújthat diákhitelt.
+A 72-74. illetve a 86-88. sorokban az egyéni vállalkozóknak gépjárművásárlás finanszírozására
+nyújtott hitelek állománya jelentendő (beleértve a gépjárműként használt haszonjárműveket
+finanszírozó hiteleket is).
+A 89-90. sorokat az MNB honlapján közzétett, e rendelet 3. mellékletének 3. pontja szerinti technikai
+segédletekben foglalt előírásoknak megfelelően kell kitölteni.
+06. tábla: Egyes eszköz és forrástételek hóvégi állományának devizaszerkezete
+Ebben a táblában a Felügyeleti mérlegben szereplő egyes devizahitel-, hitelviszonyt megtestesítő értékpapír,
+külföldi (részvény és egyéb) részesedés és bizonyos devizabetét állományok devizanemenkénti részletezését
+kell jelenteni. A külön oszlopokban kiemelt devizákat (a JPY kivételével) ezer devizában, a JPY-t
+millióban, a d) és k) oszlopok adatait millió forintban kell feltüntetni.
+A hitelek, elhelyezett betétek devizaszerkezetét bruttó, az értékpapírokét nettó könyv szerinti értéken kell a
+táblában szerepeltetni. A hitel és elhelyezett betét soroknak a valódi penziós ügyletekből származó
+követeléseket, a betétek, felvett hitelek, alárendelt kölcsöntőke állományoknak az óvadéki repó ügyletekből
+származó kötelezettségeket is tartalmazniuk kell. A 10., 12. és 13. sornak tartalmaznia kell a GMU monetáris
+pénzügyi intézményeknek, illetve az egyéb külföldi bankoknak nyújtott hiteleket, valamint a náluk elhelyezett
+betéteket és a náluk lévő nostro számlákat is. A 27-40. sorokban a betéteken kívül a felvett hitelek és a
+hátrasorolt kötelezettségek állományának is szerepelnie kell. Az euróban fennálló állományokat a táblában
+nem kell jelenteni, mert összegük a mérlegből is megállapítható.
+E táblában egyéb pénzügyi vállalatok alatt az egyéb pénzügyi közvetítők, pénzügyi kiegészítő tevékenységet
+végzők, biztosítók és nyugdíjpénztárak értendők.
+A tábla d) oszlopában az egyéb EU tagországok devizáit kell kimutatni. A 2004. május elsejétől
+Magyarországgal együtt EU tagokká váló kilenc ország (Ciprus, Csehország, Észtország,
+Lengyelország, Lettország, Litvánia, Málta, Szlovákia, Szlovénia) devizáiban fennálló állományokat –
+már az év elejétől – a „d” oszlopban, millió forintban összesítve kell jelenteni. Az ebben az oszlopban
+jelentett összegek devizánkénti bontásáról negyedév végekre vonatkozóan (nagyságrendjüktől függően)
+egyedileg fogunk kérni információt az egyes bankoktól.
+
+HMK-1-01
+07. tábla: Eredménykimutatás
+A jelentésben a hitelintézet bevételeinek, illetve ráfordításainak és költségeinek havi és az év elejétől
+halmozott forgalmi adatait kell részletezni a hitelintézet jövedelemtermelő képességének értékelése
+érdekében, forintban. A jelentés a hitelintézetnek – az érvényes számviteli előírások alapján összeállított –
+főkönyvi, illetve az azt alátámasztó analitikus nyilvántartásain alapszik, szerkezetében alapvetően az Szkr. 2.
+számú mellékletében szereplő Eredménykimutatás I:-et követi, de attól helyenként eltér. A jogszabályban
+előírt egyes céltartalékokat, értékvesztéseket, általános-, illetve egyéb tartalékokat az esedékesség
+időpontjában (negyedév vége, mérleg fordulónapja, stb.), így december 31-én – az előzetes beszámolóban is –
+meg kell képezni, illetve el kell számolni. Az éves mérlegbeszámoló elkészítésekor az egyes adatokban
+bekövetkezett módosításoknak megfelelően a már megképzett összegek is változhatnak.
+A hitelintézetnek évközben a havi eredménykimutatásban a befizetett társasági adóelőleget, az év végi
+előzetes és végleges kimutatásban a tényleges adófizetési kötelezettséget kell feltüntetnie.
+Az eredménykimutatás kamatra vonatkozó sorai – a Felügyeleti mérleg szerkezetét követve – a hitelintézeti
+tevékenység alaptípusai szerint részleteződnek.
+A jelentés első oszlopában a tárgyhavi, a másodikban az év elejétől halmozott értékeket kell kimutatni.
+Az eredménykimutatásban alapértelmezésben
+- a bevételek eredményt növelő,
+- a ráfordítások és költségek eredményt csökkentő tételek,
+- a céltartalék képzés ráfordításként,
+- a céltartalék felhasználás és felszabadítás (céltartalék csökkenés) bevételként,
+- az értékvesztés elszámolása ráfordításként,
+- az értékvesztés visszaírása – az Szmt. illetve az Szkr. előírásainak megfelelően – bevételként
+illetve ráfordítás csökkentő tételként,
+- az értékvesztés visszaírása – az Szmt., illetve az Szkr. előírásainak megfelelően –
+bevételként, illetve ráfordítás csökkentő tételként szerepel.
+Amennyiben a hitelintézet – számviteli politikájában is rögzítetten – a valós érteken történő értékelést
+alkalmazza, a számviteli szabályoknak megfelelően kell az adott tétel-csoportban elszámolni az
+értékelésből származó nyereséget, vagy veszteséget, illetve az értékelési különbözetet, függetlenül
+attól, hogy az a bevételt, vagy a ráfordítást csökkenti, illetve növeli.
+A ráfordításokat, költségeket az alapértelmezésnek megfelelően nem kell negatív előjellel ellátni. Ha azonban
+a hitelintézeti jelentésben – a számlák aggregálása után – valamelyik ráfordítás vagy költség sor Követel,
+illetve bevétel sor Tartozik egyenleget mutat, akkor ezt a tételt negatív előjellel kell feltüntetni. Az egyes
+eredmény sorokban veszteség esetén a negatív előjelet ki kell tenni.
+29. Kamat és kamatjellegű bevétel összesen (1+13+18+28. sor)
+Ebben a tételcsoportban kell kimutatni mindazokat a kamat és kamatjellegű bevételeket, amelyek a
+hitelintézetekre vonatkozó számviteli szabályok szerint elszámolhatók. Külön-külön kell feltüntetni a
+hitelnyújtásból és betételhelyezésből, az értékpapír ügyletekből származó kamat és kamatjellegű bevételeket, a
+késedelmi kamatokat, továbbá az olyan pénzügyi műveletekhez kapcsolódó jutalékbevételeket, amelyekhez
+kamatbevétel is kapcsolódik. (Kamatjellegű jutalék bevételnek számolható el többek között a rendelkezésre
+tartási jutalék, a kezelési költség, a folyósítási jutalék, a váltó leszámítolási díj illetve kamat, a faktordíj illetve
+kamat, az Szkr. 22. paragrafusa szerinti határidős fedezeti ügyleteknél felmerülő, a tárgyévi eredményben
+ilyen címen figyelembe vehető kamat- és árfolyamkülönbözetből származó, kamatként elszámolt bevétel.)
+
+HMK-1-01
+Az 1. Hitelek kamat és kamatjellegű bevétele és a 13. Jegybanki és bankközi betétek kamat és
+kamatjellegű bevétele sorok a Felügyeleti mérleg vonatkozó eszközcsoportjához tartozó – ügylettípus szerint
+részletezett – bevételeket tartalmazzák (1-17. sor).
+A 18. Értékpapírok kamat és kamatjellegű bevétele sor tartalmazza a Felügyeleti mérleg eszközei között
+lévő forgatási és befektetési célú értékpapírokból származó kamat és kamatjellegű bevételeket (a 19-27.
+sorokban részletezve). Ennek megfelelően – az Szmt.-vel összhangban – az értékpapír-vásárlásnál
+megfizetett felhalmozott kamatot és az elszámolt kamatbevételt, illetve az értékpapír értékesítésekor az
+eladási árban lévő kamat összegét összevontan, azaz a tényleges kamatjövedelem összegében kell
+kimutatni. (Az eredménykimutatás kamat és kamatjellegű ráfordításai között – a 49. Értékpapírok
+kamat és kamatjellegű ráfordítása sorban – csak a saját kibocsátású értékpapírok kamatráfordításait
+szabad szerepeltetni.)
+A 28. Egyéb kamat és kamatjellegű bevétel sor mindazokat a bevételeket tartalmazza, amelyek
+ügylettípusok szerint (külön sorként) nem kerültek részletezésre. Itt kell szerepeltetni – ha más kamatbevétel
+sorba nem sorolható – az Szkr. 2. § (19) bekezdése szerinti kamatarbitrázs célú fedezeti ügyletekhez
+kapcsolódó, árfolyamkülönbözetből adódó kamatjellegű bevételt – amennyiben az bevételként jelentkezik –
+(Szkr. 22. § szerint), továbbá a kamatswapok nettó bevételként jelentkező eredményét (Szkr. 23. § (6)
+bekezdése szerint).
+55. Kamat és kamatjellegű ráfordítás összesen (30+38+41+49+53+54. sor)
+E tételcsoportban kell kimutatni a hitelintézet passzív bankműveletek után elszámolt kamat és kamatjellegű
+ráfordításait. Külön-külön kell feltüntetni a betételhelyezésből és hitelnyújtásból, az értékpapír ügyletekből
+származó kamat és kamatjellegű ráfordításokat, továbbá az olyan pénzügyi műveletekhez kapcsolódó jutalék
+ráfordításokat, amelyekhez kamatkiadás is kapcsolódik. (Kamatjellegű jutalék ráfordításnak számolható el
+többek között a rendelkezésre tartási jutalék, a kezelési költség, a folyósítási jutalék, a váltó leszámítolási díj
+illetve kamat, a faktordíj illetve kamat, az Szkr. 22. paragrafusa szerinti határidős fedezeti ügyleteknél
+felmerülő, a tárgyévi eredményben ilyen címen figyelembe vehető kamat- és árfolyamkülönbözetből
+származó, kamatként elszámolt ráfordítás.)
+A 30. Betétek kamat és kamatjellegű ráfordítása, valamint a 38. Hitelintézetektől származó bankközi
+betét kamat és kamatjellegű ráfordítása sorok a Felügyeleti mérleg vonatkozó forráscsoportjához tartozó –
+ügylettípus szerint részletezett – ráfordításokat tartalmazzák (31-40. sor).
+A 41. Felvett hitelek kamat és kamatjellegű ráfordítása a Felügyeleti mérleg Felvett hitelek soraiban
+található forrásokkal kapcsolatos ráfordításokat (42-48. sor), a 49. Értékpapírok kamat és kamatjellegű
+ráfordítása sor a saját kibocsátású – a részletezés szerinti – értékpapírok után térített és térítendő kamatokat és
+ilyen jellegű ráfordításokat tartalmazza (50-52. sor).
+Az 53. Hátrasorolt kötelezettségek kamat és kamatjellegű ráfordítása sorban kell jelenteni az alárendelt,
+illetve kiegészítő alárendelt kölcsöntőkeként kapott hitelek után elszámolt kamatokat.
+Az 54. Egyéb kamat és kamatjellegű ráfordítás sor mindazokat a kiadásokat tartalmazza, amelyek
+ügylettípusok szerint külön soronként nem kerültek részletezésre, de a hitelintézetnek (a Felügyeleti mérleg
+többi eszköz sorában kimutatott tételeiből) ilyen jellegű kiadása származik. Itt kell szerepeltetni – ha más
+kamatráfordítás sorba nem sorolható – az Szkr. 2. § (19) ill. 22. § szerinti kamatarbitrázs célú fedezeti
+ügyletekhez kapcsolódó, árfolyamkülönbözetből adódó kamatjellegű ráfordítást (amennyiben az
+ráfordításként jelentkezik), továbbá a kamatswapok nettó ráfordításként jelentkező eredményét [Szkr. 23. § (6)
+szerint].
+
+HMK-1-01
+56. Kamatkülönbözet (29-55. sor)
+Ez a sor tartalmazza a hitelintézet összes kamatának és kamatjellegű bevételének, illetve ráfordításának az
+egyenlegét.
+57. Kapott osztalék
+Az 58. és 59. részletező soroknak tartalmazniuk kell a befektetési célú részvényekből, részesedésekből
+származó kapott osztalékot, külön a kapcsolt vállalkozásoktól, külön pedig az egyéb részesedési viszonyban
+lévő vállalkozásoktól. A kapcsolt és egyéb részesedés viszonyban lévő vállalkozásoktól kapott
+osztalékkal összefüggésben a számviteli törvény rendelkezései alapján ezek a részesedések 20%-os
+mérték alapján határolódnak el egymástól. A 60. sorban kell szerepeltetni a forgatási célú részvényekből,
+részesedésekből származó osztalékot.
+61. Jutalék és díjeredmény (62-67. sor)
+Itt kell kimutatni a pénzügyi és befektetési szolgáltatáshoz kapcsolódó – nem kamatjellegű – jutalék és díj
+típusú bevételeket, ráfordításokat, az opciós díj kivételével.
+A 62. és a 67. Jutalékért végzett pénzügyi szolgáltatás bevétele, illetve ráfordítása sorokban mindazokat a
+jutalék, illetve jutalékjellegű bevételeket, díjakat, valamint költségeket, ráfordításokat kell kimutatni, amelyek
+a pénzügyi szolgáltatásokból származnak, de nem kamatjellegűek.
+A 66. és a 70. sorok tartalmazzák a Tpt. szerinti befektetési szolgáltatások jutalékbevételeit ill. ráfordításait. Itt
+kell szerepeltetni az értékpapír kibocsátás során felmerült bevételeket és ráfordításokat. Ezek például a
+lebonyolítási-szervezési díj, az ügylethez kapcsolódó szolgáltatások felmerült jutaléka, díja, költsége,
+alvállalkozói díja, valamint az átruházható értékpapírok forgalomba hozatalával, kereskedelmével
+kapcsolatban felszámolt díjakból, jutalékokból származó bevételek, illetve az e tevékenységek költségei,
+ráfordításai. Az értékpapírok értékesítésekor elszámolt árfolyameredményt nem itt kell kimutatni.
+71. Pénzügyi műveletek eredménye (72+88+104. sor)
+Ez a blokk tartalmazza a pénzügyi szolgáltatásból, valamint a befektetési szolgáltatásból származó pénzügyi
+műveletek nettó eredményét (beleértve a Pénzügyi műveletek egyéb bevételénél és egyéb ráfordításánál
+elszámolandó tételeket is)– kiegészítve a határidős ügyletek után elszámolt, számvitelileg az egyéb
+eredményben kimutatatott céltartalékkal.
+A pénzügyi műveletek nettó eredményén belül – a számviteli szabályok alapján – a devizaeszközök és
+devizakötelezettségek átértékeléséből, árfolyamváltozásából származó eredményben a pénzügyi
+rendezéshez és a konverzióhoz kapcsolódó realizált árfolyam különbözeteknek meg kell jelenni.
+A 72. Pénzügyi szolgáltatásokból származó eredményen belül külön kell szerepeltetni a befektetési célú
+értékpapírok és a vagyoni érdekeltségek értékesítéséből származó bevételeket és ráfordításokat, valamint ezek
+értékvesztésének képzését és visszaírását. Továbbá itt kell kimutatni azokat a pénzügyi szolgáltatásból
+származó egyéb bevételeket és ráfordításokat, amelyeket a számviteli előírások idesorolnak. (Például a
+devizaeszközök és kötelezettségek átértékeléséből származó nyereséget, veszteséget, valamint az ezekhez
+kapcsolódó árfolyamnyereséget és árfolyamveszteséget, továbbá a vásárolt követelések értékesítésének
+nyereségét és veszteségét, valamint értékvesztésük visszaírását.) A Pénzügyi szolgáltatás egyéb bevétele,
+illetve egyéb ráfordítása (86-87.) sorokban azokat az értékeket kell szerepeltetni, amelyek máshol,
+illetve a részletező sorokban nem kerültek kiemelésre, de a számviteli szabályok szerint a Pénzügyi
+szolgáltatásokból származó eredményen belül számolandók el. Ezekben az „egyéb” sorokban kell
+kimutatni a valós értékelésből adódó – a számviteli szabályok szerint itt elszámolandó – értékelési
+különbözetet is. A valós értékeléshez kapcsolódóan elszámolt értékelési különbözeteket a pénzügyi,
+valamint befektetési szolgáltatásból származó egyéb bevételek és ráfordítások között kell kimutatni, így
+a hivatkozott sorokon más különböző típusú tételekkel együtt jelennek meg. Az értékelési
+különbözetekről a 12. táblában kell külön információt szolgáltatni az értékelési különbözetnek az adott
+eredmény kategóriára gyakorolt hatásának vizsgálatához. A „határidős ügyletekhez kapcsolódó
+
+HMK-1-01
+céltartalék képzés, felhasználás és felszabadítás” értékeit a pénzügyi műveletek eredményében – a
+megfelelő részletező sorokban – kell kimutatni függetlenül attól, hogy számviteli szempontból az egyéb
+ráfordításokban és az egyéb bevételekben jelenik meg, nem ott, hanem itt, a pénzügyi műveletek
+eredményében kell jelennek meg. A „forgatási célú értékpapír értékesítéséhez kapcsolódó értékvesztés
+visszaírás” soroknál azt az összeget kell szerepeltetni, ami, mint értékvesztés visszaírás jelentkezne
+függetlenül attól, hogy számviteli szempontból az értékpapír könyvekből való kivezetésekor nem kell
+az értékvesztést az eredménnyel szemben visszaírni. E külön kiemelés miatt a kivezetés értékét
+korrigálni kell, mivel az értékpapír beszerzési értékét tartalmazó számla és az értékvesztés számla
+eredményének összevezetésével meghatározott (nettó) könyv szerinti értéket kell kivezetni.
+A 88. Hitelintézettel, MNB-vel végzett befektetési szolgáltatási tevékenységből származó eredmény
+sorban kell összesíteni – a befektetési szolgáltatási tevékenység eredményéből kiemelve – a hitelintézetekkel,
+illetve az MNB-vel kapcsolatos bevételeket és ráfordításokat. Ezen belül részletezve kell kimutatni a bankok
+ilyen tevékenysége keretén belül bonyolított deviza határidős, valamint egyéb határidős ügyletekből származó
+bevételét és ráfordítását, ideértve az ide sorolható opciós ügyletek eredményét és opciós díját is, valamint az
+ügyletekhez kapcsolódó – az Szkr. 23. és 24. §-a szerinti – céltartalék képzését, felhasználását, illetve
+felszabadítását is. Itt kell szerepeltetni a hitelintézetekkel és az MNB-vel végzett befektetési és szolgáltatási
+tevékenység keretén belüli forgatási célú értékpapírok értékesítéséből származó árfolyamnyereséget, -
+veszteséget, valamint az értékesítésükhöz kapcsolódó értékvesztés visszaírást is.
+A Hitelintézetekkel, MNB-vel végzett befektetési szolgáltatási tevékenységből származó egyéb bevétel,
+illetve egyéb ráfordítás (102-103.) sorokban azokat a számviteli szabályok szerint elszámolt
+összegeket kell szerepeltetni, amelyek a részletező sorokban nem kerültek kiemelésre. Ezekben az
+„egyéb” sorokban kell kimutatni a valós értékelésből adódó – a számviteli szabályok szerint
+elszámolandó, ezt az eredmény-csoportot érintő – értékelési különbözetet is.
+A 104. Befektetési szolgáltatásból származó tevékenység eredményén belül tételesen kell kimutatni a Tpt.
+szerinti befektetési szolgáltatási tevékenység keretén belüli deviza határidős és egyéb határidős ügyletekhez
+kapcsolódó bevételeket, ráfordításokat, valamint a céltartalék képzését, felhasználását, felszabadítását – a
+hitelintézetekkel, illetve az MNB-vel kapcsolatos tevékenységből származó bevételek és ráfordítások
+előző sorokban kiemelt összegének kivételével. Továbbá itt kell szerepeltetni a forgatási célú értékpapírok
+értékesítéséből származó árfolyamnyereséget, -veszteséget, valamint az értékvesztést és az értékvesztés
+visszaírását.
+A 119-120. Befektetési szolgáltatásból származó egyéb bevétel, illetve egyéb ráfordítás sorokban
+azokat az értékeket kell szerepeltetni, amelyek máshol, illetve a részletező sorokban nem kerültek
+kiemelésre, de amelyeket a számviteli szabályok szerint befektetési szolgáltatási tevékenységből
+származó eredményen belül kell elszámolni. Ezekben az „egyéb” sorokban kell kimutatni a valós
+értékelésből adódó – a számviteli szabályok szerint elszámolandó, ezt az eredmény-csoportot érintő –
+értékelési különbözetet is.
+121. Egyéb üzleti tevékenység eredménye (122+127. sor)
+A 121. Egyéb üzleti tevékenység eredményét meg kell bontani 122. Nem pénzügyi és befektetési
+szolgáltatási eredményre, valamint 127. Egyéb eredményre.
+
+HMK-1-01
+A 122. Nem pénzügyi és befektetési szolgáltatási eredményen belül külön kell szerepeltetni a lízingbe adott
+eszközök eredményét.
+A 127. Egyéb eredményen belül tételesen ki kell mutatni a saját követelés értékesítés bevételét, ráfordítását,
+valamint az ezekhez kapcsolódó értékvesztés visszaírását (128-130. sorok). A 131-134. soron kell
+szerepeltetni a követelés fejében átvett készletek között szereplő eszköz értékesítés bevételét, ráfordítását,
+értékvesztés elszámolását, visszaírását. Ezen eszközök, illetve a készletek értékesítéséből származó
+bevételek, illetve ráfordítások sorai kiemelést jelentenek a számviteli szabályok szerinti elszámolást
+jelentő 125-126. sorokból. A 135-141. csoporton belül kell szerepeltetni a saját készletértékesítés, valamint a
+tárgyi eszközök és immateriális javak eredményének elszámolását.
+A 142-144. sorok tartalmazzák az Szkr. illetve a Hpt. szerinti általános kockázati céltartalék képzését és ennek
+felhasználását, illetve felszabadítását, amelyek különbsége az Szkr. 2. számú mellékletében szereplő
+Eredménykimutatás I. 12/A. Általános kockázati céltartalék képzés és felhasználás különbözete sorában
+szerepel.
+A 145-147. Egyéb céltartalék képzése illetve felhasználása, felszabadítása sorokban kell szerepeltetni az
+Szkr. és egyéb jogszabályok szerint képzett, máshova nem sorolható céltartalékok képzését, valamint
+felhasználását, felszabadítását.
+A 148-150. soroknak kell tartalmazniuk az egyéb (külön sorokban nem kiemelt) bevételeket, ráfordításokat.
+151. Általános igazgatási költségek (152+…+161. sorok)
+Ebben a tételcsoportban kell kimutatni a hitelintézet működésével (pénzügyi és befektetési szolgáltatásával)
+kapcsolatos összes általános, banküzemi költséget. (Az aktívált saját teljesítmények itt nem szerepelhetnek.)
+Külön ki kell emelni a személyi jellegű kifizetések közül a bérköltségeket, a társadalombiztosítási kiadásokat,
+az egyéb járulékokat, stb. (152-155. sorok).
+A 154. sorban a társadalombiztosítási kiadásokat összesítve kell kimutatni függetlenül attól, hogy
+azokat számvitelileg a személyi jellegű egyéb ráfordítások, vagy az egyéb bérjárulékok között kell
+elszámolni.
+Részletezni kell még a fizetett bérleti díjakat, a számítástechnikai költségeket, szakértői díjakat, marketing
+költségeket is (156-159. sorok).
+A 160. Egyéb igazgatási költségek között a máshol fel nem sorolt költségeket kell szerepeltetni. A 161.
+Értékcsökkenési leírások közé a számviteli szabályok szerint az immateriális javak, tárgyi eszközök, stb.
+után elszámolt tételek kerülhetnek. Ez a sor kizárólag a költségként elszámolt terv szerinti
+értékcsökkenési leírásokat foglalja magában.
+162. Értékvesztés és kockázati céltartalék változása (-163+164-165+166-167+168-169+170-
+171+172+173. sor)
+Ebben a csoportban a saját és vásárolt követelések, befektetési célú értékpapírok, valamint vagyoni
+érdekeltségek értékelése kapcsán elszámolt értékvesztéseket és visszaírásokat, illetve csak a függő és jövőbeni
+kötelezettségekre elszámolt kockázati céltartalék képzéséből és felhasználásából, illetve felszabadításából
+adódó eredményt kell kimutatni. (Az Szkr. 23. §. (2), (4), (5) és 24. §. (5) bekezdése alapján a határidős és
+opciós ügyletekre képzett céltartalék itt nem szerepelhet, azt az előzőekben felsoroltak szerint külön sorokban
+kell feltüntetni.)
+
+HMK-1-01
+174. Szokásos (üzleti) tevékenység eredménye (56+57+61+71+121-151+162. sor)
+Ez a sor a hitelintézeti tevékenységgel kapcsolatos összes eddigi bevételnek, ráfordításnak és költségnek az
+egyenlegét: nyereségét, illetve veszteségét mutatja.
+175. Rendkívüli bevétel (176+…+179. sor) és 180. Rendkívüli ráfordítás (181+…+184. sor)
+Itt kell közölni a számviteli szabályok szerint elszámolt, rendkívülinek minősített bevételeket és
+ráfordításokat. Az itt szereplő tételeket a negyedévenkénti szöveges tájékoztatóban fel kell sorolni, és be kell
+mutatni a hozzájuk kapcsolódó – az eredménykimutatás más részeiben megjelenő – értékvesztéseket,
+értékvesztés visszaírásokat, céltartalék mozgásokat is.
+185. Adózás előtti eredmény (174+175-180. sor)
+E sor tartalmazza a hitelintézeti tevékenységből, működésből eredő összes tárgyévben elszámolt bevételnek,
+ráfordításnak és költségnek az egyenlegét. A sor tartalmában megegyezik az Szkr. 2. számú mellékletében
+szereplő Eredménykimutatás I. 19. sorával.
+186. Befizetett adó (év közben adóelőleg), év végén adófizetési kötelezettség sor
+Év közben e soron a havi eredménykimutatásban a ténylegesen befizetett társasági adóelőleg összegét kell
+szerepeltetni (függetlenül attól, hogy a hitelintézet a fizetett adóelőleget könyveiben hol tartja nyilván).
+Amennyiben a fizetett adóelőleg meghaladja az adófizetési kötelezettséget, az adóhatósággal szembeni
+követelés összegét (az adó-többletet) a 02. Tájékoztató adatok 1. között külön (a 125. sorban) fel kell tüntetni.
+Az év végére vonatkozó előzetes, még nem auditált jelentésekben azt az adófizetési kötelezettséget kell beírni,
+amelynek – az előzetes számítások szerint – az éves beszámolóban szerepelnie kell. Az év végi végleges
+jelentésben szereplő adat megegyezik az éves beszámolóban lévő adófizetési kötelezettség összegével.
+187. Adózott eredmény (185-186. sor)
+A sor tartalmában megegyezik az Szkr. 2. számú mellékletében szereplő Eredménykimutatás I. 21. sorával.
+188. Általános tartalék képzése sor
+Itt kell feltüntetni a Hpt., illetve az Szkr. által előírt, az adózott eredmény terhére – az osztalék, illetve
+részesedés kifizetése előtt – megképzett általános tartalék összegét.
+189. Általános tartalék felhasználása sor
+E sorban az általános tartaléknak – a Hpt., illetve az Szkr. által előírt – a hitelintézet tevékenységéből adódó
+veszteség rendezésére igénybevett értékét kell kimutatni.
+190. Eredménytartalék igénybevétele osztalékra, részesedésre sor
+Itt kell szerepeltetni az előző években felhalmozott eredménytartalékból a részvényesek osztalékára,
+részesedésére történő felhasználást. E sor tartalmában megegyezik az Szkr. 2. számú mellékletében szereplő
+Eredménykimutatás I. 23. sorával.
+
+HMK-1-01
+191. Fizetett (jóváhagyott) osztalék, részesedés sor
+Itt kell feltüntetni az év végi nyereségből a részvényesek osztalékára, részesedésére történő kifizetés összegét,
+kiemelve belőle a 192. sorban a kapcsolt vállalkozásnak, a 193. sorban pedig az egyéb részesedési
+viszonyban lévő vállalkozásnak fizetett osztalék, részesedés összegét. A sor tartalmában megegyezik az
+Szkr. 2. számú mellékletében szereplő Eredménykimutatás I. 24. sorával.
+194. Mérleg szerinti eredmény (év közben Eredmény) (187-188+189+190-191. sor)
+Az itt közölt adatnak meg kell egyeznie a Felügyeleti mérleg forrás oldalán a 748. soron jelentett adattal.
+Év közben a hitelintézet főkönyvi adatain alapuló, az Szkr. 12. § (2) bekezdés előírásainak megfelelően
+havonta (beleértve az előzetes decemberi adatokat is) lezárt eredményének – a bevételek, ráfordítások és
+költségek egyenlegének – ténylegesen befizetett társasági adóelőleggel csökkentett összegét kell kimutatni.
+(Ezt az eredményt nem befolyásolja az, hogy a hitelintézet a fizetett adóelőleget könyveiben hol tartja
+nyilván).
+Az előzetes decemberi eredmény kiszámításánál a bevételek és ráfordítások számbavételénél az adott
+pénzügyi helyzetnek megfelelően az összes (Hpt., Szmt., egyéb jogszabály által előírt) tartalékot el kell
+számolni, és a kiszámított adófizetési kötelezettség összegét kell figyelembe venni.
+A végleges decemberi jelentésnél az (auditált) éves beszámoló (a pénzügyi mérleg) adata jelenti a mérleg
+szerinti eredményt. Ez a sor tartalmában megegyezik az Szkr. 2. számú mellékletében szereplő
+Eredménykimutatás I. 25. sorával.
+08. tábla: Értékeléssel kapcsolatos adatok
+Ha a hitelintézet könyveiben a valós értékelés szabályait alkalmazza, akkor a 01. Felügyeleti mérleg
+táblában az egyes eszköz-csoportokra vonatkozóan szektoronként egy-egy sorban jelenik meg az
+értékvesztés és értékelési különbözet összevont egyenlege (szükség esetén negatív előjellel ellátva). A
+tábla részben ezek megbontását tartalmazza értékvesztésre és értékelési különbözetre, eszköz
+(intsrumentum)-csoportokon belül szektoronként, és külön sorokban jelenik meg a forrásoldali
+értékelési különbözet. Az értékvesztés, illetve értékelési különbözet adatokat egyenlegük jellegének
+megfelelő előjellel ellátva kell jelenteni. A részletezés a mérlegben szereplő sorrendet követi mind az
+értékvesztés, mind az értékelési különbözet esetében. Azok a mérlegsorok, ahol csak értékvesztés
+számolható el, nem szerepelnek a táblában, mert a mérleg sorai is csak értékvesztést tartalmaznak.
+A tábla bemutatja továbbá a forrásoldali értékelési különbözet-adatokat (amelyeket a Felügyeleti
+mérleg 708. sorában kell figyelembe venni), valamint az értékhelyesbítés és a valós érékelés tartalékát,
+amelyeket a 736. Értékelési tartalék sor részeként kell jelenteni.
+11. tábla: Felügyeleti mérleg (Eszközök könyv szerinti nettó értéken)
+A 11. tábla tartalmilag azonos a 01. táblában található Felügyeleti mérleg eszköz oldalával (01. tábla), csak az
+egyes sorokban az eszközök nettó (értékvesztéssel, céltartalékkal csökkentett, értékelési különbözettel
+módosított) értéken jelentendők. A 11. tábla kitöltésénél is a 01. táblához készített kitöltési útmutató az
+irányadó. A két eszköztábla kitöltése során biztosítani kell az azonos mérlegtételek megegyező tartalmú
+adatokkal való kitöltését és a lejárat szerinti bontások összhangját is. (Számviteli szempontból a „kereskedési
+célú pénzügyi eszközök” kategóriájába tartozó eszközök esetében képezi a könyv szerinti értéknek részét az
+értékelési különbözet, függetlenül attól, hogy magát az értékelési különbözetet mind a számviteli
+nyilvántartásokban, mind a számviteli mérlegben a bekerülési értéktől elkülönítetten kell kimutatni.)
+
+HMK-1-01
+12. tábla: Eredményadatok részletezése
+A tábla az Eredménykimutatás egyes soraira vonatkozóan tartalmaz kiegészítő, illetve részletező adatokat.
+A 2-3. sor a 29. Kamat és kamatjellegű bevétel összesen sorból a belföldi háztartásoktól, valamint a
+belföldi nem pénzügyi vállalatoktól kapott összes kamat és kamatjellegű bevétel összegét tartalmazza
+(beleértve a 4. sorban szerepeltetendő fedezeti ügyletekhez illetve a fedezeti ügyletként elszámolható
+ügyletekhez kapcsolódó tőlük származó kamatjellegű bevételeket is). A háztartásoktól származó kamat-
+és kamatjellegű bevételek kamattámogatások nélkül jelentendők, míg 3. sornak a nem pénzügyi
+vállalatoktól származó összes kamat- és kamatjellegű bevételt tartalmaznia kell (beleértve az esetleges
+kamattámogatást is).
+A 4. sorban a 29. Kamat és kamatjellegű bevétel összesen sorban jelentett összegből az Szkr. 22. §
+szerinti fedezeti ügyletekhez illetve a fedezeti ügyletként elszámolható ügyletekhez kapcsolódó
+kamatjellegű – belföldiektől és külföldiektől származó – bevételeket kell jelenteni.
+Az 5. sorba az 55. Kamat és kamatjellegű ráfordítás összesen sorban szereplő összegből az Szkr. 22. §
+szerinti fedezeti ügyletekhez illetve a fedezeti ügyletként elszámolható ügyletekhez kapcsolódó
+kamatjellegű – belföldiekkel és külföldiekkel kapcsolatos – ráfordítások összegét kell kiemelni.
+A 7-10. sorok a 63. Pénzforgalmi és lebonyolítási jutalékok sorban jelentett összeg részletezését tartalmazzák.
+11. Pénzügyi műveletek egyéb bevételéből értékelési különbözet
+A részletező sorokban kell szerepeltetni a Pénzügyi műveletek eredményében elszámolandó, de a pénzügyi
+szolgáltatásból, a hitelintézetekkel, illetve az MNB-vel kapcsolatos befektetési szolgáltatási tevékenységből,
+valamint a befektetési szolgáltatásból származó egyéb bevételekben kimutatott értékelési különbözet összegét.
+15. Pénzügyi műveletek egyéb ráfordításából értékelési különbözet
+A részletező sorokban kell kimutatni a Pénzügyi műveletek eredményében szereplő, de a pénzügyi
+szolgáltatásból, a hitelintézetekkel, illetve az MNB-vel kapcsolatos befektetési szolgáltatási tevékenységből,
+valamint a befektetési szolgáltatásból származó egyéb ráfordításoknál elszámolandó értékelési különbözetet.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXmail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB, PSZÁF
+
+2004/184. szám M A G Y AR K Ö Z L Ö N Y 14119
+MNB adatgyűjtés azonosító: F19, F33
+EGYES ESZKÖZ ÉS FORRÁSTÉTELEK
+negyedév végi állományának szektor illetve lejárat szerinti részletezése
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+001 ESZKÖZÖK
+002 Nyújtott hitel, elhelyezett betét könyv szerinti bruttó értéken
+003 Helyi önkormányzatok - 5 éven túli lejáratra nyújtott hitel
+004 GMU központi kormányzatnak nyújtott hitel
+005 GMU tagállami/tartományi kormányzat - legfeljebb 1 éves lejáratra nyújtott hitel
+
+GMU tagállami/tartományi kormányzat - legfeljebb 5 éves lejáratra nyújtott hosszú
+lejáratú hitel
+007 GMU tagállami/tartományi kormányzat - 5 éven túli lejáratra nyújtott hitel
+008 GMU helyi önkormányzatok - legfeljebb 1 éves lejáratra nyújtott hitel
+009 GMU helyi önkormányzatok - legfeljebb 5 éves lejáratra nyújtott hosszú lejáratú hitel
+010 GMU helyi önkormányzatok - 5 éven túli lejáratra nyújtott hitel
+011 GMU TB alapok - legfeljebb 1 éves lejáratra nyújtott hitel
+012 GMU TB alapok - legfeljebb 5 éves lejáratra nyújtott hosszú lejáratú hitel
+013 GMU TB alapok - 5 éven túli lejáratra nyújtott hitel
+014 Egyéb külföldi ÁHT-nak nyújtott hitel
+015 Egyéb külföldi szektorok hitele összesen
+016 Hitelintézetek tulajdonában lévő értékpapírok könyv szerinti nettó értéken
+017 GMU központi kormányzat értékpapírja
+018 GMU tagállami/tartományi kormányzat értékpapírja - rövid
+019 GMU tagállami/tartományi kormányzat értékpapírja - hosszú
+020 GMU helyi önkormányzati kötvény - rövid
+021 GMU helyi önkormányzati kötvény - hosszú
+022 GMU TB alapok kötvénye - rövid
+023 GMU TB alapok kötvénye - hosszú
+024 GMU egyéb pénzügyi közvetítők és püi kieg. tev-et végzők kötvénye - rövid
+025 GMU egyéb pénzügyi közvetítők és püi kieg. tev-et végzők kötvénye - hosszú
+026 GMU biztosítók és nyugdíjalapok kötvénye - rövid
+027 GMU biztosítók és nyugdíjalapok kötvénye - hosszú
+028 GMU nem pénzügyi vállalatok kötvénye - rövid
+029 GMU nem pénzügyi vállalatok kötvénye - hosszú
+030 GMU háztartások és háztartásokat segítő nonprofit intézmények kötvénye - rövid
+
+14120 M A G Y AR K Ö Z L Ö N Y 2004/184. szám
+MNB adatgyűjtés azonosító: F19, F33
+EGYES ESZKÖZ ÉS FORRÁSTÉTELEK
+negyedév végi állományának szektor illetve lejárat szerinti részletezése
+01 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül; szöv.hit.int.: millió Ft 3 tizedessel
+MNB
+sorsz.
+Megnevezés
+Forint
+a
+Euró
+b
+Egyéb deviza
+c
+Összesen
+d
+031 GMU háztartások és háztartásokat segítő nonprofit intézmények kötvénye - hosszú
+032 Egyéb külföldi bankok kötvénye
+033 Egyéb külföldi ÁHT kötvénye
+034 Egyéb külföldiek kötvénye
+035 GMU egyéb püi közvetítők és püi kieg. tev. végzők részvényei
+036 GMU biztosítók és nyugdíjalapok részvényei
+037 GMU nem pénzügyi vállalatok részvényei
+038 FORRÁSOK
+039 Betétek, felvett hitelek és hátrasorolt kötelezettségek
+040 GMU tagországi/tartományi kormányzat - látra szóló és folyószámla betét
+
+GMU tagországi/tartományi kormányzat - lekötött betét, felvett hitel, hátrasorolt
+kötelezettség
+042 GMU tagországi/tartományi kormányzat - repó ügyletekből szerzett forrás
+043 GMU helyi önkormányzatok - látra szóló és folyószámla betét
+044 GMU helyi önkormányzatok - lekötött betét, felvett hitel, hátrasorolt kötelezettség
+045 GMU helyi önkormányzatok - repó ügyletekből szerzett forrás
+046 GMU TB alapok - látra szóló és folyószámla betét
+047 GMU TB alapok - lekötött betét, felvett hitel, hátrasorolt kötelezettség
+048 GMU TB alapok - repó ügyletekből szerzett forrás
+049 Egyéb külföldi ÁHT
+050 Egyéb külföldiek
+051 TÁJÉKOZTATÓ ADATOK
+052 TB alapok összes hitele
+053 TB alapok összes betéte
+
+MNB adatgyűjtés azonosító: F19
+A nem rezidensekkel szembeni egyes követelések és tartozások
+negyedév végi állományának ORSZÁGBONTÁSA (hitelek bruttó, értékpapírok nettó könyv szerinti értéken)
+02 tábla Bankok, szakosított hit.int.: millió Ft tizedes nélkül
+Eszközök Források
+MNB
+sorszám
+Megnevezés
+Monetáris
+intézményeknek
+nyújtott hitel
+a
+Egyéb
+szektoroknak
+nyújtott hitel
+b
+Monetáris intézmények
+által kibocsátott kötvények
+– rövid
+c
+Monetáris intézmények által
+kibocsátott kötvények – hosszú –
+legf. 2 éves
+d
+Monetáris intézmények által
+kibocsátott kötvények – hosszú – 2
+éven túli
+e
+Egyéb szektorok
+által kibocsátott
+kötvények
+f
+Pénzpiaci alapok
+befektetési jegyei
+g
+Részvények és
+egyéb
+részesedések
+h
+Monetáris intézmények
+betétei, tőlük kapott
+egyéb források
+i
+Egyéb szektorok betétei, tőlük
+kapott egyéb források
+j
+001 EU tagországok
+002 Ausztria
+003 Belgium
+004 Dánia
+005 Finnország
+006 Franciaország
+007 Görögország
+008 Hollandia
+009 Írország
+010 Luxemburg
+011 Nagy-Britannia
+012 Németország
+013 Olaszország
+014 Portugália
+015 Spanyolország
+016 Svédország
+017 Új EU tagországok
+018 Egyéb külföld
+2004/184. szám M A G Y AR K Ö Z L Ö N Y 14121
+
+14122 M A G Y AR K Ö Z L Ö N Y 2004/184. szám
+MNB adatgyűjtés azonosító: F19, F33
+A Felügyeleti mérleghez kapcsolódó negyedéves jelentés kitöltési útmutatója
+I. Általános tudnivalók
+A Felügyeleti mérleg kitöltési útmutatójában leírt tartalmi előírások, definíciók és elvek itt is érvényesek.
+II. A jelentés kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+A jelentés az F01-es, illetve az F03-as jelentésben szereplő állományok továbbrészletezését tartalmazza, ezért a jelentésben szereplő
+adatoknak összhangban kell lenniük az aktuális mérlegadatokkal. A jelentést módosítani kell, ha az F01-es jelentés mérlegadataiban
+javítások történtek, vagy ha a decemberre vonatkozó pontosított (F08) vagy auditált (F09 illetve F14) mérlegadatokat tartalmazó
+jelentések összevontabb adatai és az itt részletezett adatok ellent mondanak egymásnak. A jelentésben a hiteleket könyv szerinti
+bruttó, az értékpapírokat és részesedéseket könyv szerinti nettó értéken kell jelenteni.
+01. tábla: Egyes eszköz és forrástételek negyedév végi állományának szektor és lejárat szerinti részletezése
+A 3-15. sorok az adatszolgáltató által nyújtott hitelek, elhelyezett betétek szektor és lejárat szerinti tovább-bontását tartalmazzák.
+A 14. és 15. sorokban a Felügyeleti mérleg 01. táblájának 329. és 330. soraiban jelentett állományok összegének egyéb külföldi
+ÁHT-nak és egyéb külföldieknek nyújtott hitelek szerinti részletezését kell jelenteni.
+A 17-37. sorokban az adatszolgáltatók tulajdonában lévő hitelviszonyt megtestesítő értékpapírok, valamint részvények és egyéb
+részesedések egyes szektorok és lejárat szerinti alábontását kell jelenteni.
+A 40-50. sorok a nem monetáris intézményektől, illetve a nem GMU külföldiek esetében a nem bankoktól származó betétek, repó
+ügyletekből szerzett források, felvett hitelek és hátrasorolt kötelezettségek szektorok szerinti tovább-részletezését tartalmazzák.
+A 49-50. sorokban az egyéb külföldiek betéteivel összevontan kell jelenteni a repó ügyletekből tőlük szerzett források, felvett hitelek
+és hátrasorolt kötelezettségek állományát.
+Az 52-53. sorok a belföldi TB alapok összes hitelét illetve összes betétét tartalmazzák.
+02. tábla: A nem rezidensekkel szembeni egyes követelések és tartozások negyedév végi állományának országbontása
+A Felügyeleti mérleg egyes tételeinek EU tagországok szerinti részletezését és egyéb külföldiekkel kapcsolatos állományaik együttes
+összegét tartalmazza a tábla. A 2004. május elsejétől EU tagokká vált országokkal szembeni állományokat a 17. sorban összevontan
+kell jelenteni. A nyújtott hitelek között jelentendők a repó ügyletekből származó követelések is, a monetáris intézményeknek nyújtott
+hitelek állományának pedig tartalmazniuk kell a külföldi monetáris intézményeknél elhelyezett betétek állományát is. A betétek közé
+beleértendők a felvett hitelek, a repó ügyletekből származó kötelezettségek és a hátrasorolt kötelezettségek is.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXmail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: F39
+Befektetési vállalkozások statisztikai mérlege
+millió Ft
+Az összesen állomány részletezése partner szektor szerint
+Állomány
+összesen
+A B C D E F G+H+I J K L
+Sor-
+szám
+Eszközök és források
+a b c d e f g h i j k
+
+1. Készpénz
+
+2. Bankbetét
+
+3. Nem részvény értékpapír (04+05+06)
+
+3.1 Hosszú lejáratú értékpapír
+
+3.2 Rövid lejáratú értékpapír
+
+3.3 Derivatíva
+
+4. Nyújtott hitel, kölcsön (08+09+10+11)
+
+4.1 Ingatlanhoz kapcsolódó hitel
+
+4.2 Fogyasztási hitel
+
+4.3 Egyéb hitel, kölcsön
+
+4.4 Követelés valódi penziós ügyletből
+
+5. Tulajdonosi részesedés (13+14+15)
+
+5.1 Részvény
+
+5.2 Üzletrész
+
+5.3 Befektetési jegy
+
+6. Egyéb követelések
+
+6.1 Elhatárolt kamatok
+
+7. Nem pénzügyi eszközök
+
+8. Eszközök összesen
+(01+02+03+07+12+16+18)
+
+9. Saját tőke
+
+9.1 Jegyzett tőke
+
+10. Nem részvény értékpapír (23+24)
+
+10.1 Hitelviszonyt megtestesítő értékpapír
+
+10.2 Derivatíva
+
+11. Felvett hitel, kölcsön (26+27+28)
+
+11.1 Hosszú lejáratú hitel, kölcsön
+
+11.2 Rövid lejáratú hitel, kölcsön
+
+11.3 Tartozás valódi penziós ügyletből
+
+12. Egyéb kötelezettségek
+
+MNB adatgyűjtés azonosító: F39
+Kitöltési útmutató
+Befektetési vállalkozások statisztikai mérlege
+I. Általános tudnivalók
+1. A statisztikai mérleget az év végi főkönyvi kivonat alapján kell összeállítani, de
+módosítani kell az év utolsó napjára vonatkozó értéknapot érintő, a mérlegkészítésig
+ismertté vált helyesbítésekkel, visszamenőleges rendező tételekkel. Az adatszolgáltatás
+előzetes adatokra vonatkozik, auditált adatokkal nem kell megismételni azt.
+2. A statisztikai mérleg adatai a befektetési vállalkozások által negyedéves rendszerességgel
+a PSZÁF-nak megküldött felügyeleti mérleg adataival együtt kerülnek felhasználásra.
+Ezért a statisztikai mérlegben jelentett instrumentumok (eszközök és kötelezettségek) köre
+és értékelése meg kell hogy egyezzen a felügyeleti mérlegben foglaltakkal. A felügyeleti
+mérlegtől eltérés van viszont az adatok részletezettségében, csoportosításában, partner
+szektor szerinti bontásában.
+3. A statisztikai mérlegben szerepeltetett adatok tartalmára, értékelésére vonatkozóan egyéb
+előírások hiányában a felügyeleti mérleg összeállítására, illetve a befektetési
+vállalkozások könyvvezetési és beszámolási kötelezettségeire vonatkozó szabályok,
+Kormány rendeletek és PM rendeletek az irányadóak. A mérlegben a deviza (valuta)
+tételeket forintra átszámítva, a forint tételekkel összevontan kell jelenteni.
+4. Az adatok szektorbontása
+A statisztikai mérlegben a pénzügyi eszközöket és a kötelezettségeket (forrásokat) az összesen
+állományon túl az MNB statisztikai szektorbontása szerinti ügyfélcsoportonként részletezve
+kell megadni. Az összesen tételek, illetve a nem pénzügyi eszközök és a saját tőke esetében a
+mérlegben csak a teljes állományt kell szerepeltetni. Egyéb instrumentumoknál
+értelemszerűen kell az összesen állományt megbontani az érintett ügyfél szektorok szerint.
+Amennyiben egyes tételek esetében nem, vagy nem teljes körűen áll rendelkezésre az
+ügyfelek szerinti bontás, azt becsléssel kell kiegészíteni.
+A jelentésben elkülönítendő szektorok az alábbiak:
+A Nem-pénzügyi vállalatok
+B Magyar Nemzeti Bank
+C Egyéb monetáris intézmények
+D Egyéb pénzügyi közvetítő tevékenységet végzők
+E Pénzügyi kiegészítő tevékenységet végzők
+F Biztosítók és nyugdíjpénztárak
+G+H+I Államháztartás (kormányzati szektor)
+J Háztartások
+K Háztartásokat segítő nonprofit intézmények
+L Külföld (nem rezidensek)
+
+Az Államháztartás további bontását központi kormányzatra (G), TB alapokra (I) és helyi
+önkormányzatokra (H) – más adatgyűjtésektől eltérően – nem kell elvégezni.
+Az MNB által 2001-ben bevezetett új szektorokkal, valamint az egyes ügyfelek szektorának
+meghatározásával kapcsolatban bővebb információ az 1. sz. Mellékletben található. Az
+intézmények szektorokba sorolását az ott leírtak szerint kell elvégezni.
+Az adatszolgáltató befektetési vállalkozásnak nem magát kell szektorba besorolnia, hanem a
+mérlegében szereplő pénzügyi eszközöket és forrásokat (mindegyiküket, ahol nincs kiszürkítés!)
+kell ügyfél, illetve partner szektorok szerint részleteznie.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+Eszközök
+1. Készpénz
+A készpénz a vállalkozás tulajdonában (pénztárában) lévő érme és bankjegy, nem tartalmazza a
+számlapénzt. A forint készpénz az MNB-vel szemben, a valuta külfölddel szemben fennálló
+követelés (itt a partner szektor az MNB, illetve a külföld).
+2. Bankbetétek
+Ezen a soron kell jelenteni a belföldi (B és C szektor) és külföldi (L szektor) monetáris
+intézményeknél (hitelintézeteknél) vezetett számlák, elhelyezett betétek év végi állományát könyv
+szerinti nettó (értékvesztéssel csökkentett) értéken.
+3. Nem részvény értékpapír (követelés)
+Ide tartoznak azok az értékpapírok a befektetési jegyek kivételével, amelyeket a számviteli, illetve
+felügyeleti mérleg a saját tulajdonban lévő állampapírok, vagy hitelviszonyt megtestesítő
+értékpapírok közé sorol, továbbá azok a derivatív ügyletekből származó esetleges követelések,
+amelyek az említett mérlegekben az egyéb követelések, vagy az aktív időbeli elhatárolások között
+szerepelnek. Az értékpapírokat könyv szerinti nettó (értékvesztéssel csökkentett) értéken kell
+jelenteni a statisztikai mérlegben. Az értékpapírok esetében a partner szektor az adós, azaz a
+kibocsátó szektora (pl. az államháztartás államkötvénynél), és nem a közvetítő, akitől a papír
+származik.
+Az értékpapírokat a derivatívák kivételével eredeti lejárat (futamidő) szerint hosszú és rövid
+(maximum egy éves) lejáratú értékpapírok bontásban kell bemutatni. A lejárat nélküli
+értékpapírok (például a kárpótlási jegyek formájában fennálló államháztartással szembeni
+követelés) a hosszú lejáratúak közé tartoznak.
+A derivatív ügyletekből származó követelések csak a felügyeleti mérlegben is szereplő
+követeléseket tartalmazhatnak. Ide tartoznak különösen a fedezeti céllal kötött határidős, vagy
+swap ügyletek miatt – az ügylet másik szereplőjétől járó kamatokkal, vagy egyéb bevételekkel
+szemben – elszámolt aktív időbeli elhatárolások.
+4. Nyújtott hitel, kölcsön
+A nyújtott hitelek és kölcsönök közé tartozik minden hitel vagy hitel jellegű követelés. Ide kell
+sorolni a halasztott fizetésből és a pénzügyi lízingből, illetve a faktoring ügyletből eredő
+követeléseket, továbbá külön kiemelve a valódi penziós ügyletből származó követeléseket is. Az
+
+instrumentumokat könyv szerinti nettó (értékvesztéssel korrigált) értéken kell jelenteni a
+statisztikai mérlegben.
+A hiteleket, kölcsönöket lejárat szerint nem, de típus szerint meg kell bontani ingatlanhoz
+(építéséhez, vásárlásához, cseréhez, felújításához, stb.), fogyasztási cikkek beszerzéséhez nyújtott
+hitelekre (áruvásárlási hitel, gépkocsi-vásárlási hitel, személyi hitel), egyéb hitelekre
+(kölcsönökre) és valódi penziós ügyletből származó követelésekre. Az ingatlan és fogyasztási
+hitel kategóriák csak a háztartások (J szektor) esetében használatosak, egyéb szektoroknál minden
+hitel az egyéb hitelek, kölcsönök közé kerül. A jelentő saját munkavállalói részére nyújtott hitelek
+állományát is a megfelelő hiteltípusnál, a háztartások szektornál kell szerepeltetni.
+5. Tulajdonosi részesedés
+Tulajdonosi részesedések között kell jelenteni a vállalkozás eszközei között szereplő részvények
+és egyéb részesedések, illetve befektetési jegyek nettó (értékvesztéssel korrigált) könyv szerinti
+értékét. Ebben az eszközcsoportban kell jelenteni valamennyi befektetési jegy állományát,
+ugyanakkor nem kell figyelembe venni a visszavásárolt saját részvényeket. Nem mutatható ki
+tulajdonosi részesedésből származó követelés az államháztartással és a háztartásokkal szemben.
+A részvények közé tartoznak a részvénytársaság formájában működő rezidens, vagy nem
+rezidens, pénzügyi vagy egyéb tevékenységet folytató vállalatoknak a jelentő tulajdonában lévő,
+tőzsdén jegyzett, vagy egyéb részvény értékpapírjai.
+Az üzletrészek között kell kimutatni minden egyéb, nem részvény és nem befektetési jegy
+formájában fennálló tulajdonosi részesedést.
+A befektetési jegyekhez soroljuk a rezidens vagy nem rezidens, nyílt, vagy zárt végű befektetési
+alapok által kibocsátott befektetési jegyeket. Befektetési jegy csak a külfölddel (L szektor), a
+pénzpiaci alapok esetében az egyéb monetáris intézményekkel (C szektor) és az egyéb pénzügyi
+közvetítőkkel (D szektor) szemben fennálló követelésként jelenthető.
+6. Egyéb követelések
+Az egyéb követelések közé tartoznak a mérlegből mindazok a pénzügyi eszközök (a
+visszavásárolt saját részvények kivételével), amelyek a többi eszközcsoportba nem kerültek
+besorolásra. Így különösen ide tartoznak a felügyeleti mérlegből az egyéb követelések a hitelnek
+minősített munkavállalói, tulajdonosi követelések kivételével; a hitelintézetekkel, ügyfelekkel,
+elszámolóházzal, kapcsolt vállalkozásokkal, stb. szembeni követelések a hitelek közé soroltak
+kivételével; továbbá az aktív időbeli elhatárolások. Amennyiben a felügyeleti mérlegben az egyéb
+követelések, vagy az időbeli elhatárolások között derivatív ügyletekből adódó követelés kerül
+elszámolásra, azt a statisztikai mérlegben nem itt, hanem az értékpapírok között, derivatívaként
+kell kimutatni. Az egyéb követelések között külön kiemelten is meg kell jeleníteni a pénzügyi
+eszközökön felhalmozott (elhatárolt) kamatokat. Az elhatárolt kamatok szektorbontása meg kell
+hogy feleljen a kamatozó alap instrumentum szektorbontásának.
+7. Nem pénzügyi eszközök
+A nem pénzügyi eszközök soron a vállalkozás tulajdonában lévő tárgyi eszközök, immateriális
+javak és készletek összesített könyv szerinti nettó értékét kell jelenteni.
+
+8. Eszközök összesen
+Az eszközök összesen tétel a felügyeleti mérleg eszközeit (mérlegfőösszegét) mutatja a
+visszavásárolt saját részvények kivételével. Az ebbe a sorba írt összeg meg kell hogy egyezzen a
+statisztikai mérleg 1-7. eszközcsoportjainak összegzett értékével.
+9. Saját tőke
+A felügyeleti mérleg saját tőke, illetve jegyzett tőke adatát kell itt szerepeltetni, mindkettőt
+csökkentve a visszavásárolt saját részvények összegével. A vállalkozás jegyzett tőkéjét be kell
+mutatni partner szektor bontásban, a tulajdonosok szektorának megfelelően.
+10. Nem részvény értékpapír (tartozás)
+Ide tartoznak a jelentő vállalkozás által kibocsátott hitelviszonyt megtestesítő értékpapírok és a
+derivatív ügyletekkel kapcsolatosan elszámolt tartozások. A kibocsátott értékpapírt könyv szerinti
+értéken kell szerepeltetni a statisztikai mérlegben. Az értékpapírok állományának tulajdonosi
+szektorok szerinti bontása becsléssel teljeskörűsítendő, ha a tulajdonosokról nem áll rendelkezésre
+közvetlen információ.
+A derivatív ügyletekből származó tartozásként csak a felügyeleti mérlegben is szereplő
+kötelezettségek jelenthetők. Ide tartoznak különösen a fedezeti céllal kötött határidős, vagy swap
+ügyletek miatt – az ügylet másik szereplőjét megillető kamatokkal, vagy egyéb ráfordításokkal
+szemben – elszámolt passzív időbeli elhatárolások.
+11. Felvett hitel, kölcsön
+A hitel és kölcsön tartozások közé kell sorolni minden hitelfelvétel vagy egyéb megállapodás
+alapján a gazdaság bármely szereplőjétől szerzett forrást. Ide tartoznak a halasztott fizetésből és a
+pénzügyi lízingből eredő tartozások, az alárendelt kölcsöntőke, továbbá külön kiemelve a valódi
+penziós ügyletből származó tartozások is. Az instrumentumokat könyv szerinti nettó értéken kell
+jelenteni a statisztikai mérlegben.
+A hiteleket, kölcsönöket lejárat (eredeti futamidő) szerint meg kell bontani hosszú és rövid
+(maximum egy éves) lejáratú tartozásokra.
+12. Egyéb kötelezettségek
+Az egyéb kötelezettségek közé tartoznak a mérleg mindazon a kötelezettségei, amelyek a többi
+kötelezettség csoportba nem kerültek besorolásra. Így különösen ide tartoznak a felügyeleti
+mérlegből az egyéb kötelezettségek a hitelnek minősített tartozások kivételével; a
+hitelintézetekkel, ügyfelekkel, elszámolóházzal, kapcsolt vállalkozásokkal, stb. szembeni
+tartozások a hitelek közé soroltak kivételével; a céltartalékok; a passzív időbeli elhatárolások;
+továbbá a hátrasorolt kötelezettségek az alárendelt kölcsöntőke kivételével. Amennyiben a
+felügyeleti mérlegben az egyéb kötelezettségek, vagy az időbeli elhatárolások között derivatív
+ügyletekből adódó kötelezettség kerül elszámolásra, azt a statisztikai mérlegben nem itt, hanem az
+értékpapírok között, derivatívaként kell kimutatni. Az egyéb kötelezettségek között külön
+kiemelten is meg kell jeleníteni a tartozásokon felhalmozott (elhatárolt) kamatokat. Az elhatárolt
+kamatok szektorbontása meg kell hogy feleljen a kamatozó alap instrumentum szektorbontásának.
+
+13. Források összesen
+A források összesen a felügyeleti mérleg passzíváit mutatja a visszavásárolt saját részvények
+kivételével (mérlegfőösszeg csökkentve a visszavásárolt saját részvények összegével). Az ebbe a
+sorba írt összeg meg kell hogy egyezzen a statisztikai mérleg 9-12. eszközcsoportjainak
+összegzett értékével, illetve a 8. Eszközök összesen sorban szereplő értékkel.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: mágneslemez
+A beküldés formája: MNB szabványos (text) fájl illetve Excel tábla
+Az adatszolgáltatás címzettje: MNB Statisztikai főosztály Adatbefogadó és előkészítő osztály
+
+MNB adatgyűjtés azonosító: F40
+Pénzügyi vállalkozások statisztikai mérlege
+millió Ft
+Az összesen állomány részletezése partner szektor szerint
+Állomány
+összesen
+A B C D E F G+H+I J K L
+Sor-
+szám
+Eszközök és források
+a b c d e f g h i j k
+
+1. Készpénz
+
+2. Bankbetét
+
+3. Nem részvény értékpapír (04+05+06)
+
+3.1 Hosszú lejáratú értékpapír
+
+3.2 Rövid lejáratú értékpapír
+
+3.3 Derivatíva
+
+4. Nyújtott hitel, kölcsön (08+09+10+11)
+
+4.1 Ingatlanhoz kapcsolódó hitel
+
+4.2 Fogyasztási hitel
+
+4.3 Egyéb hitel, kölcsön
+
+4.4 Követelés valódi penziós ügyletből
+
+5. Tulajdonosi részesedés (13+14+15)
+
+5.1 Részvény
+
+5.2 Üzletrész
+
+5.3 Befektetési jegy
+
+6. Egyéb követelések
+
+6.1 Elhatárolt kamatok
+
+7. Nem pénzügyi eszközök
+
+8. Eszközök összesen
+(01+02+03+07+12+16+18)
+
+9. Saját tőke
+
+9.1 Jegyzett tőke
+
+10. Nem részvény értékpapír (23+24)
+
+10.1 Hitelviszonyt megtestesítő értékpapír
+
+10.2 Derivatíva
+
+11. Felvett hitel, kölcsön (26+27+28)
+
+11.1 Hosszú lejáratú hitel, kölcsön
+
+11.2 Rövid lejáratú hitel, kölcsön
+
+11.3 Tartozás valódi penziós ügyletből
+
+12. Egyéb kötelezettségek
+
+12.1 Elhatárolt kamatok
+
+13. Források összesen (20+22+25+29)
+
+MNB adatgyűjtés azonosító: F40
+Kitöltési útmutató
+Pénzügyi vállalkozások statisztikai mérlege
+I. Általános tudnivalók
+1. A statisztikai mérleget az év végi főkönyvi kivonat alapján kell összeállítani, de
+módosítani kell az év utolsó napjára vonatkozó értéknapot érintő, a mérlegkészítésig
+ismertté vált helyesbítésekkel, visszamenőleges rendező tételekkel. Az adatszolgáltatás
+előzetes adatokra vonatkozik, auditált adatokkal nem kell megismételni azt.
+2. A statisztikai mérleg adatai a pénzügyi vállalkozások által negyedéves rendszerességgel a
+PSZÁF-nak megküldött felügyeleti mérleg adataival együtt kerülnek felhasználásra. Ezért
+a statisztikai mérlegben jelentett instrumentumok (eszközök és kötelezettségek) köre és
+értékelése meg kell hogy egyezzen a felügyeleti mérlegben foglaltakkal. A felügyeleti
+mérlegtől eltérés van viszont az adatok részletezettségében, csoportosításában, partner
+szektor szerinti bontásában.
+3. A statisztikai mérlegben szerepeltetett adatok tartalmára, értékelésére vonatkozóan egyéb
+előírások hiányában a felügyeleti mérleg összeállítására, illetve a pénzügyi vállalkozások
+könyvvezetési és beszámolási kötelezettségeire vonatkozó szabályok, Kormány rendeletek
+és PM rendeletek az irányadóak. A mérlegben a deviza (valuta) tételeket forintra
+átszámítva, a forint tételekkel összevontan kell jelenteni.
+4. Az adatok szektorbontása
+A statisztikai mérlegben a pénzügyi eszközöket és a kötelezettségeket (forrásokat) az összesen
+állományon túl az MNB statisztikai szektorbontása szerinti ügyfélcsoportonként részletezve
+kell megadni. Az összesen tételek, illetve a nem pénzügyi eszközök és a saját tőke esetében a
+mérlegben csak a teljes állományt kell szerepeltetni. Egyéb instrumentumoknál
+értelemszerűen kell az összesen állományt megbontani az érintett ügyfél szektorok szerint.
+Amennyiben egyes tételek esetében nem, vagy nem teljes körűen áll rendelkezésre az
+ügyfelek szerinti bontás, azt becsléssel kell kiegészíteni.
+A jelentésben elkülönítendő szektorok az alábbiak:
+A Nem-pénzügyi vállalatok
+B Magyar Nemzeti Bank
+C Egyéb monetáris intézmények
+D Egyéb pénzügyi közvetítő tevékenységet végzők
+E Pénzügyi kiegészítő tevékenységet végzők
+F Biztosítók és nyugdíjpénztárak
+G+H+I Államháztartás (kormányzati szektor)
+J Háztartások
+K Háztartásokat segítő nonprofit intézmények
+L Külföld (nem rezidensek)
+
+Az Államháztartás további bontását központi kormányzatra (G), TB alapokra (I) és helyi
+önkormányzatokra (H) – más adatgyűjtésektől eltérően – nem kell elvégezni.
+Az MNB által 2001-ben bevezetett új szektorokkal, valamint az egyes ügyfelek szektorának
+meghatározásával kapcsolatban bővebb információ az 1. sz. Mellékletben található. Az
+intézmények szektorokba sorolását az ott leírtak szerint kell elvégezni.
+Az adatszolgáltató pénzügyi vállalkozásnak nem magát kell szektorba besorolnia, hanem a
+mérlegében szereplő pénzügyi eszközöket és forrásokat (mindegyiküket, ahol nincs kiszürkítés!)
+kell ügyfél, illetve partner szektorok szerint részleteznie.
+II. A táblák kitöltésével kapcsolatos részletes tudnivaló, az adatok összeállításának módja
+Eszközök
+1. Készpénz
+A készpénz a vállalkozás tulajdonában (pénztárában) lévő érme és bankjegy, nem tartalmazza a
+számlapénzt. A forint készpénz az MNB-vel szemben, a valuta külfölddel szemben fennálló
+követelés (itt a partner szektor az MNB, illetve a külföld).
+2. Bankbetétek
+Ezen a soron kell jelenteni a belföldi (B és C szektor) és külföldi (L szektor) monetáris
+intézményeknél (hitelintézeteknél) vezetett számlák, elhelyezett betétek év végi állományát könyv
+szerinti nettó (értékvesztéssel csökkentett) értéken.
+3. Nem részvény értékpapír (követelés)
+Ide tartoznak azok az értékpapírok a befektetési jegyek kivételével, amelyeket a számviteli, illetve
+felügyeleti mérleg a saját tulajdonban lévő állampapírok, vagy hitelviszonyt megtestesítő
+értékpapírok közé sorol, továbbá azok a derivatív ügyletekből származó esetleges követelések,
+amelyek az említett mérlegekben az egyéb követelések, vagy az aktív időbeli elhatárolások között
+szerepelnek. Az értékpapírokat könyv szerinti nettó (értékvesztéssel csökkentett) értéken kell
+jelenteni a statisztikai mérlegben. Az értékpapírok esetében a partner szektor az adós, azaz a
+kibocsátó szektora (pl. az államháztartás államkötvénynél), és nem a közvetítő, akitől a papír
+származik.
+Az értékpapírokat a derivatívák kivételével eredeti lejárat (futamidő) szerint hosszú és rövid
+(maximum egy éves) lejáratú értékpapírok bontásban kell bemutatni. A lejárat nélküli
+értékpapírok (például a kárpótlási jegyek formájában fennálló államháztartással szembeni
+követelés) a hosszú lejáratúak közé tartoznak.
+A derivatív ügyletekből származó követelések csak a felügyeleti mérlegben is szereplő
+követeléseket tartalmazhatnak. Ide tartoznak különösen a fedezeti céllal kötött határidős, vagy
+swap ügyletek miatt – az ügylet másik szereplőjétől járó kamatokkal, vagy egyéb bevételekkel
+szemben – elszámolt aktív időbeli elhatárolások.
+4. Nyújtott hitel, kölcsön
+A nyújtott hitelek és kölcsönök közé tartozik minden hitel vagy hitel jellegű követelés. Ide kell
+sorolni a halasztott fizetésből és a pénzügyi lízingből, illetve a faktoring ügyletből eredő
+követeléseket, továbbá külön kiemelve a valódi penziós ügyletből származó követeléseket is. Az
+
+instrumentumokat könyv szerinti nettó (értékvesztéssel korrigált) értéken kell jelenteni a
+statisztikai mérlegben.
+A hiteleket, kölcsönöket lejárat szerint nem, de típus szerint meg kell bontani ingatlanhoz
+(építéséhez, vásárlásához, cseréhez, felújításához, stb.), gépjárműhöz (motorkerékpár,
+személy-, kishaszon- és tehergépjármű lízing és hitel, gépjármű park finanszírozása, stb.)
+kapcsolódó hitelre, egyéb hitelekre (kölcsönök, faktoring) és valódi penziós ügyletből
+származó követelésekre. Valamennyi hitel, kölcsön típust minden szektorra vonatkozóan be
+kell mutatni, amelyeknek a jelentő hitelt nyújtott. A jelentő saját munkavállalói részére
+nyújtott hitelek állományát is a megfelelő hiteltípusnál, a háztartások szektornál kell
+szerepeltetni.
+5. Tulajdonosi részesedés
+Tulajdonosi részesedések között kell jelenteni a vállalkozás eszközei között szereplő
+részvények és egyéb részesedések, illetve befektetési jegyek nettó (értékvesztéssel korrigált)
+könyv szerinti értékét. Ebben az eszközcsoportban kell jelenteni valamennyi befektetési jegy
+állományát, ugyanakkor nem kell figyelembe venni a visszavásárolt saját részvényeket. Nem
+mutatható ki tulajdonosi részesedésből származó követelés az államháztartással és a
+háztartásokkal szemben.
+A részvények közé tartoznak a részvénytársaság formájában működő rezidens, vagy nem
+rezidens, pénzügyi vagy egyéb tevékenységet folytató vállalatoknak a jelentő tulajdonában
+lévő, tőzsdén jegyzett, vagy egyéb részvény értékpapírjai.
+Az üzletrészek között kell kimutatni minden egyéb, nem részvény és nem befektetési jegy
+formájában fennálló tulajdonosi részesedést.
+A befektetési jegyekhez soroljuk a rezidens vagy nem rezidens, nyílt, vagy zárt végű befektetési
+alapok által kibocsátott befektetési jegyeket. Befektetési jegy csak a külfölddel (L szektor), a
+pénzpiaci alapok esetében az egyéb monetáris intézményekkel (C szektor) és az egyéb pénzügyi
+közvetítőkkel (D szektor) szemben fennálló követelésként jelenthető.
+6. Egyéb követelések
+Az egyéb követelések közé tartoznak a mérlegből mindazok a pénzügyi eszközök (a
+visszavásárolt saját részvények kivételével), amelyek a többi eszközcsoportba nem kerültek
+besorolásra. Így különösen ide tartoznak a felügyeleti mérlegből az egyéb követelések a hitelnek
+minősített munkavállalói, tulajdonosi követelések kivételével; a hitelintézetekkel, ügyfelekkel,
+elszámolóházzal, kapcsolt vállalkozásokkal, stb. szembeni követelések a hitelek közé soroltak
+kivételével; továbbá az aktív időbeli elhatárolások. Amennyiben a felügyeleti mérlegben az egyéb
+követelések, vagy az időbeli elhatárolások között derivatív ügyletekből adódó követelés kerül
+elszámolásra, azt a statisztikai mérlegben nem itt, hanem az értékpapírok között, derivatívaként
+kell kimutatni. Az egyéb követelések között külön kiemelten is meg kell jeleníteni a pénzügyi
+eszközökön felhalmozott (elhatárolt) kamatokat. Az elhatárolt kamatok szektorbontása meg kell
+hogy feleljen a kamatozó alap instrumentum szektorbontásának.
+7. Nem pénzügyi eszközök
+A nem pénzügyi eszközök soron a vállalkozás tulajdonában lévő tárgyi eszközök, immateriális
+javak és készletek összesített könyv szerinti nettó értékét kell jelenteni.
+
+8. Eszközök összesen
+Az eszközök összesen tétel a felügyeleti mérleg eszközeit (mérlegfőösszegét) mutatja a
+visszavásárolt saját részvények kivételével. Az ebbe a sorba írt összeg meg kell hogy egyezzen a
+statisztikai mérleg 1-7. eszközcsoportjainak összegzett értékével.
+9. Saját tőke
+A felügyeleti mérleg saját tőke, illetve jegyzett tőke adatát kell itt szerepeltetni, mindkettőt
+csökkentve a visszavásárolt saját részvények összegével. A vállalkozás jegyzett tőkéjét be kell
+mutatni partner szektor bontásban, a tulajdonosok szektorának megfelelően.
+10. Nem részvény értékpapír (tartozás)
+Ide tartoznak a jelentő vállalkozás által kibocsátott hitelviszonyt megtestesítő értékpapírok és a
+derivatív ügyletekkel kapcsolatosan elszámolt tartozások. A kibocsátott értékpapírt könyv szerinti
+értéken kell szerepeltetni a statisztikai mérlegben. Az értékpapírok állományának tulajdonosi
+szektorok szerinti bontása becsléssel teljeskörűsítendő, ha a tulajdonosokról nem áll rendelkezésre
+közvetlen információ.
+A derivatív ügyletekből származó tartozásként csak a felügyeleti mérlegben is szereplő
+kötelezettségek jelenthetők. Ide tartoznak különösen a fedezeti céllal kötött határidős, vagy swap
+ügyletek miatt – az ügylet másik szereplőjét megillető kamatokkal, vagy egyéb ráfordításokkal
+szemben – elszámolt passzív időbeli elhatárolások.
+11. Felvett hitel, kölcsön
+A hitel és kölcsön tartozások közé kell sorolni minden hitelfelvétel vagy egyéb megállapodás
+alapján a gazdaság bármely szereplőjétől szerzett forrást. Ide tartoznak a halasztott fizetésből és a
+pénzügyi lízingből eredő tartozások, az alárendelt kölcsöntőke, továbbá külön kiemelve a valódi
+penziós ügyletből származó tartozások is. Az instrumentumokat könyv szerinti nettó értéken kell
+jelenteni a statisztikai mérlegben.
+A hiteleket, kölcsönöket lejárat (eredeti futamidő) szerint meg kell bontani hosszú és rövid
+(maximum egy éves) lejáratú tartozásokra.
+12. Egyéb kötelezettségek
+Az egyéb kötelezettségek közé tartoznak a mérleg mindazon a kötelezettségei, amelyek a többi
+kötelezettség csoportba nem kerültek besorolásra. Így különösen ide tartoznak a felügyeleti
+mérlegből az egyéb kötelezettségek a hitelnek minősített tartozások kivételével; a
+hitelintézetekkel, ügyfelekkel, elszámolóházzal, kapcsolt vállalkozásokkal, stb. szembeni
+tartozások a hitelek közé soroltak kivételével; a céltartalékok; a passzív időbeli elhatárolások;
+továbbá a hátrasorolt kötelezettségek az alárendelt kölcsöntőke kivételével. Amennyiben a
+felügyeleti mérlegben az egyéb kötelezettségek, vagy az időbeli elhatárolások között derivatív
+ügyletekből adódó kötelezettség kerül elszámolásra, azt a statisztikai mérlegben nem itt, hanem az
+értékpapírok között, derivatívaként kell kimutatni. Az egyéb kötelezettségek között külön
+kiemelten is meg kell jeleníteni a tartozásokon felhalmozott (elhatárolt) kamatokat. Az elhatárolt
+kamatok szektorbontása meg kell hogy feleljen a kamatozó alap instrumentum szektorbontásának.
+
+13. Források összesen
+A források összesen a felügyeleti mérleg passzíváit mutatja a visszavásárolt saját részvények
+kivételével (mérlegfőösszeg csökkentve a visszavásárolt saját részvények összegével). Az ebbe a
+sorba írt összeg meg kell hogy egyezzen a statisztikai mérleg 9-12. eszközcsoportjainak
+összegzett értékével, illetve a 8. Eszközök összesen sorban szereplő értékkel.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: mágneslemez
+A beküldés formája: MNB szabványos (text) fájl illetve Excel tábla
+Az adatszolgáltatás címzettje: MNB Statisztikai főosztály Adatbefogadó és előkészítő osztály
+
+MNB adatgyűjtés azonosító: H01
+A nem pénzügyi vállalatokkal szembeni követelések állományai
+01. tábla: Nem pénzügyi vállalatoknak nyújtott éven túli forint hitelek állományai könyv szerinti bruttó értéken
+(millió forint)
+Éven túli forint hitelek
+200...... ..........
+záró állomány
+Sor-
+szám
+Nemzetgazdasági ágak, ágazatok
+a
+01 Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás
+02 Bányászat
+03 Feldolgozó ipar
+04 ebből: élelmiszeripar, ital, dohány gyártása
+05 kokszgyártás, kőolajfeldolgozás, nukleáris fűtőanyag gyártása, vegyianyag, termék gyártása, gumi, műanyag termék
+gyártása
+06 fém alapanyag, fémfeldolgozási termék gyártása
+07 gép, berendezés gyártása, villamos gép, műszer gyártása, járműgyártás
+08 textília, textiláru gyártása, bőrtermék, lábbeli gyártása, fafeldolgozás, papírgyártás, kiadói, nyomdai tevékenység,
+máshová nem sorolt feldolgozóipar
+09 egyéb nem fém ásványi termék gyártása, nyersanyag visszanyerése hulladékból
+10 Villamosenergia-, gáz-, hő- és vízellátás
+11 Építőipar
+12 Kereskedelem, javítás
+13 Szálláshely-szolgáltatás, vendéglátás
+14 Szállítás, raktározás, posta, távközlés
+15 Pénzügyi tevékenység
+16 Ingatlanügyek, gazdasági szolgáltatás
+17 Egyéb tevékenységek
+18 NEMZETGAZDASÁGI ÁGAZATOK ÖSSZESEN
+19 Tárgyévi folyósítás
+
+MNB adatgyűjtés azonosító: H01
+A nem pénzügyi vállalatokkal szembeni követelések állományai
+02. tábla: Nem pénzügyi vállalatoknak nyújtott éven belüli forint hitelek állományai könyv szerinti bruttó értéken
+(millió forint)
+Folyószámlahitelek Egyéb éven belüli hitelek
+200...... ..........
+záró állomány
+200...... ..........
+záró állomány
+Sor-
+szám
+Nemzetgazdasági ágak, ágazatok
+a b
+01 Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás
+02 Bányászat
+03 Feldolgozó ipar
+04 ebből: élelmiszeripar, ital, dohány gyártása
+05 kokszgyártás, kőolajfeldolgozás, nukleáris fűtőanyag gyártása, vegyianyag, termék gyártása, gumi, műanyag termék gyártása
+06 fém alapanyag, fémfeldolgozási termék gyártása
+07 gép, berendezés gyártása, villamos gép, műszer gyártása, járműgyártás
+
+textília, textiláru gyártása, bőrtermék, lábbeli gyártása, fafeldolgozás, papírgyártás, kiadói, nyomdai tevékenység, máshová
+nem sorolt feldolgozóipar
+09 egyéb nem fém ásványi termék gyártása, nyersanyag visszanyerése hulladékból
+10 Villamosenergia-, gáz-, hő- és vízellátás
+11 Építőipar
+12 Kereskedelem, javítás
+13 Szálláshely-szolgáltatás, vendéglátás
+14 Szállítás, raktározás, posta, távközlés
+15 Pénzügyi tevékenység
+16 Ingatlanügyek, gazdasági szolgáltatás
+17 Egyéb tevékenységek
+18 NEMZETGAZDASÁGI ÁGAZATOK ÖSSZESEN
+
+MNB adatgyűjtés azonosító: H01
+A nem pénzügyi vállalatokkal szembeni követelések állományai
+03. tábla: Nem pénzügyi vállalatoknak nyújtott deviza hitelek állományai könyv szerinti bruttó értéken
+(millió forint)
+Éven túli deviza hitelek Éven belüli deviza hitelek
+200...... ..........
+záró állomány
+200...... ..........
+záró állomány
+Sor-
+szám
+Nemzetgazdasági ágak, ágazatok
+a b
+01 Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás
+02 Bányászat
+03 Feldolgozó ipar
+04 ebből: élelmiszeripar, ital, dohány gyártása
+05 kokszgyártás, kőolajfeldolgozás, nukleáris fűtőanyag gyártása, vegyianyag, termék gyártása, gumi, műanyag termék gyártása
+06 fém alapanyag, fémfeldolgozási termék gyártása
+07 gép, berendezés gyártása, villamos gép, műszer gyártása, járműgyártás
+
+textília, textiláru gyártása, bőrtermék, lábbeli gyártása, fafeldolgozás, papírgyártás, kiadói, nyomdai tevékenység, máshová
+nem sorolt feldolgozóipar
+09 egyéb nem fém ásványi termék gyártása, nyersanyag visszanyerése hulladékból
+10 Villamosenergia-, gáz-, hő- és vízellátás
+11 Építőipar
+12 Kereskedelem, javítás
+13 Szálláshely-szolgáltatás, vendéglátás
+14 Szállítás, raktározás, posta, távközlés
+15 Pénzügyi tevékenység
+16 Ingatlanügyek, gazdasági szolgáltatás
+17 Egyéb tevékenységek
+18 NEMZETGAZDASÁGI ÁGAZATOK ÖSSZESEN
+
+MNB adatgyűjtés azonosító: H01
+A nem pénzügyi vállalatokkal szembeni követelések állományai
+04. tábla: Nem pénzügyi vállalatoknak nyújtott összes forint- és deviza hitel könyv szerinti nettó (értékvesztéssel és értékelési különbözettel módosított) állománya
+(millió forint)
+Összes forint hitel Összes deviza hitel
+200...... ..........
+záró állomány
+200...... ..........
+záró állomány
+Sor-
+szám
+Nemzetgazdasági ágak, ágazatok
+a b
+01 Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás
+02 Bányászat
+03 Feldolgozó ipar
+04 ebből: élelmiszeripar, ital, dohány gyártása
+05 kokszgyártás, kőolajfeldolgozás, nukleáris fűtőanyag gyártása, vegyianyag, termék gyártása, gumi, műanyag termék gyártása
+06 fém alapanyag, fémfeldolgozási termék gyártása
+07 gép, berendezés gyártása, villamos gép, műszer gyártása, járműgyártás
+
+textília, textiláru gyártása, bőrtermék, lábbeli gyártása, fafeldolgozás, papírgyártás, kiadói, nyomdai tevékenység, máshová
+nem sorolt feldolgozóipar
+09 egyéb nem fém ásványi termék gyártása, nyersanyag visszanyerése hulladékból
+10 Villamosenergia-, gáz-, hő- és vízellátás
+11 Építőipar
+12 Kereskedelem, javítás
+13 Szálláshely-szolgáltatás, vendéglátás
+14 Szállítás, raktározás, posta, távközlés
+15 Pénzügyi tevékenység
+16 Ingatlanügyek, gazdasági szolgáltatás
+17 Egyéb tevékenységek
+18 NEMZETGAZDASÁGI ÁGAZATOK ÖSSZESEN
+
+MNB adatgyűjtés azonosító: H01
+Kitöltési útmutató
+A nem pénzügyi vállalatokkal szembeni követelések állományai
+I. Általános tudnivalók
+1. A jelentést a KSH mindenkor érvényes TEÁOR listájának (A Gazdasági Tevékenységek
+Egységes Ágazati Osztályozási Rendszere) segítségével kell kitölteni. A TEÁOR szerint
+pénzügyi jellegű főtevékenységet végző nem pénzügyi vállalatok adatait a „15. Pénzügyi
+tevékenység” soron kell jelenteni.
+2. A 01-03. táblákban a hitel állományi adatokat könyv szerinti bruttó (értékvesztéssel és
+értékelési különbözettel nem módosított) értéken kell megadni. A 04. tábla az összes forint és
+deviza hitelállományt tartalmazza könyv szerinti nettó (értékvesztéssel és értékelési
+különbözettel módosított) értéken.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának
+módja
+1. A H01 adatszolgáltatás és a Felügyeleti mérleg adatai között kötelező egyezőség áll fenn,
+amelynek a „Nemzetgazdasági ágazatok összesen” sorra kell érvényesülnie. A kötelező
+összefüggéseket külön táblába foglalva az MNB honlapján közzétett, e rendelet 3. sz.
+mellékletének 5 pontja szerinti technikai segédlet tartalmazza.
+III. A jelentés beküldésének módja
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB Statisztikai főosztály
+
+MNB adatgyűjtés azonosító: H08
+Hitel- és betétállomány településtípusonkénti bontásban
+A takarékszövetkezet központjának településtípusa: millió Ft 3 tizedessel
+Bruttó
+hitelállomány
+ebből:
+ingatlan
+fedezetű hitel
+(bruttó)
+Nettó
+hitelállomány
+ebből:
+ingatlan
+fedezetű hitel
+(nettó)
+Betét
+Sor-
+szám
+Településtípusok*
+a b c d e
+01 Budapest összesen
+02 Megyeszékhely (Bp. nélkül) összesen
+03 Városok (Bp. és megyeszékhelyek nélkül) összesen
+04 Községek összesen
+05 ÖSSZESEN (01+02+03+04 sorok)
+*/ A településtípus szerinti besorolást a szolgáltatást nyújtó kirendeltség telephelye alapján kell meghatározni!
+A takarékszövetkezet központjának településtípusa szerinti kódok:
+Budapest: 1
+Megyeszékhely: 2
+Város: 3
+Község: 4
+
+MNB adatgyűjtés azonosító: H08
+Kitöltési útmutató
+Hitel-és betétállomány településtípusonkénti bontásban
+I. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+A tábla nettó hitelállomány oszlopában a Felügyeleti Mérleg összesen oszlopában szereplő, 174 MNB sorszámú
+állományt kell megbontani településtípusonként, míg a bruttó hitelállomány oszlopban az értékvesztéssel növelt
+állományokat kell szerepeltetni. (Az ingatlan fedezetű hitelek a lakáscélú hiteleket is tartalmazzák.) A betét
+oszlopban a Felügyeleti Mérleg összesen oszlopában szereplő, 441 MNB sorszámú állományt kell megbontani
+településtípusonként.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail, titkosított e-mail (közvetlenül, vagy az OTIVÁ-n keresztül
+közvetetten)
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: H09
+A nem pénzügyi vállalatokkal szembeni követelések állományai
+01. tábla: Nem pénzügyi vállalatoknak nyújtott éven túli forint hitelek állományai könyv szerinti bruttó értéken
+(millió forint 3 tizedessel)
+Éven túli forint hitelek
+200...... ..........
+záró állomány
+Sor-
+szám
+Nemzetgazdasági ágak, ágazatok
+a
+01 Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás
+02 Bányászat
+03 Feldolgozó ipar
+04 ebből: élelmiszeripar, ital, dohány gyártása
+05 kokszgyártás, kőolajfeldolgozás, nukleáris fűtőanyag gyártása, vegyianyag, termék gyártása, gumi, műanyag termék
+gyártása
+06 fém alapanyag, fémfeldolgozási termék gyártása
+07 gép, berendezés gyártása, villamos gép, műszer gyártása, járműgyártás
+08 textília, textiláru gyártása, bőrtermék, lábbeli gyártása, fafeldolgozás, papírgyártás, kiadói, nyomdai tevékenység,
+máshová nem sorolt feldolgozóipar
+09 egyéb nem fém ásványi termék gyártása, nyersanyag visszanyerése hulladékból
+10 Villamosenergia-, gáz-, hő- és vízellátás
+11 Építőipar
+12 Kereskedelem, javítás
+13 Szálláshely-szolgáltatás, vendéglátás
+14 Szállítás, raktározás, posta, távközlés
+15 Pénzügyi tevékenység
+16 Ingatlanügyek, gazdasági szolgáltatás
+17 Egyéb tevékenységek
+18 NEMZETGAZDASÁGI ÁGAZATOK ÖSSZESEN
+19 Tárgyévi folyósítás
+
+MNB adatgyűjtés azonosító: H09
+A nem pénzügyi vállalatokkal szembeni követelések állományai
+02. tábla: Nem pénzügyi vállalatoknak nyújtott éven belüli forint hitelek állományai könyv szerinti bruttó értéken
+(millió forint 3 tizedessel)
+Folyószámlahitelek Egyéb éven belüli hitelek
+200...... ..........
+záró állomány
+200...... ..........
+záró állomány
+Sor-
+szám
+Nemzetgazdasági ágak, ágazatok
+a b
+01 Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás
+02 Bányászat
+03 Feldolgozó ipar
+04 ebből: élelmiszeripar, ital, dohány gyártása
+05 kokszgyártás, kőolajfeldolgozás, nukleáris fűtőanyag gyártása, vegyianyag, termék gyártása, gumi, műanyag termék gyártása
+06 fém alapanyag, fémfeldolgozási termék gyártása
+07 gép, berendezés gyártása, villamos gép, műszer gyártása, járműgyártás
+
+textília, textiláru gyártása, bőrtermék, lábbeli gyártása, fafeldolgozás, papírgyártás, kiadói, nyomdai tevékenység, máshová
+nem sorolt feldolgozóipar
+09 egyéb nem fém ásványi termék gyártása, nyersanyag visszanyerése hulladékból
+10 Villamosenergia-, gáz-, hő- és vízellátás
+11 Építőipar
+12 Kereskedelem, javítás
+13 Szálláshely-szolgáltatás, vendéglátás
+14 Szállítás, raktározás, posta, távközlés
+15 Pénzügyi tevékenység
+16 Ingatlanügyek, gazdasági szolgáltatás
+17 Egyéb tevékenységek
+18 NEMZETGAZDASÁGI ÁGAZATOK ÖSSZESEN
+
+MNB adatgyűjtés azonosító: H09
+A nem pénzügyi vállalatokkal szembeni követelések állományai
+03. tábla: Nem pénzügyi vállalatoknak nyújtott deviza hitelek állományai könyv szerinti bruttó értéken
+(millió forint 3 tizedessel)
+Éven túli deviza hitelek Éven belüli deviza hitelek
+200...... ..........
+záró állomány
+200...... ..........
+záró állomány
+Sor-
+szám
+Nemzetgazdasági ágak, ágazatok
+a b
+01 Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás
+02 Bányászat
+03 Feldolgozó ipar
+04 ebből: élelmiszeripar, ital, dohány gyártása
+05 kokszgyártás, kőolajfeldolgozás, nukleáris fűtőanyag gyártása, vegyianyag, termék gyártása, gumi, műanyag termék gyártása
+06 fém alapanyag, fémfeldolgozási termék gyártása
+07 gép, berendezés gyártása, villamos gép, műszer gyártása, járműgyártás
+
+textília, textiláru gyártása, bőrtermék, lábbeli gyártása, fafeldolgozás, papírgyártás, kiadói, nyomdai tevékenység, máshová
+nem sorolt feldolgozóipar
+09 egyéb nem fém ásványi termék gyártása, nyersanyag visszanyerése hulladékból
+10 Villamosenergia-, gáz-, hő- és vízellátás
+11 Építőipar
+12 Kereskedelem, javítás
+13 Szálláshely-szolgáltatás, vendéglátás
+14 Szállítás, raktározás, posta, távközlés
+15 Pénzügyi tevékenység
+16 Ingatlanügyek, gazdasági szolgáltatás
+17 Egyéb tevékenységek
+18 NEMZETGAZDASÁGI ÁGAZATOK ÖSSZESEN
+
+MNB adatgyűjtés azonosító: H09
+A nem pénzügyi vállalatokkal szembeni követelések állományai
+04. tábla: Nem pénzügyi vállalatoknak nyújtott összes forint- és deviza hitel könyv szerinti nettó
+(értékvesztéssel és értékelési különbözettel módosított) állománya
+(millió forint 3 tizedessel)
+Összes forint hitel Összes deviza hitel
+200...... ..........
+záró állomány
+200...... ..........
+záró állomány
+Sor-
+szám
+Nemzetgazdasági ágak, ágazatok
+a b
+01 Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás
+02 Bányászat
+03 Feldolgozó ipar
+04 ebből: élelmiszeripar, ital, dohány gyártása
+05 kokszgyártás, kőolajfeldolgozás, nukleáris fűtőanyag gyártása, vegyianyag, termék gyártása, gumi, műanyag termék gyártása
+06 fém alapanyag, fémfeldolgozási termék gyártása
+07 gép, berendezés gyártása, villamos gép, műszer gyártása, járműgyártás
+
+textília, textiláru gyártása, bőrtermék, lábbeli gyártása, fafeldolgozás, papírgyártás, kiadói, nyomdai tevékenység, máshová
+nem sorolt feldolgozóipar
+09 egyéb nem fém ásványi termék gyártása, nyersanyag visszanyerése hulladékból
+10 Villamosenergia-, gáz-, hő- és vízellátás
+11 Építőipar
+12 Kereskedelem, javítás
+13 Szálláshely-szolgáltatás, vendéglátás
+14 Szállítás, raktározás, posta, távközlés
+15 Pénzügyi tevékenység
+16 Ingatlanügyek, gazdasági szolgáltatás
+17 Egyéb tevékenységek
+18 NEMZETGAZDASÁGI ÁGAZATOK ÖSSZESEN
+
+MNB adatgyűjtés azonosító: H09
+Kitöltési útmutató
+A nem pénzügyi vállalatokkal szembeni követelések állományai
+I. Általános tudnivalók
+1. Az adatszolgáltatók közül az 5 milliárd forintnál nagyobb mérlegfőösszeggel rendelkező
+szövetkezeti hitelintézetek köre minden évben a június 30-ai Felügyeleti mérleg alapján kerül
+felülvizsgálatra. Az 5 milliárd forint mérlegfőösszeget egyszer is meghaladó szövetkezeti
+hitelintézetek adatszolgáltatási kötelezettsége akkor sem fog változni, ha mérlegfőösszegük
+ismét 5 milliárd forint alá csökken. Az adatszolgáltatói körbe újonnan belépő szövetkezeti
+hitelintézeteknek a mérethatár felülvizsgálatát követő évtől kell az adatszolgáltatási
+kötelezettségnek eleget tenni.
+2. A jelentést a KSH mindenkor érvényes TEÁOR listájának (A Gazdasági Tevékenységek
+Egységes Ágazati Osztályozási Rendszere) segítségével kell kitölteni. A TEÁOR szerint
+pénzügyi jellegű főtevékenységet végző nem pénzügyi vállalatok adatait a „15. Pénzügyi
+tevékenység” soron kell jelenteni.
+3. A 01-03. táblákban a hitel állományi adatokat könyv szerinti bruttó (értékvesztéssel és
+értékelési különbözettel nem módosított) értéken kell megadni. A 04. tábla az összes forint és
+deviza hitelállományt tartalmazza könyv szerinti nettó (értékvesztéssel és értékelési
+különbözettel módosított) értéken.
+IV. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának
+módja
+1. A H09 adatszolgáltatás és a Felügyeleti mérleg adatai között kötelező egyezőség áll fenn,
+amelynek a „Nemzetgazdasági ágazatok összesen” sorra kell érvényesülnie. A kötelező
+összefüggéseket külön táblába foglalva az MNB honlapján, e rendelet 3. sz. mellékletének 5.
+pontja szerinti technikai segédlet tartalmazza.
+V. A jelentés beküldésének módja
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB Statisztikai főosztály
+
+MNB adatgyűjtés azonosító: H34
+A HÁZTARTÁSI SZEKTOR RÉSZÉRE NYÚJTOTT LAKÁSCÉLÚ HITELÁLLOMÁNY ÖSSZETÉTELE /*
+01. tábla: A lakáshitel portfolió megoszlása minősítési kategóriák szerint
+millió Ft
+Külön figyelendő Átlag alatti Kétes Rossz Összesen Leírt követelések
+Nem problémamentes
+eladott követelések
+Probléma-
+mentes
+nettó
+bruttó/
+nyilv.
+nettó
+bruttó/
+nyilv.
+nettó
+bruttó/
+nyilv.
+nettó
+bruttó/
+nyilv.
+nettó
+bruttó/
+nyilv.
+nettó
+bruttó/
+nyilv.
+nettó
+bruttó/
+nyilv.
+Sor-
+szám Megnevezés
+a b c d e f g h i j k l m n o
+01 Piaci kamatozású hitelek
+02 Támogatott hitelek
+02. tábla: A lakáshitel portfolió megoszlása fizetési késedelem szerint
+millió Ft
+Fizetési
+késedelem
+nélkül
+30 napon
+belüli
+késedelem
+30-60
+napos
+késedelem
+60-90
+napos
+késedelem
+90-180
+napos
+késedelem
+180-360
+napos
+késedelem
+360 napon
+túli
+késedelem
+Sor-
+szám
+Megnevezés
+a b c d e f g
+01 Piaci kamatozású hitelek
+02 Támogatott hitelek
+03 Összesen
+03. tábla: A hitelállomány összetétele a hitelek hátralévő futamideje szerint
+Fennálló tőketartozás
+(millió Ft)
+Sor-
+szám
+Megnevezés
+a
+01 5 év alatti
+02 5-10 év közötti
+03 10-15 év közötti
+04 15-20 év közötti
+05 20 év feletti
+06 Összesen
+
+MNB adatgyűjtés azonosító: H34
+A HÁZTARTÁSI SZEKTOR RÉSZÉRE NYÚJTOTT LAKÁSCÉLÚ HITELÁLLOMÁNY ÖSSZETÉTELE /*
+04.tábla: A hitelállomány LTV arány szerinti megoszlása
+Tárgynegyedévben
+folyósított hitelállomány
+(millió Ft)
+Fennálló tőketartozás
+(millió Ft)
+Piaci
+kamatozású
+hitelek
+Támogatott
+hitelek
+Piaci
+kamatozású
+hitelek
+Támogatott
+hitelek
+Sor-
+szám
+LTV aránya
+a b c d
+01 20% alatti
+02 20-30% közötti
+03 30-40% közötti
+04 40-50% közötti
+05 50-60% közötti
+06 60-70% közötti
+07 70% feletti
+08 Összesen
+LTV (Loan to Value) = hitel aránya az ingatlan legfrissebb rendelkezésre álló információk alapján számított
+hitelbiztosítéki értékéhez
+05. tábla: A hitelállomány egyedi volumen szerinti megoszlása
+Darab
+Sor-
+szám
+Megnevezés
+a
+01 2 M Ft-ig
+02 2-5 M Ft között
+03 5-10 M Ft között
+04 10-20 M Ft között
+05 20-50 M Ft között
+06 50-100 M Ft között
+07 100 M Ft felett
+08 Összesen
+/* A 3. és 5. sz. táblák a teljes (piaci + támogatott) lakáshitel állományra vonatkoznak
+
+MNB adatgyűjtés azonosító: H34
+Kitöltési útmutató
+A háztartási szektor részére nyújtott lakáscélú hitelállomány összetétele
+I. Általános tudnivalók
+Definíciók: Az F01 adatszolgáltatás lakáscélú hitelekre alkalmazott definíciójának megfelelően.
+Kötelező egyezőségek:
+Az adatszolgáltatáson belüli és a Felügyeleti mérleghez (F01) kapcsolódó kötelező egyezőségeket az MNB honlapján
+közzétett, e rendelet 3. sz. mellékletének 5. pontja szerinti technikai segédlet tartalmazza. A 01-04 táblák összesített
+portfolióra vonatkozó adatainak meg kell egyezni az F01-es adatszolgáltatásban lakáscélúként definiált hitelek
+(korrigálva a saját dolgozóknak nyújtott hitelek állományával) összesített állományával.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: A lakáshitel portfolió megoszlása minősítési kategóriák szerint
+A táblában a kintlevőségek minősítésének és értékelésének szempontjairól szóló jogszabályi előírások szerinti minősítés
+alapján kell a kockázatvállalást jelentő állományi adatokat szerepeltetni. Az egyes minősítési kategóriában egyaránt fel
+kell tüntetni az állományok nettó és könyv szerinti bruttó értékét. A kettő hányadosának meg kell felelnie a
+kintlevőségek, befektetések, mérlegen kívüli tételek és a fedezetek minősítésének és értékelésének szempontjairól szóló
+14/2001. (III. 9.) PM rendeletben foglalt előírásoknak.
+02. tábla: A lakáshitel portfolió megoszlása fizetési késedelem szerint
+Késedelmesnek minősül az a követelés, amely esetében az ügyfél tőketörlesztési késedelemben van, vagy a hitelintézet
+lejárttá teszi, illetve jogszabály szerint lejárttá válik és a hitelintézet a számviteli szabályok szerint hitelezési
+veszteségként még nem írta le.
+A késedelmes követeléseket könyv szerinti bruttó értéken kell kimutatni.
+Az egy hitellel kapcsolatos meg nem fizetett részleteket az esedékességtől eltelt időponttól számított lejárati napok
+számának megfelelő sávban kell szerepeltetni. Ha a hitelintézet a késedelmes hitelkövetelést az elmaradt törlesztések
+szerint megbontani nem tudja vagy ez aránytalanul nagy költséggel járna, akkor a prudens megközelítés szellemében az
+egész kölcsönt a legrégebben lejárt sávban kell kimutatni.
+03. tábla: A hitelállomány összetétele a hitelek hátralévő futamideje szerint
+A táblában a lakáscélú hitelállomány megoszlását a beszámolási időszak és a hitel lejáratáig terjedő időszak figyelembe
+vételével kell bemutatni.
+
+04.tábla: A hitelállomány LTV arány szerinti megoszlása
+A táblában a hitel / hitelfedezetei érték (LTV) mutató alapján kell bemutatni a lakáshitel célú hitelállományt piaci és
+államilag támogatott típusú hitelek megosztásban. A hitelfedezeti érték meghatározásánál a fedezetül szolgáló
+ingatlanok aktuális, a legfrissebb rendelkezésre álló információkon alapuló fedezeti értékét kell figyelembe venni.
+A tábla "a" és "b" oszlopa a tárgynegyedévben folyósított hitelállományra, a "c" és "d" oszlop a teljes hitelállományra
+vonatkozik.
+05. tábla: A hitelállomány egyedi volumen szerinti megoszlása
+A táblában a lakáshitel portfoliót az adott beszámolási negyedév végéig elfogadott és folyósított egyedi
+hitelszerződések megoszlása alapján kell bemutatni, az eredetileg folyósított hitelnagyság szerinti megoszlásban.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: K01
+Jelentés a nem pénzügyi vállalatok forintbetéteinek és forinthiteleinek kamatlábáról
+01 tábla: Új szerződések
+új szerződés
+(millió forint)
+szerződéses kamatláb
+%
+évesített kamatláb
+%
+Sorkód Kategóriák
+a b c
+01 Lekötött betét - rövid
+02 Lekötött betét - hosszú - legfeljebb 2 éves lejáratú
+03 Lekötött betét - hosszú - 2 éven túli lejáratú
+04 Repóügyletekből származó kötelezettség
+
+Egyéb hitel - változó kamatozás vagy legfeljebb 1 éves
+kamatfixálás - legfeljebb 1 millió euró összeghatárig
+
+Egyéb hitel - hosszú - legalább 1, legfeljebb 5 éves
+kamatfixálás - legfeljebb 1 millió euró összeghatárig
+
+Egyéb hitel - hosszú - 5 éven túli kamatfixálás -
+legfeljebb 1 millió euró összeghatárig
+
+Egyéb hitel - változó kamatozás vagy legfeljebb
+1 éves kamatfixálás - 1 millió euró összeghatár felett
+
+Egyéb hitel - hosszú - legalább 1, legfeljebb 5 éves
+kamatfixálás - 1 millió euró összeghatár felett
+
+Egyéb hitel - hosszú - 5 éven túli kamatfixálás -
+1 millió euró összeghatár felett
+
+MNB adatgyűjtés azonosító: K01
+Jelentés a nem pénzügyi vállalatok forintbetéteinek és forinthiteleinek kamatlábáról
+02 tábla: Állományi tábla
+aktuális kamatláb
+%
+évesített kamatláb
+%
+Sorkód Kategóriák
+a b
+01 Látra szóló és folyószámlabetét
+02 Lekötött betét - legfeljebb 2 éves lejáratú
+03 Lekötött betét - hosszú - 2 éven túli lejáratú
+04 Repóügyletekből származó kötelezettség
+05 Folyószámlahitel
+06 Egyéb hitel - rövid
+07 Egyéb hitel - hosszú - legfeljebb 5 éves lejáratú
+08 Egyéb hitel - hosszú - 5 éven túli lejáratú
+
+MNB adatgyűjtés azonosító: K01
+Kitöltési útmutató
+Jelentés a nem pénzügyi vállalatok forintbetéteinek és forinthiteleinek kamatlábáról
+I. Általános tudnivalók
+Az adatszolgáltatók közül az 5 milliárd forintnál nagyobb mérlegfőösszeggel rendelkező szövetkezeti
+hitelintézetek köre minden évben a június 30-ai Felügyeleti mérleg alapján kerül felülvizsgálatra. Az 5
+milliárd forint mérlegfőösszeget egyszer is meghaladó szövetkezeti hitelintézetek adatszolgáltatási
+kötelezettsége akkor sem fog változni, ha mérlegfőösszegük ismét 5 milliárd forint alá csökken. Az
+adatszolgáltatói körbe újonnan belépő szövetkezeti hitelintézeteknek a mérethatár felülvizsgálatát
+követő évtől kell az adatszolgáltatási kötelezettségnek eleget tenni.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+1. A jelentésben a 01. Új szerződések táblában a tárgyhónap során a nem pénzügyi vállalatokkal
+kötött új forintbetét és új forinthitel szerződésekben szereplő
+• összeget,
+• szerződéses kamatlábat,
+• évesített kamatlábát kell szerepeltetni.
+2. Új szerződés
+• minden olyan új pénzügyi jellegű megállapodás az adatszolgáltató és a nem pénzügyi vállalatok
+között, mely elsőként határozza meg a betétek, illetve a hitelek kamatlábát,
+• meglévő hitelekre és betétekre vonatkozó új megállapodások.
+A jelentés szempontjából újnak tekintendők a prolongált és az átárazott szerződések is az alábbiak
+kivételével.
+Az új szerződések értékét a bankoknak és szakosított hitelintézeteknek tizedesjegy nélkül, a
+szövetkezeti hitelintézeteknek három tizedesjeggyel kell jelenteni. A százalékos formában kifejezett
+adatokat négy tizedesjegy pontossággal kell beküldeni.
+3. Nem tekinthető új szerződésnek
+• az a prolongáció illetve átárazás, mely automatikusan - az eredeti szerződés alapján, az ügyfél
+közreműködése nélkül - történik, és ahol nem tárgyalják újra a feltételeket és a kamatlábat sem.
+(Például a folyamatos lekötésű betéti konstrukciók, amennyiben a lekötés futamidejét az ügyfél
+nem változtatja meg.)
+• fix kamatozású konstrukció automatikus átalakulása változó kamatozásúvá, vagy fordítva -
+amennyiben ezt az átalakulást már az eredeti szerződésben rögzítették.
+4. Az új szerződéseket a szerződéskötés időpontjára/hónapjára vonatkozóan beküldött statisztikában
+kell jelenteni. Új szerződésként kell jelenteni a tárgyhónapban kötött új betétszerződések adatait akkor
+is, ha azok a tárgyhónapban lejárnak, illetve az ügyfél a tárgyhónapban felmondja a betétet.
+
+5. A hitelek esetében az eredeti szerződésben rögzített teljes összeget (hitelkeretet) és a szerződésben
+meghatározott kamatlábat kell jelenteni az új szerződések között akkor is, ha a hitelt részletekben veszik
+igénybe. Új szerződésként kell jelenteni a meglévő hitelkeret növelését is. Ebben az esetben csak a
+hitelkeret-növekményt kell jelenteni. Amennyiben a szerződéskötéskor még nem ismert a kamatláb,
+amellyel az ügyfél igénybe veszi a hitelt, a hitelkeretet az első folyósítás időpontjában kell jelenteni az első
+hitelfolyósítás kamatlábával, de szerződéses összegként a teljes hitelkeretet kell feltüntetni.
+6. Amennyiben egy lekötött betéthez az ügyfél tetszőleges gyakorisággal fizethet be újabb összegeket,
+minden befizetés új szerződésnek minősül.
+7. Állomány
+A 02. Állományi táblában az adatszolgáltatók által elfogadott betétek és folyósított hitelek tárgyhó végén
+fennálló állományára vonatkozó
+• aktuális kamatlábat
+• és évesített kamatlábat kell jelenteni.
+A hó végi állományok nagyságát nem kell szerepeltetni a jelentésben, mivel megegyeznek a Felügyeleti
+mérleg megfelelő soraival. Amennyiben a Felügyeleti mérlegben az adott sorhoz tartozó állomány nem éri
+el a félmillió forintot, nem kell hozzá kamatlábértéket jelenteni.
+Az állományokra vonatkozóan a tárgyhónap utolsó napján az adott hitelekre és betétekre vonatkozó
+aktuális kamatlábat kell kimutatni (és nem a meghirdetettet).
+A folyószámlahitelek, és a látra szóló és folyószámlabetétek esetében csak a 02-es táblában az
+állományokra vonatkozó kamatlábat kell jelenteni.
+A rossznak minősített hitelek állományát és kamatlábát a súlyozott átlagkamatláb meghatározásánál nem
+kell figyelembe venni. Rossz hitel: a kintlevőségek befektetések, mérlegen kívüli tételek és a fedezetek
+minősítésének és értékelésének szempontjairól szóló PM rendelet [14/2001. (III. 9.)] szerint meghatározott
+fogalom.
+Az átlagkamatláb számításánál nem kell figyelembe venni a követelések között kimutatott esedékes, ki
+nem fizetett, de függővé nem tett kamatok, kamatjellegű jutalékok állományát sem (amennyiben ezek nem
+kamatoznak).
+8. Piaci kamatláb és kamattámogatás
+A jelentésben szerepeltetni kell a piaci kamatozású és a kedvezményes kamatozású konstrukciókat is. A
+kamatstatisztika keretében azokat a betéti illetve hitelkamatlábakat kell jelenteni, melyeket az
+adatszolgáltató az egyes betétekre fizet, illetve a hitelekre kap. Amennyiben az ügyfélnek vagy az ügyfél
+által fizetett kamatláb eltér attól, amit az adatszolgáltató ténylegesen kap illetve fizet, akkor az ügyfél felé
+meghatározott kamatlábat korrigálni kell, és a korrigált kamatlábat kell a jelentésben szerepeltetni.
+9. Évesített kamatláb
+Az évesített kamatláb számításának célja, hogy a különböző lejáratú konstrukciók kamatlábai
+összehasonlíthatók legyenek. Az évesített kamatláb számítására a következő két képletet lehet alkalmazni.
+
+Az évesített kamatláb számítására a következő jelenérték számítási képletet kell alkalmazni. Ez a képlet
+minden betét- és hitelkonstrukcióra alkalmazható. A képlet az ügylet kezdő időpontjában keletkező
+pénzmozgást teszi egyenlővé a későbbi időpontok cash-flow-inak jelenértékével. Az évesített kamatláb az a
+belső megtérülési ráta, ahol a cash-flow-k jelenértéke megegyezik.
+a) A képletek szempontjából a kamattőkésítés rendszeressége a meghatározó. (A kamattőkésítés csak a
+betéti konstrukcióknál értelmezhető. A továbbiakban a kamattőkésítés szót használjuk a
+kamatmegállapításra, illetve a kamatfizetésre is.) Amennyiben a kamattőkésítés és a tőketörlesztés is
+szabályos időközönként történik, a kamattőkésítés és a tőketörlesztés viszonyára három fő esetet
+különböztetünk meg.
+1. A kamattőkésítés és a tőketörlesztés is azonos időközönként történik, rendszerességük megegyezik.
+2. A kamattőkésítés gyakoribb, mint a tőketörlesztés. (Ide tartozik az az eset is, amikor a tőketörlesztés
+csak a futamidő végén egy összegben történik.)
+3. A tőketörlesztés gyakoribb, mint a kamattőkésítés.
+b) A kamattőkésítés és a tőketörlesztés nem szabályos időközönként történik.
+Az a) esetben amikor a kamattőkésítés legalább olyan gyakori, mint a tőketörlesztés (a/1, a/2. eset), a két
+képlet azonos eredményt ad, ekkor a 2. képlet is alkalmazható.
+Az a/3. esetben valamint a b) esetben csak az 1. képletet lehet alkalmazni. (Például ide tartoznak azok a
+kamattámogatásos konstrukciók is, amikor a kamattámogatás és a kamatfizetés periódusa nem esik egybe.)
+1. képlet
+∑
+∑
+=
+=
++
+=
++
+'
+'
+'
+
+'
+1 )
+
+(
+)
+
+(
+m
+k
+t
+k
+m
+k
+t
+k
+k
+k i
+A
+i
+A
+Ak
+: a k sorszámú hitelrészlet illetve betételhelyezés összege, a képlet akkor is alkalmazható, ha a
+hitelt egy részletben veszik igénybe, illetve egyszerre helyezik el a betétet. Ilyenkor a képlet bal
+oldalán az elhelyezett betétösszeg, illetve a felvett hitel összege található.
+A'k
+: a k' sorszámú törlesztőrészlet összege, illetve a betétvisszafizetés összege (kamatokkal
+növelve),
+m: a hitelfolyósítások, betételhelyezések száma,
+m': a törlesztőrészletek, betétvisszafizetések száma,
+tk
+: a k-adik hitelfolyósítás, betételhelyezés években vagy töredékévekben kifejezett időpontja,
+t'k
+: a k'-adik törlesztőrészlet, betétvisszafizetés években vagy töredékévekben kifejezett
+időpontja,
+i: az évesített kamatláb századrésze.
+Az állományokra vonatkozó évesített kamatláb számításánál kezdő időpontnak az állomány
+megfigyelésének időpontját kell tekinteni, és nem a hitel- illetve a betétszerződés megkötésének időpontját
+kell figyelembe venni.
+
+Az évesített kamatláb számítására az alábbi képlet csak azoknál a betét- illetve hitelkonstrukcióknál
+alkalmazható, ahol a kamattőkésítés és a tőkeösszeg törlesztése is szabályos időközönként történik, és a
+kamattőkésítés legalább olyan gyakori, mint a tőkeösszeg törlesztése. Ez magában foglalja azokat az
+eseteket is, amikor a tőkeösszeget az ügylet végén egyösszegben törlesztik.
+Ez a képlet alkalmazható a látra szóló és folyószámlabetétekre, a folyószámlahitelekre is, amennyiben a
+kamattőkésítés szabályos időközönként történik.
+2. képlet
+
+1 −
+
+
+
+
+
+
++
+=
+N
+sz
+N
+r
+X
+X: az évesített kamatláb
+rsz
+: a szerződésben meghatározott éves kamatláb
+N: az éven belüli kamattőkésítések száma, pl. féléves gyakoriságú kamattőkésítés esetén
+2, negyedéves gyakoriságú kamatfizetés esetén 4, stb.
+A szerződésben meghatározott kamatláb illetve az évesített kamatláb sem tartalmazza az utólag
+felszámított büntetőkamatot, késedelmi kamatot, valamint mellékköltségeket (pl. felszámított egyszeri
+költségeket, rendelkezésre tartási jutalékot). Kivétel: a folyószámlahitelek esetében az adatszolgáltató
+meghatározhat egy limitet, és ha az ügyfél folyószámlájának negatív egyenlege ezt meghaladja, büntetést
+számol fel. Amennyiben a büntetés külön fizetendő költségekben jelenik meg, az évesített kamat
+számításánál nem kell figyelembe venni. Ha azonban a büntetőkamat a kamatláb része, a limitet
+meghaladó részre a magasabb, büntetőkamatot is tartalmazó kamatlábat kell alkalmazni a számítás során.
+A változó kamatozású konstrukciók esetében a képletben az utolsó ismert kamatlábbal kell számolni a
+teljes kamatozási periódusra.
+Az évesített kamatláb meghatározásához az MNB honlapján számítási példák találhatók.
+10. Kamatfixálás, változó kamatozás
+Az új szerződésekre vonatkozó táblában (01 tábla) a betétek és a hitelek kategóriákba sorolásának alapja a
+következő:
+• a lekötött betétek besorolásának alapja az eredeti lejárat,
+• a hitelek esetében a besorolás alapja nem a hitel eredeti lejárata, hanem az, hogy mennyi időre rögzített
+előre a kamatláb (kamatfixálás).
+Egy konstrukciót abban az esetben tekintünk változó kamatozásúnak, ha a szerződésben a adatszolgáltató
+fenntartja magának a jogot, hogy a futamidő alatt a kamatlábat egyoldalúan, előre nem ismert módon
+megváltoztassa. Ezeket a konstrukciókat a változó kamatozás vagy legfeljebb 1 éves kamatfixálás soron
+kell jelenteni.
+Azokat a konstrukciókat, ahol a kamatláb csak egy éven belüli időtartamra ismert előre, szintén a változó
+kamatozás vagy legfeljebb 1éves kamatfixálás soron kell jelenteni.
+
+Az új szerződésekre vonatkozó táblában (01 tábla) alkalmazott bontás a következő:
+A betétekre vonatkozóan:
+Rövid: az instrumentum lejárata ≤ 1 év
+Hosszú - legfeljebb 2 éves lejáratú: 1 év < az instrumentum lejárata ≤ 2 év
+Hosszú - 2 éven túli lejáratú: az instrumentum lejárata > 2 év
+A hitelekre vonatkozóan:
+Változó kamatozás vagy legfeljebb 1 éves kamatfixálás: az összes változó kamatozású konstrukció, és
+azok az instrumentumok, ahol a kamatfixálás időtartama ≤ 1 év
+Hosszú - legalább 1, legfeljebb 5 éves kamatfixálás: azok az instrumentumok, ahol 1 év < a kamatfixálás
+időtartama ≤ 5 év
+Hosszú - 5 éven túli kamatfixálás: azok az instrumentumok, ahol a kamatfixálás időtartama > 5 év
+Az állományi táblában (02 tábla) a hiteleket és a lekötött betéteket az eredeti lejárat alapján kell a
+megfelelő kategóriába besorolni.
+Az állományi táblában (02 tábla) az instrumentumok lejárat szerinti bontása a következő:
+Legfeljebb 2 éves lejáratú: az instrumentum lejárata ≤ 2 év
+Hosszú - 2 éven túli lejáratú: az instrumentum lejárata > 2 év
+Rövid: az instrumentum lejárata ≤ 1 év
+Hosszú, legfeljebb 5 éves lejáratú: 1 év < az instrumentum lejárata ≤ 5 év
+Hosszú, 5 éven túli lejáratú: az instrumentum lejárata > 5 év
+A nem pénzügyi vállalatok számára nyújtott hiteleket másrészről a hitel összege szerint kell a megfelelő
+kategóriákba sorolni. A forinthiteleket a Magyar Nemzeti Bank által közzétett, a hó utolsó napján érvényes
+hivatalos devizaárfolyamon kell euróra átszámítani.
+Legfeljebb 1 millió euró összeghatárig: azok az instrumentumok, ahol az összeghatár ≤ 1 millió euró
+1 millió euró összeghatár felett: ahol az összeghatár >1 millió euró
+11. Instrumentumok
+A Felügyeleti mérleg jelentés és a K01 jelentés instrumentumai közötti összefüggést bemutató tábla
+megtalálható az MNB honlapján. Az értéknap miatti korrekciókat a Felügyeleti mérleg jelentéssel egyező
+módon kell figyelembe venni, vagyis azokra az állományokra vonatkozóan kell jelenteni az átlagos
+kamatlábakat, amelyek a Felügyeleti mérlegben is kimutatásra kerülnek.
+A sávos kamatozású betétek kezelése:
+A sávos kamatozást kétféleképpen lehet értelmezni:
+• a lekötési idő függvényében,
+• a lekötött összeg függvényében sávos kamatozású.
+Az első esetben amennyiben már a szerződéskötéskor is egyértelmű a lekötés futamideje, akkor az új
+szerződésekre vonatkozó táblában az egyes sávokhoz tartozó kamatlábak súlyozott átlagát kell
+szerepeltetni. Amennyiben a szerződéskötéskor még nem egyértelmű, hogy az ügyfél mennyi időre fogja
+
+lekötni a betétet, a legrövidebb futamidőt és az ehhez tartozó kamatlábat kell megadni. A második esetben a
+súlyozott átlagkamatlábat kell szerepeltetni, mivel a szerződéskötéskor minden esetben ismert a lekötött
+összeg, és az összeghatárokhoz tartozó kamatlábak is.
+A hó végi állományokra vonatkozó táblánál mindig azon sávhoz tartozó kamatlábat kell figyelembe venni,
+amilyen sávba az állomány tartozik.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: bank és a szakosított hitelintézet adatszolgáltató esetében GiroXMail, szövetkezeti
+hitelintézet adatszolgáltató esetében GiroXMail vagy titkosított e-mail. A külföldi székhelyű pénzügyi
+intézmények magyarországi fióktelepeinek GiroXMailen vagy titkosított e-mailen kell beküldeni a
+jelentést.
+A beküldés formája: az MNB szabványos (txt) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: K02
+01. tábla: Napi jelentés a bankközi Ft-hitelek és Ft-betétek kamatlábáról
+(Értékadatok millióban, kamatláb 5 tizedesig)
+A szerződő
+partner
+azonosító kódja
+A tárgynapon
+kötött
+szerződés
+összege
+A bankközi
+ügylet
+értéknap
+szerinti kezdő
+dátuma
+A bankközi
+ügylet
+záró dátuma
+Kamatláb
+(%-ban)
+Felvét
+vagy
+kihelyezés
+Fedezett
+vagy
+fedezetlen
+Sor-
+kód
+a b c d e f g
+
+nnn
+
+MNB adatgyűjtés azonosító: K02
+Kitöltési útmutató
+Napi jelentés a bankközi forinthitelek és forintbetétek kamatlábáról
+I. Általános tudnivalók
+1. A bankközi forinthitelek és forintbetétek kamatlábáról szóló kamatstatisztika az adatszolgáltatók egymással, a
+tárgynapon kötött piaci kamatozású - az overnight kötéseken kívüli - bankközi pénzpiaci ügyleteinek adatait tartalmazza. A
+hitelkeret-szerődés alapján lehívott összegeket és a lehíváskor érvényes kamatlábat is jelenteni kell.
+2. Tárgynap: a tárgynapi ügyletek közé az adott napon a VIBER zárási időpontjáig kötött ügyleteket soroljuk.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+A szerződő partner azonosító kódja: bankközi ügyletben részt vevő szerződő fél megnevezése a törzsszám megadásával.
+b) A tárgynapon kötött szerződés összege: összeg millió Ft-ban.
+c) A bankközi ügylet értéknap szerinti kezdő dátuma: az értéknap dátuma.
+d) A bankközi ügylet záró dátuma: a naptári nap megjelölése.
+e) Kamatláb (%-ban): az ügylet során alkalmazott nominális kamatláb értéke.
+f) Felvét vagy kihelyezés: hitelfelvétel esetén ”F”, pénzpiaci kihelyezés esetén ”K” betűt kérünk feltüntetni.
+g) Fedezett vagy fedezetlen: értékpapírral fedezett ügylet esetén ”E”, fedezetlen ügylet esetén ”B” betűt kérünk
+feltüntetni. Az értékpapírral fedezett ügyletek az óvadéki típusú repóügyleteket is magukba foglalják.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fálj
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: K03
+Jelentés a háztartások és a háztartásokat segítő nonprofit intézmények forintbetéteinek és forinthiteleinek kamatlábáról, hitelköltség mutatójáról
+01 tábla: Új szerződések
+új szerződés
+(millió forint)
+szerződéses kamatláb
+%
+évesített kamatláb
+%
+Hitelköltségmutató
+%
+Sorkód Kategóriák
+a b c d
+01 Lekötött betét - rövid
+02 Lekötött betét - hosszú - legfeljebb 2 éves lejáratú
+03 Lekötött betét - hosszú - 2 éven túli lejáratú
+04 Repóügyletekből származó kötelezettség
+
+Fogyasztási hitel - változó kamatozás vagy legfeljebb 1 éves
+kamatfixálás
+
+Fogyasztási hitel - hosszú - legalább 1, legfeljebb 5 éves
+kamatfixálás
+07 Fogyasztási hitel - hosszú - 5 éven túli kamatfixálás
+
+Lakáscélú hitel - változó kamatozás vagy legfeljebb 1 éves
+kamatfixálás
+
+Lakáscélú hitel - hosszú - legalább 1, legfeljebb 5 éves
+kamatfixálás
+
+Lakáscélú hitel - hosszú - legalább 5, legfeljebb 10 éves
+kamatfixálás
+11 Lakáscélú hitel, 10 éven túli kamatfixálás
+
+Egyéb hitel - változó kamatozás vagy legfeljebb 1 éves
+kamatfixálás
+13 Egyéb hitel - hosszú - legalább 1, legfeljebb 5 éves kamatfixálás
+14 Egyéb hitel - hosszú - 5 éven túli kamatfixálás
+
+MNB adatgyűjtés azonosító: K03
+Jelentés a háztartások és a háztartásokat segítő nonprofit intézmények forintbetéteinek
+és forinthiteleinek kamatlábáról, hitelköltség mutatójáról
+02 tábla: Állományi tábla
+aktuális kamatláb
+%
+évesített kamatláb
+%
+Sorkód Kategóriák
+a b
+01 Látra szóló és folyószámlabetét
+02 Lekötött betét - legfeljebb 2 éves lejáratú
+03 Lekötött betét - hosszú - 2 éven túli lejáratú
+04 Repóügyletekből származó kötelezettség
+05 Folyószámlahitel
+06 Lakáscélú hitel - rövid
+07 Lakáscélú hitel - hosszú - legfeljebb 5 éves lejáratú
+08 Lakáscélú hitel - hosszú - 5 éven túli lejáratú
+09 Fogyasztási és egyéb hitel - rövid
+
+Fogyasztási és egyéb hitel - hosszú - legfeljebb
+5 éves lejáratú
+
+Fogyasztási és egyéb hitel - hosszú - 5 éven túli
+lejáratú
+
+MNB adatgyűjtés azonosító: K03
+Jelentés a háztartások és a háztartásokat segítő nonprofit intézmények forintbetéteinek és forinthiteleinek kamatlábáról, hitelköltség mutatójáról
+03 tábla: Fogyasztási hitel típusok - új szerződések
+új szerződés
+(millió forint)
+szerződéses kamatláb
+%
+évesített kamatláb
+%
+hitelköltségmutató
+%
+Sorkód Kategóriák
+a b c d
+
+Fogyasztási hitel - személyi hitel - változó
+kamatozás vagy legfeljebb 1 éves kamatfixálás
+
+Fogyasztási hitel - személyi hitel - hosszú -
+legalább 1, legfeljebb 5 éves kamatfixálás
+
+Fogyasztási hitel - személyi hitel - hosszú -
+5 éven túli kamatfixálás
+
+Fogyasztási hitel - gépjármű vásárlási hitel -
+változó kamatozás vagy legfeljebb 1 éves
+kamatfixálás
+
+Fogyasztási hitel - gépjármű vásárlási hitel -
+hosszú - legalább 1, legfeljebb 5 éves
+kamatfixálás
+
+Fogyasztási hitel - gépjármű vásárlási hitel -
+hosszú - 5 éven túli kamatfixálás
+
+Fogyasztási hitel - áruvásárlási és egyéb - változó
+kamatozás vagy legfeljebb 1 éves kamatfixálás
+
+Fogyasztási hitel - áruvásárlási és egyéb - hosszú
+- legalább 1, legfeljebb 5 éves kamatfixálás
+
+Fogyasztási hitel - áruvásárlási és egyéb -
+hosszú - 5 éven túli kamatfixálás
+
+MNB adatgyűjtés azonosító: K03
+Jelentés a háztartások és a háztartásokat segítő nonprofit intézmények forintbetéteinek és forinthiteleinek
+kamatlábáról, hitelköltség mutatójáról
+04 tábla: Fogyasztási hitel típusok - állományi tábla
+aktuális kamatláb
+%
+évesített kamatláb
+%
+Sorkód Kategóriák
+a b
+01 Fogyasztási hitel - személyi hitel - rövid
+
+Fogyasztási hitel - személyi hitel - hosszú - legfeljebb
+5 éves lejáratú
+
+Fogyasztási hitel - személyi hitel - hosszú - 5 éven túli
+lejáratú
+04 Fogyasztási hitel - gépjármű vásárlási hitel - rövid
+
+Fogyasztási hitel - gépjármű vásárlási hitel - hosszú -
+legfeljebb 5 éves lejáratú
+
+Fogyasztási hitel - gépjármű vásárlási hitel - hosszú -
+5 éven túli lejáratú
+07 Fogyasztási hitel - áruvásárlási és egyéb - rövid
+
+Fogyasztási hitel - áruvásárlási és egyéb - hosszú -
+legfeljebb 5 éves lejáratú
+
+Fogyasztási hitel - áruvásárlási és egyéb - hosszú -
+5 éven túli lejáratú
+
+MNB adatgyűjtés azonosító: K03
+Kitöltési útmutató
+Jelentés a háztartások és a háztartásokat segítő nonprofit intézmények forintbetéteinek és
+forinthiteleinek kamatlábáról, hitelköltség mutatójáról
+I. Általános tudnivalók
+Az adatszolgáltatók közül az 5 milliárd forintnál nagyobb mérlegfőösszeggel rendelkező szövetkezeti
+hitelintézetek köre minden évben a június 30-ai Felügyeleti mérleg alapján kerül felülvizsgálatra. Az 5
+milliárd forint mérlegfőösszeget egyszer is meghaladó szövetkezeti hitelintézetek adatszolgáltatási
+kötelezettsége akkor sem fog változni, ha mérlegfőösszegük ismét 5 milliárd forint alá csökken. Az
+adatszolgáltatói körbe újonnan belépő szövetkezeti hitelintézeteknek a mérethatár felülvizsgálatát
+követő évtől kell az adatszolgáltatási kötelezettségnek eleget tenni.
+A háztartási szektor magában foglalja a lakosságot és az egyéni vállalkozókat. A háztartásokat
+segítő nonprofit intézmények (szektorba tartoznak azok a nonprofit intézmények, melyek számjelük
+alapján nem sorolhatók be más szektorba. (A háztartásokat segítő nonprofit intézmények szektor
+pontos köre közvetett módon határozható meg: a nonprofit intézmények közül azokat kell ide sorolni,
+melyek nem tartoznak más szektorhoz. A nem a háztartásokat segítő nonprofit intézmények e rendelet
+3. mellékletének 2. pontja szerinti listája megtalálható az MNB honlapján.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+1. A jelentésben a 01-es és 03-as Új szerződések táblában a háztartásokkal és a háztartásokat segítő
+nonprofit intézményekkel a tárgyhónapban kötött új forinthitel szerződésekben szereplő
+• összeget,
+• szerződéses kamatlábat,
+• évesített kamatlábat,
+• és hitelköltség mutatót
+és az új forintbetét szerződésekben szereplő
+• összeget,
+• szerződéses kamatlábat,
+• évesített kamatlábat kell szerepeltetni.
+2. Új szerződés
+• minden olyan új pénzügyi jellegű megállapodás az adatszolgáltató és a háztartások között, mely
+elsőként határozza meg a betétek, illetve a hitelek kamatlábát,
+• valamint a meglévő hitelekre és betétekre vonatkozó új megállapodások.
+A jelentés szempontjából újnak tekintendők a prolongált és az átárazott szerződések is az alábbiak
+kivételével.
+
+Az új szerződések értékét a bankoknak és szakosított hitelintézeteknek tizedesjegy nélkül, a
+szövetkezeti hitelintézeteknek három tizedesjeggyel kell jelenteni. A százalékos formában kifejezett
+adatokat négy tizedesjegy pontossággal kell beküldeni.
+3. Nem tekinthető új szerződésnek
+• az a prolongáció illetve átárazás, mely automatikusan - az eredeti szerződés alapján, az ügyfél
+közreműködése nélkül - történik, és ahol nem tárgyalják újra a feltételeket és a kamatlábat sem.
+(Például a folyamatos lekötésű betéti konstrukciók, amennyiben a lekötés futamidejét az ügyfél
+nem változtatja meg.)
+• fix kamatozású konstrukció automatikus átalakulása változó kamatozásúvá, vagy fordítva -
+amennyiben ezt az átalakulást már az eredeti szerződésben rögzítették.
+4. Az új szerződéseket a szerződéskötés időpontjára/hónapjára vonatkozóan beküldött statisztikában
+kell jelenteni. Új szerződésként kell jelenteni a tárgyhónapban kötött új betétszerződések adatait akkor
+is, ha azok a tárgyhónapban lejárnak, illetve az ügyfél a tárgyhónapban felmondja a betétet.
+5. A fogyasztási, lakás- és egyéb célú hitelek esetében az eredeti szerződésben rögzített teljes összeget
+(hitelkeretet) és a szerződésben meghatározott kamatlábat kell jelenteni akkor is, ha a hitelt
+részletekben veszik igénybe. Új szerződésként kell jelenteni a meglévő hitelkeret növelését is. Ebben
+az esetben csak a hitelkeret-növekményt kell jelenteni. Az új szerződésekre vonatkozó adatok a
+szerződéskötés időpontjában jelentendők. Amennyiben a szerződéskötéskor még nem ismert a
+kamatláb, amellyel az ügyfél igénybe veszi a hitelt, a hitelkeretet az első folyósítás időpontjában kell
+jelenteni az első hitelfolyósítás kamatlábával, de szerződéses összegként a teljes hitelkeretet kell
+feltüntetni.
+6. Amennyiben egy lekötött betéthez az ügyfél tetszőleges gyakorisággal fizethet be újabb összegeket,
+minden befizetés új szerződésnek minősül.
+7. Állományi tábla
+A 02-es és 04-es Állományi táblában az adatszolgáltatók által folyósított hitelek és elfogadott betétek
+tárgyhó végén fennálló állományára vonatkozó
+• aktuális kamatlábat,
+• és évesített kamatlábat kell jelenteni.
+A hó végi állományok nagyságát nem kell szerepeltetni a jelentésben, mivel megegyeznek a
+felügyeleti mérleg megfelelő soraival. Amennyiben a Felügyeleti mérlegben az adott sorhoz tartozó
+állomány nem éri el a félmillió forintot, nem kell hozzá kamatlábértéket jelenteni.
+Az állományokra vonatkozóan a tárgyhónap utolsó napján az adott hitelekre és betétekre vonatkozó
+aktuális kamatlábak súlyozott átlagát kell kimutatni (és nem a meghirdetettet).
+A folyószámlahitelek, és a látra szóló és folyószámlabetétek esetében csak a 02-es táblában az
+állományokra vonatkozó kamatlábat kell jelenteni.
+A rossznak minősített hitelek állományát és kamatlábát a súlyozott átlagkamatláb meghatározásánál
+nem kell figyelembe venni. Rossz hitel: a kintlevőségek befektetések, mérlegen kívüli tételek és a
+fedezetek minősítésének és értékelésének szempontjairól szóló PM rendelet (14/2001. (III.9.)) szerint
+meghatározott fogalom.
+
+Az átlagkamatláb számításánál nem kell figyelembe venni a követelések között kimutatott esedékes, ki
+nem fizetett, de függővé nem tett kamatok, kamatjellegű jutalékok állományát sem (amennyiben ezek
+nem kamatoznak).
+8. Piaci kamatláb és kamattámogatás
+A jelentésben szerepeltetni kell a piaci kamatozású és a kedvezményes kamatozású konstrukciókat is.
+A kamatstatisztika keretében azokat a betéti illetve hitelkamatlábakat kell jelenteni, melyeket az
+adatszolgáltató az egyes betétekre fizet, illetve a hitelekre kap. Amennyiben az ügyfélnek vagy az
+ügyfél által fizetett kamatláb eltér attól, amit a adatszolgáltató ténylegesen kap illetve fizet, akkor az
+ügyfél felé meghatározott kamatlábat korrigálni kell, és a korrigált kamatlábat kell a jelentésben
+szerepeltetni.
+9. Évesített kamatláb
+Az évesített kamatláb számításának célja, hogy a különböző lejáratú konstrukciók kamatlábai
+összehasonlíthatók legyenek. Az évesített kamatláb számítására a következő két képletet lehet
+alkalmazni.
+Az évesített kamatláb számítására a következő jelenérték számítási képletet kell alkalmazni. Ez a
+képlet minden betét- és hitelkonstrukcióra alkalmazható. A képlet az ügylet kezdő időpontjában
+keletkező pénzmozgást teszi egyenlővé a későbbi időpontok cash-flow-inak jelenértékével. Az
+évesített kamatláb az a belső megtérülési ráta, ahol a cash-flow-k jelenértéke megegyezik.
+a) A képletek szempontjából a kamattőkésítés rendszeressége a meghatározó. (A kamattőkésítés csak a
+betéti konstrukcióknál értelmezhető. A továbbiakban a kamattőkésítés szót használjuk a
+kamatmegállapításra, illetve a kamatfizetésre is.) Amennyiben a kamattőkésítés és a tőketörlesztés is
+szabályos időközönként történik, a kamattőkésítés és a tőketörlesztés viszonyára három fő esetet
+különböztetünk meg.
+4. A kamattőkésítés és a tőketörlesztés is azonos időközönként történik, rendszerességük megegyezik.
+5. A kamattőkésítés gyakoribb, mint a tőketörlesztés. (Ide tartozik az az eset is, amikor a
+tőketörlesztés csak a futamidő végén egy összegben történik.)
+6. A tőketörlesztés gyakoribb, mint a kamattőkésítés.
+b) A kamattőkésítés és a tőketörlesztés nem szabályos időközönként történik.
+Az a) esetben amikor a kamattőkésítés legalább olyan gyakori, mint a tőketörlesztés (a/1, a/2. eset), a
+két képlet azonos eredményt ad, ekkor a 2. képlet is alkalmazható.
+Az a/3. esetben valamint a b) esetben csak az 1. képletet lehet alkalmazni. (Például ide tartoznak azok
+a kamattámogatásos konstrukciók is, amikor a kamattámogatás és a kamatfizetés periódusa nem esik
+egybe.
+
+3. képlet
+∑
+∑
+=
+=
++
+=
++
+'
+'
+'
+
+'
+1 )
+
+(
+)
+
+(
+m
+k
+t
+k
+m
+k
+t
+k
+k
+k i
+A
+i
+A
+Ak
+: a k sorszámú hitelrészlet illetve betételhelyezés összege, a képlet akkor is alkalmazható,
+ha a hitelt egy részletben veszik igénybe, illetve egyszerre helyezik el a betétet. Ilyenkor a
+képlet bal oldalán az elhelyezett betétösszeg, illetve a felvett hitel összege található.
+A'k
+: a k' sorszámú törlesztőrészlet összege, illetve a betétvisszafizetés összege (kamatokkal
+növelve),
+m: a hitelfolyósítások, betételhelyezések száma,
+m': a törlesztőrészletek, betétvisszafizetések száma,
+tk
+: a k-adik hitelfolyósítás, betételhelyezés években vagy töredékévekben kifejezett
+időpontja,
+t'k
+: a k'-adik törlesztőrészlet, betétvisszafizetés években vagy töredékévekben kifejezett
+időpontja,
+i: az évesített kamatláb századrésze.
+Az állományokra vonatkozó évesített kamatláb számításánál kezdő időpontnak az állomány
+megfigyelésének időpontját kell tekinteni, és nem a hitel- illetve a betétszerződés megkötésének
+időpontját kell figyelembe venni.
+Az évesített kamatláb számítására az alábbi képlet csak azoknál a betét- illetve hitelkonstrukcióknál
+alkalmazható, ahol betéteknél a kamattőkésítés, hiteleknél a kamatfizetés és a tőkeösszeg törlesztése is
+szabályos időközönként történik, és a kamattőkésítés (kamatfizetés) legalább olyan gyakori, mint a
+tőkeösszeg törlesztése. Ez magában foglalja azokat az eseteket is, amikor a tőkeösszeget az ügylet
+végén egyösszegben törlesztik.
+Ez a képlet alkalmazható a látra szóló és folyószámlabetétekre, a folyószámlahitelekre is, amennyiben
+a betéteknél a kamattőkésítés, hiteleknél a kamatok megállapítása szabályos időközönként történik.
+4. képlet
+
+1 −
+
+
+
+
+
+
++
+=
+N
+sz
+N
+r
+X
+X: az évesített kamatláb
+rsz
+: a szerződésben meghatározott éves kamatláb
+N: az éven belüli kamattőkésítések száma, pl. féléves gyakoriságú kamattőkésítés esetén 2,
+negyedéves gyakoriságú kamatfizetés esetén 4, stb.
+A szerződésben meghatározott kamatláb illetve az évesített kamatláb sem tartalmazza az utólag
+felszámított büntetőkamatot, késedelmi kamatot, valamint mellékköltségeket (pl. felszámított egyszeri
+költségeket, rendelkezésre tartási jutalékot). Kivétel: a folyószámlahitelek esetében az adatszolgáltató
+
+meghatározhat egy limitet, és ha az ügyfél folyószámlájának negatív egyenlege ezt meghaladja,
+büntetést számol fel. Amennyiben a büntetés külön fizetendő költségekben jelenik meg, az évesített
+kamat számításánál nem kell figyelembe venni. Ha azonban a büntetőkamat a kamatláb része, a
+limitet meghaladó részre a magasabb, büntetőkamatot is tartalmazó kamatlábat kell alkalmazni a
+számítás során.
+A változó kamatozású konstrukciók esetében a képletben az utolsó ismert kamatlábbal kell számolni a
+teljes kamatozási periódusra.
+Az évesített kamatláb meghatározásához az MNB honlapján számítási példák találhatók.
+10. Hitelköltség mutató
+Az átlagos hitelköltség mutatót a háztartásokkal és a háztartásokat segítő nonprofit intézményekkel
+kötött fogyasztási és ingatlanhitel-szerződésekre vonatkozóan kell számolni.
+• A hitelköltség mutató számítására a következő képletet kell alkalmazni, ha a hitel folyósítása egy
+részletben történik:
+∑
+=
++
+=
+m
+k
+tk
+i
+H
+
+k
+)
+
+(
+A
+H: a hitel összege, csökkentve a hitel felvételével összefüggő - a pénzügyi intézménynek fizetendő -
+költségekkel,
+Ak
+: a k-adik törlesztőrészlet összege,
+m: a törlesztőrészletek száma,
+tk
+: a k-adik törlesztőrészlet években vagy töredékévekben kifejezett időpontja,
+i: a hitelköltség mutató századrésze.
+• A hitelköltség mutató kiszámítására vonatkozóan a következő képletet kell alkalmazni, ha a hitel
+folyósítása több részletben történik:
+∑
+∑
+=
+=
++
+=
++
+'
+'
+'
+
+'
+1 )
+
+(
+)
+
+(
+m
+k
+t
+k
+m
+k
+t
+k
+k
+k i
+A
+i
+A
+Ak
+: a k sorszámú hitelrészlet összege, csökkentve a hitel felvételével összefüggő - a pénzügyi
+intézménynek fizetendő - költségekkel,
+A'k
+: a k' sorszámú törlesztőrészlet összege,
+m: a hitelfolyósítások száma,
+m': a törlesztőrészletek száma,
+tk
+: a k-adik hitelfolyósítás években vagy töredékévekben kifejezett időpontja,
+t'k
+: a k'-adik törlesztőrészlet években vagy töredékévekben kifejezett időpontja,
+i: a hitelköltség mutató századrésze.
+A hitelköltség számításánál a következő költségeket nem kell figyelembe venni:
+a) a prolongálási költség,
+b) a késedelmi kamat,
+
+c) az egyéb olyan fizetési kötelezettség, amely a szerződésben vállalt kötelezettség nem teljesítéséből
+származik,
+d) a biztosítási és garanciadíjak, valamint
+e) az átutalási díjak.
+A hitelköltség mutató számításánál a következő feltételezésekkel kell élni:
+a) ha a szerződés alapján az éves díjak mértéke változó, de azok mértéke nem határozható meg a
+kiszámításkor, a számítás során az utolsó ismert díjtétellel mint változatlan díjtétellel kell számolni;
+b) ha a hitel lejárati időtartama nem határozható meg, akkor azt egy évnek kell tekinteni;
+c) ha a szerződés a visszafizetésre egy időszakot ír elő, akkor az időszak kezdő időpontját kell
+figyelembe venni, ha a hitelfelvételi lehetőség is periódusokhoz kötődik, akkor annak kezdő időpontját
+kell figyelembe venni a hitel igénybevételének napjaként;
+d) amennyiben az ingatlanhitel részleteinek folyósítása egy-egy eseménytől (pl. az ingatlan bizonyos
+készültségi fokának elérésétől) függ, ezért sem a bank, sem az ügyfél számára előre nem kalkulálható,
+a szerződésben engedélyezett hitel összegével kell számolni, mintha azt az ügyfél az engedélyezés
+időpontjában teljeskörűen felhasználta volna, és az összeget a szerződésben rögzített futamidő alatt a
+megadott módon kellene visszafizetnie.
+A hitelköltség mutató számítása során a fentieken kívül a szerződésben rögzített feltételeket kell
+figyelembe venni.
+A kamattámogatásos konstrukciók esetében a hitelköltség mutató számításánál a kamattámogatás
+mértékével korrigált kamatlábat kell figyelembe venni.
+11. Kamatfixálás, változó kamatozás
+Az új szerződésekre vonatkozó táblában (01 és 03 tábla) a betétek és a hitelek kategóriákba
+sorolásának alapja a következő:
+• a lekötött betétek besorolásának alapja az eredeti lejárat,
+• a fogyasztási, ingatlan és egyéb hitelek esetében a besorolás alapja nem a hitel eredeti lejárata,
+hanem az, hogy mennyi időre rögzített előre a kamatláb (kamatfixálás).
+Egy konstrukciót abban az esetben tekintünk változó kamatozásúnak, ha a szerződésben a
+adatszolgáltató fenntartja magának a jogot, hogy a futamidő alatt a kamatlábat egyoldalúan
+megváltoztassa. Ezeket a konstrukciókat a változó vagy legfeljebb 1 éves kamatfixálás soron kell
+jelenteni.
+Azokat a konstrukciókat, ahol a kamatláb csak egy éven belüli időtartamra előre ismert, szintén a
+változó kamatozás vagy legfeljebb 1 éves kamatfixálás soron kell jelenteni.
+Az új szerződésekre vonatkozó táblákban (01 és 03 tábla) alkalmazott bontás a következő:
+A betéteknél:
+Rövid: az instrumentum lejárata ≤ 1 év
+Hosszú - legfeljebb 2 éves lejáratú: 1 év < az instrumentum lejárata ≤ 2 év
+Hosszú, 2 éven túli lejáratú: az instrumentum lejárata > 2 év
+
+A fogyasztási és az egyéb hiteleknél:
+Változó kamatozás vagy legfeljebb 1 éves kamatfixálás: az összes változó kamatozású konstrukció,
+és azok az instrumentumok, ahol a kamatfixálás időtartama ≤ 1 év
+Hosszú - legalább 1, legfeljebb 5 éves kamatfixálás: azok az instrumentumok, ahol 1 év < a
+kamatfixálás időtartama ≤ 5 év
+Hosszú - 5 éven túli kamatfixálás: azok az instrumentumok, ahol a kamatfixálás időtartama > 5 év
+A lakáscélú hitelek esetében:
+Változó kamatozás vagy legfeljebb 1 éves kamatfixálás: az összes változó kamatozású konstrukció,
+és azok az instrumentumok, ahol a kamatfixálás időtartama ≤ 1 év
+Hosszú - legalább 1, legfeljebb 5 éves kamatfixálás: azok az instrumentumok, ahol 1 év < a
+kamatfixálás időtartama ≤ 5 év
+Hosszú - legalább 5, legfeljebb 10 éves kamatfixálás: azok az instrumentumok, ahol 5 év < a
+kamatfixálás időtartama ≤ 10 év
+Hosszú - 10 éven túli kamatfixálás: azok az instrumentumok, ahol a kamatfixálás időtartama > 10 év
+Az állományi táblákban (02 és 04 tábla) a hiteleket és a lekötött betéteket az eredeti lejárat alapján kell
+a megfelelő kategóriába besorolni.
+Az állományi táblákban alkalmazott lejárati bontás a következő:
+A betéteknél:
+Legfeljebb 2 éves lejáratú: az instrumentum lejárata ≤ 2 év
+Hosszú - 2 éven túli lejáratú: az instrumentum lejárata > 2 év
+A hiteleknél:
+Rövid: az instrumentum lejárata ≤ 1 év
+Hosszú, legfeljebb 5 éves lejáratú: 1 év < az instrumentum lejárata ≤ 5 év
+Hosszú, 5 éven túli lejáratú: az instrumentum lejárata > 5 év
+12. Instrumentumok
+A Felügyeleti mérleg jelentés és a K03 jelentés instrumentumai közötti összefüggést bemutató tábla
+megtalálható az MNB honlapján. Az értéknap miatti korrekciókat a felügyeleti mérleg jelentéssel
+egyező módon kell figyelembe venni, vagyis azokra az állományokra vonatkozóan kell jelenteni az
+átlagos kamatlábakat, amelyek a Felügyeleti mérlegben is kimutatásra kerülnek.
+A sávos kamatozású betétek kezelése:
+A sávos kamatozást kétféleképpen lehet értelmezni:
+• a lekötési idő függvényében,
+• a lekötött összeg függvényében sávos kamatozású.
+Az első esetben amennyiben már a szerződéskötéskor is egyértelmű a lekötés futamideje, akkor az új
+szerződésekre vonatkozó táblában az egyes sávokhoz tartozó kamatlábak súlyozott átlagát kell
+
+szerepeltetni. Amennyiben a szerződéskötéskor még nem egyértelmű, hogy az ügyfél mennyi időre
+fogja lekötni a betétet, a legrövidebb futamidőt és az ehhez tartozó kamatlábat kell megadni.
+A második esetben a súlyozott átlagkamatlábat kell szerepeltetni, mivel a szerződéskötéskor minden
+esetben ismert a lekötött összeg, és az összeghatárokhoz tartozó kamatlábak is.
+A hó végi állományokra vonatkozó táblánál mindig azon sávhoz tartozó kamatlábat kell figyelembe
+venni, amilyen sávba az állomány tartozik.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: bank és a szakosított hitelintézet adatszolgáltató esetében GiroXMail, szövetkezeti
+hitelintézet adatszolgáltató esetében GiroXMail vagy titkosított e-mail. A külföldi székhelyű pénzügyi
+intézmények magyarországi fióktelepeinek GiroXMailen vagy titkosított e-mailen kell beküldeni a
+jelentést.
+A beküldés formája: az MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: K12
+01. tábla: Napi jelentés a bankközi overnight Ft-hitelek és Ft-betéték kamatlábáról
+(Értékadatok millióban, kamatláb 5 tizedesig)
+A szerződő
+partner
+azonosító
+kódja
+A tárgynapon
+kötött
+szerződés
+összege
+A bankközi ügylet
+értéknap szerinti
+kezdő dátuma
+A bankközi
+ügylet
+záró dátuma
+Kamatláb
+(%-ban)
+Felvét
+vagy
+kihelyezés
+Fedezett
+vagy
+fedezetlen
+Sor-
+kód
+a b c d e f g
+
+nnn
+
+MNB adatgyűjtés azonosító: K12
+Kitöltési útmutató
+Napi jelentés a bankközi overnight forinthitelek és forintbetétek kamatlábáról
+I. Általános tudnivalók
+1. A bankközi overnight forinthitelek és forintbetétek kamatlábáról szóló kamatstatisztika az adatszolgáltatók egymással, a
+tárgynapon piaci feltételekkel kötött bankközi pénzpiaci overgnight (o/n) ügyleteinek adatait tartalmazza. A hitelkeret-
+szerődés alapján lehívott összegeket és a lehíváskor érvényes kamatlábat is jelenteni kell.
+2. Tárgynap: a tárgynapi ügyletek közé az adott napon a VIBER zárási időpontjáig kötött ügyleteket soroljuk.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+a) A szerződő partner azonosító kódja: bankközi ügyletben részt vevő szerződő fél megnevezése a törzsszám
+megadásával.
+b) A tárgynapon kötött szerződés összege: összeg millió Ft-ban.
+c) A bankközi ügylet értéknap szerinti kezdő dátuma: az értéknap, o/n ügyletnél egybeesik a tárgynap dátumával.
+d) A bankközi ügylet záró dátuma: a naptári nap megjelölése.
+e) Kamatláb (%-ban): az ügylet során alkalmazott nominális kamatláb értéke.
+f) Felvét vagy kihelyezés: hitelfelvétel esetén ”F”, pénzpiaci kihelyezés esetén ”K” betűt kérünk feltüntetni.
+g) Fedezett vagy fedezetlen: értékpapírral fedezett ügylet esetén ”E”, fedezetlen ügylet esetén ”B” betűt kérünk
+feltüntetni. Az értékpapírral fedezett ügyletek az óvadéki típusú repóügyleteket is magukba foglalják.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fálj
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: L09
+N A P I J E L E N T É S
+a rezidensekkel szembeni egyes követelések és kötelezettségek könyv szerinti bruttó állományáról
+millió forint
+Tárgynapi
+állomány
+forint deviza összesen
+Sor-
+kód
+M E G N E V E Z É S
+a b c
+1 Eszköz oldali tételek
+2 Likvid eszközök
+3 Készpénz
+4 Jegybanki értékpapír
+5 Kincstárjegy
+6 Államkötvény
+7 Konszolidációs kötvény
+8 Hitelintézetekkel szembeni követelés
+9 Nostro számla
+10 Rövid hitel, hitel jell. köv., elhelyezett betét és valódi penziós ügylet
+11 Hosszú hitel, hitel jell. köv., elhelyezett betét és valódi penziós ügylet
+
+Pénzpiaci alapokkal, egyéb pénzügyi közvetítőkkel, pénzügyi kieg.
+tev.et végzőkkel, biztosítókkal és nyugdíjpénztárakkal szembeni
+követelés
+13 Éven belüli hitelek és hiteljellegű követelések és valódi penziós ügylet
+14 Éven túli hitelek és hiteljellegű követelések és valódi penziós ügylet
+15 Nem pénzügyi vállalatokkal szembeni követelések
+16 Folyószámlahitelek
+17 Éven belüli hitelek és hiteljellegű követelések és valódi penziós ügylet
+18 Éven túli hitelek és hiteljellegű követelések és valódi penziós ügylet
+19 Háztartásokkal szembeni követelés
+20 Folyószámlahitelek
+21 Éven belüli hitelek és hiteljellegű követelések és valódi penziós ügylet
+22 Éven túli hitelek és hiteljellegű követelések és valódi penziós ügylet
+23 Egyéb szektorokkal szembeni hitelek és hiteljellegű követelések
+24 Folyószámlahitelek
+25 Éven belüli hitelek és hiteljellegű követelések és valódi penziós ügylet
+26 Éven túli hitelek és hiteljellegű követelések és valódi penziós ügylet
+27 Forrás oldali tételek
+28 Hitelintézetekkel szembeni kötelezettség
+29 Loro számlák
+30 Éven belüli betétek és felvett hitelek
+31 Éven túli betétek és felvett hitelek
+32 Valódi penziós ügyletekből szerzett források
+
+Pénzpiaci alapokkal, egyéb pénzügyi közvetítőkkel, pénzügyi kieg.
+tev.et végzőkkel, biztosítókkal és nyugdíjpénztárakkal szembeni
+kötelezettség
+34 Folyószámla- és látra szóló betétek
+35 Éven belül lekötött betétek
+36 Éven túl lekötött betétek
+37 Valódi penziós ügyletekből szerzett források
+38 Nem pénzügyi vállalatokkal szembeni kötelezettségek
+39 Folyószámla- és látra szóló betétek
+40 Éven belül lekötött betétek
+41 Éven túl lekötött betétek
+42 Valódi penziós ügyletekből szerzett források
+43 Háztartásokkal szembeni kötelezettség
+44 Folyószámla- és látra szóló betétek
+45 Éven belül lekötött betétek
+46 Éven túl lekötött betétek
+47 Egyéb szektorokkal szembeni kötelezettségek
+48 Folyószámla- és látra szóló betétek
+49 Éven belül lekötött betétek
+50 Éven túl lekötött betétek
+51 Valódi penziós ügyletekből szerzett források
+
+MNB azonosító: L09
+Kitöltési útmutató
+Napi jelentés
+a rezidensekkel szembeni egyes követelések és kötelezettségek könyv szerinti bruttó állományáról
+I. Általános tudnivalók
+Az adatszolgáltatás funkciója ez egyedi banki sokkok kapcsán felmerülő, az MNB gyors és megalapozott
+döntéseihez szükséges adatok biztosítása. Ennek megfelelően az MNB ezt az adatszolgáltatást csak egyedileg, eseti
+jelleggel kéri be az adott banktól. Az adatszolgáltatásnak az adott hitelintézet az elrendelés napjától naponta, egészen
+az elrendelés visszavonásáig kell, hogy megfeleljen.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+A Felügyeleti mérleg kitöltési útmutatójában szereplő fogalmak és definíciók itt is érvényesek. A Felügyeleti
+mérleg és a Napi jelentés adatai között csak az adatok tartalmának azonos megítélését kell biztosítani, tekintettel arra,
+hogy a Felügyeleti mérleg lezárt, végleges adatokat, míg az L09 napi adatszolgáltatás csak előzetes adatokat
+tartalmaz.
+Az egyes sorok kitöltésénél figyelembe kell venni a Felügyeleti mérleg és a Napi jelentés között fennálló tartalmi
+összefüggéseket, amelyek az MNB honlapján közzétett, e rendelet 3. mellékletének 5. pontja szerinti technikai
+segédletben találhatók.
+Az adatszolgáltatásban a beszürkített sorokat nem kell kitölteni.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fálj
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: M01
+Követelések és tartozások állománya
+01. Nem-rezidensekkel szembeni valuta, folyószámla és betétállományok
+Devizanem: Adatok: devizában / valutában
+Országkód Záró állomány
+Sorszám Számlatípus
+a b
+01 Követelés
+02 101
+03 102
+04 103
+05 104
+06 105
+07 107
+08 108
+09 109
+10 111
+11 112
+12 113
+12 114
+12 115
+13 162
+14 163
+15 164
+16 168
+17 171
+18 172
+19 Tartozás
+20 116
+21 161
+22 165
+23 181
+24 182
+
+MNB adatgyűjtés azonosító: M01
+02. Rezidens hitelintézet részére rezidens hitelintézet által vezetett nostró-loró számlák állománya
+Devizanem: Adatok: devizában
+Másik rezidens
+hitelintézet kódja
+Záró állomány
+Soszám Számlatípus
+a b
+01 Követelés
+02 901
+03 911
+04 Tartozás
+05 905
+06 916
+
+MNB adatgyűjtés azonosító: M01
+03. Függő állományok
+Adatok: devizában
+Tartozik Követel
+Sorszám Devizanem
+a b
+01 USD
+02 CHF
+03 CAD
+04 GBP
+10 DKK
+11 SEK
+12 NOK
+13 AUD
+14 KWD
+21 JPY
+22 EUR
+23 ...
+
+MNB adatgyűjtés azonosító: M01
+04. Egyéb megfigyelendő állományok
+Devizanem: Adatok: devizában
+Országkód Záró állomány
+Sorszám Számlatípus
+a b
+01 Követelés
+02 Közvetlen tőkebefektetések
+03 46C
+04 46B
+05 47C
+06 81C
+07 Portfólió befektetések
+08 50C
+09 50B
+10 51C
+11 51B
+12 52C
+13 52B
+14 53C
+15 53B
+16 Egyéb befektetések
+17 61A
+… …*
+26 61K
+27 619
+28 62A
+… …*
+37 62K
+38 629
+39 63C
+40 63B
+41 64C
+42 64B
+43 65C
+44 65B
+45 66C
+46 66B
+* A központi költségvetés állományát (G szektor 67, 68 típusok) az M17 jelentésben kell megadni.
+
+Devizanem: Adatok: devizában
+Országkód Záró állomány
+Sorszám Számlatípus
+a b
+47 Rezidensek nem-rezidensekkel
+szembeni tartozásait csökkentő
+követelések
+48 86G
+49 86B
+50 86C
+51 89B
+52 89C
+52 89G
+53 Tartozások
+54 Közvetlen tőkebefektetések
+55 49C
+56 80C
+57 Portfólió befektetések
+58 56C
+59 56B
+61 60C
+62 60B
+63 Egyéb befektetések
+64 67A
+… …*
+73 67K
+74 679
+75 68A
+… …*
+84 68K
+85 689
+86 69C
+87 69B
+88 70C
+89 70B
+90 71C
+91 71B
+92 73C
+93 73B
+93 80C
+* A központi költségvetés állományát (G szektor 67, 68 típusok) az M17 jelentésben kell megadni.
+
+MNB adatszolgáltatás azonosító: M01
+Kitöltési útmutató
+Követelések és tartozások állománya
+I. Általános tudnivalók
+A jelentésben az adatszolgáltató deviza és forint követeléseinek (eszközök) és tartozásainak (források) – statisztikai
+számlatípusnak megfelelő besorolás szerinti – hó végi állományát kell devizanemenként, egyes típusoknál országonként
+is megadni. A konzorciálishitelek, illetve a visszavásárolt kötvények állományait – melyek számbavételére más
+jelentések is szolgálnak – az M01 jelentésben nettó beszerzési értéken kell jelenteni.
+Az állományok követelés és tartozás jellegének meghatározását a jelentést adó adatszolgáltató szempontjából kell
+értelmezni. A záró állományok jellege (eszköz, forrás) csak a típusnak megfelelő lehet.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: M02
+01. Fizetési forgalom
+Devizanem: Adatok: devizában
+Kör Jogcím Országkód Partner azonosító Ügyfél azonosító Értéknap Bevételek Kiadások
+Sorszám
+a b c d e f g h
+
+…
+n
+
+MNB adatgyűjtés azonosító: M02
+Kitöltési útmutató
+Fizetési forgalom
+I. Általános tudnivalók
+A tranzakciós jelentés
+1. A tranzakciós – azaz fizetésenkénti – jelentés az egyedi ügyletekre vonatkozó tételes
+adatszolgáltatási kötelezettséget jelent, mely számítástechnikailag a rekordszerkezet részletes
+kitöltöttségével definiálható.
+2. A tranzakciós jelentés nem terjed ki a adatszolgáltató által végzett valamennyi egyedi ügyletre.
+A tranzakciós jelentés devizanemtől függetlenül az 50.000,- eurót meghaladó alábbi ügyletekre
+vonatkozik:
+a) a hitelintézet rezidens ügyfeleinek nem-rezidensekkel történő, valamint a rezidens –
+ügyfél vagy más rezidens – külföldi számláját érintő elszámolásaira,
+b) a hitelintézet nem-rezidens ügyfelei és nem-rezidens bankoknak vezetett
+forintszámlájának forgalmára,
+c) a hitelintézet – konverzión kívüli – nem-rezidensekkel bonyolított saját ügyleteire,
+d) a konverziókra,
+e) a hitelintézetek egymás közötti – hitelintézeti – jogcímen elszámolt forgalmára.
+3. Nem kell tranzakciós jelentést küldeni:
+a) a valutapénztár készpénz ügyleteiről. A 2. a-e) pontokban felsorolt ügyletekre sem
+vonatkozik a tranzakciós jelentési kötelezettség, ha az ügyletnek legalább az egyik lába
+készpénzben bonyolódott,
+b) az egyéb állományváltozások és bizonytalan tételek jogcímeinél (921., 922., 923., 929.),
+a számlaáttétel és egyéb átfutó tételek jogcímeinél (930., 931., 933., a 932. jogcím
+esetében a függő tétel keletkezésekor),1 valamint ha a jogcím 793.
+Ezekben az esetekben a rekord partner- és ügyfél azonosító, valamint értéknap mezője nem
+kitöltött.
+4. A tételesen jelentett, a 2. a-c) és e) pontokban meghatározott ügyletek esetén, tehát a fizetési
+forgalom 010. jogcímétől a 92. jogcímcsoportig bezárólag (kivéve a 780., 790., 791., 792.,
+793.,911, 921.-929. jogcímeket) és a banki jogcímek alkalmazásakor (ide értve a függő számlán
+rezidens ügyféllel történő végleges elszámolást is) a rekordszerkezet minden mezője kitöltésre
+kerül. A tranzakciós jelentés rekordszerkezetében az egyedi ügyletet azonosító mezők tartalma a
+következő:
+1 A függő tétel megszüntetését azonban tranzakciósan kell jelenteni. Lásd ezt részletesebben a követő 6. pontban.
+
+Partner azonosító:
+Annak a banknak az egyedi azonosítója vagy a nem-rezidens hitelintézet kódja
+(00000001) kerül a partner mezőbe, amelynek / amelytől a jelentést adó hitelintézet a
+fizetési megbízást adta / kapta, ez pedig a fizetési megbízás (értesítés) fogadója
+(Receiver), illetve küldője (Sender).
+Egy átutaláshoz kapcsolódó több megbízás esetén a partner azonosító kitöltésekor
+csak az ügyfélhez rendelhető megbízást kell figyelembe venni (az MT 100-as
+megbízás alapján kell a partner azonosítót meghatározni).
+A külföldre indított / külföldről kapott, rezidens ügyfél által jogcímezett, generált
+forgalmi rekordban a nem-rezidens hitelintézet kódja (00000001). A banki jogcímű
+generált rekordban a mező nem kitöltött.
+Ügyfél azonosító:
+Az ügylet jogcímének meghatározója, az utalás megbízója / kedvezményezettje
+egységes statisztikai számjelének első nyolc jegye (KSH törzsszám). A háztartások
+esetén (J szektor) az azonosító 00000004., nem-rezidens esetén 00000001. Ez utóbbi
+alkalmazására csak a nem-rezidens, nem-banki ügyfél számlájának forintban történő
+jóváírása, illetve terhelése esetén és csak forint deviza esetén kerülhet sor. Forint
+tételek esetén is a tranzakcióban érintett rezidens ügyfél kódját kell megadni az
+alábbi jogcímcsoportoknál: 46., 48., 66., 82, 92. Amennyiben a jelentő bank egyben
+saját nem-rezidens ügyfelének az üzleti partnere is – 2. c) szerinti tranzakciók –, úgy
+az ügyfél azonosító – forint és bármely deviza esetén is – a hitelintézet saját
+törzsszáma.
+Ha a végső kedvezményezett hitelintézet – a 2. e) szerinti tranzakciók esetén –, az
+üzletkötéssel vagy elszámolási viszonnyal érintett másik bank azonosítója.
+A külföldre indított / külföldről kapott, rezidens ügyfél által jogcímezett, generált
+forgalmi rekordban a rezidens ügyfél törzsszáma. A banki jogcímű generált rekorban
+a másik hitelintézet törzsszáma.
+Értéknap:
+A nostrón / lorón vagy függő számlán történt jóváírás / terhelés értéknapja.
+5. A tételesen jelentett 2. d) pont szerinti üzleti események – konverziók – jogcímeinél, azaz két
+jogcímezendő számla esetén az „Értéknap” és a „Partner azonosító” mindig kitöltött. Az „Ügyfél
+azonosító” nem kitöltendő. A tranzakciós jelentés rekordszerkezetében a mezők tartalma a
+következő:
+Partner azonosító:
+A nem-rezidens ügyfélhez rendelhető – 116 – számlatípuson, illetve ennek hiányában
+azon a számlatípuson, amellyel kapcsolatban van megbízás, a 4. pontban leírt
+szabályt kell alkalmazni („1.” rekord).
+A másik számlatípus tekintetében a partner azonosító mezőben a jóváírást, illetve
+terhelést végző2, vagy a jóváírással illetve terheléssel érintett hitelintézetet3 kell
+szerepeltetni („2.” rekord)
+2 A jelentést adó hitelintézetnek számlát vezető – nostró – bank, vagy a hitelintézet saját törzsszáma, ha a hitelintézet saját nem-rezidens ügyfele
+részére konvertált.
+3 A jelentést adó hitelintézetnél számlát vezető – loró – bank vagy a hitelintézet saját törzsszáma, ha a hitelintézet saját nem-rezidens ügyfele részére
+konvertált.
+
+6. A függő számlával összefüggésben csak a függő tétel megszűnéséről kell tranzakciós jelentést
+küldeni, és csak akkor, ha a függő elszámolást okozó üzleti események a 2. pontban
+megfogalmazott ügyletek körébe tartoznak.
+Függő tétel nem-rezidenssel történő elszámolásakor – a 932., illetve 911. jogcímet kell alkalmazni –
+a partner azonosító kitöltése az 5. pontban leírt szabályok szerint alakul, az ügyfél azonosító nincs
+kitöltve.
+Függő tétel rezidenssel történő elszámolása esetén érdemi jogcímet kell használni, így mind a
+partner, mind az ügyfél azonosító a 4. pontban leírt szabályok szerint töltendő ki.
+7. A tranzakciókat is tartalmazó jelentés két módon adható meg. Arról, hogy a adatszolgáltató
+melyik megoldást alkalmazza, az első jelentés beküldésekor kell nyilatkozni.4
+II. A tábla kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+Tartalmi és formai követelmények
+1. Bevétel és kiadás értelmezése
+A fizetési forgalomban tartozik tételként könyvelt összegek mindig bevétel, a követel oldalon
+szereplő összegek mindig kiadás forgalmat jelentenek, függetlenül attól, hogy eszköz vagy forrás
+számlát érintenek-e. Ennek következtében a fizetési forgalom egyenlegeinek devizanemenként meg
+kell egyezniük a jogcímezendő állományok egyenlegének havi változásaival.
+2. Stornó tétel jelölése
+Rosszul kiadott jogcím javításakor, vagy ha az adott jogcím használatára vonatkozó előírások
+bevétel vagy kiadás stornó tétel alkalmazását követelik meg, akkor a jelentésben a bevétel vagy
+kiadás érték elé negatív előjelet kell tenni.
+3. Kör
+A kör kód megmutatja, hogy az adott forgalom mely állománycsoportba tartozó jogcímezendő
+számlán jelent meg. Egy fizetési forgalmi tranzakció a hitelintézet külfölddel szembeni (100-as
+típus és 0-ás kör), belfölddel szembeni (900-as típus és 7-es kör), vagy függő számláinak (803-as
+típus és 5-ös kör) állományában okozhat változást.
+A jogcímeket a jogcím magyarázatában leírt üzletesemény alapján a forint-, deviza- és
+valutaforgalomra egységesen kell alkalmazni. A valuta- és a vostro számla miatti „0” egyenlegű
+forgalmakat is a 0-ás körön kell jelenteni.
+4. Országbontás
+A 010, 140., 250. jogcímeknél, a 760., 780., 790., 791., 793., 911., 921., 922., 923., 929., 930., 931.,
+932., 933., 999., a rezidens hitelintézetek jogcímeinél, valamint a 150. és 160. jogcímen elszámolt
+valutaforgalom esetén az országkódot nem kell megadni.
+4 a) Egyetlen file kerül beküldésre, és ez tartalmazza a teljes havi fizetési forgalmat.
+aa) A file a tranzakciós jelentési kötelezettség alá eső ügyletnél tételes, egyébként aggregált adatokat tartalmaz.
+ab) A file a tranzakciós jelentési kötelezettség alá nem eső ügyletre is tranzakciókat (tételes elszámolást) tartalmaz.
+b) Külön file tartalmazza a tételes bontású és a teljes havi fizetési forgalmat tartalmazó adatokat.
+
+5. A jogcímezés speciális esetei
+5.1. Függő elszámolások
+Függő számla5 alkalmazására akkor kerül sor, ha a hitelintézet nem tud elszámolni a
+kedvezményezettel, mert vagy az ügyfél, vagy a számlavezető bank nem ismert. Itt jelenik meg a
+bankra intézvényezett csekkek fedezeteként érkezett összeg is. A nem-rezidens ügyféllel
+kapcsolatos elszámolások is a függő számlán jelennek meg, ha az ügylet nostrón és a nem-rezidens
+számláján elszámolt tételeinek értéknapja különböző hónapra esik.
+Függő tétel keletkezésekor a jogcímezéssel érintett mindkét számlán (803 és 100-as / 900-as típus) a
+932. Függő elszámolások fizetési mérleg jogcímet kell alkalmazni. A függő tétel a – lehetőség
+szerint még a tárgyhónapban végrehajtott – végleges elszámolás során kapja meg a tranzakcióra
+jellemző jogcímet.
+A végleges elszámolás lehetséges esetei és az alkalmazható jogcímek:
+803 100 900
+Végleges elszámolás nem-rezidens
+ügyféllel, azonos devizanemben
+932 932 –––
+Végleges elszámolás nem-rezidens
+ügyféllel, eltérő devizanemben
+911 911 –––
+Végleges elszámolás rezidens
+ügyféllel
+érdemi ––– –––
+Továbbutalás másik banknak 900-
+as típuson
+932 ––– 932
+Továbbutalás másik banknak 100-
+as típuson
+932 932 –––
+A 932-es jogcím kizárólag a fentebb felsorolt esetekben alkalmazható, és a jogcímen egyenleg csak
+jutalék felszámítása miatt keletkezhet. Forintban függő forgalom kizárólag a nem-rezidens ügyfél
+forintszámlájának terhelésével összefüggésben keletkezhet, amennyiben a nem-rezidens a hónap
+utolsó, vagy utolsó előtti napján kíván forintszámlája terhére devizaátutalást kezdeményezni, és a
+kedvezményezett jóváírása, illetőleg a nostró számla forgalma csak a következő hónapban
+jelentkezik.
+5.2. A számlaáttétel jogcímei (93-as jogcímcsoport)
+Minden olyan tranzakciót, amelynek bankon belüli elszámolása azonos devizanemben – ide nem
+értve a valuta / deviza konverziót – egyidejűleg két jogcímezendő számlatípuson történik, e
+jogcímeken kell elszámolni. A jogcímcsoport jogcímein mindkét típuson csak azonos összegek
+kerülhetnek elszámolásra.
+A két jogcímezendő állomány csoportja, illetve a tranzakció tartalma alapján a kódolás az alábbi
+szerint történik:
+5 Nem tekinthetők függő számlának a hitelintézetek technikai, átvezetési vagy egyébként függő számlának elnevezett számlái, ha tartalmilag nem
+felelnek meg a 803-as számlatípus szerinti besorolásnak.
+
+Jogcímezendő
+állománycsoport
+Jogcím (mindkét
+számlatípuson)
+Az ügylet tartalma
+100-100 930 Számlaáttétel külföldi számlák között:
+bankon átfutó tétel
+nem-rezidensek közötti elszámolás
+betétkihelyezés és – elfogadás
+betét és folyószámlák közötti átvezetés
+100-900 931 Számlaáttétel külföldi és belföldi nostró/loró
+számla között
+900-900 933 Számlaáttétel belföldi számlák között
+bankon átfutó tétel
+100-803 932 Függő tétel keletkezése
+900-803 932 Függő tétel keletkezése
+803-100 932 Függő tétel megszüntetéséhez kapcsolódó
+számlaáttétel:
+végleges elszámolás nem-rezidens ügyféllel
+azonos devizanemben
+továbbutalás a végleges elszámolást végző
+banknak külföldi nostrón
+803-900 932 Függő tétel megszüntetéséhez kapcsolódó
+számlaáttétel:
+továbbutalás a végleges elszámolást végző
+banknak belföldi nostrón
+végleges elszámolás nem-rezidens ügyféllel
+5.3. Jutalék elszámolása
+A banki jutalék elszámolásánál háromféle esetet különböztetünk meg:
+a) saját rezidens ügyfél részére végzett átutalás miatti jutalék terhelés,
+b) saját nem-rezidens ügyfél részére végzett átutalás miatti jutalék terhelés,
+c) a bankon csupán keresztülfutó tétel miatt felszámított jutalék.
+Az a) esetben a jutalékkal nem csökkentett összeg jelenik meg a fizetési forgalomban a külföldi
+vagy belföldi nostró számlán (mely a tranzakció elszámolása során az ügyfél számlájának
+ellenszámlája).
+A b) esetben a nem-rezidens által fizetett jutalék a 220. Pénzügyi szolgáltatások jogcímen
+szerepel a fizetési forgalomban, melynek kiadására a 116-os számlatípussal összefüggésben kerül
+sor.
+A c) esetben ha a jutalékot a kedvezményezett viseli, a felszámított jutalék a tétel elszámolásával
+egyidejűleg a 793. Rezidenseknek felszámított jutalék, vagy a 220. Pénzügyi szolgáltatások
+jogcímen bevételként jelenik meg.
+Ha a rezidens vagy nem-rezidens megbízó vállalta a – később felszámított – jutalék megfizetését,
+azt szintén a 793. Rezidenseknek felszámított jutalék, vagy 220. Pénzügyi szolgáltatások jogcímen
+
+kell elszámolni, azonban ekkor a számlaáttét jogcímen – mivel ez a banknál sem számlaáttétként
+jelenik meg – egyenleg nem keletkezhet.
+5.4. Konverziók
+Konverziós ügyletnek a hitelintézet nem-rezidens – saját, vagy más bank – ügyfele részére végzett,
+valamint nem-rezidens hitelintézetekkel kötött deviza-deviza, forint-deviza, valuta-valuta, forint-
+valuta és valuta-deviza átváltásait tekintjük. Forint-deviza és forint-valuta átváltáskor a forint
+készpénzt érintő tranzakciókat nem konverzióként kell jelenteni. (Részletesen lásd a Pénztári
+tranzakciók résznél.)
+A hitelintézetek nem-rezidensekkel kapcsolatos, azonos és különböző devizákat érintő valuta-
+deviza konverziói esetében (nem-rezidens számlatulajdonosok javára / terhére történő valuta be-,
+illetve kifizetések és az azokkal kapcsolatos deviza elszámolások, valamint a külföldre történő
+valuta kiküldések, illetve onnan érkező ellátmányok valuta-, deviza elszámolásoknál) a jogcímezés
+független attól, hogy a deviza / valuta elszámolása 100-as vagy 900-as típuson valósul meg. A
+deviza nostrón / forint lorón (vostrón) megjelenő deviza-forint átváltásoknál is 911-es jogcím
+használandó.
+Ha a valuta kiküldés / beérkezés elszámolása és a deviza jóváírása / terhelése nem ugyanabban a
+hónapban történik meg, akkor a tárgyhó végéig le nem zárt – ún. valuta ki- és beszállítási
+számlákon nyilvántartott – tételeket a rövid lejáratú egyéb követelések, illetve tartozások között kell
+szerepeltetni.
+A rezidens hitelintézettel kötött ügylet esetén a konverziós jogcím nem alkalmazható. Ebben az
+esetben – két devizát érintő ügyletnél mindkét (100-as vagy 900-as) típuson, deviza-forint ügyletnél
+csak a jogcímezendő devizaszámlán – az ügyletben részt vevő másik bank jogcímét kell megadni.
+Rezidens ügyfél részére végzett deviza-deviza átváltások nem részei a fizetési mérleg jelentéseknek.
+Rezidens vagy nem-rezidens ügyfél részére végzett valuta-valuta váltás, valamint nem-rezidens
+számlájának terhelésével / jóváírásával együttjáró valuta kifizetés / befizetés esetén is konverziós
+jogcím használandó.
+Konverzióként az azonnali ügyletek jelentendők. Azonnali ügyletről akkor lehet beszélni, ha az
+ügylet az üzletkötést követő legkorábbi időpontban teljesítésbe megy, azaz adott értéknapra az
+üzletkötés napjánál későbbi időpontban már nem – vagy csak plusz költségek ellenében – lehet
+üzletet kötni. A legkorábbi teljesítés értéknapja ügyletenként más és más, továbbá az értéknapot a
+hétvégék és bankszünnapok is befolyásolják.
+Az O/N és a T/N swapokat a fizetési mérleg adatszolgáltatásokban (M01, M02) derivatív ügyletként
+kell kezelni. Az O/N és T/N swap ügyletek határidős lábát azért kell határidős ügyletekkel azonos
+módon jogcímezni és hó végén fennálló állományát kiértékelni – annak ellenére, hogy a spot lejárati
+intervallumon belül vannak –, mert az előre megállapodott árfolyamon visszaváltott O/N vagy T/N
+ügylet eredménye nem egyezik meg a T+2 időpontban kötött konverzió eredményével. A második
+spot ügylet tükrözheti pl. a bank pozíciójával kapcsolatos időközben megváltozott preferenciáját is,
+míg a swap ügyleteknél – legyenek akármilyen rövidek – nem ez a helyzet. A bankok a swap
+ügyleteket inkább (deviza, vagy forint) finanszírozásra használják, a spot ügyleteket pedig pozíció
+nyitásra vagy zárásra.
+Az értékpapír ügyletekkel összefüggő átváltások esetében külön kiemelést érdemel, hogy az
+értékpapír adásvételének prompt jellege önmagában nem határozza meg a konverzió spot, avagy
+határidős jellegét.
+Rezidens nem-hitelintézeti ügyfelek nem-rezidens bankkal kötött konverziós ügyleteit a 66. Egyéb
+rövid követelések jogcímcsoport jogcímein, a nem rezidens anyavállalattal vagy
+
+elszámolóközponttal kötött átváltásokat a 92. jogcímcsoport jogcímein, a nem rezidens
+leányvállalatokkal kapcsolatos átváltásokat pedig a 82. jogcímcsoport jogcímein kell jelenteni.
+5.5. Pénztári tranzakciók
+A pénzváltás, azaz valuta-forint készpénz konverzió esetében a tranzakció jogcímét (az átváltás
+okát) az ügyféltől kapott információ alapján kell jelenteni (a nem-rezidens milyen célból vált valutát
+forintra vagy milyen ügyletből származó forintot vált át valutára, illetve a rezidens mire kívánja
+költeni a forintért vásárolt valutát vagy milyen ügyletből származik a forintra váltott valutája). A
+jogcím a hitelintézet valutakészletének változását magyarázza.
+Amennyiben a valutakészlet változása nem rezidens és nem-rezidens közötti tranzakcióhoz
+kapcsolódik, úgy a hitelintézet csak az ügyfél rezidens vagy nem-rezidens státuszára utaló jogcímet
+ad ki. Rezidens ügyfél esetén 790. Rezidensek pénzváltásai, nem-rezidens ügyfél esetében a 791.
+Nem-rezidensek pénzváltásai jogcím használandó. Amennyiben a pénztárban pénzváltáskor
+megjelenő ügyfélről nem dönthető el, hogy rezidens vagy nem-rezidens, akkor a 160. jogcímet kell
+alkalmazni.
+A pénzváltó ügynök valuta be- és kiszállításakor a 780, Nem-hitelintézeti átváltóhelyek valuta-
+elszámolásai rezidens hitelintézetekkel jogcímet kell alkalmazni. A pénzváltó ügynöknek átadott
+valuta állományokat a hitelintézet saját valutakészletében nem szerepeltetheti, mivel ezek
+állományokat és a részletes forgalmakat a pénzváltó jelenti az M16-os jelentésben.
+Valuta másik valutára történő átváltásakor – az ügyfél státuszától függetlenül –, valamint nem-
+rezidens számláját érintő valuta-befizetés, illetve számláról történő valuta-felvétel (kifizetés)
+esetében a spot és valuta-deviza konverzióknál írtaknak megfelelően (lásd előző 4. pont) a 911.
+jogcím alkalmazandó.
+Rezidens számlájának jóváírásával / terhelésével járó valuta-befizetés / kifizetés esetén a valuta –
+forint váltás szabályai szerint kell eljárni (a valuta eredetére / felhasználási céljára utaló érdemi
+jogcím, vagy a rezidens státuszra utaló jogcím használandó).
+Számlára történő forint-befizetés / számláról történő forint felvétel csak akkor jogcímezendő, ha a
+számlatulajdonos nem-rezidens. A jogcímről, azaz a tranzakció okáról a nem-rezidens ügyfél
+nyilatkozik. Rezidens és nem-rezidens közötti ügyletnél érdemi, nem-rezidensek közötti ügylet
+esetén 792. Nem-rezidensek számláinak forint készpénzforgalma jogcím alkalmazandó.
+5.6. A banki (hitelintézeti) jogcímek használata
+Két rezidens hitelintézet egymással kötött devizaügyletének (pl. belföldi bankhoz történő kihelyezés
+és hitelfelvétel, valamint ezek kamatai; deviza-deviza, valuta-deviza, valuta-forint, deviza-forint
+konverzió, rezidenseknek nyújtott konzorciális hitellel kapcsolatos követelés adás-vétel; rezidens
+hitelintézet által külföldön kibocsátott kötvények adás-vétele) elszámolása esetén – függetlenül
+attól, hogy az elszámolás 100-as vagy 900-as típuson történik – mindig a másik hitelintézet
+jogcímét kell alkalmazni. A loró – vagy adott esetben technikai – forint számlán kell – az ügyletben
+résztvevő mindkét hitelintézetnek – a banki jogcímet alkalmazni, ha valamely hitelintézet egy
+másik rezidens hitelintézet nem-rezidens ügyfele részére átváltott forintot a nem-rezidens
+számlavezető bankjának átutalja.
+A rezidens gazdasági szereplők egymás között lebonyolított devizaforgalma, valamint nem-
+rezidensek egymás közötti forint átutalásai, továbbá a külföldről érkező forint továbbutalások,
+valamint a külföldre indított forint fedezet küldése és fogadása is hitelintézeti jogcímeken
+jelentendők.
+A banki jogcímek forgalma nem változtatja meg a nemzetgazdaság külfölddel szembeni pozícióját,
+mivel az egyik banknál nő, a másik banknál csökken a külfölddel szembeni követelés / tartozás
+állomány. A banki jogcímeken jelentett forgalom egyenlege ezért nemzetgazdasági szinten zérus.
+
+5.7. A pénzváltó ügynökökkel történő elszámolás
+A 780. A pénzváltó ügynökök valuta elszámolásai rezidens hitelintézetekkel jogcím a rezidens
+hitelintézet és ügynöke(i) között lebonyolított forgalom nyomon követését biztosítja. A 780-as
+jogcímen közölt bevétel és kiadás adatokat az ügynökök szerint megbontva kell jelenteni. A fizetési
+forgalom átváltóhelyek szerinti részletezése az „Ügyfél azonosító” mezőnek kitöltésével történik.
+Az ügynökök saját jelentésükben a hitelintézetre való utalással közlik a hitelintézetekkel bonyolított
+valutaforgalmukat, így a jogcím egyenlege nemzetgazdasági szinten nulla.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: M03
+Export-import ügyletekkel kapcsolatos kereskedelmi követelések és tartozások forgalma
+01. Követelések alakulása
+Devizanem: Adatok: devizában
+Áruforgalom miatt Pénzforgalom miatt
+Export Import Kiadás Bevétel
+(követelés nő) (követelés csökken) (követelés nő) (követelés csökken)
+Sorszám Számlatípus
+a b c d
+01 Halasztott fizetés
+02 61A
+… …
+12 61K
+13 62A
+… …
+23 62K
+24 Import előleg
+25 619
+26 629
+
+MNB adatgyűjtés azonosító: M03
+02. Tartozások alakulása
+Devizanem: Adatok: devizában
+Áruforgalom miatt Pénzforgalom miatt
+Export Import Kiadás Bevétel
+(tartozás csökken) (tartozás nő) (tartozás csökken) (tartozás nő)
+Sorszám Számlatípus
+a b c d
+01 Halasztott fizetés
+02 67A
+… …
+12 67K
+13 68A
+… …
+23 68K
+24 Export előleg
+25 679
+26 689
+
+MNB adatgyűjtés azonosító: M03
+Kitöltési útmutató
+Export-import ügyletekkel kapcsolatos kereskedelmi követelések és tartozások forgalma
+I. Általános tudnivalók
+1. A 01-es táblában a bank által okmányos műveletként nyilvántartásba vett, rezidensek által nyújtott,
+áruszállításhoz kapcsolódó halasztott fizetések, illetve előleg utalása révén keletkezett kereskedelmi
+követelések havi forgalmát kell közölni devizanemenként, számlatípusonként.
+A jelentő hitelintézet nyilvántartásában szereplő kereskedelmi követelések és tartozások
+− hosszú – 1 éven túli – eredeti lejáratúak, és
+− rövid – 3 hónapot meghaladó és 1 évnél nem hosszabb – eredeti lejáratúak lehetnek.
+2. A 02-es táblában a bank által okmányos műveletként nyilvántartásba vett, rezidensek által kapott,
+áruszállításhoz kapcsolódó halasztott fizetések, illetve előleg utalása révén keletkezett kereskedelmi
+tartozások havi forgalmát kell közölni devizanemenként, számlatípusonként.
+A jelentő hitelintézet nyilvántartásában szereplő kereskedelmi követelések és tartozások
+− hosszú – 1 éven túli – eredeti lejáratúak, és
+− rövid – 3 hónapot meghaladó és 1 évnél nem hosszabb – eredeti lejáratúak lehetnek.
+II. A tábla kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+A jelentésben megfigyelendő események
+A 01-es táblában kerülnek jelentésre a kereskedelmi követelések keletkezésével (kereskedelmi hitel
+nyújtása) és azok megszűnésével (az adós teljesítése) összefüggő gazdasági események. A jelentésben
+szereplő eseményeket aszerint kell megbontani, hogy a követelések keletkezését, illetve azok
+megszűnését áru vagy pénzmozgás eredményezte-e.
+Kereskedelmi követelés keletkezik (követelés nő):
+− export (reexport) áru kiszállítással nyújtásával, vagy
+− import előleg utalásával.
+Kereskedelmi követelés megszűnik (követelés csökken):
+− a kifizetett import előlegre történő szállítás, vagy az exportált áru áruban történő
+kiegyenlítésével, vagy
+− az exportált áru pénzbeni kiegyenlítésével.
+Magyar áru exportjához kapcsolódó váltó leszámítolása6, illetve követelés megvásárlása esetén az
+ügylet az export oszlopban, a leszámítolást végző szektorának megfelelő soron kerül jelentésre (a
+hitelintézeti szektor követelése – a leszámítolt váltó vagy a megvásárolt követelés mögött húzódó – áru
+kiszállítás következtében megnő).
+6 Nem magyar áru exportjával összefüggő váltó adásvételét a hitelintézet rövid lejáratú pénzpiaci eszköz követeléseként az M01 jelentésben (52C.
+számlatípus) kell jelenteni.
+
+A szerződéstől való elállás miatti követelés megszűnését (az import előleget visszautalják) stornó
+tételként – negatív előjellel – a követelés keletkezésének nyilvántartására szolgáló oszlopban kell
+jelenteni.
+A 02-es táblában a kereskedelmi tartozások keletkezésével (kereskedelmi hitel igénybevétele) és a
+tartozások kiegyenlítésével összefüggő gazdasági események szerepelnek.
+Kereskedelmi tartozás keletkezik (tartozás nő):
+− import beszállítással, vagy
+− export előleg utalásával.
+Kereskedelmi tartozás megszűnik (tartozás csökken):
+− a kapott export előlegre történő szállítás, vagy az importált áru áruban történő
+kiegyenlítésével, vagy
+− az import áru pénzbeni kiegyenlítésével.
+A tartozás átvállalását az import oszlopban azon a soron kell jelenteni, amely szektor külfölddel
+szembeni tartozása az átvállalás következtében megnő.
+A tartozás szerződéstől való elállás miatti megszűnését (a kapott export előleget visszautalják) stornó
+tételként – negatív előjellel – a tartozás keletkezésének nyilvántartására szolgáló oszlopban kell
+jelenteni.
+3. Technikai forgalom
+A szerződés nem-, vagy hibás teljesítéséből adódó állományt módosító technikai forgalmat (pl. nem
+fizetik ki a behozott / kivitt árut, típusváltozások) függetlenül attól, hogy az a tárgyévre vagy az azt
+megelőző időszakra vonatkozik, az M05 Egyéb állományváltozások jelentésben kell közölni.
+4. Összefüggések a nyilvántartási számlák forgalma és a jogcímeken megjelenő forgalom között
+A halasztott fizetésekkel és az előlegekkel kapcsolatos pénzmozgások a fizetési forgalmi jelentésben
+(M02) a 61., 62., 67. és 68-as jogcímcsoportba tartozó jogcímeken7 – melyek a kereskedelmi hitelek
+lejárat és szektor szerinti bontását tükrözik – jelennek meg. A jogcímeken valamennyi gazdasági
+egység áruszállításhoz kapcsolódó halasztott fizetése és előleg fizetése megjelenik. Az M03 jelentés
+pénzforgalmi oszlopa csak a banknál nyilvántartásba vett okmányos ügyletek miatti fizetések
+alakulását mutatja.
+Ha a forgalom és az állomány nyilvántartási devizaneme eltér egymástól, akkor az M03 jelentésben
+a pénzforgalmi adatokat az állomány devizanemében kell megadni. Az ezen és következő pontban
+megfogalmazott összefüggések a fenti esetben forintra átszámolva teljesülnek.
+a) Követelések alakulása
+A kereskedelmi hitel követelések megszűnésénél a megfelelő (61A-61K, 62A-62K) jogcímeken
+megjelenő bevételek értéke nem lehet kevesebb, mint a forgalmi tábla ugyanazon számlatípushoz
+tartozó sorában a pénzforgalmi bevétel oszlopban feltüntetett érték. A jogcímeken kiadásként
+megjelenő forgalomnak legalább akkorának kell lennie, mint az M03/01 tábla rövid-, vagy
+hosszúlejáratú előleg sorában a pénzforgalmi kiadásként jelzett érték (pl. 61A és 61C jogcím kiadás
+7 A jogcímek forgalma a bevételi oldalon a – halasztott fizetésből származó – nyújtott kereskedelmi hitel megszűnését (61. és 62 jogcímcsoportba tartozó
+jogcímek) és a kapott export előlegeket (67. és 68 jogcímcsoportba tartozó jogcímek), a kiadási oldalon a – halasztott fizetésből származó – felvett
+kereskedelmi hitel megszűnését (67. és 68 jogcímcsoportba tartozó jogcímek) és az import előleg fizetéseket mutatja (61. és 62 jogcímcsoportba tartozó
+jogcímek).
+
+adatainak összege nem lehet kisebb, mint a 619 számlatípus pénzforgalom oszlopában levő kiadás
+adata).
+b) Tartozások alakulása
+A kereskedelmi hitel tartozások megszűnésénél a megfelelő (67A-67K, 68A-68K) jogcímeken
+megjelenő kiadások értéke nem lehet kevesebb, mint a forgalmi tábla ugyanazon számlatípusához
+tartozó sorában a pénzforgalmi kiadás oszlopban feltüntetett érték. A jogcímeken bevételként
+megjelenő forgalomnak legalább akkorának kell lennie, mint az M03/02 tábla rövid- vagy
+hosszúlejáratú előleg sorában a pénzforgalmi bevételként jelzett érték (pl. 67A, 67C jogcímek
+bevétel adatainak összege nem lehet kisebb, mint a 679 számlatípus pénzforgalom oszlopában levő
+bevétel adata).
+5. Összefüggés a nyilvántartási számlák állománya és forgalma között
+A megfigyelt állományok hó végi záró értéke és az előző havi záró értéke különbségének meg kell
+egyeznie a forgalmi jelentésben az adott állományra vonatkozó sorban megjelenő áru- és pénzforgalmi
+adatok, valamint a technikai változásként jelentett adatok egyenlegével.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: M05
+01. Egyéb állományváltozások
+Adatok: devizában
+Devizanem Számlatípus
+Állomány-
+változás
+kódja
+Növekedés Csökkenés
+Sorszám
+a b c d e
+
+…
+n
+02. Elhatárolt kamat, értékvesztés és értékelési különbözet
+Adatok: devizában
+Sorszám Devizanem Számlatípus
+Állomány-
+változás
+kódja
+Növekedés Csökkenés
+
+…
+n
+
+MNB adatgyűjtés azonosító: M05
+Kitöltési útmutató
+Egyéb állományváltozások
+I. Általános tudnivalók
+A jelentés tartalma
+Az M05 jelentés 01-es táblája tartalmazza a megfigyelt állományokban a tárgyidőszakban
+bekövetkezett, vagy az adatszolgáltató tudomására jutott - részben reálfolyamatokon kívüli
+elszámolások okozta - azon változásokat, melyek magyarázata a tárgyhavi forgalommal nem
+lehetséges. Ezek a következők:
+– az export-import ügyletekkel kapcsolatos követeléseket és tartozásokat érintő technikai forgalmak,
+– követelés leírás, tartozás elengedés, valutapénztári eltérés,
+– a befektetések eladásakor megjelenő árfolyamnyereség vagy -veszteség,
+– az előző időszakokat érintő elszámolások, vagy a nyilvántartási devizanem megváltozása miatti
+állomány módosítás,
+– követelés / tartozás átruházás miatti szektorváltás,
+– kamattőkésítés miatti állomány növekedés,
+– a nem jogcímezendő állományokat érintő forint forgalom miatti állományváltozások.
+A jelentés mind jogcímezendő, mind nem jogcímezendő állományok egyéb változásakor kitöltendő.
+A jogcímezendő állományokhoz kapcsolódó - forgalmi rekordként is jelentendő - egyéb
+állományváltozásnak meg kell egyeznie az M02 Fizetési forgalom jelentésben ugyanazon jogcímen
+(921, 929) szereplő adatokkal.
+Az M05 jelentés 02-es táblája szolgál az állományokról szóló egyéb információk közlésére, mint
+amilyen:
+– az utolsó kamatfizetés óta elhatárolt (felhalmozott) kamat (925),
+– a követelések nettó beszerzési értékének és kamat nélkül számított piaci értékének különbözete
+(922).
+A hó végén nyilvántartott kamatozó állományokra az utolsó - esetleg hónapokkal korábbi -
+kamatfizetés óta elhatárolt kamatot kell jelenteni. A kamatot állományt növelő tételként kell feltüntetni.
+A valuta és folyószámla állományokra, valamint a kereskedelmi hitelekre nem kell elhatárolt kamatot
+jelenteni.
+Ha az állományváltozás kódja = 925 (kizárólag 02-es tábla), a számlatípus a hitelintézetek esetében
+csak 171, 172, 181, 182, 47C, 49C, 51C, 52C, 56C, 58C, 63C, 64C, 65C, 66C, 69C, 698, 70C, 71C,
+73C, 80C, 81C lehet.
+Értékvesztést / értékelési különbözetet azokra a követeléstípusokra kérünk jelenteni, amelyekre
+vonatkozóan a bank azt könyveiben nyilvántartja.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: M06
+Éven túli lejáratú tartozások esedékesség szerinti bontása
+01. Felvett kölcsönök, egyéb tartozások és nem-rezidensek betétei után fennálló tartozások esedékesség szerinti bontása
+Devizanem: Adatok: devizában
+Kölcsön tartozások Egyéb tartozások Betétek
+Sorszám Lejárat 69C.típus 69B. típus 71C.típus 71B. típus 182. típus
+a b c d e
+01 Lejárt
+02 2004. I.
+03 2004. II.
+04 2004. III.
+05 2004. IV.
+06 2004. V.
+07 2004. VI.
+08 2004. VII.
+09 2004. VIII.
+10 2004. IX.
+11 2004. X.
+12 2004. XI.
+13 2004. XII.
+14 2005. I.
+15 2005. II.
+16 2005. III.
+17 2005. IV.
+18 2005. V.
+19 2005. VI.
+20 2005. VII.
+21 2005. VIII.
+22 2005. IX.
+23 2005. X.
+24 2005. XI.
+25 2005. XII.
+26 2006.
+27 2007.
+28 2008.
+29 2009.
+… ...
+n Utolsó év
+
+MNB adatgyűjtés azonosító: M06
+02. Hitel tartozást megtestesítő portfólió befektetések
+esedékesség szerinti bontása
+Devizanem: Adatok: devizában
+Tartozás
+56C. típus 56B. típus
+Sorszám Lejárat
+c f
+01 Lejárt
+02 2004. I.
+03 2004. II.
+04 2004. III.
+05 2004. IV.
+06 2004. V.
+07 2004. VI.
+08 2004. VII.
+09 2004. VIII.
+10 2004. IX.
+11 2004. X.
+12 2004. XI.
+13 2004. XII.
+14 2005. I.
+15 2005. II.
+16 2005. III.
+17 2005. IV.
+18 2005. V.
+19 2005. VI.
+20 2005. VII.
+21 2005. VIII.
+22 2005. IX.
+23 2005. X.
+24 2005. XI.
+25 2005. XII.
+26 2006.
+27 2007.
+28 2008.
+29 2009.
+… ...
+n Utolsó év
+
+MNB adatgyűjtés azonosító: M06
+03. Kereskedelmi tartozások esedékesség szerinti bontása
+Devizanem: Adatok: devizában
+67A … 67K 679
+Sorszám Lejárat
+a … k l
+01 Lejárt
+02 2004. I.
+03 2004. II.
+04 2004. III.
+05 2004. IV.
+06 2004. V.
+07 2004. VI.
+08 2004. VII.
+09 2004. VIII.
+10 2004. IX.
+11 2004. X.
+12 2004. XI.
+13 2004. XII.
+14 2005. I.
+15 2005. II.
+16 2005. III.
+17 2005. IV.
+18 2005. V.
+19 2005. VI.
+20 2005. VII.
+21 2005. VIII.
+22 2005. IX.
+23 2005. X.
+24 2005. XI.
+25 2005. XII.
+26 2006.
+27 2007.
+28 2008.
+29 2009.
+… ...
+n Utolsó év
+
+MNB adatgyűjtés azonosító: M06
+04. Kormányhitel tartozások esedékesség szerinti bontása
+Devizanem: Adatok: devizában
+Tartozások
+67G. típus 69G. típus
+Sorszám Lejárat
+Követelés /
+Tartozás
+azonosító
+c d
+01 Lejárt
+02 2004. I.
+03 2004. II.
+04 2004. III.
+05 2004. IV.
+06 2004. V.
+07 2004. VI.
+08 2004. VII.
+09 2004. VIII.
+10 2004. IX.
+11 2004. X.
+12 2004. XI.
+13 2004. XII.
+14 2005. I.
+15 2005. II.
+16 2005. III.
+17 2005. IV.
+18 2005. V.
+19 2005. VI.
+20 2005. VII.
+21 2005. VIII.
+22 2005. IX.
+23 2005. X.
+24 2005. XI.
+25 2005. XII.
+26 2006.
+27 2007.
+28 2008.
+29 2009.
+… ...
+n Utolsó év
+
+MNB adatgyűjtés azonosító: M06
+Kitöltési útmutató
+Éven túli lejáratú tartozások esedékesség szerinti bontása
+I. Általános tudnivalók
+1. A jelentésben megfigyelendő állományok
+A jelentés az egy éven túli lejárattal rendelkező állományok esedékességének megfigyelésére
+szolgál. Az állományok a következők lehetnek:
+– felvett hitelek és betétek (01-es tábla),
+– kötvények (02-es tábla),
+– kereskedelmi tartozások (03-as tábla),
+A rezidenseknek nyújtott konzorciális hitelek esedékességi bontása az M07 Rezidensek által felvett
+konzorciális hitelek esedékesség szerinti bontása jelentésben szerepel.
+2. Futamidő szerinti nyilvántartás
+A megfigyelendő állományokat végig az eredeti lejáratnak megfelelő futamidő szerinti
+számlatípuson kell nyilvántartani. Amennyiben egy éven túli lejáratú hitel törlesztése több részletben
+történik, a mindenkori esedékes részlet továbbra is megtartja az éven túli jelleget. (A hitelt nem szabad
+rövid lejáratúvá átminősíteni, amikor a hátralévő lejárat 1 év alá csökken.)
+Ha a vonatkozó törlesztőterv még nem áll rendelkezésre, akkor átmenetileg becsült lejáratot kell
+közölni.
+3. Lejárat
+A lejárat hónapját csak a vonatkozási időszak évére és az azt követő évre kell megadni. Ez alól
+kivétel a decemberre vonatkozó jelentés, ekkor a lejárat hónapját a vonatkozási időszakot követő
+második évre is meg kell adni.
+4. Összefüggés az állomány és az esedékességi bontás között
+A tárgyhavi záró állományként jelentett adatnak devizanemenként és számlatípusonként meg kell
+egyeznie az esedékességi jelentésben feltüntetett adatok összegével.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: M07
+Konzorciális hitelek esedékesség szerinti bontása
+01. Rezidens által nem-rezidens szervezésében nyújtott hitelek esedékesség szerinti bontása
+Devizanem: Adatok: devizában
+Sorszám Lejárat 88A típus …* 88I típus
+a … h
+01 Lejárt
+02 2004. I.
+03 2004. II.
+04 2004. III.
+05 2004. IV.
+06 2004. V.
+07 2004. VI.
+08 2004. VII.
+09 2004. VIII.
+10 2004. IX.
+11 2004. X.
+12 2004. XI.
+13 2004. XII.
+14 2005. I.
+15 2005. II.
+16 2005. III.
+17 2005. IV.
+18 2005. V.
+19 2005. VI.
+20 2005. VII.
+21 2005. VIII.
+22 2005. IX.
+23 2005. X.
+24 2005. XI.
+25 2005. XII.
+26 2006.
+27 2007.
+28 2008.
+29 2009.
+… ...
+n Utolsó év
+
+MNB adatgyűjtés azonosító: M07
+02. Nem-rezidens által rezidens szervezésében nyújtott hitelek
+esedékesség szerinti bontása
+Devizanem: Adatok: devizában
+698. típus
+Sorszám Lejárat
+a
+01 Lejárt
+02 2004. I.
+03 2004. II.
+04 2004. III.
+05 2004. IV.
+06 2004. V.
+07 2004. VI.
+08 2004. VII.
+09 2004. VIII.
+10 2004. IX.
+11 2004. X.
+12 2004. XI.
+13 2004. XII.
+14 2005. I.
+15 2005. II.
+16 2005. III.
+17 2005. IV.
+18 2005. V.
+19 2005. VI.
+20 2005. VII.
+21 2005. VIII.
+22 2005. IX.
+23 2005. X.
+24 2005. XI.
+25 2005. XII.
+26 2006.
+27 2007.
+28 2008.
+29 2009.
+… ...
+n Utolsó év
+
+MNB adatgyűjtés azonosító: M07
+Kitöltési útmutató
+Rezidensek által felvett konzorciális hitelek esedékesség szerinti bontása
+I. Általános tudnivalók
+1. A jelentésben megfigyelendő adatok
+A 01-es táblát a nem-rezidens fizető ügynök által folyósított konzorciális hitelnyújtásban résztvevő
+rezidens hitelintézeteknek kell kitölteniük a rezidensekkel szemben fennálló követeléseik (88.
+számlatípus-csoport) esedékességéről. Az esedékességi tábla összesen sorainak rendre meg kell
+egyezniük az M08 jelentés 01-es táblájának megfelelő záró állományaival.
+A 02-es táblát a fizető ügynök rezidens hitelintézetnek kell kitöltenie, a hitel nem-rezidens által
+biztosított részének (698-as típus) esedékességéről. Az esedékességi tábla összesen sorának meg kell
+egyeznie az M08 jelentés 02-es táblájának záró állományával.
+A táblákban az adatokat névértéken, devizanemenként és számlatípusonként részletezve, az
+esedékes összegeket a törlesztési terv szerint év, hónap bontásban kell megadni.
+A hitel és a hitel igénybevevőjének azonosító adatát nem kell a jelentésben feltüntetni, az
+esedékességi bontást sem kell egyedi hitelenként megadni.
+2. Lejárat
+A lejárat hónapját csak a vonatkozási időszak évére és az azt követő évre kell megadni. Ez alól
+kivétel a decemberre vonatkozó jelentés, ekkor a lejárat hónapját a vonatkozási időszakot követő
+második évre is meg kell adni.
+3. Összefüggés az állomány és az esedékességi bontás között
+A tárgyhavi záró állományként jelentett adatnak devizanemenként és számlatípusonként meg kell
+egyeznie az esedékességi jelentésben feltüntetett adatok összegével.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: M08
+Konzorciális hitelek hó végi állománya és havi forgalma
+01. Rezidens által nem-rezidens szervezésében nyújtott hitelek hó végi állománya és havi forgalma
+Devizanem: Adatok: devizában
+A hitel azonosító adata Növekedés Csökkenés
+Kamatozás Követelés vásárlás Követelés eladás
+Végső
+lejárat Kódja Kamatfelár
+Igénybe-
+vevő
+kódja
+Számla-
+típus
+Hitelnyújtás
+Eladó kódja Összeg
+Igénybevevő
+törlesztése Vásárló kódja Összeg
+Záró állomány
+Sorszám
+a b c d e f g h i j k l
+
+…
+n
+
+MNB adatgyűjtés azonosító: M08
+02. Nem-rezidens által rezidens hitelintézet szervezésében rezidensnek nyújtott hitelek hó végi állománya és havi forgalma
+Devizanem: Adatok: devizában
+A hitel azonosító adata Növekedés Csökkenés
+Kamatozás Eladás nem-rezidensnek Vásárlás nem-rezidenstől
+Végső
+lejárat Kódja Kamatfelár
+Igénybe-
+vevő
+kódja
+Számla-
+típus
+Hitelnyújtás
+Eladó kódja Összeg
+Igénybevevő
+törlesztése Vásárló kódja Összeg
+Záró állomány
+Sorszám
+a b c d e f g h i j k l
+
+…
+n
+
+MNB adatgyűjtés azonosító: M08
+Kitöltési útmutató
+Rezidensek által felvett konzorciális hitelek hó végi állománya és havi forgalma
+I. Általános tudnivalók
+1. A jelentésben megfigyelendő adatok
+A jelentés a rezidensek részére szervezett konzorciális hitelnyújtás adatait tartalmazza. Az ügyletek a konzorcium
+szervezője, illetve a fizető ügynök – továbbiakban fizető ügynök -rezidens vagy nem-rezidens státusza alapján két csoportra
+bonthatók.
+A 01-es táblát a nem-rezidens fizető ügynök által bonyolított konzorciumban résztvevő rezidens hitelintézeteknek kell
+kitölteniük a – bármely szektorba (kivéve J és K szektorokat) tartozó - rezidensekkel szemben fennálló követeléseik
+tárgyhavi forgalmáról és záró állományáról. A táblában a 88. számlatípus- és jogcímcsoport adatai szerepelnek. Az utolsó
+jegyet az igénybevevő szektora határozza meg. Mind a hitelnyújtással, mind a hitellel kapcsolatos követelések
+megvásárlásával, illetve eladásával összefüggő állományi és forgalmi adatokat jelenteni kell.
+Ha a konzorcium szervezője nem-rezidens, de a fizető ügynök egy rezidens hitelintézet és a hitelfelvevő is rezidens,
+akkor ezt az esetet a 02-es táblán kell jelenteni.
+A 02-es táblát a konzorciumban fizető ügynökként eljáró rezidens hitelintézetnek kell kitöltenie. A tábla a rezidensek
+részére nyújtott hitel nem-rezidens által biztosított részének megfigyelésére szolgál, amely nem-rezidens által történt
+hitelnyújtással és / vagy rezidensi rész nem-rezidens által történt megvásárlásával keletkezhet. A táblában a 698. típus és
+jogcím adatai jelentendők. A táblában a nem-rezidenssel szembeni tartozás állományát és forgalmát kell közölni.
+Ezt a táblát kell használni akkor is, ha a hitelintézet rezidens ügyfelének nyújtott hitelét nem-rezidens anya- vagy
+testvérbankjának adja át vagy veszi vissza.
+A rezidens hitelnyújtó és a fizető ügynök közötti pénzforgalom az M08-as jelentésben nem szerepelhet, e forgalmat a
+rezidens hitelintézetek egymás közötti ügyleteire vonatkozó általános elvek (banki jogcímek használata) szerint kell kezelni.
+A táblában hitelenként kell az adatokat névértéken, devizanemenként részletezve megadni. (Névérték alatt az eredeti - a
+hitelszerződésben szereplő – konzorciumi részesedés összegét kell érteni.)
+Mindkét táblában a hitel azonosító adatát, így a végső lejáratot (év, hónap, nap) és a kamatozást fel kell tüntetni. A
+kamatozás jelölése két rovat alkalmazásával történik. Az elsőben a kamatozás típusát (pl. fix, LIBOR-hoz kötött), a
+másodikban az ehhez viszonyított kamatfelárat (fix kamat esetén magát a kamatot) kell megadni.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+1. Igénybevevő kódja
+A hitelt igénybevevő rezidensek egységes statisztikai számjelének (KSH törzsszám) első 8 jegye. (A vállalkozó kódját a
+hitelszerződés alapján kell megadni.)
+2. A hitellel kapcsolatos lehetséges tranzakciók
+A 01-es táblában jelentendő hitelek állománya változhat:
+– új konzorciális hitel nyújtásával,
+– a konzorciumban résztvevő rezidens vagy nem-rezidens hitelintézet követelésének megvásárlásával,
+– a konzorciális hitellel kapcsolatos követelés eladásával,
+– a konzorciális hitelnek az igénybevevő által történő törlesztésével.
+A táblában meg kell adni a jelentést adó hitelintézet konzorciális hitellel kapcsolatos követelés állományában
+bekövetkezett tárgyhavi változást növekedés / csökkenés (ezen belül nyújtás-vásárlás, illetve törlesztés-eladás)
+részletezésben, valamint a követelés tárgyhavi záró állományát. A vásárláshoz és eladáshoz kapcsolódóan fel kell tüntetni
+azt a hitelintézetet, amelytől a vásárlás, illetve amelynek az eladás történt. (Rezidens hitelintézet esetén a hitelintézet 8-
+jegyű kódját, nem-rezidens esetén a "00000001" kódot kell megadni.)
+A 02-es táblában jelentendő - rezidensek által felvett - hitelek állománya változhat:
+– új konzorciális hitel nyújtásával (nem-rezidenstől származó rész),
+– rezidens követelésének nem-rezidens részére történő eladásával,
+– a konzorciumban résztvevő nem-rezidens követelésének rezidens általi megvásárlásával,
+– a konzorciális hitelnek az igénybevevő által (nem-rezidens részére) történő törlesztésével.
+
+A hitelnyújtás oszlopban a konzorciumban résztvevő nem-rezidens részesedését kell szerepeltetni. (Ebben az oszlopban
+csak a hitel folyósításakor jelenhet meg adat.)
+A táblában a hitel nem-rezidens által nyújtott részében bekövetkezett változás forgalmi adatait, valamint a nem-rezidensi
+rész záró állományát kell szerepeltetni.
+A konzorciumban résztvevő rezidensi részesedés nem-rezidensnek történő eladásakor a megfelelő forgalmi adat
+kitöltésével egyidejűleg az eladó rezidens egységes statisztikai számjelének első 8 jegyét (KSH törzsszám) is fel kell
+tüntetni (az eladó kódja rovatban).
+Az igénybevevő törlesztése oszlopban az esedékes törlesztőrészletnek a belföldi fizető ügynök által nem-rezidensek
+részére átutalt részét kell megjeleníteni.
+A konzorciumban lévő nem-rezidensi részesedés rezidens általi megvásárlása esetén a megfelelő forgalmi adat
+kitöltésével egyidejűleg a vásárló rezidens egységes statisztikai számjelének első 8 jegyét (KSH törzsszám) is fel kell
+tüntetni (a vásárló kódja rovatban).
+A 01-es táblától eltérően e táblában a rezidensi részesedés másik rezidens részére történő eladása / vétele nem
+szerepelhet.
+3. Összefüggések a fizetési mérleg jogcímekkel
+A 01-es táblában szereplő hitelnyújtás összegét az M02-es jelentésben az 88. jogcímcsoport jogcímein bevétel
+stornóként, a hitel igénybevevőjének törlesztéséből származó bevételt kiadás stornóként kell elszámolni.
+Nem-rezidenstől történt követelés vásárlás elszámolása kiadásként, eladás elszámolása bevételként történik.
+A névérték és a tényleges beszerzési / eladási érték közötti különbözet kamatrészét a 90. jogcímcsoport fizetési mérleg
+jogcímeinek kiadás oldalán, az árfolyam tartalmú különbséget pedig a 89. jogcímcsoport jogcímein kell jelenteni.
+Rezidensektől történt vásárlás esetén az elszámolás egy összegben, banki jogcímeken történik.
+A 02-es táblában szereplő, nem-rezidens hitelnyújtótól érkező összeget a 698. jogcímen bevételként, a törlesztés nem-
+rezidensnek történő átutalását a 698. jogcímen kiadásként kell az M02 Fizetési forgalom jelentésben elszámolni. A szervező
+és a konzorcium rezidens tagjai, valamint a szervező és a hitel igénybevevője közötti átutalások banki jogcímen jelennek
+meg.
+A fizető ügynök bank fizetési forgalmi jelentése nem tartalmazza a hitelnyújtásból eredő követelések rezidens és nem-
+rezidens közti adásvételének forgalmát. Ez utóbbi esemény a követelést nem-rezidenstől megvásárló, illetve annak eladó
+rezidens hitelintézet M02-es jelentésében szerepel. A névérték 698-as, a névérték és a tényleges beszerzési (eladási) érték
+közötti különbözet kamatrésze a 90. jogcímcsoport jogcímein kiadás oldalra, az árfolyam tartalmú különbség pedig a 699.
+jogcímre kerül.
+A kamatfizetés elszámolása a hitelrész elszámolásához hasonlóan történik. A szervező és a konzorcium rezidens tagjai,
+valamint a szervező és a hitel igénybevevője közötti átutalások banki jogcímen jelennek meg. A nem-rezidens tag részére
+történő kamat utalása 90. jogcímcsoport jogcímein történik.
+4. Összefüggések a forgalom és az állományváltozás között
+Az M08-as jelentésen belül a 698 számlatípus és a 88-as számlatípus-csoport tárgyhó végi záró állománya és előző havi
+záró állománya közötti különbségnek devizanemenként és hitelenként meg kell egyeznie a tárgyhavi
+állománynövekedésből, csökkenésből és az egyéb állományváltozásból származó nettó forgalommal.
+Ha a forgalom és az állomány nyilvántartási devizaneme eltér egymástól, akkor a forgalmi adatokat is az állomány
+devizanemében kell megadni. Ezekben az esetekben a megfogalmazott összefüggések forintra átszámolva teljesülnek, az
+M02-es jelentésben azonban a forgalom tényleges devizanemét kell megadni.
+A rezidens hitelintézetek belföldi fizető ügynökön keresztül nyújtott konzorciális hitele nem-rezidenstől származó
+részének állományváltozása (698-as számlatípus) nemzetgazdasági szinten megegyezik a megfelelő 698-as jogcím forgalom
+egyenlegével.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+01. Rezidensek által külföldön kibocsátott, visszavásárolt kötvények hó végi állománya és havi forgalma
+Adatok: devizában
+A kötvény azonosító adata Növekedés Csökkenés
+Kamatozás Kötvényvásárlás Kötvényértékesítés
+Végső lejárat Kódja Kamatfelár
+Kibocsátó
+kódja
+Devizanem-
+kód
+Számla-
+típus Eladó bank
+kódja
+Névértéke Vásárló bank
+kódja
+Névértéke
+Törlesztés Záró
+állomány
+Sor-
+szám
+a b c d e f g h i j k l
+
+…
+n
+
+MNB adatgyűjtés azonosító: M09
+Kitöltési útmutató
+Rezidensek által külföldön kibocsátott, visszavásárolt kötvények hó végi állománya és havi forgalma
+I. Általános tudnivalók
+1. A jelentésben megfigyelendő adatok
+A jelentés az MNB, MÁK és a hitelintézetek külföldön kibocsátott kötvényének megvételével, illetve újra-
+értékesítésével kapcsolatos adatokat tartalmazza (85B, 85C, 85G).
+Az adatokat devizanemenkénti részletezésben kell összeállítani. A jelentésben a kötvény azonosító adatát, így a végső
+lejáratot (év, hónap, nap) és a kamatozást fel kell tüntetni. A kamatozás jelölése két rovat alkalmazásával történik. Az
+elsőben a kamatozás típusát (pl. fix, LIBOR-hoz kötött), a másodikban az ehhez viszonyított kamatfelárat (fix kamat esetén
+magát a kamatot) kell megadni.
+Példák:
+Tényleges kamat Kamatozás típusa Kamat felár
+Évi 8% fix kamat 1 8.000
+LIBOR + 1,25% 2 1.250
+LUXIBOR-0.5% 6 -0.500
+II. A tábla kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+1. Kibocsátó kódja
+A kötvényt kibocsátó rezidens egységes statisztikai számjelének első 8 jegye (KSH törzsszám).
+2. A kötvénnyel kapcsolatos lehetséges tranzakciók
+A jelentésben megfigyelt kötvények állományában növekedés kötvényvásárlás (akár kibocsátáskor, akár később a
+másodlagos piacon), csökkenés pedig kötvény eladás és törlesztés miatt lehetséges. Vásárlás és eladás esetén fel kell
+tüntetni annak a rezidensnek a (8-jegyű) kódját, amellyel az üzletkötés történt (nem-rezidens esetében a kód „00000001”),
+valamint a vásárolt / eladott kötvény névértékét. (A kibocsátáskor történő vásárlást nem-rezidenstől történő vásárlásként kell
+jelenteni.) A törlesztés rovatban az esedékességkor a jelentő hitelintézet részére átutalt ellenértéket kell – névérté- ken –
+szerepeltetni. (Saját kötvény visszavásárlása esetén ez az esedékességkor átutalt ellenértéknek a visszavásárolt kötvényekre
+eső része.) A kötvények állományának tárgyhó végi állapot szerinti összegét névértéken kell jelenteni.
+3. Összefüggések a fizetési mérleg jogcímekkel
+Nem-rezidenstől történt vásárlás esetén az összes vásárlás névértékét a fizetési forgalmi jelentésben – a kötvény
+kibocsátójától függően – a 85. jogcímcsoport megfelelő jogcímén kiadásként kell közölni.
+Nem-rezidensnek történt értékesítés esetén az összes értékesítés névértékének a fizetési forgalmi jelentésben a 85.
+jogcímcsoport megfelelő jogcímén közölt bevétel adattal kell megegyeznie.
+A névérték és a tényleges beszerzési / eladási érték közötti különbözet kamatrésze a 36. jogcímcsoport – kötvény
+kibocsátója szektorának megfelelő – jogcímein kiadásként / kiadás stornóként, az árfolyam tartalmú különbség pedig a 86.
+jogcímcsoport jogcímein szerepel.
+A kötvény törlesztését a kötvényt birtokló hitelintézet fizetési forgalmi jelentésében kiadás stornóként kell elszámolni.
+Rezidens hitelintézettől történt vásárlás esetén az elszámolás banki jogcímeken történik.
+
+A kötvényállományban bekövetkező mozgások nemcsak a 85., hanem a 86. számlatípus-csoport típusainak egyenlegét is
+változtatják.
+4. Összefüggés a forgalom és az állományváltozás között
+A 85. számlatípus-csoport típusainak tárgyhó végi záró állománya és előző havi záró állománya közötti különbségnek
+devizanemenként, kötvényenként meg kell egyeznie a vásárlásból, értékesítésből, törlesztésből és az egyéb
+állományváltozásból származó nettó forgalommal.
+Ha a forgalom és az állomány nyilvántartási devizaneme eltér egymástól, akkor a forgalmi adatokat az M09-es
+jelentésben az állomány devizanemében, az M02-es jelentésben azonban a forgalom tényleges devizanemében kell
+megadni. Ezekben az esetekben a megfogalmazott összefüggések forintra átszámolva teljesülnek.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: M13
+A 923-as jogcímen jelentett adatok tartalmi magyarázata
+01. Bevétel
+Adatok: egész devizában / valutában
+Devizanem Összeg A tranzakció rövid leírása
+Sorszám
+a b c
+
+…
+n
+02. Kiadás
+Adatok: egész devizában / valutában
+Devizanem Összeg A tranzakció rövid leírása
+Sorszám
+a b c
+
+…
+n
+
+MNB adatgyűjtés azonosító: M13
+Kitöltési útmutató
+A 923-as jogcímen jelentett adatok tartalmi magyarázata
+I. Általános tudnivalók
+Az M13-as jelentés a folyó fizetési forgalomban (M02-es jelentés) 923. Bizonytalan tételek jogcímen jelentett
+tranzakció szöveges magyarázatára szolgál. Az M13-as jelentés szolgál a 3. sz. melléklet 4.1.1. pontjában (Teljes
+jogcímlista) nem nevesített – ezért tipikusnak, és a rendes banküzem szerinti működés részének nem tekinthető – üzleti
+események jelentésére.
+Különösen ilyennek tekinthetők a bank által tévedésből végrehajtott utalások, a nostróbank téves, többszörös, vagy
+jogcím nélküli terhelései, illetve a fenti események későbbi időszakokban bekövetkező korrekciója. 923. jogcím és M13
+jelentés használatos abban az esetben is, ha a megbízó / kedvezményezett ismert ugyan, de az érdemi jogcím átmenetileg –
+a szükséges információk hiányában – nem állapítható meg.
+Amennyiben a jogcím végleges meghatározása a tárgyhónap lezárásáig nem adható meg, akkor a visszamenőleges
+javításokat csak az 50,000 EUR-t meghaladó tételek esetén kell elvégezni.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: M16
+Jelentés a pénzváltók valutaállományáról és -forgalmáról
+01.tábla: Nyitókészlet és valutabevételek - valutakiadások és zárókészlet
+Pénzváltás miatti valutabevétel Pénzváltás miatti valutakiadás
+Valutanem
+(ISO Kód)
+Nyitókészlet Valutavásárlás
+külföldi
+természetes
+személytől
+Valutavásárlás
+belföldi
+természetes
+személytől
+Valutabevétel
+valuta konverzió
+miatt
+Valutabevétel
+hitelintézettől
+Egyéb valuta-
+bevétel
+Valutaeladás
+külföldi
+természetes
+személynek
+Valutaeladás
+belföldi
+természetes
+személynek
+Valutakiadás
+valuta konverzió
+miatt
+Valutakiadás
+hitelintézetnek
+Egyéb valuta
+kiadás
+Záróállomány
+Sor-
+szám
+a b c d e f g h i j k l m
+01 USD
+02 CHF
+03 CAD
+.... .…
+.... ....
+.... ....
+.... ....
+.... ....
+.... ....
+.... ....
+.... ....
+.... ....
+nn …
+
+MNB adatgyűjtés azonosító: M16
+Jelentés a pénzváltók valutaállományáról és -forgalmáról
+Hitelintézet neve: ........................................................
+02. tábla: Hitelintézetekkel kapcsolatos forgalom részlezetése
+Hitelintézettől megvásárolt valuta Hitelintézetnek beszállított valuta
+Valuta-
+nem
+Sor-
+szám
+a b c
+01 USD
+02 CHF
+03 CAD
+04 GBP
+05 EUR
+.. ..
+.. ..
+.. ..
+.. ..
+.. ..
+.. ..
+.. ..
+nn ...
+
+MNB adatgyűjtés azonosító: M16
+Jelentés a pénzváltók valutaállományáról és -forgalmáról
+03. tábla: A 01. tábla „g” oszlopában jelentett adatok tartalmi magyarázata
+Valuta-
+nem
+Összeg A tranzakció rövid leírása
+Sor-
+szám
+a b c
+01 USD
+02 CHF
+03 CAD
+04 GBP
+05 EUR
+..
+..
+..
+..
+..
+..
+nn
+04. tábla: A 01. tábla "l" oszlopában jelentett adatok tartalmi magyarázata
+Valuta-
+nem
+Összeg A tranzakció rövid leírása
+Sor-
+szám
+a b c
+01 USD
+02 CHF
+03 CAD
+04 GBP
+05 EUR
+..
+..
+..
+..
+..
+..
+nn
+
+MNB adatgyűjtés azonosító: M16
+KITÖLTÉSI ÚTMUTATÓ
+Jelentés a pénzváltók valutaállományáról és -forgalmáról
+I. Általános tudnivalók
+A jelentésben az adatszolgáltató által jegyzett összes külföldi valuta nyitó- és zárókészletét, bevételi és kiadási
+forgalmát, valamint egyéb tájékoztató adatokat kell közölni valutanemenként, egész valutaértékben.
+Az adatszolgáltatással együtt e rendelet 2. sz. melléklet D pontjában szereplő kitöltött táblát is be kell nyújtani.
+Ha az adatszolgáltató több irodával rendelkezik, akkor is csak egy jelentést kell beküldenie, és a jelentésnek az
+adatszolgáltató irodáinak összesített adatát kell tartalmaznia.
+A jelentéseket akkor is be kell küldeni, ha tényleges forgalom vagy állományváltozás a tárgyidőszakban nem
+következett be (nemleges jelentés).
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: postai úton
+A beküldés formája: papír
+Az adatszolgáltatás címzettje: MNB Statisztikai főosztály Adatbefogadó- és előkészítő osztály
+
+MNB adatgyűjtés azonosító: P01
+Bankjegy- és érmeállomány jelentés
+Darab
+Sor-
+szám
+Megnevezés:
+Bankjegy / Érme-Címlet-Változat
+a
+01 B-20000
+02 B-10000
+03 B-5000-U
+04 B-5000
+05 B-2000
+06 B-1000-U
+07 B-1000
+08 B-500-U
+09 B-500
+10 B-200
+11 E-100
+12 E-50
+13 E-20
+14 E-10
+15 E-5
+16 E-2
+17 E-1
+
+MNB adatgyűjtés azonosító: P01
+Kitöltési útmutató
+Bankjegy- és érmeállomány jelentés
+I. Általános tudnivalók
+A „B” és „E” jelzés bankjegyet, illetve érmét jelent, az „U” jelzés pedig az új bankjegyeket jelöli. A B-5000-U
+megnevezésű sorban az 1999. után kibocsátott 5000 forintos bankjegyeket, a B-5000 megnevezésű sorban pedig az 1999.
+előtt kibocsátott 5000 forintos bankjegyeket kell jelenteni.
+II. A tábla kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+a.) Az adatokat teljes darabszámban kell megadni.
+b.) Bankjegyek és érmék csomagolási egységei
+1.) Bankjegyek:
+1 köteg bankjegy 1000 darab
+1 csomag bankjegy 100 darab
+1 köteg bankjegy 10 csomag
+2.) Érmék:
+1 tétel érme 1 érmezsák érme
+1 burkolózsákban 10 darab érmezsák van
+darab
+Érme
+Comagolási
+egység 100 50 20 10 5 2 1
+1 tétel 200 200 250 250 500 500 1000
+1 burkolózsák 2000 2000 2500 2500 5000 5000 10000
+1doboz 200 500 500 500 500 500 1000
+1 papírzacskó 20 20 25 25 50 50 100
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fálj
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: P04
+A bankszámlák száma
+Forint pénzforgalmi
+bankszámlák
+darabszáma
+Forint lakossági
+bankszámlák
+darabszáma
+Deviza
+bankszámlák
+darabszáma
+Sor-
+kód
+Bankszámla
+tulajdonosok
+a b c
+
+Gazdálkodó szervezetek és az
+egyéb szervezetek
+02 Természetes személyek
+
+MNB adatgyűjtés azonosító: P04
+Kitöltési útmutató
+A bankszámlák száma
+I. A tábla kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+Lehetőség szerint csak az élő, tehát az elmúlt időszakban aktív számlákat tüntessék fel. A nulla és a negatív egyenlegű
+számlák darabszáma beleértendő a tábla egyes soraiban lévő darabszámokba.
+1. sor: Gazdálkodó szervezetek és az egyéb szervezetek
+Ebben a sorban az adatszolgáltató által a Polgári törvénykönyvről szóló 1959. évi IV. törvény (Ptk.) 685. § c) pontja
+szerinti gazdálkodó szervezetnek (kivéve az egyéni vállalkozót) és az egyéb szervezetnek (gazdálkodó szervezetnek nem
+minősülő szervezetnek, pl. pjt., politikai párt, egyház, szakszervezet, társasház, vízközmű társulat) vezetett bankszámlák
+darabszámát kell jelenteni, külön a pénzforgalmi, külön a lakossági és külön a devizaszámlák darabszámát. A gazdálkodó
+szerveze-tek közé értendőek a külföldi gazdasági társaságok és szervezetek is.
+2. sor: Természetes személyek
+Ebben a sorban a lakosság magáncélú bankszámlanyitásával kapcsolatos adatokat kell jelenteni, külön a pénzforgalmi,
+külön a lakossági és külön a devizaszámlák darabszámát. A természetes személyek közé sorolandók az általános forgalmi
+adó fizetésére kötelezett természetes személyek és az egyéni vállalkozók (gazdasági tevékenységükkel összefüggésben) is.
+Az „a” oszlopban pénzforgalmi bankszámlán a pénzforgalomról, a pénzforgalmi szolgáltatásokról és az elektronikus
+fizetési eszközökről szóló, ez idő szerint a 232/2001. (XII. 10.) Korm. rendelet 2. § (1) bekezdés b) pontja szerint
+értelmezett bankszámlát kell érteni.
+A „b” oszlopban a lakossági bankszámlák között kell feltüntetni minden, a pénzforgalmi bankszámla kategóriába nem
+tartozó, a természetes személyek és pénzforgalmi számlavezetésre nem kötelezett egyéb szervezetek szabad elhatározásából
+nyitott bankszámlát, mely KÖZVETLENÜL részt vehet az országos elszámolásforgalomban, és róla a számlatulajdonos
+harmadik személy részére történő átutalásra adhat megbízást.
+Fel kell tüntetni azokat a kártyaszámlákat is, melyek a bankszámlától elkülönítetten működnek, ha azok nem késleltetett
+fizetésű („credit” vagy „charge”) kártya számlák.
+Nem kell feltüntetni azokat az alszámlákat, amelyek valamely főszámlához csatlakoznak. Ebben az esetben kizárólag a
+főszámlákat kell beleszámítani a táblában megadott számokba.
+A kizárólag betétgyűjtésre szolgáló számlák darabszámát a táblában nem kell feltüntetni.
+A „c” oszlopban a devizában vezetett bankszámlák számát kell feltüntetni.
+Alszámlákat nem kell feltüntetni, csak azon látra szóló számlákat, melyekre vonatkozóan a bank pénzforgalmi
+megbízásokat elfogad.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: P05
+Forint és deviza fizetések jóváírási és terhelési forgalma
+01. tábla: Forint fizetések jóváírási forgalma
+Fizetési forgalomból: Fizetési forgalomból:
+hitelintézeten kívülről indított hitelintézeten belülről indított
+(db) (millió forint) (db) (millió forint)
+Sor-
+szám
+Megnevezés
+a b c d
+01 Készpénzforgalom
+02 Elszámolási forgalom (03+...+10)
+03 - egyszerű átutalás
+04 - csoportos átutalás
+05 - azonnali beszedési megbízás
+06 - csoportos beszedési megbízás
+07 - váltóbeszedési megbízás
+08 - határidős beszedési megbízás
+09 - okmányos.meghitelezés (akkreditív)
+10 - elszámolási csekk
+
+MNB adatgyűjtés azonosító: P05
+Forint és deviza fizetések jóváírási és terhelési forgalma
+02. tábla: Forint fizetések terhelési forgalma
+Fizetési forgalomból Fizetési forgalomból elektronikus benyújtás
+papíralapú adathordozón telefonon ügyfélterminálon interneten mobiltelefonon
+(db) (MFt) (db) (MFt) (db) (MFt) (db) (MFt) (db) (MFt) (db) (MFt)
+Sor-
+szám
+Megnevezés
+a b c d e f g h í j k l
+01 Készpénzforgalom
+02 Elszámolási forgalom (03+...+10)
+03 - egyszerű átutalás
+04 - csoportos átutalás
+05 - azonnali beszedési megbízás
+06 - csoportos beszedési megbízás
+07 - váltóbeszedési megbízás
+08 - határidős beszedési megbízás
+09 - okmányos meghitelezés (akkreditív)
+10 - elszámolási csekk
+
+MNB adatgyűjtés azonosító: P05
+Forint és deviza fizetések jóváírási és terhelési forgalma
+03. tábla: Deviza fizetések jóváírási forgalma
+Fizetési forgalomból:
+hitelintézeten kívülről indított
+Fizetési forgalomból:
+hitelintézeten belülről indított
+(db) (millió forint) (db) (millió forint)
+Sor-
+szám
+Megnevezés
+a b c d
+01 Készpénzforgalom
+02 Elszámolási forgalom (03+...+07)
+03 - átutalás
+04 - váltó
+05 - okmányos beszedési megbízás
+06 - okmányos meghitelezés (akkreditív)
+07 - csekk
+
+MNB adatgyűjtés azonosító: P05
+Forint és deviza fizetések jóváírási és terhelési forgalma
+04. tábla: Deviza fizetések terhelési forgalma
+Fizetési forgalomból elektronikus benyújtás
+Fizetési forgalomból
+papíralapú adathordozón telefonon ügyfélterminálon interneten mobiltelefonon
+(db) (MFt) (db) (MFt) (db) (MFt) (db) (MFt) (db) (MFt) (db) (MFt)
+Sor-
+szám
+Megnevezés
+a b c d e f g h i j k l
+01 Készpénzforgalom
+02 Elszámolási forgalom (03+...+07)
+03 - átutalás
+04 - váltó
+05 - okmányos beszedési megbízás
+06 - okmányos meghitelezés (akkreditív)
+07 - csekk
+
+MNB adatgyűjtés azonosító: P05
+Kitöltési útmutató
+Forint és deviza fizetések jóváírási és terhelési forgalma
+I. Általános tudnivalók
+Jelen adatszolgáltatás a hitelintézetek ügyfeleinek forint-, illetve devizaszámlákon lebonyolított jóváírási és terhelési
+forgalmát tartalmazza, kivéve a kizárólag postai úton, illetve a bankkártyák használatával lebonyolított forgalmat,
+valamint az utazási csekkek forgalmát. Levelező banki szolgáltatást nyújtóknak az adatokat a levelezettek adataival
+együtt kell megadniuk.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: Forint fizetések jóváírási forgalma
+A táblában valamennyi, az adatszolgáltatónál forintban vezetett pénzforgalmi és lakossági bankszámla javára
+beérkező jóváírásnak szerepelnie kell, függetlenül attól, hogy az forint vagy deviza fizetésként érkezett az
+adatszolgáltatóhoz, lakossági vagy gazdálkodó szervezetek, illetve belföldi vagy külföldi számlatulajdonosok számláira.
+A táblában külön oszlopban kell szerepeltetni a külső köri és a belső köri elszámolással teljesített fizetéseket.
+01. sor: Készpénzforgalom
+E sorba tartoznak az adatszolgáltatónál forintban vezetett bankszámla javára az adatszolgáltató pénztáránál, illetve
+ATM berendezéseken, vagy pénzbedobón keresztül történő befizetések, valamint a pénzszállítók által begyűjtött
+készpénz.
+Itt kell figyelembe venni a Magyar Posta Rt. és a bankok közötti megállapodás alapján készpénzátutalási
+megbízással az adatszolgáltató pénztáraiban teljesített befizetéseket is.
+02. sor: Elszámolási forgalom
+Az adat a 03-10. sorban szereplő összegek összeadásából származik és beletartozik minden, az adatszolgáltatónál
+vezetett forintszámlára bankon belüli elszámolással, illetve más bankból beérkező, forint ügyfélszámlán jóváírt tétel.
+A bankon belüli forgalom nem tartalmazza az ügyfél saját számlái közötti bankon belüli átvezetéseket, illetve a bank
+és az ügyfél egymás közötti elszámolásaiból adódó jóváírásokat (hitel, betét, kamat, stb.).
+03. sor: Egyszerű átutalás
+E rovatba tartoznak a bankátutalással belföldről és külföldről forintszámlára érkező átutalások, beleértve azoknak a
+deviza-átutalásoknak a forintellenértékét is, melyeket e számlákon írnak jóvá.
+04. sor: Csoportos átutalás
+A pénz- és elszámolásforgalom, valamint a pénzfeldolgozás szabályairól szóló 9/2001. (MK. 147.) MNB
+rendelkezés 16. §-ának megfelelően e jogcímen lebonyolított fizetéseket tartalmazza. Nemcsak a szabványos formában,
+hanem a kétoldalú megállapodás alapján kötegelve benyújtott és a banki belső számlaforgalomban teljesített átutalások
+is ide értendőek.
+05. sor: Azonnali beszedési megbízás
+E rovatban kell feltüntetni az adatszolgáltató számlatulajdonosai által - azok jogszabályon vagy megállapodáson
+alapuló jogosítványai alapján - kezdeményezett azonnali inkasszók útján beérkező tételeket.
+
+06. sor: Csoportos beszedési megbízás
+A pénz- és elszámolásforgalom, valamint a pénzfeldolgozás szabályairól szóló 9/2001. (MK. 147.) MNB
+rendelkezés 17. §-ának megfelelően e jogcímen lebonyolított fizetéseket tartalmazza. A csoportos beszedések
+darabszámaként nem a csoportos beszedési kötegek számát, hanem a kötegekben lévő, sikerrel teljesített, csoportos
+beszedések darabszámát kell jelenteni. Nemcsak a szabványos formában, hanem a kétoldalú megállapodás alapján
+kötegelve benyújtott és a banki belső számlaforgalomban teljesített beszedések is ide értendőek.
+07. sor: Váltóbeszedési megbízás
+Az adatszolgáltatónál számlát vezető ügyfelek váltóbeszedésből származó jóváírásainak forintértékét, illetve a
+külföldi pénznemben beérkezők deviza-ellenértékének konverziójából származó forint összegeket kell feltüntetni.
+08. sor: Határidős beszedési megbízás
+E rovatban a még ezzel a fizetési móddal érvényesíthető forintkövetelések, valamint a devizában kiállított okmányos
+inkasszó útján kiegyenlített és forintban jóváírt ellenértéket adják meg.
+09. sor: Okmányos meghitelezés (akkreditív)
+A rovatban e fizetési móddal beérkező forint illetve devizában kifizetésre kerülő követelések forintellenértékét kell
+szerepeltetni.
+10. sor: Elszámolási csekk
+Elszámolási csekk alatt a csekkjogi szabályok szövegének közzétételéről szóló 2/1965. (I. 24.) IM rendelet 39. §-
+ában meghatározott elszámolási csekket kell érteni. A rovat nem tartalmazhatja az utazási csekkek beváltásából
+származó összegeket, valamint az eurocsekkek beváltásából származó összegeket, ha azokat a Magyar Posta Rt-n
+keresztül számolták el. Tartalmaznia kell ugyanakkor a money orderek és egyéb pénzutalványok beváltásából származó
+összegeket.
+Az „a”, „b” illetve „c”, „d” oszlopokban
+a fizetési forgalom jóváírási adatait aszerint kell megbontani, hogy a fizetést teljesítő fél az adatszolgáltató egy
+másik számlatulajdonosa-e, vagy sem.
+(A besatírozott részeken adatot feltüntetni nem kell, illetve nem lehet.)
+02. tábla: Forint fizetések terhelési forgalma
+A táblában valamennyi, az adatszolgáltatónál forintban vezetett pénzforgalmi és lakossági bankszámla terhére
+történő kifizetésnek szerepelnie kell, függetlenül attól, hogy azt forint vagy deviza fizetésként teljesítik, lakossági vagy
+gazdálkodó szervezetek, illetve belföldi vagy külföldi számlatulajdonosok számláiról.
+A táblában elkülönítetten szerepel a hagyományos (papíron adott megbízás) és az elektronikus fizetési forgalom. Ez
+utóbbit a következő bontásban kell megadni: adathordozón (pl.: CD, floppy, streamer, mágnesszalag), telefonon,
+ügyfélterminálon, interneten, mobiltelefonon benyújtott megbízások.
+Az átutalásoknak az országon belüli és az országhatárokon átnyúló forint és deviza átutalási forgalmat egyaránt
+tartalmaznia kell.
+Az adatszolgáltatásban ne szerepeltessék a saját számlák közötti átvezetéseket és a bankkal kötött ügyletek (hitel,
+betét) belsőköri teljesítését sem.
+Az átutalások és csoportos megbízások megbontása:
+Ø papíralapú megbízás:
+az ügyfél által nyomtatványon adott megbízás;
+Ø telefoni megbízás:
+az úgynevezett „call center” által fogadott megbízásokat kell figyelembe venni, függetlenül attól,
+hogy vezetékes telefonról, vagy mobil készülékről kezdeményezték a hívást, valamint, hogy
+ügyintéző közreműködésével, vagy billentyűzeten (Dual-Tone Multi-Frequency=DTMF) adták a
+megbízást;
+Ø ügyfélterminálon érkezett megbízás:
+az ügyfél rendelkezésére álló (saját vagy az adatszolgáltató által kihelyezett) elektronikus
+terminálon és az adatszolgáltató által megadott feltételek szerint telepített programcsomag
+
+használatával összeállított és távközlési hálózaton keresztül, a számlavezető bankhoz eljuttatott
+megbízások számát és értékét kell megadni;
+Ø internetes megbízás:
+Internetes portál közbejöttével továbbított megbízások;
+Ømobiltelefoni megbízás:
+„Wap-on” fogadott megbízásokat kell itt feltüntetni;
+Ø adathordozón történő benyújtás:
+jellemzően a csoportos megbízásoknál fordul elő, hogy a megbízásokat valamilyen
+adathordozón; floppy, vagy cd lemezen juttatja el a megbízó az adatszolgáltatóhoz.
+01. sor: Készpénzforgalom
+E sorba tartoznak az adatszolgáltatónál forintban vezetett bankszámla terhére az adatszolgáltató pénztáránál történő
+kifizetések. Készpénz kifizetés az is, ha a pénz a pénzszállítók által kiszállításra került.
+02. sor: Elszámolási forgalom
+Az adat a 03-10. sorban szereplő összegek összeadásából származik és beletartozik minden, az adatszolgáltatónál
+vezetett forintszámláról átutalt bankon belüli elszámolással, illetve más bankhoz forint ügyfélszámláról átutalt tétel.
+Itt kell figyelembe venni a devizában belföldre, vagy külföldre ugyancsak forintszámla terhére küldött összegeket is.
+A bankon belüli forgalom nem tartalmazza az ügyfél saját számlái közötti bankon belüli átvezetéseket, illetve a bank
+és az ügyfél egymás közötti elszámolásaiból eredő terheléseket (hiteltörlesztés, kamatfizetés, betét, jutalék, díj, költség
+stb.).
+03. sor: Egyszerű átutalás
+E rovatba tartoznak a bankátutalással bankon belül, valamint más hitelintézethez belföldre és külföldre
+forintszámláról teljesített átutalások, beleértve azoknak a devizaátutalásoknak a forintellenértékét is, melyeket e
+számlák terhére teljesítenek.
+04. sor: Csoportos átutalás
+A pénz- és elszámolásforgalom, valamint a pénzfeldolgozás szabályairól szóló 9/2001. (MK. 147.) MNB
+rendelkezés 16. §-ának megfelelően e jogcímen lebonyolított fizetéseket tartalmazza. Nemcsak a szabványos formában,
+hanem a kétoldalú megállapodás alapján kötegelve benyújtott és a banki belső számlaforgalomban teljesített átutalások
+is ide értendők. Itt nem a kötegek, hanem a kötegekben lévő megbízások darabszámát kell feltüntetni. Amennyiben az
+adatszolgáltató számlatulajdonosa a GIRO Elszámolásforgalmi Rt-vel a közvetlen benyújtásban állapodott meg, a „db
+rovatban” a GIRO Rt-hez benyújtott kötegben szereplő tételek db számát kell feltüntetni.
+05. sor: Azonnali beszedési megbízás
+E rovatban kell feltüntetni az adatszolgáltató számlatulajdonosai terhére kifizetett azonnali inkasszók összegét.
+06. sor: Csoportos beszedési megbízás
+A pénz- és elszámolásforgalom, valamint a pénzfeldolgozás szabályairól szóló 9/2001. (MK. 147.) MNB
+rendelkezés 17. §-ának megfelelően e jogcímen lebonyolított fizetéseket tartalmazza. Nemcsak a szabványos formában,
+hanem a kétoldalú megállapodás alapján kötegelve benyújtott és a banki belső számlaforgalomban teljesített beszedések
+is ide értendőek. A ténylegesen teljesített csoportos beszedések darabszámát kell jelenteni.
+07. sor: Váltóbeszedési megbízás
+Ide tartoznak az adatszolgáltatónál számlát vezető ügyfelek által forintban kiállított/elfogadott váltók útján
+teljesítendő kifizetések és a külföldi pénznemben fizetendők devizaértékének konverziójából származó forint összegei.
+08. sor: Határidős beszedési megbízás
+E rovatban a devizában kiállított okmányos inkasszó útján kiegyenlített fizetések forintban terhelendő ellenértéket
+kell megadni. Forintban kiállított határidős beszedési megbízással kapcsolatos terhelést csak a MÁK teljesít.
+
+09. sor: Okmányos meghitelezés
+A rovatban e fizetési móddal teljesítendő forint ill. devizában kifizetésre kerülő tartozások forintellenértékét kell
+szerepeltetni.
+10. sor: Elszámolási csekk
+Elszámolási csekk alatt a csekkjogi szabályok szövegének közzétételéről szóló 2/1965. (I. 24.) IM rendelet 39. §-
+ában meghatározott elszámolási csekket kell érteni. Itt az ügyfelek által kiállított forint és deviza csekkek beváltása
+miatti terheléseket kell feltüntetni. Nem tartalmazhatja az utazási csekkek eladásának forgalmát.
+Az „a”, „b” oszlopokban
+az adatszolgáltatóhoz banki adatrögzítést igénylő formában (formanyomtatványon, levélben, automatikus
+módszerrel nem rögzített faxon, telefonon, szóban) érkező megbízásokat kell figyelembe venni.
+Ezekben az oszlopokban fel kell tüntetni azokat a rendszeresen ismétlődő (állandó) megbízásokat, amelyeket
+teljesítésük alkalmával manuálisan kell rögzíteni.
+A „c”-től „l”-ig terjedő oszlopokban
+az adatszolgáltatóhoz elektronikus úton (pl.: home-banking, tele-banking, internet, mobiltelefon, különféle
+adathordozó segítségével) érkező megbízásokat kell figyelembe venni. A besatírozott részekre adatokat nem lehet írni.
+Értelemszerűen egyes fizetési módoknál nem papíralapúnak minősülnek a bankközi klíring rendszeren keresztül az
+adatszolgáltatóhoz érkező, az ügyfelek forint bankszámláinak terhelését eredményező beszedési tranzakciók is,
+ugyanakkor papíralapúak az okmányokkal alátámasztott beszedések.
+Azokat a rendszeresen ismétlődő megbízásokat (ún. állandó megbízások), amelyeket az ügyfelek első alkalommal
+papíron adnak meg, később azonban automatikusan, elektronikus úton teljesülnek a nem papíralapú tranzakciók között
+kell feltüntetni.
+03. tábla: Deviza fizetések jóváírási forgalma
+A táblában valamennyi, az adatszolgáltatónál devizában vezetett bankszámla javára beérkező jóváírásnak
+szerepelnie kell, függetlenül attól, hogy az forint vagy deviza fizetésként érkezett az adatszolgáltatóhoz, lakossági vagy
+gazdálkodó szervezetek, illetve belföldi vagy külföldi számlatulajdonosok számláira.
+A táblában külön oszlopban kell szerepeltetni a külső köri és a belső köri elszámolással teljesített fizetéseket.
+01. sor: Készpénzforgalom
+E sorba tartoznak az adatszolgáltatónál devizában vezetett bankszámla javára az adatszolgáltató pénztáránál, illetve
+ATM berendezéseken, vagy pénzbedobón keresztül történő befizetések, valamint a pénzszállítók által begyűjtött
+készpénz.
+02. sor: Elszámolási forgalom
+Az adat a 03-07. sorban szereplő összegek összeadásából származik és beletartozik minden, az adatszolgáltatónál
+vezetett devizaszámlára bankon belüli elszámolással ill. más banktól beérkező, devizaszámlán jóváírt tétel.
+A bankon belüli forgalom nem tartalmazza az ügyfél saját számlái közötti bankon belüli átvezetéseket, illetve a bank
+és az ügyfél egymás közötti elszámolásaiból adódó jóváírásokat (hitel, betét, kamat, stb.).
+03. sor: Egyszerű átutalás
+E rovatba tartoznak az átutalással belföldről és külföldről devizaszámlára érkező átutalások, beleértve azoknak a
+forint átutalásoknak a deviza ellenértékét is, melyeket e számlákon írnak jóvá.
+04. sor: Váltó
+Az adatszolgáltatónál devizaszámlát vezető ügyfelek váltóinak beszedéséből származó, devizaszámlán jóváírt
+értékeket kell feltüntetni.
+
+05. sor: Okmányos beszedési megbízás
+E rovatban a devizában kiállított okmányos inkasszó útján kiegyenlített és devizaszámlán jóváírt értéket kell
+megadni.
+06. sor: Okmányos meghitelezés
+E rovatban e fizetési móddal devizaszámlára beérkező összegeket kell szerepeltetni.
+07. sor: Csekk
+Nem tartalmazhatja az eurocsekkek beváltásából származó összegeket, ha azokat a Magyar Posta Rt-n keresztül
+számolták el, valamint az utazási csekkek visszaváltását. Tartalmaznia kell ugyanakkor a money orderek és egyéb
+pénzutalványok beváltásából származó összegeket.
+Az „a”, „b” illetve „c”, „d” oszlopban
+a fizetési forgalom jóváírási adatait aszerint kell megbontani, hogy a fizetést teljesítő fél az adatszolgáltató egy
+másik számlatulajdonosa-e, vagy sem.
+A „b” illetve a „d” oszlopban az egyes devizaösszegeket az adatszolgáltatónak a jóváírás napján érvényes saját
+árfolyamán kell forintra átszámítania.
+(A besatírozott részeken adatot feltüntetni nem kell, illetve nem lehet.)
+04. tábla: Deviza fizetések terhelési forgalma
+A táblában valamennyi, az adatszolgáltatónál devizában vezetett számla terhére történő kifizetésnek szerepelnie kell,
+függetlenül attól, hogy azt forint vagy deviza fizetésként teljesítik, lakossági vagy gazdálkodó szervezetek, illetve
+belföldi vagy külföldi számlatulajdonosok számláiról.
+A táblában külön oszlopban kell szerepeltetni a hagyományos (papírmegbízáson alapuló) és az elektronikus fizetési
+forgalmat. Ez utóbbit a következő bontásban kell megadni; adathordozón (pl.: CD, floppy, streamer, mágnesszalag),
+telefonon, ügyfélterminálon, interneten, mobiltelefonon benyújtott megbízások.
+01. sor: Készpénzforgalom
+E sorba tartoznak az adatszolgáltatónál devizában vezetett számla terhére az adatszolgáltató pénztáránál történő
+kifizetések. Készpénzkifizetés az is, ha a pénzt a bank ügyfele telephelyére szállítja.
+02. sor: Elszámolási forgalom
+Az adat a 03-07. sorban szereplő összegek összeadásából származik és beletartozik minden, az adatszolgáltatónál
+vezetett devizaszámláról bankon belüli elszámolással ill. más bankhoz devizaszámláról átutalt tétel.
+A bankon belüli forgalom nem tartalmazza az ügyfél saját számlái közötti bankon belüli átvezetéseket, illetve a bank
+és az ügyfél egymás közötti elszámolásaiból adódó terheléseket.
+03. sor: Egyszerű átutalás
+E rovatba tartoznak a devizaszámláról átutalással belföldre és külföldre teljesített kifizetések, beleértve azokat az
+átutalásokat, amelyeket forintban továbbítanak.
+04. sor: Váltó
+Az adatszolgáltatónál devizaszámlát vezető ügyfelek megbízásából váltók útján teljesített kifizetések értékét kell
+feltüntetni.
+05. sor: Okmányos beszedési megbízás
+E rovatban a devizában kiállított okmányos inkasszó útján kiegyenlített és devizaszámláról kifizetett értéket kell
+megadni.
+06. sor: Okmányos meghitelezés
+A rovatban e fizetési móddal devizaszámláról fizetendő összegeket kell szerepeltetni.
+
+07. sor: Csekk
+Itt az ügyfelek által kiállított forint és deviza csekkek beváltása miatti terheléseket kell feltüntetni. Nem
+tartalmazhatja az utazási csekkek eladásából származó összegeket.
+Az „a”, „b” oszlopokban
+az adatszolgáltatóhoz banki adatrögzítést igénylő formában (formanyomtatványon, levélben, faxon, telefonon
+szóban) érkező megbízásokat kell figyelembe venni.
+A „c”-től „l”-ig terjedő oszlopokban
+az adatszolgáltatóhoz elektronikus úton (pl.: home-banking, tele-banking, internet, mobiltelefon, különféle
+adathordozó segítségével) érkező megbízásokat kell figyelembe venni.
+A „b”, „d”, „f”, „h”, „j”, illetve „l” oszlopban az egyes devizaösszegeket az adatszolgáltatónak a terhelés napján
+érvényes saját árfolyamán kell forintra átszámítania.
+(A besatírozott részeken adatot feltüntetni nem kell, illetve nem lehet.)
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: P07
+Bankkártya elfogadói üzletág
+01. tábla: Készpénzfelvételi lehetőségek száma
+Darabszám
+Sor-
+szám Meghatározás
+a
+01 Saját bankfiókok száma
+02 A kártyát elfogadó bankfiókok száma
+03 A bankfiókokban üzemelő POS berendezések száma
+04 A bank által üzemeltetett ATM-ek száma
+02. tábla: A jelentést tevő intézmény által üzemeltetett ATM-ek és kártyát elfogadó, saját bankfiókok területi megoszlása
+Magyarországon
+darabszám
+Megye ebből: megyeszékhely
+ATM-ek Bankfiókok ATM-ek Bankfiókok
+száma
+Sor-
+szám
+Megye, megyeszékhely
+a b c d
+01 Budapest
+02 Baranya megye, Pécs
+03 Bács-Kiskun megye, Kecskemét
+04 Békés megye, Békéscsaba
+05 BAZ megye, Miskolc
+06 Csongrád megye, Szeged
+07 Fejér megye, Székesfehérvár
+08 Győr-Moson-Sopron megye, Győr
+09 Hajdú-Bihar megye, Debrecen
+10 Heves megye, Eger
+11 Jász-Nagykun-Szolnok megye, Szolnok
+12 Komárom megye, Tatabánya
+13 Nógrád megye, Salgótarján
+14 Pest megye (Budapest nélkül!)
+15 Somogy megye, Kaposvár
+16 Szabolcs-Sz.-B. megye, Nyíregyháza
+17 Tolna megye, Szekszárd
+18 Vas megye, Szombathely
+19 Veszprém megye, Veszprém
+20 Zala megye, Zalaegerszeg
+21 Összesen
+
+MNB adatgyűjtés azonosító: P07
+Bankkártya elfogadói üzletág
+03. tábla: A jelentést tevő bankkal szerződött, nemzetközi logos kártyákat elfogadó kereskedői helyek száma
+darabszám
+Elfogadóhelyeken üzemelő imprinterek
+Virtuális kereskedői
+elfogadóhelyek száma Kizárólag imprinteren
+alapuló elfogadás
+Back-up megoldásként
+POS mellett
+Elfogadóhelyeken
+üzemelő POS-ok
+összesen
+Fizikai kereskedői
+elfogadóhelyek
+száma
+telefon/postai
+elfogadás
+internetes
+elfogadás
+"0" floor
+limittel
+működők
+"0<" floor
+limittel
+működők
+"0" floor
+limittel
+működők
+"0<" floor
+limitel
+működők
+"0" floor
+limittel
+működők
+"0<" floor
+limittel
+működők
+Sor-
+szám
+Megnevezés
+a b c d e f g h i
+
+Kereskedői elfogadóhelyek száma a
+beszámolási időszak végén
+02 Visa kártyákat elfogadó helyek
+03 Mastercard kártyákat elfogadó helyek
+04 Diners kártyákat elfogadó helyek
+05 Amex kártyákat elfogadó helyek
+06 JCB kártyákat elfogadó helyek
+
+MNB adatgyűjtés azonosító: P07
+Bankkártya elfogadói üzletág
+04. tábla: A jelentést tevő bankkal szerződött kereskedői elfogadóhelyek száma
+saját logós kártyák esetén
+darabszám
+Virtuális kereskedői elfogadóhelyek száma
+Vásárlásra és/vagy készpénz
+felvételére alkalmas saját logós
+kártyák kódja
+Fizikai kereskedői
+elfogadóhelyek száma telefon/postai elfogadás internetes elfogadás
+Sor-
+szám
+a b c d
+
+...
+nn
+
+MNB adatgyűjtés azonosító: P07
+Bankkártya elfogadói üzletág
+05. tábla: A jelentést tevő bank elfogadói hálózatában lebonyolított forgalom
+Készpénzfelvétel Áru és szolgáltatás vásárlása
+ATM berendezéseken POS berendezéseken nem elektronikus felvét
+fizikai és virtuális
+POS berendezéseken
+imprinteren ATM berendezéseken
+db
+érték
+(millió Ft)
+db
+érték
+(millió Ft)
+db
+érték
+(millió Ft)
+db
+érték
+(millió Ft)
+db
+érték
+(millió Ft)
+db
+érték
+(millió Ft)
+Sor-
+szám
+Megnevezés
+a b c d e f g h i j k l
+
+Hazai kibocsátású kártyával
+Magyarországon
+
+Külföldi kibocsátású kártyával
+Magyarországon
+Megjegyzés: elfogadói forgalom= on-us forgalom+más magyar bankok kártyáinak elfogadásából származó forgalom és külön sorban a külföldi kibocsátású kártyák
+elfogadási forgalma a jelentést tevő bank hálózatában
+
+MNB adatgyűjtés azonosító: P07
+Bankkártya elfogadói üzletág
+06.tábla: Külföldiek magyarországi kártyahasználata a beszámolási időszakban
+Készpénzfelvét Kereskedői forgalom
+Kártya társaság kódja
+db
+érték
+(millió Ft)
+db
+érték
+(millió Ft)
+Sor-
+szám
+a b c d e
+
+..
+nn
+07. tábla: Utazási csekk beváltás
+A banknál beváltott utazási csekkek értéke
+(millió Ft)
+Sor-
+szám
+a
+
+MNB adatgyűjtés azonosító: P07
+Kitöltési útmutató
+Bankkártya elfogadói üzletág
+I. Általános tudnivalók
+Jelen adatszolgáltatás a bankkártya elfogadói üzletág adatait foglalja magában, vagyis az adatszolgáltató által
+üzemeltetett készpénzfelvételi és kereskedői elfogadóhelyek számát (ATM, POS, imprinter), valamint az elfogadói
+hálózatában lebonyolított forgalmat. Ha az adatszolgáltató nem saját, hanem szolgáltató szervezetek által üzemeltetett ATM
+és POS hálózatot vesznek igénybe (például: Euronet Banktechnikai Kft. ATM hálózata, Magyar Posta Rt. POS hálózata),
+akkor a szolgáltató szervezettől kell bekérnie az adatszolgáltató elfogadói forgalmára vonatkozó adatokat és határidőre az
+MNB-hez megküldenie.
+Hasonlóan a kibocsátói üzletághoz, a bankoktól, mint adatszolgáltatóktól (jelenleg a Magyar Takarékszövetkezeti Bank
+Rt. és a Magyarországi Volksbank Rt.) teljeskörű szolgáltatást igénybe vevő szövetkezeti hitelintézetek bankkártya
+elfogadói üzletágára vonatkozó, magából a rendszerből kinyert adatokat, összesített formában, a rendszert üzemeltető
+bankoknak kell beküldeni az MNB-hez.
+A kitöltéshez szükséges kódokat az e rendelet 3. mellékletének 4.10. pontja szerinti, az MNB honlapján közzétett
+technikai segédlet tartalmazza.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: Készpénzfelvételi lehetőségek száma
+Az adatszolgáltató fiókjainak számát kell itt feltüntetni (01 sor) - amennyiben az adatszolgáltató nem érdekelt a
+bankkártya elfogadói üzletágban, ezt a sort sem kell kitöltenie, azaz jelen adatszolgáltatása nemleges -, ezen belül hány
+fiókban lehet készpénzt felvenni bankkártyával (02 sor), és ezekben a fiókokban hány darab, az adatszolgáltató saját
+tulajdonában lévő POS berendezés üzemel (03 sor). A Magyar Posta Rt. fiókjaiban üzemelő POS berendezések számát a
+Magyar Posta Rt. jelenti - jelen adatszolgáltatás többi részét nem kell kitöltenie! Ugyanezen tábla 04. sorába az
+adatszolgáltató ATM-jeinek darabszámát kell beírni. Az Euronet Banktechnikai Kft. tulajdonában lévő berendezések számát
+az Euronet Banktechniai Kft. szolgáltatja - jelen adatszolgáltatásnak kizárólag a 01. tábla 04-es sorát és a 02. számú tábláját
+kell kitöltenie! A tábla 02. és 04. sorában feltüntetett darabszám megyénkénti és megyeszékhelyenkénti megoszlását a 02.
+táblában kell megadni.
+02. tábla: Az adatszolgáltató által üzemeltetett ATM-ek és kártyát elfogadó, saját bankfiókok területi megoszlása
+Magyarországon
+A megye sorban feltüntetett adatnak tartalmaznia kell a megyeszékhelyeknél feltüntetett darabszámot. Kivétel a főváros,
+Budapest, amelynek adatai az "a" és "b" oszlopban jelennek meg, így automatikusan belekerülnek az országosan összesített
+adatba. A Pest megye sorban tehát nem kell szerepeltetni a Budapestnél már egyszer feltüntetett ATM és bankfiók
+darabszámot. A bankfiókok számánál kizárólag azokat a fiókokat kell feltüntetni, ahol bankkártyával készpénzt lehet
+felvenni, vagyis a 01. tábla 02. sorában megadott darabszámot megyénkénti és megyeszékhelyenkénti bontásban. Az
+Euronet Banktechnikai Kft. tulajdonában lévő berendezések számát az Euronet Banktechnikai Kft. szolgáltatja!
+Kitöltéskor a következő összefüggésekre kell figyelni:
+a 21. sor (a) oszlopába írt összeg = a 01. tábla 04. sorával, valamint
+a 21. sor (b) oszlopába írt összeg = a 01. tábla 02. sorával.
+03. tábla: Az adatszolgáltatóval szerződött, nemzetközi logós kártyákat elfogadó kereskedői helyek száma
+03. tábla/01 sor
+Ebben a sorban azt kell feltüntetni, hogy hány fizikai (a) és virtuális (b, c) kereskedői elfogadó hellyel kötött összesen
+szerződést az adatszolgáltató kártyaelfogadásra. A virtuális kereskedőknél azoknak a kereskedői elfogadóhelyeknek a
+számát kell feltüntetni, ahol telefoni/postai megrendelés útján (b), illetve interneten keresztül (c) lehet vásárolni. Az
+elfogadó helyeken hány imprinter üzemel POS berendezések mellett biztonsági tartalékként (f, g), illetve kizárólagosan
+(d,e), és a rajtuk lebonyolított műveletek mindegyike felhatalmazáshoz kötött, vagy csak a limithatár felettiek. A POS
+
+berendezések számát ugyanebben a bontásban kell feltüntetni, vagyis minden egyes művelet felhatalmazáshoz kötött (h),
+vagy csak meghatározott limit felett kötelező a felhatalmazás kérés (i).
+Kereskedői elfogadóhely alatt azoknak a fizikai vagy virtuális üzleteknek, vagyis elszámolási egységeknek a számát
+értjük, ahol elfogadják a kártyával történő fizetést (nem pedig a megkötött elfogadói szerződések számát)! Amennyiben egy
+kereskedő mind fizikai, mind pedig telefoni/postai vagy internetes elfogadóhelyeket üzemeltet, mindegyik kategóriában
+(a,b,c) szerepeltetni kell a darabszámban.
+A POS-ok számánál egyrészt a jelentést tevő bank, másrészt a kereskedő tulajdonában lévő berendezéseket kell
+jelenteni. Ez utóbbinál, amennyiben tudomással bírnak arról, hogy más hitelintézet/pénzügyi vállalkozás is szerződést kötött
+a kereskedővel, – vele egyeztetve – csak az egyik fél jelentésében kell szerepeltetni a berendezéseket.
+03. tábla/02-06 sor
+Visa, Mastercard, Diners Amex és JCB bontásban kell feltüntetni a 01 sor (a), (b) és (c) oszlopában megadott adatokat.
+04. tábla: Az adatszolgáltatóval szerződött kereskedői elfogadóhelyek száma, saját logós kártyák esetén
+A tábla (a) oszlopát az e rendelet 3. mellékletének 4.10 pontja szerinti, az MNB honlapján közzétett technikai segédlet
+alapján kell kitölteni, a (b), (c) és (d) oszlopokban pedig a 03-as táblánál leírtak szerint kell megadni az elfogadóhelyek
+számát.
+05. tábla: Az adatszolgáltató elfogadói hálózatában lebonyolított forgalom
+A tárgyfélévi kártyaelfogadói forgalmat minden adatszolgáltatónak az általa elfogadott kártyákra összevontan kell
+megadni – nem kérünk tehát kártyafajtánkénti bontást! –, külön sorban (01) a hazai kibocsátású (saját és más magyar bank
+által kibocsátott), és külön sorban (02) a külföldi kibocsátású kártyák forgalmára vonatkozóan. A 02 sort azoknak kell
+kitölteni, akik a külföldi kártyatársaságokkal kötött szerződések alapján a külföldiek magyarországi kártyahasználatából
+eredő elfogadói forgalmat elszámolják. A forgalmi adatoknak tartalmazniuk kell az on-us tételeket is! Az adatokat a
+táblában megadott bontásban kell feltüntetni, az értékeket millió forintra kerekítve (tizedesjegy nélkül). Az oszlopokat
+értelemszerűen kell kitölteni. Az ATM-en keresztül történő vásárlás alatt (k, l) a telefonkártya feltöltéseket kell érteni. A
+POS berendezéseken lebonyolódó forgalomnál (g, h) kell feltüntetni az ú.n. virtuális POS-okon lebonyolított tranzakciókat
+is, amely virtuális POS-ok a virtuális kereskedői elfogadóhelyeken üzemelnek. A forgalmi adatok megállapításánál a
+tranzakciók feldolgozásának a napját kell figyelembe venni.
+06. tábla: Külföldiek magyarországi kártyahasználata a beszámolási időszakban
+Ez a tábla a 05. tábla 02 sorában feltüntetett forgalmat tartalmazza kártyafajtánkénti (Mastercard, Visa, Amex, Diners,
+JCB, Citi) bontásban. Az adatokat kártyatársaságonként, a hozzájuk tartozó kóddal együtt kell megadni (lsd.e rendelet 3.
+melléklet 4.10. pontja), a megfelelő sorban, a kért bontásban.
+Kitöltéskor a következő összefüggésekre kell figyelni: A darabszámok és értékek összege megegyezik a 05-ös tábla 02.
+sorában (más csoportosításban) feltüntetett darabszámok és értékek összegével:
+05 tábla 02. sora+c+e oszlopának összege= 06.sz. tábla b oszlopába írt értékek összegével
+" b+d+f " " " " c " "
+" g+i+k " " " " d " "
+" h+j+l " " " " e " "
+07. tábla: Utazási csekk beváltás
+A táblában az adatszolgáltató által beváltott utazási csekkek értékét, millió forintra kerekítve kell megadni, összevontan,
+nem kell csekk fajtánkénti bontás. Az értéknek tartalmazni kell azoknak az utazási irodáknak és valuta beváltóhelyeknek a
+forgalmát is, amelyek az adatszolgáltatón keresztül számolnak el az utazási csekket kibocsátó társasággal.
+Az érték kiszámításánál a tárgyidőszak utolsó munkanapján érvényes MNB középárfolyamot kell használni.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+Azok az adatszolgáltatók, akik nem rendelkeznek GiroXMail csatlakozással (pénzügyi vállalkozások, Magyar Posta Rt.,
+Euronet Banktechnikai Kft.), mágneslemezen küldjék be az MNB-nek
+A beküldés formája: MNB szabványos file (text file)
+Az adatszolgáltatás címzettje: Magyar Nemzeti Bank, Statisztikai főosztály, Adatbefogadó és előkészítő osztály
+
+MNB adatgyűjtés azonosító: P27
+Bankkártya kibocsátói üzletág
+01. tábla: A kibocsátott kártyák száma és jellemzői kártyafajtánkénti bontásban
+Kártyatársaság
+kódja
+Kártya logo
+kódja
+Lakossági kártya /
+Business -
+corporate kártya
+Debit kártya
+(esetleg hitel-
+kerettel) / Credit
+kártya /
+Charge kártya
+Banki
+kibocsátású /
+Kereskedőkkel
+együtt
+kibocsátott
+co-branded kártya
+Hazai
+használatú /
+Nemzetközi
+használatú
+Kizárólag
+elektronikus
+használatú /
+Elektronikus és
+imprinteres
+környezetben is
+működő
+Valódi / Virtuális
+Készpénz
+felvételére /
+Vásárlásra /
+Mindkettőre
+alkalmas kártyák
+Darabszám
+Sor-
+szám
+a b c d e f g h i j
+
+...
+nn
+
+MNB adatgyűjtés azonosító: P27
+Bankkártya kibocsátói üzletág
+02. tábla: A bank által kibocsátott bankkártyák fajtánkénti forgalmi adatai a beszámolási időszakban
+Készpénzfelvét Kereskedői forgalom
+ATM bankfiók és egyéb kp. felvételi hely fizikai kereskedőknél postai/telefon/internetes megrendelés
+belföldi külföldi belföldi külföldi belföldi külföldi belföldi külföldi
+Kártyatársaság
+kódja
+Lakossági
+kártya /
+Business -
+corporate
+kártya
+Debit kártya
+(esetleg hitel-
+kerettel) /
+Credit
+kártya /
+Charge kártya
+Banki
+kibocsátású /
+Kereskedők-
+kel együtt
+kibocsátott
+co-branded
+kártya
+db
+érték
+(mill. Ft.)
+db
+érték
+(mill. Ft.)
+db
+érték
+(mill. Ft.)
+db
+érték
+(mill. Ft.)
+db
+érték
+(mill. Ft.)
+db
+érték
+(mill. Ft.)
+db
+érték
+(mill. Ft.)
+db
+érték
+(mill. Ft.)
+Sor-
+szám
+a b c d e f g h i j k l m n o p q r s t
+
+...
+nn
+03. tábla: Utazási csekk értékesítés
+A bank által értékesített utazási csekkek
+értéke millió forintban
+Sor-
+szám
+a
+
+MNB azonosító: P27
+Kitöltési útmutató
+Bankkártya kibocsátói üzletág
+I. Általános tudnivalók
+Jelen adatszolgáltatás a bankkártya kibocsátói üzletág adatait foglalja magában, vagyis az adatszolgáltató által
+kibocsátott kártyák számát és a velük lebonyolított forgalmat!
+Hasonlóan az elfogadói üzletághoz, más bankoktól, mint adatszolgáltatóktól (jelenleg a Magyar Takarékszövetkezeti
+Bank Rt. és a Magyarországi Volksbank Rt.) teljeskörű szolgáltatást igénybe vevő szövetkezeti hitelintézetek bankkártya
+kibocsátói üzletágára vonatkozó, magából a rendszerből kinyert adatokat, összesített formában, a rendszert üzemeltető
+bankoknak kell beküldeni az MNB-hez.
+A kitöltéshez szükséges kódokat az e rendelet 3. mellékletének 4.10. pontja szerinti, az MNB honlapján közzétett
+technikai segédlet tartalmazza.
+Fogalmi meghatározások:
+debit card (betéti kártya): a kártyabirtokos bankszámlájához kapcsolódó kártya, amellyel számlaegyenlege erejéig vehet
+fel készpénzt, illetve fizetheti vásárlásai ellenértékét. Minden egyes művelet összegével automatikusan megterhelik a
+kártyabirtokos bankszámláját. A betéti kártyához hitelkeret is kapcsolódhat.
+credit card (hitelkártya): a kártyabirtokos és a bank közötti szerződésben előre meghatározott összegű hitelkerethez
+kapcsolódó kártya, amellyel az ügyfél kerete erejéig vehet fel készpénzt, illetve vásárolhat. A számlázási periódus (általában
+egy hónap) végén, a kártya birtokosa dönti el, hogy a bankértesítőben meghatározott határidőig teljes egészében kifizeti
+tartozását, vagy csak a szerződésében meghatározott mértékig. A fizetési határidő előtt tartozása kamatmentes, a határidő
+után fennmaradó kiegyenlítetlen összegre azonban kamatot kell fizetnie. Általában nem vonatkozik a kamatmentesség a
+készpénzfelvételi műveletekre, ezek ugyanis a tranzakció keltétől kamatoznak.
+charge/delayed debit card (terhelési kártya): a kártyabirtokos kártyája egy olyan hitelkerethez kapcsolódik, amelynek
+felső határát nem feltétlenül állapítják meg (de megállapíthatják). A kártya készpénz felvételére és vásárlásra alkalmas. A
+számlázási periódus végén a kártyabirtokos tartozása teljes összegét ki kell egyenlítse.
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: A kibocsátott kártyák száma és jellemzői kártyafajtánkénti bontásban
+Az adatszolgáltató által kibocsátott és a beszámolási időszak utolsó munkanapján (a félév utolsó munkanapja)
+forgalomban lévő bankkártyák darabszámát (j) kell feltüntetni, függetlenül attól, hogy milyen gyakran használják azokat. A
+lejárt vagy visszavont kártyák nem tartoznak ide.
+A bankkártyák darabszámát az e rendelet 3. melléklet 4.10 pontja szerinti technikai segédlet "Bankkártya statisztikák
+törzsadatai" című tábla szerinti bontásban (a-b), a kártya jellemzőinek megjelölésével (c-i) kell megadni. A kártya jellemzők
+kódszámai ugyanitt a "Segédtábla a P27-es adatszolgáltatáshoz" c. táblában találhatók. Amennyiben a táblán nem szerepel a
+bank által kibocsátott kártya kódja, az MNB-től kell kérni.
+Ugyanaz a kódszám többször is szerepelhet, amennyiben a (c-i) oszlopokban feltüntetett jellemzők ugyanazon
+kódszámhoz tartozóan különbözőek. Például: a Mastercard standard kártya (kódja 1 11) szerepelhet lakossági kártyaként,
+business kártyaként, debit kártyaként, credit kártyaként, esetleg co-branded kártyaként, attól függően, hogy hány fajtát
+bocsát ki az adatszolgáltató.
+A (c) oszlop kitöltésénél az I. Általános tudnivalók c. részben szereplő definíciókat kell figyelembe venni!
+
+02. tábla: Az adatszolgáltató által kibocsátott bankkártyák forgalmi adatai a beszámolási időszakban
+A forgalmi adatok az adatszolgáltató által kibocsátott kártyákkal az aktuális félévben itthon (saját és más magyar bank
+hálózatában) és külföldön lebonyolított forgalmat tartalmazzák. Az adatokat Visa, Mastercard, Diners, Amex és saját logos,
+ezen belül
+debit, credit vagy charge,
+lakossági vagy business/corporate
+kizárólag banki kibocsátású vagy co-branded
+bontásban kell megadni.
+Például: Visa kártyák esetében oszlop: "a" "b" "c" "d"
+Visa lakossági, debit, banki kibocsátású 2 1 1 1
+Visa lakossági, debit, co-branded 2 1 1 2
+Visa business/corporate, debit, banki
+kibocsátású
+2 2 1 1
+Visa business/corporate, debit, co-branded 2 2 1 2
+Visa lakossági, credit, banki kibocsátású 2 1 2 1
+Visa lakossági, credit, co-branded 2 1 2 2
+Visa business/corporate, credit, banki
+kibocsátású
+2 2 2 1
+Visa business/corporate, credit, co-branded 2 2 2 2
+A fenti minta alapján csoportosított adatok szükségesek a Mastercard, a Diners, az Amex és a saját logos kártyákra
+vonatkozóan is.
+Az (a) oszlopba mindenütt a "Bankkártya statisztikák törzsadatai" c. táblából a kártyatársaság kódját kell beírni
+[megegyezik a 01. tábla (a) oszlopával], a (b) (c)és (d) oszlopba pedig a "Segédtáblában" található számokat [megegyezik a
+01. tábla (c) (d) és (e) oszlopával].
+A kereskedelmi forgalom adatait külön kell jelenteni a fizikai kereskedőknél itthon és külföldön lebonyolított
+vásárlásokra, és külön az interneten/postán/telefonon keresztül megrendelt vásárlásokra. Az ATM-en keresztül lebonyolított
+vásárlásokat (mobil telefon feltöltés) a "fizikai kereskedőknél" kell feltüntetni.
+A tranzakciószámot minden forgalmi táblában "db" jelzi. Az értékeket millió forintra kerekítve kell megadni,
+tizedesjegy nélkül, tehát a 0,5 millió forint feletti értékeket felfelé, a 0,5 millió forint alattiakat pedig lefelé kerekítve,
+függetlenül attól, hogy a kerekítés eredménye esetleg "0". A forgalmi adatok megállapításánál a tranzakciók
+feldolgozásának a napját kell figyelembe venni.
+A devizában keletkező adatok HUF értékét a beszámolási időszak utolsó munkanapján érvényes MNB deviza közép
+árfolyamon átszámítva kell megadni.
+03. tábla: Utazási csekk értékesítés
+A táblában az adatszolgáltató által értékesített utazási csekkek értékét, millió forintra kerekítve kell megadni,
+összevontan, vagyis nem kérünk csekkfajtánkénti bontást. Az értéknek tartalmazni kell azoknak az utazási irodáknak és
+valuta beváltóhelyeknek a forgalmát is, amelyek az adatszolgáltatón keresztül számolnak el az utazási csekket kibocsátó
+társasággal.
+Az érték kiszámításánál a tárgyidőszak utolsó munkanapján érvényes MNB középárfolyamot kell használni.
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+Azok az adatszolgáltatók, akik nem rendelkeznek GiroXMail csatlakozással (pénzügyi vállalkozások), mágneslemezen
+küldjék be az MNB-nek
+A beküldés formája: MNB szabványos file (text file)
+Az adatszolgáltatás címzettje: Magyar Nemzeti Bank, Statisztikai főosztály, Adatbefogadó és előkészítő osztály
+
+MNB adatgyűjtés azonosító: P34
+Visszaélések a bankkártya üzletágban
+01. tábla: Bankkártyás visszaélések a kibocsátói üzletágban a beszámolási időszakban
+Felmerült kár A kártyaüzletág valamely szereplőjénél jelentkező veszteség értéke
+Kártyatársaság kódja
+Saját hálózat /
+Idegen hálózat
+Bankkártyás
+visszaélések fajtái művelet db.szám
+érték
+(ezer Ft)
+külföldi/magyar elfogadó
+bankra terhelt veszteség
+értéke
+(ezer Ft)
+a bank kártyabirtokosára
+terhelt veszteség
+értéke
+(ezer Ft)
+a kibocsátó bank által
+lekönyvelt veszteség
+értéke
+(ezer Ft)
+Sor-
+szám
+a b c d e f g h
+
+...
+nn
+
+MNB adatgyűjtés azonosító: P34
+Visszaélések a bankkártya üzletágban
+02. tábla: Bankkártyás visszaélések az elfogadói üzletágban a beszámolási időszakban
+- felmerült kár
+Felmerült kár
+Kártyatársaság kódja Bankkártyás visszaélések
+fajtái
+művelet db.szám érték
+(ezer Ft)
+Sor-
+szám
+a b c d
+
+...
+nn
+03. tábla: Bankkártyás visszaélések az elfogadói üzletágban a beszámolási időszakban
+- jelentkező veszteség
+ezer forint
+A kártyaüzletág valamely szereplőjénél jelentkező veszteség értéke
+Kártyatársaság kódja külföldi/magyar
+kibocsátó bankra terhelt
+veszteség
+a hazai kereskedőre terhelt
+veszteség
+az elfogadó bank által
+lekönyvelt veszteség
+Sor-
+szám
+a b c d
+
+...
+nn
+
+MNB adatgyűjtés azonosító: P34
+Kitöltési útmutató
+Visszaélések a bankkártya üzletágban
+I. Általános tudnivalók
+Jelen adatszolgáltatás a bankkártya üzletágban mind a kibocsátói, mind pedig az elfogadói oldalon felmerült károkat és
+az ezekből keletkező veszteségeket tartalmazza. Hasonlóan a P07 és P27-es adatszolgáltatáshoz, jelen adatszolgáltatás
+esetén is, az adatszolgáltatóktól (jelenleg a Magyar Takarékszövetkezeti Bank Rt. és a Magyarországi Volksbank Rt.)
+teljeskörű szolgáltatást igénybe vevő szövetkezeti hitelintézetek bankkártya visszaélésekre vonatkozó adatait, összesített
+formában, a rendszert üzemeltető bankoknak kell beküldeni az MNB-hez.
+A kitöltéshez szükséges kódokat az e rendelet 3. mellékletének 4.10. pontja szerinti, az MNB honlapján közzétett
+technikai segédlet tartalmazza.
+Az adatszolgáltatáshoz tartozó fogalmi meghatározások:
+Felmerült kár: A beszámolási időszakban az adatszolgáltató kibocsátói vagy elfogadói üzletágában az adatszolgáltató
+tudomására jutott visszaélés, amely vagy még ugyanabban a beszámolási időszakban leírt veszteségként megjelenik a
+kártyaüzletág valamely szereplőjénél, vagy végleges rendezése áthúzódik egy következő beszámolási időszakra.
+A kártyaüzletág valamely szereplőjénél jelentkező veszteség: A jelen, vagy egy korábbi beszámolási időszakban, az
+adatszolgáltató kibocsátói vagy elfogadói üzletágában felmerült kár veszteségként történő leírásának jelentése,
+kárviselőkénti bontásban.
+A következő meghatározásokban zárójelben feltüntetjük a kártyatársaságok által használt fogalmakat is:
+Elveszett kártyákkal okozott kár (Lost): azokat a káreseményeket és leírt veszteséget kell jelenteni, amelyeket a kártya
+jogos birtokosa által elvesztett kártyákkal követtek el.
+Lopott kártyákkal okozott kár (Stolen): azokat a káreseményeket és leírt veszteséget kell jelenteni, amelyeket a kártya
+jogos birtokosától ellopott kártyákkal követtek el.
+Meg nem kapott kártyákkal okozott kár (Card not received): azokkal a kártyákkal elkövetett visszaélést és a belőle
+származó veszteséget kell feltüntetni, amelyeket a kibocsátó bank postai úton továbbít a kártyabirtokos részére, de a kártya
+nem érkezik meg jogos birtokosához, illetéktelen személy bonyolít le vele jogtalan tranzakciókat.
+Hamis adatokkal igényelt kártyával okozott kár (Fraudulent application): azokat az eseteket kell itt jelenteni, amikor a
+kártyabirtokos hamis adatokkal kér és kap kártyát a banktól és ezzel jogtalan műveleteket bonyolít le.
+Hamisított kártyákkal okozott kár (Counterfeit): mindenféle kártyahamisítás ide értendő, például: duplikált kártyákkal
+elkövetett visszaélések, valódi kártyák megszemélyesítési adatainak megváltoztatása.
+Mail/telefon/internet útján okozott kár (Card not present): azok a visszaélések tartoznak ide, amikor a kártya adatainak
+felhasználásával, annak nem jogos birtokosa bonyolít le műveleteket telefonon, postán vagy interneten keresztül történő
+vásárlás esetén, amikor a kártya fizikailag nincs jelen a tranzakciónál.
+Egyéb visszaélésekkel okozott kár (Other): mindazon visszaélések ide tartoznak, amelyek a fenti hat csoport egyikébe
+sem sorolhatók.
+
+II. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: Bankkártyás visszaélések a kibocsátói üzletágban a beszámolási időszakban
+Az adatszolgáltató által kibocsátott kártyák hazai és külföldi, készpénz-felvételi és vásárlási forgalmához kapcsolódó
+visszaéléseket kell jelenteni kártyafajtánkénti (Visa, Mastercard, Diners, Amex, saját logos) bontásban, feltüntetve az e
+rendelet 3. melléklet 4.10 pontja szerinti "Bankkártya statisztikák törzsadatai" c. tábla alapján a kártyatársaság kódszámát az
+(a) oszlopban. Az egyes kártyafajtákon belül is külön sorban kell feltüntetni: a jelentést tevő kibocsátó bank saját
+hálózatában lebonyolított műveletekhez kapcsolódó károkat (on-us tételek), valamint az idegen (hazai vagy külföldi)
+hálózatban lebonyolított művelethez kapcsolódó károkat. A hálózat típusának megjelöléséhez az e rendelet 3. melléklet 4.10
+pontja szerinti, "Segédtábla a P34-es adatszolgáltatáshoz" c. tábla megfelelő sorát kell használni. (Az Euronet
+Banktechnikai Kft. hálózatban lebonyolított tételeket az idegen hálózatnál kell jelenteni.)
+A (c) oszlopban a visszaélések fajtáit az e rendelet 3. melléklet 4.10 pontja szerinti, "Segédtábla a P34-es
+adatszolgáltatáshoz" c. tábla alapján kell feltüntetni. Csak azokat a visszaélés fajtákat kell jelenteni, amelyekben kár, illetve
+veszteség keletkezett.
+A bankkártya birtokosa által végrehajtott visszaélésszerű számlaegyenleg túllépések nem tartoznak a bankkártyával
+történő visszaélések közé, ezeket nem kell jelenteni!!!
+02-03. tábla:
+Az elfogadói oldalon felmerülő károkat és veszteségeket a nemzetközi védjeggyel ellátott kártyák esetén a
+kártyatársaságoktól kapott adatok alapján kell kitölteni. Külön táblában kell feltüntetni a károkat (02) visszaélés fajtánként
+bontva és külön a leírt veszteségeket (03), visszaélés fajtától függetlenül.
+02. tábla: Bankkártyás visszaélések az elfogadói üzletágban a beszámolási időszakban - felmerült kár
+Az adatokat kártyatársaságonként (Visa, Mastercard, Diners, Amex, JCB, Saját logos) bontva kell megadni, feltüntetve a
+kártyatársaság kódszámát az (a) oszlopban. A megfelelő kódok az e rendelet 3. melléklet 4.10 pontja szerinti "Bankkártya
+statisztikák törzsadatai" c. táblában találhatók. A (b) oszlopban azokat a visszaélés fajtákat kell jelölni ("Segédtábla a P34-es
+adatszolgáltatáshoz" c. tábla szerint), amelyben kár illetve veszteség keletkezett.
+A "Felmerült kár" oszlopaiban (c és d) az adatszolgáltató elfogadói hálózatában (más hazai bank által, illetve külföldön
+kibocsátott kártyákkal) lebonyolított forgalomban felmerült károkat kell megadni.
+03. tábla: Bankkártyás visszaélések az elfogadói üzletágban - jelentkező veszteség
+A "kártyaüzletág szereplőinél jelentkező veszteség értékére" vonatkozóan kártyafajtánként kell megadni az összesített
+adatot (tehát nem kell a kár fajtáját feltüntetni), aszerint bontva, hogy ki viseli a veszteséget (b-d oszlopok).
+III. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+Azok az adatszolgáltatók, akik nem rendelkeznek GiroXMail csatlakozással (pénzügyi vállalkozások), mágneslemezen
+küldjék be az MNB-nek
+A beküldés formája: MNB szabványos (text) file
+Az adatszolgáltatás címzettje: Magyar Nemzeti Bank, Statisztikai főosztály, Adatbefogadó és előkészítő osztály
+
+MNB adatgyűjtés azonosító: P37
+Havi jelentés a levelező banknál számlát vezető levelezett hitelintézetek
+pénzforgalmi (elszámolási) számla egyenlegéről
+A hitelintézet törzsszáma
+Pénzforgalmi (elszámolási) számla egyenlegének
+havi átlaga*
+(ezer Ft)
+Sor-
+kód
+a b
+
+nnn
+*/ A pénzforgalmi (elszámolási) számla napi állománya munkanapon a pénzforgalmi (elszámolási) számla
+záróegyenlege, szabad, munkaszüneti, vagy ünnepnapon pedig az azt megelőző munkanap záróegyenlege.
+Havi átlagnak a napi állományok naptári napokkal számított átlagát tekintjük.
+
+MNB adatgyűjtés azonosító: P38
+01. tábla: A BKR forgalom megoszlása tranzakciótípusok szerint
+Fizetési mód Tranzakciók
+kódja megnevezése darab érték (Ft)
+Sorszám
+a b c d
+
+…
+…
+…
+nnnn
+9996 999-60 Klíring tranzakciók összesen
+9997 999-70 Visszautasított klíring tranzakciók összesen
+9998 999-80 Non-klíring tranzakciók összesen
+9999 999-90 Visszautasított non-klíring tr.ók összesen
+GIRO Elszámolásforgalmi Rt.
+
+MNB adatgyűjtés azonosító: P38
+02. tábla: BKR tranzakciók forgalmának megoszlása értékhatárok szerint
+Indított Elszámolt Visszautasított
+db Ft db Ft db Ft
+Sor-
+szám
+Tételek
+ezer Ft
+a b c d e f
+01 -10
+02 10 - 20
+03 20 - 30
+04 30 - 40
+05 40 - 50
+06 50 - 60
+07 60 - 70
+08 70 - 80
+09 80 - 90
+10 90 - 100
+11 100- 200
+12 200- 300
+13 300- 400
+14 400- 500
+15 500- 600
+16 600- 700
+17 700- 800
+18 800- 900
+19 900-1000
+20 1000-2000
+21 2000-3000
+22 3000-4000
+23 4000-5000
+24 5000-6000
+25 6000-7000
+26 7000-8000
+27 8000-9000
+28 9000-10000
+29 10000-20000
+30 20000-30000
+31 30000-40000
+32 40000-50000
+33 50000-60000
+34 60000-70000
+35 70000-80000
+36 80000-90000
+37 90000-100000
+38 100000-
+99 Összesen:
+
+MNB adatgyűjtés azonosító: P38
+03. tábla: Egyszerű átutalás tranzakciók forgalmának megoszlása értékhatárok szerint
+Indított Elszámolt Visszautasított
+db Ft db Ft db Ft
+Sor-
+szám
+Tételek
+ezer Ft
+a b c d e f
+01 -10
+02 10 - 20
+03 20 - 30
+04 30 - 40
+05 40 - 50
+06 50 - 60
+07 60 - 70
+08 70 - 80
+09 80 - 90
+10 90 - 100
+11 100- 200
+12 200- 300
+13 300- 400
+14 400- 500
+15 500- 600
+16 600- 700
+17 700- 800
+18 800- 900
+19 900-1000
+20 1000-2000
+21 2000-3000
+22 3000-4000
+23 4000-5000
+24 5000-6000
+25 6000-7000
+26 7000-8000
+27 8000-9000
+28 9000-10000
+29 10000-20000
+30 20000-30000
+31 30000-40000
+32 40000-50000
+33 50000-60000
+34 60000-70000
+35 70000-80000
+36 80000-90000
+37 90000-100000
+38 100000-
+99 Összesen:
+
+MNB adatgyűjtés azonosító: P38
+04. tábla: Bank to bank tranzakciók forgalmának megoszlása értékhatárok szerint
+Indított Elszámolt Visszautasított
+db Ft db Ft db Ft
+Sor-
+szám
+Tételek
+ezer Ft
+a b c d e f
+01 -100000
+02 100000-200000
+03 200000-300000
+04 300000-400000
+05 400000-500000
+06 500000-600000
+07 600000-700000
+08 700000-800000
+09 800000-900000
+10 900000-1000000
+11 1000000-
+99 Összesen :
+05. tábla: Csoportos átutalás tranzakciók forgalmának megoszlása értékhatárok szerint
+Indított Elszámolt Visszautasított
+db Ft db Ft db Ft
+Sor-
+szám
+Tételek
+ezer Ft
+a b c d e f
+01 -10
+02 10 - 20
+03 20 - 30
+04 30 - 40
+05 40 - 50
+06 50 - 60
+07 60 - 70
+08 70 - 80
+09 80 - 90
+10 90 - 100
+11 100- 200
+12 200- 300
+13 300- 400
+14 400- 500
+15 500- 600
+16 600- 700
+17 700- 800
+18 800- 900
+19 900-1000
+20 1000-
+99 Összesen :
+
+MNB adatgyűjtés azonosító: P38
+06. tábla: Csoportos beszedés tranzakciók forgalmának megoszlása értékhatárok szerint
+Beszedés kezdeményezés Elszámolt Visszautasított
+db Ft db Ft db Ft
+Sor-
+szám
+Tételek
+ezer Ft
+a b c d e f
+01 -10
+02 10 - 20
+03 20 - 30
+04 30 - 40
+05 40 - 50
+06 50 - 60
+07 60 - 70
+08 70 - 80
+09 80 - 90
+10 90 - 100
+11 100- 200
+12 200- 300
+13 300- 400
+14 400- 500
+15 500- 600
+16 600- 700
+17 700- 800
+18 800- 900
+19 900-1000
+20 1000-
+99 Összesen :
+07. tábla: PEK tranzakciók forgalmának megoszlása értékhatárok szerint
+Indított
+db Ft
+Sor-
+szám
+Tételek
+ezer Ft
+a b
+01 -10
+02 10 - 20
+03 20 - 30
+04 30 - 40
+05 40 - 50
+06 50 - 60
+07 60 - 70
+08 70 - 80
+09 80 - 90
+10 90 - 100
+11 100- 200
+12 200- 300
+13 300- 400
+14 400- 500
+15 500- 600
+16 600- 700
+17 700- 800
+18 800- 900
+19 900-1000
+20 1000-
+99 Összesen :
+
+MNB adatgyűjtés azonosító: P38
+08. tábla: BKR forgalom megoszlása elszámolási naponként
+Indított Elszámolt Visszautasított
+Elszámolási
+dátum db Ft db Ft db Ft
+Sor-
+szám
+a b c d e f g
+
+…
+…
+nnn
+999 Összesen :
+09. tábla: Csoportos átutalás forgalom megoszlása elszámolási naponként
+Indított Elszámolt Visszautasított
+Elszámolási
+dátum db Ft db Ft db Ft
+Sor-
+szám
+a b c d e f g
+
+…
+…
+nnn
+999 Összesen :
+10. tábla: Csoportos beszedés forgalom megoszlása elszámolási naponként
+Beszedés Elszámolt Visszautasított
+Elszámolási
+dátum db Ft db Ft db Ft
+Sor-
+szám
+a b c d e f g
+
+…
+…
+nnn
+999 Összesen :
+
+MNB adatgyűjtés azonosító: P38
+11. tábla: PEK tranzakciók forgalmának megoszlása elszámolási naponként
+Indított tranzakciók
+Elszámolási
+dátum darab forint
+Sor-
+szám
+a b c
+
+…
+…
+nn
+99 Összesen :
+12. tábla: Csoportos átutalás forgalom megoszlása indító bankonként
+Indított Elszámolt Visszautasított
+Bank kódja
+db Ft db Ft db Ft
+Sor-
+szám
+a b c d e f g
+
+…
+…
+nnn
+999 Összesen :
+13. tábla: Csoportos átutalás forgalom megoszlása címzett bankonként
+Fogadott Elszámolt Visszautasított
+Bank kódja
+db Ft db Ft db Ft
+Sor-
+szám
+a b c d e f g
+
+…
+…
+nnn
+999 Összesen :
+
+MNB adatgyűjtés azonosító: P38
+14. tábla: Csoportos beszedés forgalom megoszlása indító bankonként
+Beszedés kezdeményezés Elszámolt Visszautasított
+Bank kódja
+db Ft db Ft db Ft
+Sor-
+szám
+a b c d e f g
+
+…
+…
+nnn
+999 Összesen :
+15. tábla: Csoportos beszedés forgalom megoszlása címzett bankonként
+Beszedés Elszámolt Visszautasított
+Bank kódja
+db Ft db Ft db Ft
+Sor-
+szám
+a b c d e f g
+
+…
+…
+nnn
+999 Összesen :
+16. tábla: Csoportos átutalás forgalom megoszlása jogcímenként
+Indított Elszámolt Visszautasított
+Jogcím
+db Ft db Ft db Ft
+Sor-
+szám
+a b c d e f g
+
+…
+…
+nnn
+999 Összesen :
+
+MNB adatgyűjtés azonosító: P38
+17. tábla: Csoportos beszedés forgalom megoszlása jogcímenként
+Beszedés kezdeményezés Elszámolt Visszautasított
+Jogcím
+db Ft db Ft db Ft
+Sor-
+szám
+a b c d e f g
+
+…
+…
+nnn
+999 Összesen :
+18. tábla: A bankok elszámolásforgalmának megoszlása küldés és fogadás, azon belül
+tranzakciótípus szerint
+Bankkód
+Küldés/
+fogadás
+Tranzakció-kód
+és alkód
+Darab Összeg
+Sorszám
+a b c d e
+
+…
+…
+nnnn
+
+MNB adatgyűjtés azonosító: P38
+Kitöltési útmutató
+Fizetési forgalom statisztikák
+I. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: A BKR tranzakciók forgalmának megoszlása tranzakciótípusok szerint
+A táblában mind a klíring, mind a non-klíring indított tranzakciókat kell jelenteni. A non-klíring tranzakcióknál a
+tranzakciók darabszáma mellett az igényelt összeget kell feltüntetni a d) "érték (Ft)" oszlopban.
+A táblában minden tranzakció kód-alkód párost külön kell szerepeltetni, vagyis a visszautasított tételeket is annyi
+különböző sorban kell jelenteni, amennyi külön tranzakció kód-alkódon szerepelnek.
+9996. sor: Klíring tranzakciók összesen
+Ezen a soron a klíring tranzakciók összesített adatait kell szerepeltetni.
+9997. sor: Visszautasított klíring tranzakciók összesen
+Itt kell jelenteni a visszautasított klíring tranzakciók darabszámát, összegét.
+9998. sor: Non-klíring tételek összesen
+Ezen a soron a non-klíring tételek (pl. csoportos és inkasszó beszedés és összeg nélküli visszautasítás) összesített
+adatait kell szerepeltetni.
+9999. sor: Visszautasított non-klíring tételek összesen
+Ezen a soron kell jelenteni a visszautasított non-klíring tételek darabszámát és összegét.
+02. tábla: BKR tranzakciók forgalmának megoszlása értékhatár szerint
+A táblában a BKR tranzakciók megoszlását kell szerepeltetni a megjelölt értékhatárok szerinti bontásban.
+03. tábla: Egyszerű átutalások forgalmának megoszlása értékhatár szerint
+A táblában az egyszerű átutalások megoszlását kell szerepeltetni a megjelölt értékhatárok szerinti bontásban.
+04. tábla: Bank-to-Bank tranzakciók forgalmának megoszlása értékhatár szerint
+A táblában a bank-to-bank tranzakciók megoszlását kell szerepeltetni a megjelölt értékhatárok szerinti bontásban.
+05. tábla: Csoportos átutalás tranzakciók forgalmának megoszlása értékhatár szerint
+A táblában a csoportos átutalások megoszlását kell szerepeltetni a megjelölt értékhatárok szerinti bontásban.
+06. tábla: Csoportos beszedés tranzakciók forgalmának megoszlása értékhatár szerint
+A táblában a csoportos beszedések megoszlását kell szerepeltetni a megjelölt értékhatárok szerinti bontásban.
+Az oszlopok jelentése a csoportos beszedések tábláinak esetében a következő:
+"Beszedés kezdeményezés": ezekben az oszlopokban kell jelenteni a továbbított csoportos beszedés kezdeményező
+tranzakciókat (094-00 tranzakció; db, kért összeg)
+"Elszámolt": ezekben az oszlopokban kell jelenteni az elszámolt csoportos beszedés teljesítés tranzakciókat (404-00
+tranzakció; db, összeg)
+"Visszautasított": ezekben az oszlopokban kell jelenteni az elszámolt csoportos beszedés visszautasítás
+tranzakciókat (294-00 tranzakció; db, összeg)
+
+07. tábla: PEK tranzakciók forgalmának megoszlása értékhatár szerint
+A táblában a PEK tranzakciók megoszlását kell szerepeltetni a megjelölt értékhatárok szerinti bontásban.
+08. tábla: BKR forgalom megoszlása elszámolási naponként
+A táblában a BKR forgalom megoszlását kell jelenteni elszámolási naponként.
+09. tábla: Csoportos átutalás forgalom megoszlása elszámolási naponként
+A táblában a csoportos átutalás forgalom megoszlását kell jelenteni elszámolási naponként.
+10. tábla: Csoportos beszedés forgalom megoszlása elszámolási naponként
+A táblában a csoportos beszedés forgalom megoszlását kell jelenteni elszámolási naponként.
+11. tábla: PEK forgalom megoszlása elszámolási naponként
+A táblában a PEK tranzakció-forgalom megoszlását kell jelenteni elszámolási naponként.
+12. tábla: Csoportos átutalás forgalom megoszlása kezdeményező bankonként
+A táblában a csoportos átutalás forgalom kezdeményező klíringtagonkénti megoszlását kell jelenteni.
+13. tábla: Csoportos átutalás forgalom megoszlása címzett bankonként
+A táblában a csoportos átutalás forgalom címzett klíringtagonkénti megoszlását kell jelenteni.
+14. tábla: Csoportos beszedés forgalom megoszlása kezdeményező bankonként
+A táblában a csoportos beszedés forgalom kezdeményező klíringtagonkénti megoszlását kell jelenteni.
+15. tábla: Csoportos beszedés forgalom megoszlása címzett bankonként
+A táblában a csoportos beszedés forgalom címzett klíringtagonkénti megoszlását kell jelenteni.
+16. tábla: Csoportos átutalás forgalom megoszlása jogcímenként
+A táblában a csoportos átutalás forgalom csoportos jogcímenkénti megoszlását kell jelenteni.
+17. tábla: Csoportos beszedés forgalom megoszlása jogcímenként
+A táblában a csoportos beszedés forgalom csoportos jogcímenkénti megoszlását kell jelenteni.
+18. tábla: A bankok elszámolásforgalmának megoszlása küldés és fogadás, azon belül tranzakciótípus szerint
+Ebben a táblában kell jelenteni a klíringtagok által küldött, illetve fogadott, a BKR-ben elszámolásra, illetve
+továbbításra került tranzakciókat tranzakciótípusonként (ideértve a beszedési kéréseket és a visszautasító tranzakciókat is).
+Külön soron kell jelenteni az egyes klíringtagok által küldött, illetve fogadott tételeket; illetve ezeken belül külön
+soron kérünk jelenteni minden különböző tranzakció kód-alkód párhoz tartozó értékeket. Azokat az eseteket, ahol a
+darabszám („d” oszlop) értéke nulla, nem kell jelenteni.
+Az oszlopok kitöltése:
+a) a hitelintézet MNB által kiadott bankkódja
+b) „K” vagy „F”, aszerint, hogy küldött vagy fogadott tranzakciókat jelentenek az adott sorban
+c) Tranzakció kód-alkód „999-99” formátumban
+d) a tranzakciók darabszáma
+e) a tranzakciók értéke
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: P39
+01. tábla: A BKR-ben sorban álló bankok listája
+Sorban maradt
+köteg
+Sorban maradt
+tranzakció
+Sorban maradt
+összeg
+Sorban maradt
+összegből fedezetlen
+Elszámolási
+dátum
+Bank
+kód
+darab darab forint forint
+Sor-
+szám
+a b c d e f
+
+…
+…
+nn
+02. tábla: A BKR-be tételeiket a rendkívüli szakaszban küldő bankok listája
+Elszámolási
+dátum
+Bank
+kód
+Utolsó csomag
+fogadása
+Utolsó napvége
+fogadása
+Késés indoka
+Sor-
+szám
+a b c d e
+
+…
+…
+nn
+03. tábla: BKR által visszautasított tranzakciók
+Bankkód Hibakód Hiba leírása db
+Sor-
+szám a b c d
+
+…
+…
+nn
+GIRO Elszámolásforgalmi Rt.
+
+MNB adatgyűjtés azonosító: P39
+04. tábla: Napi tranzakciószám és az elszámolás időtartama
+Első szakasz Második szakasz
+Összes elszámolt
+tranzakció Elszámolt ár
+Elszámolási
+dátum
+db Ft db Ft
+Elszámolás
+kezdete
+Befejezés
+időpontja
+Postaládába
+eljuttatás
+Utolsó
+napvége
+küldése
+Elszámolás
+befejezése
+Postaládába
+eljuttatás
+időpontja
+Sor-
+szám
+a b c d e f g h i j k
+
+…
+…
+nn
+05. tábla: Kommunikációs hibák
+Hibák száma
+Összes
+kiesett idő
+Átlagos
+kiesett idő
+Legnagyobb
+kiesés
+Kiesési mutató
+Szolgáltató
+db óó:pp óó:pp óó:pp %
+Sor-
+szám
+a b c d e f
+
+…
+…
+nn
+
+MNB adatgyűjtés azonosító: P39
+06. tábla: Off-line adatforgalmazás
+07. tábla: Elszámolásforgalmi
+kommunikációs vonalak sávszélessége
+Dátum Bank Indok Szolgáltató Viszonylat
+Sáv-
+szélesség
+Változás
+jellege
+Sor-
+szám
+a b c
+Sor-
+szám
+a b c d
+01 01
+02 02
+03 03
+… …
+… …
+nn nn
+08. tábla: Fogadó kötegek klíringtag általi
+késői elvitele
+Dátum Idő Bank Indok
+Sor-
+szám a b c d
+
+…
+…
+nn
+09. tábla: Lezárt reklamációk
+Bank Dátum Leírás Kimenetel Indoklás E. dátum
+Sor-
+szám a b c d e f
+
+…
+…
+nn
+
+MNB adatgyűjtés azonosító: P39
+10. tábla: Ügyfeleknél végzett javítások
+Hiba bejelentése Hiba kijavítása
+Dátum Idő Dátum Idő
+Bank
+A hiba rövid
+leírása
+A hiba
+javítása
+Sorszám
+a b c d e f g
+
+…
+…
+nn
+11. tábla: Igénybe vett javítások (elszámolásforgalommal kapcsolatban)
+Hiba bejelentése Hiba kijavítása
+Dátum Idő Dátum Idő
+Szállító
+cég
+A hiba rövid
+leírása
+A hiba
+javítása
+Sorszám
+a b c d e f g
+
+…
+…
+nn
+12. tábla: Az elszámolásforgalmi rendszeren
+végrehajtott módosítások
+A változtatás
+Dátuma Helye Leírása Indoka
+Sorszám
+a b c d
+
+…
+…
+nn
+
+MNB adatgyűjtés azonosító: P39
+Kitöltési útmutató
+Fizetési rendszer statisztikák
+I. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: A BKR-ben sorban álló bankok listája
+Ebben a táblában kell jelenteni azokat az eseteket, amikor egy klíringtag számára az MNB által megadott keret nem
+bizonyult elegendőnek a minden tranzakciója elszámolására.
+02. tábla: A BKR-be tételeiket a rendkívüli szakaszban küldő bankok listája
+Ebben a táblában kell jelenteni azokat az eseteket, amikor egy klíringtag 02:00 után fejezte be tételeinek küldését.
+Az e) oszlopban röviden szerepeltetni kell – amennyiben a GIRO Rt rendelkezésére áll – azt az információt, hogy a
+késés milyen ok miatt következett be.
+03. tábla: A BKR által visszautasított tranzakciók
+Ebben a táblában azon tranzakciókról kérünk információt, amelyet a klíringtagok benyújtottak a GIRO Rt-nek, de annak
+feldolgozását az elszámolóház valamilyen formai vagy tartalmi hiba miatt visszautasította. Mind a kötegszintű, mind a
+tranzakciószintű hibákat kell jelenteni.
+Az oszlopokban a következő információkat kell szerepeltetni:
+a) A hibás tranzakciókat beküldő klíringtag MNB által kiadott bankkódja
+b) A hiba BKR szabvány szerinti kódja
+c) A hibakódhoz tartozó BKR szabvány szerinti elnevezés
+d) A hibás tranzakciók vagy kötegek darabszáma
+Nem kell jelenteni a klíringtagok ügyfeleitől (közvetlen résztvevők) közvetlenül befogadott tranzakciókat.
+04. tábla: Napi tranzakciószám és az elszámolás időtartama
+Ebben a táblában kell szerepeltetni a napi feldolgozás főbb adatait.
+Az adatszolgáltatás egyes oszlopaiba a következő információkat kell szerepeltetni:
+a) Elszámolási dátum
+b) A feldolgozott összes tranzakció darabszáma
+c) A feldolgozott összes tranzakció értéke
+d) Az első szakaszban feldolgozott tranzakciók darabszáma
+e) Az első szakaszban feldolgozott tranzakciók értéke
+f) Az első szakasz feldolgozásának kezdete
+g) Az első szakaszban küldött tranzakciók feldolgozásának befejezése
+h) Az első szakasz eredményeinek a klíringtagok elektronikus postafiókjaiba történő eljuttatásának időpontja
+i) Utolsó napvége küldése (második szakasz)
+j) Elszámolás befejezése (második szakasz)
+k) Az eredmények klíringtagok elektronikus postafiókjaiba történő eljuttatásának időpontja (második
+szakasz)
+05. tábla: Kommunikációs hibák
+Ebben a táblában a kommunikációs vonalak meghibásodásának adatait kell szerepeltetni szolgáltatónként. Nem
+tekintendő kommunikációs hibának az, ha a vonal rendelkezésre áll, de a partner nem válaszol (pl. ki van kapcsolva).
+
+Az oszlopokban az alábbi információkat kell megadni:
+a) A meghibásodott vonalat szolgáltató vállalkozás rövid neve
+b) A vonalkiesések száma (db)
+c) Az összes kiesett idő (óó:pp)
+d) Egy vonalkiesésre jutó kiesett idő(óó:pp, "c" oszlop adata osztva "b" oszlop adatával)
+e) A leghosszabb ideig tartó vonalkiesés időtartama (óó:pp)
+f) Havi rendelkezésre állási érték (%, négy tizedes pontossággal)
+06. tábla: Off-line adatforgalmazás
+Azokat az eseteket kell itt jelenteni, amelynél a klíringtag a küldését vagy fogadását nem a szokásos módon, a GIRO Rt
+által biztosított kommunikációs vonalakon keresztül, hanem bármilyen más megoldással bonyolította le.
+A c) oszlopban röviden indokolni kell, mi tette szükségessé az off-line adatforgalmazást.
+Nem kell jelenteni az olyan off-line adatforgalmazást, amely előre egyeztetett módon (pl. bankszünnap miatt) történt.
+07. tábla: Elszámolásforgalmi kommunikációs vonalak sávszélességének változása
+Itt kell jelenteni az elszámolóház által biztosított kommunikációs vonalak sávszélességét. Minden klíringtagi
+viszonylatot, illetve a Mártonffy-Vadász viszonylatot is jelenteni kell.
+Első alkalommal valamennyi vonal sávszélességét jelenteni kell, a további adatszolgáltatásokban már csak a
+változásokat kell jelenteni. Változásnak számít új vonal kiépítése, meglévő megszüntetése, meglévő vonal sávszélességének
+változása.
+Az oszlopokba az adatokat az alábbiak szerint várjuk:
+a) A kommunikációs vonalat szolgáltató vállalkozás rövid neve
+b) A GIRO - klíringtag viszonylatok esetében a klíringtag MNB által kiadott bankkódját kell itt jelenteni, a
+Vadász-Mártonffy (illetve bármely más esetleges GIRO-n belüli) viszonylat esetében a GIRO Rt számára
+az MNB által kiadott bankkódot (980)
+c) A vonal sávszélessége Kbit/sec-ben
+d) A változás jellege (pl. új vonal, megszüntetés, sávszélesség változás)
+08. tábla: Fogadó kötegek klíringtag általi késői elvitele
+Ebben a táblában kell jelenteni azokat az eseteket, amikor egy klíringtag az elkészült fogadó kötegeit (szabvány szerinti
+.020-as állományok) csak reggel 09:00 után tölti le az elektronikus postaládájából.
+A tábla oszlopait a következőképpen kell kitölteni:
+a) A késői elvitel dátuma
+b) Az az időpont, amikor a klíringtag letöltötte a fogadó kötegeit a postaládájából
+c) A klíringtag MNB által kiadott bankkódja
+d) Amennyiben a GIRO Rt számára ismert, a késői elvitel indoka
+09. tábla: Lezárt reklamációk
+Ebben a táblában kell jelenteni azokat a reklamációkat, amelyeket
+• klíringtagoktól érkeztek (vagyis pl. a kincstári intézményeké nem kell)
+• már le vannak zárva (a kivizsgálás lezárult)
+Az oszlopokban az alábbiakat kell jelenteni:
+a) A klíringtag MNB által kiadott bankkódja
+b) A reklamáció befogadásának dátuma
+c) A reklamáció rövid ismertetése
+d) A reklamáció kimenetele ("Elintézve" - a GIRO Rt-nek van/volt teendője a reklamációval kapcsolatban;
+"Elutasítva" - GIRO Rt-nek nincs/nem volt teendője a reklamációval kapcsolatban)
+e) Az elintézés/elutasítás dátuma
+
+10. tábla: Ügyfeleknél végzett javítások
+Ebben a táblában azokat az eseteket kell jelenteni, amikor szükség volt arra, hogy a GIRO Rt javításokat (hardver
+fődarabbal, illetve operációs rendszerrel, illetve az Ellenőrző blokkal kapcsolatosan) végezzenek a klíringtagoknál. Azokat
+az eseteket, amikor a GIRO Rt alkalmazottai kisebb módosításokat hajtottak végre (nem fődarabot/operációs rendszert érint,
+pl. egér cseréje), oktatási, betanítási, illetve első installációt végeztek nem kell jelenteni.
+Az f) oszlopban a klíringtag MNB által kiadott bankkódját kell jelenteni.
+A g)-h) oszlopokban a hiba, illetve a hiba javítási módjának rövid, tömör leírását kell megadni.
+11. tábla: Igénybe vett javítások
+Ebben a táblában azokat az eseteket kell jelenteni, amikor a GIRO Rt más cégek (szállítók) munkáját vette igénybe
+ahhoz, hogy az elszámolásforgalom normális működését helyreállítsa. Csak a fődarabokat, illetve az operációs rendszert
+érintő javításokat kell jelenteni. Nem kell jelenteni azokat a javításokat, szervizeket, amelyeket szerződés keretében,
+rendszeresen hajtanak végre a GIRO Rt szállítói.
+Az f) oszlopban a javítást/szervizelést végző partnercég nevét kell megadni.
+A g)-h) oszlopokban a hiba, illetve a hiba javítási módjának rövid, tömör leírását kell megadni.
+12. tábla: Az elszámolásforgalmi rendszeren végrehajtott módosítások
+Ebben a táblában az elszámolásforgalmat lebonyolító rendszerekben végrehajtott változtatásokat kell jelenteni. A
+jelentésnek tartalmaznia kell az éves beruházási tervben szereplő változtatások végrehajtását, illetve a nem tervezett
+változtatások közül a hardver fődarabok cseréjét, illetve az operációs rendszer, illetve a kifejezetten az elszámoláshoz
+fejlesztett szoftverek új verzióinak installálását.
+A b) oszlopban (A változtatás helye) M betűvel kell jelölni, ha a módosítás a Mártonffy utcai központban és V betűvel,
+ha a Vadász utcaiban történt.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+
+MNB adatgyűjtés azonosító: P40
+01. tábla: BKR küldési forgalom értékhatár szerinti megoszlása bankonként és elszámolási naponként
+0-10e 10e-100e 100e-1M 1M-5M 5M-10M 10M-20M 20M-50M 50M-100M 100M-200M
+Bank neve
+Elszámo-
+lási nap érték db érték db érték db érték db érték db érték db érték db érték db érték db
+( a táblázat folytatása)
+200M-500M 500M-1000M 1000M-1500M 1500M-2000M 2000M-5000M 5000M felett ÖSSZESEN
+érték db érték db érték db érték db érték db érték db érték db
+
+MNB adatgyűjtés azonosító: P40
+02. tábla: BKR összforgalom értékhatár szerinti megoszlása elszámolási naponként
+0-10e 10e-100e 100e-1M 1M-5M 5M-10M 10M-20M 20M-50M 50M-100M 100M-200M
+Fix
+szöveg
+Elszámo-
+lási nap érték db érték db érték db érték db érték db érték db érték db érték db érték db
+ÖSSZ
+ÖSSZ
+ÖSSZ
+ÖSSZ
+ÖSSZ
+ÖSSZ
+( a táblázat folytatása)
+200M-500M 500M-1000M 1000M-1500M 1500M-2000M 2000M-5000M 5000M felett ÖSSZESEN
+érték db érték db érték db érték db érték db érték db érték db
+
+MNB adatgyűjtés azonosító: P40
+03. tábla: BKR küldési forgalom értékhatár szerinti megoszlása bankonként
+0-10e 10e-100e 100e-1M 1M-5M 5M-10M 10M-20M 20M-50M 50M-100M 100M-200M
+Bank
+kód érték db érték db érték db érték db érték db érték db érték db érték db érték db
+( a táblázat folytatása)
+200M-500M 500M-1000M 1000M-1500M 1500M-2000M 2000M-5000M 5000M felett ÖSSZESEN
+érték db érték db érték db érték db érték db érték db érték db
+
+MNB adatgyűjtés azonosító: P40
+04. tábla: BKR forgalom értékhatár szerinti megoszlása bankonként és elszámolási naponként
+0-10e 10e-100e 100e-1M 1M-5M 5M-10M 10M-20M 20M-50M 50M-100M 100M-200M
+Fix
+szöveg
+Év hó
+érték db érték db érték db érték db érték db érték db érték db érték db érték db
+ÖSSZ
+( a táblázat folytatása)
+200M-500M 500M-1000M 1000M-1500M 1500M-2000M 2000M-5000M 5000M felett ÖSSZESEN
+érték db érték db érték db érték db érték db érték db érték db
+
+MNB adatgyűjtés azonosító: P40
+05. tábla: BKR fogadási forgalom értékhatár szerinti megoszlása bankonként és elszámolási naponként
+0-10e 10e-100e 100e-1M 1M-5M 5M-10M 10M-20M 20M-50M 50M-100M 100M-200M
+Bank
+neve
+Elszámo-
+lási nap érték db érték db érték db érték db érték db érték db érték db érték db érték db
+( a táblázat folytatása)
+200M-500M 500M-1000M 1000M-1500M 1500M-2000M 2000M-5000M 5000M felett ÖSSZESEN
+érték db érték db érték db érték db érték db érték db érték db
+
+MNB adatgyűjtés azonosító: P40
+06. tábla: BKR fogadási forgalom értékhatár szerinti megoszlása bankonként
+0-10e 10e-100e 100e-1M 1M-5M 5M-10M 10M-20M 20M-50M 50M-100M 100M-200M
+Bank
+kód érték db érték db érték db érték db érték db érték db érték db érték db érték db
+( a táblázat folytatása)
+200M-500M 500M-1000M 1000M-1500M 1500M-2000M 2000M-5000M 5000M felett ÖSSZESEN
+érték db érték db érték db érték db érték db érték db érték db
+
+MNB adatgyűjtés azonosító: P40
+07. tábla: BKR Bank-to-Bank tranzakciók elszámolási naponként
+0-10e 10e-100e 100e-1M 1M-5M 5M-10M 10M-20M 20M-50M 50M-100M 100M-200M
+Fix
+szöveg
+Év hó
+érték db érték db érték db érték db érték db érték db érték db érték db érték db
+ÖSSZ
+( a táblázat folytatása)
+200M-500M 500M-1000M 1000M-1500M 1500M-2000M 2000M-5000M 5000M felett ÖSSZESEN
+érték db érték db érték db érték db érték db érték db érték db
+
+MNB adatgyűjtés azonosító: P40
+Kitöltési útmutató
+és számítástechnikai segédlet
+BKR Statisztikák
+I. A táblák kitöltésével kapcsolatos részletes tudnivalók, az adatok összeállításának módja
+01. tábla: BKR (klíring) küldési forgalom értékhat. szerinti megoszlása bankonként és elszámolási naponként
+Ebben a táblában a küldött tranzakciókat értékhatár szerinti megbontásban kell jelenteni bankonként és azon belül
+elszámolási dátumonként.
+Fájlnév : SMNB1EHH.MNB
+Ahol: E Adott év utolsó számjegye
+HH Adott hónap két hosszon
+Mezőnév Forma Magyarázat
+Bankkód 999 A bank 3 jegyű, MNB által kiadott kódja
+Elszámolási dátum EEEE.HH.NN Elszámolási dátum
+0-10e érték 999999999999999.99 0-10e közé eső tranzakciók értéke
+0-10e db 9999999999 0-10e közé eső tranzakciók db-száma
+10e-100e érték 999999999999999.99 10e-100e közé eső tranzakciók értéke
+10e-100e db 9999999999 10e-100e közé eső tranzakciók db-száma
+100e-1M érték 999999999999999.99 100e-1M közé eső tranzakciók értéke
+100e-1M db 9999999999 100e-1M közé eső tranzakciók db-száma
+1M-5M érték 999999999999999.99 1M-5M közé eső tranzakciók értéke
+1M-5M db 9999999999 1M-5M közé eső tranzakciók db-száma
+5M-10M érték 999999999999999.99 5M-10M közé eső tranzakciók értéke
+5M-10M db 9999999999 5M-10M közé eső tranzakciók db-száma
+10M-20M érték 999999999999999.99 10M-20M közé eső tranzakciók értéke
+10M-20M db 9999999999 10M-20M közé eső tranzakciók db-száma
+20M-50M érték 999999999999999.99 20M-50M közé eső tranzakciók értéke
+20M-50M db 9999999999 20M-50M közé eső tranzakciók db-száma
+50M-100M érték 999999999999999.99 50M-100M közé eső tranzakciók értéke
+50M-100M db 9999999999 50M-100M közé eső tranzakciók db-száma
+100M-200M érték 999999999999999.99 100M-200M közé eső tranzakciók értéke
+100M-200M db 9999999999 100M-200M közé eső tranzakciók db-száma
+200M-500M érték 999999999999999.99 200M-500M közé eső tranzakciók értéke
+200M-500M db 9999999999 200M-500M közé eső tranzakciók db-száma
+500M-1000M érték 999999999999999.99 500M-1000M közé eső tranzakciók értéke
+500M-1000M db 9999999999 500M-1000M közé eső tranzakciók db-száma
+1000M-1500M érték 999999999999999.99 1000M-1500M közé eső tranzakciók értéke
+1000M-1500M db 9999999999 1000M-1500M közé eső tranzakciók db-száma
+1500M-2000M érték 999999999999999.99 1500M-2000M közé eső tranzakciók értéke
+1500M-2000M db 9999999999 1500M-2000M közé eső tranzakciók db-száma
+2000M-5000M érték 999999999999999.99 2000M-5000M közé eső tranzakciók értéke
+2000M-5000M db 9999999999 2000M-5000M közé eső tranzakciók db-száma
+5000M felett érték 999999999999999.99 5000M felett közé eső tranzakciók értéke
+5000M felett db 9999999999 5000M felett közé eső tranzakciók db-száma
+Soremelés CR/LF Soremelő karakterek (2 byte)
+
+AKAT1-AKAT15 küldött összegek,
+TKAT1-TKAT15 küldött tranzakciók száma az adott értékhatárok között.
+Összegzett tranzakciók típusai:
+• Egyedi megbízás (001-00)
+• Egyedi megbízás - közvetlen jóváírás (001-01)
+• Egyedi megbízás - okmányos meghitelezés (001-02)
+• Egyedi azonnali beszedési megbízás - teljesítése (002-00)
+• Váltóbeszedési megbízás teljesítése (002-01)
+• Csekkbeszedési megbízás teljesítése (002-02)
+• Egyedi határidős beszedési megbízás (003-00)
+• Egyedi megbízás visszautasítása (201-00)
+• Egyedi megbízás – közvetlen jóváírás visszautasítása (201-01)
+• Egyedi megbízás – okmányos meghitelezés visszautasítása (201-02)
+• Egyedi azonnali beszedési megbízás – teljesítésének visszautasítása (202-00)
+• Váltóbeszedési megbízás teljesítésének visszautasítása (202-01)
+• Csekkbeszedési megbízás teljesítésének visszautasítása (202-02)
+• Egyedi határidős beszedési megbízás visszautasítása (203-00)
+02.tábla: BKR (klíring) összforgalom értékhatár szerinti megoszlása elszámolási naponként
+Fájlnév : SMNB2EHH.MNB
+Ahol: E Adott év utolsó számjegye
+HH Adott hónap két hosszon
+Ebben a táblában a küldött tranzakciókat értékhatár szerinti megbontásban kell jelenteni elszámolási naponként.
+Mezőnév Forma Magyarázat
+ÖSSZ XXXX Fix szöveg: "ÖSSZ"
+Elszámolási dátum EEEE.HH.NN Elszámolási dátum
+0-10e érték 999999999999999.99 0-10e közé eső tranzakciók értéke
+0-10e db 9999999999 0-10e közé eső tranzakciók db-száma
+10e-100e érték 999999999999999.99 10e-100e közé eső tranzakciók értéke
+10e-100e db 9999999999 10e-100e közé eső tranzakciók db-száma
+100e-1M érték 999999999999999.99 100e-1M közé eső tranzakciók értéke
+100e-1M db 9999999999 100e-1M közé eső tranzakciók db-száma
+1M-5M érték 999999999999999.99 1M-5M közé eső tranzakciók értéke
+1M-5M db 9999999999 1M-5M közé eső tranzakciók db-száma
+5M-10M érték 999999999999999.99 5M-10M közé eső tranzakciók értéke
+5M-10M db 9999999999 5M-10M közé eső tranzakciók db-száma
+10M-20M érték 999999999999999.99 10M-20M közé eső tranzakciók értéke
+10M-20M db 9999999999 10M-20M közé eső tranzakciók db-száma
+20M-50M érték 999999999999999.99 20M-50M közé eső tranzakciók értéke
+20M-50M db 9999999999 20M-50M közé eső tranzakciók db-száma
+
+50M-100M érték 999999999999999.99 50M-100M közé eső tranzakciók értéke
+50M-100M db 9999999999 50M-100M közé eső tranzakciók db-száma
+100M-200M érték 999999999999999.99 100M-200M közé eső tranzakciók értéke
+100M-200M db 9999999999 100M-200M közé eső tranzakciók db-száma
+200M-500M érték 999999999999999.99 200M-500M közé eső tranzakciók értéke
+200M-500M db 9999999999 200M-500M közé eső tranzakciók db-száma
+500M-1000M érték 999999999999999.99 500M-1000M közé eső tranzakciók értéke
+500M-1000M db 9999999999 500M-1000M közé eső tranzakciók db-száma
+1000M-1500M érték 999999999999999.99 1000M-1500M közé eső tranzakciók értéke
+1000M-1500M db 9999999999 1000M-1500M közé eső tranzakciók db-száma
+1500M-2000M érték 999999999999999.99 1500M-2000M közé eső tranzakciók értéke
+1500M-2000M db 9999999999 1500M-2000M közé eső tranzakciók db-száma
+2000M-5000M érték 999999999999999.99 2000M-5000M közé eső tranzakciók értéke
+2000M-5000M db 9999999999 2000M-5000M közé eső tranzakciók db-száma
+5000M felett érték 999999999999999.99 5000M felett közé eső tranzakciók értéke
+5000M felett db 9999999999 5000M felett közé eső tranzakciók db-száma
+Soremelés CR/LF Soremelő karakterek (2 byte)
+AKAT1-AKAT15 küldött összegek
+TKAT1-TKAT15 küldött tranzakciók száma
+Összegzett tranzakciók típusai
+• Egyedi megbízás (001-00)
+• Egyedi megbízás – közvetlen jóváírás (001-01)
+• Egyedi megbízás – okmányos meghitelezés (001-02)
+• Egyedi azonnali beszedési megbízás - teljesítése (002-00)
+• Váltóbeszedési megbízás teljesítése (002-01)
+• Csekkbeszedési megbízás teljesítése (002-02)
+• Egyedi határidős beszedési megbízás (003-00)
+• Egyedi megbízás visszautasítása (201-00)
+• Egyedi megbízás – közvetlen jóváírás visszautasítása (201-01)
+• Egyedi megbízás – okmányos meghitelezés visszautasítása (201-02)
+• Egyedi azonnali beszedési megbízás - teljesítésének visszautasítása (202-00)
+• Váltóbeszedési megbízás teljesítésének visszautasítása (202-01)
+• Csekkbeszedési megbízás teljesítésének visszautasítása (202-02)
+• Egyedi határidős beszedési megbízás visszautasítása (203-00)
+
+03.tábla BKR (klíring) küldési forgalom értékhatár szerinti megoszlása bankonként
+Fájlnév : SMNB3EHH.MNB
+Ahol: E Adott év utolsó számjegye
+HH Adott hónap két hosszon
+Ebben a táblában a küldött tranzakciókat értékhatár szerinti megbontásban kell jelenteni bankonként.
+Mezőnév Forma Magyarázat
+Bankkód 999 A bank 3 jegyű, MNB által kiadott kódja
+0-10e érték 999999999999999.99 0-10e közé eső tranzakciók értéke
+0-10e db 9999999999 0-10e közé eső tranzakciók db-száma
+10e-100e érték 999999999999999.99 10e-100e közé eső tranzakciók értéke
+10e-100e db 9999999999 10e-100e közé eső tranzakciók db-száma
+100e-1M érték 999999999999999.99 100e-1M közé eső tranzakciók értéke
+100e-1M db 9999999999 100e-1M közé eső tranzakciók db-száma
+1M-5M érték 999999999999999.99 1M-5M közé eső tranzakciók értéke
+1M-5M db 9999999999 1M-5M közé eső tranzakciók db-száma
+5M-10M érték 999999999999999.99 5M-10M közé eső tranzakciók értéke
+5M-10M db 9999999999 5M-10M közé eső tranzakciók db-száma
+10M-20M érték 999999999999999.99 10M-20M közé eső tranzakciók értéke
+10M-20M db 9999999999 10M-20M közé eső tranzakciók db-száma
+20M-50M érték 999999999999999.99 20M-50M közé eső tranzakciók értéke
+20M-50M db 9999999999 20M-50M közé eső tranzakciók db-száma
+50M-100M érték 999999999999999.99 50M-100M közé eső tranzakciók értéke
+50M-100M db 9999999999 50M-100M közé eső tranzakciók db-száma
+100M-200M érték 999999999999999.99 100M-200M közé eső tranzakciók értéke
+100M-200M db 9999999999 100M-200M közé eső tranzakciók db-száma
+200M-500M érték 999999999999999.99 200M-500M közé eső tranzakciók értéke
+200M-500M db 9999999999 200M-500M közé eső tranzakciók db-száma
+500M-1000M érték 999999999999999.99 500M-1000M közé eső tranzakciók értéke
+500M-1000M db 9999999999 500M-1000M közé eső tranzakciók db-száma
+1000M-1500M érték 999999999999999.99 1000M-1500M közé eső tranzakciók értéke
+1000M-1500M db 9999999999 1000M-1500M közé eső tranzakciók db-száma
+1500M-2000M érték 999999999999999.99 1500M-2000M közé eső tranzakciók értéke
+1500M-2000M db 9999999999 1500M-2000M közé eső tranzakciók db-száma
+2000M-5000M érték 999999999999999.99 2000M-5000M közé eső tranzakciók értéke
+2000M-5000M db 9999999999 2000M-5000M közé eső tranzakciók db-száma
+5000M felett érték 999999999999999.99 5000M felett közé eső tranzakciók értéke
+5000M felett db 9999999999 5000M felett közé eső tranzakciók db-száma
+Soremelés CR/LF Soremelő karakterek (2 byte)
+AKAT1-AKAT15 küldött összegek
+TKAT1-TKAT15 küldött tranzakciók száma
+
+Összegzett tranzakciók típusai:
+• Egyedi megbízás (001-00)
+• Egyedi megbízás - közvetlen jóváírás (001-01)
+• Egyedi megbízás - okmányos meghitelezés (001-02)
+• Egyedi azonnali beszedési megbízás - teljesítése (002-00)
+• Váltóbeszedési megbízás teljesítése (002-01)
+• Csekkbeszedési megbízás teljesítése (002-02)
+• Egyedi határidős beszedési megbízás (003-00)
+• Egyedi megbízás visszautasítása (201-00)
+• Egyedi megbízás - közvetlen jóváírás visszautasítása (201-01)
+• Egyedi megbízás - okmányos meghitelezés visszautasítása (201-02)
+• Egyedi azonnali beszedési megbízás - teljesítésének visszautasítása (202-00)
+• Váltóbeszedési megbízás teljesítésének visszautasítása (202-01)
+• Csekkbeszedési megbízás teljesítésének visszautasítása (202-02)
+• Egyedi határidős beszedési megbízás visszautasítása (203-00)
+04.tábla: BKR (klíring) forgalom értékhatár szerint megoszlása
+Fájlnév : SMNB4EHH.MNB
+Ahol: E Adott év utolsó számjegye
+HH Adott hónap két hosszon
+Ebben a táblában a küldött tranzakciókat értékhatár szerinti megbontásban kell jelenteni egyetlen sorban (havi összesen).
+Mezőnév Forma Magyarázat
+ÖSSZ XXXX Fix szöveg: "ÖSSZ"
+Elszámolás évhó EEEE.HH Elszámolási év, hónap
+0-10e érték 999999999999999.99 0-10e közé eső tranzakciók értéke
+0-10e db 9999999999 0-10e közé eső tranzakciók db-száma
+10e-100e érték 999999999999999.99 10e-100e közé eső tranzakciók értéke
+10e-100e db 9999999999 10e-100e közé eső tranzakciók db-száma
+100e-1M érték 999999999999999.99 100e-1M közé eső tranzakciók értéke
+100e-1M db 9999999999 100e-1M közé eső tranzakciók db-száma
+1M-5M érték 999999999999999.99 1M-5M közé eső tranzakciók értéke
+1M-5M db 9999999999 1M-5M közé eső tranzakciók db-száma
+5M-10M érték 999999999999999.99 5M-10M közé eső tranzakciók értéke
+5M-10M db 9999999999 5M-10M közé eső tranzakciók db-száma
+10M-20M érték 999999999999999.99 10M-20M közé eső tranzakciók értéke
+10M-20M db 9999999999 10M-20M közé eső tranzakciók db-száma
+20M-50M érték 999999999999999.99 20M-50M közé eső tranzakciók értéke
+20M-50M db 9999999999 20M-50M közé eső tranzakciók db-száma
+50M-100M érték 999999999999999.99 50M-100M közé eső tranzakciók értéke
+50M-100M db 9999999999 50M-100M közé eső tranzakciók db-száma
+
+100M-200M érték 999999999999999.99 100M-200M közé eső tranzakciók értéke
+100M-200M db 9999999999 100M-200M közé eső tranzakciók db-száma
+200M-500M érték 999999999999999.99 200M-500M közé eső tranzakciók értéke
+200M-500M db 9999999999 200M-500M közé eső tranzakciók db-száma
+500M-1000M érték 999999999999999.99 500M-1000M közé eső tranzakciók értéke
+500M-1000M db 9999999999 500M-1000M közé eső tranzakciók db-száma
+1000M-1500M érték 999999999999999.99 1000M-1500M közé eső tranzakciók értéke
+1000M-1500M db 9999999999 1000M-1500M közé eső tranzakciók db-száma
+1500M-2000M érték 999999999999999.99 1500M-2000M közé eső tranzakciók értéke
+1500M-2000M db 9999999999 1500M-2000M közé eső tranzakciók db-száma
+2000M-5000M érték 999999999999999.99 2000M-5000M közé eső tranzakciók értéke
+2000M-5000M db 9999999999 2000M-5000M közé eső tranzakciók db-száma
+5000M felett érték 999999999999999.99 5000M felett közé eső tranzakciók értéke
+5000M felett db 9999999999 5000M felett közé eső tranzakciók db-száma
+Soremelés CR/LF Soremelő karakterek (2 byte)
+AKAT1-AKAT15 küldött összegek
+TKAT1-TKAT15 küldött tranzakciók száma
+Összegzett tranzakciók típusai:
+• Egyedi megbízás (001-00)
+• Egyedi megbízás - közvetlen jóváírás (001-01)
+• Egyedi megbízás - okmányos meghitelezés (001-02)
+• Egyedi azonnali beszedési megbízás - teljesítése (002-00)
+• Váltóbeszedési megbízás teljesítése (002-01)
+• Csekkbeszedési megbízás teljesítése (002-02)
+• Egyedi határidős beszedési megbízás (003-00)
+• Egyedi megbízás visszautasítása (201-00)
+• Egyedi megbízás - közvetlen jóváírás visszautasítása (201-01)
+• Egyedi megbízás - okmányos meghitelezés visszautasítása (201-02)
+• Egyedi azonnali beszedési megbízás - teljesítésének visszautasítása (202-00)
+• Váltóbeszedési megbízás teljesítésének visszautasítása (202-01)
+• Csekkbeszedési megbízás teljesítésének visszautasítása (202-02)
+• Egyedi határidős beszedési megbízás visszautasítása (203-00)
+
+05.tábla: BKR (klíring) fogadási forg. értékhat. szerinti megoszlása bankonként és elsz. naponként
+Fájlnév : RMNB1EHH.MNB
+Ahol: E Adott év utolsó számjegye
+HH Adott hónap két hosszon
+Ebben a táblában a fogadott tranzakciókat értékhatár szerinti megbontásban kell jelenteni bankonként és azon belül
+elszámolási dátumonként.
+Mezőnév Forma Magyarázat
+Bankkód 999 A bank 3 jegyű, MNB által kiadott kódja
+Elszámolási dátum EEEE.HH.NN Elszámolási dátum
+0-10e érték 999999999999999.99 0-10e közé eső tranzakciók értéke
+0-10e db 9999999999 0-10e közé eső tranzakciók db-száma
+10e-100e érték 999999999999999.99 10e-100e közé eső tranzakciók értéke
+10e-100e db 9999999999 10e-100e közé eső tranzakciók db-száma
+100e-1M érték 999999999999999.99 100e-1M közé eső tranzakciók értéke
+100e-1M db 9999999999 100e-1M közé eső tranzakciók db-száma
+1M-5M érték 999999999999999.99 1M-5M közé eső tranzakciók értéke
+1M-5M db 9999999999 1M-5M közé eső tranzakciók db-száma
+5M-10M érték 999999999999999.99 5M-10M közé eső tranzakciók értéke
+5M-10M db 9999999999 5M-10M közé eső tranzakciók db-száma
+10M-20M érték 999999999999999.99 10M-20M közé eső tranzakciók értéke
+10M-20M db 9999999999 10M-20M közé eső tranzakciók db-száma
+20M-50M érték 999999999999999.99 20M-50M közé eső tranzakciók értéke
+20M-50M db 9999999999 20M-50M közé eső tranzakciók db-száma
+50M-100M érték 999999999999999.99 50M-100M közé eső tranzakciók értéke
+50M-100M db 9999999999 50M-100M közé eső tranzakciók db-száma
+100M-200M érték 999999999999999.99 100M-200M közé eső tranzakciók értéke
+100M-200M db 9999999999 100M-200M közé eső tranzakciók db-száma
+200M-500M érték 999999999999999.99 200M-500M közé eső tranzakciók értéke
+200M-500M db 9999999999 200M-500M közé eső tranzakciók db-száma
+500M-1000M érték 999999999999999.99 500M-1000M közé eső tranzakciók értéke
+500M-1000M db 9999999999 500M-1000M közé eső tranzakciók db-száma
+1000M-1500M érték 999999999999999.99 1000M-1500M közé eső tranzakciók értéke
+1000M-1500M db 9999999999 1000M-1500M közé eső tranzakciók db-száma
+1500M-2000M érték 999999999999999.99 1500M-2000M közé eső tranzakciók értéke
+1500M-2000M db 9999999999 1500M-2000M közé eső tranzakciók db-száma
+2000M-5000M érték 999999999999999.99 2000M-5000M közé eső tranzakciók értéke
+2000M-5000M db 9999999999 2000M-5000M közé eső tranzakciók db-száma
+5000M felett érték 999999999999999.99 5000M felett közé eső tranzakciók értéke
+5000M felett db 9999999999 5000M felett közé eső tranzakciók db-száma
+Soremelés CR/LF Soremelő karakterek (2 byte)
+AKAT1-AKAT15 fogadott összegek,
+TKAT1-TKAT15 fogadott tranzakciók száma az adott értékhatárok között.
+
+Összegzett tranzakciók típusai:
+• Egyedi megbízás (001-00)
+• Egyedi megbízás - közvetlen jóváírás (001-01)
+• Egyedi megbízás - okmányos meghitelezés (001-02)
+• Egyedi azonnali beszedési megbízás - teljesítése (002-00)
+• Váltóbeszedési megbízás teljesítése (002-01)
+• Csekkbeszedési megbízás teljesítése (002-02)
+• Egyedi határidős beszedési megbízás (003-00)
+• Egyedi megbízás visszautasítása (201-00)
+• Egyedi megbízás - közvetlen jóváírás visszautasítása (201-01)
+• Egyedi megbízás - okmányos meghitelezés visszautasítása (201-02)
+• Egyedi azonnali beszedési megbízás - teljesítésének visszautasítása (202-00)
+• Váltóbeszedési megbízás teljesítésének visszautasítása (202-01)
+• Csekkbeszedési megbízás teljesítésének visszautasítása (202-02)
+• Egyedi határidős beszedési megbízás visszautasítása (203-00)
+06. tábla: BKR (klíring) forgalom értékhatár szerinti megoszlása bankonként
+Fájlnév : RMNB3EHH.MNB
+Ahol: E Adott év utolsó számjegye
+HH Adott hónap két hosszon
+Ebben a táblában a fogadott tranzakciókat értékhatár szerinti megbontásban kell jelenteni bankonként.
+Mezőnév Forma Magyarázat
+Bankkód 999 A bank 3 jegyű, MNB által kiadott kódja
+0-10e érték 999999999999999.99 0-10e közé eső tranzakciók értéke
+0-10e db 9999999999 0-10e közé eső tranzakciók db-száma
+10e-100e érték 999999999999999.99 10e-100e közé eső tranzakciók értéke
+10e-100e db 9999999999 10e-100e közé eső tranzakciók db-száma
+100e-1M érték 999999999999999.99 100e-1M közé eső tranzakciók értéke
+100e-1M db 9999999999 100e-1M közé eső tranzakciók db-száma
+1M-5M érték 999999999999999.99 1M-5M közé eső tranzakciók értéke
+1M-5M db 9999999999 1M-5M közé eső tranzakciók db-száma
+5M-10M érték 999999999999999.99 5M-10M közé eső tranzakciók értéke
+5M-10M db 9999999999 5M-10M közé eső tranzakciók db-száma
+10M-20M érték 999999999999999.99 10M-20M közé eső tranzakciók értéke
+10M-20M db 9999999999 10M-20M közé eső tranzakciók db-száma
+20M-50M érték 999999999999999.99 20M-50M közé eső tranzakciók értéke
+20M-50M db 9999999999 20M-50M közé eső tranzakciók db-száma
+50M-100M érték 999999999999999.99 50M-100M közé eső tranzakciók értéke
+50M-100M db 9999999999 50M-100M közé eső tranzakciók db-száma
+100M-200M érték 999999999999999.99 100M-200M közé eső tranzakciók értéke
+100M-200M db 9999999999 100M-200M közé eső tranzakciók db-száma
+200M-500M érték 999999999999999.99 200M-500M közé eső tranzakciók értéke
+200M-500M db 9999999999 200M-500M közé eső tranzakciók db-száma
+500M-1000M érték 999999999999999.99 500M-1000M közé eső tranzakciók értéke
+500M-1000M db 9999999999 500M-1000M közé eső tranzakciók db-száma
+1000M-1500M érték 999999999999999.99 1000M-1500M közé eső tranzakciók értéke
+
+1000M-1500M db 9999999999 1000M-1500M közé eső tranzakciók db-száma
+1500M-2000M érték 999999999999999.99 1500M-2000M közé eső tranzakciók értéke
+1500M-2000M db 9999999999 1500M-2000M közé eső tranzakciók db-száma
+2000M-5000M érték 999999999999999.99 2000M-5000M közé eső tranzakciók értéke
+2000M-5000M db 9999999999 2000M-5000M közé eső tranzakciók db-száma
+5000M felett érték 999999999999999.99 5000M felett közé eső tranzakciók értéke
+5000M felett db 9999999999 5000M felett közé eső tranzakciók db-száma
+Soremelés CR/LF Soremelő karakterek (2 byte)
+AKAT1-AKAT15 fogadott összegek
+TKAT1-TKAT15 fogadott tranzakciók száma
+Összegzett tranzakciók típusai:
+• Egyedi megbízás (001-00)
+• Egyedi megbízás - közvetlen jóváírás (001-01)
+• Egyedi megbízás - okmányos meghitelezés (001-02)
+• Egyedi azonnali beszedési megbízás - teljesítése (002-00)
+• Váltóbeszedési megbízás teljesítése (002-01)
+• Csekkbeszedési megbízás teljesítése (002-02)
+• Egyedi határidős beszedési megbízás (003-00)
+• Egyedi megbízás visszautasítása (201-00)
+• Egyedi megbízás - közvetlen jóváírás visszautasítása (201-01)
+• Egyedi megbízás - okmányos meghitelezés visszautasítása (201-02)
+• Egyedi azonnali beszedési megbízás - teljesítésének visszautasítása (202-00)
+• Váltóbeszedési megbízás teljesítésének visszautasítása (202-01)
+• Csekkbeszedési megbízás teljesítésének visszautasítása (202-02)
+• Egyedi határidős beszedési megbízás visszautasítása (203-00)
+
+07.tábla: BKR Bank-to-Bank tranzakciók elszámolási naponként
+Fájlnév : SBMNB2EHH.MNB
+Ahol: E Adott év utolsó számjegye
+HH Adott hónap két hosszon
+Ebben a táblában a bank-to-bank tranzakciókat értékhatár szerinti megbontásban kell jelenteni elszámolási dátumonként.
+Mezőnév Forma Magyarázat
+ÖSSZ XXXX Fix szöveg: "ÖSSZ"
+Elszámolási dátum EEEE.HH.NN Elszámolási dátum
+0-10e érték 999999999999999.99 0-10e közé eső tranzakciók értéke
+0-10e db 9999999999 0-10e közé eső tranzakciók db-száma
+10e-100e érték 999999999999999.99 10e-100e közé eső tranzakciók értéke
+10e-100e db 9999999999 10e-100e közé eső tranzakciók db-száma
+100e-1M érték 999999999999999.99 100e-1M közé eső tranzakciók értéke
+100e-1M db 9999999999 100e-1M közé eső tranzakciók db-száma
+1M-5M érték 999999999999999.99 1M-5M közé eső tranzakciók értéke
+1M-5M db 9999999999 1M-5M közé eső tranzakciók db-száma
+5M-10M érték 999999999999999.99 5M-10M közé eső tranzakciók értéke
+5M-10M db 9999999999 5M-10M közé eső tranzakciók db-száma
+10M-20M érték 999999999999999.99 10M-20M közé eső tranzakciók értéke
+10M-20M db 9999999999 10M-20M közé eső tranzakciók db-száma
+20M-50M érték 999999999999999.99 20M-50M közé eső tranzakciók értéke
+20M-50M db 9999999999 20M-50M közé eső tranzakciók db-száma
+50M-100M érték 999999999999999.99 50M-100M közé eső tranzakciók értéke
+50M-100M db 9999999999 50M-100M közé eső tranzakciók db-száma
+100M-200M érték 999999999999999.99 100M-200M közé eső tranzakciók értéke
+100M-200M db 9999999999 100M-200M közé eső tranzakciók db-száma
+200M-500M érték 999999999999999.99 200M-500M közé eső tranzakciók értéke
+200M-500M db 9999999999 200M-500M közé eső tranzakciók db-száma
+500M-1000M érték 999999999999999.99 500M-1000M közé eső tranzakciók értéke
+500M-1000M db 9999999999 500M-1000M közé eső tranzakciók db-száma
+1000M-1500M érték 999999999999999.99 1000M-1500M közé eső tranzakciók értéke
+1000M-1500M db 9999999999 1000M-1500M közé eső tranzakciók db-száma
+1500M-2000M érték 999999999999999.99 1500M-2000M közé eső tranzakciók értéke
+1500M-2000M db 9999999999 1500M-2000M közé eső tranzakciók db-száma
+2000M-5000M érték 999999999999999.99 2000M-5000M közé eső tranzakciók értéke
+2000M-5000M db 9999999999 2000M-5000M közé eső tranzakciók db-száma
+5000M felett érték 999999999999999.99 5000M felett közé eső tranzakciók értéke
+5000M felett db 9999999999 5000M felett közé eső tranzakciók db-száma
+Soremelés CR/LF Soremelő karakterek (2 byte)
+
+AKAT1-AKAT15 küldött összegek
+TKAT1-TKAT15 küldött tranzakciók száma
+Összegzett tranzakciók típusa:
+• Bank to Bank átutalási megbízás (082-00)
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: GiroXMail
+A beküldés formája: MNB szabványos (text) fájl
+Az adatszolgáltatás címzettje: MNB
+MNB adatgyűjtés azonosító: W01
+Kitöltési útmutató
+A hitelintézetek által a közgyűlés elé terjesztett éves beszámoló
+I. Általános tudnivalók
+A jelentés tartalma: mérleg, eredménykimutatás, kiegészítő melléklet, üzleti jelentés, auditori jelentés
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: postai úton
+A beküldés formája: papír
+Az adatszolgáltatás címzettje: MNB Pénzügyi stabilitási főosztály
+MNB adatgyűjtés azonosító: W02
+Kitöltési útmutató
+Konszolidált éves beszámoló
+I. Általános tudnivalók
+A jelentés tartalma: mérleg, eredménykimutatás, kiegészítő melléklet, üzleti jelentés, könyvvizsgálói jelentés
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: postai úton
+A beküldés formája: papír
+Az adatszolgáltatás címzettje: MNB Pénzügyi stabilitási főosztály
+
+MNB adatgyűjtés azonosító: W03
+A közgyűlésről készült jegyzőkönyv
+I. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: postai úton
+A beküldés formája: papír
+Az adatszolgáltatás címzettje: MNB Pénzügyi stabilitási főosztály
+MNB adatgyűjtés azonosító: W04
+A rendkívüli közgyűlésről készült jegyzőkönyv
+I. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: postai úton
+A beküldés formája: papír
+Az adatszolgáltatás címzettje: MNB Pénzügyi stabilitási főosztály
+MNB adatgyűjtés azonosító: W05
+Kitöltési útmutató
+A hitelintézetek rendszeres negyedéves beszámolója
+I. Általános tudnivalók
+A jelentésben azokat az információkat kell részletezni, amelyek a pénzügyi adatokat tartalmazó jelentésekből nem
+állapíthatóak meg, azaz a számszaki változások mögötti folyamatokat, tendenciákat, a változást előidéző okokat, üzleti
+döntéseket. Emellett a beszámoló részét képező néhány témakör az Európai Központi Bank részére rendszeresen készítendő
+országjelentéshez biztosít információkat.
+A jelentés elkészítésénél, a folyamatok elemzésénél az év elejétől bekövetkezett változásokra, azok okaira kell
+koncentrálni, kiemelve az adott negyedévben tapasztalt sajátosságokat.
+II. Az adatok összeállításának módja
+A. Eszköz-Forrás struktúra alakulása, piaci növekedés
+1. Melyek a hitelintézet eszköz- és forrásszerkezetében bekövetkezett fontosabb változások okai üzletáganként:
+– nem pénzügyi vállalati üzletág
+– háztartások
+– pénzügyi közvetítők.
+2. Ismertetni kell az ügyfelek hitelkeresletéről, hitelfelvételi preferenciáiról (forint, ill. devizahitelek; rövid, ill. hosszú
+lejáratú hitelek), likviditásáról, jövedelmi helyzetéről, szezonális pénzszükségletéről szerzett fontosabb
+tapasztalatokat.
+3. Részletezni kell az egyes ágazatok, szektorok, termékek súlyának fontosabb változását a negyedév során, valamint
+hogy az előző időszakban bevezetett üzleti intézkedéseknek milyen hatása érvényesült a tárgynegyedévben (pl. új
+termék bevezetése).
+4. Ismertetni kell a hitelintézetnek a KKV-ki hitelkereslete, hitelezése, számlavezetése, betét elhelyezése, a bevezetett
+speciális konstrukciókkal kapcsolatos tapasztalatait.
+i A KKV-k fogalma megegyezik a számszaki jelentésekben használt kategóriákkal.
+
+5. A konzorciálisan, illetve lebonyolításra nyújtott hitelek adatairól (az ügyfél neve, konzorcium szervezés esetén a többi
+résztvevő bank neve, a hitelnyújtás devizaneme, a bank felé fennálló tartozás összege devizában és forintban, a saját
+hitelkeret devizaneme, a saját hitelkeret teljes összege devizában, forintban, a még le nem hívott összeg devizában,
+forintban, a kötés és a lejárat ideje) tájékoztatást kell adni. A konzorcium keretében kapott forrásokat (hiteleket) is -
+nevesítve - ismertetni kell.
+6. A hitelintézetnek tájékoztatást kell adni, hogy az eszköz oldali aktivitás bővülést milyen jellegű forrásbevonással
+finanszírozta.
+7. Melyek az ügyfelek közvetlen külföldi hitelfelvételéről (a volumenváltozás okairól) szerzett tapasztalatok.
+8. Melyek a hitelintézet devizában folytatott tevékenységének jellemzői? (Pl. tevékenység a belföldi devizapiacon és
+tapasztalatai, a külföldi banki hitelfelvétel tapasztalatai, hitelintézetnek az anya-, a testvér bankokkal,
+vállalkozásokkal kapcsolatos tevékenysége, ügyletei stb.)
+9. Ismertetni kell a hitelintézet pénzpiaci és határidős üzletágainak főbb jellemzőit (a pénzpiaci kihelyezésben,
+forrásszerzésben, ill. a határidős partnerekben, kondíciókban bekövetkezett változások indoklása).
+10. A hitelintézetnek ismertetni kell, hogy a kereskedési céllal vásárolt értékpapír-állományból milyen jellegű,
+kibocsátású és értékű értékpapírt csoportosítottak át a befektetési célú értékpapírok (esetleg vagyoni érdekeltségek)
+közé, és az átminősítésnek mi volt az oka.
+11. Tájékoztatást kell adni arról, hogy a pénzügyi intézmény mikor és milyen névértékű saját részvényeket vásárolt
+vissza, illetve milyen jellegű tranzakciókat hajtottak végre a saját részvényekkel.
+12. Hogyan valósultak meg a főbb eszköz- és forrástételek alakulására vonatkozó tervek az időszak során.
+B. A portfolió minősége, értékvesztés, céltartalék alakulása
+1. Tájékoztatást kell adni a hitelintézet minősített eszköz- (főleg a hitel-) állományának, valamint az értékvesztés, illetve
+a céltartalék változásának fontosabb tényezőiről és okairól.
+C. Jövedelmezőség alakulása
+1. Részletezni kell, hogy a hitelintézet eredménye összetevőinek alakulásában milyen főbb tényezők, nagyobb
+tranzakciók játszottak szerepet.
+2. Ismertetni kell, hogy az államilag támogatott lakáshitelekkel kapcsolatos egyes jövedelemtételek hogyan, milyen
+nagyságrendben befolyásolták a bank jövedelmezőségét.
+3. Melyek voltak a hitelintézetnél a tárgynegyedévben a legfontosabb kamatpolitikai döntések és mi indokolta ezeket?
+Részletezni kell az árfolyam- és kamatváltozásoknak a pénzügyi intézmény mérlegére gyakorolt hatását (a kamatok és
+jutalékok változásainak okait és módját, eredményre való hatását).
+4. A hitelintézetnek szükséges részletesen ismertetni, hogy az egyéb (máshol nem szereplő egyéb), valamint a rendkívüli
+ráfordítások és bevételek főbb tételei miből adódtak.
+5. Ismertetni kell a hitelintézet költségeinek alakulására ható főbb tényezőket, kiemelve a jelentősebb költségtételeket.
+6. Ki kell térni a hitelintézet által elszámolt eszközeladások, veszteségleírások alakulására, azok okaira, valamint a
+pénzügyi intézmény eredményére gyakorolt hatására (az azokból eredő összes bevétel, értékvesztés és visszaírás
+bemutatásával).
+7. A hitelintézetnek értékelni kell a jövedelmezőségre vonatkozó terv teljesülését, alakulását. Melyek a hitelintézet
+vezetésének jövedelmezőségre vonatkozó további elképzelései?
+D. Tőkehelyzet alakulása
+1. Rövid szöveges magyarázatot kell adni arra vonatkozóan, hogy a jegyzett, illetve a szavatoló tőke, valamint a
+fizetőképességi mutató változás miért következett be, és jelentős negatív elmozdulás esetén mit tesz annak érdekében
+a hitelintézet, hogy a kialakult helyzeten érdemben változtasson.
+E. Üzletpolitikai, banküzemi döntések
+1. Milyen új üzletágakat, termékeket, szolgáltatásokat vezetett be a hitelintézet a tárgynegyedévben, melyek a további
+tervek, elképzelések?
+2. Milyen jelentősebb fejlesztéseket hajtott végre a hitelintézet a tárgynegyedévben, és melyek a következő negyedévi
+tervek? (Pl. számviteli-, információs rendszer bővítése stb.)
+3. Milyen főbb szervezeti változás történt a hitelintézetnél? (Pl. univerzális banki tevékenység bevezetése stb.)
+Outsourcing esetén a kiszervezett tevékenységek típusainak bemutatása.
+4. Milyen főbb változások történtek az elosztási csatornák fejlesztését illetően (Pl. fiókhálózat fejlesztések, speciális
+fiókok létrehozása, internet banking, telefon banking fejlesztések). Milyen változások tapasztalhatók az egyes
+ügyfeleknél, ügyféltípusoknál a különböző elosztási csatornák igénybevételét illetően.
+
+F. Kockázatkezelés
+1. A kockázatok mérése, kezelése területén az egyes kockázattípusoknál (hitelezési-, piaci-, likviditási-, elszámolási-,
+működési kockázat) milyen új kockázatmérési eszközök, technikák, módszerek kerültek bevezetésre a bankon, illetve
+a bankcsoportonii belül. Milyen új kockázatcsökkentő eszközöket vezettek be (pl. értékpapírosítás, speciális
+biztosítékok, biztosítások.)
+2. Milyen a bankon, illetve bankcsoporton belüli szervezeti, belső szabályozási változások történtek a hatékonyabb
+kockázatmenedzselés érdekében.
+G. Vállalatirányítás (corporate governance)
+1. A hatékony corporate governance erősítése céljából milyen intézkedések történtek az elmúlt időszakban. (Pl.
+szervezeti változások a managementben, az igazgatóságban, az FB-ben, a kockázatok felmérésével, ellenőrzésével
+foglalkozó speciális bizottságokban - pl. ALCO, Hitelezési Bizottság stb. -, a banki szervezetben.)
+H. Bankcsoport
+1. A bankcsoporthoz tartozó, illetve a bankcsoporthoz nem tartozó, de a hitelintézettel stratégiai kapcsolatban lévő (pl.
+közös anyabankjuk van, közös külföldi anyabankhoz tartoznak, a bank közvetett tulajdonában vannak stb.) nem banki
+pénzügyi közvetítőkkel (biztosítók, befektetési alapok, nyugdíjpénztár, pénzügyi- és befektetési vállalkozások) való
+együttműködés jellemzői (üzletpolitika, közös tevékenység, közös termékek, keresztértékesítések stb.)
+2. A bankcsoport-tagok aktivitásának, a mérlegfőösszeg, jövedelmezőség, saját tőke változásának bemutatása. Az egyes
+csoport-tagok esetében megvalósított tőkepótlás, illetve a várható tőkepótlás szükségessége.
+3. Hitelintézeti csoport esetében, ha az egyik hitelintézet szavatoló tőkéje csökken és azt be kell jelenteni, akkor az
+irányító hitelintézet köteles a csökkenésnek a hitelintézeti csoportra való hatását is számítással és magyarázattal
+bemutatni.
+I. Együttműködési megállapodások - stratégiai szövetségek
+1. Milyen együttműködési formák, szövetségek jöttek létre a bankcsoporton kívül, az egyes - egymással stratégiai
+kapcsolatban nem lévő, teljesen független - hitelintézetek, illetve a hitelintézetek és a pénzügyi közvetítő rendszer
+egyéb tagjai, valamint az egyéb cégek között belföldön és külföldön egyaránt. Mi az együttműködés célja és formája.
+(Pl. közös termék, egy adott termék értékesítése, közös vállalat stb.)
+J. Egyéb
+1. A hitelintézetnek tájékoztatást kell adni a Felügyelet határozatában és az MNB által előírt intézkedések
+meghozataláról, végrehajtására adott határidejéről, és a végrehajtásról.
+2. A hitelintézetnek jelenteni kell a Hpt előírás/ok megsértését, azok okait, megszüntetésükre vonatkozó intézkedéseket
+és azok végrehajtását.
+3. A hitelintézetnek ki kell térni továbbá a legnagyobb kockázatok tekintetében a Hpt. 79.§ (4), valamint a 80. § (1)
+bekezdésében foglalt tételekre vonatkozó tájékoztatásra.
+4. Egyéb, lényegesnek ítélt változások.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: postai úton
+A beküldés formája: papír
+Az adatszolgáltatás címzettje: MNB Pénzügyi stabilitási főosztály
+Pénzügyi Szervezetek Állami Felügyelete
+ii Bankcsoport alatt a Hpt. szerint összevont alapú felügyelet alá tartozó csoporttagokat értjük.
+
+MNB adatgyűjtés azonosító: W06
+A hitelintézetek szöveges jelentése aktuális témákban
+I. Általános tudnivalók
+Külön eseti felkérés alapján, aktuális témákban.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: postai úton
+A beküldés formája: papír
+Az adatszolgáltatás címzettje: MNB Pénzügyi stabilitási főosztály
+Közgazdasági főosztály
+MNB adatgyűjtés azonosító: W07
+Kitöltési útmutató
+A hitelintézetek éves és középtávú üzletpolitikai irányelvei
+I. Az adatok összeállításának módja
+1. Az általános gazdasági-, illetve ezen belül a pénzügyi környezet változásához történő banki alkalmazkodás, az ezzel
+kapcsolatos elképzelések, lehetőségek.
+2. A jelenlegi üzletpolitikához képest tervezett változások (piaci részesedés, ügyfélkör, új termékek, szolgáltatások,
+vezértermékek).
+3. Az üzletpolitikai elképzelések bemutatása az alábbi főbb mérlegtételekben tervezett változtatások tükrében, különös
+tekintettel arra, hogy az egyes célokat milyen eszközökkel kívánják elérni.
+a) eszközök:
+– vállalkozói szektor felé történő kihelyezések
+– lakossági kihelyezések
+– befektetések
+– egyéb, a bank mérlegében jelentős eszköztétel (jegybankképes értékpapírok, külföldi kihelyezés,
+bankközi kihelyezés, jegybanki kihelyezések).
+b) források:
+– saját tőke és elemei, osztalék politika
+– vállalkozói szektortól származó forrás
+– lakossági betétek, saját kibocsátású értékpapírok
+– egyéb, a bank mérlegében jelentős források (külföldi forrás, bankközi forrás, jegybanki források).
+4. A bank jövedelmezőségének alakulásával kapcsolatos elképzelések
+– főbb jövedelem elemek arányainak változása,
+– kamatpolitika
+– létszám- és költséggazdálkodás.
+5. Tervezett üzemi változások, hálózat- és egyéb fejlesztések.
+6. A tervezett célok megvalósulását esetleg hátráltató tényezők, és ezek kiküszöbölésére tervezett intézkedések
+bemutatása.
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: postai úton
+A beküldés formája: papír
+Az adatszolgáltatás címzettje: MNB Pénzügyi stabilitási főosztály
+Jegybanki ellenőrzési főosztály
+Pénzügyi Szervezetek Állami Felügyelete
+
+MNB adatgyűjtés azonosító: W08
+Kitöltési útmutató
+Jelentés az üzemzavarokról és elhárításukról
+I. Általános tudnivalók
+Részletes, szöveges jelentés minden üzemeltetési krízisről, banküzemi krízisről, katasztrófáról. A jelentésnek
+tartalmaznia kell a bekövetkezés okát, az okozott károkat és egyéb következményeket, az elhárítás során megtett lépéseket,
+a jelentés elkészítésének időpontjában lévő helyzetet, a tervezett további lépéseket illetve a hasonló helyzet elkerülésére tett
+intézkedéseket (vagy azok terveit).
+II. Az adatszolgáltatás beküldésére vonatkozó előírások
+A beküldés módja: postai úton és GiroXMail
+A beküldés formája: papír és elektronikus formában
+Az adatszolgáltatás címzettje: MNB Pénzforgalmi, emissziószabályozási és -szervezési főosztály
+3. számú melléklet a 7/2004. (XII. 7.) MNB rendelethez
+Az információk szolgáltatásához szükséges technikai segédletek
+1. A jelen rendelet 2. sz. mellékletének I.A.4. pontja szerinti B)-F) szektorba sorolt pénzügyi vállalatok tételesszervezetek
+listája
+2. A jelen rendelet 2. sz. mellékletének I.A.4. pontja szerinti A), H) és I) szektorba sorolt Nnon-profit intézmények tételes
+listája
+3. Kötelező tartalék számítási segédlete
+4. Kódlisták:
+4.1. Jogcímlisták:
+4.1.1. Teljes jogcímlista
+4.1.2. Nemzetközi fizetési forgalom jogcímeinek listája
+4.1.3. Csoportos átutalási és csoportos beszedési megbízásokhoz rendelhető fizetési mérleg jogcímek
+4.2. Számlatípusok listája
+4.3. Kamatozás azonosító kódok
+4.4. Egyéb állományváltozás kódjai
+4.5. Devizakódok
+4.6. Országkódok (ISO) és nemzetközi szervezetek kódjai
+4.7. Adatszolgáltatók (bankok, pénzügyi vállalkozások, befektetési vállalkozások) megnevezése, törzsszáma és
+azonosító (GIRO) kódjai
+4.8. E21-es kódtábla
+4.9. E27-es kódtábla
+4.10. Kártyastatisztikai kódok (kártyatársaságok, bankkártyák)
+5. A jelentések összefüggései, egyedi ellenőrzési szempontjai
+6. A jelentések egyedi számítástechnikai segédletei
+7. Budapesti Értéktőzsdére bevezetett részvények listája
+8. Nemzetgazdasági ágak szerint részletezett jelentések sorainak összetétele
+9. Példatárak (K01, K03, E21, fizetési mérleg)
+10. MNB-ben felvilágosítást adók listája
+11. Excel fájl txt fájllá történő átalakításának leírása
+12. A jelentő letétkezelők listája (értékpapír-statisztikai jelentések készítésére kötelezettek)
+
+VI. rész
+KÖZLEMÉNYEK,
