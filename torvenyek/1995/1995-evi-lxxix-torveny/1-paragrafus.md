@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Németországi Szövetségi Köztársaság közötti, Budapesten, 1992. február 6-án aláírt, baráti együttműködésről és az európai partnerségről szóló Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló okiratok cseréje 1992. szeptember 17-én lezajlott, és a Szerződés ezen a napon hatályba lépett.)
