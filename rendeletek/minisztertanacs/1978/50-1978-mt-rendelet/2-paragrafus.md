@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Jordániai Hasemita Királyság Kormánya között Budapesten az 1978. évi február hó 27. napján aláírt kulturális és tudományos együttműködésről szóló egyezményt e rendelettel kihirdeti.
