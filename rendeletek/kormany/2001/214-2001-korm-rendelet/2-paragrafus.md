@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya közötti, Budapesten, 2000. szeptember 5-én aláírt, az állategészségügy területén való együttműködésről szóló egyezményt e rendelettel kihirdeti.
