@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Görög Köztársaság Kormánya között Budapesten az 1979. évi október hó 8. napján aláírt, a műszaki-tudományos együttműködésről szóló megállapodást e rendelettel kihirdeti.
