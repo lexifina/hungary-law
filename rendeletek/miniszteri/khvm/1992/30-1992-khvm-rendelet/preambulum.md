@@ -1,0 +1,1 @@
+A belföldi vasúti árufuvarozás díjairól szóló, a 3/1992. (I. 23.) KHVM rendelettel módosított 1/1991. (I. 14.) KHVM rendeletet (a továbbiakban: R.) az árak megállapításáról szóló 1990. évi LXXXVII. törvény 7. §-ában foglalt felhatalmazás alapján — a pénzügyminiszterrel egyetértésben — a következők szerint módosítom:
