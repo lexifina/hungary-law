@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság Országgyűlése a Cseh Köztársaság, a Lengyel Köztársaság, a Magyar Köztársaság és a Szlovák Köztársaság között, 1995. szeptember 11-én, Brnóban aláírt, a Közép-Európai Szabadkereskedelmi Megállapodást módosító Megállapodást (a továbbiakban: Megállapodás), amely 1996. október 17-én hatályba lépett, e törvénnyel kihirdeti.
