@@ -1,0 +1,1 @@
+Az Országgyűlés a nemzeti hírügynökségről szóló 1996. évi CXXVII. törvény 9. §-a alapján a Magyar Távirati Iroda Részvénytársaság 1998. évi tevékenységéről szóló jelentést tudomásul veszi, és az abban foglalt mérleg és eredmény-kimutatást jóváhagyja.
