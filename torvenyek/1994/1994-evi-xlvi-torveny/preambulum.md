@@ -1,0 +1,1 @@
+Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. törvény rendelkezésének —, a hadigondozotti ellátás teljeskörűvé tétele érdekében a hadigondozásról szóló törvénnyel összhangban a következő törvényt alkotja:
