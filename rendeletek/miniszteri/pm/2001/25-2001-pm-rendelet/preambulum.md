@@ -1,0 +1,1 @@
+A mezőgazdasági biztosító egyesületek alapításának és működésének támogatásáról szóló 101/2001. (VI. 20.) Korm. rendelet (a továbbiakban: R.) 9. §-ának (4) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
