@@ -1,0 +1,31 @@
+A Kormány
+
+1. a) a Magyar Köztársaság 2003. évi költségvetéséről szóló 2002. évi LXII. törvény (a továbbiakban: Tv.) 32. §-ának (3) bekezdésében kapott felhatalmazás alapján a 2003. évben induló, a kedvezőtlen besorolású térségekben gazdálkodó mezőgazdasági termelők éven túli hitelterheit mérséklő hitelprogramhoz (kedvezőtlen-térségi hitel) kapcsolódóan 7500,0 millió forint összegű készfizető kezességet vállal, amely a mindenkor fennálló hitel tőkeösszegének 60 százalékáig terjed, s az érintett hitelek esetén közbeszerzési eljárást nem kell alkalmazni;
+
+b) a Tv. 39. §-ának (2) bekezdésben kapott felhatalmazás alapján a kezességvállalási díj megfizetésétől eltekint;
+
+2. az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény 1. §-a alapján hozzájárul ahhoz, hogy 2004. évtől kezdődően, három év alatt a kedvezőtlen-térségi hitelek visszafizetéséhez összesen 12500,0 millió forint költségvetési támogatás vissza nem térítendő támogatásként, valamint a mindenkori jegybanki alapkamat 40 százalékának megfelelő kamattámogatás kerüljön biztosításra, a támogatás évi összegének forrását a 2004., 2005. és 2006. évi költségvetési törvények Földművelésügyi és Vidékfejlesztési Minisztérium fejezetben szereplő támogatási jogcímben kell megtervezni;
+
+3. elrendeli, hogy a programban a kedvezőtlen adottságú térségek lehatárolásánál a kedvezőtlen besorolású térségekben gazdálkodó mezőgazdasági termelők éven túli hitelterheinek mérsékléséről szóló kormányrendelet 1. számú mellékletében, valamint a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott településék jegyzékéről szóló 7/2003. (I. 14.) Korm. rendelet mellékletében szereplő települések jegyzékét kell alkalmazni;
+
+4. a program megvalósítására rendeletet ad ki a következő feltételrendszer szerint:
+
+a) a hitelprogramba a 3. pont szerinti lehatárolásba sorolt településeken gazdálkodó mezőgazdasági vállalkozások azon éven túli lejáratú tőkepótló, valamint beruházási hitelei kerülhetnek bevonásra, amely hitelszerződések megkötésére az agrárgazdasági célok költségvetési támogatásáról szóló éves FM és FVM rendeletek alapján 2002. december 31-ig került sor, illetve amely hitelek a hitelszerződés értelmében 2003. június 30-a után még fennállnak,
+
+a bevonható hitelek állományát növelni lehet – a hitelintézet egyetértése esetén – az agrárgazdasági célok éves költségvetési támogatásairól szóló 8/1999. (I. 20.) FVM rendelet 76. §-a, valamint a 6/2000. (II. 26.) FVM rendelet 92. § (1) bekezdésének b) pontja alapján a mezőgazdasági szövetkezeteknek folyósított és 2003. június 30-án még fennálló éven túli lejáratú tagi kölcsönnel,
+
+nem vonhatók be a konstrukcióba a mezőgazdasági termelők kibontakozási hitelkonstrukciójáról és a gazdahitel programjáról szóló 30/2000. (III. 10.) Korm. rendelet, illetve a 2001. évben állami kezességvállalás biztosításával engedélyezett agrárhitel programokról és az agrárlogisztikai beruházások 2001. és 2002. évi állami támogatásáról szóló 57/2001. (IX. 21.) FVM rendelet szerint folyósított kibontakozási és gazdahitelek – kivéve a kibontakozási hitelhez kapcsolódó pótlólagos hiteleket – továbbá a lejárt, illetve 2002. december 31-e után átütemezett hitel és tagi kölcsön,
+
+a programban az a jogosult vehet részt, aki a pályázat benyújtásakor, illetve a támogatás igénylésekor lejárt köztartozással nem rendelkezik,
+
+b) az a) pontban felsorolt, fennálló hitelek legfeljebb 50 százaléka hároméves lejáratú 60 százalékos állami készfizető kezességet tartalmazó hitellé kerül átalakításra, a hitelhez a jegybanki alapkamat 40 százalékának megfelelő kamattámogatás kapcsolódik, az átalakított hitelhez az ezen határozat szerinti kezességen túlmenően más kezesség nem kapcsolódhat, s a programban átalakításra kerülő összes hitel összege legfeljebb 12 500,0 millió forint lehet;
+
+c) a programban résztvevők három év alatt, évente azonos nagyságrendben, összesen az átalakított hitel tőkeösszegével megegyező vissza nem térítendő állami támogatás igénylésére jogosultak, amely összeget a hitel tőketörlesztésére kötelesek fordítani,
+
+d) az állami kezességvállaláshoz kapcsolódóan meg kell teremteni annak lehetőségét, hogy beváltás esetén a megtérülés a beváltáskori arányok figyelembevételével kerüljön a hitelintézet és az állam között megosztásra;
+
+5. felhívja a földművelésügyi és vidékfejlesztési minisztert, hogy a program részletes feltételeit pályázati kiírásban szabályozza.
+
+Felelős: földművelésügyi és vidékfejlesztési miniszter, pénzügyminiszter
+
+Határidő: azonnal
