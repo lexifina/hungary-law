@@ -1,0 +1,1 @@
+A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 7. §-ának (1) és (2) bekezdésében foglalt felhatalmazás alapján — a művelődési és közoktatási miniszterrel egyetértésben — a honvédelem ügyét szolgáló kimagasló művészeti és művelődési tevékenység elismerésére az alábbi díjak adományozását rendelem el:
