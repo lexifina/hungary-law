@@ -1,0 +1,9 @@
+# 59/2004. (IV. 25.) FVM rendelet
+
+a sertéshús piaci szabályozásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-59-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2004-05-01 | 2004-59-20-82.1 | 59/2004. (IV. 25.) FVM rendelet |
