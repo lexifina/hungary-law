@@ -1,0 +1,1 @@
+A művelődési miniszternek a Minisztertanács elnöke útján tett előterjesztésére Pusztai Ferenc és dr. Stark Antal művelődési minisztériumi államtitkárokat – saját kérésükre, érdemeik elismerésével – a Magyar Köztársaság új Minisztertanácsa hivatalba lépésének napjával felmentem.
