@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére dr. Diczig István rendőr vezérőrnagyot, az állam- és jogtudományok doktorát, az ORFK vezető helyettesét, nyugállományba vonulása alkalmából – kérelmére – érdemei elismerése mellett, 1990. október 31. napjával felmentem
