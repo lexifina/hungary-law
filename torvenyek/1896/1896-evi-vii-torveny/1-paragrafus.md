@@ -1,0 +1,1 @@
+1. § A magyar szent korona országainak törvényhozása vallásos áhitattal ad hálát az isteni gondviselésnek, hogy az Árpád és vitéz hadai által megalapitott hazát oltalmába fogadta, fejedelmeit bölcseséggel, népét erővel és önfeláldozó hazaszeretettel megáldotta, és az országot jó és balsorsban segitve, annak lételét ezer éven át sok viszontagság között is fentartotta.

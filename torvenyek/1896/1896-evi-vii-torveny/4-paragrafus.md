@@ -1,0 +1,1 @@
+4. § E törvény 1896 junius hó 8-án, mint Ő császári és apostoli királyi Felsége dicsőséges megkoronáztatásának évforduló napján lép életbe; ugyanazon napon úgy az országgyülés mindkét házának együttes ülésében felolvasandó, mint a magyar korona országainak minden községében közzéteendő és kőbe vésve az országházban megörökitendő.
