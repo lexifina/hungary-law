@@ -1,0 +1,1 @@
+A művelődési miniszter előterjesztésére dr. Holló Jánost, a Budapesti Műszaki Egyetem Vegyészmérnöki Kar Mezőgazdasági Kémiai Technológiai Tanszék másodállású egyetemi tanárát 1990. június 30. napjával e tisztsége alól felmentem.
