@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Egyesült Királyság Kormánya között 1997. január 15. napján létrejött, az Európai Kiadatási Egyezmény területi hatályának brit fennhatóság alá tartozó területekre való kiterjesztéséről szóló egyezményt e rendelettel kihirdeti.
