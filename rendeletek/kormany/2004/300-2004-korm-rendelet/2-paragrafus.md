@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a környezetvédelmi együttműködésről szóló, Moszkvában, 2002. december 20-án aláírt Egyezményt e rendelettel kihirdeti.
