@@ -1,0 +1,1 @@
+A Kormány a takarékos állam megvalósításának, valamint az állampolgárok magasabb színvonalú kiszolgálásának célját szem előtt tartva, a területi államigazgatás hatékony, áttekinthető és költségtakarékosan működő új rendjének a kialakítása érdekében a következő határozatot hozza:
