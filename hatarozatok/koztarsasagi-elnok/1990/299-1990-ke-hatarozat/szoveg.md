@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére dr. Láposi Lőrinc rendőr vezérőrnagy, az ORFK Bűnügyi Főosztály vezetőjének felmentéséhez érdemei elismerése mellett – a szolgálat felső korhatárának elérése miatt – 1990. december 31-ei hatállyal hozzájárulok és nyugállományba helyezem.
