@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Jordániai Hasemita Királyság Kormánya között Budapesten, 1978. évi május hó 24. napján aláírt nemzetközi közúti fuvarozási megállapodást e rendelettel kihirdeti.
