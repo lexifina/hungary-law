@@ -1,0 +1,1 @@
+A művelődési és közoktatási miniszter előterjesztésére – nyugállományba vonulására tekintettel – dr. Pongrácz Pált, a Budapesti Műszaki Egyetem Építészmérnöki Kar Lakóépülettervezési Tanszék egyetemi tanárát 1990. december 31. napjával e tisztsége alól felmentem.
