@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a Letenye/Gorican autópálya-kapcsolat létesítéséről szóló, Budapesten, 2001. március 2-án aláírt Egyezményt e rendelettel kihirdeti.
