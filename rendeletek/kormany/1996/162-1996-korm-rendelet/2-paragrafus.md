@@ -1,0 +1,1 @@
+## 1. § A Kormány a Közép-Európai Szabadkereskedelmi Megállapodás 2. számú Kiegészítő Jegyzőkönyvét (a továbbiakban: 2. számú Kiegészítő Jegyzőkönyv), amely 1996. július 16-án hatályba lépett, e rendelettel kihirdeti.
