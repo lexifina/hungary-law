@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a nemzetközi kombinált áruszállításról szóló, Zágrábban 1997. szeptember 22-én aláírt Egyezményt e rendelettel kihirdeti.
