@@ -1,0 +1,153 @@
+## 2. § A megállapodás hivatalos magyar nyelvű fordítása a következő:
+
+## MEGÁLLAPODÁS
+
+## a Magyar Népköztársaság Kormánya és a Ciprusi Köztársaság Kormánya között a beruházások kölcsönös ösztönzéséről és védelméről
+
+## A Magyar Népköztársaság[^4] Kormánya és a Ciprusi Köztársaság Kormánya,
+
+## Attól az óhajtól vezetve, hogy hosszútávra kiterjesszék és fejlesszék kölcsönös kapcsolataikat a gazdasági, ipari, tudományos és műszaki együttműködés területén,
+
+## Attól a szándéktól vezetve, hogy kedvező feltételeket teremtsenek az egyik Szerződő Fél beruházóinak, a másik Szerződő Fél területén megvalósuló beruházásaihoz,
+
+## Az alábbiakban állapodtak meg:
+
+## 1. Cikk
+
+## A jelen Megállapodás szempontjából:
+
+## 1. a ,,beruházások'' kifejezés magában foglal mindenfajta vagyoni értéket, amely a társaságokban és vegyesvállalatokban való részvétellel kapcsolatos, különösen, de nem kizárólag:
+
+## a) ingó és ingatlan dolgok tulajdonát, valamint minden egyéb vagyoni értékre vonatkozó tulajdonjogot;
+
+## b) részvényeken, kötvényeken és más, társaságokban való érdekeltségen alapuló jogokat;
+
+## c) pénzre szóló követelést, good-will-t és egyéb vagyoni értéket, valamint bármilyen gazdasági értékkel bíró szolgáltatást;
+
+## d) szellemi tulajdonjogot, technikai eljárásokat és know-how-t.
+
+## Ezek a beruházások azon Szerződő Fél törvényeinek és rendelkezéseinek valamint az azokban megkövetelhető egyéb engedélyeknek megfelelően létesíthetők, amelynek területén a beruházás megvalósul.
+
+## A beruházás formájának esetleges változása nem érinti annak beruházási jellegét, feltéve, hogy az ilyen változás nem ellentétes a Szerződő Felek törvényeivel és rendelkezéseivel, valamint a kiadott engedélyekkel.
+
+## 2. A ,,jövedelem'' kifejezés a beruházásból egy meghatározott időtartam alatt nyert nettó összeget jelent, mint a nyereségből való részesedés, az osztalék, a kamat, a jogdíj és egyéb díjak, a beruházás teljes vagy részleges felszámolásából származó bevételek, továbbá az ilyen beruházásból származó minden más összeg, amelyet a fogadó ország törvényei jövedelemnek tekintenek.
+
+## 3. A ,,beruházó'' kifejezés magában foglalja mindegyik Szerződő Fél tekintetében:
+
+## a) azokat a természetes személyeket, akik a Szerződő Fél jogszabályainak megfelelően annak állampolgárai;
+
+## b) azokat a jogi személyeket, amelyeket a Szerződő Fél jogszabályainak megfelelően alapítottak vagy bejegyeztek,
+
+## akik a jelen Megállapodással összhangban a másik Szerződő Fél területén beruházást hoznak létre.
+
+## 2. Cikk
+
+## 1. Mindegyik Szerződő Fél ösztönzi a másik Szerződő Fél beruházói által a területén létesítendő beruházásokat.
+
+## 2. A beruházások, amelyeket azon Szerződő Fél törvényei és rendelkezései alapján engedélyeztek, amelynek területén a beruházások megvalósulnak, a jelen Megállapodás védelmét élvezik.
+
+## 3. A jóváhagyott újrabefektetések esetében az azokból származó jövedelmek az eredeti beruházással azonos védelmet élveznek.
+
+## 4. A jelen Megállapodás azokra a beruházásokra vonatkozik, amelyeket bármelyik Szerződő Fél területén a másik Szerződő Fél beruházói a Megállapodás hatálybalépése után hoznak létre.
+
+## 3. Cikk
+
+## 1. Mindegyik Szerződő Fél a másik Szerződő Fél beruházói által létesített beruházásokat igazságos és méltányos elbánásban részesíti, és nem akadályozza indokolatlan vagy megkülönböztető intézkedésekkel a beruházások általuk történő működtetését, irányítását, fenntartását, használatát, élvezetét vagy a beruházások feletti rendelkezést.
+
+## 2. Különösen, mindegyik Szerződő Fél teljes biztonságot és védelmet nyújt az ilyen beruházások számára, amely semmi esetre sem lehet kedvezőtlenebb, mint amilyenben harmadik állam beruházóinak beruházásait részesíti.
+
+## 3. Amennyiben az egyik Szerződő Fél harmadik állam beruházóinak különleges előnyöket nyújtott vámuniót, gazdasági uniót vagy hasonló intézményeket létrehozó megállapodások vagy az ilyen unió, illetőleg intézmény létrehozásához vezető ideiglenes megállapodások alapján, ez a Szerződő Fél nem köteles a másik Szerződő Fél beruházói számára ugyanezeket az előnyöket biztosítani.
+
+## 4. A jelen Cikk szerinti elbánás nem terjed ki azokra az adókra, díjakra, terhekre, valamint adókedvezményekre és adómentességekre, amelyeket bármely Szerződő Fél egy harmadik állam beruházóinak kettős adóztatás elkerüléséről szóló egyezmény vagy bármely más adóügyi egyezmény vagy egy harmadik állammal fennálló viszonosság alapján nyújtott.
+
+## 4. Cikk
+
+## 1. Egyik Szerződő Fél sem hoz olyan intézkedést, amely a másik Szerződő Fél beruházóját közvetlenül vagy közvetve megfosztja beruházásaitól, kivéve, ha az alábbi feltételek teljesülnek:
+
+## a) az intézkedéseket közérdekből és törvényes eljárás keretében hozták;
+
+## b) az intézkedések nem megkülönböztetőek;
+
+## c) az intézkedések igazságos kártalanítás fizetését előirányzó rendelkezéseket tartalmaznak.
+
+## 2. A kártalanítás összege meg kell, hogy feleljen annak a piaci értéknek, amelyet a beruházás a tulajdonkorlátozás pillanatában képvisel.
+
+## 3. A kártalanítás összege annak az országnak a törvényei és rendelkezései alapján becsülhető, ahol a tulajdonkorlátozó intézkedést hozták.
+
+## 4. A kártalanítás indokolatlan késedelem nélkül fizetendő a tulajdonkorlátozásra vonatkozó törvényes eljárás befejezése után, azonban az eljárás befejezését követő legfeljebb három hónapon belül és abban a valutában utalandó át, amelyben a beruházást létrehozták. A háromhónapos időszakot meghaladó késedelem esetén az érintett Szerződő Fél az érvényes árfolyamon számított kamatot fizet.
+
+## 5. Mindkét Szerződő Fél beruházói, akiknek beruházásai a másik Szerződő Fél területén háború vagy más fegyveres összeütközés vagy szükségállapot következtében kárt szenvednek, ezen károkért járó kártalanítás tekintetében ugyanolyan elbánásban részesülnek, mint harmadik állam beruházói.
+
+## 5. Cikk
+
+## 1. A Szerződő Felek hatályos rendelkezéseikkel összhangban megengedik a másik Szerződő Fél beruházóinak a beruházásból származó jövedelem és a beruházások teljes vagy részleges felszámolásából származó bevételek bármely konvertibilis valutában történő átutalását.
+
+## 2. Az átutalást olyan ésszerű időn belül teljesítik, amely általában szükséges az összegek átutalásával kapcsolatos valamennyi formaság betartásához, az átutalás iránti kérelem időpontjától számítva.
+
+## 6. Cikk
+
+## 1. A jelen Megállapodás értelmezésével és alkalmazásával kapcsolatban a Szerződő Felek között felmerülő vitákat diplomáciai úton rendezik.
+
+## 2. Amennyiben a vitát ilymódon a tárgyalások megkezdésétől számított hat hónapon belül nem sikerül rendezni, azt bármelyik Szerződő Fél kérelmére választottbíróság elé terjesztik.
+
+## 3. A választottbíróságot a következő módon alakítják meg: mindegyik Szerződő Fél kijelöl egy választottbírót és ez a két választottbíró az elnököt illetően megállapodik egy harmadik állam állampolgárának személyében. A választottbírókat három hónapon belül, az elnököt öt hónapon belül kell kijelölni, attól az időponttól számítva, amikor az egyik Szerződő Fél értesítette a másik Szerződő Felet arról a szándékáról, hogy a vitát választottbíróság elé terjeszti.
+
+## 4. Amennyiben az egyik Fél elmulasztja választottbírójának kijelölését, és az előírt határidőn belül nem jár így el, a másik Fél felkérheti a Nemzetközi Bíróság Elnökét a szükséges kijelölésre. Ha a két választottbíró az előírt határidőn belül nem tud megállapodni a harmadik választottbíró megválasztásában, bármelyik Fél felkérheti a Nemzetközi Bíróság Elnökét a szükséges kijelölésre.
+
+## 5. A választottbíróság a törvények tisztelete alapján hozza meg döntéseit, beleértve különösen a jelen Megállapodást és a két Szerződő Fél közötti, a tárgyra vonatkozó más megállapodásokat, valamint a nemzetközi jog általánosan elismert szabályait és elveit.
+
+## 6. A Felek ellenkező megállapodása hiányában a választottbíróság maga határozza meg eljárási szabályait.
+
+## 7. A választottbíróság szavazattöbbséggel hozza meg döntését. Az ilyen döntés a Felekre végleges és kötelező.
+
+## 8. Mindegyik Szerződő Fél viseli kijelölt választottbírójának és képviseletének költségeit. Az elnök költségeit, valamint az egyéb költségeket a Szerződő Felek egyenlő részben viselik.
+
+## 7. Cikk
+
+## 1. Bármely Szerződő Fél és a másik Szerződő Fél beruházója között a beruházást érintő tulajdonkorlátozással kapcsolatos minden vitát a vitában álló felek lehetőség szerint békés úton rendeznek.
+
+## 2. Amennyiben az ilyen vitákat nem sikerült rendezni attól az időponttól számított hat hónapon belül, amikor az egyik Fél a vita békés rendezését kérte, az a beruházó kérésére az alábbiak egyikéhez terjeszthető:
+
+## a) a Stockholmi Kereskedelmi Kamara Választottbírósági Intézete;
+
+## b) a Párizsi Nemzetközi Kereskedelmi Kamara Választottbírósága;
+
+## c) a Beruházási Viták Rendezésének Nemzetközi Központja, abban az esetben, ha mindkét Szerződő Fél tagja az Államok és más államok természetes és jogi személyei közötti beruházási viták rendezéséről szóló 1965. március 18-i Egyezménynek.
+
+## 8. Cikk
+
+## A Szerződő Felek képviselői szükség esetén összeülnek annak érdekében, hogy áttekintsék a jelen Megállapodás végrehajtását. Az ilyen tanácskozásra az egyik Szerződő Fél javaslatára, diplomáciai úton egyeztetett helyen és időpontban kerül sor.
+
+## 9. Cikk
+
+## 1. Mindkét Szerződő Fél megengedi törvényeivel, rendeleteivel és közigazgatási gyakorlatával összhangban a másik Fél azon beruházóinak, alkalmazottainak és dolgozóinak a belépését és tartózkodását, akik a beruházásokkal kapcsolatos tevékenységben érintettek.
+
+## 2. A Szerződő Felek nem zárják ki vagy akadályozzák a másik Szerződő Fél szállítmányozási ügynökségeit és szükség esetén kiadják az engedélyeket a beruházással kapcsolatos áru- és személyszállításra.
+
+## 10. Cikk
+
+## 1. A jelen Megállapodás attól az időponttól számított harminc nap múlva lép hatályba, amikor a Szerződő Felek értesítették egymást arról, hogy a Megállapodás hatálybalépéséhez szükséges alkotmányos követelményeknek eleget tettek.
+
+## 2. A jelen Megállapodást tízéves időszakra kötötték. A Megállapodás hatálya határozatlan időre meghosszabbodik, kivéve, ha bármelyik Szerződő Fél legalább hat hónappal a lejárat előtt értesíti a másik Szerződő Felet azon szándékáról, hogy a Megállapodást fel kívánja mondani. A tízéves hatályossági időszak lejárta után mindegyik Szerződő Fél jogosult a Megállapodás felmondására hat hónappal korábban elküldött írásos értesítés útján. A felmondás hat hónappal azt követően hatályos, hogy a másik Szerződő Fél az értesítést kézhez vette.
+
+## 3. A jelen Megállapodás felmondása hatálybalépésének időpontja előtt létesített beruházások tekintetében a jelen Megállapodás rendelkezései a hatályvesztést követően további 15 évre érvényben maradnak.
+
+## Készült két eredeti példányban Budapesten, 1989. május 24. napján, angol nyelven, mindkét szöveg egyaránt hiteles.
+
+## A Magyar Népköztársaság Kormánya nevében
+
+## Békesi László s. k.,
+
+## pénzügyminiszter
+
+## A Ciprusi Köztársaság Kormánya nevében
+
+## Georg Iacovou s. k.,
+
+## külügyminiszter
+
+3. § (1) E rendelet a kihirdetése napján lép hatályba; rendelkezéseit azonban 1990. május 25-étől kezdődően kell alkalmazni.
+
+(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+
+[^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
