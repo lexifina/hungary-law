@@ -1,0 +1,1 @@
+A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény 28. §-ának (4) bekezdésében foglalt felhatalmazás alapján – a szakképesítésért felelős miniszter, valamint a foglalkoztatáspolitikai és munkaügyi miniszter véleményének kikérésével, továbbá a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
