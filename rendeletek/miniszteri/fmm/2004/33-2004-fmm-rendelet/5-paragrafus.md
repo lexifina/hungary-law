@@ -1,0 +1,3 @@
+5. § (1) Az EQUAL Programban részt venni kívánó szervezeteknek a program keretében nyújtható támogatások elnyerése érdekében pályázatot kell benyújtaniuk.
+
+(2) Az EQUAL Program keretében, egyetlen alkalommal meghirdetett pályázati eljárás alapján olyan vállalkozások, költségvetési szervek, nonprofit szervezetek részére nyújtható vissza nem térítendő támogatás, amelyek vállalják, hogy az EQUAL Program – 4. § (2) bekezdésének a)–d) pontjában meghatározott – intézkedéseinek megvalósítása céljából, egymással a 9. §-ban meghatározott fejlesztési partnerségi megállapodást kötnek és végrehajtják az általuk létrehozott fejlesztési partnerség programját.
