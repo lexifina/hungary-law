@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között, a nemzetközi közúti személyszállításról és árufuvarozásról szóló, Budapesten, 1999. július 6-án aláírt Egyezményt e rendelettel kihirdeti.
