@@ -1,0 +1,1 @@
+A szociális és egészségügyi miniszter előterjesztésére – nyugállományba vonulására tekintettel – az Orvostovábbképző Egyetemről dr. Csákány György egyetemi tanárt 1990. június 30. napjával, dr. Hollán Zsuzsa egyetemi tanárt és dr. Kun Miklós egyetemi tanárt 1990. augusztus 31. napjával e tiszte alól felmentem.
