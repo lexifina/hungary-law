@@ -1,0 +1,9 @@
+# 71/1994. (V. 25.) KE határozat
+
+posztumusz vezérezredesi előléptetésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1994-71-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 1994-05-25 | 1994-71-30-76.0 | 71/1994. (V. 25.) KE határozat |
