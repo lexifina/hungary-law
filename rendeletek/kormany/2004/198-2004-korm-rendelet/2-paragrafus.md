@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között 2001. március 2-án, Budapesten aláírt, a Tornyiszentmiklós–Pince gyorsforgalmi közúti kapcsolat létesítéséről szóló Egyezményt e rendelettel kihirdeti.
