@@ -1,0 +1,1 @@
+1. § A Nemzetközi Állategészségügyi Hivatal létesítése iránt Párizsban, 1924. évi január hó 25-én kötött nemzetközi megállapodás a hozzámellékelt szervezeti szabályzattal együtt az ország törvényei közé iktattatik.
