@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Torinóban, 1961. október 18-án kelt Európai Szociális Kartát és Függelékét (a továbbiakban: Karta) e törvénnyel kihirdeti. (A megerősítésről szóló okirat letétbe helyezése 1999. július 8-án megtörtént.)

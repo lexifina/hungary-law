@@ -1,0 +1,3 @@
+3. § (1) A Magyar Köztársaság vonatkozásában az Országgyűlés döntésének megfelelően a Karta 20. Cikke 1. bekezdésének b) és c) pontjával összhangban a Karta II. Részének kötelező alkalmazása az 1. Cikkre, a 2. Cikkre, a 3. Cikkre, 5. Cikkre, 6. Cikkre, 8. Cikkre, 9. Cikkre, 11. Cikkre, 13. Cikkre, 14. Cikkre, 16. Cikkre és 17. Cikkre terjed ki.
+
+(2) A Magyar Köztársaság vonatkozásában az Országgyűlés döntésének megfelelően a Karta 20. Cikke 3. bekezdésével összhangban a Karta II. Részének kötelező alkalmazása az (1) bekezdésben felsoroltakon túlmenően kiterjed a 7. Cikk 1. bekezdésére, a 10. Cikkre, a 12. Cikk 1. bekezdésére és a 15. Cikkre.
