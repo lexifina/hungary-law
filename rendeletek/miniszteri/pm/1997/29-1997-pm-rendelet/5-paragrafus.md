@@ -1,0 +1,3 @@
+5. § (1) A közteherjegy forgalmazója a havi értékesítésről a következő hónap 15. napjáig elszámolást készít a Pénzügyminisztérium részére. Az értékesített közteherjegyek ellenértékének a forgalmazási költséggel csökkentett részét a forgalmazó a tárgyhót követő hó 23. napjáig utalja a Magyar Államkincstár által vezetett 10032000-01850073 ,,Közteherjegy ellenértéke'' lebonyolítási számla javára.
+
+(2) A Magyar Államkincstár az (1) bekezdésben meghatározott összegből minden hó utolsó napján a T. 7. §-ában foglalt részesedés szerint teljesíti az utalásokat, a fennmaradó hányadot pedig az APEH ,,Személyi jövedelemadó'' számlájára utalja.

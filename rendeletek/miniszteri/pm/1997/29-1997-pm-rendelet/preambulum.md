@@ -1,0 +1,1 @@
+Az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény (a továbbiakban: T.) 12. §-ának (3) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
