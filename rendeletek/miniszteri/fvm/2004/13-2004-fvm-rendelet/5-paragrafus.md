@@ -1,0 +1,3 @@
+## 4. § Az AKII mint kapcsolattartó iroda gondoskodik a TR végrehajtásáról, valamint a Bizottság iránymutatásai alapján ellátja a tesztüzemi információs rendszer működtetésével és fejlesztésével kapcsolatos feladatokat, fenntartja és elsődlegesen hasznosítja a tesztüzemi rendszer adatbázisát. Az FVM felkérésére rendszeres és eseti információszolgáltatást teljesít, valamint más felhasználók – elsősorban felsőoktatási intézmények és kutatóintézetek – statisztikai jellegű adatigényeinek is eleget tehet.
+
+5. § Ez a rendelet a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
