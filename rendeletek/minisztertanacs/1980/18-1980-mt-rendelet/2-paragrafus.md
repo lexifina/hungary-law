@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Máltai Köztársaság Kormánya között Budapesten, az 1978. évi szeptember hó 6. napján aláírt kulturális és tudományos együttműködési egyezményt e rendelettel kihirdeti.
