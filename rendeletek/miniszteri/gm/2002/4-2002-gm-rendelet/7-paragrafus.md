@@ -1,0 +1,1 @@
+## 6. § A forgalmazó köteles a 4. § (2) bekezdésében meghatározott energiahatékonysági címkét a fényforrások egyedi csomagolásának külsejére ráhelyezni, rányomtatni vagy odaerősíteni. A címke láthatóságát semmilyen más ráhelyezett, rányomtatott vagy odaerősített dolog nem akadályozhatja vagy csökkentheti.

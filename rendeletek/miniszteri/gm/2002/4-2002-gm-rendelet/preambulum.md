@@ -1,0 +1,1 @@
+A villamos energia termeléséről, szállításáról és szolgáltatásáról szóló 1994. évi XLVIII. törvény 56. §-a (1) bekezdésének b) pontjában kapott felhatalmazás alapján, valamint a fogyasztóvédelemről szóló 1997. évi CLV. törvényben meghatározott, a fogyasztók megfelelő tájékoztatásának érdekében a következőket rendelem el:
