@@ -1,0 +1,9 @@
+# 13/2003. (VIII. 15.) NKÖM rendelet
+
+egyes régészeti lelőhelyek védetté nyilvánításáról, illetőleg régészeti védettség megszüntetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-13-20-86
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2003-08-23 | 2003-13-20-86.1 | 13/2003. (VIII. 15.) NKÖM rendelet |
