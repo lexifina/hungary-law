@@ -1,0 +1,1 @@
+## 1. § A Kormány az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország), 1991. február 26. napján aláírt egyezményt (a továbbiakban: egyezmény) e rendelettel kihirdeti, és elrendeli annak kötelező alkalmazását.

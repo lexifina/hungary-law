@@ -1,0 +1,1 @@
+(A Magyar Köztársaság megerősítési okiratának letétbe helyezése az Egyesült Nemzetek Szervezetének főtitkáránál, mint letéteményesnél, 1997. július 11. napján megtörtént, az egyezmény 1997. szeptember 10. napján, a Magyar Köztársaság vonatkozásában 1997. október 9. napján lépett hatályba.)
