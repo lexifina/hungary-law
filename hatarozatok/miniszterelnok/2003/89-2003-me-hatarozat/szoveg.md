@@ -1,0 +1,1 @@
+A Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló 1997. évi LXXIX. törvény 31/A. § (1) bekezdése alapján dr. Jakab Ferencné címzetes államtitkár – az egészségügyi, szociális és családügyi miniszter irányításával – az Egészségügyi, Szociális és Családügyi Minisztérium EU csatlakozással kapcsolatos előkészítő, valamint a népegészségügyi feladatait látja el.
