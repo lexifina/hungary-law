@@ -1,0 +1,1 @@
+Az egészségügyről szóló 1972. évi II. törvény végrehajtásáról rendelkező 16/1972. (IV. 29.) MT rendelet 37. §-ának (1) bekezdésében foglalt felhatalmazás alapján — a közlekedési, hírközlési és vízügyi miniszterrel egyetértésben — a következőket rendelem:
