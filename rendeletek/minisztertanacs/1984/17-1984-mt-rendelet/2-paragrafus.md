@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Angolai Népi Köztársaság Kormánya között Budapesten az 1978. évi szeptember hó 20. napján aláírt egészségügyi együttműködési egyezményt e rendelettel kihirdeti.
