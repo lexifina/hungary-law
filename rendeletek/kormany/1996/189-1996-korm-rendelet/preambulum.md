@@ -1,0 +1,1 @@
+A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény (a továbbiakban: törvény) 27. §-a (1) bekezdésének c) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
