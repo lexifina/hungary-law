@@ -1,0 +1,1 @@
+A művelődési miniszter előterjesztésére dr. Hajnóczy Gyula a Budapesti Műszaki Egyetem Építészmérnöki Kar Építészettörténeti és Elméleti Itézet Építészettörténeti osztály egyetemi tanárát 1990. augusztus 31. napjával e tisztsége alól felmentem.
