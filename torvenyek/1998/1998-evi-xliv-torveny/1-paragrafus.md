@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság Országgyűlése az előadóművészek, a hangfelvétel-előállítók és a műsorsugárzó szervezetek védelméről szóló, 1961-ben, Rómában létrejött nemzetközi egyezményt (a továbbiakban: egyezmény) e törvénnyel kihirdeti.
