@@ -1,0 +1,1 @@
+A művelődési és közoktatási miniszter előterjesztésére 1990. június 30. napjával dr. Daróczy Zoltán egyetemi tanárt, a Kossuth Lajos Tudományegyetem rektorát e megbízatása alól – munkája elismerése mellett – felmentem.
