@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Észak-atlanti Szerződés Szervezete tagállamai között a nukleáris információkkal kapcsolatos együttműködésről szóló, Párizsban, 1964. június 18-án kelt Megállapodást (a továbbiakban: Megállapodás) megerősíti és e törvénnyel kihirdeti.
