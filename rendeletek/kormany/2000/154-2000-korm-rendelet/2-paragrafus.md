@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel a Magyar Köztársaság és a Moldovai Köztársaság Kormánya között a háborúkban elesett katonák és polgári áldozatok emlékhelyeinek megőrzéséről és megörökítéséről, valamint sírjaik jogi helyzetéről szóló, Kisinyovban, 1998. március 2-án aláírt Megállapodást kihirdeti.
