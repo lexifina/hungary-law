@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya között a beruházások kölcsönös ösztönzéséről és védelméről Ankarában, 1992. január 14-én aláírt Megállapodást e határozattal megerősíti.
