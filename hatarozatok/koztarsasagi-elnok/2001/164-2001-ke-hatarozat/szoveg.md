@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Balassa János rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság abujai (korábban lagosi) nagykövetségének vezetésére kapott megbízása alól.
