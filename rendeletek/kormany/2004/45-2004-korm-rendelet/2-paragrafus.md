@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, a megfelelőség-értékelésről és az ipari termékek elfogadásáról szóló, 2003. október 10-én, Budapesten aláírt Megállapodást e rendelettel kihirdeti.
