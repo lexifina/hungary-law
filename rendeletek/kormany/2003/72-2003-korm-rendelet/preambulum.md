@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 88. §-ának (1) bekezdésében kapott felhatalmazás alapján, a pártfogó felügyelői tevékenységgel kapcsolatos egységes szakmai irányítás megteremtése érdekében a következőket rendeli el:
