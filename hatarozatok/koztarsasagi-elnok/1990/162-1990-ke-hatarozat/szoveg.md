@@ -1,0 +1,1 @@
+A művelődési és közoktatási miniszter előterjesztésére – nyugállományba vonulására tekintettel – dr. Láng Lászlót a Budapesti Műszaki Egyetem Természet- és Társadalomtudományi Kar Fizikai Intézet Atomfizika Tanszék egyetemi tanárát 1990. szeptember 30-ával e tisztsége alól felmentem.
