@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács, a Magyar Népköztársaság Kormánya és a Mongol Népköztársaság Kormánya között az egészségügyi együttműködésről szóló, Budapesten 1972. évi december hó 20. napján aláírt Egyezményt e rendelettel kihirdeti.
