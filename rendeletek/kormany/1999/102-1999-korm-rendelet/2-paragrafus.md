@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaságban, illetve Romániában akkreditált oktatási intézmények által kiadott diplomák, oklevelek, tanulmányi bizonyítványok és tudományos fokozatok kölcsönös elismeréséről szóló, Bukarestben, 1997. június 6-án aláírt Egyezményt e rendelettel kihirdeti.
