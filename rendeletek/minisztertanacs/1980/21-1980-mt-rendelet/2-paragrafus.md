@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Fülöp-szigeti Köztársaság Kormánya között Manilában, az 1976. évi július hó 15. napján aláírt kulturális egyezményt e rendelettel kihirdeti.
