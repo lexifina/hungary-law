@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság Országgyűlése a Magyar Köztársaság és Málta között a kettős adóztatás elkerüléséről Budapesten, az 1991. évi augusztus hó 6. napján aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1992. október 30-án megtörtént, és az Egyezmény 1992. november 29-én hatályba lépett.)
