@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Görög Köztársaság Kormánya között Athénban, 1977. március 18. napján aláírt nemzetközi közúti fuvarozási megállapodást e rendelettel kihirdeti.
