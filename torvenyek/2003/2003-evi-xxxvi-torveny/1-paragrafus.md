@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és az Üzbég Köztársaság Kormánya között Budapesten, 2002. október 28-án aláírt, a beruházások ösztönzéséről és kölcsönös védelméről szóló Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 2003. március 3-án megtörtént, és a Megállapodás 2003. március 3-án hatályba lépett.)
