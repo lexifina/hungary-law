@@ -1,0 +1,1 @@
+(A Magyar Köztársaság megerősítési okiratának letétbe helyezése az Európa Tanács Főtitkáránál 1998. április 1-jén megtörtént. A Jegyzőkönyv hatálybalépésének napja – 8. Cikke rendelkezéseinek megfelelően – 1998. november 1.)
