@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Balatonfenyves településrészt — Fonyóddal történt egyesítését megszüntetve — 1992. január 1. napjával községgé nyilvánítom. Balatonfenyves községgé nyilvánítása nem érinti Fonyód városi címét.
