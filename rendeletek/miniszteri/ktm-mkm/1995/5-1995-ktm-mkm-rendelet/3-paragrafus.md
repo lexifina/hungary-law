@@ -1,0 +1,3 @@
+3. § (1) Műemlék jellegűvé nyilvánítjuk a Fejér megyei Tabajd község, Petőfi Sándor utca 2. számú, 263 hrsz.-ú ingatlan előtt, az 1. számú tulajdoni lapon, 252 hrsz. alatt nyilvántartott Névtelen utcán álló, a Községi Önkormányzat tulajdonát képező Nepomuki Szent János-szobrot. A műemléki védelem a talapzaton kívüli, 1,0 m-es sávra terjed ki.
+
+(2) A műemléki védettség elrendelésének célja, a hiányai és felületi pusztultsága ellenére is jó színvonalú, a közép-dunántúli késő barokk kőszobrászat igen értékes alkotásának megőrzése jellegzetes talapzatával és környezetével a községet átszelő patakon átvezető híd lábánál.

@@ -1,0 +1,3 @@
+4. § (1) Műemlékké nyilvánítjuk a Fejér megyei Lovasberény község, Széchenyi utcai, a 768. számú tulajdoni lapon, 659 hrsz. alatt nyilvántartott 6536 m2 területű ingatlanon fekvő, a lovasberényi Izraelita Hitközség (MAZSIHISZ) tulajdonát képező egykori izraelita temetőt.
+
+(2) A műemléki védettség elrendelésének célja a településen egykor élő jelentős zsidó lakosság ma már egyedüli tárgyi emlékének számító, kb. 200 éven át (kb. 1748-tól) használt temető mintegy 400 megmaradt mészkő és vörösmészkő síremlékének megőrzése, melyet egységes, festői képe és gazdagsága helyi jelentőségén túlmutatóan országos fontosságúvá emeli.
