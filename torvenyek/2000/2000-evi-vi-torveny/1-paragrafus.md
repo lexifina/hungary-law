@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Kazak Köztársaság között Almatiban, 1995. március 9-én aláírt Konzuli Egyezményt (a továbbiakban: Egyezmény) e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló szóbeli jegyzékek cseréje 1996. november 28-án megtörtént.)
