@@ -1,0 +1,5 @@
+## A házastársak lakáshasználatának rendezése
+
+4. § (1) A bíróság a bérlőtársi jogviszonyt a házastársak cserelakásokba való költözésének elrendelésével akkor szünteti meg, ha a cserelakást felajánló személy a per tárgyalásán szóban vagy pedig teljes bizonyító erejű okiratban a csereszerződés lényeges feltételeire kiterjedő nyilatkozatot tesz, és a jogerős határozat meghozatalát követő harminc napon belül a szerződés megkötését vállalja.
+
+(2) A bíróság a volt házastársat akkor is kötelezheti arra, hogy a volt közös lakást másik megfelelő lakásra – értékkülönbözet fizetése ellenében – cserélje el, ha a másik házastársat korábban a lakás kiürítésére kötelezte, de a lakásban maradó házastárs a lakáshasználati jog ellenértékét nem fizette meg, az erre irányuló végrehajtás nem járt eredménnyel, és kiegyenlítésére a közös vagyonból sincs lehetőség. Az értékkülönbözetet a használati jog ellenértékének kifizetésére kell fordítani. A kereset előterjesztésének, illetve a cserére való kötelezésnek feltétele, hogy a másik házastárs a lakás kiürítésére vonatkozó kötelezettségét teljesítse. Az (1) bekezdésben foglaltakat ebben az esetben is alkalmazni kell.

@@ -1,0 +1,1 @@
+## 36. § Ha a bíróság a gyermeket nem a szülőnél helyezi el (Csjt. 76. §), a jogerős ítélet egy kiadmányát a gyám kirendelése céljából soron kívül megküldi e személy lakóhelye szerint illetékes gyámhatóságnak.

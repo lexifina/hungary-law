@@ -1,0 +1,1 @@
+## 15. § A bíróság a gyermektartásdíj végrehajtását megszünteti és erről – közvetlen bírósági letiltás vagy felhívás alapján történő végrehajtás esetén – a munkáltatót is értesíti, ha a gyámhatóság arról tájékoztatja, hogy a tartásdíj fizetésére kötelezettet gondozási díj fizetésére kötelezte.
