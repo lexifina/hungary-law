@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a NATO között Brüsszelben, 1994. július 5-én aláírt Biztonsági Megállapodást és az annak mellékletét képező Ügyvezetési Szabályzatot (a továbbiakban: Megállapodás) e törvénnyel megerősíti.
