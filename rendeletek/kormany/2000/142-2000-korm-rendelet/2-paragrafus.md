@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a tudományos és technológiai együttműködésről szóló, Washingtonban, 2000. március 15-én aláírt Egyezményt e rendelettel kihirdeti.
