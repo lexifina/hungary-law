@@ -1,0 +1,1 @@
+Az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény 10. § (2) bekezdés b) pontjában foglaltak alapján – figyelemmel az 1041/2004. (IV. 29.) Korm. határozatra (a továbbiakban: határozat) – a következőket rendelem el:

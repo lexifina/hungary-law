@@ -1,0 +1,1 @@
+## 7. § Az államháztartásról szóló 1992. évi XXXVIII. törvény 33. § (4) bekezdése szerint a beváltott kezesség a jogosult állammal szembeni kötelezettségévé válik, amelyről az érintettet az adóhatóság határozatban értesíti.
