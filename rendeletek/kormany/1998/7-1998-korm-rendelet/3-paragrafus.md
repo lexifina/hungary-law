@@ -1,0 +1,349 @@
+## 2. § Az egyezmény hivatalos magyar nyelvű szövege a következő:
+
+## ,,
+
+## Európai filmkoprodukciós egyezmény
+
+## Preambulum
+
+## Az Európa Tanács tagállamai és az Európai Kulturális Egyezmény egyéb részesei mint aláírók,
+
+## arra való tekintettel, hogy az Európa Tanács célja, hogy biztosítsa tagjai teljesebb egységét, különösen azért, hogy védje és támogassa a közös örökségüket jelentő eszméket és elveket,
+
+## arra való tekintettel, hogy az alkotás és önkifejezés szabadsága alkotóelemei ezeknek az elveknek,
+
+## arra való tekintettel, hogy az Európai Kulturális Egyezmény egyik célja az európai országok kulturális sokszínűségének megőrzése,
+
+## abból a célból, hogy megerősödjék a filmkoprodukció, amely az alkotás egyik eszköze és a kulturális sokszínűség európai szintű kifejeződése,
+
+## azzal a szándékkal, hogy továbbfejlesszék ezeket az elveket, valamint figyelembe véve a Miniszterek Bizottsága ajánlásait a filmművészetről és az audiovizuális szolgáltatásokról, különös tekintettel az R(86)3 számú ajánlásra, amely az audiovizuális termékek előállítását hivatott elősegíteni Európában,
+
+## egyetértve azzal, hogy az Euroimages, az igényes filmművészeti és audiovizuális alkotások koprodukcióját és forgalmazását szolgáló európai alap, megfelelően támogatja az európai filmkoprodukciós tevékenységeket, és új ösztönzője az európai filmkoprodukciók fejlődésének,
+
+## azzal az elhatározással, hogy e kulturális célt úgy szolgálják, hogy közös erővel növelik e téren a filmalkotások létrehozását, és kidolgozzák azokat a szabályokat, amelyek megfelelnek az európai multilaterális filmkoprodukciók igényének,
+
+## figyelembe véve, hogy egységes szabályok elfogadása segíti a korlátozások csökkentését, és bátorítja az európai filmkoprodukciós együttműködést,
+
+## a következő egyezményt kötötték:
+
+## I. Fejezet
+
+## Általános rendelkezések
+
+## 1. Cikkely
+
+## Az egyezmény célja
+
+## A jelen egyezmény aláírói vállalják, hogy elősegítik a koprodukciós filmgyártást Európában, az alább meghatározott feltételek szerint.
+
+## 2. Cikkely
+
+## Az egyezmény hatálya
+
+## A jelen egyezmény szabályozza a Felek olyan kapcsolatait, amelyek a Felek területén kezdeményezett filmgyártási koprodukciókat érintenek.
+
+## A jelen egyezmény érvénye kiterjed:
+
+## – olyan koprodukciókra, amelyekben legalább három, a jelen egyezményt aláíró három különböző országban működő filmgyártó cég vesz részt; valamint
+
+## – olyan koprodukciókra, amelyekben legalább három, a jelen egyezményt aláíró három különböző országban működő filmgyártó cég, valamint egy vagy több olyan filmgyártó is részt vesz, amely nem az egyezményt aláíró országban működik. Az utóbbi esetben azonban az egyezményt alá nem író országokban működő filmgyártók teljes hozzájárulása a produkcióhoz nem haladhatja meg a teljes gyártási költség 30 százalékát.
+
+## A fenti esetek mindegyikében a jelen egyezmény rendelkezései csak akkor érvényesek, ha a koprodukcióban készült alkotás európai filmművészeti műnek minősül a jelen egyezmény 3. Cikkelye 3. bekezdésének megfelelően.
+
+## A jelen egyezmény aláírói között érvényben lévő kétoldalú megállapodások továbbra is érvényben maradnak a kétoldalú koprodukciók tekintetében.
+
+## Multilaterális koprodukciók esetében a jelen egyezmény rendelkezései az egyezmény aláírói között korábban létrejött kétoldalú megállapodások rendelkezései helyébe lépnek. Abban az esetben, ha a kétoldalú koprodukciókra vonatkozó rendelkezések nem ütköznek a jelen megállapodás rendelkezéseibe, továbbra is hatályban maradnak.
+
+## Amennyiben nincs olyan megállapodás, amely szabályozná a jelen egyezmény aláírói közötti kétoldalú koprodukciós kapcsolatokat, a jelen egyezmény a kétoldalú koprodukciókra is kiterjed, azt az esetet kivéve, ha a Felek valamelyike a jelen egyezmény 20. Cikkelyének megfelelően ettől eltérően rendelkezett.
+
+## 3. Cikkely
+
+## Meghatározások
+
+## A jelen egyezmény alkalmazása során:
+
+## – a ,,filmalkotás'' kifejezés minden olyan alkotásra, elsősorban játékfilmre, animációs filmre és dokumentumfilmre vonatkozik, terjedelemtől vagy médiumtól függetlenül, amely megfelel a jelen egyezményt aláíró országban érvényben levő, az adott filmgyártást szabályozó rendelkezéseknek, és filmszínházakban történő bemutatás céljából készült;
+
+## – a ,,koprodukcióban részt vevő filmgyártó cég'' kifejezés a jelen egyezményt aláíró országokban működő filmgyártókra vagy producerekre vonatkozik, amelyek vagy akik koprodukciós szerződések aláírói;
+
+## – az ,,európai filmalkotás'' kifejezés olyan filmművészeti alkotást jelent, amely megfelel a jelen egyezmény szerves részét alkotó, II. Függelékben található feltételeknek;
+
+## – a ,,multilaterális koprodukció'' kifejezés olyan filmalkotásra vonatkozik, amelynek létrehozásában legalább három filmgyártó cég vesz részt a jelen megállapodás 2. Cikkelye 2. bekezdésének megfelelően.
+
+## II. Fejezet
+
+## A koprodukciókra vonatkozó szabályok
+
+## 4. Cikkely
+
+## Azonos elbírálás a nem koprodukcióban készült filmekkel
+
+## Azoknak a multilaterális koprodukciókban készült európai filmalkotásoknak, amelyek a jelen egyezmény hatálya alá esnek, ugyanazokat a kedvezményeket kell élvezniük a jogszabályok és egyéb rendelkezések tekintetében, mint amelyek a koprodukciókban részt vevő, a jelen egyezményt aláíró országokban a nem koprodukcióban készülő filmekre vonatkoznak.
+
+## A kedvezményeket a koprodukcióban részt vevő filmgyártó cégek számára azok a jelen egyezményt aláíró országok biztosítják, ahol e filmgyártók működnek, az adott országban érvényben levő jogszabályok és egyéb rendelkezések feltételeinek és korlátozásainak, valamint a jelen egyezmény rendelkezéseinek megfelelően.
+
+## 5. Cikkely
+
+## A koprodukciós minősítés elnyerésének feltételei
+
+## Ahhoz, hogy egy, több filmgyártó cég együttműködésében készülő film megkapja a koprodukciós minősítést, a koprodukcióban résztvevőknek meg kell kapniuk az érintett országok illetékes hatóságai jóváhagyását. E jóváhagyás kibocsátása előtt az illetékes hatóságok a kérelemről konzultálnak. Az idevonatkozó eljárás megfelel a jelen egyezmény I. Függelékének rendelkezéseivel, amelyek ezen egyezmény szerves részét képezik.
+
+## A koprodukciós minősítés elnyerése iránti kérelmet az I. Függelékben található kérelmezési eljárás szerint kell az illetékes hatóságokhoz benyújtani. Az ilyen jóváhagyás végleges, kivéve az olyan eseteket, amikor a kérelmezők képtelenek vállalt kötelezettségeiket teljesíteni a műalkotás művészeti, pénzügyi vagy technikai körülményeit illetően.
+
+## Nem adható koprodukciós minősítés olyan projektnek, amely nyilvánvalóan pornográf jellegű, erőszakos cselekményeket népszerűsít, vagy leplezetlenül sérti az emberi méltóságot.
+
+## A koprodukciós státusszal együtt járó kedvezményeket olyan, együttműködő filmgyártó cégek kaphatják meg, amelyekről feltételezhető, hogy rendelkeznek a szükséges technikai felszereltséggel, pénzügyi háttérrel és szakmai felkészültséggel.
+
+## A szerződő államoknak meg kell jelölniük az e Cikkely 2. bekezdésében említett illetékes hatóságokat. Erre egy olyan nyilatkozatban kerülhet sor, amelyet a jelen egyezmény aláírásakor tesznek, vagy a ratifikációs, az elfogadási, a jóváhagyási vagy a csatlakozási okmányok letétbe helyezésekor. Az ilyen nyilatkozat később módosítható.
+
+## 6. Cikkely
+
+## A koprodukcióban résztvevők hozzájárulásainak részarányai
+
+## Multilaterális koprodukció esetében a minimális hozzájárulás mértéke nem lehet a filmalkotás teljes gyártási költsége 10 százalékánál kevesebb, és maximális mértéke nem haladhatja meg ugyanennek a 70 százalékát. Abban az esetben, ha a minimális hozzájárulás 20 százalék alatt van, az érintett Fél lépéseket tehet abból a célból, hogy korlátozza, vagy tegye lehetetlenné a nemzeti, filmgyártást támogató programok igénybevételét.
+
+## Abban az esetben, ha a jelen egyezmény a 2. Cikkely 4. bekezdésének megfelelően egy, a Felek között létrejött kétoldalú megállapodás helyébe lép, a minimális hozzájárulás mértéke nem lehet a filmalkotás teljes gyártási költsége 20 százalékánál kevesebb, és a legnagyobb hozzájárulás sem haladhatja meg a filmalkotás teljes gyártási költsége 80 százalékát.
+
+## 7. Cikkely
+
+## A koprodukcióban résztvevők jogai
+
+## A koprodukciós szerződésnek biztosítania kell a koprodukcióban részt vevő Felek számára az eredeti kép- és hangfelvétel negatívjának a tulajdonjogát. A szerződés tartalmazzon olyan kikötését, hogy az ilyen negatívot a koprodukcióban résztvevők által kölcsönösen elfogadott helyen kell tartani, és részükre az akadálytalan hozzáférést biztosítani kell.
+
+## A koprodukciós szerződés biztosítson minden, a koprodukcióban részt vevő Fél részére jogot, hogy hozzájuthasson egy inter-negatívhoz vagy a másolat valamilyen más formájához.
+
+## 8. Cikkely
+
+## Technikai és művészeti részvétel
+
+## A koprodukcióban résztvevők mindegyike köteles érdemi technikai és művészeti hozzájárulást tenni. Általánosságban kijelenthető, és a Felekre vonatkozó nemzetközi kötelezettségekből levonható, hogy a koprodukcióban résztvevők alkotói, technikai és művészeti személyzethez, a műalkotásokban szereplő előadókhoz és a filmalkotások elkészítéséhez felhasznált felszerelésekhez való hozzájárulása legyen arányos pénzügyi befektetésük nagyságával.
+
+## Az érintett Felekre vonatkozó nemzetközi kötelezettségeknek megfelelően és a forgatókönyv igényeit figyelembe véve, a filmalkotás elkészítésében részt vevő technikai és szakemberi stábot azoknak az államoknak az állampolgáraiból kell összeállítani, amelyeknek filmgyártói részt vesznek az adott koprodukcióban. Kivételes esetektől eltekintve az utómunkálatokat is a fenti országokban kell elvégezni.
+
+## 9. Cikkely
+
+## A koprodukciók további formái
+
+## A 8. Cikkely rendelkezéseitől eltérően és a jelen egyezményt aláíró országok jogszabályai és egyéb szabályai figyelembevételével, a különböző országok együttműködésével létrejött filmalkotások koprodukciós minősítést kaphatnak a jelen megállapodás alapján, amennyiben megfelelnek a következő feltételeknek:
+
+## – a különböző hozzájárulások között, a koprodukciós szerződésnek megfelelően, tartalmaznak egy vagy több, tisztán pénzügyi kisebbségi hozzájárulást is, feltéve, hogy az egyes országokra eső rész nem kisebb, mint a gyártási költség 10 százaléka, és nem nagyobb, mint annak 25 százaléka;
+
+## – a koprodukció résztvevői között ott találunk egy többségi együttműködőt is, amely érdemi, technikai és művészeti hozzájárulást nyújt a projekthez, és megfelel azoknak a feltételeknek, amelyek alapján a készülő filmalkotás hazájában nemzeti műalkotásnak minősül;
+
+## – segítik az európai identitás megerősödését; továbbá
+
+## – olyan koprodukciós szerződések keretében készülnek, amelyek, többek között, rendelkeznek a bevételek megfelelő elosztásáról.
+
+## A filmgyártási együttműködés ezen további formái csak akkor minősíthetők koprodukciónak, ha elnyerik az illetékes hatóságok egyedi hozzájárulását, különös tekintettel az alábbi, 10. Cikkely rendelkezéseire.
+
+## 10. Cikkely
+
+## Általános részvételi egyensúly
+
+## A jelen egyezményt aláíró országoknak filmgyártási kapcsolataikban általában véve törekedniük kell az egyensúlyra mind a befektetett pénzeszközöket, mind a koprodukcióban előállított filmalkotásokhoz történő művészeti és technikai hozzájárulásukat illetően.
+
+## A jelen megállapodást aláíró azon Fél, amely egy jelentősebb időszak tekintetében a film koprodukciós kapcsolatok terén a jelen megállapodást aláíró egy vagy több más országgal kapcsolatban azt tapasztalja, hogy az vagy azok a sajátjánál nagyságrenddel kisebb aktivitást mutatnak – kulturális identitása fenntartása figyelembevételével – megtagadhatja egy további koprodukció jóváhagyását mindaddig, amíg az érintett Féllel vagy Felekkel a kiegyensúlyozott filmgyártási kapcsolatok helyre nem állnak.
+
+## 11. Cikkely
+
+## Beutazás és tartózkodás
+
+## A hatályos törvényeknek, rendeleteknek és nemzetközi kötelezettségeknek megfelelően, mindegyik Fél köteles a többi Fél, koprodukcióban részt vevő technikai és művészeti személyzete számára biztosítani a beutazást, a tartózkodást és a munkavállalási engedély megszerzését. Hasonlóképpen, mindegyik Fél engedélyezi a jelen egyezmény hatálya alá eső filmalkotások elkészítéséhez és forgalmazásához szükséges berendezések vámelőjegyzés keretében történő behozatalát, majd újbóli kivitelét.
+
+## 12. Cikkely
+
+## A koprodukcióban részt vevő országok feltüntetése
+
+## A koprodukcióban részt vevő országokat megfelelően fel kell tüntetni a koprodukcióban készített filmalkotásokban.
+
+## Ezeknek az országoknak nevét világosan fel kell tüntetni a film alkotóinak felsorolásakor, az összes népszerűsítő és reklámanyagban, valamint a filmalkotás bemutatásakor.
+
+## 13. Cikkely
+
+## Export
+
+## Amennyiben egy koprodukcióban készült filmalkotást olyan országba exportálnak, ahol kvóta szabályozza a filmalkotások importját, és a koprodukcióban részt vevő valamelyik félnek nincs joga arra, hogy filmalkotásával szabadon megjelenhessen az importáló országban, akkor:
+
+## – a filmalkotást általában annak az országnak a kvótájához adják hozzá, amelyiknek többségi részesedése volt a filmalkotás elkészítésében;
+
+## – olyan filmalkotás esetében, amelynek az elkészítésében a résztvevők egyenlő arányban osztoznak, a filmalkotást annak az országnak a kvótájához kell hozzáadni, amelyiknek a legjobbak az esélyei arra, hogy az érintett filmet importáló országba exportáljon;
+
+## – amennyiben a fenti bekezdések nem alkalmazhatók, a filmalkotást annak a Félnek a kvótájához kell hozzáadni, amelyik a rendezőt adja.
+
+## 14. Cikkely
+
+## Nyelvi előírások
+
+## A koprodukciós minősítés kibocsátásakor valamely érintett ország illetékes hatósága megkövetelheti az adott országban működő, a koprodukcióban részt vevő filmgyártótól, hogy nyújtsa be a filmalkotás végleges változata forgatókönyvét az adott ország valamelyik hivatalos nyelvén.
+
+## 15. Cikkely
+
+## Fesztiválok
+
+## Annak az esetnek a kivételével, ha a koprodukcióban résztvevők másként döntenek, a koprodukcióban készített filmalkotásokat a nemzetközi filmfesztiválokon az a Fél mutatja be, ahol a többségi részvételű koprodukciós partner működik. Amennyiben egy filmalkotás az alkotók egyenlő pénzügyi részvételével készült, a filmet az a Fél mutatja be, amelyik a rendezőt adja.
+
+## III. Fejezet
+
+## Záró rendelkezések
+
+## 16. Cikkely
+
+## Aláírás, ratifikálás, elfogadás, jóváhagyás
+
+## A jelen egyezmény aláírásra nyitva áll az Európa Tanács tagállamai és az Európai Kulturális Egyezményt aláíró egyéb államok számára, amelyek egyetértésüket a következő módokon fejezhetik ki:
+
+## – aláírással, fenntartás nélkül a ratifikálásra, elfogadásra vagy jóváhagyásra vonatkozóan; vagy
+
+## – ratifikálást, elfogadást vagy jóváhagyást igénylő aláírással, amelyet azután ratifikálás, elfogadás vagy jóváhagyás követhet.
+
+## A ratifikálási, elfogadási vagy jóváhagyási okmányokat az Európa Tanács Főtitkáránál kell letétbe helyezni.
+
+## 17. Cikkely
+
+## Hatálybalépés
+
+## A jelen egyezmény annak a hónapnak az első napján lép hatályba, amely azon napot követő három hónapos időszak leteltét követi, amely alatt öt állam, ideértve az Európa Tanács legalább négy tagját, kötelezőnek ismeri el az egyezményt, a 16. Cikkely rendelkezéseinek megfelelően.
+
+## Bármely olyan aláíró állam vonatkozásában, amely csatlakozási szándékát ezt követően fejezi ki, az egyezmény annak a hónapnak az első napján lép hatályba, amely azt a napot követő három hónapos időszak után következik, amikor az aláírás vagy a ratifikációs, elfogadási vagy jóváhagyási okirat letétbe helyezése megtörtént.
+
+## 18. Cikkely
+
+## Azoknak az államoknak a csatlakozása, amelyek nem tagjai az Európa Tanácsnak
+
+## A jelen egyezmény hatálybalépését követően az Európa Tanács Miniszterek Bizottsága felhívhat bármely olyan európai államot, amely nem tagja az Európa Tanácsnak vagy az Európai Gazdasági Közösségnek, hogy csatlakozzon a jelen egyezményhez, az Európa Tanács Alapszabálya 20. d) Cikkelyében meghatározott többségi döntése és a Miniszterek Bizottságában képviseletre jogosult szerződő államok képviselőinek egyhangú szavazata alapján.
+
+## Bármely csatlakozó állam vagy az Európai Gazdasági Közösség vonatkozásában, annak csatlakozása esetén, az egyezmény annak a hónapnak az első napján lép hatályba, amely azon időpont utáni három hónapos időszak leteltét követi, amikor a csatlakozási okmányt letétbe helyezték az Európa Tanács Főtitkáránál.
+
+## 19. Cikkely
+
+## Területi megszorítások
+
+## A ratifikációs, elfogadási, jóváhagyási vagy csatlakozási okmány aláírásakor vagy letétbe helyezésekor, bármely állam meghatározhatja azt a területet vagy területeket, amelyekre a jelen egyezmény érvényes.
+
+## A jelen egyezményt aláíró bármelyik Fél tetszőleges későbbi időpontban egy, az Európa Tanács Főtitkárának címzett nyilatkozatban kiterjesztheti a jelen egyezmény hatályát bármely más, a nyilatkozatban megjelölt területre. Az ilyen terület vonatkozásában az egyezmény azon időpont utáni három hónapos időszak leteltét követő hónap első napján lép hatályba, amikor a Főtitkár az ilyen nyilatkozatot átvette.
+
+## Az előző két bekezdés alapján tett, bármely területtel kapcsolatos nyilatkozat visszavonható egy, a Főtitkárnak címzett értesítéssel. A visszavonás azon időpontot követő három hónapos időszak letelte után következő hónap első napján lép hatályba, amikor a Főtitkár az ilyen értesítést átvette.
+
+## 20. Cikkely
+
+## Fenntartások
+
+## Bármely állam az aláíráskor vagy a ratifikációs, elfogadási, jóváhagyási vagy csatlakozási okmány letétbe helyezésekor kijelentheti, hogy a 2. Cikkely 1. bekezdése nem vonatkozik kétoldalú koprodukciós kapcsolataira egy vagy több Fél vonatkozásában. Emellett fenntarthatja magának a jogot egy, a 9. Cikkely 1. a) bekezdésében meghatározott maximális részvételi aránytól eltérő részvételi arányra. Más fenntartás nem köthető ki.
+
+## Bármely Fél, amely az előző bekezdésnek megfelelően fenntartással élt, azt részben vagy egészében visszavonhatja az Európa Tanács Főtitkárának címzett értesítésében. Az ilyen visszavonás akkor lép életbe, amikor azt a Főtitkár megkapja.
+
+## 21. Cikkely
+
+## Az egyezmény felmondása
+
+## Bármely Fél, bármikor felmondhatja a jelen egyezményt az Európa Tanács Főtitkárának címzett értesítéssel.
+
+## Az ilyen felmondás azon napot követő három hónapos időszak után következő hónap első napján lép hatályba, amikor a Főtitkár ezt az értesítést átvette.
+
+## 22. Cikkely
+
+## Értesítések
+
+## Az Európa Tanács Főtitkárának értesítenie kell az Európa Tanács tagállamait, valamint mindazokat az államokat és az Európai Gazdasági Közösséget, amelyek csatlakozhatnak a jelen egyezményhez, vagy amelyeket erre felhívhatnak a következő eseményekről:
+
+## – amennyiben az egyezményt újabb ország írta alá;
+
+## – amennyiben ratifikációs, elfogadási, jóváhagyási vagy csatlakozási okmányt helyeztek letétbe;
+
+## – amennyiben a jelen egyezmény bármilyen hatálybalépésére került sor, a 17., 18. és 19. Cikkelynek megfelelően;
+
+## – bármely nyilatkozatról, amelyet az 5. Cikkely 5. bekezdése alapján tesznek;
+
+## – a jelen egyezmény bármilyen felmondásáról, amely a 21. Cikkely alapján történik;
+
+## – az egyezménnyel kapcsolatos bármely más fejleményről, értesítésről vagy közleményről.
+
+## Fentiek tanúsításával a kellő meghatalmazással rendelkező alulírottak aláírásukkal látták el a jelen egyezményt.
+
+## Készült Strasbourgban, 1992. október 2-án, angol és francia nyelven, melyek mindegyike egyaránt hiteles, egyetlen példányban, amelyet az Európa Tanács levéltárában kell elhelyezni.
+
+## Az Európa Tanács Főtitkára hiteles másolatokat küld a 16. Cikkely 1. bekezdésében meghatározott államoknak, valamint bármely egyéb olyan államnak és az Európai Gazdasági Közösségnek, amelyek felhívást kaphatnak arra, hogy csatlakozzanak a jelen egyezményhez.
+
+## I. Függelék
+
+## Kérelmezési eljárás
+
+## Ahhoz, hogy a jelen egyezményt aláíró országokban működő, és a koprodukciókban részt vevő filmgyártók részesülhessenek a jelen egyezmény által meghatározott kedvezményekből, a koprodukciókban résztvevőknek a forgatás megkezdése előtt két hónappal kérelmezniük kell a koprodukciós minősítés megadását. Kérelmükhöz az alább felsorolt okmányokat kell csatolniuk. Ezeket az okmányokat annyi példányban kell megküldeniük az illetékes hatóságoknak, hogy azokat a hatóságok a forgatás megkezdése előtt legkésőbb egy hónappal továbbíthassák a többi Fél hatóságainak:
+
+## – másolat az adott mű szerzői jogának megvásárolását igazoló szerződésről, vagy bármely más okirat, amely igazolja, hogy az alkotók birtokába kerültek a mű hasznosítását biztosító szerzői jognak;
+
+## – egy részletes forgatókönyv;
+
+## – jegyzék a részt vevő országok technikai és művészeti hozzájárulásáról;
+
+## – költségvetés és részletes pénzügyi terv;
+
+## – ütemterv a filmalkotás elkészítéséről;
+
+## – a koprodukcióban részt vevő Felek koprodukciós szerződése. E szerződésnek ki kell térnie arra is, hogy a résztvevők hogyan osztják fel a bevételeket, és hogy a forgalmazás milyen területi megosztásban történik.
+
+## A kérelmet, valamint az egyéb dokumentumokat, amennyiben lehetséges, annak az illetékes hatóságnak a nyelvén kell benyújtani, ahova azok beadásra kerülnek.
+
+## Az illetékes nemzeti hatóságok az átvételt követően megküldik egymásnak a kérelem és a csatolt dokumentáció másolati példányait. Annak a Félnek az illetékes hatósága, amely pénzügyileg kisebbségi résztvevője a koprodukciónak, nem adhat ki jóváhagyást mindaddig, amíg meg nem kapta a pénzügyi szempontból többségi részvételű Fél illetékes hatóságának állásfoglalását.
+
+## II. Függelék
+
+## Egy filmalkotás a 3. Cikkely 3. bekezdésének megfelelően akkor minősül európainak, ha legalább 15 pontot ér el az európai filmkészítői funkciók alábbi felsorolása szerint lehetséges 19 pontból.
+
+## A forgatókönyvből következő igényeket figyelembe véve az illetékes hatóságok, konzultáció után, amennyiben úgy ítélik meg, hogy a tárgyban szereplő mű európai identitást fejez ki, koprodukciós minősítést adhatnak ki olyan filmalkotás számára is, amely az általában megkívánt 15 pontnál kevesebbet ér el.
+
+## -------------------
+
+## Európai filmkészítői funkciók, Súlyozott pontok
+
+## -------------------
+
+## Alkotói csoport
+
+## Rendező 3
+
+## Forgatókönyvíró 3
+
+## Zeneszerző 1
+
+## ------------------
+
+## 7
+
+## Előadói csoport
+
+## Főszerep 3
+
+## További szerep 2
+
+## Mellékszerep 1
+
+## -----------------
+
+## 6
+
+## Műszaki és szakértői csoport
+
+## Operatőr 1
+
+## Hangmérnök 1
+
+## Vágó 1
+
+## Díszlettervező 1
+
+## A stúdióért vagy külső helyszínért felelős szakértő 1
+
+## Utómunkálatok 1
+
+## -----------------
+
+## 6
+
+## Nota bene:
+
+## Az ilyen meghatározások, mint ,,főszerep'', ,,további szerep'', ,,mellékszerep'' azt tükrözik, hogy egy-egy színész hány nap forgatáson vesz részt.
+
+## Ami a 8. Cikkelyt illeti, a ,,művészi'' kifejezés az alkotói és az előadói csoportra vonatkozik, míg a ,,technikai'' kifejezés a technikai és szakértői csoportra vonatkozik.''
+
+3. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, de rendelkezéseit 1997. február 1-jétől kell alkalmazni.
