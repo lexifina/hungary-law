@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Népköztársaság** és a Ciprusi Köztársaság között, Budapesten, 1989. május 24-én aláírt Konzuli Egyezményt (a továbbiakban: Egyezmény) e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló okiratok cseréje 1994. május 11-én megtörtént.)
