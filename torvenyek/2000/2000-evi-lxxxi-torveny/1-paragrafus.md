@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Litván Köztársaság között létrejött Szabadkereskedelmi Megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti. (A Szerződő Felek által a Megállapodás megerősítéséről szóló utolsó jegyzékváltás 1999. december 1. napján megtörtént, ezért a Megállapodás 2000. március 1. napján hatályba lépett).
