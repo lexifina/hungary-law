@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Európa Tanács Társadalomfejlesztési Alapjához történő csatlakozást és ezzel összefüggésben az Európa Tanács kiváltságairól és mentességeiről szóló, Párizsban, 1949. szeptember 2-án kelt Általános Megállapodás Harmadik Kiegészítő Jegyzőkönyvét e törvénnyel kihirdeti.
