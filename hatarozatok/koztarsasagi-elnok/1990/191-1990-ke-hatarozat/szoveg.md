@@ -1,0 +1,1 @@
+A művelődési és közoktatási miniszter előterjesztésére – nyugállományba vonulásukra tekintettel – dr. Strommer Gyulát, dr. Füzy Olivért és dr. Kozák Miklóst a Budapesti Műszaki Egyetem egyetemi tanárait 1990. december 31-ével e tisztségük alól felmentem.
