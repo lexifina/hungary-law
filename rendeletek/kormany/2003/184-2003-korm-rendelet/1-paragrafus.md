@@ -1,0 +1,3 @@
+1. § (1) Az egészségügyi ellátási szerződések pályáztatásával és a pályázatok elbírálásával, valamint a vagyoni biztosítékkal kapcsolatos részletes szabályokról szóló 97/2003. (VII. 15.) Korm. rendelet (a továbbiakban: R.) 9. §-ának (5) bekezdése szerinti jogi személy részére egészségügyi ellátási szerződéskötés esetén az Eüszt. 22. §-ában meghatározott vagyoni biztosíték adásához hitelintézettel kötött garanciaszerződés alapján a bankgarancia díjához – legfeljebb 50 százalékos mértékig – vissza nem térítendő támogatás nyújtható maximum 6 évre, de legfeljebb a bankgarancia időtartamára.
+
+(2) Az (1) bekezdés szerinti jogi személy részére egy időben csak egy bankgarancia díj támogatás nyújtható.
