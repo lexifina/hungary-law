@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Románia Kormánya között nukleáris balesetek esetén adandó gyors értesítésről aláírt Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
