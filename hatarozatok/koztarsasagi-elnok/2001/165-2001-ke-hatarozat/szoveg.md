@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Tamás Lajos rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság jakartai nagykövetségének vezetésére kapott megbízása alól.
