@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Luxemburgi Nagyhercegség Kormánya között a gyakornokok fogadásáról szóló, Budapesten, 1995. november 3-án aláírt Egyezményt e rendelettel kihirdeti.
