@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 15. §-ának a) pontjában foglalt felhatalmazás alapján – e rendelet 1. §-a (2) bekezdésének rendelkezései vonatkozásában tekintettel az Mvt. 9. § (3) bekezdésében foglalt felhatalmazásra is – az egészségügyi, szociális és családügyi miniszterrel egyetértésben a következőket rendelem el:

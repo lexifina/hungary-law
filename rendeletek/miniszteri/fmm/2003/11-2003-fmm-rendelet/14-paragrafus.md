@@ -1,0 +1,5 @@
+14. § (1) A munkáltató köteles gondoskodni az alpintechnika során használt felszerelések és egyéni védőeszközök – e rendeletben, illetőleg a más jogszabályokban meghatározott, illetve a gyártó vagy forgalmazó által előírt – karbantartásáról, időszakos felülvizsgálatáról és sajátosságainak megfelelő tárolásáról.
+
+(2) A felszerelések időszakos felülvizsgálatát a vonatkozó dokumentáció szerint kell elvégezni, az egyéni védőeszközök biztonságos állapotát pedig legalább 6 havonta ellenőrizni kell. A felülvizsgálatot azokra az eszközökre is el kell végezni, amelyet a munkavállalók nem használtak (tárolt felszerelések). Az időszakos felülvizsgálat megállapításait írásban kell rögzíteni.
+
+(3) Ha az alpintechnikára kialakított munkahely, illetve a rendeltetésszerűen alkalmazott felszerelés vagy egyéni védőeszköz közvetlenül veszélyeztette a munkavállaló egészségét és biztonságát, a munkáltató köteles az Mvt. 23. §-ának (2) bekezdésében foglaltak szerint eljárni. A vizsgálat elvégzéséig annak működését, illetve használatát meg kell tiltani és a megállapításokat írásba kell foglalni.

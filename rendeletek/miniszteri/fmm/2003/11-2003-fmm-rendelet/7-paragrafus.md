@@ -1,0 +1,3 @@
+7. § (1) A munkáltató köteles – az alpintechnika alkalmazott módszerének, a munkavállalók létszámának és a kockázatértékelés alapján várható veszélyhelyzetnek megfelelő tartalmú – mentési tervben meghatározni a munkavégzés folyamatában az általános alpintechnikai ismereteket meghaladó és rendkívüli veszélyhelyzetben lévő munkavállaló(k) mentésének módját.
+
+(2) A munkáltatónak a munkaterületen a munkavállalók létszámának és a kockázatértékelés alapján várható veszélyhelyzetnek megfelelő számú és tartalmú, az elsősegély nyújtására szolgáló felszerelést, valamint a gyors segélykérés lehetőségét biztosítania kell.
