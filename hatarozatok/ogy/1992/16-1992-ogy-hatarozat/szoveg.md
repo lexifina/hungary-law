@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Népköztársaság Kormánya és az Uruguay Keleti Köztársaság Kormánya között a beruházások elősegítéséről és kölcsönös védelméről Budapesten, az 1989. évi augusztus hó 25. napján aláírt Megállapodást e határozattal megerősíti.
