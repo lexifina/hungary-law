@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Rózsa Tamás főkonzult – érdemei elismerése mellett – felmentem e rangja, valamint a Magyar Köztársaságnak Sao Paulo Állam, Paraná Állam, Santa Catarina Állam és Rio Grande do Sul Állam területére kiterjedő hatáskörrel működő Sao Pauló-i főkonzulátusa vezetésére kapott megbízása alól.
