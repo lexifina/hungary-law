@@ -1,0 +1,127 @@
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+
+Az Alkotmánybíróság nemzetközi szerződést kihirdető törvény alkotmányellenességének utólagos vizsgálatára és megsemmisítésére irányuló indítvány tárgyában meghozta a következő
+
+határozatot:
+
+Az Alkotmánybíróság a Magyar Köztársaságnak az Észak-atlanti Szerződéshez történő csatlakozásáról és a Szerződés szövegének kihirdetéséről szóló 1999. évi I. törvény alkotmányellenességének megállapítására és megsemmisítésére irányuló indítványt elutasítja.
+
+Az Alkotmánybíróság elrendeli e határozatának a Magyar Közlönyben történő közzétételét.
+
+INDOKOLÁS
+
+I.
+
+Az indítványozó a Magyar Köztársaságnak az Észak-atlanti Szerződéshez történő csatlakozásáról és a Szerződés szövegének kihirdetéséről szóló 1999. évi I. törvény (a továbbiakban: Szerződés) alkotmányellenességének megállapítását és megsemmisítését kérte. Álláspontja szerint a Szerződés sérti az Alkotmány 2. § (1) bekezdését, mivel (a 4., az 5. és a 8. Cikk) több olyan rendelkezést tartalmaz, amelyek a Magyar Köztársaság függetlenségével nem egyeztethetők össze.
+
+Az indítványozó az Alkotmány 5. §-ának sérelmére is hivatkozott és úgy vélte, hogy a Szerződés 6. Cikke ellentétes a Magyar Köztársaság államának védelmi feladataira vonatkozó alkotmányi szabályozással. Azt kifogásolta, hogy a Szerződés alapján ,,az országnak az Észak-atlanti Szerződéshez való csatlakozásával más NATO tagországokat ért fegyveres támadás esetén Magyarországnak Európában vagy Észak-Amerikában is védenie kell a nép szabadságát és hatalmát, az ország függetlenségét és területi épségét, valamint a nemzetközi szerződésekben rögzített határait''.
+
+Az Alkotmánybíróság felkérésére kifejtette álláspontját az indítványról az igazságügy-miniszter és a külügyminiszter.
+
+II.
+
+Az Alkotmánybíróság a rendelkező részben foglalt döntését a következő jogszabályi előírásokra alapozta.
+
+Az Alkotmány 2. § (1) és (2) bekezdése kinyilvánítja:
+
+,,(1) A Magyar Köztársaság független, demokratikus jogállam.
+
+(2) A Magyar Köztársaságban minden hatalom a népé, amely a népszuverenitást választott képviselői útján, valamint közvetlenül gyakorolja.''
+
+Az Alkotmány 5. §-a előírja, hogy ,,a Magyar Köztársaság állama védi a nép szabadságát és hatalmát, az ország függetlenségét és területi épségét, valamint a nemzetközi szerződésekben rögzített határait''.
+
+Az Alkotmány 7. § (1) bekezdése szerint: ,,a Magyar Köztársaság jogrendszere elfogadja a nemzetközi jog általánosan elismert szabályait, biztosítja továbbá a nemzetközi jogi kötelezettségek és a belső jog összhangját''.
+
+Az Alkotmánynak ,,A fegyveres erők és a rendőrség'' című VIII. fejezetében a 40/A. § (1) bekezdés első mondata a következőket állapítja meg: ,,A fegyveres erők (Magyar Honvédség, Határőrség) alapvető kötelessége a haza katonai védelme, valamint nemzetközi szerződésből eredő kollektív védelmi feladatok ellátása.''
+
+A honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Htv.) 1. § (1) bekezdése kinyilvánítja: ,,A honvédelem nemzeti ügy. A Magyar Köztársaság az ország egyéni és kollektív védelmi képességének fenntartásában és fejlesztésében a saját erejére: nemzetgazdaságának erőforrásaira, fegyveres erőinek felkészültségére és elszántságára, illetőleg a polgároknak a haza védelme iránti hazafias elkötelezettségére és áldozatkészségére, továbbá a szövetséges államok és azok fegyveres erői kölcsönös segítségnyújtására épít.''
+
+A Szerződésnek az indítványban kifogásolt 4., 5., 6. és 8. Cikke a következőkről rendelkezik:
+
+,,
+
+4. Cikk
+
+A Felek tanácskozni fognak egymással, valahányszor bármelyikük véleménye szerint bármelyik fél területi épségét, politikai függetlenségét vagy biztonságát veszély fenyegeti.''
+
+,,
+
+5. Cikk
+
+A Felek megegyeznek abban, hogy az egyikük vagy többjük ellen, Európában vagy Észak-Amerikában intézett fegyveres támadást valamennyiük ellen irányuló támadásnak tekintenek; és ennélfogva megegyeznek abban, hogy ha ilyen támadás bekövetkezik, mindegyikük az Egyesült Nemzetek Alapokmányának 51. Cikke által elismert egyéni vagy kollektív védelem jogát gyakorolva, támogatni fogja az ekként megtámadott Felet vagy Feleket azzal, hogy egyénileg és a többi Felekkel egyetértésben, azonnal megteszi azokat az intézkedéseket, ideértve a fegyveres erő alkalmazását is, amelyeket a békének és biztonságnak az észak-atlanti térségben való helyreállítása és fenntartása érdekében szükségesnek tart.
+
+Minden ilyen fegyveres támadást és az ennek következtében foganatosított minden intézkedést azonnal a Biztonsági Tanács tudomására kell hozni. Ezen intézkedések akkor zárulnak le, ha a Biztonsági Tanács meghozta a nemzetközi béke és biztonság helyreállítására és fenntartására szükséges rendszabályokat.''
+
+,,
+
+6. Cikk
+
+Az 5. Cikk alkalmazása szempontjából egy vagy több Fél ellen irányuló támadásnak kell tekinteni azt a fegyveres támadást, amely a Felek egyikének területe ellen Európában vagy Észak-Amerikában, Franciaország algériai megyéi ellen, bármely Fél megszálló erői ellen Európában, a Felek egyikének joghatósága alá tartozó, az észak-atlanti térségben a Ráktérítőtől északra fekvő szigetek ellen vagy a Felek bármelyikének hajói vagy repülőgépei ellen irányul, ha a fenti területeken tartózkodnak.''
+
+,,
+
+8. Cikk
+
+Mindegyik Fél kijelenti, hogy a közte és valamely más Fél vagy valamely harmadik állam között jelenleg hatályban lévő nemzetközi kötelezettség egyike sem áll ellentétben ennek a Szerződésnek a rendelkezéseivel, és kötelezi magát arra, hogy nem vállal semmiféle, a jelen Szerződéssel ellentétben álló nemzetközi kötelezettséget.''
+
+III.
+
+1. A jelen ügyben az Alkotmánybíróság hatásköre az Alkotmánybíróságról szóló 1989. évi XXXII. törvény 1. § b) pontján alapul. Az Alkotmánybíróság – e hatásköri szabályt értelmezve – elvi jelleggel megállapította, hogy ,,utólagos alkotmányossági vizsgálat tárgya lehet a nemzetközi szerződést kihirdető jogszabály és az alkotmányossági vizsgálat a szerződést kihirdető jogszabály részévé vált nemzetközi szerződés alkotmányellenességének a vizsgálatára is kiterjedhet''. [4/1997. (I. 22.) AB határozat, ABH 1997. 41, 52.] Ugyanebben a határozatában mondta ki az Alkotmánybíróság azt is, hogy a saját hatáskörét értelmező határozatai éppen úgy mindenkire kötelezőek, mint ,,...bármely más – köztük az ilyen értelmezéssel nyert hatáskörben hozott – határozata''. (ABH 1997. 41, 49.)
+
+2. Az Alkotmánybíróság elsőként azt vizsgálta, hogy a Szerződés – különösen az indítványban hivatkozott 4., 5. és 8. Cikk – sérti-e az Alkotmánynak az állam függetlenségére vonatkozó rendelkezését.
+
+2.1. Az Alkotmány előbbiekben idézett 2. §-a a Magyar Köztársaságot a népszuverenitáson alapuló független, demokratikus jogállamnak nyilvánítja.
+
+A szuverenitás az államnak mint a nemzetközi jog alanyának fogalmi ismérve. A szuverenitás belső oldala az állam önállóságát és azt a képességét fejezi ki, hogy alkotmányát és arra épülő jogrendjét, alkotmányos intézményeit maga alkotja meg és tartja fenn, valamint hogy főhatalmat gyakorol a területén élő személyek felett. A szuverenitás külső oldalát az állam függetlensége, teljes nemzetközi jog- és cselekvőképessége jelenti, vagyis hogy más államokkal való kapcsolatában szabadon, önállóan dönt.
+
+Az Egyesült Nemzetek Alapokmánya – amelynek törvénybe iktatásáról az 1956. évi I. törvény rendelkezik – (a továbbiakban: Alapokmány) 2. Cikk 1. pontja szerint az Egyesült Nemzetek Szervezete (a továbbiakban: ENSZ) valamennyi tag szuverén egyenlőségének elvén alapul. Az ENSZ 1970-ben elfogadott 2625 (XXV) sz. közgyűlési határozatának az Alapokmány szuverén egyenlőségre vonatkozó megállapítását értelmező előírása szerint ,,minden állam köteles tiszteletben tartani más államok jogalanyiságát'', s ,,minden állam a teljes szuverenitásba tartozó jogokkal rendelkezik''.
+
+E dokumentumnak megfelelően a szuverenitás – többek között – az alábbi jogokat foglalja magában:
+
+– az állam területi épsége és függetlensége sérthetetlen;
+
+– minden államnak joga van arra, hogy szabadon válassza meg és fejlessze politikai, társadalmi, kulturális rendszerét.
+
+A szuverenitás – bár az állam legfőbb hatalmát és függetlenségét jelenti – nem tekinthető korlátlannak. Az állam függetlenségét a nemzetközi jog korlátozza. Mivel a nemzetközi jog az államoknak jogegyenlőséget biztosít, következésképpen a szuverenitást korlátozó hatása nem valamely államok feletti jogrend által valósul meg, hanem az állam önkorlátozása által. Az állam önkorlátozása fejeződik ki a nemzetközi szerződések létrehozásában, valamint az azokhoz való csatlakozásban. A 36/1999. (XI. 26.) AB határozat is utal arra, hogy ,,az államok szuverenitásukat nemzetközi szerződéssel, vagy belső elhatározásból – megfelelő szintű jogszabállyal – korlátozhatják''. (ABH 1999. 320, 322.) Ez az önkorlátozás azonban nem szünteti meg a szuverenitást. A nemzetközi kapcsolatokban pedig kifejezetten ez, a nemzetközi szerződések megkötésében is megnyilvánuló önkorlátozás jelenti a más államokkal való együttműködés alapvető feltételeit.
+
+A szuverenitás korlátozása belső jogi legitimációjának megteremtésére az alkotmányos jogrend hivatott. A vizsgált ügyben a nemzetközi szerződés megkötésének, így a szuverenitás törvényhozó általi korlátozhatóságának tényét megalapozta az a körülmény is, hogy az 1997. november 16-án megtartott érvényes és eredményes népszavazáson – amelyen ,,Egyetért-e azzal, hogy a Magyar Köztársaság a NATO-hoz csatlakozva biztosítsa az ország védettségét'' kérdésről nyilvánítottak véleményt – a választásra jogosultak 49%-a jelent meg, s 85%-uk igenlő választ adott.
+
+2.2. Az indítványozó a függetlenség sérelmének tekintette a Szerződés 8. Cikkét is. Ez a Cikk a NATO mint sajátos védelmi jellegű nemzetközi szervezet kohéziójának megteremtésére, fenntartására irányul, mivel a tagállamoktól megköveteli, hogy elzárkózzanak a Szerződésben vállalt kötelezettségekkel ellentétes kötelmektől és ilyenek létrehozását a jövőre nézve is kizárják.
+
+A Szerződés e rendelkezésének elfogadása a Magyar Köztársaságnak mint tagállamnak, Szerződő Félnek a szuverenitásán alapul. A szuverenitás ugyanis – a vázoltak alapján – kiterjed a politikai irányultság, a nemzetközi kapcsolatok szabad, önálló alakítására.
+
+Az 1987. évi 12. törvényerejű rendelettel kihirdetett, a szerződések jogáról szóló, Bécsben az 1969. évi május 23. napján kelt szerződés preambulumában a nemzetközi jog általánosan elismert szabályának nevezi a szabad kötelezettségvállalást.
+
+A Szerződés 8. Cikkében megjelölt nemzetközi kötelezettségek vállalását tiltó, azok fenntartásától, megkötésétől elzárkózó magatartás az állam olyan megnyilvánulása, amelyet a Magyar Köztársaság az Alkotmány idézett 7. § (1) bekezdése alapján az Alkotmány sérelme nélkül vállalhatott.
+
+Mindezekre tekintettel az Alkotmánybíróság a Szerződés 4., 5. és 8. Cikkének elfogadását nem tekintette a magyar állam függetlensége alkotmányellenes megsértésének, ezért az indítványt ebben a vonatkozásban megalapozatlannak minősítette és elutasította.
+
+3. Az Alkotmánybíróság eljárása kiterjedt annak a körülménynek a vizsgálatára is, hogy a Szerződés (az indítványban nevesítetten a 6. Cikk) az Alkotmány 5. §-a sérelmével rendelkezik-e a Magyar Köztársaság védelmével kapcsolatos feladatok ellátásáról.
+
+3.1. A Szerződés preambuluma szerint (a Felek ,,egyesítik az együttes védelmük, valamint a béke és biztonság fenntartására irányuló erőfeszítéseiket), továbbá az idézett 1. és 5. Cikk alapján a NATO a tagállamok kollektív védelmét megvalósító szervezet.
+
+A kollektív önvédelem lehetőségére a biztonság garanciarendszerében az Alapokmány 51. Cikke utal a következőképpen: ,,A jelen Alapokmány egyetlen rendelkezése sem érinti az Egyesült Nemzetek valamelyik tagja ellen irányuló fegyveres támadás esetén az egyéni vagy kollektív önvédelem természetes jogát mindaddig, amíg a Biztonsági Tanács a nemzetközi béke és biztonság fenntartására szükséges rendszabályokat meg nem tette. A tagok az önvédelem e jogának gyakorlása során foganatosított rendszabályaikat azonnal a Biztonsági Tanács tudomására tartoznak hozni, és ezek a rendszabályok semmiképpen sem érintik a Biztonsági Tanácsnak a jelen Alapokmány értelmében fennálló hatáskörét és kötelességét abban a tekintetben, hogy a nemzetközi béke és biztonság fenntartása vagy helyreállítása végett az általa szükségesnek tartott intézkedéseket bármikor megtegye.''
+
+A Szerződés idézett 5. Cikke – az Alapokmányban foglalt előírások érvényesítésével, azoknak megfelelően – a NATO-ban érvényesülő kollektív önvédelem elvét rögzíti. Sem a Szerződés, sem a Htv., sem más jogszabály alapján nem csökken a NATO-tagállamok felelőssége saját védelmük iránt: az Alkotmány 35. § (1) bekezdés a) pont első fordulata szerint a Magyar Köztársaság alkotmányos rendjének védelme a Kormány feladatkörébe tartozik, a Htv. 1. § (1) bekezdés első mondatának megfelelően pedig a honvédelem nemzeti ügynek minősül.
+
+3.2. A Szerződés a kollektív védelem garanciáiról is rendelkezik: a 4. Cikk a politikai függetlenség és a biztonság veszélyeztetése esetére tanácskozásokat helyez kilátásba, a Felek egyike vagy többjük ellen (Európában vagy Észak-Amerikában) intézett fegyveres támadás esetén pedig valamennyi Fél intézkedését, így a fegyveres erő alkalmazásának kötelezettségét írja elő az 5. Cikk. A 6. Cikk az 5. Cikk alkalmazásának körét bővíti, értelmezi.
+
+A vázoltak alapján a kollektív védelem alkalmazhatósága az Alapokmányon alapul. Az Alapokmányban foglalt előírások a nemzetközi jog általánosan elismert szabályainak minősülnek. [Alkotmány 7. § (1) bekezdés].
+
+Az 53/1993. (X. 13.) AB határozat (ABH 1993. 323, 327.) szerint ,,az Alkotmány 7. § (1) bekezdésének második fordulata – a vállalt nemzetközi jogi kötelezettségek és a belső jog összhangjának biztosítása – minden ,,vállalt'' nemzetközi kötelezettségre vonatkozik, így a nemzetközi jog általánosan elismert szabályaira és a nemzetközi szerződések tartalmára is.
+
+A 30/1998. (VI. 25.) AB határozat – az előbbi megállapításra tekintettel – hangsúlyozta, hogy ,,a vállalt nemzetközi kötelezettségek összhangját az egész belső joggal biztosítani kell, így mindenekelőtt az Alkotmány rendelkezéseivel is. Ennek megítélése során az Alkotmány 7. §-a érvényesüléséhez szükségszerűen be kell vonni a vizsgálatba azt, hogy a nemzetközi kötelezettségvállalás összhangban van-e az Alkotmánnyal.'' (ABH 1998. 221, 236.)
+
+Az indítvány benyújtását követően az Országgyűlés a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosítására irányuló 2000. évi XCI. törvény (a továbbiakban: Alkmód.) 5. §-ával módosította az Alkotmány 40/A. § (1) bekezdésének idézett első mondatát. Ezért az Alkotmánybíróság az Alkotmány 5. §-a megsértésére vonatkozó indítványi hivatkozásokat az Alkotmány 40/A. § (1) bekezdése új szabályozásának összefüggésében vizsgálta. E rendelkezésnek az indítvány előterjesztésekor hatályos szövege szerint a fegyveres erők (Magyar Honvédség, Határőrség) alapvető kötelessége a haza katonai védelme. Az Alkmód. bővítette a fegyveres erők feladatát és kötelességükként jelölte meg a nemzetközi szerződésből eredő kollektív védelmi feladatok ellátását, így a szerződés kifogásolt Cikkeiben megjelölt kötelezettségek teljesítését is.
+
+Az Alkmód. új szabályozást alkotott a fegyveres erők országon belüli és külföldi alkalmazásáról, illetve külföldi fegyveres erők magyarországi vagy az ország területéről kiinduló alkalmazásáról, a fegyveres erők békefenntartásban való részvételéről, külföldi hadműveleti területen végzett humanitárius tevékenységéről, valamint a fegyveres erők külföldi, illetve a külföldi fegyveres erők magyarországi állomásozásáról is.
+
+Az Alkotmány tehát ismeri és szabályozza a kollektív védelem lehetőségét, a hazai fegyveres erők országhatáron túli alkalmazásának, az egyéb veszélyes tevékenység folytatásának (békefenntartás, humanitárius tevékenység) és a fegyveres erők felhasználásának feltételeit.
+
+A vázoltak alapján az Alkotmánybíróság álláspontja szerint – különösen az Alkotmány 40/A. § (1) bekezdés első mondatában foglaltakra tekintettel – a Szerződés 6. Cikke nem ellentétes az Alkotmány 5. §-ának rendelkezésével.
+
+Mindezekre tekintettel az Alkotmánybíróság a Szerződés alkotmányellenességének megállapítására és megsemmisítésére irányuló indítványt elutasította.
+
+Az Alkotmánybíróság e határozatának a Magyar Közlönyben történő közzétételét a közérdeklődésre való tekintettel rendelte el.
+
+Alkotmánybírósági ügyszám: 222/B/1999.
