@@ -1,0 +1,101 @@
+## I. A Magyar Köztársaság 1993. évi költségvetéséről szóló 1992. évi LXXX. törvény (a továbbiakban: Tv.) 34. §-a alapján, annak 1. számú mellékletének III. fejezete 5. címében előirányzott 220 millió forint támogatási összegből a 28/1993. (IV. 29.) OGY határozat II. 1. és 2. pontja által elkülönített 18 millió 230 ezer forintot kitevő tartalékalapot az Országgyűlés a jelen határozat 1. és 2. számú melléklete szerint osztja fel.
+
+## II. E költségvetési támogatás a nemzeti és etnikai kisebbségi szervezetek szervezeti és működési költségeinek fedezésére szolgál. Támogatásban nem részesülhetnek azok a politikai szervezetek, amelyek a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény hatálya alá tartoznak.
+
+## III. A költségvetési támogatás folyósításáról a Pénzügyminisztérium gondoskodik a Tv. 36. § (1) és (3) bekezdése alapján.
+
+## IV. A költségvetési támogatás felhasználásának ellenőrzése az államháztartásról szóló 1992. évi XXXVIII. törvény 121. §-a alapján történik.
+
+1. számú melléklet a 91/1993. (XI. 17.) OGY határozathoz
+
+--------------------------------------------------
+
+Sorszám Szervezetek A támogatás összege Ft-ban
+
+--------------------------------------------------
+
+Cigány szervezetek:
+
+1. ,,AMALIPE'' Cigány Kultúra és Hagyományőrző Egyesület 2 800 000
+
+2. Angyalföldi Roma (Cigány) Önkormányzat 90 000
+
+3. Az Eperjeskei Ifjúsági Élet Jobbulásáért Szervezet 90 000
+
+4. Bicskei Romák Kisebbségi Önkormányzata és Érdekvédelmi Szervezete 160 000
+
+5. Budapest, XIII. kerületi Angyalföldi Roma Ifjúsági Szervezet 100 000
+
+6. Cigány Etnikai Kisebbségi Önkormányzat, Csenger 110 000
+
+7. Cigány Kulturális és Közművelődési Egyesület 850 000
+
+8. Fejér Megyei Cigányok Független Szervezete 1 250 000
+
+9. Fejér Megyei Cigányok Ifjúsági Szervezete (FMCISZ) 500 000
+
+10. Hetvehelyi ,,BEÁS'' Cigány Egyesület 160 000
+
+11. ,,Igaz Szó'' Magyarországi Romák Független Érdekszövetsége 340 000
+
+12. Józsefvárosi Cigány (ROMA) Kisebbségi Önkormányzat 260 000
+
+13. Kalyi Jag Roma Művészeti Egyesület 2 150 000
+
+14. Kecskeméti Cigány Egyesület 200 000
+
+15. Kékcsei Hátrányos Helyzetű Fiatal Cigány Anyák Érdekvédelmi Szervezete 60 000
+
+16. Kékcsei Hátrányos Helyzetű Fiatal Romák Szervezete 60 000
+
+17. Kiskunmajsai Cigány (Roma) Kisebbségi Érdekképviseleti Szervezet 220 000
+
+18. Magyar Cigányok Antifasiszta Szervezete 890 000
+
+19. Magyarországi Cigány Anyák Érdekszövetsége 920 000
+
+20. Magyarországi Cigányok Kisebbségi és Nemzetiségi Demokratikus Szövetsége 200 000
+
+21. Magyarországi Szocialista Romák Szervezete 500 000
+
+22. Magyarországi Cigányok Népi Kulturális Szövetségének Baranya Megyei Szervezete 330 000
+
+23. Megyaszói Cigányok Kisebbségi Demokratikus Szervezete 110 000
+
+24. Mindszenti Cigányok Érdekvédelmi Szövetsége 60 000
+
+25. Miskolci Független Cigány Szervezet 120 000
+
+26. Miskolci Romák Kulturális és Hagyományőrző Szervezete 120 000
+
+27. Patrona Hungariae Emberi és Polgári Jogok Társasága 820 000
+
+28. ,,Pácini Cigányságért'' 200 000
+
+29. ,,PHRALIPE'' Független Cigány Szervezet 1 000 000
+
+30. Pestszenterzsébeti Hátrányos Helyzetű Cigányanyák Független Szervezete 60 000
+
+31. Roma Kisebbségi Önkormányzat, Pécs 120 000
+
+32. Romungró Országos Szocialista Szervezet 370 000
+
+33. Szabad Demokrata Egyenjogú Cigányszövetség, Paks 80 000
+
+34. Szabolcs-Szatmár-Bereg Megyei Hátrányos Helyzetű Romák Érdekképviseleti Szervezete 370 000
+
+35. Szentesi Roma Kisebbségi Önkormányzat 80 000
+
+36. Szigetszentmiklós-Lakihegy Független Cigányszervezet 270 000
+
+37. Tiszakanyári Cigány Nők Szervezete 110 000
+
+38. Vas Megyei Független Cigány Szervezet 670 000
+
+39. Veszprém Megyei Cigányok Független Érdekvédelmi Szövetsége 470 000
+
+40. Zala Megyei Cigányok Független Egyesülete 460 000
+
+--------------------------------------------------
+
+Cigány szervezetek összesen: 17 730 000
