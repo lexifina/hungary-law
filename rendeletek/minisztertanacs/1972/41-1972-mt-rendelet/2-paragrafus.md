@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között az „Általános Feltételek a Magyar Népköztársaság és a Jugoszláv Szocialista Szövetségi Köztársaság közötti tudományos és műszaki együttműködés megvalósítására” tárgyában Budapesten, 1971. június hó 12. napján aláírt Megállapodást e rendelettel kihirdeti.

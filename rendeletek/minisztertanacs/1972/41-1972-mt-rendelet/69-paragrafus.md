@@ -1,0 +1,1 @@
+## 68. § Jelen Feltételek hatálybalépésével az 1957. május 4-én aláírt, „A Magyar Népköztársaság és a Jugoszláv Szocialista Szövetségi Köztársaság közötti Műszaki-Tudományos Együttműködés Általános Feltételei”, melyek a Magyar-Jugoszláv Műszaki-Tudományos Együttműködési Vegyesbizottság I. ülésszakán kerültek elfogadásra, hatályukat vesztik.

@@ -1,0 +1,1 @@
+## 39. § Amennyiben az igényben nem szerepel a tanulmányút helye a fogadó országban vagy a javasolt helyen igazolt okból nem valósítható meg, a fogadó fél javaslatot tehet a tanulmányút helyére vonatkozóan.

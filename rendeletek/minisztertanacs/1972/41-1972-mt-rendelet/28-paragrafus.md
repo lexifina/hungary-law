@@ -1,0 +1,1 @@
+## 27. § A szaktanácsadó igénybevétele a két ország közvetlenül érdekelt szervezetei között kötött szerződés alapján történik, melyben rögzítésre kerülnek a felek kötelezettségei és az elfogadott igény teljesítésének feltételei, beleértve a szaktanácsadó szakképzettségétől függő térítéseket.

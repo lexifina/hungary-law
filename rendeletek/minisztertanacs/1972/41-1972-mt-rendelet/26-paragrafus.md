@@ -1,0 +1,1 @@
+## 25. § A szaktanácsadót rendelkezésre bocsátó fél az igény kézhezvételétől számított 60 napon belül köteles nyilatkozni az igény teljesíthetőségéről és pozitív válasz esetén egyidejűleg köteles közölni a szaktanácsadó műszaki segítségnyújtásának feltételeit, személyi adatait, szakképzettségét és szakmai gyakorlatát.

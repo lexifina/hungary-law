@@ -1,0 +1,1 @@
+## 48. § Amennyiben a kiképzést rövidebb időre javasolják vagy fogadták el és a szakértő kiképzése nem jár anyagi kihatással, úgy az előzetes szerződés nélkül is lefolytatható. Ebben az esetben a megvalósítás a Feltételek 41. §-a szerint történik.

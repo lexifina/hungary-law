@@ -1,0 +1,1 @@
+## 62. § A 61. §-ban megjelölt rendelkezések egyaránt vonatkoznak olyan igényekkel és szolgáltatásokkal kapcsolatos szerződésekre is, mint pl. gyártmányvizsgálatok, laboratóriumi kísérletek, termelési próbák és kísérletek, kísérleti minták, felszerelések és anyagok átadása, valamint a közvetlen együttműködés egyéb formái.

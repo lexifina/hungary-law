@@ -1,0 +1,1 @@
+## 16. § A dokumentáció birtokosa az igény kézhezvételétől számított legkésőbb 60 napon belül köteles közölni állásfoglalását, valamint elfogadás esetén az igényelt dokumentáció átadásának javasolt feltételeit is.

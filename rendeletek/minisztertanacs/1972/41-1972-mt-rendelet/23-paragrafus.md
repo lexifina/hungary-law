@@ -1,0 +1,1 @@
+## 22. § A dokumentációt átvevő fél a dokumentáció átvételétől számított 90 napon belül köteles nyilatkozni a dokumentációt átadó félnek, hogy az átvett dokumentációt a szerződés alapján teljes mértékben megfelelőnek tartja-e, illetve igényel-e kiegészítést, vagy a hibás dokumentáció kicserélését kéri, kivéve, ha a szerződő felek másként állapodnak meg.

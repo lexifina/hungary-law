@@ -1,0 +1,1 @@
+## 10. § Alapanyag, félkész- és készáruminták átadása kísérleti vagy tudományos kutató és fejlesztési munkák céljából térítés ellenében vagy térítésmentesen történhet közvetlenül az érdekelt szervezetek szerződéskötése útján.

@@ -1,0 +1,1 @@
+## 6. § A két ország közötti tudományos és műszaki együttműködés végrehajtásából eredő fizetések a Magyar Népköztársaság és a Jugoszláv Szocialista Szövetségi Köztársaság között a fizetés időpontjában érvényben levő pénzügyi megállapodás előírásai szerint történik.

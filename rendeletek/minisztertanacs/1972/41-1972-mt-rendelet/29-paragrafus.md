@@ -1,0 +1,1 @@
+## 28. § A szaktanácsadót kiküldő félnek jogában áll a szerződés megkötése előtt a másik féltől a szaktanácsadó által végzendő munkáról kiegészítő adatokat kérni, amennyiben az igényben a feladatot nem eléggé részletesen és szabatosan adták meg.
