@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a közös államhatáron autópálya-határátkelőhely létesítéséről és megépítéséről szóló, Kalondán, 1996. április hó 30. napján aláírt Megállapodást e rendelettel kihirdeti.
