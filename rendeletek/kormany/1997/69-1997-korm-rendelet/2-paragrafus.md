@@ -1,0 +1,1 @@
+## 1. § A Kormány a Közép-Európai Szabadkereskedelmi Megállapodás 3. Számú Kiegészítő Jegyzőkönyvét (a továbbiakban: 3. Számú Kiegészítő Jegyzőkönyv), amely 1996. július 16-án hatályba lépett, e rendelettel kihirdeti.

@@ -1,0 +1,1 @@
+A Cseh Köztársaság, a Lengyel Köztársaság, a Magyar Köztársaság és a Szlovák Köztársaság közötti Közép-Európai Szabadkereskedelmi Megállapodás kihirdetéséről szóló 1995. évi XIII. törvény 3. §-ában kapott felhatalmazás alapján, a Kormány a következőket rendeli el:
