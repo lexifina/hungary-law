@@ -1,0 +1,1 @@
+Az Országgyűlés a társadalombiztosítás pénzügyi alapjainak 1994. évi költségvetéséről szóló, az 1994. évi L. törvénnyel módosított 1993. évi CXV. törvény (a továbbiakban: KT.) módosításáról a következő törvényt alkotja:
