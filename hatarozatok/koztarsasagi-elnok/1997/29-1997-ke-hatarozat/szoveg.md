@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Szörényi László rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaságnak a Máltai Köztársaságban való képviseletére kapott megbízása alól.
