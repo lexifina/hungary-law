@@ -1,0 +1,3 @@
+Az 1971. évi 25. törvényerejű rendelettel kihirdetett, a Nemzetközi Polgári Repülésről szóló Chicagói Egyezmény (a továbbiakban: Egyezmény) – 1989. november 16-tól a szerződő tagállamok számára kötelező szabvánnyá vált – 17. számú függelékében előírt biztonsági követelmények maradéktalan teljesítése érdekében, a Rendőrségről szóló 1994. évi XXXIV. törvény 101. §-a (1) bekezdésének a) és e) pontjaiban kapott felhatalmazás alapján, a közlekedési, hírközlési és vízügyi miniszterrel, a pénzügyminiszterrel, a honvédelmi miniszterrel és a polgári titkosszolgálatokat irányító tárca nélküli miniszterrel egyetértésben a következőket rendelem el:[^2]
+
+[^2]: A rendelet bevezető rendelkezése a 48/1998. (X. 28.) BM rendelet 1. §-ával megállapított szöveg.
