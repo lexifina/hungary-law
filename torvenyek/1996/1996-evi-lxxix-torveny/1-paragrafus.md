@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és Románia Kormánya között az EBESZ 1994. évi Bécsi Dokumentumát kiegészítő bizalom- és biztonságerősítő intézkedésekről és a katonai kapcsolatok fejlesztéséről szóló, Aradon, 1996. szeptember 6-án aláírt Megállapodást (a továbbiakban: Megállapodás) e törvénnyel megerősíti.
