@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Szabó András rendkívüli és meghatalmazott nagykövetet – a Magyar Köztársaság bangkoki nagykövetsége vezetésére kapott megbízása érintetlenül hagyása mellett – megbízom a Magyar Köztársaságnak Brunei Darussalamban való képviseletével.
