@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Görög Köztársaság között Budapesten, 1992. április 3-án aláírt barátsági és együttműködési Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítő okiratait Budapesten, 1995. május 8-án kicserélték, és a Szerződés ezen a napon hatályba lépett.)
