@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a nukleáris biztonságról a Nemzetközi Atomenergia Ügynökség keretében Bécsben, 1994. szeptember 20-án létrejött Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló okirat letétbe helyezése a Nemzetközi Atomenergia Ügynökségnél 1996. március 18-án megtörtént.)
