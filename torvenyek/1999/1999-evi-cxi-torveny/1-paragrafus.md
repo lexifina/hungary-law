@@ -1,0 +1,1 @@
+1. § Az Országgyűlés elhatározza a Magyar Köztársaság csatlakozását a védelmi célokat szolgáló műszaki információk cseréjéről szóló, Brüsszelben, 1970. október 19-én kelt Megállapodáshoz (a továbbiakban: Megállapodás).
