@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Cseh és Szlovák Szövetségi Köztársaság Kormánya között a kölcsönös tájékoztatásról és együttműködésről a nukleáris biztonság és sugárvédelem területén aláírt egyezményt e rendelettel kihirdeti.
