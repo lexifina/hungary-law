@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Mozambiki Népi Köztársaság Kormánya között Budapesten, az 1978. évi november hó 8. napján aláírt, az egészségügyi együttműködésről szóló egyezményt e rendelettel kihirdeti.
