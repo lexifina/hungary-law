@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és Románia Kormánya között a közös békefenntartó zászlóalj létrehozása tárgyában, Budapesten, 1998. március 20-án aláírt Megállapodást (a továbbiakban: Megállapodás) e törvénnyel megerősíti.
