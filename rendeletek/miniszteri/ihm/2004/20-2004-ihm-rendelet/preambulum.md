@@ -1,0 +1,1 @@
+A Nemzeti Információs Infrastruktúra Fejlesztési Program működtetéséről szóló 95/1999. (VI. 23.) Korm. rendelet (a továbbiakban: Kormányrendelet) 9. §-ának (4) bekezdésében foglalt felhatalmazás alapján az alábbiakat rendelem el:
