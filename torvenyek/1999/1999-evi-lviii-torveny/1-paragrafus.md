@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaságnak, a Cseh Köztársaságnak és a Lengyel Köztársaságnak az Észak-atlanti Szerződéshez történő csatlakozásáról szóló, Brüsszelben, 1997. december 16-án létrehozott jegyzőkönyveket e törvénnyel kihirdeti.
