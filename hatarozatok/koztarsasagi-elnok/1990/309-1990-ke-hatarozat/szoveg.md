@@ -1,0 +1,1 @@
+Az Alkotmány 30/A. §-ának (1) bekezdése alapján, a miniszterelnök javaslatára dr. László Jenőt az Ipari és Kereskedelmi Minisztériumba – 1990. december 20-ai hatállyal – közigazgatási államtitkárrá kinevezem.
