@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Észak-atlanti Szerződés Szervezete, a nemzeti képviselők és a nemzetközi titkárság jogállásáról szóló Megállapodást (a továbbiakban: Megállapodás) megerősíti, és e törvénnyel kihirdeti.
