@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a harmadik államoknak az Észak-atlanti Szerződés Szervezetéhez rendelt képviseletei és képviselői jogállásáról szóló, Brüsszelben, 1994. szeptember 14-én kelt Megállapodást ( a továbbiakban: Megállapodás) megerősíti és e törvénnyel kihirdeti.
