@@ -1,0 +1,1 @@
+## 9. § Az e rendelet hatálya alá tartozó valamennyi, PCB-vel kapcsolatos tevékenység során maradéktalanul be kell tartani az egyéb jogszabályok tűzvédelmi, a munkavállalók egészségét, biztonságát nem veszélyeztető munkavégzésre vonatkozó szabályait és a tevékenységekkel kapcsolatos bejelentési kötelezettségre vonatkozó előírásait.

@@ -1,0 +1,1 @@
+## 10. § Az e rendeletben meghatározott kötelezettségek teljesítésének ellenőrzése az illetékes környezetvédelmi felügyelőség hatásköre. A kötelezettségek teljesítésének elmulasztása, továbbá a kezelésre vonatkozó előírások megszegése esetén – a rendelkezések megszegőivel szemben – a külön jogszabályokban meghatározott szankciókat kell alkalmazni.

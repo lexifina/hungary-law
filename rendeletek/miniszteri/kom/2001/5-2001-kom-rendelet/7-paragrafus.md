@@ -1,0 +1,5 @@
+7. § (1) A PCB-t tartalmazó berendezések birtokosainak a 6. § szerinti nyilvántartás alapján a berendezések számáról, illetve a bennük levő PCB mennyiségéről és anyagi minőségéről, a berendezések megtisztítását végző, illetve a kezelésre jogosult gazdálkodó szervezeteknek a birtokukban levő hulladékká vált PCB-t tartalmazó és ártalmatlanításra átvett berendezések számáról, eredetéről, a PCB anyagi minőségéről, a PCB tartalmáról, továbbá ha van a birtokukban az elkülönített PCB anyagi minőségéről, mennyiségéről és eredetéről az illetékes környezetvédelmi felügyelőségnek bejelentést kell tenniük. A környezetvédelmi felügyelőség a bejelentések alapján nyilvántartást vezet. A területi adatok alapján az országos összesítést a környezetvédelmi miniszter által kijelölt szervezet végzi.
+
+(2) Az (1) bekezdés szerinti bejelentésre kötelezettek az alapbejelentést 2002. március 31-ig, ezt követően a változásjelentést minden év március 31-éig kötelesek benyújtani.
+
+(3) Az 5 dm3-nél kevesebb PCB-t tartalmazó folyadékkal feltöltött, hulladékká vált berendezések, illetve bennük lévő folyadékok kezelésére a 3. § (4) bekezdésének rendelkezéseit kell alkalmazni.
