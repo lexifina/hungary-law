@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között Budapesten, 1996. január 16-án aláírt, a magyar–ukrán határon lévő közúti Tisza-híd átépítéséről szóló Megállapodást e rendelettel kihirdeti.
