@@ -1,0 +1,1 @@
+4. § A m. kir. kereskedelemügyi miniszter felhatalmaztatik, hogy a jelen törvény 2. §-ába iktatott megállapodást Magyarországra nézve az általa meghatározandó időpontban hatályba léptesse és végrehajtása iránt a szükséges intézkedéseket megtegye.

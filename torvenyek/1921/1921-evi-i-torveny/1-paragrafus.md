@@ -1,0 +1,1 @@
+1. § A m. kir. minisztérium felhatalmaztatik, hogy Magyarországnak az ipari tulajdon védelmére alakult nemzetközi Unió részéről a világháborútól érintett ipari tulajdonjogok fenntartására és visszaállítására vonatkozóan Bernben 1920. évi junius hó 30. napján létesített megállapodáshoz való csatlakozás a végett a szükséges intézkedéseket megtegye.
