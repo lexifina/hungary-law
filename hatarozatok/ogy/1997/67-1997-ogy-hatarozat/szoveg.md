@@ -1,0 +1,5 @@
+1. Az Országgyűlés elfogadja az Országos Rádió és Televízió Testület 1996. évi beszámolóját azzal, hogy a rádiózásról és televíziózásról szóló 1996. évi I. törvény 41. §-ának (1) bekezdésében, valamint a 43. § (1) bekezdésében foglaltaknak megfelelően az ORTT 1997. június 30-ig pótlólag benyújtja az Országgyűlésnek az 1996. évről szóló pénzügyi-gazdasági beszámolóját.
+
+2. Az Országgyűlés felkéri a Kormányt, hogy az országos televízió és rádió pályázatok eredményes lebonyolítása, valamint a rádiózásról és televíziózásról szóló 1996. évi I. törvényben (a továbbiakban: Rtv.) foglalt valamennyi egyéb feladat végrehajtása érdekében a törvény által előírt, még nem teljesített kötelezettségeinek maradéktalanul tegyen eleget. Gondoskodjék a sugárzási díjak megnyugtató rendezéséről, és a műsorszolgáltatás megfelelő finanszírozásának érdekében 1997. július 31-ig alkossa meg az üzemben tartási díjak beszedésének részletes szabályait.
+
+3. Az Országgyűlés szükségesnek tartja, hogy az Országos Rádió és Televízió Testület az Rtv. 41. §-ának (1) bekezdésében meghatározott feladatai teljesítésére fordítson fokozott figyelmet.
