@@ -1,0 +1,1 @@
+7. § Az Országgyűlés tudomásul veszi, hogy a helyi önkormányzatok 1993. évi normatív állami hozzájárulásának elszámolásából az1993. évi Zárszámadási Törvény 6. §-ának (3) bekezdésében előírt, egyenlegében 375,0 millió forint és az 1993. évi Zárszámadási Törvény 6. §-ának (4) bekezdésében előírt 38,9 millió forint visszafizetési kötelezettségüknek eleget tettek.

@@ -1,0 +1,1 @@
+15. § Az Országgyűlés tudomásul veszi, hogy a pénzügyminiszter a Magyar Köztársaság 1993. évi költségvetéséről szóló — többször módosított — 1992. évi LXXX. törvény 39. §-ának a) pontjában szereplő felhatalmazás alapján a budapesti felsőoktatás-fejlesztés céljaira — világkiállítási előhasznosítással — 3000,0 millió forint értékben bocsátott ki államkötvényt.

@@ -1,0 +1,1 @@
+9. § Az Országgyűlés tudomásul veszi az elkülönített állami pénzalapok mérlegét a 7. számú melléklet szerint azzal, hogy az egyes alapok auditálásához szükséges változásokat a feltárás évében kell elszámolni.

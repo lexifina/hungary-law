@@ -1,0 +1,1 @@
+8. § Az Országgyűlés tudomásul veszi, hogy a Magyar Rádió és a Magyar Televízió az alaptevékenységének tervezettet meghaladó (támogatásértékű) bevételi és azzal összefüggő kiadási előirányzatainak emelését saját hatáskörben végrehajtotta.
