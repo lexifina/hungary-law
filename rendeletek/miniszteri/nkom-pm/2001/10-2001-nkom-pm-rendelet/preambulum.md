@@ -1,0 +1,1 @@
+A Nemzeti Kulturális Alapprogramról szóló 1993. évi XXIII. törvény módosításáról szóló 2000. évi CXL. törvény (a továbbiakban: Tv.) 7. §-ának a) pontjában kapott felhatalmazás alapján a következőket rendeljük el:
