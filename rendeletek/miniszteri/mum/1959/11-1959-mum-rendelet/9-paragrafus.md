@@ -1,0 +1,9 @@
+## 8. § Az utóbb bekövetkezett újabb üzemi baleset vagy foglalkozási betegség alapján járó szolgáltatások és kártalanítás nyújtására – az egyezmény 12. cikkének (1) és (2) bekezdésében foglalt rendelkezéseknek megfelelően – az az illetékes magyar társadalombiztosítási szerv köteles, amelynél a sérült az újabb baleset időpontjában biztosítva volt, illetőleg amelynél az utóbb fennállott biztosítás tartama alatt a foglalkozási betegség keletkezett.
+
+9. § (1) Az egyezmény 31. cikkének (2) bekezdésében foglalt rendelkezés alapján az 1956. évi május hó 29. napját megelőzően magyar vagy jugoszláv biztosítás hatálya alatt elszenvedett üzemi baleset vagy foglalkozási betegség alapján kártalanításra jogosult személy nyugellátását az illetékes magyar társadalombiztosítási szerv abban az esetben köteles megállapítani és az erre illetékes magyar szerv folyósítani, ha az 1956. évi május hó 29. napján a jogosultnak állandó lakóhelye Magyarország területén volt. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha a jogosult részére a jugoszláv biztosítási teherviselő megelőzően ellátást már megállapított.
+
+(2) Az (1) bekezdés szerint kártalanításra jogosult személy ellátását az üzemi baleset bekövetkezése, illetőleg a foglalkozási betegség keletkezése időpontjában hatályos magyar jogszabályok szerinti feltételekkel és mértékben kell megállapítani, figyelembe véve a nyugellátásoknak időközben történt emelését is.
+
+(3) Az (1) bekezdés szerint kártalanításra jogosult személy halála esetén hozzátartozóit a halál időpontjában hatályos magyar jogszabályok szerint illeti meg ellátás.
+
+(4) Ha a biztosított üzemi baleset vagy foglalkozási betegség következtében az 1956. évi május hó 29. napját megelőzően halt meg, a hozzátartozókat a halál időpontjában hatályos magyar jogszabályok szerint csak abban az esetben illeti meg ellátás, ha az említett napon a hozzátartozóknak állandó lakóhelye Magyarország területén volt.

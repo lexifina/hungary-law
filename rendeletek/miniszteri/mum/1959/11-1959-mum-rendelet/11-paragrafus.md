@@ -1,0 +1,9 @@
+## 10. §[^10] Annak a személynek a részére, aki a 7-9. §-ban foglalt rendelkezések szerint magyar társadalombiztosítási szervtől üzemi baleset, vagy foglalkozási betegség alapján ellátásra jogosult, és állandó lakóhelyét az 1956. évi május hó 29. napját követően Jugoszlávia területére helyezte át, a megállapított nyugellátást – az egyezmény 9. cikkének (2) bekezdésében, valamint a 3. §-ban foglalt rendelkezések figyelembevételével – az általa közölt jugoszláviai lakcímére a Magyar Nemzeti Bank útján át kell utalni.
+
+## Öregség, rokkantság és halál esetén járó nyugellátások
+
+11. § (1) Az egyezmény 13. és 15. cikkében foglalt rendelkezéseken alapuló – vagyis az 1956. évi május hó 29. napján vagy azt követően a magyar jogszabályok szerint megnyílott – nyugdíjigények bejelentéséről az illetékes nyugdíjmegállapító szerv (22. §) harminc napon belül köteles a jugoszláv részről kijelölt központi szervet (24. §) értesíteni. Az értesítéssel egyidejűleg közölni kell az igénylőnek Magyarországon biztosításban eltöltött idejére vonatkozó, valamint az igény elbírálásában szükséges egyéb adatokat. Ugyanakkor fel kell kérni a jugoszláv részről kijelölt központi szervet, hogy az igénylőnek Jugoszláviában biztosításban eltöltött idejére vonatkozó és az igény elbírálásához szükséges egyéb adatokat közölje.
+
+(2) Az illetékes nyugdíjmegállapító szerv a nyugellátás megállapítására irányuló igényt a rendelkezésre álló és az (1) bekezdés szerint beszerzett adatok és igazolások alapján – a mindkét országban biztosításban eltöltött és annak tekintendő idők egybeszámításával – az igénybejelentéskor hatályban levő magyar jogszabályok szerint köteles elbírálni és a nyugdíj összegét a 12. §-ban foglalt rendelkezések szerint megállapítani.
+
+[^10]: A 10. § a 2/1973. (VIII. 11.) SZOT szabályzat 4. §-ával megállapított szöveg.

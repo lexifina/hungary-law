@@ -1,0 +1,7 @@
+5. §[^5] (1) Az a személy, aki a Jugoszláviában hatályos jogszabályok alapján a betegségi biztosítás természetben járó szolgáltatásaira jogosult, Magyarország területén az egyezmény 11. cikkében meghatározott szolgáltatásokat a 4. § (3) bekezdése szerint a jugoszláv társadalombiztosítási szerv által kiállított „Biztosítási igazolvány” alapján veheti igénybe. A „Biztosítási igazolvány” az útiokmánnyal (útlevéllel) együtt érvényes.
+
+(2) A kizárólag jugoszláv társadalombiztosítási szervtől nyugellátásban részesülő személy részére, ha állandó lakóhelye magyar területen van, a betegségi biztosítás természetben járó szolgáltatásait az illetékes magyar társadalombiztosítási szerv saját jogszabályai szerint és saját terhére nyújtja. Ezeknek a személyeknek, illetve családtagjaiknak, a „Biztosítási igazolvány”-t a nyugellátást folyósító jugoszláv szerv igazolása alapján a kijelölt magyar központi szerv állítja ki.
+
+(3) Olyan esetben, amikor a természetben járó szolgáltatásokra egyébként jogosult jugoszláv biztosított „Biztosítási igazolvány”-nyal nem rendelkezik, de magyarországi tartózkodási helyén egészségi állapota sürgős orvosi kezelést, vagy kórházi ápolást tesz szükségessé, az állami egészségügyi szolgálat illetékes szerve (intézménye) az útiokmány (útlevél) alapján gondoskodik a jugoszláv biztosított szükségessé vált egészségügyi ellátásáról.
+
+[^5]: A 5. § a 2/1973. (VIII. 11.) SZOT szabályzat 2. §-ával megállapított szöveg.

@@ -1,0 +1,7 @@
+22. §[^15] (1) Az egyezmény alapján járó nyugellátásra bejelentett igényt – a (2) bekezdésben foglalt kivétellel – az Országos Társadalombiztosítási Főigazgatóság Budapesti és Pest Megyei lgazgatósága bírálja el. Abban az esetben, ha az Országos Társadalombiztosítási Főigazgatóságnak elbírálásra egyébként illetékes más helyi szervénél (alközpontnál, kirendeltségnél) olyan igényt jelentenek be, amely Jugoszlávia területén eltöltött szolgálati időnek – ideértve a munkaviszony alatt bekövetkezett üzemi balesetet, illetőleg keletkezett foglalkozási betegséget is – csak az egyezmény alapján történő figyelembevételével teljesíthető, az igénybejelentést a vonatkozó iratokkal együtt elbírálás és határozathozatal végett a Budapesti és Pest Megyei Társadalombiztosítási Igazgatóságnak kell megküldeni.
+
+(2) Ha Jugoszlávia területén eltöltött szolgálati időt Magyarországon eltöltött szolgálati idő követte és az utolsó munkaviszony alapján az igény elbírálására nem Országos Társadalombiztosítási Főigazgatóság, hanem más nyugdíjmegállapító szerv (MÁV Nyugdíjhivatala stb.) illetékes, az egyezmény alapján járó nyugellátásra bejelentett igényt az illetékes nyugdíjmegállapító szerv bírálja el.
+
+(3) A nyugellátási igény tárgyában az (1)–(2) bekezdésben meghatározott szervek határozattal intézkednek. A jogorvoslat tekintetében a hatályos rendelkezéseket kell alkalmazni.
+
+[^15]: Az 1984: 5. tvr. 8. § c) pontjának megfelelően módosított szöveg.

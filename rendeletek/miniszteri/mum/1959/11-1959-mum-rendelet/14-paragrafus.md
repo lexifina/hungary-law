@@ -1,0 +1,3 @@
+14. § (1) A nyugellátás összegének a 12. §-ban foglalt rendelkezések szerinti kiszámításánál a munkabérátlagot – a (2) bekezdésben foglalt eltéréssel – az igénybejelentéskor hatályban levő magyar jogszabályok szerint kell megállapítani.
+
+(2) A munkabérátlag kiszámításánál a baleseti járadék összegét akkor kell munkabérként figyelembe venni, ha azt az illetékes magyar társadalombiztosítási szerv állapította meg és folyósítja. Ha azonban a baleseti járadék figyelembevételével megállapított nyugdíjrész összege kevesebb, mint az addig folyósított baleseti járadék összege, nyugdíjrész címén továbbra is a baleseti járadéknak megfelelő összegű nyugellátást kell megállapítani és folyósítani.

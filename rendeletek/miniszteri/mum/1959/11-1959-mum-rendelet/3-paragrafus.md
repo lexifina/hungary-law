@@ -1,0 +1,1 @@
+## 2. § Az egyezmény 1. cikkében foglalt rendelkezések szerint az egyezmény hatálya nem terjed ki a mezőgazdasági termelőszövetkezetek tagjainak kötelező kölcsönös nyugdíjbiztosításáról szóló jogszabályokon alapuló jogokra.

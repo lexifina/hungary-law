@@ -1,0 +1,1 @@
+## 16. § Jugoszlávia területén eltöltött azt az időt, amelyet az illetékes jugoszláv szervek közlése szerint a nyugdíjra jogosultság szempontjából a jugoszláv jogszabályok alapján figyelembe kell venni, a nyugellátás megállapításánál a hatályos magyar jogszabályok szerint kell szolgálati időként figyelembe venni.
