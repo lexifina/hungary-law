@@ -1,0 +1,1 @@
+Az Országgyűlés felhatalmazza a pénzügyminisztert, vagy az általa kijelölt személyt, hogy a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között a kettős adóztatás elkerülésére és az adóztatás kijátszásának megakadályozására a jövedelemadók területén az 1990. évben parafált egyezményt aláírja.
