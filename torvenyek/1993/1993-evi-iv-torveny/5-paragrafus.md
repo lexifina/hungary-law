@@ -1,0 +1,1 @@
+5. § Az olyan elszámolási kötelezettség alá eső ingatlan vagy ingóság, amely az elszámolásra kötelezett társadalmi szervezet elszámolását követően válik ismertté, a Kincstári Vagyonkezelő Szervezet kezelésébe kerül.

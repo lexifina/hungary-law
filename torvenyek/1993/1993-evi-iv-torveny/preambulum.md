@@ -1,0 +1,1 @@
+Az Országgyűlés az elmúlt rendszerhez kötődő egyes társadalmi szervezetek vagyonelszámoltatásáról szóló 1990. évi LXXIII. törvény (a továbbiakban: Tv.) 7. § és 8. §-a alapján — figyelemmel az Állami Számvevőszéknek a Tv. 6. § (2) és (6) bekezdése szerinti beszámolójára — a következő törvényt alkotja:

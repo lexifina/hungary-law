@@ -1,0 +1,1 @@
+1. § Az Országgyűlés — figyelemmel a Tv. 8. § (2) bekezdésére — elfogadja az e törvény 1. számú mellékletében felsorolt társadalmi szervezeteknek a Tv. 6. § (2), (5) és (6) bekezdésén alapuló vagyonelszámolását.
