@@ -1,0 +1,7 @@
+1. A Kormány
+
+a) a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 50. §-ának (5) bekezdésében foglalt felhatalmazás alapján hozzájárul ahhoz, hogy a nemzeti kulturális örökség minisztere a Művészetek Palotája (Budapest IX., hrsz.: 38017/35) beruházás köz- és magánpartnerség keretében megvalósuló szolgáltatás-vásárlási konstrukcióvá történő átalakítása keretében 30 éves futamidejű rendelkezésre állási szerződést kössön;
+
+b) felhatalmazza a nemzeti kulturális örökség miniszterét a közbeszerzési eljáráson nyertes ajánlattevői konzorcium tagjaival az a) pont szerint kötendő szerződés – pénzügyminiszteri ellenjegyzéssel történő – aláírására, valamint ezzel összefüggésben felhatalmazza a nemzeti kulturális örökség miniszterét és a pénzügyminisztert, hogy a rendelkezésre állási szerződés hatálybalépésétől függően a Művészetek Palotája megvalósításával kapcsolatos hatályos szerződések megszüntetésére irányuló intézkedéseket megtegyék.
+
+2. Ez a határozat a közzététele napján lép hatályba. A Millenniumi Városközpont Kulturális Tömb megvalósításával kapcsolatos intézkedésekről szóló 1118/2001. (X. 19.) Korm. határozat, valamint a Millenniumi Városközpont Kulturális Tömb megvalósításához és működtetéséhez kapcsolódó kormányzati kezességvállalásról szóló 1135/2001. (XII. 18.) Korm. határozat az 1. pont szerinti szerződés hatálybalépésével egyidejűleg hatályát veszti.
