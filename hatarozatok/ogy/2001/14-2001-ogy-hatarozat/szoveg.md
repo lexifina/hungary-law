@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Torgyán József országgyűlési képviselő mentelmi jogát a Budapesti II. és III. Kerületi Bíróság 1.B.202/2001/3. számú megkeresésével érintett ügyben nem függeszti fel.
