@@ -1,0 +1,1 @@
+Az Alkotmány 30/A. §-ának (1) bekezdése alapján a miniszterelnök javaslatára dr. Boross Pétert, a Miniszterelnöki Hivatal politikai államtitkárát tisztségéből – más fontos megbízatása miatt – 1990. július 18-ai hatállyal felmentem.
