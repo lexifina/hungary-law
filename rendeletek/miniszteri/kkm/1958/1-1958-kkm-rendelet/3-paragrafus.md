@@ -1,0 +1,1 @@
+## 2. § Vám- és közadómentesen kell kezelni a jelentéktelen értékű árumintákat, ha azok csupán azt a célt szolgálják, hogy a behozatal érdekében fokozzák megrendeléseiket azokban az árucikkekben, amelyekre az adott áruminták vonatkoznak.

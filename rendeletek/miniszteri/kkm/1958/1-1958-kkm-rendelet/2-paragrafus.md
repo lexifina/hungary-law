@@ -1,0 +1,1 @@
+## 1. § A jelen rendelet rendelkezéseit kell alkalmazni mindazon áruminták és kereskedelmi propagandaanyagok behozatalára, amelyek az Egyezményben részt vevő, vagy ahhoz később csatlakozó országokból származnak.
