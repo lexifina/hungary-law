@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság és az Osztrák Köztársaság között a szociális biztonságról szóló, 1999. március 31-én, Budapesten aláírt Egyezményhez kapcsolódó Végrehajtási Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
