@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Dél-afrikai Köztársaság között a kettős adóztatás elkerüléséről a jövedelemadók területén Budapesten, 1994. március 4-én aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1996. március 6-án megtörtént, és az Egyezmény 1996. május 5-én hatályba lépett.)
