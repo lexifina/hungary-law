@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a háborúkban elesett katonák és a polgári áldozatok emlékhelyeinek megőrzéséről és megörökítéséről, valamint sírjaik jogi helyzetéről szóló, 1996. november 16-án, Kijevben aláírt Megállapodást e rendelettel kihirdeti.
