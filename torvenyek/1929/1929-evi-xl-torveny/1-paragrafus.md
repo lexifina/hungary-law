@@ -1,0 +1,1 @@
+1. § Az 1927. évben Genfben tartott Nemzetközi Értekezlet által a Nemzetközi Segélynyujtó Egyesülés tárgyában tervezet alakjában elfogadott nemzetközi egyezményt a hozzátartozó alapszabályokkal együtt a törvényhozás az ország törvényei közé iktatja.
