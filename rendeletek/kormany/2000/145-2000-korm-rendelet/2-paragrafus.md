@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között Budapesten, 1998. február 26-án aláírt, a vámügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezményt e rendelettel kihirdeti.
