@@ -1,0 +1,9 @@
+# 88/2003. (XII. 16.) GKM rendelet
+
+a háztartási légkondicionáló berendezések energiafelhasználásának ismérveiről való tájékoztatásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-88-20-0L
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2004-02-01 | 2003-88-20-0L.1 | 88/2003. (XII. 16.) GKM rendelet |
