@@ -1,0 +1,1 @@
+1. § Az Olaszországgal 1927. évi április hó 5. napján Rómában kötött barátsági, békéltető eljárási és választott bírósági szerződés a hozzátartozó jegyzőkönyvvel együtt az ország törvényei közé iktattatik.
