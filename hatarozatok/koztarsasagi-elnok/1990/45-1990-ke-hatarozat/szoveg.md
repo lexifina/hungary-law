@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére a Népköztársaság Elnöki Tanácsának 1958. évi III. 6-án kelt határozatát – amellyel Kána Lőrinc (1914. Matula Etel) tartalékos vezérőrnagyot rendfokozatában visszavetette tartalékos ezredessé – semmissé nyilvánítom.
