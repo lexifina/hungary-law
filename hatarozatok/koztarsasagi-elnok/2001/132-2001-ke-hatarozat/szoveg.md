@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Emri Istvánt kinevezem főkonzullá, és megbízom a Magyar Köztársaság Ontario (a szövetségi főváros és közigazgatási körzete kivételével), Saskatchewan és Manitoba tartományokra kiterjedő hatáskörrel működő torontói főkonzulátusának vezetésével.
