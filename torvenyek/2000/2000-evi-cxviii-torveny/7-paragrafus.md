@@ -1,0 +1,1 @@
+7. § Az Országgyűlés jóváhagyja, hogy a pénzügyminiszter a Költségvetési Törvény 66. §-ának (3) bekezdésében kapott felhatalmazás alapján az Útalap 1998. december 31-én fennálló adósságát – 1999. január 1-jei hatállyal – az államadósság terhére 21 154,0 millió forint összegben átvállalta.

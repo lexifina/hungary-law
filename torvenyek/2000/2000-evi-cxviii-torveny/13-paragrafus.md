@@ -1,0 +1,1 @@
+13. § Az egyházi intézményfenntartókat összesen 826,0 millió forint kiegészítő támogatás illeti meg a Magyar Köztársaság 2000. évi költségvetéséről szóló 1999. évi CXXV. törvény 1. számú melléklete XI. Belügyminisztérium fejezet, 19. cím, 13. alcím, 2. Egyházi közoktatási intézmények kiegészítő támogatása jogcím-csoport előirányzata terhére 2000. december hónapban.

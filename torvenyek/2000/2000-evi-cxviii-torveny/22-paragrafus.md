@@ -1,0 +1,1 @@
+22. § Az Országgyűlés elrendeli, hogy a Magyar Távirati Iroda Rt. az 1998. évben a központi költségvetés általános tartalékából az országgyűlési és önkormányzati választásokkal kapcsolatos többletkiadásai fedezetére kapott támogatásból 32,9 millió forintot a központi költségvetésnek utaljon vissza.

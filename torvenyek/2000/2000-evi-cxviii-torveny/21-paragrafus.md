@@ -1,0 +1,1 @@
+21. § Az Országgyűlés elrendeli, hogy a központi költségvetés a Magyar Köztársaság 1996. évi költségvetésének végrehajtásáról szóló 1997. évi CXI. törvény 20. §-ának (2) bekezdése alapján 1016,0 millió forintot 2000. december 31-ig térítsen meg a Nyugdíjfolyósító Igazgatóság ,,Nem az Alapot terhelő ellátások'' elszámolási számla javára.
