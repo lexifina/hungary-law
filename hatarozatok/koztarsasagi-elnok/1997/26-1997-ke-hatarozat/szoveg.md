@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Südy Zoltán rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaságnak a Brunei Darussalamban való képviseletére kapott megbízása alól.
