@@ -1,0 +1,1 @@
+A földművelésügyi miniszter előterjesztésére dr. Kovács Ferencet, az MTA rendes tagját, az Állatorvostudományi Egyetem rektorát – saját kérésére –, érdemei elismerése mellett, 1990. augusztus 1. napjával e tisztségéből felmentem.
