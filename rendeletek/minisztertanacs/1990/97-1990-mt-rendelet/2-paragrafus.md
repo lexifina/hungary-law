@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között a Magyar Köztársaság területén ideiglenesen tartózkodó szovjet csapatok kivonásáról Moszkvában, az 1990. március hó 10. napján aláírt egyezményt e rendelettel kihirdeti.
