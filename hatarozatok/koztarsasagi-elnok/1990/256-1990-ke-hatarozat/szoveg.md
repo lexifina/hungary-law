@@ -1,0 +1,1 @@
+Az Alkotmány 30/A. §-ának (1) bekezdése alapján, a miniszterelnök javaslatára – az 1856. évi forradalom és szabadságharc, valamint a Magyar Köztársaság kikiáltásának évfordulója alkalmából – dr. Rabóczki Ede hb. ezredest vezérőrnaggyá kinevezem.
