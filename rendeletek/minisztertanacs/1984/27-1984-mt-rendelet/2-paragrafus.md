@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a nemzetközi forgalomban használt gépjárművek számára történő műszaki és egyéb segítségnyújtásról szóló, Havannában 1983. november 24-én aláírt Megállapodást e rendelettel kihirdeti.
