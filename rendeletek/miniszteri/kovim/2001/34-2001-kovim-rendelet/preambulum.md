@@ -1,0 +1,1 @@
+A hajókról történő szennyezés megelőzéséről szóló 1973. évi nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,MARPOL 1973/1978.'') kihirdetéséről szóló 2001. évi X. törvény 3. §-ának (2) bekezdésében kapott felhatalmazás alapján, figyelemmel az Európai Közösségeknek e tárgykört érintő irányelveiben foglalt követelményekre, a következőket rendelem el:
