@@ -1,0 +1,5 @@
+9. § (1) Az ellenőrzéseket előzetes bejelentés nélkül kell végezni. Az ellenőrzés és a hozzá kapcsolódó mintavétel idejének váratlannak, előre kiszámíthatatlannak kell lennie. Nem kötődhet a hét egyetlen kiválasztott napjához vagy dátumhoz sem. Az ellenőrzést és a mintavételt egész évben, változó időközökkel kell végezni. Az időpont megválasztásakor figyelembe kell venni, hogy egyes anyagokat csak az év meghatározott szakaszában alkalmaznak.
+
+(2) A monitoring tervtől függetlenül, a speciális vizsgálatok elvégzését lehetővé tevő mintakiválasztás érdekében minden más, rendelkezésre álló információt – így különösen még nem ismert anyagok használatát, egyes betegségek hirtelen megjelenését bizonyos területeken, csalárd eljárásokra utaló jeleket – is figyelembe kell venni.
+
+(3) A tulajdonos, az állatok fölötti rendelkezéssel megbízott személy vagy ezek képviselője köteles megkönnyíteni a vágás előtti vizsgálati tevékenységet, és különösen köteles a hatósági állatorvost vagy a felhatalmazott személyzetet segíteni minden olyan műveletben, amelyet azok szükségesnek ítélnek meg.
