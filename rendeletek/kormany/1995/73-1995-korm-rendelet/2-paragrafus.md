@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Belarusz Köztársaság Kormánya között Budapesten, 1995. március 1-jén aláírt, a mezőgazdaság és az élelmiszeripar területén megvalósuló gazdasági és tudományos-műszaki együttműködésről szóló Egyezményt e rendelettel kihirdeti.
