@@ -1,0 +1,1 @@
+## 2. § A műemléki jelentőségű terület kijelölésének célja, hogy a város fejlődése és rehabilitációja egységes, értékvédő szemlélettel történjen, a középkori sajátosan vízparti városszerkezet, a középkori eredetű rác kereskedőváros tovább élő épületállománya, valamint a J. L. Hildebrandt építette Savoyai-kastély védelme és a város szerves harmóniája megvalósuljon.
