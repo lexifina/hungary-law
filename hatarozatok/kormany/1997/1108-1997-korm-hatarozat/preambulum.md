@@ -1,0 +1,1 @@
+A Kormány az Európai Unió PHARE programja és az OECD-országok által Magyarországnak juttatott segélyek kormányzati irányításának és koordinációjának módosított rendjéről, és a PHARE programnak az Európai Unió Bizottsága által javasolt reformjából adódó egyes feladatokról készült tájékoztatót elfogadja, és ezzel kapcsolatban az alábbi határozatot hozza:
