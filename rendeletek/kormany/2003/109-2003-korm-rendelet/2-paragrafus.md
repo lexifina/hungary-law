@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság és a Török Köztársaság közötti Szabadkereskedelmi Megállapodás C Jegyzőkönyvének A és B Mellékleteiben foglalt kedvezményes mezőgazdasági vámkontingensek módosításáról szóló vegyes bizottsági határozatot (a továbbiakban: vegyes bizottsági határozat) e rendelettel kihirdeti.

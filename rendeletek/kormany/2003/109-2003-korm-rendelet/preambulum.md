@@ -1,0 +1,1 @@
+A Magyar Köztársaság és a Török Köztársaság közötti Szabadkereskedelmi Megállapodás kihirdetéséről szóló 1998. évi XX. törvény 3. §-ában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
