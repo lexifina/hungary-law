@@ -1,0 +1,1 @@
+1. § A háború igénybevételéről való lemondás tárgyában Párizsban 1928. évi augusztus hó 27-én kötött és Magyarország részéről Budapesten 1929. évi február hó 14-én utólag aláírt nemzetközi szerződés az ország törvényei közé iktattatik.
