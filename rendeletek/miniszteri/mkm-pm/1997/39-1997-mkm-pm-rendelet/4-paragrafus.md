@@ -1,0 +1,1 @@
+## 3. § A művész jellemző költsége címén felmerült kiadás ötven százalékban számolható el, ha az részben az 1. §-ban említett magánszemély személyes vagy családi szükségletét kielégítő termék vagy szolgáltatás megszerzése érdekében merült fel.

@@ -1,0 +1,1 @@
+## 2. § A művész jellemző költségének elszámolásánál a Szja tv. bevételekre és költségekre vonatkozó általános szabályait, valamint a 2. és 3., illetőleg 10. és 11. számú melléklet rendelkezéseit a 3–5. §-okban foglaltak figyelembevételével kell alkalmazni.

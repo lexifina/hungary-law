@@ -1,0 +1,1 @@
+## 4. § A művész jellemző költsége elszámolásának feltétele, hogy arról – az elévülési időn belül – utólag is megállapítható legyen az 1. §-ban említett művészeti alkotással, illetőleg alkotómunkával, valamint előadóművészi tevékenységgel való kapcsolat.

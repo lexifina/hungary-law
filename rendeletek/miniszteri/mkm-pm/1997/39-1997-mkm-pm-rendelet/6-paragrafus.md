@@ -1,0 +1,3 @@
+## 5. § A művész jellemző költségei közül a művészeti tevékenységgel összefüggő szakmai képzés kiadásának minősül az iskolai rendszerű oktatáson kívül szervezett, az 1. §-ban említett művészeti alkotáshoz, illetőleg alkotómunkához, valamint az előadóművészi tevékenységhez kapcsolódó elméleti és gyakorlati tanfolyam, előadás, tapasztalatcsere részvételi díja, ideértve az előadóművész tevékenységének folytatásához közvetlenül, rendszeresen szükséges (hangképzési, korrepetálási, beszédtechnika-, tánc- és mozgástechnika-szintentartási stb.) kiadásokat is.
+
+6. § Ez a rendelet 1998. január 1. napján lép hatályba, rendelkezéseit az 1998. január 1-jétől keletkező jövedelmekre, illetőleg adókötelezettségekre kell alkalmazni.
