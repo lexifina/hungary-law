@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és Ukrajna között a beruházások elősegítéséről és kölcsönös védelméről Kijevben, 1994. október 11-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1996. december 3-án megtörtént, és a Megállapodás 1996. december 3-án hatályba lépett.)
