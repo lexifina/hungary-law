@@ -1,0 +1,5 @@
+5. § (1) A beutaló javaslatot, a beteg orvosi iratait (röntgenfelvételeit) és a szakorvosi véleményt a beteget ellátó egészségügyi intézmény, szakambulancia vagy szakrendelő, illetve a gondozó továbbítja a szanatóriumba. A szanatórium a közölt orvosi adatok és az érkezési sorrend figyelembevételével dönt a felvétel idejéről.
+
+(2) A szanatóriumi ellátást nyújtó intézmény a beteget, illetve törvényes képviselőjét a felvétel idejét megelőzően legalább egy héttel értesíti a felvétel időpontjáról. Amennyiben az intézmény a beteget egészségügyi intézményből történő áthelyezéssel veszi át, a felvétel időpontjáról az átadó intézménnyel történő megegyezés alapján határoz.
+
+(3) A szanatóriumi ellátást legkésőbb az értesítésben meghatározott időpontot követő napon kell megkezdeni, e határidő elmulasztása esetén a beutaló érvényét veszti. Amennyiben a beteg — esetleges akadályoztatása miatt — az intézménybe számára biztosított helyet elfoglalni nem tudja, erről ő, illetve törvényes képviselője haladéktalanul értesíti az intézményt. Ebben az esetben az akadályoztatás indokának figyelembevételével az intézmény dönt a beutaló érvényességéről.
