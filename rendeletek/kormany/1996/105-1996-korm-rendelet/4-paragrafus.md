@@ -1,0 +1,5 @@
+4. § (1) Tervezői nyilatkozattal kell igazolni, hogy a lakóépület határoló szerkezetei a hőtechnikai szabvány követelményértékét ki fogják elégíteni, és a 2. § szerinti munkák energiamegtakarítást fognak eredményezni. A nyilatkozat kiadására jogosultak az építéstervezési jogosultság részletes feltételeiről szóló jogszabályban [3/1986. (III. 20.) ÉVM rendelet] foglaltak szerint a tervezői jogosultsággal rendelkező személyek.
+
+(2) A pénzintézet az állami támogatást kizárólag az (1) bekezdés szerinti nyilatkozat alapján számolhatja el.
+
+(3) Ha a pénzintézet által végzett utólagos ellenőrzéskor bebizonyosodik, hogy a terv vagy a kivitelezés a pályázatban vállalt követelményeknek nem felel meg, illetőleg az állami támogatásra a kölcsönfelvevő nem volt jogosult, akkor az állami támogatást az igénybevételtől számítva minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat és késedelmi kamat [Ptk. 301. § (2) bek.] háromszázhatvanötöd részével növelt összeget kell a központi költségvetésnek visszafizetni.

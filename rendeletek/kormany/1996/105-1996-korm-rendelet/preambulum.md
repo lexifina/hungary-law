@@ -1,0 +1,1 @@
+A Kormány az energiamegtakarítást eredményező épületfelújítások célját szolgáló hitelkeret – a német állam garanciavállalása mellett nyújtott 30 millió DM – felhasználásának támogatásáról a következőket rendeli el:
