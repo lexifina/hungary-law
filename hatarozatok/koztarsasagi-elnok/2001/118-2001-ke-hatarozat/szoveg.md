@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Tóth Tibor rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság Egyesült Nemzetek Szervezete mellett működő bécsi Állandó Képviseletének vezetésére kapott megbízása alól.
