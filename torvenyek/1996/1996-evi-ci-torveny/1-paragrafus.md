@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Török Köztársaság között a kettős adóztatás elkerülésére a jövedelemadók területén Budapesten, 1993. március 10-én aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1995. szeptember 9-én megtörtént, és az Egyezmény 1995. szeptember 9-én hatályba lépett.)
