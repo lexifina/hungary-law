@@ -1,0 +1,1 @@
+Az Alkotmány 30/A. §-ának (1) bekezdése alapján, a miniszterelnök javaslatára dr. Botos Katalint, a Pénzügyminisztérium politikai államtitkárát más fontos megbízatása miatt, e tisztségéből 1990. december 20-ai hatállyal, érdemei elismerése mellett felmentem.
