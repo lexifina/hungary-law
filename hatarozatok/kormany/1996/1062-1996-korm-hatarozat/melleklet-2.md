@@ -1,0 +1,706 @@
+## Az államháztartási reform fő céljai és követelményei
+
+## Az államháztartási reform az átalakuló társadalom egyik legnagyobb horderejű gazdasági, társadalom-, ágazat- és pénzügypolitikai kérdése. A reform az eddigi paternalista állam helyett egy – a szociális piacgazdasággal konform – szolgáltató állam modelljének kialakítását tűzi ki célként.
+
+## Ez a hosszú távú, egymásra épülő, összehangolt reformlépések sorozatából álló folyamat az állami feladatok felülvizsgálatát, ellátásának hatékonysági és szakmai minőségi szempontok szerinti újraszervezését, a közpénzek racionális és átlátható felhasználási rendjének kiépítését, az államháztartáson kívüli források nonprofit szférába való bevonását foglalja magában.
+
+## Az eddigi stabilizációs intézkedések rövid távon sikeresen javították az államháztartás egyensúlyi helyzetét. Ezek az intézkedések azonban nem szüntethették meg az államháztartás feszültségeinek, egyensúlytalanságának kiváltó okait. A strukturális átalakulást biztosító reform elmaradása esetén számolni kell azzal, hogy a feszültségek miatt ,,robban'' a rendszer, és radikális stabilizációs és restrikciós lépésekkel kell a reformot – azonban már sokkal kedvezőtlenebb helyzetből – újraindítani.
+
+## Magyarországnak a nemzetközi integrációs folyamatokba való egyre mélyebb bekapcsolódásának is feltétele a tartós gazdasági stabilitás, a szilárd pénzügyi helyzet.
+
+## Az államháztartási reform főbb céljai
+
+## Az államháztartási reform fő célja az, hogy segítse elő, serkentse a gazdasági növekedést, amelynek feltétele az állam működési költségeinek és ezzel összhangban a közterheknek a mérséklése, a társadalmi közteherviselés igazságos átrendezése.
+
+## Az állami szerepvállalás szűkítését a jövedelemtulajdonosok – állam, vállalkozások, lakosság – között kialakult tehervállalás átrendezésével (ideértve az adó és járulékterhek csökkentését is), az állam által korábban finanszírozott területek, feladatkörök, intézmények működésének racionalizálásával; egyes, jelenleg állami feladatoknak a nonprofit szférában, illetve a piaci szférában történő ellátásával kell elérni, megteremtve egyúttal az egyéni öngondoskodás választási lehetőségeit is.
+
+## A reform eredményeként az államháztartásban átlátható és pénzügyileg vállalható feladat- és finanszírozási struktúrát kell kialakítani.
+
+## A reform számszerűsíthető célja és követelménye, hogy
+
+## – az államháztartás kiadásai a GDP-hez viszonyítva jelentősen – 1999-ig 40–45%-ra – mérséklődjenek, a GFS rendszerű hiányfinanszírozható keretek között legyen tartható (a belföldi megtakarítások csak olyan mértékű igénybevétele mellett, hogy a vállalkozói szféra részére is elegendő forrás maradjon, továbbá a külső fizetési mérleg hiánya a működő tőke beáramlással fedezhető keretek között legyen tartható),
+
+## – a kiadások terjedelmének mérséklődésével hasonló arányban csökkenjenek az államháztartási bevételek, az elvonások. Az adó és járulékteher csökkentése révén felszabaduló lakossági források tegyék lehetővé egyes mai finanszírozási funkciók átkerülését az egyéni döntések szférájába úgy, hogy az állam szerepvállalásában növekedjen a célzottabb, méltányossági beavatkozások súlya.
+
+## Ebből következik, hogy az állami feladatellátás átalakulását jelző ágazati, szerkezeti arányok elmozdulásait összetett, volumenében differenciált és dinamikájában változó folyamatok eredőjeként csökkenő trend jellemzi.
+
+## Az államháztartási reform fő céljai
+
+## és követelményrendszere az érintett szakterületek
+
+## szerint
+
+## Nyugdíjrendszer
+
+## A nyugdíjreform célja, hogy az állampolgár számára előre kalkulálható legyen az időskori ellátásának színvonala, s egyben adjon lehetőséget arra is, hogy a jogosult maga dönthesse el, megelégszik-e a társadalombiztosítási rendszer által biztosított nyugellátással, vagy az öngondoskodás keretében magasabb színvonalú ellátást akar. Ugyanakkor a rendszer egésze az egyént ösztönözze is, hogy egyre nagyobb mértékben saját maga gondoskodjon időskori megélhetéséről.
+
+## Ezt a célt leginkább egy vegyes finanszírozású, három pillérből álló nyugdíjrendszer biztosíthatja, amely ötvözi a felosztó-kirovó és a tőkefedezeti rendszer előnyeit, kiküszöböli a hátrányokat, és garantálja az állampolgárok időskori jövedelmének biztonságát.
+
+## Az első pillér felosztó-kirovó elven működő, kötelező részvételű társadalombiztosítási alrendszer, amely a szolidaritási, újraelosztási elvet érvényesíti. Forrása a munkaadókat terhelő, kötelezően befizetendő járulék.
+
+## A második pillér az állami nyugdíjrendszer részeként olyan munkajövedelmekhez tapadó, munkavállalói járulékfizetési kötelezettségen alapuló alrendszer, amely a befizetéseket tőkefedezeti számlán halmozza fel, annak érdekében, hogy meghatározott körben és módon nyugellátásokat biztosítson. Ezáltal az egyén nyugdíjas éveiben – az alapnyugdíj (első pillér) szolgáltatásával együtt – a maihoz hasonló szintű, de előre kalkulálható jövedelemhez jut. A második pillérben felhalmozott megtakarítások – a pénz- és a tőkepiac bekapcsolásával – segítik a gazdasági növekedést is.
+
+## A harmadik pillért az állam által nyújtott nyugellátást kiegészítő önkéntes biztosítási formák, az önkéntes pénztári konstrukciók és az üzleti biztosítók által nyújtott nyugdíjcélú szolgáltatások képezik, amelyekkel együtt biztosítható a megszokott életvitelhez szükséges jövedelem.
+
+## A reform során a szociális biztonság megőrzése céljából egy minimális szintű ellátást az állami szociálpolitika keretében kell garantálni – a rászorultsági elv alapján – minden időskorú számára. A rokkantsági nyugdíjrendszerben csak az egészségi állapotuk miatt valóban munkát vállalni nem tudók kapjanak ellátást, s a rendszer egésze mind a munkáltatót, mind az egyént a mielőbbi aktív munkavállalásra ösztönözze. A nyugdíjrendszeren belül a rokkantsági nyugdíj átalakítása a szociális ellátórendszer reformjával együtt valósítandó meg.
+
+## Az új nyugdíjrendszerhez hozzátartozik a maihoz képest emelt, egységes 62 év korhatár, amihez rugalmas nyugdíjba vonulási lehetőség tartozik.
+
+## Az új vegyes finanszírozású nyugdíjrendszer mértékeinek, szabályozásának kialakításakor figyelemmel kell lenni a demográfiai változásokra, 2010-től a jelentős demográfiai ,,bumm''-ra és a halandóság várható kedvezőbb alakulására.
+
+## Egészségügy
+
+## Az egészségügy reform programjának alapvető célja: az államháztartási egyensúlyi követelményeknek megfelelő források felhasználásával megfelelőbb feltételeket biztosítson a népesség egészségi állapotának javításához.
+
+## E cél eléréséhez egyrészt ösztönözni és segíteni kell az életmód átalakítását, növelni kell az egészség őrzését szolgáló programok és az ezekkel foglalkozó intézmények hatékonyságát, másrészt a gyógyító ellátás területén a szükségletek magasabb színvonalú kielégítését a mainál kisebb, hatékonyabban dolgozó, a lakosság igényéhez jobban alkalmazkodó, az állam által kevésbé befolyásolt ellátórendszer kiépítésével és működtetésével kell megvalósítani. Továbbá a közfinanszírozás dominanciájának megőrzése és a közgyógyellátás szelektív kiterjesztése mellett bővíteni kell a térítéskötelezettséget az elismert egészségpénztárak létrehozásának ösztönzésével és adókedvezményeinek garantálásával.
+
+## A reform során a legfontosabb feladat az egészségügyi intézményrendszer strukturális átalakítása, a szükségletek és az ellátási lehetőségek közötti különbségek mérséklése. A mennyiségi kínálat szűkítése eredményeként felszabaduló források felhasználásával javuljon a szolgáltatások színvonala, célzottsága, emellett a szervezettség növelésével, a költséghatékony gazdálkodás biztosítson fedezetet az egészségügyben dolgozók bérhelyzetének javítására is.
+
+## A kínálat és a kereslet új minőségű összehangolása érdekében szükséges a területi aránytalanságok mérséklése, a díjszínvonalbeli eltérések kiegyenlítése, a szakmailag szükséges és megfizethető eljárások kidolgozása, minőségbiztosítási eljárások bevezetése, a fenti módszerekkel a normatív- vagy teljesítményfinanszírozás megfelelőbb szakmai megalapozása, az érdemi szakmai-gazdasági ellenőrzés feltételeinek megteremtése.
+
+## A szociális ellátórendszerek
+
+## A szociális ellátások terén a cél az, hogy
+
+## – szűnjön meg az a helyzet, hogy az egyre növekvő ráfordítások ellenére a valóban rászorulókhoz nem jut el érdemi segítség,
+
+## – az állampolgár biztosan számíthasson arra, hogy adott élethelyzetbe kerülése esetén egyértelmű, világos, egységes és általa ismert jogosultsági feltételek mellett az állam segít,
+
+## – a jogosultságnál jellemzően a rászorultsági elv érvényesüljön, a normativitás csak szűk, meghatározott keretek között,
+
+## – az ellátások színvonala egyrészt biztosítsa meghatározott szintig a megélhetést, másrészt ne ösztönözzön a munkavállalás elkerülésére,
+
+## – az államháztartáson belül a szociális kiadások arányának szűkülése ellenére biztosítva legyen a szociális biztonság, sőt az erősödjön is, de egy alapvetően más struktúrában.
+
+## A célok eléréséhez segítő megoldást a mai ellátások egységes elvű, rászorultságot hangsúlyozó jövedelemkiegészítő támogatássá történő fokozatos átalakítása adhatja, amelynek bevezetése feltételezi a családtípusonként megállapított – de a gazdasági lehetőségeket is érvényesítő – szociális minimum kidolgozását és új, az állam és a önkormányzatok közös felelősségére és forrásmegosztására épülő finanszírozási rendszer kiépítését. Fontos feltétele a rászorultsági elven alapuló helyi szociálpolitikának a családsegítő szolgáltatás kiépítése, a családokkal való érdemi foglalkozás megteremtése.
+
+## A Kormány és a társadalombiztosítási önkormányzatok jog- és felelősség-meghatározása
+
+## A jelenlegi jogi szabályozás felülvizsgálata biztosítsa az egyértelmű, tiszta és számon kérhető felelősségi és hatásköri viszonyokat.
+
+## Érvényre kell juttatni, hogy a társadalombiztosítás az államháztartás része, s ezért költségvetési eljárási rendjét a fejezetekkel csaknem teljesen egyező módon kell kialakítani.
+
+## Biztosítani kell a Kormány megfelelő jogosítványait ahhoz, hogy az alapok költségvetése az államháztartás keretében a társadalombiztosítási önkormányzatokkal együttműködve a központi költségvetéssel együtt, azzal összhangban készüljön és az év közben jelentkező kedvezőtlen folyamatok megállításához kellő mozgástere, hatásköre legyen.
+
+## Közoktatás
+
+## A közoktatás területén a cél kettős: egyrészt szakmailag jobb közoktatás, másrészt az erőforrásokkal való takarékosabb, racionálisabb gazdálkodás elérése.
+
+## Elsődleges feladat, hogy egyértelmű szabályok adjanak garanciát az állami feladatvállalás mértékéről az intézmény fenntartójának, a pedagógustársadalomnak és a közoktatásban ellátottaknak egyaránt.
+
+## A közoktatás feladatrendszerét áttekinthetővé, mérhetővé, tervezhetővé kell tenni. Meg kell határozni a nevelési-oktatási intézmények által ellátott minimális kötelező feladatokat, amelyeknél többet a fenntartó finanszírozása mellett biztosíthat az intézmény. A közoktatás finanszírozása a tanulói létszámhoz és az ellátott feladatokhoz kötődik, tanulói létszámhoz kötődő, feladatarányos normatív finanszírozási rendszer.
+
+## Ennek megfelelően meg kell határozni azt az időt, amelynek felhasználásával megszervezhető az óvodai nevelés, az iskolai és kollégiumi tanórai és tanórán kívüli foglalkozás, amelynek keretein belül lehetséges az osztálybontás. Ki kell alakítani azokat a szakmai normatívákat, amelyeket a normatív költségvetési hozzájárulás megállapításánál figyelembe kell venni.
+
+## A közoktatás finanszírozásának szektorsemlegesnek kell lennie.
+
+## Felsőoktatás
+
+## A felsőoktatás területén a reformnak összetett célrendszert kell teljesítenie.
+
+## A finanszírozási rendszer a közpénzeket meghatározott feladatokhoz és teljesítményekhez, a nyilvánosság által követhetően rendelje, biztosítva ezen pénzek ellenőrzött és hatékony felhasználását. A költségvetési terhek tervezhetők legyenek és – a működés gazdaságossága érdekében – befolyásolni lehessen a kiadási szükségleteket meghatározó tényezőket, a felsőoktatás pénzügyi rendszere épüljön be az államháztartásba. A finanszírozás orientálja az intézményeket a képzés és kutatás minőségének fejlesztésére, a képzési struktúra korszerűsítésére, az intézményhálózat racionalizálására, az intézményeken belüli hatékony szervezetátalakításra.
+
+## A képzés méreteit, struktúráját, színvonalát a munkaerőpiac strukturális és minőségi elvárásai alakítsák. A felvettek száma középtávon a nappali tagozaton stabilizálódjék, az egyéb képzési formák keretében felvettek száma bővüljön, a képzés során fokozott minőségi szelekció érvényesüljön, az átlagos képzési idő is rövidüljön. Az állami finanszírozás központilag meghatározott hallgatólétszámra irányuljon.
+
+## Az intézményhálózat felülvizsgálatával elsősorban tényleges integráció útján, ezen túl is az állami felsőoktatási intézmények, valamint a belső szervezeti egységek számának szűkítésével szakmailag és gazdaságilag növekvő hatékonyságú, a gazdasági, adminisztratív, oktatási szervezeti párhuzamosságokat megszüntető szervezeti struktúra jöjjön létre.
+
+## A hatékonyabb finanszírozást az ellátottsági és teljesítménymutatók, rugalmas, teljesítményre és minőségi munkavégzésre ösztönző foglalkoztatási és díjazási rend, oktatói követelményrendszer, minőségbiztosítási rend bevezetésével és alkalmazásával szükséges megalapozni.
+
+## Az intézményvezetésben meg kell határozni és szét kell választani a szakmai (oktatási, tudományos) és a gazdasági funkciókat, a vezetői kiválasztásnál eltérő követelmény-rendszert kell érvényesíteni. A finanszírozásban növekvő részt képezzenek az intézményi (benne a tandíj) bevételek, amelyeket ösztönözni indokolt. Ugyanakkor szükséges egyes járulékos tevékenységek leválasztásával a profiltisztítás.
+
+## Adó- és járulékpolitika
+
+## Az elkövetkező időszakban az adópolitikának a fenntartható gazdasági növekedés gazdaságpolitikai prioritásának érvényesítését kell szolgálnia, egyidejűleg biztosítania kell az államháztartási kiadások pénzügyi fedezetét. Ehhez az adózásban átfogó, egymással összehangolt, reformértékű intézkedéssorozat megtétele szükséges, amelyet össze kell kapcsolni és hangolni a nyugdíj-, az egészségügy- és a tb-járulékreform feladataival is.
+
+## Az adó- és járulékrendszer javasolt változásának fő jellemzői a tőkeakkumuláció segítése, a megtakarítások ösztönzése, a vállalkozásbarát és a semleges adókörnyezet megteremtése, a közteherviselés aránytalanságainak kiigazítása, összegében alapvető mérséklése, az indokolatlan adó- és járulékkedvezmények megszüntetésével, az adó- és járulékalap kiszélesítésével, az adó- és járulékelkerülést lehetővé tévő jogi kibúvók bezárásával.
+
+## A fenti céloknak alárendelten olyan intézkedések szükségesek, amelyek biztosítják, hogy mindaddig, amíg a megtermelt jövedelem a hazai gazdaságban finanszírozza az akkumulációt, addig csak viszonylag alacsony adó terhelje azt, és csak a személyes fogyasztásra kivont jövedelem progresszív adóztatására kerüljön sor. Az adóstruktúrán belül a közvetett adók és a helyi adók arányának kívánatos növelése nem ezen adónemek nominális adószintjének emelésével, hanem a jövedelemadók (ezen belül a személyi jövedelemadó) szerepének csökkentésével érhető el. Az adóterhek érzékelhető csökkentésére azonban csak az államháztartási kiadások visszafogása esetén van mód.
+
+## A közteherviselés aránytalanságain változtatni kell és a lépéseket össze kell hangolni a szociálpolitikával is.
+
+## A tőkejövedelmek és a munkajövedelmek közötti jelentős adózásbeli különbségeket csökkenteni, az ellentmondásokat oldani kell.
+
+## Az indokolatlan kedvezményeket, mentességeket szűkíteni kell.
+
+## Az adó- és járulékigazgatásban és ellenőrzésben nem csak reformértékű lépésekre, hanem átfogó reformra van szükség az árnyékgazdaság visszaszorítása, a fizetési fegyelem erőteljes javítása érdekében.
+
+## Helyi önkormányzatok
+
+## Az önkormányzati működés szakmai és a gazdasági hatékonyságának növelése érdekében a szétaprózott feladatellátásban ésszerű koncentrációt kell megvalósítani. A feladatokat arra az önkormányzati szintre kell telepíteni, ahol a feladatellátás feltételei megvannak. Egyértelműsíteni kell a megyei önkormányzatok térségi, kötelező feladatait. Az egyes, nagyobb szakértelmet és anyagi erőt igénylő települési feladatok nagyobb önkormányzatokhoz vagy társulásokhoz történő telepítése indokolt. A helyi önkormányzati társulások kiterjesztését jogi és pénzügyi eszközökkel szükséges ösztönözni, bizonyos lakosságszám alatt és meghatározott tevékenységekre kötelező társulás alkalmazását indokolt előírni. Az igazgatási kiadások csökkentése érdekében országos normatívákat kell kidolgozni az önkormányzati hivatalok, körjegyzőségek igazgatási létszámának nagyságára.
+
+## A finanszírozási rendszert egyszerűbbé, áttekinthetőbbé kell tenni. A szabályozás ösztönözzön a helyi bevételek növelésére, a költségérzékenyebb gazdálkodásra, ezen belül a hatékonyabb bér- és létszámgazdálkodásra, az önkormányzati feladatok társulási formában történő ellátására. A finanszírozásnak biztosítania kell az állami feladatvállalásnak megfelelő pénzügyi fedezetet. A különböző állami támogatások elosztásánál meglévő túlzott centralizációt mérsékelni, és összehangolt területi (megyei) szintű decentralizált állami támogatás elosztási rendszert kell kialakítani.
+
+## A központi költségvetési intézményrendszer korszerűsítése
+
+## A reform célja ezen a területen a túlméretezett, részben a klasszikus költségvetési szervektől eltérő módon működő állami intézményrendszer szűkítése, az állami feladatvállalás, illetve a térítésmentes szolgáltatások körének korlátozása, a megmaradó feladatok ellátásában pedig a gazdálkodás hatékonyságának javítása, az egyes közfeladatok ellátásához kapcsolódó állami-kormányzati irányítási és egyéb funkciók szakszerű teljesítése.
+
+## Az állami feladatok és kötelezettségvállalás mérséklését a funkciók, feladatok felülvizsgálata alapján kell végrehajtani. Az intézményrendszer pedig a teljes egészében bevételből működő intézmények, intézményi részkapacitások – ahol a feladatellátás az új szervezetben hatékonyan biztosítható – államháztartásból a versenyszempontok figyelembevételével történő kiemelésével, szervezeti korszerűsítésekkel, szervezeti és feladatellátási párhuzamosságok kiküszöbölésével szűkíthető.
+
+## Pénzügyi reform
+
+## A pénzügyi reform keretében kiemelt feladat az államháztartási pénzügyi információs rendszer és a költségvetési tervezés továbbfejlesztése, valamint a kincstári rendszer megerősítése, továbbfejlesztése. A közbeszerzési törvény által lehetővé tett megtakarítások realizálásához szükséges intézményeket létre kell hozni.
+
+## Az államadósság finanszírozás korszerűsítésében az elsődleges forgalmazói kör bevonása és kiszélesítése mellett a bankok bekapcsolása az állampapír-forgalmazásba jelenti az elsők között megoldandó feladatot.
+
+## A reform végrehajtása
+
+## Az államháztartási reform részkoncepcióinak a szakmai megalapozását, kidolgozását a makrogazdasági követelmények figyelembevételével az érintett tárcáknak, ágazatoknak kell elvégezniük. A változtatások kezdeményezése, a pénzügypolitikai és a rendszerbeli kérdéseknek az államháztartás egészével és a gazdaság más részeivel való összehangolása a Pénzügyminisztérium feladata.
+
+## A megváltozott munkaszervezés miatt az Államháztartási Reform Bizottság – amelynek tagjai hivatalosan is felelősei, illetve részesei a reformintézkedések kidolgozásának és egyeztetésének – kevésbé tud érdemi feladatokat ellátni, ezért megszüntetése indokolt.
+
+## Az államháztartási reform intézkedései gyakorlatilag az egész társadalmat érintik. Elengedhetetlen ezért a reform okainak, céljainak, mozgásterének, követelményrendszerének és tervezett intézkedéseinek megismertetése, elfogadtatása. Ezt az egyes reformmunkák előrehaladásával, a szakmai és érdekegyeztetésekkel összehangoltan, PR(kommunikációs)-terv szerint kell végrehajtani.
+
+## A végleges javaslatokat közösen, közös felelősséggel – széles körű egyeztetések után – kell megfogalmazni. A reform szakmai mozgásterét az államháztartás, a költségvetés szempontjából meghatározó pénzügyi követelmények határozzák meg, amelyek befolyásolják a reformmunkák lehetséges ütemezését is.
+
+## A reform kormányzati feladatainak legfontosabb része az egyes szakterületek rendszerének komplex átalakítása, az érintett szaktörvények felülvizsgálata. Ezen törvények felülvizsgálata során ki kell munkálni az átmeneti időszak, illetve a régi és az új ellátó rendszerek átmeneti, egymás mellett létezésének szabályait is.
+
+## A konkrét végrehajtás, a reform tartalmi megvalósítása azonban már a törvényi keretek között az intézmények, a helyi önkormányzatok feladata és felelőssége.
+
+2. számú melléklet az 1062/1996. (VI. 4.) Korm. határozathoz
+
+Államháztartási reformhoz kapcsolódó
+
+1996–1997. évi feladatterv
+
+Május
+
+I. A nyugdíjrendszer reformja
+
+– a szakmai reform koncepciók tárcaegyeztetése, javaslat a Kormány munkadöntésére;
+
+Felelős: népjóléti miniszter, pénzügyminiszter a társadalombiztosítási önkormányzatok felkérésével
+
+– előterjesztés a Kormányhoz a korhatáremelésre és az azzal összefüggő korrekciós lépésekre;
+
+Felelős: népjóléti miniszter, igazságügy-miniszter
+
+– a Kormány tárgyalása után a törvényjavaslatok benyújtása az Országgyűlésnek.
+
+Felelős: népjóléti miniszter, igazságügy-miniszter
+
+II. Az egészségügyi rendszer reformja
+
+– szakmai reform koncepciók tárcaegyeztetése.
+
+Felelős: népjóléti miniszter, pénzügyminiszter a társadalombiztosítási önkormányzatok felkérésével
+
+Érdekegyeztetés: Magyar Orvosi Kamara
+
+IV. A társadalombiztosítás működési mechanizmus átalakítása
+
+– a szakmai koncepció tárcaegyeztetése.
+
+Felelős: pénzügyminiszter, népjóléti miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+VI. A foglalkoztatáspolitika reformja
+
+– a pályakezdők foglalkoztatásának új rendszere;
+
+– szakképzési hozzájárulásról, munkaügyi ellenőrzésről, foglalkoztatási törvény módosításáról szóló kormány-előterjesztés;
+
+– az Országos Közmunka Tanácsa létrehozása.
+
+Felelős: munkaügyi miniszter, pénzügyminiszter, igazságügy-miniszter, népjóléti miniszter, művelődési és közoktatási miniszter, környezetvédelmi és területfejlesztési miniszter
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+VII. A közoktatás reformja
+
+– a törvényjavaslat országgyűlési vitája és elfogadása.
+
+Felelős: művelődési és közoktatási miniszter, igazságügy-miniszter
+
+VIII. A felsőoktatás reformja
+
+– a reform koncepció államigazgatási egyeztetése, véglegezése;
+
+Felelős: művelődési és közoktatási miniszter
+
+Érdekegyeztetés: Felsőoktatási és Tudományos Tanács
+
+– a felsőoktatási törvény módosításának végleges, egyeztetett tervezetének benyújtása a Kormányhoz.
+
+Felelős: művelődési és közoktatási miniszter, igazságügy-miniszter
+
+Érdekegyeztetés: Felsőoktatási és Tudományos Tanács
+
+IX. Közigazgatás reformja[^2]
+
+X. A központi költségvetési intézményrendszer korszerűsítése (a funkciók és feladatok felülvizsgálata alapján)
+
+– Közúti Igazgatóságok KHT-vé alakulnak;
+
+– Útgazdálkodási és Koordinációs Igazgatóság KV+KHT-vé alakul;
+
+– Autópálya Igazgatóság KHT+RT-vé alakul;
+
+Felelős: közlekedési és hírközlési miniszter
+
+– Országos Játékalap Kezelő Szervezet megszüntetése.
+
+Felelős: pénzügyminiszter
+
+Június
+
+IV. A társadalombiztosítás működési mechanizmus átalakítása
+
+– kormány-előterjesztés a koncepcióról;
+
+– a jogszabálytervezetek kormányülésre való benyújtása;
+
+Felelős: pénzügyminiszter, népjóléti miniszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+– a Kormány döntését követően a törvénymódosítások Országgyűléshez történő benyújtása (június 30.)
+
+Felelős: pénzügyminiszter, népjóléti miniszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+V. Szociális ellátórendszerek
+
+– a gyermekek védelméről és a gyámügyi igazgatásról szóló törvénytervezet előkészítése és benyújtása az Országgyűléshez.
+
+Felelős: népjóléti miniszter, igazságügy-miniszter
+
+IX. A közigazgatás reformja
+
+– a kormányzás és a közigazgatás reformjának tervezete – kormány-előterjesztés.
+
+Felelős: közigazgatás korszerűsítésének kormánybiztosa; belügyminiszter; környezetvédelmi és területfejlesztési miniszter
+
+Érdekegyeztetés: Köztisztviselői Érdekegyeztető Fórum
+
+XII. Az államháztartási pénzügyi információs rendszer és költségvetési tervezés továbbfejlesztése a modern pénzügyi igazgatás kialakításához
+
+– kormány-előterjesztés a pénzügyigazgatás korszerűsítésére, a TÁKISZ-okkal, valamint az APEH SZTADI-val kapcsolatos álláspont kialakítására és az ezzel összefüggő jogszabályok rendezésére.
+
+Felelős: pénzügyminiszter, belügyminiszter
+
+XV. Adó- és járulékpolitika
+
+– kormány-előterjesztés a tb-járulékrendszer átalakításának koncepciójáról;
+
+Felelős: pénzügyminiszter, népjóléti miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+– az adórendszer átalakítása: kormány-előterjesztés a személyi jövedelemadó, a társasági adó, az adóigazgatási, az általános forgalmi adó törvény változtatásának és a fogyasztási adó törvény újrakodifikációjának koncepciójáról.
+
+Felelős: pénzügyminiszter, igazságügy-miniszter
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+Július
+
+I. A nyugdíjrendszer reformja
+
+– kormány-előterjesztés a koncepcióról, a megalapozó számítások véglegesítése;
+
+Felelős: népjóléti miniszter, pénzügyminiszter a társadalombiztosítási önkormányzatok felkérésével
+
+Érdekegyeztetés: Nyugdíjbiztosítási Önkormányzat, Érdekegyeztető Tanács
+
+– törvénymódosítások előkészítése, egyeztetése.
+
+Felelős: népjóléti miniszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+II. Az egészségügyi rendszer reformja
+
+– kormánydöntés a reform tartalmáról és üteméről;
+
+Felelős: népjóléti miniszter
+
+Érdekegyeztetés: Érdekegyeztető Tanács, Magyar Orvosi Kamara
+
+– jogszabálytervezetek Kormány elé történő benyújtása.
+
+Felelős: népjóléti miniszter, igazságügy-miniszter
+
+Érdekegyeztetés: Magyar Orvosi Kamara
+
+III. A társadalombiztosítási önkormányzatok szabályozása
+
+– a Kormány döntése.
+
+Felelős: népjóléti miniszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+VIII. A felsőoktatás reformja
+
+– kormány-előterjesztés a finanszírozási modellre.
+
+Felelős: művelődési és közoktatási miniszter, pénzügyminiszter
+
+X. A központi költségvetési intézményrendszer korszerűsítése (a funkciók és feladatok felülvizsgálata alapján)
+
+– kormányhatározat, társasági adó törvény, az Áht. módosítására vonatkozó előterjesztések;
+
+– KHT-vé, illetőleg RT-vé történő átszervezések, alapítói intézkedés;
+
+Felelős: pénzügyminiszter, igazságügy-miniszter, Miniszterelnöki Hivatal közigazgatási államtitkára, földművelésügyi miniszter, munkaügyi miniszter, környezetvédelmi és területfejlesztési miniszter
+
+–[^3] az FM Műszaki Intézet csökkentett állami feladattal és létszámmal költségvetési szerv marad, korábbi tevékenysége meghatározó részének ellátását az általa alapított és kizárólagos (100%) tulajdonában levő közhasznú társaság végzi;
+
+– Gabonatermesztési Kutató Intézet KHT-vé alakul;
+
+–[^4] az Öntözési Kutatóintézet csökkentett állami feladattal és létszámmal költségvetési szerv marad, korábbi tevékenysége meghatározó részének ellátását az általa alapított és kizárólagos (100%) tulajdonában levő közhasznú társaság végzi;
+
+Felelős: földművelésügyi miniszter
+
+Határidő:[^5] 1997. április 30.
+
+– Országos Munkavédelmi Képző és Továbbképző Intézet RT-vé alakul;
+
+Felelős: munkaügyi miniszter
+
+– Magyar Rádió RT-vé alakul;
+
+– Magyar Televízió RT-vé alakul.
+
+Felelős: Miniszterelnöki Hivatal közigazgatási államtitkára, igazságügy-miniszter
+
+XIII. A kincstári rendszer fejlesztése
+
+– a Magyar Nemzeti Bank érintett fiókhálózata integrációjának megkezdése (befejezés év végére);
+
+– javaslat a kincstári informatikai rendszer lecserélésére és egységesítésére;
+
+– javaslat a kincstári főkönyvvezetés és beszámolási rendszer kialakítására, a likviditás-menedzsment fejlesztésére.
+
+Felelős: pénzügyminiszter a Magyar Nemzeti Bank elnökének felkérésével
+
+XV. Adó- és járulékpolitika
+
+– kormány-előterjesztés az új tb-járulékrendszer ügyvitelének és szervezetének kialakítására vonatkozó javaslatról, a hatásszámításokról és a bevezetés programjáról;
+
+Felelős: pénzügyminiszter, népjóléti miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+– az adórendszer átalakítása: kormány-előterjesztés a személyi jövedelemadó, a társasági adó, az adóigazgatási, az általános forgalmi adó törvény változtatásának és a fogyasztási adó törvény újrakodifikációjának törvénytervezetéről, a törvényjavaslatok benyújtása az Országgyűléshez.
+
+Felelős: pénzügyminiszter, igazságügy-miniszter
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+Augusztus
+
+I. A nyugdíjrendszer reformja
+
+– a reformhoz szükséges egyéb törvénymódosítások előkészítése.
+
+Felelős: népjóléti miniszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+II. Az egészségügyi rendszer reformja
+
+– a törvények parlament elé történő benyújtása, döntés az 1997. évi változásokról.
+
+Felelős: népjóléti miniszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+V. Szociális ellátórendszerek
+
+– kormány-előterjesztés a szociális ellátórendszerek reformkoncepciójáról.
+
+Felelős: népjóléti miniszter, munkaügyi miniszter, belügyminiszter, pénzügyminiszter a társadalombiztosítási önkormányzatok felkérésével
+
+XII. Az államháztartási pénzügyi információs rendszer és költségvetési tervezés továbbfejlesztése a modern pénzügyi igazgatás kialakításához
+
+– az államháztartás pénzügyi információs rendszerét érintő koncepcionális előterjesztés a Kormány elé.
+
+Felelős: pénzügyminiszter, Központi Statisztikai Hivatal elnöke az Állami Számvevőszék felkérésével, miniszterek bevonásával
+
+XV. Adó- és járulékpolitika
+
+– kormány-előterjesztés az új tb-járulékrendszerrel kapcsolatos törvénytervezetekről, a törvényjavaslatok benyújtása az Országgyűléshez;
+
+Felelős: pénzügyminiszter, népjóléti miniszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+– az adórendszer átalakítása: kormány-előterjesztés az illetékek és a helyi adók törvénytervezeteiről.
+
+Felelős: pénzügyminiszter, igazságügy-miniszter
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+Szeptember
+
+I. A nyugdíjrendszer reformja
+
+– az új nyugdíjrendszerre vonatkozó javaslatok Országgyűlés elé terjesztése.
+
+Felelős: népjóléti miniszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+III. A társadalombiztosítási önkormányzatok szabályozása
+
+– a jogszabálytervezetek kormányülésre való benyújtása;
+
+Felelős: népjóléti miniszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+– a szükséges törvénymódosítások benyújtása az Országgyűléshez.
+
+Felelős: népjóléti miniszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+V. Szociális ellátórendszerek
+
+– a szociális ellátásról szóló 1993. évi III. törvény a társadalombiztosításról szóló 1975. évi II. törvény, illetve a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosításának előkészítése, benyújtása az Országgyűléshez.
+
+Felelős: népjóléti miniszter, munkaügyi miniszter, belügyminiszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+VII. A közoktatás reformja
+
+– az új közoktatási törvény hatálybaléptetése.
+
+Felelős: művelődési és közoktatási miniszter, pénzügyminiszter, munkaügyi miniszter, belügyminiszter, igazságügy-miniszter
+
+VIII. A felsőoktatás reformja
+
+– a felsőoktatási törvény módosításának hatálybalépése.
+
+Felelős: művelődési és közoktatási miniszter, igazságügy-miniszter
+
+IX. A közigazgatás reformja
+
+– a területi reform (ezen belül a dekoncentrált szervek átalakítása) megvalósításához szükséges törvények módosításának beterjesztése;
+
+– ágazati törvények módosítása.
+
+Felelős: érintett miniszterek, közigazgatás korszerűsítésének kormánybiztosa, igazságügy-miniszter
+
+Érdekegyeztetés: Köztisztviselői Érdekegyeztető Fórum
+
+XI. A helyi önkormányzati rendszer reformja
+
+– javaslattétel a feladat- és hatáskörök átalakítására, az új ellenőrzési rendszerre, az önkormányzati tulajdon rendezésére.
+
+Felelős: belügyminiszter, közigazgatás korszerűsítésének kormánybiztosa, pénzügyminiszter, környezetvédelmi és területfejlesztési miniszter, igazságügy-miniszter
+
+Érdekegyeztetés: Önkormányzati Érdekszövetségek
+
+XIII. A kincstári rendszer fejlesztése
+
+– a kincstári rendszerrel összefüggő törvénymódosítások (a Magyar Tudományos Akadémia költségvetési szervei, a társadalombiztosítási alapok kincstári körbe vonása, a központi költségvetési körben a bérjárulékok központosított befizetési rendszerének bevezetése) benyújtása az Országgyűlés elé.
+
+Felelős: pénzügyminiszter, igazságügy-miniszter, miniszterek a Magyar Tudományos Akadémia és a társadalombiztosítási önkormányzatok bevonásával
+
+Érdekegyeztetés: Érdekegyeztető Tanács, Költségvetési Intézmények Érdekegyeztető Tanácsa
+
+XV. Adó- és járulékpolitika
+
+– az Országgyűlés törvényt alkot az új tb-járulékrendszerről;
+
+Felelős: pénzügyminiszter, népjóléti miniszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+– az adórendszer átalakítása: az illetékekről és a helyi adókról szóló törvényjavaslatok benyújtása az Országgyűléshez.
+
+Felelős: pénzügyminiszter, igazságügy-miniszter
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+Október
+
+VIII. A felsőoktatás reformja
+
+– munkaerő-prognózis, intézmény-visszajelzési rendszer és hallgatói létszámterv készítése;
+
+Felelős: művelődési és közoktatási miniszter, munkaügyi miniszter
+
+– az intézmények minőségértékelése, oktatói követelményrendszer, kutatásértékelés kidolgozása, munkaszerződések szabályozása.
+
+Felelős: művelődési és közoktatási miniszter, munkaügyi miniszter, pénzügyminiszter
+
+Érdekegyeztetés: Felsőoktatási és Tudományos Tanács
+
+XIII. A kincstári rendszer fejlesztése (1997. január 1-jétől bevezetendő, törvényi szintű szabályozást nem igénylő feladatok)
+
+– a kötelezettségvállalás bejelentési és nyilvántartási rendszerének kialakítása;
+
+– az információszolgáltatás továbbfejlesztése a magyar és a nemzetközi számbavételi kötelezettségek és szabványi előírások szerint;
+
+– a helyi önkormányzatok kincstári körbe történő integrálásának, az intézményi könyvviteli feladatok átvételének, a készpénzkímélő technikák alkalmazásának kiterjesztésének vizsgálata;
+
+– projektfinanszírozás kiterjesztése.
+
+Felelős: pénzügyminiszter miniszterek bevonásával
+
+Érdekegyeztetés: Önkormányzati Érdekszövetség
+
+XIV. Reformok a kultúra területén
+
+– az egyes kulturális szaktörvények és a nonprofit törvény javaslatainak benyújtása az Országgyűlésnek.
+
+Felelős: művelődési és közoktatási miniszter, igazságügy-miniszter
+
+XV. Adó- és járulékpolitika
+
+– az Országgyűlés törvényt alkot a személyi jövedelemadóról, a társasági adóról, az általános forgalmi adóról, a fogyasztási adóról, a helyi adókról, az illetékekről és az adózás rendjéről;
+
+Felelős: pénzügyminiszter, igazságügy-miniszter
+
+– kormány-előterjesztés az államháztartási reform helyzetéről, az 1996. évi várható eredményekről. Az 1997. évi részletes munkaprogramok kidolgozása.
+
+Felelős: pénzügyminiszter az érintett miniszterek bevonásával
+
+November
+
+V. A szociális ellátórendszerek
+
+– az Országgyűlés törvényt alkot a szociális ellátásokról és a kapcsolódó területekről (foglalkoztatás, társadalombiztosítás).
+
+Felelős: népjóléti miniszter, munkaügyi miniszter, belügyminiszter, pénzügyminiszter, igazságügy-miniszter
+
+VIII. A felsőoktatás reformja
+
+– a KJT foglalkoztatási, besorolási és díjazási rendjének felülvizsgálata;
+
+– javaslattétel a KJT módosítására.
+
+Felelős: művelődési és közoktatási miniszter, munkaügyi miniszter, igazságügy-miniszter
+
+Érdekegyeztetés: Érdekegyeztető Tanács, Költségvetési Intézmények Érdekegyeztető Tanácsa, Felsőoktatási és Tudományos Tanács
+
+December
+
+I. Nyugdíjrendszer reformja
+
+– az Országgyűlés törvényt alkot az új nyugdíjrendszerről.
+
+Felelős: népjóléti miniszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok bevonásával
+
+II. Az egészségügyi rendszer reformja
+
+– az Országgyűlés törvényt alkot az új egészségügyi rendszerről.
+
+Felelős: népjóléti miniszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok bevonásával
+
+IV. A társadalombiztosítás működési mechanizmus átalakítása
+
+– az elfogadott törvényi szabályozásoknak megfelelően a végrehajtási jogszabálytervezetek kormányülésre való benyújtása.
+
+Felelős: pénzügyminiszter, népjóléti miniszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+Érdekegyeztetés: Érdekegyeztető Tanács
+
+VIII. A felsőoktatás reformja
+
+– intézményi kapacitások felmérése;
+
+– rövid idejű képzési formák rendszerének kidolgozása;
+
+– intézményi vezetés új szerkezetének és tartalmának szabályozása;
+
+Felelős: művelődési és közoktatási miniszter
+
+Érdekegyeztetés: Felsőoktatási és Tudományos Tanács
+
+– koncepció kialakítása az intézményhálózati rendszer fejlesztésére, javaslat az integrált intézmények alapítására.
+
+Felelős: művelődési és közoktatási miniszter
+
+Érdekegyeztetés: Költségvetési Intézmények Érdekegyeztető Tanácsa
+
+X. A központi költségvetési intézményrendszer korszerűsítése (a funkciók és feladatok felülvizsgálata alapján)
+
+– külképviseletek szervezeti és elhelyezési integrációja;
+
+Felelős: külügyminiszter, ipari és kereskedelmi miniszter, művelődési és közoktatási miniszter, pénzügyminiszter
+
+– Helikon Kastély Múzeum KHT-vé alakul;
+
+– Szerzői Jogvédő Hivatal egyesületté alakul;
+
+– a külföldi magyar intézetek részt vesznek a külszolgálati rendszerek integrációjában;
+
+Felelős: művelődési és közoktatási miniszter
+
+– Magyar Kézilőfegyver-vizsgáló Hivatal állami tulajdonú Gt-vé alakul;
+
+– Fa-, Papír- és Nyomdaipari Minőségellenőrző Intézet Gt-vé alakul;
+
+– Magyar Elektr. Ellenőrző Intézet Gt-vé alakul.
+
+Felelős: ipari és kereskedelmi miniszter
+
+1997. év folyamán
+
+(részletesebb munkaprogram az 1996. évi eredmények függvényében állítható össze)
+
+I. A nyugdíjrendszer reformja
+
+– a nyugdíjrendszer bevezetése: 1997. január 1-jétől meghirdetés, az átállás éve 1997.
+
+Felelős: népjóléti miniszter, pénzügyminiszter a társadalombiztosítási önkormányzatok felkérésével
+
+II. Az egészségügy reformja
+
+– jogszabálytervezetek Kormány elé történő benyújtása: 1997. május;
+
+– a törvények parlament elé történő benyújtása: 1997. május.
+
+Felelős: népjóléti miniszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+Érdekegyeztetés: Magyar Orvosi Kamara
+
+IV. A társadalombiztosítás működési mechanizmus átalakítása
+
+– az elfogadott törvényi szabályozásoknak megfelelően a végrehajtási jogszabálytervezetek kormányülésre való benyújtása.
+
+Felelős: pénzügyminiszter, népjóléti miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+V. A szociális ellátórendszerek reformja
+
+– a törvénymódosítások hatálybaléptetése.
+
+Felelős: népjóléti miniszter, munkaügyi miniszter, belügyminiszter, pénzügyminiszter, igazságügy-miniszter a társadalombiztosítási önkormányzatok felkérésével
+
+VIII. A felsőoktatás reformja
+
+– a finanszírozási modell bevezetése;
+
+Felelős: művelődési és közoktatási miniszter, pénzügyminiszter
+
+Érdekegyeztetés: Felsőoktatási és Tudományos Tanács
+
+– javaslat és program az intézményhálózati rendszer fejlesztésére
+
+Felelős: művelődési és közoktatási miniszter
+
+Érdekegyeztetés: Felsőoktatási és Tudományos Tanács
+
+X. A központi költségvetési intézményrendszer korszerűsítése (a funkciók és feladatok felülvizsgálata alapján)
+
+– Magyar Távirati Iroda közalapítvány által működtetett Rt-vé történő átalakítása
+
+Felelős: Miniszterelnöki Hivatal közigazgatási államtitkára, igazságügy-miniszter
+
+– a külszolgálatok szervezeti és elhelyezési integrációjának folytatása.
+
+Felelős: külügyminiszter, ipari és kereskedelmi miniszter, művelődési és közoktatási miniszter, pénzügyminiszter
+
+XI. A helyi önkormányzati rendszer reformja
+
+– modellvizsgálatok alapján 1997. június 30-ig a helyi önkormányzatok 1998. évi pénzügyi szabályozási modelljének kidolgozása, a helyi adórendszer továbbfejlesztése; javaslattétel a kincstári működés önkormányzati körre történő kiterjesztésére.
+
+Felelős: pénzügyminiszter, belügyminiszter, környezetvédelmi és területfejlesztési miniszter
+
+Érdekegyeztetés: Önkormányzati Szövetségek
+
+XII. Az államháztartási pénzügyi információs rendszer és költségvetési tervezés továbbfejlesztése a modern pénzügyi igazgatás kialakításához
+
+– egyes részfeladatok dokumentumainak elkészítése az 1997–1999. évi költségvetési tervezőmunkával összefüggésben.
+
+Felelős: pénzügyminiszter, Központi Statisztikai Hivatal elnöke az Állami Számvevőszék felkérésével, a miniszterek bevonásával
+
+XIV. Reformok a kultúra területén
+
+– az egyes kulturális szaktörvények és a nonprofit törvény hatálybaléptetése (1997. január 1-jétől).
+
+Felelős: művelődési és közoktatási miniszter, igazságügy-miniszter
+
+[^2]: A 2. számú melléklet IX. fejezetéhez kapcsolódó feladatokat az 1057/2001. (VI. 21.) Korm. határozat IV/2. pontja hatályon kívül helyezte.
+[^3]: Az 1039/1997. (IV. 28.) Korm. határozattal megállapított szöveg.
+[^4]: Az 1039/1997. (IV. 28.) Korm. határozattal megállapított szöveg.
+[^5]: Az 1039/1997. (IV. 28.) Korm. határozattal megállapított szöveg.
