@@ -1,0 +1,1 @@
+A Kormány a légi közlekedés átalakítása, a nemzetgazdaságban meglévő jelentőségének megőrzése érdekében felmentést ad az 1995. évi C. törvény (vámtörvény) 77. §-ának (3) bekezdése alapján a MALÉV Rt. részére az általa bérlet jogcímén 1997 előtt vámkezeltetett repülőgépekre esedékessé váló vámteher megfizetése alól.
