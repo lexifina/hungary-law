@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Finn Köztársaság Kormánya között Helsinkiben, az 1977. évi szeptember hó 23. napján aláírt Állategészségügyi Egyezményt e rendelettel kihirdeti.
