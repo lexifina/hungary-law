@@ -1,0 +1,5 @@
+## 1. § A közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Korm. rendelet 24. §-a (4) bekezdésének d) pontja alapján, május 1-jétől szeptember 30-ig terjedő időszakra a csatornahasználati díj felszámításánál a locsolási célú felhasználás miatt az adott időszakra jutó vízfogyasztás 10%-kal csökkentett, korrigált mennyiségét kell figyelembe venni.
+
+2. § (1) A díjszámítás alapjául szolgáló mennyiségi korrekció a szennyvízmérővel nem rendelkező lakossági fogyasztó által benyújtott igénylőlap alapján történik.
+
+(2) E rendelet alkalmazásában lakossági fogyasztó, aki az állami tulajdonú közüzemi vízműből szolgáltatott ivóvízért, illetőleg az állami tulajdonú közüzemi csatornamű használatáért fizetendő díjakról szóló 47/1999. (XII. 28.) KHVM rendelet (a továbbiakban: R.) 3. számú mellékletének 6. pontjában meghatározott – nem úszóteleknek minősülő – lakó-, illetve üdülőingatlannal és arra vonatkozóan a szolgáltatóval érvényes közüzemi szolgáltatási szerződéssel rendelkezik.
