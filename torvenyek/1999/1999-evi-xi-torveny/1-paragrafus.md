@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és Írország között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelemadók területén Dublinban, 1995. április 25-én aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1996. december 5-én megtörtént, és az Egyezmény 1996. december 5-én hatályba lépett.)
