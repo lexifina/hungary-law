@@ -1,0 +1,95 @@
+Az Országgyűlés a társadalmi szervezetek költségvetési támogatására megállapított előirányzatok 1994. évi elosztása érdekében az alábbi döntést hozza:
+
+1. Az Országgyűlés a Társadalmi Szervezetek Költségvetési Támogatását Koordináló Bizottságot (a továbbiakban: Bizottság) kijelöli arra, hogy
+
+— tegyen javaslatot az Országgyűlésnek a jelentős társadalmi közérdeket megvalósító egyesületek működésének támogatását szolgáló 1994. évi költségvetési előirányzat elosztására,
+
+— hangolja össze a társadalmi szervezetek támogatását szolgáló országgyűlési és kormányzati előirányzatok elosztását.
+
+2. A Bizottság írjon ki nyilvános pályázatot az 1994. évi költségvetési támogatás elnyerésére, amely tartalmazza a támogatás célját és elnyerésének feltételeit. (A pályázati felhívást a melléklet tartalmazza.)
+
+3. Az Országgyűlés ajánlja a Bizottságnak, hogy munkája során az alábbi elveket vegye figyelembe.
+
+Az Országgyűlés költségvetési támogatásában azok az egyesületek részesülhetnek, amelyek
+
+a) az egyesülési jogról szóló 1989. évi II. törvény alapján jöttek létre 1993. június 30-ig;
+
+b) tagságuk önkéntes és folyamatos tevékenységét kizárólag közérdekű társadalmi célok érdekében szervezik;
+
+c) társadalmi támogatottságuk abban is kifejeződik, hogy tagságuk legalább 3 megyei jogú közigazgatási terület településeiről, illetve a főváros kerületeinek legalább 1/3-ából több, mint száz fő.
+
+Nem részesülhetnek működési támogatásban a párt jellegű és a gazdasági érdekképviseleti szervezetek, valamint azok az egyesületek, amelyek működési feltételeit döntő hányadban költségvetési forrás, más szervezet támogatása vagy saját vagyonuk és vállalkozási bevételük biztosítja.
+
+4. A pályázatok elemzésére a Bizottság szakértőket kérhet fel. A szakértői munkával összeférhetetlen azon szervezetek értékelése, amelyekkel a szakértő tagsági, megbízási vagy munkaviszonyban áll.
+
+5. Az Országgyűlés ajánlja a képviselőknek, hogy módosító indítványaikat a pályázatok és a Bizottság eljárásának együttes ismeretében, az előirányzaton belüli forrásfedezet megjelölésével nyújtsák be.
+
+6. Az Országgyűlés felkéri a Bizottságot, hogy elosztási javaslatát a pályázati kiírás közzétételét követően legkésőbb 3 hónap múlva terjessze be az Országgyűlésnek.
+
+7. E határozat elfogadásával — a IV/7. pont kivételével — a 3/1993. (II. 12.) OGY határozat érvényét veszti.
+
+Melléklet a 101/1993. (XII. 26.) OGY határozathoz
+
+PÁLYÁZATI FELHÍVÁS közérdekű egyesületek 1994. évi költségvetési támogatására
+
+Az Országgyűlés, elismerve a jelentős társadalmi közérdeket megvalósító egyesületek jelentőségét, költségvetési támogatást nyújt ezen szervezetek működéséhez.
+
+Az Országgyűlés megbízásából a Társadalmi Szervezetek Költségvetési Támogatását Koordináló Bizottság a működési támogatás elosztására pályázatot hirdet.
+
+1. Az Országgyűlés költségvetési támogatására pályázatot nyújthatnak be azok az egyesületek, amelyek
+
+— bírósági nyilvántartásba vétele 1993. június 30-ig megtörtént,
+
+— székhelye Magyarországon van,
+
+— érvényes alapszabállyal, képviseleti szervvel, nyilvántartott tagsággal és az egyesület létrejöttétől folyamatos tevékenységgel rendelkeznek,
+
+— taglétszámuk legalább 3 megyei jogú közigazgatási terület településeiről, illetve a főváros kerületeinek legalább 1/3-ából több, mint száz fő,
+
+— tagságuk önkéntes tevékenységét kizárólag közérdekű társadalmi célok érdekében szervezik, elsősorban a nemzeti értékek, az egészség, az épített és a természeti környezet védelme; a gyermekek és a fiatalok részvételének biztosítása a civil társadalom életében; a hátrányos helyzetű csoportok problémáinak megoldása; a nemzetközi együttműködés fejlesztése érdekében.
+
+2. Ebből a költségvetési előirányzatból nem részesülhetnek támogatásban
+
+— azok a szervezetek, amelyek saját nevükben az 1994. évi országgyűlési képviselő-választásokon képviselőjelöltet állítanak,
+
+— a munkaadói, a munkavállalói és foglalkozási érdekvédelmi szervezetek, köztestületek,
+
+— azok a társadalmi szervezetek, amelyek más költségvetési előirányzatból kaphatnak működési támogatást, tekintet nélkül arra, hogy e keretekből eddig részesültek-e vagy sem,
+
+— tagságuk és tevékenységük szerint helyi, megyei vagy hobbi egyesületek.
+
+3. Költségvetési támogatás igényelhető az alapszabályból következő közérdekű tevékenységhez és az ahhoz szükséges feltételek biztosításához, így különösen:
+
+— regionális, országos és nemzetközi rendezvények, szolgáltatások, kiadványok költségeihez,
+
+— egyesületi irodák fenntartási költségeihez,
+
+— személyi feltételek biztosításához,
+
+— nemzetközi szervezeti tagdíj forintfedezetéhez.
+
+4. Az igényléseket csak pályázati adatlapon lehet benyújtani. (Az Országgyűlés előző évi támogatásában részesült szervezeteknek ezt a Bizottság postán megküldi.)
+
+Pályázati adatlap a következő címen igényelhető és nyújtható be:
+
+Az Országgyűlés Társadalmi Szervezetek Költségvetési Támogatását Koordináló Bizottsága
+
+1358 Budapest, Széchenyi rakpart 19.
+
+Képviselői Irodaház, 660. szoba
+
+Telefon: 268-5778, 268-5929
+
+Tel/fax: 268-5957
+
+Munkatársak: Fülöp Árpádné, Varjas Csilla
+
+5. A pályázatokat a pályázó egyesület képviseleti szervének döntése alapján kell benyújtani e felhívás megjelenését követő 28 napon belül a Bizottság címére, 3 példányban.
+
+Az adatlap kitöltése nélkül, hiányosan vagy határidő után benyújtott, valamint a pályázati kiírásnak nem megfelelő pályázatokat a Bizottság nem bírálja el.
+
+A Bizottság szükség esetén a pályázó szervezetek képviselői számára meghallgatást, illetve nyilvános ülést tart, amelyről a résztvevőket levélben értesíti. A költségvetési előirányzat elosztására vonatkozó javaslatot a Bizottság a pályázati határidőt követő 2 hónapon belül terjeszti az Országgyűlés elé.
+
+6. A pályázó szervezet az elnyert összeget csak a támogatott tevékenységre fordíthatja. A pályázat benyújtásakor meglévő saját tagszervezetein kívül más szervezetnek tovább nem adhatja.
+
+Az elnyert összeg felhasználásáról e tevékenység befejezését követően, de legkésőbb 1995. március 1-jéig köteles beszámolót és elszámolást készíteni.
