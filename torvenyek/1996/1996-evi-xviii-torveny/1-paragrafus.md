@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Svájci Államszövetség között, Budapesten, 1992. december 17-én aláírt választott bírósági és békéltetési Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló okiratok cseréje 1995. április 24-én lezajlott, és a Szerződés e napon hatályba lépett.)
