@@ -1,0 +1,3 @@
+13. § (1) Az engedélyes köteles gondoskodni a minőség-ellenőrző és minőségbiztosító intézkedések betartatásáról, valamint a páciensdózis vagy a beadott radionuklid készítmény aktivitásának ellenőrzéséről.
+
+(2) A radiológiai berendezések napi minőség-ellenőrzési vizsgálatát az engedélyesnek, az évenkénti vagy nagyobb karbantartást követő minőség-ellenőrzési vizsgálatot pedig az erre jogosult akkreditált szervezetnek kell végeznie. A vizsgálatokról jegyzőkönyvet kell felvenni. A vizsgálatok megtörténtét, illetőleg a jegyzőkönyvben rögzített intézkedések végrehajtását a sugáregészségügyi hatóság ellenőrzi.
