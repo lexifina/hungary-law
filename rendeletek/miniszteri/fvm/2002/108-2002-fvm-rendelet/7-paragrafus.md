@@ -1,0 +1,5 @@
+7. § (1) A birtokhasznosítási bizottságok működési költségeinek biztosításáról az NFA a bizottságokba tagot választó országos szervezetekkel, valamint a területi agrárkamarákkal kötött szerződésben foglaltak szerint gondoskodik. E szervezetek az általuk, illetve területi vagy helyi szerveik által megválasztott és nyilvántartásba vett tagok számának megfelelő összegű költségtérítésre köthetnek szerződést.
+
+(2) Az (1) bekezdés alapján megkötött szerződésben az érintett szervezetek kötelezettséget vállalnak arra, hogy a költségtérítés összegét a birtokhasznosítási bizottságok működési költségeinek biztosítására fordítják, és annak felhasználásáról évente tájékoztatják az NFA-t. A birtokhasznosítási bizottság működési költségének kell tekinteni az érintett szervezet által a birtokhasznosítási bizottság részére nyújtott dologi szolgáltatást is.
+
+(3) Az NFA a költségtérítés települési önkormányzatot megillető részét az érintett önkormányzat írásbeli kérelmére, a tárgyévet követő első hónapban utalja át.
