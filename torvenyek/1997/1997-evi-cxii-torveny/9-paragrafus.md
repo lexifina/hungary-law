@@ -1,0 +1,1 @@
+9. § A társadalombiztosításról szóló 1975. évi II. törvény 105/C. §-a (3) bekezdésének rendelkezését 1997-re vonatkozóan azzal az eltéréssel kell végrehajtani, hogy a járulékfizetésre kötelezettet folyószámlájának 1997. november 30-i egyenlegéről 1998. január 31-ig kell értesíteni.
