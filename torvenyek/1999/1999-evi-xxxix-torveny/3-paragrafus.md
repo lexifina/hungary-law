@@ -1,0 +1,1 @@
+3. § Felhatalmazást kap a Kormány, hogy a Nemzetközi Energia Programról szóló, Párizsban, 1974. november 18-án kelt Egyezmény és annak Jegyzőkönyvei végrehajtása érdekében a Nemzetközi Energia Ügynökség (IEA) által hozott vagy a jövőben hozandó határozatokhoz csatlakozzon, és azok teljesítése érdekében tegye meg a szükséges intézkedéseket.
