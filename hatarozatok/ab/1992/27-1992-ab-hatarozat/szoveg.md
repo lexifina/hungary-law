@@ -1,0 +1,87 @@
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+
+Az Alkotmánybíróság jogszabály alkotmányellenességének utólagos vizsgálata iránti indítványok tárgyában meghozta a következő
+
+határozatot.
+
+Az Alkotmánybíróság a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvény alkotmányellenességének megállapítására irányuló indítványokat és e jogszabály megsemmisítése iránti kérelmeket elutasítja, a törvény nemzetközi szerződésekbe ütközésének megállapítása iránti indítványokat pedig visszautasítja.
+
+Az Alkotmánybíróság határozatát a Magyar Közlönyben közzéteszi.
+
+INDOKOLÁS
+
+I.
+
+Az indítványozók álláspontja szerint a munkavállalói érdekképviseleti tagdíjfizetés önkéntességét szabályozó 1991. évi XXIX. törvény egészében áll ellentétben a nemzetközi jog általánosan elismert szabályaival, ezért ellentétes az Alkotmány 7. § (1) bekezdésével is. Megítélésük szerint a törvény mind a Polgári és Politikai Jogok, mind a Gazdasági, Szociális és Kulturális Jogok egyezségokmányait, mind a Nemzetközi Munkaügyi Szervezet egyezményeit sérti, tekintettel arra, hogy azok a szakszervezetek tevékenységébe az állami beavatkozást csak rendkívüli esetekben engedik meg.
+
+Az indítványozók szerint a törvény a szakszervezetek szerződéses viszonyaiba is beavatkozik, ezzel pedig ugyancsak megsérti a nemzetközi jogot.
+
+Megítélésük szerint ez a beavatkozás ellentétes Az egyesülési szabadságról és a szervezkedési jog védelméről szóló 1948. évi 87. számú egyezmény 3. cikkével, amely szerint a dolgozók és munkáltatók szervezeteinek jogukban áll alapszabályaik és szabályzataik kidolgozása, képviselőik szabad megválasztása, ügyintézésük és tevékenységük megszervezése, valamint programjaik megszövegezése. A hatóságoknak tartózkodniuk kell minden beavatkozástól, ami ezt a jogot korlátozná, vagy annak törvényes gyakorlását gátolná.
+
+A törvény, az indítványozók álláspontja szerint, ellentétes az Alkotmány 70/A. § (1) bekezdésében megfogalmazott jogegyenlőség-szabállyal is, mert a szakszervezetek, egyéb munkavállalói érdekképviseletek, illetőleg más jogi személyek között, illetőleg a munkavállalók között diszkriminál.
+
+Nézetük szerint a törvény egyrészt indokolatlanul avatkozik be az érintett jogalanyok polgári jogi és munkajogi jogviszonyaiba, ezzel megsérti a szerződéskötési szabadság és a jogbiztonság elvét, másrészt ellentétben áll a Polgári Törvénykönyv és a Munka Törvénykönyve több rendelkezésével. Kifogásolták, hogy a törvény végrehajtására nem áll rendelkezésre elegendő idő, s hogy a törvényhozó a törvényalkotás folyamatában az érdekképviseleti szervek közreműködését mellőzte, ezzel a támadott jogszabály a jogalkotásról szóló törvény rendelkezéseivel is ellentétbe került.
+
+II.
+
+Az indítványok nem megalapozottak.
+
+Az indítványozók a törvényt nem meghatározott rendelkezései tekintetében, hanem egészében támadják, ezért az Alkotmánybíróság az alkotmányossági vizsgálatot ennek megfelelően a törvény egésze vonatkozásában folytatta le.
+
+1. A törvény — a címében foglaltak szerint, de tartalmát tekintve is — a munkavállalói érdekképviseleti tagdíjfizetés önkéntessége tárgyában rendelkezik. A szerződési szabadság elvét, amelyet az Alkotmánybíróság 13/1990. (VI. 18.) AB határozatával a piacgazdaság [Alkotmány 9. § (2) bekezdés] lényegi elemének tekintett — összefüggésben az egyesülési szabadság védelmével — úgy biztosítja, hogy a tagdíjfizetési megbízást a munkáltató és a munkavállaló közötti szabad megállapodás körébe utalja. E körben a munkáltató tekintetében állapít meg kötelezettséget, amennyiben kimondja, hogy a munkáltató nem tagadhatja meg a munkavállaló megbízásának a teljesítését akkor, ha bármelyik más munkavállalója hasonló megbízását már teljesíti. A munkáltató tehát munkavállalói között semmilyen vonatkozásban, így a megjelölt szakszervezethez vagy egyéb munkavállalói érdekképviselethez tartozás szerint sem különböztethet. Ez a rendelkezés pedig kifejezetten összhangban van az Alkotmány 70/A. § (1) bekezdésében megfogalmazott jogegyenlőségi rendelkezéssel, de a támadott törvény a munkavállalók és érdekképviseleti szerveik körében az Alkotmány 70/A. § (1) bekezdésébe ütköző személyek közötti egyéb helyzet szerinti megkülönböztetést más vonatkozásban sem valósít meg, mert valamennyi munkáltatóra, munkavállalóra és érdekképviseleti szervre nézve azonos tartalommal rendelkezik.
+
+2. A támadott törvény 6. § (2) bekezdése kétségtelenül érinti a már megadott munkavállalói megbízásokat, mert e rendelkezés szerint a tagdíjak fizetésére vonatkozó korábbi nyilatkozatok érvényességüket vesztik.
+
+A törvény e rendelkezése azonban csak a szakszervezeti vagyon védelméről, a munkavállalók szervezkedési és szervezeteik működési esélyegyenlőségéről szóló 1991. évi XXVIII. törvény rendelkezéseivel összefüggésben vizsgálható. Ez utóbbi törvény, kiindulva abból, hogy a korábban monopolhelyzetű szakszervezetek a rendszerváltás során szociológiailag felbomlottak, több mint száz munkavállalói érdekképviseleti tömörülésre estek szét, s ez a tény rendkívüli jogbizonytalanságot, jogilag tisztázatlan helyzeteket teremtett, az elmúlt rendben felhalmozott szakszervezeti vagyon újrafelosztását helyezte kilátásba. Az Alkotmánybíróság az 1592/B/1991. számú határozatával ezt a törvényhozói célkitűzést alkotmányosnak ítélte.
+
+A vonatkozó törvény támadott rendelkezése összhangban áll a szakszervezeti vagyoni helyzetek összességének újraszabályozásával. A sérelmezett rendelkezés jogilag is deklarálja azt a szociológiai tényt, hogy a korábbi szakszervezetek felbomlottak. Az új jogi helyzetben az újonnan létrejövő munkavállalói tömörüléseknek új jogviszonyok keretében kell a tagdíjfizetési kérdéseket rendezniük. A szakszervezetek, egyéb érdekképviseletek jogi helyzetének a jelenlegi tisztázatlansága ugyanis a tagdíjfizetéssel kapcsolatos megbízásokra is kihatással van. Ezek újraszabályozása nem érinti a szerződési szabadság elvét, mert olyan jognyilatkozatok tömege tekintetében állapítja meg az érvényt vesztés tényét, amelyek bizonytalan, függő jogi helyzetekkel kapcsolatosak. Az Alkotmány 2. § (1) bekezdésében deklarált, a jogbiztonság követelményét is magábafoglaló jogállamiság elve egyenesen megköveteli, hogy az újonnan létrejött munkavállalói érdekképviseleti tömörülések jogviszonyai a díjfizetésekre is kiterjedően — a szerződési szabadság és az önkéntesség alkotmányos elvei alapján — újraszabályozást nyerjenek. Ezért az Alkotmánybíróság ezt a támadott rendelkezést sem találta alkotmányellenesnek.
+
+3. Az Alkotmánybíróság a 35/1991. (VI. 20.) AB határozatában elvi éllel mutatott rá arra, hogy ellentétes — vagy értelmezéstől függően ellentétes — törvényi rendelkezések alkotmányellenessé csak akkor válnak, ha az ellentétes tartalmú szabályozás anyagi alkotmányelleneséghez vezet, azaz, ha a kollízió folytán valamely nevesített alkotmányos jog sérelmet szenved. Két (vagy több) törvényi rendelkezés esetleges kollíziója folytán előálló értelmezési nehézség magábanvéve még nem elegendő feltétele az alkotmányellenesség megállapításának. A törvények közötti összhang hiányának vizsgálatától ezért, alapjogi sérelem hiányában, a Alkotmánybíróság eltekintett. Így — alkotmányossági kérdés hiányában — azt az indítványt sem vonhatta az Alkotmánybíróság az alkotmányossági vizsgálat körébe, hogy a törvény a polgári jogban illetőleg a munkajogban már szabályozott jogviszonyokat feleslegesen újraszabályozza, illetőleg, hogy az ott írt szabályokkal ellentétes rendelkezéseket fogalmaz meg. A törvényhozás valamely, az Alkotmány sérelmét nem jelentő hibáját ugyanis általában jogalkotói vagy jogalkalmazói jogszabályértelmezéssel kell feloldani.
+
+4. Tekintettel arra, hogy az indítványokkal támadott törvény 6. §-a úgy rendelkezik, hogy az a kihirdetésétől számított harmincadik napon lép hatályba, az Alkotmánybíróság a törvény alkalmazására való felkészüléssel, illetőleg az ahhoz szükséges idővel kapcsolatos kifogást is megalapozatlannak találta. Azt pedig már több határozatában — legutóbb a 13/1992. (III. 25.) AB határozatában — is kinyilvánította az Alkotmánybíróság, hogy az érdekképviseleti szervek közreműködésének a mellőzése a törvényhozás folyamatában önmagában nem vezethet a törvény alkotmányellenességének a megállapítására. A JAT vonatkozó előírása ugyanis nem alkotmányos jogalkotói feltétel. Így az Alkotmánybíróság az indítványokat a jogalkotásról szóló törvény rendelkezéseinek a megsértése miatt sem találta megalapozottnak és teljesíthetőnek.
+
+5. Az Alkotmánybíróság a jogalkotó által választott megoldásoknak a nemzetközi jog indítványokban felhívott szabályaival való ellentmondását nem vizsgálta, tekintettel arra, hogy az 1989. évi XXXII. törvény 21. § (3) bekezdése szerint az indítványozók a jogszabály nemzetközi szerződésbe ütközésének alkotmányossági vizsgálata iránti indítványtételi jogosultsággal nem rendelkeznek. Ezért az erre irányuló indítványokat visszautasította. Az Alkotmánybíróság egyébként sem az indítványokban, sem az azokkal összefüggő vizsgálata során nem talált olyan elemet, amelynek alapján a hivatalbóli eljárás megindításának indokoltságát megállapíthatta volna.
+
+Az Alkotmánybíróság az indítványozók által képviselt nagyszámú érdekeltre tekintettel rendelte el határozatának a Magyar Közlönyben való közzétételét.
+
+Dr. Sólyom László s. k.
+
+az Alkotmánybíróság elnöke
+
+Dr. Ádám Antal s. k.,
+
+alkotmánybíró
+
+Dr. Herczegh Géza s. k.
+
+alkotmánybíró
+
+Dr. Kilényi Géza s. k.,
+
+alkotmánybíró
+
+Dr. Lábady Tamás s. k.
+
+előadó alkotmánybíró
+
+Dr. Schmidt Péter s. k.,
+
+alkotmánybíró
+
+Dr. Szabó András s. k.
+
+alkotmánybíró
+
+Dr. Tersztyánszky Ödön s. k.,
+
+alkotmánybíró
+
+Dr. Vörös Imre s. k.
+
+alkotmánybíró
+
+Dr. Zlinszky János s. k.
+
+alkotmánybíró
+
+Alkotmánybírósági ügyszám: 1634/B/1991/2.
