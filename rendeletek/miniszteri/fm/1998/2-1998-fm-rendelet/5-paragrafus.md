@@ -1,0 +1,5 @@
+5. § (1) Az anyagi javak rbv. ellenőrzési feladatait a megyei (fővárosi) Állategészségügyi és Élelmiszer Ellenőrző Állomások (a továbbiakban: ÁÉEÁ), a Növényegészségügyi és Talajvédelmi Állomások (a továbbiakban: NTÁ), továbbá egyéb bevont és hatósági jogkörrel ellátott iparági laboratóriumok, intézetek, kutató intézetek gyakorolják. Az ÁÉEÁ és NTÁ hatósági, illetve szakhatósági közreműködése során polgári védelmi feladatokat is ellátnak.
+
+(2) A 4. § (2) bekezdésében felsorolt anyagi javak felhasználását, forgalomba hozatalát megelőzően a minőség-ellenőrzést végző hatóságnak rbv. anyagokra folyamatosan monitoring vizsgálatot, a minősített időszakban pedig tételes vizsgálatot kell végeznie, és engedélyt kiadni csak fogyasztásra alkalmas minősítés után szabad.
+
+(3) Az anyagi javak rbv. anyagokkal történő szennyeződése, fertőződése esetén intézkedni kell a szennyező anyagok eltávolítására, rbv. mentesítésre. A mentesítésnek ki kell terjednie a 4. § (1) bekezdésében felsorolt területekre és műveletekre. Amennyiben a szennyező anyagok nem távolíthatók el, intézkedni kell azok ártalmatlanításáról.
