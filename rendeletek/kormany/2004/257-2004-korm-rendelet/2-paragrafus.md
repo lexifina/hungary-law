@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Indiai Köztársaság Kormánya között, a védelmi együttműködésről szóló, Újdelhiben, 2003. november 3-án aláírt Megállapodást e rendelettel kihirdeti. (A Megállapodás jóváhagyásáról szóló jegyzékváltás alapján a Megállapodás 2004. február 20-án hatályba lépett.)
