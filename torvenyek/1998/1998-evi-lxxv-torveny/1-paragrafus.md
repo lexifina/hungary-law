@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között az 1994. évi Bécsi Dokumentumot kiegészítő bizalom- és biztonságerősítő intézkedésekről és a katonai kapcsolatok fejlesztéséről szóló, Pozsonyban, 1998. február 4-én aláírt Megállapodást (a továbbiakban: Megállapodás) e törvénnyel megerősíti.
