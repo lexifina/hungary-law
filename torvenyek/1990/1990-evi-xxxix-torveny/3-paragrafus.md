@@ -1,0 +1,1 @@
+3. § A szigorított javító-nevelő munkára, a javító-nevelő munkára és a pénzbüntetésre elítélt a büntetés végrehajtása alól mentesül, abban az esetben is, ha a büntetését utólag szabadságvesztésre változtatták át.
