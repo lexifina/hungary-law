@@ -1,0 +1,1 @@
+A kulturális javak védelméről és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 60. §-ának (4) bekezdésében (a továbbiakban: törvény) foglalt felhatalmazás alapján a következőket rendelem el:
