@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Jordán Hasemita Királyság Kormánya között Budapesten az 1979. évi augusztus hó 31. napján aláírt, az egészségügyi együttműködésről szóló egyezményt e rendelettel kihirdeti.
