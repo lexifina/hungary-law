@@ -1,0 +1,1 @@
+(A Megállapodás 10. Cikk (1) bekezdésének megfelelően a Megállapodás 1990. február 2-án lépett életbe, amikor a Felek kölcsönösen értesítették egymást az életbelépéshez szükséges belső állami feltételek teljesüléséről.)
