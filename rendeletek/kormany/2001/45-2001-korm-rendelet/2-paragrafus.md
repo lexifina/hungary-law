@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Duna Bizottság között a Duna Bizottságot, valamint annak tisztviselőit megillető kiváltságok és mentességek rendezéséről szóló, a Duna Bizottság székhelyéről, 1964. május 27-én, Budapesten aláírt Egyezményhez fűzött Kiegészítő Jegyzőkönyvet e rendelettel kihirdeti.
