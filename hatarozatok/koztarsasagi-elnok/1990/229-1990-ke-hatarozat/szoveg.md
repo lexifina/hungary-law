@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Cserveny Vilmos rendkívüli követet és meghatalmazott minisztert megbízom a Magyar Köztársaságnak a bécsi nemzetközi szervezetek mellett működő állandó képviselete, valamint a Nemzetközi Atomenergia Ügynökség mellett működő állandó képviselete vezetésével.
