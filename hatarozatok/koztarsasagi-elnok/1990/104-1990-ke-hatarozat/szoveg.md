@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Gresznáryk Pált kinevezem főkonzullá és megbízom a Magyar Köztársaságnak Baden-Württemberg tartomány és a Bajor Szabad Állam területére kiterjedő hatáskörrel működő müncheni főkonzulátusa vezetésével.
