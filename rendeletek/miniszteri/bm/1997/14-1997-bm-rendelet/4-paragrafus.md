@@ -1,0 +1,3 @@
+## 3. § A főosztály a törvény 3. §-ának (1) bekezdésében foglaltakat helyi ellenőrzés keretében, illetőleg a 3. § (1) bekezdésének a), e), f), h), i), j) pontjaiban meghatározottakat a főosztály által kezelt Központi Okmánytár (a munkáltató intézkedéseként rögzített parancsok, határozatok egy példánya), az egységes számítógépes személyzeti, munkaügyi, szervezési, illetmény- és nyugdíjrendszer adatai felhasználásával hajtja végre.
+
+4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.

@@ -1,0 +1,1 @@
+## 1. § A belügyminiszter irányítása alá tartozó fegyveres erőnél (Határőrség) és rendvédelmi szerveknél (Rendőrség, Polgári Védelem, állami és hivatásos önkormányzati tűzoltóság) a munkaügyi ellenőrzést a Belügyminisztérium személyzeti szerve (a továbbiakban: főosztály) látja el.
