@@ -1,0 +1,5 @@
+## Vegyes rendelkezések
+
+12. § (1) A magzati élet védelméről szóló 1992. évi LXXIX. törvény 17. §-ának (2) bekezdése értelmében 1993. január 1-jével megszűnt anyasági segélyre, valamint a társadalombiztosításról szóló 1975. évi II. törvény módosításáról és kiegészítéséről rendelkező 1993. évi VIII. törvény 39. §-a értelmében 1993. február 26-ával megszűnt temetési segélyre — mely ellátások Társadalombiztosítási Alapból történő finanszírozása a KT. 37. §-ának (1) bekezdése alapján 1993. január 1-jétől megszűnt — a társadalombiztosítási szervek által 1993. évben még kifizetett összegeket a központi költségvetés az Országos Egészségbiztosítási Pénztár részére legkésőbb e törvény hatálybalépését követő 15. napon megtéríti. Az anyasági segélyre és a temetési segélyre 1993-ban kifizetett összegeket a törvény 10. számú melléklete tartalmazza.
+
+(2) A társadalombiztosítási szervek által folyósított, társadalombiztosítási alrendszeren kívüli megtérítési forrással rendelkező — a társadalombiztosítási alrendszernek részét nem képező — ellátások kiadásait és a kiadások fedezetére befolyt összegeket a törvény 11. számú melléklete tartalmazza.

@@ -1,0 +1,3 @@
+14. § (1) A Társadalombiztosítási Alap 1992. évi költségvetésének a végrehajtásáról szóló 1993. évi CV. törvény 14. §-a (2) bekezdésének rendelkezése alapján 1993-ban az egészség megőrzését szolgáló célokra fordítható, ott megjelölt keretösszeg — 11 millió forint — terhére történt 1993. évi kifizetés 8 millió forint.
+
+(2) Az ET. 7. §-a (2) bekezdésének b) pontjában megjelölt, a Ny. Alap és az E. Alap befektetések hozama tartaléka között meg nem osztott keret 1993. év végén fennálló maradványa 3 millió forint. A maradvány összegét — az ET. 7. §-a (1) bekezdésében meghatározott eszmei hányadnak megfelelően — 90-10% arányban a Ny. Alap és az E. Alap befektetések hozama tartaléka között meg kell osztani.

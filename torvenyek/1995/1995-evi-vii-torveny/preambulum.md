@@ -1,0 +1,1 @@
+Az Országgyűlés a társadalombiztosítás pénzügyi alapjai 1993. évi — a társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló, az 1993. évi XLIV. törvénnyel módosított 1992. évi LXXXIV. törvényben (a továbbiakban: KT.) meghatározott — költségvetésének a végrehajtásáról az alábbi törvényt alkotja:
