@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Kunszentmárton város Szelevény elnevezésű településrészét Szelevény néven 1992. január 1. napjával községgé nyilvánítom. Szelevény községgé nyilvánítása nem érinti Kunszentmárton városi címét.
