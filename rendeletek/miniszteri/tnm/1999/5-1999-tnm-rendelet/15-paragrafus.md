@@ -1,0 +1,1 @@
+## 14. § Ha a vizsgálat a lőfegyverhasználat jogszerűtlenségét állapítja meg, a Szolgálat főigazgatója gondoskodik a szükséges intézkedések megtételére, illetőleg az így okozott, ténylegesen felmerült kár megtérítésére.

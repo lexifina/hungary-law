@@ -1,0 +1,1 @@
+## 15. § A Szolgálat hivatásos állományú tagja a szolgálati lőfegyvert betározva, a véletlen elsülés ellen biztosítva, rejtve, magánál vagy magán hordhatja. A lőfegyver viselésekor szeszes italt, kábítószert vagy kábító hatású anyagot nem fogyaszthat.
