@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között létrejött, a Budapesti Amerikai Nemzetközi Iskola jogállásáról szóló Megállapodást e rendelettel kihirdeti.
