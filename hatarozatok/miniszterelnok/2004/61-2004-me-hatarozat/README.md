@@ -1,0 +1,9 @@
+# 61/2004. (X. 4.) ME határozat
+
+a Budapest Főváros Közigazgatási Hivatala vezetőjének megbízásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-61-30-63
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2004-10-04 | 2004-61-30-63.1 | 61/2004. (X. 4.) ME határozat |
