@@ -1,0 +1,1 @@
+1. § Az egyenesadók tekintetében a kettős adóztatások elhárítása tárgyában Hágában, 1938. évi november hó 15. napján kelt magyar-holland egyezmény a hozzátartozó Zárójegyzőkönyvvel együtt az ország törvényei közé iktattatik.
