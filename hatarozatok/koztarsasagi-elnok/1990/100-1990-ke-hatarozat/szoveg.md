@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére – egyetértésével, munkásságának elismerése mellett – a honvédelmi minisztérium új vezetési és irányítási rendjére történő áttérésével összhangban Szombathelyi Ferenc vezérőrnagy szolgálati viszonyát megszüntetem és egyidejűleg 1990. június 1-jei hatállyal nyugállományba helyezem.
