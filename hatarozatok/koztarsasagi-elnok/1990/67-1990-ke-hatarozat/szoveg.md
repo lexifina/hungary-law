@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére – saját kérésére, érdemei elismerésével – dr. Mórocz Lajos vezérezredest, az új Minisztertanács hivatalba lépésének napjával az egyesített fegyveres erők főparancsnoka magyar helyettesi beosztásából felmentem, szolgálati viszonyát megszüntetem és egyidejűleg nyugállományba helyezem.
