@@ -1,0 +1,1 @@
+A veszélyes anyagokkal és veszélyes készítményekkel kapcsolatos eljárásról szóló 233/1996. (XII. 26.) Korm. rendelet (a továbbiakban: R.) – 143/1997. (IX. 3.) Korm. rendelettel megállapított – 20. §-a (4) bekezdésének c) pontjában kapott felhatalmazás alapján, a népjóléti miniszterrel egyetértésben a következőket rendelem el:
