@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Mozambiki Népi Köztársaság Kormánya között a Maputóban, 1980. szeptember hó 24. napján aláírt, kulturális és tudományos együttműködési egyezményt e rendelettel kihirdeti.
