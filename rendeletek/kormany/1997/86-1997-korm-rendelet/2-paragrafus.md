@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között Budapesten, 1989. december 18-án aláírt, a légiközlekedésről szóló egyezményt e rendelettel kihirdeti.
