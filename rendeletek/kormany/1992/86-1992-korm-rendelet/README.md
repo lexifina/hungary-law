@@ -1,0 +1,9 @@
+# 86/1992. (V. 22.) Korm. rendelet
+
+a tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvényben, valamint a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvényben foglalt földügyi feladatokról és végrehajtásuk költségvetési támogatásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-86-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 1992-05-22 | 1992-86-20-22.1 | 86/1992. (V. 22.) Korm. rendelet |
