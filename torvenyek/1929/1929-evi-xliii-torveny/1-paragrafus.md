@@ -1,0 +1,1 @@
+1. § Az Amerikai Egyesült-Államokkal Washingtonban 1929. évi január hó 26-án kötött békéltető eljárási szerződés, valamint az ugyanott ugyanazon a napon kötött választottbírósági szerződés az ország törvényei közé iktattatnak.
