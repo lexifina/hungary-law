@@ -1,0 +1,3 @@
+## 3. § A jogutód közhasznú társaság alapítására, feladatainak ellátására felhasználható vagyon mértékét az alapító által juttatott 100 000 000 Ft pénzbeli betétben, továbbá a jogelőd költségvetési szerv 1997. június 30. fordulónappal megállapított vagyonértékelés szerinti vagyonából alapításkori 233 000 000 Ft apportban, összesen 333 000 000 Ft törzstőkében állapítom meg. Ezen felül alapításkor vagyoni hozzájárulásként 910 059 162 Ft értékű vagyont tőketartalékként bocsátok rendelkezésre.
+
+4. § Ez a rendelet kihirdetése napján lép hatályba azzal, hogy rendelkezéseit 1997. augusztus 31. napjától kell alkalmazni.

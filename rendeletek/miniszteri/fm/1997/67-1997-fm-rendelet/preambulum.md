@@ -1,0 +1,1 @@
+Az államháztartásról szóló, többször módosított 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 91/A. §-ának (3) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
