@@ -1,0 +1,1 @@
+## 2. § A műemléki jelentőségű terület kijelölésének célja, hogy megőrizze a XIX. század folyamán kialakult svábhegyi, Széchenyi-hegyi polgári villanegyed és táji környezetének harmóniáját, a villanegyed sajátos városszerkezeti jellegzetességeit, úthálózatát.
