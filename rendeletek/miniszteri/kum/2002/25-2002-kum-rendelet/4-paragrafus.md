@@ -1,0 +1,5 @@
+4. § (1) A Magyar Köztársaságban a ,,Jótálló Testület'' a Magyar Kereskedelmi és Iparkamara.
+
+(2) A Magyar Kereskedelmi és Iparkamara az A.T.A. igazolvány alapján behozott vagy a Magyar Köztársaság területén átszállításra kerülő vámárukkal kapcsolatban az A.T.A. Egyezmény előírásainak megszegése, így különösen a visszavitel elmulasztása miatt fizetett vámot és egyéb költséget a Magyar Nemzeti Bank által megállapított és a vám beszedése napján érvényes kereskedelmi középárfolyam alkalmazásával a kibocsátó ország pénznemére számítja át és az illetékes jótálló testülettől devizában szedi be.
+
+(3) A Magyar Kereskedelmi és Iparkamara a Magyarországon kibocsátott A.T.A. igazolványokkal kapcsolatban az A.T.A. Egyezmény Szerződő Felei jótálló testületeinek az Egyezmény előírásai megsértése miatt megfizetett vámot és egyéb költséget a Magyar Nemzeti Bank által megállapított és a vám beszedése napján érvényes kereskedelmi középárfolyam alkalmazásával forintra számítja át, és az érintett A.T.A. igazolvány felhasználójától (tulajdonosától) forintban szedi be.

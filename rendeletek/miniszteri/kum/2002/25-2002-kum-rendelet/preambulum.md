@@ -1,0 +1,1 @@
+Az 1966. évi 5. törvényerejű rendelet 3. §-ában kapott felhatalmazás alapján ,,Az áruk előjegyzési eljárásban való behozatalához szükséges A.T.A. igazolványról Brüsszelben, 1961. december 6-án megkötött Vámegyezmény'' (a továbbiakban: A.T.A. Egyezmény) végrehajtására a pénzügyminiszterrel egyetértésben a következőket rendelem el:
