@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Svéd Királyság Kormánya között a katonai minősített adatok védelme tárgyában Budapesten, 1995. október 13-án aláírt Egyezményt (a továbbiakban: Egyezmény) e törvénnyel megerősíti.
