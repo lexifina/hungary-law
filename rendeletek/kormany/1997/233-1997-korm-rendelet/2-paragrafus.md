@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel a Magyar Köztársaság Kormánya és Grúzia Kormánya között 1997. szeptember 30-án aláírt, a diplomata- és szolgálati útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről szóló Megállapodást kihirdeti.
