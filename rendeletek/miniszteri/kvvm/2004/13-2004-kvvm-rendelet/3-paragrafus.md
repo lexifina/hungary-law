@@ -1,0 +1,85 @@
+3. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+Melléklet a 13/2004. (VII. 21.) KvVM rendelethez
+
+A Sóshartyáni Hencse-hegy Természetvédelmi Terület természetvédelmi kezelési terve
+
+1. Gyakorlati természetvédelmi célkitűzések
+
+Őrizze meg:
+
+– a területen élő védett és fokozottan védett fajok által reprezentált, országos szinten is egyedülálló életközösséget,
+
+– a védett és fokozottan védett fajokat, növelje állományukat, egyedszámukat, populációik életképességét, különös tekintettel a fóti boglárka (Plebejus sephirus) és tápnövénye, a szártalan csűdfű (Astragalus exscapus), valamint a nagyfoltú hangyaboglárka (Maculinea arion) és tápnövénye, a kakukkfű (Thymus sp.) tekintetében,
+
+– a természetes és természetszerű élőhelyeket, társulásokat, növelje ezek területi kiterjedését, a termőhelynek nem megfelelő, nem őshonos, vagy invázív fajokból álló életközösségek és mesterségesen kialakított ültetvények területének csökkentése mellett,
+
+– a terület kiemelkedően magas biológiai sokféleségét a termőhelynek megfelelő, őshonos fajok tekintetében,
+
+– a jellegzetes földtani képződményeket és természetes felszínformákat, továbbá küszöbölje ki a talajdegradációs folyamatokat, és biztosítsa a terület további, természetvédelmi célú kutatását és fejlesztését.
+
+2. Természetvédelmi stratégiák
+
+– A gyepek értékes életközösségeinek megőrzése, a védett és fokozottan védett állat- és növényfajok egyedszámának, állományának fenntartása és erősítése természetvédelmi kezeléssel és hagyományos területhasználati módok visszaállításával.
+
+– Mintaterületek kijelölése a gyepek legeltetésére leginkább alkalmas állatfajok kiválasztása és az optimális legeltetési mód megállapítása céljából.
+
+– Nem őshonos fafajokból álló erdők termőhelynek megfelelő őshonos fafajokkal történő átalakítása és tartamos erdőhasználattal való megőrzése.
+
+– Az őshonos fafajokból álló erdők biológiai sokféleségének megőrzése tartamos erdőhasználattal.
+
+– Természetvédelmi kezeléseket megalapozó és azokat továbbfejlesztő kutatások végzése.
+
+3. Természetvédelmi kezelési módok, korlátozások és tilalmak
+
+– A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatkozó előírásokat – a természetvédelmi kezelési tervek készítésére, készítőjére és tartalmára vonatkozó szabályokról szóló 30/2001. (XII. 28.) KöM rendelet 2. § (2) bekezdés c) pontjában, illetve az R. mellékletének 7. pontjában meghatározottak szerint – a 3.1. és 3.2. fejezet tartalmazza.
+
+A természetvédelmi kezelési tervben nem részletezett, vagy nem szabályozott kezelési előírásokat az igazgatóság egyedi államigazgatási eljárásban határozza meg.
+
+3.1. Művelési ághoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1.1. Gyepek kezelése
+
+– Legeltetéssel (juhval vagy szarvasmarhával, illetve az akácot is lerágó kecskével) csak az üdébb, természetvédelmi szempontból kevésbé értékes franciaperje-rétek és a gyomos, degradált sztyepp típusú rétek mezofil cserjésedő, illetve akácosodó típusai kezelhetők. A számosállat sűrűség 0,2 számosállat/ha-t nem haladhatja meg.
+
+– A becserjésedő gyeprészekről kézi erővel el kell távolítani a cserjéket. A cserjétől mentesített területeket évente szárzúzással, kaszálással, vagy a legeltethető területeken legeltetéssel kell kezelni. A kitermelt faanyagot, lekaszált szénát a területről el kell távolítani.
+
+– A száraz, illetve sziklagyep jellegű gyepek legeltetése tilos.
+
+– A gyepek trágyázása, szintetikus szerekkel való gyomirtózása és felülvetése tilos.
+
+– A gyepművelési ágban nyilvántartott, de jelenleg szántóként hasznosított területek gyepekké történő visszaalakítása érdekében a kaszált gyepekről származó széna laza elterítésével és rendszeres kaszálással vagy szárzúzással kell kezelni e területeket, a termőhelynek megfelelő, természetes állapotára jellemző gyepstruktúra és fajösszetétel visszaállásáig.
+
+– A területen épületet, építményt, kerítést létesíteni, nem gyepgazdálkodásból származó anyagot tárolni tilos. Kivételt képeznek a legelőgazdálkodáshoz feltétlenül szükséges épületek és építmények, amelyek a természetvédelmi érdekeket nem sértve a jelenleg is a biodiverzitás szempontjából degradálódott részeken (pl. akácosok, szántók helyén) az igazgatóság a terület építés céljára való igénybevételéhez – termőföld más célú hasznosításához – szakhatóságként kiadott engedélyével létesíthetők.
+
+3.1.2. Erdők kezelése
+
+– Fenyves állományok esetében hosszú távon a célállapot a ligetes, sztyeprétekkel, sziklagyepekkel váltakozó elegyes tölgyesek kialakítása. A fenyőt fokozatosan vissza kell szorítani, elő kell segíteni a jelenleg elegyként megjelenő tölgyek és a tájra, termőhelyre jellemző elegy-fafajok betelepedését, megerősödését. A fenyvesekben a tarvágás tilos, a fenyveseket vágáskor nélküli erdőként kell kezelni.
+
+– Akácosok esetében – az adott erdőrészlet vágásérettségi korának eléréséig – a fafaj terjedését meg kell akadályozni. Az akácosokat a területen hagyományos vágásérettségi korral kell kezelni. Az akácos erdőrészletek kitermelése után a termőhelynek megfelelő őshonos fafajokkal kell a felújítást elvégezni.
+
+– A cseres-tölgyes és gyertyános-tölgyes állományokban a termőhelynek megfelelő, őshonos fafajokból álló erdő megőrzése érdekében a betelepülő akácot vissza kell szorítani. Ezekben az állományokban olyan erdőgazdálkodási módot kell alkalmazni, amely biztosítja a folyamatos erdőborítást.
+
+– A kitermelt faanyag száraz- és sziklagyepeken keresztül csak a különösen értékes és érzékeny – a területen az igazgatóság által kijelölt – helyeket kikerülve közelíthető. A tevékenység megkezdése előtt a gazdálkodónak, kezelőnek egyeztetnie kell az igazgatósággal. Ezeken a területeken rakodó létesítése tilos.
+
+– A tisztások kezeléséről az erdőgazdálkodónak és a természetvédelmi kezelőnek – utóbbinak az erdőgazdálkodó előzetes engedélye alapján – együttesen kell gondoskodnia.
+
+3.1.3. Kivett területek kezelése
+
+– Földutak szilárd burkolattal való borítása, vagy szélesítése tilos.
+
+3.2. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.2.1. Vadgazdálkodás
+
+– A területen csak őshonos vadfajok tarthatók fenn.
+
+– A vadállományt a természetes vadeltartó képességnek megfelelő szinten kell tartani a vadgazdálkodási körzettervben és az üzemtervben foglaltaknak megfelelően.
+
+3.2.2. Közlekedés
+
+– Burkolt és burkolatlan utak létesítése a tervterületen tilos.
+
+3.2.3. Látogatás
+
+– Látogatás során csak a meglévő utakon lehet közlekedni. A tulajdonosok (bérlők, kezelők) számára gazdálkodási, kezelési célból a belépést biztosítani kell.
