@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom ,,Fekete-hegy'' elnevezéssel a Nagyharsány 058–088, 091–094, 0104–0120, 0146, Villánykövesd 024/A, B ingatlan-nyilvántartási helyrajzi számú, összesen 94,6 hektár kiterjedésű területet.

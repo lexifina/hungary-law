@@ -1,0 +1,1 @@
+## 2. § A természetvédelmi területből fokozottan védetté nyilvánítom a Nagyharsány 061/A–H, 077, 079, 085, 0104 ingatlan-nyilvántartási helyrajzi számú, valamint Villánykövesd 024/A ingatlan-nyilvántartási helyrajzi számból az 5–C erdőgazdasági üzemtervi jelű erdőrészletet.
