@@ -1,0 +1,1 @@
+## 3. § A Kezelő Szervezet köteles a kötelező gépjármű-felelősségbiztosításról az e rendelet 3. számú melléklete szerinti adatszolgáltatást elkészíteni, és azt az eredményelszámolással együtt a Felügyeletnek – számítógépes adathordozón, a Felügyelet által meghatározott formában is – megküldeni.

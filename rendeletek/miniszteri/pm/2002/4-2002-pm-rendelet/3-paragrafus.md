@@ -1,0 +1,1 @@
+## 2. § A Kezelő Szervezet köteles a kötelező gépjármű-felelősségbiztosítás biztosítástechnikai tartalékainak adatairól az e rendelet 2. számú melléklete szerinti kimutatást elkészíteni, és azt az eredményelszámolással egyidejűleg a Felügyeletnek – számítógépes adathordozón, a Felügyelet által meghatározott formában is – megküldeni.
