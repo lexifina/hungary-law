@@ -1,0 +1,1 @@
+25. § Az Országgyűlés felhatalmazza a pénzügyminisztert, hogy e törvény hatálybalépésének napján fennálló – a 24. § b) pontja szerinti – tőketartozások végleges rendezésére az érintett kamarákkal megállapodást kössön.

@@ -1,0 +1,1 @@
+13. § Az Országgyűlés tudomásul veszi, hogy az 1994. évi közalkalmazotti illetményrendszer bevezetéséhez nyújtott támogatásnál a jogtalan igénybevétel miatt keletkezett 6,6 millió forint visszafizetési kötelezettségüknek az érintett önkormányzatok eleget tettek, melynek önkormányzatonkénti felsorolását a PM–BM e. r. tartalmazza.

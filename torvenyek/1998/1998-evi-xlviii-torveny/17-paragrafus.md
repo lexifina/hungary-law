@@ -1,0 +1,3 @@
+17. § (1) Az Állami Privatizációs és Vagyonkezelő Rt. (a továbbiakban: ÁPV Rt.) költségvetési befizetési kötelezettségei és a privatizációval, a vagyonkezeléssel összefüggő ráfordítási, tartalékolási előirányzatai teljesítését a 12. számú melléklet tartalmazza.
+
+(2) Az Országgyűlés elfogadja, hogy az ÁPV Rt. az 1997. évi privatizációs bevételek központi költségvetést megillető hányadának befizetési kötelezettségéből 11,8 milliárd forintot 1998-ban teljesített, továbbá 8,5 milliárd forintot – a belterületi föld értéke alapján, az alapítói jogon kifizetendő, a helyi önkormányzatokat megillető kifizetésekkel kapcsolatban – tartalékalapja feltöltéséhez használt fel.

@@ -1,0 +1,1 @@
+11. § Az Országgyűlés tudomásul veszi, hogy az 1995. évi köztartozások rendezésére kapott állami támogatás visszafizetését nem teljesített, adósságrendezési eljárásban érintett önkormányzatok – Bakonszeg, Bátorliget, Nágocs – 1997. december 31-én még fennálló visszafizetési kötelezettsége 16,6 millió forint.

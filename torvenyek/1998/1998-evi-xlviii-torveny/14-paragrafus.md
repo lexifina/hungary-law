@@ -1,0 +1,3 @@
+14. § (1) A Költségvetési Törvény 1. számú mellékletének I. Országgyűlés fejezete, 11. cím, 1. Magyar Televízió Rt. műsorterjesztési költségeire alcímen, illetve a 12. cím, 1. Duna Televízió Rt. műsorterjesztési költségeire alcímen meghatározott előirányzatok fel nem használt részének mértékéig további támogatások folyósíthatók az eddig még figyelembe nem vett 1997. évi műsorterjesztési költségek alapján, az 59. § rendelkezései szerint.
+
+(2) Az (1) bekezdésben meghatározott támogatást a Magyar Köztársaság 1998. évi költségvetéséről szóló 1997. évi CXLVI. törvény 1. számú mellékletének I. Országgyűlés fejezet, 11. Közszolgálati televíziók műsorterjesztési költségeire címen meghatározott előirányzat terhére kell folyósítani.
