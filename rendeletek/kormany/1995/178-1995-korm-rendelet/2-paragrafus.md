@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya közötti, a gazdasági, technikai és egyéb kapcsolódó segítségnyújtásról szóló Egyezményt e rendelettel kihirdeti.
