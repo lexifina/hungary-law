@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a vegyifegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezményt (a továbbiakban: Egyezmény) – amely 1997. április 29-én lépett hatályba – e törvénnyel kihirdeti.
