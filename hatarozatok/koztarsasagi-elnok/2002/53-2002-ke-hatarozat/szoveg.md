@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Kocsis Kálmán rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság szarajevói nagykövetségének vezetésére kapott megbízása alól.
