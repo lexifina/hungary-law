@@ -1,0 +1,1 @@
+A Közbeszerzések Tanácsa 1997. évben végzett tevékenységéről, valamint a közbeszerzések tisztaságával és átláthatóságával kapcsolatos tapasztalatairól szóló jelentését az Országgyűlés elfogadja, és felkéri a Kormányt, hogy e tapasztalatok és megállapítások alapján a közbeszerzési törvény módosítására irányuló javaslatát 1999. I. felében nyújtsa be.
