@@ -1,0 +1,1 @@
+A Kormány a szerzői jogról szóló 1999. évi LXXVI. törvény 112. §-ának (1) bekezdésében adott felhatalmazás alapján – az érintett érdekképviseleti szervek véleményének figyelembevételével – a következőket rendeli el:
