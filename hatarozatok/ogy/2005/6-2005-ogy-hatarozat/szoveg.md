@@ -1,0 +1,1 @@
+Az Országgyűlés tudomásul veszi a Kormány által, az Országos Fogyatékosügyi Program 2001–2003. évi végrehajtásáról és az ezzel összefüggésben megtett kormányzati intézkedésekről szóló jelentés elfogadásáról szóló jelentést.
