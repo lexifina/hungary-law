@@ -1,0 +1,1 @@
+14. § Amennyiben a nyugdíjbiztosítási igazgatási szervek által megállapított és folyósított korengedményes nyugdíjakra befizetett összeg a folyó évi kiadásokat nem fedezi, az Ny. Alapnak a különbözetet a tényleges kiadások mértékéig a Munkaerőpiaci Alap először a 2000. évi költségvetés zárszámadásakor megtéríti.
