@@ -1,0 +1,1 @@
+A művelődési miniszter előterjesztésére dr. Prohászka Jánost, a Budapesti Műszaki Egyetem Gépészmérnöki Kar MTAI Villamosipari Anyagtechnológia Tanszék egyetemi tanárát a Magyar Tudományos Akadémia Fémtechnológiai Tanszéki Kutatócsoporthoz történő áthelyezése miatt 1990. február 28. napjával e tisztsége alól felmentem.
