@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Kosárka József rendkívüli és meghatalmazott nagykövetet – a Magyar Köztársaság mexikóvárosi nagykövetsége vezetésére kapott megbízása érintetlenül hagyása mellett – megbízom a Magyar Köztársaságnak a Guatemalai Köztársaságban való képviseletével.
