@@ -1,0 +1,1 @@
+1. § A Dunai Állandó Vízügyi Műszaki Bizottság hatáskörére és működésére vonatkozó Szabályzat jóváhagyása tárgyában 1923. évi május hó 27-én Párisban kötött egyezmény az azt kiegészítő Szabályzattal és zárójegyzőkönyvvel együtt a magyar állam törvényei közé iktattatik.
