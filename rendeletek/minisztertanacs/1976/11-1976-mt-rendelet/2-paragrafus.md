@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Vietnami Demokratikus Köztársaság Kormánya között a postai és távközlési szolgálat tárgyában Budapesten az 1975. évi december hó 2. napján aláírt egyezményt e rendelettel kihirdeti.
