@@ -1,0 +1,1 @@
+Az egészségügyről szóló 1997. CLIV. törvény 247. § (2) bekezdésének g) pontjában kapott felhatalmazás alapján a háziorvosi és házi gyermekorvosi szolgálatról szóló – többször módosított – 6/1992. (III. 31.) NM rendeletet (a továbbiakban: R.) az alábbiak szerint módosítom:
