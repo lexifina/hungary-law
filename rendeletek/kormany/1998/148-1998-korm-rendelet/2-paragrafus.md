@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Orosz Föderáció Kormánya között a kultúra, a tudomány és az oktatás területén folyó együttműködésről szóló, Moszkvában, 1993. szeptember 20-án aláírt Egyezményt e rendelettel kihirdeti.
