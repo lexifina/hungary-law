@@ -1,0 +1,1 @@
+A határőrizetről és a Határőrségről szóló 1997. évi XXXII. törvény 83. §-a (3) bekezdésének a) és b) pontjában kapott felhatalmazás alapján a végrehajtásáról rendelkező 66/1997. (XII. 10.) BM rendelet (a továbbiakban: R.) módosítására a következőket rendelem el:
