@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és Spanyolország Kormánya között Madridban, az 1979. évi november hó 27. napján aláírt, kulturális és tudományos együttműködésről szóló egyezményt e rendelettel kihirdeti.
