@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Horváth István rendkívüli és meghatalmazott nagykövetnek – a Magyar Köztársaság bonni nagykövetsége vezetésére kapott megbízása érintetlenül hagyása mellett – a Magyar Köztársaság volt berlini nagykövetsége vezetésére kapott megbízását – 1990. október 3-ai hatállyal – megszüntetem.
