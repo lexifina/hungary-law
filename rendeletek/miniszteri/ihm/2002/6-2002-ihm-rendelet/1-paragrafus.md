@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya az Informatikai és Hírközlési Minisztériumra (a továbbiakban: Minisztérium), valamint az informatikai és hírközlési ágazatba tartozó azon – a Vhr. 35. §-ának (1) bekezdése alapján a honvédelmi felkészülési és az országmozgósítási feladatok ellátásában a hírközlési ágazatot irányító miniszter által kijelölt – szervekre (a továbbiakban: szervek) terjed ki, amelyek működése rendkívüli állapot elrendelése esetén is szükséges.
+
+(2) A vonatkozó jogszabályi rendelkezések alapján a rendkívüli állapot elrendelése esetén biztosítani kell a Minisztérium és az (1) bekezdésben meghatározott szervek tartalékos hadköteles munkavállalóinak a munkakörükben történő meghagyását.
