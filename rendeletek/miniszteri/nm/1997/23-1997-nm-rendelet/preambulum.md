@@ -1,0 +1,1 @@
+Az atomenergiáról szóló 1996. évi CXVI. törvény hatálya alá nem tartozó radioaktív anyagok, valamint ionizáló sugárzást létrehozó berendezések köréről szóló 124/1997. (VII. 18.) Korm. rendelet 7. §-ának (3) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
