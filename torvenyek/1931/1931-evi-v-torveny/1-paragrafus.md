@@ -1,0 +1,1 @@
+1. § A törvényes elsőbbségekre és tengeri jelzálogjogokra vonatkozó egyes szabályok egységesítése végett az 1926. évi április hó 10. napján, Brüsszelben kelt nemzetközi egyezmény és a hozzátartozó aláírási jegyzőkönyv az ország törvényei közé iktattatik.
