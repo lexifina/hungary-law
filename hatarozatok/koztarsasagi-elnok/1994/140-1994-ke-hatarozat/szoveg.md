@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Piliscsaba nagyközség Jászfalu elnevezésű településrészét Pilisjászfalu néven községgé nyilvánítom a következő önkormányzati általános választás napjával.
