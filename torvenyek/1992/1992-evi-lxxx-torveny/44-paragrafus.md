@@ -1,0 +1,1 @@
+44. § A központi költségvetési szerv 13. § (3) bekezdésében meghatározott bevételeinek és ezzel összefüggésben kiadásainak előirányzatát év közben kizárólag a fejezetért felelős szerv módosíthatja. A fejezet 13. § (3) bekezdésében meghatározott bevételeinek összesített előirányzatát év közben kizárólag a pénzügyminiszter csökkentheti.

@@ -1,0 +1,1 @@
+37. § A nem állami intézmények — kivéve a pártokat —, valamint más társadalmi szervezetek — a 32—35. §-okban foglalt támogatásokon felül — a fejezetek ágazati, szakmai célú pénzeszközei, a helyi önkormányzatok és az elkülönített állami pénzalapok költségvetési terhére is részesülhetnek támogatásban az azok felosztására, felhasználására vonatkozó szabályok keretei között.

@@ -1,0 +1,5 @@
+45. § (1) A VII. Miniszterelnökség fejezeten belül a Miniszterelnöki Hivatal közigazgatási államtitkárának — mint a fejezetért felelős szerv vezetőjének — tervezési, előirányzatmódosítási és -felhasználási, beszámolási és információszolgáltatási kötelezettsége és joga nem terjed ki a 11. cím: Biztonsági Szolgálatok, 16. cím: Állami Vagyonügynökség, a 17. cím: Országos Testnevelési és Sporthivatal, a 18—24. címek: Országos Műszaki Fejlesztési Bizottság, a 31. cím: Magyar Rádió, a 32. cím: Magyar Televízió költségvetési előirányzataira, valamint a központi költségvetés kormányzati végrehajtásával összefüggő központilag kezelt és tartalékelőirányzatokra (27—30. címek).
+
+(2) A VII. Miniszterelnökség fejezeten belül a 31—32. címek fölött a tervezési, előirányzatmódosítási és -felhasználási, beszámolási és információszolgáltatási kötelezettséget és jogot a Kormány gyakorolja.
+
+(3) A XVII. Pénzügyminisztérium fejezeten belül a pénzügyminiszternek a fejezeten belüli átcsoportosítási joga az 1—16. címekre, illetve a 18. cím 1. alcím 2. kiemelt előirányzatára és 2. alcím 3. kiemelt előirányzatára terjed ki.

@@ -1,0 +1,3 @@
+11. § (1) A kormányzati beruházások körében a 10 millió forint értékhatárt meghaladó építéssel járó beruházások és építési felújítások tervezésénél és kivitelezésénél, valamint a 2 millió forint egyedi értékhatárt meghaladó tárgyieszköz-beszerzésnél a beruházó köteles a beruházást versenytárgyalás útján vállalkozásba adni.
+
+(2) Az (1) bekezdésben foglalt versenytárgyalási kötelezettség nem vonatkozik a Magyar Honvédség, a Biztonsági Szolgálatok, a Köztársasági Őrezred, a Rendőrség, a Határőrség, a Polgári Védelem, az Igazságügyi Minisztérium Büntetésvégrehajtás, a Pénzügyminisztérium Vám- és Pénzügyőrség titokvédelemben részesített beruházásaira, felújításaira, beszerzéseire.
