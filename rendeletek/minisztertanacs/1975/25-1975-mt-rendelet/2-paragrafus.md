@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Német Demokratikus Köztársaság Kormánya között az egészségügyi együttműködésről szóló, Berlinben 1974. december hó 13-án aláírt Egyezményt e rendelettel kihirdeti.
