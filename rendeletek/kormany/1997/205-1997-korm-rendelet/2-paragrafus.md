@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya között Budapesten, 1997. április 3-án aláírt, a vámügyekben történő kölcsönös segítségnyújtásról szóló Egyezményt e rendelettel kihirdeti.
