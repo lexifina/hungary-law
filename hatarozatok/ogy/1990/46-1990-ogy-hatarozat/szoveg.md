@@ -1,0 +1,15 @@
+A Magyar Köztársaság Országgyűlése a szomszédos országokban élő magyar nemzeti kisebbségek helyzetét aggasztónak ítéli, és aggodalmát fejezi ki, hogy a nemzeti kisebbségekkel szembeni tolerancia hiánya, jogi igényeik elutasítása súlyosan veszélyezteti az egész térség demokratizálódási folyamatait és a jószomszédi kapcsolatok új alapokon történő kiépítését.
+
+Felhívja a Magyar Köztársaság Kormányát, hogy — folytatva az ország nemzeti kisebbségek jogainak nemzetközi és különösen európai szintű kodifikálására tett erőfeszítéseit — kezdeményezzen tárgyalásokat a szomszédos államok kormányaival a nemzeti kisebbségek jogainak védelméről szóló kétoldalú, illetve regionális szerződések kidolgozásáról. Ennek során támaszkodjék a legkorszerűbb európai kisebbségvédelmi egyezmények (például Ausztria, Olaszország és Jugoszlávia között) tapasztalatára és az alábbi elvekre:
+
+— a Magyar Köztársaság elkötelezett az ENSZ alapokmány céljai és elvei, az ENSZ keretében elfogadott emberi jogi dokumentumok, valamint a helsinki záróokmányban foglalt elvek és az európai biztonsági és együttműködési folyamat keretében vállalt kötelezettségek tiszteletben tartása és a gyakorlatban való alkalmazása mellett,
+
+— a nemzeti kisebbségek jogainak tiszteletben tartása nem képezheti egy állam kizárólagos belügyét, ezért szükséges, hogy az anyanemzetnek a nemzeti kisebbségei sorsa iránt érzett felelőssége és törődése szerződéses nemzetközi jogi keretet nyerjen,
+
+— alapvető fontosságú a nemzeti kisebbségek identitásának védelme és fejlesztése, a térségben élő nemzeti kisebbségek egyéni és kollektív jogainak törvényes biztosítása, a közéletben és saját ügyeik eldöntésében való részvételük, önszerveződésük és önkormányzatuk keretei, így kulturális autonómiájuk törvényes garantálása, a nemzetiségi igények kielégítése az anyanyelv használata, az oktatás, a kulturális élet, a vallásgyakorlás és a tájékoztatás terén.
+
+A Magyar Köztársaság Kormánya a helsinki folyamat szellemében és vállalt kötelezettségei végrehajtásaként legyen kész kétoldalú szerződésekben garantálni az emberek és eszmék szabad áramlását, beleértve a nemzeti kisebbségek akadálytalan kapcsolattartását is. Nyújtson segítséget a szomszédos országokban élő magyar nemzeti kisebbségek igényeinek kielégítéséhez, és kérje ugyanakkor a szomszédos országok támogatását a Magyarországon élő nemzeti kisebbségek igényeinek kielégítéséhez.
+
+A Magyar Köztársaság Országgyűlése bírálattal illeti az elmúlt évtizedek hazai kisebbségpolitikai gyakorlatát és felkéri az új Kormányt a magyarországi nemzeti és etnikai kisebbségek jogainak — beleértve a megfelelő parlamenti képviseletüket is — intézményes biztosítására terjesszen mielőbb javaslatot az Országgyűlés elé.
+
+A Magyar Köztársaság Országgyűlése kifejezi azon meggyőződését, hogy a fenti célok megvalósítása hozzájárul az emberi jogok és az alapvető szabadságjogok regionális és egyetemes érvényesüléséhez, a Magyar Köztársaság és valamennyi szomszédja közötti jóviszony megteremtéséhez, a kelet-közép európai térség békés együttműködésén alapuló demokratikus fejlődéséhez, az európai biztonság és stabilitás erősítéséhez.
