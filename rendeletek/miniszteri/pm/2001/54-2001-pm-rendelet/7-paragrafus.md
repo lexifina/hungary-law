@@ -1,0 +1,1 @@
+## 6. § A kötelező gépjármű-felelősségbiztosítás díjemelésének mértékéről szóló 35/2000. (X. 13.) PM rendeletben foglalt átlagos díjemelés meghatározásához a tárgyévet követő július hó 31-éig a pénzügyminiszternek megküldi a Felügyelet az 1–3. számú mellékletek alapján részére szolgáltatott adatokból készített összesítést.

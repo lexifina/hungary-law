@@ -1,0 +1,1 @@
+## 2. § A biztosítók kötelesek a kötelező gépjármű-felelősségbiztosítási termékük biztosítástechnikai tartalékainak adatairól a 2. számú melléklet szerinti kimutatást elkészíteni, és azt az eredményelszámolással egyidejűleg a Felügyeletnek – számítógépes adathordozón, a Felügyelet által meghatározott formában is – megküldeni.
