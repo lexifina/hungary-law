@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Kormányának a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 90. ülésszakán elfogadott, a szövetkezetek elősegítéséről szóló 193. számú Ajánlásról szóló beszámolóját elfogadja.
