@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Pakisztán Iszlám Köztársaság Kormánya között a légijáratok tárgyában Budapesten, az 1977. évi május hó 11. napján aláírt Egyezményt e rendelettel kihirdeti.
