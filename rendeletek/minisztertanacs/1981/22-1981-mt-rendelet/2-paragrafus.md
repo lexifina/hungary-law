@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Olasz Köztársaság Kormánya között Rómában, az 1980. június hó 17. napján aláírt, az idegenforgalmi együttműködésről szóló egyezményt e rendelettel kihirdeti.
