@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Spanyol Királyság közötti, Madridban, 1992. február 6-án aláírt, barátsági és együttműködési Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló okiratok cseréje 1994. február 16-án lezajlott, és a Szerződés harminc nappal ezután, 1994. március 14-én hatályba lépett.)
