@@ -1,0 +1,5 @@
+1. § (1) E rendelet mellékletében meghatározott közalkalmazotti munkaköröket betöltő közalkalmazottak, illetve az e munkakörökben kinevezésre jelölt személyek, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 22/A–22/B. §-aiban meghatározottak szerint, a Ktv. 6. számú melléklete szerinti adattartalommal kötelesek vagyonnyilatkozatot tenni.
+
+(2) A közalkalmazottak vagyonnyilatkozatának nyilvántartását és ellenőrzését – a Ktv. és a vagyonnyilatkozat-tételéről és átadásáról, kezeléséről, az abban foglalt adatok védelméről, valamint a Közszolgálati Ellenőrzési Hivatal szervezetéről, működéséről és az ellenőrzési eljárás lefolytatásáról szóló 114/2001. (VI. 29.) Korm. rendeletben (a továbbiakban: Korm. rendelet) foglaltak megfelelő alkalmazásával – a Közszolgálati Ellenőrzési Hivatal végzi.
+
+(3) A vagyonnyilatkozat-tételi kötelezettség teljesítésére – ideértve a munkáltatói jogkör gyakorlójának ezzel kapcsolatos kötelezettségeit is – a Korm. rendelet szabályai megfelelően alkalmazandók.
