@@ -1,0 +1,3 @@
+A magyarság hosszú, nehéz történelme során, különösen a honfoglalás és Szent István király ezer esztendővel ezelőtt történt államalapítása óta a haza megszámlálhatatlan fia és leánya harcolt fegyverrel vagy anélkül Magyarország, a magyar nemzet védelmében, illetve vállalt vértanúságot a hazáért. Tetteik nagyban hozzájárultak ahhoz, hogy fennmaradt a magyar nemzet és a magyar állam.
+
+A Magyar Köztársaság Országgyűlése kötelességének érzi, hogy tisztelettel adózzék azok emléke előtt, akik a vérüket ontották, életüket kockáztatták vagy áldozták Magyarországért. Emlékük megörökítésére, a ma élő és a jövő nemzedékeknek példájuk felmutatására a következő törvényt alkotja:
