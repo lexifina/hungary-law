@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között a beruházások elősegítéséről és kölcsönös védelméről Stockholmban, 1987. évi április hó 21. napján aláírt megállapodást e rendelettel kihirdeti.
