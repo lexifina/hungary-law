@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Moldovai Köztársaság között Budapesten, 1995. április 19-én aláírt, a baráti kapcsolatok és együttműködés alapjairól szóló Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítő okiratait Chisinauban, 1996. október 9-én kicserélték, és a Szerződés ezen a napon hatályba lépett.)
