@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Szlovák Köztársaság között Párizsban, 1995. március 19-én aláírt, a jószomszédi kapcsolatokról és a baráti együttműködésről szóló Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítő okiratait Budapesten, 1996. május 15-én kicserélték, és a Szerződés ezen a napon hatályba lépett.)
