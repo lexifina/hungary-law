@@ -1,0 +1,1 @@
+A szociális és egészségügyi miniszter előterjesztésére 1990. február hó 1. napjától 1994. június hó 30. napjáig terjedő időre megbízom dr. Forgács Iván egyetemi tanárt az Orvostovábbképző Egyetem rektori teendőinek ellátásával.
