@@ -1,0 +1,7 @@
+15. § (1) Az Szja tv. 46. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+,,(1) A kifizetőnek az általa kifizetett összevont adóalapot képező jövedelemből – kivéve, ha e törvény másként rendelkezik – 40 százalék adóelőleget kell levonnia akkor is, ha a kifizetés számla ellenében történik. Az előzőekben megállapított adóelőleget csökkenti az e jövedelemmel kapcsolatos nyugdíjjárulék- és magánnyugdíjpénztári tagdíj engedménye.''
+
+(2) Az Szja tv. 46. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+
+,,(5) Ha a magánszemély írásban nyilatkozik, hogy az adóévben az összevont adóalapot képező jövedelme várhatóan nem haladja meg az 1 millió forintot, az (1) bekezdés rendelkezésétől eltérően a kifizető a jövedelem adótábla szerinti adójának az e jövedelemmel kapcsolatos nyugdíjjárulék- és magánnyugdíjpénztári tagdíj engedményével csökkentett összegét vonja le adóelőlegként. Ha az adóév folyamán több alkalommal fizet ki ugyanazon magánszemélynek az összevont adóalapba tartozó jövedelmet, akkor kifizetésenként az adóév elejétől kezdődően e jövedelmeket összesítenie kell, és ennek az összesített jövedelemnek az adótábla szerint kiszámított adóját az e jövedelmekkel kapcsolatos nyugdíjjárulék- és magánnyugdíjpénztári tagdíj engedményével csökkentenie kell. Ebből az összegből le kell vonni az általa már korábban levont adóelőlegek összegét és az így kiszámított különbözetet kell adóelőleg címén levonnia (göngyölítéses módszer).''

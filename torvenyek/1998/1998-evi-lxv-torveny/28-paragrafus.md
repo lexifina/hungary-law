@@ -1,0 +1,3 @@
+28. § Az Szja tv. 78. §-a helyébe a következő rendelkezés lép:
+
+78. § ,,A statisztikai besorolási számra való hivatkozással meghatározott szolgáltatások, épületek, építmények vonatkozásában a Központi Statisztikai Hivatal (a továbbiakban: KSH) az 1998. június 30. napján érvényes besorolási rendjét, a vámtarifaszámra való hivatkozással meghatározott termékek vonatkozásában a Kereskedelmi Vámtarifa kihirdetéséről szóló, 1998. június 30-án hatályos jogszabályban meghatározott besorolási számot kell érteni. A besorolási rend ezt követő (időközi) változása az adókötelezettséget nem változtatja meg.''
