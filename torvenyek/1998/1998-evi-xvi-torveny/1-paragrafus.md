@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Európai Beruházási Bank (EIB) közötti, az EIB magyarországi tevékenységére vonatkozó, Hongkongban, 1997. szeptember 22-én kelt Keretmegállapodást e törvénnyel kihirdeti.
