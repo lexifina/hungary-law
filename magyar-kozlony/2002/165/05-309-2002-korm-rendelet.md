@@ -1,0 +1,3323 @@
+# A Kormány 309/2002. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2002. évi 165. szám 1. rész, 2002. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c0bed9135cbabd96f74fe4d349c053fcc08b07d7/dokumentumok/eae542f20ee2f624af60cd8f33f5be5637ed3932/letoltes)
+
+---
+
+A Kormány
+309/2002. (XII. 28.) Korm.
+rendelete
+az autóbusszal végzett nemzetközi nem menetrend
+szerinti személyszállításról szóló (INTERBUS)
+megállapodás kihirdetéséről
+(A Magyar Köztársaság a Megállapodás jóváhagyásáról
+szóló jegyzéket 2002. január 4-én küldte meg.
+A Megállapodás a Magyar Köztársaság tekintetében
+2003. január 1-jén lép hatályba.)
+1. §
+A Kormány az autóbusszal végzett nemzetközi nem
+menetrend szerinti személyszállításról szóló (INTER-
+BUS) megállapodást e rendelettel kihirdeti.
+2. §
+A Megállapodás angol nyelvű szövege és hivatalos ma-
+gyar nyelvű fordítása a következő:
+„Agreement
+on the International Occasional Carriage of Passengers
+by Coach and Bus
+(INTERBUS Agreement)
+The contracting parties:
+having regard to the desire to promote the development
+of international transport in Europe and especially to
+facilitate the organisation and operation thereof;
+having regard to the desire to facilitate tourism and
+cultural exchange between the Contracting Parties;
+whereas the Agreement on the international Carriage of
+Passengers by Road by means of Occasional Coach and Bus
+Services (ASOR), signed in Dublin on the 26 May 1982
+does not provide for any scope for the accession of new
+Parties;
+whereas the experience and the liberalisation achieved
+by this latter Agreement should be maintained;
+whereas it is desirable to provide for harmonised
+liberalisation of certain international occasional services
+by coach and bus and the transit operations thereof;
+whereas it is desirable to provide for certain harmonised
+rules
+of
+procedure
+for
+non-liberalised
+international
+occasional services, that are thus still subject to
+authorisation;
+whereas it is necessary to provide for a high degree of
+harmonisation of the technical conditions applying to
+buses and coaches carrying out international occasional
+services between Contracting Parties in order to improve
+road safety and protection of the environment;
+whereas it is necessary that Contracting Parties should
+apply uniform measures concerning the work of the crews
+of buses and coaches engaged in international road
+transport;
+whereas it is desirable to provide for harmonisation of
+the conditions for access to the occupation of road
+passenger transport operator;
+whereas the principle of non-discrimination on grounds
+of nationality or the place of establishment of the transport
+operator, and of the origin or destination of the bus or
+coach, should be considered to be a basic condition
+applying to the provision of international transport
+services;
+whereas it is necessary to provide for uniform models for
+transport documents such as the control document for
+liberalised occasional services and also the authorisation
+and the application form for non-liberalised services in
+order to facilitate and simplify inspection procedures;
+whereas it is necessary to provide for certain harmonised
+measures on the enforcement of the Agreement, especially
+as far as control procedures, penalties and mutual
+assistance are concerned;
+whereas it is appropriate to establish certain procedures
+for the management of the Agreement in order to ensure
+proper enforcement and to permit some technical
+adaptation of the Annexes;
+whereas the Agreement should be open for accession to
+future Members of the European Conference of Ministers
+of Transport and to certain other European countries;
+have decided to establish uniform rules for the
+international occasional carriage of passengers by coach
+and bus,
+have agreed as follows:
+
+Section I
+SCOPE AND DEFINITIONS
+Article 1
+Scope
+1. This Agreement shall apply:
+a) to the international carriage of passengers, of any
+nationality, by road by means of occasional services:
+— between the territories of two Contracting Parties,
+or starting and finishing on the territory of the same
+Contracting Party and, should the need arise during such
+services, in transit through the territory of another
+Contracting Party or through the territory of a
+non-Contracting State;
+— carried out bytransport operators for hire or reward
+established in a Contracting Party in accordance with its
+law and holding a licence to undertake carriage by means
+of international occasional services by coach and bus;
+— using buses and coaches registered in the
+Contracting Party where the transport operator is
+established;
+b) to unladen journeys of the buses and coaches
+concerned with these services.
+2. None of the provisions of this Agreement may be
+interpreted as providing the possibility to operate national
+occasional services in the territory of a Contracting Party
+by operators established in another Contracting Party.
+3. The use of buses and coaches designed to carry
+passengers for the transport of goods for commercial
+purposes shall be excluded from the scope of this
+Agreement.
+4. This Agreement does not concern own-account
+occasional services.
+Article 2
+Non-discrimination
+Contracting Parties shall ensure that the principle of
+non-discrimination on the grounds of the nationality or the
+place of establishment of the transport operator, and of the
+origin or destination of the bus or coach, is applied, in
+particular with regard to fiscal provisions as established in
+Section VI as well as control and penalties as established
+in Section IX.
+Article 3
+Definitions
+For the purposes of this Agreement, the following
+definitions shall apply:
+1. „Buses and coaches”are vehicles which, by virtue of
+their construction and their equipment, are suitable for
+carrying more than nine persons, including the driver, and
+are intended for that purpose.
+2. „International occasional services” are services
+between the territory of at least two Contracting Parties
+falling within neither the definition of regular services or
+special regular services nor the definition of a shuttle
+service. Such services may be operated with some degree
+of frequency without thereby ceasing to be occasional
+services.
+3. „Regular Services”are services which provide for the
+carriage of passengers according to a specified frequency
+and along specified routes, whereby passengers may be
+taken up or set down at predetermined stopping points.
+Regular services can be subject to the obligation to respect
+previously established timetables and tariffs.
+4. „Special Regular Services” are services, by
+whomsoever organised, which provide for the carriage of
+specified categories of passengers to the exclusion of other
+passengers, insofar as such services are operated under the
+conditions specified in point 3. Special regular services
+shall include:
+— the carriage of workers between home and work;
+— the carriage of school pupils and students to and
+from the educational institution.
+The fact that a special regular service may be varied
+according to the needs of users shall not affect its
+classification as a regular service.
+5. (1) „Shuttle services”are services whereby, bymeans
+of repeated outward and return journeys, previously
+formed groups of passengers are carried from a single place
+of departure to a single destination. Each group, consisting
+of the passengers who made the outward journey, shall be
+carried back to the place of departure on a later journey by
+the same transport operator.
+Place of departure and destination shall mean,
+respectively, the place where the journey begins and the
+place where the journey ends, together with, in each case,
+the surrounding localities within a radius of 50 km.
+(2) In the course of shuttle services, no passenger may
+be taken up or set down during the journey.
+(3) The first return journey and the last outward journey
+in a series of shuttles shall be made unladen.
+
+(4) However, the classification of a transport operation
+as a shuttle service shall not be affected by the fact that,
+with the agreement of the competent authorities in the
+Contracting Party or Parties concerned:
+— passengers, notwithstanding the provisions of
+subparagraph 1, make the return journey with another
+group or another transport operator;
+— passengers, notwithstanding the provisions of
+subparagraph 2, are taken up or set down along the way;
+— the first outward journeyand the last return journey
+of the series of shuttles are, notwithstanding the provisions
+of subparagraph 3, made unladen.
+6. „Contracting Parties”are those signatories that have
+consented to be bound by this Agreement and for which
+this Agreement is in force.
+This Agreement applies to those territories where the
+Treaty establishing the European Community is applied
+and under the conditions laid down in that Treaty and to
+BOSNIA-HERZEGOVINA, BULGARIA, CROATIA,
+THE CZECH REPUBLIC, ESTONIA, HUNGARY,
+LATVIA, LITHUANIA, MOLDOVA, POLAND,
+ROMANIA, SLOVAKIA, SLOVENIA and TURKEY, as
+far as they have concluded this Agreement.
+7. „Competent Authorities” are those authorities
+designated by the Member States of the Community and by
+the other Contracting Parties to carry out the tasks set out
+in Sections V, VI, VII, VIII and IX of this Agreement.
+8. „Transit” means the part of a transport operation
+through the territory of a Contracting Party without
+passengers being picked up or set down.
+Section II
+CONDITIONS APPLYING TO ROAD PASSENGER
+TRANSPORT OPERATORS
+Article 4
+1. Contracting Parties which have not yet done so shall
+apply provisions equivalent to those established by the
+European Community Directive referred to in Annex 1.
+2. Concerning the condition on the appropriate
+financial standing referred to in Article 3, paragraph 3 of
+such Directive, Contracting Parties may apply a minimum
+available capital and reserves lower than the amount
+established in point c) ofthe said paragraph (3), up to the
+date of 1 January 2003 or even to 1 January 2005 under
+condition in the latter case that a corresponding
+declaration be made at the time of the ratification of the
+Agreement, without prejudice to the provisions included
+in the Europe Agreement establishing an association
+between the European Communities and their Member
+States and certain Contracting Parties of the present
+Agreement.
+Section III
+TECHNICAL CONDITIONS APPLYING
+TO VEHICLES
+Article 5
+The buses and coaches used to carry out the
+international occasional services covered by this
+Agreement shall comply with the technical standards laid
+down in Annex 2.
+Section IV
+ACCESS TO THE MARKET
+Article 6
+Liberalised occasional services
+The following occasional services shall be exempted
+from authorisation on the territory of any Contracting
+Party other than that in which the transport operator is
+established:
+1. Closed-door tours, that is to sayservices wherebythe
+same bus or coach is used to carry the same group of
+passengers throughout the journey and to bring them back
+to the place of departure. The place of departure is in the
+territory of the Contracting Party in which the transport
+operator is established.
+2. Services which make the outward journey laden and
+the return journey unladen. The place of departure is in the
+terrritory of the Contracting Party in which the transport
+operator is established.
+3. Services during which the outward journey is made
+unladen and all the passengers are taken up in the same
+place, provided that one of the following conditions is met:
+a) passengers constitute groups, on the territory of a
+non-Contracting Party or of a Contracting Party other than
+that in which the transport operator is established or that
+where the passengers are taken up, that have been formed
+under contracts of carriage made before their arrival in the
+territory of the latter Contracting Party. Passengers are
+carried on the territory of the Contracting Party in which
+the transport operator is established;
+
+b) passengers have been previously brought, by the
+same transport operator in the circumstances provided for
+under point 2, into the territory of the Contracting Party
+where they are taken up again and carried into the territory
+of the Contracting Party in which the transport operator is
+established;
+c) passengers have been invited to travel into the
+territory of another Contracting Party, the cost of transport
+being borne by the person issuing the invitation. Such
+passengers must constitute a homogeneous group, which
+has not been formed solely with a view to undertaking that
+particular journey and which is brought into the territory
+of the Contracting Party in which the transport operator is
+established.
+The following shall also be exempted from
+authorisation:
+4. Transit operations through the territory of
+Contracting Parties in conjunction with occasional
+services that are exempted from authorisation.
+5. Unladen buses and coaches to be used exclusivelyfor
+the replacement of a bus or a coach damaged or broken
+down, while performing an international service covered
+by this Agreement.
+For services provided by transport operators established
+within the European Community, the points of departure
+and/or destination of the services can be in any Member
+State of the European Community, independently of the
+Member State in which the bus or coach is registered or the
+Member State in which the transport operator is
+established.
+Article 7
+Non-liberalised occasional services
+1. Occasional services other than those referred to in
+Article 6 shall be subject to authorisation in accordance
+with Article 15.
+2. For services provided by transport operators
+established within the European Community, the points of
+departure and/or destination of the services can be in any
+Member State of the European Community,
+independently of the Member State in which the bus or
+coach is registered or the Member State in which the
+transport operator is established.
+Section V
+SOCIAL PROVISIONS
+Article 8
+The Contracting Parties to this Agreement which have
+not yet done so shall accede to the European Agreement
+concerning the work of Crews of Vehicles engaged in
+International Road Transport (AETR) of 1 July 1970, as
+subsequently amended, or shall apply Community
+Regulations 3820/85 and 3821/85 as in force at the entry
+into force of this Agreement.
+Section VI
+CUSTOM AND FISCAL PROVISIONS
+Article 9
+1. Buses and coaches that are engaged in transport
+operations in accordance with this Agreement shall be
+exempted from all vehicle taxes and charges levied on the
+circulation or possession of vehicles as well as from all
+special taxes or charges levied on transport operations in
+the territory of the other Contracting Parties.
+Buses and coaches shall not be exempted from payment
+of taxes and charges on motor fuel, Value Added Tax on
+transport services, road tolls and user charges levied on the
+use of infrastructure.
+2. Contracting Parties shall ensure that tolls and any
+other form of user charges may not be imposed at the same
+time for the use of a single road section. However,
+Contracting Parties may also impose tolls on networks
+where user charges are levied, for the use of bridges,
+tunnels and mountain passes.
+3. The fuel for buses and coaches, contained in the fuel
+tanks established by the manufacturer for this purpose, and
+in any case not more than 600 litres, as well as the lubricants
+contained in buses and coaches for the sole purpose of their
+operation, shall be exempted from import duties and any
+other taxes and payments imposed in other Contracting
+Parties.
+4. The Joint Committee established in Article 23 will
+draft a list of the taxes concerning road transport of
+passengers by bus and coach levied in each Contracting
+Party. This list will indicate the taxes falling under the
+provisions of paragraph 1, first subparagraph, of this
+Article that can only be levied in the Contracting Party of
+registration of the vehicle. This list will also indicate the
+taxes falling under the provisions of paragraph 1, second
+subparagraph, of this Article that may be levied in
+Contracting Parties other than the Contracting Party of
+
+registration of the vehicle. Contracting Parties which
+replace any tax included in the lists referred to with another
+tax of the same or a different kind shall notify the Joint
+Committee in order to make the necessary amendments.
+5. Spare parts and tools imported for the repair of a
+damaged bus or coach while performing an international
+road transport operation shall be exempted from customs
+duty and from all taxes and charges at the time of
+importation into the territory of the other Contracting
+Party under the conditions laid down in its provisions
+concerning temporary admission of such goods. The spare
+parts which are replaced should be re-exported or
+destroyed under the control of the competent customs
+authority of the other Contracting Party.
+Section VII
+CONTROL DOCUMENTS FOR OCCASIONAL
+SERVICES EXEMPTED FROM AUTHORISATION
+Article 10
+The provision of services referred to in Article 6 shall be
+carried out under cover of a control document issued by
+the competent authorities or by any duly authorised agency
+of the Contracting Party in which the transport operator is
+established.
+Article 11
+1. The control document shall consist of detachable
+passenger waybills in duplicate in books of 25. The control
+document shall conform to the model shown in Annex 3 to
+this Agreement.
+2. Each book and its component passenger waybills
+shall bear a number. The passenger waybills shall also be
+numbered consecutively, running from 1 to 25.
+3. The wordingon the cover ofthe book and that on the
+passenger waybills shall be printed in the official language
+or several official languages of the Contracting Party in
+which the transport operator is established.
+Article 12
+1. The book referred to in Article 11 shall be made out
+in the name of the transport operator; it shall not be
+transferable.
+2. The top copy of the passenger waybill shall be kept
+on the bus or coach throughout the journey to which it
+refers.
+3. The transport operator shall be responsible for
+seeing that passenger waybills are duly and correctly
+completed.
+Article 13
+1. The passenger waybill shall be completed in
+duplicate by the transport operator for each journey before
+the start of the journey.
+2. For the purpose of providing the names of
+passengers, the transport operator may use a previously
+completed list on a separate sheet, which shall be annexed
+to the passenger waybill. The transport operator’s stamp
+or, where appropriate, the transport operator’s signature
+or that of the driver of the bus or coach shall be placed both
+on the list and on the passenger waybill.
+3. For the services involving an outward unladen
+journey referred to in Article 6(3), the list of passengers
+may be completed as provided for in paragraph 2 at the
+time when the passengers are taken up.
+Article 14
+The competent authorities of two or more Contracting
+Parties may agree that the list of passengers need not be
+drawn up. In that case, the number of passengers must be
+shown on the control document.
+The Joint Committee established in Article 23 shall be
+informed of these agreements.
+Section VIII
+AUTHORISATION FOR NON-LIBERALISED
+OCCASIONAL SERVICES
+Article 15
+1. An authorisation for each occasional service which
+has not been liberalised under the provisions of Article 6
+shall be issued, in mutual agreement by the competent
+authorities of the Contracting Parties where passengers are
+picked up or set down as well as by the competent
+authorities of the Contracting Parties, crossed in transit.
+When the point of departure or destination is situated in a
+Member State of the European Community, the transit
+through other Member States of this Community will not
+be subject to authorisation.
+2. The authorisation shall conform to the model laid
+down in Annex 5.
+
+Article 16
+Application for authorisation
+1. The application for authorisation shall be submitted
+by the transport operator to the competent authorities of
+the Contracting Party on whose territory the point of
+departure is situated.
+Applications shall conform to the model laid down in
+Annex 4.
+2. Transport operators shall fill in the application form
+and attach evidence that the applicant is licensed to
+perform carriage by means of international occasional
+services by coach and bus referred to in Article 1/1. a),
+second indent.
+3. The competent authorities of the Contracting Party
+in whose territory the place of departure is situated shall
+examine the application for authorisation of the service
+concerned and, in the case of its approval, shall forward it
+to the competent authorities of the Contracting Party(ies)
+of destination as well as the competent authorities of the
+Contracting Parties in transit.
+4. As a derogation from Article 15 paragraph 1,
+Contracting Parties whose territories are crossed in transit
+may decide that their agreement is no longer necessary for
+services envisaged in this Section. In this case, the Joint
+Committee established in Article 23 shall be informed of
+this decision.
+5. The competent authorities of the Contracting
+Party(ies) whose agreement has been requested shall issue
+the authorisation within one month, without
+discrimination as to the nationality or place of
+establishment of the transport operator. If these
+authorities do not agree on the terms of the authorisation
+they shall inform the competent authorities of the
+Contracting Party(ies) concerned of the relevant reasons.
+Article 17
+The competent authorities of two or more Contracting
+Parties may agree to simplify the authorisation procedure,
+the model of application for authorisation and the model
+of authorisation for the occasional services carried out
+between these Contracting Parties. The Joint Committee
+established in Article 23 shall be informed of these
+agreements.
+Section IX
+CONTROLS, PENALTIES AND MUTUAL
+ASSISTANCE
+Article 18
+The control documents referred to in Article 10 and the
+authorisations referred to in Article 15 shall be carried on
+the bus or coach and shall be presented at the request of
+any authorised inspecting officer.
+Article 19
+The competent authorities in the Contracting Parties
+shall ensure that transport operators comply with the
+provisions of this Agreement.
+Article 20
+A certified true copy of the licence to perform carriage
+by means of international occasional services by bus and
+coach referred to in Article 1/1. a) , second indent, shall
+be kept on the bus or coach and shall be presented at the
+request of any authorised inspecting officer.
+The Joint Committee established in Article 23 shall be
+informed about the models of such a document issued by
+the competent authorities of the Contracting Parties.
+Article 21
+The competent authorities of the Contracting Parties
+shall lay down a system of penalties for breaching this
+Agreement. The penalties thus provided for shall be
+effective, proportionate and dissuasive.
+Article 22
+1. Where serious or repeated infringements of
+regulations concerning road transport, especially those
+concerning driving and resting time and road safety, have
+been committed by non-resident transport operators and
+might lead to withdrawal of the licence to practise as a road
+passenger transport operator, the competent authorities of
+the Contracting Party concerned shall provide the
+competent authorities of the Contracting Party in which
+such a transport operator is established with all of the
+information in their possession concerning those
+infringements and the penalties that they have imposed.
+
+2. The competent authorities of the Contracting Party
+in whose territory the serious or repeated infringement of
+regulations concerning road transport, especially those
+concerning driving and resting time and road safety have
+occurred, may temporarily deny access for the transport
+operator concerned to the territory of this contracting
+party.
+As far as the European Community is concerned, the
+competent authority of a Member State may only
+temporarily deny access to the territory of that Member
+State.
+Competent authorities of the Contracting Party of
+establishment of the transport operator and the Joint
+Committee established in Article 23 shall be informed of
+such measures.
+3. Where serious or repeated infringements of
+regulations concerning road transport, especially those
+concerning driving and resting time and road safety, have
+been committed by a transport operator, the competent
+authorities of the Contracting Parties where the transport
+operator is established shall take the appropriate measures
+to avoid repetition of those infringements; these measures
+may include the suspension or the withdrawal of the licence
+to practise as a road passenger transport operator. The
+Joint Committee established in Article 23 shall be
+informed of such measures.
+4. Contracting Parties shall guarantee the right of the
+transport operator to appeal against the sanctions
+imposed.
+Section X
+THE JOINT COMMITTEE
+Article 23
+1. In order to facilitate the management of this
+Agreement, a Joint Committee is hereby established. This
+Committee shall be made up of representatives of the
+Contracting Parties.
+2. The Joint Committee shall meet for the first time
+within six months of the entry into force of this Agreement.
+3. The Joint Committee shall establish its own rules of
+procedure.
+4. The Joint Committee shall meet at the request of at
+least one Contracting Party.
+5. The Joint Committee mayadopt decisions onlywhen
+two thirds of the Contracting Parties, including the
+European Community, are represented in the Joint
+Committee meetings.
+6. In so far as the Joint Committee is required to take
+decisions, unanimity of the Contracting Parties
+represented shall be required. In the event that unanimity
+cannot be achieved, the competent authorities concerned
+shall, following a request by one or more of the Contracting
+Parties concerned, meet for consultation within a period
+of six weeks.
+Article 24
+1. The Joint Committee shall ensure proper
+implementation of this Agreement. The Committee will be
+informed of any measure adopted or to be adopted in order
+to implement the provisions of this Agreement.
+2. The Joint Committee shall in particular:
+a) on the basis of the information provided by the
+Contracting Parties, draw up a list of competent
+authorities of the Contracting Parties responsible for the
+tasks referred to in Sections V, VI VII, VIII and IX of this
+Agreement;
+b) amend or adapt the control documents and other
+models of documents established in the Annexes to this
+Agreement;
+c) amend or adapt the Annexes concerning the
+technical standards applying to buses and coaches, as well
+as Annex 1 regarding the conditions applying to road
+passenger transport operators referred to in Article 4, in
+order to incorporate future measures taken within the
+European Community;
+d) on the basis of the information provided by the
+Contracting parties, draw up a list, for information, of all
+customs duties, taxes and charges referred to in Article 9,
+paragraphs 4 and 5;
+e) amend or adapt the requirements concerning the
+social provisions referred to in Article 8 in order to
+incorporate future measures taken within the European
+Community;
+f) resolve any dispute which may arise over the
+implementation and interpretation of this Agreement;
+g) recommend further steps towards the liberalisation
+of those occasional services still subject to authorisation.
+3. The Contracting Parties shall take the measures
+necessary to enforce any decisions adopted by the Joint
+Committee in accordance, where necessary, with their own
+internal procedures.
+4. If an agreement cannot be reached to settle a dispute
+in accordance with paragraph 2, point f) of this Article,
+the Contracting Parties concerned may submit the case to
+an arbitration panel. Each Contracting Party concerned
+
+shall appoint an arbitrator. The Joint Committee itself
+shall also appoint an arbitrator.
+The arbitrators’ decisions shall be taken by majority
+vote.
+Contracting Parties involved in the dispute shall take the
+steps required to implement the arbitrators’ decisions.
+Section XI
+GENERAL AND FINAL PROVISIONS
+Article 25
+Bilateral Agreements
+1. The provisions of this Agreement shall replace those
+relevant provisions of the agreements concluded between
+Contracting Parties. As far as the European Community is
+concerned, this provision applies to agreements concluded
+between any Member State and a Contracting Party.
+2. Contracting Parties other than the European
+Community may agree not to apply Article 5 and Annex 2
+of this Agreement and apply other technical standards to
+buses and coaches executing occasional services between
+these Contracting Parties including transit of their
+territories.
+3. Notwithstanding the provisions of Article 6 of Annex
+2, the provisions of this Agreement shall replace those
+relevant provisions of the agreements concluded between
+the Member States of the European Community and other
+Contracting Parties.
+However, the provisions granting an exemption from
+authorisation contained in existing bilateral agreements
+between Member States of the European Community and
+other
+Contracting
+Parties
+for
+occasional
+services
+mentioned in Article 7 may be maintained and renewed. In
+that
+case,
+the
+Contracting
+Parties
+concerned
+will
+immediately inform the Joint Committee established in
+Article 23.
+Article 26
+Signature
+This Agreement shall be open for signature at Brussels
+from 14 April 2000 to30 June 2001, at the General
+Secretariat of the Council of the European Union which
+shall act as the depository of the Agreement.
+Article 27
+Ratification or Approval and Depository of the Agreement
+This Agreement shall be approved or ratified by the
+signatories in accordance with their own procedures. The
+instruments of approval or ratification shall be deposited
+by Contracting Parties with the General Secretariat of the
+Council of the European Union, which shall notify all
+other signatories.
+Article 28
+Entry into force
+1. This Agreement shall enter into force for the
+Contracting Parties that have approved or ratified it, when
+four
+Contracting
+Parties
+including
+the
+European
+Community have approved or ratified it, on the first day of
+the third month following the date on which the fourth
+instrument of approval or ratification is deposited, or even
+on the first day of the sixth month, under condition in the
+latter case that a corresponding declaration be made at the
+time of the ratification of the Agreement.
+2. This Agreement shall enter into force, for each
+Contracting Party that approves or ratifies it after the entry
+into force provided for in paragraph 1, on the first day of
+the third month following the date on which the
+Contracting Party concerned has deposited its instrument
+of approval or ratification.
+Article 29
+Duration of the Agreement — evaluation of the
+functioning of the Agreement
+1. This Agreement shall be concluded for a period of
+five years, dating from its entry into force.
+2. The
+duration
+of
+this
+Agreement
+shall
+be
+automatically extended for successive periods of five years
+among those Contracting Parties who do not express their
+wish not to do so. In the latter case the Contracting Party
+concerned shall notify the Depository of its intention
+according to Article 31.
+3. Before the end of each period of five years, the Joint
+Committee
+shall
+evaluate
+the
+functioning
+of
+this
+Agreement.
+
+Article 30
+Accession
+1. After its entry into force, this Agreement shall be
+open to accession by countries which are full members of
+the European Conference of Ministers of Transport
+(ECMT). In the event of the accession to this Agreement
+by countries that are members of the Agreement on the
+European Economic Area, this Agreement shall not apply
+among the Contracting Parties of the Agreement on the
+European Economic Area.
+2. This Agreement shall also be open to accession by
+the Republic of San Marino, the Principality of Andorra
+and the Principality of Monaco.
+3. For each State acceding to this Agreement after the
+entry into force provided for in Article 28, the Agreement
+shall enter into force on the first day of the third month
+after deposit by such State of its instrument of accession.
+4. Each State accedingto thisAgreement after the entry
+into force provided for in Article 28 may be granted a
+period of three years maximum for the adoption of
+provisions equivalent to the directive(s) referred to in
+Annex 1. The Joint Committee shall be informed of any
+such measures adopted.
+Article 31
+Denunciation
+Each Contracting Party may, for its part, denounce this
+Agreement with one year’s notice by simultaneous
+notification of the other Contracting Parties through the
+Depository of the Agreement. The Joint Committee shall
+also be informed of the reasons of the denunciation.
+However, the Agreement cannot be denounced during the
+first four years which follow its entry into force, as provided
+for under Article 28.
+If the Agreement is denounced by one or more
+Contracting Parties, and the number of Contracting
+Parties falls below the number agreed for the original entry
+into force as provided for in Article 28, the Agreement
+shall remain in force unless the Joint Committee,
+comprising the remaining Contracting Parties, decides
+otherwise.
+Article 32
+Termination
+A Contracting Party that has acceded to the European
+Union shall cease to be treated as a Contracting Party from
+the date of such accession.
+Article 33
+Annexes
+Annexes to this Agreement shall constitute an integral
+part thereof.
+Article 34
+Languages
+This Agreement, drawn up in the English, French and
+German languages, these texts being authentic, shall be
+deposited in the archives of the General Secretariat of the
+Council of the European Union, which shall transmit a
+certified true copy to each of the Contracting Parties.
+Each Contracting Party shall ensure a proper
+translation of this Agreement in its official language or
+official languages. A copy of this translation shall be
+deposited in the archives of the General Secretariat of the
+Council of the European Union.
+A copy of all translations of the Agreement and the
+Annexes will be sent by the Depository to all Contracting
+Parties.
+IN WITNESS WHEREOF the undersigned
+plenipotentiaries have signed this Agreement.
+ANNEX
+Annex 1
+The conditions applying to road passenger transport
+operators referred to in Article 4
+The European Community Directive referred to in
+Article 4 is the following:
+Council Directive 96/26/EC of 29 April 1996 on
+admission to the occupation of road haulage operator and
+road passenger transport operator and mutual recognition
+of diplomas, certificates and other evidence of formal
+qualification intended to facilitate for these operators the
+right to freedom of establishment in national and
+international transport operations (Official Journal of the
+European Communities L 124, 23.5.1996, p.1) as last
+amended by Council Directive 98/76/EC of 1 October 1998
+(Official Journal of the European Communities L 277,
+14.10.1998 p.17).
+
+Annex 2
+Technical standards applying to buses and coaches
+Article 1
+As from the date of entry into force for each Contracting
+Party of the INTERBUS Agreement, buses and coaches
+carrying out international occasional carriage of
+passengers shall comply with the rules established in the
+following legal texts:
+a) Council Directive 96/96/EC of 20 December 1996
+on the approximation of the laws of the Member States
+relating to roadworthiness tests for motor vehicles and
+their trailers (Official Journal of the European
+Communities L 46, 17.2.1997, p.1).
+b) Council Directive 92/6/EEC of 10 February1992 on
+the installation and use of speed limitation devices for
+certain categories of motor vehicles in the Community
+(Official Journal of the European Communities L 57,
+2.3.1992, p.27).
+c) Council Directive 96/53/EC of 25 July 1996 laying
+down for certain road vehicles circulating within the
+Community the maximum authorised dimensions in
+national and international traffic and the maximum
+authorised weights in international traffic (Official Journal
+of the European Communities L 235, 17.9.1996, p.59).
+d) Council Regulation (EEC) No 3821/85 of 20
+December 1985 on recording equipment in road transport
+(Official Journal of the European Communities L 370 of
+31.12.1985, p.8) as last amended by Commission
+Regulation (EC) No 2135/98 of 24.9.1998 (Official Journal
+of the European Commities L 274, 9.10.1998, p.1) or
+equivalent rules established by AETR Agreement
+including its Protocols.
+Article 2
+As from the date of entry into force of the INTERBUS
+Agreement for each Contracting Party, Contracting
+Parties other than the European Community shall comply,
+for buses and coaches carrying out international occasional
+carriage of passengers, with the technical requirements of
+the following Community Directives or equivalent
+UN-ECE Regulations on uniform provisions concerning
+the type-approval for new vehicles and their equipment.
+Item
+UN-ECE
+Regulation /
+last
+amendment
+EC-Directive
+(original-latest)
+Date of
+implementation
+within the EU
+Exhaust
+emission
+49/01
+49/02,
+approval A
+49/02,
+approval B
+88/77
+—91/542 step 1
+—91/542 step 2
+—96/1
+01/10/1993
+01/10/1996
+Item
+UN-ECE
+Regulation /
+last
+amendment
+EC-Directive
+(original-latest)
+Date of
+implementation
+within the EU
+Smoke 24/03 72/306 02/08/1972
+Noise emission 51/02
+—70/157
+—84/424
+92/97
+01/10/1989
+01/10/1996
+Brake system 13/09
+—71/320
+—88/194
+—91/422
+—98/12
+01/10/1991
+01/10/1994
+Tyres 54 92/23 01/01/1993
+Light
+installation
+48/01
+—76/756
+—91/663
+—97/28
+01/01/1994
+Article 3
+The buses and coaches carrying out the following
+services:
+a) services from any Member State of the Community
+(except Greece) to any Contracting Party of INTERBUS;
+b) services from anyContracting Partyof INTERBUS
+to any Member State of the Community (except Greece);
+c) services from any Contracting Partyof INTERBUS
+to Greece in transit through any other Member State of the
+Community carried out by transport operators established
+in any Contracting Party of INTERBUS;
+shall be subject to the following rules:
+1. Buses and coaches first registered before 1.1.1980
+cannot be used for the occasional services covered by
+the INTERBUS Agreement.
+2. Buses and coaches first registered between 1.1.1980
+and 31.12.1981 can be used only until 31.12.2000.
+3. Buses and coaches first registered between 1.1.1982
+and 31.12.1983 can be used only until 31.12.2001.
+4. Buses and coaches first registered between 1.1.1984
+and 31.12.1985 can be used only until 31.12.2002.
+5. Buses and coaches first registered between 1.1.1986
+and 31.12.1987 can be used only until 31.12.2003.
+6. Buses and coaches first registered between 1.1.1988
+and 31.12.1989 can be used only until 31.12.2004.
+7. Only buses and coaches first registered as from
+1.1.1990 (EURO 0) can be used from 1.1.2005.
+8. Only buses and coaches first registered as from
+1.10.1993 (EURO 1) can be used from 1.1.2007.
+Article 4
+Buses and coaches carrying out the following services:
+a) services from Greece to Contracting Parties of
+INTERBUS;
+
+b) services from Contracting Parties of INTERBUS to
+Greece;
+shall be subject to the following rules:
+1. Buses and coaches first registered before 1.1.1980
+cannot be used for the occasional services covered by
+the INTERBUS Agreement.
+2. Buses and coaches first registered between 1.1.1980
+and 31.12.1981 can be used only until 31.12.2000.
+3. Buses and coaches first registered between 1.1.1982
+and 31.12.1983 can be used only until 31.12.2001.
+4. Buses and coaches first registered between 1.1.1984
+and 31.12.1985 can be used only until 31.12.2003.
+5. Buses and coaches first registered between 1.1.1986
+and 31.12.1987 can be used only until 31.12.2005.
+6. Buses and coaches first registered between 1.1.1988
+and 31.12.1989 can be used only until 31.12.2007.
+7. Only buses and coaches first registered as from
+1.1.1990 (EURO 0) can be used from 1.1.2008.
+8. Only buses and coaches first registered as from
+1.10.1993 (EURO 1) can be used from 1.1.2010.
+Article 5
+Community buses and coaches used in bilateral traffic
+between Greece and other Member States of the
+Community in transit through Contracting Parties of the
+INTERBUS Agreement are not covered by present rules
+on technical standards, but are subject to European
+Community rules.
+Article 6
+1. The rules on technical standards included in bilateral
+agreements or arrangements between Member States of
+the Community and Contracting Parties of the
+INTERBUS Agreement, concerning bilateral traffic and
+transit, which are stricter than the rules established in this
+Agreement may be applied until 31 December 2006.
+2. Member States of the Community and Contracting
+Parties of the INTERBUS Agreement concerned shall
+inform the Joint Committee established in Article 23 of the
+Agreement on the contents of such bilateral agreements or
+arrangements.
+Article 7
+1. A document proving the date of the vehicle’s first
+registration shall be kept on board and shall be presented
+at the request of any authorised inspecting officer. For the
+purpose of this Annex, the terms „date of vehicle’s first
+registration” shall refer to the first registration of the
+vehicle after its manufacture. When this date of
+registration is not available, it will be referred to as the date
+of construction.
+2. Where the original bus engine has been replaced by
+a new engine, the document referred to in paragraph 1 of
+this Article shall be substituted by a document proving the
+compliance of the new engine with the relevant
+type-approval rules mentioned in Article 3.
+Article 8
+1. Notwithstanding the provision referred to in
+paragraph a) of Article 1 of this Annex, Contracting
+Parties may establish random inspections in order to
+control that the buses and coaches concerned comply with
+the provisions of Directive 96/96/EC. For the purpose of
+this Annex „random inspections” shall mean an
+unscheduled and therefore unexpected inspection of a bus
+or coach circulating on the territory of a Contracting Party
+carried out by the authorities at the roadside.
+2. In order to carryout the roadside inspection provided
+for in this Annex, competent authorities of Contracting
+Parties shall use the checklist included in Annex II a and
+II b. A copy of this checklist drawn up by the authority
+which carried it out shall be given to the driver of the bus
+or coach and presented on request in order to simplify or
+avoid, where possible, subsequent inspections within a
+short and unreasonable period.
+3. If the vehicle examiner considers that the deficiency
+in the maintenance of the bus or coach justifies further
+examination, the bus or coach may be subjected to a
+roadworthiness test at an approved testing centre in
+accordance with Article 2 of Directive 96/96/EC.
+4. Without prejudice to other penalties which may be
+imposed, if the consequence of the random inspection is
+that the bus or coach does not comply with the provisions
+of Directive 96/96/EC and therefore is considered to
+present a serious risk to its occupants or other road users,
+the bus or coach may be banned immediately from use on
+public roads.
+5. Roadside checks shall be carried out without
+discrimination on the grounds of nationality, residence or
+registration of buses and coaches and drivers respectively.
+
+Annex II a
+Checklist
+1. Place of check .................................................................
+2. Date ...................................................................................
+3. Time ...................................................................................
+4. Vehicle nationality mark and registration number ....
+..............................................................................................
+5. Class of vehicle
+Coach1
+6. Name and address of transport operator carrying out
+transport ...........................................................................
+7. Nationality .......................................................................
+8. Driver ...............................................................................
+9. Consignor, address, place of loading ...........................
+10. Consignee, address, place of unloading .......................
+11. Gross mass of unit ...........................................................
+12. Reason for failure:
+— Braking system and components
+— Steering linkages
+— Lamps, lighting and signalling devices
+— Wheels / hubs (tyres
+— Exhaust system
+— Smoke opacity (diesel)
+— Gaseous emissions (petrol)
+13. Miscellaneous / remarks
+14. Authority / officer having carried out the inspection
+15. Result of inspection
+— pass
+— passed with minor defects
+— serious defects
+— immediate prohibition
+Signature of testing inspector/Authorisation
+1 Motor vehicle with at least four wheels used for the carriage of
+passengers, comprising more than eight seats in addition to the driver’s
+seat (categories M2, M3).
+Annex II b
+Technical standards of the roadside check
+Buses and coaches as defined in Article 3 of this
+Agreement shall be maintained in such a condition that
+they can be deemed as roadworthy by the inspection
+authorities.
+The items that shall be inspected will include those that
+are considered to be important for the safe and clean
+operation of the bus or coach. As well as simple functional
+checks (lighting, signalling, tyre condition etc.), specific
+tests and/or inspections shall be carried out on the vehicle’s
+brakes and the motor vehicle’s emissions in the following
+manner:
+1. Brakes
+Every part of the braking system and its means of
+operation shall be maintained in good and efficient
+working order and be properly adjusted.
+The bus or coach’s brakes shall be capable of performing
+the following three braking functions:
+a) For buses and coaches and their trailers and
+semi-trailers, a service brake capable of slowing down the
+vehicle and of stopping it safely, rapidly and efficiently,
+whatever its conditions of loading and whatever the
+upward or downward gradient of the road on which it is
+moving;
+b) For buses and coaches and their trailers and
+semi-trailers a parking brake capable of holding the bus or
+coach stationary, whatever its condition of loading, on a
+noticeable upward or downward gradient, the operative
+surfaces of the brake being held in the braking position by
+a device whose action is purely mechanical;
+c) For buses and coaches, a secondary (emergency)
+brake capable of slowing down and stopping the bus or
+coach, whatever its condition of loading, within a
+reasonable distance, even in the event of failure of the
+service brake.
+Where the maintenance condition of the bus or coach is
+in doubt, the inspection authorities may test the bus or
+coach’s braking performance in accordance with some or
+all of the provisions ofDirective 96/96/EC AnnexII, item I.
+2. Exhaust Emissions
+2.1. Exhaust emission
+2.1.1. Buses and coaches equipped with
+positive-ignition (petrol) engines.
+a) Where the exhaust emissions are not controlled by
+an advanced emission control system such as a three-way
+catalytic converter which is lambda-probe controlled:
+1. Visual inspection of the exhaust system in order to
+check that there is no leakage.
+
+2. If appropriate, visual inspection of the emission
+control system in order to check that the required
+equipment has been fitted.
+After a reasonable period of engine conditioning
+(taking account of the bus or coach manufacturer’s
+recommendations) the carbon monoxide (CO)
+content of the exhaust gases is measured when the
+engine is idling (no load).
+The maximum permissible CO content in the exhaust
+gases is that stated by the bus or coach manufacturer.
+Where this information is not available or where
+Member States’ competent authorities decide not to
+use it as a reference value, the CO content must not
+exceed the following:
+— for buses and coaches registered or put into
+service for the first time between the date from which
+Contracting Parties required the buses and coaches
+to comply with Directive 70/220/EEC2 and 1 October
+1986: CO — 4,5% vol.
+— for buses and coaches registered or put into
+service for the first time after 1 October 1986: CO —
+3,5% vol.
+b) Where the exhaust emissions are controlled by an
+advanced emission control system such as a three-way
+catalytic converter which is lambda-probe controlled:
+1. Visual inspection of the exhaust system in order to
+check that there are no leakages and that all parts are
+complete.
+2. Visual inspection of the emission control system in
+order to check that the required equipment has been
+fitted.
+3. Determination of the efficiencyof the bus or coach’s
+emission control system by measuring the lambda
+value and the CO content of the exhaust gases in
+accordance with Section 4 or with the procedures
+proposed by the manufacturers and approved at the
+time of type-approval. For each of the tests, the
+engine is conditioned in accordance with the bus or
+coach manufacturer’s recommendations.
+2 Council Directive 70/220/EEC of 20 March 1970 on the approxima-
+tion of the laws of the Member States relating to measures to be taken
+against air pollution by emissions from motor vehicles (OJ L 76,9.3.1970,
+p.1) and corrigendum (OJ L 81, 11.4.1970.p.15), as last amended by
+European Parliament and Council Directive 94/12/EC (OJ L 100,
+19.4.1994,p.42).
+4. Exhaust pipe emissions — limit values
+Measurement at engine idling speed:
+The maximum permissible CO content in the exhaust
+gases is that stated by the bus or coach manufacturer.
+Where this information is not available, the
+maximum CO content must not exceed 0,5% vol.
+Measurement at high idle speed, engine speed to be
+at least 2 000 min—1:
+CO content: maximum 0,3% vol.
+Lambda: 1± 0,03 in accordance with the
+manufacturer’s specifications.
+2.1.2. Buses and coaches equipped with compression
+ignition (diesel) engines.
+Measurement of exhaust gas opacity with free
+acceleration (no load from idling up to cut-off speed). The
+level of concentration must not exceed the level recorded
+on the plate pursuant to Directive 72/306/EEC3. Where
+this information is not available or where Contracting
+Parties’ competent authorities decide not to use it as a
+reference, the limit values of the coefficient of absorption
+are as follows:
+Maximum coefficient of absorption for:
+naturally aspirated diesel engines = 2,5 m—1,
+turbo-charged diesel engines = 3,0 m—1
+or equivalent values where use is made of equipment of
+a type different from that used for EC type-approval.
+2.1.3. Test equipment
+Buses’ and coaches’ emissions are tested using
+equipment designed to establish accurately whether the
+limit values prescribed or indicated by the manufacturer
+have been complied with.
+2.2. Where appropriate, a check on the correct
+functioning of the On Board Diagnostic (OBD) emission
+monitoring system.
+3 Council Directive 72/306/EEC of 2 August 1972 on the approxima-
+tion of the laws of the Member States relating to the measures to be taken
+against the emission of pollutants from diesel engines for use in vehicles
+(OJ L 190, 20.8.1972, p.1), Directive as last amended by Commission
+Directive 89/491/EEC (OJ L 238, 15.8.1989, p.43).
+
+Annex 3
+Model of Control Document for occasional services exempted from authorisation
+(green-coloured paper: DIN A4 + 29.7× 21 cm)
+(Front cover — recto)
+(To be worded in the official language(s) or one of the official languages
+of the Contracting Party where the transport operator is established)
+State in which the control document is issued
+Competent authority or duly authorised agency
+Book No ........................
+— Distinguishing sign of the country4
+INTERBUS
+BOOK OF PASSENGER WAYBILLS
+For the international carriage of passengers by road by means of occasional coach and bus services established pursuant
+to:
+— Articles 6 and 10 of the Agreement on the International Occasional Carriage of Passengers by Coach and Bus —
+INTERBUS Agreement.
+Name or trade name of the transport operator: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Address: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.......................................................................................
+.................................................................................................
+(Place and issue of book)
+(Signature and stamp of the authority issuing the book)
+4 Belgium (B), Denmark (DK), Germany (D), Greece (GR), Spain (E), France (F), Ireland (IRL), Italy (I), Luxembourg (L), Netherlands
+(NL),Portugal (P),United Kingdom (UK), Finland (FIN), Austria (A), Sweden (S), Bulgaria(BG), Czech Republik (CZ), Estonia (EST), Hungary (H),
+Lithuania (LT), Latvia (LV), Poland (PL), Romania (RO), Slovak Republik (SK), Slovenia (SLO) to be completed.
+
+(green-coloured paper: DIN A4 = 29.7× 21 cm)
+(Flyleaf of the book of waybills — recto)
+(To be worded in the official language(s) or one of the official languages of the
+Contracting Party where the transport operator is established)
+IMPORTANTNOTICE
+1. Services covered by the INTERBUS Agreement are the
+following:
+1.1. International carriage of passengers of any
+nationality, by road by means of occasional services :
+— between the territories of two Contracting Parties,
+or starting and finishing in the territory of the same
+Contracting Party, and should the need arise during such
+service, in transit through the territory of another
+Contracting Party or through the territory of a
+non-Contracting State;
+— carried out bytransport operators for hire or reward
+established in a Contracting Party in accordance with its
+law and holding a licence to undertake carriage by means
+of international occasional services by coach and bus;
+— using buses and coaches registered in the territoryof
+the Contracting Party where the transport operator is
+established which by virtue of their construction and their
+equipment, are suitable for carrying more than nine
+persons, including the driver, and are intended for that
+purpose.
+1.2. Unladen journeys of the buses and coaches
+concerned with these services.
+1.3. For the purposes of the INTERBUS Agreement,
+the term ’territory of a Contracting Party’ covers, as far as
+the European Community is concerned, those territories
+where the Treaty establishing that Community is applied
+and under the conditions laid down in that Treaty.
+1.4. The possibility to operate national occasional
+services in a Contracting Party by operators established in
+another Contracting Party is excluded from the scope of
+the INTERBUS Agreement.
+1.5. The use of buses and coaches designed to carry
+passengers, for the transport of goods for commercial
+purposes is excluded from the scope of this Agreement.
+1.6. the INTERBUS Agreement does not concern own
+account occasional services.
+2. International occasional Services exempted from
+authorisation on the territory of any Contracting Party other
+than that in which the transport operator is established under
+the terms of Article 6 of the INTERBUS Agreement are the
+following:
+2.1. Closed-door tours, that is to say services whereby
+the same buse or coach is used to carry the same group of
+passengers throughout the journey and to bring them back
+to the place of departure. The place of departure is in the
+territory of the Contracting Party in which the transport
+operator is established.
+2.2. Serviceswhich make the outward journeyladen and
+the return journey unladen. The place of departure is in the
+territory of the Contracting Party in which the transport
+operator is established.
+2.3. Services during which the outward journeyis made
+unladen and all the passengers are taken up in the same
+place, provided that one of the following conditions is met:
+a) passengers constitute groups, on the territory of a
+non-Contracting Party or a Contracting Party other than
+that in which the transport operator is established or that
+where the passengers are taken up, that have been formed
+under contracts of carriage made before their arrival in the
+territory of the latter Contracting Party. Passengers are
+carried on the territory of the Contracting Party in which
+the transport operator is established.
+b) passengers have been previously brought, by the
+same transport operator in the circumstances provided for
+under point 2, into the territory of the Contracting Party
+where they are taken up again and carried into the territory
+of the Contracting Party in which the transport operator is
+established.
+c) passengers have been invited to travel into the
+territory of another Contracting Party, the cost of transport
+being borne by the person issuing the invitation. Such
+passengers must constitute a homogeneous group, which
+has not been formed solely with a view to undertaking that
+particular journey and which is brought into the territory
+of the Contracting Party in which the transport operator is
+established.
+2.4. transit operations through Contracting Parties in
+conjonction with occasional services that are exempted
+from authorisation shall also be exempted from
+authorisation.
+
+2.5. Unladen buses and coaches to be used exclusively
+for the replacement of a damaged or broken down bus or
+coach, performing an international service covered by this
+Agreement shall also be exempted from authorisation.
+For services provided by transport operators established
+within the European Community, the points of departure
+and/or destination of the services can be in any Member
+State of the European Community, independently of the
+Member State in which the bus or coach is registered or the
+Contracting Party in which the transport operator is
+established.
+3. Conditions applicable to buses and coaches
+Buses and coaches used to carry out international
+occasional services covered by the INTERBUS Agreement
+shall comply with the technical standards according to
+Article 5 and Annex 2 of such Agreement
+4. Information concerning the completion of the waybill.
+4.1. For each journey carried out as an occasional
+service the transport operator must complete a passenger
+waybill in duplicate, before the start of the journey.
+For the purpose of providing the names of passengers,
+the transport operator may use a list previously completed
+on a separate sheet, which shall be annexed to the
+passenger waybill. The transport operator’s stamp or,
+where appropriate, the transport operator’s signature or
+that of the driver of the vehicle must be placed both on the
+list and on the passenger waybill.
+For services where the outward journey is made
+unladen, the list of passengers may be completed as
+provided above at the time when the passengers are taken
+up.
+The top copy of the passenger waybill must be kept on
+board the bus or coach throughout the journey and be
+produced whenever required by any authorised inspecting
+officer.
+4.2. For services where the outward journey is made
+unladen, referred to in point 4C of the waybill, the
+transport operator must attach the following supporting
+documents to the passenger control document.
+— in cases mentioned under 4 C1: the copy of the
+contract of carriage in so far as some countries require it,
+or any other equivalent document which establishes the
+essential data of this contract (especially place, country and
+date of conclusion, place, country and date when
+passengers are taken up, place and country of destination);
+— in the case of services falling within 4 C1: the
+passenger waybill which accompanied the bus or coach
+during the corresponding journey made by the transport
+operator outward laden/return unladen in order to bring
+the passengers into the territory of the Contracting Party
+where they are taken up again;
+— in the case of services falling within 4 C3: the letter
+of invitation from the person issuing the invitation or a
+photocopy thereof.
+4.3. In the course of occasional services no passenger
+may be taken up or set down during the journey, save for
+exemption authorised by the competent authorities. In that
+case an authorisation is needed.
+4.4. The transport operator is responsible for seeing
+that passenger waybills are duly and correctly completed.
+They shall be completed in block letters and in indelible
+ink.
+5. The book of waybills is not transferable.
+
+INTERBUS (PASSENGER WAYBILL — RECTO) (Green coloured paper- DIN A4 = 29.7×21 cm)
+(To be worded in the official language(s) or one of the official languages of
+the Contracting Party where the transport operator is established)
+Book No ..................
+Waybill No ..............
+(State in which the document is issued)
+— Distinguishing sign of the country
+Vehicle Registration Number Number of Passenger seats available
+
+Name or Trade name of transport operator
+...........................................................................................
+...........................................................................................
+...........................................................................................
+
+Name of Driver or Drivers
+1 ........................................................................................
+2 ........................................................................................
+3 ........................................................................................
+Type of service (put a cross in the appropriate box and add the required supplementary information
+A
+Closed-Door Tours
+B
+Outward journey laden/
+Return journey unladen
+✪ Locality where passengers are set down and distinguishing
+sign of the country ...............................................................
+
+C
+Outward journey unladen and all the passengers
+are taken up in the same place and transported
+to the country in which the transport operator is established.
+✪ Locality where passengers are picked up and distinguishing sign of
+the country ............................................................................................
+C1 a) The passengers were grouped together, under a contract of carriage made on ...................................... (Date)
+With ................................................................................................................. (travel agency, association, etc.)
+b) The passengers were grouped together on the territory of:
+a) non contracting Party ……………………………… (Name of this country)
+b) Contracting Party other than that in which the transport operator is established ……………… (Name of this country)
+c) Place and Contracting Party where the Passengers have been taken up …………………………… (Name of this country)
+d) To be carried to the Contracting Party of establishment of the transport operator ………………… (Name of this country)
+• Copy of the contract of carriage or equivalent document is attached (cf. Important notice point 4).
+C2 Passengers have previously been brought by the same transport operator on a service referred to in B, to the contracting Party
+in which they are to be taken up again and carried out into the territory of the Contracting Party in which the transport operator
+is established
+• The passenger waybill for the previous outward laden journey and unladen return journey is attached.
+C3 Passengers have been invited to travel to .................................................. (Name of the place and country)
+Cost of transport being borne by the person issuing the invitation and the passengers constitute a homogeneous group which
+has not been formed solely with a view to undertaking that particular journey. The letter of invitation (or a photocopy thereof)
+is attached.
+The group is brought into the territory of the Contracting Party where the transport operator is established.
+
+(Passenger waybill — verso)
+
+Itinerary Daily Stages
+Dates
+from
+Locality / Country
+to
+Locality / Country
+Km
+Laden
+Km
+Unladen
+Border-crossing
+points
+
+List of passengers
+1 22 43
+2 23 44
+3 24 45
+4 25 46
+5 26 47
+6 27 48
+7 28 49
+8 29 50
+9 30 51
+10 31 52
+11 32 53
+12 33 54
+13 34 55
+14 35 56
+15 36 57
+16 37 58
+17 38 59
+18 39 60
+19 40 61
+20 41 62
+21 42 63
+7 Date of completion of waybill Signature of the transport operator
+8 Unforeseen changes
+9 Control stamps if
+any
+(Item 6, if necessary, can be completed on a separate sheet that will be firmly stuck to this document)
+
+Annex 4
+Model of application for an authorisation for an international occasional service
+(White paper — A4)
+To be worded in the official language(s) or one of the official languages
+of the Contracting Parties where the request is made
+APPLICATION FOR AN AUTHORISATION
+TO START AN INTERNATIONAL OCCASIONAL SERVICE
+carried out by coach or bus
+between Contracting Parties
+in accordance with Article 7 of the Agreement on the International
+Occasional Carriage of Passengers by Coach or Bus
+(INTERBUS Agreement)
+----------------------------------------------------------------------------------------------------
+------
+(Competent authority of the Contracting Party from which the service departs,
+namely, the first pick up point for passengers)
+1. Information concerning the applicant for authorisation:
+Name or trade name: ...................................................................................................................................................
+Address: .......................................................................................................................................................................
+Country: .......................................................................................................................................................................
+Tel.: ..............................................................................................................................................................................
+Fax: ..............................................................................................................................................................................
+
+(Second page of the application)
+2. Purpose, reasons and description of the occasional service:
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+3. Information concerning the route:
+a) Place of departure of service: .................................... Country: ........................................................................
+b) Place of destination of service: .................................. Country: ........................................................................
+Principal route of service and border crossing points
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+Countries whose territory is crossed without passengers being picked up or set down
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+4. Date of carrying out of service: ...................................................................................................................................
+5. Number of registration of bus(es) or coach (es): ........................................................................................................
+6. Any additional information:..........................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+7. ........................................................ ........................................................
+(Place and date) (signature of applicant)
+
+(Third page of the application)
+Important notice
+1. Transport operators shall fill in the application form and attach evidence that the applicant has a licence to undertake
+carriage by means of international occasional services by coach and bus referred to in Article 1 (1) a) second indent of
+the INTERBUS agreement.
+2. Occasional services other than those referred to in Article 6 of the INTERBUS agreement shall be subject to authorisation
+namely, services other than the following:
+1. Closed-door tours, that is to say services whereby the same bus or coach is used to carry the same group of passengers
+throughout the journey and to bring them back to the place of departure. The place of departure is in the territory of
+the Contracting Party in which the transport operator is established.
+2. Services which make the outward journey laden and the return journey unladen. The place of departure is in the
+territory of the Contracting Party in which the transport operator is established.
+3. Services during which the outward journey is made unladen and all the passengers are taken up in the same place,
+provided that one of the following conditions is met :
+a) passengers constitute groups, on the territory of a non-Contracting Party or of a Contracting Party other than that
+in which the transport operator is established or that where the passengers are taken up, that have been formed
+under contracts of carriage made before their arrival in the territory of the latter Contracting Party. Passengers are
+carried on the territory of the Contracting Party in which the transport operator is established.
+b) passengers have been previously brought, by the same transport operator in the circumstances provided for under
+point 2, into the territory of the Contracting Party where they are taken up again and carried into the territory of
+the Contracting Party in which the transport operator is established.
+c) passengers have been invited to travel into the territory of another Contracting Party, the cost of transport being
+borne by the person issuing the invitation. Such passengers must constitute a homogeneous group, which has not
+been formed solely with a view to undertaking that particular journey and which is brought into the territory of the
+Contracting Party in which the transport operator is established.
+4. Transit operations through Contracting Parties in conjunction with occasional services that are exempted from
+authorisation shall also be exempted from authorisation.
+5. Unladen buses and coaches to be used exclusively for the replacement of a bus or coach damaged or broken down
+while performing an international service covered by this Agreement shall also be exempted from authorisation.
+For services provided by transport operators established within the European Community, the points of departure and/or
+destination of the services can be in any Member State of the European Community, independently of the Member State
+in which the bus or coach is registered or the Member State in which the transport operator is established
+3. The application shall be made to the competent authority of the Contracting Party in which the service departs, namely,
+the first pick-up point for passengers.
+4. The buses and coaches to be used shall be registered on the territory of the Contracting Party of establishment of the
+transport operator.
+5. The buses and coaches used to carry out international occasional services covered by the INTERBUS Agreement shall
+comply with the technical standards laid down in Annex 2 of that agreement.
+
+Annex 5
+Model of authorisation for non-liberalised occasional services
+(First page of authorisation)
+(Pink paper — A4)
+To be worded in the official language(s) or one of the official languages
+of the Contracting Parties issuing the authorisation
+ISSUING CONTRACTING PARTY COMPETENT AUTHORITY
+— International distinguishing sign5 — (Stamp)
+AUTHORISATION No …………
+for an international occasional service
+carried out by coach
+or bus between Contracting Parties
+in accordance with Article 7 of the Agreement on the
+International Occasional Carriage of Passengers by
+Coach and Bus
+(INTERBUS Agreement)
+to: .................................................................................................................................................................................
+(Surname, first name or trade name of transport operator)
+Address: .......................................................................................................................................................................
+Country: .......................................................................................................................................................................
+Tel: ...............................................................................................................................................................................
+Fax: ..............................................................................................................................................................................
+.......................................................................................................................................................................................
+................................................................... ...................................................................
+(Place and date of issue) (Signature and stamp of issuing authority)
+5 Belgium (B), Denmark (Dk), Germany (D), Grece (GR), Spain (E), France (F), Ireland (IRL), Italy (I), Luxembourg (L), Netherlands (NL), Portugal (P),
+United Kingdom (UK), Finland (FIN), Austria (A), Sweden (S), Bulgaria (BG), Czech Republic (CZ), Estonia (EST), Hungary (H), Lithuania (LT), Latvia
+(LV), Poland (PL), Romania (RO), Slovak Republic (SK), Slovenia (SLO) to be completed.
+
+(Second page of authorisation)
+1. Purpose, reasons and description of the occasional service:
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+2. Information concerning the route:
+a) Place of departure of service: ...................................... Country: .......................................................................
+b) Place of destination of service: .................................... Country: ......................................................................
+Principal route of service and border crossing points:
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+3. Date of provision of the service: ..................................................................................................................................
+4. Registration number of the bus(es) or coach(es): ........................................................................................................
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+5. Other conditions:
+.......................................................................................................................................................................................
+.......................................................................................................................................................................................
+6. Passenger list attached.
+………………………………………
+(Stamp of authority issuing authorisation)
+
+(Third page of authorisation)
+To be worded in the official language(s) or one of the official languages of the
+Contracting Parties issuing the authorisation
+Important notice
+1. The authorisation is valid for the entire journey. It may only be used by a transport operator whose name and registration
+number of the bus or coach is indicated thereon.
+2. The authorisation shall be kept on the bus or coach for the duration of the journey and shall be presented whenever
+enforcement officials so request.
+3. The list of passengers is to be annexed to this authorisation.
+
+MODEL OF DECLARATION
+TO BE MADE BY INTERBUS CONTRACTING PARTIES
+CONCERNING ARTICLE 4 AND ANNEX 1
+Conditions applying to road passenger transport operators
+DECLARATION BY ……………………………………………………………………… (Name ofthe Contracting Party)
+CONCERNING ARTICLE 4 AND ANNEX 1
+1. The three conditions established in Title I of Council Directive 96/26/EC of 29 April 1996 on admission to the occupation
+of road haulage operator and road passenger transport operator and mutual recognition of diplomas, certificates and other
+evidence of formal qualification intended to facilitate for these operators the right to freedom of establishment in national
+and international transport operations (Official Journal of the European Communities L 124 of 23. 5. 1996, p. 1), as last
+amended by Council Directive 98/76/EC of 1 October 1998, (Official Journal of the European Community L 277
+of 14. 1. 1998. p. 17).
+a) have been introduced in the national legislation by
+…………………………………………… (reference to the Law);
+b) will be introduced in the national legislation
+…………………………………………… (date).
+2. As far as the condition concerning the „appropriate financial standing” is concerned, the existing legislation establishes
+that the transport operator must have available capital and reserves of at least:
+— EUR …………………………………………………… (or equivalent in national currency) per vehicle used or
+— EUR …………………………………………………… (or equivalent in national currency) per seat of the
+passenger transport buses or coaches used by the transport operator.
+It is envisaged that the amount of the „appropriate financial standing” will be adapted to the requirements of Directive
+96/26/EC on ………………………… (date, or no later than 1.1.2005).
+
+Megállapodás
+az autóbusszal végzett nem menetrend szerinti
+személyszállításról
+(INTERBUS Megállapodás)
+A Szerződő Felek
+azzal a szándékkal, hogy előmozdítsák az európai nem-
+zetközi közlekedés fejlődését, különös tekintettel annak
+szervezésére és üzemeltetésére,
+azzal a szándékkal, hogy megkönnyítsék a Szerződő Fe-
+lek közötti idegenforgalmat és kölcsönös kulturális forgal-
+mat,
+mivel az autóbusszal végzett nemzetközi különjárati
+személyszállításról szóló, 1982. május 26-án Dublinban
+aláírt Megállapodás (ASOR) nem teszi lehetővé új felek
+csatlakozását,
+mivel az utóbb említett Megállapodás eredményekép-
+pen szerzett tapasztalatokat és kialakult liberalizációt meg
+kell őrizni,
+mivel célszerű összehangolt szabályozást bevezetni
+egyes nemzetközi autóbusz-különjáratok és azok tranzit-
+forgalomban
+történő
+közlekedésének
+liberalizációjával
+kapcsolatban,
+mivel célszerű a nem liberalizált, következésképpen
+még mindig engedélyköteles nemzetközi különjáratokat
+összehangolt eljárási szabályokkal szabályozni,
+mivel a biztonságosabb közúti közlekedés és a környezet
+fokozott védelme érdekében szükség van a Szerződő Felek
+között nemzetközi különjáratként közlekedő autóbuszok-
+ra vonatkozó műszaki feltételek nagyfokú összehangoltsá-
+gára,
+mivel a Szerződő Feleknek a nemzetközi közúti közle-
+kedésben részt vevő autóbuszok személyzetének munkáját
+illetően egységes intézkedéseket kell alkalmazniuk,
+mivel a közúti személyszállító vállalkozói szakmába való
+bejutás feltételeit célszerű összehangolni,
+mivel a szállítási vállalkozó állampolgársága vagy szék-
+helye, és az autóbusz indulási helye vagy célállomása sze-
+rinti diszkriminációmentesség elvét a nemzetközi szállítási
+szolgáltatások alapfeltételének kell tekinteni,
+mivel az ellenőrzések egyszerűsítése és megkönnyítése
+érdekében egységes mintán alapuló szállítási okmányokat
+— így például a liberalizált különjáratokhoz ellenőrző ok-
+mányokat, a nem liberalizált járatokhoz engedélyt és enge-
+délykérelmet — kell biztosítani,
+mivel a Megállapodás végrehajtása — különösen az el-
+lenőrzési eljárások, a büntetések és a kölcsönös segítség-
+nyújtás — területén összehangolt intézkedésekre van szük-
+ség,
+mivel a Megállapodás irányítására meghatározott eljá-
+rásokat szükséges kialakítani a Megállapodás megfelelő
+végrehajtása, valamint a mellékletek műszaki szempontból
+történő módosításának lehetősége érdekében,
+mivel a Megállapodásnak nyitottnak kell lennie, és lehe-
+tővé kell tennie a Közlekedési Miniszterek Európai Kon-
+ferenciája (CEMT) későbbi tagjainak és egyes más európai
+országoknak a csatlakozását,
+elhatározták, hogy egységes szabályokat dolgoznak ki az
+autóbusszal végzett nemzetközi különjárati személyszállí-
+tásra,
+az alábbiakban állapodtak meg:
+I. Fejezet
+A MEGÁLLAPODÁS HATÁLYA
+ÉS
+MEGHATÁROZÁSOK
+1. cikk
+Hatály
+1. A Megállapodás hatálya alá tartoznak a következők:
+a) bármilyen állampolgárságú utasok nem menetrend
+szerint történő nemzetközi közúti szállítása,
+— két Szerződő Fél területe között, vagy ugyanazon
+Szerződő Fél területén megkezdve és befejezve, de az út
+során szükség esetén egy másik Szerződő Fél területén
+vagy valamely nem szerződő állam területén tranzitban
+áthaladva;
+— amelyet valamelyik Szerződő Fél országában alapí-
+tott fizetés vagy díjazás ellenében szolgáltatást végző szál-
+lítási vállalkozók saját országuk jogszabályaival összhang-
+ban és autóbusszal történő nemzetközi nem menetrend
+szerinti személyszállítás végzésére jogosító engedély birto-
+kában végeznek;
+— amely azon Szerződő Fél területén bejegyezett autó-
+buszokkal történik, ahol a szállítási vállalkozó székhelye
+található.
+b) az ilyen járatokra használt autóbuszok üresen meg-
+tett útjai.
+2. A Megállapodás egyetlen rendelkezése sem értel-
+mezhető úgy, mintha lehetőséget adna az egyik Szerződő
+Fél területén székhellyel rendelkező szállítási vállalkozók-
+nak egy másik Szerződő Fél területén belföldi nem menet-
+rend szerinti járatok közlekedtetésére.
+
+3. A személyszállításra tervezett autóbuszok kereske-
+delmi célú áruszállításra való használata nem tartozik a
+Megállapodás hatálya alá.
+4. A Megállapodás nem vonatkozik a sajátszámlás kü-
+lönjáratokra.
+2. cikk
+Diszkriminációmentesség
+A Szerződő Feleknek biztosítaniuk kell a szállítási vál-
+lalkozó állampolgársága vagy székhelye, illetve az autóbusz
+indulási helye vagy célállomása szerinti diszkrimináció-
+mentesség elvének érvényesülését, különös tekintettel a
+VI. fejezetben rögzített pénzügyi előírásokra, valamint a
+IX. fejezet szerinti ellenőrzésekre és büntetésekre.
+3. cikk
+Meghatározások
+A jelen Megállapodás alkalmazásában az alábbi meg-
+határozások az irányadók:
+1. „Autóbuszok” — olyan járművek, amelyek felépíté-
+süknél és felszereltségüknél fogva a gépkocsivezetővel
+együtt kilencnél több személy szállítására alkalmasak, és
+erre a célra szolgálnak.
+2. „Nem menetrend szerinti járatok” — legalább két
+Szerződő Fél területe között közlekedő járatok, amelyek
+nem tartoznak sem a menetrend szerinti járat, sem a kü-
+lönleges menetrend szerinti járat, sem az ingajárat fogal-
+mába. Az ilyen járatok akkor is különjáratnak minősülnek,
+ha bizonyos gyakorisággal üzemeltetik azokat.
+3. „Menetrend szerinti járatok” — olyan járatok, ame-
+lyek személyek szállítását meghatározott gyakorisággal és
+meghatározott útvonalon látják el, és előre meghatározott
+megállóhelyeken veszik fel és szállítják le az utasokat. A
+menetrend szerinti járatokhoz előre meghatározott, köte-
+lezően betartandó menetrendet és díjszabást írhatnak elő.
+4. „Különleges menetrend szerinti járatok” — olyan
+járatok, amelyek a szervező személyétől függetlenül más
+utasok kizárásával az utasok meghatározott csoportjainak
+szállítását biztosítják, amennyiben az ilyen járatot a 3. pont
+feltételei szerint üzemeltetik. A különleges menetrend sze-
+rinti járatok magukban foglalják
+— dolgozók szállítását lakásuk és munkahelyük között;
+-— iskolások és diákok tanintézetbe való oda- és
+visszaszállítását.
+A különleges menetrend szerinti járat az igénybe vevői
+kör igényeinek megfelelő változtatása esetén is menetrend
+szerinti járatnak minősül.
+5. (1) „Ingajárat” — olyan járat, amelynek során több-
+szöri oda- és visszaúton utasok előre kialakított csoportjait
+szállítják azonos indulási helytől azonos célállomásig. Az
+odaúton szállított utascsoportot egy későbbi út során
+ugyanaz a szállítási vállalkozó szállítja vissza az indulási
+helyre.
+Az indulási hely és a célállomás az a hely, ahonnan az
+utazás indul, illetve ahol véget ér, mindenkor beleértve a
+környező 50 km-es körzeten belüli helyiségeket is.
+(2) Ingajárat esetén útközben nem szállhatnak fel és le
+utasok.
+(3) Többszöri ingázáskor az első visszaút és az utolsó
+odaút üresjárat.
+(4) Egy szállítási művelet ingajárati minősítését azon-
+ban nem befolyásolja az, ha az érintett Szerződő Fél vagy
+Felek illetékes hatóságainak hozzájárulásával
+— az utasok az 1. albekezdésben foglaltakkal ellentét-
+ben másik csoporttal vagy szállítási vállalkozóval térnek
+vissza;
+— a 2. albekezdésben foglaltakkal ellentétben útköz-
+ben utasok szállnak fel vagy le;
+— többszöri ingázáskor az első odaút és az utolsó
+visszaút a 3. albekezdésben foglaltakkal ellentétben üres-
+járat.
+6. „Szerződő Felek” — azon aláíró felek, amelyek ma-
+gukra nézve kötelezőnek fogadják el a Megállapodást, és
+akikre vonatkozóan a Megállapodás létrejött.
+E Megállapodás azokra a területekre alkalmazandó,
+amelyekre az Európai Közösséget létrehozó Egyezmény is
+vonatkozik, és a szóban forgó Egyezményben foglalt felté-
+telek vonatkoznak rá, valamint Bosznia-Hercegovinára,
+Bulgáriára, Horvátországra, a Cseh Köztársaságra, Észtor-
+szágra, Magyarországra, Lettországra, Litvániára, Moldo-
+vára, Lengyelországra, Romániára, Szlovákiára, Szlové-
+niára és Törökországra, amennyiben aláírták a Megállapo-
+dást.
+7. „Illetékes hatóságok” — a Közösség tagállamai és a
+többi Szerződő Fél által a Megállapodás V., VI., VII., VIII.
+és IX. fejezetében előírt feladatok elvégzésére kijelölt ha-
+tóságok.
+8. „Tranzit” — a szállítási művelet azon része, amikor
+az autóbusz úgy halad keresztül valamely Szerződő Fél
+területén, hogy közben nem vesz fel és nem szállít le uta-
+sokat.
+II. Fejezet
+A KÖZÚTI SZEMÉLYSZÁLLÍTÁST VÉGZŐ
+VÁLLALKOZÓKRA VONATKOZÓ FELTÉTELEK
+4. cikk
+1. Ha még nem tették meg, a Szerződő Feleknek az
+Európai Közösség 1. mellékletben hivatkozott irány-
+elvével bevezetett rendelkezéseknek megfelelő rendelke-
+zéseket kell alkalmazniuk.
+
+2. Ami az irányelv3. cikke 3. bekezdésében hivatkozott,
+megfelelő pénzügyi teljesítőképességre vonatkozó feltételt
+illeti, a Szerződő Felek kérhetik, hogy a minimálisan ren-
+delkezésre álló tőke és tartalék 2003. január 1-jéig vagy
+akár 2005. január 1-jéig alacsonyabb legyen az említett
+3. bekezdés c) pontjában szereplő összegnél, az utóbbi
+esetben azzal a feltétellel, hogy a Megállapodás ratifikálá-
+sakor megfelelő nyilatkozatot tesznek, amely nem érinti az
+Európai Közösség és tagállamai, valamint az e Megállapo-
+dás egyes aláírói közötti társulást létrehozó Európai Meg-
+állapodásban foglalt feltételeket.
+III. Fejezet
+JÁRMŰVEKRE VONATKOZÓ MŰSZAKI
+FELTÉTELEK
+5. cikk
+A Megállapodás hatálya alá tartozó nemzetközi nem
+menetrend szerinti személyszállítás végzésére használt au-
+tóbuszok meg kell hogy feleljenek a 2. mellékletben sze-
+replő műszaki előírásoknak.
+IV. Fejezet
+A PIACHOZ VALÓ HOZZÁFÉRÉS
+6. cikk
+Liberalizált különjáratok
+Az alábbi különjáratokat a szállítási vállalkozó szék-
+helye szerinti Szerződő Fél területén kívül nem kell más
+Szerződő Fél területén engedélyeztetni:
+1. Körutazás zárt ajtókkal,
+vagyis olyan járatok, ahol egész úton ugyanaz az autó-
+busz szállítja és ugyanaz az autóbusz viszi vissza az indulási
+helyre az utasok ugyanazon csoportját. Az indulási hely a
+szállítási vállalkozó székhelye szerinti Szerződő Fél terüle-
+tén található.
+2. Olyan járatok, amelyek odafelé utasokkal, visszafelé
+pedig üresen közlekednek. Az indulás helye a szállítási
+vállalkozó székhelye szerinti Szerződő Fél területén talál-
+ható.
+3. Olyan járatok, amelyek odafelé üresen közlekednek,
+és az összes utast ugyanazon a helyen veszik fel, amennyi-
+ben teljesül az alábbi feltételek valamelyike:
+a) az utascsoportot nem Szerződő Fél területén, nem a
+szállítási vállalkozó székhelye szerinti Szerződő Fél terüle-
+tén, vagy pedig az utasok felvételének helye szerinti Szer-
+ződő Fél területén szervezték az utolsóként említett Szer-
+ződő Fél területére való megérkezésük előtt kötött szállí-
+tási szerződés alapján. Az utasokat a szállítási vállalkozó
+székhelye szerinti Szerződő Fél területére szállítják;
+b) az utasokat előzőleg ugyanaz a szállítási vállalkozó
+szállította — a 2. pontban ismertetett körülmények között
+— azon Szerződő Fél területére, ahol ismét felveszi, majd
+a székhelye szerinti Szerződő Fél területére szállítja őket;
+c) az utasokat meghívták valamely másik Szerződő Fél
+területére történő utazásra, melynek költségeit a meghívó
+fedezi. Az ilyen utasoknak homogén csoportot kell alkot-
+niuk, amely nemcsak az adott utazásra jött létre, és amelyet
+a szállítási vállalkozó székhelye szerinti Szerződő Fél terü-
+letére szállítanak.
+Ugyancsak nincs szükség engedélyre a következőkhöz:
+4. A Szerződő Felek területén keresztüli tranzitműve-
+letekhez, amennyiben azokra nem engedélyköteles nem
+menetrend szerinti járatokkal kapcsolatban kerül sor.
+5. Azokhoz az üresen közlekedő autóbuszokhoz, ame-
+lyekkel kizárólag a Megállapodás hatálya alá tartozó nem-
+zetközi szállítási művelet során megsérült vagy meghibáso-
+dott autóbuszt kívánják pótolni.
+Az Európai Közösségen belül székhellyel rendelkező
+szállítási vállalkozók járatainak indulási helye és/vagy cél-
+állomása az Európai Közösség bármely tagállamában le-
+het, függetlenül attól, hogy melyik tagállamban tartják
+nyilván az autóbuszt, vagy melyik tagállamban van a szállí-
+tási vállalkozó székhelye.
+7. cikk
+Nem liberalizált különjáratok
+1. A 6. cikkben hivatkozotton kívüli különjáratokra a
+15. cikkben foglaltak szerint engedélyt kell szerezni.
+2. Az Európai Közösségen belül székhellyel rendelkező
+szállítási vállalkozók járatainak indulási helye és/vagy cél-
+állomása az Európai Közösség bármely tagállamában le-
+het, függetlenül attól, hogy melyik tagállamban tartják
+nyilván az autóbuszt, vagy melyik tagállamban van a szállí-
+tási vállalkozó székhelye.
+V. Fejezet
+SZOCIÁLIS RENDELKEZÉSEK
+8. cikk
+Ha még nem tették meg, akkor a Megállapodásban ré-
+szes szerződő feleknek csatlakozniuk kell az 1970. július
+1-jén létrejött, később módosított AETR Egyezményhez
+(a nemzetközi közúti közlekedésben részt vevő gépjármű-
+vek személyzetének munkájára vonatkozó európai egyez-
+ményhez), vagy a 3820/85 és 3821/85 közösségi rendeletek-
+nek a Megállapodás hatálybalépésekor érvényben lévő vál-
+tozatát kell alkalmazniuk.
+
+VI. Fejezet
+VÁM- ÉS ADÓÜGYI RENDELKEZÉSEK
+9. cikk
+1. A Megállapodás szerinti szállítási műveletekben
+részt vevő autóbuszok mentesülnek a járművek forgalom-
+ba helyezésével vagy birtoklásával kapcsolatos minden
+gépjárműadó és -illeték, valamint a többi Szerződő Fél
+területén a szállítási műveletekre kivetett valamennyi kü-
+lön adó és illeték alól.
+Az autóbuszok nem mentesülnek az üzemanyagadók és
+-illetékek, a közlekedési szolgáltatásokra kivetett hozzá-
+adottérték-adó, valamint az autópályadíjak és az infra-
+struktúra használatáért felszámított használati díjak meg-
+fizetése alól.
+2. A Szerződő Felek biztosítják, hogy ugyanazon útsza-
+kasz használatáért ne kelljen egyszerre autópályadíjat és
+másfajta használati díjat is fizetni. A Szerződő Felek azon-
+ban hidak, alagutak és hágón átvezető utak használatáért
+autópályadíjat is kivethetnek azokon az útszakaszokon,
+ahol használati díj van érvényben.
+3. Az autóbuszok e célra gyárilag rendszeresített üzem-
+anyagtartályaiban lévő, legfeljebb 600 liter mennyiségű
+üzemanyag, valamint az autóbuszban lévő, kizárólag annak
+működtetéséhez szükséges kenőanyag mentesül a behoza-
+tali vám, valamint a többi Szerződő Félnél kivetett minden
+egyéb adó és fizetési kötelezettség alól.
+4. A 23. cikk alapján felállított Vegyes Bizottság listát
+állít össze az egyes Szerződő Felek autóbusszal végzett
+közúti személyszállítással kapcsolatos adóiról. Ugyanezen
+a listán szerepelnek azok a jelen cikk 1. pont 1. bekezdésé-
+ben szabályozott adók, amelyek csak annak a Szerződő
+Félnek az országában vethetők ki, ahol a járművet nyilván-
+tartásba vették. A szóban forgó listán szerepelnek azok a
+jelen cikk 1. pont 2. bekezdésének rendelkezései alá eső
+adók is, amelyeket a járművet nyilvántartó Szerződő Félen
+kívüli Szerződő Felek országában vethetnek ki. Az a Szer-
+ződő Fél, amely a hivatkozott listákon szereplő adók vala-
+melyikét egy másik ugyanolyan vagy másfajta adóval he-
+lyettesíti, a szükséges módosítások végrehajtása érdekében
+értesíti a Vegyes Bizottságot.
+5. A nemzetközi közúti személyszállítási művelet vég-
+zése közben megsérült autóbusz javítása céljából behozott
+tartalékalkatrészek és szerszámok mentesülnek a másik
+Szerződő Fél területére történő behozataluk időpontjában
+érvényes vám, minden adó és illeték alól, e Szerződő Fél-
+nek az ilyen áruk ideiglenes behozatalára vonatkozó elő-
+írásai alapján. A kicserélt alkatrészeket vissza kell szállíta-
+ni, vagy a másik Szerződő Fél illetékes vámhatóságának
+felügyelete mellett meg kell semmisíteni.
+VII. Fejezet
+A NEM ENGEDÉLYKÖTELES NEM MENETREND
+SZERINTI JÁRATOK ELLENŐRZÉSI OKMÁNYAI
+10. cikk
+A 6. cikkben hivatkozott járatokat a szállítási vállalkozó
+székhelye szerinti Szerződő Fél illetékes hatósága vagy
+bármely hivatalosan megbízott szerve által kiállított ellen-
+őrzési okmány birtokában kell üzemeltetni.
+11. cikk
+1. Az ellenőrzési okmány 25 darab kitéphető kétpéldá-
+nyos személyszállítási menetlevelet tartalmazó tömb. Az
+ellenőrzési okmány meg kell hogy feleljen a Megállapodás
+3. mellékletében bemutatott mintának.
+2. Az egyes tömbök és a bennük lévő személyszállítási
+menetlevelek meg vannak számozva. A személyszállítási
+menetleveleket is 1-től 25-ig folyamatos sorszámmal kell
+ellátni.
+3. A tömb borítóján és a személyszállítási menetlevele-
+ken a szállítási vállalkozó székhelye szerinti Szerződő Fél
+hivatalos nyelvén vagy több hivatalos nyelvén kell kinyom-
+tatni a szöveget.
+12. cikk
+1. A 11. cikkben hivatkozott tömböt a szállítási vállal-
+kozó nevére kell kiállítani; nem szabad átruházni.
+2. Az adott útra vonatkozó személyszállítási menetlevél
+első példányát a vonatkozó út során mindvégig az autó-
+buszon kell tartani.
+3. A szállítási vállalkozó felelős a személyszállítási me-
+netlevél megfelelő és pontos kitöltéséért.
+13. cikk
+1. A szállítási vállalkozó minden nem menetrend sze-
+rinti járat esetében az út megkezdése előtt köteles kiállíta-
+ni a kétpéldányos személyszállítási menetlevelet.
+2. Az utasok nevének megadása céljából a szállítási
+vállalkozó használhat egy külön lapon már meglévő név-
+sort is, amelyet hozzá kell tűznie a menetlevélhez. Az
+utaslistán és a személyszállítási menetlevélen szerepelnie
+kell a szállítási vállalkozó bélyegzőjének, valamint szükség
+esetén a szállítási vállalkozó vagy az autóbuszvezető alá-
+írásának.
+3. A Megállapodás 6. cikke 3. pontjában hivatkozott,
+azon járatok esetében, amelyek az odautat üresen teszik
+
+meg, az utaslistát a 2. bekezdésben foglaltaknak megfele-
+lően az utasok felvételekor is ki lehet tölteni.
+14. cikk
+Két vagy több Szerződő Fél illetékes hatóságai megálla-
+podhatnak abban, hogy az utaslistát nem követelik meg. Ez
+esetben az utasok számát az ellenőrzési okmányon fel kell
+tüntetni.
+A 23. cikk szerinti Vegyes Bizottságot tájékoztatni kell
+ezekről a megállapodásokról.
+VIII. Fejezet
+A NEM LIBERALIZÁLT NEM MENETREND
+SZERINTI JÁRATOK ENGEDÉLYEZTETÉSE
+15. cikk
+1. Minden olyan különjárat számára, amelynek libera-
+lizálása még nem történt meg a 6. cikk alapján, engedélyt
+kell kiadni azon Szerződő Felek illetékes hatóságainak
+kölcsönös megállapodása alapján, amelyek területén az
+utasok fel- vagy leszállnak és az autóbusz tranzitban átha-
+lad. Amennyiben az indulási hely vagy a célállomás az
+Európai Közösség valamely tagállamában található, úgy a
+Közösség más tagállamain keresztüli tranzithoz nem kell
+engedély.
+2. Az engedélyt az 5. mellékletben szereplő minta sze-
+rint kell elkészíteni.
+16. cikk
+Engedélykérelem
+1. A szállítási vállalkozónak az indulási hely szerinti
+Szerződő Fél illetékes hatóságához kell benyújtania az
+engedélykérelmet.
+A kérelmet a 4. mellékletben szereplő minta szerint kell
+elkészíteni.
+2. A szállítási vállalkozónak ki kell töltenie azengedély-
+kérelmet, és mellékelnie kell annak igazolását, hogy a kér-
+vényező az 1/1. a) cikk második francia bekezdésének meg-
+felelően, autóbusszal történő nemzetközi nem menetrend
+szerinti járati személyszállítás végzésére jogosult.
+3. Azon Szerződő Fél illetékes hatósága, amelynek te-
+rületén az indulási hely található, elbírálja az érintett járat-
+ra vonatkozó engedélykérelmet, és jóváhagyása esetén a
+célállomás helye szerinti Szerződő Fél, illetve a tranzit
+szerinti Szerződő Fél/Felek illetékes hatóságához/hatósá-
+gaihoz továbbítja azokat jóváhagyás végett.
+4. A 15. cikk 1. bekezdésétől eltérően, azon Szerződő
+Felek, amelyek területén az autóbusz tranzitban áthalad,
+dönthetnek úgy is, hogy egyetértésük a továbbiakban nem
+szükséges az ezen fejezet alapján indítandó járatokhoz. Ez
+esetben a 23. cikk alapján létrehozott Vegyes Bizottságot
+tájékoztatniuk kell a döntésről.
+5. Azon Szerződő Fél/Felek illetékes hatóságai,
+amely(ek) jóváhagyását kérték, a szállítási vállalkozó ál-
+lampolgársága, illetve székhelye szerinti diszkrimináció
+nélkül egy hónapon belül köteles(ek) kiadni az engedélyt.
+Amennyiben e hatóságok nem állapodnak meg az engedély
+feltételeiről, az okokról tájékoztatniuk kell az érintett
+Szerződő Fél/Felek illetékes hatóságait.
+17. cikk
+Két vagy több Szerződő Fél illetékes hatóságai a közöt-
+tük bonyolódó forgalomra vonatkozóan megállapodhat-
+nak az engedélyezési eljárás, valamint az engedélykérel-
+mek és engedélyek mintáinak egyszerűsítéséről. Az ilyen
+megállapodásokról tájékoztatni kell a 23. cikk alapján lét-
+rehozott Vegyes Bizottságot.
+IX. Fejezet
+ELLENŐRZÉSEK, BÜNTETÉSEK ÉS KÖLCSÖNÖS
+SEGÍTSÉGNYÚJTÁS
+18. cikk
+A 10. cikkben hivatkozott ellenőrzési okmányokat, va-
+lamint a 15. cikkben hivatkozott engedélyeket az autó-
+buszon kell tartani, és az ellenőrzésre jogosult hivatalos
+személy kérésére be kell mutatni.
+19. cikk
+A Szerződő Felek illetékes hatóságainak biztosítaniuk
+kell, hogy a szállítási vállalkozók betartsák a Megállapodás
+rendelkezéseit.
+20. cikk
+Az 1/1. a) cikk második francia bekezdésében hivatko-
+zott, autóbusszal történő nemzetközi nem menetrend sze-
+rinti járatoknak a személyszállítás végzésére jogosító enge-
+dély hitelesített másodpéldányát az autóbuszon kell tarta-
+ni, és az ellenőrzésre jogosult hivatalos személy kérésére
+be kell mutatni.
+A 23. cikk alapján létrehozott Vegyes Bizottság számára
+meg kell küldeni a Szerződő Felek illetékes hatóságai által
+kiadott okmány mintáját.
+
+21. cikk
+A Szerződő Felek illetékes hatóságai kidolgozzák a
+Megállapodás megsértése esetén kiszabható büntetések
+rendszerét. A kiszabott büntetéseknek hatásosnak, ará-
+nyosnak és elrettentőnek kell lenniük.
+22. cikk
+1. Amennyiben egy külföldi szállítási vállalkozó súlyo-
+san vagy ismétlődően megsérti a közúti közlekedésre, kü-
+lönösen a vezetési időre, a pihenőidőre vagy a közúti köz-
+lekedés biztonságára vonatkozó előírásokat, ami esetleg
+okot adhat közúti személyszállítási működési engedélyé-
+nek bevonására, úgy az érintett Szerződő Fél illetékes ha-
+tóságai kötelesek tájékoztatni az illető szállítási vállalkozó
+székhelye szerinti Szerződő Fél illetékes hatóságait a sza-
+bálysértéssel és a kiszabott büntetésekkel kapcsolatos ada-
+tokról.
+2. Azon Szerződő Fél illetékes hatóságai, melynek te-
+rületén a közúti közlekedéssel — különösen a vezetési
+idővel, a pihenőidővel vagy a közúti közlekedés biztonsá-
+gával — kapcsolatos előírások súlyos vagy ismételt megsér-
+tésére került sor, átmenetileg megtilthatják az illető szállí-
+tási vállalkozónak a területükre való belépést.
+Az Európai Közösség valamely tagállamának illetékes
+hatósága csak a saját tagállama területére történő belépés-
+re vezethet be átmeneti tiltást.
+Az ilyen intézkedésről a szállítási vállalkozó székhelye
+szerinti Szerződő Fél illetékes hatóságát, valamint a
+23. cikk értelmében létrehozott Vegyes Bizottságot tájé-
+koztatni kell.
+3. Amennyiben a közúti közlekedésre, különösen a ve-
+zetési időre, a pihenőidőre és a közúti közlekedés bizton-
+ságára vonatkozó előírásokat a szállítási vállalkozó súlyo-
+san vagy ismétlődően megsérti, úgy a szállítási vállalkozó
+székhelye szerinti Szerződő Fél illetékes hatóságának meg
+kell tennie a megfelelő intézkedéseket e szabálysértések
+megismétlődésének elkerülése érdekében; ilyen intézke-
+dés lehet például a közúti személyszállító működési enge-
+délyének felfüggesztése vagy bevonása. Az intézkedésről a
+23. cikk értelmében létrehozott Vegyes Bizottságot tájé-
+koztatni kell.
+4. A Szerződő Feleknek biztosítaniuk kell a szállítási
+vállalkozó részére a kiszabott szankciókkal szembeni fel-
+lebbezés jogát.
+X. Fejezet
+A VEGYES BIZOTTSÁG
+23. cikk
+1. A Megállapodás irányítása céljából ezennel Vegyes
+Bizottság alakul. A Vegyes Bizottság a Szerződő Felek
+képviselőiből áll.
+2. A Bizottság első alkalommal a Megállapodás hatály-
+balépésétől számított 6 hónapon belül ül össze.
+3. A Bizottság saját maga állapítja meg ügyrendjét.
+4. A Vegyes Bizottság legalább egy Szerződő Fél kéré-
+sére összeül.
+5. A Vegyes Bizottság csak akkor hozhat határozatot,
+ha az Európai Közösséget is beleértve a Szerződő Felek
+kétharmada képviselteti magát a vegyes bizottsági ülésen.
+6. A Vegyes Bizottság a képviselt Szerződő Felek egy-
+hangú szavazatával hozhat határozatot. Ha az egyhangúság
+nem biztosított, akkor az érintett illetékes hatóságok —
+egy vagy több érintett Szerződő Fél kérésére — hat héten
+belül konzultációra ülnek össze.
+24. cikk
+1. A Vegyes Bizottság gondoskodik a Megállapodás
+megfelelő végrehajtásáról. A Bizottság a Megállapodás
+rendelkezéseinek végrehajtása érdekében tájékoztatást
+kap az elfogadott vagy elfogadásra váró intézkedésekről.
+2. A Vegyes Bizottság hatáskörébe különösen az aláb-
+biak tartoznak:
+a) a Szerződő Felek által szolgáltatott információk
+alapján lista összeállítása a Szerződő Felek illetékes ható-
+ságairól, amelyek felelősek a Megállapodás V., VI., VII.,
+VIII. és IX. fejezetében hivatkozott feladatokért;
+b) a Megállapodás mellékleteiben szereplő ellenőrzési
+okmányok és egyéb okmányok mintáinak módosítása vagy
+adaptálása;
+c) az autóbuszok műszaki előírásaival kapcsolatos mel-
+lékletek, valamint a 4. cikkben hivatkozott, a közúti sze-
+mélyszállítási vállalkozókra vonatkozó 1. melléklet módo-
+sítása és adaptálása, az Európai Közösség későbbiekben
+elfogadott intézkedéseinek beépítése céljából;
+d) a Szerződő Felek által szolgáltatott adatok alapján
+tájékoztató jellegű lista összeállítása a 9. cikk 4. és 5. bekez-
+désében hivatkozott valamennyi vámról, adóról és díjról;
+e) a 8. cikkben hivatkozott szociális előírásokkal kap-
+csolatos rendelkezések módosítása és adaptálása, az Euró-
+pai Közösség későbbiekben elfogadott intézkedéseinek
+beépítése céljából;
+f) a Megállapodás alkalmazásával vagy értelmezésével
+kapcsolatban felmerült vitás kérdések rendezése;
+g) javaslatok előterjesztése a még mindig engedély-
+köteles nem menetrend szerinti járatok liberalizálását cél-
+zó további lépésekre.
+3. A Szerződő Felek megteszik a megfelelő intézkedé-
+seket — szükség esetén saját belső eljárásaikkal összhang-
+ban — a Vegyes Bizottság határozatainak végrehajtása
+érdekében.
+4. Amennyiben a vita nem rendezhető e cikk 2. bekez-
+désének f) pontja szerint, akkor az érintett Szerződő Felek
+az ügyet választott bíróság elé terjeszthetik. Az érintett
+
+Szerződő Felek mindegyike kijelöl egy-egy választott bírót.
+Maga a Vegyes Bizottság is kijelöl egy választott bírót.
+A választott bíróság szótöbbséggel hozza határozatait.
+A vitában részt vevő Szerződő Feleknek meg kell ten-
+niük a választott bíróság határozatainak végrehajtásához
+szükséges lépéseket.
+XI. Fejezet
+ÁLTALÁNOS ÉS ZÁRÓ RENDELKEZÉSEK
+25. cikk
+Kétoldalú megállapodások
+1. A Megállapodás rendelkezései a Szerződő Felek kö-
+zötti megállapodások megfelelő rendelkezései helyébe
+lépnek. Ami az Európai Közösséget illeti, e rendelkezés
+bármely tagállam és egy Szerződő Fél között létrejött meg-
+állapodásokra vonatkozik.
+2. Az Európai Közösségen kívüli Szerződő Felek meg-
+állapodhatnak abban, hogy a Megállapodás 5. cikkének és
+2. mellékletének alkalmazása helyett más műszaki előírá-
+sokat alkalmaznak az országaik között különjáratként köz-
+lekedő vagy területükön áthaladó autóbuszokra.
+3. A 2. melléklet 6. cikkében foglaltaktól eltérően e
+Megállapodás rendelkezései az Európai Közösség tagálla-
+mai és más Szerződő Felek között létrejött megállapodá-
+sok megfelelő rendelkezései helyébe lépnek.
+Azok a rendelkezések azonban fenntarthatók és meg-
+újíthatók, amelyek az Európai Közösség tagállamai és más
+Szerződő Felek között érvényben lévő kétoldalú megálla-
+podások alapján felmentést adnak a 7. cikkben említett
+nem menetrend szerinti járatok engedélyeztetése alól. Er-
+ről az érintett Szerződő Feleknek haladéktalanul tájékoz-
+tatniuk kell a 23. cikk alapján létrehozott Vegyes Bizott-
+ságot.
+26. cikk
+Aláírás
+A Megállapodás 2000. április 14-től 2001. június 30-ig
+aláírásra nyitva áll Brüsszelben, az Európai Unió Tanácsá-
+nak Főtitkárságán, amely a Megállapodás letéteményese.
+27. cikk
+A Megállapodás ratifikálása vagy jóváhagyása
+és letéteményese
+A Megállapodást az aláírók saját eljárásaik szerint hagy-
+ják jóvá vagy ratifikálják. A jóváhagyási és ratifikálási ok-
+mányokat a Szerződő Felek az Európai Unió Tanácsának
+Főtitkárságán helyezik letétbe, amely értesíti az összes
+többi aláírót.
+28. cikk
+Hatálybalépés
+1. A Megállapodás a jóváhagyó vagyratifikáló Szerződő
+Felek számára az Európai Közösséget is beleszámítva négy
+Szerződő Fél jóváhagyásával vagy ratifikálásával lép ha-
+tályba a negyedik jóváhagyási vagy ratifikálási okmány le-
+tétbe helyezését követő harmadik hónap első napján, vagy
+akár a letétbe helyezést követő hatodik hónap első napján,
+ez utóbbi esetben azonban a Megállapodás ratifikálásakor
+megfelelő nyilatkozatot kell tenni.
+2. Minden olyan Szerződő Fél esetében, amely a Meg-
+állapodást az 1. bekezdésben foglalt hatálybalépést köve-
+tően hagyja jóvá vagy ratifikálja, a Megállapodás az illető
+Szerződő Fél jóváhagyási vagy ratifikálási okmányának le-
+tétbe helyezését követő harmadik hónap első napján lép
+hatályba.
+29. cikk
+A Megállapodás tartama — a Megállapodás
+működésének értékelése
+1. A Megállapodás a hatálybalépésétől számított öt évig
+marad érvényben.
+2. A Megállapodás tartama automatikusan további öt
+éves időszakokkal meghosszabbodik azon Szerződő Felek
+között, amelyek nem jelzik ettől eltérő szándékukat. Ez
+utóbbi esetben az illető Szerződő Fél a 31. cikkben foglal-
+taknak megfelelően értesíti szándékáról a Letéteményest.
+3. A Vegyes Bizottságminden ötéves időszak vége előtt
+értékeli a Megállapodás működését.
+30. cikk
+Csatlakozás
+1. A Megállapodás a hatálybalépését követően nyitva
+áll a Közlekedési Miniszterek Európai Konferenciájában
+(CEMT) teljes jogú tagként részt vevő országok csatlako-
+zására. Az Európai Gazdasági Térségről szóló megállapo-
+dást aláíró országok csatlakozása esetén ez a Megállapodás
+nem vonatkozik az Európai Gazdasági Térségről szóló
+megállapodás aláírói közötti jogviszonyra.
+2. A Megállapodás a San Marinói Köztársaság, az An-
+dorrai Hercegség és a Monacói Hercegség számára is nyit-
+va áll a csatlakozására.
+
+3. A 28. cikk szerinti hatálybalépés után csatlakozó ál-
+lamok vonatkozásában a Megállapodás az illető állam csat-
+lakozási okmányának letétbe helyezését követő harmadik
+hónap első napján lép hatályba.
+4. Megállapodáshoz a 28. cikk szerinti hatálybalépés
+után csatlakozó államoknak legfeljebb három év áll rendel-
+kezésükre az 1. mellékletben hivatkozott irányelv(ek)knek
+megfelelő rendelkezések meghozatalához. A Vegyes Bi-
+zottságot tájékoztatni kell minden ilyen meghozott intéz-
+kedésről.
+31. cikk
+Felmondás
+Bármelyik Szerződő Fél a saját részéről egy év felmon-
+dási idővel felmondhatja a Megállapodást, amiről egyide-
+jűleg a többi Szerződő Felet is értesítenie kell a Megálla-
+podás Letéteményesén keresztül. A Vegyes Bizottságot a
+felmondás okairól is tájékoztatni kell. A Megállapodás
+azonban nem mondható fel a 28. cikk szerinti hatályba-
+lépést követő első négy évben.
+Amennyiben a Megállapodást egy vagy több Szerződő
+Fél felmondja, és a Szerződő Felek száma a 28. cikk szerinti
+hatálybalépés időpontjában előírt szám alá csökken, úgy a
+Megállapodás továbbra is érvényben marad, hacsak a meg-
+maradt Szerződő Felekből álló Vegyes Bizottság máskép-
+pen nem dönt.
+32. cikk
+Megszűnés
+Az Európai Unióhoz csatlakozó államok a csatlakozás
+időpontjától nem minősülnek Szerződő Félnek.
+33. cikk
+Mellékletek
+A mellékletek a Megállapodás elválaszthatatlan részét
+képezik.
+34. cikk
+Nyelvek
+A Megállapodást — amely angol, francia és német nyel-
+ven, hiteles szöveggel készült —, az Európai Unió Tanácsa
+Főtitkárságának irattárában kell letétbe helyezni, amely a
+Szerződő Felek mindegyike részére egy hitelesített másod-
+példányt ad ki.
+A Szerződő Feleknek a Megállapodást le kell fordíttat-
+niuk saját hivatalos nyelvükre, illetve nyelveikre. E fordí-
+tások egy-egy példányát az Európai Unió Tanácsa Főtit-
+kárságának irattárában kell őrizni.
+A Megállapodásnak és mellékleteinek fordításaiból a
+Letéteményes valamennyi Szerződő Félnek másolatot
+küld.
+Ennek hiteléül az alulírott teljhatalmú megbízottak a
+Megállapodást aláírták.
+(Aláírások)
+P. H.
+Aláírásra nyitva áll Brüsszelben, 2000. április 14. és
+2001. június 30. között
+Az Európai Közösség részéről aláírva 2001. június 22-én
+Bosznia-Hercegovina részéről aláírva 2001. június 14-én
+A Bolgár Köztársaság részéről aláírva 2000. december 11-én
+A Horvát Köztársaság részéről aláírva 2001. április 27-én
+A Cseh Köztársaság részéről aláírva 2001. június 26-án
+Az Észt Köztársaság részéről
+A Magyar Köztársaság részéről aláírva 2001. június 27-én
+A Lett Köztársaság részéről aláírva 2000. december 15-én
+A Litván Köztársaság részéről aláírva 2000. szeptember 29-én
+A Moldáv Köztársaság részéről aláírva 2000. szeptember 28-án
+A Lengyel Köztársaság részéről aláírva 2000. december 11-én
+Románia részéről aláírva 2000. október 2-án
+A Szlovák Köztársaság részéről aláírva 2000. december 14-én
+A Szlovén Köztársaság részéről aláírva 2000. december 22-én
+A Török Köztársaság részéről aláírva 2001. június 11-én
+1. Melléklet
+A 4. cikkben hivatkozott, közúti személyszállítást végző
+vállalkozókra vonatkozó feltételek
+A 4. cikkben hivatkozott európai közösségi irányelv:
+A Tanács 1996. április 29-i 96/26/EK irányelve a közúti
+árufuvarozói és közúti személyszállító vállalkozói szakmá-
+ba való bejutásról, valamint az ilyen vállalkozók oklevelei-
+nek, bizonyítványainak és képesítését igazoló egyéb okira-
+tainak hazai vagy nemzetközi szállítási szakmában való
+szabad elhelyezkedést megkönnyítő kölcsönös elismerésé-
+ről (az Európai Közösség 1996.5.23-i L124 számú Hivata-
+los Lapjának 1. oldala), amelyet legutóbb a Tanács 1998.
+október 1-jei 98/76/EK irányelvével módosítottak (az Eu-
+rópai Közösség 1998.10.14-i L277 számú Hivatalos Lapjá-
+nak 17. oldala).
+
+2. Melléklet
+Autóbuszokra vonatkozó műszaki előírások
+1. cikk
+A nemzetközi különjárati személyszállítást végző autó-
+buszok az INTERBUS Megállapodás egyes Szerződő Fe-
+lekre vonatkozó hatálybalépésétől kezdődően meg kell,
+hogy feleljenek az alábbi jogi szövegekben előírt szabá-
+lyoknak:
+a) A Tanács 1996. december 20-i 96/96/EK irányelve a
+tagállamok gépjárművek és pótkocsijuk időszakos műsza-
+ki alkalmassági vizsgálatával kapcsolatos jogszabályainak
+harmonizálásáról (az Európai Közösségek 1997. 2. 17-i
+L46 számú Hivatalos Lapja, 1. oldal).
+b) A Tanács 1992. február 10-i 92/6/EGK irányelve a
+közösségi szállításban részt vevő gépjárművek bizonyos
+kategóriáinak sebességkorlátozó berendezéssel való fel-
+szereléséről és azok használatáról (az Európai Közösségek
+1992. 3. 2-i L57 számú Hivatalos Lapja, 27. oldal).
+c) A Tanács 1996. július 25-i 96/53/EGK irányelve egyes
+közúti gépjárművek legnagyobb megengedett méreteiről a
+belföldi és nemzetközi forgalomban és legnagyobb megen-
+gedett tömegeiről a nemzetközi forgalomban (az Európai
+Közösségek 1996. 9. 17-i L235 számú Hivatalos Lapja, 59.
+oldal).
+d) A Tanács 1985. december 20-i 3821/85 rendelete a
+közúti közlekedésben használt menetíró készülékről (az Eu-
+rópai Közösségek 1985. 12. 31-i L370 számú Hivatalos Lapja,
+8. oldal), amelyet legutóbb a Bizottság 1998. 9. 24-i 2135/98
+számú rendelete (1998. 10. 9-i L274 számú Hivatalos Lap,
+1. oldal), illetve az AETR Egyezményben és jegyzőkönyvei-
+ben rögzített megfelelő szabályok módosítottak.
+2. cikk
+Az INTERBUS Megállapodás egyes Szerződő Felekre
+vonatkozó hatálybalépésétől kezdődően a nemzetközi kü-
+lönjárati személyszállítást végző autóbuszok tekintetében
+az Európai Közösségen kívüli Szerződő Feleknek is eleget
+kell tenniük a Közösség alábbi irányelveiben vagy az azok-
+nak megfelelő ENSZ—EGB szabályzatokban foglalt mű-
+szaki követelményeknek, amelyek az új gépjárművek és
+azok berendezéseinek típusengedélyezésével kapcsolatos
+egységes rendelkezéseket tartalmazzák:
+Téma
+ENSZ—EGB
+szabályozás /
+utolsó
+módosítás
+EK-irányelv
+(eredeti —
+legfrissebb)
+Az EU-n belüli
+végrehajtás
+időpontja
+Kipufogógáz-
+kibocsátás
+49/01
+49/02,
+„A” jóváhagyás
+49/02,
+„B” jóváhagyás
+—88/77
+—91/542 —
+1. lépés
+—91/542 —
+2. lépés
+—96/1
+1993. 10.01
+1996. 10. 01
+Téma
+ENSZ—EGB
+szabályozás /
+utolsó
+módosítás
+EK-irányelv
+(eredeti —
+legfrissebb)
+Az EU-n belüli
+végrehajtás
+időpontja
+Füst
+24/03
+72/306
+1972. 08. 02.
+Zajkibocsátás
+51/02
+—70/157
+—84/424
+—92/ 97
+1989. 10. 01.
+1996. 10. 01
+Fékrendszer
+13/09
+—71/320
+—88/194
+—91/422
+—98/12
+1991. 10. 01.
+1994. 10. 01.
+Gumiabron -
+csok
+
+92/23
+1993. 01. 01.
+Világítás
+48/01
+—76/756
+—91/663
+—97/ 28
+1994. 01. 01.
+3. cikk
+a) A Közösség bármely tagállamából (kivéve Görög-
+országot) az INTERBUS Megállapodást aláíró országok
+bármelyikébe közlekedő autóbuszjáratokra;
+b) az INTERBUS Megállapodást aláíró országok bár-
+melyikéből a Közösség bármely tagállamába (kivéve Gö-
+rögországot) közlekedő autóbuszjáratokra;
+c) az INTERBUS Megállapodást aláíró országok bár-
+melyikében székhellyel rendelkező szállítási vállalkozó ál-
+tal az INTERBUS Megállapodást aláíró országok bárme-
+lyikéből a Közösség bármely más tagországán keresztül
+Görögországba indított autóbuszjáratokra az alábbi szabá-
+lyok vonatkoznak:
+1. Azon autóbuszok, amelyeket 1980. 1. 1. előtt vettek
+először nyilvántartásba, nem használhatók a Megál-
+lapodás szerinti különjáratokra.
+2. Azon autóbuszok, amelyeket 1980. 1. 1. és 1981.
+12. 31. között vettek először nyilvántartásba, csak
+2000. 12. 31-ig használhatók.
+3. Azon autóbuszok, amelyeket 1982. 1. 1. és 1983.
+12. 31. között vettek először nyilvántartásba, csak
+2001. 12. 31-ig használhatók.
+4. Azon autóbuszok, amelyeket 1984. 1. 1. és 1985.
+12. 31. között vettek először nyilvántartásba, csak
+2002. 12. 31-ig használhatók.
+5. Azon autóbuszok, amelyeket 1986. 1. 1. és 1987.
+12. 31. között vettek először nyilvántartásba, csak
+2003. 12. 31-ig használhatók.
+6. Azon autóbuszok, amelyeket 1988. 1. 1. és 1989.
+12. 31. között vettek először nyilvántartásba, csak
+2004. 12. 31-ig használhatók.
+7. 2005. 1. 1-től csak azok az autóbuszok használhatók,
+amelyeket 1990. 1. 1. után vettek először nyilvántar-
+tásba (EURO 0).
+8. 2007. 1. 1-től csak azok az autóbuszok használhatók,
+amelyeket 1993. 10. 1. után vettek először nyilvántar-
+tásba (EURO 1).
+
+4. cikk
+a) A Görögországból az INTERBUS Megállapodást
+aláíró országokba közlekedő járatokra;
+b) az INTERBUS Megállapodást aláíró országokból
+Görögországba közlekedő járatokra
+az alábbi szabályok vonatkoznak:
+1. Azon autóbuszok, amelyeket 1980. 1. 1. előtt vettek
+először nyilvántartásba, nem használhatók a Megál-
+lapodás szerinti különjáratokra.
+2. Azon autóbuszok, amelyeket 1980. 1. 1. és 1981.
+12. 31. között vettek először nyilvántartásba, csak
+2000.12.31-ig használhatók.
+3. Azon autóbuszok, amelyeket 1982. 1. 1. és 1983.
+12. 31. között vettek először nyilvántartásba, csak
+2001. 12. 31-ig használhatók.
+4. Azon autóbuszok, amelyeket 1984. 1. 1. és 1985.
+12. 31. között vettek először nyilvántartásba, csak
+2003. 12. 31-ig használhatók.
+5. Azon autóbuszok, amelyeket 1986. 1. 1. és 1987.
+12. 31. között vettek először nyilvántartásba, csak
+2005. 12. 31-ig használhatók.
+6. Azon autóbuszok, amelyeket 1988. 1. 1. és 1989.
+12. 31. között vettek először nyilvántartásba, csak
+2007. 12. 31-ig használhatók.
+7. 2008. 1. 1-jétől csak azok az autóbuszok használha-
+tók, amelyeket 1990. 1. 1. után vettek először nyilván-
+tartásba (EURO 0).
+8. 2010. 1. 1-jétől csak azok az autóbuszok használha-
+tók, amelyeket 1993. 10. 1 után vettek először nyil-
+vántartásba (EURO 1).
+5. cikk
+A Görögország és a Közösség többi tagállama közötti
+kétoldalú forgalomban az INTERBUS Megállapodást alá-
+író országokon keresztül tranzitban áthaladó közösségi
+autóbuszokra nem vonatkoznak a műszaki előírásokkal
+kapcsolatban itt rögzített előírások, azokra az Európai
+Közösség szabályai az irányadók.
+6. cikk
+1. Azok a műszaki előírásokkal kapcsolatos szabályok,
+amelyeket a Közösség tagországai és az INTERBUS Meg-
+állapodást aláíró országok közötti kétoldalú forgalomról
+és tranzitról szóló kétoldalú megállapodások tartalmaz-
+nak, és szigorúbbak az ezen Megállapodásban rögzített
+szabályoknál, 2006. december 31-ig alkalmazhatók.
+2. A Közösségérintett tagállamainak és az INTERBUS
+Megállapodást aláíró országoknak tájékoztatniuk kell a
+Megállapodás 23. cikke szerint létrehozott Vegyes Bizott-
+ságot e kétoldalú megállapodások tartalmáról.
+7. cikk
+1. A jármű előszöri nyilvántartásba vételének időpont-
+ját igazoló okmányt a járművön kell tartani, és az ellenőr-
+zésre jogosult hivatalos személy kérésére be kell mutatni.
+Ezen Melléklet alkalmazásában a „jármű előszöri nyilván-
+tartásba vételének időpontja” kifejezés a jármű gyártását
+követő első nyilvántartásba vételre vonatkozik. Ha e nyil-
+vántartásba vételi időpont nem áll rendelkezésre, akkor az
+összeszerelés időpontjára kell hivatkozni.
+2. Abban az esetben, ha az autóbusz eredeti motorját új
+motorra cserélték ki, akkor az e cikk 1. bekezdésében hivat-
+kozott dokumentumot olyan dokumentummal kell helyette-
+síteni, amelyigazolja, hogyaz új motor megfelel a 3. cikkben
+említett, típusengedélyre vonatkozó szabályoknak.
+8. cikk
+1. Az e Melléklet 1. cikkének a) bekezdésében hivatko-
+zott rendelkezésektől eltérően a Szerződő Felek véletlen-
+szerű ellenőrzéseket végezhetnek annak megállapítására,
+hogy az illető autóbuszok megfelelnek-e a 96/96/EK irány-
+elv rendelkezéseinek. E Melléklet alkalmazásában „vélet-
+lenszerű ellenőrzés” alatt Szerződő Fél területén közleke-
+dő autóbusz hatóság által végzett, nem terv szerinti, követ-
+kezésképpen váratlan közúti ellenőrzését kell érteni.
+2. Az e Mellékletben előírt közúti ellenőrzéshez a Szer-
+ződő Felek illetékes hatóságai a II a és II b Mellékletben
+szereplő ellenőrzőlistát használják. Az ellenőrzőlistából,
+amelyet az ellenőrzést végző hatóság tölt ki, egy példányt
+át kell adni az autóbusz vezetőjének, aki azt kérésre köteles
+bemutatni a rövid és indokolatlan időtartamon belül egy-
+mást követő ellenőrzések egyszerűsítése, esetleg elkerülé-
+se végett.
+3. Amennyiben az autóbuszt vizsgáló szakember úgy
+ítéli meg, hogy az autóbusz karbantartásbeli hiányossága
+további vizsgálatot indokol, akkor az autóbuszt a Közösség
+96/96/EK irányelvének 2. cikkével összhangban egy elis-
+mert vizsgaközpontban műszaki vizsgálatnak vethetik alá.
+4. Más büntetés kiszabásának lehetősége mellett,
+amennyiben a véletlenszerű ellenőrzés során megállapít-
+ják, hogy az autóbusz nem felel meg a 96/96/EK irányelv
+előírásainak, és ezért komoly veszélyt jelent a rajta tartóz-
+kodók vagy a közúti közlekedés többi résztvevője számára,
+akkor az autóbusz közúton való közlekedése azonnali ha-
+tállyal megtiltható.
+5. A közúti ellenőrzések során nem szabad diszkrimi-
+nációt alkalmazni azon az alapon, hogy az autóbuszt me-
+lyik országban vették nyilvántartásba, sem pedig az autó-
+buszvezető állampolgársága vagy lakóhelye alapján.
+
+II a Melléklet
+Ellenőrzőlista
+ 1. Ellenőrzés helye: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 2. Ideje: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 3. Órája: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 4. A jármű felségjele és forgalmi rendszáma: . . . . . . . . . . . . . . . . .
+ 5. Járműosztály
+
+ autóbusz1
+ 6. A szállítást végző vállalkozó neve és címe: . . . . . . . . . . . . . . . . .
+ 7. Állampolgársága/nemzetisége: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 8. Gépkocsivezető: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 9. Küldő neve, címe, utasfelvétel helye: . . . . . . . . . . . . . . . . . . . . . . . . . .
+10. Címzett neve, címe, utasok leszállásának helye: . . . . . . . .
+11. Szerelvény bruttó tömege: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12. Hiba oka:
+ — fékrendszer és alkotóelemei
+ — kormányrudazat
+ — lámpák, világítás és jelzőberendezések
+ — kerekek / kerékagyak / gumiabroncsok
+ — kipufogórendszer
+ — füst áttetszősége (dízelüzemű jármű esetén)
+ — gázkibocsátás (benzinüzemű jármű esetén)
+13. Egyéb / megjegyzések
+14. A vizsgálatot végző hatóság/hivatalos személy neve
+15. A vizsgálat eredménye
+ — megfelelt
+ — kis hibákkal megfelelt
+ — komoly hibák
+ — azonnali kitiltás
+A vizsgálatot végző ellenőr aláírása/engedélye
+1 Személyek szállítására szolgáló gépjármű, amelynek legalább 4 kere-
+ke van, és amely a vezetőülésen kívül nyolcnál több üléssel rendelkezik
+(M2, M3 kategória).
+II b Melléklet
+A közúti ellenőrzésre vonatkozó műszaki előírások
+A Megállapodás 3. cikkében meghatározott autóbuszo-
+kat olyan állapotban kell tartani, hogy azokat az ellenőr-
+zést végző hatóságok műszakilag megfelelő minősítéssel
+láthassák el.
+Az ellenőrzésnek az autóbusz biztonságos és kifogásta-
+lan működése szempontjából lényegesnek tartott dolgokra
+kell kiterjednie. Az egyszerű funkcionális ellenőrzéseken
+(világítás, jelzések, gumiabroncsok állapota stb.) kívül a
+jármű fékjeit és a gépjármű szennyezőanyag-kibocsátását
+külön meg kell vizsgálni, illetve külön ellenőrizni kell az
+alábbiak szerint:
+1. Fékek
+A fékrendszert és az azt működtető eszközöket megfe-
+lelő és jó üzemi állapotban kell tartani, és megfelelően be
+kell állítani.
+Az autóbusz fékjeinek alkalmasnak kell lenniük az aláb-
+bi három fékfunkció ellátására:
+a) Autóbuszok, pótkocsijaik és félpótkocsijaik eseté-
+ben az üzemi féknek a terheléstől, valamint a lejtők vagy
+az emelkedők meredekségétől függetlenül képesnek kell
+lennie a jármű biztonságos, gyors és eredményes lelassítá-
+sára és megállítására.
+b) Autóbuszok, pótkocsijuk és félpótkocsijuk esetében
+a rögzítőféknek a terheléstől függetlenül és látható lejtőn
+vagy emelkedőn is képesnek kell lennie az utóbusz mozdu-
+latlan helyzetben tartására, és a fék munkafelületeit telje-
+sen mechanikus működetésű eszköznek kell lefékezve tar-
+tania.
+c) Autóbuszokban egy kisegítő féknek (vészféknek) is
+kell lennie, amely a terheléstől függetlenül az üzemi fék
+meghibásodása esetén is képes az autóbuszt megfelelő tá-
+volságon belül lelassítani és megállítani.
+Ha az autóbusz műszaki állapota kétséges, akkor az
+ellenőrző hatóságok a 96/96/EK irányelv II. függelékének
+I. pontja összes vagy néhány rendelkezése alapján az autó-
+busz fékteljesítményét is vizsgálhatják.
+2. Szennyezőanyag-kibocsátás
+2.1. Szennyezőanyag-kibocsátás
+2.1.1. Szabályozott gyújtású (benzinüzemű) motorral
+felszerelt autóbuszok.
+a) Ha a kipufogógáz-kibocsátást nem szabályozza kor-
+szerű kibocsátás-szabályozó rendszer, például lambda-
+szondás háromutas katalizátor,
+1. Szemrevételezéssel kell ellenőrizni, hogy a kipufogó-
+rendszerben nincs-e szivárgás.
+2. Ha szükséges, szemrevételezéssel kell ellenőrizni,
+hogy a kibocsátás-szabályozó rendszer fel van-e sze-
+relve a szükséges berendezéssel.
+A motor megfelelő ideig történő (a gyártó ajánlása
+szerinti) kondicionálása után üresjárati (terheletlen)
+
+motorműködés mellett megmérik a kipufogógázok
+szén-monoxid- (CO-) tartalmát.
+A kipufogógázok megengedett CO-tartalma az autó-
+busz gyártója által megadott érték. Ha ez az informá-
+ció nem áll rendelkezésre, illetve a tagállamok illeté-
+kes hatóságai úgy döntenek, hogy az nem alkalmaz-
+ható referenciaértékként, akkor a CO-tartalom nem
+haladhatja meg az alábbi értékeket:
+— CO = 4,5 térfogatszázalék azon autóbuszok ese-
+tében, melyeket 1986. október 1. előtt, de az után az
+időpont után vettek először nyilvántartásba vagy he-
+lyeztek először forgalomba, amikortól a Szerződő
+Felek előírták, hogy az autóbuszoknak meg kell fel-
+elniük a 70/220/EGK2 irányelvnek;
+— CO = 3,5 térfogatszázalék azon autóbuszok ese-
+tében, melyeket 1986. október 1. után vettek először
+nyilvántartásba vagy helyeztek először forgalomba.
+b) Ha a kibocsátást korszerű kibocsátás-szabályozó
+rendszer, például lambdaszondás háromutas katalizátor
+szabályozza:
+1. Szemrevételezéssel ellenőrizni kell a kipufogórend-
+szert annak megállapítása érdekében, hogy nincs-e
+szivárgás, és megvan-e minden alkotórész.
+2. Szemrevételezéssel ellenőrizni kell a kibocsátás-
+szabályozó rendszert annak megállapítása érdeké-
+ben, hogy a szükséges berendezés fel lett-e szerelve.
+3. Meg kell állapítani az autóbusz kibocsátás-szabályo-
+zó rendszerének hatásfokát a lambdaértéknek és a
+kipufogógázok CO-tartalmának 4. fejezet szerinti
+vagy a gyártó által javasolt és a típusengedélyezés
+időpontjában jóváhagyott eljárásokkal történő mé-
+résével. A motort minden vizsgálat esetében az autó-
+busz gyártójának ajánlása szerint kell kondicionálni.
+2 A Tanács 1970. március 20-i 70/220/EGK irányelve a tagállamok
+jogszabályainak közelítéséről a gépjárművek kipufogógázai által előidé-
+zett légszennyezés elleni intézkedésekkel kapcsolatban (1970. 3. 9-i L76
+számú Hivatalos Lap, 1. oldal), annak hibajegyzéke (1970. 4. 11-i L81
+számú Hivatalos Lap, 15. oldal), amelyet legutóbb az Európai Parlament
+és a Tanács 94/12/EK irányelve módosított (1994. 4. 19-i L100 számú
+Hivatalos Lap, 42. oldal).
+4. Kipufogógáz-kibocsátás — határértékek
+Üresjárati motorfordulatszámon történő mérés:
+A kipufogógázok maximálisan megengedett CO-tar-
+talma az autóbusz gyártója által megadott érték. Ha
+ez az adat nem áll rendelkezésre, akkor a maximális
+CO-tartalom nem haladhatja meg a 0,5 térfogatszá-
+zalékot.
+Magas üresjárati fordulatszámon, legalább 2000
+perc—1 motorfordulatszám mellett:
+CO-tartalom: maximum 0,3 térfogatszázalék
+Lambda: 1± 0,03, a gyártó specifikációjának
+megfelelően.
+2.1.2 Kompressziós gyújtású (dízelüzemű) motorral fel-
+szerelt autóbuszok.
+A kipufogógáz áttetszőségének mérése szabad gyorsí-
+tással (terheletlen állapotban, üresjáratba történő felpör-
+getéstől leállítási sebességig). A koncentráció nem halad-
+hatja meg a 72/306/EGK3 irányelv szerinti adattáblán meg-
+adott értéket. Ha ez az adat nem áll rendelkezésre, vagy a
+tagállamok illetékes hatóságai úgy döntenek, hogy nem azt
+használják referenciaként, akkor az abszorbciós együttha-
+tó határértékei az alábbiak:
+Az abszorbciós együttható maximális értéke:
+— atmoszférikus dízelmotorok esetén = 2,5 m—1
+— turbófeltöltésű dízelmotorok esetén = 3,0 m—1,
+vagy ezeknek megfelelő határértékek, amennyiben EK-
+típusengedéllyel nem rendelkező berendezéstípusok alkal-
+mazására kerül sor.
+2.1.3. Vizsgálóberendezés
+Az autóbuszok kibocsátását olyan berendezéssel kell
+vizsgálni, amellyel pontosan megállapítható a gyártó által
+előírt vagy jelzett határértékek betartása.
+2.2. Szükség esetén a fedélzeti diagnosztika (OBD) ki-
+bocsátás-ellenőrző rendszerének megfelelő működését is
+ellenőrizni kell.
+3 A Tanács 1972. augusztus 2-i 72/306/EGK irányelve a tagállamok
+jogszabályainak közelítéséről a gépjárművekben használt dízelüzemű mo-
+torok szennyezőanyag-kibocsátása elleni intézkedésekkel kapcsolatban
+(1972. 8. 20-i L190 számú Hivatalos Lap, 1. oldal), amelyet legutóbb a
+Bizottság 89/491/EGK irányelve módosított (1989. 8. 15-i L238 számú
+Hivatalos Lap, 43. oldal)
+
+3. Melléklet
+A nem engedélyköteles különjáratok ellenőrzési okmányának mintája
+(zöld színű papír: DIN A4 + 29,7× 21 cm)
+(Borítólap — elülső oldal)
+(A szállítási vállalkozó székhelye szerinti Szerződő Fél hivatalos nyelvén/nyelvein
+vagy egyik hivatalos nyelvén kell megszövegezni)
+Okmányt kibocsátó állam
+Illetékes hatóság vagy
+A tömb sorszáma:
+Ország megkülönböztető jele4
+hivatalosan megbízott szerv
+INTERBUS
+MENETLEVÉLTÖMB
+Autóbusszal végzett nemzetközi különjárati személyszállításhoz
+— az Autóbusszal végzett nemzetközi különjárati személyszállításról szóló INTERBUS Megállapodás 6. és 10. cikke
+alapján
+A szállítási vállalkozó neve vagy cégneve: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Címe: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+...............................................................................................
+...............................................................................................
+(A tömb kibocsátásának helye és időpontja)
+(A tömböt kibocsátó hatóság vagy szerv bélyegzője)
+4 Az országot az alábbiak szerint kell feltüntetni: Belgium (B), Dánia (DK), Németország (D), Görögország (GR), Spanyolország (E), Franciaország
+(F), Írország (IRL), Olaszország (I), Luxemburg (L), Hollandia (NL), Portugália (P), Egyesült Királyság (UK), Finnország (FIN), Ausztria (A),
+Svédország (S), Bulgária (BG), Cseh Köztársaság (CZ), Észtország (EST), Magyarország (H), Litvánia (LT), Lettország (LV), Lengyelország (PL),
+Románia (RO), Szlovák Köztársaság (SK), Szlovénia (SLO).
+
+(zöld színű papír: DIN A4 + 29,7× 21 cm)
+(A menetlevéltömb előzéklapja — hátlap)
+(A szállítási vállalkozó székhelye szerinti Szerződő Fél
+hivatalos nyelvén/nyelvein
+vagy egyik hivatalos nyelvén kell megszövegezni)
+FONTOS TUDNIVALÓK
+1. Az INTERBUS Megállapodás hatálya alá tartozó já-
+ratok:
+1.1. Tetszőleges állampolgárságú utasok különjárattal
+történő nemzetközi közúti szállítása
+— két Szerződő Fél területe között, illetve ugyanazon
+Szerződő Fél területén megkezdve és befejezve, de az út során
+szükség esetén egy másik Szerződő Fél területén vagy vala-
+mely nem szerződő állam területén tranzitban áthaladva;
+— amelyet valamely Szerződő Fél országában alapított,
+díj ellenében szolgáltatást nyújtó szállítási vállalkozó saját
+országának törvényeivel összhangban és autóbusszal törté-
+nő nemzetközi különjárati személyszállításra vonatkozó
+engedély birtokában végez;
+— olyan autóbusszal, amelyet a szállítási vállalkozó
+székhelye szerinti Szerződő Fél területén tartanak nyilván,
+felépítésénél és felszereltségénél fogva a gépkocsivezető-
+vel együtt kilencnél több személy szállítására alkalmas, és
+e célra is készült;
+1.2. Az ilyen járatokat bonyolító autóbuszok üresen
+megtett útjai.
+1.3. Az INTERBUS Megállapodás alkalmazásában
+„Szerződő Fél területe” alatt az Európai Közösség eseté-
+ben azon területeket kell érteni, amelyekre a Közösséget
+létrehozó Szerződés hatálya az abban foglalt feltételekkel
+kiterjed.
+1.4. Az INTERBUS Megállapodás hatálya nem terjed
+ki az egyik Szerződő Fél területén alapított vállalkozó
+másik Szerződő Fél területén közlekedtetett belföldi kü-
+lönjárataira.
+1.5. A személyszállításra tervezett autóbuszok kereske-
+delmi célú áruszállításra való használata nem tartozik a
+Megállapodás hatálya alá.
+1.6. Az INTERBUS Megállapodás nem vonatkozik a
+sajátszámlás különjáratokra.
+2. Nemzetközi különjáratok, amelyekre az INTERBUS
+Megállapodás 6. cikke értelmében nem kell engedély a szállí-
+tási vállalkozó székhelye szerinti Szerződő Félen kívüli Szer-
+ződő Felek területén:
+2.1. Körutazás zárt ajtókkal, vagyis olyan járatok, ahol
+egész úton ugyanaz az autóbusz szállítja és ugyanaz az
+autóbusz viszi vissza az indulási helyre az utasok ugyanazon
+csoportját. Az indulási hely a szállítási vállalkozó székhelye
+szerinti Szerződő Fél területén található.
+2.2. Olyan járatok, amelyek odafelé utasokkal, vissza-
+felé pedig üresen közlekednek. Az indulás helye a szállítási
+vállalkozó székhelye szerinti Szerződő Fél területén talál-
+ható.
+2.3. Olyan járatok, amelyek odafelé üresen közleked-
+nek, és az összes utast ugyanazon a helyen veszik fel,
+amennyiben teljesül az alábbi feltételek valamelyike:
+a) az utascsoportot valamely nem Szerződő Fél terüle-
+tén, nem a szállítási vállalkozó székhelye szerinti Szerződő
+Fél területén vagy az utasok felvételének helye szerinti
+Szerződő Fél területén szervezték az utolsóként említett
+Szerződő Fél területére való megérkezésük előtt kötött
+szállítási szerződés alapján. Az utasokat a szállítási vállal-
+kozó székhelye szerinti Szerződő Fél területén szállítják;
+b) az utasokat előzőleg ugyanaz a szállítási vállalkozó
+szállította — a 2. pontban ismertetett körülmények kö-
+zött — azon Szerződő Fél területére, ahol ismét felveszi,
+majd a székhelye szerinti Szerződő Fél területére szállítja
+őket;
+c) az utasokat meghívták valamely másik Szerződő Fél
+területén történő utazásra, melynek költségeit a meghívó
+fedezi. Az ilyen utasoknak homogén csoportot kell alkot-
+niuk, amely nemcsak az adott utazásra jött létre, és amelyet
+a szállítási vállalkozó székhelye szerinti Szerződő Fél terü-
+letére szállítanak.
+2.4. Nincs szükség engedélyre a Szerződő Felek területén
+keresztüli tranzitműveletekhez, amennyiben azokra nem en-
+gedélyköteles különjáratokkal kapcsolatban kerül sor.
+2.5. Ugyancsak nincs szükség engedélyre azokhoz az
+üresen közlekedő autóbuszokhoz, amelyekkel kizárólag a
+Megállapodás hatálya alá tartozó nemzetközi szállítási
+művelet során megsérült vagy meghibásodott autóbuszt
+kívánják pótolni.
+Az Európai Közösségen belül székhellyel rendelkező
+szállítási vállalkozók járatainak indulási helye és/vagy cél-
+állomása az Európai Közösség bármely tagállamában le-
+het, függetlenül attól, hogy melyik tagállamban tartják
+nyilván az autóbuszt, illetve melyik tagállamban van a szál-
+lítási vállalkozó székhelye.
+3. Autóbuszokra vonatkozó feltételek
+Az INTERBUS Megállapodás hatálya alá tartozó nem-
+zetközi különjáratokhoz használt autóbuszoknak meg kell
+felelniük az említett Megállapodás 5. cikke és 2. melléklete
+szerinti műszaki előírásoknak.
+
+4. A menetlevél kitöltésére vonatkozó tudnivalók
+4.1. A szállítási vállalkozónak minden különjárat indí-
+tásakor az út megkezdése előtt kétpéldányos személyszál-
+lítási menetlevelet kell kiállítania.
+Az utasok nevének megadása céljából a szállítási vállal-
+kozó használhat egy külön lapon már meglévő névsort is,
+amelyet hozzá kell tűznie a menetlevélhez. Az utaslistán és
+a menetlevélen szerepelnie kell a szállítási vállalkozó bé-
+lyegzőjének, valamint szükség esetén a szállítási vállalkozó
+vagy az autóbuszvezető aláírásának.
+Azon járatok esetében, amelyek az odautat üresen teszik
+meg, az utaslistát az utasok felvételekor is ki lehet tölteni.
+A menetlevél első példányát az út során mindvégig az
+autóbuszon kell tartani, és az ellenőrző hatóság kérésére
+be kell mutatni.
+4.2. Azon járatok esetében, amelyek az odautat a me-
+netlevél 4 C pontjában hivatkozottak szerint utasok nélkül
+teszik meg, a szállítási vállalkozónak az alábbi kiegészítő
+dokumentumokat kell mellékelnie az utasok ellenőrzésére
+szolgáló dokumentumhoz:
+— a 4 C1 pontban említett esetekben: a szállítási szer-
+ződés egy példányát, amennyiben azt egyes országok meg-
+követelik, vagy bármilyen más, annak megfelelő dokumen-
+tumot, amelyben szerepelnek az említett szerződés alapve-
+tő adatai (főként a szerződéskötés helye, országa és idő-
+pontja, az utasok felvételének helye, országa és időpontja,
+valamint a célállomás és a célország);
+— a 4 C2 pontban említett járatok esetében: azt a me-
+netlevelet, amely az autóbuszt azon az úton kísérte, ame-
+lyet a szállítási vállalkozó odafelé utasokkal/visszafelé uta-
+sok nélkül tett meg annak érdekében, hogy az utasokat
+annak a Szerződő Félnek a területére szállítsa, ahol később
+ismét felveszi őket;
+— a 4 C3 pontban említett járatok esetében: a meghí-
+vótól származó meghívólevelet vagy annak fénymásolatát.
+4.3. A különjárat útja során csak az illetékes hatóság
+engedélyével szabad utasokat felvenni vagy lerakni. Ez
+esetben be kell szerezni a megfelelő engedélyt.
+4.4. A szállítási vállalkozó felelős a menetlevelek meg-
+felelő és pontos kitöltéséért. A menetleveleket nyomtatott
+nagybetűkkel, kitörölhetetlenül kell kitölteni.
+5. A menetlevéltömb nem ruházható át másra.
+
+INTERBUS (SZEMÉLYSZÁLLÍTÁSI MENETLEVÉL
+— HÁTOLDAL)
+(zöld színű papír:
+DIN A4 = 29,7× 21 cm)
+A szállítási vállalkozó székhelye szerinti Szerződő
+Fél hivatalos nyelvén/nyelvein vagy egyik hivatalos
+nyelvén kell megszövegezni)
+Tömb sorszáma:
+Menetlevél száma:
+Okmányt kibocsátó állam:
+Ország megkülönböztető jele:
+Jármű rendszáma Rendelkezésre álló ülőhelyek száma
+
+A szállítási vállalko-
+zó neve vagy cégneve
+....................................................................................................
+.......................................................................
+....................................................................................................
+.......................................................................
+..........................................................................................................................................................................
+Gépkocsivezető(k)
+neve
+1. ......................................................................................................................................................................
+2. ......................................................................................................................................................................
+3. .....................................................................................................................................................................
+3 A járat típusa (ikszelje be a megfelelő négyzetet, és adja meg a szükséges kiegészítő információkat)
+A Körutazás zárt
+ajtókkal
+B Odaút utasokkal
+Visszaút utasok nélkül
+* Az utasok lerakásának helye és az ország megkülönböztető jele: …………
+C Az odaút utasok nélkül történik, az autóbusz minden utast ugyanott vesz fel, és a szállítási vállalkozó székhelye sze-
+rinti
+országba szállítja őket.
+* Az utasok felvételének helye és az ország megkülönböztető jele: …………
+
+C1 a) Az utascsoportot a ………-val (utazási iroda, társaság stb.) …………-n (dátum) kötött szállítási szerződés alap-
+ján
+szervezték.
+b) Az utascsoportot az alább megjelölt ország területén szervezték:
+a) Nem Szerződő Fél :....................................................................... (ország neve)
+b) Szerződő Fél, de nem a szállítási vállalkozó székhelye szerinti ország …………………………… (ország neve)
+c) Hely és Szerződő Fél, ahol az utasokat az autóbusz felvette: …………………………………… (ország neve)
+d) Az utasokat a szállítási vállalkozó székhelye szerinti Szerződő Fél országába kell szállítani:
+……………………………… (ország neve)
+• A szállítási szerződés vagy annak megfelelő dokumentum egy példánya mellékelve (Lásd „Fontos tudnivalók”,
+4. Pont)
+C2 Az utasokat előzőleg ugyanaz a szállító szállította — a B pontban megjelölt járattal — azon Szerződő Fél területére,
+ahol ismét fel kell vennie és a szállítási vállalkozó székhelye szerinti Szerződő Fél területére kell szállítania őket;
+• Az előző, utasokkal megtett odaút és az üresen megtett visszaút menetlevele mellékelve.
+C3 Az utasok meghívás alapján utaznak …………………………………… -ba (hely és ország).
+Az utazás költségeit a meghívó fedezi, és az utasok homogén, nem csupán az adott útra szerveződött csoportot
+alkotnak. A meghívólevél (vagy fénymásolata) mellékelve.
+Az autóbusz a csoportot a szállítási vállalkozó székhelye szerinti Szerződő Fél területére szállítja.
+Útvonal Napi útszakaszok
+Dátum
+Honnan
+Helység/ország
+Hova
+Helység/ország
+Utasokkal megtett km
+Utasok nélkül
+megtett km
+Határátkelőhelyek
+A 6. pont szerinti adatok szükség esetén külön lapon is szerepelhetnek, amelyet erősen hozzá kell tűzni e menetlevél-
+hez.
+
+(Menetlevél — hátoldal)
+
+Útvonal Napi útszakaszok
+Dátum
+Honnan
+Helység/ország
+Hová
+Helység/ország
+Utasokkal megtett km
+Utasok nélkül
+megtett km
+Határátkelőhelyek
+
+Utaslista
+1. ... 22 43
+. . .
+. . .
+. . .
+. . .
+. . .
+21 42 63
+7 Menetlevél kiállításának időpontja Szállítási vállalkozó aláírása
+8 Előre nem látott változások
+
+Esetleges ellenőrző
+bélyegzők helye
+(A 6. tétel kitölthető külön lapon is, azokat rögzíteni kell ehhez a dokumentumhoz.)
+
+4. Melléklet
+Nemzetközi különjáratok engedélyezésére vonatkozó kérelem mintája
+(Fehér papír — A4)
+(A kérelem benyújtásának helye szerinti Szerződő Fél hivatalos nyelvén vagy/nyelvein
+vagy egyik hivatalos nyelvén kell megszövegezni)
+ENGEDÉLYKÉRELEM
+NEMZETKÖZI KÜLÖNJÁRAT INDÍTÁSÁHOZ
+a Szerződő Felek között, autóbusszal, az Autóbusszal végzett nemzetközi különjárati személyszállításról szóló
+Megállapodás (INTERBUS Megállapodás) 7. cikkével összhangban
+---------------------------------------------------------------------------------------------------- -------------------------------------------------
+(A járat indulási helye szerinti, vagyis az első utasfelvétel szerinti Szerződő Fél illetékes hatósága)
+1. Az engedélykérelmet benyújtó adatai:
+Név vagy cégnév: ........................................................................................................................................................................
+Cím: .............................................................................................................................................................................................
+Ország: ........................................................................................................................................................................................
+Tel.: .............................................................................................................................................................................................
+Fax: ..............................................................................................................................................................................................
+
+(A kérelem második oldala)
+2. A különjárat célja, okai és ismertetése: .....................................................................................................................................
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+3. Az útvonallal kapcsolatos információk:
+a) Járat indulási helye: ......................................................... Ország: ...............................................................
+b) Járat célállomása: ............................................................. Ország: ...............................................................
+A járat fő útvonala és az érintett határátkelőhelyek:
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+Az út során érintett országok, ahol az autóbusz nem vett fel és nem tett le utasokat:
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+4. A szolgáltatás időpontja: ...............................................................................................................................................................
+5. Az autóbuszok rendszáma: ..................................................................
+..................................................................
+..................................................................
+6. További adatok: ..................................................................
+7.
+................................................... .......................................................
+(Hely és dátum) (kérelmező aláírása)
+
+(A kérelem harmadik oldala)
+FONTOS TUDNIVALÓK
+1. A szállítási vállalkozónak ki kell töltenie a kérelmet, és mellékelnie kell annak igazolását, hogy a kérelmező jogosult
+az INTERBUS megállapodás 1/1. a) cikke második bekezdésében hivatkozott, autóbusszal történő nemzetközi külön-
+járati személyszállítás végzésére.
+2. Az INTERBUS Megállapodás 6. cikkében foglaltak körén kívül eső, vagyis az alábbiakban felsoroltakon kívüli
+nemzetközi különjáratokhoz engedély kell:
+2.1. Körutazás zárt ajtókkal, vagyis olyan járatok, ahol egész úton ugyanaz az autóbusz szállítja és ugyanaz az autóbusz
+viszi vissza az indulási helyre az utasok ugyanazon csoportját. Az indulási hely a szállítási vállalkozó székhelye szerinti
+Szerződő Fél területén található.
+2.2. Olyan járatok, amelyek odafelé utasokkal, visszafelé pedig üresen közlekednek. Az indulás helye a szállítási
+vállalkozó székhelye szerinti Szerződő Fél területén található.
+2.3. Olyan járatok, amelyek odafelé üresen közlekednek, és az összes utast ugyanazon a helyen veszik fel, amennyiben
+teljesül az alábbi feltételek valamelyike:
+a) az utascsoportot valamely nem Szerződő Fél területén, nem a szállítási vállalkozó székhelye szerinti Szerződő Fél
+területén vagy az utasok felvételének helye szerinti Szerződő Fél területén szervezték az utolsóként említett Szerződő
+Fél területére való megérkezésük előtt kötött szállítási szerződés alapján. Az utasokat a szállítási vállalkozó székhelye
+szerinti Szerződő Fél területén szállítják;
+b) az utasokat előzőleg ugyanaz a szállítási vállalkozó szállította — a 2. pontban ismertetett körülmények között —
+azon Szerződő Fél területére, ahol ismét felveszi, majd a székhelye szerinti Szerződő Fél területére szállítja őket;
+c) az utasokat meghívták valamely másik Szerződő Fél területén történő utazásra, melynek költségeit a meghívó
+fedezi. Az ilyen utasoknak homogén csoportot kell alkotniuk, amely nemcsak az adott utazásra jött létre, és amelyet a
+szállítási vállalkozó székhelye szerinti Szerződő Fél területére szállítanak.
+2.4. Nincs szükség engedélyre a Szerződő Felek területén keresztüli tranzitműveletekhez, amennyiben azokra nem
+engedélyköteles különjáratokkal kapcsolatban kerül sor.
+2.5. Ugyancsak nincs szükség engedélyre azokhoz az üresen közlekedő autóbuszokhoz, amelyekkel kizárólag a
+Megállapodás hatálya alá tartozó nemzetközi szállítási művelet során megsérült vagy meghibásodott autóbuszt kívánják
+pótolni.
+Az Európai Közösségen belül székhellyel rendelkező szállítási vállalkozók járatainak indulási helye és/vagy célállo-
+mása az Európai Közösség bármely tagállamában lehet, függetlenül attól, hogy melyik tagállamban tartják nyilván az
+autóbuszt, illetve melyik tagállamban van a szállítási vállalkozó székhelye.
+3. A kérelmet azon Szerződő Fél illetékes hatóságához kell benyújtani, melynek területéről a járat indul, nevezetesen
+ahol az első utasfelvétel történik.
+4. Az igénybe vett autóbuszokat a szállítási vállalkozó székhelye szerinti Szerződő Fél területén kell nyilvántartani.
+5. Az INTERBUS Megállapodás hatálya alá tartozó nemzetközi különjáratokra használt autóbuszok meg kell hogy
+feleljenek a 2. mellékletben foglalt műszaki előírásoknak.
+
+5. Melléklet
+A nem liberalizált nemzetközi különjáratok engedélyének mintája
+(Az engedély első oldala)
+(rózsaszínű papír — A4)
+(Az engedélyt kibocsátó Szerződő Fél hivatalos nyelvén/nyelvein
+vagy egyik hivatalos nyelvén kell megszövegezni)
+KIBOCSÁTÓ SZERZŐDŐ FÉL
+— Nemzetközi megkülönböztető jel5
+ILLETÉKES HATÓSÁG
+(Bélyegző)
+..............................................
+..................SZ.ENGEDÉLY
+Szerződő Felek közötti, autóbusszal végzett nemzetközi különjárathoz,
+az Autóbusszal végzett nemzetközi különjárati személyszállításról szóló Megállapodás (INTERBUS Megállapodás)
+7. cikkével összhangban
+....................................................................................................
+.........................................
+a szállítási vállalkozó vezetékneve és keresztneve vagy cégneve)
+számára.
+Cím: ......................................................................................................................................................................................................
+Ország: .................................................................................................................................................................................................
+Tel.: ......................................................................................................................................................................................................
+Fax: .......................................................................................................................................................................................................
+............................................................................................... ...............................................................................................
+(Engedély kiadásának helye és időpontja) (Az engedélyt kiadó hatóság vagy szerv
+aláírása és bélyegzője)
+5 Az országot az alábbiak szerint kell feltüntetni: Belgium (B), Dánia (DK), Németország (D), Görögország (GR), Spanyolország (E), Franciaország
+(F), Írország (IRL), Olaszország (I), Luxemburg (L), Hollandia (NL), Portugália (P), Egyesült Királyság (UK), Finnország (FIN), Ausztria (A),
+Svédország (S), Bulgária (BG), Cseh Köztársaság (CZ), Észtország (EST), Magyarország (H), Litvánia (LT), Lettország (LV), Lengyelország (PL),
+Románia (RO), Szlovák Köztársaság (SK), Szlovénia (SLO).
+
+(Az engedély második oldala)
+1. A különjárat célja, okai és ismertetése: .....................................................................................................................................
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+2. Az útvonallal kapcsolatos információk:
+a) Járat indulási helye: ......................................................... Ország: ...............................................................
+b) Járat célállomása: ............................................................. Ország: ...............................................................
+A járat fő útvonala és az érintett határátkelőhelyek:
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+3. A szolgáltatás időpontja: ..............................................................................................................................................................
+4. Az autóbuszok rendszáma: ..................................................................
+..................................................................
+..................................................................
+5. Egyéb feltételek:..............................................................................................................................................................................
+.................................................................................................................................................................................................................
+.................................................................................................................................................................................................................
+6. Utaslista mellékelve.
+……………………………………………………
+(Az engedélyező hatóság bélyegzője)
+
+(Az engedély harmadik oldala)
+(Az engedélyt kibocsátó Szerződő Fél hivatalos nyelvén/nyelvein vagy egyik hivatalos nyelvén kell megszövegezni)
+FONTOSTUDNIVALÓK
+1. Az engedély az egész útra érvényes. Az engedélyt csak az a szállítási vállalkozó használhatja, akinek nevére és
+autóbuszának rendszámára az engedélyt kiadták.
+2. Az engedélyt az út során mindvégigaz autóbuszon kell tartani, és a végrehajtásra jogosult hatósági személykérésére
+be kell mutatni.
+3. Az utaslistát csatolni kell az engedélyhez.
+
+MINTA AZ INTERBUS MEGÁLLAPODÁS ALÁÍRÓNAK 4. CIKK
+ÉS 1. MELLÉKLET ALAPJÁN ADANDÓ NYILATKOZATÁHOZ
+A közúti személyszállítást végzőkre vonatkozó feltételek
+(a Szerződő Fél neve) NYILATKOZATA A 4. CIKKBEN
+ÉS AZ 1. MELLÉKLETBEN FOGLALTAKKAL KAPCSOLATBAN
+1. A Tanács közúti árufuvarozói és közúti személyszállító vállalkozói szakmába való bejutásról, valamint az ilyen
+vállalkozók okleveleinek, bizonyítványainak és képesítését igazoló egyéb okiratainak a belföldi vagy nemzetközi szállítási
+szakmában való szabad elhelyezkedést megkönnyítő kölcsönös elismeréséről szóló 1996. április 29-i 96/26/EK irány-
+elvében (az Európai Közösség 1996. 5. 23-i L124 számú Hivatalos Lapjának 1. oldala), amelyet legutóbb a Tanács 1998.
+október 1-jei 98/76/EK irányelvével módosítottak (az Európai Közösség 1998. 1. 14-i L277 számú Hivatalos Lapjának
+17. oldala) foglalt három feltétel
+a) a(z) …………………………………… (jogszabályhely) jogszabállyal beépült a hazai jogba.
+b) ………………………………-n (dátum) be fog épülni a hazai jogba.
+2. A „megfelelő pénzügyi teljesítőképességgel” kapcsolatos feltételt illetően a vállalkozónak az érvényben lévő
+jogszabályok alapján legalább az alábbi összegű szabadon felhasználható tőkével és tartalékkal kell rendelkeznie:
+— igénybe vett gépjárművenként ………………… euró (vagy ennek megfelelő hazai pénzeszköz, illetve
+— az igénybe vett személyszállító autóbuszok egy ülőhelyére vetítve ………………… euro (vagy ennek megfelelő
+hazai pénzeszköz).
+A „megfelelő pénzügyi teljesítőképesség” összegét …………………………-ig (időpont, illetve legkésőbb 2005.
+1. 1-jéig) a 96/26/EK irányelvnek megfelelően fogjuk módosítani.
+...........................................................
+aláírás
+P. H.”
+
+3. §
+A Megállapodás
+(1) 4. cikkében és 1. mellékletében szereplő, a Tanács
+96/26/EK irányelvével a belföldi és nemzetközi közlekedés
+terén a közúti árufuvarozók és személyszállítók szakmába
+történő bejutásáról, valamint e személyek szabad letelepe-
+déséhez való joga gyakorlásának előmozdítása érdekében
+a diplomák, bizonyítványok és a képesítésekre vonatkozó
+egyéb tanúsítványok kölcsönös elismeréséről és a
+Tanács 98/76/EK irányelve a belföldi és nemzetközi köz-
+lekedés terén a közúti fuvarozók és személyszállítók szak-
+mába történő bejutásáról, valamint e személyek szabad
+letelepedéséhez való joga gyakorlásának előmozdítása ér-
+dekében a diplomák, bizonyítványok és a képesítésekre
+vonatkozó egyéb tanúsítványok kölcsönös elismeréséről
+szóló 96/26/EK irányelv módosításáról tagállami jogszabá-
+lyok összehangolásáról
+a) a belföldi és nemzetközi közúti árufuvarozás szak-
+mai feltételeiről és engedélyezési eljárásáról szóló 14/2001.
+(IV. 20.) KöViM rendelet, valamint a közúti közlekedési
+szolgáltatásokról és a közúti járművek üzemben tartásáról
+szóló 89/1988. (XII. 20.) MT rendelet [módosította a
+68/2001. (IV. 20.) Korm. rendelet],
+b) az autóbusszal végzett belföldi és nemzetközi sze-
+mélyszállítás szakmai feltételeiről és engedélyezési eljárá-
+sáról szóló 49/2001. (XII. 22.) KöViM rendelet, valamint a
+közúti közlekedési szolgáltatásokról és a közúti járművek
+üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendelet
+[módosította a 277/2001. (IV. 20.) Korm. rendelet],
+(2)
+a) 2. Mellékletének 1. cikkében szereplő, a Tanács
+96/96/EK irányelvével a gépkocsik és a pótkocsik műszaki
+felülvizsgálatára vonatkozó tagállami jogszabályok össze-
+hangolásáról a közúti járművek műszaki felülvizsgálatáról
+szóló 5/1990. (IV. 12.) KöHÉM rendelet,
+b) a Tanács 96/53/EGK irányelvében meghatározott, a
+hazai előírásoktól eltérően megengedett tengelyterhelési
+és tömeghatárértékeket a meghatározott össztömeget, ten-
+gelyterhelést és méretet meghaladó járművek közúti köz-
+lekedéséről, a közútkezelői és a hatósági eljárás, valamint
+a díjfizetés feltételeiről szóló 4/1999. (II. 12.) KHVM ren-
+deletet módosító 24/2002. (VI. 18.) KöViM rendelet és a
+közúti járművek forgalomba helyezésének és forgalomban
+tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.)
+KöHÉM rendelet,
+(3)
+a) 4. cikkében és 1. mellékletében szereplő, a Tanács
+92/6/EGK irányelvével bizonyos gépjármű-kategóriáknál
+sebességkorlátozó készülékek beépítéséről és használatá-
+ról a közösség területén,
+b) 2. Mellékletének 2. cikkében szereplő, a Tanács
+88/77/EGK irányelvével a diesel-motorok szennyezőanyag
+kibocsátásának korlátozására vonatkozó tagállami jogsza-
+bályok összehangolásáról, valamint az azt módosító, a Ta-
+nács 91/542/EGK és 96/1/EK irányelvével;
+c) a Tanács 70/157/EGK irányelvével a gépkocsik meg-
+engedett zajszintjére és kipufogó berendezéseire vonatko-
+zó tagállami jogszabályok összehangolásáról, valamint az
+azt
+módosító,
+a
+Tanács
+81/337/EGK,
+84/424/EGK,
+87/354/EGK, 89/491/EGK, 92/97/EK és 96/20/EK irány-
+elvével;
+d) a Tanács 71/320/EGK irányelvével a gépkocsik és
+pótkocsik fékberendezéseire vonatkozó tagállami jogsza-
+bályok összehangolásáról, valamint az azt módosító, a
+Tanács
+74/132/EGK,
+75/524/EGK,
+79/489/EGK,
+85/647/EGK, 88/194/EGK, 91/422/EGK és 98/12/EK
+irányelvével;
+e) II. b) Mellékletében szereplő 72/306/EGK irány-
+elvével a dízelmotorok füstölésmérésére vonatkozó tagál-
+lami jogszabályok összehangolásáról, valamint az azt mó-
+dosító, a Tanács 89/491/EGK és 97/20/EK irányelvével;
+f) a Tanács 70/220/EGK irányelve az M1 és N1 kategó-
+riájú gépkocsik szennyezőanyag-kibocsátásának jóváha-
+gyására vonatkozó tagállami jogszabályok összehangolásá-
+ról, valamint az azt módosító, a Tanács 77/102/EGK,
+78/665/EGK,
+83/351/EGK,
+88/436/EGK,
+88/76/EGK,
+89/491/EGK, 93/59/EK, 94/12/EK és 96/96/EK irányelvével
+a közúti járművek forgalomba helyezésének és forgalom-
+ban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.)
+KöHÉM rendelet tartalmaz összeegyeztethető szabályo-
+zást.
+4. §
+(1) Ez a rendelet 2003. január 1-jén lép hatályba.
+(2) A Megállapodásban hivatkozott „illetékes hatóság”
+kifejezés alatt hazánk tekintetében a Közlekedési Főfel-
+ügyeletet kell érteni.
+(3) Ezen rendelet végrehajtásának részletes szabályairól
+a gazdasági és közlekedési miniszter rendeletben gondos-
+kodik.
+A miniszterelnök helyett:
+Dr. Kiss Elemér s. k.,
+a Miniszterelnöki Hivatalt vezető miniszter
