@@ -1,0 +1,1 @@
+## 1. § A Kormány a vámokmányoknak a közvetlen közúti árufuvarozásban való alkalmazásáról szóló, Varsóban az 1983. évi november hó 17. napján kelt egyezmény (a továbbiakban: Egyezmény) módosítását e rendelettel kihirdeti.
