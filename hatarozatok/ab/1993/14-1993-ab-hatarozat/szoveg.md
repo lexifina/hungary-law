@@ -1,0 +1,41 @@
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+
+Az Alkotmánybíróság jogszabály alkotmányellenességének utólagos vizsgálatára és megsemmisítésére irányuló indítvány alapján meghozta a következő
+
+határozatot.
+
+Az Alkotmánybíróság megállapítja, hogy a társadalombiztosításról szóló 1975. évi II. törvény végrehajtása tárgyában kiadott 89/1990. (V. 1.) MT rendelet módosításáról szóló 48/1992. (III. 13.) Korm. rendelet 71. § (1) bekezdésének — a 89/1990. (V. 1.) MT rendelet 373. § (2) bekezdését érintő — visszamenőleges hatályú rendelkezése alkotmányellenes; ezért e rendelkezést — a 89/1990. (V. 1.) MT rendelet 373. § (2) bekezdésére kihatóan — 1992. március 1. napja és március 13. napja közötti időszakra terjedően megsemmisíti. E határozat nem érinti a közzététele előtt létrejött jogviszonyokat, s a belőlük származó jogokat és kötelezettségeket.
+
+Az Alkotmánybíróság e határozatát a Magyar Közlönyben közzéteszi.
+
+INDOKOLÁS
+
+1. A társadalombiztosításról szóló 1975. évi II. törvény végrehajtása tárgyában kiadott 89/1990. (V. 1.) MT rendelet (a továbbiakban: R.) 373. § (2) bekezdése szerint az ipari szakcsoport és a gazdasági társaság tagjának — az (1) bekezdésben foglalt feltételektől eltérően — nem kellett ,,társadalombiztosítási járulékot fizetni az adózott nyereség terhére elszámolt jövedelem után.'' A R. 373. §-át azonban a R.-t módosító 48/1992. (III. 13.) Korm. rendelet (a továbbiakban: R1.) 71. § (1) bekezdése — a R.-nek kb. száz más rendelkezésével együtt — hatályon kívül helyezte. A R1. — amelynek támadott 71. § (1) bekezdése ezt tartalmazza: ,,Ez a rendelet kihirdetése napján lép hatályba, rendelkezéseit 1992. március 1-jétől kell alkalmazni...'' — viszont a Magyar Közlöny 1992. március 13. napján kiadott 27. számában hirdették ki. Ha egy gazdasági társaság — érvel az indítványozó — pl. 1992. március 6-án a R. 373. § (2) bekezdésében foglalt kedvezményre alapozva ,,az 1992. évi adózott nyereség terhére elszámolva tagjainak jövedelemelőleget fizet ki'', rosszul jár, mert a március 13-án megjelent R1. visszamenőleges alkalmazást elrendelő szabálya — amelyről március 6-án még nem tudhatott — ,,megakadályozta a gazdasági társaságot a gazdasági esemény (azaz a jövedelemelőleg adása) eldöntése előtti mérlegelési lehetőségében''.
+
+2. Az Alkotmány 2. § (1) bekezdése deklarálja, hogy a Magyar Köztársaság demokratikus jogállam. A jogállamiságnak pedig egyik nélkülözhetetlen alkotóeleme a jogbiztonság. A jogbiztonság követelménye — többek között — azt is jelenti, hogy
+
+— az állampolgárok jogait és kötelezettségeit törvényben meghatározott módon kihirdetett és bárki számára hozzáférhető jogszabályok szabályozzák,
+
+— a jogalanyoknak legyen lehetőségük arra, hogy elhatározásaikat a jog előírásaihoz tudják igazítani.
+
+Nyilvánvaló ugyanis, hogy a jogállamban senkit sem érhet hátrány amiatt, mert valamely jogszabályt a jogalkotó hibájából — akár azért, mert későn tették közzé, akár azért, mert visszamenőleges hatályú alkalmazását rendelték el — előzetesen nem ismerhette meg.
+
+Az Alkotmány 2. § (1) bekezdésén kívül a jogalkotás rendjének szabályozási módját meghatározó 7. § (2) bekezdése is garanciális szabályt tartalmaz arra, amit a jogalkotásról szóló 1989. évi XI. törvény 12. § (2) bekezdése így rögzít: ,,A jogszabály a kihirdetését megelőző időre nem állapíthat meg kötelezettségeket...''.
+
+Az Alkotmánybíróság eddig is számos indítvány kapcsán hozott olyan határozatot, amely a visszamenőleges hatályú kötelezettségeket megállapító jogszabályi rendelkezést alkotmányellenesnek nyilvánította. A jelen ügyben az Alkotmánybíróság megerősíti ezt az álláspontját, s ezért a R1. 71. § (1) bekezdésében foglalt rendelkezést — a R. 373. § (2) bekezdésében adott kedvezmény vonatkozásában — az 1992. március 1-jétől március 13-ig tartó időszakra megsemmisíti.
+
+3. Az Alkotmánybíróságról szóló 1989. évi XXXII. törvény 43. § (1) bekezdésében foglalt fő szabály szerint a megsemmisített jogszabályt a megsemmisítésről szóló alkotmánybírósági határozatnak a hivatalos lapban való közzététele napjától nem lehet alkalmazni. A 43. § (2) bekezdése szerint pedig a megsemmisítés — kivételes döntéstől eltekintve — nem érinti a határozat közzététele előtt létrejött jogviszonyokat, s a belőlük származó jogokat és kötelezettségeket. Az Alkotmánybíróság a rá irányadó törvény 43. § (4) bekezdése alapján mérlegelte, hogy — mivel az alkotmányellenes rendelkezést nem a jövőre nézve, hanem visszamenőleges érvénnyel, tizenhárom napig terjedő rövid időszakra semmisítette meg — határozatának legyen-e közvetlen kihatása azokra a jogviszonyokra, amelyek az átmenetileg fennállott alkotmányellenesség miatt módosultak. Az Alkotmánybíróság a kivételezés lehetőségével nem élt. Az 1992. március 1-jétől elrendelt és vezetett járulékelszámolási nyilvántartások adatbázisát ugyanis — az Országos Társadalombiztosítási Főigazgatóság közlése szerint — több mint 4 millió biztosított esetében utólag át kellene tekinteni, s a nyugdíj megállapításához szükséges 1992. március 1-je utáni igények esetében az ellátási alapokat felül kellene vizsgálni. Az ezzel járó adminisztratív munkatöbblet — az Alkotmánybíróság felfogása szerint — nagyobb jogbizonytalanságot okozna, mint amit annak idején tizenhárom napig az alkotmányellenes rendelkezés alkalmazása okozhatott. Az indítványozó sem pontosan fejezte ki a R. 373 § (2) bekezdése tartalmát. Téves ugyanis az az általánosító megállapítása, hogy ,,...az 1992. évi március hónapban, az 1992. évi adózott eredmény terhére elszámolt és kifizetett jövedelem után társadalombiztosítási járulék fizetési kötelezettség keletkezett...''. Járulékfizetési kötelezettség ugyanis csak a gazdasági társaság tagjának a személyes közreműködésért kifizetett díjazása után áll fenn. (Az értékpapírból származó, illetőleg osztaléknak minősülő jövedelem továbbra sem képez járulékalapot, így e juttatásokra nézve új kötelezettséget sem írhatott elő a jogszabály. A kifogásolt kormányrendelet a járulékalapok tekintetében általában nem állapít meg kötelezettséget.) Ha az Alkotmánybíróság az átmenetileg fennállott alkotmányellenes rendelkezés megsemmisítése következményeként annak az adott időszakban keletkezett jogviszonyokra kiterjesztését is elrendelné, az nemcsak a jogbiztonságra, hanem a jogszabály-értelmezés eltérő volta miatt a jogérvényesítés lehetőségére is hátrányosan hatna, ezért ettől az Alkotmánybíróság eltekintett.
+
+Dr. Kilényi Géza s. k.,
+
+előadó alkotmánybíró
+
+Dr. Vörös Imre s. k.,
+
+alkotmánybíró
+
+Dr. Zlinszky János s. k.,
+
+alkotmánybíró
+
+Alkotmánybírósági ügyszám: 705/B/1992.
