@@ -1,0 +1,5 @@
+2. § (1) Semmissé kell nyilvánítani az olyan elítélést is, amelyet az 1. §-ban meghatározott időhatáron belül, az ott felsorolt bűncselekménnyel halmazatban más — nem súlyosabb büntetési tétellel fenyegetett — bűncselekmény miatt mondtak ki, ha azt az 1. §-ban felsorolt bűncselekménnyel szoros összefüggésben követték el.
+
+(2) Az (1) bekezdés alá nem tartozó, halmazatban elbírált bűncselekmények miatti elítélést csak az 1. §-ban meghatározott bűncselekmények vonatkozásában kell semmissé nyilvánítani (rész-semmisség). Rész-semmisség esetén elsősorban a halmazati büntetés alapját képező bűncselekmények büntetési tétele felső határainak egymáshoz viszonyított arányából kell kiindulni, és a kiszabott halmazati büntetést erre az arányra figyelemmel kell a részben semmis büntetés tartamával csökkenteni.
+
+(3) Ha a (2) bekezdésben említett esetben az elítélt a büntetését még nem töltötte le, a bíróság — a semmissé nyilvánítással nem érintett bűncselekménnyel kapcsolatos tényállás és bűnösség érintetlenül hagyása mellett — tárgyaláson új büntetést szab ki.

@@ -1,0 +1,1 @@
+5. § Az 1989. évi XXXVI. törvény hatálya alá eső bűncselekményekkel kapcsolatos politikai vagy más bűncselekmény miatt, az 1. §-ban meghatározott időhatáron belül történt elítélések semmissé nyilvánítására az 1989. évi XXXVI. törvény 3. §-a irányadó.
