@@ -1,0 +1,9 @@
+## Családi pótlék
+
+22. § (1) Az egyezmény 18. cikke alapján a gyermek, testvér és unoka (a továbbiakban: gyermekek) után járó családi pótlékot a (2) bekezdésben megjelölt társadalombiztosítási szerv abban az esetben köteles megállapítani és folyósítani, ha a Csehszlovákia területén dolgozó személy, a családi pótlék folyósítására vonatkozó magyar jogszabályok szerint családi pótlékra jogosult. A családi pótlékra vonatkozó jogosultság, valamint a családi pótlék összegének megállapításánál, a dolgozónak kizárólag a Magyarországon lakó gyermekeit lehet figyelembe venni. A családi pótlék folyósítására irányuló igényt az a személy is előterjesztheti akinek a gondozásában a gyermekek vannak.
+
+(2) Az (1) bekezdés szerint járó családi pótlékot – igénybejelentés alapján – az Országos Társadalombiztosítási Főigazgatóság Budapesti és Pest megyei Társadalombiztosítási Igazgatósága állapítja meg és folyósítja.
+
+(3) Az egyezmény alapján nyugellátásban vagy nyugellátási részösszegben részesülő személy gyermekei után az illetékes magyar nyugdíjfolyósító szerv, a hatályos magyar jogszabályok szerint abban az esetben állapít meg és folyósít családi pótlékot, ha a gyermekek Magyarország területén laknak. Az (1) bekezdés rendelkezéseit a nyugellátásban részesülő személyeknél is megfelelően alkalmazni kell.
+
+(4) A megállapított családi pótlékot a gyermekek gondozójának, illetőleg a nyugellátásban részesülő személynek kell folyósítani. A családi pótlék megállapításához és folyósításához szükséges adatokat és igazolásokat a csehszlovák részről kijelölt központi szervtől (24. §) kell kérni. A megállapított családi pótlék folyósításáról és a folyósítás megszüntetéséről, ha a családfő Csehszlovákia területén dolgozik, illetőleg, ha a nyugdíjas a csehszlovák teherviselőtől is részesül nyugellátási részösszegben, az említett központi szervet kell tájékoztatni.

@@ -1,0 +1,7 @@
+16. § (1) Az egyezmény 34. cikkének (2) bekezdése szerint az 1959. évi január hó 30. napját megelőzően magyar vagy csehszlovák biztosítás hatálya alatt elszenvedett üzemi baleset (foglalkozási betegség) alapján igényjogosult személy nyugellátását az illetékes magyar társadalombiztosítási szerv abban az esetben köteles megállapítani és az erre illetékes magyar szerv folyósítani, ha az 1959. évi január hó 30. napján a jogosultnak állandó lakóhelye Magyarország területén volt. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha a jogosult részére a csehszlovák biztosítási teherviselő megelőzően ellátást már megállapított.
+
+(2) Az (1) bekezdés szerint igényjogosult személy ellátását az üzemi baleset bekövetkezése, illetőleg a foglalkozási betegség keletkezése időpontjában hatályos magyar jogszabályok szerinti feltételekkel és mértékben kell megállapítani, figyelembe véve a nyugellátások időközben történt emelését is.
+
+(3) Az (1) bekezdés szerint igényjogosult személy halála esetén hozzátartozóit a halál időpontjában hatályos magyar jogszabályok szerint illeti meg ellátás.
+
+(4) Ha a biztosított üzemi baleset vagy foglalkozási betegség következtében az 1959. évi január hó 30. napját megelőzően halt meg, a hozzátartozókat a halál időpontjában hatályos magyar jogszabályok szerint csak abban az esetben illeti meg ellátás, ha az említett napon a hozzátartozóknak állandó lakóhelye Magyarország területén volt.

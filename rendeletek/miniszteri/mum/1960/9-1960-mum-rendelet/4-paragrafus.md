@@ -1,0 +1,7 @@
+4. § (1) Az a személy, akinek állandó lakóhelye Csehszlovákia területén van és Magyarország területén dolgozik, valamint e személyi igényjogosult családtagja [egyezmény 11. cikk (1) bekezdés], a betegségi biztosítás természetben járó szolgáltatásait lakóhelyén a magyar társadalombiztosítási szerv, illetőleg a munkáltató által kiállított igazolás alapján veheti igénybe.
+
+(2) Az a személy, akinek állandó lakóhelye Csehszlovákia területén van és aki kizárólag a magyar társadalombiztosítási szervtől részesül nyugellátásban, valamint e személy igényjogosult családtagja [egyezmény 11. cikk (3) bekezdés], ha egyéb jogcímen nem jogosult a betegségi biztosítás szolgáltatásaira, a betegségi biztosításnak a nyugdíjasokat megillető természetben járó szolgáltatásait lakóhelyén a csehszlovák Egészségügyi Minisztérium által kiállított igazolás alapján veheti igénybe.
+
+(3) Az a magyar állampolgár, aki átmenetileg tartózkodik Csehszlovákia területén [egyezmény 11. cikk (2) bekezdés első mondata], heveny megbetegedés és sürgős szükség esetén a gyógykezelést (ideértve a kórházi ápolást is) a feltétle-nül szükséges mértékben, továbbá a feltétlenül szükséges gyógyászati segédeszközöket Csehszlovákia területén az illetékes szervektől, a magyar hatóság által kiállított útiokmány (útlevél, határátlépési igazolvány) alapján igényelheti.
+
+(4) Az (1)–(3) bekezdések alapján nyújtott szolgáltatások költségeit a magyar és a csehszlovák illetékes állami és társadalombiztosítási szervek nem számolják el egymással.

@@ -1,0 +1,7 @@
+## 6. § Az egyezmény 10. cikkének (2) bekezdése szerint megbízás alapján kifizetett betegségi biztosítási pénzben járó szolgáltatásokat, a kijelölt központi szervek (24. §) naptári évenként térítik meg egymásnak, a kijelölt központi szervek által megállapított eljárási szabályok szerint.
+
+## Nyugdíjbiztosítás
+
+7. § (1) Az egyezmény 12. és 13. cikkén alapuló – vagyis az 1959. évi január hó 30. napján vagy azt követően a magyar jogszabályok szerint megnyílott – nyugdíjigények bejelentéséről az illetékes nyugdíjmegállapító szerv (21. §) harminc napon belül köteles a csehszlovák részről kijelölt központi szervet (24. §) értesíteni. Az értesítéssel egyidejűleg közölni kell az igénylőnek Magyarországon biztosításban eltöltött idejére vonatkozó, valamint az igény elbírálásához szükséges egyéb adatokat. Ugyanakkor fel kell kérni a csehszlovák részről kijelölt központi szervet, hogy az igénylőnek Csehszlovákiában biztosításban eltöltött idejére vonatkozó és az igény elbírálásához szükséges egyéb adatokat közölje.
+
+(2) Az illetékes nyugdíjmegállapító szerv a nyugellátás megállapítására irányuló igényt a rendelkezésre álló és az (1) bekezdés szerint beszerzett adatok és igazolások alapján – a mindkét országban biztosításban eltöltött és annak tekintendő idők egybeszámításával – az igénybejelentéskor hatályban levő magyar jogszabályok szerint köteles elbírálni és a nyugdíj összegét a 8. § rendelkezései szerint megállapítani.

@@ -1,0 +1,11 @@
+## 2. § Az egyezmény 3. cikkének (2) bekezdésében foglalt rendelkezés nem zárja ki azt, hogy a fegyveres testületek hivatásos tagjai és igényjogosult családtagjaik, amennyiben átmenetileg tartózkodnak a másik Szerződő Fél területén, az egyezmény 11. cikkének (2) bekezdésében meghatározott szolgáltatásokban részesülhessenek.
+
+## Betegségi és anyasági biztosítás
+
+3. § (1) Az a személy, akinek állandó lakóhelye Magyarország területén van és Csehszlovákia területén dolgozik, valamint e személy igényjogosult családtagja [egyezmény 11. cikk (1) bekezdés], a betegségi biztosítás természetben járó szolgáltatásait a magyar állami egészségügyi szolgálattól, illetőleg társadalombiztosítási szervtől a csehszlovák társadalombiztosítási szerv, vagy a munkáltató által kiállított igazolás alapján veheti igénybe.
+
+(2) Az a személy, akinek állandó lakóhelye Magyarország területén van és aki kizárólag a csehszlovák társadalombiztosítási szervtől részesül nyugellátásban, valamint e személy igényjogosult családtagja [egyezmény 11. cikk (3) bekezdés], ha egyéb jogcímen nem jogosult a betegségi biztosítás szolgáltatásaira, a betegségi biztosításnak a nyugdíjasokat megillető természetben járó szolgáltatásait a magyar állami egészségügyi szolgálattól, illetőleg társadalombiztosítási szervtől a kijelölt magyar központi szerv (24. §) által kiállított igazolás alapján veheti igénybe.
+
+(3) Az a csehszlovák állampolgár, aki átmenetileg tartózkodik Magyarország területén [egyezmény 11. cikk (2) bekezdés első mondata] heveny megbetegedés és sürgős szükség esetén a gyógykezelést – ideértve a kórházi ápolást is – a feltétlenül szükséges mértékben, továbbá a feltétlenül szükséges gyógyászati segédeszközöket a magyar állami egészségügyi szolgálattól, illetőleg a társadalombiztosítási szervtől a csehszlovák illetékes hatóságok által kiállított útiokmány (útlevél, határátlépési igazolvány) alapján igényelheti.
+
+(4) Az (1)–(3) bekezdés alapján a betegségi biztosítás természetben járó szolgáltatásait a hatályos magyar jogszabályok szerint kell nyújtani. Az így nyújtott szolgáltatások költségeit a magyar és csehszlovák illetékes államigazgatási és társadalombiztosítási szervek nem számolják el egymással.
