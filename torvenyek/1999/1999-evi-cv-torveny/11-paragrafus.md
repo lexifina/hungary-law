@@ -1,0 +1,1 @@
+11. § Az Országgyűlés tudomásul veszi, hogy a korábban adósságrendezési eljárásban érintett Bátorliget és Nágocs önkormányzatok esetében az 1995. évi köztartozások rendezésére kapott állami támogatásból az 1998. december 31-én még fennálló visszafizetési kötelezettség 5,1 millió forint, melynek realizálása az adósságrendezési eljárás során kötött egyezségnek megfelelően történik.

@@ -1,0 +1,1 @@
+20. § Az Országgyűlés a Nyugdíjbiztosítási Alapnak és az Egészségbiztosítási Alapnak a társadalombiztosítás pénzügyi alapjai 1998. évi költségvetésének végrehajtásáról szóló törvényben megállapításra kerülő hiányát a Kincstári Egységes Számla hitelállományából 1999. december 31-i hatállyal elengedi.

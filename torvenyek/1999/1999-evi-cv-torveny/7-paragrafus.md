@@ -1,0 +1,1 @@
+7. § Az Országgyűlés tudomásul veszi, hogy a pénzügyminiszter a Magyar Köztársaság 1996. évi költségvetésének végrehajtásáról szóló 1997. évi CXI. törvény 25. §-ában kapott felhatalmazása alapján a Magyar Államvasutak Részvénytársaságnak ott megjelölt hiteleit 16 447,4 millió forint összegben 1998. január 1-jei hatállyal átvállalta.
