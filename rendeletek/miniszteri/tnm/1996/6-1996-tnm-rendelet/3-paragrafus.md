@@ -1,0 +1,1 @@
+## 2. § Valamennyi közalkalmazott meghagyásával kapcsolatos ügyintézést a Hivatal személyzeti szerve látja el. A köztisztviselő meghagyásával kapcsolatos ügyintézést az illetékes személyügyi szerv látja el.

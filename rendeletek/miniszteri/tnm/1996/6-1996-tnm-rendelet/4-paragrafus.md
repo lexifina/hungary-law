@@ -1,0 +1,1 @@
+## 3. § A Hivatal személyzeti szerve elkészíti a beosztásban meghagyásra maradók névjegyzékét, valamint az abban bekövetkezett változásokat e rendelet melléklete szerint, és a főigazgató útján megküldi a honvédség vezérkari főnökének.
