@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Kosztolányi Dénes országgyűlési képviselő mentelmi jogát a Budai Központi Kerületi Bíróság 10.B.XII.1571/2001/2. sz. megkeresésével érintett ügyben nem függeszti fel.
