@@ -1,0 +1,1 @@
+## 3. § A védetté nyilvánítás célja a Mecsek-hegység déli lábánál elterülő karsztbokorerdő és legelő jellegzetes növényegyütteseinek, a rendkívüli fajgazdagságot mutató maradványterületeknek a megőrzése.
