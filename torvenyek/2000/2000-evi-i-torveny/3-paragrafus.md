@@ -1,0 +1,1 @@
+3. § A Szent Koronát és a hozzá tartozó jelvényeket – az őrzés helyéül szolgáló épületre irányadó látogatási rendnek megfelelően – bárki megtekintheti. A megtekintést a nemzeti ünnepeken ingyenesen kell biztosítani.
