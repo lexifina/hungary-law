@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Olasz Köztársaság Kormánya között Rómában, az 1979. évi október hó 30. napján aláírt, az egészségügyi együttműködésről szóló egyezményt e rendelettel kihirdeti.
