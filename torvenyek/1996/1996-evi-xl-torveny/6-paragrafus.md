@@ -1,0 +1,3 @@
+6. § (1) Az E. Alapnak az 5. § (1) bekezdésében meghatározott kiadási többletét a központi költségvetés – a KKT. 32. §-ának (1) bekezdésében foglaltaknak megfelelően – elengedi. A hiányt fedező összeg az E. Alapnak a központi költségvetés forgóalapjához kapcsolt megelőlegezési számlán a KKT. hatálybalépésének napján nyilvántartott hitelállományát csökkenti.
+
+(2) Az E. Alapnak az 5. § (1) bekezdésében meghatározott kiadási többlete az E. Alap likviditási tartalékát csökkenti. A kiadási többlet fedezetére az (1) bekezdés szerinti rendezés során jóváírt összeggel az E. Alap likviditási tartaléka visszapótlódik.

@@ -1,0 +1,3 @@
+2. § (1) Az Ny. Alapnak az 1. § (1) bekezdésében meghatározott kiadási többletét a központi költségvetés – a Magyar Köztársaság 1996. évi költségvetéséről szóló 1995. évi CXXI. törvény (a továbbiakban: KKT.) 32. §-ának (1) bekezdésében foglaltaknak megfelelően – elengedi. A hiányt fedező összeg az Ny. Alapnak a központi költségvetés forgóalapjához kapcsolt megelőlegezési számlán a KKT. hatálybalépésének napján nyilvántartott hitelállományát csökkenti.
+
+(2) Az Ny. Alap 1. § (1) bekezdés szerinti kiadási többlete az Ny. Alap likviditási tartalékát csökkenti. Az (1) bekezdés szerinti rendezés során elszámolt összeggel a likviditási alap visszapótlódik.

@@ -1,0 +1,1 @@
+Az Országgyűlés a társadalombiztosítás pénzügyi alapjai 1994. évi – a társadalombiztosítás pénzügyi alapjainak 1994. évi költségvetéséről szóló, az 1994. évi L. törvénnyel és az 1994. évi LXXVI. törvénnyel módosított 1993. évi CXV. törvényben (a továbbiakban: KT.) meghatározott – költségvetésének végrehajtásáról a következő törvényt alkotja:
