@@ -1,0 +1,1 @@
+## 1. § A Kormány a Vasutak Együttműködési Szervezete (OSZZSD) 2002. június 11-14. között, Vilniusban (Litvánia) megrendezésre került Miniszteri Értekezlet XXX. ülésszakán elfogadott Alapszabályát e rendelettel kihirdeti.
