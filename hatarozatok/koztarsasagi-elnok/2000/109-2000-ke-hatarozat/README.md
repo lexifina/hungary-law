@@ -1,0 +1,9 @@
+# 109/2000. (VIII. 9.) KE határozat
+
+Forrai Kristóf rendkívüli és meghatalmazott nagykövet megbízásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-109-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2000-08-09 | 2000-109-30-76.0 | 109/2000. (VIII. 9.) KE határozat |
