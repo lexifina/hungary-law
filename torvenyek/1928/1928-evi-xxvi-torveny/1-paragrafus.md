@@ -1,0 +1,1 @@
+1. § Az 1919. évben, Washingtonban tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a fiatalkorúak éjjeli ipari munkája tárgyában tervezet alakjában elfogadott nemzetközi egyezmény a magyar állam törvényei közé iktattatik.
