@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Németh Józsefet kinevezem főkonzullá, és megbízom a Magyar Köztársaság Sao Paulo Állam, Paraná Állam, Santa Catarina Állam és Rio Grande do Sul Állam területére kiterjedő hatáskörrel működő Sao Paulo-i főkonzulátusának vezetésével.
