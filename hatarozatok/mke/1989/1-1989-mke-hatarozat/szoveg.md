@@ -1,0 +1,1 @@
+A belügyminiszternek a Minisztertanács elnöke útján tett előterjesztésére Földesi Jenő rendőr altábornagyot, belügyminisztériumi államtitkárt, e tisztségéből, saját kérésére – érdemei elismerése mellett, nyugállományba vonulása miatt – 1989. november 30-ai hatállyal felmentem.
