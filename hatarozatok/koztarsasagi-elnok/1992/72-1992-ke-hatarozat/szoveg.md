@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Abod településrészt — Edelénnyel történt egyesítését megszüntetve — 1992. május 1. napjával Abod néven községgé nyilvánítom. Abod községgé nyilvánítása nem érinti Edelény városi címét.
