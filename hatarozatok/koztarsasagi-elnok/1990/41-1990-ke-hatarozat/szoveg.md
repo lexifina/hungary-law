@@ -1,0 +1,1 @@
+Az igazságügyminiszter előterjesztésére, a Magyar Közlönyben 22/1990. (III. 4.) KE számon közzétett határozatot dr. Faludi Imre bírói kinevezésére vonatkozóan visszavonom, mert nevezett bírói esküt nem tett és az állását nem foglalta el.
