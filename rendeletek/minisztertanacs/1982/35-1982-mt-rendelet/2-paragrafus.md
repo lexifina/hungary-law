@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Tunéziai Köztársaság Kormánya között Budapesten 1981. évi július hó 6. napján aláírt nemzetközi közúti fuvarozási Megállapodást e rendelettel kihirdeti.
