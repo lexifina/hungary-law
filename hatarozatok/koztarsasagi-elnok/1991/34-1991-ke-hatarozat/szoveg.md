@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére elhatározom a Magyar Köztársaság és a Dél-Afrikai Köztársaság teljeskörű konzuli tevékenységét ellátó Állandó Képviselet létesítését Pretóriában, illetve Budapest székhellyel, az egész ország területére kiterjedő hatáskörrel.
