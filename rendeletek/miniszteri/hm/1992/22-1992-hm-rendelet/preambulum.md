@@ -1,0 +1,1 @@
+A mérésügyről szóló 1991. évi XLV. törvény végrehajtására kiadott 127/1991. (X. 9.) Korm. rendelet 12. § (1) bekezdésében kapott felhatalmazás alapján — az Országos Mérésügyi Hivatal elnökével egyetértésben — a következőket rendelem:
