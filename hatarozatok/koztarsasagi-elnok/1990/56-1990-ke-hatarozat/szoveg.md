@@ -1,0 +1,1 @@
+A művelődési miniszter előterjesztésére a Politikai Főiskoláról nyugdíjba vonult dr. Wirth Ádám egyetemi tanárt, dr. Kárpáti Sándor egyetemi tanárt, dr. Gedő András egyetemi tanárt, dr. Nagy László egyetemi tanárt és dr. Szabó Gábor egyetemi tanárt 1990. április 30. napjával e tisztségük alól felmentem.
