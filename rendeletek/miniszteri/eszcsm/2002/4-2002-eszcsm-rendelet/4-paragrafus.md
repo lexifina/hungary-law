@@ -1,0 +1,1 @@
+## ,,(2) A fiatalkorúnak az intézetbe történő visszaszállításáról körözés elrendelése esetén az intézet, elfogatóparancs kibocsátása esetén a rendőrség gondoskodik. Az intézet a szökött fiatalkorú visszaérkezéséről mindazokat értesíti, akiket a szökésről értesített.''
