@@ -1,0 +1,1 @@
+1. § Az Országgyűlés elhatározza a Magyar Köztársaság csatlakozását a védelmi célokat szolgáló találmányok és a szabadalmaztatásra benyújtott védelmi célokat szolgáló találmányok titoktartalmának kölcsönös védelméről szóló NATO Megállapodáshoz (a továbbiakban: Megállapodás).
