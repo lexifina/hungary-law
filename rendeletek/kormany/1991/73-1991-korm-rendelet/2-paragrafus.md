@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között a nukleáris biztonsággal és a sugárvédelemmel összefüggő kölcsönös érdeklődés tárgyát képező kérdések szabályozásáról szóló megállapodást e rendelettel kihirdeti.
