@@ -1,0 +1,1 @@
+A Közbeszerzések Tanácsának a közbeszerzés tisztaságával és átláthatóságával kapcsolatos tapasztalatairól, valamint az 1998. január 1.–december 31. közötti időszakban végzett tevékenységéről szóló beszámolóját az Országgyűlés elfogadja.
