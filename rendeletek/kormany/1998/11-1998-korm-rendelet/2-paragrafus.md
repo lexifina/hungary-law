@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között Budapesten, 1997. január 28-án aláírt, a nemzetközi kombinált áruszállításról szóló Egyezményt e rendelettel kihirdeti.
