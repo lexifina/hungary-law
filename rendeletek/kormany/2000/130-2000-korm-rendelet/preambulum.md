@@ -1,0 +1,1 @@
+(A Magyar Köztársaság Kormányának jóváhagyásáról szóló értesítés az 1994. évi szeptember hó 2. napján megtörtént. Az Egyezmény a Magyar Köztársaság vonatkozásában az 1996. évi október hó 6. napján lépett hatályba.)
