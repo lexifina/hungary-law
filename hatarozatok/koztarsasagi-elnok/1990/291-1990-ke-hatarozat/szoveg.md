@@ -1,0 +1,1 @@
+A művelődési és közoktatási miniszter előterjesztésére dr. Michelberger Pál egyetemi tanárt 1990. december 10-étől 1992. június 30-áig megbízom a rektori teendők ellátásával a Budapesti Műszaki Egyetemen.
