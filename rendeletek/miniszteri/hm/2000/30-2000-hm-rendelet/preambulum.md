@@ -1,0 +1,1 @@
+A 2000. évi és 2001. első negyedévi sorállományváltás végrehajtása rendjéről szóló 19/1999. (XII. 20.) HM rendeletet (a továbbiakban: R.) a honvédelemről szóló 1993. évi CX. törvény 10. §-ának i) pontjában kapott felhatalmazás alapján a következők szerint módosítom:
