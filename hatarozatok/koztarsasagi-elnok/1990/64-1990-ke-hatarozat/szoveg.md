@@ -1,0 +1,1 @@
+A Minisztertanács elnökének előterjesztésére dr. Gál Zoltán belügyminisztériumi államtitkárt e tisztségéből – érdemei elismerésével – a Magyar Köztársaság új Minisztertanácsa hivatalba lépésének napjával felmentem.
