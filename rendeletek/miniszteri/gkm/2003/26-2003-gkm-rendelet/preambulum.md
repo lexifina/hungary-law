@@ -1,0 +1,1 @@
+A vasútról szóló 1993. évi XCV. törvény 9. §-ának (4) bekezdésében foglalt felhatalmazás alapján – figyelemmel a műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 182/1997. (X. 17.) Korm. rendelet 11. §-ában foglaltakra – a következőket rendelem el:
