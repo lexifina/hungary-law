@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére Bracsok István vezérőrnagynak, a Magyar Honvédség személyügyi főnök helyettesének – a hivatásos szolgálat felső korhatára betöltése előtt – vele egyetértésben, 1990. szeptember 1-jei hatállyal szolgálati viszonyát megszüntetem és egyidejűleg nyugállományba helyezem.
