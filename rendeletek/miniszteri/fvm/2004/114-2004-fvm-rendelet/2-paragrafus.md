@@ -1,0 +1,1 @@
+## 1. § E rendelet alkalmazásában az állategészségügy területén végrehajtott helyszíni ellenőrzés (a továbbiakban: ellenőrzés) olyan tevékenység, amely a közösségi jogszabályok egységes betartatását szolgálja.
