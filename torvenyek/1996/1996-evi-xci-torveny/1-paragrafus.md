@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Albán Köztársaság között a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén Tiranában, 1992. november 14-én aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1995. augusztus 24-én megtörtént, és az Egyezmény 1995. augusztus 24-én hatályba lépett.)
