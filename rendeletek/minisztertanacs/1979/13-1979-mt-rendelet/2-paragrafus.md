@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Kubai Köztársaság Kormánya között Budapesten, az 1974. évi március hó 29. napján aláírt, a polgári légiközlekedésről szóló Egyezményt e rendelettel kihirdeti.
