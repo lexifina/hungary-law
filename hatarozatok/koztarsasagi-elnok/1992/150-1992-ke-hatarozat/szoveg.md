@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére — a korábbi egyesítés megszüntetésével — Zirc város Lókút elnevezésű településrészét Lókút néven, Nagyesztergár elnevezésű településrészét Nagyesztergár néven, Olaszfalu elnevezésű településrészét Olaszfalu néven községgé nyilvánítom 1993. január 1. napjával. A községgé nyilvánítások nem érintik Zirc városi címét.
