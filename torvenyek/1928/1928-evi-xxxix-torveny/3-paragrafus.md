@@ -1,0 +1,1 @@
+3. § A jelen törvény végrehajtásával a minisztérium bízatik meg. Azt, hogy a jelen törvénnyel becikkelyezett okmányokat mely államok erősítették meg vagy, hogy azokhoz mely államok csatlakoztak, úgyszintén a netalán előforduló felmondásokat a kereskedelemügyi miniszter rendelettel teszi közzé.
