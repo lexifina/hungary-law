@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Egyesült Államok Kormánya között Budapesten, 1990. február 14-én az Egyesült Államok Békeszolgálatának magyarországi működéséről aláírt megállapodást e rendelettel kihirdeti.
