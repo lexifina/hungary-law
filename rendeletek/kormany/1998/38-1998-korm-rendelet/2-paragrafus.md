@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között a határmenti térségekben történő foglalkoztatásról, Szombathelyen, 1997. március 26-án aláírt Egyezményt e rendelettel kihirdeti.
