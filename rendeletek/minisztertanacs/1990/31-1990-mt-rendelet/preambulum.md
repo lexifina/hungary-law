@@ -1,0 +1,1 @@
+(A Magyar Népköztársaság csatlakozási okiratának letétbe helyezése az Egyesült Nemzetek főtitkáránál, mint letéteményesnél 1985. május hó 4-én megtörtént. Az Egyezmény 1988. szeptember hó 22. napján lépett hatályba.)
