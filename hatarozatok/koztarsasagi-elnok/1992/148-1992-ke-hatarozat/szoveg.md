@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Vasvár város Alsóújlak elnevezésű településrészét — a korábbi egyesítés megszüntetésével — Alsóújlak néven községgé nyilvánítom 1993. január 1. napjával. Alsóújlak községgé nyilvánítása nem érinti Vasvár városi címét.
