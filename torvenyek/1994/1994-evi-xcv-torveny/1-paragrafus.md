@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság Országgyűlése a Magyar Köztársaság és Kuvait Állam között a beruházások elősegítéséről és kölcsönös védelméről Kuvaitban, 1989. november 8. napján aláírt Megállapodást e törvénnyel kihirdeti. [A Megállapodást megerősítő okiratok kicserélése 1994. január 17-e napján megtörtént. Ennek megfelelően a Megállapodás 1994. március 1-jén hatályba lépett.]
