@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács, a Magyar Népköztáraság Kormánya és a Mongol Népköztársaság Kormánya között Ulánbátorban, az 1976. évi augusztus hó 10-én aláírt, az állategészségügy területén való együttműködésről szóló egyezményt e rendelettel kihirdeti.
