@@ -1,0 +1,1 @@
+A közszolgálati tájékoztatási eszközök (Magyar Rádió, Magyar Televízió, Magyar Távirati Iroda) vezetőinek kinevezési rendjéről szóló 1990. évi LVII. tv. 1. §-a alapján, a miniszterelnök javaslatára dr. Agárdi Pétert, a Magyar Rádió elnökhelyettesét tisztségéből – érdemei elismerése mellett – 1990. augusztus 1-jei hatállyal felmentem.
