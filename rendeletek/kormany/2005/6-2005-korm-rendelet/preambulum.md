@@ -1,0 +1,1 @@
+A Kormány a mezőgazdasági és vidékfejlesztési támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről és az ezzel összefüggő törvénymódosításokról szóló 2003. évi LXXIII. törvény 45. §-ának (1) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
