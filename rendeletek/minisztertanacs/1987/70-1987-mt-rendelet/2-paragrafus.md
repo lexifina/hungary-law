@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Osztrák Köztársaság Kormánya között a nukleáris létesítményeket érintő kölcsönös érdeklődés tárgyát képező kérdések szabályozásáról szóló egyezményt e rendelettel kihirdeti.
