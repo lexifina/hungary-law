@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között Szófiában, 1995. október 9-én aláírt, az állategészségügyi együttműködésről szóló Egyezményt e rendelettel kihirdeti.
