@@ -1,0 +1,1 @@
+A művelődési miniszter előterjesztésére – nyugállományba vonulására tekintettel – dr. Szamarasz Jannisz Oresztészt, a Marx Károly Közgazdaságtudományi Egyetem Közgazdasági Kar Politikai Gazdaságtan Tanszék egyetemi tanárát 1990. június 30. napjával e tisztsége alól felmentem.
