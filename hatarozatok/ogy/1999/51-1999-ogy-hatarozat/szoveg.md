@@ -1,0 +1,1 @@
+Az Országgyűlés a helyi önkormányzatokról szóló 1990. évi LXV. törvény 93. §-ának (4) bekezdése alapján Tiszaug Község Önkormányzata képviselő-testületének kezdeményezésére Tiszaug községet jelenlegi területével 1999. június 30. napjával Jász-Nagykun-Szolnok megyéből Bács-Kiskun megyéhez csatolja.
