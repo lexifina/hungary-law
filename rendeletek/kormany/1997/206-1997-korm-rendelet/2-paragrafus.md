@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Norvég Királyság Kormánya között Budapesten, 1997. június 20-án aláírt, a vámügyekben történő kölcsönös segítségnyújtásról szóló Egyezményt e rendelettel kihirdeti.
