@@ -1,0 +1,3 @@
+1. Az Országgyűlés az érintett önkormányzatok képviselő-testületeinek kezdeményezésére Csikvánd, Gyarmat és Szerecseny községeket jelenlegi területükkel Veszprém megyétől Győr-Moson-Sopron megyéhez csatolja át 1992. január 1. napjával.
+
+2. Az Országgyűlés településeknek megyék közötti átcsatolására irányuló kezdeményezéseit évente egy alkalommal tárgyalja. Az Országgyűlés kéri, hogy a települési önkormányzat képviselő-testülete az ilyen kezdeményezést június 30-ig terjessze fel a belügyminiszternek. Felkéri továbbá a Kormányt, hogy a megyék közötti területátcsatolási javaslatot a következő évi költségvetési törvény benyújtása előtt terjessze az Országgyűlés elé.
