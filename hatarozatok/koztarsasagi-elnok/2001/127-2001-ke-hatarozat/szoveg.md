@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Horváth Istvánt kinevezem rendkívüli és meghatalmazott nagykövetté, és megbízom a Magyar Köztársaság Egyesült Nemzetek Szervezete mellé rendelt bécsi Állandó Képviseletének, valamint az Európai Biztonsági és Együttműködési Szervezet mellett működő bécsi Állandó Képviseletének vezetésével.
