@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és Románia között Temesvárott, 1996. szeptember 16-án aláírt, a megértésről, az együttműködésről és a jószomszédságról szóló Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítő okiratait Budapesten, 1996. december 27-én kicserélték, és a Szerződés ezen a napon hatályba lépett.)
