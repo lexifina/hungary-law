@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Kaltenbach Jenő, nemzeti és etnikai kisebbségi jogok országgyűlési biztosa mentelmi jogát a Pesti Központi Kerületi Bíróság 13.B.24839/2003/2. számú megkeresésével érintett ügyében nem függeszti fel.
