@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Patvarc településrészt — Balassagyarmattal történt egyesítését megszüntetve — 1992. január 1. napjával községgé nyilvánítom. Patvarc községgé nyilvánítása nem érinti Balassagyarmat városi címét.
