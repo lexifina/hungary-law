@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Portugál Köztársaság Kormánya között Budapesten, az 1977. évi március hó 31. napján aláírt műszaki-tudományos együttműködési egyezményt e rendelettel kihirdeti.
