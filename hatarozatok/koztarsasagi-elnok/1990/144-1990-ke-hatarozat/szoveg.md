@@ -1,0 +1,1 @@
+A művelődési és közoktatási miniszter előterjesztésére Kazimir Károly egyetemi tanárt, a Színház és Filmművészeti Főiskola rektorát, munkája elismerése mellett – saját kérésére –, 1990. július 10-ei hatállyal e tisztsége alól felmentem.
