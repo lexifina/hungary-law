@@ -1,0 +1,1 @@
+(A Magyar Köztársaságnak a jegyzőkönyv megerősítéséről szóló okiratának letétbe helyezése az Európa Tanács Főtitkáránál 2003. július 17-én megtörtént. A jegyzőkönyv hatálybalépésének napja – a 7. cikk 2. pontjában foglalt rendelkezésnek megfelelően – 2003. november 1.)
