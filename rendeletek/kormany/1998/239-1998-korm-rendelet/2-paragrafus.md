@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság és a Török Köztársaság közötti Szabadkereskedelmi Megállapodás C) Jegyzőkönyvének B) Mellékletében szerepelő élőmarhára és fagyasztott marhahúsra vonatkozó kompenzációról szóló vegyesbizottsági határozatot e rendelettel kihirdeti.
