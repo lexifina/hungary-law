@@ -1,0 +1,1 @@
+3. § Ez a törvény kihirdetése napján lép hatályba, rendelkezéseit azonban alkalmazni kell a forrásnál levont adók tekintetében 1995. január 1-jén vagy az után keletkezett jövedelemre, az egyéb jövedelmek tekintetében az olyan adókra, melyek 1995. január 1-jén vagy az után kezdődő bármely adózási évre vethetők ki.

@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Pakisztáni Iszlám Köztársaság között a kettős adóztatás elkerülésére a jövedelemadók területén Islamabadban, 1992. február 24. napján aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1993. december 8-án megtörtént, és az Egyezmény 1994. február 6-án hatályba lépett.)
