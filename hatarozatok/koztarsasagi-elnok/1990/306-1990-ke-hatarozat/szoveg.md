@@ -1,0 +1,1 @@
+Az Alkotmány 30/A. §-ának (1) bekezdése alapján, a miniszterelnök javaslatára dr. Matolcsy Györgyöt, a Miniszterelnöki Hivatal politikai államtitkárát erre vonatkozó kérésével egyetértésben tisztségéből 1990. december 31-ei hatállyal, érdemei elismerése mellett felmentem.
