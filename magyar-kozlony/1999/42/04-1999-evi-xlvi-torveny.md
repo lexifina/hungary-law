@@ -1,0 +1,121 @@
+# 1999. évi XLVI. törvény
+
+Magyar Közlöny 1999. évi 42. szám, 1999. május 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/66fc70c2df44afc3eae27feaf7272203b855f65c/dokumentumok/1e15dfa0ece24253e7a353249f21d73cf2f4397d/letoltes)
+
+---
+
+1999. évi XLVI.
+törvény
+az általános mezőgazdasági összeírásról*
+Az Országgyűlés annak érdekében, hogy a magyar me-
+zőgazdasági statisztikai információs rendszernek az agrár-
+gazdaság megalapozott irányítását szolgáló és a hazai fel-
+használók igényeit biztosító, valamint az Európai Unió
+agrárstatisztikai követelményeihez igazodó továbbfejlesz-
+tését elősegítse, továbbá, hogy Magyarország csatlakozzon
+az ENSZ Élelmezési és Mezőgazdasági Szervezete (FAO)
+világcenzusához, a következő törvényt alkotja:
+1.§ (1) Magyarország területén 2000. március 31. eszmei
+időponttal teljes körű, általános mezőgazdasági összeírást
+(a továbbiakban: összeírás) kell tartani, melyet 2000. év
+őszén reprezentatív összeírások egészítenek ki. Az adatok
+2000. évre vonatkozóan kerülnek összeírásra.
+(2) A teljes körű összeírás előkészítéseként 1999 szep-
+temberében próbafelvételt kell végrehajtani.
+2. § E törvény alkalmazásában
+a) gazdaság: a mezőgazdasági tevékenységet folytató,
+technikailag és gazdaságilag különálló egység, amelynek
+saját, önálló irányítása van, és
+aa) összes termőterületre (szántó, kert, gyümölcsös,
+szőlő, gyep, erdő, halastó, nádas) legalább 1500 m2,vagy
+ab) összes gyümölcsös vagy szőlőterülete legalább
+500 m2, vagy
+ac) intenzív kertészeti termelést folytat, vagy
+* A törvényt az Országgyűlés az 1999. május 4-i ülésnapján fogad-
+ta el.
+ad) mezőgazdasági haszonállat állománya legalább
+ad1. egy nagyobb élőállat (szarvasmarha, sertés,
+ló, juh, kecske, bivaly), vagy
+ad2. 50 tyúk, illetve más baromfi (liba, kacsa, puly-
+ka, gyöngyös), vagy
+ad3. 25-25 házinyúl, prémes állat, húsgalamb, vagy
+ad4. 5 méhcsalád, illetőleg
+ae) mezőgazdasági szolgáltatást végez;
+b) gazdálkodó: az a személy, aki a gazdaság működteté-
+séért a gazdasági (és jogi) felelősséget viseli;
+c) gazdasághoz tartozók: a család, illetve háztartás tag-
+jai, akik általában a gazdálkodó háztartásában élnek, vagy
+máshol élnek, de a gazdaságban mezőgazdasági munkát
+végeznek;
+d) mezőgazdasági tevékenység: a gazdasági tevé-
+kenységek egységes, ágazati osztályozási rendszeréről
+(TEÁOR ’98) szóló 9008/1997. (SK 7.) KSH közlemény
+szerint az »„A” Mezőgazdaság, vadgazdálkodás, erdőgaz-
+dálkodás«, illetve »„B” Halászat« gazdasági tevékenységi
+körbe sorolt tevékenységek;
+e) mezőgazdasági hasznosítású földterület: a szántó,
+kert, gyümölcsös, szőlő, gyep művelési módnak megfele-
+lően hasznosított földterület.
+3. § (1) Az összeírás hatálya kiterjed a Magyarország
+területén mezőgazdasági termelést fő- és másodlagos tevé-
+kenységként folytató
+a) regisztrált mezőgazdasági termelőkre
+aa) jogi személyiségű társas vállalkozásokra,
+ab) jogi személyiség nélküli társas vállalkozásokra,
+ac) egyéni vállalkozásokra,
+ad) költségvetési szervekre és intézményeire, és
+ae) non-profit szervezetekre, függetlenül azok ágazati
+besorolásától;
+b) mezőgazdasági tevékenységet folytató háztartások-
+ra, ahol a gazdaság mérete a 2. § a) pontjában meghatáro-
+zott küszöbértéket meghaladja.
+4. § A 3. §-ban meghatározottak körében összeírásra
+kerülnek:
+a) a gazdálkodó azonosító adatai (név, lakcím);
+b) a gazdálkodó mezőgazdasági tevékenysége irányítá-
+sának formája és a termelés célja;
+c) a gazdaságban munkát végzők foglalkoztatási jel-
+lemzői;
+d) a gazdasághoz tartozók neme, életkora, iskolai vég-
+zettsége, gazdasági aktivitása, jövedelemszerző tevékeny-
+sége;
+e) a gazdaság földterülete, a földterület aranykorona
+értéke, a földhasználat jogcímei, a földhasználat művelési
+ágak szerinti jellemzői;
+f) a gazdaság növénytermesztésének és állattenyészté-
+sének jellemzői;
+g) a gazdaság állatállománya kor, ivar és fajta szerint;
+h) a gazdaság mezőgazdasági rendeltetésű épületei,
+építményei, épületrészei és a gazdaság által használt gé-
+pek, berendezések;
+i) a gazdaság egyéb nem mezőgazdasági jellegű tevé-
+kenységei.
+
+5. § (1) Az összeírás végrehajtása a Központi Statisztikai
+Hivatal feladata.
+(2) Az összeírás teljeskörűségének biztosítása érdeké-
+ben
+a) a földhivatalok a termőföld tulajdonnal rendelke-
+zők,
+b) a területi agrárkamarák az őstermelői nyilvántartá-
+sukban szereplők
+név- és lakcím adatait a KSH-nak átadják.
+(3) A törvény hatálya alá tartozó adatszolgáltatók a
+4. §-ban meghatározott adatokat kötelesek a valóságnak
+megfelelően szolgáltatni.
+(4) Az összeírás során gyűjtött adatok a statisztikai
+törvény rendelkezései szerint kizárólag statisztikai célra
+használhatók.
+6. § (1) Ez a törvény a kihirdetését követő 30. napon lép
+hatályba.
+(2) Felhatalmazást kap a Kormány, hogy szükség szerint
+rendeletben szabályozza:
+a) az általános mezőgazdasági összeírás és a kapcsoló-
+dó próbafelvétel időpontját, illetve időtartamát;
+b) az összeírás programjának részletes mutatókörét;
+c) az adatszolgáltatói kör adatszolgáltatási kötelezett-
+ségének részletes meghatározását.
+Göncz Árpád s. k.,
+Dr. Áder János s. k.,
+a Köztársaság elnöke
+az Országgyűlés elnöke
