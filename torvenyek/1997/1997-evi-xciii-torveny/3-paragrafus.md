@@ -1,0 +1,3 @@
+3. § Az egyezmény megerősítésekor a Magyar Köztársaság az alábbi fenntartást tette az egyezményhez:
+
+„,,A Magyar Köztársaság fenntartja magának a jogot arra, hogy az Egyezmény 13. Cikke alapján, az e Cikkben meghatározott kötelezettségvállalást nem érintve, megtagadja az 1. Cikkben felsorolt bármelyik bűncselekménnyel összefüggésben előterjesztett kiadatási kérelem teljesítését, ha e bűncselekményt politikai bűncselekménynek tekinti. A Magyar Köztársaság e fenntartását úgy fogja értelmezni, hogy a szándékos emberölés, illetve a szándékos emberölést is magában foglaló bűncselekmény nem tekinthető politikai bűncselekménynek.''”
