@@ -1,0 +1,9 @@
+# 22/2003. (VI. 25.) IM rendelet
+
+a tárgyalás zártcélú távközlő hálózat útján történő megtartásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-22-20-06
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2003-07-01 | 2003-22-20-06.1 | 22/2003. (VI. 25.) IM rendelet |
