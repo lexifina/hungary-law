@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére a Népköztársaság Elnöki Tanácsának 117/1958. (XI. 27.) határozatát – amellyel Timár Gyulát (1902. Adamkó Lívia) tartalékos vezérőrnagyi rendfokozatától megfosztotta – semmissé nyilvánítom.
