@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Chilei Köztársaság Kormánya közötti kulturális, oktatási és tudományos együttműködésről szóló, Budapesten, 1995. április 26-án aláírt egyezményt e rendelettel kihirdeti.
