@@ -1,0 +1,1 @@
+3. § A törvény a kihirdetését követő 8. napon lép hatályba, a Szerződés rendelkezéseit azonban 1992. június 17-től, a Záródokumentum ,,A'' Melléklete rendelkezéseit pedig 1997. május 15-től kell alkalmazni.

@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Európai Hagyományos Fegyveres erőkről szóló Szerződést (a továbbiakban: Szerződés), a Szerződés első felülvizsgálati konferenciáján a Szerződés kiegészítéseként, annak szerves részeként elfogadott Záródokumentum ,,A'' mellékletét és az ideiglenes alkalmazás kiterjesztéséről rendelkező határozatot e törvénnyel kihirdeti.
