@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között Prágában, 1998. július 8-án aláírt, a vámügyekben történő kölcsönös segítségnyújtásról szóló Megállapodást e rendelettel kihirdeti.
