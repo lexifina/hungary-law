@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Czeglédi János főkonzult – érdemei elismerésével – felmentem e rangja, valamint a Magyar Köztársaság nyugat-berlini főkonzulátusa vezetésére kapott megbízatása alól.
