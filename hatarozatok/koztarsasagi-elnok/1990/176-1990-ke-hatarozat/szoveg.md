@@ -1,0 +1,1 @@
+A Belügyminiszter előterjesztésére elrendelem Fejér megyében Bicske néven város és községegyesítést megszüntetve Bicske néven város és Csabdi néven 1990. szeptember 23. napjával község alakítását, a községben önálló tanács szervezését.
