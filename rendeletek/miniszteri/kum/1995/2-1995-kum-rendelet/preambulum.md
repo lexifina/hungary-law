@@ -1,0 +1,1 @@
+A konzuli kapcsolatokról Bécsben, 1963. április 24-én elfogadott egyezmény (a továbbiakban: Egyezmény) kihirdetéséről szóló 1987. évi 13. törvényerejű rendelet 3. §-ának (3) bekezdésében kapott felhatalmazás alapján — az érdekelt miniszterekkel és a legfőbb ügyésszel egyetértésben — a következőket rendelem el:
