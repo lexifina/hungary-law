@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Libanoni Köztársaság között 2001. június 22-én, Bejrútban aláírt, a beruházások ösztönzéséről és kölcsönös védelméről szóló Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 2002. július 23-án megtörtént és a Megállapodás 2002. július 23-án hatályba lépett.)
