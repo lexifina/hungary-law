@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Székely János vezérőrnagyot a BM Határőrség Országos Parancsnokát, e beosztásából, 1990. június 30-ai hatállyal – érdemei elismerése mellett – nyugállományba vonulása alkalmából felmentem.
