@@ -1,0 +1,1 @@
+## 1. § A Kormány a Közép-Európai Szabadkereskedelmi Megállapodás 1—6. számú Jegyzőkönyveinek módosításáról szóló Kiegészítő Jegyzőkönyvet (a továbbiakban: Kiegészítő Jegyzőkönyv), amely 1995. június 28-án hatályba lépett, e rendelettel kihirdeti.
