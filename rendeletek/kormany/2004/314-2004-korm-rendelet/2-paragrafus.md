@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a kötelező kőolaj- és kőolajtermék-készletek tárolása terén való együttműködésről 2002. november 20-án Budapesten aláírt Megállapodást e rendelettel kihirdeti.
