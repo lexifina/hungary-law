@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya kiterjed az Információs Hivatalra, a Nemzetbiztonsági Hivatalra és a Nemzetbiztonsági Szakszolgálatra (a továbbiakban együtt: Hivatal), valamint a Hivatal hivatásos állományú tagjaira (a továbbiakban: hivatásos állomány tagja).

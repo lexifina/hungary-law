@@ -1,0 +1,1 @@
+## 2. § A Hivatal fogorvosi rendelőjében elvégzett fogszakorvosi és szájsebészeti eljárások – a fogpótlások kivételével – térítésmentesek. A fogpótlások fogtechnikai költségeit a hivatásos állomány tagja maga viseli.
