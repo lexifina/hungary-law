@@ -1,0 +1,1 @@
+A gázszolgáltatásról szóló 1994. évi XLI. törvény 7. § (1) bekezdésében, valamint a villamos energia termeléséről, szállításáról és szolgáltatásáról szóló 1994. évi XLVIII. törvény 8. § (1) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
