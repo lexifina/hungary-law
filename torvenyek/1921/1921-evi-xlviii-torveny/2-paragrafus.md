@@ -1,0 +1,1 @@
+2. § Az 1. § szerint törvénybe iktatott békeszerződésben foglalt kikötéseket a minisztérium hajtja végre, de amennyiben az e végből szükséges rendelkezések a törvényhozás tárgyaira vonatkoznak, a nemzetgyűlés előzetes hozzájárulását kell kieszközölnie.

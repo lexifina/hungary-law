@@ -1,0 +1,1 @@
+4. § A jelen törvény kihirdetése napján lép életbe, még pedig a békeszerződés életbelépésének napjától kezdődő hatállyal. A békeszerződés életbelépésének napját a minisztérium rendelettel közzéteszi.
