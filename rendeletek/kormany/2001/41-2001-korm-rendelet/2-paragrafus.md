@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a vízgazdálkodási kérdések tárgyában, Ljubljanában, 1994. október 21-én aláírt Egyezményt e rendelettel kihirdeti.
