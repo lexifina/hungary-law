@@ -1,0 +1,1 @@
+## 2. § A Zászlóalj riasztását a KKB Veszélyhelyzeti Központja – a HM illetékes szerve útján – végzi. A riaszthatóság helyzetét és az összeköttetés állapotát hetente ellenőrizni kell. Az adatok naprakészségének biztosításáért a HM felelős.

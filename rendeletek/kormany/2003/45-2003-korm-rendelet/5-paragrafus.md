@@ -1,0 +1,1 @@
+## 4. § A Zászlóalj parancsnoka a végzett tevékenységről a HM illetékes szerve útján, külön meghatározott szempontoknak megfelelően tájékoztatja a KKB Veszélyhelyzeti Központját. Ez a tájékoztatási kötelezettség a szolgálati elöljáró részére történő jelentést nem helyettesíti.

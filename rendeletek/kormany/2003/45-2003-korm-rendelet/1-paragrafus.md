@@ -1,0 +1,3 @@
+1. § (1) A Zászlóalj egészének vagy részeinek Magyarországon való igénybevételére, illetve tevékenysége megszüntetésére – Honvédelmi Minisztérium (a továbbiakban: HM) illetékes szerveivel történő előzetes egyeztetést követően – a területileg illetékes megyei védelmi bizottság elnöke tesz javaslatot a Kormányzati Koordinációs Bizottság (KKB) elnöke, illetve a katasztrófa típusa szerint illetékes helyettese részére a honvédelmi miniszter egyidejű tájékoztatása mellett.
+
+(2) Árvízi katasztrófa esetén a KKB illetékes elnökhelyettese tesz javaslatot a KKB elnökének a Zászlóalj Magyarországon való igénybevételére, illetve tevékenysége megszüntetésére a területileg illetékes megyei védelmi bizottság elnöke és a honvédelmi miniszter egyidejű tájékoztatása mellett.
