@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Görög Köztársaság Kormánya között Athénben, az 1977. évi március hó 18. napján aláírt kulturális, oktatási és tudományos együttműködési egyezményt e rendelettel kihirdeti.
