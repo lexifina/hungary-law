@@ -1,0 +1,13 @@
+A külügyminiszter előterjesztésére Iklódy Gábort kinevezem rendkívüli és meghatalmazott nagykövetté, és megbízom a Magyar Köztársaság oslói nagykövetségének vezetésével.
+
+Budapest, 1999. július 30.
+
+Göncz Árpád s. k.,
+
+a Köztársaság elnöke
+
+Ellenjegyzem:
+
+Dr. Martonyi János s. k.,
+
+külügyminiszter
