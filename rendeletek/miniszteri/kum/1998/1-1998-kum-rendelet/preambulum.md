@@ -1,0 +1,1 @@
+A külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Törvény) 41. §-ának (3) bekezdése alapján kapott felhatalmazás alapján a diplomata- és külügyi szolgálati útlevelek kezelésének részletes szabályait az alábbiak szerint állapítom meg:
