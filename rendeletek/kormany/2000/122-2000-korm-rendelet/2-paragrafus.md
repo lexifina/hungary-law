@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a bizonyítványok és oklevelek kölcsönös elismeréséről szóló, Ljubljanában, 1999. február 5-én aláírt Egyezményt e rendelettel kihirdeti.
