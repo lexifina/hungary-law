@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Holland Királyság között a szociális biztonsági ellátások kivitelével kapcsolatos együttműködésről szóló Egyezményt (a továbbiakban: Egyezmény), e törvénnyel hirdeti ki. (A megerősítésről szóló utolsó értesítésre 2002. január 31-én került sor.)
