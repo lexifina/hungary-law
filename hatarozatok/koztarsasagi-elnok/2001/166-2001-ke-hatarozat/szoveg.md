@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Tamás Lajos rendkívüli és meghatalmazott nagykövetet – a Magyar Köztársaság jakartai nagykövetségének vezetésére kapott megbízása érintetlenül hagyása mellett – felmentem a Magyar Köztársaság Szingapúrban való képviseletére kapott megbízása alól.
