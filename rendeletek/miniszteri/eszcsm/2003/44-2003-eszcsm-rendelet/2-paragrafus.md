@@ -1,0 +1,1 @@
+## ,,(3) Ha a fiatalkorú nem a lakóhelyén kíván tartózkodni, illetve a bv. bíró magatartási szabályként a fiatalkorú tartózkodási helyéül nem a lakóhelyét jelöli meg, a tájékoztatást és a szükséges mellékleteket az új tartózkodási hely szerint illetékes megyei pártfogói hivatalnak is meg kell küldeni.''
