@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság és a Németországi Szövetségi Köztársaság között a szociális biztonságról szóló, 1998. május 2-án, Budapesten aláírt Egyezményhez kapcsolódó Végrehajtási Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
