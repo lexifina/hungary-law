@@ -1,0 +1,19 @@
+# Az Országgyűlés 86/2004. (IX. 15.) OGY határozata
+
+Magyar Közlöny 2004. évi 129. szám, 2004. szeptember 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/77cbeccdb0b8aaf786890c6d1c6a276f6fc72cad/dokumentumok/30838069f76074e39b068b6a9ebaf8c17d565a58/letoltes)
+
+---
+
+Az Országgyűlés
+86/2004. (IX. 15.) OGY
+határozata
+az afganisztáni Nemzetközi Biztonsági Közreműködő
+Erők (ISAF) műveleteiben történő magyar katonai
+részvételről szóló jelentés elfogadásáról*
+Az Országgyűlés elfogadja az afganisztáni Nemzetközi
+Biztonsági Közreműködő Erők (ISAF) műveleteiben tör-
+ténő magyar katonai részvételről szóló jelentést.
+Dr. Szili Katalin s. k.,
+az Országgyűlés elnöke
+Nagy Nóra s. k., Vincze László s. k.,
+az Országgyűlés jegyzője az Országgyűlés jegyzője
