@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Tóth János rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaságnak a Perui Köztársaságban való képviseletére kapott megbízása alól.
