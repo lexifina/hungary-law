@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Farád településrészt — Csorna várossal történt egyesítését megszüntetve — 1992. március 1. napjával Farád néven községgé nyilvánítom. Farád községgé nyilvánítása nem érinti Csorna városi címét.
