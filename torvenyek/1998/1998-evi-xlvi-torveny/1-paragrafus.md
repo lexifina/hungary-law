@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között a honvédelem és a haditechnika területén kicserélt minősített információk és eszközök védelméről, Budapesten, 1998. február 23-án aláírt Egyezményt (a továbbiakban: Egyezmény) e törvénnyel megerősíti.
