@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság és Ausztrália között a kettős adóztatás elkerülésére és az adóztatás kijátszásának megakadályozására a jövedelemadók területén Canberrában, 1990. november 29-én aláírt Egyezményt e határozattal megerősíti.
