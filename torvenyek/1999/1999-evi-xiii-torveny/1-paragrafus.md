@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Kazah Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről Budapesten, 1994. december 7-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1996. március 3-án megtörtént, és a Megállapodás 1996. március 3-án hatályba lépett.)
