@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Indiai Köztársaság Kormánya közötti egészségügyi együttműködésről szóló, New Delhiben, az 1976. évi december hó 9. napján aláírt egyezményt e rendelettel kihirdeti.
