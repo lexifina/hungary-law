@@ -1,0 +1,1 @@
+A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: At.) 67. §-ának g) pontjában írt felhatalmazás alapján – az atomkárokért való polgári jogi felelősségről Bécsben, 1963. május 21-én kelt nemzetközi egyezmény kihirdetéséről intézkedő 24/1990. (II. 7.) MT rendeletre is figyelemmel – az alábbiakat rendeli el:
