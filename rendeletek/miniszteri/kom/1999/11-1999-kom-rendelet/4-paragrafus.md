@@ -1,0 +1,1 @@
+## 3. § A védetté nyilvánítás célja: a mezőföldi táj egyedi arculatát meghatározó löszképződmények, az Ős-Sárvíz hajdani medre helyén képződött futóhomokos területek és a rajtuk kialakult fajokban gazdag vegetáció és állatvilág megőrzése, a tájképi és kultúrtörténeti értékek védelme.

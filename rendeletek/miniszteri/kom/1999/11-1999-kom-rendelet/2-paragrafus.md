@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Dél-Mezőföld Tájvédelmi Körzet elnevezéssel az Alsószentiván, Bikács, Kölcske, Cece, Dunaföldvár, Medina, Nagydorog, Németkér, Paks, Szedres, Tengelic és Vajta községhatárokban lévő, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú 7546,5 hektár kiterjedésű területet.
