@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között a nem menetrend szerinti forgalomban bonyolódó nemzetközi közúti személyszállítási, Koppenhágában, 1998. május 26-án aláírt Megállapodást e rendelettel kihirdeti.
