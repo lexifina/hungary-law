@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Karcag város Berekfürdő elnevezésű településrészét 1992. július 1-jével Berekfürdő néven községgé nyilvánítom. Berekfürdő községgé nyilvánítása nem érinti Karcag városi címét.
