@@ -1,0 +1,1 @@
+Az Országgyűlés elfogadja a délszláv válság nyomán kialakult humanitárius szükséghelyzet megoldásában történő segítségnyújtás céljából a Magyar Köztársaság területén átengedett külföldi fegyveres erőkről, valamint áthaladásuk részleteiről szóló jelentést.
