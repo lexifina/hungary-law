@@ -1,0 +1,5 @@
+2. § (1) A Társaság alaptevékenysége a Magyarországon előállított, továbbá a külföldről behozott és érvényes próbabélyeggel, illetve próbajellel el nem látott polgári célú kézilőfegyverek és lőszereik forgalomba hozatal előtti, valamint időszaki megvizsgálása és az ezzel kapcsolatos teendők ellátása az érvényben lévő jogszabályok, szabványok, továbbá a kézilőfegyverek próbabélyegeinek kölcsönös elismeréséről Brüsszelben, 1969. július 1-jén kötött és az 1973. évi 19. törvényerejű rendelettel kihirdetett nemzetközi Egyezmény alapján, a kézilőfegyverek vizsgálatára alakult Nemzetközi Állandó Bizottság (Comission Internationale Permanente, röviden és a továbbiakban: C.I.P.) által kiadott előírások szerint.
+
+(2) A Társaság a vizsgálatokról szakvéleményt készít, vizsgálati jelzésein a nemzetközi egyezmény alapján elismert ,,MKH'' jelet használja.
+
+(3) A Társaság ellátja az (1) bekezdésben hivatkozott nemzetközi Egyezmény értelmében az Egyezmény Nemzetközi Állandó Bizottságába (C.I.P.) delegált magyar küldöttség titkári teendőit.
