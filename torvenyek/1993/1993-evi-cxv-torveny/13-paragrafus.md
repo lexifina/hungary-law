@@ -1,0 +1,1 @@
+13. § A társadalombiztosítási alrendszernek a Ny. Alap és az E. Alap költségvetése összegezéséből — a halmozódások kiküszöbölésével — adódó összevont költségvetése mérlegét a törvény 8. számú melléklete tartalmazza.

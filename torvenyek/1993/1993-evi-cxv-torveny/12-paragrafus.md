@@ -1,0 +1,1 @@
+12. § A 2. § (4) bekezdésében és a 6. § (5) bekezdésében meghatározott előirányzat teljesüléséért 1993-ban legfeljebb 16 milliárd forint értékű többletvagyon kerül átadásra. Az átadásra kerülő többletvagyont csökkenti az ÁV Rt. által átadandó vagyonrész hozama. A többletvagyon ezen túlmenően szabadon értékesíthető.

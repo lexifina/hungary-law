@@ -1,0 +1,3 @@
+14. § (1) 1994. január 1-jétől a 9. számú mellékletben felsorolt, 1993-ban még átmenetileg a társadalombiztosítás által finanszírozott ellátások kiadásait — a mezőgazdasági szövetkezeti járadékok kivételével, amelyek 1994. évben még a Ny. Alap részei — a központi költségvetés finanszírozza. A mezőgazdasági szövetkezeti járadékok kiadásait a központi költségvetés 1995. január 1-jétől átveszi a Ny. Alaptól.
+
+(2) A társadalombiztosítási szervek által folyósított, társadalombiztosítási alrendszeren kívüli forrásból megtérített pénzbeli ellátások kiadásait a törvény 10. számú melléklete tartalmazza. E kiadások nem részei a társadalombiztosítási alrendszer költségvetésének.
