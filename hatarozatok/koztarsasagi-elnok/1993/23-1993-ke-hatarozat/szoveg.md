@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Edelény város Ládbesenyő elnevezésű településrészét, az egyesítés megszüntetésével, Ládbesenyő néven községgé nyilvánítom 1993. június 1. napjával. Ládbesenyő községgé nyilvánítása nem érinti Edelény városi címét.
