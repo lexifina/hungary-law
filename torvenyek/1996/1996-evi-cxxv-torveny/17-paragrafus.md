@@ -1,0 +1,1 @@
+17. § A 6. számú melléklet kiadások oldal 1. cím kiadások, 1. alcím természetbeni ellátások, 2–7. előirányzat-csoportszám és 2. alcím pénzbeli ellátások 1–5. előirányzat-csoportszám, valamint 2. cím egyéb kiadások 1. alcím, 3. alcím, 4. alcím, 5. alcím, 6. alcím előirányzatai a tényleges kiadások mértékéig túlléphetőek.

@@ -1,0 +1,1 @@
+16. § A 3. számú melléklet kiadási oldal 1. cím kiadások, 1. alcím 1., 2. előirányzat-csoportszám – ideértve a nyugellátások szükséges emelését –, valamint a 2. cím postaköltségek és egyéb kiadások előirányzatai a tényleges kiadások mértékéig túlléphetőek.

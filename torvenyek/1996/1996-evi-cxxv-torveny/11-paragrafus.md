@@ -1,0 +1,5 @@
+11. § (1) A 6. számú melléklet 1. cím, 1. alcím, 4. előirányzat-csoport tartalmazza azon gyógyszerek támogatásának 6566 millió forint összegű előirányzatát, melyek – a felhasználásnak a szakmailag kiemelten indokolt területekre történő korlátozása érdekében – csak a gyógyszeres kezelést végző egészségügyi intézmény és az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) által megkötött külön szerződés szerint támogathatók.
+
+(2) A külön szerződés szerint támogatható gyógyszereket és a támogatás feltételeit külön jogszabály állapítja meg. Csak külön szerződés szerint támogathatók a vérzékenység és a sclerosis multiplex kezelésére szolgáló gyógyszerek.
+
+(3) A 6. és 9. számú melléklet 1. cím, 1. alcím, 4. előirányzat-csoport 1. kiemelt előirányzatszám tartalmazza a sclerosis multiplexben szenvedő betegek gyógyszerellátásának 765 millió forintos és a meghatározott biztosítotti csoport térítésmentes influenza elleni védőoltásának 300 millió forintos, valamint a vérzékenység kezelésének 1300 millió forintos előirányzatát is.
