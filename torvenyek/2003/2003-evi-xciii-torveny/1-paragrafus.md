@@ -1,0 +1,1 @@
+1. § Az Országgyűlés november 3-át – azt a napot, amelyen 1825-ben Széchenyi István birtokainak évi jövedelmét Magyar Tudós Társaság alapításának céljára felajánlotta, és ezzel lehetővé tette a Magyar Tudományos Akadémia megalapítását – a Magyar Tudomány Ünnepévé nyilvánítja.
