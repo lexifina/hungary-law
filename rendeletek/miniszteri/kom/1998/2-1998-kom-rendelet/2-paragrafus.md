@@ -1,0 +1,1 @@
+## 1. § A sztratoszférikus ózonréteg védelméről szóló nemzetközi egyezmény végrehajtásáról szóló 22/1993. (VII. 20.) KTM rendelet (a továbbiakban: R.) 2. §-a (4) bekezdésének második mondatában szereplő ,,1997. december 31-ig'' szövegrész helyébe az ,,1998. december 31-ig'' szövegrész lép.
