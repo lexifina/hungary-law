@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között közvetlen vasúti kapcsolat létesítéséről szóló, Budapesten, 1996. október 15-én aláírt Egyezményt, valamint módosítását egységes szerkezetben e rendelettel kihirdeti.
