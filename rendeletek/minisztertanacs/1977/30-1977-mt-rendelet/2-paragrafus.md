@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Portugál Köztársaság Kormánya között Budapesten, az 1976. évi május hó 13. napján aláírt nemzetközi közúti személy- és árufuvarozásról szóló megállapodást e rendelettel kihirdeti.
