@@ -1,0 +1,1 @@
+A polgári védelemről szóló 1996. évi XXXVII. törvény 42. §-a (2) bekezdésének e) pontjában kapott felhatalmazás alapján – figyelemmel a honvédelemről szóló 1993. évi CX. törvényre és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvényre – a következőket rendelem el:
