@@ -1,0 +1,1 @@
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 15. § (1)–(2) bekezdései, valamint a 86. § (1) bekezdésének a) pontja alapján – az érintett miniszterekkel egyetértésben – a következőket rendelem el:
