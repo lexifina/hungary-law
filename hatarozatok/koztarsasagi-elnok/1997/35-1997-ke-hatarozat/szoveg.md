@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Fábián Pál Jenő rendkívüli és meghatalmazott nagykövetet – a Magyar Köztársaság kuvaiti nagykövetsége vezetésére kapott megbízása érintetlenül hagyása mellett – megbízom a Magyar Köztársaságnak Katar Államban való képviseletével.
