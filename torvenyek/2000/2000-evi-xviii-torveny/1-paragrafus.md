@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Horvát Köztársaság között a kettős adóztatás elkerüléséről a jövedelem- és a vagyonadók területén Barcson, 1996. augusztus 30-án aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1998. május 8-án megtörtént, és az Egyezmény 1998. június 7-én hatályba lépett.)

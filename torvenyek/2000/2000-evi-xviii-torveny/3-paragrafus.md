@@ -1,0 +1,1 @@
+3. § Ez a törvény a kihirdetése napján lép hatályba, az Egyezmény rendelkezéseit azonban az Egyezmény 28. Cikk (1) bekezdés alá eső adók tekintetében 1999. január 1-jén, vagy az után kezdődő adóévekben megszerzett jövedelemre, illetve meglévő vagyonra kell alkalmazni.
