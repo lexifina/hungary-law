@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Magyar Köztársaságban és a Szlovák Köztársaságban kiállított, végzettséget tanúsító okiratok egyenértékűségének kölcsönös elismeréséről szóló Egyezményt e rendelettel kihirdeti.
