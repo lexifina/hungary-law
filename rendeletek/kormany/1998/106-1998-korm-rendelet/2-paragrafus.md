@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaságban és a Horvát Köztársaságban kiállított, iskolai végzettségeket, felsőfokú tanulmányokat tanúsító bizonyítványok és oklevelek/fokozatok elismeréséről szóló, Budapesten, 1997. június 16-án aláírt Egyezményt e rendelettel kihirdeti.
