@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság Országgyűlése a Magyar Köztársaság és a Szlovén Köztársaság között Budapesten, 1992. december 1-jén aláírt barátsági és együttműködési Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítő okiratait Ljubljanában, 1994. március 4-én kicserélték, és a Szerződés ezen a napon hatályba lépett.)
