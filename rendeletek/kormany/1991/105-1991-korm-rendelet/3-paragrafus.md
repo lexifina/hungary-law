@@ -1,0 +1,77 @@
+## 2. § A megállapodás módosításáról szóló Megállapodás magyar nyelvű szövege a következő:
+
+## ,,MEGÁLLAPODÁS
+
+## a Magyar Köztársaság Kormánya
+
+## és a Németországi Szövetségi Köztársaság Kormánya között az 1989. január 3-i, a Magyar Népköztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya közötti, a Magyar Népköztársaságban székhellyel bíró vállalatok magyar munkavállalóinak vállalkozási szerződés alapján foglalkoztatási célból történő kiküldetéséről szóló megállapodás módosításáról
+
+## A Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya a következőkben állapodott meg:
+
+## 1. Cikk
+
+## Az 1989. január 3-án a Magyar Népköztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya közötti, a Magyar Népköztársaságban székhellyel bíró vállalatok magyar munkavállalóinak vállalkozási szerződés alapján foglalkoztatási célból történő kiküldetéséről kötött megállapodást a következők szerint módosítják:
+
+## 1. 2. Cikk 1. bekezdése a következőképpen alakul:
+
+## (1) A vállalkozási szerződéses munkavállalók száma 5000 fő lehet, ebből 1090 fő munkavállalót alkalmazhatnak az építőiparban. Az első mondattól függetlenül még pótlólagosan alkalmazható:
+
+## a) 1000 munkavállaló a magyar munkáltatók és azon német kis- és közepes vállalkozások között kötött vállalati szerződés értelmében, melyeknek éves forgalma 10 Millió DM-ig terjed, vagy legfeljebb 65 alkalmazottjuk van.
+
+## b) 4000 munkavállaló az építőiparban 1993. december 31-ével bezárólag.
+
+## A megadott számok éves átlagként tekintendők.
+
+## 2. A 3. Cikk a következők szerint módosul:
+
+## a) Az 1. bekezdésben a ,,felső létszámkorlát'' szó helyére a ,,számú'' szó kerül.
+
+## b) A 2. bekezdésben a ,,Magyar Népköztársaság Bér- és Munkaügyi Hivatala'' szavak helyére a ,,Magyar Köztársaság Munkaügyi Minisztériuma'' szavak kerülnek.
+
+## 3. A 4. Cikk a következők szerint módosul:
+
+## a) az 1. bekezdés 1. mondatában a ,,2. Cikk 1. bekezdésében megállapított felső létszámkorlát'' szavak helyébe a ,,2. Cikk 1. bekezdése 1. és 2. mondatában és az ,,a)'' betűvel jelzett pontjában megadott számok'' szavak kerülnek.
+
+## b) Az 1. bekezdés 2., 3. és 6. mondatában és a 2. bekezdésben a ,,felső létszámkorlát'' szavak helyére a ,,szám'' szó kerül.
+
+## c) A 2. bekezdésben a ,,Magyar Népköztársaság Állami Bér- és Munkaügyi Hivatala'' szavak helyére a ,,Magyar Köztársaság Munkaügyi Minisztériuma'' szavak kerülnek.
+
+## 4. Az 5. Cikk a következők szerint módosul:
+
+## a) Az 1. bekezdés a következőképpen alakul:
+
+## (1) A munkavállalási engedély csak akkor adható ki, ha a vállalkozási szerződéses munkavállaló munkabére, beleértve a külföldi foglalkoztatásért fizetett részt is, megfelel annak a bérnek, amelyet a vonatkozó német tarifaszerződések hasonló tevékenységre előírnak.
+
+## b) A 3. bekezdésben a ,,munka- és tartózkodási engedély'' szavak helyére a ,,munkavállalási engedély és tartózkodási engedély'' szavak kerülnek.
+
+## 5. A 7. Cikk a következőképpen alakul:
+
+## Egy magyar munkavállalónak, aki ismételten vállalati szerződéses munkavállalóként dolgozna, csak akkor adható meg a munkavállalási engedély, ha mint vállalkozási szerződéses munkavállaló a kiutazása és az ismételt beutazása közötti időtartam nem rövidebb mint a korábbi tartózkodási engedély összérvénytartama.
+
+## Az 1. mondatban megadott időtartam maximum 2 év lehet, 3 hónap akkor, ha a munkavállalót kiutazása előtt 9 hónapnál hosszabban nem alkalmazták.
+
+## 6. A 8. Cikk 1. bekezdés 1. és 2. mondata a következőképpen alakul:
+
+## (1) A munkavállalók részére a 3 hónapra szóló vízumot a magyar munkáltató kérelmére a Németországi Szövetségi Köztársaság illetékes külképviselete adja ki. A vízum kézhezvétele után a munkavállaló beutazhat.
+
+## 7. A 9. Cikkben a ,,Magyar Népköztársaság Bér- és Munkaügyi Hivatala'' szavak helyére a ,,Magyar Köztársaság Munkaügyi Minisztériuma'' kerül.
+
+## 8. A 10. Cikk a következőképpen alakul:
+
+## Ha a munkavállalókat, akiknek foglalkoztatását egy vállalkozási szerződés alapján engedélyezték, a Németországi Szövetségi Köztársaság Szövetségi Munkaügyi Hivatalának engedélye nélkül harmadik félnek üzletszerűen munkavégzésre engednek át, úgy a következő elszámolási időszaktól a vállalkozások számára a vállalati szerződéses munkavállalók száma annyi fővel csökken, amennyi az éves átlagban az üzletszerűen átengedett munkavállalók száma. Eszerint kell eljárni, amennyiben magyar munkáltatók több vállalati szerződéses munkavállalót foglalkoztatnak, mint amennyit számukra a 3. Cikk 1. bekezdése szerint jóváhagytak, vagy olyan munkavállalókat foglalkoztatnak, akiknek nincs munkavállalási engedélyük vagy tartózkodási engedélyük.
+
+## A magyar munkáltatók, akik a munkavállalókat ismételten tiltottan engedték át vagy alkalmazták, munkavállalóik számára nem kapnak munkavállalási engedélyt.
+
+## 2. Cikk
+
+## Ez a módosítási megállapodás az aláírás napján lép hatályba.
+
+## 3. Cikk
+
+## Ez a módosítási megállapodás ugyanarra az időtartamra érvényes, mint a Megállapodás.
+
+## Készült Budapesten, 1991. június 6. napján, két eredeti példányban, mindkettő magyar és német nyelven, mindkét szöveg egyformán kötelező érvényű.
+
+## (Aláírások)''
+
+3. § Ez a rendelet a kihirdetése napján lép hatályba.

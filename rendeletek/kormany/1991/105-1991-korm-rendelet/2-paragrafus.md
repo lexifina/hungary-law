@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között Budapesten, 1989. január 3. napján aláírt, a Magyar Népköztársaságban székhellyel bíró vállalatok magyar munkavállalóinak vállalkozási szerződés alapján foglalkoztatási célból történő kiküldetéséről szóló megállapodás módosítását kihirdeti.
