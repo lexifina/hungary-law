@@ -1,0 +1,25 @@
+# A Miniszterelnök 66/2004. (X. 15.) ME határozata
+
+Magyar Közlöny 2004. évi 148. szám, 2004. október 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4ec35337d18cf24fd52625c48d9d2cc24ee384bd/dokumentumok/e72af4260db91e3f5a24d5f46aec84d5225e3475/letoltes)
+
+---
+
+A Miniszterelnök
+66/2004. (X. 15.) ME
+határozata
+helyettes államtitkári juttatások biztosításáról
+A Kormány tagjai és az államtitkárok jogállásáról és
+felelősségéről szóló 1997. évi LXXIX. törvény 52. §-ának
+(2) bekezdése alapján
+dr. Csáky Bernadett Barbara, a Miniszterelnöki Titkár-
+ság vezetője,
+Dénes Andrásné, a Miniszterelnöki Hivatal Társadalmi
+és Parlamenti Kapcsolatok Titkársága vezetője, valamint
+Zalai Istvánné, a miniszterelnök személyes tanácsadója
+részére
+2004. október 4-i hatállyal – e megbízatásuk időtarta-
+mára –
+a helyettes államtitkári illetményt, valamint a helyettes
+államtitkári juttatások teljes körét biztosítom.
+Gyurcsány Ferenc s. k.,
+miniszterelnök
