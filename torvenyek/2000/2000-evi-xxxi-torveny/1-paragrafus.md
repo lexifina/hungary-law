@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Európa Tanács 50. számú, egy Európai Gyógyszerkönyv kidolgozásáról szóló Egyezményét (a továbbiakban: Egyezmény), valamint az arra vonatkozó 134. számú Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti. (A csatlakozási okirat letétbe helyezése 1999. június 9-én megtörtént.)
