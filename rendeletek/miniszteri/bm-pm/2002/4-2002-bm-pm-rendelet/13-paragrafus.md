@@ -1,0 +1,5 @@
+13. § (1) Ha a teljesítés a megkeresésben meghatározott módon nem vagy csak részben lehetséges, erről a NEBEK – megjelölve azokat a feltételeket, amelyek esetén a megkeresés teljesíthető – haladéktalanul tájékoztatja a megkereső szervet, illetve összekötőjét.
+
+(2) Ha a magyar bűnüldöző szerv megkeresése az abban meghatározott módon nem, vagy csak részben teljesíthető – ha a megkeresés indokai továbbra is fennállnak – a NEBEK a megkeresett szerv által megjelölt feltételek teljesítésére megteszi a szükséges intézkedéseket, ha az a magyar jogszabályokkal nem ellentétes.
+
+(3) Ha a megkeresés kézhezvételekor nyilvánvaló, hogy az a megkereső által megadott határidőben nem teljesíthető, és a határidő indokolásából kitűnik, hogy a késedelem a megkereső szerv eljárásának eredményességét veszélyeztetné, a NEBEK haladéktalanul tájékoztatja a megkereső szervet, illetve összekötőjét a teljesítéshez szükséges határidőről. A megkereső szervtől nyilatkozatot kell kérni, hogy megkeresését a NEBEK által közölt határidőben történő teljesítés esetén is fenntartja-e.

@@ -1,0 +1,1 @@
+## 35. § A NEBEK biztosítja, hogy az adatvédelmi felelős az adattovábbítási nyilvántartásból általa ellenőrzésre kiválasztott, személyes adatot tartalmazó adattovábbításnak a személyes adatot tartalmazó iratához, valamint a továbbítás jogszerűségének megállapításához szükséges előzményi irathoz – annak minősítésétől függetlenül – korlátozás nélkül hozzáférjen.
