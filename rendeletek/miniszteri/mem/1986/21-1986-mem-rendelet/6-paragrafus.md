@@ -1,0 +1,3 @@
+6. § (1) A geokód kialakítására, hitelesítésére, tárolására és változásainak vezetésére, valamint a geokóddal azonosított adatrendszerek tervezésére vonatkozó szabályokat a Földművelésügyi és Vidékfejlesztési Minisztérium a Földművelésügyi és Vidékfejlesztési Értesítőben közleménnyel teszi közzé. A közlemény első részében foglaltak alkalmazása kötelező.
+
+(2) A geokód egyes ágazatokra vonatkozó részletes szabályairól az érdekelt minisztériumok (országos hatáskörű szervek) a Földművelésügyi és Vidékfejlesztési Minisztériummal egyetértésben rendelkeznek és e szabályokat az (1) bekezdésben foglaltak szerint teszik közzé.
