@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Bagi Gábort kinevezem főkonzullá és megbízom a Magyar Köztársaságnak a Horvát Szocialista Köztársaság, Bosznia és Hercegovina Szocialista Köztársaság, valamint a Szlovén Szocialista Köztársaság területére kiterjedő hatáskörrel működő zágrábi főkonzulátusa vezetésével.
