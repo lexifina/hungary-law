@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság Országgyűlése a Magyar Köztársaság és a Horvát Köztársaság között Budapesten, 1992. december 16-án aláírt, a baráti kapcsolatokról és együttműködésről szóló Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló jegyzékváltás 1993. december 21-én lezajlott, és a Szerződés ezen a napon hatályba lépett.)
