@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Varga Tamás rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság rijádi nagykövetségének vezetésére kapott megbízása alól.
