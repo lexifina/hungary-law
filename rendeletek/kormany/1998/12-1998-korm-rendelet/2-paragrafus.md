@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel kihirdeti a Magyar Köztársaság Kormánya és a Kirgiz Köztársaság Kormánya között a diplomata- és szolgálati útlevéllel rendelkező állampolgáraik számára a vízummentes rendszer bevezetéséről szóló – 1997. november 1-jén aláírt – Megállapodást.
