@@ -1,0 +1,1 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 110. §-a (8) bekezdésének p) pontjában kapott felhatalmazás alapján – a gazdasági és közlekedési miniszterrel egyetértésben – a következőket rendelem el:
