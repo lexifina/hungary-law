@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a gazdag kultúrtörténetű park jellegzetes tájképi értékeinek megóvása, a telepített fás szárú növényállomány, valamint – az angolparkként fenntartott területrészeken – az eredeti flórát képviselő fajok megőrzése.

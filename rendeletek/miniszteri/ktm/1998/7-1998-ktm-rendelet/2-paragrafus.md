@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Gödöllői Királyi Kastélypark Természetvédelmi Terület elnevezéssel a Gödöllő város belterületén lévő, 5852, 5853/3, 5853/4, 5854 ingatlan-nyilvántartási helyrajzi számú, összesen 26,1 hektár kiterjedésű területet.
