@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság és az Osztrák Köztársság között a felsőoktatási intézményekben végzett tanulmányok egyenértékűségének elismeréséről szóló, Budapesten, 1997. április 23-án aláírt Egyezményt e rendelettel kihirdeti.
