@@ -1,0 +1,1 @@
+16. § Az Országgyűlés jóváhagyja, hogy a Költségvetési Törvény 4. §-a (7) bekezdésének felhatalmazása alapján 9000,0 millió forint összegben kibocsátott kötvények a Mezőbank Részvénytársaság pénzügyi helyzetének rendezését szolgálták.

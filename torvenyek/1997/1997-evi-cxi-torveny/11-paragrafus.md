@@ -1,0 +1,1 @@
+11. § Az Országgyűlés tudomásul veszi, hogy a központi költségvetés a helyi önkormányzatoknak a nettó finanszírozással összefüggésben kincstári előleget nyújtott. Az érintett önkormányzatok 1996. december 31-én fennálló 164,3 millió forint tartozása az 1997. évi nettó finanszírozás keretén belül kerül elszámolásra.

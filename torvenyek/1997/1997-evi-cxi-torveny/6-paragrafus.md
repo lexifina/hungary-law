@@ -1,0 +1,1 @@
+6. § Az Országgyűlés jóváhagyja, hogy a pénzügyminiszter – a Költségvetési Törvény 4. §-ának (3) bekezdésében foglalt felhatalmazás alapján – a Kincstári Egységes Számla folyamatos likviditása és a társadalombiztosítási alapokból teljesített kiadásokhoz vállalt állami garancia fedezetének megteremtése érdekében 209 063,5 millió forint értékben növelte a kincstárjegyek állományát.

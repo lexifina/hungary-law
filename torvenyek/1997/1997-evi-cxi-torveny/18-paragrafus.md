@@ -1,0 +1,1 @@
+18. § Az Országgyűlés elfogadja, hogy a költségvetési törvény 4. §-a (9) bekezdésének felhatalmazása alapján a központi költségvetés a XXXI. A költségvetés belföldi adóssága fejezet kiadásai terhére 1996. december 31-ig megtérítette a Magyar Nemzeti Banknak az általa 1996. évre előre jelzett 58 100,0 millió forint összegű veszteségét.
