@@ -1,0 +1,1 @@
+Az Országgyűlés a saját gazdálkodási hibájából tartósan fizetésképtelen helyzetben lévő helyi önkormányzatok alapvető működési feltételeinek folyamatos biztosítása érdekében a Magyar Köztársaság 1995. évi költségvetéséről szóló, az 1995. évi LXXII. törvénnyel módosított 1994. évi CIV. törvény (a továbbiakban: Ktv.) módosítására a következő törvényt alkotja:
