@@ -1,0 +1,1 @@
+Az Alkotmány 30/A. §-ának (1) bekezdése alapján a miniszterelnök javaslatára Szunyogh Károlyt – 1990. november 6-ai hatállyal – a Köztársasági Elnöki Hivatal vezetői feladatai, valamint a Miniszterelnöki Hivatal közigazgatási államtitkárával való közvetlen kapcsolattartás ellátására címzetes államtitkárrá kinevezem.
