@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Osztrák Köztársaság között a katonai légiközlekedés területén történő együttműködésről szóló, Győrben, 1996. január 26-án aláírt Egyezményt (a továbbiakban: Egyezmény) e törvénnyel megerősíti.
