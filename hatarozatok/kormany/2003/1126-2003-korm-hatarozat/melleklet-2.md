@@ -1,0 +1,3982 @@
+## MAGYAR INFORMÁCIÓS TÁRSADALOM STRATÉGIA
+
+## Preambulum
+
+## (A Magyar Információs Társadalom Stratéga létrehozásának okai, céljai)
+
+## A Magyar Köztársaság Kormányának határozata nyomán az Informatikai és Hírközlési Minisztérium széles körű közigazgatási egyeztetés és szakmai-társadalmi viták nyomán elkészítette a Magyar Információs Társadalom Stratégiát (MITS). Ez a nemzeti stratégia azokat a teendőket fogalmazza meg víziók, tervek és akciók szintjén, amelyek azt szolgálják, hogy Magyarország új fejlődési és modernizációs útra léphessen.
+
+## A helyzetelemző és lehetőségeinket józanul felmérő munka áttekintette, milyen utak és feladatok állnak az ország előtt ahhoz, hogy Magyarország egy sikeres, dinamikus, versenyképes, jómódú ország legyen, az Európai Unió más nemzeteivel egyenrangú tagja. A stratégia be kívánja mutatni, hogy az informatika eszközrendszerével érdemes élni, a korszerű informatikával támogatott folyamatok és szolgáltatások elterjedt használatával és társadalmi méretű együttműködéssel, eljuthatunk a jóléthez és a közbizalomhoz.
+
+## A Magyar Információs Társadalom Stratégia olyan társadalmi program, amely a társadalom minden tagjának közreműködésére számít. A kezdő lépéseket azonban a Kormánynak és minisztériumainak kell megtennie: meg kell nyitnia utakat, ki kell alakítania feltételeket, jogszabályi kereteket, meg kell határoznia prioritásokat, pénzügyi alapokat; példát kell mutatnia, ösztönöznie, támogatnia kell a fejlődési folyamatokat, hogy a vállalkozások, társadalmi szervezetek partnerségével és erőforrásaival, minden egyéni alkotóerőt kibontakozni engedve új, magasabb életminőség jöjjön létre, aminek mindenki részese, alkotója és haszonélvezője. Az információs társadalom nem kormányzati akarattal jön létre, hanem a gazdasági és civil szféra egyenrangú együttműködésében.
+
+## A Magyar Információs Társadalom Stratégia (MITS) megalkotásának első célja mindenki előtt
+
+| világossá tenni, hogy Magyarország számára nincs más alternatíva, mint belépni az információs korba annyira intenzíven és innovatívan, amennyire erőnkből telik. Csak így, utat nyitva az új gazdaság előtt valósítható meg a fenntartható fejlődés. Nyilvánvaló, hogy ennek érdekében Magyarország elfogadja és támogatja az eEurope programok megvalósítását. |  |
+
+| Magyarország előtt csak egy valódi lehetőség van: olyan gyorsan kiépíteni az információs társadalmunkat, ahogy az erőnkből telik! |
+
+## A második cél az, hogy a stratégiakészítés szabályai szerint a tudásalapú gazdaság és információs társadalom építésére átfogó víziót, ennek megfelelő összetett és összehangolt terveket és a tervek megvalósításához operatív programokat adjon.
+
+## Ahogy az eEurope program is alapvetően gazdasági program, a mi harmadik célunk is az, hogy a hazai információs társadalom stratégiája a magyar gazdaság versenyképesebbé és eredményesebbé válását szolgálja.
+
+| A MITS készítésének negyedik célja, hogy megvalósuló stratégiaként bebizonyítsa: az informatika, az információs és kommunikációs technológia nem pusztán lehetőség, hanem hatékony eszköz. Ez a negyedik cél megfogalmazható úgy is: a megvalósuló stratégia eredményei az informatikai ,,ágazat” presztízsét kívánják megalapozni, megteremteni. | A magyar információs társadalom felépítése nem választási ciklushoz kötött pártpolitikai kérdés. Összefogással tíz éven belül el kell érnünk céljainkat! |
+
+## A MITS létrehozásának ötödik célja, hogy Magyarországnak legyen a Kormány által elfogadott – az európai értékek elfogadását is tükröző –, az információs társadalom fejlesztésére vonatkozó távlati terve és programja. Az Európai Unió elvárása és a közösségi támogatások nyújtásának egyik feltétele, hogy az ország rendelkezzen ilyen dokumentummal. A stratégia elkészítése e feltétel teljesítését is szolgálja.
+
+## A stratégia hatodik célja, hogy alaptervként szolgáljon. A stratégia megvalósításához kapcsolódóan kialakítandó tervezési rendszer hivatott megalapozott terveket adni a másodikként megjelölt cél operatív programjainak végrehajtásához. Ezeknek a terveknek rendező elve, ,,rendezési terve” a MITS.
+
+## A stratégia azt kívánja elérni, hogy Magyarországon tíz éven belül tudásalapú gazdaság, modern információs társadalom, állam és önkormányzat alakuljon ki. A stratégia azok számára készült, akik bíznak Magyarországban, felemelkedésében, sikerében és akik tenni is kívánnak ezért.
+
+## Vezetői összefoglaló
+
+## Azzal, hogy Magyarország bejelentette csatlakozási szándékát az Európai Unióhoz, kijelölte azt az irányt, amelyen a jövőben haladni kíván. Az európai fejlődési folyamat egyértelműen a tudásalapú (új) gazdaság és az információs társadalom irányába halad. A csatlakozás hosszú időre meghatározza azokat a kereteket, amelyek befolyásolják társadalmi-gazdasági fejlődésünket. Ha nem készülünk fel erre aktívan, és csak passzív szemlélői, esetleg távolról követői maradunk a végbemenő változásoknak, előnyeiből kevésbé részesülünk majd. Lemaradásunk előbb-utóbb függőséggé, rossz esetben kiszolgáltatottsággá változik. Felzárkózásunk közös érdek: a gazdaság versenyképességének növekedése itthon az életminőség javulását eredményezi, a közösség egésze számára pedig az európai régió versenyhelyzetét javítja az észak-amerikai és távol-keleti régiókkal szemben.
+
+## A Magyar Információs Társadalom Stratégia a gazdaság és a társadalom európai fejlődéséhez történő felzárkózásának stratégiája. Céljaiban és megoldásaiban az európai értékrendet és cselekvési utakat követi, a magyar adottságok és lehetőségek figyelembevételével. A MITS az ország felzárkózása kulcsának az információs és kommunikációs technológiák alkalmazásának kiterjesztését tekinti. E technológiák széles körű alkalmazása, termelőerővé válása biztosíthatja a gazdaság modernizálását, a hatékonyság és versenyképesség növelését, és ezen keresztül egy új fejlettségi szint, az információs társadalom célkitűzéseinek megvalósítását.
+
+## Információs társadalomról akkor beszélhetünk, amikor az információs ágazat társadalmi, gazdasági súlya dominánssá válik, az információ beépül az egyének, szervezetek és intézmények mindennapjaiba, és a társadalmi kommunikáció nagy része a digitális csatornákon zajlik. Az információ mind szélesebb körű és könnyű elérése, fokozott termelése és átalakítása segíti a társadalom megújulását, mobilizációját, utat nyit az egyéni kezdeményezőkészségnek, vállalkozó kedvnek, szélesíti a civilizációs termékek, kulturális javak fogyasztását, továbbá globálissá teszi az emberi tudás megszerzését és megosztását, és soha nem látott mértékben sokszorozza meg azt.
+
+## Az európai értékrenddel való közösségvállalás nem formális. A MITS célkitűzései és a célkitűzéseket megvalósítani szándékozó programjai teljes mértékben illeszkednek az Európai Unió stratégiájához, és stratégiai programjaihoz, az eEurope+, illetve az eEurope 2005 akciótervekhez. Ez lehetőséget ad számunkra, hogy kapcsolódjunk a közösségnek az eEurope-ot támogató programjaihoz (pl. IST, eContent, eSafety, IDA stb.). Ugyanez teszi lehetővé, hogy az EU strukturális alapjait forrásként felhasználhassuk az információs társadalom építéséhez. Ezt a lehetőséget a Nemzeti Fejlesztési Terv keretei között kívánja a MITS kihasználni azzal, hogy egyes programjait az NFT operatív programjaiba – elsősorban a gazdasági versenyképesség 4. prioritásába – illeszkedően alakítja ki.
+
+## A MITS célja az információs társadalom megvalósításával kapcsolatos feladatok áttekintése és rendszerbe foglalása annak érdekében, hogy az ebből fakadó feladatoknak a társadalom egésze által történő végrehajtása koordinált módon történjék. Ezt a célt oly módon éri el, hogy
+
+## – a társdalomban és gazdaságban végbemenő folyamatoknak az információ társadalmasításán alapuló modellje segítségével rendszerezi az információs társadalom megvalósításának feladatait, meghatározva a beavatkozási területeket. A beavatkozási területeket tovább bontva főirányokat jelöl ki és meghatározza az egyes főirányok területén a különböző szereplők (kormányzat, privát szféra, civil szervezetek) által együttesen elvégzendő feladatokat;
+
+## – a modell alapján meghatározza a beavatkozási területeken, és abból tovább bontva a főirányokban elérendő célokat. A főirányok szintjén biztosítja a – különböző prioritásokkal, működési és finanszírozási modellekkel rendelkező – programoknak ezen célok érdekében való egységes szakmai irányítását és koordinálását;
+
+## – összegzi és általánosítja a minisztériumok által egységes szerkezetben kidolgozott ágazati stratégiákat, valamint az ezekben kijelölt feladatokat beilleszti a modell szerinti főirányokba;
+
+## – a modell és az ágazati stratégiák prioritásai alapján kijelöli azokat a Központi Kiemelt Programokat, amelyek a MITS végrehajtásának előterében állnak. Ezekre vonatkozóan a célkitűzéseket, az elvégzendő feladatokat és azok megvalósításának működési modelljét, valamint az eredmények mérési módszereit részletesen meghatározó programfüzetek kerülnek kidolgozásra, amelyek a stratégia integráns részét fogják képezni;
+
+## – meghatározza a stratégia végrehajtása szervezeti-pénzügyi rendszerének megteremtéséhez szükséges jogszabályi feltételeket, biztosítva az egyes főirányokba tartozó feladatok koordinált végrehajtását, valamint kijelöli a MITS aktualizálásának és hangolásának feladatait.
+
+## Az információs társadalomba történő átmenet változásait elemezve, a MITS modellje a korszerűsítés két alapvető pillérét a folyamatok korszerűsítésében és a szolgáltatások modernizálásában jelöli meg. Előbbi a – legáltalánosabb értelemben vett – folyamatok belső működésének korszerűsítését jelenti („back office”), míg az utóbbi ugyanezen folyamatok – a felhasználók széles köre számára elérhető – funkcióinak tökéletesítését („front office”) fedi. Az információs és kommunikációs technológiák felhasználása mindkét pillér esetében meghatározó jelentőségű.
+
+## A folyamatok javításának érdekében szükséges beavatkozásokat – mindkét pillér vonatkozásában – a stratégia az alábbi területekre osztja fel:
+
+## Tartalom és szolgáltatások, Infrastruktúra, Tudás és ismeret, Jogi és társadalmi környezet
+
+## valamint két horizontálisan jelentkező terület:
+
+## Kutatás-fejlesztés és Esélyegyenlőség.
+
+## A legnagyobb beavatkozási területet a Tartalom és szolgáltatások jelenti, mely a következő főirányokra osztódik:
+
+## Gazdaság, Közigazgatás, Kultúra, Oktatás, Egészség, Környezetvédelem,
+
+## amelyek a megfelelő alkalmazási területeken nyújtott szolgáltatások tartalmi vonatkozásainak fejlesztésével foglalkoznak.
+
+## Az Infrastruktúra különböző szintjeinek három főirány felel meg:
+
+## – szélessávú hálózatok kiépítése,
+
+## – hozzáférés/elérés fejlesztése,
+
+## – közcélú, közhasznú adatok, szabványok és szoftver eszközök biztosítása.
+
+## A többi négy beavatkozási terület egy-egy önálló főirányt alkot.
+
+## A MITS célkitűzései a főirányokba besorolható, különböző szintű programokon keresztül valósulnak meg. A programok szintjét a feladatok jelentősége, végrehajtási felelőssége és koordinációs igénye határozza meg:
+
+## – kiemelt központi programként (KKP),
+
+## – ágazati kiemelt programként (ÁKP), vagy
+
+## – ágazati programként.
+
+## A programok kialakítása során követelmény az alábbi négy fontos alapelv érvényesülése:
+
+## – A programok együttesen fedjék le a stratégiát, együttes megvalósulásuk biztosítsa a stratégiai célok elérését.
+
+## – Minden programnak jól meghatározott (monitorozható), önálló célja legyen, amelynek megvalósulása alapvetően az adott programtól függ.
+
+## – Minden programnak legyen ,,működési modellje”, amely alapvetően projektszemléletű, lehetőleg piaci, üzleti megoldásokra épít.
+
+## – A programok működési modelljével szemben követelmény, hogy a folyamatos működést támogassa az egyszeri megoldás helyett.
+
+## A MITS végrehajtása során létrejövő szabályozás biztosíthatja a MITS-ben meghatározott feladatok koordinált végrehajtásának szervezeti-pénzügyi feltételeit. Ez magában foglalja a ,,MITS programja” minősítés különböző szintjeinek létrehozását és az ezekhez fűződő jogok, kötelezettségek, eljárásrend és döntési folyamatok, valamint finanszírozási formák meghatározását.
+
+## Az említett szabályozás meghatározza a főirányok koordinálásával kapcsolatos feladatokat és hatásköröket, különös tekintettel a piaci szereplőktől és más ágazatoktól érkező program javaslatok előzetes véleményezésére, valamint a MITS programok monitorozására és értékelésére. A koordináció felügyeletét az ITKTB látja el a Stratégiai Tervezési Albizottságán (STEA) keresztül.
+
+## A MITS az információs technológia léptékében hosszú, 10–15 éves időtávra jelöli ki a stratégiai célkitűzéseket, ezzel szemben az egyes programok jellemzően rövid távra, a 2004–2006. közötti időszakra szólnak. Ennek megfelelően a MITS karbantartása során egyrészt – gazdasági, technológiai és statisztikai helyzetelemzések segítségével – rendszeresen el kell végezni a hosszú távú célkitűzések hangolását a változó körülményekhez, társadalmi, technológiai fejlődéshez igazodva, másrészt a gördülő tervezés módszerével aktualizálni kell a rövid távú programokat.
+
+## TARTALOMJEGYZÉK
+
+## I. Magyarország információs társadalom stratégiája
+
+## I.1. A kihívás
+
+## 1.2. A jelenlegi helyzet
+
+## I.2.1. Az információs gazdaság helyzete felhasználói oldalról
+
+## I.2.2. Az elektronikus tartalmak és szolgáltatások helyzete
+
+## I.2.3. Az infrastruktúra helyzete
+
+## I.2.4. Az informatikai ismeretek helyzete
+
+## I.2.5. A jogi-társadalmi környezet állapota
+
+## I.2.6. Az esélyegyenlőség helyzete
+
+## I.2.7. A kutatás és a fejlesztés állapota
+
+## I.2.8. Az információs gazdaság helyzete iparági oldalról
+
+## I.3. A jelenlegi trendek
+
+## I.3.1. A gazdasági körülmények
+
+## I.3.2. A politikai körülmények
+
+## I.3.3. A technikai és technológiai környezet
+
+## I.3.4. A kulturális környezet
+
+## I.3.5. Az emberek felkészültsége
+
+## I.3.6. A szabályozási környezet
+
+## I.4. A jövőkép
+
+## I.5. A válasz: eMAGYARORSZÁG
+
+## I.6. Stratégiai célok, feladatok
+
+## I.6.1. Elektronikus tartalmak és szolgáltatások
+
+## I.6.2. Infrastruktúra
+
+## I.6.3. Tudás, ismeret
+
+## I.6.4. Jogi-társadalmi környezet
+
+## I.6.5. Kutatás és fejlesztés
+
+## I.6.6. Esélyegyenlőség
+
+## I.7. A stratégia hangolása és karbantartása
+
+## I.7.1. A prioritások kezelése
+
+## I.7.2. Az alapvető döntési pontok
+
+## I.7.3. A technológiai fejlődés hatása
+
+## I.8. A megvalósítás eszközei
+
+## I.8.1. Stratégia- és programalkotás; orientáció, koordináció
+
+## I.8.2. Jogi szabályozás és önszabályozás
+
+## I.8.3. A közigazgatás fejlesztése; példamutatás
+
+## I.8.4. A finanszírozás, a pénzügyi eszközök
+
+## I.8.5. A szubszidiaritás elve
+
+## I.8.6. A szervezeti keretek
+
+## I.8.7. A monitoring rendszer
+
+## I.9. A stratégia végrehajtásának folyamata
+
+## II. A MITS végrehajtásának programterve
+
+## II.1. A MITS programjai
+
+## II.2. Főirányok, kiemelt programok
+
+## II.2.1. Gazdaság főirány
+
+## e-munka
+
+## e-üzlet
+
+## e-közlekedés
+
+## e-agrárium
+
+## II.2.2. Közigazgatás főirány
+
+## e-kormányzat 2005
+
+## e-önkormányzat
+
+## II.2.3. Kultúra főirány
+
+## NDA
+
+## II.2.4. Oktatás főirány
+
+## e-oktatás
+
+## II.2.5. Egészség főirány
+
+## e-egészség
+
+## II.2.6. Környezetvédelem főirány
+
+## e-környezetvédelem
+
+## II.2.7. Szélessávú infrastruktúra főirány
+
+## Közháló
+
+## NIIF
+
+## II.2.8. Hozzáférés főirány
+
+## eMagyarország-Pont
+
+## II.2.9. Infrastrukturális szolgáltatások főirány
+
+## Közcélú, közhasznú információk ,,infrastruktúrája”
+
+## II.2.10. Tudás, ismeret főirány
+
+## Digitális írástudás
+
+## II.2.11 Jogi-társadalmi környezet főirány
+
+## e-biztonság
+
+## e-demokrácia
+
+## II.2.12 Kutatás és fejlesztés főirány
+
+## IT K+F
+
+## II.2.13 Esélyegyenlőség főirány
+
+## e-ernyő
+
+## III. Az ágazati stratégiák összefoglalója
+
+## e-Kormányzat 2005
+
+## Pénzügyi szakstratégia
+
+## Belügy
+
+## Önkormányzat
+
+## Egészségügy
+
+## Egészségbiztosítás
+
+## Nyugdíjbiztosítás
+
+## Foglalkoztatás
+
+## Agrárium
+
+## Gazdaság
+
+## Közlekedés
+
+## Igazságügy
+
+## Országgyűlési biztosok
+
+## KvVM ágazati stratégiák
+
+## Vízügy
+
+## Környezetvédelem
+
+## Természetvédelem
+
+## Meteorológia
+
+## Kultúra
+
+## Felsőoktatás
+
+## Közoktatás
+
+## Gyermek- és ifjúságügy
+
+## Informatikai biztonság, minőség
+
+## Elektronikus aláírás
+
+## Esélyegyenlőség
+
+## Kutatás és fejlesztés
+
+## Szószedet, kifejezések magyarázata, rövidítések
+
+## I. MAGYARORSZÁG INFORMÁCIÓS TÁRSADALOM STRATÉGIÁJA
+
+## I.1. A kihívás
+
+## Magyarország a harmadik évezred elején egyidejűleg lép az Európai Unióba, az európai információs társadalomba, és modernizálja társadalmi, gazdasági struktúráit. Ezek a mozzanatok összefüggnek és egymást erősítik. Európában minden ország korszak- és paradigmaváltást él át, a XX. század gondjait az információs kor kínálta lehetőségekkel orvosolja. A tét közös: az információs társadalomba való átmenet tartalmán és hatékonyságán múlhat minden nemzet sikere Európában, és ugyanakkor ettől függ Európa pozíciójavítása és helytállása az új típusú globális világban.
+
+## A 2000. márciusában megrendezett lisszaboni csúcson Európa állam- és kormányfői azt az új célt állították az Európai Unió elé, hogy 2010-re a világ legversenyképesebb, tudásalapú társadalmává váljon[^5]. A cél elérésének fő útjaként a bekapcsolódás lehetőségét biztosító, dinamikus, tudásalapú gazdaság létrehozását, a felgyorsított, fenntartható gazdasági növekedés megteremtését, a gazdaság- és szociálpolitika terén a teljes foglalkoztatottság elérését, illetve a munkanélküliségnek a legjobb teljesítményt elért országok szintjére való csökkentését és a szociális védelmi rendszer modernizációját jelölték ki. A gazdaságpolitikai célok valóra váltásának közvetlen eszközeként pedig a tudásalapú gazdaságot előkészítő gazdasági reformot és az emberekbe, az emberi tudásba való befektetések révén az európai szociális modell erősítését határozták meg[^6].
+
+## A Lisszabonban elindított reformfolyamat részeként meghirdetett eEurope-kezdeményezés – s az annak végrehajtását segítő további (eEurope 2002[^7], eEurope 2005[^8]) akciótervek – gazdasági programokként foghatók fel. Ez a program a céljait csak a társadalom egészét érintő, mélyreható változások révén, az infokommunikációs eszközök nyújtotta lehetőségeket felismerve és azokat tudatosan felhasználva érheti el . A tagjelölt országok
+
+|  | részvételével zajló eEurope+ folyamat elsődleges célja ezen országok információs társadalmi felzárkóztatása volt, szerepe azonban jóval több ennél. A gazdasági és a kormányzati munkát, valamint a nemzeti szabályozási rendszereket érintő alapvető változások csak eszközei annak, hogy a tagjelölt országok gyorsan integrálódjanak egy hatékony, globális viszonylatban is versenyképes, a fenntartható fejlődést |
+
+| Az Európai Unió 2010-re a világ legversenyképesebb, tudásalapú társadalmává kíván válni. Ehhez csatlakozik Magyarország is! |
+
+## biztosítani kívánó és tudó új európai gazdasági rendbe, és felvegyék a lisszaboni stratégia ütemét. Magyarország 2004-ben – közel egy évtizednyi tudatos felkészülés után – a versenyképes, tudásalapú gazdaságot, információs társadalmat építő Európai Unióhoz csatlakozik.
+
+## A tudásalapú gazdaság és információs társadalom létrehozásával a legfőbb közös cél az egyén és a közösség életminőségének és életkörülményének javítása; ennek révén olyan modern, európai, magyar köztársaság megteremtése, amelyben mindenkinek jó élni. Ezt a célt a XXI. században a tudásteremtés és -terjesztés, a gazdasági versenyképesség, a közösségvállalás, a társadalmi esélyegyenlőség a nemzeti kulturális és természeti környezet megőrzésének értékei mentén lehet a legbiztosabban és a leggyorsabban elérni[^9].
+
+## A modern jelző a tudásalapú és egyben fenntartható fejlődés biztosítására utal hosszú távon is. A kifejezés egyrészt a közigazgatás, a térszerkezet, az egészségügy, az oktatás és a művelődés, valamint a környezetvédelem korszerűsítését és emberközelibbé válását jelenti. Másrészt a modernizációnak az infrastruktúra fejlesztése, az informatika elterjesztése, a régi és új tudások hasznosítása, az érdekérvényesítésre képes civil társadalom létrehozása is fontos területe.
+
+## Az európai jelző tartalma az esély és a lehetőség a köztársaság minden egyes polgárának arra, hogy az újraegyesült Európában gazdagabb, biztonságosabb, nyugodtabb, értékközpontú világban éljen, ahol nem
+
+| kell választani haza és haladás, nemzet és köztársaság között5. A magyar jelző elsősorban a nemzeti nyelv és kultúra, minden múlt- és jelenbeli érték megőrzésére, fejlesztésére és terjesztésére utal. Emellett olyan nemzeti sorskérdések meg- oldására is, mint a népesedéspolitika, a társadalmi egyenlőtlen- ség, valamint a határon túli magyarság támogatása. A köztársasági gondolat kifejezi a jogállam, a demokrácia | A legfőbb közös cél az egyéni és közösségi életminőség és életkörülmények javítása – hogy egy modern európai magyar köztársaságban élhessünk! |
+
+## intézményeinek további erősítését, az egyén, a kisebbségek jogainak biztosítását. Mindezeket a tartalmakat már az információs kor eszközeivel, szolgáltatásaival, intézményeivel (e-kormányzás, e-gazdaság, digitális egyetem, intelligens régió stb.) lehet sikeresen elérni.
+
+## A kihívás: az információs és kommunikációs technológiának – mint a tudásalapú gazdaság és információs társadalom építése szempontjából a legfontosabb eszköznek – széles körű alkalmazása, és ennek révén a gazdaság, valamint a társadalom modernizációja, dinamizmusának és versenyképességének növelése[^10].
+
+## Az új, tudásalapú gazdaság és információs kori kultúra létrehozásában Európa – a globális világ egyik központja – versenyhátrányba került más világrégiókkal szemben. Az információs és kommunikációs technológia elterjedt alkalmazása és ezzel párhuzamosan a tudásalapú gazdaság és társadalom létrehozása olyan kitörési pont lehet, amellyel hazánk versenyhelyzete javulhat, s ezzel egyben az európai kontinens világgazdasági pozícióinak javításához is hozzájárulhat.
+
+## A kihívás tétje: Magyarország ma több szempontból évtizedekkel van lemaradva Európához képest. Ugyanakkor Európa – szándékai szerint, még közepes tempóval és visszaesésekkel is – 2010–2015-re a tudástársadalom kontinense lesz.
+
+## Magyarország előtt tehát három forgatókönyv kínálkozik:
+
+## 1. Az eddigi hátránya tovább nő, mert a következő évtizedben is gyengébb teljesítményt nyújt, mint Európa átlaga.
+
+## 2. Az unió eEurope programjának megvalósításával azonos szintet ér el, s a tagállamokkal azonos gyorsasággal halad, ezért eddigi hátránya nem nő, de nem is csökken lényegesen.
+
+## 3. Tanulva például a finn vagy az ír mintából megkísérli, hogy az információs kor több területén gyorsabban fejlődjön, s az európai tudástársadalmak mezőnyében feljebb kerüljön.
+
+## Az optimális választás a harmadik, de minimális célként a második forgatókönyv is elfogadható. Az információs társadalom stratégiának tehát erre a kihívásra kell választ adnia átfogó tervek, valamint operatív programok megfogalmazásával.
+
+|  | Az Európai Unióhoz történő csatlakozás és az információs kor történelmi esélyt kínál a magyar nemzetnek arra, hogy eltűnjenek azok a versenyhátrányok, amelyek természeti adott- ságainkból, a hagyományos energiaforrások, a nyersanyagok szűkösségéből és történelmi meghatározottságainkból fakadnak. Nemcsak külső gazdasági versenyképességünk javulhat, hanem egyúttal reményünk lehet a rendszerváltás előtt és után drámaian megnőtt társadalmi egyenlőtlenségek mérséklésére, a |
+
+| Az EU tagállamok átlagánál gyorsabban kell fejlődnünk7, hogy esélyünk maradjon a felzárkózásra, a fejlett európai információs társadalmakhoz való csatlakozásra |
+
+## 7 Az összehasonlításnak kézzelfoghatónak kell lennie; az EU komplex (több mutatót tartalmazó) módszertana alapján és rendszeresen publikált mérési adataihoz viszonyítva kell monitorozni ennek a célkitűzésnek a teljesülését.
+
+## nemzeti összefogás erősítésére is. Az európai uniós folyamatokkal összhangban az infokommunikációs technológiák (IKT) és tartalomszolgáltatások hozzásegíthetnek bennünket ahhoz, hogy a határon túli és a világban szétszórtan élő magyarsággal még szorosabbra fűzzük a kulturális összetartozás szálait, valamint hozzájárulhatnak a gazdasági és szellemi együttműködés új formáinak elterjesztéséhez.
+
+## I.2. A jelenlegi helyzet[^11]
+
+## A stratégia kiindulópontja csak a jelenlegi helyzet pontos ismerete és reális megítélése lehet, ehhez képest lehet megfogalmazni jövőképünket, célkitűzéseinket, prioritásainkat. Ugyanakkor szembesülnünk kell azzal a ténnyel, hogy ma Magyarországon nincs kialakult, egységes, elfogadott mérési módszere az információs társadalom megvalósultságának – ennek megteremtése tehát ugyancsak kiemelt feladat. Mindezzel együtt meg kellett próbálni releváns képet alkotni a hazai helyzetről, viszonyítási alapnak tekintve az EU-ról, a környező országokról, az USA-ról s más tanulságokkal szolgáló országokról ma rendelkezésre álló adatokat.
+
+## A fejlett országokban az elmúlt öt-tíz évben az infokommunikációs eszközök robbanásszerű terjedése volt tapasztalható, amivel Magyarországnak csak a vezetékes telefonellátás terén történelmileg kialakult elkeserítő helyzet megoldásában és a mobiltelefónia területén sikerült lépést tartani. Megállapítható a
+
+| lemaradásunk a háztartások számítógép- és internet-ellátottságának területén: 2003 derekán a háztartásoknak kevesebb, mint egyharmada rendelkezett számítógéppel, és csak közel egytizede internet-hozzáféréssel. Az otthoni internet-hozzáféréssel rendelkezők arányát tekintve, a csatlakozásra váró országok közötti rangsorban csak két kelet-európai ország áll mögöttünk, miközben néhány évvel ezelőtt | Elvesztettük a 90-es évekbeli relatíve jó pozíciónkat, az információs társadalom mérőszámai szerint hátrébb kerültünk a rangsorban. |
+
+## még a fejlettebb közép-európai országokhoz (pl. Csehország) mértük magunkat. Az EU-ban átlagosan háromszor annyi számítógép jut száz főre, mint nálunk, az USA-ban több mint hatszor annyi.
+
+## Jól látható ugyanakkor ezekből a felmérésekből (illetve a sikeres országok példájából), hogy céltudatos információs társadalomfejlesztési politikával viszonylag rövid ciklusok alatt látványos és versenyképesség-növelő eredményeket lehet elérni. A Magyar Információs Társadalom Stratégiának elsősorban ez adja a tétjét és a jelentőségét/fontosságát.
+
+## Általánosságban elmondható, hogy az eszköz- és internet-hozzáférési mutatók kedvezőbb képet festenek az információs társadalom állapotáról, mint a használati adatok[^12]. Különösen feltűnő a hagyományos kommunikációs célú felhasználással (e-mail, információszolgáltatás és -keresés stb.) szemben az infokommunikációs eszközök innovatív alkalmazásának (e-munka, e-banking, elektronikus kereskedelem, távdiagnosztika, távoktatás) mellőzöttsége. A kedvezőbb általános kép mögött jelentős hiányosságok és társadalmi egyenlőtlenségek mutatkoznak az eszközökhöz való hozzáférés terén is.
+
+## A magyar lakosság háromtizede használ rendszeresen vagy alkalmanként számítógépet. Ez a használatiarány-mutató hosszabb ideje változatlan.
+
+## A számítógépet használók és nem használók a főbb társadalmi változók szerint igen jellegzetes különbségeket mutatnak. A használók között felülreprezentáltak a fiatal felnőttek (18–35 évesek), a felsőfokú és középfokú iskolai végzettséggel rendelkezők, a legfelső jövedelmi ötödbe tartozók, valamint a fővárosban és a megyei jogú városokban élők. Foglalkozás és aktivitás tekintetében a szellemi alkalmazottak, a tanulók, a vezetők és az önálló tevékenységet folytatók is az átlagosnál nagyobb arányban használnak számítógépet.
+
+## I.2.1. Az információs gazdaság helyzete felhasználói oldalról
+
+## A magyar gazdaság lassuló növekedése és az EU vezető államainak közel 0%-os növekedési rátája
+
+| jelenti a jelenlegi gazdasági környezetet. A magyar gazdaság makroviszonyai aránytalanságokat mutatnak, ezek egyensúlyba hozása fontos feltétele a kiegyensúlyozott fejlődésnek. Megérett az idő a szerkezetváltásra is. Példaként említjük, hogy az EU országaiban a nemzeti jövedelemhez hozzáadott érték mintegy | Magyarországon még nagyon alacsony az információs gazdaság által produkált hozzáadott érték. |
+
+## 70%-át a szolgáltató ágazat állítja elő. Egyre több ipari vagy mezőgazdasági tevékenység válik ki ezekből az ágazatokból, és alakul önálló szolgáltatássá. Ilyen szerkezeti átalakulás nélkül aligha lehet további fejlődést elérni. Hazánkban jelenleg a szolgáltatásokon belül alacsony az elektronikus szolgáltatás részaránya.
+
+## A magyar gazdaság még nem nevezhető információs gazdaságnak, mivel a teljes GNP kisebb része származik információs árucikkekből és szolgáltatásokból. Különösen alacsony az egyik legfontosabb mérőszám, az információs gazdaság által az egyes termékek értékéhez hozzáadott tényleges érték.
+
+## Üzleti szektor
+
+## Az elektronikusan elért árbevétel[^13] jelenleg az egész gazdaságban kb. 250–350[^14] Mrd Ft.
+
+## Az internet használatában a piaci szektorban is dominálnak a hagyományos alkalmazások (információgyűjtés és levelezés). Mindössze a cégek kétötöde rendelkezik saját honlappal, és ezek többsége (háromnegyede) passzív funkciójú, leginkább információ nyújtására korlátozódik. A feltérképezett honlapok egyötöde ad lehetőséget interakcióra, és egytizedénél kevesebb (az összes vállalatnak csupán kevesebb, mint két százaléka) teszi lehetővé a kereskedelmi tranzakciót. Emelt szintű honlappal[^15] rendelkező cég kb. 2000 van jelenleg.
+
+## A távmunka sem jellemző a vállalatoknál: 250 foglalkoztatottra mindössze egy jut. Valószínűleg a kapcsolódó jogszabályi problémák következménye, hogy a távmunka a munkaszerződésekben ezen esetek negyedében jelenik meg.
+
+## Az IKT-használat fogyasztói oldalán sem sokkal jobb a helyzet: a vállalatok csak a banki szolgáltatásokat veszik igénybe jelentősebb arányban (mintegy 50 százalékban). A többi, felmért szolgáltatás (VoIP, EDI) alig jelenik meg a mindennapi tranzakciók során.
+
+## Ugyanakkor az infokommunikációs eszközökkel kapcsolatos attitűdre jellemzőek a jelentős fejlesztési igények elsősorban a banki kapcsolatok és a marketing területén.
+
+## A számítógép és az internet használatához szükséges legalább alapfokú ismerettel a vállalatok bevallása szerint munkavállalóik negyede rendelkezik. Informatikusból 2–3 jut száz dolgozóra.
+
+## Közszféra
+
+## A közigazgatásban alkalmazottak 75–80 százaléka dolgozik számítógéppel. Ma már minden köztisztviselő szövegszerkesztőt használ vagy szeretne használni munkájához. Kiemelendő, hogy a központi közigazgatásban alig kapnak szerepet az informatikai eszközök az oktatásban, illetve a vezetői döntéstámogatásban. Erősen kétséges az eszközök használatának általános hatékonysága.
+
+## Önálló honlappal az önkormányzatoknak mindössze harmada, míg a központi közigazgatásnak csaknem minden egysége rendelkezik.
+
+## A Belügyminisztérium az okmányirodai hálózat kialakításával jelentős lépést tett azért, hogy a szolgáltatások minél közelebb kerüljenek az állampolgárokhoz. Terjed az e-mail használat, vannak országos online rendszerek és megbízható elektronikus közigazgatási nyilvántartások.
+
+## Informatikai képzést az önkormányzatok negyede biztosított ügyintézői számára. A központi közigazgatás dolgozóinak negyede vett részt hasonló képzésben. Jelentősen javult a köztisztviselők informatikai kultúrája.
+
+## Az IKT-eszközök használatára vonatkozó tudatosság szintjét jellemzi, hogy az önkormányzatok, illetve államigazgatási szervek jelentős részének nincs olyan informatikai stratégiája, amely – a megcélzott technikai fejlesztéseken túllépve – a folyamatok és szolgáltatások informatikai alapú korszerűsítésére fókuszálna.
+
+## Az egészségügy hiányos informatikai infrastruktúrája, a tényalapú szakpolitizálást kiszolgáló tudásgazdálkodás hiánya már önmagában is lehetetlenné teszi a népegészségügyi program sikeres megvalósítását. Részben ennek tudható be, hogy miközben a rendszerváltozás óta eltelt közel másfél évtizedben a népesség egészségügyi állapota egyes mutatószámok tekintetében javult, ugyanakkor megmaradt a népesség fogyásából és elöregedéséből eredő demográfiai csapdahelyzet.
+
+## Közel egy évtizede tart az a folyamat, melynek célja a felsőoktatási intézményekben valamilyen szempontból egységes nyilvántartási rendszerek elterjesztése. Az ezekre épülő felsőoktatási vezetői információs rendszer fejlesztése és bevezetésének támogatása még megoldásra vár, nem épült ki a felsőoktatás irányítását elősegítő információs hálózat és a hallgatói, oktatói, kutatói nyilvántartás.
+
+## Magánszféra
+
+## Rendelkezésre áll a technológia az új mobil és multimédia alkalmazások bevezetésére. Az alkalmazások mozgásban való elérését teszi lehetővé a mobil internet. A technikai lehetőség létezik (WAP, GPRS), de használata alacsony szintű.
+
+## Az információ továbbításában kedvelt megoldás a rövid üzenetek küldése (SMS). Felügyeleti rendszerből küldenek automatikus üzeneteket nem várt esemény bekövetkezésekor, vagy egyszerűen személyközi kommunikációra használják az emberek. Komplex rendszerek működnek SMS alapon, mint például a banki események jelzése.
+
+## Az infokommunikációs jártasság és napi gyakorlat terén jelentős lemaradás tapasztalható a fejlett országokhoz képest: 2002 decemberében a magyar lakosságnak csupán három tizede használt rendszeresen vagy alkalmanként számítógépet, a legalább heti rendszerességgel internetezők aránya mindössze 17 százalék volt. Az internetezők túlnyomó többsége soha nem vásárolt még az interneten keresztül.
+
+## I.2.2. Az elektronikus tartalmak és szolgáltatások helyzete
+
+## A lakosság többségét érintetlenül hagyta az információs korszakváltás, az információs társadalom ideája egyelőre nem vált közismert, elfogadott és izgalmas jövőképpé. Mindez azzal is összefügg, hogy nem jelentek meg és nem terjedtek még el azok az elektronikus tartalmak és szolgáltatások, amelyek révén az információs társadalom előnyei kézzelfoghatóvá válhatnának.
+
+| Elektronikus szolgáltatások és tartalmak nélkül nem létezik információs társadalom. | Az EU-ban már jellemzőnek mondható, elektronikus úton elérhető közszolgáltatások – csekély kivételtől eltekintve – nálunk nem léteznek. Az állampolgárok számára nyújtott köz-célú tartalomszolgáltatások száma és igénybevétele csak igen lassan nő. |
+
+## A jelenleg elérhető internetes tartalmak jelentős része csak magyar nyelven áll rendelkezésre, így más nemzetek számára a világhálón hozzáférhető, de nem érthető.
+
+## A tartalomszolgáltatás jogi és technológiai feltételeinek megteremtése a közszférában elindult, a 2003. év végére már eredmények várhatóak.
+
+## Bár megindult a fejlődés, de még nincs kellően tisztázva az állami szerepvállalásra érdemes közcélú, illetve a magánszféra által piaci alapon megvalósítandó tartalomszolgáltatások közti különbségtétel: a közcélú tartalomszolgáltatások egy részét – például jogtár, cégadatok – az üzleti szféra piaci alapon próbálja megvalósítani, miközben az állam nem ritkán piaci alapon működő tartalomszolgáltatók kereskedelmi szolgáltatásaihoz nyújt támogatást. Hiányzik a működőképes ,,public private partnership” modell a közcélú tartalomszolgáltatás területén (a jogszabályok már készülnek).
+
+## A közcélú tartalomszolgáltatás széttagolt, redundáns és ad hoc jellegű, hiányzik még az a hivatalosan elfogadott egységes közszolgálati tartalomszolgáltatási stratégia, amely megszabná, mi a kormányportál, a minisztériumi, intézményi, önkormányzati stb. honlapok funkciója és szolgáltatási köre. Ugyanígy hiányzik a rendszerek együttműködéséhez szükséges szabványosítás. A közcélú tartalomszolgáltatás az EU négyszintű skáláján az elsőnek, esetenként a másodiknak felel meg; néhány esetben előkészületek folynak (vagy legalábbis megindult a gondolkodás) a harmadik szintű (interaktív) szolgáltatások indítására.
+
+## A közcélú tartalomszolgáltatás terén az állam hagyományos, top-down kommunikációt folytat, nem használja ki kellően az online tartalomszolgáltatásban rejlő interaktivitást, illetve a közösségi kommunikációs lehetőségeket.
+
+## Bár Magyarország a kilencvenes évek végén az ,,új média”, az internetes hír- és tartalomszolgáltatás területén a régióban úttörő szerepet játszott, az elérhető szolgáltatások köre mégsem bővült dinamikusan. Immár megjelentek a gyors megtérülést ígérő szórakoztató, bulvár tartalmak fizetés ellenében elérhető formái is.
+
+## I.2.3. Az infrastruktúra helyzete
+
+## Számítógép-ellátottság tekintetében Magyarország jelentős lemaradásban van. Az EU-ban átlagosan háromszor annyi gép jut 100 főre, mint nálunk, az USA-ban ez a szám a miénknek több mint hatszorosa. A csatlakozni kívánó országok között a nyolcadik helyen állunk megelőzve Lengyelországot, Litvániát, Bulgáriát, Törökországot és Romániát.
+
+## A hazai internet-használók aránya magasabb, mint a csatlakozó országok átlaga, de nem éri el az EU átlagának a felét, s kevesebb, mint harmada az USA értékének.
+
+## A lakosság
+
+## Nemzetközi összehasonlításban országunk helyzete e téren rossznak mondható. Az Európai Unióhoz csatlakozni kívánó országok közül az otthonukban internethez hozzáférők arányát tekintve csak Románia és Törökország áll Magyarország mögött. A magyar érték az uniós átlag negyede.
+
+## A tagjelölt országokban tapasztalható tendencia a magyarországihoz hasonló lassú növekedés, néhány figyelemre méltó kivétel azonban akad: Lettország (4%), Észtország (4%), Szlovénia (6%), Málta (13%). Megjegyezzük, hogy az unióbeli átlagos növekedési ütem 4 százalékpont.
+
+## Az OECD 2000-es felmérése szerint a vásárlóerőhöz viszonyítva az OECD tagországok közül hazánkban és Csehországban a legdrágább az otthoni internetezés. Csak a szolgáltatók közötti verseny fokozódásával várható, hogy olcsóbbak lesznek az egyszerűbb hozzáférési formák. Középtávon viszont a lakosság számára is vonzó árú, szélessávú elérést kell biztosítani
+
+## Az üzleti szféra
+
+## Az internetelérés elterjedtsége (az internet-penetráció) egyenes arányt mutat a vállalkozások létszámának nagyságával. A 10 fő alatti vállalkozásoknál 38% a 100 fő fölöttiek esetén 91%. Az elmúlt időben a dial-up hozzáférések mellett, illetve azok minőségi váltásával nőtt a szélessávú szolgáltatásokra előfizetők száma. Megjelentek azok az emelt szintű szolgáltatások (vírusvédelem, spamszűrés, szerverüzemeltetés), amelyeket az infrastruktúra-szolgáltatók kezelni tudnak. Az infrastruktúra-szolgáltatásokhoz kötődő piac- és szolgáltatásismeret még nem támogatja a szolgáltatások gyors, széles körű elterjedését.
+
+## A közszféra
+
+## Internet- és eszközhozzáféréssel a közigazgatás jelentős része el van látva. Az internet-hozzáférés az önkormányzatok háromnegyed részében van megoldva, míg a központi kormányzatban csaknem teljes a hozzáférés. Az önkormányzatoknál használt számítógépek kétötöde azonban három évnél idősebb. Az eszközellátottságban és a hozzáférés technikai színvonalában jelentősek a különbségek. A közepes és a kisebb települések leszakadása számottevő. A szükséges ismeretek hiánya akadályozza az informatikai fejlesztéseket, valamint a kapcsolódó szabályok és előírások kidolgozását.
+
+## Az egészségügyi ágazat és különösen annak finanszírozási oldala felismerte az információs infrastruktúra kiépítésének jelentőségét. Ennek első eredményei érzékelhetők, például a receptfelírás ellenőrizhetőségének megteremtésében. Az ágazati szereplők és az érintettek nagy száma miatt az ágazatot átfogó fejlesztés komoly koordinációs és egyeztetési erőfeszítéseket igényel.
+
+## Az oktatási ágazat hozzáférését a Sulinet, illetve a felsőoktatás, a kutatások és a közgyűjtemények céljaira létrehozott NIIF-Hungarnet hálózata adja. A középiskolák internet-hozzáférésének biztosítása Európában az elsők között történt meg a Sulinet program beindításával. Mindkét hálózat fenntartása és továbbfejlesztése odafigyelést és befektetéseket igényel.
+
+## A távközlés
+
+## A távközlési piac jogszabályi liberalizációja eddig még nem hozott átütő eredményt. A versenyhelyzet – különösen a klasszikus szolgáltatások terén – nem kényszerítette még ki a szolgáltatások árának lényeges csökkenését, illetve a tényleges kínálati piac kialakulását.
+
+## A fejlett információs társadalomra jellemző felhasználó szokások kialakulásának, elterjedésének gátja a magán, illetve gazdasági szféra széles körei számára elérhető és megfizethető szélessávú szolgáltatások hiánya.
+
+## I.2.4. Az informatikai ismeretek helyzete
+
+## Bár az internet-használatot és annak gyakoriságát, minőségét alapvetően a társadalmi-gazdasági feltételek határozzák meg, az okok között előkelő helyet foglal el mindaz, ami a ,,fejekben” van.
+
+## Az ITU szakmai ajánlásai 2003. januárjában[^16] az IKT használatának méréséhez faktorként javasolják az IKT-használat tudásbázisának vizsgálatát. Az iskolai végzettségen, a nyelvismereten, valamint az újságolvasási szokásokon keresztül felmért IKT-tudás indikátor, így valószínűleg az információs társadalom legitim mérőszámai közé kerülhet.
+
+## Az oktatásban, a felnőttképzésben
+
+## A pedagógusok egyre nagyobb hányada képes az informatikai eszközök használatára, de még távolról sem kielégítő az a mérték, amelyben ezt beépítik pedagógiai gyakorlatukba. A kialakuló információs társadalomban való érvényesüléshez szükséges jártasság fejlesztését szolgáló tartalmak és módszerek, a világháló oktatási célú felhasználása nem jelenik meg kellő súllyal sem az oktatás tartalmában, sem a folyamatában. Az információs társadalom oktatása nincs jelen sem a közoktatásban, sem a felsőoktatásban és a felnőttképzésben.
+
+## A lakosság körében
+
+## A megkérdezett felhasználók zöme rossznak ítéli számítógép-használói tudását. Ennek ellenére a számítógép-használók négyötöde képes felsorolni a PC-k főbb alkatrészeit, kétharmad részük képes fájlműveleteket végezni és szövegszerkesztővel dolgozni. A felhasználók többsége tud táblázatkezelő programot használni és információt keresni a világhálón.
+
+## I.2.5. A jogi-társadalmi környezet állapota
+
+## A jogi környezet fogalmát kiterjesztve értelmezzük, beleértve a gazdaság önszabályozását és az állami szabályozást is. E két terület egyelőre nincs élesen elhatárolva. Az információs társadalom kereskedelmi dimenziója iránt elkötelezett jogpolitika eredményeként 1999 és 2002 között elfogadásra kerültek az elektronikus gazdaság fejlődése szempontjából nélkülözhetetlen alapok (adatvédelem, távollévők közötti szerződéses kapcsolatok és azok fogyasztóvédelmi kérdései, elektronikus fizetési eszközök, elektronikus aláírás, információs társadalmi szolgáltatások, az elektronikus pénzintézetek tevékenysége, szellemi tulajdon, elektronikus hírközlési szolgáltatások stb.).
+
+## Jogharmonizáció
+
+## A magyar jogközelítési folyamatot az EU-val kötött megállapodás mellett az egyéb nemzetközi egyezményekhez történő csatlakozásunk is meghatározza. E folyamatok a 2002-ben hivatalba lépett új kormány intézkedéseinek köszönhetően felgyorsultak, kiteljesedtek. Az informatikai és hírközlési tárgyú jogszabályok előkészítésében, koordinációjában és megalkotásában jelentős szerepet vállalt a Miniszterelnöki Hivatal, illetőleg a 2002 májusában az ágazati feladatok ellátására létrehozott Informatikai és Hírközlési Minisztérium.
+
+## A csatlakozásra való felkészülés jegyében 2003-ban még számos, információs társadalmi tárgyú és harmonizációs célú új törvény elfogadása várható: a leglényegesebbek közé a szerzői jogi törvény átfogó módosítása (a 2001/29/EK irányelvvel való összeegyeztethetőség megteremtése), az információs társadalmi szolgáltatásokról és az elektronikus kereskedelemről szóló törvény módosítása (a 2000/31/EK irányelvvel való teljes körű összeegyeztethetőség megteremtése, speciális adatvédelmi szabályokkal való kiegészítése), az digitális archiválás szabályairól rendelkező új miniszteri rendelet, az egységes hírközlési törvény helyébe lépő, az elektronikus hírközlésről, illetőleg a postáról szóló törvények, a közigazgatási eljárások korszerűsítése és elektronizálása szempontjából a közigazgatási eljárás általános szabályairól szóló új törvény sorolható. Várható a közbeszerzések rendjéről szóló törvény módosítása, az elektronikus közbeszerzés szabályairól szóló kormányrendelet megjelenése, valamint parlamenti elfogadás előtt áll az elektronikus cégeljárásról és a cégiratokhoz elektronikus úton való hozzáférésről rendelkező törvénytervezet.
+
+## A hírközlés szabályozásával kapcsolatban kiemelendő a 2001. évi XL törvény a hírközlésről, amelynek megalkotásakor kiemelt szempont volt az EU azon közösségi vívmányainak átvétele, amelyek még hiányoztak a hazai szabályozásból. A törvényhez kapcsolódóan a versenypiac kialakítását célzó legsürgősebb kormány- és miniszteri rendeletek is elkészültek. Az eddig bevezetett intézkedések eredményei hozzájárultak a piacnyitáshoz, de a vezetékes infrastruktúrára épülő távközlési piacokon az igazi verseny létrejötte, a monopoljelleg csökkenése lassú. A csatlakozásig bevezetendő intézkedések – elsősorban az új Elektronikus Hírközlési Törvény (várhatóan 2003 decemberében kerül kihirdetésre) és az új Posta Törvény megalkotása, valamint számos elektronikus hírközlést szabályozó jogszabály módosítása – felgyorsítják az átmeneti folyamatokat és a valódi versenypiac kialakulását.
+
+## Az EU a 2003. júliusában életbe lépett új jogszabálycsomaggal újraszabályozta a belső piac távközlését; hazánk az új Elektronikus Hírközlési Törvény megalkotásával a csatlakozásig eleget tesz a
+
+| jogharmonizáció követelményének. Az információs társadalom szabályozását tekintve megállapítható, hogy a vonatkozó EU-s joganyag egésze átvételre került, így további feladatként már csak a meglévő jogszabályi kereteknek – önszabályozás és állami reguláció útján – részletszabályokkal való kitöltése jelentkezik. Ugyanakkor az is megállapítható, hogy az új, ,,elektronikus” szabályozási intézményrendszer teljes mérték- ben még nem alakult ki. A tudásalapú, elektronikus gazdaság hatékony és versenyképes működését akadályozó egyes (alsóbb |
+
+| Az EU jogharmonizáció felől nézve jól állunk. A tényleges végrehajtás, a szabályozási intézményrendszer megfelelő kiépítése, fontos részleteknek a hazai viszonyokhoz illeszkedő kezelése viszont még további feladatot jelent. |
+
+## szintű) jogszabályok nem kerültek módosításra, illetőleg hiányoznak még új rendeletek, és az önszabályozó mechanizmusok eszköztára is további kiegészítésre szorul.
+
+## Az informatikai biztonság helyzete
+
+## Hazánkban gyakorlatilag hiányoznak a mai technológiai rendszereknek, az informatika szerepének, illetve az informatikai rendszerek – kiemelten az internet és a Windows – veszélyeztetettségének megfelelő, az informatikai biztonságra vonatkozó jogi keretek.
+
+## Hasonlóképp hiányosak azok a szervezeti keretek (kivéve az elektronikus aláíráshoz kapcsolódóakat), amelyek nélkülözhetetlenek az informatikai biztonság kormányzati szintű koordinációjához, hatékony megvalósításához.
+
+## A fejlett országok gyakorlatával ellentétben az informatikai biztonság helyzetére hazánkban jellemző, hogy
+
+## – súlya, kezelése nincs arányban a fontosságával,
+
+## – szétaprózódik a különböző részterületek irányítása alatt,
+
+## – jogszabályi és irányítási hiányosságok korlátozzák számos területen,
+
+## – nincs egységesen alkalmazott módszertana, szakmai elvárásrendszere,
+
+## – nem kapcsolódik a fő nemzetközi áramlatokhoz.
+
+## A felhasználók kiszolgáltatottsága
+
+## Az információs és kommunikációs technológia sajátossága, hogy rendkívül sok, speciális és nagyon gyorsan változó, megújuló, bővülő ismeretet igényel. Ezt a hatalmas területet és gyors fejlődését nehéz – ha nem lehetetlen – követni. Különösen olyan mértékben és mélységben, amely a döntések meghozatalához szükséges, akár az egyszerű felhasználók, akár a felhasználóként jelentkező szervezetek szintjén merül fel erre az igény. Ez a sajátosság ahhoz vezet, hogy az informatikai piac különböző szereplői, a felhasználók és a szolgáltatók tudás- és ismeretszintje rendkívüli mértékben eltér. A tudásbeli különbségek pedig kiszolgáltatottságot idéznek elő a felhasználói oldalon.
+
+## Ezt a helyzetet súlyosbítja az, ha a piac szolgáltatói oldala sem ,,működik” megfelelően, ha a verseny valamilyen oknál fogva – például monopóliumok megjelenése miatt – korlátozott.
+
+| Az internet iránti bizalom megteremtése nélkül nem lehet továbblépni az információs társadalom kiépülése felé. | Tovább rontja a felhasználók helyzetét az, ha ezt a tudásbeli különbséget valaki a felhasználók hátrányára ki is használja, mint ahogyan azt a vírusok, trójai programok, ,,megtört” programok, honlapok és adatbázisok esetében nap mint nap tapasztaljuk. Hasonlóképp kiszolgáltatottságot eredményez – ha nem |
+
+## is az előbbi értelemben – a felhasználók adatait, szokásait, tevékenységét ,,leíró”, jellemző információk összegyűjtése, rendszerezése s ezzel személyiségük ,,ellopása”.
+
+## Mindezek a körülmények a hagyományosan vett informatikai biztonság mellett felvetik a felhasználók komplex védelmének szükségességét. Ilyen törekvés pillanatnyilag csak társadalmi kezdeményezés formájában figyelhető meg.
+
+## Társadalmi ,,elvárások”
+
+## Az információs társadalom terjedése Magyarországon 2002 végéig megtorpanni látszott. A penetrációs adatok többsége stagnálást jelzett, s ennek hátterében nemcsak a pénzügyi és infrastrukturális lehetőségek álltak, hanem – a korábbi szakmai hiedelmekkel ellentétben – az attitűdök sajátos konstellációja is. Az információs társadalom fejlődésével foglalkozó felmérésekből[^17] is kitűnik, hogy az érdeklődés hiánya miatt az internet-használat az utóbbi években a vártnál jóval kisebb mértékben növekedett. Mindehhez esetenként szorongás, az újdonságokkal és – különböző okoknál fogva – a szolgáltatókkal szemben érzett gyanakvás és bizalmatlanság is társult.
+
+## Az infokommunikációs eszközök megítélésében a kép igen vegyes. Miközben a lakosság csaknem háromnegyed része úgy gondolta, hogy ezen eszközök technológiai fejlődése hasznos folyamat, magas volt azoknak az aránya, akik egyáltalán nem érdeklődtek e technológiák felhasználása iránt. Jellemző adat, hogy a háztartási internet-eléréssel nem rendelkezőknek mindössze tizede tervezte egy éven belül internet szolgáltatás megrendelését.
+
+## 2003-ban változás figyelhető meg. Az érdeklődés hiánya miatt nem internetezők száma 10%-kal csökkent. Ezzel párhuzamosan az internetet használók száma jelentősen emelkedve, mintegy 20%-os arányt ért el.
+
+## Az uralkodó szemlélet azonban még mindig nem tekinti az információt, a tudást erőforrásnak, az informatikát termelő eszköznek.
+
+## I.2.6. Az esélyegyenlőség helyzete
+
+## A modern információs és kommunikációs technológiai eszközök terjedése kumulatív módon hat a társadalmi hátrányok generálódására, azaz az infokommunikációs eszközök hozzáférésének, használati módjának, az elérhető online tartalmak és szolgáltatások igénybevételének eltérő módja és mértéke tovább növeli a társadalmi különbségeket. Mindezt a digitális megosztottság fogalma fejezi ki, amely egyrészt bemutatja és értelmezi ezeket az újfajta egyenlőtlenségeket, másrészt az okok feltárásával azonnal lehetőséget ad a megosztottság áthidalását elősegítő megoldások megfogalmazására.
+
+## Magyarországon a számítógép- és az internet-hozzáférés, valamint -használat terén a legjellemzőbb digitális törésvonalak a gazdasági aktivitás, az életkor, az iskolai végzettség, a jövedelem nagysága, a település típus, valamint az etnikai hovatartozás mentén rajzolódnak ki.
+
+## Az internet-használat elterjedtségének arányszámában mérve, a különböző csoportok között:[^18]
+
+## – a tanulókat és a nyugdíjasokat összehasonlítva 70%,
+
+## – a 14–17 éveseket, valamint a 60 évnél idősebbeket nézve 67%,
+
+## – a felsőfokú és a szakmunkás iskolai végzettségűeket összevetve 40%,
+
+## – jövedelem alapján a legfelső, illetve legalsó ötödbe tartozókat tekintve 25%,
+
+## – Budapesten és a községekben élőket vizsgálva 15% a különbség.
+
+## Ezek a különbségek – a nemzetközi tapasztalatokból kiindulva – várhatóan hazánkban is növekedni fognak az elkövetkezendő években.
+
+## Magyarországon a településeknek csak kis hányadában van jelenleg nagy sebességű és megbízható internet-használati lehetőség. A hazai területi és települési önkormányzatok döntő többsége még nem rendelkezik ilyen lehetőséggel, de nincs hozzáférése az önkormányzatok szolgáltatásait igénybe vevő állampolgárok és a különböző közszolgáltatásokat nyújtó szervezetek többségének sem.
+
+## A magyarországi települési és területi önkormányzatok jelentős mértékben el vannak maradva az informatika közigazgatáson belüli, illetve a szolgáltatásokat igénybevevők kiszolgálását segítő folyamatainak alkalmazásában. Jelentős elmaradás tapasztalható mind az alkalmazások, mind pedig az IKT-infrastruktúra terén. Az elmaradás az informatikai fejlesztésre, üzemeltetésre fordítható pénzügyi erőforrások szűkösségére, valamint a döntéshozók hiányos információs társadalmi tudatosságára vezethető vissza.
+
+## I.2.7. A kutatás és a fejlesztés állapota
+
+## Magyarország az információs társadalom kialakításával kapcsolatos területeken számottevő tudományos háttérrel, kutatói erőforrásokkal rendelkezik. Köszönhető mindez a legdinamikusabban fejlődő
+
+| területeknek (pl. a távközlésnek). Ugyanakkor sajnálatos tény, hogy az 1980-as évek számítástechnikai, informatikai kutatásfejlesztéssel is foglalkozó nagy intézményei kevés kivétellel megszűntek, az egykori munkatársaik által létrehozott kis- és középvállalkozások többségének pedig nincs módja arra, hogy napi feladatai mellett kutatásfejlesztéssel foglalkozzon. Az informatikai és távközlési kutatás és fejlesztés (K+F) bázisát alkotó |
+
+| Jó lehetőségekkel és hagyományokkal rendelkezünk a K+F területén, de fontos, hogy ezek ápolása és kihasználása mellett újakat is teremtsünk. |
+
+## felsőoktatási intézmények az 1990-es évek elején az üzleti szféra elszívó hatása miatt elszenvedett jelentős oktatói létszámcsökkenést a mai napig nem tudták pótolni, a hallgatók létszámának gyors emelkedése pedig tovább növelte az informatikával foglalkozó oktatói gárda terhelését. Ezeket a tendenciákat csak részben képesek ellensúlyozni az egyre több karon beinduló doktori képzések, az emelkedő doktorandushallgatói létszám, valamint az örvendetesen bővülő hazai és európai uniós K+F pályázati rendszerek.
+
+## A sajátos magyar kulturális örökség következményeként kialakult ,,kreatív és leleményes” humán tőke magas szintű innovációs képességekkel rendelkezik. A komoly hagyományokkal rendelkező közép- és felsőfokú oktatásra, valamint a nemzetközileg is elismert, magas szintű tudományos és K+F kultúrára épülve több kulcsfontosságú szakterületen (pl. távközlés, elosztott számítási rendszerek, számítógépes grafika, képfeldolgozás, számítógépes nyelvészet, beszédfeldolgozás, analogikai számítógépek, beágyazott rendszerek, tudáskezelő rendszerek) sikeres kutatói iskolák jöttek létre. Erre alapozva több multinacionális cég telepítette az országba K+F infrastruktúráját.
+
+## Ugyanakkor erre a területre is igaz, hogy hiányoznak a vállalatokat és a kutató-fejlesztő intézményeket összekapcsoló struktúrák.
+
+## A felsőoktatási intézmények világszerte azzal a problémával küzdenek, hogyan lehet összehangolni az egyetemek hagyományos tudásközvetítő funkcióját a gazdaság igényeinek kiszolgálásával. A ,,vállalkozó egyetem” modell kialakulása fontos a gazdasági élet szereplőinek is, így az oktatási és a piaci szféra közös érdekeinek felismeréséből már hazánkban is számos modellértékű együttműködés, közös program valósult meg. Azonban a nagyvállalatok által nyújtott K+F támogatások mértéke jelentősen elmarad a fejlett országokban tapasztalt arányoktól.
+
+## A gazdaság fenntartható növekedésének biztosításához egyes nemzetgazdasági jelentőségű szakterületeket kiemelten kell kezelni, így az információs társadalom fejlődésével kapcsolatos területek K+F tevékenységét is.
+
+## Az információs társadalommal kapcsolatos pályázati rendszereknek is köszönhetően, az utóbbi időben sikeres K+F aktivitás jellemezte ezt a területet. E pályázati rendszer főbb elemei a következők:
+
+## – az Országos Tudományos Kutatási Alapprogram (OTKA; 1986-tól, az MTA kezelésben),
+
+## – a hazai alkalmazott kutatásfejlesztési pályázatok közül elsősorban az infokommunikációs technológiák és alkalmazások fejlesztését támogató pályázat (IKTA; 1997-től, az egykori OMFB és jogutódja, az OM Kutatás-fejlesztési Helyettes Államtitkársága gondozásában),
+
+## – a Nemzeti Kutatási és Fejlesztési Programok információs és kommunikációs technológiai (IKT) pályázata (NKFP; 2001-jétől, az OM Kutatás-fejlesztési Helyettes Államtitkársága gondozásában),
+
+## – az információs társadalom kialakulását segítő innovatív technológiák és megoldások kidolgozását támogató pályázat (ITEM; 2002-től, az IHM Információs Társadalom Stratégia Helyettes Államtitkárságának gondozásában),
+
+## – az Európai Unió kutatási, műszaki fejlesztési és demonstrációs keretprogramjai, amelyekben magyarországi intézmények egyre bővülő jogi és szakmai lehetőségekkel az 1990-es évek első harmadától kezdve vehetnek részt.
+
+## I.2.8. Az információs gazdaság helyzete iparági oldalról
+
+## Fontos kiemelni, hogy Magyarországon az informatikai szektor a nemzetgazdaság egészéhez viszonyítva is fejlett, felkészültségében és képességeiben alig vagy helyenként egyáltalán nem marad el a
+
+| legfejlettebb államok képességeitől. A magyar piacon kis késéssel elérhetők mindazon korszerű IKT-termékek, -ismeretek és -szolgáltatások, amelyek a legfejlettebb országok piacain már bizonyítottak. Az IKT-iparág közvetlen hozzájárulása a nemzetgazdaság egészéhez évről évre jelentősen növekvő mértékű – ezért teljes joggal nevezhető húzó iparágnak. Különösen kiemelhető a kutatói hálózat kiépítettsége, felkészültsége és fejlettsége (NIIF), a multinacionális vállalatok |
+
+| A magyar információ-technológiai és infokommunikációs iparág képes kiszolgálni a magyar információs társadalom és gazdaság igényeit. |
+
+## jelenlétének köszönhető termék- és szolgáltatási paletta gazdagsága, a szektor kis- és középvállalatainak viszonylagos korszerűsége. Bizonyos területeken kiemelkedő a magyar szoftver- és szoftverexport-fejlesztői készség – amely azonban a rendkívül erős és világméretű versenykörnyezetre tekintettel erőteljes állami támogatást igényel. A szektorban jelen van mindaz a tudás, amely a korszerű IKT-eszközökre épített új intézményi és vállalatközi szervezési eljárások továbbadásához szükséges (az új gazdaság eszközei: ERP, BPR, CRM stb.).
+
+## Mindezek alapján nagy biztonsággal állítható, hogy a magyar informatikai ipar minden tekintetben képes megfelelni a társadalom által felállított, az információs társadalom kiépítését szolgáló követelményeknek.
+
+## Szembe kell nézni azonban azzal a ténnyel, hogy a fejlett magyar IKT-ipar nem tudott a kívánt mértékben behatolni a többi iparágba, ezért közvetett hozzájárulása a nemzetgazdaság egészéhez nagyságrendekkel kisebb a belőle fakadó lehetőségeknél. Ennek számos oka közül a három legfontosabb:
+
+## – a valódi politikai elkötelezettség gyengesége,
+
+## – a hálózatos technológiák terén még mindig nem kielégítő versenypiaci helyzet,
+
+## – a többi iparág relatíve alacsony hatékonysági kényszere.
+
+## Az IKT-szakma az elmúlt évtizedekben számos stratégiai elemzéssel igyekezett feloldani ezt a helyzetet, meglehetősen kevés sikerrel. Ezért is kiemelkedő jelentőségű az új Magyar Információs Társadalom Stratégia.
+
+## I.3. A jelenlegi trendek
+
+## A stratégia megvalósulása, a jövőkép elérése erősen függ a majdan fennálló belső és külső körülményektől és az ezeket meghatározó, befolyásoló nemzetközi, európai trendektől.
+
+## I.3.1. A gazdasági körülmények
+
+## Egy ország gazdasági fejlődése elválaszthatatlan a nemzetközi gazdasági folyamatoktól, ezért a magyarországi információs társadalom fejlődése is függni fog a minket befogadó Európai Unió gazdasági mutatóitól.
+
+## Ezért indokolt, hogy prognózisainkat az Európai Unióban várható gazdasági fejlődés figyelembevételével alakítsuk ki. Az EU Bizottság és az OECD tavaszi prognózisa is 2,5% körülire jelzi az európai GDP 2004. évi növekedését, a régió import volumene pedig 6% körüli ütemben fog bővülni. Az OECD középtávú előrejelzése a 2005–2008-as évek átlagára is 2,5% körüli éves növekedést prognosztizál az Európai Unió egészére.
+
+## Az eddig prognosztizáltnál mélyebb és tartósabb világgazdasági dekonjunktúra jelentősen csökkentette a magyar gazdaság növekedési lehetőségeit. A GDP negyedéves növekedési üteme a 2002. első negyedévi mélypont (2,9%) után hosszú ideig gyorsult ugyan, 2003 első negyedévében azonban újabb mélypont következett (2,7%). Ennek tükrében a 2003. év egészére vonatkozóan a GDP növekedése várhatóan alig fogja meghaladni a 2002. évi 3,3%-os ütemet.
+
+## A gazdaságpolitika hosszú távú célja továbbra is a modernizáció, az európai fejlettségi szintekhez való felzárkózás. Ennek elérése érdekében a következő időszakban elsősorban a versenyképességnek és az ország tőkevonzó képességének javítása, a pénzügyi és árstabilitásra való törekvés, valamint a gazdaság és a társadalom kohéziós erőinek kibontakoztatása szükséges. A felsoroltak csak egy fenntartható növekedési pályán haladva érhetők el, s – a környezetünkkel való kapcsolódásokat figyelembe véve – biztonsággal csak az Európai Unión belül teljesíthetők.
+
+## I.3.2. A politikai körülmények
+
+## Számolni kell az információs társadalom alapvető politikai körülményeivel is. Kiemelkedően fontos,
+
+| hogy konszenzus alakuljon ki a politikai eliten belül a stratégia prioritásáról és fenntartandóságáról. Ennek hiányában a stratégia céljai alárendelődhetnek a politikai szavazatszerzés rövid távú érdekeinek. Veszélyes lenne, ha az ágazatok közti rivalizálásban eltűnnének azok a prioritások, szempontok, melyeket az információs társadalom kialakítása érdekében képviselni kellene. | Az információs társadalom kialakítása nem napi politikai, hanem hosszú távú nemzeti stratégiai kérdés. |
+
+## Az EU politikai környezete is közvetlenül befolyásolja az információs társadalomra vonatkozó elvárásokat. Ugyanúgy, ahogy a regionális politikával, vagy a közigazgatással szembeni követelmények is jelentős hatással vannak e területekre, az EU információs társadalom politikájának is komoly hatása van az IKT alkalmazásokra.
+
+## 2000-ben került megfogalmazásra az Európai Bizottság által az eEurope 2002 cselekvési terv, amelynek célja, hogy egész Európa előnyére váljon az információs társadalom. Ennek keretében jelölték ki azt a három fő irányt (és ezeken belül tizenegy területet), amelyre az erőfeszítéseket koncentrálni kell:
+
+## – olcsóbb és gyorsabb internet-hozzáférés (szélessávú internet, e-Research, e-Security),
+
+## – beruházás emberekbe és készségekbe (e-Education, e-Working, e-Accessibility),
+
+## – az internet használatának ösztönzése (e_Commerce, e_Government, e_Health, e_Content).
+
+## 2002 júniusában az eEurope 2002 eredményeit foglalja össze és az előző meghosszabbításával újabb cselekvési tervet fogalmaz meg az eEurope 2005, melynek célja: ,,Információs társadalmat mindenkinek”.
+
+## Fő célkitűzései, hogy:
+
+## – kedvező körülményeket biztosítson a magánberuházásoknak és új munkahelyek teremtésének,
+
+## – fokozza a termelékenységet,
+
+## – hozzájáruljon a közszolgáltatások korszerűsítéséhez,
+
+## – biztosítsa mindenkinek a lehetőséget arra, hogy részt vehessen a globális információs társadalomban.
+
+## Jelenleg az EU és az USA közötti gazdasági verseny miatt az EU az információs társadalom kialakításával kapcsolatosan az eddiginél sokkal intenzívebb stratégiát követ. Ezt hűen tükrözi az e-Európa 2005 cselekvési terve és a kapcsolódó 6. keretprogram.
+
+## I.3.3. A technikai és technológiai környezet
+
+## Az informatika és a telekommunikáció nagyon gyors technikai változásokat fog hozni a következő években is. A Magyar Információs Társadalom Stratégiája alapvetően technológia-semleges, nem kívánja ,,elkötelezni magát” a ma létező technikai megoldások mellett, nyitva hagyva a lehetőséget új technikák, szolgáltatások, társadalmi innovációk alkalmazása előtt. A stratégia azt az egyensúlyt igyekszik megtalálni, amelyben optimális technikai megoldások találkoznak a maximális társadalmi hasznosulással.
+
+## Ez egyben azt is jelenti, hogy miközben az átfogó stratégiának építenie kell az új eszközök, és eljárások által nyújtott lehetőségekre, a részstratégiák és a programok végrehajtása során törekedni kell a technológia-semlegességre.
+
+## Az átfogó stratégiát meghatározzák a kirajzolódó technológiai lehetőségek:
+
+## – Világosan kivehető a feldolgozási, tárolási és átviteli kapacitások egységnyi/ fajlagos költségének csökkenése. A multimédiával és interaktivitással, mint domináns profilokkal rendelkező technológiák várhatóan kulcsszerepet fognak játszani az elektronikus szolgáltatások széles körű elérésében [mint pl. digitális televízió – a ,,free-to-air” üzleti modellnek is köszönhetően – kiegészítve a többi, már bevált (Internet) vagy bevezetés alatt álló (UMTS) platformokat].
+
+## – Egyre erőteljesebb a vezeték nélküli, mobilkommunikációs eszközök fejlődése és térhódítása. Ennek következtében számolni kell azzal, hogy az információk drót nélküli elérése is mind általánosabbá válik előbb a munkahelyeken, azután a háztartásokban, végül pedig az egyes személyek által.
+
+## – A hálózatokra épülő eszközök és eljárások (akár dróttal, akár drót nélkül) nemcsak a kommunikációnak, hanem az élet- és munkaszervezésnek, a kooperációnak is egészen új lehetőségeit – és kényszerét – nyújtják. Ez egyben az új gazdaság egyik jellemzője, amelyben a vállalkozások piaca immár jellemzően nem lokális, hanem regionális vagy világméretű, amelyben a belső munkaszervezési folyamatokat az információfeldolgozás, a csoportmunka és a kommunikáció új, kifinomult eszközeivel kell megoldani.
+
+## A technológia-semlegesség azt jelenti, hogy nem adunk versenyelőnyt egyetlen technológiának sem (legyen az xDSL, kábelmodemes, mikrohullámú, műholdas, GSM vagy UMTS), viszont gondoskodunk arról, hogy ezek a technológiák egészséges piaci környezetben versenghessenek. Nem jelenti azt sem, hogy az átfogó stratégiában figyelmen kívül hagyjuk az új technológiai (pl. mobilkommunikációs) lehetőségeket.
+
+## Az informatika területén a XXI. század első éveiben látható technológiai fejlődési trendek közül a Magyar Információs Társadalom Stratégiájának kialakítása szempontjából elsősorban az alábbiak figyelembevétele látszik célszerűnek:
+
+## – a (személyi) számítógépek szerepe a stratégia időhorizontjában Magyarországon tovább növekszik annak következtében, hogy a – hálózatba kapcsolt – számítástechnikai feldolgozó kapacitások megjelennek mindennapi életünkben;
+
+## – az új, speciális céleszközök olyan felhasználóbarát, alkalmazkodó felülettel fognak rendelkezni, amelynek segítségével az ember természetes módon tud kommunikálni az őt körülvevő különböző informatikai rendszerekkel; a mindennapi életben használatos legkülönbözőbb eszközökben megjelenik a számítástechnikai feldolgozó kapacitás – mindez hosszabb távon jelentősen megváltoztatja a jelenleg ismert számítástechnikai formák (pl. személyi számítógépek) megjelenését, szerepét;
+
+## – tovább növekszik a távközlési hálózatok teljesítménye és sávszélessége, nagymértékben elterjednek a vezeték nélküli hálózati technológiák, amelyek segítségével megvalósul az eszközök összekapcsolhatósága;
+
+## – kialakulnak, és széles körben elterjednek azok a technológiák, amelyeknek a segítségével a feladatok megoldására általában nemcsak egy számítógép erőforrásai, hanem az egész hálózaton elosztott módon jelen lévő programok és adatok igénybe vehetők;
+
+## – a számítástechnikai feldolgozó és tároló eszközök teljesítménynövekedésének folytatódása mellett megjelennek a teljesen új paradigmákon (nano-, quantum-, biocomputing stb.) alapuló eszközök is.
+
+## Mindennek következtében egyre több használati tárgy, a mesterséges környezet egyre több eleme tartalmaz majd IKT-eszközöket és megoldásokat. Az így kialakuló ,,intelligens környezet” lehetővé teszi, hogy az információs társadalom szolgáltatásai a korábbiaknál sokkal magasabb színvonalúak legyenek. Az Európai Unió kutatástervezéssel foglalkozó szakemberei ezt tekintik az elkövetkező évek egyik meghatározó technológiai jelenségének.
+
+## A stratégiai tervezésnél olyan technológiai környezetet feltételezünk, amelyet a felsorolt jelenségek együttes hatása alakít ki, figyelembe véve azt, hogy a magyar gazdaság – és különösen az informatikai piac – nyitottsága következtében a nemzetközi hatások nagyon gyorsan jutnak el Magyarországra.
+
+## I.3.4. A kulturális környezet
+
+## Az innovációk társadalmi elterjedését alapvetően befolyásolja a közösség kulturális, kommunikációs hagyománya, elvárás rendszere, az újítások iránti nyitott vagy zárt attitűdje. A közösségek életmódja, kommunikációjuk tartalmi és formai változásai hatással lesznek az IKT-eszközök alkalmazására. De létezik egy fordított irányú hatás is: az infokommunikációs eszközök használata révén erősíthetők a közösséget összetartó, fenntartó mechanizmusok. Alapvető fontossággal bír tehát, hogy az IKT-eszközök használatának elterjedését, az ebből fakadó kulturális, kommunikációs kihívásokat, a társadalmi tőke erősödésének lehetőségét felismerjék, a veszélyeket tisztán lássák az egyének, közösségek, családok. A modern társadalom fontos elvárása az is, hogy kiteljesedjenek a demokratikus viszonyok, kialakuljon a közcélú adatok valódi nyilvánossága, a véleményformálás igénye.
+
+## Az IKT-eszközök terjedése is visszahat magára a kultúrára, új kulturális tartalmak és szolgáltatások egyre szélesebb köre jelenik meg, mely gyökeres változást okoz a közösségek életmódjában. A nemzeti kultúra folyamatosságának megőrzése céljából nagyon fontos, hogy kulturális örökségünk az új típusú hordozók közvetítésével, digitálisan is elérhető legyen: erre egyelőre csak szórványos és nem kielégítő volumenű civil (Magyar Elektronikus Könyvtár) és állami (Digitális Irodalmi Akadémia, Nemzeti Digitális Adattár) kezdeményezések léteznek.
+
+## Az állam fontos feladata a kultúra területén az értékek megőrzése, ebben az informatikának nemcsak a más médiumokon létrehozott alkotások hatékony archiváló eszközeként van szerepe. Fontos felismerés az, hogy az értékmegőrzést ki kell terjeszteni a informatikai eszközökön létrehozott értékekre is.
+
+## A kulturális értékek megőrzésének új lehetőségei és az új típusú művészeti kifejezésmódok ugyanúgy az informatikai eszközök hatékonyságából, teljesítményéből adódnak, mint az a jelenség, hogy a szerzői és szomszédos jogok megsértése is lényegesen egyszerűbbé vált. A kultúrafogyasztás új és jövőbeli formáira (letöltés, streaming media) a jogalkalmazásnak és a szabályozásnak is fel kell készülnie.
+
+## I.3.5. Az emberek felkészültsége
+
+## Az információs társadalomra felkészítő ,,szocializáció” nem generációkon keresztül, hanem páratlanul rövid idő alatt megy végbe. Az iskolapadban ülőknek és a nyugdíjas éveikben lévőknek lényegében egyszerre kell megtanulniuk, elsajátítaniuk az információs társadalom új képességeit. A magyarországi információs társadalom sikere e tanulási folyamat minden társadalmi rétegre, korosztályra történő kiterjesztésének mértékétől függ.
+
+## Az ,,élethosszig tartó tanulás” egyik fontos eszközévé a távoktatás, illetve a távtanulás fog válni, amelynek IKT-eszközökkel támogatott változata az e-learning. E tanulási forma keretrendszerei ma már ismertek, elterjedésük mértékére jellemző, hogy piackutatások szerint az e-learning a gazdaság egyik leggyorsabban bővülő szegmense.
+
+## Az évtized végére Magyarországon is ki kell alakulnia az akkreditált felsőfokú képzést, valamint továbbtanulási kurzusokat kínáló, sokoldalú, nyilvános e-learninges hálózatoknak. A cél nemcsak a tananyagfejlesztés, hanem a megszerzett tudást, képességeket, készségeket, az előrehaladást követő információs rendszer felállítása
+
+## I.3.6. A szabályozási környezet
+
+## Az elektronikus gazdaság piactere globális jellegű: bár legfontosabb partnereink a jövőben is várhatóan az Európai Unió tagállamai lesznek, tekintettel kell lennünk az EU-n kívüli kereskedelmi kapcsolatokra vonatkozó más nemzetközi szabályozási törekvésekre is. Jogalkotásunk következő szakaszában a normatív és önszabályozás gazdaságszervező szerepe várhatóan minden korábbinál nagyobb hangsúlyt kap majd. Európa gazdasági jövője nagymértékben függ majd attól, hogy a politikai célok megvalósulását a közösségi egységjog, a régi és az új tagállamok jogrendszerei mennyiben, milyen hatékonysággal tudják majd elősegíteni.
+
+## A ma még nagyobbrészt bizottsági közleményekben, irányelv- és rendeletjavaslatokban megtestesülő, kisebb részben az Európai Parlament előtti tárgyalás és egyeztetés különböző stádiumaiban tartó új információs társadalmi normák már tudatosan tervezett és összehangolt eszköztár kialakulását vetítik előre. Fő irányai az információs és hálózati biztonság fokozása, az üzleti szféra számára kedvező jogi feltételrendszer kialakítása, az online közszolgáltatások és az elektronikus kormányzati megoldások támogatása, az elektronikus ügyintézés lehetőségének megteremtése, tágabb összefüggésben pedig a gazdasági-magánjogi szabályok konzisztenciájának fokozása, a gazdasági fejlődésre negatívan ható hatósági szabályozási feltételrendszer liberalizálása, az önszabályozási mechanizmusok és az alternatív vitaeldöntési rendszerek támogatása. A már javaslati stádiumba jutott új irányelvek várhatóan 2003–2004-ben elfogadásra kerülnek, a nemzeti jogba való átültetésükre a tagállamokban (immár Magyarországon is) 2005 végéig kerül majd sor. A tudásalapú gazdaság és az elektronikus kereskedelem – a szektorális szabályozási kereteken túlnőtt – joganyaga az egyik legdinamikusabban fejlődő terület, mely a kormányzati, a nonprofit szféra és a piaci szereplők legszélesebb körét érinti. Az állami szerepvállalásnak e téren ki kell terjednie arra, hogy az érintettek körét a tervezett változásokról kellő időben és módon tájékoztassa, biztosítsa számukra a véleményezéshez szükséges feltételeket, a magyar kormányzat álláspontjának kialakításakor pedig figyelembe vegye e véleményeket.
+
+## Az új, elektronikus gazdaság legfőbb termelőereje a tudás, az információ. A magyar gazdaság minden szereplője számára biztosítani kell, hogy a számára fontos információk hozzáférhetővé váljanak.
+
+## Ugyanilyen fontos, hogy a bel- és külföldi piaci szereplők számára megbízható, naprakész, magyar és idegen nyelvű információs adatbázisok álljanak rendelkezésre, melyek révén a számukra szükséges alapvető tájékoztatáshoz gyorsan s – főszabályként – ingyenesen juthatnak hozzá. Ez egyben elengedhetetlen feltétele a magyar elektronikus gazdaság szolgáltatásaival szembeni fogyasztói, vállalkozói bizalom megteremtésének is.
+
+## E követelmény teljesüléséhez nemcsak stratégiai célok megvalósulását segítő akcióprogramok szükségesek, hanem olyan jogi szabályozási környezet is, mely a magyar oktatási rendszer minden szintjén lehetővé teszi a szükséges ismeretek elsajátítását, az iskolán kívüli képzési rendszerekben pedig a speciális szakképesítést nyújtó tanfolyamok elismerését, akkreditációját. A külföldi piaci szereplők szempontjából lényeges a magyar információs gazdasági tartalmak idegen nyelvű hozzáférésének biztosítása, a magyar joganyag idegen nyelven történő megismerhetővé tétele: a határokon átívelő elektronikus kereskedelmi kapcsolatokban ez nemcsak a bizalomépítés fontos eszköze, de a közösségi jog által előírt kötelezettség is.
+
+## I.4. A jövőkép
+
+## Amikor az információs ágazat társadalmi, gazdasági súlya dominánssá válik, az információ beépül az egyének, szervezetek és intézmények mindennapjaiba, és a társadalmi kommunikáció nagy része a digitális csatornákon zajlik, információs társadalomról beszélhetünk. Az információ mind szélesebb körű és könnyű elérése, fokozott termelése és átalakítása segíti a társadalom megújulását, mobilizációját, utat nyit az egyéni kezdeményezőkészségnek, vállalkozó kedvnek, szélesíti a civilizációs termékek, kulturális javak fogyasztását, továbbá globálissá teszi az emberi tudás megszerzését és megosztását, és soha nem látott mértékben sokszorozza meg azt.
+
+| Magyarország számára is óriási a tét. Az alkalmazkodás sikere egyszerre teremt versenyképes gazdaságot, képzettebb polgárokat, a mindinkább nemzetek feletti termelési, fogyasztási és kapcsolati térben eredeti teljesítménnyel, vonzó partnerként megjelenő országot. Egy olyan társadalmat, ahol mindenki számára biztosított az információs közművek és az azokon közlekedő tartalmak legegyszerűbb és | Magyarország jövőképe: versenyképes információs társadalom. |
+
+## legolcsóbb használata, s mindenki képes az információk elérését szolgáló eszközök kezelésére. Olyan közszférát, amelynek szolgáltatásait az információs hálózatokon és annak a társadalomhoz közelebb kerülő végpontjain bárki, egyszerűen és gyorsan igénybe veheti. Ahol a lehető legteljesebb körű a közpénzekből előálló információk közzététele, s ahol újfajta tájékozottságukat és készségeiket felhasználva a lakosság és a civil szervezetek egyre nagyobb hányada vesz részt a döntéshozó folyamatokban és él a véleménynyilvánítás jogával. Ez az út a demokrácia közvetlenné válásához vezet, ahol az állampolgár, a közszolgáltatásokat végző, a döntéshozó, a politikus ugyanazon virtuális tér egyenrangú részt vevője – a háttérben a feladatvezérelt és szolgáltatás-központú közigazgatással.
+
+## A magyar gazdaság megújulása nélkül azonban mindez reménytelen volna. A digitális közeghez való alkalmazkodással a lehetőségek tere kitágul: a magyar termékek és szolgáltatások kínálata megnyílik a világ többi nemzete, különösen az Európai Unió polgárai számára. A gazdaság jövedelemtermelő képességének növekedését egyre inkább az információs- és tudásszektor teljesítménye biztosítja. Már csak ezért is szükséges, hogy az élethosszig tartó tanulás programja valóra váljon, hogy a felsőoktatás és a felnőttoktatás az információs korhoz szükséges minden új tudást közvetítsen, az oktatási intézmények és az állampolgárok egyaránt felkészüljenek a távoktatásra. Ebben a közegben megnő a jelentősége annak, hogy a nemzet környezeti és szellemi kultúrájának digitális tárházaként növekvő mennyiségben lesznek elérhetőek magyar nyelvű információs tartalmak, s hogy mindezeket a folyamatokat az emberek közötti térbeli, egészségi, tudásbeli és egyéb különbségeket figyelembe vevő és az ezek csökkentésére törekvő esélyegyenlőségi politika kísérje.
+
+## Nincsenek csodák: a fejlődést már a következő, 2006-ig tartó szakaszban is csak számtalan egyedi, egymásra épülő, jól megtervezett és végrehajtott feladat sikeres elvégzése biztosíthatja (állampolgárok felkészítése, infrastruktúra, kormányzati szolgáltatások, e-gazdaság, új típusú regionalitás, intelligens civil szervezetek). A programok összehangolásán, finanszírozásán, irányításán és ellenőrzésén múlik, hogy a tervekből mi valósulhat meg. A megvalósítás csak akkor lehet sikeres, ha egyszerre több területen is megtörténik az alapok lerakása.
+
+## A következő periódusban tehát a majdani továbblépést megalapozó állapotokat kell tudni teremtenünk. Ennek részeként fel kell készíteni mindenkit az információs eszközök és az internet használatára, biztosítva a világháló elérésének egyéni és közösségi módjait. Magyarországnak meg kell mutatnia természeti és kulturális értékeit mind polgárai, mind az egész világ számára, be kell mutatkoznia az Európai Unió polgárainak, ezért felértékelődik a többnyelvűség biztosítása az új médiában.
+
+| Az információs társadalom ,,állama” erős lesz, hatékony, de ugyanakkor a szükségesnél nem nagyobb és nem költségesebb. Decentralizált, technikailag jól felszerelt, és jól képzett, megfizetett közszolgálati alkalmazottakkal működik. Egyszerűsödik a hatósági tevékenység, javul az állami közszolgáltatások minősége: a bürokratikus szemléletet az állampolgár- és eredmény-központúság váltja fel. Kiterjed az úgynevezett elektronikus kormányzás hatóköre, általánossá válik a digitális, illetve az internet alapú | A jövőt nem lehet sürgetni, de lehet alakítani. A sikerhez megfelelő szemléletre, kemény munkára s nagyon sok felhalmozott és alkalmazott tudásra lesz szükség. |
+
+## ügyintézés, amely sokkal egyszerűbb és gyorsabb lesz a folyamatvezérelt, integrált, a nyilvántartások közötti kapcsolatot automatikusan kezelő és a közös európai közigazgatási rendszerhez szervesen kapcsolódó magyar közigazgatásban. A nagy közcélú adatbázisok, tudástárak és elektronikus munkafolyamat-rendszerek létrejötte mind a közszféra, mind a magánvállalkozások részt vevőit az internetes szolgáltatások megteremtésére és fogyasztására ösztönzi.
+
+## A jövő magyar információs társadalmának versenyképesebb és gazdagabb állampolgárai, közösségei és vállalkozásai a megélt demokrácia és egy új életminőség ígéretét hordozzák: megerősödő bizalmat abban, hogy lehet jól élni ebben az országban.
+
+## I.5. A válasz: eMAGYARORSZÁG
+
+## A tudásalapú gazdaság és az információs társadalom kínálta előnyök kihasználása jelentős változásokat igényel az egyes emberek, a vállalkozások, az állami szervezetek és a társadalom szintjén.
+
+## Az információs társadalom kiépítésének alapja az információs és kommunikációs technológia széles körű alkalmazása. Az információs társadalomba történő átmenet változásait elemezve ez a stratégia a gazdaság és a társadalom korszerűsítésének két alapvető pillérét a folyamatok korszerűsítésében és a szolgáltatások modernizálásában jelöli meg. Erre a két pillérre támaszkodva lehetséges a tudásalapú gazdaság és az információs társadalom létrehozása.
+
+| Első pillér: a folyamatok informatizálása; a folyamatok korszerűsítése az információs és kommunikációs technológia alkalmazásával. | A folyamatok korszerűsítése elsősorban a gazdaság és a közszféra belső működésének átalakítását jelenti, ezen a termelő, a végrehajtó, majd pedig a tervező, ellenőrző és irányító tevékenységek modernizálását értjük. A |
+
+## korszerűsítés az informatikai szemléletnek megfelelően a valóságos folyamatok elemzését, szükség esetén ésszerűsítését, újratervezését, újraszervezését igényli, amelynek során a lehető legtöbb részfolyamatban az információs és kommunikációs technológia eszközeinek alkalmazására kell törekedni. A belső és a szervezetek közötti folyamatoknak ilyen átalakítása biztosítja a tevékenységek és – azon keresztül – a szervezetek hatékonyságának növekedését, végső soron a gazdaság versenyképességének és a közszféra átlátható, demokratikus működésének javítását.
+
+## A szolgáltatások modernizálásának lehetőségét az infokommunikációs technológia korszerű, online szolgáltatások formájában kínálja. Az elektronikus szolgáltatások több fejlettségi szinten valósíthatók meg az
+
+| Második pillér: az elektronikus szolgáltatások megvalósítása; a szolgáltatások korszerűsítése az információs és kommunikációs technológia segítségével. | online információ eléréstől az egy-, illetve kétirányú tranzakciók lebonyolításán keresztül az integrált ügyviteli megoldásokig. A belső folyamatok korszerűsítése egyúttal az informá- ció-termelés, -előállítás, -kezelés új folyamata- it hozza létre. Az elektronikus szolgáltatások |
+
+## az információhoz történő hozzáférést, hozzájutást teszik lehetővé.
+
+| A két pillérre támaszkodó e-Magyar-ország16 építése áll a stratégia középpontjában. A pillérek között természetes kapcsolat van, de nem mindig feltételezik egymást szükségszerűen. Az online szolgáltatás a szervezetek által ellátott funkciók megjelenési formája, ,,front office”-a a felhasználók számára. Az elektronikus szolgál- | eMagyarország: tudatos és szervezett ország- fejlesztés informatizált folyamatok alkalmazásával, elektronikus szolgáltatások megvalósításával; ezek tömeges elérhetővé tételével és sokszínű, formagazdag információs kultúra kialakításával. |
+
+## 16 Összhangban az Európai Unió ,,eEurope 2005: Információs társadalom mindenki számára” elnevezésű programjával.
+
+## tatások legfejlettebb – például integrált ügyviteli – formában csak informatizált belső működés, ,,back office” mellett képzelhetők el. Ez a kapcsolat egyben azt is jelenti, hogy a megvalósítás problémái, feltételei és ennek megfelelően a megoldás elemei sok tekintetben közösek.
+
+## A két informatikai pillérre, a folyamatok és szolgáltatások korszerűsítésére támaszkodó módszeres tudásfejlesztés és tudásalkalmazás (például a tartalomipar létrehozása), valamint tudatos társadalomfejlesztés s ennek részeként a régiók és kistérségek modernizálása (azaz az e-települések és az e-térségek létrehozása) alapozza meg a magyar tudásalapú társadalom kialakulását.
+
+## A változás, a fejlődés a társadalmi, gazdasági, technológiai környezet adottságainak megfelelően zajlik. Az információs társadalom, a tudásalapú, új gazdaság fejlődése megállíthatatlan világméretű folyamat. A stratégiával ebbe a folyamatba kívánunk beavatkozni azért, hogy a fejlődés hatékonyabb, gyorsabb s főként tudatosabb, ugyanakkor kiegyensúlyozott, igazságos és fenntartható legyen.
+
+| Alapvetően olyan beavatkozásokra van szükség, amelyek a kívánt célok elérését piaci alapon teszik lehetővé. A kormányzati szerepvállalás indokolt annak érdekében, hogy a folyamatok olyan területeken is lejátszódjanak, ahol ezt a tisztán piaci működés nem biztosítaná, s ahol az állami példamutatás olyan intenzitású folyamatot indít el, amely jelentősen erősíti a piac kialakulását, illetve a működését. |
+
+| Az információs társadalom kialakulása alapvetően piaci alapokon történik, a beavatkozások is ennek figyelembevételével, a piac szereplőire támaszkodva történhetnek meg. |
+
+## Az információs társadalom és a tudásalapú gazdaság kiépülését elősegíteni, gyorsan és hatékonyan támogatni: közügy. Minden magyar állampolgárnak és vállalkozásnak lehetőséget kell adni arra, hogy véleményét kinyilvánítsa, megjelenítse, érdekeit egyénileg vagy érdekképviseleti rendszerek útján kollektív módon érvényesíthesse: a szabályozással összefüggő folyamatoknak ezért nyilvánosaknak, átláthatóknak, nyomon követhetőknek kell lenniük.
+
+## A beavatkozás legfontosabb lehetséges pontjait és formáit a MITS a különböző beavatkozási területeken az alábbiak szerint jelöli meg:
+
+| Beavatkozási terület | Folyamatok informatizálása | Elektronikus szolgáltatások |
+
+| Tartalom és szolgáltatások17 | Üzleti folyamatok újraszervezése (BPR); a távmunka és a távoktatás elterjesztése; az elektronikus munkamegosztás, a vállalkozások klasztereinek kiépítése; elektronikus bizonylatok, elektronikus elszámolási és fizetési rendszer használata; a kultúra digitalizálása, az egészségügyi, oktatási, közigazgatási folyamatok átalakítása; stb. | Üzleti tartalomszolgáltatás, a tartalomipar fejlesztése; közcélú, közhasznú információk nyújtása; online (köz)szolgáltatások megvalósítása, az e-közigazgatás bevezetése; stb. |
+
+| Infrastruktúra18 | Országos széles sávú hálózat kiépítése; közösségi szolgáltató központok; alapinformációk, alapszoftverek biztosítása stb. | Országos széles-sávú hálózat kiépítése; közösségi hozzáférés; stb. |
+
+| Tudás és ismeret | A döntéshozók, szakemberek, állampolgárok ismereteinek bővítése stb. | A digitális írástudás széles körű elterjesztése; élethosszig tartó tanulás; az információs és kommunikációs technológiák ismeretterjesztése; az információ ,,tudássá” alakításának képességére való felkészítés stb. |
+
+| Jogi és társadalmi környezet | Informatikai biztonság; hitelesség, megbízhatóság, minőség; információs és kommunikációs ajánlások, szabványok, szakmai kódexek, etikák kidolgozása. | A felhasználóvédelem megoldása; az informatikai biztonság növelése; az informatika társadalmi elfogadtatása, népszerűsítése; az információs alapjogok rögzítése az alkotmányban; stb. |
+
+## 17 Elfogadott az információs társadalom infrastruktúráját 4 rétegu modellel leírni: távközlési hálózatok, rendszerek és szolgáltatások; számítástechnikai hálózatok, rendszerek és szolgáltatások; adatbázisok és tartalomszolgáltatások; infokommunikációs alkalmazások. A ,,tartalom és szolgáltatások” kifejezés itt a 3. és 4. szintet ,,fedi le”.
+
+## 18 Alapvetően a fenti modell szerinti 1. és 2. szint.
+
+| Horizontális cél | Folyamatok informatizálása | Elektronikus szolgáltatások |
+
+| Kutatás és fejlesztés | Információ- és kommunikációtechnológiai kutatás, fejlesztés; nemzetközi kutatási együttműködés; a kutatóhelyek és a vállalkozások kapcsolatának fejlesztése stb. | Technológiai kutatás és fejlesztés; (információs) társadalomtudományi kutatás; az információs társadalom elméleti és gyakorlati kutatása; speciális információtechnológiai szakmai (oktatás, egészségügy stb.) kutatások; stb. |
+
+| Esélyegyenlőség | Az informatikailag hátrányos helyzetű szolgáltatók esélyének növelése; a régiók és kistérségek modernizálása az információs kor lehetőségeivel, az információs és tudásbeli esélyegyenlőtlenség mérséklése stb. | Az informatikailag hátrányos helyzetek, közösségek, térségek kezelése a felhasználók oldalán stb. |
+
+## A stratégia sikeres megvalósítása érdekében társadalmi szemléletváltás kívánatos: az egyének részéről nagyobb öntevékenység, a vállalkozások részéről nagyobb alkalmazkodó képesség, az állam részéről nagyobb önkorlátozás szükséges.
+
+## A Magyar Információs Társadalom Stratégia meghatározza azokat a feladatokat, amelyek végrehajtásával a stratégia sikeresen megvalósítható. A teljesítésben egyaránt szerepet kell vállalnia a piaci szektornak, a civil és az állami szférának, elengedhetetlen továbbá a szakmai, tudományos élet szereplőinek aktív részvétele.
+
+## 1. ábra: A Magyar Információs Társadalom Stratégia elemei
+
+## Az ábrán szereplő ,,K+F” és ,,esély” objektumok többszörözését eltérő tartalmuk (technikai, technológiai, társadalmi, tudományos stb.) indokolja. Az ábrán a Tartalom speciális szerepe is jól látható.
+
+## I.6. Stratégiai célok, feladatok
+
+## Az ,,eEurópa: Információs társadalom mindenkinek!” stratégiájának legfontosabb célkitűzése, hogy Európa 2010-re a világ legdinamikusabb és legversenyképesebb tudásalapú gazdaságává váljon, lehetővé téve a fenntartható fejlődést.
+
+## Az információs társadalom magyar stratégiájának kiemelt célja az eEurópához történő csatlakozás, illetve a felzárkózás feltételrendszerének megteremtése. Ez a stratégia a fentiek szerinti legfontosabb átfogó, társadalmi cél eléréséhez elsődleges eszközként jelöli meg az eEurópa akciótervben megfogalmazott célok
+
+| befogadását, valamint az információs társadalom magyar fejlődési üteme és az Európai Unió átlagos fejlődési üteme közötti különbségeket okozó hazai körülmények és feltételrendszer megváltoztatását. A kívánt mértékű változás hatására a magyar információs társadalom fejlettségi szintje – az európai uniós csatlakozást követő mintegy 10 éven belül – eléri az Európai Unió átlagos szintjét, megteremtve ezzel a társadalmi és gazdasági alapokat ahhoz, hogy Magyarország meghatározó szerepet töltsön be a közép-kelet-európai térségben. |
+
+| Az információs társadalom megvalósulásában 10 év alatt az Európai Unió fejlettebb országai közé kell kerülnünk. Minden ezt akadályozó tényezőt fel kell számolnunk. |
+
+## A magyar információs társadalom stratégiai céljainak és feladatainak meghatározásakor a legfőbb közös célból, az életminőség javításának céljából indultunk ki, szem előtt tartva, hogy a magyar társadalom előtt álló – az informatikai szakma érdekeitől független – kihívásokat kell figyelembe venni. Olyan, valós értékeken alapuló válaszokat kívánunk adni, amelyek a kormányzati ciklusokon átívelve is eredményre vezethetnek.
+
+## A MITS-ben megfogalmazott célok elérése az egyének számára az életminőség és az életkörülményeik javulását eredményezi:
+
+## – a munka világában (a munkához jutás, a munkavégzés minősége),
+
+## – a tanulásban és ismeretszerzésben ,
+
+## – a szabadidő eltöltésében (hobbi, játék, önmegvalósítás),
+
+## – az emberi kapcsolatok fenntartásában és építésében,
+
+## – a privát szféra védelmében (személyes adatok, információk védelmében),
+
+## – a közügyek gyakorlásában (információhoz jutás, véleménynyilvánítás stb.).
+
+## A MITS-ben előirányzott új szolgáltatások bevezetése a társadalom számára a fejlődési ütem növekedését eredményezi:
+
+## – a gazdaság teljesítő képességére gyakorolt hatásával,
+
+## – az esélyegyenlőség eszközrendszerének megteremtésével,
+
+## – a kultúra és a nyelv megőrzésével,
+
+## – a hatékony, szolgáltató közigazgatás létrehozásával,
+
+## – a nyitott, átlátható közszféra és az erős civil társadalom megteremtésével.
+
+## A fenti két fő eredmény elérése érdekében a MITS figyelembe veszi az ágazatok stratégiai
+
+| célkitűzéseit és az ágazati politikákkal összhangban olyan feladatokat fogalmaz meg, amelyek sikeres telje- sítése rövid távon is gyors és hatékony válaszokat ad az új kihívásokra. A MITS keretet ad az ágazati célkitűzé- sek megvalósításához a feladatok összehangolásával, a közös stratégia egységes szerkezetbe19 foglalásával, ál- talánosan vállalható stratégiai célok kijelölésével. A stratégiai célok eléréséhez rendelt feladatok az átfedések minimalizálása és a hatékony munkameg- osztás érdekében több szempont szerint rendszerezve jelennek meg a dokumentumban. A feladatok végre- hajtási felelősségének egyértelmű meghatározására és | Ez a stratégia azért készült, hogy sikeresen végrehajtsuk. Ezért: • a stratégiát a fő beavatkozási területeken, és az azokon belüli főirányokban végrehajtott programokkal meg kell valósítani; • a feladatok, programok végrehajtási felelős-ségét egyértelműen rögzíteni kell; • ki kell alakítani a monitorozás és az utólagos értékelés rendszerét; • ki kell alakítani a tanulságok beépítését és a változások figyelembevételét lehetővé tevő gördülő tervezés mechanizmusát. |
+
+## 19 Az IHM ajánlásai az ágazati stratégiák készítéséhez, a 1214/2002. (XII.28.) Korm. rendelet alapján (2003. február).
+
+## a feladatok közötti szoros összefüggések kezelésére a stratégia programokat fogalmaz meg.
+
+## A programok közötti koordináció, a programok felügyelete megkívánja a további csoportosítást a feladatok főirányai szerint. A főirányok rendeltetése a hozzájuk tartozó – különböző prioritásokkal, működési és finanszírozási modellekkel rendelkező – programoknak a MITS célkitűzései érdekében való egységes szakmai irányítása és koordinálása.
+
+## A stratégia beavatkozási területei és az azokon belüli főirányok a következők:
+
+## I.6.1. Elektronikus tartalmak és szolgáltatások
+
+## A tartalom és a szolgáltatások fejlesztése a következő főirányokba csoportosítható:
+
+## 1. Gazdaság
+
+## A korszerű informatikai eszköztárnak a gazdaságban való széles körű elterjedését (és ezzel a versenyképesség növelését) támogató programokat célszerű egy ,,főirányban” kezelni. Ezen belül a ,,back office” és a ,,front office” jellegű tevékenységeket egyaránt lefedő központi programokat kell megvalósítani. Az első típus keretében elsősorban a szervezeten belüli és a szervezetközi integrált rendszerek alkalmazását kell előmozdítani, míg a második típusú programok legfőbb területe az elektronikus kereskedelem szélesebb értelemben vett fejlesztése, előmozdítása.
+
+## Ide tartoznak továbbá a gazdaság egyes ágazatainak informatikai támogatását célzó programok, továbbá azok a programok, amelyek direkt módon támogatják a piacképes új tudásbázisok létrehozását és kapcsolódó szolgáltatások nyújtását.
+
+## A tudásgazdaság versenyképességének megteremtése az a kitörési pont, amellyel felgyorsíthatjuk, és eredményessé tehetjük hazánk felzárkózását a fejlett országokhoz. Mindehhez meg kell találni a tudásgazdaság export- és versenyképes húzóágazatait, ki kell dolgozni azok kiválasztási és támogatási rendszerét. A gazdaság teljesítőképességének növelésében további fontos tényező a versenyhelyzet és a pozitív értelmű versenyélénkítés rendszerének kialakítása.
+
+## A gazdaságélénkítő programokban – függetlenül attól, hogy központiak vagy ,,csak” ágazatiak – az ágazat(ok) vertikális teljesítőképességét serkentő feladatok mellett célirányos fejlesztésekkel javítani kell az ágazat horizontális szereplőinek a területi adottságokból fakadó hátrányos helyzetén is.
+
+## 2. Közigazgatás
+
+| Ez a Magyar Információs Társadalom Stratégia egyik legfontosabb főiránya, mivel a közigazgatás informatizáltságának mértéke és minősége alapvetően befolyásolja az információs társadalom fejlődési ütemét, ezáltal a társadalom teljesítőképességét. Ez a főirány az állami és önkormányzati adminisztráció tevékeny-ségének informatikai támogatásával kapcsolatos programokat foglalja magá- ban. Ennek részterületei: | A korszerű magyar e-közigazgatás megteremtése a MITS egyik kiemelten fontos eleme. |
+
+## – központi kormányzat (államigazgatás, e-kormányzat),
+
+## – nem kormányzati államhatalmi szervek (bíróságok, Országgyűlés),
+
+## – önkormányzatok.
+
+## A főirány részterületeire is kihat az elektronikus kormányzat, amelyre a MITS tárgykörét meghaladóan a közigazgatás korszerűsítés programjához kapcsolódóan – a kormányzati informatikáért felelős Elektronikus Kormányzati Központ státusának megfelelően – speciális részstratégia és programterv készült (eKormányzat 2005).
+
+## A fenti részterületek – amelyek természetesen a központi programok mellett az ágazati programok jelentős részét is tartalmazzák – technikai kiszolgálója az Infrastruktúra beavatkozási terület harmadik főirányában szereplő Közadat program, amely elsősorban az adatbázisok előállításával, kezelésével, strukturált rendszerbe szervezésével kapcsolatosan irányozza elő a több helyen is használható információk és informatikai alkalmazások létrehozását, használatuk elterjesztését.
+
+## Az egész Közigazgatás főirányt horizontálisan átható tevékenység a demokrácia szempontjait érvényesítő átláthatóság és interaktivitás biztosítása az egyes rendszerekben. A megvalósításhoz szükséges eszközök részben a Jogi-társadalmi környezet főirányban szereplő Demokrácia programban vannak biztosítva.
+
+## 3. Kultúra
+
+## A Kultúra főirány a kulturális örökség megőrzése és terjesztése kettős kötelezettségének figyelembevételével a hazai kulturális értékek strukturált összegyűjtését, rendszerezését, többnyelvű digitalizálását, online és off-line elérhetővé tételét szolgálja mind a hazai, mind a határon túli magyarság számára. E feladat eredménye az informatikai eszközökre épülő új könyvtári, múzeumi és levéltári katalógusrendszerek teljessé tétele és összehangolása. Az elérhetőség többszintű rendszerének kialakítása kiszélesíti mind a felhasználás – élmény, tanulás, kutatás, értékesítés – skáláját, mind a felhasználók körét. A kulturális értékek új elérési formája lehetőséget nyújt a határon túli magyarság és a nem magyar nyelvű világ számára a magyar kulturális értékek megismertetésére. A főirány új technológiákkal segíti az ágazat célkitűzéseit:
+
+## – esélyteremtés a kultúra elérése és befogadása érdekében,
+
+## – érték- és hagyományőrzés, a meglévő értékek eredeti formában történő elérése a multikulturalitás szellemében,
+
+## – új értékek létrehozása, új alkotások, új kifejezési módok támogatása a kultúra minden területén.
+
+## 4. Oktatás
+
+## Kiemelten kell foglalkozni az oktatás különböző szintjeihez (óvoda, iskola, felsőoktatás, felnőttképzés) kapcsolódóan az oktatási, képzési tevékenységnek az informatika eszközeivel történő
+
+| támogatásával; a digitális tananyagok készítésével és terjesztésével (beleértve a multimédiás oktatási és távoktatási tananyagokat); valamint az oktatási adminisztrációs rendszerek fejlesztésével. Annak érdekében, hogy ezeket az eszközöket valóban használják is munkájuk során, a pedagógusok képzésének szerves részévé kell tenni az információs írástudást. | A korszerű oktatás három legfontosabb eleme: • az oktatás támogatása, megújítása informatikai eszközökkel, tartalmakkal; • az információs korban való eligazodáshoz szükséges készségek oktatása; • az oktatási intézmények működésének korsze- rűsítése az IKT-eszközök használatával. |
+
+## Az élethosszig tartó tanulás és az esélyegyenlőség biztosítása szempontjából is kiemelt jelentőségű eszköz a távoktatás. Elterjedéséhez a virtuális térben működő intézmények létrejöttén, működésén kívül a megvalósításhoz szükséges technológiák elterjesztése és a felhasznált tartalom (speciális távoktatási tananyagok, módszerek) folyamatos fejlesztése is szükséges.
+
+## Az élethosszig tartó tanulás másik fontos eleme a felnőttképzés, amely az esélyegyenlőség biztosítás mellett a foglalkoztatás mértékének növelését (10 év alatt +10%) és a versenyképesség emelését is szolgálja.
+
+## Első lépésként a felsőoktatási programok között kell támogatni az információs kor aktív szereplői számára szükséges ismeretek oktatását (információs társadalom, tudásalapú gazdaság, e-gazdaság, e-közigazgatás, tudásmenedzsment stb.); indokolt esetekben akár az ilyen ismeretek oktatására specializálódó szakok, intézmények működtetését is. Minden karon és szakon – akár eltérő formában – lehetőleg minden hallgatónak tanítsák az információs társadalom elméletét és gyakorlatát. A megfelelő ismeretekkel rendelkező oktatókra támaszkodva az ilyen irányú ismeretek tanítását a közoktatásban is a lehető leghamarabb be kell vezetni. A főirányba tartozó másik feladatcsoport az oktatásügyi intézmények elektronikus szolgáltatásainak modernizálása. Ebben a feladatcsoportban kell gondoskodni a felsőoktatási intézmények működésének korszerűsítéséről, az egységes követelményrendszernek megfelelő gazdasági irányítási, tanulmányi, létesítmény- és kutatás-nyilvántartási, valamint az ezeken alapuló felsőoktatási intézményi vezetői információs rendszerek széles körű bevezetéséről is, mivel a felsőoktatás eredményeinek és kihívásainak monitorozása, a szakszerű, hatékony felsőszintű irányítás csak az ezeken az intézményi rendszereken alapuló központi vezetői információs rendszer segítségével biztosítható.
+
+## 5. Egészség
+
+## Az egészségügyi ágazat informatizálásának ütemét fel kell gyorsítani, az ezt szolgáló főiránynak le kell fednie az egészségüggyel kapcsolatos kommunikációs és informatikai fejlesztési feladatok minden területét az alább felsorolt részterületekre irányuló fejlesztések összehangolásával. A fejlesztéseket részben központi, részben ágazati programokkal kell megvalósítani:
+
+## – a gyógyítást támogató, az egészségügyben dolgozók munkáját segítő információforrások, tudásbázisok és szakértői rendszerek,
+
+## – az egészségügyi adatok tárolására és feldolgozására szolgáló informatikai rendszerek,
+
+## – az adatok és információk egészségügyi intézmények közötti online továbbítását biztosító rendszerek,
+
+## – a lakosság és az egészségügyi intézmények közötti online kapcsolattartást megvalósító rendszerek,
+
+## – a gyógyítást és az egészségügyi intézmények adminisztrációs feladatainak ellátását segítő informatikai támogató rendszerek,
+
+## – a társadalombiztosítás belső informatikai rendszerei,
+
+## – a lakosság és a gazdasági szféra, valamint a társadalombiztosítás intézmények közötti online kapcsolattartási, adatszolgáltatási rendszerek kialakításával és üzemeltetésével.
+
+## 6. Környezetvédelem
+
+## Ebben a főirányban kell biztosítani az ágazat főbb területein (környezet-, illetve természetvédelem, vízügy, meteorológia, hulladékgazdálkodás stb.) az információ összegyűjtését és a nyilvánosság elé tárását. Elő kell segíteni az EU előírásainak is megfelelő rendszerek létrejöttét és üzemelését. A korszerű informatika eszközeivel (is) el kell érni, hogy a környezetvédelmi információ ,,aktivizálódjon”, vagyis ténylegesen járuljon hozzá a környezetvédelmi helyzet jelentős javításához.
+
+## Az információs társadalom egyik legnagyobb környezetvédelmi kihívása az elektronikai hulladékok kezelése, ennek megoldására az eddiginél jóval nagyobb figyelmet kell fordítani.
+
+## I.6.2. Infrastruktúra
+
+## Az információs társadalom infrastruktúrájának megszokott, négyrétegű modelljét (1 – távközlési hálózatok, rendszerek és szolgáltatások; 2 – számítástechnikai hálózatok, rendszerek és szolgáltatások; 3 – adatbázisok és tartalomszolgáltatások; 4 – infokommunikációs alkalmazások) követve a MITS is több főirányt jelöl meg. A feladatok meghatározása során figyelembe kell venni, hogy az infrastruktúra egyaránt jelent eszközt és szolgáltatást, továbbá figyelmet érdemel az a folyamat is, amelynek eredményeként egyre magasabb szintű szolgáltatások válnak infrastrukturális jellegűvé.
+
+## Az infrastrukturális feladatokat 3 főirány fedi le.
+
+## 1. Szélessávú infrastruktúra
+
+| Ebbe a főirányba a négyrétegű modell első rétegébe tartozó feladatokat soroljuk, alapvetően az országos szélessávú infrastruktúra kiépítése érdeké- ben. E főirány keretében olyan programokat kell indítani és működtetni, amelyek eredményeként 4–6 éves időtávlatban olyan országos lefedésű nagy sebességű hálózat jön létre, amely minden település számára biztosítja a hosszabb távon várható helyi | Belátható időn belül mindenki számára biztosítani kell a szélessávú hozzáférés lehetőségét. Ez a cél a megfelelő infrastruktúra megléte mellett annak a magyar viszonyok között is megfizethető árát is magába foglalja. |
+
+## infokommunikációs igények kielégítését.
+
+## Ennek megvalósítása egyben az információs társadalom megfelelő ütemű fejlődése elképzelhetetlen hatékony távközlési versenypiac nélkül. Ennek kialakulását hátráltatja bármely monopolszolgáltató, különösen akkor, ha saját érdekei alapvetően eltérnek a társadalom és a piaci szereplők, valamint a politika érdekeitől. A távközlés következetes liberalizációja – a folyamatban levő liberalizációs újraszabályozás eredményességétől – alapvető gazdaság- és társadalomfejlesztési feltétel, nem pusztán távközlés-politikai cél. Az egészséges versenypiac gyors kialakulását szolgálja, ha – a nemzetközi tapasztalatoknak és gyakorlatnak megfelelően – egy ideig a gyenge pozíciójú új szolgáltatók megerősítése érdekében lép fel a kormányzat (pl. jelentős piaci erővel rendelkező szolgáltatókra vonatkozó szabályozással).
+
+## A szélessávú távközlési infrastruktúra országos kiépítése során a települések, régiók három kategóriába sorolhatóak:
+
+## – Az első kategóriába tartozók esetében üzleti megfontolások alapján gazdaságosan kiépíthető a szélessávú infrastruktúra.
+
+## – A második kategóriába tartozók esetében ,,lágy” – a felhasználók széles köre számára esélyt adó – közpolitikai eszközökkel olyan mértékben csökkenthetők az infrastruktúra létesítés, illetve a használat költségei, hogy az ügyfelek teljesíteni tudják a befektetők profit elvárásait.
+
+## – A harmadik kategóriát azok a térségek és települések jelentik, ahol érdemi állami szerepvállalás szükséges a korszerű szélessávú infrastruktúra létrehozásához. Esetükben a fejlett országokban használatos támogatási és infrastruktúra-hasznosítási modellek adaptálásával lehet és kell eredményt elérni. Megfelelő előkészítés és az önerő kedvezményes biztosítása esetén a fejlesztésekhez jelentős EU forrásokra is lehet számítani.
+
+## 2. Hozzáférés
+
+## A második főirányban az infokommunikációs eszközökhöz történő hozzáférést, a számítástechnikai rendszerek és szolgáltatások elérését elősegítő feladatok szerepelnek. Előtérbe kell helyezni azokat a feladatokat, amelyek az egyéni hozzáférés széles körű megvalósulását akadályozó tényezők lebontását célozzák. Ugyanakkor az információhoz való hozzájutás, az infokommunikációs eszközök használatának lehetőségét mindenki számára meg kell teremteni[^19]. Ennek érdekében a lehető legrövidebb időn belül, minden településen biztosítani kell a közösségi hozzáférés valamilyen formáját. (Lásd még: A stratégia hangolása fejezetet.)
+
+## 3. Infrastrukturális szolgáltatások
+
+## A harmadik főirányba az említett modell harmadik és negyedik szintjének elemei, tehát, az infrastrukturális jelleggel biztosítható eszközök és szolgáltatások kerülnek. A társadalom speciális elvárásokkal viseltetik a közszférával szemben. Ilyen például a kormányzati vagy közigazgatási forrású, közzétett információhoz való hozzáférés esélyegyenlősége. Közcélú, közhasznú adatok és szoftverek infrastruktúra-jelleggel történő költségtakarékos szolgáltatására lehetséges megoldás a szabad szoftverek[^20] alkalmazása, a köz-, a privát és a civil szféra együttműködése.
+
+## A nem szabad forráskódú szoftverek által előidézett termékcsapdából való szabadulás másodlagos hatásai az információs társadalom fejlődését előrelendíthetik.
+
+## I.6.3. Tudás, ismeret[^21]
+
+## Az új, elektronikus gazdaság legfőbb termelőereje az információ és a tudás. Mindenkinek biztosítani kell, hogy a számára fontos információk hozzáférhetővé váljanak. A ,,digitális írástudás” elterjesztésével egyfelől biztosítani kell, hogy a folyamatosan megújuló információs és kommunikációs eszközöket mindenki képes legyen az információ megszerzésére és az elektronikus szolgáltatások igénybevételére alkalmazni, másfelől pedig el kell érni, hogy a megszerzett információ felhasználható tudássá váljon.
+
+| Mindenki legyen képes az információ megszerzésére, A megszerzett információ váljon aktívan felhasznált tudássá. | A magyar gazdaság és társadalom fejlődésének lényeges feltétele, hogy a globális világban születő új tudások széles körben, magyar nyelven is elérhetővé váljanak. Ezzel párhuzamosan viszont társadalmi szinten érzékelhetően javítani kell a magyarok idegennyelv tudását, ami ma már elengedhetetlen a világhálón való eligazodáshoz, az ott elérhető információ hasznosításához. |
+
+## Speciális kérdés, hogy (akár szervezett formában is) érdemes a MITS megvalósításában részt vevő szakemberek megfelelő ismeretszerzését támogatni annak érdekében, hogy tudatosan, a szükséges elméleti és gyakorlati ismeretekre alapozva végezhessék munkájukat.
+
+## I.6.4. Jogi-társadalmi környezet
+
+## Azt, hogy az információs társadalom szolgáltatásait ténylegesen milyen mértékben használják, a pénzügyi és tudati tényezők (hozzáférés, írástudás, tartalom) mellett nagymértékben meghatározza az is, hogy a potenciális felhasználók mennyire bíznak meg a szolgáltatások jó minőségű és különböző jogaikat nem sértő működésében. Ezért az informatikai biztonság fontos összetevője a felhasználói bizalom megnyerésének és megtartásának. Alapvető fontosságú az informatikai rendszerek (eszközök és alkalmazások) minőségének és biztonságának garantálása. Ennek érdekében a szabályozási, szervezeti és technológiai feltételek megteremtése a feladat.
+
+## Nem kevésbé fontos összetevő a bizalom, az infokommunikációs eszközökhöz való ,,viszony” javítása szempontjából a felhasználók védelmének biztosítása, az előző feladathoz hasonlóan a feladat itt is a probléma szabályozási és szervezeti feltételeinek megoldása.
+
+## E főirányra tartozó egyik legnehezebb feladat az ,,informatikai szemlélet” társadalmasítása, amely az információt, a tudást valódi erőforrásnak, az informatikát hatékony termelőeszköznek tekinti.
+
+## Szabályozási vonatkozása a többi főirányba tartozó programnak is van. Ebben a főirányban az információs társadalommal kapcsolatos általános, alapvető kérdéseket kívánjuk kezelni. A társadalmi környezet, felhasználói attitűdök alakításában, a bizalom megszerzésében és megtartásában az érdekvédelmi, PR, és technikai megoldások mellett kiemelkedő szerepe van a jogi szabályozásnak. A főirány a szabályozás több vonatkozására is kiterjed.
+
+## Olyan lényeges politikai célok, mint az úgynevezett második és harmadik generációs állampolgári alapjogok (például az információs alapjogok) törvényi kinyilvánítása távlati célkitűzést jelent.
+
+## Azáltal, hogy Magyarország belép az Európai Unióba, megjelenik a ,,nemzetek feletti” döntési szint. A közösségi jogalkotási folyamatokban előtérbe került:
+
+## – a gazdasági jog európai intézményi rendszerének ,,elektronizálása” (pl. elektronikus cégeljárás, elektronikus közbeszerzések);
+
+## – az elektronikus gazdaságba vetett bizalom kiépítésének támogatása (informatikai hálózatok biztonsága, egyes, különösen veszélyes informatikai bűncselekmények kriminalizálása);
+
+## – az illegális és ártalmas tartalom elleni küzdelem (szerzői és szomszédos jogok védelme, a rasszizmus és az idegengyűlölet elleni fellépés);
+
+## – az európai közigazgatási és igazságügyi szervek közötti egységes technológián alapuló, hatékony adatcsere biztosítása.
+
+## A 2004 májusától az Európai Unió tagállamává váló Magyarországnak gondoskodnia kell arról, hogy – a közösségi acquis-val összhangban – a magyar jogrendszer minden szintjén felszámolásra kerüljenek a tudásalapú gazdaság kialakítását nehezítő vagy gátló tényezők. A magyar jogi feltételeket vonzóvá, átláthatóvá, kiszámíthatóvá, biztonságossá és megismerhetővé kell tenni a megvalósulóban lévő európai tudásalapú gazdaság többi szereplője számára is.
+
+## A szabályozási feladatok körében meg kell határozni, hogy mely feladattípusok ellátása nem igényel közvetlen állami beavatkozást: e körben biztosítani kell az ipari önszabályozás elsőbbségét.
+
+## A tudásalapú gazdasággal és az elektronikus kereskedelemmel kapcsolatos szabályozás csak a szakmai és felhasználói érdekképviseleti szervezetekkel együttműködve lehet eredményes. A normatív szabályozás és az önszabályozás eszközrendszere egymásra épülve, egymást kiegészítve lehet csak hatékony. Ennek körében bátorítani és segíteni kell az önszabályozó mechanizmusok erősödését, szakmai kódexek, (fejlesztői, kereskedői, felhasználói stb.) etikák elfogadását, elterjedését. A normatív szabályozás során építeni kell a nyílt (vagy nyilvános) jogszabály-alkotási folyamatra (PPP).
+
+## Az információs társadalom életviszonyait érintő, tervezett jogszabályi változás esetében a jogszabályi hiearchia minden szintjén felléphetnek módosítási igények: ezeket már az előkészítés szakaszában fel kell mérni. Ehhez az érintett tárcák közötti folyamatos együttműködés szükséges. A jogalkotás stratégiai fázisában nem mellőzhetők a tudomány eredményeire támaszkodó elemzések. A – minden jogszabályra vonatkozó – egyeztetési kötelezettség alapján véleménynyilvánításra jogosult szerveket indokolt már a koncepciók elkészítésekor bevonni a közös munkába. Így jogaikat a későbbiekben eredményesebben gyakorolhatják, a születendő jogalkotási koncepció pedig a lehető legnagyobb társadalmi konszenzus alapján alakulhat ki.
+
+## Mindezek alapján meg kell határozni a hiányzó speciális jogszabályok körét, gondoskodni kell a hatályos joganyag nagyobb fokú összehangoltságának megteremtéséről, a párhuzamos vagy ellentmondó szabályozások megszüntetéséről. El kell készíteni a szabályozási feladatok közép- és rövid távú ütemtervét (pl. a média- és a reklámjog internet-központú felülvizsgálata, az illegális és ártalmas tartalom elleni hatékony fellépés lehetőségei, a bírósági és közigazgatási elektronikus ügyintézés technológiai egységesítésével kapcsolatos jogi feltételrendszer megteremtése, az informatikai biztonság és adatvédelem követelményének a közszférában való érvényesülése, a hagyományos és távmunka jogi egyenértékűsítése stb.).
+
+## A horizontális területek a következők:
+
+## A horizontális területek minden beavatkozási területhez és főirányhoz hozzárendelhetők, hozzárendelendők.
+
+## I.6.5. Kutatás és fejlesztés
+
+## A kutatás és fejlesztés területén az információs társadalom stratégia egyrészt a legfontosabb kutatási-fejlesztési területeket és célokat jelöli meg, másrészt azokat a speciális kutatásfejlesztési infrastruktúrákat írja le, amelyek a hazai sajátosságok figyelembevételével az információs társadalom jövőképének a megvalósítását szolgálják.
+
+## Eszerint a kutatási és fejlesztési feladatok három csoportját célszerű megkülönböztetni:
+
+## – Az infokommunikációs tárgyú műszaki kutatásfejlesztési tevékenység (beleértve az ezt megalapozó természettudományi kutatásfejlesztést is) célja olyan új termékek, eljárások vagy szolgáltatások előkészítése, kidolgozása, amelyekben az innováció, a szakmai kiválóság közvetlenül az infokommunikáció területén jelentkezik.
+
+## – Az infokommunikációval összefüggő kutatásfejlesztési tevékenység (beleértve az ezt megalapozó természettudományi kutatásfejlesztést is) célja olyan új termékek, eljárások vagy szolgáltatások előkészítése, kidolgozása, amelyekben az informatikai és/vagy távközlési eszközöket innovatív módon alkalmazzák más szakterületen; az újdonság, a szakmai kiválóság elsősorban vagy kizárólag más szakmai, illetve tudományos területen jelentkezik.
+
+## – Az információs társadalomra vonatkozó kutatásfejlesztési tevékenység (beleértve az ezt megalapozó társadalomtudományi kutatásfejlesztést is) az infokommunikációs technológiák elterjedtségére, társadalmi elfogadottságára, beágyazottságára, az információs társadalom fejlődését gátló tényezők feltárására stb. irányul.
+
+## A szó szorosan vett értelmében nem kutatásfejlesztési feladat, de elengedhetetlen feltétele a kutatásfejlesztésnek a megfelelő infrastruktúra megléte, működtetése és folyamatos fejlesztése. Az utóbbi gyakran kutatásfejlesztési feladatok megoldásával jár együtt. Példaként említhetjük a hazai NIIF és az európai GÉANT hálózatot, vagy a ma még inkább kutatásfejlesztési fázisban lévő ún. GRID-et, amelynek a fejlesztése európai uniós támogatással folyik az EU 6. keretprogramjában részt vevő országokban, valamint a világ több más régiójában.
+
+## Az információs társadalom (IT) K+F programja, amely a magyar információs társadalom fejlődéséhez, a tudásalapú gazdaság hosszú távú versenyképességéhez hivatott hozzájárulni, az egyes ágazatok informatikai K+F tevékenységének céljait szolgáló legfontosabb feladatokat tartalmazza.
+
+## A magyar információs társadalom K+F programja összhangban van az EU 6. keretprogramjának az információs társadalomra vonatkozó K+F programjával. A hazai sajátosságok alapvetően a magyar társadalom és gazdaság igényeiből fakadnak. Fontos követelmény a hazai K+F bázis központilag koordinált tematikus felkészítése a nemzetközi K+F piacon való sikeres szereplésre és Magyarország vonzóvá tétele a külföldi befektetők számára. Az információs társadalom fejlődését akkor szolgálják az elért K+F eredmények, ha olyan megoldások kidolgozásához vezetnek, amelyek új és hatékony lehetőségeket teremtenek a termelés, a kereskedelem és a szolgáltatások számára, és belátható időn belül eljutnak az alkalmazásig. Ehhez három fő feltételnek kell teljesülnie:
+
+## – a társadalmi és gazdasági környezetnek képesnek kell lennie az alkalmazások befogadására,
+
+## – a kutatási eredményeknek el kell jutniuk a kidolgozottság olyan fázisba, hogy piacképes termék, illetve technológia formájában jelenjenek meg,
+
+## – az új terméket, illetve technológiát be kell vezetni a piacra.
+
+## A fenti feltételek a K+F és az innovációs tevékenység fejlesztésével, valamint a kutatásfejlesztési szektor és a gazdaság közötti kapcsolat erősítésével teljesíthetők. Az alap- és alkalmazott kutatások hasznosulását segíti, ha meghatározásukban és megvalósításukban a K+F műhelyek és a gazdálkodó szervezetek együttműködnek. A kis- és középvállalkozások innovációs képessége közvetetten (például kooperációs kutatóközpontok létrehozásával) és közvetlenül (az innovációs tevékenység támogatásával) is fejlesztendő. A vállalati szektor K+F tevékenységét közvetlenül segíti a meglévő kutatóhelyek fejlesztése, illetve új kutatóhelyek létesítése, az ehhez kapcsolódó beruházások és infrastruktúra-fejlesztések támogatása. A vállalatok innovációs képességének fejlesztése során elsősorban a fővároson kívüli K+F központok innovációs kapacitásait és együttműködési struktúráit kell erősíteni.
+
+## Nagy súlyt kell fektetni arra, hogy magyar kutatók, kutatói csoportok minél nagyobb számban vegyenek részt az EU kutatási, műszaki fejlesztési és demonstrációs keretprogramjaiban.
+
+## A kutatás és a fejlesztés feltételrendszerének javítása során továbbra is biztosítani kell a kutatók széles sávú hálózati kapcsolatát. Ezt az európai színvonalon álló magyar kutatói hálózat jelenleg lehetővé teszi, gondoskodni kell azonban arról, hogy ez a színvonal meg is maradjon. A K+F feltételrendszerének javítása megköveteli a tudományszervezés hatékonyabbá tételét, s ennek fontos eleme a futó projektek nyomon követése, eredményességük mérése és ellenőrzése.
+
+## Általában a tudásiparban (az egyetemeken, kutatóintézetekben stb.) igen fontos kérdés a létrehozott új tudások megfelelő és gyors hasznosításának, a találmányok, fejlesztések piaci bevezetésének s az ehhez szükséges K+F intézményeknek (technológiai park, tudománypark, innovációs e-piactér stb.) a folyamatos támogatása – az információs társadalom fejlődéséhez kötődő K+F tevékenységek esetében is komoly figyelmet kell fordítani a hasznosulás ilyen irányú elősegítésére.
+
+## I.6.6. Esélyegyenlőség
+
+## A MITS esélyegyenlőségi stratégiája a ,,horizontális elv” érvényesítése mellett a pozitív diszkrimináció elvére építve kíván továbblépni a korábbi stratégiák gyakorlatán.
+
+## Az Európai Unióhoz történő csatlakozásunkkal teljes jogú tagjává válunk annak a közösségnek, amely egyik legfőbb értéknek a társadalmi-gazdasági kohéziót tekinti. Az eEurope 2005 nem csak ,,az információs társadalmat mindenkinek” gondolat jegyében fogalmazódott meg. A dokumentum alapján minden tagországnak ki kell dolgoznia saját stratégiáját arra vonatkozóan, hogyan vonhatóak be a hátrányos helyzetű csoportok az információs társadalomba. A MITS ennek megfelelően kiemelt prioritásnak tekinti az esélyegyenlőség biztosítását. A MITS azokra a területekre koncentrál, amelyeken az infokommunikációs eszközökhöz való hozzáférés és használat esélyeinek biztosításával szűkíthetők az élethelyzetből, területi vagy nyelvi okokból fakadó társadalmi törésvonalak. Az Esélyegyenlőség stratégiai főirány három célterületet különböztet meg:
+
+## – társadalmi esélyegyenlőség,
+
+## – területi esélyegyenlőség,
+
+## – interregionális esélyegyenlőség.
+
+## A stratégia egyik fő céljaként a társadalmi esélyegyenlőség biztosítását tűzte ki. Az IKT-eszközök lehetőséget nyújtanak az élet minden területén egyszerűbbé tenni a szolgáltatásokat és elérni bizonyos tartalmakat mindenki számára. Az infokommunikációs eszközök használata azonban ráépül a már meglévő társadalmi egyenlőtlenségekre, tovább mélyítve a megosztottságot. A digitális egyenlőtlenség (amit gyakran ,,digitális szakadék”-nak neveznek) nem új jelenség abban az értelemben, hogy a kiváltó okok az IKT-eszközök elterjedése előtt is fennálltak. A digitális megosztottság főbb törésvonalai a képzett/képzettlen munkaerő, a magas/alacsony jövedelem, a fiatal/idős, a nagyváros/falu, az ép/fogyatékos, valamint a férfi/nő és az etnikai dimenziók mentén rajzolódnak ki. A társadalmi esélyegyenlőség célterület feladata az, hogy az IKT-eszközök és online szolgáltatások hozzáférésének és használatának elősegítése révén csökkenjen a hagyományos társadalmi kizárás, hogy segítségükkel az eddigieknél sokkal szélesebb alapokon nyugvó társadalmi részvétel valósuljon meg.
+
+## A területi esélyegyenlőség célterületén az országhatáron belül, az egyes térségek (kistérségek, megyék, régiók), települések közötti egyenlőtlenségeket kívánjuk csökkenteni. Vonatkozik ez az infokommunikációs infrastruktúra mennyiségének és minőségének rendelkezésre állására ugyanúgy, mint az infrastruktúra további rétegeiben és a kapcsolódó szolgáltatások vonatkozásában kimutatható különbségekre.
+
+## Az interregionális esélyegyenlőség biztosítása egyrészt a határon túl élő magyarság számára, másrészt a Magyarországon élő nemzeti és etnikai kisebbségek számára az anyaország állampolgáraiéhoz közelítő feltételek megteremtését jelenti. Célunk, hogy a kulturális kapcsolatokban és a gazdasági együttműködésben magas színvonalú lehetőségek nyíljanak meg. Az uniós csatlakozás után – a határok virtualizálódásával – e probléma egyes országok viszonylatában regionális kérdéssé ,,szelídül”.
+
+## A három különböző esélyegyenlőség elérése az egyik feltétel ahhoz, hogy Magyarországon létrejöjjön a tudásalapú társadalom. Az esélyegyenlőség azonban nem teremtődik meg pusztán azáltal, ha a térségekben és a településeken a hozzáférés és hozzájutás feltételei javulnak. Ezért a stratégia kiemelt prioritásnak tartja azokat a feladatokat, amelyek:
+
+## – a tudás- és közösségfejlesztéssel, a lokális gazdaságfejlesztéssel, továbbá az e-demokrácia és az e-közigazgatás kialakításával az intelligens civil társadalmak létrejöttét segítik elő,
+
+## – az intelligens település és térség (különösen az intelligens régió) programok támogatásával arra irányulnak, hogy Magyarországon kialakuljon az információs kori tér- és társadalomszerkezet.
+
+## I.7. A stratégia hangolása és karbantartása
+
+## I.7.1. A prioritások kezelése
+
+| A prioritások megállapításánál a feladatnak a stratégiai cél eléréséhez való hozzájárulásából, a megvalósíthatóságból, a várt hatások és a szükséges befektetés mértékéből kell kiindulni. | A stratégiai tervezés adott fázisában – részben a hatékonyság érdekében, részben a szűkös erőforrások elosztásának igénye miatt – különösen nagy jelentősé- gűvé válik a különböző feladatok prioritásának meg- állapítása. Egy adott feladat prioritása sok összetevőtől |
+
+## függ. A MITS szerkezetéből adódóan minden feladat valamelyik pillér ,,építését” szolgálja, valamelyik beavatkozási területen kíván hatni, valamelyik főirány céljait szolgálja. Mindezek mellett az is meghatározható, hogy megvalósulása esetén a feladat miként szolgálja a stratégia legfőbb célját, az életminőség javítását. Az összetevők részletes vizsgálata alapján az is lehetséges, hogy az alapvető döntési pontokban feltett kérdésre adott válaszok is változhatnak. A döntésben bekövetkező változást okozhatják ,,külső” tényezők: a technikai fejlődés kínálta, illetve az anyagi lehetőségek módosulása. Okozhatják ,,belső” tényezők: azzal, hogy a stratégia egyes programjai sikeresen megvalósulnak, természetes módon változnak a stratégiával szemben támasztott követelmények, és ez átértékelheti az egyes főirányok, beavatkozási területek súlyát.
+
+## A prioritások megállapítása túlnyomórészt szakmai kérdés, de mindenképp tekintettel kell lennie a politikára. A fordított megközelítés a tényszerű szakmai szempontoktól eltérően torzítja a prioritások sorrendjét és fajsúlyát, ezért a stratégia hangolása során a politikának folyamatosan a szakemberek véleményére kell támaszkodnia. A politikai prioritások elsősorban a finanszírozási források kérdéseiben változhatnak. Minderre tekintettel fontos a prioritások dinamikus kezelése.
+
+## A források leghatékonyabb felhasználását célzó stratégiának mindenekelőtt pontosan fel kell mérnie a rendelkezésre álló forrásokat, legyen szó emberi, szellemi, anyagi vagy technikai erőforrásokról. Ezért elengedhetetlen, hogy a Magyar Információs Társadalom Stratégia fejlődésének következő állomásait kellően alapos gazdasági, technológiai és statisztikai helyzetelemzések alapozzák meg – ne szülessen döntés programokról és prioritásokról ilyen elemzések nélkül.
+
+## A gazdasági elemzésnek egyrészt a nemzetgazdaság teljesítőképességének mindenkori állapotát kell vizsgálnia az információs társadalom fejlesztése szempontjából, ideértve nemcsak a finanszírozási lehetőségeket és megoldásokat, hanem az emberi erőforrás felkészültségét és teljesítőképességét is. Másrészt vizsgálni kell az infokommunikációs technológiák (IKT) közvetlen és közvetett hatásait a nemzetgazdaság egészére, a rendelkezésre álló adatok alapján meg kell becsülni a befektetett közpénzek, állami támogatások hasznosulásának mértékét.
+
+## A technológiai elemzésnek ki kell mutatnia a gyorsan fejlődő technológia által kínált mindenkori lehetőségeket, ideértve nemcsak az eszközök és szolgáltatások látható trendjeit és ezek várható hatásait, hanem a korszerű vállalat- és folyamatszervezési eljárások és szolgáltatások (back office) adaptációs lehetőségeit is. Példaként említjük, hogy költségelemzésekkel lehet megalapozni a követendő vagy támogatásra érdemes távközlés-politikát, összehasonlító elemzéssel lehet felmérni az átalánydíjas vagy közműrendszerű szolgáltatások előnyeit-hátrányait, el kell végezni a közmű-definíció szakmai egységesítését.[^22]
+
+## A stratégiát alátámasztó gazdasági és technológiai elemzések alapja a ma még hiányzó iparági szintű monitoring rendszer. Ez a monitoring rendszer – bár összefügg vele – nem azonos a stratégia sikermutatóival, a programok monitoring rendszerével. Az iparági szintű monitoring rendszer évről évre koherens, összehasonlító elemzéssel mutatja ki az IKT-szektor fejlődését, a szektor szerepét a nemzetgazdaságban. A méréseket, elemzéseket az EU statisztikai rendszereivel (Eurostat, EITO) kompatíbilis módon kell végezni.
+
+## E három, a mindenkori aktuális helyzetet tükröző alaprendszernek szervesen be kell épülnie a MITS aktualizálásának folyamatába, és a prioritások meghatározásáról vagy változásáról szóló döntések mindenkori alapjául kell szolgálnia.
+
+## A MITS végrehajtása során gondoskodni kell a stratégia folyamatos karbantartásáról a döntési pontokban különböző forgatókönyv-változatok kidolgozásával és a feladattervnek a gördülő tervezés módszerével történő aktualizálásával. Ennek során a feladatok (és a programok) prioritása időről időre felülvizsgálandó.
+
+## Az aktualizálás során figyelemmel kell kísérni azokat a döntési pontokat, ahol – a különböző külső és belső körülmények változásának következtében – lehetséges alternatív változatok, forgatókönyvek létrehozása.
+
+## A prioritások vizsgálatánál meg kell különböztetni a stratégiai, illetve taktikai szintű kérdéseket és prioritási szinteket. A stratégiai szintű prioritások kezelésével a következő fejezet foglalkozik. A végrehajtandó feladatok (pl. központi kiemelt programok) sorrendiségét, forrásigényét stb. kezelő prioritási szintek dinamikus meghatározása ugyancsak a gördülő tervezés feladata.
+
+## I.7.2. Az alapvető döntési pontok
+
+## A pillérek prioritása
+
+## A két pillér különböző módon eredményezi az életminőség javulását, és különböző feltételek szükségesek a sikeres megvalósításhoz is. A folyamatok korszerűsítése, az elektronikus gazdaság fejlesztése alapvető szerkezeti átalakítást jelent. Ennek megfelelően megvalósítása nehezebb, lassabb és költségesebb is. Az eredmény viszont – a gazdaság versenyképességének növekedése, az életszínvonal általános emelkedése által – jelentősebb, szélesebb kört érintő, hosszabb távra kiható. A szolgáltatások modernizálása, elektronikus szolgáltatások megvalósítása – a belső folyamatok korszerűsítése nélkül – nem igényel és nem okoz mélyreható változásokat. Ezért megvalósítása egyszerűbb, gyorsabb és kevésbé tőkeigényes. Az eredményes megvalósítás viszont rövid távon is sikerrel bíztat életünk kényelmesebbé, eligazodásunkat az életben könnyebbé téve.
+
+## A döntéshez, a megfelelő forgatókönyv kiválasztásához szükséges a két pillér kapcsolatának ismerete. A folyamatok informatizálása elemi a szervezetek belső működésének korszerűsítését jelenti. Mivel a másik pillér ugyanezen szervezetek szolgáltatásainak külső megjelenési formája, a kapcsolat a belső működés és a megjelenő szolgáltatás között keresendő. Az információs társadalom szolgáltatásainak négy megjelenési formáját különböztetik meg. A meghatározásokból is könnyen megállapítható, hogy az első két szinten (online információ elérés, egyirányú interakció) ez a kapcsolat nagyon gyenge. A tranzakciós szolgáltatások (harmadik szint) esetén ez a kapcsolat már erősebb, de – mivel ezek a tranzakciók többnyire egyetlen folyamathoz kapcsolódnak – nem igénylik az integrált belső működést. Ez csak a negyedik szintű szolgáltatások (integrált tranzakció, elektronikus ügyintézés) esetén válik elsőrendű fontosságúvá.
+
+## Az optimista forgatókönyv szerinti ,,ideális” megoldás az új, elektronikus szolgáltatásoknak a legmagasabb, 4. szinten történő megvalósulását tartalmazza. Ebben mindkét pillér jelentős erőforrásokhoz jut, hiszen a létrejövő új
+
+| szolgáltatásokat csak az informatizált folyamatokra lehet ,,építe- ni”. A pesszimista forgatókönyv szerinti ,,minimális” megoldás- ban megelégszünk a 2., esetleg a 3. szintű szolgáltatásokkal, ebben az esetben azonban a strukturális átalakulás nem követke- zik be. A kényelmesebbé váló szolgáltatások által az életminőség | A belső folyamatok korszerűsítése nélkül nem valósítható meg a szolgáltatások megfelelő szintre és színvonalra emelése. |
+
+## javulhat, de a ,,regionális tudásközpont” szerep bizonyosan nem valósul meg, sőt hazánk versenyképessége a környező országokhoz képest mindaddig romlik, amíg az optimista forgatókönyv be nem indulhat. Ezért kijelenthető, hogy az állami fejlesztések (e-közigazgatás, azon belül is különösen az e-kormányzati szolgáltatások) tervezése során az optimális forgatókönyv – a kiérlelt back office rendszerekre épülő front office szolgáltatások lehetőségeink szerinti kiegyensúlyozott együttes megvalósítása – kap prioritást (lásd e-kormányzati stratégia).
+
+## Az elérési formák prioritása
+
+## Tekintettel az információs társadalmi szolgáltatások elérésének területén az országban tapasztalható jelentős lemaradásra (számítógépek száma, internet penetráció) és a gazdaság teljesítő képességére, illetve ezzel szemben a korszerű eszközök által kínált hálózati lehetőségekre és az ezekből fakadó erőteljes igényekre, a stratégia jelenleg legneuralgikusabb döntési pontja a korszerű szolgáltatások elérésének módja. Az információs és kommunikációs eszközökhöz való hozzájutás, hozzáférés igényét végső soron egyéni, illetve közösségi formában lehet kielégíteni. A kétféle megoldás alapvetően eltérő stratégiát igényel.
+
+## Az informatika – beleértve a távközlés eszközeit is – alapvetően személyi jellemzőket hordoz: az eszközök és a szolgáltatások elsősorban a személyi felhasználást támogatják. Ennek alapján az egyéni elérést kell előtérbe helyezni.
+
+## Az elérés egyéni formában történő általános megoldása csak akkor valósulhat meg, ha az emberek életszínvonala jelentős mértékben nő, ezzel fizetőképességük és így a viszonylag drága eszközökhöz történő hozzájutásuk biztosítottá válik. A másik lehetőség a megoldásra az, ha az állam jelentős erőfeszítéseket tesz az eszközökhöz történő hozzájutás támogatására. Az egyéni elérést elsősorban adókedvezményekkel és egyéb speciális programokkal (Sulinet-Express, munkavállalói program stb.) kívánjuk elősegíteni. Ez a megoldás viszont a költségvetés jelentős ,,fizetőképességét” feltételezi.
+
+## A vizsgálatok azt mutatják, hogy ma már az internet-penetráció növekedési ütemét nem elsősorban az eszközök vagy szolgáltatások ára gátolja (lásd mobiltelefónia). Jelentős tényező az elutasító attitűd, amely részben az elmúlt évek vitáinak következménye, részben még mindig a számítógéppel szembeni ellenszenv és az általános felkészületlenség mutatója. A prioritások meghatározásánál ezért döntő szempont, hogy az elutasítókat elsősorban jól működő, valóban hasznos szolgáltatásokkal lehet meggyőzni. Ilyen szempontból is fontos például az e-közigazgatás fejlesztése.
+
+## A MITS hangsúlyosan kezeli az infokommunikációs eszközökhöz történő hozzáférés biztosítását közösségi formákban (pl. Közháló, e-Magyarország pontok, InfoPont). Ez a megoldás egyrészt mindenki számára lehetőséget jelent az elektronikus szolgáltatások igénybevételére, másrészt lényegesen kisebb anyagi erőforrásokat igényel, ugyanakkor alkalmas az internet iránti érdeklődés felkeltésére, a piac közvetett bővítésére.
+
+## A ,,közösségi formában történő elérés” nem feltétlenül közpénzből megvalósuló megoldást jelent. ,,Közösségi”, azaz több személy által igénybe vehető eszközök, lehetnek közösségi (állami, önkormányzati) fenntartásúak, de lehetnek piaci alapon működő üzleti vállalkozások kezelésében, vagy működhetnek akár civil, nonprofit formában is.
+
+## Az egyéni és közösségi elérési formákat nem lehet és nem szabad egymással szembe állítani; mindkettő kiegyensúlyozott fejlődése a kívánatos cél. A gördülő tervezés során a szűkös erőforrások adott időben történő felhasználása mindkét irányban csakis elemzésekkel alátámasztott szakmai megfontolások alapján történhet.
+
+## A végrehajtás szintje
+
+## A megvalósítás eszközei című fejezetnek A szubszidiaritás elve című részében kifejtett kérdésben – amely a tervezés és végrehajtás regionális szintre helyezésének lehetőségét tárgyalja – újabb döntési pont jelentkezik.
+
+## A végrehajtás szintjének kérdésére csak általános érvénnyel fogadható el a szubszidiaritás elve (e szerint a döntések és intézkedések felelősségét a hierarchiában a lehető legalacsonyabb szinten levő, de még kompetens helyre kell delegálni). Az államigazgatáson kívüli hatással járó stratégiai döntések esetében (lásd például piacszabályozás, ahol a döntés felelőssége az államigazgatáson belül marad, következménye viszont azon kívül hat) elengedhetetlen a tényleges szakmai konszenzus kialakítása.
+
+## A tervezésénél mindenképp jelentős szempont, hogy az EU – a strukturális alapokon keresztül – kiemelten támogatja a regionális kohéziót, a hátrányos helyzetű régiók felzárkóztatását támogató helyi szintű programokat.
+
+## I.7.3. A technológiai fejlődés hatása
+
+## A jelenlegi trendek fejezetben vázolt tényezők alakulása, illetve az azok hatásával kapcsolatos hazai előrejelzések ugyancsak felvetnek olyan kérdéseket, amelyeknek a megválaszolása stratégiai jelentőségű, ezért a gördülő tervezés során kezelésük szükséges, és ez a prioritások átértékelését eredményezheti. A programtervek értékelése, aktualizálása során választ kell adni a következő kérdésekre:
+
+## – Milyen végfelhasználói eszközökön fog történni az információs társadalmi szolgáltatások igénybevétele (milyen intézkedésekkel, illetve üzleti modellekkel lehet elősegíteni ezek kellő mértékű elterjedését)?
+
+## – Milyen hálózati elérési technológiák széles körű használatával kell számolni (milyen intézkedésekkel, illetve üzleti modellekkel lehet elősegíteni ezek kellő mértékű, tehát a versenyképességet szolgáló elterjedését)?
+
+## – Az adatátviteli, illetve -tárolási költségek csökkenése, az eszközök gyors ütemű fejlődése, a különböző céleszközök és a hozzájuk kapcsolódó szolgáltatások megjelenése, a meglévők gyors erkölcsi avulása milyen módon hat a felhasználói szokásokra (otthoni kontra közösségi használat)?
+
+## – Az új eszközökre épülő vállalat- és gazdaságszervezési eljárások milyen mértékben, hogyan változtatják meg az üzleti élet folyamatait, illetőleg a részt vevőkkel szemben támasztott követelményeket?
+
+## – A feladatok jelentős részének hálózaton keresztüli megoldása milyen hatással lehet az infokommunikációs ipar üzleti modelljeire és a velük kapcsolatos állami (támogatási) politikára?
+
+## Az előző és hasonló kérdések megválaszolása érdekében a stratégia végrehajtásával és karbantartásával párhuzamosan rendszeres kutatómunkát kell végezni, melynek során figyelemmel kell kísérni a különböző tanácsadó cégek (pl. Gartner, IDC) anyagait, valamint a nemzetközi technológiai előrejelzési projekteket (pl. FISTERA), illetve célszerű ilyeneket indítani, folytatni (pl. a 90-es évek végén sikeresen végrehajtott hazai Technológia Előrejelzési Projektet, a TEP-et).
+
+## A jelenlegi trendek című fejezetben kifejtett összetevőkre, valamint a fentiekben vázolt döntési pontokra vonatkozó feltételezésekből állnak össze a jövőkép megvalósulásának lehetséges forgatókönyvei. Ezeket az adott kombinációtól függően nevezhetjük optimistának, pesszimistának vagy éppen optimálisnak: az adott körülmények között az elérhető legjobb változatnak.
+
+## I.8. A megvalósítás eszközei
+
+## A MITS össztársadalmi stratégia, amelyet a Kormány készítetett el, elsősorban a Kormány nézőpontjából, de társadalmi felelősséggel szemlélve a problémákat. A feladatok megoldása alapvetően a piac normális működésétől várható. Nagymértékben kell számítani a magánszféra öntevékenységére is. Több olyan terület is van, ahol tisztán (kizárólag) üzleti alapon nem fognak megoldódni a problémák (kicsi méretű, alacsony fizetőképességű piac, mikrogazdasági szinten nem kezelhető társadalmi problémák), ezért ott, ahol az szükséges és indokolt – és a piac működését nem zavarja – az állami szerepvállalás is feltétlenül szükséges.
+
+## A Kormány, illetve az állam- és közigazgatás feladata nem az információs társadalom kialakítása, hanem az információs társadalom kialakulásának segítése, támogatása, valamint a folyamat során jelentkező káros társadalmi jelenségek elkerülése, vagy legalábbis a káros hatások mérséklése (vö. esélyegyenlőség, a foglalkoztatási struktúra átalakulása stb.). Ennek megfelelően az állami szerepvállalás területei a következők:
+
+## – Stratégiaalkotás; operatív program készítése, orientáció, koordináció
+
+## – Szabályozás; megfelelő környezet kialakítása
+
+## – Az állam- és közigazgatás fejlesztése, az e-közigazgatás bevezetése; példamutatás
+
+## – Finanszírozás, támogatás
+
+## Ez a sorrend az állam szempontjából az információs társadalom kialakulása támogatásának logikáját is tükrözi – ilyen értelemben prioritási sorrendet is jelent.
+
+## I.8.1. Stratégia- és programalkotás; orientáció, koordináció
+
+## Az információs társadalom gyors kialakulása össztársadalmi érdek, ennek megfelelően az erre vonatkozó hatékony stratégia létrehozása is össztársadalmi feladat. Ezen belül az állam szerepe a társadalmi-szakmai erők összefogása, a stratégia kialakításának koordinálása, mederbe terelése. Ennek során a Kormány értelemszerűen érvényesít bizonyos politikai orientációt is – figyelembe véve azonban a stratégia hosszú távú, választási ciklusokon átívelő jellegét, az orientáció nem kötődik napi politikai megfontolásokhoz; ,,policy” készül, nem politika.
+
+| Az információs társadalom fejlesztésének stratégiája a Nemzeti Fejlesztési Terv alapja kell, hogy legyen. | Az Európai Unió gyakorlati tevékenységének egyik legfontosabb alapelve a ,,programozás”, vagyis a stratégiai alapokról induló konkrét tervezés – ennek megvalósulásai a tagállamok nemzeti/regionális fejlesztési tervei. A MITS hatóköre kiterjed az EU következő (2007-tel kezdődő) pénzügyi tervezési időszakára, ennek megfelelően a következő magyar |
+
+## Nemzeti Fejlesztési Terv kialakításakor – a jelenleg is biztosított összhangon túllépve – alapvetően kell támaszkodni a MITS által kitűzött célokra, prioritásokra, javasolt programokra.
+
+## A stratégia megvalósulását támogató megfelelő társadalmi-gazdasági környezet egyik igen lényeges eleme az állami, a privát (üzleti) és a civil szektor megfelelő együttműködése. Kiemelt jelentőséget tulajdonítunk a szektorok közötti együttműködés hatékony formáinak (PPP), valamint az ágazatok közötti együttműködésnek, ami a feladatok összehangolásában, ésszerű megosztásában ezzel a források jobb felhasználásában nyilvánul meg.
+
+## I.8.2. Jogi szabályozás és önszabályozás
+
+## Tekintettel arra, hogy a stratégia megvalósítása nem kizárólag állami feladat, a szabályozás eszköze sem csak az állami, jogi szabályozás. A stratégia megvalósításában fontos követelmény, hogy az ipari önszabályozás és az állami szabályozás hatásköre egyértelműen különváljon. A tudásalapú gazdaság megvalósítása, a működéséhez nélkülözhetetlen, áttekinthető és megbízható szabályozási környezet kialakítása társadalmi feladat, melynek megoldása során nemzeti konszenzusra, a szabályozó erők és a szabályozással érintettek együttműködésére van szükség.
+
+## A szabályozás területe jelentősen túlmutat az információs társadalom kialakulásához közvetlenül kötődő kérdések (pl. hírközlés, elektronikus aláírás) rendezésén. Rendkívül jelentős a megfelelő gazdasági környezet kialakulásának támogatása szabályozási eszközökkel (pl. technológia-intenzív beruházások, külföldi befektetések kérdése). Az oktatás és a munkaerőpiac szabályozásánál figyelembe kell venni az információs társadalom által támasztott követelményeket, illetve a paradigmaváltás következményeit. Az egészségügyi rendszer átalakítása során támaszkodni lehet és kell az új lehetőségekre. Általános követelmény, hogy a jogszabályalkotás során figyelembe kell venni az információs társadalom lehetőségeit és követelményeit a piaci szolgáltatók és a felhasználók oldaláról egyaránt.
+
+## I.8.3. A közigazgatás fejlesztése; példamutatás
+
+| Azzal, hogy a kormányzat és a közigazgatás a legkorszerűbb infokommunikációs eszközrendszer használójává válik, sokrétűen és hatékonyan gyorsítja fel az információs társadalom kialakulását. A bevezetett informatikai alkalmazásokkal rávezeti a gazdaság és a magánszféra szereplőit a XXI. század eszközrendszerének használatára. Az | A jól működő, valóban hasznos közigazgatási szolgáltatások az egész országnak mutatják meg az információs társadalom előnyeit. |
+
+## e-közigazgatási szolgáltatások pedig elősegítik az egyéb – a privát szférához tartozó – elektronikus szolgáltatások elterjedését.
+
+## A példamutatás mint stratégiai eszköz úgy is megjelenik, hogy egyes programokat (elektronikus ügyintézés) a kormányzat és a közigazgatás saját berkein belül (állami beruházásként) megvalósít, bemutatva, hogy az informatizálással hatékonyabban végezhetők el egyes feladatok. Hazánkban a legnagyobb informatikai fogyasztó az állam. Emiatt nagy felelőssége van abban, hogy hogyan és mire költ e téren, ugyanis ezzel a piacot meghatározó módon képes befolyásolni.
+
+## I.8.4. A finanszírozás, a pénzügyi eszközök
+
+## A stratégia eszközei közül kétségkívül a pénzügyi források tartanak számot a legnagyobb érdeklődésre. Az érdeklődés elsősorban az állami/közösségi források felé irányul. Tekintettel arra, hogy a MITS céljainak megvalósítását elsősorban a piaci szereplőktől várja, finanszírozásban is jelentős magántőkére számít. A költségvetési források részben a magántőke bevonásához, irányításához szükségesek, részben olyan feladatok megoldásához, amelyek piaci alapon nem valósulnának meg.
+
+## Az Európai Unióhoz történő csatlakozásból származó egyik előny, hogy Magyarország lehetőséget kap arra, hogy fejlesztéseihez igénybe vegye az Unió Strukturális Alapját. Ennek érdekében készült el Magyarország Nemzeti Fejlesztési Terve (NFT). A 2004–2006 közötti időszakra vonatkozó Nemzeti Fejlesztési Terv által meghatározott célokat, stratégiát és a fő támogatási prioritásokat öt operatív program[^23] valósítja meg. A MITS és az NFT céljai – különös tekintettel a GVOP 4. prioritására – közösek. Ez biztosítja, hogy a közösségi források a stratégia megvalósítása érdekében felhasználhatók legyenek. A források felhasználásához a hazai közszféra szükséges mértékű hozzájárulását a magyar központi költségvetés biztosítja.
+
+## I.8.5. A szubszidiaritás elve
+
+## A stratégia megvalósítása során fontos irányelvként vehetjük figyelembe a szubszidiaritás európai uniós alapelvét, amely szerint a döntések és intézkedések felelősségét a hierarchiában a lehető legalacsonyabb szinten levő kompetens helyre kell delegálni.
+
+## Ebből a szempontból is lényeges a Kiemelt Központi Programok, a Kiemelt Ágazati Programok, illetve az Ágazati Programok strukturális kölcsönhatása, s azokban az egyes tárcák, illetve a tárcákon belüli felelősségi körök meghatározása.
+
+## Ugyanakkor a stratégia társadalmi szintű megvalósításában kiemelt szerepe van a helyi (regionális) önkormányzatoknak is. Ezt a szerepet két módon tölthetik be. Az egyik lehetőség, hogy a már megfogalmazott programok végrehajtását a programért felelős tárcák kooperatív módon kiterjesztik helyi (regionális) szintre. A másik lehetőség, hogy az egyes helyi (regionális) önkormányzatok a MITS főirányaiba illeszkedő újabb programokat – sőt a MITS-et kiegészítő helyi stratégiát – fogalmaznak meg.
+
+## I.8.6. A szervezeti keretek
+
+## A MITS megvalósulása szempontjából kiemelkedő jelentőségű, hogy létrejöttek azok a legfelsőbb szintű szerveztek (minisztérium, tárcaközi bizottság) amelyek a programok végrehajtásban a koordinációs feladatokat el tudják látni. Ez azonban még csak lehetőség. Szükség van arra is, hogy a programoknak egyértelmű végrehajtási felelőse legyen függetlenül annak finanszírozási módjától. Mivel a programon belüli és a programok közötti feladatmegosztás jelentős mértékű lehet, ugyanilyen fontossággal bír, hogy legalább főirányonként a koordinációnak is megnevezett felelőse legyen.
+
+## A programok sikeres lebonyolítása érdekében azokat főirányok szerint csoportosítjuk, ezekhez kapcsolódnak, kapcsolódhatnak a megfelelő irányba ható programok/feladatok. Ezek együttes kezelése, koordinációja biztosíthatja a MITS sikeres megvalósítását. Egy-egy főirányba különböző prioritású és végrehajtási felelősségű programok tartoznak. Ennek megfelelően a programokat/feladatokat 3 prioritáskategóriába soroljuk. Eszerint a MITS keretében
+
+## – kiemelt központi programok,
+
+## – kiemelt ágazati programok
+
+## – ágazati programok
+
+## valósulnak meg.
+
+## A kiemelt központi programok kiemelt prioritású feladatokat tartalmaznak, több tárca együttműködésében és finanszírozásában valósulnak meg.
+
+## Az ágazati kiemelt programok alapvetően egy-egy tárca felügyelete alatt állnak, de megvalósulásuk kiemelt fontosságú a stratégia szempontjából, és szükséges a koordinációjuk a kiemelt központi programokkal.
+
+## Az ágazati programok/feladatok ágazati hatáskörben kerülnek megvalósításra.
+
+## A források hatékony felhasználása érdekében a fenti három prioritási kategórián belül célszerű újabb prioritási szinteket meghatározni – már a megvalósíthatóság szempontjai és a konkrét megvalósítás várható eredményei, hasznosulása alapján.
+
+## I.8.7. A monitoring rendszer
+
+## Ugyancsak stratégiai eszköznek tekintjük a monitoring rendszert. A rendszer része ennek az elvnek a szem előtt tartása a tervezés első fázisaitól kezdve. Csak olyan célt fogalmazunk meg, amely ,,kézzel foghatóvá” tehető valamilyen indikátor (benchmark mutató) által. A feladatok, projektek, programok sikerkritériuma ezzel számszerűsíthető, az elvégzett munka értékelhető.
+
+## A stratégia eszköztárába vagy inkább megoldási módszertárába tartozik az, hogy a feladatok megoldására programokat fogalmaz meg. A programalkotás a stratégiai tervezés része. A programok lehetővé teszik egy-egy stratégiai beavatkozási terület (részterület) komplex és hatékony kezelését. A komplexitás általában azt jelenti, hogy egy-egy stratégiai cél közvetlenül (egy lépésben) nem oldható meg. Szükség van tehát több (többszintű, egymásra épülő, egymást követő, kiegészítő) feladat összehangolt végrehajtására. A program ezt az összhangot biztosítja egy jól definiált (üzleti) modell által. A hatékonyság az erőforrások koncentrált és célirányos felhasználásában mutatható ki, ezt ugyancsak a programjelleg (összehangolt működés) biztosítja.
+
+## Ez a monitoring rendszer nem pótolja az egyelőre nem létező, az IKT fejlődését évről évre mutató összehasonlító elemzést, illetve a szektor szerepét és hatását a nemzetgazdaságban folyamatosan nyomon követő, az EU rendszerekkel kompatibilis statisztikai rendszer kidolgozását.
+
+## I.9. A stratégia végrehajtásának folyamata
+
+## A stratégiai tervezés három időhorizonton történik. A hosszú távú tervezés, a modellalkotás ,,top-down” módon, 10–15 éves távlatra történt. A stratégia modellje ezen az időhorizonton lényegesen nem fog változni. A stratégia megvalósítását szolgáló feladatok közép- és rövid távra fogalmazódnak meg, a néhány évre szóló programok alapvetően a ,,bottom-up” elv szerint épülnek föl. A távlati célok nem valósíthatók
+
+| A stratégia végrehajtását professzionális módon – megfelelő intézményrendszer keretein belül használt megfelelő módszertanokra alapozva – kell biztosítani. Ebbe a folyamatba a kormányzati szereplőkkel egyenrangúan be kell vonni a piaci és a civil szféra, valamint a szakmai közélet képviselőit. | meg 1–2 év alatt. Többéves megvalósítás során viszont olyan mértékű változások következ-hetnek be, amelyek szükségessé teszik a stratégia felül- vizsgálatát. Mint azt A stratégia hangolása és karbantar- tása fejezet is rögzíti, időről időre elvégzendő a feladatok és a programok prioritásának megálla- pítása. Ez szükségessé teszi a feladatok listájának |
+
+## technikailag jól kezelhető formában – úgynevezett Feladattervben– történő tárolását és folyamatos karbantartását. Ugyancsak a prioritáskezelés kívánja meg, hogy a monitoring rendszer szoros kapcsolatban legyen a Feladattervvel. A feladatok és a programok indikátorainak megállapításánál kapcsolódni kell a monitoring rendszerhez, olyan mutatókat kell választani, melyeket a monitoring rendszer kezel. A feladatok, programok értékelése ugyancsak a monitoring rendszer segítségével, a mérések eredményének elemzésével hajtható végre.
+
+## A folyamatos felülvizsgálatot, a gördülő tervezést igényli a stratégia finanszírozása is. A stratégia alapvető koncepciója, hogy nem egyetlen, központosított forrásból (előirányzatból, alapból) kívánja ,,szétosztani” a feladatok végrehajtásához szükséges összegeket. Ezzel szemben a forráskoordináció lehetőségeit nagy mértékben kihasználva, a párhuzamosságok kiküszöbölésével, a lehetséges források bevonásával tervezi a feladatok megoldását. Ez a koncepció ugyancsak a Feladatterv folyamatos karbantartását, a források, felhasználások és a teljesítési mutatók naprakész nyilvántartását, visszacsatolását igényli. A másik oldalról jelentkezik a gördülő tervezéssel szemben támasztott igény, hogy egyfelől a rendelkezésre álló forrásokról használható forrástérképet tudjon adni, másfelől támogatnia kell a költségvetési tervezési rendszert. A mindenkori tervezési rend (irányelvek) függvényében a tervezési időszakra vonatkozóan tudni kell megalapozott költségvetésiigény-listát előállítani a gördülő tervezés egyik eredményeként.
+
+## A stratégia többéves kifutásából természetesen adódik az is, hogy a végrehajtás időszakában újabb és újabb feladatok fogalmazódhatnak meg. A gördülő tervezés feladatai közé tartozik, hogy ezeket ,,kezelje”, azaz a Feladatterv képes legyen befogadni újabb és újabb feladatokat (illetve ,,el is tudjon felejteni” másokat). Az új feladatok beillesztése a stratégiába csak kisebb részben technikai kérdés. Ennél sokkal lényegesebb probléma olyan eljárásrend kidolgozása, amelynek segítségével megbízható módon dönthető el, hogy egy újabb feladat beleilleszthető-e valamelyik főirányba, az új feladat egyben új programot is jelent-e, vagy valamely meglévő program bővülhet-e vele.
+
+## Mindezekből jól látható, hogy a stratégia végrehajtásának folyamata meglehetősen komplex, a sikeres végrehajtás pontos szabályozást, megfelelő szervezeti kereteket, jól definiált folyamatokat, feladat- és hatásköröket igényel. Ennek gyakorlati megvalósítására a következők szerint kerülhet sor:
+
+## 1. A MITS céljainak megvalósításába bárki bekapcsolódhat, bárki önállóan tevékenykedhet a stratégia érdekében. Az állami szerepvállalásról megfogalmazottak figyelembevételével, a központi koordinációt a következő keretek között lehet biztosítani:
+
+## 2. A MITS céljainak megvalósítása során a koordinációban csak olyan programok vesznek részt, amelyek megkapták a ,,MITS programja” (Ágazati Program, Ágazati Kiemelt Program vagy Központi Kiemelt Program) minősítést. Az IHM miniszter feladata, hogy jogszabályt dolgozzon ki arra vonatkozóan, milyen eljárásrend, milyen döntési folyamat eredményeként van lehetőség a ,,MITS programja” minősítés elnyerésére.
+
+## 3. A MITS koordinációban részt vevő programok közül azoknak, amelyek túlmutatnak az adott program határain, amelyekhez más programok is kapcsolódni kívánnak ,,Kiemelt MITS program” minősítés adható. A kiemelt programok esetében valamilyen mértékű együttműködés is megvalósul (tárcák között, a privát szféra és az állami szféra között). Ez az együttműködés azonban nem igényel jelentős forráskoordinációt (szabályozási, kommunikációs, információs feladatokat és a központi költségvetés módosítását nem igénylő mértékű finanszírozási feladatot jelenthet).
+
+## 4. Azok a ,,Kiemelt MITS programok”, amelyek közös finanszírozást igényelnek a ,,Központi Kiemelt Program” (KKP) minősítést kapják. A KKP minősítésű program jogosult bármely ágazat költségvetésében – mint információs társadalomépítési, információs gazdaságfejlesztési célú feladat – költségvetési címként megjelenni. A valamely ágazat költségvetésében megjelenő KKP az IHM fejezetében is megjelenik, ilyen módon az IHM társfinanszírozóként is (a koordináció és a kooperáció egyéb formái mellett) részt vállal a program megvalósításában. Az IHM miniszterének feladata, hogy a kidolgozandó jogszabályban a forráskoordináció folyamatát, államigazgatási, költségvetés-tervezési egyeztetési formáját szabályozza.
+
+## 5. Az említett jogszabály tartalmazza, hogy az IHM feladata a MITS főirányaihoz rendelt referensek (főirány felelősök) kijelölése, feladat- és hatáskörük pontos szabályozása (alapvető feladatuk a piaci szereplőktől és a más ágazatoktól érkező program javaslatok előzetes véleményezése, a főiránnyal kapcsolatos koordináció).
+
+## 6. A tervezett jogszabály tartalmazza, hogy az ITKTB feladata a referensektől érkező javaslatok megvitatása, javaslattétel azok minősítésére és a továbbvitel módjára. Ennek előkészítő tevékenységét a STEA külső, független szakértők bevonásával, egységes módszertan alapján látja el. A STEA minősítésre vonatkozó javaslatait az ITKTB fogadja el és továbbítja az IHM minisztere felé.
+
+## 7. A jogszabály tartalmazza a monitorozás szervezeti kereteit (célszerűen az ITKTB egy független monitoring albizottsága keretében). A MITS monitorozása kiterjed a MITS programok folyamatos és záró értékelésére is. A KKP programok koordinációjáért felelős tárca a végrehajtásban részt vevő tárcákkal együtt a programtervben rögzített időközönként rendszeresen beszámolási kötelezettséggel tartozik az ITKTB felé. Amennyiben egy program nagymértékben eltér kitűzött céljaitól (rossz irányban) az ITKTB tehet olyan kötelező érvényű javaslatot is, amely a korrekciót szolgálja vagy a korábban odaítélt minősítés megvonását eredményezi.
+
+## 8. A jogszabály további részleteket is kimond arra vonatkozóan, hogy a program tervek/javaslatok kidolgozásának milyen formái léteznek. Szükséges egy ,,ötletpályázat” szintű forma, amelyen elnyert összeggel az ötletgazda a program megvalósíthatósági tanulmányát készítheti el. Továbbá egy ,,tervpályázat” szint, amelynek finanszírozásával a tervek részletesebb (,,beruházási terv”, ,,programterv”, ,,projektterv” szintű) kidolgozása végezhető el.
+
+## II. A MITS VÉGREHAJTÁSÁNAK PROGRAMTERVE
+
+## 2004–-2006.
+
+## II.1. A MITS programjai
+
+## A stratégiai feladatokat beavatkozási területek és prioritásuk szerint csoportosítva stratégiai programokat fogalmazunk meg. A programok megfogalmazása az alábbi elvek szerint történt:
+
+## – A programok együttesen ,,lefedik” a stratégiát, együttes megvalósulásuk biztosítja a stratégiai célok elérését. Minden program kapcsolatban áll a stratégia valamely ,,területével”, de csak eggyel. Az adott területet egy program részben vagy egészben, de a teljes stratégiát, csak a programok összessége fedi le.
+
+## – Minden programnak jól meghatározható (monitorozható), önálló célja van, amelynek megvalósulása alapvetően az adott programtól függ. Ez a cél egyértelmű kapcsolatban van a stratégia megfelelő a ,,területével”, megvalósulása egyértelműen a stratégia megvalósulását szolgálja.
+
+## – Minden programnak van ,,működési modellje”. Ez a modell alapvetően piaci, üzleti modell. A modell leírja a programok megvalósulásának pénzügyi, szervezeti kereteit, feltételeit, az alkalmazott eszközöket, módszereket, felelősségi köröket. A programok megvalósítási folyamata korszerű projektirányítási módszerekre épül.
+
+## – A programok működési modelljével szemben elvárás, hogy a folyamatos működést támogassa, az egyszeri megoldás helyett. Ez összefüggésben van azzal is, hogy a program milyen mértékben ,,építkező”, beruházó jellegű, illetve mennyire ,,akció”, támogató jellegű. Az előbbi változat szerinti modellek hosszabb távon hoznak eredményt, a megoldás viszont tartós lesz, az utóbbi megoldások gyors sikerrel kecsegtetnek, de az elért eredmény nem minden esetben bizonyul tartósnak, különösen abban az esetben, ha a támogató jellegű akció az egyszeri megoldási módhoz társul.
+
+## A programok tervezése során megtörténik a ,,szervezeti keretek” című fejezet szerinti prioritás megállapítása. A következő táblázat mutatja a MITS tervezett központi, illetve ágazati szinten kiemelt programjait.
+
+## Speciális ,,MITS programok” a Nemzeti fejlesztési terv egyes operatív programjainak azon intézkedései, amelyek céljaikban egybeesnek a MITS céljaival. Tartalmukban ezek a programok beletartoznak egy-egy főirányba azzal a megkötéssel, hogy átfedés nem lehet másik programmal. Ezek az NFT-s programok tehát beleilleszkednek a MITS megfelelő főirányába, és intézkedéseik az egyéb programok feladataival együtt ,,fedik le” a stratégiát.
+
+## A MITS legfontosabb programjainak áttekintő táblája:
+
+| Beavatko- zási terület | Fő irány | Programok | Felelős |  | Közreműködők | Cél |
+
+| KKP25 | ÁKP |
+
+| Tartalom | Gazdaság | e-munka | IHM |  | FMM, GKM | Jól működő ,,belső” folyamatok, irányítási rendszerek a gazdaságban |
+
+| e-üzlet | IHM |  |  | Az üzleti szféra elektronikus szolgáltatásainak bővítése |
+
+| e-közbeszerzés |  | MeH |  |
+
+| KKV–IT fejlesztése |  | GKM |  |
+
+| e-közlekedés | GKM |  | IHM | Intelligens közlekedés – korszerű szállítási, navigálási rendszerek |
+
+| e-agrárium | FVM |  | IHM | Agrárbusiness – agrártermelőket kiszolgáló információ rendszerek |
+
+| Foglalkoztatás |  | FMM | IHM | Munkakártya |
+
+| GVOP 4.1 |  | IHM | GKM | e-gazdaság fejlesztése |
+
+| GVOP 4.2 |  | IHM | GKM | Információs iparág fejlesztése |
+
+| Közigazgatás | e-kormányzat | MeH |  | NKÖM, IHM | Általános, alapvető közszolgáltatások megvalósítása elektronikus szolgáltatásként |
+
+| Közbiztonság |  | BM |  |
+
+| Jogbiztonság |  | IM | OIT, LÜ |
+
+| Építés- és közlekedéshatóság |  | BM |  |
+
+| Adó |  | PM | IHM, BM |
+
+| Elektronikus adatszolgáltatás |  | GKM | IHM, KSH |
+
+| e-önkormányzat | IHM |  | BM | Digitális önkormányzatok – elektronikus ügyintézés |
+
+| Közportál |  | BM | IHM | Országos önkormányzati portál |
+
+| GVOP 4.3 |  | IHM | GKM, BM | e-közigazgatás fejlesztése (önkormányzatok) |
+
+| e-közigazgatás |  | MeH | BM, IHM, IM | Jól működő ,,belső” folyamatok, irányítási rendszerek a közigazgatásban |
+
+| Kutúra | Nemzeti Digitális Adattár | NKÖM |  | IHM, OM | Digitalizált adatvagyon növelése, a felhasználók számára könnyen elérhetővé tétele |
+
+| Új kulturális értékek |  | NKÖM |  |
+
+| Új közvetítő technológiák |  | NKÖM |  |
+
+| Jővő Háza |  | IHM |  | Legkorszerűbb technológiák és technikák bemutatása |
+
+| Oktatás | e-oktatás | OM |  | IHM | Óvodai, közoktatási, felsőoktatási, szak- és felnőttképzési munkához kapcsolódó elektronikus szolgáltatások |
+
+| e-learning |  | OM | IHM |
+
+| Oktatási anyagok |  | OM |  |
+
+| Oktatói, hallgatói kártya |  | OM | IHM |
+
+| Egészség | e-egészség portál | ESZCSM |  | IHM | Elektronikus egészségügyi szolgáltatások |
+
+| Távdiagnosztika, távgyógyászat |  | ESZCSM | IHM |
+
+| Szociális portál |  | ESZCSM | IHM |
+
+| OEP, ONYF |  | ESZCSM | PM |
+
+| e-recept, e-kórlap, e-konzílium |  | ESZCSM | IHM |
+
+| HEFOP 4.4 |  | ESZCSM |  |
+
+| HEFOP 5. |  | ESZCSM |  | szociális és egészségügyi infrastruktúra |
+
+| Környezetvédelem | e-környezetvédelem | KvVM |  | IHM | Speciális ágazati szolgáltatások megvalósítása elektronikus szolgáltatásként |
+
+| Természetvédelem |  | KvVM |  |
+
+| Víz |  | KvVM |  |
+
+| Meteorológia |  | KvVM |  |
+
+| Infrastruktúra | Szélessáv | Közháló | IHM |  |  | Szélessávú közcélú infrastruktúra (VPN) |
+
+| Elektronikus Kormányzati Gerinchálózat (EKG) |  | MeH |  |
+
+| Speciális ágazati alhálók |  | IHM | OM, ESZCSM, KvVM, FVM, NKÖM |
+
+| Civil alháló |  | IHM | PPP |
+
+| NIIF | OM |  | IHM, MTA | Szélessávú kutatói hálózat |
+
+| GVOP 4.4 |  | IHM |  | Szélessávú távközlési hálózat hátrányos helyzetű térségekben |
+
+| Hozzáférés | eMagyarország-Pont | IHM |  | MeH | Közösségi elérés |
+
+| Svéd modell |  | IHM |  | Munkáltatói adókedvezmények egyéni eléréshez |
+
+| Infrastrukturális szolgáltatások | Közcélú, közhasznú információk ,,infrastruktúrája” | IHM |  | MeH, KSH, HM | Közcélú adat- és tartalomszolgáltatás eszközei; infrastrukturális szolgáltatásai; szabad szoftverek |
+
+| Tudás és ismeret | Tudás, ismeret | Digitális írástudás | IHM |  | MeH, OM, NKÖM, FMM | Az információs és kommunikációs technológia használatának általános képessége, az információk és kulturális értékek befogadásának képessége |
+
+| HEFOP 3. |  | FMM | IHM |
+
+| Jogi- és társadalmi környezet | Jogi- társadalmi környezet | e-biztonság | IHM |  | MeH | Bizalom és igény az információs és kommunikációs technológia iránt |
+
+| elektronikus aláírás és bizalmas dokumentumkezelés |  | ESZCSM |  |
+
+| Fogyasztóvédelem |  | GKM | IHM, PPP |
+
+| e-demokrácia | IHM |  | IM, OBH, MeH | Felhasználók képviselője, országgyűlési biztosok és képviselők elektronikus, nyilvános elérése, elektronikus szavazás |
+
+| eTár |  | IHM | MeH | Stratégiai adatháttér kezelésére alkalmas első védett objektum, az adatok megóvását szolgáló biztonsági rendszer |
+
+| Kutatás és fejlesztés | IT K+F | IT K+F | IHM |  | OM, MTA | Az információs társadalom technikai és társadalomtudományi kutatása, az eredmények gyors hasznosítása |
+
+|  |  | ESZCSM |  | Egészségügyi és szociális tudáskezelési technológia kialakítása |
+
+| Esély- egyenlőség | Esély- egyenlőség | e-ernyő | IHM |  | EEFTM, PPP | Informatikailag hátrányos helyzetű célcsoportok felzárkóztatása |
+
+|  | NKÖM |  | Földrajzi és öröklött hátrányokból származó kulturális távolságok csökkentése |
+
+|  | ESZCSM |  | Fogyatékkal élők hozzáférési esélyeinek növelése az e-egész- ségügyi szolgáltatásokhoz |
+
+| IT mentor |  | IHM | * | Nyilvános közösségi helyek szakképzett személyzetének biztosítása |
+
+| Eszköz |  | * | * | Egyéni eszközökhöz/eléréshez jutás |
+
+## 25 KKP: Közponi Kiemelt Program, ÁKP: Ágazati Kiemelt Program.
+
+## II.2. Főirányok, kiemelt programok
+
+## A programok végrehajtásának sikere érdekében a kiemelt programok gazdasági, műszaki megvalósíthatóságának, gazdasági és társadalmi hatásának elemzése, erőforrásigényének felmérése is megtörténik. A vizsgálatok eredményét tartalmazó programterveket az egy főirányhoz tartozó, központi kiemelt programokra vonatkozóan programfüzetek tartalmazzák.
+
+## Ez a fejezet röviden ismerteti a MITS főirányait, a főirányok célkitűzéseit. Az egyes főirányokba tartozóan felsorolja a központi kiemelt programokat, továbbá az ugyanabba főirányba illeszkedő NFT-s ,,társprogramokat” valamint ágazati kiemelt programokat. A központi kiemelt programok esetében a program ,,fejléce” jelzi a program egyéb kapcsolódásait kormányprogramhoz, eEurope akció tervhez, Nemzeti Fejlesztési Tervhez. A kapcsolódást az alábbi jelzések mutatják:
+
+|  | eEurope 2005 akciótervhez |
+
+|  | Nemzeti Fejlesztési Tervhez |
+
+|  | Kormányprogramhoz |
+
+|  | eEurope IST programokhoz |
+
+## II. 2.1. Gazdaság főirány
+
+## Célkitűzés: A magyar gazdaság teljesítményének és versenyképességének javítása a korszerű informatika eszköztárának a gazdaság minden területén való intenzív alkalmazása segítségével.
+
+## A főirány központi kiemelt programjai:
+
+| 1 | e-munka |  | - e-business | GVOP | tartalom |
+
+## Az elektronikus munkavégzés kultúrájának elterjesztése
+
+## Az ország gazdasági versenyképességének erősítése, közigazgatásunk és a hazai üzleti szféra gazdálkodó szervezeteinek európai uniós viszonylatban is korszerű működési folyamatainak megteremtése és az Unió munkaerőpiacán – mind foglalkoztatói, mind munkavállalói oldalról – való sikeres megjelenésünk érdekében a program fejleszteni kívánja az információtechnológiai eszközök használatát a munkahelyeken, az ilyen típusú munkavégzés szervezeti hatékonyságát, valamint bővíteni a munkafeladatok ellátásához kellőképpen felkészült vezetők és munkavállalók körét. Ennek érdekében a program a 2006-ig terjedő időszakra a következő célokat határozza meg:
+
+## – korszerűsödjenek a közigazgatáshoz kapcsolódó munkaszervezési, igazgatási feladatok;
+
+## – javuljon az üzleti szféra szervezeteinél zajló 'back office', azaz háttérirodai jellegű folyamatok hatékonysága;
+
+## – korszerű szolgáltatások járuljanak hozzá a munkaerőpiacon a munkaadói és munkavállalói oldal egymásra találásához;
+
+## – megteremtődjön a különböző szempontból hátrányos helyzetű lakossági csoportok szélesebb körű bevonása az információs és kommunikációs technológiák használatát igénylő feladatok ellátásába.
+
+## Mindezek érdekében a program a közigazgatásban átfogó, integrált információs rendszereket alakít ki; ösztönzi a vállalkozásokat az információs és kommunikációs technológiák használatára, egyes folyamatok automatizálására, az elektronikus szolgáltatások hátterének kialakítására. Létrehozza és működteti az Egységes Munkaügyi Nyilvántartást, és egy integrált munkabörze kialakításának első lépéseként távmunka-börzét hoz létre. A munkanélküliség megelőzése és kezelése érdekében fejleszti az informatikai ismereteket és az informatikai eszközök használatához kapcsolódó készségeket, elektronikus közmunka programokat indít; valamint támogatja a hátrányos helyzetűek munkavállalását a korszerű eszközöket használó szektorokban.
+
+| 2 | e-üzlet |  | e-business, e-commerce | VOP | tartalom |
+
+## A MITS gazdaságfejlesztési koncepciója a rendszerváltással kezdődött strukturális átalakulást kívánja kiteljesíteni olyan értelemben, hogy nem a hagyományos ágazatok közötti súlyeltolódásra helyezi a hangsúlyt, hanem a minden szektorban meglévő értékteremtő folyamatok átitatására az új technológiákkal, ezáltal teremtve meg a feltételeit egy az Európai Unióban és a globális gazdaságban is versenyképes, a változásokra gyorsan reagáló, a nagy növekedési potenciállal rendelkező kis és középvállalati szektorra támaszkodó gazdaságnak.
+
+## Ennek érdekében célként tűzzük ki
+
+## – a kis- és középvállalatok információtechnológiai felzárkóztatását,
+
+## – a ,,nagy szolgáltatók” (közművállalatok, pénzintézetek) ügyfélkezelő rendszereinek felkészítését arra, hogy a tárgyidőszakon belül váljanak alkalmassá ügyintézésre, igazolások kiadására, magas szintű tranzakciók bonyolítására
+
+## – a gazdasági tartalomfejlesztést, és
+
+## – a folyamatos megújulás bázisainak számító inkubátorházak támogatását – az európai uniós gyakorlatnak megfelelően az állami források és a magántőke együttes részvételével.
+
+## Kulcsfeladatnak szánjuk a vállalaton belüli és vállalatközi intelligens rendszerek fejlesztését, bevezetését és használatának elterjesztését, majd a vállalatközi forgalom elektronikus útra terelését, így az elektronikus kereskedelem értéke évente akár 30%-kal is bővülhet; gazdasági ágazatonként az értékkel bíró információk egységes formában történő közreadását (pl ágazati adatbázisok, egészségügyi beszállítói katalógus, boradatbázis stb).
+
+| 3 | e-közlekedés |  |  | KIOP | tartalom |
+
+## Intelligens közlekedés
+
+## A fenntartható fejlődéshez az intelligens közlekedési rendszerek alapvetően kétféleképpen járulhatnak hozzá. A személy- és áruszállítások intelligens szervezése következményeképpen az adott igények jobb járműkihasználással, kevesebb járműmozgással is kielégíthetők, másrészt a forgalmi áramlatok intelligens lebonyolításának eredményeként a közlekedés közvetlen költségei és káros hatásai (torlódások, balesetek, levegőszennyezés) csökkenhetnek.
+
+## Az intelligens közlekedési rendszerek telematikai háttere, bázisa egyelőre csak ,,foltokban” van jelen. Az érdekeltek együttműködési képessége és készsége ma még meglehetősen korlátozott. A stratégia az egyes alágazatbeli információs rendszerek integrálására, szolgáltatásaik fejlesztésére és az információk nyilvánosságának kiterjesztésére irányul.
+
+## A 2006-ig terjedő időszak főbb céljai:
+
+## – interneten alapuló közlekedési tájékoztató rendszer kiépítése, melynek segítségével valamennyi közlekedési alágazatra vonatkozó információk elérhetők,
+
+## – elektronikus fizetési mintarendszer kialakítása a személyközlekedésben (pl. egy városra, illetve egy szolgáltatóra kiterjedően),
+
+## – fedélzeti navigációs és befolyásoló berendezések megjelenése a forgalomba hozott új járművekben, valamint a forgalomirányító rendszerek összehangolt fejlesztése egyes nagyforgalmú pályaszakaszokon.
+
+## A fenti célok elérése érdekében elinduló projektek többek között: az interneten alapuló közlekedési szolgáltatások (pl. információadás, foglalás, jegyértékesítés, elektronikus hatósági ügyintézés) megindítása, egységes személyközlekedési elektronikus díjfizetési rendszer létrejöttének elősegítése, a fedélzeti navigációs rendszerekkel felszerelt járművek értékesítésének ösztönzése, a forgalomirányító rendszerek továbbfejlesztése, összehangolása. Sebességszabályozás, kapacitásmenedzsment, váratlan események kezelése.
+
+| 4 | e-agrárium |  |  | AVOP | tartalom |
+
+## Napjainkban Magyarországon a vidéki térségek és az agrárium számos olyan problémával küzd, melyekre az információs társadalom kiteljesedése megfelelő választ nyújthat. A gazdálkodókat és általában a vidéki népességet segítő szolgáltatások fejletlenek, az ágazati és vidékfejlesztési információk hiányosak, nehezen hozzáférhetők. A stratégia a versenyképes mezőgazdasági termelés, és – részben ennek segítségé-vel – az élhető vidék kialakítása érdekében a következő fejlesztési területeket határozza meg:
+
+## – nagy keresettségű tartalmakat közvetíteni képes információszolgáltatások kialakítása, különös tekintettel a hazai és az Európai Unió közhasznú információihoz való hozzáférés biztosítatására (piac- és termékinformációk, szabványok, EU-hírek stb.);
+
+## – a mezőgazdaságot szolgáló adatbázisok felmérése, fejlesztése, modernizálása;
+
+## – gyarapodó számban álljanak rendelkezésre az agráriumhoz és az informatikához egyszerre értő és a helyi viszonyokkal tisztában lévő szakemberek, akik az információs kultúra terjedésének, népszerűsítésének a motorjaiként segítenek a rendszerek megismerésében és használatában;
+
+## – az ágazathoz kapcsolódó intézmények belső informatikai infrastruktúrájának fejlesztése.
+
+## A vidékfejlesztés területén a legfontosabb feladat interneten alapuló tudásközpontok létrehozása, a vidékfejlesztési kommunikáció kialakulásának elősegítése, valamint a helyi és regionális tudásmenedzsment lehetőségeinek megteremtése, az innováció és a tudástranszfer támogatása. A szükséges infrastruktúra-fejlesztések (FVM, köztestületek, érdekképviseleti szervezetek, termelők) a Közháló alhálójaként jönnek létre.
+
+## A főirányba illeszkedő NFT programok:
+
+| GVOP 4.1 | e-gazdaság fejlesztése, e-kereskedelem ösztönzése |
+
+## A vállalaton belüli és vállalatközi IT és web megoldások fejlesztése, bevezetése és használata (az ERP, MIS és CRM megoldások elterjesztése).
+
+## – Az e-piacterek kialakulásának ösztönzése, az e-kereskedelemi szolgáltatások bővítése.
+
+## – e-kereskedelmet támogató intelligens informatikai rendszerek kifejlesztése és elterjesztése.
+
+## – A hálózatbiztonság és a szolgáltatások minőségének javítása.
+
+## – Ipari parkok számára az IT-hálózat kiépítése.
+
+| GVOP 4.2 | Információs iparág fejlesztése |
+
+## A gazdasági, üzleti, kulturális és tudományos célú, valamint közhasznú digitális információs adatbázisok és információforrások létrehozásának, fejlesztésének, hozzáférhetővé tételének és alkalmazásának előmozdítása,
+
+## – a PPP – a közintézmények és magánszféra közötti partnerség – előmozdítása digitális tartalom vonatkozású új termékek és szolgáltatások előállítása és forgalmazása céljából.
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| e-közbeszerzés | Az eEurope 2005 célkitűzéseinek megfelelően a közbeszerzési rendszernek egységes szolgáltatási és működtetési struktúra kialakításával elektronikussá kell válnia. |
+
+| KKV- IT fejlesztése | A KKV-k IKT bevezetéséhez és alkalmazásához szükséges eszközök, szoftverek előállításának, forgalmazásának, bevezetésének támogatása a külpiaci megjelenés elősegítése. Az információs társadalomba való integrálódás elősegítése képzés, tudástranszfer, kampányok segítségével. |
+
+| Foglalkoztatás | Foglalkoztatási nyilvántartási rendszerek, foglalkoztatási programok, melyek a folyamatok informatizálásához szükségesek: – Munkakártya – Munkaügyi portál – Információs társadalommal összefüggő foglalkoztatási programok menedzselése (kiemelten: távmunka) |
+
+## II. 2.2. Közigazgatás főirány
+
+## Célkitűzés: A ,,szolgáltató állam” megvalósítása az ügyintézés korszerűsítésével és lakosság széles köre által elérhető szolgáltatások rendelkezésre bocsátásával, az EU által meghatározott szolgáltatások biztosításával.
+
+## A főirány központi kiemelt programjai:
+
+| 5 | e-kormányzat 2005 |  |  | e-government |  | tartalom |
+
+## Elektronikus szolgáltató állam
+
+## Az e-kormányzat fogalma többet takar, mint a kormányzat elektronizálását. A szolgáltató állam megteremtésének folyamatában az információs és kommunikációs technológiai eszközök alkalmazása több területen is kulcsfontosságú: egyrészt segítségükkel modernizálható a közigazgatás belső struktúrája, működési, eljárási mechanizmusa, másrészt gyorsabb, olcsóbb és közvetlenebb módon alakítható ki a kapcsolat az állampolgár, üzleti szereplők és a kormányzat között. Az államigazgatás modernizációjának eredményeként létrejövő szolgáltató és esélyteremtő államnak tudatosan kell a konzultációs folyamatokat, lehetőségeket kialakító folyamatok élére állnia, és minden vonatkozásban kezdeményező szerepben fellépnie. Mindehhez az e-kormányzat hatékony eszköz, nem pedig önmagában vett cél.
+
+## Az e-kormányzat fejlesztésének – a MITS két pillérének megfelelően – két jellemző folyamaton keresztül kell megvalósulnia:
+
+## – az ügyfelek igényeinek minél magasabb szinten történő kielégítésén, amely a korábbi szolgáltatás-orientált működés ügyfélorientált megközelítéssel való felváltását jelenti (beleértve az eEurope 2005 programban meghatározott 20 nyilvános közszolgáltatás mihamarabbi online elérhetővé tételét),
+
+## – a közigazgatás belső folyamatainak, hatékonyságának emelésén, az ügymenet digitalizálásán (beleértve az egységes közigazgatási adatmenedzsment és adatmodell kialakítását, a kormányzati elektronikus aláírás rendszer (PKI) kialakítását és bevezetését, a kormányzaton belüli informatikai és kommunikációs rendszerek és alkalmazások integrációját).
+
+## Az állampolgárok, üzleti szereplők számára elérhető, felhasználható szolgáltatások létrehozása csökkentheti az IKT-eszközök hozzáférésből és használatából adódó egyenlőtlenségeket, és elősegítheti a részvételi demokrácia intézményrendszerének és kultúrájának kialakulását. Ehhez a szolgáltatási közmű (magyarorszag.hu) továbbfejlesztése szükséges egy egységes kormányzati portálrendszerré (beleértve a portálon elérhető tartalmak és szolgáltatások körének bővítését, a demokratikus állampolgári részvételt, valamint a kormányzati átláthatóságot támogató rendszerek fejlesztését, az infrastruktúra végpontok ,,társadalmasítását”, azaz a közösségi hozzáférés pontok ügysegédi szolgálatainak kialakítását).
+
+| 6 | e-önkormányzat 2005 |  | e-government | GVOP | tartalom |
+
+## Az elektronikus önkormányzati törekvések egy többdimenziós térben formálódnak, alakulnak, melynek igazodási pontjai: Magyarország európai uniós csatlakozási szándéka, az önkormányzatok autonóm (alkotmányos) jogállásának sajátosságai, a tervezett közigazgatási reform várható következményei, valamint a heterogén adottságokból következő megoldásbeli sokszínűség. Ebben a térben van szükség korszerű, de egyben új tervezési logikára épülő (európai) közigazgatási egységek megteremtésére, helyi, regionális, illetve kistérségi szinten egyaránt, amelyek az új rendszerek használatához szükséges ,,kritikus tömeget” is biztosíthatják (többek között a tudatosságnövelés helyi (vezetői, képviselői és hivatalnoki) szintre szabott formáival.
+
+## A célok elsősorban annak szolgálatába rendeződnek, hogy az
+
+## – elektronikus szolgáltatások területén történjen meg az eEurope 2005 által megfogalmazott nyilvános alapszolgáltatások adaptálása 2006 elejéig úgy, hogy ezek közül legalább 70% integrált tranzakciós szolgáltatással rendelkezzen
+
+## – közös önkormányzati portál(rendszer) jöjjön létre 2004 folyamán
+
+## – komplex (integrált) elektronikus közigazgatási rendszerek, alkalmazások (lehetőleg üzleti alapú) implementálása valósuljon meg 2006 elejéig, legalább az önkormányzatok 30%-a tekintetében
+
+## – az önkormányzati információs infrastruktúra-menedzsment korszerűsítése 2006 elejéig fejeződjön be
+
+## – az emberi erőforrás modernizációja folyamatos feladatot jelentsen.
+
+## A kijelölt célok megvalósítása érdekében ható főbb programcsoportok, feladat együttesek: személyes dokumentumok (útlevél, jogosítvány), építési engedélyek, különféle bizonyítványok (születési, házassági), lakcímváltozás igénylésének 100%-os lefedettségű megteremtése; önkormányzati belső folyamatok elektronikus kezelése (intranet, extranet); adatbázisok közös használata feltételeinek kialakítása; költségkímélő (outsourcing, ASP) megoldások (lehetőleg üzleti alapú) támogatása; képzési programok (stratégiai tervezés, felhasználói, ügyfélszolgálati ismeretek).
+
+## A főirányba illeszkedő NFT programok:
+
+| GVOP 4.3 | e-közigazgatás fejlesztése |
+
+## A 10 ezres lakosságszámot meghalódó önkormányzatok vagy önkormányzati társulások komplex elektronikus közigazgatási rendszerének fejlesztése. Az elsődleges cél üzlet-orientált, hatékony és költségtakarékos elektronikus szolgáltatások kifejlesztése. E szolgáltatások olyan internet alapú környezet és hozzáférési lehetőség megteremtését foglalják magukban, amelyek keretében a közigazgatási szervezetek, közintézmények tulajdonában lévő, az üzleti vállalkozások számára hasznosítható olyan adatforrások és szolgáltatások válnak elérhetővé – az adatvédelmi szabályok betartása mellett – mint pl. statisztikai, adózási, vámadatok, engedélyeztetési eljárások, (köz)beszerzési eljárásokban való részvétel, ügyek intézéséhez kötődő tájékoztatás, kiszolgálás.
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| Közbiztonság | A közbiztonság védelme és a szervezett bűnözés elleni harccal kapcsolatos nyilvántartási, illetve azonosítási rendszerek fejlesztése. Lakossági portál kialakítása a baleset a bűnmegelőzés a bűnüldözés és a katasztrófa elleni védelem témakörökben. |
+
+| Jogbiztonság | Az igazságszolgáltatási szervek ICT eszközökkel nyújtott szolgáltatásainak fejlesztése, a hatályos jogszabályok és magyarázatuk online elérhetővé tétele, valamint a bíróság, ügyészség, rendőrség, büntetés-végrehajtás (saját rendszerének korszerűsítése is) rendszereinek integrálása. |
+
+| Építés- és közlekedéshatóság | Építés- és közlekedéshatósági nyilvántartások és igazgatási rendszerek elektronikus szolgáltatásként való megvalósítása az elektronikus ügyintézés bevezetésével. |
+
+| Adó | Adóigazgatási feladatokhoz és ehhez kapcsolódó igazolások, okmányok kiadásához kapcsolódó, ügyfeleket kiszolgáló funkciók elektronikus szolgáltatásként történő biztosítása. |
+
+| Elektronikus adatszolgáltatás | A közigazgatás (és közszolgáltatások) területén szerteágazó adatszolgáltatási kötelezettség terheli a vállalkozókat és a lakosságot. A program célja e problémakör egységes rendszerbe foglalása és szabályozott elektronikus keretrendszerben történő megoldása és a megoldás széles körű elterjesztése. |
+
+| Közportál | Országos helyi szintű (települési-, kisebbségi-, térségi- önkormányzati) portál kialakítása és működtetése. |
+
+| e-közigazgatás | Az eKormányzat 2005 stratégiára építve – annak kiterjesztéseként – a közigazgatási reformmal összhangban, a hatékonyan működő belső folyamatok, irányítási rendszerek kialakítása, a folyamatok informatizálása és a ,,jó megoldások” népszerűsítése segítségével. |
+
+## II.2.3 Kultúra főirány
+
+## Célkitűzés: A kulturális örökség megőrzése és terjesztése érdekében az infokommunikáció eszközeivel támogatni a hazai kulturális értékek strukturált összegyűjtését, rendszerezését, többnyelvű digitalizálását, online és off-line elérhetővé tételét.
+
+## A főirány központi kiemelt programja:
+
+| 7 | NDA |  | e-content | GVOP | tartalom |
+
+## Nemzeti Digitális Adattár
+
+## A magyar stratégiai gondolkodásban a kultúra önálló megjelenésének kettős feladata van: az állagmegóvás és a kultúraterjesztés kettős kötelezettsége. Ennek figyelembevételével a hazai kulturális értékek strukturált, jól feltérképezett és elérhetőséget biztosító rendszerének kialakítása felé érdemes haladni. Alapvető cél a kulturális értékek számbavétele, majd a katalógusrendszerek teljessé tétele és összehangolása. A folyamat fontosabb lépcsőfokai:
+
+## – a Nemzeti AudioVizuális Archívum létrehozása,
+
+## – a kulturális örökség digitalizálása,
+
+## – a Kortárs Képzőművészeti Dokumentumtár létrehozása,
+
+## – országos közös katalógusok építése a könyvtári, múzeumi, levéltári állományokról,
+
+## – a digitálisan létrejövő dokumentumok összegyűjtése, archiválása és katalogizálása, illetve
+
+## – ágazati ajánlások és szabványok kidolgozása a digitalizálás, archiválás és szolgáltatás terén.
+
+## A nemzeti digitalizációs program elindítása nagyban hozzájárul a magyarországi internet-felhasználók számának növekedéséhez. A felhasználók, illetve a hasznos tartalmak körének bővülése a versenyképesség fokozásához, a munkapiaci esélyek javulásához segít hozzá, illetve támogatja a közoktatás korszerűsítését, az élethosszig tartó tanulást. A program jelentős szerepet játszik majd a magyar kulturális értékek nemzetközi ismertségének és elismertségének növelésében.
+
+## Ennek a kulturális stratégiának a zászlóshajója az NDA projekt, amelynek hármas jelszava: esélyteremtés, érték- és hagyományőrzés, új értékek létrehozása. Az NDA azonban nemcsak tartalom-összeszervező és azt egységes technikai platformra helyező ,,szolgáltatás”, hanem válasz számos társadalompolitikai kihívásra is: az információs írástudás kialakítására, a műveltségi szint megőrzésére és fejlesztésére, a globalizáció talán kissé eltúlzott félelmeire, a mindennapok kulturális fogyasztási szerkezetének befolyásolására. A kulturális értékek új elérési formája pedig nemcsak a határontúli magyarság, hanem az EU-országok és más nemzetek tagjai számára nyújt felületet a magyar kulturális értékek megismerésére.
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| Új kulturális értékek | A kultúra maga az ,,innováció” abban az értelemben, hogy folyamatosan újabb és újabb alkotások és kifejezésmódok jelennek meg. Ez a program ezt az ,,innovációt” támogatja az új és állandóan fejlődő IKT alkalmazásának elősegítésével. |
+
+| Új közvetítő technológiák | Az infokommunikációs technológiák új lehetőségeket tárnak fel és biztosítanak a kultúra terjesztésére akár esélyteremtés, akár értékmegóvás akár hagyománymegőrzés céljából. E program feltárja, megvalósítja és működteti ezen új lehetőségeket. |
+
+| Jővő Háza | Legkorszerűbb technikák és technológiák, új IT kulturális alkotások – mint az információs társadalom mozgató újdonságainak, termékeinek és eredményeinek bemutatása. A program részét képezi a ,,Jövő Háza” szervezeti kereteinek kialakítása és a ,,ház felépítése” egyaránt. |
+
+## II.2.4 Oktatás főirány
+
+## Célkitűzés: A műveltségi szint emelése és a hazai munkaerő versenyképességének megőrzése érdekében az oktatás különböző szintjein folyó oktatási, képzési tevékenységeknek valamint az oktatás adminisztrációjának az informatika eszközeivel történő támogatása.
+
+## A főirány központi kiemelt programja:
+
+| 8 | e-oktatás |  | e-content | HEFOR | tartalom |
+
+## Digitális kultúra az oktatásban
+
+## Korunk tudás-intenzív társadalma sok tekintetben eltérő elvárásokat támaszt, mint amelyekre a jelenlegi oktatási rendszer felkészít. Egy adott tudásanyag átadásáról bizonyos képességek megszerzésére kell helyezni a hangsúlyt, legfőképp azokra, amelyek az információk közötti biztos eligazodást teszik lehetővé.
+
+## Mindez az oktatási gyakorlat és a mindinkább felértékelődő iskola intézményének mélyreható megváltozását is megkívánja. Ezek elősegítésére a következő stratégiai célokat tűzzük ki:
+
+## – Legyen általános a tanárok ösztönzése a folyamatos önképzésre, tudásuk rendszeres megújítására; a tanulókban alakítsák ki az igényt és a képességet az egész életen át való tanulásra.
+
+## – Szülessenek digitális tananyagok és háttéranyagok, legyen megoldva azok korlátozás nélküli elérhetővé tétele, valamint az oktatásba való bekerülése.
+
+## – Jöjjön létre az európai követelményeknek (is) megfelelő egységes hallgatói és oktatói nyilvántartási rendszer, párhuzamosan az oktatásügyi intézmények elektronikus szolgáltatásinak bővítésével.
+
+## A közoktatási rendszert tehát nyitottá kell tenni a digitális tartalmak felhasználásának irányába, a tanároknak pedig egy szemléleti és kulturális fordulat letéteményeseiként képessé kell válnia arra, hogy a digitális írástudást elsajátíthassák és továbbadhassák. Evvel egyidejűleg egyetemeinknek és főiskoláinknak felkészülten kell várnia a hamarosan egybenyíló, átjárható európai felsőoktatási tér versenyét.
+
+## A főirányba illeszkedő NFT programok:
+
+| HEFOP 5. | Oktatási, szociális és egészségügyi infrastruktúra fejlesztése |
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| eLearning | A program az óvodai, közoktatási, felsőoktatási, szak- és felnőttképzési munkához kapcsolódó akkreditált oktatási programok fejlesztésének fókuszát az eLearning technikák elterjesztésére irányítja. |
+
+| Oktatási anyagok | Digitális online és off-line oktatási anyagok kifejlesztése, a tananyagok átfogó nyilvántartásának kialakítása, az elkészült tananyagok közzététele. |
+
+| Oktatói, hallgatói kártya | A technológia-független oktatói, hallgatói kártya és az ehhez kapcsolódó elektronikus szolgáltató rendszerek kialakítása és széles körű használatának ösztönzése. |
+
+## II.2.5 Egészség főirány
+
+## Célkitűzés: Az egészségügy reformjának támogatása az elektronikusan elérhető egészségügyi és szociális információ és ismeretek biztosítása mellett az egészségüggyel kapcsolatos kommunikációs és informatikai fejlesztési feladatok teljeskörű lefedésével.
+
+## A főirány központi kiemelt programja:
+
+| 9 | e- egészség |  |  | e-health | HEFOR | tartalom |
+
+## A rendszerváltozás óta a népesség egészségügyi állapota alig javul, a népegészségügyi program megvalósítása évtizedes késésben van. Nem megfelelő mennyiségű és minőségű az elektronikusan elérhető egészségügyi és szociális információ és ismeret, pedig a megfelelő információszolgáltatás nem csak gyorsabbá, egyszerűbbé, kényelmesebbé teszi a lakosság számára az egészségügyi szolgáltatások igénybevételét, de önmagában is javítja a lakosság egészségét; nem csak csökkenti az ellátó rendszer szervezetlenségét, de a betegcentrikus ellátás lehetővé tételével javítja a gyógyítás eredményességét, és lehetővé teszi a döntéshozók tényalapú szakpolitizálását kiszolgáló tudásgazdálkodást. Változást az eEgészség stratégia kiemelt céljainak teljesülésétől remélhetünk:
+
+## – Hiteles és jó minőségű, közérdekű és szakmai információk, ismeretek előállítása, elektronikus tartalomszolgáltatások fejlesztése a szakmai célközönség számára, információszolgáltatás a lakosság számára internetes és telefonos ügyfélszolgálati csatornákon (köztük az eEurope-ban meghatározott nyilvános egészségügyi közszolgáltatásokkal)
+
+## – Egészségügyi és szociális szolgáltatók integrált (interoperábilis) információs rendszerei és azok feltételrendszerének fejlesztése
+
+## – Egészségi és szociális indikátorrendszer, jelentési rendszer (népegészségügyi jelentés, adattár) fejlesztése, a monitorozási rendszer korszerűsítése, harmonizációja az európai ajánlásokkal és nemzetközi adatszolgáltatási kötelezettségekkel; internet alapú egészségadattár működtetése.
+
+## – Az informatikai alkalmazások legjobb gyakorlatainak kidolgozásával és bemutatásával ágazati kutatási-fejlesztési és oktatási tevékenység ösztönzése
+
+## A kiemelt célok megvalósítását közvetlenül szolgálja az egészség és szociális portál létrehozása, az indikátorrendszer fejlesztése, a monitorozási rendszer korszerűsítése; az eEgészség fogalomtár, és szabványok valamint az alkalmazások bevezetése; regionális eEgészség mintaprojektek megvalósítása 2004 és 2006 között; az (egészségügyi és szociális) szolgáltatók, a gyógyszerek és gyógyászati segédeszközök, illetve az orvosok elektronikus közhiteles nyilvántartásának fejlesztése.
+
+## A főirányba illeszkedő NFT programok:
+
+| HEFOP 5. | Oktatási, szociális és egészségügyi infrastruktúra fejlesztése |
+
+| HEFOP 4.4 | Regionális eEgészség mintaprojektek (központi egységesített eKórlap, eRecept, eKonzílium, eElőjegyzés, eFinaszírozás, telemedicina alkalmazások, és intézményen belüli fejlesztés). |
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| Távdiagnosztika, távgyógyászat | Telemedicinális alkalmazások rendszerbeállításához szükséges kapacitások fejlesztése, Infokommunikációs eszközök innovatív alkalmazása a távdiagnosztika, távgyógyászat területén. |
+
+| Szociális portál | A program célja olyan portál kialakítása, amely a szociális szolgáltatásokkal kapcsolatos közérdekű és szakmai információk, ismeretek elérhetőségét biztosítja. |
+
+| OEP, ONYF | A járulékokkal és járulékfizetőkkel kapcsolatos információs rendszerek fejlesztése, modernizálása. |
+
+| eRecept, eKórlap, eKonzílium | Elektronikus egészségügyi szolgáltatások alapjainak megteremtése |
+
+## II.2.6 Környezetvédelem főirány
+
+## Célkitűzés: Az ágazat főbb területein (környezet- és természetvédelem; vízügy és meteorológia) a környezeti információk szabad hozzáférésére vonatkozó hazai és nemzetközi szabályozásnak is megfelelő információk összegyűjtése és nyilvánosság elé tárása az EU előírásait is megvalósító rendszerek segítségével.
+
+## A főirány központi kiemelt programja:
+
+| 10 | e-környezetvédelem |  |  | KIOP | tartalom |
+
+## Környezetvédelem az információs társadalomban
+
+## Az információs társadalom több szempontból is kedvező feltételeket teremt a környezet megóvásához, illetve a fenntartható fejlődéshez. A környezetterhelés csökkentése, a környezetbiztonság növekedése, együttesen a környezeti ártalmakra visszavezethető egészségkárosító hatások csökkenését eredményezi.
+
+## Magyarországon is egyre nagyobb az érdeklődés és az igény a közérthető, az átláthatóság és számon kérhetőség szempontjait kielégítő környezeti információk iránt. A környezeti információk szabad hozzáférésére vonatkozó hazai és nemzetközi szabályozásnak megfelelően (a Magyarországon törvényben kihirdetett Aarhusi Egyezmény intézkedik a környezeti információkhoz való hozzáférésről) biztosítani kell a korrekt, gyors és időszerű információkat a társadalom legszélesebb körének, mivel a társadalom támogatása, az egyének aktív részvétele a környezeti ügyekben csak megfelelő informáltság mellett várható el.
+
+## Az ehhez vezető út két meghatározó célkötege:
+
+## – 2006 végéig valósuljanak meg az eEurope-2005-ben meghatározott nyilvános környezeti adatszolgáltatások úgy, hogy ezek közül 70% integrált tranzakciós megoldással rendelkezzen.
+
+## – 2006 végéig épüljön ki a környezeti, természetvédelmi, meteorológiai, vízügyi adatbázisokhoz a nyilvános elérés lehetőségét biztosító portálrendszer.
+
+## A stratégiai célok megvalósításához szükséges főbb teendők és feladatok: a világhálón elérhető adatbázisok feltöltése, a helyi és a regionális környezeti információk teljes körének biztosítása, az elektronikus ügyintézés feltételeinek megteremtése, bevezetése. Programmá és feladattá a környezetvédelem, a természetvédelem, a vízügy és a meteorológia olyan ,,metszetei” válnak, amelyek az információs társadalom stratégiája által érintett területekkel kerülnek fedésbe.
+
+## A főirányba illeszkedő NFT programok:
+
+| KIOP 1. | Környezetvédelem |
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| Vízügy | Vízügyi és vízgazdálkodási szolgáltatások megvalósítása elektronikus szolgáltatásként |
+
+| Környezetvédelem | Környezetvédelmi (levegőtisztaság- és zajvédelmi, hulladékgazdálkodási, vízminőség védelmi, integrált szennyezés megelőzési) szolgáltatások megvalósítása elektronikus szolgáltatásként |
+
+| Természetvédelem | Természetvédelmi szolgáltatások megvalósítása elektronikus szolgál-tatásként |
+
+| Meteorológia | Meteorológiai szolgáltatások megvalósítása elektronikus szolgáltatásként |
+
+## II.2.7 Szélessávú infrastruktúra főirány
+
+## Célkitűzés: Országos lefedésű nagy sebességű hálózat létrehozása, amely minden település számára biztosítja a hosszabb távon várható helyi infokommunikációs igények kielégítését.
+
+## A főirány központi kiemelt programjai:
+
+| 11 | közháló |  | broadband | GVOP | infrastruktúra |
+
+## Korszerű hálózati infrastruktúra
+
+## Közintézményeinknek a hazai és nemzetközi vérkeringésbe való hatékonyabb bekapcsolása, a kistérségek, illetve kistelepülések esélyegyenlőségének megteremtése és az Európai Unió szélessávú hozzáférést fejlesztő célkitűzéseihez való kapcsolódás érdekében a program fejleszteni kívánja a hazai távközlési hálózati infrastruktúrát, és ennek érdekében a következő célokat tűzi ki:
+
+## – 2006 végéig minden hazai közintézmény és közcélú feladatokat ellátó civil szervezet csatlakozhasson a szélessávú hozzáférést biztosító hálózathoz;
+
+## – induljanak modellértékű lokális és kistérségi hálózatfejlesztési programok;
+
+## – javuljanak a hazai oktatói és kutatói szféra hozzáférési lehetőségei és ezen keresztül részvételük a nemzetközi tudományos együttműködésben.
+
+## Mindezek érdekében 2006 végéig létrejön egy, az ország valamennyi települését elérő szélessávú hálózat; a Közháló és annak ,,alhálói”. A program ennek érdekében a központi kezdeményezések mellé helyi, valamint kistérségi közös infrastrukturális fejlesztések sorát kívánja bekapcsolni.
+
+## Az új technológiai és piaci kihívásoknak megfelelően kell továbbfejleszteni és stabilizálni a felsőoktatási, akadémiai és közgyűjteményi kört hálózati szolgáltatásokkal ellátó Nemzeti Információs Infrastruktúra Fejlesztési Programot. A NIIF keretében továbblépést kell elérni
+
+## – a nagysebességű hálózati infrastruktúra fejlesztése;
+
+## – a hálózati infrastruktúra révén igénybe vehető szolgáltatásokat támogató infrastruktúra kialakítása;
+
+## – az új, hálózaton alapuló együttműködési formák;
+
+## – a szuperszámítógépekre épülő számítási infrastruktúra kiépítése és
+
+## – a technológiai és infrastrukturális fejlesztések terén folyó nemzetközi együttműködési programokban való részvétel
+
+## terén.
+
+| 12 | NIIF |  | eScience |  | infrastruktúra |
+
+## Az új technológiai és piaci kihívásoknak megfelelően kell továbbfejleszteni és stabilizálni a felsőoktatási, akadémiai és közgyűjteményi kört hálózati szolgáltatásokkal ellátó Nemzeti Információs Infrastruktúra Fejlesztési Programot. A NIIF keretében
+
+## – továbblépést kell elérni a nagysebességű hálózati infrastruktúra fejlesztése,
+
+## – a middleware infrastruktúra kialakítása,
+
+## – új, hálózaton alapuló együttműködési formák, és
+
+## – a szuperszámítógépekre épülő számítási infrastruktúra kiépítése terén.
+
+## A főirányba illeszkedő NFT programok:
+
+| GVOP 4.4 | A szélessávú távközlési infrastruktúra bővítése |
+
+## A gazdaságilag hátrányos térségek szélessávú infrastruktúrával való ellátásának ösztönzése.
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| Elektronikus Kormányzati Gerinchálózat | Elektronikus kormányzati gerincháló kialakítása és a kormányzati szervek csatlakoztatásának biztosítása |
+
+| Speciális ágazati alhálók | A közháló kialakításán és szolgáltatásain belül a speciális ágazati alhálók létrehozásának támogatása és az alhálók együttműködésének biztosítása |
+
+| Civil alháló | A közháló kialakításán és szolgáltatásain belül a civil szféra számára alhálók létrehozásának támogatása és ennek üzleti alapokon való működésének ösztönzése |
+
+## II.2.8 Hozzáférés főirány
+
+## Célkitűzés: A számítástechnikai rendszerek és szolgáltatások széles körű elérésének elősegítése az egyéni hozzáférés megvalósulását akadályozó tényezők lebontása valamint a közösségi hozzáférés formáinak fejlesztése útján.
+
+## A főirány központi kiemelt programja:
+
+| 13 | eMagyarország-Pont |  | PIAP, e-inclusion |  | infrastruktúra |
+
+## Az információkhoz és szolgáltatásokhoz való minél szélesebb körű hozzáférés a modern információs és kommunikációs technológiák korában természetes igényként fogalmazódik meg, amelynek kapcsán az internethez való hozzáférést mindenki számára alanyi joggá kell tenni, és használatát – az esélyegyenlőség megteremtése érdekében – segíteni szükséges. Ennek érdekében a program a következő célokat tűzi ki:
+
+## – 2006 végére minden települési kisközösségben legalább egy nyilvános közösségi hozzáférési pont álljon a felhasználók rendelkezésére, amelyek (alap)szolgáltatásaik egy részét tekintve egységesek és innovatívak, ugyanakkor a lehetséges pluszfeladatokat és szolgáltatásokat (ezen keresztül fenntarthatóságukat) tekintve sokszínűek;
+
+## – a hozzáférési pontokon az információkhoz és szolgáltatásokhoz való hozzájutásban szakképzett segítők személyes jelenléttel támogassanak minden érdeklődőt.
+
+## Mindezek érdekében a már meglévő közösségi hozzáférési pontok fejlesztése mellett a program keretében újak jönnek létre, akár eltérő üzleti modellekkel is: ezek összekapcsolása révén azonban a hozzáférési pontok egységes arculatú és egységes szolgáltatásokat nyújtó hálózata alakul ki és e hálózat minden pontján a hozzáférést és az információtechnológiai eszközök használatát segítő szolgáltatás igénybevételére nyílik lehetőség.
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| Svéd modell | Az egyéni elérés támogatása az ún. svéd modell alapján, azaz a munkáltatói adókedvezmény lehetőségének biztosításával. |
+
+## II.2.9 Infrastrukturális szolgáltatások főirány
+
+## Célkitűzés: A többi főirányokban szereplő feladatok megoldásához szükséges adatkezelési és egyéb szoftver eszközök infrastrukturális jelleggel történő rendelkezésre bocsátása, különös tekintettel a kormányzati vagy közigazgatási forrású, közzétett információhoz való hozzáférés biztosítására.
+
+## A főirány központi kiemelt programja:
+
+| 14 | Közcélú, közhasznú információk ,,infrastruktúrája” |  |  | GVOP | infrastruktúra |
+
+## A közigazgatásban hatalmas mennyiségű adat keletkezik, a gazdaságos működéshez pedig elengedhetetlen, hogy ezzel az adatvagyonnal ugyanúgy gazdálkodjunk, mint bármely más erőforrással. Az információs társadalom megerősödésének alapfeltétele, hogy az elektronikus térben megfelelő mennyiségű, minőségű tartalom jelenjen meg, s az adatok mindenki számára elérhetővé váljanak.
+
+## Legfontosabb céljaink:
+
+## – olyan szabványos felületek, metaadat-rendszerek létrehozása, amelyek általános és korlátozásmentes adatelérést tesznek lehetővé. A metaadat – ami röviden definiálva az adat az adatról – az adatokkal való gazdálkodás egyik hatékony eszköze. Az ilyen szolgáltatások segítik az adatok széles körű hasznosulását és a párhuzamos adatgyűjtések elkerülését.
+
+## – a különböző fejlesztési és felhasználási igényeknek és az európai térinformatikai szabványoknak megfelelő alaptérképek az ország teljes területét fedjék le.
+
+## – többszintű adat-előállítással jöjjön létre a háttérszolgáltatásoknak egy olyan, szakosított rendszere, amely támogatja a ráépülő (üzleti és nonprofit) megoldásokat. Így az állami földmérési alaptérképek időigényes előállításával párhuzamosan, változatlan minőségben lényegesen hamarabb elkészülhet az ország teljes felületét lefedő digitális váztérkép-rendszer, mely legtöbb igényt ki tudna szolgálni.
+
+## – a szabad szoftverek esélyegyenlőségének biztosítása, önálló Nemzeti Szabad Szoftver Stratégia elkészítése megvalósíthatósági tanulmánnyal, amely biztosítja e szoftverek kormányzati munkában való felhasználását.
+
+## A fenti célok elérése érdekében készíteni kell egy értékelő, áttekintő tanulmányt a közadat-szolgáltatás eddigi gyakorlatáról, amelyre támaszkodva kialakítható az egységes adatszolgáltatási-rendszer technikai és gyakorlati háttere. A szabadszoftver térinformatikai kormányzati munkában történő felhasználásának elősegítése érdekében megvalósíthatósági tanulmányok mutassák be a szabad szoftverek előnyeit és hátrányait a hagyományos kereskedelmi szoftverekkel szemben, a térinformatikában rejlő előnyöket, az elkülönült adatbázisok rendszerbe szervezésének lehetőségeit, technikai hátterét.
+
+## II.2.10 Tudás, ismeret főirány
+
+## Célkitűzés: Az információs társadalom legfőbb termelőerejét jelentő információ és tudás fejlesztése, a lakosság széles köre számára biztosítva az információ megszerzéséhez és az elektronikus szolgáltatások igénybe vételéhez szükséges ismereteket..
+
+## A főirány központi kiemelt programja:
+
+| 15 | Digitális írástudás |  | e- learning, e-skill |  | Tudás, ismeret |
+
+## A 21. század írástudása
+
+## Az életminőség növelését célul kitűző információs társadalom stratégiában (és amindennapokban) bekövetkező változások elérhetetlenek az információforrások felhasználása és értelmezése, illetve a szolgáltatások kihasználása nélkül. Ahogy a kora-újkorban a latin nyelv olvasásának és használatának ismerete, illetve nem ismerete a társadalom szinte egészét kizárta bizonyos típusú párbeszédekből, jogokból és szolgáltatásokból, a számítógép és az internet értékteremtő használatának képessége, pontosabban ennek a képességnek a hiánya a magyar társadalom java részét kizárhatja a legfontosabb folyamatokból. A számítógépes írástudás elsősorban azoknak a készségeknek az együttesét jelenti, amelyek szükségesek különböző alkalmazói szoftverek használatához, a kifejezésben emiatt az információtechnológiai elemek túlzott dominanciája jellemző. A digitális írástudás fogalmához szorosan kapcsolódik a hálózati, az internetes, a multimédia- és a hipertext-írástudás, a nyomtatott, s a digitális dokumentumok közötti alapvető különbségekre koncentrál, az információs írástudás a technológia közvetítette tartalommal is foglalkozik, s több, mint készségek puszta hozzáadása a hagyományos írástudáshoz, ami magának az írástudás fogalmának megváltozását eredményezte. Kézenfekvő cél tehát
+
+## – a társadalom minél szélesebb rétegeinek kampányszerű és nagy tömegeket megmozgató, egységes alapokon nyugvó képzése,
+
+## – érzékelhető minőségi és mennyiségi előrelépés az internet-használat tömegesítésében.
+
+## A 21. század írástudásához vezető úton kulcsszerephez jut az ismeretterjesztés, a meggyőzés aprómunkája is: az igények felébresztéséhez szemléletet kell adni, kedvet kell teremteni, változatos csatornákon, valamennyi érintett szereplő bevonásával. A program főbb célcsoportjai a köztisztviselők, a nyugdíjasok, a kismamák, illetve az agrárszférában dolgozó és élő emberek – emiatt a program szorosan kapcsolódik az agráriummal és az esélyteremtéssel foglalkozó stratégiai feladatokhoz.
+
+## A főirányba illeszkedő NFT programok:
+
+| HEFOP 3. | Az NFT HEFOP 3. Program keretében az egész életen át tartó tanuláshoz szükséges, az információs társadalom szempontjából lényeges készségek és képességek fejlesztésének biztosítása, támogatása. |
+
+## II.2.11 Jogi-társadalmi környezet főirány
+
+## Célkitűzés: Az információs társadalmi szolgáltatások elterjedésének egyik legjelentősebb gátját jelentő fogyasztói bizalomhiány csökkentése, beleértve annak biztosítását, hogy a felhasználók biztonságban érezzék magukat mind a saját és idegen információk kezelését, mind a szolgáltatások megbízható működésének garanciáit illetően.
+
+## A főirány központi kiemelt programjai:
+
+| 16 | e-biztonság |  | eSecurity |  | biztonság |
+
+## Biztonságérzet és bizalom az információs társadalomban
+
+## Az információs társadalom kiépítését európai célként kitűző eEurope programok alternatíváinak visszaköszönő eleme a fogyasztói bizalom erősítése, mint egy olyan akadály felszámolása, amely az egyik legjelentősebb gát az internet penetráció növelése és az információs társadalmi szolgáltatások elterjedése előtt. A bizalom fontos része az, hogy a felhasználók biztonságban érezzék magukat mind a saját információjuk kezelését illetően, mind az idegen információ vonatkozásában. Az informatikai biztonság összetett kérdéskörét és növekvő jelentőségét figyelembe véve megállapítható, hogy az informatikai biztonság elsősorban nem technológiai kérdés, bár megteremtésében és fenntartásában jelentős szerepe van az információtechnológiai megoldásoknak. A felhasználói bizalom és biztonság megteremtését különböző technológiai megoldások is segítik, mint az elektronikus aláírás vagy az intelligens kártyák használata.
+
+## 2006-ig a stratégia az alábbi célokat fogalmazza meg:
+
+## – Az információs társadalmi szolgáltatások iránti bizalom és biztonságérzet növelése a minőségtanúsított rendszerek és szolgáltatások elterjesztésével.
+
+## – Az információs társadalmi felhasználók jogainak védelme érdekében az állami és civil szervezetek együttműködési formáinak kialakítása.
+
+## – Technológiai eszközök (elektronikus aláírás, intelligens kártyák, tokenek) széles körű alkalmazásának céljai: Jogszabályi és intézményi háttér kialakítása.
+
+## – Az elektronikus aláírás társadalmi tudatosítása, közigazgatási eljárásokban az alkalmazások feltételeinek kialakítása.
+
+## Kiemelt feladat a kormányzat részéről az informatikai rendszerekbe és hálózatokba vetett bizalom erősítése, az információbiztonsági tudatosság és ismeretek fejlesztése, valamint az informatikai biztonsággal és a minőségi elektronikus szolgáltatásokkal kapcsolatos eljárásrendek kialakítása és betartatása. A közszféra feladata a jogi környezet megteremtése, a megfelelő szervezeti keretek kialakítása és saját rendszerén belül a szükséges technikai feltételeket megvalósítása.
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| Digitális aláírás és bizalmas dokumentum-kezelés az egészségügyi szektorban | „Megbízható harmadik fél” (TTP) szolgáltatás, a digitális aláírás alkalmazási feltételeinek kialakítása, bevezetése az ágazatban, alkalmazkodva, hagymahéjszerűen épülve az eKözigazgatás kiépülő rendszerére. |
+
+| 17 | e-demokrácia |  |  |  |  | bizalom |
+
+## Az új technológiákkal a demokrácia megerősítéséért
+
+## A demokrácia program jellemzően a civil társadalom, a politikai tudatosság továbbá a nyilvánosság témaköréhez tartozó kérdéseket öleli fel, és végeredményben a politikai részvétel (participáció) megújítását szorgalmazza, ellépést egy aktívabb, a társadalmi döntésekbe való bevonódást erősítő, mérlegelő (deliberatív) demokrácia felé.
+
+## A program célja a demokrácia intézményrendszerének megerősítése és a politikába, illetve a demokráciába vetett bizalom növelése. A program hatására javulni fog a jelenlegi demokratikus intézményrendszer hatásfoka, könnyebben jelennek meg és formalizálódnak az új technológiákhoz köthető demokratikus potenciálok és hosszú távon növekedni fog a demokratikusság érzete. Az elindítani tervezett akciók közvetett eredményeként várható a magyar demokrácia megítélésének javulása.
+
+## A 2006-ig terjedő időszak céljai közül a következőket emeljük ki:
+
+## – Üvegzseb és átláthatóság: a nyilvános információk hozzáférhetőségének javítása.
+
+## – A társadalmi (civil) kontroll megerősítése.
+
+## – Politikai tudatosság és az állampolgári jogok gyakorlási lehetőségének kiszélesítése, sokoldalúbb kapcsolódási lehetőségek biztosítása.
+
+## – Új, a demokráciához köthető információs és kommunikációs technológiák széles körű kipróbálása, illetve lehetőség szerinti elterjesztése.
+
+## A fentebbi célok elérése érdekében számos feladat, projekt és kísérlet indul el, többek között a civil társadalmi hangok elektronikus megjelenésének biztosítása (társadalmi vita, konzultáció, szakértői adatbázis, infrastrukturális háttér), a költségvetési intézményekhez köthető közcélú dokumentumok (pl. szerződések) és nyilvános információk folyamatos internetes közzététele, országgyűlési és önkormányzati képviselők teljes körű elektronikus elérésének biztosítása, és egy elektronikus szavazási mintaprojekt kidolgozása.
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| Fogyasztóvédelem | Az információkommunikációs technológiák alkalmazásához speciális fogyasztóvédelmi rendszerek kialakítása, különös tekintettel az elektronikus tartalomszolgáltatásokra kialakított minőségi, etikai, morális vonatkozásokat is figyelembe vevő önszabályozó rendszerekre. |
+
+| e-Tár | Az információs társadalom kiteljesedéséhez szükséges biztonság növelésének megfelelő szervezeti keretek, eljárások, speciális megoldások kialakítása, az ún. stratégiai adattárak kezelésére alkalmas, biztonsági rendszer kialakítása. |
+
+## II.2.12 Kutatás és fejlesztés főirány
+
+## Célkitűzés: Az információs társadalommal kapcsolatos K+F feladatok az infokommunikációs tárgyú műszaki kutatásfejlesztési tevékenységeket, ezek alkalmazásaira vonatkozó valamint az információs társadalom tulajdonságait vizsgáló kutatásokat foglalják magukban.
+
+## A főirány központi kiemelt programja:
+
+| 18 | IT K+F |  |  | IST, FP6. eTen, eContent, GEANT, GRID |  | K+F |
+
+## Információs társadalom K+F
+
+## Az információs társadalom építésének kulcsfontosságú tényezője az adott ország K+F teljesítménye. A magas minőségű kutatási és innovációs tevékenységet eddig is nemzetközi igazodási pontok határozták meg, mostantól azonban kiemelt jelentőségre tesz szert a formálódó európai kutatási térben való jelenlét is. Az EU Hatodik keretprogramjánn belül az IST (Information Society Technologies) program jelöli ki a perspektivikus tudományterületeket és irányokat: az ide tartozó projektekben való sikeres részvétel a kutatásra és fejlesztésre használható anyagi erőforrást is bővítik, az ilyen teljesítmények minden szempontból támogatandóak. A nemzetközi összehasonlító vizsgálatokban tapasztalt visszaesés azonban további, összehangolt lépések sorát igényli, ezek közül a MITS a kutatási és fejlesztési tevékenységek két, jól meghatározható körére kíván hatást gyakorolni:
+
+## – Az IT K+F egyik oldalról az információs és kommunikációs technológiák kutatását és használatuk elterjesztését segíti, ezzel nemcsak a kutatómunkát támogatja, hanem korszerűsíti a tudományos értékalkotás fizikai infrastruktúráját és megkönnyíti a tudás- és technológiatranszfert. A magyar tudomány számára olyan ,,közeget” kell teremteni, hogy ez a sokszorozó hatás érzékelhetően és látványosan tudjon érvényesülni.
+
+## – Másik oldalról az információs társadalom ügye – nevének megfelelően – fontos társadalomtudományi feladatokat jelöl ki. Ez az információs társadalom szempontú helyzetértékelésnek, a stratégiai célok kimunkálásának, a megvalósítás segítésének és a változások mérésének gazdag, szerteágazó és folyamatos jellegű terepére visz: társadalompolitikai döntéseket megalapozó elmélyült kutatásokat, tudományos háttér-adatszolgáltatásokat, szakmai orgánumokat igényel, amelyeket létre kell hozni, illetve meg kell erősíteni. A kutatások egyik fontos célja magának a K+F tevékenységek vizsgálata abból a célból, hogy a kooperáció és a tudományos-szakmai kommunikáció élénküljön, hiszen az IKT nem jelent automatikus megoldást a meglévő tudáskapacitásunk optimális hasznosítására.
+
+## II.2.13 Esélyegyenlőség főirány
+
+## Célkitűzés: A pozitív diszkrimináció elvére építve konkrét lépéseket kell tenni az esélyegyenlőség három fontos területe (társadalmi, területi és interregionális) esélyegyenlőségek biztosítására.
+
+## A főirány központi kiemelt programja:
+
+| 19 | e-ernyő |  | e-inclusion |  | esélyegyenlőség |
+
+## A digitális szakadék szűkítése
+
+## Minden társadalmat jellemeznek különböző gazdasági-társadalmi okból eredő egyenlőtlenségek, mivel a rendelkezésre álló erőforrások nem egyenlő mértékben érhetők el mindenki számára. A modern információs és kommunikációs technológiai eszközök terjedése kumulatív módon hat a meglévő társadalmi hátrányok generálódására, azaz az IKT-eszközök hozzáférésének, használati módjának, az elérhető online tartalmak és szolgáltatások igénybevételének eltérő módja és mértéke tovább növeli a társadalmi megosztottságot, kirekesztést.
+
+## Mindezt a digitális megosztottság fogalma fejezi ki, amely egyrészt bemutatja és értelmezi ezeket az újfajta egyenlőtlenségeket, másrészt az okok feltárásával azonnal lehetőséget ad a megosztottság áthidalását elősegítő megoldások megfogalmazására. Nem arról van szó, hogy az IKT-eszközök megoldják a szegénység, a diszkrimináció problémáját, a társadalmi struktúrából eredő egyenlőtlenségeket. Az IKT-eszközökkel szembeni reális elvárás az, hogy segítsék elő a hagyományos társadalmi kizárás csökkentését, valamint segítségükkel az eddigieknél egy sokkal szélesebb alapú társadalmi részvétel valósuljon meg.
+
+## A MITS azokra a területekre koncentrál, ahol éppen az infokommunikációs eszközökhöz való hozzáférés és használat vonatkozásában képződnek hátrányok, azaz a társadalmi, a regionális és az interregionális megosztottságra.
+
+## Azonban ezek között is kiemelten kezeli a társadalmi esélyegyenlőséget biztosító Társadalmi integráció (e-Inclusion) programját (melynek kiemelt célcsoportjai: idősek, valamilyen fogyatékkal élők, romák, a digitális megosztottság szempontjából hátrányos helyzetben lévők).
+
+## A Társadalmi integráció programja a következő célok elérését szolgálja:
+
+## 1. A humán infrastruktúra megteremtését az E-esély pontok és IT-mentori rendszer kiépítésén keresztül: azaz olyan közösségi hozzáférési pontok hálózatának kialakítását, ahol nem csak az IKT-eszközök speciális használatának igényei elégíthetők ki, hanem a kiemelt célcsoportokat és a segítségül hívható infokommunikációs technológiát is jól ismerő IT mentor (szociális munkásba oltott informatikus) szakember is elérhetővé válik.
+
+## 2. A fogyatékkal élők normatív támogatási rendszerének kialakítását az otthoni és a közösségi pontokon történő hozzáférés és a használat elősegítésének érdekében.
+
+## 3. A célcsoportokkal foglalkozó, elsősorban civil szervezetek részben normatív alapú támogatását, valamint a hátrányos helyzetűek eszközellátásakor igénybe vehető adókedvezmények (szja, vállalkozási adó) biztosítását.
+
+## 4. A hátrányos helyzetűek specifikus oktatása, képzése, foglalkoztatását.
+
+## A főirányba illeszkedő kiemelt ágazati programok:
+
+| IT mentor | Nyilvános közösségi helyek szakképzett személyzetének felkészítése, a mentorok foglalkoztatási rendszerének kidolgozása, a mentori hálózat működtetése. |
+
+| Eszköz | Speciális csoportok és egyének IKT-eszközökhöz és internet eléréshez jutásának támogatása, a megfelelő feltételrendszer megteremtése. |
+
+| e-Esély | Az Információs Társadalomban a speciális kulturális esélyegyenlőség megteremtése, mely csökkenti a jövedelemkülönbségek, földrajzi és öröklött hátrányok okozta kulturális távolságokat, esélyt ad a kultúra értékeihez való hozzájutás minél szélesebb körű biztosítására, a tájékoztatásra és a befogadási készség fejlesztésére. |
+
+| eEgészség esélyegyenlőség | Egészségügyi és szociális információs szolgáltatásokhoz való hozzáférés támogatása fogyatékkal, hátránnyal élők számára, kapcsolódva az e-ernyő programhoz. |
+
+## III. AZ ÁGAZATI STRATÉGIÁK ÖSSZEFOGLALÓJA
+
+## e-Kormányzat 2005
+
+## A Magyar Köztársaság közigazgatását, kormányzati tevékenységét, közszolgálatait és igazságszolgáltatását korszerű elveken alapuló, hatékony és az állampolgárok igényeit középpontba állító működésnek kell jellemeznie. Ez jobb minőségű szolgáltatásokat jelent, a rendelkezésre álló erőforrások ésszerűbb felhasználásával. Példája és kisugárzása folytán a korszerűen működő közigazgatás és kormányzat a társadalom modernizációjának húzóerejévé válhat és demokrácia kiteljesítésének ígéretét hordozza.
+
+## Az e-kormányzás jövőképe
+
+## A hosszú és középtávú tervezés meghatározó eleme az a remélt állapot, amelyhez a kiválasztott feladatok végrehajtása révén az érintettek közelebb kívánnak kerülni. Az elektronikus kormányzat magyar stratégiájának jövőképe fél tucat igazodási pontot jelöl ki:
+
+## – A szolgáltató kormányzat és a szolgáltató állam kiépítésének egyik legfontosabb (de nem kizárólagos) eszközét az elektronikus kormányzat lehetőségei alkotják, amelyet a jövőben kihasználva Magyarország felzárkózhat az elektronikus kormányzati szolgáltatások fejlettségében és használatában élenjáró országokhoz
+
+## – Az elektronikus kormányzat fejlesztésével hatékonyabbá, olcsóbbá, átláthatóbbá válhat a közigazgatás, az állam működése
+
+## – A hatékonyabban működő, jobb szolgáltatásokat nyújtó közigazgatás révén válik lehetségessé a részvételi demokrácia kiszélesítése, az állampolgárok, az üzleti szereplők bizalmának növelése, az emberek nagyobb mértékű részvétele a politikai életben
+
+## – A nyilvánosság új fórumaival, az állampolgár-központú közszolgáltatásokhoz való könnyebb hozzáféréssel olyan környezet alakítható ki, amelyben a közigazgatási szervek és a közösségek folyamatosan megoszthatják tapasztalataikat, befolyásolhatják a helyi és országos e-kormányzati programok megvalósítását
+
+## – Egy szolgáltató és esélyteremtő állam egyre inkább az információ szabad áramlásának biztosításával képes csak feladatait betölteni. A közigazgatásnak tudatosan kell a konzultációs folyamatokat, lehetőségek kialakító folyamatok élére állnia
+
+## – Ha az információs és kommunikációs technológia (IKT) modern eszközeinek alkalmazása, használata és elterjesztése terén az állam vezető szerepet tud betölteni, a kormányzati munka sikerén túlmutató módon lesz képes támogatni a tudástársadalom kiépítésének folyamatát.
+
+## Az ,,elektronikus kormányzat” és a szolgáltató állam értelmezése
+
+## Az elektronikus kormányzat (e-kormányzat) kifejezés mára gyűjtőfogalommá nőtte ki magát. Ennek megfelelően jelentése nem ,,egynemű”, hanem több, párhuzamosan zajló folyamatot igyekszik megragadni. Teljes joggal értjük alatta
+
+## – a közigazgatás és az igazságszolgáltatás átfogó, minden szintet érintő reformját.
+
+## – technológiai modernizációját,
+
+## – a szolgáltatások és az ezeket elérhetővé tévő csatornák multifunkcionálissá válását,
+
+## – intézményesített, konzultatív, deliberatív viszony kialakítását kormányzat és polgárok, valamint azok közösségei között,
+
+## – amelyek együttesen egy új demokráciaállapot (e-demokrácia) kialakulásához vezetnek.
+
+## Az e-kormányzat tehát radikálisan újszerű, az eddiginél sokkal hatékonyabb, felelősségteljesebb hatalomgyakorlási-államigazgatási forma, amelynek középpontjában a ,,szolgáltató állam” koncepciója áll: a közszféra belső és külső kapcsolatainak átalakítása a modern információs és kommunikációs technológiai eszközök segítségével és az ezek révén megvalósítható tranzakciók által. ,,Szentháromsága”: hatékony kormányzati szolgáltatások ,,kifelé”, a kormányzaton ,,belüli” folyamatok újraformálása és az alkotmányos részvétel
+
+## Az e-kormányzat ,,érettségét” tekintve négy szakasz különíthető el:
+
+## 1. Jelenlét: pusztán statikus információk érhetők el az e-kormányzati szolgáltatásokkal kapcsolatban egy vagy több online felületen.
+
+## 2. Interakció: elemi funkciók megjelenése az e-kormányzati webkikötőkön, legfőbbképpen keresőmotorok, letölthető űrlapok, keresztcsatolások, e-mail címek formájában.
+
+## 3. Tranzakció: az első önkiszolgáló alkalmazások elkülönült megjelenése (a háttérben különböző közigazgatási szervek csapatmunkájával), majd a fejlett tranzakciós portálok (az online tranzakciók integrált szolgáltatáscsomagban való megjelenése), vagyis az ún. ,,egyablakos” módszer.
+
+## 4. Transzformáció: egyetlen központi (online) felületen keresztül megvalósuló komplex szolgáltatásegyüttes, mely átlátható kormányzati rendszert biztosít az állampolgárok számára, s amelyben kiszélesedik a szolgáltatások elérését lehetővé tévő csatornák száma.
+
+## Az e-kormányzat 2005 stratégia e fokozatokat nem ,,végigjárni” kívánja, hanem egyidejűleg több szint megvalósítását tűzi ki, mindig az adott funkció (szolgáltatás) fejlettségének megfelelően.
+
+## A stratégia igazodási pontjai
+
+## – E-demokrácia, nyilvánosságkezelés
+
+## – Kormányzati szintű tudásmenedzsment
+
+## – A fejlesztések összekapcsolása az esélyegyenlőség megteremtésével
+
+## – A centralizáció szükségessége
+
+## – A civil kontroll szükségessége
+
+## A jelenlegi helyzet értékelése
+
+## Az elektronikus kormányzat fejlesztése korántsem a nulláról indul: a korábbi fejlődési szakaszoknak köszönhetően már jóideje ,,élesben” folynak az egyes szervezetek elektronizálási programjai. A stratégiakészítőknek azonban számos nehézséggel kell szembenézniük. A társadalomban erős a bizalmatlanság és az elégedetlenség általában a közigazgatással, az ügyintézéssel, a sorbanállással kapcsolatban. Hasonlóképpen nagy a közegellenállás a közigazgatás különböző szintjeinek szereplői között a változtatásokkal szemben, és az erős ellenérdekeltség számos helyen jóideje megakasztja a fejlesztéseket, és – ami méginkább fájdalmas – nehezíti, hogy kialakuljon a modernizáció melegágyaként működő korszerű szemlélet. Az állam nem tölt be proaktív szerepet az állam és az egyes célcsoportok közötti online kapcsolatainak kialakításában, a deliberatív demokrácia és nyilvánosság megteremtésében az állampolgári elvárásoknak való megfelelés érdekében. A jogalkotás lassúsága, a szakmai szempontok háttérbe szorulása még a lehetséges programokat is lefékezi, pedig a fejlett IKT-eszközök miatt amúgyis rohamosan változó környezetben kell kialakítani a gyors reakcióra, változásra képes, rugalmas intézményrendszert. Ezt felkészült, jól kommunikáló, megfelelő digitális írástudással rendelkező szakembereknek kell működtetniük, a korszerűség, a bizalom, a hitelesség erősítése érdekében.
+
+## A legújabb e-kormányzati kezdeményezésekben élesen szétválnak a belső (az egyes közigazgatási szervek közötti kommunikáció és interakció) és a külső folyamatok (a közigazgatás és az egyes célcsoportok közötti kommunikáció/interakció/tranzakció), s ezekre a fejlesztéseknek, illetve az e-kormányzati stratégiának eltérő módon kell reflektálnia. Mindinkább látszik, hogy kormányzati szinten az ügyfolyam egységesítésének, szabványosításának irányába kell haladni, a szolgáltatásokat pedig a hierarchiát sugárzó hivatali térből ,,közelebb kell vinni” a társadalomhoz.
+
+## Az európai uniós környezet és az EU-elvárások
+
+## Az állandó online kormányzati jelenlét mára már kötelező feladattá vált, a sokrétű interaktív szolgáltatások elindítása és széles körű elterjesztése a közeljövő nagy feladata. Ennek háttereként átfogó portálrendszerek épülnek, amelyek ,,finom hangolásra” alkalmas módon találják meg a különböző célcsoportokat (jellemzően nem egyetlen központi webkikötő üzemel, hanem több).
+
+## Az Európai Bizottság 1999 végén hozta nyilvánosságra az első eEurope programtervezetet, amely minden uniós tagállam számára iránymutatást biztosít az információs társadalom kiépítésére. A terv célja egy megfelelő infrastruktúra kialakítása az új munkahelyek teremtésére, a termelékenység javítására, a közszolgáltatás fellendítésére, és az állampolgárok felkészítésére az elektronikus Európához történő csatlakozásra.
+
+## Mind a három eddig megjelent program – az eredeti eEurope2002 (amelyet 2000-ben dolgoztak Akciótervvé), a csatlakozó országokra vonatkozó eEurope+2003 (2001 júniusi) és a legújabb, az eEurope2005 (2002 júniusi) – megőrizte az ,,információs társadalom mindenkinek” jelszavát.
+
+## Az eEurope+2003 fontosabb feladatai a kormányzathoz kapcsolódóan:
+
+## – 2002: meg kell valósítani, hogy az üzleti szféra számára egyszerűbb legyen az online adminisztráció és könnyebb legyen a vállalatalapítás folyamata.
+
+## – 2002 végéig: elektronikus formában is hozzáférhetővé kell válniuk a közérdekű információknak.
+
+## – 2002 végéig: népszerűsíteni kell a nyílt forráskódú szoftverek használatát az állampolgárok körében, és támogatni kell minden olyan kezdeményezést, amely az e-kormányzati megoldásokkal kapcsolatos tapasztalatcserét segíti elő.
+
+## – 2002 végéig: meg kell teremteni a közintézmények, például múzeumok, könyvtárak internetes elérhetőségét.
+
+## – 2003 közepére: meg kell valósítani a legfontosabb közszolgáltatások online elérhetőségét.
+
+## A 2004-es csatlakozást követően azonban már nem az eEurope+2003, hanem az eEurope2005 célkitűzéseit kell megvalósítani. Mivel ezt a dokumentumot eredetileg a 15 tagállam számára készítették, a csatlakozó országok, így Magyarország számára is nagy kihívást jelent az abban foglaltak megvalósítása.
+
+## – 2003: a Bizottságnak keretprogramot kell kidolgoznia, amely egy páneurópai e-kormányzati szolgáltatási rendszer kiépítését teszi lehetővé az állampolgárok és a vállalkozások számára.
+
+## – 2003 végéig: meg kell határozni az interoperabilitás elveit (kölcsönös összekapcsolódás és működtethetőség)
+
+## – 2004 végéig: biztosítani kell minden tagállamban az alapvető közszolgáltatások online elérhetőségét, illetve lehetővé kell tenni a kétoldalú információáramlást (interaktivitás).
+
+## – 2005: a tagállamoknak szélessávú hozzáférést kell biztosítaniuk a közhivatalok számára.
+
+## – 2005 végéig: a közbeszerzés jelentős részének elektronikussá kell válnia, ki kell épülnie az online közbeszerzés rendszerének.
+
+## – 2005-ig a kulturális és turisztikai információk terjesztésére átfogó háttérrendszert kell kialakítani.
+
+## – Folyamatosan: Nyilvános Internet-hozzáférési Pontokat (PIAP) kell létrehozni a közösségi és helyhatósági szinteken, amelyek segítségével az állampolgárok rákapcsolódhatnak a rendszerekre, és igénybe vehetik a különböző szolgáltatásokat.
+
+## Az EKK feladatkörei az elektronikus kormányzat megvalósításában a következők:
+
+## – koncepció a kormányzati elektronikus szolgáltatások korszerűsítésére, (szolgáltatási rendszerek létrehozására, korszerűsítésére),
+
+## – elektronikus kormányzati szolgáltatási stratégia,
+
+## – a kormányzati elektronikus ügyintézés rendszerének kialakítása,
+
+## – elektronikus kormányzás kiépítésével, megvalósításával és elterjesztésével kapcsolatos kormányzati döntések koordinálása,
+
+## – a közigazgatási tevékenység nyilvánosssá tétele érdekében módszer kidolgozása a kormányzati informatikai tevékenység körében jelentkező közérdekű adatok, információk publicitására és felhasználhatóságára, majd
+
+## – ezen információk elérhetővé tétele.
+
+## Az eKormányzati informatikai közműszolgáltatást megvalósító intézményrendszer kialakítása
+
+## 1. Az eKormányzati közműszolgáltatások technikai és kommunikációs feltételeinek a megteremtése, a részt vevők és a kommunikáció hitelességének a biztosítása az állami, üzleti és magánszféra között (alap infrastruktúra: kormányzati web, intranet, címtár, biztonság, személy- és szerep-azonosítás ...)
+
+## 2. A mindenkor hatályos államigazgatási és közigazgatási eljárások lebonyolítását és a közérdekű információk nyilvánosságát elektronikus úton is biztosítani kell (törvénymódosítások, intelligens űrlap- és eljárástár, eljárás-logisztika, Kormányzati Portál)
+
+## 3. Nemzetközi elvárásoknak és kötelezettségeinkenk való megfelelés biztosítása (EU-kapu, szab-vány- és törvénytár, nemzetközi kijárat kiépítése...)
+
+## 4. A szolgáltatások bevezetésével, fejlesztésével és terjesztésével kapcsolatos feladatok ellátása. A meglévő szolgáltatások integrálása, ágazatok közötti koordináció, a humán erőforrások fejlesztése és szemléletformálás. A fejlesztés és az üzemeltetés üzleti alapon történő megvalósításához szükséges feltételek kidolgozása, felhasználás támogatása: Kormányzati Ügyfélkezelő Központ kapcsolat, EKR, Kormányzati Digitális Irattár stb. és az ágazati szolgáltatások csatlakozásának koordinálása
+
+## 5. Hatósági és felügyeleti funkciók ellátása, melynek célja, hogy megteremtse a felhasználók bizalmát, valamint garantálja, hogy a szolgáltatások a mindenkori törvényeknek megfelelnek.
+
+## 6. Társadalmi ellenőrzés és visszacsatolás lehetőségének a kidolgozása. Szakmai, tudományos szervezetek, szolgáltatók és felhasználók érdekképviseleti rendszerének a kidolgozása
+
+## Az e-kormányzat stratégia megvalósításának programjai:
+
+## 1. Alapinfrastruktúra Kiépítése Átfogó Program
+
+## Elektronikus Kormányzati Gerinc kialakítása és a kormányzati szervek csatlakoztatása.
+
+## Kormányzati elektronikus aláírás rendszer (PKI) kialakítása.
+
+## Egységes kormányzati címtár és levelező rendszer kialakítása.
+
+## 2. eSzabályozás Bővítése Átfogó Program
+
+## E-kormányzati irányelvek és ajánlások kiadása.
+
+## Eljárási és adatvédelmi szabályozások módosítása.
+
+## 3. eHatékonyság Építés Átfogó Program
+
+## A kormányzati működést támogató rendszerek, tartalmak és szolgáltatások fejlesztése.
+
+## Kormányzaton belüli rendszerek és alkalmazások integrációja (adat-hang integráció, ágazati rendszerek összekapcsolása, szervezeti önálló rendszerek kiváltása központi alkalmazásokkal).
+
+## Nyílt forráskódú fejlesztések támogatása.
+
+## Elektronikus közbeszerzési rendszer kialakítása.
+
+## 4. eSzolgáltatások Átfogó Program
+
+## Kormányzati portál továbbfejlesztése.
+
+## Köztársasági Ügyfélkezelő Központ infrastruktúrájának kialakítása.
+
+## Elektronikus fizetési rendszer kialakítása.
+
+## Elektronikus aláírás biztosítása társadalmi csoportoknak e-kormányzati ügyintézéshez és szolgáltatásokhoz.
+
+## Esélyegyenlőséget biztosító szolgáltatások és támogató rendszerek kialakítása.
+
+## Demokratikus állampolgári részvételt és a kormányzat átláthatóságát támogató rendszerek fejlesztése.
+
+## 5. eTudás Fejlesztés Átfogó Program
+
+## Tudatosságnövelő és motivációs program lebonyolítása, ügyfélkezelési tudás építése.
+
+## Kormányzatok közötti együttműködést erősítő programok (csapatépítés) lebonyolítása.
+
+## Köztársasági Ügyfélkezelő Központ intézményi hátterének kialakítása.
+
+## 6. EU Integráció Átfogó Program
+
+## A kormányzati gerinchálózat kapcsolódása az EU hálózatához.
+
+## Részvétel az EU e-kormányzati programjaiban és szervezeteiben.
+
+## Releváns e-kormányzati EU-s szabályozások és irányelvek átvétele.
+
+## Tájékoztatás nyújtása a kormányzati intézményrendszeren belül.
+
+## Pénzügyi szakstratégia
+
+## A stratégia elkészítésének célja olyan fejlesztési irányok meghatározása, melyek az állam és a társadalom kapcsolatának új, a korábbinál hatékonyabb és eredményesebb formáját hivatottak megvalósítani.
+
+## A stratégia rendeltetése a magánszemélyek és vállalkozások számára az információs társadalom előnyeinek kihasználásában történő segítségnyújtás az állami szolgáltatásokhoz való egyszerű hozzáférés által. A stratégia végrehajtásával jelentős költségmegtakarítás érhető el mind az állami intézmények, mind a társadalom számára. A költségmegtakarítás nem csak a postaköltségek csökkenéséből, vagy akár teljes elhagyásából, valamint az iratkezelési költségek radikális csökkenéséből ered. A stratégia végrehajtása által a legtöbb esetben kiküszöbölhető a személyes ügyintézés szükségessége, melynek eredményeképpen a társadalom számára időt és közlekedési költségeket, az állam számára időt és ügyintézői munkaráfordítást lehet megtakarítani. Jelentős állami megtakarítások jelentkeznek az egyes ügyintézési folyamatok egyszerűsödése által, melyeket a már elektronikusan rögzített, azonosított és előellenőrzött forrásadatok felhasználása jelent.
+
+## A dokumentum az Adó- és Pénzügyi Ellenőrzési Hivatal (APEH), a Vám- és Pénzügyőrség Országos Parancsnoksága (VPOP), a Magyar Államkincstár (MÁK), az Államadósság Kezelő Központ Rt. (ÁKK), a Kincstári Vagyoni Igazgatóság (KVI), a Diákhitel Központ Rt. (DK) és a Szerencsejáték Felügyelet (SZF) dokumentumai, valamint a fenti szervezetek vezetőivel vagy informatikai vezetőivel készült interjúkon alapszik.
+
+## Nemzetközi összehasonlításban a fenti intézmények által lefedett szolgáltatások jelentik az elektronikus állami szolgáltatások jelentős többségét.
+
+## Helyzetértékelés
+
+## A pénzügyi intézményrendszer jelenlegi helyzetét az információs társadalom célkitűzéseinek elérésére vonatkozó törekvés jellemzi. A legtöbb vizsgált intézmény ma is rendelkezik olyan szolgáltatásokkal, melyek az információs társadalom kiépítését célozzák, illetve elősegítik. Mások jelenleg hoznak létre, vagy terveznek ilyen típusú szolgáltatásokat. A legjelentősebb feladatok az APEH esetében fogalmazódnak meg. Ez megfelel annak a fejlett országok esetében jellemző tendenciának, mely szerint az államigazgatás által nyújtott elektronikus szolgáltatások jelentős részét az adóhivatalok adják. Ez természetesen nem jelenti az, hogy a többi intézmény által nyújtott vagy nyújtani tervezett szolgáltatások fontossága alulmaradna azt, adóhivataléval szemben. Épp ellenkezőleg: Magyarországon az információs társadalom fejlesztésének elengedhetetlen feltétele, hogy az érintett szolgáltatások teljes körben, és a követelményeknek megfelelő színvonalon álljanak rendelkezésre.
+
+## Lehetőségek
+
+## Az APEH, mint az egyik legnagyobb magyar szoftverfejlesztő központ (kb. 200 munkatárs), fejleszt olyan megoldásokat, melyek más intézményeknél is hasznosíthatóak. Ilyen pl. a bevalláskészítést támogató programcsomag, amely valójában egy általános célú nyomtatványtervező és -kitöltő eszköz. A rendszer segítségével megtervezhető a nyomtatványok látképe, felépítése, az egyes mezők közötti adatösszefüggések, ellenőrzések. Ennek alapján kitöltő program generálható, mely az internetről letölthető.
+
+## Az APEH jelentős tapasztalattal rendelkezik olyan elektronikus szolgáltatások fejlesztésében, melyek nagy adatmennyiségek feldolgozását is képesek elvégezni a megfelelő hatékonysági, biztonsági és kényelmi követelmények érvényre juttatása mellett. Ez a tapasztalat – amennyiben elérhetővé válna – a teljes magyar államigazgatás számára rendkívül hasznos lehetne. Az ezzel kapcsolatos feltételek megteremtésében és a szakterületek közötti koordinációs feladatok ellátásában fontos lenne IHM közreműködése.
+
+## Célok és feladatok
+
+## Európai Unió által is támogatott célok
+
+## Az Európai Unió elvárásaiból következően, illetve azokhoz kapcsolódóan több olyan cél is kijelölhető, melyek elérésével a szektor hozzájárulhat az információs társadalom fejlesztéséhez.
+
+## Magányszemélyek adóbevallásai
+
+## Magánszemélyek adóbevallásainak tekintetében a személyi jövedelemadó bevallások jelentik a legnagyobb volumenű elektronikus szolgáltatási lehetőséget, de kezelni kell a magánszemélyek más bevallási és adatszolgáltatási kötelezettségeinek támogatását is. Lehetővé kell tenni, hogy a magánszemélyek lekérdezhessék adófolyószámlájukat is.
+
+## Családtámogatási szolgáltatások
+
+## A magyar családtámogatási célú források elosztásában részt vesznek a területi államháztartási hivatalok. A családtámogatási (anyasági segély, családi pótlék, GYES, GYET stb.) megállapítása és odaítélése a jogosult kezdeményezésére papír alapú nyomtatványokon történik. Biztosítani kell ezen szolgáltatások elektronikus lebonyolításának lehetőségét. Mivel a családtámogatási források igényléséhez dokumentumokat is csatolni kell (pl. születési anyakönyvi kivonat, TAJ kártya), ezért ennek a szolgáltatásnak a kifejlesztéséhez a szükséges dokumentumoknak elektronikus formában is rendelkezésre kell állniuk.
+
+## Személyes okmányok
+
+## A személyes okmányok közül a szakstratégia tárgykörébe az adókártya tartozik. Az adókártya igénylésével és kiállításával kapcsolatos feladatok elválaszthatatlanok más személyes okmányok igénylésétől, illetve kiállításától. Ezért a személyes okmányok kezelésével kapcsolatos kérdéseket célszerű a MITS magasabb szintjén kezelni.
+
+## Igazolások
+
+## Az Európai Unió ezzel kapcsolatos elvárásai a magánszemélyekkel kapcsolatos igazolásokra (születési és házassági okmányok) vonatkoznak. Magyarországon jelentős valós igény mutatkozik a vállalkozásokkal kapcsolatos igazolások elektronikus kiadására. Ezek legjelentősebbike a köznyelvben ,,nullás papír”-ként ismert igazolás, mely arra vonatkozik, hogy a tárgyát képező vállalkozásnak nincs tartozása az állammal szemben. Mivel a vállalkozások tartozásainak legnagyobb hányada az APEH és a VPOP hatáskörében keletkezhet, ezért ezt a területet kiemelten kell kezelni (figyelembe kell venni, hogy a tartozásmentességet igazoló okmány kiállításához szükséges más szervezetek bevonása is pl. Munkaügyi Központok, Önkormányzatok).
+
+## Társasági adó bevallás
+
+## A társasági adó bevallással kapcsolatos elvárásoknak célszerű az ÁFA-bevallásokkal integráltan megfelelni.
+
+## ÁFA-bevallás
+
+## Az ÁFA-bevallások tekintetében az ország legnagyobb adózói már 1997 óta használnak elektronikus bevallást és ma már minden adatszolgáltatásukat és bevallásukat elektronikusan teljesítik Ezt a szolgáltatást kell kiterjeszteni az összes adóalanyra. Lehetővé kell tenni, hogy a társaságok elektronikusan el tudják végezni az számukra szükséges adófolyószámla-lekérdezéseket is.
+
+## Adatváltozások kezelése
+
+## Jelen pont kiinduló követelménye az Európai Unió által megfogalmazott elvárás a magánszemélyek költözésének elektronikus bejelentésével és egy új vállalkozás elektronikus bejelentésével kapcsolatban. Ha ezeket a követelményeket együttesen vizsgáljuk azt állapíthatjuk meg, hogy a követelmények kielégítésének magas színvonalú, integrált módja magában foglalja mind a magánszemélyek, mind a vállalkozások valamennyi adatváltozásának kezelését. Ideértjük tehát a név és a cím változását, valamint az egyéb, regisztrált adatokban történő változások kezelését is.
+
+## Vámügyintézés
+
+## A magán vámforgalom nemzetközileg elterjedt módja a határállomásokon valósul meg, a magánszemély jelenlétében. A személyes jelenlét tehát nem indokolja az elektronikus megoldásokat. A kereskedelmi vámforgalomban viszont a vámköteles kereskedelemmel foglalkozó vállalkozások és a nevükben esetleg eljáró vámügynökségek nincsenek, vagy nem feltétlenül vannak jelen a határállomásokon. Számukra jelenleg is léteznek olyan elektronikus megoldások, melyek alkalmazásával vámügyintézési feladataikat elláthatják. Ezek a szolgáltatások azonban fejlesztésre szorulnak a MITS céljainak megfelelően.
+
+## Közbeszerzés
+
+## Az elektronikus közbeszerzés célkitűzése vonatkozik jelen dokumentumra, ugyanakkor túlmutat annak hatókörén. Ezen a területen a teljes közbeszerzési körre vonatkozó egységes szolgáltatási struktúra megteremtése javasolható.
+
+## Hazai célok
+
+## Államkötvények forgalmazása
+
+## Az államkötvények kibocsátója az ÁKK, de az a szervezet közvetlen értékesítéssel nem foglalkozik, azt erre szerződött szervezetek végzik. Az értékesítésben a MÁK útján maga az állam is részt vesz. Az elektronikus értékesítés révén közvetlenül vásárolhatók és válthatók be államkötvények. Az államkötvények értékének kiegyenlítése, illetve jóváírása is automatikusan történhet. A kibocsátásról és árfolyamokról a befektetőket interneten szükséges informálni.
+
+## Az állami vagyon kezelése
+
+## Az állami vagyon kezelését nyilvános pályázat útján felhatalmazott szervezetek végzik. A pályázatok kezelése is végezhető elektronikusan továbbá az államnak szüksége van a végrehajtással és a vagyon jellemzőivel kapcsolatos adatokra melyeket a szervezetek ugyancsak elektronikusan nyújtanak. Az alkalmazott technológiák elavultak, nem képesek sem az elvárt szolgáltatási színvonal, sem a szükséges biztonság elérésére. Emiatt merül fel e szolgáltatási kör internet alapú továbbfejlesztésének igénye.
+
+## Költségvetési pályázatok kezelése
+
+## Költségvetési pályázatok kezelését erre kijelölt szervezetek (pl. MÁK) végzik. A feladatok elektronikus elvégzésének (elektronikus pályázatkiírás, elektronikus pályázatbeadás, esetleges hiánypótlás, értékelés, eredményhirdetés, szerződéskötés, végrehajtás ellenőrzése stb.) támogatására célszerű a teljes pályázatkezelő kört lefedő szolgáltatásokat létrehozni, melynek során figyelembe kell venni az Európai Unió által kezelt alapokból részfinanszírozott pályázatokkal kapcsolatos követelményeket is.
+
+## Elektronikus ügyfélszolgálatok
+
+## A pénzügyminisztériumi intézményrendszer mindegyike ellát ügyfélszolgálati tevékenységet. A kapcsolódó szolgáltatások elektronikus formában történő biztosítása jelentős könnyebbséget okozna mind az intézményrendszernek, mind az ügyfeleknek. A gazdaságos megoldás szakstratégia hatókörén túlmutatóan központi koordináció mellett az intézmények elektronikus ügyfélszolgálatának kooperatív megoldásában keresendő.
+
+## Elektronikus diákhitelezés
+
+## A diákhitel igen elterjedt a magyar oktatási rendszerben: a jogosultak kb. harmada él a hitel lehetőségével. A diákhitelt felvevők aránya folyamatosan nő. A hitelfelvétel teljes folyamatának elektronikus alapra helyezésével megszűnik a postaforgalom és a személyes ügyintézés igénye. Az elektronizált szolgáltatás kiterjed az adatbejelentésre, ügyfélszolgálatra és az intézményi kapcsolatok elektronizálására is.
+
+## Belügy
+
+## A belügyi ágazat már több kormányzati ciklus óta azzal küzd, hogy minden funkcionális területen működőképes maradjon. Ezért a stratégia tervezés során a célok kitűzése vonatkozásában viszonylag kis szabadsági fokkal rendelkezik. A stratégiai tervezés arra szorítkozik, hogy az ágazat előtt álló kihívásokat felismerje, és idejében felkészülhessen arra, hogy megfelelő (elfogadható) választ tudjon adni arra. Tehát az ágazat vezetése a jövőképet a kihívások felismerésével, a helyes prioritások meghatározásával tudja befolyásolni.
+
+## A Belügyminisztériumnak Magyarország legnagyobb ,,vállalatának” 2003 elején az informatikai helyzetét durván az alábbi adatok jellemzik: 932 fő teljes munkaidőben informatikai-távközlési feladatokkal foglalkozó munkatárs, 32000 számítógép, mintegy 200, az alaptevékenységeket támogató alkalmazás, 10 milliárd forintos 2002 évi éves informatikai célzatú költségvetés és mintegy 30 milliárd forintnyi eszközérték.
+
+## A minisztérium a következő tervezési ciklusban négy kihívást lát maga előtt, ennek való megfelelés érdekében határozta meg célrendszerét és feladatait:
+
+## – működés stabilizálás,
+
+## – az európai uniós csatlakozás,
+
+## – a közigazgatási reform, és
+
+## – az elektronikus közigazgatás megteremtése.
+
+## A MITS-ben megfogalmazott stratégiai fejlesztési területek között kiemelt jelentőségű az elektronikus aláírás társadalmi szintű elterjesztése, az informatikai alkalmazások minőségének és biztonságának hiteles tanúsítási rendjével összefüggő jogalkotási és intézményfejlesztési feladatok, valamint az információs társadalom szempontjából hátrányos helyzetű, leszakadó társadalmi rétegek felzárkóztatása, a digitális szakadék megszüntetése.
+
+## A belügyi ágazati szintű MITS részstratégiát a kormányprogramban, a Nemzeti Fejlesztési Tervben és a ,,Belügyminisztérium átfogó stratégiai fejlesztésének kulcsterületei és fő irányai (2003-2006)” tárgyú dokumentumban, valamint a belügyi stratégia alapján készített tárcaszintű szakmai és funkcionális fejlesztési prioritások alapján, alapvetően a belügyi szervek (BM KH, ORFK, BÁH, HÖR, OKF, TÁSZ és a Közigazgatási Hivatalok) informatikusaiból álló munkacsoport dolgozta ki.
+
+## A jelen anyagot készítő informatikusok tisztában vannak azzal, hogy az infokommunikációs technológiák alkalmazása a közigazgatásban sem önmagáért való dolog, hanem csupán eszköz arra, hogy a közigazgatás az állampolgár számára érthetőbb és számon kérhetőbb, azaz nyílt és átlátható, felhasználó központú, hatékony legyen. Mindezt a demokrácia kiszélesítésével, mindenkire kiterjedő és személyre szóló szolgáltatások megteremtésével lehet biztosítani, amelyhez eszköz az elektronikus kormányzat.
+
+## Az elektronikus kormányzat kihívás Európa számára, az akadály azonban nem a technológia, hanem a gondolkodás és a közigazgatás merevsége. Az elektronikus kormányzatot nem vezethető be a legmagasabb szintű politikai támogatás nélkül.
+
+## A cél azonban nem is az elektronikus kormányzat, hanem a jobb kormányzat megteremtése. A felesleges szabályozások megszüntetésével, a hatékony és világos adminisztrációval el lehet érni, hogy az állampolgár csak egyszer kérdezzen a számára láthatatlan, de 24 órában rendelkezésre álló kormányzattól. A szolgáltatások legyenek nyíltak, interaktívak, biztosítva a közvetlen részvételt is. Az elektronikus kormányzat az egész európai közigazgatás modernizációjában kulcsfontosságú szerepet tölt be a bürokrácia csökkentésével a versenyképesség, a közigazgatás termelékenységének és hatékonyságának növelésében, erőforrásokat szabadít fel, és több értéket szolgáltat az adófizetők pénzéért.
+
+## Az elektronikus kormányzat további megvalósítása a kormányzás különböző szintjein az együttműködési modellek alkalmazásával oldható meg, melyek legfőbb területei:
+
+## – Szervezeti változtatások, a közigazgatás alapvető átszervezése.
+
+## – Központi és helyi kooperáció és koordináció.
+
+## – A ,,Public-Private” együttműködés.
+
+## – A legjobb gyakorlati példák felhasználása.
+
+## – Az elektronikus kormányzat fejlesztésének folyamatos kutatása, monitorozása és értékelése.
+
+## Az Amszterdami Szerződés 1999. május 1-jei hatálybalépésével az Európai Unió célkitűzéseként a szabadság, a biztonság és a jog térségének megteremtése is megfogalmazást nyert. Az információs társadalom kérdéskörére vetítve ez az információáramlás szabadságát és a személyes adatokhoz való hozzáférés tekintetében a modern jogállam által megkövetelt biztonságot jelenti.
+
+## A szabadság és a biztonság összhangjának megteremtése érdekében hozták létre a Schengeni Információs Rendszert (SIS), amely a Schengeni Megállapodás és a Schengeni Végrehajtási Egyezmény részes felei által kijelölt hatóságok számára biztosítja, hogy az egész schengeni térségben hozzáférjenek meghatározott személyekkel és tárgyakkal kapcsolatos figyelmeztető jelzésekhez. A második generációs rendszer legkorábban 2006 végén lesz olyan készültségi állapotban, hogy hazánk csatlakozhat hozzá. Az ennek érdekében szükséges nemzeti informatikai rendszerek fejlesztését azonban kellő időben meg kell kezdeni.
+
+## Az Európai Bizottság az uniós szintű Vízuminformációs Rendszer (VIS) vonatkozásában vizsgálja a szinergiát a SIS II.-t és a VIS-t érintően. Ezzel arra kíván rámutatni, hogy mely területeken lehet azonos a rendszer, azonos a technológia. A VIS kapcsán fontos – uniós szintű politikai döntés is szükséges hozzá –, hogy biometriai adatok is bekerülhessenek a rendszerbe. Amennyiben a tagállamok rendelkeznek a helyszínen a technikával, az költséghatékonyan felhasználható lesz majd a SIS-hez és a VIS-hez egyaránt.
+
+## A személyek szabad mozgásának biztosítása az Európai Unió és Magyarország között komplex cél és feladat, mely többek között magában foglalja az uniós állampolgárok aktív és passzív választójogának biztosítását a helyi önkormányzati, valamint az európai parlamenti választásokon. Mindez azt jelenti, hogy a választójogra irányadó közösségi jogszabályok alapján a magyar jogrendszerben is meg kell teremteni annak lehetőségét, hogy a Magyarországon lakóhellyel rendelkező uniós polgár a lakóhelye szerinti államban szavazhasson és jelöltethesse magát mind az Európai Parlament választásain, mind a helyi önkormányzati választásokon. A 2004-es Európai Parlament megválasztásában már Magyarország is tagként vesz részt, így a magyar pártok is állíthatnak jelölteket.
+
+## Az információs technológia fejlődésének jelentőségét érintően az Európai Unióban az információs társadalom kiépítésének fontos eleme az alulról építkező intelligens település. Az önkormányzatok által létesített, a versenyszférát is támogató informatikai rendszerek telepítését az EU kiemelt témaként kezeli és támogatja. Ennek megfelelően számos olyan projekt indult, ami ezen információk korszerű feldolgozását, a felhasználókhoz, a polgárokhoz való eljutását, illetve üzleti hasznosítását kívánja megoldani.
+
+## A helyi önkormányzatokkal való interaktív kapcsolat kialakítása céljából biztosítani szükséges, hogy minden önkormányzat, illetve legalább a körjegyzőségek rendelkezzenek internet-hozzáférési lehetőséggel, e-mailes elérhetőséggel. Az információval való ellátás és a szakmai segítségnyújtás többféle csatornán keresztül valósulhat meg, azonban az információ eljuttatásának leggyorsabb, leghatékonyabb és legnaprakészebb módja az internet alapú információbázis létrehozása.
+
+## A BM jövőképét – a MITS összeállítását is érintően – legátfogóbban érintő stratégiai kihívás ágazatpolitikai szempontból a regionális önkormányzati és közigazgatási rendszer létrehozásának megvalósítása, valamint a stratégiai célok elérésének biztosítása a rendőrség, a határőrség, a katasztrófavédelem és a bevándorlási, állampolgársági igazgatás stb. területén. Ehhez az érintett szervek kidolgozták saját ún. szakstratégiájukat, amelyek szervesen illeszkednek a BM stratégiai célkitűzéseihez.
+
+## Célkitűzések:
+
+## A működés hatékonyságának javítása;
+
+## – szerződéses megoldások, szolgáltatás igénybevétel;
+
+## – az ingatlangazdálkodás megváltoztatása;
+
+## A megvalósítás szempontjai:
+
+## – ügyfélközpontúság, a gyors és egyszerű ügyintézés biztosítása;
+
+## – minőségfejlesztési programok szervezése;
+
+## – szervezetátvilágítás, a ,,jó megoldások” népszerűsítése.
+
+## A szervezeti struktúrák továbbfejlesztése
+
+## – az információáramlás javítása;
+
+## – szervezeti integráció – az irányítás centralizációja.
+
+## Legfontosabb feladatok:
+
+## Választás és népszavazás
+
+## 2004-től a választások idején külföldön tartózkodó állampolgárok jelentős részének is lehetősége legyen szavazatának leadására.
+
+## Anyakönyvvezetés, népességnyilvántartás, okmányrendszer
+
+## Közigazgatás korszerűsítési okokból és a népesség-nyilvántartás adatminőségének javítása céljából 2006-ra el kell készíteni a központi közhiteles címnyilvántartást (címkataszter).
+
+## Közlekedési nyilvántartás és közlekedésigazgatás
+
+## A jövőkép felé közelítő, szolgáltatásorientált, az EU csatlakozást figyelembe vevő, integrált rendszert kell kialakítani.
+
+## A közbiztonság védelme és a szervezett bűnözés elleni harc
+
+## Folytatni kell az egységes bűnügyi ügyfeldolgozó és lekérdező rendszer (Robotzsaru) fejlesztését. Az EDR alkalmazásával hatékonyan támogatni kell az ügyeleti rendszereket. A körözési információs rendszer fejlesztésénél kiemelten kell figyelembe venni, hogy adattartalma és fogalmi rendszere megfeleljen a magyar jogszabályi előírásoknak, valamint a SIS (Schengen Information System) követelményeinek.
+
+## A biometrikus elemek (ujjnyomat, fénykép stb.) alapján történő személyazonosításnak egyre nagyobb szerepet kell játszani a bűnüldözésben, várhatóan néhány elem a SIS II-es rendszer bővített adattartamának is részét fogja képezni.
+
+## Államhatár őrizet és határforgalom ellenőrzés
+
+## 2004-re a Határőrségnek az EU csatlakozás feltételrendszereinek megfelelően kell működnie, és 2006-ra teljesítenie kell a schengeni előírásokat. Fontos feladat a teljes körű hálózat kiépítés befejezése, valamint alternatív adat- és hangátviteli hálózat biztosítása. A határőrizeti eszközök és alkalmazások (felderítő rendszer, rádió kommunikációs rendszer, GPS hálózat, lépésérzékelők és éjjellátó berendezések, mobil egységek számítógépeinek) integrálásával 2005-ig hatékony, egységes tevékenységtámogató rendszer jön létre.
+
+## Új, lakossági szolgáltatásként a HŐR bevezeti a határinformációs rendszert, mely a határállomások nyitvatartási rendjéről, forgalmáról, a várható átlagos határátkelési időhosszról nyújt tájékoztatást, valamint – zsúfoltság esetén – alternatív átkelőhely ajánlásával segíti a ki-, illetve beutazni kívánókat.
+
+## Állampolgárság, menekültügy, migráció és idegenrendészet
+
+## Az EU követelményeknek is megfelelő, integrált rendszernek kell támogatnia 2006-ban az állampolgársági, a menekültügyi, a migrációs és az idegenrendészeti feladatok ellátását. Az integrált rendszer fejlesztésekor meg kell történni a népességnyilvántartás és a menekültügyi rendszerek jogi és informatikai összehangolásának.
+
+## Katasztrófavédelem
+
+## Veszélyhelyzetekben a bevetések koordinálását komplex térinformatikai rendszernek kell támogatnia, amely település szintű adatokat tartalmaz. Kiemelt feladat a veszélyes áruk fuvarozásának katasztrófavédelmi szempontú informatikai támogatása.
+
+## Az önkormányzatok
+
+## Az önkormányzatok a belügyi, illetve kormányzati felületeken az ügyfelek számára tájékoztatást, valamint elektronikus ügyintézési lehetőséget biztosítanak. Az okmányirodai rendszereket a későbbi kistérségi hivatalok munkájának támogatására fel kell készíteni. Az önkormányzatok működésének egységesítése érdekében egységes, szabványos iratkezelési rendszert kell kialakítani, ügyfélszolgálat szervezési, ügyfél-irányítási rendszereket, valamint a központi fejlesztésű okmányirodai rendszerek közötti adatkapcsolatokat.
+
+## Építésügy, területfejlesztés és lakásügy
+
+## Az építésügyi, a területfejlesztési és a lakásügyi feladatok ellátását 2006-ban egy országosan használt digitális alaptérképnek kell támogatni. A digitálisan rendelkezésre álló rendezési tervek nyilvántartására építve alakítható ki és támogatható az egyedi építési engedélyekkel kapcsolatos ügyek gyors és szakszerű megoldása.
+
+## Az építésügyi és lakásügyi feladatokat ellátó szervezeteknek elektronikus betekintési jogosultsággal kell rendelkezniük a földhivatal tulajdoni lap nyilvántartásába: ki kell alakítani a Belügyminisztérium oldali lekérdező felületet és adatkapcsolatot.
+
+## A közigazgatás-szervezés fejlesztés
+
+## 2006-ra a Belügyminisztériumnak korszerűsíteni kell a közigazgatási alap- és szakvizsgák szervezését, továbbá a köztisztviselői kar nyilvántartását.
+
+## Szabálysértés
+
+## A jövőben – az önkormányzatoktól is átvéve – kizárólagos állami feladattá válik az összes szabálysértési eljárás lefolytatása. A szabálysértési ügyeket intéző hivatal és a munkáját támogató nyilvántartás jogi és igazgatási előkészítésének az Igazságügyi Minisztériummal és a Miniszterelnöki Hivatallal közösen 2004-ben meg kell történnie.
+
+## Kiszolgáló/támogató területek
+
+## – Közgazdasági rendszerek fejlesztése
+
+## – Humán rendszerek fejlesztése, integrálása
+
+## – Ügyvitelszervezés fejlesztése, informatizálása
+
+## Önkormányzat
+
+## Az Európai Unió tagállamaiban a települési és területi önkormányzatok, a versenyszféra szervezeteihez hasonlóan, egyre inkább a széles körű funkcionalitást megvalósító, integrált irányítási rendszereket alkalmazzák. Ezek funkcionalitása felöleli az önkormányzatok valamennyi feladatát, beleértve az online közigazgatási szolgáltatásokat és az azokat ,,háttérből” kiszolgáló közigazgatás-ügyvitelt, a költségvetést és további területeket.
+
+## Magyarország 2004. május 1-jén csatlakozik az Európai Unióhoz. Ettől az időponttól kezdve a hazai közigazgatásnak, beleértve a települési és területi önkormányzatokat is, EU tagállami közigazgatásként kell tudni működnie. Ez magában foglalja a szolgáltató közigazgatás, ügyfélközpontú ügyintézés megvalósítását. A célkitűzés teljesítése érdekében jelentősen fejleszteni kell a helyi közigazgatás, az önkormányzatok informatikai hátterét.
+
+## Biztosítani kell, hogy minden magyarországi településen minél előbb rendelkezésre álljon a megfelelő sebességű és nagy megbízhatóságú internet-hozzáférés. Korszerűsíteni kell a települési, területi és a kisebbségi önkormányzatok infokommunikációs eszközparkját. A korszerűtlen, szigetszerűen működő információs rendszereket fel kell váltani a korszerű, globális, integrált rendszereknek.
+
+## Csökkenteni kell az információs rendszerek, infokommunikációs eszközök komplex költségeit (TCO-ját). Ennek érdekében támogatni kell a beruházási, finanszírozási igényt csökkentő lehetőségeket, beleértve az alkalmazásszolgáltatást is. A kistelepülések esélyegyenlősége megteremtése érdekében támogatni kell a kistérségek közös informatikai fejlesztéseit (alkalmazások, eszközpark) és a közös rendszerüzemeltetést.
+
+## Elektronikus közszolgáltatások, ügyintézés
+
+## A közszolgáltatások végzésére vonatkozó európai uniós ajánlás, a ,,Common List of Basic Public Services” a tagállamok számára kötelezettségeket határoz meg az állampolgároknak, illetve az üzleti élet szereplőinek elektronikusan nyújtandó közszolgáltatások körére és azok interneten keresztül történő igénybevételének szintjeire vonatkozóan.
+
+## Az EU ajánlásban szereplő közigazgatási szolgáltatások közül Magyarországon az alábbiak érintik elsősorban az önkormányzatokat:
+
+|  | • | az állampolgárok vonatkozásában |
+
+|  | • | személyi okmányok (személyi igazolvány útlevél, gépjárművezetői engedély) |
+
+|  | • | hatósági igazolások (születési, házassági, halálozási anyakönyvi kivonatok) |
+
+|  | • | lakcímváltozás bejelentése |
+
+|  | • | gépjármű-regisztráció, súlyadó-fizetés, |
+
+|  | • | építési engedélyezés, |
+
+|  | • | szociális juttatások, támogatás fizetése, |
+
+|  | • | helyi adózás (pl. üdülőhelyi adó), |
+
+|  | • az egészségüggyel kapcsolatos szolgáltatások (interaktív tanácsadás, az egyes intéz- ményekben elérhető szolgáltatások, bejelentkezés stb.) |
+
+|  | • | az üzleti szféra szervezetei vonatkozásában |
+
+|  | • | iparűzési adó, gépjármű-súlyadó, |
+
+|  | • | engedélyek (pl. iparengedély, telephely-engedély) kiadása stb. |
+
+## Az elektronikus közigazgatási ügyintézés, szolgáltatás fejlettségének mérése (benchmarking) annak alapján történik, hogy az állampolgárok, illetve az üzleti vállalkozások részére javasolt szolgáltatások közül melyek valósultak meg, s hogy melyik fejlettségi szinten.
+
+## A stratégiában megjelölt fontos feladatok:
+
+## – Országosan egységes közigazgatási fogalomtár és adatbázis, valamint ügyintézést segítő adattár kidolgozása, folyamatos karbantartása és használatának megvalósítása
+
+## – A különböző (miniszteriális, központi, regionális, kistérségi, települési) közigazgatási rendszerek együttműködésének és adatbázisok közös használatának feltételei, megvalósítási feladatainak és azok ütemezésének meghatározása
+
+## – A személyi adatok interneten történő mozgása esetében az adatvédelem és az elektronikus kommunikáció biztonságának vizsgálata az Európai Unió direktívái és a nemzetközi gyakorlat elemzésével
+
+## – Az önkormányzatok ügyfeleinek azonosítására, adatok ,,mobil” tárolására smart kártya kibocsátása és használata lehetőségének elemzése, a kártya alkalmazásának megvalósítása
+
+## – Országos önkormányzati portál megvalósítása (a Kormányzati Portál önkormányzati ,,megfelelője”)
+
+## – Kistérségi informatikai együttműködések kialakítása, közös rendszerfejlesztések megvalósítása, rendszerek közös üzemeltetése
+
+## – Az önkormányzatok részére alkalmazásszolgáltatás megvalósítása, bevezetése
+
+## – „e-ügyintézők az e-önkormányzatban” képzési program
+
+## – Közösségi internet-hozzáférési pontok létrehozása – információszolgáltatás, e-Ügyintézés
+
+## – e-Ügyintézés – az ügyintézéshez szükséges űrlapok online kitöltése, hitelesítése, megküldése
+
+## – e-Ügyintézés – teljes elektronizált közigazgatási ügyintézés (döntés, kézbesítés, illeték)
+
+## Egészségügy
+
+## Magyarországon a halálozási és életminőségi mutatók romlásához a XX. század utolsó harmadában hozzájárult az egészségügyi rendszer végig nem vitt reformja. A fejlett világtól való lemaradásunk tovább nőtt az orvostudomány és a határterületek, például az egészségügyi informatika viharos fejlődése közepette. A rendszerváltozás óta a népesség egészségügyi állapota alig javul, és megoldatlan a népesség fogyásából és elöregedéséből eredő demográfiai csapda kezelése. A helyzet kezelésére kidolgozott népegészségügyi és az ellátórendszer reformját célzó programok megvalósítása csúszott, aminek az egészségügyi informatikával kapcsolatos okai:
+
+## – a nem megfelelő mennyiségű és minőségű, elektronikusan elérhető egészségügyi és szociális információ és ismeret, az ennek hiánya miatt is nem kielégítő információszolgáltatás a lakosság, az ellátók, a döntéshozók számára;
+
+## – az ágazati infokommunikációs feltételrendszer fejletlensége;
+
+## – az egészségmonitorozási és jelentési rendszer korszerűtlensége, a stratégiai döntés-előkészítő, -támogató, -elemző kapacitás fejletlensége, a tényalapú szakpolitizálást kiszolgáló tudásgazdál-kodás hiánya.
+
+## A stratégia alapvető megközelítése az egyén, a közösség informáltságának és kommunikációs helyzetének javítása, a lakosság életminőségének emelése. Ugyanakkor az egészséggel, betegséggel és szociális állapottal kapcsolatos információ, tudás és készségek alkotta információs vagyon birtokában az ágazat működési hatékonysága is növelhető. A stratégia megalapozza a magas szintű egészségkultúra és szociális biztonság, a tudományos bizonyítékokon alapuló orvoslás magyarországi kialakulását.
+
+## Az egészségügyi ágazatban rendelkezésre állnak azok az alapok, amelyekre az informatikai koncepció épülhet. Több jelentős informatikai projekt valósult meg, azonban ezek eredményei egy komplex nemzeti stratégia keretében hasznosulhatnak a maguk teljességében. A prioritások között kell megemlíteni az integráció megerősítését, az amortizáció pótlásának megoldását és a humán-szervezeti elemek (pl. orgware, szakmai fórumok) jelentőségének növelését. A szociális ágazat feladatai hasonlóak, azonban relatív elmaradottsága miatt gondot kell fordítani az alapinfrastruktúra nagyobb arányú bővítésére is.
+
+## Az ,,eEurópa 2005: Információs társadalom mindenkinek” az eEgészség területén három akciót javasol, amelyek az alábbiak:
+
+## − az elektronikus egészségkártyával kapcsolatos fejlesztések,
+
+## − egészséginformációs hálózatok létrehozása a népegészségügyi adatokra vonatkozóan, illetve az egészségre vonatkozó veszélyekre való reagálás céljából,
+
+## − az online egészségügyi szolgáltatások fejlesztése.
+
+## A 2003-as népegészségügyi munkaterv prioritásai az egészséginformáció területén a következők:
+
+## − az egészséginformációs rendszer fejlesztése és koordinálása,
+
+## − az egészségmonitorozási és jelentési rendszer működtetése,
+
+## − a népegészségügyi jelentések és elemzések készítésének fejlesztése,
+
+## − az EU szintjén javítani az adatokhoz való hozzáférést és azok megosztását, EU népegészségügyi portál létrehozása,
+
+## − az eEgészség program.
+
+## eHealth 2003 konferencián elfogadott miniszteri nyilatkozat három témakört jelöl ki:
+
+## – Az egészségügyi ellátás minőségének javítása és hatékonyságának fokozása IT applikációkkal. Ezen belül a miniszterek kiemelték a gyors, pontos és minél teljesebb adatcsere szükségességét.
+
+## – Az állampolgárok fokozottabb bevonása a jó minőségű információkhoz való hozzájutáson keresztül.
+
+## – A ,,legjobb gyakorlat” (best practices) kifejlesztése és elterjesztése az eEgészségben. Kiemelten meg kell teremteni a heterogén rendszerek és szolgáltatások interoperabilitását biztosító szabványokat, amennyiben lehetséges nyílt forráskódú alkalmazásokkal, valamint tovább kell fejleszteni az IKT applikációk értékeléséhez szükséges mutatókat.
+
+## A MITS részeként és az európai uniós eHealth programmal egyeztetve, az eEgészség stratégia megvalósulása a lakosság életminőségét közvetlenül befolyásolja az egyén és a közösség egészséggel és szociális helyzettel, kapcsolatos informáltságának és kommunikációs helyzetének javításával, az esélyegyenlőség e területen alkalmazható IKT-eszközeinek alkalmazásával. Az információs vagyon működtetése növeli az egészségügyi és szociális ellátási és más kapcsolódó rendszerek hatékonyságát. A stratégia megalapozza a tényalapú szakpolitizálást kiszolgáló tudásgazdálkodást, mely fokozza az igazgatás eredményességét, és összességében lehetővé teszi a magas szintű egészségkultúra és szociális biztonság magyarországi kialakulását. A MITS-ESZ megvalósulása szolgálja az Európai Unióhoz csatlakozásunkkal kapcsolatos feladatokat is.
+
+## Az egészségügyi és szociális ellátások az információs társadalomban
+
+## Kiemelt célok:
+
+## – Hiteles és jó minőségű, közérdekű és szakmai információk, ismeretek előállítására alapozva elektronikus tartalomszolgáltatások fejlesztése, információszolgáltatás a lakosság számára internetes és telefonos ügyfélszolgálati csatornákon, valamint a szakmai célközönség számára.
+
+## – Egészségügyi és szociális szolgáltatók integrált (interoperábilis) információs rendszereinek és azok feltételrendszerének fejlesztése.
+
+## – Egészségi és szociális indikátorrendszer, jelentési rendszer (népegészségügyi jelentés, adattár) fejlesztése, a monitorozási rendszer korszerűsítése, harmonizációja az európai ajánlásokkal és nemzetközi adatszolgáltatási kötelezettségekkel; Internet alapú egészségadattár működtetése.
+
+## – Az ágazati kutatási-fejlesztési és oktatási tevékenység és az innovációs kultúra ösztönzése.
+
+## A kiemelt célok megvalósítását közvetlenül szolgálják az alábbi tartalmak:
+
+## – az egészség- és szociális portál létrehozása, lakossági internetes és telefonos tájékoztató és irányítórendszer létrehozása;
+
+## – az indikátorrendszer fejlesztése, a monitorozási rendszer korszerűsítése;
+
+## – az eEgészség fogalomtárak, szabványok és alkalmazások bevezetése;
+
+## – az (egészségügyi és szociális) szolgáltatók, a gyógyszerek és gyógyászati segédeszközök, illetve az orvosok elektronikus közhiteles nyilvántartásának fejlesztése;
+
+## – regionális integrált egészségügyi minta információrendszerek fejlesztése;
+
+## – a digitális aláírás egészségügyi és szociális alkalmazási feltételeinek létrehozása.
+
+## Az egészségügyi ágazatra vonatkozó célok
+
+## 1. Egészségügyi, szociális információ és ismeret-előállítás, információszolgáltatás
+
+## – Információs esélyegyenlőség az információhoz és tudáshoz való jutás kiegyensúlyozott hozzáférésének biztosításával.
+
+## – Az egészséggel és az egészségügyi, illetve a szociális szolgáltatásokkal kapcsolatos közérdekű és szakmai információk, ismeretek előállítása.
+
+## – Elektronikus tartalomszolgáltatások fejlesztése, rendelkezésre bocsátása a szakmai célközönség számára.
+
+## – Információszolgáltatás a lakosság számára internetes és telefonos ügyfélszolgálati csatornákon.
+
+## – Egészségügyi virtuális piactér információtartalmának kialakítása.
+
+## 2. Feltételrendszer megteremtése
+
+## 2.1 Infokommunkációs környezet
+
+## – Az eEgészségügy infrastrukturális, szabványi és eszközös megalapozása:
+
+## – Nyilvános kulcsú infrastruktúra (PKI) egészségügyi és szociális alkalmazásának megalapozása.
+
+## – Az ágazati fogalomtár és fogalomkezelési technológia, valamint szabványok kialakítása.
+
+## – Alapnyilvántartások, közhiteles nyilvántartások körének bővítése, nyilvántartások elektronizálása.
+
+## – Telemedicinális (távdiagnosztikai és távgyógyászati) alkalmazások rendszerbeállításához szükséges kapacitások fejlesztése.
+
+## – Elektronikus dokumentumkezelő rendszerek ágazati alkalmazásának támogatása.
+
+## – Az egészségügyi szolgáltatók információkezelésének fejlesztése, a gyógyító-megelőző ellátások biztonságosságát, minőségét, hatékonyságát növelő, rendszerbe integrált informatikai megoldások bevezetése.
+
+## 2.2 Társadalmi környezet
+
+## – A különböző elektronikus szolgáltatásokkal kapcsolatos jogi szabályozási feltételek kidolgozása, különös tekintettel az adatvédelemre és hozzáférési jogosultságok szabályozására.
+
+## – Ágazati humánerőforrás-fejlesztés és -gazdálkodás támogatása.
+
+## – Az egészségügyi és szociális informatika oktatásának bővítése, a szakirányú képzési rendszerbe történő beillesztése.
+
+## – Ágazati szakképzés korszerűsítése távoktatási rendszerek bevezetésével.
+
+## – Az ágazaton belüli informatikai fejlesztések finanszírozási feltételeinek javítása, az európai uniós normáknak megfelelő finanszírozási feltételek kialakítása.
+
+## 3. Ágazati tudáshasznosítás
+
+## – Egészségi- és szociálishelyzet-monitorozó rendszerek fejlesztése, harmonizációja a megvalósítás alatt levő népegészségügyi programmal, nemzetközi adatszolgáltatási kötelezettségekkel.
+
+## – Az egészségügyi és szociális szolgáltatások minőségét, eredményességét, hatékonyságát monitorozó rendszerek fejlesztése, harmonizációja az európai ajánlásokkal.
+
+## – A bizonyítékalapú ágazati szakmai tervezést segítő döntéstámogató rendszerek bevezetése.
+
+## – Ágazati kutatási-fejlesztési tevékenységek és innovációs kultúra ösztönzése az eEgészségügy témakörében megvalósított mintaprojektek által.
+
+## A szociális ágazatra vonatkozó specifikus célok
+
+## – Az államigazgatási döntéshozatal támogatása.
+
+## – Az államigazgatási ügyvitel támogatása.
+
+## – Az elektronikus ügyintézés lehetőségeinek, módszereinek fejlesztése:
+
+## - központi közigazgatási eljárásokban,
+
+## - helyi, területi közigazgatási eljárásokban.
+
+## – A lakossági információ-hozzáférés támogatása.
+
+## – A központi és helyi nyilvántartási rendszerek fejlesztése.
+
+## – Akadálymentesítés az informatika lehetőségeivel, hogy a képességeikben korlátozott emberek mind jobban kihasználhassák az informatika nyújtotta lehetőségeket képességeik kiteljesítésére.
+
+## – A hátrányos helyzetű csoportok informatikai felzárkózásának támogatása.
+
+## – A területen dolgozó szakemberek informatikai tudásának fejlesztése, készségeinek gyarapítása.
+
+## Az eEgészség stratégia célkitűzéseinek elérhetősége döntő mértékben függ az elektronikus közigazgatás alapjait biztosító infrastruktúra kiépítésének megvalósításától, a közösségi hozzáférési lehetőségek számának növekedésétől és a digitális írástudás elterjedésétől.
+
+## Egészségbiztosítás
+
+## Az Országos Egészségbiztosítási Pénztár (OEP), mint országos hatáskörű központi államigazgatási szerv amellett, hogy önálló információs stratégiát készített, az Egészségügyi és Szociális Ágazati Információs Stratégia megalkotásában is aktív szerepet játszott. Így bizonyos területeken az OEP információs stratégiai elképzelései megjelennek az ágazat tervében is, mivel ezek az ESZCSM és IHM ágazati információs stratégiai munkacsoportja által bedolgozásra kerültek.
+
+## Az OEP informatikai stratégia legfőbb célja három különböző feladat magas szintű megoldása:
+
+## – támogassa és kiszolgálja az OEP egészségbiztosítási finanszírozáshoz kapcsolódó reformtörekvéseit,
+
+## – tekintse alapfeladatának a megbízható és folyamatos működés biztosítását,
+
+## – az egészségügy más szereplőivel együttműködve járuljon hozzá az egészségügyi rendszer informatikai infrastruktúrájának korszerűsítéséhez.
+
+## E három cél egyidejű szem előtt tartása a menedzsmenttől korszerű szervezetfejlesztést, a munkatársaktól folyamatos szakmai önképzést, a döntéshozóktól bizalmat és elkötelezettséget igényel.
+
+## Országos intézményként költségigényes a megfelelő adatátviteli hálózat biztosítása központunknak a megyei egészségbiztosítási pénztárainkkal és azok kirendeltségeivel. Ezért rendkívül nehéz adat-kapcsolatot teremteni az ellátási szintek (alapellátás, járóbeteg-szakrendelés, fekvőbeteg-ellátás) között. Nehéz, szinte lehetetlen megbízható népegészségügyi vagy minőségi paraméter adatokat gyűjteni. Egységes integrált információs rendszer kialakításának további akadálya, hogy a fekvőbeteg teljesítmények elszámolása jelenleg a GYÓGYINFOK-nál történik.
+
+## Az első lépések ennek ellenére már megtörténtek az integrált egységes egészségügyi rendszer megteremtése irányába. Létezik egységes TAJ adatbázis minden ezt igénylő alkalmazás kiszolgálására, megkezdtük további közhiteles alapadat adatbázisok szervezését (gyógyszer, orvos, szolgáltatói szerződések nyilvántartása), bár az utóbbiaknak nem az OEP a dedikált felelőse. Fejlesztési végfázisban van egy egységes, integrált finanszírozási rendszer, amely kiváltja a szigetszerű alkalmazásokat (ePénz). Létezik és folyamatosan bővül az OEP adattárház, amely az adatszolgáltatások és elemzések tekintetében központi szerepet kap a jövőben.
+
+## Az információs és kommunikációs technológia a már megszokott öntörvényű folyamatos átalakulásán túlmenően – növekvő fontosságának megfelelően – pénzügyi, jogi, hatalmi befolyások miatt is állandó változásban van. Ezek egyszerre jelentenek új lehetőségeket és veszélyeket az informatikai piac minden szereplőjének, de különösen a feltörekvőknek.
+
+## A legfontosabb szempontok a kiszolgáltatottság elkerülése – nyílt szabványok, nyílt rendszerek-, technikai és pénzügyi hatékonyság, és ami az egészségügyben különösen fontos a hosszú távú üzemeltethetőség és elérhetőség.
+
+## Az Internet szolgáltatásban kialakult monopol helyzet – az ebből fakadó extrém magas árakkal párosult alulfejlettség – alapvető akadálya annak, hogy a biztosítottak nagy arányban juthassanak az Internet segítségével egészségügyi információkhoz és szolgáltatásokhoz. Megfelelő szabályozás és állami beavatkozás nélkül fenn áll a veszélye, hogy az elektronikus közigazgatás számára is fontos PKI szolgáltatások (kulcshitelesítés) terén hasonló állapot alakuljon ki.
+
+## Az Európai Tanács 2002. március 20-i, barcelonai ülésén döntés született egy európai egészségügyi kártya kialakításáról. A tagállamoknak 2004. június 1-jétől képesnek kell lenniük az Európai Egészségügyi Kártya bevezetésére, és törekedniük kell arra, hogy az új kártyát idővel a nemzeti kártya magában foglalja. Egy legfeljebb 2005. december 31-ig átmeneti időszak biztosítható az újonnan csatlakozó tagállamoknak (így Magyarországnak is), illetőleg azon régebbi tagállamoknak, amelyek nem alkalmaznak egészségbiztosítási kártyát. Bár a kártya bevezetésének nehézségeire és a várható magas költségekre tekintettel Magyarország él a derogáció lehetőségével, a kártyakibocsátásnak legkésőbb 2006. január 1-jén akkor is el kell kezdődnie. Ugyanakkor az európai egészségügyi kártyát az OEP-pel szerződött magyar szolgáltatóknak 2004. június 1-jétől kezdődően az ellátásra való jogosultság igazolásaként mindenképpen el kell fogadniuk.
+
+## Az OEP stratégiai fontosságú projektjei:
+
+## – Az adattárház továbbfejlesztésének általános célja, melynek során az OEP adatvagyona kiterjeszkedik az ágazat egységes adattárházává.
+
+## – Információ-előállítás és információszolgáltatás, adatvagyonnal történő gazdálkodás a biztosítottak és az ellátórendszer felé egyaránt: adatvagyon fejlesztése, adatminőségének javítása új és meglévő adatbázisok kompatibilitásának és kommunikációjának biztosítása.
+
+## – Távlati cél, hogy a belső és külső adatszolgáltatási igények és a vezetői információs rendszerek középpontjában az adattárház legyen.
+
+## – Ennek külső feltétele az egészségügyi szolgáltatók jelentéseinek és alapdokumentációinak egységesítése – egységes adattartalom, egységes adatszótár, kódok és adatábrázolás, formátum, közös infrastruktúra pl. PKI, egészségügyi VPN. Ezeket a feladatokat az OEP csak részben képes maga létrehozni. Bizonyos projekteket az egészségügy más szereplőivel együtt kell megvalósítani, illetve a szükséges egységesítéseket új jelentési formák és az egészségügyi SW rendszerek akkreditációjának bevezetésével tud biztosítani. Az akkreditáció az egységes követelmények révén lehetőséget ad a MITS-ben megcélzott szállító- és platform független megoldások terjedésének.
+
+## – Az OEP alaptevékenységének támogatására kialakított informatikai rendszerek integrálása, a tranzakciós és az adatszolgáltató, elemző rendszerek logikai szétválasztása, az egyablakos ügyintézés támogatása és a finanszírozás reakcióidejének minimalizálása.
+
+## – Az ágazati törzsadatok közhiteles adatbázisainak létrehozása – gyógyszer és gyógyászati segédeszköz, szolgáltatók, szerződések, nemzetközi ellátások.
+
+## – Hosszú távú cél az Uniós elvárásoknak megfelelő Egységes Munkaügyi és Társadalombiztosítási nyilvántartás kialakítása és működtetése.
+
+## Nyugdíjbiztosítás
+
+## Az ONYF stratégiai célja az egész nemzet és ezáltal az egyesült Európa szolgálata, a nyugdíjrendszer által nyújtott nagyon nagy időhorizontú szolgáltatások stabilitása, biztonsága, megbízhatósága, hitelessége, pontossága, kiszámíthatósága révén, annak folyamatos fenntartása, fokozása, javítása segítségével.
+
+## A nyugdíjbiztosítás nyilvántartása az elmúlt hat év korszerűsítési projektjének végrehajtása során nagy változáson ment keresztül, a papír alapú nyilvántartások elektronizálásra kerültek és központosítva lettek. Az elektronikus adatbázist korszerű adatbázis-kezelő rendszer vezérli. A központi adatbázisban megtalálhatók a nyugdíjak megállapításához szükséges szolgálati idő adatok 1959. január 1-jétől, a kereseti adatok 1988. január 1-jétől.
+
+## A 2001. év során bevezetésre került új nyilvántartási rendszer (KELEN), mintegy 53 millió darab szkennelt okmány képének és kb. 45 millió alfanumerikus rekord online elérését teszi lehetővé a nyugdíjbiztosítási igazgatóságok és kirendeltségek számára. Ennek eredményeként központilag elérhetővé vált az eddig csak helyszínenként hozzáférhető nyilvántartási dokumentáció, a nyugdíjbiztosítási ágazaton belüli papír alapú okmányok közötti keresés gyakorlatilag kiváltásra került.
+
+## 1994. december 5. óta az egész országban a NYUGDMEG elbíráló rendszerrel történik a nyugdíjak és nyugdíjszerű rendszeres pénzellátás igények elbírálása. 34 igazgatóságon és kirendeltségen működik folyamatosan mintegy 1500 nyugdíjelbíráló szakember közreműködésével. A rendszer az igényeket a megállapítás kezdő napján hatályos jogszabályok alapján bírálja el. Ez azt jelenti, hogy az életbelépése óta az új szabályok nem leváltják a régi rendszert, hanem melléépülnek, vagyis minden egyes jogszabálykövetés a rendszer bővítését jelenti, az új időponttól hatályos jogszabályok szerint.
+
+## A rendszer megfelel a teljeskörűség igényének: az ügy elbírálása az iktatástól a határozathozatalig terjed. Feladata a nyugdíjigények iktatása, elbírálása, – ideértve az előlegek megállapítását is – határozathozatal, folyósítás kezdeményezése minden ellátásnemben, továbbá az ellátásokra való jogosultságokat megalapozó, de önmagában ellátást nem nyújtó szolgálati idő elismerési kérelmek elbírálása. A lehetséges ellátásfajták közül a bányász egészségkárosodási járadék kivételével mindegyiket elbírálja.
+
+## Az ONYF országos hatáskörrel eljáró igazgatási szerve a Nyugdíjfolyósító Igazgatóság, amely alaptevékenységében az ország lakosságának közel 1/3-át szolgálja ki azáltal, hogy 3 millió 50 ezer állampolgár részére folyósítja a megélhetésük alapjául szolgáló ellátásokat. A megközelítőleg 5 és fél millió ellátás adatait tartalmazó integrált adatbázisban havonta átlagosan 200-250 ezer változást kell végrehajtani, olyan elszámolási rendszereket működtetve, amelyek a szolgáltatások pontos kimutatását, könyvelését, Alapok közötti megbontását végzik, dokumentálva a központi költségvetés kötelezettségét is.
+
+## Az ONYF ágazati részstratégia és a MITS illesztésében a legfontosabb eltérés, hogy az ONYF ágazati részstratégiában központi szerepet kell biztosítani a működőképesség hosszú távú – más szakterületekhez képest elképzelhetetlen időhorizonton (40-70-120 év!) szükséges – fenntartásának. Ennek megfelelően be kellett vezetni az ÖRÖK feladatok kategóriáját. Az ÖRÖK feladatok közé soroltuk azokat a már informatizált feladatokat, amelyeknek ellátása jogszabályokból levezetetten a nyugdíjrendszer létezésének hátralévő idejében mindvégig az ONYF feladata marad.
+
+## Az új, az eMagyarország dimenzióihoz illesztendő ONYF jövőkép összefoglaló neve az eNyugdíj. Az eNyugdíj a már informatizált ONYF szakterületek fenntartásán túl új területeken is meg kívánja valósítani az informatizálást, az informatikai társadalomba illeszkedést.
+
+## Az eNyugdíj – a fentebb ismertetettekhez képest – új szakterületei, egyben az ONYF távlati céljai:
+
+## – eÜgyfél rendszer kialakítása és életben tartása a nyugdíjbiztosítás ügyfeleivel való kapcsolattartás informatizálására.
+
+## – eÜgyvitel kifejlesztése és életben tartása, amely az elektronikus aláírás és a hálózati biztonság megkívánt szintjén alkalmas az elektronikus kapcsolattartás és együttműködés szervezeten belüli, szervezetközi, kormányzati és Európa konform üzemének megteremtésére, a megfelelő minőségű rendszerekhez való kapcsolódásra. Kívánatos, hogy az ügyviteli eljárások minden szinten papírmentesen lebonyolíthatók legyenek.
+
+## – eLearning rendszer kifejlesztése és életben tartása a nyugdíjbiztosítás munkatársainak szakmai kiképzésére, továbbképzésére beépített tudásellenőrző képességekkel a life-long-learning modell szerint az ONYF minden szakterületére kiterjedő mértékben. Fokozatosan építhető ki.
+
+## – eJog rendszer kiépítése és életben tartása a nyugdíjbiztosítást érintő különböző jogszabályok közötti összefüggések feltárására, rögzítésére, tanulására, tanítására, a jogalkotási tervezetek összhangjának elemzésére, minősítésére, figyelemmel a nyugdíjrendszer rendkívül nagy – több évtizedes múltat és több évtizedes jövőt magában foglaló – idődiapazonjára. A cél elérésére alkalmas informatikai rendszer kiválasztása, feltöltése, honosítása, továbbá alkotó és tanuló célú elérhetőségének országos biztosítása.
+
+## – eJogosult rendszer kiépítése és életben tartása, amely alkalmas a biztosított által adott időszakban szerzett jogosultságok kiszámítására és megfelelő formában történő megküldésére, a biztosított által válaszhatóan elektronikus (preferált) vagy papír formában. A rendszert a biztosítotti reagálások fogadására és lekezelésére is alkalmassá kell tenni.
+
+## – eEurope kompatibilitás kiépítése az infrastruktúrában (elérhetőségek, WAN hálózatok, szerverek, biztonsági rendszerek, géptermi eszközök, LAN hálózatok, munkahelyi eszközök, adatvédelem, adatbiztonság, jogosultságkezelés, naplózás).
+
+## Foglalkoztatás
+
+| Cél/prioritás | Informatikai feltételek | e-projektek |
+
+| 1. Teljes foglalkoztatottság A munkaerő kínálat növelése – aktív öregedés – A bejelentés nélküli munkavégzés legális foglalkoztatássá történő transzformálása Atipikus munkavégzési formák elterjesztése | e-közigazgatás Információkhoz való hozzáférés biztosítása szélessávú internet-hozzáférés | A munkaügyi nyilvántartási rendszer kialakítása („Munkakártya projekt”) |
+
+| 2. A társadalmi kohézió és bevonás erősítése A munkaerőpiacon hátrányos helyzetű emberek integrációjának támogatása, küzdelem a diszkrimináció ellen | e-írástudás e-tanulás Információkhoz való hozzáférés biztosítása szélessávú internet-hozzáférés | Távmunka Távoktatás Képzésből a munkahelyre projektek |
+
+| 3. Aktív és megelőző intézkedések a munkanélküliek és az inaktívak részére A vállalkozóvá válás és a munkahelyteremtés elősegítése A változás befogadása és az alkalmazkodás elősegítése | e-gazdaság e-kereskedelem elektronikus aláírás Információkhoz való hozzáférés biztosítása, szélessávú internet-hozzáférés | Távmunka Távoktatás |
+
+| 4. Több és hatékonyabb beruházás a humán tőkébe, stratégiák az egész életen át tartó tanulásra | e-írástudás e-tanulás Információkhoz való hozzáférés biztosítása, szélessávú internet-hozzáférés | Távoktatás |
+
+| 5. Nemek közötti egyenlőség érvényesítése | e-írástudás e-tanulás Információkhoz való hozzáférés biztosítása, szélessávú internet-hozzáférés | Távmunka Távoktatás Képzésből a munkahelyre projektek |
+
+| 6. A munkavégzés attraktivitásának növelése a munkajövedelmeken keresztül való ösztönzéssel | Biztonságos hálózat, e-munka, elektronikus elszámoló rendszerek, e-fizetés | e-munka, e-üzlet, e-biztonság |
+
+| 7. A foglalkozási és területi mobilitás növelése, a munkaközvetítés javítása | e-kormányzat Információkhoz való hozzáférés biztosítása, szélessávú internet-hozzáférés | Munkaügyi portál EURES kapcsolat |
+
+| 8. A munka minőségének és termelékenységének javítása | Biztonságos hálózat, e-munka, elektronikus elszámoló rendszerek, e-fizetés | e-munka, e-üzlet, e-biztonság |
+
+## Agrárium
+
+## Az agrárágazat és a vidékfejlesztés területe közvetlenül a lakosság közel hatvan, áttételesen, az élelmiszerek minőségén és árán, valamint a környezet állapotán keresztül száz százalékát érinti. A területek szereplői nem tartoznak a gazdaságilag erős szervezetek közé. Többségük jelentős gazdasági problémákkal, stratégia hiányából fakadó napi kényszer döntéshozatallal rendelkezik. Ezt a pozíciót terheli tovább a földrajzilag szétszórt elhelyezkedés, nagy távolságok, lassú és magas költséggel működő informatikai lehetőségek, valamint a megnövekedett információ igény. A problémák kezelését, az EU csatlakozásból származó feladatok megoldását jelentősen segíti az információs társadalom vívmányainak beépítése a farm menedzsment döntéshozatalba, valamint a vidékfejlesztési társulások munkájába. Az információs társadalom stratégiájának kiterjesztése az agrár- és vidékfejlesztési területekre, jelentősen hozzájárul a szereplők információs szintjének emeléséhez, a kommunikáció bővítéséhez, a helyi, kistérségi tudásmenedzsment, kialakulásához, a network-on alapuló munka elterjedéséhez.
+
+## e-agrárium célkitűzései
+
+## Az e-agrárium fejezet agrárinformatikai fejlesztéseinek célja a versenyképes mezőgazdasági termelés támogatása, valamint az élhető vidék megvalósításához való hozzájárulás. Az e-agrárium fejezet célkitűzéseit a következő csoportok bonthatjuk:
+
+## – A hazai és az EU közhasznú információkhoz való hozzáférés biztosítása
+
+## – A hazai versenyképes mezőgazdasági termelés piaci környezetének fejlesztése
+
+## – Innováció, tudástranszfer támogatása
+
+## – Vidékfejlesztési networkok kialakulásának, helyi és regionális tudásmenedzsment lehetőségeinek kialakítása
+
+## Tartalomfejlesztés
+
+## Az információs társadalom kifejlődésének és megerősödésének alapfeltétele, hogy az elektronikus térben megfelelő minőségű és mennyiségű tartalom legyen megtalálható. A tartalom értékét a gazdasági hasznosulása mutatja meg, így célszerű az agribusiness és a vidékfejlesztés szereplőinek megnevezett és felmérhető igényeiből kiindulni. Az agrár- és vidékfejlesztési tartalom ipar állami támogatással való elindítása a Magyar Információs Társadalom Stratégia egyik alapja, mert a MITS megvalósulása vidéken csak a mérhető hozzáadott érték esetén képzelhető el.
+
+## A tartalom- előállítás formái a következők lehetnek:
+
+## – már meglévő, papír alapú tartalmak digitalizálása,
+
+## – tartalomszolgáltatóktól történő vásárlás,
+
+## – munkafolyamatok elektronizálása mentén létrejövő tartalmak,
+
+## – meglévő adatbázisok adaptálása által létrehozott tartalmak.
+
+## Gazdasági információk
+
+## A piaci információk közül az agrártámogatások hatékony felhasználása érdekében a regisztrált agrártermelők részre a következő területeken célszerű támogatott tartalomszolgáltatásokat biztosítani:
+
+## – Hazai árinformációk
+
+## – Európai nagybani piacok és kikötők árinformációi
+
+## – Árutőzsdék árinformáció
+
+## – Nemzetközi gazdasági hírügynökségek árupiaci információi és trendjei
+
+## – Céginformációk
+
+## – Külföldi agrárgazdasági és agrárpiaci elemző intézetek előrejelzései (USDA, ZMP stb.)
+
+## – Hazai és külföldi agrárgazdasági sajtószemle
+
+## Közhasznú információk
+
+## Konkrét projektjavaslatok:
+
+## – Agrártermeléssel összefüggő hazai és EU jogszabályok és űrlapok adatbázisa
+
+## – EU és hazai agrár- és vidékfejlesztési támogatások információ, dokumentumok, esettanulmányok
+
+## – Ügyintézéssel kapcsolatok ügyleírások, dokumentumok, címek
+
+## – Az EU, az FVM és a MHV által kiadott felhívások, információk
+
+## – Növényvédőszer katalógus
+
+## – Agrármeteorológiai előrejelzés
+
+## – Szakértői névjegyzékek
+
+## – Gabonaraktár nyilvántartás
+
+## – Intervenciós rendelkezések
+
+## – Export felhívások, intervenciós felhívások
+
+## – Kártevő és növényi betegségek előrejelzése
+
+## – Állatszállítással kapcsolatos VPOP határinformációk
+
+## – Állategészségügyi űrlapok kitöltő és letöltő rendszere
+
+## – Minőségi és szabvány előírások
+
+## – Államilag elismert vetőmag katalógus
+
+## Innovációt támogató információk
+
+## A korábban létrehozott információs vagyon széles körű felhasználását két alapvető probléma akadályozza. Egyrészt az adatbázisok többsége nem rendelkezik megfelelő, Interneten elérhető felülettel, vagy az adatbázis tartalmának más portálokon keresztül történő publikálásához szükséges Web-service szolgáltatással. Másrész a projektek befejezése után nincs forrás az adatbázisok frissítésére, publikálására és az agribusiness jelenlegi menedzsment kultúrája még nem biztosítja a fizetőképes keresletet.
+
+## Fel kell térképezni a létrehozott adatbázisokat, szolgáltatásokat. A tényleges igénnyel alátámasztott adatbázisokhoz ki kell alakítani a publikálási lehetőséget (Internet, Web-service) és biztosítani kell a folyamatos karbantartás költségeit:
+
+## – állattenyésztési adatbázisok,
+
+## – növénytermesztési adatbázisok,
+
+## – növényi betegségek adatbázisa, előrejelzés,
+
+## – bor adatbázis,
+
+## – öntözési információs szolgáltatás,
+
+## – agrár meteorológiai szolgáltatás.
+
+## Internet penetráció, és közösségi Internet elérési lehetőségek növelése
+
+## A széles körű információ terítés biztosítása magas Internet penetráció és kiterjedt közösségi hozzáférési rendszer esetén biztosítható. Az agrár- és vidékfejlesztési információk, tartalmak felhasználásánál célszerű a kombinált információ kijuttatás módszereit használni. Egyeztetett, egymásra épülő – de információs hátrányt egyik szereplő részére sem okozó – módszerrel kell a papír alapú, a média alapú és az elektronikus lehetőségeket kombinálni. A jelenleg domináns személyes információ átadást, amely igen költséges és ebben a formában alacsony hatékonyságú fel csak fenti módszerekkel nem áthidalható esetekben szabad használni (IT mentorok szerepe).
+
+## Tagsággal rendelkező szervezetek belső informatikai stratégiájának elkészítése
+
+## Jelenleg egy agrárszervezet sem rendelkezik mérhető informatikai szolgáltatással. A szervezetek közül tényleges tagsággal, apparátussal és infrastruktúrával három, a Magyar Agrárkamara (MAK), a Mezőgazdasági Szövetkezők és Termelők Országos Szövetsége (MOSZ) és a Magyar Gazdakörök és Gazdaszövetkezetek Országos Szövetsége (MAGOSZ) rendelkezik.
+
+## Szervezetekre, tagsági viszonyra (bizalomra) alapozott portálok kiépítésének támogatása
+
+## Az előző pontban meghatározott stratégiák alapján el kell készíteni a szervezetek portálját. A portál tartalma a tartalomfejlesztési fejezetben meghatározott tartalomszolgáltatóktól származik, technikai hordozója a szervezet portálja, hasznosulását a szervezet és a tag között meglévő bizalmi kapcsolat biztosítja.
+
+## Ágazati e-commerce stratégia
+
+## Az EU csatlakozást követően a megváltozott piaci körülmények, támogatási rendszer, agrárszabályozási környezet és agrárfinanszírozási feltételek következtében lényegesen megváltozik az agrár értéklánc. Az új gazdasági helyzet jó alkalmat biztosít az e-commerce szolgáltatások integrált bevezetésére, a megváltozott értékláncba történő illesztésére. A hazai új e-commerce szolgáltatások bevezetése mellett igen fontos, hogy a hazai termelők teljes értékű felhasználóként lépjenek be az EU jelenleg működő e-commerce szolgáltatásaiba.
+
+## EU pályázatkészítő szolgáltatások
+
+## Az EU támogatásokkal kapcsolatban, a minél több támogatás lehívása érdekében fontos nem csak információt, tájékoztatást kell az Interneten elérhetővé tenni, hanem pályázatkészítő automatikus, fél automatikus szolgáltatásokat is. A szolgáltatások lényege, egyrészt a támogatási lehetőségek optimalizálása, másrészt a támogatási pályázatok igénylések elkészítése, elsődleges formai ellenőrzése. A pályázatkészítő szolgáltatást konkrét szervezetre kell telepíteni, hogy a szükséges személyes tanácsadást is biztosítani tudja. (IVSZ javaslat EuroInfo Service)
+
+## e-kereskedelmi felületek, szolgáltatások
+
+## A feladat az agrár e-business stratégia alapján, az agribusiness szereplőinek részvételével meghatározott e-business szolgáltatások megvalósítását szolgálja. Ennek keretében lehetőség nyílik EU-s e-business szolgáltatások magyar nyelvű kezelési felületeinek elkészítésre is.
+
+## e-kommunikáció fejlesztése
+
+## Az e-kommunikáció fejlesztésének lényege, hogy az Internet kínálta kommunikációs, virtuális közösség építési eszközök szolgáltatások elterjedjenek. Használatuk lehetővé teszi személyes információ átadási programok kiváltását, ezáltal jelentős költségcsökkentést és hatékonyságnövelést tesznek lehetővé. Az e-kommunikációs eszközök és szolgáltatások közül a következők elterjedését kell minél nagyobb mértékben támogatni:
+
+## – Levelező listák használata
+
+## – Fórumok üzemeltetése
+
+## – Internet telefon használata
+
+## – Videó konferencia használata
+
+## – Virtuális szervezetek, szövetkezetek létrehozása
+
+## Oktatás
+
+## Minden MITS projekt részt vevőinek, felhasználóinak oktatása, a projektben előállt végtermék minél hatékonyabb használata érdekében. A MITS projektek eredményeinek, lehetőségeinek folyamatos oktatása a potenciális felhasználók körében. A potenciális felhasználók oktatására célszerű a ,,oktatók oktatása” módszert alkalmazni. Erre jó példa lehet a szaktanácsadók vagy termelői szervezetek alkalmazottainak folyamatos továbbképzése, akik más programok részeként átadhatják tudásukat a termelők, vidékfejlesztők részére.
+
+## Infrastruktúra fejlesztése
+
+## Az informatikai infrastruktúra fejlesztése egyes célcsoportoknál és szervezeteknél stratégiai fontosságú:
+
+## – Szaktanácsadók
+
+## – Termelői szervezetek, kiemelten a Magyar Agrárkamara
+
+## – Tartalomszolgáltatók az innováció területén
+
+## – Egyes termelői csoportok
+
+## – Vidékfejlesztésben érdekelt civil szervezetek, kistérségi szövetségek
+
+## A fentiek mellett kiemelt fontosságú, hogy az agrár- és vidékfejlesztés területén végrehajtandó információs társadalomfejlesztési projektek és a Közháló fejlesztése folyamatosan összehangolásra kerüljön. Az agrár- és vidékfejlesztés területén elkészített alkalmazások a Közháló részévé válhassanak, valamint az informatikai fejlesztéssel támogatott agrár- és vidékfejlesztési szervezetek Közháló végpontokként működjenek.
+
+## Gazdaság
+
+## A távközlés, a számítástechnika és az elektronikus média konvergenciája eredményeként kialakuló információs hálózatokra ráépülve most bontakozik ki a következő század társadalmi rendje: az információs társadalom. E társadalmat többek között a világgazdaság globalizációja és ezzel együtt új termékek, szolgáltatások kialakulása, új munkastruktúrák megjelenése és a munkaerőpiac átalakulása, valamint a világ bármely részén lévő információforrásokkal való kétoldalú kommunikáció új eszközei jellemzik.
+
+## Gazdasági értelemben véve az információs társadalom mindenekelőtt tudásalapú gazdaság. A tudásintenzitás növekedése és a magas technológia dinamikus fejlődése által meghatározott globális gazdasági modell, amelyben a gazdasági teljesítőképesség, a gazdasági növekedés, a versenyképesség kulcsa az információ birtoklása, a tudásalapú termelés és a tudástermékek eladása a globális piacon. A magas színvonalú műszaki beruházások, az információs technológiák átütő erejű hatásai, a folyamatos tanulással képzett munkavállalók jellemzik. Ez az Új Gazdaság teljesen átalakítja a világgazdaságot, annak működését, integrálja a nemzeti gazdaságokat és felértékeli a helyi gazdaságokat. Az Új Gazdaság fogalma alá tartozik az információs és kommunikációs gazdaság és szintén része az internet-gazdaság.
+
+## Az Új Gazdaság folyamatainak terjeszkedése elől elzárkózni nem lehet, ám kezdeményező, aktív részvétel esetén számos lehetőséget nyújthat az egyes nemzeteknek gazdasági-társadalmi pozícióik javításához. Magyarország számára ez a kitörés, felzárkózás integrálódás esélyeit jelenti, ezért feltételeit (befektetés, K+F, vám-, adó, preferenciák stb.) – még erőfeszítések árán is – biztosítani kell. Ugyanakkor látnunk kell azt is, hogy e gyors ütemben megvalósítandó ,,beruházás” bizonytalan feltételek között zajlik, ezért annak monitorozását folyamatosan el kell végezni.
+
+## Az információs társadalomban az állampolgárok és a vállalkozások az adatok és információk igen széles köréhez férhetnek hozzá. Ezek az adatok részben a gazdasági és üzleti tevékenységeket támogatják, részben pedig segítséget nyújtanak a mindennapi problémák és feladatok megoldásához. Az ilyen szolgáltatások döntő többségét vállalkozási alapon nyújtják, de a civil szervezetek és az állami (köztük az önkormányzati) intézmények is szerepet kapnak e téren. Az internet-technológiák terjedésével hazánkban is megindult a sokszínű adatbázisok kiépítése, és az ezekre épülő adatszolgáltatási rendszerek kialakítása. Ma már szinte minden fontosabb gazdálkodó egység, civil szervezet, szolgáltató intézmény, önkormányzat, önálló hivatal, államigazgatási szervezet, oktatási-kutatási egység rendelkezik önálló internet-honlappal, amelyen keresztül a társadalom széles rétegei számára tud jól hasznosítható információkat szolgáltatni. Ezen szolgáltatásoknak azonban csak egy része vehető igénybe térítésmentesen, bizonyos adatok felhasználásáért fizetni kell.
+
+## Az állami szereplők számára az információs társadalom jelentette kihívás, egyszerre jelentkezik a normatív szabályozás, a projekt-szerű, illetve homogén beavatkozás, az intézményfejlesztés, és az ügyintézés – tartalomszolgáltatás területén. Megállapítható, hogy nem csak a referenciaértékek (indikátorok), hanem a környezeti feltételek biztosításában is jelentős a lemaradás.
+
+## Következtetések:
+
+## Az ,,új gazdaság” termelési folyamatainak megváltozása, az üzleti kapcsolatok átalakuló folyamata és struktúrája jelentős mértékben az üzleti szolgáltatások alkalmazásában mutatkozik meg. A gazdasági részstratégia végrehajtása és folyamatos ,,karbantartása” megköveteli a mérési és elemzési mechanizmusok folyamatos fejlesztését, éppúgy a fogalmi, mint a tartalmi struktúrák átalakítását.
+
+## Az ,,információval rendelkezők” és a az ,,információkkal nem-rendelkezők” duális megoszlása olyan kihívás, amely szorosan összefügg a kis- és középvállalkozások fejlesztésére irányuló törekvésekkel.
+
+## Az ,,információval rendelkezők” és a az ,,információkkal nem-rendelkezők” duális megoszlása olyan kihívás, amely szorosan összefügg a kistérségi fejlesztési, valamint a regionális felzárkóztatási politikákkal.
+
+## Az ,,új gazdaságban” az állami és önkormányzati intézményrendszer nem tekinthető semleges tényezőnek, aktivitásával és szerepvállalásával, valamint szolgáltatásaival közvetlenül hat a gazdasági szereplők működésére. Az állami intézmények nyújtotta elektronikus szolgáltatások ezért, külön figyelmet érdemelnek.
+
+## A gazdasági részstratégia feltételezi, hogy a gazdasági növekedés és a strukturális transzformáció az uniós tagországokkal összhangban, az uniós konvergencia mentén történik meg, amely a szolgáltatások külkereskedelmének fokozódó arányát is eredményezi. A makrogazdasági folyamatokról alkotott képet kiegészíti, hogy a gazdaság strukturális meghatározó eleme várhatóan a clusterek hálózata lesz.
+
+## Számszerűsített célok
+
+## – Növekedjen a magyar vállalatok online aktivitása, elsősorban a mikro-, kis- és középvállalatok részéről: a honlappal rendelkező vállalkozások száma 2006-ra érje el a 45%-ot, elektronikus ügyfélkapcsolati rendszereik terén az arány érje el a 6%-os értéket.
+
+## – A vállalkozások elektronikus értékesítése 2006-ban érje el az 5%-ot.
+
+## – A multinacionális vállalatokkal ellentétben a KKV szektor számára ma a naprakész piaci ismereteket nyújtó ipari adatbázisok még nem érhetők el online formákban. A cél legalább egy online adatbázis létrehozása a főbb KKV iparágak részére.
+
+## – A jelenlegi üzleti célú információ-ügyirat feldolgozás a közigazgatási intézményeknél papír alapon történik. Cél a kulcsfontosságú üzleti célú elektronikus ügyirat-feldolgozás (adók, engedélyek stb.) bevezetése a 20 000 főt meghaladó lakosságszámú városokban 2006-ra.
+
+## A kitűzött célok megvalósításának jogszabályozási feladatai
+
+## – Elektronikus aláírás
+
+## – A szerződések joga és a fogyasztóvédelem
+
+## – Elektronikus fizetés
+
+## – Szerzői jog
+
+## – Adatvédelem
+
+## – Egységes hírközlési törvény
+
+## – Elektronikus kereskedelem
+
+## Az e-gazdaság fejlesztésének programja
+
+## – Az elektronikus kereskedelmi tevékenységek (B2B és B2C) széles körben történő elterjedésének ösztönzése
+
+## – Az infokommunikációs technológiákat népszerűsítő kampányok
+
+## – Az infokommunikációs rendszerek KKV fókuszú üzleti használatának oktatása, illetve oktatási programok támogatása
+
+## – A KKV-k infokommunikációs modernizációjának támogatása informatikai rendszerszállítókkal és pénzintézetekkel közös tehervállalásban
+
+## – Kereskedelmi, szolgáltató és termelői hálózatok kialakulását elősegítő infokommunikációs fejlesztések támogatása
+
+## – A hazai KKV-k külpiaci megjelenésének támogatása kétirányú információszolgáltatással, oktatással és képzéssel
+
+## – A kínálati és keresleti információk összegyűjtésének és elektronikus úton való térségi portálokon keresztüli publikálásának támogatása
+
+## – Térségi elektronikus mintapiacok kialakításának támogatása
+
+## – Regionális alapon szerveződő, virtuális vállalat jellegű csoportosulások létrejöttének támogatása
+
+## – A különböző beszállítói rendszerek összehangolása, kompatibilitásuk elősegítése, szabványok alkotása, az informatikai hátrányban lévő kis- és középvállalati beszállítói kör informatikai beruházásainak minimalizálása, elektronikus értékláncok kialakításának támogatása, a már meglévő beszállítói hálózatok fejlesztésének támogatása
+
+## – Az információtechnológiai kezdő vállalkozások tőkéhez jutásának elősegítése, inkubációs intézmények működtetése
+
+## – Ipari parkok információ technológiai fejlesztése
+
+## – Az informatikai technológiák bevezetéséhez és alkalmazásához szükséges szoftverek előállítása és az ezekhez történő olcsó áron való hozzáférés biztosítása a KKV-k számára
+
+## – Intelligens kártyák a biztonságos elektronikus hozzáféréshez
+
+## – A közszférába tartozó információk elérhetőségének javítása és felhasználásának bővítése
+
+## – A (digitális) tartalmak megjelenésének elősegítése a többnyelvű és többkultúrájú környezetben
+
+## – A digitális-tartalom piac dinamizmusának fokozása
+
+## – A külső felhasználók számára kialakítandó adattartalom meghatározása
+
+## – Az adatgyűjtések során az elektronikai eszközök alkalmazásának elősegítése
+
+## – Elektronikus eszközök használatának elősegítése a közbeszerzések és pályáztatások esetében
+
+## Közlekedés
+
+## Információs gazdaság: az a nemzetközi trend, hogy az e-business és a távmunka megoldások terjedése csökkenti az utazási-szállítási igényeket hazánkban még nem tapasztalható. Az igények – a GDP emelkedéséhez kötve – növekednek, sőt, a fejlődő informatika is (még) részben ez irányba hat: megkönnyíti az információkhoz való hozzáférést, így bővíti az üzleti kapcsolatokat és a turisztikai, kulturális és vásárlási lehetőségek megismerését, s ezek a folyamatok újabb mobilitási igényeket gerjesztenek.
+
+## Információs infrastruktúra: az ún. intelligens közlekedési rendszerek telematikai háttere, bázisa egyelőre csak ,,foltokban”, részmegoldásokban van jelen, amelyek együttműködési készsége ráadásul meglehetősen korlátozott. A jelenleg működő megoldások többnyire a forgalmi adatok gyűjtésére és feldolgozására, a menetrendek elektronikus elérhetőségének biztosítására és a vállalaton belüli üzleti-üzemi folyamatok hatékonyságának növelésére koncentrálnak. A legnagyobb probléma az, hogy az egyes alágazatbeli (közúti, vasúti, vízi, légi közlekedési) információs rendszerek unimodálisak, vagyis csak az adott alágazat informatikai szempontjai, elvárásai szerint kerültek kialakításra, más alágazatok megoldásaival alig állnak kapcsolatban.
+
+## Hozzáférés, használat: a közlekedési vállalatok közül elsősorban a nagyobbak rendelkeznek megfelelő kommunikációs hálózattal, Internet kapcsolattal és saját honlappal. A vállalatméret csökkenésével ez a helyzet – az általános tendenciáknak megfelelően – romlik. A közlekedési információkat felhasználó utazók és fuvaroztatók, vagyis a felhasználók oldalán még hiányosságok tapasztalhatók az eszközellátottság terén.
+
+## Tartalom: a közlekedési vállalatok információs kínálata egyelőre meglehetősen szűk körű. A személyszállításban a menetrendek, s részben a kiegészítő szolgáltatások elektronikus formában történő, nem interaktív rendelkezésre bocsátása jellemző, ugyanakkor alig található példa az Internetes helyfoglalásra és menetjegyrendelésre.
+
+## Az áruszállításban a jelentősebb fuvaroztatóknál általában jobb a helyzet: a nagyobb szállítási vállalatok közvetlen kommunikációs kapcsolatban állnak velük, így a tranzakciók jelentős része már elektronikus úton történik. Az áruszállításban is általános, hogy a jelenlegi – együtt nem működő, elszigetelt – telematikai megoldások nem támogatják a több közlekedési alágazatot érintő (intermodális), komplex szállítási-logisztikai láncok megtervezhetőségét és monitorozását.
+
+## Attitűdök: az általános helyzethez hasonlóan a közlekedési szolgáltatók és felhasználók is idegenkednek a korszerű informatikai megoldásoktól. A felhasználók nagyobb része nem is hallott az intelligens közlekedési rendszerekről.
+
+## Tudásbázis, emberi erőforrás: a közlekedési szektorban csak a nagyobb vállalatok engedhetik meg saját informatikus szakembergárda foglalkoztatását. E szakembergárda adott esetekben magas színvonalú, ámde szigetszerűen működő részmegoldások kifejlesztésére képes.
+
+## Szabályozás: a szaktárca a közelmúltban kezdte meg az intelligens közlekedéstelematikai rendszerek kiépítését támogató szabályozórendszer kialakítását. Elkészült a megalapozó stratégia, rámutatva a szabványosítási, keretteremtési feltételekre, igényekre. A gyakorlatba ültetést viszont megnehezíti, hogy a standardok még nemzetközi viszonylatban sem mindig elfogadottak, letisztultak.
+
+## Az átfogó feladatok rövid leírása:
+
+## – A közlekedési ágazat Rendszer-felépítési Tervének (RFT) elkészítése
+
+## A Rendszer-felépítési Terv (RFT) az integrált ITS rendszerek leírására alkalmas keret, amely a részt vevő szervezetek, egységek felhasználói igényeiből indul ki. Meghatározza az ezek kielégítésére alkalmas és szükséges alrendszereket, az ezek közötti, logikai kapcsolatokat, funkciókat és folyamatokat. Megszabja a rendszerekkel szembeni minimálisan szükséges követelményeket az önálló rendszerek és szolgáltatások együttműködésének biztosítása érdekében. A teljes rendszer leírásával lehetőséget teremt az egyes komponensek, alrendszerek lehatárolására és önálló megvalósítására úgy, hogy egyben biztosított a rendszer többi elemével való kompatibilitása. Az egyes alrendszerek megvalósításánál a rendszerterv elkészítésének alapja a stratégiai rendszer-felépítési terv
+
+## – Személy- és áruszállítási információs adatcsere standardok meghatározása
+
+## Az előzményként elvégzett hazai közlekedési adatvagyon integrációs modell és felmérés eredményeire építve, a nemzetközi szabványokat is figyelembe véve részletes – meta adatbázisba fogott, adatelem mélységű – ajánlásrendszer kidolgozása a közlekedési elektronikus adatcsere ,,közös nyelvének” megalapozására
+
+## – Alágazat- és vállalatközi információs együttműködések elősegítése
+
+## A közlekedési vállalatok közötti, komplex szállítási szolgáltatásokhoz szükséges adatcsere standardon alapuló információs együttműködés szerződési, elszámolástechnikai, működési keretrendszerének kidolgozása
+
+## – Integrált határforgalmi információs rendszer kifejlesztése
+
+## Olyan elektronikus dokumentumkezelő rendszer kiépítése, ami képes az elektronikus adatcserén alapuló határátmeneti információfeldolgozás elősegítésére
+
+## – Elektronikus közlekedési ügykezelés lehetőségének biztosítása (hangsúlyosan a gépjárművekhez kapcsolódva)
+
+## A közlekedési hatóságok ügykezelési és ellenőrzési eljárásainak (regisztráció, engedélyezések stb.) elektronikus alapokra helyezése, a papír alapú folyamatok kiváltása. A gépjármű-közlekedésben ez a vizsgáztató és környezetvédelmi állomások hálózatba kapcsolását, a megfelelő háttéradatbázis kialakítását, a vizsgálatok távellenőrzését, továbbá a gépjárművek elektronikus chipkártyával történő ellátását foglalja magában. További fontos eleme a hazai és a külföldi közlekedési hatóságok közötti információs kapcsolatok kiépítése
+
+## – A közlekedés környezeti hatásait komplex módon modellező informatikai eszközök széles körű alkalmazásának elősegítése
+
+## A közlekedés környezeti hatásainak modellezésére vonatkozó követelményrendszer (rendszeres adatgyűjtés, hatáselemzések, monitorozás, beavatkozási pontok) kidolgozása és érvényesítése, modellek ajánlása
+
+## – Autópálya díjellenőrzési rendszer kiterjesztése
+
+## A jelenleg működő rendszámfelismerésen alapuló kamerás matrica ellenőrzési rendszer által regisztrált külföldi rendszámok pótdíjfizetésre való kötelezésének elősegítése céljából a VPOP határregisztrációs rendszerének összekapcsolása az ÁAK Rt. díjellenőrzést szolgáló informatikai rendszerével
+
+## – A társadalmi költség bázisú közlekedési árak és a használatmérés elveinek kidolgozása, társadalmi megismertetése és a ténylegesen megtett úthosszakon alapuló (elektronikus) útdíj fizetés kísérleti alkalmazása
+
+## A nemzetközi és a hazai költség- és árképzési modellek alapján irányelvek kidolgozása az infrastruktúra használati díjrendszerekre és a kapcsolódó fizetési tranzakciók automatikus lebonyolíthatóságára vonatkozóan – különösen a közúti közlekedésben (a vasúti közlekedésben már előrehaladott a díjrendszer kialakítása és nemzetközi alkalmazása). A kidolgozott közlekedési árképzési és díjszedési elvek szűkebb szakmai és tágabb társadalmi véleményezése, vitája – tanulva a korábbi hazai és nemzetközi megoldások tapasztalataiból is. A szakmai és társadalmi konszenzuson alapuló infrastruktúra használati díjszedés gyakorlati megvalósítása – rendelkezésre álló technológiákkal – és kipróbálása egy meghatározott (gyorsforgalmi és/vagy városi) közúti útszakaszon. A tapasztalatok értékelése és a modell korrigálása
+
+## – A nemzetközi és európai közúti és közlekedési telematikai szabványok átvétele
+
+## A közlekedési és utazási információs rendszerek/szolgáltatások elindításához szükséges, nemzetközi szabványokat itthon adaptáló szabályozási környezet kialakítása, különös tekintettel az interoperabilitásra
+
+## – Digitális közúthálózati térkép elkészítése
+
+## A közúti utazási információs rendszerek európai interoperábilis működéséhez szükséges, a forgalomtechnikai információkat is tartalmazó adatbázis kialakítása
+
+## – Közúti utazási információs rendszerek, szolgáltatások (utazás előtti és utazás alatti információs rendszerek) kiépítésének ösztönzése a gyorsforgalmi úthálózaton és a nagyvárosokban, régiókban
+
+## A közúti navigációs, tájékoztatási szolgáltatásokat nyújtók alapadatokkal történő ellátása (részben piaci alapon) a forgalmi adatbázisokból. A szolgáltatók beindulásának elősegítése céltámogatásokkal, hitelgaranciákkal, adókedvezményekkel. Szervezeti és működési modell kidolgozása, az információ értékének meghatározása, megállapodások jogi feltételei.
+
+## – Vasúti GPS bázisú járműkövetés lehetőségének megteremtése
+
+## A vasúti közlekedésben a jelenleg még kézi adatbevitelen alapuló járműkövetés GPS bázisúvá fejlesztésének támogatása, hangsúlyosan a törzshálózaton (főképp az áruszállításban)
+
+## – Az ERTMS fokozatos bevezetése a főbb vasúti pályaszakaszokon
+
+## Az egységes európai vonatmenedzselő rendszer elemeinek fokozatos telepítése a nemzetközi forgalmú vasúti törzshálózaton
+
+## – A belvízi hajózási elektronikus járműkövető és azonosító, továbbá segélyhívó és kommunikációs rendszer fokozatos kiépítése a főbb folyamszakaszokon
+
+## GPS és VHF kommunikációs alapberendezések fokozatos telepítése a nemzetközi forgalmú belvízi hajózási útvonalakon
+
+## – Hajózási információs rendszer kialakítása
+
+## A belvízi hajózás operatív forgalomszervezésével és lebonyolításával kapcsolatos adminisztrációs, irányítási és jelentési feladatok informatikai támogatása
+
+## – Meglévő közúti forgalomszabályozási- és információs rendszerek korszerűsítése, összehangolása a gyorsforgalmi úthálózaton
+
+## A meglévő közúti forgalomirányító rendszerek működésének kibővítése (minőségi és mennyiségi) valamint a közöttük lévő online információs kapcsolat erősítése – különösen a gyorsforgalmi úthálózaton és a nagy forgalmú városi utakon
+
+## – Különleges, túlméretes, túlsúlyos és veszélyes árut szállító járművek útvonal engedélyezése és járműkövetése (veszélyes járműveknél)
+
+## A túl-méretes és túlsúlyos járművek engedélykiadásának előkészítése, a közlekedés felügyelete
+
+## – Közúti forgalmi információs központok kialakítása és rendszerbe kapcsolása
+
+## Regionális, az adott régió közúti forgalmi (és meteorológiai) információit összegyűjtő, feldolgozó és megosztó forgalmi információs központok hálózatának kialakítása (forgalomfigyelési hálózat)
+
+## Igazságügy
+
+## A stratégiával az Igazságügyi Minisztérium ösztönözni kívánja az információs és kommunikációs technológiák széles körű felhasználását, valamint új technológiai megoldások kifejlesztését. Megfelelő ellenőrzési, szabályozási és szabványosítási intézmények segítségével biztosítani a piaci verseny megteremtését és fenntartását. Ehhez kapcsolódva az igazságügyi részstratégia kiemelt jelentőségű, hiszen az információs társadalom elterjedésének és működésének alapfeltétele a megfelelő jogi környezet kialakítása.
+
+## Az elektronikus kormányzás az információs társadalom kívánalmainak megfelelő, a közigazgatási szervek és magánszemélyek, szervezetek közötti, gyors és költségkímélő államigazgatási eljárások megvalósítását jelenti, amely távollévők között megfelelő informatikai biztonsággal valósítható meg. Ehhez kapcsolódóan az elektronikus demokrácia megteremtésének alapja, hogy a közigazgatás mellett az igazságszolgáltatási szerveknek is be kell kapcsolódniuk az információs társadalom kívánta és kínálta szolgáltatások nyújtásába.
+
+## Az igazságügyi részstratégia megvalósulásának feltételrendszere:
+
+## – Megfelelő jogszabályok megalkotása, módosítása;
+
+## – Anyagi erőforrások biztosítása;
+
+## – A részt vevők (közigazgatási, igazságszolgáltatási szervek munkatársai / magánszemélyek / jogi személyek és jogi személyiség nélküli gazdasági társaságok / civil szervezetek) hozzáállása, képzettsége az infokommunikációs eszközök használatához, kompetencia növelése;
+
+## – A közigazgatási, igazságszolgáltatási szervek informatikai felszereltsége, szabványok elfogadása, az együttműködés rendjének kialakítása.
+
+## – Tevékenység racionalizálása, felelősségi körök és jogosultsági szintek meghatározása.
+
+## A jogalkotási feladatokhoz kapcsolódóan kiemelkedő jelentőségű az információs társadalomban a demokrácia mind szélesebb körű elterjesztése, ennek érdekében a jogalkotás nyilvánosságának és a jogkövetés biztosítása miatt a jogszabályok elérhetővé tételének biztosítása. Ezen feladatok részleges megvalósítására az IM az EU integrációval kapcsolatos harmonizációs tevékenység körében adatbázist tart fenn és folyamatosan bővít, amely az EU joganyagot tartalmazza. A minisztériumon belüli döntés-előkészítő folyamat során elhatározás született, hogy a hatályos magyar joganyag online hozzáférhetővé váljon a minisztérium portáljáról, valamint a legfontosabb jogszabályok és módosítások mindenki számára közérthető módon elérhetőek legyenek.
+
+## Magyarország 2000 tavaszán jelezte csatlakozási szándékát az eEurope programhoz, ennek megfelelően a 2004-es csatlakozást követően az eEurope 2005 célkitűzéseit kell megvalósítanunk.
+
+## Legfontosabb feladatok:
+
+## – Részletes IM stratégia és megvalósítási terv kidolgozása az igazságügyi szektorban, a kormányzati együttműködés keretében, valamint az eEurope programhoz való csatlakozás.
+
+## – Információs társadalom működését biztosító jogalkotási, jogszabály-módosítási feladatok.
+
+## – A webportál tartalomfejlesztése, adatbázisok felépítése, elektronikus információkérés, jogsegély.
+
+## – Hatályos jogszabályok Interneten elérhetővé tétele, jogszabály-magyarázatok Interneten elérhetővé tétele.
+
+## – A munkatársak attitűdjének megváltoztatása, munkavégzés hatékonysága.
+
+## – Strukturált és elemezhető elektronikus beadási forma bevezetése.
+
+## – Elektronikus aláírás alternatív formáinak kidolgozása, azonosítás megoldása, az elektronikus ügyintézés, elektronikus közbeszerzés közigazgatási fogadóképessége.
+
+## – Szabványok kidolgozása az elektronikus adattovábbítás során a személyes adatok és a privát szféra védelmére.
+
+## – Jogalkotás átláthatósága, a társadalmi szervezetekkel való együttműködés hatékony megvalósítása, a jogbiztonság növelése.
+
+## – Az EU informatikai rendszeréhez való csatlakozás, a megfelelő szabványok átvétele.
+
+## – Állampolgári bizalom erősödése.
+
+## – Cégnyilvántartó rendszer egységes Internetes megjelenésének kialakítása nyelvi verziók használatával, EU kompatibilitás.
+
+## – Az igazságügyi szakértői rendszerek fejlesztése.
+
+## – A Büntetés-végrehajtás informatikai rendszerek fejlesztése, elítéltek távoktatása, távmunkája.
+
+## – Kárpótlási és Kárrendezési információs rendszerek fejlesztése.
+
+## – Kormányközi és Uniós szervekkel és szervezetekkel való információcsere, adatáramlás, döntési mechanizmusok elektronikus útra terelése.
+
+## – Interneten kezdeményezett elektronikus fizetés feltételeinek megteremtése.
+
+## – Elektronikus úton közölt közhiteles információk, elektronikus gazdaság fejlesztése.
+
+## – A Pártfogói Hálózat informatikai rendszerének kiépítése és fejlesztése.
+
+## – Büntetés-végrehajtás, igazságügyi szakértők, pártfogói hálózat, kárpótlás és kárrendezés, céginformációs szolgáltatás informatikai rendszerének integrálása.
+
+## – Bíróság, ügyészség, rendőrség, ügyvédi kamarák informatikai rendszerének integrálása.
+
+## – Az igazságügyi ágazaton belül a döntési mechanizmusok digitális útra terelése, hatáskör kijelölése.
+
+## – Megfelelő biztonságú elektronikus aláírás és kormányzati hitelesítés-szolgáltatás a köz- és a magánszférában.
+
+## – Elektronikus szavazás. Indítványok beadása, véleményezés, népszavazási kezdeményezés stb.
+
+## Országgyűlési biztosok
+
+## Az Országgyűlési Biztosok Hivatalában 2002–2003 közötti időszakban több jelentős fejlesztési projekt is megvalósult, melyek megalapozzák az elkövetkezendő évek újabb informatikai fejlesztéseit. Jelentős előrelépésként ezek a projektek többnyire az informatikai infrastruktúrát korszerűsítő beruházások voltak, de emellett sikerült az iktató és statisztikai rendszerünket modernizálni, valamint funkcióit ,,ügyfélközpontú” szolgáltatásokkal kibővíteni. A további fejlődés és az OBH informatikai stratégiájában megfogalmazott projektek megvalósítása érdekében az információs kapcsolati rendszerünket az ügyfelekkel, a közigazgatási és egyéb intézményekkel szükséges tovább bővíteni, korszerűsíteni.
+
+## Célkitűzések
+
+## Az intézmény céljai közt vezérgondolatként szerepel, hogy az itt zajló munka gyors, hatékony és ügyfélközpontú legyen.
+
+## Az elkövetkező 3-4 évben az intézmény működésével kapcsolatban fő célkitűzések az alábbiak:
+
+## – az állampolgárok és az érintett igazgatási szervek folyamatos, naprakész, célzott tájékoztatása az elektronikus médiumokon keresztül;
+
+## – az EU szervekkel való folyamatos kapcsolattartás biztosítása.
+
+## – a hivatali belső folyamatok informatikai támogatottságának növelése, a papír alapú adminisztráció csökkentése;
+
+## – a közigazgatással való kapcsolatok bővítése, információáramlás gyorsítása;
+
+## – nemzetközi kapcsolatok bővítése, felkészülés a nemzetközi feladatok vállalására is.
+
+## A fenti célok elérésének módját a külső törvényi szabályozás és a szervezeti felépítés erősen befolyásolja.
+
+## A Hivatal informatikusainak feladata a hivatali munka hatékony működésének támogatása a lehetséges informatikai eszközökkel, az egyes felhasználói csoportoktól érkező igények kielégítésével a rendelkezésre álló erőforrások és a felhasználói célcsoportok közötti egyenletes fejlődés folyamatos figyelembevételével.
+
+## Az intézményi célkitűzések következtében az alábbi informatikai kihívásoknak kell megfelelnie a Hivatalnak:
+
+## – A hiteles forrásból vagy egyéb módon beérkező panaszos levelek elektronikus fogadásának és ily módon történő kezelésének biztosítása;
+
+## – A felhasználók által létrehozott és kapott dokumentumok (munka- és végleges anyagok) kereshetőségének és folyamatos mentésének biztosítása;
+
+## – Felhasználói kultúra fejlesztése, folyamatos képzések biztosítása;
+
+## – Hiteles elektronikus kapcsolat feltételeinek megteremtése (elsősorban a közigazgatási intézmények vonatkozásában)
+
+## – Egységes, korszerű, naprakész, ügyfélbarát megjelenés biztosítása az interneten;
+
+## – Informatikai biztonság területén megfelelő szabályok kidolgozása, bevezetése és végrehajtásának ellenőrzése.
+
+## – Az EU intézményeivel való kapcsolattartás biztosítása és folyamatos fejlesztése
+
+## – Jogszabály-módosítás alapján az intézményre háruló többletfeladatok teljesítése (pl. az adatvédelmi nyilvántartási kötelezettség bővülése)
+
+## KvVM ágazati stratégiák
+
+## Követve az ajánlásokat, részstratégiánkban a magas szintű és az általános MITS elvárásokkal is összhangba hozott környezetvédelmi és vízügyi IT célokhoz rendeltük hozzá a részstratégia átfogó – fejlesztési, szabályozási és szervezési – feladatait, így kialakítva a rövid és középtávú majd pedig hosszú távú részstratégiánkat.
+
+## A vízügyi dokumentum teljeskörűen felölel minden olyan komponenst, amelyben meghatározó szerepe lehet mindazon informatikai fejlesztéseknek, amelyek a szakterületi tevékenységeket közelebb viszik a közemberhez, ezzel párhuzamosan pedig saját informatikai rendszereiket fejlettebbé tehetik. A dokumentumban a fejlesztendő területek teljes köre szerepel az előbbiek szerint a vízkár-elhárítási ügyektől az ivóvízminőség javító programon keresztül egészen a vizeink állapotának értékeléséig. Külön hangsúlyt kap benne az integrált környezet-természetvédelmi és vízügyi portál rendszer kialakításának szükségessége.
+
+## Az integrált rendszer megtervezésével, továbbá megvalósításával célunk, hogy a széles nagyközönség számára egységes aktív térinformatikai felületet biztosítsunk, ahol a publikus és közcélú környezetvédelmi és vízügyi objektumok elérhetők, azonosíthatók, legfontosabb kapcsolódó adataik lekérdezhetőek és megjeleníthetőek.
+
+## A környezetvédelmi dokumentum három különálló részre tagozódik: környezetvédelem, természet-védelem, meteorológia.
+
+## A környezetvédelem fejlesztési terveit keretbe foglalja a második Nemzeti Környezetvédelmi Program (2003–2008). Az NKP-II kidolgozása a legfontosabb hazai és nemzetközi környezetpolitikai alapelvek mellett az átfogó társadalom- és gazdaságfejlesztési politikákat és programokat is figyelembe veszi (Magyarország Középtávú Gazdaságpolitikai Programja, Országos Területfejlesztési Koncepció, Országos Területrendezési Terv, Nemzeti Fejlesztési Terv stb.).
+
+## Vízügy
+
+## A vízügyi informatika ágazati stratégiájának főbb célkitűzései:
+
+## – a Környezetvédelmi és Vízügyi Minisztérium alá tartozó többi ágazatokkal: a környezetvédelemmel és a természetvédelemmel (azonos elvi alapokon nyugvó és kompatibilis műszaki megoldásokon alapuló) közös információs rendszer kialakítása a közös célok (a vizek mennyiségi és minőségi ügyeinek egységes szakmai és hatósági kezelése) érdekében,
+
+## – megfelelő információs együttműködés a szomszédos államok vízügyi és környezetvédelmi szerveivel az ár- és belvízvédelem, a vízminőségi kárelhárítás, valamint a vízi környezet: a vízbázisok, a vizes élőhelyek, a jóléti vizek (pl. tavak, holtágak, tározók: a ,,fürdővizek”) általános védelmének elősegítése céljából,
+
+## – országon belüli és nemzetközi információáramlás biztosítása; információs és informatikai együttműködések az EU ,,Víz Keret-irányelv” megvalósítása,
+
+## – könnyen elérhető objektív tájékoztatás a közvélemény számára; valamint iránymutatás a piaci szféra szereplőinek a rájuk vonatkozó kérdésekben,
+
+## – ahol lehetséges: elektronikus ügyintézés bevezetése,
+
+## – pályázatok, közbeszerzési eljárások elektronikus úton való közzététele,
+
+## – mindezeknek ,,időtálló”, a napi pártpolitikai célokkal lehetőleg nem ütköző, de a szakmai kérdésekben azoktól független, kizárólag tartalmi alapokra helyezése,
+
+## – az ehhez szükséges pénzügyi háttér kiharcolása.
+
+## Környezetvédelem
+
+## A Környezetvédelmi Hivatal Információs Társadalom Stratégiájának célkitűzéseit alapvetően meghatározza a környezeti ügyekben az információhoz való hozzáférésről, a nyilvánosságnak a döntéshozatalban történő részvételéről és az igazságszolgáltatáshoz való jog biztosításáról Aarhusban, 1998. június 25-én elfogadott, Magyarországon pedig a 2001. évi LXXXI. törvényben kihirdetett Aarhusi Egyezmény, valamint az 1995. évi LIII. környezetvédelmi törvény, melynek 12. §-a szerint mindenkinek joga van a környezet állapotának, a környezetszennyezés mértékének, a környezeti tevékenységeknek, valamint a környezet emberi egészségre gyakorolt hatásainak megismerésére, melyeket az állami szervek folyamatosan figyelemmel kísérnek, nyilvántartanak és mindenki számára hozzáférhetővé tesznek.
+
+## Levegő- és zajvédelem
+
+## Az Országos Légszennyezettségi Mérőhálózat (OLM) levegőminőségi adatainak a társadalom szélesebb rétegeit érintő elterjesztésére egységes informatikai alapokon nyugvó információs rendszereket alakítunk ki az európai és hazai jogszabályoknak megfelelően. A cél az információ tekintetében a nyilvánosság rendszeres, folyamatos, megbízható, pontos és széles körű tájékoztatása, a környezet légszennyezettségi állapotáról korszerű tájékoztató rendszerek formájában.
+
+## A közhálóhoz kapcsoltan ,,Touch screen” – érintő képernyős – terminálokat telepítünk a fővárosban és a vidéki nagyvárosokban, azok közterein, továbbá az aluljárókban, illetve az önkormányzatoknál, egyetemeken és a bevásárlóközpontokban.
+
+## A OLM tájékoztató rendszerét tovább bővítve, az adatokhoz való hozzáférést rádió-, illetve videotelefonon keresztül SMS, MMS és WAP lekérdezési lehetőséggel is gazdagítjuk.
+
+## Létrehozunk a mérőállomások környezetét bemutató, az Interneten és az elektronikus médiában egyaránt megjeleníthető videokamerás rendszert, amely a televízión keresztül heti rendszerességgel a légszennyezettségi mérőállomások adatait mutatja be.
+
+## Középtávon a környezeti zajjal leginkább terhelt területek stratégiai zajtérképének elkészítése után, a térképeket – lakossági és önkormányzati hozzáféréssel – nyilvánossá tesszük az Interneten.
+
+## Hulladékgazdálkodás
+
+## Az átfogó Hulladékgazdálkodási Információs Rendszerhez kapcsolódó Internetes adatbázisainkkal hulladékfajtánként nem csak a hulladéktermelő, de a hulladékbirtokos és hulladékkezelő tevékenység során keletkező, mástól átvett vagy átadott hulladék mennyiségéről és összetételéről is pontos adatok állnak majd rendelkezésre. Az EU hulladékstatisztikai rendelet (2150/2002/EC) végrehajtásához kapcsolódóan a speciális hulladékgazdálkodási tevékenységek, valamint a hulladék áramok helyzetét és alakulását követő adatbázisokat is feltesszük a világhálóra, így megjelenítve minden elérhető információt a hulladék export- importról, a csomagolási, az elem- és akkumulátor, az olaj- és PCB hulladékokról, végül pedig a települési hulladéklerakókról.
+
+## Vízminőség-védelem
+
+## A rövid távú fejlesztés keretében megvalósított Települési Szennyvizek Ártalommentes Elhelyezése Nemzeti Megvalósítási Program adatbázist már a középtávú fejlesztés eredményeként mind a nagyközönség, mind pedig az önkormányzatok a világhálón láthatják majd.
+
+## Az Internetes honlaphoz kapcsolódóan évenkénti frissítéssel a nagytavainkról (Balaton, Velencei-tó és Tisza-tó) készült információs és tájékoztató füzeteket is megjelenítjük a világhálón. Szintén a világhálón tesszük közzé azt a településsoros dokumentálást tartalmazó tájékoztató adatbázist, amely a Települési Szennyvizek Ártalommentes Elhelyezése Nemzeti Megvalósítási Programjának előrehaladását mutatja be.
+
+## Új internetes bejelentési adatszolgáltatási rendszert alakítunk ki a felszíni vizek védelmének jogszabályozásához kapcsolódóan, de továbbfejlesztve tesszük közzé a világhálón a Felszín Alatti Víz és földtani közeg Információs rendszert (FAVI) is. Középtávon kidolgozzuk a szennyezett területek és szennyező források országos számbavételi eredményei nyilvántartásához (KÁRINFO).
+
+## Középtávon a szomszédos országokból jövő váratlan vízszennyezések előrejelzésére kialakított, három folyó határszelvényéből (Hernád, Szamos, Berettyó) online vízminőségi szolgáltató rendszer adatai mellett a felszíni vízminőségi immissziós adatbázis, továbbá az országos és regionális törzshálózati vízmintavételi helyek mintáinak vízminőségi adatai is felkerülnek a világhálóra.
+
+## A rövid távú fejlesztés keretében megvalósított Települési Szennyvizek Ártalommentes Elhelyezése Nemzeti Megvalósítási Program adatbázist szintén elérhetővé tesszük az Interneten az önkormányzatok, valamint a közönség számára.
+
+## Integrált szennyezés megelőzés
+
+## Integrált adatszolgáltató rendszert alakítunk ki, amit később az Aarhusi Egyezmény 5. Cikk 9. bekezdése alapján készített Szennyezőanyag Kibocsátás és Átadás Nyilvántartási Rendszerré fejlesztünk. Ez nyilvános adatbázissá válik, amely a környezeti elemekbe (levegő, víz, talaj) kibocsátott, továbbá hulladékként átvitt szennyezőanyag-mennyiségeket tartalmazza, telephelyek, üzemeltetők szerint. Az adatbázis bárki által hozzáférhető, rendszeres bevallásokon alapszik, az adatszolgáltatás bizonyos kibocsátási, átadási küszöbértékhez kötött. Létrehozzuk ugyanakkor az IPPC engedélyek, létesítmények adatainak tárolására szolgáló adatbázist is.
+
+## Természetvédelem
+
+## Az adat, információ, illetve az ezekhez való gyors hozzáférés, (az ágazaton belüli és a külső) kommunikáció hatékonysága a természetvédelem területén úgyszintén nagy értéket jelent; ezek megfelelő minőségű megléte, illetve hatékony működése már-már nem csupán a mindennapos feladatok ellátását megkönnyítő körülmény, hanem a természetvédelem hatékony működésének, hazánk természeti, táji értékei megóvásának alapfeltételét is jelenti.
+
+## A természetvédelem nem működhet eredményesen a védett természeti területekre, illetve a természeti értékekre vonatkozó teljes, naprakész adatbázisok nélkül. A természetvédelmi kezelési tevékenység és a hatósági munka egyaránt nagyban támaszkodik (támaszkodna) ezekre az adatbázisokra, valamint egy egységes természetvédelmi információs rendszerre.
+
+## A természetvédelem eredményes működéséhez elengedhetetlen a társadalom széles körű támogatása és a természetvédelmi szemlélet erősítése. A lakosság tájékoztatására és – természeti értékeink megóvásában való – aktív részvételének elősegítésére a védett természeti területek ismeretterjesztő bemutatásától kezdve, a hatósági ügyekkel, pályázatokkal stb. kapcsolatos tudnivalókon át, az ökoturizmussal kapcsolatos szolgáltatásokig számos lehetőség kínálkozik.
+
+## Az EU-tagsággal járó ágazati adatszolgáltatási kötelezettség, illetve az egyéb, csatlakozással kapcsolatos feladatok teljesítésének szintén elengedhetetlen feltétele a megfelelő informatikai környezet kialakítása.
+
+## Ez az informatikai környezet egy moduláris felépítésű, térinformatikai alapokon nyugvó, egységes természetvédelmi információs rendszer, melynek legfontosabb fejlesztési céljai:
+
+## – a védett természeti területekkel és értékekkel kapcsolatos adatbázisok és megfigyelő rendszerek létrehozása, adatfeltöltése, fejlesztése, működtetése, fenntartása;
+
+## – térinformatikai alapú, egységes természetvédelmi információs rendszer kialakítása;
+
+## – a kommunikáció fejlesztése a természetvédelem szervezeti rendszerén belül, az egyéb ágazatok és a természetvédelem között (kétirányú), valamint az egész társadalom felé;
+
+## – webes tartalom-szolgáltatás.
+
+## Meteorológia
+
+## A meteorológiai információk előállítása össztársadalmi igény. Ezen információk hiányában a társadalom és az állam nem lenne képes megfelelően védekezni számos katasztrófatípus ellen (időjárási, árvíz- és egyes ipari katasztrófatípusok), tehát ezen információk emberéleteket mentenek meg, és jelentős anyagi károk megelőzését teszik lehetővé.
+
+## A meteorológiai és éghajlati információk jelentősége, használati értéke a gazdaság fejlettségi szintjével együtt növekszik, a gazdaság minden területén (ipar, mezőgazdaság, szolgáltató szféra) hozzáadott értéket képvisel, hozzájárul a tevékenység optimális végzéséhez, a jövő megtervezéséhez.
+
+## Fentiekből nyilvánvaló, hogy a meteorológia a modern informatikai társadalmak szerves része. Így kell ennek lennie a jövő Magyar Informatikai Társadalmában is. Ahhoz, hogy a magyar meteorológia a térségünkben megszerzett jelenlegi élenjáró pozícióját tarthassa az élesedő verseny körülményei között, folyamatos fejlesztés kell. E fejlesztés sarokpontjaihoz csatolódnak az OMSZ MITS-ben szerepeltetett fejlesztési és csatolt támogatás-igényei is, melyek az alábbiak:
+
+## – az EU integrációt elősegítő regionális meteorológiai információs és szolgáltató infrastruktúra (központok) kiépítése,
+
+## – automatikus meteorológiai és levegőkörnyezeti mérő és megfigyelő, adatgyűjtő és szolgáltató rendszerek fejlesztése,
+
+## – a nagymennyiségű adat és információ továbbításához és feldolgozásához, a számszerű előrejelzések előállításához szükséges távközlési és számítógépi (szuper-számítógépi), valamint adattárolási kapacitások fejlesztése, illetve a meteorológiai információnak a felhasználókhoz történő eljuttatása korszerű módjainak (Internet, SMS stb.) fejlesztése,
+
+## – a napjainkban egyre valószínűbbé váló globális antropogén éghajlat-módosulás várható hazai éghajlati következményeinek megfelelően megalapozott felbecsléséhez szükséges kapacitások fejlesztése.
+
+## Kultúra
+
+## Az információs társadalom újabb és szélesebb lehetőségeket biztosít a kultúra egésze számára, miközben a veszélyei egy kis, sajátos kultúrával, nyelvi bezártsággal rendelkező ország számára nem elhanyagolhatók.
+
+## A kulturális politika társadalmi programját a következő három meghatározó cél mentén lehet elrendezni:
+
+## – esélyteremtés,
+
+## – érték- és hagyományőrzés,
+
+## – új értékek létrehozása.
+
+## Az esélyteremtést szolgálja minden olyan kulturális fejlesztés – akár tartalmi, akár intézményi –, amely csökkenti a jövedelemkülönbségek, a földrajzi távolságok, az öröklött hátrányok, az iskolarendszer elégtelen kiegyenlítő mechanizmusai okozta kulturális távolságokat. Esélyteremtés az oktatással való összehangolás is: a kulturális szokások elsajátítása is. Esélyteremtés az alkotás körülményeinek új lehetőségeinek, új körülményeinek megteremtése, a szakmai képzésbe való bekapcsolódás új lehetőségének kialakítása. És természetesen esélyteremtés a kultúra múltbeli vagy jelenlegi értékeihez való hozzájutás minél szélesebb körű biztosítása, az ehhez szükséges tájékoztatás és felkészítés befogadási készségével.
+
+## Érték- és hagyományőrzés: a tárca hitet tesz az európai, valamint a nemzeti értékek megőrzése mellett. Részben ez az európai integráció nélkülözhetetlen követelménye részben a hazai leghaladóbb hagyományok közé tartozik az értékek megőrzése, a sokoldalúság, a multikulturalitás felkarolása és támogatása. Egy sor kényszerűség miatt (pénzhiány, időhiány, sorrendek stb.) szelekciókra van szükség. A megőrzésnél a hozzáférés, az elérhetőség, a megtalálás elősegítése is hangsúlyos elem, a restaurálás kérdése mellett. A szelekció egyben a kulturális politika egyik meghatározó eleme, hiszen dönteni kell: kulturális felelősség megőrizni azt, ami érték s más nemzetnek nem feladata. A vezérlőelv ebben az lehet, hogy a megőrzés és az elérés is minőségi legyen.
+
+## Új értékek létrehozása: a kultúra természeténél fogva, maga az innováció. Folytonosan új alkotások, új művészek, új kifejezési módok, új eszközök jelennek, valósulnak meg. Ugyanez áll a kultúra ,,közvetítésre” is: új technikák, új megközelítés, megváltozott társadalmi-gazdasági feltételek között kell teljesítenie hivatását.
+
+## Az államnak jelentős szerepe, hogy – a kulturális sokszínűség megőrzése mellett – bizonyos általános emberi és kulturális értékeket hordozó alkotásokat, tevékenységeket támogasson annak érdekében, hogy azok minél szélesebb rétegekhez jussanak el.
+
+## Az eredeti kéziratokat, műtárgyakat, levéltári iratokat nem helyettesíthetik a digitalizált változatok, de a digitalizált változatok használata kíméli és óvja – egyúttal azonban könnyen és olcsón, illetve széles körűen hozzáférhetővé teszi – az eredeti értékeket. Ez az olcsóság azonban relatív. A digitalizálás, ha később el akarjuk érni és rendszerben akarjuk kezelni a tárgyakat – vagy ha restaurálásról is szó van –, nem olcsó mulatság, sőt nagyon jelentős, elsősorban költséges szellemi ráfordításokat igényel. Ezért dönteni kell, mit, mikor és milyen módon őrzünk meg, tárolunk és teszünk elérhetővé.
+
+## Az archiválás, megőrzés gyorsan változó technikái új lehetőségeket teremtenek egy sor kulturális tevékenység biztosításának kiszélesítésére. Így például:
+
+## – mód nyílik megváltozott tartalmú, új összefüggéseket is felmutató oktatási célú összeállítások kidolgozására,
+
+## – lehetővé válik a múzeumi látogatottságot növelő, komplex szolgáltató csomagok széles körű bemutatása,
+
+## – létrehozhatók a színházak, hangversenytermek stb. belső kommunikációját biztosító hálózatok.
+
+## Az eEurope Akcióterve keretében készült a kulturális ágazat szempontjából talán a legfontosabbnak tekinthető eContent program, amelynek célja: az információs társadalom fejlődésének felgyorsítása – többek közt azáltal, hogy számos nyelven, mindenki számára hozzáférhetővé teszik a magas színvonalon feldolgozott, digitális ,,tartalmat”, illetve elősegítik az európai digitális tartalmak jobb elérhetőségét, elosztását és használatát.
+
+## A Nemzeti Fejlesztési Tervhez készült GVOP-ban az alábbi főbb feladatokat határozták meg:
+
+## – a digitális tartalom-iparág ösztönzése,
+
+## – az üzleti, a tudományos és kulturális tartalomszolgáltatás fejlesztése,
+
+## – az e-kereskedelem fejlesztése a kulturális piac területén.
+
+## Feladatok a kitűzött célok megvalósításáért:
+
+## – A tárcának felül kell vizsgálnia az ágazat és a kreatív iparágak[^24] között viszonyt, szorosabb kapcsolatokat kell kialakítania velük, illetve a többi tárcával együtt, közös erővel jelentősen fejleszteni kell ezeket az iparágakat.
+
+## – Az ágazatnak meg kell vizsgálnia a területfejlesztésbe való bekapcsolódásból reá háruló feladatokat, és gondoskodnia kell a hatékony feladatellátáshoz szükséges szervezeti háttérről.
+
+## – Az ágazathoz tartozó intézményrendszert alkalmassá kell tenni az információs társadalom kulturális stratégiájában foglaltak végrehajtására, annak folyamatos karbantartására és felülvizsgálatára.
+
+## – Elemezni kell többek között a továbbiakban felsorolt körülményeket, lehetőségeket és kihívásokat:
+
+## – Globalizáció (az egyik oldalon: kínálat hihetetlen kiszélesedése, a hozzáférés olcsósága és egyszerűsége, a másik oldalon: a hagyományos indentitás(ok) föllazulása, és a multikultúralitás meghatározóvá válása).
+
+## – EU-belépés (identitást érő kihívások, kulturális termékek szabadabb áramlása, a kulturális sokféleség felerősödése, az alkotások, és alkotók ki- és beáramlása hazánkból, növekvő lehetőség önmagunk megismertetésére, egyben önazonosságunk elvesztésének veszélye).
+
+## – Új technológiák (a kultúra megőrzése, archiválása, hozzáférhetővé tétele, olcsó eljuttatása, olcsó reprodukálása, ezen belül az audiovizualitás meghatározóvá válása, az üzlet hatásának dominanciája – pénz, képesség és erő csábító üzeneteket megfogalmazására).
+
+## – Szabadidő és életmód (több szabadidő, több pénz a kulturálisnak tekintett árúk fogyasztására. A fogyasztási javakon belül előtérbe kerül az olyan információ ami vagy kultúra, vagy annak is tekinthető, esetleg azzal közvetlen kapcsolatban van, ezáltal a fogyasztás egyre nagyobb területei kerülnek az üzlet hatása alá).
+
+## – A kulturális kínálat növekedése, miközben a választás tudatossága és értékválasztás képessége gyengül (az üzleti alapú kulturális kínálat túlereje, kifinomultsága, könnyű befogadhatósága és csábító ereje, a tömegkultúra igénytelenné válik).
+
+## – Az audiovizuális kultúra túlsúlya (kultúrán belüli eltolódások a tv, illetve az internet felé időben, figyelemben, ráfordításban és hatásban).
+
+## – Gyermekek kulturális nevelése (eltolódás a hagyományos kultúrákról a technikai ismeretek felé, és a kulturális értékek háttérbe szorulása, az igényszint csökkenése. A gyermek-kultúra szinte teljes mértékben a globális vállalkozások területe lett).
+
+## – „Népvándorlás” (a régi nemzeti elzárkózás helyett kulturális sokféleség, együtt élnek majd civilizációk, és ez felveti az identitás megőrzés növekvő fontosságát a növekvő kulturális kínálat és diverzitás idején).
+
+## – Információ-gazdaság kialakulása (az ún. ,,kreatív” iparágak felértékelődése, film, tv, ipari és életmódbeli design, melyekre tekintettel kell lenni a kultúra fejlesztésénél).
+
+## – A demokrácia fejlettségi szintje, amely a tolerancia, a sokszínűség, a kulturális verseny mértékét, módszereit meghatározza.
+
+## Felsőoktatás
+
+## Az elmúlt években komoly fejlesztések történtek az informatika egyetemi és főiskolai oktatásában és eszközellátottságában. A felsőoktatási intézmények számára is hozzáférhető HBONE gerinchálózat igen nagy sebességű kapcsolódást tesz lehetővé a nemzetközi tudományos kutatóhelyi rendszerekhez, adatbázisokhoz. Az egyes intézmények kapcsolódása a HBONE-hoz azonban nem egyenletes.
+
+## A felsőoktatási intézmények az utóbbi években sok pályázaton juthatnak – általában célhoz kötött – fejlesztési támogatáshoz. E célok között kiemelt szerepe van a kreditrendszer bevezetése informatikai támogatásának, az akadémiai adatátviteli hálózat átviteli kapacitása gyors bővítésének, a legelterjedtebb szoftverekhez jutás segítésének, valamint a kiemelt egyetemi, főiskolai fejlesztéseknek.
+
+## A 2001-ben indult Elektronikus Információ Szolgáltatás keretében nagy nemzetközi adatbázisokhoz, valamint magyar fejlesztésű elektronikus szótárakhoz, tudományos folyóiratok elektronikus változatához juthatnak hozzá a hallgatók és az oktatók.
+
+## Közel egy évtizede tart az a folyamat, melynek célja a felsőoktatási intézményekben valamilyen szempontból egységes nyilvántartási rendszerek elterjesztése. Az ezekre épülő felsőoktatási vezetői információs rendszer fejlesztése és bevezetésének támogatása még mindig nem megoldott, nincs kiépítve a felsőoktatás irányítását elősegítő információs hálózat és a hallgatói, oktatói, kutatói nyilvántartás.
+
+## Előremutató kezdeményezésként már 1996-ban bevezetésre került a felsőoktatásban az intelligens hallgatói kártya. 2003-ban megújul a kártya, a következő években a cél egy általános hallgatói-oktatói kártyarendszer kialakítása, a hallgatói rendszerekkel való szoros kapcsolat megteremtése és a kártya külső hasznosítása.
+
+## Olyan diplomások kerüljenek ki a felsőoktatási intézményekből, akik rendelkeznek az európai munkaerőpiacon az elhelyezkedéshez szükséges alapvető készségekkel:
+
+## ✓ Úgy használják a számítógépet, mint a mai diplomások a papírt, ceruzát;
+
+## ✓ Felsőfokú szinten beszélnek a magyar mellett még legalább két idegen nyelvet;
+
+## ✓ Képesek az együttműködésre, ismerjék a csoportmunka-támogató rendszereket;
+
+## ✓ Van bennük igény és képesség a folyamatos önképzésre, az önálló ismeretszerzésre;
+
+## ✓ Eligazodnak az elektronikus információforrások között;
+
+## ✓ Olyan felsőoktatási struktúra alakuljon ki Magyarországon, amely mind kínálatában, mind oktatási módszertanában képes a körülményekhez folyamatosan, gyorsan és dinamikusan alkalmazkodni.
+
+## Az európai oktatási miniszterek által aláírt Bolognai Nyilatkozat állást foglalt az Európai Felsőoktatási Térség létrehozása mellett, meghatározva milyen strukturális átalakításokat kell tenni a felsőoktatási rendszerekben ahhoz, hogy 2015-ig néhány kulcsfontosságú területen eredményeket lehessen elérni:
+
+## ✓ Legyenek meg azok az informatikai rendszerek, hálózatok, amelyek biztosítják a valósidejű visszacsatolást a piaci igényekről és az oktatás sikeréről;
+
+## ✓ Az ágazati irányítást korszerű monitoring rendszer támogassa;
+
+## ✓ A felsőoktatási intézményekben váljék általánossá a minőségbiztosítás;
+
+## ✓ A központi feladatok koordinálására, a követelmény-specifikációk karbantartására, a minőségbiztosítási auditok szakmailag igényes elvégzésére informatikai kompetencia központokat (fórumokat) kell létrehozni, amelyek egyben a public-private partnership katalizátorai is lehetnek;
+
+## ✓ Hatékony evaluáció tegye lehetővé az egzakt kimenetek vizsgálatát.
+
+## A felsőoktatás egészét hassa át az egész életen át való tanulás gyakorlata
+
+## ✓ Legyen általános az oktatók ösztönzése a folyamatos önképzésre, tudásuk rendszeres megújítására;
+
+## ✓ Szolgálják ki, oktassák a felsőoktatási intézmények az egész életen át tanuló diplomásokat;
+
+## ✓ A középiskolából bekerülő, első diplomájukat szerző diákokban alakítsák ki az igényt és a képességet az egész életen át való tanulásra.
+
+## Ki kell alakítani a felsőoktatási intézményekben a kontakt-oktatás, a távoktatás és az e-learning egységes tanulásszervezési rendszerét:
+
+## ✓ Létre kell hozni a 2002–2003-ban bevezetett Egységes Tanulmányi Rendszer továbbfejlesztésével az egész életen át való tanulást, a diákok tudásának bővülését folyamatosan követni és regisztrálni képes hallgatói nyilvántartást.
+
+## ✓ A hallgatót támogatni kell abban, hogy egyéni képességeinek és elképzeléseinek megfelelően tudjon tanulni, amikor akar, akkor tanártól, amikor arra van kedve, az, elektronikus jegyzetből vagy az interneten.
+
+## Ki kell alakítani a felsőoktatásban használt oktatási anyagokat átfogóan kezelő és nyilvántartó rendszereket.
+
+## Kívánatos a hallgatókat is befogadni képes szakmai virtuális közösségek létrejötte
+
+## Szükség van az oktatók képességeit, az egyetemeken felhalmozódó tudást nyivlántartani képes intézményi HR rendszerekre.
+
+## Hozzá kell igazítani a magyar felsőoktatási rendszert az Európai Unió oktatási-informatikai elvárásaihoz.
+
+## A felsőoktatási részstratégia kiemelt feladatai:
+
+## – A hallgatói és oktatói intelligens kártya bevezetése és széles körű használatának ösztönzése.
+
+## – Háromszintű vezetői információs rendszer kialakítása. Alsó szintje az intézményi operatív nyilvántartásoké (gazdálkodás, tanulmányi rendszer, ingatlanregiszter stb.), a középső szint az intézményi vezetői rendszereké, információs tárházaké, a felső szint a metaadatbázis szisztémával kialakított minisztériumi statisztikai, modellező elemző-értékelő rendszeré.
+
+## – Az intézményi tanulmányi rendszereknek (ETR) folyamatosan fejlődniük kell, ahogyan azt az európai felsőoktatási tér megkívánja.
+
+## – A korszerű informatikai megoldások bevezetése megkívánja a hallgatók központi azonosítását, és egy olyan metaadatbázis kialakítását, amelyre alapozva megakadályozható, hogy egy hallgató több helyen is támogatásban részesüljön.
+
+## – Számítógépes iktatás és a workflow rendszerek kialakítása az intézményekben, beleértve az oktatói munkával kapcsolatos mindenféle dokumentálást, az adminisztrációtól a jegyzetekig.
+
+## – Az OM által fenntartott Elektronikus Információ Szolgáltatás rendelkezzen a legfontosabb nemzetközi elektronikus kutatói adatbázisoknak felhasználói jogával (pl. Current Contents).
+
+## – A már működő rendszereket informatikailag rendszeresen auditálni kell. A legfontosabb ilyen rendszerek a felvételi rendszer, hallgatói teljesítmények nyilvántartása (kredit-transzfer), ekvivalencia adatbázis.
+
+## – Nagyon gyors, nagy sávszélességű hálózatokra van szükség mind az intézmények között, mind pedig az intézményeken belül. A regionalitás is megköveteli, hogy az oktatási intézmények bekapcsolódjanak a kialakuló regionális optikai gyűrűkbe.
+
+## Közoktatás
+
+## A XXI. században már nemhogy egyetemi diplomát, de érettségi bizonyítványt sem illik adni annak, aki felhasználói szinten nem sajátította el a személyi számítógép és az Internet használatát, aki nem tud egy dokumentumot elkészíteni, villámlevelet küldeni, a világhálón tájékozódni. A közoktatás feladata, hogy a jövő nemzedéke rendelkezzen ezekkel a ,,minimális” képességekkel. E feladat ellátásában az informatika jelentős szerepet kap. A digitális tananyagok rövidesen a tananyag részévé válnak – a Sulinet program keretében egyre több ismeret, tananyag kerül föl a világhálóra és lesz onnan elérhető – Magyarországon is egyre szélesebb körben terjed az úgynevezett e-learning, a hálózatos tanulás gyakorlata.
+
+## Az, amit információs társadalomnak neveznek, a korábbiaktól az adatok, információk tárolásában és hozzáférésének módjában, a döntésekhez felhasználható információ mennyiségében, az emberek és szervezetek egymás közötti kapcsolattartásának módjában különbözik. A gyors változások a korábban szerzett alaptudás elavulását is magukkal hozzák. Időről időre meg kell újítaniuk az embereknek azt a tudásbázist, amelynek alapján a napi munkájukban, a napi aktuális információk alapján értékelnek és döntenek. Ezért olyan fontos az egész életen át való tanulás.
+
+## Az informatika oktatása és eszközellátottsága terén eddig lezajlott fejlesztések még nem elegendőek ahhoz, hogy megakadályozzák a szociális határok mentén kialakuló ,,digitális szakadék” elmélyülését.
+
+## Külön figyelmet érdemel, hogy a munkaerő-piaci érvényesülés szempontjából egyre inkább felértékelődő kompetenciák, köztük az információs társadalomban igen fontos informatikai készség, idegen nyelv-tudás, együttműködési és az önálló ismeretszerzési képesség.
+
+## A közoktatási részstratégia jövőképe szerint, az oktatás
+
+## – eredményesen szolgálja a gyermekek és fiatalok fejlődését, személyiségük gazdagodását, az egész életen át tartó tanulásra való és a társadalmi életben való aktív részvételre való felkészülésüket,
+
+## – rugalmasan alkalmazkodjék a munkaerőpiac folyamatosan változó igényeihez, és biztosítsa a gazdaság versenyképességének fenntartásához szükséges, megújulni képes humán erőforrásokat;
+
+## – hatékonyan járuljon hozzá Magyarország és a felnövekvő nemzedékek sikeres európai integrációjához, és adaptív módon reagáljon a globális technikai átalakulásból és a nemzetközi kapcsolatrendszerek kiszélesedéséből eredő kihívásokra.
+
+## A közoktatási információs társadalom stratégia célrendszere:
+
+## Minden diák kapja meg azt az informatikai alapot, ami a felsőoktatási képzésben való részvételhez szükséges. Aki nem, az is tudja alapfokon használni a számítógépet és el tudjon igazodni az interneten, világhálón, tudja tudását egész életén át bővíteni.
+
+## Adja meg az iskola azt a tudást és készséget, ami az információs társadalomban való eligazodáshoz, boldoguláshoz kell.
+
+## Ki kell alakítani a közoktatásban használt oktatási anyagokat átfogóan kezelő és nyilvántartó rendszereket.
+
+## Kapjanak meg minden segítséget az iskolák ahhoz, hogy a tanulókat korszerű módszerekkel meg tudják tanítani legalább még két nyelven beszélni a magyaron kívül.
+
+## Legyen általános a tanárok ösztönzése a folyamatos önképzésre, tudásuk rendszeres megújítására.
+
+## A tanulókban alakítsák ki az igényt és a képességet az egész életen át való tanulásra.
+
+## A közoktatás középtávú fejlesztéspolitikája céljainak és prioritásainak meghatározását a korábban ismertetett helyzetértékelés, a felvázolt jövőkép és az Európai Unió által elfogadott átfogó oktatáspolitikai célok mellett nagymértékben meghatározza még egy további elem: a Nemzeti Fejlesztési Terv. Mindezek figyelembevételével e stratégia a következő középtávú fejlesztési célokat és prioritásokat határozza meg:
+
+## – az élethossziglan tartó tanulás megalapozása a kulcskompetenciák fejlesztése révén,
+
+## – az oktatási egyenlőtlenségek mérséklése,
+
+## – az oktatás minőségének fejlesztése,
+
+## – a pedagógus szakma fejlődésének támogatása,
+
+## – az infokommunikációs technikák alkalmazásának fejlesztése,
+
+## – az oktatás tárgyi feltételeinek javítása,
+
+## – a közoktatás költséghatékonyságának és irányításának javítása.
+
+## A Nemzeti Fejlesztési Terv többféle operatív programot tartalmaz, amelyek közül az oktatásfejlesztés szempontjából a Humán Erőforrás Fejlesztési Operatív Program bír a legnagyobb jelentőséggel. Ennek az operatív programnak két prioritása, az egész életen át tartó tanulás feltételeinek erősítése és a társadalmi kirekesztés elleni küzdelem közvetlenül összekapcsolódik e stratégia több középtávú fejlesztési céljával: a kulcskompetenciák megalapozásával, az oktatás minőségének fejlesztésével, az oktatási egyenlőtlenségek csökkentésével és a pedagógus szakma megújításával.
+
+## A stratégiai célok elérése érdekében az Oktatási Minisztérium 23 célprogram, illetve intézkedési csomag (a továbbiakban: OMKKFS) megvalósítását tervezi, melyek közül több szorosan kapcsolódik az információs társadalom fejlesztéséhez. Az ezekben megfogalmazott legfontosabb feladatok:
+
+## – Akkreditált oktatási programok fejlesztése és a szakiskolai hálózat modernizációja során az elektronikus oktatási tartalomfejlesztés és szolgáltatás kiszélesítése.
+
+## – Az akkreditált oktatási programok fejlesztése során e-learning technikák beépítése az oktatásba.
+
+## – Akkreditált oktatási programok fejlesztése során információforrások intelligens felhasználására, a belső összefüggések megértésére, a keresésre az interneten, az interneten található információk értékelésének képességére, a hitelesség eldöntésére való képesség beépítése az oktatási célokba.
+
+## – Idegen nyelvek tanulásának fejlesztése során az egyéni tanulást támogató e-learning technikák beépítése az oktatásba.
+
+## – Roma, hátrányos helyzetű és sajátos nevelési igényű gyermekek integrációja során az infokommunikációs eszközök használatának elterjesztése, különös tekintettel a speciális szoftverekre.
+
+## – Olyan mérési, minőségértékelési rendszer továbbfejlesztése, amely hozzájárul az élethosszig tartó tanulás megalapozásához, támogatja az iskolai önértékelést és az iskolák fejlődését támogató külső értékelést alkalmaz.
+
+## – A pedagógus szakma fejlesztése során a pedagógusképzés és -továbbképzésben az infokommunikációs kompetenciák kialakítása, különös tekintettel az informatikai eszközökre alapozott pedagógiai eljárások alkalmazására.
+
+## – A pedagógus szakma fejlesztése a szakmai és szakszolgálatok szolgáltatásainak információs eszközökkel való hozzáférhetővé tételével, az oktatási információs rendszer fejlesztésével, az iskolai szintű pedagógiai innovációk és a sikeres gyakorlatok elterjesztésének támogatására adatbankok felállításával, a kutatási-fejlesztés produktumainak hozzáférhetővé tételével.
+
+## – Az oktatási tartalomfejlesztés és szolgáltatás kiszélesítése.
+
+## – Az eszköz- és felszerelési jegyzék felülvizsgálata, az eszközellátottság fejlesztése.
+
+## – A hardver- és szoftverellátás fejlesztése.
+
+## – A közoktatási információs és statisztikai rendszer fejlesztése.
+
+## Gyermek- és ifjúságügy
+
+## A stratégiát meghatározó erőtér: az információs társadalom ifjúságpolitikai szempontból értelmezhető fejlődési irányai szemléleti alapozást, az ifjúságpolitikát érintő európai uniós elvárások stabil mintákat kínálnak, a magyar ifjúságpolitika főirányainak az infokommunikációs szférához való kapcsolódási pontjai pedig a szakmai-ágazati beágyazást biztosítják.
+
+## Az információs társadalom ifjúságpolitikai szempontból értelmezhető fejlődési irányai:
+
+## Korai adaptálókként vagy az új technológiákat alkalmazó, sőt fejlesztő pionírokként, a digitális írástudás magabiztos hordozóiként a fiatalok a változások egyértelmű ,,nyerteseivé” váltak. Azok a készségek és jártasságok, amelyekkel a ma fiatalja a szocializáció kulcs-periódusaiban otthonosan használt infokommunikációs környezet folytán kikerül a munkaerőpiacra, az idősebb korosztályokkal szemben egyértelmű versenyelőnyt biztosít számára. A számban és összetettségben gyarapodó tudások megszerzéséhez vezető úton egyre kevesebb direkt közvetítést, illetve vezetést igényelnek, és felértékelődött a szerepük a munkamegosztásban is, a társadalom által igényelt tudások egyre alacsonyabb életkorban történő előállítóiként. Evvel összefüggésben a tartalomfejlesztés, a kultúrafogyasztás és a marketingkommunikáció egyre hangsúlyosabb célcsoportjává váltak.
+
+## Mivel azonban a fenti változások párhuzamosan jelentkeznek egy soha nem tapasztalt tempójú gazdasági-társadalmi átalakulással, még a legfejlettebb országokban sem érzékelhető jelentős előrelépés a fiatal korosztályok akut társadalompolitikai gondjainak megoldásában (gyermeki jogok sérelme, családon belüli erőszak, kábítószer-használat, szexuális kiszolgáltatottság, dezorientáció, destruktív szekták hatása, urbanizációs betegségekkel szembeni védtelenség stb.).
+
+## Erősödik az a közhangulat, amely bizonyos társadalmi kohéziótípusok csökkenése miatt néhány területen egyenesen a kiszolgáltatottság növekedését, a veszélyfaktorok gyarapodását érzékeli meghatározónak. Különösen hisztérikusan reagál a – közvélekedés szerint – éppen a digitális környezet által lehetővé tett ,,új generációs” problémákra (Internet-függőség, közösségi kapcsolatok elsorvadása, számítógépes játékszenvedély stb.)
+
+## A tárca mozgásterének kiszélesítéséhez, tervező munkájának teljessé tételéhez jelenlegi feladat meghatározásához képest bővítenie kell az általa lefedett területek körét, korszerű elveknek megfelelően kell felépítenie azokat az öntőformákat, amelyekbe megfelelő szemlélettel megalkotott cselekvési terve majd kerül, meg kell találnia és erősítenie helyét a kormányzati struktúrában. A legfontosabb célokat 5 alapelv által meghatározott 6 nagy gyűjtőkategória mentén foglaljuk össze (ezek fantázianeve: Parainesis, Ezer virág, Netizen, Polis, Scientia, Hétszínvirág).
+
+## A stratégiával szemben a következő követelményeket kell támasztani:
+
+## – hatékonyan járuljon hozzá a társadalmi újratermelődés folyamatához, a kor-osztály társadalmi beilleszkedésének segítéséhez,
+
+## – minden lényeges kihívásra reagáljon, maradéktalanul fedje le a probléma-spektrumot,
+
+## – a korszerű tradíciókra is építve, azokat megújítva és átalakítva legyenek innovatív, eredeti elemei, amelyek kitüntetett pontokat generálnak és – nemzetközi dimenzióban – versenyelőnyt biztosítanak,
+
+## – ahol lehetséges, legyen átjárása a tárca informatikai stratégiájához, amelynek – átfogóan – az éves intézkedési terv részeként kell megszületnie, és amely átjárást biztosítva fedi le a belső (a minisz-térium és kapcsolt szervezetei), illetve a külső (az ifjúsági civil körbe tartozó szervezetek) informatizálási feladatait.
+
+## A célok – a majdan hozzájuk tartozó feladatok számossága miatt – ,,kötegekben” jelentkeznek, áttekintésük tehát problémacsoportok szerint indokolt:
+
+## „Parainesis”. Tudat- és közvélemény-formálás felsőfokon
+
+## Minden hosszú távú, megalapozott döntéseken alapuló, kellő támogatottságot maga mögött tudó program kiindulópontja az, hogy kialakuljanak egy korszerű, információs kori ifjúságkép vállalható, érvekkel alátámasztható, kommunikálható és a mindennapok tapasztalataival igazolható moduljai. Néhány alapkérdésben konszenzust lehet és kell elérni, úgy, hogy ez a modern gyermek- és ifjúságkép egyúttal egy átfogó nemzeti jövőkép kiemelten fontos és sokoldalúan formába öntött alkotóeleme is legyen.
+
+## „Ezer virág”. Kiterjedt, fenntartható, állandóan megújuló, formagazdag kulturális és közösségi színterek és az azokat ,,láthatatlanul” támogató intézményi infrastruktúra kiépülése
+
+## Fontos cél, hogy minden településen, a korosztályi népességet lefedve legyenek olyan intézmények, amelyek a generációs kezdeményezések megvalósítása, kiszolgálása érdekében, a részvétel elvén, demokratikus rendszerben működnek. A megindult ,,hálózatosodási” folyamatok támogatásával a legfontosabb értékközvetítő intézmények országos ,,lefedettségig” juttatása. Külön kiegészítő programoknak kell biztosítania, hogy a speciális élethelyzetűek és a kistelepülések ilyen szempontból különleges hátrányban lévő lakóihoz is eljussanak – megfelelően ,,adaptált” módon – ezek a lehetőségek. Sokoldalúan bátorítani kell, hogy a legeredetibb kezdeményezések nemzetközi szintre emelkedhessenek: néhány műfaj, néhány tábortípus, néhány internetes játék és akció Magyarország-központtal, de európai, sőt világ-fókusszal futhasson.
+
+## „Netizen”. A digitális írástudás versenyképes nemzedéke
+
+## Az információs társadalomban számos új készséggel, képességgel kell rendelkeznie a polgároknak ahhoz, hogy a tudást kulcsszerepre emelő és az élethosszig tartó tanulás igényét előtérbe állító társadalom teljes jogú tagjává tudjanak válni.
+
+## 2015-re a magyar társadalomban teljes körűvé kell válnia a jártasságnak a digitális írástudásban. Minden fiatal – lakóhelyétől függetlenül –, aki iskolába jár, vagy onnan kikerül, magabiztosan kezelje az új információs és kommunikációs technológiai eszközöket, ismerje ezek előnyeit, hátrányait, alkalmazási lehetőségei, határait. Minél hamarabb alprogramoknak kell indulnia, amelyek előre felkészülnek arra, milyen tartalmakkal, milyen speciális támogatással lehet elérni, hogy a kimaradásra kódolt hátrányos helyzetűek számára is teljeskörűen megnyíljanak a kapuk. Eközben arra is gondosan ügyelni kell, hogy legyen az információs írástudásnak néhány olyan szegmense, amely afféle ,,magyar sajátosságként” külön figyelmet, kiemelt támogatást élvez, hogy hosszú távon Magyarországhoz, mint elismert tudáscentrumhoz kötődhessen néhány terület, annak minden járulékos, pozitív hatáskövetkezményével.
+
+## „Polis”. A közéleti és vállalkozói aktivitás új tartományainak meghódítása
+
+## A közösségi önszerveződés lendülete, a közszféra iránti érdeklődés és a szabad véleménynyilvánítás bátorsága, illetve a vállalkozói szellem ugyanarról a tőről fakad. 2015-re az innováció, a kockázatvállalás, a kezdeményezés kultúrájának kell felváltania a jelenlegi depressziós közhangulatot, öntudatos fiatal állampolgárokkal, akik támogató mintákat látnak és kapnak, akik jogi segítségre számíthatnak.
+
+## „Scientia” – Közösségi és perszonális tudás-források, -közvetítők és -katalizátorok hálózata, mint kereszt-cél
+
+## A tudásalapú társadalom perszonális és szervezeti, intézményes szereplői érvényesülésének, a társadalmi folyamatokhoz való viszonyulásának, a társadalmi újratermelődésben elfoglalt helyének, önmeghatározásának és értékteremtő aktivitásának alapkérdése a globális tudástőkéhez való hozzáférés, illetve hozzáférhetőség. A fiatalok számára ,,karnyújtásnyira” kell elérhetővé tenni az igényelt ismereteket és felhasználásuk módját. Elengedhetetlen, hogy a szolgáltató rendszerekben felhalmozott tudás nyilvánosan, szervezetten váljon elérhetővé, s a fiatalok segítséget kapjanak ahhoz, hogy a szükséges tudáselemeket képességekké konvertálhassák. A már hálózatokká szerveződő ,,tudásközpontoknak” (ifjúsági szolgáltató irodák, városi és kistérségi ifjúsági referensek, teleházak, hallgatói információs központok stb.) lehetőséget és segítséget kell kapniuk arra, hogy szektor és intézményrendszerek feletti tudásháló kialakításával és fejlesztésével, alkalmazásával tölthessenek be katalizátor és segítő-tanácsadó szerepet a közösségi és perszonális gyermek és ifjúsági munkában.
+
+## „Hétszínvirág”. Az esélyegyenlőtlenségek csökkentése, mint kereszt-cél
+
+## Magyarországon 577 ezer értelmi és érzékszervi, látás-, hallás-, beszéd- vagy mozgásszervi fogyatékos él. Az oktatási rendszer újratermeli a társadalmi egyenlőtlenségeket, és jól kirajzolódnak az új keletű digitális törésvonalak is. A fogyatékkal élők, romák, alacsony jövedelmű családok gyermekei, kistelepülésen lakók, tartósan munkanélküli fiatalok alacsony iskolai végzettségűek körében a kitörési pontot a hálózati hozzáférésen és a digitális írástudás teljes körűvé tételén kívül a sokoldalú fejlesztőprogramok, a képzettségszerkezet folyamatos emelése jelentheti. Esélyegyenlőség-teremtésre módot adó cselekvési tér a stratégiai főcélok mindegyikében nyílik. Az ifjúságpolitika akciós sugara korlátozott, de a felelős tárcának számtalan szakanyag készítőjeként, kezdeményezés és projekt elindítójaként, támogatójaként, az esélyegyenlőség gondolatának konok képviselőjeként kiemelt szerepe lehet a téma iránti figyelem fenntartásában.
+
+## Informatikai biztonság, minőség
+
+## Az elektronikus eszközök használatával kapcsolatos informatikai biztonság problematikája lényegében egyidős az informatika számítógépesítésével (már a 70-es évek végén érkeztek hírek a különböző számítógépes rendszerekbe való betörésekről, számítógéppel, elkövetett bűncselekményekről), azonban az informatikai biztonság kérdései markánsan csak az infokommunikációs eszközrendszer tömegméretű elterjedése, felhasználása mellett jelentkeztek és váltak ismertté (közismertek a rendszereket megbénító vírusok, a honlap feltörések, az elektronikus bűnözés különböző esetei). Az informatikai biztonságnak annyi vetülete, tényezője van, hogy a terület komplexitása, bonyolultsága nagyon magas. Nincs az informatikán belül olyan részterület, amelyet ne érintene, pont ezért ágazatok ,,feletti”, mind közigazgatás, mind a ,,civil” szférát érintő részstratégia. Nem véletlen, hogy a világ fejlett országaiban oly jelentős erőforrásokat fordítanak az informatikai biztonsággal kapcsolatos kutatásokra, a biztonság fokozásának módszereire, eszközrendszerére.
+
+## Az informatika, az infokommunikációs eszközrendszer rohamos fejlődésének következtében megnövekedett a kormányzati szektor és a gazdálkodó szervezetek működőképességének az informatikai rendszerektől való függősége, ezért a biztonsági kockázatok hatékony kezelése nélkül az információs társadalom nem fejlődhet.
+
+## Csak széles körű együttműködéssel biztosítható, hogy az állampolgárok és a vállalkozások bizalommal lehessenek az egyre inkább mindennapi életük és tevékenységük részévé váló információs társadalom iránt, melynek alapja a demokratikus jogok érvényesülése. Ez két (időnként egymásnak ellentmondó) alapvető emberi jog kiegyensúlyozott érvényesülését kívánja meg: az információhoz való jogot és a saját információk védelmének jogát.
+
+## A fejlett országok gyakorlatával ellentétben, az informatikai biztonság helyzetére hazánkban jellemző, hogy
+
+## – súlya, kezelése nincs arányban a fontosságával,
+
+## – nincs egységesen alkalmazott módszertan, és
+
+## – nem kapcsolódik a fő nemzetközi áramlatokhoz.
+
+## Az informatikai biztonság megoldatlan kérdései nem csak átmenetileg akadályozzák, hanem hosszú távon is veszélyeztetik az állam- és közigazgatás működőképességét és az informatika dinamikus továbbfejlődését.
+
+## A fentiek alapján aktív és előretekintő intézkedéseket kell tenni, melyek figyelembe veszik
+
+## – a nemzeti érdekeket,
+
+## – informatikai helyzetünk, szabályozási és intézményi rendszereink sajátosságait, valamint
+
+## – a nemzetközi tapasztalatokat és a nemzetközi együttműködésben rejlő lehetőségeket és előnyöket.
+
+## Az Informatikai biztonsági részstratégia célja, hogy a biztonság és bizalom növelésével segítse a gazdasági fejlődést, a versenyképesség növelését, továbbá hozzájáruljon az elektronikus ügyintézés, az elektronikus kereskedelem és más informatikai alkalmazások minél szélesebb körben való elterjedéséhez, a kritikus informatikai rendszerek és infrastruktúrák kiemelt védelméhez.
+
+## A főbb célok az alábbiak:
+
+## – a társadalmi fejlődés és a gazdaság versenyképességének támogatása biztonságos, hatékony információs rendszerek működésével,
+
+## – a kritikus infrastruktúrák kiemelt védelme,
+
+## – az informatikai rendszerekbe és hálózatokba vetett bizalom erősítése, az információbiztonsági tudatosság és ismeretek fejlesztése,
+
+## – az informatikai rendszerek alanyaira vonatkozó alapjogok védelme.
+
+## A célok megvalósításához az alábbi főbb feladatok esetében szükséges előrelépni:
+
+## – a jogszabályi és intézményi környezet biztosítása,
+
+## – a biztonsági követelmények kidolgozása, nemzetközi szabványok honosítása,
+
+## – a biztonságos információs rendszerek kialakításának és fenntartásának támogatása,
+
+## – részvétel a nemzetközi IT biztonsági szervezetek munkájában,
+
+## – az IT kockázatkezelési módszerek fejlesztése és alkalmazása,
+
+## – a tudásbázis növelése, oktatási, képzési és ismeretterjesztési feladatok az IT-biztonság területén, felkészítés a védekezésre, a felhasználóvédelem kiterjesztése az információs társadalomban,
+
+## – az IT-termékek minőségbiztosítása,
+
+## – a biztonsági szempontok érvényesítése a fejlesztés, tervezés és üzemeltetés során és
+
+## – az informatikai biztonsági szempontok érvényesítéséhez szükséges források megteremtése.
+
+## A fenti célok eléréséhez jelentős kormányzati szabályozási és koordinációs tevékenységek végrehajtása szükséges több szervezet, elsősorban az Informatikai és Hírközlési Minisztérium és a Nemzeti Biztonsági Felügyelet részvételével, számos területen külső szakértői források bevonásával. Jelentős kormányzati anyagi ráfordítás szükséges ahhoz, hogy felzárkózzunk az EU országok informatikai biztonsági szintjéhez és kihasználjuk az együttműködésben rejlő előnyöket.
+
+## A stratégia az információs társadalom biztonságossá tételének hosszú távú célját megvalósító út első lépése. A stratégia céljainak megvalósításához a biztonsági elvárások teljesítését kormányzati szinten támogatni és koordinálni kell, továbbá szükség van az informatikai rendszerek fejlesztőinek, felhasználóinak, üzemeltetőinek aktív közreműködésére is.
+
+## Elektronikus aláírás
+
+## Az elektronikus aláírás hazai elterjesztése gerjesztő eleme lehet az információs társadalom kialakulásának, megoldhatja az elektronikus dokumentum-kezelés és a digitális archiválás problematikáját, valamint közvetve alapjait jelenti a ,,papírmentes iroda” kialakulásának is.
+
+## Az elektronikus aláírás területén előzménynek tekinthető:
+
+## – a technológiai alapok kialakulása (létrejöttek a technikai, infrastrukturális feltételek),
+
+## – a szabályozási környezet megalkotása (EU direktíva, e-aláírás törvény és végrehajtási rendelete),
+
+## – néhány alkalmazás, projekt, pilot rendszer elindítása.
+
+## A stratégia célja az, hogy egy messzire mutató, távlati víziót határozzon meg, megfogalmazva a legfontosabb célokat, majd ezt követően a célok eléréséhez szükséges konkrét feladat- és tevékenységi tervet jelölje ki közép- és hosszú távra vonatkoztatva. Az elektronikus aláírás elterjesztésére vonatkozó hosszú távú stratégiai célok az alábbiak:
+
+## – infrastruktúra fejlesztése,
+
+## – szolgáltatások kialakítása,
+
+## – átlátható és világos felügyeleti és intézményi háttér,
+
+## – a nemzetközi együttműködés megteremtése és kapcsolatok kialakítása,
+
+## – az elektronikus aláírás társadalmi tudatosítása,
+
+## – kormányzati szerepvállalás és pénzintézeti szerepvállalás az elektronikus aláírás elterjesztésében.
+
+## A felvázolt stratégiai célokból, a vízióból került levezetésre a konkrét feladat- és tevékenységi terv, melynek legfontosabb elemei az alábbiak:
+
+## – intézményi akadálymentesítés (rövid táv),
+
+## – Kormányzati Elektronikus Aláíró Rendszer (KEAR) helyzetének rendezése (rövid táv),
+
+## – intézményi feladatok (Policy Authority, elektronikus aláírás bizottság létrehozása, alkalmazások és informatikai rendszerek biztonsági minősítését végző szervezet létrehozása) (középtáv),
+
+## – szabályozási feladatok (elektronikus aláírás törvény felülvizsgálata, ágazati törvények módosítása, követelményrendszer fokozott biztonságú hitelesítés-szolgáltatóhoz) (rövid, közép- és hosszú táv),
+
+## – támogatási feladatok (államigazgatási szolgáltatások fejlesztése, közigazgatási szolgáltatások fejlesztése, oktatási szolgáltatások fejlesztése, közszolgáltatások fejlesztése) (közép- és hosszútáv),
+
+## – nemzetközi szervezetekkel való kapcsolatok fejlesztése (rövid, közép- és hosszú táv),
+
+## – kiemelt ágazati projektek fejlesztése (közép- és hosszú táv),
+
+## – nagy hazai projektek támogatása (közép- és hosszú táv).
+
+## Az elterjedést – jelenleg – nem a piaci szolgáltatások (tanúsítványok, chip-kártyák, infrastruktúra) magas költsége gátolja, hanem valós akadályt jelent az, hogy egyelőre nincs mire használni a kártyát és tanúsítványt, mert nincsenek olyan háttérrendszerek, amelyekből közhiteles adatokat, szükséges információkat lehet lekérdezni, vagy állampolgári ügyeket lehet intézni.
+
+## A stratégia egyrészt az intézményrendszeri és szabályozási hiányosságok kiküszöbölését célozza meg, másrészt pedig célként tűzi ki az információs rendszerek és alkalmazások fejlesztésén, valamint a minőségi szolgáltatások fejlesztésén keresztül a lakossági és piaci igények megteremtését is. A stratégia javaslatot fogalmaz meg arra nézve, hogy az elektronikus aláírás és elektronikus szolgáltatások területén milyen kormányzati lépések szükségesek ahhoz, hogy minél szélesebb körben, minél többen, minél hasznosabban használhassák az elektronikus aláírás és digitális tanúsítvány nyújtotta szolgáltatásokat.
+
+## A stratégiában foglalt feladat- és tevékenységi terv elvégzésével – várhatóan a ciklus végére – egy széles körben elterjedt, világos szabályozási és intézményi háttérrel rendelkező elektronikus szolgáltatási piacot várunk, ahol az egyes piaci szolgáltatók egymással üzleti versenyben állnak, ezáltal a szolgáltatások ára mindenki számára elérhető és megfizethető, és az elektronikus aláírást és az ahhoz kapcsolódó szolgáltatásokat nagy számban használják mind az állampolgárok, mind pedig a szervezetek.
+
+## Az informatikai és hírközlési miniszter feladat- és hatásköréről szóló 141/2002. (VI. 28.) Korm. rendelet 6. §-a (4) bekezdés b) pontja alapján az informatikai és hírközlési miniszter gondoskodik a kormányzati elektronikus aláírásrendszer (KEAR) megvalósításáról és üzemeltetéséről. A KEAR rendszer megvalósítása nagymértékben növeli az államigazgatási informatika papírmentesítését, az infokommu-nikációs eszközrendszerek jobb kihasználását.
+
+## Esélyegyenlőség
+
+## A társadalom kettéosztott, információs szakadék osztja ketté. Legalább is egyre gyakrabban hallunk ilyen és ehhez hasonló véleményeket (sőt van aki már két szakadékról is beszél). A társadalmi egyenlőtlenséget korábban csupán szegénység-problémaként kezelték, ha valaki vagy valamely társadalmi csoport nem jutott kellő erőforráshoz. Magát a szegénységet pedig elsősorban elosztási problémának tekintették. A mi esetünkben az erőforrás azonban nem valami anyagi jószág, nem jövedelem, hanem egy szimbolikus jószág, az információ. Az információhoz való hozzájutás nem szegénység- és nem csupán elosztási probléma. A mai egyenlőtlenségek tényének és újratermelésének alapja nem csupán az elosztás, hanem a társadalmi munkamegosztás, a munka mai társadalmi szervezete, amely a hatalmi és a tudásviszonyok egyenlőtlenségére, ezen egyenlőtlenség tartós fenntartására épül.
+
+## Az Információs Társadalom felé haladva alapvető fontosságú válik, hogy ki milyen mértékben ,,birtokolja” az informatikai tudást: a számítógép kezelésének, használatának képességét, a szoftverek felhasználásának, kezelésének, alkalmazásának ismeretét, az információhoz jutás újabb és újabb (ezen belül kiemelten az Internet) lehetőségeinek kihasználását. A felsoroltak bármelyikében, bármilyen okból történő lemaradás egyben társadalmi értelemben vett leszakadást is jelent, amely akarva-akaratlanul az egyén hátrányos helyzetét eredményezi. Amennyiben ez a hátrányos helyzet bármilyen mértékben is ,,önhibán kívüli” okból áll elő, különösképp vetődik fel a társadalom felelőssége polgáraival szemben.
+
+## A lehetséges (illetve leghatékonyabb) megoldást keresve elemeznünk kell a jelenlegi helyzet okait. Meg kell különböztetnünk az informatikai eszközökkel való rendelkezést, az informatika eszközök használatától. Fontos cél, hogy a lakosság minél nagyobb hányada rendelkezzen informatikai eszközökkel (számítógép, internet elérés stb.), de talán még fontosabb, hogy rendelkezzen ezen eszközök használatának képességével, igényével és természetesen az, hogy használni tudja, sőt rendszeresen használja is azokat.
+
+## Külön is figyelemre méltó – bár nem meglepő –, hogy bizonyos csoportokban, nevezetesen az alacsony iskolázottságúak (szakmunkások) és az időskorúak (60 év felettiek, nyugdíjasok) körében az alacsony általános használói százalék mellett az internet használat aránya is fordított a többi csoporthoz képest. Ez kiemeli a képzés, ismeretterjesztés fontosságát.
+
+## A stratégiának megoldást kell találnia arra, hogy a társadalom informatikai megosztottsága ne nőjön tovább, a jelzett különbségek csökkenjenek.
+
+## Emellett az Unió további alapértékeinek (irányelveinek) is érvényesülniük kell, amelyeket akár, mint megvalósulandó alkotmányos alapjogokat is tekinthetünk:
+
+## – Az információkhoz való hozzáférési jog (amely magában foglalja a nyilvános adatbázisokhoz, az érintettről készült adatokhoz való hozzáférés jogát, valamint a közérdekű információk megismeréséhez való jogot, amely együtt jár a közérdekű adatokat nyilvánosságra hozatalának kötelezettségével).
+
+## – Az információközlési jog (amely az egyén, a közösség, a gazdaság szereplője stb. szabad adatközléshez való joga).
+
+## – A szabad kommunikáció joga (az információs hálózatokon a felhasználók közötti szabad párbeszédhez való jog).
+
+## – A ,,személyes” információhoz való jog, amely szerint (szemben a mai szabályozással, amikor is a közzététel letiltásáról rendelkezhet az állampolgár, éppen fordítva állapítja meg a jogosítványt) a személyt érintő adatok csak az érintett hozzájárulása esetén tehetők közzé.
+
+## – Valamint a téves adatok helyreigazításának kezdeményezése mindenkinek alanyi joga, illetve az azonnali korrekció végrehajtása az adatkibocsátó törvényben előírt kötelezettsége).
+
+## Célunk, hogy a kormányzati ciklus végére az ,,információs szakadék” szűküljön. Számokban kifejezve, és a hátrányos helyzetű csoportokra vetítve ez azt jelenti, hogy a használati indexeket közelíteni kell az országos átlaghoz.
+
+## A fő cél elérése érdekében több cselekvési területet jelölünk meg:
+
+## 1. Informatikai műveltség terjesztése a hátrányos helyzetűek körében.
+
+## 2. Célcsoport specifikus, minőségi tartalom biztosítása.
+
+## 3. A távmunka rendszer kiszélesítése a hátrányos helyzetűek körében
+
+## 4. Speciális mentori hálózat felállítása és működtetése.
+
+## 5. Lehetőleg normatív támogatási rendszer kialakítása.
+
+## Az első területen meg kívánjuk teremteni annak lehetőségét, hogy a jelenleg hátrányos helyzetben levők is a többi társadalmi csoportba tartozókhoz képest hasonlóan legyenek képesek az új infokommunikációs technológiák kezelésére, alkalmazására, és annak segítségével az információk megszerzésére, felhasználására.
+
+## A második terület nem kizárólag a hátrányos helyzetű rétegekre vonatkozik. Általánosan is igaz és fontos, hogy a fent említett technológiát – azon belül is kiemelve a számítógépes világhálót – értelmes és hasznosan lehessen felhasználni. Ennek jelentőségét felismerve indulnak a különböző tartalomszolgáltató programok. E célcsoportban ennek egy speciális részét emeljük ki, amellyel azt kívánjuk elérni, hogy az elérhető információk a lehető legjobban legyenek fellehetők, értelmezhetők, felhasználhatók. Ezt elsősorban az információk szabatos ,,definíciójával”, rendszerbe foglalásával, szabványosításával stb. kívánjuk biztosítani.
+
+## A harmadik terület azért kerül be a stratégiai célok közé, mivel a munka az egyik legfontosabb emberi ,,szükséglet”. Méghozzá olyan szükséglet, amelyet az informatika már is befolyásolt, de a jövőben még jelentősebb hatással lehet rá. Egyik ilyen ,,hatás” az, amit röviden távmunkának hívunk. Fontosnak tartjuk, hogy ezen a területen a lehető legnagyobb mértékben, ha kell pozitív diszkriminációval is biztosítsuk a jelenleg még hátrányos helyzetben levők esélyegyenlőségét.
+
+## A negyedik terület az esélyegyenlőségi stratégia ,,humán” infrastruktúráját jelenti. Olyan speciális informatikai-szociális képesítésű szakemberek hálózatát jelenti, akik – elsősorban a közösségi hozzáférési helyek hálózatában működve – az informatikai szempontból hátrányos helyzetű rétegek nagy tömegei számára ,,közvetíteni” képesek az előző három terület ,,szolgáltatásait”. Szükség esetén oktatóként vesznek részt a digitális írástudás elsajátításában, kezelési támogatást adnak az elektronikus tartalmak és szolgáltatások igénybevételéhez a megfelelő ismerettel nem rendelkezők kiszolgálása érdekében. A közösségi elérési helyek infrastruktúráját távmunkahelyként kínálva alkalmasak a hátrányos helyzetűek munkavégzésre történő kiképzésére és segítséget nyújtanak távmunkásként történő foglalkoztatásuk során.
+
+## A MITS az információs társadalom fejlesztésével összefüggő feladatok megoldását alapvetően piaci alapon képzeli megoldani. Vannak azonban olyan területek, amelyeken a tisztán piaci működés nem biztosítaná a kellően gyors, kiegyensúlyozott megoldást. Az esélyegyenlőség biztosítás területe ilyen. A legtöbb informatikailag hátrányos helyzetben lévő személy halmozott hátrányban szenved, amennyiben a szegénységet a fogyatékosságtól, diszkriminációtól, idős kortól, aluliskolázottságtól független hátránynak tekintjük. Az ilyen emberek számára az esélyegyenlőségi programokban való részvétel lehetőségének – az esélyegyenlőség biztosításának – megteremtése érdekében anyagi támogatást (is) kell nyújtani. A támogatási rendszer ezt a célt szolgálja.
+
+## Kutatás és fejlesztés
+
+## Magyarországnak az exportvezérelt gazdasági növekedés fenntartása érdekében a versenyképesség további javítására kell a hangsúlyt helyeznie. Ennek kulcseleme a termelőszektor modernizációja, ami elsősorban az innovatív termelési technológiák szélesebb körű alkalmazását igényli. Ehhez növelni szükséges a korszerű termelő beruházásokat, és jobban ki kell használni a kutatás-fejlesztés eredményeit.
+
+## Emellett azonban kiemelt jelentőséggel bír a vállalkozások versenyképes termék-előállításához szükséges műszaki K+F tevékenység alapkutatásainak és a kutatások transzferének támogatása, valamint a vállalkozások és a kutatói szféra együttműködésének ösztönzése.
+
+## Magyarország a piacgazdasági átalakulás időszakában elszenvedett veszteségek ellenére stabil tudományos alapokkal, kutatói erőforrásokkal rendelkezik, ideértve a legdinamikusabban fejlődő területeket is (pl. informatika). Ugyanakkor a vállalati szektor K+F kiadásainak szintje alacsony, különösen gyenge a kis- és középvállalkozások innovációs aktivitása, és hiányoznak a vállalatokat és a kutató-fejlesztő intézményeket összekapcsoló struktúrák.
+
+## A gazdaság fenntartható növekedésének biztosításához egyes nemzetgazdasági jelentőségű szakterület K+F tevékenységét kiemelten kell kezelni. Az alap- és alkalmazott kutatások hasznosulását segíti, ha meghatározásuk és megvalósításuk a K+F műhelyek és a gazdálkodó szervezetek kooperációjában történik. A kis- és középvállalkozások innovációs képessége közvetetten, például kooperációs kutatóközpontok létrehozásával, és közvetlenül, az innovációs tevékenység támogatásával fejlesztendő. A vállalati szektor K+F tevékenységét közvetlenül segíti a meglévő kutatóhelyek fejlesztése, illetve új kutatóhelyek létesítése, az ehhez kapcsolódó beruházások és infrastruktúra-fejlesztések támogatása. A vállalatok innovációs képességének fejlesztése során elsősorban a fővároson kívüli K+F központok innovációs kapacitásait és együttműködési struktúráit kell erősíteni.
+
+## A K+F alapvető feladata a versenyképes és dinamikus tudásgazdaság fenntartható fejlődését segíteni egyre több munkahely létesítését és a szociális kohézió erősödését eredményezve.
+
+## Ez megköveteli, hogy az Információs Társadalommal kapcsolatos technológiákra épülő alkalmazások és szolgáltatások szélesebb körben legyenek hozzáférhetőek, és terjedjenek el a gazdaságban, a közszférában és a társadalom egészében. Ezek a technológiák alapvetően segítik és hatékonyabbá teszik az
+
+## adat→ információ→ tudás
+
+## lánc megvalósulását, ezen belül a tudás létrehozását, megosztását és elterjesztését.
+
+## A jövő kutatásának középpontjában olyan technológiák állnak, amelyek a felhasználót helyezik a jövő fejlesztések fókuszába; például a számítógépek és a hálózatok beépítése a mindennapok környezetébe biztosítva a szolgáltatások és alkalmazások sokféleségéhez való hozzáférést könnyen használható interfészeken keresztül.
+
+## Ez összhangban van és erősíti az eEurópa 2005 céljait és a 2010 utáni időszakra vonatkozó célokat, amelyek az Információs Társadalom alkalmazásait és szolgáltatásait mindenkihez el kívánja juttatni, minden otthonba és minden vállalkozáshoz.
+
+## A stratégiai célok megvalósításának elősegítése a K+F feladata. Nevezetesen ez jelenti a közszolgáltatás modernizálását (e-kormányzat, e-egészségügy, e-tanulás), valamint egy dinamikus gazda-
+
+## sági környezet megteremtésének elősegítését. Természetesen a társadalomnak fel kell készülnie a
+
+## K+F eredmények befogadására és elterjesztésére. Ennek feltételeit hivatott megteremteni a MITS, amely egyúttal visszacsatolást biztosít a K+F eredmények társadalmi elfogadásáról és az alkalmazások során felmerülő problémákról. A kutatás és a politikai kezdeményezés szoros egymásra hatása fontos összetevője a MITS-nek.
+
+## A legfontosabb társadalmi és gazdasági kihívások, amelyekre a K+F-nek irányulnia kell:
+
+## – A társadalmi kohéziót, az esélyegyenlőséget erősítő hatékony, intelligens és könnyen kezelhető rendszereket kell létrehozni az egészségügy, a köz- és államigazgatás, a közlekedés, a felzárkóztatás, a tanulás, a kockázatkezelés, a környezetvédelem és a kulturális örökség, illetve a kultúra hatékonyabb működésére, szélesebb körű és demokratikusabb elérésére és használatára.
+
+## – A gazdaság minden egyes szereplőjét érintő versenyképesség és innovációs készség fokozását szolgáló megoldások és rendszerek kidolgozása az e-gazdaság, ezen belül a távmunka vagy az e-kereskedelem területei számára.
+
+## – A bizalom erősítését szolgáló megoldások és rendszerek kidolgozása, amelyek fokozzák az infrastruktúra megbízhatóságát, biztonságát, megvédik a személyiségi jogokat a magánszférában, az intézmények és gazdasági társaságok jogait és információs és tudás vagyonát.
+
+## – Az összetett és bonyolult (tudományos, társadalmi, ipari és kereskedelmi) feladatok megoldását elősegítő irányítási és tudáskezelési technológiák kidolgozása. A célkitűzések megvalósítására a K+F mindkét típusát, a programozott és a spontán (nem programozott) kutatást is igénybe kell tudni venni. A nem programozott kutatás az Információs Társadalom kialakulását és fejlődését segítő bármely területre vonatkozhat és kínálhat merőben új megoldásokat. A társadalom feladata ezeket megfelelő mederbe terelve segíteni kibontakoztatásukat és megvalósulásukat. A programozott kutatás a főbb hangsúlyokat megfogalmazó K+F programban meghatározott célok elérését szolgáló területeken kerül beindításra.
+
+## A hazai kutatói hálózati infrastruktúrának
+
+## – alkalmasnak kell lennie arra, hogy több mint 30 európai ország 3000-et meghaladó számú felsőoktatási és kutató intézetével együtt vehessen részt az európai kutatásokban, melyek kereteit az elkövetkező évek során az Európai Kutatási Övezet (ERA) fokozatos kialakítása fogja jellemezni, egyúttal
+
+## – megfelelő színvonalon kell támogatnia a hazai kutatást, hogy a magyar tudomány az egyre inkább globalizálódó környezetben, a formálódó ,,eScience” keretében megőrizhesse, és tovább erősíthesse a már eddig kivívott pozícióit.
+
+## Szószedet, kifejezések magyarázata, rövidítések
+
+## Kifejezések
+
+## Információs társadalom: A fogalom a szociológiában és a társadalomtudományok egészében annyira új keletű, hogy nem szerepel Giddens 1990-ben kiadott Szociológiájában sem (Giddens 1990), mint ahogy a szociológiai szótárakban általában nem található meg (lásd például az Oxford Concise Dictionary of Sociology-ját, 1994).
+
+## Pontos definíció helyett álljon itt a ,,The Information Society” folyóirat (TIS) által 1997-ben, az információs társadalom meghatározására adott címszó-felsorolás:
+
+## changing National Information Infrastructures, especially as they influence cultural expectations and social practices,
+
+## the politics of change in National Information Infrastructures,
+
+## the implications of the coming surge in electronic data interchange (EDI) and electronic commerce among businesses globally,
+
+## the ability of companies to ,,outsource” portions of their information processing to different countries around the world, creating transborder data flow issues for the countries involved and increasing the rapidity with which jobs migrate globally,
+
+## meanings and implications of political/economic systems that are based on universal access to baseline information services or fees-for-all-services,
+
+## options for, and implications of, various forms of ,,electronic democracy”,
+
+## the rise of ,,virtual communities” of persons worldwide engaging in ,,many-to-many” communication among their participants, irrespective of borders or corporate structures,
+
+## the role of place and space in visions and practice of digital libraries and electronic forums,
+
+## cultural changes in relation to Cyberspace—both empirical studies and studies of their representation in popular culture,
+
+## the structure of the information industries, including markets, industrial alliances, the character of work, and management-labor relations,
+
+## ethical dimensions in the development and use of new information technologies; and
+
+## gender issues in the development and use of new information technologies.
+
+## IT mentor: Elsősorban a közösségi számítógép és internet elérési helyeken (lásd még: eMagyarország-Pont, PIAP) dolgozó szakképzett személyzet. A mentorok feladata többrétű, de elsőrendűen az, hogy azokat az embereket segítsék, akik önállóan nem képesek igénybe venni az információs társadalom nyújtotta szolgáltatásokat, nem tudják (ki)használni az információs és kommunikációs technológia kínálta lehetőségeket. A segítség szükségessé válhat egyszerűen ismeret- vagy képességhiány miatt, vagy adódhat fogyatékosságból. Az ellátandó tevékenység lehet kezelési támogatás, segítség, oktatás, ismeretterjesztés de akár helyettesítő szerep is, amellyel egy elektronikus szolgáltatás igénybevételében ,,közvetít” a mentor. Emellett megfelelő informatikai, számítástechnikai ismeretekkel is rendelkezniük kell, amellyel az infokommunikációs eszközök üzemeltetését és minimális karbantartását el tudják végezni. A foglalkozás átmenetet jelent a szociális munkás és a rendszergazda között, és egyben lefedi az információs társadalom néptanítója, népművelője szerepkörét is.
+
+## eMagyarország-Pont: Speciális követelményeknek eleget tevő nyilvános (vagy korlátozottan nyilvános) számítógép és internet elérési helyszín. A speciális követelmények közé tartozik a szakképzett személyzet jelenléte, egységes szolgáltatási színvonal és tarifa rendszer. eMagyarország-Pont működhet üzleti alapon (postahivatal, internet kávézó), nonprofit alapon (teleház, civil-háló) és a közösségi fenntartásban (önkormányzat, közkönyvtár). A korlátozottan nyilvános elérés olyan speciális fenntartású helyszínek esetén képzelhető el, mint pl. nyugdíjas otthon, fogyatékkal élők intézményei. Fenntartási formájától, az üzemelés helyétől (település) vagy funkciójától (kisebbségi közösség) függően az eMagyarország-Pont különféle támogatásokra – pl. Közhálóra történő csatlakozás – jogosult.
+
+## PIAP: Szó szerinti fordításban nyilvános internet elérési pont, amely nem feltétlenül valamilyen nyilvános (vagy korlátozottan nyilvános) közösségi térben elhelyezett és internetre csatlakoztatott számítógép. Lehet olyan speciális készülék (pl. érintő képernyős terminál), amelyen bizonyos internetes szolgáltatások igénybe vehetők.
+
+## Rövidítések
+
+## MITS: Magyar Információs Társadalom Stratégia
+
+## GVOP: Gazdasági Versenyképesség Operatív Program
+
+## IHM: Informatikai és Hírközlési Minisztérium
+
+## IT: információtechnológia
+
+## IKT: információs és kommunikációs technológia (ICT)
+
+## BPR: Business Process Reengineering, üzleti folyamatok újraszervezése
+
+## ERP: Enterprise Resource Planning, vállalatirányítási rendszer
+
+## MIS: Management Information System, vezetői információs rendszer
+
+## CRM: Customer Relationship Management, ügyfélkapcsolat-kezelés
+
+## EDI: Electronic Data Interchange, Elektronikus Adatcsere (szabvány)
+
+## B2B: Business-to-Business, vállalatközi elektronikus kereskedelem
+
+## KKV: Kis- és középvállalkozás
+
+## PPP: Public-Private Partnership, Közösségi és magánszféra együttműködés
+
+## CLBPS: Common List of Basic Public Services, EU ajánlás a nyilvános alapszolgáltatásokról
+
+## APEH: Adó- és Pénzügyi Ellenőrzési Hivatal, magyar adóhatóság
+
+## OEP: Országos Egészségbiztosítási Pénztár
+
+## ONYF: Országos Nyugdíjbiztosítási Főigazgatóság
+
+## VPOP: Vám- és Pénzügyőrség Országos Parancsnoksága, magyar vámhivatal
+
+## BIX: Budapest Internet eXchange, Budapesti Internet kicserélő központ
+
+## VoIP: Voice over IP, Internet protokollon keresztüli hangtovábbítás
+
+## ISP: Internet Service Provider, internet szolgáltató
+
+## PIAP: Public Internet Access Point, nyilvános internet elérési pont (lásd még: eMagyarország-Pont)
+
+2. számú melléklet a 1126/2003. (XII. 12.) Korm. határozat
+
+E–KORMÁNYZAT STRATÉGIA ÉS PROGRAMTERV
+
+E-KORMÁNYZAT STRATÉGIA ÉS PROGRAMTERV
+
+TARTALOM
+
+1. PREAMBULUM
+
+1.1. A stratégiaalkotás célja
+
+1.2. Az e-kormányzás jövőképe
+
+2. KIINDULÓPONTOK, A STRATÉGIA ÉRTELMEZÉSI TARTOMÁNYA
+
+2.1. Az elektronikus kormányzat és a szolgáltató állam értelmezése
+
+2.2. Gazdasági és társadalmi igények, elvárások, hajtóerők
+
+2.3. Az elektronikus kormányzat mint eszköz
+
+2.4. Az e-kormányzati kezdeményezések társadalmi beágyazódása és környezete
+
+2.5. E-demokrácia, nyilvánosságkezelés
+
+2.6. Az európai unióbeli környezet és elvárások
+
+2.7. A fejlesztések összekapcsolása az esélyegyenlőség megteremtésével
+
+3. ELŐZMÉNYEK ÉS HELYZETÉRTÉKELÉS
+
+3.1. Stratégiai előzmények
+
+3.2. A MITS kidolgozása, az e-kormányzati stratégia háttere
+
+3.3. A jelenlegi helyzet értékelése
+
+3.4. Kapcsolati és szerepmodell
+
+3.5. A civil kontroll szükségessége
+
+4. AZ ELEKTRONIKUS KORMÁNYZAT KÖZPONT ÉS AZ E-KORMÁNYZAT
+
+4.1. Az EKK feladatai, szerepe a stratégiaalkotásban
+
+4.2. Stratégiaalkotás és -megújítás, monitoring
+
+4.2.1. Az érvényben lévő stratégia karbantartása
+
+4.2.2. Az üzleti/gazdaságossági szempontok vizsgálata, mérése, elemzése
+
+4.3. A központi megvalósítást igénylő feladatok
+
+4.3.1. Fizikai infrastruktúra
+
+4.3.2. Biztonság és bizalom
+
+4.3.3. Az e-kormányzati együttműködés informatikai biztosítása
+
+4.3.4. Kormányzati portál
+
+4.3.5. Információ- és tudásmenedzsment
+
+5. A STRATÉGIA KIEMELT INTEGRÁCIÓS CÉLTERÜLETEI
+
+5.1. Egységes közműkoncepció kialakítása és megvalósítása
+
+5.2. A szolgáltatási végpontok közelebb vitele a társadalomhoz
+
+6. A PROGRAMTERVEZÉS ALAPJAI
+
+6.1. Alapelvek
+
+6.2. Az e-kormányzati stratégia lebontása
+
+6.3. Az e-kormányzat főbb építőkövei
+
+6.3.1. Tartalom és szolgáltatások
+
+6.3.2. Szabályozás és eljárások
+
+6.3.3. Kultúra és egyéni tudás
+
+6.3.4. IKT infrastruktúra
+
+6.3.5. Intézményrendszer és együttműködés
+
+6.4. Módszertan
+
+7. PROGRAMOK MEGHATÁROZÁSA
+
+7.1. Kritikus e-kormányzati képességek
+
+7.1.1. Elektronikus működés
+
+7.1.2. Hatékonyság
+
+7.1.3. Ügyfélorientált kormányzati szolgáltatások
+
+7.1.4. Társadalmi csoportokat támogató szolgáltatások és működés
+
+7.1.5. Demokratikus részvételt és átláthatóságot erősítő szolgáltatások
+
+7.1.6. Tudásalapú működés
+
+7.1.7. Együttműködés az Európai Unióval
+
+7.2. Jelenlegi e-kormányzati programok
+
+7.3. Az e-kormányzat átfogó kezelése
+
+8. ÁTFOGÓ PROGRAMOK
+
+8.1. Alapinfrastruktúra Kiépítése Átfogó Program
+
+8.2. E-szabályozás Bővítése Átfogó Program
+
+8.3. E-hatékonyság Építés Átfogó Program
+
+8.4. E-szolgáltatások Átfogó Program
+
+8.5. E-kultúra Fejlesztés Átfogó Program
+
+8.6. EU Integráció Átfogó Program
+
+9. AKCIÓK
+
+9.1. EU csatlakozás követelményei
+
+9.2. Prioritások
+
+9.3. Horizontális szempontok érvényesítése
+
+9.4. Akciók részletes kibontása
+
+10. E-KORMÁNYZATI ÉRTELMEZŐ KISSZÓTÁR
+
+1. PREAMBULUM
+
+A Magyar Köztársaság közigazgatását, közszolgálatait és igazságszolgáltatását korszerű elveken alapuló, hatékony és az állampolgárok igényeit a középpontba állító működésnek kell jellemeznie. Ez jobb minőségű szolgáltatásokat jelent, a rendelkezésre álló erőforrások ésszerűbb felhasználásával. Példája és kisugárzása folytán a korszerűen működő közigazgatás, benne a kormányzati munka a társadalom modernizációjának húzóerejévé válhat, és a demokrácia kiteljesítésének ígéretét hordozza.
+
+1.1. A stratégiaalkotás célja
+
+Az ezidáig készült, stratégiai jellegű szakanyagok felhasználásával, illetve „beépítésével” született dokumentum egyszerre igyekszik megfelelni az alábbi céloknak:
+
+– rendszerezze a magyar Kormány e-kormányzással kapcsolatos szemléleti alapelveit, meghatározza, rendszerezze az alapfogalmakat;
+
+– a stratégiai célok és a következő időszak kiemelt feladatainak áttekintésével indítsa el az e-kormányzat többszintű, folyamatos (gördülő jellegű) stratégiai tervező munkáját, azonosítsa az akadályokat;
+
+– tegye láthatóvá a közigazgatás érintett szereplői számára a kormányzati munka megújításának kiindulópontjait, elveit és várható hatásait, következményeit, módot adva az igazodásra, a partneri szerepek kialakítására;
+
+– alapját képezze a Magyar Információs Társadalom Stratégia elektronikus kormányzattal foglalkozó részeinek;
+
+– tisztázza a frissen alakult kormányzati szervezet (a MeH Elektronikus Kormányzat Központ) szerepkörét;
+
+[^5]: Lisbon European Council, Presidency Conclusions, 23-24 March 2000, Para 5.
+[^6]: The Lisbon European Council – An Agenda of Economic and Social Renewal for Europe; Contribution of the European Commission to the Special European Council in Lisbon 23-24th March 2000, DOC/00/7, Brussels, 28 February 2000, p. 11.
+[^7]: eEurope 2002 – Impacts and Priorities, A communication to the Spring Europen Council in Stockholm, 23-24 March 2001, Brussels, 13.3.2001, COM(2001) 140 final.
+[^8]: Communication from the Commission to the Council, the European Parliament, the Economic and Social Commitee and the Commitee of the Regions, eEurope 2005: An information society for all, An Action Plan to be peresented in view of the Sevilla European Council, 21/22 June 2002, COM (2002) 263 final, Brussels, 28.5.2002.
+[^9]: Kormányfői nyilatkozatok alapján.
+[^10]: Magyarország Középtávú Gazdaságfejlesztési Programja – 2003.
+[^11]: A forrás megjelölése nélkül közölt adatok ,,Az információs társadalom helyzete 2002 végén–2003 elején” címu kutatási jelentésből származnak (TÁRKI, GKIeNet, Kopint-Datorg).
+[^12]: Az 1. számú melléklet további, részletesebb adatokat tartalmaz a jelenlegi helyzetről.
+[^13]: KSH: Számítógépes hálózatokon realizált nettó árbevétel: számítógépes hálózaton keresztül realizáltnak tekintjük az árbevételt, ha a termék vagy szolgáltatás megrendelése elektronikus úton történt, függetlenül attól, hogy az ellenérték térítése és a szállítás online vagy hagyományos úton valósult meg.
+[^14]: Forrás: Elektronikus bevétel aránya, KSH, 2001: 1%, GKI, 2003: 0,7% az öt fő feletti cégek esetében.
+[^15]: Forrás: GKI. A honlappal rendelkező 5 fő feletti cégek aránya 2003 elején 41% volt, és ez mintegy 23 200 vállalati honlapot jelent. A weboldalak megoszlása a fejlettségi szint alapján a következő: Csak információ 73% 17 000 cég. Interakció (pl. katalógusban való keresés) 18% 4 200 cég. Tranzakció 7% 1 600 cég. Integrált tranzakció 2% 400 cég. Az ,,emelt szint”-nek a tranzakciós szintet tekintjük, mert ezen a szinten van ösztönző hatás az elektronikus árbevételre is.
+[^16]: A World Telecommunication/ ICT Indicators Meeting (January 2003) ajánlása alapján az IKT-használat az infrastruktúra és a pénzügyi lehetőségek mellett a vállalati tudásbázistól függ.
+[^17]: TNS, Interbus kutatás.
+[^18]: TNS, Interbus kutatás.
+[^19]: Kormányprogram VII.12.1.2: Új, egyetemes szolgáltatási programot alakítunk ki, amely versenyre épül és fokozatosan alanyi joggá teszi az internet elérését.
+[^20]: A ,,szabad szoftver” a szabadság kérdése, nem az áré. A ,,szabad szoftver” elnevezés a felhasználók szabadságjogaira utal. Nevezetesen: a felhasználók jogot kapnak arra, hogy • futtassák a programot, bármilyen céllal, • tanulmányozzák a program muködését, és azt a szükségleteikhez igazíthassák. Ennek elofeltétele a forráskód elérhetosége, a ,,nyílt forráskód”, • másolatokat tegyenek közzé felebarátaik segítése érdekében, • tökéletesítsék a programot, és a tökéletesített változatot közzétegyék, hogy az egész közösség élvezhesse annak elonyeit. Ennek elofeltétele szintén a ,,nyílt forráskód”. A ,,szabad szoftver” nem jelent ,,nem üzletit”. Egy szabad programnak felhasználhatónak kell lennie üzleti célokra is. A szabad szoftver üzleti fejlesztése már nem szokatlan. Az ilyen programok szabad üzleti szoftverek.
+[^21]: Ez és a következő beavatkozási területek már nem bomlanak le további főirányokká.
+[^22]: Az e-kormányzati stratégia közműrendszerben definiálja a közigazgatási szolgáltatásokat. Ugyanakkor az infrastruktúra általános fejlesztésének is vannak közműalapú támogatói. Ez alatt három dolgot értenek: a villamosítás hagyományos értelmében minden háztartásba jusson el a széles sávú internet, a ,,minden háztartás” egyetemes szolgáltatási kötelezettségeket is jelentsen (esélyegyenlőség), illetve az így elérhető szolgáltatásokért mindenki csak a felhasználás arányában fizessen. Szükségesnek látszik tehát a kiterjesztett közműdefiníció szakmai vitája és rögzítése.
+[^23]: 3. számú melléklet: A Nemzeti Fejlesztési Terv és Operatív Programjainak prioritásai.
+[^24]: Informatika, építészet, művészetek, idegenforgalom, forma- és divattervezés, rekreációs tevékenységek, reklám, televízió, rádió, filmgyártás, játékipar stb.
