@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Tóth András rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság nairobi nagykövetségének vezetésére kapott megbízása alól.
