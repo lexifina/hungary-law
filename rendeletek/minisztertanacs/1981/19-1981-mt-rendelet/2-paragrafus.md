@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Ciprusi Köztársaság Kormánya között Budapesten, 1980. május 13. napján aláírt, a Gazdasági, Műszaki és Ipari Együttműködésről szóló hosszú lejáratú Megállapodást e rendelettel kihirdeti.
