@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a Gellérthegy geológiai, botanikai, zoológiai és tájképi értékeinek megóvása, a fokozottan védett Iván-barlang és a forrásbarlangok felszíni védőterületeinek biztosítása.
