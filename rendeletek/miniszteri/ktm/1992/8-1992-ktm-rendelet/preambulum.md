@@ -1,0 +1,1 @@
+A természetvédelemről szóló 1982. évi 4. törvényerejű rendelet végrehajtására kiadott 8/1982. (III. 15.) MT rendelet 11. §-ának (1) bekezdése a) pontjában és a 46. §-ának (1) bekezdése a) pontjában foglalt felhatalmazás alapján — az érdekeltekkel egyetértésben — a következőket redelem:
