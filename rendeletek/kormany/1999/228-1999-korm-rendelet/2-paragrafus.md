@@ -1,0 +1,1 @@
+## 1. § A Kormány az EFTA államok és a Magyar Köztársaság között létrejött Szabadkereskedelmi Megállapodása ,,származó termék'' fogalmának meghatározásáról és az adminisztratív együttműködés módszereiről szóló B) Jegyzőkönyvének módosításáról szóló vegyesbizottsági határozatot e rendelettel kihirdeti.
