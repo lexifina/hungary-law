@@ -1,0 +1,1 @@
+A Magyar Köztársaság 1999. évi költségvetéséről szóló 1998. évi XC. törvény 121. §-ának (4) bekezdésében kapott felhatalmazás alapján, mint az Országos Atomenergia Hivatal felügyeletét ellátó miniszter a következőket rendelem el:
