@@ -1,0 +1,3 @@
+3. § (1) A fogvatartott az intézetet is meghatalmazhatja, hogy a megőrzésre átadott konvertibilis külföldi fizetőeszközt, a devizaszámláján fennálló követelést, valamint – ha a forintra történő átváltás lehetséges – a nem konvertibilis külföldi fizetőeszközt forintra átváltsa. Az átváltással járó, okmányokkal igazolt költséget a fogvatartott viseli, illetve köteles azt az intézet részére megtéríteni.
+
+(2) A devizaszámla nyitásáról és a számlával való rendelkezésről szóló, illetve a külföldi fizetőeszköz átváltásakor kapott, továbbá az intézet által a megőrzésről kiállított bizonylatokat a fogvatartottnak be kell mutatni, aki ezek tudomásulvételét az aláírásával igazolja.
