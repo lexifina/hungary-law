@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel kihirdeti a Magyar Köztársaság Kormánya és az Izlandi Köztársaság, a Liechtensteini Nagyhercegség és a Norvég Királyság között, Brüsszelben, 2003. március 13-án aláírt, a megfelelőség-értékelésről és az ipari termékek elfogadásáról szóló Megállapodást (a továbbiakban: Megállapodás).
