@@ -1,0 +1,1 @@
+## 1. § A magyar tudomány és művészet, valamint a magyar oktatás és művelődés fellendítése terén szerzett kimagasló érdemek elismerésére Magyar Corvin-lánc kitüntetést (a továbbiakban: kitüntetés) alapítok.

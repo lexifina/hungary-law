@@ -1,0 +1,1 @@
+## 2. § A kitüntetés adományozásának rendjét és feltételeit, a kitüntetés leírását, valamint a kitüntetéssel járó jogokat és kötelezettségeket, továbbá a Magyar Corvin-lánc Testület létrehozásának és működésének alapvető szabályait a kitüntetés alapszabályában foglaltak szerint állapítom meg. Az alapszabályt e rendelet melléklete tartalmazza.
