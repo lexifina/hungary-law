@@ -1,0 +1,1 @@
+## 2. § A rendelet 1. számú melléklete szerinti igazolványt az Igazságügyi Minisztérium dolgozói esetében a kinevezési jogkört gyakorló vezető, az igazságügyi szakértői intézmények dolgozói esetében az intézmény vezetője, a 2. számú melléklet szerinti igazolványt az Igazságügyi Minisztérium közigazgatási államtitkára írja alá.
