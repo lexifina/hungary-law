@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Argentin Köztársaság Kormánya között Buenos Airesben, 1997. április 8-án aláírt, a vámügyekben történő együttműködésről és kölcsönös segítségnyújtásról szóló Egyezményt e rendelettel kihirdeti.
