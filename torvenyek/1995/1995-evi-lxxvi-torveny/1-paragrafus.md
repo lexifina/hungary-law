@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Lengyel Köztársaság közötti, Krakkóban, 1991. október 6-án aláírt, baráti és jószomszédsági együttműködésről szóló Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló okiratok cseréje 1992. június 15-én lezajlott, és a Szerződés ezen a napon hatályba lépett.)
