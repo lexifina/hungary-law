@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya, az Olasz Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között Többnemzetiségű Szárazföldi Kötelék létrehozásáról, Udinében, 1998. április 18-án aláírt Egyezményt (a továbbiakban: Egyezmény) e törvénnyel megerősíti.
