@@ -1,0 +1,1 @@
+A Magyar Köztársaság legfőbb ügyészének és a honvédelmi miniszter előterjesztésére – dr. Kámán József vezérőrnagyot a hivatásos szolgálat felső korhatára túlhaladtával, érdemei elismerése mellett, kérelmére 1990. augusztus 1-jével felmentem a katonai főügyész (legfőbb ügyész helyettesi) beosztásából; szolgálati viszonyát megszüntetem, egyidejűleg nyugállományba helyezem.
