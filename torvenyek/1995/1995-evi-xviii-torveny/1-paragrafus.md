@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az 1949. augusztus 12-én kötött Genfi Egyezményeket kiegészítő és a nemzetközi fegyveres összeütközések áldozatainak védelméről szóló Jegyzőkönyv (a továbbiakban: I. Jegyzőkönyv) I. számú mellékletének a Jegyzőkönyv 98. Cikkében meghatározott felülvizsgálat alapján módosításra került szövegét (a továbbiakban: módosítás) e törvénnyel kihirdeti.
