@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Barabás János rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság iszlamabadi nagykövetségének vezetésére kapott megbízása alól.
