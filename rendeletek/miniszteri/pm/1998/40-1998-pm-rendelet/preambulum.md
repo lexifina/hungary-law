@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény 100. §-ában foglalt felhatalmazás alapján az illetékek kezeléséről és könyveléséről szóló, többször módosított 14/1991. (V. 21.) PM rendeletet (a továbbiakban: R.) a következők szerint módosítom:
