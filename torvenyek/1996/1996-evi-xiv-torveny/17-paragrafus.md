@@ -1,0 +1,5 @@
+17. § (1) A törvény 2. §-ának (1) bekezdésében, valamint 6. §-ának (1) bekezdésében megjelölt rendkívüli behajtásból származó bevétel teljesülése érdekében – a T. 114. §-ának felhatalmazása és csődeljárásban kötött megállapodásokban a járuléktartozásokat terv szerint fizetők és a végrehajtás alatt állók kivételével – a teljes adósságállomány felülvizsgálatát az Alapok kezelői végezzék el, és bocsássák a Kormány rendelkezésére.
+
+(2) Az (1) bekezdés szerinti felülvizsgálat alapján a Kormány az önkormányzatokkal együttműködve hozza meg a szükséges döntéseket, illetve kezdeményezze a megfelelő törvényi rendelkezések meghozatalát az adósságállomány minél nagyobb részének a költségvetési év folyamán történő beszedésére. A beszedés érdekében a behajtásban érvényesíthető törvényes eszközök leghatékonyabb alkalmazására kell törekedni, valamint a kapcsolódó eljárások gyorsítását kell elérni.
+
+(3) A Kormány a társadalombiztosítási önkormányzatokkal együtt – az éves költségvetés időarányos teljesítésének értékelése keretében – negyedévenként értékeli a behajtási tevékenység eredményeit.
