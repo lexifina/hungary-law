@@ -1,0 +1,1 @@
+Az adókról, járulékokról és egyéb költségvetési befizetésekről szóló törvények módosításáról szóló 2003. évi XCI. törvény (a továbbiakban: AJtv.) 230. §-ában foglalt felhatalmazás alapján az alábbiakat rendelem el:
