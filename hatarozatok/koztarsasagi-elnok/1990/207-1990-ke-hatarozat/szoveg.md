@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Tóth Tibor rendkívüli és meghatalmazott nagykövetet megbízom a Magyar Köztársaság képviseletével a genfi Leszerelési Bizottságban, valamint, hogy a magyar küldöttséget a bizottság ülésein vezesse.
