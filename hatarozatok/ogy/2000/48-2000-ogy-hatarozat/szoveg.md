@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Tímár György országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 13.B.24.187/2000/2. számú megkeresésével érintett ügyben nem függeszti fel.
