@@ -1,0 +1,1 @@
+(A Magyar Köztársaság csatlakozási okiratának letétbe helyezése az Egyesült Nemzetek főtitkáránál, mint letéteményesnél 1990. május 21. napján megtörtént, az Egyezmény 1992. május 5. napján lépett hatályba.)

@@ -1,0 +1,1 @@
+## 1. § A Kormány a veszélyes hulladékok országhatárokat átlépő szállításának ellenőrzéséről és ártalmatlanításáról szóló, Bázelben, 1989. március 22. napján aláírt Egyezményt e rendelettel kihirdeti és elrendeli annak kötelező alkalmazását.
