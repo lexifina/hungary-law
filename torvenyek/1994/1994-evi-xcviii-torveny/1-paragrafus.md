@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság Országgyűlése a Magyar Köztársaság és az Európai Szabadkereskedelmi Társulás tagállamai között, Genfben, 1993. március 29-én aláírt szabadkereskedelmi megállapodást kihirdető 1993. évi LXXXIII. törvény módosítását e törvénnyel kihirdeti.

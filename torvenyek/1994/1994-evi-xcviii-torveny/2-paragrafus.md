@@ -1,0 +1,1 @@
+2. § A Magyar Köztársaság és az Európai Szabadkereskedelmi Társulás tagállamai között, Genfben, 1993. március 29-én aláírt szabadkereskedelmi megállapodás (a továbbiakban: Megállapodás) egyrészről a Magyar Köztársaság, másrészről az Osztrák Köztársaság, a Finn Köztársaság és a Svéd Királyság között hatályát veszti.
