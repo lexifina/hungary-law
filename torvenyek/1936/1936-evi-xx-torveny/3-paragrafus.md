@@ -1,0 +1,1 @@
+3. § Felhatalmaztatik a kormány, hogy a 2. §-ban foglalt egyezmény módosítása, kiegészítése és értelmezése tárgyában az egyezményben részes államokkal vagy közülök egyesekkel megállapodást létesíthessen és azt rendeleti úton életbeléptethesse.
