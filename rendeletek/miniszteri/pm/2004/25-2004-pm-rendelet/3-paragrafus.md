@@ -1,0 +1,1 @@
+## 2. § A Bit. 183. §-ának (3) bekezdésében meghatározott éves adatszolgáltatást, valamint a Bit. 189. §-ának (1) bekezdésében meghatározott adatszolgáltatást az ezen rendelet 1. számú melléklete szerinti táblázatok kitöltésével kell teljesíteni. Az e táblázatok kitöltéséhez szükséges kitöltési útmutatót a 2. számú melléklet tartalmazza.

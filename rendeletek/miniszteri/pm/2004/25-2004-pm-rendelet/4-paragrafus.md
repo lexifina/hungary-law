@@ -1,0 +1,1 @@
+## 3. § A Bit. 183. §-ának (3) bekezdésében meghatározott negyedéves adatszolgáltatást az ezen rendelet 3. számú melléklete szerinti táblázatok kitöltésével kell teljesíteni. Az e táblázatok kitöltéséhez szükséges kitöltési útmutatót a 4. számú melléklet tartalmazza.
