@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az elítélt személyek átszállításáról szóló, Strasbourgban, 1983. március 21-én kelt Egyezmény, Strasbourgban, 1997. december 18-án kelt Kiegészítő Jegyzőkönyvét e törvénnyel kihirdeti. (A Jegyzőkönyv megerősítéséről szóló okirat letétbe helyezésére 2001. május 4-én került sor.)
