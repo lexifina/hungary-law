@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a két ország közös államhatárán lévő közúti határhidak üzemeltetéséről és fenntartásáról szóló, Zágrábban, 2001. április 19-én aláírt Megállapodást e rendelettel kihirdeti.
