@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Basch András főkonzult – érdemei elismerése mellett – felmentem e rangja, valamint a Magyar Köztársaság Sao Paulo Állam, Paraná Állam, Santa Catarina Állam és Rio Grande do Sul Állam területére kiterjedő hatáskörrel működő Sao Paulo-i főkonzulátusának vezetésére kapott megbízása alól.
