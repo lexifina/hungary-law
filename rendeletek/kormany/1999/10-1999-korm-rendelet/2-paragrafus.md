@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Orosz Föderáció Kormánya között Moszkvában, 1998. január 13-án aláírt, a vámügyekben történő együttműködésről és kölcsönös segítségnyújtásról szóló Egyezményt e rendelettel kihirdeti.
