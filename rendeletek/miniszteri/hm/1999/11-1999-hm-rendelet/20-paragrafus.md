@@ -1,0 +1,1 @@
+## 19. § A bemutatón csak az a szakszolgálati engedéllyel rendelkező légijármű személyzet repülhet, aki ellenőrző repülés keretében teljesítette a bemutató repülés programját, és az eredményes ellenőrzés után, valamint az adott program szerint végrehajtott legalább három gyakorló repülést.

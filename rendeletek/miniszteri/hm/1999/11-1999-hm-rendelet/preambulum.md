@@ -1,0 +1,1 @@
+A honvédelemről szóló 1993. évi CX. törvény 10. §-ának i) pontjában kapott felhatalmazás alapján a légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 33. §-ának (1) bekezdésében foglaltak végrehajtására a következő rendeletet adom ki:

@@ -1,0 +1,9 @@
+# 11/1999. (VIII. 26.) HM rendelet
+
+a nyilvános repülőrendezvény szabályairól az állami célú légiközlekedésben
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-11-20-15
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 1999-11-01 | 1999-11-20-15.1 | 11/1999. (VIII. 26.) HM rendelet |
