@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Paraguayi Köztársaság Kormánya közötti kulturális, oktatási és tudományos együttműködésről szóló, Budapesten, 1995. március 16-án aláírt Egyezményt e rendelettel kihirdeti.
