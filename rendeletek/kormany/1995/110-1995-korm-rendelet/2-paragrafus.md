@@ -1,0 +1,1 @@
+## 1. § A Kormány a Nemzetközi Újjáépítési és Fejlesztési Bankkal, mint a japán Kormány által az államháztartási reform kölcsön előkészítéséhez nyújtott segély kezelőjével kötött Japán Segélyegyezményt (a továbbiakban: egyezmény) — mely aláírása napján, 1995. március 9-én hatályba lépett — e rendelettel kihirdeti.
