@@ -1,0 +1,1 @@
+6. § Az Ötv. 44. §-ának (1) bekezdése előtti alcímben, 44. §-ának (1), (2), (4), (5) és (6) bekezdésében; 46. §-a (1) bekezdésének c) pontjában a ,,közös képviselő-testület'' szövegrész helyébe a ,,társult képviselő-testület'' szövegrész lép.
