@@ -1,0 +1,1 @@
+1. § Az Országgyűlés elhatározza a Magyar Köztársaság csatlakozását az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok jogállásáról, Párizsban, 1952. augusztus 28-án készült Jegyzőkönyvhöz (a továbbiakban: Jegyzőkönyv).

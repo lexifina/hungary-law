@@ -1,0 +1,1 @@
+3. § A Jegyzőkönyvben foglaltak végrehajtásáról, valamint ennek érdekében további szabályozásról és a szükséges nemzetközi szerződések megkötéséről, illetve azok kezdeményezéséről a Kormány gondoskodik.
