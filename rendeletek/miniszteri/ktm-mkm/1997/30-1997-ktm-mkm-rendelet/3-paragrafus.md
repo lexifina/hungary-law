@@ -1,0 +1,1 @@
+## 2. § A műemléki környezet kibővítésének célja a kiemelkedő jelentőségű műemlékegyüttes tájképi látványának, a műemlékegyüttest befolyásoló fejlesztési területeken az épített környezet minőségi illeszkedésének biztosítása, valamint a remeteség környezetének hagyományokhoz méltó védelme.
