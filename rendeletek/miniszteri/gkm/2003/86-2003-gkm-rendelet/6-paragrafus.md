@@ -1,0 +1,1 @@
+## 5. § A szállító- és az elosztóvezeték szabályozott hozzáféréséhez szükséges teljesítmény-, kapacitáslekötöttségi adatokat a szállítói, illetve elosztói engedélyes biztosítja a feljogosított fogyasztóknak, az engedélyeseknek és a földgáztermelőnek.
