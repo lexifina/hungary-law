@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Mánfa településrészt — Komlóval történt egyesítését megszüntetve — 1992. január 1. napjával községgé nyilvánítom. Mánfa községgé nyilvánítása nem érinti Komló városi címét.
