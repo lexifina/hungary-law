@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Kisfalvi János rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság kijevi nagykövetségének vezetésére kapott megbízása alól.
