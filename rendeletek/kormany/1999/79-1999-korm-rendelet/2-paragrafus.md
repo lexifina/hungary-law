@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Dán Királyság Kormánya között Koppenhágában, 1999. november 6-án aláírt, a vámügyekben történő kölcsönös segítségnyújtásról szóló Megállapodást e rendelettel kihirdeti.
