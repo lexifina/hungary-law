@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére dr. Prókai Béla határőr dandártábornok szolgálati viszonyát – érdemei elismerése mellett – vele egyetértésben, 2001. augusztus 8-i hatállyal megszüntetem és nyugállományba helyezem.
