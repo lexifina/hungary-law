@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Üzbég Köztársaság között Budapesten, 1992. március 3-án aláírt, az államközi kapcsolatok alapjairól szóló szerződést e törvénnyel kihirdeti. (A Szerződés megerősítő okiratait Taskentben, 1995. november 21-én kicserélték, és a Szerződés ezen a napon hatályba lépett.)
