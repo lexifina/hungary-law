@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Rétság város Tolmács elnevezésű településrészét Tolmács néven községgé nyilvánítom a következő önkormányzati általános választás napjával. Tolmács községgé nyilvánítása nem érinti Rétság városi címét.
