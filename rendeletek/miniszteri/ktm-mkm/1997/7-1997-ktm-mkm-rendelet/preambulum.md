@@ -1,0 +1,1 @@
+Az építésügyről szóló, többször módosított 1964. évi III. törvény végrehajtására kiadott 30/1964. (XII. 2.) Korm. rendelet 12. §-ának (1) bekezdésében foglalt felhatalmazás alapján – az érdekeltekkel egyetértésben – a következőket rendeljük el:

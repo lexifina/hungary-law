@@ -1,0 +1,1 @@
+## 12. § A műemlékjegyzék felülvizsgálata során megállapítást nyert, hogy a 8–11. §-okban megjelölt épületek és építmények a korábbi felújítás, illetve hozzáépítés során műemléki értékeiket elvesztették, azok visszaállítása nem lehetséges, ezért az országos szintű védelem fenntartása nem indokolt.
