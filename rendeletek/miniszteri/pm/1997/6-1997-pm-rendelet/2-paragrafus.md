@@ -1,0 +1,1 @@
+## 1. § A személyi jövedelemadó bevallást helyettesítő munkáltatói elszámolás alkalmával a munkáltató a részére átadott rendelkező nyilatkozatokról két példányban kísérőjegyzéket készít. A kísérőjegyzék adattartalmára az adózás rendjéről szóló 1990. évi XCI. törvény 96. §-ában adott felhatalmazás alapján az Adó- és Pénzügyi Ellenőrzési Hivatal tájékoztatót tesz közzé.

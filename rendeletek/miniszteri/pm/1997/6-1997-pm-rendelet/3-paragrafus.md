@@ -1,0 +1,1 @@
+## 2. § A kísérőjegyzék egyik példányát a munkáltató a rendelkező nyilatkozattal együtt az adatszolgáltatás keretében megküldi az illetékes adóhatóságnak, a másik példányt a rendelkező nyilatkozat éve utolsó napjától számított öt évig megőrzi.

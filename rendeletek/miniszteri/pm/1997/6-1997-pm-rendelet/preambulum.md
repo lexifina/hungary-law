@@ -1,0 +1,1 @@
+A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (Szja. tv.) 81. §-ának (1) bekezdésében kapott felhatalmazás alapján az Szja. tv. 45. §-ában foglalt rendelkezést megvalósító 1996. évi CXXVI. törvény 5. §-a végrehajtása érdekében a következőket rendelem el:
