@@ -1,0 +1,1 @@
+1. § Az 1926. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a kivándorlók hajókon történő felügyeletének egyszerűsítése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény az ország törvényei közé iktattatik.
