@@ -1,0 +1,3 @@
+3. § (1) A Budai Tájvédelmi Körzet bővítéséről szóló 5/1991. (III. 22.) KTM rendelettel, valamint a természetvédelmi terület védettségének megszüntetéséről szóló 27/1994. (VIII. 6.) KTM rendelettel módosított 9/1978. (TK. 55.) OKTH számú határozattal létesített Budai Tájvédelmi Körzethez csatolom és védetté nyilvánítom a Budapest II. kerület 15880/15–16, 15980/40 ingatlan-nyilvántartási helyrajzi számú, összesen 131 m2 kiterjedésű ingatlant, egyidejűleg a Budai Tájvédelmi Körzet részét képező 15980/42 ingatlan-nyilvántartási helyrajzi számú, 131 m2 kiterjedésű ingatlan védettségét feloldom.
+
+(2) A határkorrekció a Tájvédelmi Körzet ezen határszakaszának a valóságban történő egyértelmű beazonítását teszi lehetővé.
