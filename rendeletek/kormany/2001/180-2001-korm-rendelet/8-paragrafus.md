@@ -1,0 +1,3 @@
+8. § (1) A pénzügyi intézmény legkésőbb a 6. §-ban foglalt végrehajtói felhívás átvételét követő második munkanap 12 órájáig köteles a betétre vonatkozó nyilvántartásaiban feltüntetni a végrehajtói felhívás tényét és gondoskodni róla, hogy a pénzügyi intézmény valamennyi fiókja arról tudomást szerezzen.
+
+(2) Az (1) bekezdésben foglaltak teljesítését követően – de legkésőbb végrehajtói felhívás átvételét követő második munkanap 12 órájától – a pénzügyi intézmény a végrehajtói felhívás visszavonásáig a betétből a betétesnek és egyéb rendelkezésre jogosultaknak fizetést nem teljesíthet. A pénzügyi intézménynek a végrehajtói felhívást átvevő fiókjával szemben a kifizetés tilalma a felhívás átvételét követő munkanap 8 órájától áll fenn.

@@ -1,0 +1,1 @@
+## 4. § A végrehajtó a bemutatóra szólóan elhelyezett betétet a betétokirat lefoglalásával, a névre szólóan elhelyezett betétet – függetlenül attól, hogy a betétokirat lefoglalásra került-e – a pénzügyi intézményhez intézett felhívásával vonja végrehajtás alá.

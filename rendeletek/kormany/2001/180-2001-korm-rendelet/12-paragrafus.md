@@ -1,0 +1,3 @@
+12. § (1) A névre szóló betétokirat lefoglalásának vagy átadásának hiányában kiadott végrehajtói felhívás alapján a teljesítésre csak akkor kerülhet sor, ha a végrehajtó a felhívásban megjelölt határidő leteltét követően megküldi a pénzügyi intézménynek a hirdetmény kibocsátásának eredményéről készített jegyzőkönyvet, amely szerint a hirdetmény kifüggesztésének határideje alatt részére a betétokiratot nem adták át.
+
+(2) Az (1) bekezdés szerinti jegyzőkönyv pénzügyi intézménynek történő megküldésével a névre szóló betétokiratot úgy kell tekinteni, mintha azt megsemmisítették volna, a pénzügyi intézmény a jegyzőkönyv kézhezvételét követő 15 napon belül átutalja a betét összegét a végrehajtói letéti számlára.

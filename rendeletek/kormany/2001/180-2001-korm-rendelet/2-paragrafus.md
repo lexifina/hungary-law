@@ -1,0 +1,7 @@
+## 1. § E rendeletet a Vht. 7. §-a (3) bekezdésének b) pontjában meghatározott, a betétszerződés, takarékbetét-szerződés, egyéb szerződés alapján pénzügyi intézménynél kezelt olyan összegek (a továbbiakban: betét) végrehajtás alá vonására kell alkalmazni, amelyek esetén a szerződés vagy jogszabály alapján a betét kifizetéséhez takarékbetétkönyv, betétokirat, egyéb okirat vagy szerződés (a továbbiakban: betétokirat) pénzügyi intézménynek történő bemutatása szükséges.
+
+2. § (1) A betét Vht. szerint végrehajtás alá vonható része (Vht. 79/A. §, 79/D. §) a bírósági végrehajtási eljárás során a névre szólóan elhelyezett betét esetén a betétessel, ha más személy a betét felett rendelkezni jogosult, a betét felett rendelkezővel, ha pedig a betét bemutatóra szólóan került elhelyezésre, a betétokirat birtokosával mint adóssal szemben fennálló pénzkövetelés kielégítésére vagy biztosítására használható fel.
+
+(2) Ha a végrehajtásnak nem az adott ügyletből eredő követelés a tárgya, az ügyleti biztosíték céljára szolgáló betét mentességéről a betétet kezelő pénzügyi intézmény (a továbbiakban: pénzügyi intézmény) tájékoztatja a bírósági végrehajtót (a továbbiakban: végrehajtó), és részére a betét összegét nem fizetheti ki.
+
+(3) Az (1) bekezdést kell alkalmazni arra az esetre is, ha az adós más személyekkel egyetemlegesen vagy az adós és más személyek külön-külön jogosultak a betét feletti rendelkezésre.
