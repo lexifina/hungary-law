@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Robák Ferenc rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság tuniszi nagykövetségének vezetésére kapott megbízása alól.
