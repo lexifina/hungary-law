@@ -1,0 +1,9 @@
+# 54/2000. (V. 2.) KE határozat
+
+politikai államtitkár kinevezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-54-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2000-05-02 | 2000-54-30-76.0 | 54/2000. (V. 2.) KE határozat |
