@@ -1,0 +1,1 @@
+(A Magyar Köztársaság csatlakozási okiratának letétbe helyezése az Egyesült Nemzetek Főtitkáránál 1994. február 24-én megtörtént. A Jegyzőkönyv a Magyar Köztársaságra nézve 1994. május 24. napján lépett hatályba.)
