@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Népköztársaság Kormánya és Malaysia Kormánya között a kettős adóztatás elkerülésére és az adóztatás kijátszásának megakadályozására, a jövedelemadók területén, Budapesten, 1989. május 22. napján aláírt Megállapodást e határozattal megerősíti.
