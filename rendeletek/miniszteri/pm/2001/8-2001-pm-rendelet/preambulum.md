@@ -1,0 +1,1 @@
+A biztosítóintézetekről és a biztosítási tevékenységről szóló – többször módosított – 1995. évi XCVI. törvény (a továbbiakban: Tv.) 168. §-a (2) bekezdésének b) pontjában kapott felhatalmazás alapján a biztosítástechnikai tartalékok tartalmáról, képzésének és felhasználásának rendjéről a következőket rendelem el:

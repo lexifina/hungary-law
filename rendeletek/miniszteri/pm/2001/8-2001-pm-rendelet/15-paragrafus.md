@@ -1,0 +1,5 @@
+15. § (1) A Tv. 75. §-a (2) bekezdésének i) pontjában meghatározott befektetési egységekhez kötött (unit-linked) életbiztosítások tartaléka az eszközalap(ok) szerződők számára kimutatott nettó eszközértékének a vonatkozó biztosítási terméktervben meghatározott, a felmerülő költségek fedezetére elvont eszközökkel csökkentett része.
+
+(2) Az eszközalapban lévő befektetési eszközök értékelésének irányadó szabálya, hogy a befektetési eszközt azon a piacon kialakult piaci záróáron kell értékelni, melyen az adott befektetési eszköz forgalmának legnagyobb része megvalósul. Az eszközalap nettó eszközértékét a portfolióban lévő eszközök lehető legfrissebb árfolyam-információkat tükröző értékének alapulvételével kell kiszámítani. Ha az eszköz ritka kereskedése miatt (pl. ingatlan) annak piaci értékéről friss információ nem áll rendelkezésre, akkor az értéket könyvvizsgáló becslése alapján kell megállapítani.
+
+(3) A befektetési egységekhez kötött (unit-linked) életbiztosítások tartalékán belül a különböző eszközalapokhoz tartozó tartalékokat egymástól és a matematikai tartalékoktól elkülönítetten kell kezelni és nyilvántartani.
