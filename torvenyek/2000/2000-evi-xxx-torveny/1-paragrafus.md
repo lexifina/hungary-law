@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Németországi Szövetségi Köztársaság között a szociális biztonságról szóló, 1998. május 2-án, Budapesten aláírt Egyezményt (a továbbiakban: Egyezmény) e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló okiratok cseréje 2000. március 10-én megtörtént.)
