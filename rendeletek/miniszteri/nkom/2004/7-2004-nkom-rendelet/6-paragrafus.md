@@ -1,0 +1,1 @@
+## 5. § Schöpflin Aladár ösztöndíjra az 1990 után megjelent határon túli magyar irodalmi művek értékelésével foglalkozó kritikusok pályázhatnak. Az ösztöndíjban évente négy fő részesülhet, az ösztöndíjak felét a pályázat elbírálásakor 30. életévüket be nem töltött alkotók kaphatják.

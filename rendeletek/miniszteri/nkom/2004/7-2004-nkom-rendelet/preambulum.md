@@ -1,0 +1,1 @@
+A nemzeti kulturális örökség miniszterének feladat- és hatásköréről szóló 161/1998. (IX. 30.) Korm. rendelet 6. §-a (1) bekezdésének c) pontja és (2) bekezdésének b) pontjában, valamint a 7. §-ának b) pontjában kapott felhatalmazás alapján a Határon Túli Magyar Irodalmi Ösztöndíjak alapítására és odaítélésére a következőket rendelem el:

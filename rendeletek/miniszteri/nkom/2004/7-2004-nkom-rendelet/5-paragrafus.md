@@ -1,0 +1,1 @@
+## 4. § Gion Nándor ösztöndíjban a prózaírás területén alkotó pályázók részesülhetnek. Az ösztöndíjban évente négy fő részesülhet, az ösztöndíjak felét a pályázat elbírálásakor 30. életévüket be nem töltött alkotók kaphatják.

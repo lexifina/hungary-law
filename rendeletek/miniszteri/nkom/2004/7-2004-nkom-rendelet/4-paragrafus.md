@@ -1,0 +1,1 @@
+## 3. § Székely János ösztöndíjban a költészet és a drámaírás területén alkotó pályázók részesülhetnek. Az ösztöndíjat évente hat fő részére lehet odaítélni, az ösztöndíjak felét a pályázat elbírálásakor 30. életévüket be nem töltött alkotók kaphatják.
