@@ -1,0 +1,1 @@
+A művelődési és közoktatási miniszter előterjesztésére – nyugállományba vonulására tekintettel – dr. Benke Istvánt, a Budapesti Műszaki Egyetem egyetemi tanárát 1990. december 31. napjával e tisztsége alól felmentem.
