@@ -1,0 +1,1 @@
+A villamos energiáról szóló 2001. évi CX. törvény (a továbbiakban: VET) 5. §-a a) pontjának 8. alpontjában foglaltak végrehajtása érdekében, a VET 113. §-ának b) pontjában kapott felhatalmazás alapján a következőket rendelem el:
