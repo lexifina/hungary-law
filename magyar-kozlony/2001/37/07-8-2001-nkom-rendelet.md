@@ -1,0 +1,152 @@
+# A nemzeti kulturális örökség miniszterének 8/2001. (III. 30.) NKÖM rendelete
+
+Magyar Közlöny 2001. évi 37. szám, 2001. március 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8045a6efec4e9cee33e95b767899aa4d30ad93d9/dokumentumok/41d604c3b33cf978f8aa24a3eeba9126589d509c/letoltes)
+
+---
+
+A nemzeti kulturális örökség
+miniszterének
+8/2001. (III. 30.) NKÖM
+rendelete
+egyes ingatlanok műemlékké nyilvánításáról,
+illetőleg műemléki védettség megszüntetéséről
+A műemlékvédelemről szóló 1997. évi LIV. törvény
+60. §-a (2) bekezdésének c) pontjában foglalt felhatalma-
+zás alapján a következőket rendelem el:
+1. §
+(1) Műemlékké nyilvánítom a Budapest XI. kerületi
+4987/A/1—24 hrsz.-ú, Bartók Béla út 40. szám alatti
+műtermes lakóépületet. A műemléki védelem az ingatlan
+teljes területére kiterjed.
+(2) Műemléki környezetként a Budapest XI. kerületi
+4986 és a 4988 hrsz.-ú ingatlanokat jelölöm ki.
+(3) Az épületen reklám csak a műemlékvédelmi hatóság
+előzetes engedélyével helyezhető el.
+(4) A műemlékvédelmi bírság megállapításának alap-
+jául szolgáló érték szempontjából a műemléket III. kate-
+góriába sorolom.
+(5) A védetté nyilvánítás célja az 1898—99-ben Lechner
+Ödön tervei szerint épült szecessziós stílusú lakóépület
+városképi, építészeti és belsőépítészeti értékeinek meg-
+őrzése.
+2. §
+(1) Műemlékké nyilvánítom a Budapest XIV. kerületi
+32541/A/1—11 hrsz.-ú, Gizella utca 12. szám alatti lakó-
+épületet. A műemléki védelem kiterjed az ingatlan teljes
+területére, az öntöttvas kerítésre, az udvari öntöttvas osz-
+lopos, fazsalus tornácra és egyéb tartozékokra.
+(2) Műemléki környezetként a Budapest XIV. kerületi
+Gizella u. 4. sz. 32548 és az Egressy út 14. sz. 32542 hrsz.-ú
+ingatlanokat jelölöm ki.
+(3) Az épületen reklám csak a műemlékvédelmi hatóság
+előzetes engedélyével helyezhető el.
+(4) A műemlékvédelmi bírság megállapításának alap-
+jául szolgáló érték szempontjából a műemléket III. kate-
+góriába sorolom.
+(5) A védetté nyilvánítás célja az 1887-ben épült lakó-
+épület építészeti, iparművészeti értékeinek megőrzése.
+3. §
+(1) Műemlékké nyilvánítom a Baranya megyei Pécs
+városban a 40504/1, 40504/3, 40504/4, 40511 hrsz.-ú,
+Zsolnay Vilmos u. 69—73. sz. és Felsővámház u. 72. sz.
+alatti Zsolnay gyár területén a mellékleten jelölt és az
+alábbiakban felsorolt épületeket, építményeket:
+a) a 40504/3 hrsz.-ú ingatlanon
+É8, É9, É10 sz. épületek (raktárak, porta, bemutató-
+termek, irodák),
+É12, É13, É14, É15, É17, É19 sz. épületek (Zsolnay
+család lakása, tanácsterem, eozin és egyéb műhelyek,
+formaöntöde, múzeumi bemutatóterem);
+b) a 40504/4 hrsz.-ú ingatlanon
+É24. sz. épület (lakó- és műteremház),
+É26. sz. épület (eredetileg „spódiumgyár” ma pirogránit
+üzem a benne lévő KK12 sz. körkemencével),
+É28 sz. épület pirogránit üzem épülete, benne KK17 sz.
+sómázas kemence,
+K13 és K15 sz. kémények,
+Mi 13. sz. jégverem és „minaret”,
+É48 sz. épület (üvegház, felette teniszpálya lelátó, kerti
+pavilon),
+É80* sz. támfal és ülőpad a teniszpályához;
+c) a 40504/1 ingatlanon
+É30 sz. épület lakó- és műteremház, ún. Zöld ház;
+d) a 40511 hrsz.-ú ingatlanon
+É32 sz. (kőgyurma, majd csőgyár, ma raktár),
+K17 sz. kémény.
+(2) Műemléki környezetként a pécsi 40504/1, 40504/3,
+40504/4,ésa 40511 hrsz.-ú ingatlanok többi részét jelölöm ki.
+(3) Az épületeken és az ingatlanaikon reklám csak a
+műemlékvédelmi hatóság engedélyével helyezhető el.
+(4) A műemlékvédelmi bírság megállapításának alap-
+jául szolgáló érték szempontjából az (1) bekezdés c) pont
+alatti Zöld házat II., míg a többi műemléket III. kategóri-
+ába sorolom.
+(5) A védetté nyilvánítás célja az 1853-as alapítású gyár
+1860 és 1924 között épített, kívül és belül gazdagon díszí-
+tett lakó- és üzemi épületeinek, építményeinek, beren-
+dezéseinek, kéményeinek és kemencéinek megőrzése, a
+Zsolnay Vilmos és örökösei által létrehozott értékek fenn-
+maradásának biztosítása.
+4. §
+(1) Műemlékké nyilvánítom a Győr-Moson-Sopron
+megyei, Gönyű helység 830 hrsz.-ú, Kossuth utca mentén
+elhelyezkedő r. k. templomot. A védelem kiterjed az ingat-
+lan teljes területére, a tartozékokra, valamint a templom
+teljes berendezésére.
+(2) Műemléki környezetként a gönyűi 829/4, 829/5,
+832/5 hrsz.-ú ingatlanokat, valamint a 68 hrsz.-ú közterü-
+letnek, a Kossuth Lajos utcának az (1) és (2) bekezdésben
+jelölt ingatlanok előtti szakaszát jelölöm ki.
+
+(3) A védett épületen és ingatlanán reklám nem helyez-
+hető el.
+(4) A műemléki bírság megállapításának alapjául szol-
+gáló érték szempontjából a műemléket II. kategóriába
+sorolom.
+(5) A védetté nyilvánítás célja a Fellner Jakab által
+tervezett, 1774—1786 között épült barokk, majd klasszicista
+stílusban átépített templom építészeti, belsőépítészeti
+értékeinek megőrzése.
+5. §
+(1) Műemlékké nyilvánítom a Hajdú-Bihar megye, Sár-
+rétudvari település, 8 hrsz.-ú, Kossuth u. 90. szám alatti
+református templomot. A műemléki védelem kiterjed az
+ingatlan egészére, a tartozékokra, valamint a templom
+teljes berendezésére.
+(2) Műemléki környezetként Sárrétudvari 7 hrsz.-ú,
+9 hrsz.-ú, 341/1 hrsz.-ú, 341/2 hrsz.-ú, 340 hrsz.-ú, valamint
+339 hrsz.-ú ingatlanokat jelölöm ki.
+(3) Reklám a védett épületen nem, ingatlanán csak a
+műemlékvédelmi hatóság engedélyével helyezhető el.
+(4) A műemlékvédelmi bírság megállapításának alap-
+jául szolgáló érték szempontjából a műemléket II. kategó-
+riába sorolom.
+(5) A védetté nyilvánítás célja az 1764—1789-ben épült
+református templom építészeti, településtörténeti érté-
+kének megőrzése, berendezéseinek belsőépítészeti érték-
+védelme.
+6. §
+(1) Megszüntetem a Fejér megyei Székesfehérvár város
+371/1 hrsz.-ú, Kossuth u. 9—11. sz. alatti ingatlan műem-
+léki védettségét.
+(2) A 371/1 hrsz.-ú ingatlan telekosztás folytán a védett,
+367 és 371 hrsz.-ú műemléki védelem alatt álló ingatlanok-
+ból keletkezett, azok eredetileg beépítetlen utcafronti
+része. Az így kialakított ingatlanon új társasház épült,
+emiatt ezen a területen a műemléki védettség fenntartása
+indokolatlan.
+(3) A Kossuth u. 9. (hrsz.: 371/2; műemléki tsz: 10326)
+és a Kossuth u. 11. (hrsz.: 367; műemléki tsz: 10327) ingat-
+lanokon a műemléki védettség továbbra is fennmarad.
+7. §
+Az e rendeletben műemléki védettség alá helyezett épít-
+mények fenntartásáról, jó karban tartásáról a műemlék
+tulajdonosa, vagyonkezelője, illetve a tulajdonosi jogok
+gyakorlója, továbbá jogszabályban meghatározott esetek-
+ben ingyenes használója a műemlékvédelemről szóló 1997.
+évi LIV. törvény szerint köteles gondoskodni.
+8. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+Rockenbauer Zoltán s. k.,
+a nemzeti kulturális örökség minisztere
+Az Országgyűlés határozatai
