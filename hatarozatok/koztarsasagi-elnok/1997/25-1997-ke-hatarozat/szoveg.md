@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Kopányi Vilmos rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaságnak a Guatemalai Köztársaságban való képviseletére kapott megbízása alól.
