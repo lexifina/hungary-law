@@ -1,0 +1,1 @@
+1. § A Törökországgal Budapesten 1929. évi január hó 5. napján kötött semlegességi, békéltető eljárási és választott birósági szerződés a hozzátartozó jegyzőkönyvvel együtt az ország törvényei közé iktattatik.
