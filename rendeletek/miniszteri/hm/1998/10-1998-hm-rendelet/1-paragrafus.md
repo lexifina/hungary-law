@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya kiterjed a katonai felsőoktatási intézményekre (a továbbiakban: intézmény), a felvételi eljárásban részt vevő szervezetekre, és azokra, akik az intézményben államilag finanszírozott felsőfokú alapképzésére, kiegészítő alapképzésére (a továbbiakban együtt: alapképzés), akkreditált iskolai rendszerű felsőfokú szakképzésre (a továbbiakban: felsőfokú szakképzés) és szakirányú továbbképzésre felvételre jelentkeznek.
+
+(2) Az államilag nem finanszírozott, továbbá a doktori (PhD) képzésre történő jelentkezésre és felvételi eljárásra külön jogszabály, valamint az intézmény szabályzata irányadó.
