@@ -1,0 +1,1 @@
+## 2. § Az Országgyűlés felkéri az Országos Igazságszolgáltatási Tanácsot, hogy az úgynevezett olajügyek büntetőtárgyalására biztosított soronkívüliséget terjessze ki az olajügyekkel kapcsolatos magánvádas büntetőeljárásokra és polgári eljárásokra is.

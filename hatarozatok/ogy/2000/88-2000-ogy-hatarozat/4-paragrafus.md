@@ -1,0 +1,1 @@
+## 3. § Az Országgyűlés felkéri a miniszterelnököt, hogy 2000. december 31-ig adjon tájékoztatást az úgynevezett olajügyekben eljáró rendvédelmi szervek és nemzetbiztonsági szolgálatok tevékenységével kapcsolatban általa elrendelt vizsgálat eredményéről.
