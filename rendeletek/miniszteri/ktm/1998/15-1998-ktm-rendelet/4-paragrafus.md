@@ -1,0 +1,1 @@
+## 3. § A Minisztérium a környezetvédelmi felügyelőségek útján – a megelőző radiológiai, biológiai és vegyi védelemre vonatkozó külön jogszabályok szerint – a környezeti elemeket folyamatosan ellenőrzi, továbbá a polgári védelmi szervek által igényelt adatokat a BM PVOP által meghatározott gyakorisággal biztosítja.

@@ -1,0 +1,1 @@
+## 2. § Az 1. §-ban megjelölt szervek polgári védelmi feladatai végrehajtásának irányítását és a BM Polgári Védelem Országos Parancsnoksága (a továbbiakban: BM PVOP) központi és területi szerveivel való együttműködést a Minisztérium közigazgatási államtitkára látja el.
