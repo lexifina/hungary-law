@@ -1,0 +1,1 @@
+A kulturális javak védelméről és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kult. tv.) 29. § (2) és (5) bekezdései, valamint a 100. § (4) bekezdése alapján – az érdekelt miniszterekkel egyetértésben – a következőket rendelem el:
