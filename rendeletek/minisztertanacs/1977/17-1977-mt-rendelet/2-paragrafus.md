@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Líbiai Arab Köztársaság Kormánya között a területeik közötti és azon túli menetrendszerű légijáratok szabályozása tárgyában Tripoliban, 1975. november 27. napján aláírt egyezményt e rendelettel kihirdeti.
