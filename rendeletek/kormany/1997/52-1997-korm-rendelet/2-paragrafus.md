@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Vöröskereszt Nemzetközi Bizottsága között a Vöröskereszt Nemzetközi Bizottsága budapesti Regionális Küldöttségének jogállásáról szóló, 1997. március 24-én aláírt Székhely-megállapodást e rendelettel kihirdeti.
