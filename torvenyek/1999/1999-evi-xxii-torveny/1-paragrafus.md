@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Portugál Köztársaság Kormánya között a beruházások kölcsönös elősegítéséről és védelméről Budapesten, 1992. február 28-án aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1997. szeptember 8-án megtörtént, és a Megállapodás 1997. október 8-án hatályba lépett.)
