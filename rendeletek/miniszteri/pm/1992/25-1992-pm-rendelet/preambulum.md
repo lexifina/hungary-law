@@ -1,0 +1,1 @@
+A pénzügyminiszter feladat- és hatásköréről szóló 50/1990. (IX. 15.) Korm. rendelet 10. §-a alapján a honvédelmi felkészítés és az országmozgósítás érdekében végzett kiemelkedő munka elismerését — a honvédelmi miniszterrel és a belügyminiszterrel egyetértésben — az alábbiak szerint szabályozom:
