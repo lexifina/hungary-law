@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között Pécsett, 1994. július 10-én aláírt, vízgazdálkodási együttműködési kérdésekről szóló Egyezményt e rendelettel kihirdeti.
