@@ -1,0 +1,1 @@
+(A Magyar Köztársaság elnöke elfogadó okiratának letétbe helyezése a Nemzetközi Tengerészeti Szervezet főtitkáránál 1997. január 30. napján megtörtént. A tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978/1995. évi nemzetközi egyezmény a Magyar Köztársaság vonatkozásában 1997. február 1. napján lépett hatályba.)
