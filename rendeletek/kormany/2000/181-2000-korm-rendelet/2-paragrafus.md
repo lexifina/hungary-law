@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a logisztikai központok és a Koperi kikötő használatáról szóló, Ljubljanában, 2000. február 9-én aláírt Megállapodást e rendelettel kihirdeti.
