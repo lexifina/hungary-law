@@ -1,0 +1,1 @@
+A művelődési miniszter előterjesztésére nyugállományba vonulására tekintettel a Politikai Főiskolán dr. Romány Pál egyetemi tanári munkaviszonyát 1989. december 1. napjával megszüntetem és egyidejűleg felmentem a Főiskola rektori teendőinek ellátása alól.
