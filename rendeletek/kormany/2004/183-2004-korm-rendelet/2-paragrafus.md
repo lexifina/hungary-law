@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Libanoni Köztársaság Kormánya között Budapesten, 2002. december 17-én aláírt, a nemzetközi közúti személyszállításról és árufuvarozásról szóló Egyezményt e rendelettel kihirdeti.
