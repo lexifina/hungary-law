@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Líbiai Arab Köztársaság Kormánya között Tripoliban, az 1975. évi november hó 27. napján aláírt Állategészségügyi Egyezményt e rendelettel kihirdeti.
