@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a Paksi Atomerőmű orosz gyártmányú besugárzott üzemanyag kazettáinak (kiégett nukleáris üzemanyag) az Orosz Föderációba történő visszaszállítása feltételeiről aláírt jegyzőkönyvet e rendelettel kihirdeti.
