@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya által a vasúti, közúti és vízi nemzetközi kombinált áruszállításról szóló, Moravske Toplicében, 1996. augusztus 27-én aláírt Egyezményt e rendelettel kihirdeti.

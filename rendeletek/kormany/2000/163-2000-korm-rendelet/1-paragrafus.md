@@ -1,0 +1,1 @@
+## (A jóváhagyásról szóló jegyzékváltás 2000. június 15. napján megtörtént.)
