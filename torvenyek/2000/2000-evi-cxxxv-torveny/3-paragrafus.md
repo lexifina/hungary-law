@@ -1,0 +1,1 @@
+3. § Az ORTT a 2002. évi költségvetésének végrehajtásáról az Rtv. 32. § (3) bekezdése szerint beszámolót készít, melyet az Rtv. 77. §-ának (6) bekezdése szerinti melléklettel 2003. május 31-ig terjeszt az Országgyűlés elé.
