@@ -1,0 +1,1 @@
+1. § Magyarország által a Szocialista Szovjet Köztársaságok Szövetségével, Nagy-Britannia és Észak-Írország Egyesült Királysággal és az Amerikai Egyesült Államokkal Moszkvában 1945. évi január hó 20. napján kötött fegyverszüneti egyezmény függelékével együtt a magyar állam törvényei közé iktattatik.
