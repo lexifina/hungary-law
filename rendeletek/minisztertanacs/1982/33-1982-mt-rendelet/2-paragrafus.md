@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között Budapesten, 1981. február 12-én aláírt, a nemzetközi forgalomban részt vevő közúti járművek adóztatásáról szóló megállapodást e rendelettel kihirdeti.
