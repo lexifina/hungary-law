@@ -1,0 +1,1 @@
+A művelődési miniszter előterjesztésére – nyugállományba vonulására tekintettel – dr. Simonyi Károlyt, a Budapesti Műszaki Egyetem Híradástechnikai Elektronikai Intézet egyetemi tanárát 1989. december 31. napjával e tisztsége alól felmentem.
