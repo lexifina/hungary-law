@@ -1,0 +1,1 @@
+## 17. § A kijelölés, valamint a kijelölés megszűnésének tényét a kijelölő a kijelölt szervezet nevének és címének, a kijelölésben meghatározott termékcsoportok megnevezésének, valamint a kijelölés területének (vizsgálat, ellenőrzés, tanúsítás) a feltüntetésével a minisztérium a hivatalos lapjában, valamint az internetes honlapján közzéteszi.
