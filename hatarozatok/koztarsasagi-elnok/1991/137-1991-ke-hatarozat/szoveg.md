@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Bánk településrészt — Rétsággal történt egyesítését megszüntetve — 1991. szeptember 1. napjával községgé nyilvánítom. Bánk községgé nyilvánítása nem érinti Rétság városi címét.
