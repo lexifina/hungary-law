@@ -1,0 +1,1 @@
+Az Országgyűlés az állami költségvetés 1992. évi irányelveiről szóló tájékoztatót elfogadja, felkéri a Kormányt, hogy a vitában elhangzottaknak megfelelően olyan részletes költségvetési javaslatot nyújtson be, amelyben a hiány mértéke 60—80 milliárd forint.
