@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Kirgiz Köztársaság Kormánya között Budapesten, 1998. november 20-án aláírt, a vámügyekben történő együttműködésről és kölcsönös segítségnyújtásról szóló Megállapodást e rendelettel kihirdeti.
