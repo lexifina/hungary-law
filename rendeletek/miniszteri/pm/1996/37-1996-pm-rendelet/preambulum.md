@@ -1,0 +1,1 @@
+Az értékpapírok forgalomba hozataláról, a befektetési szolgáltatásokról és az értékpapír-tőzsdéről szóló 1996. évi CXI. törvény (a továbbiakban: Épt.) 247. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján a következőket rendelem el:
