@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között Budapesten, 1997. november 11-én aláírt, a határvizekkel kapcsolatos vízgazdálkodási kérdésekről szóló Egyezményt e rendelettel kihirdeti.
