@@ -1,0 +1,1 @@
+Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 62. §-ának (4) bekezdésében kapott felhatalmazás alapján, figyelemmel az Étv. 46. §-ában, valamint az Étv. 62. §-a (2) bekezdésének f) pontjában foglaltakra – a belügyminiszterrel egyetértésben – a következőket rendelem el:
