@@ -1,0 +1,1 @@
+1. § Az Amerikai Egyesült-Államok, Nagy-Britannia, Dánia, Franciaország, Olaszország, Japán, Norvégia, Németalföld és Svédország között a Spitzbergák tárgyában Párizsban 1920. évi február hó 9. napján kelt Szerződés az Ország törvényei közé iktattatik.
