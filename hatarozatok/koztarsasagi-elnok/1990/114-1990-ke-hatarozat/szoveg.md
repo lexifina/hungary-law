@@ -1,0 +1,3 @@
+1. A Minisztertanács előterjesztésére elhatározom, hogy a Magyar Köztársaság – alapító tagként – az Európai Újjáépítési és Fejlesztési Bank létrehozataláról szóló nemzetközi megállapodást aláírja. Felhatalmazom Rabár Ferenc pénzügyminisztert arra, hogy e megállapodást a Magyar Köztársaság részéről aláírja; részére a felhatalmazást tanúsító okiratot a külügyminiszter adja ki.
+
+2. Felkérem a Minisztertanácsot, hogy a Magyar Köztársaságnak az Európai Újjáépítési és Fejlesztési Bankban való tagsági részvételéhez szükséges kérdésekről történő döntés céljából határozati javaslatot terjesszen az Országgyűlés elé.
