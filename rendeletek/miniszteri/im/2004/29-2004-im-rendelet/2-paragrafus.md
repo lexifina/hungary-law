@@ -1,0 +1,3 @@
+2. § (1) A Kbt. 11. §-ának (1) bekezdése alkalmazásában közbeszerzési gyakorlatnak minősül az Európai Unió által nyújtott Phare segélyből, illetőleg az Európai Unió ISPA előcsatlakozási alapjából származó forrásból támogatott beszerzésre irányuló – az Európai Unió által meghatározott, a 2001. január 1-jétől hatályos eljárásrendnek megfelelően lebonyolított – eljárás előkészítésével, illetőleg lefolytatásával kapcsolatban az ajánlatkérői, illetőleg az ajánlattevői oldalon kifejtett tevékenység is.
+
+(2) A közbeszerzési gyakorlat megvalósulásához az (1) bekezdés esetében is megfelelően irányadóak az 1. § (2)–(5) bekezdésében meghatározottak.
