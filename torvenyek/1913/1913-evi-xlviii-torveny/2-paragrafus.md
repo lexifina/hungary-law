@@ -1,0 +1,1 @@
+2. § Azt, hogy a jelen törvénynyel beczikkelyezett egyezményt mely államok erősítették meg, vagy hogy ahhoz utólagosan mely államok csatlakoztak és hogy egyes államok minő fenntartásokkal éltek, ugyszintén a netalán elforduló felmondásokat a minisztérium rendelettel teszi közzé. Ezt a törvényt egyebekben is a minisztérium hajtja végre.

@@ -1,0 +1,1 @@
+(Szentesitést nyert 1913. évi augusztus hó 3-án. - A nemzetközi egyezményre vonatkozó megerősítő okirat Hágában 1907. évi márcz. hó 26-án tétetett le. Kihirdettetett az Országos Törvénytárnak 1913. évi szeptember hó 5-én kiadott 17. számában.)
