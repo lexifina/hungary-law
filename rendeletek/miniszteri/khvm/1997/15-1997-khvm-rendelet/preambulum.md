@@ -1,0 +1,1 @@
+A vízgazdálkodásról szóló 1995. évi LVII. törvény 45. §-a (8) bekezdésének a) pontjában kapott felhatalmazás alapján – az árvízvédelmi biztonság növelése, a lakosság és a gazdaság értékeinek fokozott megóvása, az árvízi elöntések által okozott károk csökkentése érdekében – a következőket rendelem el:
