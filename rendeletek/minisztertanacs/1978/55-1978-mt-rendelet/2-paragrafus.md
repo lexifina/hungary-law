@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya között a határvizek vízgazdálkodási kérdéseinek szabályozásáról Budapesten, 1976. évi május hó 31-én aláírt Egyezményt e rendelettel kihirdeti.
