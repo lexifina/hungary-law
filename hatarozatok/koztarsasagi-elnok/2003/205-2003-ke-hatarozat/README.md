@@ -1,0 +1,9 @@
+# 205/2003. (X. 27.) KE határozat
+
+dr. Vásáry István rendkívüli és meghatalmazott nagykövet megbízás alóli felmentéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-205-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2003-10-27 | 2003-205-30-76.1 | 205/2003. (X. 27.) KE határozat |
