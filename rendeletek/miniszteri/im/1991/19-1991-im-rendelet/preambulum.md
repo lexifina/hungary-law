@@ -1,0 +1,1 @@
+A mikroelektronikai félvezető termékek topográfiájának oltalmáról szóló 1991. évi XXXIX. törvény 25. §-ának (3) bekezdésében kapott felhatalmazás alapján — az Országos Találmányi Hivatal elnökével egyetértésben — a következőket rendelem:
