@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Albán Szocialista Népköztársaság Kormánya között az egészségügyi együttműködés tárgyában Tiranában, 1990. április 5-én aláírt Egyezményt e rendelettel kihirdeti.
