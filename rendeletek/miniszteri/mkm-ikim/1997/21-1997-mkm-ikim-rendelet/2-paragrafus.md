@@ -1,0 +1,1 @@
+## 1. § E rendelet 1. számú melléklete tartalmazza az ötvös, valamint a hangszerkészítő és -javító szakmák körében folytatható mesterképzés jegyzékét, a 2. számú melléklete pedig az ötvös, valamint a hangszerkészítő és -javító szakmák körében szervezhető mestervizsga követelményeket.
