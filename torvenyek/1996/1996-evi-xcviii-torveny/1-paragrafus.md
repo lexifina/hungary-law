@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Paraguayi Köztársaság között a beruházások elősegítéséről és kölcsönös védelméről Asunciónban, 1993. augusztus 11-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1995. február 7-én megtörtént. Ennek megfelelően a Megállapodás 1995. április 1-jén hatályba lépett.)
