@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Izsófalva nagyközség Rudolftelep elnevezésű településrészét Rudolftelep néven községgé nyilvánítom a következő általános önkormányzati választás napjával.
