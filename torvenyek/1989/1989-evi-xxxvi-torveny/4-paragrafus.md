@@ -1,0 +1,1 @@
+4. § Az Országgyűlés felhívja a Kormányt, hogy gondoskodjék a semmisnek tekintendő elítéléssel érintett, valamint a közbiztonsági őrizetben fogva tartott (1956. évi 31. tvr.) személyek munkaviszonyának és társadalombiztosítási helyzetének rendezéséről.

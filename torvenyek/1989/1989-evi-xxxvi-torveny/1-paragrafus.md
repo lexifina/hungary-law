@@ -1,0 +1,1 @@
+1. § Az 1956. október 23. és 1963. április 4. között, a népfelkeléssel összefüggésben elkövetett politikai bűncselekmény, valamint az ezzel bűnhalmazatban — harci cselekmények során — elkövetett emberölés, rablás, közveszélyokozás vagy személy elleni erőszak miatti elítélések semmisnek tekintendők.

@@ -1,0 +1,1 @@
+Az Országgyűlés kegyelettel megemlékezve mindazokról, akik az 1956-os nemzeti tragédia során hazánk társadalmi átalakulása és függetlensége érdekében felléptek, és ezért politikai megtorlás áldozatául estek, a következő törvényt alkotja:

@@ -1,0 +1,1 @@
+2. § A Legfelsőbb Bíróság — a legfőbb ügyész indítványára, illetve az elítélt vagy hozzátartozója kérelmére — semmisnek nyilváníthatja az 1. §-ban meghatározott időhatáron belül, a népfelkeléssel összefüggésben méltányolható körülmények között elkövetett köztörvényes bűncselekmény miatti elítélést.
