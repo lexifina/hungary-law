@@ -1,0 +1,1 @@
+Az Országgyűlés felhívja a Kormányt, hogy az 1945—1962. közötti törvénysértő elítélések következményeinek orvoslásáról szóló törvényjavaslattal együtt terjessze az Országgyűlés elé az ebben az időszakban törvénysértően elítéltek, internáltak és kitelepítettek kártalanításáról szóló törvényjavaslatot.
