@@ -1,0 +1,3 @@
+7. § Ami az osztrák-magyar hadikölcsönökkel kapcsolatos életbiztosításokat illeti, az azokra vonatkozó szerződéses viszonyokat minden egyes állam saját alattvalóinak érdekében és az e célra rendelkezésre álló alapok figyelembevételével rendezheti.
+
+A biztosító-társaságok által 1920 június 4-ike előtt kizárólag jövőbeli kötelezettségeik fedezése céljából megvásárolt címletek a szerződő államok állományába fognak soroztatni abban az arányban, amelyben a biztosítási összeg a szóban lévő biztosítási művelet középértékéhez áll. E címletek értékelése az illető államok részéről ugyanolyan feltételek mellett történik, mint amelyek a 6. cikk 8. pontjában meg vannak állapítva.

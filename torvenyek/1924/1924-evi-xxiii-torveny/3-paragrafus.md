@@ -1,0 +1,5 @@
+3. § (1) A st.-germaini szerződés 272. cikkének és a trianoni szerződés 255. cikkének rendelkezései megerősíttetnek.
+
+(2) Mindazonáltal megállapíttatik, hogy valamely állam részéről a trianoni szerződés 255. cikkében biztosított különleges jogról történt lemondás, nincs befolyással a társaságok működésének a folytatására, ha az illető állam törvényei azt megengedik.
+
+(3) Azok a biztosító társaságok, amelyeknek főszékhelye a volt Monarchiából a szerződő államok valamelyikéhez csatolt területen van és amelyeknek a volt Osztrák-Magyar Monarchia feldarabolása idején az említett államok másikához csatolt területén fiókjaik (az ügyek adminisztratív vezetésével megbízott főügynökségeik) voltak, mint engedélyezett külföldi biztosító társaságok mind arra nézve, ami az említett fiókokat illeti, ama államnak a külföldi társaságokra megállapított általános szabályainak vannak alávetve, amelyben a fiók működik és pedig a kormánynak a társaságok működésére és a biztosítottak érdekében megállapított garanciákra nézve gyakorolható ellenőrzése tekintetében is.
