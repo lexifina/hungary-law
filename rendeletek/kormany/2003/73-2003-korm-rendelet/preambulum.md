@@ -1,0 +1,1 @@
+A Kormány a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Törvény) 100. §-a (1) bekezdésének f) pontjában foglalt felhatalmazás alapján a következőket rendeli el:
