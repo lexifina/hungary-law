@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság Országgyűlése az 1956. évi októberi forradalom és szabadságharc idején a nemzet szolgálatában és a haza szabadságának védelmében szerzett érdemek elismerésére 1956-os Emlékérmet (a továbbiakban: Emlékérem) és 1956-os Emléklapot (a továbbiakban: Emléklap) alapít.
