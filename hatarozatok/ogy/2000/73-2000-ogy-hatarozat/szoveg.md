@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Szanyi Tibor országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 4.B.V.24.237/2000/3. számú megkeresésével érintett ügyben nem függeszti fel.
