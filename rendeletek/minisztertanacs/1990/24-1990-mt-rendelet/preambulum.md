@@ -1,0 +1,1 @@
+(A Magyar Köztársaság Kormánya csatlakozó okiratának letétbe helyezése a Nemzetközi Atomenergia Ügynökségnél 1989. július 28-án megtörtént. Az egyezmény a Magyar Köztársaság vonatkozásában 1989. október 28-án hatályba lépett.)
