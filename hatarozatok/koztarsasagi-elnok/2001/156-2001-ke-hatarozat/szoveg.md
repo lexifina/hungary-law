@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Kátai József határőr dandártábornok szolgálati viszonyát – érdemei elismerése mellett – a törvény erejénél fogva, 2001. december 26-i hatállyal megszüntetem és nyugállományba helyezem.
