@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és az Orosz Föderáció Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről Moszkvában, 1995. március 6-án aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1996. május 29-én megtörtént, és a Megállapodás 1996. május 29-én hatályba lépett.)
