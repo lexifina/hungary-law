@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között Budapesten, az 1977. évi április hó 6. napján aláírt kulturális, oktatási, tudományos és műszaki-tudományos együttműködési Egyezményt e rendelettel kihirdeti.
