@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a Rétszilasi halastórendszer és az azt kísérő nádas-gyékényes szegélyek és kapcsolódó szikesedő legelők különlegesen értékes növény- és állatvilágának megvédése, madárvonulási időszakban a zavartalan pihenőhely biztosítása, a terület tájképi értékeinek megóvása.

@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom ,,Rétszilasi-tavak Természetvédelmi Terület'' elnevezéssel a Pusztaegres, Sárbogárd, Sáregres községhatárokban lévő, mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú 1495,5 hektár kiterjedésű területet.
