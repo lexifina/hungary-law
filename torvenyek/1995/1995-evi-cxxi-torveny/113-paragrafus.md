@@ -1,0 +1,1 @@
+113. § Az Országgyűlés felhatalmazza a Kormányt, hogy a főváros és a megyei jogú városok szennyvíztisztításához nyújtandó támogatást, valamint az agrárgazdasági támogatások felhasználásának és a gazdálkodó szervezetek egyedi támogatásának 1996. évi szabályait rendeletben állapítsa meg.

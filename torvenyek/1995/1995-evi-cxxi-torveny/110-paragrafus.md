@@ -1,0 +1,1 @@
+110. § A hivatásos önkormányzati tűzoltó-parancsnokságok tagjait megilletik mindazok a járandóságok és juttatások, amelyeket a fegyveres erők és a fegyveres testületek hivatásos állományának szolgálati viszonyáról szóló 1971. évi 10. törvényerejű rendelet előír.

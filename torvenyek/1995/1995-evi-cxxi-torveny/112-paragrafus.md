@@ -1,0 +1,1 @@
+112. § Az Országgyűlés felhatalmazza az igazságügyminisztert, hogy a fogvatartottak foglalkoztatásával járó – e törvény 18. §-ában meghatározott – támogatások igénybevételének rendjét a pénzügyminiszterrel együttesen rendeletben állapítsa meg.

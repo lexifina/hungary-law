@@ -1,0 +1,11 @@
+12. § (1) A központi beruházások 1995. évi pénzmaradványának és előirányzat-maradványának elszámolása alapján a központi költségvetés javára elvonandó és a felhasználható pénzmaradványok, valamint az előirányzat-maradványok teljes összegével az 1996. évi előirányzatok megnövelhetők.
+
+(2) A pénzügyminiszter az (1) bekezdésnek megfelelő előirányzat-módosítást saját hatáskörben végrehajthatja.
+
+(3) A XIII. Közlekedési, Hírközlési és Vízügyi Minisztérium fejezet, 11. cím, 3. alcím 23. ,,Vasúthálózat racionalizálása miatt szükséges közúti alapellátás'' 500,0 millió forint kiemelt előirányzat a gyenge forgalmú vasúti mellékvonalak megszüntetése (racionalizálása) miatt a személyszállítás alapfeladatainak biztosításához szükséges autóbusz-beszerzések és egyéb kapcsolódó közúti fejlesztési kiadásokra használható fel. Ennek igénybevételére a MÁV Rt. és más, ebben közreműködő szervezetek által dokumentált, a közlekedési, hírközlési és vízügyi miniszter és a pénzügyminiszter által jóváhagyott adatok alapján kerülhet sor.
+
+(4) A XIII. Közlekedési, Hírközlési és Vízügyi Minisztérium fejezet, 11. cím, 3. alcím, 22. ,,Vasúti létszámkiváltó műszaki fejlesztés'' 1500 millió forint kiemelt előirányzatát a MÁV Rt. veheti igénybe abban az esetben, ha a társaságon belüli egyes szervezeti egységeknél végrehajtott létszámcsökkentés műszaki fejlesztéssel oldható meg. Ennek igénybevételére a MÁV Rt. által dokumentált, a közlekedési, hírközlési és vízügyi miniszter és a pénzügyminiszter által jóváhagyott adatok alapján kerülhet sor.
+
+(5) A ,,Budapest—Hegyeshalom vasútvonal korszerűsítése'' kiemelt jelentőségű beruházás előirányzata (XIII. Közlekedési, Hírközlési és Vízügyi Minisztérium fejezet 11. cím, 3. alcím, 4. előirányzat-csoport, 1. kiemelt előirányzat) előirányzat-módosítási kötelezettség nélkül teljesülhet a német Újjáépítési és Hitelbank (Kreditanstalt für Wiederaufbau: KfW) által nyújtott hitel 1995. évi üteméből fel nem használt hitelrész felhasználásával és az árfolyamváltozással összefüggésben.
+
+(6) A ,,Lágymányosi egyetemi fejlesztések'' kormányzati rendkívüli kiadás előirányzata (XVIII. Művelődési és Közoktatási Minisztérium fejezet 12. cím, 3. alcím) előirányzat-módosítási kötelezettség nélkül teljesülhet az Universitas kötvény kibocsátásából származó forrás felhasználásával.

@@ -1,0 +1,1 @@
+42. § Amennyiben az állam által vállalt kezességek központi költségvetéssel szembeni érvényesítésének — a behajtott követeléssel (megtérüléssel) csökkentett — összege meghaladja az e célra előirányzott összeget (XVII. Pénzügyminisztérium fejezet 18. cím), a különbözet az általános tartalékot terheli.

@@ -1,0 +1,7 @@
+## A helyi önkormányzatok pénzellátásának szabályai
+
+30. § (1) Az 1995. december havi és az 1996. január és február havi átutalásnál e törvény 3. számú melléklete szerinti hozzájárulásoknál a pénzellátás alapja a benyújtott költségvetési törvényjavaslatnak megfelelő, országos mutatószám felmérés eredményeként helyi önkormányzatonként számított összeg.
+
+(2) Az (1) bekezdés szerinti átutalás és az Országgyűlés által elfogadott normatív hozzájárulások önkormányzatonkénti különbözetét a március-április havi pénzellátás keretében, két egyenlő részletben kell korrigálni.
+
+(3) A saját gazdálkodási hibából tartósan fizetésképtelen helyi önkormányzatnak, amelynek kérelmét a belügyminiszter és a pénzügyminiszter előterjesztésére a Kormány határozatban támogatja, a Magyar Államkincstár (a továbbiakban: Kincstár) az 1996. évre az őt megillető normatív állami hozzájárulás és személyi jövedelemadó összegét az Áht. 63. § (2)–(5) bekezdése szerinti nettó módon, továbbá az e törvény 20. § (1) bekezdésének b) és d) pontja alapján a helyi önkormányzatot megillető állami támogatást teljes összegében – a pénzügyminiszter intézkedésére – a helyi önkormányzatok adósságrendezési eljárásáról szóló törvény hatálybalépéséig, a területileg illetékes megyei Területi Államháztartási Közigazgatási Információs Szolgálatnál (a továbbiakban: TÁKISZ) vezetett elkülönített letéti számlára folyósítja. E számla feletti rendelkezésről – a TÁKISZ ellenjegyzése mellett – az önkormányzat önállóan dönt.

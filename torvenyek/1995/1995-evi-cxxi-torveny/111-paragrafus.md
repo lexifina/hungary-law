@@ -1,0 +1,1 @@
+111. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény rendelkezései az exporthitelekhez kapcsolódó kamatkiegyenlítési rendszerről szóló 105/1995. (IX. 8.) Korm. rendelet alapján megkötött hitelszerződésekre is alkalmazhatók.

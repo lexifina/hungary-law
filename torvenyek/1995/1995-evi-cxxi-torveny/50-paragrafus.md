@@ -1,0 +1,1 @@
+50. § A Pénzügyminisztérium központi letéti számlájának egyenlegét – beleértve a Világkiállítási Alap pénzmaradványát is – 1996. január 1-jei fordulónappal a központi költségvetés vegyes bevételeinél kell elszámolni (XVII. Pénzügyminisztérium fejezet 22. cím, 1. alcím).

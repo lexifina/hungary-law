@@ -1,0 +1,1 @@
+68. § A 67. § (2) bekezdésében felsorolt megszűnt alapoktól átvett feladatokkal kapcsolatos bevételi előirányzatok – az e törvény 67. §-a (2) bekezdésének e) és o) pontjában írt kivétellel – ugyanazon kiadási előirányzat-csoport kiadási előirányzataira használhatók fel.

@@ -1,0 +1,1 @@
+59. § Az államháztartási reform keretében létrejövő közhasznú, illetve gazdasági társaság, valamint társadalmi szervezet, egyesület, köztestület és közalapítvány részére a központi költségvetési szerv köteles az alapító által megjelölt eszközöket térítésmentesen rendelkezésre bocsátani.

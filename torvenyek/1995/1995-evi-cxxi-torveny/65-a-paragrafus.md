@@ -1,0 +1,1 @@
+65/A. § A XXIII. Magyar Rádió költségvetési fejezet tekintetében a Magyar Rádió Közalapítvány Kuratóriuma, a XXIV. Magyar Televízió költségvetési fejezet vonatkozásában a Magyar Televízió Közalapítvány Kuratóriuma köteles gondoskodni arról, hogy a fejezetek 1996. évi zárszámadása a jogszabályoknak megfelelően elkészüljön.

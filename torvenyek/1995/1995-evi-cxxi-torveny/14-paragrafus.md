@@ -1,0 +1,3 @@
+14. § (1) A központi költségvetési szervek 1996. évi előirányzatai teljesítésének elszámolása során a normatív támogatások jogosultságot meghaladó többlete, valamint az elmaradt, nem teljesített feladatokhoz kapcsolódó és a céljelleggel megállapított előirányzatok – következő évre áthúzódó kötelezettséggel nem terhelt – külön jogszabályban foglaltak szerint megállapított maradványa törlésre kerül.
+
+(2) A központi költségvetési szerv előirányzatai teljesítésének elszámolását a fejezet felügyeletét ellátó szerv vezetője, a fejezet összesített előirányzatai teljesítésének elszámolását a pénzügyminiszter vizsgálja felül és hagyja jóvá.

@@ -1,0 +1,1 @@
+63. § A MÁV Rt. az 1996. évi termelési árkiegészítés és dotáció címen jóváhagyott előirányzatból – a MÁV Rt. által dokumentált és a pénzügyminiszter, valamint a közlekedési, hírközlési és vízügyi miniszter által jóváhagyott adatok alapján – 1000 millió forintot a létszámcsökkentéssel összefüggő végkielégítésre és korengedményes nyugdíjazásra használhat fel.

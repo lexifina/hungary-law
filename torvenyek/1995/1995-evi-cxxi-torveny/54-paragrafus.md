@@ -1,0 +1,1 @@
+54. § A Munkaerőpiaci Alap részét képező Rehabilitációs Alap és az erről szóló 1993. évi XVIII. törvény 4. §-ának (3) bekezdése alapján 1996-ban a hozzájárulás kiszámításának alapjául szolgáló összeg 7000 forint.

@@ -1,0 +1,1 @@
+117. § Felhatalmazást kap a Kormány, hogy az 5. számú melléklet 15. Kiemelt előirányzatként Tartalék céljára betervezett 6 Mrd Ft-ból 2 Mrd Ft-ot a pedagógusok átképzésére, illetve a pedagógusok kötelező óraszámának emelésével összefüggő illetményemelésre fordítson.

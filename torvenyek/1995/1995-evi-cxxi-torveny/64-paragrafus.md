@@ -1,0 +1,1 @@
+64. § A Magyar Köztársaság Oroszországgal szemben fennálló követeléseinek törlesztése keretében a Belügyminisztérium részére beérkező gépjárművek és azok tartozékai pénzügyi elszámolása során az egyes nemzetközi tartozások ellentételeként beérkező szállítások pénzügyi elszámolásáról szóló 1994. évi XIII. törvény előírásait kell alkalmazni.

@@ -1,0 +1,1 @@
+35. § A központi és a helyi önkormányzati költségvetési szerveknél, valamint a normatív állami támogatásban részesülő nem állami szociális, egészségügyi, nevelési és oktatási intézményeknél foglalkoztatottak munkaviszonyból származó bruttó keresetét terhelő munkaadói járulékot 1996. január 1-jétől a munkaadóknak kell a Munkaerőpiaci Alapba befizetniük.

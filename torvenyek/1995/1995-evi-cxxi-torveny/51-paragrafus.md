@@ -1,0 +1,1 @@
+51. § A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 43. §-a (1) bekezdésében foglalt, a II. besorolási osztály első fizetési fokozata szerinti illetményalap az 1996. évben 20 000 forint.

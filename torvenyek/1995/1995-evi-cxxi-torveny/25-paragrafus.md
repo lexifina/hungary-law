@@ -1,0 +1,1 @@
+25. § A települési önkormányzat által a belföldi gépjárművek után beszedett adóból a gépjárműadóról szóló törvényben meghatározott alsó adótétellel számított összeg 50%-a az önkormányzatot illeti. Ha a képviselő-testület, illetve közgyűlés az alsó adótételnél magasabb mértéket állapít meg, a különbözetből származó bevétel 100%-ban az önkormányzatot illeti meg.

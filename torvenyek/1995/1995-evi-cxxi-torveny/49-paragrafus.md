@@ -1,0 +1,1 @@
+49. § A Magyar Köztársaság 1993. évi költségvetéséről szóló 1992. évi LXXX. törvény 39. §-ában foglalt rendelkezés alapján az 1993–94. években kibocsátott 6000 millió forint értékű kötvény visszavásárlásával és kamatfizetésével kapcsolatos, a törvény 39. § b)–c) pontjai szerinti rendelkezést 1996-ban is alkalmazni kell.
