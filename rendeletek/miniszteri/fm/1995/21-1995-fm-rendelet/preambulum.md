@@ -1,0 +1,1 @@
+A földmérési és térképészeti tevékenységről szóló 12/1969. (III. 11.) Korm. rendelet 18. §-ában kapott felhatalmazás alapján — az érdekelt miniszterekkel és országos hatáskörű szervekkel egyetértésben — a következőket rendelem el:
