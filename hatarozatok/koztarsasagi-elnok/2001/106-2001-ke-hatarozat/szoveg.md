@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Simics Sándor rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság almati nagykövetségének vezetése, valamint a Magyar Köztársaság Tadzsik Köztársaságban és a Kirgiz Köztársaságban való képviseletére kapott megbízása alól.
