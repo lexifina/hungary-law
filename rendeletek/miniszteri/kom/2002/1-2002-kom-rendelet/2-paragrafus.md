@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom és a 31/1997. (IX. 23.) KTM rendelettel létesített Balaton-felvidéki Nemzeti Park területéhez csatolom a Gyötrős-tető Cserszegtomaj 022/11, 022/17–77, 459, 460, 461/1–16, 462–469, 500, 502 ingatlan-nyilvántartási helyrajzi számú, összesen 22 hektár kiterjedésű területét.
