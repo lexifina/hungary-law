@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Gulyás Andrást kinevezem főkonzullá, és megbízom a Magyar Köztársaság Katalónia, Valencia, a Baleári-szigetek autonóm tartományokra, valamint az Andorrai Hercegség teljes területére kiterjedő hatáskörrel működő barcelónai főkonzulátusának vezetésével.
