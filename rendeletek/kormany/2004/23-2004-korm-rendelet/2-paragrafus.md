@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Perui Köztársaság Kormánya közötti mezőgazdasági együttműködésről szóló, Budapesten, 1998. szeptember 14-én aláírt egyezményt e rendelettel kihirdeti.
