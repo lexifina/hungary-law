@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Szocialista Etiópia Ideiglenes Katonai Kormánya között Addis Abebában az 1980. évi szeptember hó 17. napján aláírt kulturális, tudományos és oktatási együttműködésről szóló megállapodást e rendelettel kihirdeti.
