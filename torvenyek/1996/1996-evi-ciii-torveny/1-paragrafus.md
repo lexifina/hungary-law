@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Vietnami Szocialista Köztársaság között a beruházások előmozdításáról és kölcsönös védelméről Budapesten, 1994. augusztus 26-án aláírt Megállapodást e törvénnyel kihirdeti. (A megállapodás megerősítéséről szóló jegyzékváltás 1995. június 16-án megtörtént. Ennek megfelelően a Megállapodás 1995. június 16-án hatályba lépett.)
