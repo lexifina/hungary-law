@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Hobol településrészt — Szigetvárral történt egyesítését megszüntetve — községgé nyilvánítom 1992. január 1. napjával. Hobol községgé nyilvánítása nem érinti Szigetvár városi címét.
