@@ -1,0 +1,1 @@
+## 1. § A Magyar Köztársaság és a Török Köztársaság közötti Szabadkereskedelmi Megállapodás a ,,származó termék'' fogalmának meghatározásáról és az adminisztratív együttműködés módszereiről szóló D Jegyzőkönyvének módosításáról szóló vegyesbizottsági határozatot (a továbbiakban: vegyesbizottsági határozat) e rendelettel kihirdeti.
