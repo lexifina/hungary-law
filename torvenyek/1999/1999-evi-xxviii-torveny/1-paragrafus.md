@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Tunéziai Köztársaság között a kettős adóztatás elkerülésére a jövedelemadók területén Tuniszban, 1992. október 22-én aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1997. május 20-án megtörtént, és az Egyezmény 1997. július 19-én hatályba lépett.)
