@@ -1,0 +1,1 @@
+A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 15. §-ában kapott felhatalmazás alapján – a Közalkalmazottak Országos Munkaügyi Tanácsában (a továbbiakban: KOMT) történt egyeztetést követően – a Kormány a következőket rendeli el:
