@@ -1,0 +1,1 @@
+## 13. § Az R. 173. és 174. §-át azzal az eltéréssel kell alkalmazni, hogy az érintett gyógyító-nevelő csoportba nem helyezhető, részére az állapotának megfelelő foglalkoztatást, oktatást, valamint pszichoterápiás kezelést az Igazságügyi Megfigyelő és Elmegyógyító Intézetben kell biztosítani.
