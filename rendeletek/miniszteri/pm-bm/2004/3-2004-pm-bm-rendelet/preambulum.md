@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2004. évi költségvetéséről és az államháztartás három éves kereteiről szóló 2003. évi CXVI. törvény (a továbbiakban: KT) 20. §-ának (2) bekezdésében és 21. §-a (1) bekezdésének d) pontjában kapott felhatalmazás alapján – figyelemmel a KT 4. számú mellékletében foglaltakra – a következőket rendeljük el:
