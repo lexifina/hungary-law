@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Kékesi Tibor országgyűlési képviselő mentelmi jogát a Budapesti II. és III. kerületi Bíróság 9.B.223/2004/3. számú megkeresésével érintett ügyben nem függeszti fel.
