@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Laoszi Népi Demokratikus Köztársaság Kormánya között Vientianéban, az 1977. évi május hó 6. napján aláírt kulturális és tudományos együttműködési egyezményt e rendelettel kihirdeti.
