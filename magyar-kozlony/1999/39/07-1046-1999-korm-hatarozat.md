@@ -1,0 +1,1058 @@
+# A Kormány 1046/1999. (V. 5.) Korm. határozata
+
+Magyar Közlöny 1999. évi 39. szám, 1999. május 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4e760ef3fb5a324929f324f6b4416a10fa3b3229/dokumentumok/98d523080c4f2d95a2e8aacbe0e54e724e79def8/letoltes)
+
+---
+
+A Kormány
+1046/1999. (V. 5.) Korm.
+határozata
+a Magyar Katolikus Egyház javára 2011-ig rendezendő
+ingatlanok jegyzékének elfogadásáról, valamint
+az 1999. évben megoldásra javasolt ingatlanokról
+és egyes kormányhatározatok módosításáról
+A Kormány
+1. a) az 1991. évi XXXII. törvény (a továbbiakban: Etv.)
+7. §-ának (1) bekezdése alapján elfogadja a Magyar Kato-
+likus Egyház részére 2011-ig átadásra javasolt, az 1. számú
+melléklet szerinti ingatlanok jegyzékét, és egyetért azzal,
+hogy a további rendezés az Etv. által előírt eljárás szerint
+— éves jegyzékek alapján — történjék, az aktualizált érté-
+kek figyelembevételével;
+b) felhívja az ingatlanok jelenlegi tulajdonosainak, ke-
+zelőinek és használóinak figyelmét arra, hogy az ingatla-
+nok tulajdoni helyzetének végleges rendezéséig azok álla-
+gának megóvására és megfelelő karbantartására kötelesek;
+Felelős:
+nemzeti kulturális örökség minisztere
+Határidő: folyamatos
+2. a) az Etv. értelmében alakított egyeztető bizottság
+által a rendezésre javasolt ingatlanok 2. számú melléklet
+szerinti jegyzékét jóváhagyja, és elrendeli, hogy a jegyzék-
+ben felsorolt ingatlanok tulajdonba adásáról és a kártala-
+nítás kifizetéséről a Nemzeti Kulturális Örökség Minisz-
+tériumának helyettes államtitkára gondoskodjék;
+b) felhívja az érdekeltek figyelmét arra, hogy az állami
+költségvetési pénzek felhasználását az Állami Számvevő-
+szék ellenőrizheti. Erre tekintettel a kártalanítás felhasz-
+III. rész HATÁROZATOK
+
+nálására vonatkozó bizonylatokat őrizzék meg, és azokat
+tájékoztató jelleggel, másolatban küldjék meg a Nemzeti
+Kulturális Örökség Minisztériuma részére;
+Felelős: nemzeti kulturális örökség minisztere
+pénzügyminiszter
+Határidő: a határozat kihirdetését követő 30 nap
+3. tudomásul veszi a Magyar Katolikus Egyház részére
+az Apostoli Szentszékkel kötött Megállapodásban rögzí-
+tett járadék alapjául szolgáló ingatlanjegyzéket;
+4. egyetért azzal, hogy a Szent Domonkos Rend tulaj-
+donában lévő Budapest XIV., Cházár András u. 4. (hrsz.:
+32749) szám alatti ingatlan volt használója az ART-
+TRADE Kft. felszámolója által benyújtott kártalanítási
+igény elutasításra kerüljön.
+Felelős: nemzeti kulturális örökség minisztere
+Határidő: a határozat kihirdetését követő 30 nap
+5. Az 1064/1997. (VI. 11.) Korm. határozattal vissza-
+adott egyházi ingatlanok tulajdonba adásával kapcsolatos
+pénzösszegek kifizetéséről szóló 2156/1997. (VI. 13.)
+Korm. határozat 2. számú melléklete II. jegyzékében a
+Magyar Katolikus Egyház listáján 10. sorszámmal szereplő
+ingatlan (Hévíz, Gyógyfürdő-Szanatórium, hrsz.: 964/4)
+sorában az 1999. VI. 30. szövegrész helyébe az 1999. III. 31.
+szövegrész lép.
+6. Az 1082/1995. (IX. 4.) Korm. határozattal visszaadott
+egyházi ingatlanok tulajdonba adásával kapcsolatos pénz-
+összegek kifizetéséről szóló 2335/1995. (X. 31.) Korm.
+határozat 2. számú mellékletének a hatpárti egyeztetés
+alapján kiemelten kezelendő ingatlanok jegyzékén 3. sor-
+számmal szereplő ingatlan (Budapest V., Piarista köz 1.)
+sorában az 1999. XI. 30. szövegrész helyébe az 1999. III. 31.
+szövegrész lép.
+Orbán Viktor s. k.,
+miniszterelnök
+1. számú melléklet az 1046/1999. (V. 5.) Korm. határozathoz
+1. Abony Csillag Zs. u. 2. 966
+2. Abony Szelei u. 1. 856
+3. Adács Akácfa út 3. 2
+4. Adács Szent Jakab út 17. 7/1, 7/2
+5. Ajak Ady E. u. 8. 575
+6. Ajak Rákóczi u. 67. 48
+7. Ajka Liszt F. u. 2. 754
+8. Ajka Szent István u. 73. 756
+9. Albertirsa Kolozsvári u. 17. 3263
+10. Andocs Szabadság tér 6. 173
+11. Andornaktálya Rákóczi u. 213. 180
+12. Apácatorna Kossuth u. 24. 34
+13. Aranyosapáti Kölcsey u. 4. 49
+14. Aranyosapáti Petőfi u. 53. 78
+15. Arló Ady E. u. 150—152. 849/1
+16. Arnót Petőfi u. 147. 113/1
+17. Aszófő Balaton u. 32. 202/2
+18. Ács Gyár u. 12. 2353/2
+19. Ács Gyár u. 4. 2346/18
+20. Ácsteszér Petőfi u. 1. 181/4, 184/5
+21. Ádánd Árpád u. 35. 197/5
+22. Babót Fő u. 72. 186
+23. Badacsonytomaj-Badacsonyörs (Belterület) 1818
+24. Bag Szent András u. 42. 773
+25. Bag Templom tér 1. 56
+26. Bágyogszovát Fő u. 29. 582
+27. Baja Deák F. u. 4. 527/6
+28. Baja Deák F. u. 4. 527/5
+29. Baja Martinovics u. 1. 868
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+30. Bakonybél Szent Gellért tér 15. 86
+31. Bakonybél Szent Gellért tér 17. 87
+32. Bakonycsernye Rákóczi u. 149/A 344/3
+33. Bakonyszombathely Széchenyi u. 2. 669
+34. Balástya Felszabadulás u. 9. 296
+35. Balástya Tolbuchin u. 10. 240
+36. Balatonalmádi Szigeti J. u. 14. 2947
+37. Balatonalmádi Veszprémi út 87. 5, 4/6
+38. Balatonberény Kossuth L. 60. 117/1
+39. Balatonboglár Árpád u. 15—17. 632/1—2
+40. Balatonfüred Arácsi u. 2. 2315
+41. Balatonfüred Blaha Lujza u. 3. 368
+42. Balatonfüred Gyógy tér 2. 360/2
+43. Balatonkenese Balatoni u. 21. 2944
+44. Balatonkeresztúr Kossuth L. 2. 271
+45. Balatonlelle Kossuth L. 62. 4130
+46. Balatonőszöd Petőfi S. u. 1. 55
+47. Balatonszabadi Kossuth u. 40. 240
+48. Balatonszabadi Vak Bottyán u. 131. 598
+49. Balatonszárszó Móra F. u. 2. 1443
+50. Balatonszemes Fő u. 31. 1156
+51. Balatonszemes Fő u. 32. 1080
+52. Balkány Kossuth u. 28. 760
+53. Balkány Ságvári E. u. 33. 770/3
+54. Balmazújváros Veres P. u. 17. 4319
+55. Balogunyom Rákóczi u. 3. 478
+56. Bárdudvarnok Kaposszentbenedek 79. 68/1
+57. Bátya Deák F. u. 1. 11
+58. Bedegkér Rákóczi u. 69. 82
+59. Békés Szántó Albert u. 3. 6898
+60. Békéssámson Bacsó B. u. 15. 384
+61. Békéssámson Kossuth u. 9. 443
+62. Békésszentandrás Szent István u. 50. 409
+63. Bérbaltavár Kossuth u. 31. 85/1
+64. Beregdaróc Szabadság u. 88. 340
+65. Beregsurány Árpád u. 8. 219
+66. Berhida Ősi u. 20. 272
+67. Berzék Rákóczi u. 67. 324
+68. Berzence Szabadság tér 7. 939
+69. Beszterec Kossuth út 42. 245
+70. Bicske Prohászka u. 3. 1302/2
+71. Biri Mező I. u. 19. 21/1
+72. Biri Mező I. u. 21. 21/2
+73. Bodajk Petőfi u. 62. 563
+74. Bodajk Petőfi u. 66. 599
+75. Bodajk Petőfi u. 7. 485
+76. Bodajk Petőfi u. 53. 1041/2
+77. Böde Rákóczi u. 1. 128
+78. Bodonhely Dózsa Gy. u. 39. 47
+79. Bódvarákó Ostoros dülő 1.G95. 1075
+80. Bogács Ady E. u. 33. 74/1
+81. Bokod Erdélyi u. 1. 450
+82. Bököny Kossuth u. 12. 267/2
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+83. Borsosberény Petőfi u. 62. 517
+84. Bősárkány Petőfi u. 47. 215
+85. Bucsu Rohonci u. 4. 346
+86. Bucsuszentlászló Arany J. u. 15. 305
+87. Bucsuszentlászló Arany J. u. 15. 305
+88. Budaörs Árpád u. 8. 900
+89. Budapest I. Batthyány tér 7. 14441/1
+90. Budapest I. Fő u. 15. 14409
+91. Budapest I. Krisztina krt. 59—61. 7597/1
+92. Budapest I. Szabó Ilonka u. 36195. 14206
+93. Budapest I. Szentháromság tér 2. 6532
+94. Budapest II. Zivatar u. 6—8. 13319
+95. Budapest II. Fő u. 88. 13565
+96. Budapest II. Fő u. 88. 13550/34
+97. Budapest II. Frankel Leó u. 17—19. 13465
+98. Budapest II. Frankel Leó u. 31—33. 14479/1
+99. Budapest II. Frankel Leó u. 54. 14560/1
+100. Budapest II. Heinrich István u. 3. 11377/1
+101. Budapest II. Hímes u. 3. 51584
+102. Budapest II. Ürömi u. 59. 14869
+103. Budapest III. Bercsényi u. 39/B 62725/1
+104. Budapest III. Kenyeres u. 9. 17347
+105. Budapest III. Kiscelli út 79. 17263
+106. Budapest III. Pomázi u. temető 19963
+107. Budapest III. Szentendrei út 110. 19223/2
+108. Budapest III. Szentendrei út 69—71. 19265
+109. Budapest III. Szentlélek tér 10. 18024/7, 18023
+110. Budapest III. Szőlő u. 60. 17345/1
+111. Budapest III. Zápor u. 41. 17354
+112. Budapest IV. Fóti út 35. 74504/1—2
+113. Budapest IV. Szent István tér 14. 70217
+114. Budapest V. Ferenciek tere 7—8. 24188/A111—118
+115. Budapest V. Ferenciek tere 7—8. 24188/A/27
+116. Budapest V. Hercegprímás u. 7—9. 24546
+117. Budapest V. Március 15. tér 2. 24320/A/7/8
+118. Budapest V. Március 15. tér 2. 24320/A/2/9
+119. Budapest V. Váci u. 47. 23881
+120. Budapest VII. Damjanich u. 50. 33477
+121. Budapest VIII. Horánszky u. 14. 36636
+122. Budapest VIII. Horánszky u. 18—20—22. 36638, 36639
+123. Budapest VIII. Horánszky u. 23. 36610
+124. Budapest VIII. Kerepesi út 33. 38837/14
+125. Budapest VIII. Rezső tér 38689/1
+126. Budapest VIII. Rigó u. 3. 35228/3
+127. Budapest IX. Haller u. 19—21. 38262/10
+128. Budapest IX. Hőgyes E. u. 5. 36869
+129. Budapest IX. Üllői út 75—77. 37158
+130. Budapest X. Kada u. 25. 41611
+131. Budapest XI. Aga u. 1—3. 4569/1, 4570/1, 4573
+132. Budapest XI. Bartók Béla út 19. 5034/1/49, /50
+133. Budapest XI. Galváni út 15. 3993/22
+134. Budapest XI. Ménesi út 12. 4968
+135. Budapest XI. Ménesi út 26. 4957: 1781/2895
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+136. Budapest XI. Ménesi út 57/A 5119/11/A/2
+137. Budapest XI. Tas vezér u. 28. II. 4. 4494/16
+138. Budapest XII. Csaba u. 5. 6835/18
+139. Budapest XII. Diana u. 15/A 9605
+140. Budapest XII. Diana u. 4. 9612/1
+141. Budapest XII. Diana u. 4. 9612/1
+142. Budapest XII. Szilágyi E. fasor 8. I. 6. 6825/A/8
+143. Budapest XII. Zugligeti út 73. 10825
+144. Budapest XIII. Huba u. 6. 27876
+145. Budapest XIII. Huba u. 7/9. 27887
+146. Budapest XIII. Lehel tér 1. 28222/1
+147. Budapest XIII. Rokolya u. 28. 26552/9
+148. Budapest XIII. Váci út 34. I/ 5,6. 25330/A/17, 22, 23
+149. Budapest XIV. Cházár A. u. 3. 32764
+150. Budapest XIV. Hermina út 23. 31670/2
+151. Budapest XV. Rákos u. 163. 80701
+152. Budapest XV. Szűcs I. u. 24. 81990
+153. Budapest XVI. Georgina u. 4. 116830
+154. Budapest XVI. Rádió u. 36. 116828
+155. Budapest XVI. Rádió u. 38. 116829
+156. Budapest XVII. Péceli u. 230. 134456
+157. Budapest XVIII. Bajcsy-Zs. út 39/B 159264/4
+158. Budapest XVIII. Gyöngyvirág u. 41. 154654
+159. Budapest XVIII. Vörösfény u. 168. 144398
+160. Budapest XIX. Koós K. tér 16. 160506
+161. Budapest XIX. Vas Gereben u. 109. 167187
+162. Budapest XX. Kossuthfalva tér 175309, 175310
+163. Budapest XX. Zalán u. 5—7—9—11. 175533/34/35/36
+164. Budapest XXII. Bajcsy-Zs. u. 3. 228461/1
+165. Budapest XXII. Bajcsy-Zs. u. 3. 228461/2
+166. Budapest XXII. Kistétényi út 13/B 228534
+167. Budapest XXIII. Szitás u. 112. 185802
+168. Bugyi Kossuth u. 1. 1086/1
+169. Bugyi Teleki u. 20. 1197/1
+170. Bükkösd-Megyefa Petőfi u. 23. 480
+171. Bükkösd-Megyefa Petőfi u. 22.G198. 583
+172. Bükkzsérc Petőfi u. 22. 197/1
+173. Cegléd Pesti u. 2—4. 227, 231
+174. Celldömölk József A. u. 1. 395/1—2
+175. Celldömölk Széchenyi u. 17. 734
+176. Celldömölk Szentháromság tér 1. 875
+177. Csajág Kossuth u. 128. 521
+178. Csákberény Kossuth u. 15. 295/1
+179. Csanádapáca Batthyányi u. 6. 285
+180. Csatka Szabadság tér 65. 115/2, 4
+181. Csehbánya Fő u. 1. 1
+182. Csehbánya Kápolna dűlő 071, 072
+183. Csehi Petőfi u. 2. 76
+184. Csehimindszent Petőfi u. 7. 205/2
+185. Csengőd Béke tér 4. 33/2
+186. Csénye Ady E. u. 2. 114
+187. Csepreg Kossuth u. 67. 992, 993
+188. Csepreg Széchenyi tér 29. 1231
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+189. Cserénfa Dózsa Gy. 1. 139
+190. Csesznek Vár u. 40. 258
+191. Csobaj Sport u. 3. 378/2
+192. Csobád Kossuth u. 33. 182
+193. Csobánka Margitliget 1. 602, 603, 0246/1,
+0242/3
+194. Csököly Petőfi u. 66. 316
+195. Csokonyavisonta Xantus J. u. 229. 237
+196. Csolnok Annavölgyi u. 1. 467
+197. Csongrád Kossuth tér 2. 24
+198. Csongrád Piroska János tér 3. 1605
+199. Csopak Berekháti u. 62. 769
+200. Csopak Kossuth u. 108. 1064
+201. Csörötnek Fő u. 78. 87
+202. Csorvás István király u. 30—34. 309/1
+203. Csorvás Petőfi u. 6. 251/1
+204. Csót Rákóczi u. 24—26. 340/1
+205. Dabas-Sári Szent János u. 58. 1101
+206. Dámóc Fő u. 116. 13
+207. Dámóc Fő u. 142. 186
+208. Debrecen Szent Anna u. 17. 9754
+209. Debrecen Szent Anna u. 19. 9755
+210. Debrecen Varga u. 2. 9752/1
+211. Dédestapolcsány Hunyadi u. 56. 91
+212. Dég Széchenyi u. 52/A 735
+213. Demecser Iskola u. 4. 264/1
+214. Demecser Petőfi tér 18. 206
+215. Demecser Székely u. 39. 3269
+216. Devecser Petőfi tér 11. 705
+217. Doboz Hold u. 15. 1689
+218. Doboz Táncsics u. 20. 1534
+219. Döbröce Hegy u. 8. 60
+220. Döge Petőfi u. 2. 857
+221. Dombrád Kossuth u. 119. 64/2
+222. Dunaalmás Almási u. 127. 4016/2
+223. Dunaföldvár Templom u. 5. 1079/1 8%-a
+224. Dunaszeg Iskola u. 1. 9
+225. Dunaszeg Iskola u. 2. 2
+226. Dunaszentbenedek Kossuth u. 71—73. 662
+227. Ebergőc Kossuth u. 32. 123
+228. Ecser Bajcsy-Zs. u. 18. 657
+229. Ecser Szabadság tér 5. 656
+230. Eger Dobó tér 6. 4973/1
+231. Eger Eszterházy tér 1. 4949
+232. Eger Kossuth út 16. 6563
+233. Eger Markhot F. u. 1. 4846
+234. Eger Pozsonyi u. 1. 0803
+235. Egerszalók Kossuth u. 67. 4
+236. Egyházasfalu Ady E. u. 14. 523/1—2
+237. Egyházasfalu Széchenyi u. 21. 216/1
+238. Egyházasfalu Széchenyi u. 21. 216/2
+239. Emőd Kossuth u. 50. 504
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+240. Enying Szabadság tér 7. 2294/4
+241. Ercsi Fő u. 22. 24
+242. Erdőbénye Kossuth u. 10. 134
+243. Erdőhorváti Egres u. 7. 159
+244. Erdőhorváti Petőfi u. 1. 615/1
+245. Érd-Újváros Alsó u. 21. 22573
+246. Esztergom Bottyán J. 8. 17322
+247. Esztergom Pázmány P. u. 16. 16306/3
+248. Esztergom Pázmány P. u. 18. 16307
+249. Fedémes Petőfi út 47—49—51. 4/1, 4/2
+250. Fehérvárcsurgó Petőfi u. 26. 465
+251. Feldebrő Kossuth út 9. 683
+252. Felsőörs Dózsa tér 3. 144/1
+253. Felsőörs Úttörő u. 2. 291
+254. Felsőtárkány Fő u. 400. 1530—29—42
+255. Felsőzsolca Deák F. u. 1. 49
+256. Felsőzsolca Rákóczi u. 32. 632
+257. Fényeslitke Petőfi u. 1. 20/3
+258. Fényeslitke Petőfi u. 1. 20/4
+259. Fényeslitke Petőfi u. 7. 25
+260. Fertőendréd Fő u. 16. 12/1
+261. Fertőrákos Fő u. 119. 840
+262. Fertőrákos Fő u. 234. 1138
+263. Földeák Petőfi u. 2. 855
+264. Fót Vörösmarty u. 1—3. 1300
+265. Fót Vörösmarty u. 6. 1027/1
+266. Fót Vörösmarty u. 8—10. 1027/2
+267. Füzesabony Szent János tér 2. 1933/1
+268. Füzesabony Szent János tér 3. 1933/2
+269. Gádoros Fő u. 30. 948
+270. Garabonc Fő u. 60. 120/3
+271. Gecse Kossuth u. 38. 237
+272. Geresdlak Dózsa Gy. u. 28—30. 551
+273. Geresdlak Hunyadi u. 19. 214
+274. Gige Kossuth u. 11. 101
+275. Gödöllő Iskola köz 1. 4083
+276. Gödöllő Szabadság tér 19. 417/23, 444/31
+277. Gyepükaján Petőfi S. u. 1. 136
+278. Gyöngyös Koháry u. 2. 1905
+279. Gyöngyös Nemecz József tér 1940
+280. Gyöngyös Ország u. 1—3. 2232
+281. Gyöngyös P. Kiss Szaléz u. 22. 1950
+282. Gyöngyös Than Károly u. 1949/1
+283. Gyöngyös Török Ignác u. 1. 1957
+284. Gyöngyös Vak Bottyán u. 1930
+285. Gyöngyös Zrínyi u. 3. 2140
+286. Gyöngyöspata Fő u. 49. 1242
+287. Győr Bástya u. 69. 6763
+288. Győr Fekete I. u. 85. 26605
+289. Győr Heltai u. 8. 13606
+290. Győr Isaszeg u. 2. 1832
+291. Győr Kálvária u. 18—20. 3283
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+292. Győr Káptalandomb 24. 7454
+293. Győr Pásztor u. 21. 3284/1
+294. Győr Pásztor u. 21. 3284/2
+295. Győr Pattantyús u. 1/B 1790
+296. Győr Újkapu u. 2—4. 6762
+297. Győr Váci M. u. 1. 42388
+298. Győr Váci M. u. 3. 42386
+299. Győr Zechmeister u. 1. 7291
+300. Győrszemere Bakonyér u. 72. 352
+301. Győrújbarát István u. 18. 443
+302. Gyula Apor tér 1. 6127
+303. Gyula Petőfi tér 1. 4474
+304. Gyúró Thököly u. 23. 13
+305. Hahót Deák F. u. 79/A/B 463
+306. Hajdúböszörmény Káplár u. 1. 1922/1
+307. Hajdúböszörmény Káplár u. 5. 1925
+308. Hajdúböszörmény Szilassy J. u. 1. 3055, 3056
+309. Hajdúdorog Széchenyi u. 10. 1010
+310. Hajdúsámson Béke u. 1. 591/2
+311. Hajdúsámson Béke u. 1. 591/3
+312. Hajdúszoboszló Bocskai u. 8. 6093
+313. Halimba Béke u. 1. 258
+314. Halmaj Szent István tér 13. 57
+315. Hejőkeresztúr Petőfi u. 25. 103
+316. Hejőkeresztúr Petőfi u. 29. 106
+317. Hejőkürt Kassai út 16. 130
+318. Héreg Fő u. 64— 66. 329/1 330/1
+319. Hidasnémeti Kassai u. 34. 47
+320. Hosszúhetény Iskola u. 90. 164/8
+321. Hosszúhetény-Kisújbánya Fő u. 2. 1634
+322. Hosszúhetény-Püspökszentlászló (Belterület) 1501
+323. Hövej Fő u. 25. 187
+324. Ibrány Lehel u. 52. 1628
+325. Ibrány Székelyi u. 23. 827
+326. Iharos Kossuth u. 7. 331
+327. Iharosberény Eötvös u. 1. 549/1
+328. Iváncsa Fő u. 26. 616/2
+329. Izsák Kecskeméti u. 3. 36
+330. Izsák Kossuth u. 85. 1678
+331. Izsák Kossuth tér 4. 11
+332. Izsák Szent István tér 1. 39/1
+333. Jánkmajtis Arany J. u. 94. 622
+334. Jászberény Ferencesek tere 7. 6457
+335. Jászberény Kossuth u. 2. 3933
+336. Jászberény Szelei út 39. 0630/5
+337. Jászkisér Jubileum tér 3. 979/1
+338. Káld Berzsenyi u. 15. 473/1
+339. Kálló Kossuth u. 3. 577
+340. Kalocsa Szent István u. 2—4. 362
+341. Kám Petőfi u. 11. 389
+342. Kám Petőfi u. 14. 179
+343. Kántorjánosi Kossuth u. 20. 473
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+344. Kánya Fő u. 189. 469
+345. Kápolnásnyék Fő u. 51. 897
+346. Kaposvár Toponári út 47. 13820/1
+347. Kaposvár Zárda u. 2—4. 316
+348. Káptalanfa Kossuth u. 10. 572
+349. Kapuvár Kossuth L. u. 26. 3530
+350. Karakószörcsök Dózsa Gy. u. 8. 208
+351. Karancsalja Rákóczi u. 116. 70
+352. Karcag Vasút u. 45. 5875
+353. Kartal Felszabadulás u. 47. 1391
+354. Kecskemét Arany J. u. 6. 4019
+355. Kazincbarcika Esze T. u. 18. 3099
+356. Kecskemét Kéttemplom u. 2. 478/1 része
+357. Kecskemét Teleki tér 48. 7113
+358. Kecskemét Teleki tér 48. 7108/3, 4
+359. Kecskemét Teleki tér 48. 7109
+360. Kecskemét Teleki tér 48. 7110
+361. Kék Jókai u. 41. 372
+362. Kenézlő Nagyváradi u. 30. 77
+363. Kenézlő Nagyváradi u. 28. 76
+364. Kenyeri Ady E. u. 51—53. 180/1—2
+365. Kenyeri Táncsics u. 12. 659
+366. Keszthely Deák F. u. 3. 1168
+367. Kétegyháza Úttörő u. 26. 13
+368. Kisbér Kossuth u. 26. 209, 210
+369. Kiscsősz Kossuth u. 9. 222
+370. Kiskőrös Batthyányi u. 2. 3013
+371. Kiskőrös Rákóczi u. 2. 73
+372. Kiskunfélegyháza Dr. Holló L. u. 16. 5406
+373. Kiskunfélegyháza Oskola u. 1—3. 3194/2
+374. Kiskunhalas Szabadkai u. 1. 4521
+375. Kisléta Pócsi u. 4. 106/3
+376. Kislőd Hősök tere 8. 460
+377. Kislőd Hősök tere 9. 461
+378. Kisnána Petőfi u. 15. 290
+379. Kocs Dadi u. 3. 6
+380. Komárom Bajcsy-Zs. u. 13—17. 1559
+381. Komárom Bajcsy-Zs. u. 7. 1556
+382. Komárom Bajcsy-Zs. u. 9. 1557
+383. Komlóska Ságvári E. u. 16. 4/1
+384. Komoró Bajcsy-Zs. u. 3. 219
+385. Kóny Szabadság tér 5. 85
+386. Környe Alkotmány u. 9. 2/3
+387. Kosd Székely u. 53. 297/2
+388. Kosd Szent István u. 4. 297/1
+389. Kőszeg Gyöngyös u. 2. 1954
+390. Kőszeg Hunyadi u. 12. 3665/1
+391. Kőszeg Kórház u. 1. 2057
+392. Kőszeg Kórház u. 1. 2116/5
+393. Kőszeg Meskó u. 1. 1432
+394. Kőszeg Szent Imre herceg u. 9. 3668
+395. Kőszeg Várkör u. 34. 1949
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+396. Kőszegszerdahely Alkotmány u. 4. 246
+397. Kótaj Szent Imre u. 5. 6/4
+398. Kőtelek Kossuth u. 2. 765/1—2—3
+399. Kővágóörs Jókai M. u. 21. 525
+400. Köveskál Fő u. 23. 442
+401. Kunszentmárton Kölcsey u. 6. 2048
+402. Kunszentmárton Munkácsy M. u. 1. 2204
+403. Kustánszeg Kossuth u. 50. 258/1
+404. Lad Petőfi S. u. 47. 6
+405. Lázi Kossuth u. 13. 284
+406. Lázi Kossuth u. 15. 285
+407. Lázi Kossuth u. 17. 287
+408. Léh Kossuth u. 9. 84
+409. Lepsény Jókai u. 9—11. 815
+410. Lesenceistvánd Kossuth u. 79. 423
+411. Letkés Fő u. 68. 2, 350/5, 7 356/2
+412. Lovasberény Kossuth u. 19. 278/4
+413. Lovászpatona Kossuth u. 8. 251
+414. Lövő Fő u. 183. 464
+415. Ludányhalászi Előd u. 16. 703/1
+416. Ludányhalászi Rákóczi u. 61. 869
+417. Ludányhalászi Rákóczi u. 73. 841
+418. Mágocs Szabadság u. 7—8. 937
+419. Magyargencs Petőfi u. 43. 647
+420. Makó Csanád vezér tér 12. 709/1
+421. Mályi Petőfi út 22. 448
+422. Mány Szent István u. 4. 7
+423. Mány Szent István u. 4/B 2
+424. Mány Szent István u. 6. 8
+425. Marcali Dózsa György u. 3. 598
+426. Marcaltő Fő u. 67. 154
+427. Máriapócs Kossuth tér 19. 4
+428. Márkó Bíró Márton tér 2. 280/2
+429. Maroslele Árpád u. 19. 42
+430. Martonvásár Dózsa Gy. u. 13. 1070
+431. Mátraverebély Szentkút 1625/F, 1625/G,
+1625/H, 1625/J
+432. Mátraverebély Szentkút 1625/B, 1625/C,
+1625/D
+433. Méra Vasút u. 27. 332
+434. Mernye Kossuth tér 10. 280
+435. Mernye Kossuth tér 5—7. 306
+436. Meszes Petőfi út 3. 94/1, 94/2
+437. Mezőkövesd Mátyás király u. 236. 3345/2
+438. Mezőladány Jókai u. 2/A 364/1
+439. Mezőnyárád Lenin u. 37. 85
+440. Mezőörs Fő u. 74. 270
+441. Mezőtárkány Rákóczi u. 6. 52
+442. Miske Úttörő u. 2. 190
+443. Miskolc Hősök tere 7. 2595/3
+444. Miskolc Puskás T. u. 4. 32345
+445. Miskolc Kabar u. 6—8. 23467/8
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+446. Miskolc Katona J. u. 34. 45068/7
+447. Miskolc Szolártsik tér 9. 42596/2
+448. Miskolc Városház tér 6. 5/1
+449. Mocsa Öreg u. 4. 213
+450. Mohács Gólya u. 15. 385
+451. Monostorpályi Landler tér 4. 1062
+452. Mór Ady E. u. 7. 14/1—2
+453. Mór Hősök tere 14. 448
+454. Mór Kapucinus tér 1. 696
+455. Mórichida Fő u. 33. 103
+456. Mosonmagyaróvár Csaba u. 1. 1591, 1592
+457. Mosonmagyaróvár Lotz K. u. 2. 185
+458. Mosonmagyaróvár Szent István u. 74. 2362
+459. Mosonszolnok Fő u. 48. 191
+460. Nadap Haladás u. 53. 2
+461. Nádasdladány Kossuth u. 6. 110
+462. Nagybajom Templom u. 5. 638/2
+463. Nagyberki Kossuth u. 59. 87/2
+464. Nagyfüged Dózsa Gy. u. 14. 6/1
+465. Nagyigmánd Mansbart u. 4. 733, 734
+466. Nagyigmánd Mansbart u. 5. 694, 695
+467. Nagyiván Fő u. 65. 126/2
+468. Nagykálló Ady E. u. 8. 2193
+469. Nagykálló Ady E. u. 9. 2707
+470. Nagykálló Bátori u. 92. 738/1, 738/3
+471. Nagykanizsa Ady E. u. 14. 2047
+472. Nagykőrös Rákóczi u. 8. 1844
+473. Nagymaros Dózsa Gy. u. 2. 2
+474. Nagynyárád Kossuth u. 2. 491
+475. Nagyoroszi Szabadság tér 12. 328
+476. Nagyoroszi Szabadság tér 4. 334
+477. Nagyrozvágy Vöröshadsereg u. 9. 70
+478. Nemesgulács József A. u. 48. 102
+479. Nemeshany Petőfi u. 83. 261
+480. Nemeskér Fő u. 48. 109, 108/2
+481. Németkér Szabadság u. 27. 409
+482. Neszmély Fő u. 118/A 391
+483. Nézsa Szondi u. 13. 446/2
+484. Nézsa Szondi u. 50. 290
+485. Noszvaj Deák F. u. 16. 600
+486. Nyergesújfalu Kossuth u. 63. 85
+487. Nyíracsád Kossuth u. 5—7. 945/5
+488. Nyíradony Árpád tér 11. 503
+489. Nyíradony Deák F. u. 2. 3
+490. Nyírbátor Károlyi u. 17. 1940/8
+491. Nyírbátor Zrínyi u. 13. 1924
+492. Nyírbogát Deák F. u. 1. 1199/4
+493. Nyírcsaholy Hunyadi u. 1. 569
+494. Nyírcsaholy Hunyadi u. 15. 577
+495. Nyíregyháza Bethlen G. u. 3. 205
+496. Nyíregyháza Körte u. 7. 258
+497. Nyíregyháza Kossuth tér 10. 175
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+498. Nyíregyháza Széchenyi u. 30. 6248
+499. Nyíregyháza Széchenyi u. 36. 6253
+500. Nyíregyháza Vasvári P. u. 16. 476
+501. Nyírkarász Fő u. 67. 948/3
+502. Nyírkarász Fő u. 75. 949
+503. Nyírkarász Fő u. 76. 147
+504. Nyírmártonfalva Kossuth u. 33. 55
+505. Nyírparasznya Rákóczi u. 73. 40
+506. Nyírtass Árpád u. 17. 33
+507. Nyírtelek Szent István u. 194. 174/1
+508. Nyírvasvári Bátori u. 3. 2/1
+509. Nyőgér Petőfi u. 66. 185
+510. Nyomár Fő u. 76. 50/1—2
+511. Nyúl Petőfi u. 16. 641
+512. Óbudavár Fő u. 2. 26
+513. Ócsa Bajcsy-Zs. u. 49. 2514
+514. Ófehértó Alkotmány u. 22. 3 (1/2 rész)
+515. Okorvölgy 66
+516. Old Tótok földje dűlő 207
+517. Ónod Iskola u. 2. 42/4, 42/3
+518. Ópályi Bajcsy-Zs. u. 3. 246
+519. Ópályi Rajk L. u. 14. 557
+520. Orbányosfa Kiskapornaki u. 19. 79
+521. Őrbottyán Fő u. 65. 14, 15
+522. Orfű Szabadság u. 16. 1634
+523. Orosháza Dózsa Gy. út 1. 3627
+524. Ősi Sallai u. 14. 66
+525. Öskü Mecset u. 3/1. 113/1
+526. Osli Rákóczi u. 7. 426
+527. Ostffyasszonyfa Ady E. u. 1—3. 505
+528. Osztopán Szabadság u. 3. 476
+529. Ózd Hossó u. 7. 18397
+530. Ózd Pázmány u. 6. 6579
+531. Ózd Uraji u. 14. 14256
+532. Paloznak Fő u. 2. 4/2
+533. Pannonhalma Mátyás király u. 2. 1124/7
+534. Pannonhalma Petőfi S. u. 9. 469/4
+535. Pannonhalma Váralja 4. 133
+536. Pápa Fő u. 32. 7076
+537. Pápa Dózsa Gy. u. 36. 389
+538. Pápa Fő u. 10. 30
+539. Pápa Fő u. 12. 32/1,2
+540. Pápa Jókai M. u. 5—7. 2889
+541. Pápa Szelestyei (Barát) u. 1. 4005/1
+542. Pápa Szelestyei (Barát) u. 1. 4005/1
+543. Pápa Veszprémi u. 5—7. 2104/2 és
+2104/1/A/1—4
+544. Paszab Fő u. 60. 344
+545. Pásztó Alkotmány u. 181. 3308/1
+546. Pásztori Alsó u. 39. 170/3
+547. Pátka Vak Bottyán tér 20. 677
+548. Patvarc Gyarmati u. 49. 44
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+549. Páty Rákóczi u. 42. 906/1
+550. Pécel Kossuth tér 7. 9
+551. Pécel Köztársaság tér 8. 1329
+552. Pécel Köztársaság tér 8. 1330
+553. Pécel Szent Imre krt. 1. 1331
+554. Pécs Anna u. 17. 17628
+555. Pécs Apáca u. 23. 18445
+556. Pécs Ifjúság u. 6. 4899/1, 4900/1,
+4902/1, 4902/4,
+4903, 4904, 4905/1,
+4905/2, 4906,
+4907/1, 4909/3
+557. Pécs Janus Pannonius u. 6. 18363
+558. Pécs Janus Pannonius u. 8. 18361
+559. Pécs Kórház tér 3. 18684/2
+560. Pécs Megye u. 22. 17636
+561. Pécs Szent István tér 8—10. 18437, 18438,
+
+562. Pécs Szent István tér 10. 18445, 18443
+563. Pécs Vasvári Pál u. 4. 19133
+564. Pécsvárad Iskola u. 2. 794
+565. Penészlek Tanács u. 2—4. 728
+566. Peresznye Dózsa Gy. u. 16. 200/2
+567. Petneháza Béke u. 21. 152
+568. Petrikeresztúr Kossuth u. 2. 367/1
+569. Pilismarót Rákóczi u. 8. 994
+570. Pilisszántó Szabadság u. 1. 233
+571. Polgárdi Kossuth u. 114. 39
+572. Polgárdi Kossuth u. 125. 1399
+573. Polgárdi Kossuth u. 128. 45
+574. Porpác Kossuth u. 1. 67/1
+575. Püspökhatvan Szabadság u. 2. 2
+576. Püspökhatvan Szabadság u. 2. 4
+577. Püspökladány Rákóczi u. 4. 3701
+578. Püspökmolnári Béke u. 1. 202
+579. Pusztamagyaród Rákóczi u. 2. 146
+580. Pusztamiske Dózsa Gy. u. 13. 84
+581. Rábacsécsény Szent Imre u. 7. 278
+582. Rábagyarmat Kocsis L. u. 1. 79/3
+583. Rábakecöl Kossuth u. 40. 50
+584. Rábaszentmiklós Fő u. 6. 29/4
+585. Répcevis Fő u. 73. 87
+586. Rimóc Hunyadi u. 9. 653
+587. Röjtökmuzsaj Röjtöki u. 19. 35/10
+588. Röjtökmuzsaj Röjtöki u. 40. 81
+589. Sajópálfala Petőfi u. 1. 170
+590. Sajópetri Dózsa Gy. u. 98. 86
+591. Sajószöged Széchenyi u. 4. 55
+592. Sajóvámos Béke u. 14. 425/2
+593. Sály Iskola u. 20. 632
+594. Sály Kossuth u. 61. 223/1
+595. Sály Kossuth u. 61. 223/2
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+596. Sárbogárd-Sárszentmiklós Köztársaság u. 171—173. 4836
+597. Sárbogárd József A. u. 20. 552
+598. Sármellék Dózsa Gy. u. 393. 864
+599. Sárospatak Szent Erzsébet u. 13. 354
+600. Sárospatak Szent Erzsébet u. 8. 185
+601. Sárvár Sársziget u. 69. 2992
+602. Sátoraljaújhely Deák F. u. 14. 448/5
+603. Sátoraljaújhely Jókai u. 25. 327/1—2
+604. Sátoraljaújhely József A. u. 1. 2807
+605. Sátoraljaújhely Széchenyi tér 10. 2379
+606. Sellye Köztársaság tér 6. 1060
+607. Seregélyes Fő u. 201. 452
+608. Siófok Asztalos u. 3. 10450/1
+609. Siófok Széchenyi u. 13. 6491
+610. Soltvadkert Szentháromság u. 26. 595
+611. Soltvadkert Szentháromság u. 44/1. 405
+612. Somogycsicsó Rákóczi u. 1. 2
+613. Somogyegres Kossuth u. 18. 24
+614. Somogysárd Szabadság tér 8. 316/8
+615. Somogyszil Szabadság u. 12. 402
+616. Somogyszob Szent Imre u. 15. 435
+617. Sopron Fegyvertár u. 1. 135/2
+618. Sopron Ferenczy J. u. 2. 3850
+619. Sopron Ferenczy J. u. 5. 3841, 3848, 3875/1
+620. Sopron Tulipán köz 2. 7087/1
+621. Sopron Halász u. 38. 1987/2, 1987/3
+622. Sopron Kossuth u. 4. 3852
+623. Sopron Petőfi tér 3. 244
+624. Sopron Szent György u. 9. 75
+625. Sopron Szent György u. 7. 72, 73
+626. Sopronkövesd Kossuth u. 84. 278
+627. Sótony Fő u. 18. 16/1—2
+628. Sukoró Fő u. 29. 50/2
+629. Sülysáp Kápolna u. 4. 4282
+630. Sümeg Udvarbíró tér 3. 1438
+631. Súr Árpád u. 5. 264
+632. Súr Árpád u. 8. 255
+633. Süttő Prímási üdülő 0167/1, 0167/4
+634. Szabadbattyán Csíkvár tér 11. 1319
+635. Szabadhídvég Iskola u. 1. 407
+636. Szabolcs Szabadság u. 10. 199
+637. Szabolcsveresmart Kossuth u. 33. 79/3
+638. Szada Dózsa Gy. u. 90. 552/3—4
+639. Szakoly Mátyás király u. 11. 222
+640. Szakony Fő u. 37. 76/1
+641. Szalonna Petőfi u. 49. 79/A
+642. Szápár Kossuth u. 32. 48
+643. Szarvas Kossuth u. 56—58. 2098
+644. Százhalombatta Szent László u. 60. 233/2
+645. Szécsény Haynald u. 7. 109
+646. Szeged Bérkert u. 8. 389
+647. Szeged Eszperantó u. 5. 12337
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+648. Szeged Festő u. 6. 2435
+649. Szeged Hóbiárt basa u. 30. 11061
+650. Szeged Kálvária sgt. 8. 3351
+651. Szeged Roosewelt tér 6. 3852
+652. Szeged Toldi u. 4. 3775
+653. Szeged Zoltán u. 14. 25212
+654. Szeghalom Nagy Miklós u. 1. 1010
+655. Székesfehérvár Batthyányi u. 2—4. 7333
+656. Székesfehérvár Budai u.—Szent István tér 4. 426, 427
+657. Székesfehérvár Fő u. 6. 266
+658. Székesfehérvár Szent István tér 2. 424
+659. Székesfehérvár Városház tér 4. 280
+660. Szekszárd Rákóczi u. 69. 2379
+661. Szendrőlád Dózsa Gy. u. 1. 64
+662. Szentdénes Petőfi u. 12. 7
+663. Szentendre Alkotmány u. 12. 2297
+664. Szentes Villogó u. 5. 5017
+665. Szentgotthárd Béke tér 25. 26
+666. Szentpéterfa Március 15. tér 5. 455
+667. Szigetmonostor Fő u. 38. 28/2
+668. Szigetvár Zárda u. 2. 193/1 része
+669. Szihalom Hunyadi u. 60. 4
+670. Szikszó Bethánia köz 1400, 1401
+671. Szikszó Bethánia köz 1402/4, 1402/6
+672. Szil Városi u. 12—14. 737
+673. Szob Széchenyi sétány 3. 579
+674. Szögliget Szabadság tér 18. 92
+675. Szőkedencs Fő u. 41. 251/1
+676. Szolnok Templom u. 10. 1049/2
+677. Szolnok Templom u. 8. 1046
+678. Szőlősgyörök Petőfi u. 51. 483
+679. Szombathely Hollán E. u. 10—12. 5998/2
+680. Szombathely Hollán E. u. 2. 6004
+681. Szombathely Homok u. 1. 4653
+682. Szombathely Márton Áron u. 45. 4244
+683. Szombathely Nagy Lajos király u. 47. 11260
+684. Szombathely Paragvári u. 2. 6105
+685. Szombathely Szily J . u. 20. 6142/1
+686. Szombathely Szily J. u. 5. 6008
+687. Szombathely Szent Márton u. 40. 6651/1
+688. Szomód Alma u. 4. 308
+689. Szomód Fő u. 21. 555
+690. Szomolya Béke tér 7. 1060
+691. Szuhogy Kossuth út 70. 122
+692. Szurdokpüspöki Gyöngyösi u. 6. 425/1
+693. Szurdokpüspöki Szabadság tér 17. 724
+694. Tab Ságvári u. 3. 204
+695. Tab Ságvári u. 5. 205
+696. Tabajd Petőfi u. 8. 249
+697. Tahitótfalu Béke u. 14. 2252
+698. Takácsi Kossuth u. 84. 435
+699. Taktaszada Kossuth u. 55—57. 437/1 /3
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+700. Táp Győri út 121. 316
+701. Tapolca Martinovics u. 6. 678
+702. Tapolca Templomdomb 6. 52/1
+703. Tapolca Templomdomb 15. 52/2
+704. Tápszentmiklós Fő u. 142. 530
+705. Tarcal Fő u. 98. 620
+706. Tarcal Könyves K. u. 53. 627
+707. Tardos Rákóczi u. 149—151. 45, 47, 50, 51
+708. Tata Bartók B. u. 1/A 3098/2
+709. Tata Bartók B. u. 1. 2557/13
+710. Tata Fazekas u. 47. 7/1
+711. Tata Görög hősök u. 22. 2830
+712. Tata Tanoda tér 5. 1840, 1842
+713. Tatabánya Pruzsina u. 5. 2580/A/2—3
+714. Téglás Kossuth u. 64. 382
+715. Tényő Fő u. 4. 618
+716. Tényő Győri út 51—53. 664, 665
+717. Teskánd Petőfi u. 65. 47
+718. Tét Fő u. 117. 195/1
+719. Tét Pápai út 7. 1859
+720. Tiszabő Május 1. u. 3. 186/1
+721. Tiszadob Bocskai u. 16. 284
+722. Tiszafüred Fő út 26. 1242
+723. Tiszafüred Füredi u. 10. 1641
+724. Tiszafüred Örvényi u. 20. 2630
+725. Tiszakeszi Községház u. 46. 613
+726. Tiszakeszi Posta út 8. 619/1
+727. Tiszaroff Szabadság u. 26. 22/2
+728. Tiszaszalka Váci M. u. 10—12. 151—154
+729. Tóalmás Fő u. 26. 556/7
+730. Tóalmás Fő u. 60. 582/1
+731. Tolcsva Táncsics u. 67. 262
+732. Töltéstava Iskola u. 40. 338
+733. Tornyospálca Mándoki u. 2. 1248/1
+734. Tornyospálca Rákóczi u. 17. 1259
+735. Törökszentmiklós Batthyány u. 76. 3287
+736. Törökszentmiklós Damjanich u. 23. 5472
+737. Törökszentmiklós Kapisztrán u. 3. 28
+738. Törökszentmiklós Kossuth u. 167. 24
+739. Törökszentmiklós Kossuth u. 253. 194
+740. Törökszentmiklós Pozderka u. 1. 4050
+741. Torvaj Fő u. 7. 254
+742. Töttös Hunyadi u. 5. 236
+743. Tura Tabán u. 45. 2423
+744. Túrkeve Széchenyi u. 19. 61
+745. Tüskevár Kossuth u. 36. 178
+746. Ukk Kossuth u. 46. 252
+747. Und Fülesi u. 9—11. 279/3, 4
+748. Újfehértó Szent István u. 24. 1890/2
+749. Újfehértó Vasvári P. u. 17. 1879
+750. Újkér Felszopori u. 1. 620, 621/1
+751. Újkígyós Kossuth u. 35. 1326
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+752. Újkígyós Petőfi u. 26—28. 693
+753. Üllő Ócsai u. 4. 1655
+754. Üllő Templom tér 2. 3
+755. Üllő Vasadi u. 1. 2156
+756. Vác Constantin tér 6. 3162/1 hrsz.-nak
+a 6582/11882-ed
+része
+757. Vác Géza király tér 10. 3515/3, 3515/4
+758. Vác Március 15. tér 4. 3083/1
+759. Vácduka Rákóczi u. 2. 119
+760. Vajszló Batthyány u. 12. 37/1—2
+761. Valkó Rákóczi u. 10. 783
+762. Valkó Rákóczi u. 12. 785
+763. Vasvár Bartók B. u. 2. 1947/1
+764. Vasvár Kossuth u. 1. 1950
+765. Vaszar Fő u. 11. 1038/1
+766. Velem Rákóczi út 6. 895
+767. Veresegyház Fő u. 89—91. 41
+768. Verpelét Kossuth u. 65. 741
+769. Verpelét Kossuth u. 67. 742
+770. Versend Kossuth u. 1. 1/1
+771. Vértesboglár Kossuth u. 89. 119
+772. Vértessomló Ady E. u. 30. 300
+773. Vértessomló Rákóczi u. 54. 291
+774. Vértestolna Petőfi u. 51. 26
+775. Vése Fő u. 29. 273
+776. Veszprém Deák F. u. 15. 304
+777. Veszprém Vár u. 10. 309
+778. Veszprém Vár u. 10. 290
+779. Veszprém Vár u. 21. 234
+780. Veszprém Vár u. 31. 228
+781. Veszprém Vár u. 8. 289
+782. Veszprémgalsa Rákóczi F. u. 60. 65
+783. Veszprémvarsány Kossuth u. 53. 293/2
+784. Vilonya Hétvezér u. 1. 423/1
+785. Vindornyaszőlős Kossuth u. 71—73. 316
+786. Visznek Szabadság u. 80. 42
+787. Zala Zichy M . u. 31. 69
+788. Zalaapáti Deák F. u. 3. 582/1, 582/2
+789. Zalaapáti Deák F. u. 4—6. 143
+790. Zalabér Tanács krt. 2. 251
+791. Zalaegerszeg Csácsi u. 100. 5321
+792. Zalagyömörő Fő u. 8. 138
+793. Zalaszentgrót Balatoni u. 9. 1355
+794. Zalaszentiván Hunyadi u. 2. 191/8
+795. Zalaszentlászló Rákóczi u. 6. 245
+796. Zalaszentlőrinc Arany J. u. 5. 8
+797. Zamárdi Fő u. 115. 2319/2
+798. Zemplénagárd Dózsa Gy. út 2. 654/2
+799. Zirc Rákóczi tér 1. 213/1, 2, 214/1
+800. Zsira Fő u. 35. 70
+801. Zsira Rákóczi F. u. 12. 563/1—2
+Sor-
+szám
+Település Utca Hsz. Hrsz.
+
+2. számú melléklet az 1046/1999. (V. 5.) Korm. határozathoz
+Magyar Katolikus Egyház
+1. Sopron, főiskola
+Ferenczy u. 5.
+hrsz.: 3841, 3848, 3875/1
+2. Székesfehérvár, ált. iskola
+Budai u. 4.
+hrsz.: 426, 427
+3. Budapest I., templom
+Szentháromság tér 2.
+hrsz.: 6532
+4. Budapest II., templom
+Ürömi u. 59.
+hrsz.: 14869
+5. Budapest III., kápolna
+Pomázi u.
+hrsz.: 19963
+6. Budapest III., kápolna
+Szentendrei út 110.
+hrsz.: 19223/2
+7. Budapest III., plébánia
+Szentendrei út 69—71.
+hrsz.: 19265
+8. Budapest VIII., templom
+Rezső tér
+hrsz.: 38689/1, 5533
+9. Budapest IX., templom,
+Haller u. 19—21. plébánia
+hrsz.: 38262/10
+10. Budapest X., kápolna,
+Kada u. 25. plébánia
+hrsz.: 41611
+11. Budapest XI., kápolna,
+Galváni u. 15. közösségi h.
+hrsz.: 3993/22
+12. Budapest XII., templom
+Csaba u. 5.
+hrsz.: 6835/18
+13. Budapest XII., templom,
+Diana u. 4. közösségi h.,
+hrsz.: 9612/1 kert
+14. Budapest XIII., templom
+Lehel tér 1.
+hrsz.: 28222/1
+15. Budapest XIII., templom,
+Rokolya u. 28. közösségi h.
+hrsz.: 26552/9
+16. Budapest XIX., templom,
+Koós K. tér 16. közösségi h.,
+hrsz.: 160506 urnatemető
+Sor-
+szám
+Tulajdonba átadott ingatlan Kártalanítással rendezett ingatlan Ingatlan tervezett funkciója
+
+17. Budapest XX., templom,
+Kossuthfalva tér kert
+hrsz.: 175309, 175310
+18. Budapest XIII., plébánia,
+Váci út 34. szolg. lakás
+hrsz.: 25330/A/17, 22, 23
+19. Csehbánya, kápolna
+külterület
+hrsz.: 071, 072
+20. Pápa, szolg. lakás,
+Szelestyei (Barát) u. 1. udvar
+hrsz.: 4005/1
+21. Budapest II., templom
+Fő u. 88.
+hrsz.: 13565
+22. Budapest XI., kápolna
+Ménesi út 57/A
+hrsz.: 5119/11/A/2
+23. Dunaföldvár, templomhoz
+Templom u. 5. tartozó rész
+hrsz.: 1079/1
+24. Gyöngyös, kolostor,
+Barátok tere 1. kert
+hrsz.: 1940
+25. Gyöngyös, kápolna
+Than K. u. 7.
+hrsz.: 1949/1
+26. Gyöngyös, kolostor,
+Vak Bottyán u. 4. könyvtár,
+hrsz.: 1930 koll., kert
+27. Szigetvár, káplánlakás
+Zárda u. 2.
+hrsz.: 193/1
+28. Budapest V., refektórium
+Károlyi M. u. 4.
+hrsz.: 24188/0/A/27
+29. Kapuvár, templom,
+Kossuth L. u. 26/B pléb.kert
+hrsz.: 3530
+30. Kecskemét, templom
+Katona J. tér 1—2.
+hrsz.: 478/1
+31. Mátraverebély, templom,
+Szentkút klastrom,
+hrsz.: 1625/F, G, H, J zarándok h.
+32. Pécs II., kolostor
+Kórház tér 3.
+hrsz.: 18684/2
+33. Budapest I., oktatás,
+Bem rakpart 8. (Fő u. 15.) irodák, koll.
+hrsz.: 14409
+Sor-
+szám
+Tulajdonba átadott ingatlan Kártalanítással rendezett ingatlan Ingatlan tervezett funkciója
