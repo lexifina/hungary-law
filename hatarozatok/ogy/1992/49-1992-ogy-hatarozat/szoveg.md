@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya között a kettős adóztatás elkerülésére és az adóztatás kijátszásának megakadályozására a jövedelemadók területén Rabatban, 1991. december 12. napján aláírt Egyezményt e határozattal megerősíti.
