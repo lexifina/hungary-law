@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Argentin Köztársaság Kormánya közötti, Buenos Aires-ben, 1997. december 1-jén aláírt növényvédelmi és növényegészségügyi együttműködési egyezményt e rendelettel kihirdeti.
