@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között az iskolai végzettségeket és tudományos fokozatokat tanúsító okiratok kölcsönös elismeréséről szóló, Pekingben, 1997. december 2-án aláírt Egyezményt e rendelettel kihirdeti.
