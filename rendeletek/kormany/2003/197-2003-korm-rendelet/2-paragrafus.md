@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Moldáv Köztársaság Kormánya között Budapesten, 2003. február 20-án aláírt, az állategészségügy területén való együttműködésről szóló egyezményt e rendelettel kihirdeti.
