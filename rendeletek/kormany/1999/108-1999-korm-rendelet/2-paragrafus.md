@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között nukleáris balesetek esetén való gyors értesítésről, a kölcsönös tájékoztatásról és együttműködésről a nukleáris biztonság és sugárvédelem területén Budapesten, 1997. november 12-én aláírt Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
