@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács, a Magyar Népköztársaság Kormánya és a Jemeni Népi Demokratikus Köztársaság Kormánya között Budapesten, az 1975. évi május hó 2. napján aláírt légügyi egyezményt e rendelettel kihirdeti.
