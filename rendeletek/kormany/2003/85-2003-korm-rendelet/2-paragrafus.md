@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között a nemzetközi kombinált áruszállításról szóló, Szófiában, 2001. május 18-án aláírt Egyezményt e rendelettel kihirdeti.
