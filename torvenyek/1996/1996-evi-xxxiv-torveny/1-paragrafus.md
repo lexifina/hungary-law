@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között, a minősített katonai információk védelme tárgyában Washingtonban, 1995. május 16-án aláírt Biztonsági Egyezményt (a továbbiakban: Egyezmény) e törvénnyel megerősíti.
