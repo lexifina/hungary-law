@@ -1,0 +1,39 @@
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+
+Az Alkotmánybíróság önkormányzati rendeleti előírás alkotmányellenességének vizsgálata és megsemmisítése iránt benyújtott indítvány alapján meghozta a következő
+
+határozatot:
+
+Az Alkotmánybíróság megállapítja, hogy a Pécs Megyei Jogú Város Közgyűlése által a közterületek használatáról alkotott 1997. évi 13. számú rendelet közterület-használati díjmértékeket meghatározó 2. számú mellékletének XVIII. sorszámú rendelkezése alkotmányellenes, ezért azt – 1998. szeptember 30-i hatállyal – megsemmisíti.
+
+Az Alkotmánybíróság ezt a határozatát a Magyar Közlönyben közzéteszi.
+
+INDOKOLÁS
+
+1. Pécs Megyei Jogú Város Közgyűlésének a rendelkező részben idézett 1997. évi 13. számú rendelete (a továbbiakban: Kgyr.) az önkormányzat tulajdonában álló és – a parkolókon, a piac- és vásártéren, valamint a parkerdőn kívüli – közterületként nyilvántartott belterületi földrészletek (építmények, egyéb föld- és zöldterületek) használati díjait a 2. számú mellékletben állapítja meg. E melléklet felsorolja a különféle jogcímű és összegű közterület-használati díjtételeket, majd a XVIII. sorszám alatt így rendelkezik:
+
+,,A nem pécsi székhelyű vállalkozók a díjtétel 50%-kal megemelt összeget tartoznak megfizetni.''
+
+2. Az indítványozó szerint ,,az ominózus rendelkezés... két vonatkozásban is megkülönböztetést tartalmaz,
+
+– egyrészt a vállalkozás székhelye tekintetében (pécsi vagy nem pécsi székhelyű vállalkozó),
+
+– másrészt a közterületet használó minősége tekintetében (vállalkozó vagy nem vállalkozó).''
+
+A rendelkezés – az indítványozó felfogása szerint – sérti az Alkotmánynak a diszkriminációt tiltó 70/A. § (1) bekezdését és a gazdasági verseny szabadságát garantáló 9. § (2) bekezdését. Sérti továbbá az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény (a továbbiakban: Áe.) 2. § (5) bekezdését is, mely szerint az államigazgatási eljárásban mind a magyar, mind a külföldi ügyfelek a törvény előtt teljes egyenlőséget élveznek, hiszen a közterület-használók a Kgyr.-ben ,,meghatározott speciális eljárási rend szerint szükségszerűen ügyféli pozícióba kerülnek, ahol is a Rendelet alapján a hatóság kénytelen megkülönböztetést alkalmazni velük szemben.''
+
+3. Az indítványnak az Alkotmány 70/A. § (1) bekezdésére támaszkodó érvelése megalapozott.
+
+3.1. A közterület-használók természetes és jogi személyek. A közterület használatára sor kerülhet üzleti (vállalkozói) érdekből (mobil árusítóhely, reklámberendezés kihelyezése céljából stb.), illetőleg kényszerű magáncélból (pl. háztatarozáshoz építkezési állvány felállítására).
+
+A különféle használati cél a díjtétel vonatkozásában másként érinti a pécsi székhelyű és a nem pécsi székhelyű vállalkozót, és ismét másként azt, aki nem tekinthető vállalkozónak sem. Ez a többszintű és többrétegű megkülönböztetés, illetőleg annak a XVIII. pontban foglalt vállalkozókat sújtó következménye sérti az Alkotmány hátrányos megkülönböztetést tiltó rendelkezését. A differenciálásnak alkotmányos indoka nincsen. Az Alkotmánybíróság már a 21/1990. (X. 4.) AB határozatában kifejtette: ,,Az a kérdés, hogy a megkülönböztetés az alkotmányos keretek között maradt-e, csakis a mindenkori szabályozás tárgyi és alanyi összefüggésében vizsgálható... Az egyenlőségnek az adott tényállás lényeges elemére nézve kell fennállnia. Ha azonban az adott szabályozási koncepción belül eltérő szabályozás vonatkozik valamely csoportra, ez a megkülönböztetés tilalmába ütközik, kivéve, ha az eltérésnek kellő súlyú alkotmányos indoka van.'' (ABH 1990. 77–78.) A Kgyr.-melléklet XVIII. sorszámú rendelkezése többféle csoportra (a jövedelemszerzői célzatúaktól kezdődően az építési hatósági előírás kényszeréből adódó közterület-igénybevevőkig) egyöntetűen vonatkozik pusztán azért, mert mindnyájan városi székhelyen kívüli vállalkozókként vannak nyilvántartva. Ez a sommás szabályozási egyenlőség az érintett csoportok közötti indokolatlan megkülönböztetést eredményez, ezért alkotmányellenes.
+
+3.2. Az alkotmányi és a törvényi rendelkezések széles körű szabályozási önállóságot adnak a helyi önkormányzatoknak. A helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) 6. § d) pontja pl. felhatalmazza az önkormányzatot arra, hogy a Htv.-ben konkrétan ,,meghatározott mentességeket további mentességekkel, illetőleg kedvezményeket további kedvezményekkel bővítse''. E felhatalmazással élve a városi közgyűlésnek is alkotmányos lehetősége van arra, hogy a helyi sajátosságokhoz, az önkormányzat gazdasági, városképi, városfejlesztési stb. követelményeihez igazodóan a helyi székhelyű vállalkozókat ún. pozitív diszkriminációban részesítse. Az sem tilos, hogy a városon kívüli vállalkozók általános 150%-os többletdíjjal sújtása helyett a Kgyr. a közterület-igénybevétel jellege szerint differenciálva, de azonos szabályozási koncepción belül maradva, meghatározott típusú közterület-használatokra kedvezményes díjfizetési feltételeket alakítson ki.
+
+3.3. A Kgyr. melléklet XVIII. sorszámú megkülönböztető rendelkezése kihat a helyi gazdasági verseny szabadságára is. Ennyiben az Alkotmány 70/A. §-a kontextusban van az Alkotmány 9. §-ával. A gazdasági verseny szabadsága azonban önmagában – miként azt az Alkotmánybíróság 21/1994. (IV. 16.) AB határozatában kifejezésre juttatta – ,,nem alapjog, hanem a piacgazdaság olyan feltétele, amelynek meglétét és működését biztosítani az Alkotmány 9. § (2) bekezdése értelmében az államnak is feladata…'' (ABH 1994. 120.) Nyilvánvaló, hogy az alapjogok intézményvédelmi oldalának biztosítása révén a versenyszabadság elismerése nemcsak az állam, hanem a közérdeket ugyancsak érvényesíteni hivatott helyi önkormányzat kötelessége is. Ez a kötelessége azonban az alapjogoknak az érvényesítése és védelme által kell hogy megvalósuljon. A szabad versenynek ugyanis – a piacgazdasághoz hasonlóan – külön alkotmányossági mércéje nincsen. Ezért a Kgyr.-rendelkezés az Alkotmány 70/A. §-ától elkülönítve nem sérti az Alkotmány 9. §-át.
+
+3.4. Az Áe. a felek teljes egyenlőségét garantáló általános eljárási szabályokat tartalmazza. Az eljárási szabályok fő célja – többek között – a jogok érvényesülésének és a kötelességek teljesítésének előmozdítása. A jogokat és kötelességeket viszont az ún. anyagi jogi szabályok határozzák meg. A Kgyr. támadott rendelkezése anyagi jogi előírás. Az Áe. alkalmazójának mindig az anyagi jogszabályok rendelkezései szerint kell döntenie az eljárási előírások egyidejű maradéktalan és részrehajlás nélküli megtartásával. A Kgyr. rendelkezése nem hozható közvetlen összefüggésbe az Áe.-vel, a közvetett kapcsolat folytán bekövetkezett alkotmányellenesség viszont nem az Áe., hanem csupán az Alkotmány 70/A. §-a sérelme miatt állapítható meg.
+
+4. Az Alkotmánybíróságról szóló 1989. évi XXXII. törvény 43. § (4) bekezdése alapján az Alkotmánybíróság az alkotmányellenes jogszabály megsemmisítését – a jogbiztonság érdekében – a határozat közzétételét követő időponttól kezdődően is elrendelheti. Adott esetben a jogbiztonság érdeke azt kívánja meg, hogy a Kgyr. hatályának ideje alatt lezárt jogviszonyokat – amelyek az emelt összegű díjtétel teljesítéséből vagy a közterület-használat elmaradásából adódhatnak – a Kgyr. visszamenőleges hatályú megsemmisítése ne bolygassa. A Kgyr. rendelkezésének a határozat közzététele napjától kezdődő hatályvesztését pedig azért indokolatlan kimondani, mert a városi önkormányzatnak joga van – bár nem kötelezhető – arra, hogy a megsemmisített előírás helyett más – pl. e határozat 3.2. pontjában jelzett – alkotmányos preferenciákat vezessen be. Az átmeneti esetleges joghézag megelőzése és felkészülési idő biztosítása céljából ezért az Alkotmánybíróság a Kgyr. 2. számú mellékletének XVIII. sorszámú rendelkezését 1998. III. negyedévének utolsó napjával semmisítette meg.
+
+Alkotmánybírósági ügyszám: 1420/B/1996.
