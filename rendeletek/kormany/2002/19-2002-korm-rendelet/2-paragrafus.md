@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Hongkongi Különleges Közigazgatású Területének Kormánya között Budapesten, 2001. április 26-án aláírt légiközlekedési megállapodást e rendelettel kihirdeti.
