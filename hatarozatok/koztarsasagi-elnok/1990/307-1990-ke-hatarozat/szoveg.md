@@ -1,0 +1,1 @@
+Az Alkotmány 30/A. §-ának (1) bekezdése alapján, miniszterelnök javaslatára dr. Pungor Ernő akadémikust – a központi műszaki fejlesztés fő irányainak koordinálásával, a nemzetközi kutatási-fejlesztési kapcsolatok összehangolásával összefüggő feladatainak meghagyása mellett – más fontos megbízatása miatt címzetes államtitkári tisztségéből 1990. december 20-ai hatállyal felmentem.
