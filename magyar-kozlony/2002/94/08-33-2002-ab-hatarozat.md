@@ -1,0 +1,1411 @@
+# Az Alkotmánybíróság 33/2002. (VII. 4.) AB határozata
+
+Magyar Közlöny 2002. évi 94. szám, 2002. július 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e47d592dfb6757293e74b31bff0dbc19f0799e61/dokumentumok/1ce3779c6732d7c4ec765f88e33f4beff54c3c34/letoltes)
+
+---
+
+Az Alkotmánybíróság
+33/2002. (VII. 4.) AB
+határozata
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+Az Alkotmánybíróság jogszabály alkotmányellenessé-
+gének utólagos vizsgálatára és közigazgatási határozat felül-
+vizsgálata iránt indított perben való alkalmazhatósága tilal-
+mának megállapítására irányuló bírói kezdeményezés, vala-
+mint alkotmányjogi panasz tárgyában — dr. Bagi István,
+dr. Erdei Árpád és dr. Kukorelli István alkotmánybírók párhu-
+zamos indokolásával, valamint dr. Bihari Mihály, dr. Németh
+János és dr. Tersztyánszkyné dr. Vasadi Éva alkotmánybírók
+különvéleményével — meghozta az alábbi
+határozatot:
+1. Az Alkotmánybíróság megállapítja, hogy a jövedéki
+adóról és a jövedéki termékek forgalmazásának különös
+szabályairól szóló 1997. évi CIII. törvény 81. §-a részben
+alkotmányellenes. Az Alkotmánybíróság a részbeni, de a
+vizsgált rendelkezés egészére kiható alkotmányellenesség
+miatt a jövedéki adóról és a jövedéki termékek forgalma-
+zásának különös szabályairól szóló 1997. évi CIII. törvény
+81. §-át 2002. december 31. napjával megsemmisíti.
+2. Az Alkotmánybíróság megállapítja, hogy a jövedéki
+adóról és a jövedéki termékek forgalmazásának különös
+szabályairól szóló 1997.évi CIII. törvény81.§-a a Szabolcs-
+Szatmár-Bereg Megyei Bíróság előtt 2.P. 20.898/2000.;
+2.P. 21.075/2000.; 2.P. 21.147/2000.; 2.P. 21.840/2000., a
+Jász-Nagykun-Szolnok Megyei Bíróság előtt 12.P.
+20.916/2000., valamint a Baranya Megyei Bíróság előtt
+III.P. 20.754/2001. szám alatt folyamatban lévő közigaz-
+gatási perekben nem alkalmazható.
+3. Az Alkotmánybíróság megállapítja, hogy a jövedéki
+adóról és a jövedéki termékek forgalmazásának különös
+szabályairól szóló 1997. évi CIII. törvény 81. §-a a Komá-
+rom-Esztergom Megyei Bíróság által jogerősen befejezett
+K.20.227/2001. számú ügyben nem alkalmazható.
+4. Az Alkotmánybíróság az indítványokat egyebekben
+elutasítja.
+Az Alkotmánybíróság ezt a határozatát a Magyar Köz-
+lönyben közzéteszi.
+INDOKOLÁS
+I.
+1.1. A Szabolcs-Szatmár-Bereg Megyei Bíróság előtt
+2.P. 20.898/2000.; 2.P. 21.075/2000.; 2.P. 21.147/2000.;
+2.P. 21.840/2000., valamint a Jász-Nagykun-Szolnok Me-
+gyei Bíróság előtt 12.P. 20.916/2000. számon indult, köz-
+igazgatási határozat bírósági felülvizsgálatára irányuló pe-
+rekben az eljáró bírók az alkalmazandó jogszabály, a jöve-
+déki adóról és a jövedéki termékek forgalmazásának külö-
+nös szabályairól szóló 1997. évi CIII. törvény(a továbbiak-
+ban: Jöt.) 81. § (1) bekezdés e) pontja „felhasználására,
+tárolására és szállítására”szövegrészének, illetve a (4) be-
+kezdés második mondatának alkotmányellenességét ész-
+lelték, ezért az Alkotmánybíróságról szóló 1989. évi
+XXXII. törvény(a továbbiakban: Abtv.) 38. § (1) bekezdé-
+sének megfelelően — az eljárás felfüggesztése mellett —
+az Alkotmánybíróság eljárását kezdeményezték a kifogá-
+solt rendelkezések alkotmányellenességének utólagos
+megállapítása és megsemmisítése, illetve e rendelkezések
+konkrét ügyekben történő alkalmazási tilalmának kimon-
+dása végett.
+A bírói kezdeményezések alapjául szolgáló ügyekben az
+eljáró hatóságok jövedéki termék szállítására használt sze-
+mélygépkocsik kötelező lefoglalását és elkobzását rendel-
+ték el, amelyek forgalmi értékéhez képest elenyészőnek
+minősíthető a jövedéki bírság alapjául meghatározott
+összeg. A személygépkocsik nem jövedéki termék szállítá-
+sára rendszeresítettek, és azokon olyan átalakítást sem
+végeztek, amely a jövedéki törvénysértés véghezvitelét cé-
+lozza. A jövedéki ügyben hozott közigazgatási határozat
+bírósági felülvizsgálata során — a jelenleg hatályos rendel-
+kezések értelmében — a bíró méltányosságot nem gyako-
+rolhat; a jövedéki jogsértés csekély foka esetén sem alkal-
+mazhatja az elkobzás, illetve az elkobzás alá eső érték
+megfizetésének teljes vagy részleges mellőzését.
+A Jász-Nagykun-Szolnok Megyei Bíróság álláspontja
+szerint a Jöt.-nek a lefoglalásra és az elkobzásra vonatkozó
+szabályai azért alkotmányellenesek, mert — ellentétben a
+büntetőjogi és a szabálysértési rendelkezésekkel — jövedé-
+ki ügyben nem biztosítanak az eljáró hatóságnak mérlege-
+lési jogot annak eldöntésére, hogy az elkobzás alkalmazása
+a cselekmény súlyával arányban álló hátrányt jelent-e a
+jövedéki törvénysértést elkövető számára; az elkobzás
+minden esetben kötelező, amennyiben jövedéki bírság
+megállapításának van helye. Az indítványozó véleményét a
+jogalkotásról szóló 1987. évi XI. törvény (a továbbiakban:
+Jat.) 18. § (3) bekezdésére alapozza, miszerint az azonos
+vagy hasonló életviszonyokat azonos vagy hasonló módon
+kell szabályozni. Ha ez nem így történik, akkor az eljárást
+kezdeményező bíró szerint nem teljesül az Alkotmány2. §
+(1) bekezdésében rögzített jogállamiság követelménye.
+A Szabolcs-Szatmár-Bereg Megyei Bíróság szerint a ki-
+fogásolt rendelkezések a jogállamiság követelményének
+megsértése mellett az Alkotmány további két rendelkezé-
+sével is ellentétesek. Egyrészt sértik az Alkotmány 13. §
+(1) bekezdésében deklarált tulajdonhoz való jogot (az el-
+járással érintett személyt korlátozzák birtoklási és haszná-
+lati jogában, illetve megfosztják tulajdonától), másrészt
+nem felelnek meg az Alkotmány 57. § (1) bekezdésében
+foglalt tisztességes eljárás követelményének, mert a lefog-
+
+lalást és az elkobzást a jogsértés súlyától, társadalomra
+veszélyességétől függetlenül kötelezően rendelik alkal-
+mazni.
+Az indítványok benyújtását követően az adókra, járulé-
+kokra és egyéb költségvetési befizetésekre vonatkozó egyes
+törvények módosításáról szóló 2000. évi CXIII. törvény
+122. § (1) bekezdése 2000. november 14. napjával a Jöt.
+81. § (4) bekezdése számozását — a normatartalom érin-
+tetlenül hagyása mellett — (6) bekezdésre változtatta.
+1.2. A Baranya Megyei Bíróság előtt III.P. 20.754/2001.
+számon indult, közigazgatási határozat bírósági felülvizs-
+gálatára irányuló perben az eljáró bíró az alkalmazandó
+jogszabály, a Jöt. 81. § (1) bekezdés e) pontja, illetve a
+(6) bekezdés alkotmányellenességét észlelte, ezért az
+Abtv. 38. § (1) bekezdésének megfelelően — az eljárás
+felfüggesztése mellett — az Alkotmánybíróság eljárását
+kezdeményezte a kifogásolt rendelkezések alkotmányelle-
+nességének utólagos megállapítása és megsemmisítése, il-
+letve e rendelkezések konkrét ügyben történő alkalmazási
+tilalmának kimondása végett.
+Az indítvány alapjául szolgáló ügyben hasonló a tényál-
+lás, mint az 1.1. pont alatt ismertetett esetekben. A bíróság
+álláspontja szerint a tulajdonhoz való jog ugyan nem kor-
+látlan, de a tulajdonkorlátozás aránytalannak tekinthető,
+ha annak időtartama nem kiszámítható. Kezdeményezésé-
+ben a bíró kifejtette, hogy a támadott rendelkezések azért
+is sértik az Alkotmány 13. § (1) bekezdésében foglalt alkot-
+mányos alapjogot, mert a tulajdonjog korlátozásának ese-
+tére a tulajdonos védelmében semmilyen garanciális sza-
+bályt nem határoz meg. Az indítványozó utalt arra is, hogy
+a gazdasági élet területén a tulajdonostól nem várható el,
+hogy a tulajdonával való rendelkezés körében teljeskörűen
+ellenőrizze a birtokában nem lévő dolog felhasználását, és
+azt, hogy ez a használat a jogszabályi követelményeknek
+folyamatosan megfelel-e.
+1.3. Az Abtv. 48. § (1) bekezdése alapján — a törvényes
+határidőn belül — előterjesztett alkotmányjogi panasz a
+Jöt. szabályozásának ugyanazon rendelkezéseit érinti mint
+a bírói kezdeményezések.
+Az alkotmányjogi panasz előterjesztője szerint a Jöt.
+81. § (6) bekezdése azért sérti az Alkotmány 13. § (1) be-
+kezdésében foglalt tulajdonhoz való jogot, mert nem ad
+lehetőséget az arányosság alkalmazására, a legenyhébb
+jogsértés esetén is kötelezővé teszi az elkobzás alkalmazá-
+sát. A panasz alapjául szolgáló ügyben a vámhatóság
+9624 Ft jövedéki adóhiány miatt és 20 000 Ft jövedéki
+bírság kiszabása mellett két nagy értékű, egyenként is mil-
+liós értéket képviselő tehergépjármű elkobzását rendelte
+el, amely döntést — a rendes jogorvoslati lehetőséget ki-
+merítve — az illetékes bíróság jogerősen megerősített.
+A Jöt. 81. § (1) bekezdése e) pontjának „felhasználásá-
+ra” szövegrészét a panaszos azért tartja alkotmányelle-
+nesnek, mert az nem egyértelmű, nem pontos, különböző
+jogértelmezéseket tesz lehetővé, így sérti a jogbiztonságot,
+és ezáltal ellentétes az Alkotmány 2. § (1) bekezdésében
+meghatározott jogállamiság követelményével. Vélemé-
+nyét arra alapozza, hogy szerinte a jogalkalmazásban bi-
+zonytalanságot okoz a tehergépjármű adózás alól elvont
+jövedéki termék felhasználására használt eszközzé minősí-
+tése.
+Az Alkotmánybíróság a támadott jogszabályi rendelke-
+zések azonosságára tekintettel az indítványokat egyesítet-
+te, és azokat egy eljárásban bírálta el.
+Az Alkotmánybíróság eljárása során beszerezte a pénz-
+ügyminiszter véleményét.
+2. Az ügy elbírálásánál figyelembe vett jogszabályi ren-
+delkezések a következők:
+Az Alkotmánynak az indítványokkal érintett rendelke-
+zései:
+„2. § (1) A Magyar Köztársaság független, demokratikus
+jogállam.”
+„13. § (1) A Magyar Köztársaság biztosítja a tulajdon-
+hoz való jogot.”
+„57. § (1) A Magyar Köztársaságban a bíróság előtt min-
+denki egyenlő, és mindenkinek joga van ahhoz, hogy az ellene
+emelt bármely vádat, vagy valamely perben a jogait és köte-
+lességeit a törvény által felállított független és pártatlan bíró-
+ság igazságos és nyilvános tárgyaláson bírálja el.”
+A Jat. hivatkozott rendelkezése:
+„18. § (3) Az azonos vagy hasonló életviszonyokat álta-
+lában ugyanabban a jogszabályban, illetőleg azonos vagy
+hasonló módon kell szabályozni. A szabályozás nem lehet
+párhuzamos vagy indokolatlanul többszintű.”
+A Jöt.-nek a lefoglalásra és elkobzásra vonatkozó ren-
+delkezései:
+„81. § (1) A vámhatóság a jövedéki ügyben folytatott
+eljárása során lefoglalja a büntetőeljárásban le nem foglalt
+a) adózás alól elvont jövedéki terméket,
+b) hamis, hamisított vagy jogtalanul megszerzett zár-
+jegyet, adójegyet,
+c) jogosulatlanul előállított cukorcefrét és abból elő-
+állított terméket,
+d) a külön jogszabályban meghatározott eljárástól el-
+térően előállított vagy kezelt bort,
+e) jogosulatlanul előállított vagy birtokolt desztilláló
+berendezést, dohánygyártmány előállítására alkalmas gé-
+pet és egyéb eszközt, továbbá az a)—d) pontban említett
+termék előállítására, felhasználására, tárolására és szállítá-
+sára használt eszközt.
+(2) Az (1) bekezdésben foglaltakon túl lefoglalásnak
+van helye, ha hatóság vagy bíróság a büntetőeljárásban
+lefoglalt adózás alól elvont terméknek a visszaadását ren-
+deli el, de az e § rendelkezései szerint — egyéb okból —
+elkobzás alá esik.
+(3) Amennyiben a lefoglalt termék, egyéb tárgy és eszköz
+vámáru, elkobzásukra is e törvény rendelkezései az irány-
+adóak.
+(4) A lefoglalt termék azonosítását (fajtáját, minőségét)
+vita esetén szakértői vizsgálattal kell megállapítani.
+
+(5) A vámhatóságnak az Art. 57/A. § (3), (5)—(9) be-
+kezdésének rendelkezéseit is értelemszerűen alkalmaznia
+kell a lefoglalás során.
+(6) A lefoglalt terméket, egyéb tárgyat és eszközt el kell
+kobozni, ha a jövedéki ügyben jövedéki bírság megállapí-
+tásának van helye. A szállításra használt eszköz abban az
+esetben kobozható el, ha a szállítóeszköz tulajdonosa az
+(1) bekezdés a)—d) pontja szerinti terméket előállító, for-
+galmazó vagy azt birtokoló személy, illetve ha a szállítóesz-
+köz tulajdonosának az ügy összes körülményére tekintettel
+tudnia kellett arról, hogy szállítóeszközével az (1) bekez-
+dés a)—d) pontja szerinti terméket szállítanak. Az elkob-
+zásról a jövedéki bírságot megállapító, illetve ismeretlen
+tettes esetén az eljárást megszüntető határozatban kell
+rendelkezni.
+(7) A lefoglalást meg kell szüntetni, ha a jövedéki ügy-
+ben hozott határozatban jövedéki bírságot nem állapíta-
+nak meg. A lefoglalás megszüntetéséről a jövedéki ügyben
+hozott határozatban kell rendelkezni.
+(8) A lefoglalt termék, egyéb tárgy és eszköz elszállítá-
+sával, tárolásával, őrzésével, valamint a (3) bekezdés sze-
+rinti szakértői díjjal kapcsolatos költségek az ügyfelet ter-
+helik, ha jogerősen végrehajtható jövedéki bírság megfize-
+tésére kötelezték. Ellenkező esetben a felmerült költsége-
+ket az állam viseli.
+(9) A lefoglalt terméknek, egyéb tárgynak és eszköznek
+a vámhatóság által üzemeltetett raktárban történő tárolása
+esetén a fizetendő költségtérítés tekintetében a vám-
+törvény144. §-a (6) bekezdésének rendelkezését kell meg-
+felelően alkalmazni. Egyéb raktárban történő tárolás ese-
+tén a raktárüzemeltető által szokásosan felszámított díj-
+tétel az irányadó.
+(10) Az elkobzott termékek közül
+a) az élelmiszerekről szóló 1995. évi XC. törvény hatá-
+lya alá tartozó terméket, a cukorcefrét és az abból előállí-
+tott terméket, továbbá a külön jogszabályban meghatáro-
+zott eljárástól eltérően előállított vagy kezelt bort meg kell
+semmisíteni;
+b) az a) pontba nem tartozó egyéb elkobzott termék
+esetén a vámhatóság intézkedik azoknak az állam javára
+történő értékesítéséről, illetve eredménytelenség esetén
+azt is meg kell semmisíteni;
+c) azokat a termékeket, amelyek értékesítése valamely
+szellemi tulajdonjogot sértene, meg kell semmisíteni.”
+II.
+Az indítványok részben megalapozottak.
+1. Az Alkotmánybíróság az indítványokban foglaltak-
+nak megfelelően eljárása során elsőként azt a kérdést vizs-
+gálta, hogy a lefoglalás és az elkobzás jogintézményeit a
+jogrendszeren belül egységesen kell-e szabályozni; más
+megközelítésben: a vizsgált jogintézményekkel érintett
+egyes jogterületek szabályozási tárgya és célja tekintetében
+megmutatkozó különbségek mennyiben teszik alkotmá-
+nyosan megengedhetővé a szabályozásbeli eltéréseket.
+1.1. Az összevethetőség érdekében az Alkotmánybíró-
+ság áttekintette a releváns jogágak idevonatkozó rendelke-
+zéseit.
+A büntetőjogon belül anyagi jogi jogintézményként a
+Büntető Törvénykönyvről szóló 1978. évi IV. törvény
+(a továbbiakban: Btk.) szabályozza az elkobzást. A szabá-
+lyozás — többek között — kiterjed arra, hogy mit kell
+elkobozni, ezt meddig lehet megtenni (elévülés), mely
+esetekben kell az elkobzás helyett az érték megfizetésére
+kötelezni, illetve mikor lehet az elkobzást kivételesen
+mellőzni.
+A büntetőeljárásról szóló 1973. évi I. törvény (a továb-
+biakban: Be.) számos rendelkezése érinti az elkobzás jog-
+intézményét, így például a különleges eljárások között sza-
+bályozza az elkobzásra irányuló eljárást és az elkobzás
+utólagos kimondását.
+A Be. 101. § (1) bekezdése szerint a hatóság lefoglalja
+azt a dolgot, amely tárgyi bizonyítási eszköz, illetve a tör-
+vény értelmében elkobozható, vagy amelyre vagyonelkob-
+zás rendelhető el.
+A szabálysértési jog területén a szabálysértésekről szóló
+1999. évi LXIX. törvény tartalmazza mind az elkobzásra,
+mind a lefoglalásra vonatkozó rendelkezéseket. A szabá-
+lyozás felöleli — többek között — az elkobzás kötelező és
+lehetséges eseteit, az elkobzás elévülésének és kivételes
+mellőzésének feltételeit. A lefoglalás szabályai jórészt arra
+vonatkoznak, hogy ezen intézkedés megtételére mikor van
+lehetősége az eljáró szabálysértési hatóságnak, illetve arra,
+hogy a lefoglalás elrendelése esetén milyen további intéz-
+kedéseket kell foganatosítania.
+A közigazgatási jog körében az állategészségügyről
+szóló 1995. évi XCI. törvény arra ad lehetőséget, hogy az
+állategészségügyi hatóság járványügyi intézkedésként el-
+rendelje eszköz, tárgy, anyag elkobzását. A növényvéde-
+lemről szóló 2000. évi XXXV. törvény pedig arra jogosítja
+fel a növényvédelmi hatóságot, hogy térítés nélkül elko-
+bozhatja azokat a növényeket, növényi termékeket, nö-
+vényvédő szereket, termésnövelő anyagokat, termesztő-
+közegeket, növénykondicionáló szereket, segédanyagokat,
+amelyek nem felelnek meg a forgalomba hozatali és fel-
+használási rendelkezéseknek. Az adójog területén a lefog-
+lalás és az elkobzás tekintetében a Jöt. fentiekben idézett
+szabályozása tartalmaz rendelkezéseket.
+1.2. Az egyes jogterületeknek a lefoglalásra és az elkob-
+zásra vonatkozó szabályozását tényszerűen összevetve
+megállapítható, hogy míg a büntetőjog és a szabálysértési
+jog valóban lehetővé teszi az elkobzás kivételes mellőzését,
+addig a Jöt. vizsgált rendelkezései ezt a lehetőséget nem
+teremtik meg.
+Az alkotmányjogilag releváns összevethetőséget és az
+ebből fakadó esetleges alkotmányellenesség megállapítá-
+sát azonban további el nem hanyagolható tényezők befo-
+
+lyásolják. A lefoglalás és az elkobzás kétségkívül a tulaj-
+dont érintő intézkedés, függetlenül attól, hogy melyik
+jogág szabályozása teszi annak alkalmazását lehetővé. A
+büntetőjogban (szabálysértési jogban) azonban ilyen intéz-
+kedés alkalmazása csak akkor lehetséges, ha az intézkedés-
+sel érintett dologgal (a tulajdon tárgyával) összefüggésben
+bűncselekményt (szabálysértést) követtek el.
+Az Alkotmánybíróság már több alkalommal foglalko-
+zott a büntetőjog ezen jogintézményeivel, és a következő
+megállapításokat tette:
+„Az elkobzás olyan büntetőjogi jogkövetkezmény, vé-
+delmi jellegű biztonsági intézkedés, amelynek alapja és
+elengedhetetlen előfeltétele valamely, a törvényben bünte-
+tendővé nyilvánított magatartás, büntetőjog-ellenes cse-
+lekmény megvalósulása, amellyel az elkobzandó tárgy a
+törvény által meghatározott viszonyban áll, azonban nem
+szükségképpeni előfeltétele, hogy az elkobzással érintett
+személy az adott cselekményért büntetőjogilag is felelőssé
+tehető legyen.” (1624/B/1991. AB határozat, ABH 1992.,
+509., 511.)
+„A lefoglalás az állami büntető igény érvényesítésére
+hivatott büntetőeljárás dologra irányuló kényszerintézke-
+dései közé tartozik; a dolog birtokának hatósági elvonása
+a birtokos rendelkezése alól a bizonyítás érdekében vagy
+az elkobzás biztosítására.” (715/D/1994. AB határozat,
+ABH 1997., 584., 587.)
+Az igazgatási (jövedéki) eljárásban ezen büntetőjogi
+feltételek értelemszerűen hiányoznak. A Jöt. szerint a vám-
+hatóság a lefoglalást foganatosítja, ha az adott dolgot a
+büntetőeljárásban nem foglalták le, vagy annak a tulajdo-
+nos részére történő visszaadását rendelték el. A jövedéki
+eljárásban elrendelt elkobzásnak pedig az a feltétele, hogy
+a jövedéki ügyben jövedéki bírság megállapításának legyen
+helye.
+Az elkobzás tehát a büntetőjogban is az állam javára
+történő tulajdonelvonást eredményez, de meghatározóan
+mégis egyfajta speciális jogi szankció, nevezetesen bünte-
+tőjogi jogkövetkezmény. A tulajdonelvonásra az állam
+büntetőjogi igényének érvényesítése keretében kerül sor,
+vagyis a tulajdonjogtól büntető ítélettel történő — tehát
+közjogi alapú — megfosztásról van szó. Ennek megfele-
+lően a bűncselekmény elkövetőjével szembeni elkobzás
+alkotmányos tulajdonvédelmi megítélésénél ezen körül-
+ményeket is figyelembe kell venni.
+A lefoglalás megítélésénél hasonló a helyzet, mert ez a
+kényszerintézkedés vagy a büntetőeljárás sikeres lefolyta-
+tását célozza (bizonyítási eszköz), vagy/és a büntetőjogi
+szabály által előírt elkobzást biztosítja.
+A fentiekben kifejtettek szerinti alapvető, azaz alkotmá-
+nyi relevanciával bíró különbözőség nem teszi lehetővé
+annak megállapítását, hogy az összevetett jogterületeknek
+a lefoglalásra és az elkobzásra vonatkozó előírásaiban
+megmutatkozó eltérések önmagukban megalapozzák a
+Jöt.
+támadott
+rendelkezéseinek
+alkotmányellenességét;
+éppen ellenkezőleg, azok nem ellentétesek a Jat. 18. §
+(3) bekezdésében foglalt azonos vagy hasonló módú szabá-
+lyozás követelményével, és ebben az összefüggésben az
+Alkotmány 2. § (1) bekezdésébe sem ütköznek.
+A tulajdont érintő intézkedések alkotmányosságát tehát
+az adott jogterület sajátosságának, az alkotmányos alap-
+jogokhoz való közvetlen viszonyának alapulvételével kell
+megítélni.
+2. A Jöt. indítvánnyal támadott rendelkezései állam-
+igazgatási jogkörben lehetővé teszik a tulajdonjog korláto-
+zását, illetve elvonását, ezért az Alkotmánybíróság a továb-
+biakban a lefoglalásnak és az elkobzásnak az alkotmányos
+tulajdonvédelemmel, vagyis az Alkotmány 13. § (1) bekez-
+désével kapcsolatos összefüggéseit vizsgálta.
+2.1. A tulajdonjog alapjogi minősítését — annak elle-
+nére, hogy az Alkotmány nem az alapjogi fejezetben dek-
+larálja — az Alkotmánybíróság kezdetektől fogva elismer-
+te. [7/1991. (II. 28.) AB határozat, ABH 1991., 22., 25.]
+Az Alkotmánybíróság a tulajdonvédelem alkotmányi
+összefüggéseit részletesen taglalta a 64/1993. (XII. 22.)
+AB határozatban (a továbbiakban: Abh.). Mindenekelőtt
+leszögezte: „Az Alkotmány a tulajdonjogot mint az egyéni
+cselekvési autonómia hagyományos anyagi alapját részesíti
+alapjogi védelemben.” (ABH 1993., 373., 380.)
+Az Abh.-ban arra is rámutatott, hogy: „Az Alkotmány-
+bíróság tulajdonvédelmi felfogása összhangban van az
+Emberi Jogok Európai Egyezményével és az Emberi Jogi
+Bíróság ítélkezésével. Az Egyezmény eredetileg nem vette
+fel a jogok és szabadságok közé a tulajdont. (Nem vették
+át az Emberi Jogok Egyetemes Nyilatkozata 17. cikkében
+szereplő tulajdonhoz való jogot az immár jogilag is kötele-
+ző Egyezségokmányok sem.) Az Európai Emberi Jogi
+Egyezményhez csak később, az első jegyzőkönyv fűzte hoz-
+zá a ’javak békés élvezetéhez’ való jogot. Ez a megfogalma-
+zás szélesebb védelmet nyújt a technikai értelemben vett,
+polgári jog szerinti tulajdonénál. Másrészt viszont az
+Európai Egyezmény széles lehetőséget hagyott az aláíró
+államoknak mind a ’javak’ közérdekből való elvonására,
+mind a tulajdon használata felett szükségesnek mutatkozó
+állami ellenőrzésre.” (ABH 1993., 373., 380—381.)
+Az Alkotmánybíróság az Abh.-ban vizsgálta a közérdek
+fogalmát, és a következőket állapította meg: „Demokrati-
+kus társadalomban természetes, hogy a tulajdont érintő
+gazdasági és szociális kérdésekben a ’közérdeket’ igen el-
+térően ítélik meg. A törvénnyel érvényesített ’közérdek’
+alkotmánybírósági vizsgálata ezért nem a törvényhozó vá-
+lasztásának feltétlen szükségességére irányul, hanem —
+még ha formálisan nem is a ’közérdek’ fennállására irányul,
+hanem a ’szükségesség-arányosság’ ismérveit alkalmazza
+— arra kell szorítkoznia, indokolt-e a közérdekre hivatko-
+zás, illetve, hogy a ’közérdekű’ megoldás nem sért-e önma-
+gában is valamely más alkotmányos jogot (például a hátrá-
+nyos megkülönböztetés tilalmát).” (ABH 1993., 373.,
+381—382.)
+Az Alkotmánybíróság az Abh.-ban azt is kinyilvánította,
+hogy: „A tulajdon közjogi megterhelése az alapjogvédelem
+
+területén vagy a közhatalmi beavatkozás alkotmányelle-
+nességének kimondásához és így az alapul fekvő jogszabály
+megsemmisítéséhez vezet, vagy a teherviselés alkotmá-
+nyosságának elismeréséhez, és legfeljebb az állaggarancia
+értékgaranciával való helyettesítéséhez.” (ABH 1993.,
+373., 379.)
+2.2. A Jöt. lefoglalásra vonatkozó szabályai közül az
+indítványozók többsége a jövedéki termék felhasználására,
+tárolására és szállítására használt eszközök körében kérte
+az alkotmányellenesség megállapítását. Egy bírói kezde-
+ményezés a Jöt. 81. § (1) bekezdés e) pontja teljes egészé-
+nek vizsgálatára irányul.
+A Jöt. 81. §-hoz fűzött részletes indokolásból közvetle-
+nül nem derül ki, hogy a jogalkotót mi vezérelte a vizsgált
+intézkedések szabályozási tartalma kialakításakor. Az ál-
+talános indokolásból viszont következtetni lehet a szank-
+ciók szigorú megállapításának okára és céljára: „A törvény
+olyan új adórendszer bevezetését jelenti, amely hatékony
+módon biztosítja az állam adóbevételét, mozgósítja tarta-
+lékait, visszaszorítja az adóelkerülés lehetőségeit, garan-
+ciális szabályai révén megteremti az adóbefolyás biztonsá-
+gosabb feltételeit. Célja, hogy a gazdasági élet tisztességes
+szereplőit ne érje hátrány, szoruljon vissza a jövedéki ter-
+mékek illegális (fekete-) piaca.”
+A jövedéki jogsértések megelőzése, visszaszorítása két-
+ségkívül alkotmányos cél, amelyhez közérdek fűződik. A
+Jöt. 1998. január 1-jén lépett hatályba, majd ezt követően
+a jövedéki termékekkel kapcsolatos jogsértések fokozott
+szankcionálása érdekében a jogalkotó 2000. január 1-jétől
+— a törvényt módosítva — lehetővé tette a szállítóeszkö-
+zök lefoglalását, elkobzását is.
+Az Alkotmánybíróság a 715/D/1994. AB határozatban
+tüzetesen foglalkozott a büntetőjogi lefoglalással, és az
+alábbi főbb megállapításokat tette: „A lefoglalás nem je-
+lent tulajdontól megfosztást, csupán a dolog birtoklását
+korlátozza ideiglenesen. (…) Az állami büntető igény ér-
+vényesítése érdekében a dolog birtokosának ideiglenes
+megfosztása a birtoklás lehetőségétől, általánosságban
+nem tekinthető a tulajdonhoz való jog szükségtelen korlá-
+tozásának. (…) A tulajdonjog közérdekű korlátozása a
+lefoglalás révén alkotmányos kötelességként értelmezen-
+dő. (…) A lefoglalás nem aránytalan jogkorlátozás, mert az
+elérni kívánt cél nem a tulajdon elvonása, hanem a tárgyi
+bizonyítékot képező dolog birtoklásának ideiglenes elvo-
+nása az alkotmányos kötelezettség teljesítése, a bizonyítás
+érdekében. A lefoglalt tárgyi bizonyíték nem csak az eljá-
+rásban érintett személy bűnösségét, hanem adott esetben
+ártatlanságát is bizonyíthatja. A lefoglalás tehát céljához
+képest és eszközként mértéktartó ideiglenes kényszerin-
+tézkedés. Célszerű és alkalmas eszközként a lefoglalás a
+jogkorlátozás mértéktartó, alkotmányos jogkorlátozási
+eszköze.” (ABH 1997., 584., 587—588.)
+A büntetőjogi lefoglalás alapvető célja tehát a büntető-
+jogi felelősség tisztázását szolgáló dolog bizonyítékként
+való felhasználhatósága és nem csupán az esetleges elkob-
+zás révén megvalósuló jövőbeni tulajdonelvonás biztosítá-
+sa. Ezzel szemben a Jöt. szövegszerűen nem határozza meg
+a lefoglalás célját, de a jogszabályi szövegkörnyezet értel-
+mezése arra mutat, hogy a jövedéki eljárásban a lefoglalás
+főként az elkobzás foganatosíthatóságát célozza. Mindez
+annyit jelent, hogy a jövedéki lefoglalás már önmagában is
+szankciószerűen hat, mert az állam nevében eljáró hatóság
+a dolog tulajdonosától egyrészt a birtoklás és a használat
+jogát az eljárás befejeződéséig feltétlenül elvonja, másrészt
+a tárolás során bekövetkező fokozott amortizációból (tipi-
+kusan ilyen a helyzet a gépjármű esetén) fakadóan a tulaj-
+donost értékcsökkenéssel is sújtja. Az sem elhanyagolható
+következménye a jövedéki lefoglalásnak, hogy a lefoglalás-
+sal érintett dolgok egy részének (pl. gépjármű) ilyetén
+történő elvonása a dolog tulajdonosának életvitelét, gaz-
+dasági tevékenységét jelentősen megnehezíti, vagyis az
+egyéni cselekvési autonómiát negatívan befolyásolja.
+Az Alkotmánybíróság a 2299/B/1991. AB határozatban
+megállapította: „A birtoklás és a használat joga a tulajdon-
+jog tartalmát adó, a tulajdonjoghoz tartozó részjogosítvá-
+nyok, amelyek a dolog feletti hatalmat és a dolog élvezetét
+jelentik; azt a hatalmat, amelyet valamely dologgal tenni
+lehet.
+(…) a tulajdonjog valamely tartalmi elemének a korlá-
+tozása csak akkor jár magának a tulajdonjognak, mint
+alkotmányos jognak a korlátozásával, így csak akkor alkot-
+mányellenes, ha az nem elkerülhetetlen, vagyis, ha kény-
+szerítő ok nélkül történik, továbbá ha a korlátozás súlya a
+korlátozással elérni kívánt célhoz képest aránytalan.”
+(2299/B/1991. AB határozat, ABH 1992., 570., 571.)
+A jövedéki jogsértés fogalmát a Jöt. külön nem határoz-
+za meg, de a jövedéki bírságról szóló rendelkezésből kikö-
+vetkeztethető a jogsértés alanyi és tárgyi oldala. A 76. §
+(1) bekezdés szerint: „A természetes személy— a jövedéki
+termékkel gazdasági tevékenységet folytató egyéni vállal-
+kozó kivételével —, amennyiben a) jövedéki terméket adó-
+raktáron kívül előállít, illetve b) olyan jövedéki terméket
+birtokol, szállít, értékesít, használ fel, amelyet nem adó-
+raktárban állítottak elő, vagy amelyet — import jövedéki
+termék esetén — nem vámkezeltek, a jövedéki termék
+mennyisége után jövedéki bírságot fizet.”
+A Jöt. 81. § (1) bekezdése a lefoglalás tárgyai körében
+taxatív és csoportosított felsorolást ad. A bekezdés
+a)—d) pontjai, továbbá az e) pontnak az indítványozók
+többsége által nem támadott rendelkezései mind olyan
+dolgok lefoglalását teszik kötelezővé, amelyek vagy jöve-
+déki termékek vagy ilyen termék előállítását szolgálják,
+vagyis a jogsértés szükségképpeni tárgyi oldalát képezik.
+Ehhez képest a felhasználás, tárolás és szállítás mind olyan
+cselekmények, amelyek során a direkt jogsértést (előállí-
+tást, megszerzést) követően ugyan megvalósul a jövedéki
+termék jogellenes birtoklása, de az ennek során használt
+eszközök (a lefoglalás tárgyai) nem feltétlenül és nem ki-
+zárólag a jogsértés elkövetésére kialakítottak, nem minden
+esetben csak arra használatosak. A hatályos jövedéki sza-
+bályozás ugyanakkor nem differenciál a tárgyi oldalhoz
+
+rendelten a lefoglalás alkalmazásában: az intézkedési kö-
+telezettséget egységesen — kivétel és megszorítás nélkül
+— előírja a Jöt. 81. § (1) bekezdése. Az Alkotmánybíróság
+a szoros összefüggésre tekintettel vizsgálatát az (1) bekez-
+dés egészére kiterjesztette.
+A Jöt. 81. § (2) bekezdése a lefoglalás egy másik eset-
+köréről rendelkezik, amelybe a jogalkotó csak az adózás
+alól elvont termékeket vonta be, és egyáltalán nem említi
+a jogsértés megvalósításához használt eszközöket, érte-
+lemszerűen a felhasználáshoz, tároláshoz és szállításhoz
+használt eszközöket sem. Mindez annyit jelent, hogy ebben
+a tárgyi esetkörben fel sem merül a Jöt. 81. § (1) bekezdé-
+sével kapcsolatban jelzett differenciálás hiánya.
+A lefoglalásra vonatkozó egyéb — technikai és utaló —
+szabályokat, így a (3)—(5), valamint a (7)—(9) bekezdése-
+ket az Alkotmánybíróság kizárólag a támadott rendelkezé-
+sekkel való összefüggésükben vizsgálta.
+A jövedéki lefoglalás indokoltsága — az alkotmányos
+tulajdonvédelem szempontjából — nyilvánvalóan eltérő
+attól függően, hogy a lefoglalással érintett dolognak, mint
+bizonyítéknak van-e szerepe az eljárásban. Ha van, akkor
+ez önmagában — függetlenül az elkobzás biztosításától és
+a dolog termék vagy eszköz jellegétől — jogcímként szol-
+gálhat a tulajdon ideiglenes és szükséges mértékű korláto-
+zására. Amennyiben az ügyben nem folytatnak le bizonyí-
+tást, vagy a bizonyítási eljárás lefolytatásának eredményes-
+sége nem kívánja meg a jövedéki jogsértéssel kapcsolatos
+dolog lefoglalását, akkor a lefoglalást csak az elkobzás
+foganatosíthatósága indokolhatja. Ez utóbbi esetben vi-
+szont már kizárólagos alkotmányi relevanciával bír a jog-
+sértés súlya, a jogsértéssel kapcsolatos dolog jellege (az
+adott típusú jogsértő cselekménnyel szükségképpeni vagy
+esetleges az összefüggése), illetőleg a dolog értéke. A dif-
+ferenciálás ezen követelményeinek a Jöt. 81. § (1) bekez-
+désében foglalt szabályozás nem felel meg.
+2.3. A jövedéki elkobzás tekintetében megoszlanak az
+indítványok. Az eljárást kezdeményező bírák többsége a
+szállítóeszköz elkobozhatóságát vitatja, míg egy bíró, vala-
+mint az alkotmányjogi panasz előterjesztője az elkobzás
+általános kötelező jellegét sérelmezi.
+A Jöt. 81. § (6) bekezdésének első mondata a lefoglalt
+dolog kötelező elkobzását rendeli el minden olyan esetben,
+amikor az ügyben jövedéki bírság megállapításának van
+helye. Az elkobzás alkalmazásának automatikus elrende-
+lése alól egyedül a Jöt. 81. § (6) bekezdés második mondata
+állapít meg kivételt, amikor kimondja, hogy szállításra
+használt eszközre vonatkozóan a jövedéki jogsértést el
+nem követő tulajdonos esetén csak akkor lehet az elkob-
+zást kimondani, ha az ügy összes körülményére tekintettel
+a tulajdonosnak tudnia kellett a jövedéki jogsértés elköve-
+téséről. A kivételt megteremtő rendelkezés azonban mégis
+kötelező jellegű, ha ugyanis ez a feltétel teljesül, az elkob-
+zást — a jövedéki jogsértés súlyától függetlenül — nem
+lehet mellőzni.
+Az elkobzással megvalósuló jogkorlátozás nem ideigle-
+nes, nem a tulajdonjog bizonyos tartalmi elemeit érinti,
+hanem magának a tulajdonnak az elvonását eredményezi,
+tehát az alkotmányos tulajdonvédelem során — a lefogla-
+láshoz képest — súlyosabb megítélés alá esik. Ennek meg-
+felelően mindaz, amit a lefoglalásra vonatkozóan az Alkot-
+mánybíróság az előzőekben már kifejtett, az elkobzásra
+fokozottan irányadó. Vagyis: az a tény, hogy a jövedéki
+elkobzás hatályos szabályozása nem differenciál az elkob-
+zás alapjául szolgáló jogsértés súlya, az elkobzással érintett
+dolog jellege és értéke tekintetében, kétségessé teszi a
+tulajdonjog Alkotmányban biztosított védelmének érvé-
+nyesülését.
+3. Az Alkotmánybíróság az Abh. idézett megállapításá-
+nak, valamint a fentiekben foglaltaknak megfelelően
+a továbbiakban azt vizsgálta, hogy a tulajdonkorlátozást,
+illetve -elvonást eredményező „közérdekű” megoldás,
+vagyis a jövedéki lefoglalás és elkobzás hatályos szabályo-
+zása nem sért-e más alkotmányos jogot.
+Az egyik indítványozó kifejezetten hivatkozik az Alkot-
+mány 57. § (1) bekezdésében foglalt tisztességes eljárás
+követelményére, míg mások a mérlegelési jogkör, illetve az
+érdemi bírósági felülvizsgálat, továbbá az eljárási garan-
+ciák hiányát kifogásolják.
+Az Alkotmánybíróság a 39/1997. (VII. 1.) AB határozat-
+ban vizsgálta azt, hogy mi tekinthető érdemi és hatékony
+jogorvoslatnak. A határozat rendelkező részében a követ-
+kező megállapítást tette: „2. A közigazgatási határozatok
+törvényessége bírósági ellenőrzésének szabályozásánál al-
+kotmányos követelmény, hogy a bíróság a perbe vitt jogo-
+kat és kötelezettségeket az Alkotmány 57. § (1) bekezdé-
+sében meghatározott feltételeknek megfelelően érdemben
+elbírálhassa. A közigazgatási döntési jogkört meghatározó
+szabálynak megfelelő szempontot vagy mércét kell tartal-
+maznia, amely alapján a döntés jogszerűségét a bíróság
+felülvizsgálhatja.” (ABH 1997., 263.)
+A határozat indokolása ehhez még a következőket fűzte:
+„(…) az Alkotmánybíróság nyomatékkal mutat rá, hogy az
+eljárási garanciák teljesedéséhez önmagában a bírói út
+megléte nem elegendő; az Alkotmány által megkövetelt
+hatékony jogvédelem megléte attól függ, hogy a bíróság mit
+vizsgálhat felül. (…) Az Alkotmány 50. §-a szerint a bíró-
+ság ’a közigazgatási határozatok törvényességét ellenőrzi’.
+Ezt a rendelkezést az 57. §-ra tekintettel úgy kell értelmez-
+ni, hogy az eljárásnak ahhoz kell vezetnie, hogy a bíróság a
+perbe vitt jogokat és kötelességeket az ott írt módon való-
+ban ’elbírálja’: az összes, az Alkotmányban részletezett
+követelmény — a bíróság törvény által felállított volta,
+függetlensége és pártatlansága, az, hogy a tárgyalás igazsá-
+gosan (a nemzetközi egyezmények szóhasználatával: fair,
+équitablement, in billiger Weise) és nyilvánosan folyjék —
+ezt a célt szolgálja, csak e követelmények teljesítésével
+lehet alkotmányosan véglegesnek számító, érdemi, a jogot
+megállapító döntést hozni. A közigazgatási határozatok
+
+törvényességének bírói ellenőrzése tehát alkotmányosan
+nem korlátozódhat a formális jogszerűség vizsgálatára. A
+közigazgatási perben a bíróság nincs a közigazgatási hatá-
+rozatban megállapított tényálláshoz kötve, és a jogszerű-
+ség szempontjából felülbírálhatja a közigazgatási szerv
+mérlegelését is. Az így felfogott érdemi elbírálással nem áll
+ellentétben, hogy a bíróság a határozatot hozó hatóságot
+új eljárásra utasítja. Azok a jogszabályok, amelyek kizárják
+vagy korlátozzák azt, hogy a bíróság a közigazgatási hatá-
+rozatot felülvizsgálva a fentiek szerint érdemben elbírálja
+a jogvitát, ellentétesek az Alkotmány 57. § (1) bekezdésé-
+vel. Ebből az okból nem csupán az a jogszabály lehet
+alkotmányellenes, amely kifejezetten kizárja a jogkérdésen
+túlmenő bírói felülvizsgálatot, vagy annak a közigazgatási
+mérlegeléssel szemben olyan kevés teret hagy, hogy az ügy
+megfelelő alkotmányos garanciák közötti érdemi ’elbírálá-
+sáról’ nem beszélhetünk, hanem az olyan jogszabály is,
+amely az igazgatásnak korlátlan mérlegelési jogot adván
+semmilyen jogszerűségi mércét nem tartalmaz a bírói dön-
+tés számára sem.” (ABH 1997., 263., 272.)
+A vizsgált ügyben a jogorvoslati lehetőségeket áttekint-
+ve az Alkotmánybíróság utal arra, hogy a lefoglalásról
+szóló határozat nem minősül az ügy érdemében hozott
+határozatnak, ezért a Jöt. 32. § (2) bekezdésének b) pontja,
+valamint az államigazgatási eljárás általános szabályairól
+szóló 1957. évi IV. törvény (a továbbiakban: Áe.) 72. §
+(1) bekezdése értelmében a döntés bírósági felülvizsgálata
+kizárt. Az érintett a lefoglalás ellen panasszal élhet a Jöt.
+32. § (2) bekezdés a) pontja, valamint az adózás rendjéről
+szóló 1990. évi XCI. törvény 57/A. § (9) bekezdése alapján,
+de a felettes szerv (másodfokú hatóság) a Jöt. 81. § (1) be-
+kezdése szerinti, kivételt nem tartalmazó szabály értelmé-
+ben a jogorvoslati kérelemnek nem adhat helyt. Mindez
+annyit jelent, hogy az eljárás államigazgatási jogkörben
+lezárul úgy, hogy a panasz — mint az egyetlen lehetséges
+jogorvoslat — formálisnak tekinthető.
+Az elkobzás elrendelésére vonatkozó döntést jövedéki
+bírság és jövedéki adó kivetéséről szóló határozatba foglal-
+tan hozza meg az eljáró közigazgatási szerv (vámhivatal).
+Az Áe. 72. § (1) bekezdése alapján ez a döntés — mint az
+ügy érdemében hozott határozat — bíróság előtt megtá-
+madható. A bírósági felülvizsgálat a kötelezettre nézve
+csak jogszabálysértés esetén vezet eredményre. A Jöt. 81. §
+(6) bekezdése viszont csak egyetlen törvényi feltételét ha-
+tározza meg az elkobzásnak, nevezetesen: az ügyben jöve-
+déki bírság megállapításának legyen helye. A szabályozás
+ilyetén módja a jogalkalmazó (közigazgatási szerv, bíró-
+ság) számára annyit jelent, hogy az elkobzás jogszerűsége
+közvetlenül nem vizsgálható; a vizsgált intézkedés megvál-
+toztatásának egyetlen alapja az lehet, ha a szankció (a jö-
+vedéki bírság) kiszabásának jogszerűtlensége bebizonyo-
+sodik. Ez sérti az Alkotmány 57. § (1) bekezdésében foglalt
+tisztességes eljárás követelménye biztosításának elvét,
+egyúttal kiüresíti az Alkotmány 57. § (5) bekezdése szerin-
+ti jogorvoslati jogot.
+4. Az Alkotmánybíróság az indokolás 2. és 3. pontjában
+foglaltaknak megfelelően az alábbiakat állapította meg:
+A Jöt. 81. § (1) bekezdés szabályozási tartalmában — a
+vizsgálati szempontok tükrében — nem alkotmányellenes
+a tulajdonjognak a lefoglalás által történő feltétel nélküli
+ideiglenes korlátozása mindazon dolgokra nézve, amelyek
+a jövedéki jogsértéssel közvetlen és szükségképpeni kap-
+csolatban állnak. Ilyen dolgok például az adózás alól elvont
+jövedéki termék, hamisított zárjegy, jogosulatlanul birto-
+kolt desztilláló berendezés stb.
+Az Alkotmánybíróság ugyanakkor megállapította, hogy
+a felhasználásra, tárolásra és szállításra használt eszközök
+vonatkozásában a feltétel nélküli korlátozás már önmagá-
+ban aránytalanságot eredményez. A jogkorlátozás súlyát,
+vagyis az aránytalanságot fokozza az a körülmény, hogy a
+lefoglalást eredményező jövedéki eljárásban a hatóságnak
+nincs mérlegelési lehetősége az adott intézkedés tekinteté-
+ben; azt kötelezően alkalmaznia kell. Az Alkotmánybíró-
+ság rámutat továbbá arra, hogy a jogorvoslati eljárás sem
+vezethet az aránytalan jogkorlátozás megszüntetéséhez,
+illetve csökkentéséhez, mert a felettes szerv eljárása nem
+terjedhet ki az intézkedés jog- és célszerűségének vizsgála-
+tára. A szabályozásnak ez a módja sérti az Alkotmány 13. §
+(1) bekezdését, továbbá az 57. § (1) és (5) bekezdését.
+Az Alkotmánybíróság, ha a norma egy részének alkot-
+mányellenességét állapítja meg, akkor többnyire csak
+e szövegrészt semmisíti meg, egyúttal megállapítja, hogy a
+megsemmisítést követően a rendelkezés milyen szöveggel
+marad hatályban. A jelen ügyben ennek a megoldásnak
+ugyan nem volna technikai akadálya, de azért nem alkal-
+mazható, mert a vizsgált szabályozás módja alkotmányelle-
+nes. Ha az Alkotmánybíróság a „felhasználására, tárolásá-
+ra és szállítására” szövegrészt semmisítette volna meg,
+ezzel óhatatlanul azt jelezte volna, hogy a jövedéki eljárás-
+ban ilyen eszközök lefoglalásának előírását a jogalkotó
+alkotmányosan egyáltalán nem szabályozhatná a jövőben.
+Mindezekre tekintettel az Alkotmánybíróság a Jöt. 81. §
+(1) bekezdés szabályozási módjának alkotmányellenessé-
+gét megállapította, egyebekben az indítványt elutasította.
+A Jöt. 81. § (6) bekezdésének első mondata olyan egysé-
+gesen kötelező tulajdonelvonást ír elő a jövedéki jogsértés-
+sel kapcsolatba hozható tárgyak körében, amellyel szem-
+ben nem biztosít érdemi jogorvoslatot. A rendelkezés má-
+sodik mondata ugyan feltételhez köti a szállításra használt
+eszköz elkobzásának elrendelését, de a feltétel teljesülése
+esetén az intézkedés mellőzésére nincs lehetőség, avagy
+érdemi jogorvoslat. Az Alkotmánybíróság ennek alapján
+megállapította, hogy a Jöt. 81. § (6) bekezdés első és má-
+sodik mondata az Alkotmány 13. § (1) bekezdésébe, vala-
+mint az 57. § (1) és (5) bekezdésébe ütközik. A vizsgált
+
+rendelkezés
+alkotmányellenességének
+megállapítására
+irányuló indítványt egyebekben elutasította.
+Az Alkotmánybíróság döntése a Jöt. 81. §-a szabályozási
+tartalmának olyan elemeit érinti, amelyek óhatatlanul kihat-
+nak a rendelkezés egészére; nevezetesen: a lefoglalás egyik
+esetkörének [(1) bekezdés], valamint az elkobzás elrendelé-
+sét megállapító szabálynak [(6) bekezdés első és második
+mondata] az alkotmányellenessége nem izolálható.
+A 3/1994. (I. 21.) AB határozatban az Alkotmánybíróság
+leszögezte: „Az Abtv. 40. §-a értelmében, ha az Alkot-
+mánybíróság a jogszabály alkotmányellenességét állapítja
+meg, azt teljesen vagy részben megsemmisíti. Az elbírált
+esetben az Ütv. (a Magyar Köztársaság ügyészségéről szóló
+1972. évi V. törvény) támadott 24. § (3) bekezdése részle-
+ges megsemmisítése a szövegösszefüggésekre, a jogsza-
+bálynak a gyakorlatban való alkalmazhatósága szempont-
+jaira is figyelemmel nem volt lehetséges. Az Alkotmánybí-
+róság ezért az alkotmányellenesség következményeit — az
+Abtv. 40. §-a alapján — az Ütv. 24. § (3) bekezdése teljes
+egészében való megsemmisítésével vonta le (…)” (ABH
+1994., 59., 62.)
+A normaszövegnek tehát minden esetben meg kell fe-
+lelnie a jogbiztonság követelményének. A 26/1992.
+(IV. 30.) AB határozat idevágóan a következőket tartal-
+mazza: „Az Alkotmánybíróság elvi éllel mutat rá arra, hogy
+a világos, érthető és megfelelően értelmezhető normatar-
+talom a normaszöveggel szemben alkotmányos követel-
+mény. A jogbiztonság — amely az Alkotmány 2. § (1) be-
+kezdésében deklarált jogállamiság fontos eleme — meg-
+követeli, hogy a jogszabály szövege értelmes és világos, a
+jogalkalmazás során felismerhető normatartalmat hordoz-
+zon.” (ABH 1992., 135., 142.)
+Az Alkotmánybíróság a jogbiztonság követelményének
+érvényesítésétől saját működése körében sem tekinthet el.
+Amennyiben a jelen ügyben csak az alkotmányellenesnek
+nyilvánított rendelkezéseket semmisítette volna meg, úgy
+jogbizonytalanságot teremtett volna a Jöt. 81. §-a egyéb
+rendelkezései tekintetében. Ezek a rendelkezések ugyanis
+önmagukban nem állnának meg, a jogalkalmazásban értel-
+mezhetetlenek lennének. Ezért — a jogbiztonság követel-
+ményére tekintettel — az Alkotmánybíróság nem mellőz-
+hette a Jöt. 81. §-a egészének megsemmisítését.
+A Jöt. 81. §-át az Alkotmánybíróság az Abtv. 43. §
+(4) bekezdése alapján jövőbeni hatállyal — 2002. decem-
+ber 31. napjával — semmisítette meg. Ennek megfelelően
+a jogalkotónak meg van a lehetősége arra, hogy a megsem-
+misített rendelkezés helyébe a jövedéki lefoglalás és elkob-
+zás szabályozásának differenciált, vagyis alkotmányos —
+anyagi és eljárásjogi — eszközrendszerét kidolgozza.
+5. Az alkotmányjogi panasz előterjesztője a vizsgált és
+alkotmányellenesnek nyilvánított rendelkezés egy elemét
+további szempontból is kifogásolja.
+Az indítványozói megközelítés alapja az, hogy a Jöt.
+81. § (1) bekezdés e) pontjában foglalt „felhasználás” bi-
+zonytalan jogfogalom, amely nem felel meg az Alkotmány
+2. § (1) bekezdéséből fakadó jogbiztonság követelményé-
+nek. Az Alkotmánybíróság következetes gyakorlata sze-
+rint, ha az indítvánnyal támadott jogszabályt vagy annak
+egy részét az Alkotmány valamely rendelkezésébe ütköző-
+nek minősíti, és ezért azt megsemmisíti, akkor a további
+alkotmányi rendelkezés esetleges sérelmét — a már meg-
+semmisített jogszabályi rendelkezéssel összefüggésben —
+érdemben nem vizsgálja. [44/1995. (VI. 30.) AB határozat,
+ABH 1995., 203., 205; 4/1996. (II. 23.) AB határozat, ABH
+1996., 37., 44; 61/1997. (XI. 19.) AB határozat, ABH 1997.,
+361., 364; 15/2000. (V. 24.) AB határozat, ABH 2000., 420.,
+423; 16/2000. (V. 24.) AB határozat, ABH 2000., 425., 429;
+29/2000. (X. 11.) AB határozat, ABH 2000., 193., 200.]
+Mivel az Alkotmánybíróság a vizsgált szövegrészt az
+Alkotmány több rendelkezésébe ütközőnek minősítette,
+ezért a „felhasználás” kifejezésnek az Alkotmány jogál-
+lamra vonatkozó rendelkezésével, a jogbiztonság követel-
+ményével való ellentétét nem vizsgálta.
+6. A 4. pontban kifejtettek szerint az Alkotmánybíróság
+megállapította a jövedéki lefoglalás és elkobzás szabályo-
+zásának részbeni, de a vizsgált rendelkezés egészére kiható
+alkotmányellenességét, és ezért a Jöt. 81. §-át megsemmi-
+sítette.
+Az indítványok azonban nemcsak utólagos normakont-
+rollra vonatkoznak, hanem egyedi ügyeket is érintenek.
+Ennek megfelelően az Alkotmánybíróságnak az alkalmaz-
+hatóság tekintetében is döntést kellett hoznia.
+Az Abtv. 43. § (4) bekezdése értelmében az Alkotmány-
+bíróság a 42. § (1) bekezdésben, valamint a 43. §
+(1)—(2) bekezdésben meghatározott időponttól eltérően
+is meghatározhatja az alkotmányellenes jogszabály hatá-
+lyon kívül helyezését vagy a konkrét esetben történő alkal-
+mazhatóságát, ha ezt a jogbiztonság vagy az eljárást kezde-
+ményező különösen fontos érdeke indokolja. Eszerint az
+alkotmányellenes jogszabály hatályon kívül helyezése idő-
+pontjának tekintetében történt eltérés nem vonja szükség-
+képpen maga után azt, hogy az egyedi ügyben történő
+alkalmazhatóságra vonatkozóan is ugyanúgy el kelljen tér-
+ni. Az eltérés egyezősége lehetőség, de nem az Abtv. hivat-
+kozott rendelkezéséből fakadó követelmény.
+Az Alkotmánybíróság eddigi működése során több íz-
+ben határozott bírói kezdeményezés alapján úgy, hogy az
+alkotmányellenes norma pro futuro megsemmisítésével
+egyidejűleg kimondta az alkotmányellenes jogszabály, il-
+letve az állami irányítás egyéb jogi eszköze konkrét esetben
+történő alkalmazásának — a határozat közzétételének
+napjával megállapított — tilalmát. [6/1998. (III. 11.) AB
+határozat, ABH 1998., 91.; 1075/B/1999. AB határozat,
+ABH 2000., 549.; 21/2001. (VI. 21.) AB határozat, ABH
+2001., 231.; 15/2002. (III. 29.) AB határozat, ABK 2002.,
+március, 113—114.]
+
+Mindezekre tekintettel az Alkotmánybíróság — élve az
+Abtv. 43. § (4) bekezdésében foglalt felhatalmazással — a
+bírói kezdeményezéseknek az alkalmazási tilalom tekinte-
+tében is helyt adott, és megállapította, hogy az alkotmány-
+ellenes jogszabályi rendelkezés a Szabolcs-Szatmár-Bereg
+Megyei Bíróság előtt 2.P. 20.898/2000.; 2.P. 21.075/2000.;
+2.P. 21.147/2000.; 2.P. 21.840/2000., a Jász-Nagykun-Szol-
+nok Megyei Bíróság előtt 12.P. 20.916/2000., valamint a
+Baranya Megyei Bíróság előtt III.P. 20.754/2001. szám alatt
+folyamatban lévő közigazgatási perekben e határozat köz-
+zétételének napjától nem alkalmazható.
+Az Abtv. 48. § (3) bekezdése szerint alkotmányjogi
+panasz esetén az Alkotmánybíróság eljárására az Abtv.
+40—43. §-ában foglaltak az irányadók.
+A 23/1998. (VI. 9.) AB határozatban az Alkotmánybíró-
+ság rámutatott: „Az alkotmányjogi panasz — mint az utó-
+lagos normakontrolltól különböző jogintézmény — létjo-
+gosultságát ugyanis a fentiek szerint éppen az adja, hogy az
+Alkotmánybíróság az Abtv. 43. § (4) bekezdésében bizto-
+sított jogkörével élve az indítványozót ért jogsérelemre
+akkor is biztosítson jogorvoslást, ha egyébként a sérelme-
+zett rendelkezést az alkotmánybírósági határozat közzété-
+telének napjával, vagy a jövőre nézve semmisíti meg.”
+(ABH 1998., 182., 187.)
+Az Alkotmánybíróság mindezekre tekintettel, és annak
+alapján, hogy az alkotmányjogi panaszt benyújtó fontos
+érdeke azt indokolja, az alkotmányellenes szabálynak a
+Komárom-Esztergom Megyei Bíróság által jogerősen be-
+fejezett K.20.227/2001. számú ügyben való alkalmazását
+ugyancsak megtiltotta.
+A határozat közzétételére vonatkozó rendelkezés az
+Abtv. 41. §-ában foglaltakon alapul.
+Dr. Németh János s. k.,
+az Alkotmánybíróság elnöke
+Dr. Bagi István s. k., Dr. Bihari Mihály s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Czúcz Ottó s. k., Dr. Erdei Árpád s. k.,
+alkotmánybíró előadó alkotmánybíró
+Dr. Harmathy Attila s. k., Dr. Holló András s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Kiss László s. k., Dr. Kukorelli István s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Tersztyánszkyné
+Dr. Strausz János s. k., dr. Vasadi Éva s. k.,
+alkotmánybíró alkotmánybíró
+Alkotmánybírósági ügyszám: 550/B/2000.
+Dr. Erdei Árpád alkotmánybíró párhuzamos indokolása
+Álláspontom szerint az indokolás II/6. pontjában foglal-
+takat az alábbiakkal kellett volna kiegészíteni:
+Az Abtv. 43. § (4) bekezdése értelmében az Alkotmány-
+bíróság a 42. § (1) bekezdésben, valamint a 43. §
+(1)—(2) bekezdésben meghatározott időponttól eltérően
+is meghatározhatja az alkotmányellenes jogszabály hatá-
+lyon kívül helyezését vagy a konkrét esetben történő alkal-
+mazhatóságát, ha ezt a jogbiztonság vagy az eljárást kezde-
+ményező különösen fontos érdeke indokolja.
+A Jöt. 81. §-át az Alkotmánybíróság a jogbiztonságra
+tekintettel pro futuro helyezte hatályon kívül. Az alkalma-
+zási tilalom időpontjának meghatározásakor viszont — a
+jogbiztonság követelményén túlmenően — az eljárást kez-
+deményező személy (a jelen esetben: bíró) különösen fon-
+tos érdekét sem lehet figyelmen kívül hagyni.
+Az eljárást kezdeményező bíró különösen fontos érde-
+kének mibenléte nem az alapul fekvő ügyben való szemé-
+lyes érintettségében, hanem — minden más érintettől elté-
+rően — alkotmányos helyzetében ragadható meg. Az Al-
+kotmánybíróság a 13/2002. (III. 20.) AB határozatban meg-
+állapította: „Az Alkotmány 50. § (3) bekezdéséből önma-
+gában is az következik, hogy a bíró ítélkezési tevékenysége
+során a legszigorúbb értelemben az alkotmányos rendnek
+megfelelő eljárásban és tartalommal született törvé-
+nyekhez kötötten köteles eljárni. A törvényi alárendeltsé-
+get a függetlenségre hivatkozással egyetlen ügyben sem
+lehet megkerülni. A törvények kötelező és azonnali alkal-
+mazásától a bíró a konkrét ügyben csak akkor térhet el, ha
+az alkalmazandó jogszabály és az Alkotmány összhangjá-
+nak hiányát észleli. Ebben az esetben sem jogosult azonban
+a norma mellőzésére, hanem az Alkotmánybíróságról
+szóló 1989. évi XXXII. törvény 38. §-a alapján utólagos
+normakontroll keretében az Alkotmánybíróság eljárását
+kezdeményezheti. Az Alkotmánybíróság döntése viszont a
+későbbiekben a bíró számára akkor is kötelező, ha az alkot-
+mányellenesség megállapítására nem került sor, tehát
+az általa vitatott norma eredeti tartalommal érvényben
+marad.
+A bírói függetlenség egyetlen alkotmányos korlátja, azaz
+a bírák törvényi alávetettsége a jogalkotóra azt a kötele-
+zettséget hárítja, hogy az a törvényeket […] az Alkotmány
+rendelkezéseinek megfelelően, alkotmányos keretek kö-
+zött alkossa meg. Amennyiben ez a követelmény nem sérül,
+a bírák e törvények szerint kötelesek eljárni, törvényi
+alárendeltségük érvényesül.” (ABK 2002. március, 99.,
+105—106.)
+A bírák jogállásáról és javadalmazásáról szóló 1997. évi
+LXVII. törvény 21. §-a szerint a bíró hivatását esküjéhez
+hűen köteles gyakorolni, ami — többek között — megkí-
+vánja az Alkotmány, az alkalmazandó jogszabály és saját
+
+lelkiismerete összhangjának megteremtését. E nélkül a
+függetlenség — mint a bírói jogállás egyik meghatározó
+alkotmányos eleme — sérül.
+A bírói függetlenség érvényesítésének egyik eszköze az
+Abtv. 38. §-ában foglalt felhatalmazás. Ha a bíró jogalkal-
+mazó tevékenysége során alkotmányellenességet észlel,
+kezdeményezheti az Alkotmánybíróság eljárását. A
+13/2002. (III. 20.) AB határozat (ABK 2002. március, 99.)
+idézett megállapításából következik, hogy a bíró törvényi
+alávetettsége csak addig áll fenn, amíg az Alkotmánybíró-
+ság nem állapítja meg az alkalmazandó törvény (jogszabá-
+lyi rendelkezés) alkotmányellenességét. Ha ez megtörté-
+nik, attól kezdve a bíró törvényi alávetettsége — a konkrét
+esetben a kérdéses rendelkezés vonatkozásában — meg-
+szűnik. Az indítványt előterjesztő bíró ugyanis még akkor
+sem hozható abba a helyzetbe, hogy az alkotmánybírósági
+eljárás alapjául szolgáló ügyben azt a rendelkezést alkal-
+maznia kelljen, melynek alkotmányellenességét éppen az
+ő kezdeményezése alapján az Alkotmánybíróság megálla-
+pította, ha az érintett rendelkezés hatályon kívül helyezé-
+sét az Alkotmánybíróság egy későbbi időpontra mondja ki.
+Az Alkotmány 50. § (3) bekezdésében foglalt alapelv (mi-
+szerint a bírák függetlenek és csak a törvénynek vannak
+alárendelve) érvényesülése megkövetelheti az alkalmazási
+tilalom ex nunc meghatározását.
+Az Alkotmánybíróságnak tehát rá kellett volna mutat-
+nia: amikor bírói kezdeményezés alapján úgy hoz határo-
+zatot, hogy az alkotmányellenes norma pro futuro meg-
+semmisítésével egyidejűleg kimondja az alkotmányellenes
+jogszabály konkrét esetben történő alkalmazásának tilal-
+mát, akkor figyelembe veszi a bíró sajátos alkotmányos
+helyzetét, és erre tekintettel mérlegeli a tilalom időpontjá-
+nak meghatározását.
+Dr. Erdei Árpád s. k.,
+előadó alkotmánybíró
+A párhuzamos indokoláshoz csatlakozom:
+Dr. Bagi István s. k., Dr. Kukorelli István s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Bihari Mihály alkotmánybíró különvéleménye
+A többségi határozat rendelkező részének első pontjába
+foglaltakkal az alábbi indokok alapján nem értek egyet:
+Nem értek egyet a határozat rendelkező részének első
+pontjával, azért, mert bár az megállapítja, hogy a jövedéki
+adóról és a jövedéki termékek forgalmazásának különös
+szabályairól szóló 1997. évi CIII. törvény(a továbbiakban:
+Jöt.) 81. §-a csak részben alkotmányellenes, ennek ellenére
+— a vizsgált rendelkezés egészére kiható alkotmányelle-
+nesség miatt — a 81. §-t — 2002. december 31. napjával —
+teljes egészében megsemmisíti.
+Megítélésem szerint a Jöt. 81. §-ának két része ad csak
+az alkotmányellenesség megállapítására és így megsemmi-
+sítésre okot. Az egyik a 81. § (1) bekezdés e) pontjának
+utolsó mondatrészében szereplő „és szállítására” szöveg-
+rész, a másik alkotmányellenes rész a 81. § (6) bekezdésé-
+nek második mondata: „A szállításra használt eszköz ab-
+ban az esetben kobozható el, ha a szállítóeszköz tulajdo-
+nosa az (1) bekezdés a)—d) pontja szerinti terméket elő-
+állító, forgalmazó vagy azt birtokló személy, illetve ha a
+szállítóeszköz tulajdonosának az ügy összes körülményére
+tekintettel tudnia kellett arról, hogy szállítóeszközével az
+(1) bekezdés a)—d) pontja szerinti terméket szállítanak.”
+1. A Jöt. megjelölt részei a szabályozás módja miatt
+alkotmányellenesek, mivel a kógens szabályozás nem ad
+lehetőséget a jogalkalmazás során az egyediesítésre, mint-
+hogy a szállítóeszköz lefoglalását és elkobzását kötelezővé
+teszi. Így fordulhat elő, hogy az Alkotmányban védett tu-
+lajdonjog a lefoglalással ideiglenesen, az elkobzással pedig
+véglegesen, szükségtelenül és aránytalanul korlátozásra
+kerül.
+Az Alkotmánybíróság — többek között — a
+2299/B/1991. határozatában is kifejtette: „az Alkotmány a
+tulajdonhoz való jogot ugyan nem a XII., ún. alapjogi
+fejezetben szabályozza, hanem azt a szabadságjogoktól kü-
+lönválasztottan mondja ki, de nyilvánvalóan alapvető jog-
+ként részesíti alkotmányos védelemben akkor is, ha bizo-
+nyos körben a tulajdoni részjogosítványokat egyes törvé-
+nyek korlátozzák. (…) A tulajdonjog valamely tartalmi
+elemének a korlátozása csak akkor jár magának a tulajdon-
+jognak, mint alkotmányos jognak a korlátozásával, így csak
+akkor alkotmányellenes, ha az nem elkerülhetetlen, vagyis,
+ha kényszerítő ok nélkül történik, továbbá ha a korlátozás
+súlya a korlátozással elérni kívánt célhoz képest arányta-
+lan.” (ABH 1992., 570., 571.)
+A 81. § (1) bekezdés a)—d) pontjában, valamint az
+e) pontban felsorolt további (nem a szállításra használt)
+tárgyak lefoglalására vonatkozó kógens szabályozás
+megítélésem szerint nem alkotmányellenes, mivel e tár-
+gyak szorosan kötődnek a jogsértés elkövetéséhez,
+emellett a későbbi elkobzás lehetőségét biztosítják, és erre
+tekintettel a tulajdoni korlátozás szükséges, indokolt és
+arányos.
+A jogsértés elkövetéséhez való szoros kötődés miatt
+ugyancsak nem alkotmányellenes a 81. § (6) bekezdésének
+első mondata, amely szerint: „A lefoglalt terméket, egyéb
+tárgyat és eszközt el kell kobozni, ha a jövedéki ügyben
+jövedéki bírság megállapításának van helye.”
+Alkotmányellenes viszont a 81. § (6) bekezdés második
+mondatának szabályozási módja. Az elkobzás feltételhez
+kötött kógens szabályozási módja ugyanis nem teszi lehe-
+tővé a szállításra használt eszközök vonatkozásában az
+
+egyéniesített jogalkalmazói döntés meghozatalát, és így
+lehetőséget ad a tulajdonjog aránytalan és szükségtelen
+mértékű korlátozására. A szállításra használt eszköz el-
+kobzását a jogalkotó mindössze ahhoz a feltételhez köti,
+hogy a szállítóeszköz tulajdonosa azonos legyen a jogsértés
+elkövetőjével, illetve, hogy a szállítóeszköz tulajdonosának
+— az ügy összes körülményére tekintettel — tudnia kellett
+arról, hogy szállítóeszközével az (1) bekezdés a)—d) pont-
+ja szerinti terméket szállítanak. Megítélésem szerint alkot-
+mányellenes az, hogy a feltétel megvalósulása esetén — a
+kógens rendelkezés kivételt nem ismerő és egyediesítésre
+alkalmat nem adó szabályozási módja miatt — az elkobzást
+ki kell mondani.
+Mivel az Alkotmánybíróság többségi határozatába fog-
+lalt megsemmisítés a 81. § — általam is alkotmányelle-
+nesnek tekintett — megjelölt részein túl, a 81. § többi —
+megítélésem szerint nem alkotmányellenes — részére is
+kiterjed, ezért véleményem szerint az Alkotmánybíróság
+azzal, hogy nem alkotmányellenes jogszabályi részeket is
+megsemmisített, a határozat meghozatala során túllépte
+hatáskörét.
+Az Alkotmánybíróságról szóló 1989. évi XXXII. törvény
+40. §-a azt mondja ki, hogy ha az Alkotmánybíróság a
+jogszabály, illetőleg az állami irányítás egyéb jogi eszközé-
+nek alkotmányellenességét állapítja meg, a jogszabályt
+vagy az állami irányítás egyéb jogi eszközét teljesen vagy
+részben megsemmisíti. A teljesen vagy részben való meg-
+semmisítés az Alkotmánybíróság számára lehetővé teszi
+azt, hogy a vizsgált jogszabály alkotmányellenes és nem
+alkotmányellenes részei között határozott különbséget te-
+gyen, mivel az Alkotmánybíróság csak az alkotmányelle-
+nesnek minősített jogszabályi részt semmisítheti meg.
+A részleges megsemmisítéskor természetesen az Alkot-
+mánybíróság az alkotmányellenesnek minősített résszel
+szorosan összefüggő, és attól el nem választható normaré-
+szeket is megsemmisítheti és eddigi gyakorlata során meg
+is semmisítette.
+A vizsgált törvényhely alkotmányellenes részein azon-
+ban a többségi határozat messze túlterjed, és azokat a
+jogszabályi rendelkezéseket is megsemmisíti, amelyek nem
+alkotmányellenesek, és a megsemmisített résszel sincsenek
+olyan szoros összefüggésben, amelyre tekintettel kiiktatá-
+suk a törvényből alkotmányosan indokolt lenne.
+2. A részleges megsemmisítés után a törvényalkotó a
+megsemmisített jogszabályi részek helyébe az alkotmányos
+követelményeknek megfelelő törvényi szöveget köteles al-
+kotni. Ezt a törvényalkotási (törvénykorrekciós) kötele-
+zettséget támasztja alá a pro futuro megsemmisítés is.
+A jelen esetben tehát az alkotmányellenesség megállapítá-
+sával és az alkotmányellenes részek megsemmisítésével
+nyilvánvalóan nem fejeződik be a törvény alkotmányos
+korrekciója, azt egy a korrekciós törvényalkotás kell hogy
+kövesse.
+A korrekciós törvényalkotás során a törvényalkotó
+többféle megoldás között választhat. Így — többek között
+— a kógens szabályozást diszpozitív szabályozással helyet-
+tesítve biztosíthatná az általános törvényi előírás egyedi
+esetekre való konkretizálásának és alkalmazásának, és ez-
+által a tulajdonkorlátozás során a szükséges és arányos
+mértékű tulajdonelvonásnak a lehetőségét, valamint az
+Alkotmány 57. §-ának (1) bekezdésében deklarált igazsá-
+gos és nyilvános tárgyaláshoz való jogot.
+Az Alkotmány 57. §-ának (1) bekezdésében deklarált
+igazságos és nyilvános tárgyaláshoz való jog cél- és eszköz-
+jellegű alkotmányos érték. Egyrészt eszközérték, amely
+arra szolgál, hogy az ügy igazságos és nyilvános tárgyaláson
+történő elbírálása garantálja azt, hogy igazságos döntés
+szülessen. Másrészt az igazságos döntéshez való jog célér-
+ték, mindenkinek Alkotmányban elismert joga van ahhoz,
+hogy ügyében igazságos döntés szülessen.
+A Jöt. 81. §-ának (1) és (6) bekezdésében a szállítási
+eszköz kötelező lefoglalására, illetve kötelező elkobzására
+vonatkozó rendelkezések azonban nem biztosítják az igaz-
+ságos, egyediesített, arányos döntéshez való jogot a szabá-
+lyozás kógens, illetve feltételhez kötötten kógens szabályo-
+zási módja miatt. Mindezekre tekintettel a szabályozásnak
+a törvénybe foglalt, a szállítási eszközzel kapcsolatos sza-
+bályozási módja sérti az Alkotmány 57. §-ának (1) bekez-
+désében kimondott — az igazságos eljáráshoz és döntéshez
+való — cél és eszközértéket egyaránt.
+3. Megítélésem szerint a Jöt. 81. §-a egészének a meg-
+semmisítése jogbizonytalanságot teremt mind a jogalkotó,
+mind a jogalkalmazók számára.
+A jogalkotó számára azért jelent jogbizonytalanságot a
+81. § egészének megsemmisítése, mert nemcsak a jogosan
+kifogásolt és alkotmányellenes részek, hanem az alkot-
+mányellenesnek nem minősíthető részek megsemmisítésé-
+re is sor került a határozatban. Mivel a határozat nem ad
+kellő pontossággal eligazítást abban a kérdésben, hogy
+mely részek és milyen okból ellentétesek az Alkotmánnyal,
+és melyek nem, a törvényalkotó — a viszonylag nagy
+terjedelmű normaszöveg megsemmisítése után — nehezen
+vagy egyáltalán nem tudja eldönteni azt, hogy mely részek
+azok,
+amelyek
+nem
+alkotmányellenesek,
+és
+akár
+változatlan
+formában
+is
+fenntarthatók
+a
+korrekciós
+törvényalkotás során.
+A Jöt. 81. §-a egészének a megsemmisítése jogbizonyta-
+lanságot teremt továbbá azért is, mert az eljáró jogalkal-
+mazó szerveket elbizonytalanítja abban a tekintetben, hogy
+a pro futuro megsemmisítés után eljárhatnak-e a folyamat-
+ban lévő, illetve a pro futuro megsemmisítés határnapjáig
+felmerülő ügyekben, vagy sem. A többségi határozat ren-
+delkező részének második és harmadik pontja ugyanis —
+az indítványokhoz kötötten — csupán az indítványozó bí-
+
+róság által megjelölt ügyekben mondja ki — egyébként
+helyesen — az alkalmazhatósági tilalmat. A pro futuro
+megsemmisítés határnapjáig azonban az alkotmányelle-
+nesnek minősített jogszabályi helyek — így a szállítási
+eszközre vonatkozó rendelkezések is — továbbra is alkal-
+mazandóak. Mindennek következtében az a helyzet áll elő,
+hogy a határozat 2. és 3. pontjában megjelölt ügyekben a
+81. § rendelkezéseit nem lehet alkalmazni, viszont a hatá-
+rozat rendelkező részében meg nem jelölt — akár több száz
+vagy több ezer ügyben — a pro futuro megsemmisítés
+határnapjáig a 81. § alkotmányellenes rendelkezései is al-
+kalmazandóak. Az alkotmányellenes jogszabályi rész al-
+kalmazásának kötelezettsége a jogalkalmazás tekinteté-
+ben olyan jogbizonytalanságot okoz, amely az Alkotmány
+2. §-a (1) bekezdésébe, az abban kifejezett jogállamiság
+követelményébe ütközik.
+Mivel az Alkotmánybíróságnak nincsen joga általáno-
+san kötelező jelleggel felfüggeszteni a korrekciós törvény
+meghozataláig — a pro futuro megsemmisítés határnap-
+jáig — az érintett ügyeket, ezért az a helyzet áll elő, hogy a
+határozat 2. és 3. pontjában megjelölt ügyekben a bírósá-
+gok nem alkalmazhatják a törvény megjelölt részeit, a
+többi ügyben viszont 2002. december 31-ig kötelesek azo-
+kat alkalmazni, vagy az eljárást felfüggeszthetik. Mivel az
+eljáró jogalkalmazó szervek döntéseiket önállóan hozzák
+meg, az ugyanolyan típusú ügyekben teljesen eltérő jogal-
+kalmazói gyakorlat alakulhat ki, amely a jogalkalmazói
+döntések
+kiszámíthatatlanságához,
+jogbizonytalansághoz
+vezethet.
+Dr. Bihari Mihály s. k.,
+alkotmánybíró
+A különvéleményhez csatlakozom:
+Dr. Németh János s. k.,
+alkotmánybíró
+Dr. Tersztyánszkyné dr. Vasadi Éva alkotmánybíró külön-
+véleménye
+1. Nem értek egyet a Jöt. 81. §-ának, teljes pro futuro
+megsemmisítésével.
+Álláspontom szerint nem állapítható meg az, hogy a
+tulajdonhoz való alapvető jog szempontjából a Jöt.
+81. §-ában a lefoglalás és az elkobzás mikénti szabályozá-
+sának minden esetben a jogsértés súlyát és a jogsértéssel
+kapcsolatos dolog jellegét, értékét kell figyelembe vennie.
+Nem értek egyet azzal sem, hogy a Jöt. 81. §-ának a
+lefoglalásra és az elkobzásra vonatkozó, kivételt nem tar-
+talmazó rendelkezései a jogorvoslathoz való alapvető jo-
+got és a bírói úthoz való jogot önmagukban sértik.
+Az Alkotmányban biztosított tulajdonhoz való jog al-
+kotmányjogi értelmezése az Alkotmánybíróság gyakorla-
+tában változást mutat. A 64/1993. (XII. 22.) AB határozat-
+ban az Alkotmánybíróság az addigi gyakorlatát áttekintve
+a tulajdonhoz való jogot a javak tiszteletben tartásához
+való jogként értelmezte és megengedte a közérdekből való
+korlátozást is. (Más alapvető jog korlátozásánál nem lehet
+közérdekre hivatkozni.)
+Az Alkotmánybíróság gyakorlata a tulajdonhoz való jog
+értelmezésénél tekintetbe veszi az Emberi Jogok Európai
+Egyezményében biztosított, a javak tiszteletben tartásához
+való jog tartalmát. Az Egyezmény a javak elvonására „köz-
+érdek”-ből ad lehetőséget. A „közérdek” fogalmát széle-
+sen értelmezik.
+Az Egyezmény ezenkívül lehetőséget ad az államnak,
+hogy olyan szabályokat vezessen be, amelyeket szükséges-
+nek ítél a javaknak a köz érdekében történő használata
+szabályozása céljából. (Az Alkotmánybíróság gyakorlatá-
+ban az elvonás és javak használatának szabályozása közötti
+különbségtétel ebben a formában eddig nem jelent meg.)
+Vámjogi szabály megsértése következtében alkalmazott
+elkobzásnál nem állapították meg az Egyezmény említett
+cikke sérelmét az ún. Agosi-ügyben; a bíróság döntése
+szerint a bűncselekmény eszközéül használt dolgoknak ár-
+tatlan tulajdonostól való elkobzását a közérdek igazolta, a
+(csempészett) dolog elvonása nem tulajdontól való meg-
+fosztásnak minősül, hanem a dolog használata szabályozá-
+sának.
+A jelen határozat indokolásában az Alkotmánybíróság
+a jogsértés súlyát és a jogsértéssel kapcsolatos dolog jelle-
+gét, értékét — e kettő arányosságát — mint a tulajdonhoz
+való alapvető jog alkotmányos korlátozásának megítélésé-
+re vonatkozó szempontokat emelte meghatározó elvvé, s
+az adójogi lefoglalás, elkobzás jogalkotási korlátaira vo-
+natkozó általános megállapítássá formálta. Ez azt a ve-
+szélyt rejti magában, hogy a későbbiekben általános hivat-
+kozási alapot képezhet.
+A jövedéki jogsértés súlyának törvényhozói megítélését
+az Alkotmánybíróság csak szélsőséges esetekben vizsgál-
+hatja. Annak meghatározása, hogy a jogsértés súlya kellően
+indokolja-e az adott jogkövetkezmény előírását, nem csu-
+pán a konkrét jogsértés súlyának és az adott esetben a
+szankcióval érintett dolog értékének egymáshoz való vi-
+szonyától függ, hanem a szabályozás tárgyától, elérni kí-
+vánt céljától is.
+A jelen ügyben el kellett volna kerülni egyetlen szem-
+pont abszolutizálását, másrészt a többi szempontot is érté-
+kelni kellett volna. A megalapozott döntéshez különösen
+szükséges lett volna a jogalkotási cél és a választott eszköz
+arányosságának mérlegelése.
+A Jöt.-ben szabályozott elkobzásnak minden esetben fel-
+tétele, hogy jövedéki bírságot szabjanak ki. Ennek feltétele a
+Jöt.-ben meghatározott jogellenes tevékenység, azaz a jöve-
+
+déki termék adózás alól való elvonása (illetve ennek egyes
+mozzanatai: előállítás, tárolás, szállítás, felhasználás).
+A Jöt. a jövedéki termékek előállítása és importálása
+szabályait tartalmazza. A jövedéki termékek előállítására,
+tárolására, szállítására szigorú szabályok vonatkoznak.
+Szabad forgalomba (eltekintve a Jöt.-ben meghatározott
+kivételektől) elvileg csakis olyan jövedéki termék kerülhet,
+ami után az adót megfizették.
+A jövedéki termékek magas adótartalmat hordoznak. A
+jövedéki termékek körében a törvényeket, előírásokat tu-
+datosan megszegő elkövetési magatartás a jellemző. A Jöt.
+vizsgált szankciói a Jöt. szigorú előírásainak eredménye-
+sebb betartatását és a visszaélések jobb hatásfokú vissza-
+szorítását és megelőzését, végső soron az adófizetés bizto-
+sítását szolgálják.
+2. A lefoglalás és az elkobzás szabályai külön vizsgálan-
+dók, mert más a hatásuk a tulajdonhoz való jogra. A lefog-
+lalás egyfajta ideiglenes intézkedés; átmeneti és szükség-
+képpen feloldandó korlátozást jelent. Belátható időn belül
+kell a hatóságnak döntenie a lefoglalás megszüntetéséről
+vagy az elkobzásról. A Jöt. lefoglalási szabályai ezért nem
+sértik a tulajdonhoz való alapvető jogot.
+Az Alkotmánybíróságnak a tulajdonhoz való alapvető
+jog sérelme szempontjából a jelen esetben külön kellett
+volna vizsgálnia az elkövetőtől, mint tulajdonostól való
+elkobzás és a nem tulajdonostól való elkobzás alkotmá-
+nyosságát. A jelen ügyben a tulajdonhoz való alapvető jog
+sérelme szempontjából nem annak van jelentősége, hogy a
+bíróságot feljogosítja-e a törvény az elkobzás bizonyos
+esetekben való mellőzésére, hanem annak, hogy harmadik
+személy ártatlanul ne szenvedhesse el a tulajdonjogának
+sérelmét.
+Általánosságban nem lehet olyan következtetésre jutni
+a tulajdonhoz való alapvető jogból, hogy tilos a kötelező
+elkobzás törvényi előírása és feltétlenül szükséges mérle-
+gelési lehetőség biztosítása a bíróság számára ebben a kér-
+désben. Nem zárja ki a tulajdonhoz való alapvető jog azt,
+hogy a törvényhozó indokolt esetben eltérést nem enge-
+dően írja elő az elkobzás kötelező eseteit.
+3. Eltérést nem engedő, kötelező szabály feltétlen al-
+kalmazásának előírása önmagában nem teszi formálissá
+sem a jogorvoslatot, sem a bírói utat. Mindkét alapvető jog
+megvalósulása szempontjából elég az, ha a jogorvoslati
+fórum vagy a bíróság valamely döntés törvényességét, jog-
+szabályoknak való megfelelését vizsgálhatja, és hozhat az
+ügyre kiható újabb döntés.
+Mivel a tulajdonhoz való alapvető jog közérdekből kor-
+látozható, nemzetközi egyezmény pedig lehetőséget ad
+arra is, hogy a javak köz érdekében való használatát szabá-
+lyozzák, az Alkotmány 13. §-a alapján az a kívánalom tá-
+masztható az elvonást elrendelő szabállyal szemben, hogy
+az elvonást harmadik személyként, kívülállóként elszenve-
+dő személy esélyt kapjon arra, hogy dolgát visszakapja.
+4. A Jöt. szabályai értelmében a jogsértéssel nem csu-
+pán közvetett, hanem közvetlen és szükségképpeni kap-
+csolatban áll nemcsak a többségi határozatban példálózó
+felsorolásban külön említett, az adózás alól elvont jövedéki
+termék, a hamis zárjegy, a jogosulatlanul birtokolt desztil-
+láló berendezés, hanem a felhasználásra, a tárolásra, a
+szállításra szolgáló eszköz is: a Jöt. megkerülése nélkül
+adózatlan jövedéki termék nem használható fel, nem tárol-
+ható és nem szállítható.
+A felhasználásra, tárolásra és szállításra használt eszkö-
+zök vonatkozásában a Jöt. 81. §-a a lefoglalást és az elkob-
+zást különböző feltételekhez köti.
+A szállításra szolgáló eszköz elkobzását a Jöt. korlátoz-
+za, további feltételhez köti. A Jöt. szerint csak akkor van
+helye elkobzásnak, ha annak az eszköznek, amit szállításra
+használtak, az a személy a tulajdonosa, aki a terméket
+előállította, forgalmazta, birtokolta, illetve ha a tulajdo-
+nosnak tudnia kellett arról, hogy szállítóeszközével adó-
+zatlan jövedéki terméket szállítanak. Az első esetben az
+elkövető és a tulajdonos egybeesik, a másodikban a körül-
+ményekből egy bizonyos „szubjektív viszonyulásra” lehet
+következtetni.
+Ezzel szemben a felhasználásra és tárolásra használt
+eszköznél ilyen korlátozás a Jöt.-ben nincs. A Jöt. az elkö-
+vető tulajdonost és a nem elkövető tulajdonost azonosan
+kezeli. Más kérdés, hogy különösen a tárolásra használt
+eszköznél mondható el, hogy bizonyos jövedéki termékek-
+nél (pl. alkoholtermékek, bor, ásványolaj) általában nem
+lehet indokolatlannak tekinteni a sokszor másra, mint jö-
+vedéki termék tárolására nem is használható tároló eszköz
+elkobzásának kötelező előírását sem.
+A felhasználásra, tárolásra használt eszközöknél a har-
+madik személynek, az ártatlan, jóhiszemű, nem elkövető
+tulajdonosnak az Alkotmány 13. §-a alapján törvényben
+kellene biztosítani a lehetőséget arra, hogy lefoglalt eszkö-
+zét az államtól visszakapja, ha az elkövetővel szemben
+kártérítési igényét nem tudja hatékonyan érvényesíteni;
+más esetben a nem elkövető tulajdonos terhén maradhat,
+ha az elkövetőtől az átengedett dolgát vagy ennek ellenér-
+tékét nem tudja megkapni. A tulajdonhoz való jogot egy
+ilyen szabályozás hiánya sértheti.
+Egyetértek azzal, hogy a többségi határozat értelmében
+a Jöt. elkobzási szabályainál az adózás alól elvont termék
+előállítására használt eszköznek az elkobzása, bárkinek is
+a tulajdona, nem sérti a tulajdonhoz való jogot.
+Véleményem szerint, ha az elkövető a tulajdonosa az
+adózás alól elvont termék felhasználására, tárolására és
+szállítására használt eszköznek, akkor ennek elkobzása
+sem sérti a tulajdonhoz való jogot. Az elkövetőnek számol-
+
+nia kell a tilalom ellenére tudottan így használt eszköze
+elvesztésével — egy ilyen tilalom nem korlátozza szabad-
+ságát alkotmányellenesen, hanem adózási célokat szolgál,
+ez pedig az adott esetben elég közérdek.
+Mindezek alapján véleményem szerint megállapítható
+lett volna, hogy a Jöt. 81. § (1) bekezdése — az e) pontnak
+az adózás alól elvont termék felhasználására és tárolására
+vonatkozó eszközt érintő része kivételével — továbbá a
+81. § (2)—(10) bekezdése nem sérti az Alkotmány 13. §
+(1) bekezdését, sem az 57. § (1) és (5) bekezdését. Ezért a
+kiterjesztett indítványokat ezekben a részükben el kellett
+volna utasítani, és nem lett volna helye a 81. § teljes egész-
+ben való megsemmisítésének.
+Dr. Tersztyánszkyné dr. Vasadi Éva s. k.,
+alkotmánybíró
+A Köztársasági Elnök
+határozatai
