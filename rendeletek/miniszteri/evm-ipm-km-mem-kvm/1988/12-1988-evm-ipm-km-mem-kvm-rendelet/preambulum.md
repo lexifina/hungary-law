@@ -1,0 +1,1 @@
+A nyomvonal jellegű építmények minőségének javítása érdekében, a Ptk. 308. §-ában adott felhatalmazás alapján – az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben – a következőket rendeljük:

@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya a rendelet mellékletében felsorolt egyes nyomvonal jellegű építményeket, létesítményeket és azok műtárgyait alkotó helyszínen készített vagy előregyártott szerkezetekre és berendezésekre (a továbbiakban: nyomvonal jellegű építményszerkezetek) és az azok létrehozásával felhasznált egyes termékekre és anyagokra (a továbbiakban: termék) terjed ki.
+
+(2) A rendelet hatálya nem terjed ki az ideiglenes nyomvonal jellegű építményeket alkotó, valamint az építési kísérleti szerződés alapján kivitelezett nyomvonal jellegű építményeket alkotó – kísérlet tárgyát képező – nyomvonal jellegű építményszerkezetekre és termékekre.
