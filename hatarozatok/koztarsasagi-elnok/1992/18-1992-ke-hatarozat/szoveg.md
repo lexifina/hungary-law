@@ -1,0 +1,1 @@
+A belügyminiszter előterjesztésére Damak településrészt — Edelénnyel történt egyesítését megszüntetve — 1992. március 1. napjával Damak néven községgé nyilvánítom. Damak községgé nyilvánítása nem érinti Edelény városi címét.
