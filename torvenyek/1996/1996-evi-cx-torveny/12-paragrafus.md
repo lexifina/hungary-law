@@ -1,0 +1,1 @@
+12. § Az E. Alap tartósan befektetett eszközök tartalékában nyilvántartott értékpapírok értékvesztése, valamint az egészségbiztosítás tulajdonában álló bérházak értékcsökkenése 1995. év végi elszámolásának a tartósan befektetett eszközök állományát csökkentő hatása 68 millió forint.

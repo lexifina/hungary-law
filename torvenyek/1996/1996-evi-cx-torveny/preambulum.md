@@ -1,0 +1,1 @@
+Az Országgyűlés a társadalombiztosítás pénzügyi alapjai 1995. évi — a társadalombiztosítás pénzügyi alapjainak 1995. évi költségvetéséről és a természetbeni egészségbiztosítási szolgáltatások finanszírozásának általános szabályairól szóló 1995. évi LXXIII. törvényben (a továbbiakban: KT.) meghatározott — költségvetésének végrehajtásáról a következő törvényt alkotja:
