@@ -1,0 +1,1 @@
+7. § Az R. 5. § (2) és (3) bekezdésében meghatározott adatokat az illetékes földhivatal nyolc napon belül köteles megküldeni az építésügyi hatóságnak. Ez a határidő nem számít bele a 8. §-ban meghatározott ügyintézési határidőbe.

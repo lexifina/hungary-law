@@ -1,0 +1,1 @@
+10. § Az építésügyi hatósági engedélyezési eljárásban hozott első fokú, a kérelemnek helyt adó határozat jogerős és végrehajtható, ellene fellebbezésnek helye nincs. A kérelmet elutasító vagy annak részben helyt adó határozat elleni fellebbezés elbírálása során a 8. § rendelkezéseit kell megfelelően alkalmazni.

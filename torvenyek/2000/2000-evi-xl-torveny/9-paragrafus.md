@@ -1,0 +1,3 @@
+9. § (1) Az építési engedély kiadásának nem akadálya, ha a terület beépítettsége a korábbi beépítettségi mértéket tíz százaléknál nem nagyobb mértékben meghaladja.
+
+(2) Az építési engedély kérelem a gépjárművek parkolására előírt feltételek hiánya miatt nem utasítható el, ha az építtető az építési engedély kérelemhez mellékelt nyilatkozatban vállalja, hogy a használatbavételi engedély megkéréséig, de legkésőbb a helyi önkormányzati parkolási rendeletben meghatározott határidőig a szükséges gépkocsi parkolóhelyek kialakításáról a helyi önkormányzati parkolási rendeletben meghatározott helyen és módon gondoskodik.

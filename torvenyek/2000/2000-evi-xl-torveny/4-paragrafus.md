@@ -1,0 +1,1 @@
+4. § Az újjáépítés kivitelezőjének kiválasztása érdekében a Kbt. 42. §-a alapján – előminősítési eljárást követően – a Kbt. 70. § (1) bekezdés c) pontjára figyelemmel tárgyalásos eljárást kell lefolytatni.

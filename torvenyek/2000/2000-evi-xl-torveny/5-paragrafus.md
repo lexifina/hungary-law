@@ -1,0 +1,3 @@
+## Építésügyi hatósági engedélyezési eljárások szabályai
+
+5. § Az építtető kérelmére, a kérelem benyújtásától számított tizenöt napon belül – az építési engedély iránti kérelem benyújtását megelőzően – a szakhatóságok, a közművek, valamint a kéményseprő-ipari szolgáltató szervezet kötelesek dönteni az egyes építményekkel, építési munkákkal és építési tevékenységekkel kapcsolatos építésügyi hatósági engedélyezési eljárásokról szóló 46/1997. (XII. 29.) KTM rendeletet (a továbbiakban: R.) 7. §-a szerinti szakhatósági hozzájárulásról, illetőleg az R. 8. §-a szerinti nyilatkozatról; ha határidőn belül nem nyilatkoznak, a hozzájárulást megadottnak kell tekinteni.
