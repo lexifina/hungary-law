@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között sugaras veszélyhelyzet esetén adandó gyors értesítésről aláírt egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
