@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti, a növényvédelmi karantén és a növényvédelem területén való együttműködésről szóló, Brazíliavárosban, 1999. november 10-én aláírt megállapodást e rendelettel kihirdeti.
