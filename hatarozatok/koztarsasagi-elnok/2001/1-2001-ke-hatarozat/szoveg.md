@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Hajdu András rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság koppenhágai nagykövetségének vezetésére kapott megbízása alól.
