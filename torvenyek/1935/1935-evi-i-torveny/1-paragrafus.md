@@ -1,0 +1,1 @@
+1. § A nemzetközi munkaügyi szervezet IV. egyetemes értekezletén a trianoni békeszerződés XIII. részének (»Munka«) 321. cikkére vonatkozólag Genfben 1922. évi november hó 2-án elfogadott módosítás a magyar állam törvényei közé iktattatik.
