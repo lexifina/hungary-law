@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Major László főkonzult – érdemei elismerése mellett – felmentem e rangja, valamint a Magyar Köztársaság Katalónia, Valencia, a Baleári-szigetek autonóm tartományokra, valamint az Andorrai Hercegség teljes területére kiterjedő hatáskörrel működő barcelonai főkonzulátusának vezetésére kapott megbízása alól.
