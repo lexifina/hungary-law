@@ -1,0 +1,9 @@
+# 137/1996. (X. 22.) KE határozat
+
+határőr dandártábornokká történő kinevezésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-137-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 1996-10-22 | 1996-137-30-76.0 | 137/1996. (X. 22.) KE határozat |
