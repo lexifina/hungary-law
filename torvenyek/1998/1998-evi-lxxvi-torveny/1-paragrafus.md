@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a repülő és légvédelmi szakterületeken történő katonai együttműködésről szóló, Pozsonyban, 1998. február 4-én aláírt Megállapodást (a továbbiakban: Megállapodás) e törvénnyel megerősíti.
