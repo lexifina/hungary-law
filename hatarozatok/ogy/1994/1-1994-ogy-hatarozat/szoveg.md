@@ -1,0 +1,1 @@
+Az országgyűlési képviselők választásáról szóló — többször módosított — 1989. évi XXXIV. törvény 30. §-ának (3) bekezdése alapján az Országgyűlés az Országos Választási Bizottság titkárának dr. Kara Pált, tagjának dr. Erdei Árpádot, dr. Horváth Sándort, dr. Kukorelli Istvánt és dr. Németh Jánost megválasztja.
