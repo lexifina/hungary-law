@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között az idegenforgalmi együttműködésről Moszkvában, 2002. december 20-án létrejött Egyezményt e rendelettel kihirdeti.
