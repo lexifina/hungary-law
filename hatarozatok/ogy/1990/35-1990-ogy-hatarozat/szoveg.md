@@ -1,0 +1,3 @@
+1. Az Országgyűlés megállapítja, hogy a magyarországi németek 1944-től kezdődő elhurcolása, majd az azt követő kitelepítése az emberi jogokat súlyosan sértő, igazságtalan eljárás volt. Az érintettek ártatlanul, nemzetiségi hovatartozásuk miatt szenvedtek. Ezek az intézkedések a magyarországi németek kollektív felelősségre vonásának megnyilvánulásai voltak. Ezért az Országgyűlés részvétét fejezi ki az elhunytak hozzátartozóinak, és együttérzését a szenvedés túlélőinek.
+
+2. Az Országgyűlés felhívja a Kormányt: a kártalanításról terjesszen elő törvényjavaslatot, amely kimondja, hogy a magyarországi németek ugyanolyan elbírálásban részesüljenek, mint azok a nem német nemzetiségű magyar állampolgárok, akik hasonló sérelmeket szenvedtek.
