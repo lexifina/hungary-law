@@ -1,0 +1,1 @@
+Az Alkotmány 30/A. §-ának (1) bekezdése alapján a miniszterelnök javaslatára Kodolányi Gyulát – 1990. november 6-ai hatállyal – a Miniszterelnöki Tanácsadó Testület vezetője, a külföldi kapcsolattartásban a miniszterelnök személyes megbízottja feladatainak ellátására címzetes államtitkárrá kinevezem.
