@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetsége Kormánya között Budapesten, az 1979. évi június hó 1. napján aláírt kulturális és tudományos együttműködési egyezményt e rendelettel kihirdeti.
