@@ -1,0 +1,1 @@
+A Minisztertanács elnökének előterjesztésére dr. Raft Miklós államtitkárt e tisztségéből – saját kérésére, érdemei elismerése mellett, nyugállományba vonulása miatt – 1989. december 15-ei hatállyal felmentem.
