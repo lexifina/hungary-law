@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Csongrádi Kónyaszék Természetvédelmi Terület elnevezéssel a Csongrád 0238, 0240, 0242, 0243, 0264, 0265, 0266, 0267, 0268, 0269, 0270, 0271/2–4, 0271/9, 0271/15, 0271/17, 0271/19, 0271/39–50, 0271/63, 0272/2–6, 0272/12, 0272/15, 0272/16, 0272/19, 0272/20 ingatlan-nyilvántartási helyrajzi számú, összesen 457,6 hektár kiterjedésű területet.
