@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság Országgyűlése a Cseh Köztársaság, a Lengyel Köztársaság, a Magyar Köztársaság és a Szlovák Köztársaság között, 1992. december 21-én aláírt Közép-Európai Szabadkereskedelmi Megállapodást (a továbbiakban: Megállapodás), amely 1994. július 1-jén hatályba lépett, e törvénnyel kihirdeti.
