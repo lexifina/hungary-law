@@ -1,0 +1,1 @@
+3. § A Cct. 3. §-ának (7) bekezdése alapján – törvényi változásból eredően a támogatásban részesülő beruházással ellátandó feladat jelentős változása miatt – a folyamatban lévő beruházásokkal kapcsolatos eredeti döntések igényeinek megnevezése a 3. számú melléklet szerint módosul.
