@@ -1,0 +1,455 @@
+# Az Alkotmánybíróság 12/2002. (III. 20.) AB határozata
+
+Magyar Közlöny 2002. évi 36. szám 1. rész, 2002. március 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3599609708122601dd84b21977d0d1c50a9da53a/dokumentumok/f8ff3cb30056f3d93b7ff16d8b94069576871101/letoltes)
+
+---
+
+Az Alkotmánybíróság
+12/2002. (III. 20.) AB
+határozata
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+Az Alkotmánybíróság önkormányzati rendelet alkot-
+mányellenességének vizsgálatára irányuló eljárásban meg-
+hozta a következő
+határozatot:
+Az Alkotmánybíróság megállapítja, hogy Szentendre
+Város Önkormányzat Képviselő-testületének „Az önkor-
+mányzat és a lakosság együttműködésében megvalósuló,
+út- és közműépítésekről és a kapcsolódó hozzájárulások-
+ról” szóló 44/2000. (IX. 15.) Önk. sz. rendelete 7. és 8. §-a
+alkotmányellenes, ezért azokat megsemmisíti.
+Az Alkotmánybíróság ezt a határozatát a Magyar
+Közlönyben közzéteszi.
+INDOKOLÁS
+I.
+A Pest Megyei Közigazgatási Hivatal vezetője a helyi
+önkormányzatokról szóló 1990. évi LXV. törvény 99. §
+(2) bekezdés a) pontja alapján — mivel a törvényességi
+ellenőrzés körében kiadott felhívásával Szentendre Város
+Önkormányzat Képviselő-testülete nem értett egyet — az
+Alkotmánybírósághoz
+benyújtott
+kezdeményezésében
+Szentendre Város Önkormányzat Képviselő-testületének
+„Az önkormányzat és a lakosság együttműködésében meg-
+valósuló, út- és közműépítésekről és a kapcsolódó hozzá-
+járulásokról” szóló 44/2000. (IX. 15.) Önk. sz. rendelete
+(a továbbiakban: Ör.) VI. fejezet 7. §-a és VII. fejezet 8. §-a
+
+törvényellenességének megállapítását és megsemmisítését
+kezdeményezte.
+Álláspontja szerint a közműépítési érdekeltségi hozzá-
+járulás továbbá az útépítési és közművesítési hozzájárulás
+szabályai ellentétesek az épített környezet alakításáról és
+védelméről szóló 1997. évi LXXVIII. törvény 28. § (2) be-
+kezdésével, mert az Ör. nem tesz különbséget az építés
+költségeihez való hozzájárulás és az utólagos rácsatlakozá-
+si díj megfizetése között.
+Érvelt azzal is, hogy az Ör. támadott szabályai sértik a
+gázelosztó vezetékre vonatkozó hálózatfejlesztési hozzájá-
+rulásról szóló 32/1995. (VIII. 8.) IKM rendelet 1. § (3) be-
+kezdésében foglaltakat, mert hálózatfejlesztési hozzájáru-
+lást csak a gázszolgáltató jogosult kérni a saját tulajdoná-
+ban álló vezetékre.
+Hivatkozott az indítványozó a vízgazdálkodásról
+szóló 1995. évi LVII. törvény 8. § (3) bekezdésében fog-
+laltakra is, véleménye szerint víziközmű esetén nem az
+önkormányzat, hanem a jegyző vethet ki költségeket az
+érdekeltekre, utólagos rácsatlakozás esetére viszont az
+említett törvény díj fizetésének megállapítását nem teszi
+lehetővé.
+Állította azt is, hogy az Ör. kifogásolt szabályozása a
+villamos energia termeléséről, szállításáról és szolgáltatá-
+sáról szóló 1994. évi XLVIII. törvény 44. §-ával is ellenté-
+tes, mert ennek értelmében a szolgáltató köteles az igénye-
+ket kielégíteni, fel sem merül az önkormányzati beruházás.
+Hálózatfejlesztési hozzájárulást pedig csak a szolgáltató
+vethet ki.
+Az indítványozó előadta azt is, hogy az Ör. sérti a közúti
+közlekedésről szóló 1988. évi I. törvény 31. § (2) bekezdé-
+sét, mert útépítési érdekeltségi hozzájárulás fizetésére csak
+akkor lehet kötelezni, ha az útépítési együttműködésben
+az érdekeltek több mint kétharmada részt vesz.
+Minderre figyelemmel az indítvány szerint az Ör. 7. és
+8. §-a sérti a jogalkotásról szóló 1987. évi XI. törvény
+10. §-át és 18. § (2) bekezdését is, mert újraszabályoz már
+szabályozott társadalmi viszonyokat, és ezenkívül a szabá-
+lyozás nem világos, nem közérthető. Álláspontja szerint az
+Ör. alkotmányellenséget idézett elő az Alkotmány 44/A. §
+(2) bekezdésébe ütköző szabályozással.
+II.
+1. Az Alkotmány 44/A. § (2) bekezdése szerint a helyi
+képviselő-testület a feladatkörében rendeletet alkothat,
+amely nem lehet ellentétes a magasabb szintű jogsza-
+bállyal.
+A helyi önkormányzatokról szóló 1990. évi LXV. tör-
+vény 16. § (1) bekezdése szerint a képviselő-testület a tör-
+vény által nem szabályozott helyi társadalmi viszonyok
+rendezésére, továbbá törvény felhatalmazása alapján, an-
+nak végrehajtására önkormányzati rendeletet alkot.
+2. Az Ör. VI. és VII. fejezete a következő szabályokat
+tartalmazza:
+„VI. fejezet
+Utólagos közműcsatlakozás, a közműépítési érdekeltségi
+hozzájárulás
+7. § (1) Azon közművek meglévő elosztó vezetékeiről,
+illetve víziközmű törzshálózatról (a továbbiakban: ge-
+rincvezetékről) leágazni (utólagos csatlakozás), melyek
+az önkormányzat és a lakosság jelen rendeletben szabá-
+lyozott együttműködésében valósultak meg, csak az
+adott gerincvezeték-szakasz beruházási költségének egy
+társulási tagra jutó összegének a fizetési kötelezettség
+megállapításának évében a Központi Statisztikai Hiva-
+tal által megállapított inflációs rátákkal felszorzott tel-
+jes összegének (a továbbiakban: közműépítési érdekelt-
+ségi hozzájárulás) megfizetése után, a hatályos techno-
+lógia előírások szerint lehetséges. Akkor is meg kell
+fizetni a közműépítési érdekeltségi hozzájárulást, ha az
+adott gerincvezeték korábban és más formában, de helyi
+erőből (tanácsi, később önkormányzati és/vagy lakossági
+pénzeszközökből) létesült, üzemeltetésre és/vagy tulaj-
+donba át lett adva az érintett közműszolgáltatónak, vi-
+szont vagy az önkormányzat érte nem kapott értékének
+megfelelő juttatást, a hozzájárulás önkormányzat általi
+beszedését pedig jogszabály nem tiltja, vagy szolgáltató-
+val kötött megállapodás a hozzájárulás önkormányzat
+általi beszedését konkrétan lehetővé teszi.
+(2) Az adott gerincvezeték-szakasz üzembe helyezését
+követő 10 éven túl jelentkező utólagos csatlakozónak a
+10. évben fizetendő hozzájárulást kell megfizetni.
+(3) A közműépítési érdekeltségi hozzájárulást az önkor-
+mányzat részére kell megfizetni, ezen bevételt kizárólag
+együttműködésben megvalósuló út- és közműépítések tá-
+mogatására lehet fordítani.
+(4) Az (1) bekezdésben említett közműépítési érdekelt-
+ségi hozzájárulást minden olyan mérővel elkülönített utó-
+lagos fogyasztónak (az ingatlan tulajdonosa vagy haszon-
+élvezője vagy használója) kell fizetni, mely mérő a szolgál-
+tatóval történő elszámolásra szolgál.
+(5) Az egy telken lévő több lakás, illetve lakásrész ese-
+tében a hozzájárulások lakásonként, illetve lakásrészen-
+ként fizetendők, függetlenül attól, hogy a telek már esetleg
+rendelkezik leágazással.
+(6) Amennyiben a leágazó vezeték utólag kiépítendő,
+akkor az az utólagos csatlakozó feladata és költsége.
+A hozzájárulás kiszámításánál az (1) bekezdésben említett
+egy társulási tagra jutó összegből le kell vonni az elosztó
+vezeték építésekor elkészült leágazó vezetékek létesítés-
+kori átlagos egységárát.
+(7) Utólagos fogyasztó: aki az elosztó vezeték létesítése-
+kor a költségekhez bármely oknál fogva nem járult hozzá,
+mert az együttműködésből bármely oknál fogva kimaradt,
+
+vagy szándékát késve jelezte, ezért befizetésével és számára
+a leágazó kiépítésével már nem lehetett kalkulálni.
+(8) A közműépítési hozzájárulás megfizetésével szerzett
+ellátási jogosultság nem személyhez, hanem az ingatlanhoz
+vagy a lakáshoz vagy a lakásrészhez kötődik, a jogosultság
+az új tulajdonosra, használóra átruházható.
+(9) A fizetendő közműépítési érdekeltségi hozzájárulást
+a polgármester határozza meg, aki méltányosságból két
+részletben történő megfizetést engedélyezhet.
+(10) A közműépítési érdekeltségi hozzájárulást megha-
+tározó polgármesteri határozat ellen a Képviselő-testület-
+hez lehet fellebbezni, a kézhezvételtől számított 15 napon
+belül.
+VII. fejezet
+Az önkormányzat saját elhatározásából létesült út-
+és közműépítések költségeinek áthárítása, az útépítési
+és közművesítési hozzájárulás
+8. § (1) Amennyiben — jelen rendelet hatálybalépését
+követően — az önkormányzat saját elhatározásából
+előközművesít, és annak költségeinek az érintett ingatlan-
+tulajdonosokra történő áthárításáról (részben vagy egész-
+ben) is döntött a Képviselő-testület a költségvetésről szóló
+rendeletében, akkor a fizetendő útépítési és közművesítési
+hozzájárulást az elkészült út, illetve közmű üzembe helye-
+zését követő 1 éven belül a Képviselő-testület által átruhá-
+zott hatáskörben eljárva a polgármester írja elő.
+(2) Az útépítési és közművesítési hozzájárulást az ingat-
+lannak a kötelezettséget előíró határozat meghozatalának
+időpontjában lévő tulajdonosának kell megfizetni, több
+tulajdonos esetén a tulajdoni arányok szerint.
+(3) Az útépítési és közművesítési hozzájárulást megha-
+tározó határozat ellen a Képviselő-testülethez lehet felleb-
+bezni, a kézhezvételtől számított 15 napon belül.
+(4) Az útépítési és közművesítési hozzájárulás összegét
+a határozat jogerőre emelkedésétől számított 60 napon
+belül kell megfizetni.
+(5) Az útépítési és közművesítési hozzájárulás mértéke:
+az áthárítandó költségek egy ingatlanra jutó összege a
+fizetési kötelezettség megállapításának évében a Központi
+Statisztikai Hivatal által megállapított inflációs rátákkal
+felszorzott összege.
+(6) A Képviselő-testület által átruházott hatáskörben
+eljárva a polgármester méltányosságból maximum 12 havi,
+különösen méltányos esetben 24 havi kamatmentes rész-
+letfizetést engedélyezhet a kötelezett kérelmére, melyet a
+határozat kézhezvételétől számított 15 napon belül kell
+benyújtani.
+(7) Késedelmes fizetés esetén a Ptk. szerinti késedelmi
+kamattal növelt hozzájárulást kell megfizetni.
+(8) A teljesítés elmulasztása esetén az útépítési és köz-
+művesítési hozzájárulás közadók módjára behajtható. Az
+útépítési és közművesítési hozzájárulás megfizetéséig a
+fizetésre kötelezett tulajdonában lévő ingatlanra az ingat-
+lan-nyilvántartásba jelzálogjogot lehet bejegyezni.
+(9) Az útépítési és közművesítési hozzájárulás szem-
+pontjából érintett ingatlan:
+— útépítés esetén: amely ingatlan határos a megépült
+közúttal,
+— közmű építés esetén: amely ingatlanhoz közvetlen
+leágazás létesíthető a megépült elosztó vezetékről.
+(10) Az az ingatlan, amely két vagy több oldalról érintett
+ingatlan, az előbb megépült út, illetve közmű szempontjá-
+ból tekintendő érintettnek. A két vagy több oldalról érin-
+tett ingatlan tulajdonosa csak egy közút, illetve közmű
+megépítése során kötelezhető útépítési és közművesítési
+hozzájárulás megfizetésére.
+(11) A 8. § szerint fizetett útépítési és közművesítési
+hozzájárulásokat elkülönített számlán kell kezelni, a bevé-
+telt az önkormányzat csak az önkormányzati úthálózat
+fejlesztésére, illetve közműfejlesztésekre fordíthatja.”
+3. Az indítvánnyal érintett, az Ör.-nél magasabb szintű
+jogszabályok és rendelkezéseik a következők:
+Az épített környezet alakításáról és védelméről szóló
+1997. évi LXXVIII. törvény (a továbbiakban: Étv.) „Út-
+építési és közművesítési hozzájárulás” cím alatt a követke-
+zőket tartalmazza:
+„28. § (1) A helyi építési szabályzatban, illetőleg a sza-
+bályozási tervben a területre előírt kiszolgáló utakat és a
+közműveket az újonnan beépítésre szánt, illetve a rehabi-
+litációra kijelölt területeken legkésőbb az általuk kiszol-
+gált építmények használatbavételéig meg kell valósítani.
+E kötelezettség teljesítése, ha jogszabály vagy megállapo-
+dás arra mást nem kötelez, a települési — a fővárosban
+megosztott feladatkörüknek megfelelően a fővárosi, illetve
+a fővárosi kerületi — önkormányzat feladata.
+(2) Ha a helyi közutat, illetőleg közművet a települési
+önkormányzat létesíti, annak költségét részben vagy egész-
+ben az érintett ingatlanok tulajdonosaira háríthatja.
+A hozzájárulás mértékét és arányát az érintett ingatlanok
+tekintetében a települési önkormányzat rendelettel szabá-
+lyozza.”
+A közúti közlekedésről szóló 1988. évi I. törvény
+(a továbbiakban: Kt.) 31. § (1) bekezdése szerint a közút
+használatában érdekelt természetes és jogi személyek, jogi
+személyiség nélküli gazdasági társaságok, valamint a helyi
+önkormányzat az alapvetően helyi lakossági érdeket szol-
+gáló közút építésére (földút szilárd burkolattal való ellátá-
+sára) együttműködhetnek. Az együttműködés (a továb-
+biakban: útépítési együttműködés) formáját a résztvevők
+maguk határozzák meg.
+A (2) bekezdés szerint a helyi önkormányzat — ha az
+útépítési együttműködésben az érdekeltek több mint két-
+harmada részt vesz — az abban részt nem vevő, de a közút
+használatában érdekelt természetes és jogi személyt, jogi
+
+személyiség nélküli gazdasági társaságot a résztvevők által
+vállalt anyagi hozzájárulás mértékéig — a rendeletében
+meghatározott módon — útépítési érdekeltségi hozzájáru-
+lás fizetésére kötelezheti.
+A gázelosztó vezetékre vonatkozó hálózatfejlesztési
+hozzájárulásról szóló 32/1995. (VIII. 8.) IKM rendelet
+(a továbbiakban: R.) 1. § (1) bekezdése szerint e rende-
+let hatálya a gázellátásba újonnan bekapcsolandó tele-
+püléseken, településrészeken levő fogyasztók igényének
+kielégítését szolgáló gázelosztó vezeték gázszolgáltató
+által történő létesítéséhez, bővítéséhez (a továbbiakban:
+beruházás) szükséges, valamint a meglevő elosztóveze-
+tékre utóbb rákapcsolódók által fizetendő hálózatfej-
+lesztési hozzájárulás (a továbbiakban: hozzájárulás)
+megállapítására terjed ki.
+A (3) bekezdés kimondja, hogy a gázszolgáltató legfel-
+jebb a melléklet alapján kiszámított és a 3. §-ban leírtak-
+nak megfelelő hozzájárulást jogosult kérni saját tulajdonú
+elosztó vezetékére az újonnan bekapcsolandó fogyasztók-
+tól.
+A vízgazdálkodásról szóló 1995. évi LVII. törvény
+(a továbbiakban: Vt.) 8. § (1) bekezdése úgy szól, hogy a
+közérdek mértékét meghaladó, illetve a 7. §-ban nem em-
+lített tevékenység — vízimunka, vízilétesítmény építése —
+többletköltségeit az igénylők kötelesek megtéríteni.
+A (2) bekezdés szerint a helyi közcélú vízilétesítmények,
+illetve a közcélú vízimunkák költségeit, vízitársulat esetén
+a tagok a társulati érdekeltségi szabályok szerint, vízitársu-
+lat hiányában az érdekeltek érdekeltségük arányában kö-
+telesek viselni (közcélú érdekeltségi hozzájárulás).
+A (3) bekezdés kimondja, hogy a vízitársulat hiányában
+a (2) bekezdés szerinti költségeket az államigazgatási eljá-
+rás általános szabályairól szóló törvény rendelkezései sze-
+rint lefolytatott eljárásban hozott határozatával érdekelt-
+ségük arányában az érdekeltekre a jegyző veti ki.
+A 45. § (7) bekezdés d) pontja szerint felhatalmazást
+kap a Kormány a társulatok megalakulásával, működésé-
+vel, megszűnésével, az e törvényen alapuló és a társulat
+belső szabályozási feladatkörébe nem utalt közcélú érde-
+keltségi hozzájárulással kapcsolatos szabályok rendelet-
+ben történő megállapítására.
+A villamos energia termeléséről, szállításáról és szolgál-
+tatásáról szóló 1994. évi XLVIII. törvény(a továbbiakban:
+Vet.) 44. §-a szerint villamos energiát vételezni kívánó új,
+illetőleg többletteljesítményt igénylő fogyasztó igénybeje-
+lentésére, meglevő fogyasztó igényváltoztatására a szolgál-
+tató köteles az igény (igényváltoztatás; a továbbiakban
+együtt: igény) kielégítésének műszaki-gazdasági feltételei-
+ről tájékoztatást adni, és a legkedvezőbb vételezési mód
+meghatározásában az igénylővel együttműködni. A szol-
+gáltató a tájékoztatójában a miniszter rendeletében meg-
+határozott hálózatfejlesztési hozzájárulás fizetését kérhe-
+ti. Az így elkért hálózatfejlesztési hozzájárulás fejében vég-
+zett szolgáltatásnyújtás mentes az általános forgalmi adó
+fizetése alól.
+III.
+Az indítvány megalapozott.
+1. A 914/B/2000. AB határozat olyan önkormányzati
+rendelet törvény- és alkotmányellenségét vizsgálta, amely
+az önkormányzat által megvalósuló út- és közműépítési
+beruházásokhoz történő lakossági hozzájárulásról szólt.
+Az Alkotmánybíróság az Étv. és a Kt. viszonyát vizsgálva
+megállapította, hogy „az Étv.-ben szabályozott megoldás
+mellett egyidejűleg hatályos a Kt., annak 31. §-a. A Kt.-ban
+kialakított törvényi megoldás az útépítési együttműködést
+szabályozza: az érdekeltek a közút építésére együttműköd-
+hetnek, az együttműködés formáját maguk határozzák
+meg. A (2) bekezdés szerint, ha az útépítési együttműkö-
+désben az érdekeltek több mint kétharmada részt vesz, a
+helyi önkormányzat az együttműködésben részt nem vevő,
+de a közút használatában érdekelt természetes és jogi sze-
+mélyt, jogi személyiség nélküli gazdasági társaságot a részt-
+vevők által vállalt anyagi hozzájárulás mértékéig útépítési
+érdekeltségi hozzájárulás fizetésére kötelezheti. A közút
+megépítése ugyanis az együttműködésben részt nem vevő
+érintett ingatlanok tulajdonosainak is érdeke (a közút
+használatától el nem zárhatók), ez növeli az ingatlanjaik
+értékét”. Az Alkotmánybíróság álláspontja szerint az in-
+dítvány azért volt megalapozatlan, mert az a vonatkozó
+törvényi rendelkezések téves értelmezésén alapult.
+A határozat szerint „a közutak, közművek létesítése,
+fenntartása olyan helyi közügy, amelynek megoldására
+részben törvény kötelezi a települési önkormányzatokat,
+részben a települési önkormányzatok a lakossági igények
+és a saját, valamint a lakosság anyagi teherbírása szerint
+vállalják a megvalósítást. A lakossági érdekeltségi hozzá-
+járulás önkormányzati rendeletben történő megállapításá-
+ra törvényi felhatalmazása van a települési önkormányza-
+toknak. Közút építése esetén a két jogintézmény egymás
+mellett él, egymással nem ellentétes, a gyakorlati megol-
+dásban választási lehetőséget nyújt a települési önkor-
+mányzatoknak, illetve az érintett ingatlanok tulajdonosai-
+nak. Az Étv. 28. § (2) bekezdése általános felhatalmazást
+ad a települési önkormányzatoknak, nem szűkíti a költsé-
+gek részben vagy egészben történő áthárításának a lehető-
+ségét az (1) bekezdés szerinti területekre.” (ABK 2001.
+október, 522., 524—525.).
+Az Ör. 7. és 8. §-a az Étv.-ben meghatározott „útépítési
+és közművesítési hozzájárulás”-ról szól; a települési ön-
+kormányzat által létesített helyi közút, illetőleg közmű
+költségének az érintett ingatlanok tulajdonosaira való át-
+háríthatóságát, a hozzájárulás megfizetése esedékességét,
+mértékét és egyéb részletszabályait tartalmazza.
+Az idézett magasabb szintű jogszabályok alapján megál-
+lapítható, hogy az Étv.-ben meghatározott feltételek sze-
+rinti útépítési hozzájárulás nem azonos a Kt. 31. § (2) be-
+kezdése szerinti útépítési érdekeltségi hozzájárulással.
+
+2. Az idézett magasabb szintű jogszabályok alapján
+megállapítható az is, hogy az Étv.-ben meghatározott fel-
+tételek szerinti közművesítési hozzájárulás (célját, jogo-
+sultját, mértékét és egyéb feltételeit tekintve) nem azonos
+az R. 1. § (1) bekezdése szerint a meglevő elosztóvezetékre
+utóbb rákapcsolódók által fizetendő hálózatfejlesztési
+hozzájárulással és a Vet. 44. §-a szerinti hálózatfejlesztési
+hozzájárulással.
+Az Ör. 7. és 8. §-a csak az önkormányzat és a lakosság
+együttműködésében épített közmű beruházási költségei-
+hez való hozzájárulást ír elő, ezt az Ör. az Étv.-ben kapott
+felhatalmazás alapján kifejezetten megtehette. Az az
+Ör.-beli szabály, amely szerint a gerincvezetékről leágazni
+a hozzájárulás megfizetése után lehetséges, csupán a hoz-
+zájárulás esedékességét határozza meg.
+Az R.-ben szabályozott hálózatfejlesztési hozzájárulás a
+gázszolgáltatót a vezetékesgáz-szolgáltatással, ennek bő-
+vülésével összefüggésben illeti meg. Az R. szabályaiból
+kitűnik, hogy ez a hozzájárulás nem csupán a vezeték léte-
+sítéséhez, bővítéséhez kapcsolódik, hanem a meglévő ve-
+zetékre utóbb rákapcsolódók is kötelesek fizetni.
+A Vet. 44. §-a szerint a szolgáltató a villamos energiát
+vételezni kívánó új, illetőleg többletteljesítményt igénylő
+fogyasztó tekintetében kérhet hálózatfejlesztési hozzájá-
+rulást. Ez a hozzájárulás a villamos energia növekvő mérvű
+szolgáltatásához kapcsolódik és nem a közmű létesítésé-
+nek költségéhez.
+3. A Vt. a közcélú érdekeltségi hozzájárulást szabályoz-
+za, amelyet az érdekeltek vízitársulatnál a társulati érde-
+keltségi szabályok szerint, ennek hiányában érdekeltségük
+arányában kötelesek viselni.
+A Vt. 36. § (1) bekezdése szerint a társulat akkor jön
+létre, ha az érdekeltségi területen ingatlantulajdonnal ren-
+delkező, illetve az ingatlant egyéb jogcímen használó ter-
+mészetes és jogi személyeknek, jogi személyiséggel nem
+rendelkező gazdasági társaságoknak (a továbbiakban: ta-
+goknak) az érdekeltségi egység aránya szerint számított
+többsége az alakuló közgyűlésen a) elhatározza a társulat
+megalakulását, b) elfogadja a társulat alapszabályát, és
+c) megválasztja a társulat testületi vezető szerveit és tiszt-
+ségviselőit. A (2) bekezdés szerint a társulat megalakításá-
+hoz az alakuló közgyűlésen a tagok érdekeltségi egység
+szerint számított legalább kétharmados többségének dön-
+tése szükséges.
+A Vt. 34. § (4) bekezdése szerint a társulat tagjai az
+érdekeltségi területen ingatlantulajdonnal rendelkező
+vagy az ingatlant egyéb jogcímen használó természetes és
+jogi személyek, jogi személyiséggel nem rendelkező gazda-
+sági társaságok.
+A Vt. 7. § (3) bekezdésére figyelemmel a helyi önkor-
+mányzat vízgazdálkodási társulat útján köteles gondoskod-
+ni a tulajdonában lévő vizekről, vízilétesítményekről.
+A Vt. 8. § (2) bekezdése szerint a helyi közcélú víziléte-
+sítmények, illetve a közcélú vízimunkák költségeit, vízitár-
+sulat esetén a tagok a társulati érdekeltségi szabályok sze-
+rint, vízitársulat hiányában az érdekeltek érdekeltségük
+arányában kötelesek viselni (közcélú érdekeltségi hozzájá-
+rulás). A (3) bekezdés szerint vízitársulat hiányában a költ-
+ségeket az államigazgatási eljárás általános szabályairól
+szóló törvény rendelkezései szerint lefolytatott eljárásban
+hozott határozatával érdekeltségük arányában az érdekel-
+tekre a jegyző veti ki.
+Az Ör. 3. § (3) bekezdése kimondja, hogy közműépíté-
+sekkel érintett ingatlanok tulajdonosai a hatályos jogsza-
+bályi előírásoknak megfelelő építőközösséget (társulást)
+hoznak létre. Az Ör. 2. § (3) bekezdése értelmében közmű-
+építés: ivóvíz, valamint szennyvíz- és csapadékvíz-elveze-
+tést szolgáló közmű elosztó hálózatának fejlesztése a telek-
+határig.
+Az Ör. 7. és 8. §-a a víziközműre vonatkozó részében a
+Vt.-ben szabályozott társadalmi viszonyt rendez.
+Megállapítható ugyanis, hogy a vízgazdálkodás szabá-
+lyait, a vízilétesítmények, vízimunkák létesítése költségei-
+nek viselését, kivetését stb. a Vt.; a társulatok megalakulá-
+sával, működésével, megszűnésével, a Vt.-en alapuló és a
+társulat belső szabályozási feladatkörébe nem utalt közcé-
+lú érdekeltségi hozzájárulással kapcsolatos szabályokat
+pedig a vízgazdálkodási társulatokról szóló 160/1995.
+(XII. 26.) Korm. rendelet tartalmazza.
+Az Ör. 7. és 8. §-a a víziközműre vonatkozó részében
+ellentétes a Vt. 8. § (2)—(3) bekezdéseivel és sérti az Al-
+kotmány 44/A. § (2) bekezdését.
+Az Alkotmánybíróságról szóló 1989. évi XXXII. törvény
+(a továbbiakban: Abtv.) 40. §-a értelmében, ha az Alkot-
+mánybíróság a jogszabály alkotmányellenességét állapítja
+meg, azt teljesen vagy részben megsemmisíti.
+Az elbírált esetben az Ör. támadott 7. és 8. §-a részleges
+megsemmisítése a szövegösszefüggésekre, a jogszabálynak
+a gyakorlatban való alkalmazhatósága szempontjaira is
+figyelemmel nem volt lehetséges.
+Az Alkotmánybíróság ezért az alkotmányellenesség kö-
+vetkezményeit — az Abtv. 40. §-a alapján — az Ör. 7. és
+8. §-a teljes egészében való megsemmisítésével vonta le a
+rendelkező részben foglaltak szerint.
+A határozat közzététele az Abtv. 41. §-án alapul.
+Dr. Bihari Mihály s. k., Dr. Strausz János s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Tersztyánszkyné dr. Vasadi Éva s. k.,
+előadó alkotmánybíró
+Alkotmánybírósági ügyszám: 1056/H/2001.
