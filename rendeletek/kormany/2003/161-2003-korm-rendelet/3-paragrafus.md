@@ -1,0 +1,551 @@
+## 2. § A 2002. évi Éves Pénzügyi Megállapodás magyar nyelvű fordítása a következő:
+
+## ,,
+
+## 2002. ÉVI ÉVES PÉNZÜGYI MEGÁLLAPODÁS
+
+## Az Európai Közösség Bizottsága, a továbbiakban ,,a Bizottság'', amely az Európai Közösség, a továbbiakban ,,a Közösség'', nevében és megbízásából jár el,
+
+## egyik részről, valamint
+
+## a Magyar Köztársaság
+
+## másik részről,
+
+## és a továbbiakban együttes elnevezéssel ,,a Szerződő Felek'',
+
+## tekintettel arra, hogy
+
+## (1) a Tanács 1999. június 21-én kelt 1268/1999/EK sz. Rendelete a tagjelölt közép- és kelet-európai országokban az előcsatlakozási időszakban a mezőgazdaság és vidékfejlesztés területén kezdeményezett előcsatlakozási intézkedések közösségi támogatásáról létrehozta a Közösség pénzügyi hozzájárulását biztosító Különleges Előcsatlakozási Programot a mezőgazdaság és vidékfejlesztés támogatására (a továbbiakban ,,SAPARD'');[^1]
+
+## (2) a 1268/1999/EK sz. Rendelet 4. Cikke (5) bekezdésével összhangban 2000. október 18. napján hozott Határozattal Mezőgazdasági és Vidékfejlesztési Programként jóváhagyták a Magyar Köztársaság által előterjesztett tervet;
+
+## (3) az Európai Közösség nevében eljáró Bizottság és a Magyar Köztársaság között létrejött Többéves Pénzügyi Megállapodás, a továbbiakban Többéves Pénzügyi Megállapodás, 2001. június 15-én aláírásra került, és ez a 2. Cikkben úgy rendelkezik, hogy a Közösség pénzügyi kötelezettségvállalásait éves pénzügyi megállapodásokban kell meghatározni;
+
+## (4) meg kell határozni a Közösség pénzügyi kötelezettségvállalásait a 2002. évre a Mezőgazdasági és Vidékfejlesztési Program és a program bármilyen módosításának magyarországi végrehajtása céljából (a továbbiakban ,,a Program''), illetve a kötelezettségvállalás érvényességének időtartamát. A 2002. évi pénzügyi kötelezettségvállalás kifizetéseinek érvényességi időtartama alatt sor kerülhet a Közösség bővítésére. Ezért a SAPARD Hivatal végső kedvezményezettel történő szerződéskötési határidejének elővigyázatos korlátozására van szükség a SAPARD eszköz és – a Magyar Köztársaságnak, mint immár Európai Uniós tagnak – vidékfejlesztés céljára nyújtott új támogatási formák közötti megfelelő átmenet biztosítása érdekében. Erre bármely lehetséges Csatlakozási Szerződés eredményeitől függetlenül sor kerül;
+
+## (5) a 2001. december 17-i 2500/2001. Tanácsi Rendelet 12. (4) Cikke, mely a 1268/1999-es jogszabályt módosítja, kiterjeszti Ciprus, Málta és Törökország természetes és jogi személyeire a pályázati kiírásban, illetve szerződésekben való részvételi jogot ugyanazokkal a feltételekkel, melyek a Tagállamok és kedvezményezett országok természetes és jogi személyeire vonatkoznak, többek között SAPARD esetében. Az előbbiekre való tekintettel szükséges olyan jogok biztosítása fenti országok részére, amelyek lehetővé teszik számukra ugyanazoknak a származásra vonatkozó előírásoknak az alkalmazását, amelyek a Tagjelölt Országok számára is biztosítottak;
+
+## (6) a 2002 augusztusában rendkívüli természeti katasztrófák okozta áradások tekintetében, a Többéves Pénzügyi Megállapodásnak a Közösség és a Magyar Köztársaság között történt aláírása óta szerzett tapasztalatok alapján szükségesnek tűnik az említett Megállapodás bizonyos további módosítása. Különösen szükséges bizonyos intézkedések projekt kiválasztásra vonatkozó előírásainak módosítása,
+
+## az alábbiakban állapodtak meg:
+
+## 1. Cikk
+
+## Célkitűzések
+
+## Jelen Megállapodás meghatározza a Közösség Magyar Köztársaságra vonatkozó 2002. évi pénzügyi kötelezettségvállalását. Ezen kívül módosítja a 2001. 03. 01. dátummal aláírt Többéves Pénzügyi Megállapodást.
+
+## 2. Cikk
+
+## Kötelezettségvállalás
+
+## A Közösség 2002. évi pénzügyi hozzájárulásának maximális összege 40.578.737 euró. Ez a kötelezettségvállalás kizárólag a Programnak a Közösség és a Magyar Köztársaság között létrejött Többéves Pénzügyi Megállapodással összhangban való végrehajtására érvényes.
+
+## 3. Cikk
+
+## A kötelezettségvállalás időtartama
+
+## A Bizottság automatikusan visszavonja a kötelezettségvállalás minden olyan, a 2. Cikkben hivatkozott részét, amelyet 2004. december 31-ig előleg-átutalás keretében nem kötöttek le, illetve amelyre ezen időpontig nem érkezett elfogadható átutalási igénylés.
+
+## Tekintet nélkül a Magyar Köztársaság Csatlakozási Szerződésében meghatározásra kerülő rendelkezésekre, jelen Megállapodásra vonatkozó, Közösségi forrásokat tartalmazó szerződést a SAPARD Hivatal bármely végső kedvezményezettel nem köthet a Magyar Köztársaság, mint az Európai Unió tagállama számára nyújtott Vidékfejlesztési támogatás valamely formáját tartalmazó szerződés megkötésének dátumát követően.
+
+## 4. Cikk
+
+## A Többéves Pénzügyi Megállapodás módosítása
+
+## A Bizottság és a Magyar Köztársaság között létrejött Többéves Pénzügyi Megállapodás a következők szerint módosul:
+
+## 1. A 8. Cikk helyébe a következő szöveg kerül:
+
+## ,,
+
+## 8. Cikk
+
+## Kapcsolattartók
+
+## 1. Jelen Megállapodás és/vagy a 2. Cikkben meghatározott Éves Pénzügyi Megállapodások hatálya alá tartozó bármely ügyben – kivéve az ,,F'' Melléklet, ,,I'' Függelékében feltüntetett információk tekintetében – írásbeli kapcsolattartás esetén a levelezést – adott esetben a Program számának és címének feltüntetésével – az alábbi címre kell továbbítani:
+
+## A Közösség részére:
+
+## Európai Közösségek Bizottsága
+
+## Mezőgazdasági Főigazgatóság
+
+## SAPARD Részleg
+
+## Rue de la Loi 130, B-1049 Brüsszel
+
+## Telefonszám: 00 32 2 296-7337
+
+## Fax: 00 32 2 295-1746
+
+## E-mail: agri-sapard@cec.eu.int
+
+## A Magyar Köztársaság részére:
+
+## Kovács Álmos helyettes államtitkár
+
+## Nemzeti Programengedélyező
+
+## Pénzügyminisztérium
+
+## 1051 Budapest, József nádor tér 2–4.
+
+## Telefonszám: 36 1 327-2114
+
+## Fax: 36 1 318-3805
+
+## E-mail: almos.kovacs@pm.gov.hu
+
+## 2. Jelen Megállapodás és/vagy a 2. Cikkben meghatározott Éves Pénzügyi Megállapodások hatálya alá tartozó, az ,,F'' Melléklet, ,,I'' Függelékében feltüntetett információk tekintetében írásbeli kapcsolattartás esetén a levelezést – adott esetben a Program számának és címének feltüntetésével – az alábbi címre kell továbbítani:
+
+## A Közösség részére:
+
+## Európai Bizottság
+
+## European Anti-Fraud Office (OLAF)
+
+## C Igazgatóság
+
+## 30, Rue Joseph II
+
+## B-1049 Brüsszel
+
+## A Magyar Köztársaság részére:
+
+## Kovács Álmos helyettes államtitkár
+
+## Nemzeti Programengedélyező
+
+## Pénzügyminisztérium
+
+## 1051 Budapest, József nádor tér 2–4.
+
+## Telefonszám: 36 1 327-2114
+
+## Fax: 36 1 318-3805
+
+## E-mail: almos.kovacs@pm.gov.hu''
+
+## 2. Az ,,A'' Mellékletben
+
+## – Az 5. (1) Cikk b) pontja az alábbiak szerint módosul:
+
+## ,,b) A projekt kiválasztása, beleértve a rangsorolási kritériumok alkalmazását.
+
+## Mindazonáltal:
+
+## (i) abban az esetben, amikor a Program érintett intézkedésére csak egy kijelölt kedvezményezett van;
+
+## (ii) a Program agrár-környezetvédelmi intézkedése kapcsán a projekt kiválasztás végrehajtása egy vagy több kijelölt szervezet részére átadásra került és;
+
+## (iii) a Program infrastruktúrát is érintő projektjei esetében a projekt kiválasztás átadásra került egy vagy több kijelölt szervezet részére;
+
+## a SAPARD Hivatal – függetlenül minden egyéb felelősségétől, beleértve a jogosultság megítélését – nem hajthat végre projektkiválasztást.''
+
+## – Az 5. (7) Cikk az alábbiak szerint módosul:
+
+## ,,7. A beruházási projektek esetében – a jelentős nettó bevételt nem generáló infrastruktúra-fejlesztési beruházások kivételével – a SAPARD Hivatal gondoskodik arról, hogy a program bármely projektje esetében az összes forrásból származó halmozott értéke nem haladja meg az összes elismerhető költség 50%-át. A képzési intézkedések humán tőkének minősülnek és ezen bekezdés rendelkezései szempontjából nem tekinthetők beruházásnak.''
+
+## – A 8. (1) Cikk b) pontja az alábbiak szerint módosul:
+
+## ,,b) a kedvezményezettnél felmerült és eredeti számlákkal igazolt költségnyilatkozatok, illetve egyéb vonatkozó dokumentumok – amennyiben a támogatás nem kiadás formájában jelentkezik – alapján teljesítsék. Az ilyen nyilatkozatok csak olyan kiadásokat, illetve – amennyiben a támogatás nem kiadás formájában jelentkezik – olyan eseményeket tartalmazhatnak, amelyek a szerződés megkötését követően merültek fel, illetve következtek be, amely szerződés értelmében a kérelmező a Program keretében a szóban forgó projektre vonatkozóan kedvezményezett lett, kivéve a megvalósíthatósági és egyéb tanulmányokat, valamint a Technikai Segítségnyújtás intézkedést. A Technikai Segítségnyújtás intézkedés keretében végzett tevékenységek kivételével a költségek azonban semmiképpen sem vonatkozhatnak ezen mellékletnek 3. Cikke (1) bekezdésében hivatkozott bizottsági Határozatban megnevezett dátumnál (dátumoknál) korábban kiválasztott projektekre, a SAPARD Hivatal és a kedvezményezettek között vagy nevezettek megbízásából létrejött szerződésekre és kifizetett költségekre. Amennyiben a SAPARD Hivatal nem őrzi meg az ebben az albekezdésben hivatkozott eredeti számlákat vagy egyéb bizonylatokat, a SAPARD Hivatal gondoskodik másolatok készítéséről, illetve megtesz minden intézkedést annak érdekében, hogy az ellenőrzések és vizsgálatok során az eredeti példányok hozzáférhetők legyenek.''
+
+## – A 10. (1) Cikk b) pontja az alábbiak szerint módosul:
+
+## ,,b) a SAPARD Hivatal által teljesített túlfizetéseknél, és a Hivatal által vissza nem szerzett tartozások esetében, valamint azon tartozások esetében, amelyek a főkönyvben történt rögzítést követő 2 éven belül nem kerültek beszedésre a kiadás SAPARD Hivatal számláin való elkönyvelésének hónapját megelőző hónapban a Bizottság utolsó előtti munkanapján jegyzett árfolyam. A kedvezményezett vagy meghatalmazottja nevére kiállított fizetési megbízás keltének a számlákon feltüntetett dátum minősül.''
+
+## – A 14. Cikk 2.3.6. pontja az alábbiak szerint módosul:
+
+## ,,2.3.6. Függetlenül az 5. (1) b) Cikk rendelkezéseitől, pontosan meghatározzák és dokumentálják a kérelmek elbírálásának kritériumait és a kérelmek elbírálásának elsőbbségi sorrendjét.''
+
+## – A 14. Cikk 2.6. pontja az alábbiak szerint módosul:
+
+## ,,2.6. A Magyar Köztársaságban az árukra, munkák és szolgáltatásokra vonatkozó közbeszerzési szabályoknak összhangban kell lennie a Bizottság ,,Service, Supply, and Work Contracts concluded within the Framework of Community Co-operation for the Third Countries''[^2] c. kézikönyvében lefektetett szabályokkal. A Bizottság ex-ante jóváhagyásának követelménye azonban ezekre az esetekre nem vonatkozik. A beszerzett áruknak, munkáknak, gépeknek és szolgáltatásoknak a Közösségből vagy az ,,F'' melléklet 8. pontjában hivatkozott országokból kell származniuk.
+
+## – A Megállapodás kiegészül a következő Cikkel:
+
+## ,,
+
+## 16. Cikk
+
+## Rendkívüli természeti katasztrófák
+
+## 1. Azzal a feltétellel, hogy a 1268/1999. Tanácsi Rendelet módosítására sor kerül, a Bizottság határozhat rendkívüli természeti katasztrófa megállapításáról a Magyar Köztársaságban; a Magyar Köztársaság kellőképpen megindokolt kérelme alapján engedélyezheti az érintett régióban jelentősebb projektek esetében, meghatározott időtartamra a Programban meghatározott Közösségi társfinanszírozási ráták túllépését a 85%-os plafon betartásával.
+
+## Ezen túlmenően, a Bizottság engedélyezhet a Megállapodás ezen Mellékletének következő rendelkezéseitől való eltérést:
+
+## a) az 5. (6) és (7) Cikkben meghatározott 50%-os küszöböt maximum 75%-osra lehet módosítani, azzal a feltétellel, hogy az 1268/1999. Tanácsi rendelet megfelelő módosítására sor került;
+
+## b) a 7. (5) Cikk második alpontjában a kiegészítő előlegfizetési kérelmet a rendkívüli természeti csapás várható hatásain alapuló szükséglet felmérés is megalapozhatja;
+
+## c) a 8. (1) b) Cikkben:
+
+## a kedvezményezettnél felmerült és eredeti számlákkal igazolt nyilatkozatokra vonatkozó követelményt a projekt támogatása érdekében a SAPARD Hivatal hivatalos döntéssel helyettesítheti. Ezen döntésekre vonatkozó kritériumokat a Magyar Köztársaság által benyújtott és a Bizottság által elfogadott, kellőképpen alátámasztott kérelemben kell megjelölni. A kedvezményezettnek vállalnia kell, hogy – a 8. (1) b) Cikkben meghatározottak szerint – legkésőbb egy éven belül a ténylegesen felmerült költségekről a nyilatkozatot benyújtja. Fenti kivétel szerinti egyetlen, a kedvezményezettnek történő kifizetés sem haladhatja meg a SAPARD Hivatal által jóváhagyott teljes beruházási költség 20%-át, és bármely ilyen jellegű kifizetés megfelelő garanciákkal kell, hogy rendelkezzen.
+
+## Azon rendelkezést, mely a költségnyilatkozatot azon eseményekre korlátozza, melyek a szerződéskötés időpontjánál nem korábban követően történtek (a kérelmező kedvezményezettnek minősül), helyettesíteni kell a rendkívüli természeti katasztrófa bekövetkezésének időpontját követően történt eseményekre vonatkozó időkorláttal.
+
+## d) a 14. Cikk 2.6. pontjában, azon kötelezettséget, hogy a közszervezetek által alkalmazott szolgáltatások, kivitelezési és szállítói közbeszerzési szabályok meg kell, hogy feleljenek a Bizottsági kézikönyvben foglaltakkal helyettesíteni lehet kevésbé szigorú rendelkezésekkel, beleértve olyanokat, amelyek engedélyezik tárgyalásos eljárások lefolytatását. Ebben az esetben a hatóságok a szolgáltatást biztosítókkal egyeztetnek a választásukról, és a szerződés feltételeit egyikükkel vagy többükkel megtárgyalják.''
+
+## 3. A ,,B'' Mellékletben
+
+## – A 4. Cikk a következő bekezdéssel egészül ki:
+
+## ,,6. Amennyiben a Bizottság úgy dönt, hogy a Magyar Köztársaságot rendkívüli természeti katasztrófa sújtotta, úgy – a Magyar Köztársaság kellőképpen alátámasztott kérelme alapján – engedélyezheti az érintett régióban a kapcsolódó projektek esetében és meghatározott időtartamra a 2. e), 3. b) és 3. c) és a fenti 4. bekezdések rendelkezéseitől való eltérést.''
+
+## – A 6. (2) Cikk az alábbiak szerint módosul:
+
+## ,,2. A monitoring tevékenységet a vonatkozó fizikai, környezetvédelmi és pénzügyi mutatók alapján végzik. A monitoring kiterjed olyan adatokra is, amelyek alátámasztják, hogy a Közösség pénzeszközei nem helyettesítik a Magyar Köztársaságban egyébként rendelkezésre álló támogatásokat. A Program költségeit és eredményeit érintő monitoring-mutatók kapcsolódnak a támogatás sajátos jellegéhez, célkitűzéseihez, és tekintettel vannak a Magyar Köztársaság társadalmi – gazdasági, strukturális és környezetvédelmi helyzetére.''
+
+## – A 8. (5) c) Cikk a következővel egészül ki:
+
+## ,,(v) adatok, mely bizonyítják, hogy a Közösségi források nem helyettesítettek a Magyar Köztársaságban rendelkezésre álló forrásokat.''
+
+## 4. A ,,C'' Melléklet a következő Cikkel egészül ki:
+
+## ,,
+
+## 8. Cikk
+
+## Európai Megállapodások
+
+## A Magyar Köztársaság biztosítja, hogy minden köztámogatás esetében, mely a versenyt bizonyos – SAPARD által támogatott, de az Európai Megállapodás III. Cím, II. és III. Fejezetében hivatkozottaktól eltérő – vállalkozások, vagy javak termelésének előnyben részesítésével torzítja, vagy a torzítás veszélyével fenyegeti, az Európai Megállapodás 62. Cikkelyét[^3] alkalmazza.''
+
+## 5. A ,,D'' Fejezet A1 Táblázata (csatolva, mint III. Függelék) a D–1 Nyomtatványhoz került mellékelésre.
+
+## 6. Az ,,F'' Mellékletben
+
+## – az e) szakasz 8. pontjában meghatározott országok listája az alábbiak szerint módosul:
+
+## ,,Bulgária, Cseh Köztársaság, Észtország, Magyarország, Lettország, Litvánia, Lengyelország, Románia, Szlovákia, Szlovénia, Ciprus, Málta és Törökország.''
+
+## – az e) szakasz 7.3. pontja alatti 7.3.1. alpont az alábbiak szerint módosul:
+
+## ,,7.3.1. A negyedévet követő két hónap alatt a Magyar Köztársaság jelenti a Bizottságnak a kezdeti hatósági vagy bírósági vizsgálatok tárgyát képező szabálytalanságokat. Ezt a jelentést ezen Melléklet I. Függelékének megfelelően kell benyújtani.''
+
+## – az e) szakasz 7.5. pontja alatti 7.5.1. alpont az alábbiak szerint módosul:
+
+## ,,7.5.1. Minden negyedév végét követő két hónapon keresztül a Magyar Köztársaság – hivatkozással a 7.3. alpont alapján elkészült korábbi jelentésekre – tájékoztatja a Bizottságot a korábban bejelentett összes szabálytalanságot követően bevezetett eljárásokról és az ezekből eredő fontos változásokról, a jelen melléklet I. Függelékében tartalmazott formanyomtatvány kitöltésével.''
+
+## – Ezen Éves Pénzügyi Megállapodás I. Függeléke a Többéves Pénzügyi Megállapodás ,,F'' Mellékletéhez került becsatolásra, mint I. Függelék.
+
+## 5. Cikk
+
+## Hatálybalépés
+
+## Ez a Megállapodás abban az időpontban lép hatályba, amikor mindkét Szerződő Fél értesítette egymást az aláíráshoz szükséges formalitások teljesüléséről.
+
+## 6. Cikk
+
+## Aláírás
+
+## Ezt a Megállapodást két példányban angolul és magyarul kell elkészíteni, melyek közül csak az angol nyelvű változat a hiteles.
+
+## Kelt Brüsszelben és Budapesten, 2003. június 26-án.
+
+## Az Európa Unió Bizottsága nevében:
+
+## Franz Fischler s. k.,
+
+## az Európai Bizottság tagja
+
+## A Magyar Köztársaság nevében:
+
+## Dr. Németh Imre s. k.,
+
+## földművelésügyi és vidékfejlesztési
+
+## miniszter
+
+## Dr. László Csaba s. k.,
+
+## pénzügyminiszter
+
+## I. FÜGGELÉK
+
+## I. FÜGGELÉK
+
+| BIZALMAS | Ügyiratszám: AC/XX/XXX/S/X |
+
+## A KÜLÖNLEGES ELŐCSATLAKOZÁSI PROGRAM A MEZŐGAZDASÁG ÉS VIDÉKFEJLESZTÉS TÁMOGATÁSÁRÓL (SAPARD) SZÓLÓ TÖBBÉVES PÉNZÜGYI MEGÁLLAPODÁS „F” MELLÉKLETÉNEK 7.3. ÉS 7.5. PONTJA SZERINTI SZABÁLYTALANSÁGRÓL SZÓLÓ JELENTÉS
+
+## JELENTÉS AZONOSÍTÁSA
+
+## Tagjelölt ország:
+
+## Azonosító (szám): XX/XX/XXX/S/04
+
+## Negyedév: XX/XX5
+
+## Elküldés dátuma:
+
+## Közigazgatási egység tagjelölt országban:
+
+## Kapcsolattartó:
+
+| Név: | Telefon: |
+
+| Fax: | E-mail: |
+
+## SZABÁLYTALANSÁG RÉSZLETEZÉSE
+
+## 1. Támogatás adatai
+
+## 1.1. Program neve
+
+## 1.2. Programot jóváhagyó Bizottsági Rendelet
+
+## 1.3. Intézkedés megnevezése és projekt címe
+
+## 1.4. Tagjelölt országban alkalmazott projekt szám
+
+## 2. Megsértett rendelkezés
+
+## 2.1. Megsértett közösségi jogszabály
+
+## 2.2. Megsértett nemzeti jogszabály
+
+## 3. Szabálytalanság gyanújához vezető első információ beérkezésének dátuma
+
+## 3.1. Szabálytalanság gyanújához vezető első információ forrása
+
+## 4. Szabálytalanság felfedezésének módszere
+
+## 5. Szabálytalanság típusa
+
+## 5.1. Szabálytalanság elkövetésének módja/típusa
+
+## 5.2. Az elkövetés módja/típusa ismeretlen?
+
+|  | Igen ( ) | Nem ( ) |
+
+## 5.3. Ha igen, jelezték-e a Többéves Pénzügyi Megállapodás „F” Melléklet 7.4. pontja szerint?
+
+## 6. Más ország érintett az eset során?
+
+|  | Igen ( ) | Nem ( ) |
+
+## ___________
+
+## 4 Az utolsó számjegy kivételével az esetszám változatlan marad, amely a következőkből áll: tagjelölt ország kezdőbetűi/ év/ háromjegyű esetszám/S mint SAPARD/0 mint első jelentés, 1 mint első módosítás, 2 mint második módosítás stb. pl. PO/02/001/S/0.
+
+## 5 Két számjegy az évet jelöli, két számjegy az adott negyedet pl. 0203, 0206, 0209, 0212.
+
+## 6.1. Ha igen, jelezték-e a Többéves Pénzügyi Megállapodás „F” Melléklet 7.4. pontja szerint?
+
+|  | Igen ( ) | Dátum és hivatkozás: | Nem ( ) | Nem ismert ( ) |
+
+## 7. Szabálytalanság időtartama
+
+## 7.1. A szabálytalanság elkövetésének dátuma vagy időtartama
+
+## 8. Hatóságok, Intézmények
+
+## 8.1. Hivatalos szabálytalanság jelentést kibocsátó hatóság vagy intézmény
+
+## 8.2. Adminisztratív vagy bírósági vizsgálatért felelős hatóság vagy intézmény
+
+## 9. Hivatalos szabálytalanság jelentés kibocsátásának dátuma
+
+## 10. Érintett természetes, illetve jogi személyek megnevezése és címe
+
+## 10.1. Természetes személyek
+
+## – Családi név:
+
+## – Keresztnév:
+
+## – Cím:
+
+## – Irányítószám:
+
+## – Város:
+
+## – Ország:
+
+## – Foglalkozás/Beosztás:
+
+## 10.2. Jogi személyek
+
+## – Név:
+
+## – Székhely:
+
+## – Irányítószám:
+
+## – Ország:
+
+## PÉNZÜGYI VONATKOZÁSOK
+
+## 11. Finanszírozás teljes összege, megoszlása az egyes források között
+
+## 11.1. Támogatás teljes összege
+
+## 11.2. Közösségi hozzájárulás
+
+## 11.3. Nemzeti hozzájárulás
+
+## 12. Szabálytalannak vélt kiadás típusa és összege
+
+## 12.1. Kiadás típusa
+
+## 12.2. Kiadás teljes összege
+
+## 12.3. Közösségi kiadás
+
+## 12.4. Nemzeti hozzájárulás
+
+## 13. Összeg, amely a szabálytalanság felfedezésének hiányában került volna kifizetésre
+
+## 14. Pénzügyi következmények
+
+## 14.1. A még kifizetésre nem került kiadás összege (12.2. pont)
+
+## Közösségi hozzájárulás
+
+## Nemzeti hozzájárulás
+
+## 15. Megtérülés valószínűsége
+
+## 16. Megtérült teljes összeg
+
+## 16.1. Közösségi rész
+
+## 16.2. Nemzeti rész
+
+## 17. Megtérítendő teljes összeg
+
+## 17.1. Közösségi rész
+
+## 17.2. Nemzeti rész
+
+## 18. Többéves Pénzügyi Megállapodás „F” Melléklet 7.5.2. pontja szerinti Rendkívüli jelentés dátuma
+
+## FOLYAMAT JELENLEGI ÁLLAPOTA
+
+## 19. Tagjelölt ország intézkedései
+
+## 19.1. Átmeneti intézkedések
+
+## 20. Adminisztratív eljárások
+
+## 21. Bírósági eljárások
+
+## 22. Behajtási eljárások elhagyásának okai
+
+## 22.1. Értesítették a Bizottságot a behajtási eljárás elhagyásáról szóló döntés meghozatala előtt?
+
+|  | Igen ( ) | Dátum és hivatkozás: | Nem ( ) | Nem ismert ( ) |
+
+## 23. Bűnügyi eljárás került felfüggesztésre?
+
+|  | Igen ( ) | Nem ( ) |
+
+## 24. Eljárások befejezése
+
+## 24.1. Értesítették a Bizottságot adminisztratív vagy bírósági döntésekről vagy azok főbb pontjairól, beleértve az eljárások lezárását, a Többéves Pénzügyi Megállapodás „F” Szekció 7.5.1. pontjával összhangban?
+
+|  | Igen ( ) | Dátum és hivatkozás: | Nem ( ) | Nem ismert ( ) |
+
+## 25. Kiszabott büntetések (adminisztratív és/vagy bírósági)
+
+## 26. További következtetések
+
+## II. FÜGGELÉK
+
+## II. FÜGGELÉK
+
+## D–1 Nyomtatvány:
+
+## Európai Bizottság – SAPARD – Költségnyilatkozat és átutalási igénylés
+
+## (címzett az Európai Bizottság, DG AGRI, Rue de la Loi 130 (SAPARD) B–1049 Brüsszel)
+
+## A Program neve:
+
+## A Bizottság ....... .................. ...... napján kelt ............ sz. Határozata (azt legutóbb módosító ...... .................. ...... napján kelt ............ sz. Határozat)
+
+## A Bizottság hivatkozási száma:
+
+## Alulírott ................................................................, a Magyar Köztársaság és a Bizottság között létrejött Többéves Pénzügyi Megállapodás rendelkezéseivel összhangban a Magyar Köztársaság képviseletében eljáró Nemzeti Programengedélyező ezennel bejelentem, hogy a programmal összhangban (év/hónap/naptól év/hónap/napig) felmerült összes jogosult kiadás összege ............................. (nemzeti valuta), ........................... (euró, az átváltási árfolyamot lásd a mellékelt táblázatban, a Többéves Pénzügyi Megállapodás A. mellékletének 10. Cikke szerint).
+
+## A fent hivatkozott kiadás részleteit a mellékelt táblázatok tartalmazzák, amelyek a bevallás elválaszthatatlan részének minősülnek.
+
+## Bejelentem továbbá, hogy az intézkedések végrehajtása a Programban megfogalmazott célkitűzéseknek megfelelően, jó ütemben halad és hogy az igazoló dokumentumok most és a jövőben a Többéves Pénzügyi Megállapodás 3. Cikkével és A. mellékletének 15. Cikkével összhangban rendelkezésre állnak.
+
+## Bejelentem, hogy:
+
+## 1. A kiadások listája pontos. A lista az egyes projektek számlái és okmányos bizonyítékai alapján készült. A lista és a megfelelő igazoló bizonylatok most és a jövőben a Többéves Pénzügyi Megállapodás 3. Cikkével az A. melléklet 15. Cikkével összhangban rendelkezésre állnak és ellenőrizhetők.
+
+## 2. Vagy A lista tartalmazza az összesen ......... (nemzeti valuta), ......... (euró) behajtandó kinnlevőségek részleteit; mellékeljük a teljes összegek intézkedések szerinti bontását, valamint a hazai állami és a Közösségi hozzájárulás szerinti csoportosítását; vagy Behajtandó adósságok nincsenek – (emelje ki a megfelelő szöveget). A bevallás tartalmazza továbbá az előző bevallás óta felmerült összes olyan adósságot, amelyet két évnél hosszabb ideig tartottak nyilván és amelyet ebből a költségnyilatkozatból levontunk.
+
+## 3. A bevallás tárgyát képező negyedév végén eszközölt utolsó megterhelés napjának (kiegészítő bevallás esetén a bevallásban meghatározott napnak) megfelelő állapot szerint a SAPARD euró-számlán levő Közösségi pénzeszközök összege ............ euró. Ebből az összegből a kamatbevétel ......... eurónak felel meg.
+
+## Az átutalást a SAPARD euró-számlára kell teljesíteni.
+
+| Kedvezményezett: |  |
+
+| Bank: |  |
+
+| Számlaszám: |  |
+
+| Számlatulajdonos (amennyiben személye eltér a kedvezményezettől) |  |
+
+## Ennek a költségnyilatkozatnak .............. számozott oldala van.
+
+## A bevallás kelte:
+
+## (Dátum, pecsét és a SAPARD hivatal vezetőjének aláírása)
+
+## A bevallást az általam átadott pénzösszegek alapján készült:
+
+## (Dátum és aláírás: a SAPARD hivatal könyvelője)
+
+## Hitelesítem:
+
+## (Dátum, pecsét és aláírás, Nemzeti Programengedélyező a Magyar Köztársaság nevében)
+
+## Kelt ................................................................ (dátum)
+
+## III. FÜGGELÉK
+
+## III. FÜGGELÉK
+
+## D–1 Nyomtatvány A1 Táblázat
+
+## RENDKÍVÜLI TERMÉSZETI KATASZTRÓFA KAPCSÁN AZ A. MELLÉKLET 16. § 1. a) CIKK RENDELKEZÉSEI ÉRTELMÉBEN A BIZOTTSÁG ÁLTAL ....................... (DÁTUM) ELISMERT, TÉNYLEGESEN FELMERÜLT, TÁMOGATHATÓ KÖLTSÉGEK KIMUTATÁSA: AZON KATASZTRÓFA KAPCSÁN A PROGRAM KEZDETE ÓTA
+
+## A Program neve
+
+## A Bizottság ........ ................. ..... napján kelt ....... sz. határozata (azt legutóbb módosító ........ ................. ..... napján kelt ........ sz. határozat)
+
+## A Bizottság rendkívüli természeti katasztrófával kapcsolatos hivatkozási száma, dokumentum:
+
+## ......................................... sz. bevallás a Bizottság által elsimert rendkívüli természeti katasztrófáról szóló 16. § 1. a) Cikk rendelkezései alkalmazásának kezdetétől számított, .....................................-tól .................................-ig terjedő időszakról.
+
+| Prioritások tengelye | Nemzeti valuta | euró |
+
+| Név | Támogatás | Magánfinan- szírozás | Összes elismerhető költség | Támogatás | Magánfinan- szírozás | Összes elismerhető költség |
+
+| Intézkedés | EK | Nemzeti |  |  | EK | Nemzeti |  |  |
+
+| (1) | (2) | (3) | (4) | (2)+(3)+ (4)=(5) | (6) | (7) | (8) | (6)+(7)+ (8)=(9) |
+
+| 1.1. prioritás 1. intézkedés 2. intézkedés n. intézkedés 1. prioritás összesen |  |  |  |  |  |  |  |  |
+
+| n.n. prioritás n.n. prioritás 1. intézkedés 2. intézkedés n. intézkedés n. prioritás összesen |  |  |  |  |  |  |  |  |
+
+| Mindösszesen |  |  |  |  |  |  |  |  |
+
+## Egy előző bevalláshoz képest megállapított különbségek esetében „*” jellel látják el és .... oldaltól .... oldalig értelmezik
+
+## A nemzeti valuta / euró átváltáshoz használt árfolyam: Árfolyam: ........................;
+
+## Dátum: ................................................................
+
+## ''
+
+[^1]: OJ No. L 161, 26. 6. 1999. 87–93. oldal.
+[^2]: SEC 1999 1801/2.
+[^3]: OJ L 347, 31. 12. 1993, p. 0002–0266.
