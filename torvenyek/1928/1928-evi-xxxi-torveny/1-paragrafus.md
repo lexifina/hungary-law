@@ -1,0 +1,1 @@
+1. § Az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az idegen és a saját honos munkavállalóknak az üzemi balesetek kártalanítása szempontjából egyenlő elbánásban részesítése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény az ország törvényei közé iktattatik.
