@@ -1,0 +1,1 @@
+Az Országgyűlés az állami bevételek hatékonyabb biztosítását megvalósító vámigazgatási intézkedések érdekében a vámjog szabályozásáról szóló 1966. évi 2. törvényerejű rendeletet (a továbbiakban: Tvr.) és az adózás rendjéről szóló 1990. évi XCI. törvényt (a továbbiakban: Art.) a következők szerint módosítja:
