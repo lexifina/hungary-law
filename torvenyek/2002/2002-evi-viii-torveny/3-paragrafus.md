@@ -1,0 +1,1 @@
+3. § Ez a törvény a kihirdetése napján lép hatályba, az Egyezmény rendelkezéseit azonban az Egyezmény 28. Cikk (2) bekezdés a) pontja alá eső adók tekintetében a 2000. december 31-ike után jóváírt vagy fizetett jövedelmekre, a 28. Cikk (2) bekezdés b) pontja alá eső adók tekintetében a 2000. január 1-je után véget érő bármely adózási időszakra kell alkalmazni.
