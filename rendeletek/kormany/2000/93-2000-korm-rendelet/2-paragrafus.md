@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Tadzsikisztán Kormánya között a diplomata és szolgálati útlevéllel rendelkező állampolgárok vízummentességéről szóló Megállapodást e rendelettel kihirdeti.
