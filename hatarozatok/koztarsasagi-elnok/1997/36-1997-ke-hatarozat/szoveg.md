@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Gecse Attila rendkívüli és meghatalmazott nagykövetet – a Magyar Köztársaság római nagykövetsége vezetésére kapott megbízása érintetlenül hagyása mellett – megbízom a Magyar Köztársaságnak a Máltai Köztársaságban való képviseletével.
