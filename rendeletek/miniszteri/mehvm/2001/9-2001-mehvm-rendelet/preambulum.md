@@ -1,0 +1,1 @@
+A központi közigazgatás integrált üdültetési rendszerének kialakításáról, valamint a Miniszterelnökség Központi Üdülési és Oktatási Főigazgatóság létrehozásáról és feladatairól szóló 129/1999. (VIII. 24.) Korm. rendelet (a továbbiakban: R.) 7. §-ának (3) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
