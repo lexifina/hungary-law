@@ -1,0 +1,3 @@
+11. § A KTv. 41. §-a helyébe a következő rendelkezés lép:
+
+,,41. § Az Országgyűlés felhatalmazza a Kormányt, hogy a Nemzetközi Újjáépítési és Fejlesztési Bankkal, az Európai Beruházási Bankkal, a Európai Újjáépítési és Fejlesztési Bankkal, továbbá a német Újjáépítési és Hitelbankkal (Kreditanstalt für Wiederaufbau: KfW) kötendő hitelszerződéseknél — az ezen intézmények által megkívánt formában — a központi költségvetés terhére, összegszerű korlátozás nélkül kezességet vállaljon. A Kormány a Magyar Befektetési és Fejlesztési Bank Rt. részére — az általa külföldön felvett hitelekre — 80 000 millió forint összeghatárig vállalhat kezességet.''

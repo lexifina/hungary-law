@@ -1,0 +1,1 @@
+43. § A KTv. 5. számú melléklete 12. kiemelt előirányzatszáma: ,,Egyes közoktatási feladatok támogatása'' és a 17. kiemelt előirányzatszáma: ,,Bérpolitikai intézkedés'' helyébe e törvény 3. számú melléklete lép.

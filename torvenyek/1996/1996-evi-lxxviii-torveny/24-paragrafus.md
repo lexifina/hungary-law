@@ -1,0 +1,3 @@
+24. § A KTv. 60. §-a helyébe a következő rendelkezés lép:
+
+,,60. § Az Országgyűlés felhatalmazza a Kormányt, hogy a Magyar Honvédség szervezeti átalakulásával összhangban, a Honvédelmi Minisztérium kezelésében lévő, feleslegessé váló ingatlanokat érintően — elsősorban szociális, kulturális, oktatási célra — eseti döntést hozzon azok térítésmentes, illetve kedvezményes önkormányzati tulajdonba adásáról, amennyiben az ingatlanok értékesítése egyszeri nyilvános versenytárgyalást követően is eredménytelen volt.''
