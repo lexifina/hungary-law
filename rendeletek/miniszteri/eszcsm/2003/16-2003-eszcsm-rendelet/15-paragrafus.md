@@ -1,0 +1,1 @@
+## ,,A jogszabály által szakvizsgára kötelezettek esetében a szociális alapismereteket nyújtó tanfolyam, valamint az alap- és szakvizsgával kapcsolatos munkaidő-kedvezmény, távolléti díj, tanfolyami- és vizsgadíj a munkáltatót terheli.''
