@@ -1,0 +1,1 @@
+## 9. § A Génbank Tanács által elfogadott és regisztrált génbankok közcélú gyűjtemények. A génbank gyűjteményeket nem lehet értékesíteni, az azokat fenntartó intézmények megszűnése vagy privatizálása esetén a gyűjteményeket további megőrzésre a szakági bázisgyűjteménynek vagy génbank ültetvénynek kell átadni.

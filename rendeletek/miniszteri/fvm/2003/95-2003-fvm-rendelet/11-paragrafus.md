@@ -1,0 +1,9 @@
+## 10. § A Génbank Tanács által elfogadott és állami forrásból támogatott génbankokban lévő gyűjtemények a felhasználók részére szabadon hozzáférhetőek. A felhasználóknak a génbankban lévő anyagokat a FAO Egyezmény előírásainak megfelelően lehet átadni. A genetikai anyagokat felhasználó az átvett tételeket közvetlenül nem szabadalmaztathatja, nem oltalmazhatja és más módon sem korlátozhatja azok további felhasználását. A felhasználó hasznosítás esetén köteles a genetikai anyag származását feltüntetni és vizsgálati eredményeiről, illetve a felhasználás során szerzett tapasztalatairól a tételt fenntartó génbankot tájékoztatni. A közvetlen hasznosítás gazdasági hasznának méltányos elosztásáról az Egyezmény hatálya alá tartozó fajok esetében a FAO Egyezményben foglaltak szerint kell gondoskodni. Az Egyezmény hatálya alá nem tartozó fajok esetében a génbankban tárolt anyagok átadását, illetve rendelkezésre bocsátását, felhasználását a felek szerződésben szabályozzák.
+
+11. § (1) Az állami elismerésben részesített, illetve fajtaoltalommal védett növényfajtáknak, valamint a referencia és példafajtáknak, mint potenciális genetikai erőforrásoknak tartós tárolóban vagy vegetatív szaporítású növényeknél fajtagyűjteményben, illetve klóngyűjteményben való ültetése és megőrzése állami feladat.
+
+(2) Az (1) bekezdésben meghatározott gyűjtemények fenntartása és működtetése a minősítő intézet feladata.
+
+(3) Az (1) bekezdésben meghatározott fajták állami elismerésének megszűnése esetén e fajták szaporítóanyagait az azokra vonatkozó információval együtt a Génbank Tanács szakági munkabizottságának véleménye alapján a minisztérium által kijelölt bázisgyűjteményben kell elhelyezni.
+
+(4) Az időleges korlátozás alá eső génforrások felhasználására az UPOV-egyezmény előírásai vonatkoznak. A rendelkezési jog a fajtajogosultat, illetve a szabadalmast illeti meg.
