@@ -1,0 +1,1 @@
+3. § A törvény a kihirdetése napján lép hatályba, rendelkezéseit azonban a Magyar Köztársaságban az 1993. január 1. napján vagy azt követően keletkezett jövedelmekre, Ausztráliában pedig az 1993. július 1. napján vagy azt követően keletkezett jövedelmekre kell alkalmazni.
