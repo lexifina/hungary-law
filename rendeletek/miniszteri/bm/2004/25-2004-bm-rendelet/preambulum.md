@@ -1,0 +1,1 @@
+A többcélú kistérségi társulások 2004. évi támogatása mértékének, igénylésének, döntési rendszerének, folyósításának és elszámolásának részletes feltételeiről szóló 65/2004. (IV. 15.) Korm. rendelet (a továbbiakban: Korm. rendelet) 22. § (3) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
