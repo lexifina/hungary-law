@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács az Általános Vám- és Kereskedelmi Egyezményhez (GATT) történt csatlakozásról szóló jegyzőkönyvet, a Magyarország csatlakozásával foglalkozó munkacsoport jelentését, valamint az Egyezmény Szerződő Feleinek a csatlakozás elfogadásáról szóló határozatát e rendelettel kihirdeti.
