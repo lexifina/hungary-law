@@ -1,0 +1,1 @@
+5. § Ha más pályák beágazása, pályaudvarok közös használata, kocsikölcsönzés és az ezekért járó kárpótlás iránt az illető társulatok közt egyezmény nem jöhetne létre, az ezek iránti feltételeket a kormány határozza meg.

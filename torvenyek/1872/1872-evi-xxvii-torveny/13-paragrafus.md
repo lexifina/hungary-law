@@ -1,0 +1,1 @@
+13. § Az államközegek és szolgák, kik a vasutak igazgatása és üzlete felett őrködő hatóságok megbizásából, vagy az államnak ezen engedélyből folyó érdekei megóvása végett, vagy jövedéki czélokból a vasutat használják és a hatóság megbizását igazolják, utimálháikkal együtt ingyen szállitandók.

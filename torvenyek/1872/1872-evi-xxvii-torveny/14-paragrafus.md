@@ -1,0 +1,1 @@
+14. § Oly feleken, kik a vasutat a vitel- vagy szállitási bér előleges kifizetése nélkül roszhiszemüleg használnák, vagy a szállitmány nemének vagy sulyának helytelen bejelentésével vagy más módon a vállalat megröviditését czélozzák, háromszoros árszabási illeték lesz megvehető.

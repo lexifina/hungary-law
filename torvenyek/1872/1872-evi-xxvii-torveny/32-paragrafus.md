@@ -1,0 +1,1 @@
+32. § A pálya épitésének ideje alatt köteles engedélyes munkásai számára kórházakat rendezni be. Azon esetre, ha munkásai közül némelyek közkórházakban nyertek ellátást, az azért járó költségeket engedélyes lesz köteles az illető intézeteknek évnegyedenkint megtériteni.

@@ -1,0 +1,3 @@
+18. § Az engedély tartama az 1. §-ban idézett ideiglenes vasutengedélyezési szabály 9. §-ának b) pontja alatt uj vasut felállitása ellen kimondott oltalommal 90 évre állapittatik meg, mely időszak lefolyásával elenyészik. Kezdetét veszi azon napon, a melyen az egész engedélyezett vonal a közforgalomnak átadatik.
+
+Ezen kivül, elenyészik az engedély akkor is, ha nem tartatnak meg a vonalzási munkálatok az épités megkezdésére és befejezésére, valamint az üzlet megnyitására nézve kitüzött határidők s az elmulasztás a fenidézett vasutengedélyezési szabály 11. § b) pontja értelmében nem igazoltathatik.
