@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és az Indiai Köztársaság Kormánya között a középiskolákban, felsőoktatási intézményekben, egyetemeken, oktatási és tudományos szervezetekben kibocsátott bizonyítványok, oklevelek és a tudományos fokozatok egyenértékűségéről szóló, New Delhiben, 1976. évi október hó 23. napján aláírt jegyzőkönyvet e rendelettel kihirdeti.
