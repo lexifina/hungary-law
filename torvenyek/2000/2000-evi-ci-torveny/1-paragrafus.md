@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a pénzmosásról, a bűncselekményekből származó dolgok felkutatásáról, lefoglalásáról és elkobzásáról szóló, Strasbourgban, 1990. november 8-án kelt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló okirat letétbe helyezésére 2000. március 2-án került sor.)
