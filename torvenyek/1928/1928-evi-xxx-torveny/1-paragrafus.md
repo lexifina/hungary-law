@@ -1,0 +1,1 @@
+1. § Az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a foglalkozási betegségek kártalanítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény az ország törvényei közé iktattatik.

@@ -1,0 +1,1 @@
+3. § A versaillesi békeszerződésnek a 2. §-ban közzétett egyezményben említett XIII. része az 1921 :XXXIII. törvénycikkbe iktatott trianoni szerződés XIII. részének és a versaillesi békeszerződésnek az egyezményben felhívott 421. cikke a trianoni szerződés 349. cikkének felel meg.
