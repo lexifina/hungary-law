@@ -1,0 +1,1 @@
+8. § Az Országgyűlés tudomásul veszi, hogy a helyi önkormányzatok 1992. évi normatív állami hozzájárulásának elszámolásából az 1992. évi Zárszámadási Törvény 5. §-ának (2) bekezdésében előírt, egyenlegében 860,6 millió forint visszafizetési kötelezettségüknek eleget tettek.

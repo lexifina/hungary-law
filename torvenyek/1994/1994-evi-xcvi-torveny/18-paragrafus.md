@@ -1,0 +1,1 @@
+18. § Az Országgyűlés tudomásul veszi, hogy a pénzügyminiszter a Költségvetési Törvény 39. § a) pontjában szereplő felhatalmazás alapján a budapesti felsőoktatásfejlesztés céljaira — világkiállítási előhasznosítással — 3 005,1 millió forint értékben bocsátott ki államkötvényt.

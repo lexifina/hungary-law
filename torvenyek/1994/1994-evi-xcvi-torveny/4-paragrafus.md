@@ -1,0 +1,1 @@
+4. § Az Országgyűlés tudomásul veszi, hogy a pénzügyminiszter a Költségvetési Törvény 3. § (2) bekezdésében foglalt felhatalmazás alapján az állami forgóalap folyamatos likviditása és a társadalombiztosítási alapokból teljesített kiadásokhoz vállalt állami garancia megteremtése érdekében 37 309,0 millió forint értékben növelte a kincstárjegyek állományát.

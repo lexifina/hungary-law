@@ -1,0 +1,1 @@
+21. § Az Országgyűlés felkéri a Kormányt, hogy a jogtalanul, illetve a rendeltetéstől eltérően igénybe vett központi költségvetési támogatások visszafizetésével kapcsolatos eljárási szabályokra az államháztartási reform keretében tegyen javaslatot.
