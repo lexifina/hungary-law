@@ -1,0 +1,1 @@
+## 1. § Az igazságügy-miniszter a Szellemi Tulajdon Világszervezetében létrejött Védjegyjogi Szerződés kihirdetéséről szóló 1999. évi LXXXII. törvény 3. §-ának (2) bekezdésében kapott felhatalmazás alapján a Védjegyjogi Szerződéshez kapcsolódó Végrehajtási Szabályzat – 1994. október 27-én elfogadott – hatályos szövegét e rendelettel kihirdeti.
