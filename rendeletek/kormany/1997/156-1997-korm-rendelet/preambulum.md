@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. §-a (1) bekezdésének f) pontja szerinti, a tudományos fejlesztés állami feladatainak meghatározására és az ezek megvalósulásához szükséges feltételek biztosítására vonatkozó feladatkörében, az Alkotmány 35. §-ának (2) bekezdésében meghatározott felhatalmazás alapján a következőket rendeli el:
