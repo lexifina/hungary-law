@@ -1,0 +1,1 @@
+3. § Ez a törvény a kihirdetése napján lép hatályba, az Egyezmény rendelkezéseit azonban az Egyezmény 28. Cikk 2. bekezdés a) pontja alá eső adók tekintetében 1999. január 1-jén, vagy azt követően keletkezett összegekre, a 28. Cikk 2. bekezdés b) pontja alá eső adók tekintetében 1999. január 1-jén, vagy az után kezdődő bármely adóévre kivethető adókra kell alkalmazni.
