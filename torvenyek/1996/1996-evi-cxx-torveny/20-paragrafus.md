@@ -1,0 +1,3 @@
+20. § A KT. 8. §-ának (7) bekezdése helyébe a következő rendelkezés lép:
+
+,,(7) Az egyéb betegségi ellátások együttes előirányzata 3700 millió forint. Ebből a betegséggel kapcsolatos segélyek 800 millió forint összegű előirányzatából 420 millió forint a javasolt külföldi gyógykezelés kiadásaira fordítható összeg, 120 millió forint a külföldi sürgősségi gyógykezelés költségeinek megtérítése, 10 millió forint a nemzetközi egyezményekből eredő kiadások előirányzata, 250 millió forint a rendkívüli szociális támogatás előirányzata, a kártérítési járadék összege 900 millió forint, az utazási költségtérítés 2000 millió forint.''

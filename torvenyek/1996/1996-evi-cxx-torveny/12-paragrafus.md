@@ -1,0 +1,3 @@
+12. § A KT. 7. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+
+,,(3) A társadalombiztosítási tevékenységgel kapcsolatos egyéb bevételek összege 13 700 millió forint. Ebből 9500 millió forint a késedelmi pótlék és a bírság összege, 2200 millió forint a baleseti megtérítés és egyéb kártérítések megtérítésének összege, 700 millió forint a terhesség-megszakítás egyéni térítési díja, 800 millió forint az E. Alap által e feladattal kapcsolatban 1995-ben megelőlegezett költségek 1996. évi a magzati élet védelméről szóló 1992. évi LXXIX. törvény 16. §-ának (3) bekezdésében meghatározott központi költségvetési megtérítése. Az egyéb bevételek 500 millió forint összegű előirányzata tartalmazza a különféle okokból visszaérkezett ellátások, támogatások összegét.''
