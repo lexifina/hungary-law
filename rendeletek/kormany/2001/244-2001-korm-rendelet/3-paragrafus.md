@@ -1,0 +1,1 @@
+## 2. § A Kormány felhívja az állami szerveket, az önkormányzatokat, az egyházakat, az iskolákat, valamint a civil szervezeteket, hogy ezentúl a Hűség Napján országszerte méltó módon emlékezzenek meg Sopron népének helytállásáról.
