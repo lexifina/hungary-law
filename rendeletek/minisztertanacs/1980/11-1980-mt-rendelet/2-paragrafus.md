@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Szocialista Népi Líbiai Arab Jamahiriya között Tripoliban az 1979. évi január hó 22. napján aláírt, az egészségügyi együttműködésről szóló egyezményt e rendelettel kihirdeti.
