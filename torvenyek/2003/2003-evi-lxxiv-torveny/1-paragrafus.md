@@ -1,0 +1,3 @@
+1. § A Magyar Köztársaság Országgyűlése a Cseh Köztársaság, a Magyar Köztársaság, a Lengyel Köztársaság, Románia, a Szlovák Köztársaság, a Szlovén Köztársaság és a Bolgár Köztársaság között 1998. július 17-én, Szófiában aláírt, a Bolgár Köztársaság Közép-európai Szabadkereskedelmi Megállapodáshoz történő csatlakozásáról szóló Megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.
+
+(A Megállapodás a Magyar Köztársaság Országgyűlése általi megerősítéséről szóló okirat letétbe helyezése 1999. év július hónap 29. napján megtörtént; a Letéteményes értesítése szerint a Megállapodás – annak 12. Cikk 1. bekezdése értelmében – 2002. év január hónap 12. napján hatályba lépett.)
