@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Bolgár Köztársaság között a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén Budapesten, 1994. június 8-án aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1995. szeptember 7-én megtörtént, és az Egyezmény 1995. szeptember 7-én hatályba lépett.)
