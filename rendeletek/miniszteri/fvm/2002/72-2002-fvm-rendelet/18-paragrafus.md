@@ -1,0 +1,5 @@
+## Záró rendelkezések
+
+18. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2) Az e rendelet szerinti támogatások igénylésére, igénybevételére, felhasználására, elszámolására és ellenőrzésére az e rendeletben nem szabályozott kérdések tekintetében különösen az agrártámogatások igénybevételének általános feltételeiről szóló 215/2001. (XII. 16.) Korm. rendeletben, az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendeletben, valamint a mezőgazdasági termelők agrártámogatás igénybevételével összefüggő adatszolgáltatásáról és nyilvántartásba vételéről szóló 236/1998. (XII. 30.) Korm. rendeletben, valamint a ,,Magyarország SAPARD Terve 2000–2006.'' kihirdetéséről szóló 53/2001. (VIII. 17.) FVM rendeletben, továbbá a SAPARD Többéves Pénzügyi Megállapodásról szóló 117/2001. (VI. 30.) Korm. rendeletben, a SAPARD Hivatal létesítéséről szóló 12/2001. (II. 15.) FVM rendeletben és az Európai Uniós előcsatlakozási eszközök támogatásai felhasználásának pénzügyi tervezési, lebonyolítási és ellenőrzési rendjéről szóló 255/2000. (XII. 25.) Korm. rendeletben foglaltakat kell megfelelően alkalmazni.

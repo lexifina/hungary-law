@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló 2000. évi CXXXIII. törvény 109. §-ának (5) bekezdésben kapott felhatalmazás alapján – figyelemmel az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény 10. §-a (2) bekezdésének b) pontjára – a pénzügyminiszterrel egyetértésben az alábbiakat rendelem el:
