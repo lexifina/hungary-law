@@ -1,0 +1,1 @@
+## 5. § Az állomás járványvédelmi megfontolásból a 3–4. § előírásait más telephelyekre is kiterjesztheti, ugyanakkor rezervátumok szabadon élő állatai számára a 3–4. § előírásain túl más járványmegelőző célú intézkedéseket is foganatosíthat.

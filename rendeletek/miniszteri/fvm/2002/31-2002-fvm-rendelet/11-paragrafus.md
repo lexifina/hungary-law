@@ -1,0 +1,1 @@
+## 10. § Az állomás a 8. § d) pontja szerinti védőzónát járványügyi, földrajzi, ökológiai, meteorológiai tényezők miatt, vagy a betegséggel érintett telephelyekről történt állatmozgatásra figyelemmel, kiterjesztheti.
