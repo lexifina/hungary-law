@@ -1,0 +1,1 @@
+## 2. § Az egyházat a nyilvántartásból kérelmére [Ltv. 20. § (1) bekezdés], illetőleg a törlést elrendelő jogerős határozat [Ltv. 20. § (2)—(3) bekezdés] alapján oly módon kell törölni, hogy az előző bejegyzéseket átlós vonallal át kell húzni.
