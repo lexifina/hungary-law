@@ -1,0 +1,1 @@
+1. § Az 1927. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az ipar és a kereskedelem körében foglalkoztatott munkavállalóknak és a háztartási alkalmazottaknak betegségi biztosítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény az ország törvényei közé iktattatik.
