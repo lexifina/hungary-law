@@ -1,0 +1,1 @@
+15. § Az E. Alap tartósan befektetett eszközök között nyilvántartott vagyonelemek értékvesztése, értékcsökkenése 1997. év végi elszámolásának a befektetett eszközök állományát csökkentő hatása 102 millió forint.

@@ -1,0 +1,1 @@
+Az Országgyűlés a társadalombiztosítás pénzügyi alapjai 1997. évi – a társadalombiztosítás pénzügyi alapjainak 1997. évi költségvetéséről szóló, az 1997. évi LXXXVII. törvénnyel és az 1997. évi CXII. törvénnyel módosított 1996. évi CXXV. törvényben (a továbbiakban: KT) meghatározott – költségvetése végrehajtásáról a következő törvényt alkotja:
