@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére dr. Bánlaki György főkonzult – érdemei elismerése mellett – felmentem e rangja, valamint a Magyar Köztársaság New York-i főkonzulátusa vezetésére kapott megbízása alól.
