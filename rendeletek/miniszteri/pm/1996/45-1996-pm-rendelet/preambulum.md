@@ -1,0 +1,1 @@
+A biztosítóintézetekről és a biztosítási tevékenységről szóló 1995. évi XCVI. törvény (a továbbiakban: Bit.) 168. §-a (2) bekezdésének f) pontjában kapott felhatalmazás alapján – a biztosítók érdekképviseleti szervezetének véleményét kikérve – a következőket rendelem el:
