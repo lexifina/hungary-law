@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és Spanyolország Kormánya között Madridban, 1980. évi február hó 19. napján aláírt nemzetközi közúti fuvarozási megállapodást e rendelettel kihirdeti.
