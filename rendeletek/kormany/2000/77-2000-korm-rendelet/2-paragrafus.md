@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között, a nemzetközi közúti személyszállításról szóló, Londonban, 1996. november 4-én aláírt Egyezményt e rendelettel kihirdeti.
