@@ -1,0 +1,1 @@
+A földművelésügyi miniszter előterjesztésére – nyugállományba vonulására tekintettel – a Kertészeti és Élelmiszeripari Egyetemről dr. Rédai István egyetemi tanárt 1990. december 31. napjának hatályával e tisztsége alól felmentem.
