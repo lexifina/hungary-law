@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Szerencsés János főkonzult – érdemei elismerése mellett – felmentem a Cseh és Szlovák Szövetségi Köztársaságban Szlovákia területére kiterjedő hatáskörrel, Bratislava székhellyel működő főkonzulátusa vezetésére kapott megbízása alól.
