@@ -1,0 +1,3 @@
+## 2. § A BNO—10 kódrendszer ötödik jegyre történő albontását szakmánként az illetékes szakmai kollégium felügyelete mellett az országos orvosszakmai intézetek végzik el.
+
+3. § Ez a rendelet 1995. december 31. napján lép hatályba, hatálybalépésével egyidejűleg a Betegségek Nemzetközi Osztályozása IX. Revíziója alkalmazásának bevezetéséről szóló 37/1978. (Eü. K. 30.) EüM utasítás a hatályát veszti, valamint a 68.045/1979. (Eü. K. 19.) EüM hivatalos közlemény a ,,Betegségek Nemzetközi Osztályozása (BNO) IX. Revíziójához csatlakozó mesterséges kódszámokról és a halálokok kódszámának bejegyzéséről a halottvizsgálati bizonyítványba'' visszavonásra kerül.

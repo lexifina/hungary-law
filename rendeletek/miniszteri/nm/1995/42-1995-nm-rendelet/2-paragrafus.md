@@ -1,0 +1,3 @@
+## 1. § A Betegségek Nemzetközi Osztályozása IX. Revíziója helyett az ENSZ Egészségügyi Világszervezete által közzétett ,,Betegségek és az egészséggel kapcsolatos problémák nemzetközi statisztikai osztályozása, Tizedik Revízió''[^2] (a továbbiakban: BNO—10) alkalmazandó 1996. január 1. napjától minden olyan dokumentáción, illetve adatszolgáltatási kötelezettség teljesítésénél, amikor külön jogszabály alapján a betegségeket kódjelekkel fel kell tüntetni.
+
+[^2]: A BNO kódkönyvek az alábbi címeken szerezhetők be: GYÓGYINFOK 7100 Szekszárd, Arany J. u. 23—25.; Melania Kiadói Kft. 1122 Budapest, Csaba u. 24/A.
