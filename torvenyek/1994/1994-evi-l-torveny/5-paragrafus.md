@@ -1,0 +1,3 @@
+5. § A KT. 7. §-a a következő (15) bekezdéssel egészül ki:
+
+,,(15) Az Egészségbiztosítási Önkormányzatnál és igazgatási szerveinél működési célra felhasználható 9138 millió forint tartalmazza az igazgatási szerveknél ellátott közös érdekeltségű feladatok (járulékelszámolási, nyilvántartási, végrehajtási-behajtási, valamint az ezekkel kapcsolatos pénzügyi feladatok) végzéséhez szükséges — arányos részében a Ny. Alapból biztosított — kiadásokat, amely a (14) bekezdésben meghatározott előirányzat, valamint a 3. § (7) bekezdése szerinti kölcsönös hozzájárulásokkal összefüggésben az ott megjelölt 2121 millió forint együttes összege.''

@@ -1,0 +1,1 @@
+8. § Az AT. 1993. évben hatályos 3. §-a (2) bekezdésének utolsó mondatában foglalt rendelkezést 188 millió forint összegig az 1993. évi zárszámadás során nem kell alkalmazni. Az Országos Nyugdíjbiztosítási Főigazgatóság ezt az összeget 1994-ben felhasználhatja az 1993. évi működési költségvetésben egyszeri feladatokra előirányzott keret terhére.
