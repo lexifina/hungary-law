@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Koránya és a Szlovén Köztársaság Kormánya között a repülő és légvédelmi szakterületeken történő katonai együttműködésről szóló, Muraszombaton, 1996. július 10-én aláírt Megállapodást (a továbbiakban: Megállapodás) e törvénnyel megerősíti.
