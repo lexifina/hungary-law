@@ -1,0 +1,5 @@
+1. § (1) E rendelet hatálya olyan gyártó, forgalmazó, importáló és felhasználó gazdálkodó szervezetekre, illetve külföldi székhelyű vállalkozások magyarországi fióktelepeire terjed ki (a továbbiakban együtt: gyártó), amelyek a belvízi és tengeri partmenti szállításban részt vevő folyadéktároló tartályokkal rendelkező hajókat gyártanak, forgalmaznak vagy üzemeltetnek.
+
+(2) A belvízi és tengeri partmenti szállításban részt vevő hajók folyadéktároló tartályait – ideértve a hajó saját működését szolgáló gépi berendezések üzemeltetéséhez szükséges üzemanyagot tároló tartályt vagy tartályokat is (a napitartályok kivételével) – e rendelet előírásai szerint kell kalibrálni és tanúsítani a tartályokban szállított, illetve tárolt folyadék mennyiségének meghatározása céljából.
+
+(3) E rendelet hatálya nem érinti a belvízi hajók köbözéséről szóló és az 1978. évi 19. törvényerejű rendelettel kihirdetett egyezmény és annak végrehajtásáról szóló jogszabályok alapján végzett köbözést és e körben a köböző hatóság által kiállított köbözési bizonyítványok érvényességét.
