@@ -1,0 +1,3 @@
+5. § (1) Műemlék jellegűvé nyilvánítjuk a Baranya megyei Baranyahidvég, Szabadság u. 22. számú, a 128. számú tulajdoni lapon, 26 hrsz. alatt, a Református Egyházközség tulajdonaként nyilvántartott ingatlanon álló templomot. A védettség kiterjed a 4031 m2 területű ingatlan teljes területére.
+
+(2) Az 1840–1844 között épült, kései barokk elemeket is felhasználó klasszicista stílusú, tornyával a főhomlokzat elé kiugró épület az egyutcás falu középső részén áll. A pilaszterekkel díszített külső homlokzat, a 3 csehsüveg boltozattal fedett egységes belső tér értékei alapján indokolt a jövő számára megőrizni.

@@ -1,0 +1,1 @@
+## 7. § Megszüntetjük a Borsod-Abaúj-Zemplén megyei, Tard, Széchenyi u. 4. számú, a 372. számú tulajdoni lapon, 302 hrsz. alatt nyilvántartott népi lakóépület MJ–9332 törzsszámú műemléki védettségét, mert az épület által hordozott műemléki érték elenyészett; rekonstrukciója nem indokolt.
