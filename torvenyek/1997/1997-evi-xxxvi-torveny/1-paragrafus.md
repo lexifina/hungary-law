@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Kazak Köztársaság között Budapesten, 1994. december 7-én aláírt, a baráti kapcsolatok és együttműködés alapjairól szóló Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítő okiratait Budapesten, 1996. november 26-án kicserélték, és a Szerződés ezen a napon hatályba lépett.)
