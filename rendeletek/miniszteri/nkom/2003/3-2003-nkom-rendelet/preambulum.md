@@ -1,0 +1,1 @@
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 15. §-ának (1)–(2), valamint 18. §-ának (1) bekezdéseiben foglalt felhatalmazás alapján – az érdekelt miniszterekkel egyetértésben – a következőket rendelem el:
