@@ -1,0 +1,3 @@
+1. § (1) A Kohó- és Gépipari Minisztérium és az Országos Tervhivatal elnökének 337/1951. együttes határozatával, 1952. január 1-jei hatállyal alapított Magyar Elektrotechnikai Ellenőrző Intézetet (székhelye: 1132 Budapest, Váci út 48/A–B) mint költségvetési szervet megszüntetem. A megszűnés időpontja – az államháztartásról szóló 1992. évi XXXVIII. törvény 88. §-ának (4) és 91/A. §-ának (2) bekezdéseiben foglaltaknak megfelelően – a Pénzügyminisztérium által vezetett nyilvántartásból való törlés napja, 1996. december 30.
+
+(2) A Magyar Elektrotechnikai Ellenőrző Intézet Korlátolt Felelősségű Társaságot mint állami tulajdonú egyszemélyes gazdasági társaságot, 1132 Budapest, Váci út 48/A–B székhellyel, 1996. december 30-i hatállyal megalapítom.
