@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Szíriai Arab Köztársaság Kormánya között Budapesten, az 1977. évi március hó 29. napján aláírt nemzetközi közúti fuvarozási megállapodást e rendelettel kihirdeti.
