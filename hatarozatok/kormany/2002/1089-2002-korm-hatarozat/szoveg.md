@@ -1,0 +1,1 @@
+A Kormány a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 2. §-ának (2) bekezdése alapján dr. Oberfrank Ferencet, az Országos Egészségbiztosítási Pénztár főigazgatóját e tisztségéből – 2002. május 30-i hatállyal – felmenti.
