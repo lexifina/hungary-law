@@ -1,0 +1,1 @@
+## 22. § A Csjt. 91. § (1) bekezdésének d) pontját csak a Csjt. hatálybalépése után előterjesztett kérelem esetében lehet alkalmazni. A gyámhatóság hozzájárulása iránti kérelemet azonban akkor is elő lehet terjeszteni, ha a szülő a gyermekét már a Csjt. hatálybalépése előtt átadta más családnak nevelésre.

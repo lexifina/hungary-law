@@ -1,0 +1,1 @@
+## 9. § A különvagyonhoz tartozó tárgy helyébe lépő vagyontárgy közös vagyonná válása szempontjából a tizenöt évi házassági együttélés időtartamát a házasság megkötésétől kell számítani, függetlenül attól, hogy a házasságot a Csjt. hatályba lépése előtt vagy után kötötték meg.
