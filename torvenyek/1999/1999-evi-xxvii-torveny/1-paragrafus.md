@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Török Köztársaság között a beruházások kölcsönös ösztönzéséről és védelméről Ankarában, 1992. január 14-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1994. szeptember 27-én megtörtént, és a Megállapodás 1994. november 1-jén hatályba lépett.)
