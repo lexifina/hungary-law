@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Románia Kormánya között Budapesten, 1997. március 12-én aláírt, az államhatáron keresztül megvalósuló vasúti határforgalom lebonyolításáról szóló Egyezményt e rendelettel kihirdeti.
