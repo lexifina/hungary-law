@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Tápió-Hajta Vidéke Tájvédelmi Körzet elnevezéssel a Pest megyében Farmos, Gomba, Nagykáta, Szentmártonkáta, Tápióbicske, Tápiógyörgye, Tápióság, Tápiószecső, valamint Szolnok megyében Újszász községhatárokban lévő, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, 4515,8 hektár kiterjedésű területet.
