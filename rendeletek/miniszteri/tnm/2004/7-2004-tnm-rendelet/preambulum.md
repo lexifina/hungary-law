@@ -1,0 +1,1 @@
+A honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Hvt.) 130. §-ának (2) bekezdésére figyelemmel, a Hvt. végrehajtását szabályozó 178/1993. (XII. 27.) Korm. rendelet (a továbbiakban: Vhr.) 106. §-ának (3) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
