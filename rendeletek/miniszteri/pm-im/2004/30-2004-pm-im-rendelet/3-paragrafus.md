@@ -1,0 +1,1 @@
+## adhat tájékoztatást.
