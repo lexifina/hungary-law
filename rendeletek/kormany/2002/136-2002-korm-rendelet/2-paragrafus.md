@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Ausztrália Kormánya között az atomenergia békés célú felhasználása terén folytatandó együttműködésről és a nukleáris anyagok átadásáról aláírt egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
