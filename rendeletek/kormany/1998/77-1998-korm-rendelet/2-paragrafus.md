@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Macedónia volt Jugoszláv Köztársaság Kormánya között, Budapesten, 1996. május 29-én aláírt, a nemzetközi közúti személyszállításról és árufuvarozásról szóló Egyezményt e rendelettel kihirdeti.
