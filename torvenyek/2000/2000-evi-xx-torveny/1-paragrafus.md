@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Szingapúri Köztársaság között a beruházások ösztönzéséről és védelméről Szingapúrban, 1997. április 17-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1998. december 2-án megtörtént, és a Megállapodás 1999. január 1-jén hatályba lépett.)
