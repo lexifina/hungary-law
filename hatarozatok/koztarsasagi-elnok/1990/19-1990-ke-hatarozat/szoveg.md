@@ -1,0 +1,1 @@
+A mezőgazdasági és élelmezésügyi miniszter előterjesztésére – nyugállományba vonulására tekintettel – Váradi János egyetemi tanárt (Gödöllői Agrártudományi Egyetem) 1990. június 30. napjának hatályával e tisztsége alól felmentem.
