@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között Budapesten, 1995. július 10-én aláírt, a vámügyekben történő kölcsönös segítségnyújtásról és együttműködésről szóló egyezményt e rendelettel kihirdeti.
