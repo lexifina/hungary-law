@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Argentin Köztársaság között a beruházások elősegítéséről és kölcsönös védelméről Budapesten, 1993. február 5-én aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1997. augusztus 19-én megtörtént, és a Megállapodás 1997. október 1-jén hatályba lépett.)
