@@ -1,0 +1,1 @@
+A népjóléti miniszter előterjesztésére – nyugállományba vonulására tekintettel – dr. Kalocsay Dezső egyetemi tanárt (Semmelweis Orvostudományi Egyetem) 1990. július hó 5. napjának hatályával – e tisztsége alól felmentem.
