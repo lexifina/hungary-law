@@ -1,0 +1,29164 @@
+# Tartalom (impresszum és tartalomjegyzék)
+
+Magyar Közlöny 2003. évi 151. szám 2. rész, 2003. december 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7e43fad8f1d7fa714b3d9387fc1d954dc2c8fc12/dokumentumok/0691b132713d880c54a294837f6da0d455047edc/letoltes)
+
+---
+
+A Kormány tagjainak
+rendeletei
+A külügyminiszter
+és a pénzügyminiszter
+28/2003. (XII. 21.) KüM—PM
+együttes rendelete
+a Kereskedelmi Vámtarifa kihirdetéséről szóló
+64/1995. (XI. 24.) IKM—PM együttes rendelet
+módosításáról
+A vámtarifáról szóló 1995. évi CI. törvény 22. §-ának
+d) pontjában kapott felhatalmazás alapján a következőket
+rendeljük el:
+1. §
+A Kereskedelmi Vámtarifa kihirdetéséről szóló
+64/1995. (XI. 24.) IKM—PM együttes rendelet (a továb-
+biakban: R.) 2. számú melléklete az e rendelet 1. számú
+mellékletében foglaltak szerint módosul.
+2. §
+Az R. 3. számú melléklete helyébe e rendelet 2. számú
+melléklete lép.
+3. §
+Az R. 4. számú melléklete helyébe e rendelet 3. számú
+melléklete lép.
+4. §
+Az R. 5. számú melléklete helyébe e rendelet 4. számú
+melléklete lép.
+5. §
+Az R. 6. számú melléklete helyébe e rendelet 5. számú
+melléklete lép.
+6. §
+Ez a rendelet 2004. január 1-jén lép hatályba, rendelke-
+zéseit a 2004. január 1-jét követő vámkezeléseknél kell
+alkalmazni.
+Kovács László s. k., Dr. Veres János s. k.,
+külügyminiszter pénzügyminisztériumi
+politikai államtitkár
+A M A G Y A R K Ö Z T Á R S A S Á G H I V A T A L O S L A P J A
+Budapest,
+2003. december 21.,
+vasárnap
+151. szám
+II. kötet
+Ára: 4200,— Ft
+TARTALOMJEGYZÉK
+A Kereskedelmi Vámtarifa kihirdetéséről szóló 64/1995. (XI. 24.)
+IKM—PM együttes rendelet módosításáról
+28/2003. (XII. 21.) KüM—PM e. r.
+II. rész JOGSZABÁLYOK
+
+1. számú melléklet a 28/2003. (XII. 21.) KüM—PM együttes rendelethez
+Az R. 2. számú melléklete a következőképpen módosul:
+2. Árucsoport
+1. Az Árucsoporthoz tartozó Kiegészítő megjegyzések 2. C) pont első bekezdése helyébe a következő rendelkezés lép:
+A 0206 49 20 és 0210 99 49 alszámok tartalmazzák a házisertés fejét vagy félfejét is, amely importálható vagy
+exportálható aggyal, tokával, nyelvvel vagy ezek részeivel együtt; vagy azok nélkül.
+2. A 0205 00 vámtarifaszámot követő egyvonalas árumegnevezéstől a 0205 00 90 00-ig felsorolt vámtarifaszámok és
+árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+0205 00 20 00 — Frissen vagy hűtve
+0205 00 80 00 — Fagyasztva
+3. A 0206 30-tól a 0206 30 80 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+0206 30 00 00 — Sertésből frissen vagy hűtve
+4. A 0206 41-től a 0206 41 80 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+0206 41 00 00 — — Máj
+3. Árucsoport
+1. A 0301 91 10 00 vámtarifaszámhoz tartozó árumegnevezés helyébe a következő árumegnevezés lép:
+— — — Oncorhynchus apache vagy Oncorhynchus chrysogaster fajból
+2. A 0302 11 10 00 vámtarifaszámhoz tartozó árumegnevezés helyébe a következő árumegnevezés lép:
+— — — Oncorhynchus apache vagy Oncorhynchus chrysogaster fajból
+3. A 0302 11 20 00 vámtarifaszámhoz tartozó árumegnevezés helyébe a következő árumegnevezés lép:
+— — — Oncorhynchus mykiss fajból kibelezve, fejjel vagy kopoltyúval együtt több
+mint 1,2 kg tömegű, kibelezve, fej és kopoltyú nélkül több mint 1 kg tömegű
+4. A 0303 21 10 00 vámtarifaszámhoz tartozó árumegnevezés helyébe a következő árumegnevezés lép:
+— — — Oncorhynchus apache vagy Oncorhynchus chrysogaster fajból
+5. A 0303 21 20 00 vámtarifaszámhoz tartozó árumegnevezés helyébe a következő árumegnevezés lép:
+— — — Oncorhynchus mykiss fajból kibelezve, fejjel vagy kopoltyúval együtt több
+mint 1,2 kg tömegű, kibelezve, fej és kopoltyú nélkül több mint 1 kg tömegű
+6. A 0303 39 20 00 vámtarifaszámot a hozzá tartozó árumegnevezéssel együtt törölni kell.
+7. A 0303 39 80 00 vámtarifaszám 0303 39 70 00 vámtarifaszámra változik.
+
+8. A 0303 74 30 00 vámtarifaszámhoz tartozó árumegnevezés helyébe a következő árumegnevezés lép:
+— — — Scomber grombrus vagy Scomber japonicus
+9. A 0303 79 94 00 vámtarifaszámhoz tartozó árumegnevezés helyébe a következő árumegnevezés lép:
+— — — — A Pelotreis flavilatus vagy a Peltorhamphus novaezealandiae fajhoz
+tartozó hal
+10. A 0304 20 19 00-tól a 0304 20 95 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+0304 20 19 00 — — — Másféle édesvízi halból
+— — Más:
+— — — Tőkehalból (Gadus morhua, gadus ogac, Gadus macrocephalus és a
+Boreogadus saida fajhoz tartozó halból:
+0304 20 21 00 — — — — A Gadus macrocephalus fajhoz tartozó tőkehalból
+0304 20 29 00 — — — — Másféle
+0304 20 31 00 — — — Fekete tőkehalból (Pollachius virens)
+0304 20 33 00 — — — Foltos tőkehalból (Menalogrammus aeglefinus)
+— — — Sebastes spp.-ből:
+0304 20 35 00 — — — — Sebastes marinus fajból
+0304 20 37 00 — — — — Másféle
+0304 20 41 00 — — — Sárga tőkehalból (Merlangus merlangus)
+0304 20 43 00 — — — Gadóchalból (Molva spp.)
+0304 20 45 00 — — — Tonhalból (a Thunnus nemből) és az Euthynnus nemhez tartozó halból
+— — — Makrélából (Scomber scombrus, Scomber australasicus, Scomber japoni-
+cus) és Orcynopsis unicolor fajhoz tartozó halból:
+0304 20 51 00 — — — — Scomber australasicus fajhoz tartozó makrélából
+0304 20 53 00 — — — — Másféle
+— — — Szürke tőkehalból (Merluccius spp., Urophycis spp.), azaz hekkből:
+— — — — Merluccius spp. nemhez tartozó szürke tőkehalból;
+0304 20 55 00 — — — — — Fokföldi (sekélyvízi) szürke tőkehalból (Merluccius capensis) és
+mélytengeri (mélytengeri fokföldi) szürke tőkehalból (Merluccius paradoxus)
+0304 20 56 00 — — — — — Argentin (dél-nyugt atlanti) szürke tőkehalból (Merluccius hubbsi)
+0304 20 58 00 — — — — — Másféle
+0304 20 59 00 — — — — Urophycis spp. nemhez tartozó szürke tőkehalból
+— — — Macskacápából és más cápából:
+0304 20 61 00 — — — — Macskacápából (Squalus ananthias és Scyliorhinys spp.)
+0304 20 69 00 — — — — Másféle cápából
+0304 20 71 00 — — — Sima lepényhalból (Pleuronectes platessa)
+0304 20 73 00 — — — Platichtys flesus-ból
+0304 20 75 00 — — — Heringből (Clupea harengus, Clupea pallasii)
+0304 20 79 00 — — — Lepidorhombus spp.-ből
+0304 20 83 00 — — — Lophius spp.-ből
+0304 20 85 00 — — — Theragra chalcogramma-ból
+0304 20 87 00 — — — Kardhalból (Xiphias gladius)
+0304 20 88 00 — — — Atlanti jéghal (Dissostichus spp.)
+0304 20 91 00 — — — Macruronus novaezealandiae-ból
+0304 20 94 00 — — — Másféle
+
+11. A 0304 90 45 00-től a 0304 90 49 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+0304 90 45 00 — — — — Foltos tőkehalból (Melanogrammus aeglefinus)
+0304 90 48 00 — — — — Szürke tőkehalból (Merluccius spp., Urophycis spp.)
+12. A 0305 59 60 00 vámtarifaszámot a hozzá tartozó árumegnevezéssel együtt törölni kell.
+13. A 0305 59 90-től a 0305 59 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+0305 59 80 — — — Más:
+0305 59 80 01 — — — — Szardínia
+0305 59 80 99 — — — — Egyéb
+14. A 0305 69 20 00 vámtarifaszámot a hozzá tartozó árumegnevezéssel együtt törölni kell.
+15. A 0305 69 90-től a 0305 69 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+0305 69 80 00 — — — Más:
+0305 69 80 01 — — — — Szardínia
+0305 69 80 99 — — — — Egyéb
+16. A 0306 24 10 00 vámtarifaszámot a hozzá tartozó árumegnevezéssel együtt törölni kell.
+17. A 0306 24 90 00 vámtarifaszám 0306 24 80 00 vámtarifaszámra változik.
+18. A 0307 99 18 00 vámtarifaszámhoz tartozó árumegnevezés helyébe a következő árumegnevezés lép:
+— — — — Másféle
+7. Árucsoport
+1. A 0713 90-től a 0713 90 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+0713 90 00 00 — Más
+12. Árucsoport
+1. A 1211 90 70 00 és a 1211 90 75 00 vámtarifaszámokat a hozzájuk tartozó árumegnevezésekkel együtt törölni kell.
+2. A 1211 90 98-tól a 1211 90 98 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+1211 90 97 — — Másféle:
+1211 90 97 01 — — — Kvassziafa- és kininfakéreg, szennalevél, kalabarbab, ipekakuanagyökér és
+más fagyökér (a macskagyökér, Radix valerianae kivételével), fakéreg, faháncs
+1211 90 97 99 — — — — Egyéb
+3. A 1214 90 10 00-tól a 1214 90 99 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+1214 90 10 00 — — Marharépa, karórépa és egyéb takarmánygyökér
+1214 90 90 00 — — Más
+
+15. Árucsoport
+1. A 15. Árucsoporthoz tartozó Kiegészítő megjegyzések 2. A) pontjában a II. Táblázat után az 1:= 0,2 kezdetű sorban
+a vámtarifaszám 1510-re módosul.
+2. A 1512 19 10 00-tól a 1512 19 99 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+1512 19 10 00
+— — — Műszaki vagy ipari felhasználásra, az emberi fogyasztásra alkalmas, feldol-
+gozott élelmiszer-előállítás kivételével
+1512 19 90
+— — — Más:
+1512 19 90 01
+— — — — Napraforgómagolaj
+1512 19 90 02
+— — — — Pórsáfránymagolaj
+3. A 1513 21-től a 1513 21 19 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+1513 21
+— — Nyers olaj:
+1513 21 10 00
+— — — Műszaki vagy ipari felhasználásra, az emberi fogyasztásra alkalmas, feldol-
+gozott élelmiszer-előállítás kivételével
+4. A 1513 29 50 00-tól a 1513 29 99 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+1513 29 50 00
+— — — — — Legfeljebb 1 kg nettó tömegű kiszerelésben
+1513 29 90 00
+— — — — — Más
+16. Árucsoport
+1. A 1602 31 vámtarifaszám utáni háromvonalas árumegnevezés helyébe a következő árumegnevezés lép:
+— — — Legalább 57 tömegszázalék baromfihús- vagy belsőségtartalommal
+2. A 1602 31 30 00 vámtarifaszám árumegnevezése helyébe a következő árumegnevezés lép:
+— — — Legalább 25 tömegszázalék, de kevesebb mint 57 tömegszázalék baromfi-
+hús- vagy belsőségtartalommal
+3. A 1604 12 10 00 vámtarifaszám árumegnevezése helyébe a következő árumegnevezés lép:
+— — — Nyers filé, csupán híg tésztával vagy morzsával bevonva, olajban elősütve
+is, hűtve
+4. A 1604 19 91 00 vámtarifaszám árumegnevezése helyébe a következő árumegnevezés lép:
+— — — — Nyers filé, csupán híg tésztával vagy morzsával bevonva, olajban elősüt-
+ve is, hűtve
+19. Árucsoport
+1. A Kiegészítő megjegyzések 3. pontját törölni kell.
+2003/151/II. szám
+
+2. A 1905 32-től a 1905 32 99 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+1905 32
+— — Gofri és ostya:
+1905 32 05 00
+— — — Gofri és ostya, 10 tömegszázalékot meghaladó víztartalommal
+— — — Más:
+— — — — Csokoládéval vagy más kakaótartalmú készítménnyel részben vagy tel-
+jesen bevonva vagy beborítva:
+1905 32 11
+— — — — — Legfeljebb 85 gramm tömegű kiszerelésben:
+1905 32 11 01
+— — — — — — Diabetikus
+1905 32 11 99
+— — — — — — Egyéb
+1905 32 19
+— — — — — Másféle:
+1905 32 19 01
+— — — — — — Diabetikus ostya
+1905 32 19 99
+— — — — — — Egyéb
+— — — — Más:
+1905 32 91
+— — — — — Sózva, töltött is:
+1905 32 91 01
+— — — — — — Diabetikus készítmény
+1905 32 91 99
+— — — — — — Egyéb
+1905 32 99
+— — — — — Másféle:
+1905 32 99 01
+— — — — — — Diabetikus készítmény
+1905 32 99 99
+— — — — — — Egyéb
+3. A 1905 90 40 00 vámtarifaszámot és árumegnevezést törölni kell.
+20. Árucsoport
+1. A Kiegészítő megjegyzések 7. pontjából a 2008 19 59 alszámot törölni kell, és helyette a 2008 19 91 alszámot kell
+felvenni.
+2. A Kiegészítő megjegyzések 8. pontjából a 2008 19 51 és a 2008 19 59 alszámokat törölni kell, és helyette a
+2008 19 91 alszámot kell felvenni.
+3. A 2001 90 75 00 és a 2001 90 85 00 vámtarifaszámokat az árumegnevezésekkel együtt törölni kell.
+4. A 2001 90 96 00 vámtarifaszám 2001 90 99 00 vámtarifaszámra változik.
+5. A 2007 99 51 00 vámtarifaszámot az árumegnevezéssel együtt törölni kell.
+6. A 2007 99 58 00 vámtarifaszám 2007 99 57 00 vámtarifaszámra változik.
+7. A 2008 19 19 00 vámtarifaszámot követő négyvonalas árumegnevezéstől a 2008 19 59 00-ig felsorolt vámtarifaszámok
+helyébe a következő vámtarifaszám és árumegnevezés lép:
+2008 19 91 00
+— — — — Trópusi diófélék; keverék legalább 50 tömegszázalék trópusi dióféle és
+trópusi gyümölcstartalommal
+8. A 2008 20 79 00 vámtarifaszámot követő háromvonalas árumegnevezéstől a 2008 20 99 00-ig felsorolt vámtarifaszá-
+mok helyébe a következő vámtarifaszám és árumegnevezés lép:
+2008 20 90 00
+— — — Cukor hozzáadása nélkül
+9. A 2008 40 79 00 vámtarifaszámot követő háromvonalas árumegnevezéstől a 2008 40 99 00-ig felsorolt vámtarifaszá-
+mok helyébe a következő vámtarifaszám és árumegnevezés lép:
+2008 40 90 00
+— — — Cukor hozzáadása nélkül
+
+2003/151/II. szám
+
+10. A 2008 70 94 00 vámtarifaszámot az árumegnevezéssel együtt törölni kell.
+11. A 2008 70 99 00 vámtarifaszám és árumegnevezés helyébe a következő vámtarifaszám és árumegnevezés lép:
+2008 70 98 00 — — — — 5 kg-nál kevesebb
+12. A 2008 80 70 00 vámtarifaszámot követő háromvonalas árumegnevezéstől a 2008 80 99 00-ig felsorolt vámtarifa-
+számok helyébe a következő vámtarifaszám és árumegnevezés lép:
+2008 80 90 00 — — — Cukor hozzáadása nélkül
+13. A 2008 99 53 00 és a 2008 99 55 00 vámtarifaszámokat az árumegnevezéseikkel együtt törölni kell.
+14. A 2008 99 68 00 vámtarifaszám 2008 99 67 00 vámtarifaszámra változik.
+21. Árucsoport
+1. A 2103 30 10 00 vámtarifaszám árumegnevezése helyébe a következő árumegnevezés lép:
+— — Mustárliszt és -dara
+25. Árucsoport
+1. A 2508 70-től a 2508 70 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2508 70 00 00 — Samott vagy dinaszföld
+2. A 2523 90 30 00 vámtarifaszámot a hozzá tartozó árumegnevezéssel együtt törölni kell.
+3. A 2523 90 90 00 vámtarifaszám 2523 90 80 00 vámtarifaszámra változik.
+26. Árucsoport
+1. A 2619 00 10 00-tól a 2619 00 99 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+2619 00 20 00 — Vas és mangán kinyerésére alkalmas hulladék
+2619 00 40 00 — Titánoxid kinyerésére alkalmas salak
+2619 00 80 00 — Más
+2. A 2620 99 30 00; a 2620 99 50 00; a 2620 99 70 00 és a 2620 99 80 00 vámtarifaszámokat árumegnevezéssel együtt
+törölni kell.
+3. A 2620 99 90 00 vámtarifaszám és árumegnevezés helyébe a következő vámtarifaszám és árumegnevezés lép:
+2620 99 95 00 — — — Másféle
+
+29. Árucsoport
+1. A 2901 10-től a 2901 10 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2901 10 00 00
+— Telített
+2. A 2901 21-től a 2901 21 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2901 21 00 00
+— — Etilén
+3. A 2901 22-től a 2901 22 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2901 22 00 00
+— — Propilén (propén)
+4. A 2901 23-tól a 2901 23 99 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+2901 23
+— — Butilén (butén) és izomerjei:
+2901 23 10 00
+— — — 1-butén és 2-butén
+2901 23 90 00
+— — — Más
+5. A 2901 24-től a 2901 24 99 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+2901 24
+— — 1,3 butadién és izoprén:
+2901 24 10 00
+— — — 1,3 butadién
+2901 24 90 00
+— — — Izoprén
+6. A 2901 29-től a 2901 29 80 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2901 29 00 00
+— — Másféle
+7. A 2902 19 30 00 vámtarifaszámot árumegnevezéssel együtt törölni kell.
+8. A 2902 19 90 00 vámtarifaszám 2902 19 80 00 vámtarifaszámra változik.
+9. A 2902 90 50 00 és a 2902 90 60 00 vámtarifaszámokat az árumegnevezésekkel együtt törölni kell.
+10. A 2902 90 80-tól a 2902 90 80 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+2902 90 90
+— — Más:
+2902 90 90 01
+— — — Izobutil benzol; 1,3-diizopropil benzol
+2902 90 90 99
+— — — Egyéb
+11. A 2905 49 10 00 vámtarifaszámot követő háromvonalas árumegnevezéstől a 2905 49 90 00-ig felsorolt vámtarifa-
+számok és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+2905 49 80
+— — — Más:
+2905 49 80 01
+— — — — Savfunkciós vegyületekkel előállított glicerin észterek
+2905 49 80 99
+— — — — Egyéb
+
+2003/151/II. szám
+
+12. A 2907 22-től a 2907 22 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2907 22 00 00 — — Hidrokinon (kinol) és sói
+13. A 2914 70-től a 2914 70 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2914 70 00 00 — Halogén-, szulfo-, nitro- vagy nitrozoszármazékok
+14. A 2916 11-től a 2916 11 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2916 11 00 00 — — Akrilsav és sói
+15. A 2918 29 50 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+16. A 2918 29 90 00 vámtarifaszám 2918 29 80 00 vámtarifaszámra változik.
+17. A 2930 90 12 00-tól a 2930 90 14 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszám és árumegnevezés lép:
+2930 90 13 00 — — Cisztein és cisztin
+18. A 2932 99 10 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+19. A 2932 99 95-től a 2932 99 95 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+2932 99 85 — — — Másféle:
+2932 99 85 01 — — — — Pipenoril-butoxid
+2932 99 85 99 — — — — Egyéb
+20. A 2939 21-től a 2939 21 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2939 21 00 00 — — Kinin és sói
+21. A 2939 99-től a 2939 99 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2939 99 00 00 — — Másféle
+22. A 2940-től a 2940 00 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+2940 2940 40 00 00 Vegyileg tiszta cukrok, a szaharóz, laktóz, maltóz, glukóz és fruktóz kivételével;
+cukoréterek, -acetálok és -észterek és ezek sói, a 2937, 2938 és a 2939 vtsz. alá tartozó
+termékek kivételével
+
+32. Árucsoport
+1. A 3203 vámtarifaszámot követő egyvonalas árumegnevezéstől a 3203 00 19 99-ig felsorolt vámtarifaszámok és
+árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+3203 00 10 — Növényi eredetű színezőanyagok és színezékek:
+3203 00 10 01 — — Fekete katechu (Acacia catechu); növényi eredetű színezőanyagok
+3203 00 10 99 — — Egyéb
+2. A 3212 90 10 00-tól a 3212 90 39 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+3212 90 31 00 — — — Alumíniumpor alapú
+3212 90 38 00 — — — Másféle
+37. Árucsoport
+1. A 3702 52-től a 3702 52 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+3702 52 00 00 — — Legfeljebb 16 mm szélességben és 14 m-t meghaladó hosszúságban
+2. A 3702 56-tól a 3702 56 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+3702 56 00 00 — — 35 mm-t meghaladó szélességben
+38. Árucsoport
+1. A 3817 00 10 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+2. A 3817 00 90 00 vámtarifaszám 3817 00 80 00 vámtarifaszámra változik.
+3. A 3824 90 30 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+4. A 3825 90 00-tól a 3825 90 00 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+3825 90 — Más:
+3825 90 10 00 — — Alkáli vasoxidok gáztisztításhoz
+3825 90 90 — — Más:
+3825 90 90 01 — — — Vegyipar és vele rokon iparágak másutt nem említett maradékai és mellék-
+termékei
+3825 90 90 99 — — — Egyéb
+39. Árucsoport
+1. Az Árucsoporthoz tartozó Megjegyzések (11) bekezdés h) pontja szövege végére a ; után és szót kell felvenni.
+2. Az Árucsoporthoz tartozó Kiegészítő megjegyzések 1. pontja helyébe a következő rendelkezés lép:
+
+1. Ha a szövetek, kötött vagy hurkolt kelmék, nemezek vagy nem szőtt textíliák csupán megerősítési célra szolgálnak,
+a porózus műanyaggal impregnált, bevont vagy beborított kesztyű, ujjatlan és egyujjas kesztyű a 39. Árucsoportba
+tartozik, amennyiben
+— porózus műanyaggal impregnált, bevont vagy beborított szövetből, kötött vagy hurkolt kelméből (az 5903
+vámtarifaszám alá tartozó kivételével), nemezből vagy nem szőtt textíliából készítették, vagy
+— nem impregnált, nem bevont vagy nem beborított szövetből, kötött vagy hurkolt kelméből, nemezből vagy nem
+szőtt textíliából készítették és ezt követően impregnálták, bevonták vagy beborították porózus műanyaggal.
+[Lásd az 56. Árucsoporthoz tartozó Megjegyzések (3) bekezdés c) pontját, valamint az 59. Árucsoporthoz tartozó
+Megjegyzések (2) bekezdés a) pontját, és az (5) bekezdését.]
+3. A 3913 90-től a 3913 90 80 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+3913 90 00
+— Más:
+3913 90 00 01
+— — Természetes gumi kémiai származékai
+3913 90 00 02
+— — Amilopektin; amilóz
+3913 90 00 99
+— — Egyéb
+4. A 3915 90 13 00-tól a 3915 90 99 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+3915 90 18
+— — — Másféle:
+3915 90 18 01
+— — — — Akrilpolimerekből
+3915 90 18 99
+— — — — Egyéb
+3915 90 90
+— — Más:
+3915 90 90 01
+— — — Epoxigyantákból; más polikondenzációs vagy poliaddíciós műgyantából
+3915 90 90 02
+— — — Cellulózból és kémiai származékaiból
+3915 90 90 03
+— — — Keményített fehérjékből, észtergyantákból és gumiszármazékokból
+3915 90 90 99
+— — — Egyéb
+40. Árucsoport
+1. Az Árucsoporthoz tartozó Kiegészítő megjegyzések 1. pontja helyébe a következő rendelkezés lép:
+1. Ha a szövetek, kötött vagy hurkolt kelmék, nemezek vagy nem szőtt textíliák csupán megerősítési célt szolgálnak,
+a porózus műanyaggal impregnált, bevont vagy beborított kesztyű, ujjatlan és egyujjas kesztyű a 40. Árucsoportba
+tartozik, amennyiben
+— porózus műanyaggal impregnált, bevont vagy beborított szövetből, kötött vagy hurkolt kelméből (az 5906
+vámtarifaszám alá tartozó kivételével), nemezből vagy nem szőtt textíliából készítették, vagy
+— nem impregnált, nem bevont vagy nem beborított szövetből, kötött vagy hurkolt kelméből, nemezből vagy nem
+szőtt textíliából készítették, és ezt követően impregnálták, bevonták vagy beborították porózus gumival.
+[Lásd az 56. Árucsoporthoz tartozó Megjegyzések (3) bekezdés c) pontját és (4) bekezdését, valamint az 59. Áru-
+csoporthoz tartozó Megjegyzések a) pont utolsó előtti bekezdését.]
+2. A 4013 90-től a 4013 90 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+4013 90 00
+— Más:
+4013 90 00 01
+— — Erőgéphez 13—28 méretben
+4013 90 00 02
+— — Erőgéphez más méretben
+4013 90 00 99
+— — Egyéb
+2003/151/II. szám
+
+3. A 4017 00 10-től a 4017 00 10 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+4017 00 10
+— Keménygumi (pl. ebonit) összes formában, beleértve a hulladékot és törmeléket
+is:
+4017 00 10 01
+— — Keménygumi félgyártmányok
+4017 00 10 99
+— — Egyéb
+43. Árucsoport
+1. A 4301 80 10 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+2. A 4301 80 95 00 vámtarifaszám és árumegnevezése helyébe a következő vámtarifaszám és árumegnevezés lép:
+4301 80 80 00
+— — Más
+3. A 4302 30 35 00 és a 4302 30 65 00 vámtarifaszámokat árumegnevezésükkel együtt törölni kell.
+4. A 4302 30 75 00 vámtarifaszám 4302 30 95 00 vámtarifaszámra változik.
+44. Árucsoport
+1. A 4407 25 50 00 vámtarifaszámot követő négyvonalas árumegnevezéstől a 4407 25 80 99-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+4407 25 90
+— — — — Más:
+4407 25 90 01
+— — — — — Fűrészelt, szélezett
+4407 25 90 99
+— — — — — Egyéb
+48. Árucsoport
+1. A 4802 54-től a 4802 54 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+4802 54 00
+— — 40 g/m2-nél kisebb négyzetmétertömegű papír:
+4802 54 00 01
+— — — Flórpostapapír, légipostapapír, átütő irodai papír
+4802 54 00 99
+— — — Egyéb
+2. A 4802 55-től a 4802 55 00 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+4802 55
+— — Legalább 40 g/m
+2, de legfeljebb 150 g/m
+2 tömegű, tekercsben:
+4802 55 10
+— — — Legalább 40 g/m2, de kevesebb mint 60 g/m2 tömegű:
+4802 55 10 01
+— — — — Bankpostapapír, üzleti könyvpapír, rajzpapír
+4802 55 10 02
+— — — — Másféle író-, nyomópapír
+4802 55 10 99
+— — — — Egyéb
+4802 55 20
+— — — Legalább 60 g/m2, de kevesebb mint 75 g/m2 tömegű:
+4802 55 20 01
+— — — — Bankpostapapír, üzleti könyvpapír, rajzpapír
+4802 55 20 02
+— — — — Másféle író-, nyomópapír
+4802 55 20 99
+— — — — Egyéb
+
+2003/151/II. szám
+
+4802 55 30
+— — — Legalább 75 g/m2, de kevesebb mint 80 g/m2 tömegű:
+4802 55 30 01
+— — — — Bankpostapapír, üzleti könyvpapír, rajzpapír
+4802 55 30 02
+— — — — Másféle író-, nyomópapír
+4802 55 30 99
+— — — — Egyéb
+4802 55 90
+— — — Legalább 80 g/m
+2 tömegű:
+4802 55 90 01
+— — — — Bankpostapapír, üzleti könyvpapír, rajzpapír
+4802 55 90 02
+— — — — Másféle író-, nyomópapír
+4802 55 90 99
+— — — — Egyéb
+3. A 4802 61 10 00-tól a 4802 69 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+4802 61 20 00
+— — — 72 g/m2-nél kisebb négyzetmétertömegű és több mint 50 tömegszázaléka
+mechanikai eljárással nyert rostanyagot tartalmaz
+4802 61 80 00
+— — — Más
+4802 62 00 00
+— — — Ívekben, amelyek oldalhosszúsága összehajtás nélkül az egyik oldalon
+legfeljebb 435 mm és a másik oldalon legfeljebb 297 mm
+4802 69 00 00
+— — — Másféle
+4. A 4804 31-től a 4804 39 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+4804 31
+— — Fehérítetlen:
+— — — Legalább 80 tömegszázalékban tűlevelű fából kémiai szulfátos vagy szódás
+eljárással előállított rostanyagot tartalmaz:
+4804 31 51 00
+— — — — Elektromos műszaki szigetelő nátronpapír
+4804 31 58 00
+— — — — Másféle
+4804 31 80 00
+— — — Más
+4804 39
+— — Másféle:
+— — — Legalább 80 tömegszázalékban tűlevelű fából kémiai szulfátos vagy szódás
+eljárással előállított rostanyagot tartalmaz:
+4804 39 51 00
+— — — — Anyagában egyenletesen fehérítve
+4804 39 58 00
+— — — — Másféle
+4804 39 80 00
+— — — Más
+5. A 4805 91-től a 4805 93 99 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+4805 91 00
+— — Legfeljebb 150 g/m
+2 tömegű:
+4805 91 00 01
+— — — Triplex Blg, Triplex Dlg, szürke lemez, szürke triplex lemez, könyvkötő
+lemez
+4805 91 00 02
+— — — Csiszoló alappapír
+4805 91 00 99
+— — — Egyéb
+4805 92 00
+— — 150 g/m2-t meghaladó, de 225 g/m2-nél kisebb négyzetmétertömegű:
+4805 92 00 01
+— — — Triplex Blg, Triplex Dlg, szürke lemez, szürke triplex lemez, könyvkötő
+lemez
+4805 92 00 02
+— — — Csiszoló alappapír
+4805 92 00 99
+— — — Egyéb
+4805 93 00
+— — Legalább 225 g/m
+2 tömegű:
+4805 93 20
+— — — Papírhulladékból visszanyert papír:
+4805 93 20 01
+— — — — Triplex Blg, Triplex Dlg, szürke lemez, szürke triplex lemez, könyvkötő
+lemez
+2003/151/II. szám
+
+4805 93 20 02
+— — — — Csiszoló alappapír
+4805 93 20 99
+— — — — Egyéb
+4805 93 80
+— — — Más:
+4805 93 80 01
+— — — — Triplex Blg, Triplex Dlg, szürke lemez, szürke triplex lemez, könyvkötő
+lemez
+4805 93 80 02
+— — — — Csiszoló alappapír, nyers fedéllemez, kéreglemez (karton)
+4805 93 80 99
+— — — — Egyéb
+6. A 4807 00 10 00-tól a 4807 00 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+4807 00 30 00
+— Papírhulladékból visszanyert papír, papírral borítva is
+4807 00 80 00
+— Más
+7. A 4810 13-tól a 4810 14 99 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+4810 13
+— — Tekercsben:
+4810 13 20 00
+— — — Fény-, hő-, vagy elektromosság érzékeny papír vagy karton gyártására
+alkalmas alappapír legfeljebb 150 gr/m
+2 négyzetmétertömegű
+4810 13 80
+— — — Más:
+4810 13 80 01
+— — — — Műnyomópapír
+4810 13 80 02
+— — — — Dekorpapír
+4810 13 80 03
+— — — — Vonalas, kockás, margós papír
+4810 13 80 99
+— — — — Egyéb
+4810 14
+— — Ívekben, amelyek oldalhosszúsága összehajtás nélkül az egyik oldalon legfel-
+jebb 435 mm és a másik oldalon legfeljebb 297 mm:
+4810 14 20 00
+— — — Fény-, hő-, vagy elektromosság érzékeny papír vagy karton gyártására
+alkalmas alappapír legfeljebb 150 gr/m
+2 négyzetmétertömegű
+4810 14 80
+— — — Más:
+4810 14 80 01
+— — — — Műnyomópapír
+4810 14 80 02
+— — — — Dekorpapír
+4810 14 80 03
+— — — — Vonalas, kockás, margós papír
+4810 14 80 99
+— — — — Egyéb
+8. A 4810 22 10 99 vámtarifaszámot követő háromvonalas árumegnevezéstől a 4810 29 99 00-ig felsorolt vámtarifaszá-
+mok és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+4810 22 90
+— — — Más:
+4810 22 90 01
+— — — — Vonalas, kockás, margós papír
+4810 22 90 99
+— — — — Egyéb
+4810 29
+— — Másféle:
+4810 29 30 00
+— — — Tekercsben
+4810 29 80 00
+— — — Más
+9. A 4811 41 10 00-tól a 4811 49 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+4811 41 20 00
+— — — Legfeljebb 10 cm szélességű, gumival vagy szintetikus gumival bevonva
+vagy beborítva
+4811 41 90 00
+— — — Más
+4811 49 00 00
+— — Másféle
+
+2003/151/II. szám
+
+10. A 4811 90-től a 4811 90 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszá-
+mok és árumegnevezések lépnek:
+4811 90 00 — Más papír, karton, cellulózvatta és cellulózszálból álló szövedék:
+4811 90 00 01 — — Vonalas, kockás vagy margós papír és karton
+4811 90 00 99 — — Egyéb
+11. A 4818 40 19 00 vámtarifaszámot követő kétvonalas árumegnevezéstől a 4818 40 99 00-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszám és árumegnevezés lép:
+4818 40 90 00 — — Csecsemőpelenka és pelenkabetét és hasonló egészségügyi cikk
+12. A 4819 20-tól a 4819 20 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+4819 20 00 00 — Összehajtható doboz, láda és tok, a hullámpapírból vagy kartonból készültek
+kivételével
+13. A 4823 12-től a 4823 12 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+4823 12 00 00 — — Öntapadó
+14. A 4823 90 10 00 vámtarifaszámot követő háromvonalas árumegnevezéstől a 4823 90 90 00-ig felsorolt vámtarifa-
+számok és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+4823 90 40 — — — Papír és karton írásra, nyomtatásra vagy más grafikai célra:
+4823 90 40 01 — — — — Nyomtatva, domborítva vagy perforálva
+4823 90 40 99 — — — — Egyéb
+4823 90 80 — — — Más:
+4823 90 80 01 — — — — Cellulózvatta papírpelenka gyártására (méretre vágva)
+4823 90 80 02 — — — — Fémgőzzel bevont kondenzátorpapír
+4823 90 80 03 — — — — Matricalemez, -papír vagy -karton; cellulózszálból álló szövedék
+4823 90 80 99 — — — — Egyéb
+49. Árucsoport
+1. A 491191-től a 49119180 00-igfelsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+4911 91 00 — — Kép, minta és fénykép:
+4911 91 00 01 — — — Nyomtatott képek és illusztrációk szöveg nélkül, könyvkiadás céljára; min-
+takönyv
+4911 91 00 99 — — — Egyéb
+51. Árucsoport
+1. Az Árucsoporthoz tartozó Kiegészítő megjegyzést törölni kell.
+2. Az 5111 11-től az 5111 1199 00-igfelsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+5111 11 00 00 — — Legfeljebb 300 g/m2 tömegű
+
+3. Az 5111 19 vámtarifaszámot követő háromvonalas árumegnevezéstől az 5111 19 99 00-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+5111 19 10 00
+— — — 300 g/m2-t meghaladó, de legfeljebb 450 g/m2 tömegű
+5111 19 90 00
+— — — 450 g/m2-t meghaladó tömegű
+4. Az 5112 11-től az 5112 11 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+5112 11 00 00
+— — Legfeljebb 200 g/m
+2 tömegű
+5. Az 5112 19 vámtarifaszámot követő háromvonalas árumegnevezéstől az 5112 19 99 00-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+5112 19 10 00
+— — — 200 g/m
+2-t meghaladó, de legfeljebb 375 g/m2 tömegű
+5112 19 90 00
+— — — 375 g/m2-t meghaladó tömegű
+64. Árucsoport
+1. A 6401 91-től a 6401 91 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+6401 91 00 00
+— — Térdet takaró lábbeli
+2. A 6401 99-től a 6401 99 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+6401 99 00 00
+— — Másféle
+3. A 6405 10-től a 6405 10 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+6405 10 00
+— Lábbeli bőr, mesterséges vagy rekonstruált bőr felső résszel:
+6405 10 00 01
+— — Fa vagy parafa talppal
+6405 10 00 02
+— — Más anyagból készült talppal
+68. Árucsoport
+1. A 6814 90-től a 6814 90 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+6814 90 00
+— Más:
+6814 90 00 01
+— — Csillámlemez, csillámlap
+6814 90 00 02
+— — Korong, tekercs, cső csillámkondenzátor (8532 vtsz.) és csillámszigetelő (8546
+vtsz.) előállításához
+6814 90 00 99
+— — Egyéb
+
+2003/151/II. szám
+
+69. Árucsoport
+1. A 6901-től a 6901 00 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám és
+árumegnevezés lép:
+6901 6901 00 00 00
+Tégla, tömb, lap és más hasonló kerámiai áru kovasavas fosszilis porból (pl. kovaföld,
+tripolit vagy diatomit) vagy hasonló szilíciumos földből
+2. A 6903 90 20 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+3. A 6903 90 80-tól a 6903 90 80 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+6903 90 90
+— — Más:
+6903 90 90 01
+— — — Magnézium, dolomit vagy krómérc tartalmú
+6903 90 90 99
+— — — Egyéb
+72. Árucsoport
+1. A Kiegészítő megjegyzés 1. pontjának első — vonalas szövegében a 7211 23 91 alszám „7211 23 20” alszámra
+változik.
+2. A Kiegészítő megjegyzés 1. pontjának második — vonalas szövege helyébe a következő szöveg lép:
+— „ónozott lemez”: a 7210 12 20, 7210 70 10, 7212 10 10 és a 7212 40 20 alszámok esetén olyan (0,5 mm vastagságú)
+hengerelt termék, amelyet legalább 97 tömegszázalék óntartalmú réteggel vontak be.
+3. A Kiegészítő megjegyzés 1. pontjának harmadik — vonalas szövege helyébe a következő szöveg lép:
+— „szerszámacél”: a 7224 10 10, 7224 90 02, 7225 30 10, 7225 40 12, 7226 91 20, 7228 30 20, 7228 40 10, 7228 50 20
+és 7228 60 20 alszámok esetén olyan acélötvözet a rozsdamentes és a gyorsacél kivételével, amely esetleges egyéb
+ötvözők mellett tartalmaz egyet a felsorolt ötvözőelemek közül (tömegszázalékban):
+4. A 7202 21-től a 7202 21 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+7202 21 00 00
+— — 55 tömegszázalékot meghaladó szilíciumtartalommal
+5. A 7202 41 10 00 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7202 41 99 00-ig felsorolt vámtarifaszá-
+mok és árumegnevezések helyébe a következő vámtarifaszám és árumegnevezés lép:
+7202 41 90 00
+— — — 6 tömegszázalékot meghaladó széntartalommal
+6. A 7202 99 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7202 99 19 00-ig felsorolt vámtarifaszámok és
+árumegnevezések helyébe a következő vámtarifaszám és árumegnevezés lép:
+7202 99 10 00
+— — — Ferrofoszfor
+7. A 7204 49 30 00 vámtarifaszámot követő négyvonalas árumegnevezéstől a 7204 49 99 00-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszám és árumegnevezés lép:
+7204 49 90 00
+— — — — Más
+2003/151/II. szám
+
+8. A 7207 19 vámtarifaszámot követő négyvonalas árumegnevezéstől a 7207 19 90 00-ig felsorolt vámtarifaszámok és
+árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7207 19 12 00 — — — — Hengerelve vagy folyamatos öntéssel előállítva
+7207 19 19 00 — — — — Kovácsolva
+7207 19 80 00 — — — Más
+9. A 7207 20 39 00 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7207 20 51 00-ig felsorolt vámtarifaszá-
+mok és árumegnevezések helyébe a következő vámtarifaszám és árumegnevezés lép:
+7207 20 52 00 — — — Hengerelve vagy folyamatos öntéssel előállítva
+10. A 7207 20 51 00 vámtarifaszámot követő négyvonalas árumegnevezéstől a 7207 20 90 99-ig felsorolt vámtarifaszá-
+mok és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7207 20 59 00 — — — Kovácsolva
+7207 20 80 — — — Más:
+7207 20 80 01 — — — — Forgácsolható acélból
+7207 20 80 99 — — — — Egyéb
+11. A 7208 37-től a 7208 51 91 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszá-
+mok és árumegnevezések lépnek:
+7208 37 00 — — Legalább 4,75 mm, de legfeljebb 10 mm vastagságú:
+7208 37 00 01 — — — Forgácsolható acélból
+7208 37 00 99 — — — Egyéb
+7208 38 00 — — Legalább 3 mm, de kevesebb mint 4,75 mm vastagságú:
+7208 38 00 01 — — — Forgácsolható acélból
+7208 38 00 99 — — — Egyéb
+7208 39 00 — — Kevesebb mint 3 mm vastagságú:
+7208 39 00 01 — — — Forgácsolható acélból
+7208 39 00 99 — — — Egyéb
+7208 40 00 — Nem tekercsben, legfeljebb melegen hengerelve, felületén mintázással:
+7208 40 00 01 — — Forgácsolható acélból
+7208 40 00 02 — — Szerkezeti acélból
+7208 40 00 99 — — Egyéb
+— Más, nem tekercsben, legfeljebb melegen hengerelve:
+7208 51 — — 10 mm-t meghaladó vastagságú:
+7208 51 20 — — — 15 mm-t meghaladó vastagságú:
+7208 51 20 01 — — — — Forgácsolható acélból
+7208 51 20 02 — — — — Széles laposacél
+7208 51 20 99 — — — — Egyéb
+— — — 10 mm-t meghaladó, de legfeljebb 15 mm vastagságú:
+7208 51 91 — — — — Legalább 2050 mm:
+7208 51 91 01 — — — — — Forgácsolható acélból
+7208 51 91 99 — — — — — Egyéb
+12. A 7208 51 99-től a 7208 54 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+7208 51 98 — — — — Kevesebb mint 2050 mm:
+7208 51 98 01 — — — — — Forgácsolható acélból
+7208 51 98 99 — — — — — Egyéb
+
+7208 52 — — Legalább 4,75 mm, de legfeljebb mint 10 mm vastagságú:
+7208 52 20 — — — Szélessége legalább 2050 mm:
+7208 52 20 01 — — — — Forgácsolható acélból
+7208 52 20 02 — — — — Széles laposacél
+7208 52 20 99 — — — — Egyéb
+7208 52 80 — — — Szélessége kevesebb mint 2050 mm:
+7208 52 80 01 — — — — Forgácsolható acélból
+7208 52 80 02 — — — — Széles laposacél
+7208 52 80 99 — — — — Egyéb
+7208 53 00 — — Legalább 3 mm, de kevesebb mint 4,75 mm vastagságú:
+7208 53 00 01 — — — Forgácsolható acélból
+7208 53 00 02 — — — Széles laposacél
+7208 53 00 99 — — — Egyéb
+7208 54 00 — — Legfeljebb 3 mm vastagságú:
+7208 54 00 01 — — — Forgácsolható acélból
+7208 54 00 02 — — — Széles laposacél
+7208 54 00 99 — — — Egyéb
+13. A 7208 90-től a 7208 90 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszá-
+mok és árumegnevezések lépnek:
+7208 90 00 — Más:
+7208 90 00 01 — — Forgácsolható acélból
+7208 90 00 02 — — Szerkezeti acélból
+7208 90 00 99 — — Egyéb
+14. A 7209 90-től a 7209 90 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszá-
+mok és árumegnevezések lépnek:
+7209 90 00 — Más:
+7209 90 00 01 — — Forgácsolható acélból
+7209 90 00 02 — — Kevesebb mint 2 mm vastagságú és 1500 mm szélességű
+7209 90 00 03 — — 2 mm vastagságú
+7209 90 00 99 — — Egyéb
+15. A 7210 11-től a 7210 50 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszá-
+mok és árumegnevezések lépnek:
+7210 11 00 — — Legalább 0,5 mm vastagságú:
+7210 11 00 01 — — — Forgácsolható acélból
+7210 11 00 99 — — — Egyéb
+7210 12 — — Kevesebb mint 0,5 mm vastagságú:
+7210 12 20 — — — Ónozott lemez:
+7210 12 20 01 — — — — Forgácsolható acélból
+7210 12 20 99 — — — — Egyéb
+7210 12 80 — — — Más:
+7210 12 80 01 — — — — Forgácsolható acélból
+7210 12 80 99 — — — — Egyéb
+7210 20 00 00 — Ólommal lemezelve vagy bevonva beleértve az ón-ólom bevonatú lemezt is
+7210 30 — Elektronikus úton cinkkel lemezelve vagy bevonva:
+7210 30 00 01 — — Forgácsolható acélból
+7210 30 00 99 — — Egyéb
+— Cinkkel más módon lemezelve vagy bevonva:
+
+7210 41 00 — — Hullámosított:
+7210 41 00 01 — — — Forgácsolható acélból
+7210 41 00 99 — — — Egyéb
+7210 49 00 — — Másféle:
+7210 49 00 01 — — — Forgácsolható acélból
+7210 49 00 99 — — — Egyéb
+7210 50 00 00 — — Krómoxiddal vagy krómmal és krómoxiddal lemezelve vagy bevonva
+16. A 7210 61-től a 7210 90 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszá-
+mok és árumegnevezések lépnek:
+7210 61 00 00 — — Alumínium-cink ötvözettel lemezelve vagy bevonva
+7210 69 00 00 — — Másféle
+7210 70 — Festve, lakkozva vagy műanyaggal bevonva:
+7210 70 10 00 — — Ónozott lemez és termék lakkozva, krómdioxiddal vagy krómmal és krómo-
+xiddal lemezelve vagy bevonva, lakkozva
+7210 70 80 00 — — Más
+7210 90 — Más:
+7210 90 30 00 — — Plattírozva
+7210 90 40 00 — — Ónozva és nyomtatva
+7210 90 80 00 — — Más
+17. A 7211 14-től a 7211 19 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszá-
+mok és árumegnevezések lépnek:
+7211 14 00 — — Más, legalább 4,75 mm vastagságú:
+7211 14 00 01 — — — Unirverzálacélból
+7211 14 00 02 — — — Abroncsacél
+7211 14 00 03 — — — Lemez
+7211 14 00 99 — — — Egyéb
+7211 19 00 — — Másféle:
+7211 19 00 01 — — — Unirverzálacélból
+7211 19 00 02 — — — Abroncsacél
+7211 19 00 03 — — — Lemez
+7211 19 00 99 — — — Egyéb
+18. A 7211 23 10-től a 7211 90 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+7211 23 00 — — — „Elektromos”:
+7211 23 20 01 — — — — Kevesebb mint 3 mm vastagságú
+7211 23 20 99 — — — — Egyéb
+— — — Más:
+7211 23 30 00 — — — — Kevesebb mint 0,35 mm vastagságú
+7211 23 80 — — — — Legalább 0,35 mm vastagságú:
+7211 23 80 01 — — — — — Kevesebb mint 3 mm vastagságú
+7211 23 80 99 — — — — — Egyéb
+7211 29 00 — — Másféle:
+7211 29 00 01 — — — Kevesebb mint 3 mm vastagságú
+7211 29 00 99 — — — Egyéb
+7211 90 00 — Más:
+7211 90 00 01 — — Kevesebb mint 3 mm vastagságú
+7211 90 00 99 — — Egyéb
+
+19. A 7212 10 10 99 vámtarifaszámot követő kétvonalas árumegnevezéstől a 7212 40 98 99-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7212 10 90
+— — Más:
+7212 10 90 01
+— — — Más acélból
+7212 10 90 99
+— — — Egyéb
+7212 20 00
+— Elektrolitikus úton cinkkel lemezelve vagy bevonva:
+7212 20 00 01
+— — Acélból, bevonva
+7212 20 00 99
+— — Egyéb
+7212 30 00
+— Cinkkel más módon lemezelve vagy bevonva:
+7212 30 00 01
+— — Acélból, bevonva
+7212 30 00 99
+— — Egyéb
+7212 40
+— Festve, lakkozva vagy műanyaggal bevonva:
+7212 40 20
+— — Ónozott lemez, legfeljebb lakkozva; termék krómoxiddal vagy krómmal és
+krómoxiddal lemezelve vagy bevonva, lakkozva:
+7212 40 20 01
+— — — Acélból
+7212 40 20 99
+— — — Egyéb
+7212 40 80
+— — Más:
+7212 40 80 01
+— — — Acélból festve, lakkozva
+7212 40 80 99
+— — — Egyéb
+20. A 7212 50 vámtarifaszámot követő kétvonalas árumegnevezéstől a 7212 60 99 00-ig felsorolt vámtarifaszámok és
+árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7212 50 20 00
+— — Krómoxiddal vagy krómmal és krómoxiddal lemezelve vagy bevonva, lakkozva
+7212 50 30 00
+— — Krómmal vagy nikkellel lemezelve vagy bevonva
+7212 50 40 00
+— — Rézzel lemezelve vagy bevonva
+— — Alumíniummal lemezelve vagy bevonva:
+7212 50 61 00
+— — — Alumínium-cink ötvözettel lemezelve vagy bevonva
+7212 50 69 00
+— — — Másféle
+7212 50 90 00
+— — Más
+7212 60 00 00
+— Plattírozva
+21. A 7214 99 50 00 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7214 99 90 00-ig felsorolt vámtarifa-
+számok és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+— — — Legalább 0,25 tömegszázalék széntartalommal:
+— — — — Kör alakú keresztmetszetének átmérője:
+7214 99 71 00
+— — — — — Legalább 80 mm
+7214 99 79 00
+— — — — — 80 mm-nél kevesebb
+7214 99 80 00
+— — — — Más
+22. A 7215 50 30 00-tól a 7215 90 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+7215 50 80 00
+— — Legalább 0,25 tömegszázalék széntartalommal
+7215 90 00 00
+— Más
+23. A 7216 31 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7216 31 99 00-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7216 31 10 00
+— — — Legalább 80 mm, de legfeljebb 220 mm magasságú
+7216 31 90 00
+— — — 220 mm-t meghaladó magasságú
+2003/151/II. szám
+
+24. A 7216 91 10 02 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7216 99 90 02-ig felsorolt vámtarifa-
+számok és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7216 91 80 — — — Más:
+7216 91 80 01 — — — — Alacsony szilárdságú
+7216 91 80 02 — — — — Nagy szilárdságú
+7216 99 00 — — Másféle:
+7216 99 00 01 — — — Alacsony szilárdságú
+7216 99 00 02 — — — Nagy szilárdságú
+25. A 7217 30 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7217 30 39 02-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7217 30 41 — — — Rézzel bevonva:
+7217 30 41 01 — — — — Alacsony szilárdságú
+7217 30 41 02 — — — — Nagy szilárdságú
+7217 30 49 — — — Másféle:
+7217 30 49 01 — — — — Alacsony szilárdságú
+7217 30 49 02 — — — — Nagy szilárdságú
+26. A 7217 90 vámtarifaszámot követő kétvonalas árumegnevezéstől a 7217 90 30 02-ig felsorolt vámtarifaszámok és
+árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7217 90 20 — — Kevesebb mint 0,25 tömegszázalék széntartalommal:
+7217 90 20 01 — — — Alacsony szilárdságú
+7217 90 20 02 — — — Nagy szilárdságú
+27. A 7218 91 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7218 91 90 00-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7218 91 10 00 — — — Legalább 2,5 tömegszázalék nikkeltartalommal
+7218 91 80 00 — — — Kevesebb mint 2,5 tömegszázalék nikkeltartalommal
+28. A 7218 99 20 00 vámtarifaszámot követő négyvonalas árumegnevezéstől a 7218 99 99 00-ig felsorolt vámtarifaszá-
+mok és árumegnevezések helyébe a következő vámtarifaszám és árumegnevezés lép:
+7218 99 80 00 — — — — Kovácsolva
+29. A 7219 90-től a 7219 90 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+7219 90 00 00 — Más
+30. A 7220 20 10 00-tól a 7220 20 99 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+— — Legalább 3 mm vastagságú:
+7220 20 21 00 — — — Legalább 2,5 tömegszázalék nikkeltartalommal
+7220 20 29 00 — — — Kevesebb mint 2,5 tömegszázalék nikkeltartalommal
+— — 0,35 mm-t meghaladó, de kevesebb mint 3 mm vastagságú:
+7220 20 41 00 — — — Legalább 2,5 tömegszázalék nikkeltartalommal
+7220 20 49 00 — — — Kevesebb mint 2,5 tömegszázalék nikkeltartalommal
+— — Legfeljebb 0,35 mm vastagságú:
+7220 20 81 00 — — — Legalább 2,5 tömegszázalék nikkeltartalommal
+7220 20 89 00 — — — Kevesebb mint 2,5 tömegszázalék nikkeltartalommal
+
+31. A 7220 90-től a 7220 90 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+7220 90 00 00 — Más
+32. A 7222 11 19 00 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7222 11 99 00-ig felsorolt vámtarifa-
+számok és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+— — — Kevesebb mint 80 mm átmérőjű:
+7222 11 81 00 — — — — Legalább 2,5 tömegszázalék nikkeltartalommal
+7222 11 89 00 — — — — Kevesebb mint 2,5 tömegszázalék nikkeltartalommal
+33. A 7222 30 10 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+34. A 7222 30 98 00 vámtarifaszám 7222 30 97 00 vámtarifaszámra változik.
+35. A 7222 40 10 00 vámtarifaszámot követő kétvonalas árumegnevezéstől a 7222 40 99 00-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7222 40 50 00 — — Legfeljebb hidegen alakítva vagy hidegen húzva
+7222 40 90 00 — — Más
+36. A 7224 10 00-től a 7224 90 19 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+7224 10 — Ingot és más elsődleges forma:
+7224 10 10 00 — — Szerszámacélból
+7224 10 90 — — Más:
+7224 10 90 01 — — — Gyorsacélból
+7224 10 90 99 — — — Egyéb
+7224 90 — Más:
+7224 90 02 00 — — Szerszámacélból
+— — Más:
+— — — Négyzetes vagy téglalap alakú keresztmetszettel:
+— — — — Melegen hengerelve vagy folyamatos öntéssel előállítva:
+— — — — — A szélesség kisebb mint a vastagság kétszerese:
+7224 90 03 — — — — — — Gyorsacélból:
+7224 90 03 01 — — — — — — — Szerkezeti acélból, golyóscsapágy-acélból, univerzálacélból
+7224 90 03 99 — — — — — — — Egyéb
+7224 90 05 — — — — — — Legfeljebb 0,7 tömegszázalék széntartalommal, legalább 0,5, de
+legfeljebb 1,2 tömegszázalék mangántartalommal és legalább 0,6, de legfeljebb 2,3
+tömegszázalék szilíciumtartalommal, legalább 0,0008 tömegszázalék bórtartalommal
+bármely más ötvözőelemmel együtt, amely kevesebb az árucsoporthoz tartozó Meg-
+jegyzések (1) bekezdés f) pontjában meghatározott minimális tartalomnál:
+7224 90 05 01 — — — — — — — Szerkezeti acélból, golyóscsapágy-acélból, univerzálacélból
+7224 90 05 99 — — — — — — — Egyéb
+7224 90 07 — — — — — — Másféle:
+7224 90 07 01 — — — — — — — Szerkezeti acélból, golyóscsapágy-acélból, univerzálacélból
+7224 90 07 99 — — — — — — — Egyéb
+7224 90 14 — — — — — Másféle:
+7224 90 14 01 — — — — — — Szerkezeti acélból, golyóscsapágy-acélból, univerzálacélból
+7224 90 14 99 — — — — — — Egyéb
+7224 90 18 — — — — Kovácsolva:
+7224 90 18 01 — — — — — Szerszámacélból, golyóscsapágy-acélból, univerzálacélból
+7224 90 18 99 — — — — — Egyéb
+
+37. A 7224 90 19 99 vámtarifaszámot követő kétvonalas árumegnevezéstől a 7224 90 39 99-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+— — — Más:
+— — — — Melegen hengerelve vagy folyamatos öntéssel előállítva:
+7224 90 31 — — — — — Legalább 0,9, de legfeljebb 1,15 tömegszázalék széntartalommal,
+legalább 0,5, de legfeljebb 2 tömegszázalék krómtartalommal, és ha tartalmaz legfel-
+jebb 0,5 tömegszázalék molibdéntartalommal:
+7224 90 31 01 — — — — — — Szerkezeti acélból, golyóscsapágy-acélból, univerzálacélból
+7224 90 31 99 — — — — — — Egyéb
+7224 90 38 — — — — — Másféle:
+7224 90 38 01 — — — — — — Szerkezeti acélból, golyóscsapágy-acélból, univerzálacélból
+7224 90 38 99 — — — — — — Egyéb
+38. A 7224 90 39 99 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7224 90 99 99-ig felsorolt vámtarifa-
+számok és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7224 90 90 — — — Kovácsolva:
+7224 90 90 01 — — — — Szerkezeti acélból, golyóscsapágy-acélból, univerzálacélból
+7224 90 90 99 — — — — Egyéb
+39. A 7225 20-tól a 7225 40 80 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszá-
+mok és árumegnevezések lépnek:
+7225 20 00 00 — Gyorsacélból:
+7225 30 — Más legfeljebb melegen hengerelve, tekercsben:
+7225 30 10 00 — — Szerszámacélból
+7225 30 90 — — Más:
+7225 30 90 01 — — — Szerkezeti acélból, golyóscsapágy-acélból
+7225 30 90 99 — — — Egyéb
+7225 40 — Más legfeljebb melegen hengerelve, nem tekercsben:
+7225 40 12 00 — — Szerszámacélból
+— — Más:
+7225 40 40 — — — 10 mm-t meghaladó vastagságú:
+7225 40 40 01 — — — — Szerkezeti acélból, golyóscsapágy-acélból
+7225 40 40 99 — — — — Egyéb
+7225 40 60 — — — Legalább 4,75 mm de legfeljebb 10 mm vastagságú:
+7225 40 60 01 — — — — Szerkezeti acélból, golyóscsapágy-acélból
+7225 40 60 99 — — — — Egyéb
+7225 40 90 — — — Kevesebb mint 4,7 mm vastagságú:
+7225 40 90 01 — — — — Szerkezeti acélból, golyóscsapágy-acélból
+7225 40 90 99 — — — — Egyéb
+40. A 7225 91-től a 7225 99 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszá-
+mok és árumegnevezések lépnek:
+7225 91 00 — — Elektrolitikus úton cinkkel lemezelve vagy bevonva:
+7225 91 00 01 — — — Szerkezeti acélból, golyóscsapágy-acélból
+7225 91 00 99 — — — Egyéb
+7225 92 00 — — Más módon cinkkel lemezelve vagy bevonva:
+7225 92 00 01 — — — Szerkezeti acélból, golyóscsapágy-acélból
+7225 92 00 99 — — — Egyéb
+7225 99 00 — — Másféle:
+7225 99 00 01 — — — Szerkezeti acélból, golyóscsapágy-acélból
+7225 99 00 99 — — — Egyéb
+
+41. A 7226 11-től a 7226 11 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+7226 11 00 00 — — Szemcse-orientált
+42. A 7226 19 10 00 vámtarifaszámot követő háromvonalas árumegnevezéstől a 7226 99 80 99-ig felsorolt vámtarifa-
+számok és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7226 19 80 00 — — — Más
+7226 20 00 00 — Gyorsacélból
+— Más:
+7226 91 — — Legfeljebb melegen hengerelve:
+7226 91 20 00 — — — Szerszámacélból
+— — — Más:
+7226 91 91 — — — — Legfeljebb 4,75 mm vastagságú:
+7226 91 91 01 — — — — — Szerkezeti acélból, golyóscsapágy-acélból
+7226 91 91 99 — — — — — Egyéb
+7226 91 99 — — — — Kevesebb mint 4,75 mm vastagságú:
+7226 91 99 01 — — — — — Szerkezeti acélból, golyóscsapágy-acélból
+7226 91 99 99 — — — — — Egyéb
+7226 92 00 — — Legfeljebb hidegen hengerelve (hidegen tömörítve):
+7226 92 00 01 — — — Szerkezeti acélból, golyóscsapágy-acélból
+7226 92 00 99 — — — Egyéb
+7226 93 00 — — Elektrolitikus úton cinkkel lemezelve vagy bevonva:
+7226 93 00 01 — — — Szerkezeti acélból, golyóscsapágy-acélból
+7226 93 00 99 — — — Egyéb
+7226 94 00 — — Másféle módon cinkkel lemezelve vagy bevonva:
+7226 94 00 01 — — — Szerkezeti acélból, golyóscsapágy-acélból
+7226 94 00 99 — — — Egyéb
+7226 99 00 — — Másféle:
+7226 99 00 01 — — — Szerkezeti acélból, golyóscsapágy-acélból
+7226 99 00 99 — — — Egyéb
+43. A 7228 10 10 00-tól a 7228 10 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+7228 10 20 00 — — Legfeljebb melegen hengerelve, melegen húzva vagyextrudálva; melegen hen-
+gerelve, melegen húzva vagy extrudálva, legfeljebb plattírozva
+7228 10 50 00 — — Kovácsolva
+7228 10 90 00 — — Más
+44. A 7228 20 vámtarifaszámot követő kétvonalas árumegnevezéstől a 7228 20 60 00-ig felsorolt vámtarifaszámok és
+árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+7228 20 10 00 — — Téglalap alakú (de nem négyzetes) keresztmetszettel, négy felületén melegen
+hengerelve
+— — Más:
+7228 20 91 00 — — — Legfeljebb melegen hengerelve, melegen húzva vagy extrudálva; melegen
+hengerelve, melegen húzva vagy extrudálva, legfeljebb plattírozva
+7228 20 99 00 — — — Másféle
+45. A 7228 30 70 vámtarifaszám árumegnevezése helyébe a következő árumegnevezés lép:
+— — — Téglalap alakú (de nem négyzetes) keresztmetszettel, négyfelületén mele-
+gen hengerelve:
+
+46. A 7228 50 70-től a 7228 50 70 99-ig vámtarifaszámokat árumegnevezésükkel együtt törölni kell.
+47. A 7228 50 89-től a 7228 50 89 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+7228 50 80
+— — — Más:
+7228 50 80 01
+— — — — Szerkezeti acélból, golyóscsapágy-acélból, hőálló-acélból
+7228 50 80 99
+— — — — Egyéb
+48. A 7228 60 10-től a 7228 60 89 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+7228 60 20 00
+— — Szerszámacélból
+7228 60 80
+— — Más:
+7228 60 80 01
+— — — Szerkezeti acélból, golyóscsapágy-acélból, hőálló-acélból
+7228 60 80 99
+— — — Egyéb
+49. A 7228 70 10 00-tól a 7228 80 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+7228 70 90 00
+— — Más
+7228 80 00 00
+— Üreges fúrórúdvas és -rúdacél
+73. Árucsoport
+1. A 7302 10 31 00-tól a 7302 10 39 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+— — — — Vignole típusú vasúti sín:
+7302 10 21 00
+— — — — — Legalább 46 kg/m tömegű
+7302 10 23 00
+— — — — — Legalább 27 kg/m, de kevesebb mint 46 kg/m tömegű
+7302 10 29 00
+— — — — — Kevesebb mint 27 kg/m tömegű
+7302 10 40 00
+— — — — Vályus sín
+7302 10 50 00
+— — — — Más
+2. A 7302 40-től a 7302 90 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszámok
+és árumegnevezések lépnek:
+7302 40 00 00
+— Csatlakozólemez és alátétlemez
+7302 90 00 00
+— Más
+3. A 7304 51 11-től a 7304 51 19 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+7304 51 12
+— — — — Legfeljebb 0,5 m hosszúságú:
+7304 51 12 01
+— — — — — Magasnyomású hidroelektromos vezetékhez
+7304 51 12 99
+— — — — — Egyéb
+7304 51 18
+— — — — 0,5 m-t meghaladó hosszúságú:
+7304 51 18 01
+— — — — — Magasnyomású hidroelektromos vezetékhez
+7304 51 18 99
+— — — — — Egyéb
+
+2003/151/II. szám
+
+4. A 7304 59 31-től a 7304 59 39 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+7304 59 32 — — — — Legfeljebb 0,5 m hosszúságú:
+7304 59 32 01 — — — — — Magasnyomású hidroelektromos vezetékhez
+7304 59 32 99 — — — — — Egyéb
+7304 59 38 — — — — 0,5 m-t meghaladó hosszúságú:
+7304 59 38 01 — — — — — Magasnyomású hidroelektromos vezetékhez
+7304 59 38 99 — — — — — Egyéb
+5. A 7305 20-tól a 7305 20 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+7305 20 00 00 — Béléscső olaj vagy gázfúráshoz és -kitermeléshez
+6. A 7306 60 31-től a 7306 60 90 99-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifa-
+számok és árumegnevezések lépnek:
+— — — — Legfeljebb 2 mm falvastagságú:
+7306 60 32 — — — — — Rozsdamentes acélból:
+7306 60 32 01 — — — — — — Precíziós
+7306 60 32 99 — — — — — — Egyéb
+7306 60 34 — — — — — Másféle:
+7306 60 34 01 — — — — — — Precíziós
+7306 60 34 99 — — — — — — Egyéb
+— — — — 2 mm-t meghaladó falvastagságú:
+7306 60 36 — — — — — Rozsdamentes acélból:
+7306 60 36 01 — — — — — — Precíziós
+7306 60 36 99 — — — — — — Egyéb
+7306 60 38 — — — — — Másféle:
+7306 60 38 01 — — — — — — Precíziós
+7306 60 38 99 — — — — — — Egyéb
+— — — Más keresztmetszettel:
+7306 60 91 — — — — — Rozsdamentes acélból:
+7306 60 91 01 — — — — — — Precíziós
+7306 60 91 99 — — — — — — Egyéb
+7306 60 99 — — — — Másféle:
+7306 60 99 01 — — — — — Precíziós
+7306 60 99 99 — — — — — Egyéb
+7. A 7326 90 80 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+8. A 7326 90 97 00 vámtarifaszám 7326 90 98 00 vámtarifaszámra változik.
+81. Árucsoport
+1. A 8101 97 00 00 vámtarifaszám és árumegnevezésután fel kell venni a következő vámtarifaszámot és árumegnevezést:
+8101 99 00 00 — — Másféle
+
+2. A 8102 97 00 00 vámtarifaszám ésárumegnevezés után fel kell venni a következő vámtarifaszámot és árumegnevezést:
+8102 99 00 00 — — Másféle
+3. A 8112 40 vámtarifaszámot követő kétvonalas árumegnevezéstől a 8112 40 19 00-ig felsorolt vámtarifaszámok és
+árumegnevezések helyébe a következő vámtarifaszám és árumegnevezés lép:
+8212 40 10 00 — — Megmunkálatlan hulladék és törmelék; por
+84. Árucsoport
+1. A 8423 89-től a 8423 89 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+8423 89 00 00 — — Másféle
+2. A 8447 20 10 00-tól a 8447 20 98 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+8447 20 20 00 — — Láncfonalas kötőgép (a Raschel típus is); hurkológép
+8447 20 80 00 — — Más
+3. A 8448 20-tól a 8448 20 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+8448 20 00 00 — A 8444 vtsz. alá tartozó gép vagy ehhez való segédgép alkatrésze vagy tartozéka
+85. Árucsoport
+1. A 8516 79 10 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+2. A 8516 79 80 00 vámtarifaszám 8516 79 70 00 vámtarifaszámra változik.
+3. A 8528 12 66 99 vámtarifaszámot követő hatvonalas árumegnevezéstől a 8528 12 76 99-ig felsorolt vámtarifaszámok
+és árumegnevezések helyébe a következő vámtarifaszámok és árumegnevezések lépnek:
+8528 12 70 — — — — — — Több mint 625 sor letapogatással:
+8528 12 70 01 — — — — — — — Kombinált, a videofelvevő vagy -lejátszó készüléket tartal-
+mazó kivételével
+8528 12 70 99 — — — — — — — Egyéb
+89. Árucsoport
+1. A 8903 91 91 00-tól a 8903 91 99 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+8903 91 92 00 — — — — Hossza legfeljebb 7,5 méter
+8903 91 99 00 — — — — Hossza több mint 7,5 méter
+
+91. Árucsoport
+1. A 9111 20-tól a 9111 20 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+9111 20 00 00 — Tok nemesfémből, arannyal vagy ezüsttel lemezelve is
+2. A 9113 90 30 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+3. A 9113 90 90 00 vámtarifaszám 9113 90 80 00 vámtarifaszámra változik.
+92. Árucsoport
+1. A 9202 90 10 00 vámtarifaszámot árumegnevezésével együtt törölni kell.
+2. A 9202 90 90 00 vámtarifaszám 9202 90 80 00 vámtarifaszámra változik.
+3. A 9203 00-tól a 9203 00 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+9203 9203 00 00 00 Manuális orgona; harmónium és hasonló hangszer, billentyűvel és szabad fémsíppal
+93. Árucsoport
+1. A 9302 00-tól a 9302 00 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+9302 9302 00 00 00 Revolver és pisztoly, a 9303 és a 9304 vtsz. alá tartozó kivételével
+2. A 9305 29-től a 9305 29 95 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő vámtarifaszám
+és árumegnevezés lép:
+9305 29 00 00 — — Másféle
+94. Árucsoport
+1. A 9406 00 10 00-tól a 9406 00 90 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+9406 00 11 00 — Hordozható épület
+— Más:
+9406 00 12 00 — — Fából
+— — Vasból vagy acélból:
+9406 00 31 00 — — — Melegház
+9406 00 38 00 — — — Másféle
+9406 00 80 00 — — Más anyagból
+96. Árucsoport
+1. A 9608 99 10 00-tól a 9608 99 98 00-ig felsorolt vámtarifaszámok és árumegnevezések helyébe a következő
+vámtarifaszámok és árumegnevezések lépnek:
+9608 99 20 00 — — — Fémből
+9608 99 80 00 — — — Más
+
+2. számú melléklet a 28/2003. (XII. 21.) KüM—PM együttes rendelethez
+„[3. számú melléklet a 64/1995. (XI. 24.) IKM—PM együttes rendelethez]”
+A Kereskedelmi Vámtarifa I. jelzésű hasábjának vámtételei
+Vámtarifaszám
+Vámtétel
+%
+0101 10 10 00 10
+0102 10 10 00 10
+0102 10 30 00 10
+0102 10 90 00 10
+0103 10 00 00 10
+0104 10 10 00 10
+0104 20 10 00 10
+0105 11 11 00 10
+0105 11 19 00 10
+0105 92 00 01 10
+0105 93 00 01 10
+0105 99 10 01 10
+0105 99 20 01 10
+0105 99 30 01 10
+0105 99 50 01 10
+0301 99 11 01 0
+0301 99 19 01 0
+0301 99 90 01 0
+0302 40 00 00 5
+0302 61 80 01 5
+0302 64 00 00 5
+0303 50 00 00 5
+0303 71 80 00 5
+0303 74 30 00 5
+0303 74 90 00 5
+0306 29 10 01 0
+0306 29 30 01 0
+0306 29 90 01 0
+0307 91 00 01 0
+0407 00 11 01 10
+0407 00 19 01 10
+0407 00 90 01 10
+0501 00 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+0502 10 00 01 0
+0502 10 00 99 0
+0502 90 00 00 0
+0503 00 00 01 0
+0504 00 00 01 0
+0504 00 00 02 0
+0506 10 00 00 5
+0506 90 00 01 4,8
+0506 90 00 99 5
+0508 00 00 00 0
+0511 10 00 00 0
+0602 10 10 00 0
+0602 10 90 00 0
+0602 20 90 99 2
+0602 30 00 00 2
+0602 40 10 00 2
+0602 40 90 00 2
+0602 90 10 00 2
+0701 10 00 00 42,2
+0701 90 10 00 42,2
+0701 90 50 00 42,2
+0701 90 90 00 42,2
+0703 10 11 00 30
+0703 10 19 00 30
+0703 10 90 00 30
+0703 20 00 00 30
+0703 90 00 00 30
+0708 10 00 00 44,1
+0708 20 00 00 44,1
+0708 90 00 00 44,1
+0711 20 10 00 49,2
+0711 20 90 00 49,2
+0712 20 00 00 53,6
+Vámtarifaszám
+Vámtétel
+%
+0712 90 30 00 53,6
+0712 90 50 00 53,6
+0712 90 90 00 53,6
+0713 10 10 00 38
+0713 10 90 01 38
+0713 10 90 99 49,2
+0713 20 00 00 38
+0713 31 00 00 49,2
+0713 32 00 00 49,2
+0713 33 10 00 38
+0713 33 90 00 38
+0713 39 00 00 49,2
+0713 40 00 00 49,2
+0713 50 00 00 49,2
+0713 90 00 00 49,2
+0714 10 10 00 5
+0714 10 91 01 0
+0714 10 91 99 5
+0714 10 99 01 0
+0714 10 99 99 5
+0714 20 10 00 5
+0714 20 90 01 0
+0714 20 90 99 5
+0714 90 11 01 0
+0714 90 11 99 5
+0714 90 19 01 0
+0714 90 19 99 5
+0714 90 90 01 0
+0714 90 90 99 5
+0801 11 00 00 0
+0801 19 00 00 0
+0802 31 00 00 13,5
+0802 32 00 00 13,5
+Vámtarifaszám
+Vámtétel
+%
+0802 50 00 00 5
+0802 90 20 00 0
+0802 90 50 00 13,5
+0802 90 60 00 13,5
+0802 90 85 00 13,5
+0803 00 11 00 18
+0803 00 19 00 18
+0803 00 90 00 18
+0804 10 00 00 15,9
+0804 20 10 00 15,9
+0804 20 90 00 15,9
+0804 30 00 00 15,9
+0804 40 00 00 15,9
+0804 50 00 00 15,9
+0805 10 10 00 6
+0805 10 30 00 6
+0805 10 50 02 6
+0805 10 80 00 6
+0805 20 10 00 6
+0805 20 30 00 6
+0805 20 50 00 6
+0805 20 70 00 6
+0805 20 90 00 6
+0805 40 00 00 6
+0805 50 10 00 0
+0805 50 90 00 0
+0805 90 00 00 6
+0806 10 10 01 22
+0806 10 10 02 22
+0806 10 90 01 22
+0806 10 90 02 22
+0806 20 11 00 5,5
+0806 20 12 00 5,5
+
+Vámtarifaszám
+Vámtétel
+%
+0806 20 18 00 5,5
+0806 20 91 00 5,5
+0806 20 92 00 5,5
+0806 20 98 00 5,5
+0807 11 00 01 20
+0807 11 00 02 20
+0807 19 00 01 20
+0807 19 00 02 20
+0807 20 00 00 14
+0809 10 00 00 36,4
+0809 20 05 00 36,4
+0809 20 95 00 36,4
+0809 30 10 00 36,4
+0809 30 90 00 36,4
+0809 40 05 00 36,4
+0809 40 90 00 36,4
+0810 10 00 00 17,5
+0810 20 10 00 17,5
+0810 20 90 00 17,5
+0810 30 10 00 17,5
+0810 30 30 00 17,5
+0810 30 90 00 17,5
+0810 40 10 00 17,5
+0810 40 30 00 17,5
+0810 40 50 00 17,5
+0810 40 90 00 17,5
+0810 50 00 00 17,5
+0810 60 00 00 17,5
+0810 90 30 00 17,5
+0810 90 40 00 17,5
+0810 90 95 00 17,5
+0811 10 11 00 17,5
+0811 10 19 00 17,5
+0811 10 90 00 17,5
+0811 20 11 00 17,5
+0811 20 19 00 17,5
+0811 20 31 00 17,5
+Vámtarifaszám
+Vámtétel
+%
+0811 20 39 00 17,5
+0811 20 51 00 17,5
+0811 20 59 00 17,5
+0811 20 90 00 17,5
+0811 90 11 00 17,5
+0811 90 19 00 17,5
+0811 90 31 00 17,5
+0811 90 39 00 17,5
+0811 90 50 00 17,5
+0811 90 70 00 17,5
+0811 90 75 00 17,5
+0811 90 80 00 17,5
+0811 90 85 00 17,5
+0811 90 95 00 17,5
+0812 10 00 00 32
+0812 90 10 00 32
+0812 90 20 00 32
+0812 90 30 00 32
+0812 90 40 00 32
+0812 90 50 00 32
+0812 90 60 00 32
+0812 90 70 00 32
+0812 90 99 01 32
+0812 90 99 99 32
+0813 10 00 00 32
+0813 20 00 00 32
+0813 30 00 00 32
+0813 40 10 00 32
+0813 40 30 00 32
+0813 40 50 00 32
+0813 40 60 00 32
+0813 40 70 00 32
+0813 40 95 00 32
+0813 50 12 00 32
+0813 50 15 00 32
+0813 50 19 00 32
+0813 50 31 00 32
+Vámtarifaszám
+Vámtétel
+%
+0813 50 39 00 32
+0813 50 91 00 32
+0813 50 99 00 32
+0901 11 00 00 12
+0901 12 00 00 12
+0902 10 00 00 10
+0902 20 00 00 10
+0902 30 00 00 10
+0902 40 00 00 0
+0903 00 00 00 10
+0904 11 00 00 0
+0904 12 00 00 10
+0904 20 10 00 42,2
+0904 20 30 00 42,2
+0904 20 90 00 42,2
+0905 00 00 00 0
+0906 10 00 00 0
+0906 20 00 00 0
+0908 10 00 00 0
+0908 20 00 00 0
+0908 30 00 00 0
+0909 10 00 00 0
+0909 20 00 00 0
+0909 30 00 00 0
+0909 40 00 00 0
+0909 50 00 00 0
+0910 10 00 00 0
+0910 20 10 00 0
+0910 20 90 00 0
+0910 30 00 00 0
+0910 40 11 00 0
+0910 40 13 00 0
+0910 40 19 00 0
+0910 40 90 00 0
+0910 50 00 00 0
+0910 91 10 00 0
+0910 91 90 00 0
+Vámtarifaszám
+Vámtétel
+%
+0910 99 10 00 0
+0910 99 91 00 0
+0910 99 99 00 0
+1006 10 10 00 0
+1006 10 21 00 0
+1006 10 23 00 0
+1006 10 25 00 0
+1006 10 27 00 0
+1006 10 92 00 0
+1006 10 94 00 0
+1006 10 96 00 0
+1006 10 98 00 0
+1006 20 11 00 45
+1006 20 13 00 45
+1006 20 15 00 45
+1006 20 17 00 45
+1006 20 92 00 45
+1006 20 94 00 45
+1006 20 96 00 45
+1006 20 98 00 45
+1006 30 21 00 37,6
+1006 30 23 00 37,6
+1006 30 25 00 37,6
+1006 30 27 00 37,6
+1006 30 42 00 37,6
+1006 30 44 00 37,6
+1006 30 46 00 37,6
+1006 30 48 00 37,6
+1006 30 61 00 37,6
+1006 30 63 00 37,6
+1006 30 65 00 37,6
+1006 30 67 00 37,6
+1006 30 92 00 37,6
+1006 30 94 00 37,6
+1006 30 96 00 37,6
+1006 30 98 00 37,6
+1006 40 00 00 45
+
+Vámtarifaszám
+Vámtétel
+%
+1007 00 10 00 0
+1007 00 90 00 0
+1008 10 00 00 0
+1008 20 00 00 0
+1008 30 00 00 0
+1008 90 10 00 0
+1008 90 90 00 0
+1102 30 00 00 10
+1106 20 10 00 6
+1106 20 90 00 6
+1106 30 10 00 2
+1108 11 00 00 10
+1108 12 00 00 20
+1108 13 00 00 10
+1108 14 00 00 10
+1108 19 10 00 10
+1108 19 90 00 10
+1108 20 00 00 10
+1201 00 10 00 0
+1201 00 90 00 0
+1202 10 10 00 0
+1202 10 90 01 0
+1202 10 90 99 0
+1202 20 00 01 0
+1202 20 00 99 0
+1203 00 00 00 0
+1204 00 10 00 0
+1204 00 90 00 0
+1205 10 10 00 0
+1205 10 90 00 0
+1205 90 00 00 0
+1206 00 10 00 0
+1206 00 91 00 0
+1206 00 99 00 0
+1207 10 10 00 0
+1207 10 90 00 0
+1207 20 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+1207 20 90 00 0
+1207 30 10 00 0
+1207 30 90 00 0
+1207 40 10 00 0
+1207 40 90 00 0
+1207 50 10 00 0
+1207 50 90 00 0
+1207 60 10 00 0
+1207 60 90 00 0
+1207 91 10 00 0
+1207 91 90 00 0
+1207 99 20 00 0
+1207 99 91 00 0
+1207 99 98 99 0
+1208 10 00 01 2
+1208 10 00 99 2
+1208 90 00 00 2
+1209 10 00 00 0
+1209 21 00 00 0
+1209 22 10 00 0
+1209 22 80 00 0
+1209 23 11 00 0
+1209 23 15 00 0
+1209 23 80 00 0
+1209 24 00 00 0
+1209 25 10 00 0
+1209 25 90 00 0
+1209 26 00 00 0
+1209 29 10 00 0
+1209 29 50 00 0
+1209 29 60 00 0
+1209 29 80 00 0
+1209 30 00 00 0
+1209 91 10 00 0
+1209 91 30 00 0
+1209 91 90 00 0
+1209 99 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+1209 99 91 00 0
+1209 99 99 00 0
+1211 10 00 00 0
+1211 20 00 00 0
+1211 30 00 00 0
+1211 40 00 00 0
+1211 90 30 00 0
+1211 90 97 01 0
+1211 90 97 99 0
+1212 10 10 00 0
+1212 20 00 00 0
+1301 10 00 00 0
+1301 20 00 00 0
+1301 90 10 00 0
+1301 90 90 01 0
+1301 90 90 99 0
+1302 19 05 01 0
+1302 19 05 99 4
+1302 31 00 00 2
+1302 32 10 00 2
+1302 32 90 00 2
+1302 39 00 00 2
+1401 10 00 01 0
+1401 90 00 01 0
+1402 00 00 01 0
+1402 00 00 02 0
+1402 00 00 99 5
+1403 00 00 00 0
+1404 10 00 00 0
+1404 20 00 00 0
+1404 90 00 01 0
+1404 90 00 02 2
+1404 90 00 03 2
+1404 90 00 99 0
+1502 00 10 01 2
+1502 00 10 99 2
+1502 00 90 01 2
+Vámtarifaszám
+Vámtétel
+%
+1502 00 90 99 2
+1504 10 10 99 0
+1504 10 91 99 0
+1504 10 99 99 0
+1504 20 90 99 0
+1504 30 90 99 0
+1507 10 10 00 10
+1507 10 90 00 10
+1507 90 10 00 10
+1507 90 90 00 10
+1508 10 10 00 0
+1508 10 90 00 0
+1508 90 10 00 0
+1508 90 90 00 0
+1509 10 10 00 0
+1509 10 90 00 0
+1509 90 00 00 0
+1510 00 10 00 0
+1510 00 90 00 0
+1511 10 10 00 0
+1511 10 90 00 0
+1511 90 11 00 0
+1511 90 19 00 0
+1511 90 91 00 0
+1511 90 99 00 0
+1512 11 10 00 20
+1512 11 91 00 20
+1512 11 99 00 20
+1512 19 10 00 30
+1512 19 90 01 30
+1512 19 90 02 30
+1512 21 10 00 0
+1512 21 90 00 0
+1512 29 10 00 0
+1512 29 90 00 0
+1513 11 10 00 0
+1513 11 91 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+1513 11 99 00 0
+1513 19 11 00 0
+1513 19 19 00 0
+1513 19 30 00 0
+1513 19 91 00 0
+1513 19 99 00 0
+1513 21 10 00 0
+1513 21 30 00 0
+1513 21 90 00 0
+1513 29 11 00 0
+1513 29 19 00 0
+1513 29 30 00 0
+1513 29 50 00 0
+1513 29 90 00 0
+1514 11 10 00 20
+1514 11 90 00 20
+1514 19 10 00 30
+1514 19 90 00 30
+1514 91 10 00 30
+1514 91 90 00 30
+1514 99 10 00 30
+1514 99 90 00 30
+1515 11 00 00 0
+1515 19 10 00 0
+1515 19 90 00 0
+1515 21 10 00 0
+1515 21 90 00 0
+1515 29 10 00 0
+1515 29 90 00 0
+1515 30 10 01 0
+1515 30 90 01 0
+1515 40 00 01 0
+1515 40 00 99 0
+1515 50 11 00 0
+1515 50 19 00 0
+1515 50 91 00 0
+1515 50 99 00 0
+Vámtarifaszám
+Vámtétel
+%
+1515 90 15 01 0
+1515 90 15 99 0
+1515 90 21 00 0
+1515 90 29 00 0
+1515 90 31 00 0
+1515 90 39 00 0
+1515 90 40 00 0
+1515 90 51 00 0
+1515 90 59 00 0
+1515 90 60 00 0
+1515 90 91 00 0
+1515 90 99 00 0
+1516 10 10 01 0
+1516 10 90 01 0
+1518 00 31 00 2
+1518 00 39 00 2
+1518 00 91 00 2
+1518 00 99 01 0
+1518 00 99 99 2
+1520 00 00 00 0
+1521 10 00 00 2
+1521 90 10 00 2
+1521 90 91 00 2
+1521 90 99 00 2
+1602 10 00 00 47,9
+1604 11 00 00 5
+1604 12 10 00 5
+1604 12 91 00 5
+1604 12 99 00 5
+1604 13 11 00 5
+1604 13 19 00 5
+1604 13 90 00 5
+1604 14 11 00 5
+1604 14 16 00 5
+1604 14 18 00 5
+1604 14 90 00 5
+1604 15 11 00 5
+Vámtarifaszám
+Vámtétel
+%
+1604 15 19 00 5
+1604 15 90 00 5
+1604 16 00 00 5
+1604 19 10 00 5
+1604 19 31 00 5
+1604 19 39 00 5
+1604 19 50 00 5
+1604 19 91 00 5
+1604 19 92 00 5
+1604 19 93 00 5
+1604 19 94 00 5
+1604 19 95 00 5
+1604 19 98 00 5
+1604 20 05 00 5
+1604 20 10 00 5
+1604 20 30 00 5
+1604 20 40 00 5
+1604 20 50 00 5
+1604 20 70 00 5
+1604 20 90 00 5
+1604 30 10 00 5
+1604 30 90 00 5
+1801 00 00 00 0
+1802 00 00 00 0
+1803 10 00 00 0
+1803 20 00 00 0
+1804 00 00 00 0
+1805 00 00 01 6
+1805 00 00 99 0
+1806 10 15 00 40,5
+1806 10 20 00 40,5
+1806 10 30 00 40,5
+1806 10 90 00 40,5
+1806 20 10 99 28
+1806 20 30 99 28
+1806 20 50 99 28
+1806 20 70 00 28
+Vámtarifaszám
+Vámtétel
+%
+1806 20 80 00 28
+1806 20 95 99 28
+1806 31 00 99 28
+1806 32 10 99 28
+1806 32 90 99 28
+1806 90 11 00 28
+1806 90 19 99 28
+1806 90 31 99 28
+1806 90 39 99 28
+1806 90 50 99 28
+1806 90 60 99 28
+1806 90 70 99 28
+1806 90 90 99 28
+1901 10 00 01 0
+1901 10 00 02 0
+1903 00 00 99 6
+1905 20 10 00 20
+1905 20 30 00 20
+1905 20 90 00 20
+1905 31 11 99 20
+1905 31 19 99 20
+1905 31 30 99 20
+1905 31 91 99 20
+1905 31 99 99 20
+1905 32 05 00 20
+1905 32 11 99 20
+1905 32 19 99 20
+1905 32 91 99 20
+1905 32 99 99 20
+1905 40 10 99 20
+1905 40 90 99 20
+2001 10 00 00 28,1
+2001 90 10 00 28,1
+2001 90 60 00 28,1
+2001 90 65 00 28,1
+2001 90 93 00 28,1
+2006 00 10 00 29,4
+
+Vámtarifaszám
+Vámtétel
+%
+2006 00 31 00 29,4
+2006 00 35 00 29,4
+2006 00 38 99 29,4
+2006 00 91 00 29,4
+2006 00 99 99 29,4
+2007 91 90 99 29,4
+2007 99 91 99 29,4
+2007 99 93 99 29,4
+2007 99 98 99 29,4
+2008 11 10 00 20
+2008 11 92 00 20
+2008 11 94 00 20
+2008 11 96 00 20
+2008 11 98 00 20
+2008 19 11 00 20
+2008 19 13 00 20
+2008 19 19 00 20
+2008 19 91 00 20
+2008 19 93 00 20
+2008 19 95 00 20
+2008 19 99 00 20
+2008 20 11 00 20
+2008 20 19 00 20
+2008 20 31 00 20
+2008 20 39 00 20
+2008 20 51 00 20
+2008 20 59 00 20
+2008 20 71 00 20
+2008 20 79 00 20
+2008 20 90 00 20
+2008 30 11 00 20
+2008 30 19 00 20
+2008 30 31 00 20
+2008 30 39 00 20
+2008 30 51 00 20
+2008 30 55 00 20
+2008 30 59 00 20
+Vámtarifaszám
+Vámtétel
+%
+2008 30 71 00 20
+2008 30 75 00 20
+2008 30 79 00 20
+2008 30 90 00 20
+2008 40 11 00 29,4
+2008 40 19 00 29,4
+2008 40 21 00 29,4
+2008 40 29 00 29,4
+2008 40 31 00 29,4
+2008 40 39 00 29,4
+2008 40 51 00 29,4
+2008 40 59 00 29,4
+2008 40 71 00 29,4
+2008 40 79 00 29,4
+2008 40 90 00 29,4
+2008 50 11 00 29,4
+2008 50 19 00 29,4
+2008 50 31 00 29,4
+2008 50 39 00 29,4
+2008 50 51 00 29,4
+2008 50 59 00 29,4
+2008 50 61 00 29,4
+2008 50 69 00 29,4
+2008 50 71 00 29,4
+2008 50 79 00 29,4
+2008 50 92 00 29,4
+2008 50 94 00 29,4
+2008 50 99 00 29,4
+2008 60 11 00 29,4
+2008 60 19 00 29,4
+2008 60 31 00 29,4
+2008 60 39 00 29,4
+2008 60 51 00 29,4
+2008 60 59 00 29,4
+2008 60 61 00 29,4
+2008 60 69 00 29,4
+2008 60 71 00 29,4
+Vámtarifaszám
+Vámtétel
+%
+2008 60 79 00 29,4
+2008 60 91 00 29,4
+2008 60 99 00 29,4
+2008 70 11 00 29,4
+2008 70 19 00 29,4
+2008 70 31 00 29,4
+2008 70 39 00 29,4
+2008 70 51 00 29,4
+2008 70 59 00 29,4
+2008 70 61 00 29,4
+2008 70 69 00 29,4
+2008 70 71 00 29,4
+2008 70 79 00 29,4
+2008 70 92 00 29,4
+2008 70 98 00 29,4
+2008 80 11 00 29,4
+2008 80 19 00 29,4
+2008 80 31 00 29,4
+2008 80 39 00 29,4
+2008 80 50 00 29,4
+2008 80 70 00 29,4
+2008 80 90 00 29,4
+2008 92 12 99 0
+2008 92 14 99 0
+2008 92 16 99 0
+2008 92 18 99 0
+2008 92 32 99 0
+2008 92 34 99 0
+2008 92 36 99 0
+2008 92 38 99 0
+2008 92 51 99 0
+2008 92 59 99 0
+2008 92 72 99 0
+2008 92 74 99 0
+2008 92 76 99 0
+2008 92 78 99 0
+2008 92 92 99 0
+Vámtarifaszám
+Vámtétel
+%
+2008 92 93 99 0
+2008 92 94 99 0
+2008 92 96 99 0
+2008 92 97 99 0
+2008 92 98 99 0
+2008 99 11 00 0
+2008 99 19 00 0
+2008 99 21 00 0
+2008 99 23 00 0
+2008 99 25 00 0
+2008 99 26 00 0
+2008 99 28 00 0
+2008 99 32 00 0
+2008 99 33 00 0
+2008 99 34 00 0
+2008 99 36 00 0
+2008 99 37 00 0
+2008 99 38 00 0
+2008 99 40 00 0
+2008 99 41 00 0
+2008 99 43 00 0
+2008 99 45 00 0
+2008 99 46 00 0
+2008 99 47 00 0
+2008 99 49 00 0
+2008 99 51 00 0
+2008 99 61 00 0
+2008 99 62 00 0
+2008 99 67 00 0
+2008 99 72 00 0
+2008 99 78 00 0
+2008 99 85 00 0
+2008 99 91 00 0
+2008 99 99 00 0
+2009 11 11 00 20
+2009 11 19 00 20
+2009 11 91 00 20
+
+Vámtarifaszám
+Vámtétel
+%
+2009 11 99 00 20
+2009 12 00 00 20
+2009 19 11 00 20
+2009 19 19 00 20
+2009 19 91 00 20
+2009 19 98 00 20
+2009 21 00 00 20
+2009 29 11 00 20
+2009 29 19 00 20
+2009 29 91 00 20
+2009 29 99 00 20
+2009 31 11 00 20
+2009 31 19 00 20
+2009 31 51 00 20
+2009 31 59 00 20
+2009 31 91 00 20
+2009 31 99 00 20
+2009 39 11 00 20
+2009 39 19 00 20
+2009 39 31 00 20
+2009 39 39 00 20
+2009 39 51 00 20
+2009 39 55 00 20
+2009 39 59 00 20
+2009 39 91 00 20
+2009 39 95 00 20
+2009 39 99 00 20
+2009 41 10 00 20
+2009 41 91 00 20
+2009 41 99 00 20
+2009 49 11 00 20
+2009 49 19 00 20
+2009 49 30 00 20
+2009 49 91 00 20
+2009 49 93 00 20
+2009 49 99 00 20
+2009 50 10 00 37,2
+Vámtarifaszám
+Vámtétel
+%
+2009 50 90 00 37,2
+2009 61 10 00 37,2
+2009 61 90 00 37,2
+2009 69 11 00 37,2
+2009 69 19 00 37,2
+2009 69 51 00 37,2
+2009 69 59 00 37,2
+2009 69 71 00 37,2
+2009 69 79 00 37,2
+2009 69 90 00 37,2
+2009 71 10 00 37,2
+2009 71 91 00 37,2
+2009 71 99 00 37,2
+2009 79 11 00 37,2
+2009 79 19 00 37,2
+2009 79 30 00 37,2
+2009 79 91 00 37,2
+2009 79 93 00 37,2
+2009 79 99 00 37,2
+2009 80 11 00 37,2
+2009 80 19 00 37,2
+2009 80 32 00 37,2
+2009 80 33 00 37,2
+2009 80 35 00 37,2
+2009 80 36 00 37,2
+2009 80 38 00 37,2
+2009 80 50 00 37,2
+2009 80 61 00 37,2
+2009 80 63 00 37,2
+2009 80 69 00 37,2
+2009 80 71 00 37,2
+2009 80 73 00 37,2
+2009 80 79 00 37,2
+2009 80 83 00 37,2
+2009 80 84 00 37,2
+2009 80 86 00 37,2
+2009 80 88 00 37,2
+Vámtarifaszám
+Vámtétel
+%
+2009 80 89 00 37,2
+2009 80 95 00 37,2
+2009 80 96 00 37,2
+2009 80 97 00 37,2
+2009 80 99 00 37,2
+2009 90 11 00 37,2
+2009 90 19 00 37,2
+2009 90 21 00 37,2
+2009 90 29 00 37,2
+2009 90 31 00 37,2
+2009 90 39 00 37,2
+2009 90 41 00 37,2
+2009 90 49 00 37,2
+2009 90 51 00 37,2
+2009 90 59 00 37,2
+2009 90 71 00 37,2
+2009 90 73 00 37,2
+2009 90 79 00 37,2
+2009 90 92 00 37,2
+2009 90 94 00 37,2
+2009 90 95 00 37,2
+2009 90 96 00 37,2
+2009 90 97 00 37,2
+2009 90 98 00 37,2
+2101 20 20 00 20
+2102 20 11 01 0
+2102 20 19 01 0
+2106 90 92 01 0
+2106 90 98 01 0
+2201 90 00 00 10
+2301 20 00 00 0
+2303 10 11 00 0
+2303 10 19 00 0
+2303 10 90 00 0
+2303 20 11 00 0
+2303 20 18 00 0
+2303 20 90 00 0
+Vámtarifaszám
+Vámtétel
+%
+2303 30 00 00 0
+2304 00 00 00 0
+2305 00 00 00 0
+2306 10 00 00 0
+2306 20 00 00 0
+2306 30 00 00 0
+2306 41 00 00 0
+2306 49 00 00 0
+2306 50 00 00 0
+2306 60 00 00 0
+2306 70 00 00 0
+2306 90 11 00 0
+2306 90 19 00 0
+2306 90 90 00 0
+2308 00 11 00 0
+2308 00 19 00 0
+2308 00 40 00 0
+2308 00 90 00 0
+2309 10 11 00 0
+2309 10 13 00 0
+2309 10 15 00 0
+2309 10 19 00 0
+2309 10 31 00 0
+2309 10 33 00 0
+2309 10 39 00 0
+2309 10 51 00 0
+2309 10 53 00 0
+2309 10 59 00 0
+2309 10 70 00 0
+2309 10 90 00 0
+2309 90 10 00 0
+2309 90 20 00 0
+2309 90 31 00 0
+2309 90 33 00 0
+2309 90 35 00 0
+2309 90 39 00 0
+2309 90 41 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+2309 90 43 00 0
+2309 90 49 00 0
+2309 90 51 00 0
+2309 90 53 00 0
+2309 90 59 00 0
+2309 90 70 00 0
+2309 90 91 00 0
+2309 90 95 00 0
+2309 90 99 00 0
+2501 00 10 00 0
+2501 00 31 00 0
+2501 00 51 00 0
+2501 00 91 00 0
+2501 00 99 00 0
+2502 00 00 00 0
+2503 00 10 00 0
+2503 00 90 00 0
+2504 10 00 00 0
+2504 90 00 00 0
+2505 10 00 00 2
+2505 90 00 01 0
+2507 00 20 02 1,5
+2507 00 20 99 2
+2507 00 80 00 2
+2508 30 00 00 0
+2509 00 00 00 0
+2510 10 00 00 0
+2510 20 00 00 0
+2512 00 00 00 0
+2515 11 00 00 0
+2515 12 20 01 3
+2515 12 20 99 3
+2515 12 50 01 3
+2515 12 50 99 3
+2515 12 90 01 3
+2519 10 00 00 0
+2519 90 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+2519 90 30 00 0
+2519 90 90 00 0
+2520 10 00 00 0
+2520 20 10 99 0
+2520 20 90 99 0
+2522 10 00 00 0
+2522 20 00 00 0
+2522 30 00 00 0
+2523 10 00 00 0
+2523 21 00 00 0
+2523 29 00 00 0
+2523 30 00 00 0
+2523 90 10 00 0
+2523 90 80 00 0
+2524 00 30 00 0
+2524 00 80 00 0
+2525 10 00 00 0
+2525 20 00 00 0
+2525 30 00 00 0
+2526 10 00 00 0
+2526 20 00 00 0
+2529 10 00 00 1
+2529 21 00 00 1,5
+2529 22 00 00 1,5
+2529 30 00 00 1
+2530 90 98 03 1,5
+2601 11 00 00 0
+2601 12 00 00 0
+2601 20 00 00 0
+2602 00 00 00 0
+2603 00 00 00 0
+2604 00 00 00 0
+2605 00 00 00 0
+2606 00 00 00 0
+2607 00 00 00 0
+2608 00 00 00 0
+2609 00 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+2610 00 00 00 0
+2611 00 00 00 0
+2612 10 10 00 0
+2612 10 90 00 0
+2612 20 10 00 0
+2612 20 90 00 0
+2613 10 00 00 0
+2613 90 00 00 0
+2614 00 10 00 0
+2614 00 90 00 0
+2615 10 00 00 0
+2615 90 10 00 0
+2615 90 90 00 0
+2616 10 00 00 0
+2616 90 00 00 0
+2617 10 00 00 0
+2617 90 00 00 0
+2618 00 00 00 0
+2619 00 20 00 0
+2619 00 40 00 0
+2619 00 80 00 0
+2620 11 00 00 0
+2620 19 00 00 0
+2620 21 00 00 0
+2620 29 00 00 0
+2620 30 00 00 0
+2620 40 00 00 0
+2620 60 00 00 0
+2620 91 00 00 0
+2620 99 10 00 0
+2620 99 20 00 0
+2620 99 40 00 0
+2620 99 60 00 0
+2620 99 95 00 0
+2701 11 10 00 0
+2701 11 90 00 0
+2704 00 11 00 0
+Vámtarifaszám
+Vámtétel
+%
+2704 00 19 00 0
+2704 00 30 00 0
+2704 00 90 99 0
+2706 00 00 00 0
+2707 10 10 00 0
+2707 10 90 00 0
+2707 20 10 00 0
+2707 20 90 00 0
+2707 30 10 00 0
+2707 30 90 00 0
+2707 40 00 00 0
+2707 60 00 00 0
+2707 91 00 00 0
+2707 99 11 00 0
+2707 99 19 00 0
+2707 99 30 00 0
+2707 99 50 00 0
+2707 99 70 00 0
+2707 99 91 00 0
+2707 99 99 00 0
+2708 10 00 00 0
+2708 20 00 00 0
+2709 00 10 00 0
+2709 00 90 00 0
+2710 11 11 00 0
+2710 11 15 00 0
+2710 11 21 00 0
+2710 11 25 00 0
+2710 11 31 00 0
+2710 11 41 00 0
+2710 11 45 00 0
+2710 11 49 00 0
+2710 11 51 00 0
+2710 11 59 00 0
+2710 11 70 00 0
+2710 11 90 00 0
+2710 19 11 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+2710 19 15 00 0
+2710 19 21 00 0
+2710 19 25 00 0
+2710 19 29 00 0
+2710 19 31 00 0
+2710 19 35 00 0
+2710 19 41 01 0
+2710 19 41 02 0
+2710 19 41 03 0
+2710 19 45 01 0
+2710 19 45 02 0
+2710 19 45 03 0
+2710 19 49 01 0
+2710 19 49 02 0
+2710 19 49 03 0
+2710 19 51 00 0
+2710 19 55 00 0
+2710 19 61 00 0
+2710 19 63 00 0
+2710 19 65 00 0
+2710 19 69 00 0
+2710 19 71 00 4
+2710 19 75 00 4
+2710 19 81 00 4
+2710 19 83 00 4
+2710 19 85 00 4
+2710 19 87 00 4
+2710 19 91 00 4
+2710 19 93 00 4
+2710 19 99 01 4
+2710 19 99 99 4
+2710 91 00 00 4
+2710 99 00 00 4
+2711 11 00 00 0
+2711 12 11 00 0
+2711 12 19 00 0
+2711 12 91 00 0
+Vámtarifaszám
+Vámtétel
+%
+2711 12 93 00 0
+2711 12 94 00 0
+2711 12 97 00 0
+2711 13 10 00 0
+2711 13 30 00 0
+2711 13 91 00 0
+2711 13 97 00 0
+2711 14 00 00 0
+2711 19 00 00 0
+2711 21 00 00 0
+2711 29 00 00 0
+2712 90 31 01 0
+2712 90 33 01 0
+2712 90 39 01 0
+2713 11 00 00 0
+2713 12 00 00 0
+2714 10 00 99 0
+2714 90 00 00 0
+2716 00 00 00 0
+2801 20 00 00 2
+2801 30 10 00 2,5
+2801 30 90 00 3,5
+2802 00 00 00 0
+2803 00 10 00 2
+2803 00 80 00 2
+2804 21 00 00 4
+2804 29 10 00 4
+2804 29 90 00 4
+2804 30 00 00 4
+2804 40 00 00 4
+2804 50 10 00 4
+2804 50 90 00 4
+2804 61 00 00 4
+2804 69 00 00 4
+2804 70 00 00 0
+2804 80 00 00 4
+2804 90 00 00 4
+Vámtarifaszám
+Vámtétel
+%
+2805 11 00 00 1,8
+2805 12 00 00 1,8
+2805 19 10 00 1,8
+2805 19 90 00 1,8
+2805 30 10 00 0
+2805 30 90 00 0
+2805 40 10 00 0
+2805 40 90 00 0
+2809 10 00 00 4
+2809 20 00 01 4
+2809 20 00 99 1
+2810 00 10 00 3
+2810 00 90 01 1
+2810 00 90 99 3
+2811 11 00 00 1
+2811 19 10 00 1
+2811 19 20 00 1
+2811 19 80 00 1
+2811 21 00 00 1
+2811 22 00 00 1
+2811 29 10 02 1
+2811 29 30 00 1
+2811 29 90 99 1
+2812 10 11 00 0
+2812 10 15 00 0
+2812 10 16 00 0
+2812 10 18 00 0
+2812 10 91 00 0
+2812 10 93 00 0
+2812 10 94 00 0
+2812 10 95 00 0
+2812 10 99 00 0
+2812 90 00 00 0
+2813 10 00 00 0
+2813 90 10 00 5
+2813 90 90 01 5
+2815 11 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+2815 12 00 00 0
+2815 20 10 00 0
+2815 20 90 00 0
+2815 30 00 00 5
+2816 10 00 00 3
+2816 40 00 00 4
+2817 00 00 00 0
+2818 10 10 00 3,5
+2818 10 90 00 3,5
+2818 20 00 00 3,5
+2818 30 00 00 3,5
+2819 10 00 00 0
+2819 90 10 00 0
+2819 90 90 00 0
+2820 10 00 00 1
+2820 90 10 00 2
+2820 90 90 00 2
+2821 10 00 00 0
+2821 20 00 00 0
+2822 00 00 00 2
+2823 00 00 00 0
+2824 10 00 00 0
+2824 20 00 00 0
+2824 90 00 00 0
+2825 10 00 00 0
+2825 20 00 00 5
+2825 30 00 99 0
+2825 40 00 00 2,5
+2825 50 00 00 2,5
+2825 60 00 00 2,5
+2825 70 00 00 5
+2825 80 00 00 0
+2825 90 11 00 5
+2825 90 19 00 5
+2825 90 20 00 5
+2825 90 30 00 3,5
+2825 90 40 00 2,5
+
+Vámtarifaszám
+Vámtétel
+%
+2825 90 50 00 2,5
+2825 90 60 00 5
+2825 90 80 00 5
+2827 10 00 00 4
+2827 20 00 00 4
+2827 31 00 00 4
+2827 32 00 00 4
+2827 33 00 00 4
+2827 34 00 00 4
+2827 35 00 00 4
+2827 36 00 00 4
+2827 39 10 00 4
+2827 39 80 00 4
+2827 41 00 00 0
+2827 49 10 00 0
+2827 49 90 00 0
+2827 51 00 00 4
+2827 59 00 00 4
+2827 60 00 00 4
+2828 10 00 00 5
+2828 90 00 00 5
+2829 11 00 00 5
+2829 19 00 00 5
+2829 90 10 00 2
+2829 90 40 00 4
+2829 90 80 00 4
+2830 10 00 00 5
+2830 20 00 00 5
+2830 30 00 00 5
+2830 90 11 00 5
+2830 90 80 00 5
+2831 10 00 00 5
+2831 90 00 00 5
+2832 10 00 00 3,5
+2832 20 00 00 3,5
+2832 30 00 00 3,5
+2833 21 00 00 4
+Vámtarifaszám
+Vámtétel
+%
+2833 22 00 00 4
+2833 23 00 00 4
+2833 24 00 00 4
+2833 25 00 00 4
+2833 26 00 00 4
+2833 27 00 00 4
+2833 29 10 00 4
+2833 29 30 00 4
+2833 29 50 00 4
+2833 29 70 00 4
+2833 29 90 00 4
+2833 30 00 00 4
+2833 40 00 00 4
+2834 10 00 00 4
+2834 21 00 00 4
+2834 29 20 00 4
+2834 29 30 00 4
+2834 29 80 00 4
+2835 10 00 00 4
+2835 22 00 00 3
+2835 23 00 00 3
+2835 24 00 00 3
+2835 25 10 00 3
+2835 25 90 00 3
+2835 26 10 00 3
+2835 26 90 00 3
+2835 29 10 00 3
+2835 29 90 00 3
+2835 31 00 00 3
+2835 39 00 00 5
+2836 10 00 00 0
+2836 20 00 00 0
+2836 30 00 00 0
+2836 40 00 00 0
+2836 50 00 00 0
+2836 60 00 00 0
+2836 70 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+2836 91 00 00 0
+2836 92 00 00 0
+2836 99 11 00 0
+2836 99 18 00 0
+2836 99 90 00 0
+2837 11 00 00 5
+2837 19 00 00 5
+2837 20 00 00 5
+2838 00 00 00 5
+2839 11 00 00 5
+2839 19 00 00 5
+2839 20 00 00 5
+2839 90 00 01 3
+2839 90 00 99 5
+2840 11 00 00 3
+2840 19 10 00 3
+2840 19 90 00 3
+2840 20 10 00 3
+2840 20 90 00 3
+2840 30 00 00 3,5
+2841 10 00 00 0
+2841 20 00 00 4
+2841 30 00 00 4
+2841 50 00 00 4
+2841 61 00 00 4
+2841 69 00 00 4
+2841 70 00 00 4
+2841 80 00 00 3
+2841 90 10 00 4
+2841 90 30 00 3
+2841 90 90 00 3
+2843 10 10 00 4
+2843 10 90 00 4
+2843 21 00 00 3
+2843 29 00 00 3
+2843 30 00 00 3
+2843 90 10 00 5
+Vámtarifaszám
+Vámtétel
+%
+2843 90 90 00 4
+2844 10 10 00 0
+2844 10 30 99 0
+2844 10 90 01 0
+2844 20 25 00 0
+2844 20 35 00 0
+2844 20 51 00 0
+2844 20 59 00 0
+2844 20 99 00 0
+2844 30 19 00 0
+2844 30 55 00 0
+2844 30 61 00 0
+2844 30 69 00 0
+2844 30 91 00 0
+2844 30 99 00 0
+2844 40 10 00 0
+2844 40 20 00 0
+2844 40 30 00 0
+2844 40 80 00 0
+2844 50 00 00 0
+2845 10 00 00 0
+2845 90 10 00 0
+2845 90 90 00 0
+2846 10 00 00 0
+2846 90 00 00 0
+2847 00 00 01 5
+2847 00 00 99 1,5
+2848 00 00 00 5
+2849 10 00 00 0
+2849 20 00 00 0
+2849 90 10 00 0
+2850 00 20 00 4
+2850 00 50 00 4
+2850 00 70 00 4
+2850 00 90 00 4
+2851 00 10 99 4
+2851 00 50 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+2851 00 80 01 3
+2851 00 80 99 5
+2901 21 00 00 0
+2902 41 00 00 4
+2902 42 00 00 4
+2902 43 00 00 4
+2902 50 00 00 0
+2902 60 00 00 2
+2902 90 10 00 2
+2902 90 90 01 0
+2903 11 00 00 5
+2903 12 00 00 5
+2903 13 00 00 5
+2903 14 00 00 5
+2903 15 00 00 5
+2903 19 10 00 5
+2903 19 80 00 5
+2903 21 00 00 0
+2903 22 00 00 1
+2903 23 00 00 5
+2903 29 00 00 5
+2903 30 33 00 5
+2903 30 35 00 5
+2903 30 36 00 5
+2903 30 80 00 5
+2903 41 00 00 5
+2903 42 00 00 5
+2903 43 00 00 5
+2903 44 10 00 5
+2903 44 90 00 5
+2903 45 10 00 5
+2903 45 15 00 5
+2903 45 20 00 5
+2903 45 25 00 5
+2903 45 30 00 5
+2903 45 35 00 5
+2903 45 40 00 5
+Vámtarifaszám
+Vámtétel
+%
+2903 45 45 00 5
+2903 45 50 00 5
+2903 45 55 00 5
+2903 45 90 00 5
+2903 46 10 00 5
+2903 46 20 00 5
+2903 46 90 00 5
+2903 47 00 00 5
+2903 49 10 00 5
+2903 49 20 00 5
+2903 49 30 00 5
+2903 49 40 00 5
+2903 49 80 00 5
+2903 51 00 01 0
+2903 51 00 99 5
+2903 59 10 00 5
+2903 59 30 00 5
+2903 59 90 00 5
+2903 61 00 00 5
+2903 62 00 00 5
+2903 69 10 00 0
+2903 69 90 01 0
+2903 69 90 02 0
+2903 69 90 99 0
+2904 10 00 00 0
+2904 20 00 99 0
+2904 90 20 00 0
+2904 90 40 00 0
+2904 90 85 00 0
+2905 11 00 00 0
+2905 12 00 00 0
+2905 13 00 00 0
+2905 14 10 00 0
+2905 14 90 00 0
+2905 15 00 00 0
+2905 16 10 00 0
+2905 16 20 00 0
+Vámtarifaszám
+Vámtétel
+%
+2905 16 80 00 0
+2905 17 00 00 0
+2905 19 00 00 0
+2905 22 10 00 0
+2905 22 90 00 0
+2905 29 10 00 0
+2905 29 90 00 0
+2905 31 00 00 0
+2905 32 00 00 0
+2905 39 10 00 0
+2905 39 20 00 0
+2905 39 30 00 0
+2905 39 80 00 0
+2905 41 00 00 0
+2905 42 00 00 0
+2905 43 00 00 0
+2905 44 11 00 0
+2905 44 19 00 0
+2905 44 91 00 0
+2905 44 99 00 0
+2905 45 00 99 0
+2905 49 10 00 0
+2905 49 80 01 0
+2905 49 80 99 0
+2905 51 00 00 0
+2905 59 10 00 0
+2905 59 91 00 0
+2905 59 99 00 0
+2907 11 00 00 0
+2907 12 00 00 0
+2907 13 00 00 0
+2907 14 00 00 0
+2907 15 10 00 0
+2907 15 90 00 0
+2907 19 00 00 0
+2907 21 00 00 0
+2907 22 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+2907 23 00 00 0
+2907 29 00 00 0
+2908 10 00 00 2,5
+2909 11 00 00 5
+2909 19 00 00 5
+2909 20 00 00 2
+2909 30 10 00 2
+2909 30 31 00 2
+2909 30 35 00 2
+2909 30 38 00 2
+2909 30 90 00 2
+2909 41 00 00 4
+2909 42 00 00 5
+2909 43 00 00 5
+2909 44 00 00 2
+2909 49 11 00 2
+2909 49 19 00 2
+2909 49 90 00 2
+2909 50 10 00 2
+2909 50 90 01 4
+2909 50 90 99 2
+2909 60 00 00 2
+2911 00 00 00 4
+2912 12 00 00 3
+2912 13 00 00 3
+2912 19 00 00 3
+2912 21 00 00 4
+2912 29 00 01 2
+2912 29 00 99 4
+2912 30 00 00 4
+2912 41 00 00 0
+2912 42 00 00 0
+2912 49 00 00 0
+2912 50 00 00 0
+2912 60 00 00 0
+2913 00 00 00 4
+2914 11 00 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+2914 12 00 00 0
+2914 13 00 00 0
+2914 19 10 00 0
+2914 19 90 00 0
+2914 21 00 00 0
+2914 22 00 00 0
+2914 23 00 00 0
+2914 29 00 00 0
+2914 31 00 00 0
+2914 39 00 00 0
+2914 40 10 00 0
+2914 40 90 00 0
+2914 50 00 00 0
+2914 61 00 00 0
+2914 69 10 00 0
+2914 69 90 00 0
+2914 70 00 00 0
+2915 11 00 00 0
+2915 12 00 00 0
+2915 13 00 00 0
+2915 21 00 00 0
+2915 22 00 00 0
+2915 23 00 00 0
+2915 24 00 00 0
+2915 29 00 00 0
+2915 31 00 00 0
+2915 32 00 00 0
+2915 33 00 00 0
+2915 34 00 00 0
+2915 35 00 00 0
+2915 39 10 00 0
+2915 39 30 00 0
+2915 39 50 00 0
+2915 39 90 00 0
+2915 40 00 00 0
+2915 50 00 00 0
+2915 60 11 00 0
+Vámtarifaszám
+Vámtétel
+%
+2915 60 19 00 0
+2915 60 90 00 0
+2915 70 15 00 0
+2915 70 20 00 0
+2915 70 25 00 0
+2915 70 30 00 0
+2915 70 80 00 0
+2915 90 10 00 0
+2915 90 20 00 0
+2915 90 80 00 0
+2916 11 00 00 0
+2916 12 10 00 0
+2916 12 20 00 0
+2916 12 90 00 0
+2916 13 00 00 0
+2916 14 10 00 0
+2916 14 90 00 0
+2916 15 00 00 0
+2916 19 10 00 0
+2916 19 30 00 0
+2916 19 40 00 0
+2916 19 80 00 0
+2916 20 00 00 0
+2916 31 00 00 0
+2916 32 10 00 0
+2916 32 90 00 0
+2916 34 00 00 0
+2916 35 00 00 0
+2916 39 00 00 0
+2917 11 00 00 0
+2917 12 10 00 0
+2917 12 90 00 0
+2917 13 10 00 0
+2917 13 90 00 0
+2917 14 00 00 0
+2917 19 10 00 0
+2917 19 90 00 0
+Vámtarifaszám
+Vámtétel
+%
+2917 20 00 00 0
+2917 31 00 00 0
+2917 32 00 00 0
+2917 33 00 00 0
+2917 34 00 00 0
+2917 35 00 00 0
+2917 36 00 00 0
+2917 37 00 00 0
+2917 39 11 00 0
+2917 39 19 00 0
+2917 39 30 00 0
+2917 39 40 00 0
+2917 39 50 00 0
+2917 39 60 00 0
+2917 39 70 00 0
+2917 39 80 00 0
+2918 11 00 00 2,5
+2918 12 00 00 2,5
+2918 13 00 00 2,5
+2918 14 00 00 2,5
+2918 15 00 00 2,5
+2918 16 00 00 2,5
+2918 19 30 00 2,5
+2918 19 40 00 2,5
+2918 19 80 00 2,5
+2918 21 00 00 2,5
+2918 22 00 00 2,5
+2918 23 10 00 2,5
+2918 23 90 00 2,5
+2918 29 10 00 2,5
+2918 29 30 00 2,5
+2918 29 80 00 2,5
+2918 30 00 00 2,5
+2918 90 10 00 2,5
+2918 90 20 00 2,5
+2918 90 30 00 2,5
+2918 90 90 00 2,5
+Vámtarifaszám
+Vámtétel
+%
+2919 00 10 01 5
+2919 00 10 02 0
+2919 00 90 01 4
+2919 00 90 02 5
+2919 00 90 03 0
+2919 00 90 99 0
+2921 11 10 00 5
+2921 11 90 00 5
+2921 12 00 00 5
+2921 19 10 00 5
+2921 19 30 00 5
+2921 19 40 00 5
+2921 19 80 00 5
+2921 21 00 00 5
+2921 22 00 00 5
+2921 29 00 00 5
+2921 30 10 00 5
+2921 30 91 00 5
+2921 30 99 00 5
+2921 41 00 01 0
+2921 41 00 99 5
+2921 43 00 00 5
+2921 44 00 00 5
+2921 45 00 00 5
+2921 46 00 00 5
+2921 49 10 00 5
+2921 49 80 00 5
+2921 51 11 00 5
+2921 51 19 00 5
+2921 51 90 00 5
+2921 59 10 00 5
+2921 59 20 00 5
+2921 59 30 00 5
+2921 59 40 00 5
+2921 59 90 00 5
+2922 11 00 00 3,5
+2922 12 00 00 3,5
+
+Vámtarifaszám
+Vámtétel
+%
+2922 13 10 00 3,5
+2922 13 90 00 3,5
+2922 14 00 00 3,5
+2922 19 10 00 3,5
+2922 19 20 00 3,5
+2922 19 80 00 3,5
+2922 21 00 00 3,5
+2922 22 00 00 3,5
+2922 29 00 00 3,5
+2922 31 00 00 3,5
+2922 39 00 00 3,5
+2922 41 00 00 3,5
+2922 42 00 00 3,5
+2922 43 00 00 3,5
+2922 44 00 00 3,5
+2922 49 10 00 3,5
+2922 49 20 00 3,5
+2922 49 95 00 3,5
+2922 50 00 00 3,5
+2923 10 00 00 3,5
+2923 20 00 00 3,5
+2924 11 00 00 0
+2924 19 00 00 0
+2924 21 10 00 0
+2924 21 90 00 0
+2924 23 00 00 0
+2924 24 00 00 0
+2924 29 10 00 0
+2924 29 30 00 0
+2924 29 95 00 0
+2925 11 00 00 0
+2925 12 00 00 3,5
+2925 19 10 00 3,5
+2925 19 30 00 3,5
+2925 19 95 00 3,5
+2925 20 00 00 3,5
+2926 10 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+2926 20 00 00 4
+2926 30 00 00 4
+2926 90 20 00 4
+2926 90 95 01 4
+2926 90 95 99 4
+2927 00 00 00 4
+2928 00 10 00 0
+2928 00 90 00 0
+2929 10 10 00 0
+2929 10 90 00 0
+2929 90 00 01 0
+2929 90 00 99 2,5
+2930 10 00 00 4
+2930 20 00 00 5
+2930 30 00 00 5
+2930 40 10 00 5
+2930 40 90 00 5
+2930 90 13 00 5
+2930 90 16 00 5
+2930 90 20 00 5
+2930 90 30 00 5
+2930 90 40 00 5
+2930 90 50 00 5
+2930 90 70 00 5
+2931 00 95 01 0
+2931 00 95 03 0
+2932 11 00 00 1,5
+2932 12 00 00 0
+2932 13 00 00 6
+2932 19 00 00 0
+2932 21 00 01 5
+2932 21 00 02 4
+2932 29 10 00 5
+2932 29 20 00 5
+2932 29 30 00 5
+2932 29 40 00 5
+2932 29 50 00 5
+Vámtarifaszám
+Vámtétel
+%
+2932 29 80 01 4
+2932 29 80 99 0
+2932 91 00 00 4
+2932 92 00 00 4
+2932 93 00 00 4
+2932 94 00 00 4
+2932 95 00 00 4
+2932 99 50 00 4
+2932 99 70 00 4
+2932 99 85 99 4
+2933 11 10 00 2,5
+2933 11 90 00 2,5
+2933 19 10 00 2,5
+2933 19 90 00 2,5
+2933 21 00 00 0
+2933 29 10 00 0
+2933 29 90 00 0
+2933 31 00 00 4
+2933 32 00 00 0
+2933 33 00 00 5
+2933 39 10 00 0
+2933 39 20 00 0
+2933 39 25 00 0
+2933 39 35 00 0
+2933 39 40 00 0
+2933 39 45 00 0
+2933 39 50 00 0
+2933 39 55 00 0
+2933 39 99 01 2,5
+2933 39 99 02 4
+2933 39 99 03 5
+2933 39 99 99 0
+2933 41 00 00 5
+2933 49 10 00 5
+2933 49 30 00 5
+2933 49 90 01 2,5
+2933 49 90 02 4
+Vámtarifaszám
+Vámtétel
+%
+2933 49 90 99 5
+2933 52 00 00 0
+2933 53 10 00 0
+2933 53 90 00 0
+2933 54 00 00 0
+2933 55 00 00 0
+2933 59 10 00 4
+2933 59 20 00 4
+2933 59 95 00 0
+2933 61 00 00 0
+2933 69 10 00 0
+2933 69 20 00 0
+2933 69 30 00 0
+2933 69 80 00 0
+2933 71 00 00 1
+2933 72 00 00 0
+2933 79 00 00 0
+2933 91 10 00 0
+2933 91 90 00 0
+2933 99 10 00 6
+2933 99 20 01 4
+2933 99 20 99 0
+2933 99 30 00 0
+2933 99 40 00 0
+2933 99 50 00 0
+2933 99 90 01 2,5
+2933 99 90 02 4
+2933 99 90 03 6
+2933 99 90 99 0
+2934 10 00 00 0
+2934 20 20 00 6
+2934 20 80 00 6
+2934 30 10 00 2,5
+2934 30 90 00 2,5
+2934 91 00 00 0
+2934 99 10 00 0
+2934 99 20 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+2934 99 30 00 0
+2934 99 40 00 5
+2934 99 50 00 5
+2934 99 90 02 5
+2934 99 90 03 4
+2934 99 90 99 0
+2935 00 10 00 5
+2935 00 20 00 5
+2935 00 90 00 5
+2936 10 00 00 0
+2936 21 00 00 0
+2936 22 00 00 0
+2936 23 00 00 0
+2936 24 00 00 0
+2936 25 00 00 0
+2936 26 00 00 0
+2936 27 00 00 0
+2936 28 00 00 0
+2936 29 10 00 0
+2936 29 30 00 0
+2936 29 90 00 0
+2936 90 11 00 0
+2936 90 19 00 0
+2936 90 90 00 0
+2937 11 00 00 2,5
+2937 12 00 00 0
+2937 19 00 00 2,5
+2937 21 00 00 2,5
+2937 22 00 00 2,5
+2937 23 00 00 2,5
+2937 29 00 00 2,5
+2937 31 00 00 2,5
+2937 39 00 00 2,5
+2937 40 00 00 2,5
+2937 50 00 00 2,5
+2937 90 00 00 2,5
+2938 10 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+2938 90 10 00 0
+2938 90 30 00 0
+2938 90 90 00 0
+2939 11 00 00 5
+2939 19 00 00 5
+2939 21 00 00 5
+2939 29 00 00 5
+2939 30 00 00 5
+2939 41 00 00 5
+2939 42 00 00 5
+2939 43 00 00 5
+2939 49 00 00 5
+2939 51 00 00 5
+2939 59 00 00 5
+2939 61 00 00 5
+2939 62 00 00 5
+2939 63 00 00 5
+2939 69 00 00 5
+2939 91 11 00 5
+2939 91 19 00 5
+2939 91 90 00 5
+2939 99 00 00 5
+2940 00 00 00 5
+2941 10 10 00 0
+2941 10 20 00 0
+2941 10 90 00 0
+2941 20 30 00 0
+2941 20 80 00 0
+2941 30 00 00 0
+2941 40 00 00 0
+2941 50 00 00 0
+2941 90 00 00 0
+2942 00 00 01 3,5
+2942 00 00 99 0
+3001 10 10 00 4
+3001 10 90 00 4
+3001 20 10 00 4
+Vámtarifaszám
+Vámtétel
+%
+3001 20 90 00 4
+3001 90 10 00 4
+3001 90 91 00 4
+3001 90 99 00 4
+3002 10 10 01 4
+3002 10 10 99 0
+3002 10 91 01 4
+3002 10 91 99 0
+3002 10 95 00 4
+3002 10 99 00 0
+3002 20 00 00 0
+3002 30 00 00 0
+3002 90 10 00 4
+3002 90 30 00 4
+3002 90 50 00 4
+3002 90 90 00 4
+3003 10 00 00 0
+3003 20 00 00 0
+3003 31 00 00 0
+3003 39 00 00 0
+3003 40 00 00 0
+3003 90 10 00 0
+3003 90 90 00 0
+3004 10 10 01 0
+3004 10 10 02 0
+3004 10 90 01 0
+3004 10 90 02 0
+3004 20 10 01 0
+3004 20 10 02 0
+3004 20 90 01 0
+3004 20 90 02 0
+3004 31 10 01 0
+3004 31 10 02 0
+3004 31 90 01 0
+3004 31 90 02 0
+3004 32 10 01 0
+3004 32 10 02 0
+Vámtarifaszám
+Vámtétel
+%
+3004 32 90 01 0
+3004 32 90 02 0
+3004 39 10 01 0
+3004 39 10 02 0
+3004 39 90 01 0
+3004 39 90 02 0
+3004 40 10 01 0
+3004 40 10 02 0
+3004 40 90 01 0
+3004 40 90 02 0
+3004 50 10 01 0
+3004 50 10 02 0
+3004 50 90 01 0
+3004 50 90 02 0
+3004 90 11 01 0
+3004 90 11 02 0
+3004 90 19 01 0
+3004 90 19 02 0
+3004 90 91 01 0
+3004 90 91 02 0
+3004 90 99 01 0
+3004 90 99 02 0
+3005 10 00 00 0
+3005 90 10 00 2,5
+3005 90 31 00 0
+3005 90 51 00 0
+3005 90 55 00 0
+3005 90 99 00 0
+3006 10 10 00 0,5
+3006 10 90 00 0,5
+3006 20 00 00 0,5
+3006 30 00 01 4
+3006 30 00 02 4
+3006 40 00 00 0,5
+3006 50 00 00 0,5
+3006 60 11 01 0
+3006 60 11 02 0
+
+Vámtarifaszám
+Vámtétel
+%
+3006 60 19 01 0
+3006 60 19 02 0
+3006 60 90 01 0
+3006 60 90 02 0
+3101 00 00 01 0
+3101 00 00 02 0
+3101 00 00 99 0
+3102 10 10 00 3
+3102 10 90 00 3
+3102 21 00 00 3
+3102 29 00 00 3
+3102 30 10 00 3
+3102 30 90 00 3
+3102 40 10 00 3
+3102 40 90 00 3
+3102 50 10 01 3
+3102 50 10 99 4
+3102 50 90 01 3
+3102 50 90 99 4
+3102 60 00 00 3
+3102 70 00 01 3
+3102 70 00 99 3
+3102 80 00 00 3
+3102 90 00 00 3
+3103 10 10 00 0
+3103 10 90 00 0
+3103 20 00 00 0
+3103 90 00 00 0
+3104 10 00 00 0
+3104 20 10 00 0
+3104 20 50 00 0
+3104 20 90 00 0
+3104 30 00 00 0
+3104 90 00 99 0
+3105 10 00 01 3
+3105 10 00 99 4
+3105 20 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+3105 20 90 00 0
+3105 30 00 00 0
+3105 40 00 00 0
+3105 51 00 00 0
+3105 59 00 00 0
+3105 60 10 00 0
+3105 60 90 00 0
+3105 90 99 99 0
+3201 10 00 00 0
+3201 20 00 00 0
+3201 90 20 00 0
+3201 90 90 01 5
+3201 90 90 99 0
+3203 00 10 01 2
+3203 00 10 99 2
+3203 00 90 00 2
+3204 19 00 01 0
+3204 20 00 00 3
+3206 11 00 00 2,5
+3206 19 00 00 2,5
+3206 20 00 00 2,5
+3206 30 00 00 2,5
+3206 41 00 00 0
+3206 42 00 00 0
+3206 43 00 00 2,5
+3206 49 10 00 2,5
+3206 49 90 01 0
+3206 49 90 99 2,5
+3206 50 00 00 2,5
+3207 10 00 00 4
+3207 20 10 00 6
+3207 20 90 00 4
+3207 30 00 00 6
+3207 40 10 00 6
+3207 40 20 00 6
+3207 40 30 00 6
+3207 40 80 00 6
+Vámtarifaszám
+Vámtétel
+%
+3211 00 00 00 6
+3213 10 00 00 5
+3213 90 00 00 5
+3301 11 10 00 5
+3301 11 90 00 5
+3301 12 10 00 5
+3301 12 90 00 5
+3301 13 10 00 5
+3301 13 90 00 5
+3301 14 10 00 5
+3301 14 90 00 5
+3301 19 10 00 5
+3301 19 90 00 5
+3301 21 10 00 5
+3301 21 90 00 5
+3301 22 10 00 5
+3301 22 90 00 5
+3301 23 10 00 4
+3301 23 90 00 4
+3301 24 10 00 5
+3301 24 90 00 5
+3301 25 10 00 5
+3301 25 90 00 5
+3301 26 10 00 5
+3301 26 90 00 5
+3301 29 11 00 5
+3301 29 31 00 5
+3301 29 61 01 5
+3301 29 61 99 5
+3301 29 91 01 5
+3301 29 91 99 5
+3301 90 90 01 0
+3303 00 10 00 5
+3303 00 90 00 5
+3304 10 00 00 5
+3304 20 00 00 5
+3304 30 00 00 5
+Vámtarifaszám
+Vámtétel
+%
+3304 91 00 00 0
+3304 99 00 00 0
+3305 10 00 00 5
+3305 20 00 00 5
+3305 30 00 00 5
+3305 90 10 00 0
+3305 90 90 00 0
+3306 10 00 00 5
+3306 20 00 01 4,5
+3306 20 00 99 5
+3306 90 00 00 0
+3307 10 00 00 4,5
+3307 20 00 00 4,5
+3307 30 00 00 5
+3307 90 00 00 0
+3401 11 00 00 5
+3401 19 00 00 5
+3401 20 10 00 5
+3401 20 90 00 5
+3401 30 00 00 5
+3402 11 10 00 2,5
+3402 11 90 00 2,5
+3402 12 00 00 2,5
+3402 13 00 00 2,5
+3402 19 00 00 2,5
+3404 10 00 00 0
+3404 20 00 00 0
+3404 90 10 99 0
+3404 90 90 00 0
+3405 10 00 00 6
+3405 20 00 00 6
+3405 30 00 00 5
+3405 40 00 00 5
+3405 90 10 00 5
+3405 90 90 00 5
+3406 00 11 00 6
+3406 00 19 00 6
+
+Vámtarifaszám
+Vámtétel
+%
+3406 00 90 00 6
+3503 00 10 01 2,5
+3503 00 10 02 0
+3503 00 10 03 0
+3503 00 10 99 4
+3503 00 80 99 4
+3504 00 00 00 0
+3505 10 10 00 6
+3505 10 50 01 4
+3505 10 50 99 6
+3505 10 90 01 0
+3505 10 90 99 6
+3505 20 10 00 4
+3505 20 30 00 4
+3505 20 50 00 4
+3505 20 90 00 4
+3506 10 00 00 4
+3506 91 00 00 4
+3506 99 00 00 4
+3604 90 00 02 0
+3605 00 00 00 0
+3702 10 00 00 0
+3705 10 00 00 0
+3705 20 00 00 0
+3705 90 00 00 0
+3706 10 10 01 0
+3706 10 91 01 0
+3706 10 99 01 0
+3801 30 00 00 0
+3803 00 10 00 0
+3808 10 10 00 0
+3808 10 20 99 0
+3808 10 30 00 0
+3808 10 40 00 0
+3808 10 90 00 0
+3808 20 10 00 0
+3808 20 15 00 0
+Vámtarifaszám
+Vámtétel
+%
+3808 20 30 00 0
+3808 20 40 00 0
+3808 20 50 00 0
+3808 20 60 00 0
+3808 20 80 99 0
+3808 30 11 00 0
+3808 30 13 00 0
+3808 30 15 00 0
+3808 30 17 00 0
+3808 30 21 00 0
+3808 30 23 00 0
+3808 30 27 00 0
+3808 30 30 00 0
+3808 30 90 00 0
+3808 40 10 00 0
+3808 40 20 00 0
+3808 40 90 00 0
+3808 90 10 00 5
+3808 90 90 00 5
+3809 92 00 00 0
+3811 19 00 00 0
+3811 21 00 00 0
+3811 29 00 00 0
+3811 90 00 00 0
+3822 00 00 01 0
+3822 00 00 02 0
+3822 00 00 03 0
+3822 00 00 04 0
+3824 90 99 01 0
+3824 90 99 05 0
+3901 10 10 00 0
+3901 10 90 00 0
+3901 20 10 00 0
+3901 20 90 00 0
+3901 30 00 00 0
+3901 90 10 00 0
+3901 90 20 00 0
+Vámtarifaszám
+Vámtétel
+%
+3901 90 90 00 0
+3902 10 00 00 0
+3902 20 00 00 0
+3902 30 00 00 0
+3902 90 10 00 0
+3902 90 20 00 0
+3902 90 90 00 0
+3903 11 00 00 0
+3903 19 00 00 0
+3903 20 00 00 0
+3903 30 00 00 0
+3903 90 10 00 0
+3903 90 20 00 0
+3903 90 90 00 0
+3904 10 00 00 0
+3904 21 00 00 0
+3904 22 00 00 0
+3904 30 00 00 0
+3904 40 00 00 0
+3904 50 10 00 0
+3904 50 90 00 0
+3904 61 00 00 0
+3904 69 10 00 0
+3904 69 90 00 0
+3904 90 00 00 0
+3905 12 00 00 0
+3905 19 00 00 0
+3905 21 00 00 0
+3905 29 00 00 0
+3905 30 00 00 0
+3905 91 00 00 0
+3905 99 10 00 0
+3905 99 90 00 0
+3906 90 10 00 0
+3906 90 20 00 0
+3906 90 30 00 0
+3906 90 40 00 0
+Vámtarifaszám
+Vámtétel
+%
+3906 90 50 00 0
+3906 90 60 00 0
+3906 90 90 00 0
+3907 10 00 00 0
+3907 20 11 00 0
+3907 20 21 00 0
+3907 20 29 00 0
+3907 20 91 00 0
+3907 20 99 00 0
+3907 30 00 00 5
+3907 40 00 00 0
+3907 50 00 00 0
+3907 60 20 00 5
+3907 60 80 00 5
+3907 91 10 00 5
+3907 91 90 00 5
+3907 99 11 00 0
+3907 99 19 00 0
+3907 99 91 00 0
+3907 99 99 00 0
+3908 10 00 00 0
+3908 90 00 00 0
+3909 10 00 00 5
+3909 20 00 00 5
+3909 30 00 00 5
+3909 40 00 00 5
+3909 50 10 00 0
+3909 50 90 00 0
+3910 00 00 00 0
+3911 10 00 00 0
+3911 90 11 00 0
+3911 90 13 00 0
+3911 90 19 00 0
+3911 90 91 00 0
+3911 90 93 00 0
+3911 90 99 00 0
+3912 11 00 00 1,5
+
+Vámtarifaszám
+Vámtétel
+%
+3912 12 00 00 1,5
+3912 20 11 00 3,5
+3912 20 19 00 3,5
+3912 20 90 00 3,5
+3912 31 00 00 3,5
+3912 39 10 00 3,5
+3912 39 20 00 3,5
+3912 39 80 00 3,5
+3912 90 90 00 3,5
+3913 10 00 00 3
+3913 90 00 02 4
+3913 90 00 99 2,5
+3914 00 00 02 5
+3914 00 00 99 0
+3915 10 00 00 0
+3915 20 00 00 0
+3915 30 00 00 0
+3915 90 11 00 4
+3915 90 18 99 4
+3915 90 90 01 3,5
+3915 90 90 02 5
+3915 90 90 99 4
+3916 10 00 00 5
+3916 20 10 00 5
+3916 20 90 00 5
+3916 90 11 00 4
+3916 90 13 00 4
+3916 90 15 00 5
+3916 90 19 01 5
+3916 90 19 02 6
+3916 90 19 99 4
+3916 90 51 00 4
+3916 90 59 00 4
+3917 10 10 00 0
+3917 21 10 99 5
+3917 21 91 00 5
+3917 21 99 99 5
+Vámtarifaszám
+Vámtétel
+%
+3917 22 10 99 5
+3917 22 91 00 5
+3917 22 99 99 5
+3917 23 10 99 5
+3917 23 91 00 5
+3917 23 99 99 5
+3917 29 12 00 5
+3917 29 15 01 4
+3917 29 15 99 15
+3917 29 19 99 15
+3917 29 91 00 15
+3917 29 99 01 5
+3917 29 99 02 6
+3917 29 99 99 15
+3917 31 10 00 15
+3917 31 90 01 4
+3917 31 90 02 5
+3917 31 90 03 6
+3917 31 90 99 15
+3917 32 10 00 5
+3917 32 31 00 4
+3917 32 35 00 4
+3917 32 39 01 4
+3917 32 39 99 15
+3917 32 51 01 4
+3917 32 51 99 15
+3917 32 91 00 15
+3917 32 99 01 4
+3917 32 99 02 5
+3917 32 99 03 6
+3917 32 99 99 15
+3917 39 12 00 5
+3917 39 15 01 4
+3917 39 15 99 15
+3917 39 19 01 4
+3917 39 19 99 15
+3917 39 91 00 15
+Vámtarifaszám
+Vámtétel
+%
+3917 39 99 01 4
+3917 39 99 02 5
+3917 39 99 03 6
+3917 39 99 99 15
+3917 40 10 00 15
+3917 40 90 00 15
+3918 10 10 99 15
+3918 10 90 99 15
+3918 90 00 04 5
+3918 90 00 05 5
+3918 90 00 06 4
+3918 90 00 99 15
+3919 10 11 99 4
+3919 10 13 00 4
+3919 10 15 00 4
+3919 10 19 02 4
+3919 10 19 03 5
+3919 10 19 04 6
+3919 10 19 99 15
+3919 10 31 00 15
+3919 10 38 01 5
+3919 10 38 02 6
+3919 10 38 99 15
+3919 10 61 99 4
+3919 10 69 02 4
+3919 10 69 99 15
+3919 10 90 01 4
+3919 10 90 99 15
+3919 90 10 00 15
+3919 90 31 00 15
+3919 90 38 01 5
+3919 90 38 02 6
+3919 90 38 99 15
+3919 90 61 00 4
+3919 90 69 01 4
+3919 90 69 99 15
+3919 90 90 01 4
+Vámtarifaszám
+Vámtétel
+%
+3919 90 90 99 15
+3920 10 23 00 5
+3920 10 24 00 5
+3920 10 26 00 5
+3920 10 27 00 5
+3920 10 28 00 5
+3920 10 40 00 5
+3920 10 81 00 5
+3920 10 89 00 5
+3920 20 21 00 5
+3920 20 29 00 5
+3920 20 71 00 5
+3920 20 79 00 5
+3920 20 90 00 5
+3920 30 00 00 5
+3920 43 10 99 5
+3920 43 90 00 5
+3920 49 10 00 5
+3920 49 90 00 5
+3920 51 00 99 3
+3920 59 10 00 3
+3920 59 90 00 3
+3920 61 00 00 5
+3920 62 11 00 0
+3920 62 13 00 0
+3920 62 19 00 5
+3920 62 90 00 5
+3920 63 00 00 5
+3920 69 00 00 5
+3920 73 10 00 1,5
+3920 73 50 00 1,5
+3920 73 90 00 1,5
+3920 91 00 00 5
+3920 92 00 00 5
+3920 93 00 00 5
+3920 94 00 00 4,5
+3920 99 21 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+3920 99 28 00 4
+3920 99 51 00 0
+3920 99 53 00 0
+3920 99 55 00 0
+3920 99 59 01 5,7
+3920 99 59 02 5
+3920 99 59 03 0
+3920 99 59 99 4
+3920 99 90 01 0
+3920 99 90 99 4
+3921 12 00 99 5
+3921 13 10 00 5
+3921 13 90 00 5
+3921 19 00 00 5
+3921 90 11 00 6
+3921 90 19 00 6
+3921 90 30 00 5
+3921 90 41 00 5
+3921 90 43 00 5
+3921 90 49 00 5
+3921 90 55 02 6
+3921 90 55 99 4
+3921 90 60 00 4
+3921 90 90 99 4
+3922 10 00 01 0
+3922 10 00 99 15
+3922 20 00 00 15
+3922 90 00 99 15
+3923 10 00 00 15
+3923 21 00 01 4
+3923 21 00 99 15
+3923 29 10 01 4
+3923 29 10 99 15
+3923 29 90 01 4
+3923 29 90 99 15
+3923 30 10 00 15
+3923 30 90 00 15
+Vámtarifaszám
+Vámtétel
+%
+3923 40 10 00 15
+3923 40 90 00 15
+3923 50 10 00 15
+3923 50 90 00 15
+3923 90 10 00 15
+3923 90 90 00 15
+3924 10 00 00 15
+3924 90 11 00 15
+3924 90 19 00 15
+3924 90 90 00 15
+3925 10 00 00 15
+3925 20 00 00 15
+3925 30 00 00 15
+3925 90 10 00 15
+3925 90 20 00 15
+3925 90 80 00 15
+3926 10 00 00 15
+3926 20 00 00 15
+3926 30 00 00 15
+3926 40 00 00 15
+3926 90 10 00 15
+3926 90 50 00 15
+3926 90 91 00 15
+3926 90 99 01 0
+3926 90 99 99 15
+4001 10 00 00 0
+4001 21 00 00 0
+4001 22 00 00 0
+4001 29 00 00 2
+4001 30 00 01 4
+4001 30 00 99 0
+4002 11 00 01 2
+4002 11 00 99 0
+4002 19 00 01 2
+4002 19 00 02 0
+4002 19 00 99 0
+4002 20 00 01 2
+Vámtarifaszám
+Vámtétel
+%
+4002 20 00 99 0
+4002 31 00 01 2
+4002 31 00 99 0
+4002 39 00 01 2
+4002 39 00 99 0
+4002 41 00 01 2
+4002 41 00 99 0
+4002 49 00 01 2
+4002 49 00 99 0
+4002 51 00 01 2
+4002 51 00 99 0
+4002 59 00 01 2
+4002 59 00 99 0
+4002 60 00 01 2
+4002 60 00 99 0
+4002 70 00 01 2
+4002 70 00 99 0
+4002 80 00 00 1
+4002 91 00 01 2
+4002 91 00 99 0
+4002 99 10 01 2
+4002 99 10 99 0
+4002 99 90 01 0
+4002 99 90 02 2
+4002 99 90 99 0
+4005 10 00 01 4
+4005 10 00 99 2
+4005 20 00 00 2
+4005 91 00 01 4
+4005 91 00 99 2
+4005 99 00 01 0
+4005 99 00 02 0
+4005 99 00 99 2
+4006 10 00 01 4
+4006 10 00 99 2
+4006 90 00 01 4
+4006 90 00 99 2
+Vámtarifaszám
+Vámtétel
+%
+4007 00 00 00 4
+4008 11 00 00 4
+4008 19 00 00 4
+4008 21 10 00 4
+4008 21 90 00 4
+4008 29 10 00 4
+4008 29 90 00 4
+4009 11 00 00 4
+4009 12 10 00 4
+4009 12 90 00 4
+4009 21 00 00 4
+4009 22 10 00 4
+4009 22 90 00 4
+4009 31 00 00 4
+4009 32 10 00 4
+4009 32 90 00 4
+4009 41 00 00 4
+4009 42 10 00 4
+4009 42 90 00 4
+4010 11 00 00 4
+4010 12 00 00 4
+4010 13 00 00 4
+4010 19 00 00 4
+4010 31 00 00 4
+4010 32 00 00 4
+4010 33 00 00 4
+4010 34 00 00 4
+4010 35 00 00 4
+4010 36 00 00 4
+4010 39 00 00 4
+4011 10 00 00 0
+4011 20 10 01 0
+4011 20 10 02 0
+4011 20 90 01 0
+4011 20 90 02 0
+4011 30 10 00 0
+4011 30 90 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+4011 40 20 00 0
+4011 40 80 00 0
+4011 50 00 00 0
+4011 61 00 02 0
+4011 61 00 99 0
+4011 62 00 02 0
+4011 62 00 99 0
+4011 63 00 02 0
+4011 63 00 99 0
+4011 69 00 02 0
+4011 69 00 99 0
+4011 92 00 02 0
+4011 92 00 99 0
+4011 93 00 02 0
+4011 93 00 99 0
+4011 94 00 02 0
+4011 94 00 99 0
+4011 99 00 02 0
+4011 99 00 99 0
+4012 11 00 00 0
+4012 12 00 00 0
+4012 13 10 00 0
+4012 13 90 00 0
+4012 19 00 00 0
+4012 20 10 01 0
+4012 20 10 02 0
+4012 20 90 01 0
+4012 20 90 02 0
+4012 90 20 00 0
+4012 90 30 00 0
+4012 90 90 00 0
+4013 10 10 00 0
+4013 10 90 01 0
+4013 10 90 02 0
+4013 20 00 00 0
+4013 90 00 02 0
+4013 90 00 99 0
+Vámtarifaszám
+Vámtétel
+%
+4014 10 00 00 0
+4014 90 10 00 0
+4014 90 90 00 0
+4015 11 00 00 0
+4015 19 10 00 0
+4015 19 90 00 0
+4015 90 00 00 0
+4016 10 10 00 0
+4016 10 90 01 0
+4016 10 90 99 0
+4016 91 00 00 0
+4016 92 00 00 0
+4016 93 10 00 0
+4016 93 90 00 0
+4016 94 00 00 0
+4016 95 00 01 0
+4016 95 00 99 0
+4016 99 10 00 0
+4016 99 30 00 0
+4016 99 52 00 0
+4016 99 58 00 0
+4016 99 82 01 5
+4016 99 82 02 0
+4016 99 82 03 0
+4016 99 82 99 0
+4016 99 88 01 5
+4016 99 88 02 0
+4016 99 88 03 0
+4016 99 88 99 0
+4017 00 10 01 2
+4017 00 90 01 1
+4101 20 10 01 0
+4101 20 10 99 0
+4101 20 30 01 0
+4101 20 30 99 0
+4101 20 50 01 0
+4101 20 50 99 0
+Vámtarifaszám
+Vámtétel
+%
+4101 20 90 01 0
+4101 20 90 99 0
+4101 50 10 01 0
+4101 50 10 99 0
+4101 50 30 01 0
+4101 50 30 99 0
+4101 50 50 01 0
+4101 50 50 99 0
+4101 50 90 01 0
+4101 50 90 99 0
+4101 90 00 01 0
+4101 90 00 99 0
+4102 10 10 00 0
+4102 10 90 00 0
+4102 21 00 00 0
+4102 29 00 00 0
+4103 10 20 00 0
+4103 10 50 00 0
+4103 10 90 00 0
+4103 20 00 00 0
+4103 30 00 00 0
+4103 90 00 00 0
+4104 11 10 00 0
+4104 11 51 00 0
+4104 11 59 00 0
+4104 11 90 00 0
+4104 19 10 00 0
+4104 19 51 00 0
+4104 19 59 00 0
+4104 19 90 00 0
+4104 41 11 00 0
+4104 41 19 00 0
+4104 41 51 00 0
+4104 41 59 00 0
+4104 41 90 00 0
+4104 49 11 00 0
+4104 49 19 00 0
+Vámtarifaszám
+Vámtétel
+%
+4104 49 51 00 0
+4104 49 59 00 0
+4104 49 90 00 0
+4105 10 10 00 0
+4105 10 90 00 0
+4105 30 10 00 0
+4105 30 91 00 0
+4105 30 99 00 0
+4106 21 10 00 0
+4106 21 90 00 0
+4106 22 10 00 0
+4106 22 90 00 0
+4106 31 10 00 0
+4106 31 90 00 0
+4106 32 10 00 0
+4106 32 90 00 0
+4106 40 10 00 0
+4106 40 90 00 7
+4106 91 00 00 0
+4106 92 00 00 0
+4107 11 11 00 5
+4107 11 19 01 5
+4107 11 19 99 5
+4107 11 90 00 0
+4107 12 11 00 5
+4107 12 19 01 5
+4107 12 19 99 5
+4107 12 91 01 5
+4107 12 91 99 5
+4107 12 99 01 5
+4107 12 99 02 7
+4107 12 99 99 5
+4107 19 10 00 5
+4107 19 90 01 5
+4107 19 90 99 5
+4107 91 10 00 5
+4107 91 90 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+4107 92 10 00 5
+4107 92 90 01 7
+4107 99 10 01 5
+4107 99 10 99 5
+4107 99 90 01 5
+4107 99 90 02 7
+4112 00 00 01 0
+4112 00 00 02 5
+4112 00 00 99 5
+4113 10 00 01 0
+4113 10 00 02 5
+4113 10 00 99 3,5
+4113 20 00 01 5
+4113 30 00 00 7
+4113 90 00 01 5
+4113 90 00 02 7
+4114 10 10 00 5
+4114 10 90 00 5
+4114 20 00 01 5
+4115 10 00 00 3,5
+4202 11 10 00 5
+4202 11 90 00 5
+4202 12 11 00 5
+4202 12 19 00 5
+4202 12 50 00 5
+4202 12 91 99 5
+4202 12 99 99 5
+4202 19 10 00 0
+4202 19 90 01 15
+4202 19 90 02 5
+4202 19 90 03 0
+4202 19 90 99 0
+4202 21 00 01 6
+4202 21 00 99 4
+4202 22 10 00 5
+4202 22 90 99 5
+4202 29 00 00 5
+Vámtarifaszám
+Vámtétel
+%
+4202 31 00 01 6
+4202 31 00 99 4
+4202 32 10 00 5
+4202 32 90 99 5
+4202 39 00 01 15
+4202 39 00 03 0
+4202 39 00 99 0
+4202 91 10 01 6
+4202 91 10 99 4
+4202 91 80 01 6
+4202 91 80 99 4
+4202 92 11 00 5
+4202 92 15 00 5
+4202 92 19 00 5
+4202 92 91 99 5
+4202 92 98 99 5
+4202 99 00 01 15
+4202 99 00 02 5
+4202 99 00 03 0
+4202 99 00 99 0
+4203 10 00 01 0
+4203 21 00 01 0
+4203 29 10 01 0
+4203 29 91 01 0
+4203 29 99 01 0
+4203 30 00 01 0
+4203 40 00 01 0
+4204 00 10 00 5
+4204 00 90 00 5
+4301 10 00 00 0
+4301 30 00 00 0
+4301 60 00 00 0
+4301 70 10 00 0
+4301 70 90 00 0
+4301 80 30 00 0
+4301 80 50 00 0
+4301 80 80 00 0
+Vámtarifaszám
+Vámtétel
+%
+4301 90 00 00 0
+4302 11 00 01 0
+4302 11 00 02 6,5
+4302 13 00 01 0
+4302 13 00 02 6,5
+4302 19 10 01 0
+4302 19 10 02 6,5
+4302 19 20 01 0
+4302 19 20 02 6,5
+4302 19 30 01 0
+4302 19 30 02 6,5
+4302 19 35 01 0
+4302 19 35 02 6,5
+4302 19 41 01 0
+4302 19 41 02 6,5
+4302 19 49 01 0
+4302 19 49 02 6,5
+4302 19 50 01 0
+4302 19 50 02 6,5
+4302 19 60 01 0
+4302 19 60 02 6,5
+4302 19 70 01 0
+4302 19 70 02 6,5
+4302 19 80 01 0
+4302 19 80 02 6,5
+4302 19 95 01 0
+4302 19 95 02 6,5
+4302 20 00 01 4
+4302 20 00 99 6,5
+4302 30 10 00 5
+4302 30 21 00 5
+4302 30 25 00 5
+4302 30 31 00 5
+4302 30 41 00 5
+4302 30 45 00 5
+4302 30 51 00 5
+4302 30 55 00 5
+Vámtarifaszám
+Vámtétel
+%
+4302 30 61 00 5
+4302 30 71 00 5
+4302 30 95 00 5
+4303 10 10 00 5
+4303 10 90 00 5
+4303 90 00 00 5
+4401 21 00 00 2
+4401 22 00 00 2
+4403 10 00 02 0
+4403 20 11 00 0
+4403 20 31 00 0
+4403 20 91 00 0
+4403 41 00 00 0
+4403 49 10 00 0
+4403 49 20 00 0
+4403 49 40 00 0
+4403 49 95 00 0
+4403 91 10 00 0
+4403 92 10 00 0
+4403 99 10 01 0
+4403 99 30 01 0
+4403 99 51 00 0
+4403 99 95 01 0
+4404 10 00 99 2
+4404 20 00 99 2
+4405 00 00 01 3,5
+4407 10 15 01 0
+4407 10 15 99 0
+4407 10 31 00 0
+4407 10 33 00 0
+4407 10 38 00 0
+4407 10 91 01 0
+4407 10 91 99 0
+4407 10 93 01 0
+4407 10 93 99 0
+4407 10 98 01 0
+4407 10 98 99 0
+
+Vámtarifaszám
+Vámtétel
+%
+4407 24 15 01 0
+4407 24 15 99 0
+4407 24 30 00 0
+4407 24 90 01 0
+4407 24 90 99 0
+4407 25 10 01 0
+4407 25 10 99 0
+4407 25 30 00 0
+4407 25 50 00 0
+4407 25 90 01 0
+4407 25 90 99 0
+4407 26 10 01 0
+4407 26 10 99 0
+4407 26 30 00 0
+4407 26 50 00 0
+4407 26 90 01 0
+4407 26 90 99 0
+4407 29 05 01 0
+4407 29 05 99 0
+4407 29 20 00 0
+4407 29 30 00 0
+4407 29 50 00 0
+4407 29 61 01 0
+4407 29 61 99 0
+4407 29 69 01 0
+4407 29 69 99 0
+4407 29 83 00 0
+4407 29 85 00 0
+4407 29 95 01 0
+4407 29 95 99 0
+4407 91 15 01 0
+4407 91 15 99 0
+4407 91 31 00 0
+4407 91 39 00 0
+4407 91 90 01 0
+4407 91 90 99 0
+4407 92 00 01 0
+Vámtarifaszám
+Vámtétel
+%
+4407 92 00 99 0
+4407 99 10 01 0
+4407 99 10 99 0
+4407 99 30 00 0
+4407 99 50 00 0
+4407 99 91 01 0
+4407 99 91 99 0
+4407 99 96 01 0
+4407 99 96 99 0
+4407 99 97 01 0
+4407 99 97 99 0
+4408 10 15 01 3
+4408 10 15 02 0
+4408 10 15 99 0
+4408 10 91 01 3
+4408 10 91 99 0
+4408 10 93 01 3
+4408 10 93 99 0
+4408 10 99 01 3
+4408 10 99 99 0
+4408 31 11 01 3
+4408 31 11 02 0
+4408 31 11 99 0
+4408 31 21 00 0
+4408 31 25 00 0
+4408 31 30 01 3
+4408 31 30 99 0
+4408 39 15 01 3
+4408 39 15 02 0
+4408 39 15 99 0
+4408 39 21 00 0
+4408 39 31 01 3
+4408 39 31 99 0
+4408 39 35 01 3
+4408 39 35 99 0
+4408 39 55 01 3
+4408 39 55 02 0
+Vámtarifaszám
+Vámtétel
+%
+4408 39 55 99 0
+4408 39 70 01 3
+4408 39 70 99 0
+4408 39 85 01 3
+4408 39 85 99 0
+4408 39 95 01 3
+4408 39 95 99 0
+4408 90 15 01 3
+4408 90 15 02 0
+4408 90 15 99 0
+4408 90 35 01 3
+4408 90 35 99 0
+4408 90 85 01 3
+4408 90 85 99 0
+4408 90 95 01 3
+4408 90 95 99 0
+4409 10 11 01 2
+4409 10 11 03 0
+4409 10 11 99 2
+4409 10 18 01 2
+4409 10 18 03 0
+4409 10 18 99 2
+4409 20 11 01 2
+4409 20 11 03 0
+4409 20 11 99 2
+4409 20 91 01 2
+4409 20 91 02 0
+4409 20 91 99 2
+4409 20 98 01 2
+4409 20 98 03 0
+4409 20 98 99 2
+4410 90 00 99 0
+4411 11 10 00 0
+4411 11 90 00 0
+4411 19 10 00 0
+4411 19 90 00 0
+4411 21 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+4411 21 90 00 0
+4411 29 10 00 0
+4411 29 90 00 0
+4411 31 10 00 0
+4411 31 90 00 0
+4411 39 10 00 0
+4411 39 90 00 0
+4411 91 00 00 0
+4411 99 00 00 0
+4412 22 10 00 2
+4412 22 91 00 2
+4412 22 99 00 2
+4412 23 00 00 2
+4412 29 20 00 2
+4412 29 80 00 2
+4412 92 10 00 2
+4412 92 91 00 2
+4412 92 99 00 2
+4412 93 00 00 2
+4412 99 20 00 2
+4412 99 80 00 2
+4414 00 10 99 0
+4414 00 90 99 0
+4415 20 20 00 0
+4417 00 00 01 3,5
+4418 10 10 00 0
+4418 10 50 00 0
+4418 10 90 00 0
+4418 20 10 00 0
+4418 20 50 00 0
+4418 20 80 00 0
+4418 30 10 00 2
+4418 30 91 00 2
+4418 30 99 00 2
+4418 40 00 00 2
+4418 50 00 00 0
+4418 90 10 01 5
+
+Vámtarifaszám
+Vámtétel
+%
+4418 90 10 99 2
+4418 90 90 01 5
+4418 90 90 99 2
+4419 00 10 00 0
+4419 00 90 00 0
+4420 10 11 00 0
+4420 10 19 00 0
+4420 90 10 00 2
+4420 90 91 00 0
+4420 90 99 00 0
+4421 10 00 00 0
+4421 90 91 01 0
+4421 90 91 99 0
+4421 90 98 01 0
+4421 90 98 02 0
+4421 90 98 99 0
+4501 10 00 00 0
+4501 90 00 00 0
+4502 00 00 00 0
+4601 20 10 00 0
+4601 20 90 00 0
+4601 91 05 02 0
+4601 91 05 99 0
+4601 91 10 00 0
+4601 91 90 00 0
+4601 99 05 01 0
+4601 99 05 99 0
+4601 99 10 00 0
+4601 99 90 00 0
+4602 10 10 00 0
+4602 10 91 00 0
+4602 10 99 00 0
+4602 90 00 00 0
+4701 00 10 00 0
+4701 00 90 00 0
+4702 00 00 00 0
+4703 11 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+4703 19 00 00 0
+4703 21 00 00 0
+4703 29 00 00 0
+4704 11 00 00 0
+4704 19 00 00 0
+4704 21 00 00 0
+4704 29 00 00 0
+4705 00 00 00 0
+4706 10 00 00 0
+4706 20 00 00 0
+4706 91 00 00 0
+4706 92 00 00 0
+4706 93 00 00 0
+4707 10 00 00 0
+4707 20 00 00 0
+4707 30 10 00 0
+4707 30 90 00 0
+4707 90 10 00 0
+4707 90 90 00 0
+4801 00 00 01 0
+4801 00 00 99 0
+4802 20 00 02 0
+4802 30 00 00 0
+4802 40 10 00 0
+4802 40 90 00 0
+4802 54 00 01 3,5
+4802 55 10 01 3,5
+4802 55 10 02 8
+4802 55 10 99 0
+4802 55 20 01 3,5
+4802 55 20 02 8
+4802 55 20 99 0
+4802 55 30 01 3,5
+4802 55 30 02 8
+4802 55 30 99 0
+4802 55 90 01 3,5
+4802 55 90 02 8
+Vámtarifaszám
+Vámtétel
+%
+4802 55 90 99 0
+4802 57 00 01 3,5
+4802 57 00 02 8
+4802 57 00 99 0
+4802 58 10 01 3,5
+4802 58 10 99 0
+4802 58 90 01 3,5
+4802 58 90 99 0
+4802 61 20 00 0
+4802 61 80 00 0
+4802 62 00 00 0
+4802 69 00 00 0
+4803 00 10 00 0
+4803 00 31 01 0
+4803 00 31 02 5
+4803 00 31 99 0
+4803 00 39 00 0
+4803 00 90 01 0
+4803 00 90 02 5
+4803 00 90 99 0
+4805 11 00 00 0
+4805 12 00 00 0
+4805 19 10 00 0
+4805 19 90 00 0
+4805 24 00 00 0
+4805 25 00 00 0
+4805 40 00 99 0
+4805 50 00 00 0
+4805 91 00 02 0
+4805 91 00 99 0
+4805 92 00 02 0
+4805 92 00 99 0
+4805 93 20 02 0
+4805 93 20 99 0
+4805 93 80 02 0
+4805 93 80 99 0
+4806 10 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+4806 20 00 00 0
+4806 30 00 00 0
+4806 40 10 00 0
+4806 40 90 00 0
+4807 00 30 00 4
+4807 00 80 00 4
+4808 20 00 00 5
+4808 30 00 00 5
+4808 90 00 01 0
+4808 90 00 99 5
+4810 13 80 01 8
+4810 14 80 01 8
+4810 19 90 01 8
+4811 59 00 01 0
+4813 10 00 00 5
+4813 20 00 00 5
+4813 90 00 01 0
+4813 90 00 03 5
+4813 90 00 99 0
+4814 10 00 00 4
+4814 20 00 01 15
+4814 20 00 99 4
+4814 30 00 00 5
+4814 90 10 00 5
+4814 90 90 99 5
+4816 10 00 00 5
+4816 20 00 00 5
+4816 30 00 00 5
+4816 90 00 00 5
+4818 10 10 00 3
+4818 10 90 00 3
+4818 20 10 00 5
+4818 20 91 00 5
+4818 20 99 00 5
+4818 30 00 00 5
+4818 40 11 00 5
+4818 40 13 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+4818 40 19 00 5
+4818 40 90 00 5
+4818 50 00 00 5
+4818 90 10 01 4,2
+4818 90 10 99 5
+4818 90 90 01 4,2
+4818 90 90 99 5
+4819 30 00 00 4
+4819 40 00 00 4
+4819 50 00 01 0
+4819 50 00 99 4
+4822 10 00 00 2
+4822 90 00 00 2
+4823 12 00 00 4
+4823 19 00 01 4
+4823 19 00 99 0
+4823 20 00 00 4
+4823 40 00 00 5
+4823 70 10 99 5
+4823 70 90 00 5
+4823 90 40 01 4
+4823 90 80 01 0
+4823 90 80 02 3
+4823 90 80 03 4
+4823 90 80 99 5
+4901 10 00 00 0
+4901 91 00 00 0
+4901 99 00 99 0
+4902 10 00 99 0
+4902 90 10 99 0
+4902 90 30 99 0
+4902 90 90 99 0
+4903 00 00 00 0
+4904 00 00 00 0
+4906 00 00 00 0
+4907 00 10 00 0
+4910 00 00 01 0
+Vámtarifaszám
+Vámtétel
+%
+4911 10 10 00 0
+4911 10 90 00 0
+4911 91 00 01 0
+5006 00 10 01 0
+5007 10 00 00 5
+5007 20 11 00 5
+5007 20 19 00 5
+5007 20 21 99 5
+5007 20 31 99 5
+5007 20 39 99 5
+5007 20 41 99 5
+5007 20 51 99 5
+5007 20 59 99 5
+5007 20 61 99 5
+5007 20 69 99 5
+5007 20 71 99 5
+5007 90 10 99 5
+5007 90 30 99 5
+5007 90 50 99 5
+5007 90 90 99 5
+5101 11 00 00 0
+5101 19 00 00 0
+5101 21 00 00 0
+5101 29 00 00 0
+5101 30 00 00 0
+5102 11 00 00 0
+5102 19 10 00 0
+5102 19 30 00 0
+5102 19 40 00 0
+5102 19 90 00 0
+5102 20 00 00 0
+5103 10 10 00 0
+5103 10 90 00 0
+5103 20 10 00 0
+5103 20 91 00 0
+5103 20 99 00 0
+5103 30 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+5104 00 00 00 0
+5105 10 00 00 0
+5105 21 00 00 0
+5105 29 00 00 0
+5105 31 00 01 0
+5105 31 00 02 0
+5105 39 10 00 0
+5105 39 90 00 0
+5105 40 00 01 0
+5105 40 00 99 0
+5106 10 10 00 0
+5106 10 90 00 0
+5106 20 10 00 0
+5106 20 91 00 0
+5106 20 99 00 0
+5107 10 10 00 4
+5107 10 90 00 4
+5107 20 10 00 4
+5107 20 30 00 4
+5107 20 51 00 4
+5107 20 59 00 4
+5107 20 91 00 4
+5107 20 99 00 4
+5108 10 10 00 5
+5108 10 90 00 5
+5108 20 10 00 5
+5108 20 90 00 5
+5109 10 10 00 5
+5109 10 90 00 5
+5109 90 10 00 5
+5109 90 90 00 5
+5110 00 00 01 5
+5110 00 00 99 5
+5111 11 00 00 0
+5111 90 10 00 0
+5111 90 91 00 0
+5111 90 93 00 0
+Vámtarifaszám
+Vámtétel
+%
+5111 90 99 00 0
+5112 11 10 00 0
+5112 90 10 00 0
+5112 90 91 00 0
+5112 90 93 00 0
+5112 90 99 00 0
+5113 00 00 00 6
+5201 00 10 00 0
+5201 00 90 00 0
+5202 10 00 00 0
+5202 91 00 00 0
+5202 99 00 00 0
+5203 00 00 00 0
+5204 11 00 00 0
+5204 19 00 00 0
+5204 20 00 00 0
+5205 11 00 00 0
+5205 12 00 00 3
+5205 13 00 00 3
+5205 14 00 00 0
+5205 15 10 00 0
+5205 15 90 00 0
+5205 21 00 00 0
+5205 22 00 00 0
+5205 23 00 00 0
+5205 24 00 00 0
+5205 26 00 00 0
+5205 27 00 00 0
+5205 28 00 00 0
+5205 31 00 00 0
+5205 32 00 00 3
+5205 33 00 00 3
+5205 34 00 00 0
+5205 35 00 00 0
+5205 41 00 00 0
+5205 42 00 00 0
+5205 43 00 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+5205 44 00 00 0
+5205 46 00 00 0
+5205 47 00 00 0
+5205 48 00 00 0
+5206 11 00 00 0
+5206 12 00 00 0
+5206 13 00 00 0
+5206 14 00 00 0
+5206 15 10 00 0
+5206 15 90 00 0
+5206 21 00 00 0
+5206 22 00 00 0
+5206 23 00 00 0
+5206 24 00 00 0
+5206 25 10 00 0
+5206 25 90 00 0
+5206 31 00 00 0
+5206 32 00 00 0
+5206 33 00 00 0
+5206 34 00 00 0
+5206 35 00 00 0
+5206 41 00 00 0
+5206 42 00 00 0
+5206 43 00 00 0
+5206 44 00 00 0
+5206 45 00 00 0
+5207 10 00 00 0
+5207 90 00 00 0
+5208 11 10 01 0
+5208 11 10 02 0
+5208 11 10 99 0
+5208 11 90 01 0
+5208 11 90 02 0
+5208 11 90 99 0
+5208 12 16 00 0
+5208 12 19 00 0
+5208 12 96 00 0
+Vámtarifaszám
+Vámtétel
+%
+5208 12 99 00 0
+5208 13 00 01 0
+5208 13 00 99 0
+5208 19 00 01 0
+5208 19 00 99 0
+5208 21 10 01 0
+5208 21 10 99 0
+5208 21 90 01 0
+5208 21 90 99 0
+5208 22 16 00 0
+5208 22 19 00 0
+5208 22 96 00 0
+5208 22 99 00 0
+5208 23 00 01 0
+5208 23 00 99 0
+5208 29 00 01 0
+5208 29 00 99 0
+5208 31 00 01 0
+5208 31 00 99 0
+5208 32 16 00 0
+5208 32 19 00 0
+5208 32 96 00 0
+5208 32 99 00 0
+5208 33 00 01 0
+5208 33 00 99 0
+5208 39 00 01 0
+5208 39 00 99 0
+5208 41 00 01 0
+5208 41 00 99 0
+5208 42 00 00 0
+5208 43 00 01 0
+5208 43 00 99 0
+5208 49 00 01 0
+5208 49 00 99 0
+5208 51 00 01 0
+5208 51 00 99 0
+5208 52 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+5208 52 90 00 0
+5208 53 00 01 0
+5208 53 00 99 0
+5208 59 00 01 0
+5208 59 00 99 0
+5209 11 00 00 0
+5209 12 00 00 0
+5209 19 00 00 0
+5209 21 00 00 0
+5209 22 00 00 0
+5209 29 00 00 0
+5209 31 00 00 0
+5209 32 00 00 0
+5209 39 00 00 0
+5209 41 00 00 0
+5209 42 00 00 0
+5209 43 00 00 0
+5209 49 10 00 0
+5209 49 90 00 0
+5209 51 00 00 0
+5209 52 00 00 0
+5209 59 00 00 0
+5210 11 10 01 0
+5210 11 10 99 0
+5210 11 90 01 0
+5210 11 90 99 0
+5210 12 00 01 0
+5210 12 00 99 0
+5210 19 00 01 0
+5210 19 00 99 0
+5210 21 10 01 0
+5210 21 10 99 0
+5210 21 90 01 0
+5210 21 90 99 0
+5210 22 00 01 0
+5210 22 00 99 0
+5210 29 00 01 0
+Vámtarifaszám
+Vámtétel
+%
+5210 29 00 99 0
+5210 31 10 01 0
+5210 31 10 99 0
+5210 31 90 01 0
+5210 31 90 99 0
+5210 32 00 01 0
+5210 32 00 99 0
+5210 39 00 01 0
+5210 39 00 99 0
+5210 41 00 01 0
+5210 41 00 99 0
+5210 42 00 01 0
+5210 42 00 99 0
+5210 49 00 01 0
+5210 49 00 99 0
+5210 51 00 01 0
+5210 51 00 99 0
+5210 52 00 01 0
+5210 52 00 99 0
+5210 59 00 01 0
+5210 59 00 99 0
+5211 11 00 00 0
+5211 12 00 00 0
+5211 19 00 00 0
+5211 21 00 00 0
+5211 22 00 00 0
+5211 29 00 00 0
+5211 31 00 00 0
+5211 32 00 00 0
+5211 39 00 00 0
+5211 41 00 00 0
+5211 42 00 00 0
+5211 43 00 00 0
+5211 49 10 00 0
+5211 49 90 00 0
+5211 51 00 00 0
+5211 52 00 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+5211 59 00 00 0
+5212 11 10 01 0
+5212 11 10 99 0
+5212 11 90 01 0
+5212 11 90 99 0
+5212 12 10 01 0
+5212 12 10 99 0
+5212 12 90 01 0
+5212 12 90 99 0
+5212 13 10 01 0
+5212 13 10 99 0
+5212 13 90 01 0
+5212 13 90 99 0
+5212 14 10 01 0
+5212 14 10 99 0
+5212 14 90 01 0
+5212 14 90 99 0
+5212 15 10 01 0
+5212 15 10 99 0
+5212 15 90 01 0
+5212 15 90 99 0
+5212 21 10 00 0
+5212 21 90 00 0
+5212 22 10 00 0
+5212 22 90 00 0
+5212 23 10 00 0
+5212 23 90 00 0
+5212 24 10 00 0
+5212 24 90 00 0
+5212 25 10 00 0
+5212 25 90 00 0
+5301 10 00 00 0
+5301 21 00 00 0
+5301 29 00 00 0
+5301 30 10 00 0
+5301 30 90 00 0
+5303 10 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+5303 90 00 00 0
+5304 10 00 00 0
+5304 90 00 00 0
+5305 11 00 00 0
+5305 19 00 00 0
+5305 21 00 00 0
+5305 29 00 00 0
+5305 90 00 01 0
+5305 90 00 99 0
+5306 10 10 00 3
+5306 10 30 00 3
+5306 10 50 00 3
+5306 10 90 00 6,5
+5306 20 10 00 3
+5306 20 90 00 6,5
+5307 10 10 00 0
+5307 10 90 00 0
+5307 20 00 00 0
+5308 10 00 00 0
+5308 20 10 00 5
+5308 20 90 00 6,5
+5308 90 12 01 6,5
+5308 90 12 02 3
+5308 90 19 01 6,5
+5308 90 19 02 3
+5308 90 50 00 3,5
+5308 90 90 00 0
+5309 11 10 00 8
+5309 11 90 00 8
+5309 19 00 00 8
+5309 21 10 00 8
+5309 21 90 00 8
+5309 29 00 00 8
+5310 10 10 00 0
+5310 10 90 00 0
+5310 90 00 00 0
+5311 00 10 00 5,5
+Vámtarifaszám
+Vámtétel
+%
+5311 00 90 01 5
+5311 00 90 99 0
+5401 10 11 00 4,5
+5401 10 19 00 4,5
+5401 10 90 00 0
+5401 20 10 00 0
+5401 20 90 00 0
+5402 10 10 00 5
+5402 10 90 01 4,5
+5402 10 90 99 5
+5402 20 00 00 5
+5402 31 00 01 4,5
+5402 31 00 99 5
+5402 32 00 01 4,5
+5402 32 00 99 5
+5402 33 00 00 5
+5402 39 10 00 5
+5402 39 90 00 5
+5402 41 00 01 4,5
+5402 41 00 99 5
+5402 42 00 00 5
+5402 43 00 00 5
+5402 49 10 00 5
+5402 49 91 00 5
+5402 49 99 00 5
+5402 51 00 01 4,5
+5402 51 00 99 5
+5402 52 00 00 5
+5402 59 10 00 5
+5402 59 90 00 5
+5402 61 00 01 4,5
+5402 61 00 99 5
+5402 62 00 00 5
+5402 69 10 00 5
+5402 69 90 00 5
+5403 10 00 00 0
+5403 20 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+5403 31 00 00 0
+5403 32 00 00 0
+5403 33 00 00 0
+5403 39 00 00 0
+5403 41 00 00 0
+5403 42 00 00 0
+5403 49 00 00 0
+5404 10 10 00 0
+5404 10 90 00 0
+5404 90 11 00 5
+5404 90 19 00 5
+5404 90 90 00 5
+5405 00 00 00 0
+5406 10 00 00 6,5
+5406 20 00 00 0
+5407 10 00 00 0
+5407 20 11 00 0
+5407 20 19 00 0
+5407 20 90 00 0
+5407 30 00 00 0
+5407 41 00 00 0
+5407 42 00 00 0
+5407 43 00 00 0
+5407 44 00 00 0
+5407 51 00 00 0
+5407 52 00 00 5
+5407 53 00 00 0
+5407 54 00 00 0
+5407 61 10 00 0
+5407 61 50 00 0
+5407 61 90 00 0
+5407 69 10 00 0
+5407 69 90 00 0
+5407 71 00 00 0
+5407 72 00 00 0
+5407 73 00 00 0
+5407 74 00 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+5407 81 00 00 0
+5407 82 00 00 0
+5407 83 00 00 0
+5407 84 00 00 0
+5407 91 00 00 0
+5407 92 00 00 0
+5407 93 00 00 0
+5407 94 00 00 0
+5408 10 00 00 0
+5408 21 00 00 0
+5408 22 10 00 0
+5408 22 90 00 0
+5408 23 10 00 0
+5408 23 90 00 0
+5408 24 00 00 0
+5501 10 00 00 0
+5501 20 00 00 0
+5501 30 00 00 0
+5501 90 10 00 0
+5501 90 90 00 0
+5502 00 10 00 0
+5502 00 40 00 0
+5502 00 80 00 0
+5503 10 10 00 1
+5503 10 90 00 1
+5503 20 00 00 3
+5503 30 00 00 3
+5503 40 00 00 3
+5503 90 10 00 3
+5503 90 90 00 3
+5504 10 00 00 0
+5504 90 00 00 0
+5505 10 10 00 0,5
+5505 10 30 00 0,5
+5505 10 50 00 0,5
+5505 10 70 00 0,5
+5505 10 90 00 0,5
+Vámtarifaszám
+Vámtétel
+%
+5506 10 00 00 5
+5506 20 00 00 5
+5506 30 00 00 5
+5506 90 10 00 5
+5506 90 90 00 5
+5507 00 00 00 0
+5508 10 11 00 4,5
+5508 10 19 00 4,5
+5508 20 10 00 0
+5509 11 00 00 4,5
+5509 12 00 00 4,5
+5509 21 10 00 4,5
+5509 21 90 00 4,5
+5509 22 10 00 4,5
+5509 22 90 00 4,5
+5509 31 10 00 4,5
+5509 31 90 00 4,5
+5509 32 10 00 4,5
+5509 32 90 00 4,5
+5509 41 10 00 4,5
+5509 41 90 00 4,5
+5509 42 10 00 4,5
+5509 42 90 00 4,5
+5509 51 00 00 4,5
+5509 52 10 00 4,5
+5509 52 90 00 4,5
+5509 53 00 00 4,5
+5509 59 00 00 4,5
+5509 61 10 00 4,5
+5509 61 90 00 4,5
+5509 62 00 00 4,5
+5509 69 00 00 4,5
+5509 91 10 00 4,5
+5509 91 90 00 4,5
+5509 92 00 00 4,5
+5509 99 00 00 4,5
+5510 11 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+5510 12 00 00 0
+5510 20 00 00 0
+5510 30 00 00 0
+5510 90 00 00 0
+5512 11 00 00 5
+5512 19 10 00 5
+5512 19 90 00 5
+5512 21 00 00 5
+5512 29 10 00 5
+5512 29 90 00 5
+5512 91 00 00 5
+5512 99 10 00 5
+5512 99 90 00 5
+5513 11 20 00 5
+5513 11 90 00 5
+5513 12 00 00 5
+5513 13 00 00 5
+5513 19 00 00 5
+5513 21 10 00 5
+5513 21 30 00 5
+5513 21 90 00 5
+5513 22 00 00 5
+5513 23 00 00 5
+5513 29 00 00 5
+5513 31 00 00 5
+5513 32 00 00 5
+5513 33 00 00 5
+5513 39 00 00 5
+5513 41 00 00 5
+5513 42 00 00 5
+5513 43 00 00 5
+5513 49 00 00 5
+5514 11 00 00 5
+5514 12 00 00 5
+5514 13 00 00 5
+5514 19 00 00 5
+5514 21 00 00 5
+Vámtarifaszám
+Vámtétel
+%
+5514 22 00 00 5
+5514 23 00 00 5
+5514 29 00 00 5
+5514 31 00 00 5
+5514 32 00 00 5
+5514 33 00 00 5
+5514 39 00 00 5
+5514 41 00 00 5
+5514 42 00 00 5
+5514 43 00 00 5
+5514 49 00 00 5
+5515 11 10 00 5
+5515 11 30 00 5
+5515 11 90 00 5
+5515 12 10 00 5
+5515 12 30 00 5
+5515 12 90 00 5
+5515 13 11 00 5
+5515 13 19 00 5
+5515 13 91 00 5
+5515 13 99 00 5
+5515 19 10 00 5
+5515 19 30 00 5
+5515 19 90 00 5
+5515 21 10 00 5
+5515 21 30 00 5
+5515 21 90 00 5
+5515 22 11 00 5
+5515 22 19 00 5
+5515 22 91 00 5
+5515 22 99 00 5
+5515 29 10 00 5
+5515 29 30 00 5
+5515 29 90 00 5
+5515 91 10 00 5
+5515 91 30 00 5
+5515 91 90 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+5515 92 11 00 5
+5515 92 19 00 5
+5515 92 91 00 5
+5515 92 99 00 5
+5515 99 10 00 5
+5515 99 30 00 5
+5515 99 90 00 5
+5516 11 00 00 5
+5516 12 00 00 5
+5516 13 00 00 5
+5516 14 00 00 5
+5516 21 00 00 5
+5516 22 00 00 5
+5516 23 10 00 5
+5516 23 90 00 5
+5516 24 00 00 5
+5516 31 00 00 5
+5516 32 00 00 5
+5516 33 00 00 5
+5516 34 00 00 5
+5516 41 00 00 5
+5516 42 00 00 5
+5516 43 00 00 5
+5516 44 00 00 5
+5516 91 00 00 5
+5516 92 00 00 5
+5516 93 00 00 5
+5516 94 00 00 5
+5601 10 10 00 6
+5601 10 90 00 6
+5601 21 10 00 6
+5601 21 90 00 6
+5601 22 10 00 6
+5601 22 91 00 6
+5601 22 99 00 6
+5601 29 00 00 6
+5601 30 00 00 6
+Vámtarifaszám
+Vámtétel
+%
+5602 10 11 00 4
+5602 10 19 00 4
+5602 10 31 00 4
+5602 10 35 00 4
+5602 10 39 00 4
+5602 10 90 00 4
+5602 21 00 00 4
+5602 29 10 00 4
+5602 29 90 00 4
+5602 90 00 00 4
+5603 11 10 00 5
+5603 11 90 00 5
+5603 12 10 00 5
+5603 12 90 00 5
+5603 13 10 00 5
+5603 13 90 00 5
+5603 14 10 00 5
+5603 14 90 00 5
+5603 91 10 00 5
+5603 91 90 00 5
+5603 92 10 00 5
+5603 92 90 00 5
+5603 93 10 00 5
+5603 93 90 00 5
+5603 94 10 00 5
+5603 94 90 00 5
+5604 10 00 00 4
+5604 20 00 01 5
+5604 20 00 02 0
+5604 20 00 99 4
+5604 90 00 00 5
+5605 00 00 01 1,5
+5605 00 00 02 5
+5605 00 00 99 5
+5606 00 10 00 5
+5606 00 91 00 5
+5606 00 99 00 5
+Vámtarifaszám
+Vámtétel
+%
+5607 10 00 00 0
+5607 21 00 00 1,5
+5607 29 10 00 0
+5607 29 90 00 0
+5607 41 00 00 0
+5607 49 11 00 0
+5607 49 19 00 0
+5607 49 90 00 0
+5607 50 11 00 0
+5607 50 19 00 0
+5607 50 30 00 0
+5607 50 90 00 0
+5607 90 10 00 0
+5607 90 90 00 0
+5608 11 11 99 0
+5608 11 19 99 0
+5608 11 91 99 0
+5608 11 99 99 0
+5608 19 11 99 0
+5608 19 19 99 0
+5608 19 30 99 0
+5608 19 90 99 0
+5608 90 00 99 0
+5609 00 00 00 0
+5701 10 10 01 0
+5701 10 10 02 0
+5701 10 91 01 0
+5701 10 91 02 0
+5701 10 93 01 0
+5701 10 93 02 0
+5701 10 99 01 0
+5701 10 99 02 0
+5701 90 10 01 0
+5701 90 10 02 0
+5701 90 90 01 0
+5701 90 90 02 0
+5702 10 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+5702 20 00 00 0
+5702 31 00 00 0
+5702 32 00 00 0
+5702 39 10 00 0
+5702 39 90 00 0
+5702 41 00 00 0
+5702 42 00 00 0
+5702 49 10 00 0
+5702 49 90 00 0
+5702 51 00 00 0
+5702 52 00 00 0
+5702 59 00 00 0
+5702 91 00 00 0
+5702 92 00 00 0
+5702 99 00 00 0
+5703 10 00 01 0
+5703 10 00 99 4
+5703 20 11 01 0
+5703 20 11 99 4
+5703 20 19 01 0
+5703 20 19 99 4
+5703 20 91 01 0
+5703 20 91 99 4
+5703 20 99 01 0
+5703 20 99 99 4
+5703 30 11 01 0
+5703 30 11 99 4
+5703 30 19 01 0
+5703 30 19 99 4
+5703 30 51 01 0
+5703 30 51 99 4
+5703 30 59 01 0
+5703 30 59 99 4
+5703 30 91 01 0
+5703 30 91 99 4
+5703 30 99 01 0
+5703 30 99 99 4
+
+Vámtarifaszám
+Vámtétel
+%
+5703 90 00 01 0
+5703 90 00 99 4
+5704 10 00 00 4
+5704 90 00 00 4
+5705 00 10 01 0
+5705 00 10 99 4
+5705 00 30 01 0
+5705 00 30 99 4
+5705 00 90 01 0
+5705 00 90 99 4
+5801 10 00 01 0
+5801 10 00 02 5
+5801 10 00 03 7
+5801 10 00 99 5
+5801 21 00 01 0
+5801 21 00 02 5
+5801 21 00 99 5
+5801 22 00 01 7
+5801 22 00 99 5
+5801 23 00 01 7
+5801 23 00 99 5
+5801 24 00 01 7
+5801 24 00 99 5
+5801 25 00 01 7
+5801 25 00 99 5
+5801 26 00 01 7
+5801 26 00 99 5
+5801 31 00 01 0
+5801 31 00 02 7
+5801 31 00 99 5
+5801 32 00 01 7
+5801 32 00 99 5
+5801 33 00 01 7
+5801 33 00 99 5
+5801 34 00 01 7
+5801 34 00 99 5
+5801 35 00 01 7
+Vámtarifaszám
+Vámtétel
+%
+5801 35 00 99 5
+5801 36 00 01 7
+5801 36 00 99 5
+5801 90 10 00 5,5
+5801 90 90 01 7
+5801 90 90 02 0
+5801 90 90 03 5,5
+5801 90 90 04 6
+5801 90 90 99 5
+5802 11 00 01 0
+5802 11 00 02 7
+5802 11 00 99 5
+5802 19 00 01 0
+5802 19 00 02 7
+5802 19 00 99 5
+5802 20 00 01 7
+5802 20 00 99 5
+5802 30 00 01 4
+5802 30 00 02 5
+5802 30 00 03 7
+5802 30 00 99 5
+5803 10 00 00 0
+5803 90 10 99 5
+5803 90 30 00 8
+5803 90 50 00 8
+5803 90 90 01 8
+5803 90 90 02 5
+5803 90 90 99 5
+5804 10 11 01 7
+5804 10 11 99 5
+5804 10 19 01 7
+5804 10 19 99 5
+5804 10 90 01 7
+5804 10 90 99 5
+5804 21 10 01 7
+5804 21 10 99 5
+5804 21 90 01 7
+Vámtarifaszám
+Vámtétel
+%
+5804 21 90 99 5
+5804 29 10 01 7
+5804 29 10 99 5
+5804 29 90 01 7
+5804 29 90 99 5
+5804 30 00 01 7
+5804 30 00 99 5
+5805 00 00 00 6,5
+5806 10 00 01 6,5
+5806 10 00 99 5
+5806 20 00 01 6,5
+5806 20 00 99 5
+5806 31 00 01 6,8
+5806 31 00 99 5
+5806 32 10 01 6,5
+5806 32 10 99 5
+5806 32 90 01 6,5
+5806 32 90 99 5
+5806 39 00 01 6,5
+5806 39 00 99 5
+5806 40 00 01 6,5
+5806 40 00 99 5
+5807 10 10 00 5
+5807 10 90 00 5
+5807 90 10 01 4
+5807 90 10 02 5
+5807 90 90 99 5
+5808 10 00 01 6,5
+5808 10 00 99 5
+5808 90 00 01 6,5
+5808 90 00 99 5
+5809 00 00 00 5
+5810 10 10 00 7
+5810 10 90 00 7
+5810 91 10 00 6,5
+5810 91 90 00 6,5
+5810 92 10 00 6,5
+Vámtarifaszám
+Vámtétel
+%
+5810 92 90 00 6,5
+5810 99 10 00 6,5
+5810 99 90 00 6,5
+5811 00 00 02 8
+5811 00 00 03 6,5
+5811 00 00 04 6
+5811 00 00 05 4
+5811 00 00 06 7
+5811 00 00 07 5
+5811 00 00 99 5
+5901 10 00 00 6,5
+5901 90 00 00 6,5
+5902 10 10 00 7
+5902 10 90 01 6
+5902 10 90 99 0
+5902 20 10 00 7
+5902 20 90 01 6
+5902 20 90 99 0
+5902 90 10 00 7
+5902 90 90 01 6
+5902 90 90 99 0
+5903 10 10 00 5
+5903 10 90 00 5
+5903 20 10 00 5
+5903 20 90 00 5
+5903 90 10 00 5
+5903 90 91 00 5
+5903 90 99 00 5
+5904 10 00 00 10
+5904 90 00 00 10
+5905 00 10 02 0
+5905 00 10 03 6,5
+5905 00 10 04 6
+5905 00 10 05 7
+5905 00 10 06 4
+5905 00 10 07 5
+5905 00 10 99 5
+
+Vámtarifaszám
+Vámtétel
+%
+5905 00 30 00 0
+5905 00 50 00 6,5
+5905 00 70 00 0
+5905 00 90 02 0
+5905 00 90 03 6,5
+5905 00 90 04 6
+5905 00 90 05 7
+5905 00 90 06 4
+5905 00 90 07 5
+5905 00 90 99 5
+5906 10 00 01 6,5
+5906 10 00 02 7
+5906 10 00 99 6
+5906 91 00 00 0
+5906 99 10 01 6,5
+5906 99 10 02 7
+5906 99 10 99 6
+5906 99 90 01 6,5
+5906 99 90 02 7
+5906 99 90 99 6
+5907 00 10 00 5
+5907 00 90 01 5
+5907 00 90 02 4,5
+5907 00 90 99 3
+5908 00 00 00 7
+5909 00 10 00 6,5
+5909 00 90 00 6,5
+5910 00 00 00 5
+5911 10 00 00 0
+5911 20 00 01 0
+5911 20 00 99 0
+5911 31 11 00 0
+5911 31 19 00 0
+5911 31 90 00 0
+5911 32 10 00 0
+5911 32 90 00 0
+5911 40 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+5911 90 10 00 0
+5911 90 90 00 0
+6001 10 00 01 0
+6001 10 00 99 5
+6001 21 00 01 0
+6001 21 00 99 5
+6001 22 00 01 0
+6001 22 00 99 5
+6001 29 10 01 0
+6001 29 10 99 5
+6001 29 90 01 0
+6001 29 90 99 5
+6001 91 10 01 0
+6001 91 10 99 5
+6001 91 30 01 0
+6001 91 30 99 5
+6001 91 50 01 0
+6001 91 50 99 5
+6001 91 90 01 0
+6001 91 90 99 5
+6001 92 10 01 0
+6001 92 10 99 5
+6001 92 30 01 0
+6001 92 30 99 5
+6001 92 50 01 0
+6001 92 50 99 5
+6001 92 90 01 0
+6001 92 90 99 5
+6001 99 10 01 0
+6001 99 10 99 5
+6001 99 90 01 0
+6001 99 90 99 5
+6002 40 00 00 5
+6002 90 00 01 0
+6002 90 00 99 5
+6003 10 00 01 0
+6003 10 00 99 5
+Vámtarifaszám
+Vámtétel
+%
+6003 20 00 01 0
+6003 20 00 99 5
+6003 30 10 01 0
+6003 30 10 99 5
+6003 30 90 01 0
+6003 30 90 99 5
+6003 40 00 01 0
+6003 40 00 99 5
+6003 90 00 01 0
+6003 90 00 99 5
+6004 10 00 00 5
+6004 90 00 01 0
+6004 90 00 99 5
+6005 10 00 01 0
+6005 10 00 99 5
+6005 21 00 01 0
+6005 21 00 99 5
+6005 22 00 01 0
+6005 22 00 99 5
+6005 23 00 01 0
+6005 23 00 99 5
+6005 24 00 01 0
+6005 24 00 99 5
+6005 31 10 01 0
+6005 31 10 99 5
+6005 31 50 01 0
+6005 31 50 99 5
+6005 31 90 01 0
+6005 31 90 99 5
+6005 32 10 01 0
+6005 32 10 99 5
+6005 32 50 01 0
+6005 32 50 99 5
+6005 32 90 01 0
+6005 32 90 99 5
+6005 33 10 01 0
+6005 33 10 99 5
+Vámtarifaszám
+Vámtétel
+%
+6005 33 50 01 0
+6005 33 50 99 5
+6005 33 90 01 0
+6005 33 90 99 5
+6005 34 10 01 0
+6005 34 10 99 5
+6005 34 50 01 0
+6005 34 50 99 5
+6005 34 90 01 0
+6005 34 90 99 5
+6005 41 00 01 0
+6005 41 00 99 5
+6005 42 00 01 0
+6005 42 00 99 5
+6005 43 00 01 0
+6005 43 00 99 5
+6005 44 00 01 0
+6005 44 00 99 5
+6005 90 00 01 0
+6005 90 00 99 5
+6006 10 00 01 0
+6006 10 00 99 5
+6006 21 00 01 0
+6006 21 00 99 5
+6006 22 00 01 0
+6006 22 00 99 5
+6006 23 00 01 0
+6006 23 00 99 5
+6006 24 00 01 0
+6006 24 00 99 5
+6006 31 10 01 0
+6006 31 10 99 5
+6006 31 90 01 0
+6006 31 90 99 5
+6006 32 10 01 0
+6006 32 10 99 5
+6006 32 90 01 0
+
+Vámtarifaszám
+Vámtétel
+%
+6006 32 90 99 5
+6006 33 10 01 0
+6006 33 10 99 5
+6006 33 90 01 0
+6006 33 90 99 5
+6006 34 10 01 0
+6006 34 10 99 5
+6006 34 90 01 0
+6006 34 90 99 5
+6006 41 00 01 0
+6006 41 00 99 5
+6006 42 00 01 0
+6006 42 00 99 5
+6006 43 00 01 0
+6006 43 00 99 5
+6006 44 00 01 0
+6006 44 00 99 5
+6006 90 00 01 0
+6006 90 00 99 5
+6101 10 10 00 0
+6101 10 90 00 0
+6101 20 10 00 0
+6101 20 90 00 0
+6101 30 10 00 0
+6101 30 90 00 0
+6101 90 10 00 0
+6101 90 90 00 0
+6102 10 10 00 0
+6102 10 90 00 0
+6102 20 10 00 0
+6102 20 90 00 0
+6102 30 10 00 0
+6102 30 90 00 0
+6102 90 10 00 0
+6102 90 90 00 0
+6103 11 00 00 0
+6103 12 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+6103 19 00 00 0
+6103 21 00 00 0
+6103 22 00 00 11
+6103 23 00 00 11
+6103 29 00 00 11
+6103 31 00 00 0
+6103 32 00 00 0
+6103 33 00 00 0
+6103 39 00 00 0
+6103 41 10 00 0
+6103 41 90 00 0
+6103 42 10 00 0
+6103 42 90 00 0
+6103 43 10 00 0
+6103 43 90 00 0
+6103 49 10 00 0
+6103 49 91 00 0
+6103 49 99 00 0
+6104 11 00 00 0
+6104 12 00 00 0
+6104 13 00 00 0
+6104 19 00 00 11
+6104 21 00 00 0
+6104 22 00 00 0
+6104 23 00 00 0
+6104 29 00 00 11
+6104 31 00 00 0
+6104 32 00 00 0
+6104 33 00 00 0
+6104 39 00 00 0
+6104 41 00 00 0
+6104 42 00 00 0
+6104 43 00 00 0
+6104 44 00 00 0
+6104 49 00 00 11
+6104 51 00 00 0
+6104 52 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+6104 53 00 00 0
+6104 59 00 00 0
+6104 61 10 00 0
+6104 61 90 00 0
+6104 62 10 00 0
+6104 62 90 00 0
+6104 63 10 00 0
+6104 63 90 00 0
+6104 69 10 00 0
+6104 69 91 00 0
+6104 69 99 00 0
+6105 10 00 00 11
+6105 20 10 00 11
+6105 20 90 00 11
+6105 90 10 00 11
+6105 90 90 00 11
+6106 10 00 00 11
+6106 20 00 00 11
+6106 90 10 00 11
+6106 90 30 00 11
+6106 90 50 00 11
+6106 90 90 00 11
+6107 11 00 00 11
+6107 12 00 00 11
+6107 19 00 00 11
+6107 21 00 00 11
+6107 22 00 00 11
+6107 29 00 00 11
+6107 91 10 00 11
+6107 91 90 00 11
+6107 92 00 00 11
+6107 99 00 00 11
+6108 11 00 00 11
+6108 19 00 00 11
+6108 21 00 00 11
+6108 22 00 00 11
+6108 29 00 00 11
+Vámtarifaszám
+Vámtétel
+%
+6108 31 10 00 11
+6108 31 90 00 11
+6108 32 11 00 11
+6108 32 19 00 11
+6108 32 90 00 11
+6108 39 00 00 11
+6108 91 10 00 11
+6108 91 90 00 11
+6108 92 00 00 11
+6108 99 10 00 11
+6108 99 90 00 11
+6109 10 00 00 11
+6109 90 10 00 11
+6109 90 30 00 11
+6109 90 90 00 11
+6110 11 10 00 0
+6110 11 30 00 0
+6110 11 90 00 0
+6110 12 10 00 0
+6110 12 90 00 0
+6110 19 10 00 0
+6110 19 90 00 0
+6110 20 10 00 0
+6110 20 91 00 0
+6110 20 99 00 0
+6110 30 10 00 0
+6110 30 91 00 0
+6110 30 99 00 0
+6110 90 10 00 0
+6110 90 90 00 0
+6111 10 10 00 5
+6111 10 90 01 0
+6111 10 90 99 0
+6111 20 10 00 6,5
+6111 20 90 01 0
+6111 20 90 99 0
+6111 30 10 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+6111 30 90 01 5
+6111 30 90 99 11
+6111 90 00 01 5
+6111 90 00 02 0
+6111 90 00 99 0
+6112 11 00 00 0
+6112 12 00 00 0
+6112 19 00 00 0
+6112 20 00 00 0
+6112 31 10 01 5
+6112 31 10 99 0
+6112 31 90 01 5
+6112 31 90 99 0
+6112 39 10 01 5
+6112 39 10 99 0
+6112 39 90 01 5
+6112 39 90 99 0
+6112 41 10 01 5
+6112 41 10 99 0
+6112 41 90 01 5
+6112 41 90 99 0
+6112 49 10 01 5
+6112 49 10 99 0
+6112 49 90 01 5
+6112 49 90 99 0
+6113 00 10 01 0
+6113 00 10 99 0
+6113 00 90 01 0
+6113 00 90 99 0
+6114 10 00 00 0
+6114 20 00 00 0
+6114 30 00 00 0
+6114 90 00 00 11
+6115 11 00 01 5
+6115 11 00 99 1
+6115 12 00 01 5
+6115 12 00 99 1
+Vámtarifaszám
+Vámtétel
+%
+6115 19 00 01 5
+6115 19 00 99 1
+6115 20 11 00 5
+6115 20 19 00 5
+6115 20 90 00 5
+6115 91 00 01 1
+6115 91 00 99 5
+6115 92 00 01 1
+6115 92 00 99 5
+6115 93 10 00 1
+6115 93 30 01 1
+6115 93 30 99 5
+6115 93 91 00 5
+6115 93 99 01 1
+6115 93 99 99 5
+6115 99 00 01 1
+6115 99 00 99 5
+6116 10 20 00 5
+6116 10 80 00 0
+6116 91 00 00 5
+6116 92 00 00 5
+6116 93 00 00 5
+6116 99 00 00 5
+6117 10 00 00 0
+6117 20 00 00 0
+6117 80 10 01 0
+6117 80 90 01 0
+6117 90 00 01 5
+6117 90 00 02 0
+6117 90 00 03 0
+6201 11 00 01 5
+6201 11 00 99 5
+6201 12 10 01 5
+6201 12 10 99 5
+6201 12 90 01 5
+6201 12 90 99 5
+6201 13 10 00 5
+Vámtarifaszám
+Vámtétel
+%
+6201 13 90 00 5
+6201 19 00 00 10
+6201 91 00 00 10
+6201 92 00 00 10
+6201 93 00 00 10
+6201 99 00 00 10
+6202 11 00 00 5
+6202 12 10 00 8
+6202 12 90 00 8
+6202 13 10 00 5
+6202 13 90 00 5
+6202 19 00 00 8
+6202 91 00 00 5
+6202 92 00 00 5
+6202 93 00 00 5
+6202 99 00 00 5
+6203 11 00 00 5
+6203 12 00 00 5
+6203 19 10 00 10
+6203 19 30 00 10
+6203 19 90 00 10
+6203 21 00 00 5
+6203 22 10 00 10
+6203 22 80 00 10
+6203 23 10 00 5
+6203 23 80 00 5
+6203 29 11 00 10
+6203 29 18 00 10
+6203 29 90 00 10
+6203 31 00 00 5
+6203 32 10 00 10
+6203 32 90 00 10
+6203 33 10 00 5
+6203 33 90 00 5
+6203 39 11 00 10
+6203 39 19 00 10
+6203 39 90 00 10
+Vámtarifaszám
+Vámtétel
+%
+6203 41 10 00 10
+6203 41 30 00 5
+6203 41 90 00 10
+6203 42 11 00 5
+6203 42 31 00 5
+6203 42 33 00 5
+6203 42 35 00 5
+6203 42 51 00 5
+6203 42 59 00 5
+6203 42 90 00 4
+6203 43 11 00 5
+6203 43 19 00 5
+6203 43 31 00 5
+6203 43 39 00 5
+6203 43 90 00 5
+6203 49 11 00 5
+6203 49 19 00 5
+6203 49 31 00 5
+6203 49 39 00 5
+6203 49 50 00 5
+6203 49 90 00 5
+6204 11 00 00 9,8
+6204 12 00 00 10
+6204 13 00 00 9,4
+6204 19 10 00 9,4
+6204 19 90 01 8
+6204 19 90 99 10
+6204 21 00 00 9,8
+6204 22 10 00 10
+6204 22 80 00 10
+6204 23 10 00 9,4
+6204 23 80 00 9,4
+6204 29 11 00 9,4
+6204 29 18 00 9,4
+6204 29 90 01 8
+6204 29 90 99 10
+6204 31 00 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+6204 32 10 00 5
+6204 32 90 00 5
+6204 33 10 00 5
+6204 33 90 00 5
+6204 39 11 00 5
+6204 39 19 00 5
+6204 39 90 00 5
+6204 41 00 00 9,8
+6204 42 00 00 10
+6204 43 00 00 9,4
+6204 44 00 00 9,4
+6204 49 10 01 8
+6204 49 10 02 10
+6204 49 90 00 10
+6204 51 00 00 10
+6204 52 00 00 10
+6204 53 00 00 9,4
+6204 59 10 00 9,4
+6204 59 90 00 10
+6204 61 10 00 10
+6204 61 80 00 9,8
+6204 61 90 00 10
+6204 62 11 00 10
+6204 62 31 00 10
+6204 62 33 00 10
+6204 62 39 00 10
+6204 62 51 00 10
+6204 62 59 00 10
+6204 62 90 00 10
+6204 63 11 00 9,4
+6204 63 18 00 9,4
+6204 63 31 00 9,4
+6204 63 39 00 9,4
+6204 63 90 00 9,4
+6204 69 11 00 9,4
+6204 69 18 00 9,4
+6204 69 31 00 9,4
+Vámtarifaszám
+Vámtétel
+%
+6204 69 39 00 9,4
+6204 69 50 00 9,4
+6204 69 90 00 10
+6205 10 00 00 10
+6205 20 00 00 10
+6205 30 00 00 9,4
+6205 90 10 00 10
+6205 90 90 00 10
+6206 10 00 00 8
+6206 20 00 00 8
+6206 30 00 00 10
+6206 40 00 00 9,4
+6206 90 10 00 10
+6206 90 90 00 10
+6207 11 00 00 5
+6207 19 00 01 5
+6207 19 00 99 10
+6207 21 00 00 5
+6207 22 00 00 5
+6207 29 00 00 10
+6207 91 10 00 5
+6207 91 90 01 5
+6207 91 90 99 5
+6207 92 00 00 5
+6207 99 00 01 5
+6207 99 00 99 10
+6208 11 00 00 5
+6208 19 10 00 5
+6208 19 90 01 5
+6208 19 90 99 5
+6208 21 00 00 5
+6208 22 00 00 5
+6208 29 00 01 5
+6208 29 00 99 5
+6208 91 11 01 10
+6208 91 11 99 5
+6208 91 19 01 10
+Vámtarifaszám
+Vámtétel
+%
+6208 91 19 99 5
+6208 91 90 00 5
+6208 92 00 00 9,4
+6208 99 00 01 10
+6208 99 00 99 5
+6209 10 00 01 7
+6209 10 00 99 5
+6209 20 00 01 7
+6209 20 00 99 5
+6209 30 00 01 7
+6209 30 00 99 5
+6209 90 00 01 7
+6209 90 00 99 5
+6210 10 10 01 10
+6210 10 10 02 10
+6210 10 10 03 5
+6210 10 91 01 10
+6210 10 91 02 10
+6210 10 91 03 5
+6210 10 99 01 10
+6210 10 99 02 10
+6210 10 99 03 5
+6210 20 00 00 5
+6210 30 00 00 8
+6210 40 00 00 10
+6210 50 00 00 5
+6211 11 00 00 5
+6211 12 00 00 5
+6211 20 00 00 5
+6211 31 00 01 5
+6211 31 00 99 10
+6211 32 10 00 10
+6211 32 31 00 10
+6211 32 41 00 10
+6211 32 42 00 10
+6211 32 90 00 10
+6211 33 10 00 5
+Vámtarifaszám
+Vámtétel
+%
+6211 33 31 00 5
+6211 33 41 00 5
+6211 33 42 00 5
+6211 33 90 00 5
+6211 39 00 00 10
+6211 41 00 00 7,8
+6211 42 10 00 7,8
+6211 42 31 00 7,8
+6211 42 41 00 7,8
+6211 42 42 00 7,8
+6211 42 90 00 7,8
+6211 43 10 00 9,4
+6211 43 31 00 9,4
+6211 43 41 00 9,4
+6211 43 42 00 9,4
+6211 43 90 00 9,4
+6211 49 00 01 8
+6211 49 00 99 7,8
+6212 10 10 00 0
+6212 10 90 00 0
+6212 20 00 00 0
+6212 30 00 00 0
+6212 90 00 00 0
+6213 10 00 00 5
+6213 20 00 00 5
+6213 90 00 00 5
+6214 10 00 00 5
+6214 20 00 00 5
+6214 30 00 00 5
+6214 40 00 00 5
+6214 90 10 00 5
+6214 90 90 00 5
+6215 10 00 00 6,5
+6215 20 00 00 9,4
+6215 90 00 00 6,5
+6216 00 00 00 7
+6217 10 00 00 7
+
+Vámtarifaszám
+Vámtétel
+%
+6217 90 00 00 6
+6301 10 00 99 6,5
+6301 20 91 00 6,5
+6301 20 99 00 6,5
+6301 30 90 00 6,5
+6301 40 90 01 6,5
+6301 40 90 02 5
+6301 90 90 01 6,5
+6301 90 90 02 5
+6302 21 00 00 5
+6302 22 10 00 5
+6302 22 90 00 5
+6302 29 10 00 5
+6302 29 90 00 5
+6302 31 10 01 5
+6302 31 10 99 5
+6302 31 90 01 5
+6302 31 90 99 5
+6302 32 10 00 5
+6302 32 90 00 5
+6302 39 10 01 5
+6302 39 10 99 5
+6302 39 30 00 5
+6302 39 90 01 5
+6302 39 90 99 5
+6302 51 10 01 5
+6302 51 10 99 5
+6302 51 90 01 5
+6302 51 90 99 5
+6302 52 00 01 5
+6302 52 00 99 5
+6302 53 10 00 5
+6302 53 90 00 5
+6302 59 00 01 5
+6302 59 00 99 5
+6302 60 00 00 0
+6302 91 10 99 5
+Vámtarifaszám
+Vámtétel
+%
+6302 91 90 99 5
+6302 92 00 99 5
+6302 93 10 00 0
+6302 93 90 99 0
+6302 99 00 99 0
+6303 91 00 00 5
+6303 92 10 00 5
+6303 92 90 00 5
+6303 99 10 00 5
+6303 99 90 00 5
+6304 19 10 01 5
+6304 19 10 99 5
+6304 19 30 01 5
+6304 19 30 99 5
+6304 19 90 01 5
+6304 19 90 99 5
+6304 92 00 01 4
+6304 92 00 99 5
+6304 93 00 00 5
+6304 99 00 00 5
+6305 10 10 01 0
+6305 10 10 99 0
+6305 10 90 99 0
+6305 20 00 99 0
+6305 32 81 00 0
+6305 32 89 00 0
+6305 32 90 00 0
+6305 33 91 00 0
+6305 33 99 00 0
+6305 39 00 02 5
+6305 39 00 99 0
+6305 90 00 99 0
+6306 11 00 00 6,5
+6306 12 00 00 6,5
+6306 19 00 00 6,5
+6306 21 00 00 6,5
+6306 22 00 00 6,5
+Vámtarifaszám
+Vámtétel
+%
+6306 29 00 00 6,5
+6306 31 00 00 6,5
+6306 39 00 00 6,5
+6306 41 00 00 6,5
+6306 49 00 01 5
+6306 49 00 99 6,5
+6306 91 00 00 6,5
+6306 99 00 01 5
+6306 99 00 99 6,5
+6307 10 30 00 5
+6307 10 90 01 4
+6307 10 90 99 6
+6307 20 00 01 0
+6307 20 00 99 6
+6307 90 10 01 0
+6307 90 10 99 5
+6307 90 91 00 4
+6307 90 99 01 6,5
+6307 90 99 02 5
+6307 90 99 99 6
+6308 00 00 00 6
+6401 10 10 00 0
+6401 10 90 00 0
+6401 91 00 00 0
+6401 92 10 00 0
+6401 92 90 00 0
+6401 99 00 00 0
+6402 12 10 00 0
+6402 12 90 00 0
+6402 19 00 00 0
+6402 20 00 00 0
+6402 30 00 00 0
+6402 91 00 01 0
+6402 91 00 99 0
+6402 99 10 01 0
+6402 99 10 99 0
+6402 99 31 00 0
+Vámtarifaszám
+Vámtétel
+%
+6402 99 39 00 0
+6402 99 50 00 0
+6402 99 91 01 0
+6402 99 91 99 0
+6402 99 93 01 0
+6402 99 93 99 0
+6402 99 96 01 0
+6402 99 96 99 0
+6402 99 98 01 0
+6402 99 98 99 0
+6403 12 00 00 0
+6403 19 00 00 0
+6403 20 00 01 10
+6403 20 00 99 0
+6403 30 00 00 0
+6403 40 00 00 0
+6403 51 11 00 0
+6403 51 15 00 0
+6403 51 19 00 0
+6403 51 91 00 0
+6403 51 95 00 0
+6403 51 99 00 0
+6403 59 11 01 10
+6403 59 11 99 0
+6403 59 31 00 0
+6403 59 35 00 0
+6403 59 39 01 10
+6403 59 39 99 0
+6403 59 50 00 0
+6403 59 91 00 0
+6403 59 95 00 0
+6403 59 99 01 10
+6403 59 99 99 0
+6403 91 11 00 0
+6403 91 13 00 0
+6403 91 16 00 0
+6403 91 18 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+6403 91 91 00 0
+6403 91 93 00 0
+6403 91 96 00 0
+6403 91 98 00 0
+6403 99 11 01 10
+6403 99 11 99 6,9
+6403 99 31 00 6,9
+6403 99 33 00 6,9
+6403 99 36 00 6,9
+6403 99 38 01 10
+6403 99 38 99 6,9
+6403 99 50 00 6,9
+6403 99 91 00 6,9
+6403 99 93 00 6,9
+6403 99 96 00 6,9
+6403 99 98 01 10
+6403 99 98 99 6,9
+6404 11 00 00 6,9
+6404 19 10 00 0
+6404 19 90 00 0
+6404 20 10 00 0
+6404 20 90 00 0
+6405 10 00 01 0
+6405 20 10 00 0
+6405 90 10 00 0
+6405 90 90 01 0
+6405 90 90 99 0
+6406 10 11 00 0
+6406 10 19 00 0
+6406 10 90 01 5
+6406 10 90 99 0
+6406 20 10 00 0
+6406 20 90 00 0
+6406 91 00 00 0
+6406 99 10 00 6,5
+6406 99 30 01 5
+6406 99 30 02 0
+Vámtarifaszám
+Vámtétel
+%
+6406 99 50 01 5
+6406 99 50 02 0
+6406 99 60 00 6,5
+6406 99 80 00 0
+6501 00 00 00 6,5
+6502 00 00 01 4
+6502 00 00 02 6
+6502 00 00 99 5
+6503 00 10 00 6,5
+6503 00 90 00 6,5
+6504 00 00 00 6
+6505 10 00 99 6,5
+6505 90 10 00 6,5
+6505 90 30 00 6,5
+6505 90 90 00 6,5
+6506 10 10 00 6,5
+6506 10 80 00 6,5
+6506 91 00 00 6,5
+6506 92 00 00 6,5
+6506 99 00 00 6,5
+6507 00 00 00 5
+6601 10 00 00 6,5
+6601 91 00 00 6,5
+6601 99 11 00 6,5
+6601 99 19 00 6,5
+6601 99 90 00 6,5
+6602 00 00 00 6,5
+6603 10 00 00 6,5
+6603 20 00 00 6,5
+6603 90 00 00 6,5
+6703 00 00 01 0
+6801 00 00 00 0
+6804 10 00 00 0
+6804 21 00 00 0
+6804 22 12 00 0
+6804 22 18 00 0
+6804 22 30 00 0
+Vámtarifaszám
+Vámtétel
+%
+6804 22 50 00 0
+6804 22 90 00 0
+6804 23 00 00 0
+6805 10 00 00 4
+6805 20 00 00 4
+6805 30 10 00 4
+6805 30 20 00 4
+6805 30 80 00 4
+6811 10 00 00 0
+6811 20 11 00 0
+6811 20 80 00 0
+6811 30 00 00 0
+6811 90 00 00 0
+6812 90 30 02 0
+6814 10 00 01 3
+6814 10 00 02 5
+6814 10 00 99 4
+6814 90 00 01 4
+6814 90 00 02 3
+6814 90 00 99 5
+6904 10 00 00 0
+6904 90 00 00 0
+6905 10 00 01 0
+6905 10 00 99 0
+6905 90 00 00 0
+6907 10 00 00 0
+6907 90 10 00 0
+6907 90 91 00 0
+6907 90 93 00 0
+6907 90 99 00 0
+6908 10 10 01 0
+6908 10 10 99 0
+6908 10 90 01 0
+6908 10 90 99 0
+6908 90 11 01 0
+6908 90 11 99 0
+6908 90 21 01 0
+Vámtarifaszám
+Vámtétel
+%
+6908 90 21 99 0
+6908 90 29 01 0
+6908 90 29 99 0
+6908 90 31 01 0
+6908 90 31 99 0
+6908 90 51 01 0
+6908 90 51 99 0
+6908 90 91 01 0
+6908 90 91 99 0
+6908 90 93 01 0
+6908 90 93 99 0
+6908 90 99 01 0
+6908 90 99 99 0
+6910 10 00 00 5
+6910 90 00 00 4
+6911 10 00 00 0
+6911 90 00 00 0
+6912 00 10 00 0
+6912 00 30 00 0
+6912 00 50 00 0
+6912 00 90 00 0
+6913 10 00 00 0
+6913 90 10 00 0
+6913 90 91 00 0
+6913 90 93 00 0
+6913 90 99 00 0
+7001 00 10 00 0
+7001 00 99 01 0
+7004 20 99 99 0
+7004 90 70 99 0
+7004 90 92 99 0
+7004 90 98 99 0
+7010 20 00 01 0
+7010 90 10 01 0
+7010 90 21 01 0
+7010 90 31 01 0
+7010 90 41 01 0
+
+Vámtarifaszám
+Vámtétel
+%
+7010 90 43 01 0
+7010 90 45 01 0
+7010 90 47 02 0
+7010 90 51 01 0
+7010 90 53 01 0
+7010 90 55 01 0
+7010 90 57 02 0
+7010 90 61 01 0
+7010 90 67 02 0
+7010 90 71 02 0
+7010 90 79 02 0
+7010 90 91 02 0
+7010 90 99 02 0
+7011 90 00 01 0
+7013 10 00 00 0
+7013 21 11 00 0
+7013 21 19 00 0
+7013 21 91 00 0
+7013 21 99 00 0
+7013 29 10 00 0
+7013 29 51 01 0
+7013 29 51 99 0
+7013 29 59 01 0
+7013 29 59 99 0
+7013 29 91 01 0
+7013 29 91 99 0
+7013 29 99 01 0
+7013 29 99 99 0
+7013 31 10 00 0
+7013 31 90 00 0
+7013 32 00 01 0
+7013 32 00 02 0
+7013 32 00 99 0
+7013 39 10 00 0
+7013 39 91 01 0
+7013 39 91 99 0
+7013 39 99 01 0
+Vámtarifaszám
+Vámtétel
+%
+7013 39 99 99 0
+7013 91 10 00 0
+7013 91 90 00 0
+7013 99 00 01 0
+7013 99 00 02 0
+7013 99 00 99 0
+7101 10 00 99 0
+7101 21 00 99 0
+7101 22 00 99 0
+7102 10 00 00 0
+7102 21 00 00 0
+7102 29 00 01 0
+7102 29 00 99 5
+7102 31 00 00 0
+7102 39 00 01 0
+7102 39 00 99 5
+7103 10 00 00 0
+7103 91 00 01 0
+7103 91 00 99 5
+7103 99 00 01 0
+7103 99 00 99 5
+7104 10 00 00 0
+7104 20 00 00 0
+7104 90 00 01 0
+7104 90 00 99 5
+7105 10 00 00 0
+7105 90 00 00 3,5
+7106 10 00 00 0
+7106 91 10 00 0
+7106 91 90 00 0
+7106 92 20 01 0
+7106 92 80 01 0
+7108 11 00 00 0
+7108 12 00 00 0
+7110 11 00 00 0
+7110 19 10 01 0
+7110 19 80 01 0
+Vámtarifaszám
+Vámtétel
+%
+7110 21 00 00 0
+7110 29 00 01 0
+7110 31 00 00 0
+7110 39 00 01 0
+7110 41 00 00 0
+7110 49 00 01 0
+7111 00 00 00 0
+7112 30 00 00 0
+7112 91 00 00 0
+7112 92 00 00 0
+7112 99 00 02 5
+7112 99 00 04 3,5
+7112 99 00 99 0
+7113 11 00 00 6,5
+7113 19 00 01 6,5
+7113 19 00 02 6,5
+7113 19 00 99 6,5
+7113 20 00 00 6,5
+7117 11 00 00 3
+7201 10 11 00 0
+7201 10 19 00 0
+7201 10 30 00 0
+7201 10 90 00 0
+7201 20 00 00 0
+7201 50 10 00 0
+7201 50 90 00 0
+7202 11 20 00 0
+7202 11 80 00 0
+7202 19 00 00 0
+7202 41 10 00 0
+7202 41 90 00 0
+7202 49 10 00 0
+7202 49 50 00 0
+7202 49 90 00 0
+7202 91 00 00 0
+7202 99 10 00 5
+7204 10 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+7204 21 10 00 0
+7204 21 90 00 0
+7204 29 00 00 0
+7204 30 00 00 0
+7204 41 10 00 0
+7204 41 91 00 0
+7204 41 99 00 0
+7204 49 10 00 0
+7204 49 30 00 0
+7204 49 90 00 0
+7205 21 00 00 0
+7205 29 00 00 0
+7206 10 00 99 0
+7206 90 00 99 0
+7207 11 11 00 0
+7207 11 14 00 0
+7207 11 16 00 0
+7207 11 90 00 0
+7207 12 10 00 0
+7207 12 90 00 0
+7207 19 12 00 0
+7207 19 19 00 0
+7207 19 80 00 0
+7207 20 15 00 0
+7207 20 17 00 0
+7207 20 19 00 0
+7207 20 32 99 0
+7207 20 39 00 0
+7207 20 80 99 0
+7210 11 00 99 0
+7210 12 20 99 0
+7210 12 80 99 0
+7211 13 00 02 0
+7211 14 00 02 0
+7211 19 00 02 0
+7212 10 10 01 0
+7212 10 90 01 0
+
+Vámtarifaszám
+Vámtétel
+%
+7213 10 00 01 0
+7213 91 10 01 0
+7213 91 20 01 0
+7213 91 41 01 0
+7213 91 49 01 0
+7213 91 70 01 0
+7213 91 90 01 0
+7213 99 10 01 0
+7213 99 90 01 0
+7214 20 00 00 0
+7214 91 10 00 0
+7214 91 90 00 0
+7214 99 10 00 0
+7214 99 31 00 0
+7214 99 39 00 0
+7214 99 50 00 0
+7214 99 71 00 0
+7214 99 79 00 0
+7215 10 00 99 0
+7215 50 11 00 0
+7215 50 19 00 0
+7215 50 80 00 0
+7215 90 00 00 0
+7216 10 00 00 0
+7216 21 00 00 0
+7216 22 00 00 0
+7216 31 10 00 0
+7216 31 90 00 0
+7216 32 11 00 0
+7216 32 19 00 0
+7216 32 91 00 0
+7216 32 99 00 0
+7216 33 10 00 0
+7216 33 90 00 0
+7216 40 10 00 0
+7216 40 90 00 0
+7216 50 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+7216 50 91 00 0
+7216 50 99 00 0
+7224 90 03 99 0
+7224 90 05 99 0
+7224 90 07 99 0
+7224 90 14 99 0
+7224 90 18 99 0
+7224 90 31 99 0
+7224 90 38 99 0
+7224 90 90 99 0
+7228 80 00 00 0
+7301 10 00 00 0
+7301 20 00 00 6
+7302 10 10 00 0
+7302 10 21 00 0
+7302 10 23 00 0
+7302 10 29 00 0
+7302 10 40 00 0
+7302 10 50 00 0
+7302 10 90 00 0
+7302 30 00 00 0
+7302 40 00 00 0
+7302 90 00 00 0
+7304 10 10 00 0
+7304 10 30 00 0
+7304 10 90 00 0
+7304 29 11 00 0
+7304 29 19 00 0
+7304 31 10 99 0
+7304 31 91 99 0
+7304 31 99 99 0
+7304 39 10 99 0
+7304 39 20 99 0
+7304 39 30 99 0
+7304 39 51 99 0
+7304 39 59 99 0
+7304 39 91 99 0
+Vámtarifaszám
+Vámtétel
+%
+7304 39 93 99 0
+7304 39 99 99 0
+7304 41 10 99 0
+7304 41 90 99 0
+7304 49 10 99 0
+7304 49 30 99 0
+7304 49 91 99 0
+7304 49 99 99 0
+7304 51 12 99 0
+7304 51 18 99 0
+7304 51 30 99 0
+7304 51 91 99 0
+7304 51 99 99 0
+7304 59 10 99 0
+7304 59 32 99 0
+7304 59 38 99 0
+7304 59 50 99 0
+7304 59 91 99 0
+7304 59 93 99 0
+7304 59 99 99 0
+7304 90 10 99 0
+7304 90 90 99 0
+7306 30 10 99 0
+7306 30 51 99 0
+7306 30 59 99 0
+7306 30 71 99 0
+7306 30 78 99 0
+7306 30 90 99 0
+7306 40 10 99 0
+7306 40 91 99 0
+7306 40 99 99 0
+7306 50 10 99 0
+7306 50 99 99 0
+7306 60 10 99 0
+7306 60 32 99 0
+7306 60 34 99 0
+7306 60 36 99 0
+Vámtarifaszám
+Vámtétel
+%
+7306 60 38 99 0
+7306 60 91 99 0
+7306 60 99 99 0
+7306 90 00 99 0
+7307 11 10 00 3,5
+7307 11 90 00 3,5
+7307 19 10 00 3,5
+7307 19 90 00 3,5
+7307 21 00 00 3,5
+7307 22 10 00 3,5
+7307 22 90 00 3,5
+7307 23 10 00 3,5
+7307 23 90 00 3,5
+7307 91 00 00 3,5
+7307 92 10 00 3,5
+7307 92 90 00 3,5
+7307 93 11 00 3,5
+7307 93 19 00 3,5
+7307 93 91 00 3,5
+7307 93 99 00 3,5
+7307 99 10 00 3,5
+7307 99 30 00 3,5
+7307 99 90 00 3,5
+7308 10 00 00 6
+7308 20 00 00 6
+7308 30 00 00 6
+7308 40 90 00 6
+7308 90 10 00 6
+7308 90 51 00 6
+7308 90 59 00 6
+7308 90 99 00 6
+7311 00 10 00 6
+7311 00 91 00 6
+7311 00 99 00 6
+7312 10 10 00 5
+7312 10 30 00 5
+7312 10 51 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+7312 10 59 00 5
+7312 10 71 00 5
+7312 10 75 00 5
+7312 10 79 00 5
+7312 10 82 00 5
+7312 10 84 00 5
+7312 10 86 00 5
+7312 10 88 00 5
+7312 10 99 00 5
+7312 90 10 00 5
+7312 90 90 00 5
+7314 12 00 00 3,5
+7314 13 00 00 3,5
+7314 14 00 00 3,5
+7314 19 00 00 3,5
+7314 20 10 00 3,5
+7314 20 90 00 3,5
+7314 31 00 00 3,5
+7314 39 00 00 3,5
+7314 41 10 00 3,5
+7314 41 90 00 3,5
+7314 42 10 00 3,5
+7314 42 90 00 3,5
+7314 49 00 00 3,5
+7315 11 10 00 5
+7315 11 90 00 5
+7315 12 00 00 5
+7315 19 00 00 5
+7315 20 00 00 5
+7315 81 00 00 5
+7315 82 10 00 5
+7315 82 90 00 5
+7315 89 00 00 5
+7315 90 00 00 5
+7317 00 10 00 5
+7317 00 20 00 5
+7317 00 40 00 5
+Vámtarifaszám
+Vámtétel
+%
+7317 00 61 00 5
+7317 00 69 00 5
+7317 00 90 01 6
+7317 00 90 99 5
+7318 11 00 00 6
+7318 12 10 00 6
+7318 12 90 00 6
+7318 13 00 00 6
+7318 14 10 00 6
+7318 14 91 00 6
+7318 14 99 00 6
+7318 15 10 00 6
+7318 15 20 00 6
+7318 15 30 00 6
+7318 15 41 00 6
+7318 15 49 00 6
+7318 15 51 00 6
+7318 15 59 00 6
+7318 15 61 00 6
+7318 15 69 00 6
+7318 15 70 00 6
+7318 15 81 00 6
+7318 15 89 00 6
+7318 15 90 00 6
+7318 16 10 00 6
+7318 16 30 00 6
+7318 16 50 00 6
+7318 16 91 00 6
+7318 16 99 00 6
+7318 19 00 00 6
+7318 21 00 00 6
+7318 22 00 00 6
+7318 23 00 00 6
+7318 24 00 00 6
+7318 29 00 00 6
+7321 82 10 00 5
+7321 82 90 00 5
+Vámtarifaszám
+Vámtétel
+%
+7323 91 00 00 5
+7323 92 00 00 5
+7323 93 10 00 5
+7323 93 90 00 5
+7323 94 10 00 5
+7323 94 90 00 5
+7323 99 10 00 5
+7323 99 91 00 5
+7323 99 99 00 5
+7324 10 10 00 5
+7324 10 90 00 5
+7324 21 00 00 5
+7324 29 00 00 5
+7324 90 10 99 5
+7324 90 90 99 5
+7325 10 50 00 5
+7325 10 92 00 5
+7325 10 99 00 5
+7325 91 00 01 5
+7325 91 00 99 5
+7325 99 10 01 5
+7325 99 10 99 5
+7325 99 90 00 5
+7326 11 00 00 5
+7326 19 10 00 5
+7326 19 90 00 5
+7326 20 10 00 5
+7326 20 30 00 5
+7326 20 50 00 5
+7326 20 90 00 5
+7326 90 10 00 5
+7326 90 30 00 5
+7326 90 40 00 5
+7326 90 50 00 5
+7326 90 60 00 5
+7326 90 70 00 5
+7326 90 91 00 5
+Vámtarifaszám
+Vámtétel
+%
+7326 90 93 00 5
+7326 90 95 00 5
+7326 90 98 00 5
+7401 10 00 00 0
+7401 20 00 00 0
+7402 00 00 00 0
+7403 11 00 00 0
+7403 12 00 00 0
+7403 13 00 00 0
+7403 19 00 00 0
+7403 21 00 00 0
+7403 22 00 00 0
+7403 23 00 00 0
+7403 29 00 00 0
+7404 00 10 00 0
+7404 00 91 00 0
+7404 00 99 00 0
+7405 00 00 01 5
+7405 00 00 99 0
+7415 10 00 00 3,5
+7415 21 00 00 3,5
+7415 29 00 00 3,5
+7415 33 00 00 3,5
+7415 39 00 00 3,5
+7501 10 00 00 0
+7501 20 00 00 0
+7502 10 00 00 0
+7502 20 00 00 0
+7503 00 10 00 0
+7503 00 90 00 0
+7504 00 00 00 0
+7505 11 00 00 0
+7505 12 00 00 0
+7505 21 00 00 0
+7505 22 00 00 0
+7506 10 00 00 0
+7506 20 00 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+7507 11 00 00 0
+7507 12 00 00 0
+7507 20 00 00 0
+7508 10 00 00 0
+7508 90 00 00 0
+7601 10 00 00 0
+7602 00 11 00 0
+7602 00 19 00 0
+7602 00 90 00 0
+7801 10 00 00 0
+7801 91 00 00 0
+7801 99 10 00 0
+7801 99 91 00 0
+7801 99 99 00 0
+7802 00 00 00 0
+7901 11 00 00 0
+7901 12 10 00 0
+7901 12 30 00 0
+7901 12 90 00 0
+7901 20 00 00 0
+7902 00 00 00 0
+8001 10 00 00 0
+8001 20 00 00 0
+8002 00 00 00 0
+8005 00 00 00 3
+8101 10 00 00 0
+8101 94 00 00 0
+8101 97 00 00 0
+8102 10 00 00 0
+8102 94 00 00 0
+8102 97 00 00 0
+8103 20 00 00 0
+8103 30 00 00 0
+8104 11 00 00 0
+8104 19 00 00 0
+8104 20 00 00 0
+8105 20 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+8105 30 00 00 0
+8106 00 10 00 0
+8107 20 00 00 0
+8107 30 00 00 0
+8108 20 00 00 0
+8108 30 00 00 0
+8108 90 10 00 0
+8108 90 30 00 0
+8108 90 50 00 0
+8108 90 70 00 0
+8108 90 90 00 0
+8109 20 00 00 0
+8109 30 00 00 0
+8110 10 00 00 0
+8110 20 00 00 0
+8111 00 11 00 0
+8111 00 19 00 0
+8112 12 00 00 0
+8112 13 00 00 0
+8112 21 10 00 0
+8112 21 90 00 0
+8112 22 00 00 0
+8112 30 20 00 0
+8112 30 40 00 0
+8112 30 90 00 0
+8112 40 10 00 0
+8112 51 00 00 0
+8112 52 00 00 0
+8112 59 00 00 0
+8112 92 10 00 0
+8112 92 31 00 0
+8112 92 39 00 0
+8112 92 50 00 0
+8112 92 81 00 0
+8112 92 89 00 0
+8112 99 10 01 0
+8112 99 30 01 0
+Vámtarifaszám
+Vámtétel
+%
+8112 99 80 01 0
+8113 00 20 00 0
+8113 00 40 00 0
+8113 00 90 01 0
+8201 10 00 00 8
+8201 20 00 00 8
+8201 30 00 00 8
+8201 40 00 00 8
+8201 50 00 00 8
+8201 60 00 00 8
+8201 90 00 00 8
+8202 10 00 00 10
+8202 20 00 00 5
+8202 31 00 00 5
+8202 39 00 00 5
+8202 40 00 00 5
+8202 91 00 00 5
+8202 99 11 00 5
+8202 99 19 00 5
+8202 99 90 00 5
+8203 10 00 00 0
+8203 20 10 00 0
+8203 20 90 00 0
+8203 30 00 00 0
+8203 40 00 00 0
+8204 11 00 00 0
+8204 12 00 00 0
+8205 10 00 00 0
+8205 20 00 00 0
+8205 30 00 00 0
+8205 40 00 00 0
+8205 51 00 00 0
+8205 59 10 00 0
+8205 59 30 00 0
+8205 59 90 00 0
+8205 60 00 00 0
+8205 70 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+8205 80 00 00 0
+8205 90 00 00 0
+8206 00 00 01 10
+8206 00 00 02 0
+8206 00 00 99 0
+8207 13 00 00 6
+8207 19 10 00 6
+8207 19 90 00 6
+8207 20 10 00 6
+8207 20 90 00 6
+8207 30 10 00 6
+8207 30 90 00 6
+8207 40 10 00 6
+8207 40 30 00 6
+8207 40 90 00 6
+8207 50 10 00 6
+8207 50 30 00 6
+8207 50 50 00 6
+8207 50 60 00 6
+8207 50 70 00 6
+8207 50 90 00 6
+8207 60 10 00 6
+8207 60 30 00 6
+8207 60 50 00 6
+8207 60 70 00 6
+8207 60 90 00 6
+8207 70 10 00 6
+8207 70 31 00 6
+8207 70 35 00 6
+8207 70 38 00 6
+8207 70 90 00 6
+8207 80 11 00 6
+8207 80 19 00 6
+8207 80 90 00 6
+8207 90 10 00 6
+8207 90 30 00 6
+8207 90 50 00 6
+
+Vámtarifaszám
+Vámtétel
+%
+8207 90 71 00 6
+8207 90 78 00 6
+8207 90 91 00 6
+8207 90 99 00 6
+8208 10 00 00 6
+8208 20 00 00 6
+8208 30 10 00 6
+8208 30 90 00 6
+8208 40 00 00 6
+8208 90 00 00 6
+8210 00 00 00 0
+8211 10 00 00 0
+8211 91 30 00 0
+8211 91 80 00 0
+8211 92 00 00 0
+8211 93 00 00 0
+8211 94 00 00 5
+8211 95 00 00 0
+8212 10 10 00 5
+8212 10 90 00 5
+8212 20 00 01 0
+8212 20 00 99 5
+8212 90 00 00 5
+8213 00 00 01 10,1
+8213 00 00 99 5
+8214 10 00 00 5
+8214 20 00 00 5
+8214 90 00 00 5
+8215 10 20 00 0
+8215 10 30 00 0
+8215 10 80 00 0
+8215 20 10 00 0
+8215 20 90 00 0
+8215 91 00 99 0
+8215 99 10 99 0
+8215 99 90 99 0
+8301 10 00 00 5
+Vámtarifaszám
+Vámtétel
+%
+8301 20 00 00 5
+8301 30 00 00 5
+8301 40 11 00 5
+8301 40 19 00 5
+8301 40 90 00 5
+8301 50 00 00 5
+8301 60 00 00 5
+8301 70 00 00 5
+8302 10 10 00 3
+8302 10 90 00 3
+8302 20 10 00 3
+8302 20 90 00 3
+8302 30 00 00 3
+8302 41 00 00 3
+8302 42 10 00 3
+8302 42 90 00 3
+8302 49 10 00 3
+8302 49 90 00 3
+8302 50 00 00 3
+8302 60 10 00 3
+8302 60 90 00 3
+8304 00 00 02 0
+8304 00 00 03 5
+8304 00 00 99 8
+8305 10 00 00 5
+8305 20 00 00 5
+8305 90 00 00 5
+8306 21 00 00 10
+8306 29 10 00 5
+8306 29 90 00 5
+8306 30 00 00 10
+8309 90 10 00 0
+8309 90 90 00 0
+8401 10 00 00 0
+8401 30 00 00 0
+8401 40 00 00 0
+8402 19 10 02 0
+Vámtarifaszám
+Vámtétel
+%
+8402 19 90 02 0
+8403 10 10 02 0
+8403 10 90 02 0
+8406 81 10 01 6
+8406 81 90 01 6
+8406 82 11 01 6
+8406 82 19 01 6
+8406 82 90 01 6
+8406 90 10 01 6
+8406 90 90 01 6
+8408 20 35 01 8
+8414 10 10 00 5
+8414 10 20 00 5
+8414 10 30 00 5
+8414 10 50 00 5
+8414 10 80 00 5
+8414 20 10 00 5
+8414 20 91 00 5
+8414 20 99 00 5
+8414 30 10 00 5
+8414 30 30 00 5
+8414 30 91 00 5
+8414 30 99 00 5
+8414 40 10 00 5
+8414 40 90 00 5
+8414 51 10 00 5
+8414 51 90 01 8
+8414 51 90 99 5
+8414 59 10 00 5
+8414 59 30 01 8
+8414 59 30 99 5
+8414 59 50 01 8
+8414 59 50 99 5
+8414 59 90 01 8
+8414 59 90 99 5
+8414 60 00 01 8
+8414 60 00 99 5
+Vámtarifaszám
+Vámtétel
+%
+8414 80 10 99 5
+8414 80 21 99 5
+8414 80 29 99 5
+8414 80 31 99 5
+8414 80 39 99 5
+8414 80 41 99 5
+8414 80 49 99 5
+8414 80 60 99 5
+8414 80 71 99 5
+8414 80 79 99 5
+8414 80 90 99 5
+8414 90 10 99 5
+8414 90 90 99 5
+8415 10 10 00 6,5
+8415 10 90 00 6,5
+8415 81 10 00 6,5
+8415 81 90 00 6,5
+8415 82 10 00 6,5
+8415 82 80 00 6,5
+8415 83 10 00 6,5
+8415 83 90 00 6,5
+8415 90 10 00 6,5
+8415 90 90 00 6,5
+8418 10 10 00 4
+8418 10 91 00 4
+8418 10 99 00 4
+8418 21 10 00 0
+8418 21 51 00 0
+8418 21 59 00 0
+8418 21 91 00 0
+8418 21 99 00 0
+8418 22 00 00 0
+8418 29 00 00 0
+8418 30 10 00 0
+8418 30 91 00 0
+8418 30 99 00 0
+8418 40 10 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+8418 40 91 00 0
+8418 40 99 00 0
+8418 50 11 00 4
+8418 50 19 00 4
+8418 50 91 00 4
+8418 50 99 00 4
+8418 61 10 00 4
+8418 61 90 00 4
+8418 69 10 00 4
+8418 69 91 00 4
+8418 69 99 00 4
+8418 91 00 01 0
+8418 91 00 99 4
+8418 99 10 00 0
+8418 99 90 01 0
+8418 99 90 99 4
+8424 81 10 00 3,5
+8424 81 30 00 3,5
+8424 81 91 00 3,5
+8424 81 99 00 3,5
+8424 89 20 00 3,5
+8424 89 30 00 3,5
+8424 89 95 00 3,5
+8424 90 10 00 3,5
+8424 90 30 00 3,5
+8424 90 90 01 3,5
+8427 10 10 00 5
+8427 10 90 00 5
+8443 51 00 00 3
+8444 00 10 00 6
+8444 00 90 00 6
+8445 11 00 01 5
+8445 11 00 99 6
+8445 12 00 01 5
+8445 12 00 99 6
+8445 13 00 01 5
+8445 13 00 99 6
+Vámtarifaszám
+Vámtétel
+%
+8445 19 00 01 5
+8445 19 00 99 6
+8445 20 00 01 5
+8445 20 00 99 6
+8445 30 10 01 5
+8445 30 10 99 6
+8445 30 90 01 5
+8445 30 90 99 6
+8445 40 00 01 5
+8445 40 00 99 6
+8445 90 00 00 5
+8446 10 00 00 5
+8446 21 00 00 5
+8446 29 00 00 5
+8446 30 00 00 5
+8447 11 10 00 5
+8447 11 90 00 5
+8447 12 10 00 5
+8447 12 90 00 5
+8447 20 20 00 5
+8447 20 80 00 5
+8447 90 00 00 5
+8448 11 00 00 5
+8448 19 00 00 5
+8448 20 00 00 5
+8448 31 00 00 5
+8448 32 00 00 5
+8448 33 10 00 5
+8448 33 90 00 5
+8448 39 00 00 5
+8448 41 00 00 5
+8448 42 00 00 5
+8448 49 00 00 5
+8448 51 10 00 5
+8448 51 90 00 5
+8448 59 00 00 5
+8449 00 00 01 6
+Vámtarifaszám
+Vámtétel
+%
+8452 10 11 00 5
+8452 10 19 00 5
+8452 10 90 00 5
+8452 30 10 00 5
+8452 30 90 00 5
+8454 10 00 00 5
+8454 20 00 00 5
+8454 30 10 00 5
+8454 30 90 00 5
+8454 90 00 00 5
+8456 10 10 02 5
+8456 10 90 02 5
+8456 20 00 01 5
+8456 30 11 01 5
+8456 30 19 01 5
+8456 30 90 01 5
+8456 99 80 01 5
+8456 99 80 02 5
+8457 10 10 01 5
+8457 10 10 99 5
+8457 10 90 01 5
+8457 10 90 99 5
+8457 20 00 00 5
+8457 30 10 01 5
+8457 30 10 99 5
+8457 30 90 01 5
+8457 30 90 99 5
+8458 11 20 00 5
+8458 11 41 01 5
+8458 11 41 99 5
+8458 11 49 01 5
+8458 11 49 99 5
+8458 11 80 01 5
+8458 11 80 99 5
+8458 19 20 01 5
+8458 19 20 99 5
+8458 19 40 01 5
+Vámtarifaszám
+Vámtétel
+%
+8458 19 40 99 5
+8458 19 80 00 5
+8458 91 20 00 5
+8458 91 80 00 5
+8458 99 00 00 5
+8459 10 00 00 5
+8459 21 00 00 5
+8459 29 00 00 5
+8459 31 00 00 5
+8459 39 00 01 5
+8459 39 00 99 5
+8459 40 10 00 5
+8459 40 90 00 5
+8459 51 00 00 5
+8459 59 00 01 5
+8459 59 00 99 5
+8459 61 10 00 5
+8459 61 90 01 5
+8459 61 90 99 5
+8459 69 10 00 5
+8459 69 90 01 5
+8459 69 90 99 5
+8459 70 00 00 5
+8460 11 00 00 5
+8460 19 00 01 5
+8460 19 00 99 5
+8460 21 11 00 5
+8460 21 15 00 5
+8460 21 19 00 5
+8460 21 90 00 5
+8460 29 11 01 5
+8460 29 11 99 5
+8460 29 19 01 5
+8460 29 19 99 5
+8460 29 90 01 5
+8460 29 90 99 5
+8460 31 00 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+8460 39 00 00 5
+8460 40 10 01 5
+8460 40 10 99 5
+8460 40 90 01 5
+8460 40 90 99 5
+8460 90 10 01 5
+8460 90 10 02 5
+8460 90 10 99 5
+8460 90 90 01 5
+8460 90 90 02 5
+8460 90 90 99 5
+8461 20 00 00 5
+8461 30 10 00 5
+8461 30 90 00 5
+8461 40 11 00 5
+8461 40 19 00 5
+8461 40 31 00 5
+8461 40 39 00 5
+8461 40 71 00 5
+8461 40 79 00 5
+8461 40 90 00 5
+8461 50 11 00 5
+8461 50 19 00 5
+8461 50 90 01 5
+8461 50 90 99 5
+8461 90 00 01 5
+8461 90 00 02 5
+8461 90 00 99 5
+8462 10 10 01 5
+8462 10 10 02 5
+8462 10 10 99 5
+8462 10 90 01 5
+8462 10 90 02 5
+8462 10 90 99 5
+8462 21 05 01 5
+8462 21 05 99 5
+8462 21 10 01 5
+Vámtarifaszám
+Vámtétel
+%
+8462 21 10 99 5
+8462 21 80 01 5
+8462 21 80 99 5
+8462 29 05 01 5
+8462 29 05 99 5
+8462 29 10 01 5
+8462 29 10 99 5
+8462 29 91 01 5
+8462 29 91 99 5
+8462 29 98 01 5
+8462 29 98 99 5
+8462 31 00 00 5
+8462 39 10 00 5
+8462 39 91 00 5
+8462 39 99 00 5
+8462 41 10 00 5
+8462 41 90 00 5
+8462 49 10 01 5
+8462 49 10 99 5
+8462 49 90 01 5
+8462 49 90 99 5
+8462 91 50 00 5
+8462 91 90 00 5
+8462 99 50 00 5
+8462 99 90 00 5
+8463 10 10 00 5
+8463 10 90 00 5
+8463 20 00 01 5
+8463 20 00 99 5
+8463 30 00 00 5
+8463 90 00 01 5
+8463 90 00 02 5
+8463 90 00 99 5
+8466 10 10 01 5
+8466 10 10 99 5
+8466 10 31 01 5
+8466 10 31 99 5
+Vámtarifaszám
+Vámtétel
+%
+8466 10 39 01 5
+8466 10 39 99 5
+8466 10 90 00 5
+8466 20 10 01 5
+8466 20 10 99 5
+8466 20 91 01 5
+8466 20 91 99 5
+8466 20 99 01 5
+8466 20 99 99 5
+8466 30 00 01 5
+8466 30 00 99 5
+8466 91 15 00 5
+8466 91 20 00 5
+8466 91 95 00 5
+8466 92 20 00 5
+8466 92 80 00 5
+8466 93 15 00 5
+8466 93 17 00 5
+8466 93 95 99 5
+8466 94 10 00 5
+8466 94 90 99 5
+8467 11 10 00 5
+8467 11 90 00 5
+8467 19 00 00 5
+8467 21 10 00 5
+8467 21 91 00 5
+8467 21 99 00 5
+8467 22 10 00 5
+8467 22 30 00 5
+8467 22 90 00 5
+8467 29 10 00 5
+8467 29 30 00 5
+8467 29 51 00 5
+8467 29 53 00 5
+8467 29 59 00 5
+8467 29 70 00 5
+8467 29 80 00 5
+Vámtarifaszám
+Vámtétel
+%
+8467 29 90 00 5
+8467 81 00 00 5
+8467 89 00 99 5
+8467 91 00 00 5
+8467 92 00 00 5
+8467 99 00 00 5
+8469 11 00 00 5
+8469 12 00 00 5
+8469 20 00 01 0
+8469 20 00 99 5
+8469 30 00 01 0
+8469 30 00 99 5
+8470 10 00 00 0
+8470 21 00 00 0
+8470 29 00 00 0
+8470 30 00 00 0
+8470 40 00 00 0
+8470 50 00 00 5
+8470 90 00 00 0
+8471 10 10 00 0
+8471 10 90 00 0
+8471 30 00 00 0
+8471 41 10 00 0
+8471 41 90 00 0
+8471 49 10 00 0
+8471 49 90 00 0
+8471 50 10 00 0
+8471 50 90 00 0
+8471 60 10 00 0
+8471 60 40 00 0
+8471 60 50 00 0
+8471 60 90 00 0
+8471 70 10 00 0
+8471 70 40 00 0
+8471 70 51 00 0
+8471 70 53 00 0
+8471 70 59 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+8471 70 60 00 0
+8471 70 90 00 0
+8471 80 00 00 0
+8471 90 00 00 0
+8472 10 00 00 0
+8472 20 00 00 0
+8472 30 00 00 0
+8472 90 10 00 0
+8472 90 30 00 0
+8472 90 80 99 0
+8475 10 00 01 0
+8475 21 00 00 5
+8475 29 00 01 0
+8475 29 00 99 5
+8475 90 00 00 5
+8479 89 98 02 5
+8480 30 10 00 0
+8480 30 90 02 5
+8480 30 90 03 15
+8481 10 05 00 6
+8481 10 19 00 6
+8481 10 99 00 6
+8481 20 10 00 5
+8481 20 90 00 5
+8481 30 91 00 5
+8481 30 99 00 5
+8481 40 10 00 5
+8481 40 90 00 5
+8481 80 11 00 5
+8481 80 19 00 5
+8481 80 31 00 5
+8481 80 39 00 5
+8481 80 40 00 5
+8481 80 51 00 5
+8481 80 59 00 5
+8481 80 61 00 5
+8481 80 63 00 5
+Vámtarifaszám
+Vámtétel
+%
+8481 80 69 00 5
+8481 80 71 00 5
+8481 80 73 00 5
+8481 80 79 00 5
+8481 80 81 00 5
+8481 80 85 00 5
+8481 80 87 00 5
+8481 80 99 00 5
+8481 90 00 00 5
+8484 10 10 00 5
+8484 10 90 00 5
+8484 20 00 00 5
+8484 90 10 00 5
+8484 90 90 00 5
+8501 10 10 99 5
+8501 10 91 99 5
+8501 10 93 99 5
+8501 10 99 99 5
+8501 20 10 00 5
+8501 20 90 00 5
+8501 31 10 00 5
+8501 31 90 00 5
+8501 32 10 00 5
+8501 32 91 00 5
+8501 32 99 00 5
+8501 33 10 00 5
+8501 33 90 00 5
+8501 34 10 00 5
+8501 34 50 00 5
+8501 34 91 00 5
+8501 34 99 00 5
+8501 40 10 00 5
+8501 40 91 00 5
+8501 40 99 00 5
+8501 51 10 00 5
+8501 51 90 00 5
+8501 52 10 00 5
+Vámtarifaszám
+Vámtétel
+%
+8501 52 91 00 5
+8501 52 93 00 5
+8501 52 99 00 5
+8501 53 10 00 5
+8501 53 50 00 5
+8501 53 92 00 5
+8501 53 94 00 5
+8501 53 99 00 5
+8501 61 10 00 5
+8501 61 91 00 5
+8501 61 99 00 5
+8501 62 10 00 5
+8501 62 90 00 5
+8501 63 10 00 5
+8501 63 90 00 5
+8501 64 00 00 5
+8502 11 10 00 5
+8502 11 91 00 5
+8502 11 99 00 5
+8502 12 10 00 5
+8502 12 90 00 5
+8502 13 10 00 5
+8502 13 91 00 5
+8502 13 93 00 5
+8502 13 98 00 5
+8502 20 10 00 5
+8502 20 91 00 5
+8502 20 92 00 5
+8502 20 94 00 5
+8502 20 98 00 5
+8502 31 10 00 5
+8502 31 90 00 5
+8502 39 10 00 5
+8502 39 91 00 5
+8502 39 99 00 5
+8502 40 10 00 5
+8502 40 90 00 5
+Vámtarifaszám
+Vámtétel
+%
+8503 00 10 99 5
+8503 00 91 99 5
+8503 00 99 99 5
+8504 10 10 00 5
+8504 10 91 00 5
+8504 10 99 00 5
+8504 21 00 00 5
+8504 22 10 00 5
+8504 22 90 00 5
+8504 23 00 00 5
+8504 31 10 00 5
+8504 31 31 00 5
+8504 31 39 01 5
+8504 31 39 99 5
+8504 31 90 01 5
+8504 31 90 99 5
+8504 32 10 00 5
+8504 32 30 00 5
+8504 32 90 00 5
+8504 33 10 00 5
+8504 33 90 00 5
+8504 34 00 00 5
+8504 40 10 00 5
+8504 40 20 00 5
+8504 40 50 00 5
+8504 40 93 00 5
+8504 40 94 00 5
+8504 40 96 00 5
+8504 40 97 00 5
+8504 40 99 00 5
+8504 50 10 00 5
+8504 50 30 00 5
+8504 50 80 00 5
+8504 90 05 99 5
+8504 90 11 99 5
+8504 90 18 99 5
+8504 90 91 99 5
+
+Vámtarifaszám
+Vámtétel
+%
+8504 90 99 99 5
+8505 11 00 00 5
+8505 19 10 00 5
+8505 19 90 00 5
+8505 20 00 00 5
+8505 30 00 00 5
+8505 90 10 01 5
+8505 90 10 99 5
+8505 90 30 00 5
+8505 90 90 00 5
+8506 10 11 00 5
+8506 10 15 00 5
+8506 10 19 00 5
+8506 10 91 00 5
+8506 10 95 00 5
+8506 10 99 00 5
+8506 30 10 00 5
+8506 30 30 00 5
+8506 30 90 00 5
+8506 40 10 00 5
+8506 40 30 00 5
+8506 40 90 00 5
+8506 50 10 00 5
+8506 50 30 00 5
+8506 50 90 00 5
+8506 60 10 00 5
+8506 60 30 00 5
+8506 60 90 00 5
+8506 80 05 00 5
+8506 80 11 00 5
+8506 80 15 00 5
+8506 80 90 00 5
+8506 90 00 00 5
+8507 10 10 00 5
+8507 10 31 00 5
+8507 10 39 00 5
+8507 10 81 00 5
+Vámtarifaszám
+Vámtétel
+%
+8507 10 89 00 5
+8507 20 10 00 5
+8507 20 31 00 5
+8507 20 39 00 5
+8507 20 81 00 5
+8507 20 89 00 5
+8507 30 10 00 5
+8507 30 91 00 5
+8507 30 93 00 5
+8507 30 98 00 5
+8507 40 10 00 5
+8507 40 90 00 5
+8507 80 10 00 5
+8507 80 94 00 5
+8507 80 98 00 5
+8507 90 10 00 5
+8507 90 91 00 5
+8507 90 93 00 5
+8507 90 98 00 5
+8509 10 10 00 8
+8509 10 90 00 8
+8509 20 00 00 8
+8509 30 00 00 8
+8509 40 00 00 8
+8509 80 00 00 8
+8509 90 10 00 8
+8509 90 90 00 8
+8510 30 00 00 8
+8510 90 00 01 3,5
+8510 90 00 02 5
+8515 80 19 01 4
+8516 10 11 00 5
+8516 10 19 00 5
+8516 10 91 00 5
+8516 10 99 00 5
+8516 21 00 00 5
+8516 29 10 00 5
+Vámtarifaszám
+Vámtétel
+%
+8516 29 50 00 5
+8516 29 91 00 5
+8516 29 99 00 5
+8516 31 10 00 5
+8516 31 90 00 5
+8516 32 00 00 5
+8516 33 00 00 5
+8516 40 10 00 5
+8516 40 90 00 5
+8516 50 00 00 5
+8516 60 10 00 5
+8516 60 51 00 5
+8516 60 59 00 5
+8516 60 70 00 5
+8516 60 80 00 5
+8516 60 90 00 5
+8516 71 00 00 5
+8516 72 00 00 5
+8516 79 20 00 5
+8516 79 70 00 5
+8516 80 10 00 5
+8516 80 91 00 5
+8516 80 99 00 5
+8516 90 00 00 5
+8517 19 10 01 0
+8517 19 10 02 3
+8519 10 00 00 5
+8519 21 00 00 5
+8519 29 00 00 5
+8519 31 00 00 5
+8519 39 00 00 5
+8519 40 00 00 5
+8519 92 00 00 5
+8519 93 31 00 5
+8519 93 39 00 5
+8519 93 81 00 5
+8519 93 89 00 5
+Vámtarifaszám
+Vámtétel
+%
+8519 99 12 00 5
+8519 99 18 00 5
+8519 99 90 00 5
+8520 10 00 00 5
+8520 20 00 00 5
+8520 32 11 00 5
+8520 32 19 00 5
+8520 32 30 00 5
+8520 32 50 00 5
+8520 32 91 00 5
+8520 32 99 00 5
+8520 33 11 00 5
+8520 33 19 00 5
+8520 33 30 00 5
+8520 33 90 00 5
+8520 39 10 00 5
+8520 39 90 00 5
+8520 90 10 00 5
+8520 90 90 00 5
+8521 10 10 00 8
+8521 10 30 00 8
+8521 10 80 00 8
+8521 90 00 00 5
+8523 11 00 00 0
+8523 12 00 00 0
+8523 13 00 00 0
+8523 20 10 00 0
+8523 20 90 00 0
+8523 30 00 00 0
+8523 90 00 00 0
+8524 10 00 00 0
+8524 31 00 00 0
+8524 32 10 00 0
+8524 32 90 00 0
+8524 39 10 00 0
+8524 39 20 00 0
+8524 39 80 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+8524 40 00 00 0
+8524 51 00 00 0
+8524 52 00 00 0
+8524 53 00 00 0
+8524 60 00 00 0
+8524 91 00 00 0
+8524 99 10 00 0
+8524 99 90 00 0
+8525 10 10 01 0
+8525 10 10 99 0
+8525 10 50 01 0
+8525 10 50 99 0
+8525 10 80 01 0
+8525 10 80 99 0
+8525 20 10 00 0
+8525 20 91 00 0
+8525 20 99 00 0
+8525 30 10 00 0
+8525 30 90 00 0
+8525 40 11 00 0
+8525 40 19 00 0
+8525 40 91 00 0
+8525 40 99 00 5
+8526 10 10 00 0
+8526 10 90 00 0
+8526 91 11 00 0
+8526 91 19 00 0
+8526 91 90 00 0
+8526 92 10 00 0
+8526 92 90 99 0
+8527 12 10 00 0
+8527 12 90 00 0
+8527 13 10 00 0
+8527 13 91 00 0
+8527 13 99 00 0
+8527 19 00 00 0
+8527 21 20 00 0
+Vámtarifaszám
+Vámtétel
+%
+8527 21 52 00 0
+8527 21 59 00 0
+8527 21 70 00 0
+8527 21 92 00 0
+8527 21 98 00 0
+8527 29 00 00 0
+8527 31 11 00 0
+8527 31 19 00 0
+8527 31 91 00 0
+8527 31 93 00 0
+8527 31 98 00 0
+8527 32 10 00 0
+8527 32 90 00 0
+8527 39 20 00 0
+8527 39 80 00 0
+8527 90 10 00 0
+8527 90 92 00 0
+8527 90 98 00 0
+8528 12 10 01 8
+8528 12 10 99 3
+8528 12 20 00 8
+8528 12 52 01 8
+8528 12 52 99 3
+8528 12 54 01 8
+8528 12 54 99 3
+8528 12 56 01 8
+8528 12 56 99 3
+8528 12 58 01 8
+8528 12 58 99 3
+8528 12 62 01 8
+8528 12 62 99 3
+8528 12 66 01 8
+8528 12 66 99 3
+8528 12 70 01 8
+8528 12 70 99 3
+8528 12 81 01 8
+8528 12 81 99 3
+Vámtarifaszám
+Vámtétel
+%
+8528 12 89 01 8
+8528 12 89 99 3
+8528 12 90 00 3
+8528 12 91 00 3
+8528 12 94 00 3
+8528 12 95 00 3
+8528 12 98 01 8
+8528 12 98 99 3
+8528 13 00 01 8
+8528 13 00 99 3
+8528 21 14 01 5
+8528 21 14 99 0
+8528 21 16 01 5
+8528 21 16 99 0
+8528 21 18 01 5
+8528 21 18 99 0
+8528 21 90 01 5
+8528 21 90 99 0
+8528 22 00 01 5
+8528 22 00 99 0
+8528 30 05 01 5
+8528 30 05 99 0
+8528 30 20 01 5
+8528 30 20 99 0
+8528 30 90 01 5
+8528 30 90 99 0
+8529 10 10 00 5,7
+8529 10 15 00 5,7
+8529 10 20 00 5,7
+8529 10 31 00 5,7
+8529 10 39 00 5,7
+8529 10 40 00 5,7
+8529 10 45 00 5,7
+8529 10 70 00 5,7
+8529 10 90 00 5,7
+8529 90 10 00 5,7
+8529 90 40 00 5,7
+Vámtarifaszám
+Vámtétel
+%
+8529 90 51 00 5,7
+8529 90 59 00 5,7
+8529 90 72 00 5,7
+8529 90 81 00 5,7
+8529 90 88 00 5,7
+8540 11 11 00 0
+8540 11 13 00 0
+8540 11 15 00 0
+8540 11 19 00 0
+8540 11 91 00 0
+8540 11 99 00 0
+8540 12 00 00 0
+8540 20 10 00 0
+8541 90 00 00 0
+8542 90 00 00 0
+8543 89 95 01 0
+8544 11 10 00 0
+8544 11 90 01 0
+8544 11 90 99 0
+8544 19 10 00 0
+8544 19 90 01 0
+8544 19 90 99 0
+8544 20 00 00 0
+8544 30 10 00 0
+8544 30 90 00 0
+8544 41 10 00 0
+8544 41 90 00 0
+8544 49 20 00 0
+8544 49 80 00 0
+8544 51 10 00 0
+8544 51 90 00 0
+8544 59 10 00 0
+8544 59 20 00 0
+8544 59 80 00 0
+8544 60 10 00 0
+8544 60 90 00 0
+8545 11 00 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+8545 19 10 00 5
+8545 19 90 00 5
+8548 10 10 00 5
+8548 10 21 00 5
+8548 10 29 00 5
+8548 10 91 01 0
+8548 10 99 01 0
+8606 10 00 00 0
+8606 20 00 00 0
+8606 30 00 00 0
+8606 91 10 00 0
+8606 91 90 00 0
+8606 92 00 00 0
+8606 99 00 00 0
+8703 21 10 01 0
+8703 21 10 02 0
+8703 21 90 01 0
+8703 21 90 02 0
+8703 22 10 01 16
+8703 22 10 02 11
+8703 22 90 01 16
+8703 22 90 02 11
+8703 23 11 01 0
+8703 23 11 02 0
+8703 23 11 03 14
+8703 23 11 04 11,5
+8703 23 11 05 24
+8703 23 11 06 21,5
+8703 23 19 01 0
+8703 23 19 02 0
+8703 23 19 03 14
+8703 23 19 04 11,5
+8703 23 19 05 24
+8703 23 19 06 21
+8703 23 90 01 0
+8703 23 90 02 0
+8703 23 90 03 14
+Vámtarifaszám
+Vámtétel
+%
+8703 23 90 04 11,5
+8703 23 90 05 24
+8703 23 90 06 21,5
+8703 24 10 01 24
+8703 24 10 02 21
+8703 24 90 01 24
+8703 24 90 02 21,5
+8703 31 10 01 0
+8703 31 90 01 0
+8703 32 11 01 0
+8703 32 11 02 0
+8703 32 11 03 14
+8703 32 11 04 11,5
+8703 32 19 01 0
+8703 32 19 02 0
+8703 32 19 03 14
+8703 32 19 04 11,5
+8703 32 90 01 0
+8703 32 90 02 0
+8703 32 90 03 14
+8703 32 90 04 11,5
+8703 33 11 01 24
+8703 33 11 02 21,5
+8703 33 19 01 24
+8703 33 19 02 21
+8703 33 90 01 24
+8703 33 90 02 21,5
+8704 21 10 01 0
+8704 21 31 01 0
+8704 21 91 01 0
+8704 31 10 01 0
+8704 31 91 01 0
+8707 90 90 00 0
+8708 10 10 99 0
+8708 10 90 99 0
+8708 21 10 00 0
+8708 21 90 00 0
+Vámtarifaszám
+Vámtétel
+%
+8708 29 10 99 0
+8708 29 90 99 0
+8708 31 10 00 0
+8708 31 91 00 0
+8708 31 99 00 0
+8708 39 10 99 0
+8708 39 90 99 0
+8708 40 10 99 0
+8708 40 90 99 0
+8708 50 10 99 0
+8708 50 90 99 0
+8708 60 10 01 5
+8708 60 10 99 0
+8708 60 91 01 5
+8708 60 91 99 0
+8708 60 99 01 5
+8708 60 99 99 0
+8708 70 10 99 0
+8708 70 50 99 0
+8708 70 91 99 0
+8708 70 99 99 0
+8708 80 10 99 0
+8708 80 90 99 0
+8708 91 10 99 0
+8708 91 90 99 0
+8708 92 10 99 0
+8708 92 90 99 0
+8708 93 10 99 0
+8708 93 90 99 0
+8708 94 10 00 0
+8708 94 90 00 0
+8708 99 30 00 0
+8708 99 50 00 0
+8708 99 92 00 0
+8708 99 98 00 0
+8709 11 10 00 5
+8709 11 90 00 5
+Vámtarifaszám
+Vámtétel
+%
+8709 19 10 00 5
+8709 19 90 99 5
+8709 90 00 00 5
+8710 00 00 00 0
+8711 10 00 00 0
+8711 20 10 00 0
+8711 20 91 00 0
+8711 20 93 00 0
+8711 20 98 00 0
+8711 30 10 01 0
+8711 30 90 01 0
+8712 00 10 01 0
+8712 00 10 99 4
+8712 00 30 01 0
+8712 00 30 99 4
+8712 00 80 00 4
+8713 10 00 00 0
+8713 90 00 00 0
+8714 11 00 00 5
+8714 19 00 00 3
+8714 20 00 00 0
+8714 91 10 99 0
+8714 91 30 99 0
+8714 91 90 99 0
+8714 92 10 99 0
+8714 92 90 99 0
+8714 93 10 99 0
+8714 93 90 99 0
+8714 94 10 99 0
+8714 94 30 99 0
+8714 94 90 99 0
+8714 95 00 99 0
+8714 96 10 99 0
+8714 96 30 99 0
+8714 96 90 99 0
+8714 99 10 99 3
+8714 99 30 99 3
+
+Vámtarifaszám
+Vámtétel
+%
+8714 99 50 99 3
+8714 99 90 99 3
+8715 00 10 00 0
+8715 00 90 00 0
+8716 10 10 00 5
+8716 10 91 00 5
+8716 10 94 00 5
+8716 10 96 00 5
+8716 10 99 00 5
+8716 20 00 00 5
+8716 31 00 00 5
+8716 39 10 00 5
+8716 39 30 00 5
+8716 39 51 00 5
+8716 39 59 00 5
+8716 39 80 00 5
+8716 40 00 00 5
+8716 80 00 00 5
+8716 90 10 00 5
+8716 90 30 00 5
+8716 90 50 00 5
+8716 90 90 00 5
+8802 11 10 01 0
+8802 11 90 01 0
+8802 12 10 01 0
+8802 12 90 01 0
+8802 60 10 01 0
+8802 60 90 01 0
+8803 90 10 02 0
+8803 90 20 01 0
+8803 90 30 01 0
+8803 90 91 02 0
+8803 90 98 02 0
+9003 11 00 00 6,5
+9003 19 10 00 6,5
+9003 19 30 00 6,5
+9003 19 90 00 6,5
+Vámtarifaszám
+Vámtétel
+%
+9004 10 10 00 6,5
+9004 10 91 00 6,6
+9004 10 99 00 6,5
+9005 10 00 00 10
+9005 80 00 01 10
+9005 90 00 01 10
+9006 10 10 00 4,5
+9006 62 00 00 0
+9007 11 00 01 5
+9007 19 00 01 5
+9007 20 00 00 6,5
+9007 91 00 01 5
+9007 92 00 00 6,5
+9008 10 00 00 6,5
+9008 30 00 00 6,5
+9008 40 00 00 6,5
+9008 90 00 00 6,5
+9017 10 10 00 4
+9017 10 90 00 4
+9017 20 05 00 4
+9017 20 11 00 4
+9017 20 19 00 4
+9017 20 31 00 4
+9017 20 39 00 4
+9017 20 90 00 4
+9017 30 10 99 4
+9017 30 90 99 4
+9017 80 10 00 4
+9017 80 90 00 4
+9017 90 10 00 4
+9017 90 90 00 4
+9018 11 00 00 0
+9018 12 00 00 0
+9018 13 00 00 0
+9018 14 00 00 0
+9018 19 10 00 0
+9018 19 90 00 0
+Vámtarifaszám
+Vámtétel
+%
+9018 20 00 00 0
+9018 31 10 00 0
+9018 31 90 00 0
+9018 32 10 00 0
+9018 32 90 00 0
+9018 39 00 00 0
+9018 41 00 00 0
+9018 49 10 00 0
+9018 49 90 99 0
+9018 50 10 00 0
+9018 50 90 00 0
+9018 90 10 00 0
+9018 90 20 00 0
+9018 90 30 00 0
+9018 90 41 00 0
+9018 90 49 00 0
+9018 90 50 00 0
+9018 90 60 00 0
+9018 90 70 00 0
+9018 90 85 01 0
+9018 90 85 99 0
+9021 10 10 00 0
+9021 10 90 00 0
+9021 21 10 00 0
+9021 21 90 00 0
+9021 29 00 00 0
+9021 31 00 00 0
+9021 39 10 00 0
+9021 39 90 00 0
+9021 40 00 00 0
+9021 50 00 00 0
+9021 90 10 00 0
+9021 90 90 00 0
+9022 12 00 00 0
+9022 13 00 00 0
+9022 14 00 00 0
+9022 19 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+9022 21 00 00 0
+9022 29 00 00 0
+9022 30 00 00 0
+9022 90 10 00 0
+9022 90 90 00 0
+9024 10 91 00 5
+9024 10 93 00 5
+9024 10 99 00 5
+9024 80 91 00 5
+9024 80 99 00 5
+9024 90 00 99 5
+9025 11 91 00 0
+9026 10 10 99 5
+9026 10 91 00 5
+9026 10 99 99 5
+9026 20 10 99 5
+9026 20 50 00 5
+9026 20 90 00 5
+9026 80 10 99 5
+9026 80 99 00 5
+9027 10 90 00 5
+9027 80 91 00 0
+9027 80 93 00 0
+9027 80 97 00 0
+9027 90 10 00 0
+9027 90 50 01 5
+9027 90 50 99 0
+9027 90 80 01 5
+9027 90 80 99 0
+9031 10 00 99 4
+9031 20 00 99 4
+9031 30 00 00 4
+9031 41 00 00 4
+9031 49 00 00 4
+9031 80 10 99 4
+9031 80 91 00 4
+9031 80 99 99 4
+
+Vámtarifaszám
+Vámtétel
+%
+9031 90 10 99 4
+9031 90 20 99 4
+9031 90 30 99 4
+9031 90 80 99 4
+9032 81 10 00 5
+9032 81 90 00 5
+9032 89 10 99 5
+9032 89 90 99 5
+9102 11 00 00 10
+9102 12 00 00 10
+9102 19 00 00 10
+9102 21 00 00 10
+9102 29 00 00 10
+9102 91 00 00 10
+9102 99 00 00 10
+9105 11 00 01 0
+9105 19 00 00 0
+9105 21 00 01 0
+9105 21 00 99 0
+9105 29 00 00 0
+9105 91 00 01 0
+9105 91 00 99 0
+9105 99 10 00 0
+9105 99 90 00 0
+9113 10 10 00 6,5
+9113 10 90 00 6,5
+9113 20 00 00 5
+9113 90 10 01 0
+9113 90 80 00 6
+9204 10 00 01 0
+9209 92 00 01 0
+9301 11 00 00 0
+9301 19 00 00 0
+9301 20 00 00 0
+9301 90 00 00 0
+9305 91 00 02 6
+9305 99 00 02 6
+Vámtarifaszám
+Vámtétel
+%
+9401 10 10 00 0
+9401 10 90 00 0
+9401 20 00 00 0
+9401 30 10 00 0
+9401 30 90 00 0
+9401 40 00 00 0
+9401 50 00 00 0
+9401 61 00 00 0
+9401 69 00 00 0
+9401 71 00 00 0
+9401 79 00 00 0
+9401 80 00 99 0
+9401 90 10 00 0
+9401 90 30 00 0
+9401 90 80 00 0
+9403 10 10 00 0
+9403 10 51 00 0
+9403 10 59 00 0
+9403 10 91 00 0
+9403 10 93 00 0
+9403 10 99 00 0
+9403 20 10 01 0
+9403 20 10 99 0
+9403 20 91 00 0
+9403 20 99 01 5
+9403 20 99 99 0
+9403 30 11 00 0
+9403 30 19 00 0
+9403 30 91 00 0
+9403 30 99 00 0
+9403 40 10 00 0
+9403 40 90 00 0
+9403 50 00 00 0
+9403 60 10 00 0
+9403 60 30 00 0
+9403 60 90 01 0
+9403 60 90 99 0
+Vámtarifaszám
+Vámtétel
+%
+9403 70 10 00 0
+9403 70 90 00 0
+9403 80 00 99 0
+9403 90 10 00 0
+9403 90 30 00 0
+9403 90 90 00 0
+9405 10 10 01 0
+9405 10 50 00 0
+9405 10 91 01 0
+9405 10 99 01 0
+9405 20 50 00 0
+9405 20 91 01 0
+9405 20 99 01 0
+9405 30 00 00 5
+9405 40 91 01 0
+9405 40 95 01 0
+9405 40 99 01 0
+9405 50 00 01 0
+9405 60 10 01 0
+9405 60 99 01 0
+9405 92 10 00 15
+9405 92 90 99 15
+9405 99 10 00 0
+9405 99 90 01 0
+9405 99 90 99 0
+9406 00 11 00 6
+9406 00 12 00 6
+9406 00 31 00 6
+9406 00 38 00 6
+9503 49 10 00 6,5
+9503 49 30 00 6,5
+9503 49 90 00 6,5
+9504 20 90 01 5
+9505 10 10 00 5
+9505 10 90 00 5
+9505 90 00 00 5
+9506 91 10 00 6,5
+Vámtarifaszám
+Vámtétel
+%
+9506 91 90 00 6,5
+9507 20 10 00 0
+9601 10 00 02 6,5
+9601 90 10 00 5
+9601 90 90 99 5
+9603 10 00 00 6
+9603 21 00 00 5
+9603 29 30 00 5
+9603 29 80 00 5
+9603 30 10 00 5
+9603 30 90 00 5
+9603 40 10 00 5
+9603 40 90 00 5
+9603 50 00 00 5
+9603 90 91 00 5
+9603 90 99 99 5
+9605 00 00 01 5
+9605 00 00 02 5
+9605 00 00 99 4
+9606 10 00 00 3
+9606 21 00 00 3
+9606 22 00 00 3
+9606 29 00 00 3
+9606 30 00 00 3
+9607 11 00 00 4
+9607 19 00 00 4
+9607 20 10 00 4
+9607 20 90 00 4
+9608 10 10 00 5
+9608 10 30 00 5
+9608 10 91 00 5
+9608 10 99 00 5
+9608 20 00 00 5
+9608 31 00 00 5
+9608 39 10 00 5
+9608 39 90 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+9608 40 00 00 5
+9608 50 00 00 5
+9608 60 10 00 5
+9608 60 90 00 5
+9608 99 20 00 5
+9608 99 80 00 5
+9609 10 10 00 5
+Vámtarifaszám
+Vámtétel
+%
+9609 10 90 00 5
+9609 20 00 00 5
+9609 90 10 00 5
+9609 90 90 00 5
+9612 10 10 00 3,5
+9612 10 20 00 3,5
+9612 10 80 00 3,5
+Vámtarifaszám
+Vámtétel
+%
+9615 11 00 00 5
+9615 19 00 00 5
+9615 90 00 01 15
+9615 90 00 99 5
+9701 10 00 00 0
+9701 90 00 02 6
+9701 90 00 04 6,5
+Vámtarifaszám
+Vámtétel
+%
+9702 00 00 00 0
+9703 00 00 01 0
+9703 00 00 99 0
+9704 00 00 00 0
+9705 00 00 00 0
+9706 00 00 00 0
+3. számú melléklet a 28/2003. (XII. 21.) KüM—PM együttes rendelethez
+[4. számú melléklet a 64/1995. (XI. 24.) IKM—PM együttes rendelethez]
+A Kereskedelmi Vámtarifa II. jelzésű hasábjának vámtételei
+Vámtarifaszám
+Vámtétel
+%
+0101 10 10 00 13,5
+0101 10 90 00 13,5
+0101 90 11 00 13,5
+0101 90 19 00 13,5
+0101 90 30 00 13,5
+0101 90 90 00 17,3
+0102 10 10 00 23,5
+0102 10 30 00 23,5
+0102 10 90 00 23,5
+0102 90 05 00 40
+0102 90 21 00 40
+0102 90 29 00 40
+0102 90 41 00 40
+0102 90 49 00 40
+0102 90 51 00 40
+0102 90 59 00 40
+0102 90 61 00 40
+0102 90 69 00 40
+0102 90 71 00 40
+0102 90 79 00 40
+0102 90 90 00 40
+0103 10 00 00 29,5
+Vámtarifaszám
+Vámtétel
+%
+0103 91 10 00 50,2
+0103 91 90 00 50,2
+0103 92 11 00 50,2
+0103 92 19 00 50,2
+0103 92 90 00 50,2
+0104 10 10 00 25
+0104 10 30 00 32
+0104 10 80 00 32
+0104 20 10 00 25
+0104 20 90 00 32
+0105 11 11 00 22
+0105 11 19 00 22
+0105 11 91 00 37,4
+0105 11 99 00 37,4
+0105 12 00 00 37,4
+0105 19 20 00 37,4
+0105 19 90 00 37,4
+0105 92 00 01 15
+0105 92 00 99 25,5
+0105 93 00 01 22
+0105 93 00 99 25,5
+0105 99 10 01 22
+Vámtarifaszám
+Vámtétel
+%
+0105 99 10 99 25,5
+0105 99 20 01 22
+0105 99 20 99 37,4
+0105 99 30 01 22
+0105 99 30 99 37,4
+0105 99 50 01 22
+0105 99 50 99 37,4
+0106 11 00 01 16
+0106 11 00 99 25,6
+0106 12 00 01 16
+0106 12 00 99 25,6
+0106 19 10 01 16
+0106 19 10 99 25,6
+0106 19 90 01 16
+0106 19 90 99 25,6
+0106 20 00 01 16
+0106 20 00 99 25,6
+0106 31 00 01 16
+0106 31 00 99 25,6
+0106 32 00 01 16
+0106 32 00 99 25,6
+0106 39 10 01 16
+Vámtarifaszám
+Vámtétel
+%
+0106 39 10 99 25,6
+0106 39 90 01 16
+0106 39 90 99 25,6
+0106 90 00 01 16
+0106 90 00 99 25,6
+0201 10 00 00 71,1
+0201 20 20 00 71,1
+0201 20 30 00 71,1
+0201 20 50 00 71,1
+0201 20 90 00 71,1
+0201 30 00 00 71,1
+0202 10 00 00 71,1
+0202 20 10 00 71,1
+0202 20 30 00 71,1
+0202 20 50 00 71,1
+0202 20 90 00 71,1
+0202 30 10 00 71,1
+0202 30 50 00 71,1
+0202 30 90 00 71,1
+0203 11 10 00 51,9
+0203 11 90 00 51,9
+0203 12 11 00 51,9
+
+Vámtarifaszám
+Vámtétel
+%
+0203 12 19 00 51,9
+0203 12 90 00 51,9
+0203 19 11 00 51,9
+0203 19 13 00 51,9
+0203 19 15 00 51,9
+0203 19 55 00 51,9
+0203 19 59 00 51,9
+0203 19 90 00 51,9
+0203 21 10 00 51,9
+0203 21 90 00 51,9
+0203 22 11 00 51,9
+0203 22 19 00 51,9
+0203 22 90 00 51,9
+0203 29 11 00 51,9
+0203 29 13 00 51,9
+0203 29 15 00 51,9
+0203 29 55 00 51,9
+0203 29 59 00 51,9
+0203 29 90 00 51,9
+0204 10 00 00 25,6
+0204 21 00 00 25,6
+0204 22 10 00 25,6
+0204 22 30 00 25,6
+0204 22 50 00 25,6
+0204 22 90 00 25,6
+0204 23 00 00 25,6
+0204 30 00 00 25,6
+0204 41 00 00 25,6
+0204 42 10 00 25,6
+0204 42 30 00 25,6
+0204 42 50 00 25,6
+0204 42 90 00 25,6
+0204 43 10 00 25,6
+0204 43 90 00 25,6
+0204 50 11 00 25,6
+0204 50 13 00 25,6
+0204 50 15 00 25,6
+Vámtarifaszám
+Vámtétel
+%
+0204 50 19 00 25,6
+0204 50 31 00 25,6
+0204 50 39 00 25,6
+0204 50 51 00 25,6
+0204 50 53 00 25,6
+0204 50 55 00 25,6
+0204 50 59 00 25,6
+0204 50 71 00 25,6
+0204 50 79 00 25,6
+0205 00 20 00 26,9
+0205 00 80 00 26,9
+0206 10 10 00 42,9
+0206 10 91 00 42,9
+0206 10 95 00 42,9
+0206 10 99 00 42,9
+0206 21 00 00 42,9
+0206 22 00 00 42,9
+0206 29 10 00 42,9
+0206 29 91 00 42,9
+0206 29 99 00 42,9
+0206 30 00 00 42,9
+0206 41 00 00 42,9
+0206 49 20 00 42,9
+0206 49 80 00 42,9
+0206 80 10 00 42,9
+0206 80 91 00 42,9
+0206 80 99 00 42,9
+0206 90 10 00 42,9
+0206 90 91 00 42,9
+0206 90 99 00 42,9
+0207 11 10 00 39
+0207 11 30 00 39
+0207 11 90 00 39
+0207 12 10 00 39
+0207 12 90 00 39
+0207 13 10 00 39
+0207 13 20 00 39
+Vámtarifaszám
+Vámtétel
+%
+0207 13 30 00 39
+0207 13 40 00 39
+0207 13 50 00 39
+0207 13 60 00 39
+0207 13 70 00 39
+0207 13 91 00 39
+0207 13 99 00 39
+0207 14 10 00 39
+0207 14 20 00 39
+0207 14 30 00 39
+0207 14 40 00 39
+0207 14 50 00 39
+0207 14 60 00 39
+0207 14 70 00 39
+0207 14 91 00 39
+0207 14 99 00 39
+0207 24 10 00 39
+0207 24 90 00 39
+0207 25 10 00 39
+0207 25 90 00 39
+0207 26 10 00 39
+0207 26 20 00 39
+0207 26 30 00 39
+0207 26 40 00 39
+0207 26 50 00 39
+0207 26 60 00 39
+0207 26 70 00 39
+0207 26 80 00 39
+0207 26 91 00 39
+0207 26 99 00 39
+0207 27 10 00 39
+0207 27 20 00 39
+0207 27 30 00 39
+0207 27 40 00 39
+0207 27 50 00 39
+0207 27 60 00 39
+0207 27 70 00 39
+Vámtarifaszám
+Vámtétel
+%
+0207 27 80 00 39
+0207 27 91 00 39
+0207 27 99 00 39
+0207 32 11 00 39
+0207 32 15 00 39
+0207 32 19 00 39
+0207 32 51 00 39
+0207 32 59 00 39
+0207 32 90 00 39
+0207 33 11 00 39
+0207 33 19 00 39
+0207 33 51 00 39
+0207 33 59 00 39
+0207 33 90 00 39
+0207 34 10 00 39
+0207 34 90 00 39
+0207 35 11 00 39
+0207 35 15 00 39
+0207 35 21 00 39
+0207 35 23 00 39
+0207 35 25 00 39
+0207 35 31 00 39
+0207 35 41 00 39
+0207 35 51 00 39
+0207 35 53 00 39
+0207 35 61 00 39
+0207 35 63 00 39
+0207 35 71 00 39
+0207 35 79 00 39
+0207 35 91 00 39
+0207 35 99 00 39
+0207 36 11 00 39
+0207 36 15 00 39
+0207 36 21 00 39
+0207 36 23 00 39
+0207 36 25 00 39
+0207 36 31 00 39
+
+Vámtarifaszám
+Vámtétel
+%
+0207 36 41 00 39
+0207 36 51 00 39
+0207 36 53 00 39
+0207 36 61 00 39
+0207 36 63 00 39
+0207 36 71 00 39
+0207 36 79 00 39
+0207 36 81 00 39
+0207 36 85 00 39
+0207 36 89 00 39
+0207 36 90 00 39
+0208 10 11 00 19,2
+0208 10 19 00 19,2
+0208 10 90 00 19,2
+0208 20 00 00 19,2
+0208 30 00 00 19,2
+0208 40 10 00 19,2
+0208 40 90 00 19,2
+0208 50 00 00 19,2
+0208 90 10 00 19,2
+0208 90 20 00 19,2
+0208 90 40 00 19,2
+0208 90 55 00 19,2
+0208 90 60 00 19,2
+0208 90 95 00 19,2
+0209 00 11 00 37,5
+0209 00 19 00 37,5
+0209 00 30 00 37,5
+0209 00 90 00 37,5
+0210 11 11 00 39
+0210 11 19 00 39
+0210 11 31 00 39
+0210 11 39 00 39
+0210 11 90 00 39
+0210 12 11 00 39
+0210 12 19 00 39
+0210 12 90 00 39
+Vámtarifaszám
+Vámtétel
+%
+0210 19 10 00 39
+0210 19 20 00 39
+0210 19 30 00 39
+0210 19 40 00 39
+0210 19 51 00 39
+0210 19 59 00 39
+0210 19 60 00 39
+0210 19 70 00 39
+0210 19 81 00 39
+0210 19 89 00 39
+0210 19 90 00 39
+0210 20 10 00 39
+0210 20 90 00 39
+0210 91 00 00 39
+0210 92 00 00 39
+0210 93 00 00 39
+0210 99 10 00 39
+0210 99 21 00 39
+0210 99 29 00 39
+0210 99 31 00 39
+0210 99 39 00 39
+0210 99 41 00 39
+0210 99 49 00 39
+0210 99 51 00 39
+0210 99 59 00 39
+0210 99 60 00 39
+0210 99 71 00 39
+0210 99 79 00 39
+0210 99 80 00 39
+0210 99 90 00 39
+0301 10 10 00 9
+0301 10 90 00 9
+0301 91 10 00 9
+0301 91 90 00 9
+0301 92 00 00 9
+0301 93 00 00 15
+0301 99 11 01 0
+Vámtarifaszám
+Vámtétel
+%
+0301 99 11 99 15
+0301 99 19 01 0
+0301 99 19 99 15
+0301 99 90 01 0
+0301 99 90 99 15
+0302 11 10 00 9
+0302 11 20 00 9
+0302 11 80 00 9
+0302 12 00 00 9
+0302 19 00 00 9
+0302 21 10 00 9
+0302 21 30 00 9
+0302 21 90 00 9
+0302 22 00 00 9
+0302 23 00 00 9
+0302 29 10 00 9
+0302 29 90 00 9
+0302 31 10 00 9
+0302 31 90 00 9
+0302 32 10 00 9
+0302 32 90 00 9
+0302 33 10 00 9
+0302 33 90 00 9
+0302 34 10 00 9
+0302 34 90 00 9
+0302 35 10 00 9
+0302 35 90 00 9
+0302 36 10 00 9
+0302 36 90 00 9
+0302 39 10 00 9
+0302 39 90 00 9
+0302 40 00 00 7,8
+0302 50 10 00 9
+0302 50 90 00 9
+0302 61 10 00 9
+0302 61 30 00 9
+0302 61 80 01 7,8
+Vámtarifaszám
+Vámtétel
+%
+0302 61 80 99 9
+0302 62 00 00 9
+0302 63 00 00 9
+0302 64 00 00 7,8
+0302 65 20 00 9
+0302 65 50 00 9
+0302 65 90 00 9
+0302 66 00 00 9
+0302 69 11 00 9
+0302 69 19 00 9
+0302 69 21 00 9
+0302 69 25 00 9
+0302 69 31 00 9
+0302 69 33 00 9
+0302 69 35 00 9
+0302 69 41 00 9
+0302 69 45 00 9
+0302 69 51 00 9
+0302 69 55 00 9
+0302 69 61 00 9
+0302 69 66 00 9
+0302 69 67 00 9
+0302 69 68 00 9
+0302 69 69 00 9
+0302 69 75 00 9
+0302 69 81 00 9
+0302 69 85 00 9
+0302 69 86 00 9
+0302 69 87 00 9
+0302 69 88 00 9
+0302 69 91 00 9
+0302 69 92 00 9
+0302 69 94 00 9
+0302 69 95 00 9
+0302 69 99 00 9
+0302 70 00 00 30
+0303 11 00 00 9
+
+Vámtarifaszám
+Vámtétel
+%
+0303 19 00 00 9
+0303 21 10 00 9
+0303 21 20 00 9
+0303 21 80 00 9
+0303 22 00 00 9
+0303 29 00 00 9
+0303 31 10 00 9
+0303 31 30 00 9
+0303 31 90 00 9
+0303 32 00 00 9
+0303 33 00 00 9
+0303 39 10 00 9
+0303 39 20 00 9
+0303 39 70 00 9
+0303 41 11 00 9
+0303 41 13 00 9
+0303 41 19 00 9
+0303 41 90 00 9
+0303 42 12 00 9
+0303 42 18 00 9
+0303 42 32 00 9
+0303 42 38 00 9
+0303 42 52 00 9
+0303 42 58 00 9
+0303 42 90 00 9
+0303 43 11 00 9
+0303 43 13 00 9
+0303 43 19 00 9
+0303 43 90 00 9
+0303 44 11 00 9
+0303 44 13 00 9
+0303 44 19 00 9
+0303 44 90 00 9
+0303 45 11 00 9
+0303 45 13 00 9
+0303 45 19 00 9
+0303 45 90 00 9
+Vámtarifaszám
+Vámtétel
+%
+0303 46 11 00 9
+0303 46 13 00 9
+0303 46 19 00 9
+0303 46 90 00 9
+0303 49 31 00 9
+0303 49 33 00 9
+0303 49 39 00 9
+0303 49 80 00 9
+0303 50 00 00 7,8
+0303 60 11 00 9
+0303 60 19 00 9
+0303 60 90 00 9
+0303 71 10 00 9
+0303 71 30 00 9
+0303 71 80 00 7,8
+0303 72 00 00 9
+0303 73 00 00 9
+0303 74 30 00 7,8
+0303 74 90 00 7,8
+0303 75 20 00 9
+0303 75 50 00 9
+0303 75 90 00 9
+0303 76 00 00 9
+0303 77 00 00 9
+0303 78 11 00 9
+0303 78 12 00 9
+0303 78 13 00 9
+0303 78 19 00 9
+0303 78 90 00 9
+0303 79 11 00 15
+0303 79 19 00 15
+0303 79 21 00 9
+0303 79 23 00 9
+0303 79 29 00 9
+0303 79 31 00 9
+0303 79 35 00 9
+0303 79 37 00 9
+Vámtarifaszám
+Vámtétel
+%
+0303 79 41 00 9
+0303 79 45 00 9
+0303 79 51 00 9
+0303 79 55 00 9
+0303 79 58 00 9
+0303 79 65 00 9
+0303 79 71 00 9
+0303 79 75 00 9
+0303 79 81 00 9
+0303 79 83 00 9
+0303 79 85 00 9
+0303 79 87 00 9
+0303 79 88 00 9
+0303 79 91 00 9
+0303 79 92 00 9
+0303 79 93 00 9
+0303 79 94 00 9
+0303 79 98 00 9
+0303 80 10 00 30
+0303 80 90 00 30
+0304 10 13 00 6,2
+0304 10 15 00 6,2
+0304 10 17 00 6,2
+0304 10 19 00 6,2
+0304 10 31 00 6,2
+0304 10 33 00 6,2
+0304 10 35 00 6,2
+0304 10 38 00 6,2
+0304 10 91 00 6,2
+0304 10 97 00 6,2
+0304 10 98 00 6,2
+0304 20 13 00 6,2
+0304 20 15 00 6,2
+0304 20 17 00 6,2
+0304 20 19 00 6,2
+0304 20 21 00 6,2
+0304 20 29 00 6,2
+Vámtarifaszám
+Vámtétel
+%
+0304 20 31 00 6,2
+0304 20 33 00 6,2
+0304 20 35 00 6,2
+0304 20 37 00 6,2
+0304 20 41 00 6,2
+0304 20 43 00 6,2
+0304 20 45 00 6,2
+0304 20 51 00 6,2
+0304 20 53 00 6,2
+0304 20 55 00 6,2
+0304 20 56 00 6,2
+0304 20 58 00 6,2
+0304 20 59 00 6,2
+0304 20 61 00 6,2
+0304 20 69 00 6,2
+0304 20 71 00 6,2
+0304 20 73 00 6,2
+0304 20 75 00 6,2
+0304 20 79 00 6,2
+0304 20 83 00 6,2
+0304 20 85 00 6,2
+0304 20 87 00 6,2
+0304 20 88 00 6,2
+0304 20 91 00 6,2
+0304 20 94 00 6,2
+0304 90 05 00 6,2
+0304 90 10 00 6,2
+0304 90 22 00 6,2
+0304 90 31 00 6,2
+0304 90 35 00 6,2
+0304 90 38 00 6,2
+0304 90 39 00 6,2
+0304 90 41 00 6,2
+0304 90 45 00 6,2
+0304 90 48 00 6,2
+0304 90 51 00 6,2
+0304 90 55 00 6,2
+
+Vámtarifaszám
+Vámtétel
+%
+0304 90 57 00 6,2
+0304 90 59 00 6,2
+0304 90 61 00 6,2
+0304 90 65 00 6,2
+0304 90 97 00 6,2
+0305 10 00 01 30
+0305 10 00 02 18
+0305 20 00 00 18
+0305 30 11 00 18
+0305 30 19 00 18
+0305 30 30 00 18
+0305 30 50 00 18
+0305 30 90 01 30
+0305 30 90 99 18
+0305 41 00 00 18
+0305 42 00 00 30
+0305 49 10 00 18
+0305 49 20 00 18
+0305 49 30 00 18
+0305 49 45 00 18
+0305 49 50 00 18
+0305 49 80 01 30
+0305 49 80 99 18
+0305 51 10 00 18
+0305 51 90 00 18
+0305 59 11 00 18
+0305 59 19 00 18
+0305 59 30 00 18
+0305 59 50 00 18
+0305 59 70 00 18
+0305 59 80 01 30
+0305 59 80 99 18
+0305 61 00 00 30
+0305 62 00 00 18
+0305 63 00 00 18
+0305 69 10 00 18
+0305 69 30 00 18
+Vámtarifaszám
+Vámtétel
+%
+0305 69 50 00 18
+0305 69 80 01 30
+0305 69 80 99 18
+0306 11 10 00 25
+0306 11 90 00 25
+0306 12 10 00 25
+0306 12 90 00 25
+0306 13 10 00 25
+0306 13 30 00 25
+0306 13 40 00 25
+0306 13 50 00 25
+0306 13 80 00 25
+0306 14 10 00 25
+0306 14 30 00 25
+0306 14 90 00 25
+0306 19 10 00 25
+0306 19 30 00 25
+0306 19 90 00 25
+0306 21 00 00 25
+0306 22 10 00 25
+0306 22 91 00 25
+0306 22 99 00 25
+0306 23 10 00 25
+0306 23 31 00 25
+0306 23 39 00 25
+0306 23 90 00 25
+0306 24 30 00 25
+0306 24 80 00 25
+0306 29 10 01 0
+0306 29 10 99 25
+0306 29 30 01 0
+0306 29 30 99 25
+0306 29 90 01 0
+0306 29 90 99 25
+0307 10 10 00 25
+0307 10 90 00 25
+0307 21 00 00 25
+Vámtarifaszám
+Vámtétel
+%
+0307 29 10 00 25
+0307 29 90 00 25
+0307 31 10 00 25
+0307 31 90 00 25
+0307 39 10 00 25
+0307 39 90 00 25
+0307 41 10 00 25
+0307 41 91 00 25
+0307 41 99 00 25
+0307 49 01 00 25
+0307 49 11 00 25
+0307 49 18 00 25
+0307 49 31 00 25
+0307 49 33 00 25
+0307 49 35 00 25
+0307 49 38 00 25
+0307 49 51 00 25
+0307 49 59 00 25
+0307 49 71 00 25
+0307 49 91 00 25
+0307 49 99 00 25
+0307 51 00 00 25
+0307 59 10 00 25
+0307 59 90 00 25
+0307 60 00 00 25
+0307 91 00 01 0
+0307 91 00 02 15
+0307 91 00 03 30
+0307 91 00 04 30
+0307 91 00 99 25
+0307 99 11 00 25
+0307 99 13 00 25
+0307 99 15 00 25
+0307 99 18 00 25
+0307 99 90 00 25
+0401 10 10 00 51,2
+0401 10 90 00 51,2
+Vámtarifaszám
+Vámtétel
+%
+0401 20 11 00 51,2
+0401 20 19 00 51,2
+0401 20 91 00 51,2
+0401 20 99 00 51,2
+0401 30 11 00 51,2
+0401 30 19 00 51,2
+0401 30 31 00 51,2
+0401 30 39 00 51,2
+0401 30 91 00 51,2
+0401 30 99 00 51,2
+0402 10 11 00 51,2
+0402 10 19 00 51,2
+0402 10 91 00 51,2
+0402 10 99 00 51,2
+0402 21 11 00 51,2
+0402 21 17 00 51,2
+0402 21 19 00 51,2
+0402 21 91 00 51,2
+0402 21 99 00 51,2
+0402 29 11 00 51,2
+0402 29 15 00 51,2
+0402 29 19 00 51,2
+0402 29 91 00 51,2
+0402 29 99 00 51,2
+0402 91 11 00 51,2
+0402 91 19 00 51,2
+0402 91 31 00 51,2
+0402 91 39 00 51,2
+0402 91 51 00 51,2
+0402 91 59 00 51,2
+0402 91 91 00 51,2
+0402 91 99 00 51,2
+0402 99 11 00 51,2
+0402 99 19 00 51,2
+0402 99 31 00 51,2
+0402 99 39 00 51,2
+0402 99 91 00 51,2
+
+Vámtarifaszám
+Vámtétel
+%
+0402 99 99 00 51,2
+0403 10 11 00 51,2
+0403 10 13 00 51,2
+0403 10 19 00 51,2
+0403 10 31 00 51,2
+0403 10 33 00 51,2
+0403 10 39 00 51,2
+0403 10 51 00 51,2
+0403 10 53 00 51,2
+0403 10 59 00 51,2
+0403 10 91 00 51,2
+0403 10 93 00 51,2
+0403 10 99 00 51,2
+0403 90 11 00 51,2
+0403 90 13 00 51,2
+0403 90 19 00 51,2
+0403 90 31 00 51,2
+0403 90 33 00 51,2
+0403 90 39 00 51,2
+0403 90 51 00 51,2
+0403 90 53 00 51,2
+0403 90 59 00 51,2
+0403 90 61 00 51,2
+0403 90 63 00 51,2
+0403 90 69 00 51,2
+0403 90 71 00 51,2
+0403 90 73 00 51,2
+0403 90 79 00 51,2
+0403 90 91 00 51,2
+0403 90 93 00 51,2
+0403 90 99 00 51,2
+0404 10 02 00 19,2
+0404 10 04 00 19,2
+0404 10 06 00 19,2
+0404 10 12 00 19,2
+0404 10 14 00 19,2
+0404 10 16 00 19,2
+Vámtarifaszám
+Vámtétel
+%
+0404 10 26 00 19,2
+0404 10 28 00 19,2
+0404 10 32 00 19,2
+0404 10 34 00 19,2
+0404 10 36 00 19,2
+0404 10 38 00 19,2
+0404 10 48 00 19,2
+0404 10 52 00 19,2
+0404 10 54 00 19,2
+0404 10 56 00 19,2
+0404 10 58 00 19,2
+0404 10 62 00 19,2
+0404 10 72 00 19,2
+0404 10 74 00 19,2
+0404 10 76 00 19,2
+0404 10 78 00 19,2
+0404 10 82 00 19,2
+0404 10 84 00 19,2
+0404 90 21 00 19,2
+0404 90 23 00 19,2
+0404 90 29 00 19,2
+0404 90 81 00 19,2
+0404 90 83 00 19,2
+0404 90 89 00 19,2
+0405 10 11 00 101,8
+0405 10 19 00 101,8
+0405 10 30 00 101,8
+0405 10 50 00 101,8
+0405 10 90 00 101,8
+0405 20 10 00 51,2
+0405 20 30 00 51,2
+0405 20 90 00 51,2
+0405 90 10 00 101,8
+0405 90 90 00 101,8
+0406 10 20 01 52,5
+0406 10 20 99 67,2
+0406 10 80 01 52,2
+Vámtarifaszám
+Vámtétel
+%
+0406 10 80 99 67,2
+0406 20 10 00 52,5
+0406 20 90 00 52,5
+0406 30 10 00 52,5
+0406 30 31 00 52,5
+0406 30 39 00 52,5
+0406 30 90 00 52,5
+0406 40 10 00 67,2
+0406 40 50 00 67,2
+0406 40 90 00 67,2
+0406 90 01 00 52,5
+0406 90 02 00 52,5
+0406 90 03 00 52,5
+0406 90 04 00 52,5
+0406 90 05 00 52,5
+0406 90 06 00 52,5
+0406 90 13 00 52,5
+0406 90 15 00 52,5
+0406 90 17 00 52,5
+0406 90 18 00 52,5
+0406 90 19 00 52,5
+0406 90 21 00 52,5
+0406 90 23 00 52,5
+0406 90 25 00 52,5
+0406 90 27 00 52,5
+0406 90 29 00 52,5
+0406 90 31 01 52,5
+0406 90 31 99 67,2
+0406 90 33 01 52,5
+0406 90 33 99 67,2
+0406 90 35 00 52,5
+0406 90 37 00 52,5
+0406 90 39 00 52,5
+0406 90 50 01 52,5
+0406 90 50 99 67,2
+0406 90 61 00 52,5
+0406 90 63 00 52,5
+Vámtarifaszám
+Vámtétel
+%
+0406 90 69 01 52,5
+0406 90 69 99 67,2
+0406 90 73 00 52,5
+0406 90 75 00 52,5
+0406 90 76 00 52,5
+0406 90 78 00 52,5
+0406 90 79 00 52,5
+0406 90 81 00 52,5
+0406 90 82 00 52,5
+0406 90 84 00 52,5
+0406 90 85 00 52,5
+0406 90 86 01 52,5
+0406 90 86 99 67,2
+0406 90 87 01 52,5
+0406 90 87 99 67,2
+0406 90 88 01 52,5
+0406 90 88 99 67,2
+0406 90 93 01 52,5
+0406 90 93 99 67,2
+0406 90 99 00 52,5
+0407 00 11 01 25,5
+0407 00 11 99 25,5
+0407 00 19 01 25,5
+0407 00 19 99 25,5
+0407 00 30 01 25,5
+0407 00 30 99 25,5
+0407 00 90 01 25,5
+0407 00 90 02 25,5
+0407 00 90 03 25,5
+0407 00 90 99 25,5
+0408 11 20 00 38,3
+0408 11 80 00 38,3
+0408 19 20 00 38,3
+0408 19 81 00 38,3
+0408 19 89 00 38,3
+0408 91 20 00 38,3
+0408 91 80 00 38,3
+
+Vámtarifaszám
+Vámtétel
+%
+0408 99 20 00 38,3
+0408 99 80 00 38,3
+0409 00 00 00 34
+0410 00 00 00 25,2
+0501 00 00 00 0
+0502 10 00 01 0
+0502 10 00 99 6,8
+0502 90 00 00 6,8
+0503 00 00 01 0
+0503 00 00 02 6,8
+0503 00 00 03 3,4
+0503 00 00 04 4,1
+0503 00 00 99 12,8
+0504 00 00 01 4,3
+0504 00 00 02 8,5
+0504 00 00 03 4,3
+0504 00 00 04 12,5
+0504 00 00 05 6,8
+0504 00 00 06 8,5
+0504 00 00 07 1,7
+0504 00 00 99 8,5
+0505 10 10 00 14
+0505 10 90 00 14
+0505 90 00 00 14
+0506 10 00 00 12,8
+0506 90 00 01 6,8
+0506 90 00 99 12,8
+0507 10 00 00 6,8
+0507 90 00 00 6,8
+0508 00 00 00 6,8
+0509 00 10 00 6,8
+0509 00 90 00 12,8
+0510 00 00 00 4,3
+0511 10 00 00 18
+0511 91 10 00 19,2
+0511 91 90 00 19,2
+0511 99 10 00 19,2
+Vámtarifaszám
+Vámtétel
+%
+0511 99 90 01 10
+0511 99 90 99 19,2
+0601 10 10 00 9,6
+0601 10 20 00 9,6
+0601 10 30 00 9,6
+0601 10 40 00 9,6
+0601 10 90 00 9,6
+0601 20 10 00 6,4
+0601 20 30 00 19,2
+0601 20 90 00 19,2
+0602 10 10 00 0
+0602 10 90 00 0
+0602 20 10 00 17
+0602 20 90 01 17
+0602 20 90 99 4,3
+0602 30 00 00 4,3
+0602 40 10 00 4,3
+0602 40 90 00 4,3
+0602 90 10 00 4,3
+0602 90 20 00 4,3
+0602 90 30 00 4,3
+0602 90 41 00 4,3
+0602 90 45 00 4,3
+0602 90 49 00 4,3
+0602 90 51 00 4,3
+0602 90 59 00 4,3
+0602 90 70 00 4,3
+0602 90 91 00 4,3
+0602 90 99 00 4,3
+0603 10 10 00 34
+0603 10 20 00 34
+0603 10 30 00 34
+0603 10 40 00 34
+0603 10 50 00 34
+0603 10 80 00 34
+0603 90 00 01 17
+0603 90 00 99 25,5
+Vámtarifaszám
+Vámtétel
+%
+0604 10 10 01 21,3
+0604 10 10 02 12,8
+0604 10 10 99 25,5
+0604 10 90 01 21,3
+0604 10 90 02 12,8
+0604 10 90 99 25,5
+0604 91 21 00 21,3
+0604 91 29 00 21,3
+0604 91 41 00 21,3
+0604 91 49 00 21,3
+0604 91 90 00 21,3
+0604 99 10 00 12,8
+0604 99 90 00 25,5
+0701 10 00 00 44,2
+0701 90 10 00 44,2
+0701 90 50 00 44,2
+0701 90 90 00 44,2
+0702 00 00 01 20
+0702 00 00 02 35
+0702 00 00 03 46,1
+0703 10 11 00 32
+0703 10 19 00 32
+0703 10 90 00 32
+0703 20 00 00 32
+0703 90 00 00 32
+0704 10 00 00 32
+0704 20 00 00 32
+0704 90 10 00 32
+0704 90 90 00 32
+0705 11 00 00 46,1
+0705 19 00 00 46,1
+0705 21 00 00 46,1
+0705 29 00 00 46,1
+0706 10 00 00 32
+0706 90 10 00 32
+0706 90 30 00 32
+0706 90 90 00 32
+Vámtarifaszám
+Vámtétel
+%
+0707 00 05 01 20
+0707 00 05 02 35
+0707 00 05 03 46,1
+0707 00 90 01 20
+0707 00 90 02 35
+0707 00 90 03 46,1
+0708 10 00 00 46,1
+0708 20 00 00 46,1
+0708 90 00 00 46,1
+0709 10 00 00 31
+0709 20 00 00 31
+0709 30 00 00 31
+0709 40 00 00 31
+0709 51 00 00 31
+0709 52 00 00 31
+0709 59 10 00 31
+0709 59 30 00 31
+0709 59 90 00 31
+0709 60 10 00 31
+0709 60 91 00 31
+0709 60 95 00 31
+0709 60 99 00 31
+0709 70 00 00 31
+0709 90 10 00 31
+0709 90 20 00 31
+0709 90 31 00 31
+0709 90 39 00 31
+0709 90 40 00 31
+0709 90 50 00 31
+0709 90 60 00 31
+0709 90 70 00 31
+0709 90 90 00 31
+0710 10 00 00 44,8
+0710 21 00 00 44,8
+0710 22 00 00 44,8
+0710 29 00 00 44,8
+0710 30 00 00 44,8
+
+Vámtarifaszám
+Vámtétel
+%
+0710 40 00 00 44,8
+0710 80 10 00 44,8
+0710 80 51 00 44,8
+0710 80 59 00 44,8
+0710 80 61 00 44,8
+0710 80 69 00 44,8
+0710 80 70 00 44,8
+0710 80 80 00 44,8
+0710 80 85 00 44,8
+0710 80 95 00 44,8
+0710 90 00 00 44,8
+0711 20 10 00 51,2
+0711 20 90 00 51,2
+0711 30 00 00 51,2
+0711 40 00 00 51,2
+0711 51 00 00 51,2
+0711 59 00 00 51,2
+0711 90 10 00 51,2
+0711 90 30 00 51,2
+0711 90 50 00 51,2
+0711 90 80 00 51,2
+0711 90 90 00 51,2
+0712 20 00 00 55,6
+0712 31 00 00 55,6
+0712 32 00 00 55,6
+0712 33 00 00 55,6
+0712 39 00 00 55,6
+0712 90 05 00 55,6
+0712 90 11 00 55,6
+0712 90 19 00 55,6
+0712 90 30 00 55,6
+0712 90 50 00 55,6
+0712 90 90 00 55,6
+0713 10 10 00 40
+0713 10 90 01 40
+0713 10 90 99 51,2
+0713 20 00 00 40
+Vámtarifaszám
+Vámtétel
+%
+0713 31 00 00 51,2
+0713 32 00 00 51,2
+0713 33 10 00 40
+0713 33 90 00 40
+0713 39 00 00 51,2
+0713 40 00 00 51,2
+0713 50 00 00 51,2
+0713 90 00 00 51,2
+0714 10 10 00 9,6
+0714 10 91 01 17
+0714 10 91 99 9,6
+0714 10 99 01 17
+0714 10 99 99 9,6
+0714 20 10 00 9,6
+0714 20 90 01 17
+0714 20 90 99 9,6
+0714 90 11 01 17
+0714 90 11 99 9,6
+0714 90 19 01 17
+0714 90 19 99 9,6
+0714 90 90 01 17
+0714 90 90 99 9,6
+0801 11 00 00 18,9
+0801 19 00 00 18,9
+0801 21 00 00 18,9
+0801 22 00 00 18,9
+0801 31 00 00 18,9
+0801 32 00 00 18,9
+0802 11 10 00 6,2
+0802 11 90 00 5,6
+0802 12 10 00 6,2
+0802 12 90 00 3,5
+0802 21 00 00 10
+0802 22 00 00 10
+0802 31 00 00 15,5
+0802 32 00 00 15,5
+0802 40 00 00 6,2
+Vámtarifaszám
+Vámtétel
+%
+0802 50 00 00 10
+0802 90 20 00 0
+0802 90 50 00 15,5
+0802 90 60 00 15,5
+0802 90 85 00 15,5
+0803 00 11 00 20
+0803 00 19 00 20
+0803 00 90 00 20
+0804 10 00 00 17,9
+0804 20 10 00 17,9
+0804 20 90 00 17,9
+0804 30 00 00 17,9
+0804 40 00 00 17,9
+0804 50 00 00 17,9
+0805 10 10 00 27
+0805 10 30 00 27
+0805 10 50 01 6
+0805 10 50 02 27
+0805 10 80 00 27
+0805 20 10 00 28,8
+0805 20 30 00 28,8
+0805 20 50 00 28,8
+0805 20 70 00 28,8
+0805 20 90 00 28,8
+0805 40 00 00 28,8
+0805 50 10 00 5
+0805 50 90 00 5
+0805 90 00 00 28,8
+0806 10 10 01 30
+0806 10 10 02 51
+0806 10 90 01 30
+0806 10 90 02 51
+0806 20 11 00 10
+0806 20 12 00 10
+0806 20 18 00 10
+0806 20 91 00 10
+0806 20 92 00 10
+Vámtarifaszám
+Vámtétel
+%
+0806 20 98 00 10
+0807 11 00 01 30
+0807 11 00 02 51
+0807 19 00 01 30
+0807 19 00 02 51
+0807 20 00 00 35
+0808 10 10 00 49,3
+0808 10 20 00 49,3
+0808 10 50 00 49,3
+0808 10 90 00 49,3
+0808 20 10 00 49,3
+0808 20 50 00 49,3
+0808 20 90 00 49,3
+0809 10 00 00 38,4
+0809 20 05 00 38,4
+0809 20 95 00 38,4
+0809 30 10 00 38,4
+0809 30 90 00 38,4
+0809 40 05 00 38,4
+0809 40 90 00 38,4
+0810 10 00 00 26,4
+0810 20 10 00 26,4
+0810 20 90 00 26,4
+0810 30 10 00 26,4
+0810 30 30 00 26,4
+0810 30 90 00 26,4
+0810 40 10 00 26,4
+0810 40 30 00 26,4
+0810 40 50 00 26,4
+0810 40 90 00 26,4
+0810 50 00 00 26,4
+0810 60 00 00 26,4
+0810 90 30 00 26,4
+0810 90 40 00 26,4
+0810 90 95 00 26,4
+0811 10 11 00 26,4
+0811 10 19 00 26,4
+
+Vámtarifaszám
+Vámtétel
+%
+0811 10 90 00 26,4
+0811 20 11 00 26,4
+0811 20 19 00 26,4
+0811 20 31 00 26,4
+0811 20 39 00 26,4
+0811 20 51 00 26,4
+0811 20 59 00 26,4
+0811 20 90 00 26,4
+0811 90 11 00 26,4
+0811 90 19 00 26,4
+0811 90 31 00 26,4
+0811 90 39 00 26,4
+0811 90 50 00 26,4
+0811 90 70 00 26,4
+0811 90 75 00 26,4
+0811 90 80 00 26,4
+0811 90 85 00 26,4
+0811 90 95 00 26,4
+0812 10 00 00 34
+0812 90 10 00 34
+0812 90 20 00 34
+0812 90 30 00 34
+0812 90 40 00 34
+0812 90 50 00 34
+0812 90 60 00 34
+0812 90 70 00 34
+0812 90 99 01 34
+0812 90 99 99 34
+0813 10 00 00 34
+0813 20 00 00 34
+0813 30 00 00 34
+0813 40 10 00 34
+0813 40 30 00 34
+0813 40 50 00 34
+0813 40 60 00 34
+0813 40 70 00 34
+0813 40 95 00 34
+Vámtarifaszám
+Vámtétel
+%
+0813 50 12 00 34
+0813 50 15 00 34
+0813 50 19 00 34
+0813 50 31 00 34
+0813 50 39 00 34
+0813 50 91 00 34
+0813 50 99 00 34
+0814 00 00 00 5,1
+0901 11 00 00 20
+0901 12 00 00 20
+0901 21 00 00 42,5
+0901 22 00 00 42,5
+0901 90 10 00 25,5
+0901 90 90 00 46,8
+0902 10 00 00 34
+0902 20 00 00 34
+0902 30 00 00 34
+0902 40 00 00 34
+0903 00 00 00 34
+0904 11 00 00 40
+0904 12 00 00 40
+0904 20 10 00 44,2
+0904 20 30 00 44,2
+0904 20 90 00 44,2
+0905 00 00 00 8,5
+0906 10 00 00 8,5
+0906 20 00 00 8,5
+0907 00 00 00 8,5
+0908 10 00 00 8,5
+0908 20 00 00 8,5
+0908 30 00 00 8,5
+0909 10 00 00 8,5
+0909 20 00 00 8,5
+0909 30 00 00 8,5
+0909 40 00 00 8,5
+0909 50 00 00 8,5
+0910 10 00 00 9,6
+Vámtarifaszám
+Vámtétel
+%
+0910 20 10 00 9,6
+0910 20 90 00 9,6
+0910 30 00 00 9,6
+0910 40 11 00 9,6
+0910 40 13 00 9,6
+0910 40 19 00 9,6
+0910 40 90 00 9,6
+0910 50 00 00 9,6
+0910 91 10 00 9,6
+0910 91 90 00 9,6
+0910 99 10 00 9,6
+0910 99 91 00 9,6
+0910 99 99 00 9,6
+1001 10 00 01 20
+1001 10 00 99 32
+1001 90 10 00 20
+1001 90 91 00 20
+1001 90 99 00 32
+1002 00 00 01 20
+1002 00 00 99 20
+1003 00 10 00 20,5
+1003 00 90 00 32,5
+1004 00 00 01 20
+1004 00 00 99 32
+1005 10 11 00 20
+1005 10 13 00 20
+1005 10 15 00 20
+1005 10 19 00 20
+1005 10 90 00 20
+1005 90 00 00 32
+1006 10 10 00 10
+1006 10 21 00 10
+1006 10 23 00 10
+1006 10 25 00 10
+1006 10 27 00 10
+1006 10 92 00 10
+1006 10 94 00 10
+Vámtarifaszám
+Vámtétel
+%
+1006 10 96 00 10
+1006 10 98 00 10
+1006 20 11 00 63,4
+1006 20 13 00 63,4
+1006 20 15 00 63,4
+1006 20 17 00 63,4
+1006 20 92 00 63,4
+1006 20 94 00 63,4
+1006 20 96 00 63,4
+1006 20 98 00 63,4
+1006 30 21 00 39,6
+1006 30 23 00 39,6
+1006 30 25 00 39,6
+1006 30 27 00 39,6
+1006 30 42 00 39,6
+1006 30 44 00 39,6
+1006 30 46 00 39,6
+1006 30 48 00 39,6
+1006 30 61 00 39,6
+1006 30 63 00 39,6
+1006 30 65 00 39,6
+1006 30 67 00 39,6
+1006 30 92 00 39,6
+1006 30 94 00 39,6
+1006 30 96 00 39,6
+1006 30 98 00 39,6
+1006 40 00 00 63,4
+1007 00 10 00 0
+1007 00 90 00 0
+1008 10 00 00 0
+1008 20 00 00 0
+1008 30 00 00 0
+1008 90 10 00 0
+1008 90 90 00 0
+1101 00 11 00 38,4
+1101 00 15 00 38,4
+1101 00 90 00 38,4
+
+Vámtarifaszám
+Vámtétel
+%
+1102 10 00 00 38,4
+1102 20 10 00 38,4
+1102 20 90 00 38,4
+1102 30 00 00 38,4
+1102 90 10 00 38,4
+1102 90 30 00 38,4
+1102 90 90 00 38,4
+1103 11 10 00 38,4
+1103 11 90 00 38,4
+1103 13 10 00 38,4
+1103 13 90 00 38,4
+1103 19 10 00 38,4
+1103 19 30 00 38,4
+1103 19 40 00 38,4
+1103 19 50 00 38,4
+1103 19 90 00 38,4
+1103 20 10 00 38,4
+1103 20 20 00 38,4
+1103 20 30 00 38,4
+1103 20 40 00 38,4
+1103 20 50 00 38,4
+1103 20 60 00 38,4
+1103 20 90 00 38,4
+1104 12 10 00 38,4
+1104 12 90 00 38,4
+1104 19 10 00 38,4
+1104 19 30 00 38,4
+1104 19 50 00 38,4
+1104 19 61 00 38,4
+1104 19 69 00 38,4
+1104 19 91 00 38,4
+1104 19 99 00 38,4
+1104 22 20 00 38,4
+1104 22 30 00 38,4
+1104 22 50 00 38,4
+1104 22 90 00 38,4
+1104 22 98 00 38,4
+Vámtarifaszám
+Vámtétel
+%
+1104 23 10 00 38,4
+1104 23 30 00 38,4
+1104 23 90 00 38,4
+1104 23 99 00 38,4
+1104 29 01 00 38,4
+1104 29 03 00 38,4
+1104 29 05 00 38,4
+1104 29 07 00 38,4
+1104 29 09 00 38,4
+1104 29 11 00 38,4
+1104 29 15 00 38,4
+1104 29 19 00 38,4
+1104 29 31 00 38,4
+1104 29 35 00 38,4
+1104 29 39 00 38,4
+1104 29 51 00 38,4
+1104 29 55 00 38,4
+1104 29 59 00 38,4
+1104 29 81 00 38,4
+1104 29 85 00 38,4
+1104 29 89 00 38,4
+1104 30 10 00 38,4
+1104 30 90 00 38,4
+1105 10 00 00 38,4
+1105 20 00 00 38,4
+1106 10 00 01 29,8
+1106 10 00 02 21,3
+1106 20 10 00 42,5
+1106 20 90 00 42,5
+1106 30 10 00 8,5
+1106 30 90 00 17
+1107 10 11 00 20
+1107 10 19 00 20
+1107 10 91 00 20
+1107 10 99 00 20
+1107 20 00 00 20
+1108 11 00 00 25,5
+Vámtarifaszám
+Vámtétel
+%
+1108 12 00 00 25,5
+1108 13 00 00 25,5
+1108 14 00 00 25,5
+1108 19 10 00 25,5
+1108 19 90 00 25,5
+1108 20 00 00 25,5
+1109 00 00 00 25,5
+1201 00 10 00 0
+1201 00 90 00 0
+1202 10 10 00 0
+1202 10 90 01 8,5
+1202 10 90 99 0
+1202 20 00 01 8,5
+1202 20 00 99 0
+1203 00 00 00 0
+1204 00 10 00 0
+1204 00 90 00 0
+1205 10 10 00 0
+1205 10 90 00 0
+1205 90 00 00 0
+1206 00 10 00 0
+1206 00 91 00 0
+1206 00 99 00 0
+1207 10 10 00 0
+1207 10 90 00 0
+1207 20 10 00 0
+1207 20 90 00 0
+1207 30 10 00 0
+1207 30 90 00 0
+1207 40 10 00 0
+1207 40 90 00 0
+1207 50 10 00 0
+1207 50 90 00 0
+1207 60 10 00 0
+1207 60 90 00 0
+1207 91 10 00 0
+1207 91 90 00 0
+Vámtarifaszám
+Vámtétel
+%
+1207 99 20 00 0
+1207 99 91 00 0
+1207 99 98 01 2,6
+1207 99 98 99 0
+1208 10 00 01 5
+1208 10 00 99 4,3
+1208 90 00 00 4,3
+1209 10 00 00 0
+1209 21 00 00 0
+1209 22 10 00 0
+1209 22 80 00 0
+1209 23 11 00 0
+1209 23 15 00 0
+1209 23 80 00 0
+1209 24 00 00 0
+1209 25 10 00 0
+1209 25 90 00 0
+1209 26 00 00 0
+1209 29 10 00 0
+1209 29 50 00 0
+1209 29 60 00 0
+1209 29 80 00 0
+1209 30 00 00 0
+1209 91 10 00 0
+1209 91 30 00 0
+1209 91 90 00 0
+1209 99 10 00 0
+1209 99 91 00 0
+1209 99 99 00 0
+1210 10 00 00 7
+1210 20 10 00 7
+1210 20 90 00 7
+1211 10 00 00 0
+1211 20 00 00 0
+1211 30 00 00 0
+1211 40 00 00 4,3
+1211 90 30 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+1211 90 97 01 0
+1211 90 97 99 4,3
+1212 10 10 00 22,4
+1212 10 91 00 29,8
+1212 10 99 00 29,8
+1212 20 00 00 17,5
+1212 30 00 00 17,5
+1212 91 20 00 29,8
+1212 91 80 00 29,8
+1212 99 20 00 29,8
+1212 99 80 00 22,4
+1213 00 00 00 9,6
+1214 10 00 00 8,5
+1214 90 10 00 16
+1214 90 90 00 8,5
+1301 10 00 00 5,1
+1301 20 00 00 5,1
+1301 90 10 00 5,1
+1301 90 90 01 0
+1301 90 90 02 12,8
+1301 90 90 99 5,5
+1302 11 00 00 3,2
+1302 12 00 00 3,2
+1302 13 00 00 3,2
+1302 14 00 00 3,2
+1302 19 05 01 4,5
+1302 19 05 02 5,5
+1302 19 05 03 8,5
+1302 19 05 99 6
+1302 19 30 00 3,2
+1302 19 91 00 3,2
+1302 19 98 00 3,2
+1302 20 10 00 3,2
+1302 20 90 00 3,2
+1302 31 00 00 5
+1302 32 10 00 5
+1302 32 90 00 5
+Vámtarifaszám
+Vámtétel
+%
+1302 39 00 00 5
+1401 10 00 01 9,6
+1401 10 00 99 16
+1401 20 00 00 16
+1401 90 00 01 16
+1401 90 00 02 9,6
+1401 90 00 99 16
+1402 00 00 01 5,1
+1402 00 00 02 16
+1402 00 00 99 16
+1403 00 00 00 5,1
+1404 10 00 00 0
+1404 20 00 00 2,4
+1404 90 00 01 5,1
+1404 90 00 02 16
+1404 90 00 03 5,1
+1404 90 00 99 6,4
+1501 00 11 00 29,4
+1501 00 19 00 29,4
+1501 00 90 00 29,4
+1502 00 10 01 5,1
+1502 00 10 99 6,4
+1502 00 90 01 5,1
+1502 00 90 99 6,4
+1503 00 11 00 9,5
+1503 00 19 00 9,5
+1503 00 30 00 9,5
+1503 00 90 00 9,5
+1504 10 10 01 8
+1504 10 10 99 0
+1504 10 91 01 8
+1504 10 91 99 0
+1504 10 99 01 8
+1504 10 99 99 0
+1504 20 10 00 8
+1504 20 90 01 8
+1504 20 90 99 0
+Vámtarifaszám
+Vámtétel
+%
+1504 30 10 00 8
+1504 30 90 01 8
+1504 30 90 99 0
+1505 00 10 00 6,4
+1505 00 90 00 9,6
+1506 00 00 00 5,1
+1507 10 10 00 25
+1507 10 90 00 25
+1507 90 10 00 39,1
+1507 90 90 00 39,1
+1508 10 10 00 6,8
+1508 10 90 00 6,8
+1508 90 10 00 6,8
+1508 90 90 00 6,8
+1509 10 10 00 6,8
+1509 10 90 00 6,8
+1509 90 00 00 6,8
+1510 00 10 00 6,8
+1510 00 90 00 6,8
+1511 10 10 00 6,8
+1511 10 90 00 6,8
+1511 90 11 00 6,8
+1511 90 19 00 6,8
+1511 90 91 00 6,8
+1511 90 99 00 6,8
+1512 11 10 00 25
+1512 11 91 00 25
+1512 11 99 00 25
+1512 19 10 00 39,1
+1512 19 90 01 39,1
+1512 19 90 02 39,1
+1512 21 10 00 8
+1512 21 90 00 8
+1512 29 10 00 8
+1512 29 90 00 8
+1513 11 10 00 5,1
+1513 11 91 00 5,1
+Vámtarifaszám
+Vámtétel
+%
+1513 11 99 00 5,1
+1513 19 11 00 5,1
+1513 19 19 00 5,1
+1513 19 30 00 5,1
+1513 19 91 00 5,1
+1513 19 99 00 5,1
+1513 21 10 00 5,1
+1513 21 30 00 5,1
+1513 21 90 00 5,1
+1513 29 11 00 5,1
+1513 29 19 00 5,1
+1513 29 30 00 5,1
+1513 29 50 00 5,1
+1513 29 90 00 5,1
+1514 11 10 00 25
+1514 11 90 00 25
+1514 19 10 00 39,1
+1514 19 90 00 39,1
+1514 91 10 00 39,1
+1514 91 90 00 39,1
+1514 99 10 00 39,1
+1514 99 90 00 39,1
+1515 11 00 00 6,8
+1515 19 10 00 6,8
+1515 19 90 00 6,8
+1515 21 10 00 6,8
+1515 21 90 00 6,8
+1515 29 10 00 6,8
+1515 29 90 00 6,8
+1515 30 10 01 12,8
+1515 30 10 02 6,8
+1515 30 90 01 12,8
+1515 30 90 02 6,8
+1515 40 00 01 8,5
+1515 40 00 99 6,8
+1515 50 11 00 6,8
+1515 50 19 00 6,8
+
+Vámtarifaszám
+Vámtétel
+%
+1515 50 91 00 6,8
+1515 50 99 00 6,8
+1515 90 15 01 4,3
+1515 90 15 99 6,8
+1515 90 21 00 6,8
+1515 90 29 00 6,8
+1515 90 31 00 6,8
+1515 90 39 00 6,8
+1515 90 40 00 6,8
+1515 90 51 00 6,8
+1515 90 59 00 6,8
+1515 90 60 00 6,8
+1515 90 91 00 6,8
+1515 90 99 00 6,8
+1516 10 10 01 3,4
+1516 10 10 02 8,5
+1516 10 10 99 8,5
+1516 10 90 01 3,4
+1516 10 90 02 8,5
+1516 10 90 99 8,5
+1516 20 10 00 8,9
+1516 20 91 00 8,9
+1516 20 95 00 8,9
+1516 20 96 00 8,9
+1516 20 98 00 8,9
+1517 10 10 00 40
+1517 10 90 00 40
+1517 90 10 00 40
+1517 90 91 00 40
+1517 90 93 00 40
+1517 90 99 00 40
+1518 00 10 00 6,8
+1518 00 31 00 29,8
+1518 00 39 00 29,8
+1518 00 91 00 29,8
+1518 00 95 00 8,5
+1518 00 99 01 6,8
+Vámtarifaszám
+Vámtétel
+%
+1518 00 99 99 29,8
+1520 00 00 00 6,8
+1521 10 00 00 4,3
+1521 90 10 00 6,8
+1521 90 91 00 17
+1521 90 99 00 17
+1522 00 10 00 29,8
+1522 00 31 00 12,8
+1522 00 39 00 6,8
+1522 00 91 00 12,8
+1522 00 99 00 6,8
+1601 00 10 00 48
+1601 00 91 00 48
+1601 00 99 00 48
+1602 10 00 00 49,9
+1602 20 11 00 49,9
+1602 20 19 00 49,9
+1602 20 90 00 49,9
+1602 31 11 00 49,9
+1602 31 19 00 49,9
+1602 31 30 00 49,9
+1602 31 90 00 49,9
+1602 32 11 00 49,9
+1602 32 19 00 49,9
+1602 32 30 00 49,9
+1602 32 90 00 49,9
+1602 39 21 00 49,9
+1602 39 29 00 49,9
+1602 39 40 00 49,9
+1602 39 80 00 49,9
+1602 41 10 00 49,9
+1602 41 90 00 49,9
+1602 42 10 00 49,9
+1602 42 90 00 49,9
+1602 49 11 00 49,9
+1602 49 13 00 49,9
+1602 49 15 00 49,9
+Vámtarifaszám
+Vámtétel
+%
+1602 49 19 00 49,9
+1602 49 30 00 49,9
+1602 49 50 00 49,9
+1602 49 90 00 49,9
+1602 50 10 00 49,9
+1602 50 31 00 49,9
+1602 50 39 00 49,9
+1602 50 80 00 49,9
+1602 90 10 00 49,9
+1602 90 31 00 49,9
+1602 90 41 00 49,9
+1602 90 51 00 49,9
+1602 90 61 00 49,9
+1602 90 69 00 49,9
+1602 90 72 00 49,9
+1602 90 74 00 49,9
+1602 90 76 00 49,9
+1602 90 78 00 49,9
+1602 90 98 00 49,9
+1603 00 10 01 31,2
+1603 00 10 99 31,2
+1603 00 80 01 31,2
+1603 00 80 02 31,2
+1603 00 80 99 31,2
+1604 11 00 00 24
+1604 12 10 00 24
+1604 12 91 00 24
+1604 12 99 00 24
+1604 13 11 00 24
+1604 13 19 00 24
+1604 13 90 00 24
+1604 14 11 00 24
+1604 14 16 00 24
+1604 14 18 00 24
+1604 14 90 00 24
+1604 15 11 00 24
+1604 15 19 00 24
+Vámtarifaszám
+Vámtétel
+%
+1604 15 90 00 24
+1604 16 00 00 24
+1604 19 10 00 24
+1604 19 31 00 24
+1604 19 39 00 24
+1604 19 50 00 24
+1604 19 91 00 24
+1604 19 92 00 24
+1604 19 93 00 24
+1604 19 94 00 24
+1604 19 95 00 24
+1604 19 98 00 24
+1604 20 05 00 24
+1604 20 10 00 24
+1604 20 30 00 24
+1604 20 40 00 24
+1604 20 50 00 24
+1604 20 70 00 24
+1604 20 90 00 24
+1604 30 10 00 24
+1604 30 90 00 24
+1605 10 00 00 45
+1605 20 10 00 45
+1605 20 91 00 45
+1605 20 99 00 45
+1605 30 10 00 45
+1605 30 90 00 45
+1605 40 00 00 45
+1605 90 11 00 45
+1605 90 19 00 45
+1605 90 30 00 45
+1605 90 90 00 25
+1701 11 10 00 68
+1701 11 90 00 68
+1701 12 10 00 68
+1701 12 90 00 68
+1701 91 00 00 63,8
+
+Vámtarifaszám
+Vámtétel
+%
+1701 99 10 00 68
+1701 99 90 00 68
+1702 11 00 00 63,8
+1702 19 00 00 63,8
+1702 20 10 00 63,8
+1702 20 90 00 63,8
+1702 30 10 00 63,8
+1702 30 51 00 63,8
+1702 30 59 00 63,8
+1702 30 91 00 63,8
+1702 30 99 00 63,8
+1702 40 10 00 63,8
+1702 40 90 00 63,8
+1702 50 00 00 63,8
+1702 60 10 00 63,8
+1702 60 80 00 63,8
+1702 60 95 00 63,8
+1702 90 10 00 63,8
+1702 90 30 00 63,8
+1702 90 50 00 63,8
+1702 90 60 00 63,8
+1702 90 71 00 63,8
+1702 90 75 00 63,8
+1702 90 79 00 63,8
+1702 90 80 00 63,8
+1702 90 99 00 63,8
+1703 10 00 01 48
+1703 10 00 99 25,5
+1703 90 00 01 48
+1703 90 00 99 25,5
+1704 10 11 00 68
+1704 10 19 00 68
+1704 10 91 00 68
+1704 10 99 00 68
+1704 90 10 00 68
+1704 90 30 00 51,2
+1704 90 51 00 51,2
+Vámtarifaszám
+Vámtétel
+%
+1704 90 55 00 51,2
+1704 90 61 00 51,2
+1704 90 65 00 51,2
+1704 90 71 00 51,2
+1704 90 75 00 51,2
+1704 90 81 00 51,2
+1704 90 99 00 51,2
+1801 00 00 00 3,2
+1802 00 00 00 12,8
+1803 10 00 00 9,6
+1803 20 00 00 9,6
+1804 00 00 00 9,6
+1805 00 00 01 19,2
+1805 00 00 99 19,2
+1806 10 15 00 42,5
+1806 10 20 00 42,5
+1806 10 30 00 42,5
+1806 10 90 00 42,5
+1806 20 10 01 10
+1806 20 10 99 30
+1806 20 30 01 10
+1806 20 30 99 30
+1806 20 50 01 10
+1806 20 50 99 30
+1806 20 70 00 30
+1806 20 80 00 30
+1806 20 95 01 10
+1806 20 95 02 10
+1806 20 95 99 30
+1806 31 00 01 10
+1806 31 00 99 30
+1806 32 10 01 10
+1806 32 10 02 10
+1806 32 10 99 30
+1806 32 90 01 10
+1806 32 90 02 10
+1806 32 90 99 30
+Vámtarifaszám
+Vámtétel
+%
+1806 90 11 00 30
+1806 90 19 01 10
+1806 90 19 99 30
+1806 90 31 01 10
+1806 90 31 99 30
+1806 90 39 01 10
+1806 90 39 99 30
+1806 90 50 01 10
+1806 90 50 99 30
+1806 90 60 01 10
+1806 90 60 99 30
+1806 90 70 01 10
+1806 90 70 99 30
+1806 90 90 01 10
+1806 90 90 99 30
+1901 10 00 01 0
+1901 10 00 02 0
+1901 10 00 99 20
+1901 20 00 00 32
+1901 90 11 00 32
+1901 90 19 00 32
+1901 90 91 00 32
+1901 90 99 00 32
+1902 11 00 00 38,4
+1902 19 10 00 38,4
+1902 19 90 00 38,4
+1902 20 10 00 38,4
+1902 20 30 00 38,4
+1902 20 91 00 38,4
+1902 20 99 00 38,4
+1902 30 10 00 38,4
+1902 30 90 00 38,4
+1902 40 10 00 38,4
+1902 40 90 00 38,4
+1903 00 00 01 38,4
+1903 00 00 99 32
+1904 10 10 00 36
+Vámtarifaszám
+Vámtétel
+%
+1904 10 30 00 36
+1904 10 90 00 36
+1904 20 10 00 12,8
+1904 20 91 00 36
+1904 20 95 00 36
+1904 20 99 00 36
+1904 30 00 00 38,4
+1904 90 10 00 38,4
+1904 90 80 00 38,4
+1905 10 00 00 51,2
+1905 20 10 00 51,2
+1905 20 30 00 51,2
+1905 20 90 00 51,2
+1905 31 11 01 10
+1905 31 11 99 51,2
+1905 31 19 01 10
+1905 31 19 99 51,2
+1905 31 30 01 10
+1905 31 30 99 51,2
+1905 31 91 01 10
+1905 31 91 99 51,2
+1905 31 99 01 10
+1905 31 99 99 51,2
+1905 32 05 00 51,2
+1905 32 11 01 10
+1905 32 11 99 51,2
+1905 32 19 01 10
+1905 32 19 99 51,2
+1905 32 91 01 10
+1905 32 91 99 51,2
+1905 32 99 01 10
+1905 32 99 99 51,2
+1905 40 10 01 10
+1905 40 10 99 51,2
+1905 40 90 01 10
+1905 40 90 99 51,2
+1905 90 10 00 51,2
+
+Vámtarifaszám
+Vámtétel
+%
+1905 90 20 00 51,2
+1905 90 30 01 10
+1905 90 30 99 51,2
+1905 90 45 01 10
+1905 90 45 99 51,2
+1905 90 55 01 10
+1905 90 55 99 51,2
+1905 90 60 01 10
+1905 90 60 99 51,2
+1905 90 90 01 10
+1905 90 90 99 51,2
+2001 10 00 00 30,1
+2001 90 10 00 30,1
+2001 90 20 00 30,1
+2001 90 30 00 30,1
+2001 90 40 00 30,1
+2001 90 50 00 30,1
+2001 90 60 00 30,1
+2001 90 65 00 30,1
+2001 90 70 00 30,1
+2001 90 91 00 30,1
+2001 90 93 00 30,1
+2001 90 99 00 30,1
+2002 10 10 00 40
+2002 10 90 00 40
+2002 90 11 00 40
+2002 90 19 00 40
+2002 90 31 00 40
+2002 90 39 00 40
+2002 90 91 00 40
+2002 90 99 00 40
+2003 10 20 00 30,1
+2003 10 30 00 30,1
+2003 20 00 00 30,1
+2003 90 00 00 30,1
+2004 10 10 00 30,1
+2004 10 91 00 30,1
+Vámtarifaszám
+Vámtétel
+%
+2004 10 99 00 30,1
+2004 90 10 00 30,1
+2004 90 30 00 30,1
+2004 90 50 00 30,1
+2004 90 91 00 30,1
+2004 90 98 00 30,1
+2005 10 00 00 30,1
+2005 20 10 00 30,1
+2005 20 20 00 30,1
+2005 20 80 00 30,1
+2005 40 00 00 30,1
+2005 51 00 00 30,1
+2005 59 00 00 30,1
+2005 60 00 00 30,1
+2005 70 10 00 30,1
+2005 70 90 00 30,1
+2005 80 00 00 30,1
+2005 90 10 00 30,1
+2005 90 30 00 30,1
+2005 90 50 00 30,1
+2005 90 60 00 30,1
+2005 90 70 00 30,1
+2005 90 75 00 30,1
+2005 90 80 00 30,1
+2006 00 10 00 31,4
+2006 00 31 00 31,4
+2006 00 35 00 31,4
+2006 00 38 01 31,4
+2006 00 38 99 31,4
+2006 00 91 00 31,4
+2006 00 99 01 31,4
+2006 00 99 99 31,4
+2007 10 10 00 31,4
+2007 10 91 00 31,4
+2007 10 99 00 31,4
+2007 91 10 00 31,4
+2007 91 30 00 31,4
+Vámtarifaszám
+Vámtétel
+%
+2007 91 90 01 10
+2007 91 90 99 31,4
+2007 99 10 00 31,4
+2007 99 20 00 31,4
+2007 99 31 00 31,4
+2007 99 33 00 31,4
+2007 99 35 00 31,4
+2007 99 39 00 31,4
+2007 99 55 00 31,4
+2007 99 57 00 31,4
+2007 99 91 01 10
+2007 99 91 99 31,4
+2007 99 93 01 10
+2007 99 93 99 31,4
+2007 99 98 01 10
+2007 99 98 99 31,4
+2008 11 10 00 31,4
+2008 11 92 00 31,4
+2008 11 94 00 31,4
+2008 11 96 00 31,4
+2008 11 98 00 31,4
+2008 19 11 00 31,4
+2008 19 13 00 31,4
+2008 19 19 00 31,4
+2008 19 91 00 31,4
+2008 19 93 00 31,4
+2008 19 95 00 31,4
+2008 19 99 00 31,4
+2008 20 11 00 31,4
+2008 20 19 00 31,4
+2008 20 31 00 31,4
+2008 20 39 00 31,4
+2008 20 51 00 31,4
+2008 20 59 00 31,4
+2008 20 71 00 31,4
+2008 20 79 00 31,4
+2008 20 90 00 31,4
+Vámtarifaszám
+Vámtétel
+%
+2008 30 11 00 31,4
+2008 30 19 00 31,4
+2008 30 31 00 31,4
+2008 30 39 00 31,4
+2008 30 51 00 31,4
+2008 30 55 00 31,4
+2008 30 59 00 31,4
+2008 30 71 00 31,4
+2008 30 75 00 31,4
+2008 30 79 00 31,4
+2008 30 90 00 31,4
+2008 40 11 00 31,4
+2008 40 19 00 31,4
+2008 40 21 00 31,4
+2008 40 29 00 31,4
+2008 40 31 00 31,4
+2008 40 39 00 31,4
+2008 40 51 00 31,4
+2008 40 59 00 31,4
+2008 40 71 00 31,4
+2008 40 79 00 31,4
+2008 40 90 00 31,4
+2008 50 11 00 31,4
+2008 50 19 00 31,4
+2008 50 31 00 31,4
+2008 50 39 00 31,4
+2008 50 51 00 31,4
+2008 50 59 00 31,4
+2008 50 61 00 31,4
+2008 50 69 00 31,4
+2008 50 71 00 31,4
+2008 50 79 00 31,4
+2008 50 92 00 31,4
+2008 50 94 00 31,4
+2008 50 99 00 31,4
+2008 60 11 00 31,4
+2008 60 19 00 31,4
+
+Vámtarifaszám
+Vámtétel
+%
+2008 60 31 00 31,4
+2008 60 39 00 31,4
+2008 60 51 00 31,4
+2008 60 59 00 31,4
+2008 60 61 00 31,4
+2008 60 69 00 31,4
+2008 60 71 00 31,4
+2008 60 79 00 31,4
+2008 60 91 00 31,4
+2008 60 99 00 31,4
+2008 70 11 00 31,4
+2008 70 19 00 31,4
+2008 70 31 00 31,4
+2008 70 39 00 31,4
+2008 70 51 00 31,4
+2008 70 59 00 31,4
+2008 70 61 00 31,4
+2008 70 69 00 31,4
+2008 70 71 00 31,4
+2008 70 79 00 31,4
+2008 70 92 00 31,4
+2008 70 98 00 31,4
+2008 80 11 00 31,4
+2008 80 19 00 31,4
+2008 80 31 00 31,4
+2008 80 39 00 31,4
+2008 80 50 00 31,4
+2008 80 70 00 31,4
+2008 80 90 00 31,4
+2008 91 00 00 12,8
+2008 92 12 01 12,8
+2008 92 12 99 17
+2008 92 14 01 12,8
+2008 92 14 99 17
+2008 92 16 01 12,8
+2008 92 16 99 17
+2008 92 18 01 12,8
+Vámtarifaszám
+Vámtétel
+%
+2008 92 18 99 17
+2008 92 32 01 12,8
+2008 92 32 99 17
+2008 92 34 01 12,8
+2008 92 34 99 17
+2008 92 36 01 12,8
+2008 92 36 99 17
+2008 92 38 01 12,8
+2008 92 38 99 17
+2008 92 51 01 12,8
+2008 92 51 99 17
+2008 92 59 01 12,8
+2008 92 59 99 17
+2008 92 72 01 12,8
+2008 92 72 99 17
+2008 92 74 01 12,8
+2008 92 74 99 17
+2008 92 76 01 12,8
+2008 92 76 99 17
+2008 92 78 01 12,8
+2008 92 78 99 17
+2008 92 92 01 12,8
+2008 92 92 99 17
+2008 92 93 01 12,8
+2008 92 93 99 17
+2008 92 94 01 12,8
+2008 92 94 99 17
+2008 92 96 01 12,8
+2008 92 96 99 17
+2008 92 97 01 12,8
+2008 92 97 99 17
+2008 92 98 01 12,8
+2008 92 98 99 17
+2008 99 11 00 17
+2008 99 19 00 17
+2008 99 21 00 17
+2008 99 23 00 17
+Vámtarifaszám
+Vámtétel
+%
+2008 99 25 00 17
+2008 99 26 00 17
+2008 99 28 00 17
+2008 99 32 00 17
+2008 99 33 00 17
+2008 99 34 00 17
+2008 99 36 00 17
+2008 99 37 00 17
+2008 99 38 00 17
+2008 99 40 00 17
+2008 99 41 00 17
+2008 99 43 00 17
+2008 99 45 00 17
+2008 99 46 00 17
+2008 99 47 00 17
+2008 99 49 00 17
+2008 99 51 00 17
+2008 99 61 00 17
+2008 99 62 00 17
+2008 99 67 00 17
+2008 99 72 00 17
+2008 99 78 00 17
+2008 99 85 00 17
+2008 99 91 00 17
+2008 99 99 00 17
+2009 11 11 00 29,4
+2009 11 19 00 29,4
+2009 11 91 00 29,4
+2009 11 99 00 29,4
+2009 12 00 00 29,4
+2009 19 11 00 31,4
+2009 19 19 00 31,4
+2009 19 91 00 31,4
+2009 19 98 00 31,4
+2009 21 00 00 31,4
+2009 29 11 00 31,4
+2009 29 19 00 31,4
+Vámtarifaszám
+Vámtétel
+%
+2009 29 91 00 31,4
+2009 29 99 00 31,4
+2009 31 11 00 31,4
+2009 31 19 00 31,4
+2009 31 51 00 31,4
+2009 31 59 00 31,4
+2009 31 91 00 31,4
+2009 31 99 00 31,4
+2009 39 11 00 31,4
+2009 39 19 00 31,4
+2009 39 31 00 31,4
+2009 39 39 00 31,4
+2009 39 51 00 31,4
+2009 39 55 00 31,4
+2009 39 59 00 31,4
+2009 39 91 00 31,4
+2009 39 95 00 31,4
+2009 39 99 00 31,4
+2009 41 10 00 31,4
+2009 41 91 00 31,4
+2009 41 99 00 31,4
+2009 49 11 00 31,4
+2009 49 19 00 31,4
+2009 49 30 00 31,4
+2009 49 91 00 31,4
+2009 49 93 00 31,4
+2009 49 99 00 31,4
+2009 50 10 00 39,2
+2009 50 90 00 39,2
+2009 61 10 00 39,2
+2009 61 90 00 39,2
+2009 69 11 00 39,2
+2009 69 19 00 39,2
+2009 69 51 00 39,2
+2009 69 59 00 39,2
+2009 69 71 00 39,2
+2009 69 79 00 39,2
+
+Vámtarifaszám
+Vámtétel
+%
+2009 69 90 00 39,2
+2009 71 10 00 39,2
+2009 71 91 00 39,2
+2009 71 99 00 39,2
+2009 79 11 00 39,2
+2009 79 19 00 39,2
+2009 79 30 00 39,2
+2009 79 91 00 39,2
+2009 79 93 00 39,2
+2009 79 99 00 39,2
+2009 80 11 00 39,2
+2009 80 19 00 39,2
+2009 80 32 00 39,2
+2009 80 33 00 39,2
+2009 80 35 00 39,2
+2009 80 36 00 39,2
+2009 80 38 00 39,2
+2009 80 50 00 39,2
+2009 80 61 00 39,2
+2009 80 63 00 39,2
+2009 80 69 00 39,2
+2009 80 71 00 39,2
+2009 80 73 00 39,2
+2009 80 79 00 39,2
+2009 80 83 00 39,2
+2009 80 84 00 39,2
+2009 80 86 00 39,2
+2009 80 88 00 39,2
+2009 80 89 00 39,2
+2009 80 95 00 39,2
+2009 80 96 00 39,2
+2009 80 97 00 39,2
+2009 80 99 00 39,2
+2009 90 11 00 39,2
+2009 90 19 00 39,2
+2009 90 21 00 39,2
+2009 90 29 00 39,2
+Vámtarifaszám
+Vámtétel
+%
+2009 90 31 00 39,2
+2009 90 39 00 39,2
+2009 90 41 00 39,2
+2009 90 49 00 39,2
+2009 90 51 00 39,2
+2009 90 59 00 39,2
+2009 90 71 00 39,2
+2009 90 73 00 39,2
+2009 90 79 00 39,2
+2009 90 92 00 39,2
+2009 90 94 00 39,2
+2009 90 95 00 39,2
+2009 90 96 00 39,2
+2009 90 97 00 39,2
+2009 90 98 00 39,2
+2101 11 11 00 35
+2101 11 19 00 35
+2101 12 92 00 35
+2101 12 98 00 35
+2101 20 20 00 35
+2101 20 92 00 35
+2101 20 98 00 35
+2101 30 11 00 35
+2101 30 19 00 35
+2101 30 91 00 35
+2101 30 99 00 35
+2102 10 10 00 17
+2102 10 31 00 17
+2102 10 39 00 17
+2102 10 90 00 17
+2102 20 11 01 0
+2102 20 11 99 17
+2102 20 19 01 0
+2102 20 19 99 17
+2102 20 90 00 8,5
+2102 30 00 00 17
+2103 10 00 00 19,2
+Vámtarifaszám
+Vámtétel
+%
+2103 20 00 00 32
+2103 30 10 00 32
+2103 30 90 00 32
+2103 90 10 00 32
+2103 90 30 00 32
+2103 90 90 00 32
+2104 10 10 00 32
+2104 10 90 00 32
+2104 20 00 00 32
+2105 00 10 00 51,2
+2105 00 91 00 51,2
+2105 00 99 00 51,2
+2106 10 20 00 15
+2106 10 80 00 15
+2106 90 10 00 51,2
+2106 90 20 00 68
+2106 90 30 00 51,2
+2106 90 51 00 51,2
+2106 90 55 00 51,2
+2106 90 59 00 51,2
+2106 90 92 01 0
+2106 90 92 99 51,2
+2106 90 98 01 0
+2106 90 98 99 51,2
+2201 10 11 00 16
+2201 10 19 00 16
+2201 10 90 00 16
+2201 90 00 00 16
+2202 10 00 00 34
+2202 90 10 00 34
+2202 90 91 00 34
+2202 90 95 00 34
+2202 90 99 00 34
+2203 00 01 00 68
+2203 00 09 00 68
+2203 00 10 00 68
+2204 10 11 00 62,9
+Vámtarifaszám
+Vámtétel
+%
+2204 10 19 00 62,9
+2204 10 91 00 62,9
+2204 10 99 00 62,9
+2204 21 10 00 62,9
+2204 21 11 00 62,9
+2204 21 12 00 62,9
+2204 21 13 00 62,9
+2204 21 17 00 62,9
+2204 21 18 00 62,9
+2204 21 19 00 62,9
+2204 21 22 00 62,9
+2204 21 24 00 62,9
+2204 21 26 00 62,9
+2204 21 27 00 62,9
+2204 21 28 00 62,9
+2204 21 32 00 62,9
+2204 21 34 00 62,9
+2204 21 36 00 62,9
+2204 21 37 00 62,9
+2204 21 38 00 62,9
+2204 21 42 00 62,9
+2204 21 43 00 62,9
+2204 21 44 00 62,9
+2204 21 46 00 62,9
+2204 21 47 00 62,9
+2204 21 48 00 62,9
+2204 21 62 00 62,9
+2204 21 66 00 62,9
+2204 21 67 00 62,9
+2204 21 68 00 62,9
+2204 21 69 00 62,9
+2204 21 71 00 62,9
+2204 21 74 00 62,9
+2204 21 76 00 62,9
+2204 21 77 00 62,9
+2204 21 78 00 62,9
+2204 21 79 00 62,9
+
+Vámtarifaszám
+Vámtétel
+%
+2204 21 80 00 62,9
+2204 21 81 00 62,9
+2204 21 82 00 62,9
+2204 21 83 00 62,9
+2204 21 84 00 62,9
+2204 21 87 00 68
+2204 21 88 00 68
+2204 21 89 00 68
+2204 21 91 00 68
+2204 21 92 00 68
+2204 21 93 00 68
+2204 21 94 01 68
+2204 21 94 99 62,9
+2204 21 95 00 68
+2204 21 96 00 68
+2204 21 97 00 62,9
+2204 21 98 01 68
+2204 21 98 99 62,9
+2204 21 99 01 68
+2204 21 99 99 62,9
+2204 29 10 00 62,9
+2204 29 12 00 62,9
+2204 29 13 00 62,9
+2204 29 17 00 62,9
+2204 29 18 00 62,9
+2204 29 42 00 62,9
+2204 29 43 00 62,9
+2204 29 44 00 62,9
+2204 29 46 00 62,9
+2204 29 47 00 62,9
+2204 29 48 00 62,9
+2204 29 58 00 62,9
+2204 29 62 00 62,9
+2204 29 64 00 62,9
+2204 29 65 00 62,9
+2204 29 71 00 62,9
+2204 29 72 00 62,9
+Vámtarifaszám
+Vámtétel
+%
+2204 29 75 00 62,9
+2204 29 81 00 62,9
+2204 29 82 00 62,9
+2204 29 83 00 62,9
+2204 29 84 00 62,9
+2204 29 87 00 68
+2204 29 88 00 68
+2204 29 89 00 68
+2204 29 91 00 68
+2204 29 92 00 68
+2204 29 93 00 62,9
+2204 29 94 01 68
+2204 29 94 99 62,9
+2204 29 95 00 68
+2204 29 96 00 68
+2204 29 97 00 62,9
+2204 29 98 01 68
+2204 29 98 99 62,9
+2204 29 99 01 68
+2204 29 99 99 62,9
+2204 30 10 00 62,9
+2204 30 92 00 62,9
+2204 30 94 00 62,9
+2204 30 96 00 62,9
+2204 30 98 00 62,9
+2205 10 10 00 85
+2205 10 90 00 85
+2205 90 10 00 85
+2205 90 90 00 85
+2206 00 10 00 47,4
+2206 00 31 01 51,2
+2206 00 31 99 47,4
+2206 00 39 01 51,2
+2206 00 39 99 47,4
+2206 00 51 01 51,2
+2206 00 51 99 47,4
+2206 00 59 01 51,2
+Vámtarifaszám
+Vámtétel
+%
+2206 00 59 99 47,4
+2206 00 81 01 51,2
+2206 00 81 99 47,4
+2206 00 89 01 51,2
+2206 00 89 99 47,4
+2207 10 00 00 127,5
+2207 20 00 00 102
+2208 20 12 00 68
+2208 20 14 00 68
+2208 20 26 00 68
+2208 20 27 00 68
+2208 20 29 00 68
+2208 20 40 00 68
+2208 20 62 00 68
+2208 20 64 00 68
+2208 20 86 00 68
+2208 20 87 00 68
+2208 20 89 00 68
+2208 30 11 00 68
+2208 30 19 00 68
+2208 30 32 00 68
+2208 30 38 00 68
+2208 30 52 00 68
+2208 30 58 00 68
+2208 30 72 00 68
+2208 30 78 00 68
+2208 30 82 00 68
+2208 30 88 00 68
+2208 40 11 00 68
+2208 40 31 00 68
+2208 40 39 00 68
+2208 40 51 00 68
+2208 40 91 00 68
+2208 40 99 00 68
+2208 50 11 00 68
+2208 50 19 00 68
+2208 50 91 00 68
+Vámtarifaszám
+Vámtétel
+%
+2208 50 99 00 68
+2208 60 11 00 68
+2208 60 19 00 68
+2208 60 91 00 68
+2208 60 99 00 68
+2208 70 10 00 68
+2208 70 90 00 68
+2208 90 11 00 68
+2208 90 19 00 68
+2208 90 33 00 68
+2208 90 38 00 68
+2208 90 41 00 68
+2208 90 45 00 68
+2208 90 48 00 68
+2208 90 52 00 68
+2208 90 54 00 68
+2208 90 56 00 68
+2208 90 69 00 68
+2208 90 71 00 68
+2208 90 75 00 68
+2208 90 77 00 68
+2208 90 78 00 68
+2208 90 91 00 68
+2208 90 99 00 68
+2209 00 11 00 44,8
+2209 00 19 00 32
+2209 00 91 00 44,8
+2209 00 99 00 32
+2301 10 00 00 15
+2301 20 00 00 0
+2302 10 10 00 12,8
+2302 10 90 00 12,8
+2302 20 10 00 12,8
+2302 20 90 00 12,8
+2302 30 10 00 12,8
+2302 30 90 00 12,8
+2302 40 10 00 12,8
+
+Vámtarifaszám
+Vámtétel
+%
+2302 40 90 00 12,8
+2302 50 00 00 12,8
+2303 10 11 00 0
+2303 10 19 00 0
+2303 10 90 00 0
+2303 20 11 00 0
+2303 20 18 00 0
+2303 20 90 00 0
+2303 30 00 00 0
+2304 00 00 00 0
+2305 00 00 00 0
+2306 10 00 00 0
+2306 20 00 00 0
+2306 30 00 00 0
+2306 41 00 00 0
+2306 49 00 00 0
+2306 50 00 00 0
+2306 60 00 00 0
+2306 70 00 00 0
+2306 90 11 00 0
+2306 90 19 00 0
+2306 90 90 00 0
+2307 00 11 00 32
+2307 00 19 00 32
+2307 00 90 00 32
+2308 00 11 00 6,4
+2308 00 19 00 6,4
+2308 00 40 00 6,4
+2308 00 90 00 6,4
+2309 10 11 00 6,4
+2309 10 13 00 6,4
+2309 10 15 00 6,4
+2309 10 19 00 6,4
+2309 10 31 00 6,4
+2309 10 33 00 6,4
+2309 10 39 00 6,4
+2309 10 51 00 6,4
+Vámtarifaszám
+Vámtétel
+%
+2309 10 53 00 6,4
+2309 10 59 00 6,4
+2309 10 70 00 6,4
+2309 10 90 00 6,4
+2309 90 10 00 6,4
+2309 90 20 00 6,4
+2309 90 31 00 6,4
+2309 90 33 00 6,4
+2309 90 35 00 6,4
+2309 90 39 00 6,4
+2309 90 41 00 6,4
+2309 90 43 00 6,4
+2309 90 49 00 6,4
+2309 90 51 00 6,4
+2309 90 53 00 6,4
+2309 90 59 00 6,4
+2309 90 70 00 6,4
+2309 90 91 00 6,4
+2309 90 95 00 6,4
+2309 90 99 00 6,4
+2401 10 10 00 51,2
+2401 10 20 00 51,2
+2401 10 30 00 51,2
+2401 10 41 00 51,2
+2401 10 49 00 51,2
+2401 10 50 00 51,2
+2401 10 60 00 32
+2401 10 70 00 51,2
+2401 10 80 00 51,2
+2401 10 90 00 51,2
+2401 20 10 00 51,2
+2401 20 20 00 51,2
+2401 20 30 00 51,2
+2401 20 41 00 51,2
+2401 20 49 00 51,2
+2401 20 50 00 51,2
+2401 20 60 00 32
+Vámtarifaszám
+Vámtétel
+%
+2401 20 70 00 51,2
+2401 20 80 00 51,2
+2401 20 90 00 48
+2401 30 00 00 51,2
+2402 10 00 00 48
+2402 20 10 00 57,6
+2402 20 90 00 57,6
+2402 90 00 00 57,6
+2403 10 10 00 57,6
+2403 10 90 00 57,6
+2403 91 00 00 57,6
+2403 99 10 00 57,6
+2403 99 90 00 57,6
+2501 00 10 00 0
+2501 00 31 00 0
+2501 00 51 00 0
+2501 00 91 00 0
+2501 00 99 00 0
+2502 00 00 00 0
+2503 00 10 00 0
+2503 00 90 00 0
+2504 10 00 00 0
+2504 90 00 00 0
+2505 10 00 00 4,5
+2505 90 00 01 0
+2505 90 00 99 4,5
+2506 10 00 01 3,5
+2506 10 00 02 4,5
+2506 10 00 99 5,5
+2506 21 00 00 3,5
+2506 29 00 00 5,5
+2507 00 20 01 3,5
+2507 00 20 02 3,5
+2507 00 20 99 4,5
+2507 00 80 00 4,5
+2508 10 00 00 3,5
+2508 20 00 00 3,5
+Vámtarifaszám
+Vámtétel
+%
+2508 30 00 00 0
+2508 40 00 00 3,5
+2508 50 00 00 3,5
+2508 60 00 00 3,5
+2508 70 00 00 3,5
+2509 00 00 00 0
+2510 10 00 00 2
+2510 20 00 00 0
+2511 10 00 01 4
+2511 10 00 02 3
+2511 10 00 99 4,5
+2511 20 00 01 4
+2511 20 00 02 3
+2511 20 00 99 4,5
+2512 00 00 00 0
+2513 11 00 01 7
+2513 11 00 99 3,5
+2513 19 00 00 3,5
+2513 20 00 00 3,5
+2514 00 00 00 6,2
+2515 11 00 00 9,8
+2515 12 20 01 10,4
+2515 12 20 99 11
+2515 12 50 01 10,4
+2515 12 50 99 11
+2515 12 90 01 9,8
+2515 12 90 99 11
+2515 20 00 01 9,8
+2515 20 00 02 10,4
+2515 20 00 99 11
+2516 11 00 00 5,3
+2516 12 10 00 7,7
+2516 12 90 01 5,3
+2516 12 90 99 7,7
+2516 21 00 00 5,3
+2516 22 00 00 7,7
+2516 90 00 00 7,7
+
+Vámtarifaszám
+Vámtétel
+%
+2517 10 10 00 3
+2517 10 20 00 3
+2517 10 80 00 3
+2517 20 00 00 3
+2517 30 00 00 3
+2517 41 00 00 3
+2517 49 00 00 3
+2518 10 00 00 7
+2518 20 00 00 6
+2518 30 00 01 5,5
+2518 30 00 99 8,5
+2519 10 00 00 0
+2519 90 10 00 0
+2519 90 30 00 0
+2519 90 90 00 0
+2520 10 00 00 0
+2520 20 10 01 4,5
+2520 20 10 99 0
+2520 20 90 01 4,5
+2520 20 90 99 0
+2521 00 00 00 8,5
+2522 10 00 00 0
+2522 20 00 00 0
+2522 30 00 00 0
+2523 10 00 00 0
+2523 21 00 00 0
+2523 29 00 00 0
+2523 30 00 00 0
+2523 90 10 00 0
+2523 90 80 00 0
+2524 00 30 00 0
+2524 00 80 00 0
+2525 10 00 00 0
+2525 20 00 00 0
+2525 30 00 00 0
+2526 10 00 00 0
+2526 20 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+2528 10 00 00 4,5
+2528 90 00 00 4,5
+2529 10 00 00 3
+2529 21 00 00 3,5
+2529 22 00 00 3,5
+2529 30 00 00 3
+2530 10 10 00 3
+2530 10 90 00 3
+2530 20 00 00 3
+2530 90 20 00 7
+2530 90 98 01 7
+2530 90 98 02 5,5
+2530 90 98 03 3,5
+2530 90 98 04 3,5
+2530 90 98 99 3,5
+2601 11 00 00 0
+2601 12 00 00 0
+2601 20 00 00 0
+2602 00 00 00 3
+2603 00 00 00 3
+2604 00 00 00 3
+2605 00 00 00 3
+2606 00 00 00 0
+2607 00 00 00 3
+2608 00 00 00 3
+2609 00 00 00 3
+2610 00 00 00 0
+2611 00 00 00 0
+2612 10 10 00 3
+2612 10 90 00 3
+2612 20 10 00 3
+2612 20 90 00 3
+2613 10 00 00 0
+2613 90 00 00 0
+2614 00 10 00 0
+2614 00 90 00 0
+2615 10 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+2615 90 10 00 3
+2615 90 90 00 3
+2616 10 00 00 3
+2616 90 00 00 3
+2617 10 00 00 3
+2617 90 00 00 3
+2618 00 00 00 0
+2619 00 20 00 0
+2619 00 40 00 0
+2619 00 80 00 0
+2620 11 00 00 0
+2620 19 00 00 0
+2620 21 00 00 0
+2620 29 00 00 0
+2620 30 00 00 0
+2620 40 00 00 0
+2620 60 00 00 0
+2620 91 00 00 0
+2620 99 10 00 0
+2620 99 20 00 0
+2620 99 40 00 0
+2620 99 60 00 0
+2620 99 95 00 0
+2621 10 00 00 3,5
+2621 90 00 01 6,2
+2621 90 00 02 5
+2621 90 00 99 3,5
+2701 11 10 00 0
+2701 11 90 00 0
+2701 12 10 00 4,5
+2701 12 90 00 4,5
+2701 19 00 00 4,5
+2701 20 00 00 5,5
+2702 10 00 00 6,2
+2702 20 00 00 5,5
+2703 00 00 00 3,5
+2704 00 11 00 0
+Vámtarifaszám
+Vámtétel
+%
+2704 00 19 00 0
+2704 00 30 00 0
+2704 00 90 01 4,5
+2704 00 90 99 0
+2705 00 00 00 3,5
+2706 00 00 00 0
+2707 10 10 00 0
+2707 10 90 00 0
+2707 20 10 00 0
+2707 20 90 00 0
+2707 30 10 00 0
+2707 30 90 00 0
+2707 40 00 00 0
+2707 50 10 00 3,5
+2707 50 90 00 3,5
+2707 60 00 00 0
+2707 91 00 00 0
+2707 99 11 00 0
+2707 99 19 00 0
+2707 99 30 00 0
+2707 99 50 00 0
+2707 99 70 00 0
+2707 99 91 00 0
+2707 99 99 00 0
+2708 10 00 00 0
+2708 20 00 00 0
+2709 00 10 00 0
+2709 00 90 00 0
+2710 11 11 00 0
+2710 11 15 00 0
+2710 11 21 00 0
+2710 11 25 00 0
+2710 11 31 00 0
+2710 11 41 00 0
+2710 11 45 00 0
+2710 11 49 00 0
+2710 11 51 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+2710 11 59 00 0
+2710 11 70 00 0
+2710 11 90 00 0
+2710 19 11 00 0
+2710 19 15 00 0
+2710 19 21 00 0
+2710 19 25 00 0
+2710 19 29 00 0
+2710 19 31 00 0
+2710 19 35 00 0
+2710 19 41 01 0
+2710 19 41 02 0
+2710 19 41 03 0
+2710 19 45 01 0
+2710 19 45 02 0
+2710 19 45 03 0
+2710 19 49 01 0
+2710 19 49 02 0
+2710 19 49 03 0
+2710 19 51 00 0
+2710 19 55 00 0
+2710 19 61 00 0
+2710 19 63 00 0
+2710 19 65 00 0
+2710 19 69 00 0
+2710 19 71 00 7
+2710 19 75 00 7
+2710 19 81 00 7
+2710 19 83 00 7
+2710 19 85 00 7
+2710 19 87 00 7
+2710 19 91 00 7
+2710 19 93 00 7
+2710 19 99 01 7
+2710 19 99 99 7
+2710 91 00 00 7
+2710 99 00 00 7
+Vámtarifaszám
+Vámtétel
+%
+2711 11 00 00 0
+2711 12 11 00 0
+2711 12 19 00 0
+2711 12 91 00 0
+2711 12 93 00 0
+2711 12 94 00 0
+2711 12 97 00 0
+2711 13 10 00 0
+2711 13 30 00 0
+2711 13 91 00 0
+2711 13 97 00 0
+2711 14 00 00 0
+2711 19 00 00 0
+2711 21 00 00 0
+2711 29 00 00 0
+2712 10 10 00 7
+2712 10 90 00 7
+2712 20 10 00 7
+2712 20 90 00 7
+2712 90 11 00 0
+2712 90 19 01 4,5
+2712 90 19 99 7
+2712 90 31 01 0
+2712 90 31 99 7
+2712 90 33 01 0
+2712 90 33 99 7
+2712 90 39 01 0
+2712 90 39 99 7
+2712 90 91 00 4,5
+2712 90 99 00 4,5
+2713 11 00 00 0
+2713 12 00 00 0
+2713 20 00 00 3
+2713 90 10 00 5,5
+2713 90 90 00 5,5
+2714 10 00 01 7
+2714 10 00 99 0
+Vámtarifaszám
+Vámtétel
+%
+2714 90 00 00 0
+2715 00 00 01 7
+2715 00 00 99 4,5
+2716 00 00 00 0
+2801 10 00 00 8
+2801 20 00 00 4,5
+2801 30 10 00 4,5
+2801 30 90 00 5,5
+2802 00 00 00 0
+2803 00 10 00 4,5
+2803 00 80 00 4,5
+2804 10 00 00 6
+2804 21 00 00 6
+2804 29 10 00 6
+2804 29 90 00 6
+2804 30 00 00 6
+2804 40 00 00 6
+2804 50 10 00 6
+2804 50 90 00 6
+2804 61 00 00 6
+2804 69 00 00 6
+2804 70 00 00 0
+2804 80 00 00 6
+2804 90 00 00 6
+2805 11 00 00 3,8
+2805 12 00 00 3,8
+2805 19 10 00 3,8
+2805 19 90 00 3,8
+2805 30 10 00 0
+2805 30 90 00 0
+2805 40 10 00 0
+2805 40 90 00 0
+2806 10 00 00 5,5
+2806 20 00 00 7,5
+2807 00 10 00 8
+2807 00 90 00 8
+2808 00 00 00 6
+Vámtarifaszám
+Vámtétel
+%
+2809 10 00 00 6
+2809 20 00 01 6
+2809 20 00 99 3
+2810 00 10 00 5,5
+2810 00 90 01 3
+2810 00 90 99 5,5
+2811 11 00 00 3
+2811 19 10 00 3
+2811 19 20 00 3
+2811 19 80 00 3
+2811 21 00 00 3
+2811 22 00 00 3
+2811 23 00 00 6
+2811 29 10 01 5,5
+2811 29 10 02 3
+2811 29 30 00 3
+2811 29 90 01 5,5
+2811 29 90 99 3
+2812 10 11 00 0
+2812 10 15 00 0
+2812 10 16 00 0
+2812 10 18 00 0
+2812 10 91 00 0
+2812 10 93 00 0
+2812 10 94 00 0
+2812 10 95 00 0
+2812 10 99 00 0
+2812 90 00 00 0
+2813 10 00 00 0
+2813 90 10 00 7
+2813 90 90 01 7
+2813 90 90 99 5,5
+2814 10 00 00 3
+2814 20 00 00 6
+2815 11 00 00 9
+2815 12 00 00 9
+2815 20 10 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+2815 20 90 00 0
+2815 30 00 00 7
+2816 10 00 00 6
+2816 40 00 00 6
+2817 00 00 00 0
+2818 10 10 00 5,5
+2818 10 90 00 5,5
+2818 20 00 00 5,5
+2818 30 00 00 5,5
+2819 10 00 00 0
+2819 90 10 00 0
+2819 90 90 00 0
+2820 10 00 00 3
+2820 90 10 00 4
+2820 90 90 00 4
+2821 10 00 00 0
+2821 20 00 00 0
+2822 00 00 00 4,5
+2823 00 00 00 0
+2824 10 00 00 2
+2824 20 00 00 2
+2824 90 00 00 2
+2825 10 00 00 0
+2825 20 00 00 7
+2825 30 00 01 3
+2825 30 00 99 0
+2825 40 00 00 4,5
+2825 50 00 00 4,5
+2825 60 00 00 4,5
+2825 70 00 00 7
+2825 80 00 00 0
+2825 90 11 00 7
+2825 90 19 00 7
+2825 90 20 00 7
+2825 90 30 00 5,5
+2825 90 40 00 4,5
+2825 90 50 00 4,5
+Vámtarifaszám
+Vámtétel
+%
+2825 90 60 00 7
+2825 90 80 00 7
+2826 11 00 00 7
+2826 12 00 00 7
+2826 19 00 00 7
+2826 20 00 00 7
+2826 30 00 00 3,8
+2826 90 10 00 7
+2826 90 90 00 7
+2827 10 00 00 6
+2827 20 00 00 6
+2827 31 00 00 6
+2827 32 00 00 6
+2827 33 00 00 6
+2827 34 00 00 6
+2827 35 00 00 6
+2827 36 00 00 6
+2827 39 10 00 6
+2827 39 80 00 6
+2827 41 00 00 0
+2827 49 10 00 0
+2827 49 90 00 0
+2827 51 00 00 6
+2827 59 00 00 6
+2827 60 00 00 6
+2828 10 00 00 7
+2828 90 00 00 7
+2829 11 00 00 7
+2829 19 00 00 7
+2829 90 10 00 4,5
+2829 90 40 00 6
+2829 90 80 00 6
+2830 10 00 00 7
+2830 20 00 00 7
+2830 30 00 00 7
+2830 90 11 00 7
+2830 90 80 00 7
+Vámtarifaszám
+Vámtétel
+%
+2831 10 00 00 7
+2831 90 00 00 7
+2832 10 00 00 5,5
+2832 20 00 00 5,5
+2832 30 00 00 5,5
+2833 11 00 00 7
+2833 19 00 00 7
+2833 21 00 00 6
+2833 22 00 00 6
+2833 23 00 00 6
+2833 24 00 00 6
+2833 25 00 00 6
+2833 26 00 00 6
+2833 27 00 00 6
+2833 29 10 00 6
+2833 29 30 00 6
+2833 29 50 00 6
+2833 29 70 00 6
+2833 29 90 00 6
+2833 30 00 00 6
+2833 40 00 00 6
+2834 10 00 00 6
+2834 21 00 00 6
+2834 29 20 00 6
+2834 29 30 00 6
+2834 29 80 00 6
+2835 10 00 00 6
+2835 22 00 00 5
+2835 23 00 00 5
+2835 24 00 00 5
+2835 25 10 00 5
+2835 25 90 00 5
+2835 26 10 00 5
+2835 26 90 00 5
+2835 29 10 00 5
+2835 29 90 00 5
+2835 31 00 00 10
+Vámtarifaszám
+Vámtétel
+%
+2835 39 00 00 10
+2836 10 00 00 0
+2836 20 00 00 3
+2836 30 00 00 3
+2836 40 00 00 3
+2836 50 00 00 3
+2836 60 00 00 3
+2836 70 00 00 3
+2836 91 00 00 3
+2836 92 00 00 3
+2836 99 11 00 3
+2836 99 18 00 3
+2836 99 90 00 3
+2837 11 00 00 7
+2837 19 00 00 7
+2837 20 00 00 7
+2838 00 00 00 7
+2839 11 00 00 7
+2839 19 00 00 7
+2839 20 00 00 7
+2839 90 00 01 6
+2839 90 00 99 7
+2840 11 00 00 5,5
+2840 19 10 00 5,5
+2840 19 90 00 5,5
+2840 20 10 00 5,5
+2840 20 90 00 5,5
+2840 30 00 00 5,5
+2841 10 00 00 6
+2841 20 00 00 6
+2841 30 00 00 6
+2841 50 00 00 6
+2841 61 00 00 6
+2841 69 00 00 6
+2841 70 00 00 6
+2841 80 00 00 5,5
+2841 90 10 00 6
+
+Vámtarifaszám
+Vámtétel
+%
+2841 90 30 00 5,5
+2841 90 90 00 5,5
+2842 10 00 00 7
+2842 90 10 00 7
+2842 90 90 01 6
+2842 90 90 99 7
+2843 10 10 00 6
+2843 10 90 00 6
+2843 21 00 00 5,5
+2843 29 00 00 5,5
+2843 30 00 00 5,5
+2843 90 10 00 7
+2843 90 90 00 6
+2844 10 10 00 0
+2844 10 30 01 4,5
+2844 10 30 99 0
+2844 10 50 00 4,5
+2844 10 90 01 0
+2844 10 90 99 4,5
+2844 20 25 00 0
+2844 20 35 00 0
+2844 20 51 00 0
+2844 20 59 00 0
+2844 20 99 00 0
+2844 30 11 00 4,5
+2844 30 19 00 0
+2844 30 51 00 4,5
+2844 30 55 00 0
+2844 30 61 00 0
+2844 30 69 00 0
+2844 30 91 00 0
+2844 30 99 00 0
+2844 40 10 00 0
+2844 40 20 00 0
+2844 40 30 00 0
+2844 40 80 00 0
+2844 50 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+2845 10 00 00 0
+2845 90 10 00 0
+2845 90 90 00 0
+2846 10 00 00 0
+2846 90 00 00 0
+2847 00 00 01 7
+2847 00 00 99 3,5
+2848 00 00 00 7
+2849 10 00 00 0
+2849 20 00 00 0
+2849 90 10 00 0
+2849 90 30 00 4,5
+2849 90 50 00 4,5
+2849 90 90 00 4,5
+2850 00 20 00 6
+2850 00 50 00 6
+2850 00 70 00 6
+2850 00 90 00 6
+2851 00 10 01 4,5
+2851 00 10 99 6
+2851 00 30 00 5
+2851 00 50 00 7
+2851 00 80 01 5
+2851 00 80 99 7
+2901 10 00 00 4,5
+2901 21 00 00 0
+2901 22 00 00 4,5
+2901 23 10 00 4,5
+2901 23 90 00 4,5
+2901 24 10 00 4,5
+2901 24 90 00 4,5
+2901 29 00 00 4,5
+2902 11 00 00 4,5
+2902 19 10 00 4,5
+2902 19 80 00 4,5
+2902 20 00 00 4,5
+2902 30 00 00 4,5
+Vámtarifaszám
+Vámtétel
+%
+2902 41 00 00 6
+2902 42 00 00 6
+2902 43 00 00 6
+2902 44 00 00 6
+2902 50 00 00 0
+2902 60 00 00 4,5
+2902 70 00 00 4,5
+2902 90 10 00 4,5
+2902 90 30 00 4,5
+2902 90 90 01 6
+2902 90 90 99 4,5
+2903 11 00 00 7
+2903 12 00 00 7
+2903 13 00 00 7
+2903 14 00 00 7
+2903 15 00 00 7
+2903 19 10 00 7
+2903 19 80 00 7
+2903 21 00 00 0
+2903 22 00 00 3
+2903 23 00 00 7
+2903 29 00 00 7
+2903 30 33 00 7
+2903 30 35 00 7
+2903 30 36 00 7
+2903 30 80 00 7
+2903 41 00 00 7
+2903 42 00 00 7
+2903 43 00 00 7
+2903 44 10 00 7
+2903 44 90 00 7
+2903 45 10 00 7
+2903 45 15 00 7
+2903 45 20 00 7
+2903 45 25 00 7
+2903 45 30 00 7
+2903 45 35 00 7
+Vámtarifaszám
+Vámtétel
+%
+2903 45 40 00 7
+2903 45 45 00 7
+2903 45 50 00 7
+2903 45 55 00 7
+2903 45 90 00 7
+2903 46 10 00 7
+2903 46 20 00 7
+2903 46 90 00 7
+2903 47 00 00 7
+2903 49 10 00 7
+2903 49 20 00 7
+2903 49 30 00 7
+2903 49 40 00 7
+2903 49 80 00 7
+2903 51 00 01 0
+2903 51 00 99 7
+2903 59 10 00 7
+2903 59 30 00 7
+2903 59 90 00 7
+2903 61 00 00 7
+2903 62 00 00 7
+2903 69 10 00 0
+2903 69 90 01 0
+2903 69 90 02 0
+2903 69 90 99 0
+2904 10 00 00 2
+2904 20 00 01 2
+2904 20 00 99 2
+2904 90 20 00 2
+2904 90 40 00 2
+2904 90 85 00 2
+2905 11 00 00 0
+2905 12 00 00 0
+2905 13 00 00 0
+2905 14 10 00 0
+2905 14 90 00 0
+2905 15 00 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+2905 16 10 00 0
+2905 16 20 00 0
+2905 16 80 00 0
+2905 17 00 00 0
+2905 19 00 00 0
+2905 22 10 00 3
+2905 22 90 00 3
+2905 29 10 00 3
+2905 29 90 00 3
+2905 31 00 00 3
+2905 32 00 00 3
+2905 39 10 00 0
+2905 39 20 00 0
+2905 39 30 00 0
+2905 39 80 00 0
+2905 41 00 00 3
+2905 42 00 00 3
+2905 43 00 00 3
+2905 44 11 00 0
+2905 44 19 00 0
+2905 44 91 00 0
+2905 44 99 00 0
+2905 45 00 01 4,3
+2905 45 00 99 8,5
+2905 49 10 00 0
+2905 49 80 01 2
+2905 49 80 99 0
+2905 51 00 00 3
+2905 59 10 00 3
+2905 59 91 00 3
+2905 59 99 00 3
+2906 11 00 00 5
+2906 12 00 00 5
+2906 13 10 00 5
+2906 13 90 00 5
+2906 14 00 00 5
+2906 19 00 00 5
+Vámtarifaszám
+Vámtétel
+%
+2906 21 00 00 5
+2906 29 00 00 5
+2907 11 00 00 0
+2907 12 00 00 0
+2907 13 00 00 0
+2907 14 00 00 0
+2907 15 10 00 0
+2907 15 90 00 0
+2907 19 00 00 0
+2907 21 00 00 0
+2907 22 00 00 0
+2907 23 00 00 0
+2907 29 00 00 0
+2908 10 00 00 4,5
+2908 20 00 00 6
+2908 90 00 01 5,5
+2908 90 00 99 6
+2909 11 00 00 7
+2909 19 00 00 7
+2909 20 00 00 4,5
+2909 30 10 00 4,5
+2909 30 31 00 4,5
+2909 30 35 00 4,5
+2909 30 38 00 4,5
+2909 30 90 00 4,5
+2909 41 00 00 6
+2909 42 00 00 7
+2909 43 00 00 7
+2909 44 00 00 4,5
+2909 49 11 00 4,5
+2909 49 19 00 4,5
+2909 49 90 00 4,5
+2909 50 10 00 4,5
+2909 50 90 01 6
+2909 50 90 99 4,5
+2909 60 00 00 4,5
+2910 10 00 00 5,5
+Vámtarifaszám
+Vámtétel
+%
+2910 20 00 00 5,5
+2910 30 00 00 5,5
+2910 90 00 00 5,5
+2911 00 00 00 6
+2912 11 00 00 11,4
+2912 12 00 00 5
+2912 13 00 00 5
+2912 19 00 00 5
+2912 21 00 00 6
+2912 29 00 01 6
+2912 29 00 99 6
+2912 30 00 00 6
+2912 41 00 00 0
+2912 42 00 00 0
+2912 49 00 00 0
+2912 50 00 00 0
+2912 60 00 00 0
+2913 00 00 00 6
+2914 11 00 00 0
+2914 12 00 00 0
+2914 13 00 00 0
+2914 19 10 00 0
+2914 19 90 00 0
+2914 21 00 00 0
+2914 22 00 00 0
+2914 23 00 00 0
+2914 29 00 00 0
+2914 31 00 00 0
+2914 39 00 00 0
+2914 40 10 00 0
+2914 40 90 00 0
+2914 50 00 00 0
+2914 61 00 00 0
+2914 69 10 00 0
+2914 69 90 00 0
+2914 70 00 00 0
+2915 11 00 00 2,5
+Vámtarifaszám
+Vámtétel
+%
+2915 12 00 00 2,5
+2915 13 00 00 2,5
+2915 21 00 00 2,5
+2915 22 00 00 2,5
+2915 23 00 00 2,5
+2915 24 00 00 2,5
+2915 29 00 00 2,5
+2915 31 00 00 2,5
+2915 32 00 00 2,5
+2915 33 00 00 2,5
+2915 34 00 00 2,5
+2915 35 00 00 2,5
+2915 39 10 00 2,5
+2915 39 30 00 2,5
+2915 39 50 00 2,5
+2915 39 90 00 2,5
+2915 40 00 00 2,5
+2915 50 00 00 2,5
+2915 60 11 00 2,5
+2915 60 19 00 2,5
+2915 60 90 00 2,5
+2915 70 15 00 2,5
+2915 70 20 00 2,5
+2915 70 25 00 2,5
+2915 70 30 00 2,5
+2915 70 80 00 2,5
+2915 90 10 00 2,5
+2915 90 20 00 2,5
+2915 90 80 00 2,5
+2916 11 00 00 2,5
+2916 12 10 00 2,5
+2916 12 20 00 2,5
+2916 12 90 00 2,5
+2916 13 00 00 2,5
+2916 14 10 00 2,5
+2916 14 90 00 2,5
+2916 15 00 00 2,5
+
+Vámtarifaszám
+Vámtétel
+%
+2916 19 10 00 2,5
+2916 19 30 00 2,5
+2916 19 40 00 2,5
+2916 19 80 00 2,5
+2916 20 00 00 2,5
+2916 31 00 00 2,5
+2916 32 10 00 2,5
+2916 32 90 00 2,5
+2916 34 00 00 2,5
+2916 35 00 00 2,5
+2916 39 00 00 2,5
+2917 11 00 00 5
+2917 12 10 00 5
+2917 12 90 00 5
+2917 13 10 00 5
+2917 13 90 00 5
+2917 14 00 00 5
+2917 19 10 00 5
+2917 19 90 00 5
+2917 20 00 00 5
+2917 31 00 00 5
+2917 32 00 00 5
+2917 33 00 00 5
+2917 34 00 00 5
+2917 35 00 00 5
+2917 36 00 00 5
+2917 37 00 00 5
+2917 39 11 00 5
+2917 39 19 00 5
+2917 39 30 00 5
+2917 39 40 00 5
+2917 39 50 00 5
+2917 39 60 00 5
+2917 39 70 00 5
+2917 39 80 00 5
+2918 11 00 00 4,5
+2918 12 00 00 4,5
+Vámtarifaszám
+Vámtétel
+%
+2918 13 00 00 4,5
+2918 14 00 00 4,5
+2918 15 00 00 4,5
+2918 16 00 00 4,5
+2918 19 30 00 4,5
+2918 19 40 00 4,5
+2918 19 80 00 4,5
+2918 21 00 00 4,5
+2918 22 00 00 4,5
+2918 23 10 00 4,5
+2918 23 90 00 4,5
+2918 29 10 00 4,5
+2918 29 30 00 4,5
+2918 29 80 00 4,5
+2918 30 00 00 4,5
+2918 90 10 00 4,5
+2918 90 20 00 4,5
+2918 90 30 00 4,5
+2918 90 90 00 4,5
+2919 00 10 01 7
+2919 00 10 02 0
+2919 00 90 01 6
+2919 00 90 02 7
+2919 00 90 03 0
+2919 00 90 99 0
+2920 10 00 00 7
+2920 90 10 01 6
+2920 90 10 99 7
+2920 90 20 00 7
+2920 90 30 00 7
+2920 90 40 00 7
+2920 90 50 00 7
+2920 90 85 00 7
+2921 11 10 00 15
+2921 11 90 00 15
+2921 12 00 00 15
+2921 19 10 00 15
+Vámtarifaszám
+Vámtétel
+%
+2921 19 30 00 15
+2921 19 40 00 15
+2921 19 80 00 15
+2921 21 00 00 15
+2921 22 00 00 15
+2921 29 00 00 15
+2921 30 10 00 15
+2921 30 91 00 15
+2921 30 99 00 15
+2921 41 00 01 0
+2921 41 00 99 15
+2921 42 10 00 4
+2921 42 90 00 4
+2921 43 00 00 15
+2921 44 00 00 15
+2921 45 00 00 15
+2921 46 00 00 15
+2921 49 10 00 15
+2921 49 80 00 15
+2921 51 11 00 15
+2921 51 19 00 15
+2921 51 90 00 15
+2921 59 10 00 15
+2921 59 20 00 15
+2921 59 30 00 15
+2921 59 40 00 15
+2921 59 90 00 15
+2922 11 00 00 5,5
+2922 12 00 00 5,5
+2922 13 10 00 5,5
+2922 13 90 00 5,5
+2922 14 00 00 5,5
+2922 19 10 00 5,5
+2922 19 20 00 5,5
+2922 19 80 00 5,5
+2922 21 00 00 5,5
+2922 22 00 00 5,5
+Vámtarifaszám
+Vámtétel
+%
+2922 29 00 00 5,5
+2922 31 00 00 5,5
+2922 39 00 00 5,5
+2922 41 00 00 5,5
+2922 42 00 00 5,5
+2922 43 00 00 5,5
+2922 44 00 00 5,5
+2922 49 10 00 5,5
+2922 49 20 00 5,5
+2922 49 95 00 5,5
+2922 50 00 00 5,5
+2923 10 00 00 5,5
+2923 20 00 00 5,5
+2923 90 00 00 5,5
+2924 11 00 00 0
+2924 19 00 00 0
+2924 21 10 00 3
+2924 21 90 00 3
+2924 23 00 00 3
+2924 24 00 00 3
+2924 29 10 00 3
+2924 29 30 00 3
+2924 29 95 00 3
+2925 11 00 00 0
+2925 12 00 00 5,5
+2925 19 10 00 5,5
+2925 19 30 00 5,5
+2925 19 95 00 5,5
+2925 20 00 00 5,5
+2926 10 00 00 0
+2926 20 00 00 6
+2926 30 00 00 6
+2926 90 20 00 6
+2926 90 95 01 6
+2926 90 95 99 6
+2927 00 00 00 6
+2928 00 10 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+2928 00 90 00 0
+2929 10 10 00 0
+2929 10 90 00 0
+2929 90 00 01 0
+2929 90 00 99 4,5
+2930 10 00 00 6
+2930 20 00 00 7
+2930 30 00 00 7
+2930 40 10 00 7
+2930 40 90 00 7
+2930 90 13 00 7
+2930 90 16 00 7
+2930 90 20 00 7
+2930 90 30 00 7
+2930 90 40 00 7
+2930 90 50 00 7
+2930 90 70 00 7
+2931 00 10 00 8
+2931 00 20 00 8
+2931 00 30 00 8
+2931 00 95 01 0
+2931 00 95 02 7
+2931 00 95 03 0
+2931 00 95 99 8
+2932 11 00 00 3,5
+2932 12 00 00 0
+2932 13 00 00 9,8
+2932 19 00 00 0
+2932 21 00 01 7
+2932 21 00 02 6
+2932 29 10 00 7
+2932 29 20 00 7
+2932 29 30 00 7
+2932 29 40 00 7
+2932 29 50 00 7
+2932 29 80 01 6
+2932 29 80 99 0
+Vámtarifaszám
+Vámtétel
+%
+2932 91 00 00 6
+2932 92 00 00 6
+2932 93 00 00 6
+2932 94 00 00 6
+2932 95 00 00 6
+2932 99 50 00 6
+2932 99 70 00 6
+2932 99 85 01 6
+2932 99 85 99 6
+2933 11 10 00 4,5
+2933 11 90 00 4,5
+2933 19 10 00 4,5
+2933 19 90 00 4,5
+2933 21 00 00 3
+2933 29 10 00 0
+2933 29 90 00 0
+2933 31 00 00 6
+2933 32 00 00 0
+2933 33 00 00 7
+2933 39 10 00 0
+2933 39 20 00 0
+2933 39 25 00 0
+2933 39 35 00 0
+2933 39 40 00 0
+2933 39 45 00 0
+2933 39 50 00 0
+2933 39 55 00 0
+2933 39 99 01 4,5
+2933 39 99 02 6
+2933 39 99 03 7
+2933 39 99 99 0
+2933 41 00 00 7
+2933 49 10 00 7
+2933 49 30 00 7
+2933 49 90 01 4,5
+2933 49 90 02 6
+2933 49 90 99 7
+Vámtarifaszám
+Vámtétel
+%
+2933 52 00 00 3
+2933 53 10 00 3
+2933 53 90 00 3
+2933 54 00 00 3
+2933 55 00 00 3
+2933 59 10 00 6
+2933 59 20 00 6
+2933 59 95 00 0
+2933 61 00 00 0
+2933 69 10 00 0
+2933 69 20 00 0
+2933 69 30 00 0
+2933 69 80 00 0
+2933 71 00 00 3
+2933 72 00 00 0
+2933 79 00 00 0
+2933 91 10 00 0
+2933 91 90 00 0
+2933 99 10 00 8
+2933 99 20 01 6
+2933 99 20 99 0
+2933 99 30 00 0
+2933 99 40 00 0
+2933 99 50 00 0
+2933 99 90 01 4,5
+2933 99 90 02 6
+2933 99 90 03 8
+2933 99 90 04 8
+2933 99 90 99 0
+2934 10 00 00 0
+2934 20 20 00 8
+2934 20 80 00 8
+2934 30 10 00 4,5
+2934 30 90 00 4,5
+2934 91 00 00 0
+2934 99 10 00 0
+2934 99 20 00 0
+Vámtarifaszám
+Vámtétel
+%
+2934 99 30 00 0
+2934 99 40 00 7
+2934 99 50 00 7
+2934 99 90 01 7
+2934 99 90 02 7
+2934 99 90 03 6
+2934 99 90 99 0
+2935 00 10 00 7
+2935 00 20 00 7
+2935 00 90 00 7
+2936 10 00 00 0
+2936 21 00 00 0
+2936 22 00 00 0
+2936 23 00 00 0
+2936 24 00 00 0
+2936 25 00 00 0
+2936 26 00 00 0
+2936 27 00 00 0
+2936 28 00 00 0
+2936 29 10 00 0
+2936 29 30 00 0
+2936 29 90 00 0
+2936 90 11 00 0
+2936 90 19 00 0
+2936 90 90 00 0
+2937 11 00 00 4,5
+2937 12 00 00 0
+2937 19 00 00 4,5
+2937 21 00 00 4,5
+2937 22 00 00 4,5
+2937 23 00 00 4,5
+2937 29 00 00 4,5
+2937 31 00 00 4,5
+2937 39 00 00 4,5
+2937 40 00 00 4,5
+2937 50 00 00 4,5
+2937 90 00 00 4,5
+
+Vámtarifaszám
+Vámtétel
+%
+2938 10 00 00 0
+2938 90 10 00 0
+2938 90 30 00 0
+2938 90 90 00 0
+2939 11 00 00 7
+2939 19 00 00 7
+2939 21 00 00 7
+2939 29 00 00 7
+2939 30 00 00 7
+2939 41 00 00 7
+2939 42 00 00 7
+2939 43 00 00 7
+2939 49 00 00 7
+2939 51 00 00 7
+2939 59 00 00 7
+2939 61 00 00 7
+2939 62 00 00 7
+2939 63 00 00 7
+2939 69 00 00 7
+2939 91 11 00 7
+2939 91 19 00 7
+2939 91 90 00 7
+2939 99 00 00 7
+2940 40 00 00 7
+2941 10 10 00 0
+2941 10 20 00 0
+2941 10 90 00 0
+2941 20 30 00 0
+2941 20 80 00 0
+2941 30 00 00 0
+2941 40 00 00 0
+2941 50 00 00 0
+2941 90 00 00 0
+2942 00 00 01 5,5
+2942 00 00 99 0
+3001 10 10 00 6
+3001 10 90 00 6
+Vámtarifaszám
+Vámtétel
+%
+3001 20 10 00 6
+3001 20 90 00 6
+3001 90 10 00 6
+3001 90 91 00 6
+3001 90 99 00 6
+3002 10 10 01 6
+3002 10 10 99 0
+3002 10 91 01 6
+3002 10 91 99 0
+3002 10 95 00 6
+3002 10 99 00 0
+3002 20 00 00 0
+3002 30 00 00 0
+3002 90 10 00 6
+3002 90 30 00 6
+3002 90 50 00 6
+3002 90 90 00 6
+3003 10 00 00 0
+3003 20 00 00 0
+3003 31 00 00 0
+3003 39 00 00 0
+3003 40 00 00 0
+3003 90 10 00 0
+3003 90 90 00 0
+3004 10 10 01 0
+3004 10 10 02 0
+3004 10 90 01 0
+3004 10 90 02 0
+3004 20 10 01 0
+3004 20 10 02 0
+3004 20 90 01 0
+3004 20 90 02 0
+3004 31 10 01 0
+3004 31 10 02 0
+3004 31 90 01 0
+3004 31 90 02 0
+3004 32 10 01 0
+Vámtarifaszám
+Vámtétel
+%
+3004 32 10 02 0
+3004 32 90 01 0
+3004 32 90 02 0
+3004 39 10 01 0
+3004 39 10 02 0
+3004 39 90 01 0
+3004 39 90 02 0
+3004 40 10 01 0
+3004 40 10 02 0
+3004 40 90 01 0
+3004 40 90 02 0
+3004 50 10 01 0
+3004 50 10 02 0
+3004 50 90 01 0
+3004 50 90 02 0
+3004 90 11 01 0
+3004 90 11 02 0
+3004 90 19 01 0
+3004 90 19 02 0
+3004 90 91 01 0
+3004 90 91 02 0
+3004 90 99 01 0
+3004 90 99 02 0
+3005 10 00 00 4,5
+3005 90 10 00 4,5
+3005 90 31 00 4,5
+3005 90 51 00 4,5
+3005 90 55 00 4,5
+3005 90 99 00 4,5
+3006 10 10 00 2,5
+3006 10 90 00 2,5
+3006 20 00 00 2,5
+3006 30 00 01 6
+3006 30 00 02 6
+3006 40 00 00 2,5
+3006 50 00 00 2,5
+3006 60 11 01 0
+Vámtarifaszám
+Vámtétel
+%
+3006 60 11 02 0
+3006 60 11 03 6,2
+3006 60 11 99 4,5
+3006 60 19 01 0
+3006 60 19 02 0
+3006 60 19 03 6,2
+3006 60 19 99 4,5
+3006 60 90 01 0
+3006 60 90 02 0
+3006 60 90 03 6,2
+3006 60 90 99 4,5
+3006 70 00 01 6,2
+3006 70 00 99 4,5
+3006 80 00 00 4,5
+3101 00 00 01 4,5
+3101 00 00 02 0
+3101 00 00 99 5
+3102 10 10 00 10
+3102 10 90 00 10
+3102 21 00 00 10
+3102 29 00 00 10
+3102 30 10 00 10
+3102 30 90 00 10
+3102 40 10 00 10
+3102 40 90 00 10
+3102 50 10 01 10
+3102 50 10 99 6
+3102 50 90 01 10
+3102 50 90 99 6
+3102 60 00 00 10
+3102 70 00 01 10
+3102 70 00 99 5
+3102 80 00 00 10
+3102 90 00 00 10
+3103 10 10 00 3,8
+3103 10 90 00 3,8
+3103 20 00 00 3,8
+
+Vámtarifaszám
+Vámtétel
+%
+3103 90 00 00 3,8
+3104 10 00 00 0
+3104 20 10 00 0
+3104 20 50 00 0
+3104 20 90 00 0
+3104 30 00 00 0
+3104 90 00 01 7
+3104 90 00 99 6,2
+3105 10 00 01 5
+3105 10 00 02 7
+3105 10 00 99 6
+3105 20 10 00 5
+3105 20 90 00 5
+3105 30 00 00 5
+3105 40 00 00 5
+3105 51 00 00 5
+3105 59 00 00 5
+3105 60 10 00 5
+3105 60 90 00 5
+3105 90 10 00 6,2
+3105 90 91 00 6,2
+3105 90 99 01 6,2
+3105 90 99 99 5
+3201 10 00 00 3
+3201 20 00 00 3
+3201 90 20 00 3
+3201 90 90 01 10
+3201 90 90 99 3
+3202 10 00 00 5
+3202 90 00 00 5
+3203 00 10 01 5,5
+3203 00 10 99 6
+3203 00 90 00 6
+3204 11 00 00 5
+3204 12 00 00 5
+3204 13 00 00 5
+3204 14 00 00 4,5
+Vámtarifaszám
+Vámtétel
+%
+3204 15 00 01 4,5
+3204 15 00 99 5
+3204 16 00 00 5
+3204 17 00 00 5
+3204 19 00 01 0
+3204 19 00 99 5
+3204 20 00 00 5
+3204 90 00 00 5
+3205 00 00 00 7
+3206 11 00 00 4,5
+3206 19 00 00 4,5
+3206 20 00 00 4,5
+3206 30 00 00 4,5
+3206 41 00 00 2
+3206 42 00 00 3
+3206 43 00 00 4,5
+3206 49 10 00 4,5
+3206 49 90 01 0
+3206 49 90 99 4,5
+3206 50 00 00 4,5
+3207 10 00 00 6
+3207 20 10 00 8
+3207 20 90 00 6
+3207 30 00 00 8
+3207 40 10 00 8
+3207 40 20 00 8
+3207 40 30 00 8
+3207 40 80 00 8
+3208 10 10 00 7,5
+3208 10 90 00 7,5
+3208 20 10 00 7,5
+3208 20 90 00 7,5
+3208 90 11 00 7,5
+3208 90 13 00 7,5
+3208 90 19 00 7,5
+3208 90 91 00 7,5
+3208 90 99 00 7,5
+Vámtarifaszám
+Vámtétel
+%
+3209 10 00 00 7,5
+3209 90 00 00 7,5
+3210 00 10 00 7,5
+3210 00 90 00 7,5
+3211 00 00 00 8
+3212 10 10 00 7,5
+3212 10 90 00 7,5
+3212 90 31 00 7
+3212 90 38 00 7
+3212 90 90 00 5
+3213 10 00 00 7
+3213 90 00 00 7
+3214 10 10 01 7
+3214 10 10 99 7,7
+3214 10 90 00 7,7
+3214 90 00 00 7,7
+3215 11 00 00 7
+3215 19 00 00 7
+3215 90 10 00 8,5
+3215 90 80 00 8,5
+3301 11 10 00 8,5
+3301 11 90 00 8,5
+3301 12 10 00 8,5
+3301 12 90 00 8,5
+3301 13 10 00 8,5
+3301 13 90 00 8,5
+3301 14 10 00 8,5
+3301 14 90 00 8,5
+3301 19 10 00 8,5
+3301 19 90 00 8,5
+3301 21 10 00 8,5
+3301 21 90 00 8,5
+3301 22 10 00 8,5
+3301 22 90 00 8,5
+3301 23 10 00 6
+3301 23 90 00 6
+3301 24 10 00 8,5
+Vámtarifaszám
+Vámtétel
+%
+3301 24 90 00 8,5
+3301 25 10 00 8,5
+3301 25 90 00 8,5
+3301 26 10 00 8,5
+3301 26 90 00 8,5
+3301 29 11 00 8,5
+3301 29 31 00 8,5
+3301 29 61 01 8,5
+3301 29 61 99 8,5
+3301 29 91 01 8,5
+3301 29 91 99 8,5
+3301 30 00 00 6
+3301 90 10 00 6
+3301 90 21 00 3,2
+3301 90 30 00 3,2
+3301 90 90 01 4,5
+3301 90 90 02 5,5
+3301 90 90 03 8,5
+3301 90 90 04 6
+3302 10 10 00 68
+3302 10 21 00 51,2
+3302 10 29 00 51,2
+3302 10 40 01 4,5
+3302 10 40 99 6
+3302 10 90 01 4,5
+3302 10 90 99 6
+3302 90 10 01 4,5
+3302 90 10 99 6
+3302 90 90 01 4,5
+3302 90 90 99 6
+3303 00 10 00 15
+3303 00 90 00 15
+3304 10 00 00 15
+3304 20 00 00 0
+3304 30 00 00 0
+3304 91 00 00 0
+3304 99 00 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+3305 10 00 00 15
+3305 20 00 00 15
+3305 30 00 00 15
+3305 90 10 00 15
+3305 90 90 00 15
+3306 10 00 00 15
+3306 20 00 01 6,5
+3306 20 00 99 7
+3306 90 00 00 15
+3307 10 00 00 6,5
+3307 20 00 00 6,5
+3307 30 00 00 15
+3307 41 00 00 15
+3307 49 00 00 15
+3307 90 00 00 15
+3401 11 00 00 7
+3401 19 00 00 7
+3401 20 10 00 15
+3401 20 90 00 15
+3401 30 00 00 15
+3402 11 10 00 4,5
+3402 11 90 00 4,5
+3402 12 00 00 4,5
+3402 13 00 00 4,5
+3402 19 00 00 4,5
+3402 20 20 00 6
+3402 20 90 00 6
+3402 90 10 00 5,5
+3402 90 90 00 5,5
+3403 11 00 01 4,5
+3403 11 00 99 6
+3403 19 10 01 4,5
+3403 19 10 99 6
+3403 19 91 01 4,5
+3403 19 91 99 6
+3403 19 99 01 4,5
+3403 19 99 99 6
+Vámtarifaszám
+Vámtétel
+%
+3403 91 00 00 6
+3403 99 10 00 6
+3403 99 90 00 6
+3404 10 00 00 6
+3404 20 00 00 6
+3404 90 10 01 7
+3404 90 10 99 6
+3404 90 90 00 6
+3405 10 00 00 8
+3405 20 00 00 8
+3405 30 00 00 10
+3405 40 00 00 10
+3405 90 10 00 10
+3405 90 90 00 10
+3406 00 11 00 10
+3406 00 19 00 10
+3406 00 90 00 10
+3407 00 00 01 4,5
+3407 00 00 99 10
+3501 10 10 00 5
+3501 10 50 00 5
+3501 10 90 00 5
+3501 90 10 00 5
+3501 90 90 00 5
+3502 11 10 00 8
+3502 11 90 00 8
+3502 19 10 00 8
+3502 19 90 00 8
+3502 20 10 00 8
+3502 20 91 00 8
+3502 20 99 00 8
+3502 90 20 00 8
+3502 90 70 00 8
+3502 90 90 00 8
+3503 00 10 01 4,5
+3503 00 10 02 3
+3503 00 10 03 0
+Vámtarifaszám
+Vámtétel
+%
+3503 00 10 99 6
+3503 00 80 01 5
+3503 00 80 99 6
+3504 00 00 00 0
+3505 10 10 00 8
+3505 10 50 01 6
+3505 10 50 99 8
+3505 10 90 01 0
+3505 10 90 99 8
+3505 20 10 00 6
+3505 20 30 00 6
+3505 20 50 00 6
+3505 20 90 00 6
+3506 10 00 00 6
+3506 91 00 00 6
+3506 99 00 00 6
+3507 10 00 00 4,5
+3507 90 10 00 4,5
+3507 90 20 00 4,5
+3507 90 90 00 4,5
+3601 00 00 01 11,4
+3601 00 00 99 10,4
+3602 00 00 00 12,1
+3603 00 10 00 8,5
+3603 00 90 01 3
+3603 00 90 99 8
+3604 10 00 00 11,4
+3604 90 00 01 7
+3604 90 00 02 0
+3604 90 00 99 8
+3605 00 00 00 8,5
+3606 10 00 00 8
+3606 90 10 00 8
+3606 90 90 00 8
+3701 10 10 00 7
+3701 10 90 00 7
+3701 20 00 00 7
+Vámtarifaszám
+Vámtétel
+%
+3701 30 00 00 7
+3701 91 00 00 7
+3701 99 00 00 7
+3702 10 00 00 0
+3702 20 00 00 11
+3702 31 10 00 7,5
+3702 31 91 00 7,5
+3702 31 99 00 7,5
+3702 32 11 00 7,5
+3702 32 19 00 7,5
+3702 32 31 00 7,5
+3702 32 51 00 7,5
+3702 32 90 00 7,5
+3702 39 00 01 11
+3702 39 00 02 5,5
+3702 39 00 03 7
+3702 39 00 99 7,5
+3702 41 00 00 7,5
+3702 42 00 00 7,5
+3702 43 00 00 7,5
+3702 44 00 00 7,5
+3702 51 00 00 7,5
+3702 52 00 00 7,5
+3702 53 00 00 7,5
+3702 54 10 00 7,5
+3702 54 90 00 7,5
+3702 55 00 00 7,5
+3702 56 00 00 7,5
+3702 91 20 00 7,5
+3702 91 80 00 7,5
+3702 93 10 00 7,5
+3702 93 90 00 7,5
+3702 94 10 00 7,5
+3702 94 90 00 7,5
+3702 95 00 01 5
+3702 95 00 99 7,5
+3703 10 00 00 10
+
+Vámtarifaszám
+Vámtétel
+%
+3703 20 10 00 10
+3703 20 90 00 10
+3703 90 10 00 10
+3703 90 90 00 10
+3704 00 10 00 0
+3704 00 90 00 10
+3705 10 00 00 0
+3705 20 00 00 0
+3705 90 00 00 0
+3706 10 10 01 0
+3706 10 10 02 4,5
+3706 10 91 01 0
+3706 10 91 02 4,5
+3706 10 99 01 0
+3706 10 99 99 4,5
+3706 90 10 00 6
+3706 90 31 00 0
+3706 90 51 00 6
+3706 90 91 00 6
+3706 90 99 00 6
+3707 10 00 00 7,7
+3707 90 11 00 7,7
+3707 90 19 00 7,7
+3707 90 30 00 7,7
+3707 90 90 00 7,7
+3801 10 00 00 7
+3801 20 10 01 6
+3801 20 10 99 4,5
+3801 20 90 01 6
+3801 20 90 99 4,5
+3801 30 00 00 0
+3801 90 00 01 6
+3801 90 00 99 4,5
+3802 10 00 00 6
+3802 90 00 01 6
+3802 90 00 99 5,5
+3803 00 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+3803 00 90 00 3
+3804 00 10 00 3
+3804 00 90 00 4,5
+3805 10 10 00 5,5
+3805 10 30 00 4,5
+3805 10 90 00 4,5
+3805 20 00 00 4,5
+3805 90 00 00 4,5
+3806 10 10 00 4,5
+3806 10 90 00 4,5
+3806 20 00 00 4,5
+3806 30 00 00 6
+3806 90 00 01 6
+3806 90 00 99 4,5
+3807 00 10 00 4,5
+3807 00 90 01 4,5
+3807 00 90 99 6
+3808 10 10 00 8,5
+3808 10 20 01 9,8
+3808 10 20 99 8,5
+3808 10 30 00 6
+3808 10 40 00 8,5
+3808 10 90 00 8,5
+3808 20 10 00 8,5
+3808 20 15 00 6
+3808 20 30 00 8,5
+3808 20 40 00 8,5
+3808 20 50 00 8,5
+3808 20 60 00 8,5
+3808 20 80 01 2,5
+3808 20 80 99 8,5
+3808 30 11 00 8,5
+3808 30 13 00 8,5
+3808 30 15 00 6
+3808 30 17 00 8,5
+3808 30 21 00 8,5
+3808 30 23 00 8,5
+Vámtarifaszám
+Vámtétel
+%
+3808 30 27 00 6
+3808 30 30 00 6
+3808 30 90 00 8,5
+3808 40 10 00 6
+3808 40 20 00 8,5
+3808 40 90 00 6
+3808 90 10 00 8,5
+3808 90 90 00 6
+3809 10 10 00 5,3
+3809 10 30 00 5,3
+3809 10 50 00 5,3
+3809 10 90 00 5,3
+3809 91 00 00 6
+3809 92 00 00 0
+3809 93 00 00 8,9
+3810 10 00 00 6
+3810 90 10 00 6
+3810 90 90 00 6
+3811 11 10 00 5,5
+3811 11 90 00 5,5
+3811 19 00 00 0
+3811 21 00 00 0
+3811 29 00 00 0
+3811 90 00 00 0
+3812 10 00 00 4,5
+3812 20 10 00 7
+3812 20 90 00 7
+3812 30 20 00 4,5
+3812 30 80 00 4,5
+3813 00 00 00 6
+3814 00 10 00 6
+3814 00 90 00 6
+3815 11 00 00 4,5
+3815 12 00 00 4,5
+3815 19 10 00 4,5
+3815 19 90 00 4,5
+3815 90 10 00 4,5
+Vámtarifaszám
+Vámtétel
+%
+3815 90 90 00 4,5
+3816 00 00 00 4,5
+3817 00 50 00 4,5
+3817 00 80 00 4,5
+3818 00 10 00 4,5
+3818 00 90 00 4,5
+3819 00 00 00 4,5
+3820 00 00 00 4,5
+3821 00 00 00 4,5
+3822 00 00 01 0
+3822 00 00 02 0
+3822 00 00 03 0
+3822 00 00 04 0
+3822 00 00 05 0
+3822 00 00 06 4,5
+3822 00 00 99 0
+3823 11 00 00 8,5
+3823 12 00 00 4,3
+3823 13 00 00 4,3
+3823 19 10 00 4,3
+3823 19 30 00 4,3
+3823 19 90 00 4,3
+3823 70 00 01 2,6
+3823 70 00 02 7,6
+3823 70 00 99 5,3
+3824 10 00 00 6
+3824 20 00 00 4,5
+3824 30 00 00 4,5
+3824 40 00 00 4,5
+3824 50 10 00 4,5
+3824 50 90 00 4,5
+3824 60 11 00 4,5
+3824 60 19 00 4,5
+3824 60 91 00 4,5
+3824 60 99 00 4,5
+3824 71 00 00 6
+3824 79 00 00 6
+
+Vámtarifaszám
+Vámtétel
+%
+3824 90 10 00 6
+3824 90 15 00 6
+3824 90 20 00 6
+3824 90 25 00 6
+3824 90 35 00 6
+3824 90 40 00 6
+3824 90 45 00 6
+3824 90 50 00 6
+3824 90 55 00 6
+3824 90 61 00 6
+3824 90 62 00 6
+3824 90 64 00 6
+3824 90 65 00 6
+3824 90 70 00 6
+3824 90 75 00 6
+3824 90 80 00 6
+3824 90 85 00 6
+3824 90 99 01 0
+3824 90 99 02 7
+3824 90 99 03 7
+3824 90 99 04 7
+3824 90 99 05 0
+3824 90 99 06 5,5
+3824 90 99 07 6
+3824 90 99 08 6
+3824 90 99 99 6
+3825 10 00 00 6
+3825 20 00 00 6
+3825 30 00 00 6
+3825 41 00 00 6
+3825 49 00 00 6
+3825 50 00 00 6
+3825 61 00 00 6
+3825 69 00 00 6
+3825 90 10 00 6
+3825 90 90 01 5,5
+3825 90 90 99 6
+Vámtarifaszám
+Vámtétel
+%
+3901 10 10 00 0
+3901 10 90 00 0
+3901 20 10 00 0
+3901 20 90 00 0
+3901 30 00 00 0
+3901 90 10 00 0
+3901 90 20 00 0
+3901 90 90 00 0
+3902 10 00 00 0
+3902 20 00 00 0
+3902 30 00 00 0
+3902 90 10 00 0
+3902 90 20 00 0
+3902 90 90 00 0
+3903 11 00 00 0
+3903 19 00 00 0
+3903 20 00 00 0
+3903 30 00 00 0
+3903 90 10 00 0
+3903 90 20 00 0
+3903 90 90 00 0
+3904 10 00 00 0
+3904 21 00 00 0
+3904 22 00 00 0
+3904 30 00 00 0
+3904 40 00 00 0
+3904 50 10 00 0
+3904 50 90 00 0
+3904 61 00 00 0
+3904 69 10 00 0
+3904 69 90 00 0
+3904 90 00 00 0
+3905 12 00 00 0
+3905 19 00 00 0
+3905 21 00 00 0
+3905 29 00 00 0
+3905 30 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+3905 91 00 00 0
+3905 99 10 00 0
+3905 99 90 00 0
+3906 10 00 00 5
+3906 90 10 00 2
+3906 90 20 00 2
+3906 90 30 00 2
+3906 90 40 00 2
+3906 90 50 00 2
+3906 90 60 00 2
+3906 90 90 00 2
+3907 10 00 00 0
+3907 20 11 00 0
+3907 20 21 00 0
+3907 20 29 00 0
+3907 20 91 00 0
+3907 20 99 00 0
+3907 30 00 00 7
+3907 40 00 00 0
+3907 50 00 00 0
+3907 60 20 00 7
+3907 60 80 00 7
+3907 91 10 00 7
+3907 91 90 00 7
+3907 99 11 00 0
+3907 99 19 00 0
+3907 99 91 00 0
+3907 99 99 00 0
+3908 10 00 00 0
+3908 90 00 00 0
+3909 10 00 00 7
+3909 20 00 00 7
+3909 30 00 00 7
+3909 40 00 00 7
+3909 50 10 00 0
+3909 50 90 00 0
+3910 00 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+3911 10 00 00 0
+3911 90 11 00 0
+3911 90 13 00 0
+3911 90 19 00 0
+3911 90 91 00 0
+3911 90 93 00 0
+3911 90 99 00 0
+3912 11 00 00 3,5
+3912 12 00 00 3,5
+3912 20 11 00 5,5
+3912 20 19 00 5,5
+3912 20 90 00 5,5
+3912 31 00 00 5,5
+3912 39 10 00 5,5
+3912 39 20 00 5,5
+3912 39 80 00 5,5
+3912 90 10 00 6
+3912 90 90 00 5,5
+3913 10 00 00 5
+3913 90 00 01 6
+3913 90 00 02 6
+3913 90 00 99 4,5
+3914 00 00 01 5
+3914 00 00 02 7
+3914 00 00 99 0
+3915 10 00 00 0
+3915 20 00 00 0
+3915 30 00 00 0
+3915 90 11 00 6
+3915 90 18 01 5
+3915 90 18 99 6
+3915 90 90 01 7
+3915 90 90 02 5,5
+3915 90 90 03 4,5
+3915 90 90 99 6
+3916 10 00 00 10
+3916 20 10 00 10
+
+Vámtarifaszám
+Vámtétel
+%
+3916 20 90 00 10
+3916 90 11 00 6
+3916 90 13 00 6
+3916 90 15 00 7
+3916 90 19 01 7
+3916 90 19 02 8
+3916 90 19 99 6
+3916 90 51 00 6
+3916 90 59 00 6
+3916 90 90 00 6
+3917 10 10 00 0
+3917 10 90 00 6
+3917 21 10 01 18
+3917 21 10 99 10
+3917 21 91 00 10
+3917 21 99 01 18
+3917 21 99 99 10
+3917 22 10 01 18
+3917 22 10 99 10
+3917 22 91 00 10
+3917 22 99 01 18
+3917 22 99 99 10
+3917 23 10 01 18
+3917 23 10 99 10
+3917 23 91 00 10
+3917 23 99 01 18
+3917 23 99 99 10
+3917 29 12 00 7
+3917 29 15 01 6
+3917 29 15 99 18
+3917 29 19 01 6
+3917 29 19 99 18
+3917 29 91 00 18
+3917 29 99 01 7
+3917 29 99 02 8
+3917 29 99 03 6
+3917 29 99 99 18
+Vámtarifaszám
+Vámtétel
+%
+3917 31 10 00 18
+3917 31 90 01 6
+3917 31 90 02 7
+3917 31 90 03 8
+3917 31 90 99 18
+3917 32 10 00 7
+3917 32 31 00 6
+3917 32 35 00 6
+3917 32 39 01 6
+3917 32 39 99 18
+3917 32 51 01 6
+3917 32 51 99 18
+3917 32 91 00 18
+3917 32 99 01 6
+3917 32 99 02 7
+3917 32 99 03 8
+3917 32 99 99 18
+3917 33 10 00 18
+3917 33 90 00 18
+3917 39 12 00 7
+3917 39 15 01 6
+3917 39 15 99 18
+3917 39 19 01 6
+3917 39 19 99 18
+3917 39 91 00 18
+3917 39 99 01 6
+3917 39 99 02 7
+3917 39 99 03 8
+3917 39 99 99 18
+3917 40 10 00 18
+3917 40 90 00 18
+3918 10 10 01 15
+3918 10 10 99 18
+3918 10 90 01 15
+3918 10 90 02 8
+3918 10 90 99 18
+3918 90 00 01 15
+Vámtarifaszám
+Vámtétel
+%
+3918 90 00 02 8
+3918 90 00 03 6
+3918 90 00 04 7
+3918 90 00 05 8
+3918 90 00 06 6
+3918 90 00 99 18
+3919 10 11 01 15
+3919 10 11 99 6
+3919 10 13 00 6
+3919 10 15 00 6
+3919 10 19 01 15
+3919 10 19 02 6
+3919 10 19 03 7
+3919 10 19 04 8
+3919 10 19 99 18
+3919 10 31 00 18
+3919 10 38 01 7
+3919 10 38 02 8
+3919 10 38 99 18
+3919 10 61 01 15
+3919 10 61 99 6
+3919 10 69 01 15
+3919 10 69 02 6
+3919 10 69 99 18
+3919 10 90 01 6
+3919 10 90 99 18
+3919 90 10 00 18
+3919 90 31 00 18
+3919 90 38 01 7
+3919 90 38 02 8
+3919 90 38 99 18
+3919 90 61 00 6
+3919 90 69 01 6
+3919 90 69 99 18
+3919 90 90 01 6
+3919 90 90 99 18
+3920 10 23 00 10
+Vámtarifaszám
+Vámtétel
+%
+3920 10 24 00 10
+3920 10 26 00 10
+3920 10 27 00 10
+3920 10 28 00 10
+3920 10 40 00 10
+3920 10 81 00 10
+3920 10 89 00 10
+3920 20 21 00 10
+3920 20 29 00 10
+3920 20 71 00 10
+3920 20 79 00 10
+3920 20 90 00 10
+3920 30 00 00 10
+3920 43 10 01 15
+3920 43 10 99 10
+3920 43 90 00 10
+3920 49 10 00 10
+3920 49 90 00 10
+3920 51 00 01 5
+3920 51 00 99 5
+3920 59 10 00 5
+3920 59 90 00 5
+3920 61 00 00 7
+3920 62 11 00 0
+3920 62 13 00 0
+3920 62 19 00 7
+3920 62 90 00 7
+3920 63 00 00 7
+3920 69 00 00 7
+3920 71 10 00 6
+3920 71 90 00 6
+3920 72 00 00 5,7
+3920 73 10 00 3,5
+3920 73 50 00 3,5
+3920 73 90 00 3,5
+3920 79 00 00 6
+3920 91 00 00 7,7
+
+Vámtarifaszám
+Vámtétel
+%
+3920 92 00 00 7
+3920 93 00 00 7
+3920 94 00 00 6,5
+3920 99 21 00 0
+3920 99 28 00 6
+3920 99 51 00 0
+3920 99 53 00 0
+3920 99 55 00 0
+3920 99 59 01 7,7
+3920 99 59 02 10
+3920 99 59 03 0
+3920 99 59 99 6
+3920 99 90 01 0
+3920 99 90 99 6
+3921 11 00 00 15
+3921 12 00 01 15
+3921 12 00 99 10
+3921 13 10 00 10
+3921 13 90 00 10
+3921 14 00 00 6
+3921 19 00 00 7
+3921 90 11 00 8
+3921 90 19 00 8
+3921 90 30 00 7
+3921 90 41 00 7
+3921 90 43 00 7
+3921 90 49 00 7
+3921 90 55 01 7
+3921 90 55 02 8
+3921 90 55 99 6
+3921 90 60 00 6
+3921 90 90 01 15
+3921 90 90 99 6
+3922 10 00 01 3
+3922 10 00 99 18
+3922 20 00 00 18
+3922 90 00 01 7
+Vámtarifaszám
+Vámtétel
+%
+3922 90 00 99 18
+3923 10 00 00 18
+3923 21 00 01 6
+3923 21 00 99 18
+3923 29 10 01 6
+3923 29 10 99 18
+3923 29 90 01 6
+3923 29 90 99 18
+3923 30 10 00 18
+3923 30 90 00 18
+3923 40 10 00 18
+3923 40 90 00 18
+3923 50 10 00 18
+3923 50 90 00 18
+3923 90 10 00 18
+3923 90 90 00 18
+3924 10 00 00 18
+3924 90 11 00 18
+3924 90 19 00 18
+3924 90 90 00 18
+3925 10 00 00 18
+3925 20 00 00 18
+3925 30 00 00 18
+3925 90 10 00 18
+3925 90 20 00 18
+3925 90 80 00 18
+3926 10 00 00 18
+3926 20 00 00 18
+3926 30 00 00 18
+3926 40 00 00 18
+3926 90 10 00 18
+3926 90 50 00 18
+3926 90 91 00 18
+3926 90 99 01 0
+3926 90 99 99 18
+4001 10 00 00 3
+4001 21 00 00 3
+Vámtarifaszám
+Vámtétel
+%
+4001 22 00 00 3
+4001 29 00 00 6
+4001 30 00 01 10
+4001 30 00 99 3
+4002 11 00 01 6
+4002 11 00 99 0
+4002 19 00 01 6
+4002 19 00 02 5,5
+4002 19 00 99 0
+4002 20 00 01 6
+4002 20 00 99 0
+4002 31 00 01 6
+4002 31 00 99 0
+4002 39 00 01 6
+4002 39 00 99 0
+4002 41 00 01 6
+4002 41 00 99 0
+4002 49 00 01 6
+4002 49 00 99 0
+4002 51 00 01 6
+4002 51 00 99 0
+4002 59 00 01 6
+4002 59 00 99 0
+4002 60 00 01 6
+4002 60 00 99 0
+4002 70 00 01 6
+4002 70 00 99 0
+4002 80 00 00 3
+4002 91 00 01 6
+4002 91 00 99 0
+4002 99 10 01 6
+4002 99 10 99 0
+4002 99 90 01 5,5
+4002 99 90 02 6
+4002 99 90 99 0
+4003 00 00 00 6
+4004 00 00 00 6
+Vámtarifaszám
+Vámtétel
+%
+4005 10 00 01 10
+4005 10 00 99 6
+4005 20 00 00 6
+4005 91 00 01 10
+4005 91 00 99 6
+4005 99 00 01 5,5
+4005 99 00 02 3
+4005 99 00 99 6
+4006 10 00 01 10
+4006 10 00 99 6
+4006 90 00 01 10
+4006 90 00 99 6
+4007 00 00 00 10
+4008 11 00 00 10
+4008 19 00 00 10
+4008 21 10 00 10
+4008 21 90 00 10
+4008 29 10 00 10
+4008 29 90 00 10
+4009 11 00 00 10
+4009 12 10 00 10
+4009 12 90 00 10
+4009 21 00 00 10
+4009 22 10 00 10
+4009 22 90 00 10
+4009 31 00 00 10
+4009 32 10 00 10
+4009 32 90 00 10
+4009 41 00 00 10
+4009 42 10 00 10
+4009 42 90 00 10
+4010 11 00 00 10
+4010 12 00 00 10
+4010 13 00 00 10
+4010 19 00 00 10
+4010 31 00 00 10
+4010 32 00 00 10
+
+Vámtarifaszám
+Vámtétel
+%
+4010 33 00 00 10
+4010 34 00 00 10
+4010 35 00 00 10
+4010 36 00 00 10
+4010 39 00 00 10
+4011 10 00 00 3
+4011 20 10 01 0
+4011 20 10 02 3,5
+4011 20 90 01 0
+4011 20 90 02 3,5
+4011 30 10 00 3
+4011 30 90 00 3
+4011 40 20 00 3
+4011 40 80 00 3
+4011 50 00 00 3
+4011 61 00 01 2,5
+4011 61 00 02 0
+4011 61 00 99 3
+4011 62 00 01 2,5
+4011 62 00 02 0
+4011 62 00 99 3
+4011 63 00 01 2,5
+4011 63 00 02 0
+4011 63 00 99 3
+4011 69 00 01 2,5
+4011 69 00 02 0
+4011 69 00 99 3
+4011 92 00 01 2,5
+4011 92 00 02 0
+4011 92 00 99 3
+4011 93 00 01 2,5
+4011 93 00 02 0
+4011 93 00 99 3
+4011 94 00 01 2,5
+4011 94 00 02 0
+4011 94 00 99 3
+4011 99 00 01 2,5
+Vámtarifaszám
+Vámtétel
+%
+4011 99 00 02 0
+4011 99 00 99 3
+4012 11 00 00 3
+4012 12 00 00 3
+4012 13 10 00 3
+4012 13 90 00 3
+4012 19 00 00 3
+4012 20 10 01 3
+4012 20 10 02 3
+4012 20 90 01 3
+4012 20 90 02 3
+4012 90 20 00 3
+4012 90 30 00 3
+4012 90 90 00 3
+4013 10 10 00 3
+4013 10 90 01 0
+4013 10 90 02 3,5
+4013 20 00 00 3
+4013 90 00 01 2,5
+4013 90 00 02 0
+4013 90 00 99 3
+4014 10 00 00 0
+4014 90 10 00 0
+4014 90 90 00 0
+4015 11 00 00 3
+4015 19 10 00 3
+4015 19 90 00 6,2
+4015 90 00 00 3
+4016 10 10 00 6
+4016 10 90 01 3
+4016 10 90 99 6
+4016 91 00 00 6
+4016 92 00 00 6
+4016 93 10 00 3
+4016 93 90 00 3
+4016 94 00 00 6
+4016 95 00 01 3
+Vámtarifaszám
+Vámtétel
+%
+4016 95 00 99 6
+4016 99 10 00 0
+4016 99 30 00 6
+4016 99 52 00 9,5
+4016 99 58 00 10
+4016 99 82 01 10
+4016 99 82 02 5
+4016 99 82 03 0
+4016 99 82 99 6
+4016 99 88 01 10
+4016 99 88 02 5
+4016 99 88 03 0
+4016 99 88 99 6
+4017 00 10 01 6
+4017 00 10 99 8
+4017 00 90 01 3
+4017 00 90 99 8
+4101 20 10 01 5
+4101 20 10 99 0
+4101 20 30 01 5
+4101 20 30 99 0
+4101 20 50 01 5
+4101 20 50 99 0
+4101 20 90 01 5
+4101 20 90 99 0
+4101 50 10 01 5
+4101 50 10 99 0
+4101 50 30 01 5
+4101 50 30 99 0
+4101 50 50 01 5
+4101 50 50 99 0
+4101 50 90 01 5
+4101 50 90 99 0
+4101 90 00 01 5
+4101 90 00 99 0
+4102 10 10 00 2,5
+4102 10 90 00 2,5
+Vámtarifaszám
+Vámtétel
+%
+4102 21 00 00 0
+4102 29 00 00 0
+4103 10 20 00 2,5
+4103 10 50 00 2,5
+4103 10 90 00 2,5
+4103 20 00 00 5
+4103 30 00 00 2,5
+4103 90 00 00 5
+4104 11 10 00 2,5
+4104 11 51 00 2,5
+4104 11 59 00 2,5
+4104 11 90 00 2,5
+4104 19 10 00 2,5
+4104 19 51 00 2,5
+4104 19 59 00 2,5
+4104 19 90 00 2,5
+4104 41 11 00 2,5
+4104 41 19 00 2,5
+4104 41 51 00 2,5
+4104 41 59 00 2,5
+4104 41 90 00 2,5
+4104 49 11 00 2,5
+4104 49 19 00 2,5
+4104 49 51 00 2,5
+4104 49 59 00 2,5
+4104 49 90 00 2,5
+4105 10 10 00 3
+4105 10 90 00 3
+4105 30 10 00 3
+4105 30 91 00 3
+4105 30 99 00 3
+4106 21 10 00 3
+4106 21 90 00 3
+4106 22 10 00 3
+4106 22 90 00 3
+4106 31 10 00 3
+4106 31 90 00 3
+
+Vámtarifaszám
+Vámtétel
+%
+4106 32 10 00 3
+4106 32 90 00 3
+4106 40 10 00 3
+4106 40 90 00 9
+4106 91 00 00 3
+4106 92 00 00 3
+4107 11 11 00 7
+4107 11 19 01 8,5
+4107 11 19 99 7
+4107 11 90 00 2,5
+4107 12 11 00 7
+4107 12 19 01 8,5
+4107 12 19 99 7
+4107 12 91 01 8,5
+4107 12 91 99 7
+4107 12 99 01 8,5
+4107 12 99 02 9
+4107 12 99 99 7
+4107 19 10 00 7
+4107 19 90 01 8,5
+4107 19 90 99 7
+4107 91 10 00 7
+4107 91 90 00 8,5
+4107 92 10 00 7
+4107 92 90 01 9
+4107 92 90 99 8,5
+4107 99 10 01 8,5
+4107 99 10 99 7
+4107 99 90 01 8,5
+4107 99 90 02 9
+4107 99 90 99 8,5
+4112 00 00 01 5,5
+4112 00 00 02 8,5
+4112 00 00 99 7
+4113 10 00 01 5,5
+4113 10 00 02 8,5
+4113 10 00 99 5,5
+Vámtarifaszám
+Vámtétel
+%
+4113 20 00 01 8,5
+4113 20 00 99 8,5
+4113 30 00 00 9
+4113 90 00 01 8,5
+4113 90 00 02 9
+4113 90 00 99 8,5
+4114 10 10 00 7
+4114 10 90 00 7
+4114 20 00 01 7
+4114 20 00 02 5,5
+4114 20 00 99 7
+4115 10 00 00 5,5
+4115 20 00 00 5,5
+4201 00 00 00 9
+4202 11 10 00 7,5
+4202 11 90 00 7,5
+4202 12 11 00 7,5
+4202 12 19 00 7,5
+4202 12 50 00 7,5
+4202 12 91 01 10
+4202 12 91 99 7,5
+4202 12 99 01 10
+4202 12 99 99 7,5
+4202 19 10 00 8,5
+4202 19 90 01 18
+4202 19 90 02 7
+4202 19 90 03 8,5
+4202 19 90 99 0
+4202 21 00 01 8
+4202 21 00 99 6
+4202 22 10 00 7,5
+4202 22 90 01 10
+4202 22 90 99 7,5
+4202 29 00 00 7,5
+4202 31 00 01 8
+4202 31 00 99 6
+4202 32 10 00 7,5
+Vámtarifaszám
+Vámtétel
+%
+4202 32 90 01 10
+4202 32 90 99 7,5
+4202 39 00 01 18
+4202 39 00 02 7
+4202 39 00 03 8,5
+4202 39 00 99 0
+4202 91 10 01 8
+4202 91 10 99 6
+4202 91 80 01 8
+4202 91 80 99 6
+4202 92 11 00 7,5
+4202 92 15 00 7,5
+4202 92 19 00 7,5
+4202 92 91 01 10
+4202 92 91 99 7,5
+4202 92 98 01 10
+4202 92 98 99 7,5
+4202 99 00 01 18
+4202 99 00 02 7
+4202 99 00 03 8,5
+4202 99 00 99 0
+4203 10 00 01 8,5
+4203 10 00 02 7
+4203 21 00 01 8
+4203 21 00 02 8
+4203 29 10 01 8
+4203 29 10 02 8
+4203 29 91 01 8
+4203 29 91 02 8
+4203 29 99 01 8
+4203 29 99 02 8
+4203 30 00 01 8,5
+4203 30 00 02 8
+4203 40 00 01 8,5
+4203 40 00 02 8
+4204 00 10 00 8
+4204 00 90 00 8
+Vámtarifaszám
+Vámtétel
+%
+4205 00 00 00 7
+4206 10 00 01 5
+4206 10 00 02 7
+4206 10 00 99 8
+4206 90 00 01 7
+4206 90 00 99 8
+4301 10 00 00 3
+4301 30 00 00 3
+4301 60 00 00 3
+4301 70 10 00 3
+4301 70 90 00 3
+4301 80 30 00 3
+4301 80 50 00 3
+4301 80 80 00 3
+4301 90 00 00 3
+4302 11 00 01 3
+4302 11 00 02 8,5
+4302 13 00 01 3
+4302 13 00 02 8,5
+4302 19 10 01 3
+4302 19 10 02 8,5
+4302 19 20 01 3
+4302 19 20 02 8,5
+4302 19 30 01 3
+4302 19 30 02 8,5
+4302 19 35 01 3
+4302 19 35 02 8,5
+4302 19 41 01 3
+4302 19 41 02 8,5
+4302 19 49 01 3
+4302 19 49 02 8,5
+4302 19 50 01 3
+4302 19 50 02 8,5
+4302 19 60 01 3
+4302 19 60 02 8,5
+4302 19 70 01 3
+4302 19 70 02 8,5
+
+Vámtarifaszám
+Vámtétel
+%
+4302 19 80 01 3
+4302 19 80 02 8,5
+4302 19 95 01 3
+4302 19 95 02 8,5
+4302 20 00 01 6
+4302 20 00 99 8,5
+4302 30 10 00 8,5
+4302 30 21 00 8,5
+4302 30 25 00 8,5
+4302 30 31 00 8,5
+4302 30 41 00 8,5
+4302 30 45 00 8,5
+4302 30 51 00 8,5
+4302 30 55 00 8,5
+4302 30 61 00 8,8
+4302 30 71 00 8,8
+4302 30 95 00 8,5
+4303 10 10 00 7
+4303 10 90 00 7
+4303 90 00 00 7
+4304 00 00 00 6
+4401 10 00 00 6
+4401 21 00 00 8
+4401 22 00 00 8
+4401 30 10 00 5
+4401 30 90 00 5
+4402 00 00 01 3
+4402 00 00 99 8
+4403 10 00 01 4
+4403 10 00 02 0
+4403 20 11 00 0
+4403 20 19 00 4
+4403 20 31 00 0
+4403 20 39 00 4
+4403 20 91 00 0
+4403 20 99 00 4
+4403 41 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+4403 49 10 00 0
+4403 49 20 00 0
+4403 49 40 00 0
+4403 49 95 00 0
+4403 91 10 00 0
+4403 91 90 00 4
+4403 92 10 00 0
+4403 92 90 00 4
+4403 99 10 01 0
+4403 99 10 99 8
+4403 99 30 01 0
+4403 99 30 99 8
+4403 99 51 00 0
+4403 99 59 00 8
+4403 99 95 01 0
+4403 99 95 99 8
+4404 10 00 01 8
+4404 10 00 99 8
+4404 20 00 01 8
+4404 20 00 99 8
+4405 00 00 01 5,5
+4405 00 00 99 8
+4406 10 00 01 6
+4406 10 00 99 5
+4406 90 00 01 6
+4406 90 00 99 5
+4407 10 15 01 2
+4407 10 15 99 6,2
+4407 10 31 00 2
+4407 10 33 00 2
+4407 10 38 00 2
+4407 10 91 01 0
+4407 10 91 99 6,2
+4407 10 93 01 0
+4407 10 93 99 6,2
+4407 10 98 01 0
+4407 10 98 99 6,2
+Vámtarifaszám
+Vámtétel
+%
+4407 24 15 01 2
+4407 24 15 99 8,5
+4407 24 30 00 2
+4407 24 90 01 0
+4407 24 90 99 8,5
+4407 25 10 01 2
+4407 25 10 99 8,5
+4407 25 30 00 2
+4407 25 50 00 2
+4407 25 90 01 0
+4407 25 90 99 8,5
+4407 26 10 01 2
+4407 26 10 99 8,5
+4407 26 30 00 2
+4407 26 50 00 2
+4407 26 90 01 0
+4407 26 90 99 8,5
+4407 29 05 01 2
+4407 29 05 99 8,5
+4407 29 20 00 2
+4407 29 30 00 2
+4407 29 50 00 2
+4407 29 61 01 0
+4407 29 61 99 8,5
+4407 29 69 01 0
+4407 29 69 99 8,5
+4407 29 83 00 2
+4407 29 85 00 2
+4407 29 95 01 0
+4407 29 95 99 2
+4407 91 15 01 2
+4407 91 15 99 8,5
+4407 91 31 00 2
+4407 91 39 00 2
+4407 91 90 01 0
+4407 91 90 99 8,5
+4407 92 00 01 0
+Vámtarifaszám
+Vámtétel
+%
+4407 92 00 99 8,5
+4407 99 10 01 2
+4407 99 10 99 8,5
+4407 99 30 00 2
+4407 99 50 00 2
+4407 99 91 01 0
+4407 99 91 99 8,5
+4407 99 96 01 0
+4407 99 96 99 8,5
+4407 99 97 01 0
+4407 99 97 99 8,5
+4408 10 15 01 5
+4408 10 15 02 8,5
+4408 10 15 99 2
+4408 10 91 01 5
+4408 10 91 99 2
+4408 10 93 01 5
+4408 10 93 99 2
+4408 10 99 01 5
+4408 10 99 99 2
+4408 31 11 01 5
+4408 31 11 02 8,5
+4408 31 11 99 2
+4408 31 21 00 8,5
+4408 31 25 00 8,5
+4408 31 30 01 5
+4408 31 30 99 2
+4408 39 15 01 5
+4408 39 15 02 8,5
+4408 39 15 99 2
+4408 39 21 00 8,5
+4408 39 31 01 5
+4408 39 31 99 2
+4408 39 35 01 5
+4408 39 35 99 2
+4408 39 55 01 5
+4408 39 55 02 8,5
+
+Vámtarifaszám
+Vámtétel
+%
+4408 39 55 99 2
+4408 39 70 01 5
+4408 39 70 99 2
+4408 39 85 01 5
+4408 39 85 99 2
+4408 39 95 01 5
+4408 39 95 99 2
+4408 90 15 01 5
+4408 90 15 02 8,5
+4408 90 15 99 2
+4408 90 35 01 5
+4408 90 35 99 2
+4408 90 85 01 5
+4408 90 85 99 2
+4408 90 95 01 5
+4408 90 95 99 2
+4409 10 11 01 8
+4409 10 11 02 5,5
+4409 10 11 03 8,5
+4409 10 11 99 8,5
+4409 10 18 01 8
+4409 10 18 02 5,5
+4409 10 18 03 8,5
+4409 10 18 99 8,5
+4409 20 11 01 8
+4409 20 11 02 5,5
+4409 20 11 03 8,5
+4409 20 11 99 8,5
+4409 20 91 01 8
+4409 20 91 02 8,5
+4409 20 91 99 8,5
+4409 20 98 01 8
+4409 20 98 02 5,5
+4409 20 98 03 8,5
+4409 20 98 99 8,5
+4410 21 00 00 5
+4410 29 00 00 5
+Vámtarifaszám
+Vámtétel
+%
+4410 31 00 00 5
+4410 32 00 00 5
+4410 33 00 00 5
+4410 39 00 00 5
+4410 90 00 01 5
+4410 90 00 99 0
+4411 11 10 00 5
+4411 11 90 00 5
+4411 19 10 00 5
+4411 19 90 00 5
+4411 21 10 00 5
+4411 21 90 00 5
+4411 29 10 00 5
+4411 29 90 00 5
+4411 31 10 00 5
+4411 31 90 00 5
+4411 39 10 00 5
+4411 39 90 00 5
+4411 91 00 00 5
+4411 99 00 00 5
+4412 13 10 00 3
+4412 13 90 00 3
+4412 14 00 00 3
+4412 19 00 00 3
+4412 22 10 00 6
+4412 22 91 00 6
+4412 22 99 00 6
+4412 23 00 00 6
+4412 29 20 00 6
+4412 29 80 00 6
+4412 92 10 00 6
+4412 92 91 00 6
+4412 92 99 00 6
+4412 93 00 00 6
+4412 99 20 00 6
+4412 99 80 00 6
+4413 00 00 00 8
+Vámtarifaszám
+Vámtétel
+%
+4414 00 10 01 5,5
+4414 00 10 02 8
+4414 00 10 99 2
+4414 00 90 01 5,5
+4414 00 90 02 8
+4414 00 90 99 2
+4415 10 10 01 6
+4415 10 10 02 8,5
+4415 10 10 99 9
+4415 10 90 00 8,5
+4415 20 20 00 8,5
+4415 20 90 00 9
+4416 00 00 01 5,5
+4416 00 00 99 8,5
+4417 00 00 01 8,5
+4417 00 00 99 8
+4418 10 10 00 5
+4418 10 50 00 5
+4418 10 90 00 5
+4418 20 10 00 5
+4418 20 50 00 5
+4418 20 80 00 5
+4418 30 10 00 5
+4418 30 91 00 5
+4418 30 99 00 5
+4418 40 00 00 5
+4418 50 00 00 8,5
+4418 90 10 01 7
+4418 90 10 02 8
+4418 90 10 99 6
+4418 90 90 01 7
+4418 90 90 02 8
+4418 90 90 99 6
+4419 00 10 00 8,5
+4419 00 90 00 8,5
+4420 10 11 00 8,5
+4420 10 19 00 8,5
+Vámtarifaszám
+Vámtétel
+%
+4420 90 10 00 6
+4420 90 91 00 8,5
+4420 90 99 00 8,5
+4421 10 00 00 8,5
+4421 90 91 01 3
+4421 90 91 99 8,5
+4421 90 98 01 3
+4421 90 98 02 0
+4421 90 98 99 8,5
+4501 10 00 00 0
+4501 90 00 00 0
+4502 00 00 00 0
+4503 10 10 00 8
+4503 10 90 00 8
+4503 90 00 00 8
+4504 10 11 00 8,5
+4504 10 19 00 8,5
+4504 10 91 00 8,5
+4504 10 99 00 8,5
+4504 90 10 00 8,5
+4504 90 91 00 8,5
+4504 90 99 00 8,5
+4601 20 10 00 0
+4601 20 90 00 0
+4601 91 05 01 7,5
+4601 91 05 02 6
+4601 91 05 03 8
+4601 91 05 99 0
+4601 91 10 00 0
+4601 91 90 00 0
+4601 99 05 01 6
+4601 99 05 02 8
+4601 99 05 99 0
+4601 99 10 00 0
+4601 99 90 00 0
+4602 10 10 00 0
+4602 10 91 00 0
+
+Vámtarifaszám
+Vámtétel
+%
+4602 10 99 00 0
+4602 90 00 00 0
+4701 00 10 00 0
+4701 00 90 00 0
+4702 00 00 00 0
+4703 11 00 00 0
+4703 19 00 00 0
+4703 21 00 00 0
+4703 29 00 00 0
+4704 11 00 00 0
+4704 19 00 00 0
+4704 21 00 00 0
+4704 29 00 00 0
+4705 00 00 00 0
+4706 10 00 00 0
+4706 20 00 00 0
+4706 91 00 00 0
+4706 92 00 00 0
+4706 93 00 00 0
+4707 10 00 00 0
+4707 20 00 00 0
+4707 30 10 00 0
+4707 30 90 00 0
+4707 90 10 00 0
+4707 90 90 00 0
+4801 00 00 01 6
+4801 00 00 99 0
+4802 10 00 00 20
+4802 20 00 01 5
+4802 20 00 02 6
+4802 30 00 00 6
+4802 40 10 00 6
+4802 40 90 00 6
+4802 54 00 01 5,5
+4802 54 00 99 5
+4802 55 10 01 5,5
+4802 55 10 02 10
+Vámtarifaszám
+Vámtétel
+%
+4802 55 10 99 6
+4802 55 20 01 5,5
+4802 55 20 02 10
+4802 55 20 99 6
+4802 55 30 01 5,5
+4802 55 30 02 10
+4802 55 30 99 6
+4802 55 90 01 5,5
+4802 55 90 02 10
+4802 55 90 99 6
+4802 56 10 01 5,5
+4802 56 10 02 10
+4802 56 10 99 6
+4802 56 90 01 5,5
+4802 56 90 02 10
+4802 56 90 99 6
+4802 57 00 01 5,5
+4802 57 00 02 10
+4802 57 00 99 6
+4802 58 10 01 5,5
+4802 58 10 99 6
+4802 58 90 01 5,5
+4802 58 90 99 6
+4802 61 20 00 6
+4802 61 80 00 6
+4802 62 00 00 6
+4802 69 00 00 6
+4803 00 10 00 6
+4803 00 31 01 0
+4803 00 31 02 8
+4803 00 31 03 8
+4803 00 31 04 8,5
+4803 00 31 99 6
+4803 00 39 00 6
+4803 00 90 01 0
+4803 00 90 02 8
+4803 00 90 03 8
+Vámtarifaszám
+Vámtétel
+%
+4803 00 90 04 8,5
+4803 00 90 99 6
+4804 11 11 00 5
+4804 11 15 00 5
+4804 11 19 00 5
+4804 11 90 00 5
+4804 19 11 00 5
+4804 19 15 00 5
+4804 19 19 00 5
+4804 19 31 00 5
+4804 19 38 00 5
+4804 19 90 00 5
+4804 21 10 00 5
+4804 21 90 00 5
+4804 29 10 00 5
+4804 29 90 00 5
+4804 31 51 00 5
+4804 31 58 00 5
+4804 31 80 00 5
+4804 39 51 00 5
+4804 39 58 00 5
+4804 39 80 00 5
+4804 41 10 00 5
+4804 41 91 00 5
+4804 41 99 00 5
+4804 42 10 00 5
+4804 42 90 00 5
+4804 49 10 00 5
+4804 49 90 00 5
+4804 51 10 00 5
+4804 51 90 00 5
+4804 52 10 00 5
+4804 52 90 00 5
+4804 59 10 00 5
+4804 59 90 00 5
+4805 11 00 00 0
+4805 12 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+4805 19 10 00 0
+4805 19 90 00 0
+4805 24 00 00 6
+4805 25 00 00 6
+4805 30 10 00 5
+4805 30 90 00 5
+4805 40 00 01 5,5
+4805 40 00 99 6
+4805 50 00 00 6
+4805 91 00 01 5
+4805 91 00 02 0
+4805 91 00 99 6
+4805 92 00 01 5
+4805 92 00 02 0
+4805 92 00 99 6
+4805 93 20 01 0
+4805 93 20 02 5
+4805 93 20 99 6
+4805 93 80 01 5
+4805 93 80 02 0
+4805 93 80 99 6
+4806 10 00 00 0
+4806 20 00 00 0
+4806 30 00 00 0
+4806 40 10 00 0
+4806 40 90 00 0
+4807 00 30 00 6
+4807 00 80 00 6
+4808 10 00 00 10
+4808 20 00 00 8
+4808 30 00 00 8
+4808 90 00 01 0
+4808 90 00 99 8
+4809 10 00 00 8
+4809 20 10 00 8
+4809 20 90 00 8
+4809 90 00 00 8
+
+Vámtarifaszám
+Vámtétel
+%
+4810 13 20 00 8
+4810 13 80 01 10
+4810 13 80 02 6
+4810 13 80 03 8,5
+4810 13 80 99 8
+4810 14 20 00 8
+4810 14 80 01 10
+4810 14 80 02 6
+4810 14 80 03 8,5
+4810 14 80 99 8
+4810 19 10 00 8
+4810 19 90 01 10
+4810 19 90 02 6
+4810 19 90 03 8,5
+4810 19 90 99 8
+4810 22 10 01 8,5
+4810 22 10 99 8
+4810 22 90 01 8,5
+4810 22 90 99 8
+4810 29 30 00 8
+4810 29 80 00 8
+4810 31 00 00 8
+4810 32 10 00 8
+4810 32 90 00 8
+4810 39 00 00 8
+4810 90 10 00 8
+4810 92 10 00 8
+4810 92 30 00 8
+4810 92 90 00 8
+4810 99 10 00 8
+4810 99 30 00 8
+4810 99 90 00 8
+4811 10 00 00 8
+4811 41 20 00 8
+4811 41 90 00 8
+4811 49 00 00 8
+4811 51 00 00 8
+Vámtarifaszám
+Vámtétel
+%
+4811 59 00 01 0
+4811 59 00 02 6
+4811 59 00 99 8
+4811 60 00 00 8
+4811 90 00 01 8,5
+4811 90 00 99 8
+4812 00 00 00 6
+4813 10 00 00 7
+4813 20 00 00 7
+4813 90 00 01 6
+4813 90 00 02 8
+4813 90 00 03 7
+4813 90 00 99 5
+4814 10 00 00 6
+4814 20 00 01 18
+4814 20 00 99 6
+4814 30 00 00 8
+4814 90 10 00 8
+4814 90 90 01 0
+4814 90 90 99 8
+4815 00 00 00 6
+4816 10 00 00 8
+4816 20 00 00 8
+4816 30 00 00 8
+4816 90 00 00 8
+4817 10 00 00 8,5
+4817 20 00 00 8,5
+4817 30 00 00 8,5
+4818 10 10 00 5
+4818 10 90 00 5
+4818 20 10 00 8
+4818 20 91 00 8
+4818 20 99 00 8
+4818 30 00 00 8
+4818 40 11 00 8
+4818 40 13 00 8
+4818 40 19 00 8
+Vámtarifaszám
+Vámtétel
+%
+4818 40 90 00 8
+4818 50 00 00 8
+4818 90 10 01 6,2
+4818 90 10 99 8
+4818 90 90 01 6,2
+4818 90 90 99 8
+4819 10 00 00 6
+4819 20 00 00 6
+4819 30 00 00 6
+4819 40 00 00 6
+4819 50 00 01 0
+4819 50 00 02 8,5
+4819 50 00 99 6
+4819 60 00 00 8,5
+4820 10 10 00 8
+4820 10 30 01 8,5
+4820 10 30 99 8
+4820 10 50 00 8
+4820 10 90 00 8
+4820 20 00 00 8
+4820 30 00 00 8
+4820 40 10 00 8
+4820 40 90 00 8
+4820 50 00 00 8
+4820 90 00 00 8
+4821 10 10 00 8,5
+4821 10 90 00 8,5
+4821 90 10 00 8,5
+4821 90 90 00 8,5
+4822 10 00 00 4
+4822 90 00 00 4
+4823 12 00 00 6
+4823 19 00 01 6
+4823 19 00 99 6
+4823 20 00 00 6
+4823 40 00 00 8
+4823 60 10 00 8
+Vámtarifaszám
+Vámtétel
+%
+4823 60 90 00 8
+4823 70 10 01 3,5
+4823 70 10 99 8
+4823 70 90 00 8
+4823 90 40 01 6
+4823 90 40 99 6
+4823 90 80 01 0
+4823 90 80 02 5
+4823 90 80 03 6
+4823 90 80 99 8
+4901 10 00 00 0
+4901 91 00 00 0
+4901 99 00 01 8
+4901 99 00 99 0
+4902 10 00 01 8
+4902 10 00 99 0
+4902 90 10 01 8
+4902 90 10 99 0
+4902 90 30 01 8
+4902 90 30 99 0
+4902 90 90 01 8
+4902 90 90 99 0
+4903 00 00 00 0
+4904 00 00 00 0
+4905 10 00 00 5
+4905 91 00 00 5
+4905 99 00 00 5
+4906 00 00 00 0
+4907 00 10 00 0
+4907 00 30 00 0
+4907 00 90 00 0
+4908 10 00 01 6
+4908 10 00 99 8,5
+4908 90 00 01 5
+4908 90 00 99 8,5
+4909 00 10 00 8
+4909 00 90 00 8,5
+
+Vámtarifaszám
+Vámtétel
+%
+4910 00 00 01 0
+4910 00 00 99 8,5
+4911 10 10 00 0
+4911 10 90 00 0
+4911 91 00 01 0
+4911 91 00 99 8
+4911 99 00 00 8
+5001 00 00 00 6
+5002 00 00 00 3
+5003 10 00 00 3
+5003 90 00 00 3
+5004 00 10 00 6
+5004 00 90 00 6
+5005 00 10 01 5
+5005 00 10 99 6
+5005 00 90 01 5
+5005 00 90 99 6
+5006 00 10 01 0
+5006 00 10 99 7
+5006 00 90 01 6
+5006 00 90 99 7
+5007 10 00 00 7
+5007 20 11 00 7
+5007 20 19 00 7
+5007 20 21 01 7
+5007 20 21 99 7
+5007 20 31 01 7
+5007 20 31 99 7
+5007 20 39 01 7
+5007 20 39 99 7
+5007 20 41 01 7
+5007 20 41 99 7
+5007 20 51 01 7
+5007 20 51 99 7
+5007 20 59 01 7
+5007 20 59 99 7
+5007 20 61 01 7
+Vámtarifaszám
+Vámtétel
+%
+5007 20 61 99 7
+5007 20 69 01 7
+5007 20 69 99 7
+5007 20 71 01 7
+5007 20 71 99 7
+5007 90 10 01 7
+5007 90 10 99 7
+5007 90 30 01 7
+5007 90 30 99 7
+5007 90 50 01 7
+5007 90 50 99 7
+5007 90 90 01 7
+5007 90 90 99 7
+5101 11 00 00 3
+5101 19 00 00 3
+5101 21 00 00 3
+5101 29 00 00 3
+5101 30 00 00 3
+5102 11 00 00 3
+5102 19 10 00 3
+5102 19 30 00 3
+5102 19 40 00 3
+5102 19 90 00 3
+5102 20 00 00 3
+5103 10 10 00 3
+5103 10 90 00 3
+5103 20 10 00 3
+5103 20 91 00 3
+5103 20 99 00 3
+5103 30 00 00 3
+5104 00 00 00 3
+5105 10 00 00 5
+5105 21 00 00 3
+5105 29 00 00 5
+5105 31 00 01 5
+5105 31 00 02 3
+5105 39 10 00 5
+Vámtarifaszám
+Vámtétel
+%
+5105 39 90 00 3
+5105 40 00 01 5
+5105 40 00 99 3
+5106 10 10 00 6
+5106 10 90 00 6
+5106 20 10 00 6
+5106 20 91 00 6
+5106 20 99 00 6
+5107 10 10 00 6
+5107 10 90 00 6
+5107 20 10 00 6
+5107 20 30 00 6
+5107 20 51 00 6
+5107 20 59 00 6
+5107 20 91 00 6
+5107 20 99 00 6
+5108 10 10 00 7
+5108 10 90 00 7
+5108 20 10 00 7
+5108 20 90 00 7
+5109 10 10 00 7,7
+5109 10 90 00 7,7
+5109 90 10 00 7,7
+5109 90 90 00 7,7
+5110 00 00 01 7
+5110 00 00 99 7
+5111 11 00 00 10
+5111 19 10 00 7,5
+5111 19 90 00 7,5
+5111 20 00 00 7,5
+5111 30 10 00 7,5
+5111 30 30 00 7,5
+5111 30 90 00 7,5
+5111 90 10 00 10
+5111 90 91 00 10
+5111 90 93 00 10
+5111 90 99 00 10
+Vámtarifaszám
+Vámtétel
+%
+5112 11 00 00 10
+5112 19 10 00 7
+5112 19 90 00 7
+5112 20 00 00 7
+5112 30 10 00 7
+5112 30 30 00 7
+5112 30 90 00 7
+5112 90 10 00 10
+5112 90 91 00 10
+5112 90 93 00 10
+5112 90 99 00 10
+5113 00 00 00 8
+5201 00 10 00 0
+5201 00 90 00 0
+5202 10 00 00 3
+5202 91 00 00 3
+5202 99 00 00 3
+5203 00 00 00 3
+5204 11 00 00 5
+5204 19 00 00 5
+5204 20 00 00 8
+5205 11 00 00 5
+5205 12 00 00 5
+5205 13 00 00 5
+5205 14 00 00 5
+5205 15 10 00 5
+5205 15 90 00 5
+5205 21 00 00 5
+5205 22 00 00 5
+5205 23 00 00 5
+5205 24 00 00 5
+5205 26 00 00 5
+5205 27 00 00 5
+5205 28 00 00 5
+5205 31 00 00 5
+5205 32 00 00 5
+5205 33 00 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+5205 34 00 00 5
+5205 35 00 00 5
+5205 41 00 00 5
+5205 42 00 00 5
+5205 43 00 00 5
+5205 44 00 00 5
+5205 46 00 00 5
+5205 47 00 00 5
+5205 48 00 00 5
+5206 11 00 00 5
+5206 12 00 00 5
+5206 13 00 00 5
+5206 14 00 00 5
+5206 15 10 00 5
+5206 15 90 00 5
+5206 21 00 00 5
+5206 22 00 00 5
+5206 23 00 00 5
+5206 24 00 00 5
+5206 25 10 00 5
+5206 25 90 00 5
+5206 31 00 00 5
+5206 32 00 00 5
+5206 33 00 00 5
+5206 34 00 00 5
+5206 35 00 00 5
+5206 41 00 00 5
+5206 42 00 00 5
+5206 43 00 00 5
+5206 44 00 00 5
+5206 45 00 00 5
+5207 10 00 00 8
+5207 90 00 00 8
+5208 11 10 01 0
+5208 11 10 02 5
+5208 11 10 99 7
+5208 11 90 01 0
+Vámtarifaszám
+Vámtétel
+%
+5208 11 90 02 5
+5208 11 90 99 7
+5208 12 16 00 7
+5208 12 19 00 7
+5208 12 96 00 7
+5208 12 99 00 7
+5208 13 00 01 0
+5208 13 00 99 7
+5208 19 00 01 0
+5208 19 00 99 7
+5208 21 10 01 0
+5208 21 10 99 10
+5208 21 90 01 0
+5208 21 90 99 10
+5208 22 16 00 10
+5208 22 19 00 10
+5208 22 96 00 10
+5208 22 99 00 10
+5208 23 00 01 0
+5208 23 00 99 10
+5208 29 00 01 0
+5208 29 00 99 10
+5208 31 00 01 0
+5208 31 00 99 10
+5208 32 16 00 10
+5208 32 19 00 10
+5208 32 96 00 10
+5208 32 99 00 10
+5208 33 00 01 0
+5208 33 00 99 10
+5208 39 00 01 0
+5208 39 00 99 10
+5208 41 00 01 0
+5208 41 00 99 10
+5208 42 00 00 10
+5208 43 00 01 0
+5208 43 00 99 10
+Vámtarifaszám
+Vámtétel
+%
+5208 49 00 01 0
+5208 49 00 99 10
+5208 51 00 01 0
+5208 51 00 99 10
+5208 52 10 00 10
+5208 52 90 00 10
+5208 53 00 01 0
+5208 53 00 99 10
+5208 59 00 01 0
+5208 59 00 99 10
+5209 11 00 00 7
+5209 12 00 00 7
+5209 19 00 00 7
+5209 21 00 00 10
+5209 22 00 00 10
+5209 29 00 00 10
+5209 31 00 00 10
+5209 32 00 00 10
+5209 39 00 00 10
+5209 41 00 00 10
+5209 42 00 00 10
+5209 43 00 00 10
+5209 49 10 00 10
+5209 49 90 00 10
+5209 51 00 00 10
+5209 52 00 00 10
+5209 59 00 00 10
+5210 11 10 01 0
+5210 11 10 99 7
+5210 11 90 01 0
+5210 11 90 99 7
+5210 12 00 01 0
+5210 12 00 99 7
+5210 19 00 01 0
+5210 19 00 99 7
+5210 21 10 01 0
+5210 21 10 99 10
+Vámtarifaszám
+Vámtétel
+%
+5210 21 90 01 0
+5210 21 90 99 10
+5210 22 00 01 0
+5210 22 00 99 10
+5210 29 00 01 0
+5210 29 00 99 10
+5210 31 10 01 0
+5210 31 10 99 10
+5210 31 90 01 0
+5210 31 90 99 10
+5210 32 00 01 0
+5210 32 00 99 10
+5210 39 00 01 0
+5210 39 00 99 10
+5210 41 00 01 0
+5210 41 00 99 10
+5210 42 00 01 0
+5210 42 00 99 10
+5210 49 00 01 0
+5210 49 00 99 10
+5210 51 00 01 0
+5210 51 00 99 10
+5210 52 00 01 0
+5210 52 00 99 10
+5210 59 00 01 0
+5210 59 00 99 10
+5211 11 00 00 7
+5211 12 00 00 10
+5211 19 00 00 10
+5211 21 00 00 10
+5211 22 00 00 10
+5211 29 00 00 10
+5211 31 00 00 10
+5211 32 00 00 10
+5211 39 00 00 10
+5211 41 00 00 10
+5211 42 00 00 10
+
+Vámtarifaszám
+Vámtétel
+%
+5211 43 00 00 10
+5211 49 10 00 10
+5211 49 90 00 10
+5211 51 00 00 10
+5211 52 00 00 10
+5211 59 00 00 10
+5212 11 10 01 0
+5212 11 10 99 7
+5212 11 90 01 0
+5212 11 90 99 7
+5212 12 10 01 0
+5212 12 10 99 10
+5212 12 90 01 0
+5212 12 90 99 10
+5212 13 10 01 0
+5212 13 10 99 10
+5212 13 90 01 0
+5212 13 90 99 10
+5212 14 10 01 0
+5212 14 10 99 10
+5212 14 90 01 0
+5212 14 90 99 10
+5212 15 10 01 0
+5212 15 10 99 10
+5212 15 90 01 0
+5212 15 90 99 10
+5212 21 10 00 7
+5212 21 90 00 7
+5212 22 10 00 10
+5212 22 90 00 10
+5212 23 10 00 10
+5212 23 90 00 10
+5212 24 10 00 10
+5212 24 90 00 10
+5212 25 10 00 10
+5212 25 90 00 10
+5301 10 00 00 3,5
+Vámtarifaszám
+Vámtétel
+%
+5301 21 00 00 3,5
+5301 29 00 00 3,5
+5301 30 10 00 3,5
+5301 30 90 00 3,5
+5302 10 00 00 5
+5302 90 00 00 5
+5303 10 00 00 0
+5303 90 00 00 0
+5304 10 00 00 0
+5304 90 00 00 0
+5305 11 00 00 0
+5305 19 00 00 0
+5305 21 00 00 0
+5305 29 00 00 0
+5305 90 00 01 3
+5305 90 00 99 0
+5306 10 10 00 5
+5306 10 30 00 5
+5306 10 50 00 5
+5306 10 90 00 8,5
+5306 20 10 00 5
+5306 20 90 00 8,5
+5307 10 10 00 0
+5307 10 90 00 0
+5307 20 00 00 0
+5308 10 00 00 0
+5308 20 10 00 7
+5308 20 90 00 8,5
+5308 90 12 01 8,5
+5308 90 12 02 5
+5308 90 19 01 8,5
+5308 90 19 02 5
+5308 90 50 00 5,5
+5308 90 90 00 0
+5309 11 10 00 10
+5309 11 90 00 10
+5309 19 00 00 10
+Vámtarifaszám
+Vámtétel
+%
+5309 21 10 00 10
+5309 21 90 00 10
+5309 29 00 00 10
+5310 10 10 00 8,5
+5310 10 90 00 8,5
+5310 90 00 00 8,5
+5311 00 10 00 7,5
+5311 00 90 01 8,5
+5311 00 90 99 8,5
+5401 10 11 00 6,5
+5401 10 19 00 6,5
+5401 10 90 00 8,5
+5401 20 10 00 0
+5401 20 90 00 8
+5402 10 10 00 7
+5402 10 90 01 6,5
+5402 10 90 99 7
+5402 20 00 00 7
+5402 31 00 01 6,5
+5402 31 00 99 7
+5402 32 00 01 6,5
+5402 32 00 99 7
+5402 33 00 00 7
+5402 39 10 00 7
+5402 39 90 00 7
+5402 41 00 01 6,5
+5402 41 00 99 7
+5402 42 00 00 7
+5402 43 00 00 7
+5402 49 10 00 7
+5402 49 91 00 7
+5402 49 99 00 7
+5402 51 00 01 6,5
+5402 51 00 99 7
+5402 52 00 00 7
+5402 59 10 00 7
+5402 59 90 00 7
+Vámtarifaszám
+Vámtétel
+%
+5402 61 00 01 6,5
+5402 61 00 99 7
+5402 62 00 00 7
+5402 69 10 00 7
+5402 69 90 00 7
+5403 10 00 00 0
+5403 20 00 00 0
+5403 31 00 00 0
+5403 32 00 00 0
+5403 33 00 00 0
+5403 39 00 00 0
+5403 41 00 00 0
+5403 42 00 00 0
+5403 49 00 00 0
+5404 10 10 00 0
+5404 10 90 00 0
+5404 90 11 00 7
+5404 90 19 00 7
+5404 90 90 00 7
+5405 00 00 00 3,5
+5406 10 00 00 8,5
+5406 20 00 00 8
+5407 10 00 00 10
+5407 20 11 00 10
+5407 20 19 00 10
+5407 20 90 00 10
+5407 30 00 00 10
+5407 41 00 00 10
+5407 42 00 00 10
+5407 43 00 00 10
+5407 44 00 00 10
+5407 51 00 00 10
+5407 52 00 00 10
+5407 53 00 00 10
+5407 54 00 00 10
+5407 61 10 00 10
+5407 61 30 00 10
+
+Vámtarifaszám
+Vámtétel
+%
+5407 61 50 00 10
+5407 61 90 00 10
+5407 69 10 00 10
+5407 69 90 00 10
+5407 71 00 00 10
+5407 72 00 00 10
+5407 73 00 00 10
+5407 74 00 00 10
+5407 81 00 00 10
+5407 82 00 00 10
+5407 83 00 00 10
+5407 84 00 00 10
+5407 91 00 00 10
+5407 92 00 00 10
+5407 93 00 00 10
+5407 94 00 00 10
+5408 10 00 00 10
+5408 21 00 00 10
+5408 22 10 00 10
+5408 22 90 00 10
+5408 23 10 00 10
+5408 23 90 00 10
+5408 24 00 00 10
+5408 31 00 00 10
+5408 32 00 00 7,5
+5408 33 00 00 7,5
+5408 34 00 00 7,5
+5501 10 00 00 3
+5501 20 00 00 3
+5501 30 00 00 3
+5501 90 10 00 3
+5501 90 90 00 3
+5502 00 10 00 0
+5502 00 40 00 0
+5502 00 80 00 0
+5503 10 10 00 3
+5503 10 90 00 3
+Vámtarifaszám
+Vámtétel
+%
+5503 20 00 00 5
+5503 30 00 00 5
+5503 40 00 00 5
+5503 90 10 00 5
+5503 90 90 00 5
+5504 10 00 00 0
+5504 90 00 00 0
+5505 10 10 00 2,5
+5505 10 30 00 2,5
+5505 10 50 00 2,5
+5505 10 70 00 2,5
+5505 10 90 00 2,5
+5505 20 00 00 3
+5506 10 00 00 7
+5506 20 00 00 7
+5506 30 00 00 7
+5506 90 10 00 7
+5506 90 90 00 7
+5507 00 00 00 0
+5508 10 11 00 6,5
+5508 10 19 00 6,5
+5508 10 90 00 8,5
+5508 20 10 00 0
+5508 20 90 00 8,5
+5509 11 00 00 6,5
+5509 12 00 00 6,5
+5509 21 10 00 6,5
+5509 21 90 00 6,5
+5509 22 10 00 6,5
+5509 22 90 00 6,5
+5509 31 10 00 6,5
+5509 31 90 00 6,5
+5509 32 10 00 6,5
+5509 32 90 00 6,5
+5509 41 10 00 6,5
+5509 41 90 00 6,5
+5509 42 10 00 6,5
+Vámtarifaszám
+Vámtétel
+%
+5509 42 90 00 6,5
+5509 51 00 00 6,5
+5509 52 10 00 6,5
+5509 52 90 00 6,5
+5509 53 00 00 6,5
+5509 59 00 00 6,5
+5509 61 10 00 6,5
+5509 61 90 00 6,5
+5509 62 00 00 6,5
+5509 69 00 00 6,5
+5509 91 10 00 6,5
+5509 91 90 00 6,5
+5509 92 00 00 6,5
+5509 99 00 00 6,5
+5510 11 00 00 0
+5510 12 00 00 0
+5510 20 00 00 0
+5510 30 00 00 0
+5510 90 00 00 0
+5511 10 00 00 8,5
+5511 20 00 00 8,5
+5511 30 00 00 8,5
+5512 11 00 00 7
+5512 19 10 00 7
+5512 19 90 00 7
+5512 21 00 00 7
+5512 29 10 00 7
+5512 29 90 00 7
+5512 91 00 00 7
+5512 99 10 00 7
+5512 99 90 00 7
+5513 11 20 00 7
+5513 11 90 00 7
+5513 12 00 00 7
+5513 13 00 00 7
+5513 19 00 00 7
+5513 21 10 00 7
+Vámtarifaszám
+Vámtétel
+%
+5513 21 30 00 7
+5513 21 90 00 7
+5513 22 00 00 7
+5513 23 00 00 7
+5513 29 00 00 7
+5513 31 00 00 7
+5513 32 00 00 7
+5513 33 00 00 7
+5513 39 00 00 7
+5513 41 00 00 7
+5513 42 00 00 7
+5513 43 00 00 7
+5513 49 00 00 7
+5514 11 00 00 7
+5514 12 00 00 7
+5514 13 00 00 7
+5514 19 00 00 7
+5514 21 00 00 7
+5514 22 00 00 7
+5514 23 00 00 7
+5514 29 00 00 7
+5514 31 00 00 7
+5514 32 00 00 7
+5514 33 00 00 7
+5514 39 00 00 7
+5514 41 00 00 7
+5514 42 00 00 7
+5514 43 00 00 7
+5514 49 00 00 7
+5515 11 10 00 7
+5515 11 30 00 7
+5515 11 90 00 7
+5515 12 10 00 7
+5515 12 30 00 7
+5515 12 90 00 7
+5515 13 11 00 7
+5515 13 19 00 7
+
+Vámtarifaszám
+Vámtétel
+%
+5515 13 91 00 7
+5515 13 99 00 7
+5515 19 10 00 7
+5515 19 30 00 7
+5515 19 90 00 7
+5515 21 10 00 7
+5515 21 30 00 7
+5515 21 90 00 7
+5515 22 11 00 7
+5515 22 19 00 7
+5515 22 91 00 7
+5515 22 99 00 7
+5515 29 10 00 7
+5515 29 30 00 7
+5515 29 90 00 7
+5515 91 10 00 7
+5515 91 30 00 7
+5515 91 90 00 7
+5515 92 11 00 7
+5515 92 19 00 7
+5515 92 91 00 7
+5515 92 99 00 7
+5515 99 10 00 7
+5515 99 30 00 7
+5515 99 90 00 7
+5516 11 00 00 7
+5516 12 00 00 7
+5516 13 00 00 7
+5516 14 00 00 7
+5516 21 00 00 7
+5516 22 00 00 7
+5516 23 10 00 7
+5516 23 90 00 7
+5516 24 00 00 7
+5516 31 00 00 7
+5516 32 00 00 7
+5516 33 00 00 7
+Vámtarifaszám
+Vámtétel
+%
+5516 34 00 00 7
+5516 41 00 00 7
+5516 42 00 00 7
+5516 43 00 00 7
+5516 44 00 00 7
+5516 91 00 00 7
+5516 92 00 00 7
+5516 93 00 00 7
+5516 94 00 00 7
+5601 10 10 00 8
+5601 10 90 00 8
+5601 21 10 00 8
+5601 21 90 00 8
+5601 22 10 00 8
+5601 22 91 00 8
+5601 22 99 00 8
+5601 29 00 00 8
+5601 30 00 00 8
+5602 10 11 00 6
+5602 10 19 00 6
+5602 10 31 00 6
+5602 10 35 00 6
+5602 10 39 00 6
+5602 10 90 00 6
+5602 21 00 00 6
+5602 29 10 00 6
+5602 29 90 00 6
+5602 90 00 00 6
+5603 11 10 00 7
+5603 11 90 00 7
+5603 12 10 00 7
+5603 12 90 00 7
+5603 13 10 00 7
+5603 13 90 00 7
+5603 14 10 00 7
+5603 14 90 00 7
+5603 91 10 00 7
+Vámtarifaszám
+Vámtétel
+%
+5603 91 90 00 7
+5603 92 10 00 7
+5603 92 90 00 7
+5603 93 10 00 7
+5603 93 90 00 7
+5603 94 10 00 7
+5603 94 90 00 7
+5604 10 00 00 10
+5604 20 00 01 7
+5604 20 00 02 3,5
+5604 20 00 99 8,9
+5604 90 00 00 8,9
+5605 00 00 01 3,5
+5605 00 00 02 7
+5605 00 00 99 8,5
+5606 00 10 00 13
+5606 00 91 00 7
+5606 00 99 00 7
+5607 10 00 00 3,5
+5607 21 00 00 3,5
+5607 29 10 00 3,5
+5607 29 90 00 3,5
+5607 41 00 00 3,5
+5607 49 11 00 3,5
+5607 49 19 00 3,5
+5607 49 90 00 3,5
+5607 50 11 00 3,5
+5607 50 19 00 3,5
+5607 50 30 00 3,5
+5607 50 90 00 3,5
+5607 90 10 00 3,5
+5607 90 90 00 3,5
+5608 11 11 01 10
+5608 11 11 99 9
+5608 11 19 01 10
+5608 11 19 99 9
+5608 11 91 01 10
+Vámtarifaszám
+Vámtétel
+%
+5608 11 91 99 9
+5608 11 99 01 10
+5608 11 99 99 9
+5608 19 11 01 10
+5608 19 11 99 9
+5608 19 19 01 10
+5608 19 19 99 9
+5608 19 30 01 10
+5608 19 30 99 9
+5608 19 90 01 10
+5608 19 90 99 9
+5608 90 00 01 10
+5608 90 00 99 9
+5609 00 00 00 9
+5701 10 10 01 0
+5701 10 10 02 7
+5701 10 91 01 0
+5701 10 91 02 7
+5701 10 93 01 0
+5701 10 93 02 7
+5701 10 99 01 0
+5701 10 99 02 7
+5701 90 10 01 0
+5701 90 10 02 7
+5701 90 90 01 0
+5701 90 90 02 7
+5702 10 00 00 0
+5702 20 00 00 7,4
+5702 31 00 00 8,5
+5702 32 00 00 8,5
+5702 39 10 00 8,5
+5702 39 90 00 8,5
+5702 41 00 00 8,5
+5702 42 00 00 8,5
+5702 49 10 00 8,5
+5702 49 90 00 8,5
+5702 51 00 00 8,5
+
+Vámtarifaszám
+Vámtétel
+%
+5702 52 00 00 8,5
+5702 59 00 00 8,5
+5702 91 00 00 8,5
+5702 92 00 00 8,5
+5702 99 00 00 8,5
+5703 10 00 01 8,5
+5703 10 00 99 6
+5703 20 11 01 8,5
+5703 20 11 99 6
+5703 20 19 01 8,5
+5703 20 19 99 6
+5703 20 91 01 8,5
+5703 20 91 99 6
+5703 20 99 01 8,5
+5703 20 99 99 6
+5703 30 11 01 8,5
+5703 30 11 99 6
+5703 30 19 01 8,5
+5703 30 19 99 6
+5703 30 51 01 8,5
+5703 30 51 99 6
+5703 30 59 01 8,5
+5703 30 59 99 6
+5703 30 91 01 8,5
+5703 30 91 99 6
+5703 30 99 01 8,5
+5703 30 99 99 6
+5703 90 00 01 8,5
+5703 90 00 99 6
+5704 10 00 00 6
+5704 90 00 00 6
+5705 00 10 01 8,5
+5705 00 10 99 6
+5705 00 30 01 8,5
+5705 00 30 99 6
+5705 00 90 01 8,5
+5705 00 90 99 6
+Vámtarifaszám
+Vámtétel
+%
+5801 10 00 01 7,5
+5801 10 00 02 7
+5801 10 00 03 9
+5801 10 00 99 7
+5801 21 00 01 7,5
+5801 21 00 02 7
+5801 21 00 99 7
+5801 22 00 01 9
+5801 22 00 99 7
+5801 23 00 01 9
+5801 23 00 99 7
+5801 24 00 01 9
+5801 24 00 99 7
+5801 25 00 01 9
+5801 25 00 99 7
+5801 26 00 01 9
+5801 26 00 99 7
+5801 31 00 01 7,5
+5801 31 00 02 9
+5801 31 00 99 7
+5801 32 00 01 9
+5801 32 00 99 7
+5801 33 00 01 9
+5801 33 00 99 7
+5801 34 00 01 9
+5801 34 00 99 7
+5801 35 00 01 9
+5801 35 00 99 7
+5801 36 00 01 9
+5801 36 00 99 7
+5801 90 10 00 7,5
+5801 90 90 01 9
+5801 90 90 02 8,5
+5801 90 90 03 7,5
+5801 90 90 04 8
+5801 90 90 99 7
+5802 11 00 01 8,5
+Vámtarifaszám
+Vámtétel
+%
+5802 11 00 02 9
+5802 11 00 99 7
+5802 19 00 01 8,5
+5802 19 00 02 9
+5802 19 00 99 7
+5802 20 00 01 9
+5802 20 00 99 7
+5802 30 00 01 6
+5802 30 00 02 13
+5802 30 00 03 9
+5802 30 00 99 7
+5803 10 00 00 9,5
+5803 90 10 01 8
+5803 90 10 99 7
+5803 90 30 00 10
+5803 90 50 00 10
+5803 90 90 01 10
+5803 90 90 02 8,5
+5803 90 90 99 7
+5804 10 11 01 9
+5804 10 11 99 7
+5804 10 19 01 9
+5804 10 19 99 7
+5804 10 90 01 9
+5804 10 90 99 7
+5804 21 10 01 9
+5804 21 10 99 7
+5804 21 90 01 9
+5804 21 90 99 7
+5804 29 10 01 9
+5804 29 10 99 7
+5804 29 90 01 9
+5804 29 90 99 7
+5804 30 00 01 9
+5804 30 00 99 7
+5805 00 00 00 8,5
+5806 10 00 01 8,5
+Vámtarifaszám
+Vámtétel
+%
+5806 10 00 99 7
+5806 20 00 01 8,5
+5806 20 00 99 7
+5806 31 00 01 8,5
+5806 31 00 99 7
+5806 32 10 01 8,5
+5806 32 10 99 7
+5806 32 90 01 8,5
+5806 32 90 99 7
+5806 39 00 01 8,5
+5806 39 00 99 7
+5806 40 00 01 8,5
+5806 40 00 99 7
+5807 10 10 00 7
+5807 10 90 00 7
+5807 90 10 01 6
+5807 90 10 02 7
+5807 90 90 01 20
+5807 90 90 99 7
+5808 10 00 01 8,5
+5808 10 00 99 7
+5808 90 00 01 8,5
+5808 90 00 99 7
+5809 00 00 00 8,5
+5810 10 10 00 9
+5810 10 90 00 9
+5810 91 10 00 8,5
+5810 91 90 00 8,5
+5810 92 10 00 8,5
+5810 92 90 00 8,5
+5810 99 10 00 8,5
+5810 99 90 00 8,5
+5811 00 00 01 8
+5811 00 00 02 10
+5811 00 00 03 8,5
+5811 00 00 04 8
+5811 00 00 05 6
+
+Vámtarifaszám
+Vámtétel
+%
+5811 00 00 06 9
+5811 00 00 07 10
+5811 00 00 99 7
+5901 10 00 00 8,5
+5901 90 00 00 8,5
+5902 10 10 00 9
+5902 10 90 01 8
+5902 10 90 99 10
+5902 20 10 00 9
+5902 20 90 01 8
+5902 20 90 99 10
+5902 90 10 00 9
+5902 90 90 01 8
+5902 90 90 99 10
+5903 10 10 00 7
+5903 10 90 00 7
+5903 20 10 00 7
+5903 20 90 00 7
+5903 90 10 00 7
+5903 90 91 00 7
+5903 90 99 00 7
+5904 10 00 00 13
+5904 90 00 00 13
+5905 00 10 01 8
+5905 00 10 02 10
+5905 00 10 03 8,5
+5905 00 10 04 8
+5905 00 10 05 9
+5905 00 10 06 6
+5905 00 10 07 13
+5905 00 10 99 7
+5905 00 30 00 10
+5905 00 50 00 8,5
+5905 00 70 00 10
+5905 00 90 01 8
+5905 00 90 02 10
+5905 00 90 03 8,5
+Vámtarifaszám
+Vámtétel
+%
+5905 00 90 04 8
+5905 00 90 05 9
+5905 00 90 06 6
+5905 00 90 07 13
+5905 00 90 99 7
+5906 10 00 01 8,5
+5906 10 00 02 9
+5906 10 00 99 8
+5906 91 00 00 7
+5906 99 10 01 8,5
+5906 99 10 02 9
+5906 99 10 99 8
+5906 99 90 01 8,5
+5906 99 90 02 9
+5906 99 90 99 8
+5907 00 10 00 7
+5907 00 90 01 7
+5907 00 90 02 6,5
+5907 00 90 99 5
+5908 00 00 00 9
+5909 00 10 00 8,5
+5909 00 90 00 8,5
+5910 00 00 00 7
+5911 10 00 00 7
+5911 20 00 01 0
+5911 20 00 99 7
+5911 31 11 00 5
+5911 31 19 00 5
+5911 31 90 00 5
+5911 32 10 00 5
+5911 32 90 00 5
+5911 40 00 00 7
+5911 90 10 00 7
+5911 90 90 00 7
+6001 10 00 01 7
+6001 10 00 99 13
+6001 21 00 01 7
+Vámtarifaszám
+Vámtétel
+%
+6001 21 00 99 13
+6001 22 00 01 7
+6001 22 00 99 13
+6001 29 10 01 7
+6001 29 10 99 13
+6001 29 90 01 7
+6001 29 90 99 13
+6001 91 10 01 7
+6001 91 10 99 13
+6001 91 30 01 7
+6001 91 30 99 13
+6001 91 50 01 7
+6001 91 50 99 13
+6001 91 90 01 7
+6001 91 90 99 13
+6001 92 10 01 7
+6001 92 10 99 13
+6001 92 30 01 7
+6001 92 30 99 13
+6001 92 50 01 7
+6001 92 50 99 13
+6001 92 90 01 7
+6001 92 90 99 13
+6001 99 10 01 7
+6001 99 10 99 13
+6001 99 90 01 7
+6001 99 90 99 13
+6002 40 00 00 13
+6002 90 00 01 7
+6002 90 00 99 13
+6003 10 00 01 7
+6003 10 00 99 13
+6003 20 00 01 7
+6003 20 00 99 13
+6003 30 10 01 7
+6003 30 10 99 13
+6003 30 90 01 7
+Vámtarifaszám
+Vámtétel
+%
+6003 30 90 99 13
+6003 40 00 01 7
+6003 40 00 99 13
+6003 90 00 01 7
+6003 90 00 99 13
+6004 10 00 00 13
+6004 90 00 01 7
+6004 90 00 99 13
+6005 10 00 01 7
+6005 10 00 99 13
+6005 21 00 01 7
+6005 21 00 99 13
+6005 22 00 01 7
+6005 22 00 99 13
+6005 23 00 01 7
+6005 23 00 99 13
+6005 24 00 01 7
+6005 24 00 99 13
+6005 31 10 01 7
+6005 31 10 99 13
+6005 31 50 01 7
+6005 31 50 99 13
+6005 31 90 01 7
+6005 31 90 99 13
+6005 32 10 01 7
+6005 32 10 99 13
+6005 32 50 01 7
+6005 32 50 99 13
+6005 32 90 01 7
+6005 32 90 99 13
+6005 33 10 01 7
+6005 33 10 99 13
+6005 33 50 01 7
+6005 33 50 99 13
+6005 33 90 01 7
+6005 33 90 99 13
+6005 34 10 01 7
+
+Vámtarifaszám
+Vámtétel
+%
+6005 34 10 99 13
+6005 34 50 01 7
+6005 34 50 99 13
+6005 34 90 01 7
+6005 34 90 99 13
+6005 41 00 01 7
+6005 41 00 99 13
+6005 42 00 01 7
+6005 42 00 99 13
+6005 43 00 01 7
+6005 43 00 99 13
+6005 44 00 01 7
+6005 44 00 99 13
+6005 90 00 01 7
+6005 90 00 99 13
+6006 10 00 01 7
+6006 10 00 99 13
+6006 21 00 01 7
+6006 21 00 99 13
+6006 22 00 01 7
+6006 22 00 99 13
+6006 23 00 01 7
+6006 23 00 99 13
+6006 24 00 01 7
+6006 24 00 99 13
+6006 31 10 01 7
+6006 31 10 99 13
+6006 31 90 01 7
+6006 31 90 99 13
+6006 32 10 01 7
+6006 32 10 99 13
+6006 32 90 01 7
+6006 32 90 99 13
+6006 33 10 01 7
+6006 33 10 99 13
+6006 33 90 01 7
+6006 33 90 99 13
+Vámtarifaszám
+Vámtétel
+%
+6006 34 10 01 7
+6006 34 10 99 13
+6006 34 90 01 7
+6006 34 90 99 13
+6006 41 00 01 7
+6006 41 00 99 13
+6006 42 00 01 7
+6006 42 00 99 13
+6006 43 00 01 7
+6006 43 00 99 13
+6006 44 00 01 7
+6006 44 00 99 13
+6006 90 00 01 7
+6006 90 00 99 13
+6101 10 10 00 13
+6101 10 90 00 13
+6101 20 10 00 13
+6101 20 90 00 13
+6101 30 10 00 13
+6101 30 90 00 13
+6101 90 10 00 13
+6101 90 90 00 13
+6102 10 10 00 13
+6102 10 90 00 13
+6102 20 10 00 13
+6102 20 90 00 13
+6102 30 10 00 13
+6102 30 90 00 13
+6102 90 10 00 13
+6102 90 90 00 13
+6103 11 00 00 13
+6103 12 00 00 13
+6103 19 00 00 13
+6103 21 00 00 13
+6103 22 00 00 13
+6103 23 00 00 13
+6103 29 00 00 13
+Vámtarifaszám
+Vámtétel
+%
+6103 31 00 00 13
+6103 32 00 00 13
+6103 33 00 00 13
+6103 39 00 00 13
+6103 41 10 00 13
+6103 41 90 00 13
+6103 42 10 00 13
+6103 42 90 00 13
+6103 43 10 00 13
+6103 43 90 00 13
+6103 49 10 00 13
+6103 49 91 00 13
+6103 49 99 00 13
+6104 11 00 00 13
+6104 12 00 00 13
+6104 13 00 00 13
+6104 19 00 00 13
+6104 21 00 00 13
+6104 22 00 00 13
+6104 23 00 00 13
+6104 29 00 00 13
+6104 31 00 00 13
+6104 32 00 00 13
+6104 33 00 00 13
+6104 39 00 00 13
+6104 41 00 00 13
+6104 42 00 00 13
+6104 43 00 00 13
+6104 44 00 00 13
+6104 49 00 00 13
+6104 51 00 00 13
+6104 52 00 00 13
+6104 53 00 00 13
+6104 59 00 00 13
+6104 61 10 00 13
+6104 61 90 00 13
+6104 62 10 00 13
+Vámtarifaszám
+Vámtétel
+%
+6104 62 90 00 13
+6104 63 10 00 13
+6104 63 90 00 13
+6104 69 10 00 13
+6104 69 91 00 13
+6104 69 99 00 13
+6105 10 00 00 13
+6105 20 10 00 13
+6105 20 90 00 13
+6105 90 10 00 13
+6105 90 90 00 13
+6106 10 00 00 13
+6106 20 00 00 13
+6106 90 10 00 13
+6106 90 30 00 13
+6106 90 50 00 13
+6106 90 90 00 13
+6107 11 00 00 13
+6107 12 00 00 13
+6107 19 00 00 13
+6107 21 00 00 13
+6107 22 00 00 13
+6107 29 00 00 13
+6107 91 10 00 13
+6107 91 90 00 13
+6107 92 00 00 13
+6107 99 00 00 13
+6108 11 00 00 13
+6108 19 00 00 13
+6108 21 00 00 13
+6108 22 00 00 13
+6108 29 00 00 13
+6108 31 10 00 13
+6108 31 90 00 13
+6108 32 11 00 13
+6108 32 19 00 13
+6108 32 90 00 13
+
+Vámtarifaszám
+Vámtétel
+%
+6108 39 00 00 13
+6108 91 10 00 13
+6108 91 90 00 13
+6108 92 00 00 13
+6108 99 10 00 13
+6108 99 90 00 13
+6109 10 00 00 13
+6109 90 10 00 13
+6109 90 30 00 13
+6109 90 90 00 13
+6110 11 10 00 13
+6110 11 30 00 13
+6110 11 90 00 13
+6110 12 10 00 13
+6110 12 90 00 13
+6110 19 10 00 13
+6110 19 90 00 13
+6110 20 10 00 13
+6110 20 91 00 13
+6110 20 99 00 13
+6110 30 10 00 13
+6110 30 91 00 13
+6110 30 99 00 13
+6110 90 10 00 13
+6110 90 90 00 13
+6111 10 10 00 8,5
+6111 10 90 01 7
+6111 10 90 99 13
+6111 20 10 00 8,5
+6111 20 90 01 7
+6111 20 90 99 13
+6111 30 10 00 8,5
+6111 30 90 01 7
+6111 30 90 99 13
+6111 90 00 01 8,5
+6111 90 00 02 7
+6111 90 00 99 13
+Vámtarifaszám
+Vámtétel
+%
+6112 11 00 00 13
+6112 12 00 00 13
+6112 19 00 00 13
+6112 20 00 00 13
+6112 31 10 01 8
+6112 31 10 99 13
+6112 31 90 01 8
+6112 31 90 99 13
+6112 39 10 01 8
+6112 39 10 99 13
+6112 39 90 01 8
+6112 39 90 99 13
+6112 41 10 01 8
+6112 41 10 99 13
+6112 41 90 01 8
+6112 41 90 99 13
+6112 49 10 01 8
+6112 49 10 99 13
+6112 49 90 01 8
+6112 49 90 99 13
+6113 00 10 01 8
+6113 00 10 99 13
+6113 00 90 01 8
+6113 00 90 99 13
+6114 10 00 00 13
+6114 20 00 00 13
+6114 30 00 00 13
+6114 90 00 00 13
+6115 11 00 01 8
+6115 11 00 99 3
+6115 12 00 01 8
+6115 12 00 99 3
+6115 19 00 01 8
+6115 19 00 99 3
+6115 20 11 00 8
+6115 20 19 00 8
+6115 20 90 00 8
+Vámtarifaszám
+Vámtétel
+%
+6115 91 00 01 3
+6115 91 00 99 8
+6115 92 00 01 3
+6115 92 00 99 8
+6115 93 10 00 3
+6115 93 30 01 3
+6115 93 30 99 8
+6115 93 91 00 8
+6115 93 99 01 3
+6115 93 99 99 8
+6115 99 00 01 3
+6115 99 00 99 8
+6116 10 20 00 8,5
+6116 10 80 00 8
+6116 91 00 00 8,5
+6116 92 00 00 8,5
+6116 93 00 00 8,5
+6116 99 00 00 8,5
+6117 10 00 00 13
+6117 20 00 00 13
+6117 80 10 01 8
+6117 80 10 99 10
+6117 80 90 01 8
+6117 80 90 99 10
+6117 90 00 01 8,5
+6117 90 00 02 8
+6117 90 00 03 3
+6117 90 00 99 10
+6201 11 00 01 12,1
+6201 11 00 99 10,4
+6201 12 10 01 12,1
+6201 12 10 99 10,4
+6201 12 90 01 12,1
+6201 12 90 99 10,4
+6201 13 10 00 11,4
+6201 13 90 00 11,4
+6201 19 00 00 12,1
+Vámtarifaszám
+Vámtétel
+%
+6201 91 00 00 12,1
+6201 92 00 00 12,1
+6201 93 00 00 12,1
+6201 99 00 00 12,1
+6202 11 00 00 10,4
+6202 12 10 00 10,4
+6202 12 90 00 10,4
+6202 13 10 00 11,4
+6202 13 90 00 11,4
+6202 19 00 00 10,4
+6202 91 00 00 9,8
+6202 92 00 00 9,8
+6202 93 00 00 9,8
+6202 99 00 00 9,8
+6203 11 00 00 10,4
+6203 12 00 00 11,4
+6203 19 10 00 12,1
+6203 19 30 00 12,1
+6203 19 90 00 12,1
+6203 21 00 00 10,4
+6203 22 10 00 12,1
+6203 22 80 00 12,1
+6203 23 10 00 11,4
+6203 23 80 00 11,4
+6203 29 11 00 12,1
+6203 29 18 00 12,1
+6203 29 90 00 12,1
+6203 31 00 00 10,4
+6203 32 10 00 12,1
+6203 32 90 00 12,1
+6203 33 10 00 11,4
+6203 33 90 00 11,4
+6203 39 11 00 12,1
+6203 39 19 00 12,1
+6203 39 90 00 12,1
+6203 41 10 00 12,1
+6203 41 30 00 10,4
+
+Vámtarifaszám
+Vámtétel
+%
+6203 41 90 00 12,1
+6203 42 11 00 10,4
+6203 42 31 00 10,4
+6203 42 33 00 10,4
+6203 42 35 00 10,4
+6203 42 51 00 10,4
+6203 42 59 00 10,4
+6203 42 90 00 10,4
+6203 43 11 00 10,4
+6203 43 19 00 10,4
+6203 43 31 00 11,4
+6203 43 39 00 11,4
+6203 43 90 00 10,4
+6203 49 11 00 10,4
+6203 49 19 00 10,4
+6203 49 31 00 10,4
+6203 49 39 00 10,4
+6203 49 50 00 10,4
+6203 49 90 00 10,4
+6204 11 00 00 11,8
+6204 12 00 00 12,1
+6204 13 00 00 11,4
+6204 19 10 00 11,4
+6204 19 90 01 10,4
+6204 19 90 99 12,1
+6204 21 00 00 11,8
+6204 22 10 00 12,1
+6204 22 80 00 12,1
+6204 23 10 00 11,4
+6204 23 80 00 11,4
+6204 29 11 00 11,4
+6204 29 18 00 11,4
+6204 29 90 01 10,4
+6204 29 90 99 12,1
+6204 31 00 00 9,8
+6204 32 10 00 9,8
+6204 32 90 00 9,8
+Vámtarifaszám
+Vámtétel
+%
+6204 33 10 00 9,8
+6204 33 90 00 9,8
+6204 39 11 00 9,8
+6204 39 19 00 9,8
+6204 39 90 00 9,8
+6204 41 00 00 11,8
+6204 42 00 00 12,1
+6204 43 00 00 11,4
+6204 44 00 00 11,4
+6204 49 10 01 10,4
+6204 49 10 02 12,1
+6204 49 90 00 12,1
+6204 51 00 00 12,1
+6204 52 00 00 12,1
+6204 53 00 00 11,4
+6204 59 10 00 11,4
+6204 59 90 00 12,1
+6204 61 10 00 12,1
+6204 61 80 00 11,8
+6204 61 90 00 12,1
+6204 62 11 00 12,1
+6204 62 31 00 12,1
+6204 62 33 00 12,1
+6204 62 39 00 12,1
+6204 62 51 00 12,1
+6204 62 59 00 12,1
+6204 62 90 00 12,1
+6204 63 11 00 11,4
+6204 63 18 00 11,4
+6204 63 31 00 11,4
+6204 63 39 00 11,4
+6204 63 90 00 11,4
+6204 69 11 00 11,4
+6204 69 18 00 11,4
+6204 69 31 00 11,4
+6204 69 39 00 11,4
+6204 69 50 00 11,4
+Vámtarifaszám
+Vámtétel
+%
+6204 69 90 00 12,1
+6205 10 00 00 12,1
+6205 20 00 00 12,1
+6205 30 00 00 11,4
+6205 90 10 00 12,1
+6205 90 90 00 12,1
+6206 10 00 00 10,4
+6206 20 00 00 10,4
+6206 30 00 00 12,1
+6206 40 00 00 11,4
+6206 90 10 00 12,1
+6206 90 90 00 12,1
+6207 11 00 00 12,1
+6207 19 00 01 11,4
+6207 19 00 99 12,1
+6207 21 00 00 12,1
+6207 22 00 00 11,4
+6207 29 00 00 12,1
+6207 91 10 00 10,4
+6207 91 90 01 12,1
+6207 91 90 99 10,4
+6207 92 00 00 10,4
+6207 99 00 01 10,4
+6207 99 00 99 12,1
+6208 11 00 00 11,4
+6208 19 10 00 9,8
+6208 19 90 01 12,1
+6208 19 90 99 9,8
+6208 21 00 00 9,8
+6208 22 00 00 11,4
+6208 29 00 01 12,1
+6208 29 00 99 9,8
+6208 91 11 01 12,1
+6208 91 11 99 9,8
+6208 91 19 01 12,1
+6208 91 19 99 9,8
+6208 91 90 00 9,8
+Vámtarifaszám
+Vámtétel
+%
+6208 92 00 00 11,4
+6208 99 00 01 12,1
+6208 99 00 99 9,8
+6209 10 00 01 9
+6209 10 00 99 9,8
+6209 20 00 01 9
+6209 20 00 99 9,8
+6209 30 00 01 9
+6209 30 00 99 9,8
+6209 90 00 01 9
+6209 90 00 99 9,8
+6210 10 10 01 12,1
+6210 10 10 02 12,1
+6210 10 10 03 9,8
+6210 10 91 01 12,1
+6210 10 91 02 12,1
+6210 10 91 03 9,8
+6210 10 99 01 12,1
+6210 10 99 02 12,1
+6210 10 99 03 9,8
+6210 20 00 00 9,8
+6210 30 00 00 10,4
+6210 40 00 00 12,1
+6210 50 00 00 9,8
+6211 11 00 00 11,4
+6211 12 00 00 11,4
+6211 20 00 00 11,4
+6211 31 00 01 10,4
+6211 31 00 99 12,1
+6211 32 10 00 12,1
+6211 32 31 00 12,1
+6211 32 41 00 12,1
+6211 32 42 00 12,1
+6211 32 90 00 12,1
+6211 33 10 00 11,4
+6211 33 31 00 11,4
+6211 33 41 00 11,4
+
+Vámtarifaszám
+Vámtétel
+%
+6211 33 42 00 11,4
+6211 33 90 00 11,4
+6211 39 00 00 12,1
+6211 41 00 00 9,8
+6211 42 10 00 9,8
+6211 42 31 00 9,8
+6211 42 41 00 9,8
+6211 42 42 00 9,8
+6211 42 90 00 9,8
+6211 43 10 00 11,4
+6211 43 31 00 11,4
+6211 43 41 00 11,4
+6211 43 42 00 11,4
+6211 43 90 00 11,4
+6211 49 00 01 10,4
+6211 49 00 99 9,8
+6212 10 10 00 7
+6212 10 90 00 7
+6212 20 00 00 7
+6212 30 00 00 7
+6212 90 00 00 7
+6213 10 00 00 8
+6213 20 00 00 8
+6213 90 00 00 8
+6214 10 00 00 8,5
+6214 20 00 00 8,5
+6214 30 00 00 8,5
+6214 40 00 00 8,5
+6214 90 10 00 8,5
+6214 90 90 00 8,5
+6215 10 00 00 8,5
+6215 20 00 00 11,4
+6215 90 00 00 8,5
+6216 00 00 00 9
+6217 10 00 00 9
+6217 90 00 00 8
+6301 10 00 01 10
+Vámtarifaszám
+Vámtétel
+%
+6301 10 00 99 8,5
+6301 20 10 00 10
+6301 20 91 00 8,5
+6301 20 99 00 8,5
+6301 30 10 00 10
+6301 30 90 00 8,5
+6301 40 10 00 10
+6301 40 90 01 8,5
+6301 40 90 02 7
+6301 90 10 00 10
+6301 90 90 01 8,5
+6301 90 90 02 7
+6302 10 10 00 10
+6302 10 90 00 10
+6302 21 00 00 8
+6302 22 10 00 7
+6302 22 90 00 8
+6302 29 10 00 8
+6302 29 90 00 8
+6302 31 10 01 12,1
+6302 31 10 99 11,4
+6302 31 90 01 12,1
+6302 31 90 99 11,4
+6302 32 10 00 7
+6302 32 90 00 8
+6302 39 10 01 8,5
+6302 39 10 99 8
+6302 39 30 00 8
+6302 39 90 01 8,5
+6302 39 90 99 8
+6302 40 00 00 10
+6302 51 10 01 8,5
+6302 51 10 99 8
+6302 51 90 01 8,5
+6302 51 90 99 8
+6302 52 00 01 8,5
+6302 52 00 99 8
+Vámtarifaszám
+Vámtétel
+%
+6302 53 10 00 7
+6302 53 90 00 8
+6302 59 00 01 8,5
+6302 59 00 99 8
+6302 60 00 00 7
+6302 91 10 01 10
+6302 91 10 99 7
+6302 91 90 01 10
+6302 91 90 99 7
+6302 92 00 01 10
+6302 92 00 99 7
+6302 93 10 00 7
+6302 93 90 01 10
+6302 93 90 99 7
+6302 99 00 01 10
+6302 99 00 99 7
+6303 11 00 00 10
+6303 12 00 00 10
+6303 19 00 00 10
+6303 91 00 00 8,5
+6303 92 10 00 8,5
+6303 92 90 00 8,5
+6303 99 10 00 8,5
+6303 99 90 00 8,5
+6304 11 00 00 10
+6304 19 10 01 7
+6304 19 10 99 8,5
+6304 19 30 01 7
+6304 19 30 99 8,5
+6304 19 90 01 7
+6304 19 90 99 8,5
+6304 91 00 00 10
+6304 92 00 01 6
+6304 92 00 99 8,5
+6304 93 00 00 8,5
+6304 99 00 00 8,5
+6305 10 10 01 5
+Vámtarifaszám
+Vámtétel
+%
+6305 10 10 02 10
+6305 10 10 99 0
+6305 10 90 01 10
+6305 10 90 99 0
+6305 20 00 01 10
+6305 20 00 99 8
+6305 32 11 00 10
+6305 32 81 00 8
+6305 32 89 00 8
+6305 32 90 00 8
+6305 33 10 00 10
+6305 33 91 00 8
+6305 33 99 00 8
+6305 39 00 01 10
+6305 39 00 02 7
+6305 39 00 99 8
+6305 90 00 01 10
+6305 90 00 99 8
+6306 11 00 00 8,5
+6306 12 00 00 8,5
+6306 19 00 00 8,5
+6306 21 00 00 8,5
+6306 22 00 00 8,5
+6306 29 00 00 8,5
+6306 31 00 00 8,5
+6306 39 00 00 8,5
+6306 41 00 00 8,5
+6306 49 00 01 7
+6306 49 00 99 8,5
+6306 91 00 00 8,5
+6306 99 00 01 7
+6306 99 00 99 8,5
+6307 10 10 00 10
+6307 10 30 00 7
+6307 10 90 01 6
+6307 10 90 99 8
+6307 20 00 01 8
+
+Vámtarifaszám
+Vámtétel
+%
+6307 20 00 02 10
+6307 20 00 99 8
+6307 90 10 01 7
+6307 90 10 99 7
+6307 90 91 00 6
+6307 90 99 01 8,5
+6307 90 99 02 7
+6307 90 99 99 8
+6308 00 00 00 8
+6309 00 00 01 3
+6309 00 00 99 8,5
+6310 10 10 00 3
+6310 10 30 01 7
+6310 10 30 99 3
+6310 10 90 01 7
+6310 10 90 99 3
+6310 90 00 01 7
+6310 90 00 99 3
+6401 10 10 00 11,4
+6401 10 90 00 11,4
+6401 91 00 00 11,4
+6401 92 10 00 11,4
+6401 92 90 00 11,4
+6401 99 00 00 11,4
+6402 12 10 00 11,4
+6402 12 90 00 11,4
+6402 19 00 00 11,4
+6402 20 00 00 11,4
+6402 30 00 00 11,4
+6402 91 00 01 10,4
+6402 91 00 99 11,4
+6402 99 10 01 10,4
+6402 99 10 99 11,4
+6402 99 31 00 11,4
+6402 99 39 00 11,4
+6402 99 50 00 11,4
+6402 99 91 01 10,4
+Vámtarifaszám
+Vámtétel
+%
+6402 99 91 99 11,4
+6402 99 93 01 10,4
+6402 99 93 99 11,4
+6402 99 96 01 10,4
+6402 99 96 99 11,4
+6402 99 98 01 10,4
+6402 99 98 99 11,4
+6403 12 00 00 8,9
+6403 19 00 00 8,9
+6403 20 00 01 12,1
+6403 20 00 99 8,9
+6403 30 00 00 8,9
+6403 40 00 00 8,9
+6403 51 11 00 8,9
+6403 51 15 00 8,9
+6403 51 19 00 8,9
+6403 51 91 00 8,9
+6403 51 95 00 8,9
+6403 51 99 00 8,9
+6403 59 11 01 12,1
+6403 59 11 99 8,9
+6403 59 31 00 8,9
+6403 59 35 00 8,9
+6403 59 39 01 12,1
+6403 59 39 99 8,9
+6403 59 50 00 8,9
+6403 59 91 00 8,9
+6403 59 95 00 8,9
+6403 59 99 01 12,1
+6403 59 99 99 8,9
+6403 91 11 00 8,9
+6403 91 13 00 8,9
+6403 91 16 00 8,9
+6403 91 18 00 8,9
+6403 91 91 00 8,9
+6403 91 93 00 8,9
+6403 91 96 00 8,9
+Vámtarifaszám
+Vámtétel
+%
+6403 91 98 00 8,9
+6403 99 11 01 12,1
+6403 99 11 99 8,9
+6403 99 31 00 8,9
+6403 99 33 00 8,9
+6403 99 36 00 8,9
+6403 99 38 01 12,1
+6403 99 38 99 8,9
+6403 99 50 00 8,9
+6403 99 91 00 8,9
+6403 99 93 00 8,9
+6403 99 96 00 8,9
+6403 99 98 01 12,1
+6403 99 98 99 8,9
+6404 11 00 00 8,9
+6404 19 10 00 8,9
+6404 19 90 00 8,9
+6404 20 10 00 8,9
+6404 20 90 00 8,9
+6405 10 00 01 8
+6405 10 00 02 7
+6405 20 10 00 8
+6405 20 91 00 7
+6405 20 99 00 7
+6405 90 10 00 8,9
+6405 90 90 01 8
+6405 90 90 02 7
+6405 90 90 99 8,9
+6406 10 11 00 6
+6406 10 19 00 6
+6406 10 90 01 7
+6406 10 90 99 6
+6406 20 10 00 6
+6406 20 90 00 6
+6406 91 00 00 6
+6406 99 10 00 8,5
+6406 99 30 01 7
+Vámtarifaszám
+Vámtétel
+%
+6406 99 30 02 6
+6406 99 50 01 7
+6406 99 50 02 6
+6406 99 60 00 8,5
+6406 99 80 00 6
+6501 00 00 00 8,5
+6502 00 00 01 6
+6502 00 00 02 8
+6502 00 00 99 7
+6503 00 10 00 8,5
+6503 00 90 00 8,5
+6504 00 00 00 8
+6505 10 00 01 7
+6505 10 00 99 8,5
+6505 90 10 00 8,5
+6505 90 30 00 8,5
+6505 90 90 00 8,5
+6506 10 10 00 8,5
+6506 10 80 00 8,5
+6506 91 00 00 8,5
+6506 92 00 00 8,5
+6506 99 00 00 8,5
+6507 00 00 00 7
+6601 10 00 00 8,5
+6601 91 00 00 8,5
+6601 99 11 00 8,5
+6601 99 19 00 8,5
+6601 99 90 00 8,5
+6602 00 00 00 8,5
+6603 10 00 00 8,5
+6603 20 00 00 8,5
+6603 90 00 00 8,5
+6701 00 00 01 8,5
+6701 00 00 02 7
+6701 00 00 99 8,5
+6702 10 00 01 8,5
+6702 10 00 99 9
+
+Vámtarifaszám
+Vámtétel
+%
+6702 90 00 01 8,5
+6702 90 00 99 9
+6703 00 00 01 0
+6703 00 00 02 6
+6703 00 00 99 7
+6704 11 00 00 8,5
+6704 19 00 01 8,5
+6704 19 00 99 7
+6704 20 00 01 8,5
+6704 20 00 99 7
+6704 90 00 01 8,5
+6704 90 00 99 7
+6801 00 00 00 0
+6802 10 00 01 5
+6802 10 00 99 7,5
+6802 21 00 00 7,5
+6802 22 00 00 7,5
+6802 23 00 00 7,5
+6802 29 00 00 7,5
+6802 91 10 00 7,5
+6802 91 90 00 7,5
+6802 92 10 00 7,5
+6802 92 90 00 7,5
+6802 93 10 00 7,5
+6802 93 90 00 7,5
+6802 99 10 00 7,5
+6802 99 90 00 7,5
+6803 00 10 00 5
+6803 00 90 00 5
+6804 10 00 00 5
+6804 21 00 00 5
+6804 22 12 00 5
+6804 22 18 00 5
+6804 22 30 00 5
+6804 22 50 00 5
+6804 22 90 00 5
+6804 23 00 00 5
+Vámtarifaszám
+Vámtétel
+%
+6804 30 00 00 5,5
+6805 10 00 00 6
+6805 20 00 00 6
+6805 30 10 00 6
+6805 30 20 00 6
+6805 30 80 00 6
+6806 10 00 00 5,5
+6806 20 10 00 5,5
+6806 20 90 00 5,5
+6806 90 00 00 5,5
+6807 10 10 00 6
+6807 10 90 00 6
+6807 90 00 00 6
+6808 00 00 00 8,5
+6809 11 00 00 7
+6809 19 00 00 7
+6809 90 00 00 8
+6810 11 10 00 7
+6810 11 90 00 7
+6810 19 10 00 7
+6810 19 31 00 7
+6810 19 39 00 7
+6810 19 90 01 5
+6810 19 90 99 7
+6810 91 10 00 7
+6810 91 90 00 7
+6810 99 00 00 7
+6811 10 00 00 0
+6811 20 11 00 0
+6811 20 80 00 0
+6811 30 00 00 0
+6811 90 00 00 0
+6812 50 00 01 7
+6812 50 00 99 8
+6812 60 00 01 7
+6812 60 00 99 8
+6812 70 00 00 7
+Vámtarifaszám
+Vámtétel
+%
+6812 90 10 00 7
+6812 90 30 01 7
+6812 90 30 02 0
+6812 90 30 99 8
+6812 90 80 01 7
+6812 90 80 02 7
+6812 90 80 99 8
+6813 10 10 00 6
+6813 10 90 00 6
+6813 90 10 00 6
+6813 90 90 00 6
+6814 10 00 01 5
+6814 10 00 02 7
+6814 10 00 99 6
+6814 90 00 01 6
+6814 90 00 02 5
+6814 90 00 99 7
+6815 10 10 00 6
+6815 10 90 00 6
+6815 20 00 00 6
+6815 91 00 01 5,5
+6815 91 00 99 6
+6815 99 10 00 6
+6815 99 90 00 6
+6901 00 00 00 5,5
+6902 10 00 00 5,5
+6902 20 10 00 5,5
+6902 20 91 00 5,5
+6902 20 99 00 5,5
+6902 90 00 00 5,5
+6903 10 00 00 7,5
+6903 20 10 00 9,5
+6903 20 90 00 9,5
+6903 90 10 00 9,5
+6903 90 90 01 8,5
+6903 90 90 99 9,5
+6904 10 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+6904 90 00 00 0
+6905 10 00 01 0
+6905 10 00 99 7
+6905 90 00 00 7
+6906 00 00 00 5
+6907 10 00 00 0
+6907 90 10 00 0
+6907 90 91 00 0
+6907 90 93 00 0
+6907 90 99 00 0
+6908 10 10 01 0
+6908 10 10 99 15
+6908 10 90 01 0
+6908 10 90 99 15
+6908 90 11 01 0
+6908 90 11 99 15
+6908 90 21 01 0
+6908 90 21 99 15
+6908 90 29 01 0
+6908 90 29 99 15
+6908 90 31 01 0
+6908 90 31 99 15
+6908 90 51 01 0
+6908 90 51 99 15
+6908 90 91 01 0
+6908 90 91 99 15
+6908 90 93 01 0
+6908 90 93 99 15
+6908 90 99 01 0
+6908 90 99 99 15
+6909 11 00 00 8
+6909 12 00 00 3,5
+6909 19 00 00 3,5
+6909 90 00 01 8
+6909 90 00 99 3,5
+6910 10 00 00 8
+6910 90 00 00 6
+
+Vámtarifaszám
+Vámtétel
+%
+6911 10 00 00 8,5
+6911 90 00 00 8,5
+6912 00 10 00 10
+6912 00 30 00 10
+6912 00 50 00 10
+6912 00 90 00 10
+6913 10 00 00 7
+6913 90 10 00 7
+6913 90 91 00 7
+6913 90 93 00 7
+6913 90 99 00 7
+6914 10 00 00 7
+6914 90 10 00 7
+6914 90 90 00 7
+7001 00 10 00 0
+7001 00 91 00 7
+7001 00 99 01 5,5
+7001 00 99 02 6
+7002 10 00 01 7
+7002 10 00 99 6
+7002 20 10 00 7
+7002 20 90 01 5,5
+7002 20 90 99 6
+7002 31 00 01 7
+7002 31 00 02 5,5
+7002 31 00 99 6
+7002 32 00 01 7
+7002 32 00 02 5,5
+7002 32 00 99 6
+7002 39 00 01 7
+7002 39 00 02 5,5
+7002 39 00 99 6
+7003 12 10 00 7
+7003 12 91 00 7,5
+7003 12 99 01 7,5
+7003 12 99 99 3,5
+7003 19 10 00 7
+Vámtarifaszám
+Vámtétel
+%
+7003 19 90 01 7,5
+7003 19 90 99 3,5
+7003 20 00 01 7,5
+7003 20 00 99 3,5
+7003 30 00 01 7,5
+7003 30 00 99 3,5
+7004 20 10 00 7
+7004 20 91 00 7,5
+7004 20 99 01 7,5
+7004 20 99 99 5
+7004 90 10 00 7
+7004 90 70 01 7,5
+7004 90 70 99 5
+7004 90 92 01 7,5
+7004 90 92 99 5
+7004 90 98 01 7,5
+7004 90 98 99 5
+7005 10 05 00 5,5
+7005 10 25 01 7
+7005 10 25 02 7,5
+7005 10 25 99 5,5
+7005 10 30 01 7
+7005 10 30 02 7,5
+7005 10 30 99 5,5
+7005 10 80 01 7
+7005 10 80 02 7,5
+7005 10 80 99 5,5
+7005 21 25 01 7
+7005 21 25 02 7,5
+7005 21 25 99 5,5
+7005 21 30 01 7
+7005 21 30 02 7,5
+7005 21 30 99 5,5
+7005 21 80 01 7
+7005 21 80 02 7,5
+7005 21 80 99 5,5
+7005 29 25 01 7
+Vámtarifaszám
+Vámtétel
+%
+7005 29 25 02 7,5
+7005 29 25 99 5,5
+7005 29 35 01 7
+7005 29 35 02 7,5
+7005 29 35 99 5,5
+7005 29 80 01 7
+7005 29 80 02 7,5
+7005 29 80 99 5,5
+7005 30 00 01 7,5
+7005 30 00 99 5,5
+7006 00 10 00 7
+7006 00 90 00 7,5
+7007 11 10 00 25
+7007 11 90 00 25
+7007 19 10 00 10
+7007 19 20 00 10
+7007 19 80 00 10
+7007 21 10 00 25
+7007 21 91 00 25
+7007 21 99 00 25
+7007 29 00 00 10
+7008 00 20 00 7,5
+7008 00 81 00 7,5
+7008 00 89 00 7,5
+7009 10 00 00 8
+7009 91 00 00 8
+7009 92 00 00 8
+7010 10 00 00 8
+7010 20 00 01 8,5
+7010 20 00 99 5
+7010 90 10 01 8,5
+7010 90 10 99 5
+7010 90 21 01 8,5
+7010 90 21 99 5
+7010 90 31 01 8,5
+7010 90 31 99 5
+7010 90 41 01 8,5
+Vámtarifaszám
+Vámtétel
+%
+7010 90 41 99 5
+7010 90 43 01 8,5
+7010 90 43 99 5
+7010 90 45 01 8,5
+7010 90 45 99 5
+7010 90 47 01 8
+7010 90 47 02 8,5
+7010 90 47 99 5
+7010 90 51 01 8,5
+7010 90 51 99 5
+7010 90 53 01 8,5
+7010 90 53 99 5
+7010 90 55 01 8,5
+7010 90 55 99 5
+7010 90 57 01 8
+7010 90 57 02 8,5
+7010 90 57 99 5
+7010 90 61 01 8,5
+7010 90 61 99 5
+7010 90 67 01 8
+7010 90 67 02 8,5
+7010 90 67 99 5
+7010 90 71 01 8
+7010 90 71 02 8,5
+7010 90 71 99 5
+7010 90 79 01 8
+7010 90 79 02 8,5
+7010 90 79 99 5
+7010 90 91 01 8
+7010 90 91 02 8,5
+7010 90 91 99 5
+7010 90 99 01 8
+7010 90 99 02 8,5
+7010 90 99 99 5
+7011 10 00 00 8
+7011 20 00 00 8
+7011 90 00 01 7
+
+Vámtarifaszám
+Vámtétel
+%
+7011 90 00 02 8
+7011 90 00 99 6
+7012 00 10 00 8
+7012 00 90 00 8
+7013 10 00 00 8,5
+7013 21 11 00 9
+7013 21 19 00 9
+7013 21 91 00 9
+7013 21 99 00 9
+7013 29 10 00 7
+7013 29 51 01 8
+7013 29 51 99 8,5
+7013 29 59 01 8
+7013 29 59 99 8,5
+7013 29 91 01 8
+7013 29 91 99 8,5
+7013 29 99 01 8
+7013 29 99 99 8,5
+7013 31 10 00 9
+7013 31 90 00 9
+7013 32 00 01 7
+7013 32 00 02 8
+7013 32 00 99 8,5
+7013 39 10 00 7
+7013 39 91 01 8
+7013 39 91 99 8,5
+7013 39 99 01 8
+7013 39 99 99 8,5
+7013 91 10 00 8,8
+7013 91 90 00 8,5
+7013 99 00 01 7
+7013 99 00 02 8
+7013 99 00 99 8,5
+7014 00 00 01 7
+7014 00 00 99 8,5
+7015 10 00 00 5
+7015 90 00 00 7
+Vámtarifaszám
+Vámtétel
+%
+7016 10 00 00 7
+7016 90 10 00 7,5
+7016 90 80 00 8
+7017 10 00 00 8
+7017 20 00 00 8
+7017 90 00 00 8
+7018 10 11 00 7
+7018 10 19 00 7
+7018 10 30 00 7
+7018 10 51 00 7
+7018 10 59 00 7
+7018 10 90 00 7
+7018 20 00 00 7
+7018 90 10 01 8
+7018 90 10 99 7
+7018 90 90 00 7
+7019 11 00 00 3,5
+7019 12 00 00 3,5
+7019 19 10 00 3,5
+7019 19 90 00 3,5
+7019 31 00 00 3,5
+7019 32 00 00 3,5
+7019 39 00 00 3,5
+7019 40 00 00 3,5
+7019 51 00 00 3,5
+7019 52 00 00 3,5
+7019 59 00 00 3,5
+7019 90 10 00 3,5
+7019 90 30 00 3,5
+7019 90 91 00 3,5
+7019 90 99 00 3,5
+7020 00 05 00 3,5
+7020 00 10 00 3,5
+7020 00 30 00 3,5
+7020 00 80 00 3,5
+7101 10 00 01 8,5
+7101 10 00 99 0
+Vámtarifaszám
+Vámtétel
+%
+7101 21 00 01 8,5
+7101 21 00 99 0
+7101 22 00 01 8,5
+7101 22 00 99 0
+7102 10 00 00 0
+7102 21 00 00 0
+7102 29 00 01 0
+7102 29 00 99 10,4
+7102 31 00 00 0
+7102 39 00 01 0
+7102 39 00 99 7
+7103 10 00 00 0
+7103 91 00 01 0
+7103 91 00 99 7
+7103 99 00 01 0
+7103 99 00 99 7
+7104 10 00 00 0
+7104 20 00 00 0
+7104 90 00 01 0
+7104 90 00 99 7
+7105 10 00 00 3
+7105 90 00 00 5,5
+7106 10 00 00 0
+7106 91 10 00 0
+7106 91 90 00 0
+7106 92 20 01 0
+7106 92 20 02 5
+7106 92 20 99 7
+7106 92 80 01 0
+7106 92 80 02 5
+7106 92 80 99 7
+7107 00 00 00 6
+7108 11 00 00 0
+7108 12 00 00 0
+7108 13 10 01 3,4
+7108 13 10 99 6
+7108 13 80 00 6
+Vámtarifaszám
+Vámtétel
+%
+7108 20 00 00 6
+7109 00 00 00 3
+7110 11 00 00 0
+7110 19 10 01 0
+7110 19 10 99 6
+7110 19 80 01 0
+7110 19 80 99 6
+7110 21 00 00 0
+7110 29 00 01 0
+7110 29 00 99 8,5
+7110 31 00 00 0
+7110 39 00 01 0
+7110 39 00 99 8,5
+7110 41 00 00 0
+7110 49 00 01 0
+7110 49 00 99 8,5
+7111 00 00 00 0
+7112 30 00 00 0
+7112 91 00 00 0
+7112 92 00 00 0
+7112 99 00 01 5
+7112 99 00 02 7
+7112 99 00 03 4,5
+7112 99 00 04 5,5
+7112 99 00 05 6
+7112 99 00 99 0
+7113 11 00 00 8,5
+7113 19 00 01 8,5
+7113 19 00 02 8,5
+7113 19 00 99 8,5
+7113 20 00 00 8,5
+7114 11 00 01 8,5
+7114 11 00 02 8,5
+7114 11 00 03 8,5
+7114 11 00 04 8,5
+7114 19 00 00 8,5
+7114 20 00 00 8,5
+
+Vámtarifaszám
+Vámtétel
+%
+7115 10 00 00 8,5
+7115 90 10 00 8,5
+7115 90 90 00 8,5
+7116 10 00 00 8,5
+7116 20 11 00 9
+7116 20 19 00 9
+7116 20 90 00 9
+7117 11 00 00 5
+7117 19 10 00 8,5
+7117 19 91 00 8,5
+7117 19 99 00 8,5
+7117 90 00 01 7
+7117 90 00 02 18
+7117 90 00 03 7,5
+7117 90 00 99 6,2
+7118 10 10 00 3
+7118 10 90 00 3
+7118 90 00 00 3
+7201 10 11 00 0
+7201 10 19 00 0
+7201 10 30 00 0
+7201 10 90 00 0
+7201 20 00 00 0
+7201 50 10 00 0
+7201 50 90 00 0
+7202 11 20 00 0
+7202 11 80 00 0
+7202 19 00 00 0
+7202 21 00 00 4,5
+7202 29 10 00 4,5
+7202 29 90 00 4,5
+7202 30 00 00 4,5
+7202 41 10 00 0
+7202 41 90 00 0
+7202 49 10 00 0
+7202 49 50 00 0
+7202 49 90 00 0
+Vámtarifaszám
+Vámtétel
+%
+7202 50 00 00 4,5
+7202 60 00 00 4,5
+7202 70 00 00 4,5
+7202 80 00 00 4,5
+7202 91 00 00 0
+7202 92 00 00 4,5
+7202 93 00 00 4,5
+7202 99 10 00 7
+7202 99 30 00 4,5
+7202 99 80 00 4,5
+7203 10 00 00 5,5
+7203 90 00 00 5,5
+7204 10 00 00 0
+7204 21 10 00 0
+7204 21 90 00 0
+7204 29 00 00 0
+7204 30 00 00 0
+7204 41 10 00 0
+7204 41 91 00 0
+7204 41 99 00 0
+7204 49 10 00 0
+7204 49 30 00 0
+7204 49 90 00 0
+7204 50 10 00 4,5
+7204 50 90 00 4,5
+7205 10 00 00 3,5
+7205 21 00 00 0
+7205 29 00 00 0
+7206 10 00 01 4,5
+7206 10 00 99 3
+7206 90 00 01 4,5
+7206 90 00 99 3
+7207 11 11 00 0
+7207 11 14 00 0
+7207 11 16 00 0
+7207 11 90 00 0
+7207 12 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+7207 12 90 00 0
+7207 19 12 00 0
+7207 19 19 00 0
+7207 19 80 00 0
+7207 20 11 00 4,5
+7207 20 15 00 0
+7207 20 17 00 0
+7207 20 19 00 0
+7207 20 32 01 4,5
+7207 20 32 99 0
+7207 20 39 00 0
+7207 20 52 00 4,5
+7207 20 59 00 0
+7207 20 80 01 4,5
+7207 20 80 99 0
+7208 10 00 01 4,5
+7208 10 00 99 3
+7208 25 00 01 4,5
+7208 25 00 99 3
+7208 26 00 01 4,5
+7208 26 00 99 3
+7208 27 00 01 4,5
+7208 27 00 99 3
+7208 36 00 01 4,5
+7208 36 00 99 3
+7208 37 00 01 4,5
+7208 37 00 99 3
+7208 38 00 01 4,5
+7208 38 00 99 3
+7208 39 00 01 4,5
+7208 39 00 99 3
+7208 40 00 01 4,5
+7208 40 00 02 5,5
+7208 40 00 99 3
+7208 51 20 01 4,5
+7208 51 20 02 3
+7208 51 20 99 6
+Vámtarifaszám
+Vámtétel
+%
+7208 51 91 01 4,5
+7208 51 91 99 6
+7208 51 98 01 4,5
+7208 51 98 99 6
+7208 52 20 01 4,5
+7208 52 20 02 3
+7208 52 20 99 6
+7208 52 80 01 4,5
+7208 52 80 02 3
+7208 52 80 99 6
+7208 53 00 01 4,5
+7208 53 00 02 3
+7208 53 00 99 6
+7208 54 00 01 4,5
+7208 54 00 02 5,5
+7208 54 00 99 6
+7208 90 00 01 4,5
+7208 90 00 02 5,5
+7208 90 00 99 6
+7209 15 00 01 4,5
+7209 15 00 99 6
+7209 16 10 01 4,5
+7209 16 10 02 8,9
+7209 16 10 03 8,9
+7209 16 10 99 6
+7209 16 90 01 4,5
+7209 16 90 02 8,9
+7209 16 90 03 8,9
+7209 16 90 99 6
+7209 17 10 01 4,5
+7209 17 10 99 6
+7209 17 90 01 4,5
+7209 17 90 99 6
+7209 18 10 01 4,5
+7209 18 10 99 6
+7209 18 91 01 4,5
+7209 18 91 99 6
+
+Vámtarifaszám
+Vámtétel
+%
+7209 18 99 01 4,5
+7209 18 99 99 6
+7209 25 00 01 4,5
+7209 25 00 99 6
+7209 26 10 01 4,5
+7209 26 10 02 8,9
+7209 26 10 03 8,9
+7209 26 10 99 6
+7209 26 90 01 4,5
+7209 26 90 02 8,9
+7209 26 90 03 8,9
+7209 26 90 99 6
+7209 27 10 01 4,5
+7209 27 10 99 6
+7209 27 90 01 4,5
+7209 27 90 99 6
+7209 28 10 01 4,5
+7209 28 10 99 6
+7209 28 90 01 4,5
+7209 28 90 99 6
+7209 90 00 01 4,5
+7209 90 00 02 8,9
+7209 90 00 03 8,9
+7209 90 00 99 6
+7210 11 00 01 4,5
+7210 11 00 99 0
+7210 12 20 01 4,5
+7210 12 20 99 0
+7210 12 80 01 4,5
+7210 12 80 99 0
+7210 20 00 00 4,5
+7210 30 00 01 4,5
+7210 30 00 99 3,5
+7210 41 00 01 4,5
+7210 41 00 99 3,5
+7210 49 00 01 4,5
+7210 49 00 99 3,5
+Vámtarifaszám
+Vámtétel
+%
+7210 50 00 00 4,5
+7210 61 00 00 4,5
+7210 69 00 00 4,5
+7210 70 10 00 4,5
+7210 70 80 00 4,5
+7210 90 30 00 4,5
+7210 90 40 00 4,5
+7210 90 80 00 4,5
+7211 13 00 01 3
+7211 13 00 02 4,5
+7211 13 00 03 6
+7211 13 00 99 5,5
+7211 14 00 01 3
+7211 14 00 02 4,5
+7211 14 00 03 6
+7211 14 00 99 5,5
+7211 19 00 01 3
+7211 19 00 02 4,5
+7211 19 00 03 6
+7211 19 00 99 5,5
+7211 23 20 01 6
+7211 23 20 99 4,5
+7211 23 30 00 4,5
+7211 23 80 01 6
+7211 23 80 99 4,5
+7211 29 00 01 6
+7211 29 00 99 4,5
+7211 29 90 01 6
+7211 90 00 01 6
+7211 90 00 99 4,5
+7212 10 10 01 0
+7212 10 10 99 4,5
+7212 10 90 01 0
+7212 10 90 99 4,5
+7212 20 00 01 3,5
+7212 20 00 99 4,5
+7212 30 00 01 3,5
+Vámtarifaszám
+Vámtétel
+%
+7212 30 00 99 4,5
+7212 40 20 01 3,5
+7212 40 20 99 4,5
+7212 40 80 01 3,5
+7212 40 80 99 4,5
+7212 50 20 00 4,5
+7212 50 30 00 4,5
+7212 50 40 00 4,5
+7212 50 61 00 4,5
+7212 50 69 00 4,5
+7212 50 90 00 4,5
+7212 60 00 00 4,5
+7213 10 00 01 4,5
+7213 10 00 99 5,5
+7213 20 00 00 5,5
+7213 91 10 01 4,5
+7213 91 10 99 5,5
+7213 91 20 01 4,5
+7213 91 20 99 5,5
+7213 91 41 01 4,5
+7213 91 41 99 5,5
+7213 91 49 01 4,5
+7213 91 49 99 5,5
+7213 91 70 01 4,5
+7213 91 70 99 5,5
+7213 91 90 01 4,5
+7213 91 90 99 5,5
+7213 99 10 01 4,5
+7213 99 10 99 5,5
+7213 99 90 01 4,5
+7213 99 90 99 5,5
+7214 10 00 00 4,5
+7214 20 00 00 4,5
+7214 30 00 00 4,5
+7214 91 10 00 4,5
+7214 91 90 00 4,5
+7214 99 10 00 4,5
+Vámtarifaszám
+Vámtétel
+%
+7214 99 31 00 4,5
+7214 99 39 00 4,5
+7214 99 50 00 4,5
+7214 99 71 00 4,5
+7214 99 79 00 4,5
+7214 99 80 00 4,5
+7215 10 00 01 3
+7215 10 00 99 4,5
+7215 50 11 00 4,5
+7215 50 19 00 4,5
+7215 50 80 00 4,5
+7215 90 00 00 4,5
+7216 10 00 00 4,5
+7216 21 00 00 4,5
+7216 22 00 00 4,5
+7216 31 10 00 4,5
+7216 31 90 00 4,5
+7216 32 11 00 4,5
+7216 32 19 00 4,5
+7216 32 91 00 4,5
+7216 32 99 00 4,5
+7216 33 10 00 4,5
+7216 33 90 00 4,5
+7216 40 10 00 4,5
+7216 40 90 00 4,5
+7216 50 10 00 4,5
+7216 50 91 00 4,5
+7216 50 99 00 4,5
+7216 61 10 01 7
+7216 61 10 02 3
+7216 61 90 01 7
+7216 61 90 02 3
+7216 69 00 01 7
+7216 69 00 02 3
+7216 91 10 01 7
+7216 91 10 02 3
+7216 91 80 01 7
+
+Vámtarifaszám
+Vámtétel
+%
+7216 91 80 02 3
+7216 99 00 01 7
+7216 99 00 02 3
+7217 10 10 01 6
+7217 10 10 02 3
+7217 10 31 01 6
+7217 10 31 02 3
+7217 10 39 01 6
+7217 10 39 02 3
+7217 10 50 01 6
+7217 10 50 02 3
+7217 10 90 01 6
+7217 10 90 02 3
+7217 20 10 01 6
+7217 20 10 02 3
+7217 20 30 01 6
+7217 20 30 02 3
+7217 20 50 01 6
+7217 20 50 02 3
+7217 20 90 01 4,5
+7217 20 90 02 3
+7217 30 41 01 6
+7217 30 41 02 3
+7217 30 49 01 6
+7217 30 49 02 3
+7217 30 50 01 6
+7217 30 50 02 3
+7217 30 90 01 4,5
+7217 30 90 02 3
+7217 90 20 01 6
+7217 90 20 02 3
+7217 90 50 01 6
+7217 90 50 02 3
+7217 90 90 01 4,5
+7217 90 90 02 3
+7218 10 00 00 3
+7218 91 10 00 5,5
+Vámtarifaszám
+Vámtétel
+%
+7218 91 80 00 5,5
+7218 99 11 00 5,5
+7218 99 19 00 5,5
+7218 99 20 00 5,5
+7218 99 80 00 5,5
+7219 11 00 00 3
+7219 12 10 00 3
+7219 12 90 00 3
+7219 13 10 00 3
+7219 13 90 00 3
+7219 14 10 00 3
+7219 14 90 00 3
+7219 21 10 00 3
+7219 21 90 00 3
+7219 22 10 00 3
+7219 22 90 00 3
+7219 23 00 00 3
+7219 24 00 00 3
+7219 31 00 00 3
+7219 32 10 00 3
+7219 32 90 00 3
+7219 33 10 00 3
+7219 33 90 00 3
+7219 34 10 00 3
+7219 34 90 00 3
+7219 35 10 00 3
+7219 35 90 00 3
+7219 90 00 00 3
+7220 11 00 00 3
+7220 12 00 00 3
+7220 20 21 00 3
+7220 20 29 00 3
+7220 20 41 00 3
+7220 20 49 00 3
+7220 20 81 00 3
+7220 20 89 00 3
+7220 20 99 00 3
+Vámtarifaszám
+Vámtétel
+%
+7221 00 10 00 4,5
+7221 00 90 00 4,5
+7222 11 11 00 4,5
+7222 11 19 00 4,5
+7222 11 81 00 4,5
+7222 11 89 00 4,5
+7222 19 10 00 4,5
+7222 19 90 00 4,5
+7222 20 11 00 4,5
+7222 20 19 00 4,5
+7222 20 21 00 4,5
+7222 20 29 00 4,5
+7222 20 31 00 4,5
+7222 20 39 00 4,5
+7222 20 81 00 4,5
+7222 20 89 00 4,5
+7222 30 51 00 4,5
+7222 30 91 00 4,5
+7222 30 97 00 4,5
+7222 40 10 00 4,5
+7222 40 50 00 4,5
+7222 40 90 00 4,5
+7223 00 11 00 4,5
+7223 00 19 00 4,5
+7223 00 91 00 4,5
+7223 00 99 00 4,5
+7224 10 10 00 3
+7224 10 90 01 3
+7224 10 90 99 4,5
+7224 90 02 00 3
+7224 90 03 01 5,5
+7224 90 03 99 0
+7224 90 05 01 5,5
+7224 90 05 99 0
+7224 90 07 01 5,5
+7224 90 07 99 0
+7224 90 14 01 5,5
+Vámtarifaszám
+Vámtétel
+%
+7224 90 14 99 0
+7224 90 18 01 5,5
+7224 90 18 99 0
+7224 90 31 01 5,5
+7224 90 31 99 0
+7224 90 38 01 5,5
+7224 90 38 99 0
+7224 90 90 01 5,5
+7224 90 90 99 0
+7225 11 00 00 3
+7225 19 10 00 3
+7225 19 90 00 3
+7225 20 00 00 4,5
+7225 30 10 00 3,8
+7225 30 90 01 5,5
+7225 30 90 99 3,8
+7225 40 12 00 4,5
+7225 40 40 01 5,5
+7225 40 40 99 4,5
+7225 40 60 01 5,5
+7225 40 60 99 4,5
+7225 40 90 01 5,5
+7225 40 90 99 4,5
+7225 50 00 01 5,5
+7225 50 00 99 4,5
+7225 91 00 01 5,5
+7225 91 00 99 4,5
+7225 92 00 01 5,5
+7225 92 00 99 4,5
+7225 99 00 01 5,5
+7225 99 00 99 4,5
+7226 11 00 00 4,5
+7226 19 10 00 4,5
+7226 19 80 00 4,5
+7226 20 00 00 4,5
+7226 91 20 00 4,5
+7226 91 91 01 5,5
+
+Vámtarifaszám
+Vámtétel
+%
+7226 91 91 99 4,5
+7226 91 99 01 5,5
+7226 91 99 99 4,5
+7226 92 00 01 5,5
+7226 92 00 99 4,5
+7226 93 00 01 5,5
+7226 93 00 99 4,5
+7226 94 00 01 5,5
+7226 94 00 99 4,5
+7226 99 00 01 5,5
+7226 99 00 99 4,5
+7227 10 00 00 4,5
+7227 20 00 00 4,5
+7227 90 10 01 5,5
+7227 90 10 99 4,5
+7227 90 50 01 5,5
+7227 90 50 99 4,5
+7227 90 95 01 5,5
+7227 90 95 99 4,5
+7228 10 20 00 4,5
+7228 10 50 00 4,5
+7228 10 90 00 4,5
+7228 20 10 00 4,5
+7228 20 91 00 4,5
+7228 20 99 00 4,5
+7228 30 20 00 4,5
+7228 30 41 01 5,5
+7228 30 41 99 4,5
+7228 30 49 01 5,5
+7228 30 49 99 4,5
+7228 30 61 01 5,5
+7228 30 61 99 4,5
+7228 30 69 01 5,5
+7228 30 69 99 4,5
+7228 30 70 01 5,5
+7228 30 70 99 4,5
+7228 30 89 01 5,5
+Vámtarifaszám
+Vámtétel
+%
+7228 30 89 99 4,5
+7228 40 10 01 5,5
+7228 40 10 99 4,5
+7228 40 90 01 5,5
+7228 40 90 99 4,5
+7228 50 20 01 5,5
+7228 50 20 99 4,5
+7228 50 40 01 5,5
+7228 50 40 99 4,5
+7228 50 61 01 5,5
+7228 50 61 99 4,5
+7228 50 69 01 5,5
+7228 50 69 99 4,5
+7228 50 80 01 5,5
+7228 50 80 99 4,5
+7228 60 20 00 4,5
+7228 60 80 01 5,5
+7228 60 80 99 4,5
+7228 70 90 00 4,5
+7228 80 00 00 4,5
+7229 10 00 00 4,5
+7229 20 00 00 4,5
+7229 90 50 01 5,5
+7229 90 50 99 4,5
+7229 90 90 01 5,5
+7229 90 90 99 4,5
+7301 10 00 00 4,5
+7301 20 00 00 8
+7302 10 10 00 3,5
+7302 10 21 00 3,5
+7302 10 23 00 3,5
+7302 10 29 00 3,5
+7302 10 40 00 3,5
+7302 10 50 00 3,5
+7302 10 90 00 3,5
+7302 30 00 00 3,5
+7302 40 00 00 3,5
+Vámtarifaszám
+Vámtétel
+%
+7302 90 00 00 3,5
+7303 00 10 00 5,5
+7303 00 90 00 5,5
+7304 10 10 00 0
+7304 10 30 00 0
+7304 10 90 00 0
+7304 21 00 00 5
+7304 29 11 00 0
+7304 29 19 00 0
+7304 31 10 01 5,5
+7304 31 10 99 0
+7304 31 91 01 5,5
+7304 31 91 99 0
+7304 31 99 01 5,5
+7304 31 99 99 0
+7304 39 10 01 5,5
+7304 39 10 99 0
+7304 39 20 01 5,5
+7304 39 20 99 0
+7304 39 30 01 5,5
+7304 39 30 99 0
+7304 39 51 01 5,5
+7304 39 51 99 0
+7304 39 59 01 5,5
+7304 39 59 99 0
+7304 39 91 01 5,5
+7304 39 91 99 0
+7304 39 93 01 5,5
+7304 39 93 99 0
+7304 39 99 01 5,5
+7304 39 99 99 0
+7304 41 10 01 5,5
+7304 41 10 99 0
+7304 41 90 01 5,5
+7304 41 90 99 0
+7304 49 10 01 5,5
+7304 49 10 99 0
+Vámtarifaszám
+Vámtétel
+%
+7304 49 30 01 5,5
+7304 49 30 99 0
+7304 49 91 01 5,5
+7304 49 91 99 0
+7304 49 99 01 5,5
+7304 49 99 99 0
+7304 51 12 01 5,5
+7304 51 12 99 0
+7304 51 18 01 5,5
+7304 51 18 99 0
+7304 51 30 01 5,5
+7304 51 30 99 0
+7304 51 91 01 5,5
+7304 51 91 99 0
+7304 51 99 01 5,5
+7304 51 99 99 0
+7304 59 10 01 5,5
+7304 59 10 99 0
+7304 59 32 01 5,5
+7304 59 32 99 0
+7304 59 38 01 5,5
+7304 59 38 99 0
+7304 59 50 01 5,5
+7304 59 50 99 0
+7304 59 91 01 5,5
+7304 59 91 99 0
+7304 59 93 01 5,5
+7304 59 93 99 0
+7304 59 99 01 5,5
+7304 59 99 99 0
+7304 90 10 01 5,5
+7304 90 10 99 0
+7304 90 90 01 5,5
+7304 90 90 99 0
+7305 11 00 00 5
+7305 12 00 00 5
+7305 19 00 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+7305 20 00 00 5
+7305 31 00 01 5,5
+7305 31 00 99 5
+7305 39 00 01 5,5
+7305 39 00 99 5
+7305 90 00 01 5,5
+7305 90 00 99 5
+7306 10 11 00 5
+7306 10 19 00 5
+7306 10 90 00 5
+7306 20 00 00 5
+7306 30 10 01 5
+7306 30 10 99 0
+7306 30 21 00 5
+7306 30 29 00 5
+7306 30 51 01 5
+7306 30 51 99 0
+7306 30 59 01 5
+7306 30 59 99 0
+7306 30 71 01 5
+7306 30 71 99 0
+7306 30 78 01 5
+7306 30 78 99 0
+7306 30 90 01 5
+7306 30 90 99 0
+7306 40 10 01 5
+7306 40 10 99 0
+7306 40 91 01 5
+7306 40 91 99 0
+7306 40 99 01 5
+7306 40 99 99 0
+7306 50 10 01 5
+7306 50 10 99 0
+7306 50 91 00 5
+7306 50 99 01 5
+7306 50 99 99 0
+7306 60 10 01 5
+Vámtarifaszám
+Vámtétel
+%
+7306 60 10 99 0
+7306 60 32 01 5
+7306 60 32 99 0
+7306 60 34 01 5
+7306 60 34 99 0
+7306 60 36 01 5
+7306 60 36 99 0
+7306 60 38 01 5
+7306 60 38 99 0
+7306 60 91 01 5
+7306 60 91 99 0
+7306 60 99 01 5
+7306 60 99 99 0
+7306 90 00 01 5
+7306 90 00 99 0
+7307 11 10 00 5,5
+7307 11 90 00 5,5
+7307 19 10 00 5,5
+7307 19 90 00 5,5
+7307 21 00 00 5,5
+7307 22 10 00 5,5
+7307 22 90 00 5,5
+7307 23 10 00 5,5
+7307 23 90 00 5,5
+7307 29 10 00 5,5
+7307 29 30 00 5,5
+7307 29 90 00 5,5
+7307 91 00 00 5,5
+7307 92 10 00 5,5
+7307 92 90 00 5,5
+7307 93 11 00 5,5
+7307 93 19 00 5,5
+7307 93 91 00 5,5
+7307 93 99 00 5,5
+7307 99 10 00 5,5
+7307 99 30 00 5,5
+7307 99 90 00 5,5
+Vámtarifaszám
+Vámtétel
+%
+7308 10 00 00 8
+7308 20 00 00 8
+7308 30 00 00 8
+7308 40 10 00 8
+7308 40 90 00 8
+7308 90 10 00 8
+7308 90 51 00 8
+7308 90 59 00 8
+7308 90 99 00 8
+7309 00 10 01 10
+7309 00 10 99 7
+7309 00 30 01 10
+7309 00 30 99 7
+7309 00 51 00 7
+7309 00 59 01 10
+7309 00 59 99 7
+7309 00 90 01 10
+7309 00 90 99 7
+7310 10 00 01 7
+7310 10 00 99 10
+7310 21 11 00 8
+7310 21 19 00 8
+7310 21 91 01 7
+7310 21 91 99 8
+7310 21 99 01 7
+7310 21 99 99 8
+7310 29 10 01 7
+7310 29 10 99 8
+7310 29 90 01 7
+7310 29 90 99 8
+7311 00 10 00 8
+7311 00 91 00 8
+7311 00 99 00 8
+7312 10 10 00 8,5
+7312 10 30 00 8,5
+7312 10 51 00 8,5
+7312 10 59 00 8,5
+Vámtarifaszám
+Vámtétel
+%
+7312 10 71 00 8,5
+7312 10 75 00 8,5
+7312 10 79 00 8,5
+7312 10 82 00 8,5
+7312 10 84 00 8,5
+7312 10 86 00 8,5
+7312 10 88 00 8,5
+7312 10 99 00 8,5
+7312 90 10 00 8,5
+7312 90 90 00 8,5
+7313 00 00 00 10
+7314 12 00 00 5,5
+7314 13 00 00 5,5
+7314 14 00 00 5,5
+7314 19 00 00 5,5
+7314 20 10 00 5,5
+7314 20 90 00 5,5
+7314 31 00 00 5,5
+7314 39 00 00 5,5
+7314 41 10 00 5,5
+7314 41 90 00 5,5
+7314 42 10 00 5,5
+7314 42 90 00 5,5
+7314 49 00 00 5,5
+7314 50 00 00 3,4
+7315 11 10 00 7
+7315 11 90 00 7
+7315 12 00 00 7
+7315 19 00 00 7
+7315 20 00 00 7
+7315 81 00 00 7
+7315 82 10 00 7
+7315 82 90 00 7
+7315 89 00 00 7
+7315 90 00 00 7
+7316 00 00 00 7
+7317 00 10 00 7
+
+Vámtarifaszám
+Vámtétel
+%
+7317 00 20 00 7
+7317 00 40 00 7
+7317 00 61 00 7
+7317 00 69 00 7
+7317 00 90 01 8
+7317 00 90 99 7
+7318 11 00 00 8
+7318 12 10 00 8
+7318 12 90 00 8
+7318 13 00 00 8
+7318 14 10 00 8
+7318 14 91 00 8
+7318 14 99 00 8
+7318 15 10 00 8
+7318 15 20 00 8
+7318 15 30 00 8
+7318 15 41 00 8
+7318 15 49 00 8
+7318 15 51 00 8
+7318 15 59 00 8
+7318 15 61 00 8
+7318 15 69 00 8
+7318 15 70 00 8
+7318 15 81 00 8
+7318 15 89 00 8
+7318 15 90 00 8
+7318 16 10 00 8
+7318 16 30 00 8
+7318 16 50 00 8
+7318 16 91 00 8
+7318 16 99 00 8
+7318 19 00 00 8
+7318 21 00 00 8
+7318 22 00 00 8
+7318 23 00 00 8
+7318 24 00 00 8
+7318 29 00 00 8
+Vámtarifaszám
+Vámtétel
+%
+7319 10 00 00 8
+7319 20 00 00 7
+7319 30 00 00 8
+7319 90 00 00 7
+7320 10 11 00 5,5
+7320 10 19 00 5,5
+7320 10 90 00 5,5
+7320 20 20 00 5,5
+7320 20 81 00 5,5
+7320 20 85 00 5,5
+7320 20 89 00 5,5
+7320 90 10 00 5,5
+7320 90 30 00 5,5
+7320 90 90 00 5,5
+7321 11 10 00 9,5
+7321 11 90 00 9,5
+7321 12 00 00 9,5
+7321 13 00 00 9,5
+7321 81 10 00 9,5
+7321 81 90 00 9,5
+7321 82 10 00 9,5
+7321 82 90 00 9,5
+7321 83 00 00 9,5
+7321 90 00 00 9,5
+7322 11 00 00 6
+7322 19 00 00 6
+7322 90 10 00 6
+7322 90 90 00 6
+7323 10 00 00 8,5
+7323 91 00 00 8,5
+7323 92 00 00 8,5
+7323 93 10 00 8,5
+7323 93 90 00 8,5
+7323 94 10 00 8,5
+7323 94 90 00 8,5
+7323 99 10 00 8,5
+7323 99 91 00 8,5
+Vámtarifaszám
+Vámtétel
+%
+7323 99 99 00 8,5
+7324 10 10 00 8,5
+7324 10 90 00 8,5
+7324 21 00 00 8,5
+7324 29 00 00 8,5
+7324 90 10 01 7
+7324 90 10 99 8,5
+7324 90 90 01 7
+7324 90 90 99 8,5
+7325 10 50 00 7
+7325 10 92 00 7
+7325 10 99 00 7
+7325 91 00 01 8,5
+7325 91 00 99 7
+7325 99 10 01 8,5
+7325 99 10 99 7
+7325 99 90 00 7
+7326 11 00 00 7
+7326 19 10 00 7
+7326 19 90 00 7
+7326 20 10 00 7
+7326 20 30 00 7
+7326 20 50 00 7
+7326 20 90 00 7
+7326 90 10 00 7
+7326 90 30 00 7
+7326 90 40 00 7
+7326 90 50 00 7
+7326 90 60 00 7
+7326 90 70 00 7
+7326 90 91 00 7
+7326 90 93 00 7
+7326 90 95 00 7
+7326 90 98 00 7
+7401 10 00 00 0
+7401 20 00 00 0
+7402 00 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+7403 11 00 00 0
+7403 12 00 00 0
+7403 13 00 00 0
+7403 19 00 00 0
+7403 21 00 00 0
+7403 22 00 00 0
+7403 23 00 00 0
+7403 29 00 00 0
+7404 00 10 00 0
+7404 00 91 00 0
+7404 00 99 00 0
+7405 00 00 01 7
+7405 00 00 99 0
+7406 10 00 00 4,5
+7406 20 00 00 4,5
+7407 10 00 00 5
+7407 21 10 00 4,5
+7407 21 90 00 4,5
+7407 22 10 00 4,5
+7407 22 90 00 4,5
+7407 29 00 00 4,5
+7408 11 00 00 5
+7408 19 10 00 5
+7408 19 90 00 5
+7408 21 00 00 5
+7408 22 00 00 5
+7408 29 00 00 5
+7409 11 00 00 3,5
+7409 19 00 00 3,5
+7409 21 00 00 3,5
+7409 29 00 00 3,5
+7409 31 00 00 3,5
+7409 39 00 00 3,5
+7409 40 10 00 3,5
+7409 40 90 00 3,5
+7409 90 00 00 3,5
+7410 11 00 00 3,5
+
+Vámtarifaszám
+Vámtétel
+%
+7410 12 00 00 3,5
+7410 21 00 00 3,5
+7410 22 00 00 3,5
+7411 10 11 00 4,5
+7411 10 19 00 4,5
+7411 10 90 00 4,5
+7411 21 10 00 4,5
+7411 21 90 00 4,5
+7411 22 00 00 4,5
+7411 29 00 00 4,5
+7412 10 00 00 4,5
+7412 20 00 00 4,5
+7413 00 10 00 5,5
+7413 00 91 00 5,5
+7413 00 99 00 5,5
+7414 20 00 00 5,5
+7414 90 00 00 5,5
+7415 10 00 00 5,5
+7415 21 00 00 5,5
+7415 29 00 00 5,5
+7415 33 00 00 5,5
+7415 39 00 00 5,5
+7416 00 00 00 5,5
+7417 00 00 00 8
+7418 11 00 00 8
+7418 19 00 00 8
+7418 20 00 00 8
+7419 10 00 00 7,5
+7419 91 00 00 7,5
+7419 99 00 00 7,5
+7501 10 00 00 0
+7501 20 00 00 0
+7502 10 00 00 0
+7502 20 00 00 0
+7503 00 10 00 0
+7503 00 90 00 0
+7504 00 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+7505 11 00 00 0
+7505 12 00 00 0
+7505 21 00 00 0
+7505 22 00 00 0
+7506 10 00 00 0
+7506 20 00 00 0
+7507 11 00 00 0
+7507 12 00 00 0
+7507 20 00 00 0
+7508 10 00 00 0
+7508 90 00 00 0
+7601 10 00 00 0
+7601 20 10 00 7
+7601 20 91 00 7
+7601 20 99 00 7
+7602 00 11 00 0
+7602 00 19 00 0
+7602 00 90 00 0
+7603 10 00 00 7
+7603 20 00 00 7
+7604 10 10 00 7
+7604 10 90 00 7
+7604 21 00 00 7
+7604 29 10 00 7
+7604 29 90 00 7
+7605 11 00 00 7
+7605 19 00 00 7
+7605 21 00 00 7
+7605 29 00 00 7
+7606 11 10 00 7
+7606 11 91 00 7
+7606 11 93 00 7
+7606 11 99 00 7
+7606 12 10 00 7
+7606 12 50 00 7
+7606 12 91 00 7
+7606 12 93 00 7
+Vámtarifaszám
+Vámtétel
+%
+7606 12 99 00 7
+7606 91 00 00 7
+7606 92 00 00 7
+7607 11 10 00 5
+7607 11 90 00 5
+7607 19 10 00 5
+7607 19 91 00 5
+7607 19 99 00 5
+7607 20 10 00 5
+7607 20 91 00 5
+7607 20 99 00 5
+7608 10 10 00 7
+7608 10 90 00 7
+7608 20 10 00 7
+7608 20 30 00 7
+7608 20 91 00 7
+7608 20 99 00 7
+7609 00 00 00 7
+7610 10 00 00 7
+7610 90 10 00 7
+7610 90 90 00 7
+7611 00 00 01 7
+7611 00 00 99 8,5
+7612 10 00 00 7
+7612 90 10 00 12,1
+7612 90 20 00 12,1
+7612 90 91 01 12,1
+7612 90 91 99 7
+7612 90 98 01 12,1
+7612 90 98 99 7
+7613 00 00 00 8,5
+7614 10 00 00 12,1
+7614 90 00 00 12,1
+7615 11 00 00 9
+7615 19 10 00 9
+7615 19 90 01 12,1
+7615 19 90 99 9
+Vámtarifaszám
+Vámtétel
+%
+7615 20 00 00 9
+7616 10 00 00 12,1
+7616 91 00 00 12,1
+7616 99 10 00 12,1
+7616 99 90 00 12,1
+7801 10 00 00 0
+7801 91 00 00 0
+7801 99 10 00 0
+7801 99 91 00 0
+7801 99 99 00 0
+7802 00 00 00 0
+7803 00 00 00 5,5
+7804 11 00 00 5,5
+7804 19 00 00 5,5
+7804 20 00 00 5,5
+7805 00 00 00 5,5
+7806 00 10 00 5,5
+7806 00 90 00 5,5
+7901 11 00 00 0
+7901 12 10 00 0
+7901 12 30 00 0
+7901 12 90 00 0
+7901 20 00 00 0
+7902 00 00 00 0
+7903 10 00 00 3,5
+7903 90 00 00 3,5
+7904 00 00 00 5,5
+7905 00 00 00 3,5
+7906 00 00 00 5,5
+7907 00 00 00 5,5
+8001 10 00 00 0
+8001 20 00 00 0
+8002 00 00 00 0
+8003 00 00 00 5,5
+8004 00 00 00 5,5
+8005 00 00 00 5
+8006 00 00 00 5,5
+
+Vámtarifaszám
+Vámtétel
+%
+8007 00 00 00 5,5
+8101 10 00 00 0
+8101 94 00 00 0
+8101 95 00 00 4,5
+8101 96 00 00 4,5
+8101 97 00 00 0
+8101 99 00 00 4,5
+8102 10 00 00 0
+8102 94 00 00 0
+8102 95 00 00 4,5
+8102 96 00 00 4,5
+8102 97 00 00 0
+8102 99 00 00 4,5
+8103 20 00 00 0
+8103 30 00 00 0
+8103 90 10 00 3
+8103 90 90 00 3
+8104 11 00 00 0
+8104 19 00 00 0
+8104 20 00 00 0
+8104 30 00 00 4,5
+8104 90 00 00 4,5
+8105 20 00 00 0
+8105 30 00 00 0
+8105 90 00 00 4,5
+8106 00 10 00 0
+8106 00 90 00 4,5
+8107 20 00 00 0
+8107 30 00 00 0
+8107 90 00 00 4,5
+8108 20 00 00 0
+8108 30 00 00 0
+8108 90 10 00 0
+8108 90 30 00 0
+8108 90 50 00 0
+8108 90 70 00 0
+8108 90 90 00 0
+Vámtarifaszám
+Vámtétel
+%
+8109 20 00 00 0
+8109 30 00 00 0
+8109 90 00 00 4,5
+8110 10 00 00 0
+8110 20 00 00 0
+8110 90 00 00 4,5
+8111 00 11 00 0
+8111 00 19 00 0
+8111 00 90 00 4,5
+8112 12 00 00 0
+8112 13 00 00 0
+8112 19 00 00 4,5
+8112 21 10 00 0
+8112 21 90 00 0
+8112 22 00 00 0
+8112 29 00 00 4,5
+8112 30 20 00 0
+8112 30 40 00 0
+8112 30 90 00 0
+8112 40 10 00 0
+8112 40 90 00 4,5
+8112 51 00 00 0
+8112 52 00 00 0
+8112 59 00 00 0
+8112 92 10 00 0
+8112 92 31 00 0
+8112 92 39 00 0
+8112 92 50 00 0
+8112 92 81 00 0
+8112 92 89 00 0
+8112 99 10 01 0
+8112 99 10 99 4,5
+8112 99 30 01 0
+8112 99 30 99 4,5
+8112 99 80 01 0
+8112 99 80 99 4,5
+8113 00 20 00 0
+Vámtarifaszám
+Vámtétel
+%
+8113 00 40 00 0
+8113 00 90 01 0
+8113 00 90 99 4,5
+8201 10 00 00 10
+8201 20 00 00 10
+8201 30 00 00 10
+8201 40 00 00 10
+8201 50 00 00 10
+8201 60 00 00 10
+8201 90 00 00 10
+8202 10 00 00 12,1
+8202 20 00 00 9,5
+8202 31 00 00 9,5
+8202 39 00 00 9,5
+8202 40 00 00 9,5
+8202 91 00 00 9,5
+8202 99 11 00 9,5
+8202 99 19 00 9,5
+8202 99 90 00 9,5
+8203 10 00 00 10
+8203 20 10 00 10
+8203 20 90 00 10
+8203 30 00 00 10
+8203 40 00 00 10
+8204 11 00 00 10
+8204 12 00 00 10
+8204 20 00 00 8,5
+8205 10 00 00 9,5
+8205 20 00 00 9,5
+8205 30 00 00 9,5
+8205 40 00 00 9,5
+8205 51 00 00 9,5
+8205 59 10 00 9,5
+8205 59 30 00 9,5
+8205 59 90 00 9,5
+8205 60 00 00 9,5
+8205 70 00 00 9,5
+Vámtarifaszám
+Vámtétel
+%
+8205 80 00 00 9,5
+8205 90 00 00 9,5
+8206 00 00 01 12,1
+8206 00 00 02 10
+8206 00 00 99 9,5
+8207 13 00 00 8,5
+8207 19 10 00 8,5
+8207 19 90 00 8,5
+8207 20 10 00 8,5
+8207 20 90 00 8,5
+8207 30 10 00 8,5
+8207 30 90 00 8,5
+8207 40 10 00 8,5
+8207 40 30 00 8,5
+8207 40 90 00 8,5
+8207 50 10 00 8,5
+8207 50 30 00 8,5
+8207 50 50 00 8,5
+8207 50 60 00 8,5
+8207 50 70 00 8,5
+8207 50 90 00 8,5
+8207 60 10 00 8,5
+8207 60 30 00 8,5
+8207 60 50 00 8,5
+8207 60 70 00 8,5
+8207 60 90 00 8,5
+8207 70 10 00 8,5
+8207 70 31 00 8,5
+8207 70 35 00 8,5
+8207 70 38 00 8,5
+8207 70 90 00 8,5
+8207 80 11 00 8,5
+8207 80 19 00 8,5
+8207 80 90 00 8,5
+8207 90 10 00 8,5
+8207 90 30 00 8,5
+8207 90 50 00 8,5
+
+Vámtarifaszám
+Vámtétel
+%
+8207 90 71 00 8,5
+8207 90 78 00 8,5
+8207 90 91 00 8,5
+8207 90 99 00 8,5
+8208 10 00 00 8
+8208 20 00 00 8
+8208 30 10 00 8
+8208 30 90 00 8
+8208 40 00 00 8
+8208 90 00 00 8
+8209 00 20 00 7,5
+8209 00 80 00 7,5
+8210 00 00 00 8,5
+8211 10 00 00 10
+8211 91 30 00 10
+8211 91 80 00 10
+8211 92 00 00 10
+8211 93 00 00 10
+8211 94 00 00 10
+8211 95 00 00 10
+8212 10 10 00 9,5
+8212 10 90 00 9,5
+8212 20 00 01 9,5
+8212 20 00 99 9,5
+8212 90 00 00 9,5
+8213 00 00 01 12,1
+8213 00 00 99 9,5
+8214 10 00 00 10
+8214 20 00 00 10
+8214 90 00 00 10
+8215 10 20 00 9,5
+8215 10 30 00 9,5
+8215 10 80 00 9,5
+8215 20 10 00 9,5
+8215 20 90 00 9,5
+8215 91 00 01 10
+8215 91 00 99 9,5
+Vámtarifaszám
+Vámtétel
+%
+8215 99 10 01 10
+8215 99 10 99 9,5
+8215 99 90 01 10
+8215 99 90 99 9,5
+8301 10 00 00 10
+8301 20 00 00 10
+8301 30 00 00 10
+8301 40 11 00 10
+8301 40 19 00 10
+8301 40 90 00 10
+8301 50 00 00 10
+8301 60 00 00 10
+8301 70 00 00 10
+8302 10 10 00 5
+8302 10 90 00 5
+8302 20 10 00 5
+8302 20 90 00 5
+8302 30 00 00 5
+8302 41 00 00 5
+8302 42 10 00 5
+8302 42 90 00 5
+8302 49 10 00 5
+8302 49 90 00 5
+8302 50 00 00 5
+8302 60 10 00 5
+8302 60 90 00 5
+8303 00 10 00 10
+8303 00 30 00 10
+8303 00 90 00 10
+8304 00 00 01 5,5
+8304 00 00 02 0
+8304 00 00 03 7
+8304 00 00 99 10
+8305 10 00 00 10
+8305 20 00 00 7,7
+8305 90 00 00 10
+8306 10 00 00 12,1
+Vámtarifaszám
+Vámtétel
+%
+8306 21 00 00 12,1
+8306 29 10 00 7,7
+8306 29 90 00 7,7
+8306 30 00 00 12,1
+8307 10 10 00 7
+8307 10 90 00 7
+8307 90 10 00 7
+8307 90 90 00 7
+8308 10 00 00 5
+8308 20 00 00 5
+8308 90 00 00 5
+8309 10 00 00 8
+8309 90 10 00 8
+8309 90 90 00 8
+8310 00 00 00 12,1
+8311 10 10 00 5
+8311 10 90 00 5
+8311 20 00 00 5
+8311 30 00 00 5
+8311 90 00 00 5
+8401 10 00 00 0
+8401 20 00 01 8,5
+8401 20 00 99 10
+8401 30 00 00 0
+8401 40 00 00 0
+8402 11 00 00 8,5
+8402 12 00 00 8,5
+8402 19 10 01 4
+8402 19 10 02 0
+8402 19 10 99 8,5
+8402 19 90 01 4
+8402 19 90 02 0
+8402 19 90 99 8,5
+8402 20 00 00 8,5
+8402 90 00 00 8,5
+8403 10 10 01 4
+8403 10 10 02 0
+Vámtarifaszám
+Vámtétel
+%
+8403 10 10 03 4
+8403 10 10 99 6
+8403 10 90 01 4
+8403 10 90 02 0
+8403 10 90 03 4
+8403 10 90 99 6
+8403 90 10 00 6
+8403 90 90 00 6
+8404 10 00 00 5
+8404 20 00 00 5
+8404 90 00 00 5
+8405 10 00 00 11
+8405 90 00 00 11
+8406 10 00 00 11
+8406 81 10 01 8,5
+8406 81 10 99 2,7
+8406 81 90 01 8,5
+8406 81 90 99 11
+8406 82 11 01 8,5
+8406 82 11 99 11
+8406 82 19 01 8,5
+8406 82 19 99 11
+8406 82 90 01 8,5
+8406 82 90 99 2,7
+8406 90 10 01 8,5
+8406 90 10 99 11
+8406 90 90 01 8,5
+8406 90 90 99 2,7
+8407 10 10 00 12
+8407 10 90 00 12
+8407 21 10 00 12
+8407 21 91 00 12
+8407 21 99 00 12
+8407 29 20 00 12
+8407 29 80 00 12
+8407 31 00 00 12
+8407 32 10 00 12
+
+Vámtarifaszám
+Vámtétel
+%
+8407 32 90 00 12
+8407 33 10 00 12
+8407 33 90 00 12
+8407 34 10 00 12
+8407 34 30 00 12
+8407 34 91 00 12
+8407 34 99 00 12
+8407 90 10 01 8
+8407 90 10 99 12
+8407 90 50 01 8
+8407 90 50 99 12
+8407 90 80 01 8
+8407 90 80 99 12
+8407 90 90 01 8
+8407 90 90 99 12
+8408 10 11 00 12
+8408 10 19 00 12
+8408 10 22 00 12
+8408 10 24 00 12
+8408 10 26 00 12
+8408 10 28 00 12
+8408 10 31 00 12
+8408 10 39 00 12
+8408 10 41 00 12
+8408 10 49 00 12
+8408 10 51 00 12
+8408 10 59 00 12
+8408 10 61 00 12
+8408 10 69 00 12
+8408 10 71 00 12
+8408 10 79 00 12
+8408 10 81 00 12
+8408 10 89 00 12
+8408 10 91 00 12
+8408 10 99 00 12
+8408 20 10 01 10
+8408 20 10 99 10
+Vámtarifaszám
+Vámtétel
+%
+8408 20 31 00 10
+8408 20 35 01 10
+8408 20 35 99 10
+8408 20 37 01 12
+8408 20 37 99 10
+8408 20 51 00 10
+8408 20 55 00 10
+8408 20 57 01 12
+8408 20 57 99 10
+8408 20 99 01 12
+8408 20 99 99 10
+8408 90 10 00 10
+8408 90 21 00 10
+8408 90 29 00 10
+8408 90 31 00 10
+8408 90 33 00 10
+8408 90 36 00 10
+8408 90 37 00 10
+8408 90 51 00 10
+8408 90 55 00 10
+8408 90 57 00 10
+8408 90 71 00 10
+8408 90 75 00 10
+8408 90 99 00 10
+8409 10 10 00 8
+8409 10 90 00 8
+8409 91 00 00 10
+8409 99 00 01 3
+8409 99 00 99 10
+8410 11 00 00 8
+8410 12 00 00 8
+8410 13 00 00 8
+8410 90 10 00 8
+8410 90 90 00 8
+8411 11 10 01 0
+8411 11 10 99 0
+8411 11 90 01 3,2
+Vámtarifaszám
+Vámtétel
+%
+8411 11 90 99 3,2
+8411 12 11 01 0
+8411 12 11 99 0
+8411 12 13 01 0
+8411 12 13 99 0
+8411 12 19 01 0
+8411 12 19 99 0
+8411 12 90 01 2,7
+8411 12 90 99 2,7
+8411 21 10 00 0
+8411 21 90 00 3,6
+8411 22 11 00 0
+8411 22 19 00 0
+8411 22 90 00 2,7
+8411 81 10 00 0
+8411 81 90 00 4,1
+8411 82 10 00 0
+8411 82 91 00 4,1
+8411 82 93 00 4,1
+8411 82 99 00 4,1
+8411 91 10 00 0
+8411 91 90 00 2,7
+8411 99 10 00 0
+8411 99 90 00 4,1
+8412 10 10 00 8,5
+8412 10 90 00 8,5
+8412 21 10 00 8
+8412 21 91 00 8
+8412 21 99 00 8
+8412 29 10 00 8
+8412 29 50 00 8
+8412 29 91 00 8
+8412 29 99 00 8
+8412 31 10 00 8,5
+8412 31 90 00 8,5
+8412 39 10 00 8,5
+8412 39 90 00 8,5
+Vámtarifaszám
+Vámtétel
+%
+8412 80 10 01 11
+8412 80 10 99 8,5
+8412 80 91 00 8,5
+8412 80 99 00 8,5
+8412 90 10 00 8
+8412 90 30 00 8,5
+8412 90 50 00 8
+8412 90 90 00 8,5
+8413 11 00 00 5,5
+8413 19 10 00 5,5
+8413 19 90 00 5,5
+8413 20 10 00 5,5
+8413 20 90 00 5,5
+8413 30 10 00 5,5
+8413 30 91 00 5,5
+8413 30 99 00 5,5
+8413 40 00 00 5,5
+8413 50 10 00 5,5
+8413 50 30 00 5,5
+8413 50 50 00 5,5
+8413 50 71 00 5,5
+8413 50 79 00 5,5
+8413 50 90 00 5,5
+8413 60 10 00 5,5
+8413 60 30 00 5,5
+8413 60 41 00 5,5
+8413 60 49 00 5,5
+8413 60 51 00 5,5
+8413 60 59 00 5,5
+8413 60 60 00 5,5
+8413 60 90 00 5,5
+8413 70 10 00 5,5
+8413 70 21 00 5,5
+8413 70 29 00 5,5
+8413 70 30 00 5,5
+8413 70 40 00 5,5
+8413 70 50 00 5,5
+
+Vámtarifaszám
+Vámtétel
+%
+8413 70 61 00 5,5
+8413 70 69 00 5,5
+8413 70 70 00 5,5
+8413 70 80 00 5,5
+8413 70 91 00 5,5
+8413 70 99 00 5,5
+8413 81 10 00 5,5
+8413 81 90 00 5,5
+8413 82 00 00 5,5
+8413 91 10 00 5,5
+8413 91 90 00 5,5
+8413 92 00 00 5,5
+8414 10 10 00 8
+8414 10 20 00 8
+8414 10 30 00 8
+8414 10 50 00 8
+8414 10 80 00 8
+8414 20 10 00 8
+8414 20 91 00 8
+8414 20 99 00 8
+8414 30 10 00 8
+8414 30 30 00 8
+8414 30 91 00 8
+8414 30 99 00 8
+8414 40 10 00 8
+8414 40 90 00 8
+8414 51 10 00 8
+8414 51 90 01 10
+8414 51 90 99 8
+8414 59 10 00 8
+8414 59 30 01 10
+8414 59 30 99 8
+8414 59 50 01 10
+8414 59 50 99 8
+8414 59 90 01 10
+8414 59 90 99 8
+8414 60 00 01 10
+Vámtarifaszám
+Vámtétel
+%
+8414 60 00 99 8
+8414 80 10 01 8,5
+8414 80 10 99 8
+8414 80 21 01 8,5
+8414 80 21 99 8
+8414 80 29 01 8,5
+8414 80 29 99 8
+8414 80 31 01 8,5
+8414 80 31 99 8
+8414 80 39 01 8,5
+8414 80 39 99 8
+8414 80 41 01 8,5
+8414 80 41 99 8
+8414 80 49 01 8,5
+8414 80 49 99 8
+8414 80 60 01 8,5
+8414 80 60 99 8
+8414 80 71 01 8,5
+8414 80 71 99 8
+8414 80 79 01 8,5
+8414 80 79 99 8
+8414 80 90 01 8,5
+8414 80 90 99 8
+8414 90 10 01 8
+8414 90 10 99 8
+8414 90 90 01 10
+8414 90 90 02 8
+8414 90 90 99 8
+8415 10 10 00 8,5
+8415 10 90 00 8,5
+8415 20 00 00 8,5
+8415 81 10 00 8,5
+8415 81 90 00 8,5
+8415 82 10 00 8,5
+8415 82 80 00 8,5
+8415 83 10 00 8,5
+8415 83 90 00 8,5
+Vámtarifaszám
+Vámtétel
+%
+8415 90 10 00 8,5
+8415 90 90 00 8,5
+8416 10 10 00 8,8
+8416 10 90 00 8,5
+8416 20 10 00 8,5
+8416 20 90 00 8,5
+8416 30 00 00 8,5
+8416 90 00 00 8,5
+8417 10 00 00 8,5
+8417 20 10 00 5
+8417 20 90 00 5
+8417 80 10 00 8,5
+8417 80 20 00 8,5
+8417 80 80 00 8,5
+8417 90 00 00 8,5
+8418 10 10 00 6
+8418 10 91 00 6
+8418 10 99 00 6
+8418 21 10 00 6
+8418 21 51 00 6
+8418 21 59 00 6
+8418 21 91 00 6
+8418 21 99 00 6
+8418 22 00 00 6
+8418 29 00 00 6
+8418 30 10 00 6
+8418 30 91 00 6
+8418 30 99 00 6
+8418 40 10 00 6
+8418 40 91 00 6
+8418 40 99 00 6
+8418 50 11 00 6
+8418 50 19 00 6
+8418 50 91 00 6
+8418 50 99 00 6
+8418 61 10 00 6
+8418 61 90 00 6
+Vámtarifaszám
+Vámtétel
+%
+8418 69 10 00 6
+8418 69 91 00 6
+8418 69 99 00 6
+8418 91 00 01 6
+8418 91 00 99 6
+8418 99 10 00 6
+8418 99 90 01 6
+8418 99 90 99 6
+8419 11 00 00 8,5
+8419 19 00 00 8,5
+8419 20 00 00 5
+8419 31 00 00 8,5
+8419 32 00 00 8,5
+8419 39 10 00 8,5
+8419 39 90 00 8,5
+8419 40 00 00 8,5
+8419 50 10 00 8,5
+8419 50 90 00 8,5
+8419 60 00 00 8,5
+8419 81 10 00 5
+8419 81 91 00 5
+8419 81 99 00 5
+8419 89 10 00 8,5
+8419 89 15 00 8,5
+8419 89 20 00 8,5
+8419 89 25 00 8,5
+8419 89 27 00 8,5
+8419 89 30 00 8,5
+8419 89 98 00 8,5
+8419 90 10 00 8,5
+8419 90 25 00 8,5
+8419 90 50 00 8,5
+8419 90 80 00 8,5
+8420 10 10 00 11
+8420 10 30 00 11
+8420 10 50 00 11
+8420 10 90 00 11
+
+Vámtarifaszám
+Vámtétel
+%
+8420 91 10 00 11
+8420 91 80 00 11
+8420 99 00 00 11
+8421 11 00 00 8,5
+8421 12 00 00 8,5
+8421 19 10 00 8,5
+8421 19 91 01 5
+8421 19 91 99 8,5
+8421 19 94 00 8,5
+8421 19 99 00 8,5
+8421 21 10 00 8,5
+8421 21 90 01 8
+8421 21 90 99 8,5
+8421 22 00 00 10
+8421 23 10 00 9
+8421 23 90 00 9
+8421 29 10 00 8,5
+8421 29 90 00 8,5
+8421 31 10 00 10
+8421 31 90 00 10
+8421 39 10 00 8,5
+8421 39 30 00 8,5
+8421 39 51 00 8,5
+8421 39 71 00 8,5
+8421 39 98 00 8,5
+8421 91 10 00 8
+8421 91 30 00 8
+8421 91 90 00 8
+8421 99 00 00 8
+8422 11 00 00 9,5
+8422 19 00 00 9,5
+8422 20 00 00 9
+8422 30 00 00 7
+8422 40 00 00 9
+8422 90 10 00 9
+8422 90 90 01 7
+8422 90 90 99 9
+Vámtarifaszám
+Vámtétel
+%
+8423 10 10 00 7
+8423 10 90 00 7
+8423 20 00 00 7
+8423 30 00 00 7
+8423 81 10 00 7
+8423 81 30 00 7
+8423 81 50 00 7
+8423 81 90 00 7
+8423 82 10 00 7
+8423 82 90 00 7
+8423 89 00 00 7
+8424 10 10 00 6
+8424 10 91 00 6
+8424 10 99 00 6
+8424 20 00 00 6
+8424 30 01 00 6
+8424 30 05 00 6
+8424 30 09 00 6
+8424 30 10 00 6
+8424 30 90 00 6
+8424 81 10 00 5,5
+8424 81 30 00 5,5
+8424 81 91 00 5,5
+8424 81 99 00 5,5
+8424 89 20 00 5,5
+8424 89 30 00 5,5
+8424 89 95 00 5,5
+8424 90 10 00 5,5
+8424 90 30 00 5,5
+8424 90 90 01 5,5
+8424 90 90 99 5,5
+8425 11 10 00 8
+8425 11 90 00 8
+8425 19 10 00 9
+8425 19 91 00 9
+8425 19 99 00 9
+8425 20 00 00 9
+Vámtarifaszám
+Vámtétel
+%
+8425 31 10 00 9
+8425 31 90 00 9
+8425 39 10 00 9
+8425 39 91 00 9
+8425 39 99 00 9
+8425 41 00 00 9
+8425 42 10 00 9
+8425 42 90 00 9
+8425 49 10 00 9
+8425 49 90 00 9
+8426 11 00 00 9
+8426 12 00 01 9,5
+8426 12 00 99 9
+8426 19 00 00 9
+8426 20 00 01 6
+8426 20 00 99 9
+8426 30 00 00 9
+8426 41 00 01 6
+8426 41 00 02 9,5
+8426 41 00 99 9
+8426 49 00 01 6
+8426 49 00 99 9
+8426 91 10 00 9
+8426 91 90 00 9
+8426 99 10 00 9
+8426 99 90 00 9
+8427 10 10 00 9,5
+8427 10 90 00 9,5
+8427 20 11 00 9,5
+8427 20 19 00 9,5
+8427 20 90 00 9,5
+8427 90 00 01 9,5
+8427 90 00 99 9
+8428 10 10 00 9
+8428 10 91 00 9
+8428 10 99 00 9
+8428 20 10 00 9
+Vámtarifaszám
+Vámtétel
+%
+8428 20 30 00 9
+8428 20 91 00 9
+8428 20 99 00 9
+8428 31 00 01 6
+8428 31 00 99 9
+8428 32 00 01 6
+8428 32 00 99 9
+8428 33 10 01 6
+8428 33 10 99 9
+8428 33 90 01 6
+8428 33 90 99 9
+8428 39 10 00 9
+8428 39 91 00 9
+8428 39 93 00 9
+8428 39 98 00 9
+8428 40 00 00 9
+8428 50 00 00 9
+8428 60 00 00 9
+8428 90 10 01 6
+8428 90 10 99 9
+8428 90 30 01 6
+8428 90 30 99 9
+8428 90 71 01 6
+8428 90 71 99 9
+8428 90 79 01 6
+8428 90 79 99 9
+8428 90 91 01 6
+8428 90 91 99 9
+8428 90 98 01 6
+8428 90 98 99 9
+8429 11 00 00 5
+8429 19 00 00 5
+8429 20 00 00 9
+8429 30 00 00 9
+8429 40 10 00 11
+8429 40 30 00 11
+8429 40 90 00 5
+
+Vámtarifaszám
+Vámtétel
+%
+8429 51 10 01 9
+8429 51 10 02 5
+8429 51 91 01 9
+8429 51 91 02 5
+8429 51 99 01 9
+8429 51 99 02 5
+8429 52 10 01 9
+8429 52 10 02 5
+8429 52 90 01 9
+8429 52 90 02 5
+8429 59 00 01 5
+8429 59 00 99 9
+8430 10 00 00 5
+8430 20 00 00 5
+8430 31 00 01 8
+8430 31 00 99 5
+8430 39 00 01 8
+8430 39 00 99 5
+8430 41 00 01 8
+8430 41 00 99 5
+8430 49 00 01 8
+8430 49 00 99 8
+8430 50 00 00 5
+8430 61 00 00 9
+8430 69 00 01 9
+8430 69 00 99 5
+8431 10 00 00 9
+8431 20 00 01 9,5
+8431 20 00 99 5
+8431 31 00 01 6
+8431 31 00 99 9
+8431 39 10 01 6
+8431 39 10 99 9
+8431 39 90 01 6
+8431 39 90 99 9
+8431 41 00 01 9
+8431 41 00 99 5
+Vámtarifaszám
+Vámtétel
+%
+8431 42 00 00 5
+8431 43 00 01 8
+8431 43 00 99 5
+8431 49 20 01 9
+8431 49 20 02 11
+8431 49 20 99 5
+8431 49 80 01 9
+8431 49 80 02 11
+8431 49 80 99 5
+8432 10 10 00 7
+8432 10 90 00 7
+8432 21 00 00 7
+8432 29 10 00 7
+8432 29 30 00 7
+8432 29 50 00 7
+8432 29 90 00 7
+8432 30 11 00 7
+8432 30 19 00 7
+8432 30 90 00 7
+8432 40 10 00 7
+8432 40 90 00 7
+8432 80 00 00 7
+8432 90 00 00 7
+8433 11 10 00 7,5
+8433 11 51 00 7,5
+8433 11 59 00 7,5
+8433 11 90 00 7,5
+8433 19 10 00 7,5
+8433 19 51 00 7,5
+8433 19 59 00 7,5
+8433 19 70 00 7,5
+8433 19 90 00 7,5
+8433 20 10 00 7,5
+8433 20 51 00 7,5
+8433 20 59 00 7,5
+8433 20 90 00 7,5
+8433 30 10 00 7,5
+Vámtarifaszám
+Vámtétel
+%
+8433 30 90 00 7,5
+8433 40 10 00 7,5
+8433 40 90 00 7,5
+8433 51 00 00 7,5
+8433 52 00 00 7,5
+8433 53 10 00 7,5
+8433 53 30 00 7,5
+8433 53 90 00 7,5
+8433 59 11 00 7,5
+8433 59 19 00 7,5
+8433 59 30 00 7,5
+8433 59 80 00 7,5
+8433 60 00 00 7,5
+8433 90 00 00 7,5
+8434 10 00 00 6
+8434 20 00 00 6
+8434 90 00 00 6
+8435 10 00 00 11
+8435 90 00 00 11
+8436 10 00 00 8
+8436 21 00 00 8
+8436 29 00 00 8
+8436 80 10 00 8
+8436 80 91 00 8
+8436 80 99 00 8
+8436 91 00 00 8
+8436 99 00 00 8
+8437 10 00 01 7,5
+8437 10 00 02 11
+8437 80 00 00 11
+8437 90 00 01 7,5
+8437 90 00 99 11
+8438 10 10 00 8,5
+8438 10 90 00 8,5
+8438 20 00 00 8,5
+8438 30 00 00 11
+8438 40 00 00 8,5
+Vámtarifaszám
+Vámtétel
+%
+8438 50 00 00 8,5
+8438 60 00 00 11
+8438 80 10 00 8,5
+8438 80 91 00 8,5
+8438 80 99 00 8,5
+8438 90 00 00 8,5
+8439 10 00 00 8
+8439 20 00 00 8
+8439 30 00 00 8
+8439 91 10 00 8
+8439 91 90 00 8
+8439 99 10 00 8
+8439 99 90 00 8
+8440 10 10 00 8
+8440 10 20 00 8
+8440 10 30 00 8
+8440 10 40 00 8
+8440 10 90 00 8
+8440 90 00 00 8
+8441 10 10 00 8
+8441 10 20 00 8
+8441 10 30 00 8
+8441 10 40 00 8
+8441 10 80 01 6
+8441 10 80 99 8
+8441 20 00 00 8
+8441 30 00 00 8
+8441 40 00 00 8
+8441 80 00 00 8
+8441 90 10 01 6
+8441 90 10 99 8
+8441 90 90 00 8
+8442 10 00 00 9,5
+8442 20 10 00 9,5
+8442 20 90 00 9,5
+8442 30 00 00 11
+8442 40 00 01 11
+
+Vámtarifaszám
+Vámtétel
+%
+8442 40 00 99 9,5
+8442 50 21 01 8
+8442 50 21 02 10
+8442 50 21 99 11
+8442 50 23 01 8
+8442 50 23 02 10
+8442 50 23 99 11
+8442 50 29 01 8
+8442 50 29 02 10
+8442 50 29 99 11
+8442 50 80 01 8
+8442 50 80 02 10
+8442 50 80 99 11
+8443 11 00 01 8
+8443 11 00 99 11
+8443 12 00 00 11
+8443 19 10 01 8
+8443 19 10 99 11
+8443 19 31 01 8
+8443 19 31 99 11
+8443 19 35 01 8
+8443 19 35 99 11
+8443 19 39 01 8
+8443 19 39 99 11
+8443 19 90 01 8
+8443 19 90 99 11
+8443 21 00 01 8
+8443 21 00 99 11
+8443 29 00 01 8
+8443 29 00 99 11
+8443 30 00 01 8
+8443 30 00 99 11
+8443 40 00 00 11
+8443 51 00 00 5
+8443 59 20 00 8
+8443 59 40 00 8
+8443 59 70 01 8
+Vámtarifaszám
+Vámtétel
+%
+8443 59 70 99 11
+8443 60 00 00 11
+8443 90 05 00 8
+8443 90 10 01 8
+8443 90 10 99 11
+8443 90 80 01 8
+8443 90 80 99 11
+8444 00 10 00 8
+8444 00 90 00 8
+8445 11 00 01 8
+8445 11 00 99 8
+8445 12 00 01 8
+8445 12 00 99 8
+8445 13 00 01 8
+8445 13 00 99 8
+8445 19 00 01 8
+8445 19 00 99 8
+8445 20 00 01 8
+8445 20 00 99 8
+8445 30 10 01 8
+8445 30 10 99 8
+8445 30 90 01 8
+8445 30 90 99 8
+8445 40 00 01 8
+8445 40 00 99 8
+8445 90 00 00 8
+8446 10 00 00 8
+8446 21 00 00 8
+8446 29 00 00 8
+8446 30 00 00 8
+8447 11 10 00 8
+8447 11 90 00 8
+8447 12 10 00 8
+8447 12 90 00 8
+8447 20 20 00 8
+8447 20 80 00 8
+8447 90 00 00 8
+Vámtarifaszám
+Vámtétel
+%
+8448 11 00 00 8,5
+8448 19 00 00 8,5
+8448 20 00 00 8,5
+8448 31 00 00 8,5
+8448 32 00 00 8,5
+8448 33 10 00 8,5
+8448 33 90 00 8,5
+8448 39 00 00 8,5
+8448 41 00 00 8,5
+8448 42 00 00 8,5
+8448 49 00 00 8,5
+8448 51 10 00 8,5
+8448 51 90 00 8,5
+8448 59 00 00 8,5
+8449 00 00 01 8
+8449 00 00 99 8
+8450 11 11 00 7
+8450 11 19 00 7
+8450 11 90 00 7
+8450 12 00 00 7
+8450 19 00 00 7
+8450 20 00 00 8
+8450 90 00 01 8
+8450 90 00 99 7
+8451 10 00 00 8
+8451 21 10 00 7
+8451 21 90 00 7
+8451 29 00 00 8
+8451 30 10 00 8
+8451 30 30 00 8
+8451 30 80 00 8
+8451 40 00 00 8
+8451 50 00 00 8
+8451 80 10 00 8
+8451 80 30 00 8
+8451 80 80 00 8
+8451 90 00 01 7
+Vámtarifaszám
+Vámtétel
+%
+8451 90 00 99 8
+8452 10 11 00 8,5
+8452 10 19 00 8,5
+8452 10 90 00 8,5
+8452 21 00 00 8,5
+8452 29 00 00 8,5
+8452 30 10 00 8,5
+8452 30 90 00 8,5
+8452 40 00 00 8,5
+8452 90 00 00 8,5
+8453 10 00 00 8
+8453 20 00 00 8
+8453 80 00 00 8
+8453 90 00 00 8
+8454 10 00 00 10
+8454 20 00 00 10
+8454 30 10 00 10
+8454 30 90 00 10
+8454 90 00 00 10
+8455 10 00 00 10
+8455 21 00 01 9,5
+8455 21 00 99 10
+8455 22 00 01 9,5
+8455 22 00 99 10
+8455 30 10 01 9,5
+8455 30 10 99 10
+8455 30 31 01 9,5
+8455 30 31 99 10
+8455 30 39 01 9,5
+8455 30 39 99 10
+8455 30 90 01 9,5
+8455 30 90 99 10
+8455 90 00 01 9,5
+8455 90 00 99 10
+8456 10 10 01 11
+8456 10 10 02 11
+8456 10 10 03 10
+
+Vámtarifaszám
+Vámtétel
+%
+8456 10 10 99 7
+8456 10 90 01 11
+8456 10 90 02 11
+8456 10 90 03 10
+8456 10 90 99 7
+8456 20 00 01 9,5
+8456 20 00 02 11
+8456 20 00 03 10
+8456 30 11 01 9,5
+8456 30 11 02 11
+8456 30 11 03 10
+8456 30 19 01 9,5
+8456 30 19 02 11
+8456 30 19 03 10
+8456 30 90 01 9,5
+8456 30 90 02 11
+8456 30 90 03 10
+8456 91 00 00 10
+8456 99 10 00 10
+8456 99 30 00 10
+8456 99 50 00 10
+8456 99 80 01 9,5
+8456 99 80 02 11
+8456 99 80 03 11
+8456 99 80 99 10
+8457 10 10 01 9,5
+8457 10 10 99 11
+8457 10 90 01 9,5
+8457 10 90 99 11
+8457 20 00 00 11
+8457 30 10 01 9,5
+8457 30 10 99 11
+8457 30 90 01 9,5
+8457 30 90 99 11
+8458 11 20 00 11
+8458 11 41 01 12,1
+8458 11 41 99 11
+Vámtarifaszám
+Vámtétel
+%
+8458 11 49 01 12,1
+8458 11 49 99 11
+8458 11 80 01 12,1
+8458 11 80 99 11
+8458 19 20 01 9,5
+8458 19 20 99 11
+8458 19 40 01 9,5
+8458 19 40 99 11
+8458 19 80 00 9,5
+8458 91 20 00 11
+8458 91 80 00 11
+8458 99 00 00 11
+8459 10 00 00 12,1
+8459 21 00 00 11
+8459 29 00 00 11
+8459 31 00 00 11
+8459 39 00 01 9,5
+8459 39 00 99 11
+8459 40 10 00 11
+8459 40 90 00 11
+8459 51 00 00 12,1
+8459 59 00 01 9,5
+8459 59 00 99 12,1
+8459 61 10 00 9,5
+8459 61 90 01 8,5
+8459 61 90 99 9,5
+8459 69 10 00 9,5
+8459 69 90 01 8,5
+8459 69 90 99 9,5
+8459 70 00 00 11
+8460 11 00 00 10,4
+8460 19 00 01 9,5
+8460 19 00 99 10,4
+8460 21 11 00 10,4
+8460 21 15 00 10,4
+8460 21 19 00 10,4
+8460 21 90 00 10,4
+Vámtarifaszám
+Vámtétel
+%
+8460 29 11 01 9,5
+8460 29 11 99 10,4
+8460 29 19 01 9,5
+8460 29 19 99 10,4
+8460 29 90 01 9,5
+8460 29 90 99 10,4
+8460 31 00 00 11
+8460 39 00 00 11
+8460 40 10 01 9,5
+8460 40 10 99 11
+8460 40 90 01 9,5
+8460 40 90 99 11
+8460 90 10 01 9,5
+8460 90 10 02 10
+8460 90 10 99 11
+8460 90 90 01 9,5
+8460 90 90 02 10
+8460 90 90 99 11
+8461 20 00 00 12,1
+8461 30 10 00 9,5
+8461 30 90 00 9,5
+8461 40 11 00 10
+8461 40 19 00 10
+8461 40 31 00 10
+8461 40 39 00 10
+8461 40 71 00 10
+8461 40 79 00 10
+8461 40 90 00 10
+8461 50 11 00 12,1
+8461 50 19 00 12,1
+8461 50 90 01 9,5
+8461 50 90 99 11
+8461 90 00 01 12,1
+8461 90 00 02 10,4
+8461 90 00 99 11
+8462 10 10 01 9,5
+8462 10 10 02 11,5
+Vámtarifaszám
+Vámtétel
+%
+8462 10 10 99 11
+8462 10 90 01 9,5
+8462 10 90 02 11,5
+8462 10 90 99 11
+8462 21 05 01 9,5
+8462 21 05 99 11
+8462 21 10 01 9,5
+8462 21 10 99 11
+8462 21 80 01 9,5
+8462 21 80 99 11
+8462 29 05 01 9,5
+8462 29 05 99 11
+8462 29 10 01 9,5
+8462 29 10 99 11
+8462 29 91 01 9,5
+8462 29 91 99 11
+8462 29 98 01 9,5
+8462 29 98 99 11
+8462 31 00 00 11
+8462 39 10 00 11
+8462 39 91 00 11
+8462 39 99 00 11
+8462 41 10 00 11
+8462 41 90 00 11
+8462 49 10 01 9,5
+8462 49 10 99 11
+8462 49 90 01 9,5
+8462 49 90 99 11
+8462 91 10 00 7
+8462 91 50 00 11
+8462 91 90 00 11
+8462 99 10 00 7
+8462 99 50 00 11
+8462 99 90 00 11
+8463 10 10 00 11
+8463 10 90 00 11
+8463 20 00 01 9,5
+
+Vámtarifaszám
+Vámtétel
+%
+8463 20 00 99 11
+8463 30 00 00 11
+8463 90 00 01 11,5
+8463 90 00 02 9,5
+8463 90 00 99 11
+8464 10 10 00 11
+8464 10 90 00 11
+8464 20 05 00 11
+8464 20 11 00 11
+8464 20 19 00 11
+8464 20 20 00 11
+8464 20 95 00 11
+8464 90 10 00 11
+8464 90 20 00 11
+8464 90 80 00 11
+8465 10 10 00 10
+8465 10 90 00 10
+8465 91 10 00 10
+8465 91 20 00 10
+8465 91 90 00 10
+8465 92 00 00 10
+8465 93 00 00 10
+8465 94 00 00 10
+8465 95 00 00 10
+8465 96 00 00 10
+8465 99 10 00 10
+8465 99 90 00 10
+8466 10 10 01 8
+8466 10 10 99 15
+8466 10 31 01 8
+8466 10 31 99 15
+8466 10 39 01 8
+8466 10 39 99 15
+8466 10 90 00 15
+8466 20 10 01 8
+8466 20 10 99 15
+8466 20 91 01 8
+Vámtarifaszám
+Vámtétel
+%
+8466 20 91 99 15
+8466 20 99 01 8
+8466 20 99 99 15
+8466 30 00 01 8
+8466 30 00 99 15
+8466 91 15 00 15
+8466 91 20 00 15
+8466 91 95 00 15
+8466 92 20 00 15
+8466 92 80 00 15
+8466 93 15 00 15
+8466 93 17 00 15
+8466 93 95 01 7
+8466 93 95 02 10
+8466 93 95 99 15
+8466 94 10 00 15
+8466 94 90 01 7
+8466 94 90 99 15
+8467 11 10 00 8
+8467 11 90 00 8
+8467 19 00 00 8
+8467 21 10 00 7
+8467 21 91 00 7
+8467 21 99 00 7
+8467 22 10 00 7
+8467 22 30 00 7
+8467 22 90 00 7
+8467 29 10 00 7
+8467 29 30 00 7
+8467 29 51 00 7
+8467 29 53 00 7
+8467 29 59 00 7
+8467 29 70 00 7
+8467 29 80 00 7
+8467 29 90 00 7
+8467 81 00 00 8
+8467 89 00 01 5
+Vámtarifaszám
+Vámtétel
+%
+8467 89 00 02 7
+8467 89 00 99 8
+8467 91 00 00 8
+8467 92 00 00 8
+8467 99 00 00 8
+8468 10 00 00 8
+8468 20 00 01 7
+8468 20 00 99 8
+8468 80 00 01 15
+8468 80 00 99 7
+8468 90 00 01 7
+8468 90 00 02 8
+8468 90 00 03 15
+8468 90 00 99 7
+8469 11 00 00 7
+8469 12 00 00 7
+8469 20 00 01 7
+8469 20 00 99 7
+8469 30 00 01 7
+8469 30 00 99 7
+8470 10 00 00 7
+8470 21 00 00 7
+8470 29 00 00 7
+8470 30 00 00 7
+8470 40 00 00 8,9
+8470 50 00 00 7
+8470 90 00 00 7
+8471 10 10 00 0
+8471 10 90 00 0
+8471 30 00 00 0
+8471 41 10 00 0
+8471 41 90 00 0
+8471 49 10 00 0
+8471 49 90 00 0
+8471 50 10 00 0
+8471 50 90 00 0
+8471 60 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+8471 60 40 00 0
+8471 60 50 00 0
+8471 60 90 00 0
+8471 70 10 00 0
+8471 70 40 00 0
+8471 70 51 00 0
+8471 70 53 00 0
+8471 70 59 00 0
+8471 70 60 00 0
+8471 70 90 00 0
+8471 80 00 00 0
+8471 90 00 00 0
+8472 10 00 00 8
+8472 20 00 00 8
+8472 30 00 00 8
+8472 90 10 00 8
+8472 90 30 00 8
+8472 90 80 01 8
+8472 90 80 99 8
+8473 10 11 00 0
+8473 10 19 00 3
+8473 10 90 00 0
+8473 21 10 00 0
+8473 21 90 00 0
+8473 29 10 00 0
+8473 29 90 00 0
+8473 30 10 00 0
+8473 30 90 00 0
+8473 40 11 00 0
+8473 40 19 01 3
+8473 40 19 99 3
+8473 40 90 01 0
+8473 40 90 99 0
+8473 50 10 00 0
+8473 50 90 00 0
+8474 10 00 00 11
+8474 20 10 00 11
+
+Vámtarifaszám
+Vámtétel
+%
+8474 20 90 00 11
+8474 31 00 00 11
+8474 32 00 00 11
+8474 39 10 00 11
+8474 39 90 00 11
+8474 80 10 01 7,5
+8474 80 10 99 11
+8474 80 90 01 7,5
+8474 80 90 99 11
+8474 90 10 01 7,5
+8474 90 10 99 11
+8474 90 90 01 7,5
+8474 90 90 99 11
+8475 10 00 01 0
+8475 10 00 02 5
+8475 10 00 99 5
+8475 21 00 00 7
+8475 29 00 01 0
+8475 29 00 02 5
+8475 29 00 99 7
+8475 90 00 00 7
+8476 21 00 00 5
+8476 29 00 00 5
+8476 81 00 00 5
+8476 89 00 00 5
+8476 90 00 00 5
+8477 10 10 00 7
+8477 10 90 00 7
+8477 20 00 00 7
+8477 30 00 00 7
+8477 40 00 00 7
+8477 51 00 00 7
+8477 59 05 00 7
+8477 59 10 00 7
+8477 59 80 00 7
+8477 80 11 00 7
+8477 80 19 00 7
+Vámtarifaszám
+Vámtétel
+%
+8477 80 91 00 7
+8477 80 93 00 7
+8477 80 95 00 7
+8477 80 99 00 7
+8477 90 05 00 7
+8477 90 10 00 7
+8477 90 80 00 7
+8478 10 00 00 7
+8478 90 00 00 7
+8479 10 00 00 7
+8479 20 00 00 7
+8479 30 10 00 7
+8479 30 90 00 7
+8479 40 00 00 7
+8479 50 00 01 7
+8479 50 00 02 8
+8479 50 00 99 7
+8479 60 00 00 7
+8479 81 00 00 7
+8479 82 00 00 7
+8479 89 10 00 7
+8479 89 30 00 7
+8479 89 60 00 7
+8479 89 65 00 7
+8479 89 70 00 7
+8479 89 73 00 7
+8479 89 77 00 7
+8479 89 79 00 7
+8479 89 91 00 7
+8479 89 98 01 8
+8479 89 98 02 8
+8479 89 98 99 7
+8479 90 10 00 7
+8479 90 50 00 7
+8479 90 92 01 8
+8479 90 92 99 7
+8479 90 97 01 8
+Vámtarifaszám
+Vámtétel
+%
+8479 90 97 99 7
+8480 10 00 00 11
+8480 20 00 00 11
+8480 30 10 00 3
+8480 30 90 01 7,5
+8480 30 90 02 7
+8480 30 90 03 18
+8480 30 90 99 12,1
+8480 41 00 01 3
+8480 41 00 99 11
+8480 49 00 00 11
+8480 50 00 00 11
+8480 60 10 00 11
+8480 60 90 00 11
+8480 71 10 00 11
+8480 71 90 00 11
+8480 79 00 00 11
+8481 10 05 00 8
+8481 10 19 00 8
+8481 10 99 00 8
+8481 20 10 00 8
+8481 20 90 00 8
+8481 30 91 00 8
+8481 30 99 00 8
+8481 40 10 00 8
+8481 40 90 00 8
+8481 80 11 00 8
+8481 80 19 00 8
+8481 80 31 00 8
+8481 80 39 00 8
+8481 80 40 00 8
+8481 80 51 00 8
+8481 80 59 00 8
+8481 80 61 00 8
+8481 80 63 00 8
+8481 80 69 00 8
+8481 80 71 00 8
+Vámtarifaszám
+Vámtétel
+%
+8481 80 73 00 8
+8481 80 79 00 8
+8481 80 81 00 8
+8481 80 85 00 8
+8481 80 87 00 8
+8481 80 99 00 8
+8481 90 00 00 8
+8482 10 10 00 5
+8482 10 90 00 5
+8482 20 00 00 5
+8482 30 00 00 5
+8482 40 00 00 5
+8482 50 00 00 5
+8482 80 00 00 5
+8482 91 10 00 5
+8482 91 90 00 5
+8482 99 00 00 5
+8483 10 10 00 10
+8483 10 41 00 10
+8483 10 51 00 10
+8483 10 57 00 10
+8483 10 60 00 10
+8483 10 80 00 10
+8483 20 10 00 10
+8483 20 90 00 10
+8483 30 10 00 10
+8483 30 31 00 10
+8483 30 39 00 10
+8483 30 90 00 10
+8483 40 10 00 10
+8483 40 82 00 10
+8483 40 83 00 10
+8483 40 84 00 10
+8483 40 85 00 10
+8483 40 92 00 8
+8483 40 94 00 10
+8483 40 96 00 10
+
+Vámtarifaszám
+Vámtétel
+%
+8483 40 98 00 10
+8483 50 10 00 10
+8483 50 91 00 10
+8483 50 99 00 10
+8483 60 10 00 10
+8483 60 91 00 10
+8483 60 99 00 10
+8483 90 10 00 10
+8483 90 30 00 10
+8483 90 92 00 10
+8483 90 98 00 10
+8484 10 10 00 9,5
+8484 10 90 00 9,5
+8484 20 00 00 9,5
+8484 90 10 00 9,5
+8484 90 90 00 9,5
+8485 10 10 00 8
+8485 10 90 00 8
+8485 90 10 00 8
+8485 90 30 00 8
+8485 90 51 00 8
+8485 90 53 00 8
+8485 90 55 00 8
+8485 90 59 00 8
+8485 90 80 00 8
+8501 10 10 01 8,5
+8501 10 10 99 10
+8501 10 91 01 8,5
+8501 10 91 99 10
+8501 10 93 01 8,5
+8501 10 93 99 10
+8501 10 99 01 8,5
+8501 10 99 99 10
+8501 20 10 00 10
+8501 20 90 00 10
+8501 31 10 00 10
+8501 31 90 00 10
+Vámtarifaszám
+Vámtétel
+%
+8501 32 10 00 10
+8501 32 91 00 10
+8501 32 99 00 10
+8501 33 10 00 10
+8501 33 90 00 10
+8501 34 10 00 10
+8501 34 50 00 10
+8501 34 91 00 10
+8501 34 99 00 10
+8501 40 10 00 10
+8501 40 91 00 10
+8501 40 99 00 10
+8501 51 10 00 10
+8501 51 90 00 10
+8501 52 10 00 10
+8501 52 91 00 10
+8501 52 93 00 10
+8501 52 99 00 10
+8501 53 10 00 10
+8501 53 50 00 10
+8501 53 92 00 10
+8501 53 94 00 10
+8501 53 99 00 10
+8501 61 10 00 10
+8501 61 91 00 10
+8501 61 99 00 10
+8501 62 10 00 10
+8501 62 90 00 10
+8501 63 10 00 10
+8501 63 90 00 10
+8501 64 00 00 10
+8502 11 10 00 10
+8502 11 91 00 10
+8502 11 99 00 10
+8502 12 10 00 10
+8502 12 90 00 10
+8502 13 10 00 10
+Vámtarifaszám
+Vámtétel
+%
+8502 13 91 00 10
+8502 13 93 00 10
+8502 13 98 00 10
+8502 20 10 00 10
+8502 20 91 00 10
+8502 20 92 00 10
+8502 20 94 00 10
+8502 20 98 00 10
+8502 31 10 00 10
+8502 31 90 00 10
+8502 39 10 00 10
+8502 39 91 00 10
+8502 39 99 00 10
+8502 40 10 00 10
+8502 40 90 00 10
+8503 00 10 01 8,5
+8503 00 10 99 10
+8503 00 91 01 8,5
+8503 00 91 99 10
+8503 00 99 01 8,5
+8503 00 99 99 10
+8504 10 10 00 10
+8504 10 91 00 10
+8504 10 99 00 10
+8504 21 00 00 10
+8504 22 10 00 10
+8504 22 90 00 10
+8504 23 00 00 10
+8504 31 10 00 10
+8504 31 31 00 10
+8504 31 39 01 10
+8504 31 39 99 10
+8504 31 90 01 10
+8504 31 90 99 10
+8504 32 10 00 10
+8504 32 30 00 10
+8504 32 90 00 10
+Vámtarifaszám
+Vámtétel
+%
+8504 33 10 00 10
+8504 33 90 00 10
+8504 34 00 00 10
+8504 40 10 00 10
+8504 40 20 00 10
+8504 40 50 00 10
+8504 40 93 00 10
+8504 40 94 00 10
+8504 40 96 00 10
+8504 40 97 00 10
+8504 40 99 00 10
+8504 50 10 00 10
+8504 50 30 00 10
+8504 50 80 00 10
+8504 90 05 01 10
+8504 90 05 99 10
+8504 90 11 01 8,5
+8504 90 11 99 10
+8504 90 18 01 8,5
+8504 90 18 99 10
+8504 90 91 01 8,5
+8504 90 91 99 10
+8504 90 99 01 8,5
+8504 90 99 99 10
+8505 11 00 00 9,5
+8505 19 10 00 9,5
+8505 19 90 00 9,5
+8505 20 00 00 9,5
+8505 30 00 00 9,5
+8505 90 10 01 12,1
+8505 90 10 99 9,5
+8505 90 30 00 9,5
+8505 90 90 00 9,5
+8506 10 11 00 8
+8506 10 15 00 8
+8506 10 19 00 9
+8506 10 91 00 8
+
+Vámtarifaszám
+Vámtétel
+%
+8506 10 95 00 8
+8506 10 99 00 8
+8506 30 10 00 8
+8506 30 30 00 8
+8506 30 90 00 8
+8506 40 10 00 8
+8506 40 30 00 8
+8506 40 90 00 8
+8506 50 10 00 8
+8506 50 30 00 8
+8506 50 90 00 8
+8506 60 10 00 8
+8506 60 30 00 8
+8506 60 90 00 8
+8506 80 05 00 8
+8506 80 11 00 8
+8506 80 15 00 8
+8506 80 90 00 8
+8506 90 00 00 8
+8507 10 10 00 8
+8507 10 31 00 8
+8507 10 39 00 8
+8507 10 81 00 8
+8507 10 89 00 8
+8507 20 10 00 8
+8507 20 31 00 8
+8507 20 39 00 8
+8507 20 81 00 8
+8507 20 89 00 8
+8507 30 10 00 8
+8507 30 91 00 8
+8507 30 93 00 8
+8507 30 98 00 8
+8507 40 10 00 8
+8507 40 90 00 8
+8507 80 10 00 8
+8507 80 91 00 8
+Vámtarifaszám
+Vámtétel
+%
+8507 80 94 00 8
+8507 80 98 00 8
+8507 90 10 00 8
+8507 90 91 00 8
+8507 90 93 00 8
+8507 90 98 00 8
+8509 10 10 00 10
+8509 10 90 00 10
+8509 20 00 00 10
+8509 30 00 00 10
+8509 40 00 00 10
+8509 80 00 00 10
+8509 90 10 00 10
+8509 90 90 00 10
+8510 10 00 00 8,5
+8510 20 00 00 12,1
+8510 30 00 00 10
+8510 90 00 01 5,5
+8510 90 00 02 10
+8510 90 00 99 12,1
+8511 10 10 00 10
+8511 10 90 00 10
+8511 20 10 00 10
+8511 20 90 00 10
+8511 30 10 00 10
+8511 30 90 00 10
+8511 40 10 00 10
+8511 40 90 00 10
+8511 50 10 01 10
+8511 50 10 99 10
+8511 50 90 01 10
+8511 50 90 99 10
+8511 80 10 00 10
+8511 80 90 00 10
+8511 90 00 00 10
+8512 10 00 00 10
+8512 20 00 00 10
+Vámtarifaszám
+Vámtétel
+%
+8512 30 00 00 10
+8512 40 00 00 10
+8512 90 00 00 10
+8513 10 00 00 10
+8513 90 00 00 10
+8514 10 05 00 25
+8514 10 10 00 25
+8514 10 80 00 25
+8514 20 05 00 25
+8514 20 10 00 25
+8514 20 80 00 25
+8514 30 11 00 25
+8514 30 19 00 25
+8514 30 91 00 25
+8514 30 99 00 25
+8514 40 00 00 25
+8514 90 20 00 25
+8514 90 80 00 25
+8515 11 00 00 12
+8515 19 00 00 12
+8515 21 00 00 12
+8515 29 10 00 12
+8515 29 90 00 12
+8515 31 00 01 7
+8515 31 00 99 12
+8515 39 13 00 12
+8515 39 18 00 12
+8515 39 90 00 12
+8515 80 05 00 5
+8515 80 11 00 5
+8515 80 19 01 6
+8515 80 19 99 5
+8515 80 91 00 5
+8515 80 99 00 5
+8515 90 10 00 6
+8515 90 90 00 5
+8516 10 11 00 11
+Vámtarifaszám
+Vámtétel
+%
+8516 10 19 00 11
+8516 10 91 00 11
+8516 10 99 00 11
+8516 21 00 00 11
+8516 29 10 00 11
+8516 29 50 00 11
+8516 29 91 00 11
+8516 29 99 00 11
+8516 31 10 00 11
+8516 31 90 00 11
+8516 32 00 00 11
+8516 33 00 00 11
+8516 40 10 00 11
+8516 40 90 00 11
+8516 50 00 00 11
+8516 60 10 00 11
+8516 60 51 00 11
+8516 60 59 00 11
+8516 60 70 00 11
+8516 60 80 00 11
+8516 60 90 00 11
+8516 71 00 00 11
+8516 72 00 00 11
+8516 79 20 00 11
+8516 79 70 00 11
+8516 80 10 00 11
+8516 80 91 00 11
+8516 80 99 00 11
+8516 90 00 00 11
+8517 11 00 00 10
+8517 19 10 01 10
+8517 19 10 02 5
+8517 19 10 99 10
+8517 19 90 00 10
+8517 21 00 00 10
+8517 22 00 00 10
+8517 30 00 00 10
+
+Vámtarifaszám
+Vámtétel
+%
+8517 50 10 00 10
+8517 50 90 00 0
+8517 80 10 00 10
+8517 80 90 00 10
+8517 90 11 00 10
+8517 90 19 00 10
+8517 90 82 00 10
+8517 90 88 00 10
+8518 10 10 00 12
+8518 10 20 00 12
+8518 10 80 00 12
+8518 21 10 00 12
+8518 21 90 00 12
+8518 22 10 00 12
+8518 22 90 00 12
+8518 29 10 00 12,1
+8518 29 20 00 12,1
+8518 29 80 00 12,1
+8518 30 10 00 10
+8518 30 20 00 10
+8518 30 80 00 10
+8518 40 10 00 12
+8518 40 30 00 12
+8518 40 91 00 12
+8518 40 99 00 12
+8518 50 10 00 12
+8518 50 90 00 12
+8518 90 00 00 10
+8519 10 00 00 10
+8519 21 00 00 10
+8519 29 00 00 10
+8519 31 00 00 10
+8519 39 00 00 10
+8519 40 00 00 10
+8519 92 00 00 10
+8519 93 31 00 10
+8519 93 39 00 10
+Vámtarifaszám
+Vámtétel
+%
+8519 93 81 00 10
+8519 93 89 00 10
+8519 99 12 00 10
+8519 99 18 00 10
+8519 99 90 00 10
+8520 10 00 00 10
+8520 20 00 00 10
+8520 32 11 00 10
+8520 32 19 00 10
+8520 32 30 00 10
+8520 32 50 00 10
+8520 32 91 00 10
+8520 32 99 00 10
+8520 33 11 00 10
+8520 33 19 00 10
+8520 33 30 00 10
+8520 33 90 00 10
+8520 39 10 00 10
+8520 39 90 00 10
+8520 90 10 00 10
+8520 90 90 00 10
+8521 10 10 00 10
+8521 10 30 00 10
+8521 10 80 00 10
+8521 90 00 00 10
+8522 10 00 00 10
+8522 90 10 00 10
+8522 90 30 00 10
+8522 90 51 00 10
+8522 90 59 00 10
+8522 90 93 00 10
+8522 90 98 00 10
+8523 11 00 00 5
+8523 12 00 00 5
+8523 13 00 00 5
+8523 20 10 00 5
+8523 20 90 00 5
+Vámtarifaszám
+Vámtétel
+%
+8523 30 00 00 5
+8523 90 00 00 5
+8524 10 00 00 5
+8524 31 00 00 0
+8524 32 10 00 5
+8524 32 90 00 5
+8524 39 10 00 5
+8524 39 20 00 5
+8524 39 80 00 5
+8524 40 00 00 5
+8524 51 00 00 5
+8524 52 00 00 5
+8524 53 00 00 5
+8524 60 00 00 5
+8524 91 00 00 5
+8524 99 10 00 5
+8524 99 90 00 5
+8525 10 10 01 10
+8525 10 10 99 15
+8525 10 50 01 10
+8525 10 50 99 15
+8525 10 80 01 10
+8525 10 80 99 15
+8525 20 10 00 15
+8525 20 91 00 15
+8525 20 99 00 15
+8525 30 10 00 10
+8525 30 90 00 10
+8525 40 11 00 10
+8525 40 19 00 10
+8525 40 91 00 10
+8525 40 99 00 10
+8526 10 10 00 6,2
+8526 10 90 00 6,2
+8526 91 11 00 6,2
+8526 91 19 00 6,2
+8526 91 90 00 6,2
+Vámtarifaszám
+Vámtétel
+%
+8526 92 10 00 6,2
+8526 92 90 01 8,5
+8526 92 90 99 6,2
+8527 12 10 00 15
+8527 12 90 00 15
+8527 13 10 00 15
+8527 13 91 00 15
+8527 13 99 00 15
+8527 19 00 00 15
+8527 21 20 00 15
+8527 21 52 00 15
+8527 21 59 00 15
+8527 21 70 00 15
+8527 21 92 00 15
+8527 21 98 00 15
+8527 29 00 00 15
+8527 31 11 00 15
+8527 31 19 00 15
+8527 31 91 00 15
+8527 31 93 00 15
+8527 31 98 00 15
+8527 32 10 00 15
+8527 32 90 00 15
+8527 39 20 00 15
+8527 39 80 00 15
+8527 90 10 00 15
+8527 90 92 00 15
+8527 90 98 00 15
+8528 12 10 01 10
+8528 12 10 99 5
+8528 12 20 00 10
+8528 12 52 01 10
+8528 12 52 99 5
+8528 12 54 01 10
+8528 12 54 99 5
+8528 12 56 01 10
+8528 12 56 99 5
+
+Vámtarifaszám
+Vámtétel
+%
+8528 12 58 01 10
+8528 12 58 99 5
+8528 12 62 01 10
+8528 12 62 99 5
+8528 12 66 01 10
+8528 12 66 99 5
+8528 12 70 01 10
+8528 12 70 99 5
+8528 12 81 01 10
+8528 12 81 99 5
+8528 12 89 01 10
+8528 12 89 99 5
+8528 12 90 00 5
+8528 12 91 00 5
+8528 12 94 00 5
+8528 12 95 00 5
+8528 12 98 01 10
+8528 12 98 99 5
+8528 13 00 01 10
+8528 13 00 99 5
+8528 21 14 01 10
+8528 21 14 99 15
+8528 21 16 01 10
+8528 21 16 99 15
+8528 21 18 01 10
+8528 21 18 99 15
+8528 21 90 01 10
+8528 21 90 99 15
+8528 22 00 01 10
+8528 22 00 99 15
+8528 30 05 01 10
+8528 30 05 99 15
+8528 30 20 01 10
+8528 30 20 99 15
+8528 30 90 01 10
+8528 30 90 99 15
+8529 10 10 00 7,7
+Vámtarifaszám
+Vámtétel
+%
+8529 10 15 00 7,7
+8529 10 20 00 7,7
+8529 10 31 00 7,7
+8529 10 39 00 7,7
+8529 10 40 00 7,7
+8529 10 45 00 7,7
+8529 10 70 00 7,7
+8529 10 90 00 7,7
+8529 90 10 00 7,7
+8529 90 40 00 7,7
+8529 90 51 00 7,7
+8529 90 59 00 7,7
+8529 90 72 00 7,7
+8529 90 81 00 7,7
+8529 90 88 00 7,7
+8530 10 00 00 7
+8530 80 00 00 7
+8530 90 00 00 7
+8531 10 10 00 25
+8531 10 20 00 25
+8531 10 30 00 25
+8531 10 80 00 25
+8531 20 10 00 25
+8531 20 30 00 25
+8531 20 50 00 25
+8531 20 80 00 25
+8531 80 10 00 25
+8531 80 30 00 25
+8531 80 80 00 25
+8531 90 20 00 25
+8531 90 80 00 25
+8532 10 00 00 11
+8532 21 00 00 11
+8532 22 00 00 11
+8532 23 00 00 11
+8532 24 00 00 11
+8532 25 00 00 11
+Vámtarifaszám
+Vámtétel
+%
+8532 29 00 00 11
+8532 30 00 00 11
+8532 90 00 00 11
+8533 10 00 00 7,5
+8533 21 00 00 7,5
+8533 29 00 00 7,5
+8533 31 00 00 7,5
+8533 39 00 00 7,5
+8533 40 10 00 7,5
+8533 40 90 00 7,5
+8533 90 00 00 7,5
+8534 00 11 00 7,5
+8534 00 19 00 7,5
+8534 00 90 00 7,5
+8535 10 00 00 7,5
+8535 21 00 00 7,5
+8535 29 00 00 7,5
+8535 30 10 00 7,5
+8535 30 90 00 7,5
+8535 40 00 00 7,5
+8535 90 00 00 7,5
+8536 10 10 00 7,5
+8536 10 50 00 7,5
+8536 10 90 00 7,5
+8536 20 10 00 6
+8536 20 90 00 6
+8536 30 10 00 7,5
+8536 30 30 00 7,5
+8536 30 90 00 7,5
+8536 41 10 00 6
+8536 41 90 00 6
+8536 49 00 00 7,5
+8536 50 03 00 7,5
+8536 50 05 00 7,5
+8536 50 07 00 7,5
+8536 50 11 00 6
+8536 50 15 00 7,5
+Vámtarifaszám
+Vámtétel
+%
+8536 50 19 01 6
+8536 50 19 99 7,5
+8536 50 80 01 6
+8536 50 80 99 7,5
+8536 61 10 00 7,5
+8536 61 90 00 7,5
+8536 69 10 00 7,5
+8536 69 30 00 7,5
+8536 69 90 00 7,5
+8536 90 01 00 7,5
+8536 90 10 00 7,5
+8536 90 20 00 7,5
+8536 90 85 00 7,5
+8537 10 10 00 6
+8537 10 91 00 7,5
+8537 10 99 01 6
+8537 10 99 99 7,5
+8537 20 91 01 6
+8537 20 91 99 7,5
+8537 20 99 01 6
+8537 20 99 99 7,5
+8538 10 00 00 7,5
+8538 90 11 00 7,5
+8538 90 19 00 7,5
+8538 90 91 00 7,5
+8538 90 99 00 7,5
+8539 10 10 00 10
+8539 10 90 00 10
+8539 21 30 00 10
+8539 21 92 00 10
+8539 21 98 00 10
+8539 22 10 00 10
+8539 22 90 00 10
+8539 29 30 00 10
+8539 29 92 00 10
+8539 29 98 00 10
+8539 31 10 00 10
+
+Vámtarifaszám
+Vámtétel
+%
+8539 31 90 00 10
+8539 32 10 00 10
+8539 32 50 00 10
+8539 32 90 00 10
+8539 39 00 00 10
+8539 41 00 00 10
+8539 49 10 00 10
+8539 49 30 00 10
+8539 90 10 00 10
+8539 90 90 00 10
+8540 11 11 00 0
+8540 11 13 00 0
+8540 11 15 00 0
+8540 11 19 00 0
+8540 11 91 00 0
+8540 11 99 00 0
+8540 12 00 00 0
+8540 20 10 00 0
+8540 20 80 00 11
+8540 40 00 00 11
+8540 50 00 00 11
+8540 60 00 00 11
+8540 71 00 00 7,5
+8540 72 00 00 7,5
+8540 79 00 00 7,5
+8540 81 00 00 11
+8540 89 00 01 7,5
+8540 89 00 02 9,5
+8540 89 00 99 11
+8540 91 00 00 8,5
+8540 99 00 00 8,5
+8541 10 00 00 5
+8541 21 00 00 9,5
+8541 29 00 01 8,5
+8541 29 00 99 9,5
+8541 30 00 00 5
+8541 40 10 00 5
+Vámtarifaszám
+Vámtétel
+%
+8541 40 90 00 5
+8541 50 00 00 5
+8541 60 00 00 5
+8541 90 00 00 0
+8542 10 00 00 5
+8542 21 01 00 5
+8542 21 05 00 5
+8542 21 11 00 5
+8542 21 13 00 5
+8542 21 15 00 5
+8542 21 17 00 5
+8542 21 20 00 5
+8542 21 25 00 5
+8542 21 31 00 5
+8542 21 33 00 5
+8542 21 35 00 5
+8542 21 37 00 5
+8542 21 39 00 5
+8542 21 41 00 5
+8542 21 45 00 5
+8542 21 50 00 5
+8542 21 61 00 5
+8542 21 69 00 5
+8542 21 71 00 5
+8542 21 73 00 5
+8542 21 81 00 5
+8542 21 83 00 5
+8542 21 85 00 5
+8542 21 91 00 5
+8542 21 99 00 5
+8542 29 10 00 5
+8542 29 20 00 5
+8542 29 30 00 5
+8542 29 50 00 5
+8542 29 60 00 5
+8542 29 70 00 5
+8542 29 90 00 5
+Vámtarifaszám
+Vámtétel
+%
+8542 60 00 00 5
+8542 70 00 00 5
+8542 90 00 00 0
+8543 11 00 00 10
+8543 19 00 00 10
+8543 20 00 00 10
+8543 30 20 00 10
+8543 30 80 00 10
+8543 40 00 00 10
+8543 81 00 00 10
+8543 89 10 00 10
+8543 89 15 00 10
+8543 89 20 00 10
+8543 89 51 00 10
+8543 89 55 00 10
+8543 89 59 00 10
+8543 89 65 00 10
+8543 89 73 00 10
+8543 89 75 00 10
+8543 89 79 00 10
+8543 89 95 01 0
+8543 89 95 02 5
+8543 89 95 99 10
+8543 90 10 00 10
+8543 90 20 00 10
+8543 90 30 00 10
+8543 90 40 00 10
+8543 90 80 00 10
+8544 11 10 00 7,5
+8544 11 90 01 0
+8544 11 90 99 7,5
+8544 19 10 00 7,5
+8544 19 90 01 0
+8544 19 90 99 7,5
+8544 20 00 00 7,5
+8544 30 10 00 7,5
+8544 30 90 00 7,5
+Vámtarifaszám
+Vámtétel
+%
+8544 41 10 00 7,5
+8544 41 90 00 7,5
+8544 49 20 00 7,5
+8544 49 80 00 7,5
+8544 51 10 00 7,5
+8544 51 90 00 7,5
+8544 59 10 00 7,5
+8544 59 20 00 7,5
+8544 59 80 00 7,5
+8544 60 10 00 7,5
+8544 60 90 00 7,5
+8544 70 00 01 7
+8544 70 00 02 8
+8545 11 00 00 7
+8545 19 10 00 7
+8545 19 90 00 7
+8545 20 00 00 7
+8545 90 10 00 7
+8545 90 90 00 7
+8546 10 00 01 8
+8546 10 00 99 11
+8546 20 10 00 11
+8546 20 91 00 11
+8546 20 99 00 11
+8546 90 10 01 8
+8546 90 10 99 11
+8546 90 90 01 8
+8546 90 90 99 11
+8547 10 10 00 11
+8547 10 90 00 11
+8547 20 00 00 5
+8547 90 00 01 10
+8547 90 00 99 11
+8548 10 10 00 8
+8548 10 21 00 8
+8548 10 29 00 8
+8548 10 91 01 0
+
+Vámtarifaszám
+Vámtétel
+%
+8548 10 91 99 6
+8548 10 99 01 0
+8548 10 99 99 6
+8548 90 10 00 7,5
+8548 90 90 01 10
+8548 90 90 99 7,5
+8601 10 00 00 12,1
+8601 20 00 00 12,1
+8602 10 00 00 12,1
+8602 90 00 00 12,1
+8603 10 00 01 7,5
+8603 10 00 99 12,1
+8603 90 00 01 7,5
+8603 90 00 99 12,1
+8604 00 00 01 11
+8604 00 00 99 12,1
+8605 00 00 00 12,1
+8606 10 00 00 7,5
+8606 20 00 00 7,5
+8606 30 00 00 7,5
+8606 91 10 00 7,5
+8606 91 90 00 7,5
+8606 92 00 00 7,5
+8606 99 00 00 7,5
+8607 11 00 00 10
+8607 12 00 00 10
+8607 19 01 00 10
+8607 19 11 00 10
+8607 19 18 00 10
+8607 19 91 00 10
+8607 19 99 00 10
+8607 21 10 00 9
+8607 21 90 00 9
+8607 29 10 00 9
+8607 29 90 00 9
+8607 30 01 00 9
+8607 30 99 00 9
+Vámtarifaszám
+Vámtétel
+%
+8607 91 10 00 10
+8607 91 91 00 9
+8607 91 99 00 9
+8607 99 10 00 10
+8607 99 30 00 9
+8607 99 50 00 9
+8607 99 90 00 9
+8608 00 10 01 7
+8608 00 10 99 10
+8608 00 30 01 7
+8608 00 30 99 10
+8608 00 90 01 7
+8608 00 90 99 10
+8609 00 10 00 10
+8609 00 90 00 10
+8701 10 00 00 8
+8701 20 10 00 8
+8701 20 90 00 8
+8701 30 10 00 8
+8701 30 90 01 7
+8701 30 90 99 8
+8701 90 11 01 7
+8701 90 11 99 8
+8701 90 20 01 7
+8701 90 20 99 8
+8701 90 25 01 7
+8701 90 25 99 8
+8701 90 31 01 7
+8701 90 31 99 8
+8701 90 35 01 7
+8701 90 35 99 8
+8701 90 39 01 7
+8701 90 39 99 8
+8701 90 50 01 7
+8701 90 50 99 8
+8701 90 90 01 9
+8701 90 90 99 8
+Vámtarifaszám
+Vámtétel
+%
+8702 10 11 00 20
+8702 10 19 00 20
+8702 10 91 00 20
+8702 10 99 00 20
+8702 90 11 00 20
+8702 90 19 00 20
+8702 90 31 00 20
+8702 90 39 00 20
+8702 90 90 00 20
+8703 10 11 00 25
+8703 10 18 00 25
+8703 21 10 01 18
+8703 21 10 02 13
+8703 21 10 99 25
+8703 21 90 01 18
+8703 21 90 02 13
+8703 21 90 03 48
+8703 21 90 04 43
+8703 21 90 99 25
+8703 22 10 01 18
+8703 22 10 02 13
+8703 22 10 99 25
+8703 22 90 01 18
+8703 22 90 02 13
+8703 22 90 03 48
+8703 22 90 04 43
+8703 22 90 99 25
+8703 23 11 01 18
+8703 23 11 02 13
+8703 23 11 03 28
+8703 23 11 04 23
+8703 23 11 05 48
+8703 23 11 06 43
+8703 23 19 01 18
+8703 23 19 02 13
+8703 23 19 03 28
+8703 23 19 04 23
+Vámtarifaszám
+Vámtétel
+%
+8703 23 19 05 48
+8703 23 19 06 23
+8703 23 19 99 25
+8703 23 90 01 18
+8703 23 90 02 13
+8703 23 90 03 28
+8703 23 90 04 23
+8703 23 90 05 48
+8703 23 90 06 43
+8703 23 90 07 48
+8703 23 90 08 43
+8703 23 90 09 58
+8703 23 90 10 53
+8703 23 90 11 78
+8703 23 90 12 73
+8703 23 90 99 25
+8703 24 10 01 48
+8703 24 10 02 23
+8703 24 10 99 25
+8703 24 90 01 48
+8703 24 90 02 43
+8703 24 90 03 78
+8703 24 90 04 73
+8703 24 90 99 25
+8703 31 10 01 18
+8703 31 10 02 13
+8703 31 10 99 25
+8703 31 90 01 18
+8703 31 90 02 13
+8703 31 90 03 48
+8703 31 90 04 43
+8703 31 90 99 25
+8703 32 11 01 18
+8703 32 11 02 13
+8703 32 11 03 28
+8703 32 11 04 23
+8703 32 19 01 18
+
+Vámtarifaszám
+Vámtétel
+%
+8703 32 19 02 13
+8703 32 19 03 28
+8703 32 19 04 23
+8703 32 19 99 25
+8703 32 90 01 18
+8703 32 90 02 13
+8703 32 90 03 28
+8703 32 90 04 23
+8703 32 90 05 48
+8703 32 90 06 43
+8703 32 90 07 58
+8703 32 90 08 53
+8703 32 90 99 25
+8703 33 11 01 48
+8703 33 11 02 43
+8703 33 19 01 48
+8703 33 19 02 23
+8703 33 19 99 25
+8703 33 90 01 48
+8703 33 90 02 43
+8703 33 90 03 78
+8703 33 90 04 73
+8703 33 90 99 25
+8703 90 10 00 25
+8703 90 90 00 25
+8704 10 10 01 18
+8704 10 10 99 25
+8704 10 90 01 15
+8704 10 90 99 25
+8704 21 10 01 0
+8704 21 10 02 18
+8704 21 10 03 25
+8704 21 31 01 0
+8704 21 31 02 18
+8704 21 39 00 25
+8704 21 91 01 0
+8704 21 91 02 18
+Vámtarifaszám
+Vámtétel
+%
+8704 21 99 00 25
+8704 22 10 01 12,1
+8704 22 10 99 10
+8704 22 91 01 12,1
+8704 22 91 02 7
+8704 22 91 99 10
+8704 22 99 01 12,1
+8704 22 99 02 7
+8704 22 99 99 10
+8704 23 10 01 7
+8704 23 10 99 10
+8704 23 91 01 7
+8704 23 91 99 10
+8704 23 99 01 7
+8704 23 99 99 10
+8704 31 10 01 0
+8704 31 10 99 10
+8704 31 31 00 10
+8704 31 39 00 10
+8704 31 91 01 0
+8704 31 91 99 10
+8704 31 99 00 10
+8704 32 10 01 12
+8704 32 10 99 10
+8704 32 91 01 12
+8704 32 91 02 7
+8704 32 91 99 10
+8704 32 99 01 12
+8704 32 99 02 7
+8704 32 99 99 10
+8704 90 00 01 12
+8704 90 00 02 7
+8704 90 00 99 10
+8705 10 00 00 7
+8705 20 00 00 7
+8705 30 00 00 0
+8705 40 00 01 25
+Vámtarifaszám
+Vámtétel
+%
+8705 40 00 99 7
+8705 90 10 00 7
+8705 90 30 00 7
+8705 90 90 01 7
+8705 90 90 02 7
+8705 90 90 03 7
+8705 90 90 04 7
+8705 90 90 99 7
+8706 00 11 00 12,1
+8706 00 19 00 12,1
+8706 00 91 00 12,1
+8706 00 99 00 12
+8707 10 10 00 12
+8707 10 90 00 12
+8707 90 10 00 6
+8707 90 90 00 6
+8708 10 10 01 9,5
+8708 10 10 02 9,5
+8708 10 10 03 6
+8708 10 10 99 9,5
+8708 10 90 01 9,5
+8708 10 90 02 6
+8708 10 90 99 9,5
+8708 21 10 00 9,5
+8708 21 90 00 9,5
+8708 29 10 01 9,5
+8708 29 10 02 9,5
+8708 29 10 03 6
+8708 29 10 99 9,5
+8708 29 90 01 9,5
+8708 29 90 02 6
+8708 29 90 99 9,5
+8708 31 10 00 9,5
+8708 31 91 00 9,5
+8708 31 99 00 9,5
+8708 39 10 01 9,5
+8708 39 10 02 9,5
+Vámtarifaszám
+Vámtétel
+%
+8708 39 10 03 6
+8708 39 10 99 9,5
+8708 39 90 01 9,5
+8708 39 90 02 6
+8708 39 90 99 9,5
+8708 40 10 01 9,5
+8708 40 10 02 6
+8708 40 10 99 9,5
+8708 40 90 01 6
+8708 40 90 99 9,5
+8708 50 10 01 9,5
+8708 50 10 02 6
+8708 50 10 99 9,5
+8708 50 90 01 6
+8708 50 90 99 9,5
+8708 60 10 01 7
+8708 60 10 02 9,5
+8708 60 10 03 6
+8708 60 10 99 9,5
+8708 60 91 01 7
+8708 60 91 02 9,5
+8708 60 91 03 6
+8708 60 91 99 9,5
+8708 60 99 01 7
+8708 60 99 02 9,5
+8708 60 99 03 6
+8708 60 99 99 9,5
+8708 70 10 01 9,5
+8708 70 10 02 6
+8708 70 10 99 9,5
+8708 70 50 01 6
+8708 70 50 99 9,5
+8708 70 91 01 6
+8708 70 91 99 9,5
+8708 70 99 01 9,5
+8708 70 99 02 6
+8708 70 99 99 9,5
+
+Vámtarifaszám
+Vámtétel
+%
+8708 80 10 01 9,5
+8708 80 10 02 6
+8708 80 10 99 9,5
+8708 80 90 01 6
+8708 80 90 99 9,5
+8708 91 10 01 9,5
+8708 91 10 02 6
+8708 91 10 99 9,5
+8708 91 90 01 6
+8708 91 90 99 9,5
+8708 92 10 01 9,5
+8708 92 10 02 6
+8708 92 10 99 9,5
+8708 92 90 01 6
+8708 92 90 99 9,5
+8708 93 10 01 9,5
+8708 93 10 02 6
+8708 93 10 99 9,5
+8708 93 90 01 6
+8708 93 90 99 9,5
+8708 94 10 00 6
+8708 94 90 00 6
+8708 99 11 00 3
+8708 99 19 00 6
+8708 99 30 00 6
+8708 99 50 00 6
+8708 99 92 00 6
+8708 99 98 00 6
+8709 11 10 00 9,5
+8709 11 90 00 9,5
+8709 19 10 00 9,5
+8709 19 90 01 9,5
+8709 19 90 99 9,5
+8709 90 00 00 9,5
+8710 00 00 00 0
+8711 10 00 00 0
+8711 20 10 00 0
+Vámtarifaszám
+Vámtétel
+%
+8711 20 91 00 0
+8711 20 93 00 0
+8711 20 98 00 0
+8711 30 10 01 0
+8711 30 10 99 10
+8711 30 90 01 0
+8711 30 90 99 10
+8711 40 00 01 5
+8711 40 00 99 10
+8711 50 00 00 10
+8711 90 00 00 10
+8712 00 10 01 0
+8712 00 10 99 10
+8712 00 30 01 0
+8712 00 30 99 10
+8712 00 80 00 10
+8713 10 00 00 0
+8713 90 00 00 0
+8714 11 00 00 10
+8714 19 00 00 5
+8714 20 00 00 0
+8714 91 10 01 5
+8714 91 10 99 5
+8714 91 30 01 5
+8714 91 30 99 5
+8714 91 90 01 5
+8714 91 90 99 5
+8714 92 10 01 5
+8714 92 10 99 5
+8714 92 90 01 5
+8714 92 90 99 5
+8714 93 10 01 5
+8714 93 10 99 0
+8714 93 90 01 5
+8714 93 90 99 5
+8714 94 10 01 5
+8714 94 10 99 5
+Vámtarifaszám
+Vámtétel
+%
+8714 94 30 01 5
+8714 94 30 99 5
+8714 94 90 01 5
+8714 94 90 99 5
+8714 95 00 01 5
+8714 95 00 99 5
+8714 96 10 01 5
+8714 96 10 99 5
+8714 96 30 01 5
+8714 96 30 99 5
+8714 96 90 01 5
+8714 96 90 99 5
+8714 99 10 01 5
+8714 99 10 99 5
+8714 99 30 01 5
+8714 99 30 99 5
+8714 99 50 01 5
+8714 99 50 99 5
+8714 99 90 01 5
+8714 99 90 99 5
+8715 00 10 00 0
+8715 00 90 00 0
+8716 10 10 00 9,5
+8716 10 91 00 9,5
+8716 10 94 00 9,5
+8716 10 96 00 9,5
+8716 10 99 00 9,5
+8716 20 00 00 9,5
+8716 31 00 00 9,5
+8716 39 10 00 9,5
+8716 39 30 00 9,5
+8716 39 51 00 9,5
+8716 39 59 00 9,5
+8716 39 80 00 9,5
+8716 40 00 00 9,5
+8716 80 00 00 9,5
+8716 90 10 00 9,5
+Vámtarifaszám
+Vámtétel
+%
+8716 90 30 00 9,5
+8716 90 50 00 9,5
+8716 90 90 00 9,5
+8801 10 10 00 12,1
+8801 10 90 00 12,1
+8801 90 10 00 12,1
+8801 90 91 00 12,1
+8801 90 99 00 12,1
+8802 11 10 01 0
+8802 11 10 99 12,1
+8802 11 90 01 0
+8802 11 90 99 12,1
+8802 12 10 01 0
+8802 12 10 99 12,1
+8802 12 90 01 0
+8802 12 90 99 12,1
+8802 20 10 00 12,1
+8802 20 90 00 12,1
+8802 30 10 00 12,1
+8802 30 90 00 12,1
+8802 40 10 00 12,1
+8802 40 90 00 12,1
+8802 60 10 01 8
+8802 60 10 02 8
+8802 60 10 99 12,1
+8802 60 90 01 8
+8802 60 90 02 8
+8802 60 90 99 12,1
+8803 10 10 00 9,5
+8803 10 90 00 9,5
+8803 20 10 00 9,5
+8803 20 90 00 9,5
+8803 30 10 00 9,5
+8803 30 90 00 9,5
+8803 90 10 01 12,1
+8803 90 10 02 15
+8803 90 10 03 7,5
+
+Vámtarifaszám
+Vámtétel
+%
+8803 90 10 99 9,5
+8803 90 20 01 15
+8803 90 20 02 7,5
+8803 90 20 99 9,5
+8803 90 30 01 15
+8803 90 30 02 7,5
+8803 90 30 99 9,5
+8803 90 91 01 12,1
+8803 90 91 02 15
+8803 90 91 03 7,5
+8803 90 91 99 9,5
+8803 90 98 01 12,1
+8803 90 98 02 15
+8803 90 98 03 7,5
+8803 90 98 99 9,5
+8804 00 00 01 12,1
+8804 00 00 02 9,5
+8804 00 00 99 9,5
+8805 10 10 00 9,5
+8805 10 90 00 9,5
+8805 21 00 00 9,5
+8805 29 10 00 9,5
+8805 29 90 00 9,5
+8901 10 10 00 12,1
+8901 10 90 00 12,1
+8901 20 10 00 12,1
+8901 20 90 00 12,1
+8901 30 10 00 12,1
+8901 30 90 00 12,1
+8901 90 10 00 12,1
+8901 90 91 00 12,1
+8901 90 99 00 12,1
+8902 00 12 00 12,1
+8902 00 18 00 12,1
+8902 00 90 00 12,1
+8903 10 10 00 12,1
+8903 10 90 00 12,1
+Vámtarifaszám
+Vámtétel
+%
+8903 91 10 00 12,1
+8903 91 92 00 12,1
+8903 91 99 00 12,1
+8903 92 10 00 12,1
+8903 92 91 00 12,1
+8903 92 99 00 12,1
+8903 99 10 00 12,1
+8903 99 91 00 12,1
+8903 99 99 00 12,1
+8904 00 10 00 12,1
+8904 00 91 00 12,1
+8904 00 99 00 12,1
+8905 10 10 00 9,5
+8905 10 90 00 12,1
+8905 20 00 00 12,1
+8905 90 10 00 12,1
+8905 90 90 00 12,1
+8906 10 00 00 12,1
+8906 90 10 00 12,1
+8906 90 91 00 12,1
+8906 90 99 00 12,1
+8907 10 00 00 9,5
+8907 90 00 00 9,5
+8908 00 00 00 9,5
+9001 10 10 01 7
+9001 10 10 02 8
+9001 10 90 01 7
+9001 10 90 02 8
+9001 20 00 00 8
+9001 30 00 00 8
+9001 40 20 00 8
+9001 40 41 00 8
+9001 40 49 00 8
+9001 40 80 00 8
+9001 50 20 00 8
+9001 50 41 00 8
+9001 50 49 00 8
+Vámtarifaszám
+Vámtétel
+%
+9001 50 80 00 8
+9001 90 10 00 8
+9001 90 90 00 8
+9002 11 00 00 8,5
+9002 19 00 00 8,5
+9002 20 00 00 8,5
+9002 90 10 00 8,5
+9002 90 90 00 8,5
+9003 11 00 00 8,5
+9003 19 10 00 8,5
+9003 19 30 00 8,5
+9003 19 90 00 8,5
+9003 90 00 00 8,5
+9004 10 10 00 8,5
+9004 10 91 00 8,5
+9004 10 99 00 8,5
+9004 90 10 00 8,5
+9004 90 90 00 8,5
+9005 10 00 00 12
+9005 80 00 01 12
+9005 80 00 99 8
+9005 90 00 01 12
+9005 90 00 99 8
+9006 10 10 00 6,5
+9006 10 90 00 7,7
+9006 20 00 00 7,7
+9006 30 00 00 7
+9006 40 00 00 7
+9006 51 00 00 7
+9006 52 00 00 7
+9006 53 10 00 7
+9006 53 90 00 7
+9006 59 00 00 7
+9006 61 00 00 7
+9006 62 00 00 7
+9006 69 00 00 7
+9006 91 10 00 7
+Vámtarifaszám
+Vámtétel
+%
+9006 91 90 00 7
+9006 99 00 00 7
+9007 11 00 01 7
+9007 11 00 99 8,5
+9007 19 00 01 7
+9007 19 00 99 8,5
+9007 20 00 00 8,5
+9007 91 00 01 7
+9007 91 00 99 8,5
+9007 92 00 00 8,5
+9008 10 00 00 8,5
+9008 20 00 00 8,5
+9008 30 00 00 8,5
+9008 40 00 00 8,5
+9008 90 00 00 8,5
+9009 11 00 00 5
+9009 12 00 00 5
+9009 21 00 00 5
+9009 22 00 00 5
+9009 30 00 00 5
+9009 91 00 00 5
+9009 92 00 00 5
+9009 93 00 00 5
+9009 99 00 00 5
+9010 10 00 00 8
+9010 41 00 00 8
+9010 42 00 00 8
+9010 49 00 00 8
+9010 50 10 00 8
+9010 50 90 00 8
+9010 60 00 00 6
+9010 90 10 00 6
+9010 90 90 01 6
+9010 90 90 99 8
+9011 10 10 00 8
+9011 10 90 00 8
+9011 20 10 00 8
+
+Vámtarifaszám
+Vámtétel
+%
+9011 20 90 00 8
+9011 80 00 00 8
+9011 90 10 00 8
+9011 90 90 00 8
+9012 10 10 00 8
+9012 10 90 00 8
+9012 90 10 00 8
+9012 90 90 00 8
+9013 10 00 00 8
+9013 20 00 00 8
+9013 80 20 00 8
+9013 80 30 00 8
+9013 80 90 00 8
+9013 90 10 00 8
+9013 90 90 00 8
+9014 10 10 00 6
+9014 10 90 00 6
+9014 20 13 00 6
+9014 20 18 00 6
+9014 20 90 00 6
+9014 80 00 01 8
+9014 80 00 99 6
+9014 90 10 00 6
+9014 90 90 00 6
+9015 10 10 00 6
+9015 10 90 00 6
+9015 20 10 00 6
+9015 20 90 00 6
+9015 30 10 00 6
+9015 30 90 00 6
+9015 40 10 00 6
+9015 40 90 00 6
+9015 80 11 00 6
+9015 80 19 00 6
+9015 80 91 00 6
+9015 80 93 00 6
+9015 80 99 00 6
+Vámtarifaszám
+Vámtétel
+%
+9015 90 00 00 6
+9016 00 10 01 8
+9016 00 10 02 6
+9016 00 90 01 7,5
+9016 00 90 02 6
+9017 10 10 00 6
+9017 10 90 00 6
+9017 20 05 00 6
+9017 20 11 00 6
+9017 20 19 00 6
+9017 20 31 00 6
+9017 20 39 00 6
+9017 20 90 00 6
+9017 30 10 01 6
+9017 30 10 99 6
+9017 30 90 01 6
+9017 30 90 99 6
+9017 80 10 00 6
+9017 80 90 00 6
+9017 90 10 00 6
+9017 90 90 00 6
+9018 11 00 00 4
+9018 12 00 00 4
+9018 13 00 00 0
+9018 14 00 00 4
+9018 19 10 00 0
+9018 19 90 00 0
+9018 20 00 00 4
+9018 31 10 00 0
+9018 31 90 00 4
+9018 32 10 00 4
+9018 32 90 00 0
+9018 39 00 00 4
+9018 41 00 00 0
+9018 49 10 00 0
+9018 49 90 01 0
+9018 49 90 99 4
+Vámtarifaszám
+Vámtétel
+%
+9018 50 10 00 0
+9018 50 90 00 4
+9018 90 10 00 3
+9018 90 20 00 3
+9018 90 30 00 3
+9018 90 41 00 3
+9018 90 49 00 0
+9018 90 50 00 0
+9018 90 60 00 0
+9018 90 70 00 3
+9018 90 75 00 10
+9018 90 85 01 3
+9018 90 85 99 3
+9019 10 10 00 4
+9019 10 90 00 4
+9019 20 00 00 4
+9020 00 10 00 4
+9020 00 90 00 4
+9021 10 10 00 0
+9021 10 90 00 0
+9021 21 10 00 0
+9021 21 90 00 0
+9021 29 00 00 0
+9021 31 00 00 0
+9021 39 10 00 0
+9021 39 90 00 0
+9021 40 00 00 0
+9021 50 00 00 0
+9021 90 10 00 0
+9021 90 90 00 0
+9022 12 00 00 8
+9022 13 00 00 8
+9022 14 00 00 8
+9022 19 00 00 11
+9022 21 00 00 8
+9022 29 00 00 11
+9022 30 00 00 8
+Vámtarifaszám
+Vámtétel
+%
+9022 90 10 00 11
+9022 90 90 00 11
+9023 00 10 00 10
+9023 00 80 00 10
+9024 10 10 00 8
+9024 10 91 00 12
+9024 10 93 00 12
+9024 10 99 00 12
+9024 80 10 00 8
+9024 80 91 00 12
+9024 80 99 00 12
+9024 90 00 01 7,5
+9024 90 00 99 12
+9025 11 10 00 12
+9025 11 91 00 5
+9025 11 99 00 12
+9025 19 10 01 8
+9025 19 10 99 12
+9025 19 91 00 8
+9025 19 99 00 12
+9025 80 15 01 8
+9025 80 15 99 12
+9025 80 20 01 8
+9025 80 20 99 12
+9025 80 91 00 8
+9025 80 99 00 12
+9025 90 10 00 7,5
+9025 90 90 00 7,5
+9026 10 10 01 8
+9026 10 10 02 11
+9026 10 10 99 12
+9026 10 51 00 8
+9026 10 59 00 8
+9026 10 91 00 11
+9026 10 99 01 11
+9026 10 99 99 12
+9026 20 10 01 8
+
+Vámtarifaszám
+Vámtétel
+%
+9026 20 10 99 12
+9026 20 30 00 8
+9026 20 50 00 12
+9026 20 90 00 12
+9026 80 10 01 8
+9026 80 10 99 12
+9026 80 91 00 8
+9026 80 99 00 12
+9026 90 10 00 7,5
+9026 90 90 00 7,5
+9027 10 10 00 8
+9027 10 90 00 7
+9027 20 00 00 8
+9027 30 00 01 8
+9027 30 00 99 12
+9027 40 00 01 8
+9027 40 00 99 12
+9027 50 00 01 8
+9027 50 00 99 12
+9027 80 11 00 8
+9027 80 13 00 8
+9027 80 17 00 8
+9027 80 91 00 0
+9027 80 93 00 0
+9027 80 97 00 0
+9027 90 10 00 0
+9027 90 50 01 7
+9027 90 50 02 8
+9027 90 50 03 7,5
+9027 90 50 99 0
+9027 90 80 01 7
+9027 90 80 02 8
+9027 90 80 03 7,5
+9027 90 80 99 0
+9028 10 00 00 12
+9028 20 00 01 8
+9028 20 00 99 12
+Vámtarifaszám
+Vámtétel
+%
+9028 30 11 00 15
+9028 30 19 00 15
+9028 30 90 00 15
+9028 90 10 00 7,5
+9028 90 90 00 7,5
+9029 10 10 00 8
+9029 10 90 01 8
+9029 10 90 02 7,5
+9029 10 90 99 7,5
+9029 20 10 01 8
+9029 20 10 02 7,5
+9029 20 10 99 7,5
+9029 20 31 01 8
+9029 20 31 99 7,5
+9029 20 39 01 8
+9029 20 39 02 7,5
+9029 20 39 99 7,5
+9029 20 90 01 8
+9029 20 90 99 7,5
+9029 90 10 00 7,5
+9029 90 90 00 7,5
+9030 10 10 00 8
+9030 10 90 00 4,2
+9030 20 10 00 8
+9030 20 90 00 4,2
+9030 31 10 00 0
+9030 31 90 00 8
+9030 39 10 00 0
+9030 39 30 00 4,2
+9030 39 91 00 8
+9030 39 99 00 8
+9030 40 10 00 8
+9030 40 90 00 0
+9030 82 00 00 8
+9030 83 10 00 8
+9030 83 90 00 8
+9030 89 10 00 8
+Vámtarifaszám
+Vámtétel
+%
+9030 89 92 00 8
+9030 89 99 00 2,1
+9030 90 10 00 0
+9030 90 20 00 0
+9030 90 80 00 7,5
+9031 10 00 01 8
+9031 10 00 99 6
+9031 20 00 01 8
+9031 20 00 99 6
+9031 30 00 00 6
+9031 41 00 00 6
+9031 49 00 00 6
+9031 80 10 01 8
+9031 80 10 02 5
+9031 80 10 99 6
+9031 80 32 00 8
+9031 80 34 00 8
+9031 80 39 00 6
+9031 80 91 00 6
+9031 80 99 01 5
+9031 80 99 99 6
+9031 90 10 01 7,5
+9031 90 10 99 6
+9031 90 20 01 7,5
+9031 90 20 99 6
+9031 90 30 01 7,5
+9031 90 30 99 6
+9031 90 80 01 7,5
+9031 90 80 99 6
+9032 10 10 01 8
+9032 10 10 99 12
+9032 10 30 00 8
+9032 10 91 00 12
+9032 10 99 00 12
+9032 20 10 01 8
+9032 20 10 99 12
+9032 20 90 01 8
+Vámtarifaszám
+Vámtétel
+%
+9032 20 90 99 12
+9032 81 10 00 12
+9032 81 90 00 12
+9032 89 10 01 8
+9032 89 10 99 12
+9032 89 90 01 8
+9032 89 90 99 12
+9032 90 10 00 7,5
+9032 90 90 00 7,5
+9033 00 00 00 7,5
+9101 11 00 00 25
+9101 12 00 00 25
+9101 19 00 00 25
+9101 21 00 00 25
+9101 29 00 00 25
+9101 91 00 00 25
+9101 99 00 00 25
+9102 11 00 00 15
+9102 12 00 00 15
+9102 19 00 00 15
+9102 21 00 00 15
+9102 29 00 00 15
+9102 91 00 00 15
+9102 99 00 00 15
+9103 10 00 00 10
+9103 90 00 00 10
+9104 00 10 00 10
+9104 00 90 00 10
+9105 11 00 01 7,5
+9105 11 00 99 9,5
+9105 19 00 00 9,5
+9105 21 00 01 7,5
+9105 21 00 99 9,5
+9105 29 00 00 9,5
+9105 91 00 01 7,5
+9105 91 00 99 9,5
+9105 99 10 00 9,5
+
+Vámtarifaszám
+Vámtétel
+%
+9105 99 90 00 9,5
+9106 10 00 00 8,5
+9106 20 00 00 8,5
+9106 90 10 00 8,5
+9106 90 90 00 8,5
+9107 00 00 00 8,5
+9108 11 00 00 7,5
+9108 12 00 00 7,5
+9108 19 00 00 7,5
+9108 20 00 00 7,5
+9108 90 00 00 7,5
+9109 11 00 00 7,5
+9109 19 10 00 7,5
+9109 19 90 00 7,5
+9109 90 10 00 7,5
+9109 90 90 00 7,5
+9110 11 10 00 6
+9110 11 90 00 6
+9110 12 00 00 6
+9110 19 00 00 6
+9110 90 00 00 6
+9111 10 00 00 13
+9111 20 00 00 7,5
+9111 80 00 00 7,5
+9111 90 00 01 13
+9111 90 00 99 7,5
+9112 20 00 00 10
+9112 90 00 00 10
+9113 10 10 00 8,5
+9113 10 90 00 8,5
+9113 20 00 00 8,5
+9113 90 10 01 8,5
+9113 90 10 02 8
+9113 90 80 00 8
+9114 10 00 00 6
+9114 20 00 00 6
+9114 30 00 00 6
+Vámtarifaszám
+Vámtétel
+%
+9114 40 00 00 6
+9114 90 00 00 6
+9201 10 10 00 7
+9201 10 90 00 7
+9201 20 00 00 7
+9201 90 00 00 7
+9202 10 10 00 7
+9202 10 90 00 7
+9202 90 30 00 7
+9202 90 80 00 7
+9203 00 00 00 7
+9204 10 00 01 0
+9204 10 00 99 7
+9204 20 00 00 7
+9205 10 00 00 7
+9205 90 00 00 7
+9206 00 00 00 7
+9207 10 10 00 7
+9207 10 30 00 7
+9207 10 50 00 7
+9207 10 80 00 7
+9207 90 10 00 7
+9207 90 90 00 7
+9208 10 00 00 7
+9208 90 00 00 7
+9209 10 00 00 7
+9209 20 00 00 7
+9209 30 00 00 7
+9209 91 00 00 7
+9209 92 00 01 0
+9209 92 00 99 7
+9209 93 00 00 7
+9209 94 00 00 7
+9209 99 30 00 7
+9209 99 70 00 7
+9301 11 00 00 0
+9301 19 00 00 0
+Vámtarifaszám
+Vámtétel
+%
+9301 20 00 00 0
+9301 90 00 00 0
+9302 00 00 00 8,5
+9303 10 00 00 8
+9303 20 10 00 8
+9303 20 95 00 8
+9303 30 00 00 8
+9303 90 00 00 8
+9304 00 00 00 8,5
+9305 10 00 00 6
+9305 21 00 00 6
+9305 29 00 00 6
+9305 91 00 01 7
+9305 91 00 02 8
+9305 91 00 99 6
+9305 99 00 01 7
+9305 99 00 02 8
+9305 99 00 99 6
+9306 10 00 00 6
+9306 21 00 00 6
+9306 29 40 00 6
+9306 29 70 00 6
+9306 30 10 00 6
+9306 30 30 00 6
+9306 30 91 00 6
+9306 30 93 00 6
+9306 30 98 00 6
+9306 90 10 00 6
+9306 90 90 00 6
+9307 00 00 00 6
+9401 10 10 00 7
+9401 10 90 00 7
+9401 20 00 00 7
+9401 30 10 00 7
+9401 30 90 00 7
+9401 40 00 00 7
+9401 50 00 00 7
+Vámtarifaszám
+Vámtétel
+%
+9401 61 00 00 7
+9401 69 00 00 7
+9401 71 00 00 7
+9401 79 00 00 7
+9401 80 00 01 7,5
+9401 80 00 99 0
+9401 90 10 00 7
+9401 90 30 00 7
+9401 90 80 00 7
+9402 10 00 00 5
+9402 90 00 00 5
+9403 10 10 00 7
+9403 10 51 00 7
+9403 10 59 00 7
+9403 10 91 00 7
+9403 10 93 00 7
+9403 10 99 00 7
+9403 20 10 01 8,5
+9403 20 10 99 7
+9403 20 91 00 7
+9403 20 99 01 8,5
+9403 20 99 99 7
+9403 30 11 00 7
+9403 30 19 00 7
+9403 30 91 00 7
+9403 30 99 00 7
+9403 40 10 00 7
+9403 40 90 00 7
+9403 50 00 00 7
+9403 60 10 00 7
+9403 60 30 00 7
+9403 60 90 01 8,5
+9403 60 90 99 7
+9403 70 10 00 7
+9403 70 90 00 7
+9403 80 00 01 7,5
+9403 80 00 99 7
+
+Vámtarifaszám
+Vámtétel
+%
+9403 90 10 00 7
+9403 90 30 00 7
+9403 90 90 00 7
+9404 10 00 00 8,5
+9404 21 10 00 8,5
+9404 21 90 00 8,5
+9404 29 10 00 8,5
+9404 29 90 00 8,5
+9404 30 00 00 8,5
+9404 90 10 00 8,5
+9404 90 90 00 8,5
+9405 10 10 01 8,5
+9405 10 10 99 7
+9405 10 21 01 8
+9405 10 21 99 7
+9405 10 29 00 7
+9405 10 30 00 7
+9405 10 50 00 8,5
+9405 10 91 01 8,5
+9405 10 91 99 7
+9405 10 99 01 8,5
+9405 10 99 99 7
+9405 20 11 00 7
+9405 20 19 00 7
+9405 20 30 00 7
+9405 20 50 00 8,5
+9405 20 91 01 8,5
+9405 20 91 99 7
+9405 20 99 01 8,5
+9405 20 99 99 7
+9405 30 00 00 7
+9405 40 10 00 8
+9405 40 31 00 6
+9405 40 35 00 6
+9405 40 39 00 6
+Vámtarifaszám
+Vámtétel
+%
+9405 40 91 01 8,5
+9405 40 91 99 6
+9405 40 95 01 8,5
+9405 40 95 99 6
+9405 40 99 01 8,5
+9405 40 99 99 6
+9405 50 00 01 8,5
+9405 50 00 99 7
+9405 60 10 01 8,5
+9405 60 10 99 8
+9405 60 91 00 8
+9405 60 99 01 8,5
+9405 60 99 99 8,5
+9405 91 11 00 8,5
+9405 91 19 00 8,5
+9405 91 90 01 11
+9405 91 90 99 8,5
+9405 92 10 00 18
+9405 92 90 01 8
+9405 92 90 99 18
+9405 99 10 00 8,5
+9405 99 90 01 8,5
+9405 99 90 02 8
+9405 99 90 99 0
+9406 00 11 00 8
+9406 00 12 00 8
+9406 00 31 00 8
+9406 00 38 00 8
+9406 00 80 00 7
+9501 00 10 00 10
+9501 00 90 00 10
+9502 10 10 00 8
+9502 10 90 00 8
+9502 91 00 00 7
+Vámtarifaszám
+Vámtétel
+%
+9502 99 00 00 7
+9503 10 10 00 8,5
+9503 10 90 00 8,5
+9503 20 10 00 8,5
+9503 20 90 00 8,5
+9503 30 10 00 8,5
+9503 30 30 00 8,5
+9503 30 90 00 8,5
+9503 41 00 00 8,5
+9503 49 10 00 8,5
+9503 49 30 00 8,5
+9503 49 90 00 8,5
+9503 50 00 00 8,5
+9503 60 10 00 8,5
+9503 60 90 00 8,5
+9503 70 00 00 8,5
+9503 80 10 00 8,5
+9503 80 90 00 8,5
+9503 90 10 00 8,5
+9503 90 32 00 8,5
+9503 90 34 00 8,5
+9503 90 35 00 8,5
+9503 90 37 00 8,8
+9503 90 51 00 8,8
+9503 90 55 00 8,5
+9503 90 99 00 8,5
+9504 10 00 00 8
+9504 20 10 00 8
+9504 20 90 01 7
+9504 20 90 99 8
+Vámtarifaszám
+Vámtétel
+%
+9504 30 10 00 8
+9504 30 30 00 8
+9504 30 50 00 8
+9504 30 90 00 8
+9504 40 00 00 8
+9504 90 10 00 8
+9504 90 90 00 8
+9505 10 10 00 8,5
+9505 10 90 00 8,5
+9505 90 00 00 8,5
+9506 11 10 00 11,4
+9506 11 21 00 11,4
+9506 11 29 00 11,4
+9506 11 80 00 11,4
+9506 12 00 00 11,4
+9506 19 00 00 11,4
+9506 21 00 00 11,4
+9506 29 00 00 11,4
+9506 31 00 00 11,4
+9506 32 00 00 11,4
+9506 39 10 00 11,4
+9506 39 90 00 11,4
+9506 40 10 00 8,5
+9506 40 90 00 8,5
+9506 51 00 01 8,5
+9506 51 00 99 11,4
+9506 59 00 01 8,5
+9506 59 00 99 11,4
+9506 61 00 00 11,4
+9506 62 10 00 11,4
+
+Vámtarifaszám
+Vámtétel
+%
+9506 62 90 00 11,4
+9506 69 10 00 11,4
+9506 69 90 00 11,4
+9506 70 10 00 8,5
+9506 70 30 00 8,5
+9506 70 90 00 8,5
+9506 91 10 00 8,5
+9506 91 90 00 8,5
+9506 99 10 01 8,5
+9506 99 10 99 5
+9506 99 90 01 8,5
+9506 99 90 99 5
+9507 10 00 00 7
+9507 20 10 00 0
+9507 20 90 00 7
+9507 30 00 00 7
+9507 90 00 00 7
+9508 10 00 00 8,5
+9508 90 00 00 8,5
+9601 10 00 01 6
+9601 10 00 02 8,5
+9601 90 10 00 8,5
+9601 90 90 01 5
+9601 90 90 02 6
+9601 90 90 03 8
+9601 90 90 99 8,5
+9602 00 00 01 6
+9602 00 00 02 7
+9602 00 00 99 8,5
+9603 10 00 00 8
+Vámtarifaszám
+Vámtétel
+%
+9603 21 00 00 8
+9603 29 30 00 8
+9603 29 80 00 8
+9603 30 10 00 8
+9603 30 90 00 8
+9603 40 10 00 8
+9603 40 90 00 8
+9603 50 00 00 8
+9603 90 10 00 7
+9603 90 91 00 8
+9603 90 99 01 7
+9603 90 99 99 8
+9604 00 00 00 8
+9605 00 00 01 10
+9605 00 00 02 8
+9605 00 00 99 6
+9606 10 00 00 5
+9606 21 00 00 5
+9606 22 00 00 5
+9606 29 00 00 5
+9606 30 00 00 5
+9607 11 00 00 6
+9607 19 00 00 6
+9607 20 10 00 6
+9607 20 90 00 6
+9608 10 10 00 7
+9608 10 30 00 7
+9608 10 91 00 7
+9608 10 99 00 7
+9608 20 00 00 7
+Vámtarifaszám
+Vámtétel
+%
+9608 31 00 00 7
+9608 39 10 00 7
+9608 39 90 00 7
+9608 40 00 00 7
+9608 50 00 00 7
+9608 60 10 00 7
+9608 60 90 00 7
+9608 91 00 01 6
+9608 91 00 02 5
+9608 99 20 00 7
+9608 99 80 00 7
+9609 10 10 00 7
+9609 10 90 00 7
+9609 20 00 00 7
+9609 90 10 00 7
+9609 90 90 00 7
+9610 00 00 00 7
+9611 00 00 00 8
+9612 10 10 00 5,5
+9612 10 20 00 5,5
+9612 10 80 00 5,5
+9612 20 00 00 5,5
+9613 10 00 00 6
+9613 20 10 01 6
+9613 20 10 99 6
+9613 20 90 01 6
+9613 20 90 99 6
+9613 80 00 01 6
+9613 80 00 99 6
+9613 90 00 00 6
+Vámtarifaszám
+Vámtétel
+%
+9614 20 20 00 7
+9614 20 80 00 8
+9614 90 00 01 8
+9614 90 00 99 8
+9615 11 00 00 8
+9615 19 00 00 8
+9615 90 00 01 18
+9615 90 00 02 7
+9615 90 00 99 8,5
+9616 10 10 00 8,5
+9616 10 90 00 8,5
+9616 20 00 00 6
+9617 00 11 00 8
+9617 00 19 00 8
+9617 00 90 00 8
+9618 00 00 00 8
+9701 10 00 00 0
+9701 90 00 01 20
+9701 90 00 02 30
+9701 90 00 03 10
+9701 90 00 04 8,5
+9701 90 00 99 11,4
+9702 00 00 00 0
+9703 00 00 01 0
+9703 00 00 99 0
+9704 00 00 00 0
+9705 00 00 00 0
+9706 00 00 00 0
+
+4. számú melléklet a 28/2003. (XII. 21.) KüM—PM együttes rendelethez
+[5. számú melléklet a 64/1995. (XI. 24.) IKM—PM együttes rendelethez]
+A Magyar Köztársasággal szabadkereskedelmi megállapodást kötött országokból származó árukra
+alkalmazható kedvezményes vámtételek
+1—24. Árucsoport
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0101 10 10 00 0 0 0 0 0 0 0 0 0 0
+0101 10 90 00 0 0 0 0 0 0 0 0 0 0
+0101 90 11 00 0 0 0 0 0 0 0 0 0 0
+0101 90 19 00 0 0 0 0 0 0 0 0 0
+0101 90 30 00 0 0 0 0 0 0 0 0 0 0
+0101 90 90 00 0 0 0 0 0 0 0 0
+0102 10 10 00 0 0 0 0 0 0 0 0 0 0
+0102 10 30 00 0 0 0 0 0 0 0 0 0 0
+0102 10 90 00 0 0 0 0 0 0 0 0 0 0
+0102 90 05 00 15 15 15 15 15 0 15 15
+0102 90 21 00 15 15 15 15 15 0 15 15
+0102 90 29 00 15 15 15 15 15 0 15 15
+0102 90 41 00 15 15 15 15 15 0 15 15
+0102 90 49 00 15 15 15 15 15 0 15 15
+0102 90 51 00 15 15 15 15 15 0 15 15
+0102 90 59 00 15 15 15 15 15 0 15 15
+0102 90 61 00 15 15 15 15 15 0 15 15
+0102 90 69 00 15 15 15 15 15 0 15 15
+0102 90 71 00 15 15 15 15 15 0 15 15
+0102 90 79 00 15 15 15 15 15 0 15 15
+0102 90 90 00 0 15 15 15 15 15 0 15 15
+0103 10 00 00 0 0 0 0 0 0 0 0
+0103 91 10 00 10 10 10 10 10 10 10
+0103 91 90 00 0 10 10 10 10 10 10 10 0
+0103 92 11 00 15 15 15 15 15 15 15
+0103 92 19 00 15 15 15 15 15 15 15
+0103 92 90 00 0 15 15 15 15 15 15 15 0
+0104 10 10 00 0 0 0 0 0 0 0 0 0 0
+0104 10 30 00 0 0 0 0 0 0 0 0 0
+0104 10 80 00 0 0 0 0 0 0 0 0 0
+0104 20 10 00 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0104 20 90 00 0 0 0 0 0 0 0 0 0
+0105 11 11 00 0 9 9 9 9 9 0 9 9 0
+0105 11 19 00 0 9 9 9 9 9 0 9 9 0
+0105 11 91 00 0 9 9 9 9 9 0 9 9 0
+0105 11 99 00 0 9 9 9 9 9 0 9 9 0
+0105 12 00 00 0 9 9 9 9 9 0 9 9 0
+0105 19 20 00 0 9 9 9 9 9 0 9 9 0
+0105 19 90 00 0 9 9 9 9 9 0 9 9 0
+0105 92 00 01 10 10 10 10 10 0 10 10 0
+0105 92 00 99 10 10 10 10 10 0 10 10 0
+0105 93 00 01 10 10 10 10 10 0 10 10 0
+0105 93 00 99 10 10 10 10 10 0 10 10 0
+0105 99 10 01 10 10 10 10 10 0 10 10 0
+0105 99 10 99 10 10 10 10 10 0 10 10 0
+0105 99 20 01 10 10 10 10 10 0 10 10 0
+0105 99 20 99 10 10 10 10 10 0 10 10 0
+0105 99 30 01 10 10 10 10 10 0 10 10 0
+0105 99 30 99 10 10 10 10 10 0 10 10 0
+0105 99 50 01 10 10 10 10 10 0 10 10 0
+0105 99 50 99 10 10 10 10 10 0 10 10 0
+0106 11 00 01 0 0 0 0 0 0 0 0 0 0
+0106 11 00 99 0 0 0 0 0 0 0 0 0 0
+0106 12 00 01 0 0 0 0 0 0 0 0 0 0
+0106 12 00 99 0 0 0 0 0 0 0 0 0 0
+0106 19 10 01 0 0 0 0 0 0 0 0 0 0
+0106 19 10 99 0 0 0 0 0 0 0 0 0
+0106 19 90 01 0 0 0 0 0 0 0 0 0 0
+0106 19 90 99 0 0 0 0 0 0 0 0 0 0
+0106 20 00 01 0 0 0 0 0 0 0 0 0 0
+0106 20 00 99 0 0 0 0 0 0 0 0 0 0
+0106 31 00 01 0 0 0 0 0 0 0 0 0 0
+0106 31 00 99 0 0 0 0 0 0 0 0 0 0
+0106 32 00 01 0 0 0 0 0 0 0 0 0 0
+0106 32 00 99 0 0 0 0 0 0 0 0 0 0
+0106 39 10 01 0 0 0 0 0 0 0 0 0 0
+0106 39 10 99 0 0 0 0 0 0 0 0 0 0
+0106 39 90 01 0 0 0 0 0 0 0 0 0 0
+0106 39 90 99 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0106 90 00 01 0 0 0 0 0 0 0 0 0 0
+0106 90 00 99 0 0 0 0 0 0 0 0 0 0
+0201 10 00 00 25 25 25 25 25 25 25
+0201 20 20 00 25 25 25 25 25 25 25
+0201 20 30 00 25 25 25 25 25 25 25
+0201 20 50 00 25 25 25 25 25 25 25
+0201 20 90 00 25 25 25 25 25 25 25
+0201 30 00 00 25 25 25 25 25 25 25
+0202 10 00 00 25 25 25 25 25 25 25
+0202 20 10 00 25 25 25 25 25 25 25
+0202 20 30 00 25 25 25 25 25 25 25
+0202 20 50 00 25 25 25 25 25 25 25
+0202 20 90 00 25 25 25 25 25 25 25
+0202 30 10 00 25 25 25 25 25 25 25
+0202 30 50 00 25 25 25 25 25 25 25
+0202 30 90 00 25 25 25 25 25 25 25
+0203 11 10 00 25 25 25 25 25 25 25
+0203 11 90 00 0 25 25 25 25 25 25 25
+0203 12 11 00 25 25 25 25 25 25 25
+0203 12 19 00 25 25 25 25 25 25 25
+0203 12 90 00 0 25 25 25 25 25 25 25
+0203 19 11 00 25 25 25 25 25 25 25
+0203 19 13 00 25 25 25 25 25 25 25
+0203 19 15 00 25 25 25 25 25 25 25
+0203 19 55 00 25 25 25 25 25 25 25
+0203 19 59 00 25 25 25 25 25 25 25
+0203 19 90 00 0 25 25 25 25 25 25 25
+0203 21 10 00 25 25 25 25 25 25 25
+0203 21 90 00 0 25 25 25 25 25 25 25
+0203 22 11 00 25 25 25 25 25 25 25
+0203 22 19 00 25 25 25 25 25 25 25
+0203 22 90 00 0 25 25 25 25 25 25 25
+0203 29 11 00 25 25 25 25 25 25 25
+0203 29 13 00 25 25 25 25 25 25 25
+0203 29 15 00 25 25 25 25 25 25 25
+0203 29 55 00 25 25 25 25 25 25 25
+0203 29 59 00 25 25 25 25 25 25 25
+0203 29 90 00 0 25 25 25 25 25 25 25
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0204 10 00 00 0 0 0 0 0 0 0 0 0 0
+0204 21 00 00 0 0 0 0 0 0 0 0 0 0
+0204 22 10 00 0 0 0 0 0 0 0 0 0 0
+0204 22 30 00 0 0 0 0 0 0 0 0 0 0
+0204 22 50 00 0 0 0 0 0 0 0 0 0 0
+0204 22 90 00 0 0 0 0 0 0 0 0 0 0
+0204 23 00 00 0 0 0 0 0 0 0 0 0 0
+0204 30 00 00 0 0 0 0 0 0 0 0 0 0
+0204 41 00 00 0 0 0 0 0 0 0 0 0 0
+0204 42 10 00 0 0 0 0 0 0 0 0 0 0
+0204 42 30 00 0 0 0 0 0 0 0 0 0 0
+0204 42 50 00 0 0 0 0 0 0 0 0 0 0
+0204 42 90 00 0 0 0 0 0 0 0 0 0 0
+0204 43 10 00 0 0 0 0 0 0 0 0 0 0
+0204 43 90 00 0 0 0 0 0 0 0 0 0 0
+0204 50 11 00 0 0 0 0 0 0 0 0 0 0
+0204 50 13 00 0 0 0 0 0 0 0 0 0 0
+0204 50 15 00 0 0 0 0 0 0 0 0 0 0
+0204 50 19 00 0 0 0 0 0 0 0 0 0 0
+0204 50 31 00 0 0 0 0 0 0 0 0 0 0
+0204 50 39 00 0 0 0 0 0 0 0 0 0 0
+0204 50 51 00 0 0 0 0 0 0 0 0 0 0
+0204 50 53 00 0 0 0 0 0 0 0 0 0 0
+0204 50 55 00 0 0 0 0 0 0 0 0 0 0
+0204 50 59 00 0 0 0 0 0 0 0 0 0 0
+0204 50 71 00 0 0 0 0 0 0 0 0 0 0
+0204 50 79 00 0 0 0 0 0 0 0 0 0 0
+0205 00 20 00 0 0 0 0 0 0 0 0 0 0
+0205 00 80 00 0 0 0 0 0 0 0 0 0 0
+0206 10 10 00 0 0 0 0 0 0 0 0
+0206 10 91 00 0 0 0 0 0 0 0
+0206 10 95 00 0 0 0 0 0 0 0
+0206 10 99 00 0 0 0 0 0 0 0
+0206 21 00 00 0 0 0 0 0 0 0
+0206 22 00 00 0 0 0 0 0 0 0 0
+0206 29 10 00 0 0 0 0 0 0 0 0
+0206 29 91 00 0 0 0 0 0 0 0
+0206 29 99 00 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0206 30 00 00 0 0 0 0 0 0 0 0
+0206 41 00 00 0 0 0 0 0 0 0 0
+0206 49 20 00 0 0 0 0 0 0 0 0
+0206 49 80 00 0 0 0 0 0 0 0 0
+0206 80 10 00 0 0 0 0 0 0 0 0
+0206 80 91 00 0 0 0 0 0 0 0
+0206 80 99 00 0 0 0 0 0 0 0 0
+0206 90 10 00 0 0 0 0 0 0 0 0
+0206 90 91 00 0 0 0 0 0 0 0
+0206 90 99 00 0 0 0 0 0 0 0 0
+0207 11 10 00 28 28 28
+0207 11 30 00 28 28 28
+0207 11 90 00 28 28 28
+0207 12 10 00 28 28 28 28 28 28 28
+0207 12 90 00 28 28 28 28 28 28 28
+0207 13 10 00 28 20 20
+0207 13 20 00 28 20 20
+0207 13 30 00 28 20 20
+0207 13 40 00 28 20 20
+0207 13 50 00 28 20 20
+0207 13 60 00 28 20 20
+0207 13 70 00 28 20 20
+0207 13 91 00 0 28 20 20
+0207 13 99 00 28 20 20
+0207 14 10 00 28 28 28 28 28 28 28
+0207 14 20 00 28 28 28 28 28 28 28
+0207 14 30 00 28 28 28 28 28 28 28
+0207 14 40 00 28 28 28 28 28 28 28
+0207 14 50 00 28 28 28 28 28 28 28
+0207 14 60 00 28 28 28 28 28 28 28
+0207 14 70 00 28 28 28 28 28 28 28
+0207 14 91 00 0 10 10 10 10 10 10 10
+0207 14 99 00 28 28 28 28 28 28 28
+0207 24 10 00 28 15 15
+0207 24 90 00 28 15 15
+0207 25 10 00 28 15 15
+0207 25 90 00 28 15 15
+0207 26 10 00 28 15 15
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0207 26 20 00 28 15 15
+0207 26 30 00 28 15 15
+0207 26 40 00 28 15 15
+0207 26 50 00 28 15 15
+0207 26 60 00 28 15 15
+0207 26 70 00 28 15 15
+0207 26 80 00 28 15 15
+0207 26 91 00 0 28 15 15
+0207 26 99 00 28 15 15
+0207 27 10 00 28
+0207 27 20 00 28
+0207 27 30 00 28
+0207 27 40 00 28
+0207 27 50 00 28
+0207 27 60 00 28
+0207 27 70 00 28
+0207 27 80 00 28
+0207 27 91 00 0 10 10 10 10 10 10 10
+0207 27 99 00 28
+0207 32 11 00 28 15 15
+0207 32 15 00 28 15 15
+0207 32 19 00 28 15 15
+0207 32 51 00 28 15 15
+0207 32 59 00 28 15 15
+0207 32 90 00 28 15 15
+0207 33 11 00 28 15 15
+0207 33 19 00 28 15 15
+0207 33 51 00 28 15 15
+0207 33 59 00 28 15 15
+0207 33 90 00 28 15 15
+0207 34 10 00 0 28
+0207 34 90 00 0 28
+0207 35 11 00 28 15 15
+0207 35 15 00 28 15 15
+0207 35 21 00 28 15 15
+0207 35 23 00 28 15 15
+0207 35 25 00 28 15 15
+0207 35 31 00 28 15 15
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0207 35 41 00 28 15 15
+0207 35 51 00 28 15 15
+0207 35 53 00 28 15 15
+0207 35 61 00 28 15 15
+0207 35 63 00 28 15 15
+0207 35 71 00 28 15 15
+0207 35 79 00 28 15 15
+0207 35 91 00 0 28 15 15
+0207 35 99 00 28 15 15
+0207 36 11 00 28
+0207 36 15 00 28
+0207 36 21 00 28
+0207 36 23 00 28
+0207 36 25 00 28
+0207 36 31 00 28
+0207 36 41 00 28
+0207 36 51 00 28
+0207 36 53 00 28
+0207 36 61 00 28
+0207 36 63 00 28
+0207 36 71 00 28
+0207 36 79 00 28
+0207 36 81 00 0 10 10 10 10 10 10 10
+0207 36 85 00 0 10 10 10 10 10 10 10
+0207 36 89 00 0 10 10 10 10 10 10 10
+0207 36 90 00 28
+0208 10 11 00 0 0 0 0 0 0 0 0 0 0
+0208 10 19 00 0 0 0 0 0 0 0 0 0 0
+0208 10 90 00 0 0 0 0 0 0 0 0 0 0
+0208 20 00 00 0 0 0 0 0 0 0 0 0 0
+0208 30 00 00 0 0 0 0 0 0 0 0 0 0
+0208 40 10 00 0 0 0 0 0 0 0 0 0 0 0
+0208 40 90 00 0 0 0 0 0 0 0 0 0 0
+0208 50 00 00 0 0 0 0 0 0 0 0 0 0
+0208 90 10 00 0 0 0 0 0 0 0 0 0 0
+0208 90 20 00 0 0 0 0 0 0 0 0 0 0
+0208 90 40 00 0 0 0 0 0 0 0 0 0 0
+0208 90 55 00 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0208 90 60 00 0 0 0 0 0 0 0 0 0 0
+0208 90 95 00 0 0 0 0 0 0 0 0 0 0
+0209 00 11 00 20 20 20 20 20 20 20 27
+0209 00 19 00 20 20 20 20 20 20 20 27
+0209 00 30 00 20 20 20 20 20 20 20 27
+0209 00 90 00 20 20 20 20 20 20 20
+0210 11 11 00 20 20 20 20 20 20 20 27
+0210 11 19 00 20 20 20 20 20 20 20 27
+0210 11 31 00 20 20 20 20 20 20 20 27
+0210 11 39 00 20 20 20 20 20 20 20 27
+0210 11 90 00 20 20 20 20 20 20 20 27
+0210 12 11 00 20 20 20 20 20 20 20 27
+0210 12 19 00 20 20 20 20 20 20 20 27
+0210 12 90 00 20 20 20 20 20 20 20 27
+0210 19 10 00 20 20 20 20 20 20 20 27
+0210 19 20 00 20 20 20 20 20 20 20 27
+0210 19 30 00 20 20 20 20 20 20 20 27
+0210 19 40 00 20 20 20 20 20 20 20 27
+0210 19 51 00 20 20 20 20 20 20 20 27
+0210 19 59 00 20 20 20 20 20 20 20 27
+0210 19 60 00 20 20 20 20 20 20 20 27
+0210 19 70 00 20 20 20 20 20 20 20 27
+0210 19 81 00 20 20 20 20 20 20 20 27
+0210 19 89 00 20 20 20 20 20 20 20 27
+0210 19 90 00 20 20 20 20 20 20 20 27
+0210 20 10 00 20 20 20 20 20 20 20 27
+0210 20 90 00 20 20 20 20 20 20 20 27
+0210 91 00 00 0 20 20 20 20 20 20 20
+0210 92 00 00 0 20 20 20 20 20 20 20
+0210 93 00 00 0 20 20 20 20 20 20 20
+0210 99 10 00 0 20 20 20 20 20 0 20 20
+0210 99 21 00 0 20 20 20 20 20 20 20
+0210 99 29 00 0 20 20 20 20 20 20 20
+0210 99 31 00 20 20 20 20 20 20 20
+0210 99 39 00 20 20 20 20 20 20 20
+0210 99 41 00 20 20 20 20 20 20 20
+0210 99 49 00 20 20 20 20 20 20 20
+0210 99 51 00 20 20 20 20 20 20 20
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0210 99 59 00 20 20 20 20 20 20 20
+0210 99 60 00 0 20 20 20 20 20 20 20
+0210 99 71 00 0 20 20 20 20 20 0 20 20
+0210 99 79 00 0 20 20 20 20 20 0 20 20
+0210 99 80 00 20 20 20 20 20 20 20
+0210 99 90 00 20 20 20 20 20 20 20
+0301 10 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0
+0301 10 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0
+0301 91 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0
+0301 91 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0
+0301 92 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0
+0301 93 00 00 0 0 5 5 5 5 5 5 5 13
+0301 99 11 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0301 99 11 99 0 0 0 0 0 0 0 0 0 0 0 0
+0301 99 19 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0301 99 19 99 0 0 0 0 0 0 0 0 0 0 0 0
+0301 99 90 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0301 99 90 99 0 0 0 0 0 0 0 0 0 0 0 0
+0302 11 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 11 20 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 11 80 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 12 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 19 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 21 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 21 30 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 21 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 22 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 23 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 29 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 29 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 31 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 31 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 32 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 32 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 33 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 33 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 34 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 34 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0302 35 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 35 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 36 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 36 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 39 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 39 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 40 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 50 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 50 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 61 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 61 30 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 61 80 01 0 0 0 0 0 0 0 0 0 0 0 0
+0302 61 80 99 0 0 0 0 0 0 0 0 0 0 0 0
+0302 62 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 63 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 64 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 65 20 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 65 50 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 65 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 66 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 11 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 21 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 25 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 31 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 33 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 35 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 41 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 45 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 51 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 55 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 61 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 66 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 67 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 68 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 69 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 75 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 81 00 0 0 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0302 69 85 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 86 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 87 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 88 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 91 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 92 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 94 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 95 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 69 99 00 0 0 0 0 0 0 0 0 0 0 0 0
+0302 70 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 11 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 19 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 21 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 21 20 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 21 80 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 22 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 29 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 31 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 31 30 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 31 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 32 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 33 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 39 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 39 30 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 39 70 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 39 80 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 41 11 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 41 13 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 41 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 41 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 42 12 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 42 18 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 42 32 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 42 38 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 42 52 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 42 58 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 42 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 43 11 00 0 0 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0303 43 13 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 43 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 43 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 44 11 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 44 13 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 44 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 44 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 45 11 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 45 13 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 45 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 45 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 46 11 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 46 13 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 46 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 46 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 49 31 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 49 33 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 49 39 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 49 80 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 50 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 60 11 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 60 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 60 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 71 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 71 30 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 71 80 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 72 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 73 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 74 30 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 74 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 75 20 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 75 50 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 75 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 76 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 77 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 78 11 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 78 12 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 78 13 00 0 0 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0303 78 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 78 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 11 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 21 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 23 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 29 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 31 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 35 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 37 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 41 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 45 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 51 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 55 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 58 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 65 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 71 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 75 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 81 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 83 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 85 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 87 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 88 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 91 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 92 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 93 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 94 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 79 98 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 80 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0303 80 90 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 10 13 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 10 15 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 10 17 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 10 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 10 31 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 10 33 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 10 35 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 10 38 00 0 0 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0304 10 91 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 10 97 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 10 98 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 13 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 15 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 17 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 19 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 21 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 29 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 31 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 33 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 35 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 37 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 41 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 43 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 45 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 51 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 53 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 55 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 56 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 58 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 59 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 61 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 69 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 71 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 73 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 75 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 79 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 83 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 85 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 87 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 88 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 91 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 20 94 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 05 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 10 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 22 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 31 00 0 0 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0304 90 35 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 38 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 39 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 41 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 45 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 48 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 51 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 55 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 57 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 59 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 61 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 65 00 0 0 0 0 0 0 0 0 0 0 0 0
+0304 90 97 00 0 0 0 0 0 0 0 0 0 0 0 0
+0305 10 00 01 0 0 0 0 0 0 0 0 0
+0305 10 00 02 0 0 0 0 0 0 0 0 0
+0305 20 00 00 0 0 0 0 0 0 0 0 0
+0305 30 11 00 0 0 0 0 0 0 0 0 0
+0305 30 19 00 0 0 0 0 0 0 0 0 0
+0305 30 30 00 0 0 0 0 0 0 0 0 0
+0305 30 50 00 0 0 0 0 0 0 0 0 0
+0305 30 90 01 0 0 0 0 0 0 0 0 0
+0305 30 90 99 0 0 0 0 0 0 0 0 0
+0305 41 00 00 0 0 0 0 0 0 0 0 0
+0305 42 00 00 0 0 0 0 0 0 0 0 0
+0305 49 10 00 0 0 0 0 0 0 0 0 0
+0305 49 20 00 0 0 0 0 0 0 0 0 0
+0305 49 30 00 0 0 0 0 0 0 0 0 0
+0305 49 45 00 0 0 0 0 0 0 0 0 0
+0305 49 50 00 0 0 0 0 0 0 0 0 0
+0305 49 80 01 0 0 0 0 0 0 0 0 0
+0305 49 80 99 0 0 0 0 0 0 0 0 0
+0305 51 10 00 0 0 0 0 0 0 0 0 0
+0305 51 90 00 0 0 0 0 0 0 0 0 0
+0305 59 11 00 0 0 0 0 0 0 0 0 0
+0305 59 19 00 0 0 0 0 0 0 0 0 0
+0305 59 30 00 0 0 0 0 0 0 0 0 0
+0305 59 50 00 0 0 0 0 0 0 0 0 0
+0305 59 70 00 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0305 59 80 01 0 0 0 0 0 0 0 0 0
+0305 59 80 99 0 0 0 0 0 0 0 0 0
+0305 61 00 00 0 0 0 0 0 0 0 0 0
+0305 62 00 00 0 0 0 0 0 0 0 0 0
+0305 63 00 00 0 0 0 0 0 0 0 0 0
+0305 69 10 00 0 0 0 0 0 0 0 0 0
+0305 69 30 00 0 0 0 0 0 0 0 0 0
+0305 69 50 00 0 0 0 0 0 0 0 0 0
+0305 69 80 01 0 0 0 0 0 0 0 0 0
+0305 69 80 99 0 0 0 0 0 0 0 0 0
+0306 11 10 00 0 0 0 0 0 0 0 0 0 0 0
+0306 11 90 00 0 0 0 0 0 0 0 0 0 0 0
+0306 12 10 00 0 0 0 0 0 0 0 0 0 0 0
+0306 12 90 00 0 0 0 0 0 0 0 0 0 0 0
+0306 13 10 00 0 0 0 0 0 0 0 0 0 0 0
+0306 13 30 00 0 0 0 0 0 0 0 0 0 0 0
+0306 13 40 00 0 0 0 0 0 0 0 0 0 0 0
+0306 13 50 00 0 0 0 0 0 0 0 0 0 0 0
+0306 13 80 00 0 0 0 0 0 0 0 0 0 0 0
+0306 14 10 00 0 0 0 0 0 0 0 0 0 0 0
+0306 14 30 00 0 0 0 0 0 0 0 0 0 0 0
+0306 14 90 00 0 0 0 0 0 0 0 0 0 0 0
+0306 19 10 00 0 0 0 0 0 0 0 0 0 0 0
+0306 19 30 00 0 0 0 0 0 0 0 0 0 0 0
+0306 19 90 00 0 0 0 0 0 0 0 0 0 0 0
+0306 21 00 00 0 0 0 0 0 0 0 0 0 0 0
+0306 22 10 00 0 0 0 0 0 0 0 0 0 0 0
+0306 22 91 00 0 0 0 0 0 0 0 0 0 0 0
+0306 22 99 00 0 0 0 0 0 0 0 0 0 0 0
+0306 23 10 00 0 0 0 0 0 0 0 0 0 0 0
+0306 23 31 00 0 0 0 0 0 0 0 0 0 0 0
+0306 23 39 00 0 0 0 0 0 0 0 0 0 0 0
+0306 23 90 00 0 0 0 0 0 0 0 0 0 0 0
+0306 24 30 00 0 0 0 0 0 0 0 0 0 0 0
+0306 24 80 00 0 0 0 0 0 0 0 0 0 0 0
+0306 29 10 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0306 29 10 99 0 0 0 0 0 0 0 0 0 0 0
+0306 29 30 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0306 29 30 99 0 0 0 0 0 0 0 0 0 0 0
+0306 29 90 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0306 29 90 99 0 0 0 0 0 0 0 0 0 0 0
+0307 10 10 00 0 0 0 0 0 0 0 0 0 0 0
+0307 10 90 00 0 0 0 0 0 0 0 0 0 0 0
+0307 21 00 00 0 0 0 0 0 0 0 0 0 0 0
+0307 29 10 00 0 0 0 0 0 0 0 0 0 0 0
+0307 29 90 00 0 0 0 0 0 0 0 0 0 0 0
+0307 31 10 00 0 0 0 0 0 0 0 0 0 0 0
+0307 31 90 00 0 0 0 0 0 0 0 0 0 0 0
+0307 39 10 00 0 0 0 0 0 0 0 0 0 0 0
+0307 39 90 00 0 0 0 0 0 0 0 0 0 0 0
+0307 41 10 00 0 0 0 0 0 0 0 0 0 0 0
+0307 41 91 00 0 0 0 0 0 0 0 0 0 0 0
+0307 41 99 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 01 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 11 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 18 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 31 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 33 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 35 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 38 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 51 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 59 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 71 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 91 00 0 0 0 0 0 0 0 0 0 0 0
+0307 49 99 00 0 0 0 0 0 0 0 0 0 0 0
+0307 51 00 00 0 0 0 0 0 0 0 0 0 0 0
+0307 59 10 00 0 0 0 0 0 0 0 0 0 0 0
+0307 59 90 00 0 0 0 0 0 0 0 0 0 0 0
+0307 60 00 00 0 0 0 0 0 0 0 0 0 0 0
+0307 91 00 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0307 91 00 02 0 0 0 0 0 0 0 0 0 0 0
+0307 91 00 03 0 0 0 0 0 0 0 0 0 0 0
+0307 91 00 04 0 0 0 0 0 0 0 0 0 0 0
+0307 91 00 99 0 0 0 0 0 0 0 0 0 0
+0307 99 11 00 0 0 0 0 0 0 0 0 0 0
+0307 99 13 00 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0307 99 15 00 0 0 0 0 0 0 0 0 0 0
+0307 99 18 00 0 0 0 0 0 0 0 0 0 0
+0307 99 90 00 0 0 0 0 0 0 0 0 0 0
+0401 10 10 00 20
+0401 10 90 00 20
+0401 20 11 00 20
+0401 20 19 00 20
+0401 20 91 00 20
+0401 20 99 00 20
+0401 30 11 00 20
+0401 30 19 00 20
+0401 30 31 00 20
+0401 30 39 00 20
+0401 30 91 00 20
+0401 30 99 00 20
+0402 10 11 00 37 37 37 37 37 37 37
+0402 10 19 00 37 37 37 37 37 37 37
+0402 10 91 00 37 37 37 37 37 37 37
+0402 10 99 00 37 37 37 37 37 37 37
+0402 21 11 00 37 37 37 37 37 37 37
+0402 21 17 00 37 37 37 37 37 37 37
+0402 21 19 00 37 37 37 37 37 37 37
+0402 21 91 00 37 37 37 37 37 37 37
+0402 21 99 00 37 37 37 37 37 37 37
+0402 29 11 00 27 27
+0402 29 15 00 27 27
+0402 29 19 00 27 27
+0402 29 91 00 27 27
+0402 29 99 00 27 27
+0402 91 11 00 37 37 37 37 37 37 37
+0402 91 19 00 37 37 37 37 37 37 37
+0402 91 31 00 37 37 37 37 37 37 37
+0402 91 39 00 37 37 37 37 37 37 37
+0402 91 51 00 37 37 37 37 37 37 37
+0402 91 59 00 37 37 37 37 37 37 37
+0402 91 91 00 37 37 37 37 37 37 37
+0402 91 99 00 37 37 37 37 37 37 37
+0402 99 11 00 37 37 37 37 37 37 37
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0402 99 19 00 37 37 37 37 37 37 37
+0402 99 31 00 37 37 37 37 37 37 37
+0402 99 39 00 37 37 37 37 37 37 37
+0402 99 91 00 37 37 37 37 37 37 37
+0402 99 99 00 37 37 37 37 37 37 37
+0403 10 11 00 25,6 20
+0403 10 13 00 25,6 20
+0403 10 31 00 25,6 20
+0403 10 33 00 25,6 20
+0403 10 39 00 25,6 20
+0403 10 51 00 25,6 20
+0403 10 53 00 25,6 20
+0403 10 59 00 25,6 20
+0403 10 91 00 25,6 20
+0403 10 93 00 25,6 20
+0403 10 99 00 25,6 20
+0403 90 11 00 25,6 20
+0403 90 13 00 25,6 20
+0403 90 19 00 25,6 20
+0403 90 31 00 25,6 20
+0403 90 33 00 25,6 20
+0403 90 39 00 25,6 20
+0403 90 51 00 25,6 20
+0403 90 53 00 25,6 20
+0403 90 59 00 25,6 20
+0403 90 61 00 25,6 20
+0403 90 63 00 25,6 20
+0403 90 69 00 25,6 20
+0403 90 71 00 25,6 20
+0403 90 73 00 25,6 20
+0403 90 79 00 25,6 20
+0403 90 91 00 25,6 20
+0403 90 93 00 25,6 20
+0403 90 99 00 25,6 20
+0404 10 02 00 14 14 14 14 14 14 14
+0404 10 04 00 14 14 14 14 14 14 14
+0404 10 06 00 14 14 14 14 14 14 14
+0404 10 12 00 14 14 14 14 14 14 14
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0404 10 14 00 14 14 14 14 14 14 14
+0404 10 16 00 14 14 14 14 14 14 14
+0404 10 26 00 14 14 14 14 14 14 14
+0404 10 28 00 14 14 14 14 14 14 14
+0404 10 32 00 14 14 14 14 14 14 14
+0404 10 34 00 14 14 14 14 14 14 14
+0404 10 36 00 14 14 14 14 14 14 14
+0404 10 38 00 14 14 14 14 14 14 14
+0404 10 48 00 14 14 14 14 14 14 14
+0404 10 52 00 14 14 14 14 14 14 14
+0404 10 54 00 14 14 14 14 14 14 14
+0404 10 56 00 14 14 14 14 14 14 14
+0404 10 58 00 14 14 14 14 14 14 14
+0404 10 62 00 14 14 14 14 14 14 14
+0404 10 72 00 14 14 14 14 14 14 14
+0404 10 74 00 14 14 14 14 14 14 14
+0404 10 76 00 14 14 14 14 14 14 14
+0404 10 78 00 14 14 14 14 14 14 14
+0404 10 82 00 14 14 14 14 14 14 14
+0404 10 84 00 14 14 14 14 14 14 14
+0404 90 21 00 14 14 14 14 14 14 14
+0404 90 23 00 14 14 14 14 14 14 14
+0404 90 29 00 14 14 14 14 14 14 14
+0404 90 81 00 14 14 14 14 14 14 14
+0404 90 83 00 14 14 14 14 14 14 14
+0404 90 89 00 14 14 14 14 14 14 14
+0405 20 10 00 25,6
+0405 20 30 00 25,6
+0406 10 20 01 0 0
+0406 10 80 01 0 0
+0406 90 88 01 0
+0407 00 11 01 0 20 0
+0407 00 11 99 0 20
+0407 00 19 01 0 20
+0407 00 19 99 0 20
+0407 00 30 01 20
+0407 00 30 99 20
+0407 00 90 01 20
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0407 00 90 02 20
+0407 00 90 03 20
+0407 00 90 99 20
+0409 00 00 00 0
+0501 00 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0502 10 00 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0502 10 00 99 0 0 0 0 0 0 0 0 0 0
+0502 90 00 00 0 0 0 0 0 0 0 0 0 0
+0503 00 00 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0503 00 00 02 0 0 0 0 0 0 0 0 0 0
+0503 00 00 03 0 0 0 0 0 0 0 0 0 0
+0503 00 00 04 0 0 0 0 0 0 0 0 0 0
+0503 00 00 99 0 0 0 0 0 0 0 0 0 0
+0504 00 00 01 0 0 0 0 0 0 0 0 0 0
+0504 00 00 02 0 0 0 0 0 0 0 0 0 0
+0504 00 00 03 0 0 0 0 0 0 0 0 0 0
+0504 00 00 04 0 0 0 0 0 0 0 0 0 0
+0504 00 00 05 0 0 0 0 0 0 0 0 0 0
+0504 00 00 06 0 0 0 0 0 0 0 0 0 0
+0504 00 00 07 0 0 0 0 0 0 0 0 0 0
+0504 00 00 99 0 0 0 0 0 0 0 0 0 0
+0505 10 10 00 0 0 0 0 0 0 0 0 0
+0505 10 90 00 0 0 0 0 0 0 0 0
+0505 90 00 00 0 0 0 0 0 0 0 0 0
+0506 10 00 00 0 0 0 0 0 0 0 0 0 0
+0506 90 00 01 0 0 0 0 0 0 0 0 0
+0506 90 00 99 0 0 0 0 0 0 0 0 0
+0507 10 00 00 0 0 0 0 0 0 0 0 0 0
+0507 90 00 00 0 0 0 0 0 0 0 0 0 0
+0508 00 00 00 0 0 0 0 0 0 0 0 0 0
+0509 00 10 00 0 0 0 0 0 0 0 0 0 0
+0509 00 90 00 0 0 0 0 0 0 0 0 0 0
+0510 00 00 00 0 0 0 0 0 0 0 0 0 0
+0511 10 00 00 0 0 0 0 0 0 0 0 0 0
+0511 91 10 00 0 0 0 0 0 0 0 0 0 0
+0511 91 90 00 0 0 0 0 0 0 0 0 0 0
+0511 99 10 00 0 0 0 0 0 0 0 0 0 0
+0511 99 90 01 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0511 99 90 99 0 0 0 0 0 0 0 0 0 0
+0601 10 10 00 0 0 0 0 0 0 0 0 0 0
+0601 10 20 00 0 0 0 0 0 0 0 0 0 0
+0601 10 30 00 0 0 0 0 0 0 0 0 0 0
+0601 10 40 00 0 0 0 0 0 0 0 0 0 0
+0601 10 90 00 0 0 0 0 0 0 0 0 0 0
+0601 20 10 00 0 0 0 0 0 0 0 0 0 0
+0601 20 30 00 0 0 0 0 0 0 0 0 0 0
+0601 20 90 00 0 0 0 0 0 0 0 0 0 0
+0602 10 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0602 10 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0602 20 10 00 0 0 0 0 0 0 0 0 0 0
+0602 20 90 01 0 0 0 0 0 0 0 0 0 0
+0602 20 90 99 0 0 0 0 0 0 0 0 0 0
+0602 30 00 00 0 0 0 0 0 0 0 0 0 0
+0602 40 10 00 0 0 0 0 0 0 0 0 0 0
+0602 40 90 00 0 0 0 0 0 0 0 0 0 0
+0602 90 10 00 0 0 0 0 0 0 0 0 0 0
+0602 90 20 00 0 0 0 0 0 0 0 0 0 0
+0602 90 30 00 0 0 0 0 0 0 0 0 0 0
+0602 90 41 00 0 0 0 0 0 0 0 0 0 0
+0602 90 45 00 0 0 0 0 0 0 0 0 0 0
+0602 90 49 00 0 0 0 0 0 0 0 0 0 0
+0602 90 51 00 0 0 0 0 0 0 0 0 0 0
+0602 90 59 00 0 0 0 0 0 0 0 0 0 0
+0602 90 70 00 0 0 0 0 0 0 0 0 0 0
+0602 90 91 00 0 0 0 0 0 0 0 0 0 0
+0602 90 99 00 0 0 0 0 0 0 0 0 0 0
+0603 10 10 00 0 17
+0603 10 20 00 0 17
+0603 10 30 00 0 17
+0603 10 40 00 0 17
+0603 10 50 00 0 17
+0603 10 80 00 0 17
+0603 90 00 01 0 15 0 0
+0603 90 00 99 0 15 0 0
+0604 10 10 01 0 0 0 0 0 0 0 0 0 0
+0604 10 10 02 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0604 10 10 99 0 0 0 0 0 0 0 0 0 0
+0604 10 90 01 0 0 0 0 0 0 0 0 0 0
+0604 10 90 02 0 0 0 0 0 0 0 0 0 0
+0604 10 90 99 0 0 0 0 0 0 0 0 0 0
+0604 91 21 00 0 0 0 0 0 0 0 0 0 0
+0604 91 29 00 0 0 0 0 0 0 0 0 0 0
+0604 91 41 00 0 0 0 0 0 0 0 0 0 0
+0604 91 49 00 0 0 0 0 0 0 0 0 0 0
+0604 91 90 00 0 0 0 0 0 0 0 0 0 0
+0604 99 10 00 0 0 0 0 0 0 0 0 0 0
+0604 99 90 00 0 0 0 0 0 0 0 0 0 0
+0701 10 00 00 0 0 0 0 0 0 0 0 0
+0701 90 10 00 27
+0701 90 50 00 27
+0701 90 90 00 27
+0702 00 00 01 10
+0702 00 00 02 17
+0702 00 00 03 30
+0703 10 90 00 0 0
+0703 20 00 00 0 0
+0703 90 00 00 0 0
+0704 10 00 00 23 0
+0704 20 00 00 0 10 10 10 10 10 10 10
+0704 90 10 00 10 10 10 10 10 10 10
+0704 90 90 00 0 10 10 10 10 10 0 10 10
+0705 11 00 00 10 0
+0705 19 00 00 0 10 10 10 10 10 0 10 10
+0705 21 00 00 0 10 10 10 10 10 0 10 10
+0705 29 00 00 0 10 10 10 10 10 0 10 10
+0706 10 00 00 10 10 10 10 10 10 10
+0706 90 10 00 0 15 0 0 30 0 12
+0706 90 30 00 0 15 0 0 30 0 12
+0706 90 90 00 0 15 0 0 30 0 12
+0707 00 05 01 10 0
+0707 00 05 02 24 0
+0707 00 05 03 30 0
+0707 00 90 01 0 10
+0707 00 90 02 0 24
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0707 00 90 03 0 30
+0708 10 00 00 0 15 0
+0708 20 00 00 10 10 10 10 10 0 10 10
+0708 90 00 00 0 10 10 10 10 10 0 10 10
+0709 10 00 00 0 0 0 0 0 0 0 0 0 0
+0709 20 00 00 0 5 5 5 5 5 0 5 5 0
+0709 30 00 00 0 0 0 0 0 0 0 0 0
+0709 40 00 00 0 0 0 0 0 0 0 0 0
+0709 51 00 00 0 0 0 0
+0709 52 00 00 0 0 0 0 0 0 0 0 0
+0709 59 10 00 0 0
+0709 59 30 00 0 0
+0709 59 90 00 0 0
+0709 60 10 00 0 0
+0709 60 95 00 0 0
+0709 70 00 00 0 10 10 10 10 10 0 10 10 0
+0709 90 10 00 0 15,5 0
+0709 90 20 00 0 15,5 0
+0709 90 31 00 0 15,5 0
+0709 90 39 00 15,5 0
+0709 90 40 00 0 15,5 0
+0709 90 50 00 0 15,5 0 23
+0709 90 60 00 15,5 0
+0709 90 70 00 0 15,5 0
+0709 90 90 00 0 15,5 0
+0710 10 00 00 0 0 18
+0710 22 00 00 0 7 7 7 7 7 7 7 18
+0710 29 00 00 0 7 7 7 7 7 7 7 18
+0710 30 00 00 0 7 7 7 7 7 7 7 18
+0710 40 00 00 22,4 7 7 7 7 7 7 7 18
+0710 80 10 00 0 0 18
+0710 80 51 00 0 18
+0710 80 59 00 0 0 18
+0710 80 61 00 0 18
+0710 80 69 00 0 18
+0710 80 70 00 0 18
+0710 80 80 00 0 18
+0710 80 85 00 0 18
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0710 90 00 00 7 7 7 7 7 7 7 18
+0711 20 10 00 0 0 0 0 0 0 0 0
+0711 20 90 00 0 0 0 0 0 0 0 0
+0711 30 00 00 0 0 0 0 0 0 0 0
+0711 40 00 00 0 0 0 0 0 0 0 0
+0711 51 00 00 0 0 0 0 0 0 0
+0711 59 00 00 0 0 0 0 0 0 0
+0711 90 10 00 0 0 0 0 0 0 0
+0711 90 30 00 25,6 0 0 0 0 0 0 0
+0711 90 50 00 0 0 0 0 0 0 0 0
+0711 90 80 00 0 0 0 0 0 0 0
+0711 90 90 00 0 0 0 0 0 0 0 0
+0712 20 00 00 0 0 0
+0712 31 00 00 0 0 0 0 0 0 0 0
+0712 32 00 00 0 0 0 0 0 0 0 0 0
+0712 33 00 00 0 0 0 0 0 0 0 0 0
+0712 39 00 00 0 0 0 0 0 0 0 0 0
+0712 90 05 00 0
+0712 90 11 00 0 0 0 0 0 0 0 0 0
+0712 90 19 00 0 0 0 0 0 0 0
+0712 90 30 00 0 0 0 0 0 0 0 0
+0712 90 50 00 0 0 0 0 0 0 0 0 0
+0712 90 90 00 0 0 0 0 0 0 0 0 0
+0713 10 10 00 0 0 0 0 0 0 0 0 0 0
+0713 10 90 01 0 0 0 0 0 0 0 0 0 0
+0713 10 90 99 0 0 0 0 0 0 0 0 0 0
+0713 20 00 00 0 0 0 0 0 0 0 0 0 0
+0713 31 00 00 0 0 0 0 0 0 0 0 0 0
+0713 32 00 00 0 0 0 0 0 0 0 0 0
+0713 33 10 00 0 0 0 0 0 0 0 0 0 0
+0713 33 90 00 0 0 0 0 0 0 0 0 0
+0713 39 00 00 0 0 0 0 0 0 0 0 0
+0713 40 00 00 0 0 0 0 0 0 0 0 0 0
+0713 50 00 00 0 0 0 0 0 0 0 0 0 0
+0713 90 00 00 0 0 0 0 0 0 0 0 0 0
+0714 10 10 00 0 0 0 0 0 0 0 0 0
+0714 10 91 01 0 0 0 0 0 0 0 0 0
+0714 10 91 99 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0714 10 99 01 0 0 0 0 0 0 0 0 0
+0714 10 99 99 0 0 0 0 0 0 0 0
+0714 20 10 00 0 0 0 0 0 0 0 0 0 0
+0714 20 90 01 0 0 0 0 0 0 0 0 0 0
+0714 20 90 99 0 0 0 0 0 0 0 0 0 0
+0714 90 11 01 0 0 0 0 0 0 0 0 0
+0714 90 11 99 0 0 0 0 0 0 0 0 0
+0714 90 19 01 0 0 0 0 0 0 0 0 0
+0714 90 19 99 0 0 0 0 0 0 0 0 0
+0714 90 90 01 0 0 0 0 0 0 0 0 0 0
+0714 90 90 99 0 0 0 0 0 0 0 0 0 0
+0801 11 00 00 0 0 0 0 0 0 0 0 0 0
+0801 19 00 00 0 0 0 0 0 0 0 0 0 0
+0801 21 00 00 0 0 0 0 0 0 0 0 0 0
+0801 22 00 00 0 0 0 0 0 0 0 0 0 0
+0801 31 00 00 0 0 0 0 0 0 0 0 0 0
+0801 32 00 00 0 0 0 0 0 0 0 0 0 0
+0802 11 10 00 0 0 0 0 0 0 0 0 0 0
+0802 11 90 00 0 0 0 0 0 0 0 0 0 0
+0802 12 10 00 0 0 0 0 0 0 0 0 0 0
+0802 12 90 00 0 0 0 0 0 0 0 0 0 0
+0802 21 00 00 0 0 0 0 0 0 0 0 0 0
+0802 22 00 00 0 0 0 0 0 0 0 0 0 0
+0802 31 00 00 0 0 0 0 0 0 0 0 0 0
+0802 32 00 00 0 0 0 0 0 0 0 0 0 0
+0802 40 00 00 0 0 0 0 0 0 0 0 0 0
+0802 50 00 00 0 0 0 0 0 0 0 0 0 0 0
+0802 90 20 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0802 90 50 00 0 0 0 0 0 0 0 0 0 0
+0802 90 60 00 0 0 0 0 0 0 0 0 0 0
+0802 90 85 00 0 0 0 0 0 0 0 0 0 0
+0803 00 11 00 0 0 0 0 0 0 0 0 0 0
+0803 00 19 00 0 0 0 0 0 0 0 0 0 0
+0803 00 90 00 0 0 0 0 0 0 0 0 0 0
+0804 10 00 00 0 0 0 0 0 0 0 0 0 0
+0804 20 10 00 0 0 0 0 0 0 0 0 0 0
+0804 20 90 00 0 0 0 0 0 0 0 0 0 0
+0804 30 00 00 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0804 40 00 00 0 0 0 0 0 0 0 0 0 0
+0804 50 00 00 0 0 0 0 0 0 0 0 0 0
+0805 10 10 00 0 0 0 0 0 0 0 0 0 0
+0805 10 30 00 0 0 0 0 0 0 0 0 0 0
+0805 10 50 01 0 0 0 0 0 0 0 0 0 0
+0805 10 50 02 0 0 0 0 0 0 0 0 0 0
+0805 10 80 00 0 0 0 0 0 0 0 0 0 0
+0805 20 10 00 0 0 0 0 0 0 0 0 0 0
+0805 20 30 00 0 0 0 0 0 0 0 0 0 0
+0805 20 50 00 0 0 0 0 0 0 0 0 0 0
+0805 20 70 00 0 0 0 0 0 0 0 0 0 0
+0805 20 90 00 0 0 0 0 0 0 0 0 0 0
+0805 40 00 00 0 0 0 0 0 0 0 0 0 0
+0805 50 10 00 0 0 0 0 0 0 0 0 0 0
+0805 50 90 00 0 0 0 0 0 0 0 0 0 0
+0805 90 00 00 0 0 0 0 0 0 0 0 0 0
+0806 20 11 00 0 0 0 0 0 0 0 0 0 0
+0806 20 12 00 0 0 0 0 0 0 0 0 0 0
+0806 20 18 00 0 0 0 0 0 0 0 0 0 0
+0806 20 91 00 0 0 0 0 0 0 0 0 0 0
+0806 20 92 00 0 0 0 0 0 0 0 0 0 0
+0806 20 98 00 0 0 0 0 0 0 0 0 0 0
+0807 11 00 01 9 9 9 9 9 9 9
+0807 11 00 02 9 9 9 9 9 9 9
+0807 19 00 01 9 9 9 9 9 9 9
+0807 19 00 02 9 9 9 9 9 9 9
+0807 20 00 00 0 0 0 0 0 0 0 0 0
+0808 20 10 00 0 0 0 0 0 0 0
+0808 20 50 00 0 0 0 0 0 0 0
+0808 20 90 00 0 0 0 0 0 0 0 0 0 0
+0809 10 00 00 0 8 8 8 8 8 8 8
+0809 20 05 00 0
+0809 20 95 00 0
+0809 30 10 00 9 9 9 9 9 9 9
+0809 30 90 00 9 9 9 9 9 9 9
+0809 40 05 00 0
+0809 40 90 00 0
+0810 10 00 00 0 15 20
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0810 20 10 00 15 20 18
+0810 20 90 00 15 20 18
+0810 30 10 00 9 9 9 9 9 20 9 9
+0810 30 30 00 9 9 9 9 9 20 9 9
+0810 30 90 00 9 9 9 9 9 20 9 9
+0810 40 10 00 0 0 0 0 0 0 20 0 0 0
+0810 40 30 00 0 0 0 0 0 0 20 0 0 0
+0810 40 50 00 0 0 0 0 0 0 20 0 0 0
+0810 40 90 00 0 0 0 0 0 0 20 0 0 0
+0810 50 00 00 0 0 0 0 0 0 0 0 0 0
+0810 60 00 00 0 0 0 0 0 0 0 0 0
+0810 90 30 00 0 0 0 0 0 0 0 0 0 0
+0810 90 40 00 0 0 0 0 0 0 0 0 0 0
+0810 90 95 00 0 0 0 0 0 0 0 0 0 0
+0811 10 11 00 9 9 9 9 9 0 9 9 18
+0811 10 19 00 0 9 9 9 9 9 0 9 9 18
+0811 10 90 00 0 9 9 9 9 9 0 9 9 18
+0811 20 11 00 20 0 18
+0811 20 19 00 0 20 0 18
+0811 20 31 00 0 20 0 18
+0811 20 39 00 0 20 0 18
+0811 20 51 00 0 20 0 18
+0811 20 59 00 0 20 0 18
+0811 20 90 00 0 20 0 18
+0811 90 11 00 20 0 18
+0811 90 19 00 20 0 18
+0811 90 31 00 0 20 0 18
+0811 90 39 00 0 20 0 18
+0811 90 50 00 0 20 0 18
+0811 90 70 00 0 20 0 0
+0811 90 75 00 0 20 0 18
+0811 90 80 00 0 20 0 18
+0811 90 85 00 0 20 0 0 0 0
+0811 90 95 00 0 20 0 18
+0812 10 00 00 0 0 0 0 0 0 0 0 0
+0812 90 10 00 0 0 0 0 0 0 0 0 0
+0812 90 20 00 0 0 0 0 0 0 0 0 0
+0812 90 30 00 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0812 90 40 00 0 0 0 0 0 0 0 0 0
+0812 90 50 00 0 0 0 0 0 0 0 0 0 0
+0812 90 60 00 0 0 0 0 0 0 0 0 0
+0812 90 70 00 0 0 0 0 0 0 0 0 0 0
+0812 90 99 01 0 0 0 0 0 0 0 0
+0812 90 99 99 0 0 0 0 0 0 0 0 0
+0813 10 00 00 0 0 0 0 0 0 0 0 0 0
+0813 20 00 00 0 0 0 0 0 0 0 0 0 0
+0813 30 00 00 0 0 0 0 0 0 0 0 0 0
+0813 40 10 00 0 0 0 0 0 0 0 0 0 0
+0813 40 30 00 0 0 0 0 0 0 0 0 0 0
+0813 40 50 00 0 0 0 0 0 0 0 0 0 0
+0813 40 60 00 0 0 0 0 0 0 0 0 0 0
+0813 40 70 00 0 0 0 0 0 0 0 0 0 0
+0813 40 95 00 0 0 0 0 0 0 0 0 0 0
+0813 50 12 00 0 0 0 0 0 0 0 0 0 0
+0813 50 15 00 0 0 0 0 0 0 0 0 0 0
+0813 50 19 00 0 0 0 0 0 0 0 0 0 0
+0813 50 31 00 0 0 0 0 0 0 0 0 0 0
+0813 50 39 00 0 0 0 0 0 0 0 0 0 0
+0813 50 91 00 0 0 0 0 0 0 0 0 0 0
+0813 50 99 00 0 0 0 0 0 0 0 0 0 0
+0814 00 00 00 0 0 0 0 0 0 0 0 0 0
+0901 11 00 00 0 0 0 0 0 0 0 0 0
+0901 12 00 00 0 0 0 0 0 0 0 0
+0901 21 00 00 21 0 0 0 0 0 0 0
+0901 22 00 00 21 0 0 0 0 0 0 0
+0901 90 10 00 0 0 0 0 0 0 0 0
+0901 90 90 00 0 0 0 0 0 0 0 0
+0902 10 00 00 0 0 0 0 0 0 0
+0902 20 00 00 0 0 0 0 0 0 0 0 0
+0902 30 00 00 0 0 0 0 0 0 0
+0902 40 00 00 0 0 0 0 0 0 0 0 0 0
+0903 00 00 00 0 0 0 0 0 0 0 0 0 0
+0904 11 00 00 0 0 0 0 0 0 0 0 0 0
+0904 12 00 00 0 0 0 0 0 0 0 0 0 0
+0904 20 10 00 0 0 0 0 0 0 0
+0904 20 30 00 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+0904 20 90 00 0 0 0 0 0 0 0
+0905 00 00 00 0 0 0 0 0 0 0 0 0 0
+0906 10 00 00 0 0 0 0 0 0 0 0 0 0
+0906 20 00 00 0 0 0 0 0 0 0 0 0 0
+0907 00 00 00 0 0 0 0 0 0 0 0 0 0
+0908 10 00 00 0 0 0 0 0 0 0 0 0 0
+0908 20 00 00 0 0 0 0 0 0 0 0 0 0
+0908 30 00 00 0 0 0 0 0 0 0 0 0 0
+0909 10 00 00 0 0 0 0 0 0 0 0 0 0
+0909 20 00 00 0 0 0 0 0 0 0 0 0 0
+0909 30 00 00 0 4 4 4 4 4 0 4 4 0
+0909 40 00 00 0 4 4 4 4 4 0 4 4 0
+0909 50 00 00 0 0 0 0 0 0 0 0 0 0
+0910 10 00 00 0 0 0 0 0 0 0 0 0 0
+0910 20 10 00 0 0 0 0 0 0 0 0 0 0
+0910 20 90 00 0 0 0 0 0 0 0 0 0 0
+0910 30 00 00 0 0 0 0 0 0 0 0 0 0
+0910 40 11 00 0 0 0 0 0 0 0 0 0 0
+0910 40 13 00 0 0 0 0 0 0 0 0 0 0
+0910 40 19 00 0 0 0 0 0 0 0 0 0 0
+0910 40 90 00 0 0 0 0 0 0 0 0 0 0
+0910 50 00 00 0 0 0 0 0 0 0 0 0 0
+0910 91 10 00 0 0 0 0 0 0 0 0 0 0
+0910 91 90 00 0 0 0 0 0 0 0 0 0
+0910 99 10 00 0 0 0 0 0 0 0 0 0 0
+0910 99 91 00 0 0 0 0 0 0 0 0 0 0
+0910 99 99 00 0 0 0 0 0 0 0 0 0
+1001 10 00 01 0 0 0 0 0 0 0 18
+1001 10 00 99 0 0 0 0 0 0 0
+1001 90 10 00 15 15 15 15 15 15 15
+1001 90 91 00 15 15 15 15 15 15 15
+1001 90 99 00 15 15 15 15 15 15 15
+1002 00 00 01 15 15 15 15 15 15 15 15 18
+1002 00 00 99 15 15 15 15 15 15 15 15 18
+1003 00 10 00 18 18 18 18 18 18 18 18
+1003 00 90 00 18 18 18 18 18 18 18 27
+1004 00 00 01 15 15 15 15 15 0 15 15 18
+1004 00 00 99 15 15 15 15 15 0 15 15 18
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1005 10 11 00 0 0 0 0 0 0 0
+1005 10 13 00 0 0 0 0 0 0 0
+1005 10 15 00 0 0 0 0 0 0 0
+1005 10 19 00 0 0 0 0 0 0 0
+1005 10 90 00 0 0 0 0 0 0 0
+1005 90 00 00 0 15 15
+1006 10 10 00 0 0 0 0 0 0 0 0 0 0
+1006 10 21 00 0 0 0 0 0 0 0 0
+1006 10 23 00 0 0 0 0 0 0 0 0
+1006 10 25 00 0 0 0 0 0 0 0 0
+1006 10 27 00 0 0 0 0 0 0 0 0
+1006 10 92 00 0 0 0 0 0 0 0 0
+1006 10 94 00 0 0 0 0 0 0 0 0
+1006 10 96 00 0 0 0 0 0 0 0 0
+1006 10 98 00 0 0 0 0 0 0 0 0
+1006 20 11 00 0 0 0 0 0 0 0
+1006 20 13 00 0 0 0 0 0 0 0
+1006 20 15 00 0 0 0 0 0 0 0
+1006 20 17 00 0 0 0 0 0 0 0
+1006 20 92 00 0 0 0 0 0 0 0
+1006 20 94 00 0 0 0 0 0 0 0
+1006 20 96 00 0 0 0 0 0 0 0
+1006 20 98 00 0 0 0 0 0 0 0
+1006 30 21 00 0 0 0 0 0 0 0
+1006 30 23 00 0 0 0 0 0 0 0
+1006 30 25 00 0 0 0 0 0 0 0
+1006 30 27 00 0 0 0 0 0 0 0
+1006 30 42 00 0 0 0 0 0 0 0
+1006 30 44 00 0 0 0 0 0 0 0
+1006 30 46 00 0 0 0 0 0 0 0
+1006 30 48 00 0 0 0 0 0 0 0
+1006 30 61 00 0 0 0 0 0 0 0
+1006 30 63 00 0 0 0 0 0 0 0
+1006 30 65 00 0 0 0 0 0 0 0
+1006 30 67 00 0 0 0 0 0 0 0
+1006 30 92 00 0 0 0 0 0 0 0
+1006 30 94 00 0 0 0 0 0 0 0
+1006 30 96 00 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1006 30 98 00 0 0 0 0 0 0 0
+1006 40 00 00 0 0 0 0 0 0 0
+1007 00 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1007 00 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1008 10 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1008 20 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1008 30 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1008 90 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1008 90 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1101 00 11 00 15 15 15 15 15 15 15
+1101 00 15 00 15 15 15 15 15 15 15
+1101 00 90 00 15 15 15 15 15 15 15
+1102 10 00 00 15 15 15 15 15 15 15 27
+1102 20 10 00 15 15 15 15 15 15 15 27
+1102 20 90 00 15 15 15 15 15 15 15 27
+1102 30 00 00 0 0 0 0 0 0 0 18
+1102 90 10 00 15 15 15 15 15 15 15 27
+1102 90 30 00 15 15 15 15 15 15 15 27
+1102 90 90 00 0 15 15 15 15 15 15 15 27
+1103 13 10 00 15 15 15 15 15 15 15
+1103 13 90 00 15 15 15 15 15 15 15
+1103 19 10 00 15 15 15 15 15 15 15
+1103 19 30 00 15 15 15 15 15 15 15
+1103 19 40 00 15 15 15 15 15 15 15
+1103 19 50 00 0 0 0 0 0 0 0 9
+1103 19 90 00 0 15 15 15 15 15 15 15
+1103 20 10 00 15 15 15 15 15 15 15
+1103 20 20 00 15 15 15 15 15 15 15
+1103 20 30 00 15 15 15 15 15 15 15
+1103 20 40 00 15 15 15 15 15 15 15
+1103 20 50 00 15 15 15 15 15 15 15
+1103 20 60 00 15 15 15 15 15 15 15
+1103 20 90 00 0 15 15 15 15 15 15 15
+1104 12 10 00 15 15 15 15 15 15 15 18
+1104 12 90 00 15 15 15 15 15 15 15 18
+1104 19 10 00 15 15 15 15 15 15 15 18
+1104 19 30 00 15 15 15 15 15 15 15 18
+1104 19 50 00 15 15 15 15 15 15 15 18
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1104 19 61 00 15 15 15 15 15 15 15 18
+1104 19 69 00 15 15 15 15 15 15 15 18
+1104 19 91 00 15 15 15 15 15 15 15 18
+1104 19 99 00 15 15 15 15 15 15 15 18
+1104 22 20 00 15 15 15 15 15 15 15 18
+1104 22 30 00 15 15 15 15 15 15 15 18
+1104 22 50 00 15 15 15 15 15 15 15 18
+1104 22 90 00 15 15 15 15 15 15 15 18
+1104 22 98 00 15 15 15 15 15 15 15 18
+1104 23 10 00 15 15 15 15 15 15 15 18
+1104 23 30 00 15 15 15 15 15 15 15 18
+1104 23 90 00 15 15 15 15 15 15 15 18
+1104 23 99 00 15 15 15 15 15 15 15 18
+1104 29 01 00 15 15 15 15 15 15 15 18
+1104 29 03 00 15 15 15 15 15 15 15 18
+1104 29 05 00 15 15 15 15 15 15 15 18
+1104 29 07 00 15 15 15 15 15 15 15 18
+1104 29 09 00 15 15 15 15 15 15 15 18
+1104 29 11 00 15 15 15 15 15 15 15 18
+1104 29 15 00 15 15 15 15 15 15 15 18
+1104 29 19 00 15 15 15 15 15 15 15 18
+1104 29 31 00 15 15 15 15 15 15 15 18
+1104 29 35 00 15 15 15 15 15 15 15 18
+1104 29 39 00 15 15 15 15 15 15 15 18
+1104 29 51 00 15 15 15 15 15 15 15 18
+1104 29 55 00 15 15 15 15 15 15 15 18
+1104 29 59 00 15 15 15 15 15 15 15 18
+1104 29 81 00 15 15 15 15 15 15 15 18
+1104 29 85 00 15 15 15 15 15 15 15 18
+1104 29 89 00 15 15 15 15 15 15 15 18
+1104 30 10 00 15 15 15 15 15 15 15 18
+1104 30 90 00 15 15 15 15 15 15 15 18
+1105 10 00 00 15 15 15 15 15 15 18
+1105 20 00 00 18
+1106 10 00 01 0 0 0 0 0 0 0 0 0 0
+1106 10 00 02 0 0 0 0 0 0 0 0 0 0
+1106 20 10 00 0 0 0 0 0 0 0 0
+1106 20 90 00 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1106 30 10 00 0 0 0 0 0 0 0 0 0
+1106 30 90 00 0 0 0 0 0 0 0 0 0 0
+1107 10 11 00 0 0 0 18
+1107 10 19 00 0 0 0 18
+1107 10 91 00 0 0 0 18
+1107 10 99 00 0 0 0 18
+1107 20 00 00 0 0 0 18
+1108 11 00 00 18
+1108 12 00 00 18
+1108 13 00 00 18
+1108 14 00 00 14 14 14 14 14 14 18
+1108 19 10 00 14 14 14 14 14 14 18
+1108 19 90 00 14 14 14 14 14 14 18
+1108 20 00 00 0 14 14 14 14 14 14 18
+1109 00 00 00 14 14 14 14 14 14 14
+1201 00 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1201 00 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1202 10 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1202 10 90 01 0 0 0 0 0 0 0 0 0 0
+1202 10 90 99 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1202 20 00 01 0 0 0 0 0 0 0 0 0 0
+1202 20 00 99 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1203 00 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1204 00 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1204 00 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1205 10 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1205 10 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1205 90 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1206 00 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1206 00 91 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1206 00 99 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 10 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 10 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 20 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 20 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 30 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 30 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 40 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1207 40 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 50 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 50 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 60 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 60 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 91 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 91 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 99 20 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 99 91 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1207 99 98 01 0 0 0 0 0 0 0 0 0
+1207 99 98 99 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1208 10 00 01 0 0 0 0 0 0 0 0 0 0
+1208 10 00 99 0 0 0 0 0 0 0 0 0 0
+1208 90 00 00 0 0 0 0 0 0 0 0 0 0
+1209 10 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 21 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 22 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 22 80 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 23 11 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 23 15 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 23 80 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 24 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 25 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 25 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 26 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 29 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 29 50 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 29 60 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 29 80 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 30 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 91 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 91 30 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 91 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 99 10 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 99 91 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1209 99 99 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1210 10 00 00 0 5 5 5 5 5 0 5 5 0
+1210 20 10 00 0 5 5 5 5 5 0 5 5 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1210 20 90 00 0 5 5 5 5 5 0 5 5 0
+1211 10 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1211 20 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1211 30 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1211 40 00 00 0 0 0 0 0 0 0 0 0 0
+1211 90 30 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1211 90 97 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1211 90 97 99 0 0 0 0 0 0 0 0 0 0
+1212 10 10 00 0 0 0 0 0 0 0 0 0 0
+1212 10 91 00 0 0 0 0 0 0 0 0 0 0
+1212 10 99 00 0 0 0 0 0 0 0 0 0 0
+1212 20 00 00 0 0 0 0 0 0 0 0 0 0
+1212 30 00 00 0 0 0 0 0 0 0 0 0 0
+1212 91 20 00 10 10 10
+1212 91 80 00 10 20 20
+1212 99 20 00 0 0 0 0 0 0 0 0 0 0
+1212 99 80 00 0 0 0 0 0 0 0 0 0 0
+1213 00 00 00 0 0 0 0 0 0 0 0 0 0
+1214 10 00 00 0 0 0 0 0 0 0 0 0 0
+1214 90 10 00 0 0 0 0 0 0 0 0 0 0
+1214 90 90 00 0 0 0 0 0 0 0 0 0 0
+1301 10 00 00 0 0 0 0 0 0 0 0 0 0
+1301 20 00 00 0 0 0 0 0 0 0 0 0 0
+1301 90 10 00 0 0 0 0 0 0 0 0 0 0
+1301 90 90 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1301 90 90 02 0 0 0 0 0 0 0 0 0 0
+1301 90 90 99 0 0 0 0 0 0 0 0 0 0
+1302 11 00 00 0 0 0 0 0 0 0 0 0 0
+1302 12 00 00 0 0 0 0 0 0 0 0 0 0
+1302 13 00 00 0 0 0 0 0 0 0 0 0 0
+1302 14 00 00 0 0 0 0 0 0 0 0 0 0
+1302 19 05 01 0 0 0 0 0 0 0 0 0 0 0 0 0
+1302 19 05 02 0 0 0 0 0 0 0 0 0 0 0 0 0
+1302 19 05 03 0 0 0 0 0 0 0 0 0 0 0 0 0
+1302 19 05 99 0 0 0 0 0 0 0 0 0 0 0 0 0
+1302 19 30 00 0 0 0 0 0 0 0 0 0 0
+1302 19 91 00 0 0 0 0 0 0 0 0 0 0
+1302 19 98 00 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1302 20 10 00 0 0 0 0 0 0 0 0 0 0
+1302 20 90 00 0 0 0 0 0 0 0 0 0 0
+1302 31 00 00 0 0 0 0 0 0 0 0 0 0
+1302 32 10 00 0 0 0 0 0 0 0 0 0 0
+1302 32 90 00 0 0 0 0 0 0 0 0 0 0
+1302 39 00 00 0 0 0 0 0 0 0 0 0 0
+1401 10 00 01 0 0 0 0 0 0 0 0 0 0
+1401 10 00 99 0 0 0 0 0 0 0 0 0 0
+1401 20 00 00 0 0 0 0 0 0 0 0 0 0
+1401 90 00 01 0 0 0 0 0 0 0 0 0 0
+1401 90 00 02 0 0 0 0 0 0 0 0 0 0
+1401 90 00 99 0 0 0 0 0 0 0 0 0 0
+1402 00 00 01 0 0 0 0 0 0 0 0 0 0
+1402 00 00 02 0 0 0 0 0 0 0 0 0 0
+1402 00 00 99 0 0 0 0 0 0 0 0 0 0
+1403 00 00 00 0 0 0 0 0 0 0 0 0 0
+1404 10 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1404 20 00 00 0 0 0 0 0 0 0 0 0 0
+1404 90 00 01 0 0 0 0 0 0 0 0 0 0
+1404 90 00 02 0 0 0 0 0 0 0 0 0 0
+1404 90 00 03 0 0 0 0 0 0 0 0 0 0
+1404 90 00 99 0 0 0 0 0 0 0 0 0 0
+1501 00 11 00 0 0 0 0 0 0 0
+1501 00 19 00 0 0 0 0 0 0 0
+1501 00 90 00 0 0 0 0 0 0 0 0
+1502 00 10 01 0 0 0 0 0 0 0 0 0 0
+1502 00 10 99 0 0 0 0 0 0 0 0 0 0
+1502 00 90 01 0 0 0 0 0 0 0 0 0 0
+1502 00 90 99 0 0 0 0 0 0 0 0 0 0
+1503 00 11 00 0 0 0 0 0 0 0 0 0 0
+1503 00 19 00 0 0 0 0 0 0 0 0 0 0
+1503 00 30 00 0 0 0 0 0 0 0 0 0 0
+1503 00 90 00 0 0 0 0 0 0 0 0 0 0
+1504 10 10 01 0 0 0 0 0 0 0 0 0
+1504 10 10 99 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1504 10 91 01 0 0 0 0 0 0 0 0 0
+1504 10 91 99 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1504 10 99 01 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1504 10 99 99 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1504 20 10 00 0 0 0 0 0 0 0 0 0 0
+1504 20 90 01 0 0 0 0 0 0 0 0 0 0
+1504 20 90 99 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1504 30 10 00 0 0 0 0 0 0 0 0 0 0
+1504 30 90 01 0 0 0 0 0 0 0 0 0 0
+1504 30 90 99 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1505 00 10 00 0 0 0 0 0 0 0 0 0
+1505 00 90 00 0 0 0 0 0 0 0 0 0
+1506 00 00 00 0 0 0 0 0 0 0 0 0
+1507 10 10 00 0 0 0 0 0 0 0 0
+1507 10 90 00 0 0 0 0 0 0 0 0 23
+1507 90 10 00 0 0 0 0 0 0 0 0
+1507 90 90 00 0 0 0 0 0 0 0 0 27
+1508 10 10 00 0 0 0 0 0 0 0 0 0 0
+1508 10 90 00 0 0 0 0 0 0 0 0 0 0
+1508 90 10 00 0 0 0 0 0 0 0 0 0 0
+1508 90 90 00 0 0 0 0 0 0 0 0 0 0
+1509 10 10 00 0 0 0 0 0 0 0 0 0 0
+1509 10 90 00 0 0 0 0 0 0 0 0 0 0
+1509 90 00 00 0 0 0 0 0 0 0 0 0 0
+1510 00 10 00 0 0 0 0 0 0 0 0 0 0
+1510 00 90 00 0 0 0 0 0 0 0 0 0 0
+1511 10 10 00 0 0 0 0 0 0 0 0 0 0
+1511 10 90 00 0 0 0 0 0 0 0 0 0 0
+1511 90 11 00 0 0 0 0 0 0 0 0 0 0
+1511 90 19 00 0 0 0 0 0 0 0 0 0 0
+1511 90 91 00 0 0 0 0 0 0 0 0 0 0 0
+1511 90 99 00 0 0 0 0 0 0 0 0 0 0 0
+1512 11 10 00 15 15 15 0
+1512 11 91 00 15 15 15
+1512 11 99 00 0 15 15 15 0
+1512 19 10 00 20 20 20 0
+1512 19 90 01 0 20 20 20 20
+1512 19 90 02 0 20 20 20 0
+1512 21 10 00 0 0 0 0 0 0 0 0 0
+1512 21 90 00 0 0 0 0 0 0 0 0 0
+1512 29 10 00 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1512 29 90 00 0 0 0 0 0 0 0 0 0
+1513 11 10 00 0 0 0 0 0 0 0 0 0 0
+1513 11 91 00 0 0 0 0 0 0 0 0 0 0
+1513 11 99 00 0 0 0 0 0 0 0 0 0 0
+1513 19 11 00 0 0 0 0 0 0 0 0 0 0
+1513 19 19 00 0 0 0 0 0 0 0 0 0 0
+1513 19 30 00 0 0 0 0 0 0 0 0 0 0
+1513 19 91 00 0 0 0 0 0 0 0 0 0 0
+1513 19 99 00 0 0 0 0 0 0 0 0 0 0
+1513 21 10 00 0 0 0 0 0 0 0 0 0 0
+1513 21 30 00 0 0 0 0 0 0 0 0 0 0
+1513 21 90 00 0 0 0 0 0 0 0 0 0 0
+1513 29 11 00 0 0 0 0 0 0 0 0 0 0
+1513 29 19 00 0 0 0 0 0 0 0 0 0 0
+1513 29 30 00 0 0 0 0 0 0 0 0 0 0
+1513 29 50 00 0 0 0 0 0 0 0 0 0 0
+1513 29 90 00 0 0 0 0 0 0 0 0 0 0
+1514 11 10 00 15 15 15 13
+1514 11 90 00 15 15 15 13
+1514 19 10 00 20 20 20 13
+1514 19 90 00 20 20 20 13
+1514 91 10 00 15 15 15 13
+1514 91 90 00 15 15 15 13
+1514 99 10 00 20 20 20 13
+1514 99 90 00 20 20 20 13
+1515 11 00 00 0 0 0 0 0 0 0 0 0 0
+1515 19 10 00 0 0 0 0 0 0 0 0 0 0
+1515 19 90 00 0 0 0 0 0 0 0 0 0 0
+1515 21 10 00 0 0 0 0 0 0 0 0 0
+1515 21 90 00 0 0 0 0 0 0 0 0 0
+1515 29 10 00 0 0 0 0 0 0 0 0 0
+1515 29 90 00 0 0 0 0 0 0 0 0 0
+1515 30 10 01 0 0 0 0 0 0 0 0 0 0
+1515 30 10 02 0 0 0 0 0 0 0 0 0 0
+1515 30 90 01 0 0 0 0 0 0 0 0 0 0
+1515 30 90 02 0 0 0 0 0 0 0 0 0 0
+1515 40 00 01 0 0 0 0 0 0 0 0 0 0
+1515 40 00 99 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1515 50 11 00 0 0 0 0 0 0 0 0 0 0
+1515 50 19 00 0 0 0 0 0 0 0 0 0 0
+1515 50 91 00 0 0 0 0 0 0 0 0 0 0
+1515 50 99 00 0 0 0 0 0 0 0 0 0 0
+1515 90 15 01 0 0 0 0 0 0 0 0 0 0
+1515 90 15 99 0 0 0 0 0 0 0 0 0 0
+1515 90 21 00 0 0 0 0 0 0 0 0 0 0
+1515 90 29 00 0 0 0 0 0 0 0 0 0 0
+1515 90 31 00 0 0 0 0 0 0 0 0 0 0
+1515 90 39 00 0 0 0 0 0 0 0 0 0 0
+1515 90 40 00 0 0 0 0 0 0 0 0 0 0
+1515 90 51 00 0 0 0 0 0 0 0 0 0 0
+1515 90 59 00 0 0 0 0 0 0 0 0 0 0
+1515 90 60 00 0 0 0 0 0 0 0 0 0 0
+1515 90 91 00 0 0 0 0 0 0 0 0 0 0
+1515 90 99 00 0 0 0 0 0 0 0 0 0 0
+1516 10 10 01 0 0 0 0
+1516 10 10 02 0 0 0 0 0
+1516 10 10 99 0 0 0 0
+1516 10 90 01 0 0 0 0
+1516 10 90 02 0 0 0 0 0
+1516 10 90 99 0 0 0 0
+1516 20 10 00 0 0 0 0
+1516 20 91 00 0 0 0 0
+1516 20 95 00 0 0 0 0 0
+1516 20 96 00 0 0 0 0 0
+1516 20 98 00 0 0 0 0 0
+1517 10 10 00 20 20 20 20 20 20 20 20 27
+1517 10 90 00 20 20 20 20 20 20 20 20 27
+1517 90 10 00 20 20 20 20 20 20 20 20 27
+1517 90 91 00 20 20 20 20 20 20 20 20 27
+1517 90 93 00 20 20 20 20 20 20 20 20 27
+1517 90 99 00 20 20 20 20 20 20 20 20 27
+1518 00 10 00 0 0 0 0 0 0 0 0 0
+1518 00 31 00 0 0 0 0 0 0 0 0 0 0
+1518 00 39 00 0 0 0 0 0 0 0 0
+1518 00 91 00 0 0 0 0 0 0 0 0 0
+1518 00 95 00 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1518 00 99 01 0 0 0 0 0 0 0 0 0
+1518 00 99 99 0 0 0 0 0 0 0 0 0
+1520 00 00 00 0 0 0 0 0 0 0 0 0
+1521 10 00 00 0 0 0 0 0 0 0 0 0
+1521 90 10 00 0 0 0 0 0 0 0 0 0
+1521 90 91 00 0 0 0 0 0 0 0 0
+1521 90 99 00 0 0 0 0 0 0 0 0
+1522 00 10 00 0 0 0 0 0 0 0 0 0
+1522 00 31 00 0 0 0 0 0 0 0 0
+1522 00 39 00 0 0 0 0 0 0 0 0
+1522 00 91 00 0 0 0 0 0 0 0 0 0
+1522 00 99 00 0 0 0 0 0 0 0 0 0
+1601 00 10 00 0 15 15 15
+1601 00 91 00 15 15 15
+1601 00 99 00 15 15 15
+1602 10 00 00 15 15 15 15 15 15 15
+1602 20 11 00 0 15 15 15 15 15 15 15 27
+1602 20 19 00 0 15 15 15 15 15 15 15 27
+1602 20 90 00 15 15 15 15 15 15 15 27
+1602 31 11 00 0 15 15 15 15 15 0 15 15 0
+1602 31 19 00 0 15 15 15 15 15 0 15 15 0
+1602 31 30 00 0 15 15 15 15 15 0 15 15 0
+1602 31 90 00 0 15 15 15 15 15 0 15 15 0
+1602 32 11 00 15 15 15 15 15 0 15 15 27
+1602 32 19 00 0 15 15 15 15 15 0 15 15 27
+1602 32 30 00 15 15 15 15 15 0 15 15 27
+1602 32 90 00 15 15 15 15 15 0 15 15 27
+1602 39 21 00 15 15 15 15 15 0 15 15 27
+1602 39 29 00 0 15 15 15 15 15 0 15 15 27
+1602 39 40 00 0 15 15 15 15 15 0 15 15 27
+1602 39 80 00 0 15 15 15 15 15 0 15 15 27
+1602 41 10 00 15 15 15 27
+1602 41 90 00 0 15 15 15 27
+1602 42 10 00 15 15 15 15 15 15 15 27
+1602 42 90 00 0 15 15 15 15 15 15 15 27
+1602 49 11 00 15 15 15 15 15 15 15 27
+1602 49 13 00 15 15 15 15 15 15 15 27
+1602 49 15 00 15 15 15 15 15 15 15 27
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1602 49 19 00 15 15 15 15 15 15 15 27
+1602 49 30 00 15 15 15 15 15 15 15 27
+1602 49 50 00 15 15 15 15 15 15 15 27
+1602 49 90 00 0 15 15 15 15 15 15 15 27
+1602 50 10 00 18 18 18 18 18 18 18
+1602 50 31 00 18 18 18 18 18 18 18
+1602 50 39 00 18 18 18 18 18 18 18
+1602 50 80 00 18 18 18 18 18 18 18
+1602 90 10 00 0 15 15 15
+1602 90 31 00 0 15 15 15
+1602 90 41 00 0 15 15 15
+1602 90 51 00 15 15 15
+1602 90 61 00 15 15 15
+1602 90 69 00 0 15 15 15
+1602 90 72 00 0 15 15 15
+1602 90 74 00 0 15 15 15
+1602 90 76 00 0 15 15 15
+1602 90 78 00 0 15 15 15
+1602 90 98 00 0 15 15 15
+1603 00 10 01 0 0 0 0 0 0 0 0 0 0 0
+1603 00 10 99 0 0 0 0 0 0 0 0 0 0
+1603 00 80 01 0 0 0 0 0 0 0 0 0 0 0
+1603 00 80 02 0 0 0 0 0 0 0 0 0 0 0
+1603 00 80 99 0 0 0 0 0 0 0 0 0 0
+1604 11 00 00 0 0 0 0 0 0 0 0 0
+1604 12 10 00 0 0 0 0 0 0 0 0 0
+1604 12 91 00 0 0 0 0 0 0 0 0 0
+1604 12 99 00 0 0 0 0 0 0 0 0 0
+1604 13 11 00 0 0 0 0 0 0 0 0
+1604 13 19 00 0 0 0 0 0 0 0 0
+1604 13 90 00 0 0 0 0 0 0 0 0
+1604 14 11 00 0 0 0 0 0 0 0 0 0
+1604 14 16 00 0 0 0 0 0 0 0 0 0
+1604 14 18 00 0 0 0 0 0 0 0 0 0
+1604 14 90 00 0 0 0 0 0 0 0 0 0
+1604 15 11 00 0 0 0 0 0 0 0 0 0
+1604 15 19 00 0 0 0 0 0 0 0 0 0
+1604 15 90 00 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1604 16 00 00 0 0 0 0 0 0 0 0 0
+1604 19 10 00 0 0 0 0 0 0 0 0 0
+1604 19 31 00 0 0 0 0 0 0 0 0 0
+1604 19 39 00 0 0 0 0 0 0 0 0 0
+1604 19 50 00 0 0 0 0 0 0 0 0 0
+1604 19 91 00 0 0 0 0 0 0 0 0 0
+1604 19 92 00 0 0 0 0 0 0 0 0 0
+1604 19 93 00 0 0 0 0 0 0 0 0 0
+1604 19 94 00 0 0 0 0 0 0 0 0 0
+1604 19 95 00 0 0 0 0 0 0 0 0 0
+1604 19 98 00 0 0 0 0 0 0 0 0 0
+1604 20 05 00 0 0 0 0 0 0 0 0 0
+1604 20 10 00 0 0 0 0 0 0 0 0 0
+1604 20 30 00 0 0 0 0 0 0 0 0 0
+1604 20 40 00 0 0 0 0 0 0 0 0 0
+1604 20 50 00 0 0 0 0 0 0 0 0 0
+1604 20 70 00 0 0 0 0 0 0 0 0 0
+1604 20 90 00 0 0 0 0 0 0 0 0 0
+1604 30 10 00 0 0 0 0 0 0 0 0 0
+1604 30 90 00 0 0 0 0 0 0 0 0 0
+1605 10 00 00 0 0 0 0 0 0 0 0 0 0 0
+1605 20 10 00 0 0 0 0 0 0 0 0 0 0 0
+1605 20 91 00 0 0 0 0 0 0 0 0 0 0 0
+1605 20 99 00 0 0 0 0 0 0 0 0 0 0 0
+1605 30 10 00 0 0 0 0 0 0 0 0 0 0 0
+1605 30 90 00 0 0 0 0 0 0 0 0 0 0 0
+1605 40 00 00 0 0 0 0 0 0 0 0 0 0 0
+1605 90 11 00 0 0 0 0 0 0 0 0 0 0 0
+1605 90 19 00 0 0 0 0 0 0 0 0 0 0 0
+1605 90 30 00 0 0 0 0 0 0 0 0 0 0 0
+1605 90 90 00 0 0 0 0 0 0 0 0 0 0 0
+1702 11 00 00 20 20 20 20 20 20 20
+1702 19 00 00 20 20 20 20 20 20 20
+1702 20 10 00 0 0 0 0 0 0 0
+1702 20 90 00 0 0 0 0 0 0 0
+1702 30 10 00 40 40
+1702 30 51 00 40 40
+1702 30 59 00 40 40
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1702 30 91 00 40 40
+1702 30 99 00 40 40
+1702 40 10 00 40 40
+1702 40 90 00 40 40
+1702 50 00 00 0 30 40 40
+1702 60 10 00 30 30 30 30 30 30 30
+1702 60 80 00 30 30 30 30 30 30 30
+1702 60 95 00 30 30 30 30 30 30 30
+1702 90 10 00 0 30
+1702 90 30 00 30
+1702 90 60 00 30
+1702 90 80 00 30
+1702 90 99 00 30
+1703 10 00 01 0 14 14 14 14 14 14 14
+1703 10 00 99 0 14 14 14 14 14 14 14
+1703 90 00 01 0 14 14 14 14 14 14 14
+1703 90 00 99 0 14 14 14 14 14 14 14
+1704 10 11 00 34 12 12 12 12 12 12 12 27
+1704 10 19 00 34 12 12 12 12 12 12 12 27
+1704 10 91 00 34 12 12 12 12 12 12 12 27
+1704 10 99 00 34 12 12 12 12 12 12 12 27
+1704 90 10 00 34 12 12 12 12 12 12 12 27
+1704 90 30 00 25,6 12 12 12 12 12 12 12 27
+1704 90 51 00 25,6 12 12 12 12 12 12 12 27
+1704 90 55 00 25,6 12 12 12 12 12 12 12 27
+1704 90 61 00 25,6 12 12 12 12 12 12 12 27
+1704 90 65 00 25,6 12 12 12 12 12 12 12 27
+1704 90 71 00 25,6 12 12 12 12 12 12 12 27
+1704 90 75 00 25,6 12 12 12 12 12 12 12 27
+1704 90 81 00 25,6 12 12 12 12 12 12 12 27
+1704 90 99 00 25,6 12 12 12 12 12 12 12 27
+1801 00 00 00 0 0 0 0 0 0 0 0 0 0
+1802 00 00 00 0 0 0 0 0 0 0 0 0 0
+1803 10 00 00 0 0 0 0 0 0 0 0
+1803 20 00 00 0 0 0 0 0 0 0 0
+1804 00 00 00 0 0 0 0 0 0 0 0
+1805 00 00 01 0 0 0 0 0 0 0 0
+1805 00 00 99 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1806 10 15 00 21,3 12 12 12 12 12 12 12 18
+1806 10 20 00 21,3 12 12 12 12 12 12 12 18
+1806 10 30 00 21,3 12 12 12 12 12 12 12 18
+1806 10 90 00 21,3 12 12 12 12 12 12 12 18
+1806 20 10 01 5 10 10 10 10 10 0 10 10 0
+1806 20 10 99 15 10 10 10 10 10 10 10 18
+1806 20 30 01 5 10 10 10 10 10 0 10 10 0
+1806 20 30 99 15 10 10 10 10 10 10 10 18
+1806 20 50 01 5 10 10 10 10 10 0 10 10 0
+1806 20 50 99 15 10 10 10 10 10 10 10 18
+1806 20 70 00 15 10 10 10 10 10 10 10 18
+1806 20 80 00 15 10 10 10 10 10 10 10 18
+1806 20 95 01 5 10 10 10 10 10 0 10 10 0
+1806 20 95 02 5 10 10 10 10 10 10 10 0
+1806 20 95 99 15 10 10 10 10 10 10 10 18
+1806 31 00 01 5 10 5 5 0
+1806 31 00 99 15 23 10 10 27
+1806 32 10 01 5 10 5 5 0
+1806 32 10 02 5 10 5 5
+1806 32 10 99 15 23 10 10
+1806 32 90 01 5 10 5 5 0
+1806 32 90 02 5 10 5 5
+1806 32 90 99 15 23 10 10
+1806 90 11 00 15 23 10 10
+1806 90 19 01 5 10 5 5 0
+1806 90 19 99 15 23 10 10
+1806 90 31 01 5 10 5 5 10
+1806 90 31 99 15 23 10 10 20
+1806 90 39 01 5 10 5 5
+1806 90 39 99 15 23 10 10
+1806 90 50 01 5 10 5 5 0
+1806 90 50 99 15 23 10 10
+1806 90 60 01 5 10 5 5
+1806 90 60 99 15 23 10 10
+1806 90 70 01 5 10 5 5 0
+1806 90 70 99 15 23 10 10
+1806 90 90 01 5 10 5 5
+1806 90 90 99 15 23 10 10
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1901 10 00 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1901 10 00 02 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1901 10 00 99 0 0
+1901 20 00 00 0 20
+1901 90 11 00 0 20
+1901 90 19 00 0 20
+1901 90 91 00 0 20
+1901 90 99 00 16
+1902 11 00 00 17,5 20 20 20 20 20 20 20
+1902 19 10 00 17,5 20 20 20 20 20 20 20
+1902 19 90 00 17,5 20 20 20 20 20 20 20
+1902 20 10 00 0 23 10
+1902 20 30 00 17,5 23 10
+1902 20 91 00 17,5 23 10
+1902 20 99 00 17,5 23 10
+1902 30 10 00 17,5 23 20
+1902 30 90 00 17,5 23 20
+1902 40 10 00 17,5 0 0 0 0 0 0 0
+1902 40 90 00 17,5 0 0 0 0 0 0 0
+1903 00 00 01 0 0 0 0 0 0 0 0
+1903 00 00 99 0 0 0 0 0 0 0 0
+1904 10 10 00 0 23 18
+1904 10 30 00 0 23 20
+1904 10 90 00 0 23 20
+1904 20 10 00 0 6 6 6 6 6 6 6
+1904 20 91 00 0
+1904 20 95 00 0
+1904 20 99 00 0
+1904 30 00 00 0 7 7 7 7 7 7 7
+1904 90 10 00 0 7 7 7 7 7 7 7
+1904 90 80 00 0 7 7 7 7 7 7 7
+1905 10 00 00 25,6 7 7 7 7 7 7 7
+1905 20 10 00 25,6 7 7 7 7 7 7 7
+1905 20 30 00 25,6 7 7 7 7 7 7 7
+1905 20 90 00 25,6 7 7 7 7 7 7 7
+1905 31 11 01 5 0 0 0 0 0 0 0
+1905 31 11 99 25,6 0 0 0 0 0 0 0
+1905 31 19 01 5 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+1905 31 19 99 25,6 0 0 0 0 0 0 0
+1905 31 30 01 5 0 0 0 0 0 0 0
+1905 31 30 99 25,6 0 0 0 0 0 0 0
+1905 31 91 01 5 0 0 0 0 0 0 0
+1905 31 91 99 25,6 0 0 0 0 0 0 0
+1905 31 99 01 5 0 0 0 0 0 0 0
+1905 31 99 99 25,6 0 0 0 0 0 0 0
+1905 32 05 00 25,6 0 0 0 0 0 0 0
+1905 32 11 01 5 0 0 0 0 0 0 0
+1905 32 11 99 25,6 0 0 0 0 0 0 0
+1905 32 19 01 5 0 0 0 0 0 0 0
+1905 32 19 99 25,6 0 0 0 0 0 0 0
+1905 32 91 01 5 0 0 0 0 0 0 0
+1905 32 91 99 25,6 0 0 0 0 0 0 0
+1905 32 99 01 5 0 0 0 0 0 0 0
+1905 32 99 99 25,6 0 0 0 0 0 0 0
+1905 40 10 01 5 0 0 0 0 0 0 0
+1905 40 10 99 25,6 0 0 0 0 0 0 0
+1905 40 90 01 5 0 0 0 0 0 0 0
+1905 40 90 99 25,6 0 0 0 0 0 0 0
+1905 90 10 00 25,6 0 0 0 0 0 0 0
+1905 90 20 00 25,6 0 0 0 0 0 0 0
+1905 90 30 01 5 0 0 0 0 0 0 0
+1905 90 30 99 25,6 0 0 0 0 0 0 0
+1905 90 45 01 5 0 0 0 0 0 0 0
+1905 90 45 99 25,6 0 0 0 0 0 0 0
+1905 90 55 01 5 0 0 0 0 0 0 0
+1905 90 55 99 25,6 0 0 0 0 0 0 0
+1905 90 60 01 5 0 0 0 0 0 0 0
+1905 90 60 99 25,6 0 0 0 0 0 0 0
+1905 90 90 01 5 0 0 0 0 0 0 0
+1905 90 90 99 25,6 0 0 0 0 0 0 0
+2001 10 00 00 0 15 15 15 15 15 0 15 15
+2001 90 10 00 0 20 0 0
+2001 90 20 00 20
+2001 90 30 00 15 20 0
+2001 90 40 00 0 20 0
+2001 90 50 00 0 20
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2001 90 60 00 0 20 0
+2001 90 65 00 0 20 0
+2001 90 70 00 0 20 0
+2001 90 91 00 0 20 0
+2001 90 93 00 0 15 15 15 15 15 15 15
+2001 90 99 00 0 20 0
+2002 10 10 00 11 11 11 11 11 11 11
+2002 10 90 00 11 11 11 11 11 11 11
+2002 90 11 00 11 11 11 11 11 11 11
+2002 90 19 00 11 11 11 11 11 11 11
+2002 90 31 00 11 11 11 11 11 11 11
+2002 90 39 00 11 11 11 11 11 11 11
+2002 90 91 00 11 11 11 11 11 11 11
+2002 90 99 00 11 11 11 11 11 11 11
+2003 10 20 00 20 22 22 22,6 27
+2003 10 30 00 20 22 22 22,6 27
+2003 20 00 00 0 0 0 0 0 0 0 0 27
+2003 90 00 00 0 20 22 22 22,6 27
+2004 10 10 00 0 22 15 15 27
+2004 10 91 00 0 22 15 15 27
+2004 10 99 00 22 15 15 27
+2004 90 10 00 15 22 15 15
+2004 90 30 00 0 22 15 15
+2004 90 50 00 0 22 15 15
+2004 90 91 00 0 22 15 15
+2004 90 98 00 0 22 15 15
+2005 10 00 00 15 15 15 15 15 15 15
+2005 20 10 00 0 20 20 20 20 20 20 20 20 27
+2005 20 20 00 20 20 20 20 20 20 20 20 27
+2005 20 80 00 20 20 20 20 20 20 20 20 27
+2005 40 00 00 15 15 15 15 15 15 15
+2005 51 00 00 0 7 7 7 7 7 7 7
+2005 59 00 00 0 7 7 7 7 7 7 7
+2005 60 00 00 0 5 5 5 5 5 5 5
+2005 70 10 00 0 0 0 0 0 0 0 0 0
+2005 70 90 00 0 0 0 0 0 0 0 0 0
+2005 80 00 00 15 15 15 15 15 15 15 15
+2005 90 10 00 20
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2005 90 30 00 20
+2005 90 50 00 0 20
+2005 90 60 00 0 20
+2005 90 70 00 0 20
+2005 90 75 00 17 17 17 17 17 17 17
+2005 90 80 00 0 20
+2006 00 10 00 0 20 0 0 0 15 0
+2006 00 31 00 20 15 15 20 15
+2006 00 35 00 20 15 15 20 15
+2006 00 38 01 20 15 15 20 15
+2006 00 38 99 20 15 15 20 15
+2006 00 91 00 0 20 15 15 0 15
+2006 00 99 01 0 20 15 15 0 15
+2006 00 99 99 0 20 15 15 0 15
+2007 10 10 00 20 20 27
+2007 10 91 00 20 20 27
+2007 10 99 00 20 20 27
+2007 91 10 00 20 20 27
+2007 91 30 00 20 20 27
+2007 91 90 01 10 20
+2007 91 90 99 20 20 27
+2007 99 10 00 0 20 0 27
+2007 99 20 00 20 20 27
+2007 99 31 00 20 20 27
+2007 99 33 00 20 20 27
+2007 99 35 00 20 20 27
+2007 99 39 00 20 20 27
+2007 99 55 00 20 20 27
+2007 99 57 00 20 20 27
+2007 99 91 01 0 10 0
+2007 99 91 99 0 20 0
+2007 99 93 01 10 0
+2007 99 93 99 20 20
+2007 99 98 01 10 20
+2007 99 98 99 20 20
+2008 11 10 00 0 0 0 0 0 0 0 0
+2008 11 92 00 0 0 0 0 0 0 0 0
+2008 11 94 00 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2008 11 96 00 0 0 0 0 0 0 0 0
+2008 11 98 00 0 0 0 0 0 0 0 0
+2008 19 11 00 0 0 0 0 0 0 0 0 0 0
+2008 19 13 00 0 0 0 0 0 0 0 0 0 0
+2008 19 19 00 0 0 0 0 0 0 0 0 0
+2008 19 91 00 0 0 0 0 0 0 0 0 0 0
+2008 19 93 00 0 0 0 0 0 0 0 0 0
+2008 19 95 00 0 0 0 0 0 0 0 0 0
+2008 19 99 00 0 0 0 0 0 0 0 0 0
+2008 20 11 00 0 0 0 0 0 0 0
+2008 20 19 00 0 0 0 0 0 0 0 0
+2008 20 31 00 0 0 0 0 0 0 0 0
+2008 20 39 00 0 0 0 0 0 0 0 0
+2008 20 51 00 0 0 0 0 0 0 0 0
+2008 20 59 00 0 0 0 0 0 0 0 0
+2008 20 71 00 0 0 0 0 0 0 0 0
+2008 20 79 00 0 0 0 0 0 0 0 0
+2008 20 90 00 0 0 0 0 0 0 0 0
+2008 30 11 00 0 0 0 0 0 0 0 0
+2008 30 19 00 0 0 0 0 0 0 0
+2008 30 31 00 0 0 0 0 0 0 0 0
+2008 30 39 00 0 0 0 0 0 0 0 0
+2008 30 51 00 0 0 0 0 0 0 0 0
+2008 30 55 00 0 0 0 0 0 0 0 0
+2008 30 59 00 0 0 0 0 0 0 0 0
+2008 30 71 00 0 0 0 0 0 0 0 0
+2008 30 75 00 0 0 0 0 0 0 0 0
+2008 30 79 00 0 0 0 0 0 0 0 0
+2008 30 90 00 0 0 0 0 0 0 0 0
+2008 40 11 00 4 4 4 4 4 4 4
+2008 40 19 00 4 4 4 4 4 4 4
+2008 40 21 00 4 4 4 4 4 4 4
+2008 40 29 00 4 4 4 4 4 4 4
+2008 40 31 00 4 4 4 4 4 4 4
+2008 40 39 00 4 4 4 4 4 4 4
+2008 40 51 00 4 4 4 4 4 4 4
+2008 40 59 00 4 4 4 4 4 4 4
+2008 40 71 00 4 4 4 4 4 4 4
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2008 40 79 00 4 4 4 4 4 4 4
+2008 40 90 00 4 4 4 4 4 4 4
+2008 50 11 00 0 6 6 6 6 6 6 6
+2008 50 19 00 6 6 6 6 6 6 6
+2008 50 31 00 0 6 6 6 6 6 6 6
+2008 50 39 00 0 6 6 6 6 6 6 6
+2008 50 51 00 6 6 6 6 6 6 6
+2008 50 59 00 0 6 6 6 6 6 6 6
+2008 50 61 00 0 6 6 6 6 6 6 6
+2008 50 69 00 0 6 6 6 6 6 6 6
+2008 50 71 00 0 6 6 6 6 6 6 6
+2008 50 79 00 0 6 6 6 6 6 6 6
+2008 50 92 00 0 6 6 6 6 6 6 6
+2008 50 94 00 0 6 6 6 6 6 6 6
+2008 50 99 00 0 6 6 6 6 6 6 6
+2008 60 11 00 0 6 6 6 6 6 6 6
+2008 60 19 00 6 6 6 6 6 6 6
+2008 60 31 00 0 6 6 6 6 6 6 6
+2008 60 39 00 0 6 6 6 6 6 6 6
+2008 60 51 00 0 6 6 6 6 6 6 6
+2008 60 59 00 0 6 6 6 6 6 6 6
+2008 60 61 00 0 6 6 6 6 6 6 6
+2008 60 69 00 0 6 6 6 6 6 6 6
+2008 60 71 00 0 6 6 6 6 6 6 6
+2008 60 79 00 0 6 6 6 6 6 6 6
+2008 60 91 00 0 6 6 6 6 6 6 6
+2008 60 99 00 0 6 6 6 6 6 6 6
+2008 70 11 00 6 6 6 6 6 6 6
+2008 70 19 00 6 6 6 6 6 6 6
+2008 70 31 00 6 6 6 6 6 6 6
+2008 70 39 00 6 6 6 6 6 6 6
+2008 70 51 00 6 6 6 6 6 6 6
+2008 70 59 00 6 6 6 6 6 6 6
+2008 70 61 00 6 6 6 6 6 6 6
+2008 70 69 00 6 6 6 6 6 6 6
+2008 70 71 00 6 6 6 6 6 6 6
+2008 70 79 00 6 6 6 6 6 6 6
+2008 70 92 00 6 6 6 6 6 6 6
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2008 70 98 00 6 6 6 6 6 6 6
+2008 80 11 00 0 6 6 6 6 6 6 6
+2008 80 19 00 6 6 6 6 6 6 6
+2008 80 31 00 0 6 6 6 6 6 6 6
+2008 80 39 00 0 6 6 6 6 6 6 6
+2008 80 50 00 0 6 6 6 6 6 6 6
+2008 80 70 00 0 6 6 6 6 6 6 6
+2008 80 90 00 0 6 6 6 6 6 6 6
+2008 91 00 00 0 7 7 7 7 7 7 7
+2008 92 12 01 0 6 6 6 6 6 6 6
+2008 92 12 99 0 6 6 6 6 6 6 6
+2008 92 14 01 0 6 6 6 6 6 6 6
+2008 92 14 99 0 6 6 6 6 6 6 6
+2008 92 16 01 6 6 6 6 6 6 6
+2008 92 16 99 6 6 6 6 6 6 6
+2008 92 18 01 6 6 6 6 6 6 6
+2008 92 18 99 6 6 6 6 6 6 6
+2008 92 32 01 0 6 6 6 6 6 6 6
+2008 92 32 99 0 6 6 6 6 6 6 6
+2008 92 34 01 0 6 6 6 6 6 6 6
+2008 92 34 99 0 6 6 6 6 6 6 6
+2008 92 36 01 0 6 6 6 6 6 6 6
+2008 92 36 99 0 6 6 6 6 6 6 6
+2008 92 38 01 0 6 6 6 6 6 6 6
+2008 92 38 99 0 6 6 6 6 6 6 6
+2008 92 51 01 0 6 6 6 6 6 6 6
+2008 92 51 99 0 6 6 6 6 6 6 6
+2008 92 59 01 0 6 6 6 6 6 6 6
+2008 92 59 99 0 6 6 6 6 6 6 6
+2008 92 72 01 0 6 6 6 6 6 0 6 6
+2008 92 72 99 0 6 6 6 6 6 0 6 6
+2008 92 74 01 0 6 6 6 6 6 6 6
+2008 92 74 99 0 6 6 6 6 6 6 6
+2008 92 76 01 0 6 6 6 6 6 6 6
+2008 92 76 99 0 6 6 6 6 6 6 6
+2008 92 78 01 0 6 6 6 6 6 6 6
+2008 92 78 99 0 6 6 6 6 6 6 6
+2008 92 92 01 0 6 6 6 6 6 6 6
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2008 92 92 99 0 6 6 6 6 6 6 6
+2008 92 93 01 0 6 6 6 6 6 6 0
+2008 92 93 99 0 6 6 6 6 6 6 6
+2008 92 94 01 0 6 6 6 6 6 6 6
+2008 92 94 99 0 6 6 6 6 6 6 6
+2008 92 96 01 0 6 6 6 6 6 6 6
+2008 92 96 99 0 6 6 6 6 6 6 6
+2008 92 97 01 0 6 6 6 6 6 6 6
+2008 92 97 99 0 6 6 6 6 6 6 6
+2008 92 98 01 0 6 6 6 6 6 6 6
+2008 92 98 99 0 6 6 6 6 6 6 6
+2008 99 11 00 0 4 4 4 4 4 4 4
+2008 99 19 00 0 4 4 4 4 4 4 4
+2008 99 21 00 4 4 4 4 4 4 4
+2008 99 23 00 0 4 4 4 4 4 4 4
+2008 99 25 00 0 4 4 4 4 4 4 4
+2008 99 26 00 0 4 4 4 4 4 4 4
+2008 99 28 00 0 4 4 4 4 4 4 4
+2008 99 32 00 4 4 4 4 4 4 4
+2008 99 33 00 4 4 4 4 4 4 4
+2008 99 34 00 4 4 4 4 4 4 4
+2008 99 36 00 0 4 4 4 4 4 4 4
+2008 99 37 00 0 4 4 4 4 4 4 4
+2008 99 38 00 0 4 4 4 4 4 4 4
+2008 99 40 00 0 4 4 4 4 4 4 4
+2008 99 41 00 0 4 4 4 4 4 0 4 4
+2008 99 43 00 0 4 4 4 4 4 4 4
+2008 99 45 00 0 4 4 4 4 4 4 4
+2008 99 46 00 0 4 4 4 4 4 4 4
+2008 99 47 00 0 4 4 4 4 4 4 4
+2008 99 49 00 0 4 4 4 4 4 4 4
+2008 99 51 00 0 4 4 4 4 4 0 4 4
+2008 99 61 00 0 4 4 4 4 4 4 4
+2008 99 62 00 0 4 4 4 4 4 4 4
+2008 99 67 00 0 4 4 4 4 4 4 4
+2008 99 72 00 0 4 4 4 4 4 4 4
+2008 99 78 00 0 4 4 4 4 4 4 4
+2008 99 85 00 0 4 4 4 4 4 4 4
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2008 99 91 00 0 4 4 4 4 4 4 4
+2008 99 99 00 0 4 4 4 4 4 4 4
+2009 11 11 00 0 0 0 0 0 0 0 27
+2009 11 19 00 0 0 0 0 0 0 0 27
+2009 11 91 00 0 0 0 0 0 0 0 27
+2009 11 99 00 0 0 0 0 0 0 0 27
+2009 12 00 00 0 0 0 0 0 0 0 27
+2009 19 11 00 0 0 0 0 0 0 0 27
+2009 19 19 00 0 0 0 0 0 0 0 27
+2009 19 91 00 0 0 0 0 0 0 0 27
+2009 19 98 00 0 0 0 0 0 0 0 27
+2009 21 00 00 0 0 0 0 0 0 0 27
+2009 29 11 00 0 0 0 0 0 0 0 27
+2009 29 19 00 0 0 0 0 0 0 0 27
+2009 29 91 00 0 0 0 0 0 0 0 27
+2009 29 99 00 0 0 0 0 0 0 0 27
+2009 31 11 00 0 0 0 0 0 0 0 0 27
+2009 31 19 00 0 0 0 0 0 0 0 27
+2009 31 51 00 0 0 0 0 0 0 0 27
+2009 31 59 00 0 0 0 0 0 0 0 27
+2009 31 91 00 0 0 0 0 0 0 0 27
+2009 31 99 00 0 0 0 0 0 0 0 27
+2009 39 11 00 0 0 0 0 0 0 0 27
+2009 39 19 00 0 0 0 0 0 0 0 27
+2009 39 31 00 0 0 0 0 0 0 0 0 27
+2009 39 39 00 0 0 0 0 0 0 0 27
+2009 39 51 00 0 0 0 0 0 0 0 27
+2009 39 55 00 0 0 0 0 0 0 0 27
+2009 39 59 00 0 0 0 0 0 0 0 27
+2009 39 91 00 0 0 0 0 0 0 0 27
+2009 39 95 00 0 0 0 0 0 0 0 27
+2009 39 99 00 0 0 0 0 0 0 0 27
+2009 41 10 00 0 0 0 0 0 0 0 0 27
+2009 41 91 00 0 0 0 0 0 0 0 27
+2009 41 99 00 0 0 0 0 0 0 0 27
+2009 49 11 00 0 0 0 0 0 0 0 27
+2009 49 19 00 0 0 0 0 0 0 0 27
+2009 49 30 00 0 0 0 0 0 0 0 0 27
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2009 49 91 00 0 0 0 0 0 0 0 27
+2009 49 93 00 0 0 0 0 0 0 0 27
+2009 49 99 00 0 0 0 0 0 0 0 27
+2009 50 10 00 0 25 25 27
+2009 50 90 00 0 25 25 27
+2009 61 10 00 4 4 4 4 4 4 4 27
+2009 61 90 00 4 4 4 4 4 4 4 27
+2009 69 11 00 4 4 4 4 4 4 4 27
+2009 69 19 00 4 4 4 4 4 4 4 27
+2009 69 51 00 4 4 4 4 4 4 4 27
+2009 69 59 00 4 4 4 4 4 4 4 27
+2009 69 71 00 4 4 4 4 4 4 4 27
+2009 69 79 00 4 4 4 4 4 4 4 27
+2009 69 90 00 4 4 4 4 4 4 4 27
+2009 71 10 00 0 12 12 12 12 12 12 12 27
+2009 71 91 00 0 12 12 12 12 12 12 12 27
+2009 71 99 00 0 12 12 12 12 12 12 12 27
+2009 79 11 00 12 12 12 12 12 12 12 27
+2009 79 19 00 0 12 12 12 12 12 12 12 27
+2009 79 30 00 0 12 12 12 12 12 12 12 27
+2009 79 91 00 12 12 12 12 12 12 12 27
+2009 79 93 00 0 12 12 12 12 12 12 12 27
+2009 79 99 00 0 12 12 12 12 12 12 12 27
+2009 80 11 00 25 25 27
+2009 80 19 00 0 25 25 27
+2009 80 32 00 25 25 27
+2009 80 33 00 25 25 27
+2009 80 35 00 25 25 27
+2009 80 36 00 0 25 25 27
+2009 80 38 00 0 25 25 27
+2009 80 50 00 0 25 25 27
+2009 80 61 00 25 25 27
+2009 80 63 00 0 25 25 27
+2009 80 69 00 0 25 25 27
+2009 80 71 00 0 25 25 27
+2009 80 73 00 0 25 25 27
+2009 80 79 00 0 25 25 27
+2009 80 83 00 25 25 27
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2009 80 84 00 25 25 27
+2009 80 86 00 25 25 27
+2009 80 88 00 0 25 25 27
+2009 80 89 00 0 25 25 27
+2009 80 95 00 0 25 25 27
+2009 80 96 00 0 25 25 27
+2009 80 97 00 0 25 25 27
+2009 80 99 00 0 25 25 27
+2009 90 11 00 25 25 27
+2009 90 19 00 0 25 25 27
+2009 90 21 00 25 25 27
+2009 90 29 00 0 25 25 27
+2009 90 31 00 25 25 27
+2009 90 39 00 0 25 25 27
+2009 90 41 00 0 25 25 27
+2009 90 49 00 0 25 25 27
+2009 90 51 00 0 25 25 27
+2009 90 59 00 0 25 25 27
+2009 90 71 00 25 25 27
+2009 90 73 00 0 25 25 27
+2009 90 79 00 0 25 25 27
+2009 90 92 00 25 25 27
+2009 90 94 00 25 25 27
+2009 90 95 00 0 25 25 27
+2009 90 96 00 0 25 25 27
+2009 90 97 00 0 25 25 27
+2009 90 98 00 0 25 25 27
+2101 11 11 00 0 0 0 0 0 0 21 0 0 18
+2101 11 19 00 0 0 0 0 0 0 21 0 0 18
+2101 12 92 00 0 0 0 0 0 0 21 0 0
+2101 12 98 00 0 0 0 0 0 0 21 0 0
+2101 20 20 00 0 0 0 0 0 0 21 0 0 18
+2101 20 92 00 0 0 0 0 0 0 21 0 0 18
+2101 20 98 00 0 0 0 0 0 0 21 0 0 18
+2101 30 11 00 0 14 14 14 14 14 21 14 14 18
+2101 30 19 00 0 14 14 14 14 14 21 14 14 18
+2101 30 91 00 0 14 14 14 14 14 21 14 14 18
+2101 30 99 00 0 14 14 14 14 14 21 14 14 18
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2102 10 10 00 8,5 0 0 15
+2102 10 31 00 8,5 0 0 15
+2102 10 39 00 8,5 0 0 15
+2102 10 90 00 8,5 0 0 15
+2102 20 11 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2102 20 11 99 8,5 0 0 15
+2102 20 19 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2102 20 19 99 8,5 0 0 15
+2102 20 90 00 4,3 0 0
+2102 30 00 00 8,5 7 7 7 7 7 7 7 15
+2103 10 00 00 0 0 0 0 0 0 0 0 0 17
+2103 20 00 00 0 20 0 0 27
+2103 30 10 00 0 20 0 0 27
+2103 30 90 00 0 20 0 0 27
+2103 90 10 00 0 20 0 0 20 27
+2103 90 30 00 0 20 0 0 20 27
+2103 90 90 00 0 20 0 0 20 27
+2104 10 10 00 0 4 4 4 4 4 4 27
+2104 10 90 00 0 4 4 4 4 4 4 27
+2104 20 00 00 0 4 4 4 4 4 4 27
+2105 00 10 00 0 15 5
+2105 00 91 00 0 15 5
+2105 00 99 00 0 15 5
+2106 10 20 00 0 7 7 7 7 7 7 7
+2106 10 80 00 0 7 7 7 7 7 7 7
+2106 90 10 00 25,6 25 25
+2106 90 20 00 34
+2106 90 30 00 25 25
+2106 90 51 00 25 25
+2106 90 55 00 25 25
+2106 90 59 00 25 25
+2106 90 92 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2106 90 92 99 0 10 10
+2106 90 98 01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2106 90 98 99 25,6 25 25
+2201 10 11 00 8 0 0 0 0 0 0 0
+2201 10 19 00 8 0 0 0 0 0 0 0
+2201 10 90 00 8 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2201 90 00 00 8 0 0 0 0 0 0 0
+2202 10 00 00 0 19 19 19 19 19 19 19 27
+2202 90 10 00 0 10 10 10 10 10 10 10 27
+2202 90 91 00 0 10 10 10 10 10 10 10 27
+2202 90 95 00 0 10 10 10 10 10 10 10 27
+2202 90 99 00 0 10 10 10 10 10 10 10 27
+2203 00 01 00 34 27
+2203 00 09 00 34 27
+2203 00 10 00 34 27
+2204 10 11 00 27
+2204 10 19 00 27
+2204 10 91 00 27
+2204 10 99 00 27
+2204 21 10 00 27
+2204 21 11 00 27
+2204 21 12 00 27
+2204 21 13 00 27
+2204 21 17 00 27
+2204 21 18 00 27
+2204 21 19 00 27
+2204 21 22 00 27
+2204 21 24 00 27
+2204 21 26 00 27
+2204 21 27 00 27
+2204 21 28 00 27
+2204 21 32 00 27
+2204 21 34 00 27
+2204 21 36 00 27
+2204 21 37 00 27
+2204 21 38 00 27
+2204 21 42 00 27
+2204 21 43 00 27
+2204 21 44 00 27
+2204 21 46 00 27
+2204 21 47 00 27
+2204 21 48 00 27
+2204 21 62 00 27
+2204 21 66 00 27
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2204 21 67 00 27
+2204 21 68 00 27
+2204 21 69 00 27
+2204 21 71 00 27
+2204 21 74 00 27
+2204 21 76 00 27
+2204 21 77 00 27
+2204 21 78 00 27
+2204 21 79 00 27
+2204 21 80 00 27
+2204 21 81 00 27
+2204 21 82 00 27
+2204 21 83 00 27
+2204 21 84 00 27
+2204 21 87 00 27
+2204 21 88 00 27
+2204 21 89 00 27
+2204 21 91 00 27
+2204 21 92 00 27
+2204 21 93 00 27
+2204 21 94 01 27
+2204 21 94 99 27
+2204 21 95 00 27
+2204 21 96 00 27
+2204 21 97 00 27
+2204 21 98 01 27
+2204 21 98 99 27
+2204 21 99 01 27
+2204 21 99 99 27
+2204 29 10 00 27
+2204 29 12 00 27
+2204 29 13 00 27
+2204 29 18 00 27
+2204 29 42 00 27
+2204 29 43 00 27
+2204 29 44 00 27
+2204 29 46 00 27
+2204 29 47 00 27
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2204 29 48 00 27
+2204 29 58 00 27
+2204 29 62 00 27
+2204 29 64 00 27
+2204 29 65 00 27
+2204 29 71 00 27
+2204 29 72 00 27
+2204 29 75 00 27
+2204 29 81 00 27
+2204 29 82 00 27
+2204 29 83 00 27
+2204 29 84 00 27
+2204 29 87 00 27
+2204 29 88 00 27
+2204 29 89 00 27
+2204 29 91 00 27
+2204 29 92 00 27
+2204 29 93 00 27
+2204 29 94 01 27
+2204 29 94 99 27
+2204 29 95 00 27
+2204 29 96 00 27
+2204 29 97 00 27
+2204 29 98 01 27
+2204 29 98 99 27
+2204 29 99 01 27
+2204 29 99 99 27
+2204 30 10 00 27
+2204 30 92 00 27
+2204 30 94 00 27
+2204 30 96 00 27
+2204 30 98 00 27
+2205 10 10 00 42,5
+2205 10 90 00 42,5
+2205 90 10 00 42,5
+2205 90 90 00 42,5
+2207 10 00 00 63,8
+2207 20 00 00 51
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2208 20 12 00 34
+2208 20 14 00 34
+2208 20 26 00 34
+2208 20 27 00 34
+2208 20 29 00 34
+2208 20 40 00 34
+2208 20 62 00 34
+2208 20 64 00 34
+2208 20 86 00 34
+2208 20 87 00 34
+2208 30 11 00 34
+2208 30 19 00 34
+2208 30 32 00 34
+2208 30 38 00 34
+2208 30 58 00 34
+2208 30 72 00 34
+2208 30 78 00 34
+2208 30 82 00 34
+2208 30 88 00 34
+2208 40 11 00 34
+2208 40 31 00 34
+2208 40 39 00 34
+2208 40 51 00 34
+2208 40 91 00 34
+2208 40 99 00 34
+2208 50 11 00 34
+2208 50 19 00 34
+2208 50 91 00 34
+2208 50 99 00 34
+2208 60 11 00 34
+2208 60 19 00 34
+2208 60 91 00 34
+2208 60 99 00 34
+2208 70 10 00 34
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2208 70 90 00 34
+2208 90 11 00 34
+2208 90 19 00 34
+2208 90 33 00 34
+2208 90 38 00 34
+2208 90 41 00 34
+2208 90 45 00 34
+2208 90 48 00 34
+2208 90 52 00 34
+2208 90 54 00 34
+2208 90 56 00 34
+2208 90 69 00 34
+2208 90 71 00 34
+2208 90 75 00 34
+2208 90 77 00 34
+2208 90 78 00 34
+2208 90 91 00 34
+2208 90 99 00 34
+2209 00 11 00 20
+2209 00 19 00 20
+2209 00 91 00 20
+2209 00 99 00 20
+2301 10 00 00 0 0 0 0 0 0 0 0 0
+2301 20 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2302 10 10 00 0 0 0 0 0 0 0 0
+2302 10 90 00 0 0 0 0 0 0 0 0
+2302 20 10 00 0 0 0 0 0 0 0 0
+2302 20 90 00 0 0 0 0 0 0 0 0
+2302 30 10 00 0 0 0 0 0 0 0 0
+2302 30 90 00 0 0 0 0 0 0 0 0
+2302 40 10 00 0 0 0 0 0 0 0 0
+2302 40 90 00 0 0 0 0 0 0 0 0
+2302 50 00 00 0 0 0 0 0 0 0 0 0 0
+2303 10 11 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2303 10 19 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2303 10 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2303 20 11 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2303 20 18 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2303 20 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2303 30 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2304 00 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2305 00 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 10 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 20 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 30 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 41 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 49 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 50 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 60 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 70 00 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 90 11 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 90 19 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2306 90 90 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2307 00 11 00 0 0 0 0 0 0 0
+2307 00 19 00 0 0 0 0 0 0 0
+2307 00 90 00 0 0 0 0 0 0 0
+2308 00 11 00 0 0 0 0 0 0 0 0
+2308 00 19 00 0 0 0 0 0 0 0
+2308 00 40 00 0 0 0 0 0 0 0 0 0 0
+2308 00 90 00 0 0 0 0 0 0 0 0 0
+2309 10 11 00 0 0 0 0 0 0 0 0 0 0
+2309 10 13 00 0 0 0 0 0 0 0 0 0
+2309 10 15 00 0 0 0 0 0 0 0 0 0
+2309 10 19 00 0 0 0 0 0 0 0 0 0
+2309 10 31 00 0 0 0 0 0 0 0 0 0 0
+2309 10 33 00 0 0 0 0 0 0 0 0 0
+2309 10 39 00 0 0 0 0 0 0 0 0 0
+2309 10 51 00 0 0 0 0 0 0 0 0 0 0
+
+Vámtarifaszám
+Vámtétel %-ban
+EK EFTA Len. Cseh Szk. Szln. Rom. Izrael Török Észt Bolgár Lett Litván Horvát Jugo.
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.
+2309 10 53 00 0 0 0 0 0 0 0 0 0
+2309 10 59 00 0 0 0 0 0 0 0 0 0
+2309 10 70 00 0 0 0 0 0 0 0 0 0
+2309 10 90 00 0 0 0 0 0 0 0 0 0 0
+2309 90 10 00 0 0 0 0 0 0 0 0 0 0
+2309 90 20 00 0 0 0 0 0 0 0 0 0 0
+2309 90 31 00 0 0 0 0 0 0 0 0 0
+2309 90 33 00 0 0 0 0 0 0 0 0
+2309 90 35 00 0 0 0 0 0 0 0 0
+2309 90 39 00 0 0 0 0 0 0 0 0
+2309 90 41 00 0 0 0 0 0 0 0 0 0
+2309 90 43 00 0 0 0 0 0 0 0 0
+2309 90 49 00 0 0 0 0 0 0 0 0
+2309 90 51 00 0 0 0 0 0 0 0 0 0
+2309 90 53 00 0 0 0 0 0 0 0 0
+2309 90 59 00 0 0 0 0 0 0 0 0
+2309 90 70 00 0 0 0 0 0 0 0 0
+2309 90 91 00 0 0 0 0 0 0 0 0 0
+2309 90 95 00 0 0 0 0 0 0 0 0 0
+2309 90 99 00 0 0 0 0 0 0 0 0 0
+2402 10 00 00 24
+2402 20 10 00 28,8
+2402 20 90 00 28,8
+2402 90 00 00 28,8
+2403 10 10 00 28,8
+2403 10 90 00 28,8
+2403 91 00 00 28,8
+2403 99 10 00 28,8
+2403 99 90 00 28,8
+25—97. Árucsoport
+Az összes többi vámtarifaszámnál a kedvezményes vámtétel 0%.*
+* Kivéve a 24/2003. (XII. 4.) KüM—PM együttes rendelet mellékletében felsorolt vámtarifaszámoknál.
+
+5. számú melléklet a 28/2003. (XII. 21.) KüM—PM együttes rendelethez
+[6. számú melléklet a 64/1995. (XI. 24.) IKM—PM együttes rendelethez]
+A Kereskedelmi Vámtarifa egyes vámtarifaszámaihoz és árumegnevezéseihez kapcsolódó különleges
+mennyiségi egységek
+Vámtarifaszám
+Mennyiségi
+egység
+0101 10 10 00 db
+0101 10 90 00 db
+0101 90 11 00 db
+0101 90 19 00 db
+0101 90 30 00 db
+0101 90 90 00 db
+0102 10 10 00 db
+0102 10 30 00 db
+0102 10 90 00 db
+0102 90 05 00 db
+0102 90 21 00 db
+0102 90 29 00 db
+0102 90 41 00 db
+0102 90 49 00 db
+0102 90 51 00 db
+0102 90 59 00 db
+0102 90 61 00 db
+0102 90 69 00 db
+0102 90 71 00 db
+0102 90 79 00 db
+0102 90 90 00 db
+0103 10 00 00 db
+0103 91 10 00 db
+0103 91 90 00 db
+0103 92 11 00 db
+0103 92 19 00 db
+0103 92 90 00 db
+0104 10 10 00 db
+0104 10 30 00 db
+0104 10 80 00 db
+0104 20 10 00 db
+0104 20 90 00 db
+0105 11 11 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+0105 11 19 00 db
+0105 11 91 00 db
+0105 11 99 00 db
+0105 12 00 00 db
+0105 19 20 00 db
+0105 19 90 00 db
+0105 92 00 01 db
+0105 92 00 99 db
+0105 93 00 01 db
+0105 93 00 99 db
+0105 99 10 01 db
+0105 99 10 99 db
+0105 99 20 01 db
+0105 99 20 99 db
+0105 99 30 01 db
+0105 99 30 99 db
+0105 99 50 01 db
+0105 99 50 99 db
+0106 11 00 01 db
+0106 11 00 99 db
+0106 12 00 01 db
+0106 12 00 99 db
+0106 19 10 01 db
+0106 19 10 99 db
+0106 20 00 01 db
+0106 20 00 91 db
+0106 31 00 01 db
+0106 31 00 99 db
+0106 32 00 01 db
+0106 32 00 99 db
+0106 39 10 01 db
+0106 39 10 99 db
+0407 00 11 01 db
+0407 00 11 99 db
+Vámtarifaszám
+Mennyiségi
+egység
+0407 00 19 01 db
+0407 00 19 99 db
+0407 00 30 01 1000 db
+0407 00 30 99 1000 db
+0407 00 90 01 db
+0407 00 90 02 db
+0407 00 90 03 db
+0407 00 90 99 db
+0601 10 10 00 db
+0601 10 20 00 db
+0601 10 30 00 db
+0601 10 40 00 db
+0601 10 90 00 db
+0601 20 10 00 db
+0601 20 30 00 db
+0601 20 90 00 db
+0602 10 10 00 db
+0602 10 90 00 db
+0602 20 10 00 db
+0602 20 90 01 db
+0602 20 90 99 db
+0602 30 00 00 db
+0602 40 10 00 db
+0602 40 90 00 db
+0603 10 10 00 db
+0603 10 20 00 db
+0603 10 30 00 db
+0603 10 40 00 db
+0603 10 50 00 db
+0603 10 80 00 db
+0604 91 21 00 db
+0604 91 29 00 db
+0711 51 00 00
+kg/net
+eda*
+Vámtarifaszám
+Mennyiségi
+egység
+2001 10 00 00
+kg/net
+eda*
+2003 10 20 00
+kg/net
+eda*
+2003 10 30 00
+kg/net
+eda*
+2005 70 10 00
+kg/net
+eda*
+2005 70 90 00
+kg/net
+eda*
+2103 90 30 00 abs l*
+2106 90 20 00 abs l*
+2201 10 11 00 l
+2201 10 19 00 l
+2201 10 90 00 l
+2201 90 00 00 l
+2202 10 00 00 l
+2202 90 10 00 l
+2202 90 91 00 l
+2202 90 95 00 l
+2202 90 99 00 l
+2203 00 01 00 l
+2203 00 09 00 l
+2203 00 10 00 l
+2204 10 11 00 l
+2204 10 19 00 l
+2204 10 91 00 l
+2204 10 99 00 l
+2204 21 10 00 l
+2204 21 11 00 l
+2204 21 12 00 l
+2204 21 13 00 l
+2204 21 17 00 l
+2204 21 18 00 l
+2204 21 19 00 l
+2204 21 22 00 l
+
+Vámtarifaszám
+Mennyiségi
+egység
+2204 21 24 00 l
+2204 21 26 00 l
+2204 21 27 00 l
+2204 21 28 00 l
+2204 21 32 00 l
+2204 21 34 00 l
+2204 21 36 00 l
+2204 21 37 00 l
+2204 21 38 00 l
+2204 21 42 00 l
+2204 21 43 00 l
+2204 21 44 00 l
+2204 21 46 00 l
+2204 21 47 00 l
+2204 21 48 00 l
+2204 21 62 00 l
+2204 21 66 00 l
+2204 21 67 00 l
+2204 21 68 00 l
+2204 21 69 00 l
+2204 21 71 00 l
+2204 21 74 00 l
+2204 21 76 00 l
+2204 21 77 00 l
+2204 21 78 00 l
+2204 21 79 00 l
+2204 21 80 00 l
+2204 21 81 00 l
+2204 21 82 00 l
+2204 21 83 00 l
+2204 21 84 00 l
+2204 21 87 00 l
+2204 21 88 00 l
+2204 21 89 00 l
+2204 21 91 00 l
+2204 21 92 00 l
+2204 21 93 00 l
+2204 21 94 01 l
+2204 21 94 99 l
+2204 21 95 00 l
+Vámtarifaszám
+Mennyiségi
+egység
+2204 21 96 00 l
+2204 21 97 00 l
+2204 21 98 01 l
+2204 21 98 99 l
+2204 21 99 01 l
+2204 21 99 99 l
+2204 29 10 00 l
+2204 29 12 00 l
+2204 29 13 00 l
+2204 29 17 00 l
+2204 29 18 00 l
+2204 29 42 00 l
+2204 29 43 00 l
+2204 29 44 00 l
+2204 29 46 00 l
+2204 29 47 00 l
+2204 29 48 00 l
+2204 29 58 00 l
+2204 29 62 00 l
+2204 29 64 00 l
+2204 29 65 00 l
+2204 29 71 00 l
+2204 29 72 00 l
+2204 29 75 00 l
+2204 29 81 00 l
+2204 29 82 00 l
+2204 29 83 00 l
+2204 29 84 00 l
+2204 29 87 00 l
+2204 29 88 00 l
+2204 29 89 00 l
+2204 29 91 00 l
+2204 29 92 00 l
+2204 29 93 00 l
+2204 29 94 01 l
+2204 29 94 99 l
+2204 29 95 00 l
+2204 29 96 00 l
+2204 29 97 00 l
+2204 29 98 01 l
+Vámtarifaszám
+Mennyiségi
+egység
+2204 29 98 99 l
+2204 29 99 01 l
+2204 29 99 99 l
+2204 30 10 00 l
+2204 30 92 00 l
+2204 30 94 00 l
+2204 30 96 00 l
+2204 30 98 00 l
+2205 10 10 00 l
+2205 10 90 00 l
+2205 90 10 00 l
+2205 90 90 00 l
+2206 00 10 00 l
+2206 00 31 01 l
+2206 00 31 99 l
+2206 00 39 01 l
+2206 00 39 99 l
+2206 00 51 01 l
+2206 00 51 99 l
+2206 00 59 01 l
+2206 00 59 99 l
+2206 00 81 01 l
+2206 00 81 99 l
+2206 00 89 01 l
+2206 00 89 99 l
+2207 10 00 00 l
+2207 20 00 00 l
+2208 20 12 00 abs l*
+2208 20 14 00 abs l*
+2208 20 26 00 abs l*
+2208 20 27 00 abs l*
+2208 20 29 00 abs l*
+2208 20 40 00 abs l*
+2208 20 62 00 abs l*
+2208 20 64 00 abs l*
+2208 20 86 00 abs l*
+2208 20 87 00 abs l*
+2208 20 89 00 abs l*
+2208 30 11 00 abs l*
+2208 30 19 00 abs l*
+Vámtarifaszám
+Mennyiségi
+egység
+2208 30 32 00 abs l*
+2208 30 38 00 abs l*
+2208 30 52 00 abs l*
+2208 30 58 00 abs l*
+2208 30 72 00 abs l*
+2208 30 78 00 abs l*
+2208 30 82 00 abs l*
+2208 30 88 00 abs l*
+2208 40 11 00 abs l*
+2208 40 31 00 abs l*
+2208 40 39 00 abs l*
+2208 40 51 00 abs l*
+2208 40 91 00 abs l*
+2208 40 99 00 abs l*
+2208 50 11 00 abs l*
+2208 50 19 00 abs l*
+2208 50 91 00 abs l*
+2208 50 99 00 abs l*
+2208 60 11 00 abs l*
+2208 60 19 00 abs l*
+2208 60 91 00 abs l*
+2208 60 99 00 abs l*
+2208 70 10 00 abs l*
+2208 70 90 00 abs l*
+2208 90 11 00 abs l*
+2208 90 19 00 abs l*
+2208 90 33 00 abs l*
+2208 90 38 00 abs l*
+2208 90 41 00 abs l*
+2208 90 45 00 abs l*
+2208 90 48 00 abs l*
+2208 90 52 00 abs l*
+2208 90 54 00 abs l*
+2208 90 56 00 abs l*
+2208 90 69 00 abs l*
+2208 90 75 00 abs l*
+2208 90 77 00 abs l*
+2208 90 78 00 abs l*
+2208 90 91 00 abs l*
+2208 90 99 00 abs l*
+
+Vámtarifaszám
+Mennyiségi
+egység
+2209 00 11 00 l
+2209 00 19 00 l
+2209 00 91 00 l
+2209 00 99 00 l
+2402 10 00 00 1000 db
+2402 20 10 00 1000 db
+2402 20 90 00 1000 db
+2705 00 00 00 1000 m3
+2710 11 11 00 l
+2710 11 15 00 l
+2710 11 21 00 l
+2710 11 25 00 l
+2710 11 31 00 l
+2710 11 41 00 l
+2710 11 45 00 l
+2710 11 49 00 l
+2710 11 51 00 l
+2710 11 59 00 l
+2710 11 70 00 l
+2710 11 90 00 l
+2710 19 11 00 l
+2710 19 15 00 l
+2710 19 21 00 l
+2710 19 25 00 l
+2710 19 29 00 l
+2710 19 31 00 l
+2710 19 35 00 l
+2710 19 41 01 l
+2710 19 41 02 l
+2710 19 41 03 l
+2710 19 45 01 l
+2710 19 45 02 l
+2710 19 45 03 l
+2710 19 49 01 l
+2710 19 49 02 l
+2710 19 49 03 l
+2711 11 00 00 TJ*
+2711 21 00 00 TJ*
+2716 00 00 00
+
+kWh
+Vámtarifaszám
+Mennyiségi
+egység
+2804 10 00 00 m3*
+2804 21 00 00 m3*
+2804 29 10 00 m3*
+2804 29 90 00 m3*
+2804 30 00 00 m3*
+2804 40 00 00 m3*
+2809 10 00 00 kg P2O5*
+2809 20 00 01 kg P2O5*
+2809 20 00 99 kg P2O5*
+2815 12 00 00
+kg Na-
+OH*
+2815 20 90 00 kg KOH*
+2843 30 00 00 g
+2843 90 90 00 g
+2844 10 10 00 kgU*
+2844 10 30 01 kgU*
+2844 10 30 99 kgU*
+2844 10 50 00 kgU*
+2844 10 90 01 kgU*
+2844 10 90 99 kgU*
+2844 20 25 00 gi F/S*
+2844 20 35 00 gi F/S*
+2844 20 51 00 gi F/S*
+2844 20 59 00 gi F/S*
+2844 20 99 00 gi F/S*
+2844 50 00 00 gi F/s*
+2847 00 00 01
+kg
+H2O2*
+2847 00 00 99
+kg
+H2O2*
+2921 11 10 00
+kg met
+am*
+2937 11 00 00 gramm
+2937 12 00 00 gramm
+2937 19 00 00 gramm
+2937 21 00 00 gramm
+2937 22 00 00 gramm
+2937 23 00 00 gramm
+2937 29 00 00 gramm
+2937 31 00 00 gramm
+2937 39 00 00 gramm
+Vámtarifaszám
+Mennyiségi
+egység
+2937 40 00 00 gramm
+2937 50 00 00 gramm
+2937 90 00 00 gramm
+2939 91 11 00 gramm
+2939 91 19 00 gramm
+3102 10 10 00 kg N*
+3102 10 90 00 kg N*
+3102 21 00 00 kg N*
+3102 29 00 00 kg N*
+3102 30 10 00 kg N*
+3102 30 90 00 kg N*
+3102 40 10 00 kg N*
+3102 40 90 00 kg N*
+3102 50 10 01 kg N*
+3102 50 10 99 kg N*
+3102 50 90 01 kg N*
+3102 50 90 99 kg N*
+3102 70 00 01 kg N*
+3102 70 00 99 kg N*
+3102 80 00 00 kg N*
+3102 90 00 00 kg N*
+3103 10 10 00 kg P2O5*
+3103 10 90 00 kg P2O5*
+3103 20 00 00 kg P2O5*
+3103 90 00 00 kg P2O5*
+3104 10 00 00 kg K2O*
+3104 20 10 00 kg K2O*
+3104 20 50 00 kg K2O*
+3104 20 90 00 kg K2O*
+3104 30 00 00 kg K2O*
+3104 90 00 01 kg K2O*
+3104 90 00 99 kg K2O*
+3701 10 10 00 m2
+3701 10 90 00 m2
+3701 20 00 00 db
+3701 30 00 00 m2
+3701 99 00 00 m2
+3702 10 00 00 m2
+3702 20 00 00 db
+3702 31 10 00 m2
+Vámtarifaszám
+Mennyiségi
+egység
+3702 31 91 00 m2
+3702 31 99 00 m2
+3702 32 11 00 m2
+3702 32 19 00 m2
+3702 32 31 00 m2
+3702 32 51 00 m2
+3702 32 90 00 m2
+3702 39 00 01 m2
+3702 39 00 02 m2
+3702 39 00 03 m2
+3702 39 00 99 m2
+3702 41 00 00 m2
+3702 42 00 00 m2
+3702 43 00 00 m2
+3702 44 00 00 m2
+3702 51 00 00 db
+3702 53 00 00 db
+3702 54 10 00 db
+3702 54 90 00 db
+3702 55 00 00 m
+3702 93 90 00 db
+3702 94 90 00 m
+3706 10 10 01 m
+3706 10 10 02 m
+3706 10 91 01 m
+3706 10 91 02 m
+3706 10 99 01 m
+3706 10 99 99 m
+3706 90 10 00 m
+3706 90 31 00 m
+3706 90 51 00 m
+3706 90 91 00 m
+3706 90 99 00 m
+3918 10 10 01 m2
+3918 10 10 99 m2
+3918 10 90 01 m2
+3918 10 90 02 m2
+3918 10 90 99 m2
+3918 90 00 01 m2
+3918 90 00 02 m2
+
+Vámtarifaszám
+Mennyiségi
+egység
+3918 90 00 03 m2
+3918 90 00 04 m2
+3918 90 00 05 m2
+3918 90 00 06 m2
+3918 90 00 99 m2
+3925 20 00 00 db
+4008 21 10 00 m2
+4011 10 00 00 db
+4011 20 10 01 db
+4011 20 10 02 db
+4011 20 90 01 db
+4011 20 90 02 db
+4011 30 10 00 db
+4011 30 90 00 db
+4011 40 20 00 db
+4011 40 80 00 db
+4011 50 00 00 db
+4011 61 00 01 db
+4011 61 00 02 db
+4011 61 00 99 db
+4011 62 00 01 db
+4011 62 00 02 db
+4011 62 00 99 db
+4011 63 00 01 db
+4011 63 00 02 db
+4011 63 00 99 db
+4011 69 00 01 db
+4011 69 00 02 db
+4011 69 00 99 db
+4011 92 00 01 db
+4011 92 00 02 db
+4011 92 00 99 db
+4011 93 00 01 db
+4011 93 00 02 db
+4011 93 00 99 db
+4011 94 00 01 db
+4011 94 00 02 db
+4011 94 00 99 db
+4011 99 00 01 db
+4011 99 00 02 db
+Vámtarifaszám
+Mennyiségi
+egység
+4011 99 00 99 db
+4012 11 00 00 db
+4012 12 00 00 db
+4012 13 10 00 db
+4012 13 90 00 db
+4012 19 00 00 db
+4012 20 10 01 db
+4012 20 10 02 db
+4012 20 90 01 db
+4012 20 90 02 db
+4012 90 20 00 db
+4012 90 30 00 db
+4012 90 90 00 db
+4013 10 10 00 db
+4013 10 90 01 db
+4013 10 90 02 db
+4013 20 00 00 db
+4013 90 00 01 db
+4013 90 00 02 db
+4013 90 00 99 db
+4015 11 00 00 pár
+4015 19 10 00 pár
+4015 19 90 00 pár
+4101 20 10 01 db
+4101 20 10 99 db
+4101 20 30 01 db
+4101 20 30 99 db
+4101 20 50 01 db
+4101 20 50 99 db
+4101 20 90 01 db
+4101 20 90 99 db
+4101 50 10 01 db
+4101 50 10 99 db
+4101 50 30 01 db
+4101 50 30 99 db
+4101 50 50 01 db
+4101 50 50 99 db
+4101 50 90 01 db
+4101 50 90 99 db
+4102 10 10 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+4102 10 90 00 db
+4102 21 00 00 db
+4102 29 00 00 db
+4103 10 20 00 db
+4103 10 50 00 db
+4103 10 90 00 db
+4103 90 00 00 db
+4104 11 10 00 db
+4104 11 51 00 db
+4104 11 59 00 db
+4104 11 90 00 db
+4104 19 10 00 db
+4104 19 51 00 db
+4104 19 59 00 db
+4104 19 90 00 db
+4104 41 11 00 db
+4104 41 19 00 db
+4104 41 51 00 db
+4104 41 59 00 db
+4104 41 90 00 db
+4104 49 11 00 db
+4104 49 19 00 db
+4104 49 51 00 db
+4104 49 59 00 db
+4104 49 90 00 db
+4105 30 10 00 db
+4105 30 91 00 db
+4105 30 99 00 db
+4106 22 10 00 db
+4106 22 90 00 db
+4106 32 10 00 db
+4106 32 90 00 db
+4106 40 10 00 db
+4106 40 90 00 db
+4106 92 00 00 db
+4107 11 11 00 m2
+4107 11 19 01 m2
+4107 11 19 99 m2
+4107 11 90 00 m2
+4107 12 11 00 m2
+Vámtarifaszám
+Mennyiségi
+egység
+4107 12 19 01 m2
+4107 12 19 99 m2
+4107 12 91 01 m2
+4107 12 91 99 m2
+4107 12 99 01 m2
+4107 12 99 02 m2
+4107 12 99 99 m2
+4107 19 10 00 m2
+4107 19 90 01 m2
+4107 19 90 99 m2
+4107 91 10 00 m2
+4107 91 90 00 m2
+4107 92 10 00 m2
+4107 92 90 01 m2
+4107 92 90 99 m2
+4107 99 10 01 m2
+4107 99 10 99 m2
+4107 99 90 01 m2
+4107 99 90 02 m2
+4107 99 90 99 m2
+4112 00 00 01 m2
+4112 00 00 02 m2
+4112 00 00 99 m2
+4113 10 00 01 m2
+4113 10 00 02 m2
+4113 10 00 99 m2
+4113 20 00 01 m2
+4113 20 00 99 m2
+4113 30 00 00 m2
+4113 90 00 01 m2
+4113 90 00 02 m2
+4113 90 00 99 m2
+4114 10 10 00 db
+4114 10 90 00 db
+4114 20 00 01 m2
+4114 20 00 02 m2
+4114 20 00 99 m2
+4202 11 10 00 db
+4202 12 11 00 db
+4202 12 91 01 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+4202 12 91 99 db
+4202 21 00 01 db
+4202 21 00 99 db
+4202 22 10 00 db
+4202 22 90 01 db
+4202 22 90 99 db
+4202 29 00 00 db
+4203 21 00 01 pár
+4203 21 00 02 pár
+4203 29 10 01 pár
+4203 29 10 02 pár
+4203 29 91 01 pár
+4203 29 91 02 pár
+4203 29 99 01 pár
+4203 29 99 02 pár
+4301 10 00 00 db
+4301 30 00 00 db
+4301 60 00 00 db
+4301 70 10 00 db
+4301 70 90 00 db
+4301 80 30 00 db
+4301 80 50 00 db
+4302 11 00 01 db
+4302 11 00 02 db
+4302 13 00 01 db
+4302 13 00 02 db
+4302 19 10 01 db
+4302 19 10 02 db
+4302 19 20 01 db
+4302 19 20 02 db
+4302 19 30 01 db
+4302 19 30 02 db
+4302 19 35 01 db
+4302 19 35 02 db
+4302 19 41 01 db
+4302 19 41 02 db
+4302 19 49 01 db
+4302 19 49 02 db
+4302 19 50 01 db
+4302 19 50 02 db
+Vámtarifaszám
+Mennyiségi
+egység
+4302 19 60 01 db
+4302 19 60 02 db
+4302 19 70 01 db
+4302 19 70 02 db
+4302 19 80 01 db
+4302 19 80 02 db
+4302 30 21 00 db
+4302 30 25 00 db
+4302 30 31 00 db
+4302 30 41 00 db
+4302 30 45 00 db
+4302 30 51 00 db
+4302 30 55 00 db
+4302 30 61 00 db
+4302 30 71 00 db
+4403 10 00 01 m3
+4403 10 00 02 m3
+4403 20 11 00 m3
+4403 20 19 00 m3
+4403 20 31 00 m3
+4403 20 39 00 m3
+4403 20 91 00 m3
+4403 20 99 00 m3
+4403 41 00 00 m3
+4403 49 10 00 m3
+4403 49 20 00 m3
+4403 49 40 00 m3
+4403 49 95 00 m3
+4403 91 10 00 m3
+4403 91 90 00 m3
+4403 92 10 00 m3
+4403 92 90 00 m3
+4403 99 10 01 m3
+4403 99 10 99 m3
+4403 99 30 01 m3
+4403 99 30 99 m3
+4403 99 51 00 m3
+4403 99 59 00 m3
+4403 99 95 01 m3
+4403 99 95 99 m3
+Vámtarifaszám
+Mennyiségi
+egység
+4406 10 00 01 m3
+4406 10 00 99 m3
+4406 90 00 01 m3
+4406 90 00 99 m3
+4407 10 15 01 m3
+4407 10 15 99 m3
+4407 10 31 00 m3
+4407 10 33 00 m3
+4407 10 38 00 m3
+4407 10 91 01 m3
+4407 10 91 99 m3
+4407 10 93 01 m3
+4407 10 93 99 m3
+4407 10 98 01 m3
+4407 10 98 99 m3
+4407 24 30 00 m3
+4407 24 90 01 m3
+4407 24 90 99 m3
+4407 25 30 00 m3
+4407 25 90 01 m3
+4407 25 90 99 m3
+4407 26 30 00 m3
+4407 26 90 01 m3
+4407 26 90 99 m3
+4407 29 20 00 m3
+4407 29 30 00 m3
+4407 29 61 01 m3
+4407 29 61 99 m3
+4407 29 69 01 m3
+4407 29 69 99 m3
+4407 29 83 00 m3
+4407 29 95 01 m3
+4407 29 95 99 m3
+4407 91 31 00 m3
+4407 91 39 00 m3
+4407 91 90 01 m3
+4407 91 90 99 m3
+4407 92 00 01 m3
+4407 92 00 99 m3
+4407 99 30 00 m3
+Vámtarifaszám
+Mennyiségi
+egység
+4407 99 91 01 m3
+4407 99 91 99 m3
+4407 99 96 01 m3
+4407 99 96 99 m3
+4407 99 97 01 m3
+4407 99 97 99 m3
+4408 10 93 01 m3
+4408 10 93 99 m3
+4408 10 99 01 m3
+4408 10 99 99 m3
+4408 31 21 00 m3
+4408 31 30 01 m3
+4408 31 30 99 m3
+4408 39 21 00 m3
+4408 39 31 01 m3
+4408 39 31 99 m3
+4408 39 35 01 m3
+4408 39 35 99 m3
+4408 39 85 01 m3
+4408 39 85 99 m3
+4408 39 95 01 m3
+4408 39 95 99 m3
+4408 90 85 01 m3
+4408 90 85 99 m3
+4408 90 95 01 m3
+4408 90 95 99 m3
+4409 10 11 01 m
+4409 10 11 02 m
+4409 10 11 03 m
+4409 10 11 99 m
+4409 20 11 01 m
+4409 20 11 02 m
+4409 20 11 03 m
+4409 20 11 99 m
+4409 20 91 01 m2
+4409 20 91 02 m2
+4409 20 91 99 m2
+4410 21 00 00 m3
+4410 29 00 00 m3
+4410 31 00 00 m3
+
+Vámtarifaszám
+Mennyiségi
+egység
+4410 32 00 00 m3
+4410 33 00 00 m3
+4410 39 00 00 m3
+4410 90 00 01 m3
+4410 90 00 99 m3
+4411 11 10 00 m3
+4411 11 90 00 m3
+4411 19 10 00 m3
+4411 19 90 00 m3
+4411 21 10 00 m3
+4411 21 90 00 m3
+4411 29 10 00 m3
+4411 29 90 00 m3
+4411 31 10 00 m3
+4411 31 90 00 m3
+4411 39 10 00 m3
+4411 39 90 00 m3
+4411 91 00 00 m3
+4411 99 00 00 m3
+4412 13 10 00 m3
+4412 13 90 00 m3
+4412 14 00 00 m3
+4412 19 00 00 m3
+4412 22 10 00 m3
+4412 22 91 00 m3
+4412 22 99 00 m3
+4412 23 00 00 m3
+4412 29 20 00 m3
+4412 29 80 00 m3
+4412 92 10 00 m3
+4412 92 91 00 m3
+4412 92 99 00 m3
+4412 93 00 00 m3
+4412 99 20 00 m3
+4412 99 80 00 m3
+4413 00 00 00 m3
+4415 20 20 00 db
+4418 20 10 00 db
+4418 20 50 00 db
+4418 20 80 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+4418 30 10 00 m2
+4418 30 91 00 m2
+4418 30 99 00 m2
+4420 90 10 00 m3
+4421 10 00 00 db
+4701 00 10 00 kg 90%*
+4701 00 90 00 kg 90%*
+4702 00 00 00 kg 90%*
+4703 11 00 00 kg 90%*
+4703 19 00 00 kg 90%*
+4703 21 00 00 kg 90%*
+4703 29 00 00 kg 90%*
+4704 11 00 00 kg 90%*
+4704 19 00 00 kg 90%*
+4704 21 00 00 kg 90%*
+4704 29 00 00 kg 90%*
+4705 00 00 00 kg 90%*
+4706 20 00 00 kg 90%*
+4706 91 00 00 kg 90%*
+4706 92 00 00 kg 90%*
+4706 93 00 00 kg 90%*
+4815 00 00 00 m2
+4901 10 00 00 db
+4901 91 00 00 db
+4901 99 00 01 db
+4901 99 00 99 db
+4903 00 00 00 db
+4904 00 00 00 db
+4905 10 00 00 db
+4905 91 00 00 db
+4905 99 00 00 db
+5007 10 00 00 m2
+5007 20 11 00 m2
+5007 20 19 00 m2
+5007 20 21 01 m2
+5007 20 21 99 m2
+5007 20 31 01 m2
+5007 20 31 99 m2
+5007 20 39 01 m2
+5007 20 39 99 m2
+Vámtarifaszám
+Mennyiségi
+egység
+5007 20 41 01 m2
+5007 20 41 99 m2
+5007 20 51 01 m2
+5007 20 51 99 m2
+5007 20 59 01 m2
+5007 20 59 99 m2
+5007 20 61 01 m2
+5007 20 61 99 m2
+5007 20 69 01 m2
+5007 20 69 99 m2
+5007 20 71 01 m2
+5007 20 71 99 m2
+5007 90 10 01 m2
+5007 90 10 99 m2
+5007 90 30 01 m2
+5007 90 30 99 m2
+5007 90 50 01 m2
+5007 90 50 99 m2
+5007 90 90 01 m2
+5007 90 90 99 m2
+5111 11 00 00 m2
+5111 19 10 00 m2
+5111 19 90 00 m2
+5111 20 00 00 m2
+5111 30 10 00 m2
+5111 30 30 00 m2
+5111 30 90 00 m2
+5111 90 10 00 m2
+5111 90 91 00 m2
+5111 90 93 00 m2
+5111 90 99 00 m2
+5112 11 00 00 m2
+5112 19 10 00 m2
+5112 19 90 00 m2
+5112 20 00 00 m2
+5112 30 10 00 m2
+5112 30 30 00 m2
+5112 30 90 00 m2
+5112 90 10 00 m2
+5112 90 91 00 m2
+Vámtarifaszám
+Mennyiségi
+egység
+5112 90 93 00 m2
+5112 90 99 00 m2
+5113 00 00 00 m2
+5208 11 10 01 m2
+5208 11 10 02 m2
+5208 11 10 99 m2
+5208 11 90 01 m2
+5208 11 90 02 m2
+5208 11 90 99 m2
+5208 12 16 00 m2
+5208 12 19 00 m2
+5208 12 96 00 m2
+5208 12 99 00 m2
+5208 13 00 01 m2
+5208 13 00 99 m2
+5208 19 00 01 m2
+5208 19 00 99 m2
+5208 21 10 01 m2
+5208 21 10 99 m2
+5208 21 90 01 m2
+5208 21 90 99 m2
+5208 22 16 00 m2
+5208 22 19 00 m2
+5208 22 96 00 m2
+5208 22 99 00 m2
+5208 23 00 01 m2
+5208 23 00 99 m2
+5208 29 00 01 m2
+5208 29 00 99 m2
+5208 31 00 01 m2
+5208 31 00 99 m2
+5208 32 16 00 m2
+5208 32 19 00 m2
+5208 32 96 00 m2
+5208 32 99 00 m2
+5208 33 00 01 m2
+5208 33 00 99 m2
+5208 39 00 01 m2
+5208 39 00 99 m2
+5208 41 00 01 m2
+
+Vámtarifaszám
+Mennyiségi
+egység
+5208 41 00 99 m2
+5208 42 00 00 m2
+5208 43 00 01 m2
+5208 43 00 99 m2
+5208 49 00 01 m2
+5208 49 00 99 m2
+5208 51 00 01 m2
+5208 51 00 99 m2
+5208 52 10 00 m2
+5208 52 90 00 m2
+5208 53 00 01 m2
+5208 53 00 99 m2
+5208 59 00 01 m2
+5208 59 00 99 m2
+5209 11 00 00 m2
+5209 12 00 00 m2
+5209 19 00 00 m2
+5209 21 00 00 m2
+5209 22 00 00 m2
+5209 29 00 00 m2
+5209 31 00 00 m2
+5209 32 00 00 m2
+5209 39 00 00 m2
+5209 41 00 00 m2
+5209 42 00 00 m2
+5209 43 00 00 m2
+5209 49 10 00 m2
+5209 49 90 00 m2
+5209 51 00 00 m2
+5209 52 00 00 m2
+5209 59 00 00 m2
+5210 11 10 01 m2
+5210 11 10 99 m2
+5210 11 90 01 m2
+5210 11 90 99 m2
+5210 12 00 01 m2
+5210 12 00 99 m2
+5210 19 00 01 m2
+5210 19 00 99 m2
+5210 21 10 01 m2
+Vámtarifaszám
+Mennyiségi
+egység
+5210 21 10 99 m2
+5210 21 90 01 m2
+5210 21 90 99 m2
+5210 22 00 01 m2
+5210 22 00 99 m2
+5210 29 00 01 m2
+5210 29 00 99 m2
+5210 31 10 01 m2
+5210 31 10 99 m2
+5210 31 90 01 m2
+5210 31 90 99 m2
+5210 32 00 01 m2
+5210 32 00 99 m2
+5210 39 00 01 m2
+5210 39 00 99 m2
+5210 41 00 01 m2
+5210 41 00 99 m2
+5210 42 00 01 m2
+5210 42 00 99 m2
+5210 49 00 01 m2
+5210 49 00 99 m2
+5210 51 00 01 m2
+5210 51 00 99 m2
+5210 52 00 01 m2
+5210 52 00 99 m2
+5210 59 00 01 m2
+5210 59 00 99 m2
+5211 11 00 00 m2
+5211 12 00 00 m2
+5211 19 00 00 m2
+5211 21 00 00 m2
+5211 22 00 00 m2
+5211 29 00 00 m2
+5211 31 00 00 m2
+5211 32 00 00 m2
+5211 39 00 00 m2
+5211 41 00 00 m2
+5211 42 00 00 m2
+5211 43 00 00 m2
+5211 49 10 00 m2
+Vámtarifaszám
+Mennyiségi
+egység
+5211 49 90 00 m2
+5211 51 00 00 m2
+5211 52 00 00 m2
+5211 59 00 00 m2
+5212 11 10 01 m2
+5212 11 10 99 m2
+5212 11 90 01 m2
+5212 11 90 99 m2
+5212 12 10 01 m2
+5212 12 10 99 m2
+5212 12 90 01 m2
+5212 12 90 99 m2
+5212 13 10 01 m2
+5212 13 10 99 m2
+5212 13 90 01 m2
+5212 13 90 99 m2
+5212 14 10 01 m2
+5212 14 10 99 m2
+5212 14 90 01 m2
+5212 14 90 99 m2
+5212 15 10 01 m2
+5212 15 10 99 m2
+5212 15 90 01 m2
+5212 15 90 99 m2
+5212 21 10 00 m2
+5212 21 90 00 m2
+5212 22 10 00 m2
+5212 22 90 00 m2
+5212 23 10 00 m2
+5212 23 90 00 m2
+5212 24 10 00 m2
+5212 24 90 00 m2
+5212 25 10 00 m2
+5212 25 90 00 m2
+5309 11 10 00 m2
+5309 11 90 00 m2
+5309 19 00 00 m2
+5309 21 10 00 m2
+5309 21 90 00 m2
+5309 29 00 00 m2
+Vámtarifaszám
+Mennyiségi
+egység
+5310 10 10 00 m2
+5310 10 90 00 m2
+5310 90 00 00 m2
+5311 00 10 00 m2
+5311 00 90 01 m2
+5311 00 90 99 m2
+5407 10 00 00 m2
+5407 20 11 00 m2
+5407 20 19 00 m2
+5407 20 90 00 m2
+5407 30 00 00 m2
+5407 41 00 00 m2
+5407 42 00 00 m2
+5407 43 00 00 m2
+5407 44 00 00 m2
+5407 51 00 00 m2
+5407 52 00 00 m2
+5407 53 00 00 m2
+5407 54 00 00 m2
+5407 61 10 00 m2
+5407 61 30 00 m2
+5407 61 50 00 m2
+5407 61 90 00 m2
+5407 69 10 00 m2
+5407 69 90 00 m2
+5407 71 00 00 m2
+5407 72 00 00 m2
+5407 73 00 00 m2
+5407 74 00 00 m2
+5407 81 00 00 m2
+5407 82 00 00 m2
+5407 83 00 00 m2
+5407 84 00 00 m2
+5407 91 00 00 m2
+5407 92 00 00 m2
+5407 93 00 00 m2
+5407 94 00 00 m2
+5408 10 00 00 m2
+5408 21 00 00 m2
+5408 22 10 00 m2
+
+Vámtarifaszám
+Mennyiségi
+egység
+5408 22 90 00 m2
+5408 23 10 00 m2
+5408 23 90 00 m2
+5408 24 00 00 m2
+5408 31 00 00 m2
+5408 32 00 00 m2
+5408 33 00 00 m2
+5408 34 00 00 m2
+5512 11 00 00 m2
+5512 19 10 00 m2
+5512 19 90 00 m2
+5512 21 00 00 m2
+5512 29 10 00 m2
+5512 29 90 00 m2
+5512 91 00 00 m2
+5512 99 10 00 m2
+5512 99 90 00 m2
+5513 11 20 00 m2
+5513 11 90 00 m2
+5513 12 00 00 m2
+5513 13 00 00 m2
+5513 19 00 00 m2
+5513 21 10 00 m2
+5513 21 30 00 m2
+5513 21 90 00 m2
+5513 22 00 00 m2
+5513 23 00 00 m2
+5513 29 00 00 m2
+5513 31 00 00 m2
+5513 32 00 00 m2
+5513 33 00 00 m2
+5513 39 00 00 m2
+5513 41 00 00 m2
+5513 42 00 00 m2
+5513 43 00 00 m2
+5513 49 00 00 m2
+5514 11 00 00 m2
+5514 12 00 00 m2
+5514 13 00 00 m2
+5514 19 00 00 m2
+Vámtarifaszám
+Mennyiségi
+egység
+5514 21 00 00 m2
+5514 22 00 00 m2
+5514 23 00 00 m2
+5514 29 00 00 m2
+5514 31 00 00 m2
+5514 32 00 00 m2
+5514 33 00 00 m2
+5514 39 00 00 m2
+5514 41 00 00 m2
+5514 42 00 00 m2
+5514 43 00 00 m2
+5514 49 00 00 m2
+5515 11 10 00 m2
+5515 11 30 00 m2
+5515 11 90 00 m2
+5515 12 10 00 m2
+5515 12 30 00 m2
+5515 12 90 00 m2
+5515 13 11 00 m2
+5515 13 19 00 m2
+5515 13 91 00 m2
+5515 13 99 00 m2
+5515 19 10 00 m2
+5515 19 30 00 m2
+5515 19 90 00 m2
+5515 21 10 00 m2
+5515 21 30 00 m2
+5515 21 90 00 m2
+5515 22 11 00 m2
+5515 22 19 00 m2
+5515 22 91 00 m2
+5515 22 99 00 m2
+5515 29 10 00 m2
+5515 29 30 00 m2
+5515 29 90 00 m2
+5515 91 10 00 m2
+5515 91 30 00 m2
+5515 91 90 00 m2
+5515 92 11 00 m2
+5515 92 19 00 m2
+Vámtarifaszám
+Mennyiségi
+egység
+5515 92 91 00 m2
+5515 92 99 00 m2
+5515 99 10 00 m2
+5515 99 30 00 m2
+5515 99 90 00 m2
+5516 11 00 00 m2
+5516 12 00 00 m2
+5516 13 00 00 m2
+5516 14 00 00 m2
+5516 21 00 00 m2
+5516 22 00 00 m2
+5516 23 10 00 m2
+5516 23 90 00 m2
+5516 24 00 00 m2
+5516 31 00 00 m2
+5516 32 00 00 m2
+5516 33 00 00 m2
+5516 34 00 00 m2
+5516 41 00 00 m2
+5516 42 00 00 m2
+5516 43 00 00 m2
+5516 44 00 00 m2
+5516 91 00 00 m2
+5516 92 00 00 m2
+5516 93 00 00 m2
+5516 94 00 00 m2
+5701 10 10 01 m2
+5701 10 10 02 m2
+5701 10 91 01 m2
+5701 10 91 02 m2
+5701 10 93 01 m2
+5701 10 93 02 m2
+5701 10 99 01 m2
+5701 10 99 02 m2
+5701 90 10 01 m2
+5701 90 10 02 m2
+5701 90 90 01 m2
+5701 90 90 02 m2
+5702 10 00 00 m2
+5702 20 00 00 m2
+Vámtarifaszám
+Mennyiségi
+egység
+5702 31 00 00 m2
+5702 32 00 00 m2
+5702 39 10 00 m2
+5702 39 90 00 m2
+5702 41 00 00 m2
+5702 42 00 00 m2
+5702 49 10 00 m2
+5702 49 90 00 m2
+5702 51 00 00 m2
+5702 52 00 00 m2
+5702 59 00 00 m2
+5702 91 00 00 m2
+5702 92 00 00 m2
+5702 99 00 00 m2
+5703 10 00 01 m2
+5703 10 00 99 m2
+5703 20 11 01 m2
+5703 20 11 99 m2
+5703 20 19 01 m2
+5703 20 19 99 m2
+5703 20 91 01 m2
+5703 20 91 99 m2
+5703 20 99 01 m2
+5703 20 99 99 m2
+5703 30 11 01 m2
+5703 30 11 99 m2
+5703 30 19 01 m2
+5703 30 19 99 m2
+5703 30 51 01 m2
+5703 30 51 99 m2
+5703 30 59 01 m2
+5703 30 59 99 m2
+5703 30 91 01 m2
+5703 30 91 99 m2
+5703 30 99 01 m2
+5703 30 99 99 m2
+5703 90 00 01 m2
+5703 90 00 99 m2
+5704 10 00 00 m2
+5704 90 00 00 m2
+
+Vámtarifaszám
+Mennyiségi
+egység
+5705 00 10 01 m2
+5705 00 10 99 m2
+5705 00 30 01 m2
+5705 00 30 99 m2
+5705 00 90 01 m2
+5705 00 90 99 m2
+5801 10 00 01 m2
+5801 10 00 02 m2
+5801 10 00 03 m2
+5801 10 00 99 m2
+5801 21 00 01 m2
+5801 21 00 02 m2
+5801 21 00 99 m2
+5801 22 00 01 m2
+5801 22 00 99 m2
+5801 23 00 01 m2
+5801 23 00 99 m2
+5801 24 00 01 m2
+5801 24 00 99 m2
+5801 25 00 01 m2
+5801 25 00 99 m2
+5801 26 00 01 m2
+5801 26 00 99 m2
+5801 31 00 01 m2
+5801 31 00 02 m2
+5801 31 00 99 m2
+5801 32 00 01 m2
+5801 32 00 99 m2
+5801 33 00 01 m2
+5801 33 00 99 m2
+5801 34 00 01 m2
+5801 34 00 99 m2
+5801 35 00 01 m2
+5801 35 00 99 m2
+5801 36 00 01 m2
+5801 36 00 99 m2
+5801 90 10 00 m2
+5801 90 90 01 m2
+5801 90 90 02 m2
+5801 90 90 03 m2
+Vámtarifaszám
+Mennyiségi
+egység
+5801 90 90 04 m2
+5801 90 90 99 m2
+5802 11 00 01 m2
+5802 11 00 02 m2
+5802 11 00 99 m2
+5802 19 00 01 m2
+5802 19 00 02 m2
+5802 19 00 99 m2
+5802 20 00 01 m2
+5802 20 00 99 m2
+5802 30 00 01 m2
+5802 30 00 02 m2
+5802 30 00 03 m2
+5802 30 00 99 m2
+5803 10 00 00 m2
+5803 90 10 01 m2
+5803 90 10 99 m2
+5803 90 30 00 m2
+5803 90 50 00 m2
+5803 90 90 01 m2
+5803 90 90 02 m2
+5803 90 90 99 m2
+5805 00 00 00 db
+5811 00 00 01 m2
+5811 00 00 02 m2
+5811 00 00 03 m2
+5811 00 00 04 m2
+5811 00 00 05 m2
+5811 00 00 06 m2
+5811 00 00 07 m2
+5811 00 00 99 m2
+5901 10 00 00 m2
+5901 90 00 00 m2
+5902 10 10 00 m2
+5902 10 90 01 m2
+5902 10 90 99 m2
+5902 20 10 00 m2
+5902 20 90 01 m2
+5902 20 90 99 m2
+5902 90 10 00 m2
+Vámtarifaszám
+Mennyiségi
+egység
+5902 90 90 01 m2
+5902 90 90 99 m2
+5903 10 10 00 m2
+5903 10 90 00 m2
+5903 20 10 00 m2
+5903 20 90 00 m2
+5903 90 10 00 m2
+5903 90 91 00 m2
+5903 90 99 00 m2
+5904 10 00 00 m2
+5904 90 00 00 m2
+5905 00 10 01 m2
+5905 00 10 02 m2
+5905 00 10 03 m2
+5905 00 10 04 m2
+5905 00 10 05 m2
+5905 00 10 06 m2
+5905 00 10 07 m2
+5905 00 10 99 m2
+5905 00 30 00 m2
+5905 00 50 00 m2
+5905 00 70 00 m2
+5905 00 90 01 m2
+5905 00 90 02 m2
+5905 00 90 03 m2
+5905 00 90 04 m2
+5905 00 90 05 m2
+5905 00 90 06 m2
+5905 00 90 07 m2
+5905 00 90 99 m2
+5907 00 10 00 m2
+5907 00 90 01 m2
+5907 00 90 02 m2
+5907 00 90 99 m2
+5911 31 11 00 m2
+6001 10 00 01 m2
+6001 10 00 99 m2
+6001 21 00 01 m2
+6001 21 00 99 m2
+6001 22 00 01 m2
+Vámtarifaszám
+Mennyiségi
+egység
+6001 22 00 99 m2
+6001 29 10 01 m2
+6001 29 10 99 m2
+6001 29 90 01 m2
+6001 29 90 99 m2
+6001 91 10 01 m2
+6001 91 10 99 m2
+6001 91 30 01 m2
+6001 91 30 99 m2
+6001 91 50 01 m2
+6001 91 50 99 m2
+6001 91 90 01 m2
+6001 91 90 99 m2
+6001 92 10 01 m2
+6001 92 10 99 m2
+6001 92 30 01 m2
+6001 92 30 99 m2
+6001 92 50 01 m2
+6001 92 50 99 m2
+6001 92 90 01 m2
+6001 92 90 99 m2
+6001 99 10 01 m2
+6001 99 10 99 m2
+6001 99 90 01 m2
+6001 99 90 99 m2
+6101 10 10 00 db
+6101 10 90 00 db
+6101 20 10 00 db
+6101 20 90 00 db
+6101 30 10 00 db
+6101 30 90 00 db
+6101 90 10 00 db
+6101 90 90 00 db
+6102 10 10 00 db
+6102 10 90 00 db
+6102 20 10 00 db
+6102 20 90 00 db
+6102 30 10 00 db
+6102 30 90 00 db
+6102 90 10 00 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+6102 90 90 00 db
+6103 11 00 00 db
+6103 12 00 00 db
+6103 19 00 00 db
+6103 21 00 00 db
+6103 22 00 00 db
+6103 23 00 00 db
+6103 29 00 00 db
+6103 31 00 00 db
+6103 32 00 00 db
+6103 33 00 00 db
+6103 39 00 00 db
+6103 41 10 00 db
+6103 41 90 00 db
+6103 42 10 00 db
+6103 42 90 00 db
+6103 43 10 00 db
+6103 43 90 00 db
+6103 49 10 00 db
+6103 49 91 00 db
+6103 49 99 00 db
+6104 11 00 00 db
+6104 12 00 00 db
+6104 13 00 00 db
+6104 19 00 00 db
+6104 21 00 00 db
+6104 22 00 00 db
+6104 23 00 00 db
+6104 29 00 00 db
+6104 31 00 00 db
+6104 32 00 00 db
+6104 33 00 00 db
+6104 39 00 00 db
+6104 41 00 00 db
+6104 42 00 00 db
+6104 43 00 00 db
+6104 44 00 00 db
+6104 49 00 00 db
+6104 51 00 00 db
+6104 52 00 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+6104 53 00 00 db
+6104 59 00 00 db
+6104 61 10 00 db
+6104 61 90 00 db
+6104 62 10 00 db
+6104 62 90 00 db
+6104 63 10 00 db
+6104 63 90 00 db
+6104 69 10 00 db
+6104 69 91 00 db
+6104 69 99 00 db
+6105 10 00 00 db
+6105 20 10 00 db
+6105 20 90 00 db
+6105 90 10 00 db
+6105 90 90 00 db
+6106 10 00 00 db
+6106 20 00 00 db
+6106 90 10 00 db
+6106 90 30 00 db
+6106 90 50 00 db
+6106 90 90 00 db
+6107 11 00 00 db
+6107 12 00 00 db
+6107 19 00 00 db
+6107 21 00 00 db
+6107 22 00 00 db
+6107 29 00 00 db
+6107 91 10 00 db
+6107 91 90 00 db
+6107 92 00 00 db
+6107 99 00 00 db
+6108 11 00 00 db
+6108 19 00 00 db
+6108 21 00 00 db
+6108 22 00 00 db
+6108 29 00 00 db
+6108 31 10 00 db
+6108 31 90 00 db
+6108 32 11 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+6108 32 19 00 db
+6108 32 90 00 db
+6108 39 00 00 db
+6108 91 10 00 db
+6108 91 90 00 db
+6108 92 00 00 db
+6108 99 10 00 db
+6108 99 90 00 db
+6109 10 00 00 db
+6109 90 10 00 db
+6109 90 30 00 db
+6109 90 90 00 db
+6110 11 10 00 db
+6110 11 30 00 db
+6110 11 90 00 db
+6110 12 10 00 db
+6110 12 90 00 db
+6110 19 10 00 db
+6110 19 90 00 db
+6110 20 10 00 db
+6110 20 91 00 db
+6110 20 99 00 db
+6110 30 10 00 db
+6110 30 91 00 db
+6110 30 99 00 db
+6110 90 10 00 db
+6110 90 90 00 db
+6111 10 10 00 pár
+6111 20 10 00 pár
+6111 30 10 00 pár
+6111 90 00 01 pár
+6112 11 00 00 db
+6112 12 00 00 db
+6112 19 00 00 db
+6112 20 00 00 db
+6112 31 10 01 db
+6112 31 10 99 db
+6112 31 90 01 db
+6112 31 90 99 db
+6112 39 10 01 db
+Vámtarifaszám
+Mennyiségi
+egység
+6112 39 10 99 db
+6112 39 90 01 db
+6112 39 90 99 db
+6112 41 10 01 db
+6112 41 10 99 db
+6112 41 90 01 db
+6112 41 90 99 db
+6112 49 10 01 db
+6112 49 10 99 db
+6112 49 90 01 db
+6112 49 90 99 db
+6113 00 10 01 db
+6113 00 10 99 db
+6113 00 90 01 db
+6113 00 90 99 db
+6115 11 00 01 db
+6115 11 00 99 db
+6115 12 00 01 db
+6115 12 00 99 db
+6115 19 00 01 db
+6115 19 00 99 db
+6115 20 11 00 pár
+6115 20 19 00 pár
+6115 20 90 00 pár
+6115 91 00 01 pár
+6115 91 00 99 pár
+6115 92 00 01 pár
+6115 92 00 99 pár
+6115 93 10 00 pár
+6115 93 30 01 pár
+6115 93 30 99 pár
+6115 93 91 00 pár
+6115 93 99 01 pár
+6115 93 99 99 pár
+6115 99 00 01 pár
+6115 99 00 99 pár
+6116 10 20 00 pár
+6116 10 80 00 pár
+6116 91 00 00 pár
+6116 92 00 00 pár
+
+Vámtarifaszám
+Mennyiségi
+egység
+6116 93 00 00 pár
+6116 99 00 00 pár
+6201 11 00 01 db
+6201 11 00 99 db
+6201 12 10 01 db
+6201 12 10 99 db
+6201 12 90 01 db
+6201 12 90 99 db
+6201 13 10 00 db
+6201 13 90 00 db
+6201 19 00 00 db
+6201 91 00 00 db
+6201 92 00 00 db
+6201 93 00 00 db
+6201 99 00 00 db
+6202 11 00 00 db
+6202 12 10 00 db
+6202 12 90 00 db
+6202 13 10 00 db
+6202 13 90 00 db
+6202 19 00 00 db
+6202 91 00 00 db
+6202 92 00 00 db
+6202 93 00 00 db
+6202 99 00 00 db
+6203 11 00 00 db
+6203 12 00 00 db
+6203 19 10 00 db
+6203 19 30 00 db
+6203 19 90 00 db
+6203 21 00 00 db
+6203 22 10 00 db
+6203 22 80 00 db
+6203 23 10 00 db
+6203 23 80 00 db
+6203 29 11 00 db
+6203 29 18 00 db
+6203 29 90 00 db
+6203 31 00 00 db
+6203 32 10 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+6203 32 90 00 db
+6203 33 10 00 db
+6203 33 90 00 db
+6203 39 11 00 db
+6203 39 19 00 db
+6203 39 90 00 db
+6203 41 10 00 db
+6203 41 30 00 db
+6203 41 90 00 db
+6203 42 11 00 db
+6203 42 31 00 db
+6203 42 33 00 db
+6203 42 35 00 db
+6203 42 51 00 db
+6203 42 59 00 db
+6203 42 90 00 db
+6203 43 11 00 db
+6203 43 19 00 db
+6203 43 31 00 db
+6203 43 39 00 db
+6203 43 90 00 db
+6203 49 11 00 db
+6203 49 19 00 db
+6203 49 31 00 db
+6203 49 39 00 db
+6203 49 50 00 db
+6203 49 90 00 db
+6204 11 00 00 db
+6204 12 00 00 db
+6204 13 00 00 db
+6204 19 10 00 db
+6204 19 90 01 db
+6204 19 90 99 db
+6204 21 00 00 db
+6204 22 10 00 db
+6204 22 80 00 db
+6204 23 10 00 db
+6204 23 80 00 db
+6204 29 11 00 db
+6204 29 18 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+6204 29 90 01 db
+6204 29 90 99 db
+6204 31 00 00 db
+6204 32 10 00 db
+6204 32 90 00 db
+6204 33 10 00 db
+6204 33 90 00 db
+6204 39 11 00 db
+6204 39 19 00 db
+6204 39 90 00 db
+6204 41 00 00 db
+6204 42 00 00 db
+6204 43 00 00 db
+6204 44 00 00 db
+6204 49 10 01 db
+6204 49 10 02 db
+6204 49 90 00 db
+6204 51 00 00 db
+6204 52 00 00 db
+6204 53 00 00 db
+6204 59 10 00 db
+6204 59 90 00 db
+6204 61 10 00 db
+6204 61 80 00 db
+6204 61 90 00 db
+6204 62 11 00 db
+6204 62 31 00 db
+6204 62 33 00 db
+6204 62 39 00 db
+6204 62 51 00 db
+6204 62 59 00 db
+6204 62 90 00 db
+6204 63 11 00 db
+6204 63 18 00 db
+6204 63 31 00 db
+6204 63 39 00 db
+6204 63 90 00 db
+6204 69 11 00 db
+6204 69 18 00 db
+6204 69 31 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+6204 69 39 00 db
+6204 69 50 00 db
+6204 69 90 00 db
+6205 10 00 00 db
+6205 20 00 00 db
+6205 30 00 00 db
+6205 90 10 00 db
+6205 90 90 00 db
+6206 10 00 00 db
+6206 20 00 00 db
+6206 30 00 00 db
+6206 40 00 00 db
+6206 90 10 00 db
+6206 90 90 00 db
+6207 11 00 00 db
+6207 19 00 01 db
+6207 19 00 99 db
+6207 21 00 00 db
+6207 22 00 00 db
+6207 29 00 00 db
+6207 91 10 00 db
+6208 11 00 00 db
+6208 19 10 00 db
+6208 19 90 01 db
+6208 19 90 99 db
+6208 21 00 00 db
+6208 22 00 00 db
+6208 29 00 01 db
+6208 29 00 99 db
+6208 91 11 01 db
+6208 91 11 99 db
+6210 20 00 00 db
+6210 30 00 00 db
+6211 11 00 00 db
+6211 12 00 00 db
+6211 20 00 00 db
+6211 32 31 00 db
+6211 32 41 00 db
+6211 32 42 00 db
+6211 33 31 00 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+6211 33 41 00 db
+6211 33 42 00 db
+6211 42 31 00 db
+6211 42 41 00 db
+6211 42 42 00 db
+6211 43 10 00 db
+6211 43 31 00 db
+6211 43 41 00 db
+6211 43 42 00 db
+6212 10 10 00 db
+6212 10 90 00 db
+6212 20 00 00 db
+6212 30 00 00 db
+6213 10 00 00 db
+6213 20 00 00 db
+6213 90 00 00 db
+6214 10 00 00 db
+6214 20 00 00 db
+6214 30 00 00 db
+6214 40 00 00 db
+6214 90 10 00 db
+6214 90 90 00 db
+6215 10 00 00 db
+6215 20 00 00 db
+6215 90 00 00 db
+6216 00 00 00 pár
+6301 10 00 01 db
+6301 10 00 99 db
+6301 20 10 00 db
+6301 20 91 00 db
+6301 20 99 00 db
+6301 30 10 00 db
+6301 30 90 00 db
+6301 40 10 00 db
+6301 40 90 01 db
+6301 40 90 02 db
+6301 90 10 00 db
+6301 90 90 01 db
+6301 90 90 02 db
+6303 11 00 00 m2
+Vámtarifaszám
+Mennyiségi
+egység
+6303 12 00 00 m2
+6303 19 00 00 m2
+6303 91 00 00 m2
+6303 92 10 00 m2
+6303 92 90 00 m2
+6303 99 10 00 m2
+6303 99 90 00 m2
+6304 11 00 00 db
+6304 19 10 01 db
+6304 19 10 99 db
+6304 19 30 01 db
+6304 19 30 99 db
+6304 19 90 01 db
+6304 19 90 99 db
+6306 41 00 00 db
+6306 49 00 01 db
+6306 49 00 99 db
+6401 10 10 00 pár
+6401 10 90 00 pár
+6401 91 00 00 pár
+6401 92 10 00 pár
+6401 92 90 00 pár
+6401 99 00 00 pár
+6402 12 10 00 pár
+6402 12 90 00 pár
+6402 19 00 00 pár
+6402 20 00 00 pár
+6402 30 00 00 pár
+6402 91 00 01 pár
+6402 91 00 99 pár
+6402 99 10 01 pár
+6402 99 10 99 pár
+6402 99 31 00 pár
+6402 99 39 00 pár
+6402 99 50 00 pár
+6402 99 91 01 pár
+6402 99 91 99 pár
+6402 99 93 01 pár
+6402 99 93 99 pár
+6402 99 96 01 pár
+Vámtarifaszám
+Mennyiségi
+egység
+6402 99 96 99 pár
+6402 99 98 01 pár
+6402 99 98 99 pár
+6403 12 00 00 pár
+6403 19 00 00 pár
+6403 20 00 01 pár
+6403 20 00 99 pár
+6403 30 00 00 pár
+6403 40 00 00 pár
+6403 51 11 00 pár
+6403 51 15 00 pár
+6403 51 19 00 pár
+6403 51 91 00 pár
+6403 51 95 00 pár
+6403 51 99 00 pár
+6403 59 11 01 pár
+6403 59 11 99 pár
+6403 59 31 00 pár
+6403 59 35 00 pár
+6403 59 39 01 pár
+6403 59 39 99 pár
+6403 59 50 00 pár
+6403 59 91 00 pár
+6403 59 95 00 pár
+6403 59 99 01 pár
+6403 59 99 99 pár
+6403 91 11 00 pár
+6403 91 13 00 pár
+6403 91 16 00 pár
+6403 91 18 00 pár
+6403 91 91 00 pár
+6403 91 93 00 pár
+6403 91 96 00 pár
+6403 91 98 00 pár
+6403 99 11 01 pár
+6403 99 11 99 pár
+6403 99 31 00 pár
+6403 99 33 00 pár
+6403 99 36 00 pár
+6403 99 38 01 pár
+Vámtarifaszám
+Mennyiségi
+egység
+6403 99 38 99 pár
+6403 99 50 00 pár
+6403 99 91 00 pár
+6403 99 93 00 pár
+6403 99 96 00 pár
+6403 99 98 01 pár
+6403 99 98 99 pár
+6404 11 00 00 pár
+6404 19 10 00 pár
+6404 19 90 00 pár
+6404 20 10 00 pár
+6404 20 90 00 pár
+6405 10 00 01 pár
+6405 10 00 02 pár
+6405 20 10 00 pár
+6405 20 91 00 pár
+6405 20 99 00 pár
+6405 90 10 00 pár
+6405 90 90 01 pár
+6405 90 90 02 pár
+6405 90 90 99 pár
+6406 99 30 01 pár
+6406 99 30 02 pár
+6501 00 00 00 db
+6502 00 00 01 db
+6502 00 00 02 db
+6502 00 00 99 db
+6503 00 10 00 db
+6503 00 90 00 db
+6504 00 00 00 db
+6505 90 10 00 db
+6505 90 30 00 db
+6506 10 10 00 db
+6506 10 80 00 db
+6506 91 00 00 db
+6506 92 00 00 db
+6506 99 00 00 db
+6601 10 00 00 db
+6601 91 00 00 db
+6601 99 11 00 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+6601 99 19 00 db
+6601 99 90 00 db
+6807 10 10 00 m2
+6809 11 00 00 m2
+6809 19 00 00 m2
+6810 19 31 00 m2
+6810 19 39 00 m2
+6811 20 11 00 m2
+6904 10 00 00 db
+6905 10 00 01 db
+6905 10 00 99 db
+6907 10 00 00 m2
+6907 90 10 00 m2
+6907 90 91 00 m2
+6907 90 93 00 m2
+6907 90 99 00 m2
+6908 10 10 01 m2
+6908 10 10 99 m2
+6908 10 90 01 m2
+6908 10 90 99 m2
+6908 90 11 01 m2
+6908 90 11 99 m2
+6908 90 21 01 m2
+6908 90 21 99 m2
+6908 90 29 01 m2
+6908 90 29 99 m2
+6908 90 31 01 m2
+6908 90 31 99 m2
+6908 90 51 01 m2
+6908 90 51 99 m2
+6908 90 91 01 m2
+6908 90 91 99 m2
+6908 90 93 01 m2
+6908 90 93 99 m2
+6908 90 99 01 m2
+6908 90 99 99 m2
+7003 12 10 00 m2
+7003 12 91 00 m2
+7003 12 99 01 m2
+7003 12 99 99 m2
+Vámtarifaszám
+Mennyiségi
+egység
+7003 19 10 00 m2
+7003 19 90 01 m2
+7003 19 90 99 m2
+7003 20 00 01 m2
+7003 20 00 99 m2
+7004 20 10 00 m2
+7004 20 91 00 m2
+7004 20 99 01 m2
+7004 20 99 99 m2
+7004 90 10 00 m2
+7004 90 70 01 m2
+7004 90 70 99 m2
+7004 90 92 01 m2
+7004 90 92 99 m2
+7004 90 98 01 m2
+7004 90 98 99 m2
+7005 10 05 00 m2
+7005 10 25 01 m2
+7005 10 25 02 m2
+7005 10 25 99 m2
+7005 10 30 01 m2
+7005 10 30 02 m2
+7005 10 30 99 m2
+7005 10 80 01 m2
+7005 10 80 02 m2
+7005 10 80 99 m2
+7005 21 25 01 m2
+7005 21 25 02 m2
+7005 21 25 99 m2
+7005 21 30 01 m2
+7005 21 30 02 m2
+7005 21 30 99 m2
+7005 21 80 01 m2
+7005 21 80 02 m2
+7005 21 80 99 m2
+7005 29 25 01 m2
+7005 29 25 02 m2
+7005 29 25 99 m2
+7005 29 35 01 m2
+7005 29 35 02 m2
+Vámtarifaszám
+Mennyiségi
+egység
+7005 29 35 99 m2
+7005 29 80 01 m2
+7005 29 80 02 m2
+7005 29 80 99 m2
+7005 30 00 01 m2
+7005 30 00 99 m2
+7007 19 10 00 m2
+7007 19 20 00 m2
+7007 19 80 00 m2
+7007 29 00 00 m2
+7008 00 20 00 m2
+7008 00 81 00 m2
+7008 00 89 00 m2
+7009 10 00 00 db
+7010 10 00 00 db
+7010 90 10 01 db
+7010 90 10 99 db
+7010 90 21 01 db
+7010 90 21 99 db
+7010 90 31 01 db
+7010 90 31 99 db
+7010 90 41 01 db
+7010 90 41 99 db
+7010 90 43 01 db
+7010 90 43 99 db
+7010 90 45 01 db
+7010 90 45 99 db
+7010 90 47 01 db
+7010 90 47 02 db
+7010 90 47 99 db
+7010 90 51 01 db
+7010 90 51 99 db
+7010 90 53 01 db
+7010 90 53 99 db
+7010 90 55 01 db
+7010 90 55 99 db
+7010 90 57 01 db
+7010 90 57 02 db
+7010 90 57 99 db
+7010 90 61 01 db
+Vámtarifaszám
+Mennyiségi
+egység
+7010 90 61 99 db
+7010 90 67 01 db
+7010 90 67 02 db
+7010 90 67 99 db
+7010 90 71 01 db
+7010 90 71 02 db
+7010 90 71 99 db
+7010 90 79 01 db
+7010 90 79 02 db
+7010 90 79 99 db
+7010 90 91 01 db
+7010 90 91 02 db
+7010 90 91 99 db
+7010 90 99 01 db
+7010 90 99 02 db
+7010 90 99 99 db
+7013 10 00 00 db
+7013 21 11 00 db
+7013 21 19 00 db
+7013 21 91 00 db
+7013 21 99 00 db
+7013 29 10 00 db
+7013 29 51 01 db
+7013 29 51 99 db
+7013 29 59 01 db
+7013 29 59 99 db
+7013 29 91 01 db
+7013 29 91 99 db
+7013 29 99 01 db
+7013 29 99 99 db
+7013 31 10 00 db
+7013 31 90 00 db
+7013 32 00 01 db
+7013 32 00 02 db
+7013 32 00 99 db
+7013 39 10 00 db
+7013 39 91 01 db
+7013 39 91 99 db
+7013 39 99 01 db
+7013 39 99 99 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+7013 91 10 00 db
+7013 91 90 00 db
+7013 99 00 01 db
+7013 99 00 02 db
+7013 99 00 99 db
+7016 90 10 00 m2
+7101 10 00 01 g
+7101 10 00 99 g
+7101 21 00 01 g
+7101 21 00 99 g
+7101 22 00 01 g
+7101 22 00 99 g
+7102 10 00 00 karát
+7102 21 00 00 karát
+7102 29 00 01 karát
+7102 29 00 99 karát
+7102 31 00 00 karát
+7102 39 00 01 karát
+7102 39 00 99 karát
+7103 91 00 01 g
+7103 91 00 99 g
+7103 99 00 01 g
+7103 99 00 99 g
+7104 10 00 00 g
+7104 20 00 00 g
+7104 90 00 01 g
+7104 90 00 99 g
+7105 10 00 00 g
+7105 90 00 00 g
+7106 10 00 00 g
+7106 91 10 00 g
+7106 91 90 00 g
+7106 92 20 01 g
+7106 92 20 02 g
+7106 92 20 99 g
+7106 92 80 01 g
+7106 92 80 02 g
+7106 92 80 99 g
+7108 11 00 00 g
+7108 12 00 00 g
+Vámtarifaszám
+Mennyiségi
+egység
+7108 13 10 01 g
+7108 13 10 99 g
+7108 13 80 00 g
+7108 20 00 00 g
+7110 11 00 00 g
+7110 19 10 01 g
+7110 19 10 99 g
+7110 19 80 01 g
+7110 19 80 99 g
+7110 21 00 00 g
+7110 29 00 01 g
+7110 29 00 99 g
+7110 31 00 00 g
+7110 39 00 01 g
+7110 39 00 99 g
+7110 41 00 00 g
+7110 49 00 01 g
+7110 49 00 99 g
+7116 10 00 00 g
+7116 20 11 00 g
+7116 20 19 00 g
+7116 20 90 00 g
+7118 10 10 00 g
+7118 90 00 00 g
+7321 11 10 00 db
+7321 11 90 00 db
+7321 12 00 00 db
+7321 13 00 00 db
+7321 81 10 00 db
+7321 81 90 00 db
+7321 82 10 00 db
+7321 82 90 00 db
+7321 83 00 00 db
+7324 21 00 00 db
+7324 29 00 00 db
+7325 10 50 00 db
+7610 10 00 00 db
+7612 90 20 00 db
+8201 10 00 00 db
+8201 20 00 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8201 50 00 00 db
+8212 10 10 00 db
+8212 10 90 00 db
+8212 20 00 01 1000 db
+8212 20 00 99 1000 db
+8303 00 10 00 db
+8401 30 00 00 gi F/S*
+8407 10 10 00 db
+8407 10 90 00 db
+8407 21 10 00 db
+8407 21 91 00 db
+8407 21 99 00 db
+8407 29 20 00 db
+8407 29 80 00 db
+8407 31 00 00 db
+8407 32 10 00 db
+8407 32 90 00 db
+8407 33 10 00 db
+8407 33 90 00 db
+8407 34 10 00 db
+8407 34 30 00 db
+8407 34 91 00 db
+8407 34 99 00 db
+8407 90 10 01 db
+8407 90 10 99 db
+8407 90 50 01 db
+8407 90 50 99 db
+8407 90 80 01 db
+8407 90 80 99 db
+8407 90 90 01 db
+8407 90 90 99 db
+8408 10 11 00 db
+8408 10 19 00 db
+8408 10 22 00 db
+8408 10 24 00 db
+8408 10 26 00 db
+8408 10 28 00 db
+8408 10 31 00 db
+8408 10 39 00 db
+8408 10 41 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8408 10 49 00 db
+8408 10 51 00 db
+8408 10 59 00 db
+8408 10 61 00 db
+8408 10 69 00 db
+8408 10 71 00 db
+8408 10 79 00 db
+8408 10 81 00 db
+8408 10 89 00 db
+8408 10 91 00 db
+8408 10 99 00 db
+8408 20 10 01 db
+8408 20 10 99 db
+8408 20 31 00 db
+8408 20 35 01 db
+8408 20 35 99 db
+8408 20 37 01 db
+8408 20 37 99 db
+8408 20 51 00 db
+8408 20 55 00 db
+8408 20 57 01 db
+8408 20 57 99 db
+8408 20 99 01 db
+8408 20 99 99 db
+8408 90 10 00 db
+8408 90 21 00 db
+8408 90 29 00 db
+8408 90 31 00 db
+8408 90 33 00 db
+8408 90 36 00 db
+8408 90 37 00 db
+8408 90 51 00 db
+8408 90 55 00 db
+8408 90 57 00 db
+8408 90 71 00 db
+8408 90 75 00 db
+8408 90 99 00 db
+8411 11 10 01 db
+8411 11 10 99 db
+8411 11 90 01 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+8411 11 90 99 db
+8411 12 11 01 db
+8411 12 11 99 db
+8411 12 13 01 db
+8411 12 13 99 db
+8411 12 19 01 db
+8411 12 19 99 db
+8411 12 90 01 db
+8411 12 90 99 db
+8411 21 10 00 db
+8411 21 90 00 db
+8411 22 11 00 db
+8411 22 19 00 db
+8411 22 90 00 db
+8411 81 10 00 db
+8411 81 90 00 db
+8411 82 10 00 db
+8411 82 91 00 db
+8411 82 93 00 db
+8411 82 99 00 db
+8412 10 10 00 db
+8412 10 90 00 db
+8413 11 00 00 db
+8413 19 10 00 db
+8413 19 90 00 db
+8413 20 10 00 db
+8413 20 90 00 db
+8413 30 10 00 db
+8413 30 91 00 db
+8413 30 99 00 db
+8413 40 00 00 db
+8413 50 10 00 db
+8413 50 50 00 db
+8413 50 71 00 db
+8413 50 79 00 db
+8413 50 90 00 db
+8413 60 10 00 db
+8413 60 41 00 db
+8413 60 49 00 db
+8413 60 51 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8413 60 59 00 db
+8413 60 60 00 db
+8413 60 90 00 db
+8413 70 10 00 db
+8413 70 21 00 db
+8413 70 29 00 db
+8413 70 30 00 db
+8413 70 40 00 db
+8413 70 50 00 db
+8413 70 61 00 db
+8413 70 69 00 db
+8413 70 70 00 db
+8413 70 80 00 db
+8413 70 91 00 db
+8413 70 99 00 db
+8413 81 10 00 db
+8413 81 90 00 db
+8413 82 00 00 db
+8414 10 10 00 db
+8414 10 20 00 db
+8414 10 30 00 db
+8414 10 50 00 db
+8414 10 80 00 db
+8414 20 10 00 db
+8414 20 91 00 db
+8414 20 99 00 db
+8414 30 10 00 db
+8414 30 30 00 db
+8414 30 91 00 db
+8414 30 99 00 db
+8414 40 10 00 db
+8414 40 90 00 db
+8414 51 10 00 db
+8414 51 90 01 db
+8414 51 90 99 db
+8414 59 10 00 db
+8414 59 30 01 db
+8414 59 30 99 db
+8414 59 50 01 db
+8414 59 50 99 db
+Vámtarifaszám
+Mennyiségi
+egység
+8414 59 90 01 db
+8414 59 90 99 db
+8414 60 00 01 db
+8414 60 00 99 db
+8414 80 10 01 db
+8414 80 10 99 db
+8414 80 21 01 db
+8414 80 21 99 db
+8414 80 29 01 db
+8414 80 29 99 db
+8414 80 31 01 db
+8414 80 31 99 db
+8414 80 39 01 db
+8414 80 39 99 db
+8414 80 41 01 db
+8414 80 41 99 db
+8414 80 49 01 db
+8414 80 49 99 db
+8414 80 60 01 db
+8414 80 60 99 db
+8414 80 71 01 db
+8414 80 71 99 db
+8414 80 79 01 db
+8414 80 79 99 db
+8414 80 90 01 db
+8414 80 90 99 db
+8416 10 10 00 db
+8416 10 90 00 db
+8416 20 10 00 db
+8418 10 91 00 db
+8418 10 99 00 db
+8418 21 10 00 db
+8418 21 51 00 db
+8418 21 59 00 db
+8418 21 91 00 db
+8418 21 99 00 db
+8418 22 00 00 db
+8418 29 00 00 db
+8418 30 91 00 db
+8418 30 99 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8418 40 91 00 db
+8418 40 99 00 db
+8418 50 11 00 db
+8418 50 19 00 db
+8418 50 91 00 db
+8418 50 99 00 db
+8421 12 00 00 db
+8422 11 00 00 db
+8422 19 00 00 db
+8423 10 10 00 db
+8423 10 90 00 db
+8423 20 00 00 db
+8423 30 00 00 db
+8423 81 10 00 db
+8423 81 30 00 db
+8423 81 50 00 db
+8423 81 90 00 db
+8423 82 10 00 db
+8423 82 90 00 db
+8423 89 00 00 db
+8424 30 01 00 db
+8424 30 05 00 db
+8424 30 09 00 db
+8424 81 30 00 db
+8424 81 91 00 db
+8424 81 99 00 db
+8425 11 10 00 db
+8425 11 90 00 db
+8425 19 10 00 db
+8425 19 91 00 db
+8425 19 99 00 db
+8425 20 00 00 db
+8425 31 10 00 db
+8425 31 90 00 db
+8425 39 10 00 db
+8425 39 91 00 db
+8425 39 99 00 db
+8425 41 00 00 db
+8425 42 10 00 db
+8425 42 90 00 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+8425 49 10 00 db
+8425 49 90 00 db
+8426 91 10 00 db
+8427 10 10 00 db
+8427 10 90 00 db
+8427 20 11 00 db
+8427 20 19 00 db
+8427 20 90 00 db
+8427 90 00 01 db
+8427 90 00 99 db
+8429 11 00 00 db
+8429 19 00 00 db
+8429 20 00 00 db
+8429 30 00 00 db
+8429 40 10 00 db
+8429 40 30 00 db
+8429 40 90 00 db
+8429 51 10 01 db
+8429 51 10 02 db
+8429 51 91 01 db
+8429 51 91 02 db
+8429 51 99 01 db
+8429 51 99 02 db
+8429 52 10 01 db
+8429 52 10 02 db
+8429 52 90 01 db
+8429 52 90 02 db
+8429 59 00 01 db
+8429 59 00 99 db
+8430 10 00 00 db
+8430 20 00 00 db
+8430 61 00 00 db
+8432 10 10 00 db
+8432 10 90 00 db
+8432 21 00 00 db
+8432 29 10 00 db
+8432 29 30 00 db
+8432 29 50 00 db
+8432 29 90 00 db
+8432 30 11 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8432 30 19 00 db
+8432 30 90 00 db
+8432 40 10 00 db
+8432 40 90 00 db
+8433 11 10 00 db
+8433 11 51 00 db
+8433 11 59 00 db
+8433 11 90 00 db
+8433 19 10 00 db
+8433 19 51 00 db
+8433 19 59 00 db
+8433 19 70 00 db
+8433 19 90 00 db
+8433 20 10 00 db
+8433 20 51 00 db
+8433 20 59 00 db
+8433 20 90 00 db
+8433 30 10 00 db
+8433 30 90 00 db
+8433 40 10 00 db
+8433 40 90 00 db
+8433 51 00 00 db
+8433 52 00 00 db
+8433 53 10 00 db
+8433 53 30 00 db
+8433 53 90 00 db
+8433 59 11 00 db
+8433 59 19 00 db
+8433 59 30 00 db
+8433 59 80 00 db
+8433 60 00 00 db
+8436 10 00 00 db
+8436 21 00 00 db
+8436 29 00 00 db
+8436 80 10 00 db
+8436 80 91 00 db
+8437 10 00 01 db
+8437 10 00 02 db
+8442 10 00 00 db
+8442 20 10 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8442 20 90 00 db
+8443 11 00 01 db
+8443 11 00 99 db
+8443 12 00 00 db
+8443 19 10 01 db
+8443 19 10 99 db
+8443 19 31 01 db
+8443 19 31 99 db
+8443 19 35 01 db
+8443 19 35 99 db
+8443 19 39 01 db
+8443 19 39 99 db
+8443 19 90 01 db
+8443 19 90 99 db
+8443 21 00 01 db
+8443 21 00 99 db
+8443 29 00 01 db
+8443 29 00 99 db
+8443 30 00 01 db
+8443 30 00 99 db
+8443 40 00 00 db
+8443 51 00 00 db
+8443 59 20 00 db
+8443 59 40 00 db
+8443 59 70 01 db
+8443 59 70 99 db
+8444 00 10 00 db
+8444 00 90 00 db
+8445 11 00 01 db
+8445 11 00 99 db
+8445 12 00 01 db
+8445 12 00 99 db
+8445 13 00 01 db
+8445 13 00 99 db
+8445 19 00 01 db
+8445 19 00 99 db
+8445 20 00 01 db
+8445 20 00 99 db
+8445 30 10 01 db
+8445 30 10 99 db
+Vámtarifaszám
+Mennyiségi
+egység
+8445 30 90 01 db
+8445 30 90 99 db
+8445 40 00 01 db
+8445 40 00 99 db
+8445 90 00 00 db
+8446 10 00 00 db
+8446 21 00 00 db
+8446 29 00 00 db
+8446 30 00 00 db
+8447 11 10 00 db
+8447 11 90 00 db
+8447 12 10 00 db
+8447 12 90 00 db
+8447 20 20 00 db
+8447 20 80 00 db
+8447 90 00 00 db
+8450 11 11 00 db
+8450 11 19 00 db
+8450 11 90 00 db
+8450 12 00 00 db
+8450 19 00 00 db
+8450 20 00 00 db
+8451 30 10 00 db
+8451 30 30 00 db
+8451 30 80 00 db
+8452 10 11 00 db
+8452 10 19 00 db
+8452 10 90 00 db
+8452 21 00 00 db
+8452 29 00 00 db
+8452 30 10 00 1000 db
+8452 30 90 00 1000 db
+8456 10 10 01 db
+8456 10 10 02 db
+8456 10 10 03 db
+8456 10 10 99 db
+8456 10 90 01 db
+8456 10 90 02 db
+8456 10 90 03 db
+8456 10 90 99 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+8456 20 00 01 db
+8456 20 00 02 db
+8456 20 00 03 db
+8456 30 11 01 db
+8456 30 11 02 db
+8456 30 11 03 db
+8456 30 19 01 db
+8456 30 19 02 db
+8456 30 19 03 db
+8456 30 90 01 db
+8456 30 90 02 db
+8456 30 90 03 db
+8456 91 00 00 db
+8456 99 10 00 db
+8456 99 30 00 db
+8456 99 50 00 db
+8456 99 80 01 db
+8456 99 80 02 db
+8456 99 80 03 db
+8456 99 80 99 db
+8457 10 10 01 db
+8457 10 10 99 db
+8457 10 90 01 db
+8457 10 90 99 db
+8457 20 00 00 db
+8457 30 10 01 db
+8457 30 10 99 db
+8457 30 90 01 db
+8457 30 90 99 db
+8458 11 20 00 db
+8458 11 41 01 db
+8458 11 41 99 db
+8458 11 49 01 db
+8458 11 49 99 db
+8458 11 80 01 db
+8458 11 80 99 db
+8458 19 20 01 db
+8458 19 20 99 db
+8458 19 40 01 db
+8458 19 40 99 db
+Vámtarifaszám
+Mennyiségi
+egység
+8458 19 80 00 db
+8458 91 20 00 db
+8458 91 80 00 db
+8458 99 00 00 db
+8459 10 00 00 db
+8459 21 00 00 db
+8459 29 00 00 db
+8459 31 00 00 db
+8459 39 00 01 db
+8459 39 00 99 db
+8459 40 10 00 db
+8459 40 90 00 db
+8459 51 00 00 db
+8459 59 00 01 db
+8459 59 00 99 db
+8459 61 10 00 db
+8459 61 90 01 db
+8459 61 90 99 db
+8459 69 10 00 db
+8459 69 90 01 db
+8459 69 90 99 db
+8459 70 00 00 db
+8460 11 00 00 db
+8460 19 00 01 db
+8460 19 00 99 db
+8460 21 11 00 db
+8460 21 15 00 db
+8460 21 19 00 db
+8460 21 90 00 db
+8460 29 11 01 db
+8460 29 11 99 db
+8460 29 19 01 db
+8460 29 19 99 db
+8460 29 90 01 db
+8460 29 90 99 db
+8460 31 00 00 db
+8460 39 00 00 db
+8460 40 10 01 db
+8460 40 10 99 db
+8460 40 90 01 db
+Vámtarifaszám
+Mennyiségi
+egység
+8460 40 90 99 db
+8460 90 10 01 db
+8460 90 10 02 db
+8460 90 10 99 db
+8460 90 90 01 db
+8460 90 90 02 db
+8460 90 90 99 db
+8461 20 00 00 db
+8461 30 10 00 db
+8461 30 90 00 db
+8461 40 11 00 db
+8461 40 19 00 db
+8461 40 31 00 db
+8461 40 39 00 db
+8461 40 71 00 db
+8461 40 79 00 db
+8461 40 90 00 db
+8461 50 11 00 db
+8461 50 19 00 db
+8461 50 90 01 db
+8461 50 90 99 db
+8461 90 00 01 db
+8461 90 00 02 db
+8461 90 00 99 db
+8462 10 10 01 db
+8462 10 10 02 db
+8462 10 10 99 db
+8462 10 90 01 db
+8462 10 90 02 db
+8462 10 90 99 db
+8462 21 05 01 db
+8462 21 05 99 db
+8462 21 10 01 db
+8462 21 10 99 db
+8462 21 80 01 db
+8462 21 80 99 db
+8462 29 05 01 db
+8462 29 05 99 db
+8462 29 10 01 db
+8462 29 10 99 db
+Vámtarifaszám
+Mennyiségi
+egység
+8462 29 91 01 db
+8462 29 91 99 db
+8462 29 98 01 db
+8462 29 98 99 db
+8462 31 00 00 db
+8462 39 10 00 db
+8462 39 91 00 db
+8462 39 99 00 db
+8462 41 10 00 db
+8462 41 90 00 db
+8462 49 10 01 db
+8462 49 10 99 db
+8462 49 90 01 db
+8462 49 90 99 db
+8462 91 10 00 db
+8462 91 50 00 db
+8462 91 90 00 db
+8462 99 10 00 db
+8462 99 50 00 db
+8462 99 90 00 db
+8463 10 10 00 db
+8463 10 90 00 db
+8463 20 00 01 db
+8463 20 00 99 db
+8463 30 00 00 db
+8463 90 00 01 db
+8463 90 00 02 db
+8463 90 00 99 db
+8464 10 10 00 db
+8464 10 90 00 db
+8464 20 05 00 db
+8464 20 11 00 db
+8464 20 19 00 db
+8464 20 20 00 db
+8464 20 95 00 db
+8464 90 10 00 db
+8464 90 20 00 db
+8465 10 10 00 db
+8465 10 90 00 db
+8465 91 10 00 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+8465 91 20 00 db
+8465 91 90 00 db
+8465 92 00 00 db
+8465 93 00 00 db
+8465 94 00 00 db
+8465 95 00 00 db
+8465 96 00 00 db
+8465 99 10 00 db
+8465 99 90 00 db
+8467 21 10 00 db
+8467 21 91 00 db
+8467 21 99 00 db
+8467 22 10 00 db
+8467 22 30 00 db
+8467 22 90 00 db
+8467 29 30 00 db
+8467 29 51 00 db
+8467 29 53 00 db
+8467 29 59 00 db
+8467 29 70 00 db
+8467 29 80 00 db
+8467 29 90 00 db
+8467 81 00 00 db
+8469 11 00 00 db
+8469 12 00 00 db
+8469 20 00 01 db
+8469 20 00 99 db
+8469 30 00 01 db
+8469 30 00 99 db
+8470 10 00 00 db
+8470 21 00 00 db
+8470 29 00 00 db
+8470 30 00 00 db
+8470 40 00 00 db
+8470 50 00 00 db
+8470 90 00 00 db
+8471 10 10 00 db
+8471 10 90 00 db
+8471 30 00 00 db
+8471 41 10 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8471 41 90 00 db
+8471 49 10 00 db
+8471 49 90 00 db
+8471 50 10 00 db
+8471 50 90 00 db
+8471 60 10 00 db
+8471 60 40 00 db
+8471 60 50 00 db
+8471 60 90 00 db
+8471 70 10 00 db
+8471 70 40 00 db
+8471 70 51 00 db
+8471 70 53 00 db
+8471 70 59 00 db
+8471 70 60 00 db
+8471 70 90 00 db
+8471 80 00 00 db
+8471 90 00 00 db
+8472 10 00 00 db
+8472 20 00 00 db
+8472 30 00 00 db
+8472 90 10 00 db
+8472 90 30 00 db
+8472 90 80 01 db
+8472 90 80 99 db
+8476 21 00 00 db
+8476 29 00 00 db
+8476 81 00 00 db
+8476 89 00 00 db
+8479 40 00 00 db
+8485 10 10 00 db
+8485 10 90 00 db
+8501 10 10 01 db
+8501 10 10 99 db
+8501 10 91 01 db
+8501 10 91 99 db
+8501 10 93 01 db
+8501 10 93 99 db
+8501 10 99 01 db
+8501 10 99 99 db
+Vámtarifaszám
+Mennyiségi
+egység
+8501 20 10 00 db
+8501 20 90 00 db
+8501 31 10 00 db
+8501 31 90 00 db
+8501 32 10 00 db
+8501 32 91 00 db
+8501 32 99 00 db
+8501 33 10 00 db
+8501 33 90 00 db
+8501 34 10 00 db
+8501 34 50 00 db
+8501 34 91 00 db
+8501 34 99 00 db
+8501 40 10 00 db
+8501 40 91 00 db
+8501 40 99 00 db
+8501 51 10 00 db
+8501 51 90 00 db
+8501 52 10 00 db
+8501 52 91 00 db
+8501 52 93 00 db
+8501 52 99 00 db
+8501 53 10 00 db
+8501 53 50 00 db
+8501 53 92 00 db
+8501 53 94 00 db
+8501 53 99 00 db
+8501 61 10 00 db
+8501 61 91 00 db
+8501 61 99 00 db
+8501 62 10 00 db
+8501 62 90 00 db
+8501 63 10 00 db
+8501 63 90 00 db
+8501 64 00 00 db
+8502 11 10 00 db
+8502 11 91 00 db
+8502 11 99 00 db
+8502 12 10 00 db
+8502 12 90 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8502 13 10 00 db
+8502 13 91 00 db
+8502 13 93 00 db
+8502 13 98 00 db
+8502 20 10 00 db
+8502 20 91 00 db
+8502 20 92 00 db
+8502 20 94 00 db
+8502 20 98 00 db
+8502 31 10 00 db
+8502 31 90 00 db
+8502 39 10 00 db
+8502 39 91 00 db
+8502 39 99 00 db
+8502 40 10 00 db
+8502 40 90 00 db
+8504 10 10 00 db
+8504 10 91 00 db
+8504 10 99 00 db
+8504 21 00 00 db
+8504 22 10 00 db
+8504 22 90 00 db
+8504 23 00 00 db
+8504 31 10 00 db
+8504 31 31 00 db
+8504 31 39 01 db
+8504 31 39 99 db
+8504 31 90 01 db
+8504 31 90 99 db
+8504 32 10 00 db
+8504 32 30 00 db
+8504 32 90 00 db
+8504 33 10 00 db
+8504 33 90 00 db
+8504 34 00 00 db
+8504 40 10 00 db
+8504 40 20 00 db
+8504 40 50 00 db
+8504 40 93 00 db
+8504 50 10 00 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+8506 10 11 00 db
+8506 10 15 00 db
+8506 10 19 00 db
+8506 10 91 00 db
+8506 10 95 00 db
+8506 10 99 00 db
+8506 30 10 00 db
+8506 30 30 00 db
+8506 30 90 00 db
+8506 40 10 00 db
+8506 40 30 00 db
+8506 40 90 00 db
+8506 50 10 00 db
+8506 50 30 00 db
+8506 50 90 00 db
+8506 60 10 00 db
+8506 60 30 00 db
+8506 60 90 00 db
+8506 80 05 00 db
+8506 80 11 00 db
+8506 80 15 00 db
+8506 80 90 00 db
+8507 10 10 00 db
+8507 10 31 00 db
+8507 10 39 00 db
+8507 10 81 00 db
+8507 10 89 00 db
+8507 20 10 00 db
+8507 20 31 00 db
+8507 20 39 00 db
+8507 20 81 00 db
+8507 20 89 00 db
+8507 30 10 00 db
+8507 30 91 00 db
+8507 30 93 00 db
+8507 30 98 00 db
+8507 40 10 00 db
+8507 40 90 00 db
+8507 80 10 00 db
+8507 80 91 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8507 80 94 00 db
+8507 80 98 00 db
+8509 10 10 00 db
+8509 10 90 00 db
+8509 20 00 00 db
+8509 30 00 00 db
+8509 40 00 00 db
+8510 10 00 00 db
+8510 20 00 00 db
+8510 30 00 00 db
+8515 80 11 00 db
+8515 80 19 01 db
+8515 80 19 99 db
+8515 80 91 00 db
+8515 80 99 00 db
+8516 10 11 00 db
+8516 10 19 00 db
+8516 10 91 00 db
+8516 10 99 00 db
+8516 21 00 00 db
+8516 29 10 00 db
+8516 29 50 00 db
+8516 29 91 00 db
+8516 29 99 00 db
+8516 31 10 00 db
+8516 31 90 00 db
+8516 33 00 00 db
+8516 40 10 00 db
+8516 40 90 00 db
+8516 50 00 00 db
+8516 60 10 00 db
+8516 60 51 00 db
+8516 60 59 00 db
+8516 60 70 00 db
+8516 60 80 00 db
+8516 60 90 00 db
+8516 71 00 00 db
+8516 72 00 00 db
+8516 79 20 00 db
+8516 79 70 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8517 11 00 00 db
+8517 19 10 01 db
+8517 19 10 02 db
+8517 19 10 99 db
+8517 21 00 00 db
+8517 22 00 00 db
+8518 21 90 00 db
+8518 22 90 00 db
+8518 29 20 00 db
+8518 29 80 00 db
+8518 40 91 00 db
+8518 40 99 00 db
+8518 50 90 00 db
+8519 10 00 00 db
+8519 21 00 00 db
+8519 29 00 00 db
+8519 31 00 00 db
+8519 39 00 00 db
+8519 40 00 00 db
+8519 92 00 00 db
+8519 93 31 00 db
+8519 93 39 00 db
+8519 93 81 00 db
+8519 93 89 00 db
+8519 99 12 00 db
+8519 99 18 00 db
+8519 99 90 00 db
+8520 10 00 00 db
+8520 20 00 00 db
+8520 32 11 00 db
+8520 32 19 00 db
+8520 32 30 00 db
+8520 32 50 00 db
+8520 32 91 00 db
+8520 32 99 00 db
+8520 33 11 00 db
+8520 33 19 00 db
+8520 33 30 00 db
+8520 33 90 00 db
+8520 39 10 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8520 39 90 00 db
+8520 90 10 00 db
+8520 90 90 00 db
+8521 10 10 00 db
+8521 10 30 00 db
+8521 10 80 00 db
+8521 90 00 00 db
+8523 11 00 00 db
+8523 12 00 00 db
+8523 13 00 00 db
+8523 20 10 00 db
+8523 20 90 00 db
+8523 30 00 00 db
+8524 10 00 00 db
+8524 31 00 00 db
+8524 32 10 00 db
+8524 32 90 00 db
+8524 39 10 00 db
+8524 39 20 00 db
+8524 39 80 00 db
+8524 40 00 00 db
+8524 51 00 00 db
+8524 52 00 00 db
+8524 53 00 00 db
+8524 60 00 00 db
+8525 10 10 01 db
+8525 10 10 99 db
+8525 10 50 01 db
+8525 10 50 99 db
+8525 10 80 01 db
+8525 10 80 99 db
+8525 20 10 00 db
+8525 20 91 00 db
+8525 20 99 00 db
+8525 30 10 00 db
+8525 30 90 00 db
+8525 40 11 00 db
+8525 40 19 00 db
+8525 40 91 00 db
+8525 40 99 00 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+8526 91 11 00 db
+8527 12 10 00 db
+8527 12 90 00 db
+8527 13 10 00 db
+8527 13 91 00 db
+8527 13 99 00 db
+8527 19 00 00 db
+8527 21 20 00 db
+8527 21 52 00 db
+8527 21 59 00 db
+8527 21 70 00 db
+8527 21 92 00 db
+8527 21 98 00 db
+8527 29 00 00 db
+8527 31 11 00 db
+8527 31 19 00 db
+8527 31 91 00 db
+8527 31 93 00 db
+8527 31 98 00 db
+8527 32 10 00 db
+8527 32 90 00 db
+8527 39 20 00 db
+8527 39 80 00 db
+8527 90 10 00 db
+8527 90 92 00 db
+8527 90 98 00 db
+8528 12 10 01 db
+8528 12 10 99 db
+8528 12 20 00 db
+8528 12 52 01 db
+8528 12 52 99 db
+8528 12 54 01 db
+8528 12 54 99 db
+8528 12 56 01 db
+8528 12 56 99 db
+8528 12 58 01 db
+8528 12 58 99 db
+8528 12 62 01 db
+8528 12 62 99 db
+8528 12 66 01 db
+Vámtarifaszám
+Mennyiségi
+egység
+8528 12 66 99 db
+8528 12 70 01 db
+8528 12 70 99 db
+8528 12 81 01 db
+8528 12 81 99 db
+8528 12 89 01 db
+8528 12 89 99 db
+8528 12 90 00 db
+8528 12 91 00 db
+8528 12 94 00 db
+8528 12 95 00 db
+8528 12 98 01 db
+8528 12 98 99 db
+8528 13 00 01 db
+8528 13 00 99 db
+8528 21 14 01 db
+8528 21 14 99 db
+8528 21 16 01 db
+8528 21 16 99 db
+8528 21 18 01 db
+8528 21 18 99 db
+8528 21 90 01 db
+8528 21 90 99 db
+8528 22 00 01 db
+8528 22 00 99 db
+8528 30 05 01 db
+8528 30 05 99 db
+8528 30 20 01 db
+8528 30 20 99 db
+8528 30 90 01 db
+8528 30 90 99 db
+8531 10 20 00 db
+8531 10 30 00 db
+8531 10 80 00 db
+8539 10 10 00 db
+8539 10 90 00 db
+8539 21 30 00 db
+8539 21 92 00 db
+8539 21 98 00 db
+8539 22 10 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8539 22 90 00 db
+8539 29 30 00 db
+8539 29 92 00 db
+8539 29 98 00 db
+8539 31 10 00 db
+8539 31 90 00 db
+8539 32 10 00 db
+8539 32 50 00 db
+8539 32 90 00 db
+8539 39 00 00 db
+8539 41 00 00 db
+8539 49 10 00 db
+8539 49 30 00 db
+8540 11 11 00 db
+8540 11 13 00 db
+8540 11 15 00 db
+8540 11 19 00 db
+8540 11 91 00 db
+8540 11 99 00 db
+8540 12 00 00 db
+8540 20 10 00 db
+8540 20 80 00 db
+8540 40 00 00 db
+8540 50 00 00 db
+8540 60 00 00 db
+8540 71 00 00 db
+8540 72 00 00 db
+8540 79 00 00 db
+8540 81 00 00 db
+8540 89 00 01 db
+8540 89 00 02 db
+8540 89 00 99 db
+8542 21 01 00 db
+8542 21 05 00 db
+8542 21 11 00 db
+8542 21 13 00 db
+8542 21 15 00 db
+8542 21 17 00 db
+8542 21 20 00 db
+8542 21 25 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8542 21 31 00 db
+8542 21 33 00 db
+8542 21 35 00 db
+8542 21 37 00 db
+8542 21 39 00 db
+8542 21 45 00 db
+8542 21 50 00 db
+8542 21 69 00 db
+8542 21 71 00 db
+8542 21 73 00 db
+8542 21 81 00 db
+8542 21 83 00 db
+8542 21 85 00 db
+8542 21 99 00 db
+8542 29 10 00 db
+8542 29 20 00 db
+8543 89 51 00 db
+8543 89 55 00 db
+8543 89 59 00 db
+8548 10 10 00 db
+8548 10 21 00 db
+8548 10 29 00 db
+8601 10 00 00 db
+8601 20 00 00 db
+8603 10 00 01 db
+8603 10 00 99 db
+8603 90 00 01 db
+8603 90 00 99 db
+8604 00 00 01 db
+8604 00 00 99 db
+8605 00 00 00 db
+8606 10 00 00 db
+8606 20 00 00 db
+8606 30 00 00 db
+8606 91 10 00 db
+8606 91 90 00 db
+8606 92 00 00 db
+8606 99 00 00 db
+8609 00 10 00 db
+8609 00 90 00 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+8701 10 00 00 db
+8701 20 10 00 db
+8701 20 90 00 db
+8701 30 10 00 db
+8701 30 90 01 db
+8701 30 90 99 db
+8701 90 11 01 db
+8701 90 11 99 db
+8701 90 20 01 db
+8701 90 20 99 db
+8701 90 25 01 db
+8701 90 25 99 db
+8701 90 31 01 db
+8701 90 31 99 db
+8701 90 35 01 db
+8701 90 35 99 db
+8701 90 39 01 db
+8701 90 39 99 db
+8701 90 50 01 db
+8701 90 50 99 db
+8701 90 90 01 db
+8701 90 90 99 db
+8702 10 11 00 db
+8702 10 19 00 db
+8702 10 91 00 db
+8702 10 99 00 db
+8702 90 11 00 db
+8702 90 19 00 db
+8702 90 31 00 db
+8702 90 39 00 db
+8702 90 90 00 db
+8703 10 11 00 db
+8703 10 18 00 db
+8703 21 10 01 db
+8703 21 10 02 db
+8703 21 10 99 db
+8703 21 90 01 db
+8703 21 90 02 db
+8703 21 90 03 db
+8703 21 90 04 db
+Vámtarifaszám
+Mennyiségi
+egység
+8703 21 90 99 db
+8703 22 10 01 db
+8703 22 10 02 db
+8703 22 10 99 db
+8703 22 90 01 db
+8703 22 90 02 db
+8703 22 90 03 db
+8703 22 90 04 db
+8703 22 90 99 db
+8703 23 11 01 db
+8703 23 11 02 db
+8703 23 11 03 db
+8703 23 11 04 db
+8703 23 11 05 db
+8703 23 11 06 db
+8703 23 19 01 db
+8703 23 19 02 db
+8703 23 19 03 db
+8703 23 19 04 db
+8703 23 19 05 db
+8703 23 19 06 db
+8703 23 19 99 db
+8703 23 90 01 db
+8703 23 90 02 db
+8703 23 90 03 db
+8703 23 90 04 db
+8703 23 90 05 db
+8703 23 90 06 db
+8703 23 90 07 db
+8703 23 90 08 db
+8703 23 90 09 db
+8703 23 90 10 db
+8703 23 90 11 db
+8703 23 90 12 db
+8703 23 90 99 db
+8703 24 10 01 db
+8703 24 10 02 db
+8703 24 10 99 db
+8703 24 90 01 db
+8703 24 90 02 db
+Vámtarifaszám
+Mennyiségi
+egység
+8703 24 90 03 db
+8703 24 90 04 db
+8703 24 90 99 db
+8703 31 10 01 db
+8703 31 10 02 db
+8703 31 10 99 db
+8703 31 90 01 db
+8703 31 90 02 db
+8703 31 90 03 db
+8703 31 90 04 db
+8703 31 90 99 db
+8703 32 11 01 db
+8703 32 11 02 db
+8703 32 11 03 db
+8703 32 11 04 db
+8703 32 19 01 db
+8703 32 19 02 db
+8703 32 19 03 db
+8703 32 19 04 db
+8703 32 19 99 db
+8703 32 90 01 db
+8703 32 90 02 db
+8703 32 90 03 db
+8703 32 90 04 db
+8703 32 90 05 db
+8703 32 90 06 db
+8703 32 90 07 db
+8703 32 90 08 db
+8703 32 90 99 db
+8703 33 11 01 db
+8703 33 11 02 db
+8703 33 19 01 db
+8703 33 19 02 db
+8703 33 19 99 db
+8703 33 90 01 db
+8703 33 90 02 db
+8703 33 90 03 db
+8703 33 90 04 db
+8703 33 90 99 db
+8703 90 10 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8703 90 90 00 db
+8704 10 10 01 db
+8704 10 10 99 db
+8704 10 90 01 db
+8704 10 90 99 db
+8704 21 10 01 db
+8704 21 10 02 db
+8704 21 10 03 db
+8704 21 31 01 db
+8704 21 31 02 db
+8704 21 39 00 db
+8704 21 91 01 db
+8704 21 91 02 db
+8704 21 99 00 db
+8704 22 10 01 db
+8704 22 10 99 db
+8704 22 91 01 db
+8704 22 91 02 db
+8704 22 91 99 db
+8704 22 99 01 db
+8704 22 99 02 db
+8704 22 99 99 db
+8704 23 10 01 db
+8704 23 10 99 db
+8704 23 91 01 db
+8704 23 91 99 db
+8704 23 99 01 db
+8704 23 99 99 db
+8704 31 10 01 db
+8704 31 10 99 db
+8704 31 31 00 db
+8704 31 39 00 db
+8704 31 91 01 db
+8704 31 91 99 db
+8704 31 99 00 db
+8704 32 10 01 db
+8704 32 10 99 db
+8704 32 91 01 db
+8704 32 91 02 db
+8704 32 91 99 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+8704 32 99 01 db
+8704 32 99 02 db
+8704 32 99 99 db
+8704 90 00 01 db
+8704 90 00 02 db
+8704 90 00 99 db
+8705 10 00 00 db
+8705 20 00 00 db
+8705 30 00 00 db
+8705 40 00 01 db
+8705 40 00 99 db
+8705 90 10 00 db
+8705 90 30 00 db
+8705 90 90 01 db
+8705 90 90 02 db
+8705 90 90 03 db
+8705 90 90 04 db
+8705 90 90 99 db
+8706 00 11 00 db
+8706 00 19 00 db
+8706 00 91 00 db
+8706 00 99 00 db
+8707 10 10 00 db
+8707 10 90 00 db
+8707 90 10 00 db
+8707 90 90 00 db
+8708 21 10 00 db
+8708 21 90 00 db
+8708 99 11 00 db
+8709 11 90 00 db
+8709 19 10 00 db
+8709 19 90 01 db
+8709 19 90 99 db
+8711 10 00 00 db
+8711 20 10 00 db
+8711 20 91 00 db
+8711 20 93 00 db
+8711 20 98 00 db
+8711 30 10 01 db
+8711 30 10 99 db
+Vámtarifaszám
+Mennyiségi
+egység
+8711 30 90 01 db
+8711 30 90 99 db
+8711 40 00 01 db
+8711 40 00 99 db
+8711 50 00 00 db
+8711 90 00 00 db
+8712 00 10 01 db
+8712 00 10 99 db
+8712 00 30 01 db
+8712 00 30 99 db
+8712 00 80 00 db
+8714 11 00 00 db
+8714 91 10 01 db
+8714 91 10 99 db
+8714 91 30 01 db
+8714 91 30 99 db
+8714 92 10 01 db
+8714 92 10 99 db
+8714 93 10 01 db
+8714 93 10 99 db
+8714 94 10 01 db
+8714 94 10 99 db
+8714 96 10 01 pár
+8714 96 10 99 pár
+8714 99 10 01 db
+8714 99 10 99 db
+8714 99 30 01 db
+8714 99 30 99 db
+8715 00 10 00 db
+8716 10 10 00 db
+8716 10 91 00 db
+8716 10 94 00 db
+8716 10 96 00 db
+8716 10 99 00 db
+8716 20 00 00 db
+8716 31 00 00 db
+8716 39 10 00 db
+8716 39 30 00 db
+8716 39 51 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8716 39 59 00 db
+8716 39 80 00 db
+8801 10 10 00 db
+8801 10 90 00 db
+8801 90 99 00 db
+8802 11 10 01 db
+8802 11 10 99 db
+8802 11 90 01 db
+8802 11 90 99 db
+8802 12 10 01 db
+8802 12 10 99 db
+8802 12 90 01 db
+8802 12 90 99 db
+8802 20 10 00 db
+8802 20 90 00 db
+8802 30 10 00 db
+8802 30 90 00 db
+8802 40 10 00 db
+8802 40 90 00 db
+8802 60 10 01 db
+8802 60 10 02 db
+8802 60 10 99 db
+8802 60 90 01 db
+8802 60 90 02 db
+8802 60 90 99 db
+8901 10 10 00 BRT*
+8901 10 90 00 db
+8901 20 10 00 BRT*
+8901 20 90 00 Ct/l*
+8901 30 10 00 BRT*
+8901 30 90 00 Ct/l*
+8901 90 10 00 BRT*
+8901 90 91 00 Ct/l*
+8901 90 99 00 Ct/l*
+8902 00 12 00 BRT*
+8902 00 18 00 db
+8902 00 90 00 db
+8903 10 10 00 db
+8903 10 90 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+8903 91 10 00 db
+8903 91 92 00 db
+8903 91 99 00 db
+8903 92 10 00 db
+8903 92 91 00 db
+8903 92 99 00 db
+8903 99 10 00 db
+8903 99 91 00 db
+8903 99 99 00 db
+8905 10 10 00 db
+8905 10 90 00 db
+8905 20 00 00 db
+8905 90 10 00 db
+8905 90 90 00 db
+8906 90 10 00 db
+8906 90 91 00 db
+8906 90 99 00 db
+9001 30 00 00 db
+9001 40 20 00 db
+9001 40 41 00 db
+9001 40 49 00 db
+9001 40 80 00 db
+9001 50 20 00 db
+9001 50 41 00 db
+9001 50 49 00 db
+9001 50 80 00 db
+9002 11 00 00 db
+9002 19 00 00 db
+9002 20 00 00 db
+9003 11 00 00 db
+9003 19 10 00 db
+9003 19 30 00 db
+9003 19 90 00 db
+9004 10 10 00 db
+9004 10 91 00 db
+9004 10 99 00 db
+9005 10 00 00 db
+9006 10 10 00 db
+9006 10 90 00 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+9006 20 00 00 db
+9006 30 00 00 db
+9006 40 00 00 db
+9006 51 00 00 db
+9006 52 00 00 db
+9006 53 10 00 db
+9006 53 90 00 db
+9006 59 00 00 db
+9006 61 00 00 db
+9006 62 00 00 db
+9006 69 00 00 db
+9007 11 00 01 db
+9007 11 00 99 db
+9007 19 00 01 db
+9007 19 00 99 db
+9007 20 00 00 db
+9008 10 00 00 db
+9008 20 00 00 db
+9008 30 00 00 db
+9008 40 00 00 db
+9009 11 00 00 db
+9009 12 00 00 db
+9009 21 00 00 db
+9009 22 00 00 db
+9009 30 00 00 db
+9011 10 10 00 db
+9011 10 90 00 db
+9011 20 10 00 db
+9011 20 90 00 db
+9011 80 00 00 db
+9014 20 13 00 db
+9016 00 10 01 db
+9016 00 10 02 db
+9017 10 10 00 db
+9017 10 90 00 db
+9017 20 05 00 db
+9017 20 11 00 db
+9017 20 19 00 db
+9017 20 31 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+9017 20 39 00 db
+9017 20 90 00 db
+9017 30 10 01 db
+9017 30 10 99 db
+9017 30 90 01 db
+9017 30 90 99 db
+9021 21 10 00 100 db
+9021 21 90 00 100 db
+9021 40 00 00 db
+9021 50 00 00 db
+9022 12 00 00 db
+9022 13 00 00 db
+9022 14 00 00 db
+9022 19 00 00 db
+9022 21 00 00 db
+9022 29 00 00 db
+9022 30 00 00 db
+9025 11 91 00 db
+9025 11 99 00 db
+9025 19 91 00 db
+9025 19 99 00 db
+9025 80 20 01 db
+9025 80 20 99 db
+9026 10 51 00 db
+9026 10 59 00 db
+9026 10 91 00 db
+9026 10 99 01 db
+9026 10 99 99 db
+9026 20 30 00 db
+9026 20 50 00 db
+9026 20 90 00 db
+9027 10 10 00 db
+9027 10 90 00 db
+9027 90 10 00 db
+9028 10 00 00 db
+9028 20 00 01 db
+9028 20 00 99 db
+9028 30 11 00 db
+9028 30 19 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+9028 30 90 00 db
+9031 30 00 00 db
+9032 10 30 00 db
+9032 10 91 00 db
+9032 10 99 00 db
+9032 20 90 01 db
+9032 20 90 99 db
+9101 11 00 00 db
+9101 12 00 00 db
+9101 19 00 00 db
+9101 21 00 00 db
+9101 29 00 00 db
+9101 91 00 00 db
+9101 99 00 00 db
+9102 11 00 00 db
+9102 12 00 00 db
+9102 19 00 00 db
+9102 21 00 00 db
+9102 29 00 00 db
+9102 91 00 00 db
+9102 99 00 00 db
+9103 10 00 00 db
+9103 90 00 00 db
+9104 00 10 00 db
+9104 00 90 00 db
+9105 11 00 01 db
+9105 11 00 99 db
+9105 19 00 00 db
+9105 21 00 01 db
+9105 21 00 99 db
+9105 29 00 00 db
+9105 91 00 01 db
+9105 91 00 99 db
+9105 99 10 00 db
+9105 99 90 00 db
+9106 10 00 00 db
+9106 20 00 00 db
+9106 90 10 00 db
+9106 90 90 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+9107 00 00 00 db
+9108 11 00 00 db
+9108 12 00 00 db
+9108 19 00 00 db
+9108 20 00 00 db
+9108 90 00 00 db
+9109 11 00 00 db
+9109 19 10 00 db
+9109 19 90 00 db
+9109 90 10 00 db
+9109 90 90 00 db
+9110 11 10 00 db
+9110 11 90 00 db
+9111 10 00 00 db
+9111 20 00 00 db
+9111 80 00 00 db
+9112 20 00 00 db
+9201 10 10 00 db
+9201 10 90 00 db
+9201 20 00 00 db
+9202 10 10 00 db
+9202 10 90 00 db
+9202 90 10 00 db
+9202 90 30 00 db
+9202 90 80 00 db
+9204 10 00 01 db
+9204 10 00 99 db
+9204 20 00 00 db
+9205 10 00 00 db
+9207 10 10 00 db
+9207 10 30 00 db
+9207 10 50 00 db
+9207 90 10 00 db
+9302 00 00 00 db
+9303 10 00 00 db
+9303 20 10 00 db
+9303 20 95 00 db
+9303 30 00 00 db
+9303 90 00 00 db
+
+Vámtarifaszám
+Mennyiségi
+egység
+9305 21 00 00 db
+9306 10 00 00 1000 db
+9306 21 00 00 1000 db
+9306 29 40 00 1000 db
+9306 30 91 00 1000 db
+9306 30 93 00 1000 db
+9404 30 00 00 db
+9502 10 10 00 db
+9502 10 90 00 db
+9504 30 10 00 db
+9504 30 30 00 db
+9504 30 50 00 db
+9506 11 10 00 pár
+Vámtarifaszám
+Mennyiségi
+egység
+9506 11 21 00 db
+9506 11 29 00 pár
+9506 11 80 00 pár
+9506 31 00 00 db
+9506 32 00 00 db
+9506 70 10 00 pár
+9506 70 30 00 pár
+9603 10 00 00 db
+9603 21 00 00 db
+9603 29 30 00 db
+9603 30 10 00 db
+9603 30 90 00 db
+9603 40 10 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+9603 40 90 00 db
+9603 90 10 00 db
+9607 11 00 00 m
+9607 19 00 00 m
+9608 10 10 00 db
+9608 10 30 00 db
+9608 10 91 00 db
+9608 10 99 00 db
+9608 20 00 00 db
+9608 31 00 00 db
+9608 39 10 00 db
+9608 39 90 00 db
+9608 40 00 00 db
+Vámtarifaszám
+Mennyiségi
+egység
+9608 60 10 00 db
+9608 60 90 00 db
+9613 10 00 00 db
+9613 20 10 01 db
+9613 20 10 99 db
+9613 20 90 01 db
+9613 20 90 99 db
+9614 20 80 00 db
+9701 10 00 00 db
+9702 00 00 00 db
+9703 00 00 01 db
+9703 00 00 99 db
+A *-gal jelölt mennyiségi egységek magyarázata:
+kg/net eda = Nettó termék tömege
+abs l = 100%-os alkoholtartalom literje
+l = 15 ˚C hőmérsékleten
+TJ = Joule 1012
+m3 = 1013 mbar nyomáson 15 ˚C-on mérve
+kg P2
+O5
+= 100% P2
+O5
+hatóanyag-tartalomra számítva
+kg NaOH = 100% NaOH hatóanyag-tartalomra számítva
+kg KOH = 100% KOH hatóanyag-tartalomra számítva
+kgU = kg urántartalom
+gi F/S = Hasadóanyag izotópgramm
+kg H2
+O2
+= 100% H2
+O2
+hatóanyag-tartalomra számítva
+kg met am = Metil-amin tartalomra számítva
+kg N = 100% N hatóanyag-tartalomra számítva
+kg K2
+O = 100% K2
+O hatóanyag-tartalomra számítva
+kg 90% = 90% szárazanyag-tartalomra számítva
+BRT = Bruttóregisztertonna (28 316 m3)
+Ct/l = Hordképesség/tonna
+
+Szerkeszti a Miniszterelnöki Hivatal, a Szerkesztőbizottság közreműködésével.
+A Szerkesztőbizottság elnöke: dr. Pulay Gyula. A szerkesztésért felelős: dr. Müller György. Budapest V., Kossuth tér 1—3.
+Kiadja a Magyar Hivatalos Közlönykiadó. Felelős kiadó: dr. Kodela László elnök-vezérigazgató.
+Budapest VIII., Somogyi Béla u. 6. Telefon: 266-9290.
+Előfizetésben megrendelhető a Magyar Hivatalos Közlönykiadónál
+Budapest VIII., Somogyi Béla u. 6., 1394 Budapest 62. Pf. 357, vagy faxon 318-6668.
+Előfizetésben terjeszti a Magyar Hivatalos Közlönykiadó a FÁMA Rt. közreműködésével. Telefon/fax: 266-6567.
+Információ: tel./fax: 317-9999, 266-9290/245, 357 mellék.
+Példányonként megvásárolható a kiadó Budapest VIII., Somogyi B. u. 6. (tel./fax: 267-2780) szám alatti közlönyboltjában, illetve
+megrendelhető a www.mhk.hu/kozlonybolt internetcímen.
+2003. évi éves előfizetési díj: 62 496 Ft. Egy példány ára: 140 Ft 16 oldal terjedelemig, utána + 8 oldalanként + 140 Ft.
+A kiadó az előfizetési díj évközbeni emelésének jogát fenntartja.
+HU ISSN 0076—2407
+03.2698 — Nyomja a Magyar Hivatalos Közlönykiadó Lajosmizsei Nyomdája. Felelős vezető: Burján Norbert.
+Tisztelt Előfizetők!
+Tájékoztatjuk Önöket, hogy a kiadónk terjesztésében levő lapokra és elektronikus kiadványokra szóló előfizetésüket folyamatosnak
+tekintjük. Csak akkor kell változást bejelenteniük a 2004. évre vonatkozó előfizetésre, ha a példányszámot, esetleg a címlistát
+módosítják, vagy új lapra szeretnének előfizetni (pontos szállítási, név- és utcacím-megjelöléssel).
+Az esetleges módosítást szíveskedjenek levélben vagy faxon megküldeni.
+Felhívjuk szíves figyelmüket, hogy a lapszállításról kizárólag az előfizetési díj beérkezését követően intézkedünk. Fontos, hogy az
+előfizetési díjakat a megadott 10300002-20377199-70213285 sz. számlára utalják, illetve a kiadó által kiküldött készpénz-átutalási
+megbízáson fizessék be.
+Készpénzes befizetés kizárólag a Közlönyboltban (1085 Budapest, Somogyi B. u. 6.) lehetséges. (Levélcím: Magyar Hivatalos
+Közlönykiadó, 1394 Budapest, 62. Pf. 357. Fax: 318-6668).
+A CD-Jogász HIVATALOS JOGTÁR hatályos jogszabályok hivatalos számítógépes gyűjteményének 2004. évi éves előfizetési díjai:
+(Áraink az áfát nem tartalmazzák.)
+Önálló változat
+48 000 Ft
+ 5 munkahelyes hálózati változat
+64 000 Ft
+10 munkahelyes hálózati változat
+80 000 Ft
+ 25 munkahelyes hálózati változat
+96 000 Ft
+ 50 munkahelyes hálózati változat
+112 000 Ft
+100 munkahelyes hálózati változat
+128 000 Ft
+Egyszeri belépési díj: 6000 Ft.
+Facsimile Magyar Közlöny. A hivatalos lap 2003-as évfolyama jelenik meg CD-n az eredeti külalak megőrzésével, de könnyen kezelhetően.
+Hatályos jogszabályok online elérése: a naponta frissített adatbázis az interneten keresztül érhető el a www.mhk.hu címen. További információ
+kérhető a 06 (80) 200-723-as zöldszámon.
+A Házi Jogtanácsadó című lap előfizetésben megrendelhető a Magyar Hivatalos Közlönykiadó címén:
+Budapest VIII., Somogyi B. u. 6. 1394 Bp. 62. Pf. 357 vagy faxon: 318-6668, vagy a www.mhk.hu/hj internetcímen található megrendelőlapon.
+Telefon: 266-9290/234, 235 mellék.
+Éves előfizetési díja 3120 Ft + áfa.
+A 2004. évi előfizetési díjak
+(Az árak az áfát nem tartalmazzák.)
+Magyar Közlöny
+63 600 Ft/év
+Hivatalos Értesítő
+9 360 Ft/év
+Határozatok Tára
+14 640 Ft/év
+Önkormányzatok Közlönye
+3 600 Ft/év
+Az Alkotmánybíróság Határozatai
+12 240 Ft/év
+Bányászati Közlöny
+3 120 Ft/év
+Belügyi Közlöny
+16 320 Ft/év
+Egészségügyi Közlöny
+16 560 Ft/év
+Földművelésügyi és Vidékfejlesztési Értesítő
+11 520 Ft/év
+Gazdasági Közlöny
+15 360 Ft/év
+Hírközlési Értesítő
+4 080 Ft/év
+Ifjúsági és Sport Értesítő
+3 120 Ft/év
+Igazságügyi Közlöny
+10 320 Ft/év
+Informatikai és Hírközlési Közlöny
+13 680 Ft/év
+Környezetvédelmi Értesítő
+9 360 Ft/év
+Közlekedési Értesítő
+15 600 Ft/év
+Kulturális Közlöny
+12 240 Ft/év
+Külgazdasági Értesítő
+12 720 Ft/év
+Munkaügyi Közlöny
+9 840 Ft/év
+Oktatási Közlöny
+15 360 Ft/év
+Pénzügyi Közlöny
+20 160 Ft/év
+Statisztikai Közlöny
+8 400 Ft/év
+Szociális Közlöny
+9 840 Ft/év
+Turisztikai Értesítő
+7 440 Ft/év
+Ügyészségi Közlöny
+4 320 Ft/év
+Vízügyi Értesítő
+8 160 Ft/év
+Házi Jogtanácsadó
+3 120 Ft/év
+Magyar Közigazgatás
+6 000 Ft/év
+Pénzügyi Szemle
+14 640 Ft/év
+Nemzeti Kulturális Alapprogram Hírlevele
+3 120 Ft/év
+Élet és Tudomány
+7 440 Ft/év
+Ludové Noviny
+1 680 Ft/év
+Neue Zeitung
+3 120 Ft/év
+Természet Világa
+4 080 Ft/év
+Valóság
+4 800 Ft/év
+Tájékoztatjuk előfizetőinket, hogy 2004. január 1-jétől a Cégközlöny elektronikus formában (CD-n) jelenik meg.
+ Éves előfizetési díja: 58 800 Ft/év.
+
+2003/151/II. szám
