@@ -1,0 +1,1 @@
+3. § Ez a törvény a kihirdetése napján lép hatályba, rendelkezéseit azonban az Egyezmény 28. Cikk alá eső adók tekintetében 1995. január 1-jén vagy azt követően szerzett jövedelmekre, illetve az azután kezdődő bármely adóévre kivethető adókra kell alkalmazni.
