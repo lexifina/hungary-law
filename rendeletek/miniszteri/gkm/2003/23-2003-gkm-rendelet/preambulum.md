@@ -1,0 +1,1 @@
+A tengeren való összeütközések megelőzésére vonatkozó nemzetközi szabályokról szóló 1972. évi egyezmény kihirdetéséről szóló 2002. évi XXXIV. törvény 3. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
