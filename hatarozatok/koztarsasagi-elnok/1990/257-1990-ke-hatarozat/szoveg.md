@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére – figyelembe véve, hogy a hivatásos szolgálat felső korhatárát túlhaladta – érdemei elismerése mellett, kérelmére 1990. december 1-jei hatállyal dr. Lindner Miklós vezérőrnagy szolgálati viszonyát megszüntetem és nyugállományba helyezem.
