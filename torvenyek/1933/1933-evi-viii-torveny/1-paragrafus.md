@@ -1,0 +1,1 @@
+1. § A kábítószerek gyártásának korlátozása és forgalombahozatalának szabályozása tárgyában Genfben 1931. évi július hó 13-án kelt nemzetközi Egyezmény a hozzátartozó Aláírási Jegyzőkönyvvel együtt az ország törvényei közé iktattatik.
