@@ -1,0 +1,1 @@
+A honvédelmi miniszter előterjesztésére Siska József vezérőrnagynak – a hivatásos szolgálat felső korhatára túlhaladtával – kérelmére 1990. november 1-jével szolgálati viszonyát megszüntetem és nyugállományba helyezem.
