@@ -1,0 +1,1 @@
+Az élelmiszerekről szóló 1995. évi XC. törvény 27. §-ának (11) bekezdésében foglalt felhatalmazás alapján a földművelésügyi és vidékfejlesztési miniszterrel egyetértésben a következőket rendelem el:

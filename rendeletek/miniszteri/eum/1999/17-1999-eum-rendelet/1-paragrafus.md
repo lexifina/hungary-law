@@ -1,0 +1,3 @@
+1. § (1) E rendelet előírásait a Magyar Köztársaság területén közfogyasztásra szánt, illetve közforgalomba kerülő, az élelmiszerekről szóló 1995. évi XC. törvény 2. §-ának 1. pontja szerinti élelmiszer, 13. pontja szerinti feldolgozott élelmiszer, 14. pontja szerinti nyers élelmiszer és 15. pontja szerinti élelmiszer nyersanyag (a továbbiakban együtt: élelmiszer), valamint egyes élelmiszerrel rendeltetésszerűen érintkező felületek vegyi szennyezettségének vizsgálata során kell alkalmazni.
+
+(2) Az élelmiszerekben előforduló mikrobiológiai, radioaktív szennyezettség, illetve állatgyógyászati készítmény-maradványának, valamint a növényi termékek növényvédő szer maradékainak megengedhető mértékét külön jogszabályok tartalmazzák.
