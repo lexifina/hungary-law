@@ -1,0 +1,3 @@
+13. § (1) A 7. § (2) bekezdésében meghatározott ellenőrzés végrehajtásához szükséges, az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló miniszteri rendelet 3. §-a (1) bekezdésének c) pontjában előírt azonosítást és nyilvántartásba vételt – a levágásra szánt állatok és a regisztrált lovak kivételével – az állatok rendeltetési helyén kell elvégezni, szükség esetén csak a 8. § (5) bekezdésében meghatározott megfigyelési időtartam letelte után.
+
+(2) A levágásra szánt állatok azonosítására és megjelölésére vonatkozó szabályokat külön jogszabály állapítja meg.

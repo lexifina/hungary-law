@@ -1,0 +1,1 @@
+## 14. § Az e rendeletben meghatározott állatok behozatala esetében az állategészségügyi hatóság az elvégzett állategészségügyi ellenőrzések után az egyes állategészségügyi igazgatási szolgáltatási díjakról szóló külön jogszabály szerinti díjra jogosult.
