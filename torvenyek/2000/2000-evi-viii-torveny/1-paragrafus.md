@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Ukrán Szovjet Szocialista Köztársaság közötti, Budapesten, 1991. május 31-én aláírt Konzuli Egyezményt (a továbbiakban: Egyezmény) e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló szóbeli jegyzékek cseréje 1993. január 5-én megtörtént.)
