@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és Kuvait Állam Kormánya között Kuvaitban az 1979. évi március hó 19. napján aláírt, az egészségügyi együttműködésről szóló egyezményt e rendelettel kihirdeti.
