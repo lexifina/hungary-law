@@ -1,0 +1,1 @@
+A magzati élet védelméről szóló 1992. évi LXXIX. törvény (a továbbiakban: tv.) 3. §-ának (3) bekezdésében foglalt felhatalmazás alapján, az érdekelt miniszterekkel egyetértésben az alábbiakat rendelem:
