@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és Kuvait Állam Kormánya között Budapesten, 1981. évi június hó 22. napján aláírt, a posta és távközlés területén történő együttműködésről szóló Megállapodást e rendelettel kihirdeti.
