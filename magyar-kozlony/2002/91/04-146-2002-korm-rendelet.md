@@ -1,0 +1,3655 @@
+# A Kormány 146/2002. (VI. 29.) Korm. rendelete
+
+Magyar Közlöny 2002. évi 91. szám, 2002. június 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a48a9cf1424d68d564d5e98167630fd83cd5205a/dokumentumok/ac4f7dd813244e0ebe54054182fe446f2b4a24f5/letoltes)
+
+---
+
+A Kormány
+146/2002. (VI. 29.) Korm.
+rendelete
+az ENSZ Transz-Európai Vasúti Együttműködési
+Alapítványi Egyezményről (TER) szóló, Genfben,
+1992. december 17-én kelt Megállapodás 2001—2005
+közötti időszakra történő meghosszabbításáról,
+valamint a Megállapodás, melléklete és függelékei
+egységes szerkezetben történő kihirdetéséről
+(A Megállapodás meghosszabbításáról szóló értesítés
+letétbe helyezése 2001. április 2-án megtörtént.)
+1. §
+A
+Kormány
+az
+ENSZ
+Transz-Európai
+Vasúti
+Együttműködési Alapítványi Egyezményről (TER) szóló,
+Genfben, 1992. december 17-én kelt Megállapodást
+(a továbbiakban: Megállapodás), a 2001—2005 közötti
+időszakra meghosszabbítja, egyidejűleg a Megállapodást,
+valamint annak mellékletét és függelékeit — a mó-
+dosításokkal egységes szerkezetben — e rendelettel
+kihirdeti.
+2. §
+A
+Megállapodás,
+valamint
+annak
+melléklete
+és
+függelékei angol nyelvű szövege és annak hiteles magyar
+nyelvű fordítása a következő:
+„Trans-European Railway (TER)
+Co-operation Trust Fund Agreement
+Agreement between
+the United Nations Economic Commission for Europe
+(ECE), on the one hand, and
+the TER participating Governments on the other, which
+hereby agree as follows:
+Article I
+Scope of the Agreement
+The United Nations Economic Commission for Europe
+and the TER Governments hereinafter referred to as the
+„participating Government”, have agreed to co-operate in
+the implementation of a project entitled „Trans-European
+Railway (TER), hereinafter referred to as „the project”, a
+description of which is summarised in the attachments. The
+United Nations Economic Commission for Europe and
+the participating Governments have further agreed that
+the United Nations Economic Commission for Europe is
+to be Executing Agency for the said project.
+Article II
+The participating governments will contribute funds to
+meet the costs of the project, as described below.
+Article III
+The Executing Agency shall be responsible under the
+terms of this Agreement and on the basis of the TER
+Steering Committee’s decisions relating to the work
+programme and budget for the management of the funds
+contributed by the participating Governments to meet the
+costs of the project:
+The Executive Secretary of the United Nations
+Economic Commission for Europe will furthermore
+discharge such secretariat functions as are assigned to him
+under this Agreement and as may be determined by the
+parties.
+Article IV
+Every participating Government sha1I, in the manner
+referred to in paragraph 2 below, place at the disposal of
+the United Nations the sum of $10,000 per annum
+supplemented
+a
+the
+case
+may
+be
+by
+additional
+contributions from any other source and the United
+Nations Economic Commission for Europe shall use such
+funds to meet costs of the project as shown in the
+attachment.
+1. Every participating Government shall deposit the
+aforesaid funds, in convertible currencies of unrestricted
+use, to an account designated by the United Nations
+Economic Commission for Europe at the Swiss Bank
+Corporation, Case postale 2770, CH 1211 Genéve 2, not
+later than January of each year.
+2. The United Nations Economic Commission for
+Europe shall establish a trust fund under the Financial
+Regulation and Rules of the United Nations for the receipt
+and administration of the aforesaid funds.
+3. The United Nations Economic Commission for
+Europe in accordance with the applicable United Nations
+regulations, rules and directives. Accordingly, personnel
+shall be engaged and administered; equipment, supplies
+and services purchased; and contracts entered into
+
+accordance with the provisions of such regulations, rules
+and directives.
+4. All financial accounts and statements shall be
+expressed in United States dollars.
+Article V
+1. The trust fund shall be charged with expenditures
+incurred by the United Nations Economic Commission for
+Europe in the performance of project activities under this
+Agreement.
+2. The trust fund will also be charged with thirteen
+(13) percent of all expenditures from the trust fund, which
+percentage shall be a charge for programme support
+services provided by the United Nations Economic
+Commission for Europe in the implementation of the
+project financed under the trust fund.
+3. The trust fund will also be charged with an amount
+equivalent to one (1) percent of the remuneration or
+net salary of persons engaged by the executing agency,
+and whose engagement is financed by the trust fund,
+to provide a reserve for coverage of any claim for
+service-incurred death, injury of illness, under the
+applicable United Nations regulations and rules or
+contracts, which reserve cannot be refunded to the
+participating Governments.
+Article VI
+1. The United Nations Economic Commission for
+Europe, shall commence and continue to conduct
+operations under this Agreement on the receipt of
+contributions.
+2. The United Nations Economic Commission for
+Europe will not make any commitments above the
+amounts specified for expenditure in the project.
+3. If unforeseen expenditures arise, or if the amount of
+the annual contribution determined in Article
+IV paragraph 1 above, prove to be insufficient to meet the
+cost of the project, the United Nations Economic
+Commission for Europe will submit a supplementary
+budget to the participating Governments showing the
+further financing that will be necessary. If no such further
+financing is available, the assistance provided to the project
+under this Agreement may be reduced or, if necessary,
+terminated by the United Nations Economic Commission
+for Europe. In no event will the United Nations Economic
+Commission for Europe assume any liability in excess of
+the funds provided in the trust fond.
+Article VII
+Ownership of equipment, supplies and other property
+financed from this trust fond shall vest in the United
+Nations. On the termination or expiration of this
+Agreement, the matter of ownership shall be a subject for
+consultations between the participating Governments and
+the executing agency.
+Article VIII
+Evaluation of the project activities financed from this
+trust fond, shall be undertaken jointly by the United
+Nations Economic Commission for Europe and the
+participating Governments periodically as appropriate.
+Article IX
+This trust fond shall be subject exclusively to the internal
+and external auditing procedures laid down in the
+Financial Regulations, Rules and directives of the United
+Nations.
+Article X
+The United Nations Economic Commission for Europe
+shall provide the participating Governments with the
+following statements and reports prepared in accordance
+with the United Nations accounting and reporting
+procedures:
+a) an annual financial statements showing income,
+expenditures, assets and liabilities as of 31 December each
+year with respect to the funds provided by the donor
+Government;
+b) a final report and final statement within six months
+after the date of expiration or termination of this
+Agreement.
+Article XI
+The United Nations Economic Commission for Europe
+shall in consultations with the TER Steering Committee
+
+notify the participating Governments when, in its opinion,
+the purposes for which the trust fond was established have
+been realised. The date of such notification shall be
+deemed to be the date of expiration of this Agreement,
+subject to the continuance in force of article XIV for the
+purposes there stated.
+Article XII
+Any member State of the United Nations Economic
+Commission for Europe as well as States having
+consultative status with the Commission and regional
+economic
+integration
+organisations
+constitute
+by
+sovereign
+States
+members
+of
+the
+United
+Nations
+Economic
+Commission
+for
+Europe
+which
+have
+competence in matters covered by the present agreement
+which desire(s) to participate in the project and
+consequently in this Agreement, shall so notify the
+Executing Secretary of the United Nations Economic
+Commission for Europe. The latter shall transmit a copy
+of this notification to the participating Governments.
+If no objection is received by the Executive Secretary
+within ninety days of his communications to the parties
+thereto concerning the intended participation, the State,
+or the organisation concerned will become a Contracting
+Party to the Agreement, subject to the execution of its
+obligations, inter alia, under article I. The Executive
+Secretary will inform the Parties accordingly.
+Article XIII
+This Agreement may be terminated by either the United
+Nations Economic Commission for Europe or the
+participating Governments on 30 days’ written notice to
+the other party, subject to the continuance in force of
+article X for the purposes there stated.
+Article XIV
+On termination or expiration of this Agreement under
+article XI or XIII, the funds will continue to be held by the
+United Nations Economic Commission for Europe until
+all the expenditures incurred by the United Nations
+Economic Commission for Europe have been satisfied
+from such funds. Thereafter, any surplus remaining in the
+trust fond shall be disposed of as indicated by the
+participating Governments.
+Article XV
+This Agreement shall be open for signature by all TER
+states. It shall enter into force upon signature by the United
+Nations Economic Commission for Europe and by the
+following TER participating Governments: Hungary,
+Romania and Turkey.
+IN WITNESS WHEREOF, the undersigned, being duly
+authorised thereto, have signed the present Agreement in
+the English language in two copies at Geneva.
+Implementing arrangements
+attached to the Agreement
+ATTACHMENT
+PART 1
+Programme of Work for 2001—2005
+In accordance with the recommendations of the Ad Hoc
+Working Group of Experts on future TER activities
+(15—17 July 1996, Budapest) and in compliance with the
+objectives
+of
+the
+TER
+Co-operation
+Trust
+Fund
+Agreement, the Programme of Work for 2001—2005 has
+been agreed upon. It provides the necessary framework for
+developing concrete activities by the PCO and the member
+countries in order to achieve a step forward in the general
+development of the TER organisation under the following
+topics:
+1. Modernisation of the rail and combined transport
+infrastructure:
+— updating of the TER Network;
+— implementation of studies on TER Iine sections;
+— optimisation of TER co-operative activities;
+— evaluation of bottlenecks and measures for their
+elimination;
+— organisation of seminars and training courses;
+— co-operation of PCO and the member countries with
+other international fora for implementing infrastructure
+and financial planning in railway and combined transport;
+— development of relations between PCO and the
+member countries with private companies for obtaining
+financial inputs to the Trust Fund;
+— assistance of PCO towards participation at various
+conferences, seminars, etc. organised by governmental or
+non-governmental
+institutions.
+
+2. Development and utilisation of the databank:
+— implementation of studies or participation of PCO
+as subcontractor in carrying out studies on the TER lines
+by using the data collected and in co-operation with the
+member countries;
+— co-operation of PCO with the private sector
+obtaining additional funds for the Project based on the sale
+of selected categories of data;
+— continuing of maintenance and processing of data;
+— co-operation of PCO with other international
+institutions in charge with data collection.
+3. Improving railway operation, organisation and
+management:
+— stimulation of new studies for improving services
+along selected corridors: analysis, conclusions and
+proposals;
+— assessment of the restructuring measures taken by
+the railway companies;
+— assessment of the implementation of „TER
+technical standards and operational parameters”, of the
+AGC and AGTC standards;
+— promotion of studies for developing combined
+transport in the member countries and establishment of
+relations with combined transport operators;
+— organisation of action in line with market-oriented
+management, of the railway companies;
+— assessment of the measures for the implementation
+of new services (Freight Freeways), joint ventures or/and
+international groupings;
+— assessment of the measures adopted by the TER
+countries in line with environmental friendly
+transportation;
+— assessment of the measures adopted by the TER
+countries in line for assuring access right to the national
+transport infrastructure.
+4. Improvement and harmonisation of railway
+technique and technology:
+— organisation of workshops, seminars for the transfer
+of know-how and new technologies;
+— co-operation with other institutions for the
+modernisation of track maintenance, signalling and
+telecommunications, use of information technology, etc.
+OBJECTIVE ACTIVITY OUTPUT
+1. Development of the TER
+network (rail and combined
+transport)
+1.1. Permanent updating of the
+Trust Fund agreement
+1.1.1. Updated Trust I’und
+Agreement with
+Attachment arrd Annexes
+1.2. Optimization of TER
+co-operative activities
+1.2.1. Assessment system for
+co-ordination of TER
+activities
+1.3. Review of the TER Network 1.3.1. — TER Network updated
+on the basis of new
+developments or new
+countries joining TER
+— Inventory of
+Governments’ plans and
+programmes as well as
+feasibility or
+preinvestment studies
+aimed at the upgrading
+of the TER lines
+— Studies for the
+development of
+transport on the railway
+lines in the TER region
+
+OBJECTIVE ACTIVITY OUTPUT
+— Study on the possible
+rehabilitation of the
+existing line with
+European gauge through
+Ukraine on the corridor
+Warsaw — Bucharest.
+— Traffic forecast on the
+TER lines
+— Report on developments
+on TER Network
+1.4. TER bottlenecks 1.4.1. Evaluation and exchange of
+views regarding the
+pre-feasibility studies and
+bottlenecks elaborated
+based on commonly
+accepted criteria
+1.4.2. Improvement and
+elimination of bottlenecks
+through approprieate joint
+action and implementation
+of relevant legal instruments
+1.5. Participation at meetings,
+conferences, etc.
+1.5.1. Report of th PCO after
+attending appropriate
+international meetings
+1.5.2. Executing Agency will
+prepare information on
+contacts with non-member
+countries in order to
+increase TER membership
+1.6. Seminars, Workshops and
+Tzraining Courses
+1.6.1. Organisation of meetings of
+Railway Managers,
+Seminars, Workshops and
+Training Courses and
+assistance for the
+participation of TER
+countries at various
+conferences
+2. Establishment and
+utilisation of the railway
+databank
+2.1. Setting up of a system of
+common utilization of the
+databank
+2.1.1. Usage of existing data bí the
+member countries inputting
+into the databank
+2.2. Arrangement for the sale of
+data
+2.2.1. Provision of data to
+non-member couintries at
+the same time providing an
+income for other project
+activities
+
+OBJECTIVE ACTIVITY OUTPUT
+2.3. Continuing maintenance
+and processing of data
+2.3.1. Implementation of the
+Geographic Information
+System (GIS) in TER CO.
+The maps and processed
+data will be provided by the
+TER PCO to each member
+country for its respective
+network and territory. TER
+PCO will provide also the
+member countries with
+aggregate maps and
+processed data for the entire
+network, under specific
+conditions to be decided by
+the TER National
+Co-ordinators on relevant
+suggestions of the TER
+Database Experts Group
+3. Improving railway economic
+and financial situation and
+management matters
+3.1. Assessment of services
+along selected corridor
+3.1.1. Studies for the development
+of traffic on the corridor
+between Moscow —
+Alexandropoulis and
+Athens to be part of the
+TER Network
+3.1.2. Assessment of the necessary
+economic and legal
+conditions for the
+implementation of new
+railway services (freeways,
+joint ventures, etc.)
+3.2. Assessment of technical
+basis along TER lines
+3.2.1. Report on required
+modernization of technical
+basis of TER lines (stations,
+tracks, etc.)
+3.3. Common strategy for sound
+economic and financial
+railway operation and
+management
+3.3.1. Assessment report on
+measures adopted by the
+railway Administrations in
+line with the common
+strategy for a souind
+economic and financial
+railway management
+adopted in 1993
+3.4. Operating M.I.S.
+Management Information
+System
+3.4.1. Evaluations report on the
+present situation on
+operating M.K.S. in the
+TER countires for
+follow-up action
+
+OBJECTIVE ACTIVITY OUTPUT
+3.5. Combined Transport 3.5.1. Identification of all kind of
+obstacles to the
+development of
+International Combined
+Transport
+3.6. Restructuring of Railways 3.6.1. Progress report on the
+implementation of
+Restructuring of Railways
+in the TER Countries
+4. Improvement and
+harmonisation of railways
+technique and technology
+4.1. Rolling Stock 4.1.1. Organization of Round
+Tables on new rolling stock
+4.1.2. Evaluation and exchange of
+views regarding
+developments on the
+field of producing,
+purchasing and
+maintenance of rolling
+stock
+4.2. Track maintenance and
+overhauling, modernization
+of technology
+4.2.1. Progress report on the
+present situation in the
+TER Countries and
+preparation of proposals for
+follow-up action
+4.2.2. Oragnization of Round
+Tables on Track
+Maintenance and Civil
+Engineering
+4.3. Electrification, signalling,
+telecommunication, use of
+information technology
+4.3.1. Proposals for approaching
+the present situation in the
+TER Countries with a view
+to establishing the possible
+follow-up action
+4.4. Exchanging of information
+for enabling new services
+4.4.1. Identification of technical
+obstacles for
+implementation of new rail
+services
+4.5. Exchanging of information
+on Productivity in Rail
+Transport
+4.5.1. Report on the Productivity
+in Rail transport in the
+TER Countries
+4.6. Collecting the available
+studies related to the
+environmental aspects of
+rail transport
+4.6.1. Report reflecting the
+environmental friendliness
+of rail transport
+
+PART 2
+Budget for the period 2001—2005
+Trans-European Railway Project Budget for the period 2001—2005*
+According to the membership at 31 December 2000
+Cod Component 2001—2005 2001 2002 2003 2004 2005
+10 Project Personnel
+11,00 International Experts
+11,01 Consultants 25 000,00 5 000,00 5 000,00 5 000,00 5 000,00 5 000,00
+11,04 Sub—Total 25 000,00 5 000,00 5 000,00 5 000,00 5 000,00 5 000,00
+13,00 Administrative Supports
+Personnel 3 425,00 685,00 685,00 685,00 685,00 685,00
+15,00 Official Travel 110 000,00 22 000,00 22 000,00 22 000,00 22 000,00 22 000,00
+16,00 Mission Costs 50 000,00 10 000,00 10 000,00 10 000,00 10 000,00 10 000,00
+19,00 Component Total 163 425,00 32 685,00 32 685,00 32 685,00 32 685,00 32 685,00
+20 Subcontract
+21,00 Subcontract 25 000,00 5 000,00 5 000,00 5 000,00 5 000,00 5 000,00
+29,00 Component Total 25 000,00 5 000,00 5 000,00 5 000,00 5 000,00 5 000,00
+30 Training
+32,00 Group Training 275 000,00 55 000,00 55 000,00 55 000,00 55 000,00 55 000,00
+39,00 Component Total 27 000,00 55 000,00 55 000,00 55 000,00 55 000,00 55 000,00
+40 Equipment
+41,00 Expendable Equipment 10 000,00 2 000,00 2 000,00 2 000,00 2 000,00 2 000,00
+42,00 Non-Expendable
+Equipment 14 075,00 2 815,00 2 815,00 2 815,00 2 815,00 2 815,00
+49,00 Component Total 24 075,00 4 815,00 4 815,00 4 815,00 4 815,00 4 815,00
+
+51,00 Operation and mainte-
+nance of Equipment 15 000,00 3 000,00 3 000,00 3 000,00 3 000,00 3 000,00
+52,00 Reporting Costs 15 000,00 3 000,00 3 000,00 3 000,00 3 000,00 3 000,00
+53,00 Soundly 82 500,00 22 500,00 22 500,00 22 500,00 22 500,00 22 500,00
+59,00 Component Total 112 500,00 22 200,00 22 200,00 22 200,00 22 200,00 22 200,00
+99 625 000,00 125 000,00 125 000,00 125 000,00 125 000,00 125 000,00
+A) Total Contribution and income 800 000,00
+B) Total planned expenditure
+A) divided by ratio 1,28 625 000,00
+C) Estimated 13% of Programme
+Support of B) 81 250,00
+D) Estimated 15% operafing reserve of B) 93 750,00
+E) Grand Total Expenditure 800 000,00
+See in connection with Attachment Part 2, also Attachment, Part 3, Annex VI — Budget
+* To be revised according to the number of countries to participate in the TER.
+
+PART 3
+Framework With Annexes
+For 2001—2005 (Inclusive)
+Trans-Europe an Railway (TER) Co-operation
+Agreement framework for 2001—2005
+The Governments of Austria, Bosnia and Herzegovina,
+Bulgaria, Croatia, Czech Republic, Georgia, Greece,
+Hungary, Lithuania, Poland, Romania, Russian
+Federation, Slovakia, Slovenia and Turkey,
+having regard to the Trans-European Railway (TER)
+Project Document,
+bearing in mind existing bilateral and multilateral
+agreements in the fields of rail and combined transport,
+particularly the European Agreement on Main
+International Railway Lines (AGC) and the European
+Agreement on Important International Combined
+Transport Lines and Related Installations (AGTC)
+elaborated within the framework of the United Nations
+Economic Commission for Europe,
+desirous to facilitate and develop international rail and
+combined transport among and through their countries as
+well as between them and other European countries,
+wishing to improve the quality and efficiency of
+transport operations,
+aware of the new West-East orientation of transport
+demand which is likely to be derived from the profound
+changes which have occurred in Central and Eastern
+European countries,
+recalling the Declarations of the Pan-European
+Transport Conferences in Prague, October 1991; in Crete,
+March 1994 and in Helsinki, June 1997,
+taking into account the resolution of the Baltic Sea
+Conference of Ministers of Transport, Sczecin, 17—18
+March 1992,
+agree to co-operate in the endeavour to implement,
+within the framework of the AGC and AGTC Agreement,
+of the Trans-European Railway (TER) Project, according
+to the following provisions.
+I
+THE „TRANS EUROPEAN RAILWAY (TER)”
+PROJECT
+The TER Project consists of a series of objectives and
+actions to achieve them, which are established with the aim
+of improving the quality and efficiency of international rail
+and combined transport, passenger and freight, on the
+main international lines of the following countries:
+Austria, Bosnia and Herzegovina, Bulgaria, Croatia, Czech
+Republic, Georgia, Greece, Hungary, Lithuania, Poland,
+Romania, Russian Federation, Slovakia. Slovenia and
+Turkey.
+While these lines are not the whole railway network of
+the above countries, but a small number of them, they
+constitute nevertheless a continuous railway network
+designated hereafter as the TER Network.
+The TER Network includes, not only the north-south
+conidor, but also west east lines which have been added to
+take into account new developments and integration
+processes in the region.
+The TER Project relates to the TER network only. It
+considers also the related combined transport installations
+and equipment in the above countries.
+II
+OBJECTIVES
+The general objective of the TER Project is to develop
+a coherent efficient rail and combined transport system
+among Central and Eastern European countries and
+between those countries and other European countries.
+By providing efficient competitive services, the TER
+system must become attractive to customers, both
+passenger and freight, and be able to absorb an important
+part of the international transport market within, from and
+to Central and Eastern Europe, thus alleviating congestion
+and reducing environmental and safety problems on major
+international roads of those countries.
+More specific objectives are:
+A) Infrastructure development
+With the exception of some short sections, the physical
+plan of the TER Network is already in place. However, the
+infrastructure standards are far below those indicated in
+the AGC and AGTC Agreements.
+The objectives in this field are therefore, firstly the
+implementation of the TER standards (medium term) and
+the upgrading of the existing infrastructure to the level
+determined in the AGC and AGTC Agreements as the
+final target. As regards related combined transport
+installations, the objective is to upgrade what exists, to
+develop new ones and to provide all of them with
+appropriate equipment.
+B) Modernization of transport equipment
+Transport equipment (rolling stock, motive power,
+signalling and telecommunications equipment, etc.) is in
+many cases not apt for today’s performances. The objective
+is therefore to progressively replace it by new equipment
+
+according to a necessary harmonization — at least at the
+level of compatibility — of the equipment adopted by the
+different countries. Within these new solutions (Joint
+Ventures, Leasing, etc.) should be also considered.
+C) Adaptation of organization to market oriented
+management
+Railways no longer have the dominant position they had
+in the past. In market economies, road transport has
+succeeded in providing better door-to-door services and
+just-in-time deliveries, required by customers today, and its
+share of the transport market has become much more
+important than the one of rail transport. In Central and
+Eastern European countries, as a consequence of a
+fundamentally different approach, railways were able to
+keep for decades the strongest position with regard to
+other modes. However, recent developments in those
+countries and the adoption of market principles in
+economies will lead to a strong and fast development of
+road transport. Already, as a consequence of both this
+development and the recession, which has followed the
+initiation of a transition period, rail traffic has sharply
+decreased. If this situation goes on, governments might
+soon face very serious problems.
+The final objective is therefore to provide railway
+companies with a modern, efficient market-oriented
+organization and management, which are able to ensure a
+smooth transition to a new equilibrium of modes in the
+transport
+sector
+in
+Central
+and
+Eastern
+European
+countries. In particular, increased attention should be paid
+to international combined transport. Advantages of road
+in terminal transport should be combined with the
+environmental and safety advantages of rail on main
+transport in order to provide efficient international
+combined transport services. The rail part of the service
+still has to be efficient and of the appropriate quality.
+Border crossing procedures will have to be simplified.
+Railway companies will have to adopt a commercial
+orientation.
+In
+order
+to
+achieve
+this
+objective,
+management will have to be trained accordingly. The
+implementation of the solutions from the latest EU
+Directives from that field should also be considered.
+III
+PRIORITY ACTIONS
+1. Starting from the actual state of the TER Network,
+elaboration of short-term measures
+— To identify railway axes to be upgraded, main
+infrastructure bottlenecks to be removed and urgent needs
+for equipment,
+— To determine organizational measures to be taken
+particularly
+for
+facilitation
+of
+border
+crossings,
+development of combined transport and improvement of
+commercial, services in general.
+2. Consideration of existing pre-feasibility studies,
+proposing elaboration of new ones including traffic
+forecast and cost/benefit analyses.
+3. Assessment of the investments required, proposing
+their priorities.
+IV
+ REGULAR ACTIVITIES
+1. Infrastructure development
+— Establishment and upgrading of the TER Network,
+including west — east connections, taking also into
+consideration in this Agreement defined TER Standards
+and other developments related there, too.
+— Identification of major bottlenecks and missing links
+as well as the relate a infrastructural works to be
+undertaken, including at border points. Establishment of
+priorities.
+— Elaboration of pre-feasibility and feasibility studies.
+— Schedule for planning, design and construction.
+— Financing.
+2. Development of combined transport
+— Collection of data on traffic flows, all modes.
+Identification of major international road transport flows
+through, from and to the TER Network.
+— Studies on the establishment of alternative
+combined transport solutions or from and to the TER
+Network.
+— Identification of obstacles to the development of
+international combined transport, including deficiencies
+in transfer terminals, special wagons, containers and swap
+bodies, etc.
+— Proposals for eliminating those obstacles.
+— Identification of possible measures to be taken by
+the TER member countries in order to approach the steps
+taken in the EU in the field of railway freight
+transportation
+— Prioritization of proposals on a cost/benefit analysis
+basis. — Financing.
+— Consideration of possibilities for development of
+combined transport of dangerous goods.
+3. Training
+Seminars
+and
+workshops
+on
+marketing
+oriented
+management and other commercial issues, use of
+computers in railways, CAD systems, etc.
+
+4. Improvement of railways efficiency
+— Identification of major obstacles (other than
+infrastructural) to rail transport efficiency, including
+obsolescence or incompatibility or rolling stock, motive
+power and signalling and telecommunications equipment,
+delays in border crossings, inadequacy of international rail
+transport regulations, etc. at the TER countries.
+— Proposals for the elimination of those obstacles.
+— Prioritization on a cost/benefit analysis basis.
+— Financing.
+5. Establishment of a multimodal data bank
+— Data on traffic flows and forecasts (intermodal
+approach)
+— Technical and operational parameters, tolling stock,
+etc.
+— Data on border stations.
+— Data on train-ferry connections.
+V
+TER BUDGET
+To cover expenditures required for the execution of the
+activities presented in the programme of work, annual
+budgets shall be established by the Steering Committee on
+the basis of:
+1. Resources
+a) Contributions in-kind and in-cash from member
+countries;
+b) Contributions in-cash or in-kind from other
+international organizations, national and/or private bodies
+and non-member countries.
+The participating countries will provide as in-kind
+contribution to cover all costs for carrying out all tasks,
+emerging from the Work Plan as a part of the Project’s
+national activities (e.g. data supplying, analysing, providing
+studies, experts).
+2. Expenditures
+The main lines of expenditures for project co-ordination
+are listed on the budget page.
+The participating countries will continue to pay local
+sallies, social security contributions and other emoluments
+of national staff both working within each country for the
+Project and when such staff is delegated to participate in
+meetings, courses, etc. Special study items included in the
+programme of work and allocated to certain countries will
+be financed through the project budget.
+VI
+LOCATION OF PROJECT CENTRAL OFFICE
+The TER Project Central Office is located in Budapest,
+Hungary.
+VII
+EXECUTING
+AGENCY
+The UN/ECE shall be invited to continue as the
+Executing Agency of the Project.
+VIII
+ANNEXES
+The following annexes constitute an integral part of the
+Attachment, part 3 and include the following:
+— Annex I
+— TER Network (List of TER Lines,
+Map of the TER Network and
+TER Parameters)
+— Annex II
+— Steering Committee (SC)
+— Annex III
+— Group of National Co-ordinators
+(TERNC)
+— Annex IV
+— National Co-ordinators (NC)
+— Annex V
+— Project Central Office (TERCO)
+— Annex VI
+— Budget
+— Annex VII
+— Letter
+of
+Agreement
+signed
+between
+ECE
+and
+the
+Host
+Government
+of
+the
+Project
+Central Office*
+— Annex VIII
+— Type-letter of Agreement to be
+signed between ECE and the
+Government
+of
+the
+Project
+Manager or other Project Central
+Office staff
+* The Letter of Agreement between the ECE and the Host
+Government of the PCO will be superseded and replaced once a new
+agreement has been concluded between: the ECE and the Hungarian
+Government.
+
+ANNEX I
+List of Trans-European Railway (TER) lines
+E 010 {Helsinki—Vainikkala}—(b.st. RZD/VR) buslovskaya—St. Petersburg—Akademicheskaya—
+Moscow
+TN
+
+E 020 {Berlin—Frankfurt/O}—Rzepin (b.st. PKP/DB)—Poznan—Barlogi—Lowiz—
+Warsaw/Skierniewice—Lukow—Terespol (b.st. RZD/BC)—Smolensk—Moscow—Nizniy
+Novgorod—Sverdlovsk—{Omsk—Novosibirsk—Krasnoyarsk—Irkutsk— Vladivostok}
+TN
+
+E 026 Wroclaw—Idzikowice
+and
+Warsaw—Bialystok—Sokolka—{Kuznica Bial. (b.st. PKP/BC)—Grodno—
+Kabeliai (b.st. LG/BC)—Vilnius
+TN
+
+E 026/1 Sarkiai—Siauliai—Gaiziunai—Palemonas—Kazlu Ruda—Mockava TN
+
+E 030 {Dresden}—Zgorzelec (b.st. PKP/DB)—Wroclaw
+and
+Opole—Kedzierzyn Kozle—Gliwice—Katowice—Krakow—Przemysl (b.st. PKP/UZ)—
+{Mostiska (b.st. UZ/PKP)—Lvov}
+and
+Siechnice—Opole—Glowice
+and
+{Kyiv—Poltava—Kharkov—Topoli (b.st. UZ/RZD)}—Solovei Valuiki—Povonno—Rtishcevo—
+Penza—Samara—Uta—Chelysbinsk—Kurgan—Omsk
+TN
+
+E 030/1 Tarnow—Now Sacz—Muszyna (b.st. PKP/ZSR)—Plavec (b.st. ZSR/PKP)—Kysak
+and
+Kosice—Cana (b.st. ZSR/MAVO—Hidasnemeti (b.s t. MAV/ZSR)—Felsozsolca
+TN
+
+E 040 {Nurnberg}—Cheb (b.st. CD/DB)—Plzen—Prague—Kolin—Usti n/O—Ceska Trebova—
+Prerov—Hranice na Morave
+and
+Petrovice United Nations Economic Commission for Europe Karvine—Mosty United Nations
+Economic Commission for Europe Jablunkova (b.st. CD/ZSR)—Cadca (b.st. ZSR/CD)—Zili-
+na—Vrutky—Poprad Tatry—Kysak—Kosice—Cierna n/T (b.st. ZSR/UZ)—{Chop (b.st.
+UZ/ZSR)}
+and
+Horni Lidec (BCP)—Luky pod Makytou (b.st. ZSR/CD)—Puchov—Zilina
+TN
+
+T 040 Ceska Kubice (b.st. CD/DB)—Plzen TN
+
+T 041 Plzen—Ceske Budejovice—Ceske Velenice TN
+
+T 042 Nove Zamky—Zvolen—Plesivec—Kosice TN
+
+E 045 Kufstein (b.st. OBB/DB)—Worgl
+and
+Innsbruck—Garberbach—Brenner
+and
+Baumkirchen—Gaberbach
+TN
+
+E 050 {Buchs (b.st. SBB/OBB)n—Feldkirch—Innsbruck—Baumkirchen—Scharzach=/St.Veit—
+Bischofshofen—Salzburg—Wels—Marchtrenk—Linz—Vienna—Bruck/L—Hegyeshalom (b.st.
+MAV/OBB)—Gyor—Komarom—Budapest—Hatvan—Miskolc—Nyiregyhaza—Zahony (b.st.
+(MAV/UZ—{Chop (b.st. UZ/MAV)—Lvov—Kíiv—Zarnovo (b.st. UZ/ZD)}—Suzemka (b.st.
+RZD/UZ)—Moscow
+and
+{Fastov—Dnepropetrovsk—Krasnoarmeisk—Krasnaya Mogila (b.st. UZ/RZD)}—Gukovo—
+Lichaiy—Astrakhan (b.st. RZD/Kazakhstan)
+TN
+
+T 050 Vienna Meiding—Ebenfurth—Sopron (b.st. GySEV/RoeEE)—Gyor
+and
+Vienna Meiding—Ebenfurth—Wiener Neustadt—Loipersbach—Sopron (b.st. GySEV/OBB)
+TN
+
+E 050/2 {Kvashino (b.st. UZ/RZD)}—Uspenskaya—Taganrog—Rostov-na-Donu —
+and
+Tihoreckaia—Armavir
+TN
+
+E 052 Vienna—Sud—Marchegg (b.st. OBB/ZSR)—Devinska Nova Ves (b.st. ZSR/OBB)—Bratislava—
+Galanta—Nove Zamky—Sturovo (b.st. ZSR/MAV)—Szob—Budapest—Cegled—
+TN
+
+T 053 Parndorf—Kittsee (b.st.) OBB/ZSR)—Bratislava—Petrzalka TN
+
+E 054 Arad—Vintu de Jos—Coslariu—Ploesti—Bucuresti TN
+
+T 054 Vintu de Jos—Sibiu—Bujoreni—Titu—Bucuresti TN
+
+E 054/1 Puspokladany—Biharkeresztes (b.st. MAV/CFR)—Episcopia Bihor (CFR/MAV)—Oradea—
+Cluj—Coslariu—
+TN
+
+E 055 {Dresden}—Decin (b.st. CD/DB)—Usti n/L—Prague
+and
+Schwarzach/St. Veit—Villach—Arnoldstein (b.st. OBB/FS)
+TN
+
+T 055 Usti n/L—Karlovy Vary—Cheb TN
+
+E 056 Budapest—Maglod—Ujszasz—Shzolnok—Lokoshaza (b.st. MAV/CFR)—Curtici (b.st.
+CFR/MAV)—Arad—Timisioara—Craiova—Videle—Bucuresti
+TN
+
+T 056 Craiova—Calafat (b.st. CFR/BDZ)—Vidin (BDZ/CFR)—Mezdra TN
+
+E 059 Swinoujscie—Szczecin—Poznan—Wroclaw—Opole TN
+
+T 059 Szchecin—Rzepin—Nowa Sol—Wroclaw—Opole TN
+
+E 061 {Dresden} Decin (b.st. CD/DB) Usti n/L—Prague—Kolin Usti n/O—Ceska Trebova—Brno—
+Breclav—Lanzhot (b.st. CD/ZSR)—Kuty (b.st. ZSR/CD)—Devinska Nova Ves—Bratislava—
+(b.st. MAV/ZSR)
+and
+Bratislava (Petrzalka)—Rusovce—(b.st. ZSR/MAV)—Rajka (b.st. MAV/ZSR)—Hegyeshalom
+TN
+
+T 061 Decin (b.st. CD/DB)—Usti n/L—Vsetaty—Nymburk—Kolin—Havlickuv Brod—Brno TN
+
+T 062 Brno—Viskov—Prerov TN
+
+E 063 Zilina—Puchov—Leopoldov—Bratislava/Galanta TN
+
+E 065 Gdynia—Gdansk—Tczew—Malbork—Warsaw—Idzikowice—Psary—Katowice—Pszczyna—
+Wisla Most—Zebrzydowice (b.st. PKP/CD)—Petrovice United Nations Economic Commission for
+Europe Karvine (b.st. CD/PKP)—Behumin—Hranice na Morave—Prerov—Breclav (b.st.
+CD/OBB—Bernhardsthal—Hohenau (b.st. OBB/CD—Retz (b.st. OBB/CD)—Florisdorf—
+Vienna—Bruck a. d. M.—St. Michael—Villach—Rosenbach (b.st. OBB/SZ)—Jesenice (b.st.
+SZ/OBB)—Ljubljana—Pivka—II. Bistrica (b.st. SZ/HZ)—Sapjane (b.st. HZ/SZ)—Rijeka
+TN
+
+T 065 Tczew—Barlogi—Zdunska Wola—Glowice—Pszczyna TN
+
+E 066 {Chop}—Halmeu (b.st. CFR/UZ)—Satu Mare—Oradea—Arad—Timisoara—Stamora Moravita
+(b.st. CFR/JZ)
+TN
+
+E 067 Bruck a. d. M.—Graz—Spielfeld Strass (b.st. OBB/SZ)—Sentilj (b.st. SZ/OBB)—Maribor—
+Pragersko—Zidani Most
+TN
+
+T 067 Graz—Jennersdorf (b.st. OBB/MAV)—Szentgotthard (b.st. MAV/OBB)—Kormend TN
+
+E 069 Budapest—Szekesfehervar—Nagykanizsa—Murakeresztur (b.st. MAV/HZ)—Kotoriva (b.st.
+HZ/MAV)—Cakovec (b.st. HZ/SZ)—Sredisce (b.st. SZ/HZ)—Ormoz—Pagersko—Zidani
+Most—Ljubljana—Pivka—Divaca—Koper
+TN
+
+T 069 Szekesfehervar—Veszprem—Boba/ Celldomolk —Zalaovo—Hodos (b.st. SZ/MAV) Murska
+Sobota—Ormoz
+TN
+
+E 070 {Trieste—Villa Opicina (b.st. FS/SZ)}—Sezana (b.st. SZ/FS)—Divaca—Pivka—Ljubljana—
+Zidani Most—Dobova (b.st. SZ/HZ)—Savski Marof (b.st. HZ/SZH)—Zabreb—Sunja—Novska—
+Slavonski Brod—Tovarnik (b.st. HZ/JZ)
+and
+Zagreb—Dugo Selo—Novska
+and
+Dragoman (b.st. BDZ/JZ)—Sofija—Plovdiv—Dimitrovgrad—Svilengrad (b.st. BDZ/TCDD)—
+Kapikule (b.st. TCDD/BDZ)—Sirkeci—Istanbul—Haydarpasa—Ankara—Kalin—Cetinkaya—
+Malatya—Kapikoy
+and
+Cetinkaya—Divrigi—Erhzurum—Kars—Dogukaqpi (b.st. TCDD/Armenia)
+and
+Kars—Gildir—Aktas (b.st. TCDD/Georgia)—Marneuli
+TN
+
+T 070 Vinkovci—Gunja—Brcko (b.st. BHZ/HZ)—Tuzla TN
+
+E 071 Budapest—Dombovar—Gyekenyes (b.st. MAV/HZ)—Koprivnica (b.st. HZ/MAV)—Zagreb—
+Ostarije—Rijeka
+TN
+
+E 074 Eskisehir—Alayunt—Balikesir—Manisa—Izmit TN
+
+E 085 Budapest—Kiskunhalas—Kelebia (b.st. MAV/JZ)
+and
+{Vokovo (b.st. CFARYM/JZ)/Tabanovci (b.st. CFARYM/JZ)—Skopje—Veles—Gevgelija (b.st.
+CFARYM/CH)—Thessaloniki—Athens}
+TN
+
+T 085 {Veles—Bitola—Kremenica (b.st. CFARYM/CH)} TN
+
+E 095 {Kyiv—Benderi (b.st. CFM/UZ)—Kishinev—Ungeni (b.st. CFM/CFR)}—Iasi (b.st. CFR/CFM)—
+Pascani—Buzau—Ploiesti
+and
+Videle—Giurgiu Nord
+and
+Bucuresti—Giurgiu Nord (b.st. CFR/BDZ)—Russe (b.st. BDZ/DFR)—Gorna Oriahovitza—
+Dimitrovgrad
+TN
+
+T 095 Sdimitrovgrad—Podkova TN
+
+E 097 Samsun—Kalin—Cetinkaya—Malatya—Narli—Toprakkale—Iskenderun/Mersin TN
+
+E 201 Klaipeda—Siauliai—Ghaiziunai—Kaisiadorys—Vilnius—Kena (b.st. LG/BC)—{Minsk—
+Zhlobin—Gomel—Nezhin}
+TN
+
+E 201/1 {Kaliningrad}—Kybartai (b.st. L/RZD)—Kazlu Ruda—Kaunas—Kaisiadorys TN
+
+E 203 (Yekaterinenburg) Sverdlovsk—Kurgan—{Presnogorkovka} TN
+
+T 262 Radviliskis—Pagegiai (b.st. LG/RZD)—{Kaliningrad}—Braniewo (b.st. PKP/RZD)—Malbork TN
+
+T 303 Krakow—Nowy Sacz TN
+
+E 451 Passau (b.st. OBB/DB)—Neumarkt Kallham—Wels TN
+
+T 451 Simbach/Inn (b.st. OBB/DB)—Neumarkt Kallham TN
+
+E 500 Moscow—Ryazan—Kotchetovka—{Rtishcevo—Saratov—Ozinki}—Orenburg TN
+
+E 500/2 Ryazan—Russevka—Samara—Orenburg TN
+
+E 500/3 Kotchetovka—Gryazi Voronezh—Gukevo Volzhska—Rostov-na-Donu
+and
+Tihoreckaia—Krasnodar—Novorossiysk
+TN
+
+T 501 Vienna Nord—Wolfsthal TN
+
+E 502 Bischofshofen—Selzthal TN
+
+T 502 Bregenz—Lustenau/St. Margrethen (b.st. OBB/SBB) TN
+
+T 503 Lindau (b.st. OBB/DB)—Bregenz—Feldkirch TN
+
+E 551 Prague—Veseli n/L—Ceske Budejovice—Horni Dvoriste (b.st. CD/OBB)—Summerau (b.st.
+OBB/CD)—Linz—Traun—Selzthal—St. Michael
+and
+Traun—Marchtrenk
+TN
+
+T 551 Veseli n/L—Ceske Velenice (b.st. CD/OBB)—Gmund (b.st. OBB/CD)—Vienna FJB TN
+
+E 560 Buzau—Faurei—Galati TN
+
+T 560 Faurei—Bucuresti TN
+
+E 562 Bucuresti—Fetesi—Medgidia—Constanta TN
+
+T 962 Wroclaw—Miedzylesie (b.st. PKP/CD) Lichkov (b.st. CD/PKP)—Letohrad—Usti n/O TN
+
+T 654 Wisla Most—Zwardon (b.st. PKP/ZSR)—Skalite (b.st. ZSR/PKP)—Cadca TN
+
+T 655 Psary—Krakow TN
+
+E 680 Sofia—Mezdra—Gorna Oriahovitza—Kaspican—Sindel—Varna TN
+
+T 680 Medgidia—Negru Voda (b.st. SFR/BDZ)—Kardam—Sindal TN
+
+E 691 Murakeresztur—GyekenyesTN
+
+TN
+
+T 691 Gyor—Papa—Celldomolk—Porpac—Szombathely—Kormend—Zalalovo TN
+
+T 692 Csorna—Porpac TN
+
+T 693 Celldomolk/ Vinari Bros—Boba TN
+
+E 700 Rotov-na-Donu—Tihoreckaia—
+and
+Uzlovaya—Makhachkala—Yalarna
+TN
+
+E 700/2 Astrakhan—Uzlovaya TN
+
+E 701 Armavir—Sotchi—Veseloe (b.st. ZSR/Georgia)—Sukhumi—Senski—Samtredia—Tbilisi—
+Gardabani
+TN
+
+E 701/1 Samtredia—Batumi TN
+
+E 701/2 Senski—Poti TN
+
+E 703 Tbilisi—Sadakhlo TN
+
+E 720 Plovdiv—Stara Zagora—Karnobat—Burgas TN
+
+E 751 Volinja (b.st. HZ/BHZ)—Dobrljin (b.st. BHZ/HZ)—Bosanski Novi—Bihac—Ripac (b.st.
+BHZ/HZ)—Strmica (b.st. HZ/BHZ)—Knin—Perkovic—Split/Sibenik
+TN
+
+E 753 Ostarije—Gospic—Knin—Zadar TN
+
+E 771 Strizivojna Vrpolje—Slavonski Samac (b.st. HZ/BHZ)—Bosanski Samac (b.st. BHZ/HZ)—
+Sarajevo—Caplijina (b.st. BHZ/HZ)—Metkovic (b. st. HZ/BHZ)—Ploce
+TN
+
+T 771 Zvornik (b.st. BHZ/JZ)—Tuzla—Doboj—Banja Luka—Bosanski Novi TN
+
+E 773 Dombovar—Pecs—Magyarboly (b.st. MAV/HZ)—Beli Manastir (b.st. HZ/MAV)—Osijek—
+Strizivojna Vrpolje
+TN
+
+E 851 {Lvov—Cernivci}—Vadul Siret (b.st. CFR/UZ)—Bviscani—Suceava—Pascani TN
+
+E 885 Sofia—Pernik—Radomir—Kulata (b.st. BDZ/CH)—Promachon (b.st. CH/BDZ)—Thessaloniki TN
+
+T 855 Radomir—Bueshevo (b.st. BDZ/CFARYM)—{Kriva Palanka—Kumanovo—Skopje—Tetovo—
+Struga—Librazhdi—Elbasani—Durres}
+TN
+
+E 951 Karnobat—Sindel TN
+
+Map of the TER Network
+
+TER Parameters are
+Technical Standards for the TER Network
+1. Vehicle loading gauge:
+UIC/B
+2. Minimum distance between track centres: 4.0 m
+3. Nominal minimum speed:
+120 km/h
+4. Authorized mass per axle:
+— Locomotives ≤ 200 km/h):
+22,5 t
+— Wagons:
+120 km/h:
+20 t
+140 km/h:
+18 t
+5. Authorized mass per linear metre:
+ 8 t
+6. Test train (bridge design):
+LTIC 71
+7. Minimum platform length in principal
+stations:
+250 m
+8. Minimum useful siding length:
+500 m
+Operational parameters for the TER Network
+1. Passenger transport
+To establish the system of execution of border control
+procedures (police, customs) on the moving train with
+short
+stops
+at
+the
+frontier
+station
+for
+technical/administrative reasons if necessary.
+2. Freight transport
+a) To complete the system of common frontier stations
+in order to avoid the duplication of border controls.
+b) To rationalize the control procedures at the existing
+common frontier stations.
+c) To introduce the frontier control operations of block
+trains in terminals of neighbouring railways wherever
+possible.
+3. Passenger and freight transport
+To introduce the use of hauling vehicles in the territories
+of neighbouring TER countries TER countries wherever
+possible.
+ANNEX II
+Steering Committee (SC)
+1. The Steering Committee (SC) shall be the highest
+decision-making body of the TER It shall consist of
+representatives nominated by the Governments of the
+TER States, preferably at ministerial and/or directorial
+levels. It shall determine the policy of the Project and the
+general measures to be undertaken concerning TER
+activities, and take decisions for common action.
+2. The functions of the SC shall include:
+a) establishing any subsidiary bodies it deems
+necessary;
+b) issuing instructions to the Project Manager or any
+subsidiary bodies it might decide to establish;
+c) approving the programmes of work;
+d) adopting the reports of the Group of TER National
+Co-ordinators
+(TERNC);
+e) adopting the operating budgets and the financial
+reports on their execution;
+f) examining any other matters concerning the activities
+of the TER;
+g) approving the TER Network and the TER Data.
+3. The Rules of Procedure of the SC are the following.
+I. Sessions
+Rule I
+The Steering Committee shall hold one regular session
+a year, the date and location to be decided bí the
+Committee.
+Rule 2
+Special session shall be held by the decision of the
+Committee while in session, or at the request of:
+a) any member with the support of three other
+members, or
+b) the Project Manager with the support of three
+members.
+Rule 3
+All meeting of the Committee shall be closed, unless the
+Committee decides otherwise.
+II. Agenda
+Rule 4
+The Committee shall adopt its agenda at the beginning
+of each session. Any matter within the competence of the
+Committee not included in the provisional agenda for a
+given meeting may be submitted to the Committee by a
+member or by the Project Manager and added to the
+
+agenda by decision of the Committee. The Committee may
+revise the agenda by adding, deleting, deferring or
+amending items.
+III. Representation
+Rule 5
+Each member shall be represented on the Committee by
+a representative who may be accopmanied to session of the
+Committee by alternative representatives and advisers.
+The ECE as the Executing Agency will participate ex
+officio.
+IV. Officers
+Rule 6
+The Committee, at the commencement of its first
+session each year shall elect from among the
+representatives of its members a Chairman and a
+Rapporteur, who hold office during that year and until
+their successors are elected.
+Rule 7
+The Chairman shall participate in the meetings of the
+Committee in that capacity and not as representative of the
+member Government by whom he is accredited. Another
+member of his delegation shall be entitled to represent the
+member Government concerned in the meetings of the
+Committee.
+Rule 8
+The Project Manager shall keep the members of the
+Committee informed, by verbal or written communication,
+of any questions which may be of interest to the
+Committee, and may participate as appropriate in its
+deliberations.
+V. Languagwe and records
+Rule 9
+English shall be the working language of the Project,
+including the Steering Committee. Countries hosting
+Committee sessions may provide interpretation in French
+and/or Russian, whenever possible.
+Rule 10
+Reports of the session of the Committee shall be drafted
+and adopted during these sessions and distributed
+promptly to members of the Committee and to any others
+participating in the session. The reports may be made
+public after their adoption, at such time and under such
+conditions as the Committee may decide.
+VI. Quorum
+Rule 11
+Discussions may not commence without the presence of
+two-thirds of the members of the Committee. Decisions of
+the Committee concerning all matters examined shall be
+taken by consensus of the members present.
+VII. SUbordinate bodies
+Rule 12
+The rules of the Committee shall also apply in principle
+to its subordinate bodies.
+VIII. PArticipation as observers
+of representatiyes of non-member
+governments and international
+organizations
+Rule 13
+a) Governments not members of the Project, and
+b) Specific international organizations and institutions
+Could be represented by observers at its session with
+consultative status without voting rights.
+IX. Amendivient of suspension of rules
+of procedure
+Rule 14
+A rule of procedure may be amended or suspended by
+decision of the Steering Committee upon consensus of all
+the TER countries.
+
+ANNEX III
+Group of TER National Co-ordinators (TERNC)
+1. The membership of TERNC shall comprise the
+National Co-ordinators. In the meetings of the TERNC
+other experts from member States could also participate.
+2. The Group, in principle, shall meet twice each year.
+It may hold special meetings as deemed necessary.
+3. The Group, inter alia, shall:
+a) be responsible for the elaboration, evaluation and
+co-ordination of TER technical activities and their
+economic aspects;
+b) be in charge of the elaboration, evaluation and
+co-ordination of the TER activities concerning the
+financing of the construction of the TER. To fulfil duties
+TERNC considers the outputs of the
+— ad-hoc working groups established by the SC for
+specific subjects;
+c) monitor all activities carried out by the TER;
+d) examine reports and documents submitted by the
+Project Manager
+e) make recommendations to the Steering Committee
+concerning the programmes of work;
+f) consider any other matters at the request of the
+Steering Committee or the Project Manager.
+ANNEX IV
+National Co-ordinators (NC)
+The National Co-ordinator shall be designated by
+his/her Government.
+The National Co-ordinator shall be responsible for:
+(1) serving as contact for the Project „TER” in his/her
+country;
+(2) maintaining liaison between the national
+organizations involved and the Project Central Office by
+taking action at national level to obtain and transmit
+information required in connection with PCO activities;
+(3) co-ordinating national activities under the TER;
+(4) planning and carrying out activities and producing
+outputs in accordance with the TER programmes of work;
+(5) utilizing TER inputs effectively and efficiently;
+(6) attending the SC and TERNC sessions and
+participating in achieving the objectives of the TER.
+ANNEX V
+Project Central Office (PCO)
+The Project Central Office shall co-ordinate all
+activities carried out under the terms of this document and
+operate under the overall direction of the Steering
+Committee, with guidance from the ECE as Executing
+Agency.
+The PCO is located in Budapest, Hungary on the basis
+of the arrangements stipulated in an agreement to be
+signed by the Government of the Republic of Hungary and
+the LTN/ECE Executive Secretary regarding the operation
+of this office.
+The personnel of the PCO comprise the following:
+— Project Manager
+— Deputy Project Manager
+— Assistant Project Manager(s)
+— Other staff
+All the above mentioned staff would be provided with
+diplomatic passports by their respective countries of
+origin. The Project Manager, the Deputy Project Manager,
+the Assistant Project Manager and other International
+staff of the Office shall be considered as officials of the
+United Nations (UN) as defined in the agreement between
+the Government of the Republic of Hungary and the UN
+ECE Executive Secretary.
+The terms regarding the service of PCO’s international
+staff shall be defined in a letter to be exchanged between
+the respective countries of origin of the staff and the UN
+ECE Executive Secretary.
+The new elected Project Manager should come in the
+office one year advance as Deputy Project Manager.
+The competence of this personnel shall be as follows:
+Project Manager
+The Project Manager of the PCO shall be selected from
+one of the TER states by the SC. He/she shall serve for a
+period of two years with the possibility of the SC approving
+extensions for up to two years upon agreement of his/her
+Government.
+The Government providing the services of the Project
+Manager remunerates him/her. The conditions of his/her
+services are determined in a letter exchanged between ECE
+and the Government concerned. When travelling outside
+Budapest (except for operating costs of office car and
+highway tolls for travel within Hungary) his/her travel and
+subsistence expenses are provided from the
+Project-budget.
+The Project Manager shall be responsible for:
+(1) acting as manager of the Project Central Office
+(PCO);
+
+(2) preparing the Draft Programmes of Work for
+approval by the Steering Committee (SC) and
+administering them as adopted;
+(3) acting as Secretary to the Steering Committee (SC)
+and to TER National Co-ordinators (TERNC);
+(4) advising the Chairman of the Steering Committee
+and TERNC on matters requiring decision;
+(5) preparing and distributing information to the
+member countries on matters requiring decision;
+(6) maintaining continuous liaison with the National
+Co-ordinators regarding all matters concerning the
+implementation of T’ER activities.
+(7) preparing the Project Manager’s Report on the
+overall activities of the PCO and developments in the TER
+during the period under review for the SC and the TER
+sessions;
+(8) organizing and preparing of technical and
+administrative documentation for the consideration of all
+TER meetings;
+(9) overseeing the work of experts who provide
+consultancy services in the framework of various activities,
+and with the TER Governments providing contributions
+in-kind to the TER;
+(10) overseeing the administrative and financial
+activities within the competence of the PCO;
+(11) providing assistance for the administration of the
+project „TER” budget, according to the decisions of the SC
+and the provision of the financial rules and regulations of
+the UN;
+(12) assisting in the selection of proposed consultants as
+required, under the guidance of the Steering Committee,
+to render assistance in the execution of specific activities
+in accordance with the programme of work;
+(13) carrying out other tasks as assigned by the SC;
+(14) the Project Manager reports directly to the Director
+of the Transport Division of ECE or to his representative;
+(15) as head of the PCO in Budapest, Hungary, the
+Project Manager supervises both its international staff and
+local staff provided by the Government of Hungary;
+(16) the Project Manager duty station is Budapest,
+Hungary, and any travel away from that duty station is
+undertaken after consultation with, and with approval of
+the Transport Division of ECE.
+Deputy Project Manager
+The Deputy Project Manager is also selected from one
+of the TER countries by the SC.
+The Deputy Project Manager is made available by
+participating States on a similar basis as the Project
+Manager.
+His/her task is to assume in the absence of the Project
+Manager his responsibilities.
+His/her specific responsibilities will be defined by the
+Executing Agency and/or Steering Committee together
+with the Project Manager.
+His/her mandate should be linked to the Project
+Manager’s mandate.
+Assistant Project Manager(s)
+As a function of the workloads involved, the SC may
+select qualified assistant(s) for limited periods, who would
+be responsible for aiding the Project Manager in technical,
+operational and financial aspects of TER management.
+These are selected by the Steering Committee from
+among candidates proposed by the TER States, with the
+assistance of the Project Manager. They are made available
+by participating States on a similar basis as the Project
+Manager or the Deputy Project Manager.
+Other staff
+If necessary, other supporting staff in addition to the
+existing staff provided by the host country, will be recruited
+and remunerated by the Project according to the needs of
+the TER and approved by the Steering Committee
+ANNEX VI
+Budget
+The TER Project shall operate under the budget whose
+main inputs shall be cash contribution in convertible
+currencies from the member States. To this budget can also
+contribute: non-member States and international bodies
+and organizations and/or private bodies.
+Both public and private bodies in the TER states, such
+as universities, design offices, construction companies,
+transportation organizations and some manufacturers, etc.
+may be interested in sponsoring the TER Project.
+The contributions of the member States in convertible
+currencies shall be at an equal level. Those in kind shall be
+at an equal level to the extent possible.
+This budget is planned to cover a period of five years.
+This budget, including countries’ inputs in kind shall be
+utilized under the control of ECE and advising of the
+Project Manager in line with the programme of work and
+the directives of the Steering Committee.
+The main forms of contributions in-kind of the TER
+States are: the operation of PCO, hosting of meetings,
+
+supplying of national experts, preparation of technical
+reports and training programmes, and undertaking of
+specific co-ordination activities
+ANNEX VII
+Letter of Agreement signed between ECE
+and the Host Government of the Project Central Office
+MINISTRY
+MINISTERIUM
+OF TRANSPORT
+FÜR VERKEHR
+and Water Management
+und Wasserwesen
+Minister
+Minister
+KÖZLEKEDÉSI ÉS VÍZÜGYI MINISZTÉRIUM
+MINISZTER
+000778/024/2001.
+Budapest, 10 July 2001
+Mrs. Danuta Hübner
+Executive Secretary United Nations
+Economic Commission for Europe
+GENEVA
+Dear Mrs. Executive Secretary,
+Hungary has extended its joining to the Trans-European
+Railway Cooperation Trust Fund Agreement (hereinafter:
+TER Agreement) for the period 2001—2005 and has taken
+on the operation of the TER Project Central Office
+(hereinafter: PCO) in Budapest as it had been in the earlier
+years.
+Under Section 4, Article IV of TER Agreement, the
+PCO has no independent legal personality, nevertheless
+the Government acknowledges the PCO’s right to organise
+meetings and perform other activities aiming at the
+implementation of TER Agreement within the territory of
+the Republic of Hungary.
+During the term of TER Agreement, the PCO’s seat
+shall be in Budapest. The Government of the Republic of
+Hungary undertakes to provide the following for the
+operation of the PCO:
+a) an office consisting of 4 rooms with a total area of
+approximately 160 m
+2 supplied with appropriate furniture
+(curtains, carpets, lamps, electronic alarm system) and
+associated utility rooms to be developed according to the
+needs and for the exclusive use of the PCO,
+b) a passenger car for official use by the PCO,
+c) direct phone lines (1 ISDN line, 2—3 main lines,
+1 mobile line) with a telefax.
+The
+Government
+of
+the
+Republic
+ot
+Hungary
+undertakes to pay me following charges related to the
+operation of the PCO:
+a) rent,
+b) office maintenance fee,
+c) utility charges (cleaning, beating, water, electricity,
+gas supply, sewage disposal, refuse collection),
+d) wages of the local personnel (2 administrative
+clerks), including allowances and social benefits,
+e) operation of a passenger car used for official
+purposes within the territory of the Republic of Hungary
+(fuel, toll, maintenance, insurance).
+In consequence of the above-mentioned, the PCO
+assumes the following obligations from the budget
+according to Part 2 of the TER Agreement:
+a) supply, operation and maintenance of the rooms
+with technical equipment,
+b) settlement of all phone, telefax, Internet and postal
+charges,
+c) operation of the passenger car for official use outside
+the territory of the Republic of Hungary (fuel, toll,
+insurance, removal of damages beyond the border).
+The competent Hungarian authorities shall provide the
+necessary public utilities to the PCO, including electricity,
+water and gas supply, sewage disposal, refuse collection,
+postal
+and
+telecommunications
+services
+without
+limitation. In the case of suspension or failure of the
+services, the competent Hungarian authorities shall meet
+the PCO’s demands at the same level as they do for key
+government agencies and shall take the necessary measures
+to ensure its smooth operation.
+The scope of the Convention on the Privileges and
+Immunities of the United Nations signed on 13 February
+
+(hereinafter:
+LTN
+Convention)
+extends
+as
+appropriate in respect of the PCO, the premises of which,
+wherever located, shall be considered as premises of the
+United Nations.
+In terms of the TER Agreement the PCO has got
+international and Hungarian staff, the bead of the PCO is
+the Project Manager.
+The international staff of the PCO (the Project
+Manager, his deputy and assistants as well as the other
+United Nations staff of the PCO shall be considered as
+officials of the United Nations, as defined in the UN
+Convention, entitled to the privileges and immunities in
+Hungary set forth in paragraphs 18, 19, 20 and 21 of Article
+V of the UN Convention and in the Hungarian laws in
+force.
+The experts delegated by the Economic Commission for
+Europe of the United Nations or by the governments that
+signed the TER Agreement to take part in the work of the
+TER Project are entitled to the privileges and immunities
+
+during their term of delegation in Hungary, including the
+period of their travel, as set forth in Article VI of the UN
+Convention and the Hungarian laws in force.
+The delegates of the governments that signed the TER
+Agreement who attend the meetings organised by the PCO
+are entitled to the benefits provided in Article IV of the
+UN Convention during the performance of their duties and
+during their travel to Hungary and back and they are
+entitled to all other benefits provided by the Hungarian
+laws in force.
+It is understood that Section 18 d), e), f) and, g) of the
+Convention shall not apply to nationals of Hungary
+recruited by the UN for the PCO within the country.
+I-However, auxiliary staff who are Government employees
+and who are provided by the Government to the Project
+shall be entitled to immunity from legal process in respect
+of words spoke or written and all acts performed by them
+in their official service with the Project. They shall have a
+special status which will make them subject during such
+service to the supervision and discipline of the Project
+Manager and require them to comply with the Provisions
+of article I of the United Nations Staff Regulations as
+appropriate which the UN, after consultation with the
+Government, shall communicate to them with such
+adjustments as it (UN) may deem necessary to reflect their
+status.
+It is understood that privileges and immunities are
+granted to officials in the interests of the United Nations
+and not for the personal benefit of the individuals
+themselves. The Secretary-General shall have the right and
+the duty to waive the immunity of any official in any case
+where, in his opinion, the immunity would impede the
+course of justice and can be waived without prejudice to
+the interests of the United Nations.
+The United Nations shall cooperate at all times with the
+appropriate authorities to facilitate the proper
+administration of justice, secure the observance of police
+regulations and prevent the occurrence of any abuse in
+connection with the privileges. immunities and facilities
+mentioned above.
+The PCO is entitled to all allowances and relief’s which
+are ensured according to the rules for diplomatic corps in
+the territory of the Republic of Hungary in respect of the
+products and services purchased or used by PCO in
+Hungary for official purposes.
+The costs of goods and services bought or used in
+Hungary by the TER Project shall be paid by the PCO in
+Hungarian Forints (HUF).
+I would appreciate if you could signify your agreement
+with the above arrangements by signature and return to me
+the enclosed copy of this letter.
+Accept, Madam, the assurances of my highest
+consideration.
+Dr. János Fónagy s. k.
+Accepted for the United nations Economic Commission
+for Europe:
+Danuta Hübner s. k.,
+Executive Secretary
+ANNEX VIII
+Dear Mr. Ambassador,
+I am pleased to inform you that at the recent session of
+the Steering Committee (SC) of the Trans-European
+Railway (TER), there was unanimous support for Mr./Mrs.
+................................... ofyour Government to be nominated
+as Assistant/Deputy/Project Manager of the TER from
+.......................................... to ...................................................
+According to the Trust Fund Co-operation Agreement,
+the Project Manager is „selected” from one of the TER
+States by the Steering Committee. He/she shall serve for a
+period of two years with the possibility of the Steering
+Committee approving extensions for up to two years upon
+agreement of his/her Government.
+The conditions governing the duties of Mr./Mr
+......................................................, which will be incorporated
+in a Special Service Agreement to be signed by Mr./Mrs.
+................................................... and the United Nations, are
+reproduced below for consideration and approval by the
+competent authorities of your country.
+Responsibilities of the deputy, assistant(s) and other
+staff to the Project Manager the deputy and assistant(s) are
+responsible for aiding the Project Manager in technical,
+operational and financial aspects of TER management.
+The Steering Committee should, considering also the
+Project Manager’s proposal, define the concrete
+responsibilities of the Deputy and Assistant Project
+Manager in advance to the elections.
+The responsibilities of each would be clarified between
+the Executive Agency and the Project Manager.
+His/her mandate should be linked to the Project
+Manager’s mandate.
+Mr./Mrs. ........................................ : will be charged with
+............................................ matters.
+Responsibilities of the Project Manager
+In accordance with Annex VII of the Trans-European
+Railway (TER) Co-operation Trust Fund Agreement, the
+Project Manager, under the direction of the Steering
+Committee and the guidance of ECE, is responsible for:
+
+1. acting as Manager of the Project Central Office
+(PCO);
+2. preparing the Draft Programmes of Work for
+approval
+by
+the
+Steering
+Committee
+(SC)
+and
+administering them as adopted;
+3. acting as Secretary to the Steering Committee (SC)
+and to the TER National Co-ordinators (TERNC);
+4. advising the Chairman of the Steering Committee
+and the TERNC on matters required decision;
+5. preparing and distributing information to the
+member countries on matters requiring decision;
+6. maintaining continuous liaison with the National
+Co-ordinators
+regarding
+all
+matters
+concerning
+the
+implementation of TER activities;
+7. preparing the Project Manager’s Report on the
+overall activities of the PCO and developments in the TER
+during the period under review for the SC and the TERNC
+sessions;
+8. organizing
+and
+preparing
+of
+technical
+and
+administrative documentation for the consideration of all
+TER meetings;
+9. overseeing the work of experts who provide
+consultancy services in the framework of various activities,
+and with the TER Governments providing contributions
+in-kind to the TER;
+10. overseeing
+the
+administrative
+and
+financial
+activities within the competence of the PCO;
+11. providing assistance for the administration of the
+project budget, according to the decisions of the SC and
+the provisions of the financial rules and regulations of the
+UN;
+12. assisting in the selection of proposed consultants as
+required, under the guidance of the SC, to render
+assistance in the execution of specific activities in
+accordance with the programmes of work;
+13. carrying out other tasks as assigned by the SC.
+The Project Manager reports directly to the Director of
+the Transport Division of the ECE or to the representative.
+As head of the PCO in Budapest, Hungary, the Project
+Manager supervises both its international staff and local
+staff provided by the Government of;
+The Project Manager’s duty station is Budapest,
+Hungary, and any travel away from That duty station is
+undertaken after consultation with, and with approval of
+the Transport Division of ECE.
+On the basis of the above conditions, the United Nations
+will offer Mr./Mrs ....................................... a contract from
+.......................... to .............................. as Assistant Deputy)
+Project Manager.
+Additional special provisions are indicated below:
+1. The Government of .................shall be responsible
+for the payment of salary and all other allowances and
+benefits, i. e.:
+a) direct payment to him/her of all emoluments and
+allowances to which he is normally entitled;
+b) payment of all related costs regarding the shipment
+of personal and household affects to and from the duty
+station;
+c) payment of travel and related expenses to and from
+the duty station for himself/herself and his/her dependants
+upon appointment and separation from ECE.
+2. The Government of ....................................... shall be
+responsible
+for
+appropriate
+medical
+and
+accident
+insurance for Mr./Mrs. .................................... covering the
+period of this contract with the ECE over and above what
+is stipulated in paragraph 4 c.
+3. The
+United
+Nations
+will
+provide
+Mr./Mrs.
+............................... with:
+a) A document attesting to his/her status as a United
+Nations
+expert
+on
+mission
+and
+as
+UN-ECE-TER
+Assistant) Deputy/Project Manager;
+b) Daily subsistence allowance during his/her official
+travel away from the duty station;
+c)The United Nations, in the event of death, injury or
+illness attributable to the performance of services on
+behalf of the United Nations while in travel status under
+the terms of this contract, the consultant or his dependants
+shall be entitled to compensation equivalent to the
+compensation which would be payable under United
+Nations performing similar functions.
+I should be grateful if you would communicate the
+conditions as set out on this letter to the competent
+authorities in ...............................
+Should these conditions be acceptable, please return
+this letter to me duly countersigned.
+I remain, dear Mr. Ambassador, Yours sincerely,
+Executive Secretary
+Economic Commission for Europe
+I agree with the terms of this letter
+Name and title: ....................................................................
+Date: .....................................................................................
+(Ambassador .......................................................................
+Permanent Representative of ........................................)”
+
+„Az ENSZ Transz-Európai Vasúti Együttműködési
+Alapítványi Egyezményről (TER) szóló Megállapodás
+Létrejött
+egyrészt az Egyesült Nemzetek Európai Gazdasági
+Bizottsága (EGB) és
+másrészt a TER részt vevő Kormányok között, az aláb-
+biak szerint:
+I. Cikk
+Az Egyezmény tárgya
+Az Egyesült Nemzetek Európai Gazdasági Bizottsága és
+a TER-Kormányok (a továbbiakban: részt vevő Kormá-
+nyok) megállapodtak abban, hogy együttműködnek a
+Transz-Európai Vasúti (TER) projekt (a továbbiakban:
+Projekt) megvalósításában. A Projekt leírását a mellékle-
+tek tartalmazzák. Az Egyesült Nemzetek Európai Gazda-
+sági Bizottsága és a részt vevő Kormányok megállapodtak
+továbbá abban, hogy az Egyesült Nemzetek Európai Gaz-
+dasági Bizottsága legyen az említett Projekt Végrehajtó
+Ügynöksége.
+II. Cikk
+A részt vevő Kormányok pénzalapokkal járulnak hozzá a
+Projekt költségeinek finanszírozásához, az alábbiak szerint:
+III. Cikk
+A Végrehajtó Ügynökség lesz a felelős a jelen Egyez-
+mény feltételei között és a TER Intéző Bizottság döntései
+alapján a részt vevő Kormányok által a Projekt költségei-
+nek fedezésére adott alapok kezelésének munkaprogram-
+jáért és költségvetéséért.
+Az Egyesült Nemzetek Európai Gazdasági Bizottságá-
+nak Végrehajtó Titkársága látja el továbbá azokat a titkár-
+sági feladatokat, amelyeket a jelen Egyezmény számára
+előír és amelyeket a felek ezeken felül még meghatároz-
+hatnak.
+IV. Cikk
+Minden részt vevő Kormány, az alábbi 2. pontban leírt
+módon, az Egyesült Nemzetek rendelkezésére bocsát évi
+10 000 dollár összeget, amelyet adott esetben további hoz-
+zájárulások egészíthetnek ki valamely más forrásból, és az
+Egyesült Nemzetek Európai Gazdasági Bizottsága ezt az
+alapot a Projekt költségeinek fedezésére fordítja, a mellék-
+letben foglaltak szerint.
+1. Minden részt vevő Kormány legkésőbb minden év
+januárjában letétbe helyezi a fent említett alapokat, kon-
+vertibilis valutában, korlátlan felhasználásra, az Egyesült
+Nemzetek Európai Gazdasági Bizottsága által megjelölt, a
+Swiss Bank Corporation, Case postale 2770, CH 1211
+Genéve 2. banknál vezetett számlára.
+2. Az Egyesült Nemzetek Európai Gazdasági Bizottsá-
+ga egy alapítványt hoz létre az Egyesült Nemzetek Pénzügyi
+Szabályzatai és Szabályai szerint a fenti alapok fogadása és
+kezelése céljából.
+3. Az alapítványt és az abból finanszírozott tevékenysé-
+geket az Európai Nemzetek Európai Gazdasági Bizottsága
+kezeli az Egyesült Nemzetek érvényes szabályzatai, szabá-
+lyai és irányelvei szerint. E szerint kell a személyzetet
+alkalmazni és irányítani, a berendezések, beszállítások és
+szolgáltatások beszerzését intézni, és szerződéseket kötni,
+ezekkel a szabályzatokkal, szabályokkal és irányelvekkel
+összhangban.
+4. Az összes könyvelési számlát és kimutatást USA dol-
+lárban kell vezetni.
+V. Cikk
+1. Az alapítványt terhelik az Egyesült Nemzetek Euró-
+pai Gazdasági Bizottsága részéről a Projekt-tevékenységek
+megvalósítása során felmerült kiadások.
+2. Az alapítványt terheli továbbá az alapítvány összes
+kiadásának tizenhárom (13) százaléka; ez a részarány az
+Egyesült Nemzetek Európai Gazdasági Bizottsága által az
+alapítványból finanszírozott Projekt programtámogatási
+szolgáltatásának a díja.
+3. Az alapítványt terheli továbbá a Végrehajtó Ügynök-
+ség által alkalmazott személyek, illetve az alapítványból
+fizetett személyek díjazásának vagy nettó bérének egy
+(1) százalékával megegyező összeg is, amely tartalékot ké-
+pez a szolgáltatás során előforduló haláleset, baleset vagy
+betegség miatti követelés fedezetére, az Egyesült Nemze-
+tek érvényes szabályzatainak és szabályainak vagy szerző-
+déseinek alapján; ezt a tartalékot nem lehet visszafizetni a
+részt vevő Kormányoknak.
+VI. Cikk
+1. Az Egyesült Nemzetek Európai Gazdasági Bizottsá-
+ga a jelen Egyezmény szerinti tevékenységeket a hozzájá-
+rulások kézhezvétele után kezdi el és folytatja.
+2. Az Egyesült Nemzetek Európai Gazdasági Bizottsá-
+ga semmiféle kötelezettséget nem vállal a Projekt kiadá-
+saira meghatározott összegeken felül.
+
+3. Amennyiben előre nem látott kiadások merülnek fel,
+vagy ha a IV. Cikk 1. pontjában meghatározott éves hozzá-
+járulás nem bizonyul elegendőnek a Projekt költségeinek
+finanszírozására, akkor az Egyesült Nemzetek Európai
+Gazdasági Bizottsága pótköltségvetést nyújt be a részt vevő
+Kormányoknak, a szükséges további fedezeti igényről.
+Ha nem áll rendelkezésre ilyen további fedezet, akkor az
+Egyesült Nemzetek Európai Gazdasági Bizottsága
+csökkentheti, vagy szükség esetén beszüntetheti a Projekt-
+hez a jelen Egyezmény alapján nyújtott támogatást. Az
+Egyesült Nemzetek Európai Gazdasági Bizottsága semmi-
+lyen esetben sem vállal kötelezettséget az alapítvány
+pénzalapjain felül.
+VII. Cikk
+Az ezen alapítványból finanszírozott berendezések, be-
+szállítások és egyéb vagyontárgyak tulajdonjoga az Egye-
+sült Nemzetekre száll át. A jelen Egyezmény felbontása
+vagy lejárta után a tulajdonjog ügye a részt vevő Kormá-
+nyok és a Végrehajtó Ügynökség között folytatandó tár-
+gyalások tárgyát képezi.
+VIII. Cikk
+A jelen alapítványból finanszírozott Projekt tevékenysé-
+gek értékelését az Egyesült Nemzetek Európai Gazdasági
+Bizottsága és a részt vevő Kormányok közösen végzik,
+megfelelő időszakonként.
+IX. Cikk
+A jelen alapítvány kizárólag az Európai Nemzetek Pénz-
+ügyi Szabályzataiban, Szabályaiban és irányelveiben lefek-
+tetett könyvvizsgálói eljárások hatálya alá tartozik.
+X. Cikk
+Az Egyesült Nemzetek Európai Gazdasági Bizottsága
+átadja a részt vevő Kormányoknak az Egyesült Nemzetek
+számviteli és jelentéstételi eljárásaival összhangban készí-
+tett következő kimutatásokat és beszámolókat:
+a) Éves pénzügyi kimutatásokat, amelyek a minden év
+december 31-ei időpontnak megfelelő bevételt, kiadást,
+eszközöket és forrásokat tartalmaznak az adományozó
+Kormány által nyújtott alap vonatkozásában.
+b) Zárójelentést és záró pénzügyi kimutatást, a jelen
+Egyezmény lejártától vagy megszüntetésétől számított hat
+hónapon belül.
+XI. Cikk
+Az Egyesült Nemzetek Európai Gazdasági Bizottsága, a
+TER Intéző Bizottságával konzultálva értesíti a részt vevő
+Kormányokat, ha — véleménye szerint — megvalósultak
+azok a célok, amelyekre az alapítványt létrehozták. Ennek
+az értesítésnek az időpontja a jelen Egyezmény lejártának
+a dátuma, attól függően, hogy hatályban marad-e a
+XIV. Cikk a benne foglalt célok érdekében.
+XII. Cikk
+Az Egyesült Nemzetek Európai Gazdasági Bizottságá-
+nak bármely tagállama, valamint a Bizottsággal konzultatív
+státuszban álló államok, továbbá az Egyesült Nemzetek
+Európai Gazdasági Bizottságának szuverén tagállamai ál-
+tal létrehozott regionális gazdasági integrációs szerveze-
+tek, amelyek illetékesek a jelen Egyezményben szereplő
+kérdésekben és részt óhajtanak venni a Projektben, követ-
+kezésképpen a jelen Egyezményben is, erről értesítést ad-
+nak az Egyesült Nemzetek Európai Gazdasági Bizottsága
+Végrehajtó Titkárságának. A Titkárság az értesítések má-
+solatát megküldi a részt vevő Kormányoknak.
+Amennyiben a Végrehajtó Titkársághoz a feleknek el-
+küldött értesítéstől számított kilencven napon belül nem
+érkezik kifogás a részvételi szándékkal kapcsolatosan, a
+szóban forgó állam vagy szervezet a jelen Egyezmény Szer-
+ződő Felévé válik, feltéve, ha vállalja, többek között, az
+I. Cikkben foglalt kötelezettségek betartását. A Végrehajtó
+Titkárság gondoskodik a felek megfelelő tájékoztatásáról.
+XIII. Cikk
+A jelen Egyezményt akár az Egyesült Nemzetek Európai
+Gazdasági Bizottsága, akár a részt vevő Kormányok meg-
+szüntethetik, a többi félnek 30 nappal korábban megkül-
+dött írásos értesítéssel, attól függően, hogy hatályban ma-
+rad-e a XIV. Cikk a benne foglalt célok érdekében.
+XIV. Cikk
+A jelen Egyezmény XI. vagy XIII. Cikk szerinti meg-
+szüntetése vagy lejárta után az alapokat továbbra is az
+Egyesült Nemzetek Európai Gazdasági Bizottsága kezeli,
+mindaddig, amíg ebből az alapból ki nem elégítik az Egye-
+sült Nemzetek Európai Gazdasági Bizottsága részéről fel-
+
+merülő összes kiadást. Ezt követően az alapítványban ma-
+radó bármely maradványról a részt vevő Kormányok által
+megjelölt módon történik intézkedés.
+XV. Cikk
+Ez az Egyezmény minden TER állam részére aláírásra
+nyitva áll. Akkor lép hatályba, miután az Egyesült Nemze-
+tek Európai Gazdasági Bizottsága és a következő TER
+részt vevő Kormányok aláírták: Magyarország, Románia és
+Törökország.
+A fentiek hiteléül, a szabályosan meghatalmazott alá-
+írók Genfben, két példányban, aláírták a jelen Egyezményt.
+Az Egyezményhez mellékelt végrehajtási
+rendelkezések
+MELLÉKLET
+1. RÉSZ
+2001—2005. évi munkaprogram
+A jövőbeni TER tevékenységekkel foglalkozó Ad Hoc
+Szakértői Munkacsoport ajánlásaival (Budapest, 1996. jú-
+lius 15—17.) és a TER Együttműködési Alapítványi Egyez-
+mény célkitűzéseivel összhangban elfogadásra került a
+2001—2005. évi Munkaprogram. Ez képezi a szükséges
+keretet a Központi Projektiroda (PCO) és a tagországok
+konkrét tevékenységeinek fejlesztéséhez a TER Szervezet
+általános fejlesztése irányába teendő előrelépés céljából az
+alábbi kérdésekben:
+1. A vasúti és a kombinált fuvarozási infrastruktúra
+korszerűsítése:
+— a TER hálózat korszerűsítése;
+— tanulmányok készítése TER vonalszakaszokra;
+— a TER együttműködési tevékenységek optimalizálása;
+— a szűk keresztmetszetek feltárása és intézkedések
+azok megszüntetésére;
+— szemináriumok és tanfolyamok szervezése;
+— a PCO és a tagállamok együttműködése más nemzet-
+közi fórumokkal, az infrastrukturális és a pénzügyi terve-
+zés megvalósításában, a vasúti és a kombinált fuvarozás
+területén;
+— a PCO és a tagállamok magántársaságokkal való
+kapcsolatainak a fejlesztése az alapítvány számára pénzbeli
+bevételek szerzése céljából;
+— a PCO segítségnyújtása a kormányzati vagy nem-
+kormányzati intézmények által szervezett különböző kon-
+ferenciákon, szemináriumokon stb. való részvételhez.
+2. Az adatbank fejlesztése és felhasználása:
+— tanulmányok készítése vagy a PCO, mint alvállalko-
+zó részvétele a TER hálózatra vonatkozó tanulmányok
+készítésében, az összegyűjtött adatok felhasználásával és
+együttműködve a tagországokkal;
+— a PCO együttműködése a magánszektorral a Pro-
+jekthez további alapok szerzése céljából, kiválasztott adat-
+kategóriák értékesítése révén;
+— az adatok karbantartásának és feldolgozásának foly-
+tatása;
+— a PCO együttműködése más, adatgyűjtéssel foglal-
+kozó nemzetközi intézményekkel.
+3. A vasút üzemeltetésének, szervezésének és irányítá-
+sának javítása:
+— kiválasztott folyosókon a szolgáltatások javítását
+célzó új tanulmányok ösztönzése, elemzés, következteté-
+sek és ajánlások;
+— a vasúttársaságok által végrehajtott szerkezet- átala-
+kítási intézkedések értékelése;
+— a „TER műszaki és üzemi paraméterek”, valamint
+az AGC és AGTC paraméterei alkalmazásának értékelése;
+— a kombinált fuvarozás fejlesztésével kapcsolatos
+tanulmányok támogatása a tagállamokban és kapcsolatok
+létesítése a kombinált fuvarozást végző gazdasági szerep-
+lőkkel;
+— a vasúttársaságok piacorientált irányítással kapcso-
+latos tevékenységének szervezése;
+— új szolgáltatások bevezetésére irányuló intézkedé-
+sek (szabad teherszállítási útvonalak, vegyes vállalatok)
+vagy/és nemzetközi csoportosulások értékelése;
+— a TER országok által alkalmazott környezetbarát
+közlekedéssel kapcsolatban bevezetett intézkedések érté-
+kelése;
+— a TER országokban az országos közlekedési infra-
+struktúrához való jog biztosításával kapcsolatban hozott
+intézkedések értékelése.
+4. A vasúti technika és technológia javítása és harmo-
+nizációja:
+— a know-how és új technológiák átadásával foglalko-
+zó tanfolyamok, szemináriumok szervezése;
+— együttműködés más intézményekkel a pályafenn-
+tartás, a jelző- és távközlő berendezések korszerűsítése, az
+informatika alkalmazása stb. terén.
+
+CÉLKITŰZÉS TEVÉKENYSÉG EREDMÉNY
+1. A TER hálózat fejlesztése
+(vasúti és kombinált fuvaro-
+zás)
+1.1. 1.1.1. Korszerűsített Egyezmény,
+mellékletekkel és
+függelékekkel
+1.2. A TER együttműködési tevé-
+kenységek optimalizálása
+1.2.1. A TER tevékenységek
+koordinációjának értékelési
+rendszere
+1.3. A TER hálózat felülvizsgá-
+lata
+1.3.1. — Korszerűsített TER
+hálózat az új
+fejlesztések vagy a
+TER-hez csatlakozó új
+államok alapján
+— A kormányok terveinek
+és programjainak
+leltára, valamint
+megvalósíthatósági vagy
+előzetes beruházási
+tanulmányok a TER
+hálózat korszerűsítése
+céljából
+— A TER régió
+vasútvonalain
+lebonyolított szállítások
+fejlesztését célzó
+tanulmányok
+— Tanulmány az Ukrajnán
+át a Varsó—Bukarest
+folyosón vezető vonal
+európai nyomtávra való
+lehetséges átállításáról
+— Forgalom-előrejelzés a
+TER vonalakra
+— Jelentés a TER hálózat
+fejlesztéseiről
+1.4. TER szűk keresztmetszetek 1.4.1. A megvalósíthatósági
+előtanulmányokra és szűk
+keresztmetszetekre
+vonatkozó vélemények
+értékelése és cseréje
+általánosan elfogadott
+kritériumok alapján
+1.4.2. A szűk keresztmetszetek
+javítása és megszüntetése
+megfelelő közös
+intézkedésekkel és a
+vonatkozó jogi eszközök
+alkalmazásával
+1.5. Részvétel üléseken, konfe-
+renciákon stb.
+1.5.1. PCO jelentés a megfelelő
+nemzetközi üléseken való
+részvételt követően
+
+CÉLKITŰZÉS
+TEVÉKENYSÉG
+EREDMÉNY
+1.5.2.
+A Végrehajtó Ügynökség tá-
+jékoztatója a tagállamokon
+kívüli államokkal való kap-
+csolatokról a TER tagság nö-
+velése érdekében
+1.6.
+Szemináriumok, műhelyek és
+gyakorlati tanfolyamok
+1.6.1.
+Találkozók szervezése vasúti
+vezetők számára, szemináriu-
+mok, műhelyek, gyakorlati tan-
+folyamok, valamint a TER álla-
+mok részvételének elősegítése a
+különböző konferenciákon
+2.
+Vasúti adatbank létesítése és
+felhasználása
+2.1.
+Rendszer kiépítése az adat-
+bank közös felhasználására
+2.1.1.
+A tagállamok által az
+adatbankba bevitt adatok
+felhasználása
+2.2.
+Intézkedés az adatok értéke-
+sítésére
+2.2.1.
+Adatszolgáltatás
+a
+tagálla-
+mokon
+kívüli
+államoknak,
+ezzel bevételt szerezve más
+Projekt-tevékenységekhez
+2.3.
+Adatok folyamatos karban-
+tartása és feldolgozása
+2.3.1.
+A
+Földrajzi
+Információs
+Rendszer (Geographic Infor-
+mation System, GIS) kiépíté-
+se a TER CO-ban. A térképe-
+ket és a feldolgozott adatokat
+a TER PCO szolgáltatja min-
+den tagállamnak a megfelelő
+hálózat és terület részére. A
+TER PCO ellátja továbbá a
+tagállamokat összesített tér-
+képekkel és az egész hálózat-
+ra vonatkozóan feldolgozott
+adatokkal a TER Nemzeti
+Koordinátorok által elhatá-
+rozott különleges feltételek
+mellett, a TER Adatbázis
+Szakértő Csoport vonatkozó
+ajánlásai alapján
+2.3.2.
+A feldolgozott adatok
+elérhetősége a
+követelmények szerint.
+3.
+A vasút gazdasági és pénzügyi
+helyzetének és irányításának
+javítása
+3.1.
+A kiválasztott folyosó men-
+tén
+nyújtott
+szolgáltatások
+értékelése
+3.1.1.
+A Moszkva—Alexandropoulis
+és Athén közötti folyosón
+mint a TER hálózat részén a
+forgalom fejlesztését célzó
+tanulmányok
+3.1.2.
+Új vasúti szolgáltatások (Sza-
+bad pályák, vegyes vállalatok
+stb.) bevezetéséhez szüksé-
+ges gazdasági és jogi feltéte-
+lek meghatározása
+3.2.
+A műszaki bázis meghatáro-
+zása a TER vonalakon
+3.2.1.
+A TER vonalak műszaki bá-
+zisának szükséges korszerűsí-
+tése (állomások, pálya stb.)
+
+CÉLKITŰZÉS TEVÉKENYSÉG EREDMÉNY
+3.3. Közös stratégia a megfelelő
+vasúti üzemeltetés, gazdasági
+és pénzügyi irányítás meg-
+valósítására
+3.3.1. A vasútigazgatóságok által
+alkalmazott intézkedések-
+ről értékelő jelentés, az 1993-
+ban elfogadott közös stra-
+tégia figyelembevételével, a
+megfelelő vasúti gazdasági
+és pénzügyi irányítás érde-
+kében
+3.4. A vezetői információs rend-
+szer, M.I.S. működése
+3.4.1. Értékelő jelentés a TER or-
+szágokban működő M.I.S.-ek
+jelenlegi helyzetéről további
+intézkedésre
+3.5. Kombinált fuvarozás 3.5.1. A nemzetközi kombinált
+fuvarozás fejlesztése útjában
+álló mindenféle akadály meg-
+határozása
+3.6. Vasutak átszervezése 3.6.1. Időközi jelentés a TER orszá-
+gok vasútjai szerkezetátalakí-
+tásának megvalósításáról
+4. A vasúti technika és techno-
+lógia javítása és harmonizá-
+lása
+4.1. Gördülőállomány 4.1.1. Kerekasztalok szervezése a
+gördülőállományról
+4.1.2. Véleménycsere és vélemé-
+nyek értékelése a gördülőál-
+lomány gyártása, beszerzése
+és fenntartása terén történő
+fejlesztésekről
+4.2. Pályafenntartás és felújítás, a
+technológia korszerűsítése
+4.2.1. Időközi jelentés a TER or-
+szágokban kialakult jelen-
+legi helyzetről és ajánlások
+készítése az utómunkála-
+tokra
+4.2.2. Kerekasztalok szervezése a
+pályafenntartásról és építő-
+mérnöki kérdésekről
+4.3. Villamosítás, jelző és távköz-
+lő berendezések, az informa-
+tika alkalmazása
+4.3.1. Javaslatok a TER országok
+jelenlegi helyzetének közelí-
+tésére lehetséges további in-
+tézkedés céljából
+4.4. Információcsere új szolgálta-
+tások lehetőségéről
+4.4.1. Az új vasúti szolgáltatások
+bevezetése útjában álló tech-
+nikai akadályok meghatáro-
+zása
+4.5. Információcsere a vasúti fu-
+varozás termelékenységéről
+4.5.1. Jelentés a vasúti fuvarozás
+termelékenységéről a TER
+országokban
+4.6. A vasúti fuvarozás környe-
+zetvédelmi szempontjaival
+kapcsolatban rendelkezésre
+álló tanulmányok összegyűj-
+tése
+4.6.1. A vasúti fuvarozás környezet-
+barát voltát bemutató jelen-
+tés
+
+2. RÉSZ
+2001—2005. évi költségvetés Transz-Európai Vasút (TER)
+A Transz-Európai Vasút Projekt 2001—2005.* évi költségvetése
+a 2000. december 31-i tagsági helyzet szerint
+Kód Rész 2001—2005 2001 2002 2003 2004 2005
+10 Projekt személyzet
+11,00 Nemzetközi szakértők
+11,01 Tanácsadók 25 000,00 5 000,00 5 000,00 5 000,00 5 000,00 5 000,00
+11,04 Részösszeg 25 000,00 5 000,00 5 000,00 5 000,00 5 000,00 5 000,00
+13,00 Adminisztratív segédsze-
+mélyzet 3 425,00 685,00 685,00 685,00 685,00 685,00
+15,00 Hivatalos utazások 110 000,00 22 000,00 22 000,00 22 000,00 22 000,00 22 000,00
+16,00 Kiküldetési költségek 50 000,00 22 000,00 22 000,00 22 000,00 22 000,00 22 000,00
+19,00 Összetevő összesen 163 425,00 32 685,00 32 685,00 32 685,00 32 685,00 32 685,00
+20 Alvállalkozás
+21,00 Alvállalkozás 25 000,00 5 000,00 5 000,00 5 000,00 5 000,00 5 000,00
+29,00 Összetevő összesen 25 000,00 5 000,00 5 000,00 5 000,00 5 000,00 5 000,00
+30 Oktatás
+32,00 Csoportos oktatás 275 000,00 55 000,00 55 000,00 55 000,00 55 000,00 55 000,00
+39,00 Összetevő összesen 275 000,00 55 000,00 55 000,00 55 000,00 55 000,00 55 000,00
+40 Berendezések
+41,00 Fogyóeszközök 10 000,00 2 000,00 2 000,00 2 000,00 2 000,00 2 000,00
+42,00 Nem fogyóeszközök 14 075,00 2 815,00 2 815,00 2 815,00 2 815,00 2 815,00
+49,00 Összetevő összesen 24 075,00 4 815,00 4 815,00 4 815,00 4 815,00 4 815,00
+50 51,00 Berendezések üzemelteté-
+se és fenntartása 15 000,00 3 000,00 3 000,00 3 000,00 3 000,00 3 000,00
+52,00 Jelentések költségei 15 000,00 3 000,00 3 000,00 3 000,00 3 000,00 3 000,00
+53,00 Vegyes kiadások 82 5000,00 16 500,00 16 500,00 16 500,00 16 500,00 16 500,00
+59,00 Összetevő összesen 112 500,00 22 500,00 22 500,00 22 500,00 22 500,00 22 500,00
+99 Projekt összesen 625 000,00 125 000,00 125 000,00 125 000,00 125 000,00 125 000,00
+A) Összes hozzájárulás és bevétel 800 000,00
+B) Teljes tervezett kiadás
+A) osztva 1,28-cal 625 000,00
+C) A B) programtámogatásának kb. 13%-a 81 250,00
+D) A B) működési tartalékának kb. 15%-a 93 750,00
+E) Mindösszesen kiadás 800 000,00
+Lásd ezzel együtt a Melléklet 2. részét, valamint a Melléklet 3. részét, és a VI. Függeléket — Költségvetés — is.
+* A részt vevő TER országok számának megfelelően módosításra kerül.
+
+3. RÉSZ
+A 2001—2005. évi keretrendelkezések függelékekkel
+Ausztria, Bosznia-Hercegovina, Bulgária, Cseh Köztár-
+saság, Görögország, Grúzia, Horvátország, Lengyelország,
+Litvánia, Magyarország, Orosz Föderáció, Románia, Szlo-
+vákia, Szlovénia és Törökország Kormányai,
+tekintettel a Transz-Európai Vasút (TER) Projekt do-
+kumentumra,
+figyelemmel a két- és sokoldalú megállapodásokra a
+vasúti és a kombinált fuvarozás területén, különösen az
+Európai Egyezményre a Fő Nemzetközi Vasútvonalakról
+(AGC) és az Európai Egyezményre a Fontos Nemzetközi
+Kombinált Fuvarozási Vonalakról és ezek Létesítményei-
+ről (AGTC), amelyek kidolgozása az Egyesült Nemzetek
+Európai Gazdasági Bizottsága keretében történt,
+óhajtva az országaik közötti, valamint országaik és más
+európai országok közötti nemzetközi vasúti és kombinált
+fuvarozások megkönnyítését és fejlesztését,
+törekedve a szállítási műveletek minőségének és haté-
+konyságának javítására,
+felismerve azokat a nyugat—kelet irányú szállítási igé-
+nyeket, amelyek valószínűleg a közép- és kelet-európai
+országokban bekövetkezett alapvető változásokból ered-
+nek,
+felidézve a Prágában 1991. októberben, Krétán 1994.
+márciusban és Helsinkiben 1997. júniusban tartott Össz-
+európai Közlekedési Konferenciák nyilatkozatait,
+figyelembe véve a Közlekedési Miniszterek Balti-tenge-
+ri Konferenciájának Szczecinben 1992. március 17—18-án
+hozott határozatát,
+megállapodnak, hogy együttműködnek azon törekvés-
+ben, hogy az AGC és az AGTC Egyezmény keretében
+megvalósítsák a Transz-Európai Vasúti (TER) Projektet
+az alábbi rendelkezések szerint.
+I.
+A „TRANSZ-EURÓPAI VASÚT (TER)” PROJEKT
+A TER Projekt számos olyan célkitűzést és azok megva-
+lósításához vezető tevékenységet tartalmaz, amelyek a
+nemzetközi vasúti és a kombinált fuvarozás, a személy- és
+áruszállítás minőségének és hatékonyságának javítását cé-
+lozzák a következő országok fő nemzetközi vonalain:
+Ausztria, Bosznia-Hercegovina, Bulgária, Cseh Köztársa-
+ság, Görögország, Grúzia, Horvátország, Lengyelország,
+Litvánia, Magyarország, Orosz Föderáció, Románia, Szlo-
+vákia, Szlovénia és Törökország. Bár ezek a vonalak nem
+jelentik a fenti országok teljes vasúthálózatát, hanem csak
+részét, mégis összefüggő vasúthálózatot képeznek, amely-
+nek neve a következőkben TER hálózat.
+A TER hálózat nemcsak az észak—dél folyosót, hanem
+a Nyugat—Kelet vonalakat is magában foglalja, amelyeket
+szintén figyelembe kell venni a régióban lejátszódó új fej-
+lemények és integrációs folyamatok vizsgálata során.
+A TER Projekt csak a TER hálózatra vonatkozik. Te-
+kintetbe veszi még a fenti országok kapcsolódó kombinált
+fuvarozási létesítményeit és berendezéseit is.
+II.
+CÉLOK
+A TER Projekt általános célja az összefüggő hatékony
+vasúti és kombinált szállítási rendszer létrehozása a közép-
+és kelet-európai országok, valamint ezek és más európai
+országok között.
+Hatékony, versenyképes szolgáltatások nyújtásával a
+TER rendszernek vonzóvá kell válnia az ügyfelek számára,
+mind a személy-, mind az árufuvarozásban, és képesnek
+kell lennie a Közép- és Kelet-Európán belüli, onnan és oda
+irányuló nemzetközi fuvarozási piac igényei jelentős részé-
+nek kielégítésére, ezzel enyhítve a torlódást és enyhítve a
+környezetvédelmi és biztonsági problémákat ezen orszá-
+gok főbb nemzetközi vonalain.
+A részletesebb célok a következők:
+A) Az infrastruktúra fejlesztése
+Néhány rövid szakasz kivételével a TER hálózat fizikai
+terve már létrejött. Az infrastruktúra szabványai, színvona-
+la azonban messze elmarad az AGC és AGTC Egyezmé-
+nyekben ajánlottaktól.
+Ezért az e területen kitűzött célok közül az első helyen
+a TER szabványok bevezetése áll (középtávon), a végső
+célkitűzés pedig a meglévő infrastruktúra felfejlesztése az
+AGC és AGTC Egyezményekben meghatározott szintek-
+re. A kombinált fuvarozáshoz kapcsolódó létesítményeket
+illetően a cél a meglévők korszerűsítése, új létesítmények
+kifejlesztése és az összes létesítmény ellátása megfelelő
+berendezésekkel.
+B) A szállítóeszközök korszerűsítése
+A szállítóeszközök (gördülőállomány, vonóerő, jelző- és
+távközlő berendezések stb.) sok esetben nem igazodnak a mai
+teljesítményekhez. A cél ezért folyamatos lecserélésük új
+eszközökkel, a különböző országok által alkalmazott eszkö-
+zök szükséges összehangolása érdekében, legalább a kompa-
+tibilitás szintjén. E harmonizáció során tekintetbe kell venni
+az új megoldásokat (vegyes vállalatok, lízing stb.).
+C) A szervezet alkalmassá tétele a piacorientált irányításra
+A vasutak mára már nem tudták megtartani múltbeli
+uralkodó szerepüket. A piacgazdaságokban a közúti árufu-
+varozásnak sikerült kielégítenie a fuvaroztatók jobb háztól
+házig szolgáltatások és adott időre történő kiszállítások
+iránti igényeit, és a fuvarozási piacon való részesedésük
+sokkal jelentősebb lett, mint a vasút részesedése. A közép-
+
+és kelet-európai országokban, az alapvetően eltérő szem-
+lélet következtében, a vasutak évtizedeken át a legjobb
+helyzetben voltak más közlekedési ágakhoz viszonyítva.
+Ezekben az országokban azonban a legutóbbi fejlemények
+és a gazdaság piaci elveinek elfogadása a közúti fuvarozás
+erőteljes és gyors fejlődéséhez fog vezetni. Mind a fejlődés,
+mind az átmeneti időszakot követő visszaesés következté-
+ben a vasúti forgalom mára már erősen visszaesett. Ha ez
+a helyzet folytatódik, a kormányoknak hamarosan igen
+komoly problémákkal kell szembenézniük.
+A végső cél ezért az, hogy vasúttársaságok korszerű,
+hatékony, piacorientált szervezettel és irányítással rendel-
+kezzenek, amely biztosítani képes a zökkenőmentes átme-
+netet a közép- és kelet-európai országok közlekedési szek-
+torában a különböző ágak közötti új egyensúly létrejöttéig.
+Különösen fokozott figyelmet kell szentelni a nemzetközi
+kombinált fuvarozásnak. A terminálokról való közúti fu-
+varozás előnyeit párosítani kell a vasút környezetvédelmi
+és biztonsági előnyeivel hatékony nemzetközi kombinált
+fuvarozási szolgáltatások nyújtása céljából. A szolgáltatás
+vasúti részének azonban hatékonynak és megfelelő minő-
+ségűnek kell lennie. A határátmeneti eljárásokat egyszerű-
+síteni kell. A vasúttársaságoknak el kell sajátítaniuk a ke-
+reskedelmi szemléletet. E cél elérése érdekében a vezetést
+ilyen irányban képezni kell. Az e területre vonatkozó leg-
+újabb EU irányelveket is figyelembe kell venni a megoldá-
+sok megvalósítása során.
+III.
+KIEMELT INTÉZKEDÉSEK
+1. A TER hálózat jelenlegi helyzetéből kiindulva rövid
+távú intézkedéseket kell tenni az alábbiak céljából:
+— a korszerűsítést igénylő vasúti tengelyek, a felszámo-
+landó nagyobb infrastrukturális szűk keresztmetszetek, és
+a legsürgetőbb berendezés-igények meghatározása,
+— szervezési intézkedések megállapítása különösen a
+határátmenetek megkönnyítése, a kombinált fuvarozás fej-
+lesztése és a kereskedelmi és általános szolgáltatások javí-
+tása terén.
+2. A meglévő megvalósíthatósági előtanulmányok átte-
+kintése,újak kidolgozására vonatkozó javaslatok,beleértve a
+forgalmi előrejelzéseket és a költség/haszon elemzéseket.
+3. A szükséges beruházások értékelése, a prioritásra
+vonatkozó javaslatokkal.
+IV.
+RENDSZERES TEVÉKENYSÉGEK
+1. Infrastruktúra fejlesztés
+— A TER hálózat létrehozása és korszerűsítése, bele-
+értve a nyugat—kelet összeköttetéseket, és tekintetbe véve
+a jelen Egyezményben meghatározott TER paraméterek és
+más kapcsolódó fejlesztéseket is.
+— A nagyobb szűk keresztmetszetek és a hiányzó
+összeköttetések meghatározása, valamint az ezekkel kap-
+csolatos infrastrukturális munkálatok elvégzése, beleértve
+a határátkelési pontokat is. A tevékenységek prioritásának
+megállapítása.
+— Megvalósíthatósági előtanulmányok és megvalósít-
+hatósági tanulmányok kidolgozása.
+— Ütemtervek az előtervezési, tervezési és kivitelezési
+munkákra.
+— Finanszírozás.
+2. A kombinált fuvarozás fejlesztése
+— Adatgyűjtés az összes közlekedési ágban a forgalmi
+folyamatokról. A nagyobb nemzetközi közúti fuvarozási
+folyamatok meghatározása a TER hálózaton át, onnan és
+oda irányuló forgalomban.
+— Tanulmányok alternatív kombinált fuvarozási meg-
+oldások kidolgozásáról a TER hálózaton át, onnan és oda
+irányuló forgalomban.
+— A nemzetközi kombinált fuvarozás fejlesztését gátló
+akadályok megállapítása, beleértve az átrakó terminálok,
+különleges vasúti kocsik, konténerek és csereszekrények
+stb. hiányosságait
+— Javaslatok ezeknek az akadályoknak a megszünteté-
+sére.
+— A TER tagországok által teendő lehetséges intézke-
+dések meghatározása az EU-ban a vasúti árufuvarozás te-
+rületén tett lépésekhez való közeledés céljából.
+— A javaslatokra megvalósítási sorrendjének meghatá-
+rozása költség/haszon elemzés alapján.
+— Finanszírozás.
+— A veszélyes áruk kombinált fuvarozása fejlesztési
+lehetőségeinek áttekintése.
+3. Oktatás
+Szemináriumok és műhelyek a piacorientált irányításról
+és más kereskedelmi kérdésekről, a számítógépek vasúti
+alkalmazásáról, a CAD rendszerekről stb.
+4. A vasutak hatékonyságának javítása
+— A TER országokban a vasúti fuvarozás hatékonysá-
+gának javítását gátló nagyobb (nem infrastrukturális) aka-
+dályok meghatározása, beleértve a gördülőállomány, a vo-
+nóerő és a jelző- és távközlő berendezések elavultságát
+vagy kompatibilitásának hiányát, a késéseket a határátme-
+neti forgalomban, a nemzetközi vasúti fuvarozás nem meg-
+felelő szabályozását stb.
+— Javaslatok ezen akadályok kiküszöbölésére.
+— Prioritások megállapítása költség/haszon elemzés
+alapján.
+— Finanszírozás.
+
+5. Több közlekedési ágat érintő adatbank létrehozása
+— Adatok a forgalmi folyamatokról és előrejelzésekről
+(intermodális szemlélet)
+— Műszaki és üzemi paraméterek, gördülőállomány
+stb.
+— A határállomások adatai.
+— A vasút—komp kapcsolatok adatai.
+V.
+TER
+KÖLTSÉGVETÉS
+Az Intéző Bizottság a munkaprogramban szereplő tevé-
+kenységek megvalósításához szükséges kiadások fedezeté-
+re éves költségvetést készít az alábbiak alapján:
+1. Források
+a) A tagországok természetbeni és pénzbeli hozzájáru-
+lásai.
+b) Más nemzetközi szervezetek, nemzeti és/vagy ma-
+gántestületek, valamint a tagországokon kívüli országok
+pénzbeli vagy természetbeni hozzájárulásai.
+A részt vevő országok vállalják, hogy természetbeni hoz-
+zájárulással fedezik a Projekt nemzeti tevékenységei része-
+ként a Munkatervből adódó valamennyi feladat költségeit
+(pl. adatszolgáltatás, elemzés, tanulmányok készítése,
+szakértők).
+2. Kiadások
+A Projekt koordinációjával kapcsolatos kiadások főbb
+sorait a költségvetési oldal tartalmazza.
+A részt vevő országok továbbra is fizetik a nemzeti személyi
+állomány helyi munkabérét, társadalombiztosítási járulékait
+és más illetményét, akár valamely másik országban dolgoznak
+a Projekten, akár üléseken, tanfolyamokon stb. vesznek részt
+kiküldetésben. A munkaprogramban szereplő és az egyes
+országoknak kiadott különleges tanulmányokat a Projekt
+költségvetéséből finanszírozzák.
+VI.
+A KÖZPONTI PROJEKTIRODA HELYE
+A TER Központi Projektiroda Magyarországon, Buda-
+pesten működik.
+VII.
+VÉGREHAJTÓ
+ÜGYNÖKSÉG
+Az ENSZ/EGB-t kérik fel a Projekt Végrehajtó Ügy-
+nökség feladatainak az ellátására.
+VIII.
+FÜGGELÉKEK
+A következő függelékek a Melléklet 3. részének szerves
+részét képezik és az alábbiakból állnak:
+I. Függelék
+TER
+hálózat
+(A
+TER
+vonalak
+listája, a TER Hálózat térképe, és a
+TER paraméterek)
+II. Függelék
+Intéző Bizottság (SC)
+III. Függelék
+Nemzeti
+Koordinátori
+Csoport
+(TERNC)
+IV. Függelék
+Nemzeti Koordinátorok (NC)
+V. Függelék
+Központi Projektiroda (PCO)
+VI. Függelék
+Költségvetés
+VII. Függelék
+Az EGB és a Központi Projektirodát
+(PCO) befogadó Kormány közötti
+Egyezménylevél
+VIII. Függelék
+Egyezmény-mintalevél, amelyet az
+EGB és azon ország Kormánya
+között
+írnak
+alá,
+amely
+a
+Projektvezető
+vagy
+a
+Központi
+Projektiroda
+más
+munkatársának
+országa.
+I. FÜGGELÉK
+A Transz-Európai Vasút (TER) vonalainak listája*
+E 010
+{Helsinki—Vainikkala}—Luzsajka
+(RZD/VR)—Buszlovszkaja—Sankt-Peterburg
+/
+Szentpéter-
+vár—Akagyemicseszkaja—Moszkva
+TN
+
+E 020
+{Berlin—Frankfurt/O}—Rzepin (PKP/DB)—Poznan—Barlogi—Lowicz—Warszawa / Varsó /
+Skierniewice—Luków—Terespol
+(PKP/BC)—{Breszt
+(BC/PKP)—Minszk—Orsa}—Krasznoje
+(RZD/BC)—Szmolenszk—Moszkva—Nyizsnyij
+Novgorod—Jekatyerinburg—{Omszk—Novoszi-
+birsk—Krasznojarszk—Irkutszk—Vlagyivosztok}
+TN
+
+* Az Intéző Bizottság döntésétől függően szükség szerint frissítve.
+
+E 026 Wroclaw—Idzikowice
+és
+Warszawa / Varsó—Bialystok—Sokolka—{Kuznica Bial.(PKP/BC)—Hrodna / Grodno—Kabeliai
+(LG/BC)—Vilnius
+TN
+
+E 026/1 Sarkiai—Siauliai—Gaiziunai—Palemonas—Kazlu Ruda—Mockava TN
+
+E 030 {Dresden / Drezda}—Zgorzelec (PKP/DB)—Wroclaw
+és
+Opole—Kedzierzyn Kozle—Gliwice—Katowice—Kraków / Krakkó—Przemysl (PKP/UZ)—
+{Mosztiszka (UZ/PKP)—Lviv / Lvov}
+és
+Siechnice—Opole—Gliwice
+és
+{Kyyiv / Kijev—Poltava—Kharkiv / Harkov—Topoli (UZ/RZD)}—Szolovej Valujki—Povorino—
+Rtiscsevo—Penza—Szamara—Ufa— Cseljabinszk—Kurgan—Omszk
+TN
+
+E 030/1 Tarnów—Nowy Sacz—Muszyna (PKP/ZSR)—Plavec / Palocsa (ZSR/PKP)—Kysak / Sároskőszeg
+és
+Kosice / Kassa—Cana / Hernádcsány (ZSR/MÁV)—Hidasnémeti (MÁV/ZSR)— Felsőzsolca
+TN
+
+E 040 {Nürnberg}—Cheb (CD/DB)—Plzen—Praha / Prága—Kolín—Ústí n/O—Ceská Trebová—Pre-
+rov—Hranice na Morave
+és
+Petrovice u Karvine—Mosty u Jablunkova (CD/ZSR)—Cadca / Csaca (ZSR/CD)—Zilina / Zsol-
+na—Vrútky / Ruttka—Poprad / Poprád—Kysak / Sároskőszeg—Kosice / Kassa—Cierna n/T /
+Tiszacsernyő (ZSR/UZ)—{Chop / Csop (UZ/ZSR)}
+és
+Horní Lidec (BCP)—Lúky pod Makytou (ZSR/CD)—Púchov / Puhó—Zilina / Zsolna
+TN
+
+T 040 Ceská Kubice (CD/DB)—Plzen TN
+
+T 041 Plzen—Ceské Budejovice—Ceské Velenice TN
+
+T 042 Nové Zámky / Érsekújvár—Zvolen / Zólyom—Plesivec / Pelsőc—Kosice / Kassa TN
+
+E 045 Kufstein (ÖBB/DB)—Wörgl
+és
+Innsbruck—Garberbach—Brenner
+és
+Baumkirchen—Garberbach
+TN
+
+E 050 {Buchs (SBB/ÖBB)}—Feldkirch—Innsbruck—Baumkirchen—Schwarzach/St. Veit-Bischofsho-
+fen—Salzburg—Wels—Marchtrenk—Linz—Wien / Bécs—Bruck/L.—Hegyeshalom
+(MÁV/ÖBB)—Győr—Komárom—Budapest—Hatvan—Miskolc—Nyíregyháza—Záhony
+(MÁV/UZ)—{Chop / Csap (UZ/MÁV)—Lviv / Lvov—Kyyiv / Kijev—Zernovo (UZ/RZD)}—
+Szuzemka (RZD/UZ)—Moszkva
+és
+{Fasztov—Dnipropetrovsk / Dnyepropetrovszk—Krasznoarmejszk—Krasznaja Mogila
+(UZ/RZD)}—Gukovo—Licsaja—Asztrahán (RZD) Kazahsztán)
+TN
+
+T 050 Wien / Bécs Meidling—Ebenfurth—Sopron (GySEV/RoeEE)—Győr
+és
+Wien / Bécs Meidling—Ebenfurth—Wiener Neustadt / Bécsújhely—Loipersbach / Lépesfalva—
+Sopron (GySEV/ÖBB)
+TN
+
+E 050/2 {Kvaszino (UZ/RZD)}—Uszpenszkaja—Taganrog—Rosztov-na-Donu
+és
+Tyihoreckaja—Armavir
+TN
+
+E 052 Wien (/Bécs Süd—Marchegg (ÖBB/ZSR)—Devínska Nová Ves / Dévényújfalu (ZSR/ÖBB)—Bra-
+tislava / Pozsony—Galanta / Galánta—Nové Zámky / Érsekújvár—Stúrovo / Párkány
+(ZSR/MÁV)—Szob—Budapest—Cegléd—Szolnok—Püspökladány—Debrecen—Nyíregyháza
+TN
+
+T 053 Parndorf / Pándorfalu—Kittsee / Köpcsény (ÖBB/ZSR)—Petrzalka / Pozsonyligetfalu TN
+
+E 054 Arad—Vintu de Jos / Alvinc—Coslariu / Koslárd—Ploiesti—Bucuresti / Bukarest TN
+
+T 054 Vintu de Jos / Alvinc—Sibiu / Nagyszeben—Bujoneri—Titu—Bucuresti / Bukarest TN
+
+E 054/1 Püspökladány—Biharkeresztes (MÁV/CFR)—Episcopia Bihor / Biharpüspöki (CFR/MÁV)—
+Oradea / Nagyvárad—Cluj—Napoca / Kolozsvár—Coslariu / Koslárd
+TN
+
+E 055 {Dresden / Drezda}—Decín (CD/DB)—Ústí n/L—Praha / Prága
+és
+Schwarzach/St.Veit—Villach—Arnoldstein (ÖBB/FS)
+TN
+
+T 055 Ústí n/L—Karlovy Vary—Cheb TN
+
+E 056 Budapest—Maglód—Újszász—Szolnok—Lőkösháza (MÁV/CFR)—Curtici / Kürtös
+(CFR/MÁV)—Arad—Timisoara / Temesvár—Craiova—Videle— Bucuresti / Bukarest
+TN
+
+T 056 Craiova—Calafat (CFR/BDZ)—Vidin (BDZ/CFR)—Mezdra TN
+
+E 059 Swinoujscie—Szczecin—Poznan—Wroclaw—Siechnice—Opole Kedzierzyn Kozle—Chalupki
+(PKP/CD)—Bohumín (CD/PKP)
+TN
+
+T 059 Szczecin—Rzepin—Nowa Sol—Wroclaw—Opole TN
+
+E 061 {Dresden / Drezda}—Decín (CD/DB) Ústí n/L—Praha / Prága—Kolín—Ústí n/O—Ceska Trebo-
+va—Brno—Breclav—Lanzhot (CD/ZSR)—Kúty / Jókút (ZSR/CD)—Devínska Nová Ves / Dé-
+vényújfalu—Bratislava / Pozsony—Nové Zámky / Érsekújvár—Komárno / Révkomárom
+(ZSR/MÁV)—Komárom (MÁV/ZSR)
+és
+Bratislava / Pozsony (Petrzalka / Pozsonyligetfalu)—Rusovce / Oroszvár—(ZSR/MÁV)—Rajka
+(MÁV/ZSR)—Hegyeshalom
+TN
+
+T 061 Decín (CD/DB)—Ústí n/L—Vsetaty—Nymburk—Kolín—Havlíckuv Brod—Brno TN
+
+T 062 Brno—Vyskov—Prerov TN
+
+E 063 Zilina / Zsolna—Púchov / Puhó—Leopoldov / Lipótvár—Bratislava / Pozsony / Galanta / Galánta TN
+
+E 065 Gdynia—Gdansk—Tczew—Malbork—Warszawa / Varsó—Idzikowice—Psary—Katowice—
+Pszczyna—Wisla Most—Zebrzydowice (PKP/CD)—Petrovice u Karvine (CD/PKP)—Bohumín—
+Hranice na Morave—Prerov—Breclav (CD/ÖBB)—Bernhardsthal—Hohenau (ÖBB/CD)—Retz
+(ÖBB/CD)— Wien / Bécs Floridsdorf—Bruck/M.—St. Michael—Villach—Rosenbach
+(ÖBB/SZ)—Jesenice (SZ/ÖBB)—Ljubljana—Pivka—Ilirska Bistrica (SZ/HZ)—Sapjane
+(HZ/SZ)—Rijeka / Fiume
+TN
+
+T 065 Tczew—Barlogi—Zdunska Wola—Gliwice—Pszczyna TN
+
+E 066 {Chop / Csap}—Halmeu / Halmi (CFR/UZ)—Satu Mare / Szatmárnémeti—Oradea / Nagyvárad—
+Arad—Timisoara / Temesvár—Stamora Moravita / Alsósztamora (CFR/JZ)
+TN
+
+E 067 Bruck/M.—Graz—Spielfeld/Strass (ÖBB/SZ)—Sentilj (SZ/ÖBB)—Maribor—Pragersko—Zidani
+Most
+TN
+
+T 067 Graz—Jennersdorf (ÖBB/MÁV)—Szentgotthárd (MÁV/ÖBB)—Körmend TN
+
+E 069 Budapest—Székesfehérvár—Nagykanizsa—Murakeresztúr (MÁV/HZ)—Kotoriba (HZ/MÁV)—
+Cakovec / Csáktornya (HZ/SZ)—Sredisce (SZ/HZ)—Ormoz—Pragersko—Zidani Most—Ljub-
+ljana—Pivka—Divaca—Koper
+TN
+
+T 069 Székesfehérvár—Veszprém—Boba—Zalalövő—Hodos / Őrihódos (SZ/MÁV)—Murska Sobota /
+Muraszombat—Ormos
+TN
+
+E 070 {Trieste / Trieszt—Villa Opicina (FS/SZ)}—Sezana (SZ/FS)—Divaca—Pivka—Ljubljana—Zida-
+ni Most—Dobova (SZ/HZ)—Savski Marof (HZ/SZ)—Zagreb / Zágráb—Sunja—Novska—Sla-
+vonski Brod—Tovarnik (HZ/JZ)
+és
+Zagreb / Zágráb—Dugo Selo—Novska
+és
+Dragoman (BD/JZ)—Sofija / Szófia—Plovdiv—Dimitrovgrad— Szvilengrad (BDZ/TCDD)—Ka-
+pikule (TCDD/BDZ)—Sirkeci—Istanbul—Haydarpasa—Ankara—Kalin—Cetinkaya—Mala-
+tya—Kapiköy
+és
+Cetinkaya—Divrigi—Erzurum—Kars—Dogukapi (TCDD/Örményország)
+és
+Kars—Cildir—Aktas (TCDD/Grúzia)—Marneuli
+TN
+
+T 070 Vinkovci—Gunja—Brcko (BHZ/HZ)—Tuzla TN
+
+E 071 Budapest—Dombóvár—Gyékényes (MÁV/HZ)—Koprivnica / Kapronca (HZ/MÁV)—Zagreb /
+Zágráb—Ostarije—Rijeka / Fiume
+TN
+
+E 074 Eskisehir—Alayunt—Balikesir—Manisa—Izmit TN
+
+E 085 Budapest—Kiskunhalas—Kelebia (MÁV/JZ)
+és
+{Volkovo (CFARYM/JZ) / Tabanovci (CFARYM/JZ)—Szkopje—Veles—Gevgelija
+(CFARYM/CH)—Thessaloniki / Szaloniki—Athína / Athén}
+TN
+
+T 085 {Veles—Bitola—Kremenica (CFARYM/CH)} TN
+
+E 095 {Kyyiv / Kijev—Benderi (CFM/UZ)—Chisinau—Ungheni (CFM/CFR)}—Iasi (CFR/CFM)—Pas-
+cani—Buzau—Ploiesti
+és
+Videle—Giurgiu Nord
+és
+Bucuresti / Bukarest—Giurgiu Nord (CFR/BDZ)—Rusze (BDZ/CFR)—Gorna Orjahovica—Di-
+mitrovgrad
+TN
+
+T 095 Dimitrovgrad — Podkova TN
+
+E 097 Samsun—Kalin—Cetinkaya—Malatya—Narli—Toprakkale—Iskenderun/Mersin TN
+
+E 201 Klaipèda—Siauliai—Gaiziunai—Kaisiadorys—Vilnius—Kena (LG/BC)—{Minszk—Zslobin—
+Homel / Gomel—Nezsin}
+TN
+
+E 201/1 {Kalinyingrád}—Kybartai (LG/RZD)—Kazlu Ruda—Kaunas— Kaisiadorys TN
+
+E 203 Jekatyerinburg—Kurgan—{Presnogorkovka (RZD/Kazahsztán)} TN
+
+T 262 Radviliskis—Pagègiai (LG/RZD)—{Kalinyingrád}—Braniewo (PKP/RZD)—Malbork TN
+
+T 303 Kraków / Krakkó—Nowy Sacz TN
+
+E 451 Passau (ÖBB/DB)—Neumarkt/Kallham—Wels TN
+
+T 451 Simbach/Inn (ÖBB/DB)—Neumarkt/Kallham TN
+
+E 500 Moszkva—Rjazany—Kocsetovka—{Rtiscsevo—Szaratov—Ozinki}—Orenburg TN
+
+E 500/2 Rjazany—Ruszevka—Szamara—Orenburg TN
+
+E 500/3 Kocsetovka—Grjazi—Voronyezs—Gukovo Volzsszkij—Rosztov-na-Donu
+és
+Tyihoreckaja—Krasznodar—Novorosszijszk
+TN
+
+T 501 Wien / Bécs Nord—Wolfsthal TN
+
+E 502 Bischofshofen—Selzthal TN
+
+T 502 Bregenz—Justenau/St. Margrethen (ÖBB/SBB) TN
+
+T 503 Lindau (ÖBB/DB)—Bregenz—Feldkirch TN
+
+E 551 Praha / Prága—Veseli n/L—Ceské Budejovice—Horní Dvoriste (CD/ÖBB)—Summerau
+(ÖBB/CD)—Linz—Traun—Selzthal— St. Michael
+és
+Traun—Marchtrenk
+TN
+
+T 551 Veselí n/L—Ceské Velenice (CD/ÖBB)—Gmünd (ÖBB/CD)—Wien / Bécs FJB TN
+
+E 560 Buzau—Faurei—Bucuresti / Bukarest TN
+
+T 560 Faurei—Bucuresti / Bukarest TN
+
+E 562 Bucuresti / Bukarest—Fetesti—Medgidia—Constanta TN
+
+T 592 Wroclaw—Miedzylesie (PKP/CD)—Lichkov (CD/PKP)—Letohrad—Ústí n/O TN
+
+T 654 Wisla Most—Zwardon (PKP/ZSR)—Skalité (ZSR/PKP)—Cadca / Csaca TN
+
+T 655 Psary—Kraków / Krakkó TN
+
+E 680 Sofija / Szófia—Mezdra—Gorna Orjahovica—Kaszpicsany—Sindel—Varna / Várna TN
+
+T 680 Medgidia—Negru Voda (SFR/BDZ)—Kardam—Sindel TN
+
+E 691 Murakeresztúr—Gyékényes TN
+
+T 691 Győr—Pápa—Celldömölk—Porpác—Szombathely—Körmend—Zalalövő TN
+
+T 692 Csorna—Porpác TN
+
+T 693 Celldömölk—Boba TN
+
+E 700 Rosztov-na-Donu—Tyihoreckaja
+és
+Uzlovaja—Mahacskala—Jalarna
+TN
+
+E 700/2 Asztrahán—Uzlovaja TN
+
+E 701 Armavir—Szocsi—Veszjoloje (ZSR/Grúzia)—Szuhumi—Szenszki—Szamtredia—Tbiliszi—Gar-
+dabani
+TN
+
+E 701/1 Szamtredia—Batumi TN
+
+E 701/2 Szenszki—Poti TN
+
+E 703 Tbiliszi—Szadahlo TN
+
+E 720 Plovdiv—Sztara Zagora—Karnobat—Burgasz TN
+
+E 751 Volinja (HZ/BHZ)—Dobrlijin (BHZ/HZ)—Bosanski Novi—Bihac—Ripac (BHZ/HZ)—Strmica
+(HZ/BHZ)—Knin—Perkovic—Split/Sibenik
+TN
+
+E 753 Otarije—Gospic—Knin—Zadar TN
+
+E 771 Strizivojna/Vrpolje—Slavonski Samac (HZ/BHZ)—Bosanski Samac (BHZ/HZ)—Szarajevo—
+Capljina (BHZ/HZ)—Metkovic (HZ/BHZ)—Ploce
+TN
+
+T 771 Zvornik (BHZ/JZ)—Tuzla—Doboj—Banja Luka—Bosanski Novi TN
+
+E 773 Dombóvár—Pécs—Magyarbóly (MÁV/*HZ)—Beli Manastir / Pélmonostor (HZ/MÁV)—Osijek
+/ Eszék—Strizivojna/Vrpolje
+TN
+
+E 851 {Lviv / Lvov—Chernivtsi / Csernovci}—Vadul Siret (CFR/UZ)—Viscani—Suceava—Pascani TN
+
+E 885 Szófia—Pernik—Radomir—Kulata (BDZ/CH)—Promachon (CH/BDZ)—Thessaloniki / Szaloni-
+ki
+TN
+
+T 855 Radomir—Gjuesevo (BDZ/CFARYM)—{Kriva Palanka—Kumanovo—Szkopje—Tetovo—
+Struga—Librazhd—Elbasan—Durres}
+TN
+
+E 951 Karnobat—Sindel TN
+
+A TER hálózat térképe
+
+ATERparaméterek
+Műszaki paraméterek a TER hálózatra
+1. Rakszelvény: UIC/B
+2. Minimális vágánytengely távolság: 4,0 m
+3. Névleges minimális sebesség: 120 km/h
+4. Megengedett tengelyterhelés
+— mozdonyok ≤ 200 km/h: 22,5 t
+— kocsik 120 km/h: 20 t
+140 km/h: 18 t
+5. Megengedett folyóméter terhelés: 8 t
+6. Próbavonat: UIC 71
+7. Minimális peronhossz a főbb
+állomásokon: 250 m
+8. Minimális hasznos vágányhossz: 500 m
+Üzemi paraméterek a TER hálózatra
+1. Személyfuvarozás
+A határon végzendő ellenőrző eljárások (útlevél- és
+vámellenőrzés) rendszerének bevezetése menet közben,
+szükség esetén rövid megállással a határállomáson techni-
+kai/igazgatási okokból.
+2. Árufuvarozás
+a) A közös határállomások rendszere kialakításának
+befejezése a határellenőrzés során a párhuzamosságok el-
+kerülése céljából.
+b) Az ellenőrzési eljárások ésszerűsítése a már működő
+közös határállomásokon.
+c) A blokkvonatok határellenőrzési műveleteinek be-
+vezetése a szomszédos vasutak termináljain, ahol csak le-
+hetséges.
+3. Személy- és árufuvarozás
+Vontatójárművek használata a szomszédos TER orszá-
+gok területén is, ahol lehetséges.
+II. FÜGGELÉK
+Intéző Bizottság (SC)
+1. Az Intéző Bizottság (SC) a TER legmagasabb dön-
+téshozó testülete. A Bizottság a TER államok kormányai
+által, lehetőleg minisztériumi és/vagy igazgatósági szinten
+kinevezett képviselőkből áll. Ez a Bizottság határozza meg
+a Projekt politikáját és a TER tevékenységekkel kapcsolat-
+ban teendő általános intézkedéseket, valamint határozato-
+kat hoz a közös lépésekről.
+2. Az Intéző Bizottság feladatai a következők:
+a) Bármilyen alárendelt szervlétrehozása, amit szüksé-
+gesnek tart;
+b) Utasítások kiadása a Projektvezetőnek vagy vala-
+mely alárendelt szervnek, amelyet létrehozhat;
+c) A munkaprogram jóváhagyása;
+d) A TER Nemzeti Koordinátorok Csoportja által ké-
+szített jelentések elfogadása;
+e) A működési költségvetések és azok teljesítéséről
+szóló pénzügyi jelentések elfogadása;
+f) A TER tevékenységére vonatkozó bármely más ügy
+megvizsgálása;
+g) A TER hálózat és a TER-re vonatkozó adatok jóvá-
+hagyása.
+3. Az Intéző Bizottság Működési Szabályzata:
+I. Ülések
+1. Szabály
+Az Intéző Bizottság évente egyszer soros ülést tart,
+amelynek időpontját és helyét a Bizottság határozza meg.
+2. Szabály
+Rendkívüli üléseket tartanak a Bizottság erre vonatkozó
+döntése alapján, amelyet vagy az ülésen hoznak meg, vagy
+a következők kérésére hívnak össze:
+a) bármely tag, három másik tag támogatása mellett,
+vagy
+b) a Projektvezető, három tag támogatása mellett.
+3. Szabály
+A Bizottság minden ülése zárt ülés, hacsak a Bizottság
+másképp nem dönt.
+II. Napirend
+4. Szabály
+A Bizottság a napirendet minden ülés kezdetekor fogad-
+ja el. Ha egy adott ülés előzetes napirendjén nem szerepel
+a Bizottság illetékességi körébe tartozó valamely ügy, úgy
+erre vonatkozóan a Bizottság egy tagja vagy a Projektveze-
+tő nyújthat be javaslatot, amelyet a Bizottság határozata
+alapján vesznek fel a napirendre. A Bizottság felülvizsgál-
+hatja a napirendet felvéve, törölve, halasztva vagy módo-
+sítva egyes pontokat.
+
+III. Képviselet
+5. Szabály
+A Bizottságban minden tagot egy képviselő képviselhet,
+akit elkísérhetnek a Bizottság ülésére más képviselők és
+tanácsadók. Az EGB mint Végrehajtó Ügynökség hivatal-
+ból vesz részt az üléseken.
+IV.
+TISZTSÉGVISELŐK
+6. Szabály
+A Bizottság minden év első ülésének kezdetekor tagjai
+képviselői közül egy elnököt és egy jegyzőt választ, akik az
+adott évben látják el tisztségüket, amíg jogutódaikat meg
+nem választják.
+7. Szabály
+Az elnök ilyen minőségben vesz részt a Bizottság ülé-
+sein, és nem az őt kiküldő tagállam kormányának képvise-
+lőjeként. A tagállam kormánya küldöttségének egy másik
+tagját kell a Bizottság ülésein való képviselettel megbízni.
+8. Szabály
+A Projektvezető szóban vagy írásban folyamatosan tájé-
+koztatja a Bizottság tagjait minden olyan kérdésről, amely-
+ben érdekelt lehet a Bizottság, és szükség esetén részt vehet
+a kérdés tárgyalásában.
+V. NYELV ÉS JELENTÉSEK
+9. Szabály
+A Projekt és az Intéző Bizottság munkanyelve az angol.
+A Bizottság üléseit befogadó országok lehetőség szerint
+biztosíthatnak francia és/vagy orosz nyelvű tolmácsolást.
+10. Szabály
+A Bizottság üléseiről készült jelentések tervezeteit az
+ülések alatt készítik és fogadják el, valamint haladéktala-
+nul kiosztják a Bizottság tagjainak és az ülés más résztve-
+vőinek. A jelentések elfogadás után nyilvánosságra hozha-
+tók a Bizottság által elhatározott időpontban és feltételek
+mellett.
+VI. Határozatképesség
+11. Szabály
+A tanácskozásokat csak a Bizottság tagjai kétharmadá-
+nak jelenléte esetén lehet megkezdeni. A Bizottság hatá-
+rozatainak meghozatalához minden tárgyalt kérdésben a
+jelen lévő tagok egyetértése szükséges.
+VII. Alárendelt testületek
+12. Szabály
+Elvileg a Bizottság szabályai az alárendelt testületeire is
+vonatkoznak.
+VIII. A tagállamokon kívüli
+államok kormányai és nemzetközi
+szervezetek képviselőinek részvétele
+megfigyelőként
+13. Szabály
+a) A Projekt tagállamain kívüli államok kormányai, és
+b) meghatározott nemzetközi szervezetek és intézmé-
+nyek megfigyelőkkel képviseltethetik magukat a Bizottság
+ülésein tanácskozási joggal, szavazati jog nélkül.
+IX. A működési szabályzat módosítása
+vagy felfüggesztése
+14. Szabály
+Bármely szabály módosítható vagy felfüggeszthető az
+Intéző Bizottságnak az összes TER ország egyetértése
+alapján hozott határozatával.
+III. FÜGGELÉK
+A TER Nemzeti Koordinátori Csoport (TERNC)
+1. A TERNC tagságát a Nemzeti Koordinátorok alkot-
+ják. A TERNC ülésein részt vehetnek a tagállamok más
+szakértői is.
+2. A Csoport elvileg évente kétszer ül össze. Szükség
+esetén rendkívüli ülést is lehet tartani.
+
+3. A Csoport többek között:
+a) felel a TER műszaki tevékenységének és gazdasági
+aspektusainak kidolgozásáért, értékeléséért és koordiná-
+ciójáért;
+b) kidolgozza, értékeli és koordinálja a TER kiépítésé-
+nek finanszírozásával kapcsolatos TER tevékenységeket.
+Feladatai teljesítése során a TERNC figyelembe veszi az
+Intéző Bizottság által külön témákra létrehozott ad hoc
+munkacsoportok munkájának eredményeit;
+c) figyelemmel kíséri a TER összes tevékenységét;
+d) megvizsgálja a Projektvezető által benyújtott jelen-
+téseket és dokumentumokat;
+e) ajánlásokat tesz az Intéző Bizottságnak a munka-
+programra vonatkozóan;
+f) megvizsgál minden más ügyet az Intéző Bizottság
+vagy a Projektvezető kérése alapján.
+IV. FÜGGELÉK
+Nemzeti Koordinátorok (NC)
+A Nemzeti Koordinátort a Kormánya nevezi ki.
+A Nemzeti Koordinátor a következőkért felel:
+1. A saját országában ő a TER Projektben illetékes,
+kapcsolattartó személy;
+2. Összekötő az érintett nemzeti szervezetek és a Köz-
+ponti Projektiroda között a PCO tevékenységekkel kap-
+csolatban szükséges információk cseréjét célzó nemzeti
+szintű intézkedések révén;
+3. Koordinálja a TER-rel kapcsolatos nemzeti tevé-
+kenységeket;
+4. Tevékenységeket tervez és valósít meg, valamint
+eredményekről számol be a TER munkaprogrammal össz-
+hangban;
+5. Eredményesen és hatékonyan használja fel a TER
+adatokat;
+6. Részt vesz az Intéző Bizottság és a TERNC ülésein,
+és közreműködik a TER célok elérésében.
+V. FÜGGELÉK
+Központi Projektiroda (PCO)
+A Központi Projektiroda koordinálja a jelen dokumen-
+tum feltételei alapján végzett összes tevékenységet, és az
+Intéző Bizottság általános irányítása alatt, az EGB mint
+Végrehajtó Ügynökség útmutatásával végzi munkáját.
+A PCO székhelye Magyarország, Budapest, a Magyar
+Köztársaság Kormánya és az ENSZ/EGB Végrehajtó Tit-
+kársága által aláírásra kerülő, ezen Iroda munkájával fog-
+lalkozó Egyezményben foglaltak alapján
+A PCO személyzete a következőkből áll:
+— Projektvezető
+— Projektvezető-helyettes
+— Projektvezető-asszisztens(ek)
+— Egyéb személyzet
+A fent említett teljes személyi állomány diplomáciai
+útlevelet kap a származásuk szerint illetékes országtól. A
+Projektvezetőt, a Projektvezető-helyettest és a Projektve-
+zető-asszisztenst, valamint az Iroda egyéb nemzetközi sze-
+mélyzetét az Egyesült Nemzetek (ENSZ) tisztviselőinek
+kell tekinteni, amint azt a Magyar Köztársaság Kormánya
+és az ENSZ/EGB Végrehajtó Titkársága közötti Egyez-
+ményben rögzítették.
+A PCO nemzetközi személyzetének szolgálatára vonat-
+kozó feltételeket az alkalmazott származás szerint illetékes
+országa és az ENSZ/EGB Végrehajtó Titkárság közötti
+levélváltás tartalmazza.
+Az újonnan megválasztott Projektvezető előbb Projekt-
+vezető-helyettesként működik egy évig, s csak ez után lép
+hivatalába.
+A személyzet hatásköre a következő:
+Projektvezető
+A Központi Projektiroda vezetőjét a TER államok va-
+lamelyikéből választja az Intéző Bizottság. Szolgálati ideje
+két év, amit az Intéző Bizottság két további évig terjedő
+időszakra meghosszabbíthat az érintett Kormányával kö-
+tött megállapodás alapján.
+A Projektvezető illetményét Kormánya fizeti. Szolgálati
+feltételeit az EGB és az érintett Kormány közötti levélvál-
+tásban határozzák meg. Budapesten kívüli utazás esetén
+utazási és ellátási kiadásait a Projekt költségvetéséből fe-
+dezik (kivéve a hivatali kocsi üzemeltetése és az autópálya-
+díj magyarországi költségeit).
+A Projektvezető az alábbiakért felel:
+1. A Központi Projektiroda (PCO) irányítása;
+2. Munkaprogram-tervezetek kidolgozása az Intéző
+Bizottság (SC) által történő jóváhagyásra, és elfogadás
+után az igazgatási feladatok ellátása;
+3. Az Intéző Bizottság (SC) és a TER Nemzetközi
+Koordinátorok (TERNC) titkári feladatainak ellátása;
+4. A döntést igénylő ügyekben az Intéző Bizottság és a
+TERNC elnökének tanácsadás;
+
+5. A döntést igénylő ügyekben a tagországok számára
+tájékoztatók készítése és terjesztése;
+6. Folyamatos kapcsolattartás a Nemzeti Koordináto-
+rokkal a TER tevékenységek végrehajtásával kapcsolatos
+minden ügyben;
+7. A vizsgált időszakban a PCO általános tevékenységé-
+ről és a TER fejlesztéseiről az Intéző Bizottság és a TER
+üléseire a Projektvezető által beterjesztésre kerülő beszá-
+moló elkészítése;
+8. A műszaki és igazgatási dokumentáció szervezése és
+elkészítése a TER ülésein való megtárgyalásra;
+9. A különféle tevékenységek keretében tanácsadói
+szolgáltatást nyújtó szakértők munkájának ellenőrzése,
+közösen azokkal a TER Kormányokkal, amelyek a TER
+számára természetbeni hozzájárulást nyújtanak;
+10. A PCO illetékességébe tartozó igazgatási és pénz-
+ügyi tevékenységek ellenőrzése;
+11. A TER Projekt költségvetéséhez igazgatási segít-
+ségnyújtás az Intéző Bizottság határozatai és az Egyesült
+Nemzetek pénzügyi szabályzatai és szabályai szerint;
+12. Szükség szerint segítségnyújtás a javasolt tanács-
+adók kiválasztásához, az Intéző Bizottság útmutatása mel-
+lett, a különleges tevékenységek munkaprogram szerinti
+megvalósításának elősegítése céljából;
+13. Az Intéző Bizottság által kiadott egyéb feladatok
+ellátása;
+14. A Projektvezető közvetlenül az EGB Közlekedési
+Divíziója Igazgatójának vagy annak képviselőjének jelent;
+15. Mint a PCO Magyarország,Budapest szervezetének
+vezetője, a Projektvezető felügyeli mind a nemzetközi sze-
+mélyi állományt, mind pedig a Magyar Kormány által biz-
+tosított helyi személyzetet;
+16. A Projektvezető szolgálati helye Magyarország, Bu-
+dapest, és erről a szolgálati helyről történő mindenféle
+utazás az EGB Közlekedési Divíziójával való konzultáció
+után és annak jóváhagyásával történhet.
+Projektvezető-helyettes
+A Projektvezető-helyettest is az Intéző Bizottság vá-
+lasztja ki az egyik TER tagországból.
+A Projektvezető-helyettest a részt vevő államok a Pro-
+jektvezetőhöz hasonló alapon adják.
+Feladata, hogytávollétében helyettesítse a Projektvezetőt.
+Külön kötelezettségeit a Végrehajtó Ügynökség és/vagy
+Intéző Bizottság határozza meg a Projektvezetővel közösen.
+Felhatalmazása a Projektvezető felhatalmazásához kap-
+csolódik.
+Projektvezető-asszisztens
+Az elvégzendő munkamennyiség függvényében az Inté-
+ző Bizottság szakképzett asszisztens(eke)t választhat, kor-
+látozott időtartamra, aki(k) feladata a Projektvezető támo-
+gatása a TER irányításának műszaki, működési és pénzügyi
+kérdéseiben.
+Az Intéző Bizottság a Projektvezető segítségével választja
+ki őket a TER Államok által javasolt jelöltek közül. A részt
+vevő Államok a Projektvezetőhöz vagy a Projektvezető-
+helyetteshez hasonló alapon bocsátják rendelkezésre őket.
+Egyébszemélyzet
+Amennyiben szükséges, egyéb háttérszemélyzet is fog-
+lalkoztatható és fizethető a Projektből a befogadó ország
+által biztosított személyi állományon felül a TER igényei
+szerint. Ezt az Intéző Bizottság engedélyezi.
+VI. FÜGGELÉK
+Költségvetés
+A TER Projekt olyan költségvetésből működik, amely-
+nek fő bevételeit a tagállamok konvertibilis valutában,
+készpénzben befizetett hozzájárulásai képezik. Ehhez a
+költségvetéshez még hozzájárulást adhatnak: tagállamo-
+kon kívüli államok, a nemzetközi testületek és szervezetek
+és/vagy magántestületek.
+A TER tagállamokban mind az állami, mind a magán-
+testületek, mint az egyetemek, tervező irodák, kivitelező
+társaságok, közlekedési szervezetek és bizonyos gyártó cé-
+gek stb. érdekeltek lehetnek a TER Projekt szponzorálá-
+sában.
+A tagállamok konvertibilis valutában adott hozzájárulásai
+azonos összegűek legyenek. A természetbeni hozzájárulások
+azonosságát a lehetséges mértékben kell biztosítani.
+Ez a költségvetés ötéves időszakra szól.
+A költségvetési eszközöket, beleértve az államok termé-
+szetbeni hozzájárulásait is, az EGB ellenőrzése mellett és
+a Projektvezető javaslatai alapján veszik igénybe, a mun-
+kaprogrammal és az Intéző Bizottság irányelveivel össz-
+hangban.
+A TER államok természetbeni hozzájárulásainak fő for-
+mái: a PCO működtetése, ülések megrendezése, a nemzeti
+szakértők ellátmánya, a műszaki jellegű jelentések és ok-
+tatási programok készítése, valamint különleges koordiná-
+ciós tevékenységek ellátása és alvállalkozási szerződések
+kötése kormányzati végrehajtási eljárások révén.
+
+VII. FÜGGELÉK
+Az EGB és a Központi Projektirodát befogadó Kormány
+között aláírt Egyezmény-levél
+Danuta Hübner
+végrehajtó titkár
+Egyesült Nemzetek
+Európai Gazdasági Bizottság
+GENF
+Tisztelt Végrehajtó Titkár Asszony!
+Az ENSZ Transz-Európai Vasúti Együttműködési Ala-
+pítványi Egyezményhez (a továbbiakban: TER Egyez-
+mény) való csatlakozását Magyarország meghosszabbítot-
+ta a 2001—2005 közötti időszakra és a korábbi évekhez
+hasonlóan vállalja a TER Projekt Központi Irodájának
+(a továbbiakban: PCO) Budapesten történő működtetését.
+A TER Egyezmény IV. Cikk 4. pontjával összhangban a
+PCO nem rendelkezik önálló jogi személyiséggel, mind-
+amellett a Kormány elismeri a PCO jogát találkozók szer-
+vezésére és a TER Egyezmény végrehajtására irányuló más
+tevékenységek végzésére a Magyar Köztársaság területén.
+A TER Egyezmény hatálya alatt a PCO székhelye Buda-
+pest. A PCO működésének érdekében a Magyar Köztársa-
+ság Kormánya a következőket vállalja:
+a) gondoskodik a PCO kizárólagos használatára
+megfelelő bútorzattal (függöny, szőnyeg, világítótes-
+tek, elektronikus riasztórendszer) együtt kb. 160 m2 terü-
+letű — 4 helyiségből álló — irodáról, melyet a PCO szük-
+ségleteinek megfelelően alakítanak ki, valamint a kapcso-
+lódó kiszolgáló helyiségekről,
+b) gondoskodik egy személygépkocsiról a PCO részére
+hivatali célokra,
+c) gondoskodik a PCO részére közvetlen telefonvona-
+lakról (1 ISDN vonal, 2—3 fővonal, 1 mobil vonal) telefax
+szolgáltatással.
+A PCO működtetéshez a Magyar Köztársaság Kormá-
+nya vállalja továbbá az alábbi költségek fedezését:
+a) bérleti díj,
+b) iroda karbantartási díj,
+c) közüzemi díjak (takarítás, fűtés, víz, villany, gázszol-
+gáltatás, szennyvízelvezetés, szemétszállítás),
+d) helyi alkalmazottak (2 adminisztratív tisztviselő)
+munkabére, járulékokkal, szociális ellátással,
+e) személygépkocsi Magyarország területén belül tör-
+ténő hivatali célú üzemeltetése (üzemanyag, autópályadíj,
+karbantartás, biztosítás).
+A fentiekből következően a TER Egyezmény 2. Rész
+szerinti költségvetés terhére a PCO az alábbi kötelezettsé-
+geket vállalja:
+a) az irodák műszaki berendezésekkel történő felszere-
+lése, üzemeltetése és karbantartása,
+b) telefon, telefax, Internet és postai szolgáltatások
+összes díjának kiegyenlítése,
+c) személygépkocsi Magyarország területén kívül törté-
+nő hivatali célú üzemeltetése (üzemanyag, autópályadíj,
+biztosítások, országon kívüli kárelhárítás).
+A PCO részére az illetékes magyar hatóságok biztosítják
+a szükséges közszolgáltatásokat, ideértve a korlátozás nél-
+küli villany-, víz- és gázszolgáltatást, szennyvízelvezetést,
+szemétszállítást, postai és távközlési szolgáltatást. A szol-
+gáltatások felfüggesztése vagy zavara esetén az illetékes
+magyar hatóságok a PCO szükségleteit a legfontosabb kor-
+mányhivatalok szükségleteihez mérten elégítik ki, és lépé-
+seket tesznek a zavartalan működtetés érdekében.
+Az Egyesült Nemzetek kiváltságairól és mentességeiről
+1946. február 13-án kelt Egyezmény (a továbbiakban:
+ENSZ Egyezmény) hatálya kiterjed a PCO helyiségeire,
+amelyeket úgy kell tekinteni, bárhol is legyenek azok, mint
+az Egyesült Nemzetek helyiségeit.
+A TER Egyezmény értelmében a PCO nemzetközi és
+magyar személyzettel dolgozik, vezetője a Projektvezető.
+A PCO nemzetközi személyzetét (a Projektvezetőt, he-
+lyettes-projektvezetőt és segéd-projektvezetőket), vala-
+mint a PCO többi ENSZ-es személyzetét úgy kell tekinte-
+ni, mint az ENSZ Egyezmény szerinti tisztviselőket, akiket
+ugyanazon kiváltságok és mentességek illetnek meg Ma-
+gyarországon, mint amelyek az ENSZ Egyezmény V. Cik-
+kének 18., 19., 20. és 21. bekezdéseiben szerepelnek, továb-
+bá a hatályos magyar jogszabályok biztosítanak.
+Az Egyesült Nemzetek Európai Gazdasági Bizottsága
+vagy a TER Egyezményben részes felek megbízásából
+kiküldött azon szakértőket, akik a TER Projekt munkájá-
+ban részt vesznek, magyarországi kiküldetésük ideje alatt
+— ideértve az utazás időtartamát is — megilletik a felada-
+tuk ellátásához szükséges mindazon kiváltságok és mentes-
+ségek, amelyek az ENSZ Egyezmény VI. Cikkében szere-
+pelnek, továbbá amelyeket a hatályos magyar jogszabályok
+biztosítanak.
+A TER Egyezményben részes felek azon kiküldött kép-
+viselőit, akik részt vesznek a PCO által szervezett üléseken,
+feladatuk gyakorlása során, valamint a magyarországi be-
+utazás és visszautazás alkalmával megilletik az ENSZ
+Egyezmény IV. Cikkében foglalt és mindazon további ked-
+vezmények, amelyeket a hatályos magyar jogszabályok biz-
+tosítanak.
+Egyetértés van abban, hogy az ENSZ Egyezmény 18. d),
+e), f) és g) szakasza nem vonatkozik azokra a magyar
+állampolgárokra, akiket az ENSZ az országon belül alkal-
+maz a PCO-nál. Azonban a jogi eljárások alóli mentesség-
+nek ki kell terjednie a magyar személyzetre is — akik a
+Kormány alkalmazottai, és akiket a Kormány ad a Projekt-
+hez — a projekttel kapcsolatos hivatalos működésük során
+tett szóbeli vagy írásbeli kijelentéseik és minden cselekmé-
+nyük tekintetében. Különleges jogállást kell kapniuk,
+amely ilyen szolgálatukban a projektvezető felügyelete és
+
+rendelkezése alá helyezi őket és amely megköveteli tőlük,
+hogy megfelelően tegyenek eleget az ENSZ Személyzeti
+Szabályzata I. cikkének, amelyet — miután egyeztetett a
+Kormánnyal — az ENSZ-nek kell megismertetnie velük,
+olyan módosításokkal, amelyeket a jogállásuk szerint szük-
+ségesnek vélhet.
+Egyetértés van abban, hogy a tisztviselőknek biztosított
+kiváltságok és mentességek az ENSZ érdekeit szolgálják és
+nem maguknak az egyéneknek a személyes javát. A Főtit-
+kárnak a joga és kötelessége, hogy valamely tisztviselő
+mentességét feloldja olyan esetben, ha véleménye szerint a
+mentesség a bírósági eljárás menetét akadályozná és az
+ENSZ érdekeinek sérelme nélkül feloldható.
+Az ENSZ-nek mindig együtt kell működnie a megfelelő
+hatóságokkal, hogy a kellő bírósági ügykezelést elősegítse,
+a rendőri intézkedés végrehajtását biztosítsa és a fent em-
+lített kiváltságokkal, mentességekkel és könnyítésekkel
+kapcsolatban minden visszaélés előfordulását megelőzze.
+A PCO az általa hivatalos célra belföldön beszerzett
+termékek és igénybe vett szolgáltatások után jogosult
+mindazon kedvezményekre és könnyítésekre, melyeket a
+Magyar Köztársaság a területén működő diplomáciai kép-
+viseleteknek jogszabályok alapján biztosít.
+A TER Projekt által Magyarországon vásárolt áruk és
+igénybevett szolgáltatások ellenértékét a PCO teljesíti fo-
+rintban.
+Örömmel venném, ha aláírásával jelezné egyetértését a
+fentiekkel és visszaküldené nekem a jelen levél mellékelt
+másodpéldányát.
+Engedje meg, hogy kifejezzem legőszintébb nagyra-
+becsülésemet.
+Budapest, 2001. július
+Dr. Fónagy János s. k.,
+közlekedési és vízügyi miniszter
+Danuta Hübner s. k.,
+végrehajtó titkár
+VIII. FÜGGELÉK
+Tisztelt Nagykövet Úr!
+Örömmel értesítem, hogy a Transz-Európai Vasút
+(TER) Intéző Bizottsága (SC) legutóbbi ülésén egyhangú
+támogatásban részesítette Kormányának képviselőjét,
+……………………………… urat/asszonyt abban, hogy a
+TER Projektvezetője / Projektvezető-helyettese/
+Projektvezető-asszisztense legyen ………………………-
+tól………………………ig.
+Az Együttműködési Alapítványi Egyezmény szerint a
+Projektvezetőt az Intéző Bizottság „választja ki” az egyik
+TER-államból. Szolgálati ideje két év, amely időtartamot
+az Intéző Bizottság további két évig terjedő időszakkal
+meghosszabbíthat, az adott Kormány egyetértése esetén.
+A ………………………………… úr/asszony kötelezett-
+ségeit a ………………………………… úr/asszony és az
+Egyesült Nemzetek Szervezete által aláírásra kerülő Külön
+Szolgálati Megállapodásba foglalják, amelyet az alábbiak-
+ban ismertetünk az Ön országa illetékes hatóságai részéről
+történő megvizsgálás és jóváhagyás céljából.
+A Projektvezető-helyettes, asszisztense(i) és a személy-
+zet többi tagjának kötelezettségei
+A helyettes és az asszisztens(ek) feladata a segítségnyúj-
+tás a Projektvezetőnek a TER irányítása műszaki, üzemel-
+tetési és pénzügyi aspektusai terén.
+Az Intéző Bizottság a Projektvezető javaslatait is figye-
+lembe véve a megválasztásuk előtt javasolja és meghatá-
+rozza a Projektvezető-helyettes és az asszisztensek konkrét
+munkaköri kötelezettségeit.
+Az egyes személyek kötelezettségeit a Végrehajtó Ügy-
+nökség és a Projektvezető egyezteti.
+Megbízatása a Projektvezető megbízatásához kapcsolódik.
+…………………………………………úr/asszonymegbí-
+zást kap az ………………………………… ügyek vitelére.
+A Projektvezető kötelezettségei
+A Transz-Európai Vasút (TER) Együttműködési Ala-
+pítványi Egyezmény VII. Függelékével összhangban a Pro-
+jektvezető az Intéző Bizottság irányítása alatt áll, és az
+EGB útmutatása szerint felel a következőkért:
+1. A Központi Projektiroda (PCO) irányítása.
+2. Munkaprogram-tervezetek kidolgozása az Intéző Bi-
+zottság (SC) által történő jóváhagyásra, és elfogadás után
+az igazgatási feladatok ellátása.
+3. Az Intéző Bizottság (SC) és a TER Nemzetközi
+Koordinátorok (TERNC) titkári feladatainak ellátása.
+4. A döntést igénylő ügyekben az Intéző Bizottság és a
+TERNC elnökének tanácsadás.
+5. A döntést igénylő ügyekben a tagországok számára
+tájékoztatók készítése és terjesztése.
+6. Folyamatos kapcsolattartás a Nemzeti Koordináto-
+rokkal a TER tevékenységek végrehajtásával kapcsolatos
+minden ügyben.
+7. A vizsgált időszakban a PCO általános tevékenységé-
+ről és a TER fejlesztéseiről az Intéző Bizottság és a TER
+üléseire a Projektvezető által beterjesztésre kerülő beszá-
+moló elkészítése.
+
+8. A műszaki és igazgatási dokumentáció szervezése és
+elkészítése a TER ülésein való megtárgyalásra.
+9. A különféle tevékenységek keretében tanácsadói
+szolgáltatást nyújtó szakértők munkájának ellenőrzése,
+közösen azokkal a TER Kormányokkal, amelyek a TER
+számára természetbeni hozzájárulást nyújtanak.
+10. A PCO illetékességébe tartozó igazgatási és pénz-
+ügyi tevékenységek ellenőrzése.
+11. A „TER” Projekt költségvetéséhez igazgatási segít-
+ségnyújtás az Intéző Bizottság határozatai és az Egyesült
+Nemzetek pénzügyi szabályzatai és szabályai szerint.
+12. Szükség szerint segítségnyújtás a javasolt tanács-
+adók kiválasztásához, az Intéző Bizottság útmutatása mel-
+lett, a különleges tevékenységek munkaprogram szerinti
+megvalósításának elősegítése céljából.
+13. Az Intéző Bizottság által kiadott egyéb feladatok
+ellátása.
+A Projektvezető közvetlenül az EGB Közlekedési Diví-
+ziója igazgatójának vagy annak képviselőjének jelent.
+Mint a PCO Magyarország, Budapest, vezetője, a Pro-
+jektvezető felügyeli mind a nemzetközi személyzetet, mind
+a Kormány által biztosított helyi személyzetet.
+A Projektvezető szolgálati helye Magyarország, Buda-
+pest, és bármely, erről a szolgálati helyről történő utazás az
+EGB Közlekedési Divízióval való konzultáció után és jó-
+váhagyásával történhet.
+A fenti feltételek alapján, az Egyesült Nemzetek
+..................................................................... úrnak/asszonynak
+projektvezetői / projektvezető-helyettesi / projektvezető-
+asszisztensi szerződést ajánl ...............................................tól
+...........................................-ig tartó időtartamra.
+További külön előírások:
+1. ………………… Kormánya felel a fizetés és minden
+más juttatás és kedvezmény fizetéséért, azaz
+a) minden javadalmazás és juttatás közvetlen kifizetése
+a részére, amelyre szabályszerűen jogosult;
+b) a szolgálati helyre és vissza a személyi és háztartási
+cikkek szállítási költségeinek megtérítése,
+c) a szolgálati helyre és helyről való utazási és a kapcso-
+latos kiadások megtérítése saját számára és eltartott csa-
+ládtagjai számára az EGB-be való kinevezésekor és fel-
+mentésekor.
+2. …………… Kormánya felel ……………… úr/asszony
+megfelelő egészség- és balesetbiztosításáért az EGB-vel
+kötött jelen szerződés időtartama alatt, azon felül, amelyet
+a 4. c) pont tartalmaz.
+3. Az Egyesült Nemzetek …………………… úr/asszony
+számára a következőket biztosítja:
+a) Igazolvány, amely tanúsítja jogállását, miszerint ő az
+Egyesült Nemzetek megbízott szakértője és az ENSZ—
+EGB—TER Projektvezetője / Projektvezető-helyettese /
+Projektvezető-asszisztense;
+b) Napidíj a szolgálati helyen kívüli hivatalos útra;
+c) Az Egyesült Nemzetek olyan haláleset, baleset vagy
+betegség esetén, amely az Egyesült Nemzetek nevében telje-
+sített szolgálat következménye, és a jelen szerződés feltételei
+szerinti kiküldetés alatt történik, a tanácsadónak vagy eltar-
+tott családtagjainak olyan kártérítést fizet, amely azonos a
+Személyzeti Szabályzat D) Függeléke szerint az Egyesült
+Nemzetek személyzeti állományában hasonló funkciót betöl-
+tő munkatárs számára fizetendő kártérítéssel.
+Nagyon hálás lennék, ha Ön továbbítaná a jelen levélben
+foglalt feltételeket az illetékes ………………… hatóságok-
+nak.
+Amennyiben ezek a feltételek elfogadhatóak, kérem,
+ellenjegyzéssel ellátva küldje vissza ezt a levelet.
+Tisztelt Nagykövet Úr,
+maradok tisztelettel
+Végrehajtó Titkár
+Európai Gazdasági Bizottság
+A jelen levél feltételeit elfogadom:
+Név és beosztás: ......................................................................
+Kelt: ..........................................................................................
+(nagykövet ...............................................................................
+állandó képviselője ...........................................................)”
+3. §
+(1) Ez a rendelet a kihirdetése napján lép hatályba,
+rendelkezéseit azonban 2001. április 2. napjától kell alkal-
+mazni.
+(2) E rendelet hatálybalépésével egyidejűleg az ENSZ
+EGB Transz-Európai Vasúti Együttműködési Alapítványi
+Egyezményről (TER) szóló, Genfben, 1992. december
+17-én kelt Megállapodás, valamint mellékletének és függe-
+lékeinek egységes szerkezetben történő kihirdetéséről
+szóló 47/1998. (III. 27.) Korm. rendelet hatályát veszti.
+Dr. Medgyessy Péter s. k.,
+miniszterelnök
