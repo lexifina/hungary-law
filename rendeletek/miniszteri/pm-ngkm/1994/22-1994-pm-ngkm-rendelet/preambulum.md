@@ -1,0 +1,1 @@
+Az agrárpiaci rendtartásról szóló 1993. évi VI. törvény 17. § (2), továbbá a 27. § (3) bekezdésben foglalt felhatalmazás alapján — a földművelésügyi miniszterrel egyetértésben — a következőket rendeljük el:
