@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a világűr kutatásában és békés célú felhasználásában való együttműködésről szóló, Budapesten, 1999. október 20-án aláírt Egyezményt e rendelettel kihirdeti.
