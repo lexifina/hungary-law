@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a szélsőséges, alföldi viszonyok közé telepített erdő, a benne megtelepült természetes növény- és állatvilág, a terület kultúrtörténeti és tájképi értékeinek védelme.
