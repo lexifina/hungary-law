@@ -1,0 +1,1 @@
+A külügyminiszter előterjesztésére Balázs József rendkívüli és meghatalmazott nagykövetet – a Magyar Köztársaság bogotai nagykövetsége vezetésére kapott megbízása érintetlenül hagyása mellett – megbízom a Magyar Köztársaságnak a Perui Köztársaságban való képviseletével.
