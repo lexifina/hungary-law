@@ -1,0 +1,1 @@
+Az Országgyűlés határozatára figyelemmel – amellyel 1990. március 16-ai hatállyal kimondta feloszlását – az Alkotmány 30/A. § (1) d) pontja alapján az országgyűlési választásokat 1990. március 25. napjára (vasárnap) kitűzöm.
