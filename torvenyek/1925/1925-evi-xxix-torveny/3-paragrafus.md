@@ -1,0 +1,1 @@
+3. § A magyar királyi kereskedelemügyi miniszternek az 1915. évi I. tc. 1. §-ában adott felhatalmazás a métermérték ügyében 1875. évi május hó 20-án Párisban kötött és az 1876. évi II. törvénycikkbe iktatott Nemzetközi Egyezménnyel kapcsolatos Szabályzatnak a jelen törvényben közzétett, valamint a jövőben bekövetkező módosításaira is kiterjed.

@@ -1,0 +1,1 @@
+1. § A métermérték ügyében 1875. évi május hó 20-án Párisban kötött és az 1876. évi II. törvénycikkbe iktatott nemzetközi egyezmény módosítása tárgyában 1921. évi október 6-án Sévresben létrejött nemzetközi pótegyezmény a magyar állam törvényei közé iktattatik.
