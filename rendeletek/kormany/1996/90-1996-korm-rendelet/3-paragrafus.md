@@ -1,0 +1,175 @@
+## 2. § A Megállapodás magyar nyelvű szövege a következő:
+
+## ,,Megállapodás
+
+## a Magyar Köztársaság Kormánya, valamint a Közép- és Kelet-Európai Regionális Környezetvédelmi Központ Igazgatótanácsa között a budapesti Regionális Központ jogállásáról
+
+## A Magyar Köztársaság Kormánya, valamint a Közép- és Kelet-Európai Regionális Környezetvédelmi Központ Igazgatótanácsa (a továbbiakban: Szerződő Felek)
+
+## üdvözölve a Regionális Központ működését Budapesten, abból a célból, hogy előmozdítsa a környezetvédelmi együttműködést Közép- és Kelet-Európa államaiban;
+
+## figyelembe véve azt, hogy a Regionális Központot létrehozó alapító okiratot Magyarország, az Egyesült Államok, az Európai Gazdasági Közösség és Hollandia képviselői írták alá 1990. június 20-án, amelyhez a mai napig további 18 állam képviselője csatlakozott aláíróként;
+
+## tekintetbe véve azt, hogy a Regionális Központ és személyzete jogállása meghatározásáról, valamint hatékony működésük elősegítése érdekében megállapodást szükséges kötni
+
+## az alábbiakban állapodnak meg:
+
+## 1. Cikk
+
+## 1. A Regionális Központ jogállása
+
+## Szerződő Felek megerősítik, hogy a Regionális Központ politikai szervezetektől független, nem-érdekképviseleti, nem-nyereségérdekelt nemzetközi környezetvédelmi szervezetként tevékenykedik. A Regionális Központ feladatai ellátására az aláíró államoktól, a céllal egyetértő szervezetektől és magánszemélyektől támogatást fogadhat el.
+
+## 2. A Regionális Központ célja
+
+## A Szerződő Felek megerősítik, hogy a Regionális Központ célja a továbbiakban is az, hogy segítse Közép- és Kelet-Európa környezet- és természetvédelmi problémáinak megoldását, elsősorban a nemzetközi kormányzati és szakmai együttműködés, a szabad információáramlás és az állampolgári részvétel előmozdításával.
+
+## A Regionális Központ részt vesz a térség aktuális környezeti problémáinak feltárásában, szakmailag és anyagilag támogatja a polgári társadalom környezetvédő tevékenységét. Ennek megfelelően elő kívánja segíteni a környezet állapotára és védelmére vonatkozó információk és adatok nemzetközi cseréjét, az érdekelt országok, szervezetek és társadalmi csoportok közti párbeszédet, valamint a környezetvédelmi szakismeretek széles körű terjesztését.
+
+## A Regionális Központ tevékenysége
+
+## Az 1. pontban meghatározott módon és a 2. pontban meghatározott célokkal összhangban, elsősorban
+
+## – figyelemmel kíséri a globális környezetvédelmi problémákat;
+
+## – gyűjti és szolgáltatja a régió országaira, illetve a térség egészére vonatkozó környezet- és természetvédelmi adatokat;
+
+## – rendszeresen felméri Közép- és Kelet-Európa stratégiai környezetvédelmi kérdéseit, javaslataival közreműködik ezek megoldásában;
+
+## – lehetőséget kínál az érdekelt országoknak, szervezeteknek és személyeknek a kölcsönös tapasztalatcserére;
+
+## – elősegíti a kormányzati, tudományos és egyéb szervezetek környezetvédelmi együttműködését a gazdasági élet szereplőinek bevonásával,
+
+## – anyagi és természetbeni támogatást nyújt egyes környezetvédelmi problémák megoldása érdekében, valamint
+
+## – ösztöndíjakat adományoz, és oktatási, képzési, tudományos tevékenységet végez a környezet- és természetvédelem terén a térségben.
+
+## 2. Cikk
+
+## A Magyar Köztársaság Kormánya a Regionális Központnak az 1. Cikkben meghatározott céljai érdekében végzett tevékenysége támogatására megfelelő ingatlant bocsát a Regionális Központ rendelkezésére.
+
+## 3. Cikk
+
+## A Regionális Központ feladatainak ellátása és céljainak megvalósítása érdekében a Magyar Köztársaság területén teljes szerződéskötési és eljárási képességgel, valamint ingó és ingatlan tulajdonnal rendelkező jogi személy.
+
+## 4. Cikk
+
+## 1. A Regionális Központ környezetvédelmi küldetésének gyakorlása során megkívánt feladatait a Magyar Köztársaság területén szabadon láthatja el.
+
+## 2. A Regionális Központ jogosult arra, hogy tevékenységét Közép- és Kelet-Európa többi államának területére kiterjessze az érintett államok kormányainak hozzájárulásával.
+
+## 3. A Magyar Köztársaság Kormánya a lehető legnagyobb mértékben megkönnyíti a Regionális Központ környezetvédelmi tevékenységét. A Magyar Köztársaság Kormánya mindenekelőtt a Regionális Központ nemzetközi jellegű működését, kapcsolatait és érintkezését engedélyezi és segíti elő.
+
+## 5. Cikk
+
+## A Regionális Központ a Magyar Köztársaság területén az ország törvényeinek és jogszabályainak megfelelően tevékenykedik.
+
+## 6. Cikk
+
+## 1. A Regionális Központ, valamint annak bárhol, bárkinél lévő tulajdona és pénzeszközei mentesek a joghatóság minden formája alól, kivéve, ha arról valamely esetben a Regionális Központ kifejezetten lemondott. A Regionális Központ tulajdona és pénzeszközei, beleértve a közlekedési eszközöket is, mentesek a házkutatás, az igénybevétel, az elkobzás, a kisajátítás, valamint a bírósági, közigazgatási vagy végrehajtási eljárás, illetve beavatkozás bármely más formája alól.
+
+## 2. A Regionális Központ helyiségei, irattára és okmányai, bárhol is találhatók, sérthetetlenek.
+
+## 7. Cikk
+
+## A Regionális Központ pénzügyi ellenőrzés, szabályozás vagy fizetési moratóriumra vonatkozó korlátozás nélkül
+
+## 1. bármilyen külföldi fizetési eszközt és betétet tarthat, valamint rendelkezhet bármilyen fizetési eszközben lévő devizaszámla felett;
+
+## 2. szabadon átutalhatja külföldi fizetési eszközét és alapjait az egyik országból a másik országba, valamint átválthatja bármely külföldi fizetési eszközét bármely más külföldi fizetési eszközre.
+
+## 8. Cikk
+
+## 1. A Regionális Központ vagyontárgyai, helyiségei, jövedelme és egyéb tulajdona mentes
+
+## – minden adó- és illetékfizetés alól (kivéve a helyi adókat, illetve azon díjakat, amelyek közüzemi szolgáltatások fejében járnak),
+
+## – a hivatalos használatra, valamint kiadványai tekintetében behozott vagy kivitt tárgyak tekintetében minden behozatali vagy kiviteli tilalom és korlátozás alól.
+
+## 2. A Regionális Központ jogosult az 1. Cikkben foglalt feladatai ellátására az általa vásárolt termékek és szolgáltatások árában foglalt általános forgalmi adó visszatérítésére a vonatkozó hatályos jogszabályokkal összhangban.
+
+## 9. Cikk
+
+## 1. A Regionális Központ hivatalos levelezése és más hivatalos közlései tekintetében semmiféle korlátozás nem alkalmazható.
+
+## 2. A Regionális Központnak joga van az országos és nemzetközi írásos és audiovizuális médiumok szabad igénybevételére.
+
+## 10. Cikk
+
+## 1. A Regionális Központ tagjai és jogállásuk:
+
+## a) A Regionális Központ legfőbb irányító és döntést hozó szerve az Igazgatótanács. Az Igazgatótanács tagjait az alapító okirat aláírói és a csatlakozók nevezik ki.
+
+## b) Az Igazgatótanács legfőbb tanácsadó és javaslattevő szerve a Közgyűlés, amelynek tagjait az Igazgatótanács kéri fel e feladat ellátására.
+
+## c) A Regionális Központot az Ügyvezető Igazgató képviseli, aki egyben irányítja a munkaszervezetet is. Az Ügyvezető Igazgatót az Igazgatótanács nevezi ki.
+
+## d) A Regionális Központ operatív egységeinek közvetlen vezetőit, valamint a Regionális Központ igazgatási és technikai személyzetét az Ügyvezető Igazgató nevezi ki, vagy alkalmazza.
+
+## e) A Regionális Központ tevékenységében az 1. Cikk 3. pontja alapján ösztöndíjasok vesznek részt. Az ösztöndíjasokat szakmai környezetvédelmi tevékenységük ellátásával az Ügyvezető Igazgató bízza meg. A Regionális Központ tevékenységét az Igazgatótanács által elfogadott Szervezeti és Működési Szabályzat szerint végzi.
+
+## 2. Az Igazgatótanács, az Ügyvezető Igazgató és a Vezetőség tagjainak, valamint az igazgatási és technikai személyzet nevét – amennyiben nem magyar állampolgárok, vagy állandó magyarországi lakosok – a Regionális Központ Ügyvezető Igazgatója közli a Magyar Köztársaság Külügyminisztériumával, amint megkezdték tisztségük ellátását a Regionális Központnál.
+
+## 3. Ezen értesítés kézhezvétele alapján a Magyar Köztársaság Külügyminisztériuma az érintett személyek részére kiállítja a megfelelő személyazonossági igazolványt.
+
+## 11. Cikk
+
+## 1. A Regionális Központ Igazgatótanácsának tagjait, az Ügyvezető Igazgatót, az Igazgatóság tagjait, valamint az igazgatási és technikai személyzetet, házastársaikat és olyan hozzátartozóikat, akik ellátásáról gondoskodnak, a nemzetközi jognak a nemzetközi szervezetek tisztviselőire vonatkozó alapelveivel összhangban a következő kiváltságok és mentességek illetik meg:
+
+## a) mentesek hivatalos minőségükben szóban és írásban tett nyilatkozataik és összes egyéb hivatalos tevékenységük tekintetében a joghatóság alól;
+
+## b) mentesek a Regionális Központ által fizetett illetmény és egyéb járandóság tekintetében az adózás alól;
+
+## c) mentesek házastársukkal és általuk eltartott hozzátartozóikkal együtt bevándorlást korlátozó szabályok, valamint a külföldiek bejelentésére vonatkozó előírások alól, s amennyiben vízumkötelezettek, úgy a vízumot díjmentesen kapják meg;
+
+## d) a fizetési eszközök beváltása tekintetében ugyanazokat a könnyítéseket élvezik, mint más nemzetközi szervezet magyarországi képviseletének tagjai;
+
+## e) nemzetközi vagy belső válság idején őket, házastársukat és olyan hozzátartozóikat, akiknek ellátásáról gondoskodnak, hazatérési könnyítések illetik meg, amelyek révén kívánságukra a lehető legkorábban távozhatnak;
+
+## f) joguk van berendezési és személyes használati tárgyaikat vámmentesen behozni a Magyar Köztársaságban első ízben történő átvétele alkalmával.
+
+## 2. Jelen Cikk 1. bekezdésének b)–f) pontja nem alkalmazható a Magyar Köztársaság állampolgáraira vagy az állandó tartózkodásra jogosító engedéllyel rendelkező lakosaira.
+
+## 3. Mivel ezek a kiváltságok és mentességek nem az egyének előnyben részesítését, hanem a Regionális Központ környezetvédelmi küldetése független gyakorlásának biztosítását szolgálják, a Regionális Központ köteles az 1. pontban meghatározott személyek bármely mentességéről lemondani, bármely esetben, amikor véleménye szerint a mentesség az igazságszolgáltatás menetét akadályozná, és arról a Regionális Központ érdekeinek sérelme nélkül lehet lemondani.
+
+## A Regionális Központ megtesz minden intézkedést annak érdekében, hogy az ilyen kiváltságokat és mentességeket élvező minden személy tiszteletben tartsa a Magyar Köztársaság törvényeit és jogszabályait.
+
+## 4. A 10. Cikk 1. bekezdésének e) pontjában említett ösztöndíjasokat a következő mentességek és könnyítések illetik meg:
+
+## a) jogosultak az ösztöndíjuk időtartamára érvényes díjmentes, többszöri beutazásra jogosító vízumra, díjmentesen tartózkodási engedélyre, valamint mentesülnek a vízumkérelem személyes benyújtása alól;
+
+## b) mentesek a Regionális Központ által fizetett ösztöndíj és járandóság tekintetében az adózás alól;
+
+## c) személyes használati és tanulmányaik folytatásához szükséges tárgyaikat vámmentesen hozhatják be, illetve vihetik ki a Magyar Köztársaságba.
+
+## 5. A 4. a) pontban említett ösztöndíjasok személyi adatait a REC a székhelye szerint illetékes rendőrkapitánysággal kellő időben közli.
+
+## 6. A Regionális Központ feladatkörében utazó személyek részére a Regionális Központ személyazonossági igazolványt állít ki.
+
+## 12. Cikk
+
+## Szerződő Felek rögzítik, hogy bármely olyan ügyet, amelyről a jelen Megállapodás nem rendelkezik, a nemzetközi jognak a nemzetközi szervezetek tisztségviselőire vonatkozó alapelveivel összhangban rendeznek.
+
+## 13. Cikk
+
+## 1. Jelen Megállapodás rendelkezéseit ideiglenesen az aláírás időpontjától kell alkalmazni, véglegesen pedig akkor lépnek hatályba, amikor a Magyar Köztársaság Kormánya értesíti a Regionális Központ Igazgatótanácsát arról, hogy a Megállapodás hatálybalépéséhez szükséges belső eljárás befejeződött.
+
+## 2. Jelen Megállapodást bármelyik Szerződő Fél írásban felmondhatja. A felmondás az írásban megküldött értesítés kézhezvételét követő tizenkét hónap elteltével lép hatályba.
+
+## Ennek hiteléül Szerződő Felek kellőképpen meghatalmazott képviselői jelen Megállapodást aláírták.
+
+## Készült Budapesten, 1995. október 23-án, két eredeti példányban, magyar és angol nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+## A Magyar Köztársaság Kormánya részéről
+
+## dr. Baja Ferenc s. k.
+
+## A Közép- és Kelet-Európai Regionális Környezetvédelmi Központ Igazgatótanácsa részéről
+
+## Bedrich Moldan s. k.''
+
+3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1996. február 1-jétől kell alkalmazni.
+
+(2) A rendelet végrehajtásáért a környezetvédelmi és területfejlesztési miniszter[^2] a felelős.
+
+[^2]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének e) pontját.

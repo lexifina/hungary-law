@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Közép- és Kelet-Európai Regionális Környezetvédelmi Központ Igazgatótanácsa közötti, a budapesti Regionális Központ jogállásáról szóló Megállapodást e rendelettel kihirdeti.
