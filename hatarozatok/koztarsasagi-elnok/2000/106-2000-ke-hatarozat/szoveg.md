@@ -1,0 +1,13 @@
+A külügyminiszter előterjesztésére Vezér Zoltán rendkívüli és meghatalmazott nagykövetet – érdemei elismerése mellett – felmentem a Magyar Köztársaság prágai nagykövetségének vezetésére kapott megbízása alól.
+
+Budapest, 2000. május 16.
+
+Göncz Árpád s. k.,
+
+a Köztársaság elnöke
+
+Ellenjegyzem:
+
+Dr. Martonyi János s. k.,
+
+külügyminiszter
