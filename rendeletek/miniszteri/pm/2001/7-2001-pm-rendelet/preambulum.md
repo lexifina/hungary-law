@@ -1,0 +1,1 @@
+A biztosítóintézetekről és a biztosítási tevékenységről szóló – többször módosított – 1995. évi XCVI. törvény (a továbbiakban: Bit.) 168. §-a (2) bekezdésének k) pontjában kapott felhatalmazás alapján a következőket rendelem el:
