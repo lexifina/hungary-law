@@ -1,0 +1,3 @@
+## 1. §
+
+## A Magyar Köztársaság Kormánya a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás kihirdetéséről szóló törvény 4. § b) pontja alapján a Magyar Köztársaság és az Európai Gazdasági Közösség és az Európai Szén- és Acélközösség közötti, a kereskedelemről és a kereskedelemmel kapcsolatos ügyekről szóló Ideiglenes Megállapodáshoz, valamint a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Európai Megállapodáshoz kapcsolódó Kiegészítő Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv), amely 1994. február 1-jén lép hatályba, e rendelettel kihirdeti.
