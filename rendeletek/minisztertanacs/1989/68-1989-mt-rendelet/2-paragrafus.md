@@ -1,0 +1,1 @@
+## 1. § A Kormány az államhatárokon jogellenesen átszállított kulturális javak visszatartásának és visszaadásának kérdéseivel kapcsolatos együttműködésről és kölcsönös segítségnyújtásról szóló, Plovdivban az 1986. évi április hó 22. napján kelt Egyezményt e rendelettel kihirdeti.
