@@ -1,0 +1,1 @@
+A Kormány a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 2. §-ának (2) bekezdése alapján dr. Kiss Józsefet az Országos Egészségbiztosítási Pénztár főigazgatójává 2005. március 1-jei hatállyal kinevezi.
