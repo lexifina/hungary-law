@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Finn Köztársaság Kormánya között Budapesten, az 1978. évi június hó 27. napján aláírt, az egészségügy, az orvostudomány és a társadalombiztosítás területén történő együttműködésről szóló Egyezményt e rendelettel kihirdeti.
