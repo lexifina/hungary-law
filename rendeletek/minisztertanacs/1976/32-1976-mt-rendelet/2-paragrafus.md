@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Sierra Leone Köztársaság Kormánya között a területeik közötti és azon túlra irányuló légi járatok tárgyában Budapesten, az 1975. évi november hó 5. napján aláírt egyezményt e rendelettel kihirdeti.
