@@ -1,0 +1,1 @@
+1. § A Nemzetközi Munkaügyi Szervezet alkotmányát (az 1921. évi XXXIII. tv. XIII. részét) módosító okmány, melyet a Nemzetközi Munkaügyi Értekezlet 27. ülésszakán Párizsban 1945. november 5-én elfogadott, a magyar állam törvényei közé iktattatik.
