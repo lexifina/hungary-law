@@ -1,0 +1,9 @@
+# 30/2005. (IV. 14.) ME határozat
+
+a Központi Statisztikai Hivatal elnökhelyettesének felmentéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-30-30-63
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2005-04-14 | 2005-30-30-63.1 | 30/2005. (IV. 14.) ME határozat |
