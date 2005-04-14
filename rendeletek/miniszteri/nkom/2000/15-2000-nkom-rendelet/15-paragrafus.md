@@ -1,0 +1,1 @@
+## 14. § Megszüntetem a Pest megyei Veresegyház, Fő u. 74. szám alatti 475 hrsz. alatt nyilvántartott népi lakóépület 9194 törzsszámú műemléki védettségét, mivel az életveszélyes állapot elhárítása során az épület elveszítette védendő értékeit.

@@ -1,0 +1,1 @@
+## 15. § Megszüntetem a Békés megyei Gyula város, K. Schriffert József u. 5. szám alatti, 6131 hrsz. alatt nyilvántartott polgárház 746 törzsszámú műemléki védettségét, mert a felülvizsgálat során megállapítást nyert, hogy az épület nem képvisel olyan építészeti vagy történeti értéket, amely az országos védelmet indokolná.
