@@ -1,0 +1,1 @@
+A fogyasztóvédelemről szóló 1997. évi CLV. törvény 56. §-ának a) pontjában, valamint a mérésügyről szóló 1991. évi XLV. törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet 15. §-ában kapott felhatalmazás alapján a következőket rendelem el:
