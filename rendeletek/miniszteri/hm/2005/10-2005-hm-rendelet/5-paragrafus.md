@@ -1,0 +1,1 @@
+## 4. § NATO tagállamoknak, a STANAG 4107 követelményei szerint kiadott megbízásai és beszerzési szerződéseik alapján a HM TH elvégzi a magyarországi Szállító telephelyén a hadfelszerelések minőségbiztosítását.

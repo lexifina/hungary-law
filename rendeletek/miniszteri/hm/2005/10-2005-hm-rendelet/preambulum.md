@@ -1,0 +1,1 @@
+A honvédelemről szóló 2004. évi CV. törvény 52. §-ának f) pontjában kapott felhatalmazás alapján – figyelemmel a Magyar Köztársaságnak az Észak-atlanti Szerződés Szervezetéhez történő csatlakozásáról szóló 1999. évi I. törvényre – a katonai minőségbiztosítási feladatok végrehajtásáról a következőket rendelem el:
