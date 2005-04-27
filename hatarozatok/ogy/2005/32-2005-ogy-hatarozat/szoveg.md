@@ -1,0 +1,3 @@
+Az Országgyűlés a népszavazásról és a népi kezdeményezésről szóló 1998. évi III. törvény rendelkezései szerint megtárgyalta „A magyarországi hunok a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény (a továbbiakban: kisebbségi törvény) 61. § (2) bekezdésének felhatalmazása alapján bizonyságot kívánnak tenni arról, hogy megfelelnek a kisebbségi törvényben foglaltaknak. Ezen oknál fogva alulírottak kijelentjük, hogy a hun kisebbséghez tartozónak valljuk magunkat!” tárgyú népi kezdeményezést, s arról a 2005. április 25-i ülésen a következők szerint döntött:
+
+Az Országgyűlés a népi kezdeményezésben foglaltakkal nem ért egyet.
