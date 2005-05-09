@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény (a továbbiakban: KT) 14. § (3) bekezdésében és 51. § (2) bekezdés c) pontjában kapott felhatalmazás alapján – figyelemmel a KT 4. számú mellékletében foglaltakra – a következőket rendeljük el:
