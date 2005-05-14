@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Európai Közösségek és a Magyar Köztársaság között az Európai Közösségeknek nyújtott kiváltságokra és mentességekre vonatkozó Jegyzőkönyv Magyar Köztársaság által adózási ügyekben történő alkalmazásáról szóló, Brüsszelben, 2005. február 17-én aláírt Megállapodást e törvénnyel megerősíti és kihirdeti.
