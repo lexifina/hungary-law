@@ -1,0 +1,1 @@
+A természet védelméről szóló 1996. évi LIII. törvény 29. § (3) bekezdésében, valamint 85. § b) pontjában kapott felhatalmazás alapján – a földművelésügyi és vidékfejlesztési miniszterrel egyetértésben – a következőket rendelem el:

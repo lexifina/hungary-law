@@ -1,0 +1,1 @@
+## 1. § Erdőrezervátummá nyilvánítom Nagybugaci Ősborókás Erdőrezervátum elnevezéssel a 7/1990. (IV. 23.) KVM rendelettel, valamint a 22/1996. (X. 9.) KTM rendelettel módosított 1800/1974. OTvH határozattal létesített Kiskunsági Nemzeti Park részét képező, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 249,7 hektár kiterjedésű területet.
