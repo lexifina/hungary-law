@@ -1,0 +1,19 @@
+## 2. § A Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SZMGSZ) kihirdetéséről szóló 170/2002. (VIII. 7.) Korm. rendelet 2. §-ában kihirdetett SZMGSZ módosításainak és kiegészítéseinek orosz nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+## „1. Статья 3 СМГС § 3 третий абзац дополнить после слов «обязана немедленно по телеграфу» словами «или по факсу».
+
+## 2. Статья 13 СМГС § 1 в пункте 1 исключить слова: «…или по прямому тарифу, если этими железными дорогами установлен прямой тариф».
+
+## 3. Статья 18 СМГС § 1 третий абзац дополнить следующим текстом: «Если бланк коммерческого акта напечатан на отдельных листах, каждый лист акта должен быть пронумерован типографским способом, подписан лицами, указанными в параграфе 6 настоящей статьи, и заверен календарным штемпелем станции, в верхней части каждого листа должен быть указан номер коммерческого акта. Все листы коммерческого акта после его составления должны быть скреплены. Бланки коммерческого акта могут печататься на самокопирующейся бумаге».
+
+## 4. Статья 23 СМГС § 3 пункт 12) слова "§ 10 Приложения 8" заменить на "§ 11 Приложения 8". ”
+
+## „1. Az SZMGSZ 3. cikke 3. §-ának harmadik bekezdését az „érdekelt vasutakat haladéktalanul távirattal” szavak után „vagy telefax útján” szavakkal kell kiegészíteni.
+
+## 2. Az SZMGSZ 13. cikke 1. §-ának 1. pontjából törölni kell a következő szavakat: „vagy ha e vasutak között közvetlen díjszabás van érvényben, akkor annak alapján”.
+
+## 3. Az SZMGSZ 18. cikke 1. §-ának harmadik bekezdését ki kell egészíteni a következő szöveggel: „Amennyiben a kereskedelmi jegyzőkönyv nyomtatvány különálló lapokból készül, a jegyzőkönyv valamennyi lapját nyomdai úton kell ellátni oldalszámmal, azok mindegyikét alá kell írnia az e cikk 6. §-ában felsorolt személyeknek, és hitelesíteni kell az egyesített állomásnév és keletbélyegző lenyomatával, továbbá minden lap felső részén fel kell tüntetni a kereskedelmi jegyzőkönyv számát. A kitöltést követően a kereskedelmi jegyzőkönyv lapjait össze kell kapcsolni. A kereskedelmi jegyzőkönyv nyomtatvány készülhet önátíró papírra is.”
+
+## 4. Az SZMGSZ 23. cikke 3. §-ának 12. pontjában „a 8. számú melléklet 10. §-ban” szavakat „a 8. számú melléklet 11. §-ban” szavakkal kell helyettesíteni.”
+
+3. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
