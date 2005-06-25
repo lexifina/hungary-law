@@ -1,0 +1,1 @@
+## 1. § A Kormány az Európai Bizottság és a Magyar Köztársaság Kormánya között 2004. június 22-én létrejött, az Átmeneti Támogatás (Transition Facility) végrehajtásáról szóló Együttműködési Megállapodást e rendelettel kihirdeti.
