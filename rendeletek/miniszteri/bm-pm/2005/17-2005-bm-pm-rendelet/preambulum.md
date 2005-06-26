@@ -1,0 +1,1 @@
+A többcélú kistérségi társulások által ellátott egyes közszolgáltatások 2005. évi normatív működési támogatásáról szóló 5/2005. (I. 19.) Korm. rendelet (a továbbiakban: Rendelet) 12. §-ában kapott felhatalmazás alapján a következőket rendeljük el:
