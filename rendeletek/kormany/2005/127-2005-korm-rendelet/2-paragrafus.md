@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Bosznia-Hercegovina Kormánya között pénzügyi együttműködési keretprogram kialakításáról szóló, 2004. november 19-én, Budapesten aláírt Megállapodást e rendelettel kihirdeti.
