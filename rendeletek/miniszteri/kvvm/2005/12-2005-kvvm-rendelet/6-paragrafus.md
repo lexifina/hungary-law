@@ -1,0 +1,3 @@
+6. § (1) A korlátozásnak olyan mértékűnek kell lennie, hogy az adott egyedi körülmények figyelembevételével biztosítsa az egyed, illetve az állomány megkülönböztetett védelmét, továbbá e céllal összhangban és arányban álljon. Ennek megfelelően gondoskodni kell arról, hogy az érintett tevékenység a feltétlenül szükséges időtartamra, és a fenntartható használat követelményét szem előtt tartva a lehető legkisebb mértékre korlátozódjon.
+
+(2) Egy-egy korlátozással érintett területen több tevékenységet érintő, továbbá az egyes tevékenységekre vonatkozóan is több, egymástól különböző korlátozás rendelhető el, valamint ugyanazon egyed védelmét is többféle korlátozás szolgálhatja.
