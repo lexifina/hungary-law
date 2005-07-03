@@ -1,0 +1,1 @@
+(A Magyar Köztársaság megerősítésről szóló okiratának letétbe helyezése az Európa Tanács főtitkáránál 2005. május 4-én megtörtént. A Kiegészítő Jegyzőkönyv a Magyar Köztársaság vonatkozásában 2005. szeptember 1-jén lép hatályba.)
