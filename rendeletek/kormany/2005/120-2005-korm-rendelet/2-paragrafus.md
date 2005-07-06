@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a kulturális, oktatási, tudományos, sport- és ifjúsági együttműködésről szóló, Budapesten, 2003. január 16-án aláírt Egyezményt e rendelettel kihirdeti.
