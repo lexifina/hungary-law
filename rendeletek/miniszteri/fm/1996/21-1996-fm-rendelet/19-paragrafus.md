@@ -1,0 +1,1 @@
+## 18. § A marhalevél, a marhalevél-másodlat kiállítására, pótlására és kezelésére az 1981. évi I. törvénnyel módosított, az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény rendelkezéseit kell alkalmazni.
