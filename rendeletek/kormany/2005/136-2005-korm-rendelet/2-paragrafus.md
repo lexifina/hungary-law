@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa közötti tudományos és technológiai együttműködésről szóló, Belgrádban, 2004. szeptember 14. napján aláírt megállapodást e rendelettel kihirdeti.
