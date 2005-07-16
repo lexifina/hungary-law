@@ -1,0 +1,3 @@
+9. § (1) Ha a terhelt sürgős orvosi vizsgálata vagy gyógyintézeti ellátása a lakhelyelhagyási tilalommal érintett település (körzet) halaszthatatlan elhagyását tette szükségessé, az állományilletékes parancsnok az erről való tudomásszerzését követően a bíróságot, valamint a vádirat benyújtásáig az ügyészt soron kívül értesíti.
+
+(2) Az (1) bekezdésben foglaltakat meghaladóan, ha a lakhelyelhagyási tilalom végrehajtása során az állományilletékes parancsnok – figyelemmel a Be. 137. §-ának (7) bekezdésére is – olyan körülményt észlel, amely a lakhelyelhagyási tilalom megszüntetését vagy részleges feloldását eredményezheti, erről a bíróságot – a vádirat benyújtásáig az ügyészt is – soron kívül értesíti.

@@ -1,0 +1,3 @@
+12. § (1) E rendelet alkalmazása során a fegyveres szerv által előlegezett költségek bűnügyi költséget (Be. 74. §) képeznek. Erről – hadköteles állományú terhelt esetében a Be. 491. §-a figyelembevételével – készített bizonylatokat a bűnügyi iratok költségjegyzékéhez való csatolás végett a vádirat benyújtásáig az ügyésznek, azt követően a bíróságnak kell megküldeni.
+
+(2) A fegyveres szerv által az (1) bekezdés szerint előlegezett bűnügyi költség – ha azt részben vagy egészben nem az állam viseli – a terhelt bűnösségének jogerős megállapítása esetén a fegyveres szerv azon szervezeti egységét illeti meg, amely azt megelőlegezte.
