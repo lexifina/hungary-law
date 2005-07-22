@@ -1,0 +1,1 @@
+Az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 6. §-ának (1) bekezdésében foglalt felhatalmazás alapján, figyelemmel az adatvédelmi biztos véleményére, a következőket rendelem el:
