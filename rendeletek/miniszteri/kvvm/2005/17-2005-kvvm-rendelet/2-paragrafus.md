@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Nyirádi Sár-álló Természetvédelmi Terület elnevezéssel a Nyirád 0140/2, 0141, 0147, 0148/a–b, 0149/1–2, 0150/3–5, 0151/a–c, 0169/1, 0171/9–10, 0174/3, 0174/5–7, 0176/2, 0177/1, 0178 ingatlan-nyilvántartási helyrajzi számú, összesen 360,5 hektár kiterjedésű területet.

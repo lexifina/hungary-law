@@ -1,0 +1,105 @@
+4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+Melléklet a 17/2005. (VII. 14.) KvVM rendelethez
+
+A Nyirádi Sár-álló Természetvédelmi Terület természetvédelmi kezelési terve
+
+1. Gyakorlati természetvédelmi célkitűzések
+
+1.1. Őrizze meg:
+
+– a területen élő védett és fokozottan védett növény- és állatfajok által reprezentált, országos szinten is egyedülálló életközösséget,
+
+– a védett és fokozottan védett fajokat, növelje állományukat, egyedszámukat, populációik életképességét, különös tekintettel a mocsári kardvirág (Gladiolus palustris) és a lápi békabuzogány (Sparganium natans) tekintetében,
+
+– a természetes és természetszerű élőhelyeket, társulásokat, növelje ezek területi kiterjedését, a termőhelynek nem megfelelő, nem őshonos vagy invázív fajokból álló életközösségek és mesterségesen kialakított ültetvények területének rovására,
+
+– a terület kiemelkedően magas biológiai sokféleségét a termőhelynek megfelelő, őshonos fajok tekintetében,
+
+– a jellegzetes földtani képződményeket és természetes felszínformákat, továbbá küszöbölje ki a természeti értékekre veszélyt jelentő talajdegradációs folyamatokat.
+
+1.2. Biztosítsa a terület természetvédelmi célú kutatását és fejlesztését.
+
+2. Természetvédelmi stratégiák
+
+– A terület vízügyi beavatkozásokat megelőzően jellemző vízellátottságának visszaállítása.
+
+– A gyepek természetvédelmi szempontból értékes életközösségeinek megőrzése, a védett és fokozottan védett állat- és növényfajok egyedszámának, állományának fenntartása és erősítése természetvédelmi kezeléssel.
+
+– Az adventív vagy tájidegen növényfajok [erdei fenyő (Pinus sylvestris), magas aranyvessző (Solidago gigantea) stb.] gyepekből való visszaszorítása.
+
+– Nem őshonos fafajokból álló erdők termőhelynek megfelelő őshonos fafajokkal történő átalakítása és tartamos erdőhasználattal való megőrzése.
+
+– Az őshonos fafajokból álló erdők biológiai sokféleségének megőrzése tartamos erdőhasználattal.
+
+– Természetvédelmi kezeléseket megalapozó és azokat továbbfejlesztő kutatások végzése.
+
+3. Természetvédelmi kezelési módok, korlátozások és tilalmak
+
+A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatkozó előírásokat – a természetvédelmi kezelési tervek készítésére, készítőjére és tartalmára vonatkozó szabályokról szóló 30/2001. (XII. 28.) KöM rendelet 2. § (2) bekezdés c) pontjában, illetve a rendelet mellékletének 7. pontjában meghatározottak szerint – a 3.1. és a 3.2. fejezet tartalmazza.
+
+A természetvédelmi kezelési tervben nem részletezett, vagy nem szabályozott kezelési előírásokat az igazgatóság kezdeményezésére az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség egyedi államigazgatási eljárásban határozza meg.
+
+3.1. Művelési ághoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1.1. Gyepek kezelése
+
+– Legeltetéssel (szarvasmarhával) csak a gyomos üde gyepek (magas aranyvessző gócok), valamint a cserjésedő szárazabb gyepek kezelhetők. A szárazabb gyepeknél csak rövidebb időszakokra kiterjedő hajtásos legeltetés lehetséges. A számosállat sűrűség a gyomos üde gyepeknél legfeljebb 0,5 számosállat/ha, a cserjésedő száraz gyepek esetén legfeljebb 0,2 számosállat/ha. A lápi társulások, valamint a mocsári kardvirág élőhelyének legeltetése tilos.
+
+– Megfelelő legeltetés hiányában a magas aranyvessző foltjai legalább évi egyszeri (virágzás előtti) időpontban szárzúzással vagy kaszálással kezelendők.
+
+– A kiszáradó lápréteket és mocsárréteket amennyiben talajuk és felszínük lehetővé teszi évente egyszer (változó időpontban és mozaikosan) kaszálni kell. A lekaszált szénát a területről el kell távolítani.
+
+– A mocsári kardvirág élőhelyén csak tisztító kézi kaszálás végezhető a magérés után (augusztus végétől) és mozaikosan, amennyiben ezt az élőhely állapota (pl. kezdődő gyomosodás és cserjésedés) indokolja.
+
+– A cserjésedő gyepekről a cserjéket kézi erővel el kell távolítani, de ez nem érintheti az itt található nyírligeteket és bokorfüzeseket. A cserjeirtás során főként az erdei fenyő egyedeit kell eltávolítani. A cserjétől mentesített területeket lápi társulások esetében ismételt cserjeirtással, esetleg kaszálással, míg szárazabb gyeptípusok és gyomos üde gyepek esetén szárzúzással, kaszálással és legeltetéssel kell kezelni.
+
+– A gyepek trágyázása, szintetikus szerekkel való gyomirtózása és felülvetése tilos.
+
+– A területen nem gyepgazdálkodásból származó anyagot tárolni tilos.
+
+3.1.2. Erdők kezelése
+
+– Akácosokban, erdei fenyvesekben és az erdei fenyő elegyes tölgyesekben hosszú távon a célállapot a termőhelynek megfelelő cseres kocsányos tölgyes kialakítása.
+
+– Magvetés, csemetézés csak a területen őshonos fafajok esetében alkalmazható. Az erdősítésben használt szaporítóanyag (mag, csemete) helyi származási körzetből származzon.
+
+– Magvetés és csemeteültetés során tilos a talajelőkészítés (mélyszántás, gépi pásztahúzás).
+
+– A fiatalabb és középkorú cseres kocsányos tölgyes állományoknál (70 éves korig) az erdőt vegyes korúvá kell tenni kisebb lékek kialakításával és szálalással. Ezeknél az állományoknál a hagyományos vágásos gazdálkodás helyett olyan erdőgazdálkodási módot kell alkalmazni, amely biztosítja a folyamatos erdőborítást.
+
+– Az idősebb megbontott erdőállományoknál hagyásfákat és hagyásfacsoportokat kell kijelölni és véghasználatkor visszahagyni, számuk a vágáskori állomány tőszámának 15%-a. A felújítás végeztével a vágásos gazdálkodás helyett olyan erdőgazdálkodási módot kell alkalmazni, amely biztosítja a folyamatos erdőborítást.
+
+– Az erdőszegélyeket meg kell hagyni.
+
+– A kitermelt faanyagot tilos gyepeken, tisztásokon keresztül szállítani, valamint ezeken az élőhelyeken depózni és rakodni.
+
+– Vízállásos erdőrészekben csak átfagyott talaj esetén végezhető fakitermelés.
+
+– Erdőkben lévő vizes élőhelyek (erdei tavak) környékén egy famagasságnyi körben tilos a fakitermelés.
+
+3.1.3. Kivett területek kezelése
+
+– Földutak szilárd burkolattal való kiépítése, szélesítése tilos.
+
+– Az árkok és vízfolyások menti fűzfasorokat, égereseket irtani tilos.
+
+– Az értékes lápterületek talajvizének a Meleg-víz csatornába szivárgását meg kell akadályozni.
+
+3.2. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak.
+
+3.2.1. Vadgazdálkodás
+
+– A területen csak őshonos vadfajok tarthatók fenn.
+
+– A vadállományt a természetes vadeltartó képességnek megfelelő szinten kell tartani.
+
+– Vadászati berendezések lápterületeken nem létesíthetők.
+
+3.2.2. Közlekedés
+
+– Közlekedni csak a meglévő utakon lehet.
+
+3.2.3. Látogatás
+
+– Látogatás során csak a meglévő utakon lehet közlekedni. A tulajdonosok (kezelők) számára gazdálkodási, kezelési célból a belépést biztosítani kell. A Balaton-felvidéki Nemzeti Park Igazgatóság engedélyével és koordinálásával kutatók is látogathatják a területet.
