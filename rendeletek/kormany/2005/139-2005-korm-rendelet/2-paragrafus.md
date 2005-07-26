@@ -1,0 +1,3 @@
+## 1. § A Kormány a Brüsszelben, 1997. június 27-én kelt, a Közép-európai légiforgalmi szolgálatok magaslégtéri irányító központjában az EUROCONTROL által nyújtott légiforgalmi szolgáltatások körében a szolgálatok és berendezések működéséről szóló Megállapodást, valamint a Közép-európai légiforgalmi szolgálatok magaslégtéri irányító központjában az EUROCONTROL által nyújtott légiforgalmi szolgáltatások körében a szolgálatok és berendezések működéséről szóló Megállapodás 6. cikkelyének alkalmazásáról rendelkező Különmegállapodást (a továbbiakban együtt: CEATS Megállapodások) e rendelettel kihirdeti.
+
+## (A CEATS Megállapodások 2004. augusztus 28-án léptek hatályba.)
