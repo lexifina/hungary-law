@@ -1,0 +1,1 @@
+A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. §-ának (7) bekezdésében, valamint az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
