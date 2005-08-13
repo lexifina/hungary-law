@@ -1,0 +1,3 @@
+32. § (1) Minden negyedévet követő két hónapon belül a végrehajtó hatóság a fejlesztési feladatok lebonyolítása során tapasztalt szabálytalanságokról vagy visszaélésekről, az ezekkel kapcsolatban megtett intézkedésekről, valamint a folyó államigazgatási, bírósági eljárások helyzetéről, illetve amennyiben nem merült fel szabálytalanság vagy visszaélés, ennek tényéről köteles jelentést küldeni a VPOP OLAF Koordinációs Irodán keresztül az Európai Bizottság és az OLAF részére.
+
+(2) A végrehajtó hatóság jelentésének alapját a kedvezményezett szervezetek vezetői által benyújtott negyedéves jelentések adják.

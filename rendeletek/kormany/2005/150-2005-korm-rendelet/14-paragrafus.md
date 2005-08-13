@@ -1,0 +1,1 @@
+## 13. § A végrehajtó hatóság finanszírozási terv alapján – az illetékes szakmai felelőssel való egyeztetés után – költségvetési tervében tervezi meg az EU támogatást és az ahhoz kapcsolódó hazai finanszírozási összegeket. A GKM fejezeti költségvetésében a fejlesztési feladat hazai társfinanszírozási kötelezettségét prioritásként kezeli.

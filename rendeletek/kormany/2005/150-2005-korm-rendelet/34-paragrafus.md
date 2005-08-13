@@ -1,0 +1,1 @@
+## 33. § A pályázatokban jelezni kell, és a támogatási, valamint a megvalósításra irányuló szerződésnek tartalmaznia kell felhatalmazást az azonnali beszedési megbízás benyújtására szabálytalanság, illetve eltérés esetére.
