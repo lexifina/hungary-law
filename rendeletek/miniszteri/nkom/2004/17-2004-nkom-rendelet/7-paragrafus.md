@@ -1,0 +1,9 @@
+7. § (1) Fokozottan védett régészeti lelőhellyé nyilvánítom a Hévíz (Zala megye) belterület 60, 61, 62, 64/1, 64/3, 65/1, 65/2, 65/3, 66, 67/4, 67/5, 67/6, 67/7, 67/11, 67/13, 67/14, 67/15, 67/16, 68, 71, 134/1, 134/2, 300, 301/1, 301/2, továbbá a Hévíz külterület 09/23, 09/24, 09/38, 09/230 helyrajzi számokon nyilvántartott kivett, a 09/34, 09/35, 09/39, 09/40, 09/41, 09/42 helyrajzi számokon nyilvántartott gyep (legelő), valamint a 011 helyrajzi számon nyilvántartott kivett és szántó művelési ágú, természetben a Hévíz-Egregy településrészen található ingatlanokat.
+
+(2) Az (1) bekezdésben megjelölt területen a régészeti védelem célja a hévízi római kori település régészetileg azonosított, illetve feltárt épületeinek védelme, a föld alatti régészeti és építészeti emlékek megőrzése.
+
+(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez, továbbá tereprendezéshez.
+
+(4) Az örökségvédelmi bírság megállapításának szempontjából a védett régészeti lelőhelyet a II. kategóriába sorolom.
+
+(5) Az (1) bekezdésben felsorolt 61, 65/2 és 011 helyrajzi számú ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.

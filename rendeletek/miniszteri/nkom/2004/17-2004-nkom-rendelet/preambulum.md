@@ -1,0 +1,1 @@
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 15. § (1)–(2) bekezdései alapján – a belügyminiszterrel, a környezetvédelmi és vízügyi miniszterrel, valamint a földművelési és vidékfejlesztési miniszterrel egyetértésben – a következőket rendelem el:

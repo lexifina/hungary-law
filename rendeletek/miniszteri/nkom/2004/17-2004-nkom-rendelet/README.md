@@ -1,0 +1,9 @@
+# 17/2004. (VIII. 27.) NKÖM rendelet
+
+egyes régészeti lelőhelyek védetté nyilvánításáról, illetőleg régészeti védőövezet kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-17-20-86
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2005-08-27 | 2004-17-20-86.2 | 17/2004. (VIII. 27.) NKÖM rendelet |

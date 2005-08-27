@@ -1,0 +1,7 @@
+5. § (1) Kiemelten védett régészeti lelőhellyé nyilvánítom a Sajóbábony (Borsod-Abaúj-Zemplén megye) külterület 04 helyrajzi számon nyilvántartott gyep (legelő), továbbá a Sajókeresztúr (Borsod-Abaúj-Zemplén megye) 630 helyrajzi számon nyilvántartott szőlő, gyümölcsös és kert, a 631/1 helyrajzi számon nyilvántartott szőlő, a 631/2, 634, 642 helyrajzi számokon nyilvántartott szőlő és gyümölcsös, a 636 és 658 helyrajzi számokon nyilvántartott kivett, a 637 helyrajzi számon nyilvántartott szőlő és szántó, a 643 helyrajzi számon nyilvántartott szőlő, szántó és gyep, a 644 helyrajzi számon nyilvántartott kert és gyep, a 645 helyrajzi számon nyilvántartott kert és szőlő, a 646, 650, 654, 657 helyrajzi számokon nyilvántartott gyep, a 649 helyrajzi számon nyilvántartott kert, valamint a 656 helyrajzi számon nyilvántartott gyümölcsös és szántó művelési ágú, természetben a Sajóbábony, Méhész-tető területén található ingatlanokat.
+
+(2) Az (1) bekezdésben megjelölt védett régészeti lelőhelyen található a középső őskőkori Bábonyi kultúra kb. 100–120 ezer éves régészeti emlékanyaga. A régészeti védelem célja a föld felszíne alatti rejtőző őskőkori régészeti emlékek megőrzése és az Európa-hírű lelőhely kutathatóságának biztosítása.
+
+(3) A védetté nyilvánított területen a Kulturális Örökségvédelmi Hivatal engedélye szükséges a 16/2001. (X. 18.) NKÖM rendelet 1. számú mellékletében felsorolt tevékenységekhez.
+
+(4) Az örökségvédelmi bírság megállapításának szempontjából a védett régészeti lelőhelyet az I. kategóriába sorolom.
