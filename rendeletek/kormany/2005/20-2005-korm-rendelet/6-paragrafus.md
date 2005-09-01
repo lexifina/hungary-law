@@ -1,0 +1,3 @@
+6. § (1) A támogatás igénybevétele jogszerűségének ellenőrzése érdekében a közigazgatási szerv olyan nyilvántartást vezet, amely a Pftv. 9. § (5) bekezdésének a)–c) pontjában meghatározott adatokon felül tartalmazza az ösztöndíjas foglalkoztatottak naptári negyedévi átlagos statisztikai állományi létszámát, és annak a közigazgatási szerv engedélyezett költségvetési létszámkeretéhez viszonyított arányát.
+
+(2) A támogatás jogszerű igénybevételét a Kormányzati Ellenőrzési Hivatal a Kormányzati Ellenőrzési Hivatalról szóló 70/2004. (IV. 15.) Korm. rendelet 3. §-ában meghatározott hatáskörében eljárva külön ellenőrzi. A jogosulatlanul igénybe vett támogatással az előirányzat-maradvány elszámolás keretében kell elszámolni.
