@@ -1,0 +1,1 @@
+## Bélbe töltött termékek lezárása

@@ -1,0 +1,1 @@
+## 4. § Húsipari létesítmény, munkahely, technológia üzembe helyezése, alkalmazása és korszerűsítése során a hatályos jogszabályok, a szabványok vagy ezzel egyenértékű más műszaki megoldások vonatkozó előírásai szerint kell eljárni.
