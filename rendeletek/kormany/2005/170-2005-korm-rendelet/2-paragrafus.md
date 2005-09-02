@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és az Olasz Köztársaság Kormánya közötti, a tudományos kutatás és a technológiai fejlesztés terén megvalósítandó együttműködésről szóló, 2003. május 21-én, Rómában aláírt Keretmegállapodás kötelező hatályának elismerésére.
