@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme kupronikkelből (75% réz, 25% nikkel) készült, súlya 14 gramm, mérete 28,43 mm × 28,43 mm, széle sima.
+
+(2) A csúcsára állított négyzet formájú emlékérme előlapján a jobb oldalon a postaautó kereke látható, benne a „2005” verési évszám és a „BP.” verdejel olvasható. Az emlékérme előlapján fent két sorban, párhuzamosan az emlékérme oldalával, az „500” értékjelzés és a „FORINT” felirat, lent pedig szintén két sorban, párhuzamosan az emlékérme oldalával, a „MAGYAR” és a „KÖZTÁRSASÁG” felirat olvasható. Az emlékérme előlapjának képét e rendelet 1. melléklete tartalmazza.
+
+(3) A csúcsára állított négyzet formájú emlékérme hátlapjának vonal által határolt szélén az oldalak mentén körben felül a „• 100 ÉVES AZ / ELSŐ MAGYAR •” alul pedig a „POSTAAUTÓ • / 1905–2005” felirat olvasható. Az emlékérme középmezőjében a postaautó ábrázolása látható. A középmező jobb oldali sarkában Bitó Balázs tervezőművész mesterjegye található. Az emlékérme hátlapjának képét e rendelet 2. melléklete tartalmazza.
