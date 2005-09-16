@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Répássy Róbert országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 16.B.24.421/2005. számú megkeresésével érintett ügyben nem függeszti fel.
