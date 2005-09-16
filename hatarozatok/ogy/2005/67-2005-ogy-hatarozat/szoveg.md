@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Kormányának a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 92. ülésszakán elfogadott, az emberi erőforrások fejlesztéséről szóló 195. számú Ajánlásról szóló beszámolóját elfogadja.
