@@ -1,0 +1,1 @@
+## 1. § A Kormány a 8/1988. (II. 17.) MT rendelettel kihirdetett, a Magyar Népköztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között kulturális és tájékoztatási központok kölcsönös felállításáról szóló, Bonnban, 1987. október 7-én aláírt Megállapodás módosításáról szóló, Budapesten, 2005. március 10-én aláírt Jegyzőkönyvet e rendelettel kihirdeti.
