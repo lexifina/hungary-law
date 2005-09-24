@@ -1,0 +1,9 @@
+1. § (1)[^1] Műemlékké nyilvánítom a Békés megye, Körösladány, Wenckheim Béla u. 1. szám alatti, 1876 helyrajzi számú és a Wenckheim Béla u. 3–5. szám alatti, 1877/1 helyrajzi számú ingatlant.
+
+(2) Műemléki környezetnek az 1851, 1852 helyrajzi számú ingatlanokat jelölöm ki.
+
+(3) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket III. kategóriába sorolom.
+
+(4) A védetté nyilvánítás célja a XIX. század közepén emelt, paplakból, gazdasági épületből álló, településképi szempontból meghatározó szerepű együttes építészeti értékeinek védelme.
+
+[^1]: Az 1. § (1) bekezdése a 21/2004. (X. 12.) NKÖM rendelet 36. § (1) bekezdésével megállapított szöveg.
