@@ -1,0 +1,1 @@
+## 1. § Az Oktatási Minisztérium (a továbbiakban: minisztérium) és az 5. § alapján csatlakozó szervezetek a 3. § hatálya alá tartozó beszerzéseik tekintetében e rendelet előírásai szerint kötelesek eljárni.
