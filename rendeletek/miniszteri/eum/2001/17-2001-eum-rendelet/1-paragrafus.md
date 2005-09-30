@@ -1,0 +1,3 @@
+1. § (1) Az Állami Egészségügyi Tartalék (a továbbiakban: tartalék) rendeltetése, hogy elsősorban minősített időszak, illetve katasztrófa esetén jelentkező egészségügyi ellátási többletigények teljesítéséhez, a lakosság, illetve a fegyveres erők és a rendvédelmi szervek állományának ellátásához szükséges egészségügyi fogyóanyagok, gyógyszerek, valamint a szükségkórházak, orvosi segélyhelyek telepítéséhez és felszereléséhez szükséges berendezések, orvostechnikai eszközök és egyéb anyagok felhasználásra alkalmas állapotban rendelkezésre álljanak.
+
+(2) A tartalékkal való gazdálkodás feladatait az Egészségügyi Minisztérium (a továbbiakban: minisztérium) közvetlen felügyelete alatt működő Egészségügyi Készletgazdálkodási Intézet (a továbbiakban: EKI) látja el.
