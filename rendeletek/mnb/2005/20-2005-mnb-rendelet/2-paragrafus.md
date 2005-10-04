@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján a középmezőben a Károli Gáspár Református Egyetem épülete látható. Az épület fölött köriratban a „MAGYAR KÖZTÁRSASÁG” felirat, az épület alatt bal oldalon a „BP.” verdejel, jobb oldalon pedig Kósa István tervezőművész mesterjegye található. Az emlékérme alsó részén középen, vízszintes sorokban az „5000” értékjelzés, a „FORINT” felirat és a „2005” verési évszám található. Az emlékérme pereme mentén gyöngysordíszítés fut körbe. Az emlékérme előlapjának képét e rendelet 1. melléklete tartalmazza.
+
+(3) Az emlékérme hátlapján a középmezőben a Károli Gáspár Református Egyetem címere látható. A címer fölött köriratban a „KÁROLI GÁSPÁR REFORMÁTUS EGYETEM” felirat olvasható, a címer alatt balra az „1855”, jobbra a „2005” évszám, középen Kósa István tervezőművész mesterjegye található. Az emlékérme pereme mentén gyöngysordíszítés fut körbe. Az emlékérme hátlapjának képét e rendelet 2. melléklete tartalmazza.
