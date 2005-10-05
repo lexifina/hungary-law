@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Svéd Királyság Kormánya között a védelmi együttműködésről szóló, Budapesten, 2004. május 28-án aláírt Megállapodást e rendelettel kihirdeti. (A Megállapodás jóváhagyásáról szóló jegyzékváltás 2005. március 9-én megtörtént, és a Megállapodás 2005. március 9-én hatályba lépett.)
