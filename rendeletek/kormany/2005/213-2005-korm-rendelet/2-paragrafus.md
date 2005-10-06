@@ -1,0 +1,1 @@
+## 1. § A Kormány a határokat átlépő vízfolyások és nemzetközi tavak védelmére és használatára vonatkozó, Helsinkiben, 1992. március 17-én aláírt egyezményhez kapcsolódó, 1999. június 17-én aláírt Víz és Egészség Jegyzőkönyvet e rendelettel kihirdeti.
