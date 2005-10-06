@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Szerbia és Montenegró Minisztertanácsa közötti Kormányközi Együttműködési Vegyes Bizottság létrehozásáról szóló Jegyzőkönyvet e rendelettel kihirdeti.
