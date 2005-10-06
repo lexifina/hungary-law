@@ -1,0 +1,1 @@
+3. § A Magyar Köztársaság vonatkozásában az Országgyűlés döntésének megfelelően a Jegyzőkönyv 5. cikke 1. bekezdésének b) pontjával összhangban a Jegyzőkönyv II. részének kötelező alkalmazása az 1. cikkre, a 2. cikkre és a 3. cikkre terjed ki.
