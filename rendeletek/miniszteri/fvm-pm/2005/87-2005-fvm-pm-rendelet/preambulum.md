@@ -1,0 +1,1 @@
+Az állategészségügyről szóló 1995. évi XCI. törvény 45. §-ának 11. pontjában és a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 82. §-a (3) bekezdésének c) pontjában kapott felhatalmazás alapján a következőket rendeljük el:

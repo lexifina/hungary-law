@@ -1,0 +1,5 @@
+4. § (1) Az illetékes vámhatóságnak, amennyiben a rendelet hatálya alá tartozó termékek vonatkozásában a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendeletben, valamint a végrehajtására vonatkozó rendelkezések megállapításáról szóló 2454/93/EGK bizottsági rendeletben meghatározottakat megsértik, a külön jogszabályokban írtak szerint kell eljárnia.
+
+(2) Az illetékes vámhatóságnak – ha a rendeletben meghatározottak megsértése nem az (1) bekezdésben írtak szerint történt – az intézkedés tárgyát képező hús és húsipari termék, valamint tej és tejtermék behozatalát meg kell akadályoznia. Ezen termékek azon harmadik országba, ahonnan érkeztek, azon személy által önként visszavihetők, aki a terméket behozta.
+
+(3) Amennyiben a termékeket nem kívánják visszavinni vagy a visszavitel nem lehetséges, a vámhatóság azokat – kijelölt állategészségügyi határállomáson az illetékes állategészségügyi hatósággal együttműködve, állategészségügyi szolgálattal nem rendelkező határátkelőhelyen önállóan – határozattal elkobozza és megsemmisítésükről intézkedik.
