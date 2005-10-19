@@ -1,0 +1,1 @@
+Az élelmiszerekről szóló 2003. évi LXXXII. törvény 20. §-a (3) bekezdésének e) pontjában, valamint az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében kapott felhatalmazások alapján a következőket rendeljük el:
