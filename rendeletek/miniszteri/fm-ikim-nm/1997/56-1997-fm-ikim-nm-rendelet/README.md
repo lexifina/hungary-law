@@ -1,0 +1,9 @@
+# 56/1997. (VIII. 14.) FM–IKIM–NM együttes rendelet
+
+az élelmiszerek megsemmisítésének feltételeiről és módjáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-56-20-11
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2005-10-24 | 1997-56-20-11.2 | 56/1997. (VIII. 14.) FM–IKIM–NM együttes rendelet |

@@ -1,0 +1,1 @@
+Az élelmiszerekről szóló 1995. évi XC. törvény 27. §-ának (5) bekezdésében kapott felhatalmazás alapján – a környezetvédelmi és területfejlesztési miniszterrel egyetértésben – a következőket rendeljük el:
