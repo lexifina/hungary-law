@@ -1,0 +1,1 @@
+## 3. § A köztisztviselő tevékenysége jellegének, szervezeti egységének vagy munkakörének változása esetén a munkáltatói jogkör gyakorlója a munkaköri megnevezés használatát módosíthatja vagy visszavonhatja.
