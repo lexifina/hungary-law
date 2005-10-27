@@ -1,0 +1,1 @@
+A Szociális Tanács átalakításáról szóló 1060/1999. (V. 28.) Korm. határozat, valamint a jogi segítségnyújtással kapcsolatos kormányzati feladatokról szóló 2203/2003. (IX. 4.) Korm. határozat e határozat közzétételének napján hatályát veszti.
