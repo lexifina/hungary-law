@@ -1,0 +1,1 @@
+15. § Ez a törvény – az 1999. május 10-i 1999/34/EK európai parlamenti és tanácsi irányelvvel módosított – a hibás termékekért való felelősségre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló, 1985. július 25-i 85/374/EGK tanácsi irányelvnek való megfelelést szolgálja.

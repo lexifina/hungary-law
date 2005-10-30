@@ -1,0 +1,1 @@
+11. § A gyártót az e törvényben meghatározott felelőssége az adott termék általa történő forgalomba hozatalától számított tíz évig terheli, kivéve, ha a károsult időközben bírósági eljárást indított a gyártó ellen.
