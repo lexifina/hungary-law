@@ -1,0 +1,1 @@
+## 5. § Az elkobzás, az elhelyezés során ki kell zárni a védett természeti értékkel kapcsolatos kereskedelem lehetőségét, valamint azt, hogy az állati vagy növényi eredetű termék, származék, védett ásványi vagy barlangi képződmény magántulajdonba, illetve természetes személyek vagyonkezelésébe kerüljön.
