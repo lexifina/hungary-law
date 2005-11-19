@@ -1,0 +1,1 @@
+A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (Kjt.) 20. § (2) bekezdésében kapott felhatalmazás alapján – a Kjt. 20. § (3) bekezdése és a 41/A. § rendelkezéseire figyelemmel – a belügyminiszter irányítása alatt álló központi költségvetési szervek közalkalmazottainak vagyonnyilatkozat-tételére az alábbiakat rendelem el:
