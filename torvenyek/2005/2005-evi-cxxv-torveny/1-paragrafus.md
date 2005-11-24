@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Horvát Köztársaság között a szociális biztonságról szóló, Budapesten, 2005. február 8-án aláírt Egyezményt (a továbbiakban: Egyezmény) e törvénnyel kihirdeti.
