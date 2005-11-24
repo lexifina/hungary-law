@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az emberi jogok és az alapvető szabadságok védelméről szóló, Rómában, 1950. november 4-én kelt Egyezményt és az ahhoz tartozó nyolc kiegészítő jegyzőkönyvet e törvénnyel kihirdeti.

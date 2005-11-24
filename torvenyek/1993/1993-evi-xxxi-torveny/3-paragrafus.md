@@ -1,0 +1,9 @@
+3. § A Magyar Köztársaság Kormánya az Országgyűlés felhatalmazása alapján megerősítésről szóló okirat letétbe helyezésekor a következő nyilatkozatot tette:
+
+,,A Magyar Köztársaság Kormánya kijelenti, hogy öt évre, mely időszak hallgatólagosan újabb ötéves időszakkal meghosszabbodik, hacsak a Magyar Köztársaság Kormánya az adott időszak lejártát megelőzően e nyilatkozatát vissza nem vonja
+
+a) az Egyezmény 25. Cikkével, a 4. számú kiegészítő jegyzőkönyv 6. Cikkével és a 7. számú kiegészítő jegyzőkönyv 7. Cikkével összhangban elismeri az Európai Emberi Jogi Bizottság illetékességét arra, hogy természetes személyektől, nem kormányzati szervezetektől vagy egyének csoportjaitól kérelmeket fogadjon el, ha az említettek azt állítják, hogy az Egyezményben és kiegészítő jegyzőkönyveiben biztosított jogok megsértésének áldozatai, amennyiben az állított jogsértés alapjául szolgáló tények az Egyezmény és a kiegészítő jegyzőkönyvek Magyarországra nézve történt hatálybalépését követően következtek be;
+
+b) az Egyezmény 46. Cikkével, a 4. számú kiegészítő jegyzőkönyv 6. Cikkével és a 7. számú kiegészítő jegyzőkönyv 7. Cikkével összhangban teljes jogúan és külön megállapodás nélkül, a viszonosság feltételével kötelezőnek ismeri el az Európai Emberi Jogi Bíróság joghatóságát az Egyezmény és kiegészítő jegyzőkönyvei értelmezésével és alkalmazásával összefüggő minden üggyel kapcsolatban, amennyiben az ezen ügy alapjául szolgáló tények az Egyezménynek és a kiegészítő jegyzőkönyveknek Magyarországra nézve történő hatálybalépését követően következtek be.
+
+A Magyar Köztársaság e nyilatkozatát úgy értelmezi, hogy nem minősülnek az állított jogsértés, illetőleg az ügy alapjául szolgáló ténynek az Egyezményben és kiegészítő jegyzőkönyveiben biztosított jogok Magyarországra nézve történt hatálybalépését megelőzően bekövetkezett megsértésének kárpótlására tett állami intézkedések.''
