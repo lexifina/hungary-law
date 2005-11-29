@@ -1,0 +1,3 @@
+A honvédelmi miniszter előterjesztésére, az Alkotmány 30/A. § (1) bekezdés i) pontja, a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 49. § (2) bekezdésének b) pontja, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 62. § (1) bekezdés a) pontja és 56. § k) pontja alapján – figyelembe véve, hogy szolgálati viszonyának meghosszabbítása lejár – Kalmár Ferenc dandártábornok hivatásos szolgálati viszonyát 2005. november 30-i hatállyal megszüntetem, és őt 2005. december 1-jei hatállyal szolgálati nyugállományba helyezem.
+
+KEH ügyszám: V-5/4631/2005.
