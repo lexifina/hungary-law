@@ -1,0 +1,8 @@
+2. § (1)[^3] A díjfizetési kötelezettséget – ideértve a fellebbezés, továbbá a felügyeleti intézkedést kezdeményező kérelem díját is – az adatszolgáltatást teljesítő Központi Adatfeldolgozó, Nyilvántartó és Választási Hivatal 10023002-01451935-00000000 számú előirányzat-felhasználási keretszámlájára, illetőleg – települési szinten teljesített szolgáltatás esetében – az illetékes polgármesteri hivatal költségvetési elszámolási számlája (a továbbiakban együtt: bankszámla) javára kell teljesíteni.
+
+(2) A díjat az adatszolgáltatás kezdeményezésekor, illetőleg — amennyiben a díj összege a kezdeményezés időpontjában nem állapítható meg — az adatszolgáltató általi díjmegállapítás közlését követő három munkanapon belül köteles megfizetni az igénylő. Az adatszolgáltatás a díj befizetését és annak igazolását követően teljesíthető. Az adatszolgáltatási kérelem elutasítása esetében a már megfizetett díjat az adatszolgáltató az elutasító határozat jogerőre emelkedésétől számított három munkanapon belül köteles az igénylőnek visszautalni.
+
+(3)[^4] A díj az adatszolgáltatást teljesítő Központi Adatfeldolgozó, Nyilvántartó és Választási Hivatal, illetőleg az illetékes polgármesteri hivatal bevétele. Az illetékes polgármesteri hivatal bankszámlaszámát az általa kibocsátott számla tartalmazza. A díjak nyilvántartására és elszámolására a költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló jogszabály előírásait kell alkalmazni.
+
+[^3]: A 2. § (1) bekezdése az 56/2005. (XI. 24.) BM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (3) bekezdése az 56/2005. (XI. 24.) BM rendelet 2. §-ával megállapított szöveg.
