@@ -1,0 +1,1 @@
+A határőrizetről és a Határőrségről szóló 1997. évi XXXII. törvény 83. §-a (2) bekezdésének a) pontjában, továbbá a halászatról és a horgászatról szóló 1997. évi XLI. törvény 56. §-ának (3) bekezdésében kapott felhatalmazás alapján a közlekedési, hírközlési és vízügyi miniszterrel egyetértésben a következőket rendeljük el:
