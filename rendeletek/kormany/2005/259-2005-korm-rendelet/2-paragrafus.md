@@ -1,0 +1,1 @@
+## 1. § A Kormány felhatalmazza a külügyminisztert, hogy a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság Bukaresti Kulturális Központja és a Budapesti Román Kulturális Intézet működéséről szóló Egyezmény (a továbbiakban: szerződés) kötelező hatályát a szerződés 14. Cikke 1. pontjában meghatározottak szerint a Kormány nevében ismerje el.
