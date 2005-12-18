@@ -1,0 +1,1 @@
+## 6. § Az RFT döntési hatáskörébe utalt támogatással önkormányzatok, önkormányzati társulások, kistérségi önkormányzati társulások, kistérségi területfejlesztési tanácsok, önkormányzati többségi tulajdonban lévő közszolgáltatást végző gazdasági társaságok, költségvetési szervek, köztestületek és civil szervezetek projektjei támogathatóak.

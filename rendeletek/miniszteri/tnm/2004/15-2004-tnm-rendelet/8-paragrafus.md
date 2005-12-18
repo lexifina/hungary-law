@@ -1,0 +1,1 @@
+## 7. § Az előirányzat terhére kell elszámolni az RFT-nek az előirányzat könyvelésével, ellenőrzésével, a pályázatok meghirdetésével, a támogatási szerződések megkötésével kapcsolatos költségeit. A költségek mértékét az 5. § (1) bekezdésben meghatározott szerződés rögzíti.
