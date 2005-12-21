@@ -1,0 +1,354 @@
+# A Kormány 288/2005. (XII. 21.) Korm. rendelete
+
+Magyar Közlöny 2005. évi 165. szám, 2005. december 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/07ce045628dcb16488cc02d2e6bb546d3bb12e0b/dokumentumok/0ef1f2dfe821877107c2507e7eaec47ecd085396/letoltes)
+
+---
+
+A Kormány
+288/2005. (XII. 21.) Korm.
+rendelete
+a Magyar Köztársaság Kormánya és Mongólia
+Kormánya közötti gazdasági együttműködésről szóló
+megállapodás kihirdetéséről
+1. §
+A Kormány e rendelettel felhatalmazást ad a Magyar
+Köztársaság Kormánya és Mongólia Kormánya közötti
+gazdasági együttműködésről szóló megállapodás (a továb-
+biakban: megállapodás) kötelező hatályának elismerésére.
+2. §
+A Kormány a megállapodást e rendelettel kihirdeti.
+3. §
+A megállapodás hivatalos angol nyelvű szövege és an-
+nak hiteles magyar nyelvű fordítása a következő:
+
+„Agreement
+between the Government of the Republic of Hungary
+and the Government of Mongolia
+on Economic Co-operation
+The Government of the Republic of Hungary and the
+Government of Mongolia (hereinafter referred to as
+„Contracting Parties”),
+desiring to enhance the economic co-operation based on
+the long-standing bilateral relations between Contracting
+Parties,
+wishing to continue and reinforce their existing
+traditional economic co-operation, with a view to
+developing and intensifying their economic, industrial,
+technical and technological co-operation on long-term and
+mutual beneficial basis,
+convinced of the necessity of deepening the bilateral
+legal framework establishing favourable conditions and
+suitable basis for further co-operation,
+pursuant to the laws and regulations in their respective
+Countries and in full conformity with their international
+obligations,
+have agreed as follows:
+Article 1
+The Contracting Parties shall promote, within the
+framework of their respective laws and regulations, the
+expansion and diversification of mutually advantageous
+economic co-operation in all fields relevant to economic
+development.
+Article 2
+The Contracting Parties, considering the current state
+and perspective of economic co-operation, shall promote
+favourable conditions for long-term undertakings, inter
+alia, in the following areas:
+a) Water management, natural resources and
+environmental issues,
+b) Agriculture and food processing industry,
+c) Healthcare, medical technology, medical and
+pharmaceutical industry,
+d) Information technology and communications,
+e) Tourism,
+f) Transportation,
+g) Vehicle industry and auto components,
+h) Electronic and electro-technical industry,
+i) Chemical and petrochemical industry,
+j) Exploration, production, preparation, treatment and
+further marketing of mineral raw materials and mining
+products,
+k) Human resource development,
+l) Small and medium-sized enterprises,
+m) Co-operation with the manufacturers producing the
+equipments for on energy production, transferring and
+distribution and preparation of specialists in the energy
+sector,
+n) Livestock medicine preparations and bio
+production.
+Article 3
+The Contracting Parties shall endeavour to broaden and
+intensify their co-operation through appropriate means,
+such as:
+a) Promoting the links and strengthening the
+co-operation between the economic policy-makers,
+government institutions, professional organizations,
+business federations, chambers of commerce and industry,
+regional and local entities, encouraging the exchange of
+economic information of mutual interest, as well as the
+visits of their representatives and other economic and
+technical delegations,
+b) Exchange of information on development priorities
+and facilitating the participation of business operators in
+development projects,
+c) Encouraging establishment of new contacts and
+broadening the existing ones between the business circles
+of the two countries, through visits, meetings and other
+interactions between individuals and enterprises,
+d) Exchange of business information, encouraging the
+participation in fairs and exhibitions, organizing business
+events, seminars, symposia and conferences,
+e) Promotion of the participation of small- and
+medium-size private sector enterprises in the bilateral
+economic co-operation undertakings,
+f) Encouragement of co-operation in consultancy,
+marketing, advisory and expert services in the areas of
+mutual interest,
+g) Promotion of co-operation between the financial
+institutions and banking sectors,
+h) Promotion of investment co-operation, the
+establishment of joint ventures and company
+representation offices,
+i) Promotion of co-operation between corporations of
+the two Countries in the inter-regional as well as in
+international cooperative projects,
+j) Exchange of information in order to develop the
+professional education and training of labour force.
+Article 4
+(1) Upon conclusion of this Agreement a „Joint
+Commission” shall be established that shall be convened
+upon request of either Contracting Party regularly and
+alternately in Hungary and Mongolia.
+
+(2) The duties of the Joint Commission shall comprise,
+in particular, the following:
+a) Discussion of the development of bilateral economic
+co-operations,
+b) Identifying new possibilities for the further
+development of future economic co-operation,
+c) Drawing up suggestions for the improvement of
+terms for the economic co-operation between enterprises
+of both countries,
+d) Making proposals for the application of this
+Agreement.
+Article 5
+Co-operation pursuant to this Agreement shall be
+carried out in accordance with the national laws and
+regulations of the Contracting Parties and the observance
+of generally recognized norms and principles of
+international law and without prejudice to the fulfillment
+of the obligation by the Contracting Parties under other
+bilateral, regional or multilateral agreements in which they
+are party to.
+Consequently the provisions of this Agreement may not
+be invoked or interpreted in such a way as to invalidate or
+otherwise affect those obligations, including the
+obligations of the Republic of Hungary imposed by the
+Treaties on which the European Union is founded as
+amended or supplemented.
+Article 6
+This Agreement may be amended or modified by mutual
+consent of the Contracting Parties in writing. The
+amendment or modification shall comply with the existing
+legal procedures established by the legislation of the
+Contracting Parties.
+Article 7
+Any disputes arising from the interpretation and/or
+application of this Agreement shall be settled amicably
+through consultations or negotiations between the
+Contracting Parties within the framework of the Joint
+Commission.
+Article 8
+(1) This Agreement shall enter into force on the date of
+receipt of the last notification, by which the Contracting
+Parties inform each other through diplomatic channels,
+that constitutional requirements in the respective countries
+for giving effect to this Agreement have been fulfilled.
+(2) This Agreement shall remain in force for a period of
+5 (five) years and shall automatically be extended for
+subsequent periods of 5 (five) years thereafter. Either Party
+may at any time notify in writing of its intention to
+terminate this Agreement. This Agreement shall cease to
+be in force after 90 (ninety) days from the date of receipt of
+this denunciation note.
+(3) The termination of this Agreement shall not affect
+the validity and duration of arrangements and/or
+programmes made under this Agreement until its
+completion.
+In witness whereof, the undersigned, being duly
+authorized thereto by their respective Governments, have
+signed this Agreement.
+Signed in Ulanbator, on 07. december 2005, in (two)
+originals in English language, both texts being equally
+authentic.
+For the government of the For the government of
+Republic of Hungary Mongolia
+Megállapodás
+a Magyar Köztársaság Kormánya és Mongólia
+Kormánya között a gazdasági együttműködésről
+A Magyar Köztársaság Kormánya és Mongólia Kormá-
+nya (a továbbiakban: szerződő felek),
+azzal az óhajjal, hogy fokozzák a szerződő felek között
+régóta fennálló kétoldalú együttműködésen alapuló gazda-
+sági együttműködést,
+azzal a kívánsággal, hogy gazdasági, ipari, műszaki és
+technológiai együttműködésük hosszú távú és kölcsönö-
+sen előnyt jelentő alapon történő fejlesztése és élénkítése
+érdekében folytassák és megerősítsék a meglévő hagyo-
+mányos gazdasági együttműködést,
+meggyőződve a további együttműködés kedvező felté-
+teleit és megfelelő alapját létrehozó kétoldalú jogi keret el-
+mélyítésének szükségességéről,
+országaik törvényei és rendelkezései ALAPJÁN, nem-
+zetközi kötelezettségeikkel maradéktalanul összhangban,
+a következőkben állapodtak meg:
+1. Cikk
+A szerződő felek saját törvényeiknek és rendelkezéseik-
+nek megfelelően támogatják a kölcsönös előnyöket jelentő
+gazdasági együttműködés bővítését és változatossá tételét
+mindazokon a területeken, melyek a gazdasági fejlődésben
+szerepet játszanak.
+
+2. Cikk
+Gazdasági együttműködésük jelenlegi helyzetét és kilá-
+tásait szemügyre véve a szerződő felek elősegítik a hosszú
+távú vállalkozások számára kedvező feltételek kialakítását
+többek között a következő területeken:
+a) vízgazdálkodás, természeti erőforrások és környe-
+zetvédelmi kérdések,
+b) mezőgazdaság és élelmiszer-feldolgozó ipar,
+c) egészségügy, orvosi technológiák, orvosi és gyógy-
+szeripar,
+d) információs technológia és hírközlés,
+e) idegenforgalom,
+f) közlekedés,
+g) járműipar és autóalkatrészek,
+h) elektronikai és elektrotechnikai ipar,
+i) vegyipar és petrolkémiai ipar,
+j) ásványi nyersanyagok és bányászati termékek feltá-
+rása, kitermelése, előkészítése, kezelése és további forga-
+lomba hozatala,
+k) humán erőforrás fejlesztés,
+l) kis- és középvállalkozások,
+m) együttműködés energiatermeléshez, szállításhoz és
+elosztáshoz felszereléseket gyártókkal és szakértők képzé-
+se az energia szektorban,
+n) állategészségügyi gyógyszergyártás és biotermelés.
+3. Cikk
+A szerződő felek törekednek arra, hogy együttműködé-
+süket kiterjesszék és élénkítsék a megfelelő eszközökkel,
+úgymint:
+a) a gazdaságpolitikusok, kormányzati intézmények,
+szakmai szervezetek, üzleti szövetségek, kereskedelmi és
+ipari kamarák, regionális és helyi szereplők közötti kap-
+csolatok előmozdítása és erősítése, a kölcsönös érdeklő-
+désre számot tartó gazdasági információk cseréjének, va-
+lamint képviselőik és egyéb gazdasági és szakmai delegá-
+ciók látogatásainak ösztönzése;
+b) a fejlesztési prioritásokra vonatkozó információk
+cseréje, és az üzleti szereplők fejlesztési projektekben való
+részvételének elősegítése;
+c) új kapcsolatok kialakításának ösztönzése a két or-
+szág üzleti körei között, és a meglévők bővítése látogatá-
+sok, találkozók és a magánszemélyek és vállalkozások kö-
+zötti egyéb interakciók révén;
+d) üzleti információcsere, a vásárokon és kiállításokon
+való részvétel ösztönzése, üzleti rendezvények, szeminá-
+riumok, szimpóziumok és konferenciák szervezése;
+e) a magánszektorba tartozó kis- és középvállalkozá-
+sok kétoldalú gazdasági együttműködésekben való részvé-
+telének támogatása;
+f) a konzultációs, marketing, tanácsadó és szakértői
+szolgáltatásokban való együttműködés ösztönzése a köl-
+csönös érdeklődésre számot tartó területeken;
+g) a pénzügyi intézmények közötti és a bankszektorbeli
+együttműködés támogatása;
+h) a befektetési együttműködés, a közös vállalkozások
+és a vállalati képviseleti irodák létrehozásának a támoga-
+tása;
+i) a két ország vállalatainak régiók közötti, valamint
+nemzetközi együttműködési projektekben való együttmű-
+ködésének támogatása;
+j) információcsere a szakmai képzés fejlesztése és a
+munkaerő képzése céljából.
+4. Cikk
+(1) E megállapodás megkötését követően létrejön egy
+„Vegyes Bizottság”, mely a felek bármelyikének kérésére
+ül össze rendszeresen, váltakozva Magyarországon és
+Mongóliában.
+(2) A Vegyes Bizottság feladatai közé tartoznak külö-
+nösen a következők:
+a) a kétoldalú gazdasági együttműködés fejlesztésének
+a megvitatása,
+b) a jövőbeli gazdasági együttműködés továbbfejlesz-
+tése új lehetőségeinek meghatározása,
+c) a két ország vállalkozásai közötti gazdasági együtt-
+működés feltételei javítására vonatkozó javaslatok meg-
+fogalmazása,
+d) javaslattétel e megállapodás alkalmazására vonat-
+kozóan.
+5. Cikk
+Az e megállapodás szerinti együttműködés a szerződő
+felek nemzeti törvényei és rendelkezései szerint, a nemzet-
+közi jog általánosan elfogadott normáinak és elveinek be-
+tartása mellett, valamint a szerződő felek kétoldalú, regio-
+nális vagy többoldalú megállapodásokban vállalt kötele-
+zettségei teljesítésének sérelme nélkül folyik.
+Következésképpen e megállapodás rendelkezéseire
+nem lehet úgy hivatkozni, illetve azok nem értelmezhetők
+oly módon, mely ezeket a kötelezettségeket érvénytelení-
+tené, vagy egyéb módon befolyásolná, beleértve a Magyar
+Köztársaság azon kötelezettségeit is, melyek az Európai
+Unió alapító szerződéseiből, illetve azok módosításaiból
+és kiegészítéseiből erednek.
+
+6. Cikk
+Ez a megállapodás a szerződő felek kölcsönös meg-
+egyezésével, írásban módosítható. A módosításokat a
+szerződő felek törvényhozása által létrehozott meglévő
+jogi eljárásoknak megfelelően kell végrehajtani.
+7. Cikk
+A megállapodás értelmezéséből és/vagy alkalmazásá-
+ból eredő jogvitákat a felek békés úton, egyeztetéssel vagy
+tárgyalással rendezik, a Vegyes Bizottság keretein belül.
+8. Cikk
+(1) Ez a megállapodás azon a napon lép hatályba, ami-
+kor a felek mindegyike kézhez vette az értesítést, melyben
+a szerződő felek diplomáciai csatornákon keresztül tájé-
+koztatják egymást az országaikban alkalmazandó, a meg-
+állapodás hatályba léptetéséhez szükséges alkotmányos
+követelmények teljesüléséről.
+(2) Ez a megállapodás 5 (öt) évig marad érvényben, és
+időbeli hatálya azt követően automatikusan folyamatosan
+további 5 (öt) évre meghosszabbodik. A megállapodás
+megszüntetésére vonatkozó szándékát a felek bármelyike
+bármely időpontban közölheti írásban. A megállapodás
+hatálya 90 (kilencven) nappal a felmondásról szóló értesí-
+tés kézhezvételének napját követően szűnik meg.
+(3) A megállapodás megszüntetése nem érinti az e meg-
+állapodás keretében született, még nem teljesített megálla-
+podások és/vagy programok érvényességét és időtartamát.
+A fentiek hiteléül az alulírottak, akik kormányaik erre
+vonatkozó szabályszerű meghatalmazását bírják, a megál-
+lapodást aláírták.
+Kelt Ulanbator, 2005. december 7., (két) angol nyelvű
+eredeti példányban, melyek mindegyikének szövege
+egyenlő mértékben hiteles.
+A Magyar Köztársaság Mongólia Kormánya
+Kormánya nevében nevében”
+4. §
+(1) E rendelet – a (2) bekezdésben meghatározott kivé-
+tellel – a kihirdetését követő napon lép hatályba.
+(2) E rendelet 2–3. §-a a megállapodás 8. Cikkének
+(1) bekezdésében meghatározott időpontban lép hatályba.
+(3) A megállapodás, illetve a rendelet 2–3. §-a hatályba-
+lépésének naptári napját a külügyminiszter annak ismertté
+válását követően a Magyar Közlönyben haladéktalanul
+közzétett egyedi határozatával állapítja meg.
+(4) E rendelet végrehajtásához szükséges intézkedések-
+ről a gazdasági és közlekedési miniszter gondoskodik.
+Gyurcsány Ferenc s. k.,
+miniszterelnök
+
+A Kormány tagjainak
+rendeletei
