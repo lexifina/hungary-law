@@ -1,0 +1,1 @@
+A Kormány az áruk ideiglenes behozataláról, Isztambulban, 1990. június 26-án kelt Egyezmény és mellékletei kihirdetéséről szóló 2005. évi CLXVIII. törvény 3. § (2) bekezdésében adott felhatalmazás alapján a következő rendeletet alkotja:
