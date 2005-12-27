@@ -1,0 +1,1 @@
+Az áruk ideiglenes behozataláról, Isztambulban, 1990. június 26-án kelt Egyezmény és mellékletei (a továbbiakban: Isztambuli Egyezmény) kihirdetéséről szóló 2005. évi CLXVIII. törvény 3. §-ának (3) bekezdésében kapott felhatalmazás alapján – a gazdasági és közlekedési miniszter egyetértésével – a következőket rendelem el:
