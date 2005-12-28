@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa között, az EBESZ 1999. évi Bécsi Dokumentumát kiegészítő bizalom- és biztonságerősítő intézkedésekről és a katonai kapcsolatok fejlesztéséről szóló, Budapesten, 2005. március 24-én aláírt Megállapodást e rendelettel kihirdeti.
