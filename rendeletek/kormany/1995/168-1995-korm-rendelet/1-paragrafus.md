@@ -1,0 +1,8 @@
+## 1. § A belföldi illetőségű (Szja tv. 3. § 2. pont) magánszemély a külszolgálat (Szja tv. 3. § 13. pont) címén kapott bevételével szemben — ha az nem tartozik a Szja tv. 83. § (4) bekezdésének hatálya alá — a Szja tv. 27. § c) pontjában említett igazolás nélkül elismert költségként az ott meghatározott bevételi hányadnak azon részét vonhatja le, amely nem haladja meg a külszolgálat tényleges időtartamára számított
+
+a)[^1] napi 15 eurónak megfelelő forintösszeget, ha a külszolgálat tényleges időtartama egybefüggően nem éri el a 90 napot;
+
+b)[^2] ha a külszolgálat tényleges időtartama egybefüggően több mint 90 nap, az első 90 napra napi 15 eurónak megfelelő forintösszeget, a 91. naptól kezdődően napi 15 eurónak megfelelő és a 2. §-ban meghatározott személyek után további napi és személyenkénti 3 eurónak megfelelő forintösszeget.
+
+[^1]: Az 1. § a) pontja a 279/2005. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést 2006. január 1-jétől kell alkalmazni, azzal, hogy a 2006. január 1-jét megelőzően megkezdődött külföldi kiküldetés esetén az új szabályozás szerinti igazolás nélkül elszámolható mértékeket a kiküldetés 2005. december 31-ét követő napjaira alkalmazni kell.
+[^2]: Az 1. § b) pontja a 279/2005. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést 2006. január 1-jétől kell alkalmazni, azzal, hogy a 2006. január 1-jét megelőzően megkezdődött külföldi kiküldetés esetén az új szabályozás szerinti igazolás nélkül elszámolható mértékeket a kiküldetés 2005. december 31-ét követő napjaira alkalmazni kell.
