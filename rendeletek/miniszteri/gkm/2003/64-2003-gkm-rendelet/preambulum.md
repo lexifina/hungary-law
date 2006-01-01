@@ -1,0 +1,1 @@
+A gazdasági és közlekedési miniszter feladatairól és hatásköréről szóló 171/2002. (VIII. 9.) Korm. rendelet 6. §-a (2) bekezdésének b) pontjában és a 11. §-ának b) pontjában foglalt felhatalmazás alapján a következőket rendelem el:
