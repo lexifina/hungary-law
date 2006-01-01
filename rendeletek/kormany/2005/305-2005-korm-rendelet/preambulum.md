@@ -1,0 +1,1 @@
+A Kormány az elektronikus információszabadságról szóló 2005. évi XC. törvény (a továbbiakban: Eitv.) 22. §-a (1) bekezdésének a) és b) pontjában foglalt felhatalmazás alapján a következőket rendeli el:

@@ -1,0 +1,9 @@
+# 305/2005. (XII. 25.) Korm. rendelet
+
+a közérdekű adatok elektronikus közzétételére, az egységes közadatkereső rendszerre, valamint a központi jegyzék adattartalmára, az adatintegrációra vonatkozó részletes szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-305-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2006-01-01 | 2005-305-20-22.1 | 305/2005. (XII. 25.) Korm. rendelet |
