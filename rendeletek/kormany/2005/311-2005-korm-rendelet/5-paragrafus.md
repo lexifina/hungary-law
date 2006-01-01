@@ -1,0 +1,1 @@
+## 4. § A környezeti információval rendelkező szerv a környezeti információt lehetőség szerint elektronikus adatbázisokban tartja nyilván, továbbá a technikai feltételek rendelkezésre állása esetén a környezeti információt az internetes honlapján is megjeleníti és a megjelenített adatokat szükség szerint frissíti.
