@@ -1,0 +1,1 @@
+Az elektronikus információszabadságról szóló 2005. évi XC. törvény 22. §-ának (2) bekezdése c) pontjában foglalt felhatalmazás alapján – figyelemmel a 6. §-ának (4) bekezdésére – a következőket rendelem el:
