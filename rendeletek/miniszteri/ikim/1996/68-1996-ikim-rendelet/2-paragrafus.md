@@ -1,0 +1,5 @@
+## 1. § Az egyes villamossági termékek ellenőrzéséről és minősítéséről szóló 8/1984. (VII. 1.) IpM rendelet (a továbbiakban: R.) 1. §-ának (1)–(2) bekezdése helyébe a következő rendelkezések lépnek:
+
+## ,,(1) A rendelet hatálya kiterjed a villamossági terméket gyártó, forgalmazó, illetőleg alkalmazó, a Magyar Köztársaság Polgári Törvénykönyvének 685. §-a c) pontjában meghatározott gazdálkodó szervezetekre.
+
+## (2) A rendelet 1. számú mellékletében felsorolt villamos berendezéseket, készülékeket, alkatrészeket és szerelési anyagokat (a továbbiakban: villamossági termék) belföldi forgalomba hozatal, illetőleg belföldi alkalmazás céljára belföldön gyártani vagy külföldről behozni csak az élet-, egészség-, testi épség, üzem- és vagyonbiztonsági és villamossági szabványossági szempontból történő típusvizsgálat és tanúsítás alapján lehet. A villamossági termék – a rendelet 11. § (3) bekezdésében foglalt kivétellel – megfelelő vizsgálati eredményt igazoló Megfelelőségi Tanúsítvány nélkül nem hozható forgalomba, és nem alkalmazható.''

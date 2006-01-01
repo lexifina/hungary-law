@@ -1,0 +1,1 @@
+19. § A rendelet hatálybalépésével egyidejűleg az R. 6. §-ának (3) bekezdése, 10. §-a, 22. §-a, 23. §-ának (1) bekezdése, 1. számú mellékletének 2. d) pontja és 1. számú mellékletének * jelölése és a *-hoz tartozó megjegyzés hatályát veszti.
