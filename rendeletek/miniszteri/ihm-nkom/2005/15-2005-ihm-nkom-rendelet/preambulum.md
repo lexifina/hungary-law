@@ -1,0 +1,1 @@
+Az informatikai és hírközlési miniszter és a nemzeti kulturális örökség minisztere a Nemzeti Audiovizuális Archívumról szóló 2004. évi CXXXVII. törvény (a továbbiakban: NAVA tv.) 18. §-ának a) pontjában foglalt felhatalmazás alapján a következőket rendeli el:
