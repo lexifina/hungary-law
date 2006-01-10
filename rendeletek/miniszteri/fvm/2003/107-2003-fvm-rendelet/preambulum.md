@@ -1,0 +1,1 @@
+A növényfajták állami elismeréséről, valamint a vetőmagvak és vegetatív szaporítóanyagok előállításáról és forgalmazásáról szóló 1996. évi CXXXI. törvény 29. §-a (5) bekezdésének h) pontjában, valamint az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében foglalt felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
