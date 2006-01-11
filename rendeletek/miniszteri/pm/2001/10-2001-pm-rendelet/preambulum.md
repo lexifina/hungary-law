@@ -1,0 +1,1 @@
+A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Ltv.) 87. §-ának (1) bekezdésében kapott felhatalmazás alapján – az érintett érdekképviseleti szervekkel egyetértésben – a következőket rendelem el:
