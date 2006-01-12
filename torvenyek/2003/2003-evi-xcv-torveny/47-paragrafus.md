@@ -1,0 +1,1 @@
+47. § A Magyar Köztársaság 2002. évi költségvetése végrehajtásának ellenőrzéséről szóló – Állami Számvevőszék által készített – jelentésben szereplő javaslatok végrehajtására a Kormány és a fejezetek felügyeletét ellátó szervek vezetői – határidők, felelősök megjelölésével – készítsenek feladattervet.

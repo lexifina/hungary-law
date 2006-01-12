@@ -1,0 +1,5 @@
+## A társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló 1992. évi LXXXIV. törvény módosítása
+
+32. § A társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló – módosított – 1992. évi LXXXIV. törvény 5. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+,,(2) Az Egészségbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával összefüggésben közvetlenül felmerült kamatkiadásra, bankköltségre, postaköltségre, a társadalombiztosítási kifizetőhely fenntartóját megillető, a társadalombiztosítási ellátások kifizetőhely által folyósított összegének 1%-ával azonos költségtérítésre, a jóváhagyott működési kiadások külső forrásból nem biztosított összegének fedezetére, az APEH járulékbeszedési feladatainak ösztönzésére, továbbá az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeinek és törvényben meghatározott egyéb kiadásnak a fedezetére szolgál. Az Egészségbiztosítási Alap működési költségvetését a 10. § (2) bekezdése szerinti kiadások terhelik.''

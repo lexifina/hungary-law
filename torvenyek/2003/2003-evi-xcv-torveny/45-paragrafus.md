@@ -1,0 +1,3 @@
+45. § (1) A költségvetés az állami kezesség beváltása során a MILLENÁRIS Programiroda Kulturális Kht. helyett a KONZUMBANK Rt. részére tőke- és kamattartozás címén 2003. évben 1 667 835 543 forintot fizetett ki. Az Országgyűlés elengedi a MILLENÁRIS Programiroda Kulturális Kht.-nak az 1 667 835 543 forint megfizetését.
+
+(2) Az Országgyűlés 2003. december 31-i hatállyal elengedi a Várpalota és Régiója Környezetvédelmi Rehabilitációs Programra létrehozott céltársulásnak a Programban meghatározott beruházáshoz kapcsolódó 2003. december 31-én fennálló 1 008 071 612 forint összegű konzulensi díj visszafizetését.

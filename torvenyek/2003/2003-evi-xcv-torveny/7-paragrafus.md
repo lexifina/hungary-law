@@ -1,0 +1,3 @@
+7. § (1) Az Országgyűlés jóváhagyja, hogy a pénzügyminiszter a Magyar Köztársaság 2000. évi költségvetésének végrehajtásáról szóló 2001. évi LXXV. törvény 22. §-ában kapott felhatalmazása alapján 2002. január 1-jei hatállyal a Magyar Államvasutak Részvénytársaság törvényben megjelölt hiteleit a központi költségvetés adósságának terhére átvállalta 60 408,1 millió forint összegben.
+
+(2) Az Országgyűlés jóváhagyja, hogy a pénzügyminiszter a Magyar Köztársaság 2000. évi költségvetésének végrehajtásáról szóló 2001. évi LXXV. törvény 23. §-ában kapott felhatalmazása alapján 2002. január 1-jei hatállyal a Győr-Sopron-Ebenfurt Vasút Részvénytársaság törvényben megjelölt hiteleit a központi költségvetés adósságának terhére átvállalta 911,9 millió forint összegben.

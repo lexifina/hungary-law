@@ -1,0 +1,1 @@
+10. § Az Országgyűlés jóváhagyja az Állami Privatizációs és Vagyonkezelő Részvénytársaság privatizációval és vagyonkezeléssel összefüggő, valamint tartalékfeltöltési előirányzatainak teljesítését a 14. számú melléklet szerint.
