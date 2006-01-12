@@ -1,0 +1,3 @@
+8. § A Kat. a következő 33/A. §-sal egészül ki:
+
+33/A. § „A hatóság a hozzá benyújtott biztonsági jelentés vagy biztonsági elemzés vizsgálata alapján állapítja meg a dominóhatásban érintett veszélyes ipari üzemek körét. A hatóság a dominóhatásban érintett üzemek irányába intézkedik a veszélyes ipari üzemek veszélyes anyagokkal kapcsolatos súlyos baleset-megelőzési célkitűzéseinek, biztonsági irányítási rendszerének, belső védelmi terveinek összehangolására a biztonsági jelentés vagy biztonsági elemzés soron kívüli felülvizsgálatának kezdeményezésével. A hatóság az intézkedéseiről tájékoztatja a külső védelmi tervek és a lakossági tájékoztatók elkészítésében érintetteket.”
