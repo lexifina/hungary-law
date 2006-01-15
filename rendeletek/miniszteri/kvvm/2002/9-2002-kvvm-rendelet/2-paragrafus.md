@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya a Környezetvédelmi és Vízügyi Minisztérium (a továbbiakban: Minisztérium) hivatali szervezetére, valamint a Minisztérium irányítása, illetve a környezetvédelmi és vízügyi miniszter közvetlen felügyelete alatt álló szervekre terjed ki.
