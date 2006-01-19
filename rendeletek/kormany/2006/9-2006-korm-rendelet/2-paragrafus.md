@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az Európai Közösség és annak tagállamai, valamint Izrael Állam között a polgári globális navigációs műholdrendszerekről (GNSS) szóló Együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
