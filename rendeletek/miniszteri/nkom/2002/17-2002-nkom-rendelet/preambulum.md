@@ -1,0 +1,1 @@
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Tv.) 93. §-a (2) bekezdésének j) pontjában, valamint az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (3) bekezdésében kapott felhatalmazás alapján – a 8. § vonatkozásában a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
