@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében, valamint a légiközlekedésről szóló 1995. évi XCVII. törvény 3. §-ának (3) bekezdésében kapott felhatalmazás alapján, figyelemmel e törvény 3. §-ának (2) bekezdésére – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
