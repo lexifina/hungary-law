@@ -1,0 +1,3 @@
+1. § (1) Az e rendeletben meghatározottak szerint az agrárterületre képző közép- és felsőfokú oktatási intézmények keretében működő mezőgazdasági tangazdaságok, élelmiszer-feldolgozó tanüzemek és erdőgazdasági tanüzemek (a továbbiakban: tangazdaságok, tanüzemek) „Minősített tangazdaság (tanüzem)” címhasználatra pályázhatnak és ehhez kapcsolódóan támogatásban részesülhetnek az e rendeletben, valamint a pályázati kiírásban szabályozott minősítési szempontok és eljárás alapján.
+
+(2) A címhasználati jogosultság és támogatás célja az erkölcsi megbecsülés és az anyagi támogatás eszközével is elősegíteni, hogy a tangazdaságok, tanüzemek a legkorszerűbb gazdálkodási módszereket bemutatva a gyakorlatok során felkészítsék hallgatóikat a hatékony gazdálkodásra.
