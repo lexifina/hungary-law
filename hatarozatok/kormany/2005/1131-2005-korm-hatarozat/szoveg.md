@@ -1,0 +1,3 @@
+A Kormány az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 12. §-ának (3) bekezdése, valamint az Alapító Okirat 3.1. és 3.3. B) pontja alapján a pénzügyminiszter javaslatára az 1058/2005. (VI. 1.) Korm. határozattal kinevezett ÁPV Rt. Igazgatóság elnöke és tagjai 2005. december 31-ig szóló megbízatását 2006. december 31-ig meghosszabbítja.[^2]
+
+[^2]: Az 1131/2005. (XII. 23.) Korm. határozatot az 1014/2006. (II. 8.) Korm. határozat 1. pontja az ÁPV Rt. Igazgatóságának tagjai megbízatásának meghosszabbítása tekintetében hatályában fenntartja, 2. pontja alapján az Igazgatóság elnökévé 2006. február 8-tól kezdődően az igazgatósági tagokkal megegyező időtartamra dr. Mészáros Tamást nevezi ki.
