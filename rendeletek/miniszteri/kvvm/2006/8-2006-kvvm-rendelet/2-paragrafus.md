@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Liget-patak menti Természetvédelmi Terület elnevezéssel az Ágfalva 024/27–31, valamint a Sopron 0775/2, 0797/4, 0799/4, 0799/14 ingatlan-nyilvántartási helyrajzi számú, összesen 27,3 hektár kiterjedésű területet.
