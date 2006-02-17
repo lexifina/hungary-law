@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és Québec Kormánya között a szociális biztonságról szóló, Ottawában, 2004. május 12-én aláírt Megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.
