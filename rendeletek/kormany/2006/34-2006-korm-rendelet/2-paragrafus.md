@@ -1,0 +1,3 @@
+## 1. §[^1] A Kormány a Magyar Köztársaság Kormánya és Québec Kormánya között a szociális biztonságról szóló, Ottawában, 2004. május 12-én aláírt Megállapodás kihirdetéséről szóló 2006. évi XVII. törvény 3. § (4) bekezdésében kapott felhatalmazás alapján a Magyar Köztársaság Kormánya és Québec Kormánya között a szociális biztonságról szóló, Ottawában, 2004. május 12-én aláírt Megállapodás végrehajtásáról szóló, Ottawában, 2004. május 12-én aláírt igazgatási megállapodást (a továbbiakban: igazgatási megállapodás) e rendelettel kihirdeti.
+
+[^1]: Az 1. § e rendelet 3. § (2) bekezdése alapján az igazgatási megállapodás 8. cikkében meghatározott időpontban lép hatályba.
