@@ -1,0 +1,1 @@
+## Tőketerhelés, termésmennyiség
