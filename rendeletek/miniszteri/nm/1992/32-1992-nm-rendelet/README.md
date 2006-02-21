@@ -1,0 +1,9 @@
+# 32/1992. (XII. 23.) NM rendelet
+
+a magzati élet védelméről szóló 1992. évi LXXIX. törvény végrehajtásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-32-20-3D
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2006-02-21 | 1992-32-20-3D.5 | 32/1992. (XII. 23.) NM rendelet |

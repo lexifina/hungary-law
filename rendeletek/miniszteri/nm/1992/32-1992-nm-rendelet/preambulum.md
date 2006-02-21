@@ -1,0 +1,1 @@
+A magzati élet védelméről szóló 1992. évi LXXIX. törvény (a továbbiakban: tv.) 10. §-ának (6) bekezdésében, 12. §-ának (3) bekezdésében, 13. §-ának (1) bekezdésében és 16. §-ának (2) bekezdésében foglalt felhatalmazás alapján az érdekelt miniszterekkel egyetértésben az alábbiakat rendelem:
