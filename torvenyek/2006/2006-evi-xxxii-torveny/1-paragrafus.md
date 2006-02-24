@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között a két ország között kötött nemzetközi szerződések felülvizsgálatáról, Budapesten, 2004. november 17. napján aláírt Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
