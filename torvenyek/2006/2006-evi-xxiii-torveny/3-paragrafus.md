@@ -1,0 +1,1 @@
+3. § A Kvtv. 1. számú mellékletében a XXIV. Ifjúsági, Családügyi, Szociális és Esélyegyenlőségi Minisztérium fejezet 10. „Családi támogatások” cím 7. „Pénzbeli és egyszeri támogatás” alcímének megnevezése „Pénzbeli gyermekvédelmi támogatások”-ra változik.
