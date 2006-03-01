@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény (Ptk.) módosításáról szóló 1997. évi CXLIX. törvény 11. §-ának (4) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
