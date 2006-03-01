@@ -1,0 +1,3 @@
+16. § A KTv. 44. §-a (1) bekezdésének helyébe a következő rendelkezés lép:
+
+,,(1) A VII. Miniszterelnökség fejezeten belül a Miniszterelnöki Hivatal közigazgatási államtitkárának, a VIII. Belügyminisztérium fejezet esetében pedig a belügyminiszternek — mint a fejezetért felelős szerv vezetőjének — tervezési, előirányzat-módosítási, pénzellátási és -felhasználási, beszámolási, információszolgáltatási, ellenőrzési kötelezettsége és joga nem terjed ki a 11. Biztonsági Szolgálatok cím; a 14. Kormányzati Ellenőrzési Iroda cím; valamint a központi költségvetés kormányzati végrehajtásával összefüggő, központilag kezelt és tartalék-előirányzatokra (27—30. cím); illetve a 24. Országos Testnevelési és Sporthivatal cím költségvetési előirányzataira.''

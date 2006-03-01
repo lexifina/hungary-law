@@ -1,0 +1,1 @@
+22. § A Foglalkoztatási Alapnak (XVI. Munkaügyi Minisztérium fejezet, 14. cím, 1. alcím, 1. előirányzat-csoport) a célzott közhasznú foglalkoztatási támogatás címen nyújtott 3 milliárd forintot elkülönítetten kell kezelni, és a munkanélküliek jövedelempótló támogatásában részesülők célzott közhasznú foglalkoztatására lehet felhasználni.

@@ -1,0 +1,3 @@
+3. § A KTv. 4. §-a (3) bekezdésének helyébe a következő rendelkezés lép:
+
+,,(3) Az Országgyűlés felhatalmazza a pénzügyminisztert, hogy a Magyar Nemzeti Bank központi költségvetésnek nyújtott kamatmentes hiteléből eredő államadósság egy részét — a Magyar Nemzeti Bank külföldi pénznemben fennálló nettó tartozásainak árfolyamváltozás miatti veszteségére — a Magyar Nemzeti Bankról szóló, többször módosított 1991. évi LX. törvény (a továbbiakban: MNB tv.) 22. §-ában meghatározott mértékig és időpontig piaci kamatozású állami értékpapírrá alakítsa át. A Magyar Nemzeti Bank az ezen állami értékpapír után kapott kamatot azonnal adóelőlegként átutalja a központi költségvetésbe.''

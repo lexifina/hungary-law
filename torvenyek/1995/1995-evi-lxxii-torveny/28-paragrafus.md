@@ -1,0 +1,1 @@
+28. § Az Országgyűlés felkéri a Kormányt, hogy a Magyar Köztársaság 1996. évi költségvetésének előterjesztésekor mutassa be az Országgyűlésnek az érvényben lévő koncessziós szerződések alapján, a következő három költségvetési évben a központi költségvetés milyen összegű bevételt realizálhat.
