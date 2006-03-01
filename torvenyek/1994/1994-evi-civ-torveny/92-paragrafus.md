@@ -1,0 +1,1 @@
+92. § Az Országgyűlés felkéri a Kormányt, hogy tekintse át az állami kezességvállalások helyzetét, és szükség esetén — a kezességérvényesítés eljárásrendjét is beleértve — tegyen javaslatot a szabályozásuk módosítására.

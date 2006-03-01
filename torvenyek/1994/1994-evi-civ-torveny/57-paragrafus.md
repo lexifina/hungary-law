@@ -1,0 +1,1 @@
+57. § Az Országgyűlés felhatalmazza a Kormányt, hogy a főváros és a megyei jogú városok szennyvíztisztításához nyújtandó támogatást, valamint az agrárgazdasági támogatások egyes 1995. évi szabályait külön rendeletben állapítsa meg.

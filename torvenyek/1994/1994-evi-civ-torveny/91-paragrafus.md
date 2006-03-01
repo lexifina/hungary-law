@@ -1,0 +1,1 @@
+91. § Az Országgyűlés felkéri a Kormányt, hogy a mozgáskorlátozott személyek közlekedési támogatásának szabályait tekintse át, és a támogatási összeg racionális felhasználása érdekében módosításukra tegyen javaslatot.

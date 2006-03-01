@@ -1,0 +1,3 @@
+51. § (1) A Magyar Köztársaság 1993. évi költségvetéséről szóló 1992. évi LXXX. törvény 39. §-ában foglalt rendelkezés alapján az 1993—94. években kibocsátott 6 milliárd forint értékű kötvény visszafizetésével kapcsolatos, a törvény 39. § b) pontja szerinti rendelkezést 1995-ben is alkalmazni kell.
+
+(2) A Magyar Köztársaság 1993. évi költségvetéséről szóló 1992. évi LXXX. törvény 40. § (2) bekezdésében foglalt rendelkezéseket a Magyar Köztársaság 1991. évi állami költségvetéséről és az államháztartás vitelének 1991. évi szabályairól szóló 1990. évi CIV. törvény 64—68. §-ainak hatálya alá tartozó lakáshitelek futamidejének teljes időtartama alatt alkalmazni kell.

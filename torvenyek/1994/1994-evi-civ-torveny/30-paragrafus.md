@@ -1,0 +1,1 @@
+30. § A központi költségvetés az Egészségbiztosítási Alapnak azon személyek után, akik egyéni és munkáltatói járulékfizetők hozzátartozóiként nem jogosultak betegbiztosítási ellátásra, átalányszerű hozzájárulást fizet, amelynek átalányszerű előirányzata 10 000 millió forint (XI. Népjóléti Minisztérium fejezet 11. cím 2. alcím 1. előirányzat-csoport).

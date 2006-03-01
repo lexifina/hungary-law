@@ -1,0 +1,1 @@
+24. § Az önkormányzatok megalakulásakor az alapítói jog gyakorlása tekintetében tanácsi vállalat — állami vagyon felett tulajdonosi jogosítvánnyal rendelkező szervezet által történő — értékesítéséből származó bevétel 50%-a az alapítói jogot gyakorló helyi önkormányzatot illeti meg.

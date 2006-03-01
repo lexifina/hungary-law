@@ -1,0 +1,1 @@
+39. § Amennyiben az állam által vállalt kezességek központi költségvetéssel szembeni érvényesítésének összege meghaladja az e célra előirányzott összeget, a különbözet az általános tartalékot terheli.

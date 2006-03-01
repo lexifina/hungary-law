@@ -1,0 +1,1 @@
+55. § A Világkiállítási Alap esetleges megszüntetése után az Alapnál maradó összeget a Pénzügyminisztérium központi letéti számláján kell elkülöníteni. A lemondással összefüggő, költségvetést terhelő kötelezettségeket részben a központi letéti számláról kell finanszírozni.

@@ -1,0 +1,1 @@
+56. § Az Országgyűlés felhatalmazza a Kormányt, hogy az orosz adósságállomány haditechnikai eszközökkel, alkatrészekkel történő törlesztési része forintellenértékével, valamint azok vám- és általános forgalmiadó-vonzataival — a központi költségvetés egyenlegét nem érintő módon — a törvényben rögzített, s e szállításokkal érintett előirányzatokat módosítsa.

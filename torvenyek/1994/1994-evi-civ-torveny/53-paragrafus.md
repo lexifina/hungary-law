@@ -1,0 +1,1 @@
+53. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 66. § (1) bekezdése alapján az Országgyűlés az ,,A'' fizetési osztály első fizetési fokozatának megfelelő illetmény összegét 1995. január 1-jétől 8500 Ft/fő/hó összegben állapítja meg.
