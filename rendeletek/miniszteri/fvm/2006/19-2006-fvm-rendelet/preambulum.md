@@ -1,0 +1,1 @@
+A Nemzeti Földalapról szóló 2001. évi CXVI. törvény módosításáról szóló 2005. évi CLXXV. törvény 12. §-ának (3) bekezdésében kapott felhatalmazás alapján – az ifjúsági, családügyi, szociális és esélyegyenlőségi miniszterrel, valamint a belügyminiszterrel egyetértésben – a következőket rendelem el:

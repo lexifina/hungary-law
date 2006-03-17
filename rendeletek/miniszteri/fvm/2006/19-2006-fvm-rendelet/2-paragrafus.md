@@ -1,0 +1,5 @@
+2. § (1) A települési önkormányzat (a továbbiakban: önkormányzat) a program céljára – a 3. § (1) bekezdésben foglalt kivétellel – a településen fekvő földrészletekre nyújthat be kérelmet.
+
+(2) A program céljára földrészletet az az önkormányzat igényelhet, amely rendelkezik az önkormányzat képviselőtestülete által jóváhagyott szociális földprogrammal. A kérelem előterjesztésének további feltétele, hogy az önkormányzat által támogatott, szociálisan hátrányos helyzetű személyek az önkormányzat részére átadott földrészlet hasznosításában, használatában személyesen közreműködjenek.
+
+(3) Az önkormányzat a földrészletnek a tulajdonába vagy vagyonkezelésébe adására irányuló írásbeli kérelmét az NFA székhelyén terjesztheti elő a kifüggesztés napjától számított 90 napon belül. A határidő elmulasztása esetén az önkormányzat kérelmét az NFA érdemben nem vizsgálhatja. Ennek tényéről az NFA írásban értesíti az önkormányzatot. A határidő elmulasztása nem érinti az önkormányzat azon jogát, hogy a következő évben közzétett felhívás alapján ismételten kérelmet nyújtson be.
