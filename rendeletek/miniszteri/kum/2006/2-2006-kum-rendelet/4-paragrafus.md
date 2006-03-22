@@ -1,0 +1,1 @@
+## 3. § A rendelet mellékletében felsorolt beosztásba, munkakörbe az a személy nevezhető ki, illetve azokban az a személy foglalkoztatható, aki a nemzetbiztonsági ellenőrzéshez hozzájárul, és akinek a nemzetbiztonsági vizsgálata kockázatmentes eredménnyel zárul.

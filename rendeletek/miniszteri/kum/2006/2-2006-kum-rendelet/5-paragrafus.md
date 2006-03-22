@@ -1,0 +1,1 @@
+## 4. § Külszolgálatra csak az a személy küldhető, akinek a kihelyezést kezdeményező szervnél a nemzetbiztonsági ellenőrzése kockázatmentes eredménnyel zárult és erről a kihelyezést kezdeményező szerv vezetője írásban tájékoztatja a Külügyminisztériumot.
