@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Ukrajna Miniszteri Kabinetje között a katonai és műszaki együttműködésről szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
