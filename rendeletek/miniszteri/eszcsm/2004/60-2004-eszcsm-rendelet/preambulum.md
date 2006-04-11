@@ -1,0 +1,1 @@
+Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 247. § (2) bekezdés f), illetve y) pontjában, valamint a helyi önkormányzatokról szóló 1990. évi LXV. törvény 97. § b) pontjában kapott felhatalmazás alapján a következőket rendelem el:

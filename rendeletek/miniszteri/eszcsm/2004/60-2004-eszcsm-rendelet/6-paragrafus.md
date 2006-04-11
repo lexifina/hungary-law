@@ -1,0 +1,3 @@
+6. § (1) A korlátozó intézkedést foganatosító személy az intézkedés foganatosításának megkezdése előtt köteles nevét és beosztását a pszichiátriai beteggel közölni, kivéve, ha a körülmények ezt kizárják. Utóbbi esetben a kizáró körülmények elhárultával kell ezt a közlést pótolni.
+
+(2) Korlátozó intézkedések elrendelése esetén a pszichiátriai beteget és a panasz tételére jogosult személyeket tájékoztatni kell a panaszhoz való jogukról, kivéve, ha ezt a korlátozó intézkedés alkalmazását szükségessé tevő körülmények vagy a beteg állapota kizárják. Utóbbi esetben a kizáró körülmények elhárultával kell ezt a tájékoztatást pótolni. A korlátozó intézkedés elleni panasz elintézése során soron kívül kell eljárni.

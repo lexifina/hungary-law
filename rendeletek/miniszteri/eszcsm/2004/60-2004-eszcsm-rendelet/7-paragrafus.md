@@ -1,0 +1,3 @@
+7. § (1) A pszichiátriai beteg kérésére számára munkanapokon napközbeni, illetve a munkaszüneti napokra eltávozás engedélyezhető. Az eltávozást a beteg állapotától függően kell engedélyezni, az nem alkalmazható fegyelmezési vagy jutalmazási eszközként. Az eltávozás engedélyezésének részletes szabályait a működési rend, illetve pszichiátriai betegeket ellátó szociális intézményben a házirend tartalmazza.
+
+(2) Amennyiben a pszichiátriai beteg kezelésének eredményességéhez szükséges, számára adaptációs szabadságot kell biztosítani, amennyiben azt személyes körülményei nem zárják ki. Az adaptációs szabadságra egyebekben az eltávozásra vonatkozó rendelkezéseket kell alkalmazni.

@@ -1,0 +1,14 @@
+2. § (1) A cselekvőképes személy az 1. számú melléklet szerinti beleegyező nyilatkozattal (a továbbiakban: nyilatkozat) kérheti az Eütv. 197. § (1) bekezdés szerinti önkéntes pszichiátriai intézeti gyógykezelését.
+
+(2) A nyilatkozat aláírása a gyógykezelést végző pszichiátriai intézetbe történő felvételt megelőzően történik, a felvételt végző orvos és a felvételét kérő személy közötti, a felvételét kérő tájékoztatására is kiterjedő megbeszélést követően.
+
+(3) A cselekvőképes pszichiátriai beteg nyilatkozatán a beteg tájékoztatását végző orvos aláírásával igazolja, hogy tudomása szerint a beteg nem áll önkéntes felvételi kérelmét kizáró, vagy korlátozó gondnokság alatt, illetve azt, hogy a nyilatkozat megtételekor a beteg nem volt cselekvőképtelen állapotban. A nyilatkozat az egészségügyi dokumentáció része.
+
+(4) Az önkéntesen felvett cselekvőképes pszichiátriai beteg az (1) bekezdés szerinti nyilatkozatban, vagy ezt követően bármikor írásban tiltakozhat az intézeti gyógykezelés szükségességének bírósági felülvizsgálata ellen [Eütv. 198. § (2) bekezdés]. A beteget erről a jogáról felvételekor tájékoztatni kell.
+
+(5)[^3] Amennyiben a korlátozottan cselekvőképes, illetve a cselekvőképtelen személy pszichiátriai intézeti gyógykezelésbe vételét az Eütv. 16. § (1) és (2) bekezdésében meghatározott személy kéri, abban az esetben a 2. számú melléklet szerinti kérelmet kell kitöltenie. A kérelemre a (2) bekezdésben foglaltak megfelelően alkalmazandók azzal, hogy a felvételre kerülő személyt is tájékoztatni kell korának és pszichés állapotának megfelelően. A kérelem az egészségügyi dokumentáció része.
+
+(6)[^4] Korlátozottan cselekvőképes, illetve a cselekvőképtelen személy az Eütv. 197. §-ának (3) bekezdése szerinti önkéntes ideiglenes pszichiátriai intézeti gyógykezelésbe vételét – amennyiben írni és olvasni tud és pszichés, értelmi és általános egészségi állapota az írásbeli kérelem tételét lehetővé teszi – a 4. számú melléklet szerinti kérelemmel kérheti. A kérelemre a (2) bekezdésben foglaltak megfelelően alkalmazandók azzal, hogy a felvételre kerülő személyt tájékoztatni kell korának és pszichés állapotának megfelelően. A kérelem az egészségügyi dokumentáció része. Abban az esetben, ha az önkéntes ideiglenes felvételét kérő korlátozottan cselekvőképes, illetve a cselekvőképtelen személy írni és olvasni nem tud vagy pszichés, értelmi és általános egészségi állapota az írásbeli kérelem tételét nem teszi lehetővé, a felvevő orvos a beteg tájékoztatását követően a dokumentációban rögzíti az ideiglenes felvételre jelentkezett személy nevét, a felvétel okát, idejét és a 4. számú melléklet mellőzésének indokát.
+
+[^3]: A 2. § (5) bekezdésének első mondata a 15/2006. (III. 27.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (6) bekezdését a 15/2006. (III. 27.) EüM rendelet 2. § (2) bekezdése iktatta be.
