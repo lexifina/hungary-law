@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Dávodi Földvári tó Természetvédelmi Terület elnevezéssel a Dávod 0271/a–b, 0280/1 a–c, 0280/2 a–b, 0363 a–h ingatlan-nyilvántartási helyrajzi számú, összesen 74,3 hektár kiterjedésű területet.
