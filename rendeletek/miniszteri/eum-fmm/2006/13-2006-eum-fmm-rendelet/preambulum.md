@@ -1,0 +1,1 @@
+A kémiai biztonságról szóló 2000. évi XXV. törvény 34. §-a (4) bekezdésének da)–db) pontjaiban, valamint a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 88. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendeljük el:
