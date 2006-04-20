@@ -1,0 +1,5 @@
+A 2006. évi I. törvénnyel a Magyar Közlöny 2006. január 4-i, 1. számában kihirdetett, a Magyar Köztársaság és a Bolgár Köztársaság között a szociális biztonságról szóló, Szófiában, 2005. november 30. napján aláírt Egyezmény a 38. cikkének (2) bekezdése szerint a hatálybalépéshez szükséges belső eljárások befejezéséről szóló értesítés megküldésének hónapját követő harmadik hónap első napján lép hatályba.
+
+A Magyar Köztársaság a Bolgár Köztársaságot 2006. február 16-án, a Bolgár Köztársaság a Magyar Köztársaságot 2006. április 5-én kelt diplomáciai jegyzékkel az Egyezmény 38. cikkének (1) bekezdése szerint értesítette a hatálybalépéséhez szükséges belső eljárások befejezéséről.
+
+A fentiekre tekintettel, összhangban a 2006. évi I. törvény 4. § (3) bekezdésével, megállapítom, hogy a Magyar Köztársaság és a Bolgár Köztársaság között a szociális biztonságról szóló, Szófiában, 2005. november 30. napján aláírt Egyezmény kihirdetéséről szóló 2006. évi I. törvény 2–3. §-a 2006. július 1-jén, azaz kettőezerhat július elsején lép hatályba.
