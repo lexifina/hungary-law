@@ -1,0 +1,3 @@
+Az Alkotmány 30/A. § (1) bekezdés c) pontjában foglalt jogkörömben, a külügyminiszter előterjesztésére Zimborás Károlyné főkonzult – érdemei elismerése mellett – felmentem e rangja, valamint a Magyar Köztársaság Afyonkarahisar, Amasya, Antalya, Aydin, Balikesir, Bartin, Bayburt, Bilecik, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Edirne, Eskisehir, Giresun, Gümüshane, Isparta, Icel, Istanbul, Izmir, Karaman, Kastamonu, Kirklareli, Kocaeli, Konya, Kütahya, Manisa, Mugla, Ordu, Rize, Sakarya, Samsun, Sinop, Tekirdag, Tokat, Trabzon, Usak, Zonguldak tartományokra kiterjedő konzuli kerülettel működő, isztambuli székhelyű főkonzulátusának vezetésére kapott megbízása alól.
+
+KEH ügyszám: V-4/5846/2005.
