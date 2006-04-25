@@ -1,0 +1,9 @@
+1.[^1] A Kormány az MFB Rt. 2001 júniusában kibocsátott 450 millió euró összegű kötvénye [2077/2002. (IV. 13.) Korm. határozat] és az 1151/2002. (IX. 6.) Korm. határozatban jóváhagyott 400 millió euró összegű szindikált hitele forintra történő átváltásával kapcsolatban a Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló 2000. évi CXXXIII. törvény 37. § (4) bekezdésében meghatározott garanciakeret terhére árfolyam-garanciát vállal. Az átváltásból származó nyitott pozícióra az árfolyam-garancia összege 2002. évre vonatkozóan legfeljebb 200 milliárd forint. Az árfolyam-garancia a jelen határozat hatálybalépését megelőző, érintett forrásokból történő átváltásra, továbbá a 450 millió euró összegű kötvény és a 400 millió euró összegű szindikált hitel visszafizetése érdekében euróban bevont forrásokra, valamint az árfolyam-garancia lejárata előtt a visszafizetés érdekében euróban bevont források visszafizetése érdekében újonnan euróban bevont forrásokra is vonatkozik. Az árfolyam-garanciával kapcsolatos nyereség és veszteség a költségvetést illeti, illetve terheli az ügyletek lezárásakor. Az árfolyam-garancia lejárata a Magyar Köztársaságnak a Gazdasági és Monetáris Unióhoz történő csatlakozásának időpontja.
+
+Felelős: pénzügyminiszter, gazdasági és közlekedési miniszter
+
+Határidő: folyamatos
+
+2. Ez a határozat a közzététele napján lép hatályba, egyidejűleg a hatályát veszti a Magyar Fejlesztési Bank Rt. által finanszírozott egyes ügyletek forrásául szolgáló hosszú lejáratú külföldi hitelfelvételekhez kapcsolódó árfolyam-garanciáról szóló 2057/2002. (II. 27.) Korm. határozat.
+
+[^1]: Az 1. pont harmadik, negyedik és ötödik mondata az 1045/2006. (IV. 25.) Korm. határozat 2. pontjával megállapított szöveg.
