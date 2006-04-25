@@ -1,0 +1,5 @@
+1. A Kormány jóváhagyja a Magyar Fejlesztési Bank Részvénytársaság 2006. évi maximum 1600 millió eurós forrásbevonási tervét.
+
+2. Ez a határozat a közzététele napján lép hatályba; egyidejűleg a Magyar Fejlesztési Bank Rt. forrásaihoz kapcsolódó árfolyam-garanciáról szóló 1210/2002. (XII. 21.) Korm. határozat 1. pontjának utolsó három mondata helyébe a következő rendelkezés lép:
+
+„Az árfolyam-garancia a jelen határozat hatálybalépését megelőző, érintett forrásokból történő átváltásra, továbbá a 450 millió euró összegű kötvény és a 400 millió euró összegű szindikált hitel visszafizetése érdekében euróban bevont forrásokra, valamint az árfolyam-garancia lejárata előtt a visszafizetés érdekében euróban bevont források visszafizetése érdekében újonnan euróban bevont forrásokra is vonatkozik. Az árfolyam-garanciával kapcsolatos nyereség és veszteség a költségvetést illeti, illetve terheli az ügyletek lezárásakor. Az árfolyam-garancia lejárata a Magyar Köztársaságnak a Gazdasági és Monetáris Unióhoz történő csatlakozásának időpontja.”
