@@ -1,0 +1,7 @@
+## 1. § A környezetvédelmi célú pénzügyi eszközökről (LIFE) szóló, az Európai Parlament és a Tanács 2004. szeptember 15-ei 1682/2004/EK rendeletével módosított, az Európai Parlament és a Tanács 2000. július 17-ei 1655/2000/EK rendelete 3. cikkének (4) bekezdésében és 4. cikkének (5) bekezdésében foglalt feladatok végrehajtásáról a környezetvédelemért felelős miniszter gondoskodik.
+
+## 2. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg
+
+a) hatályát veszti a Magyar Köztársaság és az Európai Közösségek és annak tagállamai közötti Társulási Tanács 1/2001. számú, a Magyar Köztársaságnak a környezetvédelem pénzügyi eszközei (LIFE) programban történő részvétele módozatainak és feltételeinek elfogadásáról szóló határozata kihirdetéséről szóló 10/2001. (I. 30.) Korm. rendelet;
+
+b) a környezetvédelem pénzügyi eszközei (LIFE) program harmadik szakaszának keretében, az e rendelet hatálybalépésének időpontját megelőzően megkezdett, illetve a 2005. november 30-ig beadott pályázatokkal érintett projektek esetében a támogatás költségei között el nem számolt le nem vonható általános forgalmi adóra a Magyar Köztársaság és az Európai Közösségek és annak tagállamai közötti Társulási Tanács 1/2001. számú, a Magyar Köztársaságnak a környezetvédelem pénzügyi eszközei (LIFE) programban történő részvétele módozatainak és feltételeinek elfogadásáról szóló határozata kihirdetéséről szóló 10/2001. (I. 30.) Korm. rendelet 1. számú mellékletének 6. pontjában foglaltakat továbbra is alkalmazni kell.
