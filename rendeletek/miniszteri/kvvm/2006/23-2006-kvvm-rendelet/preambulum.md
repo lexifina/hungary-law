@@ -1,0 +1,1 @@
+A természet védelméről szóló 1996. évi LIII. törvény 24. § (1) bekezdésének a) pontjában, valamint 85. § b) pontjában kapott felhatalmazás alapján – 36. §-ának (1) bekezdésében foglaltaknak megfelelően – a következőket rendelem el:

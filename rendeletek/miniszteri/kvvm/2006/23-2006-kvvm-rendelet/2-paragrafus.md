@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom és a 19/1993. (IV. 7.) KTM rendelettel létesített Hévízi-tó Természetvédelmi Területhez csatolom a Hévíz 934/1, 934/3, 964/3, 964/6, 985 ingatlan-nyilvántartási helyrajzi számú, 30,5466 hektár kiterjedésű területet.
