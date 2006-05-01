@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2006. évi költségvetéséről szóló 2005. évi CLIII. törvény (a továbbiakban: KT) 14. §-ának (3) bekezdésében és 52. §-ának (3) bekezdésében kapott felhatalmazás alapján – figyelemmel a KT 4. számú mellékletében foglaltakra – a következőket rendeljük el:
