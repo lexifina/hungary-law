@@ -1,0 +1,1 @@
+A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 35/A. §-ának (2) bekezdésében foglalt felhatalmazás alapján az igazságügy-miniszter, a legfőbb ügyész és az Országos Igazságszolgáltatási Tanács egyetértésével a következőket rendeljük el:

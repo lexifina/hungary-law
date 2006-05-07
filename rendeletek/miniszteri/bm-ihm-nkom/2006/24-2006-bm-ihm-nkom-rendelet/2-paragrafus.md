@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya a közfeladatot ellátó szervekre és a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverek megfelelésének külön jogszabály szerinti tanúsítását végző szervezetekre terjed ki.
