@@ -1,0 +1,3 @@
+Az igazságügy-miniszter előterjesztésére az Alkotmány 30/A. §-a (1) bekezdésének m) pontjában biztosított jogkörömben megállapítom, hogy Veszelka Vendel büntetés-végrehajtási dandártábornok szolgálati viszonya – mivel a hivatásos szolgálat felső korhatárát elérte – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 59. §-a (1) bekezdésének a) pontja alapján 2006. május 29-i hatállyal, a törvény erejénél fogva megszűnik, és ezzel egyidejűleg a Hszt. 182. §-ának (1) bekezdésére figyelemmel szolgálati nyugállományba helyezem.
+
+KEH ügyszám: V-5/2072/2006.
