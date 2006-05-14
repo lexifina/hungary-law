@@ -1,0 +1,5 @@
+## Ellenőrzés és hatósági intézkedések
+
+10. § (1) Amennyiben az állatorvos e rendelet szerinti azonosság-, illetve fizikai ellenőrzést végez, a jogszabályi előírásoknak való megfelelés ellenőrzésének ki kell terjednie arra, hogy az import takarmány-adalékanyag, illetve állatok fehérjeellátásának javítására használható egyes termék az Európai Unióban engedélyezett-e. Az ellenőrzés kiterjedhet arra is, hogy a Vhr. 7. § (8) bekezdése szerinti import takarmánynál a harmadik ország takarmány-előállító üzeme rendelkezik-e az Európai Unióban a behozatalért felelős képviselővel.
+
+(2) A behozatalért felelős képviselő megjelölésének ellenőrzéséhez az Állatgyógyászati Oltóanyag-, Gyógyszer- és Takarmány-ellenőrző Intézet a Vhr. 7. § (9) bekezdése szerinti nyilvántartást a képviselőkről, illetve annak módosításait átadja a megyei (fővárosi) állategészségügyi és élelmiszer-ellenőrző állomásoknak (a továbbiakban: Állomás), akik azt továbbítják az e rendelet szerinti azonosság-, illetve fizikai ellenőrzést végző állatorvosoknak.
