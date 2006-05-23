@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
