@@ -1,0 +1,1 @@
+A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló, többször módosított 1994. évi XLII. törvény (a továbbiakban: Etv.) 26. §-ának (5) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:

@@ -1,0 +1,9 @@
+# 16/1998. (V. 20.) PM rendelet
+
+a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-16-20-53
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2006-05-25 | 1998-16-20-53.5 | 16/1998. (V. 20.) PM rendelet |
