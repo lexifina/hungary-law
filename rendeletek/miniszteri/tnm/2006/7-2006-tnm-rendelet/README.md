@@ -1,0 +1,9 @@
+# 7/2006. (V. 24.) TNM rendelet
+
+az épületek energetikai jellemzőinek meghatározásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-7-20-6F
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2006-05-29 | 2006-7-20-6F.1 | 7/2006. (V. 24.) TNM rendelet |
