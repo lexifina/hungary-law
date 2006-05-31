@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a környezetvédelem és természetvédelem terén való együttműködésről szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
