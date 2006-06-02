@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Kubai Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
