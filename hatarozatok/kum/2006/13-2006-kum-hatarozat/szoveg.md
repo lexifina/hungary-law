@@ -1,0 +1,5 @@
+A 2006. évi XXXVII. törvénnyel a Magyar Közlöny 2006. február 24-ei, 22. számában kihirdetett, a Magyar Köztársaság és az Osztrák Köztársaság között a határokat átlépő bűnözés megelőzése és leküzdése érdekében folytatandó együttműködésről szóló, Heiligenbrunnban, 2004. június 6-án aláírt Szerződés 36. cikke szerint a Szerződést meg kell erősíteni. A megerősítésről szóló okiratokat a lehető legrövidebb időn belül ki kell cserélni. A Szerződés a megerősítésről szóló okiratok kicserélését követő harmadik hónap első napján lép hatályba.
+
+A Szerződés 36. cikke szerinti okiratcserére 2006. március 27-én került sor.
+
+A fentiekre tekintettel, összhangban a 2006. évi XXXVII. törvény 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság és az Osztrák Köztársaság között a határokat átlépő bűnözés megelőzése és leküzdése érdekében folytatandó együttműködésről szóló, Heiligenbrunnban, 2004. június 6-án aláírt Szerződés kihirdetéséről szóló 2006. évi XXXVII. törvény 2. és 3. §-ai 2006. június 1-jén, azaz kettőezer-hat június elsején, hatályba lép.
