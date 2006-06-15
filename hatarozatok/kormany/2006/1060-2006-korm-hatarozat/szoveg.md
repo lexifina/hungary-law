@@ -1,0 +1,53 @@
+A Kormány a megalakulását követően a működésével kapcsolatos legfontosabb feladatokat – összhangban a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2006. évi LV. törvénnyel – az alábbiak szerint határozza meg:
+
+1. A kormányprogram alapulvételével el kell készíteni a Kormány II. félévi törvényalkotási programját és munkatervét.
+
+Felelős: Miniszterelnöki Hivatalt vezető miniszter a miniszterek bevonásával
+
+Határidő: 2006. június 30.
+
+2. Elő kell készíteni a Kormány ügyrendjének módosítását.
+
+Felelős: Miniszterelnöki Hivatalt vezető miniszter
+
+Határidő: 2006. június 23.
+
+3. Előterjesztést kell készíteni a Kormány mellett működő kabinetek létrehozásáról.
+
+Felelős: Miniszterelnöki Hivatalt vezető miniszter
+
+Határidő: 2006. június 19.
+
+4. Elő kell készíteni a miniszterek feladat- és hatásköréről szóló kormányrendeleteket.
+
+Felelős: Miniszterelnöki Hivatalt vezető miniszter koordinálásával a miniszterek
+
+Határidő: 2006. július 15.
+
+5. A Kormány felhívja az igazságügyi és rendészeti minisztert, hogy – a feladatkör szerint érintett miniszterekkel egyetértésben – készítsen a Kormány számára előterjesztést a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2006. évi LV. törvény és a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény végrehajtásához szükséges törvénymódosításokról.
+
+Felelős: igazságügyi és rendészeti miniszter az érintett miniszterek bevonásával
+
+Határidő: 2006. augusztus 15.
+
+6. El kell készíteni és jóváhagyásra a miniszterelnök elé kell terjeszteni a minisztériumok szervezeti és működési szabályzatát, illetve annak módosítását.
+
+Felelős: miniszterek
+
+Határidő: 2006. július 15.
+
+7. A miniszteri feladat- és hatáskörök, valamint a minisztériumok elnevezésének és szervezetének változásával összefüggésben előterjesztést kell benyújtani a szervezeti intézkedésekről, valamint a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2006. évi LV. törvény 3. §-ának (3) bekezdése alapján szükséges előirányzat-átcsoportosításokról.[^2]
+
+Felelős: érintett miniszterek
+
+Határidő: 2006. július 15.
+
+8. A Kormány felhívja az érintett minisztereket, hogy az 1053/2006. (V. 26.) Korm. határozattal tisztségükből felmentett kormánybiztosok és kormánymegbízottak változatlanul időszerű feladatai további ellátásának módjára, valamint a feladatokat előíró kormányhatározatok megfelelő módosítására vagy hatályon kívül helyezésére tegyenek javaslatot.
+
+Határidő: 2006. június 23.
+
+9. A 2006. évi tavaszi rendkívüli árvizek által okozott károk miatt szükséges újjáépítéssel összefüggő kormányzati feladatok koordinálásáért felelős kormánymegbízott feladatairól, valamint az Újjáépítési Tárcaközi Bizottság létrehozásáról szóló 1041/2006. (IV. 14.) Korm. határozatból adódó koordinációs és újjáépítési feladatokat, valamint az Újjáépítési Tárcaközi Bizottság elnöki teendőit – a Kormány megalakulásának időpontjától kezdődő hatállyal – dr. Dudás Ferenc, az Önkormányzati és Területfejlesztési Minisztérium közigazgatási államtitkára látja el.
+
+10. Ez a határozat a közzététele napján lép hatályba; egyidejűleg a tárca nélküli miniszterek feladatkörének kijelöléséről, valamint a Kormány megalakulásával és átalakításával összefüggő egyes feladatokról szóló 1096/2004. (X. 7.) Korm. határozat, továbbá dr. Dudás Ferenc újjáépítési kormánymegbízottá történő kinevezéséről szóló 1034/2006. (IV. 5.) Korm. határozat a hatályát veszti.
+
+[^2]: Lásd a 2107/2006. (VI. 15.) Korm. határozatot.
