@@ -1,0 +1,1 @@
+7. § Az Országgyűlés felhatalmazza a Kormányt, hogy az ÁPV Rt. vagyonkezelésében lévő, nem értékesíthető ingatlanokat, valamint a volt szovjet laktanyákat illetően – foglalkoztatáspolitikai, szociálpolitikai, ifjúságpolitikai, iparfejlesztési célok megvalósításának elősegítésére – eseti döntést hozzon azok térítésmentes helyi önkormányzati tulajdonba adásáról.

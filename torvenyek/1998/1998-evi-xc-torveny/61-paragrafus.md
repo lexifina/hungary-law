@@ -1,0 +1,1 @@
+61. § A Paksi Atomerőmű Rt. 1999. évi befizetési kötelezettsége a Központi Nukleáris Pénzügyi Alapba 9164,9 millió forint, amelyet a Paksi Atomerőmű Rt. havonta, egyenlő részletekben köteles átutalni az Alap számlájára.

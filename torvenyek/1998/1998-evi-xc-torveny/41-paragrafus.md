@@ -1,0 +1,1 @@
+41. § Az Országgyűlés tudomásul veszi az 1998. évi gabonatermelésre a 109/1997. (XII. 30.) FM rendelet alapján felvett, állami kezességgel biztosított, legfeljebb egyéves lejáratú hitelek további egy évvel történő meghosszabbítását. Az állami kezességvállalás a meghosszabbított időtartamra változatlanul hatályos, és nem számít be a 33. § (1) bekezdésében megállapított összegbe.

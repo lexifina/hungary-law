@@ -1,0 +1,3 @@
+19. § (1) Az Áht. 64. §-a (2) bekezdésének a) pontja szerinti, az állami támogatás jogtalan felhasználásához kapcsolódó kamatfizetési kötelezettség számítása szempontjából normatív módon elosztott, központi költségvetési kapcsolatokból származó forrásnak minősül az e törvény 3. számú melléklet 5. b)–c), 6–18. pontjai, a 4. számú melléklet I.6. pontja és a 8. számú melléklet szerinti előirányzatok együttes összege.
+
+(2) Az Áht. 64. §-ában, valamint az e törvény 6. számú mellékletében meghatározott kamatokat a központi költségvetés Egyéb vegyes bevételek (XXII. Pénzügyminisztérium fejezet, 22. cím, 1. alcím, 8. előirányzat-csoport), illetve az Egyéb vegyes kiadások (XXII. Pénzügyminisztérium fejezet, 17. cím, 1. alcím, 11. kiemelt előirányzat) jogcímeken kell elszámolni.

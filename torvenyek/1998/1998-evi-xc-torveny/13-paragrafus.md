@@ -1,0 +1,3 @@
+13. § (1) A felsőoktatásról szóló 1993. évi LXXX. törvény (a továbbiakban: Ftv.) 9/A. §-ának (2) bekezdése szerinti, egy főre megállapított hallgatói normatíva 70 000 forint/év, a doktori képzésben résztvevők egy főre megállapított támogatási normatívája 468 000 forint/év, a köztársasági ösztöndíjban részesülők normatívája 195 000 forint/év.
+
+(2) A katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 44. §-ának (1) bekezdése szerinti, a Rendőrtiszti Főiskola nappali tagozatos ösztöndíjas hallgatói pénzbeli juttatásának normatívája 204 000 forint/fő/év.

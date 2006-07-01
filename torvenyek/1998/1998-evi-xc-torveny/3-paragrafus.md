@@ -1,0 +1,1 @@
+3. § A hiteltörlesztési és államkötvény-visszavásárlási kiadások és a hitelfelvételből származó bevételek részletezését az e törvény 1. számú mellékletének a XLIV. A költségvetés hitelfelvételei és adósságának törlesztése fejezete tartalmazza.

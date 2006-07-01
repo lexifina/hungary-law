@@ -1,0 +1,1 @@
+126. § Az e törvény 114. §-ával megállapított, a Magyar Köztársaság 1998. évi költségvetéséről szóló 1997. évi CXLVI. törvényt módosító rendelkezéseket az 1999. január 31-ig terjedő pótkezelési időszakban is lehet teljesíteni.

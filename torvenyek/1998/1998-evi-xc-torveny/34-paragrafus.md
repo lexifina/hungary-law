@@ -1,0 +1,1 @@
+34. § Az Országgyűlés felhatalmazza a Kormányt, hogy a 33. §-ban foglaltakon túl a Sopron Megyei Jogú Város Erzsébet Kórháza rekonstrukciójához felvett hitel 1999-ben még fennálló állományára a hitelezőváltással összefüggésben kezességet vállaljon.

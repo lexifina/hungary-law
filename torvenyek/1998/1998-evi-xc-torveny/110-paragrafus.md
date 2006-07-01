@@ -1,0 +1,5 @@
+## Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény módosítása
+
+110. § Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 3. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+
+,,(3) A nem természetben visszaigényelt ingatlanokra vonatkozó pénzbeli igény járadékká alakítását az egyház e törvény hatálybalépését követő 180 napon belül írásban kérheti, csatolva azt az értékfeltüntetést is tartalmazó ingatlanjegyzéket, amely a számítás alapját képezi. A járadék induló összege a Kormány, illetve az érintett egyház felhatalmazott képviselője által megkötött megállapodásban kerül meghatározásra, kölcsönösen elfogadott értékelés alapján. A járadék folyósítása 1998. január 1-jétől történik. A Kormány, illetve az érintett egyház felhatalmazott képviselője az e bekezdésben meghatározott megállapodásban a járadék kiegészítésében is megállapodhat, amennyiben az érintett egyház hitéleti és közcélú tevékenysége indokolja.''

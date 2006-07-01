@@ -1,0 +1,1 @@
+56. § A közoktatásról szóló 1993. évi LXXIX. törvény 118. §-ának (10) bekezdésében meghatározott kiemelt munkavégzésért járó keresetkiegészítés fedezetének számítási alapja 1500 forint/fő/hónap. A kiemelt munkavégzésért járó keresetkiegészítést első ízben 1999. szeptember 1-jét követően lehet megállapítani.
