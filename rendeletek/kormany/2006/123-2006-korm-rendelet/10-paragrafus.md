@@ -1,0 +1,1 @@
+10. § Ez a rendelet 2006. július 1. napján lép hatályba azzal, hogy a hatálybalépés napján már működő, bejegyzett iskolaszövetkezetek 2007. június 30. napjáig kötelesek alapszabályukat e rendeletnek megfelelően módosítani.

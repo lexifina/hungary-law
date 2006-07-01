@@ -1,0 +1,5 @@
+4. § (1) Az iskolaszövetkezet alakuló közgyűlésére meg kell hívni a korlátozottan cselekvőképes kiskorú tag törvényes képviselőjét.
+
+(2) Korlátozottan cselekvőképes kiskorú tag jognyilatkozatának érvényességéhez – a tagsági viszony létrejötte, a tag és az iskolaszövetkezet gazdasági együttműködése, a tagsági megállapodás megkötése, a tag személyes közreműködése, a tag vagyoni hozzájárulása kérdéseiben – a törvényes képviselője beleegyezésére vagy utólagos jóváhagyására van szükség.
+
+(3) A közoktatási intézmény vezetője az iskolaszövetkezet alapszabályának jóváhagyását abban az esetben tagadhatja meg, ha az jogszabályba ütközik, vagy ellentétes a közoktatási intézmény szervezeti és működési szabályzatában, illetve más belső szabályzatában foglaltakkal, továbbá, ha az iskolaszövetkezet tevékenysége veszélyezteti a közoktatási intézmény működését, feltéve, hogy e körülményre – az okok és a kért változtatás megjelölésével – a közgyűlés figyelmét felhívta, és azok megszüntetésére legalább harmincnapos határidőt biztosított, azonban a felhívása eredménytelen maradt.
