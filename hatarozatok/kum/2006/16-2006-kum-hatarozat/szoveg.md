@@ -1,0 +1,5 @@
+A 259/2005. (XII. 7.) Korm. rendelettel a Magyar Közlöny 2005. december 7-i, 157. számában kihirdetett, a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság Bukaresti Kulturális Központja és a Budapesti Román Kulturális Intézet működéséről szóló, Bukarestben, 2005. október 20-án aláírt Egyezmény 14. cikk 1. pontja szerint az Egyezmény a kölcsönös jóváhagyás megtörténtéről szóló diplomáciai jegyzékváltást követő 60. nappal lép hatályba, amikor a Felek a hatálybalépéshez szükséges belső jogi követelményeknek eleget tettek.
+
+Az Egyezmény 14. cikke szerinti jegyzékváltásra 2006. május 30-án került sor.
+
+A fentiekre tekintettel, összhangban a 259/2005. (XII. 7.) Korm. rendelet 3. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság Bukaresti Kulturális Központja és a Budapesti Román Kulturális Intézet működéséről szóló, Bukarestben, 2005. október 20-án aláírt Egyezmény kötelező hatályának elismeréséről és kihirdetéséről szóló 259/2005. (XII. 7.) Korm. rendelet 2. §-a 2006. július 29-én, azaz kettőezer-hat július huszonkilencedikén hatályba lép.
