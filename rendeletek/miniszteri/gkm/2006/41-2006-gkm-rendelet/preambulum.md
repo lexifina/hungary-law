@@ -1,0 +1,1 @@
+A tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978/1995. évi nemzetközi egyezmény melléklete módosításainak kihirdetéséről szóló 147/2005. (VII. 27.) Korm. rendelet 3. §-ának (1) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
