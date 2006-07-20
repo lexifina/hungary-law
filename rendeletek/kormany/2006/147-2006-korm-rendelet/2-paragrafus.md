@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad „a Magyar Köztársaság Kormánya és Ukrajna Miniszteri Kabinetje között az V. számú összeurópai közlekedési folyosó közúti csatlakozási pontjairól a magyar–ukrán határszakaszon” című egyezmény (a továbbiakban: szerződés) kötelező hatályának elismerésére.
