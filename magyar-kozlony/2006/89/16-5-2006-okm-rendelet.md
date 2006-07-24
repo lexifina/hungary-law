@@ -1,0 +1,6663 @@
+# Az oktatási és kulturális miniszter 5/2006. (VII. 24.) OKM rendelete
+
+Magyar Közlöny 2006. évi 89. szám 2. rész, 2006. július 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/70a7b5b1cd9ff1c80205933dda7636cc29e18ab2/dokumentumok/7f91eda90b48789599b4772772733dc5e5fc71cd/letoltes)
+
+---
+
+Az oktatási és kulturális miniszter
+5/2006. (VII. 24.) OKM
+rendelete
+a kerettantervek kiadásának és jóváhagyásának
+rendjéről, valamint egyes oktatási jogszabályok
+módosításáról szóló 17/2004. (V. 20.) OM rendelet
+módosításáról
+A közoktatásról szóló – többször módosított – 1993. évi
+LXXIX. törvény (a továbbiakban: közoktatásról szóló tör-
+vény) 94. §-a (1) bekezdésének a) és f) pontjában kapott
+felhatalmazás alapján, továbbá a közoktatásról szóló tör-
+vény 8/A. §-ának, 45. §-ának (2) bekezdésében, valamint
+131. §-ának (6) bekezdésében foglaltak végrehajtására
+– az eljárási díj tekintetében a pénzügyminiszterrel egyet-
+értésben – a következőket rendelem el:
+1. §
+A kerettantervek kiadásának és jóváhagyásának rendjé-
+ről, valamint egyes oktatási jogszabályok módosításáról
+szóló 17/2004. (V. 20.) OM rendelet 1. számú melléklete
+e rendelet mellékletével egészül ki.
+2. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+Dr. Hiller István s. k.,
+oktatási és kulturális miniszter
+A M A G Y A R K Ö Z T Á R S A S Á G H I V A T A L O S L A P J A
+Budapest,
+2006. július 24.,
+hétfő
+89. szám
+II. kötet
+Ára: 3045,– Ft
+TARTALOMJEGYZÉK
+5/2006. (VII. 24.) OKM r. A kerettantervek kiadásának és jóváhagyásának rendjéről, valamint
+egyes oktatási jogszabályok módosításáról szóló 17/2004.
+(V. 20.) OM rendelet módosításáról
+
+Melléklet az 5/2006. (VII. 24.) OKM rendelethez
+KERETTANTERV
+Enyhén értelmi fogyatékos tanulók nevelését, oktatását ellátó
+általános iskolák (1–8. évfolyam)
+előkészítő szakiskolák (9–10. évfolyam)
+speciális szakiskolák 9–10. évfolyamai
+számára
+Ez a kerettanterv a 2/2005. (III. 1.) OM rendelet 2. számú mellékleteként kiadott Sajátos nevelési igényű tanulók
+iskolai nevelésének, oktatásának irányelve alapján készült. Választható az általános iskola, az előkészítő
+szakiskola, a speciális szakiskola 9–10. évfolyamain az enyhe értelmi fogyatékos tanulók nevelését, oktatását
+végző közoktatási intézmények számára.
+Sajátosságai:
+a) iskolaszakaszokra készült, biztosítva a dokumentum alapján pedagógiai programot készítő intézmények
+számára a nagyobb mozgásteret;
+b) tantárgyi struktúrája igazodik az enyhe értelmi fogyatékosságból adódó nevelhetőség, oktathatóság,
+képezhetőség sajátosságaihoz:
+1. integrált természetismereti tantárgyakat tartalmaz;
+2. az élő idegen nyelv tanítása 7. évfolyamon kezdődik, helyi döntés alapján ezt megelőzően is
+megkezdhető;
+3. az informatika tantárgyban hosszú előkészítő időszakot biztosít;
+4. a kompetenciák fejlesztésében megkülönböztetett figyelmet fordít a személyes, a szociális, a
+kommunikációs és az életvezetési kompetenciákra;
+c) szerkezetében egymással szorosan kapcsolódó egységekből épül fel;
+d) az intézményi folyamattervezéshez a fejlesztési feladatok megvalósítását segítő konkrét prioritásokat ad;
+e) fejlesztési feladatainak szerkezete lehetővé teszi a tanulók egyéni haladási ütemének figyelembe vételét.
+Célok, feladatok
+A kerettanterv valamennyi képzési szakaszban megjeleníti a tantárgyi célokat, a fejlesztési feladatokat.
+Fejlesztési feladatok
+A fejlesztési feladatok megjelölik az adott képzési szakaszban, az adott tantárgyban a sajátos nevelési igényű
+tanulók esetében leginkább fejleszthető kulcskompetenciákat.
+Tantárgyi tartalmak, témakörök
+A kerettanterv témakörei (altémái) a képzési tartalmat jelenítik meg. A témakörök a tantárgy sajátosságainak, az
+Irányelvben leírtaknak megfelelően egymásra épülő ismeretegységeket, problémaköröket, tevékenységeket,
+eljárásokat, összefüggéseket, tényeket stb. fogalmaznak meg.
+
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+A tantárgyhoz kötődő habilitációs/rehabilitációs célú tevékenység a sajátos nevelési igényből adódó
+gyógypedagógiai teendőket foglalja össze, segítve az egyéni habilitációs/rehabilitációs fejlesztő
+programcsomagok összeállítását.
+A tanulók értékelésének elvei
+Iránymutató valamennyi tantárgy esetében. Az értékelési elvekben leírt sérülésspecifikus szempontok útmutatást
+adnak az egyéni sajátosságokhoz igazodó fejlesztő értékelés alkalmazásához.
+Elvárható követelmények
+Az iskolai szakaszok végére elvárható követelmény olyan tantervi elemként jelenik meg a kerettantervben,
+amely többféle szerepet tölt be.
+Egyrészt képzési szakaszra fogalmazódik meg, a közoktatásról szóló törvény és a NAT szellemiségéhez
+igazodva magában hordozza a képességfejlesztésre fordítható hosszabb időkeretet is.
+Másrészt orientáló, figyelemfelhívó szerepe van. Meghatározza, hogy az adott képzési szakaszban mely tanulói
+tevékenységek, mely elemi ismeretek szükségesek, ezeket milyen szinten kívánatos elsajátítani ahhoz, hogy a
+következő elemek erre ráépülhessenek, és az értelmi fogyatékos tanuló képes legyen a következő képzési
+szakasz tartalmával, tevékenységrendszerével eredményesen megbirkózni.
+Az elvárható követelmény a fejlesztési feladattal, a kiemelt habilitációs/rehabilitációs célokkal egységben
+értelmezhető.
+A kerettanterv célja és feladata
+a) A bevezető szakasz célja átvezetni a gyermekeket az óvodai játékközpontú tevékenységből az iskolai
+tanulás tevékenységeibe.
+Feladatai:
+Olyan fejlettségi szintre hozni a tanuláshoz nélkülözhetetlen pszichikus funkciókat – a gyógypedagógia
+eszközrendszerével, módszereivel, terápiával –, hogy a tanuló az alapvető kultúrtechnikák elsajátítására
+a sérülésnek, az állapotnak megfelelő idő biztosítása mellett felkészült legyen.
+Fogékonnyá, befogadóvá tenni a környezet, a közvetlen megtapasztalható természet és a társas
+kapcsolatok iránt.
+Tág teret adni az életkornak, a fejlettségnek megfelelő gyermekjátéknak és mozgásnak.
+Felkelteni érdeklődést a tanulás iránt.
+b) A kezdő szakasz kiemelt célja a tanulási képességek intenzív fejlesztése.
+Feladatai:
+A kreativitásra, a tevékenységre való ösztönzés, amely fejleszti az alapvető képességeket és
+alapkészségeket.
+A tanulók személyisége érésének, önismeretük fejlődésének elősegítése a tanulási, viselkedési szokások
+elsajátításával, magatartási normák közvetítésével.
+A sérülésből, a fogyatékosságból eredő tanulási nehézségek leküzdésének, a jól működő funkciók
+továbbfejlődésének segítése individualizált programok, terápiák, differenciáló pedagógiai eljárások
+alkalmazásával.
+c) Az alapozó, a fejlesztő szakasz célja, hogy szerves folytatást biztosítson az előző szakaszokra alapozva.
+Feladatai:
+Az alapkészségek megerősödésének biztosítása a tanulói tevékenységek középpontba állításával, a
+gyakorlás, lehetőségeinek megteremtésével.
+A konkrét megtapasztaláson alapuló tudásgyarapítás erősítése a gondolkodási funkciók különböző
+sérülését, eltérő ütemű fejlődését figyelembe véve.
+A tantárgyi tartalmak, tevékenységek, feladatok, terápiás célú eljárások igazítása a fejlődés egyéni
+üteméhez, a módosult tanulási képességhez.
+
+A tanulók felkészítése az önálló életvitelre, és önálló munkavégzésre, a tanulói a képességkultúra
+fejlettségéhez igazodó szakiskolai továbbtanulásra, társadalmi beilleszkedésre.
+d) A megszilárdító szakasz 1
+A megszilárdító szakaszban elsődleges cél az előző képzési szakaszban folyó nevelés-oktatás tartalmi,
+szemléleti összehangolása, szintetizálása. Az önálló tanulás, a tájékozódási képesség, a tájékozottság, a
+pályaválasztási ismeretek és a munka világával való ismerkedés szélesítése, a döntési képesség erősítése.
+Feladatai:
+A tanuló sikeres továbbtanulási, szakmaelsajátítási lehetőségeinek kialakítása.
+Az önálló tanulás, a tájékozódási képesség, a tájékozottság, a döntési képesség erősítése.
+A társadalmi beilleszkedéshez szükséges szociális és cselekvési kompetenciák kialakítása, az önálló
+életvitelre való alkalmasság megszilárdítása.
+MŰVELTSÉGI TERÜLETEK ÉS TANTÁRGYAK VISZONYA
+Bevezető és kezdő szakasz (1–4. évfolyam)
+Tantárgyak – Szakaszok
+Bevezető szakasz Kezdő szakasz
+NAT műveltségi területek (részterületek)
+1. évfolyam 2. évfolyam 3. évfolyam 4. évfolyam
+Magyar nyelv és irodalom
+Ember és társadalom
+Magyar nyelv és irodalom Magyar nyelv és irodalom
+Matematika Matematika Matematika
+Informatika – Informatika
+Ember a természetben
+Ember és társadalom
+Környezetismeret Környezetismeret
+Ének-zene Ének-zene – tánc
+Művészetek
+Ének-zene – tánc
+Vizuális kultúra
+Rajz és kézművesség Rajz és kézművesség
+Életvitel és gyakorlati ismeretek
+Ember és társadalom
+Életvitel és gyakorlati ismeretek Életvitel és gyakorlati ismeretek
+Testnevelés és sport Testnevelés és sport Testnevelés és sport
+Alapozó és fejlesztő szakasz (5–8. évfolyam)
+Tantárgyak – Szakaszok
+Alapozó szakasz Fejlesztő szakasz
+NAT műveltségi területek (részterületek)
+5. évfolyam 6. évfolyam 7. évfolyam 8. évfolyam
+Magyar nyelv és irodalom
+Művészetek – dráma
+Magyar nyelv és irodalom – dráma Magyar nyelv és irodalom – dráma
+Élő idegen nyelv
+– Idegen nyelv
+1 Az iskolarendszer jelenlegi tagozódása miatt a megszilárdító szakasz az előzőktől csak formailag különül el. A gyógypedagógiai nevelésnek,
+fejlesztésnek egyik kiemelt feladata, hogy a nevelés–oktatás–képzés folyamatában szoros egységet teremtsen az alapozó, a fejlesztő és a megszilárdító
+képzési szakasz között.
+
+Tantárgyak – Szakaszok
+Alapozó szakasz Fejlesztő szakasz
+NAT műveltségi területek (részterületek)
+5. évfolyam 6. évfolyam 7. évfolyam 8. évfolyam
+Ember és társadalom
+(hon- és népismeret)
+Történelem és társadalmi ismeretek
+(hon- és népismeret)
+Történelem és társadalmi
+ismeretek
+(hon- és népismeret)
+Matematika Matematika Matematika
+Informatika Informatika Informatika
+Ember a természetben
+(hon- és népismeret)
+Természetismeret
+(hon- és népismeret)
+Természetismeret – Biológia,
+egészségtan
+Természetismeret – Fizika, kémia
+Földünk és környezetünk Földrajz Földrajz
+Ének-zene – tánc Ének-zene
+Művészetek
+Rajz és kézművesség
+(vizuális kultúra)
+Rajz és médiaismeret
+(mozgóképkultúra)
+Életvitel és gyakorlati ismeretek Életvitel és gyakorlati ismeretek Életvitel és gyakorlati ismeretek
+Testnevelés és sport Testnevelés és sport Testnevelés és sport
+Emberismeret, etika Osztályfőnöki Osztályfőnöki
+Megszilárdító szakasz (9–10. évfolyam)
+Tantárgyak – Szakaszok
+Megszilárdító szakasz
+NAT műveltségi területek (részterületek)
+9. évfolyam 10. évfolyam
+Magyar nyelv és irodalom
+Művészetek – dráma
+Magyar nyelv és irodalom – dráma
+Élő idegen nyelv –
+Ember és társadalom
+(hon- és népismeret)
+Történelem és társadalmi ismeretek
+(hon- és népismeret)
+Matematika Matematika
+Informatika Informatika
+Ember a természetben
+(hon- és népismeret)
+Természetismeret – Biológia, egészségtan
+Természetismeret – Fizika, kémia
+(hon- és népismeret)
+Földünk és környezetünk Földrajz
+Ének-zene – tánc
+Művészetek Rajz és kézművesség
+(vizuális kultúra)
+Életvitel és gyakorlati ismeretek
+Pályaorientáció
+Szakmai alapozás
+Testnevelés és sport Testnevelés és sport
+Emberismeret, etika Osztályfőnöki
+
+TANTÁRGYI RENDSZER ÉS ÓRASZÁMOK
+AZ ENYHE ÉRTELMI FOGYATÉKOS TANULÓK ÁLTALÁNOS ISKOLÁI
+SZÁMÁRA (1–8. évfolyam)
+Szakaszok – Évfolyamok
+Bevezető szakasz Kezdő szakasz Alapozó szakasz Fejlesztő szakasz
+Tantárgyak
+1.
+évfolyam
+2.
+évfolyam
+3.
+évfolyam
+4.
+évfolyam
+5.
+évfolyam
+6.
+évfolyam
+7.
+évfolyam
+8.
+évfolyam
+Magyar nyelv és
+irodalom
+7 7 7 7
+Magyar nyelv és
+irodalom – dráma
+5 4 4 4
+Élő idegen nyelv 1 1
+Matematika 4 4 4 4 4 4 4 4
+Informatika 0,5 1 1 1 1 1
+Környezetismeret 1,5 1,5 2 2
+Történelem és
+társadalmi ismeretek
+(hon- és népismeret)
+1,5 1,5 2 2
+Természetismeret 2 2
+Természetismeret –
+Fizika, kémia
+1,5 1,5
+Természetismeret –
+Biológia, egészségtan
+1,5 1,5
+Ének-zene 1 1
+Ének-zene – tánc 1 1 1 1 1 1
+Rajz és kézművesség 1 1 1 1 1 1
+Rajz és médiaismeret 1 1
+Földrajz 1,5 1,5 1,5
+Életvitel és gyakorlati
+ismeretek
+1 1 1 2,5 2,5 2,5 3 3
+Testnevelés és sport 3 3 2,5 2,5 2,5 2,5 2,5 2,5
+Osztályfőnöki 1 1 1 1
+Kötött óraszám 18,5 18,5 19 21 21,5 22,5 25 25
+Kötelező óraszám 20 20 20 22,5 22,5 22,5 25 25
+Szabadon tervezhető
+órák
+1,5 1,5 1 1,5 1 0 0 0
+
+TANTÁRGYI RENDSZER ÉS ÓRASZÁMOK AZ ENYHE ÉRTELMI FOGYATÉKOS TANULÓK
+ELŐKÉSZÍTŐ SZAKISKOLÁI ÉS A SPECIÁLIS SZAKISKOLÁK
+9–10. ÉVFOLYAMA SZÁMÁRA
+Szakaszok – Évfolyamok
+Megszilárdító szakasz
+Tantárgyak
+9. évfolyam 10. évfolyam
+Magyar nyelv és irodalom 4 4
+Történelem és állampolgári ismeretek 2 2
+Élő idegen nyelv 2 2
+Matematika 3 3
+Informatika 2 2
+Környezetismeret 0 0
+Természetismeret 0 0
+Természetismeret – Biológia, egészségtan 1 1
+Természetismeret – Fizika, kémia 2,5 2,5
+Földrajz 1,5 1,5
+Ének-zene 0 0
+Rajz és kézművesség 0 0
+Életvitel és gyakorlati ismeretek 0 0
+Pályaorientáció 2 0
+Szakmai alapozó 4,5 6,5
+Testnevelés és sport 2 2
+Osztályfőnöki 1 1
+Kötött óraszám 27,5 27,5
+Kötelező óraszám 27,5 27,5
+Szabadon tervezhető órák 0 0
+
+MAGYAR NYELV ÉS IRODALOM
+Óraszámok
+Szakaszok – évfolyamok
+Bevezető szakasz Kezdő szakasz Alapozó szakasz Fejlesztő szakasz Megszilárdító
+szakasz
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10.
+Heti
+óraszám
+7 7 7 7 5 4 4 4 4 4
+Éves
+óraszám
+259 259 259 259 185 148 148 148 148 148
+Témakörök ütemezése
+Témakörök
+Bevezető
+szakasz
+(1–2. évf.)
+Kezdő
+szakasz
+(3–4. évf.)
+Alapozó
+szakasz
+(5–6. évf.)
+Fejlesztő
+szakasz
+(7–8. évf.)
+Megszilárdító
+szakasz
+(9–10. évf.)
+Kommunikáció x x x x x
+Nyelvi ismeretek x x
+Nyelvtani ismeretek x x x
+Olvasás, szövegértés x x
+Olvasás, ismerkedés az
+irodalommal
+x
+Irodalomolvasás, tájékozódás az
+irodalmi kifejezésformákban
+x x
+Írás, íráshasználat x x
+Fogalmazási ismeretek,
+szövegértés, szövegalkotás
+x x x
+Dráma x x
+
+BEVEZETŐ ÉS KEZDŐ SZAKASZ
+(1–4. évfolyam)
+Célok
+– A kulturált nyelvi magatartás alapozása a nyelvi kommunikációhoz, társas együttműködéshez szükséges
+képességek fejlesztésével, a szövegértő képesség, olvasási készség megalapozásával.
+Feladatok
+– Az anyanyelv igényes köznyelvi formájának megismertetése, használata.
+– A tanuláshoz, önálló ismeretszerzéshez szükséges alapkészségek kialakítása.
+– A szépirodalmi művek befogadásának alapozása, az erkölcsi, esztétikai ítélőképesség fejlesztése. Az olvasás
+iránti igény felkeltése.
+– Az önismeret, az önkifejezés, az érzelemvilág formálása az anyanyelvi nevelés sajátos eszközeivel.
+– A nyelvi fejlődés zavarainak, hátrányainak kompenzálása, a személyiségzavarok enyhítése, a szocializáció
+segítése.
+– A beszédpercepció, beszédmegértés fejlesztése.
+– Érthető, megközelítőleg természetes ritmusú beszéd kialakítása.
+– A kommunikációs helyzetnek megfelelő szövegalkotás elsajátítása.
+– Egyre nagyobb önállóság elérése a mindennapi nyelvi érintkezés formuláinak alkalmazásában. Ösztönzés
+önálló véleményalkotásra.
+– A tanulók beszédének közelítése a köznyelvi kiejtés normáihoz.
+– A hangos és néma olvasás elsajátítása.
+– Szöveghű olvasásra törekvés.
+– Szövegértés fejlesztése.
+– Szövegértést bizonyító feladatoknál az önállóság megalapozása.
+– Az írás eszközszintű használatának kialakítása.
+– Az íráskészség fejlesztése.
+– A nyelvhasználat tudatosabbá tétele, zavarainak enyhítése.
+– A tanult helyesírási, nyelvhelyességi ismeretek alkalmazása.
+– A tanulók érzelemvilágának gazdagítása a műveltségi terület sajátos eszközeivel.
+– Jártasság az információkeresés technikáinak alkalmazásában.
+– Önállóság fejlesztése a könyvek, gyermeklexikonok használatában.
+– Ösztönzés a könyvtár használatára. Olvasási szokások kiépítése.
+– Az olvasás iránti érzelmi, gondolati érdeklődés felkeltése.
+– Nemzeti kultúránk hagyományainak megismertetése, az anyanyelv megbecsülésére nevelés.
+A tantárgy kiemelt habilitációs/rehabilitációs célja
+– A nyelvi készségek, képességek elsajátítását akadályozó pszichikai, fiziológiai funkciózavarok feltárása,
+diagnosztizálása.
+– A részképességek zavarainak korrigálása.
+– Az auditív és vizuális észlelés, figyelem, differenciálás, emlékezet fejlesztése, intermodalitás fejlesztése.
+– Beszédhibák javítása, helyes artikuláció kialakítása.
+– Beszédpercepció, beszédmegértés területén tapasztalható hiányosságok, lemaradások enyhítése.
+– Aktív, passzív szókincs gyarapítása.
+
+– Beszédkésztetés fokozása, beszédgátlások oldása.
+– A térbeli és síkbeli tájékozódás zavarainak enyhítése.
+– Finommozgások, az íráskoordináció területén tapasztalható hiányosságok korrigálása.
+– Gondolkodási képességek fejlesztése (analízis, szintézis, általánosítás, összehasonlítás, rendszerezés,
+csoportosítás).
+– A személyiségzavarok enyhítése, szociális képességek, kommunikációs képesség fejlesztése szituációs
+játékokkal, különféle terápiákkal, a konfliktusok kezelésének gyakoroltatásával.
+A tanulók értékelésének elvei
+Az értékelés
+– folyamatos, differenciált, személyre szóló, figyelembe veszi a tanuló sérülésspecifikumait, egyéni
+képességeit, önmagához mért fejlődését;
+– szempontjai között szerepet kap a tanuló tantárgyhoz való viszonya, érdeklődése, feladattudata, szorgalma,
+együttműködése, önállósága a feladatmegoldásban;
+– képet ad a nyelvi készségek, képességek, tantárgyi ismeretek elsajátításának szintjéről (a beszédmegértésről,
+a kommunikáció jellemzőiről, az olvasás, szövegértés szintjéről, az írás, helyesírás, a nyelvi, irodalmi
+ismeretek elsajátításáról);
+– előremutató, célja a fejlesztés, az egyéni segítségnyújtás;
+– kijelöli a fejlődéshez, továbbhaladáshoz szükséges feladatokat;
+– hozzájárul a tanuló önismeretének fejlődéséhez, az önelfogadáshoz.
+A szülő folyamatos szóbeli és szöveges írásbeli tájékoztatásában hangsúlyt kap a tanuló egyéni haladása.
+BEVEZETŐ SZAKASZ
+(1–2. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Kommunikáció
+Köznyelvi kiejtés, beszéd
+Szóbeli szövegalkotás
+Beszédtechnikai gyakorlatok. Beszédlégzés, helyes artikuláció, időtartam, hangsúly,
+hanglejtés, hangerő.
+A beszédhelyzetnek megfelelő kommunikáció.
+Kapcsolatteremtés: köszönés, bemutatkozás, megszólítás.
+Üzenet átadása.
+A nem verbális kommunikáció elemeinek megfigyelése.
+A mindennapi társas érintkezés nyelvi fordulatai.
+Mondatok tartalmi bővítése, pontosítása: ki?, mi?, hol?, mit?, mikor? kérdésekre
+válaszoló szavakkal.
+Dramatikus játékok, szituációs gyakorlatok a mindennapi élethelyzettel
+kapcsolatban.
+Szövegalkotás alapozása.
+Mondatok alkotása képsorról, eseményekről, élményekről.
+Időrend megállapítása.
+Egyszerű erkölcsi, esztétikai véleményalkotás mindennapi, különféle élményekről,
+tapasztalatokról. A szép–csúnya, jó–rossz, szomorú–vidám fogalompárok használata
+a beszélgetésekben.
+
+Témakör Tartalom
+Nyelvi ismeretek
+Helyesírás
+Nyelvi, nyelvtani jelenségek felismerése gyakorlati tudás alapján: hang, betű,
+szótag, szó, mondat, szöveg differenciálása.
+Beszédhangok felismerése szavakban. Az ábécé betűi.
+Magánhangzók, mássalhangzók időtartama, ejtésük, jelölésük írásban. Szótagolás.
+Mondatok, nevek helyesírása.
+A „j” hang kétféle jelölése a tanult szavakban.
+Olvasás, szövegértés
+Olvasási képesség
+Az olvasás jelrendszere, technikája a választott módszernek megfelelően.
+A tanult betűk összeolvasása, szótagolás, szóképes olvasás.
+Értő olvasás a tanult betűkre szerkesztett szavakon, szövegeken. Versek, mesék
+olvasása.
+Szövegértést bizonyító feladatok megoldása (jelölés, egyeztetés, kiegészítés,
+válaszadás, tartalom elmondása).
+Olvasmányok feldolgozása irányítással.
+Egyszerű ítéletalkotás az olvasmányok szereplőiről, magatartásukról.
+A szép–csúnya, jó–rossz, igazságos–igazságtalan fogalompárok használata az
+olvasottak feldolgozása során.
+Versek, mesék hangulatának felismerése (szomorú–vidám).
+Versek, mesék, mondókák, nyelvtörők, közmondások.
+Népi játékok dramatizált formái, mesék (részletek) dramatizálása.
+A vers jellemző jegyeinek megfigyelése (versszakok, rímek, rímelő szavak
+keresése).
+Írás, íráshasználat Vonalvezetési gyakorlatok. Betűelemek, betűk alakítása, kapcsolása.
+Füzethasználat. Írás vonalrendszerbe.
+Az írás jelrendszere.
+Szavak, mondatok, rövid szövegek másolása írottról, nyomtatottról. Betűk
+tollbamondása.
+Szavak, mondatok írása tollbamondás után, emlékezetből, előkészítéssel. Feladatok
+megoldása íráshasználattal.
+Önellenőrzés.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+– Gyakorlatok a beszédtechnika fejlesztésére (artikuláció, hangerő, ritmus, hangsúly)
+= Térbeli tájékozódás fejlesztése.
+= Tájékozódási gyakorlatok (térben, síkban, testen, irányok megfigyelése).
+= Térbeli helyzetek megfogalmazása.
+– Kommunikációs képességek fejlesztése
+= A mindennapi társas érintkezésben, játékos szituációs gyakorlatokban a helyzethez alkalmazkodó
+kommunikációs formák alkalmazása (köszönés, megszólítás, kérdezés, válaszadás, üzenet átadása).
+= Szóbeli szövegalkotási képesség fejlesztése.
+= Eseményekről, képekről mondatok alkotása időrend betartásával.
+– Szókincsbővítés
+= A megismert új kifejezések használata, szógyűjtések, mondatok bővítése.
+= Az olvasás, írás elsajátításának háttérképességeit fejlesztő gyakorlatok (vizuális, auditív percepció,
+figyelem, differenciálás, emlékezet fejlesztése).
+
+= Hanganalízis, betűk felismerése, hangoztatása, differenciálása, rendezésük, válogatásuk adott szempont
+alapján irányítással vagy differenciáltan önálló és csoportos feladatmegoldással.
+– A hangos olvasás technikájának fejlesztése változatos gyakorlatokkal (párbeszédes olvasás, válogató olvasás
+adott szempontok szerint).
+– Szövegértő képesség fejlesztése
+= Némán olvasott szövegek megértésének bizonyítása feladatmegoldással, változatos tanulásszervezési
+formákban (egyeztetés, kiegészítés, kiemelés, válaszadás, tartalomelmondás irányítással, önállóan).
+– Finommozgások, vizuomotoros koordináció fejlesztése
+= Betűelemek, betűk vázolása, írása.
+= Másolás írottról, nyomtatottról, tollbamondás, írás emlékezetből.
+– A tanult nyelvi fogalmak felidézésének, alkalmazásának képessége
+= Gyakorlatok a mondatok, nevek helyesírására, hangok időtartamának jelölése, a j–ly használata a tanult
+szavakban.
+– Önellenőrzési képesség fejlesztése. Hibajavítás segítséggel.
+= Ismeretszerzési képességek, az önálló tanulás alapozása.
+= Ismeretek, adatok gyűjtése irányítással.
+= Önállóság fejlesztése az írásos információhordozók (pl. gyermeklexikonok) használatában.
+2. Általános képességek fejlesztése
+– Gondolkodási funkciók, műveletek fejlesztése (megfigyelés, összehasonlítás, elemzés, általánosítás,
+rendezés, csoportosítás).
+– Tartós figyelem, koncentráció, térbeli tájékozódás, mozgáskoordináció fejlesztése.
+– Az önálló ismeretszerzés alapozása.
+– Önismeret, önértékelés formálása. Együttműködési készség, szociális képességek fejlesztése.
+A szakasz végére elvárható követelmények
+– A tanuló tudjon beszélgetésekbe bekapcsolódni.
+– Alkalmazza a tanult nyelvi formákat a mindennapi kommunikációs helyzetekben.
+– Törekedjen gondolatainak összefüggő kifejezésére.
+– Legyen képes adott témában 4-5 mondat alkotására.
+– Törekedjen a megismert helyesírási szabályok alkalmazására.
+– Ismerje a „j” hang kétféle jelölését a gyakorolt szavakban.
+– Tudjon 1-2 mondatos véleményt megfogalmazni az olvasott, hallott szövegben szereplők magatartásával
+kapcsolatban.
+– Tudjon szavakat, rövid mondatokat másolni írottról, nyomtatottról előkészítéssel, 3-4 betűből álló szavakat
+tollbamondás után leírni előkészítéssel.
+
+KEZDŐ SZAKASZ
+(3–4. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Kommunikáció
+Beszéd
+Beszédtechnikát fejlesztő gyakorlatok (hangsúly, hanglejtés, hangerő, hangerőváltás,
+ritmus.
+Kiejtési tréningek (kiejtéstől eltérő hangkapcsolatok, hosszú mássalhangzók helyes
+ejtése).
+Bekapcsolódás beszélgetésekbe. Saját vélemény megfogalmazása.
+A társas érintkezés alapvető formáinak helyzethez illő alkalmazása.
+A nem verbális kommunikáció (gesztus, mimika) néhány elemének megfigyelése,
+alkalmazása.
+Beszédhelyzetnek megfelelő szövegalkotási gyakorlatok.
+Különféle mondatok használata a közlési célnak, szándéknak megfelelően.
+Mindennapi élmények, mozgóképélmények, olvasottak tartalmának elmondása.
+Saját vélemény megfogalmazása.
+Szókincsbővítő gyakorlatok.
+Fogalmazási alapismeretek: az anyaggyűjtés módja, címadás, lényegkiemelés,
+tömörítés.
+Ismert szövegek megjelenítése dramatizálással.
+Szituációs játékok.
+Nyelvi ismeretek, helyesírás Az ábécé ismerete. Magánhangzók, mássalhangzók.
+Betűrend, szótagolás, elválasztás. Szavak jelentése.
+Szófaji ismeretek (ige, főnév, melléknév, számnév).
+A szó szerkezete (szótő, toldalék).
+Szavak elválasztása.
+Toldalékok és helyesírásuk.
+Kiejtéstől eltérő hangkapcsolatok jelölése.
+J–ly a tanult szavakban.
+Magánhangzók, mássalhangzók időtartamának jelölése.
+Mondat szavakra tagolása.
+Mondatfajták a beszélő szándéka szerint.
+Mondatok helyesírása. Tulajdonnevek, földrajzi nevek.
+A tanult nyelvtani szabályok, ismeretek alkalmazása tollbamondásnál, emlékezetből
+írásnál segítséggel, irányítással vagy önállóan.
+Olvasás, szövegértés
+Olvasási képesség
+Szóképes, folyamatos hangos olvasás.
+A hangos olvasás technikáját fejlesztő gyakorlatok.
+Hangsúly, hangerő, hanglejtés érzékeltetése.
+Néma olvasás után szövegértést bizonyító feladatok megoldása (tartalom, elmondás,
+válaszadás kérdésekre, jelölés, kiegészítés, egyeztetés).
+Véleményformálás, ítéletalkotás az olvasmányok szereplőiről, magatartásukról.
+Tapasztalatszerzés információk gyűjtéséről. Az ismeretszerzés technikái.
+Könyv- és könyvtárhasználat, verbális és képi információk.
+Tartalomjegyzék.
+Gyermeklexikonok használata.
+Irodalmi ismeretek Népköltészet – népdalok, népmesék, szólások, közmondások, találós kérdések. Népi
+játékok dramatizált formái.
+Elemi ismeretek írókról, költőkről, művekről.
+Próza és vers.
+A mesék jellemzői.
+Írás, íráshasználat Írástechnikát fejlesztő gyakorlatok. Másolás, írás tollbamondás után, emlékezetből.
+Gyakorlatok az írás eszközszintű használatára.
+Mondatalkotás néhány mondat összekapcsolásával.
+Szövegalkotás.
+Címadás, szövegrendezés, önellenőrzés, hibajavítás.
+
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+– Kommunikációs képességek fejlesztése.
+= Beszédtechnikai gyakorlatok (artikuláció, hangerő, hangsúly, hanglejtés, ritmus).
+= Szövegalkotási képesség fejlesztése.
+= Szituációkhoz kapcsolódó nyelvi formulák alkalmazása.
+= Eseményekkel, élményekkel kapcsolatban vélemény megfogalmazása.
+– Vizuális és auditív figyelem, dramatizáció, emlékezet fejlesztése.
+– Gondolkodási műveletek – elemzés, általánosítás, összehasonlítás, rendezés, csoportosítás gyakorlása
+változatos tanulásszervezési formákban (irányítással, önállóan, csoportmunkában).
+= Hangok, betűk különböző szempontú csoportosítása.
+= Szavak elemeikre bontása (szótő, toldalék).
+= Szótagolás, elválasztás.
+= Gyakorlatok a kiejtéstől eltérő hangkapcsolatok jelölésére.
+= Szavak csoportosítása jelentésük, szerkezetük alapján.
+= Mondatok tagolása, átalakítása (szűkítés, bővítés).
+= Mondatfajták felismerésének gyakorlása.
+= Mondatok csoportosítása a beszélő szándéka szerint.
+= A grammatikai szintekhez kapcsolódó helyesírási gyakorlatok.
+– Önellenőrzési képesség fejlesztése.
+= Hibajavítás.
+= Vizuális, auditív figyelem, emlékezet.
+= Íráskoordináció, finommotorika fejlesztése másolással, tollbamondással, emlékezetből való írással.
+= Az eszközszintű íráshasználat kialakítása feladatmegoldással.
+– Írásbeli szövegalkotási képesség fejlesztése.
+= Néhány mondatból álló írásbeli szövegek alkotásának gyakorlása.
+– Szövegértés fejlesztése változatos gyakorlatokkal, többféle tanulási szervezési formában.
+– Együttműködés a társakkal csoportmunkában.
+= Megértést bizonyító feladatok megoldása irányítással, önállóan.
+= Tények, adatok kiemelése, kiegészítés, válaszadás, tartalom elmondása.
+= Szövegelemző feladatok, szöveg átalakítása kérdések segítségével.
+= Címadási gyakorlatok. Lényegkiemelés, tömörítés.
+– Olvasási technika fejlesztése.
+= Gyakorlatok a helyes hangerő, hangsúly, hanglejtés alkalmazására.
+= Szöveg bemutató olvasása, gyorsolvasó gyakorlatok, párbeszédes olvasás, válogató olvasás.
+= Vers, próza jellemző jegyeinek megfigyelése, felismerése.
+= Rímelő szavak keresése, rímek pótlása.
+= Vers- és prózamondás, dramatizálás.
+= A mese jellemző jegyeinek megfigyeltetése.
+
+= Az irodalmi művek, olvasmányok megértését, befogadását segítő készségek, képességek (empátia,
+szereplőkkel való érzelmi azonosulás képessége, fantázia) fejlesztése.
+= Állásfoglalás, véleményalkotás gyakorlása.
+– Együttműködés a társakkal dramatizálásnál, szituációs játékokban.
+– Az önálló ismeretszerzés képességének alapozása.
+= Az önálló ismeretszerzés lépéseinek megtapasztalása.
+= Információkereső technikák gyakorlása irányítással, önállóan, csoportmunkában.
+= Gyakorlatok a gyermeklexikonok használatában való jártasság kialakítására.
+2. Általános képességek fejlesztése
+– Vizuális, auditív figyelem, emlékezet fejlesztése.
+– Gondolkodási képességek fejlesztése.
+– Az önálló ismeretszerzés alapozása.
+– Esztétikai, erkölcsi ítéletalkotás, kritikai érzék fejlesztése.
+– Önismeret, énkép formálása.
+– Szociális képességek fejlesztése (együttérzés, empátia).
+A szakasz végére elvárható követelmények
+– A tanuló legyen képes a mindennapi érintkezésben a kommunikációs helyzetnek megfelelő, néhány
+mondatos szöveg alkotására, véleményének egyszerű közlésére.
+– Tudjon kérdést feltenni, válaszolni, egyszerű üzenetek átadásában közreműködni.
+– Ismerje saját személyi adatait.
+– Legyen képes segítséggel ismeretek, információk gyűjtésére.
+– Tudja az olvasott történetek, mesék szereplőiről, magatartásukról véleményét röviden megfogalmazni.
+– Ismerje a tanult nyelvtani fogalmakat (mondatfajták, szófajok, magánhangzók, mássalhangzók, betűrend,
+szótagolás).
+– Legyen képes felkészülés után egyenletes tempóban olvasni. Tudjon az olvasottakról beszámolni.
+– Törekedjen arra, hogy írásképe rendezett, olvasható legyen.
+– Legyen képes előkészítés után tollbamondással 4-5 mondat leírására.
+– Legyen képes alkalmazni a gyakorolt helyesírási szabályokat – előkészítés mellett alkalmazza a
+mondatkezdő nagybetűt, a mondatvégi írásjeleket.
+– Legyen képes 3-4 mondóka vagy vers elmondására.
+– Ismerje a vers és a próza közötti különbséget.
+– Tudjon szöveghűen elmondani emlékezetből 3-4 verset.
+ALAPOZÓ ÉS FEJLESZTŐ SZAKASZ
+(5–8. évfolyam)
+Célok
+– A későbbi tanulmányokhoz szükséges és a felnőtt életben használandó olvasni és írni tudás (szövegértés és
+szövegalkotás) gondozása és továbbfejlesztése, melynek célja a beszédkultúra, az önkifejezést segítő
+kommunikáció kialakítása.
+
+– Olyan nyelvi integráció kialakítása a nyelvhasználatban, amely lehetővé teszi a biztonságos, az egyénre
+jellemző nyelvhasználati gyakorlat kialakulását.
+– A helyes erkölcsi, esztétikai érzék formálása, a személyiség gazdagítása az olvasott irodalmi műveken
+keresztül.
+Feladatok
+– A kultúrához hozzásegítő, valamint a nemzeti hovatartozás érzését alakító anyanyelvi képességeknek,
+készségeknek a továbbfejlesztése.
+– A tanuló ön- és emberismeretének gazdagítása.
+– A társas nyelvhasználati, fogalmi, gondolkodásbeli, érzelmi, ízlésbeli, erkölcsi műveltség továbbépítése.
+– A szövegalkotási és a szövegértési képesség folyamatos fejlesztése.
+– Önbizalom-növelő, az önismeretet elősegítő neveléssel a játékosság és az alkotóképesség fejlesztése.
+– A tanulók bevezetése az irodalmi szövegek feldolgozásával a magyar nyelv rendszerébe.
+– Az információszerzés, az információk rögzítésének segítése.
+– Hozzájárulás az aktív szókincs folyamatos gyarapításához, a választékos kifejezésmód elsajátíttatásához.
+– Az alkalmazkodó képesség formálása: szituációhoz, témához, beszédpartnerhez.
+– A rendszeres olvasási igény kiépítése az olvasási szokások kialakításával.
+– Képzeletvilág gazdagítása, differenciáló és lényegkiemelő képesség fejlesztése.
+– Helyesírási ismeretek bővítése az előírt normák eléréséért.
+– A szófajok és a mondatrészek körében elsajátított ismeretek analizálása, szintetizálása.
+– A közösségi kommunikációban történő biztonságos eligazodás segítése.
+– A különböző műfajú és tematikájú művek elemzésében való tájékozottság bővítése.
+– A nemzeti azonosságtudat fejlesztése.
+– A más tantárgyak tanulása során elsajátított ismeretek alkalmazásának fejlesztése.
+A tantárgy kiemelt habilitációs, rehabilitációs célja
+– A beszédindíték, beszédkedv fokozása, a nyelvi/kifejezésbeli gátlások leküzdése.
+– A különböző kommunikációs helyzeteknek megfelelő, tartalmilag és formailag is helyes beszéd
+megerősítése.
+– A beszédfonetikai eszközök helyes használatának tudatosítása az olvasás és a beszéd során.
+– A szókincs gyarapítása, aktivizálása.
+– A szövegértés, szövegelemzés képességének fejlesztése (lényegkiemelés, differenciálás, összehasonlítás).
+– A véleményalkotó képesség, a kulturált vitakészség fejlesztése.
+– Az emlékezet, a figyelem, a megfigyelőképesség fejlesztése prózai, illetve verses részletek megtanulásával.
+– A nyelvi/nyelvhasználati zavarok korrigálása, megszüntetése.
+– A nyelvhelyességi és helyesírási szabályok szóbeli és írásbeli alkalmazásának gyakorlása.
+– Az írásbeli szövegalkotás fejlesztése.
+A tanulók értékelésének elvei
+Az értékelés
+– folyamatos, differenciált, személyre szóló, figyelembe veszi a tanuló sérülésspecifikumait, egyéni
+képességeit, önmagához mért fejlődését;
+– szempontjai között szerepet kap a tanuló tantárgyhoz való viszonya, érdeklődése, feladattudata, szorgalma,
+együttműködése, önállósága a feladatmegoldásban;
+
+– képet ad a nyelvi készségek, képességek, tantárgyi ismeretek elsajátításának szintjéről (beszédmegértés, a
+kommunikáció jellemzőiről, az olvasás, szövegértés szintjéről, az írás, helyesírás, a nyelvi, irodalmi
+ismeretek) elsajátításáról;
+– előremutató, célja a fejlesztés, az egyéni segítségnyújtás;
+– kijelöli a fejlődéshez, továbbhaladáshoz szükséges feladatokat;
+– hozzájárul a tanuló önismeretének fejlődéséhez, az önelfogadáshoz.
+A szülő folyamatos szóbeli és szöveges írásbeli tájékoztatásában hangsúlyt kap a tanuló egyéni haladása.
+ALAPOZÓ SZAKASZ
+(5–6. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Kommunikáció
+Köznyelvi kiejtés
+Beszéd
+Helyes légzéstechnika, artikuláció.
+Ritmusgyakorlatok.
+Időtartam, hangkapcsolatok ejtése, szünet.
+Mindennapi beszédhelyzeteink: kapcsolatfelvétel, szándék- és véleménynyilvánítás,
+az elemi udvariassági formák ismerete és alkalmazása.
+Szógyakorlatok a beszédkultúra továbbfejlesztésére. Légzéstechnikai ismeretek
+alkalmazása beszédben.
+Kommunikációs helyzetgyakorlatok.
+A tantárgyi szaknyelv használata.
+Nyelvtani ismeretek A hangképzés, a beszédhangok.
+Magánhangzók.
+Mássalhangzók.
+A szavak szerkezete: szótő, toldalék; egyszerű, összetett szó.
+Az elválasztás szabályai.
+Szavak csoportosítása jelentéstartalmuk alapján.
+Ige, igekötő, főnév, névelő, melléknév, számnév.
+Nyelvi egységek közötti egyszerűbb összefüggések.
+Nyelvhelyességi tudnivalók.
+Helyesírás Kiejtéstől eltérő hangkapcsolatok jelölése.
+Írásjelek a mondatok végén.
+Helyesírási alapelvek. Betűrend.
+Mondatfajták a beszélő szándéka szerint.
+Tulajdonnevek írása.
+Szóvégi magánhangzók írása főnevekben, melléknevekben.
+Fokozott és képzett melléknevek helyesírása.
+Postai űrlapok kitöltése.
+Helyesírási kézikönyvek, szótárak használata.
+Fogalmazási ismeretek,
+szövegértés, szövegalkotás
+Szövegszerkesztés különféle közlésformákban, közlésmódban:
+– elbeszélés,
+– leírás,
+– jellemzés,
+– tömörítés.
+
+Témakör Tartalom
+Az anyaggyűjtés és
+-elrendezés alapjai
+Szövegelemzés különböző irodalmi műfajokban.
+Lényegkiemelés.
+Nyelvi megformálás, vélemény megfogalmazása, választékos szóhasználat olvasott
+vagy átélt élményről.
+A humor szerepe a mindennapokban és a műalkotásokban.
+A jó és a rossz, az igazság és az igazságosság megjelenítése néhány műben.
+Olvasás, ismerkedés az irodalommal Népköltészet.
+Népdalok, népmesék a klasszikus magyar és európai irodalomból (Benedek Elek,
+Arany László, Andersen, Grimm, La Fontaine).
+Válogatás a népmondák köréből.
+A Biblia. Bibliai történetek.
+A népballada (Kádár Kata, Kőmíves Kelemen).
+Gyermekekről szóló elbeszélések (Móra Ferenc, Gárdonyi Géza).
+Dramatizálás.
+Egy ifjúsági regény részlete.
+Kuruc költészet, végvári énekek.
+Magyar költők, írók.
+– Petőfi Sándor élete, versei, János vitéz.
+A regény és az elbeszélés.
+– Gárdonyi Géza: Egri csillagok (részlet),
+– Fekete István, Lázár Ervin egy-egy művéből választott egy-egy részlet.
+Dráma Drámajátékok
+Érzékelő, ritmus- és fantáziagyakorlatok.
+Rövid mesék, versek.
+Életjátékok, dramatikus improvizáció.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– Kommunikációs készségek fejlesztése.
+– Beszédtechnikai készség, szövegszerkesztési képesség fejlesztése.
+– A mindennapi érintkezés helyzeteinek és szóhasználatának megfigyelése, megjelenítése, a kulturált
+viselkedési formák, illemszabályok elsajátítása.
+– Beszédtechnikai és fonetikai gyakorlatok.
+– Nyelvtani, helyesírási ismeretek alkalmazása, önellenőrzés, hibajavítás fokozódó önállósággal. A tudatos
+nyelvhasználat fejlesztése.
+– Különböző szövegek néma és hangos olvasása.
+– Helyesírási gyakorlatok: szókészlet, a helyesírási segédkönyvek alapján (másolás, diktálás utáni írás, példák
+gyűjtése adott szempontok szerint).
+– A szövegtagolás, a lényegkiemelés, az időrendiség, a tömörítés gyakorlása.
+– Vélemény megfogalmazása – szóban és írásban – az olvasott szövegek szereplőinek cselekedeteiről,
+nézeteiről.
+– A beszédkultúra továbbfejlesztése: együttműködés a társakkal beszélgetésben, vitában, feladatmegoldásban.
+– Társas kapcsolatok fenntartására irányuló képesség.
+– A tanult nyelvtani fogalmak, szófajok gyűjtése irodalmi szövegből.
+– Könyvtári ismeretek az életkori sajátosságoknak megfelelően. Adatok rendszerezése – segítséggel.
+– Gyermeklexikonok, kézikönyvek megismerése, használata irányítással.
+– Erkölcsi, irodalmi értékek felfedeztetése (gyerekek–felnőttek viszonya, szeretet, féltés, próbatételek,
+hősiesség) az olvasott művek alapján.
+
+– Levélírás, boríték címzése, postai űrlapok kitöltése, feladása postán.
+– Szövegszerkesztési képességek fejlesztése.
+– A leírás, jellemzés, elbeszélés gyakorlása más tantárgyakból vett tárgyakról, személyekről, jellemzőik
+megfogalmazásával – segítséggel.
+– Gyakorlatok az írásmód tempójának és rendezettségének, a helyesírási biztonságnak továbbfejlesztésére.
+– A differenciáló, összehasonlító képesség fejlesztése. A verbális emlékezet. Az empátia.
+– Beszámoló átélt vagy olvasói élményről szóban, írásban, rajzban.
+– Dramatizált, szituációs játékok.
+A szakasz végére elvárható követelmények
+– A tanuló beszéljen tisztán, érthetően, alkalmazza a beszédfonetikai eszközöket.
+– Legyen képes eligazodni a mindennapi kommunikációs helyzetekben.
+– Tartsa be a viselkedési és illemszabályokat.
+– Legyen gyakorlott egyszerű helyzetekben az önálló véleménynyilvánításban.
+– Ismerje fel a kérdőszavak alapján a tanult szófajokat, és igyekezzen fokozott önállósággal alkalmazni az
+ezekhez kapcsolódó nyelvtani szabályokat.
+– Ismerje fel a tanult irodalmi és fogalmazási műfajokat, tudjon egy-egy rövid mesét, verset elmondani.
+– Legyen képes szóban és írásban – az olvasott vagy átélt – élmények közlésére adott szempontsor szerint.
+– Tudjon írásbeli munkát készíteni – előkészítés után, segítséggel – a tanult műfajokban, a szövegszerkesztés
+szabályainak alkalmazásával, irányítás mellett.
+– Olvasson az osztályfoknak megfelelő jó tempóban, értelmesen, elemezze irányítással tartalmi és formai
+szempontból az olvasottakat.
+– Legyen képes – irányítással – a megismert irodalmi szövegekben a lényeg kiemelésére és a szöveg
+tömörítésére, elemzésére.
+– Vegyen részt aktívan dramatizálásban, gyűjtőmunkában.
+– Ismerje fel a tanult irodalmi művekben a pozitív és negatív hősöket, tudjon véleményt nyilvánítani
+– irányítással – a művekkel kapcsolatban.
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Kommunikáció
+Beszédművelés
+Beszédgyakorlatok: hangsúly, mondat- és szövegfonetika.
+Kommunikációs helyzetgyakorlatok a kulturált viselkedés, a tanult illemszabályok
+gyakorlására.
+Testbeszéd, arcjáték, szemkontaktus.
+Beszédtechnikai és szerkesztési ismeretek különböző stílusrétegekben (vita,
+állásfoglalás, érvelés, cáfolás, a konfliktusok feloldásának nyelvi eszközei).
+Tömegkommunikáció Kommunikációs helyzetekben való viselkedés.
+Tömegkommunikációs nyelv. Újság, rádió, TV.
+Tömegkommunikációs műfajú szövegek alkotása.
+Nyelvtani ismeretek
+Nyelvhelyességi ismeretek
+A szófaj fogalmi körének bővítése (névszó, névmás, határozószó, névutó, kötőszó).
+A mondat szerkezete.
+Fő mondatrészek és bővítményeik.
+Mondatelemzés.
+
+Témakör Tartalom
+Helyesírás A magyar helyesírás elvei szerinti írásmód.
+A tanult szófajokban a kiejtéstől eltérő hangkapcsolatok jelölése.
+Ragozott és képzett szavak helyesírása.
+A mondattanhoz kapcsolódó helyesírási ismeretek.
+Helyesírási kézikönyvek használata.
+Fogalmazási ismeretek, szövegértés,
+szövegalkotás
+Szövegalkotás különböző műfajokban.
+Az elbeszélő fogalmazás
+− olvasott műből, élmény alapján,
+− anyaggyűjtési módok felhasználásával.
+Leírás fokozott önállósággal.
+Levélírás. Irodalmi mű szerkezeti felépítése.
+Stílusfejlesztő gyakorlatok.
+Vázlat alapján különböző műfajú szövegek alkotása.
+Irodalomolvasás, tájékozódás az
+irodalmi kifejezésformákban
+Szépirodalmi és nem szépirodalmi szövegek jelentései.
+Népballada – műballada.
+Műköltészet:
+− Arany János (élete, versei, Petőfi – Arany levelezése, Toldi).
+Olvasmányok az elbeszélő irodalom köréből (magyar- és világirodalom):
+– Mikszáth Kálmán,
+– Móricz Zsigmond elbeszélései. Légy jó mindhalálig ( részlet – A pakk),
+– Molnár Ferenc: A Pál utcai fiúk,
+– a cselekmény tagolódása,
+– lényegkiemelés, ok-okozati kapcsolatok,
+– irodalmi alakzatok felismerése.
+A reformkor:
+– Kölcsey Ferenc, Vörösmarty Mihály,
+– Jókai Mór: A kőszívű ember fiai (részlet),
+Tegnapjaink. A Nyugat nemzedéke: válogatás Kosztolányi Dezső, Babits Mihály,
+Szabó Lőrinc, Tóth Árpád, Juhász Gyula műveiből.
+Napjaink. Történetek a gyermekkorról. (Válogatás a magyar és a világirodalomból.)
+Az irónia és a gúny.
+Dráma Jellemábrázolás hanggal és metakommunikatív úton.
+Improvizációk bábok alkalmazásával.
+Mozgásimprovizációk és gyakorlatok:
+– némajátékok,
+– pantomimes gyakorlatok,
+– jellemábrázolások.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– Együttműködés a beszédpartnerekkel. Gyakorlatok a vitakultúra fejlesztésére.
+– Irodalmi olvasmányokhoz, mindennapi élethelyzetekhez kapcsolódó véleményalkotás, -nyilvánítás.
+– Szövegelemzés, a tanult nyelvi egységekről tanultak szintetizálása.
+– A mindennapi vagy irodalmi témákról ismeretek, példák gyűjtése a könyvtári katalógus, tartalomjegyzékek,
+prospektusok segítségével. A gyűjtött anyag válogatása, feldolgozása önállóan vagy csoportmunkában.
+– Tájékoztató és véleményformáló tömegkommunikációs műfajok gyűjtése, elkülönítése, ismertetése,
+készítése irányítással (cikk, hír, tudósítás, riport, hirdetés, reklám, glossza).
+– A gyakoribb tömegkommunikációs műfajok elemzése, értékelése.
+– Helyesírási, mondattani és nyelvhelyességi ismeretek alkalmazása a szóbeli és írásbeli
+megnyilatkozásokban, komplex elemzési gyakorlatok a szótan, mondattan körében.
+
+– Táblázatok, ábrák, rajzos útmutatók, felelettervek készítése a tanult nyelvtani, szövegtani, irodalmi műfaji és
+kifejezőeszközbeli ismeretek rendszerezésére.
+– Beszámoló szóban, írásban az olvasott műről, látott vagy átélt élményről.
+– Elbeszélés, leírás, jellemzés, levélírás fokozott önállósággal.
+– Példák keresése a történelemnek az irodalomra gyakorolt hatásáról.
+– Összehasonlítások a hasonló műfaji jellemzők, a szerkezeti felépítés, a nyelvi kifejezések összevetésével.
+– Önálló szókincsgyűjtés lexikonokban, szótárakban.
+– Az olvasott szövegek mögöttes jelentéseinek tudatos keresése, önálló megfogalmazása, képi, zenei
+megjelenítése a társművészetek forrásainak felhasználásával.
+– A művészi kifejezésmódok, stíluseszközök funkcióinak megfigyelése, értelmezése.
+– Érzelmek, magatartások, jellemek, kapcsolatok, indítékok önálló bemutatása, például a jellemzés, az
+ismertetés műfajában.
+– Tanulást, információgyűjtést segítő könyvek használata.
+– Korokhoz kötődő témák, problémák meglátása irodalmi művekben.
+A szakasz végére elvárható követelmények
+– A tanuló legyen tájékozott az alapvető tömegkommunikációs helyzetekben és műfajokban.
+– Ismerje fel a tömegkommunikáció szerepét és hatását.
+– Tartsa tiszteletben mások véleményét.
+– Ismerje fel a nyelvi szövegben a tanult hangtani, szó- és alaktani, mondattani jelenségeket.
+– Legyen képes a helyesírási segédkönyvek eszközszintű használatára.
+– Rendelkezzen olvasható írásmóddal. Tudjon önállóan 7–8 mondatban beszámolni irodalmi, film- és színházi
+élményeiről szóban és írásban.
+– Vegyen részt aktívan a közös dramatikus játékokban és az azokat elemző beszélgetéseken.
+– Olvasónaplóban, feljegyzés, vázlat, jellemzés vagy elbeszélés formájában tudja az olvasott művekben
+megjelenített emberi problémákat, kapcsolatokat, élethelyzeteket, erkölcsi kérdéseket megnevezni,
+bemutatni.
+– Legyen tájékozott a tanult irodalmi kifejezésformák felismerésében és megnevezésében.
+– Legyen képes kitölteni, megírni a mindennapi élet alapvető, egyszerűbb hivatalos iratait (feladóvevény,
+pénzesutalvány, csekk, hivatalos levél, kérvény).
+– Ismerje fel ezek formai követelményeit, tudjon tájékozódni a kitöltés módjáról.
+– Fejlettségi szintjének megfelelően legyen képes felfogni a tömegkommunikációs eszközök lényegi
+mondanivalóját, tudjon ezekhez viszonyulni.
+– Legyen képes egy-egy film – irányítás melletti – elemzésére.
+– Ismerjen néhány hazai és külföldi filmművészeti alkotást.
+MEGSZILÁRDÍTÓ SZAKASZ
+(9–10. évfolyam)
+Célok
+– A későbbi tanulmányokhoz szükséges és a felnőtt életben használandó olvasni és írni tudás (szövegértés és
+szövegalkotás) gondozása és továbbfejlesztése, melynek célja a beszédkultúra, az önkifejezést segítő
+kommunikáció kialakítása.
+– Olyan nyelvi integráció kialakítása a nyelvhasználatban, amely lehetővé teszi a biztonságos, az egyénre
+jellemző nyelvhasználati gyakorlat, a nyelvi igényesség kialakulását.
+
+– A helyes erkölcsi, esztétikai érzék formálása, normák megerősítése.
+– Megfelelő önkifejezés megteremtése, a kommunikációs és tömegkommunikációs ismeretek szintetizálása.
+Feladatok
+– Az irodalom, a művészet önismereti, az önmegértést és önmeghatározást elősegítő lehetőségeinek
+tudatosítása.
+– Felkészítés a társas-társadalmi együttéléshez szükséges nyelvi képességekre, beállítódásokra, a kulturált
+nyelvi magatartásra.
+– Az ítélőképesség, az erkölcsi és esztétikai érzékenység növelése.
+– Az ismeretszerzés kulturált technikáinak megismertetése és használata.
+– A nyelvtani ismeretek rendszerezése, a helyesírási tudás megerősítése.
+– A korábban megszerzett kommunikációs és tömegkommunikációs ismeretek szintetizálása.
+– A kommunikációs, szövegértési és szövegalkotási képességek bővítése, továbbfejlesztése.
+– Az önállóság erősítése, kreativitásra ösztönzés a szövegalkotásban.
+– Az értékrend alakítása, a problémafelismerő és -megoldó képesség fejlesztése a megismert irodalmi művek
+és köznapi élmények kapcsán.
+– A mondat- és szövegfonetikai eszközöknek a nem verbális nyelvi elemekkel összehangolt és célszerű
+használatára nevelés.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Kommunikáció
+Beszédművelés
+Kommunikációs folyamatok tényezői.
+Véleménynyilvánítás szélesebb kommunikációs körben.
+Szövegformálás. Kiejtési gyakorlatok.
+Kulturált vita.
+Nyelvi konfliktusok. Írásbeli és szóbeli kifejezésmód.
+Tömegkommunikáció A tömegkommunikációs rendszerekben megjelenő üzenetek:
+– hír,
+– történet,
+– reklám.
+Kommunikációs helyzetgyakorlatok.
+Memoriterek – a szövegfonetikai eszközök alkalmazásával.
+Nyelvtani ismeretek Jelentéstani ismeretek bővítése.
+Szöveg–mondat megkülönböztetése.
+Mondattani ismeretek bővítése (egyszerű – összetett mondat)
+A magyar nyelv rendszere, elemei.
+Nyelvhelyességi ismeretek Állandó szókapcsolatok. Szólások – közmondások. Párbeszéd.
+A szövegtani ismeretek analizálása – szintetizálása.
+A legfontosabb szövegtípusok.
+Mondattani, szótani, fonetikai ismeretek rendszerezése.
+Helyesírás Tantárgyi szakkifejezések, szakszavak helyesírása.
+A nyelvi rendszer helyesírási szabályainak alkalmazása szövegalkotáskor.
+A helyesírás alapelvei szerinti írásmód.
+A helyesírási szótár használata.
+
+Témakör Tartalom
+Fogalmazási ismeretek, szövegértés,
+szövegalkotás
+Összefüggő szöveg szerkesztése.
+Szövegelemzés, szövegátalakítás.
+Az eddig tanult fogalmazási műfajok áttekintése, rendszerezése (elbeszélés, leírás,
+levél, önéletrajz, hivatalos levél, jellemzés, kérvény, postai nyomtatványok
+kitöltése).
+Vázlatkészítés, vázlat alapján különböző műfajú szövegek alkotása.
+Lényegkiemelési gyakorlatok.
+A tetszésnyilvánítás formái.
+Az irónia és a gúny.
+A humor kommunikációs funkcióinak megismerése a szövegekben.
+Különböző műfajú irodalmi szövegek értelmező olvasása.
+Véleménykifejtés, beszámoló.
+Irodalomolvasás, tájékozódás az
+irodalmi kifejezésformákban
+Az irodalom születése. Teremtésmítoszok.
+A Biblia. Mesék, mondák, legendák.
+Tegnapjaink, napjaink:
+– Ady Endre, József Attila, Radnóti Miklós − élete, versei, kora,
+– válogatás napjaink irodalmából.
+Lírai műfajok, novellák, regényrészletek a magyar és a világirodalom köréből.
+A tanult irodalmi műfajok rendszerezése.
+Költői képek és alakzatok.
+A megyéhez kapcsolódó írók, költők munkássága, egy-egy alkotásának részlete.
+Válogatás a mai magyar irodalomból.
+Ismerkedés a világirodalommal.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– Közéleti kommunikációs helyzetek elemzése, szóbeli és írásbeli kommunikációs műfajok gyakorlása.
+– A kritikai érzék és az önkontroll fejlesztése.
+– Kulturált vitakészség fejlesztése különböző kommunikációs szinteken.
+– Szókincsgyakorlatok, szólások, közmondások gyűjtése, megfelelő alkalmazása saját nyelvhasználatban.
+– Mondatok átalakítása bővítéssel, szűkítéssel.
+– Szószerkezetek gyűjtése irodalmi és ismeretterjesztő szövegből.
+– Szövegformálási gyakorlatok: szöveg átírása, kiegészítése, hangnemváltás.
+– Epikai és verses művek hangsúlyos, kifejező bemutatása, feldolgozása felkészülés után.
+– Verstani ismeretek szélesítése, a regény fogalmi bővítése.
+– Vizsgálódás a könyvtárban, a korosztálynak szánt sajtótermékek használata a tárgyalt irodalmi művekkel
+kapcsolatban.
+– A nyelvi rendszerről szerzett ismeretek rendszerezése.
+– A tudatos nyelvhasználat képességének fejlesztése.
+– Érzelmek, magatartások, jellemek, kapcsolatok, indítékok bemutatása, elemzése a jellemzés műfajában.
+– Szövegalkotások, beszámolók, vélemények élményről, irodalmi műről.
+– Példagyűjtés irodalmi művekben a korokhoz kötődő témákra, problémákra.
+– Olvasónapló összeállítása házi olvasmányról.
+– Önéletrajz készítése; hivatalos nyomtatványok, űrlapok (csekk, meghatalmazás, bejelentőlap) kitöltése.
+
+A szakasz végére elvárható követelmények
+– Tudjon a hétköznapi kommunikációs helyzetekben biztonságosan eligazodni, tartsa be az alapvető
+kommunikációs szabályokat.
+– Alkalmazza a kulturált, illő nyelvi eszközöket.
+– Tudjon véleményt mondani, szabatos nyelvhasználattal egyszerű, áttekinthető témákban érvelni, cáfolni,
+meggyőzni, bizonyítani.
+– Legyen képes kifejező hangsúlyozással bemutatni, felolvasni – áttekintés után – egyszerűbb stílusú
+1–1½ oldal terjedelmű prózai vagy verses művet.
+– Alkalmazza a tanult helyesírási szabályokat.
+– Tudjon szöveget alkotni különböző műfajokban – szóban és írásban.
+– Ismerjen néhány művet a magyar irodalom legjelentősebb alkotóitól.
+– Legyen képes gondolatok megfogalmazására a tanult művek jelentéséről, azok hatásának irodalmi
+eszközeiről.
+– Ismerje fel az irodalmi művekben rejlő erkölcsi és esztétikai, nyelvi értékeket, értékviszonyulásokat, a
+hazához, személyekhez fűződő érzéseket.
+– Legyen képes formanyomtatványok önálló kitöltésére, önéletrajz megírására, magán- és hivatalos levelek
+írására.
+ÉLŐ IDEGEN NYELV
+Óraszámok
+Szakaszok – évfolyamok
+Fejlesztő szakasz Megszilárdító szakasz
+7. 8. 9. 10.
+Heti óraszám 1 1 2 2
+Éves óraszám 37 37 74 74
+
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+Célok
+A nyelvtanulás megkedveltetése, az ehhez szükséges motiváció kialakítása.
+Feladatok
+A tanulók érdeklődését felkeltő témák választásával a sikerélmény megteremtése.
+A nyelvtanulás iránti érdeklődés folyamatos fenntartása.
+A szenzoros készségek fejlesztése.
+Fejlesztési feladatok
+– Beszédszándék: az idegen nyelven történő megszólalás gátlásainak oldása.
+– Beszédértés: a témában feldolgozott, begyakorolt szavak értelmezésének, megértésének segítése, egyszerű
+kérdések, utasítások gyakorlása, a kapcsolatfelvétel technikáinak kialakítása.
+– Beszédkészség: az akusztikus észlelés fejlesztése a tanult szavak pontos értelmezése, érthető nyelvi
+megfogalmazása, kiejtése érdekében.
+Témakörök, tartalmak
+Kommunikációs szándék – beszédszándék
+– A társadalmi érintkezéshez szükséges beszédszándék, beszédkészség.
+– Közlések önmagamról – bemutatkozás, család, lakcím, köszönés, elköszönés.
+– Megszólítás, érdeklődés.
+– Foglalkozás.
+Tárgyak, dolgok azonosítása – információcsere
+– Tárgyak az iskolában, a lakásban.
+– Játékok, kedvenc állatok.
+– Az étkezés – ételek, italok.
+– Az öltözködés, ruhadarabok.
+Információkérés
+– Vásárlás – vásárolt tárgy kérése, megnevezése a napi fogyasztási cikkek köréből.
+Mennyiségi viszonyok
+– Számok 1–20-ig, térbeli helyzetek, irányok.
+– Időbeli helyzetek, napszakok, napok.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– A kommunikációs bátorság erősítése.
+– A vizuális, akusztikus észlelés pontosságának fejlesztése.
+– A pontos fonémahallás, hallásdifferenciálás.
+– Az akusztikus emlékezet fejlesztése.
+– A szándékos tanulás erősítése.
+
+A tanulók értékelésének elvei
+Az idegen nyelv tanulásában kiemelt szerepe van a folyamatos és következetes értékelésnek. Az értékelés alapja
+a tanulók önmagukhoz mért fejlődése. Az értékelés legfontosabb célja az ösztönzés.
+A szakasz végére elvárható követelmények
+– Mutasson érdeklődést, szándékot az idegen nyelv tanulása iránt.
+– Értse a begyakorolt szavakat, kérdéseket, utasításokat.
+– Tudjon bemutatkozni, köszönni.
+– Tudjon – a tanultak köréből – mondókát elmondani, dalt elénekelni.
+– Legyen képes használni a rendelkezésre álló segédanyagokat – képeket, szóképet, tárgyképet, hanganyagot –
+a nyelvtanulásban.
+MEGSZILÁRDÍTÓ SZAKASZ
+(9–10. évolyam)
+Célok
+A nyelvtanulás segítségével az érdeklődés felkeltése, pozitív viszonyulások kiépítése más népek élete és
+kultúrája iránt.
+Feladatok
+– Az érdeklődés felkeltése az idegen nyelv tanulása iránt.
+– Beszédszándék, a kommunikációra való késztetés kialakítása.
+– Sikerélmények nyújtásával folyamatos ösztönzés a rendszeres nyelvtanuláshoz.
+– Az idegen nyelv tanulásához legalkalmasabb egyéni tanulási technikák megtalálása.
+Fejlesztési feladatok
+Beszédszándék
+– Az idegen nyelven való megszólalással kapcsolatos gátlások oldása.
+– Az idegen nyelv lehetőségeinek felhasználása a világ jobb megismeréséhez.
+– A tanuló önálló szóbeli kommunikációjának elősegítése.
+Beszédértés
+– A témákban begyakorolt szavak, tőmondatok, egyszerű kérdések, információk, utasítások megértésének
+segítése, a kapcsolatfelvétel serkentése a tanult témakörben.
+Beszédkészség
+– Megfigyelés, utánzás, memorizálás, játékos szituációs gyakorlatok alkalmazásával a páros és csoportos
+kommunikációs helyzetek megteremtése, a kommunikációs készség fejlesztése.
+– Az idegen nyelvi környezetben való elemi szintű tájékozódás megsegítésére alkalmas kifejezések,
+beszédfordulatok, konvenciók megtanulása és alkalmazása.
+– A mindennapi két- vagy többszereplős beszélgetések szervezése (jobb képességű tanulók esetében). Idegen
+nyelvű feliratok, utasítások, információk felismerése.
+
+Témakörök, tartalmak
+Kommunikációs szándék – beszédszándék
+A társadalmi érintkezéshez szükséges beszédértés, beszédkészség
+– A tanár egyszerű utasításainak megértése. Biztatás, tiltás, kérés.
+– Kapcsolatfelvétel: napszaknak megfelelő köszönés, bemutatkozás.
+– Kérés, megköszönés társadalmilag elfogadott formái.
+– Néhány alapvető információ önmagunkról: név, életkor, osztály, nem, lakcím.
+– Hazánk, lakóhelyünk neve.
+– Ünnepek: ünnepnapok neve.
+– A család tagjai, foglalkozások.
+– Testrészek.
+– Az időjárás – az évszakok, hónapok, napok, napszakok nevei.
+– Környezetünk növényei, állatai.
+Információk kérése
+– Útirány, járművek, jegyváltás.
+– A pontos idő utáni érdeklődés.
+– Betegség jelzése, segítsége kérése: orvos, kórház, gyógyszertár, posta, rendőrség utáni érdeklődés.
+Tárgyak, dolgok azonosítása, információcsere
+– Mindennapi tevékenységek, cselekvések megnevezése.
+– Tisztálkodás, takarítás, öltözködés – ruhaneműk.
+– Főzés, terítés, ételek nevei.
+– Bevásárlás, üzlettípusok neve.
+– Számok, színek, formák. A szókincs folyamatos gyarapítása a tanult témakörökben. Helyzetek, irányok.
+– Tő- és egyszerű bővített mondatok alkotása.
+– Jelölések, gyakori feliratok felismerése, megértése: kijárat–bejárat, szabad–tilos, indulás–érkezés,
+pályaudvar, élelmiszerbolt, áruház, WC.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– A kommunikációs bátorság erősítése.
+– A vizuális, akusztikus észlelés pontosságának fejlesztése.
+– A pontos fonémahallás, hallásdifferenciálás kialakítása.
+– Az akusztikus emlékezet fejlesztése.
+– A szándékos tanulás erősítése.
+A tanulók értékelésének elvei
+Az idegen nyelv tanulásában kiemelt szerepe van a folyamatos és következetes értékelésnek. Az értékelés alapja
+a tanulók önmagukhoz mért fejlődése. Az értékelés legfontosabb célja az ösztönzés.
+A szakasz végére elvárható követelmények
+– Legyen pozitív szándéka az idegen nyelv megismerésére.
+– Érdeklődjön az idegen nyelvi közlések, feliratok jelentése iránt.
+
+– Értse a tanár gyakran használt utasításait, kéréseit.
+– Tudjon udvarias formában köszönni, megköszönni, kérni.
+– Bővüljön az önmagával és környezetével kapcsolatos szókincse.
+– Legyen képes a tanult témakörökben szavakkal, tőmondatokkal információkat adni, segítséget kérni
+egyszerű szavak, tőmondatok alkalmazásával.
+– Ismerje fel a leggyakoribb idegen nyelvű feliratokat, jelzéseket.
+MATEMATIKA
+Óraszámok
+Szakaszok – évfolyamok
+Bevezető szakasz Kezdő szakasz Alapozó szakasz Fejlesztő szakasz Megszilárdító
+szakasz
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10.
+Heti
+óraszám
+4 4 4 4 4 4 4 4 3 3
+Éves
+óraszám
+148 148 148 148 148 148 148 148 111 111
+Témakörök ütemezése
+Témakörök
+Bevezető
+szakasz
+(1–2. évf.)
+Kezdő
+szakasz
+(3–4. évf.)
+Alapozó
+szakasz
+(5–6. évf.)
+Fejlesztő
+szakasz
+(7–8. évf.)
+Megszilárdító
+szakasz
+(9–10. évf.)
+Gondolkodási műveletek alapozása
+Számtan, algebra x x x x x
+Számfogalom, számköri ismeretek x x x x x
+Műveletek x x x x x
+Szöveges feladatok x x x x x
+Geometria, mérések
+Geometriai alakzatok,
+tulajdonságaik
+x x x x x
+Gyakorlati mérések,
+mértékegységek, számítások
+x x x x x
+Szerkesztések x x x
+
+Témakörök
+Bevezető
+szakasz
+(1–2. évf.)
+Kezdő
+szakasz
+(3–4. évf.)
+Alapozó
+szakasz
+(5–6. évf.)
+Fejlesztő
+szakasz
+(7–8. évf.)
+Megszilárdító
+szakasz
+(9–10. évf.)
+Összefüggések, függvények, sorozatok
+x x x x x
+Valószínűség, kombinatorika, statisztika
+x x x
+BEVEZETŐ SZAKASZ
+(1–2. évfolyam)
+Célok
+– Bevezetés a matematika által segített gondolkodási módok, alkotó tevékenységek használatába.
+– A matematika szerepének felfedezése a mindennapi életben és a szakmák eszközeként.
+– A megismerő és az alapvető matematikai képességek fejlesztése. Egyszerűbb gondolkodási műveletek
+végzése.
+Feladatok
+A matematika tanítása
+– Járuljon hozzá a valóság megtapasztalásához.
+– Fedeztesse fel a matematika szerepét a mindennapi életben.
+– Alakítsa ki a munkához szükséges együttműködést.
+– Tegyen képessé az adott feladatat folyamatos végzésére.
+– Tegyen alkalmassá a hibák összehasonlítással való megtalálására, kijavítására.
+– Alakítsa ki a világ mennyiségi viszonyaiban való tájékozódást.
+– Segítse a műveletvégzést a matematikai modellekkel.
+– Fejlessze a megismerés képességét, az idő- és térszemléletet.
+– Fejlessze a tevékenységhez szükséges lényeglátás képességét.
+– Alakítsa ki az ismeretszerzéshez szükséges szokásokat.
+– Segítse a sikeres feladatmegoldást.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+– Tapasztalatszerzés a személyes környezet sajátosságairól, mennyiségi viszonyairól. Egyszerű matematikai
+fogalmak kialakítása.
+– A számfogalom, a számköri ismeretek megalapozása. A mennyiségek leképezése a számok, a mennyiségek
+változásának leképezése a műveletek szintjén. Cselekvéssorok elemi értelmezése.
+– A formaérzékelés és az összehasonlító-képesség, térbeli tájékozódás fejlesztése. Tapasztalatok gyűjtése,
+becslési képesség fejlesztése.
+– A lényeglátás képességének előkészítése. Az összehasonlító-képesség fejlesztése.
+
+2. Általános képességek és készségek fejlesztése
+– A megismerési és felfedezési vágy fejlesztése. Hallási és vizuális érzékelés, figyelem és emlékezés
+fejlesztése. Gondolkodási képesség fejlesztése: összehasonlítás, csoportosítás.
+– Az önszervezési képesség fejlesztése. Az önismeret alapozása.
+– A csoport szintjén gyakorolható szociális viselkedési szokások kialakítása. Az együttműködés
+megtapasztalása.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Gondolkodási módszerek
+megalapozása
+A közvetlen környezetben lévő személyek, tárgyak tulajdonságai.
+Csoportosítás azonosság és azonos tulajdonság alapján.
+Ciklikus sorok folytatása, sorozatok, sorrend, egymás utániság megfigyelése, leképezése.
+Válogatás, csoportosítás tulajdonságok alapján, tulajdonság jelölése jelkártyával.
+Tulajdonságok megfogalmazása állítások formájában, állításokhoz halmazok alkotása.
+Tulajdonságok változásának megfigyelése, megfogalmazása.
+Számtan, algebra
+Számfogalom, számköri
+ismeretek
+Számfogalom kialakításának előkészítése: határozatlan és határozott halmazok alkotása,
+összehasonlítása, mennyiségfogalmak érzékeltetése: sok, kevés, semmi, több, kevesebb,
+ugyanannyi.
+Relációs jelek.
+Számfogalom kialakítása: 5–10-es körben.
+Számkör bővítése 20-ig.
+Halmazok számosságának megállapítása – az elemek megszámlálása, egyeztetésük
+számnévvel, számképpel, számjeggyel.
+Számok viszonyítása, rendezése, számok helye a számsorban.
+Számok helye a számegyenesen, számszomszédok.
+Sorszámok, sorszámnevek.
+Páros, páratlan számok.
+1, 2, 5, 10, 20 Ft-os pénzérmék használata.
+A természetes szám mint a mennyiségek mérőszáma.
+Tízes számrendszer szerkezeti sajátosságainak bemutatása.
+A helyi értékes írásmód tudatosítása.
+Az egyjegyű és kétjegyű szám fogalma.
+Soralkotások, növekvő, csökkenő számsorok.
+Számsorok állandó különbsége: 1, 2, 5.
+Mennyiségtartalom megerősítése.
+Pénzérme használata.
+Műveletek Szóbeli összeadás, kivonás 10-es számkörben.
+Műveletek előkészítése – kétjegyű számok bontása tízesek és egyesek összegére.
+A műveletek tartalmi értelmezése: halmazok bővítése – szűkítése; egyesítése – különbsége,
+halmazok összemérése – több, kevesebb.
+Szóbeli összeadás, kivonás, pótlás, tízes átlépés nélkül: kerek tízeshez egyjegyűek adása,
+teljes kétjegyű számhoz egyjegyű adása tízes átlépés nélkül (analógia).
+Műveleti jelek bevezetése.
+Műveletek megoldása matematikai eszközökkel, rajzban.
+A tagok felcserélhetősége.
+Szöveges feladatok Egyszerű szöveges feladat lejátszása, kirakása, megjelenítése, lerajzolása, lejegyzése, közös
+megoldás.
+
+Témakör Tartalom
+Geometria, mérések
+Geometriai alakzatok,
+tulajdonságaik
+Geometriai alakzatok létrehozása. Testek építése építőkockákból, rudakból minta alapján.
+Síkidomok előállítása tépéssel, vágással, hajtogatással; megadott feltétel szerint pálcikákból,
+lyukas táblán.
+Geometriai alakzatok tulajdonságainak megfigyelése, megfogalmazása, csoportosításuk
+(gömbölyű, szögletes), szétválogatásuk megismert tulajdonságaik alapján.
+Síkidomok tulajdonságainak megfigyelése, megfogalmazása (négyszög, háromszög, kör).
+Testek és síkidomok csoportosítása, rendezése adott tulajdonság alapján.
+Tájékozódás síkon. Síkbeli helyzetek megfigyelése, megfogalmazása, létrehozása.
+Gyakorlati mérések,
+mértékegységek,
+számítások
+Mennyiségek összehasonlítása, összemérése.
+Mérési tapasztalatok gyűjtése. Mennyiségek mérése választott és szabvány
+mértékegységekkel (méter, liter, kilogramm).
+Tájékozódás térben. Tárgyak térbeli helyzetének megfigyelése, megfogalmazása,
+létrehozása.
+Az alatt, fölött, mellett, előtt, mögött fogalmak helyes használata.
+Az idő múlásának érzékeltetése: óra, napszak, nap.
+Összefüggések,
+függvények,
+sorozatok
+Összefüggések felismertetése: személyek, tárgyak, helyzetek, geometriai kapcsolatok,
+halmazok számossága között.
+Relációk megfogalmazása szóban, jelölések használata (összekötés, nyíl, relációs jelek).
+Hozzárendelések párosító játékokban. Logikai készlet elemeinek egymáshoz rendelése egy
+tulajdonság változásával.
+Ciklikus sorok folytatása, növekvő, csökkenő számsorozatok.
+Sorozatok képzése adott szabály alapján.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai a bevezető szakaszban
+– Alapvető téri irányok, viszonyok és a viszonyokat kifejező szavak megismerése.
+– A tárgyak, személyek, alakzatok mennyiségi tulajdonságainak, viszonyainak megismerése. A mennyiségi
+jellemzők kifejezése természetes számokkal.
+– Egy-egy dolog, jelenség megváltozásának megfigyelése az érzékszervek segítségével. Változások kifejezése
+szavakkal és egyszerű műveletekkel.
+– Hallott rövid történet képzeletben való követése, kirakása képekkel. Mindennapos problémák megoldásának
+elképzelése.
+– Számmemória fejlesztése nagymozgásos cselekvéssel. Lejátszódott eseményekre, egyszerű szóbeli
+információkra való emlékezés.
+– Gondolkodási funkciók és műveletek erősítése: összehasonlítás, azonosítás, megkülönböztetés. Válogatás,
+osztályozás, sorba rendezés. Analógiák követése.
+– Fogalmak viszonyának rendezése cselekedtetéssel. Rendszerezést segítő eszközök megismerése.
+– Események megjelenítése rajzban. Képek reprodukálása részekből. Sorminta befejezése.
+– A matematika tanulásához szükséges szavak fokozatos megismerése. Saját gondolat kifejezése egy-egy
+mondattal.
+– A közös cselekvéshez, szükséges tulajdonságok, felépítése, szokások kialakítása.
+– A tantárgy iránti tanulási kedv folyamatos szinten tartása. Az önfejlesztés igényének támogatása, értékelése.
+Az önismeret, az önszabályozás képességének fejlesztése.
+
+A tanulók értékelésének elvei
+– Az értékelés alapja a tanuló önmagához mért fejlődése.
+– Az elért teljesítmény tudatosítása a tanuló számára, amelyben a hangsúlyos szempont a tanulói erőfeszítés,
+akarat, szorgalom, feladattudat, személyiségfejlődés, a pontosságra törekvés.
+– A differenciált értékelés alkalmazása a tanulók különböző fejlődési lehetősségeinek (az ismeretek
+megszerzését, feldolgozását, alkalmazását hátráltató sérülések) figyelembevételével.
+– Év végi szintmérés, szöveges értékelés.
+A szakasz végére elvárható követelmények
+– Legyen képes tárgyak, személyek tulajdonságainak megfigyelésére, megnevezésére.
+– Tudjon a megismert tulajdonságok alapján csoportosítani.
+– Tudjon kész csoportokat egy tulajdonsággal elnevezni.
+– Legyen biztos számfogalma, műveletfogalma a 10-es számkörben.
+– Tudja az egyszerű szöveges feladatot művelettel megjeleníteni, lejegyezni.
+– Legyenek elemi tapasztalatai térbeli helyzetekről, nagyságbeli viszonyokról.
+– Különböztesse meg a kerek, szögletes, gömbölyű alakzatokat.
+– Gyűjtsön tapasztalatokat a hosszúság, a tömeg, az űrtartalom méréséhez.
+– Legyen képes legalább háromelemű szekvencia felidézésére.
+– Tudjon egyszerű sorozatokat alkotni megadott szabály alapján.
+– Ismerjen fel összefüggéseket személyek, tárgyak, számok között.
+– Tudja kifejezni a felismert összefüggéseket tevékenységgel, szóval.
+– Legyen képes dolgokat egymáshoz rendezni.
+– Megfelelő tapasztalati bázis megalapozásával:
+= természetes számfogalom, műveletfogalom kialakítása 20-as számkörben;
+= ismerkedés a geometriai alapformákkal;
+= a megszerzett tudás kipróbálása a mindennapi életben;
+= az egyéni és a csoportos munkavégzéshez szükséges viselkedési formák elsajátítása.
+KEZDŐ SZAKASZ
+(3–4. évfolyam)
+Célok
+– Bevezetés a valós világ mennyiségi és térbeli viszonyainak felfedezésébe tapasztalati úton.
+– A matematikai gondolkodás megalapozása.
+Feladatok
+– A térbeli tájékozódás fejlesztése.
+– A geometriai alapfogalmak elmélyítése és bővítése.
+– A fogalmi, analógiás gondolkodás alakítása.
+– A gyakorlati tapasztalatszerzés lehetőséginek megteremtése az ismeretek bővítése érdekében.
+– A matematika gyakorlati szerepének tudatosítása a mindennapi életben.
+– Az önértékelés, és tevékenységszervezés képességének fejlesztése.
+– A tanulók szemléletének alakítása gyakorlati példákkal, a valóság és a matematikai modellek kapcsolatának
+felfedezésével.
+
+– Az együttműködéshez szükséges tulajdonságok fejlesztése.
+– A feladattartás kialakítása.
+– A hibák szóbeli irányítás mellett történő megtalálása, kijavítása.
+– A matematikai modellek és a valóság kapcsolatának feltárása.
+– A műveletvégzés segítése az analógiák megismerésével.
+– A megismerés képességének, az idő- és térszemléletnek a fejlesztése.
+– A tevékenységekhez kötött problémafelismerés, -megoldás fejlesztése.
+– Az ismeretszerzéshez szükséges szokások, módszerek fejlesztése.
+– Ösztönzés a kitartó munka végzésére.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+– A környezet és a mennyiségek kapcsolatának felismerése. Analógiák követése, logikus gondolkodás
+fejlesztése.
+– A számfogalom, a számköri ismeretek megalapozása. A mennyiségek leképezése a számok, a mennyiségek
+változásának leképezése a műveletek szintjén.
+– Cselekvéssorok, tények értelmezése, lényegkiemelés.
+– A tárgyak mérhető tulajdonságainak megismerése. A formaérzékelés és a térbeli tájékozódás, térlátás
+fejlesztése. Becslési képesség, alkotóképesség fejlesztése.
+– A megfigyelő és az összehasonlító képesség fejlesztése. A megértési készség fejlesztése.
+– A kiegészítés képességének fejlesztése.
+2. Általános képességek és készségek fejlesztése
+– Gondolkodási képesség fejlesztése: összehasonlítás, összefüggés meglátása, logikus és fogalmi gondolkodás
+fejlesztése. Kifejezőképesség fejlesztése.
+– Az önszervezési, a befogadóképesség fejlesztése. Az önértékelés az önismeret alapozása.
+– Helyes szociális viselkedési szokások kialakítása, megerősítése. Az együttműködés megtapasztalása,
+hasznossága.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Gondolkodási
+módszerek alapozása
+Csoportosítások megadott és választott szempont szerint.
+Elemek rendezése adott vagy felismert szempontok alapján.
+Tulajdonságok változásának megfigyelése, megfogalmazása, tagadásuk megfogalmazása,
+jelölésük jelkártyával.
+Igaz, nem igaz állítások megfogalmazása.
+Transzformációs játék két tulajdonság változásával.
+Nyitott mondatokba elemek, számok helyettesítése, igazságtartalmak eldöntése.
+Részhalmaz és kiegészítő halmaz előállítása változatos alaphalmazokon (személyek,
+tárgyak, logikai készlet).
+
+Témakör Tartalom
+Számtan, algebra
+Számfogalom, számköri
+ismeretek
+Számkör bővítése 50-ig, majd 100-ig.
+Számfogalom elmélyítése 100-as számkörben.
+Tízes számrendszer szerkezeti sajátosságainak elmélyítése.
+A száz fogalma.
+Kerek tízesek, teljes kétjegyű számok írása, olvasása, értelmezése.
+Elemek megszámlálása, leszámlálása. Csoportosítás, tízes csoportok alkotása. Kétjegyű
+számok.
+Mennyiség egyeztetése számnévvel, számjeggyel. Mennyiségfogalom megerősítése
+gyakorlati példákkal.
+Számok viszonyítása, rendezése. Számok helye a számsorban, számszomszédok.
+Alaki érték, helyi érték, valódi érték közötti összefüggés elmélyítése.
+A mindennapi gyakorlatban előforduló római számok írása, olvasása 50-ig.
+Soralkotások, állandó különbség: 1, 2, 5, 10.
+Számok nagyságbeli viszonya, relációs rendezések, soralkotások.
+Műveletek előkészítése: kétjegyű számok bontása.
+50-es, 100-as pénzérme használata, kifizetések különböző pénzérmékkel.
+Műveletek Szóbeli összeadás, kivonás tízes átlépéssel.
+Kétjegyű számok összeadása, kivonása tízes átlépés nélkül, analógia segítségével.
+Szorzás, bennfoglalás és részekre osztás értelmezése.
+A műveleti jelek bevezetése.
+Írásbeli összeadás: teljes kétjegyűek tízes átlépés nélkül, egyeseknél tízes átlépéssel.
+Írásbeli kivonás tízes átlépés nélkül elvétellel, pótlással.
+10-es, 5-ös, 2-es, 4-es, 3-as, 6-os szorzó- és bennfoglaló táblák kiépítése.
+Műveletek megjelenítése cselekvéssel, tárgyakkal, rajzban.
+Műveletek közötti kapcsolat: összeadás, kivonás, szorzás, bennfoglalás.
+Műveletfogalom előkészítése – teljes kétjegyű számok bontása.
+200, 500, 1000-es pénznemek használata. Kifizetések.
+Szöveges feladatok Egyszerű szóbeli, írásbeli szöveges feladatok várható eredményének becslése, lejegyzése,
+megoldása, ellenőrzése, összehasonlítása a valósággal.
+Kérdések megválasztása. Ismert és ismeretlen adatok megállapítása.
+A mennyiségi változás megjelenítése rajzban, lejegyzés művelettel.
+Geometria, mérések
+Geometriai alakzatok,
+tulajdonságaik
+Testek építése, felismerése, megnevezése.
+Válogatások tulajdonságaik megadott tulajdonság alapján.
+Tükrözés síktükörrel. Tengelyesen tükrös alakzatok létrehozása.
+Tükrös alakzatok felismerése, előállításuk egy tükörtengellyel (kirakással, tépéssel,
+nyírással).
+Vonalak tulajdonságai. Pont és vonal helyzete.
+Síkidomok előállítása, megnevezésük határoló vonalak, határoló oldalak és csúcsok
+száma szerint.
+A négyzet és a téglalap tulajdonságainak megfigyelése, megfogalmazása. Rajzolásuk
+négyzethálós papíron.
+Eltolás térben és síkban, az eltolás eredményének megfigyelése.
+A kerület fogalma. A terület fogalmának előkészítése lefedéssel.
+Gyakorlati mérések,
+mértékegységek,
+számítások
+Mérés választott és szabvány egységekkel.
+Hosszúság (m, dm, cm); űrtartalom (l, dl); tömeg (kg, dkg) becslése, mérése.
+Időtartam érzékeltetése: évszak, hónap, hét, nap, napszak, óra.
+Időpont leolvasása (egész óra, perc).
+Egyenesek, félegyenesek, szakaszok, síkidomok rajzolása szabad kézzel és vonalzó
+segítségével.
+
+Témakör Tartalom
+Összefüggések,
+függvények,
+sorozatok
+Összefüggések kifejezése rajzzal, jelekkel.
+Összefüggések felfedezése bővülő elemek megadásával.
+Szabályjáték logikai készlettel, számokkal egy, majd két tulajdonság változásával,
+számolási műveletekkel.
+Táblázatok kiegészítése adott szabály alapján.
+Állandó különbségű sorozatok megadott, majd felismert szabály alapján. Hiányos
+sorozatok kiegészítése.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai a kezdő szakaszban
+– Tájékozódás a viszonyítási pont megváltoztatásával.
+– A mennyiségi jellemzők kifejezése természetes számokkal, választott mértékkel.
+– Folyamatok megfigyelése az érzékszervek együttműködése révén. Változások kifejezése mondatokkal,
+nyíllal és műveletekkel.
+– Hallott rövid történet képzeletben való követése, eljátszása. Egy mindennapos probléma megoldásának
+elképzelése. A megoldás összehasonlítása a tervekkel.
+– Számmemória fejlesztése mozgásokhoz kapcsolva. Emlékezés a részletekre, időrendre, szóbeli és rajzos
+információkra.
+– Gondolkodási funkciók és műveletek erősítése: összehasonlítás, a különbségek tudatosítása. Válogatás
+folytatása ismert szempont szerint. Osztályozás, sorba rendezés. Egyszerűbb kijelentések a fogalmak
+szintjén. Analógiák követése. Oksági kapcsolatok keresése.
+– Fogalmak viszonyának rendezése a képekkel.
+– A tanulás eszközeinek célszerű használata. Tanári, tanulói segítség elfogadása. Kíváncsiság ébrentartása, az
+önbizalom folyamatos megerősítése.
+– Ismeretek mozgósítása a tanult analóg helyzetekben, alkalmazás irányított cselekvéssel.
+– Történésben jelentkező problémák segítséggel, majd segítség nélkül való felismerése, megbeszélése,
+megoldása a megoldási út kiválasztásával. Az eredmény ellenőrzése.
+– Események megjelenítése nyitott mondatokkal. Ábrák reprodukálása kiegészítéssel. Geometriai alakzatokból
+soralkotás
+A tanulók értékelésének elvei
+– Az értékelés alapja a tanuló önmagához mért fejlődése.
+– Az elért teljesítmény tudatosítása a tanuló számára, amelyben a hangsúlyos szempont a tanulói erőfeszítés,
+akarat, szorgalom, feladattudat, személyiségfejlődés, a pontosságra törekvés.
+– A differenciált értékelés alkalmazása a tanulók különböző fejlődési lehetősségeinek (az ismeretek
+megszerzését, feldolgozását, alkalmazását hátráltató sérülések) figyelembevételével.
+– Év végi szintmérés, szöveges és minősítő értékelés.
+A szakasz végére elvárható követelmények
+– Legyen jártas a tulajdonságok változásainak megfigyelésében, megfogalmazásában, a halmazok képzésében.
+– Tudjon megfogalmazni egyszerű állításokat és azok tagadását.
+– Legyen biztos számfogalma, műveletfogalma az adott számkörben.
+– Tudjon önállóan megoldani egyszerű szöveges feladatokat.
+– Legyen jártas egyszerű relációk értelmezésében, kifejezésében, megfogalmazásában, a számok nagyságának
+összehasonlításában.
+– Ismerjen fel egyszerűbb szabályokat, és tudja azokat megfogalmazni.
+
+– Tudjon egyszerű, állandó különbségű számsorozatot folytatni mindkét irányban.
+– Ismerje a téglalap és a négyzet tulajdonságait.
+– Legyen jártas a négyzet és a téglalap kerületének értelmezésében. Gyűjtsön tapasztalatokat a számításokban.
+– Ismerje fel a kockát, téglatestet, gömböt, hengert, négyzetet, kört, háromszöget; tudjon előállítani testeket
+gyurmából, síkidomokat vágással, tépéssel, rajzolással.
+– Ismerje a szabvány mértékegységeket.
+ALAPOZÓ SZAKASZ
+(5–6. évfolyam)
+Célok
+– A környező világ mennyiségi és térbeli viszonyainak megismertetése.
+– A matematika iránti vonzódás kialakítása annak gyakorlati hasznosíthatóságának szempontjából.
+Feladatok
+– Gondolkodási műveletek bővítése. A matematikai fogalmak használata.
+– Az egész számok fogalmi megalapozása. A tanult számolási eljárások készségszintű ismerete a természetes
+számok körében. A műveletfogalom megalapozása az egész számokkal.
+– A mennyiségfogalom alakítása, bővítése.
+– Eszközhasználat megtanítása a geometriai feladatokban, szerkesztési algoritmusok kialakítása.
+– Önértékelés, tevékenységszervezés képességének kialakítása.
+– Segítse a közvetlen környezet összefüggéseinek a megismerését.
+– Késztesse a tanulót a meglévő ismereti kipróbálására.
+– Tegyen képessé az utasítások követésére, a társakkal való együttműködésre.
+– Tudatosítsa a feladatra való koncentrálást.
+– Tegyen alkalmassá a hibák egyszerű utasítással történő megtalálására, kijavítására.
+– Tárja fel a matematikai modellek és a műveletek közötti kapcsolatot.
+– Segítse a műveletvégzést az algoritmusok megismerésével.
+– Biztosítsa – változatos matematikai tevékenységek során, az életkor és az egyéni sajátosságok
+figyelembevételével – a megismerés képességének fejlődését.
+– Bővítse az ismeretszerzéshez szükséges szokásokat, módszereket.
+– Az ismeretek fokozatos bővítésével segítse a tantárgy szeretetét.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+– A mennyiségek közötti összefüggések feltárása. Algoritmusok kialakítása, kauzális gondolkodás fejlesztése.
+– A számfogalom elmélyítése, számkörbővítés. A mennyiségek leképezése a számok viszonyában, a
+mennyiségek változásának leképezése a műveletvégzés magasabb szintjén. Cselekvéssorok, tények,
+jelenségek értelmezése, az adatok elemzésével.
+– A geometriai látásmód, mennyiségfogalom megalapozása. Jártasság a szerkesztőeszközök használatában.
+Analízis-, szintézisművelet fejlesztése. Becslési képesség fejlesztése.
+– Elemi logikai kapcsolatok felfedező képességének fejlesztése. Az ismeretek alkalmazása a matematika más
+témaköreiben. A rendezés, a rendszerezés az osztályozás képességének fejlesztése.
+– A tanulók szemléletformálása a valóság észleléséhez. Adatgyűjtési technikák fejlesztése.
+
+2. Általános képességek és készségek fejlesztése
+– A tanulási igényszint kialakítása. Gondolkodási képesség fejlesztése. A fogalmi gondolkodás fejlesztése.
+Konkretizálás, általánosítás. A kifejezőképesség fejlesztése.
+– Az önellátási tevékenység fokozása. Az élményszerzés képességének kialakítása. Az önértékelés az egyéni
+adottságok árnyalt és pontos megfogalmazása.
+– Évfolyamszintű csoportméretben a szociális szokások, viselkedések alkalmazásának gyakoroltatása, a
+szabálykövető magatartás előnyeinek felismerése. Az együttműködés egyre önállóbb gyakoroltatása.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Gondolkodási módszerek
+alapozása Két halmaz közös elemeinek keresése.
+Metszethalmaz képzése (személyek, tárgyak, matematikai eszközök).
+Metszethalmaz ábrázolása. Metszethalmaz számokkal, geometriai alakzatokkal. Állítások
+halmazábra részeiről.
+A logikai ”és” értelmezése, “minden”, “van olyan”, “van, amelyik nem”, “egyik sem”
+kifejezések használata.
+Az alap-, rész- és kiegészítő halmazok további vizsgálata, a halmazokról tanultak
+elmélyítése. Tagadások, a logikai “nem”.
+Számtan, algebra
+Számfogalom, számköri
+ismeretek
+Számkör bővítése 10 000-ig.
+A tízes számrendszer szerkezeti sajátosságának felelevenítése, elmélyítése.
+A tízes számrendszer szerkezeti sajátossága 1000-es, 10 000-es helyi értékig.
+Számképzés adott feltételekkel.
+Számok írása, olvasása, helyük a számegyesen, százas, ezres számszomszédok, teljes
+négyjegyű számok és kerek ezresek egyes szomszédjai.
+Tört fogalmának előkészítése, elmélyítése: előállítás tevékenységgel, a részek neve, az egész
+neve törtrésszel.
+Törtrészek ábrázolása, jelölés bevezetése: számláló, nevező, törtvonal. Törtszám írása,
+olvasása. Az egész különböző nevei. Negatív számok fogalmának előkészítése: hőmérő,
+adósság. Negatív számok a számegyenesen.
+Relációk azonos és különböző nagyságrendű számok között.
+Állandó és váltakozó különbségű sorozatok.
+2000, 5000, 10 000-es pénznemek használata, kifizetések.
+Műveletek Műveletfogalom előkészítése: kerek százasok bontása, helyi érték szerinti bontások, kerek
+számok szorzat alakja.
+Szóbeli összeadás, kivonás gyakorlása, pótlás kerek tízesekkel, százasokkal, ezresekkel az
+egyjegyű számok analógiájára. A 8, 9, 7, szorzó-, bennfoglaló tábla kiépítése. Szorzó-,
+bennfoglaló táblák gyakorlása. Összefüggések a szorzótáblák között.
+Írásbeli összeadás, kivonás teljes háromjegyű számokkal, helypótló különböző helyi
+értékekben a tízes átlépés fokozatainak betartásával.
+Különbség változásának megfigyelése.
+Írásbeli szorzás, osztás egyjegyű szorzóval, osztóval, a fokozatok bemutatásával.
+Fokozatos körátlépéssel két- és háromjegyű számok szorzása egy, majd kétjegyű szorzóval –
+részletszorzatok lejegyzése.
+Két-, három- és négyjegyű számok osztása egyjegyű osztóval.
+Műveleti tulajdonság: összeadásoknál a tagok, szorzásnál a tényezők felcserélhetősége.
+Műveletek közötti kapcsolat: összeadás – kivonás, összeadás – szorzás, szorzás –
+bennfoglalás.
+Műveletek közönséges törtekkel: azonos nevezőjű törtek összeadása, kivonása.
+1 egésznél kisebb törtszám pótlása 1 egészre eszközzel, majd eszköz nélkül.
+
+Témakör Tartalom
+Szöveges feladatok Összetett szöveges feladatok: leírás nyitott mondattal, megoldás, ellenőrzés.
+Feltételek és a kérdés szétválasztása. Lejegyzés, megoldási sorrend felállítása, megoldás,
+ellenőrzés.
+Geometria, mérések
+Geometriai alakzatok,
+tulajdonságaik
+Testek építése lapokból és egységkockákból.
+Síkidomok előállítása lyukas táblán, rajzolással. Tulajdonságaik megfigyelése,
+megfogalmazása, tulajdonságok bővítése.
+Csoportosítások határoló lapok tulajdonságai alapján (alak, nagyság, helyzet). Síkidomok
+bővülő tulajdonságai.
+Csoportosítások határoló vonalak, oldalak száma, nagysága, helyzete, átlók,
+szimmetriatengelyek száma alapján.
+Nagyítás eredeti elemekkel. A két alakzat összehasonlítása.
+A terület fogalmának előkészítése lefedéssel.
+Gyakorlati mérések,
+mértékegységek,
+számítások
+Mérések választott és szabvány mértékegységekkel.
+Mértékegységrendszerek bővítése (km, mm, hl, cl, t, q, év, hónap, hét, nap).
+Mértékváltások tanult mértékegységekkel. Átváltások, beváltások.
+Négyzet és téglalap területének számítása.
+Négyzet és téglalap területének mérése lefedéssel.
+Szerkesztések Egyenesek és szakaszok kölcsönös helyzete.
+A szög fogalma, fajtái. Szög rajzolása, mérése szögmérővel.
+Sokszögek kerületének mérése, számítása. Szakaszok és szögek másolása.
+Különböző sugarú körök rajzolása körzővel.
+Párhuzamos, merőleges egyenesek, szögfelező és szakaszfelező egyenesek, négyzet, téglalap
+rajzolása derékszögű vonalzóval, majd szerkesztése.
+Tükrözés egy tükörtengellyel lyukas táblán. Nagyítás, kicsinyítés négyzethálón rajzban.
+A négyzet és a téglalap kerületének számítása (összeadással, szorzással), területének mérése,
+lefedése szabvány egységekkel.
+Összefüggések,
+függvények,
+sorozatok
+Szimmetrikus és nem szimmetrikus relációk rajzosan.
+Bontott alakú számok közötti kapcsolat, a nyíldiagram használata.
+Számok közötti relációk.
+Felismert szabály lejegyzése, szabály leolvasása nyíldiagramról.
+Egy- és két bemenetelű táblázatok kiegészítése adott szabály alapján.
+Relációk egyenlő nevezőjű közönséges törtek, mértékegységek, geometriai alakzatok között.
+Különbségsorozat egy-két, majd állandó és változó különbséggel.
+Hányados sorozatok megadott szabály alapján.
+Valószínűség,
+kombinatorika,
+statisztika
+Események megfigyelése, összeszámlálása (fej-írás játék, kockadobálás).
+Adatok tervszerű gyűjtése, rendezése, közvetlen környezetben megfigyelhető események
+megszámlálása (járműforgalom).
+Megfigyelések, kísérletek a biztos és a lehetetlen megkülönböztetésére.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai az alapozó szakaszban
+– Tájékozódás a forgó test aktuális helyzetéhez képest, valamint a másik ember nézőpontja szerint. Térbeliség
+ábrázolása két dimenzióban.
+– A ciklusonként átélt idő lineáris időfogalomként kezelése; időtartam, időpont saját életből. Folyamat
+mozzanatainak időbeli elrendezése.
+– Mérhető dolgok összehasonlítása, becslése, mennyiségek bővítése. A mennyiségi jellemzők kifejezése egész
+számokkal, adott mértékegységgel.
+
+– Statikus helyzetek, képek, tárgyak megfigyelése, elemzése, kísérletek végzése. Változások kifejezése
+leírással.
+– Számmemória fejlesztése, összefüggésekre, mozgássorokra, kísérletekre való emlékezés. Szöveges feladat
+visszamondása, emlékezést segítő rajzok készítése.
+– Gondolkodási funkciók és műveletek erősítése: az azonosságok és különbségek elemzése. Válogatás
+folytatása a felismert szempont szerint. Osztályozás, soralkotás a felismert szabály szerint. Egyszerűbb
+kijelentések az összefüggések szintjén. Algoritmusok követése. Okok keresése, egylépéses következtetések
+levonása.
+– Fogalmak viszonyának rendezése halmazképzéssel. Rendszerezést segítő eszközök ismerete.
+– Ismeretek mozgósítása felismert analóg helyzetekben, alkalmazás önálló cselekvéssel algoritmusok mentén.
+– Egyszerűbb műveletekben jelentkező problémák segítséggel, majd segítség nélkül való felismerése,
+megoldása, több lehetséges megoldás közül. Az eredmény ellenőrzése.
+– Események megjelenítése műveleti modellekkel. Alakzatok reprodukálása részekből. Logikai sorrend
+reprodukálása. Fogalmak alkotása irányítás mellett.
+A tanulók értékelésének elvei
+– A tanuló munkájának folyamatos megfigyelése, a tapasztalatok, mérések regisztrálása.
+– A tanuló személyisége alakulásának, a tanulási képesség fejlődésének figyelembevétele.
+– A szöveges és szummatív értékelés alkalmazása.
+– A dicséret, a biztatás alkalmazása a tanulói motiváció erősítésére.
+– Év végi szintmérés, szummatív és szöveges értékelés.
+A szakasz végére elvárható követelmények
+– A tanuló tudjon gondolkodási műveletet végezni az ismert halmazok segítségével.
+– Értse és használja helyesen a logikai fogalmakat.
+– Legyen biztos számfogalma tízezres számkörben, a számok írásában.
+– Értse a közönséges tört szám és a negatív szám fogalmát.
+– Tudjon készségszinten számolni szóban és írásban.
+– Tudjon önállóan összetett szöveges feladatot megoldani.
+– Legyen jártas a természetes számok nagyság szerinti összehasonlításában.
+– Legyen képes összefüggések felismerésére és leírására a matematika különböző témaköreiben.
+– Felismert és megfogalmazott szabályokat tudjon lejegyezni.
+– Tudjon különbségsorozatot folytatni, hányadossorozatot alkotni.
+– Növekedjen gyakorlottsága a gyakorlati mérésekben, a pénzhasználatban.
+– Tudjon csoportosítani testeket és síkidomokat a tanult tulajdonságok alapján.
+– Ismerje a mértékegységeket és a mértékegységek közötti viszonyszámokat.
+– Legyen jártas a szögmérő használatában, a szögek mérésében.
+– Tudja a négyzet és a téglalap kerületét kiszámítani, területét lefedéssel mérni.
+– Tudja szerkeszteni a tanult geometriai alakzatokat.
+– Gyűjtsön adatokat, szerezzen tapasztalatokat a lejegyzési módban.
+– Végezzen csoportos valószínűségi kísérleteket.
+– Értse a „biztos” és a „lehetetlen” kifejezéseket.
+
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+Célok
+– A környező világ mennyiségi és térbeli viszonyainak fogalom szintű megismertetése.
+– A lényeglátás és az elvonatkoztató képesség, logikus gondolkodás fejlesztése. Az egyszerű matematikai
+problémák felismerése, megoldása
+Feladatok
+– Természetes számfogalom, műveletfogalom kialakítása 1 000 000-es számkörben.
+– A racionális számfogalom megalapozása. Készségszintű számolás az egész számok körében.
+– Műveletvégzés a racionális számok körében.
+– A geometriai alakzatok tulajdonságainak bővítése, új szabványmértékek bevezetése.
+– A mérések és számítások alkalmazása életszerű helyzetekben.
+– Szerkesztési alapismeretek bővítése.
+– A mindennapi élethelyzetekben előforduló matematikai feladatok önálló megoldása, a továbbképzési igény
+egyszerűbb szintű kielégítése.
+– Önértékelés, tevékenységszervezés képességének fejlesztése.
+– A mindennapokban felmerülő problémák felismeréséhez segítség adása.
+– Ösztönzés a meglévő ismeretek alkalmazására.
+– A közös munkavégzés képességének alakítása.
+– A folyamatos munkavégzés képességének fejlesztése.
+– A matematikai műveletek és szabályok közötti kapcsolatok tudatosítása, a hibák megtalálásának és kijavítási
+igényének felkeltése.
+– Az alkotó képzelet fejlesztése.
+– A függvényszerű gondolkodás fejlesztése.
+– Az oksági összefüggések felismerésének fejlesztése, az ismeretszerzéshez szükséges szokások, módszerek
+egyénre jellemző kialakítása.
+– Az ismeretek gyakorlatban való megtapasztalása, a tanulás hasznosságának tudatosítása.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+– Az ismeretek elvonatkoztatása a műveletek szintjén. Analógiák kialakítása, problémamegoldó gondolkodás
+fejlesztése.
+– A számfogalom elmélyítése, számkör bővítés. A mennyiségek leképezése a számok rendszerében, a
+műveletek értelmezése az alkalmazás szintjén. Cselekvéssorok, jelenségek, tények, értelmezése mint
+problémamegoldás.
+– Tapasztalatszerzés a gyakorlati életben előforduló mérések területén. A térlátás fejlesztése, mértékváltás
+alkalmazása. A rész és egész viszonyának értelmezése.
+– Az összehasonlító, az összefüggéseket felfogó és kiegészítő képesség fejlesztése. A függvényszerű
+gondolkodás megalapozása.
+– Az adatfeldolgozó, adatelemző képesség fejlesztése.
+
+2. Általános képességek és készségek fejlesztése
+– A továbbtanulási szándék kiépítése. Gondolkodási képesség fejlesztése: a lényeglátás és az elvonatkoztató
+képesség fejlesztése, a gondolkodási műveletek elmélyítése.
+– Az önellátási tevékenység önálló végzése. Az élményszerzés és élménynyújtás képességének kialakítása. Az
+önértékelés, az önismeret egyre árnyaltabb és pontosabb megfogalmazása.
+– Iskolaszintű csoportméretben a szociális szokások, viselkedések alkalmazásának gyakoroltatása, a
+szabálykövető magatartás előnyeinek, hasznosságának felismerése. Az együttműködés önálló
+gyakoroltatása.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Gondolkodási műveletek
+alapozása Halmazokkal végzett tevékenységek bővítése: elemek válogatása, elhelyezése,
+kördiagramok, halmazok sokféle kapcsolatának vizsgálata.
+Feltétel tagadása, több feltétel egyidejű teljesülése.
+Halmazok egyesítése, feltételek valamelyikének teljesülése, a logikai “vagy”.
+A tanultak elmélyítése, bővítése: végtelen halmazok, az üres halmaz (egy dolog sem eleme).
+Számtan, algebra
+Számfogalom, számköri
+ismeretek
+Számkör bővítése 1000000-ig.
+A tízes számrendszer szerkezeti sajátosságai.
+Teljes ötjegyű számok írása, olvasása, helypótló a különböző helyi értékeknél.
+Teljes hatjegyű számok írása, olvasása.
+Számok helye a számegyenesen.
+Bontás helyi érték szerint.
+Számképzés legalább két feltétellel.
+Törtszám fogalmának elmélyítése: tört számok összehasonlítása egyszerűsítéssel, bővítéssel.
+Közönséges törtek (10, 100, 1000 nevezőjű) írása tizedes alakban.
+Tizedes törtek írása, olvasása, értelmezése.
+Tized, század, ezred értelmezése, helyük a helyi érték táblázatban.
+A helyi értékes írásmód kiterjesztése tizedes törtekre.
+Összefüggések a tized, század, ezred között.
+Negatív számok fogalmának megerősítése többféle esetben.
+Negatív számok összehasonlítása egymással, a 0-val és a pozitív egész számokkal.
+Mennyiségtartalmak mindennapi, gyakorlati példákkal.
+Műveletek Szóbeli összeadás, kivonás, pótlás kerek tízezresekkel.
+Kerek számok szorzása, osztása egyjegyű szorzóval, osztóval szóban.
+Egész számok szorzása, osztása 10-zel, 100-zal, 1000-rel szóban.
+Teljes öt- és hatjegyű számok összeadása, (többtagú) kivonása írásban.
+Két-, háromjegyű számok szorzása két-, háromjegyű szorzóval.
+Három-, négy-, ötjegyű szám osztása egy-, két-, háromjegyű osztóval.
+Különböző nevezőjű törtek összeadása, kivonása (közös nevező valamelyik tag nevezőjével
+azonos).
+Közönséges törtek szorzása közönséges törttel, közönséges törtek osztása egész számmal és
+közönséges törttel.
+A reciprok érték fogalma.
+Összeadás, kivonás tizedes törtekkel.
+Szorzás egész számmal, tizedes törttel, osztás egész számmal.
+Tizedes törtek szorzása, osztása 10-zel, 100-zal, 1000-rel.
+Szöveges feladatok
+Egyszerű szöveges feladat készítése.
+Egyszerű és összetett szöveges feladathoz megfelelő matematikai modell keresése.
+Fordított szövegezésű szöveges feladatok megoldása.
+
+Témakör Tartalom
+Geometria, mérések
+Geometriai alakzatok,
+tulajdonságaik
+Háromszögek tulajdonságai, osztályozásuk az oldalak és szögek nagysága szerint.
+A kör és alkotórésze.
+Testek építése testhálóból, egységkockákból.
+Testek–testhálók.
+A négyzetes oszlop, a kocka és a téglatest fogalmi jegyei.
+A henger és a kúp tulajdonságainak megismerése tapasztalati úton.
+A testek nézetei.
+Gyakorlati mérések,
+mértékegységek,
+számítások
+Mérések növekvő pontossággal.
+A terület mértékegységei: km2, m2, dm2, cm2, mm2.
+Gyakorlati mérések, mértékváltások gyakorlása.
+A négyzet és a téglalap kerületének és területének kiszámítása.
+A négyzetes oszlop, a téglatest és a kocka felszínének számítása. Térfogatuk mérése
+egységkockákkal.
+A térfogat mértékegységei: m3, dm3, cm3.
+Összefüggések mértékegységek között.
+Szerkesztések Szakaszok, szögek szerkesztése, szögmásolás, szögfelezés.
+Tükrözés, kicsinyítés, nagyítás szerkesztéssel.
+Háromszög szerkesztése.
+Négyzet, téglalap, háromszög szerkesztése.
+Speciális négyszögek tulajdonságai.
+Tükrözés, kicsinyítés, nagyítás.
+A négyzetes oszlop, a kocka és a téglatest hálózatának rajzolása négyzethálós papíron.
+Összefüggések,
+függvények,
+sorozatok
+Kapcsolatok megfogalmazása szöveggel, nyitott mondattal, táblázattal, grafikonnal.
+Relációk a tanult számkörben, azonos nevezőjű és számlálójú közönséges törtek között.
+Negatív számok összehasonlítása egymással, 0-val, a pozitív számokkal.
+Állandó különbségű sorozatok közönséges és tizedes törtekkel.
+Hányados sorozatok.
+Táblázat adatainak kiegészítése, adatpárok ábrázolása derékszögű koordináta-rendszerben.
+Valószínűség,
+kombinatorika,
+statisztika
+Valószínűségi játékok: a „lehet”, a „biztos”, a „lehetetlen” kifejezések értelmezése,
+elmélyítése.
+Koordináta-rendszer bevezetése, helymeghatározások.
+Statisztikai adatok értelmezése, oszlopos grafikonok.
+Események gyakoriságának megfigyelése.
+Táblázatból, grafikonról adatok leolvasása, értelmezése.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai a fejlesztő szakaszban
+– Kísérletek végzése, a történés többszöri megfigyelése. A kimenet jóslása. Esemény szimbolikus jelekkel
+történő lejegyzése, nyitott mondat készítése.
+– Számmemória fejlesztése, összefüggésekre való emlékezés cselekvéssorokhoz kapcsolva. Adatokra,
+folyamatokra való emlékezés jegyzetek, szimbolikus rajzok alapján. A szöveges feladatban megjelenő
+problémára való emlékezés, emlékezést segítő ábrák készítése.
+
+– Gondolkodási funkciók és műveletek erősítése: az ismeretek rendezése, fogalmi gondolkodás megalapozása.
+Egyszerűbb kijelentések, tagadások igazságtartalmának eldöntése. Algoritmusok követése. Okok keresése,
+egyenlőségek megoldása következtetéssel.
+– Fogalmak viszonyának rendezése alá- és fölérendeléssel. Rendszerezést segítő eszközök megismerése.
+– A tanulás eszközeinek tervszerű használata. Tanári, tanulói segítség adekvát kérése, célszerű használata.
+– Tanult algoritmusok felismerése, ismeretek mozgósítása műveleti szinten modellkövetéssel.
+– Összetett műveletekben jelentkező problémák segítséggel, majd segítség nélkül való felismerése,
+megbeszélése, megoldása a tanult algoritmusok mentén. Az eredmény ellenőrzése.
+– A gondolkodás fejlesztését, a megjegyzés technikáit segítő módszerek megtalálása, alkalmazása: események
+megjelenítése gráfokkal és ábrákkal. Alakzatok reprodukálása kiegészítéssel. Elemek sorozatba rendezése.
+Fogalmak alkotása segítséggel.
+– A közös cselekvéshez, munkához szükséges tulajdonságok, képességek fejlesztése, szokások kialakítása.
+A tanulók értékelésének elvei
+– A tanuló munkájának folyamatos megfigyelése, a tapasztalatok, mérések regisztrálása.
+– A tanuló személyisége alakulásának, a tanulási képesség fejlődésének figyelembevétele.
+– A szöveges és szummatív értékelés alkalmazása.
+– A dicséret, a bíztatás alkalmazása a tanulói motiváció erősítésére.
+– Év végi szintmérés, szummatív és szöveges értékelés.
+A szakasz végére elvárható követelmények
+– A tanuló használja a matematika nyelvét a gondolkodási műveletek végzésekor.
+– Legyen biztos szám- és műveletfogalma az adott számkörben.
+– Tudjon összetett szöveges feladathoz megoldási tervet készíteni, több megoldást keresni.
+– Tudjon összehasonlítani racionális számokat.
+– Legyen képes összefüggések felfedezésére a szabály kiválasztásánál, különböző módon tudjon sorozatokat
+folytatni az adott számkörben.
+– Használja a logikai kifejezéseket.
+– Ismerje a statisztikai adatok feldolgozásának, rendezésének módját.
+– Legyen képes adott szabályú táblázatot kiegészíteni, adatokat ábrázolni koordináta-rendszerben. Tudjon
+grafikont készíteni leolvasott adatok alapján.
+– Legyen képes megállapítani a valószínűségi játékok és kísérletek kimenetelét.
+– Ismerje a fogalmakat.
+– Ismerje a testek és síkidomok tulajdonságait, alkotórészeit.
+– Tudjon területet, felszínt számolni, ismerje a terület mértékegységét.
+– Tudjon szerkeszteni a geometriai alakzatokat.
+– Tudjon síkidomot tükrözni, kicsinyíteni, nagyítani.
+
+MEGSZILÁRDÍTÓ SZAKASZ
+(9–10. évfolyam)
+Célok
+– A környező világ mennyiségi és térbeli viszonyainak racionális szinten való megismertetése.
+– Függvényszerű gondolkodás alapozása. A problémák elvont szintű megoldása.
+– A mérések és számítások alkalmazása életszerű helyzetekben, alkalmazásképes matematikai műveltség
+kialakítása a tanulmányok folytatására.
+Feladatok
+– A racionális szám fogalmának elmélyítése. A műveletfogalom elmélyítése, bővítése a törtszámok körében.
+Készségszintű műveletvégzés a racionális számok körében.
+– A geometriai alakzatok tulajdonságainak bővítése, új szabványmértékek bevezetése.
+– Szerkesztési alapismeretek bővítése.
+– Segítség nyújtása az absztrakt információkezeléshez, az ismeretek rendszerezéséhez.
+– A problémák több úton való megközelítésének segítése, a letapadt gondolkodás oldása.
+– Az önértékelés, tevékenységszervezés képességének megszilárdítása.
+– Az önálló munkavégzéshez szükséges képességek szokások kialakítása.
+– A műveletvégzés eszközként való használatának kialakítása.
+– A már kialakult ismeretek, képességek folyamatos megerősítése.
+– A megértésen alapuló gondolkodás fejlesztése.
+– A problémamegoldás fejlesztése.
+– Az ismeretszerzéshez szükséges sajátos szokások, egyéni módszerek kialakításának segítése.
+– Önbizalom növelése a problémák megoldásában.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+– A tudástartalom transzformálása, új ismeretek megszerzése. Taktikai gondolkodás, kombinatorikus
+gondolkodás fejlesztése.
+– A számfogalom elmélyítése, számköri ismeretek megerősítése. A számok rendszerének, azok
+összefüggéseinek megértése, a műveletek értelmezése az a gyakorlatban való alkalmazás szintjén.
+Jelenségek, tények, cselekvéssorok ellenkező irányú értelmezése a kritikai gondolkodás szintjén.
+– Összefüggéslátás a mértékek, az alakzatok kapcsolatában. Elemzőképesség fejlesztése. A problémamegoldó
+gondolkodás fejlesztése.
+– Az alkalmazási képesség fejlesztése. Az arányosság értelmezése. A valóság térformáinak és mennyiségi
+viszonyainak értelmezése.
+– A következtetési képesség fejlesztése. Pontosságra nevelés. Az elemzőképesség fejlesztése.
+2. Általános képességek és készségek fejlesztése
+– Az önfejlesztési igény kialakítása. Gondolkodási képesség fejlesztése: állítás, tagadás értelmezése,
+megfordítása. Problémamegoldó gondolkodás fejlesztése.
+– Az egyéni lehetőségek és korlátok tudatosítása. Cselekvéstervezés, önálló kivitelezés, befogadóképesség
+fejlesztése. Önfejlesztő programok kialakításának segítése.
+– A külső kapcsolatokban is érvényesíthető szociális viselkedés szabályszerűségének felismerése. Az
+együttműködés használata a mindennapi életben.
+
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Gondolkodási módszerek
+alapozása
+Elemek elhelyezése adott halmazokba.
+Közös elemeket tartalmazó elemek uniója.
+Halmazok kapcsolatának az összes esetre vonatkozó használata
+– nincs közös elemük;
+– van közös elemük, de egyik halmaz sem része a másiknak; illetve
+– egyik halmaz része a másiknak.
+A logikai “és”, “vagy” alkalmazása.
+A “minden”, “van olyan”, “van, amelyik nem”, “egy sem” használata.
+Fogalmak értelmezése, rendszerezése.
+Számtan, algebra
+Számfogalom, számköri
+ismeretek
+A természetes- és racionálisszám-fogalom, mennyiségfogalom elmélyítése.
+Racionális számfogalom bővítése.
+Közönséges törtek, tizedes törtek.
+Természetes és racionális számok csoportosítása, összehasonlítása, rendezése.
+Átváltások, egyszerűsítés, bővítés, összehasonlítás, rendezés.
+Összeg, különbség, szorzat alakok.
+Negatív számok a mindennapi életben.
+Műveletek Műveletek természetes és racionális számokkal, tanult műveletek gyakorlása.
+Kerek számok összeadása, kivonása, egyjegyű szorzóval szorzás, egyjegyű osztóval osztás
+szóban.
+Írásban: a 0-val való számolás eseteinek gyakorlása.
+Közönséges és tizedes törtekkel végzendő műveletek gyakorlása a mindennapi élethez
+kapcsolódó gyakorlatban.
+Tizedes törtek osztása két- és háromjegyű osztóval.
+Tizedes tört osztása egész számmal és tizedes törttel.
+A százalék fogalma.
+A százalékérték kiszámítása.
+Közönséges törtek összeadása, kivonása, szorzása, osztása egész számmal, közönséges
+törttel.
+Arányosság, következtetések, egyenes és fordított arányosság.
+Százalékszámítás: kamat-, adószámítás.
+Fizetések, vásárlások részletre.
+Szöveges feladatok Egyszerű, összetett, fordított szövegezésű feladatok természetes és racionális számokkal a
+tanult alapműveletek alkalmazásával a mindennapi gyakorlathoz kapcsolódóan.
+Geometria, mérések
+Geometriai alakzatok,
+tulajdonságaik
+Testek, síkidomok tanult tulajdonságok alapján történő rendszerezése, tulajdonságok
+elmélyítése.
+Geometriai alakzatok (vonalak, síkidomok, testek) csoportosítása tanult tulajdonságok
+alapján.
+Speciális négyszögek rendszerezése halmazábra segítségével, részhalmazok közötti
+kapcsolat bemutatása.
+Venn-diagramok.
+A kör és alkotórészei.
+Az átmérő és a sugár kapcsolata.
+
+Témakör Tartalom
+Gyakorlati mérések,
+mértékegységek,
+számítások
+Kör kerületének, területének mérése tapasztalati úton.
+Kocka és téglatest térfogatának mérése, kiszámítása következtetéssel, majd mért adatok
+alapján.
+Hosszúság, terület, térfogat mértékegységeinek összehasonlítása, összefüggések
+megállapítása, elmélyítése.
+Szakmaorientált feladatvégzések.
+Szerkesztések A tanult szerkesztések gyakorlása.
+Helyiségek méretarányos alaprajza – adott és mért adatok alapján.
+Testek nézeteinek lerajzolása.
+Összefüggések,
+függvények,
+sorozatok
+Összefüggések felismerése a matematika valamennyi területéről.
+Egyenes arányosság ábrázolása derékszögű koordinátarendszerben.
+Állandó és változó különbségű sorozatok, hányados sorozatok, egész és tört számokkal.
+Táblázat adatai közötti összefüggés felismerése, leírása.
+Függvények megadása ellenpárokkal, táblázattal, nyíllal, szabállyal.
+Függvények jellemzése grafikonok alapján.
+Valószínűség,
+kombinatorika,
+statisztika
+Kísérleti játékokban események összehasonlítása – melyik a valószínűbb.
+Táblázatkészítés, ábrázolás grafikonon.
+Az átlag kiszámítása.
+Mindennapi élethelyzetekhez kötődő statisztikai adatok elrendezése, grafikon készítése
+(szakmaorientáció).
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– Valóságos viszonyok becslése térkép alapján, térképkészítési elvek megértése. Térbeliség ábrázolása két
+dimenzióban: takarás, célszerű síkmetszetek.
+– A távolság és a számok abszolút értékének, kapcsolatának értelmezése. A mennyiségi jellemzők kifejezése
+racionális számokkal, a mértékegységek megváltoztatásával.
+– Számmemória fejlesztése, összefüggésekre való emlékezés műveleti sémákhoz kapcsolva. Szóbeli és írásbeli
+információkra, adatokra és összefüggésekre való együttes emlékezés, emlékezést segítő vázlat készítése.
+– Gondolkodási funkciók és műveletek erősítése: az ismeretek rendszerezése, fogalmi gondolkodás.
+Kijelentések, tagadások igazságtartalmának eldöntése. Algoritmusok követése. Oksági kapcsolat
+megfogalmazása, egyenlőtlenségek megoldása következtetéssel.
+– Fogalmak viszonyának rendezése részhalmazokba való rendezésével. Rendszerezést segítő eszközök
+megismerése.
+– Algoritmusok felismerése, ismeretek mozgósítása életszerű helyzetekben.
+– A gyakorlatban is létező problémák segítséggel, majd segítség nélkül való felismerése, megbeszélése,
+alternatív megoldása. Az eredmény ellenőrzése.
+– Események megjelenítése szimbolikus jelekkel. Alakzatok reprodukálása szerkesztéssel. Fogalmak egymás
+alá rendezése. Fogalmak alkotása önállóan.
+– Szükséges kifejtések fokozatos megismerése, a saját vélemény megvédése.
+– A tantárgy iránti tanulási kedv folyamatos szinten tartása. Az önfejlesztés igényének támogatása, értékelése.
+Az önismeret, az önszabályozás képességének fejlesztése.
+– A matematikai ismeretek felhasználása más tantárgyak problémáinak megoldására.
+
+A tanulók értékelésének elvei
+– A tanuló munkájának folyamatos megfigyelése, a tapasztalatok, mérések regisztrálása.
+– A tanuló személyisége alakulásának, a tanulási képesség fejlődésének figyelembevétele.
+– A szöveges és szummatív értékelés alkalmazása.
+– A dicséret, a biztatás alkalmazása a tanulói motiváció erősítésére.
+– Év végi szintmérés, szummatív és szöveges értékelés.
+A szakasz végére elvárható követelmények
+– A tanuló használja a halmazok és a logikai megfogalmazásokat, ismereteit alkalmazza a gondolkodási
+műveletek végzésekor különböző módon.
+– Legyen biztos szám- és műveletfogalma az adott számkörben.
+– Ismeretének alkalmazása gyakorlati példákban (szakmaorientáció).
+– Jártasság a tanult geometriai számításokban és szerkesztésekben.
+– Geometriai alapismeretek, a tanult mérési és számítási eljárások alkalmazása gyakorlati példákban.
+– Sorozatok folytatása felismert szabály alapján egész és tört számokkal mindkét irányban. Adott szabály
+alapján táblázat kitöltése, ábrázolása derékszögű koordináta-rendszerben. Függvények jellemzése grafikon
+alapján.
+– Összefüggések biztos felismerése. Egyenes arányosság ábrázolása.
+– Valószínűségi játékok, kísérletek kapcsán események összegyűjtése, rendezése, táblázat készítése,
+valószínűségi esemény becslése, fogalmak használata.
+– A gyakoriság és a relatív gyakoriság fogalmának ismerete.
+INFORMATIKA
+Óraszámok
+Szakaszok – évfolyamok
+Kezdő szakasz Alapozó
+szakasz
+Fejlesztő
+szakasz
+Megszilárdító
+szakasz
+3. 4. 5. 6. 7. 8. 9. 10.
+Heti óraszám
+0,5 1 1 1 1 1 1 1
+Éves óraszám
+18.5 37 37 37 37 37 37 37
+
+Témakörök ütemezése
+Szakaszok – évfolyamok
+Témák, altémák Kezdő szakasz
+(3–4. évfolyam)
+Alapozó szakasz
+(5–6. évfolyam)
+Fejlesztő
+szakasz
+(7–8. évfolyam)
+Megszilárdító
+szakasz
+(9–10.
+évfolyam)
+Számítástechnika
+A számítástechnika alapjai
+x x x
+Számítógép-kezelési
+alapismeretek
+x x
+Algoritmusok
+x x x
+Dokumentumkészítés
+x
+Adatkezelés
+x
+Táblázatkezelés
+x
+Számítógéppel segített
+problémamegoldás x
+Számítógépes hálózat
+x
+Könyvtárhasználati ismeretek
+Dokumentumismeret x x
+Általános könyvtárhasználati
+ismeretek
+x x x x
+KEZDŐ SZAKASZ
+(3–4. évfolyam)
+Célok
+– Bevezetés az informatika – közvetlenül érzékelhető – világába.
+– Az információszerzés, -feldolgozás, -átadás szerepének felfedeztetése a mindennapi életben.
+Feladatok
+– Az érdeklődés felkeltése a számítógéppel végzett tevékenység iránt.
+– Jelenségek, cselekvések gyűjtése algoritmusokra, közvetlen tapasztalatszerzés alapján.
+– A közvetlenül tapasztalt algoritmusokban „talált” adatok értelmezése.
+– A tájékozódási képesség fejlesztése a közvetlen környezetben előforduló jelek üzenettartalma alapján.
+– Felfedező keresés az életkornak megfelelő könyvtári ismerethordozókban.
+
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– Közvetlen tapasztalatszerzés: irányított megfigyelések, szempontok alapján. Algoritmusok olvasása,
+rendezése.
+– Gyűjtött információk rendezése, csoportosítása, papír alapú táblázatok készítése.
+– Csoportmunkák.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+A számítástechnika
+alapjai
+Jelek és kódok – a környezetben való tájékozódás irányai.
+Információs játékok – az információ jelentősége: találós kérdések, kereső, érzékelő
+játékok.
+Tapasztalati úton jelenségek gyűjtése a sorrendiségre, tulajdonságok felismerésére,
+ellentétpárok létrehozása.
+Játékos algoritmusok-irányjátékok a tanteremben, a szabadban, helymeghatározások
+relációk alapján.
+Hétköznapi algoritmusok – algoritmusok megfigyelése a mindennapos cselekvésekben.
+Közlekedés, vásárlás, napi-, hetirend.
+A megfigyelt cselekvési sorok képi ábrázolása jelekkel, mozgások megadott irányban,
+lejegyzés.
+Az iskolai élet jelei, beszélő képek, piktogramok.
+Látogatás a számítástechnika-teremben – a felsőbb évfolyamok tanulói tevékenységének
+megfigyelése.
+Könyvtárhasználati
+alapismeretek
+Könyvespolc berendezése az osztályban.
+Képes könyvek, gyermekfolyóiratok válogatása, nézegetése, olvasgatása.
+Témák megkeresése tartalomjegyzék alapján. Beszélgetés a látottakról, olvasottakról,
+átélt élményekről.
+Látogatás az iskolai könyvtárban, könyvkeresés a szabadpolcon.
+Ismerkedés a könyvtári információs feliratokkal, jelekkel.
+A könyvtár használata helyben, adott témához könyv, folyóirat keresése, olvasgatás – a
+betűrendes keresés, beszámolás az olvasottakról.
+A könyvtári viselkedés szabályai.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– Térbeli, időbeli tájékozódó képesség fejlesztése.
+– Megfigyelő, felismerő képesség fejlesztése.
+– Vizuális és akusztikus érzékelés fejlesztése.
+– Összehasonlítás, azonosítás, megkülönböztetés műveleteinek gyakorlása.
+– Szerialitás a cselekvésben.
+A tanulók értékelésének elvei
+– Az értékelés fejezze ki a tanuló önmagához mért fejlődését, differenciált, személyre szóló, a tanuló
+fejlettségéhez, állapotához igazított legyen.
+– Az értékelés alapja:
+= a tantárgyi specifikumoknak megfelelő – begyakorolt – tanulási és munkaszokások ismerete,
+= a cselekvésekben való közreműködés,
+= aktivitás, érdeklődés,
+= együttműködés.
+
+A szakasz végére elvárható követelmények
+– A mindennapi életben szerzett közvetlen tapasztalatok alapján ismerje fel cselekvésekben, tevékenységekben
+az azonos elemek azonos sorrendben való megjelenését.
+– Ismerje fel a közvetlen környezetében található jelek és kódok üzenettartalmát.
+– Érdeklődéssel, örömmel vegyen részt a könyvekkel, folyóiratokkal kapcsolatos különböző
+tevékenységekben.
+– Tudjon a tantárgyakban tanultakhoz kapcsolódóan adott témához nyomtatott könyvtári ismerethordozót
+keresni.
+ALAPOZÓ SZAKASZ
+(5–6. évfolyam)
+Célok
+Az informatikai ismeretek, az informatikai környezet tudatos használatának alapozása.
+Feladatok
+– A számítógéppel való interaktív kapcsolattartás, a legszükségesebb perifériák megismerése.
+– A gyakorlati életben használt legfontosabb írásos dokumentumok gépi megvalósítása.
+– Problémák informatikai jellegű megfogalmazása.
+– Adott feladat megoldásához algoritmusok keresése, megválasztása.
+– Hagyományos és új információs eszközökön alapuló könyvtári szolgáltatások megismerése.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– Ismerkedés az adott informatikai környezettel. A számítógéppel való interaktív kapcsolattartás ismert
+programokon keresztül.
+– Számítógépes játékok, egyszerű szoftverek használata.
+– Információ kifejezése beszéddel, írással, rajzzal, jelekkel.
+– Egyszerű rajzos dokumentumok „kép- és betűnyomdák” készítése.
+– Az iskolai könyvtár tér- és állományszerkezetében való eligazodás.
+– Felfedező keresés az életkornak megfelelő információhordozókban.
+– A főbb dokumentumfajták megkülönböztetése, tartalmának és adatainak megállapítása.
+– Rajzolás.
+– Gyűjtőmunka.
+– Dokumentumválasztás.
+– Adatgyűjtés – játék az adatokkal, csoportosítás, rendezés, összehasonlítás, elemzés.
+
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Számítástechnika
+A számítástechnika
+alapjai.
+Számítógép-kezelési
+alapismeretek.
+Algoritmusok
+A működő számítógép megfigyelése, a használathoz szükséges billentyűk funkciójának
+tapasztalati megismerése.
+Változások megfigyelése, létrehozása.
+Egyszerű játékprogramok, készségfejlesztő programok használata.
+A számítógép használatának rendje, biztonsági tudnivalók.
+Jelek és kódok – a kódolás, dekódolás –, titkosírás készítése, megfejtése.
+Régi korok képi és írásos üzenetei.
+Üzenetek osztálytársaknak, barátoknak, szülőknek rajzzal, képpel, írással.
+Információ képekben – állóképek, mozgóképek.
+Számítógépes alkotásokból nyerhető információk tapasztalat útján történő megismerése.
+Algoritmus és számítógép: játékos számítógépes környezetben algoritmusok értelmezése.
+Mozgások létrehozása a képernyőn irányítással, adott útvonal bejárásával.
+A billentyűzet és az egér használata – egyszerű rajz és rövid szöveg megjelenítése a
+képernyőn.
+Könyvtárhasználati
+alapismeretek
+A könyvtári kölcsönzés: adott témához keresés szerző és cím alapján.
+A kölcsönzés szabályai.
+Ismerkedés a katalógussal.
+Egyéb ismerethordozók használatának lehetősége a könyvtárban.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– Szabályfelismerés, tervező, rendszerező, döntési képesség fejlesztése.
+– Csoportosítások, következtetések.
+– Algoritmikus és problémamegoldó gondolkodás fejlesztése.
+– Pontosság, finommotorika fejlesztése.
+A tanulók értékelésének elvei
+– Az értékelés fejezze ki a tanuló önmagához mért fejlődését, legyen differenciált, személyre szóló, a tanuló
+fejlettségéhez, állapotához igazított.
+– Az értékelés alapja:
+= a tantárgyi specifikumoknak megfelelő – már begyakorolt – tanulási és munkaszokások,
+= a cselekvésekben való részvétel, a részvétel önállósága,
+= kezdeményező készség, aktivitás,
+= a feladatmegoldások tudatossága.
+A szakasz végére elvárható követelmények
+– Legyen képes néhány lépésből feladatsor algoritmusának összeállítására.
+– Tudjon egyszerű, elsősorban rajzos titkosírást készíteni, megfejteni.
+– Legyen tájékozott a képi információforrások körében.
+– Fokozódjon érdeklődése, aktivitása a számítógéppel végzett tevékenység iránt.
+– Legyen képes változások létrehozására a képernyőn.
+– Ismerje a billentyűzet és az egér használatát, tudjon egyszerű rajzot és rövid szöveget megjeleníteni a
+képernyőn.
+– Növekvő önállósággal legyen képes az iskolai könyvtár használatára.
+
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+Célok
+– Az információs kultúra alapjainak tevékenységcentrikus, gyakorlatorientált megismerésével a tanulók
+hozzásegítése a munkájukhoz, az életvitelük alakításához szükséges információk korszerű, gyors
+megszerzéséhez, feldolgozásához és alkalmazásához.
+Feladatok
+– A számítógépes környezet elemeinek megismerése.
+– A számítógép perifériás egységeinek megismerése.
+– Az informatikai alapfogalmakkal való megismerkedés.
+– Az operációs rendszer fogalmával, szerepével és funkcióival való megismerkedés.
+– Egyszerű számítógépes programok használata.
+– Készségfejlesztő és oktatóprogramok használatának megismerése, logikai játékok használata.
+Fejlesztési feladatok tevékenységek, tanulásszervezés
+– Egyszerű zenés alkalmazások, animációk elkészítése és használata.
+– A feladatok megoldásához szükséges, mások által összeépített alkalmazói környezet használata.
+– Adatok csoportosítása, értelmezése.
+– Közhasznú információforrások értelmezése, felhasználása.
+– Informatikus eszközökkel történő problémamegoldás gyakorlása.
+– Egyszerű problémák megoldása szükség szerint segítséggel.
+– Egyszerűbb algoritmusok felismerése, megfogalmazása, végrehajtása.
+– Mindennapi adatok leírása.
+– Információszerzés az Internetről, irányított keresés
+– Az új informatikai eszközöket alkalmazó média egyes lehetőségeinek megismerése.
+– Szabadon felhasználható források megismerése.
+– Személyi információk, személyes adatok fogalmának tisztázása.
+– Az informatikai eszközök alkalmazásának etikai kérdései.
+– Szöveg készítése.
+– Bibliográfia készítése.
+– Tantárgyi-, tanulmányiátlag-számítás.
+– Saját mágneslemez készítése.
+– Szakkatalógus böngészése.
+– Saját hivatalos irat (pl. önéletrajz, pályázat) készítése.
+
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Számítástechnika
+A számítástechnika alapjai A számítógép története – korai számolóeszközök.
+Az elektronikus számítógépek fejlődése.
+Az informatikatörténet magyar vonatkozásai.
+A kalkulátor használata: egyszerű matematikai műveletek elvégzése.
+Számítógép-kezelési alapismeretek: a számítógép perifériális
+egységeinek, funkcióinak megismerése.
+Számítókép-kezelési alapismeretek Az operációs rendszer alapműködésének, alapvető parancsoknak a
+megismerése, futtatás, keresés, másolás. Mágneslemez formázása.
+A számítógépes információ tartalma, adat és jel közötti összefüggések.
+Algoritmusok Algoritmusok leírása szöveggel, rajzzal – játékos számítógépes
+környezet alkalmazásával.
+Egyszerű algoritmus kódolása.
+Algoritmus kipróbálása kész programokban.
+Gyakori problémák algoritmusai: nagyság szerinti rendezés, elemek
+keresése szempontok alapján, tantárgyi átlag, osztályátlag.
+Könyvtárhasználati ismeretek
+Dokumentumismeret
+Különböző dokumentumfajták megismerése, csoportosítása, szerepe a
+tantárgyi ismeretszerzésben: könyv, sajtótermékek, audiovizuális
+dokumentumok.
+Formai, szerkezeti jellemzők
+Általános könyvtárhasználati ismeretek A szabadpolcos könyvtári állomány.
+A kézikönyvtár használata.
+Direkt tájékoztató eszközök: lexikonok, enciklopédiák.
+Indirekt tájékoztató eszközök: a betűrendes katalógus használata szerző
+és cím szerint.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– Érzékszervi megismerések.
+– Térbeli és időbeli tájékozódás fejlesztése.
+– A figyelem, az emlékezet, az akarat, az alkotó képzelet fejlesztése.
+– A gyors, pontos, koordinált mozgásos reagálóképesség.
+– Felismerő, rendszerező képesség, szerialitás fejlesztése.
+– Analízis, szintézis.
+– Algoritmikus, problémamegoldó gondolkodás.
+A tanulók értékelésének elvei
+– Az értékelés kifejezi a tanuló önmagához mért fejlődését, differenciált, személyre szóló, a tanuló
+fejlettségéhez, állapotához igazított.
+– Az értékelés alapja nem csupán az adott helyzetnek való megfelelés, hanem a tantárgyi specifikumoknak
+megfelelő – már begyakorolt – tanulási és munkaszokások alkalmazása.
+
+Az értékelés alapja:
+– a számítógépes környezet elemeinek ismerete,
+– a számítógép perifériás egységeinek és a tanult informatikai alapfogalmak ismerete,
+– az egyszerű számítógépes programok használata segítséggel,
+– az alkalmazott készségfejlesztő és oktató programokkal való tevékenység,
+– képes-e a megismert oktatóprogramokkal a program kívánalmai szerint tevékenykedni.
+A szakasz végére elvárható követelmények
+– A tanulónak legyen ismerete a számítástechnika múltjáról, a jövőben betöltött szerepéről.
+– Ismerje fel a számítógép perifériális egységeit, ismerje fel alapvető funkcióit.
+– Legyen tájékozott a kalkulátorral való számolásban.
+– Legyenek elemi gyakorlati tapasztalatai az algoritmusok leírási lehetőségeiről.
+– Ismerje fel egy-egy algoritmus jelölését.
+– Legyen képes tanári segítséggel algoritmusok megjelenítésére játékos számítógépes környezetben.
+– Legyen képes a legfontosabb könyvtárban található dokumentumfajták megnevezésére,
+megkülönböztetésére.
+– Legyen képes információk keresésére lexikonokból, gyermekenciklopédiákból.
+– Legyen képes funkcióhoz kapcsoltan néhány egyszerű parancs bevitelére.
+– Tudjon kész programba adatokat beírni, eredményeket értelmezni.
+– Legyen képes tanári segítséggel értelmezni egyszerű ismétlődéseket, elágazásokat tartalmazó
+algoritmusokat.
+– Tudjon segítséggel készségfejlesztő és oktató programokat futtatni.
+– Ismerje a lakóhelyi (vagy legközelebbi) közkönyvtárat.
+– Használjon a tanuláshoz többféle könyvtári dokumentumot.
+– Legyen képes segítséggel a könyvtárban adott témában keresni, betűrendes katalógust használni.
+MEGSZILÁRDÍTÓ SZAKASZ
+(9–10. évfolyam)
+Célok
+– Az információs kultúra alapjainak tevékenységcentrikus, gyakorlatorientált megismerésével a tanulók
+hozzásegítése a munkájukhoz, az életvitelük alakításához szükséges információk korszerű, gyors
+megszerzéséhez, feldolgozásához és alkalmazásához.
+Feladatok
+– Az informatikai eszközök szerepének, fontosságának tudatosítása az élet különböző területein.
+– Az informatika azon eszközeinek, fogalmainak és módszereinek megismertetése, amelyek lehetővé teszik
+informatikai személetük kialakulását, késztetik az informatika alkalmazására.
+– Az önálló számítástechnikai produktum (pl.: rajz, levél, névjegy stb.) létrehozásának élménye.
+– Az alkotás élményének biztosítása.
+– Az esztétikai érzék fejlesztése.
+
+Fejlesztési feladatok, tevékenység, tanulásszervezés
+– Adott informatikai eszközök tudatos használata.
+– A számítógéppel való interaktív kapcsolattartás a legszükségesebb perifériák használatával.
+– Rajzos-szöveges dokumentumok létrehozása, átalakítása, formázása. Kézi szöveg feldolgozása.
+– Szöveg, rajz, zene, fénykép, animáció szerkesztése.
+– Adatok csoportosítása, értelmezése, táblázatba rendezése.
+– Egyszerű problémák megoldása önállóan.
+– Egyszerűbb algoritmusok használata.
+– Ismert adatokból eredmény meghatározása.
+– Táblázatok, diagramok megismerése, adatok rendezése.
+– Hatékony, céltudatos információszerzés az internetről.
+– Csoportos kommunikációs eszközök segítségével információ küldése és fogadása.
+– Internetes portálok, szöveges és képi információforrások használata.
+– Tanulmányi feladatokhoz kereső kérdések megfogalmazása.
+– Információk keresése a helyi adatbázisban.
+– Médiumok megkülönböztetése, irányított feldolgozása.
+– Dokumentumválasztás.
+– Bibliográfia készítése.
+– Saját mágneslemez készítése.
+– Adatgyűjtés – játék az adatokkal, csoportosítás, rendezés, összehasonlítás, elemzés.
+– Szakkatalógus böngészése.
+– Információs játékok.
+– „Szörfözés” a hálón.
+– Saját hivatalos irat (pl. önéletrajz, pályázat) készítése.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Számítástechnika
+Algoritmusok Algoritmus kódolása programnyelvre, utasítások gyakorlása,
+programfuttatás, hiba, hibaüzenet, hibajavítás.
+Dokumentumkészítés Ismerkedés alapvető dokumentumformákkal, szoftverekkel. Ikonok
+használata, egyszerű szöveg- és rajzkészítés.
+Adatkezelés Az iskolai élet adatai: saját gyűjtésű adatok számítógépes
+adatállományának elkészítése.
+Az adatkezelés etikai szabályai.
+Táblázatkezelés Kész táblázat gépbe vitele. Adatmódosítás a táblázatban.
+Számítógéppel segített problémamegoldás Paraméterek változtatása, a programmódosítás lépései, hatása:
+matematikához, fizikához kapcsolódó paraméterek közötti kapcsolatok.
+
+Témakör Tartalom
+Számítógépes hálózat A számítógépes hálózat funkciója, információszerzés egyszerű
+keresőprogrammal.
+Könyvtárhasználati ismeretek
+Dokumentumismeret Ismerkedés a könyvtári nyilvántartás számítógépes adatbázisaival.
+Keresés kijelölt feladatra, dokumentum választása adott tantárgyi
+feladathoz.
+Az osztály életével kapcsolatos dokumentumok létrehozása, nyers
+szöveg formázása: önéletrajz, rövid hivatalos levél elkészítése,
+nyomtatása.
+Általános könyvtárhasználati ismeretek Különböző könyvtártípusok: iskolai, szak- és közkönyvtárak.
+Az önálló könyvtári ismeretszerzés főbb lépései.
+A megszerzett könyvtári ismeretek rendszerezése az aktuális
+érdeklődéshez igazodva.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– Érzékszervi megismerések.
+– Térbeli és időbeli tájékozódás.
+– A figyelem, az emlékezet, az akarat, az alkotó képzelet fejlesztése.
+– A gyors, pontos, koordinált mozgásos reagálóképesség.
+– Felismerő, rendszerező képesség, szerialitás fejlesztése.
+– Analízis, szintézis.
+– Algoritmikus, problémamegoldó gondolkodás.
+A tanulók értékelésének elvei
+– Az értékelés kifejezi a tanuló az önmagához mért fejlődését, differenciált, személyre szóló, a tanuló
+fejlettségéhez, állapotához igazított.
+– Az értékelés alapja nem csupán az adott helyzetnek való megfelelés, hanem a tantárgyi specifikumoknak
+megfelelő – már begyakorolt – tanulási és munkaszokások alkalmazása.
+– Az értékelés alapja:
+= az informatikai eszközök szerepének, fontosságának megértése,
+= az operációs rendszer segítséggel történő kezelése,
+= munkálkodás a számítógéppel a képességeinek és korosztályának megfelelő feladatok során,
+= az alapvető algoritmusok végrehajtása,
+= dokumentumformák és rajzi dokumentumformák ismerete,
+= az esztétikus külalak kialakításának igénye.
+A szakasz végére elvárható követelmények
+– A tanuló legyen képes rövid programokat önállóan futtatni, elakadásnál konkrét segítséget kérni.
+– Értékelje a szövegszerkesztő program előnyeit.
+– Tudjon néhány soros dokumentumot beírni a számítógépbe, és tegyen lépéseket a szerkesztőműveletek
+megismerésére, egyszerű rajz készítésére.
+– Legyen képes rákérdezni az adatbázis megfelelő adataira.
+
+– Tudjon egyszerű adatokkal adatállományt létrehozni.
+– Ismerjen fel a táblázatban elhelyezett adatokat.
+– Ismerje az adatkezelés etikai szabályait.
+– Alakuljon ki jártasság a problémamegoldásban, a tapasztalaton alapuló vizsgálatok végzésében.
+– Érzékelje a paraméterek módosító hatásait, megfigyeléseit legyen képes megfogalmazni.
+– Tudjon a számítógépes hálózatból információt lekérni, rövid elektronikus üzenetet küldeni.
+– Ismerje a hálózati viselkedés szabályait.
+– Érzékelje a szerkesztőprogramok gyakorlati hasznosságát.
+– Ismerje és tudja használni az iskolai és a lakóhelyi könyvtárat.
+– Biztosan tájékozódjon az iskolai, a lakóhelyi könyvtárban, ismerje állományait, használja egyéb
+szolgáltatásait.
+– Tudja segítséggel kiválasztani feladatmegoldásához, az érdeklődéséhez megfelelő információhordozót.
+– A szerzett információkat használja fel tanulmányaiban, önművelésében.
+KÖRNYEZETISMERET
+Óraszámok
+Szakaszok – évfolyamok
+Bevezető szakasz Kezdő szakasz
+1. 2. 3. 4.
+Heti óraszám 1,5 1,5 2 2
+Éves óraszám 55,5 55,5 74 74
+Témakörök ütemezése
+Bevezető szakasz (1–2. évf.) Kezdő szakasz (3–4. évf.)
+1. 2. 3. 4.
+Megismerési módszerek alapozása x x x x
+Tájékozódás az élő és élettelen
+természetről
+x x x x
+Tájékozódási alapismeretek x x x x
+Testünk és egészségünk x x x x
+
+Célok
+– Az élővilág és környezete kapcsolatainak, egymásra utaltságának tudatosításával a korszerű, elemi
+természettudományos műveltség alapozása.
+– A természet megszerettetése, kincseinek megóvása, az élő és élettelen környezet iránti érzékenység és
+felelősség kialakítása során a környezetvédő magatartásra nevelés.
+Feladatok
+– Alapozza meg a természethez, a közösséghez, a szülőföldhöz, a hazához tartozás örömét és az ehhez
+kapcsolódó felelősségérzetet.
+– Keltse fel a tanulók érdeklődését közvetlen és tágabb környezetük tárgyai, jelenségei iránt. Motiváljon a
+gyermeki kíváncsiságra, a tapasztalatszerzésre, az együttműködésre környezete megismerésében.
+– Ismertesse meg elemi szinten az élőlények sajátosságait, a közvetlen természeti környezet változásait,
+jelenségeit.
+– Segítse a tanulók tér- és időbeli tájékozódóképességének fejlődését.
+– Mutassa be az élő és élettelen természet szépségét, sokszínűségét és érzékeltesse a körülöttünk lévő
+természet egységét.
+– Ismertesse meg a természet megfigyelésére alkalmas – életkoruknak megfelelő – módszereket.
+– Fedeztesse fel a tanulóval, hogy ő maga is a természet része.
+– Alakítsa ki az igényt a lakóhely közelében, majd a távolabbi környezetben előforduló élőlények jellemzőinek
+megfigyeléséhez.
+– Sajátíttassa el a biztonságos közlekedés alapszabályait.
+A tanulók értékelésének szempontjai
+A megismerési módszerek alkalmazása
+– Érzékelhető tulajdonságok felismerése, megnevezése, elemi kapcsolatok felismerése.
+Térben, időben való tájékozódás
+– A kötetlen térben történő tájékozódás biztonsága, pontossága, a térbeli változás érzékelése.
+– Az idővel kapcsolatos elemi fogalmak ismerete, a ciklikusság, a periodikusság felismerése (hetek,
+napszakok, hónapok…).
+– Az időbeli változás észlelése, megfogalmazása segítséggel.
+Gondolkodási műveletek
+– Összehasonlítás, viszonyítás, rendezés, csoportosítás, becslés, mérés – fogalmak használata a tanultak
+szerint.
+– Személyiségfejlődés, önismeret, lakóhelyismeret: tájékozottság a családról, a lakóhelyről – egyszerű
+jellemzők megfogalmazása,
+– Önmaga külső jegyeinek ismerete, tulajdonságok felsorolása, alapvető viselkedési formák elsajátítása,
+fejlettségnek megfelelő alkalmazása.
+– A begyakorolt szokások, tanulási szokásrendek működési szintje.
+– A tartós figyelem, az emlékezet, a feladattudat, az együttműködés egyénhez mért fejlődése.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– Tanulási, viselkedési, megismerési szokások, szokásrendszerek kialakítása.
+– A kíváncsiság és az érdeklődés felkeltése, a figyelem, az emlékezet fejlesztése.
+
+– A kommunikáció fejlesztése, kérdésfeltevés, kérdések megfogalmazása.
+– A térérzet alakítása, megerősítése, viszonyszavak pontos használata, az idő múlásának érzékelése, felfogása.
+– Változás pontos észlelése, értelmezése időben, térben.
+– A gondolkodási funkciók, a gondolkodási műveletek fejlesztése.
+– A feladat értelmezése, megoldása, irányított ismeretszerzés, feladattartás.
+BEVEZETŐ SZAKASZ
+(1–2. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Megismerési módszerek alapozása A közvetlen környezet tárgyainak, jelenségeinek megfigyelése, megnevezése.
+Néhány jellemző tulajdonság felfedezése.
+Elemi szintű összehasonlítások.
+Egyszerű változások felfedezése a természetben.
+Csoportosítás feltűnő tulajdonságok alapján tanári segítséggel.
+Fokozatos önállósodás az összehasonlítási, csoportosítási feladatok
+végzésében.
+A tárgyak jól érzékelhető tulajdonságainak becslése, mérése: nagyobb–kisebb,
+hosszabb–rövidebb, nehezebb–könnyebb, hidegebb–melegebb, sima–érdes.
+Az élettelen természet vizsgálata Tárgyak csoportosítása fizikai jellemzők alapján (szín, nagyság, anyag,
+hőmérséklet).
+A napszakok, az évszakok, az időjárás változásának megfigyelése.
+Az évszakok változásának nyomon követése.
+A legfontosabb csapadékformák felismerése.
+A napi időjárás nyomon követése tapasztalati szinten.
+Az élő természet vizsgálata A közvetlen környezet növényeinek és állatainak megfigyelése.
+A fa részei. A lombos fa évszakonkénti változásai.
+Az állatok csoportosítása: kültakaró, mozgás, táplálék, testfelépítés szerint.
+A tanuló kapcsolata a közvetlen közelében élő növényekkel és állatokkal.
+A környezet jellemző növényeinek, fák (akác, vadgesztenye, almafa), a kert
+virágainak (petúnia, muskátli), a zöldségeskert növényeinek (paradicsom,
+hagyma, retek) felismerése és megnevezése.
+A főbb növényi részek. Fű, fa, bokor, virágos növények megkülönböztetése.
+A növények ehető részei. A gyümölcsök vizsgálata: alma, szilva.
+A környezet állatainak megfigyelése. Néhány emlős (kutya, macska), madár
+(veréb), hal és rovar megismerése. Csoportosításuk: testfelépítésük, hangjuk,
+kültakarójuk, élőhelyük, szaporodásuk, könnyen felfedezhető külső jegyeik
+alapján.
+Az ember szerepe a növények változásában, az állatok viselkedésében.
+Tájékozódási alapismeretek Egyszerű téri és időbeli relációk, irányok: jobb–bal.
+A közvetlen iskolai környezet. Közlekedés az iskola környékén és az otthonig.
+Legfontosabb közlekedési szabályok és magatartási formák.
+Lakóhelyünk (település) neve. Saját lakcím megismerése.
+Az időbeli tájékozódás fejlesztése: régen volt, most van, később lesz.
+A hét napjai.
+Leggyakoribb ünnepeink periodikus ismétlődése. Ünnepnap–hétköznap.
+A térbeli tájékozódás fejlesztése. Az iskola helyiségeinek alaposabb ismerete.
+A környék gyalogos közlekedésének bővülő megismerése.
+Az iskola címe. A tanárok és osztálytársak neve. Helyes viselkedés a társas
+kapcsolatokban (család, osztály), szeretet, barátság.
+
+Témakör Tartalom
+Testünk és egészségünk Az emberi test fő részei.
+Az érzékszerveink és védelmük (szemüveg, hallókészülék).
+A tisztálkodás fő szabályai és eszközei.
+Elemi ismeretek egészségünk óvásával kapcsolatban.
+A helyes napirend szerepe az egészséges életmód kialakításában.
+A testmozgás szerepe a fejlődésben, az egészség megóvásában.
+Az öltözködés és táplálkozás elemi szabályai.
+Az iskolai környezet rendjének megteremtése, megóvása. A hulladék
+elhelyezése az iskolában és az utcán.
+Tantárgyspecifikus fejlesztési feladatok
+– Percepciós készség, felismerő-, ráismerő-képesség, grafomotoros készség, elemzés képessége, a vizsgálódás
+képessége, megfigyelőképesség, sorba rendezés, szóbeli kifejezőképesség, kommunikációs változások
+észrevételének képessége, téri tájékozódás, időbeli tájékozódás képessége.
+– Gondolkodási képesség. Becslés, mérés képessége. Elemi szintű általánosítás képessége.
+– Megismerési módszerek (tapasztalat, megfigyelés, csoportosítás) alkalmazásának képessége.
+– A természettudományos ismeretszerzés képessége. Érdeklődés a természet iránt. Pozitív attitűd.
+– Összehasonlítás, csoportosítás képessége. A szűkebb, majd tágabb környezetben való biztonságosabb
+eligazodás képessége.
+– Folyamatos aktivitás, a cselekvésbe ágyazott megismerési tevékenység.
+Tevékenységek
+– Megfigyelés, vizsgálódás, tapasztalatszerzés.
+– A tapasztalatok megfogalmazása szóban, kifejezése rajzban, alkotásban.
+– Mérések, becslések, összehasonlítások.
+– Szituációs játékok, helyzetgyakorlatok.
+– Kiadványok, képes gyermeklexikonok, képek, filmek megtekintése, irányított elemzés, a képi információk
+értelmezése.
+– Egyszerű következtetések megfogalmazása.
+– Egyszerű feladatok megoldása, rajzok készítése.
+– Gyakorlatok öltözködésre, a test tisztán tartására.
+– Közlekedés gyalogosan.
+A szakasz végére elvárható követelmények
+– Alkalmazza a gyakorolt megismerési módszereket (tapasztalat, megfigyelés, csoportosítás).
+– Tudja kifejezni tapasztalatait szóban és rajzban.
+– Tudja az időjárás elemeinek, a napoknak, a napszakoknak és az évszakoknak a nevét.
+– Ismerje a fő csapadékfajtákat.
+– Értse az összehasonlítások során a tanár által használt kifejezéseket, relációkat.
+– Használja a téri és idői relációkat jelentő legegyszerűbb kifejezéseket.
+– Fokozatosan önállósodjon a gyalogos közlekedésben.
+– Ismerje fel és nevezze meg a megfigyelt növényeket és állatokat. Tudja, hogy a növényeknek emberi
+táplálkozásra alkalmas részeik vannak, melyek az egészséges táplálkozásban fontos szerepet játszanak.
+– Vegyen részt az életkorának megfelelő növényápolási és állatgazdálkodási munkákban.
+– Fokozódó önállósággal válassza meg az évszaknak, az időjárásnak megfelelő öltözéket.
+
+KEZDŐ SZAKASZ
+(3–4. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Megismerési módszerek alapozása Megfigyelések, összehasonlítások konkrét jegyek, tulajdonságok alapján.
+Mérések, becslések, az eredmények lejegyzése.
+Egyszerű összefüggések felismerése. Csoportosítások.
+Fontos és kevésbé lényeges tulajdonságok megkülönböztetése.
+Az érdeklődés fenntartása természeti környezetünk iránt.
+Az elsajátított ismeretszerzési módszerek önálló alkalmazása.
+Részvétel a tanári kísérletekben. A tanult fogalmak bővülő körének
+megjelenése a szóbeli beszámolókban. A szerzett tapasztalatok összegzése
+szóban és írott, rajzolt formában. Kérdések megfogalmazása a természet
+tárgyaival, élőlényeivel és jelenségeivel kapcsolatosan.
+Gyűjtőmunka, tablók készítése.
+Ismeretszerzés tanórán kívüli forrásokból: könyvtár, rádió, újságok.
+Az élettelen természet vizsgálata Az élő és élettelen megkülönböztetése.
+Néhány anyag tulajdonságainak felfedezése.
+Vizsgálat: becslés, mérés összehasonlítás.
+A víz előfordulása a természetben. A halmazállapotok felfedezése
+megfigyeléssel és a legegyszerűbb kísérleti eszközökkel.
+Az anyagok vizsgálata érzékszervi úton. A szilárd, folyékony, légnemű
+fogalma.
+A levegő az élet feltétele. A levegő tulajdonságai.
+A hő hatása. Az anyagok viselkedése a hő növekedésekor és csökkenésekor.
+Az anyagok keveredése, az oldódás megfigyelése.
+Az élő természet vizsgálata Legfontosabb termesztett növényeink felismerése, megnevezése. Az ember
+által felhasznált részeik.
+Lombos és tűlevelű fák megkülönböztetése. A cserjék megismerése. A cserje
+és a fa összehasonlítása.
+Különböző növényi társulások megfigyelése. Az erdő, a mező, a víz és a
+vízpart növényei.
+A növények évszakonkénti változása. Állatok csoportosítása élőhely szerint.
+Vadon élők: erdőben, mezőn, vízparton, vízben élők (emlősök, halak,
+madarak).
+Néhány háziállat felismerése, megnevezése, jellemző tulajdonságaik
+megnevezése. Az állatok szerepe az ember táplálkozásában.
+A lakóhely környékének jellemző növényei és állatai.
+Lágy szárú és fás szárú növények. Termesztett növények a lakóhely környékén.
+A mezőgazdaság ágazatai. Védett természeti értékek a környezetben.
+Életjelenségek: táplálkozás, légzés, növekedés, fejlődés, mozgás, a környezet
+változásainak érzékelése, szaporodás.
+A gyümölcs részei.
+Egy teljes virág részei.
+Az élővilág és környezetének egymásra utaltsága. Védett természeti értékek.
+Tájékozódási alapismeretek Időbeli tájékozódás bővítése: napi, heti, havi történések időrendbe állítása.
+Saját élettörténet, a születéstől máig. Az ünnepek periódusos ismétlődése.
+Téri tájékozódás: a lakás jellemző helyiségei, azok funkciói.
+A lakosságot kiszolgáló intézmények és üzletek a környéken.
+A lakóhely és környékének közlekedési eszközei.
+Rokonok neve, szerepe a családi munkamegosztásban.
+A tanulók környezetében élők munkájának megismerése.
+A lakóhely és környéke.
+A lakóhely közigazgatási, kulturális és egészségügyi intézményei.
+
+Témakör Tartalom
+Felszíni formák, síkság, dombság, hegység. Felszíni vizek a lakóhelyen és
+környékén: patak, folyó, tó.
+Egyszerű alaprajzok, útvonalrajzok, térképvázlat.
+Fő világtájak. Tájékozódás világtájak szerint. Az iránytű. A nap járásának
+megfigyelése.
+Testünk és egészségünk A helyes táplálkozási szokások: változatosság, az ételek hőmérséklete,
+rendszeresség, étkezési rend.
+Az élvezeti szerek káros hatásai gyermekkorban. A fogmosás. Az érzékszervek
+védelme.
+Néhány gyermekkori fertőző betegség. Az orvos és a gyógyszerek szerepe a
+gyógyításban.
+Gyermekek, felnőttek, idősek a környezetünkben. Egymásra utaltság.
+Az ember fejlődésének szakaszai.
+Az egészséges életmód.
+A balesetek megelőzése a közlekedésben, az iskolai életben.
+A fertőző betegségek: terjedésük, megelőzésük.
+A levegő, a víz és a talaj lehetséges szennyező anyagai lakóhelyünkön.
+Mit tehet a gyermek környezete védelme érdekében?
+Környezetvédelmi napok, feladatok.
+Tantárgyspecifikus fejlesztési feladatok, tevékenységek és tanulási szokások
+Tájékozódás a tudományos megismerésről
+– Érdeklődés, motiváció felkeltése, inspiráció a kérdésfeltevésre.
+– Egyszerű, játékos megfigyelések, összehasonlítások, csoportosítások, elképzelések, hiedelmek
+megfogalmazása.
+– Egyszerű becslések, mérések.
+– Jellemzők számbavétele, változás felismerése.
+– Elemi képi és szöveges információk értelmezése irányítással, segítéssel; anyagok és halmazállapotok
+megkülönböztetése a hétköznapi élet példáival.
+– Az élőlényekkel kapcsolatos fogalmak gazdagítása, csoportokba sorolás.
+Tájékozódás az élettelen természetről
+– Tájékozódás a térben – térérzet megerősítése, irányok, távolságok, hosszúságok, nagyságrendek becslése,
+mérése – meghatározása.
+– Tapasztalatok, ismeretek gyűjtése a természet könnyen megfigyelhető és felfogható ciklusaival
+kapcsolatban.
+– A mindennapok időviszonyai.
+– A helyváltoztatás és az eltelt idő kapcsolata a saját történéseire, életterére vonatkoztatva.
+– Állandóság és változás felfedezése irányítással, egyszerű példákkal.
+– Elemi tájékozódás a közvetlen környezetben, a szűkebb lakótérben, lakóhelyen.
+– Elemi ismeretek a földrajzi környezetből konkrét tapasztalatokból merítve.
+Tájékozódás az életről
+– Az élő és élettelen közötti különbség, az életjelenségekhez kötött életértelmezés elemi ismeretei.
+– Az ember testrészei, érzékszervei – példák, konkrét tapasztalatok gyűjtésével.
+– Törekvés az ember számára fontos egészségmegőrző szokások elsajátítására: egészséges táplálkozás,
+tisztálkodás, mozgás.
+
+– Néhány könnyen felfogható példa a környezetnek az ember egészségére gyakorolt hatásaiból.
+– Gyermek- és fertőző betegségek, orvosi ellátás a saját tapasztalatból, a történetek elemezése, tudatosítás.
+A szakasz végére elvárható követelmények
+– Tudjon csoportosítani adott szempontok alapján. Vegye észre, hogy a tulajdonságok egy része fontos,
+lényegi, míg mások kevésbé fontosak.
+– Tudja, hogy a víz és a levegő elengedhetetlen feltétele az élőlények létezésének.
+– Tapasztalja meg, hogy a halmazállapotok egymásba átalakulhatnak.
+– Fedezze fel az időbeli sorrendiséget a napi, havi történésekkel kapcsolatosan. Tudja az évszakok, hónapok,
+napok, napszakok nevét.
+– Tudja megkülönböztetni a tűlevelű és a lombos fát.
+– Legyen képes felsorolni segítséggel az életjelenségeket és az élethez szükséges környezeti feltételeket.
+– Sorolja fel kép vagy a valóság alapján a virág és a gyümölcs részeit.
+– Vegyen részt növényápolásban és a környezetében lévő állatok gondozásában.
+– Fedezze fel, hogy az évszakok változása periodikus változásokat okoz a növények életében.
+– Tudja felismerni a különböző élőhelyek jellemző állatait.
+– Ismerje fel a háziállatokat képen és lehetőség szerint a valóságban is.
+– Tudja, hogy az ember gondoskodik az állatokról és az állatok táplálékot nyújtanak az embernek.
+– Ismerje a helyes étkezési rendet és étkezési szokásokat.
+– Tudja, hogy betegség esetén orvoshoz kell fordulnia.
+– Használja tudatosan a szemétgyűjtőket.
+– Tájékozódjon biztonsággal az iskola épületében és a lakásban.
+– Ismerje az utat a lakástól az iskoláig.
+– Ismerje környezetének legjellemzőbb felszíni formáit és vizeit.
+– Használja a földrajzi neveket, ismerje a fő világtájak nevét.
+TÖRTÉNELEM ÉS TÁRSADALOMISMERET
+Óraszámok
+Szakaszok – évfolyamok
+Alapozó szakasz Fejlesztő szakasz Megszilárdító
+szakasz
+5. 6. 7. 8. 9. 10.
+Heti óraszám 1,5 1,5 2 2 2 2
+Éves óraszám 55,5 55,5 74 74 74 74
+
+Témakörök ütemezése
+Szakaszok – évfolyamok
+Témakörök Alapozó szakasz
+(5–6. évfolyam)
+Fejlesztő szakasz
+(7–8. évfolyam)
+Megszilárdító szakasz
+(9–10. évfolyam)
+Környezetünk történelmi és
+társadalmi jellemzői
+x x x
+A múlt történelme és
+társadalmai
+x x
+Korunk történelme és
+társadalma
+x x
+A témakörökhöz tartozó tartalmak tagolása
+Tartalmak Alapozó szakasz Fejlesztő szakasz Megszilárdító
+szakasz
+Környezetünk történelmi és társadalmi
+jellemzői
+Közvetlen környezetünk
+x x x
+A lakóhelytől a nagyvilágig
+x x x
+A múlt történelme és társadalmai
+x
+A múlt megismerése
+x
+Élet az őskorban
+x
+Élet az ókori keleten
+x
+Az ókori görögök
+x
+Az ókori rómaiak
+x
+A magyar történelem kezdetei
+x
+Élet a középkori Európában
+x
+Magyarország az Árpád-házi uralkodók idején
+x
+Magyarország az érett középkorban
+x
+
+Tartalmak Alapozó szakasz Fejlesztő szakasz Megszilárdító
+szakasz
+A virágzó középkor Magyarországon
+x
+Az újkor kezdete Európában
+x
+Magyarország az újkor hajnalán
+x
+A polgári átalakulás kora
+x
+Polgárosodás Magyarországon
+x
+A kiegyezés kora
+x
+A késő újkor Európában
+x
+Az első világháború
+x
+A trianoni Magyarország
+x
+A jelenkor kezdete, két háború között
+x
+A második világháború. Hazánk a háborúban
+x
+Korunk történelme és társadalma
+x x
+Hazánk Európában és a nagyvilágban
+x
+A globalizálódó világ
+x
+Hazánk, a Magyar Köztársaság
+x
+A kormányzati rendszer
+x
+Az állam feladatai
+x
+Gazdasági ismeretek
+x
+Célok, feladatok
+A tantárgy általános célkitűzése, hogy az 1–4. évfolyamon megalapozott társadalmi ismeretekre építve tárja a
+tanulók elé, valamint ismertesse meg velük a társadalomban élés múltbeli és jelenkori történéseit, lehetőségeit.
+Tudatosodjon a tanulókban, hogy a történelem tényei, eseményei, az ember megjelenésének kezdeteitől
+egymással összefüggésben, társadalmi keretek között mennek végbe, és a különböző társadalmak többféle
+szintű-minőségű társadalmi, emberi létezést biztosítanak.
+A tanuló jusson szakszerű, reális történelmi ismeretekhez.
+
+Alakuljon ki a tanuló attitűdje, viszonya önmagához, szűkebb és tágabb környezetéhez, a történelmi múlthoz.
+Segítse az oktatás az érzelmileg is megalapozott énazonosság-tudat, valamint a nemzeti és európai identitás
+kialakulását.
+Járuljon hozzá a humán szocializációs, rehabilitációs folyamat eredményességéhez
+Biztosítsa azt a jelentörténet feldolgozásához nélkülözhetetlen szemléleti megerősítést, miszerint a megelőző
+korok, társadalmak történéseiből következő változások, azok továbbvitele a történelmi hagyományok
+megbecsülése mellett minden nemzedéknek feladata. Ennek tudatosodása segíti a jelen ellentmondásos
+folyamataiban való eligazodást is.
+A fentiek szellemében a 9–10. évfolyamon tanított jelenismeret-állampolgári ismeretek felkészíti a tanulókat a
+demokratikus közéletben való tudatos részvételre, hozzásegíti őket ahhoz, hogy elfogadják a jogilag szabályozott
+demokratikus viszonyok alapelveit és értékeit.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai az alapozó szakaszban
+– Ismeretszerzés segítése személyes beszélgetéssel, tárgyak, épületek, képek közvetlen megfigyelésével,
+hallott és olvasott elbeszélő szövegekkel, filmekkel, tömegkommunikációs eszközökkel.
+– Az emberi magatartásformák és élethelyzetek megfigyelésének, az információgyűjtés technikájának
+fejlesztése adott témához az iskolai vagy más könyvtárban.
+– Kérdések önálló megfogalmazásának fejlesztése a tárgyalt témával kapcsolatban, a mesehősök és a
+történelmi szereplők megkülönböztetése, híres emberek, történelmi személyiségek jellemzése.
+– A cselekvés és annak következménye közötti kapcsolat felismerésének gyakorlása szituációs játékokban
+való aktív részvétellel.
+– Tapasztalatok szerzése: a valós, a lehetséges és a lehetetlen megítélése (pl. helyszín, idő, szereplők,
+események kapcsán).
+– A tárgyilagos érvelés és a személyeskedés megkülönböztetésére nevelés.
+– Saját vélemény érthető megfogalmazásának erősítése mások véleményének meghallgatásával.
+– Szóbeli beszámoló-képesség fejlesztése a saját tapasztalatokról, gyűjtőmunkával szerzett ismeretekről.
+– Rajzolási képesség fejlesztése történelmi vagy társadalmi témáról.
+– Térbeli és időbeli tájékozódás fejlesztése, aktív és passzív szókincs bővítése.
+– Ismeretszerzés technikájának fejlesztése a lakóhely hagyományai, múltja, értékei, a magyar állam és a
+magyar nép történelmének fontosabb fordulópontjain keresztül.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai a fejlesztő szakaszban
+– Információ gyűjtésének szélesítése adott témához kapcsolódóan az iskolai vagy más könyvtárban,
+médiatárban, múzeumokban.
+– A tanultak alkalmazása új feladathelyzetben.
+– A lényegkiemelés fejlesztése írott és hallott szövegekből, adott szempont szerint.
+– A fikció megkülönböztetése az igaz történettől.
+– Önálló vélemény megfogalmazásának tanulása, érvek gyűjtése a saját vélemény alátámasztására.
+– Mások véleményének türelmes meghallgatása és figyelembevétele.
+– Események, történetek elbeszélésének fejlesztése emlékezetből élőszóban.
+– Az íráskészség fejlesztése fogalmazás készítésével adott történelmi-társadalmi témáról.
+– A kreativitás fejlesztése. A megjegyzés, felidézés technikáinak kimunkálása, rajzos ábrák készítése.
+– Térben-időben való tájékozódás fejlesztése időmeghatározással, más ismert jelenségre, eseményre való
+utalással (pl. a honfoglalás után, Mátyás uralkodása idején); az idő ábrázolásával (pl. időszalag készítése); a
+térkép legfontosabb elemeinek felismerésével: vizek, domborzati jelölések, államhatárok, települések.
+– Ismeretszerzés technikáinak továbbfejlesztése.
+
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai a megszilárdító szakaszban
+– Ismeretszerzés technikáinak fejlesztése különböző írásos forrásokból, információk gyűjtése az interneten.
+– A legfontosabb történelmi, társadalomtudományi kézikönyvek, lexikonok ismeretének és használatának
+megszilárdítása.
+– A kritikai gondolkodás fejlesztése többféleképpen értelmezhető szöveg jelentésrétegeinek feltárásával,
+különféle társadalmi-történelmi jelenségek összehasonlításával.
+– Történelmi szereplők, társadalmi csoportok, intézmények viselkedésének elemzése.
+– Feltevések megfogalmazása, összefüggések felismerésének fejlesztése az egyének, csoportok és
+intézmények viselkedésének mozgatórugóiról.
+– Társadalmi, történelmi eseményekről, jelenségekről és személyekről szóló önálló vélemény megfogalmazási
+képességének erősítése.
+– Különféle értékrendek összehasonlítása, a saját értékek tisztázása.
+– A megismert jelenségek rendezése: okok és okozatok, hasonlóságok és különbözőségek, szándékok és
+következmények szerint.
+– A kommunikációs képesség fejlesztése, a tanultak gyakorlása, automatizálása az alábbi tevékenységekkel: a
+vita során véleménykülönbségek tisztázása, a saját álláspont gazdagítása, továbbfejlesztése mások
+véleményének figyelembevételével. A különböző információforrások elemzéséből levont következtetések,
+illetve különféle társadalmi-történelmi összefüggések szóbeli kifejtése.
+– Történelmi, társadalmi témák vizuális ábrázolása. Önállóan gyűjtött képekből tabló készítése.
+– Térben-időben való tájékozódás fejlesztése, szókincsbővítés a történelmi korszakok, periódusok nevének
+használatával a történelmi idő tagolására, események, jelenségek, személyek stb. időrendbe állításával, a
+történelmi tér változásainak leolvasásával különböző térképekről.
+– Ismeretszerzés elsajátított technikáinak gyakorlása.
+– Elemzés, összefüggéslátás, ok-okozat feltárása.
+A tanulók értékelésének elvei
+– Folyamatos ellenőrzés, értékelés, egyéni szükséglethez igazodó segítségnyújtás jellemezze a tanítás-tanulás
+folyamatát.
+– Az ellenőrzés és értékelés legyen sokszínű, sokirányú, következetes.
+– Az értékelés legyen a tanulók számára is informatív jellegű, biztosítsa a további motiváltságot, a személyiség
+fejlődését.
+– Az értékelés megerősítő szereppel bírjon, pozitívumokra épülő legyen.
+– A kiinduló diagnosztizáló értékelést kövesse egész évben a folyamatos formatív értékelés.
+– Az értékelés alapja mindig az önmagához mért fejlődés legyen, vegye figyelembe az ismeretelsajátítási
+folyamatban tanúsított aktív részvételt.
+– A tanuló egyéni képességeihez, fejlettségéhez, tudásához igazodó egyénre szabott számonkérésen alapuljon.
+– A differenciált értékelés kapjon hangsúlyt minden szakaszban.
+– Vegye figyelembe a tanuló kritikai gondolkodásának, kommunikációs készségének, időbeli, térbeli
+tájékozódásának fejlődését.
+
+ALAPOZÓ SZAKASZ
+(5–6. évfolyam)
+Témakör Tartalom
+Közvetlen
+környezetünk
+A családi közösség. Helyem a családban, saját élettörténet, a család múltja, története,
+generációk. A családfa.
+Az iskolai közösség. Az iskola múltja, története.
+A lakóhelytől a
+nagyvilágig
+A lakóhely ismerete. A lakóhely településformája, természeti szépségei, gazdasági
+értékei.
+Kulturális értékek, hagyományok ápolása. Népművészeti, történelmi emlékek,
+emlékhelyek.
+A múlt megismerése A múlt megismerésének forrásai: tárgyi és írásos emlékek, történelmi gyűjtemények, a
+múzeumok.
+A régészek munkája.
+Az időszámítás – Történetek Jézus életéről. A keresztény időszámítás.
+Élet az őskorban Az ember megjelenése a Földön, az ősember nyomában.
+A gyűjtögető, halászó, vadászó ősember életmódja. Küzdelem a természettel, a tűz
+szerepe az ősember életében.
+A földművelő és állattenyésztő ősember életmódja.
+Az első mesterségek és a csere kialakulása.
+Élet az ókori keleten Egy földműves házánál a Nílus partján. Vendégségben a fáraónál. Az egyiptomi
+iskolában.
+Történetek Mezopotámiából, Kínából, Indiából. Az emberi összefogás, tudományok és
+művészetek születése.
+Az ókori görögök Történetek a görög mondavilágból. Olimpiai játékok. Az athéni iskolában.
+A városállamok: Athén és Spárta. Mesterek és művészek.
+Az ókori rómaiak Mondák Róma alapításáról. A rabszolgapiacon: szabadok és rabszolgák. Történetek a
+római császárokról. Róma, az ókori nagyváros. A római iskolában.
+Rómaiak hazánk területén, megmaradt emlékek a római korból.
+A magyar történelem
+kezdetei
+A magyarság születése – a magyarok eredete, mondák és valóság.
+Vándorlás a pusztákon, az ősmagyarok életmódja. Harcoló őseink.
+Letelepedés, honfoglalás, 895.
+Élet a középkori
+Európában
+Élet a középkori falvakban. Önellátó gazdálkodás. Jobbágyság és szolgáltatások.
+A középkori városok. Céhmesterek és kereskedők. Lovagi élet a középkori várakban.
+Történetek az egyház szerepéről. A kolostori élet.
+Magyarország az
+Árpád-házi uralkodók
+idején
+A kalandozások kora. Géza és I. István. István koronázása, az államalapítás – 1000–1001.
+I. (Szent) László és Könyves Kálmán – törvények születnek.
+II. András – a királyi hatalom gyengülése.
+A tatárjárás, a muhi csata.
+IV. Béla, a második honalapító.
+Az Árpád-kor műveltsége és művészete.
+Az Árpád-ház kihalása.
+
+Témakör Tartalom
+A virágzó középkor
+Magyarországon
+Az Anjouk kora – Károly Róbert gazdasági intézkedései. Nagy Lajos birodalma.
+Zsigmond király.
+A parasztok elégedetlensége – felkelés Erdélyben.
+A hazánkat veszélyeztető külső támadások.
+Hunyadi János a török ellen. Nándorfehérvár, 1456.
+Hunyadi Mátyás. Kultúra és művelődés Mátyás udvarában.
+Dózsa György a parasztok vezére, 1514.
+A mohácsi vész, 1526.
+Buda török kézen, 1541. Az ország három részre szakadása.
+Az újkor kezdete
+Európában
+Nagy földrajzi felfedezések, 1492. Felfedezők és hódítók, leigázott népek.
+Történetek a kor emberének gondolkodásáról – reformáció, ellenreformáció.
+Magyarország az újkor
+hajnalán
+Élet a török hódoltságban, a királyi Magyarországon és a független Erdélyben.
+A végvárak dicsősége, élet a végeken.
+Nagy várvédők, kiemelkedő személyiségek.
+Függetlenségi harcok.
+„Istennel a hazáért és a szabadságért” – II. Rákóczi Ferenc szabadságharca 1703–11.
+A szatmári béke és következménye.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– A tanuló környezetére vonatkozó közvetlen megfigyelések, tapasztalatok gyűjtése, beszámolás a
+megfigyelési szempontok alapján.
+– Közvetett ismerethordozók – képanyagok, fényképek gyűjtése, válogató, összehasonlító, rendező
+tevékenységek.
+– Történetek, mondák olvasása, dramatizálása.
+– Történelmi szituációk eljátszása, megjelenítése.
+– Egyszerű korabeli írásos források (legendák, krónikák) olvasása, kérdések megfogalmazása. Történetek
+mesélése. Rajzos illusztrációk készítése. Rajzos történeti napló összeállítása.
+– Múzeumok, gyűjtemények látogatása, rajzos, 1-2 mondatos beszámoló készítése. Kiállítási anyagok
+– rajzok, makettek, képanyagok – összeállítása az egyes korok jellegzetes ruházataiból, használati
+eszközeiből. Jellemzések, példák felsorolása. Tananyag, tananyagrészlet elmondása kérdések segítségével.
+– Tapasztalatszerzés bővítése, képi információk gyűjtése adott témáról, válogató, összehasonlító, rendszerező
+tevékenység, tablók, képes időszalagok készítése.
+– Manipuláció képes időszalagon képekkel.
+A szakasz végére elvárható követelmények
+– A tanuló legyen tájékozott saját életeseményei alapján a múlt–jelen–jövő relációs rendszerben.
+– Ismerje saját helyét, szerepét a családjában.
+– Mutassa be az iskolai közösséget közvetlen tapasztalatszerzés, saját élmény alapján.
+– Meséljen családja és iskolája múltjából érdekes történeteket.
+– Ismerje lakóhelyének településformáját, természeti szépségeit, gazdasági értékeit. Legyen képes ezek rövid
+szöveges bemutatására.
+– Tudjon biztonságosan tájékozódni és közlekedni lakóhelyén.
+– Ismerje és használja a lakóhely művészeti és kulturális szolgáltatásait.
+– Tudjon különbséget tenni a történelem különböző megismerési forrásai között.
+– Legyenek elemi összehasonlító fogalmai a távoli korban és a ma élő emberek életmódjáról.
+
+– Ismerje fel a tanult korokat – ruházatot, használati tárgyakat, jellegzetes épületeket – képről.
+– Legyen képes beszélni Jézus születéséről, a kereszténység kialakulásáról.
+– Értékelje a Biblia jelentőségét, tudjon elmondani bibliai történetet.
+– Mondja el önállóan a megismert mondák, legendák, történetek tartalmát.
+– Tudjon különbséget tenni a történetek mesei és valóságos eseményei között.
+– Legyen képes segítséggel rajzos beszámolókat készíteni.
+– Ismerjen fel és nevezzen meg hazánk őskori és ókori emlékeiből legalább kettőt képről, filmről.
+– Tudja leolvasni, megmutatni a képes történelmi atlaszban a tanultakkal összefüggő történelmi helyeket.
+– Olvassa le és mutassa meg vándorló őseink állomáshelyeit.
+– Ismerje a letelepedés, a honfoglalás évszámát, valamint fontosabb emlékhelyeit.
+– Tudjon érzelmileg azonosulni a honfoglalással, a magyarság életében betöltött szerepével.
+– Tudja megnevezni a tanult korok uralkodóit, beszéljen tetteikről.
+– Legyen képes tanári rávezetéssel ok-okozati összefüggések felismerésére, következtessen a tanulságokra.
+– Legyen képes példákkal illusztrálni az ország fennmaradásának, a magyarság megmaradásának küzdelmeit.
+– Legyen képes ismereteit bővíteni forrásanyagok felhasználásával, olvasson rövid részleteket a tananyaghoz
+kapcsolódóan.
+– Tudja a tanult évszámokat az időszalagon elhelyezni, az események helyszíneit a térképen megmutatni.
+– Mondjon példákat a történelmi események művészeti megjelenítésére.
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+Témakör Tartalom
+A lakóhelytől a nagyvilágig A lakóhely társadalma. Jellegzetes társadalmi csoportok a lakóhelyen.
+A helyi közösségek tevékenysége a lakóhely életében, részvételi lehetőségek.
+A helyi ügyintézés színterei a lakóhelyen. Intézmények, szolgáltatások –
+családsegítő szolgálat, munkaügyi szolgálat, polgármesteri hivatal. Az ügyintézés
+folyamatai.
+A polgári átalakulás kora Találmányok és feltalálók.
+Az ipari forradalom és hatása a társadalomra és a gazdaságra.
+Történetek a nagy francia forradalomról, Napóleonról.
+Polgárosodás
+Magyarországon
+Hazánk a Habsburg Birodalom részeként. A soknemzetiségű ország. Mária
+Terézia és II. József uralkodásának hatása a gazdasági életre.
+A reformkor politika irányítói – Széchenyi, Kossuth a társadalom átalakításáért.
+A reformkori országgyűlések.
+Nemzeti kultúrának kibontakozása, jeles személyiségek.
+1848. március. 15. A forradalom eseményei. Nemzetiségi törekvések
+kibontakozása, polgári törvények. A szabadságharc legfontosabb eseményei,
+eredményei.
+A kiegyezés kora Programok és intézkedések a szabadságharc bukása után. A kiegyezés.
+Gazdasági felzárkózás. Budapest – a világváros születése. A millennium. „Boldog
+békeidők.”
+
+Témakör Tartalom
+A késő újkor Európában.
+Az első világháború
+Versenyben a világ felosztásáért. Az első világháború. 1914–18. Frontvonalak –
+villámháború, állóháború, a hátország. Forradalom, hatalmi átrendeződés
+Oroszországban. Győztesek és vesztesek.
+A trianoni Magyarország A trianoni békeszerződés és következményei.
+Élet a Horthy-Magyarországon.
+Társadalmi, politikai megmozdulások. Az őszirózsás forradalom és a
+Tanácsköztársaság – helytörténeti vonatkozások.
+A jelenkor kezdete, két
+háború között
+A nagy gazdasági világválság Európában – túltermelés, következmények.
+Háborús készülődés – Németország világuralmi tervei.
+A második világháború.
+Hazánk a háborúban
+A II. világháború eseménytörténete 1939–45. – a fordulópontok.
+A háború befejezése, a párizsi béke.
+Hazánk a háborúban, a német megszállás, helytörténeti vonatkozások.
+Korunk történelme Földünk a második világháború után – a megosztott világ.
+A hidegháború, fegyverkezés, katonai, gazdasági szövetségek, kommunista
+diktatúrák.
+Hazánk a vesztes háború után.
+A pártállam kialakulása. Új kormányprogram – Nagy Imre.
+Forradalom és szabadságharc 1956. – helytörténeti vonatkozások.
+A Kádár-korszak. A pártállam összeomlása – vissza a demokráciához.
+A békés rendszerváltás – a Magyar Köztársaság létrejötte 1989. október 23.
+A demokratikus intézményrendszer kialakulása – az Antall-kormány
+megalakulása.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– Írásos anyagok tanulmányozása, elemzése, célszerű válogatása.
+– A helyi hírek, újságok figyelése, gyűjtés, rendszerezés, beszámoló.
+– Különböző térképek használata. Feladatvégzés térképvázlatokkal.
+– Fogalmi szemléltető eszközök – szókártyák, mondatkártyák használata, rendszerezése. Jellemzők, példák
+válogatása adott tananyaghoz.
+– Történetek dramatizálása, rendezés, szereplés, tudatos szerepválasztással. Tananyag, tananyagrészletek
+önálló elmondása, kérdések megfogalmazása. Tematikus rajzok készítése.
+– Időszalag, időtáblázatok használata.
+– Szituációs játékok, dramatikus feldolgozások. Beszélgetések, vélemények megfogalmazása, ütköztetése,
+vita.
+– Történelmi visszaemlékezések meghallgatása. Forrásanyagok keresése, felhasználása.
+– A lakóhelyi információk gyűjtése, a gyűjtött anyag felhasználása beszámolókban, önálló feleletekben.
+Tananyagról vázlatkészítés.
+– Történelmi témájú regényrészletek, filmek, dokumentumfilmek megtekintése, beszélgetés, érzések,
+vélemények megfogalmazása.
+A szakasz végére elvárható követelmények
+– Tudjon megnevezni a lakóhelyén működő helyi közösségeket, ismerje alapvető tevékenységeiket, mondjon
+gyakorlati példákat.
+– Ismerje lakóhelyén a lakossági ügyintézés intézményeit, tudja hova, milyen ügyben lehet fordulni.
+
+– Tudja kezelni a kiemelkedő személyiségekről gyűjtött életrajzi adatokat.
+– Legyen képes szóban felvázolni rövid életrajzi portrét egy általa példaképnek tartott történelmi
+személyiségről.
+– Ismerjen fel az egyes korok eseményei között történelmi összefüggéseket, készítsen azokról vázlatot.
+– Ismerje a legjellegzetesebb reformkori személyiségek nézeteit, érveljen, vitázzon a megismert tények
+alapján.
+– Tudjon összefüggéseket említeni a világ- és a magyar történelem eseményei között. Az ok-okozati
+összefüggések felismeréséből, a következtetésekből legyen képes elemi ítéletalkotásokra.
+– Megadott szempontok alapján elemezze a társadalmi, gazdasági változásokat, konkrét példákkal mutasson rá
+a fejlődésre.
+– Tudja a tanult történelmi évszámokat.
+– Jártasság szintjén használja a képes történelmi atlaszt.
+– Ismerje fel, hogy népünk számára milyen gazdasági, társadalmi veszteségeket jelentett a háborúkban való
+részvétel.
+– Legyen képes a térképről önállóan leolvasni a háborús eseményeket, használja fel a térképet szóbeli
+feleletéhez.
+– Utasítsa el a nemzeti, faji gyűlöletet.
+– Legyen magatartásában megnyilvánuló magyar és európai azonosságtudata.
+– Ismerjen néhány történelmi témájú irodalmi művet, filmet.
+– Legyen képes tankönyvből önállóan felkészülni, könyvtárban forrásanyagot keresni, irodalmi ismeretei
+alapján illusztrációkat gyűjteni adott témához.
+– Alkalmazza a tanulás során gyűjtött anyagot, a kortársak visszaemlékezéseit.
+MEGSZILÁRDÍTÓ SZAKASZ
+(9–10. évfolyam)
+Témakör Tartalom
+Korunk történelme A rendszerváltás, a demokratikus viszonyok.
+Hazánk Európában és
+a nagyvilágban
+Hazánk az európai tájak rendszerében. Közép-európai elhelyezkedés. Hazánk kapcsolata
+a szomszédos országokkal.
+A határon túl élő magyarság.
+Magyar állampolgárok külföldön. Útlevél, vízum, nagykövetség.
+A globalizálódó világ A kettészakadt világ, népességrobbanás, világélelmezési válság, AIDS – a globalizáció
+problémái.
+Az ENSZ tevékenysége. Az európai biztonsági rendszer és intézményei.
+Az Európai Unió, az egységes pénznem, az euró.
+Hazánk, a Magyar
+Köztársaság
+A demokratikus állam, az államterület. Az alkotmány mint alaptörvény.
+A választási rendszer, a képviseleti demokrácia szervei – az országgyűlés, a helyi
+önkormányzat képviselőinek választása. A személyes részvétel lehetőségei a
+törvényhozásban – népszavazás, népi kezdeményezés.
+Állampolgárság – állampolgári jogok és kötelességek. Az élethez, az emberi
+méltósághoz, a személyes szabadsághoz való jog mint alapjogok. A gyermekek jogai.
+Gazdasági, szociális és kulturális jogok.
+A kormányzati
+rendszer
+Az országgyűlés, a törvényhozás. Kormány- és ellenzéki pártok.
+Miniszterelnök, minisztériumok, helyi önkormányzatok. Végrehajtás, ellenőrzés.
+
+Témakör Tartalom
+Az állam feladatai A belső rend védelme. A rendőrség. A bűnüldözés, a közrend és a biztonság védelme.
+Közlekedés-rendészet, rendészeti szervek, a polgárőrség.
+A honvédelem.
+Külpolitikai, diplomáciai feladatok.
+Az igazságszolgáltatás. A bíróságok. Polgári és büntető eljárások. Az ügyészségek.
+A védelemhez és az ártatlansághoz való jog.
+Művelődésügy – a műveltség társadalmi szerepe.
+A közoktatás. Az iskolán kívüli művelődés.
+Az egészségügyi ellátás, a társadalombiztosítás, a szociálpolitika.
+Gazdasági ismeretek A háztartás. Családi munkamegosztás, családi szükségletek, a családi költségvetés.
+Megtakarítási lehetőségek.
+A vállalkozás. Fajtái, az alapítás feltételei. A sikeres vállalkozás kritériumai
+– nyereség, társadalmi hasznosság.
+A munka világa. A munkaviszony létesítésének szabályai. A munkaszerződés.
+Munkanélküliség, munkaügyi szervezetek. Érdekvédelmi, érdekképviseleti szervezetek.
+A nemzetgazdaság. Termelés, fogyasztás, felhalmozás.
+A gazdaság főbb sarokpontjai egy-egy egyszerű példán keresztül: gazdasági növekedés,
+foglalkoztatottság, infláció, költségvetés, fizetési mérleg.
+Állami bevételek, az állami adók.
+A külgazdaság. Külkereskedelem, nemzetközi gazdasági szervezetek.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– Újságok olvasása, televíziós, rádiós hírek hallgatása, ismeretszerzés a kapott információkból, beszámoló.
+– Vázlat, ábra, rajz készítése tanári segítséggel.
+– Statisztikai adatok gyűjtése, felhasználása, elemzés, következtetések levonása.
+– Saját élményből gyakorlati tapasztalatgyűjtés.
+– Történetek, események elbeszélése.
+– Történelmi események okainak és következményeinek elemzése.
+– Látogatás a helyi közigazgatási és szolgáltató intézményekben (polgármesteri hivatal, bíróság, családsegítő
+központ, utazási iroda).
+– A helyi közélet eseményeinek követése.
+– Szituációs játékok (ügyintézés, tárgyalás, vita, sajtókonferencia, riportkészítés, tudósítás).
+– Kérdőívek, kérvények kitöltése.
+– Részvétel osztály- vagy iskolai újság írásában. Hirdetések fogalmazása.
+– Naplóvezetés.
+A szakasz végére elvárható követelmények
+– Legyenek elemi ismeretei a világot érintő nagy problémakörökről.
+– Ismerje a külföldre utazás gyakorlati tudnivalóit.
+– Tudjon egyszerű példákat mondani a demokratikus társadalmi részvétel tanult színtereiről.
+– Értse, hogy az emberek az eseményeket, a változásokat különbözőképpen is érzékelhetik, értékelhetik.
+– Legyen képes néhány mondatban véleménye mellett érvelni, mások érvelését figyelembe venni.
+– Tudjon ismereteket meríteni különböző forrásokból.
+– Tudjon egyszerű és képes információból származó ismeretet értelmezni, abból következtetéseket levonni.
+– A tanult történelmi események kapcsán tudja megkülönböztetni a tényeket és az ehhez kapcsolódó
+véleményeket.
+
+– Tudja egyszerű példával bemutatni a folyamatosság és a változások szerepét a társadalmi-történelmi
+folyamatokban.
+– Tudjon egyszerű példát mondani az értékek őrzésére, a fejlődésre.
+– Legyen képes konkrét események kapcsán a jelen és a múlt megkülönböztetésére.
+– Használjon kronológiai táblázatokat.
+– Tudja megnevezni Magyarország államformáját, állam- és kormányfőjét, legyen képes felsorolni néhány
+minisztert.
+– Tudja, mit jelent a hatalommegosztás, tudjon példákat mondani a törvényhozás, a végrehajtás, az ellenőrzés
+megvalósulásának színtereiről.
+– Ismerje az igazságszolgáltatás szerveit. Legyen tisztában az Alkotmánybíróság szerepével.
+– Ismerje az alapvető állampolgári jogokat és kötelességeket.
+– Legyenek konkrét ismeretei a közrend, a haza védelméről.
+– Ismerje az alapvető gazdasági ágazatokat (mezőgazdaság, ipar, kereskedelem, szolgáltatás), értse a termelés
+és az életszínvonal közötti összefüggéseket.
+– Tudjon példákat mondani a különböző vállalkozási formákról.
+– Ismerje a munkába állás, a munkavállalás szabályait.
+– Ismerje a munkanélkülivé válás esetén szükséges teendőket.
+– Ismerje az adók fajtáit, tudja, hogy a szerzett jövedelem után adózni kell.
+– Ismerje a munka világával kapcsolatos helyi intézményeket, tudja, hol lehet segítséget kérni.
+– Tudjon családi költségvetést készíteni.
+– Állampolgári ismeretei tükröződjenek a magatartásában.
+TERMÉSZETISMERET
+Tantárgyak és szakaszok
+Tantárgyak – szakaszok
+Alapozó szakasz Fejlesztő szakasz Megszilárdító szakasz
+5. évfolyam 6. évfolyam 7. évfolyam 8. évfolyam 9. évfolyam 10. évfolyam
+Természetismeret
+(hon- és népismeret)
+Természetismeret – Biológia,
+egészségtan
+Természetismeret – Fizika,
+kémia
+Természetismeret – Biológia,
+egészségtan
+Természetismeret – Fizika,
+kémia
+(hon- és népismeret)
+
+ALAPOZÓ SZAKASZ
+(5–6. évfolyam)
+Óraszámok
+Szakaszok – évfolyamok
+Alapozó szakasz
+5. 6.
+Heti óraszám 2 2
+Éves óraszám 74 74
+Témakörök ütemezése
+Alapozó szakasz
+Témakörök
+5. évfolyam 6. évfolyam
+Megismerési módszerek x x
+Az élettelen természet anyagai, kölcsönhatások x x
+Az élő természet – termesztett növények, tenyésztett állatok x
+A hazai tájak életközösségei x
+Természetföldrajzi környezetünk elemei: az időjárás, az
+éghajlat
+x
+Földrajzi ismeretek alapozása – tájékozódás a térképen x
+Célok
+– Természettudományosan megalapozott, a tanulók által is megfigyelhető, megvizsgálható, a különböző
+ismeretszerzési forrásokból megerősíthető tudás átadása a környezet tárgyairól, anyagairól, élőlényeiről,
+jelenségeiről, folyamatairól.
+Feladatok
+– Az életkornak, a fejlettségnek megfelelő és a sajátos nevelési igényekkel összhangban lévő megismerési
+módszerek megtanítása.
+– A közvetlen környezetben végezhető – természettel kapcsolatos tevékenységek elsajátítása.
+– A földrajzi ismeretek tanulásának megalapozása.
+
+– A térképen való tájékozódás kialakulásának segítése.
+– A szűkebb és tágabb környezet megismerése iránti igény kialakítása.
+– A tanuló tájékozódási képességének (térben, időben és saját személyére vonatkozóan) fejlesztése.
+– Az élő és élettelen természet kölcsönös egymásra hatásának, sokféleségének megismertetése.
+– A környezetük szépségét érzékelni tudó, azért tudatosan tenni képes emberré nevelés.
+– A haza iránti megbecsülés, szeretet, a közösséghez tartozás érzésének felkeltése.
+Tantárgyspecifikus fejlesztési feladatok, tevékenységek, tanulásszervezés
+Tájékozódás a tudományos megismerésről
+– Rendszeres megfigyelés, vizsgálódás, egyszerű becslés, mérés (önállóan, csoportban), a tapasztalatok
+megfogalmazása segítséggel, különféle információhordozók használata csoportmunkában – irányítás mellett.
+Tájékozódás az élő és az élettelen természetről
+– A használati tárgyak anyagainak felismerése, elődeink használati tárgyainak megismerése. Az anyagfogalom
+biztos használata.
+– Egyszerű játékok, kísérletek a kölcsönhatásra (a hő, a fény terjedése), a mágnesességre; példák segítségével
+a hétköznapi folyamatokban tapasztalható energiafajták és energiahordozók megismerése.
+– Az élővilág változásának bemutatása; az ember kultúrkörnyezetének értelmezése a növénytermesztésben, az
+állatok nevelésében.
+– Konkrét példák az életközösségekre, az életközösségekben működő kapcsolatrendszer érzékeltetése.
+Tájékozódás a közvetlen földrajzi környezetben
+– Egyszerű megfigyeléseken, tapasztalatokon alapuló időjárás-megfigyelés, a változások értelmezése; alapvető
+mérések elvégzése, a folyamatokban megmutatkozó oksági kapcsolat felismerése – tanári irányítással; az
+időjárás és a halmazállapot-változás közötti kapcsolat felfedezése segítség mellett.
+– Tapasztalatok gyűjtése a környezet felszíni formáiról.
+– Ismeretek a térképi ábrázolásról, egyszerű tájékozódási gyakorlatok a térképen.
+– Képi információk, rövid szemléletes leírások felhasználásával a földrajzi, domborzati, térképi elsődleges
+képzetek kialakítása.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Megismerési módszerek A megismerési módszerek és eszközök.
+Részvétel a tanári kísérletekben, kísérletezés. Balesetek megelőzése –
+szabályok.
+Könyvek, lexikonok, tömegkommunikációs eszközök használata az
+ismeretszerzésben.
+Természettudományos alapfogalmak kiépítése, használata.
+A vizsgálóeszközök adekvát megválasztása, használata.
+A tapasztalatok lejegyzése.
+
+Témakör Tartalom
+Az élettelen természet anyagai,
+kölcsönhatások
+Az anyag legfontosabb tulajdonságai szerinti csoportosítás.
+Az anyagok kölcsönható képessége: a hőhatás, a mechanikai hatás, a
+gravitáció. Az égés, a fényjelenségek értelmezése példákkal.
+Halmazállapot-változások kísérleti megfigyelése, összekapcsolása az időjárási
+jelenségekkel.
+Ismerkedés konkrét, hétköznapi folyamatokban az energiával, az
+energiahordozók jelentőségével a hétköznapokban. Elődeink által használt
+energiaforrások.
+Magyar tudósok, feltalálók munkássága.
+Az élő természet – termesztett
+növények, tenyésztett állatok
+Szántóföldi növények: a búza és a kukorica, egyéb gabonafélék. A
+zöldségeskert és a gyümölcsöskert növényei. Kártevők a zöldség- és a
+gyümölcsösben.
+Az állatok háziasításának története, fontossága.
+A legismertebb háziállatok és szerepük az ember életében: sertés,
+szarvasmarha, ló, baromfi. Jellemző testrészeik, kültakarójuk, táplálkozásuk,
+szaporodásuk, ivadékgondozásuk, mozgásuk. A haszonállatok tartásának,
+gondozásának módja a ház körül és a nagyüzemekben. Állatvédelem.
+A hazai tájak életközösségei A hazai mezők, rétek, élővilága
+Jellegzetes növények: gyermekláncfű, csalán, kamilla.
+Jellegzetes állatok: fehér gólya, mezei nyúl, fürge gyík. Külső jegyeik,
+testfelépítésük, mozgásuk, szaporodásuk, alkalmazkodás a környezetben.
+Tápláléklánc felfedezése a mezők, rétek élővilágában. Emlős, madár, hüllő:
+csoportokba sorolás.
+A hazai erdők élővilága
+Jellemző növényei: tölgyfa, bükkfa, erdei fenyő, kökény, vadrózsa, hóvirág,
+ibolya, gyöngyvirág, gyógynövények. A gombák az erdő különleges élőlényei.
+Jellemző állatai:
+– madarak: széncinke, nagy fakopács, erdei fülesbagoly,
+– emlősök: szarvas, vaddisznó, vörös róka, erdei egér,
+– rovarok: erdei vöröshangya, szarvasbogár,
+– puhatestűek: éti csiga.
+Az évszakonkénti változások erdeinkben, a növények és állatok életritmusa.
+A megismert növények és állatok jellemzői.
+Az állatok testfelépítése, kültakarójuk, búvóhelyük, táplálkozásuk,
+szaporodásuk, ivadékgondozásuk. Az állatok és növények kölcsönös
+kapcsolata, egymásrautaltsága.
+Táplálékláncok az erdő életközösségében.
+Az ember felelőssége az erdők védelmében. Pusztító hatások. Az
+erdőgazdálkodás fő szabályai. Az erdőtüzek, a savas eső pusztító hatása.
+Hazai vizek, vízpartok élővilága
+Jellemző növényei: nád, gyékény, fűzfa.
+Jellemző állatai: szúnyog, ponty, folyami rák, kecskebéka, vízisikló, tőkésréce.
+Egyéb vízi, vízparti élőlények folyamatos megfigyelése.
+A növények és állatok hasznosítása az ember életében.
+Jellemző táplálékláncok.
+A növények és állatok testfelépítése, életmódja, szaporodása.
+A vizek és vízpartok élővilágának jellemzői, évszakonkénti változásai.
+Alkalmazkodásuk a környezethez.
+Az állatok: kétéltű, hüllő, hal, madár, ízeltlábú csoportba rendezése.
+
+Témakör Tartalom
+Természetföldrajzi környezetünk
+elemei: az időjárás, az éghajlat
+Az időjárás folyamatos megfigyelése. Az időjárás elemei: szél, csapadék,
+hőmérséklet, napsütés. A tapasztalatok rögzítése. Az időjárás-jelentések
+értelmezése.
+A víz körforgása a természetben.
+Az éghajlat fogalma.
+Földrajzi ismeretek alapozása –
+tájékozódás a térképen
+A világtájak a valóságban és a térképen. Az iránytű használata.
+Alaprajz, térképvázlat, sík térkép, domború térkép.
+Domborzati viszonyokat jelölő színek és jelek a térképen.
+Vizek ábrázolása a térképen. A felszíni vizek fajtái. A vizek szennyezésének
+ártalmai és a vizek óvása.
+Hazánk térképének megismerése.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– A tartós figyelem és emlékezet fejlesztése, az érdeklődés, a kíváncsiság felkeltése és megtartása.
+– A kifejezőképesség, az önálló megnyilatkozás, véleményformálás fejlesztése.
+– A térbiztonság megerősítése a valóságos terepen és a térképi ábrázolásban, a szimbólumok használatával.
+– A tér és az idő változásának felismerése, megfogalmazása, a természet folyamataiban a ciklikusság
+felfedezése, megfogalmazása.
+– A gondolkodási műveletek fejlesztése, alkalmazása: rendezés, csoportosítás, következtetés, ok-okozat,
+kapcsolatrendszer felfedezése. Kifejezésük szóban, írásban és képi formában.
+– Tanulási módszerek, szokások kialakulása az egyéni adottságoknak megfelelően, analógiák alkalmazása a
+feladatok megoldásában.
+A tanulók értékelésének elvei
+– Az értékelés alapja a tanulók önmagukhoz mért fejlődése. Az értékelés legfontosabb célja az ösztönzés.
+Ennek érdekében:
+– Megismerési módszerek, tájékozódás: a tapasztalatgyűjtésben való aktivitás, pontosság, motiváltság.
+Vizsgáló eszközök használata, (irányítással, segítséggel) érzékenység, kíváncsiság a közvetlen környezet
+jelenségei, folyamatai és anyagai iránt.
+– Tájékozottság térben és időben: a valóságról szerzett információk pontossága, az elemi környezeti – földrajzi
+jelenségek, folyamatok térbeli, időbeli rendjének felfedezése példákon át – irányítás mellett, tájékozottság a
+lakóhely környékén, a térkép és valóság kapcsolatának felismerése, gyakorlottság, a környezetben lezajló
+folyamatok időrendjének felismerésében (időjárás, életmód, termelő tevékenység, az élővilág változása).
+– Gondolkodási műveletek, kommunikáció: csoportokba rendezés, összefüggések észrevétele, egyszerű
+következtetések, analógiák alkalmazása, a tanult fogalmak pontos használata, egyszerű információhordozók
+kezelése, használata, elemi tájékozottság a lakóhelyre, otthonra, hazája természeti adottságaiban.
+A szakasz végére elvárható követelmények
+– A tanuló tudja tapasztalatait szóban, írásban rögzíteni.
+– Legyen tapasztalata a hő hatására bekövetkező változásokról.
+– Ismerje a tanult és vizsgált anyagok jellemző tulajdonságait, tudja azokat felsorolni.
+– Tudja, hogy tűz esetén hogyan kell segítséget kérni.
+– Ismerje a termesztett növények, valamint a házi és ház körül élő állatok szerepét az ember életében.
+– Tudja adott szempontok szerint jellemezni a tanult állatok testfelépítését, kültakaróját, életmódját,
+táplálkozását, szaporodását.
+
+– Tudja felsorolni az időjárás elemeit és ezek segítségével önállóan jellemezni a napi időjárást.
+– Tudja felsorolni és kijelölni a fő világtájakat a valóságban és a térképen.
+– Tudja használni az iránytűt.
+– Ismerje a színek jelentését a térképen.
+– Ismerje fel Magyarország természetföldrajzi térképét.
+– Ismerjen fel és nevezzen meg a hazai tájakra jellemző egy-egy növényt és állatot.
+– Tudja jellemezni és csoportosítani a tanult növényeket és állatokat, adott szempontok alapján.
+– Ismerje az összefüggéseket az időjárás, az évszakok változása és az élő természetben végbemenő változások
+között.
+– Tudja, hogy az ember pozitív és negatív értelemben is befolyásolja a természeti életközösségek
+fennmaradását, életét. Ismerje a tudósok, feltalálók munkásságának szerepét.
+– Tudjon felsorolni a környezetében alkalmazott környezetvédelmi módszereket.
+– Aktívan vegyen részt környezetvédelmi tevékenységben.
+– Használja tudatosan az ismeretszerzési eszközöket, módszereket.
+– Váljon igényévé a könyvek és egyéb ismerethordozók használata.
+– Legyen képes önállóan lejegyezni tapasztalatait.
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+BIOLÓGIA, EGÉSZSÉGTAN
+FIZIKA – KÉMIA
+Óraszámok
+Szakaszok – évfolyamok
+Fejlesztő szakasz
+7. 8.
+Heti óraszám 3 3
+Éves óraszám 111 111
+
+Témakörök ütemezése
+Biológia, egészségtan
+Fejlesztő szakasz
+Témakörök
+7. 8.
+A növények és az állatok életműködése x
+Távoli tájak természetes életközösségei x
+Az emberi test és működése x
+Egészségtani ismeretek x x
+Fizika – kémia
+Fejlesztő szakasz
+Témakörök
+7. 8.
+A testek mozgása, mozgásállapot-változások x
+A mechanikai munka, az egyszerű gépek x
+Hőtani alapjelenségek x
+A nyomás x
+Kémiai alapismeretek.
+A kémia mint tudomány
+x
+Az anyagok tulajdonságai és változásai
+Fémes és nemfémes elemek,
+valamint vegyületeik
+x
+Vegyszerek a háztartásban.
+Környezetvédelmi ismeretek
+x x
+
+A tanulók értékelésének elvei (a biológia, egészségtan; fizika – kémia tantárgyaknál)
+A tanulók értékelésének célja a tanulók fejlesztése.
+Szempontjai
+– Helyes képzetek kialakulása, a tanult és begyakorolt szakkifejezések használatának fejlettsége.
+– A megismert, megtapasztalt összefüggések felismerése, megfogalmazásának szintje.
+– A természettudományos megismerés szintje – a tanuló egyéni fejlettségének figyelembevételével.
+– A kísérletekben történő részvétel, egyszerű vizsgálódások, kísérletek önálló vagy párokban történő
+megoldása.
+– A gondolkodási funkciók, műveletvégzések szintje, alkalmazásuk önállóan vagy irányítás mellett.
+– Ismeretek gyakorlati alkalmazása saját életvitelében.
+– Tantárgyspecifikus tanulási szokások, az önálló vagy az irányított tanulás szintje.
+– A tanulmányok során elsajátított magatartási és viselkedési szabályok bensővé válása.
+– A jelenségek, folyamatok közül az emberre, a környezetre veszélyt jelentők felismerése, környezettudatos
+fogyasztói magatartás.
+– A tanuló részvétele a közös munkában, feladatokban, egyéni vállalásokban.
+A tantárgyak kiemelt habilitációs/rehabilitációs célú feladatai
+Gyakorlati problémák felismerése, korszerű életvezetés
+– Példák, gyakorlati feladatok segítségével tudatosítani az iskolában tanultak és az iskolán kívüli világ közötti
+kapcsolatot.
+– Ésszerű életvezetési stratégiák kialakítása, elfogadtatása, a negatív életvitel következményeinek beláttatása.
+Egészség- és környezetvédelem
+– Az egészség- és környezetvédelmi ismeretek megerősítése hétköznapi példákkal, rávezetéssel, tudatosítással,
+gyakorlati alkalmazással.
+– Környezetvédő magatartás kialakítása.
+– Természetbarát, ökologikus szemlélet formálása, példák bemutatása, összefüggések feltárása az érzelmi
+intelligencia mozgósításával.
+Gondolkodási műveletek fejlesztése, megerősítése
+– A gondolkodás rugalmasságának, a kritikai, a problémamegoldó gondolkodás fejlesztése sok életszerű
+példán, gyakorlaton át.
+– A tanult analógiák transzfer hatásának megerősítése új feladatban, tevékenységben.
+Az általános képességek fejlesztése
+– A kommunikációs, a téri irányok, téri viszonyok, a térbeli szókincs, az időészlelés pontossága, tudatossága.
+– Kommunikáció változó helyzetekben.
+– Különféle vélemény, nézet egyszerű kifejezése.
+– Az önálló tanulás erősítése.
+– Az információhordozók használatának képessége.
+
+BIOLÓGIA, EGÉSZSÉGTAN
+Célok
+– Tudományosan megalapozott, korszerű ismeretek nyújtása a növényi, állati, emberi szervezet működéséről,
+az egészség megóvásáról, hozzásegítve a tanulókat az egészséges életmód kialakítása és megtartása
+szempontjából szükséges szokásrend elsajátításához.
+– Annak elérése, hogy a tanulók képesek legyenek napi egészségügyi problémáik megoldására, megfelelő
+segítség kérésére és a kapott tanácsok betartására.
+Feladatok
+– Az élő és élettelen természet szoros kapcsolatának, az élőlények állandósságának és változékonyságának
+megismertetése.
+– A távoli tájak életközösségeinek megismerése.
+– Az egészséges emberi szervezet és működésének megismerése.
+– Az egészségmegőrző szokások elsajátítása iránti igény kialakítása.
+– Felelősség kialakítása a család testi-lelki egészségének megóvása iránt.
+– Tegye képessé őket arra, hogy baleset, betegség esetén célszerűen cselekedjenek és elemi szinten segítséget
+tudjanak nyújtani.
+– Az egészségkárosító szokások megismerése és meggyőződéses elutasítása iránti belső igény kialakítása.
+– Egészségügyi témájú kiadványok, filmek, újságok iránti figyelem felkeltése.
+– Az egészséges környezet megóvása iránti felelősségtudat kialakítása, az aktív természetvédelem iránti igény
+felkeltése.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+A növények és az állatok
+életműködése
+A növényi sejt és szövet. A növények tápanyagfelvétele, gázcseréje,
+anyagátalakítása, szaporodása, mozgása. Fotoszintézis. A növények szerepe
+az emberek életében.
+Egysejtű és soksejtű állatok.
+Az állatok táplálkozása, légzése, mozgása, szaporodása.
+Utógondozási formák.
+Az állatok kültakarója.
+Az állatok szerepe az ember életében.
+Távoli tájak természetes
+életközösségei
+A dél-amerikai erdők jellemző növényei és állatai: óriásfák, kúszónövények,
+fán lakó növények. Bőgőmajom, jaguár, óriáskígyó.
+A szavannák élővilága: fűfélék, majomkenyérfa. Csimpánz, antilopfélék,
+oroszlán, elefánt, nílusi krokodil.
+A sivatagok élővilága: kaktuszok, teve, vipera.
+A mérsékelt égövi füves puszták élővilága: tajgaerdő: lucfenyő, vörösfenyő,
+nyír. Antilopok, futómadarak, bölény.
+A tengerek élővilága: planktonok, heringek, korallok, kék bálna, cápa.
+A hideg övezet élővilága: tundra. A sarkvidékek jellemző élőlényei.
+Az emberi test és működése Sejtek, szövetek, szervek, szervrendszerek, szervezet.
+A bőr: szerkezete, bőrérzékelés. A túlzott napozás veszélyei.
+A mozgás: a test fontosabb csontjai. A csontok kapcsolódása. Az izmok
+rögzülése és feladataik. A mozgásszegény életmód következményei.
+A táplálkozás: a táplálkozás szervei. Az emésztés folyamata. A fogápolás és
+az egészséges táplálkozás fontossága.
+A légzés: a légzés szervei. A légcsere. A dohányzás kóros hatásai.
+
+Témakör Tartalom
+A keringési rendszer részei, funkciója.
+A vér anyagszállítása, útja a nagy- és kisvérkörben. Összetétele.
+A kiválasztás szervei és működése. A kiválasztó működés jelentősége a
+szervezet fenntartásában.
+A szaporodás: a férfi ivarszervek és működésük. A női ivarszervek és
+működésük.
+A terhesség és a szülés. Az ember nemi élete. Az ivarszervek higiénéje.
+Fogamzásgátlás.
+Az idegi szabályozás.
+Az érzékszervek: látás, hallás, szag- és hőérzékelés.
+Az idegrendszer tagolódása, működésének főbb jellemzői.
+A kábító- és élvezeti szerek hatása az idegrendszerre.
+Egészségtani ismeretek Az ember legnagyobb kincse az egészsége. Az egészség megóvásának
+alapfeltétele az egészséges környezet és életrend.
+A Föld népessége, az emberek sokfélék.
+Földünk jellemző embertípusai.
+A másság elfogadása.
+A betegség tünetei általában. Mikor kell orvoshoz fordulni?
+Teendők az orvos érkezéséig.
+A természetgyógyászat, népi gyógymódok.
+A gyógynövények szerepe a gyógyításban.
+A kuruzslás.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+Ismeretszerzés, tanulás
+– Fokozatosan nagyobb önállóság a megfigyelésekben, vizsgálódások, egyszerű kísérletek, mérések
+végzésében.
+– Páros, csoportos feladatok az információszerzésben, az információhordozók kezelésében segítségadás
+mellett.
+– Vázlatok, rajzok, feljegyzések készítése.
+– Szóbeli írásbeli beszámolás, egyszerű leírás, jellemzés.
+Tájékozódás az egyszerű természetről
+– Az élővilágról szerezhető információk jelentősége, kíváncsiság, érdeklődés felkeltése.
+– A kommunikációs helyzetek, a közvetlen tapasztalatszerzés lehetőségeinek megteremtése során az
+eggyüttműködés képességének fejlesztése.
+– Az élővilág egyensúlyának bemutatása az életből vett példákon.
+– Ismeretek bővítése az életjelenségek körében – növények, állatok tekintetében.
+– Az életközösségek leírására vonatkozó rendszerek elsajátítása – algoritmusok, analógiák alkalmazása.
+Tájékozottság az emberi szervezet működésében
+– Ismeretszerzés a saját szervezet működéséről, felépítéséről – megfigyelések, vizsgálódások, konkrét
+tapasztalatok segítségével.
+– A saját és mások tapasztalatainak elemi szintű értelmezése, egyszerű következtetések levonása.
+– A gyakoribb betegségek megelőzésére szolgáló, a gyógyítás mindenki számára elérhető módozatainak
+ismerete, a környezet és az egészség közötti kapcsolat felismerése.
+
+– Az emberi szervezetet veszélyeztető anyagok hatásainak megismerése.
+– Önismeret, önelfogadás, egészségmegóvás készségének fejlesztése.
+A szakasz végére elvárható követelmény
+– A tanuló tudjon példákat mondani a tanult életközösségek növényi és állati egyedeire, jellemző
+életformájukra.
+– Legyen képes példákon keresztül bemutatni egy-egy életközösséget veszélyeztető történést és az ember
+felelősségét.
+– Vegyen részt a növények, állatok gondozásában, óvásában, becsülje élő környezetét.
+– Legyen igénye egészséges környezetre, tevőlegesen vegyen részt annak kialakításában.
+– Fogadja el a másságot, lássa meg benne a természet sokszínűségét, szépségét. Legyen toleráns a saját
+környezetében felfedezhető mássággal kapcsolatosan.
+– Bővítse ismereteit különféle információhordozó anyagokon keresztül.
+– Legyen képes információk rövid, tömör közlésére szóban és írásban.
+– Ismerje saját teste felépítését, a szervrendszereket. Tudja elhelyezkedésüket, működésük lényegét és szerepét
+a szervezet harmonikus működésében.
+– Ismerje a fogamzásgátlás néhány lehetőségét.
+– Legyen képes megkülönböztetni a szervezet egészséges és beteg működését.
+– Legyenek ismeretei a természetgyógyászatról. Utasítsa el a kuruzslás minden formáját.
+FIZIKA
+Célok
+– A korszerű fizikai szemléletmódra nevelés.
+– A mindennapi élet és a technikai fejlődés által felvetett egyszerűbb, fizikával kapcsolatos ismeretek nyújtása.
+Feladatok
+– A fizikai jelenségek, folyamatok iránti érdeklődés felkeltése.
+– Meggyőződés kialakítása arról, hogy a mindennapi élet problémáinak megoldásában és az életünk minőségét
+meghatározó műszaki-tudományos fejlődésben jelentős szerepe van a fizika tudományának.
+– A technikai és kommunikációs készség, a gondolkodás fejlesztése.
+– A szakmatanulás megalapozása a fizikai ismeretekkel.
+– Környezettudatos magatartásra, aktív környezetvédelemre nevelés.
+– Annak tudatosítsa, hogy a természet egységes egész, a különböző tudományok ugyanazt az anyagi világot
+vizsgálják.
+– Alapismeretek nyújtása az anyag fizikai tulajdonságairól, a kölcsönhatásokról, a mindennapi gyakorlatban is
+megfigyelhető problémákról.
+– A fizikai vizsgálatok eszközrendszerének, munkamódszereinek megismertetése. A pontosság, a
+munkafegyelem jelentőségének beláttatása.
+– A megismerési módszerek egyre önállóbb használatának gyakoroltatása, a tapasztalatok pontos
+megfogalmazása.
+
+Tantárgyi tartalmak, témakörök
+Témakörök Tartalom
+A testek mozgása, mozgásállapot-
+változások
+A testek mozgása: mozgás és nyugalom.
+Az egyenes vonalú egyenletes mozgás, az egyenletesen változó
+mozgás, körmozgás és rezgőmozgás megfigyelése.
+A szabadesés.
+A dinamika alapjai. A testek tehetetlensége és tömege. Az erő
+mozgásállapot-változtató hatása. Erő–ellenerő – példák a
+mindennapi életből.
+A mechanikai munka, az egyszerű
+gépek
+A mechanikai munka: a munka értelmezése.
+A munka, az erő és az út összefüggése. Egyszerű számításos
+feladatok.
+Az egyszerű gépek: emelő, lejtő, hengerkerék, csiga. Egykarú,
+kétkarú emelő. Álló, mozgó csiga – csigasor. Egyszerű gépek a
+gyakorlatban.
+Hőtani alapjelenségek A hőmérséklet mérése. A hőtágulás jelensége a mindennapi
+életben.
+A termikus kölcsönhatás, a hőmennyiség.
+A termikus energia felhasználása a mindennapokban
+munkavégzésre.
+Halmazállapot-változások: olvadás, fagyás, forrás, párolgás,
+lecsapódás megfigyelése hétköznapi példákon. Olvadáspont,
+forráspont.
+Az égés, égéshő. Tűzoltás. Teendők tűz észlelésekor.
+Az energia-megmaradás érzékeltetése egyszerű, hétköznapi
+példákkal. Az energiamegmaradás törvénye.
+A nyomás A nyomás értelmezése egyszerű kísérletek alapján.
+A szilárd testek által kifejtett nyomás. Nyomás a
+folyadékokban és gázokban. Gyakorlati példák keresése:
+járművek fékberendezései, hidraulikus sajtó.
+Közlekedőedények megfigyelése egyszerű kísérletek során.
+Gyakorlati vonatkozások pl. kutak, vizek szennyeződése
+belvizek esetén.
+Arkhimédész törvényének érvényesülése a gyakorlatban. A
+felhajtóerő, úszás, lebegés, elmerülés feltételeinek
+megfigyelése kísérletekben.
+A felületi feszültség megfigyelése a mindennapok
+gyakorlatában.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+Természettudományos megismerés
+– Fokozódó igény és kíváncsiság a kísérletezés, a vizsgálódás, a folyamatok megértése iránt.
+– Gyakorlottság megteremtése az ábrák értelmezésében az eszközök működésének megértésében, egyszerű
+szóbeli, írásbeli leírásában.
+– Változások felismerése, okok keresése irányítás mellett.
+– A háztartás, a környezet ismert és használt egyszerű gépeinek működtetése, a fizikai ismeretek alkalmazása a
+működtetés során.
+– Vegye észre a fizika és a többi természettudomány közti szoros kapcsolatot tanári irányítással.
+
+Tevékenységek
+– Jelenségek, kísérletek megfigyelése, értelmezése szóban.
+– Becslések, mérések, az eredmények ellenőrzése, lejegyzése.
+– Fizikai problémák felismerése a gyakorlatban, megoldások keresése.
+– Ismeretterjesztő irodalom, lexikonok, információhordozók használata tanári segítséggel.
+A szakasz végére elvárható követelmények
+– A tanuló legyen képes egyszerű mechanikai és hőtani jelenségeket megfigyelni a gyakorlatban és
+kísérletekben, fogalmazza meg tapasztalatait.
+– Ismerje fel a tanult fizikai ismeretek szerepét a technikai és természeti környezetben.
+– Ismerje a fizikai vizsgálatokhoz szükséges eszközök balesetmentes használatát.
+– Legyen járatos a mérések végzésében és tudjon egyszerű kísérleteket önállóan is elvégezni.
+– Tudja kiválasztani azokat a cikkeket, könyveket, rádió-, televízió-műsorokat, amelyek segíthetik a fizikai
+jelenségek jobb megismerését.
+– Tudja megkülönböztetni az egyenletes és egyenletesen változó mozgásokat.
+– Tudja, hogy nem a mozgás fenntartásához, hanem a mozgásállapot megváltoztatásához kell erő.
+– Ismerje fel a halmazállapot-változásokat a mindennapok gyakorlatában.
+– Ismerje a hőmérséklet-kiegyenlítődés elvét és az energiamegmaradás törvényét.
+– Tudjon gyakorlati példákat mondani a hőmérséklet mérésére.
+– Példák segítségével tudja értelmezni, hogy mi a különbség a test súlya és tömege között.
+– Ismerje fel az anyagok halmazállapotát, tudja azokat jellemezni.
+– Ismerjen fel a gyakorlatban néhány egyszerű gépet.
+– Legyen tájékozott arról, hogy az egyszerű gépek a mindennapi munkavégzésben nélkülözhetetlenek. Tudja,
+hogy az összetett gépek alapjául is az egyszerű gépek szolgálnak.
+– Tudjon példát mondani a nyomás fizikai törvénye alapján készült berendezésére.
+KÉMIA
+Célok
+Olyan alapismeretek nyújtása, amelyek lehetővé teszik a modern életben megjelenő vegyszerek kémiai
+folyamatok felismerését.
+– Segítség nyújtása abban, hogy a kémia tudományának gyakorlati eredményei ne fenyegetettséget
+jelentsenek, hanem lehetőséget a komfortosabb élet megteremtésére.
+– A természettudományokon belül felkelteni a tanulók érdeklődését a kémia iránt.
+Feladatok
+– A kémiai megfigyelésekhez, kísérletekhez szükséges eszközök, anyagok, módszerek és magatartás
+megismertetése.
+– Az alapvető kémiai fogalmak, műveltségelemek elsajátíttatása.
+– A mindennapi életben megjelenő kémiai jelenségek felfedeztetése és értelmezése.
+– A megszerzett tapasztalatok, tudáselemek alkalmazása a napi problémák megoldásában.
+– A figyelem felkeltése, motiválás a kémia tudományával kapcsolatos hírek, cikkek, könyvek, tudósítások
+olvasására, értelmezésére.
+
+– Meggyőződés kialakítása arról, hogy az ember felelős környezete állapotáért.
+– A természet szeretetére és a környezettudatos, környezetvédő magatartásra nevelés.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Kémiai alapismeretek.
+A kémia mint tudomány
+A kémia mint tudomány a természettudományok része. Néhány híres magyar
+kémikus nevének, munkássága lényegének megismerése.
+A kísérletezés szerepe a kémiai megfigyelésekben. Kísérleti eszközök megismerése.
+A periódusos rendszer szerepe az elemek közötti tájékozódásban.
+Az anyagok tulajdonságai
+és változásai
+A fizikai és kémiai változások jellemzői. Anyagok, elemek vizsgálata.
+Az anyagok csoportosítása – természetes anyagok, vegyipari termékek.
+Szervetlen és szerves anyagok.
+Változások jellemzői: fizikai és kémiai változás. Keverék és vegyület. Oldás, a víz
+mint oldószer. A levegő az oxigén és a nitrogén keveréke. Az égés. Az égés
+feltételei. Az oxidáció. Gyors és lassú égés.
+Fémes elemek
+és vegyületeik
+Fémes elemek: vas – vasgyártás, acél, alumínium, arany, ezüst, réz. Korróziós
+jelenségek a mindennapokban – korrózióvédelem.
+További elemek, szervetlen anyagok a természetben: nátrium, kálium, kalcium-
+karbonát.
+Szervetlen tisztítószerek: hypo, sósav. Mosószerek a háztartásban.
+Környezeti kémia: energiagazdálkodás, az emberi szervezet energiahordozói –
+zsírok, szénhidrátok, fehérjék (egyben építőanyagok).
+Nemfémes elemek
+és vegyületeik
+Nemfémes elemek – a víz, a levegő – hidrogén, oxigén, klór, nitrogén –
+megismerésük kísérlet útján.
+Nemfémes elemek és vegyületeik – a szén, gránit, gyémánt.
+A szén megfigyelése, a grafit, a gyémánt jellemzői.
+Vegyszerek a háztartásban Mosó- és tisztítószerek használati utasításainak és összetételi ismertetőinek közös
+értelmezése.
+Környezetvédelmi
+ismeretek
+Az el nem használt vegyszerek elhelyezésének szabályai a környezetvédelmi
+szempontok figyelembevételével.
+A levegő és víz szennyeződésének megfigyelése. Okok keresése, példák a napi
+sajtóból.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+Természettudományos megismerés
+– Az ismeretszerzés iránti igény felkeltése, fenntartása.
+– Gyakorlottság az önálló kísérletezésben az egyszerű ártalmatlan anyagok, folyamatok megfigyelésénél;
+gyakorlat szerezése a lényegkiemelésben, csoportosításban, összehasonlításban, az elemzésben.
+– Ismeretek szerzése a környezetben előforduló anyagokról: biztonságos szakszerű használatuk a
+hétköznapokban.
+– A környezetszennyezés káros következményeinek megértetése.
+
+– Szokásrend, viselkedésrend megerősítése.
+– Tudatosság erősítése az életvezetésben, az egészségük megőrzésében, a háztartásvezetésben.
+Tevékenységek
+– Megfigyelés és összehasonlítás.
+– Kísérletek.
+– Tapasztalatok gyűjtése, megfogalmazása, következtetések levonása.
+– A mértékegységek gyakorlása.
+– Összefüggések felfedezése tanári segítséggel.
+– A tapasztalatok felhasználása a mindennapi gyakorlatban.
+– Információk felkutatása.
+– Gyűjtőmunka.
+– Megfigyelések rögzítése tanári segítséggel.
+– Szabályok gyakorlása.
+– Modellezés.
+– A szaknyelv elemi kifejezéseinek megismerése, használata.
+A szakasz végére elvárható követelmények
+– Lássa be a kémiai ismeretek fontosságát a mindennapi életben és a tudományos fejlődésben.
+– Tudja csoportosítani tanári segítséggel a változásokat aszerint, hogy megváltozott-e az anyagok minősége.
+– Ismerje fel a vizsgált anyagok leglényegesebb fizikai és kémia tulajdonságait.
+– Tudja, hogy az oxigén és a víz elengedhetetlen feltétele az életnek.
+– Ismerje a tűz hasznát és pusztítását. Ismerje a tűzoltás néhány alapszabályát.
+– Legyen képes tájékozódni a napi sajtóban, ismereteket szerezni a médián keresztül, tudja azokat átadni,
+értelmezni.
+– Fogalmazza meg tanári segítséggel, majd fokozódó önállósággal a vizsgált anyagok jellemző tulajdonságait.
+– Tudja, hogy a lúg veszélyes méreg, ismerje kezelésének szabályait.
+– Mondjon példát lúgok hasznosítására.
+– A tanuló ismerje a tanult elemek és vegyületek nevét.
+– Tudjon példát mondani felhasználásukról, jelentőségükről az ember életében.
+– Ismerje azokat a veszélyeket, amelyeket a tanult kémiai anyagok jelenthetnek, tartsa be kezelésük, tárolásuk
+szabályait.
+– Tudja, hogy a vásárolt termékek használata előtt mindig el kell olvasni a használati utasítást és azt
+maradéktalanul be kell tartani.
+
+MEGSZILÁRDÍTÓ SZAKASZ
+(9–10. évfolyam)
+BIOLÓGIA, EGÉSZSÉGTAN
+FIZIKA – KÉMIA
+Óraszámok
+Szakaszok – évfolyamok
+Megszilárdító szakasz
+9. 10.
+Biológia, egészségtan
+Heti óraszám 1 1
+Éves óraszám 37 37
+Fizika – kémia
+Heti óraszám 2,5 2,5
+Éves óraszám 92,5 92,5
+Témakörök ütemezése
+Biológia
+Megszilárdító szakasz
+Témakör
+9. 10.
+Az ember szervezete és működése x
+Környezet- és munka-egészségtani ismeretek x x
+
+Fizika – kémia
+Megszilárdító szakasz
+Témakör
+9. 10.
+Fény- és hangtani alapismeretek x
+Elektromos alapjelenségek x
+A kémia tudomány jelrendszere x
+Anyagszerkezeti ismeretek –
+a mindennapok kémiája
+x
+Szerves kémia x
+A tanulók értékelésének elvei (a biológia, egészségtan; fizika – kémia tantárgyaknál)
+A tanulók értékelésének célja a tanulók fejlesztése.
+Szempontjai
+– Helyes képzetek kialakulása, a tanult és begyakorolt szakkifejezések használatának fejlettsége.
+– A megismert, megtapasztalt összefüggések felismerése, megfogalmazásának szintje.
+– A természettudományos megismerés szintje – a tanuló fejlettségének figyelembevételével.
+– A kísérletekben történő részvétel, egyszerű vizsgálódások, kísérletek önálló vagy párokban történő
+megoldása.
+– A gondolkodási funkciók, műveletvégzések szintje, alkalmazásuk önállóan vagy irányítás mellett.
+– Ismeretek gyakorlati alkalmazása saját életvitelében.
+– Tantárgyspecifikus tanulási szokások, az önálló vagy az irányított tanulás szintje.
+– A tanulmányok során elsajátított magatartási és viselkedési szakaszok bensővé válása.
+– A jelenségek, folyamatok közül az emberre, a környezetre veszélyt jelentők felismerése, környezettudatos
+fogyasztói magatartás.
+– A tanuló részvétele a közös munkában, feladatokban, egyéni vállalásokban.
+A tantárgyak kiemelt habilitációs, rehabilitációs célú feladatai
+Gyakorlati problémák felismerése, korszerű életvezetés
+– Példák, gyakorlati feladatok segítségével tudatosítani az iskolában tanultak és az iskolán kívüli világ közötti
+kapcsolatot.
+– Pozitív életvezetési stratégiák kialakítása, elfogadtatása, az életvezetési készségek fejlesztése.
+
+Egészség- és környezetvédelem
+– Az egészség- és környezetvédelmi ismeretek megerősítése hétköznapi példákkal, rávezetéssel, tudatosítással,
+gyakorlati alkalmazással.
+– A környezetvédő magatartás kialakítása.
+– A természetbarát, ökologikus szemlélet formálása, példák bemutatása, összefüggések feltárása az érzelmi
+intelligencia mozgósításával.
+Gondolkodási műveletek fejlesztése, megerősítése
+– A gondolkodás rugalmasságának, a kritikai, a problémamegoldó gondolkodás fejlesztése sok életszerű
+példán, gyakorlaton át.
+– A tanult analógiák transzfer hatásának megerősítése új feladatban, tevékenységben.
+Az általános képességek fejlesztése
+– A kommunikációs, a téri irányok, téri viszonyok, a térbeli szókincs, az időészlelés pontossága, tudatossága.
+– Kommunikáció változó helyzetekben, különféle vélemények, nézetek egyszerű kifejezése.
+– Az önálló tanulás erősítése, az információhordozók használatának képessége.
+BIOLÓGIA, EGÉSZSÉGTAN
+Célok
+– Tudományosan megalapozott ismeretek elsajátíttatása az emberi test működéséről az egészséget megóvó
+életvezetési szabályok kialakítása érdekében.
+– A felnőtté válással járó lehetőségek és kötelezettségek megismertetése, a felelősség tudatosítása a családdal
+és a tágabb környezettel kapcsolatban.
+– A felnőtt életben való sikeres helytállás megkönnyítése, az egészséget veszélyeztető szokások és az egészség
+megőrzését segítő lehetőségek gyakorlati megismertetése útján.
+Feladatok
+– Elemi balesetvédelmi és munka-egészségügyi ismeretek nyújtása.
+– Hazánk egészségügyi hálózatának, társadalombiztosítási rendszerének és a fontosabb betegjogoknak a
+megismertetése.
+– Az egészséges életmód előnyeinek tudatosítása, a megelőzés jelentőségének felismertetése.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Az ember szervezete és működése A hormonális szabályozás alapelvei. Hormonhiány vagy -túltermelés
+következtében fellépő leggyakoribb betegségek (a pajzsmirigy, a
+hasnyálmirigy, a mellékvese legfontosabb hormonjai).
+A hormonok szerepe az ivari szabályozásban.
+Az immunitás. Védőoltások. Vércsoport.
+Az emberi szexualitás. Párválasztás, felkészülés a családi életre.
+A fogamzásgátlás módjai. Utódvállalás, családtervezés, genetikai
+tanácsadás.
+A terhesség, terhesgondozás, az embrionális fejlődés. A szülés.
+A terhességmegszakítás veszélyei.
+A szülő és gyermek kapcsolata. Csecsemőápolás. A kisgyermekek
+gondozása. A felnőttek felelőssége a gyermekek egészséges
+felnevelésében.
+
+Témakör Tartalom
+Környezet- és munka-egészségtani
+ismeretek
+Lakó- és munkahelyi környezetünk higiéniája.
+Az egészséget veszélyeztető szokások: a dohányzás, az alkoholizmus, a
+drogok használata, a felelőtlen szexualitás, az AIDS.
+A szűrővizsgálatok, fogászati kezelés, a megfelelő pihenés, regenerálódás,
+korszerű táplálkozási szokások kialakítása. Egészséges életvezetés a
+felnőttkorba lépéskor.
+Egészségügyi ismeretterjesztő kiadványok megismerése.
+A betegségek általános tünetei. Házi betegápolás orvosi ellenőrzés mellett.
+Fertőző betegségek, járványok. Idős emberek leggyakoribb egészségügyi
+problémái. Idősebb családtagok egészségvédelme, ápolásuk iránti
+felelősség.
+Gyógyszerek tárolása, kezelése, használatának szabályai.
+Egészségügyi intézmények és azok rendeltetés szerinti igénybevétele.
+Háziorvosi és szakorvosi kórházi ellátás.
+Az egészségbiztosítási rendszer. A tb-ellátásra jogosultság feltételei.
+A jogosultság megőrzésének fontossága munkanélküliség esetén is.
+Munkaalkalmassági vizsgálatok, munkavédelmi előírások, a munkahely
+sajátos munkavédelmi szabályai. Baleset-megelőzés.
+Munkahelyi balesetek – ügyintézés.
+Lakó- és munkahelyi környezetünk higiéniája.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+Tapasztalatok az emberi szervezet működéséről, egészségéről
+– Példákon keresztül felismertetni az ember szabályozó szervrendszerének működését.
+– Megismertetni a nemi szervek egészségét biztosító személyi higiénés tennivalókat.
+– Vélemények, tapasztalatok gyűjtése az abortusz társadalmi megítéléséről.
+– Figyelem felhívása az anya terhesség alatti életmódja és a születendő gyermek egészségi állapota közötti
+összefüggésre.
+– A korán kezdett nemi élet veszélyeinek megismertetése.
+– Szituációs, kommunikációs szerepjátékokon át a kockázatos, veszélyes viselkedési módok elkerülésének,
+élethelyzetek megoldásának bemutatása.
+– Az egészségmegóvás szabályainak, az egészségügyi intézmények szolgáltatásai igénybevételének, a
+gyógyszerfogyasztás és -kezelés szabályainak elsajátíttatása.
+Tevékenységek
+– Megfigyelések, összehasonlítások az egészséges és beteg szervezetről.
+– Véleményalkotás.
+– A tanult ismeretek felhasználása a segítségnyújtásban, a saját élet szervezésében.
+– Egészségügyi ismeretterjesztő kiadványok, lexikonok önálló tanulmányozása.
+– Az elsősegélynyújtás modellálása, szituációs gyakorlatok végzése.
+– Higiéniai ismeretek önálló alkalmazása a mindennapokban.
+– Látott, tapasztalt élmények kritikus értékelése.
+– Véleménynyilvánítás, ítéletalkotás a feldolgozott témakörökkel kapcsolatosan.
+A szakasz végére elvárható követelmények
+– A tanuló tudjon példákat mondani a hormonális szabályozás fontosságára.
+– Ismerje a védőoltások szerepét az egészség megóvásában.
+– Ismerje a terhességmegszakítás veszélyeit.
+
+– Tudatosodjon benne a korai szexualitás veszélye.
+– Alakuljon ki a felelősségtudat a családalapítással kapcsolatban.
+– Tudja, hogy a szülők felelősséggel tartoznak gyermekeik neveléséért.
+– Váljék igényévé az otthoni és munkahelyi környezet higiéniája.
+– Utasítsa el az egészséget károsító szokásokat.
+– Tudja, hogy saját egészsége megőrzéséért tudatosan tenni kell.
+– Ismerje fel a betegségek általános tüneteit. Ismerje a hőmérő használatának szabályait, a gyógyszerek
+tárolási és használati rendjét.
+– Tudja, hogy a fertőző betegeket el kell különíteni egészséges társaiktól.
+– Ismerje az elsősegélynyújtás elemi szabályait.
+– Legyenek ismeretei a munkába álláshoz szükséges orvosi vizsgálatok lebonyolítási lehetőségeiről.
+– Tudja, hogy a munkahelyek balesetveszélyesek, a balesetek bekövetkezte ellen a szabályok pontos
+betartásával lehet védekezni.
+– Ismerje lakóhelye egészségügyi intézményeit és igénybevételük módját.
+FIZIKA
+Célok
+– A tanulók érdeklődésének fenntartása a mindennapi életben felfedezhető fizikai jelenségekkel kapcsolatban,
+a környezetkímélő, -óvó magatartás tudatos vállalására nevelés.
+Feladatok
+– A napi problémák megoldásához szükséges a fizika tudománya által nyújtott ismeretek hasznosságának
+felismerése.
+– A gyakorlati élet szempontjából fontos ismeretek adása a hang- és a fénytan körében.
+– Az ember életvitele szempontjából elengedhetetlenül fontos fizikai ismeretek összekapcsolása az emberi
+érzékszervek működésével (hallás, látás).
+– A hangtan eredményeit felhasználó – a mindennapi gyakorlatban alkalmazott – eszközök működési elvének
+és kezelési módjának megismertetése.
+– Az elektromos jelenségek és az elektromos áram hatásainak megismerése a háztartásban és munkahelyen
+előforduló elektromos gépek, berendezések biztonságos használata érdekében.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Fény- és hangtani
+alapismeretek
+A fény tulajdonságai. Fényforrások. A fény egyenes vonalú terjedése.
+A fényhullám tulajdonságainak megfigyelése kísérletekben. Az árnyékjelenségek.
+A fényvisszaverődés jelenségének kísérleti vizsgálata. A sík, domború és homorú
+tükrök gyakorlati alkalmazása.
+A fénytörés jelensége. Fénytörés a prizmán. A színek. A fehér fény színeire
+bontása. Az emberi szem és a látás. A szemüveg alkalmazása.
+A hullámmozgás, a hullámok terjedése. A hang mint hullám. A hang jellemzői,
+hangforrások. Rezonancia. Hallószervünk védelme. A hangszerek fizikája.
+A mindennapi életben gyakran előforduló, hanghatáson alapuló eszközök
+megfigyelése, kezelése.
+Az elektromos alapjelenségek Az elektromos töltés kísérleti megfigyelése. A testek elektromos állapota.
+Az elektromos áram, az áramkör – tanári demonstrációval. Fogyasztók soros és
+párhuzamos kapcsolása. Az elektromos feszültség elemi fogalma. Az elektromos
+munka és teljesítmény.
+
+Témakör Tartalom
+Az elektromos ellenállás. Az elektromos és mágneses mező kölcsönhatásai.
+Az elektromágneses indukció gyakorlati alkalmazása.
+Elemi atomfizikai ismeretek. Hogyan működik az atomerőmű? Miért pusztít az
+atombomba? Miért veszélyes a sugárzás? Káros és hasznos sugárzások.
+Sugárzásvédelem.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– Tapasztalatok a fizikai folyamatokról: tapasztalatokon alapuló tudásbővítés az anyagokról.
+– A gondolkodási képesség fejlesztése.
+– A gondolkodási műveletvégzés fejlesztése.
+– A megfigyelő, kísérletező, problémafelismerő, összehasonlító, cselekvési, döntési és önálló tanulási
+képesség kialakítása.
+– Az iskolai kísérletekben tapasztaltak összekapcsolása a mindennapok történéseivel.
+– A fizika társadalmi hasznosságának felismertetése.
+– A fizikában tanultak széles körű kiterjesztése az ember egészségének és környezetének védelmére, a károsító
+tényezők, hatások megelőzésére.
+– A modern fizikatudomány eredményeinek, veszélyeinek megmutatása.
+Tevékenységek
+– Kísérletek megfigyelése, egyszerű kísérletek önálló végzése.
+– Mérések, méréseredmények leolvasása.
+– Könyvtár- és médiahasználat. Fizikai problémák megoldásához terv készítése, indoklása, a feladat elvégzése.
+A szakasz végére elvárható követelmények
+– A tanuló ismerje a fény egyenes vonalú terjedését. Tudja, hogy a fény gyorsabban terjed, mint a hang.
+– Legyen ismerete a tükrök alkalmazási lehetőségeiről.
+– Tudjon példát mondani a lencsék alkalmazására.
+– Ismerje a szem védelmével kapcsolatos tudnivalókat.
+– Sorolja fel a hang jellemzőit és néhány hangforrást.
+– Ismerje az emberi fül szerkezetét és hallószervünk védelmének módját.
+– Tudja kezelni a környezetében előforduló, hanghatásokon alapuló eszközöket.
+– Alakuljon ki benne olyan általános fizikai tájékozottság, amely a választott szakma tanulásának megkezdését
+lehetővé teszi.
+– Indokolja az elektromosság fontosságát a gyakorlati életen.
+– Tudjon felsorolni elektromos jelenségeket, és mondjon ezekre példákat.
+– Alkalmazza az elektromos áram felhasználásával kapcsolatos alapvető biztonsági szabályokat, ismerje a
+baleset-megelőzés fontosságát.
+– Mondjon példákat az elektromos áram hatásaira a mindennapok gyakorlatából.
+– Soroljon fel elektromos háztartási gépeket és csoportosítsa őket fogyasztásuk alapján.
+– Tudja, hogy milyen fizikai jelenség alapján működik a transzformátor. Mondjon példát a transzformátor
+gyakorlati alkalmazásaira.
+– Tudja, hogy minden anyag atomos szerkezetű.
+– Legyen ismerete arról, hogy az ember békés és romboló céllal is felhasználhatja az atomenergiát.
+– Ismerje a legalapvetőbb sugárvédelmi szabályokat.
+– Tudja ismereteit önállóan is bővíteni különféle információhordozók felhasználásával.
+
+KÉMIA
+Célok
+– Tudományosan megalapozott ismeretek nyújtása a kémia tárgyköréből az elsajátított környezetvédelmi
+ismeretek aktivizálása, a környezettudatos magatartás kialakítása.
+Feladatok
+– Önálló véleményalkotásra nevelés a mindennapokban adódó kémiai jellegű problémákkal kapcsolatosan.
+– Annak tudatosítása, hogy a környezetünk számos energiaforrása nem megújuló, szükség van a
+gazdaságosságra, a takarékosságra.
+– Baleset-megelőző cselekvési eljárások elsajátíttatása a kémiai anyagok felhasználása során.
+– Motiválás a népszerű tudományos folyóiratokból, lexikonokból és az elektronikus információhordozókból
+történő további ismeretszerzésre.
+– Annak felfedeztetése, hogy a természet egységes egész, melyet csak a megismerés folyamatában tagolunk
+részekre (tudományágakra).
+– A mindennapi élet gyakorlati problémáinak megoldásához nyújtott segítséggel az aktív környezetvédő
+magatartás kialakításának segítése.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Anyagszerkezeti ismeretek
+– a mindennapok kémiája
+A periódusos rendszer vizsgálata.
+A legfontosabb elemek és vegyületek nevének és kémiai jelének megismerése.
+A vizek szerepe az emberi életben. Természetes vizek kémiája: édesvíz, tengervíz.
+Vízkeménység, vízkő, vízlágyítás. Víztisztítás – szennyvizek.
+A levegő. Ózon, ózonlyuk. Szén-monoxid, kén-dioxid a levegőben.
+Megújuló energiaforrások: szén, kőolaj, földgáz.
+Savak és lúgok a háztartásban. Szóda. Szódabikarbóna, szappan, sósav, mosó- és
+mosogatószerek. A felhasználás szabályai, a használati utasítás helyes értelmezése.
+Fertőtlenítőszerek, Hypo, hidrogén-peroxid.
+Egyszerű oldatkészítési, hígítási számítások a konyhai és kertészeti munkák során.
+A rozsdásodás (lassú égés) és meggátolása környezetünkben.
+Csomagolóanyagok: papír, fém, üveg. Újrahasznosításuk. Szelektív hulladékkezelés.
+Az építkezésnél használt anyagok: mészkő, égetett mész. A mészoldás.
+Baleset-megelőzés a mésszel való munkáknál. Cement, beton, vasbeton, habarcs,
+gipsz, üveg, szilikátok, tégla, cserép.
+Az építőanyagok alapanyagainak előfordulása a természetben.
+Mészkőbarlangok képződése.
+Szerves kémia A szerves kémia. Szerves vegyületek, anyagok és felhasználásuk: szén,
+szénvegyületek, kőolaj, alkohol.
+Fontosabb természetes szénvegyületek: szénhidrát, szőlőcukor, répacukor.
+Tápanyagaink: olajok, zsírok, fehérjék, vitaminok.
+A műanyagok – a természetes ésa mesterséges műanyagok csoportjai.
+Műanyag-hasznosítás.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+Tájékozottság az anyagokról és felhasználásukról
+– Tudatosság a célirányos megfigyelésekben, elemzésben, az adatok lejegyzésében.
+– A tanuló egyéni fejlettségi szintjének megfelelően a jelenségek, folyamatok közötti hasonlóság, különbség
+észrevétele, megfogalmazása szóban és írásban a tanult szakkifejezések használatával.
+
+– A kísérletekben realizált elméleti ismeretek és a mindennapi gyakorlat összekapcsolása példákon keresztül.
+– A kémiai ismeretekhez kapcsolódó környezeti problémák felismertetése.
+– Elővigyázatossági szabályok megismerése a háztartási szerek használatánál, tárolásánál.
+– A szerves vegyületek és anyagok fontosságának megértése, életünkben betöltött szerepe, gazdaságos
+felhasználása.
+Tevékenységek
+– Megfigyelés és összehasonlítás a tanári és tanulói kísérletek során. Tapasztalatok gyűjtése, megfogalmazása,
+következtetések levonása. Gyakorlat szerzése a mértékegységek használatában.
+– Összefüggések felfedezése. A tapasztalatok felhasználása a mindennapi gyakorlatban. Elemi jártasság
+szerzése az információk felkutatásában.
+– Gyűjtőmunka. Megfigyelések rögzítése tanári segítséggel.
+– Egészséges veszélyérzet kialakítása a kémiai anyagokkal kapcsolatosan. Szabályok értelmezése és
+gyakorlása.
+– Modellezés. Verbális fejlesztés, a szaknyelv elemi kifejezéseinek megismerése, használata.
+A szakasz végére elvárható követelmények
+– A tanuló szerezzen elkötelezettséget a környezetkímélő és -védő életmód iránt.
+– Ismerje a háztartásban használatos vegyszerek kezelésének módját, a balesetek megelőzésének lehetőségét
+és a teendőket baleset esetén.
+– Tudjon példákat mondani a vízlágyítás szükségességére és módjára.
+– Ismerje fel a kémiai vonatkozásokat a mindennapok történéseiben.
+– Tudja, hogy a Föld energiaforrásai végesek, ismerje a takarékosság fontosságát.
+– Törekedjen a sokoldalú, kiegyensúlyozott táplálkozásra.
+– Vegye észre lakóhelyén és környékén a környezetszennyezést.
+– Fogalmazza meg tanári segítséggel, majd fokozódó önállósággal a vizsgált anyagok tulajdonságait.
+– Tudja, hogy a lúg veszélyes méreg, ismerje kezelésének szabályait.
+– Mondjon példát a lúgok hasznosítására.
+– Ismerje a tanult elemek és vegyületek nevét, tudjon példát mondani felhasználásukról, jelentőségükről az
+ember életében.
+– Ismerje azokat a veszélyeket, amelyeket a tanult kémiai anyagok jelenthetnek, tartsa be kezelésük, tárolásuk
+szabályait.
+– Tudja, hogy a vásárolt termékek használata előtt mindig el kell olvasnia a használati utasításokat és azokat
+maradéktalanul be kell tartania.
+– Tudjon szerves anyagokat felsorolni és példákat mondani felhasználásukra.
+– Ismerje az alkohol emberi szervezetre gyakorolt káros hatását. Utasítsa el a drogok, az alkohol és a nikotin
+használatát.
+– Tudjon egyszerű számításokat végezni a mindennapi élethez szükséges oldatok készítéséhez.
+– Ismerje a rozsdagátlás néhány lehetőségét.
+– Különböztesse meg a lebomló és nem bomló hulladékokat. Ismerje a veszélyes hulladékok elhelyezésének
+helyes módját.
+
+ÉNEK-ZENE
+TÁNC
+Óraszámok
+Szakaszok – évfolyamok
+Bevezető szakasz Kezdő szakasz Alapozó szakasz Fejlesztő szakasz
+1. 2. 3. 4. 5. 6. 7. 8.
+Heti óraszám 1 1 1 1 1 1 1 1
+Éves óraszám 37 37 37 37 37 37 37 37
+Témakörök ütemezése
+Szakaszok – évfolyamok
+Témakörök
+Bevezető szakasz
+(1–2. évf.)
+Kezdő szakasz
+(3–4. évf.)
+Alapozó szakasz
+(5–6. évf.)
+Fejlesztő szakasz
+(7–8. évf.)
+Zenei alkotóképesség
+– interpretáció,
+improvizáció
+x x x x x x x x
+Megismerő- és
+befogadóképességek
+– zenehallgatás
+x x x x x x x x
+Zenei hallás és
+kottaismeret
+x x x x x x x x
+Tánc x x x x x x
+Célok
+Bevezető szakasz
+– Az egyéni sajátosságokhoz igazodó énekes szemelvények, ritmikai és dallami elemek ismertetésével, az
+ének-zene eszközrendszerével a tanuló segítése az önmegvalósítás, önkifejezés gyakorlásában,
+kapcsolatrendszere építésében, a feszültségtől mentes, oldott kommunikáció átélésében.
+Kezdő szakasz
+– Az énekes és zenei kifejezőkészség fejlesztésének felhasználása az érzelmi élet, a személyiség
+harmóniájának fejlesztésében.
+
+Feladatok
+Bevezető szakasz
+– Az éneklési kultúra alakítása, az örömteli éneklés élményének megteremtése.
+– A zenei élmény szóbeli és mozgásos megfogalmazásának segítése. A zenei fantázia fejlesztése a tanult
+ritmikai és dallami elemek kötetlen felhasználásával.
+– Az éneklés, a zenélés oldott befogadására nevelés.
+– A memória, a koncentráció, a gondolkodás, a figyelem fejlesztése, a társakkal való együttműködés segítése,
+erősítése.
+– A szociális és kommunikációs képességek és készségek fejlesztése.
+Kezdő szakasz
+– A szép, kifejező éneklés technikájának tanítása, az énekhang, az éneklési kultúra fejlesztése, a közös éneklés
+anyagának megteremtése.
+– Az ének-zene speciális jelrendszerének, ritmikai és dallami elemeknek, különféle kottatípusoknak a
+bemutatása, az ötvonalas kottarendszerben való tájékozódás segítése.
+– A zenei hallás, a muzikalitás fejlesztése. A zenehallgatás megalapozása, a zenei élmények kifejezésének
+segítése.
+– Az alkalmazkodóképesség, a szabálytudat, a testmozgás, az emlékezet, a figyelem és az érdeklődés
+fejlesztése.
+– A memória, a képzelet, a fantázia fejlesztése.
+– Az érzelmi élet, az önismeret, a társakkal való együttműködés fejlesztése.
+A tanulók értékelésének elvei
+Alapja a folyamatos megfigyelés, biztatás és dicséret, a pozitívumok kiemelése, a tanulói teljesítmények
+bátorítása. Az értékelés segíti az énekórák elfogadó, oldott légkörének kialakulását.
+Szempontjai
+– A tiszta éneklésre való törekvés, a pontos szövegmondás, a tanult szabályok betartása.
+– A tanult dalok pontos felidézése: ritmus, dallam, szöveg, mozgások.
+– Részvétel, aktivitás, figyelem, együttműködés az órai munkában.
+– A ritmusérzék, a zenei hallás önmagához mért fejlődési üteme.
+– A zenei írás-olvasás tanult szabályainak felismerése, betartása.
+BEVEZETŐ SZAKASZ
+(1–2. évfolyam)
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– Az óvodából az iskolába való átmenet segítése.
+– Az énekes és zenei kifejezőképesség, ritmusérzék és a zenehallás csoportos és egyéni fejlesztése.
+– A zenei ismeretek megalapozása, játékos ismerkedés a ritmus, a dallam, a zenei forma kifejezésének
+alapjaival.
+– Kötött és kötetlen játékok a tanult elemek felhasználásával.
+– Mozgásfejlesztés, a figyelem és az együttműködés fejlesztése.
+
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Zenei alkotóképesség
+Interpretáció A dalok élményből kiinduló kifejező megszólaltatása, az éneklési öröm
+felkeltése. Gyermekdalok tanítása hallás után.
+Improvizáció Ritmikai, dallami, formai elemek megismerése, azok kötött és kötetlen
+felhasználása.
+A zenei fantázia mozgósítása, csoportos és egyéni rögtönzések.
+Ritmushangszeres játékok a tanult elemek játékos felhasználásával.
+Megismerő- és
+befogadóképességek
+Zenehallgatás A csend, a zaj, a zörej elkülönítése.
+Az emberi hang színeinek, környezetünk hangjainak megismertetése,
+megkülönböztetése.
+Zenei hallás és kottaismeret
+Az alapritmusok, ütemfajták, dallami elemek felismerése, olvasása és lejegyzése
+tanári segítséggel.
+Ritmushangszerek használata, szolmizációs jelek alkalmazása.
+Tánc
+Egyszerű mozgások és tartáshelyzetek utánzása, tükrözése.
+Állatok mozgásának és hangjának utánzása.
+A játékbátorság kialakítása, a csoport előtti megnyilvánulás gyakorlása és
+elfogadása. Gyermek- és játékdalok mozgással kísért csoportos előadása.
+A beszéd, az ének és a mozgás összekapcsolása játékhelyzetekben és/vagy
+ritmikus formákban.
+A szakasz végére elvárható követelmények
+– Szívesen és örömmel vegyenek részt az énekórai munkában, a közös éneklésekben, ritmikai, dallami és
+fantáziafejlesztő játékokban.
+– Szerezzenek ismereteket a gyermekdalok és -játékok körében.
+– Ismerjék fel a többször hallott felvételek alapján környezetük hangjait, zajait, zörejeit. Vegyenek részt a
+közös mozgásos játékban, fejlődjön mozgásuk és együttműködési képességük.
+KEZDŐ SZAKASZ
+(3–4. osztály)
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– A bevezető szakaszban kialakított ének-zenei kifejezőkészség továbbfejlesztése.
+– Hosszabb és nehezebb dalok tanulása, közös, kiscsoportos és egyéni éneklés.
+– A ritmikai és dallami ismeretek fejlesztése, ismeretek szerzése a zenei hang jellemzőiről.
+– A kreativitás, a zenei fantázia fejlesztése csoportos és egyéni feladatokkal.
+– Mozgásfejlesztés, a szabálytudat fejlesztése.
+– A tanult dalok felismerése különböző zenei feldolgozásokban is.
+– A zenei hallás, hangszínhallás fejlesztése, hangszerek felismerése.
+
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Zenei alkotóképesség
+Interpretáció Egységes hangzás kialakítása csoportos énekléskor, a kiscsoportos és az egyéni
+éneklés fejlesztése.
+Népdalok tanítása hallás után. A hallás utáni képességének alakítása.
+Improvizáció Kötött és kötetlen játékok, ritmus- és dallamhangszeres improvizációk a tanult
+elemek, egyszerű zenei szerkezetek (kérdés-felelet) és az eltérő karakterek
+felhasználásával. Mozgásos improvizációk szervezése a fantázia szabadságával.
+Megismerő- és
+befogadóképességek
+Zenehallgatás A hang tulajdonságainak megfigyeltetése. A hangmagasság, a hangerő, a
+hangszín iránti érzékenység fejlesztése.
+Ritmusértékek tanulása, hangnevek meghatározása a vonalrendszerben a relatív
+szolmizáció alapján.
+A belső hallás megalapozása, tanult dallamok felismerési képességének
+kialakítása.
+Zenei hallás és kottaismeret Az alapritmusok, ütemfajták, dallami elemek felismerése, olvasása és lejegyzése
+tanári segítséggel.
+Ritmushangszerek használata, szolmizációs jelek alkalmazása.
+Tánc Csoportos mozgásos, hang- és térérzékelő gyakorlatok.
+Térkitöltő és térkihasználó gyakorlatok, alapfokú tánctechnikai elemek
+felhasználásával. Tánclépések a tanult népdalokhoz.
+Ritmus- és mozgásgyakorlatokkal kombinált koncentrációs és
+memóriagyakorlatok.
+A szakasz végére várható követelmények
+– Vegyenek részt a dalok tanulásában, közös éneklésében.
+– Kedvvel és szívesen énekeljenek.
+– Fejlődjön ritmusérzékük, mozgásuk, fantáziájuk.
+– Segítséggel tudjanak tájékozódni a vonalrendszerben, erősödjenek ismereteik a zenei írás-olvasás terén.
+– Ismerjék fel a többször hallott zenéket, legyenek képesek zenei részletek irányított figyelmű hallgatására is.
+Célok
+Alapozó szakasz
+Az éneklési és zenehallgatási kultúra, valamint a zenei műveltség fejlesztésével a zenei ízlés formálása, a
+zenehallgatási szokások kialakítása.
+Fejlesztő szakasz
+Az örömteli éneklés, az éneklési kultúra megőrzése, a közös éneklés anyagának gyarapítása, a nemzeti
+zenekultúra értékeinek megbecsülése.
+Feladatok
+Alapozó szakasz
+– A dalrepertoár bővítése magyar és más népek dalainak tanulásával.
+– Ismeretek átadása a zenei írás-olvasás speciális jelrendszerének használatáról.
+– A zenei esztétikai érzék, az érzelmi élet és a személyiség harmóniájának fejlesztése.
+
+– A zenei képességek kibontakozásának segítése, a mozgáskészség fejlesztése, táncolás zenére és saját
+éneklésre.
+– Zenei karakterek megjelenítése, énekes és hangszeres rögtönzések képességének fejlesztése.
+Fejlesztő szakasz
+– A zenei ismeretek bővítése, az ének-zene speciális jelrendszerének használata, az esztétikai érzék fejlesztése.
+– A zenei fantázia, a zenei hallás, az emlékezet, a muzikalitás fejlesztése.
+– Az érzelmi élet, a kommunikációs és szociális képességek fejlesztése.
+– Az együvé tartozás élményének átélése a közös éneklés és zenélés által.
+– A zenei képességek kibontakoztatása, a kreativitás, a fantázia erősítése.
+– A kulturált zenehallgatás szokásainak rögzítése, a zenehallgatás örömeinek megélése, a feszültségoldó
+együttlét átélése.
+A tanulók értékelésének elvei
+– Az értékelés célja a megerősítés, támogatás, a tanuló énekes és zenei megnyilvánulásainak segítése.
+– Az értékelés pozitív megerősítést ad a tanulóknak, segíti a zenei képességeik kibontakozását, az énekórák
+oldott légkörének kialakulását.
+– Alapja a folyamatos megfigyelés, biztatás és dicséret, a pozitívumok kiemelése, a tanulói teljesítmények
+bátorítása.
+Szempontjai
+– A dalanyag ismerete, emlékezetben tartása, a szép éneklés tanult szabályainak betartása.
+– Dalok egyéni éneklése, segítő részvétel a közös éneklésekben.
+– Aktív részvétel a dalok elemzésében, csoportosításában a tanult ismeretek felhasználásával.
+– Tájékozottság a különböző kották használatában.
+– Aktív részvétel a tanult zenei ismeretek felidézésében.
+– Elemi ismeretek a tanult zeneszerzőkről, zeneművekről.
+– A többször hallott és kijelölt zeneművek felismerése.
+– A ritmusérzék, zenei hallás, memória, figyelem önmagához mért fejlődése.
+– Részvétel, aktivitás, figyelem, együttműködés az órai munkában.
+ALAPOZÓ SZAKASZ
+(5–6. osztály)
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– Az éneklési kedv fenntartása, közös dalkincs kialakítása.
+– Éneklés változatos formákban: közösen, kiscsoportban, egyénileg és kánonban is.
+– Ismeretek szerzése a tanult dalok jellemzőiről: összehasonlítás, elemzés, elvonatkoztatás. Ritmikus játékok,
+a zenei írás-olvasás gyakorlása, fejlesztése.
+– Közös és egyéni rögtönzések adott formák alapján és szabadon.
+– A zenei hallás fejlesztése, nép- és műzenei alkotások, szemelvények hallgatása, elemzése adott szempontok
+szerint.
+– A belső hallás fejlesztése.
+– Mozgásos rögtönzések, páros és csoportos táncok tanulása, megjelenítése énekkel vagy zenére.
+
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Zenei alkotóképesség
+Interpretáció Az éneklési kultúra fejlesztése.
+A dallam és a szöveg kapcsolatára épülő megfelelő előadásmód kialakítása.
+Dalkarakterek összehasonlítása.
+A kiscsoportok és az egyéni éneklés továbbfejlesztése.
+Az életkornak megfelelő magyar, európai, Európán kívüli nép- és műdalok
+megszólaltatása. A néphagyomány jellegzetességeinek megismertetése.
+A zenei emlékezet aktivizálása, a többszólamú éneklés gyakorlása (kánonok).
+Improvizáció Zenei karakterek megfigyeltetése és megjelenítése, csoportos és egyéni
+rögtönzések.
+A formaalkotás fejlesztése, egyszerű népzenei és műzenei formák mintájára
+énekes és/vagy hangszeres improvizációk.
+Ritmus- és dallamhangszeres rögtönzések a szabad rögtönzések segítségével.
+Megismerő- és
+befogadóképességek
+Zenehallgatás Hangzásbeli különbségek, hangszínek azonosítása.
+Hangszerek, hangszercsoportok és zenekarok felismerése, megnevezése hangzás
+és alak alapján.
+Zenei karakterek megfigyelése, azonosítása.
+Többször hallott zenei szemelvények felismertetése.
+A zenetörténet nagy korszakainak átfogó ismertetése, az egyéb
+műveltségterületekhez tartozó kapcsolódások bemutatásával.
+Eredeti népzenei énekes és hangszeres felvételek megismertetése.
+A nép- és műzenéhez kapcsolódva országismeret és a közös európai kulturális
+értékek megismertetése.
+Zenei hallás és kottaismeret A hangzó ritmikai elemek felismerése, motívumok lejegyzése tanári segítséggel.
+Ritmushangszerek használata, ritmuszenekar, ritmikai többszólamúság
+fejlesztése.
+Hangok elhelyezése a vonalrendszerben relatív szolmizáció alapján.
+A csoportos szolmizált kottaolvasás fejlesztése.
+A dallam, a hangmagasság, a tempó, a dinamika, a hangszín érzékeltetése,
+azonosságok és különbözőségek meghatározása, az összehasonlító képesség
+erősítése.
+A belső hallás fejlesztése, dalok szerkezetének hallás utáni megfigyeltetése,
+felismertetése.
+Tánc Egyszerű elemekből építkező mozgássor létrehozása.
+Mozgásos rögtönzések a tanult táncos elemek felhasználásával.
+Páros és csoportos tánc zenére és a tanult népdalokra.
+Jeles napok játékai.
+Európai és Európán kívüli népek táncai.
+A szakasz végére elvárható követelmények
+– Vegyenek részt örömmel az énekórákon, énekeljenek közösen, vállalkozzanak egyéni éneklésekre is.
+– Válasszanak kedvenc dalokat, törekedjenek a tanult előadásmód megjelenítésére a dalok éneklése során.
+– Fejezzék ki és fogalmazzák meg a tanult dalok élményvilágát, hangulatát.
+– Vegyenek részt többszólamú gyakorlatokban, éneklésekben, a közös rögtönzésekben, vállalkozzanak egyéni
+hangszeres és/vagy énekes rögtönzésekre is.
+– Gyakorolják tanári segítséggel a különféle kották írását-olvasását a tanult formákban.
+– Fejlődjön zenei hallásuk, ismerjék föl a többször hallott nép- és műzenei szemelvényeket.
+– Legyenek képesek hosszabb terjedelmű zenei részletek figyelemmel kísérésére, elemzésére, adott
+szempontok alapján.
+
+FEJLESZTŐ SZAKASZ
+(7–8. osztály)
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– A kifejező, szép éneklés megőrzése, a közös dalkincs bővítése, a tanult dalok jókedvű, hangulatos
+megszólaltatása.
+– A figyelem és az emlékezet fejlesztése.
+– Részvételi szándék erősítése a többszólamú éneklésben.
+– A hangszeres, énekes és mozgásos rögtönzések csoportos és egyéni formákban.
+– A zenei élmény felismerése, átélése és megfogalmazása különböző formákban.
+– Ismeretek szerzése a magyar népdalok csoportjairól, zenei jellemzőikről.
+– Ritmushangszerek önálló használata, az ismeretek gyakorlása a zenei írás-olvasás terén. Zenehallgatás és
+elemzés, társművészeti kapcsolatok keresése.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Zenei alkotóképesség
+Interpretáció Dalok éneklése az érzelmi tartalmak megjelenítésével, esztétikai élmények
+biztosítása az éneklés során.
+A zenei emlékezet megerősítése, a többszólamúság készségének fejlesztése.
+Magyar és idegen népdalok, valamint műdalok kifejező előadása.
+Improvizáció A rögtönzési tevékenység fejlesztése népdalszerű és egyszerű műzenei formák
+keretei között.
+Ritmus és dallamhangszeres improvizációk.
+Dramatizálható zenei anyagok mozgásos megjelenítésének segítése.
+Szabad dallam- és ritmusrögtönzések segítése.
+Megismerő- és
+befogadóképességek
+Zenehallgatás A legjelentősebb zeneirodalmi alkotások, valamint a különböző korok populáris
+zenéinek bemutatása.
+Jelentős zeneszerzők életrajzi történeteinek megismertetése.
+Zeneművek felismertetése jellegzetes témáik alapján.
+A zenei élmény érzelmi és intellektuális megragadásának segítése.
+Törekvés a verbális közlésre a zenei mondanivaló kifejlesztésére a zenei
+szemelvények hallgatása után.
+Társművészeti kapcsolódások keresése, bemutatása.
+Zenei hallás és kottaismeret A dalanyagban előforduló ritmusképletek hangoztatása több szólamban is.
+A ritmushangszerek önálló használatának továbbfejlesztése. Egyszerű
+ritmusképletek és dallamsorok olvasása és lejegyzése tanári segítséggel.
+A hangkarakterek felismertetése.
+A zenei emlékezet fejlesztése a belső hallás működtetésével.
+A magyar népdalok zenei jelenségeinek bemutatása.
+Műzenei formák felismertetése és közös elemzése.
+A szakasz végére elvárható követelmények
+– Tudják kifejezően énekelni a tanult dalokat társakkal és egyénileg.
+– Vegyenek részt a kánonok éneklésében, többszólamú gyakorlatokban, csoportos és egyéni rögtönzésekben
+egyéni képességek szerint.
+– Törekedjenek fokozottabb önállóságra a zenei írás-olvasás feladataiban.
+– Szerezzenek ismereteket zeneművekről, zeneszerzőkről, ismerjék fel a meghallgatott zenei szemelvényeket
+jellegzetes témáik alapján is.
+– Fejlődjön esztétikai érzékük, zenei hallásuk, muzikalitásuk, emocionális érzékenységük.
+
+RAJZ ÉS KÉZMŰVESSÉG
+(VIZUÁLIS KULTÚRA)
+Óraszámok
+Szakaszok – évfolyamok
+Bevezető szakasz Kezdő szakasz Alapozó szakasz Fejlesztő szakasz
+1. 2. 3. 4. 5. 6. 7. 8.
+Heti óraszám 1 1 1 1 1 1 1 1
+Éves óraszám 37 37 37 37 37 37 37 37
+Témakörök ütemezése
+Témakörök
+Bevezető szakasz
+(1–2. évf.)
+Kezdő szakasz
+(3–4. évf.)
+Alapozó szakasz
+(5–6. évf.)
+Fejlesztő szakasz
+(7–8. évf.)
+Vizuális nyelv és
+kommunikáció
+x x x x
+Kifejezés,
+képzőművészet és
+technika
+x x x x
+Tárgy- és
+környezetkultúra
+x x x x
+BEVEZETŐ ÉS KEZDŐ SZAKASZ
+(1–4. ÉVFOLYAM)
+Célok
+– A környező világ vizuális sokfélesége és az emberi alkotások iránti érdeklődés felkeltésével, a kézműves és
+művészi jellegű alkotások létrehozására ösztönzés segítségével az alkotás örömének, az önmegvalósításnak,
+a felszabadultságnak kialakítása a tanulókban.
+Feladatok
+– A vizuális önkifejezés, a téri tudatosság kifejlesztése és megerősítése.
+– A képi információk befogadására való képesség kialakítása, a világban való eligazodás megkönnyítése.
+– A kommunikációs és szocializációs képesség gazdagítása.
+– A természetes és mesterséges környezet vizuális befogadásának segítése.
+– A művészeti kifejezésformák iránti érdeklődés felkeltése.
+– Az ábrázolás, alakítás anyagainak, azok helyes használatának megismertetése.
+
+– Különböző rajzos és kézműves technikák, népi kismesterségek megismerése.
+– A környezet szépségének, esztétikumának felfedeztetése.
+– A népművészet értékeinek bemutatása.
+– A különböző művészeti ágak együttes és különálló alkalmasságának felfedeztetése ugyanannak a
+gondolatnak, élménynek, érzelemnek a kifejezésére.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– A téri, időbeli tájékozódás fejlesztése.
+– A pontos megfigyelő-, elemzőképesség alapozása.
+– A szándékos figyelem és emlékezet erősítése.
+– Az élmények, benyomások megfogalmazásának, kifejezésének képessége.
+– A koordinált mozgás, a cselekvés képességének alakítása.
+– Az alkotás örömének felfedeztetése, megélése.
+– A kommunikációs képességek fejlesztése.
+– A tevékenységek kitartó végzése, a feladattartás erősítése.
+A tanulók értékelésének elvei
+Az értékelés célja a megerősítés, támogatás.
+Elvei
+– A tanuló teljesítményének megítélése a folyamatos megfigyelésre, ellenőrzésre, eseti diagnosztizálásra épül.
+– Az értékelés mindenkor egyénre szóló legyen, a tanuló fejlődését vegye figyelembe.
+– Minden tevékenység, alkotás, produktum ellenőrzése, személyre szóló értékelése az osztálytársak
+bevonásával történjen.
+BEVEZETŐ SZAKASZ
+(1–2. évfolyam)
+Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+Megismerő- és befogadóképességek
+– Az alkotás élményének megtapasztalása, érzelmi gazdagodás, az intuíció fejlesztése.
+– A közvetlen környezet tárgyainak elemzése – az alak, szín, forma, funkció pontos felismertetése.
+Ismeretszerzési képességek, térbeli tájékozódás
+– Az egyértelmű téri helyzetek felismerése, megnevezése.
+– A tankönyvben, a környezetben előforduló egyszerű vizuális közlések elemi szintű értelmezése.
+– Egyszerű látványélmények emlékezetben tartása és felidézése segítséggel, az önkifejezés igényének
+felismerése.
+– Tárgykészítés, környezetalakítási tevékenységek, díszítés.
+
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Vizuális nyelv és kommunikáció Néhány egyszerű forma-, vonal- és színminőség használata
+alkotómunkában, azok felismerése és megnevezése (pl. kicsi, nagy,
+vastag, vékony vonalak; egyenes, ferde, hullámvonal, körvonal, formák).
+Foltfestés. Formák megfigyelése a nagyság szempontjából.
+Tárgyak helyének, helyzetének meghatározása és szerepeltetése
+alkotásokban.
+A vonal mint a mozgás kifejezője. Szabályos és szabálytalan formák
+felismerése és ábrázolása. Szögletes, íves, gömbölyű formák. Formák,
+színek szimmetrikus elhelyezése. Egyszerű ritmusok létrehozása és
+elrendezése.
+Saját jelek választása, egymás jelének megismerése. Ábrák, jelek, a
+mindennapi környezetben megfigyelhető egyéb látványok szemlélése,
+értelmezése. Emberi gesztusok értelmezése.
+Tárgyak, élőlények, egyszerű események ábrázolása változatos
+technikákkal (pl. vonallal, folttal, színesen és fekete-fehérben).
+Előzőleg tudatosan megfigyelt változások (pl. évszak, időjárás)
+legjellegzetesebb állapotainak ábrázolása. Arckifejezések értelmezése,
+jelek, piktogramok megértése.
+Kifejezés, képzőművészet és technika Önmagával vagy a családdal kapcsolatos események kifejezése
+személyes hangú rajzokban, festményekben.
+Történetek eljátszása bábokkal. Műalkotások néhány perces szemlélése,
+közös beszélgetések a tárgyakról, élőlényekről, színekről, formákról.
+Élmények feldolgozása emlékek alapján, megjelenítése síkon és térben.
+Évszakok hangulatának kifejezése. Saját, kitalált történetek megjelenítése
+síkon és térben.
+Ismerkedés különféle technikákkal; anyagok és munkaeszközök
+használata: ceruza-, golyóstoll- és ecsetrajz; vízfestés; mintázás anyagból,
+plasztilinből; konstruálás papírból tépéssel, nyírással; síkbáb készítésének
+egyszerű technikája.
+Különféle technikák, könnyen megmunkálható változatos anyagok
+(pl. papír, agyag) és egyszerű munkaeszközök használata. Formálás
+anyagból. Papírhajtogatás. Nyomtatás krumplidúccal.
+Tárgy- és környezetkultúra Babaszoba berendezése. Egyszerű használati és dísztárgyak készítése
+mintakövetéssel. A környezet (pl. osztályterem) szebbé tétele,
+átrendezése.
+Tárgyak készítése könnyen alakítható anyagokból (papír, agyag).
+Csomagolások készítése mintakövetéssel, csomagolóanyag díszítése
+(egyénileg). Köznapi és ünnepi tárgyak ( pl. jeles napok tárgyi kellékei)
+formája és funkciója közötti összefüggések megbeszélése.
+A szakasz végére elvárható követelmények
+– Tudjon megfigyelni formákat, azokat nagyság szerint rendezni.
+– Tudja a tárgyak helyét, helyzetét segítségnyújtással meghatározni.
+– Tudja megkülönböztetni a sík- és térformákat. Tudja megnevezni, ábrázolni a szabályos, szabálytalan,
+valamint a szögletes-íves, szögletes-gömbölyű és szimmetrikus formákat.
+– Értse meg a tankönyv ábráit, az egyszerű eligazító táblákat, piktogramokat.
+– Értelmezze az egyszerű arckifejezéseket, gesztusokat.
+– Tudjon szabadon képet alakítani élmény alapján festéssel, rajzzal.
+– Tudja kifejezni az évszakokhoz kapcsolódóan az időjárás egyszerű jelenségeit a képkialakításaiban.
+– Tudjon tárgyakat készíteni papírból, agyagból.
+
+KEZDŐ SZAKASZ
+(3–4. évfolyam)
+Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+– A síkban-térben történő konstruálás, a képi, a plasztikai kifejezés bátorságának elősegítése, önálló
+tárgykészítés modell és algoritmus segítségével.
+– Az alkotótevékenység személyiségfejlesztő hatásának; érzelemgazdagításának biztosítása.
+– Önismeret, önértékelés; ízlés, belső igény fejlesztése.
+– Lehetőség adása a munka, a teljesítmény önálló megítélésére, a társak munkájával történő
+összehasonlítására.
+Megismerő- és befogadóképességek – motoros készségek fejlesztése
+– Egyszerű elemzések elvégzése irányítással.
+– A vizuális jelek, jelképek alkotó használata.
+– Képek készítése a tanult technikákkal.
+– Egyszerű összehasonlítások, képzeletbeli átalakítások a látványélmények felhasználásával,
+mozgásváltozások felismertetése.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Vizuális nyelv és kommunikáció A tanult vizuális elemek, minőségek és viszonylatok felismerése képek,
+tárgyak, látványok elemzésekor. Egyszerű forma-, vonal- és színritmusok
+alkalmazása és felfedezése a különböző célú képalkotásokban
+(díszítményekben, vizuális jelekben). Hangsúlyozás, formák és színek
+kiemelésével. Formakompozíciók, kompozíciós megoldások, formaritmusok.
+A formák (foltok, tömegek) és színek közlési szándékának megfelelő
+elrendezése (körvonal, foltképzés, árnyék). A forma szerkezete – síkformák,
+körformák megfigyelése, létrehozása. Ritmikus felületek létrehozása. Térbeli
+viszonylatok létrehozása dobozokkal.
+Tárgyak jelzése, felismerése egy nézet alapján. Egyszerű tér- és
+mozgásábrázolások. Tárgy ábrázolása szemmagasságban. Tárgyak alaprajza.
+Egyszerű történés, folyamat értelmezése fázisrajzok felhasználásával.
+Élethelyzetekhez kapcsolódó magyarázó rajzok, folyamatábrák és vizuális
+jelek olvasása és üzenetük értelmezése (pl. plakátok).
+Kifejezés, képzőművészet és technika Egyedül vagy közösségben szerzett mindennapi élmények kifejezése
+festményben, rajzba, plasztikában, térben. Évszakok hangulata. Szépirodalmi
+és filmélmények, zenei élmények megjelenítése síkon és térben.
+Képzőművészeti alkotások leírása néhány mondatban (pl. köztéri szobor),
+jellemzőik magyarázata.
+Különféle technikák, technológiák megismerése, munkafolyamataik
+értelmezése, könnyen megmunkálható változatos anyagok és egyszerű
+munkaeszközök használata. A mintázás és a kollázstechnikák újabb
+technológiai változatai. Rajzolás rosttollal, krétával. Festés temperával.
+Különféle tárgy- és anyagnyomatok.
+Tárgy- és környezetkultúra Egyszerű tárgyak készítése (pl. játékok, bábok, edényféleségek).
+Csomagolások készítése minta után és egyéni elképzeléssel. A tárgyalkotó
+folyamat végigvitele (próbálkozások a folyamat lépéseinek betartására).
+Környezetalakító tevékenység (pl. helyiségek átrendezése új funkcióinak
+megfelelően, díszlet készítése).
+A funkció, forma, méret, anyag, technika összefüggései (pl. tárgyak
+agyagból). Környezetalakító tevékenység (pl. kiállítás rendezése). A magyar
+kultúrából származó köznapi, ünnepi tárgyak és tárgycsaládok elemzése a
+rendeltetés, az anyag, a forma és díszítés legegyszerűbb összefüggéseinek
+meglátásával.
+
+A szakasz végére elvárható követelmények
+– A tanuló ismerje a vizuális alapelemek egyszerű rendszereit (vonalfajták, formák, színritmusok).
+– Ismerje a vizuális alapelemek viszonylatait (irány, arány, kompozíció, hangsúlyozás).
+– Váljon gyakorlottá az egyes vizuális elemek használatában. Fejlődjön érzelmi világa és kreativitása.
+– Tudjon képet alkotni az időjárás, az évszakok hangulatának kifejezésével, a téri viszonylatok spontán
+rögzítésével.
+– Legyen képes egyszerű vizuális ritmusok létrehozására.
+– Tudjon megfigyeléseket tenni és azokat megfogalmazni a természeti környezet vizuális jellemzőire
+vonatkozóan.
+– Tudjon a megismert anyagokkal tárgyakat készíteni.
+– Értse a legegyszerűbb vizuális jelzéseket.
+– Ismerje a vonal- és foltképzési technikákat.
+– Legyen képes tárgykészítés céljából forma- és színritmusok létrehozására.
+– Biztosan ismerje a térbeli viszonylatokat a téri szerkezetek létrehozásakor.
+– Ismerjen fel cselekvéssort képeken.
+– Ismerjen fel tárgyakat két nézete alapján.
+– Legyen képes látvány hatására képet alkotni.
+– Tudjon látvány alapján tárgyakat segítséggel, szóban elemezni, összefüggéseket rávezetéssel felfedezni.
+ALAPOZÓ ÉS FEJLESZTŐ SZAKASZ
+(5–8. évfolyam)
+Célok
+Az érdeklődés, a fogékonyság felkeltése és megerősítése a természetes és mesterséges környezet esztétikai és
+más látható értékei iránt.
+Az esztétikai érzékenység, nyitottság, fogékonyság, ízlés alakítása, fejlesztése, a múlt értékeinek,
+hagyományainak tudatosítása a nemzeti műveltség közvetítésével.
+Feladatok
+– Élményszerű tapasztalatok nyújtása a tárgy- és környezetkultúra területéről.
+– A környezettudatos magatartás kialakítása a tárgykultúra példáin keresztül.
+– A kreativitás, a kreatív gondolkodás fejlesztése.
+– A tantárgy sajátos tartalmával és eszközrendszerével olyan személyiségjegyek kialakítása, amelyek felkeltik
+a szakmák iránti érdeklődést és segítik az eredményes szocializációt.
+– Tapasztalatszerzési lehetőség biztosítása a tárgy- és környezetkultúra világáról, a vizuális kommunikáció
+területeinek használatáról, az információk képi rögzítéséről, értelmezéséről.
+– Jártasság fejlesztése gyakorlatokon keresztül a vizuális technikák alkalmazásában.
+– Az érzelmek minél árnyaltabb kifejezésének, a személyes élmények megjelenítésének elősegítése.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– Az érzéki tapasztalatszerzés fejlesztése, az érzékszervi kultúra gazdagítása.
+– A tartós figyelem és emlékezet fejlesztése.
+– Az esztétikai érzékenység készségeinek alapozása, fejlesztése.
+– Önmaga képességeinek, fejlődési lehetőségeinek felismertetése, a motívumok erősítése.
+
+– Gazdag tapasztalatszerzés a tanulót körül ölelő mikro és makrovilágról.
+– A térlátás fejlesztése, pontos képzetek kialakítása a valós térről, időről, az anyag, forma, funkció, szerkezet,
+szín, fény és mozgás viszonyairól.
+– A kommunikációs képességek fejlesztése szóban, ábrázolásban, befogadásban.
+– A finommotorika, a kreativitás, az eszközhasználati készség fejlesztése.
+– Az ismeretszerzési, a tanulási képességek fejlesztése.
+A tanulók értékelésének elvei
+A rajz és kézművesség tantárgy alkotásközpontú, így az értékelésnél elsősorban a tanuló egyéni vagy csoportban
+létre hozott produktumait értékeljük.
+Az értékelés rugalmasan alkalmazkodik a tanuló eltérő adottságaihoz, a sérülésből adódó egyediségéhez.
+Az értékelésnél figyelembe kell venni
+– a tanuló önmagához mért fejlődését, az egyes tevékenységkörökhöz, technikákhoz történő vonzódását,
+– a tantárgy többszínűségéből adódó, más és más színvonalú eredmények alkotásakor a részvételt a produktum
+készítésében, a tervezési folyamatban, a kreativitást, a feladattartást, az újrakezdés képességét,
+– a tanuló aktív részvételét az önértékelésben.
+ALAPOZÓ SZAKASZ
+(5–6. évfolyam)
+Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+Alkotóképesség és tanulást segítő képességek
+– A vizuális nyelvi elemek árnyaltabb használatának képessége.
+– A térlátás, a térábrázolás fejlesztése (forma- és színtanulmány, egyszerű takarások, tárgyelemzés – a forma –
+rendeltetés kapcsolata). Az emlékezet fejlesztése – a részletek megjegyzése, a képzetek felidézése. Az
+érdeklődési kör szélesítése, a változatos anyagok, technikák, eszközök biztosításával.
+Önismeret, önértékelés, önszabályozás
+– Tudatos tárgykészítés az eszköz, a technika önálló megválasztásával.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Vizuális nyelv és kommunikáció Folthatárok, foltfestés, vonalabsztrakció, a tárgy formája
+vonalkövetéssel. Ritmikus felületek kialakítása. Szabályos és
+szabálytalan sík- és térformák. Természeti formák csoportosítása. A
+forma árnyéka – körülrajzolása.
+Mértani formák megfigyelése, testek felülete, élek, testek létrehozása.
+Tulajdonságok elemzése, bevonása papírral.
+Látványok ábrázolása – természeti formák ábrázolása modell után,
+forrásformák ábrázolása. Egyszerű kompozíciós megoldások
+létrehozása.
+Térformák ábrázolása modell után. Forgás- és szögletes formák
+ábrázolása. A tárgyak két nézetének megrajzolása. Tárgyak,
+tárgycsoportok alaprajzának elkészítése. Térképrajz értelmezése.
+Kifejezés, képzőművészet és technika Különböző hangulatú, látványhoz kötött élmények, személyes
+élmények síkbeli és térbeli megjelenítése rajzzal. Élménykifejezés
+emberábrázolással.
+
+Témakör Tartalom
+Meseszerű történetek megjelenítése rajzolással, festéssel, plasztikával.
+Művészeti élmények (tánc, zene, irodalom) feldolgozása képi
+kompozícióban. Tájábrázolás megfigyelés alapján.
+Tárgy- és környezetkultúra Néhány alkotás rajzos és szóbeli összehasonlítása az alkotások
+anyaga, valamint az anyagok tulajdonságai alapján. A tanulók
+alkotásainak vizsgálata, elemzése az érzelmi hatás szempontjából. A
+tárgyalkotó folyamat lépései a tárgykészítésben. Tárgykészítés
+agyagból, papírból, textíliából.
+A tárgyak csoportosítása a funkció szerint. Őseink tárgyai, ma
+használatos tárgyak. Funkció, forma, anyag, esztétikum egysége.
+Egyszerű terv a tárgykészítéshez – tárgykészítés a tanult technikákkal.
+A szakasz végére elvárható követelmények
+– Tudjon adottságai függvényében egyszerűbb vizuális problémákra, emocionális késztetésekre kreatívan
+reagálni.
+– Szerezzen tapasztalatokat a vizuális kifejező elemek változatos felhasználhatóságáról a folt, a vonal, a
+felületek kapcsolatában.
+– Ismerje a komponálás néhány fontos eszközét (vonalvastagság, szín, elhelyezés).
+– Tudjon ritmikus kompozíciókat létrehozni.
+– Legyen képes egyszerű formák látványszerű ábrázolására.
+– Fejlődjön képi kifejezése irodalmi és zenei élmények hatására (festés, rajzolás és plasztikus alakítások).
+– Tudjon – a tárgyalkotó folyamat lépéseinek betartásával – a megismert anyagokból egyszerű tárgyakat
+készíteni.
+– Legyen jártas az összetettebb síkbeli alkotások létrehozásában.
+– Tudatosan alkalmazza térábrázolásaiban a térjelzéseket (közel, távol, takarás).
+– Szerezzen tapasztalatokat az egyszerű tárgyak szerkezetéről.
+– Legyen képes – szabadon választott technikával – művészeti és személyes élményei képi kifejezésére.
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+Tantárgyspecifikus képességfejlesztési feladatok
+Kommunikációs képességek, kreativitás
+– Jelenségek, érzelmek, gondolatok térbeli és síkbeli kifejezésének képessége.
+– A kifejezés hagyományos technikáinak és az újszerű technikák elsajátításának készségei.
+– Közlő, magyarázó, eligazító ábrázolás képessége.
+– Vizuális közlemények (térkép, alaklemez, szabásminta) értelmezésének képessége.
+– A köznapi élet tipikus vizuális közleményei (televízió, rádió, sajtó) felfogásának, megértésének,
+megítélésének képessége.
+Alkotóképesség, önismeret, önértékelés
+– Egyszerű tárgyak megtervezésének képessége.
+– Képesség a tervezés elveinek megértésére, alkalmazására.
+– Célszerűség–használhatóság–megmunkálás–anyag–szerkezet összefüggéseinek meglátása.
+
+– Jártasság a tanult kézműves technikákban, a modellezésben, építésben.
+– A munka, az alkotás esztétikai értéke jelentőségének felismerése az épített környezetünkben, a művészeti
+alkotásokban.
+– A saját és mások alkotásának megbecsülése.
+– Az ésszerű, anyagtakarékos megoldások előnyben részesítése. A környezetbarát megoldások keresése.
+– Az együttműködési és alkalmazkodási készség, csoportmunkában való részvétel képessége.
+– Az empátiás készség fejlesztése.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Vizuális nyelv és kommunikáció Formacsoportosítások – sík- és térformák, szabályos és szabálytalan
+mértani formák. Térformák, forgásformák származtatása,
+felhasználása térépítéséhez. Térkompozíciók létrehozása, térrendezés,
+térépítési modellek létrehozása.
+A fény kiemelt szerepének megfigyelése a műalkotásokban. A ritmus,
+a szimmetria, az aszimmetria a műalkotásokban.
+Ítéletalkotások, következtetések. Ritmuskompozíciók készítése.
+Testek ábrázolása, az árnyék, a vetett árnyék kifejezése. Tárgyak
+nézeti ábrázolása. Emberalak látványszerű ábrázolása. Az álló ember
+árnyai. Ábrázolás modell után. Az emberi arc ábrázolása.
+Önarckép. Emberábrázolás – ülő, álló ember rajzolása modell után.
+Vizuális közlések – tervezés, kivitelezés (meghívó, plakát).
+Munkafolyamatok szemléltetése – folyamatábra.
+Nézetábrázolások mértani formákról.
+Kifejezés, képzőművészet és technika Művészeti élmények kifejezése – irodalom, zene.
+Ábrázolás a tanult technikákkal.
+Műalkotások elemzése.
+Érzelem kifejezése a képzőművészetben.
+Hangulatok, érzelmek kifejezése különböző témák feldolgozása során.
+Adott téma képi feldolgozása során különböző kompozíciós
+megoldások kipróbálása. Festés zenéhez. Művészeti kiállítások,
+múzeumok megtekintése során szerzett élmények szóbeli és képi
+feldolgozása.
+Tárgy- és környezetkultúra A tárgyalkotás folyamata, tervezés, kivitelezés. Kézműves technikák
+alkalmazása a tárgykészítésben. Az ember épített környezetének
+elemzése. Őseink épített környezete, a mai világunk. Lakóépületek,
+középületek.
+A funkció–forma összefüggései az építészetben, különféle
+épülettípusokban. Településtípusok elemzése képen, modelleken. A
+tárgyi környezet és életmód összefüggéseinek elemzése. Használati és
+dísztárgyak megtekintése, elemzése.
+A szakasz végére elvárható követelmények
+– Használja tudatosan a vizuális nyelv elemeit.
+– Ismerje a mértani térformák legfontosabb tulajdonságait és tudja azokat felhasználni térelemzéshez,
+térképezéshez.
+– Alkalmazza a fény-árnyékot a plasztikus formák megjelenítésében.
+– Legyen képes művészeti élmény hatására kifejező alkotásokat készíteni térben vagy síkban.
+– Legyen képes egyszerű mértani testek látványszerű ábrázolására.
+– Tudjon embert ábrázolni modell után. Legyen ismerete az ember méreteiről, arányairól.
+
+– Ismerje fel a műalkotásokon a kompozíció legfontosabb eszközeit.
+– Használja tudatosan képalakításain a vizuális kifejezőelemeket.
+– Legyen képes egyszerű plakátok megtervezésére és kivitelezésére.
+– Legyen képes művészeti élmény vizuális kifejezésére a tanult kompozíciós eszközök felhasználásával.
+– Legyen nyitott az esztétikai közlésre és befogadására.
+– Tudjon értékítéleteket hozni természeti és mesterséges környezetének esztétikájára vonatkozóan.
+– Legyen jártas a környezet alakításában, a tárgykészítésben használatos egyszerű eszközök, szerszámok
+használatában.
+– Legyen ismerete a tárgyi környezet és az életmód összefüggéseiről.
+FÖLDRAJZ
+Óraszámok
+Szakaszok – évfolyamok
+Alapozó szakasz Fejlesztő szakasz Megszilárdító
+szakasz
+5. 6. 7. 8. 9. 10.
+Heti óraszám – 1,5 1,5 1,5 1,5 1,5
+Éves óraszám – 55,5 55,5 55,5 55,5 55,5
+Témakörök ütemezése
+Szakaszok – évfolyamok
+Témakörök
+Alapozó szakasz
+(5–6. évf.)
+Fejlesztő szakasz
+(7–8. évf.)
+Megszilárdító
+szakasz
+(9–10. évf.)
+Ismeretek a térképről x
+Ismeretek a hazáról és a lakóhelyről x
+Hazánk természeti, társadalmi,
+gazdasági jellemzői
+x
+Kontinensek, tájak, országok –
+Európa
+x
+A Kárpát-medence és Európa x
+
+Szakaszok – évfolyamok
+Témakörök
+Alapozó szakasz
+(5–6. évf.)
+Fejlesztő szakasz
+(7–8. évf.)
+Megszilárdító
+szakasz
+(9–10. évf.)
+A lakóhelytől a bolygónkig x
+A Föld természetföldrajzi képe.
+A Naprendszer
+x
+A világ gazdasági és
+természetföldrajzi képe
+x
+Globális környezeti problémák x x
+Célok (6–8. évfolyam)
+– Kialakítani, majd fokozatosan fejleszteni a tanulók földrajzi, környezeti tájékozódását és gondolkodását.
+– A természettudományos vizsgálat egyszerűbb módszereinek és azok alkalmazásának elsajátításával a
+világban elfoglalt helyünk, földrajzi-környezeti adottságaink, értékeink megismertetése.
+Feladatok
+– A szűkebb és tágabb környezet természetföldrajzi, társadalmi, gazdasági jellemzőinek megismertetése.
+– A tanulók szemléletének, a nemzeti, az európai értékekhez való pozitív viszonyulásának formálása.
+– A napi gyakorlat során szükséges térbeli és időbeli tájékozódási képesség kialakítása.
+– A tanulók érdeklődésének felkeltése a megfigyelhető, észlelhető, megvizsgálható jelenségek, folyamatok
+iránt a közvetlen és a tágabb környezetet érintően.
+– A tér- és időbeli tájékozódási képességek bővítése, a térképi alapismeretek fejlesztése. Hozzájárulás az
+ökológiai szemlélet, a környezeti attitűd, magatartás és értékrend kialakulásához.
+– A haza, az európai és a távoli tájak földrajzának megismertetésével késztetés az élő, az élettelen, az épített
+környezet megóvására.
+– Hozzájárulás a tanulási szokások kialakításához, az elsajátított ismeretek, készségek, jártasságok
+alkalmazásához a napi életvitel szintjén.
+– Felkészítés a reális értékelésre, a földrajzi információhordozók értelmes felhasználására, kiválasztására
+(térképek, földgömb, tv-műsorok, kiadványok, útikönyvek).
+– Topográfiai ismeretek, földrajzi fogalmak kialakítása – a tanulók fejlettségének megfelelően. Megfelelő
+gyakorlás, megerősítés, biztosítás az alapvető földrajzi szakkifejezések használatára, az írásos rögzítésre, az
+ábrázolásra, az elemzésre.
+A tanulók értékelésének szempontjai
+– Az értékelésben valamennyi évfolyamon kiemelt szerepe van a folyamatos ellenőrzésnek (írásbeli, rajzos,
+szóbeli és egyéb produktumok) és értékelésnek – szóban, esetenként írásban is.
+– Az értékelés mindenkor a tanuló önmagához mért fejlődését fejezze ki, ezért legyen differenciált, személyre
+szóló, a tanuló fejlettségéhez, állapotához igazított.
+– Az értékelésnél ne csupán az adott helyzetnek való megfelelést vegyük alapul, hanem a tantárgyi
+specifikumoknak megfelelő – már begyakorolt – tanulási és munkaszokásokat is.
+
+– Az értékelésben kapjon helyet a tanuló feladattudata, akarata, erőfeszítése az önálló és a közös munkában
+egyaránt.
+– Az értékelés segítse a tanulót a reális önértékelés kialakításában, képességei felismerésében.
+– A tanulók értékelhető tevékenységükhöz a sérülésüknek megfelelően kapják meg azokat a segédeszközöket,
+anyagokat, amelyek állapotuknak megfelelnek.
+– Az értékelésről, a tanuló eredményeiről – az iskola pedagógiai programja értelmében – kapjon tájékoztatást a
+szülő is.
+ALAPOZÓ SZAKASZ
+(5–6. évfolyam)
+Tantárgyspecifikus fejlesztési feladatok, tevékenységek
+Tájékozódás a földrajzi térben és időben
+– Tájékozódás a lakóhelyen és környékén.
+– Eligazodás, egyszerű leolvasási gyakorlatok a domborzati, közigazgatási térképről irányítás mellett.
+– A periodikusság felismerése a természet folyamataiban (időjárás, növényzet, termelés).
+– Az idő múlásával bekövetkezett környezeti változás azonosítása egyszerű példákon – irányítás mellett.
+– Tényleges és viszonylagos helyzet a földrajzi térben.
+– A környezet folyamatainak, azok időrendjének felismerése segítséggel.
+– A természeti környezet közvetlen hatása az ember termelőtevékenységére, a társadalmi-gazdasági
+folyamatokra – a földrajzi helyekről vett példák alapján.
+Tájékozódás a földrajzi, környezeti kölcsönhatásokban
+– Az időjárás éghajlati jelenségei, a domborzati adottság hatása a természetre, az élőlényekre példák alapján.
+– A természeti környezet hatása az ember termelőtevékenységére.
+– Különböző adottságú nagytájak eltérő természetföldrajzi, települési jellemzőinek felismerése tanári
+segítséggel, rávezetéssel.
+Ismeretszerzés, tanulás
+– A közvetett és közvetlen információhordozók használatának gyakorlása tanári irányítással (térképek, ábrák,
+képek, filmek, könyvek).
+– Megfigyelés, összehasonlítás, lényegkiemelés, összefüggések feltárása példákon keresztül, segítségadás
+mellett.
+– A tanult földrajzi fogalmak gyakorlása, használata a fejlettségnek megfelelően.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Ismeretek a térképről A térkép és a valóság. A térképek méretaránya, jelrendszere. Irány meghatározása a térképen,
+tájékozódás a fő világtájak szerint.
+Domborzati, közigazgatási és tematikus térkép. A térkép jelrendszere, magasság leolvasása, hely
+és helyzet meghatározása. Elemi ismeretek a földrajzi fokhálózatokról. Tájékozódás a
+földgömbön, a világtérképen.
+
+Témakör Tartalom
+Ismeretek a hazáról
+és a lakóhelyről
+A lakóhely természetföldrajzi adottságai: példák a lakóhely társadalmi, gazdasági folyamataira
+(foglalkozás, termelés, gazdálkodás).
+A földrajzi környezetre gyakorolt emberi, társadalmi hatások – környezetkárosító folyamatok,
+problémák – saját élmény alapján. Változások a lakóhelyen.
+Az időjárás, az éghajlat fogalma.
+A tágabb környezet, a hazai tájak. A nagytájak természeti adottsága (domborzat, víz, éghajlat)
+természeti erőforrások.
+Hazánk települései, településtípusok. Tájékozódás Magyarország közigazgatási térképén. Hazánk
+fővárosa.
+A lakóhelytől a
+bolygónkig
+A Föld alakja. Természetföldrajzi folyamatok, a földfelszín változása. A talajképződés. A belső
+és külső erők szerepe a földfelszín formálásában. Jellegzetes felszíni formák.
+Elemi fogalom a földalakról, a földtengely ferdeségéről, a besugárzásról és az éghajlati övek
+kialakulásáról – modellezés, kísérletek, filmek bemutatásával.
+Egyes éghajlati övezetek legfontosabb jellemzői.
+Európa a Földön. Kontinensek és óceánok a Földön. A kontinensek és óceánok térbeli helyzete.
+Időbeli, térbeli tájékozódás a kontinensek között.
+Eltérő természeti jellemzők – a földrészek nagyobb országai.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– A gondolkodási funkciók fejlesztése: megfigyelés, elemzés, összehasonlítás, elvonatkoztatás, probléma-
+felismerés, ok-okozat összefüggés meglátásának képessége.
+– A rövid, a hosszú távú figyelem és emlékezet fejlesztése.
+– A rész-egész viszony a valóságban, a térképi ábrázolásban. A valóság és térkép összefüggéseinek
+felismerése.
+– Biztos tájékozódás megteremtése a közvetlen térben. A tájékozódás biztonsága a síkban a jelek, a
+szimbólumok világában.
+– Tájékozódási feladatok, téri viszonyok felismerése, megértése: valamely tárgy, objektum tényleges és
+viszonylagos helye, helyzete.
+– Az időészlelés fejlesztése. Időrend, periódus, természetben, folyamatban.
+– Kommunikációs képességek – kérdezni tudás, a szakkifejezések használata.
+– Tanulási szokások megerősítése: térképek, információhordozók használata, önálló ismeretszerzés egyszerű
+szövegből, a tankönyv, a feladatlap, a munkalap használata.
+A szakasz végére elvárható követelmények
+– Ismerje fel a tanult földi képződményeket, nevezzen meg jelenségeket, folyamatokat.
+– Legyen ismerete az éghajlati övezetekről. Tudja segítség mellett megmutatni, megnevezni az éghajlati
+övezeteket.
+– Legyen képes a földgömbön, a Föld térképén irányítás mellett tájékozódni, a kontinenseket, óceánokat
+megnevezni, helyüket, a helyzetüket meghatározni.
+– Legyen képes egyszerű összehasonlításokat végezni a térkép vagy modell, makett segítségével.
+– Gyűjtsön képeket, leírásokat. Tudja megmutatni hazánk helyét Európa térképén. Legyen képes a térképről
+információt szerezni, hazánk nagy tájait megmutatni, megnevezni, a tanult földrajzi neveket,
+szakkifejezéseket pontosan használni.
+– Tudja megfigyeléseit szóban elmondani, röviden, tömören írásban rögzíteni, rajzban ábrázolni.
+
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+Tantárgyspecifikus fejlesztési feladatok, tevékenységek
+Tájékozottság a földrajzi térben, a környezet kölcsönhatásában
+– Különböző típusú térképek használata, szemléleti térképolvasás önállóan.
+– Egyes tipikus tájak, földrészek, országok természeti-társadalmi jellemzőinek és összefüggéseinek
+felismerése segítségnyújtással.
+– Az emberi tevékenység által okozott környezetkárosító folyamatok megismerése.
+Tájékozottság földrajzi-környezeti kérdésekben
+– Európa és a Kárpát-medence természeti-társadalmi-gazdasági értékeinek megismerése, az Európa-tudat
+fejlesztése, a kötődések megerősítése.
+– Az egyes európai országok eltérő és hasonló adottságainak érzékeltetése, összefüggések felfedezése tanári
+irányítással.
+– Az Európai Unió tagállamainak kapcsolatrendszere példákon keresztül.
+Ismeretszerzés, tanulás
+– A földrajzi környezetben, a gyakorlati életben való eligazodás képességének fejlesztése.
+– Információk kezelése, értelmezése irányítással (könyvtár, világháló, térképek, könyvek) a tanulók
+fejlettségének megfelelően.
+– Egyszerű ábrák, rajzok készítése.
+– A hétköznapi életben felhasználható földrajzi-környezeti tudás elemeinek elsajátítása, folyamatos
+gyarapítása önállóan vagy tanári segítséggel.
+– Gyűjtemények, tablók összeállítása, helyzetgyakorlatok (idegenvezetés, utazásszervezés, bemutató, leírás).
+Tájékozottság a hazai földrajzi-környezeti kérdésekben
+– Magyarország részletes megismerése kitekintéssel a Kárpát-medence egészére.
+– A haza természeti, gazdasági értékeinek megismerése, a körzetek, régiók eltérő és hasonlatos jegyei – tanári
+irányítással az aktuális példákon keresztül az eltérések okainak keresése.
+– Kulturális néprajzi hagyományok ismerete.
+– A regionális kapcsolatok jelentősége.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Kontinensek, tájak, országok Ismeretek a kontinensekről.
+A nagyobb tájegységek jellegzetességei, tipikus tájak:
+– a földrajzi övezetesség szerint a monszunvidék, a sivatag, a mediterrán táj, a tajgavidék,
+– a domborzathoz kapcsolódó tájtípusok – a magashegységek, középhegységek –, a
+gazdálkodás tipikus tájai – ipari körzet, farmvidék, ültetvények, öntözéses gazdálkodás,
+oázisok, speciális térségek – kikötőövezet, üdülőövezet.
+A Kárpát-medence és
+Európa
+Európa tényleges és viszonylagos fekvése, részei.
+Európa természeti és társadalom-földrajzi képe.
+Az Európai Unió.
+Észak-Európa országainak egyedi, földrajzi vonásai.
+Dél-Európa – tipikus mediterrán táj, kikötő- és üdülőövezet.
+
+Témakör Tartalom
+Kelet-Európa jellegzetes nagytájai.
+Közép-Európa tájainak, országainak természeti és társadalom-földrajzi jellemzői.
+A Kárpát-medence földrajza, természeti, gazdasági jellemzői.
+Hazánk természeti,
+társadalmi, gazdasági
+jellemzői.
+Körzetek, régiók
+Hazánk természeti környezete, hasonlóságok, eltérések a Kárpát-medence természeti
+adottságaival. A földrajzi környezet hatása a gazdálkodásra, a településre, az életmódra.
+A Dunántúl, Észak-Magyarország, az Alföld és a Központi körzet földrajzi jellemzői,
+természeti erőforrások, gazdasági lehetőségek.
+Hazánk kereskedelme, közlekedése, idegenforgalma, környezeti állapota és környezeti
+értékeinek védelme.
+Nemzetközi kapcsolatok.
+A magyar nép tájtörténeti tagolódása – néprajzi hagyományok.
+A szakasz végére elvárható követelmények
+– A tanuló tudjon példákat mondani a természetföldrajzi övezetességre, alapvető jellegzetességének
+bemutatására tanári irányítás mellett. Legyen képes egy táj természeti jellemzőit bemutató kép, ábra, adatsor
+elemzésére irányítás, segítségadás mellett. Megadott szempontok szerint tudja csoportosítani a nagyobb
+tájegységek tipikus tájait, legyen képes a térképen megmutatni ezeket.
+– Tudjon tanári segítséggel egy-egy példát mondani az adott táj természeti és társadalmi környezetének
+alapvető összefüggéseire.
+– Szempontsor mellett legyen képes jellemezni Európa természetföldrajzi adottságait, erőforrásait.
+– Legyen elemi ismerete az Európai Unióról.
+– Ismerje Európa legfontosabb országait. Mondjon példát a közös és az eltérő földrajzi vonásokra.
+– Használja pontosan a témához kapcsolódó földrajzi, topográfiai fogalmakat, legyen képes megmutatni
+ezeket a térképen is.
+– Legyen képes jellemezni hazánk nagy régióit szempontsor szerint. Végezze önállóan írásbeli feladatait a
+munkalapokon, feladatlapokon.
+– Oldja meg készségszinten a szemléleti térképolvasást, jártasság szinten a következtető térképolvasást.
+– Tudja a megye, a főváros főbb jellemzőit.
+– Tudjon példát mondani a megye környezeti állapotára.
+MEGSZILÁRDÍTÓ SZAKASZ
+(9–10. évfolyam)
+Célok
+– A természetföldrajzi, társadalmi, gazdasági ismeretek bővítése, rendszerezése.
+– Az emberek életteréül szolgáló Föld természeti, társadalmi, gazdasági folyamatainak többirányú, kölcsönös
+függőségének megértetésével, az önálló ismeretszerzés módszereinek elmélyítésével a tantárgyspecifikus
+tanulási szokások, tevékenységek megerősítése, a hazáért, a régióért, a világ problémáiért érzett felelősség
+felismertetése.
+Feladatok
+– A topográfiai ismeretek, a tér-idő fogalmak bővítése, megerősítése, a tanulók eljuttatása a fejlettségüknek
+megfelelő általános földrajzi tájékozottsághoz.
+– A komplex ismeretanyag révén hozzájárulás a tanulók önálló életvezetéséhez, a munka világában történő
+eligazodásukhoz.
+
+– A tanulók eljuttatása a tanult földrajzi szakkifejezések, fogalmak, topográfiai ismeretek szóban és írásban
+történő pontos használatához.
+– Felkészítés az ismerethordozók által közvetített információk értelmezésére, napi használatára, az igényes
+válogatásra.
+– A termelés-fogyasztás korlátainak, a természeti erőforrások takarékos felhasználása fontosságának
+bemutatása.
+– Ráébresztés a Föld globális problémáira, ezek következményeire, a tennivalókra.
+– A környezettudatos, takarékos életmód fontosságának megerősítése.
+Fejlesztési feladatok, tevékenységek
+Ismeretszerzés, tanulás
+– A téma feldolgozását segítő térképek, napilapok, könyvek, statisztikai kiadványok tömegkommunikációs
+források kiválasztása, értelmezése tanári segítséggel.
+– Egyszerű, rövid szöveg önálló feldolgozása.
+Tájékozottság a földrajzi térben
+– Alapvető tájékozottság a Földön – elemi ismeretek a Naprendszerről.
+– Az ismert tér fokozatos kitágítása és annak érzékeltetése modellel, képek, filmek segítségével.
+– A legfontosabb topográfiai fogalmak felismerése, megnevezése a térképen, a földgömbön.
+– Anyagok rendszerezése, a levegő, a víz, a kőzetek, a talaj felismerése a földi élet szempontjából.
+– Környezetkárosító anyagok ismerete – a szennyezés elutasítása.
+– A helyes magatartás megértése a fenntartható fejlődés érdekében.
+Tájékozottság regionális és globális földrajzi-környezeti kérdésekben
+– Nyitottság, érdeklődés felkeltése a környezeti problémák és megoldások iránt.
+– Folyamatos információszerzés, hírek, napilapok, filmek útján a globális problémákról.
+– A környezeti-földrajzi problémák felismertetése a mindennapokban, a saját környezetben.
+– Adatok gyűjtése, hírek keresése, példák a nemzetközi összefogásra, a világproblémák kezelésére.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+A Föld természetföldrajzi képe.
+A naprendszer
+Folyton változó égitestünk, a Föld. A belső és külső erők felszínformáló hatása –
+ásványok, kőzetek, nyersanyagok, energiahordozók. A levegőburok. A levegő anyagai, a
+légkör jelenségei. Légszennyeződés, ózonprobléma, üvegházhatás.
+A vízburok, a víz anyagai, víztípusok. A vízburok, a talaj és az élővilág kapcsolata.
+A földrajzi övezetesség.
+A Naprendszer égitestei. Az űrkutatás eredményei.
+A világ gazdasági és társadalmi
+képe
+A világnépesség számszerű változása. Népességelosztás, települési különbségek.
+Urbanizáció. A gazdasági ágak, változások a gazdasági folyamatokban. Piacgazdaság, a
+tőke szerepe. Nyersanyagszükséglet – energiaigény. Gazdasági, társadalmi események
+összefüggései. Gazdaságunk húzóágazatai.
+Globális környezeti problémák Népesedési problémák, éhínségövezet, egészségügyi gondok. Példák a
+természetkárosításokra – tájpusztítás, esőerdők kiirtása, a víz, a levegő szennyezése, a
+savas eső, az ózonréteg vékonyodása, globális felmelegedés. Energiahordozók,
+nyersanyagok túlzott használata, pazarlás. A fogyasztói társadalom veszélyei.
+Környezetvédelmi kötelezettség és jog. A világ nagy természetvédelmi területei. Hazánk
+nemzeti parkjai, természetvédelmi területei.
+
+A szakasz végére elvárható követelmények
+– Tudjon különböző méretarányú és tartalmú térképeken készségszinten tájékozódni.
+– Tudjon példákat sorolni a Nap földi életet meghatározó jellemzői közül.
+– Legyen képes – szempontsor segítségével – a földrészek legfőbb természetföldrajzi jellemzőit kiemelni,
+szóban megfogalmazni.
+– Ismerje az éghajlati övezetességet, soroljon példákat a természetföldrajzi övezetességre.
+– A térkép használatával tudjon példákat keresni az egyes kontinensek főbb természeti kincseire,
+nyersanyagaira.
+– Rendelkezzen ismeretekkel a magyar utazókról, felfedezőkről.
+– Használja pontosan a tanult földrajzi szakkifejezéseket, topográfiai fogalmakat.
+– Értse a természeti erőforrások takarékos felhasználásának fontosságát, a földrajzi folyamatok kölcsönös
+függőségét.
+– Értse a természeti adottságok és a gazdálkodási lehetőségek összefüggéseit. Tudjon példákat mondani a
+társadalom és a természet kapcsolatára.
+– Szerezzen ismereteket a Föld népességének területi elhelyezkedéséről és ennek környezeti hatásairól.
+– Tudjon példát mondani az urbanizáció következményeire.
+– Ismerje kötelezettségeit a környezet- és természetvédelemben.
+– Ismerje, nevezze meg a gazdasági ágazatokat, legfőbb termékeiket, szolgáltatásaikat.
+– Tudjon hazai példát mondani gazdasági ágakra.
+– Ismerje a gazdasági ágazatok környezetkárosító hatásait.
+– Tudja az emberi tevékenység hatását az ember egészségére és környezetére.
+ÉLETVITEL ÉS GYAKORLATI ISMERETEK
+Óraszámok
+Szakaszok – évfolyamok
+Bevezető szakasz Kezdő szakasz Alapozó szakasz Fejlesztő szakasz Megszilárdító
+szakasz
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10.
+Heti
+óraszám
+1 1 1 2,5 2,5 2,5 3 3 6,5 6,5
+Éves
+óraszám
+37 37 37 92,5 92,5 92,5 111 111 240,5 240,5
+
+Témakörök ütemezése
+Témakörök
+Bevezető
+szakasz
+(1–2. évf.)
+Kezdő
+szakasz
+(3–4. évf.)
+Alapozó
+szakasz
+(5–6. évf.)
+Fejlesztő
+szakasz
+(7–8. évf.)
+Megszilárdító
+szakasz
+(9–10. évf.)
+Egészség- és szabadidő-kultúra –
+életvitel
+x x x x
+Munka- és termeléskultúra
+– anyagok és alakításuk –
+tervezés, szerelés, építés
+x x x x
+Közlekedési kultúra – közlekedés x x x x
+Háztartási és fogyasztói kultúra –
+háztartástan
+x
+Gazdálkodáskultúra – termelés és
+gazdálkodás
+x x
+Pályaorientáció x x
+Szakmai alapozás x
+BEVEZETŐ ÉS KEZDŐ SZAKASZ
+(1–4. évfolyam)
+Célok
+– Az átmenet biztosítása az óvodai létből az iskolai létbe.
+– Az önállóságra nevelés, az elképzelések megvalósítására való ösztönzés, az egyéni szükségletekhez igazított
+önellátás technikáinak elsajátíttatása a képességek fejlesztése során.
+Feladatok
+– Gazdag tapasztalatszerzés biztosítása az egyszerű érzékszervi benyomásoktól a bonyolultabb gondolati
+műveletekig.
+– Az életvezetésre nevelés, amely lehetővé teszi a természeti, a társadalmi és a technikai környezettel való
+helyes együttélést.
+– Az egészségmegóvás lehetőségeinek bemutatása példákon, élményanyagon, a személyes tapasztalás
+lehetőségeinek megteremtése.
+– A helyes, célszerű tanulási és munkaszokások kialakítása.
+– A tanulók képessé tétele a műveleti algoritmusok alkalmazására, egyszerű tervezési tevékenységre,
+problémák felismerésére.
+– Példákon, személyes tapasztalaton keresztül az alapvető közlekedési szabályok felismertetése, a
+környezetben való biztonságos tájékozódás fejlesztése.
+
+– A tanulók önértékelő, elemző képességének, alkotó, konstruáló kedvének megalapozása.
+– A természetben, a társadalomban élő ember és az általa létrehozott technikai környezet kapcsolatának
+megtapasztaltatása konkrét példákon.
+A tantárgy kiemelt habilitációs/rehabilitációs célja a bevezető és kezdő szakaszban
+– Az önellátás, a cselekvőképesség fejlesztése, erősítése.
+– A megfigyelő, a megismerő, a tapasztalatszerző képességek fejlesztése.
+– A gondolkodási funkciók és műveletek erősítése: csoportosítás, összehasonlítás, elemzés, rendszerezés,
+algoritmusok, analógiák felfogása, alkalmazása.
+– Az elsajátítási, a tevékenységi szintek emelése az utánzástól az algoritmus önálló alkalmazásáig.
+– A finom- és a nagyobb mozgások koordinálása, munkamozdulatok fejlesztése a célszerűbb, a kisebb
+munkaerő-ráfordítás érdekében.
+– Az önellátáshoz, a családi munkamegosztáshoz, a feladatokhoz való helyes viszonyulás, a munkafegyelem
+erősítése.
+– A szociális kompetencia fejlesztése terápiák, tréningek segítségével.
+A tanulók értékelésének elvei
+– A tanítás-tanulás folyamatát a tanuló munkájának, tevékenységének folyamatos ellenőrzése, értékelése, a
+fejlettséghez igazított segítségnyújtás jellemezze.
+– Differenciált értékelés alkalmazása a tanuló sérülésspecifikumainak figyelembevételével.
+– Az értékelés vonatkoztatása a produktum mellett az erőfeszítésre, az akaratra, a szorgalomra, a
+feladattudatra, a tanuló együttműködésére a tevékenység folyamatában, a munkavégzés tisztaságára, az
+esztétikumra, az anyagtakarékosságra, az önállóságra, a kreativitásra.
+– Kiemelt szempont a tanuló önmagához mért fejlődése, igyekezete.
+– Az értékelés szempontjai között szerepeljen.
+– Az értékelés nyilvános, követhető az elért eredmény szóbeli és szöveges megfogalmazása, a produktum
+kiállítása, bemutatása során.
+BEVEZETŐ SZAKASZ
+(1–2. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Egészség- és szabadidő-kultúra –
+életvitel
+Öltözködés: a ruházat kiválasztása az évszaknak, időjárásnak megfelelően; saját ruha
+kezelése: gombolás, fűzés, kötés, hajtogatás. Ruhanemű felismerése.
+Tisztálkodás: önálló tisztálkodás, hajmosás, körömkefe használata; a tisztasági csomag
+használata.
+Táplálkozás: evőeszközök helyes használata; a napszaknak megfelelő étkezés. Ételfélék
+felismerése, megnevezése.
+Munka- és termeléskultúra
+– anyagok és alakításuk –
+tervezés, szerelés, építés
+Természetes anyagok: (termések, levelek, kavics, fa) gyűjtése, érzékszervi vizsgálat; a
+gyűjtött anyagokból formák, alakzatok, kompozíciók készítése. Környezetünk előállított,
+alakított anyagai a lakásban, az iskolában, az iskola környékén; papír, fa textil, képlékeny
+anyagok.
+Anyagmegmunkálás lépései, egyszerű tárgy készítése, technikák.
+Textil: anyagvizsgálat, nyírás, ragasztás.
+Papír: tépés, nyírás, hajtogatás, sodrás – anyagvizsgálat.
+Fa: hurkapálca darabolása, csiszolás, festés, ragasztás.
+
+Témakör Tartalom
+Tervezés, építés: játékos építés dobozokkal – térképzés. Építés minta alapján; belső tér
+modellezése; építés a szabadban – homokozóban. Térrendezés terepasztalon, tereptárgyak
+használata.
+Az építődoboz elemei. Építés minta alapján térben, síkban.
+Közlekedési kultúra –
+közlekedés
+Tapasztalatok gyűjtése a gyalogos közlekedésről.
+Szabálykövető magatartás a közlekedésben: áthaladás a zebrán a jelzőlámpa vagy
+forgalomirányítás mellett.
+Veszélyhelyzetek a gyalogos közlekedésben, elemzés, értelmezés.
+Tapasztalatok gyűjtése a helyi tömegközlekedésről – utazás felnőttel.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+– Az önellátás és környezetellátás tevékenységének fejlesztése, énkompetencia alakítása; önállóság,
+kulturáltság az öltözködésben, tisztálkodásban, étkezésben; önellátó technikák folyamatos gyakorlása,
+részvétel az egyszerű környezeti rend és tisztaság megteremtésében.
+– Érdeklődés, tapasztalatszerzés a közvetlen környezet élő és élettelen anyagai iránt, az anyaggal végzett
+tevékenység élménye.
+– Alakítás kézzel és egyszerű eszközzel; rend, tisztaság megvalósítása.
+– Az építés, a modellezés, a tervezés – kivitelezés öröme.
+– A szabályfelismerés képességének fejlesztése, a veszélyhelyzetek elemzése, tudatosság kialakítása a
+közlekedésben.
+2. Általános képességek és készségek fejlesztése
+– Gondolkodási funkciók, műveletek fejlesztése: megfigyelés, megismerés, elemzés, összehasonlítás;
+tájékozódás, kommunikációs képesség; finommozgások koordinálása.
+– Személyes képességek: önellátás, önkiszolgálás, kezdeményezés.
+– Szociális képességek: együttműködés, segítségnyújtás, kapcsolatteremtés.
+A szakasz végére elvárható követelmények
+– Fokozódó önállóság az önkiszolgáló tevékenységben.
+– Szabálykövető magatartás az étkezésben, az egyéni fejlettségnek megfelelő feladatok elvégzésében, a munka
+elfogadásában.
+– A megfigyelt anyagok felismerése, megnevezése, tapasztalatok, ismeretek felhasználása az egyszerű
+megmunkálásban, a megismert eszközök balesetmentes használata.
+– Egyszerű modell, rajz alapján építés, térrendezés.
+– A gyalogos közlekedés szabályainak ismerete.
+
+KEZDŐ SZAKASZ
+(3–4. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Egészség- és szabadidő-kultúra –
+életvitel
+Önellátás, környezetellátás.
+Öltözködés: az időjárásnak, az évszaknak, a napszaknak megfelelő ruházat kiválasztása; a
+ruházat, a lábbeli tisztítása – portalanítás.
+Tisztálkodás: kéz, láb ápolása, az ápolás eszközei. A helyes fogápolás, a jó fogkefe.
+A rendszeres tisztálkodás.
+Táplálkozás: a napszaknak, az évszaknak megfelelő változatos táplálkozás –
+egészségmegóvás.
+Munkatevékenységek: mindennapos tevékenységek az iskolában, részvétel a családi
+munkamegosztásban (mosogatás, törülgetés, vásárlás, gyógyszertár, posta…). Házimunka –
+gépek a konyhai munkában.
+Munka- és termeléskultúra
+– anyagok és alakításuk –
+tervezés, szerelés, építés
+Tapasztalatok az átalakított anyagokról, anyagvizsgálat érzékszervi úton.
+A képlékeny anyagok – alakítás kézzel, szerszámmal.
+A papír megmunkálása eszközökkel: nyírás, vágás, csomagolás.
+Textil: alaklemez használata – nyírás, varrás (differenciáltan, fejlettség szerint), egyszerű
+öltések, gyöngyfűzés.
+Fa: darabolás, csiszolás, festés. Faragás differenciáltan – fejlettség szerint.
+Fémek: huzalok vizsgálata, formálás.
+Alapanyagok és hulladékok. Hulladékhasznosítás a háztartásban.
+Műanyag a háztartásban.
+Közlekedési kultúra –
+közlekedés
+Gyalogos közlekedési helyzetek modellezése – városban, falun.
+Tapasztaltszerzés, gyakorlás a helyi tömegközlekedésben. Szabálykövető magatartás.
+A helyi közlekedés eszközei falun és a városban. A vasút, a pályaudvar, információszerzés,
+piktogramok, jelek értelmezése.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek
+– A helyes önellátás, életmód, életvezetés képességeinek, készségeinek alapozása, énkompetencia fejlesztése
+az öltözködésben, tisztálkodásban, a táplálkozásban.
+– Részvétel, feladatvállalás a fejlettségének megfelelő munkatevékenységekben, házimunkában, szolgáltatások
+igénybevételében, a konyhai gépek alkalmazásában felügyelet mellett.
+– Az anyagokkal végzett tevékenység örömteli megélése, tapasztalatok gyűjtése, megoldások, kivitelezések
+választása; anyagalakítás kézzel, egyszerű eszközzel, mintakövetés, algoritmus olvasása, alkalmazása, elemi
+munkavégzési szokások, tanulási technikák, szokások: a sorrendiség, az időbeliség, szabálykövetés, rend,
+tisztaság, anyagtakarékosság.
+– A szabályfelismerés képességének fejlesztése, a veszélyhelyzetek elemzése, tudatosság kialakítása a
+közlekedésben.
+2. Általános képességek és készségek fejlesztése
+– Gondolkodási funkciók, gondolkodási műveletek fejlesztése: megfigyelés, megismerés, felismerés, belátás,
+megoldás keresése, tervezési képesség (alapfokon), konstruáló, építő, szerelő, térérzékelő, téralakító
+képesség. Kommunikációs képesség fejlesztése.
+– Finommozgások összehangolt működése.
+– Szociális képességek és készségek fejlesztése: kötelességtudat, segítőkészség, felelősség, együttműködés,
+udvariasság.
+
+A szakasz végén elvárható követelmények
+– A természeti, társadalmi és a technikai környezet megfigyeléséből, elemzéséből gyűjtött tapasztalatok
+értelmezése, felhasználása egyszerű feladathelyzetben, anyagok megmunkálásában, eszközök használatában.
+– Az épített környezet megnevezése, önálló tervezés, építés kockák, dobozok, szerelőelemek felhasználásával.
+– A gyalogos közlekedés szabályainak betartása jártasság szinten, gyakorlottság a tömegközlekedésben
+(egyéni fejlettség szerint). Szabálykövető magatartás.
+– Kulturált együttműködés, részvétel életkorának, állapotának megfelelő közösségi munkában, a családi
+munkamegosztásban, házimunkában.
+– A tanult, a begyakorolt életviteli szokások alkalmazása konkrét helyzetekben: ruházkodás, tisztálkodás,
+táplálkozás, takarékosság, tisztaság, rend megőrzésében.
+ALAPOZÓ ÉS FEJLESZTŐ SZAKASZ
+(5–8. évfolyam)
+Célok
+– Konkrét problémahelyzetekben jól alkalmazható készségek és képességek kialakításával az önálló
+életvezetés, a pályaválasztás és a szakmatanulás előkészítése.
+Feladatok
+– Gazdag tapasztalatszerzés biztosítása az egyszerű érzékszervi benyomásoktól a bonyolult gondolati
+műveletekig, a problémamegoldásokig.
+– A serdülő korosztály technikai környezet iránti nyitottságának fokozása, a tanulók tájékozottságának,
+biztonságérzetének növelése, a környező világ teljességének örömteli átélése, ezekért érzett felelősség
+tudatosítása.
+– Az egyéni szükségletekből kiindulva a tanulók felkészítése az iskolán kívüli világra az életszerű megoldások
+keresésével, a környezettudatos beállítódással, kritikus fogyasztói magatartással, a munka megbecsülésével,
+az életkornak, fejlettségnek megfelelő munkafolyamatok gyakorlati elsajátításával.
+– Műveleti algoritmusok felhasználtatása a tárgykészítés munkalépéseiben szabályszerűségek felismertetése a
+technikai problémák megoldásában.
+– Helyes munkaszokások elsajátíttatása, a veszélyes eljárások tudatosítása.
+– A takarékos anyagfelhasználás, hulladékhasznosítás szokásrendjének elsajátíttatása.
+– A tudatos egészségmegóvás, környezettel való együttélés társadalmi normáinak megismerése, elfogadása a
+közlekedés alapvető szabályaiban.
+– Ismeretek adása a vállalkozás, a gazdálkodás területéről, a szakmaválasztásról, az önálló életvezetésről.
+– Kitartó munkára nevelés, a tűrőképesség növelése, a reális önismeret kialakítása.
+A tantárgy kiemelt habilitációs/rehabilitációs célja az alapozó és fejlesztő szakaszban
+– A mozgáskoordináció, a finommotorika erősítése, a munkamozdulatok sebességének, ütemének fejlesztése.
+– A térbeli eligazodás, térlátás, a téri tájékozódás fejlesztése.
+– Az akaratlagos figyelem fokozása, az emlékezet, a koncentrálás erősítése – terápiák, tréningek segítségével.
+– Az öntevékenység, önállóság, döntésképesség – döntési kompetencia alakítása.
+– Az énkompetencia erősítése: önismeret, önelfogadás, önfejlesztés, szakmai irányultság.
+
+– A szociális kompetencia erősítése: együttműködés, munkafegyelem, felelősségvállalás, azonosulás a családi
+szerepekkel, társadalmi cselekvőképesség növelése, szabálykövető magatartás elfogadása, erőfeszítés,
+monotónia-tűrés a munkafolyamatokban, élethelyzetekben.
+– Kommunikációs képességek fejlesztése: gondolatok szóbeli megfogalmazása, vélemény, kritika, vita
+kulturált nyelvi formái.
+A tanulók értékelésének elvei
+– Az értékelés alapja a tanuló önmagához viszonyított fejlődése.
+– Az elméleti ismeretek ellenőrzése helyett fokozott hangsúly helyezése a gyakorlati tevékenység szintjére, a
+kreativitásra, a munkafegyelemre, a feladatelfogadásra, az erőfeszítésre, kitartásra.
+– A tanítás-tanulás folyamatát a tanuló munkájának, tevékenységének folyamatos ellenőrzése, értékelése, a
+fejlettséghez igazított segítségnyújtás jellemezze.
+– Differenciált értékelés alkalmazása a tanuló sérülésspecifikumainak figyelembevételével.
+– Az értékelésben figyelembe kell venni az egyéni sajátosságokat, a tanuló sérüléséből eredő eltéréseket
+(pl. több segítséget igényel, de erőfeszítéseket tesz a feladatmegoldás érdekében).
+– Az értékelés vonatkoztatása a produktum mellett az erőfeszítésre, az akaratra, a szorgalomra, a
+feladattudatra, a tanuló együttműködésére a tevékenység folyamatában, a munkavégzés tisztaságára, az
+esztétikumra, az anyagtakarékosságra, az önállóságra, a kreativitásra.
+– Kiemelt szempont a tanuló önmagához mért fejlődése, igyekezete.
+– Az értékelés része a munkavégzési, a tanulási szokások elsajátítása, az anyagtakarékosság betartása, a
+környezettudatosság.
+– Az értékelés nyilvános. Történhet szóban, írásban és érdemjeggyel (osztályzattal). Része a produktum
+kiállítása, bemutatása
+ALAPOZÓ SZAKASZ
+(5–6. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Egészség- és szabadidő-kultúra –
+életvitel
+Egyszerű háztartási munkák, házkörüli teendők. Háztartási kisgépek működtetése.
+Tisztítószerek, környezetbarát szerek felismerése, alkalmazása. Háztartási hulladék-kezelés,
+szelektív hulladékok. Szolgáltatások igénybevétele: posta, gyógyszertár, közintézmények,
+piac, élelmiszerbolt.
+Szabadidő eltöltése: mozgás, sport, szórakozás.
+A test tisztántartása: kamaszkori testápolás, hajmosás, szárítás, kéz- és lábkörmök ápolása.
+Testápoló szerek.
+A ruházat tisztántartása: zokni, fehérnemű mosása. Textíliák, természetes anyagok szerepe
+a ruházkodásban. Divat és célszerűség, egészség összefüggései. Az egészséges lábbeli.
+Táplálkozás: az életkornak, az egészségi állapotnak megfelelő táplálkozás. A táplálék
+mennyisége, minősége. Gyümölcs-, zöldségfogyasztás. Egytálétel főzése. Vendég a házban.
+Munka- és termeléskultúra
+– anyagok és alakításuk –
+tervezés, szerelés, építés
+Az anyagok csoportosítása: természetes és átalakított anyagok, anyagvizsgálatok.
+A feldolgozott anyagok vizsgálata, hasznosítása.
+A fa: vizsgálat, megmunkálás – darabolás, faragás, csiszolás, illesztés, szerelési módok.
+A famegmunkálás szerszámai.
+A papír: a papírfélék tulajdonságai. A kartonpapír megmunkálása, tárgykészítés.
+A bőr vizsgálata, megmunkálhatósága, szerszámai. Tárgykészítés: a fűzés, a lyukasztás, a
+fonás technikái.
+A textil: a filc tulajdonsága, megmunkálás, tárgykészítés. Öltésformák gyakorlása. Szövés,
+hurkolás. Elemi ruhajavító és -karbantartó technikák.
+
+Témakör Tartalom
+A műanyagok: tulajdonság, használhatóság, alakíthatóság.
+Népművészet: szalma, gyékény, csuhé, rafia, gyapjú hasznosítása. A fazekasság – a népi
+iparművészet. Hagyományok.
+Munkaszervezés: A munkamenet, anyagszükséglet tervezése, tárgykészítés algoritmus
+szerint. Anyag–forma–funkció egysége. Az anyagtakarékosság, hulladékhasznosítás.
+Tervezés, szerelés, modellezés: a valóság műszaki rajzi ábrázolása, egyezményes jelek.
+Rajzoló-, mérőeszközök. Pontos mérés, lejegyzés. Épített környezet megjelenítése
+maketten, modellen. Terek, formák létrehozása – falu, város modellezése.
+Konstruálás szerelő elemekkel, mozgó, működő modellek. Szerelés rajz alapján.
+A kerékpár részei, gyakorlatok az egyszerűbb alkatrészek szereléséhez.
+Közlekedési kultúra –
+közlekedés
+A tömegközlekedés eszközei, információs rendszere, menetrendek – információkérés
+formái. Veszélyhelyzetek elkerülése.
+A vízi közlekedés – személyszállítás, teherszállítás.
+A szárazföldi közlekedés története. A kerék története.
+A kerékpározás szabályai: kerékpárút, jelzőtáblák a kerékpáros szempontjából.
+Utazás hosszabb útra – csomagolás, előkészületek.
+Gazdálkodáskultúra – termelés és
+gazdálkodás
+Az ember termelő tevékenysége.
+Talajvizsgálatok, talajjavító eljárások. Tápanyag-utánpótlás, talajmegmunkálás egyszerű
+kézi szerszámokkal.
+Növényszaporítás: magvak vetése, palántázás, dugványozás, bujtás. Növényápolási
+munkák, vízgazdálkodás. Betakarítás, tárolás. Környezetbarát növényvédelem.
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Egészség- és szabadidő-kultúra –
+életvitel
+Az egészségmegőrzés ismeretei, a korszerű életvitel.
+Táplálkozás: a fejlődés és a táplálkozás ismeretei, a tápanyagszükséglet életkoronként,
+változatos étrend. A kamaszkori táplálkozás. A mértéktelen táplálkozás következményei.
+Testápolás, testkultúra: korszerű testápolás a fiatalkorban, testápoló szerek, kozmetikumok
+serdülőknek. Mozgás–táplálkozás–testápolás összefüggései. Az ember testi-szellemi
+egészsége.
+Egészség–megelőzés: a család testi-szellemi egészsége. Generációs kapcsolatok.
+Gyermekvállalás, türelmes odaadó gondozás és ápolás. Családi ünnepek. Az ünnep
+hangulata, légköre. Az egészségre káros szerek elutasítása. Egészségkárosító életmód
+elutasítása.
+Szabadidő: a sportolás, a játék, a kikapcsolódás szükségletei serdülő- és fiatal korban.
+Szórakozás az életkornak, érdeklődésnek, egyéniségnek megfelelően. Társas kapcsolat
+ápolása.
+Munka- és termeléskultúra
+– anyagok és alakításuk –
+tervezés, szerelés, építés
+A lakás: a lakás, a lakókörnyezet, lakás és háztípusok. A célszerű, az esztétikus berendezés,
+lakásdíszítés. A lakás karbantartása, nagytakarítás munkaszervezés. Háztartási gépek.
+Bútorápolás.
+Ételkészítés: előkészítés, párolás, főzés, sütés, habarás. Élelmiszertárolás. A szakácskönyv
+használata – értelmezés felnőtt irányításával.
+A kisgyermek, a csecsemő, az idős, a beteg családtag étrendje. A helytelen táplálkozás
+veszélyei.
+Mosás: kézi, gépi mosás, a mosószer megválasztása. Fertőtlenítés – veszélyes anyagok
+kezelése.
+
+Témakör Tartalom
+Közlekedési kultúra –
+közlekedés
+A közlekedés rendszere, története. Közlekedési lehetőségek belföldön. Közlekedési
+előkészületek a külföldi közlekedéshez – információk megszerzése.
+Közlekedési helyzetek elemzése a gyalogos, a kerékpáros szemszögéből. A közlekedés
+írott, íratlan szabályai. Udvarias, szabálykövető magatartás, segítőkészség.
+A közlekedési eszközök környezetkárosítása.
+Gazdálkodáskultúra – termelés és
+gazdálkodás
+Anyagok: nyersanyagok, energiahordozók.
+A fémek: tulajdonságai, megmunkálhatóság. Szerszámai. Fémtárgyak a háztartásban, a
+lakókörnyezetben, a fémek védelme, kezelése.
+Használati és díszítő tárgyak: készítése egyszerű technikákkal a megismert anyagok
+felhasználásával. Hulladékok hasznosítása. A varrógép és használata. Kéziszerszámok
+karbantartása.
+Szerelés, modellezés: vetületi ábrázolás megismertetése, tárgyfelismerés a vetület alapján.
+Mérőeszközök, rajzeszközök pontos használata. Hogyan működik a vízellátás, a lakásfűtés,
+a világítás, a csatornahálózat. A szennyvíz és tisztítása. Takarékosság az energiával.
+Egészség- és szabadidő-kultúra –
+életvitel
+A családi gazdálkodás, bevétel, kiadás – zsebpénz beosztása. Megtakarítás, tartalék
+képzése, váratlan kiadás. Családi vállalkozás – tervezés, költségvetés, ügyintézés.
+Termelés: szobanövény, terasz, erkély növényei, gondozásuk. Lakókert, haszonkert.
+A kert terméseinek saját célú hasznosítása, piackutatás.
+Pályaorientáció Saját felkészültség, képesség ismerete, lehetőségek, szakmák. Életpálya, pályakép.
+Tájékozódás a szakmatanulás, a munkaerőpiac és a munkavállalás lehetőségei között.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztés, feladatok, tevékenységek
+– A közvetlen mesterséges környezet felelős, célszerű alakítása, személyes szerep kipróbálása, gyakorlása.
+– Az ön- és környezetellátás az önálló életvezetés készségének, képességének megerősítése, tudatosítása.
+A tudatosság fejlesztése az egészségmegőrzésben, a szabadidő felhasználásában.
+– A munkatevékenység bővítése, a munkamozdulatok elvégzése (fejlettség, állapot szerint).
+– Gyakorlati tevékenység a háztartási munkában, a szolgáltatások igénybevételében, egyszerű gépek
+működtetésében, anyagmegmunkálásban.
+– Tervezési képesség kialakítása a munkalépésekben, az anyagok, eszközök – szerelések felhasználásában.
+– A szabályfelismerés képességének fejlesztése, a veszélyhelyzetek elemzése, tudatosság kialakítása a
+közlekedésben.
+– Szabálykövető magatartás fejlesztése.
+2. Általános képességek, készségek fejlesztése
+– A kognitív funkciók fejlesztése: elemző, összehasonlító, ok-okozat, rendszerezési képesség.
+– A mozgásos képességek: finommotorika, testtartás, erőkifejtés, gazdaságos erő-, időfelhasználás.
+– Kommunikációs képességek: indoklás, tervek, megoldások megfogalmazása, összefüggések egyszerű
+kifejtése.
+Elvárható követelmények
+– A technikai környezet megfigyeléséből, elemzéséből gyűjtött tapasztalatok, ismeretek felhasználása az
+élethelyzetekben, feladatok, problémahelyzetek megoldásában.
+– Az egészséges élethez, az önellátáshoz, életmódhoz szükséges ismeretek elsajátítása, a szabályok, szokások
+betartása.
+
+– Egyszerű műveletek, feladatok elvégzése rajzok, tervek, munkamenet (algoritmus) szerint – önállóan.
+– Balesetmentes eszközhasználat.
+– Az anyagtakarékosság, az anyag–forma–funkció egységének ismerete, gyakorlati alkalmazás. Egyszerű
+tárgykészítés az ismert anyagokból.
+– Biztonságos gyalogos közlekedés, tájékozottság a tömegközlekedésben, az információszerzésben.
+Szabálykövető magatartás.
+MEGSZILÁRDÍTÓ SZAKASZ
+(9–10. évfolyam)
+Célok
+A sikeres pályaválasztáshoz és életpálya-építéshez szükséges személyes aktivitások megtervezése, és – az egyéni
+életpálya-elképzelések, az egészségügyi, fizikai és pszichikai tényezők alapján – a pályaválasztási döntés
+segítése, tudatosítása. A tanulásból a munka világába való átmenet előkészítése.
+Feladatok
+– A tanulók reális önismeretének kialakítása, fejlesztése a tanulók aktív részvételével.
+– A különböző szakmacsoportok, foglalkozások tevékenységformáinak megismertetése. A feltételek
+függvényében egy vagy több szakterületen gyakorlatorientált, általános szakmai ismeretek nyújtása,
+képességek, készségek fejlesztése.
+A tantárgy kiemelt habilitációs/rehabilitációs célja a megszilárdító szakaszban
+– A szociális kompetencia erősítése: együttműködés, munkafegyelem, felelősségvállalás, társadalmi
+cselekvőképesség növelése, szabálykövető magatartás elfogadása, erőfeszítés, monotónia-tűrés a
+munkafolyamatokban, élethelyzetekben. Fizikai és szociális helyzetekben eredményes alkalmazkodást
+biztosító szilárd szokásrendszer.
+– Kommunikációs képességek fejlesztése: információ kérése szóban és írásban, helyzethez illő szóhasználat.
+vélemény, kritika, vita kulturált nyelvi formái.
+A tanulók értékelésének elvei
+– Az elméleti ismeretek ellenőrzése helyett/mellett fokozott hangsúly helyezése a gyakorlati tevékenység
+szintjére, a kreativitásra, a munkafegyelemre, a feladatelfogadásra, az erőfeszítésre, kitartásra.
+– A tanítás-tanulás folyamatát a tanuló munkájának, tevékenységének folyamatos ellenőrzése, értékelése, az
+egyéni képességek, adottságok fejlettséghez igazított segítségnyújtás jellemezze, saját és mások munkájának
+elemzésére a tanulók bevonásával.
+– Az értékelés a tanulók eltérő adottságaihoz és egyéni fejlődési üteméhez igazodó, rendszeres tevékenység.
+– Az értékelés nyilvános. Történhet szóban, írásban és érdemjeggyel (osztályzattal). Része a produktum
+kiállítása, bemutatása.
+
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Pályaorientáció Az egyes szakterületeken dolgozók tevékenységének, a pályák, munkakörök
+sajátosságainak bemutatása a különböző szakmacsoportok tevékenységformái.
+Szakmai szerep kiválasztása, megfogalmazása, egyéni életpálya reális megtervezése.
+Munkahelyi körülmények, munkafeltételek, saját alkalmasság mérlegelésének szempontjai.
+A munkaerőpiacon való érvényesüléséhez szükséges viselkedési formák, technikák,
+adminisztratív teendők.
+A munkával kapcsolatos jogok és kötelességek, a munkaerő-piaci szervezet nyújtotta
+lehetőségek, támogatási formák, juttatások, szolgáltatások.
+Az egyszerűbb kéziszerszámok, eszközök, munkaműveletek kipróbálása, a helyes
+munkavégzési szokások kialakulásának megalapozása.
+Szakmai alapozás
+A helyi tanterv készítésekor a
+szakiskolák „SZAKMAI
+ALAPOZÓ OKTATÁS
+KERETTANTERVE”- i
+alkalmazhatóak, adaptálhatóak.
+Pl.:
+A MEZŐGAZDASÁGI
+SZAKMAI ALAPOZÓ
+OKTATÁS, AZ ÉPÍTÉSZETI
+ÉS ÉPÍTÉSI SZAKMAI
+ALAPOZÓ OKTATÁS,
+A FAIPARI SZAKMAI
+ALAPOZÁS , AZ
+ÉLELMISZERIPARI SZAKMAI
+ALAPOZÓ OKTATÁS
+KERETTANTERVE
+Egy szakmacsoport közös szakmai elméleti és gyakorlati ismereteinek, készségeinek,
+képességeinek fejlesztése, az ezekhez szükséges általános műveltségi elemekkel való
+összekapcsolása.
+Az általános szakmai elméleti ismeretek elsajátítása, a kiválasztott szakmacsoportba
+tartozó szakképesítések jellemző technológiái, a felhasznált anyagok, a szakmacsoportba
+tartozó szakképesítéseket. A képzés céljától függően felkészítés az Országos Képzési
+Jegyzékben szereplő konkrét szakképesítés ismereteinek, vagy a szakképzési évfolyamokon
+a munkába-állást, életkezdést segítő ismeretek elsajátítására.
+A társadalmi, munkahelyi beilleszkedéshez szükséges viselkedésformák elsajátítására.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+– A reális önismeret és pálya alkalmasság kialakítását szolgáló folyamat elemeinek, az elemek egymásra
+épüléseinek, kapcsolódásainak alkalmas kell lenniük az egyéni és csoportos fejlesztésre, a személyes
+jellemzők erősítésére, a társas képességek működtetésére, prioritásként kezelve a társas környezettel
+szembeni érzékenység, az alapvető erkölcsi, etikai normák iránti fogékonyság kialakítását.
+– A különböző életpálya lehetőségek bemutatása, pályatükrök megismerése, az egyéni alkalmasság és a
+munkatevékenység közötti megfelelés bemutatása.
+– A munka világához kötődő természeti és társadalmi jogi környezet megismertetésével ki kell alakítani a
+tanulókban hazánk és a más népek által elért értékek, eredmények megbecsülését.
+– A tanulóknak meg kell ismerni a munka világának hazai és európai sajátosságait, jellemzőt, értékeit, a
+munkaerőpiac lehetőségeit, a különböző kultúrák munkavállalást, egyéni életutat befolyásoló hatását.
+– Az egész életen át tartó tanulás és a folyamatos pályakorrekcióra való felkészülés érdekében az életpálya
+tudatos tervezésének, az álláskeresési technikák elsajátításának megismertetése, gyakorloltatása.
+– A környezettudatos magatartás kialakítása, az egész életen át tartó tanulás szükségességének tudatosítása.
+– A megismerési képességek fejlesztése, különös tekintettel a megfigyelési, kódolási, értelmezési, indoklási,
+bizonyítási döntési képességekre. A kommunikációs képességek fejlesztése tekintetében kiemelten kell
+kezelni az önkifejezést, a megértés, a meghallgatás képességének kialakítását, a társas érintkezések és a
+csoportos munkavégzés kompromisszumos – fejlettebb szintjén konszenzusos – megélésének gyakorlatát.
+
+– Kiemelten kell kezelni az egyes foglalkozások egészségügyi, fizikai és pszichikai kockázatait. Az élet-pálya
+kialakításánál minden esetben szem előtt kell tartani, hogy a kockázatok ne haladják meg az egyén meglévő
+vagy megfelelő fejlesztéssel elérhető terhelhetőségeit.
+A szakmai alapozás fejlesztési feladatainak, illetve az elvárható követelményeknek a meghatározása a választott
+szakmacsoport szakmai alapozó kerettantervében foglaltakra építve kerül meghatározásra a helyi tantervben.
+TESTNEVELÉS
+Óraszámok
+Bevezető szakasz Kezdő szakasz Alapozó szakasz Fejlesztő szakasz
+1. évfolyam 2. évfolyam 3. évfolyam 4. évfolyam 5. évfolyam 6. évfolyam 7. évfolyam 8. évfolyam
+3 3 2,5 2,5 2,5 2,5 2,5 2,5
+BEVEZETŐ ÉS KEZDŐ SZAKASZ
+(1–4. évfolyam)
+Célok
+A testnevelés az alapvető mozgáskészségek, fizikai képességek aktivizálásával járuljon hozzá
+– a mozgás összhangjának megteremtéséhez,
+– a mozgás örömének hosszú távú fenntartásához, a szervezet előkészítéséhez a fokozatosan növekvő és
+nagyobb intenzitású mozgásokkal szembeni igénybevételre,
+– a tanulók érzelemvilágának, szellemi-fizikai kitartásának gazdagításához, az önkiszolgálás fejlesztéséhez,
+– a mozgásszegénység okozta betegségek (kiemelten a gerincbetegségek) megelőzéséhez.
+Feladatok
+– Az egyéni sajátosságokhoz igazodó fejlesztési eljárások megtalálása a fizikai erőnlét kialakítására,
+megtartására és fejlesztésére.
+– A meglévő testi adottságok fejlesztése.
+– A mozgáskoordinációs képességek fejlesztése a játéktevékenységen keresztül.
+– A tartáshibák kialakulásának megelőzése, korrigálása.
+– A finommotorika, a szem-kéz koordináció és a kétoldaliság fejlesztése.
+– A legjellegzetesebb testhelyzetek és kartartások körének bővítése.
+– A koordinált, különböző célú és végrehajtási módú járás, futás, ugrás, szökdelés kialakítása.
+– A statikus, dinamikus és egyensúlyozó képesség fejlesztése.
+– Alapkészség kialakítása a labdák elfogásában, dobásában.
+– A térbeli mozgás és tájékozódás képességének fejlesztése.
+– Az időjárás tényezőivel szembeni ellenállás, a szervezet edzettségének fejlesztése.
+
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– Motorikus képességek aktivizálása és fejlesztése.
+– Mozgásos alaptechnikák elsajátításának képessége.
+– Kondicionális és koordinációs képesség fejlesztése.
+– Cselekvésbiztonság elérése, a gyors, pontos mozgásos reagálás, a téri tájékozódási képesség fejlesztése.
+– Együttműködési készség aktivizálása, tolerancia kialakítása.
+– A terápiás attitűd elfogadása.
+A tanulók értékelésének elvei
+Az értékelés célja a motiválás, a mozgás örömére való figyelemfelhívás. Az elemző értékelés a pozitívumokra
+koncentrál, egyéni célokat, fejlesztési területeket jelöl meg. Jellemzője a rendszeresség, következetesség,
+alapozva a tanuló aktív részvételére.
+Jellemzői:
+– elemző,
+– pozitívumokat kiemelő,
+– hiányokat feltáró, előremutató,
+– reális elvárásokat tisztázó.
+Figyelembe veszi:
+– az életkori sajátosságokat, a pszichomotoros képességeket,
+– az általános és speciális, egyénre szabott fejlesztési célkitűzések, feladatkijelölések alapján az egyéni
+fejlődés mértékét.
+Értékelendő területek:
+– együttműködés a habilitációs munka folyamatában,
+– aktivitás,
+– az elsajátítottak önálló alkalmazására való törekvés,
+– a tanuló önálló mozgáskezdeményezése.
+Az értékelés szempontjai:
+– a tanuló önmagához mért fejlődése.
+Az értékelés módja:
+– szóbeli – folyamatos visszajelzés, a tanórák végén összefoglaló elemzés és értékelés,
+– írásbeli – szöveges minősítés, amely a habilitációs célokhoz viszonyítva történik.
+
+BEVEZETŐ SZAKASZ
+(1–2. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Rendgyakorlatok Jelentésadás egyszerű formában. Sorakozás támponthoz, segédvonalak mentén. Nyitódások,
+zárások, vonal- és oszlopalakzatban. Testfordulatok jobbra és balra, lábfejnyitással két ütem alatt.
+Járás ütemtartással, tapsra. Köralakítás kézfogással, járásban körszűkítéssel.
+Gimnasztika Utánzó és játékos gyakorlatok. Alapállásban törzs-, kar- és lábmozgások. Különböző
+testhelyzetekben végzett tartásjavító gyakorlatok (2-4 ütem). Egyszerű kéziszer-gyakorlatok:
+kézben labda, karika, szalag, tornabot.
+Atlétika Járások: alakzatokban, különböző lábtartással.
+Futások: kötetlen, tartós futás, gyorsfutás, futás irányváltással: akadályok között, akadályok
+leküzdésével. Állórajt: induló láb megkötése nélkül.
+Ugrások: szökdelések – ugróiskola feladatai. Szökdelések egy és páros lábon, haladás előre, hátra,
+oldalirányba. Kéztámasszal, páros lábbal felugrás zsámolyra.
+Természetes ugrásfeladatok: távolugrás helyből és nekifutásból. Mélyugrás tornaszerekről.
+Magasugrás merőleges nekifutással, alacsony magasság felett.
+Dobások: eltérő méretű dobóeszközökkel (babzsák, kisméretű gumilabda). Kislabdadobás helyből,
+helyes hajító mozdulattal. Célba dobás függőleges és vízszintes célra.
+Torna Támasz- és függésgyakorlatok: helyváltoztatással állatjárások talajon és tornaszereken. Kúszások,
+csúszások, mászások tornapadon, akadályok alatt. Függeszkedés bordásfalon.
+Egyensúlygyakorlatok: vonalon, zsinóron, tornapad ülőlapján, keskeny pallón, kar- és
+lábtartásváltásokkal.
+Torna jellegű gyakorlatok: gurulóátfordulás előre, hátra, sorozatgurulások, tarkóállás.
+Labdás gyakorlatok Egyénileg: labda fogása, feldobása, elkapása ölelő fogással, pattogtatása helyben. Járás közben a
+labda feldobása és elkapása. Labdapattogtatás lassú előrehaladással. Labda lábbal rúgása. Labda
+falhoz dobása kétkezes alsóval.
+Párokban: különböző testhelyzetekben labda átgurítása, dobása, rúgása társnak.
+Csoportban, testnevelési játékban: labda továbbítása adogatással, átdobással, rúgással, gurítással,
+sor- és váltóversenyekben. Egyéni versengések célba dobással, rúgással, pattogtatással.
+Testnevelési és
+sportjátékok
+Futó- és fogójátékok nehezedő szabályokkal. Labdával végzett egyszerű testnevelési játékok, a
+megismert labdakezelési technikák beépítésével. Sor- és váltóversenyek sportszerek és eszközök
+beállításával, hordásával. Körjátékok. Akadályversenyek.
+Természetben űzhető
+sportok
+A helyi lehetőségek függvényében választhatóak a sportágak és a sporteszközök.
+Triciklizés, rollerezés: haladásirány- és irammegkötésekkel.
+Téli foglalkozás a szabadban.
+Könnyített testnevelés Testtartást javító és korrigáló gyakorlatok, prevenciós és rehabilitációs feladatok sporteszközök
+alkalmazásával is.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok
+– Elemi szintű alapmozgások és kiegészítő terápiás mozgásgyakorlatok.
+– Szenzoros integrációs gyakorlatok.
+
+– Mozgásműveltséget fejlesztő gyakorlatok.
+– A motorikus képességek általános és egyéniesített gyakorlatai.
+– A mozgásigényt kielégítő csoportos és egyéni játékok. Az egészséges életmód szokásainak megismerése,
+gyakorlása. Rendszeres testedzés. Az iskolán kívüli mozgáslehetőségek felismerése, igénybevétele,
+tapasztalatainak megbeszélése.
+– Játékos versenyek, mozgásos vetélkedők. Szabályok betartása.
+2. Általános képességek fejlesztése
+– Észlelés, figyelem-összpontosítás, elemzés, rendezés, megformálás, kivitelezés.
+– Utasítás pontos megértése, követése, helyes munkatempó megválasztása, fenntartása.
+– A vizuális, akusztikus, motoros emlékezet fejlesztése.
+– A feladattudat, kitartás, érdeklődés, kreativitás, önmegvalósítás fejlesztése.
+– A beszédkészség fejlesztése, a szókincs bővítése. A megnyilatkozás képességének formálása, bátorítás.
+– Társas kapcsolatok megélési képességének kifejlesztése. A helyzetfelmérés, alkalmazkodás, együttérzés
+képességének fejlesztése.
+– Önismeret, önértékelés formálása.
+– Esztétikai érzék fejlesztése.
+A szakasz végére elvárható követelmények
+– A tanuló tartsa be a biztonsági szabályokat.
+– Értse az órán elhangzó utasításokat és szakkifejezéseket, ezeknek megfelelően cselekedjen.
+– Legyen képes alkalmazni a tanult sorakozási formákat, alakzatokat, menetgyakorlatokat.
+– Tudja végrehajtani a bemelegítő gyakorlatokat bemutatás után.
+– Legyen képes gyors indulásokra, irány- és iramváltásokra futásgyakorlataiban.
+– Érzékelje a távolba és a célba dobás különbségét.
+– Különböztesse meg mozgásában a magasba és a távolba ugrást.
+– Tudja összekapcsolni és irányítással végrehajtani a tanult talajtornaelemeket.
+– Ismerje, illetve alkalmazza a labda birtokbavételének és továbbításának egyszerű kéz- és lábtechnikai
+megoldásait.
+– Ismerje a tanult játékok nevét, tanári segítséggel idézze fel és tartsa be a játékszabályokat.
+KEZDŐ SZAKASZ
+(3–4. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Rendgyakorlatok Sorakozások, nyitódások, zárkózások segédvonalak nélkül.
+Fejlődések járás közben. Testfordulatok helyben. Menetelés ütem- és lépéstartással, lépésváltás
+megkísérlése, megindulás, megállás két ütem alatt.
+Gimnasztika Határozott formájú szabad-, társas, kéziszer-, pad- és bordásfal-gyakorlatok az ismétlésszám
+fokozatos növelésével. Gyakorlatok ritmusra, zenére, ismert mozgáselemek alkalmazásával, táncos
+kivitelezéssel.
+
+Témakör Tartalom
+A biomechanikailag helyes testtartást tudatosító, kialakító, automatizáló és fenntartó gyakorlatok
+rendszeres végzése – valamint légző-gyakorlatok – a, testtájanként végighaladva a testtartásért
+felelős valamennyi izomcsoport erősítését és nyújtását szolgáló mozgásanyagon, a tanév során
+folyamatosan ismételve, a kiindulási és véghelyzetek pontos meghatározására valamint a lassú és
+pontos kivitelezésre ügyelve, a hibás kivitelezés javításával és a tanulócsoport képességeinek
+figyelembevételével, valamint a korosztály jellemzőinek megfelelő illeszkedéssel a testnevelési óra
+többi eleméhez.
+Atlétika Járások alakzatban, különböző tempóban és lépésmóddal, akadályok között és fölött.
+Futások nehezített mesterséges akadályok között, irány-, iramváltásokkal, fordulatok beiktatásával.
+Futóiskola feladatai. Iramfutás állórajttal.
+Ugrások: fel-le, átugrások, mélyugrások akadálypályán – differenciáltan. Magasugrás lépő
+technikával, nekifutás 45°-os szögből, a lendítőláb rögzítése, alacsony magasság felett –
+differenciáltan. Távolugrás guggoló technikával, elugró sávból, közepes távú és tempójú
+nekifutással.
+Dobások: kislabdahajítás kidobó terpeszből, helyes hajító mozdulattal távolba dobás. Célzó
+feladatok eltérő méretű dobóeszközökkel.
+Torna Támaszgyakorlatok: padon, szekrényen, fokozatos magasság- és lejtésemeléssel.
+Függésgyakorlatok: bordásfalon feladatkombinációk alkalmazásával. Gyűrűn hintázás.
+Kötélmászási kísérlet: helyes mászókulcsolás, félmagasság.
+Egyensúlygyakorlatok: járás zsinóron (labirintus), padon (50 cm), padmerevítő gerendáján,
+ferdepadon, meghatározott kar-, lábtartásokkal, beiktatott leguggolással, fordulattal.
+Egyszerű gyakorlatok kiegészítő tornakészleten: függeszkedések, átfordulások, átmászások,
+mélyugrások.
+Talajtorna: elemfűzések, gurulóátfordulás előre, hátra, tarkónállás, híd, mérlegállás, tigrisbukfenc,
+kézenállás segítővel, sorozatgurulások.
+Szekrényugrás: kéztámasszal felugrás guggolásba, leugrás nyújtott testtel.
+Mélyugrások: a magasság fokozatos növelésével, fordulattal célkarikába is. Zsugor-kanyarlati
+átugrás.
+Labdás gyakorlatok Adogatás párokban: álló helyzetben, mozgásban: járásban és lassú futásban, irányváltoztatásokkal
+végzett labdavezetési és labdaadogatási gyakorlatok. Labdaiskola feladatai falnál.
+Labdás sportjátékok előkészítése elemi szinten: technikai és taktikai megoldások gyakoroltatása
+csapatjáték közben.
+Testnevelési és
+sportjátékok
+Sor- és váltóversenyek. Labdás testnevelési és sportjátékok és könnyített szabályokkal.
+Küzdőfeladatok, játékok: húzások–tolások, emelések–hordások párban, csoportban.
+Természetben űzhető
+sportok
+A helyi lehetőségek függvényében választhatók a sportágak és a sporteszközök.
+Kerékpározás: a közlekedés alapszabályainak betartásával tanpályán, illetve terepen helyes
+sebesség-megválasztással.
+Ügyességi feladatok.
+Téli foglalkozás: hócsata, szánkózás, versengések.
+Könnyített testnevelés Testtartást javító és korrigáló gyakorlatok (önálló gyakorlással).
+Úszás (4. évfolyam) Szárazföldi gyakorlatok: előkészítő gyakorlatok a parton, bemelegítő célgimnasztika.
+Légzőgyakorlatok: ki- és belégzés, levegő benntartása.
+Vízbiztonsági gyakorlatok: vízhez szoktató játékok és feladatok. Felfekvés, lebegés, siklás
+eszközzel (úszódeszka), leállás.
+Vízi játékok: fogó-, labdás, páros, csoportos. A mellúszás kar- és lábtempója eszközzel és eszköz
+nélkül.
+
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok, tevékenységek.
+– Mozgás-összerendezettséget fejlesztő gyakorlatok, zenés-ritmikus gyakorlatok.
+– A motorikus képességek fejlesztését célzó gyakorlatok.
+– Labdás sportjátékok előkészítő gyakorlatai. A mozgásigényt kielégítő csoportos és egyéni játékok.
+– Az egészséges életmód szokásainak megismerése, gyakorlása. Rendszeres testedzés. Az iskolán kívüli
+mozgáslehetőségek felismerése, igénybevétele, tapasztalatainak megbeszélése.
+– Játékos sor- és váltóversenyek, mozgásos vetélkedők, küzdőfeladatok. Sportjátékok. Szabályok betartása,
+alkotása.
+– A vízhez szoktatás, a vízbiztonság játékos gyakorlása.
+– A testnevelés szakkifejezéseinek használata, utasítások gyakorlása.
+2. Általános képességek fejlesztése
+– Az észlelés, figyelem-összpontosítás, elemzés, rendezés, megformálás, kivitelezés képességeinek fejlesztése.
+– Utasítás pontos megértése, követése, helyes munkatempó megválasztása, fenntartása.
+– Hosszú távú emlékezet fejlesztése: vizuális, akusztikus, motoros.
+– Lényegkiemelés képességének kifejlesztése, koncentrálóképesség növelése.
+– Tanuláshoz való viszonyulás képességének fejlesztése: feladattudat, kitartás, érdeklődés, kreativitás,
+önmegvalósítás.
+– Beszédkészség fejlesztése, a szókincs bővítése, a megnyilatkozás képességének formálása, bátorítás.
+– Erkölcsi értékek, normák kiépítése.
+– Társas kapcsolatok megteremtési, megtartási, megélési képességének fejlesztése. A helyzetfelmérés,
+alkalmazkodás, együttműködés, belátás, együttérzés képességének fejlesztése.
+– Önismeret, önértékelés formálása.
+– Esztétikai érzék fejlesztése.
+A szakasz végére elvárható követelmények
+– A tanuló értse meg és hajtsa végre az utasításokat menetgyakorlatok közben.
+– Törekedjen a tanult mozgásformák, gyakorlatok esztétikus, koordinált végrehajtására.
+– Növekedjen az egyéni teljesítménye növekedjen.
+– Tudjon egyenletes iramban 4-6 percig futni vagy futómozgást tartalmazó tevékenységet végezni.
+– Törekedjen a maximális futósebesség elérésére rövidtávon, majd a sebesség minél hosszabb ideig történő
+tartására.
+– Tudjon állórajtból indulni, ugrásoknál elrugaszkodásra hangsúlyt helyezni.
+– Növekedjen a célba dobásoknál a találatszám, távolba dobásoknál az egyéni eredmény.
+– Tudjon a tanult talajtornaelemekből összeállított egybefüggő talajgyakorlatot végrehajtani tanári segítséggel.
+– Tudjon egyfajta szekrényugrást végrehajtani, segítségnyújtás mellett elvégezni.
+– Alkalmazkodjon a labda méretéhez, súlyához, a repülő labda útjához, ívéhez, irányához, sebességéhez.
+– Alkalmazzon egy számára megfelelő labdafogást, elkapást, birtoklást feladathelyzetben és játékban.
+– Tudjon a játékhelyzetnek megfelelően helyezkedni, viselje el játék közben a kudarcokat.
+– Tudjon a mellig érő vízben biztonságosan mozogni.
+
+ALAPOZÓ ÉS FEJLESZTŐ SZAKASZ
+(5–8. évfolyam)
+Célok
+A testnevelés az alapvető mozgáskészségek, fizikai képességek aktivizálásával járuljon hozzá
+– A kiegyensúlyozott testi-lelki fejődéshez, a mozgáskultúra kialakításához, a sport megszerettetéséhez.
+– A tanulók helyzetfelismerő képességének, valamint a változó körülményekhez, feladathelyzetekhez való
+alkalmazkodási képességének javításához.
+– A szociális és a jellemtulajdonságok, a közösségi és csapatmunka, a társakkal való aktív együttműködés
+erősítéséhez.
+Feladatok
+– Alapvető fizikai képességek, az egyensúlyérzék, a koordinációs készség fejlesztése.
+– A járás, a futás, az ugrás és a dobás technikai kivitelezésének folyamatos javítása.
+– Elfogadott csapatszellem kialakítása, pozitív személyiségjegyek bevésése.
+A tantárgy kiemelt habilitációs/rehabilitációs célú feladatai
+– Általános kondicionális (erő, állóképesség, gyorsaság) és koordinációs (futó, ugró, dobó, ügyesség,
+hajlékonyság, lazaság, rugalmasság, egyensúlyérzék, téri tájékozódás) képességek fejlesztése.
+– A torna, az atlétika és a sportjátékok szerkezelése.
+– A mozgásminták helyzethez igazított alkalmazása. A mozgásszabályozás.
+– Játékkészség és sportági képességek: mozgáskombináció, konstruktív emlékezet, helyzetfelismerő és
+cselekvéses gondolkodás. Állóképesség, kitartás, együttműködés, egészséges versenyszellem, önkifejezés,
+önállóság.
+A tanulók értékelésének elvei
+Az értékelés célja a motiválás, a mozgás örömének megélése. A pozitívumokra koncentrál, egyéni célokat,
+fejlesztési területeket jelöl meg. Jellemzője a rendszeresség, következetessé, alapoz a tanuló aktív részvételére.
+Jellemzői:
+– elemző,
+– pozitívumokat kiemelő,
+– hiányokat feltáró, fejlesztő,
+– reális elvárásokat tisztázó.
+Figyelembe veszi:
+– az életkori sajátosságokat, a tanuló mozgásállapotát,
+– az általános és speciális, egyénre szabott fejlesztési célkitűzések, feladatkijelölések alapján az egyéni
+fejlődés mértékét
+Értékelendő területek:
+– együttműködés a habilitációs munka folyamatában,
+– aktivitás,
+– az elsajátítottak önálló alkalmazására való törekvés,
+– a tanuló önálló mozgáskezdeményezése.
+
+Az értékelés szempontjai:
+– a tanuló önmagához mért fejlődése.
+Az értékelés módja:
+– szóbeli: – folyamatos visszajelzés, a tanórák végén összefoglaló elemzés és értékelés,
+– írásbeli: – szöveges minősítés, amely a habilitációs célokhoz viszonyítva történik.
+ALAPOZÓ SZAKASZ
+(5–6. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Rendgyakorlatok Nyitódások és zárkózások, fejlődések és szakadozások járás közben: a tér- és távköz pontos
+felvétele. Testfordulatok: jobbra, balra, hátraarc két ütemben.
+Menetelések: átmenet járásból, futásból, ütemre, lépéstartással menetelésbe, majd kétütemű
+megállás.
+Gimnasztika Kötetlen és határozott formájú, 2-4-8 ütemű szabadgyakorlatok szer nélkül és kéziszerekkel:
+egyénileg, párban, sportszerhez kapcsolódva (bordásfal, pad). Testtartást javító, erősítő, nyújtó,
+lazító hatású és légzőgyakorlatok (mellkasi, hasi légzés). Gyakorlatok zenére.
+A biomechanikailag helyes testtartást tudatosító, kialakító, automatizáló és fenntartó gyakorlatok
+rendszeres végzése – valamint légzőgyakorlatok – a, testtájanként végighaladva a testtartásért
+felelős valamennyi izomcsoport erősítését és nyújtását szolgáló mozgásanyagon, a tanév során
+folyamatosan ismételve, a kiindulási és véghelyzetek pontos meghatározására valamint a lassú és
+pontos kivitelezésre ügyelve, a hibás kivitelezés javításával és a tanulócsoport képességeinek
+figyelembevételével, valamint a korosztály jellemzőinek megfelelő illeszkedéssel a testnevelési óra
+többi eleméhez.
+Atlétika Futások: kitartó futás 6-8 percig, közbeiktatott akadálykerülések, alkalmazott futóiskola feladatai.
+Iram- és gyorsfutások: állórajttal, térdelőrajttal. Rajt- és futóversenyek.
+Ugrások: ugró- és szökdelőiskola. Távolugrás guggoló technikával elugró sávból, teljes rohammal:
+az elrugaszkodó láb állandósítása. Magasugrás: lépő technikával, optimális nekifutási szögből, a
+lendítőláb rögzítésével.
+Dobások: kislabdadobás rövid nekifutással, a kitámasztás, a csípőforgatás bevésése – fejlettség
+szerint. Célba dobás vízszintes és függőleges célra, eltérő nagyságú és súlyú labdával.
+Torna Talajtorna: statikus és dinamikus elemek tökéletesedő technikával, zsugorfejenállás. Dinamikus
+elemek különböző kiindulási és befejező helyzetekben, kézenállás bordásfalnál. Elemkapcsolások.
+Támaszugrások padon és 3-4 részes szekrényen: függőleges leugrás, repülés közben lábfelhúzás,
+terpesztés, testfordulat – fejlettség szerint differenciáltan. Zsugorkanyarulati átugrás tetszőleges
+oldalra. Bátorugrás – a fejlettségnek megfelelően. Függésgyakorlatok kiegészítő tornakészleten.
+Egyszerű elemek érintő magas gyűrűn: fészek, zsugortestű lefüggés. Egyensúlygyakorlatok
+2 zsámolyra tett tornapad merevítő gerendáján: járások előrehaladással, láb-, kartartással,
+mélyugrások kapcsolásával.
+Sportjátékok Labdarúgás, kosárlabdázás nehezedő technikával: labdavezetés, irány- és iramváltásokkal,
+labdaátadások lábbal, illetve egy és két kézzel álló és mozgó társnak, védekezés, támadás
+játékhelyzetben, kapura rúgás, kosárra dobás alaptechnikával.
+Sportjáték szabálybővüléssel. Zsinórlabdázás: alapvető játékelemekkel, csökkentett, sportági
+labdával, házi szabályokkal.
+
+Témakör Tartalom
+Testnevelési és
+sportjátékok
+Futó- és fogójátékok: betartandó feladatbővítésekkel.
+Labdás testnevelési játékok: számfeladatok, labdaterelések kézzel, lábbal, fejjel, eszközzel.
+Küzdőjátékok: húzások-tolások párokban és csoportokban, test-test ellen, eszköz beiktatásával.
+Természetben űzhető
+sportok
+A helyi lehetőségek függvényében választhatóak a sportágak és a sporteszközök.
+Kerékpározás: kötelékben, terepen.
+Görkorcsolyázás: esés- és ütközésmentes haladás előre, biztonságos megállás, jól megválasztott
+sebesség a kanyarodásnál.
+Tollaslabdázás: háló felett, tenyeres- és fonákütés, felütés és lecsapás (hálómagasság-
+változtatással).
+Téli foglalkozás a szabadban.
+Szánkózás: társ húzása, tolása. Szánkózás terepen.
+Könnyített testnevelés Tartás- és mozgásjavító, -korrigáló gyakorlatok egyénre szabottan, valamint a testnevelés
+tantervben a nem ellenjavallt tananyagok.
+Úszás Úszásnem: mellúszás.
+A siklás gyakorlatai: eszközzel és eszköz nélkül. Kar- és lábtempó összehangolása, tökéletesítése.
+Úszás benntartott fejjel, majd helyes levegővétellel. Vízi játékok.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok
+– Az alapmozgások technikai gyakorlása.
+– Mozgás-összerendezettséget fejlesztő gyakorlatok. A mozgáskontroll gyakorlása.
+– A kondicionális képességeket növelő gyakorlatok, fizikai és lelki kondíciók fejlesztése.
+– Sportjátékok és testnevelési játékok gyakorlása, szabályok betartása, alkotása.
+– Az alapvető játékelemek rögzítése, támadási és védekezési megoldások bővítése a kosárlabda, a labdarúgás,
+a zsinórlabdázás keretében.
+– A vízbiztonság játékos gyakorlása. A választott úszásnem részmozdulatainak eszköz nélküli gyakorlása.
+2. Általános képességek fejlesztése
+– Az észlelés, figyelem-összpontosítás, elemzés, rendezés, megformálás, kivitelezés.
+– Utasítás pontos megértése, követése, helyes munkatempó megválasztása, fenntartása.
+– Hosszú távú emlékezet fejlesztése: vizuális, akusztikus, motoros.
+– Lényegkiemelés képességének fejlesztése, koncentrálóképesség növelése.
+– A tanuláshoz való viszonyulás képességének fejlesztése: feladattudat, kitartás, érdeklődés, kreativitás,
+önmegvalósítás.
+– A beszédkészség fejlesztése, a szókincs bővítése, a megnyilatkozás képességének formálása, bátorítás.
+– Erkölcsi értékek, normák kiépítése.
+– Önismeret, önértékelés formálása.
+– Esztétikai érzék fejlesztése.
+A szakasz végén elvárható követelmények
+– A tanuló hajtsa végre a tanult óraszervezést segítő rendgyakorlatokat, értse az utasításokat, vezényszavakat.
+– Legyen képes 4 ütemű gimnasztikai gyakorlatokat eszközzel végrehajtani.
+
+– Tudjon a távolságnak megfelelően gyorsan és kitartóan futni 6-8 percig.
+– Sajátítsa el az ugrások sajátos mozgásösszetevőit – alkalmazza azokat fejlettségének megfelelően.
+– Tudja a hajító mozdulatot pontosan kivitelezni.
+– Törekedjen az elsajátított gyakorlatok összefüggő, biztos végrehajtására.
+– Törekedjen az ugrásoknál a bátor nekifutásra, az erőteljes elrugaszkodásra, az esztétikus kivitelezésre.
+– Fejlődjön a statikus, dinamikus és egyensúlyozó képessége.
+– Alkalmazza a labda birtokbavételének és kézzel, lábbal történő továbbításának legegyszerűbb változatait.
+– Tudja játék közben is alkalmazni a tanult technikai elemeket.
+– Tudjon játék közben tartósan figyelni, összpontosítani és gyorsan reagálni.
+– Legyen képes mellúszással úszni.
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Rendgyakorlatok Sorakozások, nyitódások, zárkózások: vonal- és oszlopalakzatban, az igazodás, takarás
+begyakorlásával. Fejlődés kettes oszlopba, járás és lassú futás közben, torlódásmentes átmenettel.
+Menetelés alakzatformálással. Sorbontások, alakzatváltások különböző formái.
+Gimnasztika Szabadgyakorlatok és szabadgyakorlati alapformájú társas, kéziszer- és egyszerű szergyakorlatok
+emelt szériaszámmal. Önálló bemelegítés 8-10 gimnasztikai gyakorlattal, egyénileg,
+előtornászással, párban: tükörképjáték.
+Zenés gimnasztika.
+A biomechanikailag helyes testtartást tudatosító, kialakító, automatizáló és fenntartó gyakorlatok
+rendszeres végzése – valamint légzőgyakorlatok – a testtájanként végighaladva a testtartásért
+felelős valamennyi izomcsoport erősítését és nyújtását szolgáló mozgásanyagon, a tanév során
+folyamatosan ismételve, a kiindulási és véghelyzetek pontos meghatározására valamint a lassú és
+pontos kivitelezésre ügyelve, a hibás kivitelezés javításával és a tanulócsoport képességeinek
+figyelembevételével, valamint a korosztály jellemzőinek megfelelő illeszkedéssel a testnevelési óra
+többi eleméhez.
+Atlétika Futások: futóiskola feladatai nehezedő feltételek között. Rövid- és középtávú futások egyénileg és
+csoportosan, időméréssel. Térdelőrajt vezényszóra, kifutással.
+Ugrások: ugróiskola feladatai, helyből, sorozatban. Távolugrás teljes rohammal, elugródeszkáról,
+guggoló technikával. Magasugrás: lépő technikával, a magasság fokozatos emelésével –
+differenciáltan
+Dobások: helyből, nekifutásból, távolba és célba, egy és két kézzel. Kislabdadobás teljes rohammal,
+keresztlépéssel, teljesítményemeléssel. Súlylökés 2 kg-os tömött labdával, oldalfelállásból.
+Torna Ismert 3-6 elem összekapcsolásával összefüggő talajgyakorlat végzése.
+Talajtorna: fejenállás térdelésből, guggolásból, terpeszállásból indítva, gurulás előre, érkezés
+guggolásba. Kézenállás, ereszkedés gurulóátfordulásba. Kézen átfordulás oldalra, szekrényugrás,
+átguggolás, átterpesztés 5. rekeszállásban, dobbantó használatával – képesség szerint
+differenciáltan. Ismert elemek összekapcsolása gyűrűn: zsugor, hátsó, nyújtott testű, lebegő
+lefüggés.
+Függésgyakorlatok: bordásfalon, „vándormászás” karral, rúdon és kötélen mászás 2-3-szor egymás
+után – fejlettség, adottság szerint függésgyakorlatok: mászás fel, le bordásfalon, kötélen és rúdon –
+fejlettség szerint.
+Egyensúlygyakorlatok: tornapad merevítő gerendáján (50 cm magasság). Járások, fordulatok,
+leguggolások, meghatározott kar- és lábtartások, leugrások hozzáépítésével.
+
+Témakör Tartalom
+Testnevelési és
+sportjátékok
+Sportjátékok: labdarúgás, kosárlabdázás.
+A játékok technikai, taktikai alapjainak begyakorlása, a szabályok fokozatos szigorításával
+(gyorsindítások, cselezések, pontszerzésre törekvés).
+Röplabdázás: csökkentett játéktéren, alacsony magasság felett: alsónyitás, egy- és kétkezes
+alkarérintés, kosárérintés, leütés, feladás, sáncolás mozgáselemek beépítésével.
+Küzdőjátékok: húzások-tolások párokban és csoportban.
+Természetben űzhető
+sportok
+A helyi lehetőségek függvényében választhatóak a sportágak és sporteszközök.
+Kerékpározás: alapvető KRESZ-ismeretek alkalmazásával, illetve terepen.
+Gördeszkázás, görkorcsolyázás: ügyességi feladatokba építve.
+Tollaslabdázás: mozgáselemek tudatos alkalmazásával, házi szabályokkal meccsjáték.
+Téli foglalkozás a szabadban, ötletjátékok.
+Könnyített testnevelés Mozgáskorrekciót szolgáló gyakorlatok egyénre szabottan, valamint a testnevelés tantervben a nem
+ellenjavallt tananyagok.
+Úszás Úszásnemek: mell-, gyorsúszás.
+Szárazföldi gyakorlatok. Speciális célgimnasztika.
+Vízbiztonsági gyakorlatok. Mell- és gyorsúszás növekvő távon, a kar-, lábtempó és a légvétel
+technikájának összehangolása, begyakorlása.
+Rajttechnika és fordulók úszásnemekhez kapcsolása.
+Vízi játékok.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok
+– Az atlétikai alapmozgások technikai gyakorlása.
+– Mozgásműveltséget fejlesztő gyakorlatok. Zenés gimnasztikai gyakorlás.
+– Sportjátékok és testnevelési játékok gyakorlása, szabályok betartása, alkotása.
+– Az alapvető játékelemek rögzítése, támadási és védekezési megoldások bővítése a kosárlabda, a röplabda, a
+labdarúgás keretében.
+– Az egészséges életmód szokásainak alkalmazása. Rendszeres testedzés.
+– Sportolás természeti környezetben.
+– Részvétel helyi és iskolák közötti versenyeken, ügyességi vetélkedőkön.
+– A vízbiztonság automatizálása. A mell- és a gyorsúszás gyakorlása.
+– A sportolás higiéniai teendőinek rendszeres elvégzése.
+2. Általános képességek fejlesztése
+– Az észlelés, figyelem-összpontosítás, elemzés, rendezés, megformálás, kivitelezés.
+– Utasítás pontos megértése, követése, helyes munkatempó megválasztása, fenntartása.
+– Hosszú távú emlékezet fejlesztése: vizuális, akusztikus, motoros.
+– A lényegkiemelés képességének fejlesztése, koncentrálóképesség növelése.
+– A tanuláshoz való viszonyulás képességének fejlesztése: feladattudat, kitartás, érdeklődés, kreativitás,
+önmegvalósítás.
+– A beszédkészség fejlesztése, a szókincs bővítése, a megnyilatkozás képességének formálása, bátorítás.
+– Erkölcsi értékek, normák kiépítése.
+– Önismeret, önértékelés formálása.
+– Az esztétikai érzék fejlesztése.
+
+A szakasz végére elvárható követelmények
+– A tanuló lássa be a tanult rendgyakorlatok szükségességét, megfelelő önfegyelemmel hajtsa végre az
+utasításokat.
+– Legyen képes bemelegítésre alkalmas 8-10 gimnasztikai gyakorlat önálló elvégzésére.
+– Ismerje és alkalmazza a legfontosabb testtartást javító gyakorlatokat tanórán kívül is.
+– Tudjon 6-8 percig kitartóan futni.
+– Ismerje és alkalmazza az ugrásoknál az energikus elugrást, a légmunka fontosságát, a biztonságos talajérést.
+– Fejlődjön a hajítás és a lökés mozdulata, egyéni teljesítménye.
+– Mutasson be 3-6 elemből álló összefüggő talajgyakorlatot (tanári segítséggel).
+– Növekvő biztonsággal uralja testhelyzetét labilis egyensúlyi helyzetben.
+– Legyen gyakorlott két sportjátékban, ismerje és tudja betartani a szabályokat.
+– Tanúsítson megfelelő önfegyelmet, önuralmat, sportszerű magatartást játék közben.
+– Ismerjen két úszástechnikát és legyen képes folyamatos úszásra.
+– Tudjon alkalmazkodni az időjáráshoz szabadtéri sporttevékenység közben.
+MEGSZILÁRDÍTÓ SZAKASZ
+(9–10. osztály)
+Célok
+– Olyan személyiségjegyek kialakítása, amelyek alapján a sportolás rendszeres tevékenységformává, az
+életmód meghatározó részévé, az önkifejezés eszközévé válik.
+– A munkavégzéshez szükséges fizikai képességek kifejlesztése.
+Feladatok
+– Koordináltan végrehajtott mozgásmechanizmusok tökéletesítése, gazdaságos mozgáskivitelezés létrehozása.
+– Felkészítés a mindennapi élet feladatainak ellátására.
+– A kondicionális és a koordinációs képességeknek az életkorhoz és az egyéni adottságokhoz igazított
+fejlesztése, edzettségi állapot megtartása.
+– Megfelelő teherbíró képesség kialakítása.
+– A higiéniai szokások erősítése.
+– Sportolási élmények nyújtása.
+– Szabályismeret, szabálytudat fejlesztése.
+– A csapatjátékokban a kollektív siker és a tevékenység örömének kialakítása.
+– Személyiségvonásaik fejlesztése. Önismeretre, önelfogadásra nevelés.
+A tantárgy habilitációs/rehabilitációs célú feladatai
+– Általános fizikai (kondicionális) és koordinációs képességek fejlesztése, az egyéni fejlettségi szint
+függvényében. A kitartó mozgás fejlesztése, a tűrőképesség növelése.
+– Az iskola által választott sportági képességek fejlesztése, ezen belül: a kreativitás, a koncentráló-, a
+cselekvésbiztonság-, az improvizációs, az önszabályozó képességek erősítése.
+– A munkavégzéshez szükséges képességek és a teherbíró képesség fejlesztése. Az önelfogadás képességének
+építése.
+– Az egészség fenntartásához szükséges önállóság képességének növelése.
+– Morális és akarati képességek fejlesztése: együttműködés, önfegyelem, akaraterő, a másik elfogadása,
+egymás segítése.
+
+A tanulók értékelésének elvei
+Az értékelés célja a motiválás, a mozgás örömének megélése. A pozitívumokra koncentrál, egyéni célokat,
+fejlesztési területeket jelöl meg. Jellemzője a rendszeresség, a következetesség, alapoz a tanuló aktív
+részvételére.
+Jellemzői:
+– elemző,
+– pozitívumokat kiemelő,
+– hiányokat feltáró, fejlesztő,
+– reális elvárásokat tisztázó.
+Figyelembe veszi:
+– az életkori sajátosságokat, a tanuló mozgásállapotát,
+– az általános és speciális, egyénre szabott fejlesztési célkitűzések, feladatkijelölések alapján az egyéni
+fejlődés mértékét.
+Értékelendő területek:
+– együttműködés a habilitációs munka folyamatában,
+– aktivitás,
+– az elsajátítottak önálló alkalmazására való törekvés,
+– a tanuló önálló mozgáskezdeményezése.
+Az értékelés szempontjai:
+– a tanuló önmagához mért fejlődése.
+Az értékelés módja:
+– szóbeli – folyamatos visszajelzés, a tanórák végén összefoglaló elemzés és értékelés.
+– Írásbeli – szöveges minősítés, amely a habilitációs célokhoz viszonyítva történik.
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Rendgyakorlatok
+Vezényszavakkal a rendgyakorlatok teljes köre; pontos, tudatos végrehajtással.
+Menetelések, ellenvonulások.
+Gimnasztika Pontos, tudatos végrehajtással.
+Menetelések, ellenvonulások.
+Önálló bemelegítés 8–10 gimnasztikai gyakorlattal.
+Domináljon a nagy izomcsoportok célirányos bemelegítése.
+Előkészítő szabad-, társas- és szergyakorlatok; állásban, járásban, elemkombinációkkal.
+Zenére végzett bemelegítő és szabadgyakorlatok; statikus, dinamikus, táncos elemek beépítésével.
+A biomechanikailag helyes testtartást tudatosító, kialakító, automatizáló és fenntartó gyakorlatok
+rendszeres végzése – valamint légzőgyakorlatok, – testtájanként végighaladva a testtartásért felelős
+valamennyi izomcsoport erősítését és nyújtását szolgáló mozgásanyagon, a tanév során
+folyamatosan ismételve, a kiindulási és véghelyzetek pontos meghatározására, valamint a lassú és
+pontos kivitelezésre ügyelve, a hibás kivitelezés javításával és a tanulócsoport képességeinek
+figyelembevételével, valamint a korosztály jellemzőinek megfelelő illeszkedéssel a testnevelési
+óra többi eleméhez.
+Atlétika Futások: kitartó futás, futás terepen, mesterséges akadályok között.
+Gyorsfutás, fokozódó futás, vágtafutás.
+Rajtgyakorlatok, indulások különböző kiindulási testhelyzetből.
+
+Témakör Tartalom
+Álló- és térdelőrajt: vezényszavak alkalmazásával.
+Ugrások: ugróiskola feladatai. Távolugrás guggoló technikával. Magasugrás lépő- vagy
+gurulótechnikával.
+Dobások: távolba és célra, különböző méretű és súlyú labdákkal, helyből és nekifutásból, egy és
+két kézzel. Kislabdadobás keresztlépéssel. Súlylökés oldalállással, 2 kg-os tömött labdával,
+nemeknek megfelelő súlygolyóval.
+Torna Talajtorna: ismert elemek gördülékeny egymáshoz kapcsolása. Statikus és dinamikus elemek
+folyamatos váltakoztatása. Önálló gyakorlat összeállítása, ritmikus sportgimnasztikai elemek
+beemelésével zenére. Támaszugrások: ismert elemek gyakorlása, lendületes nekifutás, erőteljes
+elrugaszkodás, magas repülési ív, biztos talajfogás.
+Függésgyakorlatok: gyűrűn, bordásfalon. Fogásmód, elemkapcsolások.
+Testnevelési és
+sportjátékok
+Labdaügyességet fejlesztő feladatok.
+Labdavezetés kézzel, lábbal, védekező játékosok között. Kapura rúgás, kosárra dobás védőkkel
+szemben. Egy-egy elleni támadási, védekezési megoldások.
+Labdás sportjátékok alapelemeinek tudatos alkalmazása, gyakorlása, csapatjátékban, sportágaknak
+megfelelő szabályokkal (kosárlabdázás, röplabdázás, labdarúgás).
+Természetben űzhető
+sportok
+A helyi lehetőségek függvényében választhatóak a sportágak és sporteszközök.
+Könnyített testnevelés Az egyénre előírt gyakorlatok pontos, tudatos végrehajtása, valamint a testnevelés tantervben a
+nem ellenjavalt tananyagok.
+Úszás (lehetőség
+szerint)
+Szárazföldi gyakorlatok. Célgimnasztika.
+Vízbiztonsági gyakorlatok.
+Mell- és gyorsúszás helyes légvétellel, kar- és lábtechnikával. Szabályos rajt-, fordulótechnikák.
+Vízből mentés elemi szabályai.
+Versenyszerű úszás.
+Vízi játékok.
+Fejlesztési feladatok, tevékenységek, tanulásszervezés
+1. Tantárgyspecifikus képességfejlesztési feladatok
+– Az edzettség fokozása, fizikai aktivitás fenntartása.
+– Általános és sokoldalú képzés a hátrányok leküzdése érdekében.
+– A teljesítményképes tudás fokozása az atlétikai versenyszámokban.
+– A tornában tanult mozgáselemek, gyakorlatsorok rögzítése.
+– Törekvés a mozgásfeladatok tökéletes kivitelezésére.
+– A szertornához szükséges izomerő fejlesztése.
+– A már ismert labdás sportjátékok technikai elemeinek alkalmazása, versenyhelyzetekben is.
+– A választott két úszásnem begyakoroltatása, a természetes vizek veszélyeinek megismertetése.
+– Alapvető versenyzési magatartási formák gyakoroltatása.
+– Az önismeret, önelfogadás megerősítése.
+– Továbbfejleszthető tudás megszilárdítása egyénenként.
+– A munkavégzéshez szükséges képességek, fizikai állapot szinten tartása, fejlesztése.
+
+2. Általános képességek fejlesztése
+– Az észlelés, figyelem-összpontosítás, elemzés, rendezés, megformálás, kivitelezés.
+– Utasítás pontos megértése, követése, helyes munkatempó megválasztása, fenntartása.
+– Hosszú távú emlékezet fejlesztése: vizuális, akusztikus, motoros.
+– A lényegkiemelés képességének fejlesztése, koncentráló képesség növelése.
+– Tanuláshoz való viszonyulás képességének fejlesztése: feladattudat, kitartás, érdeklődés, kreativitás,
+önmegvalósítás.
+– A beszédkészség fejlesztése, a szókincs bővítése, a megnyilatkozás képességének formálása, bátorítás.
+– Erkölcsi értékek, normák kiépítése.
+– Társas kapcsolatok megteremtési, megtartási, élési képességének fejlesztése: helyzetfelmérés,
+alkalmazkodás, együttműködés, belátás, együttérzés.
+– Önismeret, önértékelés formálása.
+– Esztétikai érzék fejlesztése.
+A szakasz végén elvárható követelmények
+– A tanuló tudjon önállóan 8–10 gyakorlattal bemelegíteni.
+– Tudjon szabadgyakorlatot önállóan összeállítani és végrehajtani.
+– Törekedjen a megismert ugrótechnikák minél tökéletesebb végrehajtására.
+– Alkalmazza önállóan a dobásoknál szerzett ismereteket.
+– Tudjon legalább 4 elemből álló talajgyakorlatot szép tartással bemutatni.
+– Ismerje és alkalmazza a legismertebb kéziszereket.
+– Törekedjen a maximális biztonságra a mozgások végrehajtása során.
+– Legyen képes a zene és a mozgás összehangolására.
+– Ismerje és tudja betartani három sportjáték elemi szabályait.
+– Ügyeljen maga és társai testi épségére, tanúsítson sportszerű magatartást.
+– Alkalmazza célszerűen az elsajátított úszásnemeket.
+– Alkalmazza a legfontosabb testtartásjavító gyakorlatokat.
+OSZTÁLYFŐNÖKI
+Óraszámok
+Szakaszok – évfolyamok
+Alapozó szakasz Fejlesztő szakasz Megszilárdító szakasz
+5. 6. 7. 8. 9. 10.
+Heti óraszám 1 1 1 1 1 1
+Éves óraszám 37 37 37 37 37 37
+
+Témakörök ütemezése
+Szakaszok – évfolyamok
+Témakörök ütemezése
+Alapozó szakasz
+(5–6. évf.)
+Fejlesztő szakasz
+(7–8. évf.)
+Megszilárdító szakasz
+(9–10. évf.)
+Társas kapcsolatok, illemszabályok x x
+Társas kapcsolatok, konfliktuskezelés x x
+Önismeret,
+testi-lelki és szociális egészség
+x x x x
+Az emberi természet x x
+Pályakép, pályatükör x x
+A felnőtt életünk szerepei x x
+Az osztályfőnöki órák terápiás jellege hangsúlyozott. Az egyénhez, a sérüléshez, a speciális szükségletekhez
+igazított módszerek, tartalmak szolgálják az eredményes habilitációt.
+Az osztályfőnök – a sérülésspecifikumok figyelembevételével – az életkori, kamaszkori sajátosságokból
+kiindulva a személyiség fejlődésében, alakulásában, megnyilvánulásában bizonyos elvárásokat fogalmazhat
+meg, amelyeket viszonyítási alapként kezelhet a tanuló személyiségfejlődésének megítélésében.
+Célok
+– A tanulók a személyiségének alakulását nyomon követve szintetizálni a nevelési folyamatot, formálni a
+pozitív attitűdöt.
+– Sérülésspecifikus eljárások alkalmazásával fejleszteni a tanulók társas kapcsolatát, a helyes magatartási és
+viselkedési szokások elsajátítását, a szabálytudat erősítését.
+– Az egyéni szükségletek mentén építkezve a reális énkép, az önértékelés kialakításával, az érzelmi egyensúly,
+a jó iránti fogékonyság megteremtése.
+– A konkrét tapasztalatok és élmények feldolgozásával, értelmezésével a szociabilitás, a testi-lelki harmónia
+lehetőségének megteremtése.
+Feladatok
+– Terápiás eljárások alkalmazásával az önismeret, az önelfogadás és az önfejlesztés erősítése.
+– A szociális érzékenység légkörének biztosítása. A konfliktus kezelésének konkrét megoldása
+helyzetgyakorlatokon, megélt, átélt élményeken keresztül.
+– Az értékek védelmével kapcsolatos felelősség tudatosítása, a közvetlen környezet humán értékeinek
+felismertetése.
+– Tapasztalati lehetőségek megteremtése a serdülőkor testi-lelki változásairól – a saját élmények megvitatása,
+vélemények megfogalmazása.
+– Riportok, filmek, cikkek, tanulmányok értelmezésével, megvitatásával – saját élmény eseti
+bekapcsolásával – pontos képzet és viszonyulás kialakítása az élvezeti szerek veszélyeiről, a deviáns
+magatartás következményeiről.
+– A pályairányítás, a pályaválasztás, a reális életcélok megfogalmazásának segítése.
+– Tapasztalatszerzési lehetőségek megteremtése a munka világáról, a szakmákról.
+– A vonzódások, lehetőségek mérlegelése – szakmatanulási lehetőségek a képességnek megfelelően, a
+képességfejlesztés útjainak, módjainak számbavétele az életcélok elérése érdekében.
+
+A tantárgy kiemelt habilitációs/rehabilitációs célja
+– A reális énkép, önismeret kialakítása.
+– A távlati lehetőségek felismertetése, az önfejlesztő magatartás elfogadtatása.
+– Szociális kapcsolatok, érzületek fejlesztése.
+– Szokások, normák megértetése, azok bensővé válásának megerősítése szociális helyzetekben.
+– A családi, a társ-, a baráti kapcsolat értékeinek befogadása, elfogadása, erősítése.
+– Az emberi élet mint érték megbecsülése, a testi-lelki egészség megóvása, szokásrendjének kialakítása.
+– A kulturált vitakészség, konfliktuskezelés technikáinak megismertetése, terápiák alkalmazása.
+– Szituációs gyakorlatok, tréningek az udvarias magatartás művelésére, a kötelesség, a felelősség elfogadására.
+– Kapcsolatrendszer erősítése – magyarság-, nemzet-, csoporttudat.
+A tanulók értékelésének szempontjai
+Az osztályfőnöki órák lehetőséget teremtenek arra, hogy nyomon követhető legyen a tanulók a személyiségének,
+értékrendjének alakulása. A személyiség gazdagítása érdekében – valamennyi évfolyamon – lehetőséget adódik
+arra, hogy a pedagógus az osztálytársak bevonásával értékelje az egyes tanulók iskolai, tanórai teljesítményét.
+Az értékeléshez – a tanulókkal közösen – kívánatos konkrét elvárásokat megfogalmazni, amelyek viszonyulási
+alapként kezelhetők.
+Az értékelés alapja az egyéni adottságok figyelembevétele.
+ALAPOZÓ SZAKASZ
+(5–6. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Társas kapcsolatok,
+illemszabályok
+A kommunikáció elfogadott formái felnőtt és gyermek, gyermek és gyermek között.
+Kommunikációs formák ismert és idegen közegben – köszönés, bemutatkozás,
+megszólítás, tegeződés-magázódás; szándéknyilvánítás.
+Illemszabályok helyzetekre – vásárlás, utazás, könyvtár, kulturális intézmény,
+vendégségben, ünnepnapokon (születésnap, névnap, esküvő).
+Az önérvényesítés helyzetei az osztályban, a családban, – vélemény, vita, ellentmondás,
+generációs feszültségek: szülő–gyerek; nagyszülő–szülő; nagyszülő–gyerek.
+Kommunikációs formák idegennel – óvatosság, távolságtartás, kellő tisztelet.
+Bemutatkozás, kézfogás, teljes név elmondása. Beszélgetés telefonon keresztül.
+Önismeret,
+testi-lelki és szociális egészség
+Önmaga bemutatása – drámajáték, mimetikus játék; „ez vagyok – ez voltam” – fotók a
+múltról, a családról, a gyermekkorról. Élmények, történések, családi események.
+Adatok önmagáról, családjáról. Pozitív tulajdonság, képesség. Az önellátás – ruházat,
+felszerelés, saját környezet rendje, tisztasága.
+A testi fejlettségnek, adottságnak megfelelő táplálkozás: mértéktelenség, mohóság,
+önkorlátozás. Tisztálkodási szokások napi ritmusa.
+Önarckép szóban, írásban, rajzban. Önfejlődés felfedezése, tudatosítása. Pozitív, negatív
+jegyek. Játékos átváltoztatás – saját és mások megváltoztatása. Visszafogott
+önérvényesítés. A serdülő megváltozott testi adottságai – lelki konfliktusok.
+
+Tantárgyspecifikus fejlesztési feladatok, tevékenységek
+– Önismeret, reális önértékelés, akaraterő fejlesztése.
+– Eredményes alkalmazkodás képességének kialakítása a társas kapcsolatokban.
+– A szokások, a normák bensővé válásának segítése a szociális helyzetekben.
+– A társas kapcsolatra való alkalmasság, a szociális érzület alakítása.
+– A család, a barát, a társ értékeinek felismerése, képesség az el- és befogadásra, az őszinteség, a
+becsületesség.
+– Az emberi élet megbecsülésének képessége, a testi, a lelki egészség megóvása.
+– A felelősség, a kötelesség, az udvariasság. Képesség a másság elfogadására.
+– A környezet értékeinek megbecsülése. A kulturált vita és konfliktuskezelés készségei.
+Tevékenységek
+– Helyzetgyakorlatok, szituációs játékok, az illemszabályok alkalmazása. Történetek, játékok a helyes, a
+helytelen viselkedés bemutatására. Születés- és névnapi naptár készítése az osztálynak. Az
+ajándékcsomagolás technikái, az átadás helyzetgyakorlatai.
+– Adatok önmagáról, a családról szóban, írásban – pozitív jellemvonások szóban.
+– Önarckép – tükörbe nézve. Családrajz – ahogyan látom családtagjaimat, ahogyan hozzájuk viszonyulok.
+– Szépirodalmi szemelvények bemutatása, megbeszélés.
+– Önellátó, testápoló technikák.
+– Szituációs játékok, helyzetgyakorlatok: bemutatkozás, társalgás idegennel, telefonálás, tudakozódás
+telefonon, üzenetmondás üzenetrögzítőre. Drámajátékok: konfliktus, vita a családban, feloldás, megbeszélés,
+viszonyulás a témához.
+– Játékos átváltozás – mások átváltoztatása, barát vagy családtag bemutatása, leírása. Öltözködési kultúra
+bemutatása játékosan a valóságban, képeken. Az egészséges fejlődéshez szükséges heti étrend, mozgás,
+pihenés, szórakozás, heti program összeállítása. Bizalmas közlendők a testünk működéséről – fiúk és lányok
+külön-külön.
+A szakasz végére elvárható követelmények
+– Fejlődik az önismeret és a reális önértékelés.
+– Nyitottság a társas kapcsolatra, fejlődő szociális érzület.
+– Serdülőkori sajátosságainak elfogadása, a testi-lelki egészségmegóvás technikáinak ismerete.
+– Iskolai konfliktusok felismerése, törekvés a megoldásra.
+– Az iskolai követelmények szerinti normatartás.
+
+FEJLESZTŐ SZAKASZ
+(7–8. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Társas kapcsolatok,
+konfliktuskezelés
+A kamaszkori konfliktusok leggyakoribb helyzeteinek feldolgozása az osztályban, a
+rivalizálás egészséges és egészségtelen formái, öltözködés, zene, sport, szórakozás,
+barátkozás, párkapcsolat, fiú–lány kapcsolat. Peremhelyzet, magányosság, szorongás,
+agresszivitás a helyzetből adódóan. Feloldási módok. Önfegyelem – tűrőképesség.
+Konfliktus a családban: szülőkkel, nagyszülőkkel, testvérekkel.
+Kortárscsoportok: konfliktusok csoporton belül, csoporthelyzet, alkalmazkodás,
+tűrőképesség, peremhelyzet. A deviáns csoportok veszélye az egyéni életútra.
+Önismeret,
+testi-lelki és szociális egészség
+Felelősség önmagunkért, a családért. Felelős és felelőtlen döntések önmagunkra, a családra
+nézve – például csavargás, szülők elhagyása, érték, pénz eltulajdonítása, elköltése,
+pazarlás, az egészség károsítása szerekkel, itallal, dohányzással, korai párkapcsolat,
+szexualitás és követelményei (következményei).
+Az öltözködési kultúra, a divat végletei – személyiség és divat.
+Elképzelések, vágyak, tervek a felnőtt szerepekről, a felnőtt szerepekről, a felnőttkori
+önmaga megvalósításáról. Nyitottság, zárkózottság. Lelki bántalmak, sérelmek veszélyei –
+kamaszkori öngyilkosság.
+A rendszertelen táplálkozás következményei. A mozgás, a sportolás fontossága – élvezeti
+szerek elutasítása.
+Pályakép, pályatükör Felkészülés a pályaválasztásra – mit takarnak a fogalmak: pálya, szakma, foglalkozás,
+beosztás szakképzettség, munkakör.
+Érdeklődési területek, vonzódások. Reális pályakép a képességek, adottságok szerint,
+mérlegelés. A szakmatanulási lehetőségek – szakiskolák, speciális szakiskola.
+Tanműhelyek látogatása.
+Tantárgyspecifikus fejlesztési feladatok, tevékenységek
+A kapcsolatok kezelésének képessége: kommunikációs helyzetgyakorlatok, dramatikus játék, mimetikus játék,
+tréningek, terápiák kapcsolatteremtésre, párkapcsolat építésére, helyzetgyakorlatok a rivalizálás feloldására.
+– A konfliktusos helyzet feloldása szóban; levélváltás – levélírás – telefonálás.
+– Élménybeszámoló, döntéshelyzetek bemutatása dramatikus játékkal, vita, állásfoglalás. Saját viselkedés
+elemzése változó nézőpontból.
+Tevékenységek
+– Helyzetgyakorlat, dramatikus játék családi konfliktus bemutatásáról és feloldási technikákról. Szituációs
+játék egy-egy csoporthelyzetről – elemzés, vita, állásfoglalás.
+– Irodalmi részletek bemutatása a lelki élet problémáiról – megbeszélés.
+– Sportolási lehetőségek felkutatása.
+– Étrend, napirend összeállítása.
+– Munkahely-látogatás, szakiskolák felkeresése. Önismereti tréning, szituációs gyakorlat.
+A szakasz végére elvárható követelmények
+– Reális önértékelés, önfejlesztés. A kritika elfogadása, a felelősség felismerése.
+– A fejlettségnek megfelelő konfliktuskezelés a környezetben.
+– Tudatos egészségóvás. Veszélyhelyzetek felismerése az életvitelben, a cselekedetekben, döntésekben.
+
+– Az iskola, a tágabb közösség elvárásainak megfelelő normatartás.
+– Alakuló pályakép, a képesség, a lehetőségei felismerése, tájékozottság a választható szakmákban.
+MEGSZILÁRDÍTÓ SZAKASZ
+(9–10. évfolyam)
+Tantárgyi tartalmak, témakörök
+Témakör Tartalom
+Az emberi természet A kíváncsiság. Önszeretet, önzés. Siker és boldogság. Indulatok, érzelmek.
+Előítélet és nyitottság, megértés. Gyávaság és bátorság. Erőszak és jogos
+önvédelem.
+A normák. Az illendőség, az igazságosság. Jó és rossz. Választás és döntés. A
+hiba és a bűn. A lelkiismeret, az erkölcs. A helyes életvezetés. Őszinteség és
+hazugság. Rokonszenv, ellenszenv.
+A felnőtt életünk szerepei Felelősség önmagunkért, a családért. Erőfeszítések a család biztonságának
+megteremtésére.
+Mit tehetünk másokért, a betegekért, az idős családtagokért, a szegényekért?
+Szociális érzékenység. Jogkövető magatartás.
+Szerepek értelmezése: a társ szerepe, házastársi, szülői, munkavállalói,
+állampolgári szerepek.
+Tantárgyspecifikus fejlesztési feladatok, tevékenységek
+– Az ember biopén, pszichopén, szociopén oldalának bemutatásával hozzájárulni a tanulók önismeretének
+elmélyítéséhez, mások megértéséhez.
+– A normák, szabályok, értékek megismerésével, elfogadásával fejleszteni a környezetben, a társadalomban
+való eligazodás képességét, a felelős döntést.
+– Példákon, helyzetelemző gyakorlatokon, szituációs játékokon keresztül bemutatni, megérteni a felnőtt élet
+szerepét, felelősségeit.
+– Érzékenység növelése mások problémája iránt, a közösség gondjai tekintetében.
+Tevékenységek
+– Helyzetgyakorlatok, dramatikus játékok az emberi természetről, döntésekről, cselekedetekről.
+– Irodalmi részletek a szerepekről, a lelki élet, a párkapcsolat problémáiról – viták, beszélgetések.
+– Film megtekintése az emberi természetről, szerepkonfliktustól, feloldásukról.
+– Milyen felnőtt szeretnél lenni? Elképzelések a jövőről – szóban, írásban, rajzban megjelenítve.
+A szakasz végére elvárható követelmények
+– Önmaga és lehetőségeinek pontos ismerete. Azonosuljon szerepeivel. Szerepeivel való azonosulás.
+– Felelősségtudat önmaga és mások iránt.
+– Felkészültség a felnőtt élet szerepeire fejlettségének megfelelően.
+
+ELŐFIZETÉSI FELHÍVÁS
+Kormányrendelet felhatalmazása alapján jelenteti meg a
+Miniszterelnöki Hivatal a Magyar Közlöny mellékleteként
+a HIVATALOS ÉRTESÍTŐT. A lap hetente, szerdánként,
+tematikus főrészekben hitelesen közli a legfőbb állami,
+önkormányzati, társadalmi, gazdasági szervek, illetve
+szervezetek személyi, szervezeti, igazgatási és képzési,
+valamint a hírközlési tevékenység (frekvenciagazdálko-
+dás, távközlés, postaügy, informatika) közleményeit, to-
+vábbá az üzleti élet híreit. Térítési díj ellenében közzé-
+tesszük a Kincstári Vagyoni Igazgatóság vagyonértéke-
+sítési pályázatait, az állami, társadalmi, gazdasági szer-
+vezetek, parlamenti pártok, kamarák, helyi önkormányza-
+tok, egyházak, különböző képviseletek közleményeit.
+Fizetett hirdetésként – akár színes oldalakon is – helyet
+kaphatnak az Értesítőben a gazdálkodó szervezetek,
+egyetemek, alapítványok, de magánszemélyek közér-
+deklődésre számot tartó közlései is.
+Őszintén reméljük, hogy a hírek, információk, közlemé-
+nyek egy lapban történő pontos és rendszerezett for-
+mában való közreadásával sikerül hatékonyabbá és
+eredményesebbé tenni előfizetőink tájékozódását a hi-
+vatali és üzleti életben. Az érdeklődők számára egyéb
+hasznos információkat is nyújt a lap.
+Az Európai Unió Hivatalos Lapja 2004. május 1-jétől az
+Európai Unió hivatalos nyelveként magyarul is megjele-
+nik. A hivatalos lap L és C sorozatból áll.
+Az L (Legislation) sorozatban kerülnek kiadásra az Euró-
+pai Unió hatályos jogszabályai, az ún. elsődleges jogforrá-
+sok (alapító szerződések, csatlakozási szerződések, tár-
+sulási szerződések), továbbá az alábbi jogforrások: ren-
+deletek, irányelvek, határozatok.
+Az EU Hivatalos Lapjában történő közzétételt követően
+az évfolyam és a kötet számára, valamint a megjelenés
+dátumára hivatkozással, cím szerint, 2004. május 1-jétől
+folyamatosan tájékoztatást adunk a hivatalos lap L kiadá-
+saiban megjelenő jogi aktusokról a Magyar Közlöny mel-
+lékleteként megjelenő Hivatalos Értesítőben.
+A lap előfizetésben megrendelhető a Magyar Hivatalos
+Közlönykiadó 1085 Budapest, Somogyi Béla u. 6.
+címén, levélcím: 1394 Budapest 62., Pf. 357; faxszám:
+318-6668.
+2006. évi éves előfizetési díja: 13 356 Ft áfával.
+A HIVATALOS ÉRTESÍTŐ egyes számai megvásá-
+rolhatók a Budapest VII., Rákóczi út 30. (bejárat
+a Dohány u. és Nyár u. sarkán) szám alatti Közlöny
+Centrumban (tel.: 321-5971, fax: 321-5275, e-mail:
+kozlonycentrum@mhk.hu), illetve megrendelhető a kiadó
+ügyfélszolgálatán (fax: 318-6668, 338-4746, e-mail:
+kozlonybolt@mhk.hu) vagy a www.mhk.hu/kozlonybolt
+internetcímen.
+M E G R E N D E L Ő L A P
+Megrendelem a HIVATALOS ÉRTESÍTŐ című lapot ......... példányban, és kérem a következő címre kézbe-
+síteni:
+Megrendelő neve: .....................................................................................................................................
+címe (város/község, irányítószám): .......................................................................................
+utca, házszám: ......................................................................................................................
+Ügyintéző (telefonszám): ...........................................................................................................................
+2006. évi előfizetési díj fél évre 6678 Ft áfával
+egy évre 13 356 Ft áfával
+Számlát kérek a befizetéshez.
+Kérjük, a négyzetbe történő X bejelöléssel jelezze az előfizetés időtartamát!
+Kelt.: ..............................................................
+............................................................................
+cégszerű aláírás
+
+ELŐFIZETÉSI FELHÍVÁS
+A jogalkotásról szóló 1987. évi XI. törvény rendelkezik – többek között – a Magyar Köztársaság Kormánya hivatalos
+lapjának, a Határozatok Tárának megjelentetéséről.
+A Határozatok Tárát szerkeszti a Miniszterelnöki Hivatal a Szerkesztőbizottság közreműködésével, évente mintegy
+60 alkalommal jelenik meg.
+A Határozatok Tára a Kormánynak azokat a határozatait (kétezres) közli, amelyeknek közzétételét a Kormány el-
+rendelte, továbbá tartalmazza a miniszterelnök határozatait, a Miniszterelnöki Hivatalt vezető miniszter határozatait,
+valamint a minisztériumok, az országos hatáskörű szervek, az önkormányzatok közleményeit, hirdetményeit, kü-
+lönféle tájékoztatóit, továbbá azokat a közleményeket stb., amelyeket a Miniszterelnöki Hivatalt vezető miniszter
+engedélyez.
+A Határozatok Tára megrendelhető a Magyar Hivatalos Közlönykiadó címén (Budapest VIII., Somogyi Béla u. 6.;
+postacím: 1394 Budapest 62, Pf. 357) vagy a 318-6668 faxszámán.
+Éves előfizetési díja 2006. évre: 22 632 Ft áfával.
+Példányonként megvásárolható a Budapest VII., Rákóczi út 30. (bejárat a Dohány u. és Nyár u. sarkán) szám alatti
+Közlöny Centrumban (tel.: 321-5971, fax: 321-5275, e-mail: kozlonycentrum@mhk.hu), illetve megrendelhető
+a kiadó ügyfélszolgálatán (fax: 318-6668, 338-4746, e-mail: kozlonybolt@mhk.hu) vagy a www.mhk.hu/kozlonybolt
+internetcímen.
+MEGRENDELŐLAP
+Megrendelem a
+HATÁROZATOK TÁRA
+című lapot ................. példányban.
+A megrendelő (cég) neve: ...............................................................................................................................
+Címe (város, irányítószám): ............................................................................................................................
+Utca, házszám: ...............................................................................................................................................
+Az ügyintéző neve, telefonszáma: ..................................................................................................................
+A megrendelő (cég) bankszámlaszáma: ........................................................................................................
+2006. évi előfizetési díj egy évre: 20 664 Ft áfával.
+fél évre: 10 332 Ft áfával.
+Csekket kérek a befizetéshez
+Kérjük, a négyzetbe történő X bejelöléssel jelezze az előfizetés időtartamát!
+A megrendelt példányok ellenértékét a postaköltséggel együtt, a szállítást követő számla kézhezvétele után,
+8 napon belül a Magyar Hivatalos Közlönykiadónak a számlán feltüntetett pénzforgalmi jelzőszámára átutaljuk.
+Keltezés: .......................................................
+......................................................................
+cégszerű aláírás
+
+Szerkeszti a Miniszterelnöki Hivatal, a Szerkesztőbizottság közreműködésével. A Szerkesztőbizottság elnöke: Gilyán György.
+A szerkesztésért felelős: Kovácsné dr. Szilágyi-Farkas Zsuzsanna. Budapest V., Kossuth tér 1–3.
+Kiadja a Magyar Hivatalos Közlönykiadó. Felelős kiadó: dr. Kodela László elnök-vezérigazgató.
+Budapest VIII., Somogyi Béla u. 6. Telefon: 266-9290.
+Előfizetésben megrendelhető a Magyar Hivatalos Közlönykiadónál
+Budapest VIII., Somogyi Béla u. 6., 1394 Budapest 62. Pf. 357, vagy faxon 318-6668.
+Előfizetésben terjeszti a Magyar Hivatalos Közlönykiadó a FÁMA Rt. közreműködésével. Telefon/fax: 266-6567.
+Információ: tel.: 317-9999, 266-9290/245, 357 mellék.
+Példányonként megvásárolható a Budapest VII., Rákóczi út 30. (bejárat a Dohány u. és Nyár u. sarkán) szám alatti Közlöny
+Centrumban (tel.: 321-5971, fax: 321-5275, e-mail: kozlonycentrum@mhk.hu), illetve megrendelhető a kiadó ügyfélszolgálatán
+(fax: 318-6668, 338-4746, e-mail: kozlonybolt@mhk.hu) vagy a www.mhk.hu/kozlonybolt internetcímen.
+2006. évi éves előfizetési díj: 90 216 Ft. Egy példány ára: 189 Ft 16 oldal terjedelemig, utána +8 oldalanként +168 Ft.
+A kiadó az előfizetési díj évközbeni emelésének jogát fenntartja.
+HU ISSN 0076—2407
+06.2300 – Nyomja a Magyar Hivatalos Közlönykiadó Lajosmizsei Nyomdája. Felelős vezető: Burján Norbert vezérigazgató-helyettes.
