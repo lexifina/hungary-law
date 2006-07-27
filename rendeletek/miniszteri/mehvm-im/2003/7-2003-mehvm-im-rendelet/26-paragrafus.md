@@ -1,0 +1,3 @@
+## 25. §[^40] A nyomozás során személyes adatokat is tartalmazó iratokba történő betekintés csak azoknak a szerveknek (személyeknek) engedélyezhető, illetve az ilyen iratok csak olyan szerveknek küldhetők meg, amelyek törvény alapján jogosultak az iratokban szereplő személyes adatok megismerésére (kezelésére). Egyéb esetben, ha az érintett a különleges személyes adatok kezeléséhez írásban nem járult hozzá, a tájékoztatásnak személyazonosításra alkalmatlan módon kell eleget tenni.
+
+[^40]: A 25. § második mondata a 4/2006. (VII. 19.) MeHVM–IRM együttes rendelet 12. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
