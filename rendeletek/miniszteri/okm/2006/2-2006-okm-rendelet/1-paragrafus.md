@@ -1,0 +1,5 @@
+1. § (1) Kiemelten védett régészeti lelőhellyé nyilvánítom a Környe (Komárom-Esztergom megye), belterület 21, 23, 24, 25/1, 25/2, 25/3, 26, 27, 28, 29/1, 29/2, 30/1, 30/2, 31/1, 31/2, 32/1, 32/2, 33/1, 33/2, 34/1, 34/2, 35/1, 35/2, 261, 262/3, 262/4, 263, 264, 265, 266, 267, 273, 274, 275, 276, 277, 278, 279, 282/2, 283, 284, 285, 286/2, 287/2, 287/3, 288, 289, 290, 291/1, 291/2, 292/1, 292/2, 293/1, 293/2, 294, 295, 296, 297/1, 297/2, 298/1, 298/2, 299/1, 299/2, 300, 301/2, 387, 388, 767 és 769/1 helyrajzi számok alatt nyilvántartott kivett, valamint a külterület 0514, 0517, 0668/4, 0669/5, 0670 és 0671 helyrajzi számok alatt nyilvántartott kivett művelési ágú ingatlanokat.
+
+(2) Az (1) bekezdésben megjelölt területen a régészeti védelem célja az itt található nagy kiterjedésű római település, késő római belső erőd és késő római sírcsoport maradványainak megőrzése, kutathatóságának biztosítása.
+
+(3) Az örökségvédelmi bírság megállapításának szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
