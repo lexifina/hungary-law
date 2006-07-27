@@ -1,0 +1,3546 @@
+# A földművelésügyi és vidékfejlesztési miniszter 55/2006. (VII. 27.) FVM rendelete
+
+Magyar Közlöny 2006. évi 92. szám, 2006. július 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d0133d2c881bba6663a36c2a8541ac17fc9a0625/dokumentumok/f1fdfa37fa8e525ae079318bcaa6bace563574ee/letoltes)
+
+---
+
+A földművelésügyi és vidékfejlesztési
+miniszter
+55/2006. (VII. 27.) FVM
+rendelete
+a termőföldre vonatkozó elővásárlási
+és előhaszonbérleti jog gyakorlásával összefüggő
+igazgatási szolgáltatási díjról
+Az illetékekről szóló 1990. évi XCIII. törvény (a továb-
+biakban: Itv.) 67. §-ának (2) bekezdésében kapott felhatal-
+mazás alapján – az önkormányzati és területfejlesztési mi-
+niszterrel, valamint a pénzügyminiszterrel egyetértésben –
+a következőket rendelem el:
+1. §
+A vételi és haszonbérleti ajánlatnak (a továbbiakban:
+ajánlat) a termőföldre vonatkozó elővásárlási és előha-
+szonbérleti jog gyakorlásának részletes szabályairól szóló
+16/2002. (II. 18.) Korm. rendeletben foglaltak szerint tör-
+ténő közléséért igazgatási szolgáltatási díjat kell fizetni.
+2. §
+Az igazgatási szolgáltatási díj (a továbbiakban: díj)
+mértéke kifüggesztésre kerülő ajánlatonként 1750 forint.
+3. §
+(1) A díjat annak kell megfizetnie, aki az ajánlat kifüg-
+gesztését kezdeményezi.
+(2) A díjfizetési kötelezettséget postai készpénz-átutalá-
+si megbízással vagy banki átutalási megbízással kell telje-
+síteni a települési önkormányzat (a fővárosban a fővárosi
+kerületi önkormányzat) polgármesteri hivatala vagy a kör-
+jegyzőség (a továbbiakban együtt: polgármesteri hivatal)
+e rendelet melléklete szerinti számlaszámára. A díj leró-
+ható a polgármesteri hivatal jegyzője előtt is az ajánlat be-
+nyújtásával egyidejűleg. Azonosító adatként az átutalás-
+kor vagy a készpénzbefizetéskor meg kell jelölni a díjfize-
+tésre kötelezett nevét, a termőföld fekvése szerinti telepü-
+lés nevét és a helyrajzi számot.
+(3) A díj megfizetését postai készpénz-átutalási megbí-
+zást igazoló szelvényrésszel vagy az átutalást igazoló
+bankszámlakivonattal, készpénzben történő kiegyenlítés
+esetén pénztári bevételi bizonylattal kell igazolni az aján-
+lat kifüggesztésére irányuló kérelem benyújtásával egy-
+idejűleg.
+4. §
+A befizetett díjat vissza kell téríteni, ha a kifüggesztés
+még nem történt meg, és a díjfizetésre kötelezett a kifüg-
+gesztésre irányuló kérelmét a beérkezéstől számított 8 na-
+pon belül visszavonja.
+5. §
+A díj nyilvántartására és elszámolására a költségvetési
+szervek beszámolási és könyvvezetési kötelezettségéről
+szóló jogszabály előírásait kell alkalmazni.
+6. §
+Ez a rendelet a kihirdetését követő 46. napon lép hatály-
+ba azzal, hogy a rendeletet csak a hatálybalépését köve-
+tően a polgármesteri hivatal jegyzőjéhez érkezett kérel-
+mek esetében kell alkalmazni.
+Gőgös Zoltán s. k.,
+földművelésügyi és vidékfejlesztési minisztériumi
+államtitkár
+
+Melléklet az 55/2006. (VII. 27.) FVM rendelethez
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+Budapest I. ker. 12010154-00379543-00100000
+Budapest II. ker. 12001008-00201761-00100004
+Budapest III. ker. 12001008-00131713-00100007
+Budapest IV. ker. 12010422-00208592-00100005
+Budapest IX. ker. 12001008-00170290-00100006
+Budapest V. ker. 11784009-15505006-00000000
+
+Budapest VI. ker. 11784009-15506007-00000000
+Budapest VII. ker. 11784009-15507008-00000000
+Budapest VIII. ker. 11784009-15508009-00000000
+Budapest X. ker. 11784009-15510000-00000000
+Budapest XI. ker. 11784009-15511001-00000000
+Budapest XII. ker. 12001008-00155297-00100006
+Budapest XIII. ker. 11784009-15513003-00000000
+Budapest XIV. ker. 11784009-15514004-00000000
+Budapest XIX. ker. 11784009-15519009-00000000
+Budapest XV. ker. 11784009-15515005-00000000
+Budapest XVI. ker. 11784009-15516006-00000000
+Budapest XVII. ker. 11784009-15517007-00000000
+Budapest XVIII. ker. 10900028-00000002-39950006
+Budapest XX. ker. 11784009-15520009-00000000
+Budapest XXI. ker. 11784009-15521000-00000000
+Budapest XXII. ker. 11784009-15522001-00000000
+Budapest XXIII. ker. 11784009-15523002-00000000
+Baranya Abaliget 11731001-15332790-00000000
+Baranya Adorjás 11731087-15333980-00000000
+Baranya Ág 11731111-15555355-00000000
+Baranya Almamellék 50800049-11001373-00000000
+Baranya Almáskeresztúr 11731094-15334950-00000000
+Baranya Alsómocsolád 11731063-15334778-00000000
+Baranya Alsószentmárton 11731087-15334101-00000000
+Baranya Apátvarasd 11731104-15335281-00000000
+Baranya Aranyosgadány 11731001-15334699-00000000
+Baranya Áta 11731087-15334149-00000000
+Baranya Babarc 11731070-15330578-00000000
+Baranya Babarcszőlős 11731087-15334194-00000000
+Baranya Bakóca 71800082-12400012-00000000
+Baranya Bakonya 11731001-15334668-00000000
+Baranya Baksa 11731001-15331081-00000000
+Baranya Bánfa 50800018-11024934-00000000
+Baranya Bár 12077007-00135456-00100007
+Baranya Baranyahídvég 11731087-15333997-00000000
+Baranya Baranyajenő 11731111-15331696-00000000
+Baranya Baranyaszentgyörgy 11731111-15333557-00000000
+Baranya Basal 50800025-11002257-00000000
+Baranya Belvárdgyula 11731001-15333856-00000000
+Baranya Beremend 11731087-15331232-00000000
+Baranya Berkesd 11731001-15332800-00000000
+Baranya Besence 11731128-15335047-00000000
+Baranya Bezedek 50100057-12000179-00000000
+Baranya Bicsérd 50700073-15700452-00000000
+Baranya Bikal 11731063-15331713-00000000
+Baranya Birján 50100150-12000430-00000000
+Baranya Bisse 11731087-15334204-00000000
+Baranya Boda 11731001-15334338-00000000
+Baranya Bodolyabér 11731063-15556284-00000000
+Baranya Bogád 11731001-15334723-00000000
+Baranya Bogádmindszent 11731087-15331098-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Baranya Bogdása 11731094-15334974-00000000
+Baranya Boldogasszonyfa 50800018-10062368-00000000
+Baranya Bóly 50100019-12001149-00000000
+Baranya Borjád 50100019-12001163-00000000
+Baranya Bosta 11731087-15334211-00000000
+Baranya Botykapeterd 11731094-15334857-00000000
+Baranya Bükkösd 11731135-15332367-00000000
+Baranya Bürüs 50800087-11003399-00000000
+Baranya Csányoszró 11731128-15331108-00000000
+Baranya Csarnóta 11731087-15334912-00000000
+Baranya Csebény 50800049-11001517-00000000
+Baranya Cserdi 11731135-15556105-00000000
+Baranya Cserkút 11731001-15334675-00000000
+Baranya Csertő 50800018-11028907-00000000
+Baranya Csonkamindszent 50700011-11026826-00000000
+Baranya Cún 11731087-15555166-00000000
+Baranya Dencsháza 50800094-10004005-00000000
+Baranya Dinnyeberki 11731135-15556112-00000000
+Baranya Diósviszló 11992000-06066060-10000001
+Baranya Drávacsehi 11731087-15335250-00000000
+Baranya Drávacsepely 11731087-15335384-00000000
+Baranya Drávafok 11731094-15332408-00000000
+Baranya Drávaiványi 11731128-15555197-00000000
+Baranya Drávakeresztúr 50700138-16301568-00000000
+Baranya Drávapalkonya 11731087-15335243-00000000
+Baranya Drávapiski 11731087-15555173-00000000
+Baranya Drávaszabolcs 11731087-15331115-00000000
+Baranya Drávaszerdahely 11731087-15335391-00000000
+Baranya Drávasztára 11731128-15334802-00000000
+Baranya Dunaszekcső 50400034-11066406-00000000
+Baranya Egerág 11731087-15331122-00000000
+Baranya Egyházasharaszti 11731087-15331139-00000000
+Baranya Egyházaskozár 11731063-15331737-00000000
+Baranya Ellend 11731001-15335009-00000000
+Baranya Endrőc 50800087-11004905-00000000
+Baranya Erdősmárok 50400058-11001036-00000000
+Baranya Erdősmecske 71800147-11105192-00000000
+Baranya Erzsébet 50100026-12000863-00000000
+Baranya Fazekasboda 50400041-11070351-00000000
+Baranya Feked 50400137-11070227-00000000
+Baranya Felsőegerszeg 11731111-15555290-00000000
+Baranya Felsőszentmárton 50700138-16301489-00000000
+Baranya Garé 11731087-15334235-00000000
+Baranya Gerde 50700035-11023995-00000000
+Baranya Gerényes 71800116-11089658-00000000
+Baranya Geresdlak 50400041-11000341-00000000
+Baranya Gilvánfa 11731128-15335944-00000000
+Baranya Gordisa 11731087-15335267-00000000
+Baranya Gödre 71800099-11104809-00000000
+Baranya Görcsöny 11731001-15332817-00000000
+Baranya Görcsönydoboka 50400120-11066152-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Baranya Gyód 11731001-15334709-00000000
+Baranya Gyöngyfa 11731135-15335982-00000000
+Baranya Gyöngyösmellék 50800087-11002927-00000000
+Baranya Harkány 11731087-15331249-00000000
+Baranya Hásságy 10402142-21423334-00000000
+Baranya Hegyhátmaróc 11731063-15556136-00000000
+Baranya Hegyszentmárton 11731087-15334314-00000000
+Baranya Helesfa 11731135-15556129-00000000
+Baranya Hetvehely 11731135-15331775-00000000
+Baranya Hidas 11731104-15331782-00000000
+Baranya Himesháza 50400058-11000994-00000000
+Baranya Hirics 50700145-16402607-00000000
+Baranya Hobol 11731094-15555575-00000000
+Baranya Homorúd 50400096-11066303-00000000
+Baranya Horváthertelend 11731094-15334572-00000000
+Baranya Hosszúhetény 11731063-15331799-00000000
+Baranya Husztót 11731001-15334589-00000000
+Baranya Ibafa 50800049-11001081-00000000
+Baranya Illocska 11731142-15334170-00000000
+Baranya Ipacsfa 11731087-15335401-00000000
+Baranya Ivánbattyán 11731142-15333935-00000000
+Baranya Ivándárda 50100057-12000313-00000000
+Baranya Kacsóta 50700011-11026819-00000000
+Baranya Kákics 11731128-15334819-00000000
+Baranya Kárász 71800068-11096434-00000000
+Baranya Kásád 11731087-15333928-00000000
+Baranya Katádfa 11731094-15334864-00000000
+Baranya Kátoly 50100026-12001039-00000000
+Baranya Kékesd 50100026-12000935-00000000
+Baranya Kémes 11731087-15331146-00000000
+Baranya Kemse 11731128-15334015-00000000
+Baranya Keszü 11731001-15334716-00000000
+Baranya Kétújfalu 50800087-11003021-00000000
+Baranya Királyegyháza 11731135-15332453-00000000
+Baranya Kisasszonyfa 11731128-15335968-00000000
+Baranya Kisbeszterce 71800082-12300015-00000000
+Baranya Kisbudmér 50100019-12001204-00000000
+Baranya Kisdér 11731001-15333870-00000000
+Baranya Kisdobsza 50800070-11002697-00000000
+Baranya Kishajmás 71800082-12200018-00000000
+Baranya Kisharsány 11731087-15556174-00000000
+Baranya Kisherend 11731087-15334156-00000000
+Baranya Kisjakabfalva 11731142-15333942-00000000
+Baranya Kiskassa 11731087-15334266-00000000
+Baranya Kislippó 11731142-15334187-00000000
+Baranya Kisnyárád 50400089-11000712-00000000
+Baranya Kisszentmárton 11731087-15334022-00000000
+Baranya Kistamási 50800070-11006103-00000000
+Baranya Kistapolca 11731087-15334118-00000000
+Baranya Kistótfalu 11731087-15334273-00000000
+Baranya Kisvaszar 11731111-15555379-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Baranya Komló 11731063-15331524-00000000
+Baranya Kórós 50700145-16402645-00000000
+Baranya Kovácshida 11731087-15335377-00000000
+Baranya Kovácsszénája 11731001-15334596-00000000
+Baranya Kozármisleny 11731001-15332824-00000000
+Baranya Köblény 11731063-15333595-00000000
+Baranya Kökény 11731001-15334747-00000000
+Baranya Kölked 50400072-11000231-00000000
+Baranya Kővágószőlős 11731001-15332831-00000000
+Baranya Kővágóttöttös 11731001-15334682-00000000
+Baranya Lánycsók 50400089-11000640-00000000
+Baranya Lapáncsa 11731142-15335353-00000000
+Baranya Liget 71800051-11096568-00000000
+Baranya Lippó 50100057-12000234-00000000
+Baranya Liptód 11731070-15333784-00000000
+Baranya Lothárd 50100150-12000320-00000000
+Baranya Lovászhetény 71800147-11105305-00000000
+Baranya Lúzsok 50700145-16402683-00000000
+Baranya Mágocs 71800123-12010013-00000000
+Baranya Magyarbóly 11731142-15331153-00000000
+Baranya Magyaregregy 50800142-11039419-00000000
+Baranya Magyarhertelend 11731063-15556301-00000000
+Baranya Magyarlukafa 50800032-11001043-00000000
+Baranya Magyarmecske 11731128-15331160-00000000
+Baranya Magyarsarlós 11731001-15334730-00000000
+Baranya Magyarszék 71800051-11096685-00000000
+Baranya Magyartelek 11731128-15335951-00000000
+Baranya Majs 50100064-12000076-00000000
+Baranya Mánfa 50800142-11066468-00000000
+Baranya Maráza 50400041-11000365-00000000
+Baranya Márfa 11731087-15334936-00000000
+Baranya Máriakéménd 50100026-12000320-00000000
+Baranya Markóc 11731094-15334998-00000000
+Baranya Marócsa 11731128-15334826-00000000
+Baranya Márok 11731142-15333973-00000000
+Baranya Martonfa 71800147-11113230-00000000
+Baranya Matty 11731087-15333526-00000000
+Baranya Máza 71800068-11090012-00000000
+Baranya Mecseknádasd 11731104-15331847-00000000
+Baranya Mecsekpölöske 11731063-15555829-00000000
+Baranya Mekényes 11731063-15334785-00000000
+Baranya Merenye 11731094-15334493-00000000
+Baranya Meződ 11731111-15555300-00000000
+Baranya Mindszentgodisa 71800082-12100011-00000000
+Baranya Mohács 12077007-00153303-00100008
+Baranya Molvány 50800070-11006196-00000000
+Baranya Monyoród 50100026-12000612-00000000
+Baranya Mozsgó 50800063-11001191-00000000
+Baranya Nagybudmér 50100019-12001194-00000000
+Baranya Nagycsány 11731128-15335054-00000000
+Baranya Nagydobsza 50800070-11003849-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Baranya Nagyhajmás 71800123-11104548-00000000
+Baranya Nagyharsány 11731087-15331184-00000000
+Baranya Nagykozár 11731001-15332848-00000000
+Baranya Nagynyárád 50100033-12000124-00000000
+Baranya Nagypall 50300130-10001648-00000000
+Baranya Nagypeterd 11731094-15332477-00000000
+Baranya Nagytótfalu 11731087-15556181-00000000
+Baranya Nagyváty 11731094-15334871-00000000
+Baranya Nemeske 50800070-11005889-00000000
+Baranya Nyugotszenterzsébet 11731094-15334888-00000000
+Baranya Óbánya 11731104-15335999-00000000
+Baranya Ócsárd 11731001-15333887-00000000
+Baranya Ófalu 50300099-10001655-00000000
+Baranya Okorág 11731128-15555207-00000000
+Baranya Okorvölgy 11731135-15334352-00000000
+Baranya Olasz 10402142-21423327-00000000
+Baranya Old 11731087-15334125-00000000
+Baranya Orfű 11731001-15332855-00000000
+Baranya Oroszló 11731111-15555317-00000000
+Baranya Ózdfalu 11731087-15334321-00000000
+Baranya Palé 11731111-15555324-00000000
+Baranya Palkonya 11731142-15333959-00000000
+Baranya Palotabozsok 50400106-11000884-00000000
+Baranya Páprád 50700145-16402731-00000000
+Baranya Patapoklosi 50800018-10052723-00000000
+Baranya Pécs 11731001-15478706-00000000
+Baranya Pécsbagota 50700035-11024109-00000000
+Baranya Pécsdevecser 11731087-15334297-00000000
+Baranya Pécsudvard 50100150-12000117-00000000
+Baranya Pécsvárad 11731104-15331919-00000000
+Baranya Pellérd 11992024-06444721-10000001
+Baranya Pereked 11731001-15335016-00000000
+Baranya Peterd 11731087-15334280-00000000
+Baranya Pettend 50800070-11006024-00000000
+Baranya Piskó 11731128-15334053-00000000
+Baranya Pócsa 50100019-12001187-00000000
+Baranya Pogány 11731001-15332879-00000000
+Baranya Rádfalva 11731087-15334943-00000000
+Baranya Regenye 11731001-15334606-00000000
+Baranya Romonya 11731001-15335119-00000000
+Baranya Rózsafa 11731094-15334895-00000000
+Baranya Sámod 11731087-15334060-00000000
+Baranya Sárok 50100057-12000375-00000000
+Baranya Sásd 11731111-15331933-00000000
+Baranya Sátorhely 50100033-12000193-00000000
+Baranya Sellye 11731128-15331256-00000000
+Baranya Siklós 50600083-30050877-51000002
+Baranya Siklósbodony 11731001-15333894-00000000
+Baranya Siklósnagyfalu 11731087-15334132-00000000
+Baranya Somberek 50400120-11065890-00000000
+Baranya Somogyapáti 50800025-11002240-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Baranya Somogyhárságy 50800032-11001359-00000000
+Baranya Somogyhatvan 50800025-11002264-00000000
+Baranya Somogyviszló 50800025-11002271-00000000
+Baranya Sósvertike 11731128-15555214-00000000
+Baranya Sumony 11731135-15334541-00000000
+Baranya Szabadszentkirály 50700035-11023861-00000000
+Baranya Szágy 11731111-15333564-00000000
+Baranya Szajk 50100019-12001211-00000000
+Baranya Szalánta 11731087-15331201-00000000
+Baranya Szalatnak 11731063-15333605-00000000
+Baranya Szaporca 11731087-15555836-00000000
+Baranya Szárász 11731063-15556143-00000000
+Baranya Szászvár 71800068-11096252-00000000
+Baranya Szava 11731087-15334242-00000000
+Baranya Szebény 11731070-15333760-00000000
+Baranya Szederkény 50100026-12000313-00000000
+Baranya Székelyszabar 50400058-11001005-00000000
+Baranya Szellő 50100026-12000980-00000000
+Baranya Szemely 50100150-12000210-00000000
+Baranya Szentdénes 11731094-15334905-00000000
+Baranya Szentegát 11600006-00000000-13204084
+Baranya Szentkatalin 11731135-15334369-00000000
+Baranya Szentlászló 50800018-10062296-00000000
+Baranya Szentlőrinc 50700011-11026802-00000000
+Baranya Szigetvár 11731094-15332233-00000000
+Baranya Szilágy 11731001-15335023-00000000
+Baranya Szilvás 11731087-15334228-00000000
+Baranya Szőke 11731001-15334613-00000000
+Baranya Szőkéd 50100150-12000870-00000000
+Baranya Szörény 50800087-11002934-00000000
+Baranya Szulimán 11731094-15334967-00000000
+Baranya Szűr 50400058-11001012-00000000
+Baranya Tarrós 11731111-15555386-00000000
+Baranya Tékes 71800116-11089751-00000000
+Baranya Teklafalu 11731094-15335418-00000000
+Baranya Tengeri 11731001-15333904-00000000
+Baranya Tésenfa 11731087-15555180-00000000
+Baranya Téseny 11731001-15333911-00000000
+Baranya Tófű 11731063-15556150-00000000
+Baranya Tormás 71800099-11114499-00000000
+Baranya Tótszentgyörgy 50800070-11006282-00000000
+Baranya Töttös 50100019-12001156-00000000
+Baranya Túrony 11731087-15334259-00000000
+Baranya Udvar 11731070-15333698-00000000
+Baranya Újpetre 11731087-15331218-00000000
+Baranya Vajszló 50700145-16401682-00000000
+Baranya Várad 50800087-11004417-00000000
+Baranya Varga 11731111-15555331-00000000
+Baranya Vásárosbéc 11731094-15334479-00000000
+Baranya Vásárosdombó 71800116-11089531-00000000
+Baranya Vázsnok 11731111-15555348-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Baranya Vejti 50700145-16402779-00000000
+Baranya Vékény 71800068-11114293-00000000
+Baranya Velény 50700035-11024192-00000000
+Baranya Véménd 50400137-11000482-00000000
+Baranya Versend 11731070-15333801-00000000
+Baranya Villány 11731142-15331263-00000000
+Baranya Villánykövesd 11731142-15333966-00000000
+Baranya Vokány 11731087-15334307-00000000
+Baranya Zádor 50800087-11002941-00000000
+Baranya Zaláta 11731128-15334084-00000000
+Baranya Zengővárkony 11731104-15335339-00000000
+Baranya Zók 50700073-15700524-00000000
+Bács-Kiskun Ágasegyháza 11732002-15338174-00000000
+Bács-Kiskun Akasztó 11732057-15338679-00000000
+Bács-Kiskun Apostag 11732105-15337331-00000000
+Bács-Kiskun Bácsalmás 11732088-15336471-00000000
+Bács-Kiskun Bácsbokod 51000022-10214929-00000000
+Bács-Kiskun Bácsborsód 11732033-15341523-00000000
+Bács-Kiskun Bácsszentgyörgy 11732033-15341884-00000000
+Bács-Kiskun Bácsszőlős 11732088-15339151-00000000
+Bács-Kiskun Baja 11732033-15336244-00000000
+Bács-Kiskun Ballószög 11732002-15337764-00000000
+Bács-Kiskun Balotaszállás 57600015-11054498-00000000
+Bács-Kiskun Bátmonostor 11732033-15336550-00000000
+Bács-Kiskun Bátya 11732040-15337348-00000000
+Bács-Kiskun Bócsa 11732181-15338693-00000000
+Bács-Kiskun Borota 11732129-15339168-00000000
+Bács-Kiskun Bugac 11732071-15337881-00000000
+Bács-Kiskun Bugacpusztaháza 11732071-15540296-00000000
+Bács-Kiskun Császártöltés 11732095-15338703-00000000
+Bács-Kiskun Csátalja 11732033-15336574-00000000
+Bács-Kiskun Csávoly 11732033-15336598-00000000
+Bács-Kiskun Csengőd 11732057-15338710-00000000
+Bács-Kiskun Csikéria 11732088-15339182-00000000
+Bács-Kiskun Csólyospálos 11732143-15339199-00000000
+Bács-Kiskun Dávod 11732033-15336615-00000000
+Bács-Kiskun Drágszél 11732040-15540313-00000000
+Bács-Kiskun Dunaegyháza 52600034-10000324-00000000
+Bács-Kiskun Dunafalva 11732033-15330592-00000000
+Bács-Kiskun Dunapataj 11732040-15337159-00000000
+Bács-Kiskun Dunaszentbenedek 11732040-15337362-00000000
+Bács-Kiskun Dunatetétlen 11732040-15341688-00000000
+Bács-Kiskun Dunavecse 11732105-15337197-00000000
+Bács-Kiskun Dusnok 11732040-15337386-00000000
+Bács-Kiskun Érsekcsanád 11732033-15336646-00000000
+Bács-Kiskun Érsekhalma 11732363-15341891-00000000
+Bács-Kiskun Fajsz 11732040-15337410-00000000
+Bács-Kiskun Felsőlajos 11732167-15540306-00000000
+Bács-Kiskun Felsőszentiván 11732033-15336660-00000000
+Bács-Kiskun Foktő 11732040-15337111-00000000
+Bács-Kiskun Fülöpháza 11732002-15338198-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Bács-Kiskun Fülöpjakab 11732071-15540289-00000000
+Bács-Kiskun Fülöpszállás 52500013-13000017-00000000
+Bács-Kiskun Gara 11732033-15336677-00000000
+Bács-Kiskun Gátér 11732071-15338442-00000000
+Bács-Kiskun Géderlak 11732040-15337427-00000000
+Bács-Kiskun Hajós 11732363-15337238-00000000
+Bács-Kiskun Harkakötöny 11732064-15339209-00000000
+Bács-Kiskun Harta 11732040-15337276-00000000
+Bács-Kiskun Helvécia 11732002-15337771-00000000
+Bács-Kiskun Hercegszántó 11732033-15336701-00000000
+Bács-Kiskun Homokmégy 11732040-15337434-00000000
+Bács-Kiskun Imrehegy 52500099-16000085-00000000
+Bács-Kiskun Izsák 11732112-15340151-00000000
+Bács-Kiskun Jakabszállás 11732002-15338208-00000000
+Bács-Kiskun Jánoshalma 11732129-15338954-00000000
+Bács-Kiskun Jászszentlászló 51700014-10006454-00000000
+Bács-Kiskun Kalocsa 11732040-15336938-00000000
+Bács-Kiskun Kaskantyú 52700062-15338758-01800016
+Bács-Kiskun Katymár 11732088-15336725-00000000
+Bács-Kiskun Kecel 11732136-15338590-00000000
+Bács-Kiskun Kecskemét 11732002-15337544-00000000
+Bács-Kiskun Kelebia 12076903-00388145-00100004
+Bács-Kiskun Kéleshalom 11732129-15341901-00000000
+Bács-Kiskun Kerekegyháza 11732002-15337908-00000000
+Bács-Kiskun Kiskőrös 11732057-15338497-00000000
+Bács-Kiskun Kiskunfélegyháza 11732071-15338284-00000000
+Bács-Kiskun Kiskunhalas 11732064-15338806-00000000
+Bács-Kiskun Kiskunmajsa 11732143-15339010-00000000
+Bács-Kiskun Kisszállás 11732064-15339254-00000000
+Bács-Kiskun Kömpöc 11732143-15339278-00000000
+Bács-Kiskun Kunadacs 11732150-15338215-00000000
+Bács-Kiskun Kunbaja 11732088-15339285-00000000
+Bács-Kiskun Kunbaracs 11732002-15338222-00000000
+Bács-Kiskun Kunfehértó 10402568-25611597-00000000
+Bács-Kiskun Kunpeszér 11732150-15341918-00000000
+Bács-Kiskun Kunszállás 11732071-15338459-00000000
+Bács-Kiskun Kunszentmiklós 11732150-15337915-00000000
+Bács-Kiskun Ladánybene 11732002-15338239-00000000
+Bács-Kiskun Lajosmizse 11732167-15337960-00000000
+Bács-Kiskun Lakitelek 52000018-11100018-00000000
+Bács-Kiskun Madaras 11732088-15336756-00000000
+Bács-Kiskun Mátételke 11732088-15336787-00000000
+Bács-Kiskun Mélykút 11732174-15339065-00000000
+Bács-Kiskun Miske 11732040-15337441-00000000
+Bács-Kiskun Móricgát 51700014-10006533-00000000
+Bács-Kiskun Nagybaracska 12076903-00388365-00100004
+Bács-Kiskun Nemesnádudvar 11732033-15336828-00000000
+Bács-Kiskun Nyárlőrinc 11732002-15338253-00000000
+Bács-Kiskun Ordas 11732040-15337458-00000000
+Bács-Kiskun Orgovány 11732002-15338260-00000000
+Bács-Kiskun Öregcsertő 11732040-15337465-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Bács-Kiskun Páhi 52500068-15000013-00000000
+Bács-Kiskun Pálmonostora 11732071-15338473-00000000
+Bács-Kiskun Petőfiszállás 51700038-11056311-00000000
+Bács-Kiskun Pirtó 11732064-15339333-00000000
+Bács-Kiskun Rém 11732033-15339340-00000000
+Bács-Kiskun Solt 11732301-15337300-00000000
+Bács-Kiskun Soltszentimre 52500020-15000013-00000000
+Bács-Kiskun Soltvadkert 52700024-15338631-01800009
+Bács-Kiskun Sükösd 11732033-15336842-00000000
+Bács-Kiskun Szabadszállás 11732356-15338040-00000000
+Bács-Kiskun Szakmár 11732040-15337472-00000000
+Bács-Kiskun Szalkszentmárton 11732198-15337496-00000000
+Bács-Kiskun Szank 51700021-10008858-00000000
+Bács-Kiskun Szentkirály 11732208-15338246-00000000
+Bács-Kiskun Szeremle 12076903-00388552-00100006
+Bács-Kiskun Tabdi 11732057-15338789-00000000
+Bács-Kiskun Tass 11732150-15337506-00000000
+Bács-Kiskun Tataháza 11732088-15336880-00000000
+Bács-Kiskun Tázlár 11732057-15338796-00000000
+Bács-Kiskun Tiszaalpár 52900011-10205086-00000000
+Bács-Kiskun Tiszakécske 11732208-15338112-00000000
+Bács-Kiskun Tiszaug 69800102-16000171-00000000
+Bács-Kiskun Tompa 11732064-15339106-00000000
+Bács-Kiskun Újsolt 11732301-15341736-00000000
+Bács-Kiskun Újtelek 11732040-15341729-00000000
+Bács-Kiskun Uszód 11732040-15337520-00000000
+Bács-Kiskun Városföld 11732002-15337805-00000000
+Bács-Kiskun Vaskút 51000149-15013077-00000000
+Bács-Kiskun Zsana 57600077-11064002-00000000
+Békés Almáskamarás 11733137-15347251-00000000
+Békés Battonya 11733089-15344155-00000000
+Békés Békés 11998707-04606811-00000000
+Békés Békéscsaba 11733003-15345008-00000000
+Békés Békéssámson 11733182-15345895-00000000
+Békés Békésszentandrás 11733058-15346755-00000000
+Békés Bélmegyer 11733072-15343154-00000000
+Békés Biharugra 54000021-10000898-00000000
+Békés Bucsa 54000117-10005886-00000000
+Békés Csabacsűd 53900038-15010005-00000000
+Békés Csabaszabadi 11733003-15342706-00000000
+Békés Csanádapáca 11733041-15345929-00000000
+Békés Csárdaszállás 53200053-11048699-00000000
+Békés Csorvás 11733096-15345936-00000000
+Békés Dévaványa 11733106-15344643-00000000
+Békés Doboz 11733003-15343666-00000000
+Békés Dombegyház 11733089-15344272-00000000
+Békés Dombiratos 11733034-15347237-00000000
+Békés Ecsegfalva 11733106-15344746-00000000
+Békés Elek 11733113-15343501-00000000
+Békés Füzesgyarmat 11733223-15344681-00000000
+Békés Gádoros 53300067-12001558-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Békés Gerendás 11733003-15345905-00000000
+Békés Geszt 11733175-15343738-00000000
+Békés Gyomaendrőd 53200125-11062402-00000000
+Békés Gyula 11733027-15346009-00000000
+Békés Hunya 53200022-11054106-00000000
+Békés Kamut 11733072-15343082-00000000
+Békés Kardos 11733058-15347055-00000000
+Békés Kardoskút 10402142-21422876-00000000
+Békés Kaszaper 53500841-10034686-00000000
+Békés Kertészsziget 11733065-15344753-00000000
+Békés Kétegyháza 11733027-15343549-00000000
+Békés Kétsoprony 11733003-15345187-00000000
+Békés Kevermes 53500016-10002869-00000000
+Békés Kisdombegyház 11733089-15347213-00000000
+Békés Kondoros 11733003-15346676-00000000
+Békés Körösladány 11733065-15344777-00000000
+Békés Körösnagyharsány 54000100-10000049-00000000
+Békés Köröstarcsa 11733003-15345314-00000000
+Békés Körösújfalu 54000124-10000018-00000000
+Békés Kötegyán 11733175-15343611-00000000
+Békés Kunágota 11733034-15344313-00000000
+Békés Lőkösháza 11733027-15343587-00000000
+Békés Magyarbánhegyes 53500827-10030101-00000000
+Békés Magyardombegyház 11733089-15347220-00000000
+Békés Medgyesbodzás 11733034-15344131-00000000
+Békés Medgyesegyháza 11733137-15344083-00000000
+Békés Méhkerék 11733175-15343769-00000000
+Békés Mezőberény 11733144-15345352-00000000
+Békés Mezőgyán 11733175-15343707-00000000
+Békés Mezőhegyes 11733151-15344193-00000000
+Békés Mezőkovácsháza 10402142-21422900-00000000
+Békés Murony 53200060-10000379-00000000
+Békés Nagybánhegyes 53500834-10030338-00000000
+Békés Nagykamarás 11733137-15344241-00000000
+Békés Nagyszénás 11733168-15345864-00000000
+Békés Okány 54000076-10000018-00000000
+Békés Orosháza 11733041-15346315-00000000
+Békés Örménykút 11733058-15347206-00000000
+Békés Pusztaföldvár 11733041-15345912-00000000
+Békés Pusztaottlaka 11733137-15347172-00000000
+Békés Sarkad 11733175-15343783-00000000
+Békés Sarkadkeresztúr 11733175-15343635-00000000
+Békés Szabadkígyós 11733199-15347244-00000000
+Békés Szarvas 10402142-21423475-00000000
+Békés Szeghalom 11733065-15344571-00000000
+Békés Tarhos 11733072-15343178-00000000
+Békés Telekgerendás 53300029-11047344-00000000
+Békés Tótkomlós 10402142-21422883-00000000
+Békés Újkígyós 11733199-15343831-00000000
+Békés Újszalonta 11733175-15347196-00000000
+Békés Végegyháza 53500858-10030118-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Békés Vésztő 11733209-15344818-00000000
+Békés Zsadány 54000090-10000056-00000000
+Borsod-Abaúj-Zemplén Abaújalpár 11734176-15547688-00000000
+Borsod-Abaúj-Zemplén Abaújkér 11734176-15545064-00000000
+Borsod-Abaúj-Zemplén Abaújlak 11734097-15547750-00000000
+Borsod-Abaúj-Zemplén Abaújszántó 56100079-14100055-00000000
+Borsod-Abaúj-Zemplén Abaújszolnok 11734097-15548263-00000000
+Borsod-Abaúj-Zemplén Abaújvár 54700013-10411009-00000000
+Borsod-Abaúj-Zemplén Abod 10402142-49565051-48561007
+Borsod-Abaúj-Zemplén Aggtelek 11734080-15348001-00000000
+Borsod-Abaúj-Zemplén Alacska 11734200-15348908-00000000
+Borsod-Abaúj-Zemplén Alsóberecki 11600006-00000000-10716407
+Borsod-Abaúj-Zemplén Alsódobsza 11600006-00000000-13203454
+Borsod-Abaúj-Zemplén Alsógagy 54600119-10001277-00000000
+Borsod-Abaúj-Zemplén Alsóregmec 55500029-18000029-00000000
+Borsod-Abaúj-Zemplén Alsószuha 11734152-15439718-00000000
+Borsod-Abaúj-Zemplén Alsótelekes 11734152-15545985-00000000
+Borsod-Abaúj-Zemplén Alsóvadász 11734190-15348276-00000000
+Borsod-Abaúj-Zemplén Alsózsolca 11734004-15348915-00000000
+Borsod-Abaúj-Zemplén Arka 11734176-15547695-00000000
+Borsod-Abaúj-Zemplén Arló 11734121-15349208-00000000
+Borsod-Abaúj-Zemplén Arnót 11734004-15348922-00000000
+Borsod-Abaúj-Zemplén Ároktő 11734217-15348551-00000000
+Borsod-Abaúj-Zemplén Aszaló 54600195-10000018-00000000
+Borsod-Abaúj-Zemplén Baktakék 11734097-15348290-00000000
+Borsod-Abaúj-Zemplén Balajt 12037805-00124023-00100007
+Borsod-Abaúj-Zemplén Bánhorváti 55400228-10080003-00000000
+Borsod-Abaúj-Zemplén Bánréve 55400376-11024422-00000000
+Borsod-Abaúj-Zemplén Baskó 11734176-15349765-00000000
+Borsod-Abaúj-Zemplén Becskeháza 11734080-15545435-00000000
+Borsod-Abaúj-Zemplén Bekecs 11734145-15349772-00000000
+Borsod-Abaúj-Zemplén Berente 12046102-00309770-00100007
+Borsod-Abaúj-Zemplén Beret 11734097-15545208-00000000
+Borsod-Abaúj-Zemplén Berzék 11994002-06252559-10000001
+Borsod-Abaúj-Zemplén Bodroghalom 55500029-11022066-00000000
+Borsod-Abaúj-Zemplén Bodrogkeresztúr 56100024-18100002-00000000
+Borsod-Abaúj-Zemplén Bodrogkisfalud 11734145-15547602-00000000
+Borsod-Abaúj-Zemplén Bodrogolaszi 11734169-15349473-00000000
+Borsod-Abaúj-Zemplén Bódvalenke 11734080-15548270-00000000
+Borsod-Abaúj-Zemplén Bódvarákó 11734080-15547664-00000000
+Borsod-Abaúj-Zemplén Bódvaszilas 11734080-15348018-00000000
+Borsod-Abaúj-Zemplén Bogács 11734107-15348702-00000000
+Borsod-Abaúj-Zemplén Boldogkőújfalu 11734176-15547705-00000000
+Borsod-Abaúj-Zemplén Boldogkőváralja 11734176-15348300-00000000
+Borsod-Abaúj-Zemplén Boldva 54300015-10000238-00000000
+Borsod-Abaúj-Zemplén Borsodbóta 55400118-11900014-00000000
+Borsod-Abaúj-Zemplén Borsodgeszt 11734107-15546144-00000000
+Borsod-Abaúj-Zemplén Borsodivánka 55100131-12000306-00000000
+Borsod-Abaúj-Zemplén Borsodnádasd 11734121-15349246-00000000
+Borsod-Abaúj-Zemplén Borsodszentgyörgy 11734121-15545071-00000000
+Borsod-Abaúj-Zemplén Borsodszirák 54300046-10000111-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Borsod-Abaúj-Zemplén Bózsva 11734138-15546481-00000000
+Borsod-Abaúj-Zemplén Bőcs 11734004-15348939-00000000
+Borsod-Abaúj-Zemplén Bükkábrány 11734107-15348726-00000000
+Borsod-Abaúj-Zemplén Bükkaranyos 11734004-15348946-00000000
+Borsod-Abaúj-Zemplén Bükkmogyorósd 55400149-11024697-00000000
+Borsod-Abaúj-Zemplén Bükkszentkereszt 11734004-15348953-00000000
+Borsod-Abaúj-Zemplén Bükkzsérc 11734107-15348733-00000000
+Borsod-Abaúj-Zemplén Büttös 54600119-10001796-00000000
+Borsod-Abaúj-Zemplén Cigánd 11734138-15349480-00000000
+Borsod-Abaúj-Zemplén Csenyéte 54600119-10001428-00000000
+Borsod-Abaúj-Zemplén Cserépfalu 54200049-10080302-00000000
+Borsod-Abaúj-Zemplén Cserépváralja 11734107-15546216-00000000
+Borsod-Abaúj-Zemplén Csernely 55400149-14900013-00000000
+Borsod-Abaúj-Zemplén Csincse 11734107-15548696-00000000
+Borsod-Abaúj-Zemplén Csobád 11734097-15545521-00000000
+Borsod-Abaúj-Zemplén Csobaj 11734145-15349796-00000000
+Borsod-Abaúj-Zemplén Csokvaomány 11734121-15349260-00000000
+Borsod-Abaúj-Zemplén Damak 11734080-15548081-00000000
+Borsod-Abaúj-Zemplén Dámóc 11734138-15546436-00000000
+Borsod-Abaúj-Zemplén Debréte 11734080-15546010-00000000
+Borsod-Abaúj-Zemplén Dédestapolcsány 11734152-15349277-00000000
+Borsod-Abaúj-Zemplén Detek 11734097-15545215-00000000
+Borsod-Abaúj-Zemplén Domaháza 11734121-15349284-00000000
+Borsod-Abaúj-Zemplén Dövény 11734152-15545428-00000000
+Borsod-Abaúj-Zemplén Dubicsány 11734183-15545851-00000000
+Borsod-Abaúj-Zemplén Edelény 12037805-00113009-00100007
+Borsod-Abaúj-Zemplén Egerlövő 11734107-15348757-00000000
+Borsod-Abaúj-Zemplén Égerszög 11734080-15547640-00000000
+Borsod-Abaúj-Zemplén Emőd 11734004-15348568-00000000
+Borsod-Abaúj-Zemplén Encs 10402142-21423530-00000000
+Borsod-Abaúj-Zemplén Erdőbénye 11734145-15349806-00000000
+Borsod-Abaúj-Zemplén Erdőhorváti 11734169-15349497-00000000
+Borsod-Abaúj-Zemplén Fáj 11734097-15548713-00000000
+Borsod-Abaúj-Zemplén Fancsal 11734097-15545394-00000000
+Borsod-Abaúj-Zemplén Farkaslyuk 10201006-50078989-00000000
+Borsod-Abaúj-Zemplén Felsőberecki 11600006-00000000-10717642
+Borsod-Abaúj-Zemplén Felsődobsza 11734097-15545459-00000000
+Borsod-Abaúj-Zemplén Felsőgagy 54600119-10001356-00000000
+Borsod-Abaúj-Zemplén Felsőkelecsény 11734152-15545404-00000000
+Borsod-Abaúj-Zemplén Felsőnyárád 11734152-15348049-00000000
+Borsod-Abaúj-Zemplén Felsőregmec 55500029-18000249-00000000
+Borsod-Abaúj-Zemplén Felsőtelekes 11734152-15545978-00000000
+Borsod-Abaúj-Zemplén Felsővadász 11734097-15348324-00000000
+Borsod-Abaúj-Zemplén Felsőzsolca 54500112-10030015-00000000
+Borsod-Abaúj-Zemplén Filkeháza 11734138-15545909-00000000
+Borsod-Abaúj-Zemplén Fony 11734097-15546254-00000000
+Borsod-Abaúj-Zemplén Forró 11994002-06443359-10000001
+Borsod-Abaúj-Zemplén Fulókércs 11734097-15546182-00000000
+Borsod-Abaúj-Zemplén Füzér 11734138-15545387-00000000
+Borsod-Abaúj-Zemplén Füzérkajata 11734138-15545916-00000000
+Borsod-Abaúj-Zemplén Füzérkomlós 11734138-15349507-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Borsod-Abaúj-Zemplén Füzérradvány 11734138-15545923-00000000
+Borsod-Abaúj-Zemplén Gadna 11734097-15547767-00000000
+Borsod-Abaúj-Zemplén Gagyapáti 11734097-15545167-00000000
+Borsod-Abaúj-Zemplén Gagybátor 11734097-15547781-00000000
+Borsod-Abaúj-Zemplén Gagyvendégi 11734097-15545363-00000000
+Borsod-Abaúj-Zemplén Galvács 55600112-10004562-00000000
+Borsod-Abaúj-Zemplén Garadna 54700013-10311002-00000000
+Borsod-Abaúj-Zemplén Gelej 14220108-19918008-00000000
+Borsod-Abaúj-Zemplén Gesztely 10402142-21423712-00000000
+Borsod-Abaúj-Zemplén Girincs 11994301-06154918-10000001
+Borsod-Abaúj-Zemplén Golop 11734176-15439419-00000000
+Borsod-Abaúj-Zemplén Gömörszőlős 55400163-11018867-00000000
+Borsod-Abaúj-Zemplén Gönc 54700013-10011001-00000000
+Borsod-Abaúj-Zemplén Göncruszka 11734176-15545497-00000000
+Borsod-Abaúj-Zemplén Györgytarló 11734169-15439024-00000000
+Borsod-Abaúj-Zemplén Halmaj 11734097-15348355-00000000
+Borsod-Abaúj-Zemplén Hangács 54300015-10001246-00000000
+Borsod-Abaúj-Zemplén Hangony 55400156-15900023-00000000
+Borsod-Abaúj-Zemplén Háromhuta 11734169-15545318-00000000
+Borsod-Abaúj-Zemplén Harsány 11734004-15349002-00000000
+Borsod-Abaúj-Zemplén Hegymeg 11994002-06345866-10000001
+Borsod-Abaúj-Zemplén Hejce 11734097-15546261-00000000
+Borsod-Abaúj-Zemplén Hejőbába 12046102-00103091-00100009
+Borsod-Abaúj-Zemplén Hejőkeresztúr 11734114-15348582-00000000
+Borsod-Abaúj-Zemplén Hejőkürt 11734114-15546247-00000000
+Borsod-Abaúj-Zemplén Hejőpapi 12046102-00362031-00100004
+Borsod-Abaúj-Zemplén Hejőszalonta 11994301-06448543-10000001
+Borsod-Abaúj-Zemplén Hercegkút 11734169-15349514-00000000
+Borsod-Abaúj-Zemplén Hernádbűd 11734097-15545624-00000000
+Borsod-Abaúj-Zemplén Hernádcéce 11734097-15547413-00000000
+Borsod-Abaúj-Zemplén Hernádkak 14100086-91008549-01000007
+Borsod-Abaúj-Zemplén Hernádkércs 54600126-10001428-00000000
+Borsod-Abaúj-Zemplén Hernádnémeti 11734004-15349019-00000000
+Borsod-Abaúj-Zemplén Hernádpetri 11734097-15547372-00000000
+Borsod-Abaúj-Zemplén Hernádszentandrás 54600119-10004665-00000000
+Borsod-Abaúj-Zemplén Hernádszurdok 11734097-15545442-00000000
+Borsod-Abaúj-Zemplén Hernádvécse 11734097-15348379-00000000
+Borsod-Abaúj-Zemplén Hét 11734183-15545868-00000000
+Borsod-Abaúj-Zemplén Hidasnémeti 54700013-10111008-00000000
+Borsod-Abaúj-Zemplén Hidvégardó 11734080-15348063-00000000
+Borsod-Abaúj-Zemplén Hollóháza 11734138-15349521-00000000
+Borsod-Abaúj-Zemplén Homrogd 54600188-10000616-00000000
+Borsod-Abaúj-Zemplén Igrici 11734217-15546450-00000000
+Borsod-Abaúj-Zemplén Imola 10402142-21423729-00000000
+Borsod-Abaúj-Zemplén Ináncs 54600119-10003671-00000000
+Borsod-Abaúj-Zemplén Irota 54300039-10002223-00000000
+Borsod-Abaúj-Zemplén Izsófalva 11734152-15348070-00000000
+Borsod-Abaúj-Zemplén Jákfalva 11734152-15545411-00000000
+Borsod-Abaúj-Zemplén Járdánháza 11734121-15439433-00000000
+Borsod-Abaúj-Zemplén Jósvafő 11734080-15545026-00000000
+Borsod-Abaúj-Zemplén Kács 11734107-15546230-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Borsod-Abaúj-Zemplén Kánó 11734152-15547626-00000000
+Borsod-Abaúj-Zemplén Kány 54600119-10001514-00000000
+Borsod-Abaúj-Zemplén Karcsa 11734138-15349538-00000000
+Borsod-Abaúj-Zemplén Karos 11600006-00000000-10716593
+Borsod-Abaúj-Zemplén Kazincbarcika 11734152-15350057-00000000
+Borsod-Abaúj-Zemplén Kázsmárk 11734097-15545538-00000000
+Borsod-Abaúj-Zemplén Kéked 11734176-15545033-00000000
+Borsod-Abaúj-Zemplén Kelemér 55400163-11018850-00000000
+Borsod-Abaúj-Zemplén Kenézlő 11734169-15349552-00000000
+Borsod-Abaúj-Zemplén Keresztéte 54600119-10001710-00000000
+Borsod-Abaúj-Zemplén Kesznyéten 11734114-15349026-00000000
+Borsod-Abaúj-Zemplén Királd 55400118-11024192-00000000
+Borsod-Abaúj-Zemplén Kiscsécs 11734114-15548452-00000000
+Borsod-Abaúj-Zemplén Kisgyőr 11734004-15349033-00000000
+Borsod-Abaúj-Zemplén Kishuta 11734138-15545954-00000000
+Borsod-Abaúj-Zemplén Kiskinizs 11734097-15545545-00000000
+Borsod-Abaúj-Zemplén Kisrozvágy 11734138-15548737-00000000
+Borsod-Abaúj-Zemplén Kissikátor 55400156-15900016-00000000
+Borsod-Abaúj-Zemplén Kistokaj 11734004-15349040-00000000
+Borsod-Abaúj-Zemplén Komjáti 12037805-00131253-00100000
+Borsod-Abaúj-Zemplén Komlóska 11734169-15545325-00000000
+Borsod-Abaúj-Zemplén Kondó 11734200-15546515-00000000
+Borsod-Abaúj-Zemplén Korlát 11734097-15547420-00000000
+Borsod-Abaúj-Zemplén Kovácsvágás 11734138-15545930-00000000
+Borsod-Abaúj-Zemplén Köröm 11994301-06252731-10000001
+Borsod-Abaúj-Zemplén Krasznokvajda 54600119-10001909-00000000
+Borsod-Abaúj-Zemplén Kupa 11734097-15547774-00000000
+Borsod-Abaúj-Zemplén Kurityán 55400235-10080113-00000000
+Borsod-Abaúj-Zemplén Lácacséke 11734138-15546034-00000000
+Borsod-Abaúj-Zemplén Ládbesenyő 10402142-21424184-00000000
+Borsod-Abaúj-Zemplén Lak 11734080-15348094-00000000
+Borsod-Abaúj-Zemplén Legyesbénye 11734145-15349813-00000000
+Borsod-Abaúj-Zemplén Léh 11734097-15545552-00000000
+Borsod-Abaúj-Zemplén Lénárddaróc 55400149-11022444-00000000
+Borsod-Abaúj-Zemplén Litka 11734097-15548720-00000000
+Borsod-Abaúj-Zemplén Mád 11734145-15349820-00000000
+Borsod-Abaúj-Zemplén Makkoshotyka 11994105-06343211-10000001
+Borsod-Abaúj-Zemplén Mályi 55100320-12000698-00000000
+Borsod-Abaúj-Zemplén Mályinka 11734152-15545301-00000000
+Borsod-Abaúj-Zemplén Martonyi 11994002-06346001-10000001
+Borsod-Abaúj-Zemplén Megyaszó 11600006-00000000-13204479
+Borsod-Abaúj-Zemplén Méra 10402142-21423420-00000000
+Borsod-Abaúj-Zemplén Meszes 11994002-06346018-10000001
+Borsod-Abaúj-Zemplén Mezőcsát 11734217-15348599-00000000
+Borsod-Abaúj-Zemplén Mezőkeresztes 55100203-12000502-00000000
+Borsod-Abaúj-Zemplén Mezőkövesd 11734107-15350071-00000000
+Borsod-Abaúj-Zemplén Mezőnagymihály 14220108-19892007-00000000
+Borsod-Abaúj-Zemplén Mezőnyárád 14220108-19926005-00000000
+Borsod-Abaúj-Zemplén Mezőzombor 11734145-15349844-00000000
+Borsod-Abaúj-Zemplén Mikóháza 55500029-18000139-00000000
+Borsod-Abaúj-Zemplén Miskolc 11734004-15472009-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Borsod-Abaúj-Zemplén Mogyoróska 11734097-15546285-00000000
+Borsod-Abaúj-Zemplén Monaj 54600188-10000757-00000000
+Borsod-Abaúj-Zemplén Monok 11734145-15349851-00000000
+Borsod-Abaúj-Zemplén Múcsony 11734152-15348104-00000000
+Borsod-Abaúj-Zemplén Muhi 11734004-15545820-00000000
+Borsod-Abaúj-Zemplén Nagybarca 11734152-15439385-00000000
+Borsod-Abaúj-Zemplén Nagycsécs 11734114-15546072-00000000
+Borsod-Abaúj-Zemplén Nagyhuta 11734138-15545961-00000000
+Borsod-Abaúj-Zemplén Nagykinizs 11734097-15545473-00000000
+Borsod-Abaúj-Zemplén Nagyrozvágy 11734138-15349576-00000000
+Borsod-Abaúj-Zemplén Négyes 11734107-15545105-00000000
+Borsod-Abaúj-Zemplén Nekézseny 11734121-15439567-00000000
+Borsod-Abaúj-Zemplén Nemesbikk 11734114-15439725-00000000
+Borsod-Abaúj-Zemplén Novajidrány 11734097-15348434-00000000
+Borsod-Abaúj-Zemplén Nyékládháza 11734004-15349064-00000000
+Borsod-Abaúj-Zemplén Nyésta 11734190-15548218-00000000
+Borsod-Abaúj-Zemplén Nyíri 11734138-15546474-00000000
+Borsod-Abaúj-Zemplén Nyomár 11734080-15545583-00000000
+Borsod-Abaúj-Zemplén Olaszliszka 11734169-15349583-00000000
+Borsod-Abaúj-Zemplén Onga 11994002-06250629-10000001
+Borsod-Abaúj-Zemplén Ónod 12046102-00111762-00100005
+Borsod-Abaúj-Zemplén Ormosbánya 55400273-11022499-00000000
+Borsod-Abaúj-Zemplén Oszlár 11734114-15546223-00000000
+Borsod-Abaúj-Zemplén Ózd 11734121-15350088-00000000
+Borsod-Abaúj-Zemplén Pácin 11734138-15439402-00000000
+Borsod-Abaúj-Zemplén Pálháza 55500012-11014997-00000000
+Borsod-Abaúj-Zemplén Pamlény 11734097-15545679-00000000
+Borsod-Abaúj-Zemplén Pányok 54700013-10511006-00000000
+Borsod-Abaúj-Zemplén Parasznya 54900031-10005264-00000000
+Borsod-Abaúj-Zemplén Pere 11734097-15545648-00000000
+Borsod-Abaúj-Zemplén Perecse 54600119-10001617-00000000
+Borsod-Abaúj-Zemplén Perkupa 11734080-15348111-00000000
+Borsod-Abaúj-Zemplén Prügy 11734145-15349868-00000000
+Borsod-Abaúj-Zemplén Pusztafalu 11734138-15546467-00000000
+Borsod-Abaúj-Zemplén Pusztaradvány 11734097-15547389-00000000
+Borsod-Abaúj-Zemplén Putnok 11734183-15349332-00000000
+Borsod-Abaúj-Zemplén Radostyán 11734200-15546395-00000000
+Borsod-Abaúj-Zemplén Ragály 11734152-15348128-00000000
+Borsod-Abaúj-Zemplén Rakaca 11734080-15348135-00000000
+Borsod-Abaúj-Zemplén Rakacaszend 11734080-15545992-00000000
+Borsod-Abaúj-Zemplén Rásonysápberencs 11734097-15545569-00000000
+Borsod-Abaúj-Zemplén Rátka 11734145-15349875-00000000
+Borsod-Abaúj-Zemplén Regéc 11734097-15546278-00000000
+Borsod-Abaúj-Zemplén Répáshuta 11734004-15349105-00000000
+Borsod-Abaúj-Zemplén Révleányvár 11734138-15546292-00000000
+Borsod-Abaúj-Zemplén Ricse 11734138-15349600-00000000
+Borsod-Abaúj-Zemplén Rudabánya 11734152-15348142-00000000
+Borsod-Abaúj-Zemplén Rudolftelep 55400273-11022262-00000000
+Borsod-Abaúj-Zemplén Sajóbábony 11734004-15349112-00000000
+Borsod-Abaúj-Zemplén Sajóecseg 11734004-15546137-00000000
+Borsod-Abaúj-Zemplén Sajógalgóc 11734152-15546364-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Borsod-Abaúj-Zemplén Sajóhídvég 11994301-06253268-10000001
+Borsod-Abaúj-Zemplén Sajóivánka 11734152-15546357-00000000
+Borsod-Abaúj-Zemplén Sajókápolna 11734200-15545844-00000000
+Borsod-Abaúj-Zemplén Sajókaza 11734152-15349349-00000000
+Borsod-Abaúj-Zemplén Sajókeresztúr 11734004-15349143-00000000
+Borsod-Abaúj-Zemplén Sajólád 11734004-15349150-00000000
+Borsod-Abaúj-Zemplén Sajólászlófalva 11734200-15546522-00000000
+Borsod-Abaúj-Zemplén Sajómercse 11734183-15546089-00000000
+Borsod-Abaúj-Zemplén Sajónémeti 11734183-15545222-00000000
+Borsod-Abaúj-Zemplén Sajóörös 11734114-15546120-00000000
+Borsod-Abaúj-Zemplén Sajópálfala 11734004-15545088-00000000
+Borsod-Abaúj-Zemplén Sajópetri 11994002-06252470-10000001
+Borsod-Abaúj-Zemplén Sajópüspöki 11734121-15545239-00000000
+Borsod-Abaúj-Zemplén Sajósenye 54300077-10000269-00000000
+Borsod-Abaúj-Zemplén Sajószentpéter 12046102-00196800-00100005
+Borsod-Abaúj-Zemplén Sajószöged 11734114-15348609-00000000
+Borsod-Abaúj-Zemplén Sajóvámos 54300077-10000173-00000000
+Borsod-Abaúj-Zemplén Sajóvelezd 11734183-15349356-00000000
+Borsod-Abaúj-Zemplén Sály 11734107-15348795-00000000
+Borsod-Abaúj-Zemplén Sárazsadány 11734169-15545253-00000000
+Borsod-Abaúj-Zemplén Sárospatak 11734169-15350095-00000000
+Borsod-Abaúj-Zemplén Sáta 55400400-10900011-00000000
+Borsod-Abaúj-Zemplén Sátoraljaújhely 11734138-15350105-00000000
+Borsod-Abaúj-Zemplén Selyeb 11734190-15348441-00000000
+Borsod-Abaúj-Zemplén Semjén 11734138-15546027-00000000
+Borsod-Abaúj-Zemplén Serényfalva 11734183-15545875-00000000
+Borsod-Abaúj-Zemplén Sima 11734176-15546340-00000000
+Borsod-Abaúj-Zemplén Sóstófalva 11600006-00000000-13202226
+Borsod-Abaúj-Zemplén Szakácsi 54300039-10002137-00000000
+Borsod-Abaúj-Zemplén Szakáld 12035803-00121826-00100005
+Borsod-Abaúj-Zemplén Szalaszend 11734097-15348458-00000000
+Borsod-Abaúj-Zemplén Szalonna 11994002-06345990-10000001
+Borsod-Abaúj-Zemplén Szászfa 11734097-15545693-00000000
+Borsod-Abaúj-Zemplén Szegi 56100024-18100026-00000000
+Borsod-Abaúj-Zemplén Szegilong 56100024-18100019-00000000
+Borsod-Abaúj-Zemplén Szemere 10402142-21422852-00000000
+Borsod-Abaúj-Zemplén Szendrő 11734080-15348166-00000000
+Borsod-Abaúj-Zemplén Szendrőlád 11994002-06348106-10000001
+Borsod-Abaúj-Zemplén Szentistván 14220108-19900001-00000000
+Borsod-Abaúj-Zemplén Szentistvánbaksa 11734097-15545466-00000000
+Borsod-Abaúj-Zemplén Szerencs 11734145-15349882-00000000
+Borsod-Abaúj-Zemplén Szikszó 11734190-15348465-00000000
+Borsod-Abaúj-Zemplén Szin 11734080-15348173-00000000
+Borsod-Abaúj-Zemplén Szinpetri 11734080-15548249-00000000
+Borsod-Abaúj-Zemplén Szirmabesenyő 11734004-15349181-00000000
+Borsod-Abaúj-Zemplén Szomolya 11734107-15348812-00000000
+Borsod-Abaúj-Zemplén Szögliget 11734080-15439574-00000000
+Borsod-Abaúj-Zemplén Szőlősardó 11734080-15546591-00000000
+Borsod-Abaúj-Zemplén Szuhafő 11734152-15546319-00000000
+Borsod-Abaúj-Zemplén Szuhakálló 11734152-15546333-00000000
+Borsod-Abaúj-Zemplén Szuhogy 11734080-15545019-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Borsod-Abaúj-Zemplén Taktabáj 11734145-15545277-00000000
+Borsod-Abaúj-Zemplén Taktaharkány 11734145-15349899-00000000
+Borsod-Abaúj-Zemplén Taktakenéz 11734145-15439426-00000000
+Borsod-Abaúj-Zemplén Taktaszada 11734145-15349909-00000000
+Borsod-Abaúj-Zemplén Tállya 12046102-00103570-00100001
+Borsod-Abaúj-Zemplén Tarcal 55800013-12000014-00000000
+Borsod-Abaúj-Zemplén Tard 11734107-15348829-00000000
+Borsod-Abaúj-Zemplén Tardona 11734152-15439392-00000000
+Borsod-Abaúj-Zemplén Telkibánya 11734176-15348472-00000000
+Borsod-Abaúj-Zemplén Teresztenye 11734080-15547633-00000000
+Borsod-Abaúj-Zemplén Tibolddaróc 11734107-15348836-00000000
+Borsod-Abaúj-Zemplén Tiszabábolna 11734107-15439031-00000000
+Borsod-Abaúj-Zemplén Tiszacsermely 11734138-15546326-00000000
+Borsod-Abaúj-Zemplén Tiszadorogma 11734217-15439550-00000000
+Borsod-Abaúj-Zemplén Tiszakarád 55500081-19000709-00000000
+Borsod-Abaúj-Zemplén Tiszakeszi 11734114-15348630-00000000
+Borsod-Abaúj-Zemplén Tiszaladány 56100031-18100002-00000000
+Borsod-Abaúj-Zemplén Tiszalúc 11734145-15349947-00000000
+Borsod-Abaúj-Zemplén Tiszapalkonya 11734114-15348647-00000000
+Borsod-Abaúj-Zemplén Tiszatardos 56100031-15546498-00000000
+Borsod-Abaúj-Zemplén Tiszatarján 11734114-15348654-00000000
+Borsod-Abaúj-Zemplén Tiszaújváros 11734114-15350064-00000000
+Borsod-Abaúj-Zemplén Tiszavalk 11734107-15545112-00000000
+Borsod-Abaúj-Zemplén Tokaj 56100017-15349954-00000000
+Borsod-Abaúj-Zemplén Tolcsva 11734169-15349648-00000000
+Borsod-Abaúj-Zemplén Tomor 11994002-06345880-10000001
+Borsod-Abaúj-Zemplén Tornabarakony 11734080-15547671-00000000
+Borsod-Abaúj-Zemplén Tornakápolna 11734080-15548256-00000000
+Borsod-Abaúj-Zemplén Tornanádaska 12037805-00129665-00100006
+Borsod-Abaúj-Zemplén Tornaszentandrás 10402142-21424263-00000000
+Borsod-Abaúj-Zemplén Tornaszentjakab 10402142-21424153-00000000
+Borsod-Abaúj-Zemplén Tornyosnémeti 54700013-10211005-00000000
+Borsod-Abaúj-Zemplén Trizs 11734152-15546058-00000000
+Borsod-Abaúj-Zemplén Újcsanálos 11600006-00000000-13205360
+Borsod-Abaúj-Zemplén Uppony 55400118-11900021-00000000
+Borsod-Abaúj-Zemplén Vadna 11734152-15349370-00000000
+Borsod-Abaúj-Zemplén Vágáshuta 11734138-15545947-00000000
+Borsod-Abaúj-Zemplén Vajdácska 11734169-15349655-00000000
+Borsod-Abaúj-Zemplén Vámosújfalu 11734169-15545813-00000000
+Borsod-Abaúj-Zemplén Varbó 11734200-15545837-00000000
+Borsod-Abaúj-Zemplén Varbóc 11734080-15546584-00000000
+Borsod-Abaúj-Zemplén Vatta 11734107-15348843-00000000
+Borsod-Abaúj-Zemplén Vilmány 11734097-15348489-00000000
+Borsod-Abaúj-Zemplén Vilyvitány 55500029-11017598-00000000
+Borsod-Abaúj-Zemplén Viss 11734169-15545710-00000000
+Borsod-Abaúj-Zemplén Viszló 11734080-15546003-00000000
+Borsod-Abaúj-Zemplén Vizsoly 11734097-15348496-00000000
+Borsod-Abaúj-Zemplén Zádorfalva 11734152-15349387-00000000
+Borsod-Abaúj-Zemplén Zalkod 11734169-15545727-00000000
+Borsod-Abaúj-Zemplén Zemplénagárd 11734138-15349662-00000000
+Borsod-Abaúj-Zemplén Ziliz 54300015-10000379-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Borsod-Abaúj-Zemplén Zsujta 54700013-10611003-00000000
+Borsod-Abaúj-Zemplén Zubogy 11734152-15546041-00000000
+Csongrád Algyő 12067008-00190442-00100003
+Csongrád Ambrózfalva 57300124-11031806-00000000
+Csongrád Apátfalva 56400001-10005903-00000000
+Csongrád Árpádhalom 11735043-15357298-00000000
+Csongrád Ásotthalom 10201006-50225150-00000000
+Csongrád Baks 11735098-15354288-00000000
+Csongrád Balástya 11735098-15354006-00000000
+Csongrád Bordány 10402142-21423516-00000000
+Csongrád Csanádalberti 57300124-11031916-00000000
+Csongrád Csanádpalota 11735081-15354697-00000000
+Csongrád Csanytelek 57200024-10005800-00000000
+Csongrád Csengele 11735098-15354329-00000000
+Csongrád Csongrád 11735050-15354721-00000000
+Csongrád Derekegyház 10402142-21422869-00000000
+Csongrád Deszk 10402142-21423736-00000000
+Csongrád Dóc 11735005-15357212-00000000
+Csongrád Domaszék 12067008-00241944-00100009
+Csongrád Eperjes 11735043-15357085-00000000
+Csongrád Fábiánsebestyén 11735043-15354518-00000000
+Csongrád Felgyő 57200086-10001480-00000000
+Csongrád Ferencszállás 11735074-15357243-00000000
+Csongrád Forráskút 57600039-11059462-00000000
+Csongrád Földeák 11735074-15354642-00000000
+Csongrád Hódmezővásárhely 12067008-00127020-00100003
+Csongrád Királyhegyes 56400032-10000692-00000000
+Csongrád Kistelek 11735098-15354161-00000000
+Csongrád Kiszombor 11735074-15354707-00000000
+Csongrád Klárafalva 11735074-15357250-00000000
+Csongrád Kövegy 57300100-10000881-00000000
+Csongrád Kübekháza 11735005-15354343-00000000
+Csongrád Magyarcsanád 11735074-15354659-00000000
+Csongrád Makó 11735074-15354745-00000000
+Csongrád Maroslele 12067008-00240800-00100001
+Csongrád Mártély 11735067-15354604-00000000
+Csongrád Mindszent 11735108-15354532-00000000
+Csongrád Mórahalom 11735115-15354477-00000000
+Csongrád Nagyér 11735081-15357274-00000000
+Csongrád Nagylak 11735074-15354673-00000000
+Csongrád Nagymágocs 11735043-15354549-00000000
+Csongrád Nagytőke 11735043-15354611-00000000
+Csongrád Óföldeák 11735074-15357236-00000000
+Csongrád Ópusztaszer 11735098-15354367-00000000
+Csongrád Öttömös 11735139-15357133-00000000
+Csongrád Pitvaros 11735081-15354680-00000000
+Csongrád Pusztamérges 11735139-15354381-00000000
+Csongrád Pusztaszer 11735098-15354415-00000000
+Csongrád Röszke 11735005-15354439-00000000
+Csongrád Ruzsa 11735139-15354226-00000000
+Csongrád Sándorfalva 57100106-13335883-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Csongrád Szatymaz 11735005-15354453-00000000
+Csongrád Szeged 12067008-00102705-00100002
+Csongrád Szegvár 57200062-10022843-00000000
+Csongrád Székkutas 11735067-15354563-00000000
+Csongrád Szentes 12066007-00372800-00100007
+Csongrád Tiszasziget 11735005-15354068-00000000
+Csongrád Tömörkény 57200055-15354570-00000000
+Csongrád Újszentiván 11735005-15357229-00000000
+Csongrád Üllés 11735005-15354099-00000000
+Csongrád Zákányszék 11735115-15354123-00000000
+Csongrád Zsombó 57100209-12006137-00000000
+Fejér Aba 11600006-00000000-13257408
+Fejér Adony 12024009-00112721-00100009
+Fejér Alap 11736051-15362436-00000000
+Fejér Alcsútdoboz 11736020-15361473-00000000
+Fejér Alsószentiván 11736051-15364359-00000000
+Fejér Bakonycsernye 11736044-15362137-00000000
+Fejér Bakonykúti 11736044-15364579-00000000
+Fejér Balinka 11736044-15364562-00000000
+Fejér Baracs 70600061-11081526-00000000
+Fejér Baracska 11736082-15362814-00000000
+Fejér Beloiannisz 11736037-15361710-00000000
+Fejér Besnyő 11736037-15361734-00000000
+Fejér Bicske 11736020-15361497-00000000
+Fejér Bodajk 11736006-15362151-00000000
+Fejér Bodmér 11736020-15364469-00000000
+Fejér Cece 11736051-15362450-00000000
+Fejér Csabdi 11736020-15364555-00000000
+Fejér Csákberény 11736044-15362175-00000000
+Fejér Csákvár 11736020-15361514-00000000
+Fejér Csókakő 11736044-15362230-00000000
+Fejér Csór 11736006-15362821-00000000
+Fejér Csősz 11736006-15364407-00000000
+Fejér Daruszentmiklós 11736037-15365886-00000000
+Fejér Dég 11500092-11180003-00000000
+Fejér Dunaújváros 10700134-26007409-51100005
+Fejér Előszállás 11736037-15361741-00000000
+Fejér Enying 11500092-11110000-00000000
+Fejér Ercsi 11990101-06156491-10000001
+Fejér Etyek 12001008-00138460-00100003
+Fejér Fehérvárcsurgó 11736044-15362182-00000000
+Fejér Felcsút 11736020-15364249-00000000
+Fejér Füle 11736099-15364421-00000000
+Fejér Gánt 11736020-15362247-00000000
+Fejér Gárdony 11736082-15362852-00000000
+Fejér Gyuró 11736082-15364108-00000000
+Fejér Hantos 11736051-15364366-00000000
+Fejér Igar 11736051-15364531-00000000
+Fejér Iszkaszentgyörgy 11736006-15362876-00000000
+Fejér Isztimér 11736044-15362254-00000000
+Fejér Iváncsa 11736037-15361789-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Fejér Jenő 11736006-15364438-00000000
+Fejér Kajászó 11736082-15362883-00000000
+Fejér Káloz 11736051-15362498-00000000
+Fejér Kápolnásnyék 11736082-15364500-00000000
+Fejér Kincsesbánya 11736044-15362209-00000000
+Fejér Kisapostag 10402142-21423602-00000000
+Fejér Kisláng 11736006-15362890-00000000
+Fejér Kőszárhegy 11736006-15364342-00000000
+Fejér Kulcs 11736037-15365233-00000000
+Fejér Lajoskomárom 11736051-15362515-00000000
+Fejér Lepsény 11736006-15362900-00000000
+Fejér Lovasberény 11736006-15362924-00000000
+Fejér Magyaralmás 11736044-15362223-00000000
+Fejér Mány 11736020-15363925-00000000
+Fejér Martonvásár 11996303-06065533-10000001
+Fejér Mátyásdomb 11736075-15364593-00000000
+Fejér Mezőfalva 11736037-15361796-00000000
+Fejér Mezőkomárom 11736075-15364414-00000000
+Fejér Mezőszentgyörgy 11736006-15364490-00000000
+Fejér Mezőszilas 11736051-15362539-00000000
+Fejér Moha 11736006-15364476-00000000
+Fejér Mór 11736044-15362106-00000000
+Fejér Nadap 11736082-15364524-00000000
+Fejér Nádasdladány 11736006-15362955-00000000
+Fejér Nagykarácsony 11736037-15361813-00000000
+Fejér Nagylók 11736051-15362553-00000000
+Fejér Nagyveleg 11736044-15362261-00000000
+Fejér Nagyvenyim 11736037-15361442-00000000
+Fejér Óbarok 11736020-15365697-00000000
+Fejér Pákozd 11736006-15362962-00000000
+Fejér Pátka 11736082-15362986-00000000
+Fejér Pázmánd 11736082-15362993-00000000
+Fejér Perkáta 11736037-15361820-00000000
+Fejér Polgárdi 11736099-15363004-00000000
+Fejér Pusztaszabolcs 11736037-15361844-00000000
+Fejér Pusztavám 11736044-15362278-00000000
+Fejér Rácalmás 11736037-15361868-00000000
+Fejér Ráckeresztúr 11500092-11130008-00000000
+Fejér Sárbogárd 11500092-11100001-00000000
+Fejér Sáregres 11736051-15364445-00000000
+Fejér Sárkeresztes 11736006-15363028-00000000
+Fejér Sárkeresztúr 11736051-15362618-00000000
+Fejér Sárkeszi 11736006-15364483-00000000
+Fejér Sárosd 11736051-15362560-00000000
+Fejér Sárszentágota 11736051-15364122-00000000
+Fejér Sárszentmihály 11736006-15363035-00000000
+Fejér Seregélyes 11736006-15363042-00000000
+Fejér Soponya 11736006-15363066-00000000
+Fejér Söréd 11736044-15364548-00000000
+Fejér Sukoró 11736006-15364517-00000000
+Fejér Szabadbattyán 11736006-15363073-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Fejér Szabadegyháza 11736051-15362632-00000000
+Fejér Szabadhídvég 11736051-15364373-00000000
+Fejér Szár 12023008-00262404-00100005
+Fejér Székesfehérvár 12023008-00153647-00100001
+Fejér Tabajd 11736020-15364256-00000000
+Fejér Tác 14220108-19173001-00000000
+Fejér Tordas 11736082-15363097-00000000
+Fejér Újbarok 12023008-00262426-00100007
+Fejér Úrhida 11736006-15364380-00000000
+Fejér Vajta 11736051-15364586-00000000
+Fejér Vál 11736020-15361576-00000000
+Fejér Velence 11736082-15363107-00000000
+Fejér Vereb 11736082-15361590-00000000
+Fejér Vértesacsa 11736020-15361600-00000000
+Fejér Vértesboglár 11736020-15364452-00000000
+Fejér Zámoly 11736006-15363121-00000000
+Fejér Zichyújfalu 11736082-15365604-00000000
+Győr-Moson-Sopron Abda 11737007-15366595-00000000
+Győr-Moson-Sopron Acsalag 11737069-15370093-00000000
+Győr-Moson-Sopron Ágfalva 11737083-15368212-00000000
+Győr-Moson-Sopron Agyagosszergény 11737100-15370103-00000000
+Győr-Moson-Sopron Árpás 11737007-15370110-00000000
+Győr-Moson-Sopron Ásványráró 14100165-58501849-01000001
+Győr-Moson-Sopron Babót 58900026-10017210-00000000
+Győr-Moson-Sopron Bágyogszovát 59600059-10012181-00000000
+Győr-Moson-Sopron Bakonygyirót 11748117-15431741-00000000
+Győr-Moson-Sopron Bakonypéterd 12096705-00300145-00100004
+Győr-Moson-Sopron Bakonyszentlászló 11600006-00000000-01903645
+Győr-Moson-Sopron Barbacs 11737069-15370127-00000000
+Győr-Moson-Sopron Beled 58900019-10025705-00000000
+Győr-Moson-Sopron Bezenye 59500131-10004854-00000000
+Győr-Moson-Sopron Bezi 11737069-15370134-00000000
+Győr-Moson-Sopron Bodonhely 11737069-15370141-00000000
+Győr-Moson-Sopron Bogyoszló 11737069-15366409-00000000
+Győr-Moson-Sopron Bőny 11737007-15366605-00000000
+Győr-Moson-Sopron Börcs 11737007-15370158-00000000
+Győr-Moson-Sopron Bősárkány 11737069-15366416-00000000
+Győr-Moson-Sopron Cakóháza 11737069-15370165-00000000
+Győr-Moson-Sopron Cirák 11737090-15370172-00000000
+Győr-Moson-Sopron Csáfordjánosfa 59100308-10044575-00000000
+Győr-Moson-Sopron Csapod 59100308-10041022-00000000
+Győr-Moson-Sopron Csér 11737083-15370206-00000000
+Győr-Moson-Sopron Csikvánd 11748045-15371551-00000000
+Győr-Moson-Sopron Csorna 10402142-21422838-00000000
+Győr-Moson-Sopron Darnózseli 12096705-00174624-00100009
+Győr-Moson-Sopron Dénesfa 58900019-11011499-00000000
+Győr-Moson-Sopron Dör 11737069-15370220-00000000
+Győr-Moson-Sopron Dunakiliti 11737076-15366894-00000000
+Győr-Moson-Sopron Dunaremete 58600214-10004531-00000000
+Győr-Moson-Sopron Dunaszeg 11737007-15366612-00000000
+Győr-Moson-Sopron Dunaszentpál 11737007-15370244-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Győr-Moson-Sopron Dunasziget 58600221-10007400-00000000
+Győr-Moson-Sopron Ebergőc 11737117-15370251-00000000
+Győr-Moson-Sopron Écs 59300223-15370282-00000000
+Győr-Moson-Sopron Edve 58900019-10025767-00000000
+Győr-Moson-Sopron Egyed 11737069-15366423-00000000
+Győr-Moson-Sopron Egyházasfalu 59100102-10001497-00000000
+Győr-Moson-Sopron Enese 11737007-15366430-00000000
+Győr-Moson-Sopron Farád 11737069-15371609-00000000
+Győr-Moson-Sopron Fehértó 11737069-15370299-00000000
+Győr-Moson-Sopron Feketeerdő 11737076-15370309-00000000
+Győr-Moson-Sopron Felpéc 11737007-15370316-00000000
+Győr-Moson-Sopron Fenyőfő 11748117-15431693-00000000
+Győr-Moson-Sopron Fertőboz 11737083-15370323-00000000
+Győr-Moson-Sopron Fertőd 12094318-00205468-00100002
+Győr-Moson-Sopron Fertőendréd 11737100-15370330-00000000
+Győr-Moson-Sopron Fertőhomok 11737083-15370347-00000000
+Győr-Moson-Sopron Fertőrákos 59100700-11028921-00000000
+Győr-Moson-Sopron Fertőszentmiklós 11737117-15367053-00000000
+Győr-Moson-Sopron Fertőszéplak 12094318-00327106-00100000
+Győr-Moson-Sopron Gönyű 10960008-00000002-62180009
+Győr-Moson-Sopron Gyalóka 59100205-10021976-00000000
+Győr-Moson-Sopron Gyarmat 59800125-11017732-00000000
+Győr-Moson-Sopron Gyóró 11737090-15370361-00000000
+Győr-Moson-Sopron Gyömöre 59800022-10000025-00000000
+Győr-Moson-Sopron Győr 11737007-15466004-00000000
+Győr-Moson-Sopron Győrasszonyfa 11737007-15369866-00000000
+Győr-Moson-Sopron Győrladamér 11737007-15370000-00000000
+Győr-Moson-Sopron Győrság 59300254-15369859-00000000
+Győr-Moson-Sopron Győrsövényház 11737069-15366454-00000000
+Győr-Moson-Sopron Győrszemere 11737007-15366636-00000000
+Győr-Moson-Sopron Győrújbarát 11737007-15366643-00000000
+Győr-Moson-Sopron Győrújfalu 12096705-00112872-00100006
+Győr-Moson-Sopron Győrzámoly 11737007-15366667-00000000
+Győr-Moson-Sopron Halászi 58600214-10004524-00000000
+Győr-Moson-Sopron Harka 11737083-15368236-00000000
+Győr-Moson-Sopron Hédervár 11737076-15366935-00000000
+Győr-Moson-Sopron Hegyeshalom 11737076-15366928-00000000
+Győr-Moson-Sopron Hegykő 12094318-00377739-00100001
+Győr-Moson-Sopron Hidegség 11737083-15370385-00000000
+Győr-Moson-Sopron Himod 11737090-15370392-00000000
+Győr-Moson-Sopron Hövej 58900040-11014825-00000000
+Győr-Moson-Sopron Ikrény 11737007-15366674-00000000
+Győr-Moson-Sopron Iván 59100308-10044458-00000000
+Győr-Moson-Sopron Jánossomorja 11737076-15366942-00000000
+Győr-Moson-Sopron Jobaháza 11737069-15370402-00000000
+Győr-Moson-Sopron Kajárpéc 59800039-10001260-00000000
+Győr-Moson-Sopron Kapuvár 11737090-15367297-00000000
+Győr-Moson-Sopron Károlyháza 12096705-00190655-00100003
+Győr-Moson-Sopron Kimle 12096705-00174404-00100009
+Győr-Moson-Sopron Kisbabot 11737069-15370419-00000000
+Győr-Moson-Sopron Kisbajcs 11737007-15366698-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Győr-Moson-Sopron Kisbodak 58600245-10004249-00000000
+Győr-Moson-Sopron Kisfalud 58900026-10016226-00000000
+Győr-Moson-Sopron Kóny 11737069-15366461-00000000
+Győr-Moson-Sopron Kópháza 11996004-06253048-10000001
+Győr-Moson-Sopron Koroncó 11737007-15366708-00000000
+Győr-Moson-Sopron Kunsziget 11737007-15370433-00000000
+Győr-Moson-Sopron Lázi 59300216-15431772-00000000
+Győr-Moson-Sopron Lébény 11737076-15366973-00000000
+Győr-Moson-Sopron Levél 11737076-15366966-00000000
+Győr-Moson-Sopron Lipót 11737076-15370440-00000000
+Győr-Moson-Sopron Lövő 59100102-10001033-00000000
+Győr-Moson-Sopron Maglóca 11737069-15370457-00000000
+Győr-Moson-Sopron Magyarkeresztúr 11737069-15370464-00000000
+Győr-Moson-Sopron Máriakálnok 58600238-11080604-00000000
+Győr-Moson-Sopron Markotabödöge 11737069-15370471-00000000
+Győr-Moson-Sopron Mecsér 11737076-15370488-00000000
+Győr-Moson-Sopron Mérges 11737069-15370495-00000000
+Győr-Moson-Sopron Mezőörs 11737007-15369873-00000000
+Győr-Moson-Sopron Mihályi 58900026-10017306-00000000
+Győr-Moson-Sopron Mórichida 11737007-15366485-00000000
+Győr-Moson-Sopron Mosonmagyaróvár 11737076-15367400-00000000
+Győr-Moson-Sopron Mosonszentmiklós 11737076-15369811-00000000
+Győr-Moson-Sopron Mosonszolnok 11737076-15366997-00000000
+Győr-Moson-Sopron Nagybajcs 11996389-06448385-10000001
+Győr-Moson-Sopron Nagycenk 10402142-21423341-00000000
+Győr-Moson-Sopron Nagylózs 11737083-15370505-00000000
+Győr-Moson-Sopron Nagyszentjános 11737007-15369842-00000000
+Győr-Moson-Sopron Nemeskér 59100102-10001820-00000000
+Győr-Moson-Sopron Nyalka 11737007-15370536-00000000
+Győr-Moson-Sopron Nyúl 11737007-15366715-00000000
+Győr-Moson-Sopron Osli 11737090-15368140-00000000
+Győr-Moson-Sopron Öttevény 11737007-15366722-00000000
+Győr-Moson-Sopron Páli 11737069-15366492-00000000
+Győr-Moson-Sopron Pannonhalma 59300247-15366791-00000000
+Győr-Moson-Sopron Pásztori 11737069-15370543-00000000
+Győr-Moson-Sopron Pázmándfalu 11737007-15366739-00000000
+Győr-Moson-Sopron Pér 12096705-00300189-00100008
+Győr-Moson-Sopron Pereszteg 59400103-10003365-00000000
+Győr-Moson-Sopron Petőháza 11737117-15370567-00000000
+Győr-Moson-Sopron Pinnye 12094002-00164002-00100000
+Győr-Moson-Sopron Potyond 11737069-15370581-00000000
+Győr-Moson-Sopron Pusztacsalád 11737083-15370598-00000000
+Győr-Moson-Sopron Püski 58600245-10002807-00000000
+Győr-Moson-Sopron Rábacsanak 11737069-15366502-00000000
+Győr-Moson-Sopron Rábacsécsény 11737069-15366519-00000000
+Győr-Moson-Sopron Rábakecöl 11737090-15370615-00000000
+Győr-Moson-Sopron Rábapatona 11737007-15366753-00000000
+Győr-Moson-Sopron Rábapordány 11737069-15366526-00000000
+Győr-Moson-Sopron Rábasebes 11737124-15370622-00000000
+Győr-Moson-Sopron Rábaszentandrás 11737124-15370639-00000000
+Győr-Moson-Sopron Rábaszentmihály 11737069-15370646-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Győr-Moson-Sopron Rábaszentmiklós 11737007-15370653-00000000
+Győr-Moson-Sopron Rábatamási 11737069-15366533-00000000
+Győr-Moson-Sopron Rábcakapi 11737069-15370660-00000000
+Győr-Moson-Sopron Rajka 11737076-15367015-00000000
+Győr-Moson-Sopron Ravazd 11737007-15370608-00000000
+Győr-Moson-Sopron Répceszemere 59100308-10044355-00000000
+Győr-Moson-Sopron Répcevis 59100205-10020597-00000000
+Győr-Moson-Sopron Rétalap 11737007-15371582-00000000
+Győr-Moson-Sopron Románd 11748117-15428206-00000000
+Győr-Moson-Sopron Röjtökmuzsaj 11737117-15370691-00000000
+Győr-Moson-Sopron Sarród 11737100-15370701-00000000
+Győr-Moson-Sopron Sikátor 12096705-00235575-00100002
+Győr-Moson-Sopron Sobor 11737124-15370718-00000000
+Győr-Moson-Sopron Sokorópátka 11737007-15370725-00000000
+Győr-Moson-Sopron Sopron 11737083-15367709-00000000
+Győr-Moson-Sopron Sopronhorpács 11737083-15367125-00000000
+Győr-Moson-Sopron Sopronkövesd 11737083-15370732-00000000
+Győr-Moson-Sopron Sopronnémeti 11737069-15370749-00000000
+Győr-Moson-Sopron Szakony 59100205-10021969-00000000
+Győr-Moson-Sopron Szany 11737124-15366540-00000000
+Győr-Moson-Sopron Szárföld 11737090-15368157-00000000
+Győr-Moson-Sopron Szerecseny 11748045-15371520-00000000
+Győr-Moson-Sopron Szil 59800118-10001026-00000000
+Győr-Moson-Sopron Szilsárkány 11737069-15366564-00000000
+Győr-Moson-Sopron Táp 11737007-15366760-00000000
+Győr-Moson-Sopron Tápszentmiklós 11737007-15369828-00000000
+Győr-Moson-Sopron Tarjánpuszta 59300247-15371513-00000000
+Győr-Moson-Sopron Tárnokréti 11737069-15370756-00000000
+Győr-Moson-Sopron Tényő 11737007-15366777-00000000
+Győr-Moson-Sopron Tét 11737007-15366801-00000000
+Győr-Moson-Sopron Töltéstava 11737007-15366784-00000000
+Győr-Moson-Sopron Újkér 11737083-15367156-00000000
+Győr-Moson-Sopron Újrónafő 11737076-15370062-00000000
+Győr-Moson-Sopron Und 11737083-15370763-00000000
+Győr-Moson-Sopron Vadosfa 58900026-10010598-00000000
+Győr-Moson-Sopron Vág 11737124-15370787-00000000
+Győr-Moson-Sopron Vámosszabadi 58400069-10000142-00000000
+Győr-Moson-Sopron Várbalog 11737076-15370804-00000000
+Győr-Moson-Sopron Vásárosfalu 58900019-10015108-00000000
+Győr-Moson-Sopron Vének 11737007-15370828-00000000
+Győr-Moson-Sopron Veszkény 11737090-15368164-00000000
+Győr-Moson-Sopron Veszprémvarsány 12096705-00235542-00100004
+Győr-Moson-Sopron Vitnyéd 11737090-15368171-00000000
+Győr-Moson-Sopron Völcsej 59100102-10001026-00000000
+Győr-Moson-Sopron Zsebeháza 59800118-10001349-00000000
+Győr-Moson-Sopron Zsira 59100205-10020535-00000000
+Hajdú-Bihar Álmosd 11738008-15375373-00000000
+Hajdú-Bihar Ártánd 11738101-15375256-00000000
+Hajdú-Bihar Bagamér 11738008-15373151-00000000
+Hajdú-Bihar Bakonszeg 11738046-15372868-00000000
+Hajdú-Bihar Balmazújváros 11738091-15373175-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Hajdú-Bihar Báránd 60700029-10001150-00000000
+Hajdú-Bihar Bedő 12052705-00225576-00100002
+Hajdú-Bihar Berekböszörmény 11738101-15375146-00000000
+Hajdú-Bihar Berettyóújfalu 11738046-15372459-00000000
+Hajdú-Bihar Bihardancsháza 11738053-15375438-00000000
+Hajdú-Bihar Biharkeresztes 12052705-00225521-00100002
+Hajdú-Bihar Biharnagybajom 11738053-15373601-00000000
+Hajdú-Bihar Bihartorda 12052705-00225246-00100002
+Hajdú-Bihar Bocskaikert 60400042-11012816-00000000
+Hajdú-Bihar Bojt 11738101-15375469-00000000
+Hajdú-Bihar Csökmő 11738046-15372978-00000000
+Hajdú-Bihar Darvas 11738046-15375342-00000000
+Hajdú-Bihar Debrecen 11738008-15461009-00000000
+Hajdú-Bihar Derecske 11738118-15372985-00000000
+Hajdú-Bihar Ebes 12052705-00225488-00100004
+Hajdú-Bihar Egyek 70100121-11072834-00000000
+Hajdú-Bihar Esztár 11738118-15375328-00000000
+Hajdú-Bihar Folyás 11738156-15376185-00000000
+Hajdú-Bihar Földes 12052705-00179277-00100004
+Hajdú-Bihar Furta 11738046-15375359-00000000
+Hajdú-Bihar Fülöp 11738008-15375153-00000000
+Hajdú-Bihar Gáborján 11738046-15375304-00000000
+Hajdú-Bihar Görbeháza 61200302-10021000-00000000
+Hajdú-Bihar Hajdúbagos 11738008-15375191-00000000
+Hajdú-Bihar Hajdúböszörmény 11738060-15372514-00000000
+Hajdú-Bihar Hajdúdorog 11738125-15373216-00000000
+Hajdú-Bihar Hajdúhadház 60400004-14000106-00000000
+Hajdú-Bihar Hajdúnánás 11738077-15372662-00000000
+Hajdú-Bihar Hajdúsámson 11738008-15373254-00000000
+Hajdú-Bihar Hajdúszoboszló 11738084-15372741-00000000
+Hajdú-Bihar Hajdúszovát 11738084-15372909-00000000
+Hajdú-Bihar Hencida 11738046-15373003-00000000
+Hajdú-Bihar Hortobágy 11738091-15373498-00000000
+Hajdú-Bihar Hosszúpályi 60600008-10005271-00000000
+Hajdú-Bihar Kaba 11738053-15373632-00000000
+Hajdú-Bihar Kismarja 11738046-15375335-00000000
+Hajdú-Bihar Kokad 11738008-15375397-00000000
+Hajdú-Bihar Komádi 11738132-15373034-00000000
+Hajdú-Bihar Konyár 11738118-15373010-00000000
+Hajdú-Bihar Körösszakál 11738132-15375177-00000000
+Hajdú-Bihar Körösszegapáti 11738046-15373058-00000000
+Hajdú-Bihar Létavértes 11738008-15373319-00000000
+Hajdú-Bihar Magyarhomorog 12052705-00225477-00100008
+Hajdú-Bihar Mezőpeterd 11738046-15375249-00000000
+Hajdú-Bihar Mezősas 11738046-15375184-00000000
+Hajdú-Bihar Mikepércs 11738008-15373515-00000000
+Hajdú-Bihar Monostorpályi 11738008-15375380-00000000
+Hajdú-Bihar Nádudvar 11738149-15373670-00000000
+Hajdú-Bihar Nagyhegyes 11738084-15372923-00000000
+Hajdú-Bihar Nagykereki 11738101-15375270-00000000
+Hajdú-Bihar Nagyrábé 11738053-15373656-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Hajdú-Bihar Nyírábrány 61400014-10005817-00000000
+Hajdú-Bihar Nyíracsád 11738008-15373553-00000000
+Hajdú-Bihar Nyíradony 11738008-15373333-00000000
+Hajdú-Bihar Nyírmártonfalva 11738008-15373577-00000000
+Hajdú-Bihar Pocsaj 11738046-15373096-00000000
+Hajdú-Bihar Polgár 11738156-15373388-00000000
+Hajdú-Bihar Püspökladány 11738053-15373694-00000000
+Hajdú-Bihar Sáp 11738053-15375201-00000000
+Hajdú-Bihar Sáránd 11738008-15373412-00000000
+Hajdú-Bihar Sárrétudvari 11738053-15373742-00000000
+Hajdú-Bihar Szentpéterszeg 11738046-15372875-00000000
+Hajdú-Bihar Szerep 11738053-15375445-00000000
+Hajdú-Bihar Téglás 11738008-15375809-00000000
+Hajdú-Bihar Tépe 11738118-15375483-00000000
+Hajdú-Bihar Tetétlen 11738053-15375421-00000000
+Hajdú-Bihar Tiszacsege 11738170-15373443-00000000
+Hajdú-Bihar Tiszagyulaháza 11738156-15375407-00000000
+Hajdú-Bihar Told 12052705-00225565-00100006
+Hajdú-Bihar Újiráz 11738046-15375294-00000000
+Hajdú-Bihar Újléta 11738008-15375476-00000000
+Hajdú-Bihar Újszentmargita 11738156-15375452-00000000
+Hajdú-Bihar Újtikos 61200230-10102055-00000000
+Hajdú-Bihar Vámospércs 61400007-10004737-00000000
+Hajdú-Bihar Váncsod 11738046-15373113-00000000
+Hajdú-Bihar Vekerd 11738046-15375366-00000000
+Hajdú-Bihar Zsáka 11738046-15373137-00000000
+Heves Abasár 61500011-10406713-00000000
+Heves Adács 14220108-18852008-00000000
+Heves Aldebrő 62800039-11025636-00000000
+Heves Andornaktálya 62800228-11022509-00000000
+Heves Apc 62100188-18000005-00000000
+Heves Átány 69400465-10000898-00000000
+Heves Atkár 14220108-18860005-00000000
+Heves Balaton 11739009-15379054-00000000
+Heves Bátor 11739009-15379061-00000000
+Heves Bekölce 11739009-15379092-00000000
+Heves Bélapátfalva 11739009-15379274-00000000
+Heves Besenyőtelek 11739023-15380449-00000000
+Heves Boconád 10402142-21423932-00000000
+Heves Bodony 62000112-10000018-00000000
+Heves Boldog 11739054-15380212-00000000
+Heves Bükkszék 62800376-11016164-00000000
+Heves Bükkszenterzsébet 11739085-15381653-00000000
+Heves Bükkszentmárton 11739009-15381581-00000000
+Heves Csány 14220108-18878002-00000000
+Heves Demjén 61900057-15100106-00000000
+Heves Detk 12032006-00112876-00100002
+Heves Domoszló 61800012-10010024-00000000
+Heves Dormánd 11739023-15381512-00000000
+Heves Ecséd 62100157-18000005-00000000
+Heves Eger 12033007-00102883-00100003
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Heves Egerbakta 62800273-11022358-00000000
+Heves Egerbocs 62800345-11016267-00000000
+Heves Egercsehi 62800338-10050271-00000000
+Heves Egerfarmos 61900071-15100106-00000000
+Heves Egerszalók 11739009-15379126-00000000
+Heves Egerszólát 62800053-11012232-00000000
+Heves Erdőkövesd 11739085-15381529-00000000
+Heves Erdőtelek 62000071-10000692-00000000
+Heves Erk 11739047-15381471-00000000
+Heves Fedémes 11739085-15381660-00000000
+Heves Feldebrő 62800022-11012146-00000000
+Heves Felsőtárkány 12033007-00327777-00100006
+Heves Füzesabony 11739023-15380580-00000000
+Heves Gyöngyös 12032006-00126693-00100006
+Heves Gyöngyöshalász 11739030-15380009-00000000
+Heves Gyöngyösoroszi 11994600-06240606-10000001
+Heves Gyöngyöspata 11739030-15378792-00000000
+Heves Gyöngyössolymos 11739030-15380023-00000000
+Heves Gyöngyöstarján 62000026-10001129-00000000
+Heves Halmajugra 11739030-15381701-00000000
+Heves Hatvan 11739054-15380250-00000000
+Heves Heréd 62100171-18000005-00000000
+Heves Heves 11739047-15379683-00000000
+Heves Hevesaranyos 11739009-15381574-00000000
+Heves Hevesvezekény 11739047-15379559-00000000
+Heves Hort 11739054-15378819-00000000
+Heves Istenmezeje 11739009-15379140-00000000
+Heves Ivád 11739085-15381536-00000000
+Heves Kál 61900105-15100106-00000000
+Heves Kápolna 61900095-15100106-00000000
+Heves Karácsond 11739030-15378826-00000000
+Heves Kerecsend 11739009-15379157-00000000
+Heves Kisfüzes 62800314-10006014-00000000
+Heves Kisköre 62600073-18010011-00000000
+Heves Kisnána 11739030-15378833-00000000
+Heves Kompolt 12033007-00112608-00100005
+Heves Kömlő 62000095-10000104-00000000
+Heves Lőrinci 11739078-15378950-00000000
+Heves Ludas 62600073-18010035-00000000
+Heves Maklár 11739009-15379164-00000000
+Heves Markaz 11739030-15378840-00000000
+Heves Mátraballa 11739009-15379171-00000000
+Heves Mátraderecske 11739009-15379188-00000000
+Heves Mátraszentimre 61500042-10481002-00000000
+Heves Mezőszemere 61900129-15100106-00000000
+Heves Mezőtárkány 61900064-15100106-00000000
+Heves Mikófalva 61600111-10000881-00000000
+Heves Mónosbél 11739009-15381608-00000000
+Heves Nagyfüged 11739030-15378936-00000000
+Heves Nagykökényes 11739054-15381725-00000000
+Heves Nagyréde 11739030-15378864-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Heves Nagytálya 11739009-15381639-00000000
+Heves Nagyút 11739061-15380542-00000000
+Heves Nagyvisnyó 11739009-15379195-00000000
+Heves Noszvaj 62800259-11022217-00000000
+Heves Novaj 11739009-15379205-00000000
+Heves Ostoros 11739009-15378022-00000000
+Heves Parád 11739009-15379298-00000000
+Heves Parádsasvár 11739009-15381646-00000000
+Heves Pély 69400441-10000283-00000000
+Heves Pétervására 11739085-15379353-00000000
+Heves Petőfibánya 62100212-10000647-00000000
+Heves Poroszló 61900136-15100106-00000000
+Heves Recsk 11739092-15379315-00000000
+Heves Rózsaszentmárton 62100164-18000012-00000000
+Heves Sarud 11739023-15380573-00000000
+Heves Sirok 62800046-11026077-00000000
+Heves Szajla 11739009-15381684-00000000
+Heves Szarvaskő 12033007-00103165-00100007
+Heves Szentdomonkos 62800321-11025942-00000000
+Heves Szihalom 61900112-15100106-00000000
+Heves Szilvásvárad 11739009-15379243-00000000
+Heves Szúcs 62800338-11022066-00000000
+Heves Szűcsi 62000033-10000551-00000000
+Heves Tarnabod 11739047-15379573-00000000
+Heves Tarnalelesz 11739085-15379250-00000000
+Heves Tarnaméra 11739047-15379580-00000000
+Heves Tarnaörs 62600073-18010028-00000000
+Heves Tarnaszentmária 62800015-11022138-00000000
+Heves Tarnaszentmiklós 69400111-10105357-00000000
+Heves Tarnazsadány 11739047-15379614-00000000
+Heves Tenk 62000088-10000197-00000000
+Heves Terpes 11739009-15379267-00000000
+Heves Tiszanána 11739047-15379645-00000000
+Heves Tófalu 62800039-11025519-00000000
+Heves Újlőrincfalva 11739023-15381794-00000000
+Heves Vámosgyörk 14220108-18845002-00000000
+Heves Váraszó 11739085-15381550-00000000
+Heves Vécs 11739030-15378905-00000000
+Heves Verpelét 62800015-11021931-00000000
+Heves Visonta 11739030-15378912-00000000
+Heves Visznek 11739030-15378929-00000000
+Heves Zagyvaszántó 11739078-15381732-00000000
+Heves Zaránk 62600011-15220015-00000000
+Komárom-Esztergom Ács 11740078-15385413-00000000
+Komárom-Esztergom Ácsteszér 62900043-15400420-00000000
+Komárom-Esztergom Aka 62900043-15400413-00000000
+Komárom-Esztergom Almásfüzitő 11740030-15385396-00000000
+Komárom-Esztergom Annavölgy 11740023-15388454-00000000
+Komárom-Esztergom Ászár 11740085-15388777-00000000
+Komárom-Esztergom Bábolna 11740016-15385482-00000000
+Komárom-Esztergom Baj 11740047-15386115-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Komárom-Esztergom Bajna 63100019-11042796-00000000
+Komárom-Esztergom Bajót 63100064-12005600-00000000
+Komárom-Esztergom Bakonybánk 62900074-15503138-00000000
+Komárom-Esztergom Bakonysárkány 62900067-15385451-00000000
+Komárom-Esztergom Bakonyszombathely 62900012-10000094-00000000
+Komárom-Esztergom Bana 63200016-11020727-00000000
+Komárom-Esztergom Bársonyos 62900081-10000128-00000000
+Komárom-Esztergom Bokod 63000012-11004699-00000000
+Komárom-Esztergom Császár 62900036-10000180-00000000
+Komárom-Esztergom Csatka 62900043-15400406-00000000
+Komárom-Esztergom Csém 11740030-15387329-00000000
+Komárom-Esztergom Csép 11740030-15387336-00000000
+Komárom-Esztergom Csolnok 11740023-15385729-00000000
+Komárom-Esztergom Dad 63000036-15300368-00000000
+Komárom-Esztergom Dág 11740023-15385736-00000000
+Komárom-Esztergom Dorog 11740023-15385743-00000000
+Komárom-Esztergom Dömös 12025000-00119232-00100007
+Komárom-Esztergom Dunaalmás 11740047-15386122-00000000
+Komárom-Esztergom Dunaszentmiklós 11740047-15387453-00000000
+Komárom-Esztergom Epöl 63100019-11043216-00000000
+Komárom-Esztergom Esztergom 12025000-00170092-00100008
+Komárom-Esztergom Ete 11740085-15387068-00000000
+Komárom-Esztergom Gyermely 63100136-12006405-00000000
+Komárom-Esztergom Héreg 63500086-11034555-00000000
+Komárom-Esztergom Kecskéd 63300020-12000980-00000000
+Komárom-Esztergom Kerékteleki 62900081-10805019-00000000
+Komárom-Esztergom Kesztölc 11740023-15385774-00000000
+Komárom-Esztergom Kisbér 12028003-00103265-00100000
+Komárom-Esztergom Kisigmánd 11740030-15387367-00000000
+Komárom-Esztergom Kocs 11740047-15386139-00000000
+Komárom-Esztergom Komárom 12029004-00204291-00100003
+Komárom-Esztergom Kömlőd 11740061-15386256-00000000
+Komárom-Esztergom Környe 63300013-11110017-00000000
+Komárom-Esztergom Lábatlan 11740092-15385781-00000000
+Komárom-Esztergom Leányvár 12025000-00217337-00100000
+Komárom-Esztergom Máriahalom 11740023-15387051-00000000
+Komárom-Esztergom Mocsa 11740030-15385554-00000000
+Komárom-Esztergom Mogyorósbánya 11740054-15387374-00000000
+Komárom-Esztergom Nagyigmánd 63200054-11023658-00000000
+Komárom-Esztergom Nagysáp 11740023-15385815-00000000
+Komárom-Esztergom Naszály 11740047-15386146-00000000
+Komárom-Esztergom Neszmély 63500017-11030403-00000000
+Komárom-Esztergom Nyergesújfalu 11740092-15385822-00000000
+Komárom-Esztergom Oroszlány 12028003-00254374-00100004
+Komárom-Esztergom Piliscsév 63100088-12005600-00000000
+Komárom-Esztergom Pilismarót 12025000-00208790-00100003
+Komárom-Esztergom Réde 62900074-15386971-00000000
+Komárom-Esztergom Sárisáp 63100033-11000011-00000000
+Komárom-Esztergom Súr 62900029-15200361-00000000
+Komárom-Esztergom Süttő 63500055-11037338-00000000
+Komárom-Esztergom Szákszend 63200030-15308775-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Komárom-Esztergom Szárliget 12028003-00111735-00100001
+Komárom-Esztergom Szomód 63500062-11034902-00000000
+Komárom-Esztergom Szomor 11740009-15387037-00000000
+Komárom-Esztergom Tardos 63500079-11034328-00000000
+Komárom-Esztergom Tarján 63500086-11038377-00000000
+Komárom-Esztergom Tárkány 63200085-15800538-00000000
+Komárom-Esztergom Tát 12025000-00217381-00100001
+Komárom-Esztergom Tata 11500906-10005642-00000000
+Komárom-Esztergom Tatabánya 11740009-15384481-00000000
+Komárom-Esztergom Tokod 12025000-00201486-00100004
+Komárom-Esztergom Tokodaltáró 11740023-15388021-00000000
+Komárom-Esztergom Úny 11740023-15387398-00000000
+Komárom-Esztergom Várgesztes 11740009-15387044-00000000
+Komárom-Esztergom Vérteskethely 62900050-15387408-00000000
+Komárom-Esztergom Vértessomló 11740009-15386263-00000000
+Komárom-Esztergom Vértestolna 63500079-11030300-00000000
+Komárom-Esztergom Vértesszőlős 11740009-15386328-00000000
+Nógrád Alsópetény 11741031-15451464-00000000
+Nógrád Alsótold 11741024-15450834-00000000
+Nógrád Balassagyarmat 11741017-15450346-00000000
+Nógrád Bánk 11741031-15452362-00000000
+Nógrád Bárna 11741000-15451024-00000000
+Nógrád Bátonyterenye 11741048-15451017-00000000
+Nógrád Becske 11741017-15451828-00000000
+Nógrád Bér 11741024-15452001-00000000
+Nógrád Bercel 11741017-15450683-00000000
+Nógrád Berkenye 11741031-15453693-00000000
+Nógrád Bokor 11741024-15452018-00000000
+Nógrád Borsosberény 11741031-15451471-00000000
+Nógrád Buják 11741024-15450841-00000000
+Nógrád Cered 64100122-15700153-00000000
+Nógrád Csécse 11741024-15452032-00000000
+Nógrád Cserháthaláp 11741017-15451835-00000000
+Nógrád Cserhátsurány 11741017-15450690-00000000
+Nógrád Cserhátszentiván 11741024-15452025-00000000
+Nógrád Csesztve 11741017-15451842-00000000
+Nógrád Csitár 11741017-15451859-00000000
+Nógrád Debercsény 63600100-16004436-00000000
+Nógrád Dejtár 11741017-15450717-00000000
+Nógrád Diósjenő 11741031-15451622-00000000
+Nógrád Dorogháza 11741048-15450951-00000000
+Nógrád Drégelypalánk 63800070-10000922-00000000
+Nógrád Ecseg 11741024-15452678-00000000
+Nógrád Egyházasdengeleg 11741024-15452049-00000000
+Nógrád Egyházasgerge 11741000-15452207-00000000
+Nógrád Endrefalva 11741062-15451251-00000000
+Nógrád Erdőkürt 11741024-15452056-00000000
+Nógrád Erdőtarcsa 11741024-15452063-00000000
+Nógrád Érsekvadkert 64000015-15450731-00000000
+Nógrád Etes 11741000-15451048-00000000
+Nógrád Felsőpetény 11741031-15451488-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Nógrád Felsőtold 11741024-15452070-00000000
+Nógrád Galgaguta 11741017-15451873-00000000
+Nógrád Garáb 12026609-00127043-00100004
+Nógrád Héhalom 11741024-15453703-00000000
+Nógrád Herencsény 11741017-15451880-00000000
+Nógrád Hollókő 11741062-15451347-00000000
+Nógrád Hont 63800056-10050264-00000000
+Nógrád Horpács 11741031-15451505-00000000
+Nógrád Hugyag 63600942-16200010-00000000
+Nógrád Iliny 11741017-15451907-00000000
+Nógrád Ipolytarnóc 11741000-15452214-00000000
+Nógrád Ipolyvece 63800025-10020205-00000000
+Nógrád Jobbágyi 11741024-15450865-00000000
+Nógrád Kálló 11741024-15450872-00000000
+Nógrád Karancsalja 11741000-15452221-00000000
+Nógrád Karancsberény 11741000-15452238-00000000
+Nógrád Karancskeszi 11741000-15451062-00000000
+Nógrád Karancslapujtő 11741000-15451079-00000000
+Nógrád Karancsság 11741062-15451268-00000000
+Nógrád Kazár 64100160-16000047-00000000
+Nógrád Keszeg 11741031-15451529-00000000
+Nógrád Kétbodony 63600935-16400014-00000000
+Nógrád Kisbágyon 11741024-15452094-00000000
+Nógrád Kisbárkány 11741048-15450968-00000000
+Nógrád Kisecset 11741031-15451536-00000000
+Nógrád Kishartyán 11741000-15451093-00000000
+Nógrád Kozárd 12026609-00125169-00100003
+Nógrád Kutasó 12026609-00127041-00100006
+Nógrád Legénd 11741031-15451543-00000000
+Nógrád Litke 64100098-15200172-00000000
+Nógrád Lucfalva 11741000-15450975-00000000
+Nógrád Ludányhalászi 11741062-15451282-00000000
+Nógrád Magyargéc 75700300-10000654-00000000
+Nógrád Magyarnándor 11741017-15450748-00000000
+Nógrád Márkháza 11741048-15450982-00000000
+Nógrád Mátramindszent 11741048-15451103-00000000
+Nógrád Mátranovák 11741048-15452489-00000000
+Nógrád Mátraszele 11741000-15452245-00000000
+Nógrád Mátraszőlős 11741024-15452135-00000000
+Nógrád Mátraterenye 11741048-15451055-00000000
+Nógrád Mátraverebély 11741048-15451110-00000000
+Nógrád Mihálygerge 11741000-15451299-00000000
+Nógrád Mohora 11741017-15453459-00000000
+Nógrád Nagybárkány 11741048-15451127-00000000
+Nógrád Nagykeresztúr 11741048-15452836-00000000
+Nógrád Nagylóc 11741062-15451309-00000000
+Nógrád Nagyoroszi 11741031-15451653-00000000
+Nógrád Nemti 11741048-15451134-00000000
+Nógrád Nézsa 11741031-15451660-00000000
+Nógrád Nógrád 11741031-15451677-00000000
+Nógrád Nógrádkövesd 11741017-15450755-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Nógrád Nógrádmarcal 11741017-15451914-00000000
+Nógrád Nógrádmegyer 75700300-10000719-00000000
+Nógrád Nógrádsáp 11741031-15451550-00000000
+Nógrád Nógrádsipek 11741062-15451361-00000000
+Nógrád Nógrádszakál 11741062-15451378-00000000
+Nógrád Nőtincs 11741031-15451684-00000000
+Nógrád Őrhalom 11741017-15450762-00000000
+Nógrád Ősagárd 11741031-15451567-00000000
+Nógrád Palotás 11741024-15450896-00000000
+Nógrád Pásztó 11741024-15450827-00000000
+Nógrád Patak 11741017-15453710-00000000
+Nógrád Patvarc 11741017-15451983-00000000
+Nógrád Piliny 11741062-15451385-00000000
+Nógrád Pusztaberki 11741031-15451574-00000000
+Nógrád Rákóczibánya 64100160-11021766-00000000
+Nógrád Rétság 11741031-15451615-00000000
+Nógrád Rimóc 75700702-10070011-00000000
+Nógrád Romhány 11741031-15451639-00000000
+Nógrád Ságújfalu 11741062-15451392-00000000
+Nógrád Salgótarján 10402142-49565051-57501001
+Nógrád Sámsonháza 11741048-15451000-00000000
+Nógrád Sóshartyán 11741000-15452252-00000000
+Nógrád Szalmatercs 11741062-15451402-00000000
+Nógrád Szanda 11741017-15450779-00000000
+Nógrád Szarvasgede 11741024-15452128-00000000
+Nógrád Szátok 11741031-15451581-00000000
+Nógrád Szécsénke 11741017-15451921-00000000
+Nógrád Szécsény 10402142-21424304-00000000
+Nógrád Szécsényfelfalu 11741062-15451419-00000000
+Nógrád Szendehely 11741031-15451598-00000000
+Nógrád Szente 11741031-15451608-00000000
+Nógrád Szilaspogony 64100122-11022303-00000000
+Nógrád Szirák 11741024-15450906-00000000
+Nógrád Szuha 11741048-15451141-00000000
+Nógrád Szurdokpüspöki 11741024-15450913-00000000
+Nógrád Szügy 11741017-15453442-00000000
+Nógrád Tar 11741024-15450920-00000000
+Nógrád Terény 11741017-15451938-00000000
+Nógrád Tereske 11741031-15451691-00000000
+Nógrád Tolmács 11741031-15452654-00000000
+Nógrád Vanyarc 11741024-15450937-00000000
+Nógrád Varsány 75700609-10600089-00000000
+Nógrád Vizslás 11741000-15451158-00000000
+Nógrád Zabar 64100122-15700249-00000000
+Pest Abony 11993609-06147486-10000104
+Pest Acsa 11742094-15393977-00000000
+Pest Albertirsa 11742159-15390723-00000000
+Pest Alsónémedi 64400068-10602184-00000000
+Pest Apaj 12001008-00330098-00100000
+Pest Áporka 11742214-15441702-00000000
+Pest Aszód 12001008-00169993-00100004
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Pest Bag 64100191-11008514-00000000
+Pest Bénye 65800069-10610071-00000000
+Pest Bernecebaráti 11742094-15441599-00000000
+Pest Biatorbágy 64500058-10000018-00000000
+Pest Budajenő 11742001-15390204-00000000
+Pest Budakalász 12001008-00173183-00100006
+Pest Budakeszi 11742348-15390022-00000000
+Pest Budaörs 11742173-15390053-00000000
+Pest Bugyi 64400020-10202368-00000000
+Pest Cegléd 11742025-15394772-00000000
+Pest Ceglédbercel 11742025-15390747-00000000
+Pest Csemő 11742025-15390761-00000000
+Pest Csévharaszt 11742056-15441245-00000000
+Pest Csobánka 11742087-15393678-00000000
+Pest Csomád 11742094-15441764-00000000
+Pest Csömör 12001008-00131603-00100007
+Pest Csörög 11742094-15566685-00000000
+Pest Csővár 11742094-15441609-00000000
+Pest Dabas 64400099-10918018-00000000
+Pest Dánszentmiklós 11742025-15390785-00000000
+Pest Dány 11742049-15391456-00000000
+Pest Délegyháza 11742180-15441654-00000000
+Pest Diósd 10402142-21423750-00000000
+Pest Domony 11742166-15441582-00000000
+Pest Dömsöd 11742070-15393159-00000000
+Pest Dunabogdány 11742087-15393685-00000000
+Pest Dunaharaszti 11742180-15393173-00000000
+Pest Dunakeszi 14100196-62000549-01000009
+Pest Dunavarsány 11742180-15393197-00000000
+Pest Ecser 11742197-15391982-00000000
+Pest Érd 11742111-15394909-00000000
+Pest Erdőkertes 11742049-15391470-00000000
+Pest Farmos 65200050-11110017-00000000
+Pest Felsőpakony 10402142-21423406-00000000
+Pest Fót 11742104-15393991-00000000
+Pest Galgagyörk 11742094-15441836-00000000
+Pest Galgahévíz 11742049-15391494-00000000
+Pest Galgamácsa 11742049-15391504-00000000
+Pest Gomba 65800069-10610019-00000000
+Pest Göd 11742104-15394019-00000000
+Pest Gödöllő 12001008-00155330-00100004
+Pest Gyál 11742300-15391140-00000000
+Pest Gyömrő 11742197-15392017-00000000
+Pest Halásztelek 11742252-15393317-00000000
+Pest Herceghalom 11742001-15441630-00000000
+Pest Hernád 11742032-15440660-00000000
+Pest Hévízgyörk 12001008-00132828-00100003
+Pest Iklad 11742166-15441575-00000000
+Pest Inárcs 12001008-00103527-00100009
+Pest Ipolydamásd 11742269-15441805-00000000
+Pest Ipolytölgyes 11742094-15441726-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Pest Isaszeg 11742049-15391528-00000000
+Pest Jászkarajenő 11742207-15390802-00000000
+Pest Kakucs 65500082-30009452-51000012
+Pest Kartal 12001008-00379158-00100000
+Pest Káva 11742056-15441685-00000000
+Pest Kemence 11742094-15394112-00000000
+Pest Kerepes 12001008-00103138-00100003
+Pest Kiskunlacháza 11742214-15393214-00000000
+Pest Kismaros 11742094-15441221-00000000
+Pest Kisnémedi 11742094-15441771-00000000
+Pest Kisoroszi 11742087-15393692-00000000
+Pest Kistarcsa 11742324-15565804-00000000
+Pest Kocsér 65800124-11016528-00000000
+Pest Kóka 11742063-15392567-00000000
+Pest Kosd 11742094-15394136-00000000
+Pest Kóspallag 11742094-15441850-00000000
+Pest Kőröstetétlen 11742207-15441647-00000000
+Pest Leányfalu 11742087-15393702-00000000
+Pest Letkés 11742094-15394143-00000000
+Pest Lórév 11742070-15441874-00000000
+Pest Maglód 11600006-00000000-10716531
+Pest Majosháza 11742214-15441661-00000000
+Pest Makád 11742070-15441915-00000000
+Pest Márianosztra 11742269-15441795-00000000
+Pest Mende 11742056-15392055-00000000
+Pest Mikebuda 11742159-15390840-00000000
+Pest Mogyoród 11742049-15391580-00000000
+Pest Monor 11742056-15392079-00000000
+Pest Nagybörzsöny 11742094-15394150-00000000
+Pest Nagykáta 11742063-15392581-00000000
+Pest Nagykovácsi 11600006-00000000-10677285
+Pest Nagykőrös 10915008-00000003-70920005
+Pest Nagymaros 11742094-15394033-00000000
+Pest Nagytarcsa 11742324-15391597-00000000
+Pest Nyáregyháza 65100101-10100266-00000000
+Pest Nyársapát 65800090-10550018-00000000
+Pest Ócsa 12001008-00200716-00100003
+Pest Őrbottyán 12001008-00233342-00100006
+Pest Örkény 11742032-15391205-00000000
+Pest Pánd 65800038-10370012-00000000
+Pest Páty 11742001-15390235-00000000
+Pest Pécel 11742331-15391607-00000000
+Pest Penc 11742094-15441290-00000000
+Pest Perbál 10402142-49565050-49511006
+Pest Perőcsény 11742276-15441812-00000000
+Pest Péteri 11742056-15441568-00000000
+Pest Pilis 11742238-15392103-00000000
+Pest Pilisborosjenő 11742001-15441276-00000000
+Pest Piliscsaba 11742245-15390084-00000000
+Pest Pilisjászfalu 11742245-15565811-00000000
+Pest Pilisszántó 65700031-10810013-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Pest Pilisszentiván 11742245-15390259-00000000
+Pest Pilisszentkereszt 65700110-10810013-00000000
+Pest Pilisszentlászló 11742087-15393733-00000000
+Pest Pilisvörösvár 11742245-15390101-00000000
+Pest Pócsmegyer 11742087-15393740-00000000
+Pest Pomáz 11742087-15393757-00000000
+Pest Pusztavacs 11742032-15441788-00000000
+Pest Pusztazámor 11742111-15441908-00000000
+Pest Püspökhatvan 11742094-15441843-00000000
+Pest Püspökszilágy 11742094-15441719-00000000
+Pest Ráckeve 11742070-15393238-00000000
+Pest Rád 11742094-15394167-00000000
+Pest Remeteszőlős 11742001-15566678-00000000
+Pest Solymár 11742245-15390125-00000000
+Pest Sóskút 11742111-15390266-00000000
+Pest Sülysáp 11742056-15392127-00000000
+Pest Szada 11742049-15391621-00000000
+Pest Százhalombatta 11999007-03100013-00000000
+Pest Szentendre 12001008-00122568-00100003
+Pest Szentlőrinckáta 11742063-15392615-00000000
+Pest Szentmártonkáta 11742063-15392622-00000000
+Pest Szigetbecse 11742070-15441898-00000000
+Pest Szigetcsép 11742070-15441740-00000000
+Pest Szigethalom 12001008-00201552-00100000
+Pest Szigetmonostor 11742087-15393764-00000000
+Pest Szigetszentmárton 11742070-15393252-00000000
+Pest Szigetszentmiklós 11742252-15393276-00000000
+Pest Szigetújfalu 11742070-15441757-00000000
+Pest Szob 11742269-15394071-00000000
+Pest Szokolya 11742094-15441252-00000000
+Pest Sződ 11742094-15394181-00000000
+Pest Sződliget 11742094-15394208-00000000
+Pest Táborfalva 11742032-15441283-00000000
+Pest Tahitótfalu 11742087-15393771-00000000
+Pest Taksony 11742180-15393355-00000000
+Pest Tápióbicske 11742063-15392646-00000000
+Pest Tápiógyörgye 65200012-11110017-00000000
+Pest Tápióság 11742063-15392677-00000000
+Pest Tápiószecső 11742063-15392684-00000000
+Pest Tápiószele 65200043-10010055-00000000
+Pest Tápiószentmárton 10402142-49555751-53561029
+Pest Tápiószőlős 11742025-15392749-00000000
+Pest Tárnok 11742111-15390149-00000000
+Pest Tatárszentgyörgy 11742032-15391229-00000000
+Pest Telki 11742348-15441881-00000000
+Pest Tésa 11742276-15441829-00000000
+Pest Tinnye 11742001-15441953-00000000
+Pest Tóalmás 11742063-15392756-00000000
+Pest Tök 11742001-15441939-00000000
+Pest Tököl 11742252-15393290-00000000
+Pest Törökbálint 10950009-00000002-58160008
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Pest Törtel 65800100-10450011-00000000
+Pest Tura 12001008-00379356-00100008
+Pest Újhartyán 11742032-15391236-00000000
+Pest Újlengyel 65500075-11003746-00000000
+Pest Újszilvás 12001008-00264219-00100003
+Pest Úri 65100156-10052819-00000000
+Pest Üllő 11742056-15392141-00000000
+Pest Üröm 11742001-15390280-00000000
+Pest Vác 11742094-15395429-00000000
+Pest Vácduka 11742094-15441867-00000000
+Pest Vácegres 11742049-15441616-00000000
+Pest Váchartyán 11742094-15394222-00000000
+Pest Váckisújfalu 11742049-15441733-00000000
+Pest Vácrátót 11742094-15441623-00000000
+Pest Vácszentlászló 11742049-15441692-00000000
+Pest Valkó 11742049-15391652-00000000
+Pest Vámosmikola 11742276-15394246-00000000
+Pest Vasad 65100077-10071043-00000000
+Pest Vecsés 11742283-15392165-00000000
+Pest Veresegyház 11742049-15391676-00000000
+Pest Verőce 11742094-15394095-00000000
+Pest Verseg 11742166-15391690-00000000
+Pest Visegrád 11742087-15393788-00000000
+Pest Zebegény 11742094-15394260-00000000
+Pest Zsámbék 11742001-15390187-00000000
+Pest Zsámbok 11742049-15440983-00000000
+Somogy Ádánd 11743040-15396035-00000000
+Somogy Alsóbogát 11743002-15570372-00000000
+Somogy Andocs 11743112-15396372-00000000
+Somogy Babócsa 66300029-15200725-00000000
+Somogy Bábonymegyer 10200548-39810177-00000000
+Somogy Bakháza 11743033-15398271-00000000
+Somogy Balatonberény 11743095-15396860-00000000
+Somogy Balatonboglár 10403930-39311719-00000000
+Somogy Balatonendréd 11743040-15397995-00000000
+Somogy Balatonfenyves 11743095-15399052-00000000
+Somogy Balatonföldvár 11743040-15396059-00000000
+Somogy Balatonkeresztúr 66900045-11009993-00000000
+Somogy Balatonlelle 11743064-15401005-00000000
+Somogy Balatonmáriafürdő 66900045-10003176-00000000
+Somogy Balatonőszöd 11743040-15399461-00000000
+Somogy Balatonszabadi 11743040-15396073-00000000
+Somogy Balatonszárszó 11743040-15396080-00000000
+Somogy Balatonszemes 11743040-15396437-00000000
+Somogy Balatonszentgyörgy 11743026-15396547-00000000
+Somogy Balatonújlak 11743095-15397892-00000000
+Somogy Bálványos 11743040-15400918-00000000
+Somogy Barcs 11743057-15397191-00000000
+Somogy Bárdudvarnok 11743002-15398903-00000000
+Somogy Baté 11743002-15400231-00000000
+Somogy Bedegkér 66100180-10000087-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Somogy Bélavár 66300098-15900793-00000000
+Somogy Beleg 11743033-15397270-00000000
+Somogy Berzence 66300108-15210016-00000000
+Somogy Bodrog 11743002-15400860-00000000
+Somogy Bolhás 11743033-15396066-00000000
+Somogy Bolhó 66300029-15201441-00000000
+Somogy Bonnya 11743112-15400028-00000000
+Somogy Böhönye 67000124-10005006-00000000
+Somogy Bőszénfa 11743002-15397160-00000000
+Somogy Buzsák 67100437-15300210-00000000
+Somogy Büssü 11743002-15400097-00000000
+Somogy Csákány 11743026-15400073-00000000
+Somogy Cserénfa 11743002-15400248-00000000
+Somogy Csokonyavisonta 66300036-15301228-00000000
+Somogy Csoma 11743002-15400767-00000000
+Somogy Csombárd 14220108-23662009-00000000
+Somogy Csököly 11743002-15397500-00000000
+Somogy Csömend 11743026-15400743-00000000
+Somogy Csurgó 11743088-15398518-00000000
+Somogy Csurgónagymarton 11743088-15400932-00000000
+Somogy Darány 66300043-15400987-00000000
+Somogy Drávagárdony 66300043-15400736-00000000
+Somogy Drávatamási 66300043-15400781-00000000
+Somogy Ecseny 11743002-15400406-00000000
+Somogy Edde 11743002-15400884-00000000
+Somogy Felsőmocsolád 11743002-15400413-00000000
+Somogy Fiad 11743112-15400121-00000000
+Somogy Fonó 11743002-15400224-00000000
+Somogy Fonyód 11743095-15396516-00000000
+Somogy Főnyed 11743026-15398460-00000000
+Somogy Gadács 67100327-13000141-00000000
+Somogy Gadány 67000090-11014186-00000000
+Somogy Gálosfa 11743002-15397957-00000000
+Somogy Gamás 11743064-15396097-00000000
+Somogy Gige 11743002-15399227-00000000
+Somogy Gölle 67100310-10000616-00000000
+Somogy Görgeteg 11743033-15398525-00000000
+Somogy Gyékényes 66300115-15211914-00000000
+Somogy Gyugy 11743105-15398295-00000000
+Somogy Hács 11743105-15398288-00000000
+Somogy Hajmás 11743002-15400255-00000000
+Somogy Háromfa 11743033-15398532-00000000
+Somogy Hedrehely 11743002-15399306-00000000
+Somogy Hencse 11743002-15399320-00000000
+Somogy Heresznye 66300098-15900597-00000000
+Somogy Hetes 14220108-23654002-00000000
+Somogy Hollád 11743026-15399258-00000000
+Somogy Homokszentgyörgy 66300067-15601126-00000000
+Somogy Hosszúvíz 67000090-11014320-00000000
+Somogy Igal 11743002-15397562-00000000
+Somogy Iharos 67000100-10082012-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Somogy Iharosberény 67000100-10001002-00000000
+Somogy Inke 11743088-15400080-00000000
+Somogy Istvándi 66300043-15400853-00000000
+Somogy Jákó 11743002-15398477-00000000
+Somogy Juta 67100138-11009821-00000000
+Somogy Kadarkút 11743002-15397586-00000000
+Somogy Kálmáncsa 66300081-15800985-00000000
+Somogy Kánya 11743112-15400499-00000000
+Somogy Kapoly 10403916-39110549-00000000
+Somogy Kaposfő 11743002-15397603-00000000
+Somogy Kaposgyarmat 11743002-15400262-00000000
+Somogy Kaposhomok 11743002-15400293-00000000
+Somogy Kaposkeresztúr 11743002-15398484-00000000
+Somogy Kaposmérő 11743002-15397627-00000000
+Somogy Kaposszerdahely 10700172-26005500-51100005
+Somogy Kaposújlak 11743002-15398910-00000000
+Somogy Kaposvár 11743002-15398006-00000000
+Somogy Kára 11743112-15398824-00000000
+Somogy Karád 11743112-15396107-00000000
+Somogy Kastélyosdombó 66300043-15400918-00000000
+Somogy Kaszó 11743033-15570389-00000000
+Somogy Kazsok 11743002-15399399-00000000
+Somogy Keleviz 11743026-15400327-00000000
+Somogy Kercseliget 11743002-15400042-00000000
+Somogy Kereki 11743040-15400987-00000000
+Somogy Kéthely 66900014-10001679-00000000
+Somogy Kisasszond 11743002-15400389-00000000
+Somogy Kisbajom 11743033-15398989-00000000
+Somogy Kisbárapáti 11743112-15396121-00000000
+Somogy Kisberény 11743105-15398305-00000000
+Somogy Kisgyalán 11743002-15400107-00000000
+Somogy Kiskorpád 11743002-15400396-00000000
+Somogy Komlósd 66300029-15200952-00000000
+Somogy Kőkút 11743002-15399337-00000000
+Somogy Kőröshegy 11743040-15400341-00000000
+Somogy Kötcse 10700172-26019101-51100005
+Somogy Kutas 11743033-15398556-00000000
+Somogy Lábod 11743033-15398563-00000000
+Somogy Lad 11743057-15397919-00000000
+Somogy Lakócsa 11743057-15397249-00000000
+Somogy Látrány 11743064-15396152-00000000
+Somogy Lengyeltóti 11743105-15396523-00000000
+Somogy Libickozma 67100451-15500575-00000000
+Somogy Lulla 10403916-39111825-00000000
+Somogy Magyaratád 11743002-15399416-00000000
+Somogy Magyaregres 11743002-15398817-00000000
+Somogy Marcali 10403947-39411321-00000000
+Somogy Mernye 11743002-15397641-00000000
+Somogy Mesztegnyő 67000090-10005006-00000000
+Somogy Mezőcsokonya 11743002-15397878-00000000
+Somogy Mike 11743002-15399296-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Somogy Miklósi 11743112-15400963-00000000
+Somogy Mosdós 11743002-15400035-00000000
+Somogy Nágocs 11743112-15396176-00000000
+Somogy Nagyatád 10403954-39511548-00000000
+Somogy Nagybajom 11743143-15397672-00000000
+Somogy Nagyberény 11743040-15396918-00000000
+Somogy Nagyberki 11743002-15397696-00000000
+Somogy Nagycsepely 11743040-15399485-00000000
+Somogy Nagykorpád 11743033-15399272-00000000
+Somogy Nagyszakácsi 11743026-15398862-00000000
+Somogy Nemesdéd 11743026-15398965-00000000
+Somogy Nemeskisfalud 67000124-10007008-00000000
+Somogy Nemesvid 11743026-15396578-00000000
+Somogy Nikla 11743026-15396846-00000000
+Somogy Nyim 66100142-10001174-00000000
+Somogy Orci 11743002-15400217-00000000
+Somogy Ordacsehi 11743095-15398855-00000000
+Somogy Osztopán 11743002-15400877-00000000
+Somogy Öreglak 67100413-15101530-00000000
+Somogy Őrtilos 11743088-15398453-00000000
+Somogy Ötvöskónyi 11743033-15570396-00000000
+Somogy Pálmajor 11743143-15570200-00000000
+Somogy Pamuk 67100420-15201063-00000000
+Somogy Patalom 11743002-15399423-00000000
+Somogy Patca 10700172-25293304-51100005
+Somogy Patosfa 11743057-15397902-00000000
+Somogy Péterhida 66300029-15200866-00000000
+Somogy Pogányszentpéter 67000100-10081901-00000000
+Somogy Polány 11743002-15400420-00000000
+Somogy Porrog 66300122-15213686-00000000
+Somogy Porrogszentkirály 66300122-15213741-00000000
+Somogy Porrogszentpál 66300122-15213820-00000000
+Somogy Potony 11743057-15397988-00000000
+Somogy Pusztakovácsi 67100451-15500465-00000000
+Somogy Pusztaszemes 11743040-15400891-00000000
+Somogy Ráksi 11743002-15399409-00000000
+Somogy Rinyabesenyő 11743033-15399289-00000000
+Somogy Rinyakovácsi 11743002-15399234-00000000
+Somogy Rinyaszentkirály 11743033-15399382-00000000
+Somogy Rinyaújlak 11743057-15398408-00000000
+Somogy Rinyaújnép 66300029-15201049-00000000
+Somogy Ságvár 11743040-15396183-00000000
+Somogy Sántos 11743002-15397940-00000000
+Somogy Sávoly 11743026-15396592-00000000
+Somogy Segesd 11743033-15398587-00000000
+Somogy Sérsekszőlős 11743112-15400475-00000000
+Somogy Simonfa 11743002-15397713-00000000
+Somogy Siófok 11639002-06180700-39000008
+Somogy Siójut 11743040-15397287-00000000
+Somogy Som 66100142-10000283-00000000
+Somogy Somodor 11743002-15400437-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Somogy Somogyacsa 66100166-10000788-00000000
+Somogy Somogyaracs 66300029-15201142-00000000
+Somogy Somogyaszaló 11743002-15398233-00000000
+Somogy Somogybabod 11743064-15398927-00000000
+Somogy Somogybükkösd 66300122-15214003-00000000
+Somogy Somogycsicsó 11743088-15400949-00000000
+Somogy Somogydöröcske 66100166-10018345-00000000
+Somogy Somogyegres 11743112-15400619-00000000
+Somogy Somogyfajsz 67100451-15500331-00000000
+Somogy Somogygeszti 11743002-15400444-00000000
+Somogy Somogyjád 11743002-15397720-00000000
+Somogy Somogymeggyes 10403916-39110556-00000000
+Somogy Somogysámson 11743026-15396602-00000000
+Somogy Somogysárd 11743002-15397751-00000000
+Somogy Somogysimonyi 11743026-15398491-00000000
+Somogy Somogyszentpál 11743026-15400059-00000000
+Somogy Somogyszil 67100327-13000055-00000000
+Somogy Somogyszob 11743033-15398594-00000000
+Somogy Somogytúr 11743064-15398934-00000000
+Somogy Somogyudvarhely 66300139-15213837-00000000
+Somogy Somogyvámos 11743105-15396145-00000000
+Somogy Somogyvár 67100420-10000245-00000000
+Somogy Somogyzsitfa 11743026-15400066-00000000
+Somogy Szabadi 11743002-15400798-00000000
+Somogy Szabás 11743033-15398972-00000000
+Somogy Szántód 11743040-15570781-00000000
+Somogy Szegerdő 11743026-15396138-00000000
+Somogy Szenna 10700172-25292705-51100005
+Somogy Szenta 11743088-15400956-00000000
+Somogy Szentbalázs 11743002-15397782-00000000
+Somogy Szentborbás 11743057-15397964-00000000
+Somogy Szentgáloskér 11743002-15400451-00000000
+Somogy Szenyér 67000124-10006007-00000000
+Somogy Szilvásszentmárton 10700172-25293005-51100005
+Somogy Szólád 11743040-15400334-00000000
+Somogy Szorosad 66100166-10000180-00000000
+Somogy Szőkedencs 11743026-15399492-00000000
+Somogy Szőlősgyörök 11743105-15398336-00000000
+Somogy Szulok 66300081-15800820-00000000
+Somogy Tab 11743112-15396028-00000000
+Somogy Tapsony 11743026-15396626-00000000
+Somogy Tarany 11743033-15398374-00000000
+Somogy Táska 67100437-15300681-00000000
+Somogy Taszár 11743002-15397809-00000000
+Somogy Teleki 10700172-26020802-51100005
+Somogy Tengőd 11743112-15400822-00000000
+Somogy Tikos 11743026-15399265-00000000
+Somogy Torvaj 11743112-15400626-00000000
+Somogy Tótújfalu 11743057-15397971-00000000
+Somogy Törökkoppány 66100166-10000049-00000000
+Somogy Ujvárfalva 11743002-15400152-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Somogy Varászló 11743026-15400114-00000000
+Somogy Várda 11743002-15400901-00000000
+Somogy Vése 11743026-15396633-00000000
+Somogy Visnye 11743002-15399313-00000000
+Somogy Visz 11743064-15398941-00000000
+Somogy Vízvár 66300098-15900346-00000000
+Somogy Vörs 11743026-15398886-00000000
+Somogy Zákány 66300146-15214065-00000000
+Somogy Zákányfalu 11743088-15571304-00000000
+Somogy Zala 10403916-39111870-00000000
+Somogy Zamárdi 11743040-15397012-00000000
+Somogy Zics 66100159-10000269-00000000
+Somogy Zimány 11743002-15398240-00000000
+Somogy Zselickisfalud 10700172-25292901-51100005
+Somogy Zselickislak 11743002-15397177-00000000
+Somogy Zselicszentpál 11743002-15397184-00000000
+Szabolcs-Szatmár-Bereg Ajak 11744034-15403722-00000000
+Szabolcs-Szatmár-Bereg Anarcs 11744034-15403746-00000000
+Szabolcs-Szatmár-Bereg Apagy 11744003-15404273-00000000
+Szabolcs-Szatmár-Bereg Aranyosapáti 67800168-11020693-00000000
+Szabolcs-Szatmár-Bereg Baktalórántháza 11744072-15404280-00000000
+Szabolcs-Szatmár-Bereg Balkány 11744089-15404008-00000000
+Szabolcs-Szatmár-Bereg Balsa 11744003-15443261-00000000
+Szabolcs-Szatmár-Bereg Barabás 11744065-15405126-00000000
+Szabolcs-Szatmár-Bereg Bátorliget 11744058-15404039-00000000
+Szabolcs-Szatmár-Bereg Benk 67900103-11014337-00000000
+Szabolcs-Szatmár-Bereg Beregdaróc 11744065-15442246-00000000
+Szabolcs-Szatmár-Bereg Beregsurány 11744065-15405140-00000000
+Szabolcs-Szatmár-Bereg Berkesz 11744034-15442851-00000000
+Szabolcs-Szatmár-Bereg Besenyőd 11744003-15443278-00000000
+Szabolcs-Szatmár-Bereg Beszterec 11744003-15443285-00000000
+Szabolcs-Szatmár-Bereg Biri 68800075-11044602-00000000
+Szabolcs-Szatmár-Bereg Botpalád 11744027-15442514-00000000
+Szabolcs-Szatmár-Bereg Bököny 68800020-11034940-00000000
+Szabolcs-Szatmár-Bereg Buj 11744003-15404338-00000000
+Szabolcs-Szatmár-Bereg Cégénydányád 67800027-11020655-00000000
+Szabolcs-Szatmár-Bereg Csaholc 11744027-15405315-00000000
+Szabolcs-Szatmár-Bereg Csaroda 67800113-11014904-00000000
+Szabolcs-Szatmár-Bereg Császló 11744027-15442521-00000000
+Szabolcs-Szatmár-Bereg Csegöld 11744027-15442538-00000000
+Szabolcs-Szatmár-Bereg Csenger 11744096-15404864-00000000
+Szabolcs-Szatmár-Bereg Csengersima 11744096-15443003-00000000
+Szabolcs-Szatmár-Bereg Csengerújfalu 11744096-15443010-00000000
+Szabolcs-Szatmár-Bereg Darnó 11744027-15442545-00000000
+Szabolcs-Szatmár-Bereg Demecser 11744003-15404352-00000000
+Szabolcs-Szatmár-Bereg Dombrád 11744003-15403753-00000000
+Szabolcs-Szatmár-Bereg Döge 11744034-15403777-00000000
+Szabolcs-Szatmár-Bereg Encsencs 11744058-15404046-00000000
+Szabolcs-Szatmár-Bereg Eperjeske 67900017-10013656-00000000
+Szabolcs-Szatmár-Bereg Érpatak 68800051-11047265-00000000
+Szabolcs-Szatmár-Bereg Fábiánháza 11744041-15443027-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Szabolcs-Szatmár-Bereg Fehérgyarmat 11744027-15403485-00000000
+Szabolcs-Szatmár-Bereg Fényeslitke 11744034-15403784-00000000
+Szabolcs-Szatmár-Bereg Fülesd 67800041-11018960-00000000
+Szabolcs-Szatmár-Bereg Fülpösdaróc 11744041-15443034-00000000
+Szabolcs-Szatmár-Bereg Gacsály 11744027-15442033-00000000
+Szabolcs-Szatmár-Bereg Garbolc 11744027-15442569-00000000
+Szabolcs-Szatmár-Bereg Gávavencsellő 68500184-15002077-00000000
+Szabolcs-Szatmár-Bereg Géberjén 11744041-15443041-00000000
+Szabolcs-Szatmár-Bereg Gégény 11744034-15403791-00000000
+Szabolcs-Szatmár-Bereg Gelénes 11744065-15443405-00000000
+Szabolcs-Szatmár-Bereg Gemzse 11744065-15442143-00000000
+Szabolcs-Szatmár-Bereg Geszteréd 68800044-11046082-00000000
+Szabolcs-Szatmár-Bereg Gulács 11744065-15443412-00000000
+Szabolcs-Szatmár-Bereg Győröcske 11744168-15442875-00000000
+Szabolcs-Szatmár-Bereg Győrtelek 11744041-15443058-00000000
+Szabolcs-Szatmár-Bereg Gyulaháza 11744034-15403801-00000000
+Szabolcs-Szatmár-Bereg Gyügye 11744027-15442576-00000000
+Szabolcs-Szatmár-Bereg Gyüre 11744065-15443591-00000000
+Szabolcs-Szatmár-Bereg Hermánszeg 11744027-15442583-00000000
+Szabolcs-Szatmár-Bereg Hetefejércse 67800113-11014928-00000000
+Szabolcs-Szatmár-Bereg Hodász 10700402-25304600-51100005
+Szabolcs-Szatmár-Bereg Ibrány 14100055-73521649-01000000
+Szabolcs-Szatmár-Bereg Ilk 11744065-15405171-00000000
+Szabolcs-Szatmár-Bereg Jánd 11744065-15403461-00000000
+Szabolcs-Szatmár-Bereg Jánkmajtis 67800010-11018805-00000000
+Szabolcs-Szatmár-Bereg Jármi 11744041-15404943-00000000
+Szabolcs-Szatmár-Bereg Jéke 11744034-15442882-00000000
+Szabolcs-Szatmár-Bereg Kállósemjén 11744058-15404053-00000000
+Szabolcs-Szatmár-Bereg Kálmánháza 11744003-15404390-00000000
+Szabolcs-Szatmár-Bereg Kántorjánosi 68900010-10309829-00000000
+Szabolcs-Szatmár-Bereg Kék 11744003-15443292-00000000
+Szabolcs-Szatmár-Bereg Kékcse 11744034-15402673-00000000
+Szabolcs-Szatmár-Bereg Kemecse 11744003-15404431-00000000
+Szabolcs-Szatmár-Bereg Kérsemjén 11744027-15442590-00000000
+Szabolcs-Szatmár-Bereg Kisar 11744027-15405346-00000000
+Szabolcs-Szatmár-Bereg Kishódos 11744027-15442600-00000000
+Szabolcs-Szatmár-Bereg Kisléta 11744058-15442507-00000000
+Szabolcs-Szatmár-Bereg Kisnamény 11744027-15442617-00000000
+Szabolcs-Szatmár-Bereg Kispalád 11744027-15442624-00000000
+Szabolcs-Szatmár-Bereg Kisszekeres 11744027-15442631-00000000
+Szabolcs-Szatmár-Bereg Kisvárda 10402142-21423509-00000000
+Szabolcs-Szatmár-Bereg Kisvarsány 11744065-15443436-00000000
+Szabolcs-Szatmár-Bereg Kocsord 11744041-15402800-00000000
+Szabolcs-Szatmár-Bereg Komlódtótfalu 11744096-15443072-00000000
+Szabolcs-Szatmár-Bereg Komoró 11744034-15442150-00000000
+Szabolcs-Szatmár-Bereg Kótaj 11744003-15404455-00000000
+Szabolcs-Szatmár-Bereg Kölcse 11744027-15405353-00000000
+Szabolcs-Szatmár-Bereg Kömörő 67800027-11033490-00000000
+Szabolcs-Szatmár-Bereg Laskod 11993300-06446053-10000001
+Szabolcs-Szatmár-Bereg Levelek 11744003-15404462-00000000
+Szabolcs-Szatmár-Bereg Lónya 11744065-15405188-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Szabolcs-Szatmár-Bereg Lövőpetri 11744034-15442909-00000000
+Szabolcs-Szatmár-Bereg Magosliget 11744027-15442655-00000000
+Szabolcs-Szatmár-Bereg Magy 11744003-15442992-00000000
+Szabolcs-Szatmár-Bereg Mánd 11744027-15442662-00000000
+Szabolcs-Szatmár-Bereg Mándok 11744034-15403818-00000000
+Szabolcs-Szatmár-Bereg Máriapócs 11744058-15404084-00000000
+Szabolcs-Szatmár-Bereg Márokpapi 11744065-15443443-00000000
+Szabolcs-Szatmár-Bereg Mátészalka 11744041-15402680-00000000
+Szabolcs-Szatmár-Bereg Mátyus 11744065-15443450-00000000
+Szabolcs-Szatmár-Bereg Méhtelek 11744027-15442679-00000000
+Szabolcs-Szatmár-Bereg Mérk 11744041-15404950-00000000
+Szabolcs-Szatmár-Bereg Mezőladány 11744034-15403849-00000000
+Szabolcs-Szatmár-Bereg Milota 11744027-15442686-00000000
+Szabolcs-Szatmár-Bereg Nábrád 11744027-15405391-00000000
+Szabolcs-Szatmár-Bereg Nagyar 11744027-15442693-00000000
+Szabolcs-Szatmár-Bereg Nagycserkesz 11744003-15404479-00000000
+Szabolcs-Szatmár-Bereg Nagydobos 11744041-15404974-00000000
+Szabolcs-Szatmár-Bereg Nagyecsed 11744041-15404981-00000000
+Szabolcs-Szatmár-Bereg Nagyhalász 11744003-15404486-00000000
+Szabolcs-Szatmár-Bereg Nagyhódos 11744027-15442703-00000000
+Szabolcs-Szatmár-Bereg Nagykálló 11744120-15404503-00000000
+Szabolcs-Szatmár-Bereg Nagyszekeres 11744027-15405377-00000000
+Szabolcs-Szatmár-Bereg Nagyvarsány 11744065-15405267-00000000
+Szabolcs-Szatmár-Bereg Napkor 11744003-15404541-00000000
+Szabolcs-Szatmár-Bereg Nemesborzova 11744027-15442710-00000000
+Szabolcs-Szatmár-Bereg Nyírbátor 11744058-15403571-00000000
+Szabolcs-Szatmár-Bereg Nyírbéltek 11744058-15404101-00000000
+Szabolcs-Szatmár-Bereg Nyírbogát 11744058-15404125-00000000
+Szabolcs-Szatmár-Bereg Nyírbogdány 11993300-06345794-10000001
+Szabolcs-Szatmár-Bereg Nyírcsaholy 11744041-15402824-00000000
+Szabolcs-Szatmár-Bereg Nyírcsászári 11993300-06155751-10000001
+Szabolcs-Szatmár-Bereg Nyírderzs 11744058-15442167-00000000
+Szabolcs-Szatmár-Bereg Nyíregyháza 11744003-15402006-00000000
+Szabolcs-Szatmár-Bereg Nyírgelse 11744058-15443216-00000000
+Szabolcs-Szatmár-Bereg Nyírgyulaj 11744058-15404156-00000000
+Szabolcs-Szatmár-Bereg Nyíribrony 11744003-15404572-00000000
+Szabolcs-Szatmár-Bereg Nyírjákó 11993300-06446046-10000001
+Szabolcs-Szatmár-Bereg Nyírkarász 11744034-15403856-00000000
+Szabolcs-Szatmár-Bereg Nyírkáta 11744041-15442174-00000000
+Szabolcs-Szatmár-Bereg Nyírkércs 11744072-15443319-00000000
+Szabolcs-Szatmár-Bereg Nyírlövő 11744034-15442916-00000000
+Szabolcs-Szatmár-Bereg Nyírlugos 12042809-00171093-00100008
+Szabolcs-Szatmár-Bereg Nyírmada 11744065-15405195-00000000
+Szabolcs-Szatmár-Bereg Nyírmeggyes 11744041-15405009-00000000
+Szabolcs-Szatmár-Bereg Nyírmihálydi 11744058-15404187-00000000
+Szabolcs-Szatmár-Bereg Nyírparasznya 11744041-15443089-00000000
+Szabolcs-Szatmár-Bereg Nyírpazony 11744003-15404589-00000000
+Szabolcs-Szatmár-Bereg Nyírpilis 11744058-15443223-00000000
+Szabolcs-Szatmár-Bereg Nyírtass 10700048-04834504-51100005
+Szabolcs-Szatmár-Bereg Nyírtelek 11744003-15404596-00000000
+Szabolcs-Szatmár-Bereg Nyírtét 11744003-15443326-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Szabolcs-Szatmár-Bereg Nyírtura 11744003-15404613-00000000
+Szabolcs-Szatmár-Bereg Nyírvasvári 11744058-15403674-00000000
+Szabolcs-Szatmár-Bereg Ófehértó 11744058-15404204-00000000
+Szabolcs-Szatmár-Bereg Olcsva 11744065-15403478-00000000
+Szabolcs-Szatmár-Bereg Olcsvaapáti 11744027-15442727-00000000
+Szabolcs-Szatmár-Bereg Ópályi 11744041-15402848-00000000
+Szabolcs-Szatmár-Bereg Ököritófülpös 11744041-15405016-00000000
+Szabolcs-Szatmár-Bereg Ömböly 11744058-15443230-00000000
+Szabolcs-Szatmár-Bereg Őr 11744041-15443096-00000000
+Szabolcs-Szatmár-Bereg Panyola 11744027-15405401-00000000
+Szabolcs-Szatmár-Bereg Pap 11744034-15403887-00000000
+Szabolcs-Szatmár-Bereg Papos 11744041-15443106-00000000
+Szabolcs-Szatmár-Bereg Paszab 11744003-15443333-00000000
+Szabolcs-Szatmár-Bereg Pátroha 11744034-15403894-00000000
+Szabolcs-Szatmár-Bereg Pátyod 11744041-15443113-00000000
+Szabolcs-Szatmár-Bereg Penészlek 11744058-15404228-00000000
+Szabolcs-Szatmár-Bereg Penyige 11744027-15405418-00000000
+Szabolcs-Szatmár-Bereg Petneháza 11993300-06345945-10000001
+Szabolcs-Szatmár-Bereg Piricse 11744058-15404235-00000000
+Szabolcs-Szatmár-Bereg Pócspetri 11744058-15443247-00000000
+Szabolcs-Szatmár-Bereg Porcsalma 11993300-06345907-10000001
+Szabolcs-Szatmár-Bereg Pusztadobos 11744065-15443467-00000000
+Szabolcs-Szatmár-Bereg Rakamaz 68500012-11028897-00000000
+Szabolcs-Szatmár-Bereg Ramocsaháza 11744072-15442181-00000000
+Szabolcs-Szatmár-Bereg Rápolt 11744041-15443120-00000000
+Szabolcs-Szatmár-Bereg Rétközberencs 11744034-15442923-00000000
+Szabolcs-Szatmár-Bereg Rohod 68900010-10310991-00000000
+Szabolcs-Szatmár-Bereg Rozsály 11744027-15405425-00000000
+Szabolcs-Szatmár-Bereg Sényő 68500115-15000958-00000000
+Szabolcs-Szatmár-Bereg Sonkád 11744027-15442734-00000000
+Szabolcs-Szatmár-Bereg Szabolcs 11744003-15443357-00000000
+Szabolcs-Szatmár-Bereg Szabolcsbáka 11744034-15442198-00000000
+Szabolcs-Szatmár-Bereg Szabolcsveresmart 11744034-15403911-00000000
+Szabolcs-Szatmár-Bereg Szakoly 11744089-15404242-00000000
+Szabolcs-Szatmár-Bereg Szamosangyalos 11744096-15443144-00000000
+Szabolcs-Szatmár-Bereg Szamosbecs 11744096-15443151-00000000
+Szabolcs-Szatmár-Bereg Szamoskér 11744041-15443168-00000000
+Szabolcs-Szatmár-Bereg Szamossályi 11744027-15442741-00000000
+Szabolcs-Szatmár-Bereg Szamosszeg 11744041-15405047-00000000
+Szabolcs-Szatmár-Bereg Szamostatárfalva 11744096-15443175-00000000
+Szabolcs-Szatmár-Bereg Szamosújlak 11744027-15442758-00000000
+Szabolcs-Szatmár-Bereg Szatmárcseke 11744027-15405449-00000000
+Szabolcs-Szatmár-Bereg Székely 11744003-15443364-00000000
+Szabolcs-Szatmár-Bereg Szorgalmatos 68700016-10134092-00000000
+Szabolcs-Szatmár-Bereg Tákos 67800113-11014935-00000000
+Szabolcs-Szatmár-Bereg Tarpa 67800106-11014894-00000000
+Szabolcs-Szatmár-Bereg Terem 11744058-15443254-00000000
+Szabolcs-Szatmár-Bereg Tiborszállás 11744041-15443182-00000000
+Szabolcs-Szatmár-Bereg Timár 11744003-15404651-00000000
+Szabolcs-Szatmár-Bereg Tiszaadony 11744065-15442208-00000000
+Szabolcs-Szatmár-Bereg Tiszabecs 67800034-11020679-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Szabolcs-Szatmár-Bereg Tiszabercel 11744003-15404668-00000000
+Szabolcs-Szatmár-Bereg Tiszabezdéd 11744034-15403928-00000000
+Szabolcs-Szatmár-Bereg Tiszacsécse 11744027-15442765-00000000
+Szabolcs-Szatmár-Bereg Tiszadada 11744137-15404675-00000000
+Szabolcs-Szatmár-Bereg Tiszadob 11744137-15404682-00000000
+Szabolcs-Szatmár-Bereg Tiszaeszlár 68500012-11034500-00000000
+Szabolcs-Szatmár-Bereg Tiszakanyár 11744003-15442930-00000000
+Szabolcs-Szatmár-Bereg Tiszakerecseny 11744065-15443481-00000000
+Szabolcs-Szatmár-Bereg Tiszakóród 11744027-15442215-00000000
+Szabolcs-Szatmár-Bereg Tiszalök 11744137-15404716-00000000
+Szabolcs-Szatmár-Bereg Tiszamogyorós 11744034-15442947-00000000
+Szabolcs-Szatmár-Bereg Tiszanagyfalu 68500153-11032371-00000000
+Szabolcs-Szatmár-Bereg Tiszarád 11744003-15443388-00000000
+Szabolcs-Szatmár-Bereg Tiszaszalka 11744065-15405250-00000000
+Szabolcs-Szatmár-Bereg Tiszaszentmárton 11744168-15442954-00000000
+Szabolcs-Szatmár-Bereg Tiszatelek 11744003-15443395-00000000
+Szabolcs-Szatmár-Bereg Tiszavasvári 11744144-15404761-00000000
+Szabolcs-Szatmár-Bereg Tiszavid 11744065-15443498-00000000
+Szabolcs-Szatmár-Bereg Tisztaberek 11744027-15442772-00000000
+Szabolcs-Szatmár-Bereg Tivadar 11744065-15443508-00000000
+Szabolcs-Szatmár-Bereg Tornyospálca 11744034-15403935-00000000
+Szabolcs-Szatmár-Bereg Tunyogmatolcs 11744027-15405487-00000000
+Szabolcs-Szatmár-Bereg Túristvándi 11744027-15442789-00000000
+Szabolcs-Szatmár-Bereg Túrricse 11744027-15442796-00000000
+Szabolcs-Szatmár-Bereg Tuzsér 11744034-15403959-00000000
+Szabolcs-Szatmár-Bereg Tyukod 11744041-15405054-00000000
+Szabolcs-Szatmár-Bereg Újdombrád 11744003-15442961-00000000
+Szabolcs-Szatmár-Bereg Újfehértó 68800013-11039141-00000000
+Szabolcs-Szatmár-Bereg Újkenéz 11744034-15442978-00000000
+Szabolcs-Szatmár-Bereg Ura 11744041-15443199-00000000
+Szabolcs-Szatmár-Bereg Uszka 11993300-06345983-10000001
+Szabolcs-Szatmár-Bereg Vaja 11744041-15405078-00000000
+Szabolcs-Szatmár-Bereg Vállaj 11744041-15443209-00000000
+Szabolcs-Szatmár-Bereg Vámosatya 11744065-15443515-00000000
+Szabolcs-Szatmár-Bereg Vámosoroszi 67800027-11022080-00000000
+Szabolcs-Szatmár-Bereg Vásárosnamény 11744065-15403399-00000000
+Szabolcs-Szatmár-Bereg Vasmegyer 11744003-15404833-00000000
+Szabolcs-Szatmár-Bereg Záhony 11744168-15403966-00000000
+Szabolcs-Szatmár-Bereg Zajta 11744027-15442820-00000000
+Szabolcs-Szatmár-Bereg Zsarolyán 11744027-15442837-00000000
+Szabolcs-Szatmár-Bereg Zsurk 11744168-15442985-00000000
+Jász-Nagykun-Szolnok Abádszalók 70100028-11065742-00000000
+Jász-Nagykun-Szolnok Alattyán 69100055-10500972-00000000
+Jász-Nagykun-Szolnok Berekfürdő 11745073-15413477-00000000
+Jász-Nagykun-Szolnok Besenyszög 10700309-42074203-51100005
+Jász-Nagykun-Szolnok Cibakháza 11745042-15409838-00000000
+Jász-Nagykun-Szolnok Csataszög 11745004-15413941-00000000
+Jász-Nagykun-Szolnok Csépa 69800023-15200062-00000000
+Jász-Nagykun-Szolnok Cserkeszőlő 11745042-15409852-00000000
+Jász-Nagykun-Szolnok Fegyvernek 11745066-15409993-00000000
+Jász-Nagykun-Szolnok Hunyadfalva 10402142-49565254-54571008
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Jász-Nagykun-Szolnok Jánoshida 11745035-15409584-00000000
+Jász-Nagykun-Szolnok Jászágó 11745121-15412524-00000000
+Jász-Nagykun-Szolnok Jászalsószentgyörgy 11745035-15409601-00000000
+Jász-Nagykun-Szolnok Jászapáti 11745114-15409625-00000000
+Jász-Nagykun-Szolnok Jászárokszállás 11745121-15409656-00000000
+Jász-Nagykun-Szolnok Jászberény 11745035-15408442-00000000
+Jász-Nagykun-Szolnok Jászboldogháza 11745035-15409687-00000000
+Jász-Nagykun-Szolnok Jászdózsa 11745035-15409704-00000000
+Jász-Nagykun-Szolnok Jászfelsőszentgyörgy 69500125-11013439-00000000
+Jász-Nagykun-Szolnok Jászfényszaru 11745035-15409728-00000000
+Jász-Nagykun-Szolnok Jászivány 11745114-15412586-00000000
+Jász-Nagykun-Szolnok Jászjákóhalma 11745035-15409742-00000000
+Jász-Nagykun-Szolnok Jászkisér 11745114-15409766-00000000
+Jász-Nagykun-Szolnok Jászladány 11745138-15409780-00000000
+Jász-Nagykun-Szolnok Jászszentandrás 11745114-15409814-00000000
+Jász-Nagykun-Szolnok Jásztelek 11745035-15412108-00000000
+Jász-Nagykun-Szolnok Karcag 11745073-15408576-00000000
+Jász-Nagykun-Szolnok Kenderes 11745080-15410010-00000000
+Jász-Nagykun-Szolnok Kengyel 11745066-15410034-00000000
+Jász-Nagykun-Szolnok Kétpó 11745097-15408923-00000000
+Jász-Nagykun-Szolnok Kisujszállás 11745080-15408710-00000000
+Jász-Nagykun-Szolnok Kőtelek 10402142-49565254-55481003
+Jász-Nagykun-Szolnok Kuncsorba 11745066-15412270-00000000
+Jász-Nagykun-Szolnok Kunhegyes 11745145-15410072-00000000
+Jász-Nagykun-Szolnok Kunmadaras 11745152-15410285-00000000
+Jász-Nagykun-Szolnok Kunszentmárton 11745042-15409890-00000000
+Jász-Nagykun-Szolnok Martfű 11745169-15410106-00000000
+Jász-Nagykun-Szolnok Mesterszállás 69800047-11015716-00000000
+Jász-Nagykun-Szolnok Mezőhék 11745097-15412555-00000000
+Jász-Nagykun-Szolnok Mezőtúr 11745097-15408796-00000000
+Jász-Nagykun-Szolnok Nagyiván 70100080-11068714-00000000
+Jász-Nagykun-Szolnok Nagykörű 11745004-15412067-00000000
+Jász-Nagykun-Szolnok Nagyrév 69800054-15500214-00000000
+Jász-Nagykun-Szolnok Öcsöd 69800061-15601236-00000000
+Jász-Nagykun-Szolnok Örményes 11745066-15410120-00000000
+Jász-Nagykun-Szolnok Pusztamonostor 11745035-15412548-00000000
+Jász-Nagykun-Szolnok Rákóczifalva 11745004-15409302-00000000
+Jász-Nagykun-Szolnok Rákócziújfalu 69900037-11010656-00000000
+Jász-Nagykun-Szolnok Szajol 11745004-15409326-00000000
+Jász-Nagykun-Szolnok Szászberek 11745004-15412287-00000000
+Jász-Nagykun-Szolnok Szelevény 11745042-15413415-00000000
+Jász-Nagykun-Szolnok Szolnok 11745004-15408930-00000000
+Jász-Nagykun-Szolnok Tiszabő 11745066-15410151-00000000
+Jász-Nagykun-Szolnok Tiszabura 70100042-11065120-00000000
+Jász-Nagykun-Szolnok Tiszaderzs 70100035-11055956-00000000
+Jász-Nagykun-Szolnok Tiszaföldvár 11745176-15410168-00000000
+Jász-Nagykun-Szolnok Tiszafüred 70100011-11073471-00000000
+Jász-Nagykun-Szolnok Tiszagyenda 11745066-15412304-00000000
+Jász-Nagykun-Szolnok Tiszaigar 11745059-15412517-00000000
+Jász-Nagykun-Szolnok Tiszainoka 69800085-15800222-00000000
+Jász-Nagykun-Szolnok Tiszajenő 11745004-15410209-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Jász-Nagykun-Szolnok Tiszakürt 69800085-15800198-00000000
+Jász-Nagykun-Szolnok Tiszaörs 70100059-11068628-00000000
+Jász-Nagykun-Szolnok Tiszapüspöki 69900044-11010584-00000000
+Jász-Nagykun-Szolnok Tiszaroff 11745066-15410395-00000000
+Jász-Nagykun-Szolnok Tiszasas 11745042-15412081-00000000
+Jász-Nagykun-Szolnok Tiszasüly 11745004-15412074-00000000
+Jász-Nagykun-Szolnok Tiszaszentimre 11745059-15410412-00000000
+Jász-Nagykun-Szolnok Tiszaszőlős 70100073-11069069-00000000
+Jász-Nagykun-Szolnok Tiszatenyő 11745066-15409498-00000000
+Jász-Nagykun-Szolnok Tiszavárkony 12050002-00111542-00100005
+Jász-Nagykun-Szolnok Tomajmonostora 11745059-15412311-00000000
+Jász-Nagykun-Szolnok Tószeg 11745004-15409340-00000000
+Jász-Nagykun-Szolnok Törökszentmiklós 11745066-15409364-00000000
+Jász-Nagykun-Szolnok Túrkeve 11745107-15409508-00000000
+Jász-Nagykun-Szolnok Újszász 70300053-15410223-00000000
+Jász-Nagykun-Szolnok Vezseny 11745004-15412328-00000000
+Jász-Nagykun-Szolnok Zagyvarékas 70300015-15410247-00000000
+Tolna Alsónána 11746005-15414045-00000000
+Tolna Alsónyék 11746005-15417770-00000000
+Tolna Aparhant 11746036-15415352-00000000
+Tolna Attala 71800109-11089380-00000000
+Tolna Báta 11746005-15414052-00000000
+Tolna Bátaapáti 71800013-11119597-00000000
+Tolna Bátaszék 11746005-15414076-00000000
+Tolna Belecska 11746029-15417842-00000000
+Tolna Bikács 11746081-15417866-00000000
+Tolna Bogyiszló 70600140-11066987-00000000
+Tolna Bonyhád 11746036-15415187-00000000
+Tolna Bonyhádvarasd 71800013-11305608-00000000
+Tolna Bölcske 11746012-15414722-00000000
+Tolna Cikó 71800013-11096018-00000000
+Tolna Csibrák 11746043-15417804-00000000
+Tolna Csikóstőttős 71800123-12040010-00000000
+Tolna Dalmand 11746043-15415699-00000000
+Tolna Decs 11746005-15414117-00000000
+Tolna Diósberény 11746067-15417608-00000000
+Tolna Dombóvár 11746043-15415819-00000000
+Tolna Döbrököz 11746043-15415716-00000000
+Tolna Dunaföldvár 70600133-15000013-00000000
+Tolna Dunaszentgyörgy 11746012-15414777-00000000
+Tolna Dúzs 11746074-15417677-00000000
+Tolna Értény 11746029-15417488-00000000
+Tolna Fácánkert 11746108-15417938-00000000
+Tolna Fadd 11746005-15414131-00000000
+Tolna Felsőnána 11746005-15417495-00000000
+Tolna Felsőnyék 11746029-15414382-00000000
+Tolna Fürged 11746029-15414399-00000000
+Tolna Gerjen 11746012-15414791-00000000
+Tolna Grábóc 11746036-15417914-00000000
+Tolna Gyönk 11600006-00000000-13261762
+Tolna Györe 11746036-15415376-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Tolna Györköny 11746012-15414818-00000000
+Tolna Gyulaj 11746043-15417402-00000000
+Tolna Harc 71900034-10005006-00000000
+Tolna Hőgyész 11746074-15414650-00000000
+Tolna Iregszemcse 11746029-15414423-00000000
+Tolna Izmény 11746036-15417323-00000000
+Tolna Jágónak 11746043-15417828-00000000
+Tolna Kajdacs 11746012-15414832-00000000
+Tolna Kakasd 71900027-10007091-00000000
+Tolna Kalaznó 11746074-15417684-00000000
+Tolna Kapospula 71800109-11083188-00000000
+Tolna Kaposszekcső 11746043-15415754-00000000
+Tolna Keszőhidegkút 11746067-15417859-00000000
+Tolna Kéty 71900041-10005006-00000000
+Tolna Kisdorog 11746036-15417330-00000000
+Tolna Kismányok 71800013-11113917-00000000
+Tolna Kisszékely 11746098-15417701-00000000
+Tolna Kistormás 11746005-15417660-00000000
+Tolna Kisvejke 71800020-11090115-00000000
+Tolna Kocsola 11746043-15415730-00000000
+Tolna Koppányszántó 11746029-15417718-00000000
+Tolna Kölesd 11746005-15414155-00000000
+Tolna Kurd 11746043-15415792-00000000
+Tolna Lápafő 11746043-15417725-00000000
+Tolna Lengyel 71800020-12301054-00000000
+Tolna Madocsa 11746012-15414856-00000000
+Tolna Magyarkeszi 11746029-15414447-00000000
+Tolna Medina 11746005-15414210-00000000
+Tolna Miszla 11746067-15417615-00000000
+Tolna Mórágy 11746005-15417512-00000000
+Tolna Mőcsény 11746036-15415400-00000000
+Tolna Mucsfa 11746036-15417897-00000000
+Tolna Mucsi 11746074-15417691-00000000
+Tolna Murga 71900041-10005903-00000000
+Tolna Nagydorog 11746081-15414870-00000000
+Tolna Nagykónyi 11746029-15414461-00000000
+Tolna Nagymányok 71800013-11117935-00000000
+Tolna Nagyszékely 11746029-15417732-00000000
+Tolna Nagyszokoly 11746029-15414485-00000000
+Tolna Nagyvejke 71200028-10879566-00000000
+Tolna Nak 11746043-15417419-00000000
+Tolna Németkér 70600030-15000013-00000000
+Tolna Ozora 11746029-15414492-00000000
+Tolna Őcsény 11746005-15414179-00000000
+Tolna Paks 11992206-07500109-00000000
+Tolna Pálfa 11746012-15414911-00000000
+Tolna Pincehely 11746029-15414519-00000000
+Tolna Pörböly 11746005-15417763-00000000
+Tolna Pusztahencse 11746081-15417529-00000000
+Tolna Regöly 11746029-15414533-00000000
+Tolna Sárpilis 11746005-15417921-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Tolna Sárszentlőrinc 11746012-15414935-00000000
+Tolna Simontornya 11746098-15414557-00000000
+Tolna Sióagárd 71900010-10010213-00000000
+Tolna Szakadát 11746067-15417622-00000000
+Tolna Szakály 11746029-15414571-00000000
+Tolna Szakcs 11746043-15415778-00000000
+Tolna Szálka 11746005-15414227-00000000
+Tolna Szárazd 11746067-15417639-00000000
+Tolna Szedres 71800037-11105044-00000000
+Tolna Szekszárd 11746005-15416566-00000000
+Tolna Tamási 11746029-15414595-00000000
+Tolna Tengelic 11746005-15414241-00000000
+Tolna Tevel 71800020-12300606-00000000
+Tolna Tolna 11746108-15414289-00000000
+Tolna Tolnanémedi 11746029-15414612-00000000
+Tolna Udvari 11746067-15417646-00000000
+Tolna Újireg 11746029-15417794-00000000
+Tolna Váralja 71800013-11096128-00000000
+Tolna Várdomb 11746005-15417756-00000000
+Tolna Várong 11746043-15417787-00000000
+Tolna Varsád 11746067-15417653-00000000
+Tolna Závod 71800020-12300637-00000000
+Tolna Zomba 71900113-10006193-00000000
+Vas Acsád 72100237-11046295-00000000
+Vas Alsószölnök 11747068-15421333-00000000
+Vas Alsóújlak 11747075-15573289-00000000
+Vas Andrásfa 11747075-15424680-00000000
+Vas Apátistvánfalva 11747068-15421340-00000000
+Vas Bajánsenye 11747020-15421357-00000000
+Vas Balogunyom 72100237-10139918-00000000
+Vas Bejcgyertyános 11747037-15423672-00000000
+Vas Bérbaltavár 11747075-15421553-00000000
+Vas Boba 11747044-15420758-00000000
+Vas Borgáta 10402142-21423358-00000000
+Vas Bozsok 11747051-15423586-00000000
+Vas Bozzai 11747006-15423799-00000000
+Vas Bő 11747037-15421560-00000000
+Vas Bögöt 11747037-15423627-00000000
+Vas Bögöte 11747037-15424398-00000000
+Vas Bucsu 11747006-15423768-00000000
+Vas Bük 11747082-15421766-00000000
+Vas Cák 11747051-15423593-00000000
+Vas Celldömölk 11747044-15420693-00000000
+Vas Chernelházadamonya 11747037-15424295-00000000
+Vas Csákánydoroszló 11747020-15421364-00000000
+Vas Csánig 72600115-15002008-00000000
+Vas Csehi 11747075-15424336-00000000
+Vas Csehimindszent 11747075-15421577-00000000
+Vas Csempeszkopács 11747006-15424886-00000000
+Vas Csénye 11747037-15421034-00000000
+Vas Csepreg 72100354-17000703-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Vas Csipkerek 11747075-15424343-00000000
+Vas Csönge 11747044-15424446-00000000
+Vas Csörötnek 11747068-15421371-00000000
+Vas Daraboshegy 11747020-15424051-00000000
+Vas Dozmat 72100213-10003712-00000000
+Vas Döbörhegy 11747020-15424219-00000000
+Vas Döröske 11747020-15424226-00000000
+Vas Duka 11747044-15424518-00000000
+Vas Egervölgy 11747075-15424415-00000000
+Vas Egyházashetye 11747044-15420765-00000000
+Vas Egyházashollós 72300114-10046247-00000000
+Vas Egyházasrádóc 72300217-15421388-00000000
+Vas Felsőcsatár 11747006-15421780-00000000
+Vas Felsőjánosfa 11747020-15423995-00000000
+Vas Felsőmarác 11747020-15423885-00000000
+Vas Felsőszölnök 11747068-15423809-00000000
+Vas Gasztony 11747068-15424178-00000000
+Vas Gencsapáti 11747006-15421278-00000000
+Vas Gérce 11747037-15421041-00000000
+Vas Gersekarát 11747075-15421395-00000000
+Vas Gór 11747037-15424305-00000000
+Vas Gyanógeregye 11747006-15424855-00000000
+Vas Gyöngyösfalu 11747051-15424769-00000000
+Vas Győrvár 11747075-15421797-00000000
+Vas Halastó 11747020-15424233-00000000
+Vas Halogy 11747020-15424068-00000000
+Vas Harasztifalu 72300217-15423933-00000000
+Vas Hegyfalu 12096004-00127237-00100009
+Vas Hegyháthodász 11747020-15424075-00000000
+Vas Hegyhátsál 11747020-15424082-00000000
+Vas Hegyhátszentjakab 11747020-15421405-00000000
+Vas Hegyhátszentmárton 11747020-15423892-00000000
+Vas Hegyhátszentpéter 11747075-15424697-00000000
+Vas Horvátlövő 72100237-11026424-00000000
+Vas Horvátzsidány 12094507-00185624-00100009
+Vas Hosszúpereszteg 11747037-15421618-00000000
+Vas Ikervár 72700112-15421065-00000000
+Vas Iklanberény 11747037-15424453-00000000
+Vas Ispánk 11747020-15424109-00000000
+Vas Ivánc 11747020-15423902-00000000
+Vas Ják 72100237-10140004-00000000
+Vas Jákfa 11747037-15423713-00000000
+Vas Jánosháza 11747044-15421711-00000000
+Vas Káld 72700291-15421632-00000000
+Vas Kám 11747075-15421649-00000000
+Vas Karakó 11747044-15424525-00000000
+Vas Katafa 11747020-15424099-00000000
+Vas Keléd 11747044-15424532-00000000
+Vas Kemeneskápolna 10201006-50072835-00000000
+Vas Kemenesmagasi 11747044-15420772-00000000
+Vas Kemenesmihályfa 11618003-05840600-18000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Vas Kemenespálfa 11747044-15424549-00000000
+Vas Kemenessömjén 11747044-15573368-00000000
+Vas Kemenesszentmárton 11747044-15423562-00000000
+Vas Kemestaródfa 11747020-15424257-00000000
+Vas Kenéz 11747037-15423696-00000000
+Vas Kenyeri 11747044-15421656-00000000
+Vas Kercaszomor 11747020-15423847-00000000
+Vas Kerkáskápolna 11747020-15423854-00000000
+Vas Kétvölgy 11747068-15423823-00000000
+Vas Kisrákos 11747020-15424154-00000000
+Vas Kissomlyó 11747044-15424556-00000000
+Vas Kisunyom 72100237-10139970-00000000
+Vas Kiszsidány 12094507-00226929-00100007
+Vas Kondorfa 11747068-15424116-00000000
+Vas Köcsk 11747044-15423524-00000000
+Vas Körmend 11747020-15420820-00000000
+Vas Kőszeg 11747051-15420909-00000000
+Vas Kőszegdoroszló 11747051-15423603-00000000
+Vas Kőszegpaty 11747051-15424776-00000000
+Vas Kőszegszerdahely 11747051-15420954-00000000
+Vas Lócs 11747037-15424460-00000000
+Vas Lukácsháza 11747051-15421838-00000000
+Vas Magyarlak 11747068-15423919-00000000
+Vas Magyarnádalja 11747020-15424264-00000000
+Vas Magyarszecsőd 72300114-15424044-00000000
+Vas Magyarszombatfa 11747020-15423861-00000000
+Vas Meggyeskovácsi 72700112-15423665-00000000
+Vas Megyehíd 11747037-15423706-00000000
+Vas Mersevát 11747044-15423579-00000000
+Vas Mesterháza 11747037-15424312-00000000
+Vas Mesteri 11747044-15420796-00000000
+Vas Meszlen 72100237-11046422-00000000
+Vas Mikosszéplak 11747075-15424350-00000000
+Vas Molnaszecsőd 11747020-15421412-00000000
+Vas Nádasd 11747020-15421429-00000000
+Vas Nagygeresd 11747037-15424477-00000000
+Vas Nagykölked 72300217-15423940-00000000
+Vas Nagymizdó 11747020-15424240-00000000
+Vas Nagyrákos 11747020-15424123-00000000
+Vas Nagysimonyi 11747044-15420806-00000000
+Vas Nagytilaj 11747075-15424288-00000000
+Vas Nárai 72100237-10136898-00000000
+Vas Narda 72100237-10148105-00000000
+Vas Nemesbőd 11747006-15421845-00000000
+Vas Nemescsó 11747051-15424783-00000000
+Vas Nemeskeresztúr 11747044-15424563-00000000
+Vas Nemeskocs 11747044-15423500-00000000
+Vas Nemeskolta 11747006-15424862-00000000
+Vas Nemesládony 11747037-15424484-00000000
+Vas Nemesmedves 11747068-15424185-00000000
+Vas Nemesrempehollós 72300217-15423957-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Vas Nick 11747037-15424587-00000000
+Vas Nyőgér 11747037-15421089-00000000
+Vas Olaszfa 11747075-15424817-00000000
+Vas Ólmod 12094507-00226885-00100000
+Vas Orfalu 11747068-15423830-00000000
+Vas Ostffyasszonyfa 11747044-15421663-00000000
+Vas Oszkó 11747075-15421852-00000000
+Vas Ölbő 11747037-15421670-00000000
+Vas Őrimagyarósd 11747020-15424006-00000000
+Vas Őriszentpéter 11747020-15421443-00000000
+Vas Pácsony 11747075-15424824-00000000
+Vas Pankasz 11747020-15421450-00000000
+Vas Pápoc 11747044-15424439-00000000
+Vas Pecöl 11747037-15421106-00000000
+Vas Perenye 11747006-15423720-00000000
+Vas Peresznye 11747051-15424738-00000000
+Vas Petőmihályfa 11747075-15424707-00000000
+Vas Pinkamindszent 11747020-15424271-00000000
+Vas Pornóapáti 72100237-11026314-00000000
+Vas Porpác 11747037-15423634-00000000
+Vas Pósfa 11747037-15424501-00000000
+Vas Pusztacsó 11747051-15424790-00000000
+Vas Püspökmolnári 11747075-15424903-00000000
+Vas Rábagyarmat 11747068-15423926-00000000
+Vas Rábahídvég 72100237-10148088-00000000
+Vas Rábapaty 11747037-15421113-00000000
+Vas Rábatöttös 72700222-10009196-00000000
+Vas Rádóckölked 72300217-15423964-00000000
+Vas Rátót 11747068-15421467-00000000
+Vas Répcelak 72600115-15001007-00000000
+Vas Répceszentgyörgy 11747037-15424367-00000000
+Vas Rönök 11747068-15424192-00000000
+Vas Rum 72700222-10009000-00000000
+Vas Sajtoskál 11747037-15424491-00000000
+Vas Salköveskút 11747006-15423737-00000000
+Vas Sárfimizdó 11747075-15423971-00000000
+Vas Sárvár 11747037-15420961-00000000
+Vas Sé 12094507-00183131-00100002
+Vas Simaság 11747037-15421687-00000000
+Vas Sitke 11747037-15423641-00000000
+Vas Sorkifalud 11747006-15421876-00000000
+Vas Sorkikápolna 11747006-15424879-00000000
+Vas Sorokpolány 72100237-10139956-00000000
+Vas Sótony 11747037-15423689-00000000
+Vas Söpte 72100237-11026084-00000000
+Vas Szaknyér 11747020-15424013-00000000
+Vas Szakonyfalu 11747068-15423816-00000000
+Vas Szalafő 11747020-15424130-00000000
+Vas Szarvaskend 11747020-15421474-00000000
+Vas Szatta 11747020-15424147-00000000
+Vas Szeleste 11747037-15421694-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Vas Szemenye 11747075-15424422-00000000
+Vas Szentgotthárd 11747068-15421481-00000000
+Vas Szentpéterfa 72100237-10144541-00000000
+Vas Szergény 11747044-15423531-00000000
+Vas Szombathely 11747006-15421137-00000000
+Vas Szőce 11747020-15424020-00000000
+Vas Tanakajd 11747006-15424893-00000000
+Vas Táplánszentkereszt 11747006-15421302-00000000
+Vas Telekes 72100440-10061958-00000000
+Vas Tokorcs 11747044-15423555-00000000
+Vas Tompaládony 11747037-15424329-00000000
+Vas Tormásliget 72100354-17200707-00000000
+Vas Torony 72100213-10003705-00000000
+Vas Tömörd 72100354-17100700-00000000
+Vas Uraiújfalu 11747037-15424594-00000000
+Vas Vámoscsalád 11747037-15424604-00000000
+Vas Vasalja 11747020-15421498-00000000
+Vas Vásárosmiske 11747037-15423658-00000000
+Vas Vasasszonyfa 11747006-15423744-00000000
+Vas Vasegerszeg 11747037-15424374-00000000
+Vas Vashosszúfalu 11747037-15424408-00000000
+Vas Vaskeresztes 11747006-15424673-00000000
+Vas Vassurány 11747006-15423751-00000000
+Vas Vasszécseny 11747006-15421890-00000000
+Vas Vasszentmihály 11747068-15424202-00000000
+Vas Vasszilvágy 72100237-11026194-00000000
+Vas Vasvár 11747075-15421900-00000000
+Vas Vát 11747006-15424800-00000000
+Vas Velem 11747051-15423610-00000000
+Vas Velemér 11747020-15423878-00000000
+Vas Vép 11747006-15421326-00000000
+Vas Viszák 11747020-15424161-00000000
+Vas Vönöck 11747044-15420813-00000000
+Vas Zsédeny 11747037-15424381-00000000
+Vas Zsennye 72700222-10009206-00000000
+Veszprém Ábrahámhegy 11748052-15427786-00000000
+Veszprém Adásztevel 11748045-15426833-00000000
+Veszprém Adorjánháza 11748038-15427243-00000000
+Veszprém Ajka 11748038-15429726-00000000
+Veszprém Alsóörs 11748083-15428581-00000000
+Veszprém Apácatorna 12084003-00203103-00100004
+Veszprém Aszófő 11748069-15431538-00000000
+Veszprém Badacsonytomaj 11748052-15427504-00000000
+Veszprém Badacsonytördemic 11748052-15427793-00000000
+Veszprém Bakonybél 73900054-11056160-00000000
+Veszprém Bakonyjákó 73600046-10000001-00000000
+Veszprém Bakonykoppány 11665005-08016900-65000007
+Veszprém Bakonynána 73900229-11056610-00000000
+Veszprém Bakonyoszlop 11674003-58323900-74000007
+Veszprém Bakonypölöske 11748038-15427401-00000000
+Veszprém Bakonyság 11748045-15426802-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Veszprém Bakonyszentiván 11748045-15426819-00000000
+Veszprém Bakonyszentkirály 11748117-15428608-00000000
+Veszprém Bakonyszücs 11665005-08016800-65000004
+Veszprém Bakonytamási 11748045-15426826-00000000
+Veszprém Balatonakali 11748069-15431545-00000000
+Veszprém Balatonalmádi 11748083-15430290-00000000
+Veszprém Balatoncsicsó 73200031-11259552-00000000
+Veszprém Balatonederics 11748052-15427542-00000000
+Veszprém Balatonfőkajár 11748083-15428615-00000000
+Veszprém Balatonfüred 11748069-15429207-00000000
+Veszprém Balatonfűzfő 11748083-15430207-00000000
+Veszprém Balatonhenye 73200134-10000654-00000000
+Veszprém Balatonkenese 11748083-15428505-00000000
+Veszprém Balatonrendes 11748052-15567844-00000000
+Veszprém Balatonszepezd 11748069-15431363-00000000
+Veszprém Balatonszőlős 73200110-11258850-00000000
+Veszprém Balatonudvari 11748069-15428677-00000000
+Veszprém Balatonvilágos 11748083-15428684-00000000
+Veszprém Bánd 11748007-15431404-00000000
+Veszprém Barnag 73200017-10002278-00000000
+Veszprém Bazsi 11748100-15430654-00000000
+Veszprém Béb 11748045-15426534-00000000
+Veszprém Békás 11748045-15426651-00000000
+Veszprém Berhida 11748076-15429142-00000000
+Veszprém Bodorfa 11748100-15428457-00000000
+Veszprém Borszörcsök 11748090-15427281-00000000
+Veszprém Borzavár 11748117-15428938-00000000
+Veszprém Csabrendek 11748100-15427047-00000000
+Veszprém Csajág 11748083-15428983-00000000
+Veszprém Csehbánya 73600015-15427470-00000000
+Veszprém Csesznek 11748117-15431686-00000000
+Veszprém Csetény 73900047-10007785-00000000
+Veszprém Csopak 11748069-15428701-00000000
+Veszprém Csót 11748045-15428017-00000000
+Veszprém Csögle 11748038-15427061-00000000
+Veszprém Dabronc 11748100-15428378-00000000
+Veszprém Dabrony 11748045-15427360-00000000
+Veszprém Dáka 11748045-15426730-00000000
+Veszprém Devecser 11748090-15427085-00000000
+Veszprém Doba 73600091-15427425-00000000
+Veszprém Döbrönte 11665005-08004500-65000004
+Veszprém Dörgicse 11748069-15431583-00000000
+Veszprém Dudar 11600006-00000000-01892899
+Veszprém Egeralja 11748038-15567851-00000000
+Veszprém Egyházaskesző 11748045-15426620-00000000
+Veszprém Eplény 11748117-15568106-00000000
+Veszprém Farkasgyepű 73200196-11201016-00000000
+Veszprém Felsőőrs 11748083-15428952-00000000
+Veszprém Ganna 11665005-08004600-65000007
+Veszprém Gecse 11748045-15426572-00000000
+Veszprém Gic 11748117-15431765-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Veszprém Gógánfa 11748100-15427559-00000000
+Veszprém Gyepükaján 11748100-15428464-00000000
+Veszprém Gyulakeszi 11748052-15427896-00000000
+Veszprém Hajmáskér 11748007-15428756-00000000
+Veszprém Halimba 12084003-00204082-00100009
+Veszprém Hárskút 11748007-15431411-00000000
+Veszprém Hegyesd 11748052-15427858-00000000
+Veszprém Hegymagas 11748052-15427975-00000000
+Veszprém Herend 11748007-15428770-00000000
+Veszprém Hetyefő 11748100-15428385-00000000
+Veszprém Hidegkút 73200024-11267573-00000000
+Veszprém Homokbödöge 11748045-15426864-00000000
+Veszprém Hosztót 11748100-15428330-00000000
+Veszprém Iszkáz 11748038-15427339-00000000
+Veszprém Jásd 73900023-10004029-00000000
+Veszprém Kamond 73600118-16104237-00000000
+Veszprém Kapolcs 73200017-10000324-00000000
+Veszprém Káptalanfa 11748100-15427054-00000000
+Veszprém Káptalantóti 11748052-15427906-00000000
+Veszprém Karakószörcsök 73600118-10000001-00000000
+Veszprém Kékkút 11748052-15427937-00000000
+Veszprém Kemeneshőgyész 11748045-15426606-00000000
+Veszprém Kemenesszentpéter 11748045-15426613-00000000
+Veszprém Kerta 73600118-10000104-00000000
+Veszprém Királyszentistván 11748007-15431473-00000000
+Veszprém Kisapáti 11748052-15427913-00000000
+Veszprém Kisberzseny 12084003-00203136-00100002
+Veszprém Kiscsősz 11748038-15427250-00000000
+Veszprém Kislőd 12084003-00204236-00100006
+Veszprém Kispirit 11748038-15427267-00000000
+Veszprém Kisszőlős 11748038-15427377-00000000
+Veszprém Kolontár 11748090-15427298-00000000
+Veszprém Kővágóörs 73200134-10000647-00000000
+Veszprém Köveskál 73200134-10000661-00000000
+Veszprém Kup 11748045-15426785-00000000
+Veszprém Külsővat 11748045-15426699-00000000
+Veszprém Küngös 11748083-15428990-00000000
+Veszprém Lesencefalu 11748052-15427810-00000000
+Veszprém Lesenceistvánd 11748052-15427827-00000000
+Veszprém Lesencetomaj 11748052-15427834-00000000
+Veszprém Litér 11748007-15428976-00000000
+Veszprém Lókút 11748117-15568216-00000000
+Veszprém Lovas 11748083-15428969-00000000
+Veszprém Lovászpatona 11748045-15428062-00000000
+Veszprém Magyargencs 11748045-15428086-00000000
+Veszprém Magyarpolány 11748038-15429829-00000000
+Veszprém Malomsok 59800149-11015534-00000000
+Veszprém Marcalgergelyi 11748045-15426709-00000000
+Veszprém Marcaltő 11748045-15428103-00000000
+Veszprém Márkó 73200127-11276052-00000000
+Veszprém Megyer 11748100-15428392-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Veszprém Mencshely 73200017-10000283-00000000
+Veszprém Mezőlak 11748045-15428127-00000000
+Veszprém Mihályháza 11748045-15426668-00000000
+Veszprém Mindszentkálla 73200134-10000685-00000000
+Veszprém Monostorapáti 11748052-15427566-00000000
+Veszprém Monoszló 73200062-11259624-00000000
+Veszprém Nagyacsád 11748045-15426675-00000000
+Veszprém Nagyalásony 11665005-54556500-65000009
+Veszprém Nagydém 11748045-15426596-00000000
+Veszprém Nagyesztergár 11748117-15568223-00000000
+Veszprém Nagygyimót 11748045-15426541-00000000
+Veszprém Nagypirit 11748038-15427274-00000000
+Veszprém Nagytevel 11748045-15426871-00000000
+Veszprém Nagyvázsony 73200017-10000290-00000000
+Veszprém Nemesgörzsöny 11748045-15426682-00000000
+Veszprém Nemesgulács 11748052-15427573-00000000
+Veszprém Nemeshany 11748100-15428471-00000000
+Veszprém Nemesszalók 73600125-10000001-00000000
+Veszprém Nemesvámos 73200086-11200448-00000000
+Veszprém Nemesvita 11748052-15427841-00000000
+Veszprém Németbánya 73600046-10000063-00000000
+Veszprém Nóráp 11748045-15426792-00000000
+Veszprém Noszlop 11748038-15427102-00000000
+Veszprém Nyárád 11748045-15428165-00000000
+Veszprém Nyirád 11748052-15427030-00000000
+Veszprém Óbudavár 73200031-11259569-00000000
+Veszprém Olaszfalu 11748117-15568230-00000000
+Veszprém Oroszi 11748038-15427418-00000000
+Veszprém Öcs 12084003-00204137-00100002
+Veszprém Örvényes 11748069-15431552-00000000
+Veszprém Ősi 12081000-00116096-00100006
+Veszprém Öskü 11748076-15428811-00000000
+Veszprém Paloznak 11748069-15431569-00000000
+Veszprém Pápa 11748045-15429410-00000000
+Veszprém Pápadereske 11748045-15426754-00000000
+Veszprém Pápakovácsi 11748045-15428172-00000000
+Veszprém Pápasalamon 11748045-15426716-00000000
+Veszprém Pápateszér 11748045-15428196-00000000
+Veszprém Papkeszi 11748007-15428835-00000000
+Veszprém Pécsely 11748069-15428859-00000000
+Veszprém Pénzesgyőr 73900054-11056311-00000000
+Veszprém Pétfürdő 12081000-00112493-00100007
+Veszprém Porva 11748117-15569767-00000000
+Veszprém Pula 73200017-10000300-00000000
+Veszprém Pusztamiske 11748090-15427308-00000000
+Veszprém Raposka 11748052-15427982-00000000
+Veszprém Révfülöp 11748052-15427580-00000000
+Veszprém Rigács 11748100-15428402-00000000
+Veszprém Salföld 11748052-15427803-00000000
+Veszprém Sáska 11748052-15427999-00000000
+Veszprém Sóly 11748007-15431497-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Veszprém Somlójenő 11748038-15427456-00000000
+Veszprém Somlószőlős 11748038-15427119-00000000
+Veszprém Somlóvásárhely 11748038-15427009-00000000
+Veszprém Somlóvecse 11665005-54556700-65000005
+Veszprém Sümeg 11748100-15427607-00000000
+Veszprém Sümegprága 11748100-15428323-00000000
+Veszprém Szápár 11748117-15431727-00000000
+Veszprém Szentantalfa 73200031-11200228-00000000
+Veszprém Szentbékkálla 73200134-10000692-00000000
+Veszprém Szentgál 73600008-15000446-00000000
+Veszprém Szentimrefalva 11748100-15428347-00000000
+Veszprém Szentjakabfa 73200031-11259576-00000000
+Veszprém Szentkirályszabadja 11748083-15431040-00000000
+Veszprém Szigliget 11748052-15427621-00000000
+Veszprém Szőc 11748038-15427322-00000000
+Veszprém Tagyon 73200031-11259590-00000000
+Veszprém Takácsi 11748045-15426888-00000000
+Veszprém Taliándörögd 73200017-10000348-00000000
+Veszprém Tapolca 11748052-15429348-00000000
+Veszprém Tés 11748076-15429180-00000000
+Veszprém Tihany 11748069-15428880-00000000
+Veszprém Tótvázsony 73200024-11267755-00000000
+Veszprém Tüskevár 12084003-00203169-00100000
+Veszprém Ugod 11748045-15428213-00000000
+Veszprém Ukk 11748100-15428419-00000000
+Veszprém Úrkút 11748038-15429836-00000000
+Veszprém Uzsa 11748052-15568948-00000000
+Veszprém Vanyola 12085004-00306316-00100004
+Veszprém Várkesző 11748045-15426644-00000000
+Veszprém Városlőd 73600015-15428907-00000000
+Veszprém Várpalota 11748076-15429001-00000000
+Veszprém Vaszar 11748045-15429692-00000000
+Veszprém Vászoly 11748069-15431590-00000000
+Veszprém Veszprém 11748007-15430001-00000000
+Veszprém Veszprémfajsz 73200086-11259112-00000000
+Veszprém Veszprémgalsa 11748100-15428354-00000000
+Veszprém Vid 11665005-54556600-65000002
+Veszprém Vigántpetend 73200017-10000331-00000000
+Veszprém Vilonya 11748007-15431480-00000000
+Veszprém Vinár 73600125-10000063-00000000
+Veszprém Vöröstó 73200017-10000317-00000000
+Veszprém Zalaerdőd 11748100-15428426-00000000
+Veszprém Zalagyömörő 11748100-15428433-00000000
+Veszprém Zalahaláp 11748052-15429403-00000000
+Veszprém Zalameggyes 11748100-15428440-00000000
+Veszprém Zalaszegvár 11748100-15428361-00000000
+Veszprém Zánka 73200062-11200039-00000000
+Veszprém Zirc 73900030-10011719-00000000
+Zala Alibánfa 11749008-15437424-00000000
+Zala Almásháza 11749053-15437596-00000000
+Zala Alsónemesapáti 11749008-15437431-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Zala Alsópáhok 11749039-15432450-00000000
+Zala Alsórajk 11749015-15436595-00000000
+Zala Alsószenterzsébet 11749022-15435972-00000000
+Zala Babosdöbréte 11749008-15437314-00000000
+Zala Baglad 11749022-15436227-00000000
+Zala Bagod 11749008-15432261-00000000
+Zala Bak 11749008-15432278-00000000
+Zala Baktüttös 74000119-10716407-00000000
+Zala Balatongyörök 11749039-15435408-00000000
+Zala Balatonmagyaród 75000112-10056291-00000000
+Zala Bánokszentgyörgy 11749046-15432120-00000000
+Zala Barlahida 11749008-15436179-00000000
+Zala Batyk 11749053-15437558-00000000
+Zala Bázakerettye 11749046-15432010-00000000
+Zala Becsehely 11749046-15432137-00000000
+Zala Becsvölgye 11749008-15432285-00000000
+Zala Belezna 11749015-15435491-00000000
+Zala Belsősárd 11749022-15436234-00000000
+Zala Bezeréd 11749008-15437156-00000000
+Zala Bocfölde 11749008-15432292-00000000
+Zala Bocska 74000119-10720204-00000000
+Zala Bókaháza 11749039-15435934-00000000
+Zala Boncodfölde 11749008-15437321-00000000
+Zala Borsfa 11749046-15436416-00000000
+Zala Böde 11749008-15437338-00000000
+Zala Bödeháza 11749022-15436241-00000000
+Zala Börzönce 74000119-10720400-00000000
+Zala Bucsuszentlászló 11749008-15432302-00000000
+Zala Bucsuta 11749046-15436519-00000000
+Zala Csapi 11749015-15436760-00000000
+Zala Csatár 11749008-15436973-00000000
+Zala Cserszegtomaj 11749039-15432467-00000000
+Zala Csertalakos 11749022-15436100-00000000
+Zala Csesztreg 75000370-10067363-00000000
+Zala Csonkahegyhát 11749008-15432319-00000000
+Zala Csöde 11749008-15558963-00000000
+Zala Csömödér 11749022-15432034-00000000
+Zala Csörnyeföld 11749046-15558499-00000000
+Zala Dióskál 11749039-15432474-00000000
+Zala Dobri 11749022-15436124-00000000
+Zala Dobronhegy 11749008-15437039-00000000
+Zala Döbröce 11749053-15437493-00000000
+Zala Dötk 11749053-15437565-00000000
+Zala Egeraracsa 11749039-15435862-00000000
+Zala Egervár 11749008-15432656-00000000
+Zala Eszteregnye 11749015-15436832-00000000
+Zala Esztergályhorváti 11749039-15435941-00000000
+Zala Felsőpáhok 11749039-15435855-00000000
+Zala Felsőrajk 11749015-15432144-00000000
+Zala Felsőszenterzsébet 11749022-15435989-00000000
+Zala Fityeház 10700275-26016005-51100005
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Zala Fűzvölgy 11749015-15432151-00000000
+Zala Gáborjánháza 11749022-15436258-00000000
+Zala Galambok 11749015-15436856-00000000
+Zala Garabonc 11749015-15432168-00000000
+Zala Gellénháza 11749008-15432326-00000000
+Zala Gelse 11749015-15432175-00000000
+Zala Gelsesziget 11992952-06397564-10000049
+Zala Gétye 11749039-15435958-00000000
+Zala Gombosszeg 11749008-15437091-00000000
+Zala Gosztola 11749022-15436265-00000000
+Zala Gősfa 11749008-15437077-00000000
+Zala Gutorfölde 11749022-15432041-00000000
+Zala Gyenesdiás 11749039-15435848-00000000
+Zala Gyűrűs 11749008-15437266-00000000
+Zala Hagyárosbörönd 11749008-15436911-00000000
+Zala Hahót 11749015-15432182-00000000
+Zala Hernyék 11749022-15436069-00000000
+Zala Hévíz 11749039-15432429-00000000
+Zala Homokkomárom 11992952-06250595-10000001
+Zala Hosszúvölgy 11749015-15436636-00000000
+Zala Hottó 11749008-15437345-00000000
+Zala Iborfia 11749008-15437101-00000000
+Zala Iklódbördőce 11749022-15436076-00000000
+Zala Kacorlak 74000119-10720503-00000000
+Zala Kallósd 11749053-15437486-00000000
+Zala Kálócfa 11749022-15436337-00000000
+Zala Kányavár 75000356-10067442-00000000
+Zala Karmacs 11749039-15432481-00000000
+Zala Kávás 11749008-15436928-00000000
+Zala Kehidakustány 1749053-15432498-00000000
+Zala Kemendollár 11749008-15437273-00000000
+Zala Keménfa 11749008-15437390-00000000
+Zala Kerecseny 12088007-00125526-00100000
+Zala Kerkabarabás 11749022-15436344-00000000
+Zala Kerkafalva 11749022-15435996-00000000
+Zala Kerkakutas 11749022-15436007-00000000
+Zala Kerkaszentkirály 11749046-15436533-00000000
+Zala Kerkateskánd 11749022-15436131-00000000
+Zala Keszthely 11749039-15432711-00000000
+Zala Kilimán 11749015-15436708-00000000
+Zala Kisbucsa 11749008-15436980-00000000
+Zala Kiscsehi 11749046-15559641-00000000
+Zala Kisgörbő 11749053-15432508-00000000
+Zala Kiskutas 11749008-15437194-00000000
+Zala Kispáli 11749008-15437204-00000000
+Zala Kisrécse 11749015-15436777-00000000
+Zala Kissziget 11749022-15436083-00000000
+Zala Kistolmács 11749046-15436399-00000000
+Zala Kisvásárhely 11749053-15437527-00000000
+Zala Kozmadombja 11749022-15436351-00000000
+Zala Kustánszeg 11749008-15436966-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Zala Külsősárd 11749022-15436272-00000000
+Zala Lakhegy 11749008-15558327-00000000
+Zala Lasztonya 11749046-15559782-00000000
+Zala Lendvadedes 11749022-15436289-00000000
+Zala Lendvajakabfa 11749022-15436296-00000000
+Zala Lenti 11749022-15432728-00000000
+Zala Letenye 11749046-15432113-00000000
+Zala Lickóvadamos 11749008-15437118-00000000
+Zala Ligetfalva 11749053-15558334-00000000
+Zala Lispeszentadorján 11749046-15559799-00000000
+Zala Liszó 11749015-15436818-00000000
+Zala Lovászi 11749022-15432058-00000000
+Zala Magyarföld 11749022-15436014-00000000
+Zala Magyarszentmiklós 11749015-15436643-00000000
+Zala Magyarszerdahely 11749015-15436650-00000000
+Zala Maróc 11749046-15559809-00000000
+Zala Márokföld 11749022-15436021-00000000
+Zala Miháld 75000239-10083006-00000000
+Zala Mihályfa 11749053-15437534-00000000
+Zala Mikekarácsonyfa 11749022-15436186-00000000
+Zala Milejszeg 11749008-15437046-00000000
+Zala Misefa 11749008-15437163-00000000
+Zala Molnári 11749046-15436564-00000000
+Zala Murakeresztúr 11992952-06448323-10000001
+Zala Murarátka 11749046-15436540-00000000
+Zala Muraszemenye 11749046-15432096-00000000
+Zala Nagybakónak 11749015-15436784-00000000
+Zala Nagygörbő 11749053-15437503-00000000
+Zala Nagykanizsa 11749015-15432694-00000000
+Zala Nagykapornak 11749008-15432333-00000000
+Zala Nagykutas 11749008-15432663-00000000
+Zala Nagylengyel 11749008-15437125-00000000
+Zala Nagypáli 11749008-15437211-00000000
+Zala Nagyrada 11749015-15436667-00000000
+Zala Nagyrécse 11749015-15432625-00000000
+Zala Nemesapáti 11749008-15437448-00000000
+Zala Nemesbük 11749039-15435831-00000000
+Zala Nemeshetés 11749008-15436997-00000000
+Zala Nemesnép 75000370-10067473-00000000
+Zala Nemespátró 11749015-15436825-00000000
+Zala Nemesrádó 11749008-15437228-00000000
+Zala Nemessándorháza 11749008-15437008-00000000
+Zala Nemesszentandrás 11749008-15437015-00000000
+Zala Németfalu 11749008-15437053-00000000
+Zala Nova 11749022-15432065-00000000
+Zala Óhíd 11749053-15432515-00000000
+Zala Oltárc 11749046-15436423-00000000
+Zala Orbányosfa 11749008-15437170-00000000
+Zala Ormándlak 11749008-15437132-00000000
+Zala Orosztony 11749015-15436715-00000000
+Zala Ortaháza 11749022-15436203-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Zala Ozmánbük 11749008-15437376-00000000
+Zala Pacsa 11620004-02556300-20000003
+Zala Padár 11749008-15437187-00000000
+Zala Páka 75000356-10066960-00000000
+Zala Pakod 11749053-15437572-00000000
+Zala Pálfiszeg 11749008-15437060-00000000
+Zala Pat 75000239-10083116-00000000
+Zala Pethőhenye 11749008-15437455-00000000
+Zala Petrikeresztúr 11749008-15437149-00000000
+Zala Petrivente 11749046-15436485-00000000
+Zala Pókaszepetk 11749008-15432357-00000000
+Zala Pórszombat 11749022-15436368-00000000
+Zala Pölöske 11749008-15437022-00000000
+Zala Pölöskefő 11749015-15436904-00000000
+Zala Pördefölde 11749022-15436210-00000000
+Zala Pötréte 11749015-15436605-00000000
+Zala Pusztaapáti 11749022-15436375-00000000
+Zala Pusztaederics 74000119-10716201-00000000
+Zala Pusztamagyaród 11749046-15432216-00000000
+Zala Pusztaszentlászló 11749008-15437307-00000000
+Zala Ramocsa 11749022-15436045-00000000
+Zala Rédics 11749022-15432089-00000000
+Zala Resznek 11749022-15436306-00000000
+Zala Rezi 11749039-15435415-00000000
+Zala Rigyác 11749015-15436492-00000000
+Zala Salomvár 11749008-15437400-00000000
+Zala Sand 11749015-15436746-00000000
+Zala Sárhida 11749008-15436959-00000000
+Zala Sármellék 11749039-15432522-00000000
+Zala Semjénháza 11749046-15436571-00000000
+Zala Sénye 11749053-15437620-00000000
+Zala Sormás 11992952-06218968-10000032
+Zala Söjtör 11749008-15432364-00000000
+Zala Surd 74800115-15432632-00000000
+Zala Sümegcsehi 11749053-15435501-00000000
+Zala Szalapa 11749053-15437541-00000000
+Zala Szécsisziget 11749022-15436148-00000000
+Zala Szentgyörgyvár 11749039-15435903-00000000
+Zala Szentgyörgyvölgy 11749022-15436052-00000000
+Zala Szentkozmadombja 11749008-15437479-00000000
+Zala Szentliszló 11749046-15436526-00000000
+Zala Szentmargitfalva 11749046-15436557-00000000
+Zala Szentpéterfölde 11749022-15436117-00000000
+Zala Szentpéterúr 11749008-15437235-00000000
+Zala Szepetnek 10700275-27854905-51100005
+Zala Szijártóháza 11749022-15436313-00000000
+Zala Szilvágy 11749022-15436382-00000000
+Zala Teskánd 11749008-15432670-00000000
+Zala Tilaj 11749053-15558310-00000000
+Zala Tófej 74000119-10716005-00000000
+Zala Tormafölde 11656007-02552000-56000001
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
+
+Zala Tornyiszentmiklós 11749022-15436162-00000000
+Zala Tótszentmárton 11749046-15436588-00000000
+Zala Tótszerdahely 12092309-00160544-00100007
+Zala Türje 75500296-11025007-00000000
+Zala Újudvar 11749015-15436722-00000000
+Zala Valkonya 11749046-15436502-00000000
+Zala Vállus 11749039-15435927-00000000
+Zala Várfölde 11749046-15436430-00000000
+Zala Várvölgy 11749039-15432546-00000000
+Zala Vasboldogasszony 11749008-15437084-00000000
+Zala Vaspör 11749008-15432388-00000000
+Zala Vindornyafok 11749039-15435886-00000000
+Zala Vindornyalak 11749039-15435965-00000000
+Zala Vindornyaszőlős 11749053-15437510-00000000
+Zala Vonyarcvashegy 11749039-15432436-00000000
+Zala Vöckönd 11749008-15437280-00000000
+Zala Zajk 11749046-15436409-00000000
+Zala Zalaapáti 11749039-15432553-00000000
+Zala Zalabaksa 11749022-15432106-00000000
+Zala Zalabér 11749053-15432560-00000000
+Zala Zalaboldogfa 11749008-15436935-00000000
+Zala Zalacsány 11749053-15432577-00000000
+Zala Zalacséb 11749008-15432395-00000000
+Zala Zalaegerszeg 11749008-15432704-00000000
+Zala Zalaháshágy 11749008-15437383-00000000
+Zala Zalaigrice 11620004-02556400-20000006
+Zala Zalaistvánd 11749008-15437297-00000000
+Zala Zalakaros 11749015-15432230-00000000
+Zala Zalakomár 75000112-10056466-00000000
+Zala Zalaköveskút 11749039-15435893-00000000
+Zala Zalalövő 11749008-15432405-00000000
+Zala Zalamerenye 11749015-15436674-00000000
+Zala Zalasárszeg 11749015-15436791-00000000
+Zala Zalaszabar 11992952-06252229-10000001
+Zala Zalaszántó 11749039-15432584-00000000
+Zala Zalaszentbalázs 74000119-10720015-00000000
+Zala Zalaszentgrót 11749053-15432443-00000000
+Zala Zalaszentgyörgy 11749008-15436942-00000000
+Zala Zalaszentiván 11749008-15432687-00000000
+Zala Zalaszentjakab 11749015-15436863-00000000
+Zala Zalaszentlászló 74500310-10002254-00000000
+Zala Zalaszentlőrinc 11749008-15437462-00000000
+Zala Zalaszentmárton 11749039-15435879-00000000
+Zala Zalaszentmihály 11749008-15437259-00000000
+Zala Zalaszombatfa 11749022-15436320-00000000
+Zala Zalatárnok 11749008-15432412-00000000
+Zala Zalaújlak 11749015-15436801-00000000
+Zala Zalavár 11749039-15435910-00000000
+Zala Zalavég 11749053-15437589-00000000
+Zala Zebecke 11749022-15436090-00000000
+
+Megye Önkormányzat
+Költségvetési
+elszámolási számla
