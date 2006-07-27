@@ -1,0 +1,1 @@
+Az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 12. §-ának (3) bekezdése alapján dr. Vági Mártont, az Állami Privatizációs és Vagyonkezelő Zrt. igazgatósági tagját e tisztségéből 2006. július 31-ei hatállyal felmentem.
