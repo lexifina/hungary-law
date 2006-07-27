@@ -1,0 +1,1 @@
+A Kormány az Állami Privatizációs és Vagyonkezelő Zrt. (ÁPV Zrt.) Alapító Okiratának 3.1. és 3.3. C) pontja alapján dr. Vági Mártont, az ÁPV Zrt. vezérigazgatóját e tisztségéből 2006. július 31-ei hatállyal felmenti, egyúttal 2006. augusztus 1-jei hatállyal megbízza dr. Macher Ákost az ÁPV Zrt. vezérigazgatói feladatai ellátásával.
