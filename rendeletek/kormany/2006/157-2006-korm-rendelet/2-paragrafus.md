@@ -1,0 +1,1 @@
+## 1. § A Kormány felhatalmazást ad a Genfben, 1929. április 20-án aláírt, az 1933. évi XI. törvénycikkel kihirdetett, a pénzhamisítás visszaszorítására irányuló nemzetközi egyezményhez a 3. §-ban meghatározott nyilatkozat megtételére.

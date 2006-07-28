@@ -1,0 +1,1 @@
+5. § Ez a rendelet az euró pénzhamisítás elleni, az Europolnak az euró-hamisítás elleni küzdelem központi hivatalává történő kijelölése általi védelméről szóló, 2005. július 12-i 2005/511/IB tanácsi határozatnak való megfelelést szolgálja.
