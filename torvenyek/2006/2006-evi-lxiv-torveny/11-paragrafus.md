@@ -1,0 +1,3 @@
+11. § A Költségvetési törvény 109. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Országgyűlés hozzájárul, hogy a Magyar Állam a központi költségvetés terhére a Nemzeti Autópálya Zrt.-nek a Magyar Fejlesztési Bank Zrt.-vel, valamint kereskedelmi bankokkal szemben fennálló, együttesen legfeljebb 415 900 millió forint összegű hiteltartozását – annak járulékaival együtt – legkésőbb 2006. december 31-i hatállyal átvállalhatja. A Nemzeti Autópálya Zrt. a hitelátvállalással szemben kész és félkész útszakaszokat ad át, illetve azokkal elszámol a Magyar Állammal. Az átadás, illetve elszámolás mentesül az általános forgalmi adó és az illeték megfizetése alól.”

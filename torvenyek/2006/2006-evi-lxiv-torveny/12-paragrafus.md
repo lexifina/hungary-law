@@ -1,0 +1,1 @@
+12. § A Költségvetési törvény 1. számú melléklet XXVI. Szociális és Munkaügyi Minisztérium fejezet, 20. Egyéb szociális ellátások és költségtérítések cím, 2. Jövedelempótló és jövedelemkiegészítő szociális támogatások alcím, 14. Nyugdíjasok távfűtési-díj támogatása jogcímcsoport megnevezése helyébe „Távfűtési-díj támogatása” megnevezés lép.
