@@ -1,0 +1,3 @@
+11. § (1) A testület tagját kölcsön felvételét követő öt év elteltével, a törlesztési idő előtti visszafizetése esetén engedmény illeti meg. Az engedmény mértéke a fennálló tartozás összegének 50%-a, de legfeljebb a mindenkor hatályos személyi jövedelemadóról szóló jogszabályban meghatározott adómentes határig terjedő engedmény.
+
+(2) Az (1) bekezdésben, valamint a 10. § (1) bekezdésében meghatározott kedvezmény, illetőleg engedmény együttes jóváírására azon esetben kerülhet sor, ha azok összege nem haladhatja meg a mindenkor hatályos személyi jövedelemadóról szóló jogszabályban meghatározott adómentes határig terjedő összeget. Az engedmény jóváírása a dolgozó kérelmére történik, melyre az országos parancsnokság intézkedik a pénzintézet felé.
