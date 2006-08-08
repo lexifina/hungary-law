@@ -1,0 +1,1 @@
+## 23. § Ha valamely fémjelzett tárgy alakja vagy anyaga javítás vagy átdolgozás következtében lényegesen megváltozik, a javítást vagy átdolgozást végző gazdálkodó szervezet a tárgyat újból köteles megvizsgálás és esetleges fémjelzés céljából bemutatni.
