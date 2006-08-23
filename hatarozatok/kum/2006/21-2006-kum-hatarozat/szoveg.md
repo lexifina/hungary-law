@@ -1,0 +1,5 @@
+A Magyar Közlöny 1983. évi 55. számában közzétett, a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya közötti postai és távközlési együttműködésről szóló Egyezmény időbeli hatályra és felmondásra vonatkozó 15. cikke szerint a felek az Egyezményt határozatlan időre kötötték és azt bármelyik fél írásban felmondhatja, amelynek következtében az Egyezmény attól a naptól számított hat hónap elteltével veszti hatályát, amely napon a másik Szerződő Fél a felmondásról szóló értesítést megkapta. Az Egyezményhez kapcsolódó Végrehajtási Jegyzőkönyv értelemszerűen szintén hatályát veszti az említett napon.
+
+Az Egyezményt a Magyar Fél a 2006. március 29-i jegyzékében felmondta, amelynek kézhezvételét a Szlovák Fél 2006. április 25-én visszaigazolta.
+
+A fentiekre tekintettel, összhangban a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya közötti postai és távközlési együttműködésről szóló Egyezmény időbeli hatályra és felmondásra vonatkozó 15. cikkével, megállapítom, hogy az Egyezmény és az ahhoz kapcsolódó Végrehajtási Jegyzőkönyv 2006. október 25-én, azaz kettőezer-hat október huszonötödikén veszti hatályát.
