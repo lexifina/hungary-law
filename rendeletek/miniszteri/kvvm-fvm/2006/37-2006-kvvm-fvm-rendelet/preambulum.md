@@ -1,0 +1,1 @@
+A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény 24. § (2) bekezdésében kapott felhatalmazás alapján a következőket rendeljük el:

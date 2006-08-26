@@ -1,0 +1,1 @@
+## 1. § A Vásárhelyi-terv továbbfejlesztése I. ütemében létesülő Hanyi-Tiszasülyi és Nagykunsági árvízi tározók területével érintett földrészletek jegyzékét, településenkénti bontásban és helyrajzi szám szerinti felsorolásban e rendelet melléklete tartalmazza.
