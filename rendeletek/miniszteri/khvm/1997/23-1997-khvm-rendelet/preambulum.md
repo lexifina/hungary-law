@@ -1,0 +1,1 @@
+A szakképzésről szóló – többször módosított – 1993. évi LXXVI. törvény 13. §-ának (1) bekezdésében foglalt felhatalmazás alapján – az ipari, kereskedelmi és idegenforgalmi, valamint a környezetvédelmi és területfejlesztési miniszterrel egyetértésben – a következőket rendelem el:
