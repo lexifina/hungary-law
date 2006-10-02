@@ -1,0 +1,3 @@
+A Kormány, élve a Kormány ügyrendjéről szóló 1088/1994. (IX. 20.) Korm. határozat 71. pontjában biztosított lehetőséggel, – ülésen kívül – úgy határoz, hogy az Alkotmány 39/A. §-ának (3) bekezdésében foglaltak alapján, a miniszterelnök útján, az Országgyűlésnél bizalmi szavazást kezdeményez.
+
+Ennek érdekében felhatalmazza a miniszterelnököt a vonatkozó országgyűlési határozati javaslatnak az Országgyűléshez történő soron kívüli benyújtására, és egyidejűleg – az Alkotmány 22. §-ának (3) bekezdése szerint – az Országgyűlés rendkívüli ülése 2006. október 6-ára történő összehívásának indítványozására.
