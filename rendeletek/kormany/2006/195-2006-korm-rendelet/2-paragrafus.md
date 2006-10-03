@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a nagy távolságra jutó, országhatárokon átterjedő levegőszennyezésről szóló, 1979. évi Genfi Egyezményhez kapcsolódó, a savasodás, az eutrofizáció és a talaj közeli ózon csökkentéséről szóló, 1999. december 1-jén, Göteborgban aláírt Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
