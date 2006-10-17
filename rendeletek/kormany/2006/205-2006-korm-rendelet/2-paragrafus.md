@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti nemzetközi fejlesztési együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
