@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Juhászné Lévai Katalin országgyűlési képviselő mentelmi jogát a Debreceni Városi Bíróság 75.B.1154/2006/2-I. számú megkeresésével érintett ügyben nem függeszti fel.
