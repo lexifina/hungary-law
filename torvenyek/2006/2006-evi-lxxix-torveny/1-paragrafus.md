@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Koreai Köztársaság között a szociális biztonságról szóló, Budapesten, 2006. május 12-én aláírt Egyezmény kötelező hatályának elismerésére.
