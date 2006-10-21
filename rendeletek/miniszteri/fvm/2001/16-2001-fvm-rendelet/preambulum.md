@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 11. §-ában foglalt felhatalmazás alapján – az érdekelt miniszterekkel és érdekképviseleti szervekkel egyetértésben – a következőket rendelem el:
