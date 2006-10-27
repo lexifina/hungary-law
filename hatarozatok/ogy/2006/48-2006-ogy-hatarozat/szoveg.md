@@ -1,0 +1,1 @@
+Az Országgyűlés a Közbeszerzések Tanácsának a közbeszerzések tisztaságával és átláthatóságával kapcsolatos tapasztalatairól, valamint a 2005. január 1.–december 31. közötti időszakban végzett tevékenységéről szóló beszámolóját elfogadja.
