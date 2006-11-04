@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az 1949. augusztus 12-én aláírt Genfi Egyezmények egy további megkülönböztető jelvény elfogadásáról szóló, Genfben, 2006. június 19-én aláírt Kiegészítő Jegyzőkönyve (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
