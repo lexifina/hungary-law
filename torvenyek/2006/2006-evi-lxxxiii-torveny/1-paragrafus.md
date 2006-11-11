@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a tagállamok kormányainak a Tanács keretében ülésező képviselőinek az Európai Védelmi Ügynökség és annak személyzete részére biztosított kiváltságokról és mentességekről szóló határozata (a továbbiakban: Határozat) kötelező hatályának elismerésére.
