@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és Románia között a magyar–román államhatár rendjéről, az együttműködésről és a kölcsönös segítségnyújtásról szóló, Bukarestben, 2005. október 20-án aláírt Szerződés (a továbbiakban: Szerződés) kötelező hatályának elismerésére.

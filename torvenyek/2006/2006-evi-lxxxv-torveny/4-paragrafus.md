@@ -1,0 +1,7 @@
+4. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E törvény 2–3. §-ai a Szerződés 25. cikk (1) bekezdésében meghatározott időpontban lépnek hatályba.
+
+(3) A Szerződés, illetve a törvény 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+(4) E törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik.
