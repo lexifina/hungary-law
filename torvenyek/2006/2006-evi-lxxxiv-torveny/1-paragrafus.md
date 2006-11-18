@@ -1,0 +1,3 @@
+## (A megerősítő okiratok kicserélésére 2005. december 20-án került sor, a Szerződés nemzetközi jogi hatálybalépésének napja 2006. március 1.)
+
+1. § Az Országgyűlés a Magyar Köztársaság és az Osztrák Köztársaság között a közös államhatár láthatóságának biztosításáról és az ezzel összefüggő kérdések szabályozásáról, a Magyar Népköztársaság és az Osztrák Köztársaság által 1964. október 31-én aláírt és 1987. április 29-én módosított és kiegészített Szerződés módosításáról és kiegészítéséről szóló, Budapesten, 2002. április 8-án aláírt Szerződést (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.
