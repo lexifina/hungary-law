@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Európai Unióról szóló szerződés K.3 cikke alapján létrehozott, a vámigazgatási szervek közötti kölcsönös segítségnyújtásról és együttműködésről szóló, Brüsszelben, 1997. december 18-án kelt Egyezményt e törvénnyel kihirdeti.
