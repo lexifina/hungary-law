@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Bosznia-Hercegovinai Köztársaság Kormánya között a terrorizmus, a kábítószer tiltott forgalma és a szervezett bűnözés elleni harcban történő együttműködésről szóló, Budapesten, 1996. április 21-én aláírt Megállapodást e törvénnyel kihirdeti.
