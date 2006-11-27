@@ -1,0 +1,5 @@
+A 195/2006. (IX. 25.) Korm. rendelettel a Magyar Közlöny 2006. szeptember 25-ei számában kihirdetett, a nagy távolságra jutó, országhatárokon átterjedő levegőszennyezésről szóló 1979. évi Genfi Egyezményhez kapcsolódó, a savasodás, az eutrofizáció és a talaj közeli ózon csökkentéséről 1999. december 1-jén, Göteborgban aláírt Jegyzőkönyv 17. cikke szerint a Jegyzőkönyv azt a napot követő kilencvenedik napon lép hatályba, amelyen a adott Fél letétbe helyezte saját megerősítő, elfogadási, jóváhagyási vagy csatlakozási okiratát.
+
+A Jegyzőkönyv 17. cikke szerinti letétbe helyezésre a Magyar Köztársaság vonatkozásában 2006. november 13-án került sor.
+
+A fentiekre tekintettel, összhangban a 195/2006. (IX. 25.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a nagy távolságra jutó, országhatárokon átterjedő levegőszennyezésről szóló 1979. évi Genfi Egyezményhez kapcsolódó, a savasodás, az eutrofizáció és a talaj közeli ózon csökkentéséről, 1999. december 1-jén, Göteborgban aláírt Jegyzőkönyv kihirdetéséről szóló 195/2006. (IX. 25.) Korm. rendelet 2–3. §-ai 2007. február 11-én lépnek hatályba.
