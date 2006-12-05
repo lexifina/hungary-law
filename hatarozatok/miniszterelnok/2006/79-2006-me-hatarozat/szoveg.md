@@ -1,0 +1,1 @@
+Az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 12. §-ának (3) bekezdése alapján az Állami Privatizációs és Vagyonkezelő Zrt. Igazgatóságának tagjává 2006. december 5. napjától 2007. június 30. napjáig terjedő időtartamra – a pénzügyminiszter javaslatára – kinevezem dr. Deák Péter Ferencet és dr. Kovács Jánosnét.
