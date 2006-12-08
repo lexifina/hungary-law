@@ -1,0 +1,5 @@
+A 2006. évi XXXI. törvénnyel kihirdetett, a Nemzetközi Büntetőbíróság Statútuma Részes Államainak Első Közgyűlése által, 2002. szeptember 10-én, New Yorkban elfogadott, a Nemzetközi Büntetőbíróság kiváltságairól és mentességeiről szóló Megállapodás 35. cikk 2. pontja szerint a Megállapodást a tizedik megerősítő, elfogadó vagy jóváhagyó okirat Főtitkárnál történt letétbe helyezése után megerősítő, elfogadó, jóváhagyó államok vonatkozásában a Megállapodás a megerősítő, elfogadó vagy jóváhagyó okirat letétbe helyezését követő 30. napon lép hatályba.
+
+A megerősítő okiratnak az Egyezmény 35. cikk 2. pontja szerinti letétbe helyezésére a Magyar Köztársaság vonatkozásában 2006. március 22-én került sor.
+
+A fentiekre tekintettel, összhangban a 2006. évi XXXI. törvény 4. § (3) bekezdésével megállapítom, hogy a Nemzetközi Büntetőbíróság Statútuma Részes Államainak Első Közgyűlése által, 2002. szeptember 10-én, New Yorkban elfogadott, a Nemzetközi Büntetőbíróság kiváltságairól és mentességeiről szóló Megállapodás kihirdetéséről szóló 2006. évi XXXI. törvény 2–3. §-ai 2006. április 21-én, azaz kettőezer-hat április huszonegyedikén, hatályba léptek.
