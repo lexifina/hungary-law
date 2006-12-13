@@ -1,0 +1,9 @@
+4. § (1)[^2] A támogatás igénylését a helyi önkormányzatok az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 64/B. § (3) bekezdése alapján, a nem állami intézmények fenntartói a közoktatásról szóló 1993. évi LXXIX. törvény végrehajtásáról rendelkező 20/1997. (II. 13.) Korm. rendelet (a továbbiakban: Rendelet) 13. § (1) bekezdése alapján a Magyar Államkincstár területileg illetékes Igazgatóságaihoz, a fővárosban, illetve Pest megyében a Budapest és Pest Megyei Regionális Igazgatósághoz (a továbbiakban: MÁK) nyújthatják be.
+
+(2) A támogatás összegének igényléséhez szükséges adatokat az önkormányzatok e rendelet 1. számú melléklete szerinti kilencedik évfolyamos létszám- és csoportfenntartói összesítő adatlapon összesítik, és az igénylést tartalmazó adatlapokat 2006. június 30-áig két példányban nyújtják be a MÁK részére papír alapon és elektronikus formában.
+
+(3) Az önkormányzatok fenntartásában lévő oktatási intézmények összesített támogatási igényeit a MÁK 2006. július 15-éig küldi meg az Oktatási Minisztérium részére e rendelet 2. számú mellékletét képező megyei összesítő lapokon papír alapon és elektronikus formában. Az Oktatási Minisztérium az adatok felülvizsgálata után a Belügyminisztérium részére 2006. szeptember 1-jéig a támogatási összeg feltüntetésével az önkormányzatonként meghatározott adatokat utalványozás céljából megküldi.
+
+(4) A támogatás folyósításáról a költségvetési törvény 5. mellékletének 27. pontjában szereplő forrás terhére a Belügyminisztérium utalványozása alapján a MÁK havonta intézkedik havonta egyenlő részletekben 2006. szeptember–október–november–december hónapokban, nettó finanszírozás keretében.
+
+[^2]: A 4. § (1) bekezdése a 12/2006. (XII. 5.) OKM rendelet 2. § (2) bekezdésének a) pontja szerint módosított szöveg.

@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2006. évi költségvetéséről szóló 2005. évi CLIII. törvény (a továbbiakban: költségvetési törvény) 5. számú mellékletének 27. pontja alapján – figyelemmel a költségvetési törvény 12. § (1) bekezdésére, valamint a 30. § (1) bekezdésére – a következőket rendelem el:
