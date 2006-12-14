@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Egyesült Nemzetek keretében, Palermóban, 2000. december 14-én létrejött, a nemzetközi szervezett bűnözés elleni Egyezménynek az emberkereskedelem, különösen a nők és gyermekek kereskedelme megelőzéséről, visszaszorításáról és büntetéséről szóló Jegyzőkönyve kötelező hatályának elismerésére.
