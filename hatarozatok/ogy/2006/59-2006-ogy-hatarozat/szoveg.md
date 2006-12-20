@@ -1,0 +1,1 @@
+Az Országgyűlés felkéri a Kormányt, hogy a magyar gazdaságban – különösen a közbeszerzések területén – kialakuló vállalkozói „körbetartozások” mérséklése érdekében a szükséges társadalmi és szakmai egyeztetéseket végezze el, és ezen egyeztetések alapján a szükséges törvényi szabályozás megalkotásáról szóló javaslatát legkésőbb 2007. március 31-ig terjessze az Országgyűlés elé.
