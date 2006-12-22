@@ -1,0 +1,1 @@
+18. § A Magyar Köztársaság 2006. évi költségvetéséről szóló 2005. évi CLIII. törvény 48. §-a (1) bekezdésének a) pontjában megjelölt alcímek együttes előirányzataként 771 100,0 millió forintot kell alapul venni.
