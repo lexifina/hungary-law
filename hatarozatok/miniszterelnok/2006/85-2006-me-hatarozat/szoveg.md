@@ -1,0 +1,1 @@
+Az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 19. §-ának (5) bekezdése alapján Csikós Bálint, az ÁPV Zrt. volt vezérigazgató-helyettese számára a Nógrád Volán Zrt. igazgatósági tisztségének vállalása céljából a 19. § (5) bekezdése alapján fennálló foglalkoztatási tilalom, illetőleg korlátozás alól a felmentést megadom.
