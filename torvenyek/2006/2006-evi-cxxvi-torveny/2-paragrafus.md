@@ -1,0 +1,1 @@
+2. § Az Országgyűlés e törvénnyel kihirdeti az Európai Gazdasági Térségről szóló Megállapodást (a továbbiakban: EGT-megállapodás). Az EGT-megállapodás hiteles magyar nyelvű szövegét a törvény II. melléklete tartalmazza.
