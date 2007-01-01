@@ -1,0 +1,1 @@
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 83. §-a (4) bekezdésének g) pontja alapján, az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 4. § (1) bekezdés b) pontjában megállapított feladatkörben a következőket rendelem el:
