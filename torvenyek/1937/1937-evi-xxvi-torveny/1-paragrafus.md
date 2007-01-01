@@ -1,0 +1,1 @@
+1. § Az örökösödési illetékek tekintetében a kettős adóztatás elhárítása tárgyában Budapesten, 1936. évi november hó 20. napján kelt magyar-svéd egyezmény és a hozzátartozó zárójegyzőkönyv az ország törvényei közé iktattatnak.
