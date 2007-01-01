@@ -1,0 +1,1 @@
+4. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy ellássa az Egyezmény 2. Cikke szerinti Központi Hatóság feladatkörét, és megállapítsa az e minőségben végzendő feladatai ellátásához szükséges részletes szabályokat.

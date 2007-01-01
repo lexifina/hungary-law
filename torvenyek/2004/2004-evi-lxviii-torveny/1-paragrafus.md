@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a gyermekek feletti felügyeleti jogot érintő határozatok elismeréséről és végrehajtásáról, valamint a felügyeleti viszonyok helyreállításáról szóló, 1980. május 20. napján Luxemburgban kelt európai Egyezményt (a továbbiakban: Egyezmény) e törvénnyel kihirdeti.
