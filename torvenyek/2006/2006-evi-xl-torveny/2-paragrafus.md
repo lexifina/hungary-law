@@ -1,0 +1,1 @@
+2. § Az Országgyűlés a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a kiadatásról és a kölcsönös bűnügyi jogsegélyről szóló, Budapesten, 1994. december 1-jén aláírt szerződések módosításáról szóló szerződéseket e törvénnyel kihirdeti.
