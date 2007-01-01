@@ -1,0 +1,1 @@
+1. § A nemzetközi légi fuvarozásra vonatkozó egyes szabályok egységesítése tárgyában Varsóban, 1929. évi október hó 12. napján kelt nemzetközi egyezmény és a hozzátartozó pótjegyzőkönyv az ország törvényei közé iktattatik.
