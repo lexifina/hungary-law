@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között személyeknek az államhatáron történő átvételéről szóló, Párizsban, 1996. december 16-án aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1998. november 30-án megtörtént. Az Egyezmény nemzetközi jogi hatálybalépésének napja 1998. december 30.)
