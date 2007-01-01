@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és Bosznia és Hercegovina között a beruházások ösztönzéséről és kölcsönös védelméről, Budapesten, 2002. szeptember 26-án aláírt Megállapodást e törvénnyel kihirdeti.
