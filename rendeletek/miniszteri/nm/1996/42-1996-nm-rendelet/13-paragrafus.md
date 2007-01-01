@@ -1,0 +1,3 @@
+13. § (1) Ha a lakás elidegenítése részletfizetési kedvezménnyel történik, a vételárhátralék és járulékai erejéig, a költségvetési szerv javára jelzálogot, valamint elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyeztetni. E jogok fennállása alatt a lakás tulajdonjoga csak a vételárhátralék és járulékai kiegyenlítése után ruházható át. A 12. § (2)—(3) bekezdése esetében a lakásra 5 évig tartó elidegenítési és terhelési tilalmat kell bejegyeztetni a költségvetési szerv javára.
+
+(2) A vételárhátralék és járulékai kiegyenlítése, valamint a 12. § (2)—(3) bekezdése esetén az 5 év elteltével a költségvetési szerv a jelzálogjogot, az elidegenítési és terhelési tilalmat az ingatlan-nyilvántartásból köteles töröltetni.

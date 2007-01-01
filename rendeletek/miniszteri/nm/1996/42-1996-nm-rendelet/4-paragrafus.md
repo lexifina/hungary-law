@@ -1,0 +1,3 @@
+4. § (1) A bérlő a lakásba házastársa és kiskorú gyermeke kivételével más személyt csak a bérbeadó írásbeli hozzájárulásával fogadhat be. A hozzájárulás csak határozott időre, legfeljebb a bérleti jogviszony fennállásának időtartamára adható. A bérleti jogviszony lejártakor a bérlő köteles gondoskodni arról, hogy a befogadott személy a lakásból kijelentkezzen, és azt a megadott határidőre elhagyja.
+
+(2) A bérbeadó nem adhat hozzájárulást a lakás — vagy a lakás egy meghatározott részére — albérletbe vagy más használatába adásához, bérleti jog folytatására irányuló tartási szerződés megkötéséhez, továbbá a lakásra bérlőtársi jogviszony nem létesíthető, annak bérleti joga nem folytatható.
