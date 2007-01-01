@@ -1,0 +1,1 @@
+116. § Az Országgyűlés elrendeli, hogy a felsőoktatásról szóló 1993. évi LXXX. törvény 9/D. §-ának (1)–(3) bekezdéseiben és a 9/E. §-ának (1) bekezdésében meghatározott, az előirányzatok minimum összegére vonatkozó előírásokat 2001–2002. években nem kell alkalmazni.

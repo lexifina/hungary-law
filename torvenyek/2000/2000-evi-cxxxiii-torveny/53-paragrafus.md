@@ -1,0 +1,1 @@
+53. § A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 43. §-ának (1) bekezdésében foglalt, a II. besorolási osztály első fizetési fokozata szerinti illetményalap a 2001. évben 30 600 forint, 2002. évben 33 000 forint.

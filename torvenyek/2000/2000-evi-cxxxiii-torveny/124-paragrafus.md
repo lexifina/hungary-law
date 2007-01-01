@@ -1,0 +1,1 @@
+124. § A helyi önkormányzatok a 2001. évre szóló költségvetési rendeletük elfogadásával egyidejűleg a 2002. évre szóló költségvetési rendeletüket, valamint azokat a rendeleteket is elfogadhatják, amelyek a javasolt előirányzatokat megalapozzák.

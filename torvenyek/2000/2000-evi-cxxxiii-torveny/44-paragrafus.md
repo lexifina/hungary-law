@@ -1,0 +1,1 @@
+44. § A 18/1998. (IX. 1.) FVM rendelet, a 41/1998. (X. 21.) FVM rendelet, valamint a 69/1999. (VIII. 26.) FVM rendelettel prolongált éven belüli – 70%-os kezességgel biztosított – agrárhitelek kezességérvényesítéséből származó, 2001. november 15-én fennálló, állammal szembeni kötelezettségét a hiteladósnak nem kell teljesítenie.

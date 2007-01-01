@@ -1,0 +1,1 @@
+45. § Az agrárkezességek érvényesítésének forrása 2001. január 1-jétől 50–50%-ban a XII. Földművelési és Vidékfejlesztési Minisztérium fejezet 10. cím, 4. alcím, 1. jogcím-csoport, 1. Mezőgazdasági alaptevékenységek beruházásainak támogatása, valamint a 11. cím 3. Agrártermelés költségeit csökkentő támogatás jogcímeken előirányzott összeg.

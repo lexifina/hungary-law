@@ -1,0 +1,3 @@
+7. § (1) Az Országgyűlés felhatalmazza a Kormányt, hogy az ÁPV Rt. vagyonkezelésében lévő ingatlanokat, amelyeknek az értékesítési kísérlete nem vezetett eredményre, valamint a HM-től az ÁPV Rt. hozzárendelt vagyonába került ingatlanokat és a volt szovjet laktanyákat illetően – foglalkoztatáspolitikai, szociálpolitikai, ifjúságpolitikai, iparfejlesztési célok megvalósításának elősegítésére – eseti döntést hozzon azok térítésmentes, helyi önkormányzati tulajdonba adásáról.
+
+(2) Az ÁPV Rt. a hozzárendelt vagyonába tartozó, Pápa, Fő tér 2. szám alatti, 5/2 hrsz.-ú műemlékingatlant térítésmentesen adja át a KVI-nek.

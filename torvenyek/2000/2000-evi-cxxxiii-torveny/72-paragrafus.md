@@ -1,0 +1,1 @@
+72. § A LXXII. Egészségbiztosítási Alap fejezet 2. cím, 3. alcím, 5. Gyógyászati segédeszköz támogatás jogcím-csoport előirányzat tartalmazza az OEP által a járóbeteg-szakellátás részére beszerzett gyógyászati segédeszközök kiadásait is.

@@ -1,0 +1,31 @@
+## A közoktatásról szóló 1993. évi LXXIX. törvény módosítása
+
+88. § (1) A közoktatásról szóló – módosított – 1993. évi LXXIX. törvény (a továbbiakban: Kt.) 19. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+
+,,(3) Azt, akit munkaviszonyban, közalkalmazotti jogviszonyban pedagógus munkakörben foglalkoztatnak, megilleti az a jog, hogy – jogszabályban meghatározottak szerint – évenként az éves költségvetési törvényben normatív, kötött felhasználású támogatásként megállapított összegnek megfelelő hozzájárulást vegyen igénybe szakirodalom (könyv, tankönyv, jegyzet, folyóirat, elektronikus ismerethordozók stb.) vásárlásához, illetve a könyvtári beiratkozáshoz.''
+
+(2) A Kt. 27. §-ának (8) bekezdése helyébe a következő rendelkezés lép:
+
+,,(8) Az, aki nem fejezte be az általános iskola nyolcadik évfolyamát és elmúlt tizenhat éves, nappali rendszerű iskolai oktatás keretében egy-két éves felzárkóztató oktatásban vehet részt, a szakiskola kilencedik-tizedik évfolyamán. A felzárkóztató oktatás eredményes befejezése után a tanuló a szakiskola első szakképzési évfolyamába léphet. A felzárkóztató oktatást jogszabályban meghatározottak szerint kell szervezni.''
+
+(3) A Kt. 30. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+,,(1) A testi, az érzékszervi, az értelmi, a beszéd- vagy más fogyatékos gyermeknek, tanulónak joga, hogy különleges gondozás keretében állapotának megfelelő pedagógiai, gyógypedagógiai, konduktív pedagógiai ellátásban részesüljön, attól kezdődően, hogy fogyatékosságát megállapították. A különleges gondozást – a gyermek, tanuló életkorától és állapotától függően, a 35. § (2) bekezdésében meghatározott szakértői és rehabilitációs bizottságok szakértői véleményében foglaltak szerint – a korai fejlesztés és gondozás, az óvodai nevelés, az iskolai nevelés és oktatás, a fejlesztő felkészítés keretében kell biztosítani. A korai fejlesztés és gondozás megvalósítható otthoni ellátás, bölcsődei gondozás, fogyatékosok ápoló, gondozó otthonában nyújtott gondozás, gyermekotthonban nyújtott gondozás, gyógypedagógiai tanácsadás, korai fejlesztés és gondozás keretében biztosított fejlesztés és gondozás, konduktív pedagógiai ellátás keretében.''
+
+(4) A Kt. 124. §-ának (23)–(24) bekezdése helyébe a következő rendelkezés lép és (25) bekezdéssel egészül ki:
+
+,,(23) A 118. §-a (4) bekezdésének első mondatában foglaltak a 2001–2002. költségvetési évekre nem vonatkoznak.
+
+(24) A könyvtáros tanárok (tanítók) alkalmazására vonatkozó rendelkezések 2003. szeptember 1-jétől kötelezőek. Ha a közoktatási intézményekben a vezető beosztásban foglalkoztatottak száma eggyel kevesebb, mint amennyit az e törvény 1. számú mellékletének Harmadik része meghatároz, e megbízás kiadása 2003. szeptember 1-jéig nem kötelező. Ha az iskolában, kollégiumban a szabadidő-szervező munkakör nincs betöltve, e munkakör betöltése 2003. szeptember 1-jéig nem kötelező. A 2001/2002. és a 2002/2003. tanévben az e törvény 52. §-ának (7) bekezdése alapján kiszámított időkeret nyolcvan százalékának biztosítása kötelező az általános iskolákban és a szakiskolák kilencedik-tizedik évfolyamán, illetve kilencven százalékának biztosítása kötelező a középiskolák kilencedik-tizenharmadik évfolyamán.
+
+(25) A kötelező és a nem kötelező tanórai foglalkozásokra, valamint a tanulókkal való közvetlen foglalkozásra fordított kötelező órák száma a 2001/2002. tanévben azokban a pedagógus munkakörökben sem nő, amelyekben a kötelező órák száma megemelkedett. Az óraszámemelés a helyi tantervek bevezetésével és a minőségbiztosítás rendszerének kiépítésével kapcsolatos többletfeladatok végrehajtásával teljesül. A 2002/2003. tanévtől kezdődően pedig minden, az óraszám emeléssel érintett pedagógus kötelező órájából az első-negyedik évfolyamon heti egy órát a tanulókkal való egyéni foglalkozásra, felzárkóztatásra, tehetséggondozásra, az ötödik-tizenkettedik évfolyamon heti egy órát a tanulókkal való egyéni foglalkozásra, felzárkóztatásra, tehetséggondozásra, heti egy órát pedig – a szakkör kivételével – az 53. § (2) bekezdés b)–d) pontjában felsorolt nem kötelező tanórai foglalkozás megtartására kell fordítani.''
+
+(5) A Kt. 1. számú melléklet Első rész ,,A nevelő és oktató munkát közvetlenül segítő alkalmazottak'' cím, a ,,További foglalkoztatás a nevelési-oktatási intézményekben'' címet megelőzően a következő bekezdéssel egészül ki:
+
+,,A gyermek- és ifjúságvédelmi felelős és a szabadidő-szervező pótszabadságának, valamint juttatásainak meghatározására a pedagógus munkakörben foglalkoztatott közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni.''
+
+(6) A Kt. 1. számú melléklete Harmadik rész ,,A VEZETŐK ÉS A BEOSZTOTT PEDAGÓGUSOK KÖTELEZŐ ÓRASZÁMA'' cím ,,B) PEDAGÓGUS ÉS SZAKVIZSGÁZOTT PEDAGÓGUS MUNKAKÖRÖK'' alcím helyébe e törvény 13. számú melléklete lép.''
+
+(7) A Kt. 1. számú melléklet Harmadik rész II/6. pontja helyébe a következő rendelkezés lép:
+
+,,6. A pedagógus kötelező óráját az óvodában a gyermekekkel való közvetlen, a teljes óvodai életet magában foglaló foglalkozásra, az iskolában, és a kollégiumban a tanulókkal való közvetlen foglalkozásra, a kötelező és nem kötelező tanórai foglalkozásra, kollégiumi foglalkozásra, napközis és tanulószobai foglalkozásra kell fordítani. A gyakorlati oktatásvezető és a gyakorlati oktatásvezető-helyettes a kötelező órája keretében ellátja a tanulók gyakorlati és elméleti képzését, a gyakorlati képzést szervezőknél folyó gyakorlati képzés ellenőrzését. A tanulókkal való közvetlen foglalkozás körébe tartozik az osztály közösségi programjainak és a tanulókkal való egyéni törődés feladatainak [52. § (7) bekezdés] megtartása, azoknak a szakköröknek, érdeklődési köröknek, önképző köröknek, tanulmányi, szakmai és kulturális versenyeknek, házi bajnokságoknak, iskolák közötti versenyeknek továbbá más tanórán kívüli foglalkozásoknak [53. § (2) bekezdés b)–d) pontja] megtartása, amelyeket az iskolai nem kötelező tanórai foglalkozás időkeretének terhére szerveznek, valamint az iskola pedagógiai programjában rögzített, a tanítási órák keretében meg nem valósítható osztály- vagy csoportfoglalkozások [53. § (2) bekezdés e) pontja] megtartása, kollégiumban a szabadidő eltöltését szolgáló és az egyéni törődést biztosító foglalkozások [53. § (7) bekezdés] megtartása.''
