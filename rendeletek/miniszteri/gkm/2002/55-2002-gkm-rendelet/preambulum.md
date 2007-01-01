@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében és a közúti közlekedésről szóló 1988. évi I. törvény 48. §-a (3) bekezdésének e) pontjában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – az alábbiakat rendelem el:
