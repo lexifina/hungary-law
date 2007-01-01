@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a 2002. szeptember 10-én, New Yorkban elfogadott, a Nemzetközi Büntetőbíróság kiváltságairól és mentességeiről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
