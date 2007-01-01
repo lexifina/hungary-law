@@ -1,0 +1,1 @@
+A Kormány a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) 28. §-a (1) bekezdésének e) és f) pontjában kapott felhatalmazás alapján a következőket rendeli el:
