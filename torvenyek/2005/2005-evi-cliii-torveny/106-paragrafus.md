@@ -1,0 +1,9 @@
+106. § (1) Az üzemben tartási díjnak a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: média tv.) 79. §-ának (2) bekezdése szerint megállapított összege a 2006. évre havi 967 forint.
+
+(2) Az Országgyűlés felhatalmazza a Kormányt, hogy a média tv. 79. §-ának (1) bekezdése szerinti üzemben tartási díj 2006-ra esedékes összegének megfizetését átvállalja.
+
+(3) A (2) bekezdés szerinti átvállalás összegének alapja a 2002. évi elvi díjbevétel (a 2001. évben ténylegesen beszedett díjbevétel 7%-kal megnövelt és 9,55% beszedési költséggel csökkentett összege, valamint a mentesítettek után 2002-ben térített díjátalány együttesen). Ezt kell megnövelni az (1) bekezdésben foglalt díjösszegnek a 2002. évi üzemben tartási díj (havi 740 Ft) nagyságához viszonyított növekedése arányában.
+
+(4) A Magyar Televízió Közalapítvány – a média tv. 60. §-a (2) bekezdésének a) pontja szerint felhasználható – céltámogatása (I. Országgyűlés fejezet, 13. cím, 1. alcím) – elkülönített nyilvántartással, a cél szerinti felhasználást megállapítható módon – a Magyar Televízió Rt. reorganizációs tervének megvalósításához, az átalakított szervezeti struktúrájának és munkafolyamatainak megfelelő működéséhez szükséges költségek – ideértve a korszerű megjelenésű és tartalmú közéleti és kulturális műsorok súlyának növelését is –, továbbá a közszolgálati tevékenysége ellátásához alapvetően szükséges ingatlanok (székhely, stúdiók, gyártóbázis) fedezetéül szolgál. A bérbeadó által a szerződés szerint kiállított számlán szereplő összegű bérleti díjat közvetlenül a bérbeadónak kell folyósítani az MTV Rt. engedélyező nyilatkozata alapján, és az MTV Rt. könyveiben kell kiadásként elszámolni.
+
+(5) Az Országgyűlés 2006. december 31-ei hatállyal elengedi a Magyar Televízió Rt.-nek a Magyar Állammal szemben fennálló, kezesség érvényesítésből keletkezett legfeljebb 4 059 020,0 ezer forint összegű tartozását.

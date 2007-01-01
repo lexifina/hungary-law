@@ -1,0 +1,5 @@
+13. § (1) A központi költségvetés központosított bevételeit képezik az e törvény 1. számú mellékletében a XII. Földművelésügyi és Vidékfejlesztési Minisztérium fejezet, 13. cím, a XV. Gazdasági és Közlekedési Minisztérium fejezet, 28. cím, a XVI. Környezetvédelmi és Vízügyi Minisztérium fejezet, 12. cím, a XVII. Területfejlesztés fejezet, 8. cím, a XVIII. Külügyminisztérium fejezet, 7. cím, a XXII. Pénzügyminisztérium fejezet, 31. cím és a XXV. Informatikai és Hírközlési Minisztérium fejezet, 7. cím alatt meghatározott bevételek.
+
+(2) Az (1) bekezdésben meghatározott központi bevételi előirányzatok beszedéséért, az e törvényben meghatározott előirányzatok teljesítésért – ha törvény másként nem rendelkezik – az adott fejezet felügyeletét ellátó szerv vezetője tartozik felelősséggel.
+
+(3) A XI. Belügyminisztérium fejezet, 20. cím, 6. alcímhez tartozó jogcím-csoportok, jogcímek költségvetési támogatási előirányzatai tartalmazzák a sportról szóló 2004. évi I. törvény 56. §-ának (2) bekezdése szerinti bevételeket.

@@ -1,0 +1,3 @@
+77. § (1) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcímen belül az időarányoshoz viszonyított évközi előirányzat-túllépést az 1. jogcím-csoport jogcímei együttesen kezelt előirányzatai esetében az éves előirányzat 5%-áig, a 4. jogcím-csoport 2. és 3. jogcímek együttesen kezelt előirányzatai, továbbá az 5. jogcím-csoport jogcímei együttesen kezelt előirányzatai esetében az éves előirányzat 10%-áig a pénzügyminiszter, e mérték felett a Kormány engedélyezheti.
+
+(2) Az (1) bekezdés szerinti túllépés kiszámításánál az érintett előirányzatoknál a 79. §-ban meghatározott előleget nem kell figyelembe venni.

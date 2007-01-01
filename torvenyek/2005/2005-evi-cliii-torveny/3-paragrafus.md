@@ -1,0 +1,1 @@
+3. § Az Országgyűlés felhatalmazza a pénzügyminisztert, hogy a központi költségvetés 2006. évi hiányát finanszírozza, a Kincstári Egységes Számla (a továbbiakban: KESZ) folyamatos likviditását biztosítsa és a központi költségvetés adósságát, valamint a Magyar Államkincstár (a továbbiakban: Kincstár) által kezelt követeléseit kezelje.

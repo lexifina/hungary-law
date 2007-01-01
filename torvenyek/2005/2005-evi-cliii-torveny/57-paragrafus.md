@@ -1,0 +1,3 @@
+57. § (1) Az Európai Unió Bizottsága és a Magyar Köztársaság által elfogadott NVT-ben meghatározott összegek (kötelezettségvállalási keret-előirányzatok) egy évnél hosszabb távú elkötelezettséget jelentenek a Kormány részére. A keretek összegét a 19. számú melléklet mutatja be.
+
+(2) Az Európai Unió EMOGA Garancia Részlegéből finanszírozott, NVT-ben foglalt intézkedések esetén – az intézkedések összege tekintetében – 2006-ban a 19. számú mellékletben a 2006. évre meghatározott, illetve az előző években még kötelezettségvállalással nem terhelt és még érvényben lévő kötelezettségvállalási keret-előirányzat összegéig vállalható tárgyévi és éven túli kötelezettség.

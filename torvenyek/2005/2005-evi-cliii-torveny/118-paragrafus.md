@@ -1,0 +1,1 @@
+118. § A LXVI. Központi Nukleáris Pénzügyi Alap fejezet 1. cím Kis- és közepes aktivitású hulladéktárolók létesítésének előkészítése kiadási előirányzata tekintetében a beruházási ráfordítások a Kormány engedélyével növelhetők, amennyiben a hulladéktároló létesítésére szolgáló beruházás megvalósítása ezt indokolttá teszi.

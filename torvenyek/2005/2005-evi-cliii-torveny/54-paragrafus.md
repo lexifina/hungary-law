@@ -1,0 +1,15 @@
+54. § (1) Az Európai Unió Bizottsága és a Magyar Köztársaság által elfogadott Közösségi Támogatási Keretben, illetve az operatív programokban meghatározott prioritás-összegek (kötelezettségvállalási keret-előirányzatok) egy évnél hosszabb távú elkötelezettséget jelentenek a Kormány részére. A keretek összegét a 15. számú melléklet mutatja be.
+
+(2) Az Európai Unió Strukturális Alapjaiból származó támogatások esetén tárgyévben a 15. számú mellékletben a tárgyévre meghatározott, illetve az előző években még kötelezettségvállalással nem terhelt és még érvényben lévő kötelezettségvállalási keret-előirányzat összegéig vállalható tárgyévi és éven túli kötelezettség. Ezt meghaladó kötelezettségvállalásra az 55. §-ban meghatározott mértékig van lehetőség.
+
+(3) Az Európai Unió Bizottsága és a Magyar Köztársaság által elfogadott EQUAL Programdokumentumban meghatározott prioritás-összegek (kötelezettségvállalási keret-előirányzatok) egy évnél hosszabb távú elkötelezettséget jelentenek a Kormány részére. A keretek összegét a 16. számú melléklet mutatja be.
+
+(4) Az Európai Unió EQUAL Közösségi Kezdeményezésből származó támogatások esetén tárgyévben a 16. számú mellékletben a tárgyévre meghatározott, illetve az előző években még kötelezettségvállalással nem terhelt és még érvényben lévő kötelezettségvállalási keret-előirányzat összegéig vállalható tárgyévi és éven túli kötelezettség. Ezt meghaladó kötelezettségvállalásra az 55. §-ban meghatározott mértékig van lehetőség.
+
+(5) Az Európai Unió Bizottsága és a Magyar Köztársaság által közösen jóváhagyott, az Európai Unió Kohéziós Alapjából, illetve a Schengen Alapból támogatott projektekre meghatározott összegek (kötelezettségvállalási keret-előirányzatok) egy évnél hosszabb távú elkötelezettséget jelentenek a Kormány részére. A keretek összegét a 17. és 18. számú melléklet mutatja be.
+
+(6) Az Európai Unió Kohéziós Alapjából, illetve Schengen Alapjából finanszírozott projektek esetén 2006-ban a 17. és 18. számú mellékletben a 2006. évre meghatározott, illetve az előző években még kötelezettségvállalással nem terhelt és még érvényben lévő uniós kötelezettségvállalási keret-előirányzat és a kapcsolódó központi költségvetési finanszírozás mértékéig vállalható tárgyévi és éven túli kötelezettség.
+
+(7) Az Európai Gazdasági Térség (EGT) Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus által támogatott projektekre meghatározott összegek (kötelezettségvállalási keret-előirányzatok) egy évnél hosszabb távú elkötelezettséget jelentenek a Kormány részére. A keretek összegét a 20. számú melléklet mutatja be.
+
+(8) Az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus által finanszírozott projektek esetén 2006-ban a 20. számú mellékletben a 2006. évre meghatározott, illetve az előző évben még kötelezettségvállalással nem terhelt és még érvényben lévő kötelezettségvállalási keret-előirányzat és a kapcsolódó központi költségvetési hozzájárulás mértékéig vállalható tárgyévi és éven túli kötelezettség.

@@ -1,0 +1,1 @@
+43. § Amennyiben az államnak e törvény 33–36. §-ai, 41. §-a, valamint a Priv.tv. 23. §-ának (4) bekezdése alapján fizetési kötelezettsége keletkezik, azt a XXII. Pénzügyminisztérium fejezet, 18. Állam által vállalt kezesség és viszontgarancia érvényesítése cím terhére kell teljesíteni.

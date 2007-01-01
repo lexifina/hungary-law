@@ -1,0 +1,1 @@
+115. § Az operatív programok, a Kohéziós Alapból finanszírozott projektek, az INTERREG Közösségi Kezdeményezés programjai és a PHARE támogatások esetén tervezett céltartalék csak az adott program előre nem látható kiadásainak finanszírozására használható fel. A céltartalék intézményi kiadási célokra nem fordítható.
