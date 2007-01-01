@@ -1,0 +1,3 @@
+## Emlékezetül adom mindenkinek, akit illet, hogy Magyarország Országgyűlése a következő törvénycikket alkotta:
+
+1. § Az Egészségügyi Világszervezet Alkotmánya, amelyet a New Yorkban tartott Nemzetközi Egészségügyi Értekezleten 1946. évi július hó 22-én aláírtak, úgyszintén a vele kapcsolatos következő okmányok: az Egészségügyi Világszervezet Ideiglenes Bizottságának felállításáról rendelkező, New Yorkban 1946. évi július hó 22-én aláírt Megegyezés és a Nemzetközi Közegészségügyi Hivatalra vonatkozó, New Yorkban 1946. évi július hó 22-én aláírt Jegyzőkönyv, a magyar állam törvényei közé iktattatnak.
