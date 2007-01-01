@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a környezeti ügyekben az információhoz való hozzáférésről, a nyilvánosságnak a döntéshozatalban történő részvételéről és az igazságszolgáltatáshoz való jog biztosításáról szóló, Aarhusban, 1998. június 25-én elfogadott Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló okirat letétbe helyezésére 2001. július 3-án került sor.)
