@@ -1,0 +1,1 @@
+2. § Az Országgyűlés a Választottbírósági Egyezményt, az Első Csatlakozási Egyezményt, az Első Aláírási Jegyzőkönyvet, a Módosító Jegyzőkönyvet, a Második Csatlakozási Egyezményt és a Második Aláírási Jegyzőkönyvet e törvénnyel kihirdeti.
