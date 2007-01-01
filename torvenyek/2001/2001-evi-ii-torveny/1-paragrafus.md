@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a tengeri felkutatásról és mentésről szóló 1979. évi nemzetközi egyezményt (a továbbiakban: Egyezmény) e törvénnyel kihirdeti. (Az Egyezményhez való csatlakozásról az okirat letétbe helyezése 2000. január 27. napján megtörtént, ennek alapján az Egyezmény a Magyar Köztársaság vonatkozásában 2000. február 26. napján lépett hatályba.)
