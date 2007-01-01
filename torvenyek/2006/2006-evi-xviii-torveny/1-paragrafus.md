@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Bosznia-Hercegovinai Köztársaság Kormánya között személyeknek az államhatáron történő átadásáról és átvételéről szóló, Budapesten, 1996. április 21-én aláírt Egyezményt e törvénnyel kihirdeti.
