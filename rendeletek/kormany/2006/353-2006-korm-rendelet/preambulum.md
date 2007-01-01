@@ -1,0 +1,1 @@
+A Kormány a lakossági energiafelhasználás támogatási rendszerében 2007. január 1-jétől bekövetkező változásokra figyelemmel, a szociális alapú támogatási rendszerre való áttérés zökkenőmentességének biztosítása érdekében, az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotói hatáskörében a következőket rendeli el:

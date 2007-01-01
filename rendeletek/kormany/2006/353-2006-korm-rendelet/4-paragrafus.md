@@ -1,0 +1,7 @@
+4. § (1) Amennyiben a szolgáltatónak e rendelet alapján előleg kerül átutalásra, a támogatás elszámolása során az R. 10. §-ának (3) bekezdésében foglaltakat a (2)–(4) bekezdésben foglalt eltéréssel kell alkalmazni.
+
+(2) Annak a szolgáltatónak, amely e rendelet alapján előlegben részesül (a továbbiakban: támogatott szolgáltató), a 2007. április 1-jét követő első igényléstől [R. 10. § (1) bek.] kezdődően az igényelt támogatás nem téríthető meg mindaddig, amíg az átutalt előleg fedezetet nyújt annak összegére.
+
+(3) Az előleg terhére jóváírt támogatásról, valamint az előlegnek a jóváírt támogatásokkal csökkentett összegéről a Magyar Államkincstár nyilvántartást vezet.
+
+(4) Ha az átutalt előleg összege 2007. november 30-ig nem kerül a (2) bekezdésben foglaltak szerint elszámolásra, a támogatott szolgáltatónak az előlegből fennmaradó összeget 2007. december 5-ig vissza kell fizetnie az R. 9. §-ának (1) bekezdése szerinti előirányzat (a továbbiakban: előirányzat) javára. 2007. december 5-ét követően a támogatott szolgáltató részére az igényelt támogatás mindaddig nem téríthető meg, amíg az előleg-visszafizetési kötelezettségének nem tesz eleget. Ha az előleg visszafizetésre késedelmesen kerül sor, akkor a 2007. december 5-ét követő naptól a visszafizetés napjáig terjedő időszakra a 2007. december 5-én érvényes jegybanki alapkamattal növelt összegben kell az előlegből fennmaradó összeget a szolgáltatónak visszafizetnie.
