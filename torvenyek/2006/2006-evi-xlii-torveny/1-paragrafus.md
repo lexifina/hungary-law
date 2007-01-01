@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Jemeni Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről Szánában, 2004. január 18-án aláírt Megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
