@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között személyeknek az államhatáron történő átadásáról-átvételéről szóló, Budapesten, 1997. december 1-jén aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1998. november 11-én megtörtént.)
