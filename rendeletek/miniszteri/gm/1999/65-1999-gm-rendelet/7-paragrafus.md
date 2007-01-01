@@ -1,0 +1,5 @@
+## 6. § A súlyok pontossági osztályok szerinti, a 7. számú mellékletben meghatározott felületi állapotának, minőségének olyannak kell lennie, hogy a súly tömegváltozása a felhasználási területén, a rendeltetésszerű használattal együttjáró várható körülmények között elhanyagolható legyen a súly pontossági osztályára megengedett legnagyobb hibához képest.
+
+7. § (1) A súlyok pontossági osztályok szerinti, a 8. számú mellékletben meghatározott anyagának korrózióálló fémből vagy fémötvözetből olyannak kell lennie, hogy a súly tömegváltozása a felhasználási területén, a rendeltetésszerű használattal együttjáró várható körülmények között elhanyagolható legyen a súly pontossági osztályára megengedett legnagyobb hibához képest.
+
+(2) A súly anyagának sűrűsége olyan kell legyen, hogy a p1=1,2 kg/m3 levegősűrűség +-10%-os változása ne hozzon létre akkora felhajtóerő-változást a 8000 kg/m3 sűrűségű etalonhoz képest, hogy az elérje az adott súly pontossági osztályára megengedett legnagyobb hiba egynegyedét. Az így meghatározott sűrűséghatárok pontossági osztályonkénti értékeit a 9. számú melléklet tartalmazza.

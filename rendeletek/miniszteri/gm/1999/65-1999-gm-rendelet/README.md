@@ -1,0 +1,9 @@
+# 65/1999. (XII. 13.) GM rendelet
+
+egyes átlag feletti pontosságú súlyok műszaki és metrológiai követelményeiről, vizsgálatáról és hitelesítéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-65-20-83
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2007-01-01 | 1999-65-20-83.2 | 65/1999. (XII. 13.) GM rendelet |
