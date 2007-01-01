@@ -1,0 +1,1 @@
+3. § A Magyar Köztársaság a 2. § szerinti Jegyzőkönyvet megerősítő okirat letétbe helyezése alkalmából a következő nyilatkozatot tette: ,,A Magyar Köztársaság területére nem terjeszthető ki a jelen Jegyzőkönyv szerinti olyan nemzetközi lajstromozásból származó oltalom, amelyet azelőtt végeztek, hogy a Jegyzőkönyv a Magyar Köztársaság vonatkozásában hatályba lépett.''

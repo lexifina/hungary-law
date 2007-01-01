@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a védjegyek nemzetközi lajstromozásáról szóló Madridi Megállapodáshoz kapcsolódó Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti. (A Jegyzőkönyv megerősítéséről szóló okirat letétbe helyezése 1997. július 3-án megtörtént, ennek alapján a Jegyzőkönyv a Magyar Köztársaság vonatkozásában 1997. október 3-án lépett hatályba).
