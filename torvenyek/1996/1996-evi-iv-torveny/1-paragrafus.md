@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Svájci Szövetségi Tanács között, személyeknek az államhatáron történő átadásáról és átvételéről szóló, 1994. évi február hó 4. napján, Bernben aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1995. június 9-én megtörtént.)
