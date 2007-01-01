@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Rio de Janeiróban, 1992. június 13-án aláírt ENSZ Éghajlatváltozási Keretegyezményt e törvénnyel kihirdeti. (A Magyar Köztársaság megerősítő okiratának letétbe helyezése az ENSZ Főtitkáránál 1994. február 24-én megtörtént.)
