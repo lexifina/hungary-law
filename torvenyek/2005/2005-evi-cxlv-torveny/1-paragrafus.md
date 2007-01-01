@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és az Izlandi Köztársaság között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelemadók területén tárgyú Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
