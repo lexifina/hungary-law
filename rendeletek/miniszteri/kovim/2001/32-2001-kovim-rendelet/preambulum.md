@@ -1,0 +1,1 @@
+A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 15. §-ának (1) bekezdésében kapott felhatalmazás alapján a polgári légijárművek a Magyar Köztársaság Állami Légijármű Lajstromába (a továbbiakban: lajstrom) vételének feltételeiről, a bejegyzés tartalmának, módosításának és törlésének részletes szabályairól a következőket rendelem el:
