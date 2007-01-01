@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Osztrák Köztársaság között a katasztrófák vagy súlyos szerencsétlenségek esetén történő kölcsönös segítségnyújtásról szóló, Budapesten, 1996. április 26-án aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló okmányok kicserélése 1998. április 17-én megtörtént.)
