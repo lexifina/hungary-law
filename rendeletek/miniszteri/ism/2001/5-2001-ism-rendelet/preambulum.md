@@ -1,0 +1,1 @@
+A honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Htv.) végrehajtására kiadott 178/1993. (XII. 27.) Korm. rendelet (a továbbiakban: Vhr.) 106. §-ának (3) bekezdésében foglalt felhatalmazás alapján – figyelemmel az ifjúsági és sportminiszter feladat- és hatásköréről szóló 113/1999. (VII. 16.) Korm. rendelet 12. § e) pontjára – a következőket rendelem el:
