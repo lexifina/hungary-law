@@ -1,0 +1,1 @@
+Az Országgyűlés az állam és a társadalom egészének a veszélyeztetett területeken élő lakosságról való gondoskodás felelőssége elvéből kiindulva, az érintetteknek a károk utólagos mérséklésében vagy megtérítésében való érdekközössége kialakításának, illetőleg öngondoskodó felelősségének megerősítése és az állami segítség hatékonyabbá tétele érdekében a következő törvényt alkotja:
