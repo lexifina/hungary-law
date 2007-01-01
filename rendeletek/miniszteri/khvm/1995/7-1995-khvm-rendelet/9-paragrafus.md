@@ -1,0 +1,3 @@
+9. § (1) Amennyiben a 8. § (1) bekezdése szerinti bérleti szerződés közös megegyezéssel történő megszüntetésére saját lakás építése vagy vásárlása miatt kerül sor, a térítés a bérlő kérelmére megelőlegezhető, ha a bérlő kötelezettséget vállal arra, hogy a lakást a megállapodás szerint, legfeljebb azonban két év elteltével a 8. § (5) bekezdésében foglaltaknak megfelelően a bérbeadó rendelkezésére bocsátja. Ez esetben a térítés 20%-át a lakás rendeltetésszerű használatra alkalmassá tételéhez szükséges költségek fedezetéül vissza kell tartani.
+
+(2) Ha a bérlő az (1) bekezdésben foglalt kötelezettségét nem teljesíti, a megelőlegezett térítési díj 20%-os kamattal növelt összegét köteles megtéríteni.
