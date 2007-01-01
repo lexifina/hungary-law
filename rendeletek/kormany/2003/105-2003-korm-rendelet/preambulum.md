@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló – többször módosított – 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 124. §-a (2) bekezdésének k) és v) pontjában kapott felhatalmazás alapján a következőket rendeli el:
