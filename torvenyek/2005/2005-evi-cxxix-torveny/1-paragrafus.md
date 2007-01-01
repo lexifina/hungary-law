@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar–Román Gozsdu Közalapítvány létrehozásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
