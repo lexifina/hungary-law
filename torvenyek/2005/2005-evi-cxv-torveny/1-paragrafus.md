@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Európai Közösségek tisztviselőit és az Európai Unió tagállamainak tisztviselőit érintő korrupció elleni küzdelemről szóló, 1997. május 26-án kelt egyezményt e törvénnyel kihirdeti.
