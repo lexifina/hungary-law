@@ -1,0 +1,1 @@
+A bányászatról szóló 1993. évi XLVIII. törvény végrehajtására kiadott 115/1993. (VIII. 12.) Korm. rendelet 20. §-ának (6) bekezdésében kapott felhatalmazás alapján a hites bányamérő képesítésére és szakmai gyakorlatára vonatkozó követelményekről, további feltételeiről és a nyilvántartás rendjéről – az érdekelt miniszterekkel egyetértésben – a következőket rendelem el:
