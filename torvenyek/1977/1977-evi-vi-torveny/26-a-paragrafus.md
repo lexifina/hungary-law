@@ -1,0 +1,1 @@
+26/A. § Jogszabály egyes tevékenységek folytatását külön jog vagy hatósági engedély megadásához kötheti. A külön engedélyhez kötött tevékenységeket, valamint az engedélyezésre jogosult hatóságokat jogszabály határozza meg.

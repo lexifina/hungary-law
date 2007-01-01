@@ -1,0 +1,3 @@
+48. § (1) A trösztöt a vezérigazgató, illetőleg az igazgatótanács vezeti. Az igazgatótanács a tröszt vezérigazgatójából és a tröszti vállalatok igazgatóiból áll. A létesítő határozat úgy rendelkezhet, hogy az állami költségvetéssel szembeni kötelezettségek teljesítése szempontjából egy gazdasági egységnek minősülő tröszti vállalatokat érintő ügyekben az igazgatótanács kizárólag a vezérigazgató és e vállalatok igazgatóinak részvételével is hozhat döntést.
+
+(2) A tröszt vezérigazgatójának és igazgató tanácsának jogkörét a létesítő határozatban kell megállapítani. A létesítő határozat úgy is rendelkezhet, hogy a tröszt jogkörét a tröszti vállalatok felett kizárólag az igazgató tanács gyakorolja.

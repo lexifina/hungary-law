@@ -1,0 +1,1 @@
+15. § Ha a vállalat általános vezetését vállalati tanács, illetőleg a dolgozók közgyűlése látja el, az igazgató megválasztásáról és felmentéséről e testület dönt, államigazgatási felügyelet alatt álló vállalatnál pedig az igazgatót az alapító szerv nevezi ki és menti fel.

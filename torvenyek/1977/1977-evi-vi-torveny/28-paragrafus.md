@@ -1,0 +1,1 @@
+28. § A vállalatra rábízott vagyon — ha törvény kivételt nem tesz — nem vonható el; államigazgatási felügyelet alatt álló vállalat esetében az alapítói jogokat gyakorló szerv ettől eltérően rendelkezhet.
