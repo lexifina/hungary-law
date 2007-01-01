@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad egyrészről az Európai Közösség és tagállamai, másrészről a Svájci Államszövetség közötti, a csalás és bármely más, a pénzügyi érdekeiket sértő jogellenes tevékenység elleni küzdelemről szóló Együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
