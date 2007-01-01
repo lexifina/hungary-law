@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és az Osztrák Köztársaság között a közúti és a vízi közlekedésben a határforgalom ellenőrzéséről szóló, Budapesten, az 1992. évi május hó 15. napján aláírt Egyezményt e törvénnyel kihirdeti.
