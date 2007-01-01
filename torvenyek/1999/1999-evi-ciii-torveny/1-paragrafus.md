@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között a Szentgotthárd város környéki magyar–osztrák ipari park vasúti átmenő forgalmáról szóló, Bécsben, 1998. november 24-én aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1999. június 25-én megtörtént.)
