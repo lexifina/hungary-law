@@ -1,0 +1,1 @@
+1. § A hajóselismervényekre vonatkozó egyes szabályok egységesítése végett az 1924. évi augusztus hó 25. napján Brüsszelben kelt nemzetközi Egyezmény és a hozzátartozó két aláírási jegyzőkönyv az ország törvényei közé iktattatik.
