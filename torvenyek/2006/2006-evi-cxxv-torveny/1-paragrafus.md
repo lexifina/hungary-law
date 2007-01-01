@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel kihirdeti az Európai Közösség és annak tagállamai, másrészről a Svájci Államszövetség közötti, a személyek szabad mozgásáról szóló 1999. június 21-ei megállapodást (a továbbiakban: Megállapodás).
