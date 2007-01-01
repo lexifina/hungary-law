@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és az Olasz Köztársaság Kormánya között személyeknek az államhatáron történő visszafogadásáról szóló, Budapesten, 1997. május 20. napján aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1999. március 10. napján megtörtént.)
