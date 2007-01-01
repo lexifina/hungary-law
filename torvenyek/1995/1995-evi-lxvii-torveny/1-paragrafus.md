@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Észak-atlanti Szerződés Szervezetével (NATO) aláírt — és az Országgyűlés 66/1994. (XII. 15.) OGY határozatával megerősített — ,,Békepartnerség'' program Keretdokumentumát (a továbbiakban: Keretdokumentum) e törvénnyel kihirdeti.
