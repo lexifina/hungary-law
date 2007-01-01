@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a belvízi árufuvarozási szerződésről szóló, Budapesten, 2001. június 22-én kelt Egyezményt (a továbbiakban: Egyezmény) e törvénnyel kihirdeti. (Az Egyezmény a Magyar Köztársaság tekintetében 2005. április 1-jén lépett hatályba.)
