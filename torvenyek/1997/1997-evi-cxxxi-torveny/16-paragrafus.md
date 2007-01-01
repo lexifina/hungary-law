@@ -1,0 +1,7 @@
+16. § A Cct. 19. §-a helyébe a következő rendelkezés lép:
+
+19. § ,,(1) A központi támogatást az önkormányzatnak vissza kell fizetnie az állami költségvetésbe, ha a támogatás igénybevételével keletkezett vagyont – kivéve a víziközmű-beruházások üzemeltetői vagyonrészét – a beruházás időtartama alatt vagy az azt követő tíz éven belül nem helyi önkormányzat részére elidegeníti – ide nem értve a (2) bekezdésben foglaltakat –, illetve az igénybejelentésben megjelölt beruházási céltól eltérően hasznosítja, kivéve, ha az igénybejelentésben megjelölt beruházási cél eredeti funkciója az önkormányzati feladatellátás ésszerűsítése miatt megszűnik, vagy megszűnt, de a létesítmény más, a támogatás címzettje számára előírt kötelező feladat ellátását szolgálja.
+
+(2) A központi támogatással megvalósult létesítmény – amelyet az önkormányzat tárgyi eszközként aktivált – csak olyan gazdasági társaság vagy közhasznú társaság tulajdonába kerülhet, amelyet kizárólag az érintett önkormányzat, illetőleg önkormányzatok, vagy kizárólag önkormányzatok és az állam alapítottak, és a beruházás befejezésének évét követő tíz évig a gazdasági vagy közhasznú társaságnak többségi tulajdonosa(i) az alapító(k).
+
+(3) Az igénybejelentésben megjelölt beruházási cél eredeti funkciójának megszűnése esetén a létesítmény más, kötelező feladatra irányuló hasznosítása érdekében a támogatás címzettje január 30-áig nyújthat be kérelmet a Belügyminisztériumhoz. A kérelmekről egyedi mérlegelés alapján dönt az Országgyűlés, az új címzett támogatásokról szóló törvényben.''
