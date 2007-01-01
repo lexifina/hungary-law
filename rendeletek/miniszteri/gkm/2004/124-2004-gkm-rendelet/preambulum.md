@@ -1,0 +1,1 @@
+A merülésvonalakról szóló 1966. évi nemzetközi egyezmény és az egyezményre vonatkozó 1988. évi Jegyzőkönyv egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2003. évi LXV. törvény 3. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
