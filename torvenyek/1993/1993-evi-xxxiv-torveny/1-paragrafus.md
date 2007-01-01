@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Népköztársaság és az Osztrák Köztársaság között a közös államhatár láthatóságának biztosításáról és az ezzel összefüggő kérdések szabályozásáról Budapesten, 1964. évi október 31-én aláírt szerződés módosításáról és kiegészítéséről szóló 1987. április 29-én aláírt szerződést e törvénnyel kihirdeti.
