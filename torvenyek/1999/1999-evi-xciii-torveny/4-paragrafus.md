@@ -1,0 +1,1 @@
+4. § Az Ny. Alap 1998. évi költségvetése végrehajtásának mérlegét a 3. számú melléklet, a működési költségvetésének mérlegét a 4. számú melléklet, az Ny. Alap és a társadalombiztosításon kívüli forrásból finanszírozott, a nyugdíjbiztosítás közreműködésével folyósított ellátások összesített mérlegét az 5. számú melléklet tartalmazza.

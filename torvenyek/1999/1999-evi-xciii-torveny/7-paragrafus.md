@@ -1,0 +1,1 @@
+7. § Az E. Alap 1998. évi költségvetése végrehajtásának mérlegét a 6. számú melléklet, az E. Alap működési költségvetésének mérlegét a 8. számú melléklet, az E. Alapnak és a társadalombiztosításon kívüli forrásból finanszírozott, az egészségbiztosítás közreműködésével folyósított ellátások összesített mérlegét a 9. számú melléklet tartalmazza.

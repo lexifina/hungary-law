@@ -1,0 +1,5 @@
+15. § (1) A társadalombiztosítás pénzügyi alapjaival szemben fennálló tartozások vagyonátadással történő rendezése keretében átvett vagyont a törvény 12. számú melléklete részletezi.
+
+(2) Az átvett vagyon a tartozásra befizetett összegek különböző tartozásrészek kiegyenlítésére történő felhasználásának sorrendjére vonatkozó rendelkezések és a társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló 1992. évi LXXXIV. törvény (a továbbiakban: AT.) 4. §-a (3) bekezdésének a) és c) pontjában, továbbá 5. §-a (3) bekezdésének a) és c)–d) pontjaiban, valamint a KT. 57. §-ának (4)–(5) bekezdésében foglalt rendelkezések alkalmazásával megállapítható hányadok szerint oszlik meg az Ny. Alap és az E. Alap között.
+
+(3) A társadalombiztosítás pénzügyi alapjaival szemben fennálló tartozások vagyonátadással történő rendezése keretében átvett vagyon 1998. december 31-ével elszámolt értékvesztése 424 millió forint. Ebből 144 millió forint az Ny. Alapnál, 280 millió forint az E. Alapnál elszámolt összeg.
