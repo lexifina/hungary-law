@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a szellemi örökség megőrzéséről szóló, Párizsban, 2003. év október hó 17. napján elfogadott UNESCO Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
