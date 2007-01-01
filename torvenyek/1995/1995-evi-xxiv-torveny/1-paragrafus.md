@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel a Magyar Köztársaság Kormánya és Ukrajna Kormánya között személyeknek a közös államhatáron történő átadásáról és átvételéről szóló, Budapesten, 1993. év február hónap 26. napján aláírt Egyezményt kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1994. május 5-én megtörtént.)
