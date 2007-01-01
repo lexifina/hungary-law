@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között, személyeknek a közös államhatáron történő átvételéről szóló, Salzburgban, 1992. október hó 9. napján aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1995. március 21-én megtörtént.)
