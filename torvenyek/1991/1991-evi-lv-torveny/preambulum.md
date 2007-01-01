@@ -1,0 +1,1 @@
+[A Megállapodást a 78/1990. (XI. 17.) OGY határozatával az Országgyűlés 1990. november 13-án elfogadta. Az elfogadási okmánynak a letétbe helyezése 1990. december 5-én megtörtént. A Megállapodás a Francia Köztársaságnak a Külügyminisztériumhoz küldött értesítése szerint 1991. március 28-án hatályba lépett.]
