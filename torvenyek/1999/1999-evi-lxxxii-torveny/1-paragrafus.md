@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Védjegyjogi Szerződést (a továbbiakban: Szerződés) e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló okirat letétbe helyezése 1998. augusztus 26-án megtörtént, ennek alapján a Szerződés a Magyar Köztársaság vonatkozásában 1998. november 26-án lépett hatályba.)
