@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya, valamint a Cseh Köztársaság Kormánya között, személyeknek az államhatáron történő átadásáról-átvételéről szóló, Budapesten, 1994. november hó 2. napján aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1995. július 6-án megtörtént.)
