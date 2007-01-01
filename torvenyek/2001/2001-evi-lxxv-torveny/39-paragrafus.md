@@ -1,0 +1,1 @@
+39. § E törvény hatálybalépésével egyidejűleg a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 2. § (2) bekezdésében a ,,Szerencsejáték Felügyelet (a továbbiakban: SZF)'' szövegrész helyébe ,,SZF'' szövegrész, a 12. § (3) bekezdés f) pontjában a ,,2. § (2) és (6) bekezdéseibe'' szövegrész helyébe ,,2. § (2) és (7) bekezdéseibe'' szövegrész lép.

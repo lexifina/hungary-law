@@ -1,0 +1,3 @@
+36. § (1) A Kormány felhatalmazást kap arra, hogy az agrárhiteleket biztosító 30/2000. (III. 10.) Korm. rendelettel szabályozott 2000. évi kezességvállalási keret fel nem használt összegét új hitelprogramok indításához felhasználhassa, arról 2001. évben döntést hozzon.
+
+(2) Az Országgyűlés felhatalmazza az oktatási minisztert, hogy 2001. és 2002-ben – a pénzügyminiszter előzetes egyetértésével – a XX. Oktatási Minisztérium fejezet, 11. Fejezeti kezelésű előirányzatok cím, 2. Normatív finanszírozási alcím, 10. Hallgatói létszám képzési többlete (egyházi világi képzés) jogcím-csoport, valamint 11. Hallgatói létszám képzési többlete (alapítványi felsőoktatás) jogcím-csoport előirányzatokat egymás között – a szükséglet szerinti mértékben – átcsoportosítsa.

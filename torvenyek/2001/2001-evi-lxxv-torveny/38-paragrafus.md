@@ -1,0 +1,1 @@
+38. § E törvény hatálybalépésével egyidejűleg az államháztartásról szóló 1992. évi XXXVIII. törvény 86/A. § (5) bekezdésében ,,A (4) bekezdésben'' szövegrész helyébe ,,Az (1) bekezdésben'' szövegrész lép.

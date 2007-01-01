@@ -1,0 +1,1 @@
+12. § Az Országgyűlés jóváhagyja az Állami Privatizációs és Vagyonkezelő Részvénytársaság privatizációval és vagyonkezeléssel összefüggő ráfordításai előirányzatainak teljesítését a 11. számú melléklet szerint.

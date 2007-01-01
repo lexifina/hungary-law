@@ -1,0 +1,1 @@
+37. § A Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló 2000. évi CXXXIII. törvény 13. §-a (2) bekezdés d) pontjából ,,az Egészségbiztosítási Alaptól átvett pénzeszközök kivételével'' szövegrész 2001. július 1-jével hatályát veszti.

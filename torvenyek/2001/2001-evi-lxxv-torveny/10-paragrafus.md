@@ -1,0 +1,1 @@
+10. § Az Országgyűlés tudomásul veszi, hogy a központi költségvetés a helyi önkormányzatoknak a nettó finanszírozással összefüggésben kincstári előleget nyújtott. Az érintett önkormányzatok 2000. december 31-én fennálló tartozása 2,0 millió forint. Ezen összeget a Magyar Államkincstár a 2001. évi nettó finanszírozás keretén belül számolja el.

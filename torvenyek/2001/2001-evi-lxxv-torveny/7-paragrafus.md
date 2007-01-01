@@ -1,0 +1,1 @@
+7. § Az Országgyűlés tudomásul veszi, hogy a pénzügyminiszter a Magyar Köztársaság 1998. évi költségvetésének végrehajtásáról szóló 1999. évi CV. törvény 26. § (1) bekezdésében kapott felhatalmazása alapján 2000. január 1-jét követően a Magyar Államvasutak Részvénytársaság törvényben kijelölt hiteleit 36 481,0 millió forint összegben átvállalta.
