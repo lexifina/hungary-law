@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a szülői felelősséggel és a gyermekek védelmét szolgáló intézkedésekkel kapcsolatos együttműködésről, valamint az ilyen ügyekre irányadó joghatóságról, alkalmazandó jogról, elismerésről és végrehajtásról szóló, Hágában, 1996. október 19-én kelt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
