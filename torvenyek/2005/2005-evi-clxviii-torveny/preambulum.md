@@ -1,0 +1,1 @@
+(A Magyar Köztársaság 1991. június 25-én az Egyezményt aláírta, a megerősítő okiratot 2004. április 28-án letétbe helyezte, az Egyezmény és annak mellékletei a Magyar Köztársaság vonatkozásában 2004. július 28-án hatályba léptek.)
