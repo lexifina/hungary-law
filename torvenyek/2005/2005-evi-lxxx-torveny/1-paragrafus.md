@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a gyermekeknek a nemzetközi örökbefogadások terén való védelméről és az ilyen ügyekben történő együttműködésről szóló, Hágában, 1993. május 29. napján kelt Egyezményt (a továbbiakban: Egyezmény) e törvénnyel kihirdeti.
