@@ -1,0 +1,1 @@
+A honvédelemről szóló 1993. évi CX. törvény végrehajtásáról szóló 178/1993. (XII. 27.) Korm. rendelet (a továbbiakban: Vhr.) 106. §-ának (3) bekezdésében foglalt felhatalmazás alapján a tartalékos hadkötelesek meghagyásával kapcsolatban a következőket rendelem el:
