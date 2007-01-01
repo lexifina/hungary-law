@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Európai Unió tagállamai közötti kölcsönös bűnügyi jogsegélyről szóló, 2000. május 29-én kelt egyezményt és az egyezmény 2001. október 16-án kelt kiegészítő jegyzőkönyvét e törvénnyel kihirdeti.
