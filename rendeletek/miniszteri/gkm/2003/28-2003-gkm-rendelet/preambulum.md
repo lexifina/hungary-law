@@ -1,0 +1,1 @@
+A vasútról szóló 1993. évi XCV. törvény (a továbbiakban: Vtv.) 10. §-ának (7) bekezdésében kapott felhatalmazás alapján – figyelemmel a gazdasági és közlekedési miniszter feladat- és hatásköréről szóló 171/2002. (VIII. 9.) Korm. rendelet 6. §-a (2) bekezdésének i) pontjában foglaltakra is – a következőket rendelem el:
