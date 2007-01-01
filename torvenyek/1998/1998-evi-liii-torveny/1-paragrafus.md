@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között Salzburgban, 1992. október 9-én aláírt Egyezmény módosításáról szóló Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló jegyzékváltás 1998. január 13-án megtörtént.)
