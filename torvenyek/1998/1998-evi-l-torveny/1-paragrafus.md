@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a kábítószerek és pszichotrop anyagok tiltott forgalmazása elleni, 1988. december 20-án, Bécsben kelt és 1997. február 11-én hatályba lépett ENSZ Egyezményt ezen törvénnyel kihirdeti. (A Magyar Köztársaság megerősítésről szóló okiratának letétbe helyezése az Egyesült Nemzetek Szervezetének Főtitkáránál 1996. november 13-án megtörtént.)
