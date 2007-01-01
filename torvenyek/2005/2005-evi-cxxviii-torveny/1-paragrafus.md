@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Nukleáris Kutatási Szervezet kiváltságairól és mentességeiről szóló Jegyzőkönyv (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
