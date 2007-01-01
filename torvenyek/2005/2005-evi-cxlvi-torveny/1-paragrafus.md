@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Szlovén Köztársaság között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén, Budapesten, 2004. augusztus 26-án aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
