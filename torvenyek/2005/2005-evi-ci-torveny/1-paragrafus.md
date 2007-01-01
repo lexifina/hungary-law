@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és Mongólia Kormánya között a beruházások előmozdításáról és kölcsönös védelméről, Ulánbátorban, 1994. szeptember 13-án aláírt Megállapodást e törvénnyel kihirdeti. (A Megállapodás megerősítéséről szóló értesítés 1996. március 6-án megtörtént, és a Megállapodás 1996. március 6-án hatályba lépett.)
