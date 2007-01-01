@@ -1,0 +1,1 @@
+A többször módosított, villamos energia termeléséről, szállításáról és szolgáltatásáról szóló 1994. évi XLVIII. törvény (VET) 57. §-ának (6) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
