@@ -1,0 +1,1 @@
+1. § A helyi önkormányzatok címzett támogatással megvalósuló beruházásaihoz 2003. évtől nyújtandó támogatás összegét ágazatonként, önkormányzatonként és beruházásonként az 1. számú melléklet tartalmazza.
