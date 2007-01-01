@@ -1,0 +1,1 @@
+## 3. § A katasztrófavédelem minisztériumi általános koordinációját – a közigazgatási államtitkár irányításával – a honvédelmi felkészítés és az országmozgósítás feladataira kijelölt szervezeti egység látja el.
