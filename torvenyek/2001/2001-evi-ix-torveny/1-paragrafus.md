@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodást (AETR), valamint annak módosításait egységes szerkezetben e törvénnyel kihirdeti. (A Magyar Köztársaság csatlakozási okmányának letétbe helyezése az Egyesült Nemzetek Főtitkáránál 1999. október 22-én megtörtént.)

@@ -1,0 +1,1 @@
+3. § A nemzetközi közúti fuvarozást végző járművek személyzetének munkaviszony létesítésére, munkavégzésére, továbbá a munkaidejére és pihenőidejére a Munka Törvénykönyvéről szóló 1992. évi XXII. törvényt az e törvénnyel kihirdetett Megállapodásban foglalt eltérő rendelkezésekkel kell alkalmazni.
