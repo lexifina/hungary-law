@@ -1,0 +1,3 @@
+3. § (1) A hároméves gazdasági terv sikeres végrehajtása érdekében a Pénzintézeti Központ I. kúriájába tartozó pénzintézetek (az alábbiakban: pénzintézetek) által kibocsátott azok a részvények, amelyek magyar állampolgárok és Magyarországon székhellyel bíró jogi személyek tulajdonában vannak, az államkincstár tulajdonába vétetnek. Ez a rendelkezés vonatkozik azokra a pénzintézetekre is, amelyek az előzőekben említett pénzintézetekkel egyesültek (beolvadtak), abban az esetben is, ha a részvények kicserélése még nem történt meg.
+
+(2) Az állami tulajdonba vétel a Magyar Köztársaság kormányának rendeletével megállapított időpontban, legkésőbb az 1948. évi március hó 31. napjáig történik.

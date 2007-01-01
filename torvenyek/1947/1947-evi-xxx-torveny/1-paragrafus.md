@@ -1,0 +1,1 @@
+1. § A Magyar Nemzeti Bank által kibocsátott azok a részvények, amelyek magyar állampolgárok és Magyarországon székhellyel bíró jogi személyek tulajdonában vannak, a jelen törvény hatálybalépésével az államkincstár tulajdonába mennek át.
