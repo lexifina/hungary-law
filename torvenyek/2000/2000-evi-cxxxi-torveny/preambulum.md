@@ -1,0 +1,1 @@
+Az Országgyűlés a helyi önkormányzatok címzett és céltámogatással folyamatban lévő egyes beruházásainak mielőbbi megnyugtató befejezése érdekében szükséges törvények módosítására az alábbi törvényt alkotja:
