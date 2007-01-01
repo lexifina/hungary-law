@@ -1,0 +1,1 @@
+3/A. § A Kormány a közalapítvány kuratóriumába és felügyelő bizottságába a Kormány tagjai és államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőt is kijelölhet. A kuratóriumba, illetve a felügyelő bizottságba kijelölt állami vezető e tevékenységéért díjazásban nem részesülhet.
