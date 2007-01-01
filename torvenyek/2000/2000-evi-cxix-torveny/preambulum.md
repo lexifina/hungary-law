@@ -1,0 +1,1 @@
+Az Országgyűlés az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 86. §-ának (1) bekezdése alapján a társadalombiztosítás pénzügyi alapjai 1999. évi költségvetéséről szóló 1998. évi XCI. törvényben (a továbbiakban: KT.) meghatározott költségvetése végrehajtásáról a következő törvényt alkotja:

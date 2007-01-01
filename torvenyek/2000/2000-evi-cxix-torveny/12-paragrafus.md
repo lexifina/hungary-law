@@ -1,0 +1,1 @@
+12. § Az Országgyűlés jóváhagyja a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 66. §-a és a KT. 8. §-a alapján a szociális rászorultságot is figyelembe vevő nyugdíj-megállapítás, illetve -emelés 600 millió forint összegének a nyugellátás címen történő felhasználását az Ny. Alapból és az E. Alapból finanszírozott nyugellátások részeként.

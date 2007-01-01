@@ -1,0 +1,1 @@
+19. § Az Országgyűlés tudomásul veszi, hogy a tb. 1998. évi zárszámadási törvény 24. §-a szerinti pénzforgalmi rendezési kötelezettségének az E. Alap 3113 millió forint összegben 1999. december 31-ig eleget tett, a 46 millió forint további rendezési kötelezettség teljesítési határidejét 2000. december 31-ben állapítja meg.
