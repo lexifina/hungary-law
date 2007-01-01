@@ -1,0 +1,1 @@
+3. § Az Országgyűlés az Európai Rendőrségi Hivatal létrehozásáról szóló egyezmény (Europol Egyezmény), és az Europolnak, szervei tagjainak, igazgatóhelyetteseinek és alkalmazottainak kiváltságairól és mentességeiről szóló jegyzőkönyv módosításáról készült, 2002. november 28-án kelt Jegyzőkönyvet e törvénnyel kihirdeti.
