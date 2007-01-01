@@ -1,0 +1,1 @@
+## 4. § Az Országos Sugárfigyelő Jelző és Ellenőrző Rendszerbe kijelölt állandó telepítésű, kihelyezhető vagy gépjárműbe épített mérőállomások működésére és feladataira külön intézkedésben foglaltak az irányadók. A mérőállomások működtetésének és fejlesztésének költségeit a minisztérium saját költségvetésében tervezi.

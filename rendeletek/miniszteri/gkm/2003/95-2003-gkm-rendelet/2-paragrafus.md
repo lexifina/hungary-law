@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya a Gazdasági és Közlekedési Minisztériumra (a továbbiakban: minisztérium), a közvetlen felügyelete alatt álló szervekre, továbbá a gazdasági és közlekedési miniszter (a továbbiakban: miniszter) által polgári védelmi feladatok végrehajtására kijelölt szervezetekre terjed ki.

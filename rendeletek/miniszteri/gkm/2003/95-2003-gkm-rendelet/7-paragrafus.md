@@ -1,0 +1,1 @@
+## 6. § A minisztérium az átmenetileg ellátatlanná vált lakosság alapvető élelmiszerekkel történő ellátására intézkedési tervet készít, amelyben megjelöli az ellátásban való közreműködésért és a területi védelmi szervekkel való együttműködési feladatok megoldásáért felelős szervezeteket. A minisztérium az intézkedési tervet és a felelős szervezeteket szükség szerint aktualizálja.
