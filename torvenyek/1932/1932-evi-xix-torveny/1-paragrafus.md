@@ -1,0 +1,1 @@
+1. § Az 1928. évben Genfben tartott nemzetközi Munkaügyi egyetemes Értekezlet által a legkisebb munkabérek megállapítására vonatkozó eljárások tárgyában tervezet alakjában elfogadott nemzetközi egyezmény az ország törvényei közé iktattatik.
