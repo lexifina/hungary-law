@@ -1,0 +1,1 @@
+14. § A talajterhelési díj alapja csökkenthető azzal a számlákkal igazolt mennyiséggel, amelyet a kibocsátó szennyvíztárolójából, olyan arra feljogosított szervezettel szállíttat el, amely a folyékony hulladék jogszabályi előírások szerinti elhelyezését igazolja.

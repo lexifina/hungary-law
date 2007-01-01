@@ -1,0 +1,1 @@
+18. § A kibocsátó a levegőterhelési díjat, a vízterhelési díjat, valamint a vízjogi engedély alapján végzett tevékenységéhez kapcsolódó talajterhelési díjat az állami adóhatóság által vezetett számla javára fizeti be.

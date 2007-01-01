@@ -1,0 +1,1 @@
+A környezet és természet védelme, terhelésének mérséklése, a környezethasználóknak a környezet és természet megóvását szolgáló tevékenységre való ösztönzése, valamint a környezet- és természetvédelem költségvetési forrásainak biztosítása érdekében az Országgyűlés a következő törvényt alkotja:

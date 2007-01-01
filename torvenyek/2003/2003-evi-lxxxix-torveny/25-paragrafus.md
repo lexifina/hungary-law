@@ -1,0 +1,1 @@
+25. § A környezetterhelési díj megfizetésére, bevallására, az ehhez kapcsolódó jogkövetkezményekre, a megállapításához és a beszedéséhez való jog elévülésére, pénzügyi ellenőrzésére, valamint végrehajtására az e törvényben nem szabályozott kérdésekben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
