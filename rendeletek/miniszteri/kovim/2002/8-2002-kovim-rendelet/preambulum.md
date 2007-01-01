@@ -1,0 +1,1 @@
+A veszélyes áru szállítási biztonsági tanácsadó kinevezéséről és képesítéséről szóló 2/2002. (I. 11.) Korm. rendelet 7. §-ának (3) bekezdésében és az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
