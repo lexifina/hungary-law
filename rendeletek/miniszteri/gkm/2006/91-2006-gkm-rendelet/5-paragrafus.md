@@ -1,0 +1,1 @@
+## Tanúsító szervezetek kijelölése

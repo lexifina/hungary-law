@@ -1,0 +1,1 @@
+A fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 56. §-ának a) pontjában kapott felhatalmazás alapján – egyetértésben a környezetvédelmi és vízügyi miniszterrel, valamint a földművelésügyi és vidékfejlesztési miniszterrel – a következőket rendelem el:
