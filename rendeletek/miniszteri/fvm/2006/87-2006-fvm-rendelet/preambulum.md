@@ -1,0 +1,1 @@
+A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény 30. §-a (2) bekezdésének c), e) és f) pontjában, valamint a növényvédelemről szóló 2000. évi XXXV. törvény 65. §-a (2) bekezdésének a) és b) pontjában kapott felhatalmazás alapján a következőket rendelem el:
