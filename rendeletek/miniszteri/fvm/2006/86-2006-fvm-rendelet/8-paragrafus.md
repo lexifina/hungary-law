@@ -1,0 +1,1 @@
+## 7. § A termelő a termelési naplót, a raktározási és szállítási tevékenységet végző a 6. § (3) bekezdése szerinti nyilvántartásokat legalább 5 évig köteles őrizni, és azokat az ellenőrzés során az ellenőrzést végzőnek bemutatni.

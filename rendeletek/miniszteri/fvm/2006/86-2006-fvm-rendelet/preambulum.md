@@ -1,0 +1,1 @@
+A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény (a továbbiakban: Törvény) 34. §-ának (11) bekezdésében kapott felhatalmazás alapján – a környezetvédelmi és vízügyi miniszterrel egyetértésben – a következőket rendelem el:
