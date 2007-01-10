@@ -1,0 +1,5 @@
+A 2006. évi LXXIX. törvénnyel a Magyar Közlöny 2006. november 20-i, 129. számában kihirdetett, a Magyar Köztársaság és a Koreai Köztársaság között a szociális biztonságról szóló, Budapesten, 2006. május 12-én aláírt Egyezmény 24. Cikke szerint az Egyezmény azon hónapot követő harmadik hónap első napján lép hatályba, amikor a Szerződő Felek írásban értesítették egymást arról, hogy az Egyezmény hatálybalépéséhez szükséges összes követelménynek eleget tettek.
+
+A Magyar Fél 2006. október 26-i keltezésű jegyzékében értesítette a Koreai Felet a hatálybalépéshez szükséges követelmények teljesítéséről, a Koreai Fél hasonló tartalmú jegyzékét a Magyar Fél 2006. december 8-án vette kézhez. Az Egyezmény 24. Cikke értelmében az Egyezmény 2007. március 1-jén lép hatályba.
+
+A fentiekre tekintettel, összhangban a 2006. évi LXXIX. törvény 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság és a Koreai Köztársaság között a szociális biztonságról szóló, Budapesten, 2006. május 12-én aláírt Egyezmény kihirdetéséről szóló 2006. évi LXXIX. törvény 2–3. §-ai 2007. március 1-jén, azaz kettőezer-hét március elsején lépnek hatályba.
