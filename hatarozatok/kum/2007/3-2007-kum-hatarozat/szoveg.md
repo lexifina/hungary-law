@@ -1,0 +1,5 @@
+A 2006. évi CI. törvénnyel, a Magyar Közlöny 2006. december 6-ai számában kihirdetett, az Egyesült Nemzetek keretében, Palermóban, 2000. december 14-én létrejött, a nemzetközi szervezett bűnözés elleni Egyezmény 38. cikke szerint azokra az államokra és regionális gazdasági integrációs szervezetekre vonatkozólag, amelyek a negyvenedik megerősítő, elfogadó, jóváhagyó vagy csatlakozási okirat letétbe helyezését követően csatlakoznak, az Egyezmény a vonatkozó okiratnak az adott állam vagy szervezet általi letétbe helyezését követő harmincadik napon lép hatályba.
+
+Az Egyezmény 38. cikke szerinti letétbe helyezésre a Magyar Köztársaság vonatkozásában 2006. december 22-én került sor.
+
+A fentiekre tekintettel, összhangban a 2006. évi CI. törvény 6. § (3) bekezdésével megállapítom, hogy az Egyesült Nemzetek keretében, Palermóban, 2000. december 14-én létrejött, a nemzetközi szervezett bűnözés elleni Egyezmény kihirdetéséről szóló 2006. évi CI. törvény 2–3. §-ai 2007. január 21-én lépnek hatályba.
