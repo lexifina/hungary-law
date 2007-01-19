@@ -1,0 +1,1 @@
+A belkereskedelemről szóló 1978. évi I. törvény 40. §-ában foglalt felhatalmazás alapján – a fogyasztóvédelemről szóló 1997. évi CLV. törvényben (a továbbiakban: Fgytv.) meghatározott, a fogyasztók megfelelő tájékoztatásához fűződő érdek érvényre juttatása céljából – a következőket rendeljük el:
