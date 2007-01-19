@@ -1,0 +1,1 @@
+A víziközlekedésről szóló 2000. évi XLII. törvény 88. §-a (2) bekezdésének r) pontjában kapott felhatalmazás alapján – figyelemmel a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 2. §-a (2) bekezdésének b) pontjában foglaltakra is – a következőket rendeljük el:
