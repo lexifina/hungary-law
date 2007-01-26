@@ -1,0 +1,5 @@
+## 1. § Tervezési, kivitelezési, technológiai, tájesztétikai és környezetvédelmi szempontból kimagasló, gazdaságosan megvalósított, továbbá gazdaságosan üzemeltethető vízi létesítmények (a továbbiakban: létesítmény) tervezéséért, kivitelezéséért felelős természetes személyeknek a létesítmény megvalósításában való meghatározó közreműködéséért, illetve az eredményesség érdekében kifejtett munkája elismerésére Lampl Hugó-emlékplakettet (a továbbiakban: emlékplakett) alapítok.
+
+2. § (1) Az emlékplakettet pályázat útján évenként egy, a pályázat benyújtásának évében vagy az azt megelőző három évben Magyarországon üzembe helyezett létesítmény tervezéséért, kivitelezéséért felelős természetes személy nyerheti el.
+
+(2) Az emlékplakett elnyerésére a létesítmény tervezéséért vagy a kivitelezéséért felelős természetes személy vagy több személy együttesen nyújthatnak be pályázatot. A pályázat többször is benyújtható. Emlékplakett ugyanazon létesítmény tervezéséért, kivitelezéséért egy alkalommal adományozható.

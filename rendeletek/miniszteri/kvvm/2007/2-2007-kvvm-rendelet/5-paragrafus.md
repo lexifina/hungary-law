@@ -1,0 +1,3 @@
+5. § (1) A miniszter a pályázatokról szóló döntés szakmai előkészítésére javaslattevő szervként Lampl Hugó Emlékplakett Bizottságot (a továbbiakban: Bizottság) hoz létre.
+
+(2) A Bizottság 8 főből áll, elnökét és hét tagját a miniszter nevezi ki. A Bizottság elnöke a minisztérium vízügyi szakállamtitkára (a továbbiakban: szakállamtitkár). A Bizottság két tagjára a Magyar Hidrológiai Társaság, egy-egy tagjára a szakállamtitkár, az építésügyért felelős miniszter által vezetett minisztérium, a Magyar Víziközmű Szövetség, a Vízgazdálkodási Társulatok Országos Szakmai Szövetsége és a Budapesti Műszaki Egyetem tehet javaslatot. A tagok megbízatása 5 évre szól.
