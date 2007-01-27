@@ -1,0 +1,1 @@
+## 2. § Az R. melléklete kiegészül az e rendelet mellékletében meghatározott belügyi rendészeti ismeretek, judaisztika, gazdasági ismeretek, katonai alapismeretek, valamint utazás és turizmus érettségi vizsgatárgyak részletes követelményeivel és vizsgaleírásával.
