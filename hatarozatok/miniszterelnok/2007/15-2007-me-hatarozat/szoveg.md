@@ -1,0 +1,1 @@
+Az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 13. §-ának (5) bekezdése alapján dr. Mészáros Tamás, az ÁPV Zrt. igazgatóságának volt elnöke számára a Richter Gedeon Nyrt. igazgatósági tisztségének vállalása céljából a 13. § (1) bekezdése alapján fennálló foglalkoztatási tilalom, illetőleg korlátozás alól a felmentést megadom.
