@@ -1,0 +1,1 @@
+A közúti közlekedésről szóló 1988. évi I. törvény 2. §-ának (4) bekezdésében kapott felhatalmazás alapján a fegyveres erők részére történő járművezető-képzésre, vizsgáztatásra és az ehhez kapcsolódó vezetői engedély kiadására vonatkozóan az alábbiakat rendeljük:
