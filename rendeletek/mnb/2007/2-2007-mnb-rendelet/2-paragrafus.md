@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapjának szélén fent, félköriratban a „MAGYAR KÖZTÁRSASÁG” felirat olvasható. A középmezőben Batthyány Lajos miniszterelnöki pecsétjének lenyomata látható, benne a „MINISTERELNÖK PECSÉTJE 1848” körirattal. A pecsét lenyomata alatti három vízszintes sorban Batthyány Lajos aláírása, az „5000” értékjelzés, valamint a „FORINT” felirat olvasható. Az emlékérme szélén, az értékjelzéstől balra a „2007” verési évszám, jobbra pedig a „BP.” verdejel található. Az emlékérme előlapjának képét e rendelet 1. melléklete tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben Batthyány Lajos félalakos portréja látható. Az emlékérme szélén, köriratban, a portrétól balra a „BATTHYÁNY LAJOS”, jobbra pedig az „1807–1849” felirat olvasható. A portré és a jobb oldali körirat között az „EUROPA” nemzetközi emlékérme-sorozat közös emblémája, az ún. „Euro-Star” jel látható. Az emlékérme szélén, jobb oldalon lent Csikai Márta tervezőművész mesterjegye található. Az emlékérme hátlapjának képét e rendelet 2. melléklete tartalmazza.
