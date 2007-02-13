@@ -1,0 +1,1 @@
+Az Országgyűlés Irak demokratikus újjáépítéséhez szükséges stabilizációs és humanitárius műveletekben résztvevő külföldi fegyveres erők Magyar Köztársaság területén történő áthaladásáról szóló jelentést elfogadja.
