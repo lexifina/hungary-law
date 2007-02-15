@@ -1,0 +1,1 @@
+1. § A regisztrációs adóról szóló 2003. évi CX. törvény (a továbbiakban: Rega-tv.) alapján a 2004. május 1. napjától 2005. december 31. napjáig terjedő időszakban keletkezett adófizetési kötelezettség teljesítése esetén a vámhatóság a jogosult kérelmére visszatéríti az adó e törvényben meghatározott feltételek szerint megállapított részét.

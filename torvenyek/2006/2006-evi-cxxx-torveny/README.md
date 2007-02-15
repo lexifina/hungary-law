@@ -1,0 +1,7 @@
+# 2006. évi CXXX. törvény a regisztrációs adó részleges visszatérítéséről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-130-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2007-02-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2006-130-00-00.1 |
