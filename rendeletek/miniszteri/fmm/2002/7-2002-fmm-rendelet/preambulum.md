@@ -1,0 +1,1 @@
+A felnőttképzésről szóló 2001. évi CI. törvény (a továbbiakban: Fktv.) 12. §-ának (7) bekezdése, valamint a felnőttképzést folytató intézmények és a felnőttképzési programok akkreditációjának részletes szabályairól szóló 91/2002. (IV. 26.) Korm. rendelet (a továbbiakban: R.) 7. §-ának (7) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
