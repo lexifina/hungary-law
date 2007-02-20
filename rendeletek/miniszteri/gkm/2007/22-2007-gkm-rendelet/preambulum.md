@@ -1,0 +1,1 @@
+A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 6. §-ának (1) bekezdésében kapott felhatalmazás alapján – a területfejlesztésért és a környezetvédelemért felelős miniszterekkel egyetértésben – a következőket rendelem el:
