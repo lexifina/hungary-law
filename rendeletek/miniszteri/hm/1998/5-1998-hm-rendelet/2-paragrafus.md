@@ -1,0 +1,1 @@
+## 1. § A rendelet alkalmazási köre a Magyar Köztársaság Katonai Felderítő Hivatala (a továbbiakban: KFH) és a Magyar Köztársaság Katonai Biztonsági Hivatala (a továbbiakban együtt: KNbSZ) tulajdonában, illetve üzemeltetésében lévő azon gépjárművekre terjed ki, amelyeknél a gépjármű hatósági engedélyébe tulajdonosként (üzemben tartóként) a KNbSZ-ek kerültek bejegyzésre.

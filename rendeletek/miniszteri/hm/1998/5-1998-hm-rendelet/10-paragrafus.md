@@ -1,0 +1,1 @@
+## 9. § A KNbSZ-ek főigazgatói által meghatározott egyes szolgálati gépjárművek az e rendelet melléklete szerinti igazolványnak a gépjármű vezetője szolgálati igazolványával történt egyidejű felmutatása esetén – a közúti balesetben való részvétel esetét kivéve – a közlekedési hatóság által végzett közúti ellenőrzés alól mentesülnek.
