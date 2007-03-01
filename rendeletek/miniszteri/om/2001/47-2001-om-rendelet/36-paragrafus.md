@@ -1,0 +1,3 @@
+36. § (1) A felsőoktatási intézmény szomszédos államokban alapképzésre felvett hallgatóit a felsőoktatási intézmények képzési és fenntartási normatíva alapján történő finanszírozásáról szóló 120/2000. (VII. 7.) Korm. rendelet alapján a felsőoktatási intézmény költségtérítéses hallgatóiként kell nyilvántartania.
+
+(2) A Magyar Köztársaság költségvetésében biztosított célelőirányzat terhére indított képzésben részt vevő hallgatók részére csak olyan, nem kötelező jelleggel igénybe vett szolgáltatásokért állapíthatóak meg díjak, amelyek nem kapcsolódnak a szak képesítési követelményeiben foglalt tanulmányi kötelezettségek teljesítéséhez.
