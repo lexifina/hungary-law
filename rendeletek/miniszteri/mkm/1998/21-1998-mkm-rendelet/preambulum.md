@@ -1,0 +1,1 @@
+A külföldiek magyarországi és a magyarok külföldi felsőfokú tanulmányainak egyes kérdéseiről szóló 192/1997. (XI. 4.) Korm. rendelet 1. §-ának (4) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
