@@ -1,0 +1,1 @@
+Az Országgyűlés a Kormánynak a Magyar Köztársaság területén élő nemzeti és etnikai kisebbségek helyzetéről (2003. február–2005. február) szóló beszámolóját elfogadja, és felkéri a Kormányt az abban foglalt kritikai észrevételek megfontolására.
