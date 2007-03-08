@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az ENSZ Éghajlatváltozási Keretegyezményben Részes Felek Konferenciájának 1997. évi harmadik ülésszakán elfogadott Kiotói Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
