@@ -1,0 +1,1 @@
+A víziközlekedésről szóló 2000. évi XLII. törvény 88. §-ának (4) és (7) bekezdésében kapott felhatalmazás alapján – figyelemmel a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 17. §-ának (1) bekezdésében foglaltakra – a közlekedési és vízügyi miniszterrel egyetértésben a következőket rendeljük el:
