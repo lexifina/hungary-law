@@ -1,0 +1,1 @@
+## 17. § Ha a rendelet hatálya alá tartozó készítmény engedély nélkül kerül forgalomba, illetőleg az engedélyezett készítményt a rendeletben meghatározott előírások be nem tartásával forgalmazzák, az OGYI a forgalmazást haladéktalanul megtiltja, és a forgalomba hozóval szemben szabálysértési eljárást kezdeményez.
