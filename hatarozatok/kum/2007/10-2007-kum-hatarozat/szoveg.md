@@ -1,0 +1,5 @@
+A 205/2006. (X. 16.) Korm. rendelettel a Magyar Közlöny 2006. október 16-i számában kihirdetett, a Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti nemzetközi fejlesztési együttműködésről szóló megállapodás 8.1. cikke szerint a megállapodás akkor lép életbe, ha a szerződő felek hivatalosan tájékoztatják egymást a jelen megállapodás hatálybalépéséhez szükséges belső jogi eljárások teljesítéséről.
+
+A Magyar Fél jegyzékét 2006. november 6-án elküldte a Vietnami Félhez, míg a Vietnami Fél jegyzékét a Magyar Fél 2007. február 28-án vette kézhez, így a megállapodásban foglaltaknak megfelelően a hatálybalépés napja 2007. február 28. napja.
+
+A fentiekre tekintettel, összhangban a 205/2006. (X. 16.) Korm. rendelet 4. § (3) bekezdésével, megállapítom, hogy a Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti nemzetközi fejlesztési együttműködésről szóló megállapodás kihirdetéséről szóló 205/2006. (X. 16.) Korm. rendelet 2–3. §-ai 2007. február 28-án léptek hatályba.
