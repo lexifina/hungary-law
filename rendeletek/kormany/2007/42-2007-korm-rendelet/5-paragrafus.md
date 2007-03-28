@@ -1,0 +1,1 @@
+## 4. § Az egyes gyümölcsfajok ültetvényei termelési potenciáljának meghatározása céljából a tagállamok által végzendő statisztikai felmérésekről szóló, 2001. december 19-i 2001/109/EK európai parlamenti és tanácsi irányelv 4. cikk (1), (3) és (4) bekezdéseiben foglalt adatszolgáltatási kötelezettséget – közigazgatási régiónkénti bontásban – a KSH teljesíti.

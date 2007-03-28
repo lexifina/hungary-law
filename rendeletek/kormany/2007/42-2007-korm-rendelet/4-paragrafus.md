@@ -1,0 +1,1 @@
+## 3. § A KSH az általa kidolgozott, a statisztikai termelési folyamathoz kapcsolódó módszertani szabályok alapján jár el, annak érdekében, hogy minimalizálják az összeírási hibákat és – szükség esetén – becsüljék annak mértékét.

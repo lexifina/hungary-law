@@ -1,0 +1,1 @@
+A Kormány a gyümölcsös ültetvények, valamint a gyümölcsös ültetvény méretet el nem érő, gyümölcsfával betelepített területek összeírásáról szóló 2006. évi XLVIII. törvény (a továbbiakban: Törvény) 4. §-ának (2) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
