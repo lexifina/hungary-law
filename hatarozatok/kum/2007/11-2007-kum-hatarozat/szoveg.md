@@ -1,0 +1,5 @@
+A 128/2006. (VI. 1.) Korm. rendelettel a Magyar Közlöny 2006. június 1-jei, 66. számában kihirdetett, a Magyar Köztársaság Kormánya és a Kubai Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló, Havannában, 2006. május 12-én aláírt Megállapodás 6. Cikke szerint a Megállapodás a két ország jogi eljárásának befejezését jelző jegyzékváltás napján lép hatályba.
+
+A Magyar Fél 2006. június 28-i keltezésű jegyzékében értesítette a Kubai Felet a hatálybalépéshez szükséges követelmények teljesítéséről, a Kubai Fél hasonló tartalmú jegyzékét a Magyar Fél 2007. március 5-én vette kézhez. A Megállapodás 6. Cikke értelmében a Megállapodás 2007. március 5-én lépett hatályba.
+
+A fentiekre tekintettel, összhangban a 128/2006. (VI. 1.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és a Kubai Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló, Havannában, 2006. május 12-én aláírt Megállapodás kihirdetéséről és kötelező hatályának elismeréséről szóló 128/2006. (VI. 1.) Korm. rendelet 2–3. §-a 2007. március 5-én, azaz kettőezer-hét március ötödikén lépett hatályba.
