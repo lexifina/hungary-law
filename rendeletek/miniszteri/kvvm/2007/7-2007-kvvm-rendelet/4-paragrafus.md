@@ -1,0 +1,1 @@
+## 3. § A kiemelkedő természetvédelmi értékek közvetlen megóvására az 1. § szerinti bioszféra-rezervátumokon belül magterületként jelölöm ki a 6–10. számú mellékletekben felsorolt helyrajzi számú területeket.
