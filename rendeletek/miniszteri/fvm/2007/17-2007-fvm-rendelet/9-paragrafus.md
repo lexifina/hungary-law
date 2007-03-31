@@ -1,0 +1,1 @@
+## 8. § A kérelmezőnek az igénylés benyújtásakor a 7. § szerinti nyomtatványhoz csatolnia kell a hitelintézet kamat megfizetéséről szóló igazolását, első igényléskor a hitelszerződés egy eredeti példányát, valamint igazolást arról, hogy más adóhatóságnál nem áll fenn adótartozása.
