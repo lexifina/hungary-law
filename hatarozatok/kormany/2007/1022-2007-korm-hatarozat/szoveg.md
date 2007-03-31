@@ -1,0 +1,5 @@
+Az Egységes Közszolgálati Sztrájkbizottság és a Kormány „A keresetek 2007. évi növelését szolgáló központi intézkedésekről a közszférában” című, 2007. február 19-én kötött megállapodásában foglaltak végrehajtása érdekében a Kormány elrendeli, hogy készüljön külön előterjesztés a Kormány részére a tizenharmadik havi illetmény kifizetésének 2009. évi változásával kapcsolatosan. Az előterjesztés célja annak biztosítása, hogy 2009-től kezdődően a közszolgálati, közalkalmazotti jogviszonyban, a közigazgatási szerveknél foglalkoztatott munkavállalók munkaviszonyában, a bírói, illetve az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazottak szolgálati jogviszonyában, a fegyveres szervek hivatásos állományú tagjainak, illetve a Magyar Honvédség hivatásos és szerződéses állományú katonáinak szolgálati viszonyában a tizenharmadik havi illetmény kifizetésére egy összegben, a tárgyév decemberében kerüljön sor.
+
+Felelős: szociális és munkaügyi miniszter, az érintett miniszterekkel együttműködésben
+
+Határidő: 2008. március 31.
