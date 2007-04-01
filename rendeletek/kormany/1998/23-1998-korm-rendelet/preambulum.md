@@ -1,0 +1,1 @@
+A Magyar Köztársaság 1998. évi költségvetéséről szóló 1997. évi CXLVI. törvény (a továbbiakban: Tv.) 89. §-a (1) bekezdésének c) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
