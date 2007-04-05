@@ -1,0 +1,7 @@
+3. § (1) Kiemelten védett régészeti lelőhellyé nyilvánítom a Süttő (Komárom-Esztergom megye), külterület 013, 030 és 041 helyrajzi számok alatt nyilvántartott kivett, a 028 és 033 helyrajzi számok alatt nyilvántartott erdő, a 031/3 helyrajzi szám alatt nyilvántartott szőlő, a 031/4, 031/5, 031/6, 031/7, 031/8, 031/9, 031/10, 040, 045/1, 045/2 és 045/3 helyrajzi számok alatt nyilvántartott szántó, a 039 helyrajzi szám alatt nyilvántartott gyep, valamint a zártkert 2350, 2351, 2353, 2358, 2359, 2360, 2501, 2527/1 és 2527/2 helyrajzi számok alatt nyilvántartott szántó, a 2352, 2355 és 2362 helyrajzi számok alatt nyilvántartott gyep, a 2354 helyrajzi szám alatt nyilvántartott erdő, a 2356/4, 2356/5, 2356/6, 2356/7, 2356/8, 2357 és 2361 helyrajzi számok alatt nyilvántartott kert, a 2356/9 helyrajzi szám alatt nyilvántartott kivett, továbbá a Neszmély (Komárom-Esztergom megye), külterület 0386/2 helyrajzi szám alatt nyilvántartott kivett művelési ágú ingatlanokat.
+
+(2) Az (1) bekezdésben megjelölt területen a régészeti védelem célja az itt található kora és középső bronzkori, valamint kora vaskori erődített települések és halomsíros temető maradványainak megőrzése, a lelőhely kutathatóságának biztosítása.
+
+(3) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a kiemelten védett régészeti lelőhelyet az I. kategóriába sorolom.
+
+(4) Az (1) bekezdésben szereplő 031/9, 040, 045/1 és 045/2 helyrajzi számú ingatlanok esetében a Magyar Államot elővásárlási jog illeti meg.

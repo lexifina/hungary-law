@@ -1,0 +1,1 @@
+Az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. § d) pontjában meghatározott feladatkörömben eljárva, a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 15. § (1) bekezdése alapján, az érintett miniszterekkel egyetértésben, a következőket rendelem el:
