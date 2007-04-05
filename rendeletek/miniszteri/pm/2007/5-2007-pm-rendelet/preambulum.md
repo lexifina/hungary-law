@@ -1,0 +1,1 @@
+A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény 27. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. §-ának g) pontjában foglalt feladatkörömben az alábbiakat rendelem el:
