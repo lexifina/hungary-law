@@ -1,0 +1,1 @@
+## 1. § Bükkhát természetvédelmi terület elnevezéssel védetté, továbbá Bükkhát erdőrezervátum néven erdőrezervátummá nyilvánítom az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 452,2 hektár kiterjedésű területet.
