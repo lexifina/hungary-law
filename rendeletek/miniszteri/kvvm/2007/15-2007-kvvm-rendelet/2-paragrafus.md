@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Bölcskei-nőszirmos természetvédelmi terület elnevezéssel a Tolna megyében, Bölcske községhatárban lévő, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 111,16 hektár kiterjedésű területet.
