@@ -1,0 +1,1 @@
+## 2. § A Mura-menti Tájvédelmi Körzet területéből fokozottan védetté nyilvánítom a 2. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 106,9 hektár kiterjedésű területet.

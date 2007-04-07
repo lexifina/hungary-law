@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Mura-menti Tájvédelmi Körzet elnevezéssel a Zala megyében Letenye, Molnári, Murakeresztúr, Murarátka, Muraszemenye, Tótszerdahely településhatárokban lévő, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú 1904,1 hektár kiterjedésű területet.
