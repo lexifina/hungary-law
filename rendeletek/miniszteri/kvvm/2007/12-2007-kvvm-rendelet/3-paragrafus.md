@@ -1,0 +1,1 @@
+## 2. § A Kelemér-Serényfalva természetvédelmi területen belül fokozottan védett természeti területté, egyben a Kelemér-Serényfalva Erdőrezervátum magterületévé nyilvánítom a 2. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 81,4 hektár kiterjedésű területet.
