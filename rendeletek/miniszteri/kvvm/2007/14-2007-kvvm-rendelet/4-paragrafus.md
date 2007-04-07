@@ -1,0 +1,91 @@
+4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+Melléklet a 14/2007. (III. 30.) KvVM rendelethez
+
+A Belsőbárándi-tátorjános természetvédelmi terület természetvédelmi kezelési terve
+
+1. Gyakorlati természetvédelmi célkitűzések
+
+– Őrizze meg a területen fennmaradt természetes löszvegetációt, a területen található értékes növénytársulásokat, valamint az ezekhez kapcsolódó állatközösségeket.
+
+– Őrizze meg a területen található védett és fokozottan védett növényfajokat, különös tekintettel a borzas macskamenta (Nepeta parviflora) és a tátorján (Crambe tataria) állományaira.
+
+– Őrizze meg a természetes és természetszerű élőhelyeket, segítse elő területarányuk fenntartását, növelését.
+
+– Őrizze meg a terület tájképi értékét és jellegzetes felszínformáit.
+
+– Őrizze meg a területen található kulturális örökségi elemeket (földvárak).
+
+– Biztosítsa a természeti értékek fenntartását, a természetvédelmi kezelést szolgáló tudományos kutatások feltételeit.
+
+2. Természetvédelmi stratégiák
+
+– A löszgyepek fajgazdagságának és a természeteshez közeli struktúrájának, valamint területarányának fenntartása, növelése, a védett állat- és növényfajok – különös tekintettel a borzas macskamenta és a tátorján – egyedszámának, állományának fenntartása, illetve növelése aktív természetvédelmi kezeléssel.
+
+– A degradált társulások fajkészletének és mintázatának közelítése a természetes állapothoz aktív természetvédelmi kezeléssel.
+
+– A nem őshonos fafajból álló erdők a termőhelynek megfelelő őshonos fafajokkal történő átalakítása.
+
+– A természetszerű erdők tartamos erdőhasználattal való megőrzése.
+
+– Az invazív-, özönfajok visszaszorítása, illetve terjedésük megakadályozása.
+
+– A látogatás, valamint az oktatási és kutatási tevékenység irányítása, szabályozása.
+
+3. Természetvédelmi kezelési módok, korlátozások és tilalmak
+
+A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatkozó előírásokat – a természetvédelmi kezelési tervek készítésére, készítőjére és tartalmára vonatkozó szabályokról szóló 30/2001. (XII. 28.) KöM rendelet 2. § (2) bekezdés c) pontjában, illetve melléklete 7. pontjában meghatározottak szerint – a 3.1. és 3.2. fejezet tartalmazza.
+
+3.1. Művelési ághoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1.1. Gyepek kezelése
+
+– A gyepterület felülvetése tilos.
+
+– A kisebb cserjésedő területeket 4 évente meg kell vizsgálni és jelentős növekedésük esetén mechanikus cserjeirtást kell végezni.
+
+– Az Aba 0308/2, 0308/3, 0308/4 hrsz. völgytalpi részéről 3 évente a szerves anyagot kaszálással el kell távolítani. A terület völgytalpi része március 1-jétől december 31-ig juhokkal legeltethető 1 állategység/ha állatmennyiséggel, vagy július 1. után kaszálható és a kaszálás után december 31-ig legeltethető. A lekaszált szénát a bálázást követő 2 héten belül le kell hordani a területről. Gépi kaszálás esetén vadriasztó lánc használata kötelező. Amennyiben a területen fokozottan védett madárfaj fészket találnak, a fészek körül 2 ha területet kaszálatlanul kell hagyni.
+
+– Az Aba 0308/3 hrsz.-ú földrészlet völgyoldali része március 1-jétől december 31-ig juhokkal legeltethető 1 állategység/ha állatmennyiséggel.
+
+– Az Aba 0308/4 hrsz.-ú földrészlet völgyoldali része augusztus 1-jétől december 31-ig juhokkal legeltethető 0,5 állategység/ha állatmennyiséggel, a terület természetvédelmi kezelőjével egyeztetett módon.
+
+3.1.2. Erdők kezelése
+
+– Az akácosban véghasználat során a letermelt faanyagot a területről el kell hordani, a hulladékágak égetése tilos. A kultúrtörténeti értékek (földvár), illetve a régészeti lelőhelyek megőrzése miatt a területen teljes talaj-előkészítés (mélylazítás, tuskózás) nem végezhető. Az akác terjedését meg kell akadályozni. Az erdőfelújítást őshonos, a termőhelyi adottságoknak megfelelő fafajok – pl. molyhos tölgy (Quercus pubescens), csertölgy (Quercus cerris), kocsányos tölgy (Quercus robur), tatárjuhar (Acer tataricum), mezei juhar (Acer campestre), mezei szil (Ulmus campestris) – elegyes telepítésével kell végrehajtani.
+
+– Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvényes körzeti erdőterv tartalmazza.
+
+3.2. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.2.1. Fajok védelme
+
+– A fokozottan védett és aktuálisan veszélyeztetett borzas macskamenta és a tátorján fajok esetében évente állományszámlálást kell végezni.
+
+3.2.2. Terület- és földhasználat
+
+– A területen vegyszer használata csak természetvédelmi célból engedélyezhető, műtrágya kijuttatása, tárolása tilos, tápanyag-utánpótlás csak a legelő állatok természetes úton elhullatott ürülékével történhet.
+
+– A területen épület nem helyezhető el, építmény létesítése a természetvédelmi kezelést szolgáló ideiglenes építmények – villanypásztor, kerítés – kivételével tilos.
+
+– A területen sporttevékenység végzése tilos.
+
+– A területen gépjárművel közlekedni csak életveszély elhárítása érdekében, természetvédelmi érdekből (ideértve a legeltetéshez, kaszáláshoz szükséges gépjármű- használatot), kulturális örökségvédelmi érdekből, valamint a területen megvalósítandó, jogerős engedéllyel rendelkező tevékenységek elvégzése érdekében lehet.
+
+– A területen ipari, illetve bányászati tevékenység nem végezhető.
+
+– A talaj bolygatásával járó, engedélyezett tevékenységek a Kulturális Örökségvédelmi Hivatal illetékes regionális irodájával, valamint a természetvédelmi kezelővel egyeztetett módon, szükség esetén ezek felügyelete mellett végezhetők el.
+
+– A terület védetté nyilvánítását megelőzően szerzett jogerős engedéllyel rendelkező tevékenységeket az engedély lejártáig, az abban foglaltaknak megfelelően lehet elvégezni. Az engedélyezett tevékenység megkezdése előtt értesíteni kell az igazgatóságot. A tevékenység végzése során a természetvédelmi hatóság és az igazgatóság szakemberei számára biztosítani kell az engedélyben foglaltak betartásának felügyeletét.
+
+3.2.3. Látogatás
+
+– A terület látogatása csak természetvédelmi érdekeket szolgáló tevékenység esetén, szakvezetéssel történhet.
+
+3.2.4. Oktatás és bemutatás
+
+– Oktatási és bemutatási tevékenység csak természetvédelmi érdekek szolgálatában, szakvezetéssel történhet.
+
+3.2.5. Kutatás, vizsgálatok
+
+– Szaporodásbiológiai kutatásokat és szaporítási kísérleteket kell megkezdeni a borzas macskamenta állományának mesterséges növelése és természetes élőhelyén való spontán terjedésének elősegítése érdekében.

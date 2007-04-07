@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Belsőbárándi-tátorjános természetvédelmi terület elnevezéssel a Fejér megyében, Aba községhatárban lévő, 0308/1–4 ingatlan-nyilvántartási helyrajzi számú 49,73 hektár kiterjedésű területet.
