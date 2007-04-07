@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Érdi Kakukk-hegy természetvédelmi terület elnevezéssel az Érd 24575/1, 24576/1, 24593, 24599, 24602/1–2 ingatlan-nyilvántartási helyrajzi számú, összesen 9,3 hektár kiterjedésű területet.
