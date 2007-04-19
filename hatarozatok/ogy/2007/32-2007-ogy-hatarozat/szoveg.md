@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Kormányának a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 95. ülésszakán elfogadott, a munkavédelemről szóló 187. számú Keretegyezményről és a munkavédelemről szóló 197. számú Ajánlásról, valamint a munkaviszonyról szóló 198. számú Ajánlásról szóló beszámolóját elfogadja.
