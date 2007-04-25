@@ -1,0 +1,3 @@
+## 9. § Az e rendeletben nem szabályozott kérdésekben az államháztartásról szóló 1992. évi XXXVIII. törvényben, továbbá az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendeletben, a határon túli támogatások eltérő szabályozásának rendjéről szóló 84/2005. (V. 2.) Korm. rendeletben, valamint a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény alapján nyújtott támogatások rendjéről szóló 31/2004. (II. 28.) Korm. rendeletben és a szomszédos államokban élő magyaroknak nyújtott támogatások központi nyilvántartásáról szóló 233/2005. (X. 19.) Korm. rendeletben foglaltak az irányadók.
+
+10. § Ez a rendelet a kihirdetését követő napon lép hatályba.
