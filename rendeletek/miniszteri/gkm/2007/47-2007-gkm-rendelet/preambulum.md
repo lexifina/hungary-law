@@ -1,0 +1,1 @@
+A gazdasági és közlekedési miniszter feladat- és hatásköréről szóló 163/2006. (VII. 28.) Korm. rendelet 1. §-ának e) pontjában meghatározott feladatkörben eljárva, a közúti közlekedésről szóló 1988. évi I. törvény 48. §-a (3) bekezdésének g) pontjában kapott felhatalmazás alapján – az adópolitikáért felelős miniszterrel egyetértésben – a következőket rendelem el:
