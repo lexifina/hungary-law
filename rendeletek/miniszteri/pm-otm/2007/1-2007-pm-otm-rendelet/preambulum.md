@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény (a továbbiakban: KT) 15. §-ának (3) bekezdésében kapott felhatalmazás alapján – figyelemmel a KT 4. számú mellékletében foglaltakra – a következőket rendeljük el:

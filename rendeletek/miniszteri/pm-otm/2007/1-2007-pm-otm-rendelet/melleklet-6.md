@@ -1,0 +1,3 @@
+6. számú melléklet az 1/2007. (I. 30.) PM–ÖTM együttes rendelethez[^2]
+
+[^2]: A 6–7. számú mellékletet a 7/2007. (IV. 24.) PM–ÖTM együttes rendelet 2. § (1) bekezdése iktatta be. E módosító rendelet 2. § (2) bekezdése alapján a 6–7. számú mellékletben meghatározott különbözetek éves összegének 2007. április 30-áig számított folyó évi finanszírozási különbözeteit első ütemben április hónap 30-áig, a fennmaradó további különbözetet május 1-jétől havi ütemezésben – a normatív állami hozzájárulásokkal és támogatásokkal egyidejűleg – a nettó finanszírozás keretében a Magyar Államkincstár érvényesíti. A 6–7. számú melléklet szövegét a Magyar Közlöny 2007. évi 51. számának II. kötete tartalmazza.
