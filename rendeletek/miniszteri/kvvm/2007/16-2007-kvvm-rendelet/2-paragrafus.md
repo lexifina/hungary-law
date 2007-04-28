@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Tardi-legelő természetvédelmi terület elnevezéssel a Borsod-Abaúj-Zemplén megyében, Tard községhatárban lévő, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 283,9 hektár kiterjedésű területet.
