@@ -1,0 +1,1 @@
+## 5. § Az egyes területekre meghatározott biológiai aktivitásérték számítási módja (nem differenciált vagy differenciált számítás) csak a terület felhasználásának vagy a szabályozásának módosulása esetén változtatható meg.
