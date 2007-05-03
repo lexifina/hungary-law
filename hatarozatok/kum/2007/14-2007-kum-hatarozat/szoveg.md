@@ -1,0 +1,5 @@
+A 2007. évi XVIII. törvénnyel a Magyar Közlöny 2007. március 30-i, 38. számában kihirdetett, a Magyar Köztársaság és az Osztrák Köztársaság között az egymás nevében a vízumok kiadásában diplomáciai és konzuli képviseleteik útján történő kölcsönös eljárásról szóló, Bécsben, 2007. március 6-án aláírt Megállapodás 7. cikke szerint a Megállapodás ideiglenesen alkalmazásra kerülhet, ha a Felek diplomáciai úton értesítették egymást arról, hogy az ideiglenes alkalmazáshoz szükséges feltételeket teljesítették.
+
+A Megállapodás 7. cikke szerinti jegyzékváltásra 2007. április 20-án került sor.
+
+A fentiekre tekintettel, összhangban a 2007. évi XVIII. törvény 5. § (5) bekezdésével, megállapítom, hogy a Magyar Köztársaság és az Osztrák Köztársaság között az egymás nevében a vízumok kiadásában diplomáciai és konzuli képviseleteik útján történő kölcsönös eljárásról szóló, Bécsben, 2007. március 6-án aláírt Megállapodás kihirdetéséről szóló 2007. évi XVIII. törvény 2–3. §-a ideiglenes alkalmazása kezdetének időpontja 2007. április 20., azaz kettőezer-hét április huszadika.
