@@ -1,0 +1,5 @@
+8. § (1) Amennyiben az önkormányzat a 6. § (2) bekezdésében foglaltaknak megfelelően a kivitelezői szerződést 2007. december 15-e után köti meg, és abban a beruházás összköltsége a támogatási megállapodásban szereplő összeghez képest alacsonyabb, úgy az önkormányzatnak az összköltség csökkenésével arányos támogatási összeget a kivitelezői szerződés megkötésétől számított 30 napon belül – a 10. § (2) bekezdése szerinti kamattal növelt összegben – vissza kell fizetnie a központi költségvetésbe.
+
+(2) Amennyiben az önkormányzat a 6. § (1)–(2) bekezdései szerinti 2007. december 15-ei határidőt elmulasztja, úgy a támogatásra nem jogosult, és köteles annak első részletét 2007. december 31-éig visszafizetni a központi költségvetésbe.
+
+(3) Amennyiben az önkormányzat 2007. december 15-éig csak igazolást nyújt be, és a kivitelezői szerződést 2008. évben a 6. § (2) bekezdésben előírtak szerint nem nyújtja be az ÖTM-hez, úgy a támogatásra nem jogosult, és köteles annak első részletét – a 10. § (2) bekezdése szerinti kamattal növelt összegben – visszafizetni a központi költségvetésbe.
