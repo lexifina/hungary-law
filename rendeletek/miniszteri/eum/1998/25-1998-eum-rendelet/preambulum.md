@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 88. §-ának (2) bekezdésében kapott felhatalmazás alapján – a szociális és családügyi miniszterrel egyetértésben – az alábbiakat rendelem el:
