@@ -1,0 +1,41 @@
+4. § (1)[^6] A szolgálat az alapszolgáltatás keretében végzi
+
+a) a külön jogszabályban meghatározott munkaköri alkalmassági vizsgálatokat, és kezdeményezi az ehhez szükséges szakorvosi vizsgálatokat;
+
+b) külön jogszabályban meghatározottak szerint a foglalkozási megbetegedések, fokozott expozíciós esetek bejelentését, kivizsgálását;
+
+c) a munkakörülmények és a munkavégzés egészségkárosító hatásainak írásban dokumentált vizsgálatát a szerződésben – a helyi körülmények figyelembevételével – meghatározott gyakorisággal, vagy változás bekövetkezésekor soron kívül;
+
+d) külön jogszabályban meghatározottak szerint az egyéni védőeszközökkel kapcsolatos tanácsadást;
+
+e) külön jogszabályban előírtak szerint a munkahelyek kémiai biztonságát érintő feladatokat;
+
+f) a munkavállalók munkakörülményeivel kapcsolatos, egészséget, biztonságot érintő kérdésekkel összefüggő felvilágosítást;
+
+g) külön jogszabályban előírtak szerint a munkakörhöz kötött védőoltásokkal kapcsolatos feladatokat;
+
+h) a krónikus megbetegedésben szenvedő munkavállalók megelőző gondozását;
+
+i) külön jogszabályban meghatározottak szerint az 1. és 2. alkalmassági csoportba tartozó közúti járművezetők egészségi alkalmassági vizsgálatát.
+
+(2)[^7] A szolgálat közreműködik
+
+a) az Mvt. 58. §-ában felsorolt munkáltatói feladatok ellátásában, különösen
+
+aa) a munkahelyi veszélyforrások feltárásában,
+
+ab) munka-egészségügyi, -fiziológiai, -ergonómiai, -higiénés feladatok megoldásában,
+
+ac) a munkahelyi elsősegélynyújtás tárgyi, személyi és szervezési feltételeinek biztosításában, a sürgős orvosi ellátás megszervezésében, az elsősegélynyújtók szakmai felkészítésében;
+
+b) a foglalkozási rehabilitációban;
+
+c) a munkáltató katasztrófamegelőző, -elhárító, -felszámoló és az előidézett károsodások rehabilitációs tervének kidolgozásában.
+
+(3)[^8] A szolgálat az Egészségbiztosítási Alap terhére igénybe veheti a mentőszolgálatot, a szolgálat orvosa járóbeteg-szakellátást nyújtó szakrendelésekre, illetve háziorvosi ellátásra utalhatja a társadalombiztosítási jogviszonnyal rendelkező munkavállalót, speciális kórházi ellátást igénylő foglalkozási megbetegedés vagy annak gyanúja esetén pedig – sürgősséggel vagy előzetes helybiztosítás útján – az Országos Munkahigiénés és Foglalkozás-egészségügyi Intézet fekvőbetegosztályára utalhatja a beteget.
+
+(4) Az (1) és (2) bekezdésben foglaltak nem érintik a munkáltatónak az egészséget nem veszélyeztető és biztonságos munkavégzés megvalósításáért az Mvt.-ben meghatározott felelősségét.
+
+[^6]: A 4. § (1) bekezdése a 18/2007. (V. 10.) SZMM rendelet 8. § (3) bekezdésével megállapított szöveg. E módosító rendelet 23. §-a alapján a 2007. május 13. napja előtt – a foglalkozás-egészségügyi szolgálat és a munkáltató között – létrejött szerződést a fenti időponttól számított 90 napon belül a rendelet 4. § (1) bekezdésének c) pontjában foglaltaknak megfelelően módosítani kell.
+[^7]: A 4. § (2) bekezdése a 18/2007. (V. 10.) SZMM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^8]: A 4. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 8. § (3) bekezdésével megállapított szöveg.
