@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Szlovén Köztársaság között az egymás nevében a vízumok és tartózkodási engedélyek kiadásában diplomáciai és konzuli képviseleteik útján történő kölcsönös eljárásról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
