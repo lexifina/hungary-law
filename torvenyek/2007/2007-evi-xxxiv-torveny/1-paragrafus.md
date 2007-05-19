@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európa Tanács keretében Strasbourgban, 1989. november 16-án létrejött, a tiltott teljesítményfokozó szerek és módszerek használata elleni Egyezmény Varsóban, 2002. szeptember 12-én kelt Kiegészítő Jegyzőkönyve (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
