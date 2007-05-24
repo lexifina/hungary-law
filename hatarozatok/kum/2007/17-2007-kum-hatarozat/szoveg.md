@@ -1,0 +1,5 @@
+A 2007. évi XVIII. törvénnyel a Magyar Közlöny 2007. március 30-i, 38. számában kihirdetett, a Magyar Köztársaság és az Osztrák Köztársaság között az egymás nevében a vízumok kiadásában diplomáciai és konzuli képviseleteik útján történő kölcsönös eljárásról szóló, Bécsben, 2007. március 6-án aláírt Megállapodás 6. cikke szerint a Megállapodás az azt követő hónap első napján lép hatályba, amelyben a Felek diplomáciai úton értesítették egymást arról, hogy a Megállapodás hatálybalépéséhez szükséges alkotmányos feltételeket teljesítették.
+
+A Megállapodás 6. cikke szerinti jegyzékváltásra 2007. április 26-án került sor.
+
+A fentiekre tekintettel, összhangban a 2007. évi XVIII. törvény 5. § (5) bekezdésével, megállapítom, hogy a Magyar Köztársaság és az Osztrák Köztársaság között az egymás nevében a vízumok kiadásában diplomáciai és konzuli képviseleteik útján történő kölcsönös eljárásról szóló, Bécsben, 2007. március 6-án aláírt Megállapodás kihirdetéséről szóló 2007. évi XVIII. törvény 2–3. §-a 2007. május 1-jén, azaz kettőezer-hét május elsején hatályba lépett.
