@@ -1,0 +1,1 @@
+Az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény 8. § (4) bekezdésében kapott felhatalmazás alapján a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 52. § (1) bekezdés f) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
