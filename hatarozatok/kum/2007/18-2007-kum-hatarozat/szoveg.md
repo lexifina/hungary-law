@@ -1,0 +1,5 @@
+A 127/2006. (V. 30.) Korm. rendelettel a Magyar Közlöny 2006. május 30-i, 64. számában kihirdetett, a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a környezetvédelem és a természetvédelem terén való együttműködésről szóló, Budapesten, 2006. január 26-án aláírt Egyezmény a 10. Cikk értelmében a jóváhagyásról szóló későbbi diplomáciai jegyzék kézbesítésének napján lép hatályba.
+
+A Magyar Fél a Horvát Felet a 2006. szeptember 14-i keltezésű jegyzékében értesítette a jóváhagyásról, a Horvát Fél hasonló tartalmú jegyzékét a Magyar Fél 2007. május 10-én vette kézhez. Az Egyezmény a 10. Cikknek megfelelően a Horvát Fél jegyzéke kézbesítésének napján, azaz 2007. május 10-én lépett hatályba.
+
+A fentiekre tekintettel, összhangban a 127/2006. (V. 30.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a környezetvédelem és a természetvédelem terén való együttműködésről szóló, Budapesten, 2006. január 26-án aláírt Egyezmény kihirdetéséről szóló 127/2006. (V. 30.) Korm. rendelet 2–3. §-a 2007. május 10-én, azaz kettőezer-hét május tizedikén hatályba lépett.
