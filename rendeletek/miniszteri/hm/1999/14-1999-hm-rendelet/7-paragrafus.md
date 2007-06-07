@@ -1,0 +1,1 @@
+## 6. § Új katonai objektum építése, illetve meglévő objektum korszerűsítése (felújítás, átalakítás) esetén a dohányzóhelyek kijelölésére a tv.-ben, valamint az e rendeletben meghatározott előírásokat már a tervezés során érvényesíteni kell.
