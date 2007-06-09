@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel kihirdeti a Magyar Köztársaság Kormánya és az Etióp Demokratikus Szövetségi Köztársaság Kormánya között a fejlesztési együttműködésről szóló, Addis Abebában, 2005. június 28-án aláírt Megállapodást (a továbbiakban: Megállapodás).
