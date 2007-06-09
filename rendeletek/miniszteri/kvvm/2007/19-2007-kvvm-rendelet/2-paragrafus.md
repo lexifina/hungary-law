@@ -1,0 +1,1 @@
+## 1. § Márkházapusztai fás legelő természetvédelmi terület elnevezéssel védetté nyilvánítom a Nógrád megyében, Bátonyterenye, Nagykeresztúr és Salgótarján közigazgatási területén lévő, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 273,2 hektár kiterjedésű területet.
