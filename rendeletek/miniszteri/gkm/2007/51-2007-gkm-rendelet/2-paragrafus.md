@@ -1,0 +1,1 @@
+## 1. § E rendelet alkalmazási köre a gázüzemű emelőtargonca, rakodógép, mezőgazdasági és erdészeti traktor, közúti járműnek nem minősülő kerekes jármű (a továbbiakban együtt: munkagép) gáz-üzemanyag ellátó berendezésének beszerelésére, karbantartására, javítására, belső égésű motorral üzemelő munkagép gázüzeműre történő utólagos átalakítására terjed ki.
