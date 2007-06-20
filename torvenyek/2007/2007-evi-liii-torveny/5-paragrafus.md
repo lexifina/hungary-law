@@ -1,0 +1,3 @@
+5. § A Szátv. 21. §-a a következő (5) bekezdéssel egészül ki, egyidejűleg a korábbi (5)–(6) bekezdések jelölése (6)–(7) bekezdésre változik:
+
+„(5) Ha az igazolvány melléklete a kedvezmények igénybevételre jogosító igazolások bejegyzésére alkalmatlanná vált, betelt, akkor az adott kedvezmény (utazási, diák-, pedagógus-) igénybevételére jogosító pótfüzetet kell kérvényezni, amely nem minősül új igazolvány iránti kérelemnek. A pótfüzetnek tartalmaznia kell a „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” okmányszámát és a jogosult nevét. A pótfüzet a „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” elválaszthatatlan részét képezi.”
