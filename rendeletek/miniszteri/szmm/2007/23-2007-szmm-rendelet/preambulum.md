@@ -1,0 +1,1 @@
+A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 24. §-ának (4) bekezdésében foglalt felhatalmazása alapján, a foglalkoztatáspolitikáért, valamint a szociál-, család- és nyugdíjpolitikáért való felelősségem körében a következőket rendelem el:
