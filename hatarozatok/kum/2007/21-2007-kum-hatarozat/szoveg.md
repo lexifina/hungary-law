@@ -1,0 +1,5 @@
+A 2007. évi XXXV. törvénnyel a Magyar Közlöny 2007. május 18-i, 62. számában kihirdetett, a Magyar Köztársaság és a Szlovén Köztársaság között az egymás nevében a vízumok és tartózkodási engedélyek kiadásában diplomáciai és konzuli képviseleteik útján történő kölcsönös eljárásról szóló, Ljubljanában, 2007. április 4-én aláírt Megállapodás 7. cikke szerint a Megállapodás ideiglenesen alkalmazásra kerülhet, ha a Felek diplomáciai úton értesítették egymást arról, hogy az ideiglenes alkalmazáshoz szükséges feltételeket teljesítették.
+
+A Megállapodás 7. cikke szerinti jegyzékváltásra 2007. május 24-én került sor.
+
+A fentiekre tekintettel, összhangban a 2007. évi XXXV. törvény 5. § (5) bekezdésével, megállapítom, hogy a Magyar Köztársaság és a Szlovén Köztársaság között az egymás nevében a vízumok és tartózkodási engedélyek kiadásában diplomáciai és konzuli képviseleteik útján történő kölcsönös eljárásról szóló, Ljubljanában, 2007. április 4-én aláírt Megállapodás kihirdetéséről szóló 2007. évi XXXV. törvény 2–3. §-a ideiglenes alkalmazása kezdetének időpontja 2007. május 24., azaz kettőezer-hét május huszonnegyedike.
