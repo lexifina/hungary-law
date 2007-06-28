@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Kubai Köztársaság Kormánya között Havannában, 2006. február 14-én aláírt, a kulturális, az oktatási és a tudományos cserekapcsolatokról szóló egyezmény (a továbbiakban: szerződés) kötelező hatályának elismerésére.
