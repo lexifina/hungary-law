@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa közötti oktatási, tudományos, kulturális, sport- és ifjúsági együttműködésről szóló Egyezmény (a továbbiakban: szerződés) kötelező hatályának a Montenegrói Köztársaság vonatkozásában történő elismerésére.
