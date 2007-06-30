@@ -1,0 +1,1 @@
+## 4. § Az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett települések betűrendes felsorolását, valamint a településeken található az 1–3. §-ban meghatározott területek megnevezését a 4. számú melléklete tartalmazza.
