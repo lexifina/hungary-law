@@ -1,0 +1,1 @@
+281. § Ahol e törvény hatálybalépése előtt a Hpt. felhatalmazása alapján kihirdetett jogszabály tőkemegfelelési mutatót tartalmaz, azon a Hpt. szerinti fizetőképességi mutatót (szolvencia rátát) kell érteni.
