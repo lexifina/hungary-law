@@ -1,0 +1,7 @@
+## 1. § E rendelet hatálya kiterjed az Adó- és Pénzügyi Ellenőrzési Hivatalra és területi szerveire (a továbbiakban: APEH), a Magyar Államkincstárra (a továbbiakban: Kincstár), a Munkaerőpiaci Alapra és kezelő szervezetére (a továbbiakban: MPA).
+
+2. § (1) A Pftv. 2. §-ában meghatározott kedvezmény iránti igénylés az illetékes APEH igazgatósághoz, az APEH által rendszeresített bevallásnyomtatványon nyújtható be. Ez 2005. évben a 0511-es számú „BEVALLÁS az államháztartással szembeni egyes juttatások igényléséhez” c. bizonylat, melyhez csatolni kell az e rendelet melléklete szerinti adattartalmú adatlapot.
+
+(2)[^1] A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény hatálya alá tartozó munkaadó esetében csatolandó továbbá az Egységes Munkaügyi Nyilvántartással kapcsolatos bejelentési és nyilvántartási kötelezettség szabályozásáról szóló 67/2004. (IV. 15.) Korm. rendelet 3. § (4) bekezdésében meghatározott, a munkaviszony létesítésének nyilvántartásba vételéről a Foglalkoztatási Hivatal Munkaügyi Nyilvántartó Központja (a továbbiakban: Központ) által kiállított igazolás másolata. Amennyiben a munkaviszony a Pftv. – 2007. június 30-án hatályos – 6. § (3) bekezdésében meghatározott okból szűnik meg, a Központ által a munkaviszony megszűnésének nyilvántartásba vételéről kiállított igazolás másolatát is csatolni kell.
+
+[^1]: A 2. § (2) bekezdése a 14/2007. (VI. 29.) PM rendelet 10. §-a szerint módosított szöveg.
