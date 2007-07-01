@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és az Osztrák Köztársaság között az egymás nevében a vízumok kiadásában diplomáciai és konzuli képviseleteik útján történő kölcsönös eljárásról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
