@@ -1,0 +1,3 @@
+5. § (1) A bíróság a szakértő díját – a szakértő által benyújtott díjjegyzék alapul vételével – a szakvélemény beérkeztét követően, legkésőbb 15 napon belül végzéssel megállapítja.
+
+(2) Ha a kérelmező által letett összeg a szakértő költségeit nem fedezi, a bíróság az (1) bekezdés szerinti végzésben kötelezi a kérelmezőt a díj viselésére és a még szükséges összeg letétbe helyezésére. A szakvéleményt a bíróság a kérelmezőnek csak a szakértő költségeinek fedezésére szükséges teljes összeg letétbe helyezését követően küldi meg. A végzés ellen a kérelmező és a szakértő fellebbezéssel élhet. A fellebbezésnek csak a kifogásolt összeg erejéig van halasztó hatálya.
