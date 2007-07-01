@@ -1,0 +1,1 @@
+Az Országgyűlés a környezethez való alkotmányos alapjog maradéktalan biztosítása érdekében, az állam ezzel kapcsolatos alkotmányos kötelezettségeinek teljesítése és a természetvédelem jogszabályokkal biztosított eredeti szintjének helyreállítása céljából a következő törvényt alkotja:
