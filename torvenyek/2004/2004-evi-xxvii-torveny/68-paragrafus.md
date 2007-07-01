@@ -1,0 +1,3 @@
+68. § (1) Mentes a jövedelem (bevétel) után fizetendő adó és minden egyéb közteher alól az a bevétel, amelyet a magánszemély az Európai Közösségek tisztviselőjeként vagy egyéb alkalmazottjaként, erre a jogviszonyára tekintettel 2003. január 1-jétől a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló jogszabály hatálybalépésének napját megelőző napig az Európai Közösségektől bér, fizetés és más hasonló térítés, juttatás címén szerez (szerzett), feltéve, hogy az az Európai Közösségeket illető adó hatálya alá tartozik (tartozott).
+
+(2) Az (1) bekezdés az e törvény kihirdetése napján lép hatályba.
