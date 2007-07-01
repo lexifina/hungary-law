@@ -1,0 +1,1 @@
+30. § Az MSZT együttműködik a gazdasági és szakmai érdekképviseleti szervezetekkel. Az együttműködés során az MSZT köteles az érdekképviseleti szervezeteket és a kamarákat tájékoztatni a nemzeti szabványosítási tevékenységet érintő kérdésekben.

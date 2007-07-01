@@ -1,0 +1,1 @@
+27. § Az MSZT azokat a határozatait, amelyekre a törvényességi felügyelet kiterjed, továbbá alapszabályát és egyéb önkormányzati szabályzatát — az elfogadástól számított 15 napon belül — köteles megküldeni a törvényességi felügyeletet ellátó miniszternek.
