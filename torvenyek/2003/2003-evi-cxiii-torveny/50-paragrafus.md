@@ -1,0 +1,1 @@
+50. § Az Európai Unió más tagállamai állampolgárainak a szavazatszámláló bizottság előtt a személyazonosságukat, bejelentett magyarországi lakóhelyüket és tartózkodásuk jogszerűségét kell igazolniuk. A Ve. 99/N. § (4) bekezdésében foglalt eseteken túlmenően vissza kell utasítani azt is, aki a bejelentett lakóhelyét – hatósági igazolvánnyal – nem igazolta.

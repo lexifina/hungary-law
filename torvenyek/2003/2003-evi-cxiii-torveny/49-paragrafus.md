@@ -1,0 +1,1 @@
+49. § A 48. § szerinti polgár bejelentett és igazolt magyarországi lakóhelyét, tartózkodási helyét, szálláshelyét a névjegyzék összeállítása szempontjából lakóhelynek kell tekinteni. A kérelem és a névjegyzék, valamint a jelöltként történő bejelentés a kérelmező személyi azonosítóját, ennek hiányában a magyarországi tartózkodás jogszerűségét igazoló okmány számát tartalmazza.
