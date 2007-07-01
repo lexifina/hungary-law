@@ -1,0 +1,1 @@
+A vasútról szóló 1993. évi XCV. törvény 14. §-ának (5) bekezdésében, valamint az egészségügyről szóló 1972. évi II. törvény végrehajtására kiadott 16/1972. (IV. 29.) MT rendelet 38. §-ának (1) bekezdésében kapott felhatalmazás alapján — a népjóléti miniszterrel és más érdekeltekkel egyetértésben — a következőket rendelem el:
