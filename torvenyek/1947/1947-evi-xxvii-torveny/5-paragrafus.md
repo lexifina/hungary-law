@@ -1,0 +1,1 @@
+5. § A jelen törvényben biztosított kedvezmények a magyar állampolgárokat is megilletik. Az ipari tulajdon védelmére Hágában, az 1925. évi november hó 6. napján aláírt nemzetközi megegyezések becikkelyezéséről szóló 1929. évi XVIII. tv. 2. §-ában I. alatt felvett Egyezmény 3. cikkének rendelkezése a jelen törvényben biztosított kedvezményekre nézve is megfelelően alkalmazandó.
