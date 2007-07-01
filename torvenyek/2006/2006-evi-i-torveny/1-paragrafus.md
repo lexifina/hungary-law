@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Bolgár Köztársaság között, a szociális biztonságról szóló, Szófiában, 2005. november 30-án aláírt Egyezmény kötelező hatályának elismerésére.
