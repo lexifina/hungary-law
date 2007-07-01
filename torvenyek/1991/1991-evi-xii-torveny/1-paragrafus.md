@@ -1,0 +1,5 @@
+1. § (1) Azt a nyugdíjat, amelyet az állami vezetők munkaviszonyával összefüggő kérdésekről szóló 54/1988. (VII. 12.) MT rendeletben biztosított kedvezmény alapján állapítottak meg, e törvény hatálybalépését követő hónap utolsó napján meg kell szüntetni és a megszüntetést követő naptól az 1975. évi II. törvény (a továbbiakban: T.) rendelkezései szerinti ellátást kell — a már elismert szolgálati idő figyelembevételével — megállapítani és folyósítani.
+
+(2) Az (1) bekezdés rendelkezéseit kell megfelelően alkalmazni a hozzátartozói nyugellátások tekintetében is.
+
+(3) Annak, akinek az 54/1988. (VII. 12.) MT rendelet hatálybalépése előtti időponttól a T., illetőleg az 1958. évi 40. tvr. alapján nyugdíjat állapítottak meg és a nyugdíját 1988. július 1-jétől az 1077/1987. (XII. 31.) MT határozatnak az 54/1988. (VII. 12.) MT rendelettel megállapított 30/A. pontja alapján kapta, ezt a nyugdíját e törvény hatálybalépését követő hónap utolsó napján meg kell szüntetni és a megszüntetést követő naptól a korábbi ellátását kell az azóta esedékes emelésekkel kiegészítve folyósítani.

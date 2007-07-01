@@ -1,0 +1,1 @@
+4. § A 30/1985. (VI. 22.) MT rendeletnek a 10/1987. (III. 28.) MT rendelet 1. §-ával kiegészített 3. §-a, továbbá 7. §-a alapján együtt folyósított sajátjogú és özvegyi nyugdíjat e törvény hatálybalépését követő hónap utolsó napjától meg kell szüntetni és a megszüntetést követő naptól a T. 65/A. §-ának rendelkezései alapján kell együttesen folyósítani.
