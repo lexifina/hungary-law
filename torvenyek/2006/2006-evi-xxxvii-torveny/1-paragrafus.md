@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és az Osztrák Köztársaság között a határokat átlépő bűnözés megelőzése és leküzdése érdekében folytatandó együttműködésről szóló, Heiligenbrunnban, 2004. június 6-án aláírt Szerződés (a továbbiakban: Szerződés) kötelező hatályának elismerésére.
