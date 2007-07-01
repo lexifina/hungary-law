@@ -1,0 +1,1 @@
+47. § A képviseleti testületnek, illetve az ügyvezető bizottságnak a 44–45. § szerinti tárgyaláson résztvevő tagjai – az üzleti titok körén kívül – kötelesek tájékoztatni az európai részvénytársaság, annak leányvállalatai, illetve telephelyei munkavállalói képviselőit a tájékoztatás, illetve a konzultáció tartalmáról és eredményéről.
