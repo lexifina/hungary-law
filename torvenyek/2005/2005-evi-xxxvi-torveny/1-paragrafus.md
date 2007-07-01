@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a polgári és kereskedelmi ügyekben keletkezett bírósági és bíróságon kívüli iratok külföldön történő kézbesítéséről szóló, Hágában, 1965. november 15. napján kelt Egyezményt e törvénnyel kihirdeti.
