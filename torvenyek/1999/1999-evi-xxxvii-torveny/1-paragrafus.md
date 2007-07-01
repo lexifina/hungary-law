@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a bizalom- és biztonságerősítő intézkedésekről és a kétoldalú katonai kapcsolatok fejlesztéséről Budapesten, 1998. október 27-én aláírt Megállapodást (a továbbiakban: Megállapodás) e törvénnyel megerősíti.
