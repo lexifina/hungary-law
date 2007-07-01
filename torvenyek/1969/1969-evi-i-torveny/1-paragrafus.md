@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Népköztársaság és a Csehszlovák Szocialista Köztársaság között Budapesten 1968. június 14-én aláírt Barátsági, Együttműködési és Kölcsönös Segítségnyújtási Szerződést az ország törvényei közé iktatja.
