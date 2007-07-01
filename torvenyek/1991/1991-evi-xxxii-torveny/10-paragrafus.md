@@ -1,0 +1,5 @@
+10. § (1) A kártalanítási döntéskor a bizottsági határozatot, illetőleg az azt megelőző eljárás adatait kell alapul venni. A kártalanítást úgy kell meghatározni, hogy az ingatlan használójának a megfelelő elhelyezése biztosítható legyen. Ha az elhelyezésről az ingatlantulajdonos helyi önkormányzat, illetőleg az ingatlan kezelője vagy alapító szerve nem tud gondoskodni, a kincstári ingatlanokból adható csereingatlan, illetőleg a csereingatlan megszerzéséhez a pénzügyi fedezetet az állami költségvetés biztosítja. A kártalanításra a kisajátítási kártalanítás szabályait kell megfelelően alkalmazni.
+
+(2) A kezelő a kezelői jogáért kártalanításra akkor jogosult, ha azt ellenértékért saját pénzeszközéből szerezte. A saját pénzeszközből végzett értéknövelő beruházásért kártalanítás akkor is jár, ha egyébként a kezelő a kezelői jogért kártalanításra nem jogosult.
+
+(3) A kártalanítás pénzügyi fedezetének biztosítását az állami költésgvetés helyett az érdekelt egyház is vállalhatja úgy, hogy az állam részéről történő visszafizetésre a Kormánnyal megállapodik.
