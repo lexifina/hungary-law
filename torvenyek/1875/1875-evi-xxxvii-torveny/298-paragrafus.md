@@ -1,0 +1,1 @@
+298. § A váltótörvénynek a fizetés végetti bemutatásra, a fizetésre, az óvásra, az előzők értesítésére, a fizetési visszkeresetre, az elévülésre s a megsemmisítésre vonatkozó határozatai a kereskedelmi utalványokra is alkalmazást nyernek.

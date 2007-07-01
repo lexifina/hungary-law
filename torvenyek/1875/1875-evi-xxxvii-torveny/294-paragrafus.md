@@ -1,0 +1,1 @@
+294. § A pénzfizetés vagy helyettesíthető dolgok vagy értékpapírok szállítás iránt visszteher kikötése nélkül kiállított utalványok és kötelezőjegyek, ha rendeletre szólnak, hátirattal is átruházhatók. A hátirat akkor is érvényes, ha a forgató pusztán nevét vagy cégét vezeti az okirat hátlapjára (üres hátirat).
