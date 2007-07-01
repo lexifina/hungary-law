@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és a Szlovák Köztársaság Kormánya között a közös államhatár rendjéről és az együttműködésről szóló, Budapesten, 1995. június 28-án aláírt Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítésről szóló jegyzékváltás 1996. év május hó 30. napján megtörtént.)
