@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Népköztársaság és a Török Köztársaság között a polgári és kereskedelmi jogsegélyről szóló, Ankarában, 1988. évi június hó 6. napján aláírt szerződést (továbbiakban: Szerződés) e törvénnyel kihirdeti.
