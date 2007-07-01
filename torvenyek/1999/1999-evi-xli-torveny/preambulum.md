@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Alkotmányában és a helyi önkormányzatokról szóló 1990. évi LXV. törvényben (a továbbiakban: Ötv.) meghatározott területszervezési ügyek intézéséről a következő törvényt alkotja:

@@ -1,0 +1,1 @@
+5. § A területszervezési eljárásban – amennyiben az érintett önkormányzat területén helyi kisebbségi önkormányzat működik – a polgármester az előkészítő eljárás során kéri a helyi kisebbségi önkormányzat véleményét, és erről a képviselő-testületet tájékoztatja.

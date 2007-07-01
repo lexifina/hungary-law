@@ -1,0 +1,1 @@
+13. § Községgé nyilvánítás esetén a választást követően legkésőbb 6 hónapon belül az érdekelt képviselő-testületek állapodnak meg a vagyon, a közigazgatási terület megosztásában, az új közigazgatási határvonalban. Megállapodás hiányában bármelyik érdekelt önkormányzat keresete alapján a megyei bíróság dönt.
