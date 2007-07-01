@@ -1,0 +1,1 @@
+11. § A nem állami vállalat által alapított leányvállalat gazdasági társasággá alakítására a 10. §-ban foglalt rendelkezéseket kell alkalmazni. A leányvállalatot létesítő szerv az átalakulása előtt köteles dönteni az általa létesített leányvállalat átalakításáról vagy megszüntetéséről.
