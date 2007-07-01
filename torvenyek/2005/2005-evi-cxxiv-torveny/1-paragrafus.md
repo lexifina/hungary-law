@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az emberi jogok és az alapvető szabadságok védelméről szóló, Rómában, 1950. november 4-én kelt Egyezménynek az Egyezmény ellenőrző rendszerének módosítására vonatkozó 14. jegyzőkönyve kötelező hatályának elismerésére.
