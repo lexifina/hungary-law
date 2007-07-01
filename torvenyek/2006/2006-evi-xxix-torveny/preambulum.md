@@ -1,0 +1,1 @@
+(A Jegyzőkönyv megerősítéséről szóló okirat letétbe helyezése 2005. október 26. napján megtörtént; a Jegyzőkönyv – annak 43. Cikke 2. pontjának értelmében – a Magyar Köztársaság vonatkozásában 2006. január 26. napján hatályba lépett.)

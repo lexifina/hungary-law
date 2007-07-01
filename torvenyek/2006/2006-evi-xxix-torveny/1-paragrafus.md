@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a kulturális javak fegyveres összeütközés esetén való védelméről szóló 1954. évi Hágai Egyezmény Második Kiegészítő Jegyzőkönyvét (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
