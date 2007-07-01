@@ -1,0 +1,3 @@
+1. § Az Országgyűlés a Londonban, 1974. évi november hó 1. napján kelt ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezményt és az egyezményhez csatolt 1978. évi Jegyzőkönyvet e törvénnyel kihirdeti.
+
+(A Magyar Népköztársaság Kormánya jóváhagyásról szóló értesítés letétbe helyezése a Kormányközi Tengerészeti Tanácskozó Szervezet főtitkáránál Londonban, 1980. január 9-én megtörtént. Az egyezmény 1980. május 25. napján lépett hatályba. A Magyar Népköztársaság Kormánya csatlakozásáról szóló okiratának letétbe helyezése 1982. február 3-án megtörtént. A Jegyzőkönyv a Magyar Népköztársaság vonatkozásában 1982. május 3-án lépett hatályba.)
