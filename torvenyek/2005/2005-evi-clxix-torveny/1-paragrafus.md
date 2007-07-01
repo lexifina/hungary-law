@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya között a kétoldalú szerződések számbavételéről, Varsóban, 2005. június 17-én aláírt Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
