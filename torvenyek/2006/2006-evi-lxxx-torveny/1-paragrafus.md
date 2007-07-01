@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európa Tanácsnak az emberi lény emberi jogainak és méltóságának a biológia és az orvostudomány alkalmazására tekintettel történő védelméről szóló, Oviedóban, 1997. április 4-én kelt Egyezményéhez kapcsolódó, az emberi eredetű szervek és szövetek átültetéséről szóló Kiegészítő Jegyzőkönyv kötelező hatályának elismerésére.
