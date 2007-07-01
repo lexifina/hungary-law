@@ -1,0 +1,1 @@
+30. § Az Európai Gazdasági Térségről szóló Egyezményben részes tagállam azon állampolgára vagy annak családtagja, akivel szemben a bíróság e törvény hatálybalépése előtt hozott jogerős ítéletében végleges hatályú kiutasításról határozott, az ítélet jogerőre emelkedésétől számított tíz év elteltével mentesül a végleges hatályú kiutasítás alól.
