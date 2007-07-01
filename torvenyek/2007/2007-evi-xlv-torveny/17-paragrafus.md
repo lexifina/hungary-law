@@ -1,0 +1,3 @@
+17. § Az Lt. 29. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A polgári repülés területén a közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról szóló, 2002. július 15-ei 1592/2002/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő szakmai szabályait a miniszter – állami légijárművek esetében a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben – rendeletben állapítja meg.”
