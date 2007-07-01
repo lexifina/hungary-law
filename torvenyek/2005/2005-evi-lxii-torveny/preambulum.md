@@ -1,0 +1,1 @@
+A pénzügyi piacok integritása, az értékpapírok és származtatott termékek iránti közbizalom erősítése, valamint a bennfentes kereskedelem és a piaci manipuláció (a továbbiakban: piacbefolyásolás) visszaszorítása érdekében az Országgyűlés a következő törvényt alkotja:
