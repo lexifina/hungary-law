@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Népköztársaság és a Szovjet Szocialista Köztársaságok Szövetsége között Budapesten 1967. szeptember 7-én aláírt Barátsági, Együttműködési és Kölcsönös Segélynyújtási Szerződést az ország törvényei közé iktatja.
