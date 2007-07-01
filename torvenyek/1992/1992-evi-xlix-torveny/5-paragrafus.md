@@ -1,0 +1,3 @@
+5. § (1) A helyi önkormányzat a bejelentésekről a hivatalt, illetőleg a földrendező bizottságot a bejelentés egy-egy példányával folyamatosan értesíti.
+
+(2) A bizottság a bejelentések alapján felméri, egyezteti és összesíti az igényeket és javaslatot tesz a hivatalnak az árverések ütemezésére és az árverésre kerülő földek kijelölésére. A földrendező bizottság javaslatot tehet az árverésre kerülő földrészleteket terhelő, a korábbi tulajdonos, használó által közölt, a termőföld AK értékében ki nem fejezett tényleges értéknövekedést eredményező, a gazdálkodó szervezet részére megtérítendő költségek felülvizsgálatára is. A hivatal a közölt költségeket — szükség szerint — szakhatóságok bevonásával vizsgálja felül.

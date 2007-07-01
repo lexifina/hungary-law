@@ -1,0 +1,3 @@
+8. § (1) Ha a földrészlet árverésre bocsátott AK értéke és a tényleges AK érték az árverést követő megosztás során eltér, az árverésen tulajdonul megszerzett földrészlet kataszteri tiszta jövedelmét a természetbeni állapot szerinti tényleges AK értéken kell megállapítani.
+
+(2) Ha az (1) bekezdésben meghatározott eljárás eredményeként az árverési vevők által megszerzett földrészlet (földrészletek) AK értékét arányosan csökkenteni kell és annak mértéke legalább 10%-ot meghalad, a tulajdonos a csökkentés mértékének megfelelő kárpótlási jegy visszatérítését kérheti a birtokbaadástól számított 60 napon belül. A visszatérítésről a megyei (fővárosi) kárrendezési hivatal igazolása alapján az OKKH gondoskodik.
