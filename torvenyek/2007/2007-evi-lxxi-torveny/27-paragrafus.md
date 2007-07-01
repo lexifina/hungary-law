@@ -1,0 +1,3 @@
+27. § Az Ebtv. 29. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) Az egészségügyi szolgáltatás igénybevételére való jogosultság a biztosítási jogviszonynak, illetve a Tbj. 16. § (1) bekezdés a)–o) és s) pontjaiban meghatározott jogosultsági feltételeknek a megszűnését követően további 45 napig fennmarad. Ha a biztosítási jogviszonynak vagy a Tbj. 16. § (1) bekezdés a)–o) és s) pontjai szerinti jogosultsági feltételek fennállásának az időtartama 45 napnál rövidebb volt, akkor a megszűnést követően az egészségügyi szolgáltatás igénybevételére való jogosultság ezen időtartammal hosszabbodik meg.”
