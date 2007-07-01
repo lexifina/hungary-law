@@ -1,0 +1,1 @@
+44. § Az e törvény hatálybalépését megelőzően megszerzett ingatlanközvetítői szakképzettség esetében, a törvény hatálybalépésekor az ingatlanközvetítői névjegyzékben szereplő természetes személynek a névjegyzékbe vételt ismételten nem kell kérnie, illetőleg a cégnyilvántartás hatálya alá tartozó jogalanynak a szakképzettség megszerzését ismételten nem kell igazolnia.
