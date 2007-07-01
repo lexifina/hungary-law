@@ -1,0 +1,1 @@
+21. § Ha a felek a szerződés megszűnése után a kiegyenlítés összegében megállapodnak, e megállapodás utóbb nem támadható meg arra hivatkozással, hogy a felek tévedtek a tekintetben, hogy a megbízó a kereskedelmi ügynök által szerzett ügyfelekkel fennálló üzleti kapcsolatokból a kereskedelmi ügynöki szerződés megszűnését követően milyen mértékű előnyre tesz majd szert.
