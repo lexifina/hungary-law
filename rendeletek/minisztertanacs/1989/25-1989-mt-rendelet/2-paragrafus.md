@@ -1,0 +1,1 @@
+## 1. § A Kormány a gyorsan romló élelmiszerek nemzetközi szállításáról és az ilyen szállításhoz használt különleges szállítóeszközökről szóló, Genfben, 1970. szeptember hó 1. napján kelt Európai Megállapodást e rendelettel kihirdeti.
