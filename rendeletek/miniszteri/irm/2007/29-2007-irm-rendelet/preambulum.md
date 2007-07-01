@@ -1,0 +1,1 @@
+Az elektronikus információszabadságról szóló 2005. évi XC. törvény 22. § (2) bekezdés d) pontjában foglalt felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § h) pontjában foglalt feladatkörömben eljárva – az Országos Igazságszolgáltatási Tanáccsal egyetértésben – a következőket rendelem el:
