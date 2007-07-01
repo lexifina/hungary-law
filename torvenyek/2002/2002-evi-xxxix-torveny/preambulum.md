@@ -1,0 +1,1 @@
+A magyar szabadalmi rendszer európai integrációjának megvalósítása, valamint a biotechnológiai találmányok szabadalmi oltalmának és a növényfajták oltalmának korszerű – nemzetközi és európai követelményekhez igazodó – szabályozása érdekében az Országgyűlés a következő törvényt alkotja:
