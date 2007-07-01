@@ -1,0 +1,1 @@
+A pénz- és tőkepiac biztonságos működése, valamint az Európai Unióhoz való csatlakozás elősegítése érdekében az Országgyűlés a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) módosításáról a következő törvényt alkotja:
