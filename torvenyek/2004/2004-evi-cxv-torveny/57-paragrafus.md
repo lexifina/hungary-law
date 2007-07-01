@@ -1,0 +1,3 @@
+57. § (1) A lakásszövetkezet, illetőleg annak szervei és a lakásszövetkezet tagja vagy a nem tag tulajdonosa – ideértve az állandó vagy az időleges használati jog jogosultját is –, továbbá a lakásszövetkezet, illetőleg annak szervei és harmadik személy között keletkezett polgári jogvitában – ha az érintett felek megállapodni nem tudnak – a közvetítői tevékenységről szóló külön törvény rendelkezései alapján permegelőző közvetítői eljárást lehet kezdeményezni.
+
+(2) Az (1) bekezdésben említett eljárás a vitában érintett felek írásbeli – a lakásszövetkezet tekintetében közgyűlési határozat alapján létrejött – közös megegyezése alapján kezdeményezhető.

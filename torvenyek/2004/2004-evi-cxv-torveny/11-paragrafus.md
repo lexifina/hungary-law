@@ -1,0 +1,1 @@
+11. § Ha a lakások a tagok tulajdonában állnak, az épülethez tartozó földrészlet, az épületszerkezetek, az épület közös használatra szolgáló területei és helyiségei, a központi berendezések, a házfelügyelői (gondnoki) lakás, továbbá a lakásszövetkezet célját szolgáló más létesítmények (iroda, műhely, raktár stb.) és vagyontárgyak a lakásszövetkezet tulajdonában állnak.

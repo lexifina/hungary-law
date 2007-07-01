@@ -1,0 +1,1 @@
+Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek önállósága, a lakásszövetkezetek létesítése és biztonságos fenntartása, szabályszerű és szakszerű működése, és a lakásszövetkezeti tagok érdekeinek érvényesítése érdekében a következő törvényt alkotja:

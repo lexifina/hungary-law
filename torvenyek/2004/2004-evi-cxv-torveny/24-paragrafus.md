@@ -1,0 +1,3 @@
+24. § (1) Az igazgatóság a tag tulajdonában álló lakást érintő tulajdonosváltozás, illetőleg a tag időleges vagy állandó használati jogának átruházása esetén – a tag kérésére – köteles írásbeli nyilatkozatot adni a költségtartozásról. Ha tartozás áll fenn, a nyilatkozatban a hátralék összegét is meg kell jelölni. Az írásbeli nyilatkozat tartalmáért fennálló felelősségre a Ptk. szabályai az irányadóak.
+
+(2) Az eladónak a lakás per-, teher- és igénymentességéről tett szavatossági nyilatkozata a költségtartozás alól történő mentesség szavatolására kiterjed akkor is, ha a szerződés megkötése során a tartozás fennállásának kérdésében nem kéri az igazgatóság (1) bekezdésben említett nyilatkozatának kiadását.
