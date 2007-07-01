@@ -1,0 +1,1 @@
+7. § Ez a törvény a tagállamok dohánytermékek reklámozására és szponzorálására vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről szóló, 2003. május 26-i 2003/33/EK európai parlamenti és tanácsi irányelv 2. cikke c) pontjának, 5. cikke (1) bekezdésének és 7. cikkének való megfelelést szolgálja.
