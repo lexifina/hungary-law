@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és Mongólia között a baráti kapcsolatokról és az együttműködésről szóló, Budapesten, 1998. január 28-án aláírt Szerződést (a továbbiakban: Szerződés) e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló szóbeli jegyzékek cseréje 1999. november 10-én történt meg.)
