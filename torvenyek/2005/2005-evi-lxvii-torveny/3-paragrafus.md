@@ -1,0 +1,1 @@
+3. § A Főváros a 2. §-ban megállapított állami támogatást a beruházás pénzügyi szükségletének megfelelően, a finanszírozási szerződésben meghatározott arányos finanszírozás szerint veheti igénybe. A költségvetési évre jóváhagyott támogatás igénybe nem vett része a következő költségvetési években is igénybe vehető.

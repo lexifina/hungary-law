@@ -1,0 +1,1 @@
+1. § A Magyar Állam (a továbbiakban: Állam) a központi költségvetésből támogatást nyújt Budapest Főváros Önkormányzata (a továbbiakban: Főváros) részére a budapesti 4-es metróvonal Budapest Kelenföldi pályaudvar– Bosnyák tér között történő megépítéséhez.

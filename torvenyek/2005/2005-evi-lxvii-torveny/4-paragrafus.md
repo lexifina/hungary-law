@@ -1,0 +1,1 @@
+4. § Az Állam által vállalt támogatási kötelezettség folyóáras összegét, valamint az állami támogatás felhasználásának állami kontrolljára fordítandó összeget a 2006–2010. évekre vonatkozó éves költségvetésben kiadásként elő kell irányozni a Helyi önkormányzatok támogatása fejezetben.
