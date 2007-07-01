@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Népköztársaság és a Csehszlovák Szocialista Köztársaság között a jogsegélyről, valamint a polgári jogi, családjogi és a büntető ügyekre vonatkozó jogi kapcsolatok szabályozásáról szólóan létrejött, Bratislavában, az 1989. évi március hó 28. napján aláírt, szerződést (továbbiakban: Szerződés) e törvénnyel kihirdeti.
