@@ -1,0 +1,1 @@
+3. § Ez a törvény a kihirdetését követő második hónap első napján lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell. E törvény hatálybalépése nem érinti az eljárások elhúzódása miatt e törvény hatálybalépése előtt megnyílt jogorvoslati lehetőségek, valamint kártérítési és kártalanítási igények érvényesítését.
