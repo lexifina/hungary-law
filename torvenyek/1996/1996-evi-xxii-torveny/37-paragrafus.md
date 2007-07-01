@@ -1,0 +1,1 @@
+37. § Ha a jövedelempótló támogatásra való jogosultság 1995. július 1-je után keletkezett és a jövedelempótló támogatást az e törvénnyel megállapított Szt. 34. §-ának (3) bekezdése szerinti okból szüntették meg, a megszüntetést a támogatás folyósítása szempontjából szüneteltetésnek kell tekinteni.
