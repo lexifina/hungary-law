@@ -1,0 +1,1 @@
+14. § Az egyházi személyek után fizetendő 2006. évre vonatkozó magán-nyugdíjpénztári tagdíjat az egyház a Tbj. 26. §-a (3) bekezdésének 2005. december 31-ig hatályos rendelkezése szerint fizeti meg és vallja be.
