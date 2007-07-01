@@ -1,0 +1,3 @@
+## ÁLTALÁNOS SZABÁLYOK
+
+1–2. §

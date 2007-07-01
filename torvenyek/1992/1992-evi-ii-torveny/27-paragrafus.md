@@ -1,0 +1,1 @@
+27. § A részarány-földtulajdonos kérésére az ingatlannyilvántartásban feltüntetett tulajdoni részarányoknak és AK értékenek megfelelő nagyságú és értékű földet részére ki kell adni.A föld önálló ingatlanná alakításának költsége és a tulajdonjog ingatlan-nyilvántartási bejegyzésének illetéke — ha törvény másként nem rendelkezik — a tulajdonost terheli.
