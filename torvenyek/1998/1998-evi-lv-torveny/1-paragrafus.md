@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság és Ukrajna között a magyar–ukrán államhatár rendjéről, a határkérdésekben való együttműködésről szóló, 1995. május 19-én aláírt Szerződést e törvénnyel kihirdeti. (A Szerződés megerősítéséről szóló jegyzékváltás 1996. március 19-én megtörtént.)
