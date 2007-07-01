@@ -1,0 +1,1 @@
+Az Országgyűlés a helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény (a továbbiakban: Cct.) alapján a helyi önkormányzatok 2002. évi új címzett támogatásáról, valamint egyes címzett támogatással folyamatban lévő beruházások – jogszabályi változásból eredő – eredeti döntései módosításáról a következő törvényt alkotja:

@@ -1,0 +1,1 @@
+1. § A helyi önkormányzatok részére a támogatás szempontjából új beruházásaikhoz 2002-ben és az azt követő években járó címzett támogatást ágazatonként, önkormányzatonként és beruházásonként az 1. számú melléklet tartalmazza.
