@@ -1,0 +1,1 @@
+4. § Nincs helye választottbírósági eljárásnak a Polgári perrendtartás (Pp.) XV—XXIII. fejezetében szabályozott eljárásokban, továbbá olyan ügyekben, amelyekben törvény a jogvita választottbírósági eljárás keretében történő rendezését kizárja.
