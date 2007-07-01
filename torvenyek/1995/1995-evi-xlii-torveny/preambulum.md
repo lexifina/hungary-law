@@ -1,0 +1,1 @@
+Az Országgyűlés a helyi önkormányzati feladatkörbe tartozó, a köztisztasággal és a településtisztasággal, valamint az élet- és vagyonbiztonsággal összefüggő egyes — közszolgáltatás útján megvalósuló — közfeladatok ellátásának elősegítése érdekében a következő törvényt alkotja:
