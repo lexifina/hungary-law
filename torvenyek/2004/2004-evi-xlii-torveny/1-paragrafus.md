@@ -1,0 +1,3 @@
+1. § (1) A helyi önkormányzatok címzett támogatással megvalósuló beruházásaihoz 2004. évtől nyújtandó támogatás összegét ágazatonként, önkormányzatonként és beruházásonként az 1. számú melléklet tartalmazza.
+
+(2) A Cct. 19. §-a (5) bekezdésének alkalmazása alól felmentést kapnak az 1. számú melléklet 66. és 73. sorszáma alatt szereplő önkormányzatok beruházásai, azzal a feltétellel, hogy a címzett támogatással megvalósuló beruházás – amelyet az önkormányzat tárgyi eszközként aktivál – olyan gazdasági társaság tulajdonában lévő ingatlanon valósulhat meg, amelyet kizárólag az önkormányzat, illetőleg önkormányzatok alapítottak, és a beruházás befejezésének évét követő 10 évig a gazdasági társaságnak többségi tulajdonosa(i) az alapító(k).

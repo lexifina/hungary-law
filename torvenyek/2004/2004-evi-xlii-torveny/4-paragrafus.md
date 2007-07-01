@@ -1,0 +1,3 @@
+4. § (1) A Cct. 3. §-ának (8) bekezdése alapján – jogszabályi változásból eredően, a támogatásban részesülő beruházással ellátandó feladat jelentős változása miatt – a folyamatban lévő beruházásokkal kapcsolatos eredeti döntések a 4. számú melléklet szerint módosulnak.
+
+(2) A címzett támogatással folyamatban lévő, Kaposvár Megyei Jogú Város Önkormányzatának a Széchenyi István Kereskedelmi és Vendéglátóipari Szakközépiskola tanétterem és tanszállodára vonatkozó beruházása, valamint Siklós Város Önkormányzata Táncsics Mihály Gimnázium és Szakképző Iskolát érintő rekonstrukciója esetében az Országgyűlés eredeti döntését nem módosítja.
