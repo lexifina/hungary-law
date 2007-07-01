@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között a kétoldalú állam- és kormányközi szerződések rendezéséről szóló, 2000. november 28-án, Pekingben aláírt jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel megerősíti és kihirdeti.
