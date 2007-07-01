@@ -1,0 +1,3 @@
+10. § (1) Ha az Alkotmánybíróság tagjává megválasztott személlyel kapcsolatban a 9. §-ban foglalt összeférhetetlenségi ok áll fenn, azt a megválasztását követő tíz napon belül meg kell szüntetnie. Ennek megtörténtéig, valamint a 9/A. §-ban meghatározott vagyonnyilatkozat elmulasztása esetén annak teljesítéséig az Alkotmánybíróság tagjává megválasztott személy a tisztségéből eredő jogkörét nem gyakorolhatja és tiszteletdíjban nem részesülhet.
+
+(2) Ha az Alkotmánybíróság tagja az (1) bekezdésben foglalt kötelezettségének az előírt ideig nem tesz eleget, az Alkotmánybíróság teljes ülése határozatban állapítja meg tagsága megszűnését.

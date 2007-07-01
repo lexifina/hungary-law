@@ -1,0 +1,1 @@
+29. § Az Alkotmánybíróság szervezetére és eljárására vonatkozó részletes szabályokat az Alkotmánybíróság ügyrendje állapítja meg, amelyet az Országgyűlés — az Alkotmánybíróság javaslatára — törvényben határoz meg.

@@ -1,0 +1,1 @@
+40. § Ha az Alkotmánybíróság a jogszabály, illetőleg az állami irányítás egyéb jogi eszközének alkotmányellenességét állapítja meg, a jogszabályt vagy az állami irányítás egyéb jogi eszközét teljesen vagy részben megsemmisíti.
