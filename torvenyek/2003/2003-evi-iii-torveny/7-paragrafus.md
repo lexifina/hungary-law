@@ -1,0 +1,3 @@
+7. § (1) A honvédelemért felelős miniszter, a polgári nemzetbiztonsági szolgálatokat irányító miniszter és a rendészetért felelős miniszter irányítása alatt álló szervek, valamint más közfeladatot ellátó szervek munkatársa vagy alkalmazottja a szerv hatáskörébe tartozó ügyben a Levéltárban elhelyezett iratokban lévő személyes adatokba törvényben előírt feladatának ellátásához szükséges esetben, az Országgyűlés Nemzetbiztonsági bizottsága előzetes jóváhagyása után, illetve különösen gyors intézkedést követelő esetekben utólagos tájékoztatásával tekinthet be.
+
+(2) Bíróságok esetében az (1) bekezdésében foglalt előzetes jóváhagyásra nincs szükség.
