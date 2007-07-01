@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Párizsban, 1957. december 13-án kelt európai kiadatási egyezményt, és az ahhoz tartozó kiegészítő jegyzőkönyvet, valamint második kiegészítő jegyzőkönyvet e törvénnyel kihirdeti.
