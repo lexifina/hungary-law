@@ -1,0 +1,1 @@
+49. § A Hpt. – e törvény 34–41. §-ával beiktatott – 185/A–185/H. §-ában foglalt rendelkezések először a 2004. május 5-e után indított végelszámolásra vagy felszámolásra irányuló eljárás esetén alkalmazandók.
