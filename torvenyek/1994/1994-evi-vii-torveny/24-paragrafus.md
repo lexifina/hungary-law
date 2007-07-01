@@ -1,0 +1,1 @@
+24. § Az átmeneti szabadalmi oltalom fenntartására, terjedelmére, korlátaira és megszűnésére, valamint a vele kapcsolatos jogutódlásra, hasznosítási szerződésre és bitorlásra — ha e törvény eltérően nem rendelkezik — az Szt., valamint az Szt. végrehajtásáról és a szabadalmi ügyekben való bírósági eljárásról szóló jogszabályok előírásait kell megfelelően alkalmazni.

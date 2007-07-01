@@ -1,0 +1,1 @@
+28. § Ha e törvény eltérően nem rendelkezik, az átmeneti szabadalmi oltalom megadására irányuló bejelentési eljárásban és a megadott oltalommal kapcsolatos eljárásokban — ideértve a bírósági eljárásokat is — az Szt., valamint az Szt. végrehajtásáról és a szabadalmi ügyekben való bírósági eljárásról szóló jogszabályok előírásait kell megfelelően alkalmazni.
