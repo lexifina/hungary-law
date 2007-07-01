@@ -1,0 +1,3 @@
+42. § (1) A képviseleti testület megalakítását követően, a testület kérésére az európai szövetkezet igazgatósága (igazgatótanácsa) – legfeljebb – évente megvizsgálja, hogy az egyes tagállamokban foglalkoztatott munkavállalói létszám a 36. §-ban foglaltakhoz képest változott-e oly mértékben, amely a képviseleti testület létszámának, illetve összetételének a változását indokolja. A vizsgálat eredményéről a képviseleti testületet az igazgatóság (igazgatótanács) tájékoztatja.
+
+(2) Ha a képviseleti testület létszámának, illetve összetételének megváltoztatása indokolt, a testület kezdeményezi, hogy az érintett tagállamokban megfelelő létszámú tagot válasszanak. Az új választással megszűnik az adott tagállamban foglalkoztatott munkavállalók képviseletét ellátó tag megbízatása.

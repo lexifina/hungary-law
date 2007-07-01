@@ -1,0 +1,5 @@
+45. § (1) Az európai szövetkezet igazgatósága (igazgatótanácsa) a képviseleti testület megalakulását, és a 37. § szerinti tájékoztatást követően haladéktalanul első tárgyalásra hívja meg a képviseleti testület tagjait. A képviseleti testület jogosult évente egy alkalommal az igazgatósággal (igazgatótanáccsal) ülést tartani annak érdekében, hogy tájékoztatást kapjon és konzultáljon az igazgatóság (igazgatótanács) által összeállított jelentés alapján az európai szövetkezet gazdasági helyzetéről és annak várható alakulásáról. Az ülés időpontjában és helyszínében az igazgatóság (igazgatótanács) és a képviseleti testület előzetesen megállapodik, és arról az igazgatóság (igazgatótanács) tájékoztatja a leányvállalatok, telephelyek ügyvezető szerveit.
+
+(2) Az igazgatóság (igazgatótanács) és a képviseleti testület megállapodása alapján egy éven belül több ülés is tartható.
+
+(3) Az európai szövetkezet igazgatósága (igazgatótanácsa) az ülést megelőző legalább 15 nappal a képviseleti testület rendelkezésére bocsátja az igazgatóság (igazgatótanács), illetve a felügyelőbizottság üléseinek napirendjét, valamint a közgyűlés elé terjesztett valamennyi dokumentum másolatát.

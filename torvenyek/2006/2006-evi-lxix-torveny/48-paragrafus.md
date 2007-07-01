@@ -1,0 +1,1 @@
+48. § A képviseleti testületnek, illetve az ügyvezető bizottságnak a 45–46. § szerinti tárgyaláson részt vevő tagjai – az üzleti titok körén kívül – kötelesek tájékoztatni az európai szövetkezet, annak leányvállalatai, illetve telephelyei munkavállalói képviselőit a tájékoztatás, illetve a konzultáció tartalmáról és eredményéről.

@@ -1,0 +1,7 @@
+15. § (1) A kizárólag természetes személyek vagy egyetlen részt vevő jogalany és természetes személyek által létrehozandó európai szövetkezet esetében a munkavállalók bevonására a 16–52. § rendelkezéseit akkor kell alkalmazni, ha az alapítók – legalább két tagállamban – összesen legalább ötven munkavállalót foglalkoztatnak.
+
+(2) Ha a munkavállalók létszáma – függetlenül attól, hogy őket egy vagy több tagállamban foglalkoztatják – nem éri el az ötvenet vagy az ötvenet meghaladja, de foglalkoztatásukra egyetlen tagállamban kerül sor, a munkavállalóknak az európai szövetkezet döntéshozatali rendjébe történő bevonására az európai szövetkezet, illetve magyarországi telephelye és leányvállalata esetében az Sztv. szabályait kell alkalmazni.
+
+(3) Ha a (2) bekezdés hatálya alá tartozó európai szövetkezet bejegyzése után az európai szövetkezetben, annak telephelyein és leányvállalataiban foglalkoztatott összes munkavállaló – legalább két tagállamban foglalkoztatott – legalább egyharmada ezt kéri vagy a legalább két tagállamban foglalkoztatott összes munkavállaló száma eléri az ötven főt, a munkavállalóknak az európai szövetkezet döntéshozatali rendjébe történő bevonására a 16–52. § rendelkezéseit kell megfelelően alkalmazni.
+
+(4) Ha egy másik tagállamban az (1) bekezdés szerint alapított európai szövetkezetben a munkavállalók részvételi joggal rendelkeztek, az európai szövetkezet székhelyének Magyarországra történő áthelyezése esetén legalább a korábbival egyező szintű részvételi jogokat kell biztosítani.

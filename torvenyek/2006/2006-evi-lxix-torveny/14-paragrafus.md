@@ -1,0 +1,1 @@
+14. § A legalább két részt vevő jogalany által vagy átalakulással létrehozandó európai szövetkezet munkavállalóinak a döntéshozatali rendbe történő bevonására a 16–52. § rendelkezéseit kell alkalmazni.
