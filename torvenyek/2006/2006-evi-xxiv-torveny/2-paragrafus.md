@@ -1,0 +1,1 @@
+2. § Az 1. mellékletben szereplő mindazon beruházások, amelyek összköltsége az általános forgalmi adóról szóló 1992. évi LXXIV. törvény módosításáról szóló 2005. évi XCVII. törvény 1. §-ának hatálybalépése folytán csökken 250 millió forint alá, mentesülnek a Cct. 1. § (1) bekezdés a) pontjában előírt összeghatár alól.
