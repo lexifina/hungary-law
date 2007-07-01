@@ -1,0 +1,1 @@
+26. § A 20. § (3) bekezdése, valamint a 25. §-ban megnevezett jogszabályhelyeket érintően a 2004. május 1-je előtt kibocsátott, az ellenőrzött cselekmény elvégzésekor vagy esemény bekövetkeztekor, illetve állapot fennállásakor hatályos jegybanki rendelkezések alkalmazandók a Felügyelet, illetőleg az MNB eljárásai során a Hpt. és a Tpt. hivatkozott rendelkezéseinek megfelelően.
