@@ -1,0 +1,1 @@
+A helyi önkormányzati képviselők és polgármesterek választásáról szóló — a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvénnyel (Pnyt.), valamint a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvénnyel (Nek. tv.) módosított — 1990. évi LXIV. törvény (Övjt.) módosítására az Országgyűlés a következő törvényt alkotja:
