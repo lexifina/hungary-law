@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a minősített védelmi információk kölcsönös védelméről szóló, Londonban, 1998. szeptember 7-én aláírt Megállapodást (a továbbiakban: Megállapodás) e törvénnyel megerősíti.
