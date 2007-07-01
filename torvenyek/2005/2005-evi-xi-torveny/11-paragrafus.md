@@ -1,0 +1,1 @@
+11. § Ez a törvény a közúti fuvarozásban utazó tevékenységet végző személyek munkaidejének szervezéséről szóló, 2002. március 11-ei 2002/15/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
