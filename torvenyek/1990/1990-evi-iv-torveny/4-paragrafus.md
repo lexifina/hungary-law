@@ -1,0 +1,1 @@
+4. § A lelkiismereti és vallásszabadság gyakorlásában senkit sem szabad akadályozni, a jog gyakorlása azonban — ha törvény másként nem rendelkezik — nem mentesít az állampolgári kötelezettség teljesítése alól.
