@@ -1,0 +1,1 @@
+23. § Ha az állami vagyonkezelő szervezet a szervezet számára értékesít vagyonrészeket, a gazdálkodó szervezetek és a gazdasági társaságok átalakulásáról szóló 1989. évi XIII. törvény 21. § (1) bekezdését nem kell alkalmazni.

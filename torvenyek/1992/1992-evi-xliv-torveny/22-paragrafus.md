@@ -1,0 +1,1 @@
+22. § Ha más törvény rendelkezése alapján az állami vagyonkezelő szervezet privatizációs bevételének meghatározott része más szervezetet illet, úgy erre az e törvényben szabályozott kedvezményes hitelkonstrukció helyett — azzal megegyező feltételek szerint — részletfizetési kedvezmény nyújtható.

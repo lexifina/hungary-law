@@ -1,0 +1,1 @@
+A privatizáció gyorsítása és annak előmozdítása érdekében, hogy a munkavállalók — a tulajdonhoz jutás eddigi formáin túlmenően — elhatározásuktól függően, az őket foglalkoztató gazdasági társaságban szervezett formában és kedvezményes módon tulajdonosi részesedést szerezhessenek, az Országgyűlés a következő törvényt alkotja:

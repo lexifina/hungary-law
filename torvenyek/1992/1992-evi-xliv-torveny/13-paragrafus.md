@@ -1,0 +1,1 @@
+13. § A szervezet a tartozásaiért teljes vagyonával felel. A résztvevők saját vagyonukkal a szervezet tartozásaiért – a társaság kezessége hiányában a tulajdonukba adott minden, egyébként pedig a 19. § (1) bekezdése szerinti vagyonrész kivételével – nem tartoznak felelősséggel.

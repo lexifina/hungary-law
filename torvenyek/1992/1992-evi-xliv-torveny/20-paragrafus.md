@@ -1,0 +1,3 @@
+20. § (1) Ha a szervezet a hitelintézettel vagy az állami vagyonkezelő szervezettel szemben fennálló kötelezettségeinek esedékességkor nem tesz eleget, a további eljárásra a pénzforgalomról és bankhitelről szóló 39/1984. (XI. 5.) MT rendelet az irányadó.
+
+(2) Ha a szervezettel szemben lefolytatott végrehajtási eljárás eredménytelen volt, erről a hitelintézet vagy az állami vagyonkezelő szervezet az okiratok egyidejű megküldésével köteles a bíróságot értesíteni, amely az ügyészség egyidejű tájékoztatása mellett a szervezetet azonnali hatállyal megszünteti. A megszüntető határozat ellen 15 napon belül fellebbezésnek van helye.
