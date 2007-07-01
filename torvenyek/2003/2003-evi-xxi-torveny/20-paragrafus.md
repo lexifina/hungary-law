@@ -1,0 +1,1 @@
+20. § Az európai üzemi tanács, valamint a különleges tárgyaló testület belföldön foglalkoztatott tagjának és póttagjának munkajogi védelmére az üzemi tanács tagjára vonatkozó szabályokat kell megfelelően alkalmazni.

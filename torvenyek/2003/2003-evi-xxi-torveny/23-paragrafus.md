@@ -1,0 +1,3 @@
+23. § (1) Az európai üzemi tanács létesítésére, illetve a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás kialakítására irányuló megállapodással, valamint az európai üzemi tanácsra vonatkozó törvényi rendelkezésekkel kapcsolatos, az 1. § (3) bekezdésében felsoroltak és a munkavállalók, az üzemi tanács, valamint a szakszervezet közötti jogvitában a bíróság tizenöt napon belül nem peres eljárásban határoz.
+
+(2) Az (1) bekezdésben foglalt eljárásra a központi vezetés székhelye, illetve az irányított vezetés, a képviselet, valamint az 1. § (3) bekezdésének d) pontjában meghatározott vállalkozás, illetve telephely szerinti munkaügyi bíróság illetékes.

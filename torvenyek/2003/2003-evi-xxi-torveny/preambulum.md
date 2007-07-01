@@ -1,0 +1,1 @@
+Annak érdekében, hogy a közösségi szinten működő vállalkozásoknál, illetve vállalkozáscsoportoknál foglalkoztatott munkavállalók az őket érintő, más államban hozott döntésekről megfelelő tájékoztatást kapjanak, az Országgyűlés az európai üzemi tanács, illetve a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás tekintetében a következő törvényt alkotja:
