@@ -1,0 +1,1 @@
+11. § A kiemelkedő jelentőségű és pótolhatatlan értékű műsorszám, vagy az azt tartalmazó hordozó megsemmisülésének, elveszésének, megrongálódásának, károsodásának veszélye esetén a műsorszámot tartalmazó hordozó birtokosát a NAVA felszólítja, hogy azt – archiválás céljából – 30 napon belül bocsássa rendelkezésre.

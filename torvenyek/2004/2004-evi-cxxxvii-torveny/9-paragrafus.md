@@ -1,0 +1,1 @@
+9. § Az e törvényben foglalt célok hatékony megvalósítása érdekében a NAVA – a kötelespéldány-szolgáltatásra vonatkozó kérdéseken túl – együttműködést kezdeményez a kötelespéldány-szolgáltatásra kötelezett műsorszolgáltatókkal, valamint más műsorszolgáltatókkal és archívumokkal, könyvtárakkal.
