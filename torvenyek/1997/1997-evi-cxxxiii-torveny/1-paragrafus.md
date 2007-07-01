@@ -1,0 +1,5 @@
+1. § Az Országgyűlés
+
+(1) e törvénnyel megerősíti az 1984. évi 2. törvényerejű rendelettel (a továbbiakban: tvr.) kihirdetett, a ,,Mértéktelen sérülést okozónak vagy megkülönböztetés nélkül hatónak tekinthető egyes hagyományos fegyverek alkalmazásának betiltásáról, illetőleg korlátozásáról'' szóló egyezményhez csatolt, ,,Az aknák, a meglepő aknák és más eszközök alkalmazásának a betiltásáról, illetve korlátozásáról'' intézkedő módosított jegyzőkönyvet (a továbbiakban: II. Módosított Jegyzőkönyv), valamint ,,A vakító lézerfegyverekről'' intézkedő kiegészítő jegyzőkönyvet (a továbbiakban: IV. Jegyzőkönyv),
+
+(2) a gyalogsági aknák általános és teljes betiltásának célkitűzésétől vezérelve, és ösztönözni kívánva ennek előmozdítását a szomszédos és térségbeli államok irányában, egyetért azzal, hogy a Magyar Köztársaság a II. Módosított Jegyzőkönyv rendelkezéseit a törvény kihirdetése napjától alkalmazza, illetve e jegyzőkönyvhöz kapcsolódva egyoldalú tilalmi intézkedéseket hoz az e törvény mellékletében foglaltak szerint.
