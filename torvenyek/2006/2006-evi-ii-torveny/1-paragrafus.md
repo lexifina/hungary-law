@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és Románia közötti, a szociális biztonságról szóló, Bukarestben, 2005. október 20-án aláírt Egyezmény kötelező hatályának elismerésére.
