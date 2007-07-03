@@ -1,0 +1,3 @@
+61. § (1) A felnőttképzésről szóló 2001. évi CI. törvény (a továbbiakban: Fktv.) 22. §-ának (1) bekezdésében meghatározott, a felnőttképzést folytató intézményben az első, állam által elismert, az Országos Képzési Jegyzékben szereplő szakképesítés megszerzésére irányuló képzésben részt vevő felnőtt képzéséhez nyújtható normatív támogatás mértéke a 2005. évben 370 Ft/óra/fő, a fogyatékos felnőtt általános, nyelvi és szakmai képzéséhez nyújtható normatív támogatás mértéke a 2005. évben 740 Ft/óra/fő.
+
+(2) A szakképzésért és felnőttképzésért felelős miniszter javaslatára a Kormány évente meghatározza az Fktv. 22. §-ának (1)–(2) bekezdése szerint felnőttképzési normatív támogatásban részesíthető felnőttek összlétszámát.

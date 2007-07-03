@@ -1,0 +1,1 @@
+80. § A világbanki kölcsönnel összefüggő tőketörlesztésre és kamatkiadásra a LXXI. Nyugdíjbiztosítási Alap fejezet, 5. cím, 1. Központi hivatali szerv alcím 540,0 millió forintot, a LXXII. Egészségbiztosítási Alap fejezet, 5. cím, 1. Központi hivatali szerv alcím 767,0 millió forintot tartalmaz.

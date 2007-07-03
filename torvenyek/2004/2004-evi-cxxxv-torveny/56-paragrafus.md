@@ -1,0 +1,3 @@
+56. § (1) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 43. §-ának (1) bekezdésében foglalt illetményalap 2005. január 1-jétől 35 000 forint.
+
+(2) Az Áht. 93. §-ának (1) bekezdésében foglalt jutalmazási korlát az APEH-ra, a Vám- és Pénzügyőrség Országos Parancsnokságára, a Pénzügyi Szervezetek Állami Felügyeletére és szerveikre nem terjed ki. A (fő)polgármesteri és megyei önkormányzati hivatalok, körjegyzőségek kizárólag adó- vagy illetékügyi feladatokat ellátó köztisztviselőire jutó személyi juttatási előirányzatot, illetve a részükre adott jutalmat a korlátozás számításánál figyelmen kívül kell hagyni.

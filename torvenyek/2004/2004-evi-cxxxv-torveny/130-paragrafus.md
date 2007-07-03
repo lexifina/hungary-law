@@ -1,0 +1,1 @@
+130. § Az Operatív Programok, a Nemzeti Vidékfejlesztési Terv, a SAPARD program, az INTERREG program és a PHARE támogatások esetén tervezett céltartalék csak az adott program előre nem látható kiadásainak finanszírozására használható fel. A céltartalék intézményi kiadási célokra nem fordítható.

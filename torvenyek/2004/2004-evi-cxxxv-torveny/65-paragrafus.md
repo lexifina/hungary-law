@@ -1,0 +1,1 @@
+65. § A helyi önkormányzatok címzett és céltámogatásáról szóló 1992. évi LXXXIX. törvényből adódó feladatok végrehajtására a címzett és céltámogatások 2006. évi előirányzatára az Országgyűlés 63 800,0 millió Ft-ot jóváhagy.

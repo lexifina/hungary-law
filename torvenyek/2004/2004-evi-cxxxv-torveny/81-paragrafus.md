@@ -1,0 +1,1 @@
+81. § A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 4. alcím, 4. jogcímcsoport, 3. Egyéb kiadások jogcím előirányzatából 50,0 millió forint a Közokt. tv. 119. §-ának (2) bekezdése alapján a Fogyatékos Gyermekek, Tanulók Felzárkóztatásáért Országos Közalapítvány támogatására fordítható.

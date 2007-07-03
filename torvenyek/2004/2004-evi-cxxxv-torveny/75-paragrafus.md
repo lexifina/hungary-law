@@ -1,0 +1,1 @@
+75. § A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport tartalmazza az E. Alapból finanszírozott egészségügyi ellátások szerződésben foglalt feladataira tárgyévben folyósítandó összeget. Az előirányzat felhalmozási célú kiadásokra is fordítható.

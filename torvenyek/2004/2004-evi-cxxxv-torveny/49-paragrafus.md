@@ -1,0 +1,7 @@
+49. § (1) A XVI. Környezetvédelmi és Vízügyi Minisztérium fejezet, 9. Környezetvédelmi, természetvédelmi és vízügyi területi szervek (a továbbiakban: területi szervek) cím, 1. Személyi juttatások kiemelt előirányzata legfeljebb 300,0 millió forinttal, a 2. Munkaadókat terhelő járulékok kiemelt előirányzata legfeljebb 96,0 millió forinttal túlléphető a pénzügyminiszter által meghatározott feltételek teljesítése esetén, és ha a XVI. Környezetvédelmi és Vízügyi Minisztérium fejezet, 11. cím, 3. Termékdíjak alcím és 11. cím, 5. Vízkészletjárulék alcím előirányzata együttesen legalább 101%-ban teljesül.
+
+(2) A környezetvédelmi és vízügyi miniszter negyedévente engedélyezhet jutalomelőleg kifizetést az (1) bekezdés szerinti személyi juttatás és munkaadókat terhelő járulékok előirányzat terhére, amennyiben a pénzügyminiszter által meghatározott feltételek és az (1) bekezdésben megjelölt előirányzatoknak a pénzügyminiszter által meghatározott negyedéves bevételi tervei teljesülnek.
+
+Az év közben fizethető jutalomelőleg összege nem haladhatja meg a negyedéves bevételi terven felül teljesülő előirányzatok összegét.
+
+(3) Amennyiben a tárgyév november 25-éig az (1) bekezdésben meghatározott bevételi előirányzatok legalább 89%-ban teljesülnek, az (1) bekezdés szerinti személyi juttatások és munkaadókat terhelő járulékok előirányzatoknak legfeljebb az év közben kifizetett jutalom-előleg összegével csökkentett részét kell a területi szervek rendelkezésére bocsátani.

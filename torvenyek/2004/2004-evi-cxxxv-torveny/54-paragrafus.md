@@ -1,0 +1,5 @@
+54. § (1) Az Európai Unió Bizottsága és a Magyar Köztársaság által elfogadott Nemzeti Vidékfejlesztési Tervben (a továbbiakban: NVT) meghatározott összegek (kötelezettségvállalási keret-előirányzatok) egy évnél hosszabb távú elkötelezettséget jelentenek a Kormány részére. A keretek összegét a 18. számú melléklet mutatja be.
+
+(2) Az Európai Unió EMOGA Garancia Részlegéből finanszírozott, NVT-ben foglalt intézkedések esetén – az intézkedések összege tekintetében – tárgyévben a 18. számú mellékletben a tárgyévre meghatározott, illetve az előző évi, még le nem kötött kötelezettségvállalási keret-előirányzat összegéig vállalható tárgyévi és éven túli kötelezettség.
+
+A pénzügyminiszter egyetértésével – amennyiben azt a program jellege indokolja – a 2006. évre meghatározott kötelezettségvállalási keret-előirányzat mértékéig is vállalható éven túli kötelezettség. Amennyiben 2005-ben a rendelkezésre álló kötelezettségvállalási keret-előirányzat összegénél kisebb összegre történik kötelezettségvállalás, úgy a következő évben a fennmaradó összeggel növelt kötelezettségvállalási keret-előirányzat mértékéig történhet tárgyévi és éven túli kötelezettségvállalás.
