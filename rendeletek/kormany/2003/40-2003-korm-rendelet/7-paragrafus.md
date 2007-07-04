@@ -1,0 +1,5 @@
+7. §[^15] (1) A települési önkormányzat a részére biztosított költségvetési támogatás összegével a zárszámadás keretében és rendje szerint, valamint külön is köteles elszámolni. A támogatás a tárgyév december 31-én kötelezettségvállalással terhelt maradványa jogszerűen a tárgyévet követő év december 31-éig használható fel. A külön elszámolást az önkormányzat támogatottanként és önkormányzati összesítésben az építési munkák befejezését követő 30 napon belül, de legkésőbb a tárgyévet követő február 28-áig, december 31-i fordulónappal a Magyar Államkincstár illetékes területi szervéhez (a továbbiakban: Igazgatóság) két példányban elszámolást küld, amelynek egy példányát az Igazgatóság továbbítja az OKF részére.
+
+(2) A katasztrófák elleni védekezésért felelős miniszter a helyreállítási, újjáépítési és kárenyhítési feladatok éves teljesítéséről az önkormányzati elszámolások határidejét követő 30 napon belül tájékoztatja a Kormányt.
+
+[^15]: A 7. § a 150/2007. (VI. 26.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a folyamatban lévő ügyekben a korábbi rendelkezések az irányadóak.
