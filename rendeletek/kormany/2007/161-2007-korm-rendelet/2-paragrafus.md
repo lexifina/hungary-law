@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Mongólia Kormánya között a kultúra, az oktatás, a tudomány és a sport területén történő együttműködésről szóló, Ulánbátorban, 1996. szeptember 27-én aláírt Egyezményt e rendelettel kihirdeti.
