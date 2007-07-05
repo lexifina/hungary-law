@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között a kulturális, tudományos és oktatási együttműködésről szóló, Budapesten, 1997. március 6-án aláírt Egyezményt e rendelettel kihirdeti.
