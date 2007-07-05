@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya közötti, 1994. március 16-án aláírt kulturális, oktatási és tudományos együttműködésről szóló Egyezményt (a továbbiakban: szerződés) e rendelettel kihirdeti.
