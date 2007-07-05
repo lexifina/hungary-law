@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Litván Köztársaság Kormánya között a kulturális, tudományos és oktatási együttműködésről szóló, Budapesten, 1997. október 7-én aláírt Egyezményt e rendelettel kihirdeti.
