@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Egyesült Nemzetek keretében 2006. december 13-án, New Yorkban elfogadott, a Fogyatékossággal élő személyek jogairól szóló egyezmény (a továbbiakban: Egyezmény) és az ahhoz kapcsolódó Fakultatív Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
