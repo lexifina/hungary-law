@@ -1,0 +1,1 @@
+## 15. § A ht. állomány tagja részére az e rendelet hatálybalépése előtt kiadott, a más kereső foglalkozás végzésére jogosító engedélyeket, illetve hozzájárulásokat e rendelet hatálybalépését követő 3 hónapon belül felül kell vizsgálni.
