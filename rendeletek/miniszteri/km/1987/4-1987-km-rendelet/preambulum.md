@@ -1,0 +1,1 @@
+A Bernben, a 1980. évi május hó 9. napján kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) kihirdetéséről szóló 1986. évi 2. törvényerejű rendelet 3. §-ának (2) bekezdésében foglalt felhatalmazás alapján a következőket rendelem:
