@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, Budapesten, 2005. június 21-én aláírt Kulturális, Oktatási, Tudományos, Sport- és Ifjúsági Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
