@@ -1,0 +1,1 @@
+A szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény 40. §-ának (1) és (2) bekezdésében kapott felhatalmazás alapján – az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. §-ának o) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
