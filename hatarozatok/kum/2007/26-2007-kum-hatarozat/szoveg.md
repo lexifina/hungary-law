@@ -1,0 +1,5 @@
+A 2007. évi XXXIV. törvénnyel, a Magyar Közlöny 2007. május 18-ai számában kihirdetett, az Európa Tanács keretében Strasbourgban, 1989. november 16-án létrejött, a tiltott teljesítményfokozó szerek és módszerek használata elleni Egyezmény Varsóban, 2002. szeptember 12-én kelt Kiegészítő Jegyzőkönyvének 6. cikke szerint a Jegyzőkönyvhöz való csatlakozás, a csatlakozási okiratnak az Európa Tanács Főtitkárához történő benyújtásával jön létre, és az azt a három hónapos időszakot követő hónap első napján lép hatályba, amikor a csatlakozási okiratot letétbe helyezték.
+
+Az Egyezmény 6. cikke szerinti letétbe helyezésre a Magyar Köztársaság vonatkozásában 2007. június 21-én került sor.
+
+A fentiekre tekintettel, összhangban a 2007. évi XXXIV. törvény 4. § (3) bekezdésével megállapítom, hogy az Európa Tanács keretében Strasbourgban, 1989. november 16-án létrejött, a tiltott teljesítményfokozó szerek és módszerek használata elleni Egyezmény Varsóban, 2002. szeptember 12-én kelt Kiegészítő Jegyzőkönyvének kihirdetéséről szóló 2007. évi XXXIV. törvény 2–3. §-a 2007. október 1-jén, azaz kettőezer-hét október elsején lépnek hatályba.
