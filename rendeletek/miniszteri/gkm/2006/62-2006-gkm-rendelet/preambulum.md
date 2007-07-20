@@ -1,0 +1,1 @@
+A fogyasztóvédelemről szóló 1997. évi CLV. törvény 56. §-ának a) pontjában, valamint az elektronikus hírközlésről szóló 2003. évi C. törvény 182. §-ának (5) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
