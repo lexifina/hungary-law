@@ -1,0 +1,5 @@
+A 255/2005. (XII. 6.) Korm. rendelettel a Magyar Közlöny 2005. június 6-i, 156. számában kihirdetett, a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya közötti gazdasági együttműködésről szóló, Budapesten, 2005. május 12-én aláírt Megállapodás 7. Cikke szerint a Megállapodás a két ország belső alkotmányjogi eljárásának befejezését jelző jegyzékváltás napján lép hatályba.
+
+A Magyar Fél 2005. november 2-ai keltezésű jegyzékében értesítette a Török Felet a hatálybalépéshez szükséges követelménynek teljesítéséről, a Török Fél hasonló tartalmú jegyzékét a Magyar Fél 2007. július 2-án vette kézhez. A Megállapodás 7. Cikke értelmében a Megállapodás 2007. július 2-án lépett hatályba.
+
+A fentiekre tekintettel, összhangban a 255/2005. (XII. 6.) Korm. rendelet 3. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya közötti gazdasági együttműködésről szóló, Budapesten, 2005. május 12-én aláírt Megállapodás kihirdetéséről szóló 255/2005. (XII. 6.) Korm. rendelet 2–3. §-a 2007. július 2-án, azaz kettőezer-hét július másodikán lépett hatályba.
