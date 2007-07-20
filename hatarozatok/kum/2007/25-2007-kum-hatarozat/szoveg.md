@@ -1,0 +1,5 @@
+Az 1998. évi LV. törvénnyel kihirdetett, a Magyar Köztársaság és Ukrajna között a magyar–ukrán államhatár rendjéről, a határkérdésekben való együttműködésről és kölcsönös segítségnyújtásról szóló, Kijevben, 1995. május 19-én aláírt Szerződés 2. cikk 6. pontja szerint az új redemarkációs okmányokat meg kell erősíteni, és a megerősítő okmányok kicserélése után harminc nap múlva lépnek hatályba.
+
+A Szerződés 2. cikke szerinti okmánycserére 2007. július 9-én, Budapesten került sor.
+
+A fentiekre tekintettel, összhangban a 2007. évi VIII. törvény 3. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság és Ukrajna között a magyar–ukrán államhatár rendjéről, a határkérdésekben való együttműködésről és kölcsönös segítségnyújtásról szóló, Kijevben, 1995. május 19-én aláírt Szerződés 2. cikk 3. pontja alapján elkészített, és Budapesten, 2003. június 20-án aláírt, a Magyar Köztársaság és Ukrajna közötti államhatár új redemarkációs okmányai kihirdetéséről szóló 2007. évi VIII. törvény 2. §-a és melléklete 2007. augusztus 9-én, azaz kettőezer-hét augusztus kilencedikén lépnek hatályba.
