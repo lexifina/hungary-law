@@ -1,0 +1,1 @@
+6. § Az adatbázis létrehozásáért felelős szerv tevékenységét, az adatigénylés, adatátadás és adat-összekapcsolás jogszerűségét és az anonim kapcsolati kód képzésének módszerét az adatvédelmi biztos a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott eljárásban előzetesen is ellenőrizheti.
