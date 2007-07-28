@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a közös államhatáron lévő közúti határhidak és határút-szakaszok üzemeltetéséről, fenntartásáról és rekonstrukciójáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
