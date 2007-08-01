@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között létrejött, a Magyar Köztársaság kisinyovi nagykövetségén folytatott együttműködésről a vízumkiadás és a konzuli munka más területein tárgyú Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
