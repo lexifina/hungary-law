@@ -1,0 +1,1 @@
+22. § Ez a törvény az európai területi együttműködési csoportosulásról szóló, az Európai Parlament és a Tanács 2006. július 5-i 1082/2006/EK rendelete végrehajtásához szükséges rendelkezéseket állapítja meg.

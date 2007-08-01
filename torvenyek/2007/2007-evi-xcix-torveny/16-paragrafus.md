@@ -1,0 +1,1 @@
+16. § A Rendelet 14. cikke szerinti megszüntetést a Fővárosi Bíróság nemperes eljárásban rendeli el. A bíróság a megszüntetés elrendelése előtt a csoportosulás részére a helyzet kiigazításához szükséges intézkedések megtételére legfeljebb három hónapos határidőt szabhat.
