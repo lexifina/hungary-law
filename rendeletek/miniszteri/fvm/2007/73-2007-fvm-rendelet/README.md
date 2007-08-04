@@ -1,0 +1,9 @@
+# 73/2007. (VII. 27.) FVM rendelet
+
+a közös agrárpolitika keretébe tartozó egyes támogatási rendszerek működését segítő mezőgazdasági szaktanácsadási rendszerről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-73-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2007-08-04 | 2007-73-20-82.1 | 73/2007. (VII. 27.) FVM rendelet |
