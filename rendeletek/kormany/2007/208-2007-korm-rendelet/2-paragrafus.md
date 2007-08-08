@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között az V/B. összeurópai közlekedési folyosó Letenye és Goričan közötti autópálya határhídjának a Mura folyón történő építéséről szóló, Budapesten, 2004. december 16-án aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
