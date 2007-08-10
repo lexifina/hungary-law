@@ -1,0 +1,3 @@
+2. §[^3]
+
+[^3]: Az 1–4. §-t a 209/2007. (VIII. 7.) Korm. rendelet 14. § (3) bekezdésének b) pontja hatályon kívül helyezte.
