@@ -1,0 +1,1 @@
+A földgázellátásról szóló 2003. évi XLII. törvény (a továbbiakban: GET) 56. §-a (1) bekezdésének d) pontjában kapott felhatalmazás alapján, a GET 50. §-ában és a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 20. §-a (3) bekezdésének ba) pontjában foglaltak végrehajtására – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
