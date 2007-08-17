@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Csombárdi-rét természetvédelmi terület elnevezéssel a Somogy megyében, Mezőcsokonya községhatárban lévő, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 53,4 hektár kiterjedésű területet.
