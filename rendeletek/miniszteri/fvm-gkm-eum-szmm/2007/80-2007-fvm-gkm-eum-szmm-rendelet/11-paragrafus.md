@@ -1,0 +1,5 @@
+## Értesítési kötelezettség
+
+11. § (1) Ha az e rendelet szerinti ellenőrzés során megállapítást nyer, hogy a termék LL 601 rizst tartalmaz, az MgSzH területi szerve, illetve az ÁNTSZ haladéktalanul köteles értesíteni a mezőgazdaság és az ipar területén eljáró géntechnológiai hatóságot és a Magyar Élelmiszer-biztonsági Hivatalt. A Magyar Élelmiszer-biztonsági Hivatal az Európai Unió élelmiszerekre és takarmányokra vonatkozó, az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszer-biztonsági Hatóság létrehozásáról és az élelmiszer-biztonságra vonatkozó eljárások megállapításáról szóló 178/2002/EK európai parlamenti és tanácsi rendelet IV. fejezete szerinti gyors vészjelző rendszeren keresztül haladéktalanul értesíti az Európai Bizottságot.
+
+(2) A termékeken elvégzett ellenőrzések számáról és eredményéről az MgSzH területi szerve, illetve az ÁNTSZ a mezőgazdaság és az ipar területén eljáró géntechnológiai hatóságnak az e rendelet hatálybalépését követő 30. napon, ezt követően negyedéves gyakorisággal jelentést küld.
