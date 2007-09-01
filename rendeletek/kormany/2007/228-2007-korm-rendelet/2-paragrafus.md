@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között az államhatáron átvezető turistaútvonalakon turisztikai céllal történő államhatár-átlépésről szóló, Budapesten, 2006. május 10-én aláírt Megállapodás módosításáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
