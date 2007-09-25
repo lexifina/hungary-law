@@ -1,0 +1,3 @@
+## Egyéb rendelkezések
+
+8. §

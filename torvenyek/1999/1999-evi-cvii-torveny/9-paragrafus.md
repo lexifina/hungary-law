@@ -1,0 +1,1 @@
+9. § A Tir. tv. 15. § (3) bekezdése alapján megállapított és megfizetett bérleti díjat a Tir. tv. 2. §-a alapján tulajdonjogot szerző használónak a tulajdonba kapott ingatlanhányad arányában a Magyar Nemzeti Vagyonkezelő Zrt. visszatéríti.
