@@ -1,0 +1,3 @@
+10. § (1) Az elidegenítési és terhelési tilalom időtartama alatt megindított végrehajtás során a követelések kielégítése után fennmaradó összeg nem az adóst (az ingatlan volt tulajdonosát), hanem a központi költségvetést illeti.
+
+(2) Az ingatlan-végrehajtás során befolyt vételárból kifizetett követelés összegét az adós köteles a központi költségvetés számára megfizetni a MNV Zrt.-vel kötött szerződésben foglalt ütemezés szerint. A MNV Zrt. a tartozás részletekben való megfizetését engedélyezheti. Ha az adós költségvetési támogatásban részesült, a tartozás összegével a költségvetési támogatást – a beszámítás szabályai szerint – csökkenteni kell.

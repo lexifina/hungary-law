@@ -1,0 +1,1 @@
+9. § Ha a tulajdonos társadalmi szervezet az elidegenítési és terhelési tilalom időtartama alatt jogutód nélkül megszűnt, vagy a jogutód a 8. § szerinti használati feltételt nem vállalta, az e törvény szerint tulajdonba adott ingatlan e törvény erejénél fogva az állam tulajdonába visszakerül, arról a megszűnő társadalmi szervezet nem rendelkezhet.
