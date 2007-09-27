@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és az Azerbajdzsán Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről szóló, Bakuban, 2007. május 18-án aláírt Megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
