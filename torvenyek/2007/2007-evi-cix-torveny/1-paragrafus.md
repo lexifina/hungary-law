@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Jordán Hasemita Királyság között a beruházások ösztönzéséről és kölcsönös védelméről szóló, Budapesten, 2007. június 14-én aláírt Megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
