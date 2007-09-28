@@ -1,0 +1,11 @@
+25. § (1) Ha a hozzáférési jogosultsággal rendelkező szerv a SIS-ben lekérdezést végez, és megállapítja, hogy van olyan figyelmeztető jelzés, amelynek adattartalma megfelel a lekérdezés alapjául szolgáló személyről vagy tárgyról bevitt adatoknak, de az azonosság nem egyértelmű, – a külön rendeletben meghatározott formanyomtatványon – a SIRENE Irodán keresztül kiegészítő információkat kér az azonosság megállapításához.
+
+(2) A SIRENE Iroda az egyeztetés során a SIS-t alkalmazó külföldi állam SIRENE Irodájától bekért kiegészítő információkat haladéktalanul eljuttatja a hozzáférési jogosultsággal rendelkező szervnek.
+
+(3) Ha az azonosítási eljárás során a hozzáférési jogosultsággal rendelkező szerv megállapítja, hogy nem áll fenn azonosság, akkor addigi intézkedését megszünteti, és ezzel egyidejűleg erről – a külön rendeletben meghatározott formanyomtatványon – tájékoztatja a SIRENE Irodát.
+
+(4) A SIRENE Iroda a találat tényéről – a SIS törvény 5. §-a (1) bekezdésének e) pontja szerinti figyelmeztető jelzés esetén csak erre vonatkozó előzetes írásbeli kérelem alapján – haladéktalanul értesíti a figyelmeztető jelzést elhelyező SIS-t alkalmazó külföldi állam SIRENE Irodáját. A SIRENE Iroda éves találati statisztika készítése során a figyelmeztető jelzést elhelyező SIS-t alkalmazó állam SIRENE Irodájával nem közölt találatot is figyelembe kell venni.
+
+(5) A találatot elérő hozzáférési jogosultsággal rendelkező szerv a figyelmeztető jelzést elhelyező SIS-t alkalmazó külföldi állam által kért intézkedést a magyar jogszabályoknak megfelelően végrehajtja, vagy a végrehajtás érdekében intézkedik, és erről a SIRENE Irodát értesíti. A hozzáférési jogosultsággal rendelkező szerv a külön rendeletben meghatározott formanyomtatványon kiegészítő információt igényel, ha a figyelmeztető jelzés végrehajtásához további adatra van szüksége.
+
+(6) Ha a hozzáférési jogosultsággal rendelkező szerv a figyelmeztető jelzésben kért intézkedést annak ellenére nem tudja végrehajtani, hogy az a nemzeti joggal összeegyeztethető, erről – a külön rendeletben meghatározott formanyomtatványon – haladéktalanul értesíti a SIRENE Irodát. A SIRENE Iroda az értesítésben foglaltakról, így különösen a végrehajtás akadályáról haladéktalanul tájékoztatja a figyelmeztető jelzést elhelyező SIS-t alkalmazó külföldi állam SIRENE Irodáját.

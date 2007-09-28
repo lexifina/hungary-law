@@ -1,0 +1,3 @@
+26. § (1) Ha a hozzáférési jogosultsággal rendelkező szerv a SIS-t alkalmazó külföldi állam által elhelyezett figyelmeztető jelzésre találatot ér el, és a közrendet vagy közbiztonságot közvetlenül fenyegető komoly veszély megelőzésének érdekében, jelentős nemzetbiztonsági okból, illetve súlyos bűncselekmény megelőzése céljából szükséges, hogy a figyelmeztető jelzés szerinti intézkedés helyett más – a magyar jogszabályoknak megfelelő – intézkedést alkalmazzon, erre a SIRENE Irodán keresztül a figyelmeztető jelzést elhelyező SIS-t alkalmazó külföldi állam SIRENE Irodájától engedélyt kér.
+
+(2) A figyelmeztető jelzésben kért intézkedéstől eltérő intézkedés az (1) bekezdésben meghatározott engedély birtokában hajtható végre.
