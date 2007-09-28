@@ -1,0 +1,1 @@
+## 4. § A SIS Vhr. 25. §-ának (1) bekezdésében meghatározott esetben a hozzáférési jogosultsággal rendelkező szerv e rendelet 5. számú mellékletében meghatározott formanyomtatványon kér kiegészítő információkat a lekérdezés alapjául szolgáló személy vagy tárgy azonosságának megállapításához.
