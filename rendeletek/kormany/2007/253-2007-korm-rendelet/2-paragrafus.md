@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és az Egyiptomi Arab Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
