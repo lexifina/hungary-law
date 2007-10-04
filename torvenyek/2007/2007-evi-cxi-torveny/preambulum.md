@@ -1,0 +1,1 @@
+Az Országgyűlés, egyetértve az Európa Tanács azon felismerésével, hogy a tájak elengedhetetlen összetevői az emberek környezetének, kifejezik közös kulturális és természeti örökségük sokféleségét, és identitásuk alapját képezik, nemzetközi kötelezettségvállalásunkkal összhangban a következő törvényt alkotja:
