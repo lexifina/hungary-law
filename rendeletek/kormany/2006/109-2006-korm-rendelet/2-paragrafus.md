@@ -1,0 +1,3 @@
+2. § (1) Az adott kereskedési időszak alatt létrehozott kibocsátási egységek kincstári vagyonkörbe való kerülésének tényéről, illetve azok teljes mennyiségéről a forgalmi jegyzékbe történő bejegyzést követő 15 napon belül a Környezetvédelmi és Vízügyi Minisztérium tájékoztatja a Kincstári Vagyoni Igazgatóságot (a továbbiakban: KVI), és egyidejűleg kezdeményezi a vagyonkezelési szerződés megkötését.
+
+(2) A KVI a bejelentéstől számított 15 napon belül kijelöli a Környezetvédelmi és Vízügyi Minisztériumot (a továbbiakban: vagyonkezelő) vagyonkezelőnek és vele a kibocsátási egységekre vonatkozó vagyonkezelési szerződést köt.

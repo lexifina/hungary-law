@@ -1,0 +1,1 @@
+Az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény (a továbbiakban: Üht.) 20. §-a (5) bekezdésének a) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
