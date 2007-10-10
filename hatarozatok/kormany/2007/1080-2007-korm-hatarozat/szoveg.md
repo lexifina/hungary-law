@@ -1,0 +1,1 @@
+A Kormány az Állami Privatizációs és Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁPV Zrt.) Alapító Okiratának 3.4. pontja alapján az ÁPV Zrt. felügyelő bizottsága tagjául kinevezi dr. Sáling Józsefet, az Országos Érdekegyeztető Tanács munkavállalói oldalának jelöltjét, a határozat közzétételének napjától 2007. december 31. napjáig terjedő időszakra.
