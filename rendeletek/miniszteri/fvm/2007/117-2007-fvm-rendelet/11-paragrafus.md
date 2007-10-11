@@ -1,0 +1,1 @@
+## 10. § E rendelet a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló 2006. december 15-i 1857/2006/EK bizottsági rendelet hatálya alá tartozó támogatási programot tartalmaz.
