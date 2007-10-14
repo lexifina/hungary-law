@@ -1,0 +1,1 @@
+## 1. § Sümegi Fehér-kövek természetvédelmi terület elnevezéssel országos jelentőségű védett természeti területté, továbbá Fehérsziklák Erdőrezervátum néven erdőrezervátummá nyilvánítom a Veszprém megyében Csabrendek és Sümeg közigazgatási területén lévő, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 307,9 hektár kiterjedésű területet.

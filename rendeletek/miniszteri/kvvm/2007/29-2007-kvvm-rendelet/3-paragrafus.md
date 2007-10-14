@@ -1,0 +1,1 @@
+## 2. § A Sümegi Fehér-kövek természetvédelmi területen belül fokozottan védett természeti területté, egyben a Fehérsziklák Erdőrezervátum magterületévé nyilvánítom a 2. számú mellékletben szereplő ingatlan-nyilvántartási helyrajzi számú, összesen 46,9 hektár kiterjedésű területet.
