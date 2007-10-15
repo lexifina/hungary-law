@@ -1,0 +1,1 @@
+## „(3) A kifizető hatóság a megfelelőnek minősített és igazolt projektenkénti projekt-előrehaladási jelentéseket és projektzáró jelentéseket a beérkezéstől számított 10 munkanapon eljuttatja az FMI részére.”

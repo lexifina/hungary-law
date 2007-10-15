@@ -1,0 +1,3 @@
+## 10. § Az R. 41. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A projektgazda projekt-előrehaladási jelentéseket készít, amelyek a Nemzeti Kapcsolattartó monitoring tevékenységének és a kifizető hatóság lehívási kérelmének alapjául szolgálnak. A projekt-előrehaladási jelentést a támogatási megállapodásban meghatározott végrehajtási ütemezésnek megfelelően kell elkészíteni, és a jelentéseknek legalább három hónapot kell átfogniuk. A projektgazda a projekt-előrehaladási jelentéssel együtt köteles kifizetési kérelmet benyújtani. A projekt-előrehaladási jelentés benyújtásának határideje legkésőbb a végrehajtási ütemezés szerinti beszámolási időszakot követő 30. nap.”

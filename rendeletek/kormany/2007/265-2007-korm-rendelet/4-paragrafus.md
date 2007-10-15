@@ -1,0 +1,1 @@
+## „(2) Amennyiben a pályázati felhívás erre lehetőséget ad, projektötlet kidolgozására irányuló támogatásra (seed money) is lehet pályázni, a felhívásban meghatározott feltételek szerint. A projektötlet kidolgozására irányuló támogatásra e rendeletnek csak az állami támogatási szabályok csekély összegű támogatásokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.”
