@@ -1,0 +1,7 @@
+# 63/2007. (X. 18.) AB határozat
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-63-30-75
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2007-10-18 | 2007-63-30-75.1 | 63/2007. (X. 18.) AB határozat |
