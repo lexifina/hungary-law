@@ -1,0 +1,3 @@
+3. § (1) Az országgyűlési képviselő, illetve az országgyűlési biztos írásos, indokolt kérelmére a KNBSZ-ek főigazgatói az egyes, különleges célokra szolgáló helyiségbe, területrészre – így különösen a fegyverszobába, a biztonsági, energiaellátó és számítástechnikai központokba, a minősített adatkezelésre, valamint a speciális eszközök elhelyezésére és a rejtjeltevékenység ellátására szolgáló helyiségekbe – történő belépéshez, az országgyűlési képviselő, illetve az országgyűlési biztos részére írásban, egyedi belépési engedélyt adnak ki.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően az adatvédelmi biztos engedély nélkül léphet be azokba a helyiségekbe, ahol olyan adatok kezelése folyik, amelyekbe – külön törvény alapján – betekinthet.

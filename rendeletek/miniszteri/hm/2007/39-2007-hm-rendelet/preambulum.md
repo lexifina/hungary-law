@@ -1,0 +1,1 @@
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 78. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 10. § (1) bekezdésében, valamint a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 51. §-ában meghatározott feladatkörömben eljárva a következőket rendelem el:
