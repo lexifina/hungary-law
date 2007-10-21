@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között a közös államhatáron átvezető turistaútvonalakon történő államhatár-átlépésről szóló Megállapodás módosításáról és kiegészítéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
