@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között Hegyeshalom–Nickelsdorfban közös kapcsolattartási szolgálati helyen történő együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
