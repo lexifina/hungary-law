@@ -1,0 +1,1 @@
+11. § E rendelet megállapítja a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2006. december 12-i 1901/2006/EK európai parlamenti és tanácsi rendelet 36. és 52. cikkének végrehajtásához szükséges rendelkezéseket.
