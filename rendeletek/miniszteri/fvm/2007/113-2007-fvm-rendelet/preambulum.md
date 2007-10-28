@@ -1,0 +1,1 @@
+A nemzeti agrárkár-enyhítési rendszerről szóló 2006. évi LXXXVIII. törvény (a továbbiakban: Krt.) 12. § (2) bekezdésének a) és b) pontjában kapott felhatalmazás alapján – a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. §-ának a) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:

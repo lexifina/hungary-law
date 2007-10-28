@@ -1,0 +1,5 @@
+6. § (1) Amennyiben az MVH utólag megállapítja, hogy ugyanarra a káreseményre összesen nagyobb összegű támogatás került kifizetésre, mint az igényelhető kárenyhítési juttatás, úgy a termelő a különbözetet az MVH visszafizetésre szóló felhívásának kézhezvételét követő harminc napon belül köteles a 4. § (9) bekezdés szerinti számlára visszafizetni.
+
+(2) Az MVH a visszafizetési felhívásokra befolyt összegeket harminc napon belül átutalja a minisztériumnak az 5. § (5) bekezdése szerinti számlára.
+
+(3) A kárenyhítési juttatás-kiegészítés igénylésével kapcsolatban a termelő által vállalt kötelezettségek teljesítésének elmaradása, továbbá valótlan adatok szolgáltatása a kárenyhítési juttatás-kiegészítésre való jogosultság visszavonását eredményezi. A jogosulatlanul igénybe vett kárenyhítési juttatás-kiegészítés tényét az MgSzH által készített jegyzőkönyv alapján az MVH állapítja meg, és írásban felszólítja a termelőt a jogosulatlanul igénybe vett kárenyhítő juttatás-kiegészítés visszafizetésére. A termelőnek a jogosulatlanul igénybe vett kárenyhítési juttatás-kiegészítést a 4. § (9) bekezdése szerinti számlára kell visszafizetnie.
