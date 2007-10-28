@@ -1,0 +1,1 @@
+## 9. § Ha az igénybe vett támogatás a Tv. 69. § (1) bekezdése szerint jogosulatlannak minősül, a kereskedelmi vállalkozással szemben a Tv. VI. fejezetében meghatározott jogkövetkezményeket kell alkalmazni.
