@@ -1,0 +1,3 @@
+## 4. §[^3] A Kormány a Lengyel Köztársaság Kormányának a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NATO AEW & C) Erőire vonatkozó Műveleti és Támogatási Egyetértési Nyilatkozathoz (MOU) történő csatlakozását tartalmazó Kiegészítő Megállapodás című nemzetközi megállapodást e rendelettel kihirdeti.
+
+[^3]: A 4. § e rendelet 6. § (3) bekezdése alapján a Lengyel Köztársaság Kormányának a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NATO AEW & C) Erőire vonatkozó Műveleti és Támogatási Egyetértési Nyilatkozathoz (MOU) történő csatlakozását tartalmazó Kiegészítő Megállapodás IV. Cikkében meghatározott időpontban lép hatályba.
