@@ -1,0 +1,97 @@
+8. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^170]
+
+## A zöldségvetőmag minták tömege
+
+1. Egy tételként mintázható vetőmag megengedett legnagyobb tömege:
+
+a) a Phaseolus vulgaris, a Pisum sativum és a Vicia faba vetőmagja: 25 tonna,
+
+b) a búzaszemnél nem kisebb méretű vetőmagok a Phaseolus vulgaris, a Pisum sativum és a Vicia faba kivételével: 20 tonna,
+
+c) a búzaszemnél kisebb vetőmagok: 10 tonna.
+
+A vetőmag megengedett legnagyobb árutételének tömege nem léphető túl 5%-nál nagyobb mértékben.
+
+2. A vetőmagminta előírt legkisebb tömege
+
+| Faj | Tömeg (g) |  |
+
+| Allium cepa | 25 |  |
+
+| Allium fistulosum | 15 |  |
+
+| Allium porrum | 20 |  |
+
+| Allium sativum | 20 |  |
+
+| Allium schoenoprasum | 15 |  |
+
+| Anthricus cerefolium | 20 |  |
+
+| Apium graveolens | 5 |  |
+
+| Asparagus officinalis | 100 |  |
+
+| Beta vulgaris | 100 |  |
+
+| Brassica oleracea | 25 |  |
+
+| Brassica pekinensis | 20 |  |
+
+| Brassica rapa | 20 |  |
+
+| Capsicum annuum | 40 |  |
+
+| Cichorium intybus (részben) (mezei katáng) | 15 |  |
+
+| Cichorium intybus (részben) (ipari cikória) | 50 |  |
+
+| Cichorium endivia | 15 |  |
+
+| Citrullus lanatus | 250 |  |
+
+| Cucumis melo | 100 |  |
+
+| Cucumis sativus | 25 |  |
+
+| Cucurbita maxima | 250 |  |
+
+| Cucurbita pepo | 150 |  |
+
+| Cynara cardunculus | 50 |  |
+
+| Daucus carota | 10 |  |
+
+| Foeniculum vulgare | 25 |  |
+
+| Lactuca sativa | 10 |  |
+
+| Lycopersicon esculentum | 20 |  |
+
+| Petroselinum crispum | 10 |  |
+
+| Phaseolus coccineus | 1000 |  |
+
+| Phaseolus vulgaris | 700 |  |
+
+| Pisum sativum | 500 |  |
+
+| Raphanus sativus | 50 |  |
+
+| Rheum rhabarbarum | 135 |  |
+
+| Scorzonera hispanica | 30 |  |
+
+| Solanum melongena | 20 |  |
+
+| Spinacia oleracea | 75 |  |
+
+| Valerianella locusta | 20 |  |
+
+| Vicia faba | 1000 |  |
+
+| Zea mays | 1000 |  |
+
+A fenti fajok F-1 hibrid fajtái esetében a minta előírt legkisebb tömege a megadott tömeg negyedére csökkenthető. A minta tömege azonban legalább 5 g kell legyen és legalább 400 vetőmagból kell álljon.
+
+[^170]: A 8. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (6) bekezdése szerint módosított szöveg.

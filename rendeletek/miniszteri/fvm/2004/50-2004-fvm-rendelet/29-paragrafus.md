@@ -1,0 +1,3 @@
+## 28. § A zöldségpalántának mentesnek kell lennie minden olyan hiányosságtól, illetve mechanikai sérüléstől, amely ültetési anyagként való felhasználását hátrányosan befolyásolhatja, fejlettségének és méretének megfelelőnek kell lennie az ültetési anyagként való felhasználáshoz. Ezen kívül biztosítani kell a gyökérzet, a szár és a levelek megfelelő arányát.
+
+## Engedményes szaporítóanyag

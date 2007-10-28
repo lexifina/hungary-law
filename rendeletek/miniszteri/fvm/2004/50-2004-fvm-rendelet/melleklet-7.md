@@ -1,0 +1,127 @@
+## A vetőmag címkékre vonatkozó részletes előírások
+
+## A. rész
+
+## Hatósági címke (elit vetőmag és certfikált vetőmag, a kis kiszerelésű vetőmag kivételével)
+
+## 1. Kötelezően feltüntetendő adatok.
+
+## 1.1. „EK-szabályok és -szabványok”.
+
+## 1.2. Minősítő hatóság és tagállam neve, vagy azok kezdőbetűi.
+
+## 1.3. A fémzárolás kelte (év és hónap) az alábbiak szerint: „fémzárolva... (év és hónap)”, vagy
+
+## a minősítési céllal legutoljára végzett hatósági mintavétel ideje (év és hónap), az alábbiak szerint: „mintavétel ideje... (év és hónap)”.
+
+## 1.4. A tétel hivatkozási száma.
+
+## 1.5. A faj megnevezése legalább álló betűkkel, a botanikai név, amely rövidített formában és a leírója neve nélkül is elfogadható, vagy a faj közönséges neve, illetve mindkettő megadásával.
+
+## 1.6. A fajta megnevezése, legalább álló betűkkel.
+
+## 1.7. Kategória.
+
+## 1.8. A vetőmagot termelő ország.
+
+## 1.9. Bejelentett nettó vagy bruttó tömeg, illetve bejelentett magszám.
+
+## 1.10. A tömeg feltüntetése esetén, amennyiben szemcsés növényvédőszer, csávázószer vagy egyéb szilárd adalékanyag használatára került sor, az adalékanyag jellege, valamint a gomolyok, illetve a tiszta vetőmag tömegének a teljes tömeghez viszonyított közelítő aránya.
+
+## 1.11. Olyan fajták esetében, amelyek hibridek vagy beltenyésztésű vonalak:
+
+## − elit vetőmag esetében, amennyiben az a hibrid vagy beltenyésztésű vonal, amelyhez a vetőmag tartozik, hatóságilag el van ismerve:
+
+## az adott komponens fajta hivatalos elismerése során használt megnevezése, a végleges fajtára való hivatkozással vagy a nélkül, kizárólag végleges fajta komponenséül szánt hibrid vagy beltenyésztésű vonal esetében pedig a „komponens” szó kíséretében,
+
+## − elit vetőmag egyéb eseteiben: annak a komponensnek a megnevezése, amelyhez az elit vetőmag tartozik, amely kód formájában is megadható a végleges fajtára való hivatkozás kíséretében, a funkcióra (hím- vagy nőivarú) való hivatkozással vagy a nélkül, és a „komponens” szó kíséretében,
+
+## − certfikált vetőmag esetében: annak a fajtának a megnevezése, amelyhez a vetőmag tartozik, a „hibrid” szó kíséretében.
+
+## 1.12. Amennyiben elvégezték legalább a csírázás ismételt ellenőrzését, ez a tény az „Ismételten ellenőrizve (év és hónap)” felirattal jelezhető.
+
+## 2. Minimális méret: 110 × 67 mm.
+
+## B. rész
+
+## A szállító címkéje vagy a csomagoláson lévő felirata (standard vetőmag és kis kiszerelésű
+
+## certifikált vetőmag)
+
+## 1. Kötelező adatok
+
+## 1.1. „EK-szabályok és –szabványok”.
+
+## 1.2. A címkézésért felelős személy neve és címe vagy azonosító jele.
+
+## 1.3. A fémzárolás vagy a legutóbbi csírázóképesség-vizsgálat éve (gazdasági év). A gazdasági év vége is feltüntethető.
+
+## 1.4. A faj megnevezése, legalább álló betűkkel.
+
+## 1.5. A fajta megnevezése, legalább álló betűkkel.
+
+## 1.6. Kategória: a kis kiszerelésű vetőmag esetében a minősített vetőmagot „C” vagy „Z”, a standard vetőmagot pedig „ST” betűkkel lehet jelölni.
+
+## 1.7. A címkézésért felelős személy által megadott hivatkozási szám - standard vetőmag esetében.
+
+## 1.8. A minősített árutétel azonosítását lehetővé tevő hivatkozási szám - certfikált vetőmag esetén.
+
+## 1.9. Bejelentett nettó vagy bruttó tömeg, illetve bejelentett magszám, kivéve az 500 grammnál kisebb kiszerelést.
+
+## 1.10. A tömeg feltüntetése esetén, amennyiben szemcsés növényvédőszer, csávázószer vagy egyéb szilárd adalékanyag használatára került sor, az adalékanyag jellege, valamint a gomolyok illetve a tiszta vetőmag tömegének a teljes tömeghez viszonyított közelítő aránya.
+
+## 2. A címke minimális mérete (a kis kiszerelésű vetőmag kivételével) 110 × 67 mm.
+
+## C. rész
+
+## A címke színe
+
+## 1. Elit vetőmagnál: fehér.
+
+## 2. Certifikált vetőmagnál: kék.
+
+## 3 Standard vetőmagnál: sötét sárga.
+
+7. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez
+
+## A más tagállamokban betakarított, nem véglegesen certifikált vetőmagvak címkéjére és okmányára vonatkozó részletes előírások
+
+1. A címkén kötelezően feltüntetendő adatok a következők:
+
+− a helyszíni szemléért felelős hatóság és tagállam neve vagy kezdőbetűi,
+
+− a faj megnevezése legalább álló betűkkel, a botanikai név, amely rövidített formában és a leíró neve nélkül is elfogadható, vagy a faj közönséges neve, illetve mindkettő,
+
+− a fajta megnevezése, legalább álló betűkkel,
+
+− kategória,
+
+− a parcella vagy az árutétel hivatkozási száma,
+
+− bejelentett nettó vagy bruttó súly,
+
+− a „nem véglegesen certifikált vetőmag” felirat.
+
+2. A címke szürke színű kell legyen.
+
+3. Az okmányon kötelezően feltüntetendő adatok a következők:
+
+− az okmányt kibocsátó hatóság,
+
+− a faj megnevezése legalább álló betűkkel, a botanikai név, amely rövidített formában és a leíró neve nélkül is elfogadható, vagy a faj közönséges neve, illetve mindkettő,
+
+− a fajta megnevezése, legalább álló betűkkel,
+
+− kategória,
+
+− az anyamag hivatkozási száma és a vetőmagot minősítő ország vagy országok neve,
+
+− a tábla vagy az árutétel hivatkozási száma,
+
+− az okmány által kísért árutétellel bevetett terület,
+
+− a betakarított vetőmag mennyisége és a csomagolási egységek száma,
+
+− annak tanúsítása, hogy teljesültek a vetőmagot adó termény tekintetében előírt feltételek,
+
+− adott esetben az előzetes vetőmagvizsgálat eredményei.
