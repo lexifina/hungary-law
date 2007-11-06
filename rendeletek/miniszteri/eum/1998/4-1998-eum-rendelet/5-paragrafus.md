@@ -1,0 +1,3 @@
+5. § (1) Ha az 1. számú melléklet szerinti mikrobiológiai vizsgálat során olyan mikroorganizmus vagy annak anyagcsereterméke, rovar vagy rágcsáló okozta szennyeződés előfordulására merül fel gyanú, amely jelenléte, száma vagy mennyisége következtében egészségi ártalomhoz vezethet, úgy a vizsgálatokat abba az irányba is ki kell terjeszteni, és az eredményt az élelmiszer megítélésénél figyelembe kell venni.
+
+(2) Nem kell mikrobiológiai szempontból vizsgálni azt az élelmiszert – kivéve, ha megbetegedést okozott, vagy megbetegedés okozásának alapos gyanúja merült fel – , amely érzékszervi bírálattal megállapíthatóan romlott, egyéb vizsgálat eredménye szerint fogyasztásra nem alkalmas, továbbá amelynek fogyaszthatósága időpontja lejárt, és ezért forgalomban nem tartható.
