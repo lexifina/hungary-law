@@ -1,0 +1,1 @@
+2. § E törvény a kihirdetését követő 8. napon lép hatályba azzal, hogy az Etv. e törvény 1. §-ával megállapított 2. § (3) bekezdésében foglaltakat a folyamatban lévő ügyekben, eljárásokban is alkalmazni kell, kivéve, ha a helyi önkormányzat a közbeszerzésekről szóló 2003. évi CXXIX. törvény rendelkezései szerint már megindított eljárást is le kívánja folytatni.
