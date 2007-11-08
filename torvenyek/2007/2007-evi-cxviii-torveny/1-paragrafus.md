@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Bolgár Köztársaságnak és Romániának az Európai Gazdasági Térségben való részvételéről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
