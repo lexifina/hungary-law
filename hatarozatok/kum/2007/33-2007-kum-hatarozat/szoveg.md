@@ -1,0 +1,5 @@
+A 183/2007. (VII. 13.) Korm. rendelettel a Magyar Közlöny 2007. július 13-i számában kihirdetett, a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, Budapesten, 2005. június 21-én aláírt Kulturális, Oktatási, Tudományos, Sport- és Ifjúsági Együttműködésről szóló Egyezmény 17. cikke szerint az Egyezmény mindkét Fél államában jóváhagyásra szorul, és a jóváhagyás megtörténtéről szóló diplomáciai jegyzékváltás napján lép hatályba azzal a megkötéssel, hogy a Felek a hatálybalépés napjának a későbbi jegyzék átvételének időpontját tekintik.
+
+Az Egyezmény 17. cikke szerinti jóváhagyás megtörténtéről szóló diplomáciai jegyzékváltásra 2007. augusztus 2-án került sor.
+
+A fentiekre tekintettel, összhangban a 183/2007. (VII. 13.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, Budapesten, 2005. június 21-én aláírt Kulturális, Oktatási, Tudományos, Sport- és Ifjúsági Egyezmény kihirdetéséről szóló 183/2007. (VII. 13.) Korm. rendelet 2–3. §-a 2007. augusztus 2-án, azaz kettőezer-hét augusztus másodikán hatályba léptek.
