@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa között az állampolgáraik utazásának feltételeiről szóló, Budapesten, 2003. október 21. napján aláírt Megállapodás módosításáról szóló, jegyzékváltás útján létrejött Megállapodás kötelező hatályának elismerésére.
