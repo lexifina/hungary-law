@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a Tanács 2003. február 18-i, 343/2003/EK rendeletének alkalmazása érdekében történő együttműködésről szóló, Lendván, 2007. október hó 17. napján aláírt Közigazgatási Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
