@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapjának bal oldali részén, egymás alatti sorokban fent az „5000” értékjelzés, a „forint” felirat és a „2007” verési évszám, lent pedig a „Magyar” és a „Köztársaság” felirat olvasható. Az emlékérme alsó szélénél, középen a „BP.” verdejel található. Az emlékérme előlapjának jobb oldali részén a marburgi Szent Erzsébet-ereklyetartóról vett motívum látható, amely az elesetteken segítő Árpád-házi Szent Erzsébetet ábrázolja. Az emlékérme előlapjának képét e rendelet 1. melléklete tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben Árpád-házi Szent Erzsébet látható a híres „rózsacsodára” emlékeztető rózsákkal, a bal kezében kenyércipóval. Az emlékérme szélén köriratban az „* Árpád-házi Szent Erzsébet * 1207–1231 *” felirat olvasható. Az emlékérme szélén, jobb oldalon lent Szöllőssy Enikő tervezőművész mesterjegye található. Az emlékérme hátlapjának képét e rendelet 2. melléklete tartalmazza.
