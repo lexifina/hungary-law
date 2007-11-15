@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya közötti gazdasági együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
