@@ -1,0 +1,1 @@
+## „(6) A működési engedély 2 évig érvényes. Az engedély a tevékenységét nem minősítő szervezet keretében végző minősítő vagy a minősítő szervezet kérelmére további két évre meghosszabbítható. A meghosszabbítás feltételei:”
