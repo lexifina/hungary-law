@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a hadisírok rendezéséről szóló Megállapodás (a továbbiakban: szerződés) kötelező hatályának elismerésére.
