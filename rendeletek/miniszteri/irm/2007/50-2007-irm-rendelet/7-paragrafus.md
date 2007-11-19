@@ -1,0 +1,1 @@
+## 6. § Amennyiben a cég honlapja a Ctv. 21/A. § (4) bekezdése szerint megszüntetésre kerül, továbbá ha a cég a közleményeit a jövőben nem kívánja a honlapon közzétenni, a változásbejegyzési eljárás keretében valamennyi közzétett közleményt az 5. § alkalmazásával be kell nyújtani a cégbírósághoz.
