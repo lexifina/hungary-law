@@ -1,0 +1,9 @@
+# 34/2007. (XI. 17.) ÖTM rendelet
+
+az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjai végrehajtásában magyarországi közreműködő szervezet kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-34-20-1V
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2007-11-20 | 2007-34-20-1V.1 | 34/2007. (XI. 17.) ÖTM rendelet |
