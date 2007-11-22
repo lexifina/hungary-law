@@ -1,0 +1,3 @@
+Az Alkotmány 30/A. § (1) bekezdés i) pontjában meghatározott jogkörömben, a polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszter előterjesztésére a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2007. évi LXXIX. törvény 25. § (12) bekezdése alapján megállapítom, hogy Bácskai János dandártábornok szolgálati viszonya 2007. szeptember 1-jén megszűnt, egyúttal a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény Hszt. 182. §-ának (1) bekezdése alapján 2007. szeptember 1-jével szolgálati nyugállományba helyezem.
+
+KEH ügyszám: V-5/4483/2007.
