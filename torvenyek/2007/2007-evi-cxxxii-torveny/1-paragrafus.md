@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Unió, az Európai Közösség és a Svájci Államszövetség között, a Svájci Államszövetségnek a schengeni vívmányok végrehajtására, alkalmazására és fejlesztésére irányuló társulásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
