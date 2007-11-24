@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya, az Osztrák Köztársaság Kormánya és a Szlovén Köztársaság Kormánya közötti, Dolga Vason Rendészeti Együttműködési Központ működtetéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
