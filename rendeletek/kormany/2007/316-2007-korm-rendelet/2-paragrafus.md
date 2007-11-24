@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös államhatárán, Ráróspuszta és Rároš települések közötti közúti Ipoly-híd és a kapcsolódó létesítmények megépítéséről szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
