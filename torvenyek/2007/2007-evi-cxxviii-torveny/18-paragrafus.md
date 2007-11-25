@@ -1,0 +1,1 @@
+18. § Az Országgyűlés elrendeli, hogy a Munkaerőpiaci Alap a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. § (2) bekezdés f) pontja alapján 1038,9 millió forintot a NYUFIG „Munkáltatói befizetésekből finanszírozott korengedményes nyugdíj” 10032000-00284770-00000000 számú (technikai) számla javára 2007. december 31-éig térítsen meg.
