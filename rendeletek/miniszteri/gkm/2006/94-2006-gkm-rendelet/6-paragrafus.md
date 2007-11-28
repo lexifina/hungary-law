@@ -1,0 +1,5 @@
+6. § (1) Azon feladatokhoz kapcsolódó jogok és kötelezettségek tekintetében, amelyeket a jelen rendelet hatálybalépését megelőzően hatályos R1., R2., R3. és R4., valamint az R1., R2., R3. és R4. alapján kötött megállapodás a Magyar Vállalkozásfejlesztési Kht. (a továbbiakban: MVF Kht.), valamint az IT Információs Társadalom Informatikai és Távközlési Szolgáltató Kht. (a továbbiakban: IT Kht.) feladatkörébe utalt, a Vállalkozói Támogatásközvetítő Zártkörűen működő Részvénytársaság (a továbbiakban: VTK Zrt.) az MVF Kht., valamint az IT Kht. jogutódja.
+
+(2) A jelen rendelet hatálybalépését megelőzően hatályos R1., R2., R3. és R4. alapján az MVF Kht. és az IT Kht. részéről egyes támogatási konstrukciók kedvezményezettjeivel kötött támogatási szerződésekben az MVF Kht. és IT Kht. helyébe jogutódként a VTK Zrt. lép.
+
+(3) A jogutódlással érintett támogatásközvetítési feladatok folyamatos ellátásának biztosítása érdekében a VTK Zrt. jogutódlással érintett támogatáskezelési tevékenysége megkezdésének feltételeit az MVF Kht. és az IT Kht. haladéktalanul biztosítani köteles.
