@@ -1,0 +1,5 @@
+A 165/2007. (VI. 28.) Korm. rendelettel, a Magyar Közlöny 2007. június 28-ai számában kihirdetett a Magyar Köztársaság Kormánya és az Albán Köztársaság Kormánya közötti, Budapesten, 1996. január 24-én aláírt a nemzetközi közúti személyszállításról és árufuvarozásról szóló Egyezmény módosításáról szóló jegyzékváltás útján létrejött Megállapodás szerint a Megállapodás a válaszjegyzék kézhezvételétől számított tizenötödik napon lép hatályba.
+
+A záró rendelkezések szerinti válaszjegyzék kézhezvételére 2007. október 4-én került sor.
+
+A fentiekre tekintettel, összhangban a 165/2007. (VI. 28.) Korm. rendelet 4. § (2) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és az Albán Köztársaság Kormánya közötti, Budapesten, 1996. január 24-én aláírt, a nemzetközi közúti személyszállításról és árufuvarozásról szóló Egyezmény módosításáról szóló, jegyzékváltás útján létrejött Megállapodás kihirdetéséről szóló 165/2007. (VI. 28.) Korm. rendelet 2–3. §-ai 2007. október 19-én, azaz kettőezer-hét október tizenkilencedikén léptek hatályba.
