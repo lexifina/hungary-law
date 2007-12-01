@@ -1,0 +1,1 @@
+79. § A Hpt. – e törvény 66. §-ával megállapított – 175/A. §-a szerinti bírságösszegek kizárólag az e törvény – 74. §-ának (1) bekezdése szerinti – hatálybalépését követően elkövetett jogsértő cselekmények tekintetében alkalmazhatók.
