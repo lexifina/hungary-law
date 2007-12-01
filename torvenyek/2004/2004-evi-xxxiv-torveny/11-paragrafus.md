@@ -1,0 +1,1 @@
+11. § A gazdasági szabályozó rendszer egyes elemeinek módosítása során, valamint a KKV-kat is érintő jogszabály-módosítások előterjesztésében be kell mutatni a tervezett változtatásoknak a KKV-k gazdasági helyzetére gyakorolt hatását.
