@@ -1,0 +1,3 @@
+10. § A személy- és tárgykörözésről szóló 2001. évi XVIII. törvény 12. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A Rendőrség a körözés végrehajtása során törvénnyel kihirdetett nemzetközi szerződés alapján a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban a nemzetközi szerződés részes államainak a nemzetközi szerződés hatálya alá tartozó gépjárműadat-nyilvántartásaiban a nemzetközi szerződés által meghatározott automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a Rendőrséget. A keresés tényéről és eredményéről az intézkedés befejezését követően értesíteni kell a Nemzetközi Bűnügyi Együttműködési Központot.”
