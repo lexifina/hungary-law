@@ -1,0 +1,1 @@
+4. § A személyes adatok védelméhez fűződő jogot és az érintett személyiségi jogait — ha törvény kivételt nem tesz — az adatkezeléshez fűződő más érdekek, ideértve a közérdekű adatok nyilvánosságát (19. §) is, nem sérthetik.
