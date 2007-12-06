@@ -1,0 +1,736 @@
+# Az önkormányzati és területfejlesztési miniszter 36/2007. (XII. 6.) ÖTM rendelete
+
+Magyar Közlöny 2007. évi 169. szám, 2007. december 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d2c1b827b0d73688b9fefa243f7b2ffb9ae86910/dokumentumok/eef9cb722f1463a35ca8b5e32ecb1f37f2ea5112/letoltes)
+
+---
+
+Az önkormányzati és területfejlesztési
+miniszter
+36/2007. (XII. 6.) ÖTM
+rendelete
+a hivatásos önkormányzati tűzoltóságok egyes
+kiadásai támogatásának igénylési, folyósítási
+és elszámolási rendjéről
+Az államháztartásról szóló 1992. évi XXXVIII. törvény
+24. §-ának (9) bekezdésében foglalt felhatalmazás alapján,
+az önkormányzati és területfejlesztési miniszter feladat- és
+hatásköréről szóló 168/2006. (VII. 28.) Korm. rendelet
+1. §-ának a) pontjában foglalt feladatkörömben eljárva – a
+pénzügyminiszter feladat- és hatásköréről szóló 169/2006.
+(VII. 28.) Korm. rendelet 1. § a) pontjában foglalt feladat-
+körében eljáró pénzügyminiszterrel egyetértésben – a kö-
+vetkezőket rendelem el:
+1. §
+A Magyar Köztársaság 2007. évi költségvetéséről szóló
+2006. évi CXXVII. törvény IX. Helyi önkormányzatok tá-
+mogatásai fejezet, 16. Támogatás a hivatásos önkormány-
+zati tűzoltóságok egyes kiadásaihoz cím szerinti támoga-
+tás a hivatásos önkormányzati tűzoltóságok 2007. évi
+egyes rendkívüli többletkiadásainak támogatására szolgál.
+A szolgálati nyugdíjba vonulók járandóságainak
+kifizetéséhez igényelhető támogatás feltételei
+2. §
+(1) A támogatást a hivatásos önkormányzati tűzoltósá-
+got fenntartó helyi önkormányzatok igényelhetik a 2007.
+I. félévében nyugállományba vonuló hivatásos állományú
+tűzoltók részére kifizetett, illetve 2007. évben kifizetésre
+kerülő alábbi járandóságok finanszírozásához:
+a) a fegyveres szervek hivatásos állományú tagjainak
+szolgálati viszonyáról szóló 1996. évi XLIII. törvény
+(a továbbiakban: Hszt.) 110. §-ának (1)–(3) bekezdései
+szerint a jubileumi jutalom előrehozott kifizetésének költ-
+ségéhez,
+b) az egyes elismerések adományozására jogosultak
+köréről, az elismerésben részesítés feltételeiről és rendjé-
+ről szóló 21/1997. (III. 19.) BM rendelet 12. §-a szerinti, a
+belügyi szerveknél foglalkoztatási jogviszonyban eltöltött
+szolgálati idő alapján járó pénzjutalom kifizetésének költ-
+ségéhez,
+c) a szabadság pénzbeli megváltásával kapcsolatban
+felmerült költségekhez, amennyiben a nyugállományba
+vonuló hivatásos önkormányzati tűzoltó az utolsó szolgá-
+latban töltött napig nem tudta igénybe venni a Hszt. elő-
+írása szerint részére járó szabadságot.
+(2) Támogatás igényelhető továbbá a 2007. I. félévben a
+szolgálat ellátásához átmeneti időre igénybe vett – nem az
+adott hivatásos önkormányzati tűzoltóság állományába
+tartozó – tűzoltók (létszámfeletti alkalmazás) költségei-
+hez is.
+(3) A támogatás igénylésének feltétele, hogy az
+(1)–(2) bekezdések szerinti költségek az igénylés benyúj-
+tásáig kifizetésre vagy legalább bérszámfejtésre kerültek
+az érintett tűzoltók részére. Ennek igazolását az önkor-
+mányzat köteles benyújtani az igénylés során.
+A nem szolgálati idő-csökkentésből eredő túlszolgálati
+díjak kifizetésének támogatására vonatkozó feltételek
+3. §
+(1) A támogatást a hivatásos önkormányzati tűzoltósá-
+got fenntartó helyi önkormányzatok a készenléti jellegű
+beosztásban dolgozók által 2007. I. félévében végzett
+– nem munkaidő-csökkentés miatt keletkezett – túlszolgá-
+lat díjával kapcsolatos kiadásaikhoz igényelhetik.
+(2) E rendelet értelmében csak az a szolgálatteljesítési
+idő minősül túlszolgálatnak, amely a hatályos jogszabá-
+lyoknak megfelelően a rendszeresített létszámnak a ké-
+szenléti szerekre kötelezően előírt napi szolgálati beosztás
+ellátásával keletkezik.
+(3) A támogatás terhére kizárólag az egészségügyi al-
+kalmassági felülvizsgálat (a továbbiakban: FÜV eljárás)
+alatt állók helyettesítése miatt keletkezett túlszolgálat szá-
+molható el. Nem igényelhet támogatást az önkormányzat
+olyan költségek után, amelyekre a FÜV eljárás alatt álló
+tűzoltók után a Magyar Köztársaság 2007. évi költségveté-
+séről szóló 2006. évi CXXVII. törvény 8. számú mellékle-
+te szerint járó normatív állami hozzájárulásból keletkezett
+megtakarítás fedezetet biztosít.
+(4) Szabadság, felmentési idő, iskolára, tanfolyamra ve-
+zénylés ideje alatt túlszolgálat e rendelet alkalmazásában
+nem keletkezhet. Szabadnap, illetménynélküli szabadság
+túlszolgálat szempontjából nem minősül munkaidőnek.
+
+(5) A támogatás igénylésének feltétele, hogy a túlszol-
+gálati díjak az igénylés benyújtásáig kifizetésre vagy leg-
+alább bérszámfejtésre kerültek az érintett tűzoltók részére.
+Ennek igazolását az önkormányzat köteles benyújtani az
+igénylés során.
+A 2. § szerint nyugállományba vonulók helyetti
+utánpótlás képzési támogatásának szabályai
+4. §
+(1) A hivatásos önkormányzati tűzoltóságoknál a várat-
+lan nyugállományba vonulás miatt felmerülő képzés hiva-
+tásos önkormányzati tűzoltóságonként elismerhető létszá-
+mát az e rendelet 6. melléklete tartalmazza.
+(2) A támogatás szempontjából azon képzésre kerülő
+tűzoltók vehetők figyelembe, akik – a tűz elleni védeke-
+zésről, műszaki mentésről és a tűzoltóságról szóló 1996.
+évi XXXI. törvény (a továbbiakban: Ttv.) 32. §-ának
+(2) bekezdésére, továbbá az egyes szakképesítések szak-
+mai és vizsgakövetelményeiről szóló 16/2003. (IV. 18.)
+BM rendelet 26. számú melléklete, IV. szakaszának
+1. pontjára figyelemmel – a 2007. évben induló képzés
+időtartamára határozott idővel, a mindenkori minimálbér-
+nek megfelelő teljesítménybér jellegű, egyenlő mértékű
+illetménnyel, közalkalmazotti jogviszonyba kerülnek ki-
+nevezésre. A képzés időszakára az e rendelet 4. melléklete
+2. pontja szerint igényelhető támogatás.
+(3) A munkáltatói jogkör gyakorlására jogosult tűzoltó-
+parancsnok a (2) bekezdésben meghatározott minimálbér-
+nek megfelelő teljesítménybértől eltérhet, azonban támo-
+gatást csak e rendeletben meghatározott illetmény mérté-
+kéig igényelhet vissza.
+(4) A támogatás igénylésének feltételei:
+a) a közalkalmazotti jogviszony a határozott idő letel-
+tével megszüntetésre kerül, illetve
+b) a határozott idejű kinevezésben kötelezően rögzítés-
+re kerül, hogy aki a képzési kötelezettségének nem tesz
+eleget, vagy a szakmai vizsgát nem tudja letenni, annak a
+közalkalmazotti jogviszonyát azonnali hatállyal meg kell
+szüntetni. Ebben az esetben az érintett 30 nap elteltével
+bocsátható ismételten vizsgára, sikeres vizsga esetén kine-
+vezhető hivatásos tűzoltó állományba.
+(5) A támogatást az önkormányzatok a 2007. évben el-
+indított képzések befejezéséig, de legkésőbb 2008. április
+30-áig használhatják fel.
+A 2–4. §-ok szerinti támogatások igénylésére vonatkozó
+szabályok
+5. §
+(1) Az igényléseket az önkormányzatok az e rendelet
+1., 2. és 3. mellékletei szerinti igénylési adatlapokon – pa-
+pír alapon 2 példányban és elektronikus úton is – a Magyar
+Államkincstár Regionális Igazgatóságához (a továbbiak-
+ban: Igazgatóság) 2007. december 10-éig nyújthatják be.
+Ezen adatlapokon szereplő adatok kezelését az Igazgató-
+ságok az érintettek előzetes hozzájárulásával, továbbá az
+államháztartásról szóló 1992. évi XXXVIII. törvény
+18/B. §-a (1) bekezdésének e) pontja, 103/A. §-ának
+(3) bekezdése, illetve a központosított illetményszámfej-
+tésről szóló 172/2000. (X. 18.) Korm. rendelet 4. § (1) be-
+kezdés a) pontja alapján végzik.
+(2) Az e rendelet mellékleteit – kitöltve – a hivatásos ön-
+kormányzati tűzoltóságot fenntartó helyi önkormányzat
+köteles megőrizni, és ellenőrzés esetén az arra jogosult
+szervnek bemutatni.
+(3) Az Igazgatóság – figyelemmel az államháztartásról
+szóló 1992. évi XXXVIII. törvény 64/B. §-ának (3) bekez-
+désére – megvizsgálja az igénylések szabályszerűségét, és
+hiányosság észlelése esetén az igénylő önkormányzatot
+hiánypótlásra szólítja fel. Hiánypótlásra a hiánypótlási fel-
+szólítás kézhezvételétől számított három napon belül van
+lehetőség.
+(4) Az Igazgatóság a beérkezett adatokat megyénként,
+településsoros bontásban – az e rendelet 1. a), 2. a) és
+3. a) melléklete szerinti adatlapon, elektronikus formában
+is – 2007. december 19-éig megküldi az ÖTM, valamint az
+Országos Katasztrófavédelmi Főigazgatóság (a továbbiak-
+ban: OKF) részére.
+(5) Az OKF a benyújtott igényeket tartalmilag felülvizs-
+gálja, és a jogos igények vonatkozásában – legfeljebb a
+rendelkezésre álló forrás erejéig – soron kívül, de legké-
+sőbb 2007. december 21-éig a támogatás folyósítását kez-
+deményezi az ÖTM-nél.
+(6) A támogatást az ÖTM – legkésőbb 2007. december
+22-ei – utalványozása alapján a Magyar Államkincstár
+folyósítja.
+(7) A támogatás formája vissza nem térítendő támo-
+gatás.
+
+A nyári rendkívüli időjárás okozta mentési
+és kárelhárítási feladatok támogatása
+6. §
+(1) A központi költségvetés – az OKF felmérése alap-
+ján, külön igénylés nélkül – támogatást biztosít az 5. mel-
+léklet szerint a hivatásos önkormányzati tűzoltóságok ré-
+szére a nyári időjárás okozta rendkívüli kiadásokhoz.
+(2) A támogatás formája vissza nem térítendő támoga-
+tás, amelyet az ÖTM – legkésőbb 2007. december 22-ei –
+utalványozása alapján a Magyar Államkincstár folyósít.
+(3) A támogatás felhasználásáról az önkormányzat leg-
+később 2008. január 31-éig számlákkal, illetve – személyi
+jellegű költségek esetén – a kifizetések bizonylatával köte-
+les elszámolni az OKF felé.
+A támogatások felhasználására és elszámolására
+vonatkozó közös szabályok
+7. §
+(1) A támogatás felhasználását a külön jogszabályban
+erre feljogosított szervek ellenőrzik.
+(2) A jogtalanul igénybe vett támogatást az államháztar-
+tásról szóló 1992. évi XXXVIII. törvény 64/B. §-ának
+(2) bekezdésében meghatározott kamattal növelt összeg-
+ben vissza kell fizetni a központi költségvetésbe.
+(3) Az önkormányzat a támogatás felhasználásáról
+tárgyév december 31-ei fordulónappal, a mindenkori zár-
+számadás keretében és rendje szerint köteles elszámolni.
+8. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+Bajnai Gordon s. k.,
+önkormányzati és területfejlesztési miniszter
+
+1. melléklet a 36/2007. (XII. 6.) ÖTM rendelethez
+ADATLAP
+az önkormányzati költségvetési szerv hivatásos szolgálati viszonyban álló tűzoltó dolgozóinak
+szolgálati nyugállományba vonulásával kapcsolatosan 2007. évben kifizetett járandóságairól
+Helyi önkormányzat neve:
+KSH-kódja:
+Hivatásos önkormányzati tűzoltóság
+neve:
+címe:
+Sorszám Dolgozó neve
+Azonosító
+száma
+A tűzoltók részére kifizetett és kifizetésre kerülő járandóságok
+járulékok nélkül
+Járulékok
+(32%)
+Járandóságok
+összege
+járulékkal
+együtt
+Jubileumi
+jutalom
+BM szolgálat
+utáni jutalom
+Szabadság
+megváltás
+Létszám feletti
+alkalmazás
+költsége
+Ft Ft Ft Ft Ft Ft
+Dátum: ……………………………………
+………………………....……… P. H. ………………………………… P. H.
+polgármester tűzoltóparancsnok
+
+1. a) melléklet a 36/2007. (XII. 6.) ÖTM rendelethez
+ADATLAP
+az önkormányzati költségvetési szerv hivatásos szolgálati viszonyban álló tűzoltó dolgozóinak
+szolgálati nyugállományba vonulásával kapcsolatosan 2007. évben kifizetett járandóságairól
+Megye megnevezése:
+Sorszám KSH-kód
+A tűzoltó-
+ságot fenn-
+tartó helyi
+önkormányzat
+neve
+Nyugállo-
+mányba
+vonuló
+tűzoltók
+száma
+A tűzoltók részére kifizetett és kifizetésre kerülő
+járandóságok járulékok nélküli összege összesen
+Járulékok
+(32%)
+Járandóságok
+összege járu-
+lékkal együtt
+Jubileumi
+jutalom
+BM szolgálat
+utáni jutalom
+Szabadság
+megváltás
+Létszám
+feletti
+alkalmazás
+költsége
+fő Ft Ft Ft Ft Ft Ft
+Dátum: ………….............……
+P. H.
+…………………….......……………………………
+igazgató
+Magyar Államkincstár Területileg Illetékes
+Igazgatósága
+
+2. melléklet a 36/2007. (XII. 6.) ÖTM rendelethez
+ADATLAP
+az önkormányzati költségvetési szerv hivatásos szolgálati viszonyban álló tűzoltó dolgozóinak
+szolgálati nyugállományba vonulásával kapcsolatosan 2007. I. félévben kifizetett
+nem szolgálati idő-csökkentésből eredő túlszolgálati díjról
+Helyi önkormányzat neve:
+KSH-kódja:
+Hivatásos önkormányzati tűzoltóság
+neve:
+címe:
+Sorszám Dolgozó neve Azonosító száma
+A tűzoltók részére 2007. I. félévben kifizetett túlszolgálati díjról
+Túlszolgálati díj
+járulékkal együtt
+összesen
+2007. január 1. és
+június 30. között
+teljesített túl-
+szolgálati óra
+összesen
+Túlszolgálati
+óradíj járulék
+nélkül
+Túlszolgálati díj
+járulék nélkül
+A túlszolgálati díj
+járuléka
+32%
+Dátum:……………………………………
+Alulírottak igazoljuk, hogy a fenti – nem szolgálati idő-csökkentésből eredő – túlszolgálati díjak a FÜV eljárás alatt
+álló tűzoltók helyettesítése miatt keletkeztek, és ezek kifizetéséhez a FÜV eljárás alatti tűzoltók után a Magyar Köztársa-
+ság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény 8. számú melléklete szerint járó normatív állami hozzá-
+járulásból keletkezett megtakarítás nem biztosít fedezetet.
+……………………………… …………………………………
+polgármester tűzoltóparancsnok
+P. H.
+
+2. a) melléklet a 36/2007. (XII. 6.) ÖTM rendelethez
+ADATLAP
+az önkormányzati költségvetési szerv hivatásos szolgálati viszonyban álló tűzoltó dolgozóinak
+szolgálati nyugállományba vonulásával kapcsolatosan 2007. I. félévben kifizetett
+nem szolgálati idő-csökkentésből eredő túlszolgálati díjról
+Megye megnevezése:
+Sorszám KSH-kód
+A tűzoltóságot
+fenntartó helyi
+önkormányzat
+neve
+A tűzoltók részére 2007. I. félévben kifizetett nem szolgálati idő-csökkentés
+miatti túlszolgálati díjról
+2007. I. félévi
+túlszolgálati díj
+járulékkal együtt
+összesen
+Túlszolgálatot
+ellátó tűzoltók
+száma
+Az I. félévben
+teljesített túlszol-
+gálati óra
+összesen
+Túlszolgálati díj
+járulék nélkül
+összesen
+A túlszolgálati díj
+járuléka
+32%
+fő óra Ft Ft Ft
+Dátum: ………………………
+P. H.
+…………………………….......………………
+igazgató
+Magyar Államkincstár Területileg Illetékes
+Igazgatósága
+
+3. melléklet a 36/2007. (XII. 6.) ÖTM rendelethez
+ADATLAP
+az önkormányzati költségvetési szerv hivatásos szolgálati viszonyban létszám utánpótlására tervezett tűzoltó
+dolgozója részére a négyhavi képzési időszakra járó illetmény és egyéb járandóságok költségeiről
+Helyi önkormányzat, illetve neve:
+KSH-kódja (7 karakter):
+Hivatásos Önkormányzati Tűzoltóság
+neve:
+címe:
+Sorszám
+Tűzoltó
+képzésben
+részesülő
+tűzoltók
+neve
+A nyugállományba vonuló tűzoltók utánpótlására kiképzett tűzoltók illetményére
+és egyéb járandóságaira
+Kiadások
+összesen
+Négyhavi közal-
+kalmazotti
+illetmény járulék
+nélkül
+(65 500 Ft/hó/×4)
+A négyhavi bér
+32%-os járuléká-
+nak összege
+Időarányos 13. havi illetmény A négyhavi bér
+és az időarányos
+13. havi illet-
+mény járulékkal
+együtt összesen
+Képzési költség,
+gyakorló ruha és
+egyéb kiadások
+költségeire
+(150 000 Ft/fő)
+Járulék nélkül Járulékkal
+fő Ft/fő Ft Ft Ft Ft/fő Ft/fő Ft/fő
+Összesen:
+Dátum: ................................................................
+…………..……….......… …………………………
+tűzoltóparancsnok polgármester
+P. H.
+
+3. a) melléklet a 36/2007. (XII. 6.) ÖTM rendelethez
+ADATLAP
+az önkormányzati költségvetési szerv hivatásos szolgálati viszonyban létszám utánpótlására tervezett tűzoltó
+dolgozója részére a négyhavi képzési időszakra járó illetmény és egyéb járandóságok költségeiről
+Megye megnevezése:
+Sorszám KSH-kód
+A tűzoltósá-
+got fenntartó
+helyi önkor-
+mányzat neve
+A nyugállományba vonuló tűzoltók utánpótlására kiképzett tűzoltók illetményére
+és egyéb járandóságaira
+Kiadások
+összesen
+A képzés-
+ben részt
+vevő
+tűzoltók
+száma
+Négyhavi közal-
+kalmazotti illet-
+mény járulék
+nélkül
+(65 500 Ft/hó ×
+4 hó× tűzoltók
+száma)
+A négyhavi
+bér 32%-os
+járulékának
+összege
+összesen
+Időarányos 13. havi
+illetmény
+A négyhavi
+bér és az
+időarányos
+13. havi
+illetmény
+járulékkal
+együtt
+összesen
+Képzési költség,
+gyakorló ruha
+és egyéb
+kiadások
+költségeire
+(150 000 Ft/fő×
+létszám)
+Járulék
+nélkül
+Járulékkal
+fő Ft Ft Ft Ft Ft Ft Ft
+Összesen:
+Dátum:
+P. H.
+.................................................................................
+igazgató
+Magyar Államkincstár Területileg Illetékes
+Igazgatósága
+
+4. melléklet a 36/2007. (XII. 6.) ÖTM rendelethez
+A támogatás szempontjából elszámolható költségek
+1. Túlszolgálati díj megállapítása:
+– túlszolgálati díj kiszámításánál kizárólag a rendszeres illetmény vehető figyelembe,
+– az illetmény elemek kiszámításának illetmény alapja = 36 800 Ft,
+– a túlszolgálati óradíj kiszámítását az 1., 1.a), 2. és 2.a) számú adatlapokon kell elvégezni, a rendszeres havi illet-
+ményt a 20/1997. (III. 19.) BM rendelet 8. §-ában előírt 174 órával történő osztással,
+– a túlszolgálati díjat járulékaival növelten kell igényelni.
+2. A tűzoltó képzésben részt vevő állomány járandóságai:
+a) A képzési időszak alatt az állomány meghatározott időre történő közalkalmazotti állományban alkalmazható.
+A hallgatók kiképzése a Katasztrófavédelmi Oktatási Központ, a Regionális Kiképző Központok, illetve a Megyei Ka-
+tasztrófavédelmi Igazgatóságok szervezésében történik.
+A hallgatók élelmezéséről, napidíj folyósításáról és az utazási költségtérítésről a küldő szervezet gondoskodik.
+A közalkalmazottat teljesítménybérként 65 500 Ft minimálbér és annak 13. havi illetményrésze illeti meg.
+A képzési költség maximum 100 000 Ft/fő.
+A gyakorlóruha beszerzéséhez 30 000 Ft/fő hozzájárulás igényelhető.
+A közalkalmazottat a Kjt. szerinti 13. havi illetmény időarányos része illeti meg.
+A fent meghatározottaktól felfelé irányba történő eltérés a támogatás szempontjából nem vehető figyelembe.
+
+5. melléklet a 36/2007. (XII. 6.) ÖTM rendelethez
+Kimutatás
+a Hivatásos Önkormányzati Tűzoltóságok 2007. július havi „Hőségriadó” költségeiről
+Sor-
+szám
+KSH-kód Önkormányzat megnevezése
+Személyi állomány
+igénybevételének
+költségei
+járulékokkal együtt
+Személyi állomány
+ellátása
+Gépjármű
+üzemeltetés
+Távközlési
+költségek
+Védekezéshez
+felhasznált anyagok
+Egyéb költségek Összesen
+Működési területen
+kívüli vonulás
+költségei
+Kiadás összesen
+Hivatásos Önkormányzati Tűzoltóságok
+Ft Ft Ft Ft Ft Ft Ft Ft Ft
+1 2 3 4 5 6 7 8 9
+1 113578 Fővárosi önkormányzat
+2 205519 Siklós 280 000 280 000 280 000
+3 219415 Pécs 12 987 70 759 83 746 83 746
+4 223959 Mohács 0 0
+5 226408 Komló 99 920 99 920 99 920
+6 226578 Szigetvár 90 000 90 000 90 000
+7 303522 Baja 152 000 300 000 1 100 000 1 552 000 1 552 000
+8 306442 Kalocsa 208 541 76 710 150 787 720 941 1 156 979 1 156 979
+9 309344 Kiskőrös 190 500 103 500 185 000 800 500 1 279 500 227 500 1 507 000
+10 320297 Kiskunfélegyháza 58 393 424 263 593 968 1 076 624 1 076 624
+11 326684 Kecskemét 445 000 164 000 90 887 762 000 4 237 771 5 699 658 5 699 658
+12 332434 Kiskunhalas 250 000 388 802 264 396 500 000 1 403 198 1 403 198
+13 405032 Gyula 0 0
+14 415200 Békéscsaba 3 960 26 163 1 512 31 635 31 635
+15 421883 Szeghalom 0 0
+16 423065 Orosháza 0 0
+17 423870 Szarvas 7 056 86 241 15 000 44 566 152 863 152 863
+18 430322 Mezőkovácsháza 0 0
+19 505120 Sátoraljaújhely 5 280 5 280 5 280
+20 506691 Kazincbarcika 0 0
+21 508077 Szendrő 0 0
+22 514492 Ózd 10 000 250 000 1 300 000 1 560 000 1 560 000
+23 519433 Mezőkövesd 100 000 702 000 802 000 802 000
+24 528352 Tiszaújváros 8 640 8 640 8 640
+25 530456 Miskolc 0 0
+26 530739 Szerencs 0 0
+
+Sor-
+szám
+KSH-kód Önkormányzat megnevezése
+Személyi állomány
+igénybevételének
+költségei
+járulékokkal együtt
+Személyi állomány
+ellátása
+Gépjármű
+üzemeltetés
+Távközlési
+költségek
+Védekezéshez
+felhasznált anyagok
+Egyéb költségek Összesen
+Működési területen
+kívüli vonulás
+költségei
+Kiadás összesen
+Hivatásos Önkormányzati Tűzoltóságok
+Ft Ft Ft Ft Ft Ft Ft Ft Ft
+1 2 3 4 5 6 7 8 9
+27 533048 Encs 16 000 274 032 869 000 1 159 032 1 159 032
+28 605111 Csongrád 7 470 48 963 181 215 237 648 237 648
+29 607357 Makó 0 0
+30 608314 Hódmezővásárhely 0 0
+31 614456 Szentes 33 020 218 002 251 022 251 022
+32 633367 Szeged 579 000 360 459 939 459 939 459
+33 703115 Dunaújváros 182 400 182 400 86 849 269 249
+34 710481 Bicske 0 0
+35 714827 Székesfehérvár 622 800 18 000 780 376 1 421 176 88 500 1 509 676
+36 718485 Mór 0 0
+37 723694 Sárbogárd 281 635 65 000 355 680 702 315 702 315
+38 804039 Csorna 157 762 1 000 000 1 157 762 1 157 762
+39 804783 Mosonmagyaróvár 0 0
+40 808518 Sopron 14 392 78 094 92 486 92 486
+41 825584 Győr 54 675 54 675 54 675
+42 828334 Kapuvár 169 742 90 194 259 936 259 936
+43 903045 Hajdúböszörmény 0 0
+44 905175 Hajúszoboszló 0 0
+45 910162 Püspökladány 0 0
+46 912788 Berettyóújfalu 0 0
+47 915130 Debrecen 0 0
+48 922406 Hajdúnánás 0 0
+49 1003276 Füzesabony 0 0
+50 1005236 Gyöngyös 3 427 458 500 461 927 1 844 463 771
+51 1014526 Heves 41 770 10 000 51 770 51 770
+52 1020491 Eger 70 000 450 000 2 600 000 3 120 000 3 120 000
+53 1022309 Hatvan 18 297 193 957 812 785 1 025 039 1 025 039
+54 1105449 Komárom 7 452 71 022 4 000 82 474 82 474
+55 1115352 Nyergesújfalu 0 0
+56 1118157 Tatabánya 10 000 10 000 10 000
+
+Sor-
+szám
+KSH-kód Önkormányzat megnevezése
+Személyi állomány
+igénybevételének
+költségei
+járulékokkal együtt
+Személyi állomány
+ellátása
+Gépjármű
+üzemeltetés
+Távközlési
+költségek
+Védekezéshez
+felhasznált anyagok
+Egyéb költségek Összesen
+Működési területen
+kívüli vonulás
+költségei
+Kiadás összesen
+Hivatásos Önkormányzati Tűzoltóságok
+Ft Ft Ft Ft Ft Ft Ft Ft Ft
+1 2 3 4 5 6 7 8 9
+57 1125131 Esztergom 45 360 45 360 45 360
+58 1207409 Pásztó 0 0
+59 1213657 Balassagyarmat 0 0
+60 1223825 Rétság 0 0
+61 1225788 Salgótarján 25 000 251 000 276 000 276 000
+62 1309247 Dabas 7 200 333 922 720 620 1 061 742 1 061 742
+63 1310551 Monor 10 100 792 212 802 312 802 312
+64 1311341 Cegléd 8 968 201 533 108 012 318 513 318 513
+65 1313435 Nagykáta 0 0
+66 1315440 Szentendre 40 000 54 000 262 000 118 000 474 000 474 000
+67 1317260 Ráckeve 0 0
+68 1319716 Nagykőrös 0 0
+69 1324934 Vác 0 0
+70 1328954 Szigetszentmiklós 240 186 36 918 502 447 779 551 779 551
+71 1330988 Érd 21 960 58 824 312 600 393 384 393 384
+72 1332559 Gödöllő 0 36 140 36 140
+73 1417631 Siófok 0 0
+74 1417941 Nagyatád 27 681 2 000 26 600 2 000 58 281 58 281
+75 1418500 Marcali 3 790 3 731 526 283 533 804 533 804
+76 1420473 Kaposvár 104 000 14 935 118 935 118 935
+77 1432799 Barcs 65 062 3 420 128 180 196 662 196 662
+78 1509265 Kisvárda 0 0
+79 1514845 Nyírbátor 0 0
+80 1516203 Záhony 0 0
+81 1517206 Nyíregyháza 0 0
+82 1518324 Vásárosnamény 0 0
+83 1518874 Mátészalka 0 0
+84 1518971 Fehérgyarmat 29 800 29 800 100 672 130 472
+85 1604260 Mezőtúr 166 213 188 000 354 213 354 213
+86 1604923 Karcag 0 0
+87 1618209 Jászberény 141 960 141 960 141 960
+
+Sor-
+szám
+KSH-kód Önkormányzat megnevezése
+Személyi állomány
+igénybevételének
+költségei
+járulékokkal együtt
+Személyi állomány
+ellátása
+Gépjármű
+üzemeltetés
+Távközlési
+költségek
+Védekezéshez
+felhasznált anyagok
+Egyéb költségek Összesen
+Működési területen
+kívüli vonulás
+költségei
+Kiadás összesen
+Hivatásos Önkormányzati Tűzoltóságok
+Ft Ft Ft Ft Ft Ft Ft Ft Ft
+1 2 3 4 5 6 7 8 9
+88 1627854 Szolnok 33 168 10 401 16 992 155 040 215 601 215 601
+89 1629726 Tiszafüred 22 080 5 000 25 000 52 080 52 080
+90 1632504 Kunszentmárton 569 322 9 228 594 090 9 240 135 600 1 317 480 1 317 480
+91 1704862 Paks 0 86 060 86 060
+92 1706497 Bonyhád 0 0
+93 1707685 Dombóvár 0 0
+94 1722761 Szekszárd 0 821 931 821 931
+95 1724563 Tamási 21 004 21 004 21 004
+96 1803009 Szombathely 129 010 149 505 2 122 330 2 400 845 2 400 845
+97 1813532 Körmend 68 785 425 782 494 567 494 567
+98 1816832 Kőszeg 0 0
+99 1821306 Sárvár 136 741 260 262 606 480 1 003 483 1 003 483
+100 1827094 Celldömölk 0 0
+101 1902219 Balatonfűzfő 14 927 74 880 89 807 224 468 314 275
+102 1906673 Ajka 320 201 96 089 416 290 147 223 563 513
+103 1934254 Pétfürdő 224 468 232 020 456 488 456 488
+104 1911767 Veszprém 5 297 334 384 488 000 827 681 101 632 929 313
+105 1922327 Badacsonytomaj 0 116 910 116 910
+106 1931945 Pápa 32 000 136 000 180 000 348 000 348 000
+107 2012122 Letenye 0 0
+108 2012575 Lenti 27 547 27 547 27 547
+109 2018421 Keszthely 0 0
+110 2030933 Nagykanizsa 0 0
+111 2032054 Zalaegerszeg 3 475 000 2 685 000 6 160 000 6 160 000
+112 2032522 Zalaszentgrót 0 0
+HÖT összesen: 2 515 222 490 361 5 480 721 104 000 10 635 531 26 680 719 45 906 554 2 039 729 47 946 283
+
+6. melléklet a 36/2007. (XII. 6.) ÖTM rendelethez
+Kimutatás
+az önkormányzati költségvetési szerv hivatásos szolgálati viszonyban álló tűzoltó dolgozóinak
+szolgálati nyugállományba vonulása miatt utánpótlásként tűzoltóképzésben résztvevőkről
+Sorszám Helyi önkormányzat megnevezése
+Tűzoltóképzésben
+résztvevők száma
+1 Mezőkovácsháza 6
+2 Szeghalom 3
+3 Gyula 10
+4 Orosháza 9
+5 Békéscsaba 1
+6 Miskolc 5
+7 Encs 7
+8 Kazincbarcika 1
+9 Mezőkövesd 1
+10 Sátoraljaújhely 6
+11 Tiszaújváros 5
+12 Szentes 2
+13 Kapuvár 4
+14 Mosonmagyaróvár 1
+15 Sopron 3
+16 Győr 10
+17 Gyöngyös 5
+18 Hatvan 10
+19 Heves 1
+20 Dabas 1
+21 Gödöllő 2
+22 Barcs 3
+23 Marcali 7
+24 Kaposvár 3
+25 Siófok 2
+26 Dombóvár 7
+27 Paks 11
+28 Szekszárd 3
+29 Ajka 14
+30 Badacsonytomaj 2
+31 Veszprém 5
+32 FTP 40
+Összesen: 190
+
+III. rész HATÁROZATOK
+Az Országgyűlés határozatai
