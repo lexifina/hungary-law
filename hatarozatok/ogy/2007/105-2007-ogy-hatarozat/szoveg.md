@@ -1,0 +1,3 @@
+Az Országgyűlés a népszavazásról és a népi kezdeményezésről szóló 1998. évi III. törvény rendelkezései szerint megtárgyalta „A Magyar Köztársaság Alkotmányának 28/D. §-a alapján, alulírottak kezdeményezzük, hogy az Országgyűlés tűzze napirendjére és tárgyalja meg azt a közalkalmazotti előmeneteli rendszert, amely igazodik a minimálbérhez, és biztosítja az Alkotmány 70/B. § (3) bekezdésében megfogalmazott, a végzett munka mennyiségével és minőségével arányos jövedelemhez való jog érvényesülését az Országgyűlés 63/2002. (X. 4.) OGY határozatának megfelelően” tárgyú népi kezdeményezést és arról a 2007. december 3-i ülésén a következők szerint döntött:
+
+Az Országgyűlés a népi kezdeményezésben foglaltakkal nem ért egyet.
