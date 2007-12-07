@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya közötti ingatlancseréről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
