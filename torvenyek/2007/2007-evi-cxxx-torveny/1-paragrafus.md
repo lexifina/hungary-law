@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Európai Szabadalmi Egyezmény 2000-ben felülvizsgált és az Európai Szabadalmi Szervezet Igazgatótanácsának 2001. június 28-án kelt határozatával megállapított szövegét (a továbbiakban: Egyezmény) e törvénnyel kihirdeti.
