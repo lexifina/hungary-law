@@ -1,0 +1,1 @@
+A takarmányok előállításáról, forgalomba hozataláról és felhasználásáról szóló 2001. évi CXIX. törvény 10. §-ának (3) bekezdésében kapott felhatalmazás alapján, valamint a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. § e) pontjában kapott feladatkörében eljárva a következőket rendelem el:
