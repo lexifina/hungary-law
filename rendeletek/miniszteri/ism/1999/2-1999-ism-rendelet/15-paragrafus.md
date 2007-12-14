@@ -1,0 +1,5 @@
+## Záró rendelkezések
+
+15. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba. Egyidejűleg hatályát veszti a Gyermek és Ifjúsági Alapprogram működéséről szóló 2/1996. (III. 20.) ME rendelet.
+
+(2) E rendelet alkalmazásában ifjúsági közösség az a jogi személyiséggel nem rendelkező csoport, amelynek legalább kétharmada fiatal, és tevékenységüket a közösen megállapított célok érdekében, a fiatalok önkéntes és aktív részvételével végzik.

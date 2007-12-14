@@ -1,0 +1,37 @@
+## Az Iroda[^29]
+
+14. § (1)[^30] Az Iroda a Mobilitás Országos Ifjúsági Szolgálat szervezeti egysége.
+
+(2) Az Iroda a Gyermek és Ifjúsági Alapról, a Nemzeti Gyermek és Ifjúsági Közalapítványról, valamint az ifjúsággal összefüggő egyes állami feladatok ellátásának szervezeti rendjéről szóló 1995. évi LXIV. törvény 7/B. §-ában foglalt szolgáltatásokat nyújt jogi személyeknek és ifjúsági közösségeknek.
+
+(3) Iroda működik minden, a külön jogszabály által meghatározott területfejlesztési régióban, illetékességi területe a régió.
+
+(4) Az Iroda feladata:
+
+a) kezdeményezi regionális fejlesztési programok, alprogramok indítását, közreműködik tervezésükben és megvalósításukban,
+
+b) közreműködik a Gyermek és Ifjúsági Alapprogramból támogatott, illetve felkérés alapján más projektek értékelésében, szakmai és pénzügyi ellenőrzésében,
+
+c) segíti az Európai Unió, az Európa Tanács és más nemzetközi szervezetek programfejlesztési és projekt-tervezési követelményeinek megismertetését és teljesítését,
+
+d) gyűjti és feldolgozza az ifjúságra vonatkozó regionális információkat, ennek érdekében kutatásokat, felméréseket kezdeményezhet, illetve támogathat,
+
+e) javaslatokat tesz a fiatalok részvételének fejlesztésére a helyi, a térségi, a regionális, a régiók közötti és az euro-regionális együttműködésekben,
+
+f) az erre a célra rendelkezésre álló pénzügyi keret terhére biztosítja a Regionális Ifjúsági Tanács működésének feltételeit, és ellátja a Regionális Ifjúsági Tanács működésével összefüggő feladatokat,
+
+g)[^31] felkérés alapján közreműködik az Alapprogramból támogatott, illetve más pályázatok értékelésében, szakmai és pénzügyi ellenőrzésében.
+
+(5) Az Iroda szolgáltatása:
+
+a) tanácsadást nyújt az önkormányzati ifjúsági programok, helyi és térségi programok tervezéséhez és megvalósításához,
+
+b) képzéseket szervez a regionális programok, a térségi és a helyi projektek eredményes megvalósítása érdekében, részt vesz az ifjúsági közösségek, illetve projektek vezetőinek, az ifjúságsegítő szakembereknek a képzésében, valamint önkormányzati tisztségviselők és köztisztviselők továbbképzésében,
+
+c) információkat szolgáltat az ifjúsággal kapcsolatos döntések megalapozásához,
+
+d) a rendelkezésére álló tárgyi-technikai feltételek használatának – külön szabályzatban meghatározottak szerinti – az ifjúsági közösségi kezdeményezések, programok megvalósításához történő biztosítása.
+
+[^29]: A 14. § előtti alcím a 8/2006. (XII. 27.) SZMM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^30]: A 14. § (1) bekezdése a 8/2006. (XII. 27.) SZMM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^31]: A 14. § (4) bekezdésének g) pontját a 8/2006. (XII. 27.) SZMM rendelet 7. § (2) bekezdése iktatta be.
