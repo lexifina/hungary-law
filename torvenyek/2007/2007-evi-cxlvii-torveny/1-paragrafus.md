@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a mértéktelen sérülést okozónak vagy megkülönböztetés nélkül hatónak tekinthető egyes hagyományos fegyverek alkalmazásának betiltásáról, illetőleg korlátozásáról szóló, Genfben, 1980. október hó 15. napján kelt Egyezmény 1. cikkének, Genfben, 2001. december 21-én elfogadott módosítását e törvénnyel kihirdeti.
