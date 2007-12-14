@@ -1,0 +1,1 @@
+A hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 59. § (2) bekezdés a) pont aa) és ad) alpontjában kapott felhatalmazás alapján, a környezetvédelmi és vízügyi miniszter feladat- és hatásköréről szóló 165/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
