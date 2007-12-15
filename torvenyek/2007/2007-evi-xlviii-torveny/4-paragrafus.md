@@ -1,0 +1,9 @@
+4. § (1) A Rendelet 5. cikk (1) bekezdése alapján a vámhatóság nyilvántartásba veszi és 2 évig, a (2)–(4) bekezdés szerinti tájékoztatás és adattovábbítás esetén – kizárólag a tájékoztatás, adattovábbítás jogszerűségének megállapítása céljából – a tájékoztatástól, illetve az adattovábbítástól számított további 5 évig kezeli a Rendelet 3. cikke szerint közölt és a 3. § alapján végzett ellenőrzés során szerzett adatokat.
+
+(2) A Rendelet 5. cikke által meghatározott kötelezettség végrehajtása érdekében a vámhatóság az (1) bekezdés alapján nyilvántartásba vett adatokról megkeresésre tájékoztatja a pénzügyi információs egységként működő hatóságot.
+
+(3) Amennyiben a Rendelet 3. cikke szerint közölt vagy a 3. § alapján végzett ellenőrzés során szerzett adat pénzmosásra vagy terrorizmus finanszírozására utal, a vámhatóság köteles azt haladéktalanul a pénzügyi információs egységként működő hatóságnak továbbítani.
+
+(4) A Rendelet 5. cikk (2) bekezdésének végrehajtása esetén a vámhatóság a Rendelet 5. cikk (2) bekezdésében meghatározott adatokat nyilvántartásba veszi, a nyilvántartásba vételtől számított 2 évig kezeli, és a (3) bekezdés szerint továbbítja.
+
+(5) A vámhatóság az általa vezetett adattovábbítási nyilvántartást az adattovábbítástól számított 5 évig őrzi meg. Az adattovábbítási nyilvántartás tartalmáról az érintett kérelmére a tájékoztatását a vámhatóság a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint a terrorcselekmény (Btk. 261. §), a jogosulatlan pénzügyi tevékenység (Btk. 298/D. §), a pénzmosás (Btk. 303–303/A. §), a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 303/B. §), az adócsalás (Btk. 310. §), a sikkasztás (Btk. 317. §), a csalás (Btk. 318. §) és a hűtlen kezelés (Btk. 319. §) bűncselekményének felderítése érdekében megtagadhatja.
