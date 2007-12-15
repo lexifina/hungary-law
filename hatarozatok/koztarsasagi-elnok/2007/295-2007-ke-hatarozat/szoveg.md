@@ -1,0 +1,3 @@
+Az igazságügyi és rendészeti miniszter előterjesztésére, az Alkotmány 30/A. §-a (1) bekezdésének i) pontjában biztosított jogkörömben, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (Hszt.) 59. § (1) bekezdése a) pontja alapján megállapítom, hogy dr. Ferenczi László rendőr vezérőrnagy szolgálati viszonya 2007. december 1-jén megszűnik, és a Hszt. 182. § (1) bekezdése alapján 2007. december 2-ai hatállyal nyugállományba helyezem, valamint nyugállományba helyezésével egyidejűleg nyugállományú rendőr altábornaggyá előléptetem.
+
+KEH ügyszám: V-5/4993/2007.
