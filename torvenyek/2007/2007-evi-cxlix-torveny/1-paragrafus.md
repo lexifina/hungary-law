@@ -1,0 +1,3 @@
+1. § A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény (a továbbiakban: Vt. tv.) 1. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A vizek kártételei elleni védelem érdekében a vízkár-elhárítási tevékenység tervezése, szabályozása, szervezése, irányítása, ellenőrzése, a kiemelten közcélú védőművek építése, fejlesztése, fenntartása, üzemeltetése, valamint a helyi közfeladatokat meghaladó védekezés az állam feladata. A térségi árvízvédelmi biztonság megteremtése és fejlesztése kiemelten fontos közérdekű tevékenység.”
