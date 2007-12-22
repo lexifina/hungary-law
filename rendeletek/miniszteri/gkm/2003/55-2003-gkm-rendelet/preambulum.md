@@ -1,0 +1,1 @@
+A fogyasztóvédelemről szóló 1997. évi CLV. törvény 56. §-ának a) pontjában kapott felhatalmazás alapján – figyelemmel a villamos energiáról szóló 2001. évi CX. törvény 5. § a) pontjának 9. alpontjában foglaltakra – a következőket rendelem el:
