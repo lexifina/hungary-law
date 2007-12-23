@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a hajókon alkalmazott ártalmas antivegetatív bevonatrendszerek ellenőrzéséről szóló, a Londonban, 2001. október 5-én kelt nemzetközi egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
