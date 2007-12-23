@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a 2007. december 13-án aláírt, az Európai Unióról szóló szerződés és az Európai Közösséget létrehozó szerződés módosításáról szóló lisszaboni szerződés (a továbbiakban: Lisszaboni Szerződés) kötelező hatályának elismerésére.
