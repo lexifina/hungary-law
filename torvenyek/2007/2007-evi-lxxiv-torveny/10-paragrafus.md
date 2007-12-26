@@ -1,0 +1,3 @@
+10. § (1) A 9. § szerinti kiegészítő digitális szolgáltatás tartalmára az Rttv. 3–4. §-ai és 4/A–5/F. §-ai és 89. §-a megfelelően alkalmazandók. A kiegészítő digitális szolgáltatások tartalmára vonatkozó további szabályokat külön törvény határozza meg.
+
+(2) A 9. § szerinti kiegészítő digitális szolgáltatás e törvény szerinti jogszerűségét a Hatóság piacfelügyeleti eljárás keretében ellenőrzi. Az eljárásban az (1) bekezdésben meghatározott követelményekkel kapcsolatosan az Országos Rádió és Televízió Testület (a továbbiakban: Testület) szakhatóságként jár el. A Hatóság jogsértés megállapítása esetében az Eht. 67–68. §-a szerinti piacfelügyeleti eljárás jogkövetkezményeit alkalmazza.
