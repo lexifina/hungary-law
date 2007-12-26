@@ -1,0 +1,1 @@
+## 8. § A 2005. december 31-én feladattal terhelt normatív, kötött felhasználású támogatások és a központosított előirányzatok fel nem használt összegeinek elszámolását – figyelemmel az Állami Számvevőszék megállapításaira – a 12. és 13. számú melléklet tartalmazza.

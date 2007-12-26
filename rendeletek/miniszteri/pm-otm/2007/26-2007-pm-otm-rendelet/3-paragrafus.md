@@ -1,0 +1,1 @@
+## 2. § A normatív állami hozzájárulások, a normatív kötött felhasználású támogatások elszámolása alapján megállapított jogtalanul igénybe vett összeg törvényben meghatározott mértékét meghaladó támogatás után teljesítendő önkormányzati kamatfizetési kötelezettségeket a 2. számú melléklet tartalmazza.

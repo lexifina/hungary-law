@@ -1,0 +1,1 @@
+## 10. § Az Állami Számvevőszék által 2006. évben feltárt, a helyi önkormányzatok részéről jogtalanul igénybe vett címzett és céltámogatások, céljellegű decentralizált támogatások, valamint a Balatoni Fejlesztési Tanács által nyújtott támogatás visszafizetési kötelezettségeinek önkormányzatok szerinti részletezését a 15., 16. és 17. számú melléklet tartalmazza.

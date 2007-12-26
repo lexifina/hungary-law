@@ -1,0 +1,1 @@
+## 11. § Az 1000 forinton aluli összegek nem képezik visszafizetési kötelezettség tárgyát, valamint a Kincstár sem utalja át a pótlólagosan megállapított 1000 forint alatti hozzájárulást és támogatást.

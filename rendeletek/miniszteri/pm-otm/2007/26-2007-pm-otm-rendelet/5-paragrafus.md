@@ -1,0 +1,1 @@
+## 4. § A központosított előirányzatok, az egyes jövedelempótló támogatások kiegészítése és az önkormányzatok által szervezett közcélú foglalkoztatás támogatásának, valamint a színházi támogatások önkormányzatonkénti elszámolását – figyelemmel az Állami Számvevőszék megállapításaira – az 5. és 6. számú melléklet tartalmazza.
