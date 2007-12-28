@@ -1,0 +1,9 @@
+# 305/2007. (XII. 28.) KE határozat
+
+dandártábornok szolgálati viszonyának megszüntetéséről és nyugállományba helyezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-305-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2007-12-28 | 2007-305-30-76.1 | 305/2007. (XII. 28.) KE határozat |
