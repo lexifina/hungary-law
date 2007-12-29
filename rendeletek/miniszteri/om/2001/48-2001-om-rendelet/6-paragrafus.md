@@ -1,0 +1,1 @@
+## teljesítésének elmulasztása miatt törölték.

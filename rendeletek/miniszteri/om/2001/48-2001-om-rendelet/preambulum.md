@@ -1,0 +1,1 @@
+A felnőttképzésről 2001. évi CI. törvény (a továbbiakban: Fktv.) 4. §-a (2) bekezdésének a) pontjában foglalt felhatalmazás alapján – a 7. § vonatkozásában a pénzügyminiszterrel egyetértésben – az alábbiakat rendelem el:
