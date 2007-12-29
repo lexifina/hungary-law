@@ -1,0 +1,1 @@
+## 6. § Akkreditált intézmény ellenőrzése esetén, ha a kirendelt szakértő az akkreditációs követelmények megsértését észleli, a munkaügyi központ a szakvélemény alapján a Felnőttképzési Akkreditáló Testületnél bejelentést tesz.
