@@ -1,0 +1,5 @@
+1. § (1)[^1] Az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlegének finanszírozási rendszerébe tartozó ügyleteknek a tagállamok részéről végzett vizsgálatáról és a 77/435/EGK irányelv hatályon kívül helyezéséről szóló 4045/89/EGK tanácsi rendelet (a továbbiakban: Rendelet) előírásait a Vám- és Pénzügyőrség Központi Ellenőrzési Parancsnokságán működő Különleges Szolgálat és – ezen vizsgálatok tekintetében – szakmai irányítása alatt álló regionális ellenőrzési központok hajtják végre, a Vtv.-ben, valamint az e rendeletben foglaltak figyelembevételével.
+
+(2) A Különleges Szolgálat felelős a Rendeletben foglalt feladatok végrehajtásáért, különösen az éves ellenőrzési tervek összeállításáért, az ellenőrzést végzők tevékenységének koordinációjáért, a Mezőgazdasági és Vidékfejlesztési Hivatallal (a továbbiakban: MVH), mint kifizető ügynökséggel történő együttműködésért, az ellenőrzések alapján a jelentések összeállításáért és az Európai Bizottság részére történő megküldéséért, valamint az ellenőrzést végzők szakmai képzéséért.
+
+[^1]: Az 1. § (1) bekezdése a 48/2007. (XII. 29.) PM rendelet 23. §-ával megállapított szöveg.

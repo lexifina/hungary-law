@@ -1,0 +1,1 @@
+A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény (a továbbiakban: Vtv.) 82. §-a (3) bekezdésének c) pontjában kapott felhatalmazás alapján – a földművelésügyi és vidékfejlesztési miniszterrel egyetértésben – a következőket rendelem el:

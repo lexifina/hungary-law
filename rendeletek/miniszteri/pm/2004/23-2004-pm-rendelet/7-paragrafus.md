@@ -1,0 +1,1 @@
+## 6. § Az ellenőrzésen részt vehet az Európai Bizottság, illetve az Európai Unió valamely tagállamának illetékes képviselője is, akit a megbízólevélen szakértőként feltüntetnek. A szakértőket a helyiségbe való bejutás és az iratokhoz való hozzáférés tekintetében megilletik mindazok a jogok, amelyek a vámhatóság hivatásos állományú tagját.
