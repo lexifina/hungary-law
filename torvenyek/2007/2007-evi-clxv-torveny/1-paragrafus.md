@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a bunkerolaj-szennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló, a Londonban, 2001. március 23-án kelt nemzetközi egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
