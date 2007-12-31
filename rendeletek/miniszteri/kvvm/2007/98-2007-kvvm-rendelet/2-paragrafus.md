@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Abaújkéri Aranyos-völgy természetvédelmi terület elnevezéssel a Borsod-Abaúj-Zemplén megyében, Abaújkér közigazgatási területén lévő, az 1. mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 160,0 hektár kiterjedésű területet.
