@@ -1,0 +1,3 @@
+9. § (1) A hitelintézetnek a kockázati pozíció – ide nem értve a hitelviszonyt megtestesítő értékpapír kockázati pozícióját – mértékének és előjelének meghatározásakor a névértéket vagy a 3. számú melléklet 2. pontja szerinti delta ekvivalens értéket kell alkalmaznia.
+
+(2) A hitelintézet a hitelviszonyt megtestesítő értékpapír és a kifizetési láb esetében a kockázati pozíció mértékének és előjelének meghatározásakor a névérték és a korrigált hátralévő átlagos futamidő (duration) szorzatát vagy a 3. számú melléklet 2. pontja szerinti delta érték és a korrigált hátralévő átlagos futamidő (duration) szorzatát alkalmazza azzal, hogy a származtatott eszközt az alapul szolgáló pénznemben kell kifejezni.

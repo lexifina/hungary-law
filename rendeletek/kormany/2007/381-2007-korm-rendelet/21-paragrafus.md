@@ -1,0 +1,27 @@
+21. § (1) A hitelintézet saját belső ellenőrzési eljárása keretében rendszeresen elvégzi a partnerkockázat kezelési rendszere független felülvizsgálatát, amelyet a 19. § (1)–(3) bekezdés szerinti és a (2) bekezdés szerinti független ellenőrző egység végez el.
+
+(2) A partnerkockázat kezelési rendszerének felülvizsgálata kiterjed:
+
+a) a partnerkockázat kezelési rendszer és eljárás dokumentáltságára,
+
+b) a partnerkockázat ellenőrző egység szervezeti felépítésére,
+
+c) a partnerkockázat értékelésnek a napi kockázatkezelésbe történő integráltságára,
+
+d) a front-office és a back-office által alkalmazott kockázati árazási modellek és értékelési rendszerek jóváhagyására vonatkozó eljárásra,
+
+e) a partnerkockázat értékelési eljárásban bekövetkezett jelentős – a kitettség érték szempontjából tíz százalékot meghaladó – változás jóváhagyására,
+
+f) a kockázatértékelési modell által lefedett partnerkockázatok körére,
+
+g) a vezetői információs rendszer integritására,
+
+h) a partnerkockázati adatok pontosságára és teljességére
+
+i) a modellek működtetésére felhasznált adatforrások konzisztenciájának, időszerűségének és megbízhatóságának – ideértve ezen adatforrások függetlenségét – értékelésére alkalmazott ellenőrzési eljárásra,
+
+j) a volatilitási és korrelációs feltételezések pontosságára és megfelelőségére,
+
+k) az értékelés és a kockázat átalakítására vonatkozó számítások pontosságára, és
+
+l) a modell pontosságának utólagos teszteléssel történő ellenőrzésére.
