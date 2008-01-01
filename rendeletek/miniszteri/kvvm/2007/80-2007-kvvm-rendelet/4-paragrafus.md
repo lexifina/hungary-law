@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Tisza-menti táj jellegzetes tájképi értékeinek és a területen előforduló, az ártérre jellemző természetes növénytársulásoknak (fűz-nyár ligeterdők, tölgy-kőris-szil ligeterdők) megőrzése, valamint a terület sajátos növény- és állatvilágának a megóvása.

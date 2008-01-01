@@ -1,0 +1,1 @@
+## 1. § Az Országos Környezet- és Természetvédelmi Hivatal elnökének 10/1978. OKTH számú határozatával védetté nyilvánított Tiszatelek-Tiszaberceli-ártér természetvédelmi terület védettségét fenntartom.
