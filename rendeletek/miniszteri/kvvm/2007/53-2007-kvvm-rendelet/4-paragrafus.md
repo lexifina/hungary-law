@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a terület természeti értékeinek: a földikutyának (Spalax leucodon) és a területen található egyéb védett állat- és növényfajoknak, élőhelyüknek, valamint a terület tájképi értékeinek a megőrzése.
