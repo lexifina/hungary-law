@@ -1,0 +1,5 @@
+21. § (1) Az Állami Számvevőszék megbízásából ellenőrzést végző személy a 2–5. §-ban, valamint a külön törvényekben felsorolt szerveknél vizsgálatot tarthat, iratokat és más dokumentációt kérhet. Azokba, valamint az informatikai eszközökkel kezelt adatnyilvántartó rendszerek adatállományába akkor is betekinthet, ha államtitkot, szolgálati titkot vagy egyéb titkot tartalmaznak, azokról másolatot, kivonatot készíthet. Az iratokat, valamint az adatnyilvántartó rendszerek adatállományait azonban – másolat készítése mellett – csak akkor foglalhatja le, ha büntető- vagy fegyelmi eljárás kezdeményezése indokolt, és az irat vagy adat megváltoztatásától, illetőleg megsemmisítésétől lehet tartani.
+
+(2) Az Állami Számvevőszék megbízásából ellenőrzést végző személy a vizsgált szerv bármely helyiségébe beléphet, annak bármely dolgozójától szóban vagy írásban felvilágosítást kérhet.
+
+(3) Ha a felmutatott okmányok hitelességének vagy teljességének megállapítása, illetőleg egyes vizsgálati megállapítások kiegészítése válik szükségessé, és ehhez más szervnél is ellenőrzést kell végezni, az Állami Számvevőszék ellenőre jogosult az összefüggő tényeket ott vizsgálni.
