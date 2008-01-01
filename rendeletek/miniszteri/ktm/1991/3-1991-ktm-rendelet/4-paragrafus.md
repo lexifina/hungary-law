@@ -1,0 +1,1 @@
+## 3. § A védetté nyilvánítás célja a kiemelkedően gazdag élővilággal rendelkező, nagy egyedszámmal előforduló növénytani értékek (kockásliliom, tőzike) élőhelyéül szolgáló erdő és az ezzel határos gyepterületek fennmaradásának biztosítása.

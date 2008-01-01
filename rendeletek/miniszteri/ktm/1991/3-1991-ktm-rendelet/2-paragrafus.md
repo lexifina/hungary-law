@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Lankóci-erdő Természetvédelmi Terület néven a Gyékényes határában lévő és a mellékletben felsorolt ingatlannyilvántartási helyrajzi számú összesen 676,9 hektár kiterjedésű területet.
