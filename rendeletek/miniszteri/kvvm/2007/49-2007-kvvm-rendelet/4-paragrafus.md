@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja az egykor a Nyírség nagy részét borító erdőtársulások legnagyobb egybefüggő maradványerdejének, az itt előforduló növénytársulásoknak (nyírlápok, rekettyefüzesek, vízkedvelő tölgy-kőris-szil ligeterdők, homoki tölgyesek, homokpusztagyep-társulások) és a rendkívül változatos formakincsű terület sajátos növény- és állatvilágának a megóvása.
