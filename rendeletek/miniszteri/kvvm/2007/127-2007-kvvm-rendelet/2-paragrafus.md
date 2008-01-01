@@ -1,0 +1,1 @@
+## 1. § Az Országos Környezet- és Természetvédelmi Hivatal elnökének 14/1978. OKTH számú határozatával fokozottan védetté nyilvánított Csólyospálosi földtani feltárás természetvédelmi terület védettségét fenntartom.
