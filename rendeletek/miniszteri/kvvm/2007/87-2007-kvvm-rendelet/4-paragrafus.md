@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a terület természetes élőhelyeinek (összefüggő erdőségek és vízjárta, mocsaras völgyek), növénytársulásainak, az itt található védett és fokozottan védett növény- és állatfajoknak a megőrzése, valamint a földtani- és felszínalaktani természeti értékek, kultúrtörténeti értékek és a jellegzetes tájképi adottságok megóvása.
