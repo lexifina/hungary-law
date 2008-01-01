@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a műemlék Zádor híd természeti környezetének, a szikes pusztai legelő növénytársulásainak (szikes legelő, szikpusztai gyeptársulás) és a területen előforduló védett növény- és állatfajoknak a megőrzése.
