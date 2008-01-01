@@ -1,0 +1,5 @@
+5. § (1) A 2. cím, 3. alcím, 1. előirányzat-csoport gyógyító-megelőző ellátások előirányzat előirányzat-módosítási kötelezettség nélkül a 12. kiemelt előirányzat, a tartós megtakarítást eredményező kapacitásleépítéssel vagy belső átalakítással együttjáró létszámleépítéssel összefüggő felmentéssel, végkielégítéssel kapcsolatban kifizetett összegek előirányzatot meghaladó többletével teljesülhet túl.
+
+(2) A 2. cím, 3. alcím, 1. előirányzat-csoport tartalmazza az E. Alapból finanszírozott egészségügyi ellátások személyi juttatásait és járulékait — ideértve a 13. havi illetményt a költségvetési rend szerint gazdálkodó egészségügyi intézményeknél, valamint az ügyeleti díj és díjkiegészítés tárgyévi kiadásait — és a dologi kiadásokat.
+
+(3) A 2. cím, 3. alcím, 1. előirányzat-csoport gyógyító-megelőző előirányzaton belül a kiemelt előirányzatok között — ide nem értve a 12. felmentéssel, végkielégítéssel járó kiadások és a 14. gyógyító-megelőző ellátások kiadási előirányzatának céltartalékát — az egészségügyi miniszter a társadalombiztosítási igazgatási szerveket felügyelő személlyel együtt átcsoportosíthat.

@@ -1,0 +1,1 @@
+15. § A társadalombiztosítási igazgatási szervek működését szolgáló, a 7. számú mellékletben részletezett, az ingyenes vagyonjuttatás keretében átadott ingatlanok e törvény hatálybalépésének napjától a működési vagyon részét képezik.

@@ -1,0 +1,3 @@
+22. § A T. 30. §-a helyébe a következő rendelkezés lép:
+
+30. §,, A egyes finanszírozási technikák bevezetésének előkészítése céljából az Egészségügyi Minisztérium szakmai-fejlesztési programjában részt vevő egészségügyi szolgáltatók szerződés szerinti finanszírozása mellett az OEP az egészségügyi miniszter felkérése alapján ellátja a szakmai programmal kapcsolatos, a finanszírozási rendszerhez történő illesztés lehetőségét biztosító elemzési, adatkezelési és adatszolgáltatási feladatokat is.''
