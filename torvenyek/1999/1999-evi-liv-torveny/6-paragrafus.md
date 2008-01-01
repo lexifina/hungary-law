@@ -1,0 +1,3 @@
+6. § (1) A magyar együttműködő szervnek a NEBEK útján történő adatszolgáltatás kezdeményezésekor közölnie kell az adat- vagy információszolgáltatás célját, az adat törlésére, megsemmisítésére vonatkozó szabályokat, illetőleg a tájékoztatási és helyesbítési (törlési) jog gyakorlásával kapcsolatos korlátozásokat.
+
+(2) A magyar együttműködő szerv által nemzetközi bűnügyi együttműködés céljából létrehozott szervezet és nemzeti egységei, valamint a bűnüldöző szervek együttműködését szabályozó két- és többoldalú nemzetközi szerződés által érintett állam részére szolgáltatott információn, adaton – a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet, illetve a másik állam követelményeinek megfelelően – fel kell tüntetni az információ felhasználhatóságát.

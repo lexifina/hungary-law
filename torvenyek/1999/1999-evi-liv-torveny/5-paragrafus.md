@@ -1,0 +1,3 @@
+5. § (1) A NEBEK a nemzetközi megkeresés alapján köteles és jogosult az általa beszerzett adatot – beleértve a titkos információgyűjtéssel érintett személyes adatot és információt is – külön törvényben, az Európai Unió jogi aktusában vagy a nemzetközi szerződésben meghatározottak szerinti biztonsági előírásoknak megfelelő távadat-átviteli hálózat igénybevételével vagy a külföldre telepített összekötője útján továbbítani a megkereső nemzetközi szervezethez.
+
+(2) A NEBEK köteles az (1) bekezdés alapján továbbított adatot adatvédelmi ellenőrzés céljából rögzíteni és azt hat hónapig megőrizni. Az így tárolt adatot az ellenőrzés lefolytatása után legkésőbb 30 nap elteltével törölni kell.
