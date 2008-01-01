@@ -1,0 +1,1 @@
+## 1. § Az Országos Környezet- és Természetvédelmi Hivatal elnökének 5/1984. (XII. 13.) OKTH számú rendelkezésével védetté nyilvánított Tiszadorogmai Göbe-erdő természetvédelmi terület védettségét fenntartom.

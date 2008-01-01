@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a morotvatóvá alakult egykori Tisza mellékág tájképi értékének és értékes ártéri növénytársulásainak (galériaerdők, láprétek, bokorfüzesek) megóvása, valamint a terület védett növény- és állatfajainak a megőrzése.
