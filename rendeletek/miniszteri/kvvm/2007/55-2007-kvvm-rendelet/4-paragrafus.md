@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja Jókai Mór, a magyar irodalom kiemelkedő alakja egykori kertjének és az abban található kultúrtörténeti emlékek megőrzése és látogatásra alkalmassá tétele, az itt található dendrológiai és esztétikai értéket képviselő faegyedek és egyéb növények, valamint a sajátos tájképi adottságok megóvása.
