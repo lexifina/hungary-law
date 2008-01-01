@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a terület növénytársulásainak, különösen a pusztagyep társulások védett, illetve fokozottan védett növényfajainak a megóvása, a Szent Anna-tó fennmaradásának biztosítása, valamint a terület gazdag lepkefaunájának a megőrzése.
