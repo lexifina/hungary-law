@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Szelidi-tó és környezete jellegzetes tájképének, valamint a terület különleges élővilágának megőrzése, a régészeti szempontból jelentős, településtörténeti emlékekben gazdag Várdomb megóvása.
