@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a melegkedvelő és szárazságtűrő homokpusztagyep és pusztai tölgyes társulásokban honos védett, illetve fokozottan védett növényritkaságok védelme és élőhelyük természetes állapotában való fenntartása, a borókás-nyáras társulás adta sajátos tájképi jelleg megőrzése.
