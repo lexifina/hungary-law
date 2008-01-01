@@ -1,0 +1,3 @@
+37. § A KTv. 72. §-ának (10) bekezdése helyébe a következő rendelkezés lép:
+
+,,(10) A Kjt. végrehajtásával kapcsolatos támogatás igénybevételéről az éves költségvetési beszámolóban el kell számolni. Nem illeti meg a helyi önkormányzatokat az év közben önkormányzati körön kívülre történő feladatátadásból adódó, a központi költségvetési szerveket az évközi központi feladat-megszüntetéssel vagy feladatátadással járó létszámcsökkentéshez kapcsolódó támogatás, ezért annak összegét a központi költségvetésbe az elszámolás alapján — legkésőbb az 1994. évi zárszámadást követően — vissza kell fizetni.''

@@ -1,0 +1,1 @@
+44. § Az Országgyűlés felhatalmazza a Kormányt, hogy az 1995. évre vonatkozó költségvetési törvényjavaslatot — az Áht. 52. § (1) bekezdésében foglalt rendelkezés egyszeri jellegű feloldásával — 1994. október 31-ig terjessze az Országgyűlés elé.

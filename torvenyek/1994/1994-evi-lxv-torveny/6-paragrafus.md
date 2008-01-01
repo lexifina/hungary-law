@@ -1,0 +1,3 @@
+6. § A KTv. 6. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+,,(5) Az Állami Vagyonügynökség működésével és az állami vagyon privatizációjával összefüggő közvetlen és közvetett kiadások, továbbá a jótállással, szavatossággal, kezességvállalással kapcsolatos kiadások fedezete az állami vagyon privatizációjából származó, a központi költségvetésbe az (1) és (2) bekezdésben foglaltakon felül bevont 22 800 millió forint bevétel. Ebből a működési költségvetés előirányzata 1800 millió forint, a privatizációval összefüggő közvetlen és közvetett kiadások előirányzata 8500 millió forint, a jótállással, szavatossággal, kezességvállalással kapcsolatos kiadások előirányzata 12 500 millió forint.''

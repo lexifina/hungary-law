@@ -1,0 +1,3 @@
+16. § Az Áfa tv. 67. §-ának helyébe a következő rendelkezés lép:
+
+,,67. § A statisztikai besorolási számra való hivatkozással meghatározott termékek (építmények) és szolgáltatások vonatkozásában a Központi Statisztikai Hivatal Ipari Termékek Jegyzékének (ITJ), Mezőgazdasági és Erdészeti Termékek Jegyzékének (METJ), Számítástechnika-alkalmazási Termékek Jegyzékének (SZATJ), Építményjegyzékének (ÉJ), valamint Szolgáltatások Jegyzékének (SZJ) az 1994. év június hónap 15. napján érvényes besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követő (időközi) változása az adókötelezettséget nem változtatja meg.''

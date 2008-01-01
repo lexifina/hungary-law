@@ -1,0 +1,1 @@
+11. § Az Országgyűlés utasítja a Kormányt, hogy a Magyar Köztársaság 1993. évi költségvetéséről szóló 1992. évi LXXX. törvény 39. § a) pontjában szereplő — 23 milliárd forint összegű — kötvények kibocsátását függessze fel.
