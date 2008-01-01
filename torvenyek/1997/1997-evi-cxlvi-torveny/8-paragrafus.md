@@ -1,0 +1,19 @@
+8. § (1) A központi költségvetési szerv vagyonkezelésében lévő ingatlan értékesítésének ellenértékéből ki kell egyenlíteni a központi költségvetési szerv köztartozását. Az ezt követően fennmaradó összegből a költségvetési szerv felügyeletét ellátó szerv vezetőjének javaslatára a pénzügyminiszter határozza meg jogcímenként az építési beruházásra, ingatlanvásárlásra, felújításra és rekonstrukcióra felhasználható összeget. A köztartozás megfizetése után a köztartozás mértékét és az értékesítés költségének az összegét meghaladó bevételhányad legalább 50%-a a központi költségvetési szervet illeti meg.
+
+(2) Az (1) bekezdésben foglaltak nem vonatkoznak a Honvédelmi Minisztériumra, amely a vagyonkezelésében lévő ingatlan értékesítésének ellenértékét – köztartozásai kiegyenlítését követően – teljes egészében az (1) bekezdésben meghatározott jogcímekre felhasználhatja.
+
+(3) A Népjóléti Minisztérium kormányzati beruházási céljainak megvalósítása érdekében a fejezetnél lévő egészségügyi intézmények ingatlanhasznosításából befolyó ellenértéknek megfelelő összeggel – legfeljebb 1500 millió forint értékhatárig – az egészségügyi intézmények köztartozásainak kiegyenlítését követően az egészségügy felhalmozási céljaira szolgáló előirányzatain belül a 9. cím, 1. alcím, 2. előirányzat-csoport kiemelt előirányzatait a népjóléti miniszter megemelheti.
+
+(4) A központi költségvetési szervek az (1)–(3) bekezdésben meghatározott értékesítésből befolyt és az általuk felhasználható ellenérték összegével – amennyiben azt nem tervezték meg – a kiadási és bevételi előirányzatukat növelhetik.
+
+(5) A bevételeknek az (1) és (3) bekezdésben meghatározott hányadot meghaladó része a központi költségvetés központosított bevételét képezi.
+
+(6) A központi költségvetési szerv a használatában, illetve a kezelésében lévő és a feladatai ellátásához feleslegessé váló gépeket, felszereléseket, járműveket 10 millió forint egyedi könyv szerinti bruttó értékhatárig saját hatáskörben, 10 millió forint felett a kincstári vagyon értékesítésére vonatkozó szabályok szerint értékesítheti. Az értékesítésből származó bevétel összegével – amennyiben azt nem tervezték meg – az intézményi dologi kiadások és felhalmozási kiadások előirányzatai saját hatáskörben növelhetők.
+
+(7) Az Áht. 108. §-a (3) bekezdésében foglaltak alkalmazása során a kisösszegű követelés értékhatára 10 000 forint.
+
+(8) A kincstári vagyonnak a központi költségvetési szervek közötti, vagy a költségvetési szerv, illetve szervezeti egysége megszüntetése esetén a feladatait ellátó szervezet részére történő bérbeadásánál az Áht. 108. §-ának (1) bekezdését nem kell alkalmazni.
+
+(9) A Kormány felhatalmazást kap arra, hogy – a Magyar Honvédség szervezeti átalakulásával összhangban – a Honvédelmi Minisztérium vagyonkezelésében lévő, feleslegessé váló ingatlanok – elsősorban szociális, kulturális, oktatási és foglalkoztatáspolitikai célú – hasznosítására eseti döntést hozzon, amennyiben az ingatlan nyilvános versenytárgyaláson történő értékesítése eredménytelen volt. E döntés vonatkozhat az ingatlan térítésmentes, illetve kedvezményes önkormányzati tulajdonba adására is. Az így sem hasznosítható ingatlanokat az esetleges veszélyhelyzet elhárítása után a KVI részére – megállapodás alapján, térítésmentesen – át kell adni. Az átadást 1999. december 1-jéig kell befejezni.
+
+(10) A XVII. Közlekedési, Hírközlési és Vízügyi Minisztérium fejezet, 13. cím, 3. alcím, 17. előirányzat-csoport ,,Vasúti létszámkiváltás és vasúthálózat racionalizálás miatti műszaki fejlesztés'' előirányzat-csoport 1500 millió forint előirányzatát a MÁV Rt. veheti igénybe abban az esetben, ha a társaságon belüli egyes szervezeti egységeknél végrehajtott létszámcsökkentés műszaki fejlesztéssel oldható meg. Ennek igénybevételére a MÁV Rt. által dokumentált, a közlekedési, hírközlési és vízügyi miniszter és a pénzügyminiszter által együttesen jóváhagyott feltételek, illetve adatok alapján kerülhet sor.

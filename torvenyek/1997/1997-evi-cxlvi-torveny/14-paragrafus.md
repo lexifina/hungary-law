@@ -1,0 +1,7 @@
+14. § (1) A központi költségvetési szervként működő felsőoktatási intézményeket az általuk ellátott közoktatási feladatokra az e törvény 3. számú és 8. számú mellékleteiben megállapított, a helyi önkormányzatok normatív állami hozzájárulásával azonos jogcímeken és feltételek mellett normatív állami hozzájárulás, gyakorlóintézmények esetén ennek kétszeres összege illeti meg, kivéve a 3. számú melléklet 23. c)–e) pontjában meghatározottakat. Nem vonatkoznak rájuk a 3. számú melléklet kiegészítő szabályainak 1. l), p), valamint 2–5. pontjai.
+
+(2) A közoktatási feladatot ellátó központi költségvetési szerv a létszámjelentésben szereplő feladatmutatók alapján az intézményi költségvetésben meglévő és az (1) bekezdésben meghatározott normatíva alapján járó támogatás különbözetét a felügyeletét ellátó fejezettől igényelheti.
+
+(3) A közoktatási feladatot ellátó központi költségvetési szerv a január 1-jei és a szeptember 1-jei létszámáról január 15-éig, illetve szeptember 15-éig köteles adatszolgáltatást teljesíteni. A fenntartó a tényleges, a tanügyi okmányok alapján dokumentált feladatmutatók szerint jogosult a normatív hozzájárulás igénybevételére.
+
+(4) A (1) bekezdésben meghatározott normatív támogatás elszámolása – a zárszámadás keretében – a költségvetési év súlyozott számtani átlaglétszáma alapján történik. A súlyozott átlaglétszám kiszámításánál a tárgyévi január 1-jei létszámot 8 hónapra, a szeptember 1-jei létszámot 4 hónapra kell figyelembe venni.

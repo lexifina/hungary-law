@@ -1,0 +1,3 @@
+34/A. § (1) Az Országgyűlés felhatalmazza a Kormányt, hogy a 33. §-ban foglaltakon túl a Postabank és Takarékpénztár Rt. biztonságos működési feltételeinek megteremtését célzó intézkedések keretében a központi költségvetés terhére – szükség esetén – legfeljebb 71 000 millió forint összegben kezességet vállaljon.
+
+(2) A kezesség beváltását követően a pénzügyminiszter – a tartozás eredeti kötelezettjének adatszolgáltatása alapján – köteles az Országgyűlésnek tételesen beszámolni a kezesség összegének szükségessé vált nagyságáról, annak felhasználásáról és a központi költségvetésből kifizetett összeg adók módjára történő behajtását biztosító intézkedésekről.

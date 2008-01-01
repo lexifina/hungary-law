@@ -1,0 +1,1 @@
+48. § A Magyar Nemzeti Üdülési Alapítvány által kibocsátható üdülési csekkek értékének felső határa 1998-ban 5000 millió forint, amely az alapítvány részére az inaktív rétegek üdülési támogatására biztosított céltámogatás résszel túlléphető.

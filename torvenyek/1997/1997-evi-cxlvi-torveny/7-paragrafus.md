@@ -1,0 +1,9 @@
+7. § (1) A szovjet csapatkivonás révén felszabadult ingatlanok hasznosítása esetén a ráfordításokkal csökkentett (nettó) készpénzbevétel felerészben az illetékes települési önkormányzatot – ezen belül Budapesten 50-50%-ban a fővárosi, illetve a kerületi önkormányzatot – illeti meg, felerészben pedig a központi költségvetés központosított bevételét képezi.
+
+(2) Az (1) bekezdésben említett ráfordításnak az őrzés-védelemmel, az állagmegóvással, a kártalanítással, az értéknövelő beruházásokkal, a környezetvédelmi károk elhárításával, a tűzszerészeti mentesítéssel, valamint az értékesítéssel kapcsolatos költségeket kell tekinteni.
+
+(3) Az Országgyűlés felhatalmazza a Kormányt, hogy az ÁPV Rt. vagyonkezelésében lévő, nem értékesíthető ingatlanokat, valamint a volt szovjet laktanyákat illetően – foglalkoztatáspolitikai, szociálpolitikai, ifjúságpolitikai, iparfejlesztési célok megvalósításának elősegítésére – eseti döntést hozzon azok térítésmentes helyi önkormányzati tulajdonba adásáról.
+
+(4) A Magyar Állam tulajdonában és az ÁPV Rt. vagyonkezelésében lévő ingatlanok közül, a Budapest XI. kerület, belterületi, 6420-as tulajdoni lapon szereplő 4197/2. helyrajzi számú ingatlan E-3 számú ingatlanrészéből a priv. tv. 35. § c) pontjában foglaltakra tekintettel térítésmentesen adja át a Kincstári Vagyoni Igazgatóság (a továbbiakban: KVI) részére az ingatlan raktárhelyiség céljára szolgáló állami tulajdonú részét. Az ÁPV Rt.-től átvett ingatlanrészre a KVI a térítésmentes vagyonkezelésre vonatkozó szerződést a Miniszterelnöki Hivatallal köti meg. A Miniszterelnöki Hivatal az ingatlanrészt – a Kormány döntésének megfelelően – kizárólag az országos állami tervdokumentációs irattár és adattár működtetési céljaira jogosult felhasználni.
+
+(5) A (4) bekezdésben foglaltak tekintetében az ÁPV Rt. gondoskodik arról, hogy a nevezett ingatlanrész per- és tehermentesen 1998. december 31-ig a KVI részére átadásra kerüljön.

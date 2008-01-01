@@ -1,0 +1,3 @@
+93. § (1) Az elkülönített állami pénzalapok, a fejezeti kezelésű előirányzatok, a 6. § (9) bekezdésében meghatározott privatizációs bevételek, valamint a 17. § (1) bekezdés f)–g) pontjaiban meghatározott támogatási előirányzatok terhére nyújtható fejlesztési célú központi, illetve decentralizált döntési körbe tartozó támogatások pályázati felhívásait legkésőbb 1998. február 28-ig közzé kell tenni.
+
+(2) Az (1) bekezdésben meghatározott előirányzatok fejlesztési célú támogatási rendszereinek döntés-előkészítési és döntéshozatali eljárásrendjét úgy kell kialakítani, hogy az új induló fejlesztések tekintetében az első támogatási döntések legkésőbb 1998. május 31-ig meghozhatók legyenek.
