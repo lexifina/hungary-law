@@ -1,0 +1,1 @@
+## 2. § A Soproni Tájvédelmi Körzet kiterjedése 5000,9 ha, ingatlan-nyilvántartási helyrajzi számait az 1. számú melléklet, fokozottan védett területének ingatlan-nyilvántartási helyrajzi számait a 2. számú melléklet tartalmazza.

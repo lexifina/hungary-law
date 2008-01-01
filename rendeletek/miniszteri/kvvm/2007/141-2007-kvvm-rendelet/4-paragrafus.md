@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja terület jellegzetes tájképi és természeti adottságainak, földtani és felszínalaktani természeti értékeinek, növénytársulásainak, növény- és állatfajainak megőrzése, a területen található törtélelmi, kultúrtörténeti értékek megóvása.
