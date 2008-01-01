@@ -1,0 +1,3 @@
+8. § A Btk. 289. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A büntetés bűntett miatt az (1) bekezdés esetén három évig, a (4) bekezdés esetén öt évig terjedő szabadságvesztés, ha a cselekményt pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény körében követik el.”
