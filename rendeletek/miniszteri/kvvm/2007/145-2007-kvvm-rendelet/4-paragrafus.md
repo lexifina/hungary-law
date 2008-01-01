@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Tisza ártere jellegzetes arculatának, a holtágaknak, nádasoknak, ártéri erdőknek, illetve ezen élőhelyek természetes növény- és állatvilágának megőrzése (különös tekintettel a területen található tölgy-kőris-szil keményfa ligeterdőre), a védett madarak háborítatlan fészkelő- és táplálkozóhelyének, vonulásának biztosítása.
