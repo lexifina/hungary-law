@@ -1,0 +1,1 @@
+Az egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről szóló 2007. évi LXXXII. törvény 6. § (5) bekezdésében a környezetvédelmi és vízügyi miniszter feladat- és hatásköréről szóló 165/2006. (VII. 28.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
