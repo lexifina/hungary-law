@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen fellelhető pannon flóra és fauna megmentése és élőhelyeinek biztosítása különös tekintettel a szártalan csűdfüvön élő fóti boglárkára (Plebejus sephirus), ami a Somlyón kívül csak Bulgária egyes vidékein található meg.
