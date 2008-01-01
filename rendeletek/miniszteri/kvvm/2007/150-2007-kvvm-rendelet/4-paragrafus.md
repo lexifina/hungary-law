@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a terület természeti és tájképi adottságainak, a vulkáni tevékenység következtében kialakult felszínformáknak, valamint az erdők és gyepek természetes növény- és állatvilágának megőrzése, a területen található kultúrtörténeti értékek megóvása.

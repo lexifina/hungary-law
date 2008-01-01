@@ -1,0 +1,1 @@
+## 2. § A Kelet-cserháti Tájvédelmi Körzet kiterjedése 7425 ha, ingatlan-nyilvántartási helyrajzi számait az 1. számú melléklet, fokozottan védett területének helyrajzi számait a 2. számú melléklet tartalmazza.
