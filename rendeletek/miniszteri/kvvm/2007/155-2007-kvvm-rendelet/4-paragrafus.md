@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Darnó-hegy oldalában található tó és a rajta kialakult, tőzegmohákból álló speciális, ún. átmeneti láp vegetációtípus megőrzése, valamint a terület természetes növény- és állatvilágának megóvása.
