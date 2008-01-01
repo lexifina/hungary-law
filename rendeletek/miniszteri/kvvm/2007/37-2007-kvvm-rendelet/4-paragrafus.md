@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található homokpusztai gyeptársulások védett, illetve fokozottan védett, ritka növényfajainak megóvása, valamint a növénytársulásokhoz kapcsolódó állatvilág megőrzése.
