@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a terület természeti és kulturális értékeinek, így különösen a földtani képződményeknek, a xerotherm növényzetnek, a védett állatfajoknak, a hagyományos szőlőművelési kultúrának, a bányászat és a geofizikai kutatások emlékeinek megőrzése.
