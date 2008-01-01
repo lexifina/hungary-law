@@ -1,0 +1,7 @@
+92. § (1) A független jelöltek, illetőleg a jelölő szervezetek a választásra a 91. §-ban foglalt költségvetési támogatáson felül jelöltenként legfeljebb egymillió forintot fordíthatnak. A figyelembe vehető jelöltek számát a 91. § (2) bekezdése szerint kell megállapítani.
+
+(2) Minden jelölő szervezetnek és független jelöltnek a választás második fordulóját követő 60 napon belül a Magyar Közlönyben nyilvánosságra kell hoznia a választásra fordított állami és más pénzeszközök, anyagi támogatások összegét, forrását és felhasználásának módját.
+
+(3) A választásra fordított állami és más pénzeszközök felhasználását az Állami Számvevőszék a választás második fordulóját követő egy éven belül az országgyűlési képviselethez jutott jelölő szervezetek és független jelöltek tekintetében hivatalból, egyéb jelölő szervezetek és független jelöltek tekintetében más jelölt, jelölő szervezet kérelmére ellenőrzi. Az ellenőrzés iránti kérelmet a választás második fordulóját követő 3 hónapon belül lehet benyújtani. A kérelemhez bizonyítási indítványt kell csatolni.
+
+(4) Az a jelölő szervezet, illetőleg független jelölt, amely, illetőleg aki az (1) bekezdésben foglalt szabályt megsértette, köteles a túllépés értékének kétszeresét 15 napon belül a központi költségvetés részére befizetni, és azt az első választók felkészítésére kell felhasználni. Késedelem esetén a tartozást adók módjára kell behajtani.

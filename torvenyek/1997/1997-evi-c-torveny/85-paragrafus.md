@@ -1,0 +1,1 @@
+85. § A jelen fejezetben foglalt rendelkezéseket alkalmazni kell a névjegyzék összeállításával, a médiakampánnyal, valamint az eredmény megállapításával kapcsolatos jogorvoslatokra is, a 20/E. §-ban, a 44/A. §-ban, illetőleg a 73. §-ban foglalt eltérésekkel.

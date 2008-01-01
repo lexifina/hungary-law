@@ -1,0 +1,1 @@
+123. § A népszavazáson a névjegyzéket a szavazás napja előtt 18 nappal kell közszemlére tenni. A választópolgárokat a névjegyzékbe vételükről legkésőbb a szavazás napja előtti 16. napig kell értesítő megküldésével tájékoztatni.

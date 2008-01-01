@@ -1,0 +1,3 @@
+64. § (1) A szavazatszámláló bizottság az urnák állapotát az elsőként szavazó választópolgár – aki a szavazatszámláló bizottság tagja nem lehet – jelenlétében a szavazás megkezdése előtt megvizsgálja. A vizsgálat eredményét fel kell tüntetni a szavazási jegyzőkönyvben.
+
+(2) Az urnákat az elsőként szavazó választópolgár jelenlétében úgy kell lezárni, hogy azokból az urna szétszedése nélkül ne lehessen szavazólapot eltávolítani. Ezt követően a szavazatszámláló bizottság az urnába ellenőrző lapot helyez, amely tartalmazza az ellenőrző lap elhelyezésének időpontját, valamint a szavazatszámláló bizottság jelen levő tagjainak és az elsőként szavazó választópolgárnak az aláírását.

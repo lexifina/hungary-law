@@ -1,0 +1,3 @@
+93. § (1) Az országos közszolgálati műsorszolgáltatók az országos listát állító jelölő szervezetek, a körzeti közszolgálati műsorszolgáltatók a vételkörzetükben területi listát állító jelölő szervezetek, a helyi közszolgálati műsorszolgáltatók a vételkörzetükben induló egyéni választókerületi jelöltek politikai hirdetéseit a szavazást megelőző 18. naptól legkésőbb a szavazást megelőző 3. napig legalább egyszer ingyenesen közlik.
+
+(2) A választási kampány utolsó napján az (1) bekezdésben megjelölt műsorszolgáltatók az (1) bekezdésben meghatározottak szerint, ingyenesen közzéteszik a jelölő szervezetek, illetőleg jelöltek által készített politikai hirdetéseket.

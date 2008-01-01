@@ -1,0 +1,1 @@
+144. § A szavazatszámláló bizottságba és a helyi, illetőleg fővárosi vagy megyei ügyben a területi választási bizottságba a kezdeményezést benyújtók választási bizottságonként egy közös megbízottat, továbbá a kezdeményezés benyújtásában részt nem vevő, de a képviselő-testületben képviselőcsoporttal rendelkező jelölő szervezetek egy-egy megbízottat delegálhatnak.

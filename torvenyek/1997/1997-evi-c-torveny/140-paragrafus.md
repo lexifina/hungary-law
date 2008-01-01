@@ -1,0 +1,1 @@
+140. § Ha a népszavazás elrendelésére irányuló állampolgári kezdeményezést késve nyújtották be, vagy az aláírások ellenőrzésének eredményeként a helyi, illetőleg a területi választási bizottság azt állapította meg, hogy az érvényes aláírások száma nem éri el az önkormányzati rendeletben meghatározott számot, a kezdeményezést a polgármester elutasítja.
