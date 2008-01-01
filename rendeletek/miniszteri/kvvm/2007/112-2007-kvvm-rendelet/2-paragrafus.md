@@ -1,0 +1,1 @@
+## 1. § Az egyes természeti területek védetté nyilvánításáról és tájvédelmi körzetek létesítéséről szóló 3/1989. (II. 22.) KVM rendelettel védetté nyilvánított Nemesmedves történelmi emlékhely természetvédelmi terület védettségét fenntartom.
