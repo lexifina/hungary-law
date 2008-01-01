@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a dél-somogyi tájra jellemző fás legelő és az ott található idős, hatalmas termetű faegyedek, valamint a savanyú homoktalajon honos növénytársulások védelme és élőhelyük természetes állapotban való fenntartása.
