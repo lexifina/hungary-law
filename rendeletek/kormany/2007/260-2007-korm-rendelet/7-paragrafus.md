@@ -1,0 +1,5 @@
+7. § (1) Ha a 6. § (1) bekezdésének a)–b) pontja szerinti adatok a működési engedély módosítása, illetve ismételt kiadása miatt megváltoznak, a fenntartó köteles azt a miniszternek bejelenteni. A kérelemben meg kell jelölni a Magyar Államkincstár normatív állami hozzájárulás folyósítására illetékes igazgatóságát, és csatolni kell a működési engedélyt módosító, illetve ismételten kiadó határozat másolatát.
+
+(2) A miniszter az (1) bekezdésben foglaltaknak megfelelően benyújtott kérelem alapján a korábbi határozatát visszavonja, és érdemi vizsgálat nélkül az új adatoknak megfelelő határozatot hoz.
+
+(3) A befogadást a miniszter visszavonja, és a fenntartót kötelezi a 2008. évre a befogadás alapján igénybe vett normatív állami hozzájárulás – a visszafizetéskor érvényes jegybanki alapkamat kétszeresével növelt – összegének visszafizetésére, ha a fenntartó a kérelmében vagy a kérelemhez csatolt iratokban szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében az új szolgáltatás, illetve férőhely nem került volna befogadásra.
