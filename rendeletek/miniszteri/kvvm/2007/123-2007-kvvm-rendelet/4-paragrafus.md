@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a rétisas (Haliaetus albicilla.) fészkeléséhez és tartózkodásához szükséges természeti feltételek biztosítása, valamint a területre jellemző láperdők és egyéb növénytársulások megőrzése.
