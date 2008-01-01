@@ -1,0 +1,1 @@
+## 2. § A Dinnyési-fertő természetvédelmi terület kiterjedése 529,9 ha, ingatlan-nyilvántartási helyrajzi számait az 1. számú melléklet, fokozottan védett területének helyrajzi számait a 2. számú melléklet tartalmazza.
