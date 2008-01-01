@@ -1,0 +1,1 @@
+Az Országgyűlés az állami és a közfeladatok zavartalan ellátásának biztosítása érdekében az adatok nyilvánosságának a legszükségesebb mértékű korlátozására tekintettel az államtitokról és a szolgálati titokról a következő törvényt alkotja:
