@@ -1,0 +1,1 @@
+A törvény célja a gazdasági hatékonyság javítása, a piaci és a versenyviszonyok kibontakoztatása érdekében annak előmozdítása, hogy a magánvállalkozás meghatározóvá váljon a kiskereskedelemben, a vendéglátóipar és a fogyasztási szolgáltatások területén. Ezért az Országgyűlés a következő törvényt alkotja.

@@ -1,0 +1,3 @@
+8. § (1) Az Állami Privatizációs és Vagyonkezelő Részvénytársaság az üzletet az egyéni vállalkozásról szóló 1990. évi V. törvényben meghatározott feltételeknek megfelelő természetes személy, illetve a kizárólag ezek részvételével működő gazdasági munkaközösség, betéti társaság vagy korlátolt felelősségű társaság (a továbbiakban együtt: vállalkozó) részére értékesíti.
+
+(2) Az üzlet értékesítése esetén az áru- és göngyölegkészletek kivételével a vállalat kezelésében volt eszközök — ideértve az ingatlannyilvántartásban önálló ingatlanként bejegyzett üzlethelyiséget is — a vállalkozó tulajdonába kerülnek.
