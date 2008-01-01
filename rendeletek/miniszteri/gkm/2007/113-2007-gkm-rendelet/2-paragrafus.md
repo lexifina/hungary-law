@@ -1,0 +1,1 @@
+## 1. § A rendelet alkalmazási köre kiterjed a légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 66/A. § (1) bekezdésében meghatározott bírság kivetésére és felhasználásának rendjére.
