@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Kállósemjén mellett található egykori folyóvölgyben kialakult természetes növénytársulásoknak (ingóláp, égeres fűzláp) megőrzése, valamint a terület sajátos növény- és állatvilágának a megóvása.
