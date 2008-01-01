@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található természetes szikesek és löszgyepek, az itt élő védett növény- és állatfajok megőrzése, a szik jellegzetes formakincsének, valamint a pusztai tájkép megóvása és fenntartása, a madárvonulások zavartalanságának biztosítása.
