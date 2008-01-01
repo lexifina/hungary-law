@@ -1,0 +1,1 @@
+A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Tv.) 38. § (2) bekezdésében kapott felhatalmazás alapján — az érdekelt miniszterekkel egyetértésben — a következőket rendeljük:
