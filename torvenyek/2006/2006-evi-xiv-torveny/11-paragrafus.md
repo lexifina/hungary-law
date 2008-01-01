@@ -1,0 +1,1 @@
+11. § E törvény 2. §-a szerinti Egyezmény – e törvény 6. §-a és a 8. §-a szerinti Jegyzőkönyvekkel módosított – 2. cikkében és az ehhez csatolt mellékletben meghatározott bűncselekmények a Büntető Törvénykönyvről szóló 1978. évi IV. törvény értelmében e törvény mellékletében meghatározott bűncselekményeknek felelnek meg.

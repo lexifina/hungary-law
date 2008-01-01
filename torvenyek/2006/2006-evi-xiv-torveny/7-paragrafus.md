@@ -1,0 +1,1 @@
+7. § Az Országgyűlés az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 1995. július 26-án kelt Egyezmény (Europol Egyezmény) 43. Cikkének (1) bekezdése alapján az Egyezményt módosító, 2003. november 27-én kelt Jegyzőkönyvet e törvénnyel kihirdeti.
