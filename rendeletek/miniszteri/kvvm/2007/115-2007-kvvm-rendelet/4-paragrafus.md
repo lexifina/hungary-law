@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található földvár és a Szt. László király által 1091-ben alapított Szt. Egyed apátság és erődített kolostoregyüttes maradványait övező természeti környezet megőrzése.
