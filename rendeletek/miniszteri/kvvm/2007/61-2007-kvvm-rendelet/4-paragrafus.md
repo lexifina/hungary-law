@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található esztétikai és természettudományi szempontból rendkívül értékes növénygyűjtemény megőrzése, valamint az élővilág természetközeli életfeltételeinek biztosítása.
