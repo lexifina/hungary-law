@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található lefejtett bauxitlencsében a bányászat során feltárt földtani és felszínalaktani természeti értékek megőrzése, a magyarországi bauxit-előfordulásokat jól reprezentáló feltárás megóvása.
