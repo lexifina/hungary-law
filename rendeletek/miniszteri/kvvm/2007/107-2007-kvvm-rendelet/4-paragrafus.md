@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Bakonyra jellemző természetes bükkös erdőtípusok védelme és fenntartása, azok kiváló genetikai tulajdonságainak megőrzése, valamint zavartalan természeti környezet biztosítása a hosszú időtartamú ökoszisztéma-kutatások és erdészeti kísérletek számára.
