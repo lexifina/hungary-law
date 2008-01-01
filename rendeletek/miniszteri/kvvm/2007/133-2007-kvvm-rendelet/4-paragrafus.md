@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található, homokra jellemző formakincs és az ott kialakult élőhelyek természetes növénytársulásainak (például homokpusztagyepek) és állatvilágának megóvása.
