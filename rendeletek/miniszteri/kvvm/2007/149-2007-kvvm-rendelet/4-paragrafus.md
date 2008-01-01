@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a terület világviszonylatban is egyedülálló őslénytani leletegyüttesének és a feltárások természeti környezetének megóvása, a természetvédelmi célú bemutatás, valamint további feltáró kutatások zavartalan feltételeinek biztosítása.
