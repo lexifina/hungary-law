@@ -1,0 +1,1 @@
+39. § Az Országgyűlés a helyi önkormányzatok normatív forrásszabályozási rendszerében biztosítja – amennyiben jogszabály kivételt nem tesz – a megyei közgyűlés elnöke, a főpolgármester és a polgármester polgári védelmi feladatának ellátásához szükséges anyagi feltételeket.
