@@ -1,0 +1,1 @@
+## 1. § Az egyes természeti területek védetté nyilvánításáról és tájvédelmi körzetek létesítéséről szóló 3/1989. (II. 22.) KVM rendelet 3. § (1) bekezdése által védetté nyilvánított Erdőtelki-égerláp természetvédelmi terület védettségét fenntartom.
