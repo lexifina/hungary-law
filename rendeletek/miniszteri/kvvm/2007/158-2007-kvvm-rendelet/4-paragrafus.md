@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található vízi növénytársulások megőrzése, a védett növény- és állatfajok – különös tekintettel a területen fészkelő vízimadarakra –, illetve élőhelyük megóvása.
