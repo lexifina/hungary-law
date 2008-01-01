@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Mártélyi-holtág, a Körtvélyesi-holtág és a Barci-rét természeti és tájképi értékeinek megőrzése, a hullámtér területén élő gazdag madárvilág zavartalan életfeltételeinek biztosítása.
