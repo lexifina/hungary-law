@@ -1,0 +1,1 @@
+8. § Az Egyeztető Fórum és a Kollégiumok tagjait és elnökeit tevékenységükért díjazás nem illeti meg, viszont jogosultak az Alap tevékenységével közvetlenül összefüggő, igazolt utazási és szállásköltségeik megtérítésére.
