@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a térség mozaikos szerkezetű, számos erdőtársulással határos rétjeinek megőrzése, továbbá a területen található ritka, védett és fokozottan védett növény- és állatfajok megóvása.
