@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a táj jellegének megőrzése, a jelentős természeti értéket képező lápok, láprétek, nádasok, láperdők, továbbá az azokban található természetes növénytársulások, valamint a hozzájuk kapcsolódó állatvilág megóvása.
