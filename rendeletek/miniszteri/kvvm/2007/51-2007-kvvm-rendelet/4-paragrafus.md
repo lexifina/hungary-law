@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a jelentős dendrológiai és esztétikai értéket képviselő fafajokat, cserjéket és egyéb növényfajokat tartalmazó park megóvása, valamint az élővilág természetközeli életfeltételeinek biztosítása.
