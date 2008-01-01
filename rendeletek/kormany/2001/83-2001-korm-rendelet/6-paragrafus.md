@@ -1,0 +1,1 @@
+## 5. § Az érintett minisztériumok és országos hatáskörű szervek – az ügykörükbe tartozó és a SOFA előírásaiból eredő feladatok tekintetében a szükséges intézkedések megtételével – együttműködnek a Honvédelmi Minisztériummal a térítéses igénybevételek előkészítésében, és közreműködnek azok végrehajtásában.
