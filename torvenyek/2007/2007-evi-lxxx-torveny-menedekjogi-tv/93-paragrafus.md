@@ -1,0 +1,29 @@
+## Felhatalmazó rendelkezések
+
+93. § (1) A Kormány felhatalmazást kap arra, hogy rendeletben
+
+a) állapítsa meg a menekültügyi eljárás részletes szabályait;
+
+b) állapítsa meg a menekültügyi eljárás külföldi menekültügyi hatóság részére történő átadására, illetve a menekültügyi eljárás átvételére vonatkozó részletes szabályokat;
+
+c) határozza meg az elismerését kérőt, valamint a menekültet, az oltalmazottat és a menedékest megillető ellátások és támogatások fajtáit, igénybevételük feltételeit;
+
+d) állapítsa meg az ellátások és támogatások igénybevétele költségeinek megtérítésére irányadó szabályokat;
+
+e) határozza meg az elismerését kérő, a menekült, az oltalmazott és a menedékes okmányainak körét;
+
+f) határozza meg az elismerését kérő, a menekült, az oltalmazott és a menedékes okmányainak formáját és azok adattartalmát;
+
+g) állapítsa meg a menekült, az oltalmazott és a menedékes úti okmánya kiadásának részletes eljárási szabályait;
+
+h) jelölje ki az országinformáció szolgáltatásáért felelős szervet;
+
+i) állapítsa meg a hazatérés és a harmadik országban történő letelepedés utazási költségeinek biztosításához nyújtható támogatás feltételeit.
+
+(2) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a Magyar Köztársaság által nemzeti szinten biztonságosnak nyilvánított származási országok listáját.
+
+(3) A miniszter felhatalmazást kap arra, hogy rendeletben
+
+a) határozza meg a menekültügy szervezeti rendszerének felépítését, feladatait és működési rendjét;
+
+b) jelölje ki a menekültügyi nyilvántartás, valamint a 83. § (3) bekezdésben meghatározott adatkör tekintetében az adatfeldolgozásra jogosult szervet.

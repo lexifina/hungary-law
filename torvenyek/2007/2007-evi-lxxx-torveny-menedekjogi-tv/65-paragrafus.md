@@ -1,0 +1,1 @@
+65. § A kérelmező menekültkénti elismerésének feltételei akkor állnak fenn, ha a 6. § (1) bekezdés szerinti üldözési okok és a 60. § értelmében üldözésnek minősülő cselekmények között összefüggés állapítható meg.

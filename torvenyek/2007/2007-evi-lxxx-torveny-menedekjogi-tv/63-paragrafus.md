@@ -1,0 +1,3 @@
+63. § (1) Az üldöztetéssel vagy súlyos sérelemmel szembeni védelem akkor tekinthető biztosítottnak, ha abban az államban, ahonnan a kérelmező menekülni kényszerül, hatékony eszközök állnak rendelkezésre az üldöztetés, illetve a súlyos sérelem megakadályozására, valamint az üldöztetést megvalósító vagy súlyos sérelmet előidéző cselekmények elkövetőinek megbüntetésére, és a kérelmező ezt a védelmet igénybe veheti.
+
+(2) Az (1) bekezdés szerinti védelem akkor is biztosítottnak tekinthető, ha abban az államban, ahonnan a kérelmező menekülni kényszerül, az ország egy részében nem áll fenn az üldöztetéstől való megalapozott félelem követelménye, illetve a súlyos sérelem tényleges veszélye, és a kérelmezőtől ésszerűen elvárható, hogy az érintett országrészben maradjon.
