@@ -1,0 +1,1 @@
+Az Országgyűlés a háborúk áldozatainak védelmére vonatkozóan Genfben, 1949. augusztus 12-én kötött Egyezmények, ezek 1977. június 8-án aláírt I. és II. kiegészítő jegyzőkönyvei, valamint a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalom 1986-ban elfogadott alapszabálya szellemében a Magyar Vöröskeresztről és annak tevékenységéről a következő törvényt alkotja:

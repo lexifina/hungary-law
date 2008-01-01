@@ -1,0 +1,1 @@
+3. § A Vöröskereszt a 2. § (1) bekezdésében felsorolt, az alaptevékenységéhez tartozó feladatai (a továbbiakban: alapfeladatok) teljesítéséhez költségvetési támogatásban részesül külön jogszabályban meghatározottak szerint.
