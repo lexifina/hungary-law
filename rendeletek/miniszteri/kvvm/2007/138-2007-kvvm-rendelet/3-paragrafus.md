@@ -1,0 +1,1 @@
+## 2. § Az Ócsai Tájvédelmi Körzet kiterjedése 3645 ha, ingatlan-nyilvántartási helyrajzi számait az 1. számú melléklet, fokozottan védett területének helyrajzi számait a 2. számú melléklet tartalmazza.
