@@ -1,0 +1,1 @@
+2. § Az a személy, aki e törvény hatálybalépése előtt a Népművészet Mestere kitüntető díjban részesült, ha saját jogú nyugellátásban részesül, vagy a reá irányadó öregségi nyugdíjkorhatárt elérte, a népművészet mestere járadékra jogosult.

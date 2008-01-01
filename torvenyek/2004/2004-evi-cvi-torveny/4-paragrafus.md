@@ -1,0 +1,1 @@
+4. § A kiváló művészi járadék egyhavi összege a bérből és fizetésből élők előző naptári évi – a Központi Statisztikai Hivatal által számított – országos szintű nettó átlagkeresete 1/12-ed részének megfelelő összeg. Az érdemes művészi járadék a kiváló művészi járadék 60 százaléka, a népművészet mestere járadék a kiváló művészi járadék 50 százaléka.

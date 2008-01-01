@@ -1,0 +1,3 @@
+1. § (1) Az a személy, aki a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény hatálybalépése előtt a „Magyar Népköztársaság Kiváló Művésze”, a „Magyar Köztársaság Kiváló Művésze”, valamint a „Magyar Népköztársaság Érdemes Művésze”, a „Magyar Köztársaság Érdemes Művésze” kitüntető címben részesült, ha saját jogú nyugellátásban részesül – ideértve az egyes művészeti tevékenységet folytatók öregségi nyugdíját is –, vagy a reá irányadó öregségi nyugdíjkorhatárt elérte, kiváló, illetve érdemes művészi járadékra jogosult.
+
+(2) A „Magyar Népköztársaság Kiváló Művésze” és a „Magyar Köztársaság Kiváló Művésze” érdemes művészi járadékra nem jogosult.

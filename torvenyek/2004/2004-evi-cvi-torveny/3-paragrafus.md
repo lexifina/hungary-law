@@ -1,0 +1,1 @@
+3. § A kitüntető cím vagy díj jogosultjának özvegye vagy élettársa a járadék fele részének megfelelő özvegyi járadékra jogosult, feltéve, hogy a reá irányadó öregségi nyugdíjkorhatárt elérte, továbbá a kitüntető díj jogosultjával halálakor, annak házastársaként vagy élettársaként közös háztartásban élt.
