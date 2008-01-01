@@ -1,0 +1,3 @@
+1. § (1) Erdőrezervátummá nyilvánítom Farkas-sziget 1. Erdőrezervátum elnevezéssel a 7/1990. (IV. 23.) KVM rendelettel, a 11/1993. (III. 9.) KTM rendelettel, a 6/1996. (IV. 17.) KTM rendelettel, valamint a 3/1998. (XII. 17.) KöM rendelettel módosított 1850/1972. (TK 58.) OTvH közleménnyel közzétett határozattal létesített Hortobágyi Nemzeti Park részét képező, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 74,7 hektár kiterjedésű területet.
+
+(2) Az Erdőrezervátumból magterületté nyilvánítom a 2. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 24,3 hektár kiterjedésű területet.
