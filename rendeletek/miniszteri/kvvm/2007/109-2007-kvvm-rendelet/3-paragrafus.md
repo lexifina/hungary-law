@@ -1,0 +1,1 @@
+## 2. § A Jeli arborétum természetvédelmi terület kiterjedése 75,3 ha, ingatlan-nyilvántartási helyrajzi számai Kám 0275, 0276, 0286/1 hrsz-ból 2,7 ha (0286/1a, 0286/1b), 0286/3, 0286/4 hrsz-ból 3 ha (0286/4a, 0286/4b).
