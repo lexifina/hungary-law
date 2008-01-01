@@ -1,0 +1,1 @@
+92. § A részben az Európai Unió költségvetéséből finanszírozott programok, projektek esetén tervezett céltartalék csak az adott program, projekt előre nem látható kiadásainak finanszírozására használható fel. A céltartalék intézményi kiadási célokra nem fordítható.

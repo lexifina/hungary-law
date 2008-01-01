@@ -1,0 +1,11 @@
+52. § (1) A fejezetek költségvetésében jóváhagyott fejezeti egyensúlyi tartalék
+
+a) az I–VI., a VIII., a XXX. és a XXXIII. fejezetek saját hatáskörében használható fel a bevételeik teljesítése, a maradványképzési kötelezettségük tartása esetén, továbbá ha a működőképesség fenntartása, a megkezdett beruházások, felújítások készültségi foka azt indokolja,
+
+b) az a) pontba nem tartozó fejezetek esetében a Kormány engedélyével, az általa meghatározott célra használható fel a kiadások alakulására és a bevételek várható teljesítésére figyelemmel.
+
+(2) Az Országgyűlés felhatalmazza a Kormányt a fejezeti egyensúlyi tartalék fejezeten belüli, fejezetek, illetve az államháztartás alrendszerei közötti átcsoportosítására.
+
+(3) Az Országgyűlés felhatalmazza a Kormányt, hogy a költségvetési és gazdasági folyamatok függvényében döntsön a központi egyensúlyi tartalék felhasználásáról.
+
+(4) Az Országgyűlés elrendeli, hogy a 2007. évben a központi költségvetési szerveknél – ideértve a társadalombiztosítási költségvetési szerveket is – és a fejezeti kezelésű előirányzatoknál a 2006. évivel azonos összegű előirányzat-maradvány képződését kell elérni. A maradvány megállapításának módjára, összegének mérséklésére, fejezetenkénti meghatározására a Kormány kap felhatalmazást.

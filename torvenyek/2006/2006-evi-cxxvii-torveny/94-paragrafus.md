@@ -1,0 +1,1 @@
+94. § E törvény hatálybalépésével egyidejűleg az egészségügyért felelős miniszternek az Áht. 95. §-ának (4) bekezdése alapján meg kell kezdenie a Hungarotransplant Egészségügyi Koordináló Közhasznú Társaság végelszámolással történő megszüntetését.

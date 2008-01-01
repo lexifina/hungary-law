@@ -1,0 +1,15 @@
+87. § (1) Az üzemben tartási díjnak a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: média tv.) 79. §-ának (2) bekezdése szerint megállapított összege a 2007. évre havi 967 forint.
+
+(2) Az Országgyűlés felhatalmazza a Kormányt, hogy a média tv . 79. §-ának (1) bekezdése szerinti üzemben tartási díj 2007-re esedékes összegének megfizetését – a média tv. 80. § (3) bekezdése szerinti fizetési kötelezettség áprilistól decemberig terjedő időszakban esedékes összege 60%-ának kivételével – átvállalja.
+
+(3) A Kormány – figyelemmel a média tv. 148. §-ának (1) bekezdésében foglaltakra – az esedékes üzemben tartási díjat az APEH – mint a média tv. 82/A. § szerinti megbízott – közreműködésével az átvállalással nem érintett üzemben tartási díj megfizetésére kötelezettektől 2007. április 1-jétől beszedi és továbbítja a Műsorszolgáltatási Alapba. Az általa beszedett díjbevétel terhére az APEH 10% beszedési költséget számolhat el.
+
+(4) A Kormány a (3) bekezdés szerinti nettó üzemben tartási díjat – mértékének bizonytalanságára és időbeli késedelmére tekintettel – a Műsorszolgáltatási Alap számára megelőlegezi.
+
+(5) A (2) bekezdés szerinti átvállalás és a (4) bekezdés szerinti megelőlegezés havi összegének alapja a 2002. évi elvi díjbevétel (a 2001. évben ténylegesen beszedett díjbevétel 7%-kal megnövelt és 9,55% beszedési költséggel csökkentett összege, valamint a mentesítettek után 2002-ben térített díjátalány együttesen) egy tizenketted része. Ezt kell megnövelni az (1) bekezdésben foglalt díjösszegnek a 2002. évi üzemben tartási díj (havi 740 Ft) nagyságához viszonyított növekedése arányában.
+
+(6) A Kincstár az átvállalás és megelőlegezés (5) bekezdés szerinti havi együttes összegét a (3) bekezdés szerinti nettó díjbevételnek a Műsorszolgáltatási Alapba a tárgyhónapot megelőző hónapban befolyt összegével csökkentett mértékben utalja.
+
+(7) A Magyar Televízió Közalapítvány – a média tv. 60. §-a (2) bekezdésének a) pontja szerint felhasználható – céltámogatása (I. Országgyűlés fejezet, 13. cím, 1. alcím) – elkülönített nyilvántartással, a cél szerinti felhasználást megállapítható módon – a Magyar Televízió Zrt. közszolgálati műsorai tervének megvalósításához – ideértve a korszerű megjelenésű és tartalmú közéleti és kulturális műsorok súlyának növelését is –, továbbá a közszolgálati tevékenysége ellátásához alapvetően szükséges ingatlanok (székhely, stúdiók, gyártóbázis) bérleti díjának, valamint az MTV Zrt. új telephelyre költözéséhez kapcsolódó költségeknek a fedezetéül szolgál. A bérbeadó által a szerződés szerint kiállított számlán szereplő összegű bérleti díjat közvetlenül a bérbeadónak kell folyósítani az MTV Zrt. engedélyező nyilatkozata alapján. A folyósított összegből az arányosítás alapján levonható áfá-nak megfelelő összeget nem lehet támogatási bevételként elszámolni, azt állammal szembeni visszatérítési kötelezettségként kell nyilvántartani.
+
+(8) Az állammal szembeni visszatérítési kötelezettségnek a tárgyévet megelőző év mérlegfordulónapi auditált állományát a tárgyév június 30-ig kell a költségvetés számára megfizetni.

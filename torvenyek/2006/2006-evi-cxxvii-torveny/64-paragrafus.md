@@ -1,0 +1,5 @@
+64. § (1) A Magyar Rádió Zrt., a Magyar Televízió Zrt. és a Duna Televízió Zrt. műsorterjesztési költségeire a támogatásokat a számlával igazolt fizetési kötelezettségekhez igazodóan – áfá-val növelt összegben – közvetlenül az Antenna Hungária Rt.-nek kell folyósítani. A támogatás összegének meghatározásánál csak az állandó stúdióra és a fix telepítésű országos rendszerek igénybevételére vonatkozó szolgáltatások tekintendők műsorterjesztési költségnek, az alkalmi közvetítővonalak költségei még egyidejű sugárzás esetében sem. A folyósított összegből az arányosítás alapján levonható áfá-nak megfelelő összeget nem lehet támogatási bevételként elszámolni, azt állammal szembeni visszatérítési kötelezettségként kell nyilvántartani.
+
+(2) Az állammal szembeni visszatérítési kötelezettségnek a tárgyévet megelőző év mérlegfordulónapi auditált állományát a tárgyév június 30-ig kell a költségvetés számára megfizetni.
+
+(3) Az állammal szembeni visszatérítési kötelezettség 2006. december 31-i auditált állományának megfizetéséhez a pénzügyminiszter legfeljebb 2010. június 30-ig részletfizetést engedélyezhet.

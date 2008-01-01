@@ -1,0 +1,1 @@
+22. § A helyi önkormányzatok megalakulásakor az alapítói jog gyakorlása tekintetében tanácsi vállalat jogutódjának – állami vagyon felett tulajdonosi jogosítvánnyal rendelkező szervezet által történő – értékesítéséből származó készpénzbevétel 50%-a az alapítói jogot gyakorló helyi önkormányzatot illeti meg.

@@ -1,0 +1,1 @@
+61. § A felnőttképzésről szóló 2001. évi CI. törvény (a továbbiakban: Fktv.) 22. § (1) bekezdése alapján a fogyatékkal élő felnőttek általános, nyelvi és szakmai képzéséhez nyújtható normatív támogatás mértéke 2007. évben 780 forint/fő/óra.

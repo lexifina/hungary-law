@@ -1,0 +1,31 @@
+## A Kormány, az egészségügyi miniszter, a szociális és munkaügyi miniszter és a pénzügyminiszter különleges jogosítványai
+
+73. § (1) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcím, 1. Gyógyító-megelőző ellátás jogcím-csoport, 4. Gyógyszertámogatás jogcím-csoport és az 5. Gyógyászati segédeszköz támogatás jogcím-csoport között a Kormány átcsoportosítást hajthat végre.
+
+(2) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcím, 1. Gyógyító-megelőző ellátás jogcím-csoporton belül az 1–18. jogcímek között, az 5. Gyógyászati segédeszköz támogatás jogcím-csoporton belül a jogcímek között, valamint a 4. Gyógyszertámogatás jogcím-csoport 1. és 2. jogcímei között az egészségügyi miniszter a pénzügyminiszter egyetértésével átcsoportosíthat.
+
+(3) Az Országgyűlés felhatalmazza az egészségügyi minisztert, hogy a LXXII. Egészségbiztosítási Alap fejezet, 5. cím, 3. alcím, 18. Egészségbiztosítási informatikai rendszerek fejlesztése jogcím-csoport kiemelt előirányzatáról a feladatok végrehajtása érdekében az 5. cím, 1. Központi hivatali szerv alcím és 2. Igazgatási szervek alcím kiemelt előirányzataira átcsoportosítson.
+
+(4) A világbanki kölcsönnel összefüggő tőketörlesztéssel és kamatkiadással kapcsolatosan az Országgyűlés felhatalmazza
+
+a) a szociális és munkaügyi minisztert, hogy a LXXI. Nyugdíjbiztosítási Alap fejezet, 5. cím, 1. alcím, 1. előirányzat-csoport, 6. Kamatfizetések kiemelt előirányzat, valamint a 3. Kölcsönök előirányzat-csoport előirányzatát,
+
+b) az egészségügyi minisztert, hogy a LXXII. Egészségbiztosítási Alap fejezet, 5. cím, 1. alcím, 1. előirányzat-csoport, 6. Kamatfizetések kiemelt előirányzat, valamint a 3. Kölcsönök előirányzat-csoport előirányzatát az Áht. szerinti befizetési kötelezettség teljesítését követően a saját bevételi többlet terhére megemelje, illetve a saját bevétellel nem fedezett résszel az előirányzatot túllépje.
+
+(5) Az Országgyűlés felhatalmazza a szociális és munkaügyi minisztert, hogy engedélyezze a nyugellátásban részesülő személyek évközi nyugellátás-emelése, és a tizenharmadik havi nyugdíj, valamint a nyugdíjak korrekciós célú emeléséről szóló 2005. évi CLXXIII. törvény szerinti emelés végrehajtásával összefüggésben a LXXI. Nyugdíjbiztosítási Alap fejezet, 5. cím, 1. alcím, valamint 2. alcím, 1. előirányzat-csoport, 1. Személyi juttatások, 2. Munkaadókat terhelő járulékok, 3. Dologi kiadások kiemelt előirányzat kiadási előirányzatai tételes elszámolás alapján történő túlteljesülését.
+
+(6) Az Országgyűlés felhatalmazza
+
+a) a szociális és munkaügyi minisztert, hogy az Ny. Alap kezelőjének javaslatára a 81. § (1) bekezdésében,
+
+b) az egészségügyi minisztert, hogy az E. Alap kezelőjének javaslatára a 81. § (2) bekezdésében a pénzbeni ellátásoknál
+
+meghatározott méltányossági keretösszegek között átcsoportosítson.
+
+(7) Az Országgyűlés felhatalmazza az egészségügyi minisztert, hogy engedélyezze a LXXII. Egészségbiztosítási Alap fejezet, 5. cím, 1. alcím, 1. előirányzat-csoport, 1. Személyi juttatások és 2. Munkaadókat terhelő járulékok kiemelt előirányzat kiadási előirányzatai elszámolás alapján történő együttes túllépését
+
+a) a baleseti és egyéb kártérítési megtérítések (1. cím, 7. alcím, 2. jogcím-csoport) előirányzat túlteljesülése esetén a többletbevétel 5%-ával, legfeljebb 250,0 millió forinttal,
+
+b) kifizetések visszatérítése és egyéb bevételek (1. cím, 7. alcím, 3. jogcím-csoport) címen befolyt bevételek 5%-ával, legfeljebb 120,0 millió forinttal,
+
+c) az egészségbiztosítás keretében igénybe vehető egészségügyi szolgáltatások biztosítására kötött szerződések teljesítésének ellenőrzése alapján az egészségügyi szolgáltatók visszafizetése (1. cím, 7. alcím, 11. jogcím-csoport) címen befolyt bevételek 2%-ával, legfeljebb 50,0 millió forinttal.

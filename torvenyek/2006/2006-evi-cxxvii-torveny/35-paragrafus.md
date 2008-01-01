@@ -1,0 +1,1 @@
+35. § A kiállítási garanciáknak és kiállítási viszontgaranciáknak az Áht. 33/C. §-a szerinti együttes, a vállalás időpontjában forintra átszámított állománya a 2007. év egyetlen napján sem haladhatja meg a 200 000 millió forintot.
