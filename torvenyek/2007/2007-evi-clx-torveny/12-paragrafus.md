@@ -1,0 +1,1 @@
+12. § Ez a törvény 2008. január 1-jén lép hatályba, ezzel egyidejűleg az Sztv. 35. §-ának f) pontja, 51. §-a (2) bekezdése a) pontjának második mondata, 111. §-ának (4) és (12) bekezdéséből az „illetőleg a helyszíni bírságot” szövegrész, 111. §-a (13) bekezdésének c) pontja, a 143. §-a (2) bekezdésének a) pontja, a 157. §-ának (7) és (8) bekezdése a hatályát veszti.
