@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Belső-Somogy egykori képét idéző erdő (kőrissel és szillel elegyes tölgyes, égerláp, füzes foltok) és zsombékos gyékényes mocsárrétekkel szegélyezett nagy kiterjedésű nyílt vízfelületek megőrzése, a terület kiemelkedő jelentőségű élővilágának megóvása, különös tekintettel a védett madárfajokra.
