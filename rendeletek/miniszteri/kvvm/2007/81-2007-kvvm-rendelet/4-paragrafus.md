@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található szikes tóhoz kapcsolódó természetes szikes növénytársulásoknak (zsiókás, sziki kákás élőhelyek, szikpusztai gyep, vakszikfoltok) és a területen élő jellegzetes sziki növény- és állatfajoknak a megőrzése, valamint a gazdag madárvilág zavartalanságának biztosítása.
