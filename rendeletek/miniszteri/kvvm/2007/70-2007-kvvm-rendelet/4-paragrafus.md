@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a mocsári és lápréti növénytársulásoknak és az ezekre jellemző védett növényfajoknak, az állatvilág életfeltételeinek, valamint a túzok (Otis tarda) élőhelyének megóvása és fenntartása.
