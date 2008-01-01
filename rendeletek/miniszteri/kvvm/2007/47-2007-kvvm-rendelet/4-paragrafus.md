@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Dunaalmás és a Kőpite-hegy közötti Dunaterasz-rendszer felszínalaktani képződményeinek és kiemelkedő őslénytani jelentőséggel bíró földtani szelvényeinek, a Les-hegy környéki karsztforrásokhoz kapcsolódó formakincs, valamint a terület védett növény- és állatfajainak megóvása.
