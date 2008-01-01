@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található természetes élőhelyek (ártéri erdők, rétek, holtmedrek) növénytársulásainak, az itt előforduló védett és fokozottan védett növény- és állatfajoknak a megőrzése, a madarak háborítatlan fészkelésének, táplálkozásának, vonulásának biztosítása, a jellegzetes Közép-Tiszavidéki táj tájképi adottságainak megóvása.
