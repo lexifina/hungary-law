@@ -1,0 +1,1 @@
+43. § A nemzetbiztonsági szolgálatok a birtokukba került adatokat csak az adatfelvétel elrendelésének jogalapjául szolgáló célra használhatják fel, kivéve, ha az adat hivatalból üldözendő bűncselekményi tényállás megvalósítására utal, vagy más nemzetbiztonsági szolgálat irányában tájékoztatási kötelezettséget alapoz meg, és az adatátvevő maga is jogosult az adat megszerzésére.

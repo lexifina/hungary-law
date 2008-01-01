@@ -1,0 +1,1 @@
+32. § A nemzetbiztonsági szolgálatok hivatásos állományú tagja a nemzetbiztonsági szolgálatok feladatkörébe tartozó bűncselekmény tetten ért elkövetőjét elfoghatja és előállíthatja, ennek érdekében a cselekvés abbahagyására, illetve az ellenszegülés megtörésére kényszerítést (testi kényszert) alkalmazhat. Az elfogást követően az előállítást azonnal végre kell hajtani.

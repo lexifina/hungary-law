@@ -1,0 +1,7 @@
+30. § (1) Az e törvényben meghatározott feladatok ellátása érdekében, ha azt a nemzetbiztonsági szolgálatok főigazgatói kezdeményezik, a nemzetbiztonság szempontjából különleges fontosságú állami szervek és a tartós állami tulajdonban lévő gazdálkodó szervezetek, a központi energiaellátó és hírközlési rendszereket üzemeltető, a nemzetközileg ellenőrzött termékeket és technológiákat előállító és felhasználó, valamint a hadiipari kutatással foglalkozó üzemek és intézmények a nemzetbiztonsági szolgálat – alkalmazási feltételeknek egyébként megfelelő – munkatársával hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszonyt, illetve munkajogviszonyt (a továbbiakban együtt: munkaviszony) létesítenek.
+
+(2) Az e törvényben meghatározott feladatok ellátása érdekében a nemzetbiztonsági szolgálatok – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhetnek az (1) bekezdés hatálya alá nem tartozó szervezeteknél.
+
+(3) A nemzetbiztonsági szolgálatok nem kezdeményezhetnek munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, az Országgyűlési Biztos Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
+
+(4) A foglalkoztatás nemzetbiztonsági jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a nemzetbiztonsági szolgálatok és az érintett szervezet külön megállapodása tartalmazza. A munkaviszony létesítésének nemzetbiztonsági jellege államtitok, kivéve, ha a megállapodást kötő felek eltérően rendelkeznek.

@@ -1,0 +1,1 @@
+34. § A nemzetbiztonsági szolgálatok hivatásos állományú tagja szolgálati lőfegyver viselésére jogosult. A szolgálati fegyver viselésével, használatával és tárolásával kapcsolatos részletes szabályokat a miniszter állapítja meg.

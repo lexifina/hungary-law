@@ -1,0 +1,1 @@
+45. § A nemzetbiztonsági szolgálatok nemzetközi kötelezettségvállalás alapján külföldi adatkezelő részére személyes adatokat továbbíthatnak a személyes adatok védelmére vonatkozó jogszabályok keretei között.

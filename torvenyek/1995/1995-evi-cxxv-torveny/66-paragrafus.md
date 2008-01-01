@@ -1,0 +1,3 @@
+66. § (1) A nemzetbiztonsági szolgálatok speciális működési kiadásai felhasználásának külső szerv által történő ellenőrzése kizárólag törvényességi szempontból történhet. E körben célszerűségi és eredményességi szempont szerinti ellenőrzés – a 11. § (2) bekezdésének f) pontját kivéve – nem végezhető.
+
+(2) A nemzetbiztonsági szolgálatok gazdálkodásának külső szerv által történő ellenőrzése során az ellenőrzést végző szerv birtokába nem kerülhet olyan adat, amely a titkos információgyűjtés során keletkezett információra, forrására, illetve az alkalmazott titkos információgyűjtő módszer konkrét jellegére utal.
