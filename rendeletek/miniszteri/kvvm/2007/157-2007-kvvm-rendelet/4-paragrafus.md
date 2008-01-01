@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Siroktól Sályig húzódó övben elhelyezkedő kúpos formájú, kultúrtörténeti jelentőséggel is bíró riolittufa sziklaalakzatok – az ún. kaptárkövek –, valamint természeti környezetük megőrzése.
