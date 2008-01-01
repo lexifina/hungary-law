@@ -1,0 +1,1 @@
+## 1. § Az Országos Környezet- és Természetvédelmi Hivatal elnökének 13/1978. OKTH számú határozatával védetté nyilvánított Magyarország földrajzi középpontja természetvédelmi terület védettségét fenntartom.
