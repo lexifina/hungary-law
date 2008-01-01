@@ -1,0 +1,7 @@
+10. § (1) Az őrizetesnek a 7. § (1) bekezdésében meghatározott személyekkel történő levelezése tartalmilag nem ellenőrizhető. Ha alapos indok merül fel arra nézve, hogy az őrizetes részére érkező levél nem a borítékon megjelölt feladótól származik, a levelet az őrizetes jelenlétében – két tanú előtt, jegyzőkönyv felvétele mellett – kell felbontani. Az ellenőrzés csak a feladó ellenőrzésére szolgálhat.
+
+(2) Az (1) bekezdésben meghatározottak kivételével az őrizetes levelezésének, valamint a csomagjának tartalma biztonsági, illetőleg közegészségügyi okból ellenőrizhető. A levelezés ellenőrzésének tényét az őrizetessel közölni kell, a csomag átvizsgálását az őrizetes jelenlétében kell végrehajtani.
+
+(3) Amennyiben az ellenőrzött levél az őrzött szállás biztonságát vagy az őrizet végrehajtását veszélyezteti, és a veszélyeztető jelleg nem szüntethető meg, a levél nem továbbítható. A levél továbbításának megtagadását az őrizetessel közölni kell.
+
+(4) A fogva tartás ellenőrzésére jogosult hatósághoz címzett, a fogva tartással kapcsolatos kifogást, kérést, panaszt, közérdekű bejelentést tartalmazó levelet, illetőleg az emberi jogok védelmét ellátó – a 7. § (1) bekezdés c)–e) pontjaiban meghatározott – szervezethez címzett levelet soron kívül kell továbbítani. Az egyéb levél továbbításáról két munkanapon belül kell gondoskodni, illetőleg az őrizetesnek érkezett levelet két munkanapon belül kell kézbesíteni.
