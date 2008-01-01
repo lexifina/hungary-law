@@ -1,0 +1,1 @@
+A megváltozott munkaképességű dolgozók foglalkoztatásáról és szociális ellátásáról szóló, többször módosított, 8/1983. (VI. 29.) EüM–PM együttes rendelet (a továbbiakban: R.) módosításáról a következőket rendeljük el:
