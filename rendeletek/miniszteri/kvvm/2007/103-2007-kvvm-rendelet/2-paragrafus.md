@@ -1,0 +1,1 @@
+## 1. § Az Országos Környezet- és Természetvédelmi Hivatal elnökének 9/1986. (VIII. 21.) OKTH számú rendelkezésével védetté nyilvánított Balatonfüredi-erdő természetvédelmi terület védettségét fenntartom.

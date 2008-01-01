@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a változatos formakincs, a védett növény- és állatfajok, a természetes növénytársulások (különös tekintettel a dolomit sziklagyepekre), a természetszerű erdők (mészkedvelő tölgyesek, cserszömörcés karsztbokorerdők), valamint a táj jellegének megóvása.
