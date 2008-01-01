@@ -1,0 +1,1 @@
+## 1. § Az Országos Környezet- és Természetvédelmi Hivatal elnökének 2/1985. (X. 1.) OKTH számú rendelkezésével védetté nyilvánított Keszthelyi-kastélypark természetvédelmi terület védettségét fenntartom.
