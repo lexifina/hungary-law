@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található őshonos dolomitsziklagyep védett, fokozottan védett, ritka növény- és állatfajainak megőrzése, valamint a kopár hegyoldalak további pusztulástól való megóvása.
