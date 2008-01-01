@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a táj jellegzetes arculatának és természeti értékeinek a megőrzése, különös tekintettel az ősláp jellegzetes pangóvizes, lápos, zsombékos élőhelyeire, az itt előforduló különleges vegetációtípusokra (nyírláp, fűzláp, zsombékos lápterületek és láprétek), valamint ezen élőhelyek természetes növény- és állatvilágára.
