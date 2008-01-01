@@ -1,0 +1,1 @@
+## 2. § A Szatmár-beregi Tájvédelmi Körzet kiterjedése 21891,7 ha, ingatlan-nyilvántartási helyrajzi számait az 1. számú melléklet, fokozottan védett területének ingatlan-nyilvántartási helyrajzi számait a 2. számú melléklet tartalmazza.
