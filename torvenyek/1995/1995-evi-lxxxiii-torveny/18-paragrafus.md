@@ -1,0 +1,1 @@
+18. § A címernek, a zászlónak (lobogónak) és a Magyar Köztársaságra utaló elnevezésnek e törvénytől eltérő használatát — ha a 15—17. § másként nem rendelkezik — e törvény hatálybalépését követő két hónapon belül meg kell szüntetni. Ez irányadó a törvény hatálybalépését megelőzően kiadott engedély alapján történő címerhasználatra is.
