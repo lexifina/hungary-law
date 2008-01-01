@@ -1,0 +1,1 @@
+A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) 29. §-ának (2) bekezdésében kapott felhatalmazás alapján – a külügyminiszterrel egyetértésben – a következőket rendelem el:
