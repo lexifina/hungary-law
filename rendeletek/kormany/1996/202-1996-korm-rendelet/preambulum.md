@@ -1,0 +1,1 @@
+Az egészségügyi hozzájárulásról szóló 1996. évi LXXXVIII. törvény (a továbbiakban: Eht.) 2. §-ának (5) bekezdésében, valamint az 5. § b) pontjában kapott felhatalmazás alapján – az Egészségbiztosítási Önkormányzattal egyetértésben – a Kormány a következőket rendeli el:
