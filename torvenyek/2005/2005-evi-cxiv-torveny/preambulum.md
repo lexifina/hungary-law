@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság területén élő nemzeti és etnikai kisebbségek – az Alkotmány 68. §-ának (4) bekezdésében biztosított – azon jogának érvényre juttatása érdekében, amely szerint helyi (települési és területi) és országos önkormányzatokat hozhatnak létre, az Alkotmány 71. §-ának (4) bekezdése alapján a következő törvényt alkotja:

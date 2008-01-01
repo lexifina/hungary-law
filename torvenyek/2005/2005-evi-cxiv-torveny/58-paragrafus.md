@@ -1,0 +1,3 @@
+58. § A Nekt. 61. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha az (1) bekezdésben felsoroltakon kívül további kisebbség kíván bizonyságot tenni arról, hogy megfelel az e törvényben foglalt feltételeknek, legalább 1000, magát e kisebbséghez tartozó választópolgár e tárgykörben a népi kezdeményezésre vonatkozó aláírásgyűjtő íveket az Országos Választási Bizottság elnökének nyújtja be. Az eljárás során az országos népszavazásra és népi kezdeményezésre vonatkozó törvény rendelkezéseit kell alkalmazni azzal, hogy az Országos Választási Bizottság az eljárása során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását a törvényi feltételek fennállásáról.”
