@@ -1,0 +1,1 @@
+A Kormány a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény 21. § (2) bekezdésében, valamint a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 59. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
