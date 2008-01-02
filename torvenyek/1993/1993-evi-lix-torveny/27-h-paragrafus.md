@@ -1,0 +1,11 @@
+27/H. § (1) A jövő nemzedékek országgyűlési biztosa a feladatai ellátása során bárkitől minden olyan kérdésben felvilágosítást kérhet, amely a környezet állapotával és a környezet használatával összefügghet.
+
+(2) A jövő nemzedékek országgyűlési biztosa eljárása során, annak lefolytatása érdekében az eljárás tárgyával összefüggő összes iratba betekinthet, illetve iratról másolatot kérhet, személyes adatot, egyéb adatot, körülményt, tényt, eljárást megismerhet. Ha az irat az eljárás tárgyával össze nem függő adatot is tartalmaz, és az adatok elkülönítése azok bizonyító erejének sérelme nélkül nem lehetséges, a jövő nemzedékek országgyűlési biztosa az iratban szereplő valamennyi adatot megismerheti, azonban az eljárás tárgyával össze nem függő adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze az eljárás tárgyával.
+
+(3) A jövő nemzedékek országgyűlési biztosa eljárása során, annak lefolytatása érdekében – ha az eljárás lefolytatásához szükséges adatok, körülmények vagy tények megismerése más módon nem biztosítható – minden olyan helyiségbe, ingatlanra beléphet, ahol visszafordíthatatlan környezetkárosodással fenyegető tevékenység folyik.
+
+(4) A magántitok, az üzleti titok, az államtitok és szolgálati titok vagy a külön törvényben meghatározott más titok a jövő nemzedékek országgyűlési biztosát az (1)–(3) bekezdésben meghatározott jogainak gyakorlásában nem akadályozhatja, de a titok megtartására vonatkozó rendelkezések – ha törvény eltérően nem rendelkezik – rá nézve is kötelezőek.
+
+(5) Az államtitkot vagy a szolgálati titkot érintő adatkezelés esetén a jövő nemzedékek országgyűlési biztosa jogait csak személyesen vagy az általa kezdeményezett nemzetbiztonsági ellenőrzésen átesett munkatársai útján gyakorolhatja.
+
+(6) Ha az (1)–(3) bekezdésben meghatározott jogainak gyakorlásához szükséges közreműködést a felvilágosítás adása iránt megkeresett, az iratokkal rendelkező személy, illetve az ingatlan tulajdonosa vagy használója megtagadja, arra a Fővárosi Bíróság – a jövő nemzedékek országgyűlési biztosa kezdeményezésére – kötelezi. A Fővárosi Bíróság a kérelem beérkezésétől számított nyolc napon belül – szükség esetén személyes meghallgatás tartásával – nemperes eljárásban határoz, amely határozata ellen fellebbezésnek nincs helye.

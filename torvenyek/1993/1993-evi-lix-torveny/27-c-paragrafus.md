@@ -1,0 +1,5 @@
+27/C. § (1) A jövő nemzedékek országgyűlési biztosa felhívhatja a környezetet károsító személyt vagy szervezetet – függetlenül attól, hogy ez tevőleges cselekvés vagy mulasztás eredménye – a környezetet károsító tevékenység megszüntetésére és a környezetet károsító magatartás tanúsítását megelőző környezeti állapot helyreállítására.
+
+(2) A környezetet károsító személy vagy szervezet a felhívás kézhezvételét követő 30 napon belül – a jövő nemzedékek országgyűlési biztosának erre irányuló kérelme esetén haladéktalanul, de legkésőbb 5 napon belül – tájékoztatja a jövő nemzedékek országgyűlési biztosát a megtett intézkedésekről.
+
+(3) A jövő nemzedékek országgyűlési biztosa – ha a megtett intézkedéseket vagy a tájékoztatást nem tartja kielégítőnek – kérheti a bíróságtól, hogy a környezetet károsító személyt vagy szervezetet tiltsa el a környezetet károsító magatartástól, kötelezze a károk megelőzéséhez szükséges intézkedések megtételére, valamint a környezetet károsító magatartás tanúsítását megelőző környezeti állapot helyreállítására.
