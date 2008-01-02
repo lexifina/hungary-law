@@ -1,0 +1,1 @@
+## 2. § A Vértesi Tájvédelmi Körzet kiterjedése 15188 ha, ingatlan-nyilvántartási helyrajzi számait az 1. számú melléklet, fokozottan védett területének helyrajzi számait a 2. számú melléklet tartalmazza.
