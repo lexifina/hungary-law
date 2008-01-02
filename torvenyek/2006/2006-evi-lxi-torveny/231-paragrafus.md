@@ -1,0 +1,5 @@
+231. § (1) A fogyasztói árkiegészítésről szóló 2003. évi LXXXVII. törvény (a továbbiakban: Fát.) 4. § (2) bekezdésének b) pontja e törvény kihirdetésének napján hatályát veszti azzal, hogy a rendelkezést a 2006. június 30-át követően nyújtott, fogyasztói árkiegészítésre jogosító szolgáltatások alapján keletkező igénylésre kell először alkalmazni.
+
+(2) E törvény kihirdetésének napján a Fát. Melléklete 4. kategóriájának „utazási kedvezmény, vasúti bérlet (SZJ 60.10.1, kivéve járműszállítás a 60.10.12.0-ból)” szövegrésze helyébe „utazási kedvezmény, vasúti bérlet (SZJ 60.21.10.9 és 60.10.1, beleértve HÉV közlekedés, kivéve járműszállítás a 60.10.12.0-ból)” szövegrész lép azzal, hogy a rendelkezést 2006. június 30. napját követően nyújtott, fogyasztói árkiegészítésre jogosító szolgáltatások alapján keletkező igénylésre kell először alkalmazni.
+
+(3) 2006. szeptember 1-jével a Fát. Melléklete 8. kategóriájának „40,1–50” szövegrésze helyébe „40,1–45” szövegrész lép azzal, hogy a rendelkezést először 2006. augusztus 31. napját követően nyújtott, fogyasztói árkiegészítésre jogosító szolgáltatások alapján keletkező igénylésre kell alkalmazni.

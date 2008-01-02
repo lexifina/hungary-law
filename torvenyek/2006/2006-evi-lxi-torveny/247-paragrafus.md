@@ -1,0 +1,1 @@
+247. § Az APEH fővárosi és megyei igazgatóságai megszűnnek, az APEH területi szervei (regionális igazgatóságai és a Kiemelt Adózók Igazgatósága) az átvett vagyoni jogok, kötelezettségek, továbbá munkáltatói jogok gyakorlása, kötelezettségek teljesítése tekintetében az APEH fővárosi és megyei igazgatóságainak jogutódai.
