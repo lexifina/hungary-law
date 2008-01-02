@@ -1,0 +1,1 @@
+## 2. § Az Aggteleki Nemzeti Park kiterjedése 20188,2 ha, ingatlan-nyilvántartási helyrajzi számait az 1. számú melléklet, fokozottan védett területének ingatlan-nyilvántartási helyrajzi számait a 2. számú melléklet tartalmazza.
