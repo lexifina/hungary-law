@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Fenyőfő és Pápateszér térségében fellelhető, sajátos homoki területeken kialakult természetes erdeifenyő-társulások, valamint az ezen élőhelyhez kapcsolódó védett növény- és állatfajok megóvása.
