@@ -1,0 +1,1 @@
+## 1. § A Magyar Királyi Földmívelésügyi Miniszter 237.610/1944. számú rendelkezésével védetté nyilvánított és a Szársomlyói Természetvédelmi Területről szóló 10/1991. (IV. 26.) KTM rendelettel bővített Szársomlyói természetvédelmi terület védettségét fenntartom.
