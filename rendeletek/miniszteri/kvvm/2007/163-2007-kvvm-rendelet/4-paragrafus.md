@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Kiskunság nyugati peremén fekvő, jó vízellátottságú terület mocsári és lápi növénytársulásainak, fajgazdag állatvilágának, valamint a terület tájképi adottságainak a megóvása.
