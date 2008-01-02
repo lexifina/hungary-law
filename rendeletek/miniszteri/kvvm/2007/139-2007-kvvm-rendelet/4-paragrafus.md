@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a területen található szikes tó és az azt körülvevő szikes puszta megőrzése, a védett növény- és állatfajok, illetve élőhelyük megóvása, a területen fészkelő madarak zavartalan életfeltételeinek biztosítása.

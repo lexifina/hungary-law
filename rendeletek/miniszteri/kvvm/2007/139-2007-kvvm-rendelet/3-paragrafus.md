@@ -1,0 +1,1 @@
+## 2. § A Péteri-tavi madárrezervátum természetvédelmi terület kiterjedése 780,2 ha, ingatlan-nyilvántartási helyrajzi számait az 1. számú melléklet, fokozottan védett területének ingatlan-nyilvántartási helyrajzi számait a 2. számú melléklet tartalmazza.
