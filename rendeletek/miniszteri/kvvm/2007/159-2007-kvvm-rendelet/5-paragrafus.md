@@ -1,0 +1,117 @@
+5. § (1) Ez a rendelet 2008. január 1-jén lép hatályba.
+
+(2)[^2]
+
+Melléklet a 159/2007. (XII. 27.) KvVM rendelethez
+
+A Nagycenki-hársfasor természetvédelmi terület természetvédelmi kezelési terve
+
+1. Természetvédelmi gyakorlati célkitűzések
+
+– A tájképi és kultúrtörténeti jelentőségű fasor fennmaradásának biztosítása.
+
+– A fasor – botanikai értéket jelentő – idős fáinak megőrzése.
+
+– A fasor idős fáihoz kötődő állatvilág megőrzése.
+
+– A természetvédelmi célú bemutatás elősegítése.
+
+2. Természetvédelmi stratégiák
+
+– A fasor egyszeri, teljes rekonstrukciója (növény-egészségügyi kezelés, beteg és menthetetlen fák eltávolítása, majd ezek pótlása, menthető fák nyesése).
+
+– A fenntartó jellegű beavatkozások folyamatos biztosítása.
+
+– Hosszú távon tájképvédelmi szempontból nem megfelelő objektumok áthelyezése, elrejtése.
+
+– A természetvédelmi célú bemutatást szolgáló infrastruktúra kiépítése.
+
+3. Természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1. Művelési ághoz nem köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1.1. Fajok védelme
+
+– A beavatkozásokat (fakivágás, ágnyesés) vegetációs időszakon kívül, de a denevér betelelés és az énekes madarak költési időszaka előtt kell elvégezni.
+
+– Fokozottan védett madárfaj (pl. haris) fészkelése esetén a fészket és a fenntartásához szükséges védelmi területet kell kijelölni.
+
+3.1.2. Látogatás
+
+– A tervezési terület szabadon látogatható.
+
+– A fenntartó beavatkozások idején és balesetveszély esetén a természetvédelmi hatóság időszakos látogatási korlátozást rendelhet el.
+
+3.1.3. Közlekedés, oktatás és bemutatás
+
+– A területen gépjárművel közlekedni csak a természetvédelmi célú kezelési tevékenységek, illetve a természetvédelmi hatósági engedéllyel végzett kutatások keretében szabad.
+
+– A látogatás és bemutatás célját szolgáló, tájba illő létesítmények összes alapterülete nem haladhatja meg a tervezési terület 0,05%-át.
+
+3.1.4. Terület- és földhasználat
+
+– A területen minden ipari és bányászati tevékenység tilos.
+
+– A meglévő infrastruktúra és közműhálózat karbantartása során az eredeti állapotot minden esetben helyre kell állítani.
+
+– A területen növényvédő szert és irtószereket csak a fák egyedi védelme érdekében szabad használni.
+
+– A területen vadgazdálkodási létesítmény nem helyezhető el.
+
+– A fapótlások vad elleni védelmét biztosítani kell.
+
+– A tervezési terület a jelenlegitől eltérő területfelhasználási egységbe nem sorolható.
+
+3.1.5. Táj- és kultúrtörténeti értékek
+
+– A nagycenki hársfasor tájképi jellegét meg kell őrizni.
+
+– A fiatal, elkorcsosult, alászorult, a fasorban nem megfelelő helyre telepített fákat el kell távolítani.
+
+– A fiatal, egészséges, a fasorban nem megfelelő helyre telepített fákat el kell távolítani.
+
+– A fasorból csak abban az esetben távolítható el fa, ha ez a természetvédelmi célok megvalósítása érdekében szükséges. Az eltávolított fákat pótolni kell, kivéve a természetvédelmi céllal eltávolított és korábban sorközbe ültetett egyedeket.
+
+– A fapótlásokat előnevelt, földlabdás sorfa jellegű suhángokkal kell elvégezni vegetációs időn kívül (elsősorban Tilia cordata fajokkal).
+
+– A fapótlásokat a fasorban lehetőleg a fák eredeti helyén kell elvégezni, a faközbe ültetés egyedi természetvédelmi hatósági elbírálást követően lehetséges.
+
+– A faápolás során megengedett a koronaalakítás, a sérült és beteg koronarészek eltávolítása, a tősarjak eltávolítása, az üregek gondozása, a fagyöngy folyamatos eltávolítása.
+
+– A talaj bolygatásával járó természetvédelmi kezelési tevékenységek megkezdése előtt a természetvédelmi kezelő kikéri a Kulturális Örökségvédelmi Hivatal illetékes regionális irodájának véleményét.
+
+Az egyszeri, teljes rekonstrukcióra vonatkozó kezelési módok az egyes fák állapotának megfelelően:
+
+– jó állapotban lévő, idős fák: kezelést nem igényelnek, esetlegesen sarjlevágás;
+
+– jó állapotban lévő, idős fák, kismértékben károsodott ágrendszerrel: a száraz csúcsok levágása, a fagyöngy eltávolítása, sarjlevágás;
+
+– idős, jelentősen sérült koronaformájú fák: az idős ágak visszavágása, a fagyöngy eltávolítása, régi sebhelyek kezelése, a korábban betonozott üregek utókezelése;
+
+– idős, jelentősen korhadt törzsű és ágazatú fák: a madár, illetve denevérvédelem, valamint alsóbbrendű korhadéklakó fajok miatt megtartandók. Az idős ágak visszavágása, a fagyöngy eltávolítása, régi sebhelyek kezelése, a korábban betonozott üregek utókezelése, a törzsbelső kitisztítása, vízkivezetés megoldása;
+
+– leromlott, erősen károsodott fák, illetve deformálódott koronájú vagy korona nélküli fák: eltávolítást, szükség esetén tuskókiszedést követően pótlás sorfa jellegű fákkal;
+
+– középkorú, szép koronájú, egészséges fák az első pótlásból: kezelést nem igényelnek, esetlegesen sarjlevágás;
+
+– jó állapotban lévő, középkorú fák, kismértékben károsodott ágrendszerrel, fagyöngyfertőzéssel, erős számú tősarjjal: a száraz ágvégek levágása, a fagyöngy eltávolítása, sarjlevágás;
+
+– fiatal, egészséges, megfelelő helyre telepített fák: nem igényelnek kezelést.
+
+3.2. Művelési ághoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.2.1. Gyepek kezelése
+
+– A gyepeken kizárólag extenzív rétgazdálkodás alkalmazható.
+
+– A terület évente legfeljebb kétszer kaszálható, a kaszálásokat a nyár első felében (június), illetve a nyár végén, kora ősszel (augusztus-szeptember) lehet elvégezni.
+
+– A keletkezett szénát a kaszálást követően egy hónapon belül le kell hordani a területről.
+
+– A gyepeken bármilyen fajta tápanyag-utánpótlás, felülvetés, drénezés tilos.
+
+3.2.2. Erdők kezelése
+
+– A Hidegség 3E jelű erdőrészlet tekintetében a tervezés időpontjában érvényes körzeti erdőterv előírásai a természetvédelmi igényeket kielégítik, és a következőkben is az abban meghatározott erdőgazdálkodási gyakorlat a kívánatos.
+
+[^2]: Az 5. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
