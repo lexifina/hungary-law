@@ -1,0 +1,1 @@
+## 2. § A Kőszegi Tájvédelmi Körzet kiterjedése 4350,8 ha, ingatlan-nyilvántartási helyrajzi számait az 1. számú melléklet, fokozottan védett területének ingatlan-nyilvántartási helyrajzi számait a 2. számú melléklet tartalmazza.

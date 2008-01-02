@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a terület tájképi és természeti adottságainak, értékeinek, a szubalpin klíma sajátosságaival jellemezhető élőhelyek természetes növénytársulásainak, védett növényfajainak, illetve a hozzájuk kapcsolódó állatközösségek életfeltételeinek megőrzése.
