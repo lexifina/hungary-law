@@ -1,0 +1,1 @@
+## 2. § A Kámoni arborétum természetvédelmi terület kiterjedése 25,0 ha, ingatlan-nyilvántartási helyrajzi számai Szombathely 817, 825/1, 828/7 hrsz-ból 1,1 ha (828/7a, 828/7b), 891, 974/2, 1002, 1003.
