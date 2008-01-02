@@ -1,0 +1,1 @@
+## 1. § Szénipari szerkezetátalakítási támogatásra a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 171. §-ának (13) bekezdésében meghatározott bányavállalkozóként a Vértesi Erőmű Zrt. vagy annak jogutódja (a továbbiakban együtt: bányavállalkozó) jogosult.
