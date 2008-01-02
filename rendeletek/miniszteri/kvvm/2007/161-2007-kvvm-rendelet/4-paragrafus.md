@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a terület tájképi és kultúrtörténeti értékeinek megóvása, a még háborítatlan sztyepprétek változatos növény- és állatvilágának megőrzése, a természetes pusztai környezetben élő túzok (Otis tarda) fészkelő- és táplálkozóhelyének biztosítása.
