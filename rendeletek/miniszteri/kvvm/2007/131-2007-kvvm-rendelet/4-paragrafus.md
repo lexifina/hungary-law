@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a puszta jellegzetes arculatának és természeti értékeinek, a Hortobágy természetes növény- és állatvilágának megőrzése, a terület gazdag madárvilágának, a madarak háborítatlan fészkelésének és vonulásának biztosítása, a területre jellemző kulturális értékek (pl. a hagyományos pusztai életforma emlékeinek) megóvása.

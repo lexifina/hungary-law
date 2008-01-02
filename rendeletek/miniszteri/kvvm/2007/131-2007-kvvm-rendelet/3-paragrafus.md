@@ -1,0 +1,1 @@
+## 2. § A Hortobágyi Nemzeti Park kiterjedése 68616,3 ha, ingatlan-nyilvántartási helyrajzi számait az 1. számú melléklet, fokozottan védett területének ingatlan-nyilvántartási helyrajzi számait a 2. számú melléklet tartalmazza.
