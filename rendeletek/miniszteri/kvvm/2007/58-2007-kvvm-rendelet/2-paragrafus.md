@@ -1,0 +1,1 @@
+## 1. § Az Országos Természetvédelmi Hivatal elnökének 8/1977. számú OTvH határozatával védetté nyilvánított és a Kelet-Mecsek Tájvédelmi Körzet bővítéséről szóló 10/1993. (III. 9.) KTM rendelettel bővített Kelet-Mecsek Tájvédelmi Körzet védettségét fenntartom.
