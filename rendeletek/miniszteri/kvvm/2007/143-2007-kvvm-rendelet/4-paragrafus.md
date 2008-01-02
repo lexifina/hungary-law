@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Szigetközben a Duna folyóhoz és árteréhez kapcsolódó élővízi, mocsári és ártéri élőhelyek (holtágak, mellékágak, ártéri ligeterdők, nedves rétek) kiemelkedő természeti értékeinek, egyedi életközösségeinek védelme és fenntartása, valamint a jellegzetes tájképi adottságok megőrzése.
