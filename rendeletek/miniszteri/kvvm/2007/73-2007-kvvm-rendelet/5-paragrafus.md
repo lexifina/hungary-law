@@ -1,0 +1,103 @@
+5. § (1) Ez a rendelet 2008. január 1-jén lép hatályba.
+
+(2)[^1]
+
+Melléklet a 73/2007. (X. 18.) KvVM rendelethez
+
+A Szarvasi arborétum természetvédelmi terület természetvédelmi kezelési terve
+
+1. Természetvédelmi gyakorlati célkitűzések
+
+– Őrizze meg a természeti, valamint épített és kultúrtörténeti értékeket,
+
+– biztosítsa a Bolza-féle tájképi kert szerkezetének helyreállítását, további megőrzését,
+
+– biztosítsa a dendrológiai gyűjtemény természettudományi szempontból értékes növényállományának megőrzését, fenntartását, fejlesztését,
+
+– biztosítsa az élővilág természetközeli életfeltételeit, többek között a madarak háborítatlan fészkelését és táplálkozását,
+
+– biztosítson zavartalan feltételeket a természeti értékek fenntartását szolgáló szakmai és tudományos kutatásokhoz,
+
+– biztosítsa a szabadban történő felüdülést, valamint ismeret- és élményszerzést.
+
+2. Természetvédelmi stratégiák
+
+– A terület park jellegének, térszerkezetének, valamint a növénygyűjtemény fajösszetételének megőrzése és fejlesztése,
+
+– az őshonos vagy exóta fajokkal telepített állományrészek fenntartása, valamint a természetes felújulás és telepítés feltételeinek biztosításával annak javítása,
+
+– az egyöntetű faállományok átalakítása és a növényzet sokféleségének növelése, a gyűjtemény jelleg fejlesztése,
+
+– a növénygyűjtemény esetlegesen elpusztuló egyedeinek pótlása,
+
+– a természetközeli gyepterületek fenntartása, állapotuk javítása, különös tekintettel a gyepeken élő, természeti értéket képviselő, illetve védett fajokra,
+
+– a génbank bővítése,
+
+– az egyes részeken terjeszkedő invazív fajok visszaszorítása,
+
+– a leginkább látogatott részek (pl. fogadórész) intenzív kezelése.
+
+3. Természetvédelmi kezelési módok, korlátozások és tilalmak
+
+3.1. Gyep jellegű területek kezelése
+
+– A gyomnövények elleni védekezést a természetközeli gyepterületek rendszeres kaszálásával és a lekaszált növényi részek eltávolításával kell elvégezni.
+
+– A mesterséges, telepített füves területeket évente többször kell kaszálni, gereblyézni és szükség szerint öntözni vagy felülvetni.
+
+– A gyepterületek égetése tilos.
+
+– A gyepterületen tilos növényvédő szerek alkalmazása, műtrágya és hígtrágya kijuttatása. Kivételes esetben az igazgatósággal egyeztetett módon szilárd istállótrágya alkalmazható.
+
+– A gyepterületen mechanikai talajmegmunkálás és talajlazítás csak kivételesen indokolt esetben, az igazgatósággal történt előzetes egyeztetés után lehetséges.
+
+3.2. Fás területek kezelése
+
+– Az elpusztult és kivágott faegyedek helyén és egyéb ültetésre alkalmas helyeken a térségre jellemző őshonos fafajok változatait, illetve exótákat kell telepíteni.
+
+– A biológiai korhatárt elérő gombásodó, kiszáradó, beteg és balesetveszélyes faegyedek eltávolítását lehetőség szerint a vegetációs időszakon kívül kell elvégezni.
+
+– Az arborétum területén el kell végezni a száraz, korhadó és balesetveszélyes ágak levágását, sebkezelését, ápolását.
+
+– A fás területek kezelésével kapcsolatos munkálatok (gyérítés, szálalás stb.) vegetációs időn kívül végezhetők.
+
+– A fás területek kezelését a gyepszintben előforduló védett lágyszárúak minél nagyobb fokú kíméletével kell elvégezni.
+
+– Az arborétum fás növényzettel borított részein a cserjeszintben megjelenő növényeket (bodza, gyalogakác stb.) rendszeresen vissza kell vágni.
+
+3.3. Látogatás
+
+– A terület szabadon látogatható.
+
+3.4. Közlekedés
+
+– A területre gépjárművel, munkagéppel behajtani csak az igazgatósággal egyeztetett módon lehet.
+
+3.5. Turizmus, idegenforgalom
+
+– Közösségi és egyéb rendezvények csak az igazgatósággal egyeztetett módon rendezhetők.
+
+3.6. Oktatás és bemutatás
+
+– Az oktatási, bemutatási tevékenységet (környezeti nevelés, felsőfokú képzés stb.) folyamatosan fenn kell tartani.
+
+3.7. Kutatás
+
+– A területen kutatási tevékenységet csak az igazgatósággal egyeztetett módon szabad folytatni.
+
+3.8. Terület- és földhasználat
+
+– A területen tilos az olyan használat, tevékenység, amely nem a természetvédelmi kezelés érdekében történik.
+
+– Az utak, árkok mentének fenntartási munkálataihoz vegyszerek használata csak az igazgatósággal egyeztetett módon történhet.
+
+– A terület jellegének, a földhasználat módjának megváltoztatása – ideértve a nyomvonalas létesítmények építését, illetve más beépítést is –, ha a tervezett tevékenység jogszabály alapján nem engedélyköteles, az igazgatósággal egyeztetett módon lehetséges.
+
+3.9. Táj- és kultúrtörténeti értékek
+
+– Az angolpark jellegű terület, mint tájképi kert szerkezetének megváltoztatása (részleteiben is) tilos.
+
+– A területen található kunhalom jellegének megváltoztatásával járó tevékenység esetén a Kulturális Örökségvédelmi Hivatal regionális irodáját és az igazgatóságot előzetesen értesíteni kell.
+
+[^1]: Az 5. § (2) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
