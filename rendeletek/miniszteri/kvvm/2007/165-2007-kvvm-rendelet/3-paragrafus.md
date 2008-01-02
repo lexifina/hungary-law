@@ -1,0 +1,1 @@
+## 2. § A Tokaj–Bodrogzug Tájvédelmi Körzet kiterjedése 5318,5 ha, ingatlan-nyilvántartási helyrajzi számait az I. számú melléklet, fokozottan védett területének ingatlan-nyilvántartási helyrajzi számait a 2. számú melléklet tartalmazza.

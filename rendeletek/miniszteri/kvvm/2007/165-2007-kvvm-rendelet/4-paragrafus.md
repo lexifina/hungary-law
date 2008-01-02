@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Nagy-Kopasz vulkanikus szigethegy és a Bodrogzug jellegzetes tájszerkezetének és tájképi adottságainak, az itt található élőhelyek természetes növény- és állatvilágának megőrzése, valamint a védett madarak háborítatlan fészkelő- és táplálkozóhelyének, vonulásának biztosítása.
