@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Lázbérci víztározó és közvetlen környezetének, valamint az Upponyi-hegység értékes növény- és állatvilágának megőrzése, a terület földtani és felszínalaktani, valamint tájképi értékeinek védelme.
