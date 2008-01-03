@@ -1,0 +1,1 @@
+## 3. § A védettség indoka és célja a Nyírség homokterületeit egykor borító hatalmas kiterjedésű gyöngyvirágos-tölgyes és gyertyános-tölgyes társulások egyik utolsó egybefüggő maradványának, a terület sajátos növény- és állatvilágának a megóvása.
