@@ -1,0 +1,1 @@
+## 4. § A felsőoktatási intézmények hallgatóinak katasztrófa-, tűz- és polgári védelmi felkészítését az általános munkavédelmi és tűzvédelmi oktatás, valamint a szakirány szerinti képzés tantárgyainak oktatása során kell megvalósítani.

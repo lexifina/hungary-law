@@ -1,0 +1,1 @@
+## 3. § A közoktatásban foglalkoztatott pedagógusok katasztrófa-, tűz- és polgári védelmi felkészítése a külön jogszabályban meghatározott pedagógus-továbbképzés keretében is történhet a beiskolázási tervnek megfelelően.
