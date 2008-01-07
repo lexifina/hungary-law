@@ -1,0 +1,1 @@
+## Tájékoztatási és adatszolgáltatási kötelezettség
