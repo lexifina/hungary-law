@@ -1,0 +1,5 @@
+A 2007. évi CXI. törvénnyel a Magyar Közlöny 2007. október 3-ai számában kihirdetett, a Firenzében, 2000. október 20-án kelt Európai Táj Egyezmény 13. cikk 3. bekezdése értelmében az olyan aláíró tagállam tekintetében, amely az Egyezmény hatálybalépése után ismeri el annak kötelező hatályát, az Egyezmény annak a hónapnak az első napján lép hatályba, amely a megerősítési, elfogadási vagy jóváhagyási okirat az Európa Tanács főtitkáránál történő letétbe helyezésének napja utáni három hónapos időszakot követi.
+
+Az Egyezmény 13. cikk 3. bekezdése szerinti letétbe helyezésre a Magyar Köztársaság vonatkozásában 2007. október 26-án került sor. Az Egyezmény a Magyar Köztársaság vonatkozásában a megerősítő okirat letétbe helyezésének napja utáni három hónapos időszakot követő hónap első napján, azaz 2008. február 1-jén lép hatályba.
+
+A fentiekre tekintettel, összhangban a 2007. évi CXI. törvény 4. § (3) bekezdésével megállapítom, hogy Firenzében, 2000. október 20-án kelt Európai Táj Egyezmény kihirdetéséről szóló 2007. évi CXI. törvény 2–3. §-ai 2008. február 1-jén, azaz kettőezer-nyolc február elsején lépnek hatályba.
