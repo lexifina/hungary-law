@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a Magyar–Amerikai Oktatási Csereprogram Bizottság létrehozásáról szóló Washingtonban, 2007. március 8-án aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
