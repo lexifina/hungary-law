@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és Ukrajna Miniszteri Kabinetje között, Ungváron, 2007. szeptember 18-án létrejött, a kishatárforgalom szabályozásáról szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
