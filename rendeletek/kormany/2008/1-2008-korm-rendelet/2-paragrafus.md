@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, a Magyar Köztársaságban és a Cseh Köztársaságban kiállított, végzettséget tanúsító okiratok, továbbá a tudományos fokozatot és címet tanúsító okiratok egyenértékűségének kölcsönös elismeréséről szóló Egyezményt e rendelettel kihirdeti.
