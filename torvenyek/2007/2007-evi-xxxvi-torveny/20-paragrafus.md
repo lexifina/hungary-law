@@ -1,0 +1,3 @@
+20. § (1) Az eljárási jogsegély iránti kérelem kiterjedhet a tanú, a szakértő és az eljárás alá vont személy meghallgatására, okirat vagy a szabálysértési eljárás iratainak a kérelmező részére történő megküldésére, a szabálysértési eljárás iratainak a kézbesítésére, és a szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatás kérésére.
+
+(2) A külföldi hatósághoz intézett szabálysértési jogsegély iránti megkeresésben kérhető, hogy a külföldi hatóság a magyar megkeresés teljesítéséhez szükséges eljárási cselekményeket a kérelemben rögzített szempontok szerint teljesítse.

@@ -1,0 +1,1 @@
+36. § Ha a végrehajtást a külföldi hatóság átvette, az elkövetővel szemben Magyarországon további végrehajtási cselekményt csak akkor lehet foganatosítani, ha a végrehajtást átvevő államban az elkövető kivonta magát a végrehajtás alól, vagy a határozat egyéb okból nem volt végrehajtható, s erről a végrehajtást átvevő külföldi hatóság értesítette a központi hatóságot.
