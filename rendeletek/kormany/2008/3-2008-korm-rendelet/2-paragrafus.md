@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és az Olasz Köztársaság Kormánya közötti Filmkoprodukciós Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
