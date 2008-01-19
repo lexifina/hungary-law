@@ -1,0 +1,5 @@
+## 1. § E rendelet alkalmazásában zónacsoport vagy zónatípus (a továbbiakban együtt: zónacsoport) a légszennyezettség alapján kijelölt olyan területegységet jelent, amelyen belül a környezetvédelmi hatóság által meghatározott helyen, a szennyező anyag koncentrációja tartósan vagy időszakosan a légszennyezettségi határértékekről, a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló 14/2001. (V. 9.) KöM–EüM–FVM együttes rendelet (a továbbiakban: együttes miniszteri rendelet) 4. számú mellékletében meghatározott tartományok valamelyikébe esik.
+
+2. § (1) Az ország területének légszennyezettségi agglomerációba és zónákba sorolását, a zónacsoportok megjelölésével az egyes kiemelt jelentőségű légszennyező anyagok szerint, az együttes miniszteri rendelet 4. számú mellékletében szereplő zónacsoportok megjelölésével összhangban az 1. számú melléklet tartalmazza.
+
+(2) A légszennyezettségi agglomerációt és zónákat a 2. számú mellékletben felsorolt települések közigazgatási határa határozza meg. A kijelölt városok esetében a település közigazgatási határát kell figyelembe venni.
