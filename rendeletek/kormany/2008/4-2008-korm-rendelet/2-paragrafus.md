@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya közötti, a légtérrendészeti feladatokban történő együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
