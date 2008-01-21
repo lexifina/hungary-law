@@ -1,0 +1,1 @@
+95. § A polgári ügyben, munkaügyi vitában hozott marasztaló határozat és bírósági egyezség, valamint a büntető ügyben hozott, vagyoni kötelezettséget megállapító határozat végrehajtása – ha jogszabály nem tesz kivételt – a bíró, a végrehajtási ügyintéző és a bírósági végrehajtó feladata.

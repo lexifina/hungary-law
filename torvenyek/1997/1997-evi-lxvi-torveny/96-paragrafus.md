@@ -1,0 +1,1 @@
+96. § A bíróság részéről – a bíró feladatkörében eljárva – a törvényben meghatározott, a bírósági végrehajtás elrendelésével és foganatosításával összefüggő egyes eljárási cselekményeket a végrehajtási ügyintéző végzi el, aki a helyi bíróságnál, illetőleg a megyei bíróságnál működik.

@@ -1,0 +1,1 @@
+Az igazságszolgáltatás feladatainak jogállami szintű ellátása, a bírói függetlenség elvének maradéktalan megvalósítása és az ítélkezés egységének biztosítása érdekében az Országgyűlés a következő törvényt alkotja:

@@ -1,0 +1,5 @@
+28. § (1) Ha az ítélőtábla, a megyei bíróság vagy a helyi bíróság tanácsa, illetőleg egyesbírája valamely elvi kérdésben határozott és a határozata jogerőre emelkedett, köteles az elvi jelentőségű határozatot a bíróság elnökének bemutatni.
+
+(2) Az ítélőtábla, a megyei bíróság elnöke, a kollégiumvezetője, valamint a helyi bíróság elnöke köteles a vezetése alatt álló bíróságok ítélkezését folyamatosan figyelemmel kísérni. Ha az (1) bekezdés szerinti határozatból, a bíróság által elintézett ügyekből, a bíróságokon lefolytatott vizsgálat alkalmával vagy más módon arról szerzett tudomást, hogy a vezetése, illetőleg a felügyelete alatt álló bíróságnál elvi kérdésben ellentétes gyakorlat alakult ki, vagy ellentétes elvi alapokon nyugvó jogerős határozatokat hoztak, erről köteles a magasabb szintű bíróság elnökét – a határozatok, illetőleg a szükséghez képest az egyéb iratok felterjesztésével – tájékoztatni.
+
+(3) A (2) bekezdés szerinti tájékoztatás előtt a megyei bíróság, illetőleg az ítélőtábla elnöke, kollégiumvezetője kikérheti az elvi kérdés tárgya szerint érintett kollégium bíráinak véleményét.
