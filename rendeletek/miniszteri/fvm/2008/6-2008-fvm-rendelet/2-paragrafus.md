@@ -1,0 +1,1 @@
+## 1. § A Magyar Élelmiszerkönyv közösségi előírások átvételét megvalósító kötelező előírásairól szóló 56/2004. (IV. 24.) FVM rendelet (a továbbiakban: R.) Melléklete az e rendelet mellékletében foglaltak szerint módosul.

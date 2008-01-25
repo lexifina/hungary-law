@@ -1,0 +1,1 @@
+## „(2) Ez az előírás az E 128 Vörös 2G élelmiszer-színezékként történő felhasználását felfüggesztő sürgősségi intézkedésekről szóló, 2007. július 26-i 884/2007/EK bizottsági rendelet végrehajtását szolgálja.”
