@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és az Észt Köztársaság Kormánya között az egymás nevében a vízumok kiadásában, valamint a biometrikus adatok gyűjtésében diplomáciai és konzuli képviseleteik útján történő kölcsönös eljárásról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
