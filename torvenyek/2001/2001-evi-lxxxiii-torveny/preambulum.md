@@ -1,0 +1,1 @@
+A Magyar Köztársaság nemzetközi kötelezettségeinek figyelembevételével, elősegítve a terrorizmus elleni harcot, valamint a pénzmosás megelőzéséről szóló szabályok szigorítását, az Országgyűlés az alábbi törvényt alkotja:
