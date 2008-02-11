@@ -1,0 +1,1 @@
+A Kormány a terület- és fejlesztéspolitika egyes szakpolitikai céljai kistérségi szintű megvalósulásának elősegítésére, az Alkotmány 35. § (2) bekezdésben kapott eredeti jogalkotói jogkörében, a következőket rendeli el:
