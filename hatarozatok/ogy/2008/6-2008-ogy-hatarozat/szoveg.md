@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Navracsics Tibor országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 7.B. 25.385/2007/2-III. számú megkeresésével érintett ügyben nem függeszti fel.
