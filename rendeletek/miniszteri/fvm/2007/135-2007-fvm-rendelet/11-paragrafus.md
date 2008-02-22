@@ -1,0 +1,1 @@
+## 10. § A kedvezményes hitelprogramról a minisztérium éves jelentést állít össze, amelyet az Európai Bizottság részére továbbít a mezőgazdasági csoportmentességi rendelet II. mellékletében foglalt formában.
