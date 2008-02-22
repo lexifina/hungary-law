@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Bél-kő természetvédelmi terület elnevezéssel a Heves megyében, Bélapátfalva közigazgatási területén lévő, Bélapátfalva 0140/2 és 0179/3 ingatlan-nyilvántartási helyrajzi számokon található, összesen 97,2 hektár kiterjedésű területet.
