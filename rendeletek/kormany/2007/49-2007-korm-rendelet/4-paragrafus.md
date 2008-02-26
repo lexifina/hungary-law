@@ -1,0 +1,7 @@
+4. § (1)[^12] Az NFÜ elnöke vagy az általa írásban kijelölt személy az Európai Területi Együttműködés Tárcaközi Bizottság (a továbbiakban: ETE Tárcaközi Bizottság) jóváhagyását követően, illetve véleményeltérés fennmaradása esetén a Kormány jóváhagyását követően megköti az 1. § (3) bekezdésének a)–e), g), valamint i)–k) pontjában meghatározott programokban részt vevő külföldi székhelyű irányító hatósággal az egyetértési nyilatkozatot.
+
+(2) Az önkormányzati és területfejlesztési miniszter vagy az általa írásban kijelölt személy a transznacionális és interregionális programok vonatkozásában létrejött Nemzeti Bizottság (a továbbiakban: Nemzeti Bizottság) jóváhagyását követően, illetve véleményeltérés fennmaradása esetén a Kormány jóváhagyását követően megköti az 1. § (3) bekezdésének l) és m) pontjában meghatározott programokban a külföldi székhelyű irányító hatósággal az egyetértési nyilatkozatot.
+
+(3) Az NFÜ elnöke vagy az általa írásban kijelölt személy a Nemzeti Bizottság jóváhagyását követően, illetve véleményeltérés fennmaradása esetén a Kormány jóváhagyását követően megköti az 1. § (3) bekezdésének h) pontjában meghatározott programban a külföldi székhelyű érintett intézményekkel az egyetértési nyilatkozatot.
+
+[^12]: A 4. § (1) bekezdése e rendelet 6. § (2) bekezdése alapján az Európai Területi Együttműködés Tárcaközi Bizottság létrehozásáról szóló kormányhatározat hatálybalépésével egyidejűleg lép hatályba. A 2087/2007. (V. 23.) Korm. határozat 5. pontja alapján a hatálybalépés időpontja 2007. május 23.
