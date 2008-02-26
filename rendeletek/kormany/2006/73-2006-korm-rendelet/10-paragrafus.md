@@ -1,0 +1,3 @@
+## 9. §[^5] Ikerintézményi és rövid távú ikerintézményi projektekben a minimális részvételi forma a szakértő-delegálás. A pályázásra jogosult intézmény ebben az esetben nem vesz részt a pályázatírás szakaszában, ezért nem tekinthető pályázónak, hanem kizárólag rövid távú szakértők delegálásával vesz részt a projekt-megvalósításban. Az 1. § (1) bekezdésének a)–c) pontjaiban meghatározott szervek jogosultak pályázatot benyújtani, és – erre irányuló kedvező döntés esetén – részt venni az Európai Unió ikerintézményi projektjeinek megvalósításában.
+
+[^5]: A 9. § harmadik mondata a 190/2006. (IX. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
