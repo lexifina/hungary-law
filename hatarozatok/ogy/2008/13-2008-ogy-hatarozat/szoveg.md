@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Gál J. Zoltán országgyűlési képviselő mentelmi jogát a Budai Központi Kerületi Bíróság 5. B. XI. 2013/2007/2. számú megkeresésével érintett ügyben nem függeszti fel.
