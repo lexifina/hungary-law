@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a környezetben tartósan megmaradó szerves szennyező anyagokról szóló, Stockholmban, 2001. május 24-én elfogadott Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
