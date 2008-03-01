@@ -1,0 +1,1 @@
+3. § Bankkártyával való fizetés elfogadója dönthet úgy, hogy a bankkártyával való fizetés elfogadása során az 1. § szerinti kerekítési szabályokat alkalmazza. Erre a tényre a bankkártyával fizető személy figyelmét kifejezetten fel kell hívni.
