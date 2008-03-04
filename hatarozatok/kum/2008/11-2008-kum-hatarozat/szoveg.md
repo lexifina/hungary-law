@@ -1,0 +1,5 @@
+A 2007. évi CIX. törvénnyel a Magyar Közlöny 2007. szeptember 26-ai számában kihirdetett, a Magyar Köztársaság és a Jordán Hasemita Királyság között a beruházások ösztönzéséről és kölcsönös védelméről szóló, Budapesten, 2007. június 14-én aláírt Megállapodás a 14. cikk 2. bekezdése értelmében a hatálybalépéséhez szükséges belső eljárás lefolytatásáról szóló későbbi diplomáciai értesítést követő 60. (hatvanadik) napon lép hatályba.
+
+A Jordán Fél a Megállapodás 14. cikk 2. bekezdésének megfelelő tartalmú értesítését a Magyar Fél 2007. november 11-én, a Magyar Fél hasonló tartalmú jegyzékét a Jordán Fél 2008. január 9-én vette kézhez.
+
+A fentiekre tekintettel, összhangban a 2007. évi CIX. törvény 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság és a Jordán Hasemita Királyság között a beruházások ösztönzéséről és kölcsönös védelméről szóló, Budapesten, 2007. június 14-én aláírt Megállapodás, valamint a kihirdetéséről szóló 2007. évi CIX. törvény 2–3. §-ai 2008. március 9-én, azaz kettőezer-nyolc március kilencedikén lépnek hatályba.
