@@ -1,0 +1,1 @@
+A választási eljárásról szóló 1997. évi C. törvény 153. § (1) bekezdés c) és e) pontjában foglalt felhatalmazás alapján, az önkormányzati és területfejlesztési miniszter feladat- és hatásköréről szóló 168/2006. (VII. 28.) Korm. rendelet 1. § k) pontjában megállapított feladatkörömben eljárva a következőket rendelem el:

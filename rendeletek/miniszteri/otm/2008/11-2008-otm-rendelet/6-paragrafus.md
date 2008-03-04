@@ -1,0 +1,1 @@
+## 5. § A helyi választási iroda vezetője – az OVB döntése alapján – közreműködik az aláírásgyűjtő ívet aláíró választópolgárok személyazonosságának ellenőrzésében: ha az aláírás eredetiségét illetően kétség merült fel, a választópolgár nyilatkozatát kéri arra vonatkozóan, hogy az aláírásgyűjtő ívet aláírta-e, majd a nyilatkozatot továbbítja az OVB-nek.
