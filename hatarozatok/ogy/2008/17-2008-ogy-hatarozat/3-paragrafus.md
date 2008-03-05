@@ -1,0 +1,1 @@
+## 2. § A KMKF támogatja az Országgyűlést a határon kívül élő magyarokkal kapcsolatos, Alkotmányból adódó feladatai ellátásában. A KMKF elnöke az Országgyűlés elnöke, szervezetét és működését a KMKF által elfogadott statútum szabályozza.
