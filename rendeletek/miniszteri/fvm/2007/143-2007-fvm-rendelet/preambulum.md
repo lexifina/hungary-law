@@ -1,0 +1,1 @@
+Az állategészségügyről szóló 2005. évi CLXXVI. törvény 47. § (2) bekezdése 2., 15. és 25. pontjában kapott felhatalmazás alapján a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. §-ának d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
