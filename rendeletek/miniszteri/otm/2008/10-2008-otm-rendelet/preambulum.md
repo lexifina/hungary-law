@@ -1,0 +1,1 @@
+Az ikerintézményi (twinning) program fejlesztési tevékenységének ellátásáról szóló 73/2006. (IV. 3.) Korm. rendelet 11. § (2) bekezdésében kapott felhatalmazás alapján, az önkormányzati és területfejlesztési miniszter feladat- és hatásköréről szóló 168/2006. (VII. 28.) Korm. rendelet 1. § m) pontjában megállapított feladatkörben a következőket rendelem el:
