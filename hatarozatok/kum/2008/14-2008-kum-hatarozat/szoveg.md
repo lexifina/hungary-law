@@ -1,0 +1,5 @@
+A 2007. évi CVIII. törvénnyel a Magyar Közlöny 2007. szeptember 26-ai számában kihirdetett, a Magyar Köztársaság és az Azerbajdzsán Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről szóló, Bakuban, 2007. május 18-án aláírt Megállapodás a 14. cikk 2. bekezdése értelmében a hatálybalépéséhez szükséges belső eljárás lefolytatásáról szóló későbbi diplomáciai értesítést követő 60. (hatvanadik) napon lép hatályba.
+
+A Megállapodás 14. cikk 2. bekezdésének megfelelő tartalmú értesítésnek a Magyar Fél 2007. október 3-ai, az Azeri Fél pedig 2007. december 28-ai keltezésű jegyzékében tett eleget. A Megállapodás a 14. cikk 2. bekezdésének megfelelően az Azeri Fél értesítését követő 60. napon, azaz 2008. február 26-án lép hatályba.
+
+A fentiekre tekintettel, összhangban a 2007. évi CVIII. törvény 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság és az Azerbajdzsán Köztársaság között a beruházások ösztönzéséről és kölcsönös védelméről szóló, Bakuban, 2007. május 18-án aláírt Megállapodás, valamint a kihirdetéséről szóló 2007. évi CVIII. törvény 2–3. §-ai 2008. február 26-án, azaz kettőezer-nyolc február huszonhatodikán lépnek hatályba.
