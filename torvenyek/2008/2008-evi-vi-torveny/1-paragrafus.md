@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a kulturális kifejezések sokszínűségének védelméről és előmozdításáról szóló, Párizsban 2005. év október hó 20. napján elfogadott UNESCO egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
