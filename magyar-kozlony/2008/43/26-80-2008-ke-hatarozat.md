@@ -1,0 +1,27 @@
+# A Köztársasági Elnök 80/2008. (III. 15.) KE határozata
+
+Magyar Közlöny 2008. évi 43. szám, 2008. március 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a0c08bd8a1b8e8b28e49daed32a3c0c268de3454/dokumentumok/fbb54b92eebde85e67edadeeb70095bce5f278c8/letoltes)
+
+---
+
+A Köztársasági Elnök
+80/2008. (III. 15.) KE
+határozata
+kitüntetés adományozásáról
+Az Alkotmány 30/A. § (1) bekezdés j) pontja, valamint
+a Magyar Köztársaság kitüntetéseiről szóló 1991. évi
+XXXI. törvény 2. § (1) bekezdése alapján a földművelés-
+ügyi és vidékfejlesztési miniszter előterjesztésére
+Csatlós Péternek, a Szentes és Környéke Vízgazdálko-
+dási Társulat ügyvezető igazgatójának a
+MAGYAR KÖZTÁRSASÁGI ARANY
+ÉRDEMKERESZT
+(polgári tagozat)
+kitüntetést adományozom.
+Budapest, 2008. március 11.
+Sólyom László s. k.,
+köztársasági elnök
+Ellenjegyzem:
+Gráf József s. k.,
+földművelésügyi és vidékfejlesztési miniszter
+KEH ügyszám: VIII-1/01432/2008.
