@@ -1,0 +1,1 @@
+A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 57. §-a alapján a pénzügyminiszter javaslatára dr. Csáky Bernadettet 2008. március 25-i hatállyal a Pénzügyminisztérium szakállamtitkárává kinevezem.
