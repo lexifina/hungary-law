@@ -1,0 +1,1 @@
+A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 57. §-a alapján az igazságügyi és rendészeti miniszter javaslatára dr. Gönczöl Katalint 2008. március 21-i hatállyal az Igazságügyi és Rendészeti Minisztérium szakállamtitkárává kinevezem.
