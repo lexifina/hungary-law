@@ -1,0 +1,1 @@
+## 11. § Szemlepótlékra jogosult a pénzügyőr, ha a határ- vagy a belterületi vámhivatalnál rendszeresen a kereskedelmi forgalomban vámellenőrzést, illetőleg jövedéki ellenőrzést lát el. Pótlékra jogosult a vámhivatal parancsnoka és az e tevékenységet felügyelő helyettese is.
