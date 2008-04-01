@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Közösségek és azok tagállamai, másrészről a Tádzsik Köztársaság közötti partnerség létrehozásáról szóló Partnerségi és Együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
