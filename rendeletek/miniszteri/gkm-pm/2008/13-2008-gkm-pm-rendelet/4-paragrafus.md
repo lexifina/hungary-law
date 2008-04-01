@@ -1,0 +1,3 @@
+4. § (1) Ha az egyedi adó-megállapítási eljárás során a szakhatóság megkeresésére nem került sor, a megelőlegezett egyedi adó-megállapítási díjból a 2. § (1) bekezdése szerinti szakhatósági eljárási díjat a vámhatóság visszatéríti.
+
+(2) Az (1) bekezdés szerinti esetben, valamint ha a megelőlegezett egyedi adó-megállapítási díjat a Rega-tv. 10/F. § (2) bekezdése alapján az állam viseli, vagy ha a Rega-tv. 10/F. § (4) bekezdése alapján azt a vámhatóság visszatéríti, a visszatérítésre az adózás rendjéről szóló 2003. évi XCII. törvénynek a költségvetési támogatás kiutalására vonatkozó rendelkezéseit kell megfelelően alkalmazni.
