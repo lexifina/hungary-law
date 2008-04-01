@@ -1,0 +1,1 @@
+11. § A pályázati eljárásban döntést hozó szerv vezetője vagy a döntést hozó személy köteles gondoskodni arról, hogy e törvény rendelkezései a döntéshozatal során érvényesüljenek. Ha az összeférhetetlenség e szerv vezetője vagy a döntést hozó személy vonatkozásában áll fenn, e feladatát a helyettese köteles ellátni.

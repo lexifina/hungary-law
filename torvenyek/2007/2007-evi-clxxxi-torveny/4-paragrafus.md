@@ -1,0 +1,1 @@
+4. § Az e törvényben foglalt követelmények ellenőrzése érdekében a döntést hozó szerv vagy személy jogosult a pályázó 6. § vagy 8. § szerinti érintettségét megalapozó személy nevének, születési helyének és idejének, valamint lakcímének a kezelésére.
