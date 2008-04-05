@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva, a hadigondozásról szóló 1994. évi XLV. törvény 28. §-ában kapott felhatalmazás alapján a következőket rendeli el:
