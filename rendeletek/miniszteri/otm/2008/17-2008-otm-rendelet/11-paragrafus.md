@@ -1,0 +1,5 @@
+11. § (1) A károsultak támogatásához szükséges települési keretösszeget a jegyző 2008. június 2-ig igényelheti a rendelet melléklete szerinti adatlapon a Magyar Államkincstár Regionális Igazgatóságának illetékes megyei szervezeti egységén (a továbbiakban: Igazgatóság) keresztül. Az adatlapot – az Igazgatóságnak történő továbbítással egyidejűleg – a jegyző tájékoztatásul a megyei újjáépítési bizottság részére is megküldi.
+
+(2) Az Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) illetékes megyei katasztrófavédelmi igazgatósága közreműködésével tájékoztatja az Igazgatóságot a pótlólag felmért jogosultakra vonatkozó, előzetesen számított települési keretösszegekről. Az Igazgatóság – az OKF tájékoztatása alapján – felülvizsgálja a jegyző által összeállított önkormányzati igényt, és a települési keretösszegekre vonatkozó javaslatát 2008. június 16-ig továbbítja az önkormányzati és területfejlesztési miniszternek.
+
+(3) Az önkormányzati és területfejlesztési miniszter a települési keretösszegekről 2008. június 30-ig dönt, és 2008. július 15-ig gondoskodik a támogatás folyósításáról.

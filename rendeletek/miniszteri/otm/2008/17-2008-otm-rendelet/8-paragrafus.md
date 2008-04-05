@@ -1,0 +1,1 @@
+## 7. § Az e rendelet hatálybalépésekor már befejezett helyreállítás, újjáépítés vagy másik ingatlan már megtörtént vásárlása esetén kizárólag számla vagy az ingatlanvásárlásról szóló adásvételi szerződés és vételár-átvételi elismervény, banki átutalási igazolás csatolását követően nyújtható támogatás a jogosult részére.

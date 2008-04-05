@@ -1,0 +1,3 @@
+10. § (1) A károsult a biztosítóval a Korm. rendelet 3. § (6) bekezdése szerint kötött biztosítási szerződés meglétét legkésőbb 2008. december 31-ig igazolja a jegyzőnek. A károsult köteles valamennyi, a biztosítási szerződéssel kapcsolatos változásról nyolc napon belül tájékoztatni a jegyzőt. A jegyző jogosult a biztosítási szerződés meglétét ellenőrizni.
+
+(2) Amennyiben nem történik a biztosítóval a Korm. rendelet 3. § (6) bekezdése szerint biztosítási szerződéskötés, vagy az tíz éven belül a jogosult felmondásából vagy a díj nem fizetéséből eredően megszűnik, a támogatást a jogosult köteles az önkormányzat útján időarányosan visszafizetni a központi költségvetés számára.
