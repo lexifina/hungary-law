@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Japán Kormánya között a vezetői engedélyek kölcsönös elismeréséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
