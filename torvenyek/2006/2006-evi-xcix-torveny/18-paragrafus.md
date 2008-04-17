@@ -1,0 +1,1 @@
+18. § Az Országgyűlés felhatalmazást ad arra, hogy a Holocaust Dokumentációs Központ és Emlékgyűjtemény részeként megvalósított, 511,7 millió forint összköltségű Állandó Kiállítás beruházással létrejött kincstári vagyontárgyak vagyonkezelői jogát a Holocaust Dokumentációs Központ Közalapítvány térítésmentesen kapja meg.

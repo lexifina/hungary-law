@@ -1,0 +1,1 @@
+2. § A központi költségvetés kiadási és bevételi előirányzatainak teljesítését az 1. számú melléklet költségvetési fejezetenként, címenként, alcímenként, jogcímcsoportonként, jogcímenként, előirányzat-csoportonként és kiemelt előirányzatonként tartalmazza.

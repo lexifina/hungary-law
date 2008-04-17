@@ -1,0 +1,1 @@
+28. § Az Országgyűlés tudomásul veszi, hogy a Zárszámadási Törvény 28. §-a szerinti vagyonelemek 2005. december 31-i határidővel az Országos Nyugdíjbiztosítási Főigazgatóság könyveiből kivezetésre, egyidejűleg a Kincstári Vagyoni Igazgatóságnál állományba vételre kerültek.

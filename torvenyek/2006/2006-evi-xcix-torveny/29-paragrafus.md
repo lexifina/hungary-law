@@ -1,0 +1,1 @@
+29. § Az Országgyűlés tudomásul veszi, hogy a Költségvetési Törvény 51. § (6) bekezdése rendelkezésének megfelelően az Ny. Alapnál és az E. Alapnál a jogszabályokban előírt összegű előirányzat-maradvány képzése megtörtént.

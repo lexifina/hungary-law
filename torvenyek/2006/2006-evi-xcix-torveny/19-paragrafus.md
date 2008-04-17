@@ -1,0 +1,1 @@
+19. § Az Országgyűlés hozzájárul a HM Elektronikai, Logisztikai és Vagyonkezelő Rt.-t terhelő, a Gazdasági és Közlekedési Minisztérium Igazgatásával szemben fennálló 4 638 784 forint, azaz négymillió-hatszázharmincnyolcezerhétszáznyolcvannégy forint értékű állami céltartalék készlet visszapótlási kötelezettségének elengedéséhez.
