@@ -1,0 +1,1 @@
+## 3. § Az Állami Számvevőszék által feltárt, a helyi önkormányzatok részéről a 2004. évben jogosulatlanul igénybe vett, valamint az őket többletként megillető normatív állami hozzájárulások és normatív, kötött felhasználású támogatások önkormányzatonként részletezett összegeit a 4. és 5. számú melléklet tartalmazza.

@@ -1,0 +1,1 @@
+## 13. § A Magyar Köztársaság 2005. évi költségvetésének végrehajtásáról szóló 2006. évi XCIX. törvény 7. § (17) bekezdése alapján a települési önkormányzatokat megillető összegekről készült táblázatot a 20. számú melléklet tartalmazza.

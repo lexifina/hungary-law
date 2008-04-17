@@ -1,0 +1,1 @@
+## 6. § Az önkormányzatok jövedelemdifferenciálódás mérséklés elszámolásában – a beruházások után visszaigényelhető összegekre vonatkozóan – az Állami Számvevőszék által megállapított visszafizetési kötelezettségeket a 9. számú melléklet tartalmazza.

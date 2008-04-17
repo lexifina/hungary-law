@@ -1,0 +1,1 @@
+## 11. § Az Állami Számvevőszék által 2005. évben feltárt, a helyi önkormányzatok részéről jogtalanul lekötött címzett és céltámogatási előirányzatok lemondási kötelezettségeinek önkormányzatok szerinti részletezését a 17. és 18. számú melléklet tartalmazza.

@@ -1,0 +1,1 @@
+## 12. § Az Állami Számvevőszék által 2005. évben feltárt, a helyi önkormányzatok részéről jogtalanul lekötött területi kiegyenlítést szolgáló támogatási előirányzat lemondási kötelezettségének önkormányzat szerinti részletezését a 19. számú melléklet tartalmazza.

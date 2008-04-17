@@ -1,0 +1,1 @@
+## 10. § Az Állami Számvevőszék által 2005. évben feltárt, a helyi önkormányzatok részéről jogtalanul igénybe vett címzett és céltámogatások visszafizetési kötelezettségeinek önkormányzatok szerinti részletezését a 15. és 16. számú melléklet tartalmazza.
