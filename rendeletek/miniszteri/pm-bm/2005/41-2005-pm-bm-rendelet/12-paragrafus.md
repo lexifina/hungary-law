@@ -1,0 +1,1 @@
+## 11. § A Magyar Köztársaság 2004. évi költségvetéséről és az államháztartás három éves kereteiről szóló törvény végrehajtásáról szóló 2005. évi CXVIII. törvény 7. §-ának (16) bekezdése alapján a települési önkormányzatokat megillető összegekről készült táblázatot a 13. számú melléklet tartalmazza.

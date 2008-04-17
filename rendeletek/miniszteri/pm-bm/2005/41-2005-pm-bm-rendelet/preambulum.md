@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2004. évi költségvetéséről és az államháztartás három éves kereteiről szóló törvény végrehajtásáról szóló 2005. évi CXVIII. törvény 7. § (1)–(2), (4), (6), (7)–(9) és (16) bekezdéseiben kapott felhatalmazás alapján a következőket rendeljük el:

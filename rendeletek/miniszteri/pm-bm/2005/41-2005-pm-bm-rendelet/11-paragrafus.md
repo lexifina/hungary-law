@@ -1,0 +1,1 @@
+## 10. § Az Állami Számvevőszék által 2004. évben feltárt, a helyi önkormányzatok részéről jogtalanul igénybe vett területi kiegyenlítést szolgáló fejlesztési célú támogatások visszafizetési kötelezettségeinek önkormányzatok szerinti részletezését a 12. számú melléklet tartalmazza.

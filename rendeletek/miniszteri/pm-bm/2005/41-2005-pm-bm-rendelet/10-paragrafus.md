@@ -1,0 +1,1 @@
+## 9. § A 2003. december 31-én feladattal terhelt normatív, kötött felhasználású támogatások és a központosított előirányzatok fel nem használt összegeinek elszámolását – figyelemmel az Állami Számvevőszék megállapításaira – a 10. és 11. számú melléklet tartalmazza.

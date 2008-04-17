@@ -1,0 +1,1 @@
+## 6. § A jövedelemkülönbség mérséklés számítása során valorizált iparűzési adóbevételüket csökkentő önkormányzatok teljes körű elszámolását az Állami Számvevőszék vizsgálata alapján a 7. számú melléklet tartalmazza.

@@ -1,0 +1,1 @@
+## 8. § A megyei önkormányzatok által fenntartott intézményekben ellátottak után járó személyi jövedelemadó kiegészítés elszámolásában az Állami Számvevőszék által feltárt eltéréseket a 9. számú melléklet tartalmazza.
