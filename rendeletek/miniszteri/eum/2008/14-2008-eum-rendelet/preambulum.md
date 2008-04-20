@@ -1,0 +1,1 @@
+A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény (a továbbiakban: Gtv.) 34. § (4) bekezdésében kapott felhatalmazás alapján, az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
