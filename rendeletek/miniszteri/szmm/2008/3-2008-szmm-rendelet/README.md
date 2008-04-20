@@ -1,0 +1,9 @@
+# 3/2008. (IV. 15.) SZMM rendelet
+
+a szociális módszertani intézmények kijelöléséről és feladatairól, valamint a szociális szolgáltatók, intézmények engedélyezési eljárásának szakértői díjáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-3-20-1X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-04-20 | 2008-3-20-1X.3 | 3/2008. (IV. 15.) SZMM rendelet |

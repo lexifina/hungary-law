@@ -1,0 +1,5 @@
+6. § (1) A kijelölésről a miniszter dönt, a döntésről írásban kell értesíteni a pályázókat, illetve a kijelölési kérelem benyújtóit. A pályázat, illetve a kijelölési kérelem elutasítását indokolni kell.
+
+(2) A módszertani intézmény, konzorcium esetén a gesztor szervezet köteles a változást követő tizenöt napon belül a Minisztériumnak bejelenteni, ha a kijelölés alapjául szolgáló jelentős tények, körülmények megváltoznak, így különösen, ha a módszertani intézmény vagy a konzorcium tagjainak adatai megváltoznak, a konzorcium tagjai körében változás következik be vagy a konzorciumi szerződést egyébként módosították, illetve a módszertani intézmény nem felel meg a kijelöléshez szükséges feltételeknek. A konzorciumi szerződés módosítása esetén a bejelentéshez csatolni kell a módosított konzorciumi szerződést is.
+
+(3) Ha a konzorcium megszűnik, a gesztor szociális intézmény – a fenntartó egyetértésével – kérheti a módszertani intézménnyé történő kijelölését, ha megfelel a kijelöléshez szükséges feltételeknek.
