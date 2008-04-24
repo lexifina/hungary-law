@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya között a romániai magyar hadisírok és a magyarországi román hadisírok jogi helyzetéről szóló Megállapodás (a továbbiakban: szerződés) kötelező hatályának elismerésére.
