@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény (a továbbiakban: KT) 15. § (3) bekezdésében, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény 62. § (4) bekezdésében és 64. § (3) bekezdésében kapott felhatalmazás alapján – figyelemmel a KT 4. számú mellékletében foglaltakra – a következőket rendeljük el:
