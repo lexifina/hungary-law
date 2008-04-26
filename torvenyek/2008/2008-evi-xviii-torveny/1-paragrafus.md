@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Közösségek és tagállamaik, másrészről a Montenegrói Köztársaság közötti Stabilizációs és Társulási Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
