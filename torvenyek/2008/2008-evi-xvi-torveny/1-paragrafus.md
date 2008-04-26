@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és az Egyesült Nemzetek Menekültügyi Főbiztosának Hivatala közötti Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.

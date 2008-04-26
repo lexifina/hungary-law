@@ -1,0 +1,1 @@
+5. § A 4. § (2) bekezdésében meghatározott időpontban hatályát veszti a Magyar Népköztársaság Kormánya és az Egyesült Nemzetek Menekültügyi Főbiztosa között Genfben, 1989. október 4-én aláírt Megállapodás kihirdetéséről szóló 23/1990. (II. 7.) MT rendelet.
