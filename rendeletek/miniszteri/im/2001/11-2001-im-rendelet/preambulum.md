@@ -1,0 +1,1 @@
+A zálogjoggal kapcsolatos törvényi szabályozás módosításáról szóló 2000. évi CXXXVII. törvény (a továbbiakban: Tv.) 6. §-ának (2) bekezdésében és a Ptké. 47/A. § (6) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
