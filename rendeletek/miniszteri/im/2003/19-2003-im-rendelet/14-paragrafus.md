@@ -1,0 +1,1 @@
+## 13. § A főigazgató és az igazgató előírhatja, hogy az igazságügyi alkalmazott a munkaköre ellátáshoz szükséges, sajátos ismereteket nyújtó továbbképzésen vegyen részt. Ha a továbbképzésen való részvételről okiratot állítottak ki az igazságügyi alkalmazott részére, annak másolatát el kell helyezni a személyi anyagban.

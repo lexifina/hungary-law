@@ -1,0 +1,1 @@
+Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) 13. §-ának (7) bekezdésében és 135. §-a (1) bekezdésének a) pontjában kapott felhatalmazás alapján a következőket rendelem el:
