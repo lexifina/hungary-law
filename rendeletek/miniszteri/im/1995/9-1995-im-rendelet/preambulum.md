@@ -1,0 +1,1 @@
+Az 1994. évi XX. törvény 4. §-a (2) bekezdésében kapott felhatalmazás alapján — a belügyminiszterrel, az egészségügyi miniszterrel, valamint a legfőbb ügyésszel egyetértésben — a következőket rendelem el:
