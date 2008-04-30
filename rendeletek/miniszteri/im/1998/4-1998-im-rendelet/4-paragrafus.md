@@ -1,0 +1,1 @@
+## 3. § A munkaügyi ellenőrzés során tapasztalt szabálytalanságok megszüntetése érdekében az ellenőr jogosult a törvény 6. §-a (1) bekezdésének a)–c) és f) pontja, valamint a (2) bekezdése szerint eljárni.
