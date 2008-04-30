@@ -1,0 +1,1 @@
+A menedékjogról szóló 2007. évi LXXX. törvény 93. § (3) bekezdésében kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § g) pontjában megállapított feladatkörömben eljárva a következőket rendelem el:
