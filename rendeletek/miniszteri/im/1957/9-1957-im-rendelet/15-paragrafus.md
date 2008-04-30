@@ -1,0 +1,3 @@
+## 14. §[^16] Ha külföldi hitelező magyar bíróság előtt belföldi adóssal szemben tartásdíj megállapítására irányuló pert indít, és ennek során az eljáró bíróság a külföldi bírósághoz jogsegély (pl. tanú kihallgatása, szakértői vélemény beszerzése stb.) iránti megkeresést kíván intézni, a bíróságnak az egyezmény 7. cikkében említett megkereső levelet -amennyiben e tekintetben nemzetközi szerződés vagy viszonosság másképpen nem rendelkezik – diplomáciai úton történő továbbítás végett a megkeresett állam bíróságának hivatalos nyelvén készült fordítással ellátva az Igazságügyi és Rendészeti Minisztériumhoz kell felterjesztenie.
+
+[^16]: A 14. § a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 64. pontja szerint módosított szöveg.
