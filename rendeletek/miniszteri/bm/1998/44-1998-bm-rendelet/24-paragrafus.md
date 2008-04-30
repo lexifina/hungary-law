@@ -1,0 +1,1 @@
+## 23. § A 3. §-ban meghatározott feladatok ellátására rendelt futáregység elhelyezésére, igénybevételére, működési rendjére vonatkozó részletes szabályokat az Országos Rendőr-főkapitányság és az érintett hivatalok közötti megállapodásban kell rögzíteni.

@@ -1,0 +1,1 @@
+A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 101. §-a (1) bekezdésének l) pontjában kapott felhatalmazás alapján a belföldi Állami Futárszolgálat (a továbbiakban: futárszolgálat) tevékenységének szabályozására a következőket rendelem el:
