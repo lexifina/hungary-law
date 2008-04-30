@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Vöröskereszt és Vörös Félhold Társaságok Nemzetközi Szövetsége között a Nemzetközi Szövetség budapesti Regionális Küldöttségének jogállásáról szóló Megállapodáshoz fűzött 1. számú Kiegészítő Jegyzőkönyv (a továbbiakban: Kiegészítő Jegyzőkönyv) kötelező hatályának elismerésére.
