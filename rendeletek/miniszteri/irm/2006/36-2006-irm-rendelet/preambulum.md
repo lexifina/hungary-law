@@ -1,0 +1,1 @@
+A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény és a büntetőeljárásról szóló 1998. évi XIX. törvény módosításáról szóló 2006. évi CXVIII. törvény 4. §-ának (2) bekezdésében kapott felhatalmazás alapján a következő rendeletet adom ki:
