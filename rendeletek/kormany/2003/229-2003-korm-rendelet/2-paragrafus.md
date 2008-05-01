@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya között a természeti és civilizációs katasztrófák elleni védelem terén Ankarában, 1996. október 16-án aláírt Egyezményt e rendelettel kihirdeti.
