@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Dán Királyság Kormánya között Koppenhágában, az 1971. évi február hó 24. napján aláírt kulturális együttműködési Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
