@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya között a terrorizmus, a kábítószer tiltott forgalma és a szervezett bűnözés elleni harcban történő együttműködésről szóló, Varsóban, 1996. május 15-én aláírt Megállapodást e rendelettel kihirdeti.
