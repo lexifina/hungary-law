@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Koreai Köztársaság Kormánya között a vízummentességre, illetve a vízumkönnyítésre vonatkozó 1991. március 26-án kelt megállapodást a rendelettel kihirdeti.
