@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Magyar Köztársaság és a Szlovák Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról rendelkező, Pozsonyban, 2003. október 9. napján aláírt Megállapodást e rendelettel kihirdeti.
