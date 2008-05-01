@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a katasztrófavédelmi tevékenységek információs rendszerének továbbfejlesztése céljából Budapesten, 1999. szeptember 29-én aláírt Adományozási Megállapodást e rendelettel kihirdeti.
