@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között a katasztrófák és súlyos szerencsétlenségek esetén történő kölcsönös segítségnyújtásról szóló, Bonnban, 1997. június 9-én aláírt Egyezményt e rendelettel kihirdeti.
