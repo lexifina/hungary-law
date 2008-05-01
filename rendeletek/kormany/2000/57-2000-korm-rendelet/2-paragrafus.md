@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között, a két ország közös államhatárán, Esztergom és Párkány (Stúrovo) városok közötti közúti Duna-híd újjáépítéséről és a kapcsolódó létesítmények megépítéséről szóló, Esztergomban-Párkányban, 1999. szeptember 16-án aláírt Egyezményt e rendelettel kihirdeti.
