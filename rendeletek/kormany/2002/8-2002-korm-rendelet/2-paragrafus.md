@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Svájci Szövetségi Tanács között a bűnözés elleni harcban való együttműködésről szóló, Budapesten, 1999. február 5-én aláírt Megállapodást e rendelettel kihirdeti.
