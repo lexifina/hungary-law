@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a Magyar Köztársaság és a Szlovén Köztársaság között a közúti és a vasúti határforgalom ellenőrzéséről szóló Egyezménynek a vasúti határforgalomban történő végrehajtásáról szóló, Budapesten, 2000. október 12-én aláírt Megállapodást e rendelettel kihirdeti.
