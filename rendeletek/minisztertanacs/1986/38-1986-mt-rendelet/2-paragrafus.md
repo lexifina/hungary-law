@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Román Szocialista Köztársaság Kormánya között a magyar-román államhatár szolgálati célú átlépéséhez szükséges Határátlépési Igazolványok egységesítéséről Budapesten, az 1982. évi március hó 18. napján aláírt egyezményt e rendelettel kihirdeti.
