@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Norvég Királyság Kormánya között a nemzetközi közúti fuvarozás tárgyában Oslóban, az 1975. évi október hó 6. napján aláírt egyezményt e rendelettel kihirdeti.
