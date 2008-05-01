@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya között a két állam állampolgárainak magánútleveleire vonatkozó 1997. április 14-én jegyzékváltással létrejött Megállapodást e rendelettel kihirdeti.
