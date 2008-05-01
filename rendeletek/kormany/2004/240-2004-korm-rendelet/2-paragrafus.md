@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között a szervezett bűnözés elleni küzdelemben folytatott együttműködésről szóló, Pekingben, 2003. augusztus 28. napján aláírt Egyezményt e rendelettel kihirdeti.
