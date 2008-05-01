@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Budapesten, 2000. május 23-án aláírt Megállapodást e rendelettel kihirdeti.
