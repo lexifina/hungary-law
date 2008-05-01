@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a szolgálati célú határátlépésekhez szükséges okmányok egységesítéséről szóló, Budapesten, 1997. július 9-én alírt Egyezményt e rendelettel kihirdeti.
