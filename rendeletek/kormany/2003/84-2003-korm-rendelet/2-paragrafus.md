@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Litván Köztársaság Kormánya közötti, a terrorizmus, illegális kábítószer-kereskedelem, szervezett bűnözés és más súlyos bűncselekmények elleni fellépésben való együttműködésről szóló, Vilniusban, 1997. március 4-én aláírt Megállapodást e rendelettel kihirdeti.
