@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Perui Köztársaság Kormánya között a kulturális és tudományos együttműködés tárgyában Budapesten, az 1972. évi május hó 22. napján aláírt Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
