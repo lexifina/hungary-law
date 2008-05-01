@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és az Indiai Köztársaság Kormánya között New Delhiben, az 1962. évi március hó 30. napján kötött kulturális együttműködési egyezmény kihirdetéséről szóló Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.

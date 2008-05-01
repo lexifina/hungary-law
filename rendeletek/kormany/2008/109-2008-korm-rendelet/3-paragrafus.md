@@ -1,0 +1,53 @@
+## 2. § Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+## „Kulturális Együttműködési Egyezmény
+
+## a Magyar Népköztársaság és az Indiai Köztársaság Kormányai között
+
+## A Magyar Népköztársaság Kormánya és az Indiai Köztársaság Kormánya
+
+## attól az óhajtól vezetve, hogy a két ország közötti baráti kapcsolatokat erősítsék, közöttük a kulturális kapcsolatokat előmozdítsák és oktatási, szociális és kulturális téren a kölcsönös együttműködést fejlesszék,
+
+## elhatározták, hogy Kulturális Együttműködési Egyezményt kötnek, és ebből a célból kinevezték meghatalmazottaikat, akik megbízóleveleiket kicserélték, azokat kellő alakban kiállítottnak találták és megállapodtak a következőkben:
+
+## I. Cikk
+
+## A Szerződő Felek kifejezik azt az óhajukat, hogy támogassák és előmozdítsák együttműködésüket a kultúra, a tudomány, az oktatás, az irodalom és a művészet területén.
+
+## II. Cikk
+
+## A Szerződő Felek a rendelkezésükre álló pénzügyi források keretén belül minden lehető módon előmozdítják a szoros együttműködés fejlesztését, a két ország kulturális, tudományos, művészeti, oktatási, egészségügyi, sport és más hasonló intézményei között, különösen
+
+## a) a kultúra és a művészetek művelőinek, professzoroknak, tudósoknak, oktatóknak és tanulóknak cseréje;
+
+## b) mindkét ország oktatási és kulturális tevékenységét bemutató kiállítások szervezése, színházi és táncelőadások, filmbemutatók és zenei hangversenyek rendezése;
+
+## c) tudományos, irodalmi és művészeti értékű könyvek, folyóiratok és más kiadványok fordítása és cseréje;
+
+## d) tudományos, művészeti, irodalmi stb. tárgyú filmek, filmhíradók, hanglemezek, fényképes és írott anyagok cseréje;
+
+## e) sport és atlétikai csapatok kölcsönös látogatása
+
+## által.
+
+## III. Cikk
+
+## A Szerződő Felek vizsgálat tárgyává teszik, hogy országaikban külön megállapodás alapján és az országaikban érvényben levő törvények szerint kulturális intézményeket létesítsenek.
+
+## IV. Cikk
+
+## A Szerződő Felek felajánlják jószolgálataikat annak megkönnyítése érdekében, hogy a két országban levő egyetemek és más oktatási intézmények az általuk adott tudományos képesítést, diplomát és bizonyítványt az országaikban érvényes törvények szerint kölcsönösen elismerjék.
+
+## V. Cikk
+
+## Ez az Egyezmény azon a napon lép életbe, amelyen a ratifikációs okmányokat kicserélik. Az okmányok kicserélése a lehető legrövidebb időn belül Budapesten történik. Az Egyezmény öt évig érvényes és öt év után is érvényben marad mindaddig, amíg bármely Fél által írásban közölt legalább hat hónapra szóló felmondással meg nem szűnik.
+
+## Ennek tanúsításául a fent nevezett Meghatalmazottak ezt az Egyezményt aláírták magyar, hindi és angol nyelven, készült két-két példányban. Mindegyik példány egyformán hiteles, kétség esetén azonban az angol szöveg az irányadó.
+
+## New Delhi, ezerkilencszázhatvankettő év március harmincadikán.
+
+## (Aláírások)”
+
+3. § (1) E rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter és a kultúráért felelős miniszter gondoskodik.
