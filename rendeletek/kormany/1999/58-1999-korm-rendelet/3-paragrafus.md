@@ -1,0 +1,86 @@
+## 2. § Az Egyezmény magyar nyelvű szövege a következő:
+
+## ,,
+
+## EGYEZMÉNY
+
+## a Magyar Köztársaság Kormánya
+
+## és az Osztrák Szövetségi Kormány között
+
+## az Andau-i híd megközelíthetőségéről
+
+## A Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány országaik jószomszédi kapcsolatainak előmozdítása érdekében a következőkben állapodtak meg:
+
+## 1. Cikk
+
+## (1) Az Európai Unió, az Európai Gazdasági Térség, valamint harmadik államok állampolgárai, amennyiben rendelkeznek a szükséges úti okmányokkal, az osztrák–magyar államhatárt az A-62/6 határjelnél megnyitott területen az Andau-i híd, valamint az azzal határos emlékhely meglátogatása céljából átléphetik.
+
+## (2) Az (1) bekezdésben megnevezett személyek a hídon, valamint az azzal határos emlékhely területén minden év április hó 1. és október hó 31. között naponta 8.00 órától 20.00 óráig tartózkodhatnak. Ez a terület az 1. számú mellékletként csatolt, a jelen Egyezmény részét képező tervrajzon látható.
+
+## (3) Az (1) bekezdésben megnevezett területet – az államhatár mindkét oldalán – több nyelven készült feliratokat tartalmazó táblákkal kell megjelölni, amelyek a határátlépésre és a területen való tartózkodás szabályaira vonatkozó rendelkezéseket tartalmazzák. A táblák szövegét a 2. számú melléklet tartalmazza.
+
+## 2. Cikk
+
+## Ez az Egyezmény nem érinti a hídra vonatkozó tulajdonviszonyokat, valamint a magyar állampolgároknak azon jogát, hogy a hidat magyar oldalról akadálytalanul látogathassák.
+
+## 3. Cikk
+
+## (1) Jelen Egyezmény alkalmazását bármely Szerződő Fél közrendi és közbiztonsági okokból átmenetileg felfüggesztheti, miután erről a másik Szerződő Felet diplomáciai úton értesítette. A felfüggesztés befejezéséről szintén diplomáciai úton, írásban kell értesíteni a másik Szerződő Felet.
+
+## (2) Ez az Egyezmény határozatlan időre szól. Az Egyezmény az azt követő első hónap első napján lép hatályba, amelyben a Szerződő Felek egymást diplomáciai úton írásban értesítik, hogy a hatálybalépéshez szükséges belső jogi feltételeknek eleget tettek.
+
+## (3) A jelen Egyezményt bármely Szerződő Fél, bármikor felmondhatja. Az Egyezmény az írásban, diplomáciai úton való felmondásról szóló értesítésnek a másik Szerződő Fél által történt kézhezvételét követő 3 hónap elteltével veszti hatályát.
+
+## Készült, Bécsben, 1998. évi november hónap 24. napján, két eredeti példányban, magyar és német nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+## A Magyar Köztársaság
+
+## Kormánya nevében:
+
+## Dr. Martonyi János s. k.
+
+## Az Osztrák Szövetségi
+
+## Kormány nevében:
+
+## Dr. Wolfgang Schüssel s. k.
+
+## 1. számú melléklet
+
+## A Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között
+
+## az Andau-i híd megközelíthetőségéről szóló Egyezmény 1. Cikk (2) bekezdéséhez[^2]
+
+## 2. számú melléklet
+
+## A Magyar Köztársaság Kormánya
+
+## és az Osztrák Szövetségi Kormány között
+
+## az Andau-i híd megközelíthetőségéről szóló
+
+## Egyezmény 1. Cikk (3) bekezdésében meghatározott tájékoztató táblák szövege
+
+## 1. Az osztrák államterületen elhelyezésre kerülő tájékoztató tábla szövege német, magyar, angol, olasz, francia nyelven tartalmazza a következőket:
+
+## »– Az osztrák–magyar államhatárt az Andau-i híd, valamint az azzal határos emlékhely meglátogatása céljából az Európai Unió, az Európai Gazdasági Térség, valamint harmadik államok állampolgárai átléphetik.
+
+## – Az emlékhely területére kizárólag a nyitvatartási időn belül, csak érvényes úti okmánnyal, gyalogosan lehet belépni és ott tartózkodni! A területre tolószékkel történő belépés megengedett.
+
+## – Nyitvatartási idő: április hó 1.–október hó 31. között naponta 8.00–20.00 óráig.
+
+## – Az emlékhely végénél elhelyezett táblák vonalán túlhaladni tilos!«
+
+## 2. A magyar államterületen elhelyezésre kerülő táblák szövege magyar és német nyelven az alábbiakat tartalmazza:
+
+## »– Figyelem! Emlékhely vége!
+
+## – Továbbhaladni tilos!«''
+
+3. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, az Egyezmény rendelkezéseit azonban 1999. április hónap 1. napjától kell alkalmazni.
+
+(2)[^3] E rendelet végrehajtásáról a határrendészetért felelős miniszter és a környezetvédelemért felelős miniszter gondoskodik.
+
+[^2]: Lásd 1999. MK 33. szám 2451. oldal.
+[^3]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 106. pontja szerint módosított szöveg.
