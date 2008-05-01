@@ -1,0 +1,1 @@
+## 4. § A Kormány felhatalmazást ad a Hágai Nemzetközi Magánjogi Értekezlet Alapszabályának az Értekezlet Huszadik Ülésszakán, 2005. június 30-án elfogadott módosításai kötelező hatályának elismerésére.
