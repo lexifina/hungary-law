@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a Magyar Köztársaság részére nyújtandó képzési és technikai segítségnyújtásról szóló, Budapesten, 1998. szeptember 14-én aláírt Megállapodást és az 1998. szeptember 15-i szóbeli jegyzékváltás alapján létrejött Megállapodást egységes szerkezetben e rendelettel kihirdeti.
