@@ -1,0 +1,1 @@
+A honvédelmet érintő egyes törvények módosításáról szóló 1998. évi LXXXIX. törvény 25. §-ának (3) bekezdésében kapott felhatalmazás alapján a tűzszerészeti mentesítési feladatok ellátására a Kormány a következőket rendeli el:
