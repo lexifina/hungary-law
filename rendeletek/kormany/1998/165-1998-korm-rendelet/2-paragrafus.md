@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, 1992. év augusztus hó 21. napján létrejött, a 61/1993. (IV. 15.) Korm. rendelettel kihirdetett Egyezmény kiegészítése tárgyában, Budapesten, 1997. november hó 12. napján aláírt Egyezményt e rendelettel kihirdeti.
