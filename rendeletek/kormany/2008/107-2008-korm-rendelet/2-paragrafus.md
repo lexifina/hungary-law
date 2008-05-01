@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Ghanai Köztársaság Kormánya között Accrában, az 1971. évi június hó 8. napján aláírt kulturális együttműködési Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.

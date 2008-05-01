@@ -1,0 +1,55 @@
+## 2. § Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+## „Kulturális együttműködési egyezmény
+
+## a Magyar Népköztársaság és a Ghanai Köztársaság között
+
+## A Magyar Népköztársaság Kormánya és a Ghanai Köztársaság Kormánya – a továbbiakban „Szerződő Felek”-ként említve az Egyezményben – azon óhajuknak adva kifejezést, hogy a két ország közötti kapcsolatokat fejlesszék a kultúra, oktatás, tudomány és művészet területén való együttműködés útján, elhatározták a jelen Egyezmény megkötését és az alábbiakban állapodtak meg:
+
+## 1. Cikk
+
+## A Szerződő Felek elősegítik az országaik közötti kulturális cserét és a két ország kulturális kincseinek, valamint a kultúra, oktatás, tudomány és művészetek terén elért eredményeik kölcsönös megismerését.
+
+## 2. Cikk
+
+## A Szerződő Felek elősegítik országaik kulturális, oktatási, tudományos, egészségügyi és művészeti szervezeteinek együttműködését és tapasztalatcseréjét, s e célból ösztönözni fogják egyetemi tanárok, valamint szakmai és tudományos intézmények tanárainak kölcsönös látogatásait.
+
+## 3. Cikk
+
+## Mindkét Szerződő Fél ösztöndíjak és más kedvezmények nyújtásával lehetővé fogja tenni a másik Szerződő Fél állampolgárai részére az egyetemein és más oktatási intézményein való tanulást. Az elfogadás ügyében a Fogadó Fél határoz.
+
+## 4. Cikk
+
+## A Szerződő Felek lehetőség szerint elősegítik az országaik állampolgárai közötti sportversenyeket, valamint a sportolók és sportoktatók kölcsönös látogatását.
+
+## 5. Cikk
+
+## Mindkét Szerződő Fél támogatja a másik Szerződő Fél zeneműveinek, színdarabjainak és filmjeinek bemutatását, előadásokat és kiállításokat rendez és ösztönzi a lefordított tudományos, technológiai és művészeti művek terjesztését. Az előadások témáit a Szerződő Felek egyeztetik.
+
+## 6. Cikk
+
+## A Szerződő Felek elősegítik a rádió- és televízióprogramok, filmek, valamint a másik ország tudományos, kulturális és oktatási anyagainak kölcsönös cseréjét, amely a fogadó ország előírásainak és szabályainak megfelelően történik.
+
+## 7. Cikk
+
+## A Szerződő Felek megvizsgálják a másik országban adományozott oklevelek és tudományos fokozatok elismerésének kérdését. Amennyiben szükségesnek mutatkozik, a Szerződő Felek e célból külön egyezményt kötnek.
+
+## 8. Cikk
+
+## Jelen Egyezmény végrehajtására a Szerződő Felek kulturális együttműködési programot dolgoznak ki meghatározott időszakra.
+
+## 9. Cikk
+
+## 1. Jelen Egyezmény azon a napon lép életbe, amikor a két Szerződő Fél jegyzékváltással igazolja, hogy az Egyezményt a Szerződő Felek megfelelő alkotmányos eljárásuk során jóváhagyták vagy ratifikálták.
+
+## 2. Ez az Egyezmény érvénybelépése napjától számított öt (5) éves időszakra marad érvényben azzal, hogy az a Szerződő Felek megállapodásának megfelelő további időszakra megújítható, amennyiben valamelyik fél ezen kívánságát az Egyezmény lejárta előtt hat (6) hónappal írásban a másik fél tudomására hozza.
+
+## 3. Ennek hiteléül az alulírottak, kormányuk kellő felhatalmazásának birtokában, a jelen Egyezményt aláírták.
+
+## Készült Accrában, az 1971. évi június hó 8. napján, két eredeti példányban, magyar és angol nyelven, mindkét szöveg egyaránt hiteles.
+
+## (Aláírások)”
+
+3. § (1) E rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter gondoskodik.
