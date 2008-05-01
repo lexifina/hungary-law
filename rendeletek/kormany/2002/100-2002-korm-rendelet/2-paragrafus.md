@@ -1,0 +1,1 @@
+## 1. § A Cct. 21/F. §-ában meghatározott egyházi jogi személy, egyesület, alapítvány, közalapítvány, országos kisebbségi önkormányzat és közhasznú társaság (a továbbiakban együtt: nem állami fenntartó) a szociális beruházások címzett támogatására beruházási koncepciót készít.
