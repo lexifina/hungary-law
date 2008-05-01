@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság és az Osztrák Köztársaság között Bécsben, az 1976. évi május hó 19. napján aláírt kulturális és tudományos együttműködési egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
