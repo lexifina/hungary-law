@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya között a nemzetközi szervezett bűnözés és a kábítószerek illegális forgalmazása elleni harcban történő együttműködésről szóló, Rabatban, 1999. május 12-én aláírt Megállapodást e rendelettel kihirdeti.
