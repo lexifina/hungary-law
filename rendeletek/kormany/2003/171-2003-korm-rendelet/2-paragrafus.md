@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Románia Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Budapesten, 2003. április 9. napján aláírt Megállapodást e rendelettel kihirdeti.
