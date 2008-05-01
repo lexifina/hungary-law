@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a vízumkényszer megszüntetésére vonatkozó, 1990. szeptember 18-án kelt megállapodást e rendelettel kihirdeti.
