@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Holland Királyság Kormánya között bűnüldöző szerveiknek a nemzetközi bűnözés elleni harcban történő együttműködésről szóló, Hágában, 1998. november 2-án aláírt Egyezményt e rendelettel kihirdeti.
