@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya között a magyar állampolgárok vízummentes utazásáról, valamint rövid tartamú látogatásra Magyarországra utazó marokkói állampolgárok vízumdíj megfizetésének kötelezettsége alóli mentesítéséről szóló, jegyzékváltás útján létrejött Megállapodást e rendelettel kihirdeti.
