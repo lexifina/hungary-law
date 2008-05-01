@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Málta Kormánya között a kábítószerek és pszichotrop anyagok tiltott forgalmazása, valamint a szervezett bűnözés elleni harcban történő együttműködésről szóló, Budapesten, 2000. május 18-án aláírt Megállapodást e rendelettel kihirdeti.
