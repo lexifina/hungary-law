@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a határforgalom ellenőrzéséről a közúti, vasúti és vízi közlekedésben, Kijevben, 2002. február 6. napján aláírt Egyezményt e rendelettel kihirdeti.

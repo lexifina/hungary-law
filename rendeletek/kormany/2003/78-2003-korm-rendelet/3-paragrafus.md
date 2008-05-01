@@ -1,0 +1,172 @@
+## 2. § Az Egyezmény magyar nyelvű szövege a következő:
+
+## ,,
+
+## Egyezmény
+
+## a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a határforgalom ellenőrzéséről a közúti, vasúti és vízi közlekedésben
+
+## A Magyar Köztársaság Kormánya és Ukrajna Kormánya (a továbbiakban: Szerződő Felek) azzal a szándékkal, hogy a magyar–ukrán államhatáron a közúti, a vasúti és a vízi közlekedésben a határforgalom ellenőrzését egyszerűsítsék és gyorsítsák, a következőkben állapodnak meg:
+
+## I. Rész
+
+## Általános rendelkezések
+
+## 1. Cikk
+
+## A jelen Egyezményben használt fogalmak jelentése a következő:
+
+## 1. ,,Határforgalom-ellenőrzés'' – a Szerződő Felek államának valamennyi olyan hatályos jogi előírásainak a végrehajtása, amelyet a személyek határátléptetésére, valamint a javak behozatalára, kivitelére és a Szerződő Felek államának területén történő átvitelére alkalmaznak.
+
+## 2. ,,Határforgalom-ellenőrző szervek'' – a határrendészeti és vámigazgatási szervek, valamint a Szerződő Felek államának jogszabályaiban határforgalom-ellenőrzésre feljogosított más hatóságok.
+
+## 3. ,,Szolgálati személyek'' – azok a személyek, akik a Szerződő Felek államának határforgalom-ellenőrző szervei megbízásából, hatályos jogszabályaik alapján a határforgalom ellenőrzését végzik.
+
+## 4. ,,Javak'' – az áruk, a szállítóeszközök és egyéb értékek, beleértve azokat is, amelyek a devizaszabályozás hatálya alá tartoznak.
+
+## 5. ,,Beléptető állam'' – az az állam, ahová a személyeket és javakat a határforgalom-ellenőrző szervek beléptetik.
+
+## 6. ,,Kiléptető állam'' – az az állam, ahonnan a személyeket és javakat a határforgalom-ellenőrző szervek kiléptetik.
+
+## 2. Cikk
+
+## (1) A Szerződő Felek ezen Egyezmény alapján, minden szükséges intézkedést megtesznek a nemzetközi személy- és áruforgalom, valamint a határmenti forgalom fejlesztése érdekében, határátkelőhelyeiken egyszerűsítik, meggyorsítják a közúti, a vasúti és a vízi határforgalom ellenőrzését.
+
+## (2) A jelen Cikk (1) bekezdésében megjelölt célból, a Szerződő Felek államának szolgálati személyei a saját államuk területén
+
+## – a közúti határátkelőhelyeken,
+
+## – meghatározott vasútszakaszon közlekedő vonatokon és vasúti határállomásokon,
+
+## – meghatározott víziút-szakaszon, a határkikötőkben
+
+## határforgalom-ellenőrzést végeznek.
+
+## (3) A Szerződő Felek kétoldalú szerződésben meghatározzák és szabályozzák
+
+## a) a határátkelőhely létesítésének helyét, forgalmi jellegét, nyitva tartásának idejét és a működtetésének rendjét;
+
+## b) a határátkelőhelyek forgalmi jellegének megváltoztatását vagy megszüntetésének feltételeit.
+
+## II. Rész
+
+## A határátlépés szabályai és a határforgalom ellenőrzésének rendje
+
+## 3. Cikk
+
+## (1) Az államhatárt – a jelen Egyezményben vagy más nemzetközi szerződésben meghatározott kivételekkel – csak a kijelölt határátkelőhelyeken, érvényes úti okmánnyal lehet átlépni.
+
+## (2) A határátkelőhelyeken, illetve a jelen Egyezmény 4. Cikkében megfogalmazott esetekben a határforgalom-ellenőrzés során a személyek határátléptetése, valamint a javak behozatala, kivitele és átvitele a Szerződő Felek államának hatályos belső jogszabályai alapján történik.
+
+## 4. Cikk
+
+## Kölcsönös egyetértés esetén a magyar Szerződő Fél részéről a határőrség országos parancsnoka a vám- és pénzügyőrség országos parancsnokával egyetértésben, az ukrán Szerződő Fél részéről az Állami Határőrizeti Bizottság elnöke az Állami Vámigazgatási Szolgálat elnökével, valamint a közlekedési miniszterrel egyetértésben hatályos jogszabályaik alapján, előzetes időpont, időtartam és hely szerinti egyeztetés után engedélyezhetik
+
+## – a működő határátkelőhelyeken a forgalom jellegétől eltérően a személyek és javak átléptetését,
+
+## – ideiglenes határátkelőhelyek megnyitását.
+
+## 5. Cikk
+
+## (1) Nem lehet megtagadni azoknak a javaknak a kiléptető államba való visszaszállítását és visszafogadását, amelyeknek a behozatalát a beléptető állam szolgálati személyei nem engedélyezték.
+
+## (2) Az (1) bekezdésben említett intézkedések végrehajtása során a határforgalom-ellenőrző szervek haladéktalanul tájékoztatják egymást az intézkedések végrehajtásáról.
+
+## 6. Cikk
+
+## A határforgalom-ellenőrző szervek a határátkelőhelyeken a személy- és áruforgalomban bekövetkező indokolatlan várakozások megelőzése és csökkentése érdekében összehangolt, együttes intézkedéseket tesznek. Így különösen:
+
+## 1. Kölcsönösen tájékoztatják egymást a személy- és járműforgalom váratlan növekedéséről, a kialakult várakozásokról, a határforgalom ellenőrzéséhez szükséges várakozási időről.
+
+## 2. Haladéktalanul tájékoztatják egymást a tervezett forgalomkorlátozásokról, a forgalmi torlódásokról, valamint ezek megszűnéséről.
+
+## 3. A tömegtájékoztatási eszközök lehetőségeit kihasználva tájékoztatják saját államuk lakosságát azokról az okokról és körülményekről, amelyek a határátkelőhelyeken a várakozást, illetve a forgalom átirányítását előidézték.
+
+## 4. A járműforgalom torlódása esetén a magyar Szerződő Fél részéről a határőrség országos parancsnoka és a vám- és pénzügyőrség országos parancsnoka, az ukrán Szerződő Fél részéről az Állami Határőrizeti Bizottság elnöke, az Állami Vámigazgatási Szolgálat elnökével egyetértésben ideiglenes jelleggel engedélyezhetik a személyek és javak átirányítását azokra a határátkelőhelyekre, amelyeken nemzetközi szerződés azt nem teszi lehetővé. Ez nem vonatkozik a veszélyes árukra, valamint azokra az árukra, amelyek növény- és állategészségügyi vizsgálat nélkül nem szállíthatók át az államhatáron.
+
+## 5. A Szerződő Felek ösztönzik és támogatják olyan ellenőrzési technológiák, módszerek alkalmazását, amelyek a biztonsági követelménynek megfelelnek, és biztosítják a kulturált és a lehető leggyorsabb átléptetést, figyelemmel a kombinált fuvarozási módokra is. E technológiákat és módszereket folyamatosan elemzik és fejlesztik.
+
+## 6. A határforgalom-ellenőrzést végző szervek a határátkelőhelyek között hírösszeköttetést létesítenek a szolgálati személyek részére. Az összeköttetés létesítésére az érintett szervek külön megállapodást kötnek, melyet jegyzőkönyvbe foglalnak.
+
+## III. Rész
+
+## Eljárási szabályok
+
+## 7. Cikk
+
+## (1) A határforgalom-ellenőrző szervek a jelen Egyezményben foglalt feladataik végrehajtása érdekében az együttműködésre vagy segítségnyújtásra irányuló megkereséseiket írásban, magyar, illetve ukrán nyelven küldik meg a másik Szerződő Fél állama határforgalom-ellenőrző szervének. Az együttműködő szervek más idegen nyelv használatában is megállapodhatnak.
+
+## (2) Az együttműködési vagy a segítségnyújtási kérelem teljesítése részben vagy egészben visszautasítható vagy feltételekhez köthető, ha annak teljesítése sértené bármelyik Szerződő Fél államának szuverenitását, veszélyeztetné biztonságát vagy alapvető érdekét, vagy hatályos belső jogszabályaiba ütközik.
+
+## (3) A segítségnyújtás felfüggesztéséről vagy feltételekhez kötéséről vagy megtagadásáról, illetve annak okairól haladéktalanul értesíteni kell a megkereső Szerződő Fél államának határforgalom-ellenőrző szerveit.
+
+## 8. Cikk
+
+## (1) A Szerződő Felek határforgalom-ellenőrző szervei
+
+## – kölcsönösen kicserélik tudományos, technikai és gyakorlati tapasztalataikat,
+
+## – konferenciákat, tanulmányutakat, tudományos programokat rendeznek szakembereik részére, beleértve a megfelelő oktatási intézmények együttműködését.
+
+## (2) A Szerződő Felek a határforgalmat, a határforgalom ellenőrzését érintő jogszabályok és egyéb belső rendelkezések változásairól haladéktalanul, kölcsönösen tájékoztatják egymást.
+
+## 9. Cikk
+
+## A Szerződő Felek szolgálati személyei a jelen Egyezményből származó feladataik teljesítése során a közös államhatárt érvényes szolgálati célú Határátlépési Igazolvánnyal, illetve Névjegyzékkel jogosultak átlépni, amelynek a használatát a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről szóló Egyezmény határozza meg.
+
+## IV. Rész
+
+## Záró rendelkezések
+
+## 10. Cikk
+
+## (1) Jelen Egyezmény végrehajtásának összehangolásáért a magyar Szerződő Fél részéről a Belügyminisztérium, az ukrán Szerződő Fél részéről a Határőrizeti Állami Bizottság mint illetékes szerv a felelős.
+
+## (2) A jelen Egyezmény végrehajtása érdekében a Szerződő Felek Határforgalom Ellenőrzési Vegyes Bizottságot (a továbbiakban: Vegyes Bizottság) hoznak létre. A Vegyes Bizottság társelnökét a magyar Szerződő Fél részéről a belügyminiszter az ukrán Szerződő Fél részéről a Határőrizeti Állami Bizottság elnöke, tagjait a határforgalom ellenőrzésében érintett központi szervek vezetői jelölik ki. A Vegyes Bizottság szükség szerint szakértőket vehet igénybe.
+
+## (3) A Vegyes Bizottság társelnökeinek kinevezéséről a Szerződő Felek diplomáciai úton tájékoztatják egymást. A küldöttségek tagjainak kinevezéséről a Vegyes Bizottság elnökei értesítik egymást.
+
+## (4) A Vegyes Bizottság tervezi és szervezi a jelen Egyezmény szerinti közös tevékenységet, meghatározza az információk cseréjének módját, figyelemmel kíséri az Egyezmény végrehajtását, javaslatot tesz az együttműködés továbbfejlesztésére, az ügyrendjében meghatározott esetekben egyeztetett intézkedéseket tesz. A Vegyes Bizottság feladatait és működését az első ülésen elfogadott ügyrend alapján végzi.
+
+## (5) A Vegyes Bizottság rendes üléseit kölcsönös egyeztetés alapján, szükség szerint, de legalább évente felváltva a Magyar Köztársaság és Ukrajna területén tartja.
+
+## 11. Cikk
+
+## (1) A jelen Egyezmény értelmezésével vagy alkalmazásával kapcsolatos vitákat a Szerződő Felek tárgyalások útján rendezik. A tárgyalásokat a Vegyes Bizottság folytatja le és dönt a vitás kérdésekben. A tárgyalások eredménytelensége esetén a Szerződő Felek a vitákat diplomáciai úton rendezik.
+
+## (2) A jelen Egyezmény alkalmazását nemzetbiztonsági vagy a közrend védelme érdekében vagy más kényszerítő okból bármelyik Szerződő Fél részben vagy egészben átmenetileg felfüggesztheti. Erről, valamint a felfüggesztés megszüntetéséről a másik Szerződő Felet diplomáciai úton haladéktalanul értesíteni kell.
+
+## 12. Cikk
+
+## A jelen Egyezmény nem érinti a Szerződő Felek más nemzetközi szerződésekből vagy egyéb nemzetközi kötelezettségből származó jogait vagy kötelezettségeit.
+
+## 13. Cikk
+
+## (1) Jelen Egyezmény határozatlan időre szól. A Szerződő Felek diplomáciai úton értesítik egymást arról, hogy az Egyezmény hatálybalépéséhez szükséges belső jogi követelményeknek eleget tettek. Az Egyezmény – a (2) bekezdésben foglaltak kivételével – a későbbi jegyzék keltét követő 30. (harmincadik) napon lép hatályba.[^2]
+
+## (2) A jelen Egyezmény 9. Cikke a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről szóló, Kijevben, 2002. február hó 6. napján aláírt Egyezménnyel egyidejűleg lép hatályba.
+
+## (3) A jelen Egyezményt bármelyik Szerződő Fél írásban, diplomáciai úton felmondhatja. Az Egyezmény attól a naptól számított három hónap elteltével veszti hatályát, amikor a felmondásról szóló értesítést a másik Szerződő Fél átvette.
+
+## 14. Cikk
+
+## (1) A jelen Egyezmény a Szerződő Felek kölcsönös egyetértésével kiegészíthető és módosítható.
+
+## (2) A kiegészítést és módosítást diplomáciai úton, írásban kell kezdeményezni. A kiegészítés és módosítás a 13. Cikkben foglalt eljárási rend szerint lép hatályba.
+
+## Készült Kijevben, 2002. év február hó 6. napján, két eredeti példányban, magyar és ukrán nyelven. Mindkét nyelvű szöveg egyaránt hiteles.
+
+## A Magyar Köztársaság
+
+## Kormánya részéről
+
+## Ukrajna Kormánya
+
+## részéről''
+
+3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, az Egyezmény rendelkezéseit – a 9. Cikk kivételével – 2002. november 23. napjától, a 9. Cikk rendelkezését pedig 2003. február 23. napjától kell alkalmazni.
+
+(2)[^3] E rendelet végrehajtásáról a határrendészetért felelős miniszter, az adópolitikáért felelős miniszter, az állategészségügyért felelős miniszter és a növényegészségügyért felelős miniszter gondoskodik.
+
+[^2]: Kihirdette a 64/2003. (V. 13.) Korm. rendelet, hatályos 2003. február 23. napjától.
+[^3]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 160. pontja szerint módosított szöveg.
