@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Seychelles-i Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló Megállapodást 1991. július hó 5. napján megtörtént aláírása alapján e rendelettel kihirdeti.
