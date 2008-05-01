@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Uruguayi Keleti Köztársaság Kormánya között a vízumkényszer kölcsönös megszüntetéséről szóló Megállapodást az 1991. június hó 14. napján megtörtént jegyzékváltás alapján e rendeletet kihirdeti.
