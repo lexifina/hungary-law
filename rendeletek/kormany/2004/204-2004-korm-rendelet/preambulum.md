@@ -1,0 +1,1 @@
+(A Megállapodás módosításáról szóló jegyzékváltás 2004. február 2. napján, 2004. február 6. napján, valamint 2004. április 15. napján megtörtént. A Megállapodás 2004. május 1. napján hatályba lépett.)
