@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Líbiai Arab Szocialista Népi Dzsamahirija között Tripoliban, az 1978. március 16-án aláírt kulturális együttműködési egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
