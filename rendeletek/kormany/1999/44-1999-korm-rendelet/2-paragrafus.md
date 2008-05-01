@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Egyiptomi Arab Köztársaság Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről szóló, Kairóban, 1996. március 26-án aláírt Megállapodást e rendelettel kihirdeti.
