@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között a vízumkényszer kölcsönös megszüntetéséről 1985. november 29-én Budapesten aláírt egyezményt e rendelettel kihirdeti.
