@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Svájc Szövetségi Tanácsa között a vízumkényszer megszüntetéséről szóló, 1990. augusztus 7-én aláírt Megállapodás módosítására vonatkozó Megállapodás kiegészítéséről szóló szóbeli jegyzéket e rendelettel kihirdeti.
