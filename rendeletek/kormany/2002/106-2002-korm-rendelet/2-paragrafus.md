@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Makaó Különleges Közigazgatási Terület Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Makaóban, 2001. október hó 30. napján aláírt Megállapodást e rendelettel kihirdeti.
