@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Svéd Királyság Kormánya között a szervezett bűnözés, a kábítószerek és pszichotróp anyagok illegális kereskedelme, a terrorizmus és a súlyos bűncselekmények más formái elleni küzdelemben való együttműködés tárgyában kötött, Budapesten, 1997. április 23-án aláírt Megállapodást e rendelettel kihirdeti.
