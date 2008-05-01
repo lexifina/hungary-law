@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között a terrorizmus, a kábítószer tiltott forgalma és a szervezett bűnözés elleni harcban történő együttműködésről szóló, Budapesten, 1997. június 4-én aláírt Megállapodást e rendelettel kihirdeti.
