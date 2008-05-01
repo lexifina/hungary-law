@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Seychelle-i Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Budapesten, 1991. július hó 5. napján aláírt Megállapodás jegyzékváltás útján, Nairobiban, 2001. október 2-án létrejött módosítását e rendelettel kihirdeti.
