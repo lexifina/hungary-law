@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa között az állampolgáraik utazásának feltételeiről szóló, Budapesten, 2003. október 21. napján aláírt Megállapodást e rendelettel kihirdeti.
