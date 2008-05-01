@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és az Ecuadori Köztársaság Kormánya között a műszaki-tudományos együttműködésről Quitóban az 1971. szeptember 24. napján kötött Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
