@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a szervezett bűnözés megelőzésére és visszaszorítására vonatkozó információk cseréjéről szóló, Budapesten, 2000. január 13-án aláírt Egyetértési Nyilatkozatot e rendelettel kihirdeti.
