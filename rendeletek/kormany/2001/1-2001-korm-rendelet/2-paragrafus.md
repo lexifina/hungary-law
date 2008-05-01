@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Kuvait Állam Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről szóló, Kuvaitban, 2000. év április hó 15. napján aláírt Megállapodást e rendelettel kihirdeti.
