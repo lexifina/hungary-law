@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a katasztrófahelyzetek megelőzése és felszámolása területén történő együttműködésről szóló, Moszkvában, 1997. április 26-án aláírt Egyezményt e rendelettel kihirdeti.
