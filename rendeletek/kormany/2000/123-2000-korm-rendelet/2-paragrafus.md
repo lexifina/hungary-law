@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel kihirdeti a Magyar Köztársaság Kormánya és a Venezuelai Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, 2000. május 11-én jegyzékváltás útján létrejött megállapodást.
