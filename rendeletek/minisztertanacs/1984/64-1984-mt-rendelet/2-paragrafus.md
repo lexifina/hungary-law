@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Belga Királyság Kormánya között a polgári eljárásról szóló, Hágában az 1954. évi március hó 1-jén kelt Egyezmény alkalmazásának megkönnyítésére irányuló, Brüsszelben 1983. évi május hó 11. napján aláírt Megállapodást e rendelettel kihirdeti.
