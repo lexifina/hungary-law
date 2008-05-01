@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a bűnözés, különösen a szervezett bűnözés elleni harcban történő együttműködésről szóló, Moszkvában, 1997. április 7-én aláírt Megállapodást e rendelettel kihirdeti.
