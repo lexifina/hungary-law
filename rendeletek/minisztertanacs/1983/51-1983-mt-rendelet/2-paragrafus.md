@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Máltai Köztársaság Kormánya között a vízumkényszer megszüntetéséről szóló Budapesten 1983. február 4-én aláírt egyezményt e minisztertanácsi rendelettel kihirdeti.
