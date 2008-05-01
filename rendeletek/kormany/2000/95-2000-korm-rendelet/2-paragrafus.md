@@ -1,0 +1,1 @@
+## 1. § A Magyar Köztársaság Kormánya e rendelettel kihirdeti a Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről jegyzékváltással 1994. szeptember 9-én létrejött megállapodás módosításáról szóló Megállapodást.
