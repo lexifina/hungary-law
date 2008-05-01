@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és az Osztrák Szövetségi Kormány között a vízumkényszer megszüntetéséről Bécsben, 1978. július 5. napján aláírt Egyezmény és az Egyezmény módosításáról szóló, Bécsben, 1997. április 17-én aláírt Megállapodást egységes szerkezetben e rendelettel kihirdeti.
