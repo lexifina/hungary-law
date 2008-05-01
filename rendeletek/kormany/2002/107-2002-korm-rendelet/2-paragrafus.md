@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Hongkongban, 2002. január hó 8. napján aláírt Megállapodást e rendelettel kihirdeti.
