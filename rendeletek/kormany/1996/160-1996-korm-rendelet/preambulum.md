@@ -1,0 +1,1 @@
+A Magyar Köztársaság érdekei szempontjából különösen fontos személyek, a nemzetközileg védett személyek, valamint a kijelölt létesítmények védelmének szabályairól, a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 100. §-a (1) bekezdésének i) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
