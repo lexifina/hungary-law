@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Írország Kormánya között a kábítószerek illegális forgalmazása, a pénzmosás, a szervezett bűnözés, az emberkereskedelem és más súlyos bűncselekmények elleni harcban történő együttműködésről szóló, Budapesten, 1999. november 3-án aláírt Megállapodást e rendelettel kihirdeti.
