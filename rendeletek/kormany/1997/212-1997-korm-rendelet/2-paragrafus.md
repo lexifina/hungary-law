@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló, Pozsonyban, 1997. április 21-én aláírt Egyezményt e rendelettel kihirdeti.
