@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Kazahsztáni Köztársaság Kormánya között a szervezett bűnözés, a kábítószerek és pszichotróp anyagok illegális forgalmazása, a terrorizmus elleni harc területén történő együttműködésről szóló, Budapesten, 1996. október 7-én aláírt Megállapodást e rendelettel kihirdeti.
