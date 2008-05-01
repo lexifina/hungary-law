@@ -1,0 +1,131 @@
+## Szöul, 2005. március 4.
+
+## „Őexcellenciája
+
+## Somogyi Ferenc
+
+## Külügyminiszter
+
+## Excellenciád,
+
+## Utalva a Kormányaink közti tárgyalásokra a vezetői engedélyek kölcsönös elismeréséről, van szerencsém a Koreai Köztársaság Kormányának részéről egy Megállapodást javasolni Kormányaink között a vezetői engedélyek kölcsönös elismeréséről az alábbiak szerint:
+
+## 1. (1) Azzal a céllal, hogy elősegítsék a vezetői engedélyek cseréjét, a Koreai Köztársaság Kormánya és a Magyar Köztársaság Kormánya kölcsönösen elismerik a másik Fél illetékes hatósága által kibocsátott érvényes, nem-ideiglenes vezetői engedélyeket, és kérésre, személygépjárművekre vonatkozó vezetői engedélyt bocsátanak ki azon személyek részére, akik a másik ország jogszabályaival összhangban a másik ország területén történő tartózkodásra jogosító tartózkodási engedélyt szereztek.
+
+## (2) Jelen Megállapodás alkalmazása során a „vezetői engedély” kifejezésbe nem értendőek bele a motorkerékpárokra és a segédmotoros kerékpárokra vonatkozó vezetői engedélyek.
+
+## (3) Jelen Megállapodás alkalmazása során a „személygépjárművekre vonatkozó vezetői engedély” kifejezés alatt a Koreai Köztársaság illetékes hatóságai által kiállított 2. Osztályú Normál Vezetői Engedélyt, illetve a Magyar Köztársaság illetékes hatóságai által kiállított B kategóriára, egészségi alkalmasság 1. csoportban érvényesített vezetői engedélyt kell érteni.
+
+## (4) Jelen Megállapodás alkalmazása során a „tartózkodási engedély” kifejezést az országok jogszabályaival és egyéb rendelkezéseivel összhangban kell meghatározni.
+
+## 2. (1) Bármelyik Fél illetékes hatósága által kibocsátott érvényes, nem-ideiglenes vezetői engedély tulajdonosa, aki a másik állam területén történő tartózkodásra jogosító tartózkodási engedélyt kapott, jogosult kérelmezni vezetői engedélyének ezen másik állam személygépjárművekre vonatkozó vezetői engedélyére történő cseréjét anélkül, hogy bármilyen további írásbeli vagy gyakorlati vezetési vizsgát kellene tennie.
+
+## (2) Jelen bekezdés (1) albekezdése csak azokra a bármelyik Fél illetékes hatóságai által kibocsátott vezetői engedélyekre vonatkoznak, melyeket azelőtt bocsátanak ki tulajdonosuk részére, hogy az tartózkodási engedélyt kap a másik országban.
+
+## (3) Jelen bekezdés (1) albekezdése nem vonatkozik bármelyik Fél jogszabályaiban és egyéb rendelkezéseiben előírt, a vezetői engedély megszerzésével kapcsolatos életkoron, illetve egészségügyi vagy mentális feltételeken alapuló korlátozásokra.
+
+## 3. (1) Mindkét államnak a vezetői engedélyek cseréjét lebonyolító illetékes hatóságai igényelhetik a kérelmezőtől az alábbiak benyújtását:
+
+## a) a kérelmező eredeti vezetői engedélyét, és annak a kérelmet elbíráló állam nyelvére történő hiteles fordítását;
+
+## b) a vezetői engedély cseréjét végző állam nemzeti szabályai szerinti egészségi alkalmassági igazolást, mely tanúsítja, hogy a kérelmező gépjármű vezetésére alkalmas fizikai és mentális állapotban van; továbbá
+
+## c) bármely más okiratot és díjat, melyet az érintett Fél államának vonatkozó jogszabályai előírnak.
+
+## (2) A cserére benyújtott vezetői engedély érvényességével vagy eredetiségével kapcsolatban felmerült kétség esetén, bármelyik államnak a vezetői engedélyek cseréjére illetékes hatósága kérheti a másik állam illetékes hatóságától a vezetői engedély érvényességének, illetve eredetiségének igazolását.
+
+## 4. (1) Amennyiben bármelyik állam illetékes hatóságaihoz kicserélés céljából vezetői engedélyt nyújtanak be, úgy e vezetői engedélyt a másik állam illetékes hatóságaihoz vissza kell juttatni.
+
+## (2) Bármely ország azon illetékes hatóságai, amelyekhez egy eredeti vezetői engedélyt juttatnak el azután, hogy azt kicserélték a másik állam vezetői engedélyére, kötelesek a másik állam illetékes hatóságait tájékoztatni, amennyiben az eredeti vezetői engedély érvényességével vagy hitelességével kapcsolatosan pontatlanság vagy hiányosság áll fenn.
+
+## 5. (1) A vezetői engedélyek kicseréléséért és elismeréséért felelős illetékes hatóságok:
+
+## a) a Koreai Köztársaság részéről: a Nemzeti Rendőri Ügynökség; és
+
+## b) a Magyar Köztársaság részéről: a Belügyminisztérium Központi Adatfeldolgozó, Nyilvántartó és Választási Hivatala.
+
+## (2) A Kormányok kötelesek diplomáciai úton értesíteni egymást a jelen Megállapodás hatálybalépése előtt legalább egy (1) hónappal az alábbiakról:
+
+## a) mindkét ország vezetői engedélyeinek a mintája, és azoknak a kérelmet elbíráló állam nyelvére történő hiteles fordítása; továbbá
+
+## b) saját illetékes hatóságaik címe, ahová a kicserélt vezetői engedélyeket vissza kell küldeni.
+
+## 6. (1) Jelen Megállapodásra vonatkoznak a Felek államainak hatályos jogszabályai és egyéb jogi előírásai.
+
+## (2) Mindkét Kormány diplomáciai úton haladéktalanul tájékoztatja a másik Felet a jelen Megállapodáshoz kapcsolódó szabályozások és a fent említett jogszabályok változásáról.
+
+## 7. (1) Jelen Megállapodás a két Kormány közös írásbeli megállapodása alapján módosítható.
+
+## (2) Bármelyik Kormány jogosult a jelen Megállapodást felmondani azáltal, hogy felmondási szándékát a másik Féllel hat (6) hónappal előre írásban közli.
+
+## Amennyiben a fent említettek a Magyar Köztársaság Kormánya számára elfogadhatóak, úgy van szerencsém javasolni, hogy jelen Levél és Excellenciájuk Válaszlevele a két Kormány közötti Megállapodást hozzon létre, amely attól az időponttól számított hatvan (60) napon belül lép hatályba, hogy mindkét Kormány értesítette a másik Felet arról, hogy a Megállapodás hatálybalépéséhez szükséges belső jogi követelményeknek eleget tett.
+
+## Ezúton ragadom meg a lehetőséget, hogy Excellenciáját őszinte nagyrabecsülésemről biztosítsam.”
+
+## (2) A magyar Fél válaszlevelének hiteles magyar nyelvű fordítása a következő:
+
+## Budapest, 2005. március 4.
+
+## „Excellenciád,
+
+## Van szerencsém Excellenciád 2005. március hó 4. napján kelt levelét tudomásul venni az alábbi tartalommal:
+
+## „1. (1) Azzal a céllal, hogy elősegítsék a vezetői engedélyek cseréjét, a Koreai Köztársaság Kormánya és a Magyar Köztársaság Kormánya kölcsönösen elismerik a másik Fél illetékes hatósága által kibocsátott érvényes, nem-ideiglenes vezetői engedélyeket, és kérésre, személygépjárművekre vonatkozó vezetői engedélyt bocsátanak ki azon személyek részére, akik a másik ország jogszabályaival összhangban a másik ország területén történő tartózkodásra jogosító tartózkodási engedélyt szereztek.
+
+## (2) Jelen Megállapodás alkalmazása során a „vezetői engedély” kifejezésbe nem értendőek bele a motorkerékpárokra és a segédmotoros kerékpárokra vonatkozó vezetői engedélyek.
+
+## (3) Jelen Megállapodás alkalmazása során a „személygépjárművekre vonatkozó vezetői engedély” kifejezés alatt a Koreai Köztársaság illetékes hatóságai által kiállított 2. Osztályú Normál Vezetői Engedélyt, illetve a Magyar Köztársaság illetékes hatóságai által kiállított B kategóriára, egészségi alkalmasság 1. csoportban érvényesített vezetői engedélyt kell érteni.
+
+## (4) Jelen Megállapodás alkalmazása során a „tartózkodási engedély” kifejezést az országok jogszabályaival és egyéb rendelkezéseivel összhangban kell meghatározni.
+
+## 2. (1) Bármelyik Fél illetékes hatósága által kibocsátott érvényes, nem-ideiglenes vezetői engedély tulajdonosa, aki a másik állam területén történő tartózkodásra jogosító tartózkodási engedélyt kapott, jogosult kérelmezni vezetői engedélyének ezen másik állam személygépjárművekre vonatkozó vezetői engedélyére történő cseréjét anélkül, hogy bármilyen további írásbeli vagy gyakorlati vezetési vizsgát kellene tennie.
+
+## (2) Jelen bekezdés (1) albekezdése csak azokra a bármelyik Fél illetékes hatóságai által kibocsátott vezetői engedélyekre vonatkoznak, melyeket azelőtt bocsátanak ki tulajdonosuk részére, hogy az tartózkodási engedélyt kap a másik országban.
+
+## (3) Jelen bekezdés (1) albekezdése nem vonatkozik bármelyik Fél jogszabályaiban és egyéb rendelkezéseiben előírt, a vezetői engedély megszerzésével kapcsolatos életkoron, illetve egészségügyi vagy mentális feltételeken alapuló korlátozásokra.
+
+## 3. (1) Mindkét államnak a vezetői engedélyek cseréjét lebonyolító illetékes hatóságai igényelhetik a kérelmezőtől az alábbiak benyújtását:
+
+## a) a kérelmező eredeti vezetői engedélyét, és annak a kérelmet elbíráló állam nyelvére történő hiteles fordítását;
+
+## b) a vezetői engedély cseréjét végző állam nemzeti szabályai szerinti egészségi alkalmassági igazolást, mely tanúsítja, hogy a kérelmező gépjármű vezetésére alkalmas fizikai és mentális állapotban van; továbbá
+
+## c) bármely más okiratot és díjat, melyet az érintett Fél államának vonatkozó jogszabályai előírnak.
+
+## (2) A cserére benyújtott vezetői engedély érvényességével vagy eredetiségével kapcsolatban felmerült kétség esetén, bármelyik államnak a vezetői engedélyek cseréjére illetékes hatósága kérheti a másik állam illetékes hatóságától a vezetői engedély érvényességének, illetve eredetiségének igazolását.
+
+## 4. (1) Amennyiben bármelyik állam illetékes hatóságaihoz kicserélés céljából vezetői engedélyt nyújtanak be, úgy e vezetői engedélyt a másik állam illetékes hatóságaihoz vissza kell juttatni.
+
+## (2) Bármely ország azon illetékes hatóságai, amelyekhez egy eredeti vezetői engedélyt juttatnak el azután, hogy azt kicserélték a másik állam vezetői engedélyére, kötelesek a másik állam illetékes hatóságait tájékoztatni, amennyiben az eredeti vezetői engedély érvényességével vagy hitelességével kapcsolatosan pontatlanság vagy hiányosság áll fenn.
+
+## 5. (1) A vezetői engedélyek kicseréléséért és elismeréséért felelős illetékes hatóságok:
+
+## a) a Koreai Köztársaság részéről: a Nemzeti Rendőri Ügynökség; és
+
+## b) a Magyar Köztársaság részéről: a Belügyminisztérium Központi Adatfeldolgozó, Nyilvántartó és Választási Hivatala.
+
+## (2) A Kormányok kötelesek diplomáciai úton értesíteni egymást a jelen Megállapodás hatálybalépése előtt legalább egy (1) hónappal az alábbiakról:
+
+## a) mindkét ország vezetői engedélyeinek a mintája, és azoknak a kérelmet elbíráló állam nyelvére történő hiteles fordítása; továbbá
+
+## b) saját illetékes hatóságaik címe, ahová a kicserélt vezetői engedélyeket vissza kell küldeni.
+
+## 6. (1) Jelen Megállapodásra vonatkoznak a Felek államainak hatályos jogszabályai és egyéb jogi előírásai.
+
+## (2) Mindkét Kormány diplomáciai úton haladéktalanul tájékoztatja a másik Felet a jelen Megállapodáshoz kapcsolódó szabályozások és a fent említett jogszabályok változásáról.
+
+## 7. (1) Jelen Megállapodás a két Kormány közös írásbeli megállapodása alapján módosítható.
+
+## (2) Bármelyik Kormány jogosult a jelen Megállapodást felmondani azáltal, hogy felmondási szándékát a másik Féllel hat (6) hónappal előre írásban közli.”
+
+## Továbbá van szerencsém a Magyar Köztársaság Kormányának Képviseletében arról tájékoztatni Excellenciádat, hogy a fentiek elfogadhatóak a Magyar Köztársaság Kormánya számára, valamint megerősíteni, hogy Excellenciád Levele és a Válaszlevél Megállapodást hoz létre Kormányaink között.
+
+## Ezúttal is megragadom az alkalmat, hogy őszinte nagyrabecsülésemről biztosítsam Excellenciádat.
+
+## Külügyminiszter”
+
+3. § (1) Ez a rendelet a kihirdetésének napján lép hatályba, rendelkezéseit azonban 2005. év május hó 3. napjától kell alkalmazni.
+
+(2)[^2] A rendelet végrehajtásáról a közlekedésrendészetért felelős miniszter gondoskodik.
+
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 187. pontja szerint módosított szöveg.
