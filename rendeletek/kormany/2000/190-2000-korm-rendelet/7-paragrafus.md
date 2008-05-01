@@ -1,0 +1,1 @@
+## 6. § A külföldi fegyveres erő magyarországi csapatmozgásának az Országgyűlés, illetve a Kormány által történt engedélyezéséről a HM illetékes szerve írásban – a 3. számú melléklet szerinti formában – haladéktalanul tájékoztatja az engedélyt kérő külföldi fegyveres erő illetékes szervét.

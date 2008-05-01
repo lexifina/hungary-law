@@ -1,0 +1,1 @@
+## 5. § Az Országgyűlés engedélyezési hatáskörébe tartozó vagy hatályos nemzetközi szerződésben kifejezetten engedélyezett csapatmozgások előkészítésekor e rendelet előírásait megfelelően alkalmazni kell.
