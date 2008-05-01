@@ -1,0 +1,1 @@
+## 8. § A biztosítótól befolyó tűzvédelmi hozzájárulás, a tűzvédelmi bírság kezelésére és felhasználására vonatkozó ellenőrzés az állami, illetve az önkormányzati pénzeszközök felhasználására vonatkozó jogszabályok alapján történik.
