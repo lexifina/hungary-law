@@ -1,0 +1,123 @@
+## 2. § A Megállapodás magyar nyelvű szövege a következő:
+
+## ,,
+
+## Megállapodás
+
+## a Magyar Köztársaság Kormánya
+
+## és az Osztrák Szövetségi Kormány között az Írottkő Natúrpark és a Naturpark Geschriebenstein között,
+
+## az államhatárt átlépő turistaforgalomról
+
+## A Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány (a továbbiakban: Szerződő Felek) országaik jószomszédi kapcsolatainak elmélyítése érdekében és az Írottkő Natúrpark és a Naturpark Geschriebenstein (a továbbiakban: Natúrpark) között, a közös államhatárt átlépő turistaforgalom szabályozása érdekében az alábbiakban állapodtak meg:
+
+## 1. Cikk
+
+## (1) A Szerződő Felek államának állampolgárai és az Európai Gazdasági Térség tagállamainak állampolgárai, továbbá azon harmadik államok állampolgárai, akik egyik Szerződő Fél államában sem tartoznak vízumkötelezettség alá (a továbbiakban: látogatók), érvényes úti okmánnyal, a Natúrpark látogatása céljából a magyar–osztrák államhatárt a jelen Megállapodás 2. Cikk (1) bekezdésében meghatározott helyeken átléphetik.
+
+## (2) A látogatók a másik Szerződő Fél államának területén gyalogosan, illetve a Szerződő Felek mindenkor hatályos jogszabályaival összhangban kerékpárral, kizárólag az erre kijelölt utakon mindkét irányba közlekedhetnek, és az ismert kirándulóhelyeket látogathatják.
+
+## 2. Cikk
+
+## (1) A látogatók a jelen Megállapodás 1. Cikkében meghatározott célból a magyar–osztrák államhatárt kizárólag az alábbi helyeken léphetik át:
+
+## – a B 106/3. határkőnél,
+
+## – a C0 határkőnél.
+
+## (2) A jelen Megállapodás alapján az alábbi terület látogatható:
+
+## a) a Magyar Köztársaság területén:
+
+## Bozsok, Kőszegszerdahely, Kőszegdoroszló, Cák, Velem, Lukácsháza, Kőszeg, Ólmod, Horvátzsidány, Kiszsidány, Peresznye települések teljes közigazgatási területét magába foglaló Írottkő Natúrpark területéből a Bozsok–Rechnitz (Rohonc) határátkelőhelytől induló 8718. számú közút vonala a 87. számú főközlekedési út Lukácsháza községben lévő csatlakozásig, ezt követően a 87. számú főközlekedési út vonala Kőszeg város területén a 8627. számú közút csatlakozásáig, majd ennek a vonala a Vas megye határát jelző, Peresznye község területén lévő tábláig, illetve a 8624. számú közútnak a Horvátzsidány községben lévő csatlakozási ponttól Kiszsidány község bejáratáig terjedő szakasza és az ettől a ponttól a megyehatárig húzott merőleges által határolt terület;
+
+## b) az Osztrák Köztársaság területén:
+
+## Kőszeg–Rattersdorf határátkelőhelytől a B 55-ös úton Lockenhaus-tól Hammerteich irányában, tovább Hochstrassig, Hochstrass települést is magában foglalva a B 50-es számú úton tovább Langeckig és Günseck; Benstein irányában a Holzschlag elágazás, továbbá az országút mentén Unterkohlstätten települést is érintve a jelzett turistaúton tovább Galshüttenig, Galshütten település érintésével a Kl. Hirschenstein és Gr. Hirschenstein mellett elhaladó jelzett turistaúton Althodis irányába, Althodis település érintésével a dűlőúton (szőlőskerti úton) keresztül Markt Neuhodis felé, Markt Neuhodis települést is magában foglalva a Bozsok–Rechnitz határátkelőhelyhez vezető országút által határolt terület.
+
+## (3) Az államhatáron átvezető jelzett turistautakat, a nevezetes kirándulóhelyeket, a látogatható terület határát és határátkelőhelyeket megjelölő térképet a jelen Megállapodás 1. melléklete tartalmazza, amely a jelen Megállapodás elválaszthatatlan részét képezi.
+
+## (4) A Szerződő Felek illetékes hatóságai a természeti értékek védelme érdekében, illetve azok súlyos sérelme esetén a látogatható területet (utakat) közös megegyezéssel korlátozhatják, és meghatározhatják a további szükséges intézkedéseket.
+
+## 3. Cikk
+
+## (1) A jelen Megállapodás 2. Cikk (1) bekezdésében meghatározott határátlépési pontokon a közös államhatár átlépése április 1-jétől október 31-ig 07.00 és 20.00 óra között; november 1-jétől március 31-ig 08.00 és 16.00 óra között megengedett.
+
+## (2) A jelen Megállapodás 1. Cikkében meghatározott célból a másik Szerződő Fél államának területén való tartózkodás időtartama nem haladhatja meg a határátlépéstől számítva az öt napot.
+
+## (3) Az (1) és (2) bekezdésben meghatározott időtartamon túl a határátlépés és a tartózkodás kizárólag vis maior esetében megengedett.
+
+## 4. Cikk
+
+## (1) A látogatók a másik Szerződő Fél államának területén kizárólag a 2. Cikkben meghatározott, valamint a kirándulás úti céljára tekintettel az étkezési és a szálláshely megközelítéséhez szükséges jelzett turistautakat vehetik igénybe.
+
+## (2) A látogatók – a Szerződő Felek mindenkori hatályos jogszabályaival összhangban – csak a tartózkodás céljának és időtartamának megfelelő, személyes használatra szolgáló úti holmit vihetik magukkal, ideértve a szokásos turistafelszerelést is.
+
+## (3) A (2) bekezdésben meghatározottaktól eltérő tárgyak, különösen a lőfegyverek be- és kivitele tilos.
+
+## (4) A Natúrpark látogatói a Szerződő Felek illetékes határőrizeti és vámszerveinek felszólítására kötelesek személyazonosságukat a jelen Megállapodás 1. Cikkében meghatározott úti okmánnyal igazolni, és a magukkal hozott tárgyakat bemutatni.
+
+## 5. Cikk
+
+## (1) A jelen Megállapodás 2. Cikk (2) bekezdésében körülhatárolt terület, a megfelelő helyeken, többnyelvű tájékoztató táblákkal jelölendő meg, amelyek a határátlépésre és a kijelölt területen való tartózkodásra vonatkozó rendelkezéseket tartalmazzák. A tájékoztató táblák szövegét a jelen Megállapodás 2. melléklete tartalmazza, amely a jelen Megállapodás elválaszthatatlan részét képezi.
+
+## (2) A Szerződő Felek gondoskodnak az államhatáron átvezető jelzett turistautak és a tájékoztató táblák fenntartásáról és egységes jelöléséről.
+
+## 6. Cikk
+
+## (1) A jelen Megállapodás alkalmazását bármelyik Szerződő Fél a közrend, a közbiztonság, a közegészség védelme érdekében részben vagy egészben felfüggesztheti. A felfüggesztés bevezetésének és megszűnésének időpontjáról a másik Szerződő Felet diplomáciai úton, előzetesen tájékoztatni kell.
+
+## (2) Az (1) bekezdésben és a jelen Megállapodás 2. Cikk (4) bekezdésében foglalt korlátozásról a látogatókat az 5. Cikk (1) bekezdésben említett tájékoztató táblákon tájékoztatni kell.
+
+## 7. Cikk
+
+## (1) A jelen Megállapodás határozatlan időre szól.
+
+## (2) A jelen Megállapodás az azt követő második hónap első napján lép hatályba, hogy a Szerződő Felek kölcsönösen, diplomáciai úton értesítették egymást arról, hogy a Megállapodás hatálybalépéséhez szükséges belső jogi követelményeknek eleget tettek.
+
+## (3) A jelen Megállapodást bármelyik Szerződő Fél bármikor írásban, diplomáciai úton felmondhatja. A Megállapodás a felmondásról szóló értesítés kézhezvételét követő 90. napon veszti hatályát.
+
+## (4) A jelen Megállapodás hatálybalépésével egyidejűleg a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között új határátkelőhelyek létesítéséről a közös államhatáron szóló, Budapesten, 1991. április 5-én aláírt Megállapodás 2. Cikke hatályát veszti.
+
+## Készült Lutzmannsburgban, 2002. február 23. napján, két eredeti példányban, magyar és német nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+## A Magyar Köztársaság
+
+## Kormánya nevében
+
+## Az Osztrák Szövetségi
+
+## Kormány nevében''
+
+## 1. melléklet
+
+## A Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között az Írottkő Natúrpark
+
+## és a Naturpark Geschriebenstein között, az államhatárt átlépő turistaforgalomról szóló
+
+## Megállapodás 2. Cikkében meghatározott terület
+
+## 2. melléklet
+
+## A Magyar Köztársaság Kormánya
+
+## és az Osztrák Szövetségi Kormány között az Írottkő Natúrpark és a Naturpark Geschriebenstein között,
+
+## az államhatárt átlépő turistaforgalomról szóló Megállapodás 5. Cikk (1) bekezdésében meghatározott tájékoztató táblák szövege
+
+## 1. A jelen Megállapodás 5. Cikk (1) bekezdésében meghatározott tájékoztató táblák szövege magyar, német, angol és francia nyelven az alábbiakat tartalmazza:
+
+## ,,– A Magyar Köztársaság és az Osztrák Köztársaság állampolgárai, valamint az Európai Gazdasági Térség tagállamainak állampolgárai, továbbá azon harmadik államok állampolgárai, akik sem Magyarországon, sem Ausztriában nem vízumkötelezettek, a Natúrparkok látogatása céljából a magyar–osztrák államhatárt érvényes úti okmánnyal átléphetik, és ott a határátlépéstől számítva legfeljebb öt napig tartózkodhatnak.
+
+## A közös államhatár átlépése április 1-jétől október 31-ig 07.00 és 20.00 óra között; november 1-jétől március 31-ig 08.00 és 16.00 óra között megengedett.
+
+## – A látogatók csak a tartózkodás céljának és időtartamának megfelelő, személyes használatra szolgáló úti holmit vihetik magukkal, ideértve a szokásos turistafelszerelést is. A látogatók kötelesek az illetékes határőrizeti és vámszerveknek – felszólításra – személyazonosságukat igazolni, és a magukkal hozott tárgyakat bemutatni.
+
+## – A terület nemzetközi jelentőségű védett természeti terület. Kérjük, óvja, védje a terület táji és természeti értékeit!''
+
+## 2. A Magyar Köztársaság és az Osztrák Köztársaság államának területén, a jelen Megállapodás 2. Cikkében kijelölt terület határain elhelyezésre kerülő táblák szövege magyar, német, angol és francia nyelven az alábbiakat tartalmazza:
+
+## ,,– Figyelem!
+
+## A látogatható terület vége!''
