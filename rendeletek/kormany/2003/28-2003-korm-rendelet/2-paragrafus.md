@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Jordán Hasemita Királyság Kormánya között a terrorizmus, a tiltott kábítószer-kereskedelem és a szervezett bűnözés elleni harcban történő együttműködésről szóló, Budapesten, 1999. szeptember 20-án aláírt Megállapodást e rendelettel kihirdeti.
