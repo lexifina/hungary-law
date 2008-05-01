@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a kábítószerek és pszichotróp anyagok illegális kereskedelme és azokkal való visszaélés, a terrorizmus és más súlyos bűncselekmények elleni küzdelemben való együttműködésről szóló, Budapesten, 1997. április 9-én aláírt Megállapodást e rendelettel kihirdeti.
