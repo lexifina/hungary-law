@@ -1,0 +1,1 @@
+## 3. § A Kormány a Magyar Köztársaság Kormánya és a Spanyol Királyság Kormánya között a két állam állampolgárainak egymás országaiba történő vízummentes utazásáról szóló, Madridban, 1990. július 12-én levélváltás útján létrejött Megállapodás módosítása tárgyában 1996. évi november hó 28-án jegyzékváltás útján létrejött Megállapodást e rendelettel kihirdeti.
