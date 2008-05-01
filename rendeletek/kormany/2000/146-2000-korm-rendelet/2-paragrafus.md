@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyságának Kormánya között a kábítószerek illegális forgalma, a szervezett bűnözés, a nemzetközi terrorizmus és az illegális migráció elleni harcban történő együttműködésről szóló, Londonban, 2000. február 9-én aláírt Egyetértési Nyilatkozatot e rendelettel kihirdeti.
