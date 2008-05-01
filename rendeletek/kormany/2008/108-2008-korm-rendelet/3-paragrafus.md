@@ -1,0 +1,69 @@
+## 2. § Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+## „Kulturális egyezmény
+
+## a Magyar Népköztársaság Kormánya és a Guineai Köztársaság Kormánya között
+
+## A Magyar Népköztársaság Kormánya és a Guineai Köztársaság Kormánya attól az óhajtól vezetve, hogy megszilárdítsák a két állam közötti baráti kapcsolatokat és elősegítsék a kölcsönös együttműködést a tudomány, a művészet és a kulturális élet egyéb területén, elhatározták a jelen Egyezmény megkötését és e célból meghatalmazottaikat kinevezték, akik jó és kellő alakban talált meghatalmazásuk kicserélése után a következőkben állapodtak meg:
+
+## 1. Cikk
+
+## A Magas Szerződő Felek kölcsönösen előmozdítják és támogatják az együttműködést államaik között a tudomány, a művészet és a kulturális élet egyéb területén. E célból a Magas Szerződő Felek
+
+## a) elősegítik, hogy egyetemeiken rendszeres tanfolyamokat indítsanak a másik Fél országának irodalmáról és történelméről;
+
+## b) tanulmányi segélyalapot és ösztöndíjat létesítenek abból a célból, hogy lehetővé tegyék egymás állampolgárainak tanulmányok és kutatások folytatását, valamint technikai képzését a másik államban;
+
+## c) kicserélik az egymás államában kiadott tudományos és művészeti szakkiadványokat érvényben levő hazai jogszabályaiknak és előírásaiknak megfelelően;
+
+## d) pályázatokat hirdetnek és díjakat osztanak ki az olyan szerzők és fordítók számára, akik munkájukkal közreműködnek abban, hogy az egyik Fél államában népszerűsítsék a másik Fél államának tudományos és művészeti eredményeit, valamint alkotásait;
+
+## e) elősegítik az államukban hivatalosan elismert tudományos, művészeti és egyéb kulturális szervezetek közötti cserét, így pl. a nemzeti könyvtárak, a tudományos, művészeti és történelmi múzeumok vonatkozásában;
+
+## f) lehetővé teszik a másik fél számára művészeti és más kulturális jellegű kiállítások, színházi és filmbemutatók, zenei és rádió előadások rendezését területükön: e célból a két állam illetékes hatóságai esetenként külön megállapodást kötnek egymással;
+
+## g) egymás népeinek jobb megismerése érdekében elősegítik cikkek, ismertető anyagok, filmek megjelenését, illetve bemutatását a sajtóban, illetve a rádióban és televízióban;
+
+## h) elősegítik újságírók cserelátogatását;
+
+## i) a személyes tapasztalatokon alapuló tapasztalatcsere előmozdítása céljából támogatni fogják az e célra kijelölt kulturális és szakmai küldöttségek, illetve kiküldöttek látogatásainak cseréjére vonatkozó megállapodásokat;
+
+## j) elősegítik a másik Fél filmjeinek és hanglemezeinek behozatalát államukba.
+
+## 2. Cikk
+
+## A Magas Szerződő Felek elősegítik a másik állam tudományának, művészetének, kultúrájának megismertetését sajtó, rádió és előadások útján.
+
+## 3. Cikk
+
+## A Magas Szerződő Felek biztosítják, hogy az illetékes oktatásügyi intézményeik által kiadott történelem és földrajz tankönyvek a lehetőségekhez képest elősegítsék a másik állam történelmének, illetve földrajzának megismerését.
+
+## 4. Cikk
+
+## A Magas Szerződő Felek felülvizsgálják a másik állam intézményei által kibocsátott tudományos fokozatok és diplomák egyenjogúságának elismeréséhez szükséges feltételeket, s e tárgyban illetékes hatóságaik külön megállapodást kötnek.
+
+## 5. Cikk
+
+## A Magas Szerződő Felek elősegítik sportversenyek rendezését országaik, illetve sportegyesületeik között.
+
+## 6. Cikk
+
+## A jelen Egyezményben foglalt feladatok megvalósítása érdekében a Magas Szerződő Felek évenként kulturális munkatervet készítenek, s ezt diplomáciai úton egymáshoz eljuttatják.
+
+## 7. Cikk
+
+## A jelen Egyezményt meg kell erősíteni. A megerősítő okiratokat Conakryban kell kicserélni.
+
+## Az Egyezmény a megerősítő okiratok kicserélésének napján lép hatályba.
+
+## A jelen Egyezmény hatályban marad attól a naptól számított hat hónap elteltéig, amikor az Egyezmény felmondására irányuló szándékát a Magas Szerződő Felek valamelyike írásban közli.
+
+## A jelen Egyezmény Conakryban, az 1960. évi január hó 12. napján készült, két eredeti példányban, magyar és francia nyelven, mindkét szöveg egyaránt hiteles.
+
+## Ennek hiteléül a Magas Szerződő Felek Meghatalmazottai a jelen Egyezményt aláírták és pecséttel látták el.
+
+## (Aláírások)”
+
+3. § (1) E rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter gondoskodik.

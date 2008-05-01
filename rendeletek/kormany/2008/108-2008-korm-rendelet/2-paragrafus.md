@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Guineai Köztársaság Kormánya között Conakryban az 1960. évi január hó 12. napján kötött kulturális Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
