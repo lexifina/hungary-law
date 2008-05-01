@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között az 1990. évi március hó 24. napján jegyzékváltás útján megkötött, a vízumkényszer megszüntetéséről szóló megállapodást e rendelettel kihirdeti.
