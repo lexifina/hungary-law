@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a Nemzetközi Rendészeti Akadémia létesítéséről szóló, Budapesten, 1995. április hó 24. napján aláírt Megállapodást e rendelettel kihirdeti.
