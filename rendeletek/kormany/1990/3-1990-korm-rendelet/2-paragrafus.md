@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és San Marinó Köztársaság Kormánya között San Marinóban, 1990. február hó 26. napján aláírt, a vízumkényszer megszüntetéséről szóló egyezményt e rendelettel kihirdeti.
