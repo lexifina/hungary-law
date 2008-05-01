@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a természeti és civilizációs katasztrófák elleni védelem terén Ljubljanában, 1995. évi március hó 22. napján aláírt Egyezményt kihirdeti.
