@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya, valamint a Litván Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetése tárgyában, Vilniusban, 1992. augusztus 8. napján aláírt Megállapodás módosításáról szóló, jegyzékváltás útján létrejött Megállapodást e rendelettel kihirdeti.

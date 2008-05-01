@@ -1,0 +1,31 @@
+## 2. § A magyar szóbeli jegyzék magyar nyelvű szövege, melyet a litván fél 2001. május 4. napján átadott azonos tartalmú szóbeli jegyzékében elfogadott, a következő:
+
+## ,,
+
+## Szóbeli jegyzék
+
+## A Magyar Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Litván Köztársaság Külügyminisztériumának, és hivatkozással a hatályos vízummentességi megállapodás módosítása tárgyában történt jegyzékváltásra, a Magyar Köztársaság Külügyminisztériumának van szerencséje javasolni, hogy a Magyar Köztársaság Kormánya, valamint a Litván Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetése tárgyában, Vilniusban, 1992. augusztus 8. napján aláírt Megállapodás az alábbiak szerint kerüljön módosításra:
+
+## 1. Az 1. Cikk az alábbiak szerint módosul:
+
+## »1. Cikk
+
+## Az egyik Szerződő Fél érvényes útlevéllel rendelkező állampolgárai a nemzetközi utasforgalom számára kijelölt határátkelőhelyeken vízum nélkül utazhatnak be a másik Szerződő Fél államának területére, és ott az első belépéstől számított hat hónapon belül külön engedély nélkül legfeljebb kilencven napig tartózkodhatnak, és kiutazhatnak.«
+
+## 2. A 3. Cikk az alábbiak szerint módosul:
+
+## »3. Cikk
+
+## Az egyik Szerződő Fél azon állampolgárainak, akik a másik Szerződő Fél területére a jelen Megállapodás 1. Cikkében meghatározott határidőn túli tartózkodás, továbbá munkavállalás vagy más jövedelemszerző tevékenység, illetőleg letelepedés céljából kívánnak beutazni, ezen Szerződő Fél megfelelő engedélyével és vízumával kell rendelkezniük.«
+
+## A Magyar Köztársaság Külügyminisztériuma tisztelettel javasolja, hogy amennyiben a Litván Köztársaság Kormánya ezt a javaslatot elfogadja, úgy ez a jegyzék és a Litván Köztársaság Külügyminisztériumának azonos tartalmú válaszjegyzéke Megállapodást képezzen a két ország Kormánya között, mely a válaszjegyzék kézhezvételétől számított 30. napon lép hatályba.
+
+## A Magyar Köztársaság Külügyminisztériuma ezúttal is őszinte nagyrabecsülését fejezi ki a Litván Köztársaság Külügyminisztériumának.
+
+## Budapest, 2001. május 4.''
+
+3. § (1) Ez a rendelet a kihirdetése napján lép hatályba, a Megállapodás módosításáról szóló rendelkezéseket azonban 2001. június 3. napjától kell alkalmazni.
+
+(2)[^2] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 150. pontja szerint módosított szöveg.
