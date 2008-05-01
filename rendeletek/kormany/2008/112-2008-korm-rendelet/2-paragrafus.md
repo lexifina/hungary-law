@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Képviselőháza Végrehajtó Tanácsa között Belgrádban, 1986. március 24-én aláírt tudományos, oktatási és kulturális együttműködési egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
