@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Írország Kormánya között a vízummentességre, illetve a vízumkönnyítésre vonatkozó, 1991. április 12-én kelt Megállapodást e rendelettel kihirdeti.
