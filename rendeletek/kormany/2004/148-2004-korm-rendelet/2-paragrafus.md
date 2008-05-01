@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a Magyar Köztársaság és a Szlovén Köztársaság között a közúti és a vasúti határforgalom ellenőrzéséről szóló Egyezmény közúti forgalomban történő végrehajtásáról rendelkező, Ljubljanában, 2004. április 16-án aláírt Megállapodást e rendelettel kihirdeti.
