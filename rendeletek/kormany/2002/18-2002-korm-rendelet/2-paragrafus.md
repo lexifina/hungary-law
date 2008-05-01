@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között Budapesten, 2001. október 10-én aláírt Zsira–Lutzmannsburg települések között határátkelőhely létesítéséről, valamint osztrák államterületen közös határforgalom ellenőrzéséről szóló Megállapodást e rendelettel kihirdeti. A Megállapodás 2001. december 1-jén lép hatályba.
