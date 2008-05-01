@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság és az Iraki Köztársaság között a Rádió, Televízió, Film, Színházművészet és Hírszolgálat területén való együttműködés tárgyában, Bagdadban, 1961. október 11-én létrejött Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
