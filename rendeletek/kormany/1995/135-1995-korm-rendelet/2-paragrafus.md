@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel kihirdeti a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről szóló, Kijevben, 1995. május 19-én aláírt Egyezményt.
