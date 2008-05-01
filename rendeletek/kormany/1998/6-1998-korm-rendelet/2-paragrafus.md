@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között a terrorizmus, a kábítószer tiltott forgalma és a szervezett bűnözés elleni harcban történő együttműködésről szóló, Rigában 1997. március 6-án aláírt Megállapodást e rendelettel kihirdeti.
