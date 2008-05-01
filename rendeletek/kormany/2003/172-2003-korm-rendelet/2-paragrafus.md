@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Finn Köztársaság Kormánya között a bűnözés, különösen a szervezett bűnözés megelőzésében és az ellene történő fellépésben való együttműködésről szóló, Budapesten, 2002. október 24. napján aláírt Megállapodást e rendelettel kihirdeti.
