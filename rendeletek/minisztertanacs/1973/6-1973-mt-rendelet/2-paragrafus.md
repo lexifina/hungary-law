@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Román Szocialista Köztársaság Kormánya között a nemzetközi közúti személy- és árufuvarozás tárgyában Temesvárott, az 1972. évi február hó 9. napján aláírt egyezményt e rendelettel kihirdeti.
