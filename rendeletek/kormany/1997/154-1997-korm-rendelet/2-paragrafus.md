@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Svájc Szövetségi Tanácsa között a vízumkényszer megszüntetéséről szóló, 1990. augusztus 7-én aláírt Megállapodás módosítására vonatkozó, 1997. június 4-én, Bernben jegyzékváltással létrejött Megállapodást e rendelettel kihirdeti.
