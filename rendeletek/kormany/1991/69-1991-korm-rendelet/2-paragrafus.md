@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Görög Köztársaság Kormánya között a vízummentességre, illetve a vízumkönnyítésre vonatkozó, 1991. március 4-én kelt megállapodást e rendelettel kihirdeti.
