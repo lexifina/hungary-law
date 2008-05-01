@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Dán Királyság Kormánya között a nemzetközi közúti fuvarozás tárgyában Koppenhágában, az 1975. évi április hó 11. napján aláírt egyezményt e rendelettel kihirdeti.
