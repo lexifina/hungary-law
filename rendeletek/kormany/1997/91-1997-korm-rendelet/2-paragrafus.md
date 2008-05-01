@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a terrorizmus elleni harcban, a kábítószer és pszichotrop anyagok tiltott forgalma visszaszorításában és a szervezett bűnözés elleni harcban történő együttműködésről szóló Prágában, 1996. február 16-án aláírt Megállapodást e rendelettel kihirdeti.
