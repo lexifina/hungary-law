@@ -1,0 +1,1 @@
+## 1. § A Magyar Köztársaság Kormánya e rendelettel kihirdeti a Magyar Köztársaság Kormánya és Új-Zéland Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, jegyzékváltás útján létrejött megállapodást.
