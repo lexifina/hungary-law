@@ -1,0 +1,1 @@
+## 1. § A Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Prágában, 1996. november 11. napján aláírt Megállapodást e rendelettel kihirdeti.
