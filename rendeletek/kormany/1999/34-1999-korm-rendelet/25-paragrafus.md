@@ -1,0 +1,1 @@
+## 24. § A 21. § (2), illetve a 22. § (2) bekezdésében írt feltételek fennállása esetén a szolgálati viszony megszűnése után a hatóság volt tagja, illetve a személyére tekintettel más személy személyi védelmére a büntetőeljárásban résztvevőkre vonatkozó szabályokat kell alkalmazni.
