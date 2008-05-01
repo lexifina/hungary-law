@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között a rövid időtartamú tartózkodásokra vonatkozó vízumkötelezettség megszüntetéséről Párizsban, 1990. évi július hó 4. napján levélváltás formájában létrejött megállapodást e rendelettel kihirdeti.
