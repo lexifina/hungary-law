@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Olasz Köztársaság Kormánya között a terrorizmus, a szervezett bűnözés, a kábítószerek és pszichotrop anyagok illegális forgalmazása ellen folytatott harcban való együttműködésről szóló, Rómában, 1997. május 13-án aláírt Megállapodást e rendelettel kihirdeti.
