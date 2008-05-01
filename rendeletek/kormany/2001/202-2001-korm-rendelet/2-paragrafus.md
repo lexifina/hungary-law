@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya között Budapesten, 1999. november 9-én jegyzékváltás útján létrehozott vízummentességi Megállapodást e rendelettel kihirdeti.
