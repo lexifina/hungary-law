@@ -1,0 +1,13 @@
+## 2. § A Magyar Köztársaság Nagykövetségének az 1. §-ban említett megállapodást tartalmazó, az Amerikai Egyesült Államok Külügyminisztériumához intézett angol nyelvű jegyzéke hivatalos magyar nyelvű fordítása a következő:
+
+## ,,A Magyar Köztársaság Nagykövetsége tiszteletét fejezi ki a Külügyminisztériumnak és hivatkozik a Magyar Külügyminisztérium és az Egyesült Államok Külügyminisztériuma tisztviselői között nemrég tartott tárgyalásokra, amelyek célja a gazdasági, kulturális és tudományos kapcsolatok előmozdítása volt, a Magyar Köztársaság és az Amerikai Egyesült Államok közötti utazás megkönnyítése révén.
+
+## A Nagykövetségnek tudomása van az olyan magyar állampolgárok számára szóló többszöri belépő vízumok kiadására vonatkozó korlátozások nemrég történt enyhítéséről, akik turisztikai vagy családlátogatási céllal keresik fel az Egyesült Államokat, vagy pedig diplomaták, tengerészek, diákok, ideiglenes munkások, egyes vezető üzletemberek és az Egyesült Államokba kiküldött újságírók. A Nagykövetségnek arról is tudomása van, hogy a fent említett tárgyalások során a Külügyminisztérium kifejezte szándékát, hogy az összes bevándorlást nem kérelmező személyek számára a lehető legrövidebb időn belül többszöri belépő vízumot ad hosszabb időtartamra és hajlandó minden vízumot a lehető legrövidebb időn belül kiadni.
+
+## A Nagykövetségnek továbbá tudomása van a Külügyminisztérium azon törekvéséről, hogy a vízummegszüntető kísérleti program keretében megfontolja a magyar állampolgárok nem bevándorlási célú vízumkötelezettségének megszüntetését, ha ezt a programot kibővítik és kiterjesztik.
+
+## A fenti törekvések figyelembe vételével a Magyar Köztársaság meg fogja szüntetni az érvényes útlevél birtokában levő Egyesült Államokbeli állampolgárok vízumkötelezettségét, akik 90 napra vagy rövidebb időre látogatnak Magyarországra. Ez a kiváltság nem fog kiterjedni a Magyar Köztársaságban foglalkoztatást kereső vagy letelepedni kívánó személyekre. A Magyar Köztársaság illetékes hatóságai fenntartják a jogot, hogy a Magyar Köztársaságba való belépésre vagy ott tartózkodásra irányuló engedélyt minden esetben megtagadják, ha a szóban forgó személy nemkívánatosnak tekintendő. A vízumkötelezettség megszüntetése 1990. november 1-jén lép hatályba.
+
+## A Nagykövetség értesülése szerint a Külügyminisztérium az említett nem bevándorlási célú vízumkérelmekkel és az ezek magyar állampolgárok részére történő kiadásával kapcsolatos minden illetéket az említett nappal megszünteti.
+
+## A Magyar Köztársaság Nagykövetsége ezt az alkalmat is felhasználja, hogy a Külügyminisztériumnak ismételten legmélyebb nagyrabecsülését fejezze ki.''
