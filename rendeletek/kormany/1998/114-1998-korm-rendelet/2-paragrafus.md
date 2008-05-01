@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a természeti és civilizációs katasztrófák elleni védelemről szóló, Budapesten, 1997. július 9-én aláírt Egyezményt e rendelettel kihirdeti.
