@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Panamai Köztársaság Kormánya között Panamavárosban, az 1976. évi október hó 17. napján aláírt kulturális és tudományos együttműködési egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
