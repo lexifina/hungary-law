@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya között az illegális kábítószer-kereskedelem, a szervezett bűnözés és a nemzetközi terrorizmus elleni küzdelemben való együttműködésről szóló, Hanoiban, 1998. február 4-én aláírt Megállapodást e rendelettel kihirdeti.
