@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és az Iraki Köztársaság Kormánya között Budapesten, 1959. évi április hó 11. napján aláírt kulturális egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
