@@ -1,0 +1,19 @@
+10/A. §[^18] (1)[^19] A Magyar Köztársaság részéről az NFH központi szerve vesz részt a termékbiztonsággal kapcsolatos ügyekben illetékes piacfelügyeleti hatóságok európai hálózatában, az Európai Termékbiztonsági Hálózatban.
+
+(2)[^20] A Magyar Köztársaság az NFH központi szervén keresztül kapcsolódik a Közösségi Gyors Tájékoztatási Rendszerhez (a továbbiakban: RAPEX), amelynek célja a tagállamok közötti gyors információcsere súlyos veszély esetén.
+
+(3)[^21] Amennyiben a piacfelügyeleti hatóságok az áruk forgalomba hozatalát korlátozó –, illetve kivonásukat, vagy visszahívásukat elrendelő – intézkedéseket hoznak, vagy a gyártókkal és a forgalmazókkal olyan intézkedésekben állapodnak meg, amelyek egy árunak az értékesítését vagy használatát súlyos veszély miatt megakadályozzák, korlátozzák vagy különleges feltételekhez kötik, tájékoztatniuk kell az NFH központi szervét. Az NFH központi szerve a hivatalos értesítési formanyomtatvány felhasználásával a RAPEX-en keresztül tájékoztatja az Európai Bizottságot az intézkedésekről, megjelölve azok okát is. Az NFH központi szerve az intézkedések módosításáról vagy az áru visszahívásáról is haladéktalanul tájékoztatja az Európai Bizottságot.
+
+(4)[^22] Amennyiben a veszély hatásai a Magyar Köztársaság határain nem terjednek túl, az NFH központi szerve az érintett intézkedésekről olyan mértékben nyújt tájékoztatást, amennyiben azok termékbiztonsági szempontból információkat tartalmaznak, és amennyiben azok olyan új veszéllyel kapcsolatosak, amelyek más értesítésekben addig még nem szerepeltek.
+
+(5)[^23] Súlyos veszély esetén az NFH központi szerve értesíti az Európai Bizottságot a gyártók és forgalmazók által hozott önkéntes intézkedésekről. Amennyiben az NFH központi szerve az Európai Bizottság útján más tagállamból származó, a fentieknek megfelelő értesítést kap, tájékoztatja az Európai Bizottságot a részéről megtett intézkedésekről.
+
+(6)[^24] Amennyiben az Európai Bizottság a fogyasztók egészségére és biztonságára több tagállamban is súlyosan veszélyes áruról szerez tudomást és az érintett tagállamokkal folytatott tanácskozást, valamint a veszély tekintetében illetékes tudományos bizottsággal folytatott konzultációt követően az általános termékbiztonságról szóló, az Európai Parlament és a Tanács 2001/95/EK irányelve 13. cikkének (1) bekezdése alapján határozatot hoz, a határozat tárgyát képező veszélyes árunak az Európai Unió területéről történő kivitele – a határozat eltérő rendelkezése hiányában – tilos. Az NFH központi szerve az Európai Bizottság határozata alapján haladéktalanul értesíti az illetékes piacfelügyeleti hatóságot, és az a határozatban megjelölt más határidő hiányában legfeljebb 20 napon belül meghoz minden szükséges intézkedést a határozat végrehajtása érdekében. A határozat végrehajtásáért felelős illetékes piacfelügyeleti hatóságnál az érintettek a határozat közzétételét követő 30 napon belül észrevételeket tehetnek. Az illetékes piacfelügyeleti hatóság a KPIR-en keresztül az észrevételekről tájékoztatja az Európai Bizottságot.
+
+[^18]: A 10/A. §-t a 33/2004. (III. 8.) Korm. rendelet 12. §-a iktatta a szövegbe.
+[^19]: A 10/A. § (1) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § e) pontjának eg) alpontja szerint módosított szöveg.
+[^20]: A 10/A. § (2) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § e) pontjának eh) alpontja szerint módosított szöveg.
+[^21]: A 10/A. § (3) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § e) pontjának ec) és ee) alpontja szerint módosított szöveg.
+[^22]: A 10/A. § (4) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § e) pontjának eg) alpontja szerint módosított szöveg.
+[^23]: A 10/A. § (5) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § e) pontjának eg) alpontja szerint módosított szöveg.
+[^24]: A 10/A. § (6) bekezdése a 226/2007. (VIII. 31.) Korm. rendelet 6. § e) pontjának ec) alpontja szerint módosított szöveg.
