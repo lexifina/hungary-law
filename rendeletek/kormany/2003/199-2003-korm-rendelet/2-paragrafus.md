@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Ukrajna Miniszteri Kabinetje között az állampolgárok utazásának feltételeiről szóló, Kijevben, 2003. október 9. napján aláírt Megállapodást e rendelettel kihirdeti.
