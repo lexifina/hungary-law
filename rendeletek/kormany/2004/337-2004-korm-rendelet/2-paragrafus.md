@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló, Budapesten, 2003. szeptember 29. napján aláírt Megállapodást e rendelettel kihirdeti.

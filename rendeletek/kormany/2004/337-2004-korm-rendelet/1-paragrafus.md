@@ -1,0 +1,1 @@
+## [Az Egyezmény 2004. év december hónap 8. napján hatályba lépett. A Megállapodás hatálybalépéséhez szükséges belső jogi feltételek teljesüléséről szóló jegyzékváltás 2004. november hónap 8. napján megtörtént. A Megállapodás – annak 23. Cikk (2) bekezdése alapján – 2004. év december hónap 8. napján lépett hatályba.]
