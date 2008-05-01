@@ -1,0 +1,41 @@
+## 2. § A 2002. szeptember 6-án kelt magyar szóbeli jegyzék szövege a következő:
+
+## ,,
+
+## Szóbeli jegyzék
+
+## A Magyar Köztársaság franciaországi Nagykövetsége tiszteletét fejezi ki az Andorrai Hercegség Nagykövetségének, és van szerencséje tudomására hozni, hogy a Magyar Köztársaság Kormánya Megállapodást óhajt kötni a vízumkötelezettség kölcsönös megszüntetéséről az Andorrai Hercegség Kormányával az alábbi feltételek szerint:
+
+## A Magyar Köztársaság Kormánya és az Andorrai Hercegség Kormánya (a továbbiakban: Szerződő Felek) a vízumkötelezettség kölcsönös megszüntetéséről az alábbiak szerint állapodtak meg:
+
+## 1. Mindegyik Szerződő Fél államának érvényes útlevelével vagy személyazonosító igazolványával rendelkező állampolgárai a nemzetközi utasforgalom számára kijelölt határátkelőhelyeken vízum nélkül utazhatnak be a másik Szerződő Fél államának területére, ott külön engedély nélkül legfeljebb kilencven napig tartózkodhatnak és kiutazhatnak.
+
+## 2. a) Mindegyik Szerződő Fél államának érvényes diplomata- vagy szolgálati útlevéllel rendelkező azon állampolgárai, akik a másik Szerződő Fél államának területén működő diplomáciai, konzuli képviseletén teljesítenek szolgálatot, vagy az egyik Szerződő Fél képviselői olyan nemzetközi szervezetnél, amelynek székhelye a másik Szerződő Fél államának területén van, szolgálatuk teljes időtartama alatt vízum nélkül utazhatnak be a másik Szerződő Fél államának területére, ott külön engedély nélkül tartózkodhatnak és kiutazhatnak.
+
+## b) Az a) pontban említett személyek szolgálatuk időtartama alatt a velük közös háztartásban élő házastársukat és gyermekeiket is megilletik az a) pont szerinti jogosultságok, amennyiben érvényes magyar vagy andorrai diplomata- vagy szolgálati útlevéllel rendelkeznek.
+
+## 3. a) Az egyik Szerződő Fél államának állampolgárai a másik Szerződő Fél államának területére kilencven napnál hosszabb idejű tartózkodás, munkavállalás vagy egyéb jövedelemszerző tevékenység, illetőleg letelepedés céljából csak előzetesen beszerzett vízummal vagy a tartózkodási állam érvényes engedélyével utazhatnak be.
+
+## b) A tartózkodási engedély beszerzésére a Szerződő Felek belső jogi szabályozása az irányadó.
+
+## 4. Mindkét Szerződő Fél államának állampolgárai a másik Szerződő Fél államának területén való tartózkodásuk során kötelesek annak jogszabályait betartani.
+
+## 5. A jelen Megállapodás nem érinti a Szerződő Felek azon jogát, hogy azoknak a személyeknek a beléptetését vagy saját területükön való tartózkodását megtagadják, akik nem kívánatosak, illetőleg a be- és kiutazásra vagy tartózkodásra vonatkozó előírásoknak nem tesznek eleget.
+
+## 6. a) Mindkét Szerződő Fél államának azon állampolgárainak, akik a másik Szerződő Fél államának területén elvesztették útlevelüket vagy személyazonosító igazolványukat, azt ellopták, vagy az megrongálódott, haladéktalanul bejelentést kell tenniük a fogadó állam illetékes hatóságánál, amely erről számukra díjmentesen igazolást állít ki.
+
+## b) Az a) pontban meghatározott esetben az érintett állampolgárok a megfelelő diplomáciai vagy konzuli képviselet által kiállított új úti okmány birtokában hagyhatják el az országot.
+
+## 7. A jelen Megállapodás alkalmazását közrendi, közbiztonsági vagy közegészségügyi okból mindkét Szerződő Fél egészében vagy részben, átmenetileg felfüggesztheti. Ezen intézkedés bevezetésének, valamint megszüntetésének időpontjáról a másik Szerződő Felet diplomáciai úton, írásban haladéktalanul tájékoztatni kell.
+
+## 8. a) A Szerződő Felek legkésőbb a jelen Megállapodás aláírását követő, legfeljebb harminc napon belül, diplomáciai úton megküldik egymásnak az államuk területén érvényben lévő útlevelek és a személyazonosító igazolványok mintapéldányait.
+
+## b) Ha a Szerződő Felek egyike a jelen Megállapodás hatálybalépése után az érvényben lévő útleveleket vagy személyazonosító igazolványokat megváltoztatná, vagy új típusú úti okmányt vagy személyazonosító igazolványt vezetne be, azok hatálybalépése előtt legalább egy hónappal, diplomáciai úton, a minták csatolásával értesíteni fogja a másik Szerződő Felet.
+
+## 9. a) A Szerződő Felek kölcsönösen, diplomáciai jegyzékváltás útján értesítik egymást arról, hogy a hatálybalépéshez szükséges belső jogi feltételeknek eleget tettek. Jelen Megállapodás a későbbi jegyzék keltétől számított harmincadik napon fog hatályba lépni.
+
+## b) A jelen Megállapodást határozatlan időre kötötték, és mindaddig hatályban marad, amíg azt bármelyik Szerződő Fél írásban, diplomáciai úton fel nem mondja. A felmondás az erről szóló jegyzékátadás keltétől számított harmincadik napon lép hatályba.
+
+## A Magyar Köztársaság Nagykövetségének van szerencséje tájékoztatni az Andorrai Hercegség Nagykövetségét arról, hogy abban az esetben, ha a szöveggel az Andorrai Fél egyetért, a jelen Szóbeli jegyzék és az erre adott válaszjegyzék Megállapodást fog képezni, amely az előbbi 9. a) pontban foglalt rendelkezéseknek megfelelően lép hatályba.
+
+## A Magyar Köztársaság Nagykövetsége megragadja az alkalmat, hogy az Andorrai Hercegség Nagykövetségét ezúton is őszinte nagyrabecsüléséről biztosítsa.''
