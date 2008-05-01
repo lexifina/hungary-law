@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a helyi önkormányzatok és közigazgatási szervek határon átívelő együttműködéséről szóló, Budapesten, 2001. április 23-án aláírt Egyezményt e rendelettel kihirdeti.
