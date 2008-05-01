@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetése tárgyában, Rigában, 1992. augusztus 7. napján aláírt Megállapodás módosításáról szóló, jegyzékváltás útján létrejött Megállapodást e rendelettel kihirdeti.
