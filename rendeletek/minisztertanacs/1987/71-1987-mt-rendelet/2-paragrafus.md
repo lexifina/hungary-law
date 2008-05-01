@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Ciprusi Köztársaság Kormánya között a vízumkényszer megszüntetéséről szóló, Nicosiában 1987. június 4-én aláírt egyezményt e rendelettel kihirdeti.
