@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Albán Köztársaság Kormánya között a terrorizmus, a kábítószer illegális forgalma és a szervezett bűnözés elleni harcban történő együttműködésről szóló, Budapesten, 1999. év február hó 12. napján aláírt Megállapodást e rendelettel kihirdeti.
