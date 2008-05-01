@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság és az Osztrák Köztársaság között Bécsben, az 1969. évi május hó 28. napján aláírt tudományos és műszaki együttműködési egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
