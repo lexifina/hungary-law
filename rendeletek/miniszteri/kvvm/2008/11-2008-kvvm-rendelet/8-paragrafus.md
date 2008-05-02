@@ -1,0 +1,1 @@
+## 7. § Az Országos Természetvédelmi Tanács 115.010/1950 OTT határozatával védetté nyilvánított, és a Kámoni arborétum természetvédelmi terület védettségének fenntartásáról szóló 162/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Kámoni arborétum természetvédelmi terület természetvédelmi kezeléséért felelős szerv az Őrségi Nemzeti Park Igazgatóság.

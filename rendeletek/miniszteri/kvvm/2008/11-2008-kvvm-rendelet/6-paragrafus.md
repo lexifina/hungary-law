@@ -1,0 +1,1 @@
+## 5. § Az Országos Környezet- és Természetvédelmi Hivatal elnökének 1/1987. (III. 19.) OKTH rendelkezésével védetté nyilvánított, és a Szigetközi Tájvédelmi Körzet védettségének fenntartásáról szóló 143/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Szigetközi Tájvédelmi Körzet természetvédelmi kezeléséért felelős szerv a Fertő-Hanság Nemzeti Park Igazgatóság.

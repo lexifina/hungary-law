@@ -1,0 +1,1 @@
+## 2. § Az Országos Természetvédelmi Hivatal 69/1963. számú OTvH határozatával védetté nyilvánított, és a Pannonhalmi arborétum természetvédelmi terület védettségének fenntartásáról szóló 154/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Pannonhalmi arborétum természetvédelmi terület természetvédelmi kezeléséért felelős szerv a Fertő-Hanság Nemzeti Park Igazgatóság.

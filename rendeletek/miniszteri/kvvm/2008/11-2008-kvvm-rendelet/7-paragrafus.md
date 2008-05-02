@@ -1,0 +1,1 @@
+## 6. § Az Országos Természetvédelmi Tanács 1050/1960. számú határozatával védetté nyilvánított, és a Jeli arborétum természetvédelmi terület védettségének fenntartásáról szóló 109/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Jeli arborétum természetvédelmi terület természetvédelmi kezeléséért felelős szerv az Őrségi Nemzeti Park Igazgatóság.

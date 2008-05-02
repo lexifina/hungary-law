@@ -1,0 +1,1 @@
+## 8. § Az Országos Természetvédelmi Tanács 901/1958. számú OTT határozatával védetté nyilvánított, és a Körmendi-kastélypark természetvédelmi terület védettségének fenntartásáról szóló 152/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Körmendi-kastélypark természetvédelmi terület természetvédelmi kezeléséért felelős szerv az Őrségi Nemzeti Park Igazgatóság.

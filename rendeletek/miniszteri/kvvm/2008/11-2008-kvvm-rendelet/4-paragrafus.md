@@ -1,0 +1,1 @@
+## 3. § Az Országos Természetvédelmi Hivatal elnökének 1/1977. számú OTvH határozatával védetté nyilvánított, és a Soproni Tájvédelmi Körzet védettségének fenntartásáról szóló 141/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Soproni Tájvédelmi Körzet természetvédelmi kezeléséért felelős szerv a Fertő-Hanság Nemzeti Park Igazgatóság.

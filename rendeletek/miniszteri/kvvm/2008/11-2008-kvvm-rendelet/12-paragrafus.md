@@ -1,0 +1,1 @@
+## 11. § Az Országos Természetvédelmi Hivatal elnökének 1/1975. számú határozatával védetté nyilvánított, és a Sághegyi Tájvédelmi Körzet védettségének fenntartásáról szóló 113/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Sághegyi Tájvédelmi Körzet természetvédelmi kezeléséért felelős szerv az Őrségi Nemzeti Park Igazgatóság.

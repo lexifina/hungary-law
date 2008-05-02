@@ -1,0 +1,1 @@
+## 1. § A Magyar Királyi Földmívelésügyi Miniszter 80.855/1942. számú rendelkezésével védetté nyilvánított, és a Nagycenki-hársfasor természetvédelmi terület védettségének fenntartásáról szóló 159/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Nagycenki-hársfasor természetvédelmi terület természetvédelmi kezeléséért felelős szerv a Fertő-Hanság Nemzeti Park Igazgatóság.

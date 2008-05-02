@@ -1,0 +1,1 @@
+## 12. § Az Országos Természetvédelmi Tanács 601/1952. számú határozatával védetté nyilvánított, és a Sárvári arborétum természetvédelmi terület védettségének fenntartásáról szóló 114/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Sárvári arborétum természetvédelmi terület természetvédelmi kezeléséért felelős szerv az Őrségi Nemzeti Park Igazgatóság.

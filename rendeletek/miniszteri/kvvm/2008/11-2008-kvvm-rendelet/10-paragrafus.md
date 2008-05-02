@@ -1,0 +1,1 @@
+## 9. § Az Országos Környezet- és Természetvédelmi Hivatal 2/1980. (V. 14.) OKTH rendelkezésével védetté nyilvánított, és a Kőszegi Tájvédelmi Körzet védettségének fenntartásáról szóló 164/2007. (XII. 27.) KvVM rendelettel fenntartott védettségű Kőszegi Tájvédelmi Körzet természetvédelmi kezeléséért felelős szerv az Őrségi Nemzeti Park Igazgatóság.
