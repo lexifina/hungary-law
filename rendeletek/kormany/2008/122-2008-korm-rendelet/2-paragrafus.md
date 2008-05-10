@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság és a Francia Köztársaság között Budapesten 1966. július 28-án aláírt műszaki-tudományos együttműködésről szóló Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
