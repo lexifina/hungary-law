@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Holland Királyság Kormánya között Budapesten, az 1968. évi február hó 14. napján aláírt kulturális Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
