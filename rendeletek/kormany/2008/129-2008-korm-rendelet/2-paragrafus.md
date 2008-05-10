@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság és a Tanzánia Egyesült Köztársaság között Dar es-Salaamban az 1966. február 15-én aláírt kulturális és tudományos együttműködésről szóló Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
