@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és Kuwait Állam Kormánya között Budapesten 1966. július 27-én aláírt kulturális és tudományos együttműködési Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
