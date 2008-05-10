@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság és a Tunéziai Köztársaság között Budapesten 1966. május 25-én aláírt kulturális és tudományos együttműködésről szóló Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
