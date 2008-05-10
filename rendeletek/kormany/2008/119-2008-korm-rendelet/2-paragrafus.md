@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság és a Belga Királyság között Brüsszelben 1965. február 11-én aláírt kulturális együttműködésről szóló Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
