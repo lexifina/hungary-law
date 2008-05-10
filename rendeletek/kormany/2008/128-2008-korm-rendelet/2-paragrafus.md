@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Szudáni Köztársaság Kormánya között Budapesten, az 1967. évi október hó 14. napján aláírt kulturális és tudományos együttműködési Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
