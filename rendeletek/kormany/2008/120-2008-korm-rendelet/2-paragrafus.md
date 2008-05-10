@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Bolíviai Köztársaság Kormánya között La Pazban, az 1970. évi május hó 15. napján aláírt kulturális és tudományos együttműködési Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
