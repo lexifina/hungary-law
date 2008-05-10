@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és az Iráni Császárság Kormánya között Budapesten, az 1968. évi május hó 24. napján aláírt kulturális Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
