@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Tanzániai Egyesült Köztársaság Kormánya között Dar Es Salaamban 1966. február 15-én aláírt „Műszaki és Tudományos Együttműködési és Kölcsönös Segítségnyújtási Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
