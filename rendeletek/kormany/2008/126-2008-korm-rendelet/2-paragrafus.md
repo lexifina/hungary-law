@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság és az Olasz Köztársaság között Budapesten, az 1965. évi szeptember hó 21. napján aláírt kulturális Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
