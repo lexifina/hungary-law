@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Népköztársaság Kormánya és a Szíriai Arab Köztársaság Kormánya között Damaszkuszban, az 1968. évi június hó 9. napján aláírt kulturális Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
