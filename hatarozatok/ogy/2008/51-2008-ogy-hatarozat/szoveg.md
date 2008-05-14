@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Havas Szófia országgyűlési képviselő mentelmi jogát a Budai Központi Kerületi Bíróság 12.B.XII.2348/2007/7. számú megkeresésével érintett ügyben nem függeszti fel.
