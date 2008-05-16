@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében, valamint a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) 28. §-a (1) bekezdésének c) pontjában kapott felhatalmazás alapján a következőket rendeli el:
