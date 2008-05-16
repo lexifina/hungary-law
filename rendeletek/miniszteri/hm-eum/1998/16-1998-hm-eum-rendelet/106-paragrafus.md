@@ -1,0 +1,1 @@
+## 105. § A repülőtéri irányító szakszolgálati engedély alapján az engedélyes jogosult repülőtéri irányító szakszolgálati feladat ellátására azon a repülőtéren, ahol a 104. § (4) bekezdésben előírt gyakorlati vizsgát tette.

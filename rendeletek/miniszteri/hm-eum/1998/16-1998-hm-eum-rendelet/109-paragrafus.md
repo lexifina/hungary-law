@@ -1,0 +1,1 @@
+## 108. § A bevezető irányító szakszolgálati engedély alapján az engedélyes jogosult a bevezető eljárás- és radarirányítói feladatok ellátására azon a repülőtéren, ahol a 107. § (3) bekezdésben előírt gyakorlati vizsgát tette.
