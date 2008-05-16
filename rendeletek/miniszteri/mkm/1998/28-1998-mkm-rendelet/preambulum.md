@@ -1,0 +1,1 @@
+A szakképzésről szóló, többször módosított 1993. évi LXXVI. törvény 5. §-a (1) bekezdésének b) pontjában, továbbá a 13. §-ának (1) bekezdésében foglalt felhatalmazás alapján, a Központi Statisztikai Hivatal elnökével egyetértésben a következőket rendelem el:
