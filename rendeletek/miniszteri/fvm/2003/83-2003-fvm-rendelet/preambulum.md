@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény 11. §-ában és az illetékekről szóló 1990. évi XCIII. törvény 67. §-ában foglalt felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
