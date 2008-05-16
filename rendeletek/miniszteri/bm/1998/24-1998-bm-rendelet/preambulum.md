@@ -1,0 +1,1 @@
+A vállalkozás keretében végzett személy- és vagyonvédelmi, valamint a magánnyomozás szabályairól, a Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamaráról szóló 1998. évi IV. törvény (a továbbiakban: Tv.) 49. §-ának (2) bekezdésében kapott felhatalmazás alapján – az igazgatási szolgáltatási díj tekintetében a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
