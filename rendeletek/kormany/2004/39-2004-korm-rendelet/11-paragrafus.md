@@ -1,0 +1,5 @@
+11. § (1) Az első fokú sportfegyelmi határozat ellen az eljárás alá vont, illetve az, akinek jogát vagy jogos érdekét a határozat érinti a kézbesítéstől számított tizenöt napon belül jogorvoslati kérelmet terjeszthet elő. A jogorvoslati kérelmet az első fokú határozatot hozó sportfegyelmi bizottság elnökénél kell benyújtani, aki azt tizenöt napon belül az eljárás során keletkezett iratokkal együtt továbbítja a sportszövetség fellebbviteli szerve vezetőjének.
+
+(2) A másodfokú eljárás során a sportszövetség fellebbviteli szerve az első fokú határozatot megsemmisíti és az első fokon eljárt sportfegyelmi bizottságot új eljárásra utasítja, az első fokú határozatot megváltoztatja, vagy helybenhagyja.
+
+(3) A sportszövetség fellebbviteli szervének szervezetére, eljárására, a határidők számítására az első fokú eljárásra előírt rendelkezéseket megfelelően kell alkalmazni azzal, hogy a határidőket a 11. § (1) bekezdésben szereplő iratoknak a sportszövetség fellebbviteli szervének vezetőjéhez érkezésétől kell számítani.
