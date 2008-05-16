@@ -1,0 +1,3 @@
+6. § (1) Amennyiben a külföldi szolgálat teljesítése során a kiküldöttel szemben a külföldi szolgálati elöljáró kezdeményez fegyelmi felelősségre vonást, a fegyelmi jogkör gyakorlására jogosult parancsnok köteles azt érdemben megvizsgálni és az ügyről szolgálati elöljárójának jelentést tenni. A vizsgálat eredményéről és a tervezett intézkedésekről az eljárást kezdeményező külföldi szolgálati elöljárót megfelelően tájékoztatni kell.
+
+(2) Ha a külföldi szolgálati elöljáró a kiküldött hazarendelésére tesz javaslatot, a fegyelmi jogkört gyakorló parancsnok ettől eltérő döntéséről – indokaival együtt – tájékoztatja a külföldi szolgálati elöljárót.
