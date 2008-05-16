@@ -1,0 +1,1 @@
+## 20. § A transzfúziót végző személy a felhasználás során bekövetkezett súlyos káros eseményeket és súlyos szövődményeket, valamint a vérkészítménnyel kapcsolatos felhasználói tapasztalatokat írásban jelenti a transzfúziós felelős orvosnak, valamint az OVSZ azon területi szervének, amely a vérkészítményt kiadta.
