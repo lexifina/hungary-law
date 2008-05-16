@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya kiterjed – az antennák, antennatartó szerkezetek, valamint az azokhoz tartozó műtárgyak, továbbá a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építmények kivételével – az elektronikus hírközlési nyomvonalas és nyomvonal jellegű építmények és egyéb műtárgyak (a továbbiakban együtt: elektronikus hírközlési építmények) létesítésére (elvi engedélyeztetésére, építésére, használatbavételére, fennmaradására) és bontására.
+
+(2) A Nemzeti Hírközlési Hatóság (a továbbiakban: NHH) építésügyi hatósági eljárásaiért e rendelet mellékletében meghatározott mértékű igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
