@@ -1,0 +1,1 @@
+## 2. § Az üzemben tartási díj havonként utólagosan esedékes és a fizetési kötelezettség a díjbeszedő által meghatározott határnapig teljesítendő. A díjbeszedő jogosult a fizetési kötelezettség határnapját úgy meghatározni, hogy a teljesítésre kéthavonta összevontan kerüljön sor.
