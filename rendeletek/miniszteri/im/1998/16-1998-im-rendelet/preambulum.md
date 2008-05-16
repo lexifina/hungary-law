@@ -1,0 +1,1 @@
+A Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 84. §-ának (3) bekezdésében és 88. §-ában foglalt felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
