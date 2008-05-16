@@ -1,0 +1,1 @@
+## 31. § E rendelet hatálybalépésével egyidejűleg a taggal szemben fennálló, a Befektető-védelmi Alapra átszállt követelések pénzügyileg nem rendezett összege után képzett céltartalékot fel kell használni az egyéb bevételekkel szemben, és ezzel egyidejűleg értékvesztést kell elszámolni a követelések után az egyéb bevételek csökkentéseként.

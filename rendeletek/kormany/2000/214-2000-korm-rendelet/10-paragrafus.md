@@ -1,0 +1,1 @@
+## Az éves beszámoló jóváhagyása

@@ -1,0 +1,1 @@
+## Mérlegtételekhez kapcsolódó egyéb előírások
