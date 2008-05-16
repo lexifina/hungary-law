@@ -1,0 +1,1 @@
+A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 604. §-a (4) bekezdésének b) pontjában kapott felhatalmazás alapján – a legfőbb ügyésszel egyetértésben – a következőket rendeljük el:
