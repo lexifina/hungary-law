@@ -1,0 +1,1 @@
+Az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény (a továbbiakban: Tv.) 32. § (1) bekezdésének a) pontjában kapott felhatalmazás alapján, a tehéntej termékpálya piaci egyensúlyának tartós biztosítása érdekében a következőket rendelem el:
