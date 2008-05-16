@@ -1,0 +1,1 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 89. §-ának (3) bekezdésében kapott felhatalmazás alapján, az érintett miniszterekkel egyetértésben következőket rendelem el:
