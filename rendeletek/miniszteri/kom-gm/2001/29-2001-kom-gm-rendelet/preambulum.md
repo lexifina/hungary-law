@@ -1,0 +1,1 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 89. § (3) bekezdésében, valamint a 110. § (8) bekezdés m) pontjában kapott felhatalmazás alapján a következőket rendeljük el:
