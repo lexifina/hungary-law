@@ -1,0 +1,1 @@
+A Kormány a mezőgazdasági termelők adózási feltételeit meghatározó egyes törvények módosításáról szóló 1997. évi XVII. törvény 2. §-ában foglaltak alapján a mezőgazdasági őstermelői igazolványról szóló 228/1996. (XII. 26.) Korm. rendeletet (a továbbiakban: R.) az alábbiak szerint módosítja:
