@@ -1,0 +1,1 @@
+A közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: közoktatásról szóló törvény) 94. §-ának (1) bekezdés b) alpontjában foglalt felhatalmazás alapján – szakképzés tekintetében a szakképesítésért felelős miniszterekkel egyetértésben – a következőket rendelem el:
