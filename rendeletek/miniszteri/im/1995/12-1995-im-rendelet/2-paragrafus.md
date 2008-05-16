@@ -1,0 +1,1 @@
+## 1. § Ha a szülők a Csjt. 72. §-ának (2) bekezdése alapján közös szülői felügyelet iránti kérelmet terjesztenek elő, a kérelemben nyilatkozniuk kell arról, hogy milyen módon kívánnak együttműködni a közös szülői felügyelet gyakorlása során, különös tekintettel a gondozási, nevelési tevékenység ellátására.

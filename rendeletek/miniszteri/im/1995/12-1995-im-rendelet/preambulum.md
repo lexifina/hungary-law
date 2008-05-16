@@ -1,0 +1,1 @@
+A házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény (a továbbiakban: Csjt.) módosításáról rendelkező 1995. évi XXXI. törvény (a továbbiakban: Tv.) 11. §-ának (1) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
