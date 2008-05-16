@@ -1,0 +1,1 @@
+A Kormány, a szolgáltató állam megvalósítása, a költségvetési forrásokkal való hatékony gazdálkodás, valamint az Európai Unió tagállamaként való működés által támasztott követelményeknek való magasabb szintű megfelelés érdekében a következőket rendeli el:
