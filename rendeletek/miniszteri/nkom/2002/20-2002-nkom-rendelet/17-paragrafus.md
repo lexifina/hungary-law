@@ -1,0 +1,5 @@
+17. § (1) A számítógépes nyilvántartást használó muzeális intézményben a 13–14. §-ok és a 16. § alapján készített nyilvántartásokból a legutóbbi zárás óra keletkezett adatokat minden év december 31-ével – a maradandóságot biztosító technikával – ki kell nyomtatni. Az ily módon előállított lapokat – az adatokért felelős muzeológus(ok) aláírása után – össze kell fűzni. Az így készült leltárkönyveket, naplókat előlapjukon/első oldalukon az 1. számú melléklet 16. pontja szerinti szöveggel kell hitelesíteni.
+
+(2) Később feltárt adatok utólagos leltárkönyvi bejegyzése esetén ezt a tényt – a jogosult személy aláírásával és dátummal – jelezni kell a ,,Megjegyzés'' rovatban. Az aláírás egyben azt is tanúsítja, hogy a módosítás a számítógépes formában tárolt adatnál is megtörtént. Az esetleges hibák későbbi javítását az eredeti bejegyzés olvashatóságának megőrzésével, hasonló módon kell megoldani.
+
+(3) Amennyiben a számítógépes formában nyilvántartott és az (1) bekezdés szerint kinyomtatott, hitelesített nyilvántartásban szereplő adatok között eltérés mutatkozik, az utóbbit kell helyesnek tekinteni; a számítógépes adatokat e szerint kell javítani.

@@ -1,0 +1,5 @@
+## Törlés a nyilvántartásból
+
+21. § (1) A muzeális intézmény – akár hagyományos, akár számítógépes, illetve abból előállított – leltárkönyveiben, valamint duplumnaplóiban szereplő kulturális javak csak a miniszter által engedélyezett elidegenítés, illetve selejtezés alapján törölhetőek a nyilvántartásból. Nyilvántartásból való törlést egyéb okokból szintén kizárólag a miniszter engedélyezhet.
+
+(2) A gyűjteményből ily módon kikerült kulturális javak számítógépes adatbázisban őrzött adatait, illetve hagyományos vagy kinyomtatott leltárkönyvi, duplumnaplóbeli bejegyzését, leírókartonját a muzeális intézmény továbbra is köteles megőrizni. A törlés tényét a hagyományos vagy kinyomtatott leltárkönyvben, duplumnaplóban, illetve a leírókartonon a bejegyzés átlósvonalú áthúzásával, valamint a ,,Státusz'' rovatban is jelezni kell. E bejegyzést az intézmény vezetője aláírásával és az intézmény körbélyegzőjével hitelesíti. A törlés tényének jelzése egyidejűleg a számítógépes nyilvántartásban őrzött adatokban is kötelező.

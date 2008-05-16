@@ -1,0 +1,3 @@
+7. § (1) A muzeális intézménybe került, ám a gyűjteményekben már megtalálható példányokkal azonos, azokkal minden tartalmi adatukban megegyező kulturális javakról (pl. sorozatban előállított numizmatikai anyag vagy iparművészeti alkotás, sokszorosított grafika, plakát, röplap), amelyek megtartása ideiglenesen, cserealap képzése, közművelődési felhasználás céljából vagy más okból indokolt, duplumnaplót kell vezetni.
+
+(2) A duplumnaplóba a nyilvántartott kulturális javakat – lehetőleg darabonként – külön-külön sorszámon kell felvenni, a pontos azonosításhoz szükséges, a 2. számú melléklet XVI. fejezetében meghatározott adatok bejegyzésével. A napló kezelésének további szabályait az 1. számú melléklet 15. és 23. pontjai tartalmazzák.

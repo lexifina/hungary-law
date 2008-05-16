@@ -1,0 +1,3 @@
+15. § (1) A számítógépes nyilvántartást használó muzeális intézmény a 6. § (1) bekezdésében meghatározott kulturális javakról elektronikus formában vezet szekrénykataszteri nyilvántartást, amelybe a szakágnak megfelelő tudományos meghatározás eredményeként kapott, az 1. számú melléklet 12. a)–g) pontjaiban szabályozott adatokat kell felvenni.
+
+(2) Az (1) bekezdésben meghatározott kulturális javak tárolására az 1. számú melléklet 11. pontjában, kezelésükre a 13., valamint 26–27. pontjaiban meghatározottak az irányadóak azzal, hogy a tárolási egységekben bekövetkezett változásokat, azok időpontját és okát év közben elektronikus formában kell rögzíteni.

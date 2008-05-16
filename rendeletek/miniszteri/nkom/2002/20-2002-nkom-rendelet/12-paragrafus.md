@@ -1,0 +1,1 @@
+## 11. § A muzeális intézményben őrzött kulturális javak nyilvántartása számítógépes adatrögzítéssel és adattárolással, valamint a számítógépes adatbázisból előállított, kinyomtatott, a 3. § (2) bekezdésében megnevezett alapleltárak, valamint a 9. § (1) bekezdésében meghatározott célokra szükség szerint, alkalmanként kinyomtatható leírókartonok segítségével is történhet.
