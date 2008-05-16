@@ -1,0 +1,1 @@
+Az atomenergiáról szóló 1996. évi CXVI. törvény 68. §-a (2) bekezdésének k)–m) pontjaiban, valamint az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
