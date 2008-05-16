@@ -1,0 +1,1 @@
+## 1. § A Kormány az állami tulajdonban levő vagyon privatizálásának, vállalkozásba adásának elősegítése, az új magánvállalkozások létrejöttének támogatása érdekében egzisztencia hitel (a továbbiakban: hitel) és részletfizetési kedvezmény konstrukciót hoz létre.
