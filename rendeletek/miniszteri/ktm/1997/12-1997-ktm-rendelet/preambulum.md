@@ -1,0 +1,1 @@
+A védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény (a továbbiakban: Vszt.) 9. §-ának (2) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
