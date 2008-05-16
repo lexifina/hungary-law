@@ -1,0 +1,1 @@
+## 23. § Az egészségügyi, szociális és családügyi miniszter állapítja meg, hogy mely anyagot, terméket vagy készítményt kell gyógyszernek tekinteni, illetőleg gyógyszerhez hasonló elbírálás alá vonni.

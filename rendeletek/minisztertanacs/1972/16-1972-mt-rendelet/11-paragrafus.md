@@ -1,0 +1,3 @@
+11. § (1) Az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben az egészségügyi, szociális és családügyi miniszter szabályozza a közegészségügyi-járványügyi érdekből elrendelt rovar- és rágcsálóirtás költségeinek viselését.
+
+(2) Az egészségügyi, szociális és családügyi miniszter állapítja meg azoknak a szereknek (rovar- és rágcsálóirtó szereknek, fertőtlenítőszereknek stb.) és eszközöknek (gépeknek, készülékeknek) előállítására, minőségére és forgalomba hozatalára vonatkozó követelményeket, és engedélyezi forgalomba hozatalukat, amelyek a fertőző betegségek elleni védekezésre, valamint a járvány bekövetkezésének, illetőleg terjedésének megakadályozására szolgálnak.
