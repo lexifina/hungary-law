@@ -1,0 +1,3 @@
+13. § (1) Az alkalmassági ellenőrző (éves, féléves, negyedéves) vizsgálatok és a gondozás formáját, szakmai tartalmát, eljárási rendjét, módszertanát, valamint a szakszemélyzet gyógyszer szedése melletti repültetésének részletes szabályait – a szakszolgálati tevékenységgel szemben támasztott követelmények, a repülésbiztonság feltételeinek figyelembevételével – a Hatóság egyetértésével az MH repülő főszakorvos és az elsőfokú ROB az MH Egészségügyi Parancsnokság parancsnoka által jóváhagyott szakmai-módszertani útmutatóban határozza meg.
+
+(2) A repülőegészségi alkalmassági vizsgálatok közötti időszakban a szakszemélyzet egészségi állapotának felügyeletét az alapellátást végző egészségügyi szolgálat látja el az (1) bekezdés szerinti szakmai-módszertani útmutató alapján.

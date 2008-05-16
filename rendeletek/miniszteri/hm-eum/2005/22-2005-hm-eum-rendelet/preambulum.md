@@ -1,0 +1,1 @@
+A légiközlekedésről szóló 1995. évi XCVII. törvény 53. §-ának (7) bekezdésében kapott felhatalmazás alapján az állami célú légiközlekedésben folytatott szakszolgálati tevékenység repülőegészségi feltételeiről a következőket rendeljük el:

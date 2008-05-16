@@ -1,0 +1,5 @@
+5. § (1) A szakszemélyzet egészségi alkalmasságának megállapítását első fokon az 1. számú mellékletben foglalt „Repülőegészségi alkalmassági követelmények táblázata” (a továbbiakban: Táblázat) szerint az elsőfokú ROB végzi.
+
+(2) A szakszemélyzet egészségi alkalmassági vizsgálatára az előzetes hivatásos katonai, rendvédelmi szolgálatra, illetőleg a felsőfokú katonai tanintézeti tanulmányok folytatására való általános egészségi alkalmassági vizsgálat elvégzése után kerülhet sor, ha a vizsgálatra feljogosított intézet a külön jogszabályokban rögzített feltételek szerint „katonai szolgálatra alkalmas”, illetve „alkalmas” minősítést állapított meg.[^1]
+
+[^1]: A hivatásos és szerződéses katonák egészségi, pszichikai és fizikai alkalmasságának minősítéséről szóló 4/2003. (I. 31.) HM rendelet, továbbá a fegyveres szervek, hivatásos közalkalmazotti és köztisztviselői állományának munkaköri egészségi, pszichikai és fizikai alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint a belügyi egészségügyi szolgálat igénybevételéről szóló 21/2000. (VIII. 23.) BM–IM–TNM együttes rendelet.
