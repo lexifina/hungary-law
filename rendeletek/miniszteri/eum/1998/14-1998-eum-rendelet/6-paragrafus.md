@@ -1,0 +1,1 @@
+## 5. § Az etikai bizottság működésével kapcsolatos szervezési és ügyviteli feladatokat a fekvőbeteg-intézmény látja el. A működéssel kapcsolatos költségeket az intézmény költségvetésében kell biztosítani.
