@@ -1,0 +1,1 @@
+Az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény (a továbbiakban: Alk. tv.) 12. §-ának (4) bekezdésében kapott felhatalmazás alapján az alkalmi munkavállalói könyv formájának, kitöltésének, elkészítésének és elosztásának szabályairól a következőket rendelem el:
