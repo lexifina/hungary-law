@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság és a Portugál Köztársaság között az oktatás, a tudomány, a felsőoktatás, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció területén történő együttműködésről szóló egyezmény (a továbbiakban: szerződés) kötelező hatályának elismerésére.
