@@ -1,0 +1,1 @@
+2. § A védetté nyilvánítás célja a Tisza völgyében kialakult változatos, fajokban gazdag terület ökológiai, geográfiai, tájtörténeti és tájképi értékeinek megőrzése, a jelenlegi védett természeti területek közötti összeköttetés megteremtése, ezáltal a teljes, egy egységet képező terület védelmének biztosítása.

@@ -1,0 +1,1 @@
+1. § Védetté nyilvánítom és az 5/1990. (VI. 18.) KöM rendelettel létesített Kesznyéteni Tájvédelmi Körzethez csatolom a Tiszadob és Tiszalúc községhatárokban lévő, a mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, 2013,5 hektár kiterjedésű területet.
