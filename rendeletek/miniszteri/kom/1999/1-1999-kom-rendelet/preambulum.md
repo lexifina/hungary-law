@@ -1,0 +1,1 @@
+A természet védelméről szóló 1996. évi LIII. törvény 24. §-a (1) bekezdésének a) pontjában, valamint a 85. §-ának b) pontjában kapott felhatalmazás és a 82. §-ának (1) bekezdése alapján – az érdekeltekkel egyetértésben – a következőket rendelem el:

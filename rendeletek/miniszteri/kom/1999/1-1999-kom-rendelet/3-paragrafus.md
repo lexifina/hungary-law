@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a jellegzetes növénytársulások, az állatvilág élőhelyeinek és a terület tájképi értékeinek védelme a Hanság már korábban védetté nyilvánított területeivel egységes kezelésben, a Répce menti mocsárrétek Nemzeti Parkhoz történő csatolásával pedig az ártér jellegzetességeinek, valamint a rétek botanikai és zoológiai ritkaságainak megőrzése.
