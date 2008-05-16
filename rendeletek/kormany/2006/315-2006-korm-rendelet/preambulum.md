@@ -1,0 +1,1 @@
+A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. §-ának (6) bekezdésében, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdésének v) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
