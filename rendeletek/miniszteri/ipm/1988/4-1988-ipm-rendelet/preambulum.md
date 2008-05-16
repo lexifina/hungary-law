@@ -1,0 +1,1 @@
+A Kormánytól kapott felhatalmazás alapján – a pénzügyminiszterrel, a munkaügyi miniszterrel, az Országos Társadalombiztosítási Főigazgatóság vezetőjével, valamint a Bányászati Dolgozók Szakszervezetével egyetértésben – a következőket rendelem.
