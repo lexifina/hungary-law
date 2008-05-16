@@ -1,0 +1,1 @@
+## Pénzügyi teljesítőképesség
