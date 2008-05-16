@@ -1,0 +1,9 @@
+# 5/1991. (IV. 4.) IM rendelet
+
+a jogi szakvizsgáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-5-20-06
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-05-16 | 1991-5-20-06.12 | 5/1991. (IV. 4.) IM rendelet |
