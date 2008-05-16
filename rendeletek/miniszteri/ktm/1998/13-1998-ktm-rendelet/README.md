@@ -1,0 +1,9 @@
+# 13/1998. (V. 6.) KTM rendelet
+
+a barlangok nyilvántartásáról, a barlangok látogatásának és kutatásának egyes feltételeiről, valamint a barlangok kiépítéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-13-20-6D
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-05-16 | 1998-13-20-6D.6 | 13/1998. (V. 6.) KTM rendelet |
