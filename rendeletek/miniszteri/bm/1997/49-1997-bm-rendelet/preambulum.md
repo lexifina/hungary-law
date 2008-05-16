@@ -1,0 +1,1 @@
+A polgári védelemről szóló 1996. évi XXXVII. törvény 42. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján, figyelemmel a törvény 7. §-a (2) bekezdésének f) pontjára a következőket rendelem el:
