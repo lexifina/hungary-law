@@ -1,0 +1,1 @@
+## 10. § A bejelentési kötelezettség vagy a feldolgozási bizonyítvány igénylésének elmulasztása vagy a minőségellenőrzés egyéb módon történő akadályoztatása esetén az áru birtokosával szemben a legnagyobb ellenőrzési gyakoriságot kell alkalmazni.
