@@ -1,0 +1,1 @@
+A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény (a továbbiakban: Vtv.) 82. §-ának (1) bekezdésében kapott felhatalmazás alapján a közösségi vámjog végrehajtásának részletes szabályairól szóló 15/2004. (IV. 5.) PM rendelet (a továbbiakban: R.) alábbi módosítását rendelem el:
