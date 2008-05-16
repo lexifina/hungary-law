@@ -1,0 +1,1 @@
+A Kormány a zálogjoggal kapcsolatos törvényi szabályozás módosításáról szóló 2000. évi CXXXVII. törvény 1. §-ával megállapított, a Ptk. 254. §-ának (2) bekezdésében, valamint a törvény 6. §-ának (2) bekezdésében és (3) bekezdésének a) pontjában foglaltakra figyelemmel a következőket rendeli el:
