@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja az Őrség, a Vendvidék és a Vasi-hegyhát természeti és táji értékeinek védelme, az érintett területek erdeinek, gyepeinek, termőtalajának és más megújuló természeti erőforrásainak, gazdag élővilágának, tájképi és kultúrtörténeti emlékeinek, hagyományos gazdálkodási formáinak, jellegzetes településszerkezetének megőrzése.

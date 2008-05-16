@@ -1,0 +1,5 @@
+1. § (1) Védetté nyilvánítom Őrségi Nemzeti Park (a továbbiakban: Nemzeti Park) elnevezéssel az Őrségben, a Vendvidéken és a Vasi-hegyháton lévő 4122,8 hektár, illetve a Nemzeti Park területéhez csatolom a már védetté nyilvánított 39 810,7 hektár, összesen 43 933,5 hektár kiterjedésű területet. A Nemzeti Park ingatlan-nyilvántartási helyrajzi számait e rendelet 1. számú melléklete tartalmazza.
+
+(2) A Nemzeti Park (1) bekezdésben meghatározott területéből fokozottan védetté nyilvánítom a 2. számú melléklet I. pontjában felsorolt ingatlan-nyilvántartási helyrajzi számú 574,3 hektár kiterjedésű területet. Az e rendelet hatálybalépése előtt is fokozottan védett, a 2. számú melléklet II. pontjában felsorolt ingatlan-nyilvántartási helyrajzi számú 2529,7 hektár kiterjedésű területtel együtt a Nemzeti Park fokozottan védett területe összesen 3104 hektár.
+
+(3) Az (1) bekezdés alapján a Nemzeti Parkhoz csatolt védett természeti területeken a tájvédelmi körzet elnevezést megszüntetem, ezek jegyzékét a 3. számú melléklet tartalmazza.
