@@ -1,0 +1,1 @@
+A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény (a továbbiakban: Fmtv.) 68. §-ában kapott felhatalmazás alapján – a Magyar Szabadalmi Hivatal (a továbbiakban: MSZH) elnökével egyetértésben – a következőket rendelem el:
