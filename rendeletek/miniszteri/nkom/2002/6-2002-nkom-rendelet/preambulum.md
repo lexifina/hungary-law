@@ -1,0 +1,1 @@
+A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) 35. §-ának (5) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
