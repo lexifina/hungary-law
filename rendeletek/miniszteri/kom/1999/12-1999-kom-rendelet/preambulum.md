@@ -1,0 +1,1 @@
+A nemzeti szabványosításról rendelkező 1995. évi XXVIII. törvény 6. §-ának (2) bekezdésében foglaltak figyelembevételével — a Magyar Szabványügyi Testület elnökével, valamint az érdekelt miniszterekkel egyetértésben — a következőket rendelem el:
