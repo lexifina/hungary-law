@@ -1,0 +1,1 @@
+A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet 127. §-ának (1) bekezdésében kapott felhatalmazás alapján – a legfőbb ügyésszel egyetértésben – a következőket rendelem el:
