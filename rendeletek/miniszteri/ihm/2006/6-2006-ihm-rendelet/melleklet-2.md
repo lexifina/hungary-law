@@ -1,0 +1,909 @@
+## Rádióamatőr vizsga tárgykörök
+
+## Rádióamatőr vizsga tárgykörök[^11]
+
+## A vizsga anyaga csak az amatőrállomásokon végzett forgalmazások, kísérletek és vizsgálatok szempontjából jelentős tárgykörökre terjed ki. Ebbe beletartoznak az áramkörök és diagramjaik. A kérdések vonatkozhatnak integrált vagy diszkrét alkatrészekből épült áramkörökre.
+
+## A vizsgázónak az elméleti tárgykörök ismeretén kívül gyakorlati vizsgát is kell tennie forgalmazási készségből.
+
+## Az egyes tárgykörök ismerete a vizsga fokozatától függően kötelező, amit az alábbi táblázatokban X jelöl. A táblázatok fejlécében a vizsgafokozatokra alkalmazott jelölések:
+
+## E = Kezdő fokozat
+
+## A = Alap fokozat
+
+## B = HAREC fokozat
+
+## A tárgykörök ismeretének megkívánt mélysége az egyes vizsgafokozatoknál:
+
+## Kezdő: alapfokú elméleti tájékozottság, elemi ismeretek az elektromosság és a rádiótechnika területén. Az amatőrállomás berendezéseinek beállításának, ellenőrzésének készség szintű ismerete.
+
+## Alap: az alapfokú elméleti tájékozottságon kívül az eszközök gyakorlati ismerete. Ismerni kell az amatőr állomás fő részeit, azok rendeltetését és felépítését blokkvázlat szinten.
+
+## HAREC: az alap fokozatnál megkívánt mélységen felül az áramkörök felismerő, elemző ismerete, műszaki jellemzőik meghatározása és összekapcsolása, a működés ismertetése. Az amatőrállomás fő részeinek ismerete kapcsolási rajz szinten.
+
+## A vizsga fokozatától függetlenül készség szintű vizsga tehető morze ismeretekből.
+
+## Általános követelmények:
+
+|  | E | A | B |
+
+|  | 1. | A hivatkozott mennyiségek mértékegységei, valamint azok általánosan használt többszörösei és törtrészei | X | X | X |
+
+|  | 2. | Az összetett szimbólumok használata | X | X | X |
+
+|  | 3. | Matematikai fogalmak és műveletek: |  |  |  |
+
+| számtani alapműveletek (összeadás, kivonás, szorzás, osztás) | X | X | X |
+
+| törtek | X | X | X |
+
+| tíz hatványai, kitevős mennyiségek, logaritmusok |  |  | X |
+
+|  | négyzetre emelés, négyzetgyökvonás |  | X | X |
+
+|  | inverz értékek |  |  | X |
+
+| lineáris és nemlineáris diagramok értelmezése |  |  | X |
+
+| bináris számrendszer |  |  | X |
+
+|  | 4. | A képletek alkalmazása és azok átalakítása |  |  | X |
+
+## I. Műszaki tárgykör:
+
+| 1. Villamosság-, elektromágnesség- és rádió-elmélet | E | A | B |
+
+| 1.1. Vezetőképesség: |
+
+| vezető, félvezető, szigetelő | X | X | X |
+
+| áram, feszültség, ellenállás | X | X | X |
+
+| amper, volt és ohm mértékegységek | X | X | X |
+
+|  | Ohm-törvény | X | X | X |
+
+|  | Kirchhoff-törvények |  |  | X |
+
+| villamos teljesítmény |  | X | X |
+
+| teljesítmény mértékegységei | X | X | X |
+
+| villamos energia |  |  | X |
+
+| telep kapacitása (amperóra) |  |  | X |
+
+| 1.2. Áramforrások: |
+
+| telepek és tápegységek | X | X | X |
+
+| feszültségforrás, forrásfeszültség, rövidzárási áram, belső ellenállás, kapocsfeszültség |  | X | X |
+
+| feszültségforrások soros és párhuzamos kapcsolása |  |  | X |
+
+| 1.3. Villamos tér: |
+
+| villamos térerősség |  |  | X |
+
+| térerősség mértékegysége (Volt/méter) |  |  | X |
+
+| villamos terek árnyékolása |  |  | X |
+
+| 1.4. Mágneses tér: |
+
+| áramvezető körül kialakuló mágneses tér |  |  | X |
+
+| mágneses terek árnyékolása |  |  | X |
+
+| 1.5. Elektromágneses tér: |
+
+| rádióhullámok, mint elektromágneses hullámok | X | X | X |
+
+| terjedési sebesség, frekvencia, hullámhossz összefüggése | X | X | X |
+
+| polarizáció |  | X | X |
+
+| 1.6. Szinuszos jelek: |
+
+| grafikus ábrázolása az idő függvényében | X | X | X |
+
+| pillanatérték, amplitúdó, effektív érték, átlagérték |  |  | X |
+
+| periódus, periódusidő |  | X | X |
+
+| frekvencia | X | X | X |
+
+| frekvencia mértékegysége | X | X | X |
+
+| fázis, fáziskülönbség |  |  | X |
+
+| 1.7. Nem-szinuszos jelek: |
+
+| hangfrekvenciás jelek |  | X | X |
+
+| digitális jelek, négyszögjel |  | X | X |
+
+| grafikus ábrázolás az idő függvényében |  | X | X |
+
+| egyenfeszültségű komponens, alaphullám, magasabb harmonikusok |  |  | X |
+
+| zajok (vevő termikus zaja, sávzaj, zajsűrűség, vevő hasznos sávszélességébe eső zajteljesítmény) |  |  | X |
+
+| 1.8. Modulált jelek: |
+
+| modulációk típusai, előnyeik, hátrányaik | X | X | X |
+
+| modulálatlan vivőhullám (CW) | X | X | X |
+
+| amplitúdómoduláció (AM) | X | X | X |
+
+| fázismoduláció, frekvenciamoduláció (FM) és egyoldalsávos amplitúdómoduláció (SSB) | X | X | X |
+
+| modulációs löket és modulációs index |  |  | X |
+
+| vivő, oldalsávok, sávszélesség |  | X | X |
+
+| CW, AM, SSB és FM jelek hullámalakjai |  |  | X |
+
+| CW, AM és SSB jelek spektruma |  |  | X |
+
+| digitális modulációk: FSK, BPSK, QPSK, QAM |  | X | X |
+
+| digitális modulációk: bit sebesség, karakter sebesség (Baud-rate) és sávszélesség |  |  | X |
+
+| ciklikus redundancia vizsgálat (CRC), újraküldés, hibakorrekció (FEC) |  |  | X |
+
+| 1.9. Teljesítmény és energia: |
+
+| szinuszos jelek teljesítménye | X | X | X |
+
+| a következő dB értékekhez tartozó teljesítményarányok: 0 dB, 3 dB, 6 dB, 10 dB, 20 dB (mind pozitív, mind negatív értékeik esetén) |  |  | X |
+
+| egymás után kapcsolt erősítők vagy csillapítók bemeneti és kimeneti teljesítmény arányai dB-ben |  |  | X |
+
+| illesztés és annak fajtái |  |  | X |
+
+| be- és kimeneti teljesítmény és a hatásfok közötti összefüggés |  | X | X |
+
+| csúcs burkoló teljesítmény (PEP) |  |  | X |
+
+| 1.10. Digitális jelfeldolgozás: |
+
+| mintavételezés és kvantálás |  | X | X |
+
+| legkisebb mintavételi frekvencia (Nyquist frekvencia) |  |  | X |
+
+| konvolució (időtartományban/frekvenciatartományban, grafikai megjelenítés) |  |  | X |
+
+| kiegyenlítő (anti aliasing) szűrés, visszaállító szűrés |  |  | X |
+
+| analóg-digitális/ digitál-analóg konvertálás (ADC/DAC) |  |  | X |
+
+| 2. Alkatrészek | E | A | B |
+
+| 2.1. Ellenállás: |
+
+| ellenállás fogalma | X | X | X |
+
+| ellenállás mértékegysége | X | X | X |
+
+| áram-feszültség karakterisztika |  |  | X |
+
+| teljesítmény-disszipáció |  | X | X |
+
+| színkódok alapelve |  | X | X |
+
+| ellenállások soros és párhuzamos kapcsolása | X | X | X |
+
+| 2.2. Kondenzátor: |
+
+| kapacitás fogalma | X | X | X |
+
+| kapacitás mértékegysége | X | X | X |
+
+| kapacitás összefüggése a méretekkel és a dielektrikummal |  |  | X |
+
+| reaktancia |  |  | X |
+
+| feszültség és áram közötti fázisviszonyok |  |  | X |
+
+| kondenzátorok jellemzői, fix és változtatható kapacitású kondenzátor (lég-, csillám-, keramia-, műanyagszigetelésű-, és elektrolitikus kondenzátorok) |  | X | X |
+
+| kondenzátorok párhuzamos kapcsolása | X | X | X |
+
+| 2.3. Induktivitás: |
+
+| önindukciós tényező |  |  | X |
+
+| induktivitás mértékegysége | X | X | X |
+
+| menetszám, az átmérő, a hossz és a mag anyagának hatása az induktivitásra |  |  | X |
+
+| reaktancia |  |  | X |
+
+| feszültség és áram közötti fázisviszonyok |  |  | X |
+
+| jósági tényező |  |  | X |
+
+| 2.4. Transzformátor: |
+
+| ideális transzformátor |  |  | X |
+
+| összefüggések a menetszám-arány és a feszültség-, áram- és impedancia arány között |  |  | X |
+
+| transzformátor típusok, alkalmazások |  | X | X |
+
+| 2.5. Dióda: |
+
+| diódák használata és alkalmazása |  | X | X |
+
+| egyenirányító dióda |  | X | X |
+
+| Zener-dióda |  | X | X |
+
+| fényemittáló dióda (LED) |  |  | X |
+
+| kapacitásdióda (varicap) |  |  | X |
+
+| záróirányú feszültség, áram és teljesítmény |  |  | X |
+
+| 2.6. Tranzisztor: |
+
+| a tranzisztor, mint erősítő és oszcillátor |  | X | X |
+
+| pnp és npn tranzisztorok |  |  | X |
+
+| erősítési tényező |  |  | X |
+
+| térvezérlésű tranzisztor (n- és p-csatornás, j-FET) és bipoláris tranzisztor összehasonlítása |  |  | X |
+
+| gate (vezérlőelektróda) és a source (forráselektróda) közötti ellenállás |  |  | X |
+
+| drain (nyelő) árama és feszültsége közötti viszony |  |  | X |
+
+| tranzisztor földelt-emitteres, -bázisú és -kollektoros kapcsolásban: a kapcsolások be- és kimeneti impedanciája, az előfeszítés módszerei |  |  | X |
+
+| 2.7. Egyéb: |
+
+| egyszerű termikus eszközök, elektroncsövek |  |  | X |
+
+| feszültségek és impedanciák a nagyteljesítményű elektroncsöves fokozatokban, impedancia transzformálás |  |  | X |
+
+| egyszerű integrált áramkörök (beleértve a műveleti erősítőket) |  |  | X |
+
+| hőviszonyok egyszerű áramkörökben |  |  | X |
+
+| 3. Áramkörök | E | A | B |
+
+| 3.1. Alkatrészek kombinálása: |
+
+| ellenállások, kondenzátorok, tekercsek, diódák és transzformátorok soros és párhuzamos kapcsolása |  | X | X |
+
+| áramok és feszültségek a fenti áramkörökben |  |  | X |
+
+| nem ideális ellenállás, kondenzátor és tekercs nagyfrekvenciás viselkedése |  |  | X |
+
+| 3.2. Hangolt körök és szűrök: |
+
+| soros és párhuzamos rezgőkörök impedanciája és frekvenciamenete |  | X | X |
+
+| rezonanciafrekvencia |  | X | X |
+
+| hangolt rezgőkör jósági tényezője |  |  | X |
+
+| sávszélesség |  | X | X |
+
+| sáváteresztő szűrő |  | X | X |
+
+| aluláteresztő, felüláteresztő, sáváteresztő és sávzáró szűrők passzív elemekből |  |  | X |
+
+| szűrők frekvenciamenete |  |  | X |
+
+| Pí-szűrő, és T- szűrő |  |  | X |
+
+| kvarckristály, kvarcszűrő |  |  | X |
+
+| nem ideális elemek hatásai |  |  | X |
+
+| digitális szűrők (lásd 1.10. és 3.8.) |  |  | X |
+
+| 3.3. Tápegység: |
+
+| félhullámú és teljeshullámú egyenirányító áramkörök, hídkapcsolású egyenirányító |  | X | X |
+
+| simító áramkörök |  | X | X |
+
+| kisfeszültségű tápegységek stabilizátor áramkörei |  |  | X |
+
+| kapcsolóüzemű tápegységek, elválasztás, EMC |  |  | X |
+
+| 3.4. Erősítő: |
+
+| kisfrekvenciás erősítők |  | X | X |
+
+| nagyfrekvenciás erősítők |  | X | X |
+
+| erősítési tényező, erősítés szabályozása |  |  | X |
+
+| amplitúdó-frekvencia jelleggörbe és sávszélesség |  |  | X |
+
+| A, AB, B, és C osztályú erősítők |  | X | X |
+
+| erősítők nemlineáris torzításai, túlvezérlés |  |  | X |
+
+| 3.5. Detektor: |
+
+| AM detektor (burkoló detektor) |  | X | X |
+
+| diódás detektor | X | X | X |
+
+| produkt detektor és beat oszcillátor (BFO) |  | X | X |
+
+| FM detektor |  | X | X |
+
+| 3.6. Oszcillátor: |
+
+| visszacsatolás (szándékos és nem szándékos rezgések) |  |  | X |
+
+| frekvenciát és a stabil rezgési feltételeket befolyásoló tényezők |  |  | X |
+
+| LC oszcillátor |  | X | X |
+
+| kristályoszcillátor, harmonikus (overtone) oszcillátor |  |  | X |
+
+| feszültségvezérelt oszcillátor (VCO) |  |  | X |
+
+| fáziszaj |  |  | X |
+
+| 3.7. Fáziszárt hurok (PLL): |
+
+| szabályozó hurok, komparátor áramkörök |  |  | X |
+
+| frekvencia szintézis programozható osztóval a visszacsatoló hurokban |  |  | X |
+
+| 3.8. Diszkrét idejű jelek és rendszerek: |
+
+| véges (FIR) és végtelen (IIR) válaszidejű szűrők elrendezése |  |  | X |
+
+| Fourier transzformáció (DFT, FFT, grafikus ábrázolás) |  |  | X |
+
+| közvetlen digitális szintézis (DDS) |  |  | X |
+
+| 4. Vevők | E | A | B |
+
+| 4.1. Típusai: |
+
+| egyenes vevő | X | X | X |
+
+| egyszer- és kétszertranszponált szuperheterodin vevő |  | X | X |
+
+| 4.2. Tömbvázlatok: |
+
+| CW vevő (A1A) |  | X | X |
+
+| AM vevő (A3E) | X | X | X |
+
+| SSB vevő (J3E) |  | X | X |
+
+| FM vevő (F3E) | X | X | X |
+
+| 4.3. Az egymást követő fokozatok működése és funkciója (tömbvázlat szintű ismertetés): |
+
+| nagyfrekvenciás erősítő (hangolható vagy fix átvitelű) |  | X | X |
+
+| oszcillátor (fix és szabályozható) |  | X | X |
+
+| keverő |  | X | X |
+
+| középfrekvenciás erősítő |  | X | X |
+
+| határoló |  |  | X |
+
+| detektor, beleértve a produkt detektort | X | X | X |
+
+| hangfrekvenciás erősítő |  | X | X |
+
+| automatikus erősítésszabályozás (AGC) |  |  | X |
+
+| S-mérő |  |  | X |
+
+| zajzár |  | X | X |
+
+| tápegység |  | X | X |
+
+| 4.4. Vevők jellemzői (egyszerű leírásban tárgyalva): |
+
+| szomszédos csatorna |  |  | X |
+
+| szelektivitás |  | X | X |
+
+| érzékenység |  | X | X |
+
+| vevőzaj, zajtényező |  |  | X |
+
+| stabilitás |  |  | X |
+
+| tükörfrekvencia |  |  | X |
+
+| lefulladás, vevő blokkolás |  |  | X |
+
+| intermoduláció, keresztmoduláció |  |  | X |
+
+| visszakeverés (fáziszaj) |  |  | X |
+
+| 5. Adók | E | A | B |
+
+| 5.1. Típusai: |
+
+| frekvenciaáttevéses (keveréses) és anélküli adók |  | X | X |
+
+| 5.2. Tömbvázlatok: |
+
+| CW adó (A1A) |  | X | X |
+
+| SSB adó (J3E) |  | X | X |
+
+| FM adó (F3E) | X | X | X |
+
+| hangfrekvenciás moduláció a PLL VCO-jában |  | X | X |
+
+| 5.3. Az egymást követő fokozatok működése és funkciója (tömbvázlat szintű ismertetés): |
+
+| keverő |  | X | X |
+
+| oszcillátor (kristályoszcillátor, VFO) |  | X | X |
+
+| elválasztó fokozat |  | X | X |
+
+| meghajtó |  | X | X |
+
+| frekvenciatöbbszöröző |  | X | X |
+
+| teljesítményerősítő |  | X | X |
+
+| kimeneti illesztés |  | X | X |
+
+| kimeneti szűrő (Pí-szűrő) |  | X | X |
+
+| frekvenciamodulátor | X | X | X |
+
+| fázismodulátor |  | X | X |
+
+| SSB modulátor |  | X | X |
+
+| kristályszűrő |  |  | X |
+
+| tápegység |  | X | X |
+
+| 5.4. Adók jellemzői (egyszerű leírásban tárgyalva): |
+
+| frekvenciastabilitás |  | X | X |
+
+| rádiófrekvenciás sávszélesség |  | X | X |
+
+| oldalsávok |  | X | X |
+
+| hangfrekvenciás tartomány |  |  | X |
+
+| nemlinearitás (harmonikus és intermodulációs torzítás) |  | X | X |
+
+| kimeneti impedancia |  |  | X |
+
+| kimenő teljesítmény | X | X | X |
+
+| hatásfok |  |  | X |
+
+| frekvencialöket |  |  | X |
+
+| modulációs index |  |  | X |
+
+| CW billentyűzési kattogás, csipogás |  |  | X |
+
+| SSB túlvezérlés és fröcskölés (Splattering) |  |  | X |
+
+| zavaró nagyfrekvenciás kisugárzások |  | X | X |
+
+| készüléksugárzások |  |  | X |
+
+| fáziszaj |  |  | X |
+
+| 6. Antennák és tápvonalak | E | A | B |
+
+| 6.1. Antennák típusai: |
+
+| középen táplált félhullámú antenna | X | X | X |
+
+| végén táplált félhullámú antenna |  | X | X |
+
+| hajlított dipól |  |  | X |
+
+| negyedhullámú függőleges antenna (földelt alap) | X | X | X |
+
+| parazitaelemes antenna (Yagi) |  | X | X |
+
+| apertúra antenna (parabolikus reflektor, tölcsérantenna) |  |  | X |
+
+| többsávos antennák (trap dipól) |  |  | X |
+
+| 6.2. Antennák jellemzői: |
+
+| feszültség és áram eloszlása az antennán |  |  | X |
+
+| impedancia a betáplálási ponton | X | X | X |
+
+| nem rezonáns antenna kapacitív vagy induktív impedanciája |  |  | X |
+
+| polarizáció |  |  | X |
+
+| antenna irányítottsága, hatásfoka nyeresége |  |  | X |
+
+| besugárzott terület |  |  | X |
+
+| effektív kisugárzott teljesítmény (ERP, EIRP) | X | X | X |
+
+| előre-hátra viszony |  |  | X |
+
+| vízszintes és függőleges sugárzási diagramok |  |  | X |
+
+| 6.3. Tápvonalak: |
+
+| párhuzamos vezetőkből álló tápvonal |  |  | X |
+
+| koaxiális kábel, csatlakozók | X | X | X |
+
+| hullámvezető |  |  | X |
+
+| hullámimpedancia (Z0) |  |  | X |
+
+| sebességtényező |  |  | X |
+
+| állóhullámarány | X | X | X |
+
+| veszteségek |  | X | X |
+
+| balun | X | X | X |
+
+| antenna illesztés | X | X | X |
+
+| antenna hangoló egységek szerepe (Pí-tag, T-tag) | X | X | X |
+
+| konstrukciók és felhasználási módok |  | X | X |
+
+| táplálási módok, előnyök és hátrányok |  | X | X |
+
+| 7. Hullámterjedés: | E | A | B |
+
+| szakasz-csillapítás, jel-zaj viszony | X | X | X |
+
+| közvetlen átlátás (szabadtéri terjedés, a távolság négyzetével fordított arányú törvényszerűség) |  |  | X |
+
+| ionoszféra rétegek és hatásuk | X | X | X |
+
+| ionoszféra rétegeinek hatása a rövidhullámok terjedésére | X | X | X |
+
+| Nap hatása az ionoszférára |  |  | X |
+
+| többutas terjedés az ionoszférában |  |  | X |
+
+| kritikus frekvencia |  |  | X |
+
+| maximális használható frekvencia (MUF) |  |  | X |
+
+| felületihullám, térhullám, kisugárzási szög és áthidalt távolság | X | X | X |
+
+| fading |  | X | X |
+
+| troposzférikus terjedés (Duct-jelenség, szóródás) |  | X | X |
+
+| antenna magasságának hatása az áthidalható távolságra (rádió horizont) |  | X | X |
+
+| hőmérsékleti inverzió |  |  | X |
+
+| szórt (sporadikus ) E-visszaverődés |  |  | X |
+
+| auróra jelenség hatása a terjedésre |  |  | X |
+
+| meteor-nyomvonalas terjedés |  |  | X |
+
+| Hold-visszaverődés |  |  | X |
+
+| galaktikus zajok |  |  | X |
+
+| földi eredetű zajok (termikus zaj) |  |  | X |
+
+| atmoszférikus zajok (távoli villámlás) |  |  | X |
+
+| időjárási viszonyok hatása a VHF és UHF terjedésre |  | X | X |
+
+| RH, URH és a mikrohullámú terjedés sajátosságai |  | X | X |
+
+| Napfolt-ciklus és hatása a rádiótávközlésre |  | X | X |
+
+| terjedési előrejelzésekhez szükséges ismeretek: domináns zajforrások, jel-zaj viszony, legkisebb vehető jelszint, szakasz, antennanyereség, tápvonal csillapítás, legkisebb adóteljesítmény |  |  | X |
+
+| 8. Mérések | E | A | B |
+
+| 8.1. Mérések végzése: |
+
+| egyen és váltakozó feszültség és áram mérése | X | X | X |
+
+| mérési hibák: frekvencia, hullámalak és a műszerek belső ellenállásának hatása a mérés pontosságára |  |  | X |
+
+| ellenállás mérése |  | X | X |
+
+| egyenáramú és rádiófrekvenciás teljesítmény mérése: átlagos teljesítmény, csúcs burkoló teljesítmény (PEP) |  | X | X |
+
+| feszültség- állóhullámarány (VSWR) mérése |  | X | X |
+
+| rádiófrekvenciás jel és burkolójának hullámalak-mérése |  |  | X |
+
+| frekvenciamérés |  | X | X |
+
+| rezonanciafrekvencia mérése |  |  | X |
+
+| 8.2. Mérőműszerek: |
+
+| több méréshatárú műszer (digitális, analóg) |  | X | X |
+
+| rádiófrekvenciás teljesítménymérő |  |  | X |
+
+| reflektométer híd, állóhullámarány-mérő (SWR-mérő) |  | X | X |
+
+| frekvenciaszámláló |  |  | X |
+
+| abszorbciós frekvenciamérő |  | X | X |
+
+| jelgenerátor |  |  | X |
+
+| oszcilloszkóp |  |  | X |
+
+| spektrumanalizátor |  |  | X |
+
+| műterhelés | X | X | X |
+
+| 9. Zavarkibocsátás és zavartűrés | E | A | B |
+
+| 9.1. Zavarok elektronikus berendezésekben: |
+
+| blokkolás |  |  | X |
+
+| intermoduláció |  |  | X |
+
+| zavarok a hasznos jelben (TV, rádió) | X | X | X |
+
+| zavarok a hangfrekvenciás áramkörökben |  | X | X |
+
+| 9.2. Zavarok oka elektronikus berendezésekben: |
+
+| adó térerőssége | X | X | X |
+
+| adó zavaró sugárzásai | X | X | X |
+
+| nemkívánatos hatás a berendezésre: az antennabemenet felől, más csatolt vonalak felől (hálózat, hangszóró, csatlakoztatott kivezetés) és a közvetlen sugárzásból |  | X | X |
+
+| 9.3. A zavarok elleni védekezés módjai, a zavarok megelőzésére és elhárítására tett intézkedések: |
+
+| szűrés |  | X | X |
+
+| csatolásmentesítés |  | X | X |
+
+| árnyékolás | X | X | X |
+
+| jó RF földelés | X | X | X |
+
+| teljesítmény csökkentés | X | X | X |
+
+| adó- és TV-antenna eltávolítása egymástól |  | X | X |
+
+| egyik végén táplált félhullámú antenna elkerülése |  | X | X |
+
+| jó viszony a szomszédokkal | X | X | X |
+
+## II. Biztonságtechnikai tárgykör:
+
+| 10. Villamos biztonságtechnika | E | A | B |
+
+| 10.1. Életvédelem: |
+
+| villamos áram hatása az emberi szervezetre | X | X | X |
+
+| áramütés elleni megelőző intézkedések, eljárás balesetek esetén | X | X | X |
+
+| az elektromágneses tér egészségügyi hatása |  |  | X |
+
+| akkumulátorok kezelése | X | X | X |
+
+| 10.2. Hálózati táplálás és veszélyei: |
+
+| hálózati táplálás veszélyei | X | X | X |
+
+| az elektromos hálózatok vezetékeinek – a nullavezető, a fázisvezető és a földelő vezető – színjelzései | X | X | X |
+
+| védőföldelés | X | X | X |
+
+| túláram és zárlat elleni védelem, gyors- és lassú biztosítók |  | X | X |
+
+| a kettős szigetelés | X | X | X |
+
+| 10.3. Nagyfeszültség veszélyei: |
+
+| egyenfeszültségek, kis és nagyfrekvenciás váltófeszültségek veszélyei |  | X | X |
+
+| a feltöltött kondenzátor veszélye | X | X | X |
+
+| 10.4. Villámcsapás: |
+
+| a védekezés fajtái (antenna elhelyezés, villámáram felfogó-, levezető kialakítása) | X | X | X |
+
+| berendezések földelése | X | X | X |
+
+## III. Forgalmazási tárgykör:
+
+| Nemzeti és nemzetközi forgalmazási szabályok és eljárások | E | A | B |
+
+| 1. Forgalmazásnál használt betűk |
+
+| 1.1. Nemzetközi betűzési ábécé: |
+
+| A=Alfa B=Bravo C=Charlie D=Delta E=Echo F=Foxtrot G=Golf H=Hotel I=India | J=Juliet K=Kilo L=Lima M=Mike N=November O=Oscar P=Papa Q=Quebec R=Romeo | S=Sierra T=Tango U=Uniform V=Victor W=Whiskey X=X-ray Y=Yankee Z=Zulu | X | X | X |
+
+| 1.2. Magyar betűzési ábécé: |
+
+| A=Aladár, Antal B=Béla C=Cecil D=Dénes E=Elemér F=Ferenc G=Géza H=Helén I=Ilona | J=János K=Károly L=László M=Mátyás, Mihály N=Nelli O=Olga P=Péter Q=Kvelle R=Róbert | S=Sándor T=Tamás U=Ubul V=Viktor W=dupla-Vilmos X=ikszes Y=ipszilon Z=Zoltán | X | X | X |
+
+| 2. Q-kódok |
+
+| Kód | Kérdésben | Válaszban |  |  |  |
+
+| QRK | Milyen a jeleim olvashatósága? | Jeleinek olvashatósága ... fokozatú. |  |  | X |
+
+| QRM | Zavarja Önt ... ? | Zavar ... . | X | X | X |
+
+| QRN | Légköri problémái vannak? | Légköri problémáim vannak. |  | X | X |
+
+| QRO | Növeljem a teljesítményemet? | Növelje a teljesítményét! |  | X | X |
+
+| QRP | Csökkentsem a teljesítményem? | Csökkentse a teljesítményét! | X | X | X |
+
+| QRS | Lassabban adjak? | Adjon lassabban! |  | X | X |
+
+| QRT | Szüntessem be az adást? | Szüntesse be az adást! | X | X | X |
+
+| QRV | Készen áll? | Készen állok. | X | X | X |
+
+| QRX | Mikor hív újra? | Újra hívom … órakor a … frekvencián. |  | X | X |
+
+| QRZ | Ki hív engem? | Önt ... hívja. | X | X | X |
+
+| QSB | Halkulnak a jeleim? | Jelei halkulnak (fading). |  | X | X |
+
+| QSL | Tud adni vételi nyugtázást? | Adok önnek vételi nyugtázást. | X | X | X |
+
+| QSO | Tud forgalmazni ... -val? | Közvetlenül tudok forgalmazni. | X | X | X |
+
+| QSY | Váltsak másik frekvenciára? | Váltson másik frekvenciára! | X | X | X |
+
+| QTH | Mi a telepítési helye? | A telepítési helyem ... | X | X | X |
+
+| 3. Forgalmazási rövidítések |
+
+| BK | folyamatban lévő adás megszakítása | X | X | X |
+
+| CQ | minden állomásnak szóló általános hívás | X | X | X |
+
+| CW | folyamatos hullám(ú) | X | X | X |
+
+| DE | -tól, -től, a hívott állomás hívójelének elválasztása a hívó állomás hívójelétől | X | X | X |
+
+| K | felszólítás adásra | X | X | X |
+
+| MSG | üzenet |  | X | X |
+
+| PSE | kérem | X | X | X |
+
+| RST | a vett jelek érthetősége, erőssége, hangszíne | X | X | X |
+
+| R | a vétel megtörtént | X | X | X |
+
+| RX | vevő | X | X | X |
+
+| TX | adó | X | X | X |
+
+| UR | az Ön ... (birtokviszony) | X | X | X |
+
+| 4. Nemzetközi vészjelek, veszélyhelyzeti forgalom, kommunikáció természeti csapás esetén |
+
+| vészjelek: a rádiótávíró adásmódban: ” · · · – – – · · · ” (SOS), a rádiótávbeszélő adásmódban: „MAYDAY” | X | X | X |
+
+| amatőrállomás nemzetközi használata országos méretű természeti csapás esetén | X | X | X |
+
+| amatőrszolgálatok számára felosztott frekvenciasávok | X | X | X |
+
+| 5. Hívójelek |
+
+| amatőrállomás azonosítása | X | X | X |
+
+| hívójelek használata | X | X | X |
+
+| hívójelek felépítése | X | X | X |
+
+| nemzeti azonosító jelek (prefixek) | X Európa | X | X |
+
+| 6. Sávtervek |
+
+| IARU sávtervek elvei | X | X | X |
+
+| IARU sávtervek céljai |  | X | X |
+
+## IV. Jogi tárgykör:
+
+| Az amatőrszolgálatokra vonatkozó nemzeti és nemzetközi szabályok | E | A | B |
+
+| 1. Nemzetközi Távközlési Egyesület (ITU) Rádiótávközlési Szabályzata |
+
+| amatőrszolgálat és műholdas amatőrszolgálat definíciója | X | X | X |
+
+| az amatőrállomás meghatározása |  | X | X |
+
+| a Nemzetközi Rádiószabályzat 25. cikke |  | X | X |
+
+| rádióamatőr frekvenciasávok |  | X | X |
+
+| az amatőrszolgálatok szolgálati kategóriája |  |  | X |
+
+| az ITU rádiós körzetei |  |  | X |
+
+| 2. Postai és Távközlési Igazgatások Európai Értekezlete (CEPT) által kiadott szabályozások |
+
+| a T/R 61-01, T/R 61-02 és ECC/REC/ (05)06 Ajánlás ismerete | X | X | X |
+
+| amatőrállomások ideiglenes használata CEPT tagországokban |  | X | X |
+
+| a T/R 61-01 Ajánlás alapján tevékenykedő nem CEPT országok helyzete |  | X | X |
+
+| 3. Nemzeti jogszabályok engedélyezési feltételek |
+
+| rádióamatőrökre vonatkozó nemzeti jogszabályok | X | X | X |
+
+| rádióamatőr vizsgák | X | X | X |
+
+| engedélyezési feltételek | X | X | X |
+
+| naplózási ismeretek bemutatása: naplóvezetés, annak célja és a rögzített adatok | X | X | X |
+
+## V. Gyakorlat
+
+## Valós rádióforgalom bemutatása, amely során a jelöltnek be kell mutatni a rádiótávbeszélő forgalom készség szintű ismeretét, az elméleti forgalmazási ismeretek gyakorlati használatát.
+
+## Morze vizsga követelményei
+
+## A vizsgázónak be kell mutatnia, hogy képes betű- és számcsoportokat, írásjeleket tartalmazó morzekódokat adni, illetve venni 3 percig, 6 WPM (=Words Per Minute, ahol egy szó öt karakterből áll), azaz 30 karakter/perc sebességgel kézi úton.
+
+## Az adásban legfeljebb 1 javítatlan és 4 javított, a vételben 4 hiba lehet.
+
+## Morzekódok:
+
+| A | · – | J | · – – – | S | · · · | 2 | · · – – – | (.) | · – · – · – |
+
+| B | – · · · | K | – · – | T | – | 3 | · · · – – | (?) | · · – – · · |
+
+| C | – · – · | L | · – · · | U | · · – | 4 | · · · · – | (:) | – – – · · · |
+
+| D | – · · | M | – – | V | · · · – | 5 | · · · · · | (-) | – · · · · – |
+
+| E | · | N | – · | W | · – – | 6 | – · · · · | (=) | – · · · – |
+
+| F | · · – · | O | – – – | X | – · · – | 7 | – – · · · | (/) | – · · – · |
+
+| G | – – · | P | · – – · | Y | – · – – | 8 | – – – · · | (@) | · – – · – · |
+
+| H | · · · · | Q | – – · – | Z | – – · · | 9 | – – – – · |  |  |
+
+| I | · · | R | · – · | 1 | · – – – – | 0 | – – – – – |  |  |
+
+## Hibajel: folyamatosan leadott legalább 6 pont
+
+2. melléklet a 6/2006. (V. 17.) IHM rendelethez
+
+[^11]: A CEPT T/R 61-02 Ajánlása és ERC 32. Jelentése alapján
