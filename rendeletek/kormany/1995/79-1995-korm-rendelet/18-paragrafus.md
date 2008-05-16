@@ -1,0 +1,1 @@
+## 17. § Ha a Ttv. 9. §-ának (2) bekezdése szerint a minősített adat jellege miatt a minősítés feltüntetésére nincs lehetőség, a speciális eljárás rendjét, a külön irat és az adathordozó kezelésének módját a minősítő a Szabályzatban külön köteles meghatározni, és azt az érintett titokbirtokosok tudomására hozni.

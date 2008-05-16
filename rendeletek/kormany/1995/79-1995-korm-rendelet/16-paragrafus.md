@@ -1,0 +1,1 @@
+## 15. § Államtitokra vonatkozó minősítési javaslatban szükség esetén kezdeményezni kell a Ttv. 2. §-a (1) bekezdésének 4. alpontja szerinti rendelkezés vagy e rendelet 22. §-a szerinti különleges kezelési utasítás alkalmazását.

@@ -1,0 +1,1 @@
+## 5. § A titokvédelmi felügyelő a szerv vezetőjének átruházott hatáskörében eljárva utasítási joggal gyakorolja az őt megbízó vezető titokvédelemi jogosítványait, így különösen ellátja a Ttv.-ben, valamint e rendeletben meghatározott szabályok alkalmazásának felügyeletét. Ennek körében gondoskodik a minősített adat védelmére meghatározott feladatok végrehajtásáról.
