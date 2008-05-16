@@ -1,0 +1,1 @@
+A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény 40. §-ának (3) bekezdésében és a bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. §-a (2) bekezdésének h) pontjában kapott felhatalmazás alapján – a Magyar Szabadalmi Hivatal elnökével egyetértésben – a következőket rendelem el:
