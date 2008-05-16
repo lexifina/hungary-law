@@ -1,0 +1,1 @@
+A népi iparművészettel kapcsolatos állami feladatokról szóló 114/2004. (IV. 28.) Korm. rendelet (a továbbiakban: R.) 3. §-ában foglalt felhatalmazás alapján – az igazgatási szolgáltatás díj tekintetében a pénzügyminiszterrel egyetértésben – az alábbiakat rendelem el:
