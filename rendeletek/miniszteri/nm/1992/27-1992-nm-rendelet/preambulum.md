@@ -1,0 +1,1 @@
+Az egészségügyről szóló 1972. évi II. törvény végrehajtásáról rendelkező 16/1972. (IV. 29.) MT rendelet 37. §-ában foglalt felhatalmazás alapján — az érdekelt miniszterekkel egyetértésben — az alábbiakat rendelem:
