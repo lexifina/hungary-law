@@ -1,0 +1,1 @@
+A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: Akt.) 27. §-ának (4) bekezdésében és 30. §-ának (2) bekezdésében foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
