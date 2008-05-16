@@ -1,0 +1,1 @@
+## 5. § Amennyiben a bíró a különleges eszköz alkalmazása iránti kérelmet elutasítja, de olyan új tények merülnek fel, amelyek a különleges eszköz alkalmazását szükségessé teszik, újabb kérelem terjeszthető elő.
