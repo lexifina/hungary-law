@@ -1,0 +1,1 @@
+A légiközlekedésről szóló 1995. évi XCVII. törvény 74. §-ának a) pontjában, valamint a növényvédelemről szóló 2000. évi XXXV. törvény (a továbbiakban: Tv.) 65. §-a (2) bekezdésének b) pontjában foglalt felhatalmazás alapján – e rendelet 16. §-a vonatkozásában a belügyminiszterrel egyetértésben – a következőket rendeljük el:
