@@ -1,0 +1,1 @@
+A Kormány a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 6. §-ának (4) bekezdésében, valamint a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 203. §-a (2) bekezdésének d) pontjában kapott felhatalmazás alapján a következőket rendeli el:
