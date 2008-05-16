@@ -1,0 +1,1 @@
+Az államháztartásról szóló, többször módosított 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 124. §-ának (4) bekezdésében kapott felhatalmazás alapján a pénzügyi szolgáltatások teljesítésének rendjéről a Magyar Államkincstárban tárgyú 36/1999. (XII. 27.) PM rendeletet (a továbbiakban: rendelet) az alábbiak szerint módosítom:
