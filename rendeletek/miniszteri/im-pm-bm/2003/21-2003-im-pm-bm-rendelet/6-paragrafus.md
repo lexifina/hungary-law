@@ -1,0 +1,1 @@
+## 5. § Ha a büntetőeljárás során a megidézett személy megjelenésével felmerült útiköltséget kell megtéríteni, a költségjegyzékbe a nyomozóhatóság, az ügyész és a bíróság azt az utazási költséget jegyzi be, amelynek megtérítésére a megidézett személy külön jogszabály szerint igényt tarthat.
