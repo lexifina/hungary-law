@@ -1,0 +1,1 @@
+Az államháztartásról szóló 1992. évi XXXVIII. törvény 124. §-ának (8) bekezdésében foglalt felhatalmazás alapján a rendezett munkaügyi kapcsolatok feltételeinek igazolására alkalmas iratok köréről a következőket rendelem el:
