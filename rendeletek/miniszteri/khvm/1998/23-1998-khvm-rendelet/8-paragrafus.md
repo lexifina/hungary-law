@@ -1,0 +1,3 @@
+8. § (1) A műszaki nyilvántartásban kell rögzíteni a vízgazdálkodási objektumokhoz kapcsolódó vízhasználatokat, azok műszaki jellemzőinek adatait. A vízhasználatok nyilvántartásában az egyes vízhasználatok alapját képező vízgazdálkodási objektum egyedi azonosítóját fel kell tüntetni. A vízhasználat-nyilvántartás készítése és karbantartása az illetékes vízügyi igazgatóság feladata.
+
+(2) A vízhasználati nyilvántartásban szerepeltetni kell a vízjogi engedélyekben lekötött vízkészletet, az elvi vízjogi engedélyekben – az engedély érvényességi időtartamáig – előjegyzett vízigényt, és a tényleges vízhasználati értéket.
