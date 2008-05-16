@@ -1,0 +1,1 @@
+## 43. § A mozgó munkaeszközzel történő teheremelés esetén a gyártó által meghatározott, a helyi körülmények figyelembevételével alkalmazott kitámasztó eszközök és egyéb segédeszközök alkalmazásával kell megakadályozni az emelőgép megbillenését, felborulását, elmozdulását, megcsúszását. Az emelés megkezdése előtt a stabilitás meglétét a munkaeszköz kezelőjének ellenőrizni kell.

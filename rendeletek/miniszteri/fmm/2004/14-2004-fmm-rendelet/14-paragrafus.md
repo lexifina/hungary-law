@@ -1,0 +1,1 @@
+## 13. § A munkáltató a munkaeszközök munkavállalók részére történő kiválasztásánál figyelembe veszi a munkavégzés jellemzőit, lehetséges veszélyeit, a munkakörülményeket és a munkaeszköz használatának kockázatait.
