@@ -1,0 +1,1 @@
+A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 30. § (8) bekezdésében, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 81. §-a (1) bekezdésének b) pontjában adott felhatalmazás alapján a következőket rendelem el:
