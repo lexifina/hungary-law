@@ -1,0 +1,1 @@
+A Kormány a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 245/N. §-ának (2) bekezdésében és a 342. §-ának (1) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
