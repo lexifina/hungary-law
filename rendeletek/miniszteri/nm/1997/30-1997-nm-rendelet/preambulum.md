@@ -1,0 +1,1 @@
+A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet (a továbbiakban: Bvtvr.) 105. §-ának (2) bekezdésében kapott felhatalmazás alapján – az igazságügy-miniszterrel egyetértésben – a következőket rendelem el:
