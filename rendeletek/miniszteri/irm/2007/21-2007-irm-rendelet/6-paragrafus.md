@@ -1,0 +1,3 @@
+6. § (1) Az ismeretlen helyen tartózkodó (eltűnt) pártfogolt felkutatására, tartózkodási helyének megállapítására a rendőrség a pártfogó felügyelő megkeresésére intézkedik, illetőleg eltűnés miatt körözést rendel el az Rtv., a személy- és tárgykörözésről, valamint az eltűnt személyek felkutatásának és a rendkívüli halálesetek kivizsgálásának rendjéről szóló jogszabályi rendelkezések alapján.
+
+(2) Ha a feltételes szabadságra bocsátott, illetőleg javítóintézetből ideiglenesen elbocsátott pártfogolt eltűnt, és a Bv. tvr. 9. §-ának (2) bekezdése alapján a szabadságvesztés ideiglenes foganatba vételét rendelték el, a rendőrség a felkutatást szolgáló intézkedéseket a bíróság által kibocsátott elfogatóparancs alapján hajtja végre.
