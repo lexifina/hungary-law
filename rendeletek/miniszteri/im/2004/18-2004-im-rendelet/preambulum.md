@@ -1,0 +1,1 @@
+A használati minták oltalmáról szóló 1991. évi XXXVIII. törvény 42. §-ának (2) bekezdésében foglalt felhatalmazás alapján – a Magyar Szabadalmi Hivatal elnökével egyetértésben – a következőket rendelem el:
