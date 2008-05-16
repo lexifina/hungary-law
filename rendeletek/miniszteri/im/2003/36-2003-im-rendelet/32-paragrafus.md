@@ -1,0 +1,1 @@
+## 31. § Az elítélt, illetve az előzetesen letartóztatott katonát a katonai büntetés-végrehajtási intézet orvosa által kiállított, és a beutalt magatartására vonatkozó, részletes parancsnoki összefoglaló véleménnyel ellátott beutaló alapján lehet az IMEI-be befogadni ideg- és elmegyógyászati gyógykezelés céljából.
