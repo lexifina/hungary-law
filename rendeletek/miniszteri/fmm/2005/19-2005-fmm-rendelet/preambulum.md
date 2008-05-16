@@ -1,0 +1,1 @@
+A felnőttképzésről szóló 2001. évi CI. törvény 4. §-ának (2) bekezdésében, 10. §-ának (6) bekezdésében, valamint 12. §-ának (10) bekezdésében kapott felhatalmazás alapján – az érintett miniszterekkel egyetértésben – a következőket rendelem el:
