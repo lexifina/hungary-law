@@ -1,0 +1,9 @@
+# 204/2006. (X. 13.) Korm. rendelet
+
+a járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló 134/1999. (VIII. 31.) Korm. rendelet, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosításáról szóló 200/2006. (X. 2.) Korm. rendelet és a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-204-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-05-16 | 2006-204-20-22.2 | 204/2006. (X. 13.) Korm. rendelet |
