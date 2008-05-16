@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló – a 2000. évi XXXVIII. törvénnyel módosított – 1995. évi LXXXIII. törvény (a továbbiakban: Njt.) 21. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
