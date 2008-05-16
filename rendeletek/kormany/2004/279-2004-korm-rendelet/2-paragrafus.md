@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között a felsőfokú tanulmányok egyenértékűségének elismeréséről szóló, Budapesten, 2001. december 1-jén aláírt Egyezményt e rendelettel kihirdeti.
