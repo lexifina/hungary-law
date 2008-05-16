@@ -1,0 +1,5 @@
+21. § (1) A kölcsön 1–15 évi időtartamra nyújtható. A visszafizetést a kölcsön folyósítását követő hónap első napján kell megkezdeni. A visszafizetés megkezdésére az érintett kérelmére legfeljebb 1 évig terjedő türelmi idő állapítható meg. Különös méltánylást érdemlő esetben (különösen az érintett önhibáján kívüli súlyos és tartós egészségromlása, munkanélkülivé válása) az érintett kérelmére a visszafizetés legfeljebb öt évig terjedő időtartamra felfüggeszthető, illetőleg a kamatmentes kölcsön még nem törlesztett része vissza nem térítendő támogatásra változtatható.
+
+(2) A támogatás visszafizetési feltételeinek megállapításánál figyelembe kell venni az érintett és közeli hozzátartozója jövedelmét, vagyonát, rendszeres pénzellátásra szóló jogosultságát, kereső tevékenységét, továbbá az igénybe vett központi, illetve önkormányzati forrásból finanszírozott kedvezményeket és támogatásokat, családi körülményeit (pl. fogyatékos családtagról történő gondoskodás).
+
+(3) Ha a kölcsönt több személy közösen kapta, annak törlesztéséért, illetőleg visszafizetéséért egyetemlegesen felelősek.

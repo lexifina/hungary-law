@@ -1,0 +1,7 @@
+## 11. § Az érintett, az ügyvivő, kiskorú érintett esetén a törvényes képviselő kérelmére az érintett óvodai nevelésével, általános iskolai, gimnáziumi, szakközépiskolai, szakmunkásképző, szakiskolai oktatásával, diákotthoni, kollégiumi és gyermekvédelmi intézményben történő elhelyezésével kapcsolatos étkezési, tanfelszerelési, utazási (bérlet) költséget a Szolgálat részben vagy egészben megtérítheti, feltéve, ha a Programban való részvétele miatt, vagy rajta kívül álló okból addigi tanulmányait a korábbi keretek között nem folytathatja.
+
+12. § (1) Az érintett kérelmére a Szolgálat – legfeljebb a képzettség megszerzéséhez előírt időtartamra – átvállalhatja az érintett felsőfokú oktatásának tandíját, költségtérítését, egyéb díját, feltéve, hogy ez a védelem érdekeit nem veszélyezteti. A kérelemhez csatolni kell a felvételről szóló igazolást. Különösen indokolt esetben a Szolgálat egyéb, a felsőoktatásban való részvételt lehetővé tevő támogatást is nyújthat.
+
+(2) A megállapított támogatás folyósításának feltétele, hogy az érintett minden év szeptemberének, illetőleg februárjának utolsó napjáig igazolja, hogy a felsőoktatási intézménybe beiratkozott.
+
+(3) A Szolgálat a 11–12. §-okban felsorolt támogatásokat készpénzben vagy banki átutalás útján folyósítja az érintett, kiskorú érintett esetén törvényes képviselője részére. Az érintettet, illetve a törvényes képviselőt ezekre nézve elszámolási kötelezettség terheli.

@@ -1,0 +1,1 @@
+## 9. § A Szolgálat gondoskodik az érintett részére olyan szakemberek, illetve intézmények segítségéről, akik vagy amelyek az érintett lelki szükségleteinek kielégítésére speciális segítő-támogató tevékenységet végeznek, és közreműködnek a mentális válsághelyzetek feloldásában.

@@ -1,0 +1,1 @@
+A büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény (a továbbiakban: Tvdt.) 40. §-ának (1) bekezdésében írt felhatalmazás alapján a Kormány a következő rendeletet alkotja:
