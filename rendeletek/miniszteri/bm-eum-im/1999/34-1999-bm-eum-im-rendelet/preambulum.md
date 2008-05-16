@@ -1,0 +1,1 @@
+Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 217. §-ának (4) bekezdésében és 218. §-ának (5) bekezdésében, valamint a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 41. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendeljük el:
