@@ -1,0 +1,5 @@
+21. § (1) Ha a kölcsönvevő a könyvtár által a dokumentum visszaszolgáltatására, illetőleg pótlására vagy értékének megtérítésére vonatkozó igényét (a 20. § rendelkezései alapján) legalább kétszeri írásbeli felszólításra nem teljesíti, a követelést polgári peres úton kell érvényesíteni, kivéve azt az esetet, amikor a bírósági végrehajtásról szóló 1955. évi 21. számú törvényerejű rendelet 13. §-a, illetőleg 14. §-ának e) pontja szerint végrehajtásnak van helye.
+
+(2) Ha az (1) bekezdésben, illetőleg a 20. §-ban meghatározott intézkedések nyomán a kölcsönvevő a dokumentumot nem szolgáltatta vissza, de a dokumentum elvesztése, megsemmisülése vagy megrongálódása nyomán keletkezett tényleges kárt a 20. § rendelkezései szerint pénzben megtérítette, a könyvtár a dokumentumot pénzben megtérített követelés címén – a fenntartó tájékoztatása mellett – az állományból kivezetheti.
+
+(3) Ha az (1) bekezdésben szabályozott peres eljárás, illetőleg a végrehajtás eredménytelennek bizonyul, a szóban forgó dokumentumokat behajthatatlan követelés címen kell a könyvtár állománynyilvántartásából kivezetni.
