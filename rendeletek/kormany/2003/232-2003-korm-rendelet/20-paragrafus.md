@@ -1,0 +1,1 @@
+## 19. § A hitelszerződésenként megállapított különbözeteket az Eximbank a tárgynegyedév utolsó munkanapján érvényes, hivatalosan közzétett MNB árfolyamok alkalmazásával forintra átszámítja, és azok összesítéseként kimutatott forintösszegeket a 20. § szerint rendezi a központi költségvetéssel.

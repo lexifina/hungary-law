@@ -1,0 +1,7 @@
+## A kötött segélyhitel konstrukcióban megvalósuló ügyletek befogadása, a döntési mechanizmus
+
+4. § (1)[^2] A gazdasági és közlekedési miniszter a kötött segélyhitelezéssel összefüggő döntések előkészítése céljából a Pénzügyminisztérium, a Külügyminisztérium, a Miniszterelnöki Hivatal, a Környezetvédelmi és Vízügyi Minisztérium, a GKM, az európai ügyekért felelős tárca nélküli miniszter, a Magyar Kereskedelmi Engedélyezési Hivatal, az Eximbank és a Mehib képviselőinek bevonásával Kötött Segélyhitel Koordinációs Szakértői Munkacsoportot (a továbbiakban: Szakértői Munkacsoport) hoz létre. A Szakértői Munkacsoport a nemzetközi fejlesztési együttműködési politikának és stratégiának megfelelő segélyhitelezési gyakorlat érvényre juttatásával, a relációk és a projektek kiválasztásával, a segélyhitelnyújtás feltételeire vonatkozó döntések előkészítésével kapcsolatos feladatokat lát el. A Szakértői Munkacsoport ügyrendjét a gazdasági és közlekedési miniszter hagyja jóvá. A Szakértői Munkacsoport a javaslatairól egyhangúlag határoz, és tevékenységéről évente beszámol a Nemzetközi Fejlesztési Együttműködési Tárcaközi Bizottságnak.
+
+(2) A kötött segélyhitelezés célországait a nemzetközi fejlesztési együttműködési politikával összhangban, a jelen rendelet 9. § 1) bekezdése szerinti országok köréből, az érintett minisztériumokkal egyetértésben a Nemzetközi Fejlesztési Együttműködési Tárcaközi Bizottság határozza meg és teszi közzé.
+
+[^2]: A 4. § (1) bekezdése a 132/2005. (VII. 8.) Korm. rendelet 6. §-a (2) bekezdésének a) pontja szerint módosított szöveg.

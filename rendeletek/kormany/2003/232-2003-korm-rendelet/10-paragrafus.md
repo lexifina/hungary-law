@@ -1,0 +1,5 @@
+10. §[^7] (1) Kötött segélyhitel konstrukcióban csak a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható, nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendeletben meghatározott magyar tartalmat elérő ügyletek finanszírozhatók. A magyar áru vonatkozásában a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvényben és a közösségi vámjog végrehajtásának részletes szabályairól szóló 15/2004. (IV. 5.) PM rendeletben foglaltakat kell alkalmazni.
+
+(2) A magyar származás megállapítására és igazolására a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 19. §-ában, a közösségi vámjog végrehajtásának részletes szabályairól szóló 15/2004. (IV. 5.) PM rendelet 23. §-ában, valamint a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 2454/93/EGK rendelet 48. cikkében foglaltakat kell alkalmazni.
+
+[^7]: A 10. § a 132/2005. (VII. 8.) Korm. rendelet 1. §-ával megállapított szöveg.

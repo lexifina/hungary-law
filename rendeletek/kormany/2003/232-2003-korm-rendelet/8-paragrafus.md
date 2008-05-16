@@ -1,0 +1,1 @@
+## A kötött segélyhitelnyújtás feltételei
