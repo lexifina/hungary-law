@@ -1,0 +1,1 @@
+A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény (a továbbiakban: Tv.) 34. §-a (1) bekezdésének e) és f) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. §-ának b) pontjában foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
