@@ -1,0 +1,3 @@
+13. § (1) Az alrészletek betűjelét lehetőleg az alrészlet ábrájának közepében kell elhelyezni. Abban az alrészletben, amelyben a földrészlet helyrajzi száma található, az alrészlet betűjelét a helyrajzi szám alá – ha ez nem lehetséges, mellé, szükséges esetben a helyrajzi számmal azonos módon történő elforgatással –, a helyrajzi számtól távolabb kell feltüntetni. Vonalas létesítmény esetén az alrészlet betűjelét a hossztengelyre merőlegesen kell megírni.
+
+(2) A művelési ágak jelzését minden esetben az alrészlet betűjele mellett, ha a földrészlet egésze egy művelési ágba tartozik, a helyrajzi szám alatt kell elhelyezni.

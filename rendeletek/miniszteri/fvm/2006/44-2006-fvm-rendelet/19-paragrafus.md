@@ -1,0 +1,1 @@
+## 18. § Az egyesített közigazgatási egységek földrészleteit folyamatosan kell helyrajziszámozni. Az egyesítésre kerülő közigazgatási egységek közül a több földrészlettel rendelkező egységet kell növekvő közigazgatási egységként kezelni, ahol a helyrajziszámozást változatlanul kell hagyni. A többi földrészletet a 17. § (2) bekezdés szerint kell át-helyrajziszámozni.

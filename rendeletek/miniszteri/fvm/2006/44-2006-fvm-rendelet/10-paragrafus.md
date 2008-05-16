@@ -1,0 +1,3 @@
+10. § (1) A helyrajzi számot lehetőleg a földrészlet ábrájának közepébe, az északi irányra merőlegesen, keskeny földrészletbe pedig a mértékadó hossztengellyel párhuzamos elforgatással, dőlt számokkal kell beírni oly módon, hogy a helyrajzi szám könnyen olvasható legyen. Amennyiben a helyrajzi szám a földrészlet geometriai alakjába nem helyezhető el, a helyrajzi számot ún. zászlózással is fel lehet tüntetni.
+
+(2) A közigazgatási egység áttekintő vázlatán a belterületben és a különleges külterületben fel kell tüntetni a fekvés nullás számát, alatta zárójelben a földrészletek helyrajzi számát tól-ig. A külterületen sűrűn egymás mellett lévő földrészletek helyrajzi számát ugyancsak tól-ig kell feltüntetni.
