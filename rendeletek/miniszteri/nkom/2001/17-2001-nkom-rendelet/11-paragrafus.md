@@ -1,0 +1,3 @@
+11. § (1) E rendelet az Európai Unióhoz történő csatlakozásról szóló nemzetközi szerződést kihirdető törvény hatálybalépése napjától nem alkalmazandó a kulturális javak kiviteléről szóló 3911/92/EGK rendelet mellékletében meghatározott javaknak az Európai Unió vámterületén kívülre történő kivitele esetén.
+
+(2) Az Európai Unióhoz történő csatlakozásról szóló nemzetközi szerződést kihirdető törvény hatálybalépése napjától a kulturális javak kiviteléről szóló 3911/92/EGK rendelet és a végrehajtásáról rendelkező 752/93/EGK rendelet szerinti eljárás a Hivatal hatáskörébe tartozik. A Hivatal a 3911/92/EGK és a 752/93/EGK rendeletek által nem szabályozott kérdésekben az államigazgatási eljárásról szóló 1957. évi IV. törvény rendelkezései alapján jár el.
