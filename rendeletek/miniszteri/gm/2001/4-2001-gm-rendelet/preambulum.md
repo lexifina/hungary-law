@@ -1,0 +1,1 @@
+A bányászatról szóló 1993. évi XLVIII. törvény 34. §-ának (2) bekezdésében foglalt felhatalmazás alapján – figyelemmel a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 17. §-ának (1) bekezdésében foglaltakra – az egészségügyi miniszterrel egyetértésben a következőket rendelem el:
