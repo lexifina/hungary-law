@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény (a továbbiakban: Kvt.) 13. §-ának (5) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendeljük el:

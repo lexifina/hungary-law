@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya a Turisztikai Célelőirányzatnak (Kvt. XVII. Területfejlesztés fejezet, 5. cím, 1. alcím, 5. jogcímcsoport) a Kvt. 13. § (5) bekezdése szerint – az ifjúsági, családügyi, szociális és esélyegyenlőségi miniszter, valamint a regionális fejlesztésért és felzárkóztatásért felelős tárca nélküli miniszter megállapodása alapján – az Ifjúsági, Családügyi, Szociális és Esélyegyenlőségi Minisztériumhoz az ifjúsági turizmus céljára (a továbbiakban: ICSSZEM) átcsoportosított részére (a továbbiakban: keretösszeg) terjed ki.
+
+(2) A keretösszeg 2005. évben 222 millió forint, amely a pályázatok lebonyolításával kapcsolatos költségek fedezetét is tartalmazza.
