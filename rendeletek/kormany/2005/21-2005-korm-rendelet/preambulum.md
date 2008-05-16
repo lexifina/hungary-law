@@ -1,0 +1,1 @@
+A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 18. §-ának (6) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
