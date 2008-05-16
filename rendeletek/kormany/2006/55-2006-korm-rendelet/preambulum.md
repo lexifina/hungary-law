@@ -1,0 +1,1 @@
+A Kormány a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 62. §-ának (7) bekezdésében foglaltak alapján – a mezőgazdasági szövetkezeti, szakszövetkezeti járadékban részesülők élethelyzetének javítása érdekében – a következőket rendeli el:
