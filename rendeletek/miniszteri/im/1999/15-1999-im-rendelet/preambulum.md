@@ -1,0 +1,1 @@
+Az igazságügy-miniszter feladat- és hatásköréről szóló 157/1998. (IX. 30.) Korm. rendelet 4. §-a (1) bekezdésének a) és b) pontjában, valamint a bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. §-ának a)–f) pontjában kapott felhatalmazás alapján a következőket rendelem el:
