@@ -1,0 +1,1 @@
+## 27. § A beosztás bármely okból történő változtatása esetén újból meg kell vizsgálni a ht. állomány tagjának az új beosztásra való alkalmasságát, és csak ennek alapján rendelhető el a szolgálati viszony módosítása.

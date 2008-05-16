@@ -1,0 +1,1 @@
+## 40. § A szolgálati viszony megszüntetésére irányuló javaslathoz – ha ezt fegyelmi okból vagy bírói ítélet alapján kezdeményezik – csatolni kell a fegyelmi eljárás során készült irat (jegyzőkönyv), illetve a bírói ítélet egy példányát is.
