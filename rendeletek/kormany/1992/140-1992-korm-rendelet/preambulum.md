@@ -1,0 +1,1 @@
+(A Magyar Köztársaság csatlakozási okiratának letétbe helyezése Strasbourgban, 1989. november 16. napján megtörtént. Az Egyezmény és a Jegyzőkönyv a Magyar Köztársaság tekintetében 1990. február 16. napján hatályba lépett.)
