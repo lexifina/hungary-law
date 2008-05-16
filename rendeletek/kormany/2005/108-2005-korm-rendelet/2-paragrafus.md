@@ -1,0 +1,1 @@
+## 1. § A Kormány az Európai Bizottság és a Magyar Köztársaság Kormánya között létrejött, a 2000. évi ISPA közlekedési projektek pénzügyi megállapodásainak levélváltás útján létrejött módosításait e rendelettel kihirdeti.
