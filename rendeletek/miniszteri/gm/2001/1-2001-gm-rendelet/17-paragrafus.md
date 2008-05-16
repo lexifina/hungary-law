@@ -1,0 +1,1 @@
+## A TÁMOGATÁSOK KÜLÖNÖS SZABÁLYAI
