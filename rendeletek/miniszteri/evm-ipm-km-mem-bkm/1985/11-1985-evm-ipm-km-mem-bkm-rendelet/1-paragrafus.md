@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya a lakóépületeket, a pihenés célját szolgáló épületeket, személygépkocsi-tárolókat, igazgatási és irodaépületeket, szociális, egészségvédelmi, művelődési és oktatási épületeket, valamint ellátó és szolgáltató épületeket alkotó helyszínen készített vagy előregyártott szerkezetekre és berendezésekre (a továbbiakban: épületszerkezet) és az azok létrehozásánál felhasznált egyes termékekre és anyagokra (a továbbiakban: termék) terjed ki.
+
+(2) A rendelet hatálya nem terjed ki az ideiglenes jellegű épületeket alkotó, valamint az építési kísérletezési szerződés alapján kivitelezett épületeket alkotó – kísérlet tárgyát képező – épületszerkezetekre és termékekre.
