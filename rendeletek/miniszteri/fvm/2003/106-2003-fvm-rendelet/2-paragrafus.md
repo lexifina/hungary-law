@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya az Országos Mezőgazdasági Minősítő Intézet (a továbbiakban: eljáró hatóság) által az új növényfajtákat bejelentő, képviselő természetes és jogi személyek, jogi személyiség nélküli gazdasági társaságok (a továbbiakban együtt: ügyfél) részére végzett vizsgálatokra és eljárásokra terjed ki.
