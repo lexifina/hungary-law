@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében, továbbá a Magyar Köztársaság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény 84. §-ának c) pontjában kapott felhatalmazás alapján a következőt rendeli el:
