@@ -1,0 +1,1 @@
+Az egészségügyről szóló 1997. évi CLIV. törvény 247. §-a (1) bekezdésének d) pontjában, 247. §-a (2) bekezdésének f), h), i) és k) pontjaiban, valamint a 4. § tekintetében az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
