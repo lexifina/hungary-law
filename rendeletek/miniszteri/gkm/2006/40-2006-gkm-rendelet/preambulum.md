@@ -1,0 +1,1 @@
+A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 88. §-a (2) bekezdésének 2. pontjában kapott felhatalmazás alapján – figyelemmel a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvényben (a továbbiakban: Kbtv.) foglaltakra is – a következőket rendelem el:
