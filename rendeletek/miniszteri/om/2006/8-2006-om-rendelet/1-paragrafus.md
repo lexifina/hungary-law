@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya kiterjed az Szt. 2. §-ában meghatározott iskolai rendszerű és iskolarendszeren kívüli szakképzést folytató jogi személyekre, költségvetési szervként vagy jogi személy részeként létrehozott és a térségi integrált szakképző központ (a továbbiakban: TISZK) keretében működő központi képzőhelyre (a továbbiakban: központi képzőhely), jogi személyiséggel nem rendelkező gazdasági társaságokra, illetve az egyéni vállalkozókra (a továbbiakban együtt: szakképzést folytató intézmény).
+
+(2) Iskolai rendszerű szakképzés a tanulói, illetve hallgatói jogviszony alapján folytatott szakképzés. E jogviszonyok hiányában az iskolarendszeren kívüli szakképzésre vonatkozó jogszabályokat kell alkalmazni.

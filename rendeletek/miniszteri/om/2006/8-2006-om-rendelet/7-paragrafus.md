@@ -1,0 +1,1 @@
+## 6. § Az OKJ-ben meghatározott szakképesítésre történő felkészítés akkor szervezhető, ha a szakmai tantárgy, tananyagegység (modul) központi programjában (tantervében) foglaltak végrehajtása biztosított, illetőleg a képzés során fejlesztéssel biztosítható.

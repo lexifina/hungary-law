@@ -1,0 +1,3 @@
+4. § (1) Az iskolai rendszerű szakképzésben oktatóként csak olyan személy vehet részt, aki a Kt.-ben, felsőoktatási intézményben folyó felsőfokú szakképzés tekintetében az Ftv.-ben, valamint az Szt.-ben előírt iskolai végzettséggel, szakmai képesítéssel és szakmai gyakorlattal rendelkezik.
+
+(2) Az iskolarendszeren kívüli szakképzésben oktatóként csak olyan személy foglalkoztatható, aki az akkreditációs eljárás és követelményrendszer részletes szabályairól szóló 24/2004. (VI. 22.) FMM rendelet 1. számú mellékletében meghatározott iskolai végzettséggel, szakmai képesítéssel és szakmai gyakorlattal rendelkezik.

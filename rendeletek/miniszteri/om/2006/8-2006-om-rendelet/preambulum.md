@@ -1,0 +1,1 @@
+A szakképzésről szóló 1993. évi LXXVI. törvény (a továbbiakban: Szt.) 4. §-a (2) bekezdésének e) pontjában foglalt felhatalmazás, valamint 2. §-ának (5) bekezdésében foglaltak figyelembevétele alapján – a szakképzés egészére kiterjedően a szakképesítésért felelős miniszterrel egyetértésben – az alábbiakat rendelem el:
