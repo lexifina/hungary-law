@@ -1,0 +1,1 @@
+Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 78. § (1) bekezdésében foglalt felhatalmazás alapján a Kormány az önkéntes kölcsönös egészség- és önsegélyező pénztárak egyes gazdálkodási szabályairól a következőket rendeli el:
