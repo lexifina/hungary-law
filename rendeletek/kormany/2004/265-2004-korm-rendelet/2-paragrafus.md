@@ -1,0 +1,1 @@
+## 1. § A Kormány a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodásának (a továbbiakban: SzMGSz) a Vasutak Együttműködési Szervezete (OSzZsD) Főbizottsága által 2002. december 18-án elfogadott módosításai és kiegészítései szövegét e rendelettel kihirdeti.
