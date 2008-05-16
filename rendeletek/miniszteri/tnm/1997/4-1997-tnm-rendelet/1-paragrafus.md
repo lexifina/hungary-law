@@ -1,0 +1,1 @@
+## A RENDELET HATÁLYA

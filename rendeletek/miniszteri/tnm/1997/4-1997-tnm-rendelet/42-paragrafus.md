@@ -1,0 +1,3 @@
+## 41. §[^28] Az előleg iránti kérelmet a szolgálati út betartásával a Hivatal gazdasági szervéhez kell benyújtani, amely a beérkezett igénylőlapokat nyilvántartásba veszi, és előkészíti a Szociális Bizottság ülésére. A Szociális Bizottság a rendelkezésre álló előlegkeretnek és a beérkezett kérelmek számának, összetételének figyelembevételével állítja össze az előleg visszafizetésének ütemezését is tartalmazó javaslatát, amelyet az ülést követő öt napon belül döntés céljából a főigazgatónak terjeszt fel.
+
+[^28]: A 41. § első mondata az 1/2006. (III. 28.) MeHVM rendelet 9. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést 2006. január 1-jétől kell alkalmazni.
