@@ -1,0 +1,1 @@
+A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 13/A. §-ának (4) bekezdésében és 20. §-ának (2) bekezdésében foglalt felhatalmazások alapján – a Munkaerőpiaci Alap Irányító Testülete véleményének meghallgatásával – a következőket rendelem el:
