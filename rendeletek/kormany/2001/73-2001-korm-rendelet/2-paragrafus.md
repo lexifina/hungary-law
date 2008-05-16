@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Ciprusi Köztársaság Kormánya között a terrorizmus, tiltott kábítószer-kereskedelem és szervezett bűnözés elleni küzdelemben való együttműködésről szóló, Budapesten, 1996. június 13-án aláírt Megállapodást e rendelettel kihirdeti.
