@@ -1,0 +1,5 @@
+## 14. § A közszolgáltatási szerződés tartalmazza azokat a feltételeket, amelyek mellett a közszolgáltató a közszolgáltatás teljesítésére közreműködőt vagy teljesítési segédet vehet igénybe, figyelemmel a Kbt. 304. § (2) bekezdésében foglaltakra is. A közszolgáltató közreműködőért vagy teljesítési segédért való felelőssége a közszolgáltatási szerződésben nem korlátozható.
+
+15. § (1) A felek csak akkor módosíthatják a közszolgáltatási szerződésnek a felhívás, a dokumentáció feltételei, illetőleg az ajánlat tartalma alapján meghatározott részét, ha a szerződéskötést követően – a szerződéskötéskor előre nem látható ok következtében – beállott körülmény miatt a szerződés valamelyik fél lényeges vagy jogos érdekét sérti.
+
+(2) Ha a közszolgáltatási szerződés megkötését követően alkotott jogszabály a közszolgáltatási szerződés tartalmi elemeit úgy változtatja meg, hogy az valamelyik szerződő fél lényeges és jogos érdekeit sérti, a szerződő felek egybehangzó akarattal a szerződést módosíthatják.
