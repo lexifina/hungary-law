@@ -1,0 +1,1 @@
+Az állategészségügyről szóló 1995. évi XCI. törvény 45. §-ának 11. pontjában, valamint az állattenyésztésről szóló 1993. évi CXIV. törvény 49. § (1) bekezdése a) pontjának 13. alpontjában kapott felhatalmazás alapján a következőket rendelem el:
