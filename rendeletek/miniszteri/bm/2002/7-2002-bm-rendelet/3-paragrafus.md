@@ -1,0 +1,3 @@
+3. § (1) A közigazgatási szerv által számítógéppel vezetett alapnyilvántartási rendszer adattartalmának teljes egészében meg kell felelnie az Adatlap tartalmi követelményeinek, továbbá az így kezelt adatok feldolgozásával kinyomtatott iratnak az R. 12. § (1) és (2) bekezdéseiben foglalt esetekben azonosnak kell lennie az Adatlap megfelelő oldalával.
+
+(2) Ha a közigazgatási szerv a központi közszolgálati nyilvántartás részére az adatszolgáltatást mágneslemezen vagy távadatátviteli eszközön keresztül továbbítja, azt az ÜSZ 2. függelékében megadott állományformátum alkalmazásával kell teljesítenie.
