@@ -1,0 +1,1 @@
+A Kormány a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 153. § (2) bekezdésében, valamint a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 80. § (1) bekezdés e) pontjában kapott felhatalmazás alapján a következőket rendeli el:
