@@ -1,0 +1,1 @@
+Az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény 32. § (1) bekezdésének a) és c) pontjában kapott felhatalmazás alapján – figyelemmel az 1080/2006. (VIII. 4.) Korm. határozatra – a következőket rendelem el:
