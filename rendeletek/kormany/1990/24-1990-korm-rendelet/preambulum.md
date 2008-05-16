@@ -1,0 +1,1 @@
+Az állami vállalatokról szóló, többszörösen módosított 1977. évi VI. törvény (a továbbiakban: Vt.) 36. §-a alapján — az állam alapítói jogainak következetes érvényesítése és az állami vagyon védelme érdekében — a Kormány a következőket rendeli.
