@@ -1,0 +1,3 @@
+## 13. §[^16] A titkos információgyűjtéssel összefüggő tevékenység végzésében, valamint a 2. § c) és d) pontjaiban, illetve az Eht. 92. §-ának (5) bekezdésében foglalt rendszer, berendezés telepítésében, üzemeltetésében, rendszerfelügyeletében, javításában, karbantartásában az a személy vehet részt, aki az Nbtv.-ben meghatározott „C” típusú nemzetbiztonsági ellenőrzésen megfelelt és rendelkezik az elektronikus hírközlési szolgáltató vezető tisztségviselője által az NBSZ egyetértésével kiadott megbízással. A megbízást írásba kell foglalni.
+
+[^16]: A 13. § a 38/2008. (II. 23.) Korm. rendelet 6. §-ával megállapított szöveg.

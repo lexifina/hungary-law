@@ -1,0 +1,1 @@
+## 12. § Az elektronikus hírközlési szolgáltató alkalmazottai a titkos információgyűjtő tevékenység végzésébe kizárólag abban az esetben vonhatók be, ha a titkos információgyűjtés csak műszaki eszközökkel vagy egyéb műszaki jellegű megoldással nem valósítható meg.

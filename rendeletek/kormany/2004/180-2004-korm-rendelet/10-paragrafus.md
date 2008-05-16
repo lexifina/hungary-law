@@ -1,0 +1,1 @@
+## 9. § A titkos információgyűjtésre felhatalmazott szervezetek az elektronikus hírközlési szolgáltató számára csak azokat az adatokat továbbíthatják, amelyek a titkos információgyűjtés végrehajtása érdekében az elektronikus hírközlési szolgáltatóra háruló kötelezettségek teljesítéséhez elengedhetetlenül szükségesek.

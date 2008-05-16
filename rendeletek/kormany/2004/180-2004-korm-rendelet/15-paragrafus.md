@@ -1,0 +1,1 @@
+## 14. § Az elektronikus hírközlési szolgáltató a titkos információgyűjtés végrehajtásába bevont szervezeti egységei, alkalmazottai részére olyan munkakört és jogosultságokat köteles biztosítani, melyek lehetővé teszik e tevékenység titkos, – a titkos információgyűjtésre felhatalmazott szervezet törvényes igényeinek megfelelő – késedelem nélküli ellátását.
