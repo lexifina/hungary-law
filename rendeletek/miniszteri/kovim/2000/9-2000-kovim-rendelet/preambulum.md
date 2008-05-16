@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében foglalt felhatalmazás alapján, valamint a közlekedési és vízügyi miniszter feladat- és hatásköréről szóló 103/2000. (VI. 28.) Korm. rendelet 2. §-ának (3) bekezdésében foglaltakra figyelemmel – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
