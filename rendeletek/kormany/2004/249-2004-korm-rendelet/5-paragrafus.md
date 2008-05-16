@@ -1,0 +1,3 @@
+5. § (1) A vállalkozó a dolgot kijavításra elismervény ellenében köteles átvenni. Az elismervényen fel kell tüntetni a fogyasztó nevét és címét, a dolog azonosításához szükséges adatokat, a dolog átvételének idejét és azt az időpontot, amikor a fogyasztó a kijavított dolgot átveheti.
+
+(2) Amennyiben a hibás teljesítés folytán a kijavítandó dolog elszállítása vagy visszaszállítása szükséges, erről – a melléklet 4. pontjában felsorolt járművek, továbbá a 10 kg-nál kisebb tömegű és tömegközlekedési járművön szállítható dolgok kivételével – a vállalkozó köteles gondoskodni. Amennyiben az el-, illetve visszaszállítást a vállalkozó elmulasztja, azt a vállalkozó költségére a fogyasztó is elvégezheti vagy elvégeztetheti.
