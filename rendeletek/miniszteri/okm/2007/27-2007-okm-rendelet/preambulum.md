@@ -1,0 +1,1 @@
+Az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. §-ának d) pontjában meghatározott feladatkörömben eljárva, a Balassi Intézet létrehozásáról szóló 309/2006. (XII. 23.) Korm. rendelet 7. § (4) bekezdésének b) pontjában kapott felhatalmazás alapján a következőket rendelem el:
