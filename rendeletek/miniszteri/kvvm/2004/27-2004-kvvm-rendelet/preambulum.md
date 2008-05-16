@@ -1,0 +1,1 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 110. § (8) bekezdés m) pontjában kapott felhatalmazás alapján – a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet (a továbbiakban: Kr.) 7. §-ával és 2. számú mellékletével összhangban – a következőket rendelem el:
