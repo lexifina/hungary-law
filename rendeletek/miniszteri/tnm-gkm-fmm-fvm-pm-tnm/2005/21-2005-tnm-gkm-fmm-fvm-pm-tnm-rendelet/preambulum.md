@@ -1,0 +1,1 @@
+A strukturális alapok és a Kohéziós Alap felhasználásának általános eljárási szabályairól szóló 14/2004. (VIII. 13.) TNM–GKM–FMM–FVM–PM együttes rendeletet (a továbbiakban: R.) a következők szerint módosítjuk:
