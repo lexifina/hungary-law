@@ -1,0 +1,1 @@
+A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban: Btv.) 57. §-ának (2) bekezdésében kapott felhatalmazás alapján az 52/2001. (VIII. 2.) FVM–PM együttes rendeletet (a továbbiakban: R.) a következők szerint módosítjuk:
