@@ -1,0 +1,1 @@
+Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 38. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján a következőket rendelem el:
