@@ -1,0 +1,1 @@
+Az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: At.) 68. §-a (1) bekezdésének b) pontjában az Országos Atomenergia Hivatal (OAH) felügyeletét ellátó miniszternek adott felhatalmazás alapján – a törvényben érintett miniszterekkel egyetértésben – az alábbiak szerint rendelkezem:
