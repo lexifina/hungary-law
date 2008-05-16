@@ -1,0 +1,1 @@
+Az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 24. § (8) bekezdésében kapott felhatalmazás alapján, az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet VIII. fejezetében foglalt rendelkezésekkel összhangban – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
