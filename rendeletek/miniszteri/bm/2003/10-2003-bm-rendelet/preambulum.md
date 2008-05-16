@@ -1,0 +1,1 @@
+A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 87. §-ának (1) bekezdésében foglalt felhatalmazás alapján – a hivatásos állomány tagjainak, a köztisztviselők, közalkalmazottak lakhatásának elősegítésére, az érintett érdekképviseleti szervekkel egyetértésben – a következőket rendelem el:
