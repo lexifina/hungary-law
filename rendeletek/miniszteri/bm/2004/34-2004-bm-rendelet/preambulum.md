@@ -1,0 +1,1 @@
+A közúti közlekedésről szóló 1988. évi I. törvény 48. §-a (3) bekezdésének d) pontjában kapott felhatalmazás alapján – a gazdasági és közlekedési miniszterrel egyetértésben – a következőket rendelem el:
