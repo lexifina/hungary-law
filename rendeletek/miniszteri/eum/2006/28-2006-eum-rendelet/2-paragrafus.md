@@ -1,0 +1,9 @@
+## 1. § A Magyar Gyógyszerkönyv VIII. kiadása (Pharmacopoeia Hungarica editio VIII. Ph.Hg.VIII.) (a továbbiakban: VIII. Magyar Gyógyszerkönyv) e rendelet hatálybalépésének napjától alkalmazandó.
+
+2. § (1) A VIII. Magyar Gyógyszerkönyv a gyógyszerkészítés, a gyógyszerminőség, a gyógyszerellenőrzés és a gyógyszerminősítés általános szakmai szabályait, valamint az egyes gyógyszerek minőségét és összetételét tartalmazó hivatalos kiadvány.
+
+(2) A VIII. Magyar Gyógyszerkönyvet az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) – az egészségügyi miniszter által kinevezett szerkesztőbizottság közreműködésével – szerkeszti.
+
+(3) Az OGYI a (2) bekezdésben foglalt feladata keretében a VIII. Magyar Gyógyszerkönyv általános fejezeteit, általános cikkelyeit és egyedi cikkelyeit módosíthatja, azokat törölheti, és a VIII. Magyar Gyógyszerkönyvet további általános fejezetekkel, általános cikkelyekkel és egyedi cikkelyekkel, valamint egyéb minőségi előírásokkal kiegészítheti az Európai Gyógyszerkönyv változásaira is figyelemmel. Ezen változásokról az OGYI közleményt tesz közzé a honlapján, valamint az Egészségügyi Minisztérium hivatalos lapjában az Európa Tanács Közegészségügyi Bizottsága által rendszeres időközönként megállapított határidőkkel összhangban.[^1]
+
+[^1]: Lásd az Egészségügyi Közlöny 2006. évi 20. számában, 2007. évi 3., 12., 16., 18. számában, 2008. évi 5., 8., 15. számában, 2009. évi 1., 7. számában közzétett OGYI közleményt, a Hivatalos Értesítő 2009. évi 41. számában közzétett OGYI-Ph. Hg. VIII. 6/2009. számú közleményt, a Hivatalos Értesítő 2009. évi 61. számában közzétett OGYI-Ph. Hg. VIII. 7/2009. számú közleményt, a Hivatalos Értesítő 2010. évi 3. számában közzétett OGYI-Ph. Hg. VIII. 2/2010. számú közleményt, a Hivatalos Értesítő 2010. évi 25. számában közzétett OGYI-Ph. Hg. VIII. 4/2010. számú közleményt, a Hivatalos Értesítő 2010. évi 60. számában közzétett OGYI-Ph. Hg. VIII. 6/2010. számú közleményt.
