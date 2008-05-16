@@ -1,0 +1,11 @@
+8. § (1)[^12] A Szakértői Testület a feltett kérdések és benyújtott iratok alapján alakítja ki a szakértői véleményt, a tények megállapítására nem végez külön bizonyítást, nem tart helyszíni szemlét és nem idézhető. Szükség esetén azonban további adatok szolgáltatását kérheti a megkereső bíróságtól vagy hatóságtól, illetve a megbízótól.
+
+(2) Az eljáró tanács zárt ülésen alakítja ki a szakértői véleményt. Az ülésről jegyzőkönyv készül, amelyet a jegyzőkönyvvezető és az eljáró tanács elnöke ír alá.
+
+(3)[^13] Az eljáró tanács elnökének felterjesztésére a Szakértő Testület írásba foglalt szakértői véleményét és a rendelkezésre bocsátott iratokat a Szakértő Testület elnöke megküldi a megkereső bíróságnak vagy hatóságnak, illetve a megbízónak.
+
+(4)[^14] Az eljáró tanács tagjai független szakértőként járnak el. A szakértői vélemény tartalmát illetően nem kérhetnek és nem fogadhatnak el utasításokat sem a Szakértő Testület elnökétől, elnökségétől, sem más személytől. Ha azonban a Szakértő Testület elnöke megállapítja, hogy az eljáró tanács nem válaszolt a megkereső bíróság vagy más hatóság, illetve a megbízó által feltett bármely olyan kérdésre, amelyre vonatkozóan a szakértői vélemény megadása a Szakértő Testület hatáskörébe tartozik, a szakértői vélemény kiegészítésére kérheti az eljáró tanácsot.
+
+[^12]: A 8. § (1) bekezdésének első mondata a 204/2005. (IX. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek az Iparjogvédelmi Szakértői Testülethez.
+[^13]: A 8. § (3) bekezdése a 204/2005. (IX. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek az Iparjogvédelmi Szakértői Testülethez.
+[^14]: A 8. § (4) bekezdését a 204/2005. (IX. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek az Iparjogvédelmi Szakértői Testülethez.

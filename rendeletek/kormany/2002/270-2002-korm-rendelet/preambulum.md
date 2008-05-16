@@ -1,0 +1,1 @@
+A Kormány a találmányok szabadalmi oltalmáról szóló, többször módosított 1995. évi XXXIII. törvény (a továbbiakban: Szt.) 118. §-ának (1) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
