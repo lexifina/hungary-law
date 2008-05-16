@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. §-a (1) bekezdésének b) pontjában megállapított feladatkörében eljárva, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdésének a), e) és g) pontjában foglalt felhatalmazás alapján az alábbiakat rendeli el:
