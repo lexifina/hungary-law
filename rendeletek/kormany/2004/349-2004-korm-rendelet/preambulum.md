@@ -1,0 +1,1 @@
+A számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 151. §-ának (4) bekezdésében, valamint a 178. §-a (1) bekezdésének d) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
