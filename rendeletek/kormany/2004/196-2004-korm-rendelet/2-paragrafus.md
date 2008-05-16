@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Románia Kormánya között Budapesten, a 2003. évi szeptember hó 15. napján aláírt, a határvizek védelme és fenntartható hasznosítása céljából folytatandó együttműködésről szóló Egyezményt e rendelettel kihirdeti.
