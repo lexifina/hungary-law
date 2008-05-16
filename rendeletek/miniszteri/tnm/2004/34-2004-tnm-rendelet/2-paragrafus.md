@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya a regionális fejlesztésért és felzárkóztatásért felelős tárca nélküli miniszter (a továbbiakban: miniszter) hivatalára és a miniszter irányítása, illetve felügyelete alá tartozó szervekre terjed ki.

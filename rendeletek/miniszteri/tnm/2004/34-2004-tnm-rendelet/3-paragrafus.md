@@ -1,0 +1,1 @@
+## 2. § Az 1. §-ban meghatározott szerveknél a fontos és bizalmas munkaköröket, továbbá a biztonsági ellenőrzéshez kitöltendő kérdőív típusát – az Nbtv. 68. §-ának (4) bekezdése e) pontján, valamint 2. számú mellékletének 1–17. pontjain túlmenően, a 2. számú melléklet 18. és 19. pontjaiban foglaltak alapján – e rendelet melléklete határozza meg.
