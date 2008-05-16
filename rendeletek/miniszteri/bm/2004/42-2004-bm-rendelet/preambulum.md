@@ -1,0 +1,1 @@
+A területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény 27. §-a (2) bekezdésének d) pontjában és az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. §-a (2) bekezdésének m) pontjában kapott felhatalmazás alapján a következőket rendelem el:
