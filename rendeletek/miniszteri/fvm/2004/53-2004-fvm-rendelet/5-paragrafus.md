@@ -1,0 +1,5 @@
+5. § (1) Az előírt állategészségügyi ellenőrzés elvégzése után a hatósági állatorvos a megvizsgált szállítmányhoz kiállítja a harmadik országokból származó termékeknek a közösségi határállomásokon való állategészségügyi ellenőrzésére vonatkozó eljárások megállapításáról szóló, a Bizottság 136/2004/EK rendeletének III. melléklete szerinti bizonyítványt, amely igazolja az elvégzett ellenőrzések eredményeit.
+
+(2) Az (1) bekezdés szerinti bizonyítványnak utalnia kell a vámokiratra és a szállítmányt vámfelügyelet alatt állása során végig kísérnie kell. Harmadik országból történő behozatal esetén az állati eredetű termékek Európai Unión belüli kereskedelmének állategészségügyi ellenőrzéséről szóló miniszteri rendelet szerinti első rendeltetési létesítményig, vagy az egyes élő állatok és termékek Európai Unión belüli kereskedelmével kapcsolatos állategészségügyi és állattenyésztési ellenőrzésekről szóló miniszteri rendelet szerinti első rendeltetési központig vagy szervezetig kell kísérje a szállítmányt a bizonyítvány.
+
+(3) Ha a szállítmányt részegységekre osztják, az (1) és (2) bekezdésben foglaltakat valamennyi részegység tekintetében alkalmazni kell.
