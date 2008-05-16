@@ -1,0 +1,1 @@
+## 3. § Ha a felvilágosítást bíróság, ügyészség, nem peres eljárást lefolytató közjegyző vagy közigazgatási szerv törvényben meghatározott feladatainak ellátásához kéri, a felvilágosítás megadása ingyenes.
