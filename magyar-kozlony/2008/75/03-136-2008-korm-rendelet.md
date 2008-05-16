@@ -1,0 +1,577 @@
+# A Kormány 136/2008. (V. 16.) Korm. rendelete
+
+Magyar Közlöny 2008. évi 75. szám, 2008. május 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f7807d52b99cd6ac7936aa894e89832e6f5c5cf5/dokumentumok/933b877c6279534f13efb8c07f30c5bed5847881/letoltes)
+
+---
+
+A Kormány
+136/2008. (V. 16.) Korm.
+rendelete
+az országhatáron átterjedő környezeti hatások
+vizsgálatáról szóló, Espooban, 1991. február 26-án
+elfogadott ENSZ EGB egyezmény Szófiában,
+2001. február 17-én elfogadott első módosításának,
+valamint Cavtatban, 2004. június 4-én elfogadott
+második módosításának kihirdetéséről
+1. §
+A Kormány e rendelettel felhatalmazást ad az országha-
+táron átterjedő környezeti hatások vizsgálatáról szóló,
+Espooban, 1991. február 26. napján aláírt egyezménynek
+(a továbbiakban: Egyezmény) a részes felek második talál-
+kozóján Szófiában, 2001. február 17. napján a II/14. hatá-
+rozatában elfogadott első módosítása (a továbbiakban:
+első Egyezménymódosítás), valamint az Egyezménynek a
+részes felek harmadik találkozóján Cavtatban, 2004. jú-
+nius 4-én a III/7. határozatában elfogadott második módo-
+sítása (a továbbiakban: második Egyezménymódosítás)
+kötelező hatályának elismerésére.
+2. §
+A Kormány az első Egyezménymódosítást e rendelettel
+kihirdeti.
+
+3. §
+Az első Egyezménymódosítás hiteles angol nyelvű szö-
+vege és annak hivatalos magyar nyelvű fordítása a
+következő:
+DECISION II/14
+AMENDMENT TO THE ESPOO CONVENTION
+The Meeting,
+Wishing to modify the Espoo Convention with a view to
+clarifying that the public that may participate in
+procedures under the Convention includes civil society
+and, in particular, nongovernmental organizations,
+Recalling paragraph 13 of the Oslo Declaration of the
+Ministers of the Environment and the European
+Community Commissioner for the Environment
+assembled at Oslo on the occasion of the first meeting of
+the Parties to the Espoo Convention,
+Wishing to allow States situated outside the UN/ECE
+region to become Parties to the Convention,
+Adopts the following amendments to the Convention:
+(a) At the end of Article 1 (x), after persons insert
+and, in accordance with national legislation or practice,
+their associations, organizations or groups
+(b) In Article 17, after paragraph 2, insert a new
+paragraph reading.
+„3. Any other State, not referred to in paragraph 2 of
+this Article, that is a Member of the United Nations may
+accede to the Convention upon approval by the Meeting of
+the Parties. The Meeting of the Parties shall not consider or
+approve any request for accession by such a State until this
+paragraph has entered into force for all the States and
+organizations that were Parties to the Convention on 27
+February 2001.”
+and renumber the remaining paragraphs accordingly.
+(c) At the end of Article 17, insert a new paragraph
+reading
+„7. Any State or organization that ratifies, accepts or
+approves this Convention shall be deemed simultaneously
+to ratify, accept or approve the amendment to the
+Convention set out in decision II/14 taken at the second
+meeting of the Parties.”
+II/14. HATÁROZAT
+AZ ESPOOI EGYEZMÉNY MÓDOSÍTÁSA
+A felek találkozója
+kifejezve azon kívánságát, hogy az Espooi egyezményt
+módosítsa annak figyelembevételével, hogy a nyilvános-
+ság, amely részt vehet az Egyezmény alá tartozó eljárások-
+ban, magába foglalja az egész civil társadalmat, különös
+tekintettel a nem-kormányzati szervezetekre,
+felidézve az Európai Környezetvédelmi Miniszterek és
+az Európai Közösség Környezetvédelmi Főbiztosa által
+Oslóban, az Espooi egyezmény Részes Feleinek első talál-
+kozóján tett Osloi Nyilatkozatának 13. cikkét,
+kifejezve azon kívánságát, hogy az ENSZ EGB régióján
+kívül elhelyezkedő államok számára is lehetővé váljék,
+hogy az Egyezmény részes felévé váljanak,
+az Egyezmény következő módosításait fogadja el:
+Az 1. cikk (x) bekezdésében a szöveg a „személy” szó
+után a következővel egészül ki:
+„és a nemzeti joggal vagy gyakorlattal összhangban az
+ilyen személyek társulásai, szervezetei vagy csoportjai.”
+A 17. cikkben a 2. bekezdés után a szöveg új bekezdés-
+sel egészül ki:
+„3. A felek találkozójának jóváhagyásával csatlakozhat
+az egyezményhez a 2. bekezdésben nem említett bármely
+olyan állam is, amely tagja az Egyesült Nemzetek Szerve-
+zetének. A részes felek találkozója csak az után bírálja el
+vagy hagyja jóvá az ilyen államok csatlakozási kérelmét,
+hogy ez a bekezdés a 2001. február 27-i állapot szerint az
+egyezményben részes félnek számító valamennyi állam és
+szervezet számára hatályba lépett.”,
+a további bekezdéseket értelemszerűen újra kell szá-
+mozni.
+A 17. cikk végére új bekezdést kell illeszteni:
+„7. Amennyiben egy állam vagy szervezet ratifikálja,
+elfogadja vagy jóváhagyja ezt az egyezményt, úgy kell te-
+kinteni, hogy egyidejűleg ratifikálja, elfogadja vagy jóvá-
+hagyja annak a részes felek második találkozóján a
+II/14. sz. határozattal elfogadott módosítását is.”
+4. §
+A Kormány a második Egyezménymódosítást e rende-
+lettel kihirdeti.
+5. §
+A második Egyezménymódosítás hiteles angol nyelvű
+szövege és annak hivatalos magyar nyelvű fordítása a
+következő:
+DECISION III/7
+SECOND AMENDMENT TO THE ESPOO
+CONVENTION
+The Meeting,
+Recalling its decision II/10 on the review of the
+Convention and paragraph 19 of the Sofia Ministerial
+Declaration,
+Wishing to modify the Convention with a view to
+further strengthening its application and improving
+
+synergies with other multilateral environmental
+agreements,
+Commending the work done by the task force
+established at the second meeting of Parties, by the small
+group on amendments and by the Working Group on
+Environmental Impact Assessment itself,
+Noting the Convention on Access to Information,
+Public Participation in Decision-making and Access to
+Justice in Environmental Matters, done at Aarhus,
+Denmark, on 25 June 1998, and recalling the Protocol on
+Strategic Environmental Assessment, done at Kiev,
+Ukraine, on 21 May 2003,
+Also noting relevant European Community legal
+instruments, such as directive 85/337/EEC of 27 June
+1985 on the assessment of the effects of certain public and
+private projects on the environment, as amended by
+directives 97/11/EC and 2003/35/EC,
+Conscious that an extension of Appendix I will
+strengthen the importance of environmental impact
+assessments in the region,
+Recognizing the benefits of international cooperation as
+early as possible in the assessment of environmental
+impact,
+Encouraging the work of the Implementation
+Committee as a useful tool for the further implementation
+and application of the provisions of the Convention,
+1. Confirms that the validity of decisions taken prior to
+the entry into force of the second amendment to the
+Convention, including the adoption of protocols, the
+establishment of subsidiary bodies, the review of
+compliance and actions taken by the Implementation
+Committee, are not affected by the adoption and entry into
+force of this amendment;
+2. Also confirms that each Party shall continue to be
+eligible to participate in all activities under the
+Convention, including the preparation of protocols, the
+establishment and participation in subsidiary bodies, and
+the review of compliance, regardless of whether the
+second amendment to the Convention has entered into
+force for that Party or not;
+3. Adopts the following amendments to the
+Convention:
+(a) In Article 2, after paragraph 10, insert a new
+paragraph reading
+„11. If the Party of origin intends to carry out a
+procedure for the purposes of determining the content of
+the environmental impact assessment documentation, the
+affected Party should to the extent appropriate be given the
+opportunity to participate in this procedure.”
+(b) In Article 8, after Convention insert
+and under any of its protocols to which they are a Party
+(c) In Article 11, replace paragraph 2 (c) by a new
+subparagraph reading
+„(c) Seek, where appropriate, the services and
+cooperation of competent bodies having expertise
+pertinent to the achievement of the purposes of this
+Convention;”
+(d) At the end of Article 11, insert two new
+subparagraphs reading
+„(g) Prepare, where appropriate, protocols to this
+Convention;
+(h) Establish such subsidiary bodies as they consider
+necessary for the implementation of this Convention.”
+(e) In Article 14, paragraph 4, replace the second
+sentence by a new sentence reading
+„They shall enter into force for Parties having ratified,
+approved or accepted them on the ninetieth day after the
+receipt by the Depositary of notification of their
+ratification, approval or acceptance by at least three
+fourths of the number of Parties at the time of their
+adoption.”
+(f) After Article 14, insert a new article reading
+„Article 14 bis
+Review of compliance
+1. The Parties shall review compliance with the
+provisions of this Convention on the basis of the
+compliance procedure, as a non-adversarial and
+assistance-oriented procedure adopted by the Meeting of
+the Parties. The review shall be based on, but not limited
+to, regular reporting by the Parties. The Meeting of Parties
+shall decide on the frequency of regular reporting required
+by the Parties and the information to be included in those
+regular reports.
+2. The compliance procedure shall be available for
+application to any protocol adopted under this Convention.”
+(g) Replace Appendix I to the Convention by the
+Appendix to this decision;
+(h) In Appendix VI, after paragraph 2, insert a new
+paragraph reading
+„3. Paragraphs 1 and 2 may be applied, mutatis
+mutandis, to any protocol to the Convention.”
+Appendix
+LIST OF ACTIVITIES
+1. Crude oil refineries (excluding undertakings
+manufacturing only lubricants from crude oil) and
+installations for the gasification and liquefaction of 500
+metric tons or more of coal or bituminous shale per day.
+2. (a) Thermal power stations and other combustion
+installations with a heat output of 300 megawatts or more,
+and
+(b) Nuclear power stations and other nuclear reactors,
+including the dismantling or decommissioning of such
+power stations or reactors1 (except research installations
+for the production and conversion of fissionable and fertile
+materials, whose maximum power does not exceed
+1 kilowatt continuous thermal load).
+3. (a) Installations for the reprocessing of irradiated
+nuclear fuel;
+(b) Installations designed:
+– For the production or enrichment of nuclear fuel;
+
+– For the processing of irradiated nuclear fuel or
+high-level radioactive waste;
+– For the final disposal of irradiated nuclear fuel;
+– Solely for the final disposal of radioactive waste; or
+– Solely for the storage (planned for more than 10
+years) of irradiated nuclear fuels or radioactive waste in a
+different site than the production site.
+4. Major installations for the initial smelting of cast
+iron and steel and for the production of non-ferrous metals.
+5. Installations for the extraction of asbestos and for the
+processing and transformation of asbestos and products
+containing asbestos: for asbestos-cement products, with an
+annual production of more than 20,000 metric tons
+finished product; for friction material, with an annual
+production of more than 50 metric tons finished product;
+and for other asbestos utilization of more than 200 metric
+tons per year.
+6. Integrated chemical installations.
+7. (a) Construction of motorways, express roads2 and
+lines for long-distance railway traffic and of airports3 with
+a basic runway length of 2,100 metres or more;
+(b) Construction of a new road of four or more lanes, or
+realignment and/or widening of an existing road of two
+lanes or less so as to provide four or more lanes, where
+such new road, or realigned and/or widened section of
+road, would be 10 km or more in a continuous length.
+8. Large-diameter pipelines for the transport of oil, gas
+or chemicals.
+9. Trading ports and also inland waterways and ports
+for inland-waterway traffic which permit the passage of
+vessels of over 1,350 metric tons.
+10. (a) Waste-disposal installations for the
+incineration, chemical treatment or landfill of toxic and
+dangerous wastes;
+(b) Waste-disposal installations for the incineration or
+chemical treatment of non-hazardous waste with a
+capacity exceeding 100 metric tons per day.
+11. Large dams and reservoirs.
+12. Groundwater abstraction activities or artificial
+groundwater recharge schemes where the annual volume
+of water to be abstracted or recharged amounts to
+10 million cubic metres or more.
+13. Pulp, paper and board manufacturing of 200
+air-dried metric tons or more per day.
+14. Major quarries, mining, on-site extraction and
+processing of metal ores or coal.
+15. Offshore hydrocarbon production. Extraction of
+petroleum and natural gas for commercial purposes where
+the amount extracted exceeds 500 metric tons/day in the
+case of petroleum and 500 000 cubic metres/day in the case
+of gas.
+16. Major storage facilities for petroleum,
+petrochemical and chemical products.
+17. Deforestation of large areas.
+18. (a) Works for the transfer of water resources
+between river basins where this transfer aims at preventing
+possible shortages of water and where the amount of water
+transferred exceeds 100 million cubic metres/year; and
+(b) In all other cases, works for the transfer of water
+resources between river basins where the multi-annual
+average flow of the basin of abstraction exceeds
+2 000 million cubic metres/year and where the amount of
+water transferred exceeds 5 per cent of this flow.
+In both cases transfers of piped drinking water are
+excluded.
+19. Waste-water treatment plants with a capacity
+exceeding 150 000 population equivalent.
+20. Installations for the intensive rearing of poultry or
+pigs with more than:
+– 85 000 places for broilers;
+– 60 000 places for hens;
+– 3 000 places for production pigs (over 30 kg); or
+– 900 places for sows.
+21. Construction of overhead electrical power lines
+with a voltage of 220 kV or more and a length of more than
+15 km.
+22. Major installations for the harnessing of wind
+power for energy production (wind farms).
+1 For the purposes of this Convention, nuclear power stations and other
+nuclear reactors cease to be such an installation when all nuclear fuel and
+other radioactively contaminated elements have been removed permanently
+from the installation site.
+2 For the purposes of this Convention:
+– „Motorway” means a road specially designed and built for motor traf-
+fic, which does not serve properties bordering on it, and which:
+(a) Is provided, except at special points or temporarily, with separate car-
+riageways for the two directions of traffic, separated from each other by a
+dividing strip not intended for traffic or, exceptionally, by other means;
+(b) Does not cross at level with any road, railway or tramway track, or fo-
+otpath; and
+(c) Is specially signposted as a motorway.
+– „Express road” means a road reserved for motor traffic accessible only
+from interchanges or controlled junctions and on which, in particular, stop-
+ping and parking are prohibited on the running carriageway(s).
+3 For the purposes of this Convention, „airport” means an airport which
+complies with the definition in the 1944 Chicago Convention setting up the
+International Civil Aviation Organization (annex 14).
+III/7. HATÁROZAT
+AZ ESPOOI EGYEZMÉNY MÁSODIK MÓDOSÍTÁSA
+A felek találkozója
+felidézve II/10. sz. határozatát az Egyezmény felülvizs-
+gálatáról, valamint a Szófiai Miniszteri Nyilatkozat
+19. cikkét,
+kifejezve azon kívánságát, hogy az Egyezményt módo-
+sítsa arra tekintettel, hogy annak alkalmazását tovább erő-
+sítse és fokozza együtthatását más környezetvédelmi tár-
+gyú sokoldalú nemzetközi szerződésekkel,
+elismeréssel adózva annak a munkának, amit a Részes
+Felek második találkozóján létesített munkabizottság, a
+
+módosításra létrehozott kisebb csoport, valamint maga a
+Környezeti Hatásvizsgálati Munkacsoport végzett,
+szem előtt tartva a környezeti ügyekben az információ-
+hoz való hozzáférésről, a nyilvánosságnak a döntéshoza-
+talban történő részvételéről és az igazságszolgáltatáshoz
+való jog biztosításáról szóló, Aarhusban, 1998. június
+25-én elfogadott Egyezményt, valamint a stratégiai kör-
+nyezeti vizsgálatról szóló, Kijevben, Ukrajnában 2003.
+május 21-én elfogadott jegyzőkönyvet,
+ugyancsak szem előtt tartva az Európai Közösség jogi
+eszközeit, mint az egyes köz- és magánberuházások kör-
+nyezeti hatásainak vizsgálatairól szóló 85/337/EGK Irány-
+elvet, ahogyan azt a 97/11/EK és a 2003/35/EK Irányelvek
+módosították,
+tudatában annak, hogy az I. függelék kibővítése meg
+fogja erősíteni a környezeti hatásvizsgálatok jelentőségét
+az egész régióban,
+felismerve az abban lévő előnyöket, hogy a nemzetközi
+együttműködés a környezeti hatások vizsgálatában olyan
+korán kezdődjék, amilyen korán csak lehetséges,
+bátorítva a Megfelelési Bizottságot, mint az Egyezmény
+végrehajtásának és alkalmazásának hasznos eszközét,
+1. megerősíti, hogy az Egyezmény második módosítá-
+sának hatálybalépése előtt hozott döntések érvényességét,
+ideértve a jegyzőkönyvek elfogadását, a járulékos testüle-
+tek létrehozását, a jogkövetés felügyeletét és a Megfelelési
+Bizottság által tett lépéseket a jelen módosítás elfogadása
+és hatálybalépése nem érinti;
+2. ugyancsak megerősíti, hogy minden Részes Félnek
+továbbra is joga van részt venni az Egyezmény hatálya alá
+tartozó minden tevékenységben, ideértve jegyzőkönyvek
+előkészítését, járulékos testületek létrehozását és a munká-
+jukban való részvételt, továbbá a jogkövetés felügyeletét,
+tekintet nélkül arra, hogy az Egyezmény második módosí-
+tása az adott Fél vonatkozásában hatályba lépett-e vagy
+sem;
+3. elfogadja az Egyezmény következő módosításait:
+a) A 2. cikkben a 10. bekezdés után a szöveg új bekez-
+déssel egészül ki:
+„11. Amennyiben a kibocsátó fél a környezeti hatás-
+vizsgálati dokumentáció tartalmának meghatározásával
+kapcsolatos eljárást indít, a hatásviselő fél számára lehető-
+séget kell biztosítania arra, hogy ebben az eljárásban részt
+vegyen.”
+b) A 8. cikkben az „egyezményből fakadó kötelezettsé-
+geiket” szövegrész után a szöveg a következővel egészül ki:
+„illetve annak bármely olyan jegyzőkönyvéből fakadó
+kötelezettségeiket, amelynek részes felei”.
+c) A 11. cikkben a 2. bekezdés c) pontja helyébe a kö-
+vetkező albekezdés lép:
+„c) ha az indokolt, igénybe veszik az egyezmény céljai el-
+éréséhez kapcsolódó kérdésekben szakértelemmel rendelke-
+ző illetékes testületek szolgálatait és együttműködését.”
+d) A 11. cikk végére két új albekezdést kell illeszteni a
+következő szöveggel:
+„g) adott esetben elkészítik ezen egyezmény jegyző-
+könyveit,
+h) létrehozzák az egyezmény végrehajtásához szüksé-
+gesnek vélt kisegítő testületeket.”
+e) A 14. cikkben a 4. bekezdés második mondata helyé-
+be új mondat lép a következő szöveggel:
+„A módosítások az azokat ratifikáló, elfogadó vagy jó-
+váhagyó felek számára kilencven nappal az után lépnek
+hatályba, hogy az elfogadásukkor félnek számító felek há-
+romnegyedének a ratifikálásról, elfogadásról vagy jóváha-
+gyásról szóló értesítései megérkeztek a letéteményeshez.”
+f) Az egyezmény szövege a 14. cikket követően a kö-
+vetkező új cikkel egészül ki:
+„14a. cikk
+A megfelelés nyomon követése
+1. A felek a felek találkozója által elfogadott, barátsá-
+gos és segítő szándékkal létrehozott, a teljesítés betartásá-
+nak ellenőrzésére szolgáló eljárás alapján nyomon követik
+az egyezmény rendelkezéseinek való megfelelést. A nyo-
+mon követés alapja, de nem egyetlen eszköze a felek rend-
+szeres jelentéstétele. A felek találkozója dönt a jelentésté-
+tel megkövetelt gyakoriságáról, valamint a rendszeres
+jelentések kötelező tartalmáról.
+2. A teljesítés betartásának ellenőrzésére szolgáló eljá-
+rás az ezen egyezmény értelmében elfogadott bármely
+jegyzőkönyv esetében is alkalmazható.”
+g) Az egyezmény I. függeléke helyébe e határozat füg-
+geléke lép.
+h) A IV. függelék a 2. bekezdés után új bekezdéssel
+egészül ki:
+„3. Az 1. és a 2. bekezdés értelemszerűen alkalmazható
+az egyezmény értelmében elfogadott bármely jegyző-
+könyvre.”
+Függelék
+A TEVÉKENYSÉGEK FELSOROLÁSA
+1. Nyersolaj-finomítók (kivéve azokat az üzemeket,
+amelyek a nyersolajból kizárólag kenőanyagokat gyárta-
+nak) és a naponta 500 metrikus tonna vagy annál több sze-
+net vagy bitumenpalát gázosító vagy cseppfolyósító
+létesítmények.
+2. a) 300 megawatt vagy annál nagyobb hőteljesítmé-
+nyű hőerőművek és egyéb égetőművek, valamint
+b) atomerőművek és egyéb atomreaktorok, ideértve az
+ilyen erőművek és reaktorok1 leszerelését és üzemen kívül
+helyezését (kivéve az olyan kutatási célú létesítményeket,
+amelyek hasadóképes és szaporító anyagok termelésére és
+átalakítására szolgálnak, és amelyek maximális teljesítmé-
+nye nem haladja meg az 1 kilowatt folyamatos hőteljesít-
+ményt).
+3. a) Kiégett nukleáris üzemanyag újrafeldolgozására
+szolgáló létesítmények.
+b) A következő célokra szolgáló létesítmények:
+– nukleáris üzemanyag termelése vagy dúsítása,
+
+– kiégett nukleáris üzemanyag vagy nagyaktivitású ra-
+dioaktív hulladék feldolgozása,
+– kiégett nukleáris üzemanyag végleges ártalmatlaní-
+tása,
+– kizárólag radioaktív hulladék végleges ártalmatlaní-
+tása, vagy
+– kizárólag kiégett nukleáris üzemanyagok vagy radio-
+aktív hulladék keletkezési helyétől eltérő helyen történő
+(10 évnél hosszabb időre tervezett) tárolása.
+4. Nyersvas és acél elsődleges olvasztására és nemvas
+fémek termelésére szolgáló nagyobb létesítmények.
+5. Az azbeszt kitermelésére, valamint az azbeszt és az
+azbeszttartalmú termékek feldolgozására és átalakítására
+szolgáló létesítmények: az évente több mint 20 000 metri-
+kus tonna azbesztcement készterméket előállító művek, az
+évente több mint 50 metrikus tonna súrlódó anyag készter-
+méket előállító művek, és az azbeszt más felhasználásai
+több mint 200 metrikus tonna/évtől.
+6. Integrált vegyi üzemek.
+7. a) Autópályák, autóutak2, távolsági vasúti pályák és
+2100 m vagy azt meghaladó alaphosszúságú futópályával
+rendelkező repülőterek3 építése,
+b) Négy- vagy ennél több sávos új utak építése, vagy
+meglévő egy- vagy kétsávos utak új nyomvonalon vezeté-
+se és/vagy kiszélesítése négy- vagy több sávossá, akkor, ha
+az új vagy új nyomvonalon vezetett és/vagy kiszélesített
+útszakasz egybefüggően legalább 10 km hosszú.
+8. Nagyátmérőjű olaj-, gáz- vagy vegyianyag-szállító
+vezetékek.
+9. Olyan kereskedelmi kikötők, valamint belvízi utak
+és belvízi kikötők, amelyek alkalmasak 1 350 metrikus
+tonnánál nagyobb hordképességű hajók fogadására.
+10. a) Mérgező és veszélyes hulladékok égetésére, ké-
+miai kezelésére vagy lerakására szolgáló hulladékártal-
+matlanító létesítmények,
+b) Nem veszélyes hulladékok égetésére vagy kémiai
+kezelésére szolgáló, napi 100 metrikus tonnát meghaladó
+kapacitással rendelkező hulladékártalmatlanító létesítmé-
+nyek.
+11. Nagy gátak és víztározók.
+12. Felszín alatti vízkivételt vagy a felszín alatti vízbe
+történő mesterséges víz-visszatáplálást végző rendszerek,
+ahol a kivett vagy visszatáplált víz éves mennyisége leg-
+alább 10 millió köbméter.
+13. Papíripari rostos alapanyag-, papír- és kartongyár-
+tás napi 200 metrikus tonna légszáraz anyagtól.
+14. Nagyobb kőbányák, fémtartalmú ércek és szén na-
+gyobb mérvű bányászata, helyszíni kitermelése és
+feldolgozása.
+15. Tengeri szénhidrogén termelés. Kőolaj és földgáz
+kereskedelmi célú kitermelése, ha a kitermelt mennyiség
+meghaladja kőolaj esetében a napi 500 metrikus tonnát,
+földgáz esetében a napi 500 000 köbmétert.
+16. Kőolaj, petrolkémiai és vegyi termékek tárolására
+szolgáló nagyobb létesítmények.
+17. Erdőirtás nagy területen.
+18. a) A folyók vízgyűjtői között a vízkészletek átveze-
+tését szolgáló létesítmények, ha a vízátvezetés célja lehet-
+séges vízhiány megelőzése, és az átvezetett víz mennyisé-
+ge meghaladja a 100 millió köbmétert évente, valamint
+b) minden egyéb esetben a folyók vízgyűjtői között a
+vízkészletek átvezetését szolgáló olyan létesítmények,
+ahol a vízkivétel vízgyűjtője éves vízhozamának sokéves
+átlaga meghaladja az évi 2000 millió köbmétert, és ahol az
+átvezetett víz mennyisége meghaladja e vízhozam 5%-át.
+Mindkét esetben kivétel a vezetékes ivóvíz átvezetése.
+19. A 150 000 lakosegyenértéket meghaladó kapacitá-
+sú szennyvíztisztító üzemek.
+20. Baromfi vagy sertés intenzív tenyésztésére szolgá-
+ló létesítmények több mint:
+– 85 000 férőhellyel broilerek esetében,
+– 60 000 férőhellyel tojók esetében,
+– 3 000 férőhellyel (30 kg feletti) sertések esetében;
+vagy
+– 900 férőhellyel kocák esetében.
+21. 220 kV vagy annál nagyobb feszültségű és
+15 km-nél hosszabb villamos légvezetékek építése.
+22. Energiatermelés céljából szélenergiát hasznosító
+nagyobb létesítmények (szélerőműparkok).
+1 Ezen Egyezmény alkalmazásában nem minősülnek többé atomerőmű-
+nek és egyéb atomreaktornak az egyes létesítmények attól kezdődően, hogy
+az összes nukleáris üzemanyagot és az egyéb radioaktívan szennyezett anya-
+gokat véglegesen eltávolították a létesítmény telephelyéről.
+2 Ezen Egyezmény alkalmazásában:
+– „Autópálya”: kifejezetten gépjárműforgalom számára tervezett és épített
+közút, amely nem a közút mentén elhelyezkedő ingatlanokat szolgálja ki, és
+amely:
+a) egyes pontoktól, illetve időleges helyzetektől eltekintve a két forgalmi
+irány számára külön forgalmi sávokkal rendelkezik, amelyeket egymástól egy, a
+forgalom céljára nem szolgáló elválasztósáv vagy kivételesen egyéb eszköz ha-
+tárol el,
+b) szintben nem keresztez semmiféle utat, vasúti vagy villamosvágányt,
+vagy gyalogutat, valamint
+c) kifejezetten autópályaként van jelölve.
+– „Autóút”: gépjárműforgalom számára fenntartott olyan út, amelyre csak
+közlekedési csomópontokon vagy jelzőlámpával szabályozott útkereszteződé-
+sekben lehet ráhajtani, és amelynek a forgalmi sávjain különösen megállni és vá-
+rakozni tilos.
+3 Ezen Egyezmény alkalmazásában a „repülőtér” olyan repülőtér, amely
+megfelel az 1944-ben megkötött, a Nemzetközi Polgári Repülési Szervezetet lét-
+rehozó Chicagói Egyezményben szereplő meghatározásnak (14. melléklet).
+6. §
+(1) Ez a rendelet – a (2) bekezdésben meghatározott ki-
+vétellel – a kihirdetését követő napon lép hatályba.
+(2) E rendelet 2–5. §-ai az Egyezmény 14. cikk 4. pont-
+jában meghatározott időpontban lépnek hatályba.
+(3) Az első Egyezménymódosítás, a második Egyez-
+ménymódosítás, illetve e rendelet 2–5. §-ai hatálybalépé-
+sének naptári napját a külpolitikáért felelős miniszter – an-
+nak ismertté válását követően – a Magyar Közlönyben ha-
+ladéktalanul közzétett egyedi határozatával állapítja meg.
+
+(4) E rendelet végrehajtásához szükséges intézkedések-
+ről a környezetvédelemért felelős miniszter gondoskodik.
+(5) Felhatalmazást kap a környezetvédelemért felelős
+miniszter, hogy az Egyezménynek az első Egyezménymó-
+dosítással, valamint a második Egyezménymódosítással
+egységes szerkezetbe foglalt szövegét és annak magyar
+nyelvű fordítását a Magyar Közlönyben közzétegye.
+Gyurcsány Ferenc s. k.,
+miniszterelnök
