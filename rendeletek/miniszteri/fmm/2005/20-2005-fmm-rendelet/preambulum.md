@@ -1,0 +1,1 @@
+A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 8. §-ának (5) bekezdésében, 13/A. §-ának (4) bekezdésében, 19. §-ának (2) bekezdésében és 20. §-ának (2) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:

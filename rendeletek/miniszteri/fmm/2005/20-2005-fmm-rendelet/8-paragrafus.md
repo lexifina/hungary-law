@@ -1,0 +1,3 @@
+8. §[^9]
+
+[^9]: Az 1–17. §-t és az 1. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 8. §-ának 10. pontja hatályon kívül helyezte.
