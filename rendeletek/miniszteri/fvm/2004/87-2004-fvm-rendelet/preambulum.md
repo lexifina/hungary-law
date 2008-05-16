@@ -1,0 +1,1 @@
+A mezőgazdasági és vidékfejlesztési támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről és az ezzel összefüggő törvénymódosításokról szóló 2003. évi LXXIII. törvény 45. § (2) bekezdés c) pontjában kapott felhatalmazás alapján a következőket rendelem el:
