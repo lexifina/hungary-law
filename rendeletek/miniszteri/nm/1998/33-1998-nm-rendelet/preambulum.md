@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény 50. §, 60. §-aiban, és 88. §-ának (2) bekezdésében és az egészségügyről szóló 1997. évi CLIV. törvény 247. §-a (2) bekezdés d) pontjában kapott felhatalmazás alapján a következőket rendelem el:
