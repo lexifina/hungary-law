@@ -1,0 +1,1 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 89. §-ának (3) bekezdésében, valamint a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 59. §-a (2) bekezdésének ab) pontjában kapott felhatalmazás alapján a következőket rendelem el:
