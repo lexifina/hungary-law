@@ -1,0 +1,1 @@
+## 5. § Az MVH a támogatási összeg euróra történő átváltásakor a támogatási kérelmek benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett, két tizedes pontossággal megadott euró deviza középárfolyamot alkalmazza.
