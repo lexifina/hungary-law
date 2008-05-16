@@ -1,0 +1,1 @@
+A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 23. §-ának (1) bekezdésében és 24. §-ának a) pontjában foglalt felhatalmazás alapján a következőket rendelem el:
