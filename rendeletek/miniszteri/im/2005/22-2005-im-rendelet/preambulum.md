@@ -1,0 +1,1 @@
+A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 75. §-ának a)–c) pontjában foglalt felhatalmazás alapján – a 21–23. §-ok tekintetében a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
