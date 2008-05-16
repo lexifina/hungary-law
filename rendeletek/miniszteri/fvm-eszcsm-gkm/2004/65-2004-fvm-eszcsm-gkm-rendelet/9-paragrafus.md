@@ -1,0 +1,3 @@
+9. § (1) Az élelmiszer-ellenőrző hatóság a valamely tagállamban jogszerűen forgalmazható természetes ásványvíz forgalmazását Magyarországon átmenetileg korlátozhatja vagy felfüggesztheti, ha a természetes ásványvíz nem felel meg e rendelet előírásainak vagy veszélyezteti az emberi egészséget. Erről az élelmiszer-ellenőrző hatóság haladéktalanul tájékoztatja a minisztériumot, amely értesíti a Bizottságot és a többi tagállamot a döntés indokainak megadásával.
+
+(2) Az 1. számú mellékletben felsorolt összetevőket meghatározó hivatalos vizsgálati módszereknek meg kell felelniük a 6. számú mellékletben meghatározott követelményeknek.
