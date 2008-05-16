@@ -1,0 +1,1 @@
+A Kormány az egységes termékazonosító kód piaci viszonyok közötti működésének elősegítése, a termékek azonosítása és annak számítógépes nyilvántartási rendszerének széles körű elterjedése érdekében az alábbiakat rendeli el:

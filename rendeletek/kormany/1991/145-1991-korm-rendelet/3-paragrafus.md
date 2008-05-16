@@ -1,0 +1,1 @@
+## 2. § A vállalkozó, az e rendeletben meghatározott módon, az általa előállított vagy importált terméken annak azonosítására alkalmas egységes termékazonosító kódszámot (a továbbiakban ETK-számot) tüntethet fel.
