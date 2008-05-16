@@ -1,0 +1,1 @@
+## 85. § Az óvás alakját és felvételének határidejét, valamint az idegen és a saját váltóra alapozott jogok gyakorlásához vagy fenntartásához szükséges egyéb cselekmények alakját annak az országnak törvénye szabályozza, amelynek területén az óvást fel kell vétetni, vagy a cselekményt végre kell hajtani.

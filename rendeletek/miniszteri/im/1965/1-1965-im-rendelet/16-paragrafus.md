@@ -1,0 +1,3 @@
+16. § (1) A váltó birtokosát jogos váltóbirtokosnak kell tekinteni, ha jogát a váltóátruházások meg nem szakított láncolatával igazolja, akkor is, ha az utolsó váltóátruházás üres. A törölt váltóátruházásokat ebből a szempontból nem írottnak kell tekinteni. Ha az üres váltóátruházásra másik váltóátruházás következik, az utóbbi váltóátruházás aláíróját úgy kell tekinteni, mint aki a váltót üres váltóátruházás útján szerezte meg.
+
+(2) Ha a váltó valakinek birtokából bármi módon elvész, részére a váltót az a váltóbirtokos, aki jogát az előbbi bekezdésben meghatározott módon igazolja, csak akkor köteles kiadni, ha azt rosszhiszeműen szerezte, vagy ha a megszerzéssel kapcsolatban súlyos gondatlanságot követett el.

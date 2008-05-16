@@ -1,0 +1,5 @@
+46. § (1) A kibocsátó, bármelyik átruházó vagy kezes a váltóra írt és aláírt ilyen kikötéssel: „költség nélkül”, „óvás nélkül” vagy más azonos értelmű nyilatkozattal felmentheti a váltóbirtokost az alól a kötelezettség alól, hogy megtérítési igényének érvényesítése végett akár elfogadás hiánya, akár fizetés hiánya miatt óvást vétessen fel.
+
+(2) Ez a kikötés nem menti fel a váltóbirtokost sem az alól, hogy a váltót a megszabott határidőben bemutassa, sem az alól, hogy a kötelező értesítéseket teljesítse. A határidő elmulasztásának bizonyítása azt terheli, aki arra a váltóbirtokossal szemben hivatkozik.
+
+(3) Ha a kikötés a kibocsátótól ered, az a váltónak minden aláírójára kihat; ha pedig valamelyik átruházótól vagy kezestől származik, csak ezzel szemben érvényes. Ha a váltóbirtokos a kibocsátótól eredő kikötés ellenére óvást vétet fel, köteles viselni ennek költségét. Ha a kikötés valamelyik átruházótól vagy kezesétől származik, az óvás feltételének költsége a váltó bármelyik aláírójától behajtható.

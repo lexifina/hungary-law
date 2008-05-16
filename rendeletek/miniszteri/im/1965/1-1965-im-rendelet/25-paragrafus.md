@@ -1,0 +1,3 @@
+25. § (1) Az elfogadást a váltóra kell írni. Az elfogadást ez a szó: „elfogadom” vagy más hasonló értelmű szó fejezi ki; az elfogadást a címzett írja alá. A címzettnek a váltó előlapjára írt puszta aláírása elfogadás.
+
+(2) Ha a váltó megtekintés után bizonyos idő múlva fizetendő, vagy ha a váltót külön kikötésnél fogva meghatározott időn belül elfogadás végett be kell mutatni, az elfogadást keltezni kell arról a napról, amelyen az elfogadás megtörtént, illetve – a váltóbirtokos kívánságára – a bemutatás napjáról. Keltezés hiányában a váltóbirtokosnak ahhoz, hogy megtérítési igényét a váltóátruházók és a kibocsátó ellen fenntartsa, e mulasztást kellő időben felvett óvással meg kell állapíttatnia.
