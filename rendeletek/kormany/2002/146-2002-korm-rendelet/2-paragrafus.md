@@ -1,0 +1,1 @@
+## 1. § A Kormány az ENSZ Transz-Európai Vasúti Együttműködési Alapítványi Egyezményről (TER) szóló, Genfben, 1992. december 17-én kelt Megállapodást (a továbbiakban: Megállapodás), a 2001–2005 közötti időszakra meghosszabbítja, egyidejűleg a Megállapodást, valamint annak mellékletét és függelékeit – a módosításokkal egységes szerkezetben – e rendelettel kihirdeti.
