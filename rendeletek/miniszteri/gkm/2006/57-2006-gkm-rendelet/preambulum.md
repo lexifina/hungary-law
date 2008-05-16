@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében, valamint a nemesfémtárgyak és termékek vizsgálatáról, hitelesítéséről és nemesfémtartalmuk tanúsításáról szóló 145/2004. (IV. 29.) Korm. rendelet 13. §-a (1) bekezdésének d) pontjában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
