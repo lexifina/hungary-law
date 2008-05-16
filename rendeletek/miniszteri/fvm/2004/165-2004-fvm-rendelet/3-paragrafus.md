@@ -1,0 +1,5 @@
+3. § (1)[^7] A Vhr. szerinti I. vagy II. forgalmi kategóriájú növényvédő szerekre vonatkozó forgalmazási, vásárlási és felhasználási engedély kiadásáért a Szolgálat részére, továbbá a növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet 16. §-ának (1) bekezdésében foglalt kísérleti vagy tudományos célú tevékenység engedélyezéséért a Központi Szolgálat részére az Itv. szerinti, mindenkori általános tételű eljárási illetékkel azonos mértékű eljárási díjat kell fizetni.
+
+(2) Amennyiben a Szolgálat eljárása során az engedélyköteles termék engedélytől eltérő minőségét állapítja meg, az engedélyköteles termék gyártója vagy importőre köteles a kapcsolatos laboratóriumi vizsgálatok során felmerült költségeket megfizetni.
+
+[^7]: A 3. § (1) bekezdése a 116/2005. (XII. 19.) FVM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2006. január 3. napját követően indult eljárásokban kell alkalmazni.
