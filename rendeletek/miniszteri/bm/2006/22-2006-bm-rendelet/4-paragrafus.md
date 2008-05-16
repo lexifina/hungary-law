@@ -1,0 +1,3 @@
+4. § (1) A működési engedély, igazolvány kiadására jogosult rendőrkapitányság az SzVMt. 3. §-ának (3)–(4) bekezdésében foglalt korlátozó rendelkezésre vonatkozó nyilatkozat tartalmát az ott megjelölt szerv(ek) személyügyi szolgálatának megkeresésével ellenőrzi. Amennyiben az eljáró szervnek a működési engedély, igazolvány kiadását követően jut tudomására az összeférhetetlenség, arról haladéktalanul köteles értesíteni az érintett személyügyi szolgálatot, egyidejűleg intézkedik a működési engedély, igazolvány visszavonása érdekében.
+
+(2) Az igazolvány kiadását kérelmező ügyfél cselekvőképességére vonatkozó adatait az Országos Igazságszolgáltatási Tanács Hivatala útján az igazolvány kiadására jogosult rendőrkapitányság ellenőrzi.
