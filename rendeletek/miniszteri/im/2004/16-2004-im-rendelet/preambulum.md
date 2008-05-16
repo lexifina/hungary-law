@@ -1,0 +1,1 @@
+A védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény (a továbbiakban: Vt.) 121. §-ának (2) bekezdésében kapott felhatalmazás alapján – a Magyar Szabadalmi Hivatal elnökével egyetértésben – a következőket rendelem el:
