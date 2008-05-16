@@ -1,0 +1,9 @@
+# 49/2007. (VI. 26.) FVM rendelet
+
+az egyes mezőgazdasági állatfajok spermatároló központjainak létesítéséről és üzemeltetésüknek rendjéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-49-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-05-16 | 2007-49-20-82.2 | 49/2007. (VI. 26.) FVM rendelet |
