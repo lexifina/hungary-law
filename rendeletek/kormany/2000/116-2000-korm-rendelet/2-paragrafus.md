@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között Zágrábban, 1999. szeptember 9-én aláírt, a vámügyekben történő együttműködésről és kölcsönös segítségnyújtásról szóló Megállapodást e rendelettel kihirdeti.
