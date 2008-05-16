@@ -1,0 +1,1 @@
+## 14. § Ha jogszabály eltérően nem rendelkezik, e rendelet a tiszteletbeli konzuli tisztviselők eljárására is irányadó, a tiszteletbeli konzulok küldéséről és fogadásáról szóló 2/1995. (III. 24.) KüM rendeletben foglalt eltérésekkel.
