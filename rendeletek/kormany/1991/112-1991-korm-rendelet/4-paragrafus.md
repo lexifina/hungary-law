@@ -1,0 +1,1 @@
+## 3. § Havi 1000 forinttal kell emelni annak a személynek a nyugdíját, akinek 1952. előtt megállapított ellátását jogellenesen megvonták, akkor is, ha a megvont nyugdíjat a 14/1956. (XII. 1.) Korm. határozat alapján újból folyósították.
