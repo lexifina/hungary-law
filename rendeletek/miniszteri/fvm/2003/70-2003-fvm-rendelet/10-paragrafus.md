@@ -1,0 +1,3 @@
+10. § (1) A kerületi főállatorvos köteles a működési területén letelepedett vándorméhészetek szúrópróbaszerű – a hatósági állatorvos által lefolytatott – ellenőrzését a települési önkormányzat, fővárosban a kerületi önkormányzat jegyzőjénél vezetett nyilvántartás alapján megszervezni.
+
+(2) Az országhatártól számított tíz kilométeres körzeten belül, a szomszédos állam területéről, vagy ismeretlen helyről származó méhrajt észlelője vagy befogója köteles a települési önkormányzat jegyzőjénél haladéktalanul bejelenteni, aki a kiirtás végrehajtása érdekében értesíti a kerületi főállatorvost, aki elrendeli a méhraj állami kártalanítás nélküli leölését.
