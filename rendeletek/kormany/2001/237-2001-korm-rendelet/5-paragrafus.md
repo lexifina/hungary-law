@@ -1,0 +1,1 @@
+## 4. § Ha a nemzeti gyászhoz temetés vagy egyéb nyilvános szertartás kapcsolódik, a Kormány a szervezés és a lebonyolítás céljából a nemzeti kulturális örökség minisztere vezetésével eseti bizottságot hozhat létre. A bizottságban biztosítani kell a Nemzeti Kegyeleti Bizottság és az Állami Protokoll képviseletét.
