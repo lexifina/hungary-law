@@ -1,0 +1,7 @@
+13/A. §[^32] (1)[^33] A 13. § (15) bekezdése szerinti bizonylatok a pincekönyv mellékletét képezik, amelyet a helyszíni ellenőrzés során be kell mutatni. A vámhivatal a Btv. és a végrehajtási rendeleteiben meghatározott bizonylatokkal kapcsolatos hiányosságról nyolc napon belül köteles az MgSzH-t értesíteni.
+
+(2)[^34] A szőlő-pincekönyv és a szőlőbor-pincekönyv nyilvántartó lapokon szereplő mennyiségeket a 3. és 4. számú mellékletben meghatározott mértékegységek szerint, legalább két tizedes, de legfeljebb hat tizedes pontossággal, a kerekítésre vonatkozó általános szabályok szerint kell nyilvántartani.
+
+[^32]: A 13/A. §-t a 136/2004. (IX. 18.) FVM–PM együttes rendelet 8. § (7) bekezdése iktatta be. E módosító rendelet 12. § (2) bekezdése alapján az adóraktár engedélyes az a 2004. szeptember 21-ét megelőző nyilvántartás vezetést az óbor készlet nyilvántartására továbbra is alkalmazhatja; (3) bekezdése alapján a 2004. szeptember 21-ét megelőzően érvényes számítógépes nyilvántartás vezetés csak abban az esetben folytatható, ha eleget tesz a módosított előírásoknak. A számítógépes nyilvántartás új változatának engedélyezéséig a nyilvántartást a formanyomtatványon kell vezetni.
+[^33]: A 13/A. § (1) bekezdése a 36/2008. (III. 27.) FVM–PM együttes rendelet 5. §-a szerint módosított szöveg.
+[^34]: A 13/A. § (2) bekezdése a 36/2008. (III. 27.) FVM–PM együttes rendelet 4. §-ával megállapított szöveg.
