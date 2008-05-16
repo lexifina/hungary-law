@@ -1,0 +1,1 @@
+Az egészségügyi felsőfokú szakirányú szakképzésben résztvevők számára szervezett központi gyakornoki rendszerről szóló 125/1999. (VIII. 6.) Korm. rendelet 8. §-ának (3) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
