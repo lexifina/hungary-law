@@ -1,0 +1,1 @@
+Az ügyvédekről szóló 1998. évi XI. törvény 133. §-ában kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. §-ának h) pontjában megállapított feladatkörömben eljárva a következőket rendelem el:
