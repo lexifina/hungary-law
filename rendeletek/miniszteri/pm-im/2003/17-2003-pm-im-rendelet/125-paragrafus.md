@@ -1,0 +1,1 @@
+## 124. § Ellenőrizni kell, hogy a gyanúsított rendelkezik-e járművezetői engedéllyel, úti okmánnyal, lőfegyvertartási engedéllyel, lőfegyverrel, illetve adott-e be úti okmány vagy lőfegyvertartási engedély iránti kérelmet.

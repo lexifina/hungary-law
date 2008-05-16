@@ -1,0 +1,1 @@
+## 153. § A javítóintézetben, gyermekotthonban, bentlakásos intézményben elhelyezett fiatalkorú őrizetbe vételéről az intézmény vezetőjét is értesíteni kell. A pártfogó felügyelet alatt álló fiatalkorú őrizetbe vételéről értesíteni kell a fiatalkorú pártfogó felügyelőjét.
