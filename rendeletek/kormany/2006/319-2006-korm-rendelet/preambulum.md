@@ -1,0 +1,1 @@
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §-a (2) bekezdésének c), e), f), r) pontjában és (5) bekezdésében foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
