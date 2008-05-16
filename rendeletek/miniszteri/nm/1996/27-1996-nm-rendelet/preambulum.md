@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény 64. §-ának (4) bekezdésében, valamint az egészségügyről szóló 1972. évi II. törvény végrehajtásáról rendelkező 16/1972. (IV. 29.) MT rendelet 37. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján a következőket rendelem el:
