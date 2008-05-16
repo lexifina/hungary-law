@@ -1,0 +1,1 @@
+A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény (a továbbiakban: Fttv.) 29. §-ának (4) bekezdésében, valamint az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendeljük el:
