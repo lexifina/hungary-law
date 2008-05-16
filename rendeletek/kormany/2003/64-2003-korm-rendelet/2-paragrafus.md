@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről, Kijevben, 2002. február 6-án aláírt Egyezményt e rendelettel kihirdeti.
