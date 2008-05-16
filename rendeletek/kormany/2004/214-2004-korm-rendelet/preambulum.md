@@ -1,0 +1,1 @@
+Az ózdi martinsalak felhasználásával készült lakóépületek tulajdonosainak kárenyhítéséről szóló 40/2003. (III. 27.) Korm. rendelet (a továbbiakban: R.) módosításáról a Kormány a következőket rendeli el:
