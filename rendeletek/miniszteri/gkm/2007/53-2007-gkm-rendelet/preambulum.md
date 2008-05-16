@@ -1,0 +1,1 @@
+Az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet (a továbbiakban: Ámr.) 2. §-ának 2. pontjában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
