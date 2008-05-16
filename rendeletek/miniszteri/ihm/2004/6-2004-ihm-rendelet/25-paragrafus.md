@@ -1,0 +1,1 @@
+## 24. § A rádióforgalmazás során be kell tartani a Nemzetközi Rádiószabályzat előírásait, valamint más, a magyar távközlési igazgatást érintő nemzetközi megállapodásban meghatározott forgalmazási előírásokat.
