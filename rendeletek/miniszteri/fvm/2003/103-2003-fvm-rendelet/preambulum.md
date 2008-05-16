@@ -1,0 +1,1 @@
+A növényvédelemről szóló 2000. évi XXXV. törvény (a továbbiakban: Tv.) 65. §-ának (4) bekezdésében kapott felhatalmazás alapján – az egészségügyi, szociális és családügyi miniszterrel, valamint a környezetvédelmi és vízügyi miniszterrel egyetértésben – a következőket rendelem el:
