@@ -1,0 +1,1 @@
+6. § Ez a rendelet a 2000/13/EK európai parlamenti és tanácsi irányelvnek az élelmiszerek címkézésén minden körülmények között megjelölendő összetevők listáját tartalmazó IIIa. melléklete módosításáról szóló, 2006. december 22-i 2006/142/EK bizottsági irányelvnek való megfelelést szolgálja.
