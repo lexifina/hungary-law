@@ -1,0 +1,1 @@
+A hulladékgazdálkodásról szóló 2000. évi XLIII. törvény (a továbbiakban: Hgt.) 59. § (1) bekezdés j) pontjában kapott felhatalmazás alapján – az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva – a Kormány a következőket rendeli el:
