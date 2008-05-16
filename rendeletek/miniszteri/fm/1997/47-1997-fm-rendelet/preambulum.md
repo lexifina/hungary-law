@@ -1,0 +1,1 @@
+Az állattenyésztésről szóló 1993. évi CXIV. törvény (a továbbiakban: Tv.) 49. § (1) bekezdésének a) 12. pontjában, valamint az illetékekről szóló, többször módosított 1990. évi XCIII. törvény 67. §-ában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
