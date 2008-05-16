@@ -1,0 +1,1 @@
+Az Európai Unió strukturális alapjaiból és a Kohéziós Alapból finanszírozott támogatások hazai felhasználásáért felelős intézményekről szóló 1/2004. (I. 5.) Korm. rendelet (a továbbiakban: R.) 20. §-ának (2) és (4) bekezdésében kapott felhatalmazás alapján a következőket rendeljük el:
