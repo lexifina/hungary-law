@@ -1,0 +1,1 @@
+A szakképzésről szóló 1993. évi LXXVI. törvény (a továbbiakban: Szt.) 4. § (2) bekezdésének c) pontjában és az illetékről szóló 1990. évi XCIII. törvény 67. § (2) bekezdésében foglalt felhatalmazás alapján – a szakképesítésért felelős miniszterekkel, a bírálati díj tekintetében a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
