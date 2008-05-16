@@ -1,0 +1,1 @@
+Az élelmiszerekről szóló 2003. évi LXXXII. törvény 20. §-a (3) bekezdésének b) és c) pontjában és (4) bekezdésében kapott felhatalmazás alapján – a gazdasági és közlekedési miniszterrel egyetértésben – a következőket rendeljük el:

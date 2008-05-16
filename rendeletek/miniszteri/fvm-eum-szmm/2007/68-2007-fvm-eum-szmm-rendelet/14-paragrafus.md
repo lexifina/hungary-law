@@ -1,0 +1,3 @@
+14. § (1) Az olyan nyers cukrot, amelynek tengeri szállítása nem kizárólag élelmiszer-szállításra fenntartott tartályokban, illetve tartályhajókban történt, teljes és hatékony finomításnak kell alávetni, és csak ezt követően lehet élelmiszerként vagy élelmiszer-összetevőként való felhasználásra alkalmasnak tekinteni.
+
+(2) Az élelmiszer-előállító, illetve élelmiszer-forgalmazó, amely a nyers cukor tengeri szállításáért, illetve finomításáért felelős, a nyers cukor berakodását megelőző tisztítási folyamatot a finomított cukor biztonsága és egészséges volta szempontjából döntő fontosságúnak köteles tekinteni, figyelembe véve a tartályban vagy tartályhajóban előzőleg szállított szállítmány jellegét.

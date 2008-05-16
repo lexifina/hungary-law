@@ -1,0 +1,7 @@
+8. § (1) A hatósági mintavétellel ellenőrzésre kerülő élelmiszer-tételt úgy kell megválasztani, hogy az azonos termelői helyen gyártott vagy azonos beszerzésű és azonos jelölésű (azonos nap – műszak – szállítmány) termékegyedekből álljon.
+
+(2) A mintát – ha jogszabály vagy a Magyar Élelmiszerkönyv kötelező előírása másként nem rendelkezik – az élelmiszerből a hatósági élelmiszer-ellenőrzés céljával összhangban, véletlenszerű kiválasztással, annak mennyiségétől függetlenül úgy kell kivenni, hogy az a vizsgálatok elvégzéséhez elegendő legyen. A mintába – a csomagolás és a jelölés vizsgálatának kivételével – csomagolt termék esetén csak ép, sérülésmentes csomagolású egységek választhatók. Amennyiben a fogyasztói kiszerelés nagysága meghaladja a minta kezelésénél elfogadható méretet, vagy ha az élelmiszert a kereskedelmi technológiában is megbontották vagy megbontják (szeletelték, darabolták, adagolták stb.) és bontott állapotban is forgalmazzák, illetve felhasználják, megbontott csomagolású egységből is vehető minta. A csomagolás megbontásának körülményeit azonban a mintavételi jegyzőkönyvben rögzíteni kell.
+
+(3) A mintavétel során eljáró személy köteles arról gondoskodni, hogy a vett minta sértetlenül, változás és károsodás nélkül, azonosítható módon, szükség esetén hűtve, a lehető legrövidebb idő alatt kerüljön a vizsgálatot végző laboratóriumba.
+
+(4) Az élelmiszer-ellenőrző hatóság intézkedése és a jogkövetkezmények megállapítása az (1) bekezdés szerint megmintázott élelmiszer-tételre vonatkozik.
