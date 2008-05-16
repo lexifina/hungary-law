@@ -1,0 +1,1 @@
+A levegő tisztaságának védelméről szóló — többször módosított — 21/1986. (VI. 2.) MT rendelet (a továbbiakban: R.) 13. §-ának (2) bekezdése c) és f) pontjában kapott felhatalmazás alapján — az érdekeltekkel egyetértésben — a következőket rendelem el:
