@@ -1,0 +1,1 @@
+A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 17. §-ának (3) és (4) bekezdésében foglalt felhatalmazás alapján — az Érdekegyeztető Tanács egyetértésével — a következőket rendelem:
