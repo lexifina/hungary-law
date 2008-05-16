@@ -1,0 +1,1 @@
+## 1. § A Kormány az összehangolt Áruleíró és Kódrendszerről Brüsszelben, az 1983. évi június hó 14. napján megkötött, és a Magyar Köztársaság elnökének 314/1990. számú határozatával megerősített Nemzetközi Egyezményt e rendelettel kihirdeti.
