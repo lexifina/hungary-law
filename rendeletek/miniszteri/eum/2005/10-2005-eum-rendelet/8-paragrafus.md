@@ -1,0 +1,1 @@
+## 7. § Az OTH a hozzá a 6. § (1) bekezdés alapján bejelentett eseményeket – a saját hatáskörében megtett, vagy tervezett intézkedések ismertetésével együtt – szóban haladéktalanul, de legkésőbb 1 órán belül írásban is továbbjelenti a minisztérium részére.
