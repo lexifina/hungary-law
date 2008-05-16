@@ -1,0 +1,1 @@
+## 2. § A mellékletben felsorolt területek közül fokozottan védetté nyilvánítom az Esztergom 0303–0305, 0312–0313, 0316, 0556/4, 0557–0558, 0571, 0574–0577 ingatlan-nyilvántartási helyrajzi számú, összesen 761,1 hektár kiterjedésű területet.

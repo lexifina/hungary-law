@@ -1,0 +1,1 @@
+## 3. § A védetté nyilvánítás célja a Pilis hegységhez szervesen csatlakozó, átmeneti zónát alkotó terület geológiai, botanikai, zoológiai és tájképi értékeinek megóvása, valamint az értékes fajokban gazdag gyep és erdőterületek megőrzése.
