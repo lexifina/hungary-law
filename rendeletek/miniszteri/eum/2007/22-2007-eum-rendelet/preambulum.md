@@ -1,0 +1,1 @@
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §-a (3) bekezdésének c) pontjában foglalt felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 1. §-ának b) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
