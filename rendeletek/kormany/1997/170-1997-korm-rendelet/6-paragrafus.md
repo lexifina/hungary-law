@@ -1,0 +1,5 @@
+## 5. § A pénztár szolgáltatási szabályzatának rendelkeznie kell arról, hogy amennyiben a szolgáltatás megkezdése esedékességének időpontjára a szolgáltatás nem állapítható meg, akkor a pénztár a tag részére mekkora nagyságú előzetes járadék folyósítását kezdi meg, valamint azt, hogy miképpen és milyen határidőn belül rendezik a szolgáltatás megállapítása után a megállapított és az előzetes járadékból adódó különbözetet.
+
+6. § (1) A járadékszolgáltató pénztárnak az Mpt. 32. § (1) bekezdésében meghatározott halandósági tábláját, valamint a 16. § (2) bekezdésében használandó halandósági tábláit a pénztár aktuáriusának a szolgáltatásban részesülő pénztári tagság demográfiai viszonyait figyelembe véve kell a Központi Statisztikai Hivatal által közzétett halandósági táblákból kiválasztania vagy azokból elkészítenie.
+
+(2) A járadékszolgáltató pénztár halandósági tábláinak a megváltoztatására a pénztár a tagság demográfiai viszonyainak, a pénztár tényleges és várható szolgáltatási kötelezettségeinek megváltozása és más pénztárak tapasztalatai alapján az aktuáriusi értékelésben tehet javaslatot.
