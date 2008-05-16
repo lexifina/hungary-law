@@ -1,0 +1,1 @@
+A növényvédelemről szóló 2000. évi XXXV. törvény 65. §-a (2) bekezdésének b) pontjában, valamint a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 67. §-a (6) bekezdésének a)–c) pontjában foglalt felhatalmazás alapján – ez utóbbi törvény vonatkozásában a gazdasági és közlekedési miniszterrel egyetértésben – a következőket rendelem el:
