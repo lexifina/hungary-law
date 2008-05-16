@@ -1,0 +1,1 @@
+A helyi adókról szóló 1990. évi C. törvény 46. §-ában, a gépjárműadóról szóló 1991. évi LXXXII. törvény 19. §-ának (6) bekezdésében, valamint az adózás rendjéről szóló 2003. évi XCII. törvény 175. §-ának (7) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
