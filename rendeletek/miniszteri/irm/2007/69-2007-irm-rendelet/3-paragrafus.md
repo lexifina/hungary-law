@@ -1,0 +1,7 @@
+3. § (1) Az igazolvány visszavonásig érvényes. Az országos rendőrfőkapitány, a büntetés-végrehajtás országos parancsnoka, valamint a Szolgálat vezetője az irányításuk alá tartozó szervekre vonatkozóan az igazolványokra határozott idejű, de legfeljebb ötéves érvényességi időt is megállapíthatnak.
+
+(2) Az igazolványt vissza kell vonni a szolgálati viszony megszűnésekor, vagy ha a (3) bekezdésben meghatározottak szerint cseréje válik szükségessé, illetve a határozott érvényességi idejű igazolványok esetében az érvényességi idő lejárt. Visszavonásra a munkáltatói jogkört gyakorló vezető jogosult.
+
+(3) A határozatlan érvényességi idejű igazolványok esetében a munkáltató személyügyi szerve ötévente ellenőrzi az igazolvány állapotát, az arcképek időszerűségét, és intézkedik az igazolvány cseréjéről, ha azt annak elhasználódása szükségessé teszi, vagy ha az igazolványon feltüntetett adatokban vagy az arckép felismerhetőségében változás következett be.
+
+(4) Az egységes ellátás érdekében az igazolványok kibocsátásának megszervezéséért, nyilvántartásáért, a folyamatos ellátás biztosításáért a Rendőrség esetében az Országos Rendőr-főkapitányság (a továbbiakban: ORFK), a büntetés-végrehajtási szervezet esetében a Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP), a Szolgálat esetén annak személyügyi szerve a felelős. Az egyszeri, valamint a folyamatos ellátáshoz szükséges pénzügyi forrásokat a szervezetek jóváhagyott költségvetésük terhére létszámarányuknak megfelelő mértékben biztosítják.
