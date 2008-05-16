@@ -1,0 +1,5 @@
+1. § (1) Védetté nyilvánítom Balaton-felvidéki Nemzeti Park (a továbbiakban: Nemzeti Park) néven a Balaton-felvidéken, a Keszthelyi-hegységben, valamint a Balaton DNy-i medencéjében lévő 15 657,6 hektár, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, illetve a Nemzeti Park területéhez csatolom a már védetté nyilvánított 41 038,9 hektár, a 2. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú mindösszesen 56 696,5 hektár kiterjedésű területet.
+
+(2) A Nemzeti Parkból fokozottan védetté nyilvánítom a 3. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú 814,2 hektár kiterjedésű területet. Az e rendelet hatálybalépése előtt is fokozottan védett, a 4. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú 9657,4 hektár kiterjedésű területtel együtt a Nemzeti Park fokozottan védett területe összesen 10 471,6 hektár.
+
+(3) Az (1) bekezdés alapján a Nemzeti Parkhoz csatolt védett természeti területeken a tájvédelmi körzet, illetve a természetvédelmi terület elnevezéseit megszüntetem, ezek jegyzékét az 5. számú melléklet tartalmazza.
