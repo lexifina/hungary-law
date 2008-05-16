@@ -1,0 +1,1 @@
+## Számítási módszer változtatása
