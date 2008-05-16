@@ -1,0 +1,1 @@
+Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 182. §-a (4) bekezdésének s) pontjában kapott felhatalmazás alapján – figyelemmel az Eht. 127. §-ának (5) bekezdésében foglaltakra – a következőket rendelem el:

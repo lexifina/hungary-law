@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya az előfizetői szolgáltatást nyújtó elektronikus hírközlési szolgáltatókra (a továbbiakban: szolgáltató), az előfizetői szolgáltatás igénybevételére a szolgáltatóval szerződést kötött, illetve szerződést kötni kívánó természetes vagy jogi személyekre, illetve jogi személyiséggel nem rendelkező más szervezetre (a továbbiakban: előfizető), valamint a Nemzeti Hírközlési Hatóságra (a továbbiakban: hatóság) terjed ki.
+
+(2) E rendeletet a bérelt vonalak minimális készletének piacán jelentős piaci erővel rendelkező szolgáltató által nyújtott bérelt vonali szolgáltatás igénybevételére kötött előfizetői szerződésekre külön jogszabályban foglalt eltérésekkel kell alkalmazni.
