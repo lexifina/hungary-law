@@ -1,0 +1,1 @@
+Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 203. § (5) bekezdésében, 204. § (2) bekezdésének c) pontjában, valamint a 247. § (2) bekezdésének q) pontjában foglalt felhatalmazás alapján a következőket rendelem el:
