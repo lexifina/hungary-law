@@ -1,0 +1,1 @@
+A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 287. § c) pontjában kapott felhatalmazás alapján, figyelemmel a Hjt. 79. § (2) bekezdésében foglaltakra, a Magyar Honvédség egyes beosztásaihoz kapcsolódó munkaköri követelmények meghatározásának részletes szabályaira az alábbiakat rendelem el:
