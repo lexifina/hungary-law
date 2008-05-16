@@ -1,0 +1,1 @@
+## 5. § Az olimpiai központnak kiépítettségében és felszereltségében alkalmasnak kell lennie arra, hogy azt a speciális világjátékokra való felkészülési központként a fogyatékos sportolók is használhassák.
