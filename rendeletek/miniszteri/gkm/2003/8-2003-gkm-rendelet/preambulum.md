@@ -1,0 +1,1 @@
+A fogyasztóvédelemről szóló 1997. évi CLV. törvény 56. §-ának a) pontja, valamint a kazánok és nyomástartó berendezések hatósági felügyelet alá helyezéséről szóló 29/1960. (VI. 7.) Korm. rendelet 3. §-ának (1) bekezdése alapján – a foglalkoztatáspolitikai és munkaügyi miniszterrel egyetértésben – a következőket rendelem el:

@@ -1,0 +1,3 @@
+11. § (1) Ha a külön jogszabály alapján eljáró hatóság megállapítja, hogy a megfelelőségi jelölést jogosulatlanul vagy nem-megfelelő szállítható nyomástartó berendezésen tüntették fel, kötelezi a jelölést feltüntető személyt, a berendezés tulajdonosát vagy annak a Közösségben letelepedett meghatalmazott képviselőjét a jogsértés megszüntetésére és a szállítható nyomástartó berendezés megfelelőségének biztosítására.
+
+(2) Ha a jelölést jogosulatlanul feltüntető személy, a berendezés tulajdonosa, illetve annak meghatalmazott képviselője határidőben nem tesz eleget a kötelezésnek, a hatóság megteszi a 12. § szerinti intézkedéseket.
