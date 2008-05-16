@@ -1,0 +1,1 @@
+A Polgári Perrendtartás (Pp.) 88. §-ában foglalt felhatalmazás alapján a költségmentesség engedélyezésének alapjául szolgáló körülmények igazolásáról szóló, módosított 2/1968. (I. 24.) IM rendeletet (a továbbiakban: R.) — a pénzügyminiszterrel egyetértésben — a következők szerint módosítom:
