@@ -1,0 +1,3 @@
+18. § (1) Konzerválási vagy restaurálási munkákat letétként átvett iratokon a levéltár csak a letevővel esetenként kötött megállapodás alapján végezhet. A konzerválási és restaurálási munkák költségeinek viseléséről e megállapodásban kell rendelkezni.
+
+(2) A levéltár a letétbe helyezett iratokat, ha ezzel kapcsolatban a letéti szerződés különleges kikötéseket nem tartalmaz, a levéltári anyagra vonatkozó általános szabályok szerint őrzi, kezeli, bocsátja a kutatás rendelkezésére, és teszi közzé. Ennek során a letétbe helyezett levéltári anyag rendjét – a levéltári rendszerezés szabályainak megfelelően – megváltoztathatja, a letét egészéről vagy egyes darabjairól saját használatára vagy térítés ellenében a kutatók részére reprodukciókat készíthet.

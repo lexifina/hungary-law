@@ -1,0 +1,1 @@
+A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) 8. §-ának b) pontjában foglalt felhatalmazás alapján a közlevéltárak és a nyilvános magánlevéltárak (a továbbiakban együtt: levéltár) tevékenységével összefüggő szakmai követelményekről az alábbiakat rendelem el:
