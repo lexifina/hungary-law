@@ -1,0 +1,1 @@
+## 8. § A vérből előállított perifériás őssejtekre – a donorkivizsgálás tekintetében a vérellátás egyes szakmai követelményeiről szóló 43/1999. (IX. 30.) EüM rendelettel összhangban – a szerv- és szövetátültetésre vonatkozó külön jogszabályokat kell alkalmazni.

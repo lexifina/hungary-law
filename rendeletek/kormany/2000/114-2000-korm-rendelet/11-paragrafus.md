@@ -1,0 +1,3 @@
+11. § (1) A nemzeti vérkészletből előállított, hazai szükségletet meghaladó vérkészítmény – az OVSZ főigazgatójának döntése alapján – külföldre vihető. A vérkészítmény külföldre történő kivitele elsősorban a biztonságos vérellátáshoz szükséges vérkészítmények behozatalának elősegítését szolgálja.
+
+(2) Humanitárius célból akkor kerülhet sor a nemzeti vérkészlethez tartozó vérkészítmény külföldre történő kivitelére, ha a vérellátás biztonságát ez nem veszélyezteti, vagy a külföldre kivinni tervezett vérkészítmény kizárólag e célból szervezett véradásból származik. A kivitelről az OVSZ főigazgatójának javaslatára az egészségügyi miniszter dönt.
