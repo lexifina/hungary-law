@@ -1,0 +1,13 @@
+## 1–31. §[^1]
+
+32. § (1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivételekkel – a kihirdetés napján lép hatályba.
+
+(2) E rendelet 1. § (1) és (3) bekezdése, a 9. § (2)–(3) bekezdése, a 12. § (3) bekezdése, a 13. § (1) bekezdése, a 14–15. §, a 17. § (3) és (7) bekezdése, a 28–29. §-a 2008. január 1. napján lép hatályba.
+
+(3) E rendelet 1. § (2) bekezdése, 2–8. §-a, 9. § (1) bekezdése, 10–11. §-a, 12. § (1)–(2), (5)–(16) bekezdése, 13. § (2)–(3) bekezdése, 16. §-a, 17. § (1)–(2), (4)–(6), (8) bekezdése 2008. február 1. napján lép hatályba.
+
+(4) E rendelet rendelkezéseit – a (5) bekezdésben foglalt eltérésekkel – a hatálybalépést követően benyújtott kérelmekre kell alkalmazni.
+
+(5) Az R. e rendelettel megállapított 1. § (6) bekezdését, 5/A. § (6), (11) bekezdését, 18. § (7)–(9), (15) bekezdéseit, 21. §-át, valamint 24. § (17) bekezdését a már folyósított támogatások tekintetében is alkalmazni kell.
+
+[^1]: Az 1–31. §-t a 33. § hatályon kívül helyezte.
