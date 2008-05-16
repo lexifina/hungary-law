@@ -1,0 +1,1 @@
+## 13. § A munkavállalók és képviselőik meghallgatását és részvételét biztosítani kell a 7–10. §-okban meghatározottak megvalósítása során, ha a kockázat mértéke és az építési munkahely mérete ezt indokolttá teszi.
