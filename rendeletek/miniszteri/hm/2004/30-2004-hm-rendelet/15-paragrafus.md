@@ -1,0 +1,1 @@
+## 14. § Az egészségi veszélynek kitett beosztásokban (munkakörökben) szolgálatot teljesítők közül a melléklet 1/b) és 2/a) pontjaiban felsorolt egészségkárosító kockázati tényezők között tevékenykedők – a fokozottan veszélyes munkakörben foglalkoztatottak – csak csökkentett szolgálatteljesítési (munka-) időben foglalkoztathatók, amelynek időtartama legfeljebb napi 6 óra.

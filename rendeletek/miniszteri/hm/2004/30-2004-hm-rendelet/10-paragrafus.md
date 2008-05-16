@@ -1,0 +1,3 @@
+10. § (1) Azt a közalkalmazottat, aki föld alatti létesítményben állandó jelleggel dolgozik, illetve az ionizáló sugárzásnak kitett munkahelyen naponta legalább három órát eltölt, évenként öt munkanap pótszabadság illeti meg. Ha a közalkalmazott ilyen munkahelyen legalább öt évet eltöltött, évenként tíz munkanap pótszabadságra jogosult.
+
+(2) A sugárártalomnak kitett munkahelyen eltöltött napi munkaidőtől függetlenül az (1) bekezdésben meghatározott pótszabadság megilleti azt a közalkalmazottat is, akit rendszeresen kettős egészségi ártalomnak kitett munkakörben foglalkoztatnak, feltéve, hogy az egyik egészségi ártalom sugárártalom. Ha a közalkalmazott munkaviszonya év közben kezdődött, részére a fenti jogcímen megállapított pótszabadság időarányos része jár.
