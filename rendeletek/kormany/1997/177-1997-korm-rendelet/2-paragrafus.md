@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Olasz Köztársaság Kormánya között a közúti járművek vezetői engedélyeinek kölcsönös elismeréséről szóló, Budapesten, 1996. július 17. napján aláírt Megállapodás mellékletének módosítása tárgyában 1997. február 26. napján kelt jegyzéket e rendelettel kihirdeti.
