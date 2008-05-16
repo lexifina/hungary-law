@@ -1,0 +1,1 @@
+## 1. § E rendelet 1. számú melléklete tartalmazza a nemzeti kulturális örökség minisztere ágazatába tartozó szakképesítések jegyzékét, valamint iskolarendszeren kívüli képzésben a szakmai vizsga szervezésére feljogosított intézményeket. A rendelet 2. számú melléklete tartalmazza a jegyzékben megjelölt szakképesítések szakmai és vizsgakövetelményeit.
