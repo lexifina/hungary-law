@@ -1,0 +1,1 @@
+## 83. § Az R.1. rendelet 46. §-a (6) bekezdésének a) pontjában foglalt előirányzat-módosítási kötelezettséget az éves előirányzatot meghaladó felhasználásra nem kell alkalmazni a XXVI. Foglalkoztatáspolitikai és Munkaügyi Minisztérium fejezet 8. cím, 2. alcím Polgári szolgálat tekintetében.
