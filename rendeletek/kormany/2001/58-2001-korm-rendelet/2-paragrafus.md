@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Jugoszláv Szövetségi Köztársaság Szövetségi Kormánya között, Belgrádban, 1998. szeptember 24-én aláírt, a vámügyekben történő együttműködésről és kölcsönös segítségnyújtásról szóló Megállapodást e rendelettel kihirdeti.
