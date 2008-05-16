@@ -1,0 +1,1 @@
+A közoktatásról szóló 1993. évi LXXIX. törvény 45. §-ának (2) bekezdésében, 94. §-a (1) bekezdésének a), c) és j) pontjában, a szakképzésről szóló 1993. évi LXXVI. törvény 4. §-a (2) bekezdésének g) pontjában kapott felhatalmazás alapján a következőket rendelem el:
