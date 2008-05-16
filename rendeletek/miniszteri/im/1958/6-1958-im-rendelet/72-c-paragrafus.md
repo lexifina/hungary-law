@@ -1,0 +1,9 @@
+72/C. §[^99] (1) Ha a túlélő házastárs és a törvényes örökösök között a haszonélvezeti jog megváltása tárgyában egyezség jön létre, a közjegyző eljárására az 53. § rendelkezései irányadóak. A közjegyző által jóváhagyott egyezségnek a bírósági egyezséggel azonos hatálya van. A közjegyző a hagyatékot az egyezségre is figyelemmel az általános szabályok szerint adja át.
+
+(2) Egyezség hiányában, ha az örökösök között öröklési jogi vita nincs, és a hagyaték teljes hatályú átadásának volna helye, a közjegyző a megváltás kérdésében külön végzéssel dönt. Ennek érdekében – szükség esetében – bizonyítást folytat le, és döntése során figyelembe veszi a haszonélvező jogait és méltányos érdekeit. A költségeket mindegyik fél maga viseli. A közjegyző a hagyatékot a külön végzés jogerőre emelkedése után – a külön végzésben foglaltakra is figyelemmel – teljes hatállyal adja át. Ha a külön végzés jogerőre emelkedésétől számított harminc napon belül a megváltás kérdésében egyik érdekelt sem érvényesíti igényét a bíróság előtt, a közjegyző külön végzése végrehajthatóvá válik, a megváltáshoz fűződő jogok pedig elenyésznek.
+
+(3) Egyezség hiányában, ha az örökösök között öröklési jogi vita van, a közjegyző a hagyatékot a túlélő házastárs haszonélvezeti jogával terhelten a törvényes öröklés általános rendje szerint ideiglenes hatállyal adja át az örökösöknek. A megváltásához fűződő jogait az érdekelt a 60.˙§-ban foglaltaknak megfelelően perrel érvényesítheti. Ha azonban harminc nap alatt igényét nem érvényesíti, a megváltáshoz fűződő jogok elenyésznek.
+
+(4) Ha a bíróság utóbb öröklési jogi vita felől dönt, és ez a megváltás alapjául szolgáló hagyaték megosztása tekintetében változást eredményezhet, az érdekelt a megváltáshoz fűződő jogát a bíróság előtt legkésőbb az első fokú határozat meghozatalát megelőző tárgyalás berekesztéséig érvényesítheti.
+
+[^99]: A 72/C. §-t a 3/1978. (III. 16.) IM˙rendelet 9. §-a iktatta be.

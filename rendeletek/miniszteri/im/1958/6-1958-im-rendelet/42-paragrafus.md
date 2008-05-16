@@ -1,0 +1,7 @@
+42. §[^60] (1) Ha az örökös ismeretlen helyen tartózkodik, a közjegyző a tárgyalás kitűzésével egyidejűleg hirdetményt bocsát ki, amelyet az örökös utolsó ismert belföldi lakóhelye — ennek hiányában tartózkodási helye — szerint illetékes polgármesteri hivatalnál tizenöt napig kell kifüggeszteni. Az érdekeltek kérelmére és a költségek megelőlegezése mellett a hirdetményt országos napilapban is közzé lehet tenni.
+
+(2) A hirdetményben az örököst fel kell hívni, hogy a tárgyaláson személyesen vagy képviselője által jelenjék meg. Ha az örökös vagy a képviselője a tárgyaláson nem jelenik meg, a közjegyző a részére ügygondnokot rendel ki. Az ügygondnok az örökös eljárásba lépéséig, de legfeljebb a jogerős hagyatékátadó végzés meghozataláig jár el. Erről a hirdetményben tájékoztatni kell az örököst.
+
+(3) Ha az eljárás során az derül ki, hogy a hagyatékban olyan személy is örökösként érdekeltnek látszik, akinek a személyi adatai — részben vagy egészben — ismeretlenek, őt a közjegyző hirdetmény útján idézi a tárgyalásra, és egyúttal felhívja, hogy igényét harminc napon belül jelentse be. A közjegyző figyelmezteti az ismeretlen örököst, hogy ha a tárgyaláson nem jelenik meg, vagy igényét a megadott határidőn belül nem jelenti be, az eljárás további szakaszában igényét figyelmen kívül kell hagyni. A hirdetmény közzétételére az (1) bekezdés rendelkezéseit kell alkalmazni.
+
+[^60]: A 42. § a 8/1995. (III. 8.) IM rendelet 7. §-ával megállapított szöveg.
