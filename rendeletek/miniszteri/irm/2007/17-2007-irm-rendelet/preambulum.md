@@ -1,0 +1,1 @@
+A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény (a továbbiakban: Ást.) 46. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:

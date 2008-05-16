@@ -1,0 +1,3 @@
+## 1. §[^1] A rendőrség minden sértettnek – akkor, amikor az adott ügyben a rendőrséggel először kerülnek kapcsolatba – átadja a területi igazságügyi hivatal áldozatsegítő szolgálata által a rendőrségre eljutatott tájékoztatót, egyúttal szóban felhívja figyelmüket az áldozatsegítés lehetőségére és arra, hogy az Ást. szerinti áldozatsegítő támogatások igénybevételéhez szükséges igazolást a rendőrség kérelmükre kiállítja. A tájékoztató átadásáról és a szóbeli figyelemfelhívásról feljegyzést kell készíteni, amit az ügyirathoz csatolni kell.
+
+[^1]: Az 1. § a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 28. pontja szerint módosított szöveg.
