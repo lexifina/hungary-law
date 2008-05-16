@@ -1,0 +1,1 @@
+## Hatásfok megkülönböztető jelölés
