@@ -1,0 +1,1 @@
+A büntetőeljárásról szóló 1973. évi I. törvény 404. §-a (1) bekezdésének c) pontjában, valamint a Polgári perrendtartásról szóló 1952. évi III. törvény 187. §-ában foglalt felhatalmazás alapján — az érdekelt miniszterekkel, a Legfelsőbb Bíróság elnökével és a legfőbb ügyésszel egyetértésben — a következőket rendelem el:
