@@ -1,0 +1,5 @@
+## 5. § Azt a személyt, aki több nyugdíjszerű rendszeres szociális ellátásban részesül, az e rendeletben meghatározott emelések ellátásonként külön-külön is megilletik.
+
+6. § (1) Az 1. § (2) és (4) bekezdése szerint megemelt nyugdíjszerű rendszeres szociális ellátások fedezetét a központi költségvetés a Nyugdíjbiztosítási Alapnak megtéríti.
+
+(2) Az összegek átutalásának, illetőleg elszámolásának módjáról és időpontjáról a Pénzügyminisztérium, az Országos Nyugdíjbiztosítási Főigazgatóság és az Ifjúsági, Családügyi, Szociális és Esélyegyenlőségi Minisztérium megállapodást köt.
