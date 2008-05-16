@@ -1,0 +1,1 @@
+A Kormány — a Magyar Nemzeti Bank elnökével egyetértésben — az Egzisztencia hitelről és részletfizetési kedvezményről szóló 28/1991. (II. 21.) Korm. rendeletet (a továbbiakban: R.) a következőképpen módosítja:
