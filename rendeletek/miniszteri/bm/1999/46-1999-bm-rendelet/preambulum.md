@@ -1,0 +1,1 @@
+A közterület-felügyeletről szóló 1999. évi LXIII. törvény (a továbbiakban: Kftv.) 29. §-ának b) pontjában foglalt felhatalmazás alapján a közterület-felügyelők egyenruhájáról, jelvényéről, szolgálati igazolványáról, valamint a közterület-felügyelőkről és a számukra kiadott jelvényről, szolgálati igazolványról vezetett központi nyilvántartásról, a következőket rendelem el:

@@ -1,0 +1,3 @@
+## 10. §[^1] Az igazolvány elkészíttetéséről az Igazságügyi és Rendészeti Minisztérium (a továbbiakban: IRM) gondoskodik a körzetközponti okmányiroda, illetve a Közgazgatási és Elektronikus Közszolgáltatások Központi Hivatal (a továbbiakban: KEKKH) útján. A felügyelői jelvény elkészíttetéséről, továbbá az igazolvány és a felügyelői jelvény kibocsátásáról az IRM gondoskodik. Az igazolvány és jelvényellátás, továbbá az igazolvány, a jelvény és a felügyelők központi nyilvántartásának szabályait a 3. számú melléklet tartalmazza.
+
+[^1]: A 10. § a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 16. pontja szerint módosított szöveg.

@@ -1,0 +1,1 @@
+## 9. § A felügyelő 2. számú melléklet szerinti szolgálati igazolványa (a továbbiakban: igazolvány) – a jelvénnyel együtt – igazolja, hogy annak jogos birtokosa felügyelő, hivatalos személy és jogosult a Kftv.-ben meghatározott intézkedések megtételére.
