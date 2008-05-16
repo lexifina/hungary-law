@@ -1,0 +1,1 @@
+A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 43. §-ának (4) bekezdésében foglalt felhatalmazás alapján, a Munkaerőpiaci Alap Irányító Testülete véleményének meghallgatásával a Kormány a következőket rendeli el:
