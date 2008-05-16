@@ -1,0 +1,1 @@
+Az államháztartásról szóló 1992. évi XXXVIII. törvény 91/A. §-ának (3) bekezdésében foglalt felhatalmazás alapján, figyelemmel a törvény 90. §-a (1) bekezdésének c) pontjában foglaltakra, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. §-a (3) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
