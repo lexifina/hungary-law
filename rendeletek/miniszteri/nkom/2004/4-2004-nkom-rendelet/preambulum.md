@@ -1,0 +1,1 @@
+A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 70. §-ának (3) bekezdésében és a 100. §-a (3) bekezdésének u) pontjában foglalt felhatalmazás alapján – a belügyminiszterrel és a pénzügyminiszterrel egyetértésben – a következőket rendelem el:

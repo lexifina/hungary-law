@@ -1,0 +1,9 @@
+# 4/2004. (II. 20.) NKÖM rendelet
+
+a helyi önkormányzatok könyvtári és közművelődési érdekeltségnövelő támogatásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-4-20-86
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-05-16 | 2004-4-20-86.4 | 4/2004. (II. 20.) NKÖM rendelet |
