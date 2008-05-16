@@ -1,0 +1,1 @@
+## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között Stockholmban az 1981. évi október hó 12. napján aláírt, a jövedelem- és a vagyonadók területén a kettős adóztatás elkerüléséről szóló egyezményt e rendelettel kihirdeti.
