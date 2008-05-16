@@ -1,0 +1,1 @@
+## 13. § A katasztrófavédelmi munkák során szükség esetén a KOB vagy a KOCS-okat működtető szervezetek vezetőinek javaslata alapján a kijelölt végrehajtó szervezetektől eltérő szervezet is kialakítható és felkészítés után alkalmazható.
