@@ -1,0 +1,1 @@
+## 2. § Az e rendeletben műemléki védettség alá helyezett építmények fenntartására, jó karban tartására a műemlék tulajdonosa, vagyonkezelője, illetve a tulajdonosi jogok gyakorlója, továbbá jogszabályban meghatározott esetekben ingyenes használója a Tv. rendelkezései szerint köteles gondoskodni.
