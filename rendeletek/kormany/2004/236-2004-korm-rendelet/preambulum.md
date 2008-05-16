@@ -1,0 +1,1 @@
+A Kormány az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 182. §-a (2) bekezdésének m) pontjában, valamint a postáról szóló 2003. évi CI. törvény (a továbbiakban: Pt.) 53. §-a (1) bekezdésének f) pontjában kapott felhatalmazás alapján a következőket rendeli el:
