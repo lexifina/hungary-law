@@ -1,0 +1,1 @@
+A Kormány a Nemzetközi Tengerészeti Szervezetről szóló 1948. évi egyezménynek az 1993. évi módosításokkal egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2003. évi LXXIX. törvény 4. §-ának (2) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. §-ának (1) bekezdésének b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
