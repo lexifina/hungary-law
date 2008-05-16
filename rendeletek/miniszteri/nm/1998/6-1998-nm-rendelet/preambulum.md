@@ -1,0 +1,1 @@
+Az egészségügy társadalombiztosítási finanszírozásának egyes kérdéseiről szóló – többször módosított – 103/1995. (VIII. 25.) Korm. rendelet 20. §-ának (13) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
