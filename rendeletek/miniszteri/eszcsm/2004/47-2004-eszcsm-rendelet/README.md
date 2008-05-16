@@ -1,0 +1,9 @@
+# 47/2004. (V. 11.) ESZCSM rendelet
+
+az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-47-20-0M
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-05-16 | 2004-47-20-0M.6 | 47/2004. (V. 11.) ESZCSM rendelet |

@@ -1,0 +1,1 @@
+Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 28. §-a (2) bekezdésében és az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 247. §-a (2) bekezdésének f) pontjában kapott felhatalmazás alapján az egészségügyi ellátás folyamatos hozzáférésének biztosítása érdekében az alábbiakat rendelem el:
