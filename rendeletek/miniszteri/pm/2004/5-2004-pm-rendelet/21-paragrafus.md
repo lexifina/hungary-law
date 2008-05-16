@@ -1,0 +1,1 @@
+## 20. § Az elszámolóház a saját értékpapírjairól, valamint a befektetési szolgáltatónak nem minősülő ügyfelei értékpapírra vonatkozó követeléseiről, valamint ezen értékpapírok őrzési helyéről naponta készített jelentését a tárgynapot követő második munkanap végéig eljuttatja a Felügyelethez.

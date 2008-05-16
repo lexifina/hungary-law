@@ -1,0 +1,3 @@
+## 16. §[^9] Az árutőzsdei szolgáltatást nyújtó és a külföldi befektetési szolgáltató árutőzsdei szolgáltatást nyújtó magyarországi fióktelepe a tőzsdei áruügyletekre vonatkozó bizományosi és saját számlás szolgáltatási tevékenység keretében képződő nyitott pozíciók fedezetéről a tárgyhét utolsó munkanapjára vonatkozóan készített jelentését a tárgyhetet követő hét 2. munkanapjának végéig eljuttatja a Felügyelethez.
+
+[^9]: A 16. § az 54/2005. (XII. 28.) PM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést először a 2006. január hónapra vonatkozó jelentések esetében kell alkalmazni.
