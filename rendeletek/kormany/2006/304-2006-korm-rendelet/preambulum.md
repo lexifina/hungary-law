@@ -1,0 +1,1 @@
+A Kormány az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (Iat.) 135. §-a (1) és (2) bekezdésében, valamint az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény 31. §-ának (4) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
