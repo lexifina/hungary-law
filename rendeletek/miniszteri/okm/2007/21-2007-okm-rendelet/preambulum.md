@@ -1,0 +1,1 @@
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (2) bekezdésének d) és f) pontjában kapott felhatalmazás alapján az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. § d) pontja szerinti feladatkörömben eljárva a következőket rendelem el:
