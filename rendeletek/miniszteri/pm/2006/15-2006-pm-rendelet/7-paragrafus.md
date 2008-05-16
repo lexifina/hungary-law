@@ -1,0 +1,9 @@
+7. § (1) Az Eximbank a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet 1. §-ának (2) bekezdése, 11/A. §-ának (13) bekezdése, a Mehib Rt. a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet 8. §-ának (2) bekezdése b) pontja hatálya alá tartozó ügyletek vonatkozásában az Európai Bizottság jóváhagyásának kézhezvételéig a központi költségvetéssel nem számolhat el, és ezen ügyletekre a jelen rendeletben előírt adatszolgáltatási kötelezettségük nem áll fenn.
+
+(2) Az (1) bekezdésben szereplő, az Európai Bizottság részéről történő jóváhagyás alatt a következőt kell érteni: a Bizottságnak a tagállamokhoz címzett közleménye az EK-Szerződés 93. cikkének (1) bekezdése értelmében a Szerződés 92. és 93. cikkének a rövid lejáratú exporthitelek biztosítására vonatkozó alkalmazásáról (HL C 281. szám, 1997. 9. 17., 4. o.) 2.5. és 4.4. pontja szerinti jóváhagyás, tekintetbe véve
+
+a) a Bizottságnak a tagállamokhoz címzett közleményét az EK-Szerződés 93. cikkének (1) bekezdése értelmében, a Szerződés 92. és 93. cikkének a rövid lejáratú exporthitel-biztosításra történő alkalmazásáról szóló közlemény módosításáról (HL C 217. szám, 2001. 8. 2., 2. o.);
+
+b) a Bizottságnak a tagállamokhoz címzett közleményét az EK-Szerződés 93. cikkének (1) bekezdése értelmében a Szerződés 92. és 93. cikkének a rövid lejáratú exporthitel-biztosításra történő alkalmazásáról szóló közlemény módosításáról (HL C 325. szám, 2004. 12. 11., 12. o.);
+
+c) a Bizottságnak a tagállamokhoz címzett közleményét az EK-Szerződés 93. cikkének (1) bekezdése értelmében a Szerződés 92. és 93. cikkének a rövid lejáratú exporthitel-biztosításra történő alkalmazásáról szóló közlemény módosításáról (HL C 325. szám, 2005. 12. 22., 22. o.).
