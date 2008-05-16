@@ -1,0 +1,1 @@
+Az élelmiszerekről szóló 2003. évi LXXXII. törvény 20. §-ának (10) bekezdésében foglalt felhatalmazás alapján – a földművelésügyi és vidékfejlesztési miniszterrel egyetértésben – a következőket rendelem el:
