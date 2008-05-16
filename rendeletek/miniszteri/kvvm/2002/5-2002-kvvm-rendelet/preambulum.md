@@ -1,0 +1,1 @@
+A hulladékgazdálkodásról szóló 2000. évi XLIII. törvény (a továbbiakban: Hgt.) 59. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján, az érdekelt miniszterekkel egyetértésben, a következőket rendelem el:
