@@ -1,0 +1,1 @@
+A csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló — többször módosított — 1991. évi IL. törvény (a továbbiakban: Cstv.) 48. §-ának (4) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:

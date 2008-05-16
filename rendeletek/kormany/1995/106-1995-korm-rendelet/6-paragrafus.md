@@ -1,0 +1,5 @@
+6. § (1) A gazdálkodó szervezetnek a környezeti állapotvizsgálatot szakértővel kell elvégeztetnie. A szakértő nem lehet azonos a felszámolás alatt álló gazdálkodó szervezettel. A szakértő személy, vagy a szakértő szervezet tagja, vezetője, alkalmazottja, valamint ezek közeli hozzátartozója [Ptk. 685. § b) pont] nem lehet a felszámolás alatt álló gazdálkodó szervezet tagja, vezetője vagy alkalmazottja.
+
+(2) A 17. § szerinti jogszabály hatálybalépéséig szakértőnek minősül az a Ptk. 685. § c) pont szerinti gazdálkodó szervezet, melynek alkalmazottai vagy tagjai között találhatók a 2. számú melléklet 2.1—2.8. pontjainak — részleges állapotvizsgálat esetén az ezen belül megjelölt vizsgálati területeknek — összességükben megfelelő, felsőfokú szakirányú végzettséggel és szakértői engedéllyel rendelkező személyek. Az állapotvizsgálatban e személyeknek részt kell venniük.
+
+(3) A szakértő a tevékenysége körében okozott kár megtérítéséért a Polgári Törvénykönyv, valamint a szakértői működésről rendelkező jogszabályok szabályai szerint felel.

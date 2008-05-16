@@ -1,0 +1,7 @@
+## Egyszerűsített felszámolás
+
+11. § (1) Amennyiben az előírt környezeti állapotvizsgálat elvégzésére, vagy a környezeti károsodások, környezeti terhek rendezésére a vagyon nem nyújt fedezetet, a felszámolónak a bíróságnál egyszerűsített felszámolást kell kezdeményeznie.
+
+(2) A felszámolónak az egyszerűsített felszámolás írásbeli előkészítése során figyelembe kell vennie a nyilatkozat, illetve, ha környezeti állapotvizsgálat elvégzésre került, annak hatósági elbírálását, valamint ezzel összhangban a vagyonfelosztási javaslat kialakítása során a vagyontárgyakhoz fűződő környezeti terheket.
+
+(3) A (2) bekezdés szerinti terhekkel kapcsolatos, még végre nem hajtott hatósági határozat esetén az írásbeli előkészítést a felszámoló a felügyelőségnek véleményezésre megküldi. A véleményezés határideje 15 nap. Amennyiben a felügyelőség a határidőn belül nem közli véleményét, úgy kell tekinteni, hogy nem kíván véleményt nyilvánítani.
