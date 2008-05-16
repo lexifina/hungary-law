@@ -1,0 +1,3 @@
+7. § (1) Az osztályba sorozás eredményét az ingatlan-nyilvántartásban fel kell tüntetni. A különböző minőségi osztályokba tartozó földrészletek minőségi osztályának és kataszteri tiszta jövedelmének megállapítása során az egyes minőségi osztályokba tartozó területek közül azokat, amelyeknek a területe a földrészleten belül a 400 m2-t nem éri el, a mellette lévő nagyobb területű minőségi osztály területénél kell figyelembe venni.
+
+(2) Ha az ingatlan-nyilvántartási térkép számítógépen kezelhető formában áll rendelkezésre, a talajfoltok határvonalát, valamint a földminősítési mintatereket – a rendelet 6. §-ának (1)–(2) bekezdésben foglaltak kivételével – a munkatérkép alapján kell az adatbázisban nyilvántartani.
