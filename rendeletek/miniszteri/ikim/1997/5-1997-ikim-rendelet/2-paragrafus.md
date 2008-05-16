@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya az ipari, kereskedelmi és idegenforgalmi tevékenységet folytató jogi személyekre, jogi személyiséggel nem rendelkező gazdasági társaságokra és egyéni vállalkozókra terjed ki.
