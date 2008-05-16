@@ -1,0 +1,1 @@
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) végrehajtásáról rendelkező 217/1997. (XII. 1.) Korm. rendelet 10/A. §-ában meghatározottaknak megfelelően a Társadalombiztosítási Ár- és Támogatási Bizottság (a továbbiakban: TÁTB) feladat- és hatásköréről, valamint működésének rendjéről a következő rendeletet alkotja:
