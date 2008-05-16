@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében, valamint a mérésügyről szóló 1991. évi XLV. törvény végrehajtására kiadott, a 42/1995. (IV. 19.) Korm. rendelettel módosított 127/1991. (X. 9.) Korm. rendelet 14. §-ában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
