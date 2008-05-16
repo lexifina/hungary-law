@@ -1,0 +1,1 @@
+A felnőttképzésről szóló 2001. évi CI. törvény 4. §-a (3) bekezdésének b) pontjába foglalt felhatalmazás alapján, a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 3. §-ának e) pontjában megállapított feladatkörömben eljárva a következőket rendelem el:
