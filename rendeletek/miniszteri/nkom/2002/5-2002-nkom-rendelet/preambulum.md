@@ -1,0 +1,1 @@
+Az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 90. §-a (1) bekezdésének c) pontja és 91/A. §-ának (3) bekezdése, valamint az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet 11. §-a alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:

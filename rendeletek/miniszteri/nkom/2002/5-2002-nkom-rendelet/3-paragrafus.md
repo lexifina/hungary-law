@@ -1,0 +1,1 @@
+## 2. § A megszüntetésre kerülő intézmény alaptevékenysége: előadóművészeti tevékenység, amelynek ellátására az Áht. 91/A. §-ának (3) bekezdése alapján jogutódként a 2002. január 1-jén megalapított Magyar Nemzeti Filharmonikus Zenekar, Énekkar és Kottatár Közhasznú Társaságot jelölöm ki. A közhasznú társaság feladatai ellátása során használhatja a Magyar Köztársaság címerét.

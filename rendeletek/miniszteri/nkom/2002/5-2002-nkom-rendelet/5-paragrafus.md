@@ -1,0 +1,1 @@
+## 4. § A megszüntetésre kerülő intézménynél foglalkoztatottak közalkalmazotti jogviszonya a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. §-a alapján 2001. december 31-én szűnik meg. A közhasznú társaság 2002. január 1-jei kezdő időponttal köt szerződést azokkal az alkalmazottakkal, akiknek továbbfoglalkoztatásáról határozott.
