@@ -1,0 +1,1 @@
+## 6. § A Krt. 12. §-ának (3) bekezdésében meghatározott fizetési határidőig meg nem fizetett felügyeleti díj után késedelmi pótlékot kell fizetni, amelynek megállapításánál az adózás rendjéről szóló 1990. évi XCI. törvény előírásai irányadók.
