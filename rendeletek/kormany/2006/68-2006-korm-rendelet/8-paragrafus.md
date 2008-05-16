@@ -1,0 +1,11 @@
+8. § (1) Az FTT Testülete elnökét a Testület tagjai közül titkos szavazással választja meg.
+
+(2) Az FTT Testülete elnökét megválasztó testületi ülés akkor határozatképes, ha azon a tagok legalább kétharmada (legalább 13 fő) jelen van. Az elnök megválasztásához a testületi tagok több mint felének (legalább 10 fő) egyetértő szavazata szükséges.
+
+(3) Az elnökválasztás eredménytelensége esetén tizenöt napon belül újabb testületi ülést kell összehívni. Elnökké az FTT Testületének azon tagja választható meg, aki a jelenlévő tagok szavazatának több mint felét megszerezte. Amennyiben – többes jelölés esetén – egyik jelölt sem kapta meg a megválasztáshoz szükséges szavazatot, a szavazást oly módon kell folytatni, hogy az előző fordulóban legkevesebb szavazatot kapott jelölt az újabb fordulókban már nem vehet részt. A szavazást addig kell folytatni, amíg egy jelölt a jelenlévő tagok szavazatának több mint felét megszerezte. Amennyiben két jelölt közül egyik sem kapja meg a jelenlévő tagok szavazatának több mint felét, és az újabb szavazási eljárás sem vezet eredményre, tizenöt napon belül újabb ülést kell összehívni. Amennyiben a harmadik ülésen sem sikerül elnököt választani, a miniszterelnök a miniszter előterjesztésére az FTT Testületét – hat hónapos határidővel – feloszlatja, és a miniszter újabb delegálási eljárást indít, melynek idejére ügyvezető elnököt nevez ki.
+
+(4) Az FTT elnöke – valamint az ennek jelölt személy – amennyiben egyidejűleg más közhasznú szervezetnél is tölt be vezető tisztséget, erről köteles valamennyi érintett közhasznú szervezetet előzetesen tájékoztatni.
+
+(5) Nem lehet az FTT elnöke, aki a választás időpontját megelőző két éven belül megszűnt olyan közhasznú szervezetnél töltött be a megszűnést megelőző két éven belül legalább egy évig vezető tisztséget, amely az adózás rendjéről szóló törvény szerinti köztartozását nem egyenlítette ki.
+
+(6) Az FTT Testülete az elnök megbízásának visszavonására tesz javaslatot, amennyiben azt a miniszter, illetve az FTT Testületének valamely tagja írásos indoklással kezdeményezi, és a tagok legalább kétharmados jelenléte (legalább 13 fő) mellett a tagok többsége azt támogatja. Az elnök megbízásának visszavonására a megbízással azonos rendben kerül sor.
