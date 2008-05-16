@@ -1,0 +1,3 @@
+7. § (1) Tanulmányi támogatásban kell részesíteni a személyi állomány tagját, ha részére előírt oktatásban, képzésben vesz részt. Ez esetben a képzés során felmerülő költségeket (tandíj, vizsgadíj, tankönyv, jegyzet, utazási és szállás költség) a belügyi szerv teljes mértékben megtéríti.
+
+(2) Tanulmányi támogatásban részesíthető a személyi állomány azon tagja, aki a munkáltató által támogatott oktatásban vesz részt, és szociális helyzete miatt az azzal járó költségek aránytalan nehézségeket okoznak számára. Tanulmányi támogatásként – a költségvetési lehetőségek függvényében – az (1) bekezdésben meghatározott költségek legfeljebb 50%-át lehet folyósítani.

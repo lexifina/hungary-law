@@ -1,0 +1,3 @@
+3. § (1) A belügyi szerveknél – az e rendelet és más jogszabályok alapján meghatározott – a szociális támogatások körültekintő felhasználásának biztosítására, a személyi állomány szociális helyzetének folyamatos figyelemmel kísérésére, az igényjogosultság megállapítására és elbírálására szociális bizottságok bevonásával a szerv vezetője a személyügyi szolgálat útján köteles intézkedni.
+
+(2) A szervek személyügyi szolgálatai a szociális bizottságokkal és a társadalmi és érdekképviseleti szervekkel együttműködve figyelemmel kísérik a személyi állomány szociális helyzetét, nyilvántartja a tartósan gondozásra szorulókat, folyamatos kapcsolatot tartanak a gondozottakkal, szükség esetén a szociális ügyeik intézéséhez részükre felvilágosítást adnak.
