@@ -1,0 +1,9 @@
+## 10. § A postai szolgáltató köteles meg-, illetve visszaküldeni a titkos információgyűjtés során vagy céljából keletkezett adatokat tartalmazó, e célra fenntartott adathordozók valamennyi példányát a titkos információgyűjtésre felhatalmazott szervezetnek, illetve köteles az adatok átadása után a saját rendszerében keletkezett adatok visszavonhatatlan törléséről gondoskodni. Ezekről az adatokról másolatot nem készíthet, és másodpéldányt nem tárolhat. Nem jogosult továbbá a titkos információgyűjtéssel összefüggésben tudomására jutott, birtokába került adatok gyűjtésére, archiválására.
+
+11. § (1) A postai szolgáltató alkalmazottai abban az esetben vonhatóak be a titkos információgyűjtésre felhatalmazott szervezetek részére végzett szolgáltatás teljesítésébe, ha a titkos információgyűjtés műszaki eszközökkel vagy egyéb műszaki jellegű megoldással nem valósítható meg.
+
+(2) A postai szolgáltató alkalmazottainak bevonása esetén a postai szolgáltató kötelezettsége olyan technológiai, szervezeti megoldás alkalmazása, amely postai tevékenység végrehajtásával leplezi a titkos információgyűjtés alkalmazásának támogatását.
+
+(3) A titkos információgyűjtéssel összefüggő tevékenység végzésében – amennyiben az szükségszerűen együtt jár minősített adatok megismerésével – a postai szolgáltatónak csak azok az alkalmazottai vehetnek részt, akik a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott, a minősítésnek megfelelő szintű nemzetbiztonsági ellenőrzésen megfeleltek, betekintési jogosultsággal rendelkeznek és titoktartási nyilatkozatot tettek.
+
+(4) A postai szolgáltató az igényelt szolgáltatás teljesítésébe bevont alkalmazottai részére olyan feladatkört és jogosultságot köteles biztosítani, amely lehetővé teszi e tevékenység titkos – a titkos információgyűjtésre felhatalmazott szervezet törvényes igényeinek megfelelő –, késedelem nélküli ellátását.

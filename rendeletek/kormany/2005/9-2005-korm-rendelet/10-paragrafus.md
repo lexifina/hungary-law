@@ -1,0 +1,1 @@
+## 9. § A titkos információgyűjtésre felhatalmazott szervezetek a postai szolgáltató számára csak azokat az adatokat továbbíthatják, amelyek a titkos információgyűjtés végrehajtása érdekében a postai szolgáltatóra háruló kötelezettségek teljesítéséhez elengedhetetlenül szükségesek.
