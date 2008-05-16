@@ -1,0 +1,1 @@
+A közoktatásról szóló 1993. évi LXXIX. törvény 94. §-a (1) bekezdésének h) pontjában foglalt felhatalmazás alapján, az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 3. § (1) bekezdés a) pontjában, valamint 4. § (2) bekezdés a) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
