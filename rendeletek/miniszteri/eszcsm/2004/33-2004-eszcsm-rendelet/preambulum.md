@@ -1,0 +1,1 @@
+A kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdése a) pontjának aa)–ah) alpontjaiban kapott felhatalmazás alapján – a 12. § tekintetében a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
