@@ -1,0 +1,1 @@
+Az egészségügyi szakellátási kötelezettségről, továbbá egyes egészségügyet érintő törvények módosításáról szóló 2001. évi XXXIV. törvény 13. §-ának (4) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
