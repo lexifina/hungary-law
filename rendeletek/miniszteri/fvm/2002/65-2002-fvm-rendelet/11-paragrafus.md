@@ -1,0 +1,1 @@
+## 10. § A szarvasmarhák gümőkór elleni védőoltása vagy gyógyítása tilos. E szabály alól a Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) tudományos vizsgálatok végzése érdekében kivételt tehet.
