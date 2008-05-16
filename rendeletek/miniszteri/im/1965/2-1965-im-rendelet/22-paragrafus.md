@@ -1,0 +1,1 @@
+## 21. § Ha a csekk valakinek a birtokából bármi módon elvész, az új csekkbirtokos azt csak akkor köteles kiadni – legyen az bemutatóra szóló csekk vagy olyan átruházható csekk, amelyhez jogát a 19. § szerint igazolja –, ha rosszhiszeműen szerezte, vagy ha a megszerzéssel kapcsolatban súlyos gondatlanságot követett el.

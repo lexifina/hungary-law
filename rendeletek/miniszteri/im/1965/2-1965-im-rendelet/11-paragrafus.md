@@ -1,0 +1,1 @@
+## 10. § Ha a csekken olyan személy aláírása szerepel, aki csekk-kötelezettséget nem vállalhat, vagy ha azon hamis aláírás, nem létező személy aláírása vagy olyan aláírás van, amely – bármely más okból – nem kötelezi az aláírót vagy azt a személyt, akinek nevében a csekket aláírták, ez a többi aláíró kötelezettségét nem érinti.

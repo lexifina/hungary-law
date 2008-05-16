@@ -1,0 +1,1 @@
+## 3. § A csekk címzettje olyan bank, amelynél a kibocsátónak követelése áll fenn; a kibocsátás alapja olyan kifejezett vagy hallgatólagos megállapodás, amely szerint a kibocsátó jogosult a követeléssel csekk útján rendelkezni. Ha azonban a csekk ezeknek az előírásoknak nem felel meg, ez az okiratnak, mint csekknek, érvényességét nem érinti.

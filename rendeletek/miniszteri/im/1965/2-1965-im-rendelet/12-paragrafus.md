@@ -1,0 +1,1 @@
+## 11. § Ha valaki csekket ír alá olyan személy képviselőjeként, akinek képviseletére nem jogosult, a csekk alapján maga válik kötelezetté; ha fizet, ugyanazok a jogok illetik meg, mint amelyek az állítólagos képviseltet illették volna. Ugyanez áll az olyan képviselőre, aki a képviseleti jog határait túllépte.

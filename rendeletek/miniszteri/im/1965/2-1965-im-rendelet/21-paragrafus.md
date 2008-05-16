@@ -1,0 +1,1 @@
+## 20. § A bemutatóra szóló csekken szereplő csekkátruházó nyilatkozat alapján az átruházó a megtérítési igényre vonatkozó rendelkezések szerint kötelezetté válik; de ezzel az okirat nem alakul át rendeletre szóló csekké.

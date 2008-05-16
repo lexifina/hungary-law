@@ -1,0 +1,5 @@
+43. § (1) A kibocsátó, bármelyik átruházó vagy kezes a csekkre írt és aláírt ilyen kikötéssel: „költség nélkül”, „óvás nélkül”, vagy más, azonos értelmű nyilatkozattal felmentheti a csekkbirtokost az alól, hogy megtérítési igényének érvényesítése végett óvást vétessen fel, vagy azonos hatályú nyilatkozatot állíttasson ki.
+
+(2) Ez a kikötés nem menti fel a csekkbirtokost sem az alól, hogy a csekket a megszabott határidőben bemutassa, sem az alól, hogy a kötelező értesítéseket teljesítse. A határidő elmulasztásának bizonyítása azt terheli, aki arra a csekkbirtokossal szemben hivatkozik.
+
+(3) Ha a kikötés a kibocsátótól ered, az a csekknek minden aláírójára kihat; ha pedig valamelyik átruházótól vagy kezestől származik, csak ezzel szemben érvényes. Ha a csekkbirtokos a kibocsátótól eredő kikötés ellenére óvást vétet fel vagy azzal azonos hatályú nyilatkozatot állíttat ki, köteles viselni ennek költségét. Ha a kikötés valamelyik átruházótól vagy kezestől származik , az óvás vagy azonos hatályú nyilatkozat költsége a csekk bármelyik aláírójától behajtható.
