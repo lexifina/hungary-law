@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom és a 9/1991. (IV. 26.) KTM rendelettel létesített Boronka-melléki Tájvédelmi Körzethez csatolom a Marcali 0346, Nagybajom 0272, 0278, 0282/1, 0282/a, 0282/c, 0284, 0288, 0289, 0295/3, 0299/7, 0301, 0303–0306, 0308, 0313/1, 0316/1, 0875/6, 0876, 0878, 0421–0423 ingatlan-nyilvántartási helyrajzi számú összesen 399,5 hektár kiterjedésű területet.
