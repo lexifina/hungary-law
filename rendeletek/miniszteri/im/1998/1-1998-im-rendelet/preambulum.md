@@ -1,0 +1,1 @@
+A Polgári perrendtartás (Pp.) 84. §-ának (3) bekezdésében és 88. §-ában foglalt felhatalmazás alapján a pénzügyminiszterrel – a 17. § (2) bekezdése tekintetében a belügyminiszterrel és a legfőbb ügyésszel is – egyetértésben a következőket rendelem el:
