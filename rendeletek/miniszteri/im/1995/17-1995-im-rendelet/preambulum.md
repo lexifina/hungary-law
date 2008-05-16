@@ -1,0 +1,1 @@
+A Polgári Perrendtartás (Pp.) 84. §-ának (3) bekezdésében és 88. §-ában foglalt felhatalmazás alapján — a pénzügyminiszterrel egyetértésben — a költségmentesség alkalmazásáról a bírósági eljárásban című 6/1986. (VI. 26.) IM rendeletet (a továbbiakban: R.) a következők szerint módosítom:
