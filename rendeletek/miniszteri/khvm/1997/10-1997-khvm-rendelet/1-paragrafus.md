@@ -1,0 +1,3 @@
+## I.
+
+## A rendelet hatálya
