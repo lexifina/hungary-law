@@ -1,0 +1,5 @@
+8. §[^14] (1) A belügyi tanúsítványadó, a belügyi vizsgabiztos és a belügyi tanúsító kijelöléséről, nyilvántartásba vételéről, megbízásáról és vezényléséről a rendőrség, a határőrség, a katasztrófavédelem és a Műszaki Fejlesztési Főosztály gondoskodik. A környezetvédelmi felülvizsgálat és ellenőrzés végzésére a belügyi vizsgabiztos is kijelölhető.
+
+(2) A belügyi vizsgabiztosok szakmai képzése és továbbképzése a Közlekedési Főfelügyelet szervezésében felsőfokú oktatási intézmény bevonásával történik. A környezetvédelmi felülvizsgálatot végző belügyi tanúsítók képzését és továbbképzését az oktatásra kijelölt belügyi szervezet, vagy a Közlekedési Főfelügyelet által feljogosított szervezet, illetve személy végzi. A rendszeres környezetvédelmi felülvizsgálat végzéséhez szükséges szakmai ismeretek megszerzésére vonatkozó követelményeket a gépkocsik környezetvédelmi felülvizsgálatáról és ellenőrzéséről szóló 7/2002. (VI. 29.) GKM–BM–KvVM együttes rendelet 10. számú melléklete tartalmazza. A képzés költsége a munkaadót terheli.
+
+[^14]: A 8. § az 55/2004. (IX. 22.) BM rendelet 8. §-ával megállapított szöveg.

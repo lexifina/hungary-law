@@ -1,0 +1,1 @@
+A közúti közlekedésről szóló 1988. évi I. törvény 2. §-ának (4) bekezdésében kapott felhatalmazás alapján a közlekedési és vízügyi miniszterrel és a környezetvédelmi miniszterrel egyetértésben a következőket rendelem el:
