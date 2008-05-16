@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 90. §-a (1) bekezdésének c) pontja alapján a kormányzati irányítás korszerűsítésével megszűnő, országos hatáskörű államigazgatási szerv feladatainak további ellátása érdekében az alábbiakat rendeli el:
