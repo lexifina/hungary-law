@@ -1,0 +1,1 @@
+A Kormány a Miniszterelnöki Hivatal szervezetének átalakításával, vezetési, hatásköri rendjének változásával összefüggő egyes feladat- és hatáskört meghatározó jogszabályok módosításáról a következőket rendeli el:
