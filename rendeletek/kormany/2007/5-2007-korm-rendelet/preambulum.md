@@ -1,0 +1,1 @@
+A Kormány a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 26. §-ának (4) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
