@@ -1,0 +1,5 @@
+12. § (1) Nyilvántartást kell vezetni a rendelet hatálya alá tartozó katonai szervezetekkel szemben fennálló tartozásokról is (tartozások könyve). A nyilvántartás vezetése az önálló pénzüggyel rendelkező szervezetek pénzügyi és számviteli szolgálata, a területi pénzügyi és számviteli igazgatóságok állományából a pénzügyileg ellátott szervezetekhez munkavégzésre kikülönített pénzügyi összekötő csoport vezetője, illetve a pénzügyi referens köteles.
+
+(2) A nyilvántartásnak azokat az adatokat kell tartalmaznia, amelyekből a kötelezett személy (szervezet) azonossága, a tartozás jogcíme és folyamatos alakulása (például részletfizetés, halasztás, mérséklés, törlés stb.) pontosan megállapítható. A tartozások könyvében elkülönítve kell vezetni azokat a károkat is, amelyek közvetlenül pénzben jelentkeznek.
+
+(3) A károk részletes nyilvántartási szabályainak kidolgozása a logisztikai csoportfőnök, a tartozások nyilvántartási szabályainak kialakítása pedig a HM Pénzügyi és Számviteli Hivatal főigazgatója hatáskörébe tartozik.
