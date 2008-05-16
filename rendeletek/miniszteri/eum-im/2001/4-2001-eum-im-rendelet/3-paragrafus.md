@@ -1,0 +1,5 @@
+3. § (1) A közvetítőnek legalább 25 órás közvetítői alapképzésen, majd az alapképzést követő évben, és ezt követően 5 évenként további 25 órás továbbképzésen kell részt vennie. Az alap- és a továbbképző tanfolyam elvégzése után a képzésben részt vevő személyek záróvizsgát tesznek, amelynek során számot adnak arról, hogy a 2. számú melléklet B) pontjában foglalt szakmai követelményeknek eleget tesznek.
+
+(2) Az (1) bekezdésben foglalt egészségügyi közvetítői tanfolyam szervezésére és vizsgáztatásra irányuló tevékenységet csak előzetes engedély birtokában lehet folytatni. Az engedélyt az Egészségügyi Minisztérium – az Igazságügyi Minisztérium egyetértésével – annak adja meg, aki igazolja, hogy az általa szervezett tanfolyam tananyaga megfelel a 2. számú melléklet A) pontjában foglaltaknak, valamint hogy a tanfolyamon oktató személyek szervezett közvetítői képzésben már részt vettek, erről igazolással rendelkeznek, és e területen gyakorlatot szereztek.
+
+(3) A továbbképző tanfolyam célja, hogy az alaptanfolyamon elsajátított ismereteknek a gyakorlatban történő hasznosítását elősegítse.
