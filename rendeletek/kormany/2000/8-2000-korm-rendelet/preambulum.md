@@ -1,0 +1,1 @@
+A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. §-a (1) bekezdésének a), b), d), e) és f) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
