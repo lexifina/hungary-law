@@ -1,0 +1,1 @@
+## 3. § Az élet- és betegségbiztosítások (egészségbiztosítások) esetében a technikai kamatláb a szerződés tartama alatt nem változtatható, kivéve, ha ezen változásokat – melyekre az 1. §-ban foglaltak vonatkoznak – a szerződésben előre rögzítették a felek.
