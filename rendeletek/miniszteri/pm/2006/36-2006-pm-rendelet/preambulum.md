@@ -1,0 +1,1 @@
+A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 11. §-ának (6) bekezdésében és 38. §-ának (2) bekezdésében kapott felhatalmazás alapján az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendeletet (a továbbiakban: Vhr.) a következők szerint módosítom:
