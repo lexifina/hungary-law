@@ -1,0 +1,1 @@
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 7. §-ában, 36. §-ában és 110. §-a (7) bekezdésének f) pontjában, a vízgazdálkodásról szóló 1995. évi LVII. törvény 14. § (6) bekezdésében, a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény 59. §-ának e) pontjában kapott felhatalmazás alapján a következőket rendeli el:
