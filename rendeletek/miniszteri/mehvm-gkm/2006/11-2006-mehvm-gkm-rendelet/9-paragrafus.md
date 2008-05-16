@@ -1,0 +1,1 @@
+9. § Ez a rendelet az Európai Bizottságnak a strukturális alapok keretében nyújtott támogatások irányítási és ellenőrzési rendszerei tekintetében az 1260/1999/EK tanácsi rendelet végrehajtása részletes szabályairól szóló 438/2001/EK rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
