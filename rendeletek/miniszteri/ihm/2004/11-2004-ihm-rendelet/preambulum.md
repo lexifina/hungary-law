@@ -1,0 +1,1 @@
+Az elektronikus hírközlésről szóló 2003. évi C. törvény 182. §-a (3) bekezdésének g) pontjában, valamint 182. §-a (4) bekezdésének a) pontjában kapott felhatalmazás alapján a következőket rendelem el:
