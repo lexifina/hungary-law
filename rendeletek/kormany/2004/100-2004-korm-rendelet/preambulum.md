@@ -1,0 +1,1 @@
+A Kormány az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 182. §-a (2) bekezdésének b) pontjában kapott felhatalmazás alapján, figyelemmel a honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Hvt.) 8. §-a (1) bekezdésének d) pontjában foglaltakra, a következőket rendeli el:

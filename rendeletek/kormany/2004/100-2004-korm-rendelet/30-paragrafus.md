@@ -1,0 +1,1 @@
+## 29. § A területi elektronikus hírközlési rendszerek átállítása terén szükséges intézkedéseket a megyei védelmi bizottságok határozzák meg gazdaságmozgósítási hatáskörüknek megfelelően, a központi feladatok végrehajtása, illetőleg a területi igazgatás vezetési szükségleteinek kielégítése érdekében.
