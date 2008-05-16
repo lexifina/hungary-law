@@ -1,0 +1,1 @@
+## Vizsgabizonyítvány, gépkezelői igazolvány
