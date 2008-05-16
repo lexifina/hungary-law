@@ -1,0 +1,1 @@
+## 21. § A meghatározott művelet Befogadó Nemzeti Támogatására vonatkozó Megállapodásokat és a Végrehajtási Terveket csak a NATO parancsnokkal és az érintett Küldő Államokkal történt egyeztetés után lehet módosítani.

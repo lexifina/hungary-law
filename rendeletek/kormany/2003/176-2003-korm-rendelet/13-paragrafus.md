@@ -1,0 +1,1 @@
+## 12. § A Befogadó Nemzeti Támogatás tervezéséhez és végrehajtásához szükséges adatokat, a Hvt. 191. §-a (1) bekezdésének d) pontjában és 194. §-ának (1) bekezdésében meghatározottak szerinti adatszolgáltatási kötelezettség elrendelésével, a gazdaságmozgósítási célú adatgyűjtésről szóló hatályos jogszabály alapján kell összegyűjteni.
