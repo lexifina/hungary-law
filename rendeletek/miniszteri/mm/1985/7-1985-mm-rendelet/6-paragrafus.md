@@ -1,0 +1,1 @@
+## 5. § Ha a bejelentő könyvtár az Országos Széchényi Könyvtárnak bejelentett könyvtári anyagot vagy a könyvtári anyag valamely részét (kötetét, évfolyamát stb.) állományából kiiktatja, az Országos Széchényi Könyvtárat erről előzetesen értesíti.
