@@ -1,0 +1,1 @@
+## 17. § Az azbeszt-expozíciónak kitett munkavállalókról a munkáltató nyilvántartást vezet. A nyilvántartás vezetésére és megőrzésére a foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló külön jogszabály előírásait kell alkalmazni.

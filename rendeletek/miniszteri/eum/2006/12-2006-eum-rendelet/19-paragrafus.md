@@ -1,0 +1,1 @@
+## 18. § Az azbeszt okozta foglalkozási eredetű megbetegedéseket (azbesztózis és mesothelioma) a foglalkozás-egészségügyi szolgálat orvosa a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló külön jogszabály előírásai szerint jelenti és tartja nyilván.
