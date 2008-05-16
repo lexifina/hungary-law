@@ -1,0 +1,1 @@
+Az Európai Unió strukturális alapjaiból és a Kohéziós Alapjából származó támogatások hazai felhasználásáért felelős intézményekről szóló 1/2004. (I. 5.) Korm. rendelet (a továbbiakban: Korm. rendelet) 33. § (3) bekezdésének b) pontjában kapott felhatalmazás alapján – figyelemmel a Korm. rendelet 20. §-ának (5) bekezdésében foglaltakra – a következőket rendeljük el:
