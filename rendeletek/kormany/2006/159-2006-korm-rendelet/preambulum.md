@@ -1,0 +1,1 @@
+A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 58. §-ában foglalt, illetve a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101. § (1) bekezdés c), d), g), h), l), n) pontjának felhatalmazása alapján a Kormány a következőket rendeli el:
