@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya kiterjed a versenyzőt, a szabadidős sportolót (a továbbiakban együtt: sportoló), valamint a sportszakembert ellátó, továbbá a sportrendezvényen, szabadidősport eseményen egészségügyi szolgáltatást nyújtó egészségügyi szolgáltatóra, illetve egészségügyi dolgozóra, a sportrendezvény, szabadidősport esemény szervezőjére, továbbá a sportegészségügyi ellátásban részt vevő sportolóra és sportszakemberre.
+
+(2) A rendelet alkalmazásában sportrendezvény az országos sportági szakszövetség vagy az országos sportági szövetség (a továbbiakban együtt: sportszövetség), illetve a sportszervezet által szervezett verseny, mérkőzés.

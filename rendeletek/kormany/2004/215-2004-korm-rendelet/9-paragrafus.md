@@ -1,0 +1,3 @@
+9. § (1) A sportorvosi vizsgálat eredményét a sportszövetség által külön e célra – az OSEI konzultatív hátterével – készített nyomtatványon (sportorvosi engedély) kell nyilvántartani. A sportorvosi engedély sportágtól független kötelező tartalmi elemeit a melléklet tartalmazza. A sportorvosi engedély egyéb egészségügyi adatot nem tartalmazhat.
+
+(2) A rendszeres edzések megkezdésének a feltétele – a melléklet 2. b) alpontja szerinti – „alkalmas” minősítés. Az „alkalmas” minősítés versenyzésre önmagában nem jogosít, ahhoz a külön jogszabályban, valamint a sportszövetség szabályzataiban foglalt további feltételek teljesítése is szükséges. Versenyezni csak – a melléklet 2. b) alpontja szerinti – „versenyezhet” minősítés esetén lehet.
