@@ -1,0 +1,3 @@
+34. § (1) A kiutaló határozatot teljesítés végett az illetékes letétkezelőnek kell megküldeni. Ha a letétet csak a kiutaló határozat jogerőre emelkedése után lehet kiadni, a határozatot csak a jogerőre emelkedés után lehet a letétkezelőnek megküldeni.
+
+(2) A letétkezelő a kiutaló határozatot számszerűség szempontjából megvizsgálja, és – ha nincs akadálya – a kiutalás iránt 8 napon belül intézkedik. Ha a kiutaló határozat a számszerűség szempontjából téves, vagy nem felel meg a 33. § (1) bekezdésében foglaltaknak, azt kijavítás, illetve kiegészítés végett haladéktalanul visszaküldi az eljáró bíróságnak. A bíróság a kijavításról végzéssel határoz.

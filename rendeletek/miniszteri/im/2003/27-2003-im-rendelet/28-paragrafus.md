@@ -1,0 +1,1 @@
+## A letét elfogadásának megtagadása

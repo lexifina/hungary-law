@@ -1,0 +1,3 @@
+17. § (1) Ha a letétkezelő észleli, hogy a postai megküldés során a letétbehelyező lapon az adatok hiányosan kerültek feltüntetésre, 15 napos határidő tűzésével felszólítja a letevőt az adatok pótlására.
+
+(2) Ha a letevő a hiányzó adatokat felhívás ellenére sem pótolja, illetőleg azok a letétkezelő rendelkezésére álló adatok alapján sem állapíthatók meg, a letétkezelő a tárgyat a letevő részére visszaküldi. Ha a letevő neve (elnevezése) vagy címe nem állapítható meg, illetőleg a visszaküldött tárgy részére nem kézbesíthető, vagy pedig a tárgy letéti kezelésre nem alkalmas, a letétkezelő erről a szükséges intézkedések (őrzés, értékesítés stb.) megtétele végett haladéktalanul értesíti a bíróságot.

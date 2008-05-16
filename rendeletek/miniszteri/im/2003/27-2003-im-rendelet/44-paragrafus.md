@@ -1,0 +1,5 @@
+## VI. Fejezet
+
+## AZ ÓVADÉK LETÉTELÉRE VONATKOZÓ
+
+## ELTÉRŐ SZABÁLYOK

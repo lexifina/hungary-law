@@ -1,0 +1,1 @@
+## A letétből történő végrehajtás
