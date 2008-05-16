@@ -1,0 +1,1 @@
+A büntetések és intézkedések végrehajtásáról szóló, többször módosított 1979. évi 11. törvényerejű rendelet (a továbbiakban: Bv. tvr.) 127. §-ának (1) bekezdésében kapott felhatalmazás alapján – a Bv. tvr. 34–35. §-aiban foglaltakra figyelemmel – a legfőbb ügyésszel, a munkaügyi miniszterrel és a pénzügyminiszterrel egyetértésben a következőket rendelem el:

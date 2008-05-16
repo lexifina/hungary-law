@@ -1,0 +1,3 @@
+6. § (1) A kártérítési eljárás keretében a fogvatartottat meg kell hallgatni. A fogvatartott vagy a meghatalmazottja jogosult a bizonyítékok előterjesztésére, indítványozhatja tanúk meghallgatását, egyéb bizonyítékok beszerzését.
+
+(2) A kártérítési eljárásban a fogvatartottat meghatalmazott képviselheti. Meghatalmazottként ügyvéd vagy a fogvatartott hozzátartozója járhat el. Nem járhat el meghatalmazottként az a hozzátartozó, akit a szabadságvesztés és az előzetes letartóztatás végrehajtásának szabályairól szóló 6/1996. (VII. 12.) IM rendelet (a továbbiakban: Bv. R.) alapján a fogvatartottal való kapcsolattartásból kizártak.
