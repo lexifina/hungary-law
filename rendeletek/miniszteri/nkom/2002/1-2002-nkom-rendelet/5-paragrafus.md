@@ -1,0 +1,3 @@
+5. § (1) Az intézmény meghagyási munkájának ellenőrzésére jogosultak: a Honvédelmi Minisztérium, a Nemzeti Kulturális Örökség Minisztériuma (a továbbiakban: Minisztérium), a területileg illetékes polgármesteri hivatal, a fővárosi, a megyei és helyi védelmi bizottságok.
+
+(2) Az ellenőrzés során a meghagyással kapcsolatos jogszabályi követelmények teljesítését kell vizsgálni. Az ellenőrzés megállapításait az erre a célra rendszeresített, nyilvántartási számmal ellátott ,,Ellenőrzési Napló''-ba kell bejegyezni, és a feltárt hiányosságok megszüntetésére az intézmény vezetőjét határidővel kötelezni.
