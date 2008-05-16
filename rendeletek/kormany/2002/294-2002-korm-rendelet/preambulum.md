@@ -1,0 +1,1 @@
+A Kormány a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 58. §-ában, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §-a (2) bekezdésének n) pontjában foglalt felhatalmazás alapján a következőket rendeli el:
