@@ -1,0 +1,1 @@
+## 2. § E rendelet alapján kiadom a Fiatalkorúak Regionális Büntetés-végrehajtási Intézete (Kecskemét) alapító okiratát, és egyben felhatalmazom a büntetés-végrehajtás országos parancsnokát az intézet Szervezeti és Működési Szabályzatának jóváhagyására.
