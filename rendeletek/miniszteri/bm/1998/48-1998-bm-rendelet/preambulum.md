@@ -1,0 +1,1 @@
+A Rendőrségről szóló 1994. évi XXXIV. törvény 5. §-a (1) bekezdésének i) pontjában és a 101. §-a (1) bekezdésének a) és e) pontjaiban kapott felhatalmazás alapján az érdekelt miniszterekkel egyetértésben; a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 1. §-ában kapott felhatalmazás alapján pedig a 4. §-ra vonatkozóan a következőket rendelem el:
