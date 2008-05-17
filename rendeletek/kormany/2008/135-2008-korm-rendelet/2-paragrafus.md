@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a nemesfémtárgyak ellenőrzéséről és jelöléséről szóló, Bécsben, 1972. november 15. napján aláírt Egyezmény (a továbbiakban: Egyezmény) 2001. október 4. napján elfogadott PMC/W 7/99 számú módosítása kötelező hatályának elismerésére.
