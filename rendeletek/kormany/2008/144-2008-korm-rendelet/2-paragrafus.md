@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya között a Tanács 2003. február 18-i, 343/2003/EK rendeletének alkalmazása érdekében történő együttműködésről szóló, 2007. november 14-én, Nagyszebenben aláírt Közigazgatási Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
