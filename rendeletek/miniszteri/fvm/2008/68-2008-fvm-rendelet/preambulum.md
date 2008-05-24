@@ -1,0 +1,1 @@
+Az élelmiszerekről szóló 2003. évi LXXXII. törvény 20. §-ának (5) bekezdésében foglalt felhatalmazás alapján, a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. § e) és f) pontjában meghatározott feladatkörömben eljárva – a szociális és munkaügyi miniszterrel egyetértésben – a következőket rendelem el:
