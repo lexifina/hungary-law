@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Kormányának a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 94. ülésszakán elfogadott 2006. évi tengerészeti munkaügyi Egyezményről, valamint a Konferencia 96. ülésszakán elfogadott, a halászati ágazat munkafeltételeiről szóló 188. számú Egyezményről és 199. számú Ajánlásról szóló beszámolóját elfogadja.
