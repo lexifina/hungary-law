@@ -1,0 +1,5 @@
+A 2008. évi XVI. törvénnyel a Magyar Közlöny 2008. április 25-i, 66. számának I. kötetében kihirdetett, a Magyar Köztársaság Kormánya és az Egyesült Nemzetek Menekültügyi Főbiztosának Hivatala közötti, 2008. február 29-én aláírt Megállapodás XVI. cikkének 1. bekezdése értelmében a Felek jegyzékben értesítik egymást arról, hogy a Megállapodás hatálybalépéséhez szükséges belső jogi eljárásokat lefolytatták.
+
+A Magyar Fél 2008. április 30-i keltezésű jegyzékében tájékoztatta a UNHCR-t a hatálybalépéshez szükséges belső jogi eljárások megtörténtéről, a UNHCR hasonló tartalmú jegyzékét a Magyar Fél 2008. május 9-én vette kézhez. A Megállapodás a XVI. cikk 1. bekezdésének megfelelően az utolsó értesítés kézhezvételének napján lép hatályba.
+
+A fentiekre tekintettel és összhangban a 2008. évi XVI. törvény 4. § (3) bekezdésével, megállapítom, hogy a Magyar Köztársaság Kormánya és az Egyesült Nemzetek Menekültügyi Főbiztosának Hivatala közötti, 2008. február 29-én aláírt Megállapodás kihirdetéséről szóló 2008. évi XVI. törvény 2. és 3. §-a 2008. május 9-én, azaz kettőezer-nyolc május kilencedikén lépett hatályba.
