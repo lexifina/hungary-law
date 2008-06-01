@@ -1,0 +1,1 @@
+## 5. § A szerkezetátalakítási támogatás kifizetésének feltétele, hogy a támogatási kérelmet benyújtó cukorgyártó vállalkozás a Tanácsi rendelet 11. cikkében meghatározott ideiglenes szerkezetátalakítási összeg tekintetében ne rendelkezzen tartozással.
