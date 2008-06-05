@@ -1,0 +1,5 @@
+A 2007. évi XX. törvénnyel a Magyar Közlöny 2007. április 2-ai, 40. számában kihirdetett, a nukleáris terrorcselekmények visszaszorításáról szóló Nemzetközi Egyezmény a 25. cikk 1. bekezdése értelmében a huszonkettedik megerősítő, elfogadó, jóváhagyó vagy csatlakozási okiratnak az Egyesült Nemzetek Főtitkáránál történő letétbe helyezését követő harmincadik napon lép hatályba.
+
+Az Egyezményt megerősítő okiratot hazánk 2007. április 12-én helyezte letétbe. Az Egyezmény letéteményese, az Egyesült Nemzetek 2007. június 7-én kelt értesítése szerint a hatálybalépéshez szükséges huszonkettedik okirat letétbe helyezésére 2007. június 7-én került sor, ennek megfelelően az Egyezmény 2007. július 7-én lépett hatályba.
+
+A fentiekre tekintettel, összhangban a 2007. évi XX. törvény 5. § (4) bekezdésével megállapítom, hogy a nukleáris terrorcselekmények visszaszorításáról szóló Nemzetközi Egyezmény, valamint az Egyezmény kihirdetéséről szóló 2007. évi XX. törvény 3–4. §-ai 2007. július 7-én, azaz kettőezer-hét július hetedikén léptek hatályba.
