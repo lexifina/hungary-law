@@ -1,0 +1,5 @@
+12. § (1) Amennyiben a lehívási értesítés vagy az ahhoz csatolt, e rendeletben vagy a finanszírozási szerződésben meghatározott melléklet hiányos vagy hibás, a beérkezéstől számított 15 naptári napon belül legfeljebb 30 naptári napos határidő kitűzésével, az adott értesítésben szereplő valamennyi hiány, illetve hiba megjelölésével hiánypótlásra, illetve a hiba javítására kell felhívni a forráskezelő szervezetet. Amennyiben a hiány pótlására és a hiba javítására a határidő elteltétől számított 8 naptári napon belül nem kerül sor, az a lehívási értesítés elutasítását eredményezi, ez esetben további lehívásnak nincs helye.
+
+(2) Amennyiben a megvalósítás nyomon követése, illetve folyamatba épített ellenőrzése során szabálytalanság alapos gyanúja merül fel a forráskezelő szervezet, illetőleg a közvetítő vonatkozásában, a Nemzeti Fejlesztési Ügynökség a forrás kifizetését felfüggesztheti.
+
+(3) A forráskezelő szervezet által a hiánypótlásra igénybe vett időtartam a 10. § (4) bekezdésében meghatározott időszakba nem számít bele.

@@ -1,0 +1,3 @@
+17. § (1) A Nemzeti Fejlesztési Ügynökség minden hónap 10. napjáig hitelesítési jelentést állít ki, melyben nyilatkozik arról, hogy a megelőző hónapban jóváhagyott, az EMIR-ben rögzített és a programszámlára utalt támogatási összeggel kapcsolatos 15. § szerinti dokumentumalapú ellenőrzéseket, továbbá a nyilatkozatában meghatározott, a 16. § szerinti helyszíni ellenőrzéseket elvégezte. A hitelesítési jelentést az államháztartásért felelős miniszter által meghatározott formában és tartalommal kell elkészíteni.
+
+(2) A Nemzeti Fejlesztési Ügynökség a kiállított hitelesítési jelentést 5 munkanapon belül továbbítja az Igazoló Hatóság részére.

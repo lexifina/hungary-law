@@ -1,0 +1,5 @@
+7. § (1) A közvetítők pályázatainak értékelését értékelő bizottság végzi. Az értékelő bizottság a közvetítők kiválasztására, az adott közvetítő javára vagy rá tekintettel a finanszírozási keretből lehívható összegre és annak módosítására vonatkozóan javaslatot fogalmaz meg.
+
+(2) Az értékelő bizottság összetételét és működésének szabályait a forráskezelő szervezet javaslatára a Nemzeti Fejlesztési Ügynökség határozza meg. A Nemzeti Fejlesztési Ügynökség által kijelölt személyek az értékelő bizottság munkájában tagként részt vesznek. Az értékelő bizottság a pályázatok értékelésének eredményét a Nemzeti Fejlesztési Ügynökség elé terjeszti. Ennek alapján a Nemzeti Fejlesztési Ügynökség dönt a közvetítői pályázatok elbírálásáról.
+
+(3) A közvetítői pályázatok elbírálására – a pályázat beérkezésétől a pályázat elbírálásáról hozott döntésről szóló értesítésig, ide nem számítva a hiánypótlás határidejét – a pályázati felhívásban meghatározott határidő áll rendelkezésre, amely 75 napnál hosszabb nem lehet. Amennyiben a pályázat jellege indokolja, a határidőt a Nemzeti Fejlesztési Ügynökség egy alkalommal legfeljebb 30 nappal meghosszabbíthatja.
