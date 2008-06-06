@@ -1,0 +1,1 @@
+17/A. § Az ügyész előzetesen jóváhagyja a rendőrségnek a büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény szerint az érintett személyazonosságának megváltoztatására irányuló intézkedését.
