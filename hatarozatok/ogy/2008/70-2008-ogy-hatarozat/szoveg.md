@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Veres János országgyűlési képviselő mentelmi jogát a Budapest II. és III. Kerületi Bíróság 14.B.460/2008/4-I. számú megkeresésével érintett ügyben nem függeszti fel.
