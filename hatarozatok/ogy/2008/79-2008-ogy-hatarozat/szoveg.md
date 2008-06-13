@@ -1,0 +1,1 @@
+Az Országgyűlés a nemzeti hírügynökségről szóló 1996. évi CXXVII. törvény 9. §-a alapján a Magyar Távirati Iroda – Éves jelentés 2007. című beszámolót tudomásul veszi, és az abban foglalt mérleg- és eredmény-kimutatást jóváhagyja.
