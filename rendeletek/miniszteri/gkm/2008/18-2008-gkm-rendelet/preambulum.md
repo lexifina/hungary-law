@@ -1,0 +1,1 @@
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 26. alpontjában kapott felhatalmazás alapján, a gazdasági és közlekedési miniszter feladat- és hatásköréről szóló 163/2006. (VII. 28.) Korm. rendelet 1. § e) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
