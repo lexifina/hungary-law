@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és az Észak-atlanti Szerződés Szervezete közötti, a NATO Légiszállítást Kezelő Szervezetnek a Magyar Köztársaság területén való településéről és működéséről szóló Megállapodás (a továbbiakban: szerződés) kötelező hatályának elismerésére.
