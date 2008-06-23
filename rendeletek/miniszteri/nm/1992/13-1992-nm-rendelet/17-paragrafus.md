@@ -1,0 +1,5 @@
+## 17. §
+
+(1) Az előzetes, a soron kívüli és az időszakos egészségi alkalmassági vizsgálatot első vagy másodfokon végző egészségügyi szerv — alkalmatlanság megállapítása esetén — az újabb első fokú egészségi alkalmassági vizsgálat időpontját a kérelmező várható állapotjavulásának előrelátható időpontjára figyelemmel jelölheti meg.
+
+(2) Ha az egészségi alkalmassági vizsgálatot végző szerv az (1) bekezdés alapján nem határozta meg az első fokú egészségi alkalmassági vizsgálat ismételt elvégzésének legkorábbi időpontját, az érdekelt személy soron kívüli alkalmassági vizsgálatot kérhet, feltéve, ha orvosi bizonyítvánnyal igazolja egészségi állapotának olyan mérvű javulását, amelynek alapján feltehető, hogy közúti járművezetésre alkalmasnak minősítik.
