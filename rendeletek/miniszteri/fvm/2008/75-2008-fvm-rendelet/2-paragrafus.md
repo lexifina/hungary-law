@@ -1,0 +1,5 @@
+2. § (1) A támogatás arra a Tanácsi rendelet 86. cikk (2) bekezdésében meghatározott termékre folyósítható, amely a takarmányok előállításáról, forgalomba hozataláról és felhasználásáról szóló 2001. évi CXIX. törvény (a továbbiakban: Takarmány-törvény) rendelkezéseinek megfelelően az állat termelőképességét károsan nem befolyásolja, közvetlenül az állat vagy közvetve az ember egészségét nem veszélyezteti, illetve károsítja, tiltott anyagot, illetve a külön jogszabályban meghatározott mennyiségnél nagyobb mértékben nemkívánatos anyagot nem tartalmaz, és kifogástalan kereskedelmi minőségű.
+
+(2) A támogatás mértéke a Tanácsi rendelet 88. cikkében meghatározott összeg.
+
+(3) A támogatás forint fizetőeszközben kerül kifizetésre, melynek kiszámításához a Bizottság 2006. december 20-i, az euróval kapcsolatos agromonetáris rendszernek a mezőgazdaságban való alkalmazására vonatkozó részletes szabályok megállapításáról és egyes rendeletek módosításáról szóló 1913/2006/EK rendeletében meghatározott hivatalos közösségi átváltási árfolyamot kell alkalmazni.
