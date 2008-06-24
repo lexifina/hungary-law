@@ -1,0 +1,5 @@
+A 348/2007. (XII. 20.) Korm. rendelettel, a Magyar Közlöny 2007. december 20-ai számában kihirdetett a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás, annak 11. cikk (5) bekezdése szerint a Felek vonatkozó jóváhagyási eljárásának befejezéséről szóló értesítés napján lép hatályba.
+
+A Keretmegállapodás 11. cikk (5) bekezdése szerinti értesítésre 2008. május 22-én került sor, és ennek megfelelően a Keretmegállapodás ezen a napon hatályba lépett.
+
+A fentiekre tekintettel, összhangban a 348/2007. (XII. 20.) Korm. rendelet 5. § (2) és 5. § (4) bekezdésével megállapítom, hogy a Bernben, a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás kihirdetéséről szóló 348/2007. (XII. 20.) Korm. rendelet 4. §-a és az 5. § (3) bekezdése 2008. május 22-én, azaz kettőezer-nyolc május huszonkettedikén hatályát veszti.
