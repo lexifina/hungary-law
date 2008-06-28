@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaságnak a Regionális vagy Kisebbségi Nyelvek Európai Kartája (a továbbiakban: Karta) 2. Cikk 2. bekezdése szerinti kötelezettségvállalásai cigány (romani és beás) nyelvekre történő kiterjesztésére.
