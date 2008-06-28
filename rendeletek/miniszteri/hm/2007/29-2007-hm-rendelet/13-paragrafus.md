@@ -1,0 +1,1 @@
+## „(4) A nevelési segélyt az állományilletékes honvédelmi szervezet pénzügyi feladatait ellátó szerv (referatúra) feladása alapján a HM központi pénzügyi szervezete folyósítja az igényjogosult gyermek, illetőleg a szülő lakossági folyószámlájára vagy lakcímére.”
