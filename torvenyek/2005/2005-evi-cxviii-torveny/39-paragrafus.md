@@ -1,0 +1,1 @@
+39. § A légi közlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 45. §-ában hivatkozott vagyonkezelőt elővásárlási jog illeti meg a vagyonkezelésében lévő, az Lt. 36/A. § hatálya alá nem tartozó és ingatlannak nem minősülő kincstári vagyonra.

@@ -1,0 +1,1 @@
+27. § Az Országgyűlés tudomásul veszi a Magyar Köztársaság 2003. évi költségvetésének végrehajtásáról szóló 2004. évi C. törvény 15. §-ában előírt megtérítési, visszautalási kötelezettségek teljesítését.

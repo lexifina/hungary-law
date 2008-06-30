@@ -1,0 +1,1 @@
+37. § Az Országos Munkabiztonsági és Munkaügyi Főfelügyelőség 2005. évi bírságból származó bevételei mentesülnek az államháztartásról szóló 1992. évi XXXVIII. törvény 92. § (2) bekezdésében foglalt rendelkezés alkalmazása alól, amelyeket a 2005. évre vonatkozó kötelezettségvállalásai teljesítéséhez használhat fel.

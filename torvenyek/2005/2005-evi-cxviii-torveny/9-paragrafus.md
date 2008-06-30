@@ -1,0 +1,3 @@
+9. § (1) Az Országgyűlés megállapítja, hogy a Költségvetési Törvény 67. §-ának (2) bekezdése alapján a közcélú munkavégzés kiadásaira, valamint az aktív korú nem foglalkoztatottak szociális segélyezésére 41 754,2 millió forint került a helyi önkormányzatok útján kifizetésre. A Költségvetési Törvény 67. §-ának (1) bekezdésében foglaltakat figyelembe véve a Munkaerőpiaci Alapot 34 914,5 millió forint terheli. A Munkaerőpiaci Alap 35 282,5 millió forint központi költségvetési befizetését tekintve 368,0 millió forint különbözet keletkezett, amely a Munkaerőpiaci Alapot illeti meg.
+
+(2) Az Országgyűlés jóváhagyja, hogy a Munkaerőpiaci Alap 5430,4 millió forintot adott át a Humánerőforrás-fejlesztési Operatív Program hazai társfinanszírozása céljára.
