@@ -1,0 +1,1 @@
+A Kormány a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 180. §-a (1) bekezdésének g) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
