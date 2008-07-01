@@ -1,0 +1,1 @@
+Az Országos Ítélőtábla székhelynek és illetékességi területének megállapításáról, valamint az igazságszolgáltatás működését érintő egyes törvények módosításáról szóló 1999. évi CX. törvény 164. §-ának (5) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
