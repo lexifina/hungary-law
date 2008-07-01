@@ -1,0 +1,1 @@
+6. § Az önkormányzati képviselő tiszteletdíjat, más járandóságot – a költségtérítés kivételével – nem vehet fel az önkormányzat által létrehozott közalapítványban, közhasznú társaságban végzett tevékenységéért.

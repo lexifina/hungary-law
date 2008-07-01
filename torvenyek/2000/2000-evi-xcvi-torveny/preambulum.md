@@ -1,0 +1,1 @@
+Az Országgyűlés a demokratikus közélet tisztaságának további előmozdítása, a helyi önkormányzás gyakorlásában a közérdek érvényesülése, a helyi önkormányzati képviselőknek a választók érdekeit szolgáló tevékenysége biztosítására a következő törvényt alkotja:
