@@ -1,0 +1,1 @@
+A magyar nemzetgazdaság versenyképességének a formatervezés eszközeivel történő erősítése, a hazai formatervezési kultúra fejlesztése, valamint a formatervező alkotók helyzetének javítása érdekében a Kormány a Magyar Formatervezési Tanács (a továbbiakban: MFT) feladatairól, szervezetéről és működéséről, továbbá megalakításáról a következőket rendeli el:
