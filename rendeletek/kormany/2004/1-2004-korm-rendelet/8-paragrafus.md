@@ -1,0 +1,37 @@
+## 7. §[^10] A Közösségi Támogatási Keret megvalósítását általánosan vagy több operatív programot együttesen érintő kérdésekben a Közösségi Támogatási Keret Irányító Hatóság vezetője feladatkörében kapcsolatot tart az Európai Bizottsággal és képviseli a Magyar Köztársaság érdekeit.
+
+## 8. § A Közösségi Támogatási Keret Irányító Hatóság feladata a Közösségi Támogatási Keret megvalósításának koordinációja, különösen:
+
+a) a Közösségi Támogatási Keret Monitoring Bizottság működtetése és titkársági feladatainak ellátása,
+
+b) a Közösségi Támogatási Keret Irányító Bizottság működtetése és titkársági feladatainak ellátása,
+
+c) részvétel az Operatív Program Monitoring Bizottságokban,
+
+d) megbízható pénzügyi és statisztikai információk gyűjtése a programok végrehajtásáról és ezek továbbítása az Európai Bizottság felé az egységes monitoring informatikai rendszer alkalmazásával,
+
+e) a Közösségi Támogatási Keret megvalósulásával kapcsolatos értékelések irányítása,
+
+f) a Közösségi Támogatási Keret végrehajtására vonatkozó éves és zárójelentések elkészítése és az Európai Bizottság felé történő továbbítása, valamint évente a megvalósítás áttekintése az Európai Bizottsággal,
+
+g) a Közösségi Támogatási Keret megvalósítását elősegítő szakmai irányelvek, módszertani anyagok kidolgozása,
+
+h) gyakorlati útmutató és nyomtatványgyűjtemény kibocsátása az Európai Unió strukturális alapjai és Kohéziós Alapjának támogatásaival megvalósuló projektek közbeszerzési eljárásainak lebonyolításához,
+
+i) a Közösségi Támogatási Keret végrehajtásában érintett intézményrendszer folyamatos továbbfejlesztése érdekében képzési programok szervezése,
+
+j) az operatív program irányító hatóságok rendszeres, illetve előzetes tájékoztatása az Európai Bizottsággal folytatott, illetve folytatandó tárgyalásokról,
+
+k)[^11] a Közösségi Támogatási Keret Irányító Bizottságával történt egyeztetést követően javaslat kidolgozása a strukturális alapok felhasználásának általános eljárási szabályaira különös tekintettel
+
+ka) a pályázati kiírások szerkezetére és kötelező elemeire,
+
+kb) a programok és központi projektek végrehajtását megalapozó, a teljesítmény célokat, azok ütemezését, az egyes intézkedések személyi felelősségi rendjét és a teljesítményértékelés formáját meghatározó stratégiai, illetve éves munkatervekkel kapcsolatos követelmények meghatározására,
+
+kc) a strukturális alapok végrehajtásában résztvevő intézmények által az intézkedések végrehajtása során alkalmazandó eljárások kötelező elemeinek meghatározására közös eljárási kézikönyv formájában;
+
+l)[^12] az operatív programok irányító hatóságai által készítendő, az egyes operatív programok végrehajtására vonatkozó stratégiai és éves munkatervek jóváhagyása, különös tekintettel a kötelezettségvállalásra, támogatási szerződések megkötésére és kifizetésekre vonatkozó éves irányszámokra.
+
+[^10]: A 7. § az 53/2005. (III. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 8. § k) pontját az 53/2005. (III. 26.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^12]: A 8. § l) pontját az 53/2005. (III. 26.) Korm. rendelet 2. §-a iktatta a szövegbe.
