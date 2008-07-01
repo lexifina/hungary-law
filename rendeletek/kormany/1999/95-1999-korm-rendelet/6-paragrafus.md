@@ -1,0 +1,1 @@
+## 5. § A felhasználók véleményének képviseletét a Fejlesztési Program felé a HUNGARNET Egyesület látja el. A HUNGARNET Egyesület a felhasználói igényeket közvetíti a Program Tanácsnak, és vizsgálja, hogy a Program Tanács által elfogadott stratégia megvalósítása mennyiben szolgálja a felhasználók igényeit.
