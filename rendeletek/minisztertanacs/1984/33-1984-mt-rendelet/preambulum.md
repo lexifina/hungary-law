@@ -1,0 +1,1 @@
+Az állami vállalatokról szóló – az 1981. évi 20. és az 1984. évi 22. törvényerejű rendelettel módosított – 1977. évi VI. törvény (a továbbiakban: Vt.) 53. §-ának (2) bekezdésében kapott felhatalmazás alapján a Minisztertanács a következőket rendeli:
