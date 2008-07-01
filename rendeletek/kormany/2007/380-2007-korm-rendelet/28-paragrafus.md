@@ -1,0 +1,1 @@
+## 27. § Ha az értékpapírosított kitettségek rulírozó és nem rulírozó megállapodásból származnak, akkor az értékpapírosítást kezdeményező hitelintézetnek az alapul szolgáló rulírozó kitettségek halmazára (pooljára) vonatkozóan a 28–32. §-ban foglaltaknak megfelelően kell a pótlólagos tőkekövetelményt számítania.
