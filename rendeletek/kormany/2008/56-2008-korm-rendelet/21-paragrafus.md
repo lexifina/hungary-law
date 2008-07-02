@@ -1,0 +1,3 @@
+21. § (1) A bírósági ügyintéző az ismeretlen helyen tartózkodó terhelt vagy tanú tartózkodási helyének felkutatása érdekében a Be. 73. § alapján a terhelt vagy a tanú lakóhelyének, illetőleg tartózkodási helyének a megállapítása iránt intézkedhet. A bírósági ügyintéző a körözés elrendelésére és az elfogatóparancs kibocsátására nem jogosult.
+
+(2) A bírósági ügyintéző a lakóhely és a tartózkodási hely megállapítása iránt a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet keresi meg. A bírósági ügyintéző a terhelt vagy a tanú tartózkodási helyének felderítése végett jogosult a rendőrség megkeresésére.

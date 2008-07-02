@@ -1,0 +1,1 @@
+## 32. § A bírósági ügyintéző jogosult a büntetés-végrehajtási bíró utasítása alapján az ismeretlen helyen tartózkodó elítélt tartózkodási helyének felkutatása iránt intézkedni a Be. 590. § (3) bekezdése szerint. A bírósági ügyintéző a körözés elrendelésére és az elfogatóparancs kibocsátására nem jogosult.

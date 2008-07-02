@@ -1,0 +1,1 @@
+## 29. § A bírósági ügyintéző a végleges hatályú foglalkozástól és járművezetéstől eltiltás, valamint a végleges hatályú kiutasítás alóli mentesítésre irányuló eljárásban a Be. 565. § (2) és (4) bekezdése alapján az ügyész és az idegenrendészeti hatóság nyilatkozatának beszerzése iránt intézkedhet.

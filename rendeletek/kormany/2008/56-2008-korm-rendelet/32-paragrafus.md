@@ -1,0 +1,1 @@
+## 31. § A bírósági ügyintéző a büntetett előélethez fűződő hátrányok alóli utólagos bírósági mentesítésre irányuló eljárásban a Be. 577. § (3) bekezdése alapján az ügyész nyilatkozatának beszerzése iránt intézkedhet.
