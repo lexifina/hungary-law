@@ -1,0 +1,1 @@
+## 1. § A Magyar Honvédségben a katonai szolgálati és a katonai rendészeti tevékenység teljesítése érdekében e rendelet mellékleteként kiadom a Magyar Honvédség Szolgálati Szabályzatát (a továbbiakban: Szabályzat).
