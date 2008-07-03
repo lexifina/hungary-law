@@ -1,0 +1,1 @@
+## 12. § 2010. január 1-jét megelőzően a 3. § (2) bekezdésében meghatározott adatokat az átviteli rendszerirányító és az elosztó hálózati engedélyes köteles a felhasználó részére térítésmentesen megadni, ha azok a felhasználó kérése időpontjában rendelkezésére állnak.
