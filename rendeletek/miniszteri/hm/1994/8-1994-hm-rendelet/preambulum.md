@@ -1,0 +1,1 @@
+A honvédelemről szóló 1993. évi CX. törvény végrehajtására kiadott 178/1993. (XII. 27.) Korm. rendelet (a továbbiakban: R.) 106. §-ának (3) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
