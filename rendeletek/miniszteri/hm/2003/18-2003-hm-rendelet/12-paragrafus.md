@@ -1,0 +1,3 @@
+12. § (1) A kivizsgálás során meg kell állapítani a baleset bekövetkezésének tárgyi, szervezési és személyi okait, okozati összefüggéseit, és meg kell határozni a hasonló balesetek megelőzéséhez szükséges intézkedéseket. A munkabaleset kivizsgálási szempontjait a munkavédelemről szóló 1993. évi XCIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 5/1993. (XII. 26.) MüM rendelet 3. számú melléklete tartalmazza.
+
+(2) A 3 napot meghaladó szolgálat- vagy munkaképtelenséget, illetve szolgálatképesség-csökkenést okozó baleset kivizsgálásának megállapításait baleseti vizsgálati jegyzőkönyvben olyan részletességgel kell rögzíteni, hogy alkalmas legyen a baleset okainak megállapítására, vita esetén a tényállás tisztázására.
