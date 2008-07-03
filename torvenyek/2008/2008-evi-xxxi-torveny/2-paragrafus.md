@@ -1,0 +1,7 @@
+2. § A Kt. 13. §-a a következő (6)–(8) bekezdéssel egészül ki:
+
+„(6) A szülőt megilleti a közérdekű igényérvényesítés joga. A közérdekű igényérvényesítés joga alapján a szülő – a közérdekű kérelmekkel, panaszokkal és bejelentésekkel kapcsolatos eljárásokra vonatkozó rendelkezések szerint – eljárást indíthat, vizsgálatot kezdeményezhet az intézmény vezetőjénél, az intézmény fenntartójánál, a jegyzőnél, a főjegyzőnél, a közoktatási feladatkörében eljáró oktatási hivatalnál vagy más hatóságnál minden olyan esetben, amikor konkrétan nem határozhatók meg a jogaiban sértett személyek, illetve a veszélyeztetett személyek köre. A szülő joga továbbá, hogy saját vagy gyermeke ügyében, valamint a közérdekű igényérvényesítés során igénybe vegye az oktatásügyi közvetítői szolgálatot.
+
+(7) A halmozottan hátrányos helyzetű gyermek szülőjét megilleti az a jog, hogy gyermeke óvodába járatásához – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározottak szerint – anyagi támogatást kapjon, feltéve, hogy gyermekét legkésőbb a negyedik életévében beíratja az óvodába.
+
+(8) A szülő joga, hogy gyermeke neveléséhez igénybe vegye a pedagógiai szakszolgálat intézményét. A szülő kötelessége, hogy gyermekével megjelenjen a nevelési tanácsadáson, továbbá biztosítsa gyermekének az iskolapszichológusi vizsgálaton és a fejlesztő foglalkozásokon való részvételét, ha a tanulóval foglalkozó pedagógusok kezdeményezésére a nevelőtestület erre javaslatot tesz. A jegyző kötelezheti a szülőt, hogy az e bekezdésben meghatározott kötelezettségének tegyen eleget.”
