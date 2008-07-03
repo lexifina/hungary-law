@@ -1,0 +1,5 @@
+## 9. § A HM külföldi képviseletét ellátó szervezet tagjának, külföldi magyar katonai képviselet tagjának, illetve a külföldön állomásozó MH csapat (kontingens) vagy tagjának szolgálati érdekből más – az 1. § (2) bekezdés a) pontjában meghatározott – célországba történő vezénylése, valamint szabadságoltatás, egészségügyi okokból vagy más indokolt esetben történő hazautazás vagy végleges hazarendelés esetén az útba indítást megelőzően intézkedni kell:
+
+a) az egyéni menetparanccsal rendelkező személy részére, illetve csoportos menetparanccsal rendelkező személyek esetén – amennyiben a határátlépéssel érintett személyek köre azonos a csoportos menetparancsban feltüntetett személyekkel – a leadott NATO menetparancs 1. számú példányának a menetparancsban birtokosként megjelölt személy részére történő kiadására;
+
+b) egyéni menetparanccsal nem rendelkező személy, illetve csoportos menetparanccsal rendelkező személyek esetén – amennyiben a határátlépéssel érintett személyek köre nem azonos a csoportos menetparancsban feltüntetett személyekkel – ezen rendelet szabályainak betartása mellett új NATO menetparancs kiadmányozására.
