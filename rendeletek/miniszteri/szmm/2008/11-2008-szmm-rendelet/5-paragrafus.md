@@ -1,0 +1,5 @@
+5. § (1) A támogatásnak a végső kedvezményezett, illetve az 1. § (1) bekezdés f) pontja szerinti szervezet részére történő folyósítására, a pénzügyi ellenőrzésre, a jogosulatlanul igénybe vett támogatás visszatérítésére, behajtására a szociális és munkaügyi miniszter felügyelete alá tartozó fejezeti kezelésű előirányzatok felhasználásának szabályai szerint kell megfelelően eljárni a (2)–(3) bekezdésben, valamint a 6. §-ban foglalt eltérésekkel.
+
+(2) A támogatások jogszabálysértő vagy nem rendeltetésszerű felhasználása, illetve a hatósági szerződésben meghatározott kötelezettségek megszegése (a továbbiakban együtt: szabálytalanság) esetén a támogatás jogosulatlanul igénybe vett támogatásnak minősül, és az 1. § (1) bekezdés f) pontja szerinti szervezetet, illetve a végső kedvezményezettet a támogatás részben vagy egészben történő visszafizetésének kötelezettsége terheli.
+
+(3) Szabálytalanságnak minősül különösen a támogatásnak a Rendelet 6. cikk (5) bekezdésében foglaltak megsértésével történő igénybevétele, valamint a Rendelet 13. cikk (2) bekezdése szerinti határidőn túli felhasználása.

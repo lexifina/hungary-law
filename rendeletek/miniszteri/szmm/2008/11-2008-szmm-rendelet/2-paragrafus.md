@@ -1,0 +1,3 @@
+2. § (1) Az európai globalizációs alkalmazkodási alap létrehozásáról szóló, 2006. december 20-i 1927/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) alapján, az Alapból nyújtott támogatások hazai felhasználása munkaerőpiaci program keretében valósul meg.
+
+(2) Ha e rendelet alapján munkaerőpiaci program valósul meg, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 19/B. §-át, 20. §-át, illetve 21. § (1)–(3) bekezdését, továbbá a foglalkoztatást elősegítő támogatásokról, valamint a Munkaerőpiaci Alapból foglalkoztatási válsághelyzetek kezelésére nyújtható támogatásról szóló 6/1996. (VII. 16.) MüM rendelet 26/A–27/A. §-át kell megfelelően alkalmazni.
