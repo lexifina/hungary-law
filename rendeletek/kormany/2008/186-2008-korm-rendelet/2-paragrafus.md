@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya közötti audiovizuális kapcsolatokról szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
