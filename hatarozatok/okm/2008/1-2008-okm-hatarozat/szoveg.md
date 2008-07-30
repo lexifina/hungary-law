@@ -1,0 +1,5 @@
+A Magyar Közlöny 2008. június 24-i, 92. számában került kihirdetésre a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2008. évi XXXVIII. törvény (a továbbiakban: Törvény). A Törvény 9. §-ának (2) bekezdése értelmében a kultúráért felelős miniszter az Európai Bizottság határozata meghozatala időpontját – annak ismertté válását követően haladéktalanul – a Magyar Közlönyben közzétett egyedi határozattal állapítja meg. A Törvény 9. §-ának (1) bekezdése értelmében pedig a Törvény az Európai Bizottság – a magyar filmtámogatási rendszer jóváhagyására vonatkozó – határozatát követő 15. napon lép hatályba.
+
+Az Európai Bizottság 2008. július 17-én arról tájékoztatta a Magyar Felet, hogy a hatálybalépéshez szükséges – a magyar filmtámogatási rendszerre vonatkozó – jóváhagyó határozat 2008. július 16-án született meg.
+
+A fentiekre tekintettel megállapítom, hogy az Európai Bizottság – a magyar filmtámogatási rendszerre vonatkozó – jóváhagyó határozatának időpontja 2008. július 16-a, következésképpen az Európai Bizottság határozatának időpontját követő 15. nap 2008. július 31-e.
