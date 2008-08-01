@@ -1,0 +1,5 @@
+A 2008. évi XXII. törvénnyel, a Magyar Közlöny 2008. június 5-ei számában kihirdetett, a Londonban, 1976. november 19-én kelt, a tengeri követelésekkel összefüggő felelősség korlátozásáról szóló 1976. évi Egyezmény módosításáról szóló Londonban, 1996. május 2-án kelt Jegyzőkönyv 11. cikk 2. pontja szerint, a Jegyzőkönyvhöz bármely, a hatálybalépést követően csatlakozó állam esetében a Jegyzőkönyv kötelező hatályához való hozzájárulás kifejezésének napját követő kilencvenedik napon lép hatályba.
+
+A Jegyzőkönyv kötelező hatályához való hozzájárulás 11. cikk szerinti kifejezésére a Magyar Köztársaság vonatkozásában 2008. július 4-én került sor.
+
+A fentiekre tekintettel, összhangban a 2008. évi XXII. törvény 6. § (5) bekezdésével megállapítom, hogy a Londonban, 1996. május 2-án kelt, a tengeri követelésekkel összefüggő felelősség korlátozásáról szóló 1976. évi egyezmény módosításáról szóló 1996. évi jegyzőkönyv kihirdetéséről szóló 2008. évi XXII. törvény 3. és 5. §-ai 2008. október 2-án, azaz kettőezer-nyolc október másodikán lépnek hatályba.
