@@ -1,0 +1,3 @@
+6. § (1) Sajtótermékekben – a (2) bekezdésben foglalt kivétellel – a jelzést jól látható és olvasható módon úgy kell közzétenni, hogy az a termék teljes felületének két százalékát lefedje, és a jelzés alsó széle a termék alsó széléhez, bal oldalvonala a termék bal oldalához illeszkedjen. Az A/5-nél nagyobb méretű nyomdai termékek esetén a jelzés fekete háttere mellőzhető.
+
+(2) A nyomtatott és az elektronikus (online) sajtóban, kiadványokban megjelenő moziműsor-ismertető esetén a filmalkotás címe mellett a rendelet 2. számú mellékletében feltüntetett egyszerűsített jelzést (piktogramot), valamint oldalanként minősítést kell feltüntetni.
