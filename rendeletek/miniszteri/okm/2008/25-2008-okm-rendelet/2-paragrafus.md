@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya a mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) 12. § (3) bekezdés a)–b) és d)–h) pontjaiban foglalt mozgóképszakmai tevékenységeknek (a továbbiakban: nem filmgyártási célú tevékenység) közvetlen támogatására [Mktv. 2. § 9. pontja] terjed ki.
