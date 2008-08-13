@@ -1,0 +1,5 @@
+A 98/2007. (V. 4.) Korm. rendelettel a Magyar Közlöny 2007. május 4-ei, 55. számában kihirdetett a Magyar Köztársaság Kormánya és a Bosznia-Hercegovina Minisztertanácsa közötti gazdasági együttműködésről szóló, Szarajevóban, 2006. november 22. napján kelt Megállapodás a 6. cikk 2. bekezdése értelmében a belső eljárás lefolytatásáról szóló későbbi diplomáciai értesítés kézhezvételének napján lép hatályba.
+
+A Megállapodás 6. cikkének megfelelő tartalmú értesítést a Bosznia-Hercegovinai Fél 2007. november 24-én, a Magyar Fél pedig 2008. augusztus 1-jén vette kézhez. A Megállapodás a 6. cikknek megfelelően a későbbi értesítés kézhezvételének napján, azaz 2008. augusztus 1-jén lépett hatályba.
+
+A fentiekre tekintettel, összhangban a 98/2007. (V. 4.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és a Bosznia-Hercegovina Minisztertanácsa közötti gazdasági együttműködésről szóló, Szarajevóban, 2006. november 22. napján kelt Megállapodás kihirdetéséről szóló 98/2007. (V. 4.) Korm. rendelet 2–3. §-ai 2008. augusztus 1-jén, azaz kettőezer-nyolc augusztus elsején léptek hatályba.
