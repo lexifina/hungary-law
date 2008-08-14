@@ -1,0 +1,1 @@
+## „(4) Az R. 4. §-a szerinti engedély érvényességi ideje 12 hónap. Ettől eltérő érvényességi idő állapítható meg más hatóságnak az adott ügylethez kapcsolódó engedélyében, illetve szakhatósági hozzájárulásában eltérően meghatározott érvényesség alapján, továbbá az ügyletre vonatkozó szerződéses kötelezettség teljesítése érdekében.”
