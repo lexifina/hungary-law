@@ -1,0 +1,1 @@
+## 19. § Az e rendelet hatálya alá tartozó, 2006. október 30. előtt hatályos jogszabályoknak megfelelő mérőműszerek esetében típusjóváhagyásuk érvényességének lejártáig, illetve korlátlan ideig érvényes típusjóváhagyás esetében 2016. október 30-ig engedélyezett a 2006. október 30. előtt hatályos jogszabályoknak megfelelő mérőműszerek forgalomba hozatala és üzembe helyezése.
