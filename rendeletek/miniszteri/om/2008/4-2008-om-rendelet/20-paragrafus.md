@@ -1,0 +1,1 @@
+## 19. § Az 5. § (5) bekezdése szerinti védelmi terv, és az 5. § (8) bekezdése szerinti egyszerűsített védelmi terv készítési kötelezettségének az erdőgazdálkodó 2008. december 31-ig köteles eleget tenni.

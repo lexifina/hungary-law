@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya kiterjed az erdőről és az erdő védelméről szóló törvény (a továbbiakban: Evt.) hatálya alá tartozó erdőterületekre (a továbbiakban: erdő). Az erdőben az általános tűzvédelmi szabályokon, valamint az Evt.-nek a tűz elleni védelemre vonatkozó rendelkezésein túl az e rendeletben foglaltakat is alkalmazni kell.
