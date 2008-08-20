@@ -1,0 +1,9 @@
+# 204/2008. (VIII. 19.) Korm. rendelet
+
+az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba való beszállításával kapcsolatos együttműködéséről szóló egyezmény kihirdetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-204-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-08-20 | 2008-204-20-22.1 | 204/2008. (VIII. 19.) Korm. rendelet |

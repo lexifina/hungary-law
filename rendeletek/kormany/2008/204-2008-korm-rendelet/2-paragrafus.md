@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba való beszállításával kapcsolatos együttműködéséről szóló egyezmény (a továbbiakban: egyezmény) kötelező hatályának elismerésére.
