@@ -1,0 +1,1 @@
+## 1. § Aki tevékenységével, vagy mulasztásával az állatok védelmére és kíméletére, vonatkozó jogszabály rendelkezését, vagy hatósági határozat előírását megsérti — magatartásának súlyához, ismétlődéséhez igazodó — állatvédelmi bírságot (a továbbiakban: bírság) köteles fizetni.

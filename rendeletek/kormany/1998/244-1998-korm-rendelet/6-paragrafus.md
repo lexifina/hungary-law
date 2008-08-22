@@ -1,0 +1,1 @@
+## 5. § A bírság az azt kiszabó szerv [3. § (1) bek.] bevételét képezi, amelyet kizárólag az állatvédelemmel kapcsolatos kiadási többletének fedezeteként lehet felhasználni. Az állatvédelmi bírságból befolyt összeget elkülönítetten és ellenőrizhetően kell kezelni.
