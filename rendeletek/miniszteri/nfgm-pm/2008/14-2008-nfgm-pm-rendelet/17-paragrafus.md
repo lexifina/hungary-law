@@ -1,0 +1,1 @@
+## „(3) Az NFÜ tájékoztatja a közreműködő szervezetet, az ágazati irányításért felelős minisztert, a kedvezményezettet és az igazoló hatóságot a támogatási kérelem Európai Bizottság által történő befogadásáról, valamint jóváhagyásáról vagy elutasításáról.”
