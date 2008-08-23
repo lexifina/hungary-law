@@ -1,0 +1,3 @@
+1. § (1) A Kormány a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, valamint a Szlovák Köztársaság Kormánya között a Nemzetközi Visegrádi Alap létrehozásáról szóló Megállapodást, valamint Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, valamint a Szlovák Köztársaság Kormánya között a Nemzetközi Visegrádi Alap létrehozásáról szóló Megállapodás módosításáról szóló Megállapodás egységes szerkezetbe foglalt szövegét (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+(2) A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
