@@ -1,0 +1,1 @@
+## 2. § A termékeket a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: zöldség-gyümölcs ellenőrző hatóság) a zöldség-gyümölcs ellenőrzési feladatai keretében, külön jogszabály szerint, az e rendeletben foglalt eltérésekkel ellenőrzi.

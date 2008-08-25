@@ -1,0 +1,8 @@
+6. § (1)[^6] A termékek beléptetésének feltétele az 5. § (2) és (3) bekezdésében felsorolt szervezet által kibocsátott, a zöldség-gyümölcs ellenőrző hatóság által ellenőrzött, a 3. számú melléklet szerinti egészségügyi bizonyítvány és az azt alátámasztó mintavételi és vizsgálati eredményeket tartalmazó okmány vagy az 5. számú melléklet szerinti vizsgálati bizonyítvány. Az okmányok megfelelősége esetén a zöldség-gyümölcs ellenőrző hatóság kitölti az ellenőrzéseket igazoló 4. számú melléklet szerinti közös okmány A részét.
+
+(2)[^7] Amennyiben az élelmiszer-szállítmányt nem kísérik az (1) bekezdésben előírt bizonyítvány, illetve okmány, vagy az 5. §-ban foglalt további feltételek nem teljesülnek, a szállítmányt a vámhatóság nem léptetheti be az ország területére sem a kijelölt behozatali helyig történő céltranzit, sem az Európai Közösségbe történő behozatal céljából. Ebben az esetben a vámhatóság a szállítmányt a származási országba visszaküldi. Amennyiben a szállítmány a 11. § (3) bekezdésére tekintettel a származási országba nem küldhető vissza, a vámhatóság átadja a szállítmányt a zöldség-gyümölcs ellenőrző hatóságnak, amely intézkedik a megsemmisítéséről.
+
+(3) Az 5–7. §-októl eltérően az 1. § (1) bekezdése a) pontjának 3., 4. és 5. alpontjában és g) pontjában szereplő élelmiszer-szállítmányok a mintavételi és elemzési eredményeket tartalmazó okmány és egészségügyi bizonyítvány nélkül is beléptethetők a Magyar Köztársaság területére.
+
+[^6]: A 6. § (1) bekezdése a 106/2008. (VIII. 22.) FVM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 6. § (2) bekezdése a 106/2008. (VIII. 22.) FVM rendelet 3. §-ával megállapított szöveg.

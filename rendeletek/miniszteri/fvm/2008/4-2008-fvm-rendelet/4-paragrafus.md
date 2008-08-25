@@ -1,0 +1,1 @@
+## 3. § A termékek beléptetésével, behozatalával és szabad forgalomba bocsátásával kapcsolatos, e jogszabályban előírt ellenőrzési feladatokat a Vám- és Pénzügyőrség (a továbbiakban: vámhatóság) látja el.
