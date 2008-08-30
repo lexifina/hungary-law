@@ -1,0 +1,1 @@
+## 2. § A Baláta-tó természetvédelmi területen fokozottan védett természeti területté nyilvánítom a 2. mellékletben meghatározott ingatlan-nyilvántartási helyrajzi számú, összesen 219,6 ha kiterjedésű területet.

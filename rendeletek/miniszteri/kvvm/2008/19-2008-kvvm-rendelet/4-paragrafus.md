@@ -1,0 +1,1 @@
+## 3. § Baláta-tó erdőrezervátum néven erdőrezervátummá nyilvánítom a természetvédelmi terület teljes területét. A Baláta-tó erdőrezervátum magterületévé nyilvánítom a Somogy megyében Szenta községhatárban lévő, a 3. mellékletben meghatározott ingatlan-nyilvántartási helyrajzi számú, összesen 76,1 ha kiterjedésű területet.
