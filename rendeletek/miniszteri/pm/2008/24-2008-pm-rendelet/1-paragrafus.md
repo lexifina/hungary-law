@@ -1,0 +1,3 @@
+1. § (1) E rendelet hatálya a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) V. Fejezetében a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség teljesítésére kötelezett személyre vonatkozik.
+
+(2) E rendelet alkalmazásában média alatt azt a terjesztési csatornát – így különösen a nyomtatott és elektronikus sajtót, a hírügynökséget, a hírszolgáltatót, a befektető számára hozzáférhető pénzügyi honlapot – kell érteni, amely képes az Európai Unió tagállamaiban a szabályozott információ a Tpt. 56. §-ában foglaltak szerinti megismerhetővé tételére.
