@@ -1,0 +1,1 @@
+## Az iparjogvédelmi szakképesítés megszerzése
