@@ -1,0 +1,9 @@
+# 112/2008. (VIII. 30.) FVM rendelet
+
+az erdők közjóléti célú védelmét és bővítését szolgáló feladatok ellátásának csekély összegű (de minimis) támogatásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-112-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-08-31 | 2008-112-20-82.1 | 112/2008. (VIII. 30.) FVM rendelet |
