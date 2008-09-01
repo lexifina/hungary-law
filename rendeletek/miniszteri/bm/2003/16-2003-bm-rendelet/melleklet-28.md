@@ -1,0 +1,3 @@
+28. számú melléklet a 16/2003. (IV. 18.) BM rendelethez[^21]
+
+[^21]: Az eredeti 27. számú melléklet számozását 28. számú mellékletre változtatta a 28/2005. (VI. 18.) BM rendelet – Magyar Közlöny 2005. évi 89. számában megjelent helyesbítésnek megfelelő – 1. § (1) bekezdése. A 28. számú mellékletet a 25/2008. (IV. 29.) ÖTM rendelet 3. §-ának b) pontja hatályon kívül helyezte. Ez utóbbi módosító rendelet 2. § (2) bekezdése alapján a 2008. szeptember 1. napján folyamatban lévő képzéseket a megkezdésükkor hatályos jogszabályokban foglalt szakmai és vizsgakövetelmények alapján kell befejezni. Javító-, pótlóvizsgák letételére a képzéskor hatályos jogszabályi követelmények szerint a képzés befejezését követő 1 évig, de legkésőbb 2013. augusztus 31-ig van lehetőség.
