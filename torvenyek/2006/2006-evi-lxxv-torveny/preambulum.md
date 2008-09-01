@@ -1,0 +1,1 @@
+(A Magyar Népköztársaság 1960. május 17-én csatlakozott a Nemzetközi Növényvédelmi Egyezményhez, amelynek az 1997. évi módosításait megerősítő okiratot a Magyar Köztársaság 2001. június 28-án a FAO főigazgatójánál letétbe helyezte.)
