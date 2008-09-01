@@ -1,0 +1,1 @@
+15. § A közvélemény-kutató szerv az érintettek személyiségi jogairól, a személyes adatok védelméről és az adatvédelmi követelmények megszegésének jogkövetkezményeiről köteles a megbízásából eljáró személyeket megfelelően kioktatni. A személyes adatok védelméért a közvélemény-kutató szerv a felelős.

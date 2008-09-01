@@ -1,0 +1,5 @@
+9. § (1) Ha az 5. § (1) bekezdésében meghatározott tájékoztatási kötelezettség teljesítése a kutatási cél megvalósulását veszélyeztetné, akkor az adatgyűjtés befejezését követően kell az érintett személyt adatainak felhasználásáról és jogairól teljeskörűen tájékoztatni.
+
+(2) Ha az érintett a név- és lakcímadatainak a kezelését az (1) bekezdés alapján adott tájékoztatás alkalmával vagy a kutatás későbbi időpontjában megtiltja, azokat kérelmére meg kell semmisíteni, és erről az érintettet írásban tájékoztatni kell.
+
+(3) Az (1) bekezdés szerinti tájékoztatási kötelezettségtől, illetőleg a hozzájárulás beszerzésétől csak akkor lehet eltekinteni, ha a kutatás célja szociális, népegészségügyi, közoktatási vagy környezetvédelmi érdekekkel van összefüggésben, és a tájékoztatás vagy hozzájárulás beszerzése az érintettek nagy száma miatt aránytalanul sok időt, költséget és emberi munkát igényelne. A tájékoztatás, illetőleg a hozzájárulás beszerzése mellőzésének jogszerűségéért az adatigénylő felelős.

@@ -1,0 +1,1 @@
+10. § A cselekvőképtelen vagy korlátozottan cselekvőképes személy esetén a tájékoztatást a törvényes képviselő részére kell megadni, aki gyakorolja az érintettet megillető nyilatkozattételi jogokat is.

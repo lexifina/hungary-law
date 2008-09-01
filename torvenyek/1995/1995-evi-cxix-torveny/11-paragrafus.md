@@ -1,0 +1,1 @@
+11. § Külföldi tudományos kutató, ha e törvény hatálya alá tartozó adatkezelést kíván végezni, illetőleg, ha a belföldi tudományos kutató a tevékenységét külföldi megbízás alapján végzi, erről a tényről az érintettet köteles írásban tájékoztatni. Külföldre csak anonimizált adat továbbítható, kivéve, ha az érintett az adatai átadásához írásban hozzájárult.

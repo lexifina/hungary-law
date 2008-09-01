@@ -1,0 +1,7 @@
+13. § (1) A közvélemény-kutató szerv a 12. § alapján megszerzett vagy rendelkezésre álló név- és lakcímadatokat a kapcsolatfelvételen kívül egyéb célra csak az érintett írásbeli hozzájárulásával használhatja fel.
+
+(2) Ha a közvélemény-kutató szerv és az érintett között kapcsolat jön létre, a kapcsolatfelvétel után haladéktalanul a név- és lakcímadatokat a közvélemény-kutatás egyéb adataitól le kell választani, azt elkülönítetten kell tárolni, és biztosítani kell, hogy a közvélemény-kutatással érintett személye ne legyen azonosítható. A név- és lakcímadatok ismételt kapcsolatfelvételre csak akkor használhatók fel, ha az érintett a folyamatos kapcsolattartáshoz vagy az ismételt kapcsolatfelvételhez írásban hozzájárul. Az érintett név- és lakcímadatait, valamint egyéb személyes adatait és az általa nyújtott információkat csak akkor lehet együttesen feldolgozni, illetőleg tárolni, ha az érintett ehhez írásban külön és kifejezetten hozzájárult.
+
+(3) A (2) bekezdés alapján elkülönítetten tárolt név- és lakcímadatok feldolgozására olyan technikai módszert kell kialakítani, amely lehetetlenné teszi a megkérdezett válaszainak a név- és lakcímadataival történő összekapcsolását.
+
+(4) A (2) bekezdés szerinti név- és lakcímadatok kezelését az érintett ilyen irányú kérelme alapján haladéktalanul, ennek hiányában a közvélemény-kutatási tevékenység megszüntetésével egyidejűleg, illetőleg a folyamatos kapcsolattartás befejezésekor — az 5. § (4) bekezdése szerint eljárva — kell megszüntetni.
