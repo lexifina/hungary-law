@@ -1,0 +1,3 @@
+## 18. § Az R. 29. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az építésügyi hatóság az építési engedélyezés (bejelentés tudomásul vétele) során a (2) bekezdésben foglaltakon túlmenően – ha jogszabály ezt előírja, akkor a tervtanácsi állásfoglalást is figyelembe véve – a külön jogszabályban előírtak szerint vizsgálja, hogy a tervező a település beépítésének jellegét, sajátos építészeti arculatát a tervezett építmény, épületegyüttes (építményrész) elhelyezése és kialakítása, tervezése során figyelembe vette-e, az építményt a környezetébe, és – ha azt a tájvédelmi hatóság nem vizsgálja – a tájba illeszkedően helyezte-e el.”
