@@ -1,0 +1,1 @@
+Az Országgyűlés az öngondoskodás, ezen belül is a nyugdíjcélú megtakarítások ösztönzése, a nyugdíj-előtakarékoskodók választási lehetőségeinek bővítése, valamint a hazai tőkepiac fejlődési lehetőségeinek bővítése érdekében a következő törvényt alkotja:
