@@ -1,0 +1,1 @@
+2. § A munkáltató szakfordító vagy tolmács munkakörben szakfordító, illetőleg tolmács képesítéssel rendelkező személyt foglalkoztathat. A képesítés megszerzésének feltételeit külön jogszabály határozza meg.
