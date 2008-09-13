@@ -1,0 +1,1 @@
+A Kormány az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 182. § (2) bekezdésének k) pontjában kapott felhatalmazás alapján – az Eht. 1. § (2) bekezdésében foglaltakra figyelemmel – az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
