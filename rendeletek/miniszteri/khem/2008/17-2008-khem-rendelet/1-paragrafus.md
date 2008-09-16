@@ -1,0 +1,3 @@
+1. § (1) E rendelet hatálya a felhasználó igénye (megrendelése) alapján végzett, a villamos energia elosztásán és egyetemes szolgáltatásán túli azon egyéb szolgáltatásra terjed ki, amelyért az elosztó hálózati engedélyes és az egyetemes szolgáltatói engedélyes vagy megbízottja (a továbbiakban: engedélyes) a felhasználónak külön díjat vagy más díjtételhez kapcsolt felárat (a továbbiakban: külön díj) számíthat fel.
+
+(2) E rendelet hatálya nem terjed ki a közcélú villamos hálózatra csatlakozás pénzügyi és műszaki feltételeiről szóló 117/2007. (XII. 29.) GKM rendeletben foglalt csatlakozásokkal kapcsolatos tevékenységre.
