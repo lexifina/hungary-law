@@ -1,0 +1,1 @@
+## A politikai államtitkár hatásköre
