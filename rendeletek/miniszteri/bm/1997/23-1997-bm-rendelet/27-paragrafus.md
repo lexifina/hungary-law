@@ -1,0 +1,1 @@
+## 26. § Működési körön belül eső károsodásnak kell tekinteni az úti balesettel kapcsolatban felmerült kárt is, ha az utazás a fegyveres szerv saját szállítóeszközével vagy az általa igénybe vett szállítóeszközzel történt, illetőleg azt a kárt, amely a hivatásos állomány tagját szolgálati út alkalmával gyalogos közlekedés során érte.

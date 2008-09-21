@@ -1,0 +1,1 @@
+## 32. § Ha az állományilletékes parancsnok az 31. § (2)–(3) bekezdése alapján a kárigény elbírálására annak összegszerűsége miatt hatáskörrel nem rendelkezik, az ügyet az országos parancsnokhoz kell felterjeszteni.
