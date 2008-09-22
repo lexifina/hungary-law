@@ -1,0 +1,3 @@
+6. § (1) Védett külföldi fajta esetében, amennyiben a kérelmező a fajtaelismerésre, illetve fenntartásra irányuló teljesítményvizsgálaton kívül nem kíván teljesítményvizsgálatot, tenyészértékbecslést, illetve szelekciót végezni, a kérelmet és a tenyésztési programot egyszerűsített formában kell benyújtani, mely esetben a kérelemnek nem kell tartalmazni a 4. § (2) bekezdésének g) pontjában foglaltakat, a tenyésztési programnak pedig a 4. § (5) bekezdésének d) pontjában a teljesítményvizsgálat tárgyi feltételeire előírtakat.
+
+(2) Baromfi fajok esetében, amennyiben a tevékenység kizárólag import szülőpárok forgalmazására terjed ki, a kérelemnek nem kell tartalmaznia a 4. § (2) bekezdésének f) pontjában foglaltakat.
