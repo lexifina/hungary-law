@@ -1,0 +1,9 @@
+# 94/2008. (IX. 26.) OGY határozat
+
+Sós Tamás országgyűlési képviselő mentelmi ügyében
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-94-30-41
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-09-26 | 2008-94-30-41.1 | 94/2008. (IX. 26.) OGY határozat |
