@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Deutsch-Für Tamás országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 13. B. 34.379/2008/2. számú megkeresésével érintett ügyben nem függeszti fel.
