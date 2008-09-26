@@ -1,0 +1,43 @@
+# Az Országos Választási Bizottság 275/2008. (IX. 26.) OVB határozata
+
+Magyar Közlöny 2008. évi 139. szám, 2008. szeptember 26. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/88ca5c9dfa3a58780f0e827caef87f115d5b9017/dokumentumok/76e18e3a897291d14661d3cec10f4f93aaab9e18/letoltes)
+
+---
+
+Az Országos Választási Bizottság
+275/2008. (IX. 26.) OVB
+határozata
+Az Országos Választási Bizottság – a 2008. szeptember
+23-án megtartott ülésén – a választási eljárásról szóló
+1997. évi C. törvény (a továbbiakban: Ve.) 124/A. §
+(3) bekezdésének b) pontjában foglalt hatáskörében eljár-
+
+va Sz. I. magánszemély által benyújtott országos népsza-
+vazási kezdeményezés tárgyában meghozta a következő
+határozatot:
+Az Országos Választási Bizottság az aláírásgyűjtő ív
+mintapéldányát hitelesíti.
+A határozat ellen – a Magyar Közlönyben való közzété-
+telét követő 15 napon belül – az Alkotmánybírósághoz
+címzett kifogást lehet benyújtani az Országos Választási
+Bizottságnál (1051 Budapest, Nádor u. 2.; levélcím: 1903
+Budapest, Pf. 314; fax: 06-1-441-1729).
+Indokolás
+I.
+A beadványozó 2008. augusztus 28-án aláírásgyűjtő ív
+mintapéldányát nyújtotta be az Országos Választási Bi-
+zottsághoz hitelesítés céljából. Az aláírásgyűjtő íven a kö-
+vetkező kérdés szerepelt:
+„Egyetért-e Ön azzal, hogy 14 éves büntethetőségi kor-
+határ 10 éves korra csökkenjen?”
+Az Országos Választási Bizottság megállapítja, hogy az
+aláírásgyűjtő ív a törvényben meghatározott formai, vala-
+mint a népszavazásra feltenni kívánt kérdésre vonatkozó
+tartalmi követelményeknek eleget tesz, ezért a hitelesítésé-
+nek akadálya nincs.
+II.
+A határozat az országos népszavazásról és népi kezdemé-
+nyezésről szóló 1998. évi III. törvény 2. §-án, a jogorvoslatról
+szóló tájékoztatás a Ve. 130. §-ának (1) bekezdésén alapul.
+Dr. Szigeti Péter s. k.,
+az Országos Választási Bizottság elnöke
