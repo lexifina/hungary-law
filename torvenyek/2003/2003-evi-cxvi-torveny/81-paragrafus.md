@@ -1,0 +1,1 @@
+81. § A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 4. alcím, 4. jogcím-csoport, 3. Egyéb kiadások jogcím előirányzata a közoktatásról szóló 1993. évi LXXIX. törvény 119. § (2) bekezdése alapján a Fogyatékos Gyermekek, Tanulók Felzárkóztatásáért Országos Közalapítvány támogatására fordítható.

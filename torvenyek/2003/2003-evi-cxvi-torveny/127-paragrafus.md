@@ -1,0 +1,1 @@
+127. § Budapest Főváros Önkormányzata a 4-es metró megépítésének pénzügyi lebonyolítására szolgáló pénzforgalmi számláját a Kincstárban vezeti a Magyar Állam és Budapest Főváros Önkormányzata között létrejött, a beruházás közös finanszírozásáról szóló szerződésben foglaltak szerint.

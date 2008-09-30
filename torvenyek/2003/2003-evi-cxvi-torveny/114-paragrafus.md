@@ -1,0 +1,1 @@
+114. § Az adókról, járulékokról és egyéb költségvetési befizetésekről szóló törvények módosításáról szóló 2003. évi XCI. törvény 196. §-ával megállapított, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 67/A. §-ának jelölése 67/B. §-ra változik.

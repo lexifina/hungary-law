@@ -1,0 +1,1 @@
+58. § A fogvatartottakat foglalkoztató büntetés-végrehajtási gazdálkodó szervezetek (ide nem értve a büntetés-végrehajtási intézeteket) sajátos többletköltségei részbeni ellentételezésére 511,7 millió forint fordítható.

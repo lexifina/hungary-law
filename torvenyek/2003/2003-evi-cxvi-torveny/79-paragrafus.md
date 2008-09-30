@@ -1,0 +1,1 @@
+79. § A LXXI. Nyugdíjbiztosítási Alap fejezet, 5. cím, 1. alcím, 1. előirányzat-csoport, 3. Dologi kiadások kiemelt előirányzat túlléphető a világbanki informatikai fejlesztés bankgarancia-lehívásával (beváltásával) összefüggő, illetve felmerülő – jogerős bírói határozatban meghatározott – kötelezettség összegével.

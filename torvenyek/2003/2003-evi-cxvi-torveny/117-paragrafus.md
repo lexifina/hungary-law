@@ -1,0 +1,3 @@
+117. § (1) Az Országgyűlés felhatalmazza a fejezet felügyeletét ellátó szerv vezetőjét, hogy ha olyan európai uniós támogatás kerülne 2004-ben felhasználásra, amelyet a fejezet előirányzata nem tartalmaz, akkor új előirányzatot nyisson az EU támogatás előirányzatára – bevételi és kiadási oldalon egyaránt – és a hazai társfinanszírozást a fejezet előirányzatain belül átcsoportosítással biztosítsa.
+
+(2) Az Országgyűlés felhatalmazza a fejezet felügyeletét ellátó szerv vezetőjét, hogy ha a fejezeti előirányzatnál nagyobb összegű európai uniós támogatás kerülne 2004-ben felhasználásra, akkor a hazai társfinanszírozást a fejezet előirányzatain belül átcsoportosítással biztosítsa.

@@ -1,0 +1,1 @@
+19. § A Turisztikai célelőirányzat (XV. Gazdasági és Közlekedési Minisztérium fejezet 25. cím, 3. alcím, 2. jogcím-csoport) 5%-át az ifjúsági turizmus céljára kell fordítani. Az Országgyűlés felhatalmazza a gazdasági és közlekedési minisztert, valamint a gyermek-, ifjúsági és sportminisztert, hogy rendeletben állapítsa meg a végrehajtás részletes szabályait.

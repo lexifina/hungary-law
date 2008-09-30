@@ -1,0 +1,1 @@
+59. § A közoktatásról szóló 1993. évi LXXIX. törvény 118. §-ának (10) bekezdésében meghatározott, kiemelt munkavégzésért járó kereset-kiegészítés számítási alapja 2004. január 1-jétől 2004. augusztus 31-ig 3900 forint/fő/hónap, 2004. szeptember 1-jétől 2004. december 31-ig 5000 forint/fő/hónap.

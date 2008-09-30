@@ -1,0 +1,1 @@
+119. § Az Operatív Programok és az ISPA/Kohéziós Alap projektek esetén tervezett céltartalék csak az adott Operatív Program, illetve az adott ISPA/Kohéziós Alap projektek előre nem látható kiadásainak finanszírozására használható. A céltartalék intézményi kiadási célokra nem használható.

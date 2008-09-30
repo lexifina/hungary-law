@@ -1,0 +1,1 @@
+46. § Az agrárkezességek érvényesítésének forrása 2004. január 1-jétől a XII. Földművelésügyi és Vidékfejlesztési Minisztérium fejezet, 10. cím, 5. alcím, 2. jogcím-csoport, 3. Agrárgazdasági kezességbeváltás jogcímen előirányzott összeg.

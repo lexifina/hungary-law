@@ -1,0 +1,3 @@
+125. § (1) Az Országgyűlés felhatalmazza a helyi önkormányzatokért felelős minisztert és az államháztartásért felelős minisztert a 2003. évi LV. törvénnyel jóváhagyott 4-es metró finanszírozása során az adott éves pénzügyi előirányzat terhére előleg folyósítására, amennyiben a Kincstárhoz benyújtott kivitelezési szerződésben vállalt kötelezettség szerint történik.
+
+(2) Az Országgyűlés felhatalmazza a közlekedésért felelős minisztert és az államháztartásért felelős minisztert, hogy az e törvény 3. §-a (1) bekezdésének a) pontjában jóváhagyott gyorsforgalmi úthálózat-fejlesztés finanszírozása során az adott éves pénzügyi előirányzat terhére előleg folyósítására, amennyiben a Kincstárhoz benyújtott kivitelezési szerződésben meghatározott kötelezettség szerint történik.
