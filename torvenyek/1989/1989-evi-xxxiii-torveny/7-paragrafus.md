@@ -1,0 +1,1 @@
+7. § Ha a párt a 3. § (1) bekezdésének a) vagy b) pontjában foglaltaknak megfelelően szűnik meg, vagyona a jogutód párt tulajdonába kerül. Szétválás esetén a vagyon megosztásának arányát és módját a párt határozza meg.

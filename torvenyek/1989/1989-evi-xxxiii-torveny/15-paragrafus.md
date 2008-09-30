@@ -1,0 +1,1 @@
+15. § Ha már bejegyzett társadalmi szervezet pártként kíván működni, köteles bejelenteni a bíróságnak, hogy a pártok működéséről és gazdálkodásáról szóló törvényt magára nézve kötelezőnek ismeri el, és alapszabályát egyidejűleg a bíróságnak benyújtani.

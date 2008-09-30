@@ -1,0 +1,1 @@
+16. § Pártként az a társadalmi szervezet működhet, amely bejegyzési kérelmével, illetőleg a 15. §-ban említett bejelentésével egyidejűleg a 2. számú mellékletben meghatározottak szerinti vagyonmérlegét a bírósághoz benyújtotta.
