@@ -1,0 +1,3 @@
+6. § (1) Az állományilletékes parancsnokok – kivéve az országos parancsnok közvetlen alárendeltségében lévő főigazgatót – az egészséget nem veszélyeztető és biztonságos szervezett tevékenység biztosításának módját és feltételeit – az irányításuk alá tartozó szervezetekre vonatkozóan – Munkavédelmi Szabályzatban (a továbbiakban: MvSz) határozzák meg. Évente legalább egy alkalommal értékelik a szervezetük munkavédelmi helyzetét, a munkavédelmi ellenőrzések tapasztalatait és meghatározzák az ezekkel kapcsolatos feladatokat.
+
+(2) Az MvSz kötelező tartalmi követelményeit a 2. számú melléklet tartalmazza.

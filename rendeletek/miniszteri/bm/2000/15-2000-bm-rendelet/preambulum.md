@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 9. §-ának (3) bekezdésében kapott felhatalmazás alapján – figyelemmel az Mvt. 17. §-ának (7) bekezdésére és 86. §-ának rendelkezéseire, az érintett érdekképviseletek egyetértésével – a következőket rendelem el:
