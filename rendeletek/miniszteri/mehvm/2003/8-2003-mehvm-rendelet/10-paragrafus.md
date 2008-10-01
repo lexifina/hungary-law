@@ -1,0 +1,3 @@
+## 9. § A rendszeresített veszélyes haditechnikai eszközök és veszélyes speciális munkaeszközök biztonságos műszaki állapotának megőrzése érdekében az eszközök biztonsági felülvizsgálatát a megfelelőségi (minőségi) tanúsítványukban, műszaki leírásukban, illetve az üzemeltetésükre vonatkozó külön szabályzatban meghatározott időszakonként – de legalább 5 évenként – el kell végezni. A vizsgálatot az eszköz jellege szerint megfelelő, akkreditált vagy más, jogszabály által erre feljogosított személy vagy intézmény megbízásával, illetve az üzemeltető szolgálat bevonásával kell elvégezni.
+
+## (Az Mvt. 27. §-ához)

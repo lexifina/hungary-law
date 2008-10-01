@@ -1,0 +1,3 @@
+5. § (1) A főigazgató az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit az irányítása alá tartozó szolgálatra vonatkozóan Munkavédelmi Szabályzatban (a továbbiakban: MvSz) határozza meg. Az MvSz kötelező tartalmi elemeit a rendelet 2. számú melléklete tartalmazza.
+
+(2) A főigazgató évente köteles értékelni az általa irányított szolgálatnál a munkavédelem helyzetét és a munkavédelmi ellenőrzések tapasztalatait, valamint meghatározni az ezekkel kapcsolatos feladatokat. A szolgálat munkavédelmi helyzetéről, illetve a munkavédelmi ellenőrzés eredményéről készített összefoglaló jelentést a munkabiztonsági főfelügyelő útján a miniszter részére fel kell terjeszteni.
