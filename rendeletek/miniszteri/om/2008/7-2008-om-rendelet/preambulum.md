@@ -1,0 +1,1 @@
+A szakképzésről szóló 1993. évi LXXVI. törvény 5. §-a (1) bekezdése b) pontjának második fordulatában kapott felhatalmazás alapján, valamint az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet 1. §-ának a), b), c) és e) pontjaiban meghatározott feladatkörömben eljárva a következőket rendelem el:

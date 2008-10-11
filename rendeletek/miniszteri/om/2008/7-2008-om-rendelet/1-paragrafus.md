@@ -1,0 +1,5 @@
+1. § (1) Az e rendelet 1. számú mellékletében felsorolt intézmények 2012. szeptember 30-ig jogosultak iskolarendszeren kívüli, az önkormányzati miniszter hatáskörébe tartozó szakképesítések megszerzésére irányuló szakmai vizsga szervezésére.
+
+(2) A szakmai vizsga szervezésére feljogosított intézmény az e rendelet 2. számú mellékletében megjelölt szakképesítés, szakképesítés-elágazás, ezek részszakképesítése, szakképesítés-ráépülés, valamint részszakképesítés tekintetében és az ott meghatározott régióban jogosult szakmai vizsga szervezésére.
+
+(3) Az (1) bekezdés szerinti intézményeken kívül a Katasztrófavédelmi Oktatási Központ a Polgári védelmi előadó (OKJ szám: 52 861 05 0000 00 00) szakképesítés, a ráépülő Katasztrófavédelmi és polgári védelmi főelőadó (OKJ szám: 52 861 05 0001 54 01) szakképesítés, a Tűzoltó (OKJ szám: 51 861 01 0000 00 00) szakképesítés, a ráépülő Tűzoltó technikus (OKJ szám: 51 861 01 0001 54 01) szakképesítés, a Tűzvédelmi előadó (OKJ szám: 52 861 07 0000 00 00) szakképesítés, a ráépülő Tűzvédelmi főelőadó (OKJ szám: 52 861 07 0001 54 01) szakképesítés tekintetében jogosult szakmai vizsga megszervezésére országos illetékességgel.
