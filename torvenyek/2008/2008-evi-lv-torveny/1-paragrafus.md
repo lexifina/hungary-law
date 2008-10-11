@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Közösségek és tagállamaik, valamint Bosznia és Hercegovina közötti Stabilizációs és Társulási Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
