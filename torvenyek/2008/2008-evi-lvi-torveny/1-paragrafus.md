@@ -1,0 +1,3 @@
+1. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 101. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Alap a kártalanításra jogosult személy részére a befagyott betét tőke- és kamatösszegét személyenként és hitelintézetenként összevontan legfeljebb tizenhárommillió forint összeghatárig fizeti ki kártalanításként. Devizabetét esetén a kártalanítás összegének, valamint az e bekezdés szerinti összeghatárnak a megállapítása – a kifizetés időpontjától függetlenül – a betét befagyása napján érvényes MNB által közzétett hivatalos devizaárfolyamon történik.”
