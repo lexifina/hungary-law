@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Tanács 2003. február 18-i, 343/2003/EK rendeletének alkalmazása érdekében történő együttműködésről szóló, Hévízen, 2008. október hó 3. napján aláírt Közigazgatási Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
