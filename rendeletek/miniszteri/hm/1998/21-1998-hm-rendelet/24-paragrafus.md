@@ -1,0 +1,5 @@
+## VIII. Fejezet
+
+## A TÍPUSALKALMASSÁG FELTÉTELEI
+
+## ÉS A VIZSGÁLAT RENDJE
