@@ -1,0 +1,5 @@
+A 126/2006. (V. 22.) Korm. rendelettel a Magyar Közlöny 61. számában kihirdetett, a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló Megállapodás 10. cikk 1. bekezdése értelmében azon utolsó jegyzék kézhezvételének napján lép hatályba, melyben a Szerződő Felek diplomáciai úton írásban tájékoztatják egymást arról, hogy a Megállapodás hatálybalépéséhez szükséges, nemzeti jogrendjük által előírt követelményeket teljesítették.
+
+A 10. cikknek megfelelő értesítésnek a Magyar Fél 2006. június 21-i, a Brazil Fél 2008. szeptember 30-i keltezésű jegyzékében tett eleget, mely utóbbit a Magyar Fél 2008. október 1-jén vett kézhez. A fentieknek megfelelően a Megállapodás 2008. október 1-jén lépett hatályba.
+
+A fentiekre tekintettel, összhangban a 126/2006. (V. 22.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló Megállapodás kihirdetéséről szóló 126/2006. (V. 22.) Korm. rendelet 2–3. §-ai 2008. október 1-jén, azaz kettőezer-nyolc október elsején léptek hatályba.
