@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között közös helyen történő határforgalom ellenőrzése céljából Letenye–Goričan (Muracsány) II. személyforgalmi autópálya-határátkelőhely létesítéséről készült, Plitvice-ben, 2005. július 8-án aláírt Megállapodást e rendelettel kihirdeti.
