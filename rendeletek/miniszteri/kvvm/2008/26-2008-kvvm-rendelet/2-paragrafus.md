@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom és a Hevesi Füves Puszták Tájvédelmi Körzet létesítéséről szóló 9/1993. (III. 9.) KTM rendelettel (a továbbiakban: R.) védetté nyilvánított Hevesi Füves Puszták Tájvédelmi Körzethez csatolom az 1. mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 2427,4 hektár kiterjedésű területet.
