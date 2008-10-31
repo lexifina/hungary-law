@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az olimpiai jelkép oltalmáról szóló, Nairobiban, 1981. szeptember 26-án elfogadott szerződés (a továbbiakban: Szerződés) kötelező hatályának elismerésére.
