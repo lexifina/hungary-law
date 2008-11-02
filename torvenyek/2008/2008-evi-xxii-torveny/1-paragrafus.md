@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Londonban, 1976. november 19-én kelt, a tengeri követelésekkel összefüggő felelősség korlátozásáról szóló 1976. évi egyezmény (a továbbiakban: Egyezmény) és a Londonban, 1996. május 2-án kelt, az egyezmény módosításáról szóló 1996. évi jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
