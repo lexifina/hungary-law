@@ -1,0 +1,29 @@
+# A köztársasági elnök 229/2008. (XI. 3.) KE határozata
+
+Magyar Közlöny 2008. évi 156. szám, 2008. november 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3245598489bf4ab8f0125c3fb5b3e7342a0d0cba/dokumentumok/abfa8edb6fa05dbf3a601fa1af3bb3cd071ba21e/letoltes)
+
+---
+
+A köztársasági elnök
+229/2008. (XI. 3.) KE
+határozata
+kitüntetés adományozásáról
+Az Alkotmány 30/A. § (1) bekezdése j) pontja, valamint
+a Magyar Köztársaság kitüntetéseiről szóló 1991. évi
+XXXI. törvény 2. § (1) bekezdése alapján a miniszterelnök
+előterjesztésére
+több mint négy évtizedes külgazdasági és külügyi terü-
+leten végzett munkássága elismeréseként
+dr. Raffay Gézának, az Országgyűlés Külügyi Hivatala
+helyettes vezetőjének a
+MAGYAR KÖZTÁRSASÁGI ÉRDEMREND
+TISZTIKERESZTJE
+polgári tagozata
+kitüntetést adományozom.
+Budapest, 2008. október 17.
+Sólyom László s. k.,
+köztársasági elnök
+Ellenjegyzem:
+Gyurcsány Ferenc s. k.,
+miniszterelnök
+KEH ügyszám: VIII-1/04575/2008.
