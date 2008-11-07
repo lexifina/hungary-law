@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya között Budapesten, 2008. május 30-án aláírt a Kulturális Intézetek működéséről szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
