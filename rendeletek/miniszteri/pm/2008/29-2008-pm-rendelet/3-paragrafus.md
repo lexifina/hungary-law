@@ -1,0 +1,1 @@
+## A pszichikai alkalmassági vizsgálat
