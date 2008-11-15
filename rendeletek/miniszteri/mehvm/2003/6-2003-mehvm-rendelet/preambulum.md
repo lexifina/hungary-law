@@ -1,0 +1,1 @@
+A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény (a továbbiakban: tűzvédelmi törvény) 47. §-a (4) bekezdésében kapott felhatalmazás alapján – a belügyminiszterrel egyetértésben – a következőket rendelem el:
