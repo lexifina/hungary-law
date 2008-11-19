@@ -1,0 +1,5 @@
+A 2008. évi XXXIV. törvénnyel kihirdetett, a Magyar Köztársaság Kormánya és az Észak-atlanti Szerződés Szervezete közötti, a NATO Légiszállítást Kezelő Szervezetnek a Magyar Köztársaság területén való településéről és működéséről szóló Megállapodás 11. cikke értelmében a Megállapodás az azt követő hónap első napján lép hatályba, hogy a Felek diplomáciai úton értesítették egymást arról, hogy a hatálybalépéshez szükséges belső eljárások befejeződtek.
+
+A 11. cikknek megfelelő értesítésnek a NATO 2008. május 26-i, a Magyar Fél 2008. október 29-i keltezésű jegyzékében tett eleget. A fentieknek megfelelően a Megállapodás 2008. november 1-jén lépett hatályba.
+
+A fentiekre tekintettel, összhangban a 2008. évi XXXIV. törvény 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és az Észak-atlanti Szerződés Szervezete közötti, a NATO Légiszállítást Kezelő Szervezetnek a Magyar Köztársaság területén való településéről és működéséről szóló Megállapodás kihirdetéséről szóló 2008. évi XXXIV. törvény 2–3. §-ai 2008. november 1-jén, azaz kettőezer-nyolc november elsején léptek hatályba.
