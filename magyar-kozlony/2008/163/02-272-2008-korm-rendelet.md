@@ -1,0 +1,410 @@
+# A Kormány 272/2008. (XI. 19.) Korm. rendelete
+
+Magyar Közlöny 2008. évi 163. szám, 2008. november 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a46b932ef7e7ecc2eabb6d6c43d37f23c104a1b5/dokumentumok/11727863af16ac94108905ab70275a3f654c1d77/letoltes)
+
+---
+
+A Kormány
+272/2008. (XI. 19.) Korm.
+rendelete
+a Magyar Köztársaság Kormánya és Montenegró
+Kormánya között a gazdasági együttműködésről szóló
+megállapodás kötelező hatályának elismerésére adott
+felhatalmazásról és kihirdetéséről
+1. §
+A Kormány e rendelettel felhatalmazást ad a Magyar
+Köztársaság Kormánya és Montenegró Kormánya között a
+gazdasági együttműködésről szóló megállapodás (a továb-
+biakban: megállapodás) kötelező hatályának elismerésére.
+2. §
+A Kormány a megállapodást e rendelettel kihirdeti.
+3. §
+A megállapodás hivatalos angol nyelvű szövege és an-
+nak hiteles magyar nyelvű fordítása a következő:
+„AGREEMENT ON
+ECONOMIC COOPERATION BETWEEN
+THE REPUBLIC OF HUNGARY
+AND MONTENEGRO
+Preamble
+The Republic of Hungary and Montenegro (hereinafter
+called „the Contracting Parties”),
+Recognizing the EU membership of the Republic of
+Hungary and the stage of Montenegro in the process of
+accession to the European Union, and believing that these
+processes will give new opportunities for expanding
+bilateral economic cooperation,
+Confirming their will to develop the positive effect of
+their traditional economic relations,
+Expressing their readiness to co-operate in finding the
+means and ways for strengthening and developing a
+mutually beneficial cooperation,
+Convinced that this Agreement will contribute to the
+development of the economic relations between them in
+the new reality and in particular to the enhancement of the
+mutually beneficial economic, technical and technological
+cooperation,
+Have agreed as follows:
+Article 1
+The Contracting Parties shall contribute to develop and
+expand their mutually beneficial economic cooperation.
+Being aware of the need for appropriate legal basis for the
+elaboration of mutual relations in accordance with valid
+legislation in both the countries.
+Article 2
+The Contracting Parties shall make efforts to develop
+their bilateral cooperation on a wide basis, in particular in
+the areas specified in Annex 1 to this Agreement.
+Article 3
+The Contracting Parties shall develop and expand their
+economic cooperation through the implementation of the
+measures specified in Annex 2 to this Agreement.
+Article 4
+The Contracting Parties shall set up a
+Hungarian–Montenegrin Commission on Economic
+Cooperation with tasks and rules of procedure as specified
+in Annex 3 to this Agreement.
+Article 5
+This Agreement shall in no way prejudice to the
+obligations of the Republic of Hungary as a member state
+of the European Union, and is subject to those obligations.
+Consequently the provisions of this Agreement shall not
+be invoked or interpreted, neither in whole nor in part in
+such a way as to invalidate, amend or otherwise affect the
+obligations of the Republic of Hungary arising from the
+Treaty of Accession, the Treaties on which the European
+Union is founded, the Treaty on the European Union as
+well as from the primary and secondary law of the
+European Union.
+Article 6
+The Contracting Parties agree that the Agreement on
+Economic Co-operation between the Government of the
+Republic of Hungary and the Council of Ministers of
+Serbia and Montenegro signed on 26 May 2005, in
+Belgrade shall cease to be in force between the
+
+Contracting Parties on the day of the entry into force of the
+present Agreement.
+Article 7
+The Contracting Parties shall settle by negotiations any
+disputes which may arise between them regarding the
+implementation and interpretation of this Agreement.
+Article 8
+The present Agreement can be amended by the mutual
+consent of the two Contracting Parties. Each amendment
+shall be executed in individual protocols.
+Article 9
+The annexes to this Agreement shall constitute an
+integral part hereof.
+Article 10
+1. This Agreement shall enter into force on the date of
+receipt of the latter notification, through diplomatic
+channels, indicating the completion of all internal legal
+procedures of both countries.
+2. This Agreement shall be concluded for an unlimited
+period.
+3. Each Contracting Party to this Agreement may
+terminate this Agreement, by means of a written
+notification to the other Contracting Party. The
+termination shall take effect on the first day of the fourth
+month following the date of the notification was received
+by the other Contracting Party.
+Done at …………, on …………….……. 2008 in Eng-
+lish language, in two originals, all texts being equally
+authentic.
+For the Government For the Government
+Republic of Hungary of Montenegro
+ANNEX No. 1
+The areas of economic cooperation shall include inter
+alia:
+1. Industry:
+– machine-building;
+– metallurgy,
+– processing industry;
+– electronics and electric machine-building industry;
+– chemical industry;
+– pharmaceutical industry;
+– food processing industry
+2. Agriculture:
+– crop production and stock-breeding;
+– fish industry;
+3. Forestry;
+4. Military economic cooperation;
+5. Energy sector;
+6. Research and development;
+7. Construction and building industry;
+8. Telecommunications, computing and informatics;
+9. Transport and logistics;
+10. Environment protection;
+11. Water management;
+12. Tourism;
+13. Investment promotion;
+14. SME cooperation;
+15. Science and technology.
+ANNEX No. 2
+Measures Expanding and Intensifying the Economic
+Cooperation
+1. Strengthening the economic cooperation of the
+government institutions, professional organizations and
+business circles, chambers and associations, regional and
+local bodies, including exchange of economic information
+of mutual interest, as well as mutual visits of
+representatives of the institutions and the enterprises of
+both Parties;
+2. Providing incentives for establishing new and
+enhancing existing business contacts, encouraging mutual
+contacts and visits of private persons and entrepreneurs;
+3. Business information exchange, participation in
+international fairs and exhibitions, providing assistance
+for the organization of events for business representatives,
+seminars, conferences, symposiums;
+4. Promoting the importance of an enhanced role of the
+small and medium-sized enterprises in the bilateral
+economic relations;
+5. Cooperation in the field of marketing, consulting and
+expert services in the areas of mutual interest;
+6. Enhancing closer relations and cooperation of
+financial and banking institutions;
+7. Encouraging the development of bilateral investment
+activity;
+8. Encouraging the opening of representations
+Promoting international cooperation;
+9. Promoting the cooperation on third countries’
+markets;
+
+10. Information exchange on programs and projects,
+encouraging the involvement of entrepreneurs in their
+implementation.
+ANNEX No. 3
+Tasks, structure and rules of procedure of the
+Hungary–Montenegrin Commission on Economic
+Cooperation
+1. The tasks of the Hungarian–Montenegrin
+Commission on Economic Cooperation, hereinafter called
+„The Commission” include:
+– discussing bilateral economic relations development
+issues;
+– identifying new development opportunities for the
+bilateral economic relations;
+– developing proposals for improving the environment
+for economic cooperation of the organizations of both
+Parties;
+– submitting proposals on the implementation of this
+Agreement.
+2. The Commission shall comprise representatives of
+the Hungarian side and the Montenegrin side.
+Each Contracting Party shall designate a chairperson on
+its part, referred to as „Co-chair”. Each Co-chair shall
+designate a secretary for the respective part of the
+Commission.
+For the discussion of particular issues, the Commission
+may decide to set up working groups, specifying their
+tasks and the time limits for implementation of the tasks.
+3. The Commission shall meet upon the request of each
+contracting Party, alternatively in the Republic of Hungary
+and Montenegro.
+The Co-chairs shall agree on the date and on the
+preliminary agenda of the meetings of the Commission not
+later than 1 month in advance.
+Advisors and experts may be invited at the meetings of
+the Commission on mutual agreement.
+Protocol shall be taken at each meeting and discussion
+in accordance with the Commission. The working
+language of the Commission shall be English.”
+GAZDASÁGI EGYÜTTMŰKÖDÉSI
+MEGÁLLAPODÁS
+A MAGYAR KÖZTÁRSASÁG ÉS MONTENEGRÓ
+KÖZÖTT
+Előszó
+A Magyar Köztársaság és Montenegró (a továbbiak-
+ban: a „szerződő felek”),
+elismerve a Magyar Köztársaság EU-tagságát és a Mon-
+tenegró által az EU-csatlakozási folyamatban megtett ed-
+digi utat, illetve bízva abban, hogy ezek a folyamatok új
+lehetőségeket nyitnak meg a kétoldalú gazdasági együtt-
+működés kibővítésére,
+megerősítve azon akaratukat, hogy hagyományos gaz-
+dasági kapcsolataik pozitív hatását továbbfejlesszék,
+kifejezve készségüket együttműködés kialakítására új
+eszközök és módok feltárására a kölcsönösen kedvező
+együttműködés megerősítése és továbbfejlesztése érde-
+kében,
+kifejezve meggyőződésüket arról, hogy a jelen megálla-
+podás hozzá fog járulni az országaik közötti gazdasági
+kapcsolatok fejlődéséhez a megváltozott körülmények kö-
+zött, különös tekintettel a kölcsönösen kedvező gazdasági,
+műszaki és technológiai együttműködés bővítésére,
+a következőkben állapodtak meg:
+1. Cikk
+A szerződő felek hozzájárulnak a kölcsönösen kedvező
+gazdasági együttműködés továbbfejlesztéséhez és kibőví-
+téséhez, figyelemmel arra, hogy mindkét országban a hatá-
+lyos jogszabályokkal összhangban megfelelő jogi keretet
+kell teremteni a kölcsönös kapcsolatok kiépítéséhez.
+2. Cikk
+A szerződő felek erőfeszítéseket tesznek arra, hogy a
+kétoldalú együttműködést széles alapra helyezzék, külö-
+nös tekintettel a jelen megállapodás 1. mellékletében meg-
+határozott területekre.
+3. Cikk
+A szerződő felek gazdasági együttműködésüket a jelen
+megállapodás 2. mellékletében részletezett intézkedések
+végrehajtásával fejlesztik és bővítik.
+4. Cikk
+A szerződő felek egy magyar–montenegrói gazdasági
+együttműködési bizottságot hoznak létre a jelen megálla-
+podás 3. mellékletében meghatározott feladatokkal és sza-
+bályokkal.
+5. Cikk
+A jelen Megállapodás nem befolyásolja azokat a kötele-
+zettségeket, amelyek Magyarország európai uniós tagsá-
+gából fakadnak. Következésképpen jelen Megállapodás
+rendelkezései sem együttesen, sem önmagukban nem
+idézhetők vagy értelmezhetők úgy, mint amelyek érvény-
+telenítik, módosítják vagy bármilyen más módon befolyá-
+
+solják Magyarországnak különösen a Csatlakozási Szer-
+ződéssel vállalt, az Európai Közösséget létrehozó Szerző-
+désből, az Európai Unióról szóló Szerződésből, valamint
+általában véve az Európai Unió elsődleges és másodlagos
+jogából származó kötelezettségeit.
+6. Cikk
+A szerződő felek megállapodnak abban, hogy a Magyar
+Köztársaság Kormánya és Szerbia-Montenegró miniszter-
+tanácsa által 2005. május 26-án Belgrádban aláírt gazdasá-
+gi együttműködési megállapodás jelen megállapodás ha-
+tálybalépésének napján hatályát veszti.
+7. Cikk
+A szerződő felek a közöttük a jelen megállapodás vég-
+rehajtásából vagy értelmezéséből eredő esetleges vitáikat
+tárgyalások útján rendezik.
+8. Cikk
+A jelen megállapodást a két szerződő fél kölcsönös
+egyetértésével lehet módosítani. Minden egyes módosítást
+külön protokollban kell aláírni.
+9. Cikk
+A jelen megállapodás mellékletei a megállapodás szer-
+ves részét képezik.
+10. Cikk
+1. A jelen megállapodás a megállapodásról szóló utolsó
+értesítés kézhezvétele napján lép életbe, amelyet diplomá-
+ciai úton továbbítanak, feltüntetve mindkét ország összes
+belső jogi eljárásának teljesítését.
+2. A jelen megállapodást a felek határozatlan időszakra
+kötik.
+3. A jelen megállapodás mindegyik fele a másik fél szá-
+mára küldött írásos értesítésben szüntetheti meg a jelen
+megállapodást. A megszüntetés attól a naptól számított ne-
+gyedik hónap első napján lép életbe, amikor a másik fél
+kézhez vette a megszüntetésről szóló értesítést.
+Készült Podgoricában, 2008. október 3-án angol nyel-
+ven, két eredeti példányban, amelyek mindegyike egy-
+aránt hiteles szövegezést tartalmaz.
+A Magyar Köztársaság Montenegró Kormánya
+Kormánya részéről részéről
+1. számú melléklet
+A gazdasági együttműködés többek között a következő
+területekre terjed ki:
+1. Ipar:
+– gépipar;
+– kohászat,
+– feldolgozóipar;
+– elektronika és elektronikus gépek gyártása;
+– vegyipar;
+– gyógyszeripar;
+– élelmiszer-feldolgozás
+2. Mezőgazdaság:
+– növénytermesztés és állattenyésztés;
+– halászat;
+3. Erdőgazdaság;
+4. Katonai gazdasági együttműködés;
+5. Energiaszektor;
+6. Kutatás-fejlesztés;
+7. Építőipar;
+8. Telekommunikáció, számítógépipar és informatika;
+9. Közlekedés és logisztika;
+10. Környezetvédelem;
+11. Vízgazdálkodás;
+12. Turizmus;
+13. Befektetés-ösztönzés;
+14. Kis- és közepes vállalatok együttműködése;
+15. Tudomány és technológia.
+2. számú melléklet
+A gazdasági együttműködést kibővítő és elősegítő
+intézkedések
+1. Az állami intézmények, szakmai szervezetek és üzleti
+körök, kamarák és egyesületek, térségi és helyi testületek
+közötti gazdasági együttműködés erősítése, beleértve a
+kölcsönös érdeklődésre számot tartó gazdasági informá-
+ciók cseréjét, valamint a két fél intézményei és vállalatai
+által delegált képviselők kölcsönös látogatásait;
+2. Ösztönzők biztosítása új üzleti szerződések létreho-
+zására és a meglévők bővítésére, a kölcsönös kapcsolatok
+és látogatások elősegítése magánszemélyek és vállalkozók
+között;
+3. Üzleti információk cseréje, részvétel nemzetközi ki-
+állításokon és vásárokon, segítségnyújtás üzleti képvise-
+lők eseményeinek, szemináriumok, konferenciák, szimpó-
+ziumok szervezéséhez;
+4. A kis- és közepes vállalkozások jelentőségének növe-
+lése a kétoldalú gazdasági kapcsolatokban;
+5. Együttműködés a kölcsönös érdeklődésre számot tar-
+tó kérdésekben a marketing, a tanácsadás és a szakértői
+szolgáltatások területén;
+6. A pénzügyi és a bankintézmények közötti szorosabb
+kapcsolatok és együttműködés elősegítése;
+
+7. A kétoldalú befektetési tevékenység fejlesztésének
+elősegítése;
+8. Képviseletek megnyitásának elősegítése. A nemzet-
+közi együttműködés ösztönzése;
+9. Az együttműködés elősegítése harmadik országok
+piacain;
+10. Információcsere programokról és projektekről, vál-
+lalkozók részvételének elősegítése azok megvalósítá-
+sában.
+3. számú melléklet
+A Magyar–Montenegrói Gazdasági Együttműködési
+Bizottság feladatai, felépítése és eljárási szabályai
+A Magyar–Montenegrói Gazdasági Együttműködési
+Bizottság (a továbbiakban: a „bizottság”) feladatai a kö-
+vetkezők:
+– a kétoldalú gazdasági kapcsolatok fejlesztési kérdé-
+seinek megvitatása;
+– új fejlesztési lehetőségek azonosítása a kétoldalú gaz-
+dasági kapcsolatokban;
+– ajánlások kidolgozása a két fél szervezetei között
+fennálló gazdasági együttműködés környezetének javítá-
+sára;
+– ajánlások előterjesztése a jelen megállapodás végre-
+hajtására.
+1. A bizottság a magyar és a montenegrói oldal képvise-
+lőiből áll.
+Mindegyik szerződő fél saját részéről egy elnököt nevez
+ki, aki „társelnökként” tevékenykedik. Mindegyik társ-
+elnök egy titkárt nevez ki a bizottság vonatkozó része szá-
+mára.
+Az egyes kérdések megvitatására a bizottság munkacso-
+portokat hozhat létre, meghatározva azok feladatait és a
+határidőket a feladatok végrehajtására.
+2. A bizottság a szerződő felek kérésére ül össze, fel-
+váltva a Magyar Köztársaságban és Montenegróban.
+A társelnökök legalább 1 hónappal korábban állapod-
+nak meg a bizottság üléseinek idejéről és napirendjéről.
+Tanácsadókat és szakértőket kölcsönös egyetértéssel le-
+het a bizottság üléseire meghívni.
+Minden ülésről és megbeszélésről jegyzőkönyv készül a
+bizottsággal egyetértésben. A bizottság munkanyelve az
+angol.”
+4. §
+(1) Ez a rendelet – a (2) bekezdésben meghatározott ki-
+vétellel – a kihirdetését követő napon lép hatályba.
+(2) E rendelet 2–3. §-a a megállapodás 10. cikkében
+meghatározott időpontban lép hatályba.
+(3) A megállapodás, illetve e rendelet 2–3. §-a hatályba-
+lépésének naptári napját a külpolitikáért felelős miniszter
+annak ismertté válását követően a Magyar Közlönyben ha-
+ladéktalanul közzétett egyedi határozatával állapítja meg.
+(4) E rendelet végrehajtásához szükséges intézkedések-
+ről a külgazdaságért felelős miniszter gondoskodik.
+Gyurcsány Ferenc s. k.,
+miniszterelnök
