@@ -1,0 +1,1 @@
+Az Országgyűlés fejet hajt Kercaszomor lakóinak, a falujuk Magyarországhoz tartozása érdekében indított, 1920-as fegyveres felkelésben tanúsított bátor magatartása előtt, ezért az alábbi törvényt alkotja:
