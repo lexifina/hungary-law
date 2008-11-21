@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság, valamint Montenegró Köztársaság között a társadalombiztosításról és a szociális biztonság egyes kérdéseiről szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
