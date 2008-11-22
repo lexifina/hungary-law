@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság, valamint Montenegró között a társadalombiztosításról és a szociális biztonság egyes kérdéseiről szóló Egyezmény végrehajtására szolgáló Igazgatási Megállapodás (a továbbiakban: Igazgatási Megállapodás) kötelező hatályának elismerésére.
