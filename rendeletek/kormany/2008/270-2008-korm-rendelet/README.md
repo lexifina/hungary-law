@@ -1,0 +1,9 @@
+# 270/2008. (XI. 18.) Korm. rendelet
+
+az állami kitüntetések adományozásának rendjéről és a Kitüntetési Bizottságról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-270-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-11-26 | 2008-270-20-22.1 | 270/2008. (XI. 18.) Korm. rendelet |
