@@ -1,0 +1,1 @@
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 78. §-ának (3) bekezdésében foglalt felhatalmazás alapján – a polgári nemzetbiztonsági szolgálatokat irányító miniszterrel és a rendészetért felelős miniszterrel egyetértésben – a következőket rendelem el:
