@@ -1,0 +1,5 @@
+A 4/2008. (I. 19.) Korm. rendelettel a Magyar Közlöny 8. számában kihirdetett, a Magyar Köztársaság Kormánya és Románia Kormánya közötti, a légtérrendészeti feladatokban történő együttműködésről szóló megállapodás a 13. cikk 1. bekezdése értelmében ezen Megállapodás a Felek által diplomáciai csatornákon megküldött, a hatálybalépéshez szükséges belső jogi előírások teljesítéséről tájékoztató, későbbi jegyzéknek a kézhezvétele napján lép hatályba.
+
+A 13. cikknek megfelelő értesítésnek a Magyar Fél 2008. január 31-i, a Román Fél 2008. október 29-i keltezésű jegyzékében tett eleget, mely utóbbit a Magyar Fél 2008. október 30-án vett kézhez. A fentieknek megfelelően a Megállapodás 2008. október 30-án lépett hatályba.
+
+A fentiekre tekintettel, összhangban a 4/2008. (I. 19.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és Románia Kormánya közötti, a légtérrendészeti feladatokban történő együttműködésről szóló megállapodás kihirdetéséről szóló 4/2008. (I. 19.) Korm. rendelet 2–3. §-ai 2008. október 30-án, azaz kettőezer-nyolc október harmincadikán léptek hatályba.
