@@ -1,0 +1,9 @@
+# 268/2004. (IX. 24.) Korm. rendelet
+
+a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja, a Népművészet Mestere díj alapításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-268-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-11-26 | 2004-268-20-22.3 | 268/2004. (IX. 24.) Korm. rendelet |
