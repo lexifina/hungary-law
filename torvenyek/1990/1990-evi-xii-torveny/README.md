@@ -1,0 +1,7 @@
+# 1990. évi XII. TÖRVÉNY a Kossuth-díjról és a Széchenyi-díjról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-12-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2008-11-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 1990-12-00-00.4 |

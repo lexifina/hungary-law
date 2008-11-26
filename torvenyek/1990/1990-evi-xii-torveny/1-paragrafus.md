@@ -1,0 +1,1 @@
+1. § Kossuth-díj vagy Széchenyi-díj (a továbbiakban együtt: Díj) adományozható annak, aki a tudományok, a műszaki alkotások, a kutatás, a műszaki fejlesztés, a kulturális és művészeti alkotások, a gyógyítás, az oktatás-nevelés terén kivételesen magas színvonalú, példaértékű, nemzetközileg is elismert eredményt ért el.

@@ -1,0 +1,1 @@
+4/A. § A Díj adományozására és visszavonására a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvénynek a Magyar Köztársaság Érdemrendje adományozására, illetőleg visszavonására vonatkozó eljárási szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.
