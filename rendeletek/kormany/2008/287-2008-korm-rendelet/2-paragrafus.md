@@ -1,0 +1,17 @@
+## „(10) Az e rendelet szerint elszámolható (elszámolási) villamosenergia-mennyiség az erőműegységnek a villamosenergia-ellátási szabályzatokban meghatározott módon kialakított elszámolási mérőhelyein mérési időegységenként mért, előjelhelyesen és zónaidőnként összegzett villamosenergia-mennyiség alapján, az elszámolási ponti azonosító jelhez tartozó képlet szerint kerül meghatározásra, de nem haladhatja meg a termelt villamos energiának az önfogyasztással csökkentett mértékét.
+
+## (11) Ha az Értékesítő által a hálózatba betáplált villamos energia mennyisége kevesebb, mint az onnan felhasznált villamos energia, és az Értékesítő villamosenergia-vásárlási szerződéssel nem rendelkezik, az Értékesítő az önfogyasztás céljára a hálózatból felhasznált villamos energiáért az átviteli rendszerirányítónak – a kötelező átvételi mérlegkörben az adott hónapban alkalmazott – külön jogszabály szerinti kötelező átvételi egységárral számított díjat köteles fizetni.
+
+## (12) Ha az elszámolási mérés nem a közcélú csatlakozási ponton történik, a villamos energia mért mennyiségét a mérési és a csatlakozási pont közötti szakasz hatásos veszteségével korrigálni kell. E korrekciót az elszámolási ponti képletnek is tartalmaznia kell.
+
+## (13) A hálózatra csatlakozás során a biztonsági, a műszaki és a gazdasági szempontok összhangja érdekében az átviteli rendszerirányító, az elosztó hálózati engedélyes, a Befogadó és az erőműegység üzemeltetője a csatlakozási és az elszámolási pont kijelölésében köteles együttműködni és az elszámolási ponthoz tartozó képletet meghatározni.
+
+## (14) E rendelet szempontjából az erőműegység névleges teljesítőképességének nagyságát több egymással bármilyen módon műszakilag összekapcsolt (kivéve a villamos energia hálózatra adására szolgáló vezetékeket és egyéb villamos berendezéseket) főberendezés esetén azok együttes teljesítőképessége alapján kell megállapítani.
+
+## (15) Az e rendelet alapján átvett villamos energia mennyiségéről, árairól és egyéb jellemzőiről a Befogadó a 8. számú mellékletben, az Értékesítő a 9. számú mellékletben meghatározott tartalmú adatokat köteles havonta, a tárgyhónapot követő naptári hónap 15-ig megküldeni a Hivatal számára a Hivatal honlapján közzétett űrlap kitöltése útján. Az adatszolgáltatás elmulasztása esetén a Hivatal a VET 96. §-a szerint jár el.
+
+## (16) Ha a kötelező átvételi rendszerben értékesíthető villamos energia a VET 5. §-ának megfelelően az átviteli rendszerirányító által a rendszerszintű szolgáltatások biztosításához igényelt villamosenergia-termelés során az átviteli rendszerirányító részére kerül értékesítésre, akkor a felek közötti szerződés megkötése során a VET 5. § (3) bekezdés szerinti költségek számításának keretében a villamos energia áraként az e rendelet szerinti átvételi árakat kell figyelembe venni.
+
+## (17) Az átviteli rendszerirányító által a (16) bekezdésben hivatkozott rendelkezések szerint igényelt, villamosenergia-termeléssel összefüggő költségeket a kötelező átvételű villamos energia külön jogszabályban szabályozott átvétele és kereskedőkre való szétosztása rendszerén kívül, az átviteli rendszerirányítónak a villamosenergia-rendszer szabályozásával összefüggő költségei között kell elszámolni.
+
+## (18) A (16) bekezdésben hivatkozott villamosenergia-termelésre és hőtermelésre vonatkozó adatokat az erőműegység köteles ellenőrizhető módon kimutatni és nyilvántartani, továbbá ellenőrzés céljából a Hivatal rendelkezésére bocsátani.”
