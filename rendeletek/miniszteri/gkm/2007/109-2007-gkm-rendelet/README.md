@@ -1,0 +1,9 @@
+# 109/2007. (XII. 23.) GKM rendelet
+
+az átvételi kötelezettség alá eső villamos energiának az átviteli rendszerirányító által történő szétosztásáról és a szétosztás során alkalmazható árak meghatározásának módjáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-109-20-0L
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2008-11-30 | 2007-109-20-0L.2 | 109/2007. (XII. 23.) GKM rendelet |
