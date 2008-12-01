@@ -1,0 +1,3 @@
+27. § (1) Az Áfa tv. e törvénnyel megállapított 88. §-ának (3) és (4) bekezdése, 108. §-ának (8) bekezdése, 156. §-a (2) bekezdésének c) pontja és 167. §-ának b) pontja, valamint az Art. e törvénnyel megállapított 36/A. §-ának (7) bekezdése, e törvény 30. és 35. §-a e törvény kihirdetését követő napon lép hatályba.
+
+(2) E törvény kihirdetését követő napon lép hatályba az Áfa tv. e törvénnyel megállapított 125. §-a (1) bekezdésének b) pontja és 125. §-ának (2) bekezdése is, azzal, hogy rendelkezéseit azokban az esetekben is alkalmazni lehet, amelyekben az adólevonási jog 2008. január 1. napján vagy azt követően keletkezik.

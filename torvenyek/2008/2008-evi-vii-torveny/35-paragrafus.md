@@ -1,0 +1,1 @@
+35. § Az Art. 36/A. §-át – ideértve az e törvény 16. §-ával megállapított, Art. 36/A. § új (7) bekezdését is –, 85/A. § (3) bekezdésének utolsó mondatát, 88/A. § (2) bekezdésének d) pontját és 172. §-ának (17) bekezdését 2009. január 1-jétől kell alkalmazni azzal, hogy a 2008. március 1-jétől esedékes kifizetések együttes adóigazolás nélkül is teljesíthetők.
