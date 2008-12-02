@@ -1,0 +1,1 @@
+## 4. § Ha a szakértői testület tagjai közül a tagok valamelyikének kinevezése – annak lejártát megelőzően – megszűnik, az újonnan kinevezett tag megbízatása az eredetileg kinevezett tag megbízatási idejének hátralévő időtartamára szól.

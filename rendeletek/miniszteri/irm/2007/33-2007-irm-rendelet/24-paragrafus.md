@@ -1,0 +1,1 @@
+## 23. § Állategészségügyi Igazságügyi Szakértői Testület az R. 4. számú mellékletének 2. pontjában meghatározott állategészségügy és 6. pontjában meghatározott élelmiszer-biztonság szakterületen felmerült szakkérdésben jár el.

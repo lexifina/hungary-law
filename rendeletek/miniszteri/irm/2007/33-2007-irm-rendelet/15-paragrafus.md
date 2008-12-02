@@ -1,0 +1,3 @@
+15. § (1) Ha a szakértői vélemény kialakításához – a feltett kérdések összetettsége folytán – részben olyan különleges szakértelem szükséges, amellyel a szakértői testület tagjai nem rendelkeznek, a szakértői testület elnökének utasítása alapján a titkár tájékoztatja a megkeresőt arról, hogy az egyes kérdések megválaszolásához más szakértő (a továbbiakban: bevont szakértő) igénybevétele is szükséges.
+
+(2) Ha a megbízó a bevont szakértő igénybevételéhez hozzájárul, illetve a kirendelő bíróság vagy más hatóság az (1) bekezdés szerinti tájékoztatás alapján a bevont szakértőt kirendeli, a szakértői testület és a bevont szakértő a szakvéleményét egyesítheti.
