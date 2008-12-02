@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az 1987. évi 8. törvényerejű rendelettel kihirdetett nukleáris anyagok fizikai védelméről szóló egyezmény (a továbbiakban: Egyezmény) módosítása kötelező hatályának elismerésére.
