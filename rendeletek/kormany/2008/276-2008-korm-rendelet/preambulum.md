@@ -1,0 +1,5 @@
+A Kormány
+
+a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 207. §-ának (1) bekezdése j) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-ának (1) bekezdése b) pontjában meghatározott feladatkörében eljárva, figyelemmel az Észak-atlanti Szerződés részes államai és a „Békepartnerség” más részt vevő államai közötti, fegyveres erőik jogállásáról szóló Megállapodás és annak Kiegészítő Jegyzőkönyve megerősítéséről és kihirdetéséről szóló 1995. évi CII. törvényre, valamint az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló Megállapodáshoz történő csatlakozásról, a Megállapodás kihirdetéséről, valamint a Megállapodáshoz kapcsolódó egyes jogszabályok módosításáról szóló 1999. évi CXVII. törvényre, továbbá a Magyar Köztársaság Kormánya és az Egyesült Államok Kormánya közötti, az Egyesült Államok Fegyveres Erőinek a Magyar Köztársaság területén történő tevékenységéről szóló Megállapodás, valamint az annak mellékletét képező Végrehajtási Megállapodások megerősítéséről és kihirdetéséről szóló 1997. évi XLIX. törvényre,
+
+a következő rendeletet alkotja:
