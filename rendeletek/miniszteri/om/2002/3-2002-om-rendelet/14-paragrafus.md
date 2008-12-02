@@ -1,0 +1,5 @@
+14. §[^26] (1) Az alapfokú művészetoktatási intézmény művészeti tevékenységét a minősítő csoport a szakmai értékelési szempontrendszer alapján értékeli. A szakmai szervezetek közösen dolgozzák ki – művészeti áganként – a szakmai értékelési szempontrendszert. A szakmai értékelési szempontrendszerre vonatkozó közös javaslat az 1. számú mellékletben felsorolt szakmai szervezetek több mint felének egyetértésével nyújtható be jóváhagyásra a minősítő testületnek. A minősítő testület jóváhagyás előtt egy alkalommal a szakmai szervezeteknek visszaküldheti átdolgozásra a benyújtott javaslatot. Ezt követően a szakmai szervezetek harminc napon belül tehetnek újabb javaslatot. A szakmai értékelés szempontrendszerét a minősítő testület hagyja jóvá.
+
+(2) A minősítő testület a szakmai szempontrendszert az Oktatási és Kulturális Minisztérium hivatalos lapjában és a minősítő testületet működtető szakmai szervezet honlapján hozza nyilvánosságra.
+
+[^26]: A 14. §-t a 31/2004. (XI. 13.) OM rendelet 17. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 12/2006. (III. 28.) OM rendelet 1. §-a iktatta be, szövege a 31/2008. (XI. 24.) OKM rendelet 4. §-ával megállapított szöveg.
