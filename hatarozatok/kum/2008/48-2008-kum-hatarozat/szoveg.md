@@ -1,0 +1,5 @@
+A 144/2008. (V. 22.) Korm. rendelettel, a Magyar Közlöny 2008. május 22-ei számában kihirdetett, a Magyar Köztársaság Kormánya és Románia Kormánya között a Tanács 2003. február 18-i, 343/2003/EK rendeletének alkalmazása érdekében történő együttműködésről szóló, 2007. november 14-én, Nagyszebenben aláírt Közigazgatási Megállapodás, annak 13. cikke (1) bekezdése szerint az azt követő 30. napon lép hatályba, amikor a Szerződő Felek kölcsönösen értesítették egymást arról, hogy eleget tettek a Megállapodás hatálybalépéséhez szükséges belső jogi előírásaiknak.
+
+A Megállapodás 13. cikkének (1) bekezdése szerinti értesítés kézhezvételére 2008. augusztus 4-én került sor.
+
+A fentiekre tekintettel, összhangban a 144/2008. (V. 22.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és Románia Kormánya között a Tanács 2003. február 18-i, 343/2003/EK rendeletének alkalmazása érdekében történő együttműködésről szóló, 2007. movember 14-én, Nagyszebenben aláírt Közigazgatási Megállapodás kihirdetéséről szóló 144/2008. (V. 22.) Korm. rendelet 2–3. §-ai 2008. szeptember 3-án, azaz kettőezer-nyolc szeptember harmadik napján hatályba léptek.
