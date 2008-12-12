@@ -1,0 +1,1 @@
+26. § Az Országgyűlés tudomásul veszi, hogy a Magyar Köztársaság 2006. évi költségvetésének végrehajtásáról szóló 2007. évi CXXVIII. törvény 16. §-ában előírt megtérítési, visszautalási kötelezettségek teljesítése megtörtént.
