@@ -1,0 +1,1 @@
+3. § Az Országgyűlés e törvénnyel felhatalmazást ad a Vámegyüttműködési Tanács létrehozásáról szóló, Brüsszelben, 1950. december 15-én megkötött nemzetközi Egyezmény módosítása (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
