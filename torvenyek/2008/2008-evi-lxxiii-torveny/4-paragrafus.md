@@ -1,0 +1,1 @@
+4. § A 110/2008/EK rendelet 9. cikkének (4) és (7) bekezdéseiben, valamint 10. cikkének (1) bekezdésében foglaltakat kell alkalmazni a termékek megnevezésén, kiszerelésén, címkézésén kívül az étlapokra, itallapokra, árjegyzékekre és kereskedelmi okmányokra is.
