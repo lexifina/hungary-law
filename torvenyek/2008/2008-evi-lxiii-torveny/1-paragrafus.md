@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európa Tanács pénzmosásról, a bűncselekményből származó jövedelmek felkutatásáról, lefoglalásáról és elkobzásáról, valamint a terrorizmus finanszírozásáról szóló, Varsóban, 2005. május 16-án kelt Egyezménye (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
