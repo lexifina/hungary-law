@@ -1,0 +1,1 @@
+## A szakképesítésre vonatkozó előírások

@@ -1,0 +1,25 @@
+## 3. § Az elektromos berendezésből származó hulladék visszavételi, begyűjtési, hasznosítási és ártalmatlanítási kötelezettségének ellátásával kapcsolatos tevékenységek csak e rendelet 2. számú mellékletében foglalt szakképzettséggel folytathatók.
+
+## A gyártó adatszolgáltatási kötelezettsége
+
+4. § (1) A gyártó – a külön jogszabályban foglaltakon túl – az Országos Környezet- és Vízügyi Főfelügyelőség (a továbbiakban: Főfelügyelőség) számára adatot szolgáltat:
+
+a) a tárgyév január 31. napjáig az előző évben a Magyar Köztársaságban forgalomba hozott elektromos berendezés mennyiségéről, a tárgyévben várható mennyiségéről tömeg és darabszám tekintetében, berendezéskategóriánként,
+
+b) legkésőbb a tárgyév január 31. napjáig a tárgyévi visszavételi, begyűjtési, hasznosítási és ártalmatlanítási kötelezettségei ellátásának módjáról,
+
+c) tárgyév február 20. napjáig az előző évben begyűjtött, visszavett, hasznosított és ártalmatlanított elektromos berendezésből származó hulladék tömegéről elektromos berendezés-kategóriánként, hasznosítónként és ártalmatlanítónként is megbontva, valamint a Magyar Köztársaság területén és azon kívül kezelt (hasznosított és ártalmatlanított) hulladék tömegéről, ezek várható tárgyévi tömegéről, továbbá
+
+d) tárgyév február 20. napjáig a visszavételi, begyűjtési, hasznosítási és ártalmatlanítási kötelezettségei ellátásának biztosítására képzett tárgyévi biztosíték összegéről és típusáról.
+
+(2) A gyártó az (1) bekezdés a) és c) pontja szerinti adatszolgáltatási kötelezettségét e rendelet 3. számú mellékletében foglalt adatlapokon teljesíti.
+
+(3) Az átvevő az (1) bekezdésben meghatározott adatszolgáltatáson túl a Főfelügyelőség számára adatot szolgáltat:
+
+a) tárgyév január 31-éig az előző évben az általa kötött megállapodások alapján visszavett hulladék tömegéről,
+
+b) tárgyév február 20. napjáig arról, hogy mely gyártókkal, milyen mennyiségre kötött megállapodást visszavételre, hasznosításra, ártalmatlanításra.
+
+(4) Az átvevő adatszolgáltatási kötelezettségét az e rendelet 4. számú mellékletében foglalt adatlapokon teljesíti.
+
+(5) Az adatszolgáltatás során közölt adatok teljeskörűségéért, az adatszolgáltatásra kötelezettre vonatkozó számviteli szabályokkal, statisztikai rendszerrel, valamint egyéb nyilvántartási rendszereivel, mérési megfigyelési adataival való egyezésért az adatszolgáltatásra kötelezett felel.
