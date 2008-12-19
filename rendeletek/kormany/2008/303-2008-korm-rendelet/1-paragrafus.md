@@ -1,0 +1,3 @@
+1. § (1) A hivatásos önkormányzati tűzoltóságok személyi állományának egyszeri juttatásához a központi költségvetés 1148,0 millió forintot biztosít (a továbbiakban: Támogatás), mely a IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet, 26. Hivatásos önkormányzati tűzoltók egyszeri juttatásának támogatása címen áll rendelkezésre.
+
+(2) A Támogatás a hivatásos önkormányzati tűzoltóságok 11/2008. (XI. 26.) ÖM rendelet alapján központilag finanszírozott létszáma, valamint önkormányzati finanszírozású közalkalmazotti és hivatásos létszám alapján kerül elosztásra és igénylés nélküli folyósításra.

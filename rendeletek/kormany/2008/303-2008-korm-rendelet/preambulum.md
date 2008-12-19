@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. §-ának (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, a hivatásos önkormányzati tűzoltóságok személyi állományának egyszeri támogatásának szándékával a következőket rendeli el:
