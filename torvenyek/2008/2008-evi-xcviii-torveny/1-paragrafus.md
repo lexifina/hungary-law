@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európa Tanács 2006. május 19-én, Strasbourgban elfogadott, az államutódlás esetén bekövetkező hontalanság elkerüléséről szóló Egyezménye (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
