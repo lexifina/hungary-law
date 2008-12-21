@@ -1,0 +1,5 @@
+## A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény módosítása
+
+58. § A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény (a továbbiakban: Aptv.) 4. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság mint építtető (a továbbiakban: építtető) kizárólagos fejlesztési és építtetői feladatkörében, a Magyar Állam javára és nevében eljárva a beruházás előkészítéseként teljeskörűen elkészítteti a szükséges terveket, tanulmányokat, ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, saját nevére megszerzi az építési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést, megelőző régészeti feltárást, közműkiváltást, illetve -fejlesztést, terület-előkészítést), továbbá lefolytatja a közbeszerzési eljárásokat, építési szerződéseket köt a megvalósításra, ellátja a mérnöki felügyeletet, lebonyolítja a műszaki átadás-átvételt.”
