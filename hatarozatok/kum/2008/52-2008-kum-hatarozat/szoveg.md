@@ -1,0 +1,5 @@
+A 243/2008. (X. 8.) Korm. rendelettel a Magyar Közlöny 2008. október 8-ai, 143. számában kihirdetett, a Magyar Köztársaság Kormánya és az Európai Űrügynökség közötti, az Európai Együttműködő Államok Terve (PECS) programban való részvételről szóló megállapodás meghosszabbításáról szóló megállapodás a 2. cikk értelmében azon a napon lép hatályba, melyen az Európai Űrügynökség kézhez veszi a Magyar Fél jegyzékét a hatálybalépéshez szükséges belső eljárás lefolytatásáról.
+
+A 2. cikknek megfelelő jegyzéket az Európai Űrügynökség 2008. október 31-én vette kézhez.
+
+A fentiekre tekintettel, összhangban a 243/2008. (X. 8.) Korm. rendelet 4. §-ának (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és az Európai Űrügynökség közötti, az Európai Együttműködő Államok Terve (PECS) programban való részvételről szóló megállapodás meghosszabbításáról szóló megállapodás, valamint a megállapodás kihirdetéséről szóló 243/2008. (X. 8.) Korm. rendelet 2–3. §-ai 2008. október 31-én, azaz kettőezer-nyolc október harmincegyedikén léptek hatályba.
