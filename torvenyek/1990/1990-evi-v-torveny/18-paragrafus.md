@@ -1,0 +1,1 @@
+18. § Az az egyéni vállalkozó, aki az igazolványában feltüntetett tevékenységet személyesen gyakorolja, a ,,kisiparos'' illetve a ,,magánkereskedő'', a mestervizsgával rendelkező vállalkozó a ,,mester'' megnevezést használhatja.

@@ -1,0 +1,3 @@
+7. § (1) Az egyéni vállalkozó székhelye szerint illetékes települési (fővárosi kerületi) önkormányzat jegyzője ellenőrzi, hogy az egyéni vállalkozó tevékenysége, működése megfelel-e a jogszabályokban, illetve az igazolványában foglaltaknak, és erről tájékoztatja a vállalkozói igazolvány kiadására illetékes körzetközponti jegyzőt.
+
+(2) Ha az egyéni vállalkozó tevékenységét több telephelyen (fióktelephelyen) folytatja, az egyes telephelyek (fióktelephelyek) szerint illetékes települési (fővárosi kerületi) önkormányzat jegyzője ellenőrzi, hogy a vállalkozó tevékenysége a telephelyen (fióktelephelyen) megfelel-e a jogszabályban előírt feltételeknek és az igazolványában foglaltaknak, és erről tájékoztatja a vállalkozói igazolvány kiadására illetékes körzetközponti jegyzőt.
