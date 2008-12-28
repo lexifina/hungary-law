@@ -1,0 +1,1 @@
+## 1. § A fogyasztói szerződés [a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény, a továbbiakban: Ptk. 685. §-ának e) pontja] hibás teljesítése miatt, vagy jogszabályon alapuló jótállás keretében érvényesített kifogás intézése során e rendelet szabályai szerint kell eljárni, azoktól a fogyasztó hátrányára eltérni nem lehet.
