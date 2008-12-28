@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a nemzetközi jelentőségű vadvizekről, különösen mint a vízimadarak tartózkodási helyéről szóló, Ramsarban, 1971. február 2-án elfogadott Egyezmény, valamint annak 1982. december 3-án és 1987. május 28.—június 3. között elfogadott módosításai egységes szerkezetbe foglalt szövegét e törvénnyel kihirdeti.

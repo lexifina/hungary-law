@@ -1,0 +1,1 @@
+(A Magyar Köztársaság csatlakozási okiratainak letétbe helyezése az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete főigazgatójánál, Párizsban, 1979. április 10. napján, 1986. augusztus 26. napján és 1990. szeptember 20. napján megtörtént.)
