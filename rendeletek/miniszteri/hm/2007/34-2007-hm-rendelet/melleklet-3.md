@@ -1,0 +1,45 @@
+## A speciális előmeneteli rend alá tartozó beosztások megnevezése és az azokban elérhető legmagasabb rendfokozatok
+
+## A. I. BESOROLÁSI OSZTÁLY
+
+|  | Honvédelmi Minisztérium | HM szervezetek | ZMNE | katonai szervezetek |
+
+| vezérezredes |  |  |  |  |
+
+| altábornagy |  |  |  |  |
+
+| vezérőrnagy |  |  |  |  |
+
+| dandártábornok |  |  |  |  |
+
+| ezredes |  |  |  |  |
+
+| alezredes | kiemelt főtiszt | belső ellenőr; kiemelt főtiszt; püspöki titkár; kiemelt vezető tábori lelkész (V); kiemelt tábori lelkész; térképtárvezető (V); tudományos főmunkatárs; vezető pénzügyi referens (ov. h.) (V); vezető pénzügyi referens (V) | egyetemi docens; főelőadó (irodavezető)(V); főelőadó (alov.) (V); főmunkatárs (alov.) (V); főelőadó; főiskolai docens; főiskolai tanár; főmunkatárs; jogtanácsos; tudományos főmunkatárs; adjunktus, tanársegéd |  |
+
+| őrnagy | főtiszt | főmuzeológus (ov. h.) (V); főmuzeológus; főtiszt; irattárvezető (V); levéltárvezető (főlevéltáros) (V); pénzügyi referens; tábori lelkész; vezető pénzügyi referens (ov. h.) (V); vezető pénzügyi referens (V) | tudományos munkatárs; általános katonai vezető tanár; főtiszt; kollégiumi tanár; szakorvos; testnevelő tanár | térképész főtiszt; térképész főtiszt (ov. h.) (V); jogi és igazgatási alosztályvezető (V); meteorológus főtiszt; meteorológus főtiszt (ov. h.) (V); meteorológiai csoportparancsnok (V); főtechnológus; vezető tűzszerész (V); MH ÖHP: beosztott főtiszt, ügyviteli főtiszt, titokvédelmi főtiszt; dandár jogi és igazgatási főnökségek: főnökhelyettes (V); ezred jogi és igazgatási főnökségek: főnök (V); zászlóalj egészségügyi központ: parancsnok (V); jogi és igazgatási részleg: részlegvezető (V); HM objektumok: ügyviteli irodavezető (V); MH KIAK: beosztott főtiszt; MH HEK: laboratóriumvezető (V); szakpszichológus; tudományos főmunkatárs |
+
+| százados | tiszt | muzeológus; pénzügyi referens; tiszt | tiszt; nevelőtiszt; gyakornok; gyakorlati oktató; üzemeltető mérnök | alorvos; belső ellenőr; egészségügyi tiszt; elemző tiszt; értékelő tiszt; fedélzeti üzemeltető; fogorvos; hadműveleti tiszt; helikoptervezető lövész; helikoptervezető; igazgatási tiszt; információvédelmi tiszt; informatikai tiszt; jogász tiszt; kommunikációs tiszt; környezetvédelmi tiszt; megfigyelő; mérnök tiszt; meteorológus tiszt; munkavédelmi tiszt; orvos; pszichológus; radiológus; rejtjelző tiszt; rendszertervező-szervező tiszt; rendszerbiztonsági tiszt; rendszermérnök; repülésbiztonsági tiszt; repülőgépvezető; technológus; térképész tiszt; testnevelő tiszt; tűzvédelmi tiszt; üzemeltető; ezred jogi és igazgatási főnökségek: főnökhelyettes (V); zászlóalj egészségügyi központok: részlegvezető (V); informatikai központ: központparancsnok (V); jogi és igazgatási részleg: részlegvezető-helyettes (V); közlekedési központ: beosztott tiszt; MH KKB: kiképző tiszt; MH TD: tervező tiszt, műveleti tiszt, hadműveleti biztosító tiszt, ügyeletes tiszt; MH HIRFK: beosztott tiszt, távközlési hibamenedzser; hálózatirányítási rendszermérnök, hálózati rendszermérnök, alkalmazási menedzser, híradó rendszerfőügyeletes, informatikai rendszerfőügyeletes; légiforgalmi irányító központ: irányító tiszt; speciális ejtőernyős kiképző csoport: csoportparancsnok (V); szállító-repülő raj: fedélzeti beosztott tiszt; szállító-repülő század törzs: beosztott tiszt; MH HEK: közegészségügyi felügyelő, tudományos munkatárs, gyógyszerész, beosztott tiszt, ergonómus |
+
+| főhadnagy |  |  |  | hajóparancsnok (V); karmester-helyettes (V); műhelyparancsnok (V); tároló tiszt; tűzszerész szakaszparancsnok (V); tüzér szakaszparancsnok (V); páncéltörő szakaszparancsnok (V); üzemeltető mérnök; HUMINT: szakaszparancsnok (V); kiképző csoport: csoportparancsnok- helyettes (V); közlekedéstervező csoport: csoportparancsnok (V); különleges műveleti csoport: csoportparancsnok-helyettes (V); rádióelektronikai felderítő szakasz: szakaszparancsnok (V); rádiózavaró szakasz: szakaszparancsnok (V); speciális ejtőernyős kiképző csoport: csoportparancsnok-helyettes (V), kiképző tiszt; speciális folyami tűzszerész szakasz: szakaszparancsnok (V); tüzér és páncéltörő szakasz: szakaszparancsnok (V); vegyivédelmi és tűzoltó szakasz: szakaszparancsnok (V); MH TD: rendszerbiztonsági tiszt; légvédelmi irányító csoport: beosztott tiszt |
+
+| hadnagy |  |  |  |  |
+
+## B. II. BESOROLÁSI OSZTÁLY
+
+|  | Honvédelmi Minisztérium | HM szervezetek | ZMNE | katonai szervezetek |
+
+| főtörzszászlós |  |  |  |  |
+
+| törzszászlós | segítő; kidolgozó; vezető ügykezelő; ügykezelő; tervező-szervező tiszthelyettes | állománykezelő; informatikus; kidolgozó; költségvetési zászlós; logisztikai tiszthelyettes; nyilvántartó; pénzügyi referens; részlegvezető; segítő; számítástechnikai műszakvezető; számviteli zászlós; személyügyi tiszthelyettes; tervező-szervező tiszthelyettes; ügykezelő; vezető ügykezelő; pénzügyi zászlós | vezető ügykezelő; szakoktató | zenész (kottatáros); zenész (szolgálatvezető); ügyviteli részlegvezető; segítő; vezető meteorológiai asszisztens; vezető meteorológiai technikus; HVKF híradó beosztott; Hadkiegészítő parancsnokságok: beosztott tiszthelyettes; HM objektumok: vezető ügykezelő, részlegvezető, irattáros; MH KIAK: kidolgozó; MH ÖHP: beosztott tiszthelyettes, ügykezelő; MH HEK: beosztott tiszthelyettes, ügykezelő |
+
+| zászlós | ügykezelő | állománykezelő; ellátó zászlós; irattáros; informatikus; költségvetési zászlós; levéltári kezelő; logisztikai tiszthelyettes; nyilvántartó; számviteli zászlós; személyügyi tiszthelyettes; pénztáros; pénzügyi referens; szaktechnikus; tervező-szervező tiszthelyettes; ügykezelő | állománykezelő; ellátó tiszthelyettes; felcser; főelőadó; raktárvezető; szakasszisztens; szaktechnikus; ügykezelő | adatfeldolgozó; dokumentációkezelő; felderítő tűzszerész; főkormányos; főtechnikus; információvédelmi ügyeletes; informatikai beosztott; informatikai biztonsági ügyeletes; kiképző tűzszerész; kutató-mentő (felcser); meteorológiai asszisztens; meteorológiai technikus; munkavédelmi tiszthelyettes; programozó; rejtjelző; szaktechnikus; szólamvezető; ügykezelő; tervező beosztott; térképész; tűzvédelmi tiszthelyettes; tűzszerész rajparancsnok; informatikai központ: beosztott tiszthelyettes; kiképző csoport: kiképző tiszthelyettes; MH CKELMK: hadműveleti beosztott; MH GAVIK: kidolgozó, technikus, tájékoztató; MH LÉJÜ: technikus; MH TD: tervező beosztott; MH HIRFK: alkalmazás menedzsment ügyeletes; rep. mérnök műszaki zászlóalj: ellenőr tiszthelyettes; repülésbiztosító század: ellenőr tiszthelyettes; speciális ejtőernyős kiképző csoport: kiképző tiszthelyettes; központi szabályzat raktár: raktárvezető; MH KKB: nyomdaparancsnok, logisztikai beosztott; ABV riasztó-értesítő regionális csoport: beosztott tiszthelyettes, kiképzőbázis-parancsnok; |
+
+| főtörzsőrmester |  | gépjárművezető; technikus (gyűjteménykezelő) | gépjárművezető; ügyintéző; logisztikai beosztott; anyagkezelő | adattáros; búvárkiképző; ejtőernyős; észlelő; fedélzeti rádiós; főaknász; főtechnikus; gépkocsivezető (I/VII. és magasabb beosztású vezetők gépkocsivezetője); gépüzemvezető; informatikus mesteroperátor; kiképző tiszthelyettes; kutató-mentő; kutyavezető tűzszerész; laboráns; mechanikus; műtős; NATO futár, futárkísérő, futárkísérő (gépjárművezető); repülésbejelentő; repülést kiszolgáló; segélyhelyparacsnok; speciális tűzszerész; század személyügyi tiszthelyettes; tűzoltó rajparancsnok; tűzszerész; ügykezelő-gépíró; vámügyi tiszthelyettes; zenész; mentő gépkocsivezető; MH HEK: ápoló; MH LÉJÜ: részlegvezető-helyettes; kalibráló részleg: ellenőr tiszthelyettes; közlekedéstervező csoport: beosztott tiszthelyettes; bemérő raj: rajparancsnok; értékelő-elemző központ: beosztott tiszthelyettes; MH GAVIK: főkezelő, főszerelő; SEL üzemeltető váltás: váltásparancsnok speciális folyami tűzszerész szakasz: rajparancsnok; MH KIAK: technikus; MH 43. Vezetéstámogató Ezred: térképész; MH HEK: ápoló, szakasszisztens, boncmester, gázmester; légvédelmi irányító csoport: irányító asszisztens; MH HEK: fertőtlenítő; MH 93. Vegyivédelmi Zászlóalj: vegyivédelmi rajok: rajparancsnok; |
+
+| törzsőrmester |  |  | főszakács | asszisztens (csak eü. intézeteknél); állomásparancsnok; főszakács; futár; információvédelmi állomás beosztott tiszthelyettes; kihallgató tiszthelyettes; tűzszerész; páncéltörő raj: harcjárműparancsnok; különleges műveleti csoport: specialista; technikai felderítő állomás: beosztott tiszthelyettes |
+
+| szakaszvezető |  |  | harckocsivezető; harcjárművezető; gépkocsivezető; szerelő; anyagkezelő | legénységi beosztások |
+
+3. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^6]
+
+[^6]: A 3. számú melléklet a 26/2008. (XII. 20.) HM rendelet 5. §-a, valamint 7. § (3) bekezdés j)–k) pontja szerint módosított szöveg.
