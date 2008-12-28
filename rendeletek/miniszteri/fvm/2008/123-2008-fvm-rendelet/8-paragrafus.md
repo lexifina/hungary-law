@@ -1,0 +1,7 @@
+## A borászati melléktermékek kivonására vonatkozó kötelezettség megszegése esetén alkalmazandó jogkövetkezmények
+
+8. § (1) Az adatszolgáltatást nem vagy nem megfelelő módon teljesítő kötelezettet az MVH a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: eljárási törvény) 71. §-a szerinti mulasztási bírsággal sújthatja.
+
+(2) Aki a borászati melléktermék kivonási kötelezettségének nem tett eleget, az a következő borpiaci évben nem részesülhet az 1493/1999/EK, az 1782/2003/EK, az 1290/2005/EK és a 3/2008/EK rendelet módosításáról, valamint a 2392/86/EGK és az 1493/1999/EK rendelet hatályon kívül helyezéséről szóló, 2008. június 6-i 479/2008/EK tanácsi rendelet (a továbbiakban: 479/ 2008/EK rendelet) 9–10., valamint 12–19. cikkében meghatározott támogatásokból.
+
+(3) Amennyiben borászati hatóság vagy a Vám- és Pénzügyőrség Országos Parancsnoksága (a továbbiakban: VPOP) az ellenőrzése során megállapítja, hogy kötelezett nem teljesíti a borászati melléktermékek kivonására vonatkozó kötelezettségét, az ellenőrzésről készült jegyzőkönyvet 15 napon belül megküldi az MVH részére. Az MVH a jegyzőkönyv alapján a kötelezettet határozattal kizárja a következő borpiaci év vonatkozásában a (2) bekezdésben meghatározott támogatásokból. Az MVH a határozat egy példányát megküldi a borászati hatóság részére.
