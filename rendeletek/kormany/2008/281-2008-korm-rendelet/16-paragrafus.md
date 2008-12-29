@@ -1,0 +1,7 @@
+## Eljárás a rendelet egyes rendelkezéseinek megsértése esetén
+
+16. § (1) A 3. §-ban a szerződésnek az utas rendelkezésére bocsátására vonatkozó, továbbá a 6. § (3) bekezdésében foglalt rendelkezések megsértése esetén a Nemzeti Fogyasztóvédelmi Hatóság jár el a fogyasztóvédelemről szóló 1997. évi CLV. törvényben (a továbbiakban: Fgytv.) meghatározott szabályok szerint.
+
+(2) A 13. §-ban foglalt rendelkezések megsértése esetén a Nemzeti Fogyasztóvédelmi Hatóság jár el, a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott szabályok szerint, ha a jogsértés az Fttv. 2. §-ának a) pontja értelmében vett fogyasztót érint.
+
+(3) Az (1) és (2) bekezdésben említett rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
