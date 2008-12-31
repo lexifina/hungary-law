@@ -1,0 +1,1 @@
+A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 35. §-a (2) bekezdésének a) pontjában foglalt felhatalmazás alapján, valamint a 3. §-a (2) bekezdésének e) pontjában foglalt jogkörben – az 1. § és a 2. § tekintetében a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
