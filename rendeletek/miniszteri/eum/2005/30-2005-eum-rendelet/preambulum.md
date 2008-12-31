@@ -1,0 +1,1 @@
+Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 32. § (5) bekezdése n) pontjában kapott felhatalmazás alapján az alábbiakat rendelem el:
