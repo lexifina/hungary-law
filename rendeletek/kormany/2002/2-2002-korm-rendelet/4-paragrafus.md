@@ -1,0 +1,3 @@
+4. § (1) A tanácsadó feladata annak elősegítése, hogy a vállalkozás a veszélyes áru szállításával kapcsolatos tevékenységét az előírásoknak megfelelően és a lehető legbiztonságosabban végezze. A tanácsadó feladatait részletesen az 1. számú melléklet tartalmazza. A tanácsadó kinevezésével a vállalkozás vezetője nem mentesül a veszélyes áruk szállításával kapcsolatos felelősség alól.
+
+(2) Ha a tanácsadó az 1. számú mellékletben lévő feladatainak végzése során hiányosságot észlel – ha nem ő a vállalkozás vezetője – jelenti az illetékes vezetőnek és javasolja a hiányosság megszüntetését, valamint annak megtörténtéig a szállítmány visszatartását vagy a technológiai folyamat leállítását. Ha a jelentés szóban történik, azt utólag írásba kell foglalni.
