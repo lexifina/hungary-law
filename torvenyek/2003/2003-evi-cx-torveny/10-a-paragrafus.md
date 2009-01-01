@@ -1,0 +1,7 @@
+## Az adó különös szabályok szerinti megállapítása
+
+10/A. § (1) Az adóalany az adó megállapítására irányuló elsőfokú adóigazgatási eljárás kezdeményezésekor nyilatkozhat arról, hogy indítványozza az adó különös szabályok szerinti megállapítását.
+
+(2) Az adó különös szabályok szerinti megállapítására irányuló indítvány (a továbbiakban: indítvány) írásban, az (1) bekezdésben említett nyilatkozattal egyidejűleg, de legkésőbb a nyilatkozat előterjesztésétől számított 15 napon belül nyújtható be a vámhatóságnak. Az indítvány benyújtásával egyidejűleg az adóalanynak meg kell előlegeznie az adó különös szabályok szerinti megállapításának külön jogszabályban meghatározott díját (a továbbiakban: egyedi adó-megállapítás díja). Az indítvány megtételére és a díj megfizetésére vonatkozó határidő elmulasztása miatt igazolási kérelemnek nincs helye.
+
+(3) Az indítványban valószínűsíteni kell, hogy a gépjármű tényleges értékcsökkenése meghaladja a melléklet II. részének táblázatában a gépjármű forgalomba helyezésétől az adóigazgatási eljárás kezdetének hónapjáig eltelt hónapok száma (a továbbiakban: gépjármű kora) szerint meghatározott adótétel-csökkenés mértékét. A valószínűsítés alapjául szolgálhat különösen: a gépjármű gyártmánya, típusa, a megtett kilométerek száma, a motor típusa, a gépjármű műszaki és általános állapota, az első forgalomba helyezés idején a referencia gépjármű eredeti új belföldi árának és jelenlegi belföldi forgalmi értékének összevetése. A valószínűsítés megalapozottságát alátámasztó bizonyítékokat az indítványhoz csatolni kell.

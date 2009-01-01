@@ -1,0 +1,1 @@
+10/E. § Nem megalapozott indítvány esetében, valamint a 10/B. §-ban említett esetekben a vámhatóság az adót a 8. § (1) bekezdésének első mondatában foglalt rendelkezés (a továbbiakban: általános szabályok) szerint állapítja meg.

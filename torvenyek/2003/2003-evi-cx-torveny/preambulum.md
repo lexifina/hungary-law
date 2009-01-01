@@ -1,0 +1,1 @@
+Az államháztartás feladatainak ellátásához szükséges bevételek biztosítása érdekében, figyelemmel az állam intézményvédelmi kötelezettségére a környezetvédelem terén, a személygépkocsik és a lakóautók után fizetendő fogyasztási adó ellentételezésére az Országgyűlés a következő törvényt alkotja:
