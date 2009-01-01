@@ -1,0 +1,1 @@
+A honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Hvt.) végrehajtásáról rendelkező 178/1993. (XII. 27.) Korm. rendelet 36. §-a (1) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
