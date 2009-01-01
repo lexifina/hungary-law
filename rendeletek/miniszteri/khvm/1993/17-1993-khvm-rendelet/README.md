@@ -1,0 +1,9 @@
+# 17/1993. (VII. 1.) KHVM rendelet
+
+az egyes veszélyes tevékenységek biztonsági követelményeiről szóló szabályzatok kiadásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-17-20-6B
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-01-01 | 1993-17-20-6B.3 | 17/1993. (VII. 1.) KHVM rendelet |
