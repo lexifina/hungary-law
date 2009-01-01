@@ -1,0 +1,1 @@
+## „(6) A regionális ellenőrzési központok az Európai Mezőgazdasági Garancialapból (EMGA) finanszírozott kifizetésekhez kapcsolódó utólagos ellenőrzések végrehajtása során a Vtv. 7/N. §-ának (5) bekezdése szerinti kapcsolódó vizsgálatot illetékességi területükön kívül is végezhetnek.”
