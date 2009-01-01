@@ -1,0 +1,1 @@
+29. § A miniszteri rendelet és az államtitkári rendelkezés tervezetét meg kell küldeni véleményezésre más, a szabályozásban érdekelt miniszternek, országos hatáskörű szerv vezetőjének, társadalmi szervezetnek és érdekképviseleti szervnek.

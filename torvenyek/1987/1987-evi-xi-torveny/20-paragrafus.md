@@ -1,0 +1,1 @@
+20. § A jogalkalmazó szerveket, a társadalmi szervezeteket és az érdekképviseleti szerveket be kell vonni az olyan jogszabályok tervezetének elkészítésébe, amelyek az általuk képviselt és védett érdekeket, illetőleg társadalmi viszonyokat érintik.
