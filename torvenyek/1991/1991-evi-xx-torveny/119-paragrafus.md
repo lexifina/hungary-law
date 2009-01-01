@@ -1,0 +1,1 @@
+119. § A helyi önkormányzat képviselőtestülete, közgyűlése a külön jogszabályban meghatározottak szerint határoz az önkormányzat által fenntartott közművelődési, közgyűjteményi és művészeti intézmények elnevezéséről.

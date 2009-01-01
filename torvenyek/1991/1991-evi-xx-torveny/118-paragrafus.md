@@ -1,0 +1,1 @@
+118. § A helyi önkormányzat a külön jogszabályban meghatározottak szerint véleményezési jogot gyakorol az önkormányzati levéltári anyag végleges átadásával kapcsolatban, illetve egyetértési jogot gyakorol a megszűnő önkormányzati levéltár anyagának elhelyezésével kapcsolatban.

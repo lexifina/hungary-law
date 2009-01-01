@@ -1,0 +1,1 @@
+21. § A közterület tisztántartásával és a lomtalanítási akciókkal kapcsolatos feladatok ellátásáról a települési, a fővárosban a fővárosi önkormányzat képviselőtestülete gondoskodik, külön jogszabály rendelkezéseinek megfelelően.

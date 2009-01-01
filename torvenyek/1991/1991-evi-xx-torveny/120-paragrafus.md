@@ -1,0 +1,1 @@
+120. § A helyi önkormányzat a tulajdonában levő muzeális emlék, illetőleg levéltári anyag tekintetében a vagyon feletti rendelkezési jogát a külön jogszabályoknak a rendelkezési jog korlátozására irányuló szabályai szerint gyakorolhatja.

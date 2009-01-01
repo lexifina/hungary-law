@@ -1,0 +1,1 @@
+137. § Felhatalmazást kap a Kormány, hogy az egészségügyi, szociális, gyermek- és ifjúságvédelmi, valamint a gyámügyi igazgatásban a polgármester, főpolgármester államigazgatási hatósági jogköreit, a megyei, fővárosi közigazgatási hivatal vezetője államigazgatási feladat- és hatásköreit rendeletben határozza meg.

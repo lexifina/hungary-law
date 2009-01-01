@@ -1,0 +1,1 @@
+20. § A települési folyékony hulladék leeresztő helyének kijelölésével, valamint a közcélú ártalmatlanító telep létesítésével kapcsolatos feladatokat a települési, a fővárosban a fővárosi önkormányzat képviselőtestülete látja el, külön jogszabály rendelkezésének megfelelően.
