@@ -1,0 +1,1 @@
+Az állam- és közbiztonságról szóló – többször módosított – 1974. évi 17. törvényerejű rendelet 8. § (7) bekezdés a) pontjában, továbbá az illetékekről szóló 1990. évi XCIII. törvény 67. § (2) bekezdésében foglalt felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
