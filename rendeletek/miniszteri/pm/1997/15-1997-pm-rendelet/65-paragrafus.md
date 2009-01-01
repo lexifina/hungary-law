@@ -1,0 +1,1 @@
+## 64. § A baleset alapján megállapított baleseti járadékot a baleset napjától, a szolgálatból eredő betegség alapján megállapított baleseti járadékot pedig az ebből származó munkaképesség-csökkenés országos orvosszakértői szakvéleménye megállapításának hónapjának első napjától kell folyósítani.

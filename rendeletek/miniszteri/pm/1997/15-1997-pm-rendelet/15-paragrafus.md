@@ -1,0 +1,5 @@
+15. § (1)[^14] A beosztás ellátására való alkalmatlanság megállapítására – az egészségi, pszichikai és fizikai alkalmatlanság kivételével – csak a minősítés alapján a szolgálattal összefüggő tevékenységben jelentkező konkrét hibák, mulasztások megjelölésével van mód. A minősítés abban az esetben lehet a szolgálati viszony megszüntetésének jogalapja, ha a feltárt hibák ismétlődtek, az azok kijavítására adott határidő eredménytelenül telt el, illetve a mulasztások súlyossága miatt az érintett további hivatásos állományban tartása sértené a Vám- és Pénzügyőrség érdekeit. Az alkalmatlanság megállapítása előtt biztosítani kell az érintett vagy képviselőjének meghallgatását, és arról jegyzőkönyvet kell készíteni.
+
+(2) A Hszt. 56. § (6) bekezdés c) pontja szerinti méltatlanná válást az ügyet érintő kivizsgálás alapján a munkáltatói jogkör gyakorlójának írásban rögzítenie kell. A vizsgálat során biztosítani kell az érintett meghallgatását is.
+
+[^14]: A 15. § (1) bekezdése a 34/2001. (IX. 14.) PM rendelet 4. §-ával megállapított szöveg.
