@@ -1,0 +1,3 @@
+5. § (1) A saját tőke a jegyzett tőkéből, a tőketartalékból, az eredménytartalékból, a lekötött tartalékból, az értékelési tartalékból és a mérleg szerinti eredményből áll.
+
+(2) Jegyzett tőkeként kell kimutatni a létesítő okiratban rögzített, a tőzsde tulajdonosai által teljesített hozzájárulás (alaptőke) és az abban bekövetkezett, cégbíróság által bejegyzett változás összegét. A Tpt. hatálybalépése előtt már működő, a Tpt. hatálybalépését követően részvénytársasággá átalakult tőzsde esetében jegyzett tőkeként kell kimutatni az átalakulással létrejövő részvénytársaság végleges vagyonmérlegében szereplő jegyzett tőke és az abban bekövetkezett, cégbíróságon bejegyzett változás összegét.
