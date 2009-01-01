@@ -1,0 +1,5 @@
+4. § (1)[^4] A Tr. 4. §-a (4) bekezdése szerinti emelt, indikációhoz kötött támogatású kategóriába tartozó, egészségügyi jogcím alapján 90%-os támogatással rendelhető gyógyszerek esetén, a gyógyszerköltség megállapításánál – amennyiben a kérelmező egészségügyi jogcíme alapján 90%-os támogatásra jogosult – a térítési díjat a Tr. 4. §-a (4) bekezdése szerinti támogatás alapján kell figyelembe venni.
+
+(2) A kérelmező gyógyszerköltségét az e rendelet alapján kiválasztott gyógyszerek térítési díjainak összege képezi. A gyógyszerköltség megállapításához a háziorvos által feltüntetett adagolásnak megfelelő havi mennyiségű, de legalább egy doboz (scat. orig) gyógyszer térítési díját kell számítani.
+
+[^4]: A 4. § (1) bekezdése e rendelet – 38/2006. (IX. 27.) EüM rendelet 2. §-ával megállapított – 7. § (4) bekezdésével megállapított szöveg. A 38/2006. (IX. 27.) EüM rendelet 3. § (1) bekezdése alapján a rendelkezést a 2006. október 16. napját követően kiállított vények beváltásakor kell alkalmazni.
