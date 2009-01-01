@@ -1,0 +1,13 @@
+18. § (1) Az egyes nyugdíjkonstrukciókhoz tartozó tartalékokat – amelynél lehet, ott a számviteli politikában rögzítettek szerint – szolgáltatási formánkénti részletezésben, illetve a befektetési egységhez kötött nyugdíjkonstrukciónál és a befizetéssel meghatározott – választható portfoliós rendszert működtetőknél – befektetési portfoliónkénti bontásban kell a főkönyvi nyilvántartásokban kimutatni.
+
+(2) A nyugdíjtartalékokhoz szerződésenként egyedileg vezetett analitikus nyilvántartásban kell biztosítani, hogy a tagok intézménnyel szembeni követelése, jogosultságai és az abban bekövetkezett változások naprakészen kimutathatók legyenek.
+
+(3) Minden nyugdíjtartalék és ahhoz kapcsolódó céltartalék képzését, illetve felhasználását (felszabadítását) a tartalékonkénti részletezésben kimutatott (cél)tartalékképzési ráfordítással, illetve (cél)tartalék felhasználási bevétellel szemben kell elszámolni. Kivételt képeznek ez alól a különböző nyugdíjtartalékokhoz kapcsolódó befektetések értékelési különbözeteinek (cél)tartalékai, amelyeknek a képzését, illetve a felhasználását (felszabadítását) az ilyen célra megnyitott tartalékképzési ráfordítás terhére, illetve javára kell elszámolni a 8. § (2)–(3) bekezdése szerint.
+
+(4) Az egyes nyugdíjtartalékok közötti átvezetéseket (átcsoportosításokat) bruttó módon kell elszámolni, az egyik tartalék csökkentését a megfelelő tartalék felhasználási bevétellel szemben, a másik tartalék képzését a megfelelő tartalékképzési ráfordítással szemben kell elszámolni a számviteli politika szerint meghatározott mértékben.
+
+(5) A befektetési egységhez kötött nyugdíjkonstrukció esetén a tagok javára befizetett foglalkoztatói hozzájárulás, tagi kiegészítés szerződésben meghatározott mértékben – működési célra – levont kezelési díjjal csökkentett összege a – taghoz hozzárendelt – befektetési portfolió befektetési egységének teljesítés napi árfolyamán átszámítva (elosztva) kifejezésre kerül befektetési egység darabszámban is, és növeli a befektetési egységhez kötött nyugdíjkonstrukció tartalékának – a tagonként vezetett analitikus nyilvántartásban – a taggal szembeni kötelezettséget tartalmazó részét forintban és befektetési egységben kimutatva egyaránt.
+
+(6) A tag részére történő szolgáltatások teljesítésekor a fizetendő összegben csökkenteni kell a befektetési egységhez kötött nyugdíjkonstrukció tartalékát (forintban és befektetési egységben kifejezve egyaránt) az annak felhasználásából eredő bevétellel szemben, egyidejűleg elő kell írni a taggal szembeni kötelezettséget a szolgáltatási ráfordításokkal szemben.
+
+(7) A (6) bekezdés alkalmazásában a szolgáltatás kifizetését a befektetési egység teljesítés napján érvényes árfolyamán kell befektetési egységre átszámítani.

@@ -1,0 +1,5 @@
+15. § (1) A működési tevékenység eredménylevezetése során, annak adózás előtti eredményét követően kell beállítani a nyugdíjkonstrukciók – eredménylevezetése alapján kialakult – együttes eredményét, ezt követően kerül meghatározásra az adózás előtti eredmény, amelytől az eredménylevezetés az Szt. szerinti eredménykimutatás tartalmát követi.
+
+(2) A tagok kilépése, más intézménybe történő átlépése, tagsági viszonyának egyéb módon való megszűnése, szolgáltatásának megállapítása során a taggal való elszámolás keretében az Fnytv. alapján ráterhelt, kifizetéssel kapcsolatos költségeket a működési tevékenység eredménylevezetésén belüli egyéb bevételben kell elszámolni és kimutatni a 17. § (8) bekezdésének megfelelően.
+
+(3) A működési tevékenység eredménylevezetésén belül az egyéb bevételek és az egyéb ráfordítások között a nyugdíjkonstrukciókhoz közvetlenül nem kapcsolódó, Szt. szerinti egyéb bevételeket és egyéb ráfordításokat, valamint különféle egyéb bevételek és különféle egyéb ráfordítások címén, az eredménylevezetésben nevesített bevételek és ráfordítások közé nem sorolható bevételeket és ráfordításokat kell kimutatni.
