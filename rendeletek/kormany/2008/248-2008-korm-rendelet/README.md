@@ -1,0 +1,9 @@
+# 248/2008. (X. 14.) Korm. rendelet
+
+az M7-es autópálya, Sávoly község északi közigazgatási határa, a Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt területen megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-248-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-01-01 | 2008-248-20-22.3 | 248/2008. (X. 14.) Korm. rendelet |
