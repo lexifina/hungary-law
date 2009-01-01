@@ -1,0 +1,7 @@
+9. § (1) Minden munkáltató, amely legalább 100 társadalombiztosítási ellátásra jogosult személyt foglalkoztat, köteles gondoskodni törvényben vagy kormányrendeletben meghatározott társadalombiztosítási és egyéb feladatok ellátásáról, ennek érdekében társadalombiztosítási kifizetőhelyet (a továbbiakban: kifizetőhely) hoz létre vagy e feladatok ellátására más, kifizetőhelyet fenntartóval megállapodást köt. A központosított illetményszámfejtést végző illetményszámfejtő hely társadalombiztosítási kifizetőhelyként működik.
+
+(2) Magánszemély, jogi személyek, jogi személyiséggel nem rendelkező szervezet az alap kezeléséért felelős társadalombiztosítási szervvel kötött megállapodás alapján kifizetőhelyet létesíthet. A kifizetőhelyen végzett társadalombiztosítási feladatokat a megállapodásban kell rögzíteni.
+
+(3) A kifizetőhely fenntartója a társadalombiztosítási feladatokat saját költségén, szakképzett alkalmazottakkal végzi, az igények jogszerű elbírálásáért és a kifizetett ellátásokért az alap kezeléséért felelős társadalombiztosítási szervvel szemben teljes anyagi felelősséggel tartozik. A szabályszerűen elbírált igények alapján kifizetett ellátások összegét az illetékes igazgatási szerv megtéríti, kivéve a foglalkoztatót terhelő táppénz-hozzájárulás összegét.
+
+(4) A törvényben vagy kormányrendeletben előírt, illetőleg a (2) bekezdésében említett megállapodás szerinti társadalombiztosítási feladatok elvégzéséért a kifizetőhely fenntartóját a biztosítási alapokból meghatározott mértékű költségtérítés illeti meg.

@@ -1,0 +1,1 @@
+3. § Az Alapokhoz tartozó vagyon és a biztosítási önkormányzatok vagyona állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat a Kormány az 1. § (2) bekezdése szerinti személyek útján gyakorolja azzal, hogy egyebekben a vagyonnal való gazdálkodásra az államháztartásról szóló 1992. évi XXXVIII. törvény rendelkezései az irányadók.
