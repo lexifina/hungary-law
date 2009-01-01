@@ -1,0 +1,1 @@
+14. § A sorozáson megjelenő hadköteles az egészségi alkalmasságának megállapításához a hadkiegészítő parancsnokság felhívásában meghatározott orvosi igazolást köteles magával vinni és a sorozóbizottságnak bemutatni.

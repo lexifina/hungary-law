@@ -1,0 +1,3 @@
+90. § (1) A katonai szervezetek a feladattól függően elhelyezhetők – a katonai diszlokáció elveinek megfelelően – az ország területén vagy külföldön állandó jelleggel helyőrségekben, ideiglenesen állomáshelyeken. A csapatok állandó jellegű elhelyezésére szolgáló katonai objektumok a laktanyák.
+
+(2) A helyőrség olyan kijelölt település, amelynek közigazgatási területén katonai szervezet kerül elhelyezésre. A helyőrséghez tartoznak a település közigazgatási területén kívül eső kiképzőbázisok, lő- és gyakorlóterek, raktárak és más katonai objektumok (utalt ingatlanok), továbbá azok megközelítési útvonalai is. Egy helyőrségbe több katonai szervezet is települhet.

@@ -1,0 +1,11 @@
+## Adatszolgáltatás a katonai nyilvántartáshoz
+
+8. § (1) A katonai nyilvántartásba vételhez, majd a nyilvántartott adatok pontosításához a személyiadat- és lakcímnyilvántartás központi szerve a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. §-a (2) bekezdésének c) pontjában meghatározott adatokat a potenciális hadköteles korba lépőkről a katonai nyilvántartásba vétel évének január 31. napjáig, a potenciális hadköteles korban lévőkről, azokról, akik a magyar állampolgárságról szóló törvény alapján szerezték meg a magyar állampolgárságot, valamint a külföldről hazatérő magyar állampolgárokról lakóhelyük bejelentését követően, a katonai nyilvántartásban lévőkről pedig adataik megváltozása után folyamatosan – a személyi azonosító alkalmazásával – szolgáltatja a Honvédség központi adatfeldolgozó szervének.
+
+(2) Békeidőben a jegyző a Honvédség központi adatfeldolgozó szervének megkeresésére köteles közreműködni az önkormányzat illetékességi területén bejelentett lakóhellyel rendelkező potenciális hadkötelesek személyazonosító, lakcím- és anyakönyvi adatainak pontosításában.
+
+(3) A hadkötelezettség bevezetését követően a jegyző a hadkiegészítő parancsnokság megkeresésére köteles közreműködni az önkormányzat illetékességi területén bejelentett lakóhellyel rendelkező hadkötelesek személyazonosító, lakcím- és anyakönyvi adatainak pontosításában.
+
+(4) A Honvédség, valamint a rendőrség, a nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vám- és pénzügyőrség, a katasztrófavédelem, valamint a hivatásos önkormányzati tűzoltóság (a Honvédség kivételével a többi szerv a továbbiakban e törvényben együtt: rendvédelmi szervek) a hivatásos és szerződéses állományukban szolgálatot teljesítő potenciális hadköteleseknek a 7. § (1) bekezdése A), B) és P) pontjában meghatározott adataira vonatkozóan – a Honvédség központi adatfeldolgozó szerve részére minden év december 31. napjáig – kötelesek tájékoztatást adni.
+
+(5) Az (1)–(4) bekezdés szerint szolgáltatott adatok alapján a Honvédség központi adatfeldolgozó szerve a potenciális hadkötelest abban az évben, amelyben a 18. évét betölti, valamint a honosított, visszahonosított potenciális hadkötelest a rá vonatkozó adatszolgáltatást követően – utólagosan – katonai nyilvántartásba veszi.

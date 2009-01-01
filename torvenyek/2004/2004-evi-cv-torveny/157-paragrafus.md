@@ -1,0 +1,1 @@
+157. § A Honvédség és a rendvédelmi szervek tagjai részére a rendkívüli szolgálat teljesítéséért és a szolgálatuk során szerzett érdemeik elismeréséül rendeletben érdemrendek, érdemérmek és emlékérmek alapíthatók.

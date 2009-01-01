@@ -1,0 +1,1 @@
+151. § A megelőző védelmi helyzet, rendkívüli állapot vagy szükségállapot idején, az Alkotmány 19/E. §-ának (1) bekezdésében meghatározott esetben, illetve veszélyhelyzetben bevezetett egyedi rendkívüli intézkedéssel ellentétes jogszabály nem alkalmazható.

@@ -1,0 +1,1 @@
+191. § Rendeletben tilalmat vagy egyéb korlátozó intézkedést lehet alkalmazni az olyan országgal szemben, amely magyar árut vagy járművet hátrányosabb elbírálásban részesít, mint más országból származó árut vagy járművet.

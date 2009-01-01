@@ -1,0 +1,3 @@
+## A honvédelemért felelős miniszter
+
+51. § A honvédelemért felelős miniszter a kormánynak az ország honvédelmi feladatai végrehajtásáért, valamint a Honvédség irányításáért és vezetéséért felelős szakminisztere. Felelős a honvédelemmel kapcsolatos kormányzati döntések előkészítéséért és központi közigazgatási feladatainak ellátásáért, továbbá a Honvédség rendeltetésszerű, szakszerű és jogszerű működését meghatározó döntések meghozataláért, illetőleg e döntések végrehajtásának irányításáért. Gyakorolja az ezzel összefüggő jogokat, amelyeket az Alkotmány, e törvény, illetőleg külön törvény nem utal más szerv vagy személy hatáskörébe.

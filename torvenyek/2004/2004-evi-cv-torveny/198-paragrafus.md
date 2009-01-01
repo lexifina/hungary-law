@@ -1,0 +1,1 @@
+198. § Elrendelhető a vasúti, közúti, vízi, légi szállítások biztosítása érdekében a javítókapacitások, valamint az állomások, kikötők, repülőterek, raktárak igénybevétele vagy használatának korlátozása.

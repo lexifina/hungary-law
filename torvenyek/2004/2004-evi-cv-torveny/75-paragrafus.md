@@ -1,0 +1,1 @@
+75. § A katonai felsőoktatási intézmény a honvédség és a rendvédelmi szervek igényeire figyelemmel, autonóm intézményként látja el képzési tevékenységét. A katonai felsőoktatási intézmény a képzés gyakorlati részéhez szükséges körben és mértékben haditechnikai eszközöket tarthat fenn.
