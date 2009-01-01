@@ -1,0 +1,1 @@
+A helyi önkormányzati képviselők és a polgármesterek választásáról szóló, az 1994. évi LXII. törvénnyel és az 1996. évi LXVI. törvénnyel módosított 1990. évi LXIV. törvény (a továbbiakban: Övjt.) 62. §-a (1) bekezdésének a) pontjában kapott felhatalmazás alapján – a büntetés-végrehajtási szervezet tekintetében az igazságügy-miniszterrel egyetértésben – a következőket rendelem el:
