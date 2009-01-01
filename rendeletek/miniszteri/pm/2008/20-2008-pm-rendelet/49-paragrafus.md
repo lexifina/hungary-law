@@ -1,0 +1,3 @@
+49. § (1) Hosszabb ideig tartó gyógykezelést követően, az orvosi rehabilitáció keretében a fokozatos munkába állás érdekében, az egészségügyi szolgálat foglalkozás-egészségügyi orvosa átmenetileg csökkentett munkaidőben történő foglalkoztatást is engedélyezhet a hivatásos állomány tagjának. Ennek időtartama – az alapellátást végző orvos javaslatára – napi 4 vagy 6 óra időtartamra, legfeljebb 90 naptári napig terjedhet.
+
+(2) A hivatásos állomány tagját – ha egészségi állapota indokolja, az erre meghatározott eljárási rendben – a Vám- és Pénzügyőrség hévízi Gyógyházába 14 napos támogatott gyógykezelésre lehet utalni. Az orvosi rehabilitáció keretében más szanatóriumba utalásra és ellátásra az egészségbiztosítás vonatkozó szabályai szerint jogosult.
