@@ -1,0 +1,1 @@
+A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény (a továbbiakban: Vtv.) 82. §-a (3) bekezdésének a) és b) pontjában kapott felhatalmazás alapján – az oktatási és az egészségügyi, szociális és családügyi miniszterrel egyetértésben – az alábbiakat rendelem el:
