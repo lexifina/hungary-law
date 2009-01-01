@@ -1,0 +1,1 @@
+48. § A népszavazás eredménye kötelező a képviselő-testületre. Eredménytelen helyi népszavazás esetén a népszavazásra bocsátott kérdésben a képviselő-testület dönthet. Ugyanabban a kérdésben helyi népszavazást egy éven belül nem lehet kitűzni, akkor sem, ha a helyi népszavazás eredménytelen volt.

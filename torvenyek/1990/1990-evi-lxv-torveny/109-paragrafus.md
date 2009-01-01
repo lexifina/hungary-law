@@ -1,0 +1,1 @@
+109. § Az önkormányzati hatósági ügyben folyó eljárásra — az e törvényben foglalt eltérésekkel — az államigazgatási eljárás általános szabályairól szóló 1981. évi I. törvényt kell megfelelően alkalmazni.

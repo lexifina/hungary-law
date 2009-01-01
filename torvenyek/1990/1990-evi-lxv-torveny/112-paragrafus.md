@@ -1,0 +1,1 @@
+112. § E törvény 8. § (4) bekezdésében előírt az egészséges ivóvíz ellátásának biztosításáról minden községben legkésőbb az 1990. évben megválasztott helyi önkormányzati képviselő-testület megbízatásának a lejártáig kell gondoskodni.

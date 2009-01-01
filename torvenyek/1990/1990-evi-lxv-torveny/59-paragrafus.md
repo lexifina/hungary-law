@@ -1,0 +1,1 @@
+59. § A nagyközség a várossá nyilvánítását kezdeményezheti, ha a városi cím használatát fejlettsége, térségi szerepe indokolja. A képviselő-testület a kezdeményezését a helyi önkormányzatokért felelős miniszter útján terjeszti a köztársasági elnök elé.

@@ -1,0 +1,1 @@
+33. § A polgármester tekintetében a képviselő-testület gyakorolja a munkáltatói jogokat, munkabérét a jogszabály keretei között határozza meg. A polgármester az államigazgatási tevékenységéért a közszolgálati szabályok szerint felelős.

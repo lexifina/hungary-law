@@ -1,0 +1,1 @@
+105. § A körjegyzőséghez tartozó községeket — ha az érdekeltek nem tudnak megállapodni — a közigazgatási hivatal jelöli ki. A lakosság érdekeit sértő kijelölés ellen a képviselő-testület a helyi önkormányzatokért felelős miniszterhez fordulhat.

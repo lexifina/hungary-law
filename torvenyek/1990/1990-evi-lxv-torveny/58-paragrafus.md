@@ -1,0 +1,1 @@
+58. § A község, a város nevét úgy kell megállapítani, hogy ne lehessen összetéveszteni az országban levő más helység nevével. Községegyesítés megszüntetését követően a község általában az egyesítés előtti nevét használja. Új községnévről a lakossági állásfoglalás előtt kérni kell a földrajzi nevekben illetékes szerv szakmai véleményét.

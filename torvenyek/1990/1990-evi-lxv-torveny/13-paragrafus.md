@@ -1,0 +1,1 @@
+13. § A képviselő-testület évente legalább egyszer, előre meghirdetett közmeghallgatást tart, amelyen a választópolgárok és a helyben érdekelt szervezetek képviselői közérdekű kérdést és javaslatot tehetnek.
