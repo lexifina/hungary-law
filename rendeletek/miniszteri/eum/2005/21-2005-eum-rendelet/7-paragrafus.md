@@ -1,0 +1,1 @@
+## 6. § A minisztériumban és a minisztérium irányítása, felügyelete alá tartozó intézményekben, valamint az egészségügyi ellátás területén kiemelkedő tevékenységet végző személyek, illetve intézmények Egészségügyi Miniszteri Dicséret-ben részesíthetők.

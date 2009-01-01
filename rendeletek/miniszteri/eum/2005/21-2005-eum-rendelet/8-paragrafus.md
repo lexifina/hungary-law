@@ -1,0 +1,1 @@
+## 7. § Az egészségügyi ágazatban működő munkacsoportok az együttesen elért kiemelkedő eredményükért, valamint intézmények, szakértői csoportok és bizottságok kiemelkedő teljesítményükért Az Egészségügyi Miniszter Elismerő Oklevelé-ben részesíthetők.
