@@ -1,0 +1,1 @@
+A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Tv.) 178. §-a (1) bekezdésének c) pontjában kapott felhatalmazás alapján a Kormány az egyházak – a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvényben (a továbbiakban: Etv.) biztosított – autonómiáját figyelembe véve a következőket rendeli el:
