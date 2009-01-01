@@ -1,0 +1,1 @@
+## 34. § Ha már korábban elbírált károsodás alapján a károsult, illetve a sérült vagy hozzátartozója újabb kártérítési igényt kíván érvényesíteni, úgy erre vonatkozó igényét – az igény jogosságát és összegszerűségét alátámasztó, hitelt érdemlő bizonyítékokkal együtt – az illetékes elöljáró parancsnokhoz közvetlenül nyújthatja be.

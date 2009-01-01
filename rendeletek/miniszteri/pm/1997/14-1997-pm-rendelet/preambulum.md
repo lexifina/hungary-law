@@ -1,0 +1,1 @@
+A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 342. §-a (2) bekezdésének g) pontjában kapott felhatalmazás alapján – az érintett érdekképviseleti szerv véleményének figyelembevételével – a következőket rendelem el:
