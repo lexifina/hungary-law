@@ -1,0 +1,1 @@
+## 2. § Az ökológiai folyamatokban betöltött fontos, nélkülözhetetlen szerepük miatt védettek a fészeképítő hangyafajok által épített fészkek (hangyabolyok). A természetvédelmi oltalom alatt álló fészeképítő hangyafajok körét és a hangyabolyok pénzben kifejezett értékét az 5. számú melléklet szerint állapítom meg.
