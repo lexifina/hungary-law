@@ -1,0 +1,3 @@
+115. § A Bit. 220. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A végelszámoló vagy felszámoló a végelszámolásról szóló döntés, illetve a felszámolást elrendelő végzés kézhezvételét követően azonnal köteles annak tartalmáról, továbbá az egyes határidőkhöz fűződő jogkövetkezményekről egyenként tájékoztatni minden olyan szerződőt, biztosítottat, továbbá ismert hitelezőt, amelynek (akinek) székhelye, telephelye vagy állandó lakóhelye az Európai Unió másik tagállamában található. A biztosítottnak címzett tájékoztatásnak ismertetnie kell továbbá a biztosítási szerződések megszűnésének időpontját és joghatásait is.”

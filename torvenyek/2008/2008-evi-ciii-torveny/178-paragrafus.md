@@ -1,0 +1,7 @@
+178. § (1) Tőzsdei ügylet teljesítéséhez kapcsolódó kötelezettségvállalás folytatásával felhagyó elszámolóházi tevékenységet végző szervezet által teljesítés garanciavállalására megkötött szerződések 2009. január 1-jével átszállnak arra a központi szerződő fél tevékenységet végző szervezetre, amellyel a tőzsde az ügylet teljesítéséhez kapcsolódó garanciavállalásra szerződést kötött.
+
+(2) A Tpt. – e törvény 57. §-ával módosított – 303. §-ának (2) bekezdésében, a Tpt. – e törvény 62. §-ával módosított – 338. §-ának (5) bekezdésében, a Tpt. – e törvény 65. §-ának (2) bekezdésével módosított – 340/A. §-ának (2) bekezdésében, a Tpt. – e törvény 66. §-ának (2) bekezdésével módosított – 340/D. §-ának (3) bekezdésében, a Bszt. – e törvény 155. §-ával módosított – 144. §-ának (4) bekezdésében foglaltakat alkalmazni kell a folyamatban lévő engedélyezési eljárásban.
+
+(3) Az engedéllyel rendelkező szervezetnek 2009. március 31-ig kell megfelelnie a Tpt. – e törvény 57. §-ával módosított – 303. §-ának (2) bekezdésében, a Tpt. – e törvény 62. §-ával módosított – 338. §-ának (5) bekezdésében, a Tpt. – e törvény 65. §-ának (2) bekezdésével módosított – 340/A. §-ának (2) bekezdésében, a Tpt. – e törvény 66. §-ának (2) bekezdésével módosított – 340/D. §-ának (3) bekezdésében, a Bszt. – e törvény 155. §-ával módosított – 144. §-ának (4) bekezdésében foglaltaknak.
+
+(4) A tőzsde 2009. március 31-ig köteles módosítani a szabályzatait, hogy megfeleljen a Tpt. e törvénnyel módosított rendelkezéseinek.
