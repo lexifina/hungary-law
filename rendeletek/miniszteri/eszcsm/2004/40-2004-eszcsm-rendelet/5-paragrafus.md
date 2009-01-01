@@ -1,0 +1,1 @@
+## 4. § Az 1. § (1) bekezdés b) pontja szerinti személyek a munkakörükre való alkalmasságon túl akkor minősülnek a tevékenységük végzésére egészségileg alkalmasnak, ha nem szenvednek keresőképtelenséget eredményező fertőző betegségben.
