@@ -1,0 +1,1 @@
+A bírósági végrehajtásról szóló 1994. évi LIII. törvény (Vht.) 307. §-ának h) pontjában kapott felhatalmazás alapján — a pénzügyminiszterrel egyetértésben — a következőket rendelem el:
