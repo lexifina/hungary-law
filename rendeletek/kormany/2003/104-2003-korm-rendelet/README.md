@@ -1,0 +1,9 @@
+# 104/2003. (VII. 18.) Korm. rendelet
+
+a köztisztviselők tartós külszolgálatáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-104-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-01-01 | 2003-104-20-22.4 | 104/2003. (VII. 18.) Korm. rendelet |

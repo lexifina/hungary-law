@@ -1,0 +1,1 @@
+## 41. § Együtt élő házastársak, élettársak egyazon állomáshelyre történő kihelyezése esetén a 26. § (2) bekezdésének b) és c) pontjában és a (4) és (5) bekezdésben, a 36. §-ban, valamint a 37. § (1) bekezdésében foglalt jogosultságok csak egyiküket illetik meg, a 26. § (7) bekezdésében és a 37. § (2) bekezdésében foglalt kötelezettségek csak egyiküket terhelik.
