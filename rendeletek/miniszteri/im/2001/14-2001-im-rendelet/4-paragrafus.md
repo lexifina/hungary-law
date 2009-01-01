@@ -1,0 +1,1 @@
+## Adós gazdálkodó szervezetek nyilvántartása
