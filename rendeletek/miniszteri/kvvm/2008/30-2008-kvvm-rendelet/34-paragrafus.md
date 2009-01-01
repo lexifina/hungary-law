@@ -1,0 +1,3 @@
+34. § (1) Ha a hullámverés veszélye olyan mértékű, hogy a gyepesített földrézsűben kárt okozhat, akkor az árvízi meder lefolyási viszonyait, illetve a hullámtér szélességét és az árvízlevezetés egyéb szempontjait figyelembe véve, a töltés elé – lehetőleg a területre jellemző, őshonos fajokból álló – véderdőt vagy egyéb biológiai hullámtörő sávot kell telepíteni. Amennyiben ez nem lehetséges, a földrézsűt egyéb műszaki védelemmel kell ellátni.
+
+(2) A hullámtéri véderdőben, a védekezéskor szükséges vízi szállítás és a kikötés céljára – a helyi viszonyoknak megfelelően – legalább 50 m szélességű nyiladékot kell biztosítani.

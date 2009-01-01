@@ -1,0 +1,3 @@
+30. § (1) Az árvízvédelmi töltésbe épülő létesítményt úgy kell kialakítani, hogy a talajmozgásokat rugalmasan, káros elváltozás nélkül kövesse, a töltésen való közlekedést, a védekezést, a fenntartási és töltésfejlesztési munkákat ne akadályozza, az árvízvédelmi biztonságot ne csökkentse, továbbá a mélyvezetésű műtárgyak mérete a mászhatóságot biztosítsa. Az azonos rendeltetésű létesítményeket egyedi vizsgálatok alapján lehetőleg egyesíteni kell.
+
+(2) A töltés testében és a töltés mentén 10 m-es védősávban elhelyezett, a védőmű biztonságát érintő létesítményt a vízépítési műtárgyak erőtani tervezésére vonatkozó előírások szerint kell méretezni.

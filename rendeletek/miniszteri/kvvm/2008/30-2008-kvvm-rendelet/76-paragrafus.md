@@ -1,0 +1,1 @@
+## 75. § Tómederben belső anyagárkot, halágyat csak a töltés lábától számított legalább 4 m széles padka kihagyásával szabad kialakítani. A teleltető töltése és bevágása között minden oldalon legalább 1 m széles padkát kell hagyni.

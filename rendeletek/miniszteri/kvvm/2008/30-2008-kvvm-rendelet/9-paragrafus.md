@@ -1,0 +1,3 @@
+9. § (1) A hévíz tárolására szolgáló műtárgyakat, berendezéseket a kút átlagos vízadó képessége és a napi csúcsfogyasztás figyelembevételével kell méretezni és úgy kell megvalósítani, hogy a hévíz jellemzőinek a felhasználást gátló megváltozása megakadályozható legyen, továbbá ellenálljanak a hőmérséklet-ingadozásból, az esetleges vízkőkiválásból és az agresszív hatásokból származó igénybevételeknek.
+
+(2) A hévízkezelő hőközpont, illetve berendezés tervezésénél és kivitelezésénél gondoskodni kell üzembiztonsági tartalékról, valamint az energiatakarékossági igényeket kielégítő hőszigetelésekről.

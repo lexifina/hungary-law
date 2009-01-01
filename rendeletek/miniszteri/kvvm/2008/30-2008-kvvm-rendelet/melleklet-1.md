@@ -1,0 +1,23 @@
+1. számú melléklet a 30/2008. (XII. 31.) KvVM rendelethez
+
+## Az árvízvédelmi mű
+
+1. Az árvízvédelmi mű legkisebb koronaszélessége:
+
+a) elsőrendű árvízvédelmi műnél 4 m,
+
+b) másodrendű árvízvédelmi műnél 3 m,
+
+c) harmadrendű árvízvédelmi műnél 2 m.
+
+2. Az árvízvédelmi földmű domborítását a töltéskoronát a középvonaltól (tengelyvonaltól) mindkét irányban 5%-os oldaleséssel kell kialakítani.
+
+3. Az árvízvédelmi földmű legmeredekebb rézsűhajlása:
+
+a) az első- és másodrendű védőműnél mindkét oldalon 1:3,
+
+b) a harmadrendű védőműnél 1:2,
+
+c) burkolt rézsűnél 1:1,5.
+
+4. Azon a védvonalon, amelynek a koronaszélessége 5 m-nél kisebb, szükség szerinti távolságban, 50 m hosszban, a korona 6 m-re szélesítésével kitérőket kell létesíteni.

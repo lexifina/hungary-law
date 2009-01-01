@@ -1,0 +1,3 @@
+39. § (1) Anyagkitermelési célú kotrás során a folyó- és tószabályozás, a vízvédelem, a környezet- és természetvédelem, a hajózás és szükség szerint az idegenforgalom és a turisztika érdekeit figyelembe kell venni.
+
+(2) Az anyagkitermelés céljából végzett öbölszerű kotrás nem károsíthatja a középvízi medret, hajózható folyókon a legkisebb hajózási és szabályozási vízszintre megállapított hajóútméreteket, a meglevő szabályozási és egyéb műveket, és nem veszélyeztetheti a partok állékonyságát, az árvízvédelmi művek biztonságát. A kotrás befejezése után a területet úgy kell rendezni, hogy az a tájba beilleszkedjék.

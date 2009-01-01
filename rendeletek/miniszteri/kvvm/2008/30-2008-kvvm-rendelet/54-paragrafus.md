@@ -1,0 +1,1 @@
+## 53. § Az oldalműtárgy fenntartása és üzemeltetése – ha jogszabály vagy vízjogi engedély másképp nem rendelkezik – az oldalág kezelőjének feladata. Amennyiben a torkolati műtárgy a befogadó kezelőjének területére esik, a torkolati műtárgy fenntartását, üzemeltetését a befogadó kezelőjének mederkezelői hozzájárulásában rögzített előírások alapján kell végezni.
