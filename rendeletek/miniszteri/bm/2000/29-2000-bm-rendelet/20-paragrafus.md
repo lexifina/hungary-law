@@ -1,0 +1,3 @@
+## II. RÉSZ
+
+## HELYI NÉPI KEZDEMÉNYEZÉS
