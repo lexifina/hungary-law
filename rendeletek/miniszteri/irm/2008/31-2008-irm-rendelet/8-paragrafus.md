@@ -1,0 +1,7 @@
+## 7. § Ha a szakértő a vizsgálat alá vont személyt személyesen nem ismeri, a vizsgálat lefolytatásához köteles a vizsgálat alá vont személy személyazonosságáról a személyazonosság igazolására alkalmas hatósági igazolványból meggyőződni, ilyen igazolvány hiányában pedig a vizsgálat alá vont személyről – hozzájárulásával – fényképfelvételt készíteni és azt az ügy iratai között megőrizni. Ellenkező esetben a szakértő értesíti a kirendelő szervet arról, hogy a vizsgálat nem folytatható le.
+
+8. § (1) A vizsgálat megkezdésekor a szakértő a vizsgálat alá vont személyt közérthető módon tájékoztatja a vizsgálat céljáról, várható időtartamáról, menetéről és az alkalmazandó vizsgálati eljárásokról, módszerekről, valamint arról, hogy köteles-e magát a vizsgálatnak alávetni.
+
+(2) Ha a vizsgálat alá vont személy külön törvény szerint nem köteles a vizsgálatban való közreműködésre, a szakértő az (1) bekezdésben foglalt tájékoztatást követően a személy írásbeli beleegyezését kéri arról, hogy a vizsgálatnak magát aláveti. A beleegyezést tartalmazó irat egy példányát a szakértő az ügy iratai között megőrzi, egy példányát pedig a vizsgált személynek átadja.
+
+(3) Ha a vizsgálat alá vont személy külön törvény szerint nem köteles a vizsgálatban való közreműködésre, és nyilatkozatot nem tesz, vagy a beleegyezést megtagadja, a szakértő erről jegyzőkönyvet készít, és a jegyzőkönyv egy példányának megküldésével a kirendelő szervet vagy a megbízót tájékoztatja.

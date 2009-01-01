@@ -1,0 +1,1 @@
+## 38. § Gépjármű értékének megállapításáról adott szakvéleménynek tartalmaznia kell a jármű gyártmányára, gyártásának idejére, a jármű állapotára (javításokra, megtett kilométerek számára, elszenvedett közlekedési balesetekre) vonatkozó megállapításokat.

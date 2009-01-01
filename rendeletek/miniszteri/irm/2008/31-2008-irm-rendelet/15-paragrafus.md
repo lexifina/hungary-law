@@ -1,0 +1,5 @@
+## II. Fejezet
+
+## AZ EGYES VIZSGÁLATOKRA VONATKOZÓ
+
+## ELTÉRŐ SZABÁLYOK

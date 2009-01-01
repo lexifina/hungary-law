@@ -1,0 +1,1 @@
+Az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény (a továbbiakban: Szaktv.) 31. § (5) bekezdésének a) pontjában kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § h) pontjában foglalt feladatkörömben a következőket rendelem el:

@@ -1,0 +1,1 @@
+## 2. § A szakértő kezdeményezheti a kirendelés alól történő felmentését, ha a kirendelő a szakértő kérésére nem biztosítja a szakértő által megjelölt, a szakértői tevékenység ellátásához szükséges adatokat, felvilágosítást, iratokat és vizsgálati tárgyakat, és e nélkül a kirendelés nem teljesíthető.
