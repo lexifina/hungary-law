@@ -1,0 +1,1 @@
+A szakképzésről szóló 1993. évi LXXVI. törvény 5. § (1) bekezdés b) pontjában kapott felhatalmazás alapján a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 3. § d) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
