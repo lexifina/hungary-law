@@ -1,0 +1,1 @@
+Az elektronikus információszabadságról szóló 2005. évi XC. törvény 22. § (2) bekezdés e) pontjában foglalt felhatalmazás alapján, a Miniszterelnöki Hivatalt vezető miniszter feladat- és hatásköréről szóló 29/2008. (II. 19.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörben eljárva a következőket rendelem:
