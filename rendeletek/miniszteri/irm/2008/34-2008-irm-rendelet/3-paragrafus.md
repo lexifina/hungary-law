@@ -1,0 +1,1 @@
+## 2. § Ha a fizetési meghagyás kibocsátását több jogosult kéri, vagy ha azt több kötelezett ellen kérik, illetve ha a követelések száma, vagy a kamat meghatározása indokolja, a 2., illetve a 3. számú mellékletben foglalt pótlapokkal kiegészítve kell a fizetési meghagyás kibocsátására irányuló kérelmet előterjeszteni.

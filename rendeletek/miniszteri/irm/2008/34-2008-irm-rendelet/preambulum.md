@@ -1,0 +1,1 @@
+A polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 395. § (4) bekezdésének h) pontjában foglalt felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. §-ának h) pontja szerinti feladatkörömben eljárva a következőket rendelem el:
