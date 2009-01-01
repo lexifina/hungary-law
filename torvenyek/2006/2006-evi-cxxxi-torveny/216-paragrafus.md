@@ -1,0 +1,1 @@
+216. § A Kt. e törvénnyel megállapított 5/A. §-ának (6)–(8) bekezdésében meghatározott egyedi mentességi kérelem első alkalommal a 2006. évre vonatkozó mentességi kérelmek esetén 2007. január 31-ig nyújtható be.

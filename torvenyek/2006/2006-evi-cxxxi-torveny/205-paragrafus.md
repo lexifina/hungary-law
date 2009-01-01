@@ -1,0 +1,1 @@
+205. § Az állami adóhatóság az e törvénnyel megállapított, az Art. 52. § (7) bekezdésének ba) pontja szerinti adatszolgáltatási kötelezettségének a 2006. évre vonatkozó adatok tekintetében az e pontban meghatározott határidőig tesz eleget.
