@@ -1,0 +1,9 @@
+# 150/2006. (VII. 21.) Korm. rendelet
+
+a budapesti központi szennyvíztisztító telep és kapcsolódó létesítményei projekt, a Zalaegerszeg és térsége szennyvízelvezetési és kezelési projekt és a Veszprém és térsége szennyvízelvezetési és kezelési projekt megvalósításához szükséges egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-150-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-01-01 | 2006-150-20-22.6 | 150/2006. (VII. 21.) Korm. rendelet |
