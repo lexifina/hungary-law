@@ -1,0 +1,3 @@
+## 14. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Rendelet) 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § E rendelet hatálya az Országos Egészségbiztosítási Pénztár központi szervére (a továbbiakban: OEP), a regionális egészségbiztosítási pénztárakra (a továbbiakban: REP, és a továbbiakban az OEP-pel együtt: finanszírozó), valamint a finanszírozóval az Egészségbiztosítási Alapból (a továbbiakban: E. Alap) finanszírozott egészségügyi szolgáltatás nyújtására szerződött egészségügyi szolgáltatókra terjed ki.”

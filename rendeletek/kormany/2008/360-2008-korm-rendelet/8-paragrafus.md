@@ -1,0 +1,3 @@
+## 7. § A Vhr. 37. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha a foglalkoztatónál társadalombiztosítási kifizetőhely (a továbbiakban: kifizetőhely) nincs, a foglalkoztató a terhességi-gyermekágyi segélyre, a gyedre, a táppénzre, a baleseti táppénzre vonatkozó igény elbírálásához „Foglalkoztatói igazolás”-t állít ki, és azt a biztosított által benyújtott igazolásokkal – gyermekgondozási díj iránti igény esetén az igénybejelentéssel – együtt három munkanapon belül a székhelye (telephelye) szerint illetékes REP-nek megküldi. A foglalkoztató a foglalkoztatói igazolásokat két példányban köteles kiállítani, és annak egy példányát öt évig megőrizni. A foglalkoztató az igény, illetve igazolások átvételét (beérkezését) hitelt érdemlő módon köteles igazolni.”
