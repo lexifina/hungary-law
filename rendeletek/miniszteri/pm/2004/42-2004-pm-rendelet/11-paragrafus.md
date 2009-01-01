@@ -1,0 +1,1 @@
+## 10. § A HM alárendeltségébe tartozó szervek, illetve a külföldi fegyveres erők által vagy részére történő katonai és egyéb áruk szállítása esetén az azonosság biztosítására a katonai vámügyi szerv részére engedélyezett, valamint a külföldi fegyveres erők függőzára, vagy szalagzára, vagy a csomagon elhelyezett pecsétje szolgálhat.
