@@ -1,0 +1,1 @@
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. §-ának (5) bekezdésében, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. §-ának a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
