@@ -1,0 +1,1 @@
+## 5. § A szakfelügyelő főorvos évente szakfelügyeleti vizsgálatot tart az egészségügyi szolgáltatóknál a 3. § szerinti kötelezettségek teljesítése tekintetében és közreműködik az éves jelentés elkészítésében.

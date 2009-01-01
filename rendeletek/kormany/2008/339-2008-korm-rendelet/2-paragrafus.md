@@ -1,0 +1,9 @@
+## 1. § Az egészségügyről szóló 1997. évi CLIV. törvény 166. § (1) bekezdés a)–d) és f) pontja szerinti, emberi reprodukcióra irányuló különleges eljárást (a továbbiakban: reprodukciós eljárás) végző egészségügyi szolgáltató az egyes reprodukciós eljárásokról vezetett, külön jogszabály szerinti programdokumentáció alapján a kötelező egészségbiztosítás terhére igénybe vett és finanszírozott, valamint a nem finanszírozott reprodukciós eljárás során elvégzett beavatkozásról – figyelemmel a 3. § (1) bekezdésében foglaltakra is – az 1. számú mellékletben meghatározott, a kérelmező személy azonosítására alkalmatlan adatokból a reprodukciós eljárás adott fázisához tartozó adatokat hetente elektronikus formában jelenti az Egészségügyi Minőségfejlesztési és Kórháztechnikai Intézet (a továbbiakban: EMKI) részére. A jelentés elküldése az EMKI honlapjáról ingyenesen elérhető szoftver felhasználásával történik.
+
+2. § (1) Az egészségügyi szolgáltató a kérelmező személyazonosító adatait helyettesítő kapcsolati kóddal jelent az EMKI-nek, figyelemmel a 3. § (1) bekezdésében foglaltakra.
+
+(2) Az EMKI működteti a Reprodukciós Eljárások Adatbázisát (a továbbiakban: Adatbázis) és ennek keretében az 1. § szerint beküldött jelentéseket egészségügyi szolgáltatónkénti bontásban dolgozza fel.
+
+(3) Az EMKI az Adatbázis alapján évente elkészíti a reprodukciós eljárások statisztikai összesítését országos és az egyes egészségügyi szolgáltatók szerinti bontásban (a továbbiakban: éves jelentés). Az EMKI az éves jelentést a tárgyévet követő második év február 20-áig megküldi a Humán Reprodukciós Bizottság elnöke, továbbá az Országos Egészségbiztosítási Pénztár központi szerve (a továbbiakban: OEP) részére. Az EMKI az éves jelentést a tárgyévet követő második év február 20-áig honlapján teszi közzé.
+
+(4) A Humán Reprodukciós Bizottság elnöke a jelentés alapján gondoskodik a nemzetközi adatszolgáltatásról.
