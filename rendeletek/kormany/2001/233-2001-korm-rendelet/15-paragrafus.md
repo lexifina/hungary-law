@@ -1,0 +1,3 @@
+## 14. §[^21] Számítógépes módszerrel történő adatkezelés esetén – jogszabály eltérő rendelkezése hiányában – a közigazgatási, illetve alkalmazó szerv szabadon határozza meg a gépi adatfeldolgozás technológiáját. Az adatfeldolgozás módszerétől függetlenül az adott technológiával csak a Ktv.-ben, törvény felhatalmazása alapján jogszabályban és e rendeletben meghatározott adatok kezelhetők, és attól eltérő célra nem használhatók fel, de a közigazgatási, illetve alkalmazó szerv saját céljaira a személyazonosításra alkalmatlan adatokat feldolgozhatja.
+
+[^21]: A 14. § a 189/2003. (XI. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
