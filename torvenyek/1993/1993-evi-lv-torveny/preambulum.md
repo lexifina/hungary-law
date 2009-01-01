@@ -1,0 +1,1 @@
+Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése és az állampolgárok Magyar Köztársasághoz való kötődésének erősítése érdekében, a magyar állampolgársági jog hagyományait és a nemzetközi szerződések előírásait figyelembe véve, a magyar állampolgárság keletkezésének, megszerzésének és megszűnésének szabályairól a következő törvényt alkotja:
