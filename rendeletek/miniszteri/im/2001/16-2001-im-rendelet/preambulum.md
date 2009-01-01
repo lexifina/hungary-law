@@ -1,0 +1,1 @@
+A bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 307. §-a (2) bekezdésének a)–f) pontjában kapott felhatalmazás alapján a következőket rendelem el:

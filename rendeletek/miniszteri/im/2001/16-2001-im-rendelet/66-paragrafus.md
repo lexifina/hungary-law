@@ -1,0 +1,5 @@
+66. § (1) Ha mind a Fővárosi Bíróság, mind a Pest Megyei Bíróság elnöke a költségvetési gazdálkodás szabályai szerint működő árverési csarnok létesítését javasolja, e célból a fővárosban egyetlen árverési csarnokot kell létesíteni; ez a Fővárosi Bíróságon működik, de ellátja a Pest Megyei Bíróságnál felmerülő feladatokat is.
+
+(2) Ha mind a Fővárosi Bíróság, mind a Pest Megyei Bíróság elnöke vállalkozási formában működő árverési csarnok létesítését határozta el, mindegyik bíróság mellé önálló árverési csarnokot kell létesíteni. A Fővárosi Bíróság és a Pest Megyei Bíróság elnöke ilyen esetben is elhatározhatja a fővárosban egyetlen árverési csarnok létesítését is; ez a Fővárosi Bíróság mellett működik, de ellátja a mindkét bíróságnál felmerülő feladatokat.
+
+(3) Ha a Fővárosi Bíróság és a Pest Megyei Bíróság elnöke egymástól eltérő módon – egyikük a költségvetési gazdálkodás szabályai szerint, másikuk vállalkozási formában – működő árverési csarnok létesítését határozta el, mindkét árverési csarnokot a rá nézve irányadó szabályok szerint önállóan kell létesíteni.
