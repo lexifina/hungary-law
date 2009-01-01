@@ -1,0 +1,1 @@
+A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban : Kjt.) 85. §-ában kapott felhatalmazás alapján – a 9. § tekintetében a nemzeti kulturális örökség miniszterével egyetértésben – a következőket rendelem el:
