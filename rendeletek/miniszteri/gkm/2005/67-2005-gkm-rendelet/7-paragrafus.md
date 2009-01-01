@@ -1,0 +1,1 @@
+## 6. § Nem szükséges a hulladékot kiüríteni és a 3. § (1) bekezdésében említett űrlapot kitölteni, ha a menetrend szerint közlekedő és gyakori, rendszeres kikötői látogatást tevő hajót a kikötő szerinti állam hatóságai ez alól felmentik.

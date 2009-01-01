@@ -1,0 +1,1 @@
+## 5. § Az EGT-tagállam kikötőjébe befutó hajó vezetője a kikötő elhagyása előtt biztosítja a rakománymaradványoknak a kikötői fogadó létesítményekbe a MARPOL 1973/1978. rendelkezéseivel összhangban való kiürítését. A befogadó létesítménybe való kiürítésért a kikötőben megállapított díjat kell fizetni.
