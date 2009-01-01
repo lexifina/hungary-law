@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az 1986. évi 2. törvényerejű rendelettel kihirdetett, a Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyvet és a 3. §-ban meghatározott fenntartást e törvénnyel kihirdeti.
