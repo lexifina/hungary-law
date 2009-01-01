@@ -1,0 +1,3 @@
+8. § (1) A közfeladatot ellátó szerv vezetője, illetőleg tevékenységi körében iratkezelési feladatokat ellátó vezető, ügyintéző, ügykezelő köteles gondoskodni az iratkezelési szoftver által kezelt adatok biztonságáról, s megtenni azokat a technikai és szervezési intézkedéseket, kialakítani azokat az eljárási szabályokat, amelyek az üzembiztonsági, adatvédelmi szabályok érvényre juttatásához szükségesek.
+
+(2) Az iratokat és az adatokat védeni kell különösen a jogosulatlan hozzáférés, megváltoztatás, továbbítás, nyilvánosságra hozatal, törlés, megsemmisítés, valamint a megsemmisülés és sérülés ellen. A szerv vezetője köteles az üzemeltetés és az adatbiztonság olyan szabályozására, amely alapján a feladatok, hatáskörök pontosan meghatározásra kerülnek és végrehajthatók.

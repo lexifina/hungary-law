@@ -1,0 +1,1 @@
+## 23. § Sérült küldemény átvétele esetén a sérülés tényét papír alapú iratok esetében az átvételi okmányon jelölni kell, és soron kívül ellenőrizni kell a küldemény tartalmának meglétét. A hiányzó iratokról vagy mellékletekről a küldő szervet, személyt értesíteni kell.

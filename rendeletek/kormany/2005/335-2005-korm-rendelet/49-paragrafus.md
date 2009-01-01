@@ -1,0 +1,5 @@
+## 48. § Téves iktatás esetén a kézi iktatókönyvben a bejegyzést áthúzással kell érvényteleníteni oly módon, hogy az érvénytelenítés ténye – az eredeti bejegyzés olvashatósága mellett – kétségtelen legyen. Elektronikus iktatókönyv használata esetén a módosításokat tartalmuk megőrzésével, naplózással dokumentálni kell. A tévesen kiadott iktatószám nem használható fel újra.
+
+49. § (1) A kézi iktatókönyvben sorszámot üresen hagyni, a felhasznált lapokat összeragasztani, a bejegyzett adatokat kiradírozni, vagy bármely más módon olvashatatlanná tenni nem szabad. Ha helyesbítés szükséges, a téves adatot vagy számot egy vonallal úgy kell áthúzni, hogy az eredeti feljegyzés olvasható maradjon. A javítást keltezéssel és kézjeggyel kell igazolni.
+
+(2) Elektronikus iratkezelési rendszer alkalmazása esetén az utólagos módosítás tényét a jogosultsággal rendelkező ügyintéző/ügykezelő azonosítójával és a javítás idejének megjelölésével naplózni kell. A naplóban követhetően rögzíteni kell az eredeti és a módosított adatokat.

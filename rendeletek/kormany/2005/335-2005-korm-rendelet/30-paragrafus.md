@@ -1,0 +1,1 @@
+## 29. § A küldemények téves felbontásakor a felbontó az átvétel és a felbontás tényét a dátum megjelölésével, dokumentáltan köteles rögzíteni, majd gondoskodnia kell a küldemény címzetthez való eljuttatásáról.

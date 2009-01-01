@@ -1,0 +1,1 @@
+A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) 35/A. §-a (1) bekezdésében foglalt felhatalmazás alapján a közfeladatot ellátó szervek iratkezelésének általános követelményeiről a Kormány a következőket rendeli el:

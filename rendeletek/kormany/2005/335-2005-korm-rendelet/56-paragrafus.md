@@ -1,0 +1,1 @@
+## 55. § A szervezeti egység iratkezelőjének ellenőriznie kell, hogy a hitelesített iratokon végrehajtottak-e minden kiadói utasítást, és a mellékleteket csatolták-e. E feladat elvégzése után dokumentálni kell a nyilvántartással, továbbítással kapcsolatos információkat.

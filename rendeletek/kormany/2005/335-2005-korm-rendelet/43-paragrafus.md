@@ -1,0 +1,7 @@
+43. §[^16] (1) Az iktatókönyvet az év utolsó munkanapján, az utolsó irat iktatása után – a 41. § (6) bekezdésben foglaltak kivételével – le kell zárni.
+
+(2) A kézi iktatókönyv esetében az iktatásra felhasznált utolsó számot követő aláhúzással kell a zárást elvégezni, majd azt a keltezést követően aláírással, továbbá a körbélyegző lenyomatával hitelesíteni kell. A 41. § (6) bekezdésben foglaltak alkalmazása során kézi iktatókönyv esetén a lezárt iktatókönyvben ezt követően új irat főszámra történő iktatása tilos, az érkezett újabb iratot az ugyanazon ügy soron következő alszámára iktatják.
+
+(3) Iratkezelési szoftver alkalmazása esetén – a 41. § (6) bekezdésben foglaltak kivételével – biztosítani kell, hogy zárás után a rendszerbe az adott évre, az adott iktatókönyvbe ne lehessen több iratot iktatni. A 41. § (6) bekezdésben foglaltak alkalmazása esetén az év utolsó munkanapján el kell készíteni az iktatókönyv időbélyegzővel ellátott, hiteles elektronikus változatát. Ezt követően az előző évi iktatókönyvben új irat főszámra történő iktatása tilos, az érkezett újabb iratot az ugyanazon ügy soron következő alszámára iktatják. Az iktatókönyvek végleges zárásának részeként el kell készíteni – külön jogszabályban meghatározott formátumban – az iktatókönyv időbélyegzővel ellátott, hiteles elektronikus változatát.
+
+[^16]: A 43. § a 239/2007. (IX. 12.) Korm. rendelet 7. §-ával megállapított szöveg.
