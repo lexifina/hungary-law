@@ -1,0 +1,1 @@
+## 5. § Az állami adóhatóság a kérelmekről külön nyilvántartást vezet, amely tartalmazza az adózó azonosító adatait (név, cégnév vagy székhely), a kérelem érkezésének időpontját, iktatószámát, a befizetett díj összegét, az eljárás lefolytatásának időtartamát.

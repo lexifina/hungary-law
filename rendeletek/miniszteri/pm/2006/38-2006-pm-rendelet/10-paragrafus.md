@@ -1,0 +1,1 @@
+## 9. § Az adózó (képviselője) az előzetes egyeztető eljárás, illetőleg az ármegállapítási eljárás folyamán meghallgatható. A meghallgatást az adózó is kezdeményezheti. A szóbeli meghallgatásról jegyzőkönyv készül.

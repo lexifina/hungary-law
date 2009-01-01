@@ -1,0 +1,1 @@
+Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 182. §-ának (9) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 4. § (3) bekezdés d) pontjában meghatározott feladatkörben eljárva – a következőket rendelem el:
