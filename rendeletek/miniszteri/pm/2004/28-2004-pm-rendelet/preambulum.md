@@ -1,0 +1,1 @@
+A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény (a továbbiakban: Vtv.) 82. § (3) bekezdésének e) pontjában kapott felhatalmazás alapján – az informatikai és hírközlési miniszterrel egyetértésben – az alábbiakat rendelem el:
