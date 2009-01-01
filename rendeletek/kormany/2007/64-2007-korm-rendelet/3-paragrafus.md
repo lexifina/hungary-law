@@ -1,0 +1,3 @@
+3. § (1) Költségvetési támogatás csak a 2006. december 31-én fennálló álláshelyekre igényelhető, a teljes, illetve részmunkaidőben foglalkoztatott munkavállaló munkaviszonyának megszüntetése esetén, ha a munkavállaló által betöltött álláshelyet (munkakört) a jogosult a munkaviszony megszüntetésével egyidejűleg véglegesen megszünteti és az álláshelyhez (munkakörbe) tartozó feladatok ellátására új álláshelyet (munkakört) nem létesít.
+
+(2) Határozott idejű munkaesetén a költségvetési támogatás csak abban az esetben igényelhető, ha az utolsó munkában töltött napot követően a határozott időből hátralévő idő még legalább egy év.
