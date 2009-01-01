@@ -1,0 +1,9 @@
+# 59/2007. (XII. 29.) EüM rendelet
+
+a határon túli magyarok magyarországi egészségügyi ellátásának támogatásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-59-20-0B
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-01-01 | 2007-59-20-0B.2 | 59/2007. (XII. 29.) EüM rendelet |
