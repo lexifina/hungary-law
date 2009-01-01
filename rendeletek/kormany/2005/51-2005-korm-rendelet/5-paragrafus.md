@@ -1,0 +1,6 @@
+5. § (1)[^14] A Kormány általános hatáskörű területi államigazgatási szerve a kirendelő határozatban rögzíti a kirendelés okát, a felügyelő biztos által ellátandó feladatokat, a kirendelés időtartamát, a felügyelő biztos tiszteletdíjának mértékét, a feladatok teljesítéséhez igénybe vett költségek elszámolásának módját, valamint a határozat elleni jogorvoslat lehetőségét. A tanács a Kormány általános hatáskörű területi államigazgatási szervének az intézkedése ellen a felügyelő biztos kirendelése megváltoztatása iránt keresettel fordulhat a bírósághoz. A keresetindításra nyitva álló határidő akkor kezdődik, amikor a Kormány általános hatáskörű területi államigazgatási szervének az intézkedéséről a tanács tudomást szerez.
+
+(2)[^15] A kirendeléssel egyidejűleg a Kormány általános hatáskörű területi államigazgatási szerve a Tftv. 16. § (13) bekezdés a) pontja szerinti intézkedést hozza meg. Az (1) bekezdés szerinti kirendelés időtartama legfeljebb a kirendelésre okot adó körülmény megszűnésének napjáig tarthat.
+
+[^14]: Az 5. § (1) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 30. pontja szerint módosított szöveg.
+[^15]: Az 5. § (2) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 30. pontja szerint módosított szöveg.

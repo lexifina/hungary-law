@@ -1,0 +1,9 @@
+# 51/2005. (III. 24.) Korm. rendelet
+
+a területfejlesztés intézményei törvényességi felügyeletének részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-51-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-01-01 | 2005-51-20-22.5 | 51/2005. (III. 24.) Korm. rendelet |

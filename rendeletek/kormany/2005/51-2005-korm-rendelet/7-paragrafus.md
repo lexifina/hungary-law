@@ -1,0 +1,1 @@
+## A határozat végrehajtásának felfüggesztése
