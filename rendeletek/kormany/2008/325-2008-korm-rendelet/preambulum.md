@@ -1,0 +1,1 @@
+A Kormány a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 85. § (2) bekezdés és (3) bekezdés g) pontjában kapott felhatalmazások alapján a következőket rendeli el:
