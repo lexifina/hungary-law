@@ -1,0 +1,1 @@
+A felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: Ftv.) 153. §-a (1) bekezdésének 16. és 17. pontjában, továbbá a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 2. §-ában, 61. §-ában, 79/C. §-ában és 85. §-ában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
