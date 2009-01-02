@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva, az egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről szóló 2007. évi LXXXII. törvény 6. § (1) és (2) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
