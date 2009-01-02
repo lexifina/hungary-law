@@ -1,0 +1,1 @@
+## 4. § Az önkéntes tűzoltóság olyan hírközponttal és hírközlő rendszerrel rendelkezik, amely szükség esetén folyamatos rádiókapcsolatot tud biztosítani az illetékes területi katasztrófavédelmi szerv ügyeletével, illetőleg a tűzoltóságok kivonult egységeivel. Az önkéntes tűzoltóság ezen kívül távbeszélő-kapcsolatot is biztosít.
