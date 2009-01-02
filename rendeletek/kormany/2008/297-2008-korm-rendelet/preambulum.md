@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotó hatáskörében, az Alkotmány 40. § (3) bekezdésében foglalt feladatkörében eljárva, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (5) bekezdésében foglalt felhatalmazás alapján a következőket rendeli:
