@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. § (3) bekezdésében foglalt feladatkörében eljárva, valamint az adózás rendjéről szóló 2003. évi XCII. törvény 182. § (7) és (10) bekezdéseiben foglalt felhatalmazás alapján a következőket rendeli el:
