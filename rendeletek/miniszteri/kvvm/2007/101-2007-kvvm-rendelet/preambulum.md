@@ -1,0 +1,1 @@
+A vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (8) bekezdésének a) és d) pontjában kapott felhatalmazás alapján, valamint a környezetvédelmi és vízügyi miniszter feladat- és hatásköréről szóló 165/2006. (VII. 28.) Korm. rendelet 1. §-ának c) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
