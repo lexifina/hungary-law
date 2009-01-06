@@ -1,0 +1,3 @@
+42. § A Tv. 69. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A jogosulatlanul igénybe vett támogatást kamattal növelten kell visszafizetni. A kamat mértéke a kamatszámítás időszakának minden napjára a mindenkori jegybanki alapkamat kétszeresének 365-öd része. A kamatszámítás kezdő időpontja – amennyiben közvetlenül alkalmazandó közösségi jogi aktus másként nem rendelkezik – a jogosulatlanul igénybe vett támogatás ügyfél bankszámláján történő jóváírásának a napja. A kamatszámítás záró időpontja – amennyiben közvetlenül alkalmazandó közösségi jogi aktus másként nem rendelkezik – a támogatás jogosulatlan igénybevételét megállapító határozat kelte. Ez a rendelkezés nem érinti a jogszabályban meghatározott egyéb jogkövetkezményeket.”

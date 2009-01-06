@@ -1,0 +1,75 @@
+13. § A Tv. 26. §-a helyébe a következő rendelkezés lép:
+
+„26. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási adatok nyilvántartására az alábbi nyilvántartási rendszereket működteti:
+
+a) ügyfél-nyilvántartási rendszer,
+
+b) az intézkedések kezelésére szolgáló nyilvántartási és ellenőrzési rendszerek,
+
+c) földterület azonosítási rendszer,
+
+d) a szőlőültetvények országos térinformatikai nyilvántartása,
+
+e) intervenciós raktárregiszter,
+
+f) mezőgazdasági célú csekély összegű (de minimis) támogatások nyilvántartási rendszere,
+
+g) monitoring adat-nyilvántartási rendszer [az a)–g) pontok a továbbiakban együtt: nyilvántartási rendszerek].
+
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetésével kapcsolatos technikai feladatok ellátására adatfeldolgozót bízhat meg.
+
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv részére az intézkedések végrehajtása során a vonatkozó feltételek, illetve kötelezettségek betartásának ellenőrzése céljából adatokat kell átadni:
+
+a) a vámhatóság által kezelt vámadatbázisból,
+
+b) a külkereskedelmi államigazgatási szerv által kezelt importengedély-nyilvántartásból,
+
+c) a szőlőültetvény-kataszterből,
+
+d) az Egységes Nyilvántartási és Azonosítási Rendszerből (ENAR),
+
+e) az Országos Erdőállomány Adattárból,
+
+f) a védett és védelemre tervezett természeti területek nyilvántartásából,
+
+g) az Országos Támogatási Monitoring Rendszer nyilvántartásából,
+
+h) a külön jogszabály szerint elismert ökológiai termelést ellenőrző szervezet által vezetett, az ökológiai gazdálkodással összefüggő nyilvántartásból,
+
+i) a vetőmag-nyilvántartási rendszerből,
+
+j) a személyek azonosítására a személyiadat- és lakcímnyilvántartásból,
+
+k) a cégnyilvántartásból,
+
+l) az ingatlan-nyilvántartásból,
+
+m) a földhasználati nyilvántartásból,
+
+n) az Országos Halászati Adattárból,
+
+o) a munkaügyi és munkavédelmi hatóság adatbázisából,
+
+p) az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv által kezelt adatbázisból,
+
+q) az I. és II. Nemzeti Fejlesztési Tervhez kapcsolódó információs rendszerekből,
+
+r) az adóhatóságtól az adóazonosító nyilvántartásból,
+
+s) a Tenyészet Információs Rendszerből,
+
+t) a Baromfi Információs Rendszerből,
+
+u) az Országos Állat-egészségügyi Információs Rendszerből,
+
+v) a hatáskörrel rendelkező hatóság nyilvántartási rendszereiből,
+
+w) az Országos Nyugdíjbiztosítási Főigazgatóság adattárából az ügyfelek sajátjogú nyugellátásáról,
+
+x) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalától (KEKKH) az egyéni vállalkozókra vonatkozó nyilvántartásból.
+
+(4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfélre vonatkozó támogatási adatokat egymással, valamint az e törvény alapján átvett adatokkal a feladatkörében végzendő ellenőrzés céljából köteles összevetni, illetve felhasználhatja.
+
+(5) A mezőgazdasági és vidékfejlesztési támogatási szerv a kölcsönös megfeleltetés körébe tartozó ellenőrzésekhez kapcsolódó nyilvántartási rendszerek működtetése érdekében a hatáskörrel rendelkező hatóság részére a 26. § (1) bekezdés b) pontja szerinti nyilvántartási rendszerekben szereplő adatokat az ellenőrzések lefolytatásához és kiértékeléséhez szükséges mértékben átadja.
+
+(6) Az (1) és (3) bekezdés szerinti nyilvántartásokban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét, valósággal egyezőségét vitatja.”
