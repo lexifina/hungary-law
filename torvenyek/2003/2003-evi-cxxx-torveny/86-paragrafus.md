@@ -1,0 +1,5 @@
+86. § Az Nbjt. a következő 25/A. §-sal egészül ki:
+
+,,
+
+25/A. § Az ideiglenes kiadatási letartóztatás és a kiadatási letartóztatás helyett más személyi szabadságot korlátozó kényszerintézkedés nem alkalmazható. A keresett személy ideiglenes kiadatási letartóztatása, vagy kiadatási letartóztatása óvadék ellenében sem mellőzhető, illetve nem szüntethető meg.''

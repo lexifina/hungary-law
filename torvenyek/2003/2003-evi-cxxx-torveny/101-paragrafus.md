@@ -1,0 +1,1 @@
+101. § Felhatalmazást kap a miniszter, hogy a rendészetért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen, a legfőbb ügyésszel egyetértésben rendeletben szabályozza az európai elfogatóparancs végrehajtása során a külföldön tartózkodó személynek a Magyar Köztársaság területére szállítása költségeinek előlegezésére és viselésére vonatkozó szabályokat.

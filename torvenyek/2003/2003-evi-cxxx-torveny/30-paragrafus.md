@@ -1,0 +1,1 @@
+30. § Ha a tagállami igazságügyi hatóság az átadás elhalasztása helyett – az írásban kötött közös megállapodásban meghatározott feltételek szerint – ideiglenesen átadja a keresett személyt, a megállapodásban rögzített feltételek minden magyar hatóságra kötelezőek.

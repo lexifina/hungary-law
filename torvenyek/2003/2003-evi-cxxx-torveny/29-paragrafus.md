@@ -1,0 +1,1 @@
+29. § Az európai elfogatóparancs végrehajtásából eredő külföldi fogva tartás teljes időtartamát be kell számítani a bíróság által kiszabott szabadságvesztés büntetésbe vagy szabadságelvonással járó intézkedésbe.

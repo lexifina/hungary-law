@@ -1,0 +1,1 @@
+44. § A magyar igazságügyi hatóság kérheti a tagállami igazságügyi hatóságot, hogy megkeresését a magyar jogszabályokban foglaltak szerint, illetve az általa meghatározott technikai módszert alkalmazva teljesítse.

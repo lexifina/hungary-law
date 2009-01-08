@@ -1,0 +1,1 @@
+14. § Az európai elfogatóparancs végrehajtásának megtagadása esetén, annak okáról a kibocsátó tagállami igazságügyi hatóságot a miniszter a megtagadásról rendelkező jogerős határozat alapján tájékoztatja.
