@@ -1,0 +1,1 @@
+A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 125. § (5) bekezdésében kapott felhatalmazás alapján, a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
