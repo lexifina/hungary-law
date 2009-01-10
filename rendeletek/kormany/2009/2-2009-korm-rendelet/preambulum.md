@@ -1,0 +1,1 @@
+Az államhatárról szóló 2007. évi LXXXIX. törvény 14. § (2) bekezdésében foglalt felhatalmazás alapján, a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva, a Kormány a következőket rendeli el:
