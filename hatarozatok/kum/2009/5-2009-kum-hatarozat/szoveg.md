@@ -1,0 +1,5 @@
+A 197/2008. (VIII. 4.) Korm. rendelettel, a Magyar Közlöny 2008. augusztus 4-i, 115. számában kihirdetett, a Magyar Köztársaság Kormánya és a Kazah Köztársaság Kormánya között a gazdasági együttműködésről szóló Megállapodás, annak 7. cikke értelmében a diplomáciai úton eljuttatott azon utolsó értesítés kézhezvételét követő harmincadik napon lép hatályba, mely útján egyik Szerződő Fél értesíti a másik Szerződő Felet arról, hogy teljesítette a megállapodás hatálybalépéséhez a saját belső jogrendje szerint szükséges eljárási követelményeket.
+
+A szükséges belső jogi eljárások lefolytatásáról szóló hivatalos értesítés a Magyar Fél részéről 2008. szeptember 23-i keltezéssel került kiküldetésre, a Kazah Fél részéről az értesítést 2008. december 10-én kaptuk kézhez.
+
+A fentiekre tekintettel, összhangban a 197/2008. (VIII. 4.) Korm. rendelet 4. § (3) bekezdés rendelkezésével megállapítom, hogy a Magyar Köztársaság Kormánya és a Kazah Köztársaság Kormánya között a gazdasági együttműködésről szóló Megállapodás kihirdetéséről szóló 197/2008. (VIII. 4.) Korm. rendelet 2. és 3. §-ai 2009. január 9-én, azaz kettőezer-kilenc január kilencedikén hatályba lépnek.
