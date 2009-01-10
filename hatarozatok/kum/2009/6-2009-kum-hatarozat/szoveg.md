@@ -1,0 +1,5 @@
+A 2008. évi LXXII. törvénnyel a Magyar Közlöny 2008. november 20-i, 164. számában kihirdetett, a Magyar Köztársaság, valamint Montenegró között a társadalombiztosításról és a szociális biztonság egyes kérdéseiről szóló, Budapesten, 2008. május 20-án aláírt Egyezmény a 43. cikk értelmében a megerősítésről szóló későbbi diplomáciai értesítés megküldésének hónapját követő negyedik hónap első napján lép hatályba.
+
+A Montenegrói Fél 2008. november 6-án kelt jegyzékében értesítette a Magyar Felet, a Magyar Fél pedig 2008. december 11-én kelt válaszjegyzékében értesítette a Montenegrói Felet a megerősítés megtörténtéről, ennek megfelelően az Egyezmény 2009. április 1-jén lép hatályba.
+
+A fentiekre tekintettel, összhangban a 2008. évi LXXII. törvény 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság, valamint Montenegró között a társadalombiztosításról és a szociális biztonság egyes kérdéseiről szóló, Budapesten, 2008. május 20-án aláírt Egyezmény, valamint az Egyezmény kihirdetéséről szóló 2008. évi LXXII. törvény 2. és 3. §-ai 2009. április 1-jén, azaz kettőezer-kilenc április elsején lépnek hatályba.
