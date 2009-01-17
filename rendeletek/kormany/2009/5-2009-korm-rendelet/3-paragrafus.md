@@ -1,0 +1,1 @@
+## 2. § A Központi Statisztikai Hivatal a 4. melléklet szerint részletezett előzetes adatokat a tárgyidőszakra, a végleges adatokat visszamenőlegesen a tárgyidőszakot megelőző évre vonatkozóan teljesíti minden év szeptember 30-ig.
