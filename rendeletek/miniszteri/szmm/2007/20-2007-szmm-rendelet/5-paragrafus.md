@@ -1,0 +1,14 @@
+## 4. §[^3] A szakmai vizsga nyelve magyar, illetőleg a nemzetiségi iskolában, két tanítási nyelvű szakképző iskolában magyar vagy a nemzetiség nyelve, vagy más, a képzés nyelvének megfelelő idegen nyelv. A modulzáró vizsga nyelve abban az esetben is magyar, ha a szakmai vizsga nyelve idegen nyelv. Az idegen nyelven letett szakmai vizsga az államilag elismert nyelvvizsgával nem egyenértékű, azt nem helyettesíti.
+
+5. §[^4] (1) A szakmai vizsga részeinek ismételt teljesítése alóli vizsgafelmentés iránti kérelmet a vizsgára való jelentkezéskor írásban kell benyújtani a vizsgaszervezőnek. A vizsgafelmentés tárgyában a szakmai vizsgabizottság dönt. Döntését a korábbi vizsga letételét igazoló okirat, a vizsgázó kérelméhez csatolt dokumentumok és a szakmai és vizsgakövetelményekről szóló rendelet alapján hozza meg.
+
+(2) A vizsgabizottság a vizsgafelmentésről hozott döntéséről a kérelmet benyújtó vizsgára jelentkezőt a jelentkező számára legkedvezőbb időpontban, de legkésőbb a szakmai vizsga első vizsgatevékenysége megkezdése előtt 3 munkanappal korábban, írásban tájékoztatja. A vizsgabizottság döntését határozatba foglalja, amelyet e rendelet 1. számú mellékleteként kiadott törzslapba be kell jegyezni.
+
+(3) Ha a vizsgabizottság azt állapítja meg, hogy a vizsgára jelentkező a vizsgált szakképesítés esetén minden vizsgarész tekintetében teljesítette a szakmai és vizsgakövetelményről szóló rendeletben előírtakat, akkor a vizsgázó számára újabb szakmai vizsga letétele nélkül a szakmai vizsgabizonyítványt a korábbi vizsgán, vizsgákon elért eredménye alapján kell kiállítani.
+
+(4) A sajátos nevelési igényű vizsgázó kérelmére, fogyatékossága miatt a vizsgafeladat a vizsgabizottság döntése alapján eltérő vizsgatevékenységgel (szóbeli helyett írásbeli, illetve írásbeli vagy interaktív tevékenység helyett szóbeli), továbbá az írásbeli és az interaktív vizsgatevékenység a szakmai és vizsgakövetelményben meghatározott időnél hosszabb időtartammal is teljesíthető. A vizsgabizottság a döntéséről határozatot hoz, amelyet az e rendelet 1. számú mellékleteként kiadott törzslapba be kell jegyezni.
+
+(5) Mentesül az adott vizsgarész tekintetében a szakmai vizsga letétele alól az a vizsgázó, aki a vizsgarész követelményét a szakképesítésért felelős miniszter által meghirdetett országos tanulmányi versenyen, diákolimpián teljesítette és a versenykiírásban meghatározott helyezést, teljesítményt, szintet eléri.
+
+[^3]: A 4. § a 19/2008. (XII. 4.) SZMM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján a rendelkezést a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.
+[^4]: Az 5. § a 19/2008. (XII. 4.) SZMM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 28. § (2) bekezdése alapján a rendelkezést a 2009. január 18. napját követően megkezdett szakmai vizsgák esetén kell alkalmazni.

@@ -1,0 +1,1 @@
+## 27. § A szóbeli vizsgatevékenység során a vizsgázó munkáját vizsgafeladatonként a jelenlévő vizsgabizottsági tagok és a vizsgabizottság munkáját segítő szakértők egymástól függetlenül értékelik. A vizsgabizottság munkáját segítő kérdező tanár tesz javaslatot a %-os teljesítményre. Véleményeltérés esetén a vizsgabizottság szavazással dönt.
