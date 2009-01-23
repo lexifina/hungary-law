@@ -1,0 +1,5 @@
+1. § (1) Az 1. mellékletben felsorolt intézmények 2012. december 31-ig jogosultak iskolarendszeren kívüli, a nemzeti fejlesztési és gazdasági miniszter hatáskörébe tartozó szakképesítések megszerzésére irányuló szakmai vizsga szervezésére.
+
+(2) A szakmai vizsga szervezésére feljogosított intézmény a 2. mellékletben megjelölt szakképesítés, szakképesítés-elágazás, ezek részszakképesítése, szakképesítés-ráépülés, valamint részszakképesítés tekintetében és az ott meghatározott régióban jogosult szakmai vizsga szervezésére.
+
+(3) Az (1) bekezdés szerinti intézményeken kívül az Építésügyi Minőségellenőrző Innovációs Kht. a Felvonó- és mozgólépcsőellenőr szakképesítés Felvonóellenőr (OKJ szám: 61 521 01 0010 61 01), valamint Mozgólépcső ellenőr (OKJ szám: 61 521 01 0010 61 02) elágazása, továbbá a Kéményvizsgáló (OKJ szám: 33 814 01 000 00 00) szakképesítés és a Kéményseprő (OKJ szám: 33 814 01 0100 31 01) részszakképesítés tekintetében jogosult szakmai vizsga megszervezésére az ország összes régiójában.

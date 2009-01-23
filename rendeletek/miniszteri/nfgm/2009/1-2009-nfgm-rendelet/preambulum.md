@@ -1,0 +1,1 @@
+A szakképzésről szóló 1993. évi LXXVI. törvény 5. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, a nemzeti fejlesztési és gazdasági miniszter feladat- és hatásköréről szóló 134/2008. (V. 14.) Korm. rendelet 1. § f) és g) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
