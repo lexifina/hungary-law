@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a vágóállatok védelméről szóló, Strasbourgban, 1979. május 10-én aláírt Európai Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
