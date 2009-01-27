@@ -1,0 +1,5 @@
+A 186/2008. (VII. 22.) Korm. rendelettel a Magyar Közlöny 2008. július 22-i, 107. számában kihirdetett, a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya közötti audiovizuális kapcsolatokról szóló, Budapesten, 2008. február 20-án aláírt Egyezmény 16. cikk (2) bekezdése értelmében a szükséges belső jogi eljárások lefolytatásáról szóló utolsó hivatalos értesítés kézhezvételét követő 30. napon lép hatályba.
+
+A szükséges belső jogi eljárások lefolytatásáról szóló hivatalos értesítést a Magyar Köztársaság 2008. november 6-án, a Németországi Szövetségi Köztársaság 2008. december 6-án küldte meg. Az Egyezmény 16. cikk (2) bekezdése értelmében 2008. december 6-án hatályba lépett.
+
+A fentiekre tekintettel, összhangban a 186/2008. (VII. 22.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya közötti audiovizuális kapcsolatokról szóló, Budapesten, 2008. február 20-án aláírt Egyezmény kihirdetéséről szóló 186/2008. (VII. 22.) Korm. rendelet 2. és 3. §-a 2008. december 6-án, azaz kettőezer-nyolc december hatodikán hatályba lépett.
