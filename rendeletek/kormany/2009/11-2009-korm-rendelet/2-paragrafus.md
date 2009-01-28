@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Izrael Állam Kormánya közötti a magánszektorban megvalósuló ipari kutatás-fejlesztésben történő kétoldalú együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
