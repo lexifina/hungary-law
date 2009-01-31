@@ -1,0 +1,5 @@
+25. § (1) Fokozottan védett régészeti lelőhellyé nyilvánítom a Nagyatád (Somogy megye), belterület 2041/1 és 2041/2 helyrajzi számok alatt nyilvántartott kivett, a külterület 0391/8, 0391/9, 0391/11, 0391/12, 0391/13, 0398/3, 0398/4, 0398/5, 0398/6, 0398/7, 0398/8, 0398/12, 0398/13 és 0398/21 helyrajzi számok alatt nyilvántartott szántó, a 0391/14 helyrajzi szám alatt nyilvántartott legelő, a 0392, 0394 és 0398/2 helyrajzi számok alatt nyilvántartott kivett, a 0398/20 helyrajzi szám alatt nyilvántartott szántó, kivett és legelő, valamint a 0398/24 helyrajzi szám alatt nyilvántartott rét művelési ágú, természetben a Bodvica nevű településrészen található ingatlanokat.
+
+(2) Az (1) bekezdésben megjelölt területen a régészeti védelem célja az itt található középkori templom és település maradványainak megőrzése, a lelőhely kutathatóságának biztosítása.
+
+(3) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a fokozottan védett régészeti lelőhelyet a II. kategóriába sorolom.
