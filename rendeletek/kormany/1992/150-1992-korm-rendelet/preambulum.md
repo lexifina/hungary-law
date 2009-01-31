@@ -1,0 +1,1 @@
+A Kormány a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényben (a továbbiakban: Kjt.) kapott felhatalmazás alapján — a Kjt. 4. §-ára és 85. §-ának (1) és (4) bekezdésére figyelemmel, a Költségvetési Intézmények Érdekegyeztető Tanácsával egyeztetve — a következőket rendeli:
