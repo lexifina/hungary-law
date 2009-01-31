@@ -1,0 +1,1 @@
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 15. § (1)–(2) bekezdése, valamint a 86. § (1) bekezdésének a) pontja alapján, továbbá az örökségvédelmi bírságról szóló 191/2001. (X. 18.) Korm. rendelet 2. § (1) bekezdése alapján, az érintett miniszterekkel egyetértésben, a következőket rendelem el:
