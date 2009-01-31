@@ -1,0 +1,1 @@
+## 6. § A 4. § (3) bekezdésben leírt, kérelemre indított eljárás díjköteles. A külön jogszabályban meghatározott díj megfizetését az illetékes hatósági állatorvos a kérelmen aláírásával és bélyegzőlenyomatával igazolja.
