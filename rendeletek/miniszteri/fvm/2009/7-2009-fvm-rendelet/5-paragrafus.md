@@ -1,0 +1,1 @@
+## 4. § Magasabb vezető és vezető beosztást – a 3. § (2) bekezdés c) pontja szerinti vezető beosztás kivételével – csak szakirányú felsőfokú iskolai végzettséggel rendelkező közalkalmazott tölthet be.
