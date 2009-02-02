@@ -1,0 +1,1 @@
+A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. §-ának (2) bekezdésében kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. §-ának a) pontjában foglalt feladatkörben eljárva a következőket rendelem:
