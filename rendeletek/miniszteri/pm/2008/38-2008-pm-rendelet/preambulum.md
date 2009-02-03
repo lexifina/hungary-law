@@ -1,0 +1,1 @@
+A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 129. §-a (2) bekezdésének a), c)–d), g) és t) pontjában kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. §-ának b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
