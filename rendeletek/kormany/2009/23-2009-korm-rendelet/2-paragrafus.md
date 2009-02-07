@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Észt Köztársaság Kormánya között kulturális intézetek létesítéséről és működéséről szóló 2005. november 29-én aláírt Megállapodást e rendelettel kihirdeti.
