@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és az Egyesült Nemzetek Gyermekalapja közötti fejlesztési együttműködésről szóló, New Yorkban, 2007. december 12-én aláírt Keretmegállapodás (a továbbiakban: Keretmegállapodás) kötelező hatályának elismerésére.
