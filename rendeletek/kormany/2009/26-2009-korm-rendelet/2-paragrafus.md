@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Fehérorosz Köztársaság Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról szóló, Minszkben, 1995. november 1-jén aláírt és a 143/1996. (IX. 13.) Korm. rendelettel kihirdetett egyezmény (a továbbiakban: Egyezmény) jegyzékváltás útján történő módosítását e rendelettel kihirdeti.
