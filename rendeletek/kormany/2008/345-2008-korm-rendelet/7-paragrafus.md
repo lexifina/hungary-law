@@ -1,0 +1,1 @@
+## összegű bírságot köteles fizetni.

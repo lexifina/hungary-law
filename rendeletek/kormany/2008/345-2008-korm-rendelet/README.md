@@ -1,0 +1,9 @@
+# 345/2008. (XII. 30.) Korm. rendelet
+
+a közúti járművek típusjóváhagyásával kapcsolatos egyes rendelkezések megsértése esetén kiszabható bírságokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-345-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-02-14 | 2008-345-20-22.2 | 345/2008. (XII. 30.) Korm. rendelet |
