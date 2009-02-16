@@ -1,0 +1,1 @@
+A Kormány a földgázellátásról szóló 2003. évi XLII. törvény 55. § a) és s) pontjában, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 7. és 34. pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli:
