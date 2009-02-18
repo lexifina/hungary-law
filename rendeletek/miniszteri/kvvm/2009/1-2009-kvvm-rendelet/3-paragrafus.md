@@ -1,0 +1,1 @@
+## Hitelesítésre jogosult
