@@ -1,0 +1,3 @@
+5. § (1) A jogorvoslati eljárás igazgatási szolgáltatási díját a Főfelügyelőségnek vissza kell fizetnie, ha megállapítást nyer, hogy az elsőfokú határozat részben vagy egészben jogszabálysértő volt. A visszatérítést hivatalból a jogorvoslati eljárás során hozott határozatban kell elrendelni.
+
+(2) Ha az ügyfél eljárás megindítása nélkül (tévesen) fizetett igazgatási szolgáltatási díjat, akkor a befizetési bizonylattal vagy annak másolatával kérheti az igazgatási szolgáltatási díj visszatérítését. A Főfelügyelőség, illetve a Minisztérium a visszatérítési igényt ellenőrzi és a tévesen befizetett igazgatási szolgáltatási díjat visszatéríti, vagy határozatot hoz a visszatérítés megtagadásáról.
