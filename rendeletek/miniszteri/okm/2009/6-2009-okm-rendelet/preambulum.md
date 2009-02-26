@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 7. számú melléklet b) és d) pontjában kapott felhatalmazás alapján, az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. § d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
