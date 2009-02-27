@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Dávid Ibolya országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 7. B. V. 27.231/2008/5. számú megkeresésével érintett ügyben nem függeszti fel.
