@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Nyakó István országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 18. B. VIII. 35806/2008/8. számú megkeresésével érintett ügyben nem függeszti fel.
