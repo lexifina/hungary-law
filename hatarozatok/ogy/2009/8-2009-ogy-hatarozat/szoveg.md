@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Fazekas Sándor országgyűlési képviselő mentelmi jogát a Jász- Nagykun-Szolnok Megyei Bíróság I. B.f.941/2008/3. számú megkeresésével érintett ügyben nem függeszti fel.
