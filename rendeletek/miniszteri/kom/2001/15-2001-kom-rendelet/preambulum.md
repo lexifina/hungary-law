@@ -1,0 +1,1 @@
+Az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: At.) 68. §-ának (3) bekezdésében foglalt felhatalmazás alapján az Országos Atomenergia Hivatal felügyeletét ellátó miniszterrel, a közlekedési és vízügyi miniszterrel, valamint az egészségügyi miniszterrel egyetértésben a következőket rendelem el:

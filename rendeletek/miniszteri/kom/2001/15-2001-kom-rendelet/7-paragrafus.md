@@ -1,0 +1,1 @@
+## Előzetes bejelentési kötelezettség
