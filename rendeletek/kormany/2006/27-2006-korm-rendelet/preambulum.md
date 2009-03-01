@@ -1,0 +1,1 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 36. §-ában, valamint 110. §-ának (7) bekezdés f) pontjában kapott felhatalmazás alapján – a termőföldről szóló 1994. évi LV. törvénnyel összhangban – a Kormány a következőket rendeli el:
