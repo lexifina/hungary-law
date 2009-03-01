@@ -1,0 +1,1 @@
+A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás kihirdetéséről szóló 1979. évi 19. törvényerejű rendelet 4. §-ának (2) bekezdésében foglalt felhatalmazás alapján – az érintett miniszterekkel egyetértésben – a következőket rendelem el:
