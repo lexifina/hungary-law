@@ -1,0 +1,1 @@
+A katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény (a továbbiakban: Kat.) 52. §-ának a)–c) pontjaiban kapott felhatalmazás alapján a következőket rendelem el:
