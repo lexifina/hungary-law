@@ -1,0 +1,3 @@
+## 22/C. §[^41] A takarmány-adalékanyagok és a takarmány-adalékanyagokat tartalmazó előkeverékek jelölésére a takarmányozási célra felhasznált adalékanyagokról szóló, 2003. szeptember 22-i 1831/2003/EK európai parlamenti és tanácsi rendelet előírásait kell alkalmazni.
+
+[^41]: A Vhr. 22/C. §-át a 11/2007. (II. 20.) FVM rendelet 3. §-a iktatta be. E módosító rendelet 8. § (2) bekezdése alapján a 2007. március 7. napja előtt gyártott, a gyártás idején hatályos jogszabályi előrásoknak megfelelő jelöléssel ellátott csomagolóeszközök, címkék 2007. május 31-ig, és az ezen csomagolóeszközzel, címkével forgalomba hozott termékek a minőségmegőrzési idő lejártáig használhatóak fel.
