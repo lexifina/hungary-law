@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. § (3) bekezdésében foglalt feladatkörében eljárva, illetve az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 47. § (1) bekezdés a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
