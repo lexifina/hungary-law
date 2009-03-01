@@ -1,0 +1,1 @@
+Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. §-ának (4) bekezdésében kapott felhatalmazás alapján, a 62. § (2) bekezdésének e) és i) pontjaiban meghatározott szabályozási feladatokra figyelemmel – a területfejlesztésért felelős miniszterrel egyetértésben – a következőket rendelem el:
