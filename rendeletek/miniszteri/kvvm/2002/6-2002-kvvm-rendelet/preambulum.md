@@ -1,0 +1,1 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 89. §-ának (3) bekezdésében, valamint 110. §-a (8) bekezdésének m) pontjában kapott felhatalmazás alapján, az egészségügyi, szociális és családügyi miniszterrel, valamint a földművelésügyi és vidékfejlesztési miniszterrel egyetértésben a következőket rendelem el:

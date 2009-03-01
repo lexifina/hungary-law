@@ -1,0 +1,1 @@
+## 17. § Az országhatárokat átszelő vagy országhatárokat alkotó vizekre vonatkozóan – a halas vizek kijelölését követően – a környezetvédelemért felelős miniszter az érintett ország képviselőivel egyeztetést kezdeményez.
