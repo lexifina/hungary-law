@@ -1,0 +1,1 @@
+A közbeszerzésekről szóló 2003. évi CXXIX. törvény 404. §-ának (3) bekezdésében kapott felhatalmazás alapján, figyelemmel a munkavédelemről szóló 1993. évi XCIII. törvény rendelkezéseire – az egészségügyi, szociális és családügyi miniszterrel, valamint a gazdasági és közlekedési miniszterrel egyetértésben – a következőket rendelem el:
