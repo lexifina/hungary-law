@@ -1,0 +1,1 @@
+## 8. § Az engedélyező hatóság az állatkert működési engedélyének kiadásáról, annak módosításáról vagy visszavonásáról az illetékes jegyzőt (a főváros esetében a kerületi jegyzőt) és rendőrhatóságot értesíti.
