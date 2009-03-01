@@ -1,0 +1,1 @@
+## 6. § A veszélyes állatok tartására vonatkozó feltételek megszegése esetén az eljáró hatóság az Átv.-ben meghatározott kötelezettségei mellett az állatvédelmi bírságról szóló 244/1998. (XII. 31.) Korm. rendeletben meghatározott bírságot szab ki.
