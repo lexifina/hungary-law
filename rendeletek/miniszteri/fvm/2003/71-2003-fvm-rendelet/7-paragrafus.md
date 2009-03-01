@@ -1,0 +1,3 @@
+7. § (1) Az elhullott baromfit, továbbá 3 hetesnél fiatalabb malac hulláját, az állattartó saját telkén – évente legfeljebb 50 kg össztömegig – elföldelheti, ha fennállnak az 5. § (2) bekezdésében foglalt feltételek. A felsoroltnál nagyobb mennyiségű, illetve a nagyobb egyedi testtömegű állatok hulláját engedélyezett állatihulladék-gyűjtő, gyűjtő-átrakó telepre vagy kezelő üzembe kell szállítani.
+
+(2) Azon állati hulladékokat, melynek szállítása jelentős köz- vagy állategészségügyi kockázattal jár el kell földelni, erről az állomás, a körülmények, illetve a külön jogszabályban foglaltak figyelembevételével dönt.
