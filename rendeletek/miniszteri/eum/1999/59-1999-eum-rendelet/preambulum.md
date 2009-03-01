@@ -1,0 +1,1 @@
+A vásárokról és a piacokról szóló 35/1995. (IV. 5.) Korm. rendelet 9. §-ának (3) bekezdésében kapott felhatalmazás alapján – a gazdasági miniszterrel, valamint a földművelésügyi és vidékfejlesztési miniszterrel egyetértésben – a következőket rendelem el:
