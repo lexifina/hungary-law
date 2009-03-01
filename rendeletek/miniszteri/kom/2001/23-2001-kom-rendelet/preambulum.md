@@ -1,0 +1,1 @@
+A környezet védelmének általános szabályairól szóló, a 2000. évi CXXIX. törvénnyel módosított 1995. évi LIII. törvény 89. § (3) bekezdésében és a 110. § (8) bekezdés i) pontjában kapott felhatalmazás alapján a következőket rendelem el:
