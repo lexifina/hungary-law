@@ -1,0 +1,1 @@
+## Közvetett termőhely-meghatározás
