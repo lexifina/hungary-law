@@ -1,0 +1,5 @@
+5. § (1) Mesterséges termékenyítő állomáson csak a spermanyerés céljára tartott, azonos fajú, hímivarú egyedek tarthatók. Kivételesen az állomás engedélyével és előírt feltételeivel más fajú és nemű állat is tartható, amelyik a létesítmény működtetéséhez szükséges és nem jelent a spermatermelésre használt egyedre egészségügyi kockázatot.
+
+(2) Valamennyi spermatermelésre használt egyedről részletes állategészségügyi feljegyzést kell készíteni, ami a mesterséges termékenyítő állomásra érkezésétől kezdődően végigkíséri az állatot. A nyilvántartásban időrendi sorrendben fel kell tüntetni a kötelező állategészségügyi és tenyésztéshigiéniai vizsgálatok időpontját és eredményeit.
+
+(3) Mesterséges termékenyítő állomásra csak hatósági állatorvosi ellenőrzés alatt álló, ellenőrzött hazai tenyészetből vagy importból származó tenyészállatot lehet beszállítani a külön jogszabálynak megfelelő karantén elhelyezése után. Valamennyi, a telepen történő állatelhelyezéssel és elszállítással kapcsolatos eseményt ellenőrizhető módon nyilván kell tartani.
