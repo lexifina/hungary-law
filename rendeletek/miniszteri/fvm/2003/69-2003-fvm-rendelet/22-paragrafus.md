@@ -1,0 +1,3 @@
+22. § (1) Ha a BSE vagy súrlókor gyanújának észlelésekor a rendelkezésre álló járványügyi információk alapján valószínűsíthető, hogy az állat fertőződése nem a jelenlegi tartási helyen történt, akkor intézkedni kell azon állomány forgalmi korlátozás alá helyezéséről, ahol a TSE-re gyanús állat feltételezett fertőződése történt.
+
+(2) A TSE-re gyanús állat egész teste SRM-nek minősül, amit a 4. számú mellékletben előírtaknak megfelelően ártalmatlanítani kell, kivéve a vizsgálati anyagból készített paraffin tömböket, amelyeket a vizsgálatokat végző állategészségügyi intézet köteles hét évig megőrizni.

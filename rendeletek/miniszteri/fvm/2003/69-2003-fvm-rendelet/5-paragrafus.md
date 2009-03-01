@@ -1,0 +1,3 @@
+5. § (1) Ha a benyújtott dokumentáció a 4. § (3) bekezdésének megfelelően történt kiegészítéssel együtt sem alkalmas az ország (régió) BSE státuszának meghatározásához, akkor teljes kockázatelemzés szükséges, ami magában foglalja a TSE-re vonatkozó járványtani helyzet statisztikai felmérését is.
+
+(2) A felmérést a gyorstesztek használatán alapuló vizsgálati eljárás segítségével kell elvégezni, ezen kívül figyelembe kell venni a Nemzetközi Állatjárványügyi Hivatal (OIE) járványtani helyzetre vonatkozó ajánlásait. A minisztérium csak azokat a gyorsteszteket fogadja el, amelyeket az Európai Unió már elfogadott.
