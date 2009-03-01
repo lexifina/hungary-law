@@ -1,0 +1,3 @@
+9. § (1) Virágzó növényállományban méhekre kifejezetten veszélyes minősítésű növényvédő szer nem használható. Méhekre mérsékelten veszélyes minősítésű növényvédő szer kizárólag a háziméhek napi aktív repülésének befejezését követően, a csillagászati naplemente előtt egy órával, legkésőbb 23 óráig használható fel (a továbbiakban: méhkímélő technológia), amennyiben ezt a növényvédő szer engedélyokirata lehetővé teszi.
+
+(2) A háziméhek biztonsága érdekében a külön jogszabályban foglalt óvintézkedéseket meg kell tenni, ha a méhkímélő technológiára a növényvédő szer engedélyokirata utalást nem tesz.
