@@ -1,0 +1,1 @@
+## 6. § Az előzőekben felsorolt feltételek megléte esetén az engedélyt ki kell adni, illetve a fogyasztók egészségének és érdekeinek megsértése esetén az engedélyt a vonatkozó jogszabályok szerint vissza kell vonni.
