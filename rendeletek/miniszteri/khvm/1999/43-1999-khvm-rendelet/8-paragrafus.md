@@ -1,0 +1,1 @@
+## 7. § Az 1. számú melléklet ,,g'' szorzószámot tartalmazó táblázata üresen hagyott rovatainak megfelelő vízhasználatok esetén a gazdasági célú egyéb vízhasználatokra vonatkozó ,,g'' szorzószámot kell alkalmazni.

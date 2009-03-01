@@ -1,0 +1,1 @@
+A Magyar Köztársaság 1999. évi költségvetéséről szóló 1998. évi XC. törvény (a továbbiakban: Kvt.) 66. és 67. §-aiban, valamint a Kvt. 10. számú mellékletének 18–21. pontjaiban foglaltak alapján – figyelemmel az egyes elkülönített állami pénzalapokról szóló 1992. évi LXXXIII. törvény 120. §-a (7) bekezdésének c) és d) pontjában kapott felhatalmazásra – a következőket rendelem el:
