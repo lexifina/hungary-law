@@ -1,0 +1,3 @@
+4. § (1) A minősítő intézet a szaporítóanyag minősítési rendszer alkalmazása során együttműködik az Állami Erdészeti Szolgálattal (a továbbiakban: erdészeti hatóság), az erdészeti tudomány és oktatás intézményeivel, védett természeti területen lévő erdő vagy védett faj esetén a Környezetvédelmi és Vízügyi Minisztériummal, az erdőgazdálkodók és szaporítóanyag előállítók szakmai és érdekvédelmi szervezeteivel, az Erdészeti Szaporítóanyag Terméktanáccsal.
+
+(2) A minősítő intézet jogosult egyes különleges szakmai célfeladatok esetében erdészeti genetikai ismerettel, illetve egyéb megfelelő szakismerettel rendelkező természetes személyek és szervezetek közreműködését igénybe venni.

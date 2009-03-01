@@ -1,0 +1,1 @@
+A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény 30. §-a (2) bekezdésének e) pontjában, valamint az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 106. §-ának (1) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
