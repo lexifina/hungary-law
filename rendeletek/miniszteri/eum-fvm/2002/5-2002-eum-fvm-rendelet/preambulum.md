@@ -1,0 +1,1 @@
+Az élelmiszerekről szóló 1995. évi XC. törvény 27. § (11) bekezdésében, valamint a növényvédelemről szóló 2000. évi XXXV. törvény 65. § (5) bekezdésében kapott felhatalmazás alapján a következőket rendeljük el:

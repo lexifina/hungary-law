@@ -1,0 +1,15 @@
+3. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2) A növényvédő szer érvényes engedélyokiratában (a továbbiakban: engedélyokirat) előírt növényvédőszer-maradék határérték e rendelet hatálybalépésével az 1. számú mellékletben meghatározott határértékre módosul.
+
+(3) Az 1. számú mellékletet rendszeresen felül kell vizsgálni. A rendelet hatálybalépése után engedélyezett új hatóanyag, illetve már engedélyezett hatóanyag új kultúrában való alkalmazásának engedélyezésekor az engedélyokiratban megállapított határérték az irányadó az 1. számú melléklet felülvizsgálatáig.
+
+(4)[^34] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) a Tanács 76/895/EGK irányelve (1976. november 23.) a gyümölcsökben és zöldségekben, illetve azok felületén található peszticid-szermaradványok megengedett legmagasabb mértékének meghatározásáról, valamint az azt módosító, illetve kiegészítő 81/36/EGK, 88/298/EGK, 89/186/EGK, 93/58/EGK, 96/32/EK, 97/41/EK tanácsi irányelvek és 80/428/EGK, 2000/24/EK, 2000/57/EK, 2000/82/EK, 2003/60/EK, 2003/118/EK, 2006/59/EK, 2006/62/EK, 2006/92/EK, 2007/8/EK, 2007/55/EK, 2007/57/EK bizottsági irányelvek;
+
+b) a Tanács 86/362/EGK irányelve (1986. július 24.) a gabonafélékben, illetve azok felületén található peszticidszer-maradványok megengedett legmagasabb mértékének meghatározásáról, valamint az azt módosító, illetve kiegészítő 88/298/EGK, 93/57/EGK, 94/29/EK, 95/39/EK, 96/33/EK, 97/41/EK tanácsi irányelvek és 97/71/EK, 98/82/EK, 2000/42/EK, 2000/48/EK, 2000/58/EK, 2000/81/EK, 2000/82/EK, 2001/39/EK, 2001/48/EK, 2001/57/EK, 2002/23/EK, 2002/42/EK, 2002/66/EK, 2002/71/EK, 2002/76/EK, 2002/79/EK, 2002/97/EK, 2003/60/EK, 2003/62/EK, 2004/2/EK, 2004/61/EK, 2005/37/EK, 2005/46/EK, 2005/48/EK, 2005/70/EK, 2005/74/EK, 2005/76/EK, 2006/4/EK, 2006/59/EK, 2006/60/EK, 2006/61/EK, 2006/62/EK, 2006/92/EK, 2007/7/EK, 2007/8/EK, 2007/11/EK, 2007/27/EK, 2007/55/EK, 2007/56/EK, 2007/57/EK, 2007/62/EK, 2007/73/ bizottsági irányelvek;
+
+c) a Tanács 90/642/EGK irányelve (1990. november 27.) egyes növényi eredetű termékekben – többek között a gyümölcsökben és zöldségekben –, illetve azok felületén található peszticidszer-maradványok megengedett legmagasabb mértékének meghatározásáról, valamint az azt módosító és kiegészítő 93/58/EGK, 94/30/EK, 95/38/EK tanácsi irányelvek, 97/71/EK, 2000/24/EK, 2000/42/EK, 2000/48/EK, 2000/57/EK, 2000/58/EK, 2000/81/EK, 2001/35/EK, 2001/39/EK, 2001/48/EK, 2001/57/EK, 2002/5/EK, 2002/23/EK, 2002/42/EK, 2002/66/EK, 2002/71/EK, 2002/76/EK, 2002/79/EK, 2002/97/EK, 2002/100/EK, 2003/60/EK, 2003/62/EK, 2003/69/EK, 2003/113/EK, 2003/118/EK, 2004/2/EK, 2004/59/EK, 2004/61/EK, 2004/95/EK, 2004/115/EK, 2005/37/EK, 2005/46/EK, 2005/48/EK, 2005/70/EK, 2005/74/EK, 2005/76/EK, 2006/4/EK, 2006/9/EK, 2006/53/EK, 2006/59/EK, 2006/60/EK, 2006/61/EK, 2006/62/EK, 2006/92/EK, 2007/7/EK, 2007/8/EK, 2007/9/EK, 2007/11/EK, 2007/12/EK, 2007/27/EK, 2007/28/EK, 2007/39/EK, 2007/55/EK, 2007/56/EK, 2007/57/EK, 2007/62/EK, 2007/73/EK bizottsági irányelvek.
+
+[^34]: A 3. § (4) bekezdése a 91/2008. (VII. 24.) FVM–EüM együttes rendelet 1. §-ával megállapított szöveg.
