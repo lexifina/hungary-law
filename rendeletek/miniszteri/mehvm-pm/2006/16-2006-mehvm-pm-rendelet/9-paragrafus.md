@@ -1,0 +1,5 @@
+9. §[^46] (1) Ha a projektjavaslat javasolt támogatása meghaladja az 1 milliárd forintot, a közreműködő szervezet a befogadó nyilatkozat megküldésekor a teljes projektjavaslatot megküldi – ha a projektgazda nevében nem a miniszter nyújtotta be a projektjavaslatot – a miniszternek. A miniszter a projektjavaslatot – a közzétett értékelési szempontok alapján – 20 napos határidővel külön értékelővel értékeltetheti, értékelését a közreműködő szervezetnek megküldi. A miniszter által megbízott értékelőre ugyanazok a szabályok vonatkoznak, mint a közreműködő szervezet által megbízott értékelőre. A miniszter és az NFÜ egyetértésének hiányában az NFÜ kéri a Kormány jóváhagyását.
+
+(2) Ha a projektjavaslat javasolt támogatása meghaladja az 5 milliárd forintot, az NFÜ előterjesztésére a Kormány hagyja jóvá a döntést.
+
+[^46]: A 9. § a 29/2008. (XII. 31.) NFGM–PM együttes rendelet 6. §-ával megállapított szöveg, e módosító rendelet 18. § (4) bekezdése alapján rendelkezéseit a 2009. január 1-jét követően meghirdetett pályázatok esetében kell alkalmazni.

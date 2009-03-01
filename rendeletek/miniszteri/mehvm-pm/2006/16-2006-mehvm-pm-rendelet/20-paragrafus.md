@@ -1,0 +1,24 @@
+## 19/A. §[^83] Támogatási szerződés helyett az NFÜ vagy a közreműködő szervezet támogatás odaítéléséről szóló döntés alapján a 13. § (4) bekezdésben meghatározott esetben támogatást nyújt, egyéb esetekben támogatást nyújthat a kedvezményezett részére. Támogatás odaítéléséről szóló döntés esetén a 15. § (2) bekezdésében a támogatási szerződés megkötésén a támogatói okirat keltét, a 17. § (2) és (3) bekezdésében a támogatási szerződés módosításán a projekt módosítását, a 19. § (1) bekezdésében a támogatási szerződéstől történő elálláson a támogatás odaítéléséről szóló döntés visszavonását, támogatási szerződés aláírásán a támogatói okirat keltét, a 23. § (1) bekezdésében a támogatási szerződés megkötésén a támogatás odaítéléséről szóló döntés keltét kell érteni. Ahol e rendelet támogatási szerződés megkötéséhez feltételt szab meg, azon a támogatás kifizetéséhez szabott feltételt kell érteni.
+
+## Közbeszerzési eljárások lefolytatása
+
+20. §[^84] (1) A projektet érintő valamennyi közbeszerzési eljárás lefolytatásáért – a központosított közbeszerzés kivételével –, a közbeszerzési eljárásra vonatkozó valamennyi jogszabály elveinek és rendelkezéseinek betartásáért és ennek dokumentálásáért a támogató felé a projektgazda felelős. Ha a projektgazda és a projekt végrehajtásában részt vevő, a támogatási szerződésben megnevezett – elszámolható költség alapjául szolgáló számla benyújtására jogosult – ajánlatkérő szervezet személye elválik egymástól, úgy az NFÜ, illetve a közreműködő szervezet ebben az esetben is jogosult az ajánlatkérő közbeszerzési eljárása teljes folyamatában ellenőrzést végezni, melyet az ajánlatkérő köteles tűrni.
+
+(2) A projektgazda a támogatási döntésről szóló értesítés kézhezvételét követően, kiemelt és kétfordulós projektek esetében a részletes projektjavaslat benyújtását követően jelen fejezet rendelkezései szerint köteles eljárni. Ha a projektgazda a 20–22/B. §-ban foglalt kötelezettségeit nem, vagy nem megfelelően teljesíti, a szabályok megsértéséért a felelőssége szabálytalansági eljárás keretében kerül megállapításra, illetve kiemelt projektek és kétfordulós pályázat esetében a támogatói döntés meghozataláig az igényelt támogatási összeg csökkenthető.
+
+(3) A közbeszerzési eljárás lefolytatása során a hiánypótlás lehetőségét a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 83. § (2) bekezdésében, illetve 112. § (2) bekezdésében meghatározott körben biztosítani kell.
+
+(4) A kedvezményezett az előrehaladási jelentésben tájékoztatja a közreműködő szervezetet a projektet érintő valamennyi közbeszerzési eljárás megindításáról, az esetleges jogorvoslati eljárásról és annak eredményéről, amelyre abban az esetben is köteles, ha a kedvezményezett és az ajánlatkérő személye elválik egymástól.
+
+(5) A (4) bekezdésben meghatározott kötelezettsége alapján a kedvezményezett megküldi a közreműködő szervezetnek az ajánlati, részvételi, illetve ajánlattételi felhívást, az ajánlatok elbírálásának befejezésekor készített írásbeli összegzést, a nyertes ajánlattevővel kötött szerződést, jogorvoslati eljárás esetén az eljárás megindításáról szóló értesítést és a KDB határozatát, valamint a Kbt. által előírt esetekben hivatalos közbeszerzési tanácsadó igénybevételének igazolását, ha ezeket az előrehaladási jelentés megküldését megelőzően még nem küldte meg. Az ajánlati, részvételi, illetve ajánlattételi felhívást, és az ajánlatok elbírálásának befejezésekor készített írásbeli összegzést elektronikusan kell benyújtani. A közreműködő szervezet, illetve az NFÜ a közbeszerzéssel kapcsolatos egyéb dokumentumot is bekérhet.
+
+(6) Jogorvoslati eljárás indulása esetén, ha az eljárást nem a közreműködő szervezet vagy az NFÜ kezdeményezte, a kedvezményezett haladéktalanul megküldi a közreműködő szervezetnek és az Európai Uniós Közbeszerzési Koordinációs és Szabályossági Egységnek (a továbbiakban: EKKE) az eljárás megindításáról szóló értesítést.
+
+(7) Az NFÜ a honlapján közzéteheti:
+
+a) az ajánlatok elbírálásakor készített írásbeli összegzést a Kbt. 73. §-ával összhangban;
+
+b) ha a közbeszerzési eljárással kapcsolatban külön jogszabály szerint lefolytatott szabálytalansági eljárásban a közreműködő szervezet vagy az NFÜ szabálytalanságot állapít meg, a szabálytalanság tényét, elkövetésének módját és a szabálytalansággal érintett összeget.
+
+[^83]: A 19/A. §-t a 2/2008. (I. 11.) ÖTM–PM együttes rendelet 21. §-a iktatta be, szövege a 29/2008. (XII. 31.) NFGM–PM együttes rendelet 15. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 18. § (4) bekezdése alapján rendelkezéseit a 2009. január 1-jét követően meghirdetett pályázatok esetében kell alkalmazni.
+[^84]: A 20. § a 14/2008. (VIII. 19.) NFGM–PM együttes rendelet 18. §-ával megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
