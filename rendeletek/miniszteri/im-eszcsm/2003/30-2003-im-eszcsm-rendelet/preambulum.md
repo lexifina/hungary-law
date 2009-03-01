@@ -1,0 +1,1 @@
+Az Állami Népegészségügyi és Tisztiorvosi Szolgálatról szóló 1991. évi XI. törvény (a továbbiakban: Ántv.) 15. §-ának (8) bekezdésében kapott felhatalmazás alapján – a legfőbb ügyésszel egyetértésben – a következőket rendeljük el:
