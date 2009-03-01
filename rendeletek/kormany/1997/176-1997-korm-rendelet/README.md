@@ -1,0 +1,9 @@
+# 176/1997. (X. 11.) Korm. rendelet
+
+a repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-176-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-03-01 | 1997-176-20-22.7 | 176/1997. (X. 11.) Korm. rendelet |

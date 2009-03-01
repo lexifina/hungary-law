@@ -1,0 +1,1 @@
+## 26. § A zajgátló védőövezet megszűnéséből vagy változásából eredő módosításokat az ingatlan-nyilvántartásba is be kell vezetni a 18. § előírásai szerint. Az ezzel kapcsolatos költségek a repülőtér üzemben tartóját terhelik.

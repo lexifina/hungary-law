@@ -1,0 +1,18 @@
+21. §[^31] (1) Az Lt. 39. § (2) bekezdése alapján kiadott miniszteri rendeletekben meghatározott esetekben a repülőtér üzemben tartójának a környezet zajterhelésének folyamatos megfigyelése és az előírt repülési eljárások betartásának ellenőrzése érdekében zajmonitor rendszert kell kiépítenie és üzemeltetnie.
+
+(2) Olyan repülőtér esetében, amelyen a légiforgalmi szolgáltatást a repülőtér üzemben tartójától elkülönült szervezet végzi, a zajmonitor rendszer üzemeltetéséhez szükséges repülési információkat (pl. járatazonosító, magassági jelek, futópálya-felhasználás) és a zajmonitor rendszer által előállított adatokat a repülőtér üzemben tartója és a légiforgalmi szolgáltatásért felelős szervezet köteles egymásnak kölcsönösen, térítésmentesen szolgáltatni. A kölcsönös információszolgáltatás részletes szabályait megállapodásban rögzítik, amelyet a gazdasági és közlekedési miniszter hagy jóvá.
+
+(3) A repülőtér által üzemeltetett zajmonitor rendszer mérési és számítási adatai, az előírt fel- és leszállási eljárásokat megsértő légijáratok adatai, valamint a repülőtérrendet zajvédelmi szempontból megsértő eseményekről vezetett dokumentumok nyilvánosak, és a repülőtér üzemben tartója egyedi zajeseménnyel kapcsolatos kérdés esetében megkeresésre tájékoztatást ad.
+
+(4) A repülőtér üzemben tartójának évenként egy alkalommal, az egész évre vonatkozóan ki kell értékelnie a repülésből származó mértékadó zajterhelés alakulását a monitorpontokon mért adatok alapján, és ezeket az eredményeket nyilvánosságra kell hoznia.
+
+(5)[^32] A (4) bekezdés szerinti értékelés nyilvánosságra hozatalának módját a légiközlekedési hatóság határozza meg. Állami repüléseket szolgáló repülőterek esetében, illetve közös felhasználású polgári és katonai állami repülőtereken az állami repülések vonatkozásában a (3) és (4) bekezdés szerinti tájékoztatás terjedelmét a légiközlekedési hatóság a nemzetbiztonsági és honvédelmi érdekek által megkövetelt mértékben korlátozhatja.
+
+(6)[^33] Azokon repülőtereken, ahol a légiközlekedési hatóság határozata alapján zajmonitor rendszert kell működtetni, a repülőtér üzemben tartója a repülőtéri zajproblémákkal kapcsolatos tájékoztatási és érdekegyeztetési feladatok összehangolt ellátása érdekében, a zaj elleni védelemre bizottságot (a továbbiakban: zajvédelmi bizottság) hoz létre és működtet.
+
+(7) A zajvédelmi bizottság összetételét, feladatát és véleményezési jogkörét, valamint működési szabályait külön jogszabály[^34] határozza meg.
+
+[^31]: A 21. § az 53/2004. (III. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^32]: A 21. § (5) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^33]: A 21. § (6) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^34]: A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki szabályairól szóló 18/1997. (X. 11.) KHVM–KTM együttes rendelet 13/A. §-a.
