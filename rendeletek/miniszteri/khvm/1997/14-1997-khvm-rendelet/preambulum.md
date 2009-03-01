@@ -1,0 +1,1 @@
+Az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: At.) 68. §-ának (4) bekezdésében foglalt felhatalmazás alapján – a belügyminiszterrel, a környezetvédelmi és területfejlesztési miniszterrel, a népjóléti miniszterrel, továbbá az Országos Atomenergia Hivatal (a továbbiakban: OAH) felügyeletét ellátó miniszterrel egyetértésben – a következőket rendelem el:
