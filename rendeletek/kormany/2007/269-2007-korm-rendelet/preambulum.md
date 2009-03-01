@@ -1,0 +1,1 @@
+A Kormány a természet védelméről szóló 1996. évi LIII. törvény 41/A. §-ának (1) bekezdésében és a 85. §-ának a) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. §-ának a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
