@@ -1,0 +1,1 @@
+## 6. § A földtani kutatások tartalmát a 11. §-ban meghatározott általános földtani követelmények, az 1. számú mellékletben felsorolt földtani vizsgálati szempontok és a 2–5. számú mellékletben részletezett különleges földtani alkalmassági követelmények alapján kell meghatározni.
