@@ -1,0 +1,3 @@
+## II. Fejezet
+
+## ÉRTELMEZŐ RENDELKEZÉSEK
