@@ -1,0 +1,6 @@
+## 13. §[^10] Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban, a levegő védelmével kapcsolatos egyes szabályokról szóló 21/2001. (II. 14.) Korm. rendelettel, a légszennyezettségi határértékekről, a helyhez kötött légszennyező pontforrások kibocsátási határértékeiről szóló 14/2001. (V. 9.) KöM–EüM–FVM együttes rendelettel, valamint a légszennyezettség és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló 17/2001. (VIII. 3.) KöM rendelettel együtt összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács az illékony szerves vegyületeknek (VOC) a benzin tárolásából és a tárolótelepekről töltőállomások részére történő elosztásából származó kibocsátása csökkentéséről szóló 94/63/EK irányelvével.
+
+1. számú melléklet a 9/1995. (VIII. 31.) KTM rendelethez[^11]
+
+[^10]: A 13. §-t a 6/2004. (IV. 27.) KvVM rendelet 2. §-a iktatta a szövegbe.
+[^11]: Az eredeti melléklet jelölését a 6/2004. (IV. 27.) KvVM rendelet 3. §-ának (1) bekezdése 1. számú mellékletre változtatta.
