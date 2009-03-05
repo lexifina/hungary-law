@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között Pekingben, 2003. január 23-án aláírt, az állategészségügy és a karanténozás területén való együttműködésről szóló egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
