@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Jeruzsálemi Szent Sír Lovagrend között a Rend Budapesti Képviselete számára nyújtandó kiváltságokról, mentességekről és kedvezményekről szóló, Budapesten, 1998. november 30-án aláírt megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
