@@ -1,0 +1,7 @@
+8. § (1)[^10] A tenyésztési időszakban a 4–5. § szerinti kezelésen átesett, tenyésztésre szánt állatok, valamint kiselejtezett tenyészállatok forgalomba hozhatók, illetve az ilyen állatokból származó húsnál a közösségi bélyegző használható, ha a 4–5. §-ban megállapított feltételek, valamint a forgalomba hozatali engedélyben meghatározott várakozási idők teljesülnek.
+
+(2) Olyan nagy értékű lovak – különösen versenylovak, egyéb sportlovak, cirkuszi lovak, illetve tenyésztésre vagy kiállításra szánt lovak, ideértve a regisztrált lóféléket is –, amelyeknek a 4. §-ban foglaltak szerinti célból alliltrenbolont vagy béta-agonistákat tartalmazó állatgyógyászati készítményt adtak be, a várakozási idő lejártát megelőzően forgalomba hozhatók, feltéve, hogy a készítmények alkalmazására vonatkozó előírásokat betartják, továbbá a kezelés típusát és időpontját feltüntetik az állatot kísérő állategészségügyi bizonyítványban vagy útlevélben.
+
+(3) Nem hozható forgalomba emberi fogyasztás céljából olyan állatból származó hús vagy egyéb termék, amelynek ösztrogén, androgén vagy gesztagén hatású anyagokat vagy béta-agonistákat adtak be – az e rendeletben foglalt kivételeket tartalmazó rendelkezésekkel összhangban –, kivéve, ha az adott állatokat a 7. § követelményeinek megfelelő állatgyógyászati készítményekkel kezelték és az állatok levágása előtt betartották az előírt várakozási időt.
+
+[^10]: A 8. § (1) bekezdése a 11/2009. (II. 25.) FVM rendelet 6. §-ával megállapított szöveg.
