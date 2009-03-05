@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Chilei Köztársaság Kormánya közötti tudományos és technológiai együttműködésről szóló, Budapesten, 2005. szeptember 8. napján aláírt megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
