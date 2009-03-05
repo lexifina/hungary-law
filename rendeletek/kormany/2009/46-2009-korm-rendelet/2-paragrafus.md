@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Bolgár Köztársaság Kormánya között Budapesten, 2002. évi március hó 7. napján aláírt, a budapesti Bolgár Kulturális Intézet és a szófiai Magyar Kulturális Intézet státusáról és tevékenységéről szóló megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
