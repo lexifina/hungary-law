@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság és az Orosz Föderáció Kormánya között a fegyverzet, haditechnikai eszközök és azok tartalék alkatrészeinek a Magyar Köztársaságban a volt Szovjet Szocialista Köztársaságok Szövetsége licencei alapján történő gyártásának rendjéről szóló megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
