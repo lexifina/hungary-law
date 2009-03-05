@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a nemzeti kisebbségek kölcsönös oktatási és kulturális támogatásáról szóló, Brüsszelben 2003. december 12-én aláírt megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
