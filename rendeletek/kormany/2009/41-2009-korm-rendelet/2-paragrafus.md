@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között a határmenti térségekben történő foglalkoztatásról szóló, Szombathelyen, 1997. március 26-án aláírt Egyezmény kiegészítéséről szóló, Budapesten, 2000. november 29-én aláírt jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e rendelettel kihirdeti.
