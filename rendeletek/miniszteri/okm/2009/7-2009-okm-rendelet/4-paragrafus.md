@@ -1,0 +1,1 @@
+## 3. § A hatóság az előadó-művészeti szervezetet az 1. melléklet szerint szolgáltatott adatok alapján nyilvántartásba veszi és kategóriába sorolja, a 2. melléklet szerint szolgáltatott adatok alapján pedig nyilvántartásba veszi.
