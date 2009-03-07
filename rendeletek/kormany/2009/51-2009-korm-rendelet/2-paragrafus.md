@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Japán Kormánya közötti japán kulturális önkéntes programról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
