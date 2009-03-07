@@ -1,0 +1,1 @@
+## 10. § Ezen rendeletben alapított érdemjel kitüntető címeket a belügyminiszter visszavonhatja attól, aki magatartása miatt arra érdemtelenné válik. Az érdemtelenné válás tényét minden esetben a belügyminiszter állapítja meg.

@@ -1,0 +1,1 @@
+A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 7. §-a (1) bekezdésében foglalt felhatalmazás alapján a belügyminiszter által irányított szerveknél rendvédelmi és közigazgatási tevékenység végzése és támogatása során szerzett kiemelkedő érdemek elismerésére az alábbiakat rendelem el:
