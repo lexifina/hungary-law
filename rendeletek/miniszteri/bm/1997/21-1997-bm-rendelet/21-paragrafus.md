@@ -1,0 +1,3 @@
+21. § (1) Közügyektől eltiltást kimondó ítélet vagy a kitüntetés viselésére egyéb okból méltatlanná vált személyek kitüntetésének visszavonására, címtől való megfosztásra vonatkozó tájékoztatást vagy kezdeményezést a BM Személyzeti és Munkaügyi Főosztályhoz kell további intézkedésre megküldeni.
+
+(2) A kitüntetés visszavonását, címtől való megfosztását kell kezdeményezni attól, aki arra érdemtelenné vált. Az érdemtelenség megállapításának van helye a személyi állomány tagjával szemben, ha a foglalkoztatási jogviszonya megszüntetésére fegyelmi ok miatt, lefokozással, hivatásos szolgálatra méltatlanná válással került sor.
