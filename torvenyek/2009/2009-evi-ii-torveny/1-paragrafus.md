@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és Bosznia és Hercegovina között a társadalombiztosításról és a szociális biztonságról szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
