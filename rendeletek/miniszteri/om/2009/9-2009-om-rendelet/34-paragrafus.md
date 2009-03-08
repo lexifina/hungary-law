@@ -1,0 +1,1 @@
+## 33. § A miniszteri emléktárgyon – amennyiben az esztétikai és vagyoni érték veszélyeztetése nélkül lehetséges – megfelelő technikai eljárással fel kell tüntetni, milyen alkalomból vagy indokból került sor az adományozásra, továbbá az érintett nevét, – hivatásos állományú személy elismerése esetén – rendfokozatát.
