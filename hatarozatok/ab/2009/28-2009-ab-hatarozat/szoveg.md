@@ -1,0 +1,33 @@
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+
+Az Alkotmánybíróság az Országos Választási Bizottságnak az országos népszavazás kitűzésére irányuló kezdeményezés aláírásgyűjtő ívének hitelesítése tárgyában hozott határozata ellen benyújtott kifogás alapján meghozta a következő
+
+határozatot:
+
+Az Alkotmánybíróság az Országos Választási Bizottság 351/2008. (XI. 14.) OVB határozatát helybenhagyja.
+
+Az Alkotmánybíróság ezt a határozatát a Magyar Közlönyben közzéteszi.
+
+INDOKOLÁS
+
+I.
+
+Az Országos Választási Bizottság (a továbbiakban: OVB) a 351/2008. (XI. 14.) OVB határozatában megtagadta két magánszemély által közösen benyújtott országos népszavazási kezdeményezés aláírásgyűjtő ívének a hitelesítését. Az aláírásgyűjtő ív mintapéldányán a következő kérdés szerepel:
+
+„Egyetért-e azzal, hogy törvény rendelkezzen arról, hogy országos és helyi népszavazás, illetve országos és helyi népi kezdeményezés során aláírást csak olyan személy gyűjthessen, akit a területi választási bizottság aláírásgyűjtőként gyilvántartásba vett?”
+
+Az OVB a határozatának az indokolásában megállapította, hogy az országos népszavazásról és népi kezdeményezésről szóló 1998. évi III. törvény (a továbbiakban: Nsztv.) 13. §-ának (1) bekezdése alapján a népszavazásra feltenni kívánt kérdést úgy kell megfogalmazni, hogy arra egyértelműen lehessen válaszolni. A kérdésben szereplő „gyilvántartás” fogalom tartalma azonban sem a választópolgárok, sem a jogalkotó számára nem meghatározható. Rámutatott arra is, hogy az OVB-nek a benyújtott aláírásgyűjtő ív mintapéldánya hitelesítésére vagy a hitelesítés megtagadására van hatásköre, de nem jogosult arra, hogy a kérdés – akár elírási – hibáit kijavítsa.
+
+Az OVB határozata ellen a kezdeményezők a törvényes határidőn belül kifogást nyújtottak be. A kifogást benyújtók álláspontja szerint az OVB eljárásával (a honlapon az ülés napirendje nem jelent meg, így a kezdeményezők nem tudtak az ülésen megjelenni, adott esetben az olvasásban az OVB tagjainak segíteni) az 1997. évi C. törvény (a továbbiakban: Ve.) 3. § c)–e) pontjaiban foglaltakat megsértette, amikor a kifogásolt szövegrészt az OVB pontatlanul olvasta el, illetve a kérdés írott szövegét „félreolvasta”, mintha az nem lenne közérthető.
+
+II.
+
+A kifogás nem megalapozott.
+
+1. Az Alkotmánybíróság hatáskörét a jelen ügyben az Alkotmánybíróságról szóló 1989. évi XXXII. törvény (a továbbiakban: Abtv.) 1. § h) pontja alapján a Ve. 130. §-a határozza meg. Az Alkotmánybíróság eljárása ebben a hatáskörben jogorvoslati természetű.
+
+2. Az Alkotmánybíróság álláspontja szerint az OVB határozata megalapozott. A népszavazási kérdés a kifogást tévők érveivel ellentétben – az Alkotmánybíróság állandó gyakorlata szerint [51/2001. (XI. 29.) AB határozat, ABH 2001, 392, 396, 405.; 25/2004. (VII. 7.) AB határozat, ABH 2004, 381, 386.] – nem egyértelmű. Az egyértelműség követelménye érvényesülésének alapvető feltétele az, hogy a kérdés olvasható legyen. [12/2009. (II. 13.) AB határozat, MK 2009. 4378–4379.] Emiatt az Alkotmánybíróság a 351/2008. (XI. 14.) OVB határozatot – részben eltérő indokok alapján – helybenhagyta.
+
+Az Alkotmánybíróság határozatának közzétételét az OVB határozatnak a Magyar Közlönyben való megjelenésére tekintettel rendelte el.
+
+Alkotmánybírósági ügyszám: 1319/H/2008.
