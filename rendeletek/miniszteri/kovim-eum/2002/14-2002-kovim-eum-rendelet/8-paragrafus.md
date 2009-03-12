@@ -1,0 +1,3 @@
+8. § (1) A repülőorvosi vizsgálatokhoz a légiközlekedési hatóság állandó szakorvosi konzíliárusokat (a továbbiakban: konzíliárus) jelöl ki, és konzíliárusi lehetőséget biztosít. A konzíliárusok névsoráról a szolgálat ad tájékoztatást.
+
+(2) A repülőorvos kijelölése legfeljebb három évre, és a légiközlekedési hatóság döntése alapján az alkalmassági vizsgálatok végzésének meghatározott körére szól. A repülőorvosnak a szakmai jártasság fenntartásához és a jogosítás érvényben tartásához évente legalább 10 vizsgálatot kell elvégeznie. A kijelölés meghosszabbításához a megfelelő szakmai színvonalú tevékenység és az előírt továbbképzés teljesítése szükséges. A kijelölés érvényét veszti abban az esetben, ha a repülőorvos a 70. életévét betölti.
