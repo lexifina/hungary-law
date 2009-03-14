@@ -1,0 +1,1 @@
+## „8. gazdálkodási napló: az egyszerűsített területalapú támogatások és a vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot”, illetve a „Helyes Gazdálkodási Gyakorlat” feltételrendszerének meghatározásáról szóló 4/2004. (I. 13.) FVM rendelet 5. számú melléklete szerinti formanyomtatvány.”
