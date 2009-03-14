@@ -1,0 +1,1 @@
+Az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. §-ának d) pontjában meghatározott feladatkörömben eljárva a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 32. §-a alapján a következőket rendelem el:
