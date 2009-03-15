@@ -1,0 +1,9 @@
+# 374/2007. (XII. 23.) Korm. rendelet
+
+az Európai Unió soros magyar elnökségben közvetlenül résztvevők kiválasztásáról, képzéséről és anyagi elismeréséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-374-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-03-15 | 2007-374-20-22.3 | 374/2007. (XII. 23.) Korm. rendelet |
