@@ -1,0 +1,3 @@
+7. § (1) Az intervenciós felvásárlásokat és értékesítéseket az MVH-nak a cukorintervenciós hivatalok által történő felvásárlás és értékesítés tekintetében a Tanácsi Rendeletnek, a VR-nek és a cukorágazat piacának közös szervezését érintő reform keretében átmeneti intézkedések megállapításáról, valamint az 1265/2001/EK és a 314/2002/EK rendelet módosításáról szóló, 2006. március 27-i 493/2006/EK rendeletnek (a továbbiakban: VR2) megfelelően kell végrehajtania.
+
+(2) Az intervenciós felajánlást az MVH számára ajánlatban kell megtenni, ami a VR és VR2 által meghatározott kötelező elemeken kívül további, az MVH által közleményben előírt adatokat is tartalmazhat.

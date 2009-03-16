@@ -1,0 +1,1 @@
+Az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény 32. § (1) bekezdés a) és c) pontjában kapott felhatalmazás alapján – a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:

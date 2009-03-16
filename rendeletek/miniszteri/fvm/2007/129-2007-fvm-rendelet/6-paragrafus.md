@@ -1,0 +1,3 @@
+6. § (1) A kvótajogosult a termelési díjra, többletösszegre, illetve kiegészítő kvóta után fizetendő összegre vonatkozó fizetési kötelezettségének a Tanácsi Rendeletben – a kvótán felüli cukortermelés tekintetében a 967/2006/EK bizottsági rendeletben – foglaltak szerint tesz eleget. A fizetési kötelezettséget az MVH által megadott számlára kell teljesíteni.
+
+(2) Amennyiben fizetési kötelezettségének a kvótajogosult határidőben nem tesz eleget, az MVH a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 70. §-ának megfelelően késedelmi pótlék megfizetésére kötelezi az érintett kvótajogosultat.
