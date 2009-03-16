@@ -1,0 +1,3 @@
+## 1. § A 2009. évi iskolatej program szabályozásáról szóló 166/2008. (XII. 22.) FVM rendelet (a továbbiakban: R.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az iskolatej programban a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: közoktatási törvény) 20. § (1) bekezdés a)–d) pontjaiban és (2) bekezdésében foglalt közoktatási intézményekben óvodai nevelésben részt vevő gyermek (a továbbiakban: óvodások), általános iskolai nevelésben-oktatásban részt vevő tanulók (a továbbiakban: tanulók), a középiskolai és szakiskolai nevelésben-oktatásban részt vevő tanulók (a továbbiakban: középiskolai tanulók), valamint gyógypedagógiai, konduktív pedagógiai nevelésben-oktatásban részt vevő tanulók vehetnek részt.”
