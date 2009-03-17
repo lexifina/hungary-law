@@ -1,0 +1,5 @@
+A 263/2008. (XI. 6.) Korm. rendelettel a Magyar Közlöny 2008. november 6-i, 157. számában kihirdetett, a Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya között a Kulturális Intézetek működéséről szóló, Budapesten, 2008. május 30-án aláírt Megállapodás 10. cikk (1) bekezdése értelmében a szükséges belső jogi eljárások lefolytatásáról szóló későbbi hivatalos értesítés kézhezvételét követő 30. napon lép hatályba.
+
+A szükséges belső jogi eljárások lefolytatásáról szóló hivatalos értesítést a Lengyel Köztársaság 2008. november 25-én, a Magyar Köztársaság 2008. december 2-án küldte meg. Az Egyezmény a 8. cikk első bekezdése értelmében 2009. január 17-én hatályba lépett.
+
+A fentiekre tekintettel, összhangban a 195/2008. (VIII. 4.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya között a Kulturális Intézetek működéséről szóló, Budapesten, 2008. május 30-án aláírt Megállapodás kihirdetéséről szóló 195/2008. (VIII. 4.) Korm. rendelet 2. és 3. §-a 2009. január 17-én, azaz kettőezer-kilenc január tizenhetedikén hatályba lépett.
