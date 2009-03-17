@@ -1,0 +1,5 @@
+A 195/2008. (VIII. 4.) Korm. rendelettel a Magyar Közlöny 2008. augusztus 4-i, 115. számában kihirdetett, a Magyar Köztársaság Kormánya és az Azerbajdzsáni Köztársaság Kormánya között a gazdasági együttműködésről szóló, Budapesten, 2008. február 18-án aláírt Megállapodás 8. cikk (1) bekezdése értelmében a szükséges belső jogi eljárások lefolytatásáról szóló utolsó hivatalos értesítés kézhezvételének napján lép hatályba.
+
+A szükséges belső jogi eljárások lefolytatásáról szóló hivatalos értesítést az Azerbajdzsáni Köztársaság 2008. október 15-én, a Magyar Köztársaság 2008. szeptember 23-án küldte meg. Az Egyezmény a 8. cikk első bekezdése értelmében 2008. október 15-én hatályba lépett.
+
+A fentiekre tekintettel, összhangban a 195/2008. (VIII. 4.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és az Azerbajdzsáni Köztársaság Kormánya közötti gazdasági együttműködésről, Budapesten, 2008. február 18-án aláírt Megállapodás kihirdetéséről szóló 195/2008. (VIII. 4.) Korm. rendelet 2. és 3. §-ai 2008. október 15-én, azaz kettőezer-nyolc október tizenötödikén hatályba léptek.
