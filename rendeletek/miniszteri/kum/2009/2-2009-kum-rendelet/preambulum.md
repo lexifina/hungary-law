@@ -1,0 +1,1 @@
+A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 10. § (2) bekezdésében foglalt felhatalmazás alapján, a külügyminiszter feladat- és hatásköréről szóló 166/2006. (VII. 28.) Korm. rendelet 1. §-ában meghatározott feladatkörömben a következőket rendelem el:
