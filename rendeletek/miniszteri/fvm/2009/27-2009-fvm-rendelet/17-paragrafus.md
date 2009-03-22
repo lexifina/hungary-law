@@ -1,0 +1,5 @@
+17. § (1) Hústermelés-ellenőrzés tevékenységre támogatást igényelhet az adott húshasznú fajta tenyésztő szervezete, hústermelés-ellenőrzésben tartott tehénállománya után. A támogatás a TER-ben regisztrált, húshasznú, illetve magyartarka fajta esetében húshasznú apaságú és az Egységes Nyilvántartási és Azonosítási Rendszerben (a továbbiakban: ENAR) regisztrált, támogatási évben leellett elsőborjas üszők és tehenek után igényelhető.
+
+(2) A támogatás igénybevételének feltétele, hogy a tenyésztő szervezet a tenyészállatok teljesítményvizsgálatáról és tenyészértékbecsléséről szóló 32/1994. (VI. 28.) FM rendelet 2. § (2) bekezdése szerinti Teljesítményvizsgálati Kódexben meghatározott, elvégzett teljesítményvizsgálatra vonatkozó egyedi mért és számított adatokat a tenyésztési hatósággal kötött megállapodásban foglaltak szerint a tenyésztési hatóságnak benyújtsa.
+
+(3) A tevékenység elvégzését a tenyésztési hatóság a (2) bekezdésben meghatározott adatszolgáltatás alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a támogatási kérelem záradékkal történő ellátásával igazolja.

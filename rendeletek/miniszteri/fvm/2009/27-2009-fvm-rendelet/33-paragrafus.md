@@ -1,0 +1,3 @@
+33. § (1) Üzemi ivadékteljesítmény-vizsgálat végzésére támogatást igényelhet a tenyésztő szervezet a törzskönyvi ellenőrzésbe vont állományokból vágóhídra szállított egyedileg megjelölt állatok után, a vágótömeg és az EUROP minősítési eredmények egyedre vonatkozó teljesítményvizsgálat célját szolgáló visszajelzése esetén. Az adatokat számítógépen kell rögzíteni, és feldolgozásra a tenyésztési hatóságnak átadni.
+
+(2) A tevékenység elvégzését a tenyésztési hatóság az ellenőrzött, értékelésre alkalmas adatok alapján – a Ket. 83. § (3) bekezdésében foglaltaknak megfelelően – a támogatási kérelem záradékkal történő ellátásával igazolja.
