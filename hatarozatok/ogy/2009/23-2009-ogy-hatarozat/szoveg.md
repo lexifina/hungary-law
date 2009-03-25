@@ -1,0 +1,1 @@
+Az Országgyűlés az ÁPV Zrt. és jogelődei – mint a privatizáció lebonyolítására létrehozott célszervezetek – tevékenységéről és a teljes privatizációs folyamatról (1990–2007.) szóló jelentést tudomásul veszi.
