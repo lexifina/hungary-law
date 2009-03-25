@@ -1,0 +1,1 @@
+## 34. § A Szolgálati Érdemjel külföldi hadsereg hivatásos állományú tagjainak is adományozható. A javaslat felterjesztése előtt ki kell kérni az adott ország illetékeseinek a hozzájárulását és azt csatolni kell a felterjesztéshez.
