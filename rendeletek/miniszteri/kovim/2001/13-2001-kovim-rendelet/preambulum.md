@@ -1,0 +1,1 @@
+A víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 88. § (2) bekezdésének b) pontjában kapott felhatalmazás alapján – figyelemmel a Vkt. 17–28. §-aiban foglaltakra is – a következőket rendelem el:
