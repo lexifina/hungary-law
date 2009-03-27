@@ -1,0 +1,1 @@
+A Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény 21. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
