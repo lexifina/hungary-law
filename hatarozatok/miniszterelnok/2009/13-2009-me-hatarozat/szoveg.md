@@ -1,0 +1,1 @@
+Az állami vagyonról szóló 2007. évi CVI. törvény 12. § (3) bekezdésében meghatározott hatáskörömben eljárva Slosár Gábort a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság Ellenőrző Bizottságából – a Magyar Demokrata Fórum országgyűlési képviselőcsoportjának megszűnésére való tekintettel – e határozat közzétételének napjával visszahívom.
