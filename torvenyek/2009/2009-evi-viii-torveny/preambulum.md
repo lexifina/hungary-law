@@ -1,0 +1,1 @@
+[A vízummegállapodás 1991. szeptember 30-án, a vízummegállapodás módosításáról szóló, 1993. április 20-án jegyzékváltással létrejött Megállapodás 1993. május 20-án lépett nemzetközi jogilag hatályba.]

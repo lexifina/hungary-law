@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és az Albán Köztársaság Kormánya között az 1991. augusztus 31. napján kötött vízummegállapodás (a továbbiakban: Vízummegállapodás) módosításáról szóló, jegyzékváltás útján létrejött Megállapodás (a továbbiakban: módosító Megállapodás) kötelező hatályának elismerésére.

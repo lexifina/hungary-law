@@ -1,0 +1,1 @@
+4. § Az Országgyűlés a Magyar Köztársaság Kormánya és az Albán Köztársaság Kormánya között 1991. augusztus 31. napján kötött vízummegállapodás módosításáról szóló, 1993. április 20-án jegyzékváltással létrejött Megállapodást e törvénnyel kihirdeti.
