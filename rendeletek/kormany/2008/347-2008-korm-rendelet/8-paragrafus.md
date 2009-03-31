@@ -1,0 +1,1 @@
+## 7. § Az R. 2. számú melléklet Második rész Az érettségi vizsgatárgyak általános követelményei fejezet GÉPÉSZETI ALAPISMERETEK ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI alcím és az azt követő szöveg helyébe e rendelet 5. számú melléklete lép.

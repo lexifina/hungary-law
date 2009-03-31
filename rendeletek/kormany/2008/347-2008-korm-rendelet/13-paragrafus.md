@@ -1,0 +1,1 @@
+## 12. § Az R. 2. számú melléklet Második rész Az érettségi vizsgatárgyak általános követelményei fejezet KÖNNYŰIPARI ALAPISMERETEK ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI alcím és az azt követő szöveg helyébe e rendelet 10. számú melléklete lép.

@@ -1,0 +1,1 @@
+## 16. § Az R. 2. számú melléklet Második rész Az érettségi vizsgatárgyak általános követelményei fejezet KÖRNYEZETVÉDELMI-VÍZGAZDÁLKODÁSI ALAPISMERETEK ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI alcím és az azt követő szöveg helyébe e rendelet 14. számú melléklete lép.

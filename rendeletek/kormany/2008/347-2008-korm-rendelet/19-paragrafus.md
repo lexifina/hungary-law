@@ -1,0 +1,1 @@
+## 18. § Az R. 2. számú melléklet Második rész Az érettségi vizsgatárgyak általános követelményei fejezet ÜGYVITELI ALAPISMERETEK ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI alcím és az azt követő szöveg helyébe e rendelet 16. számú melléklete lép.

@@ -1,0 +1,1 @@
+## 17. § Az R. 2. számú melléklet Második rész Az érettségi vizsgatárgyak általános követelményei fejezet KÖZGAZDASÁGI ALAPISMERETEK (ÜZLETI GAZDASÁGTAN, ELMÉLETI GAZDASÁGTAN) ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI alcím és az azt követő szöveg helyébe e rendelet 15. számú melléklete lép.

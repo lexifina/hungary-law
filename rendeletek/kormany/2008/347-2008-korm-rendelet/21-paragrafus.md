@@ -1,0 +1,1 @@
+## 20. § Az R. 2. számú melléklet Második rész Az érettségi vizsgatárgyak általános követelményei fejezet VENDÉGLÁTÓ-IDEGENFORGALMI ALAPISMERETEK ÉRETTSÉGI VIZSGA ÁLTALÁNOS KÖVETELMÉNYEI alcím és az azt követő szöveg helyébe e rendelet 18. számú melléklete lép.
