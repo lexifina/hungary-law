@@ -1,0 +1,1 @@
+4. § Az Országgyűlés e törvénnyel felhatalmazást ad a Horvát Köztársaságnak az Észak-atlanti Szerződéshez való csatlakozásáról szóló Jegyzőkönyv (a továbbiakban: Horvát Csatlakozási Jegyzőkönyv) kötelező hatályának elismerésére.

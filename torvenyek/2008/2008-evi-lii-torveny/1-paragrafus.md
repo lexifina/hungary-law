@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Albán Köztársaságnak az Észak-atlanti Szerződéshez való csatlakozásáról szóló Jegyzőkönyv (a továbbiakban: Albán Csatlakozási Jegyzőkönyv) kötelező hatályának elismerésére.
