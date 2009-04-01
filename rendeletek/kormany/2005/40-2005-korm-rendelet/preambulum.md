@@ -1,0 +1,1 @@
+A Kormány a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 404. §-a (1) bekezdésének j) pontjában, valamint a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 207. §-a (1) bekezdésének f) pontjában kapott felhatalmazás alapján a következőket rendeli el:
