@@ -1,0 +1,1 @@
+## „5. Az eldobható élelmezési felszereléssel biztosított hazai és nemzetközi gyakorlatokra történő felkészülés és végrehajtásának időtartama alatt, valamint a haditechnikai bemutatókon és kihelyezéseken résztvevő katonai szervezetek igényjogosult állományának ebédlétszáma után a tevékenység élelmezési ellátását végrehajtó katonai szervezet által.”

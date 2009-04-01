@@ -1,0 +1,1 @@
+## „(6) A Kht. üdültetési egységeibe kondicionáló kiképzésre és regeneráló pihentetésre beutalt vagy vezényelt repülőhajózó állomány természetbeni élelmezési ellátását, az ellátással kapcsolatos elszámolást és az egyéb szabályokat a 8. § (9) bekezdésében foglaltak szerint kell végrehajtani.”
