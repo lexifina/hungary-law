@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság és Bosznia és Hercegovina között a társadalombiztosításról és a szociális biztonságról szóló Egyezmény végrehajtására szolgáló, Szarajevóban 2008. június 12-én aláírt Igazgatási Megállapodás (a továbbiakban: Igazgatási Megállapodás) kötelező hatályának elismerésére.
