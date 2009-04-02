@@ -1,0 +1,5 @@
+A Magyar Közlöny 2008. április 29-i, 68. számában kihirdetett, az Európai Unió saját forrásaival kapcsolatos kötelezettségek teljesítésében részt vevő intézmények feladat- és hatásköréről, valamint a kapcsolódó eljárásrendről szóló 101/2008. (IV. 29.) Korm. rendelet 17. § (1) bekezdése értelmében a kormányrendelet az Európai Közösségek saját forrásainak rendszeréről szóló 2007. június 7-i 2007/436/EK, Euratom tanácsi határozat hatálybalépésének napján lép hatályba.
+
+A Tanács Főtitkára hivatalosan értesítette a tagállamokat, hogy a megkövetelt belső jogi eljárások befejeződtek, és a határozat 2009. március 1-jén hatályba lépett.
+
+A fentiekre tekintettel, összhangban a 101/2008. (IV. 29.) Korm. rendelet 17. § (2) bekezdés rendelkezésével megállapítom, hogy az Európai Unió saját forrásaival kapcsolatos kötelezettségek teljesítésében részt vevő intézmények feladat- és hatásköréről, valamint a kapcsolódó eljárásrendről szóló 101/2008. (IV. 29.) Korm. rendelet 2009. március 1-jén, azaz kettőezer-kilenc március elsején hatályba lépett.
