@@ -1,0 +1,5 @@
+A 2/2008. (I. 8.) Korm. rendelettel a Magyar Közlöny 2. számában kihirdetett, a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a Magyar–Amerikai Oktatási Csereprogram Bizottság létrehozásáról szóló Egyezmény a 12. cikk (1) bekezdése értelmében ezen Egyezmény azon későbbi diplomáciai értesítés kézhezvételének napján lép hatályba, amikor a Felek írásban értesítették egymást a hatálybalépéshez szükséges összes belső jogi követelmény teljesítéséről.
+
+Az Egyezmény 12. cikke szerinti jegyzékváltás során később átadott okmány keltezésének napja 2009. március 16.
+
+A fentiekre tekintettel, összhangban a 2/2008. (I. 8.) Korm. rendelet 4. § (3) bekezdésével megállapítom, hogy a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a Magyar–Amerikai Oktatási Csereprogram Bizottság létrehozásáról szóló Egyezmény kihirdetéséről szóló 2/2008. (I. 8.) Korm. rendelet 2–3. §-ai 2009. március 16-án, azaz kettőezer-kilenc március tizenhatodikán léptek hatályba.
