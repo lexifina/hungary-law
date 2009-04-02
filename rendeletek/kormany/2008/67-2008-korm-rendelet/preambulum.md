@@ -1,0 +1,1 @@
+A Kormány a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 18. § (1) bekezdés a), b) és d) pontjaiban kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés a)–b) pontjában foglalt feladatkörében, valamint az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotó hatáskörében a következőket rendeli el:
