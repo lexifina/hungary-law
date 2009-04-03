@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a kísérleti és egyéb tudományos célokra felhasznált gerinces állatok védelméről szóló, Strasbourgban, 1986. március 18-án aláírt Európai Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
