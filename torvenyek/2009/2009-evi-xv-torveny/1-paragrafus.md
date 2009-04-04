@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a hontalanság eseteinek csökkentéséről szóló, 1961. augusztus 30-án, New Yorkban elfogadott Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
