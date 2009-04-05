@@ -1,0 +1,3 @@
+## 8. § Ha az álláskeresőt törlik a nyilvántartásból, az álláskeresési megállapodás érvényét veszti.
+
+9. § Ez a rendelet 2005. november 1-jén lép hatályba, ezzel egyidejűleg hatályát veszti az álláskeresést ösztönző juttatás megállapításával kapcsolatos együttműködési kötelezettség részletes szabályairól szóló 7/2003. (VI. 12.) FMM rendelet. Az e rendelet hatálybalépését megelőzően az álláskeresést ösztönző juttatás megállapításával kapcsolatos együttműködési kötelezettség részletes szabályairól szóló 7/2003. (VI. 12.) FMM rendelet alapján kötött együttműködési megállapodás az álláskeresési megállapodás megkötését követően nem alkalmazható.

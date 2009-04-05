@@ -1,0 +1,1 @@
+A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 58. §-a (8) bekezdésének b) pontjában foglalt felhatalmazás alapján – figyelemmel az Flt. 31. §-ában foglaltakra – a következőket rendelem el:
