@@ -1,0 +1,1 @@
+A szakképzésről szóló 1993. évi LXXVI. törvény 5. §-a (1) bekezdésének b) pontjában foglalt felhatalmazás alapján, az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. §-ának a) és d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
