@@ -1,0 +1,5 @@
+## Késedelmes benyújtás
+
+9. §[^4]
+
+[^4]: A 9. §-t a 36/2009. (IV. 3.) FVM rendelet 21. §-ának k) pontja hatályon kívül helyezte.
