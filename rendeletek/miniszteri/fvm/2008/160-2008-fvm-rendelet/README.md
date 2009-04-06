@@ -1,0 +1,9 @@
+# 160/2008. (XII. 18.) FVM rendelet
+
+a kiegészítő történelmi bázis jogosultság megállapításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-160-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-04-06 | 2008-160-20-82.2 | 160/2008. (XII. 18.) FVM rendelet |

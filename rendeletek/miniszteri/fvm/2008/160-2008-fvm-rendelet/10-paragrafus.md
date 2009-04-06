@@ -1,0 +1,3 @@
+10. § (1) A 2. § (4) bekezdése szerinti esetben az anyajuh után járó kiegészítő történelmi bázis jogosultságot az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlegéből finanszírozott egységes területalapú támogatásokhoz kapcsolódó 2006. évi kiegészítő nemzeti támogatás igénybevételével kapcsolatos egyes kérdésekről szóló 25/2006. (III. 31.) FVM rendelet alapján igénybe vett anyajuhtartás támogatás keretében meghatározott állatlétszám alapján kell megállapítani.
+
+(2) Az anyajuh után járó kiegészítő történelmi bázisjogosultságok mértéke a 2008. év végéig a meghatározott állatlétszámban bekövetkezett változásokkal kiigazításra kerül.
