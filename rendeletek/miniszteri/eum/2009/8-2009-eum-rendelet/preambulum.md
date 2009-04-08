@@ -1,0 +1,1 @@
+Az önálló orvosi tevékenységről szóló 2000. évi II. törvény 3. § (7) bekezdés b) pontjában és az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés f) és i) pontjában kapott felhatalmazás alapján, az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
