@@ -1,0 +1,5 @@
+4. § (1) A jegyző az aktív korúak ellátásának megállapítása iránt benyújtott kérelem esetében elektronikus adategyeztetés keretében ellenőrzi, hogy a kérelmet benyújtó személy más jegyző adatszolgáltatása alapján az Adatbázisban szerepel-e. Az ellátás megállapítását megelőzően elvégzett adategyeztetés során keresőfeltételként csak a kérelmet benyújtó személy természetes személyazonosító adata és Társadalombiztosítási Azonosító Jele használható fel.
+
+(2) Ha a jegyző az (1) bekezdés szerinti előzetes adategyeztetés során azt állapítja meg, hogy a kérelmet benyújtó személy tekintetében más jegyzőnél már folyik eljárás, vagy a kérelmet benyújtó személy ellátásra való jogosultságát megállapították, az adatok további egyeztetése céljából megkeresi az eljárást lefolytató, illetve az ellátást megállapító jegyzőt.
+
+(3) A (2) bekezdés szerinti megkeresés elvégzéséhez szükséges, a folyamatban lévő eljárást lefolytató, illetve az aktív korúak ellátására való jogosultságot megállapító hatóság megnevezésére vonatkozó adathoz történő hozzáférést a Hivatal – a jegyző illetékességétől függetlenül – valamennyi előzetes adategyeztetést kezdeményező jegyző számára biztosítja.
