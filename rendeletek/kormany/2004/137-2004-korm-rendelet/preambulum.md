@@ -1,0 +1,1 @@
+A közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 404. §-a (1) bekezdésének b) pontjában kapott felhatalmazás alapján, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) rendelkezéseivel összhangban a Kormány a következőket rendeli el:
