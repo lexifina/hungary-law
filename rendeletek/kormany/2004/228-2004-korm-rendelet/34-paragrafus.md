@@ -1,0 +1,1 @@
+## 33. § Az ajánlat benyújtására vonatkozó határidőt (ajánlattételi határidő) az ajánlatkérő nem határozhatja meg az ajánlati felhívást tartalmazó hirdetmény közzétételének napjától számított harminc napnál rövidebb időtartamban.
