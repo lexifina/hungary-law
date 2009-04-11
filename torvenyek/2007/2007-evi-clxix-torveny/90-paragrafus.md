@@ -1,0 +1,1 @@
+90. § Az NSRK forrásaiból kell biztosítani azon programok, projektek finanszírozását, melyek megvalósítására a Nemzeti Fejlesztési Terv operatív programjai alapján történt kötelezettségvállalás, megfelelnek az NSRK céljainak, szabályainak, de európai uniós forrásból történő finanszírozásukra a Nemzeti Fejlesztési Terv keretében nem kerülhet sor.

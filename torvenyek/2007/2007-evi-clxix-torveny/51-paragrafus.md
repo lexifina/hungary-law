@@ -1,0 +1,45 @@
+## A Kormány, a pénzügyminiszter és a fejezet felügyeletét ellátó szervek vezetőinek különleges jogosítványai
+
+51. § (1) Felhatalmazást kap a Kormány, hogy a IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezeten belül új előirányzatot hozzon létre fejezeten belüli és más fejezettől történő átcsoportosítással.
+
+(2) Felhatalmazást kap a Kormány, hogy a személyi juttatások arányosítása céljából a Miniszterelnöki Hivatal igazgatás és a minisztériumok igazgatása címeken jóváhagyott személyi juttatások és munkaadókat terhelő járulékok előirányzatain fejezetek közötti átcsoportosítást hajtson végre.
+
+(3) A 4. § (1) bekezdése és az 5. § szerinti előirányzat fejezetekre, címekre, alcímekre, jogcím-csoportokra, jogcímekre, előirányzat-csoportokra, kiemelt előirányzatokra – felmérés alapján – történő átcsoportosítására a pénzügyminiszter kap felhatalmazást.
+
+(4) A pénzügyminiszter év közben fejezetek közötti előirányzat-átcsoportosítást hajthat végre a XXII. Pénzügyminisztérium fejezet, 17. cím, 1. alcím, 13. Rendkívüli beruházási tartalék jogcím-csoport előirányzat terhére.
+
+(5) Az önkormányzati és területfejlesztési miniszter a pénzügyminiszterrel és a támogatás jellege szerint illetékes miniszterrel egyetértésben a helyi önkormányzatok által felhasználható központosított előirányzatok (IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet, 5. cím) 5. számú mellékletben szereplő támogatási jogcímei között a 9. és 12. jogcím kivételével, a helyi önkormányzatok működőképességének megőrzését szolgáló kiegészítő támogatások (IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet, 6. cím) 6. számú mellékletben szereplő támogatási jogcímei között, továbbá a IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet, 5. és 6. cím, valamint a 11. cím között az 5. számú mellékletben szereplő 9. és 12. jogcím kivételével – a felhasználási igény figyelembevételével – átcsoportosításokat hajthat végre. Ha az átcsoportosítás a IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet, 5. címről a 6. címre történik, úgy az átcsoportosítás ez utóbbi címre a 6. számú melléklet 1., 3., 2. támogatási jogcím sorrendjében történik.
+
+(6) Az Országgyűlés felhatalmazza a földművelésügyi és vidékfejlesztési minisztert, hogy a pénzügyminiszter előzetes egyetértésével a XII. Földművelésügyi és Vidékfejlesztési Minisztérium fejezet
+
+a) 1–9. címek és alcímeik kiemelt előirányzatai között,
+
+b) a 10. cím, 2. Egyéb fejezeti kezelésű előirányzatok alcím, a 10. cím, 5. Nemzeti támogatások alcím, 1–9. jogcím-csoport, a 10. cím, 7. Árfolyamkockázat és egyéb EU által nem térített kiadások alcím, valamint a 10. cím, 13. EU tagságból eredő feladatok alcím között és az alcímeken belül átcsoportosítást hajtson végre.
+
+(7) Az Országgyűlés felhatalmazza a honvédelmi minisztert, hogy a pénzügyminiszter előzetes egyetértésével a haderő-átalakítással összefüggő szervezeti intézkedésekből eredő feladatok, a NATO felé vállalt haderő-fejlesztési célkitűzések, valamint az előre nem tervezett nemzetközi feladatok végrehajtása céljából a XIII. Honvédelmi Minisztérium fejezet címei, alcímei között – beleértve címen belül a kiemelt előirányzatokat is – indokolt esetben átcsoportosítást hajtson végre.
+
+(8) Az Országgyűlés felhatalmazza a pénzügyminisztert, hogy az oktatási és kulturális miniszter értesítése alapján a XX. Oktatási és Kulturális Minisztérium fejezet, 11. cím, 15. alcím, 8. Kulturális közhasznú és gazdasági társaságok által ellátott feladatok támogatása jogcím-csoport előirányzatból, valamint a XX. Oktatási és Kulturális Minisztérium fejezet, 4. Művészeti intézmények cím előirányzatból a színházi feladatot ellátó közhasznú társaság(ok), költségvetési szerv(ek) fenntartói feladatainak önkormányzat(ok) részére megállapodással történő átadásával egyidejűleg az ő(ke)t a megállapodás szerint megillető összeget a IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet, 7. A helyi önkormányzatok színházi támogatása cím megfelelő alcímeire átrendezze.
+
+(9) Az Országgyűlés felhatalmazza a pénzügyminisztert, hogy a XXII. Pénzügyminisztérium fejezet, 24. cím, 4. Pénzügyigazgatás korszerűsítése alcím előirányzata terhére a feladatmegosztásnak megfelelően fejezetek közötti átcsoportosítást hajtson végre.
+
+(10) Az Országgyűlés felhatalmazza az önkormányzati és területfejlesztési minisztert, hogy
+
+a) a XI. Önkormányzati és Területfejlesztési Minisztérium fejezet, 12. cím, 3. alcím, 2. Vásárhelyi Terv továbbfejlesztése jogcím-csoport előirányzatát – a regionális fejlesztési tanácsokkal egyeztetve – a 16. számú mellékletben foglalt, régiók számára meghatározott összeg megváltoztatása nélkül a 12. cím, 3. alcím, 4. Decentralizált területfejlesztési programok jogcím-csoport javára átcsoportosítsa,
+
+b) a XI. Önkormányzati és Területfejlesztési Minisztérium fejezet, 12. cím, 3. alcím, 2. Vásárhelyi Terv továbbfejlesztése jogcím-csoport régiónkénti keretei között – a regionális fejlesztési tanácsokkal egyeztetve – átcsoportosítást hajtson végre.
+
+(11) Az Országgyűlés felhatalmazza az önkormányzati és területfejlesztési minisztert, hogy – a pénzügyminiszter előzetes egyetértésével – a XI. Önkormányzati és Területfejlesztési Minisztérium fejezet, 12. cím, 27. alcím, 10. Sportlétesítmények PPP konstrukcióban történő fejlesztése jogcím-csoportból a 11. Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet (olimpiai központok fejlesztése, felújítása célra) cím előirányzataira átcsoportosítást hajtson végre.
+
+(12) Az Országgyűlés felhatalmazza az oktatási és kulturális minisztert, hogy – a pénzügyminiszter előzetes egyetértésével – a XX. Oktatási és Kulturális Minisztérium fejezet, 11. cím, 2. alcím, 10. Hallgatói létszám képzési többlete (egyházi világi képzés) jogcím-csoport, valamint 11. Hallgatói létszám képzési többlete (alapítványi felsőoktatás) jogcím-csoport előirányzatokat egymás között – a szükséglet szerinti mértékben – átcsoportosítsa.
+
+(13) Az Országgyűlés felhatalmazza az oktatási és kulturális minisztert a XX. Oktatási és Kulturális Minisztérium fejezet, 11. cím, 1. alcím, 3. Felsőoktatási fejlesztési program jogcím-csoport jogcímei közötti előirányzatok átcsoportosítására, figyelembe véve a beruházások megvalósulását.
+
+(14) Az Országgyűlés felhatalmazza az önkormányzati és területfejlesztési minisztert, hogy – a pénzügyminiszter előzetes engedélyével – a XI. Önkormányzati és Területfejlesztési Minisztérium fejezet, 12. cím, 26. alcím, 8. Kiemelt nemzetközi sportesemények támogatása jogcím-csoport, valamint a 12. cím, 26. alcím, 1. Utánpótlás-nevelési feladatok jogcím-csoport és a 12. cím, 26. alcím, 4. Versenysport támogatása jogcím-csoport előirányzatok között átcsoportosítást hajtson végre.
+
+(15) Az Országgyűlés felhatalmazza az önkormányzati és területfejlesztési minisztert, hogy – a pénzügyminiszter előzetes egyetértésével – a XI. Önkormányzati és Területfejlesztési Minisztérium fejezet, 12. cím, 1. alcím, 5. Turisztikai célelőirányzat jogcímcsoport, a 3. alcím, 1. Központi fejlesztési feladatok jogcímcsoport, a 26. alcím, 23. Szabadidősport támogatása jogcímcsoport előirányzatai között átcsoportosítást hajtson végre.
+
+(16) Az Országgyűlés felhatalmazza a környezetvédelmi és vízügyi minisztert, hogy – a pénzügyminiszter, a gazdasági és közlekedési miniszter, a földművelésügyi és vidékfejlesztési miniszter és az önkormányzati és területfejlesztési miniszter előzetes egyetértésével – az Éhvt. alapján létrehozott kiotói egységek átruházásából befolyt bevételnek az Éhvt. 10. § (3)–(4) bekezdésében meghatározott célokra történő felhasználására a fejezeti kezelésű előirányzatok között kiadási előirányzatot nyisson, és az értékesítésből befolyt teljes bevétellel az előirányzatot megnövelje.
+
+(17) Az Országgyűlés felhatalmazza a Nemzeti Fejlesztési Ügynökség elnökét, hogy – a pénzügyminiszter előzetes egyetértésével – átcsoportosítást hajtson végre a XIX. Uniós fejlesztések fejezet, 2. cím, 7. alcím, 4. KEOP Derogációs projektek kamattámogatása jogcím-csoportról a IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet, 5. Központosított előirányzatok cím, 5. számú mellékletben szereplő 12. Önkormányzatok és jogi személyiségű társulásaik európai uniós fejlesztési pályázatai saját forrás kiegészítésének támogatása jogcímre.
+
+(18) Az Országgyűlés felhatalmazza a gazdasági és közlekedési minisztert, hogy a pénzügyminiszterrel egyetértésben a XV. Gazdasági és Közlekedési Minisztérium fejezeten belül a 25. cím, 3. alcím, 1. Beruházás ösztönzési célelőirányzat jogcímcsoportból olyan esetekben, amikor a támogatott nem az eljárási rend szerinti pénzbeli támogatást kívánja igénybe venni, a 25. cím, 29. Útpénztár alcím előirányzat javára a beruházások ösztönzése érdekében, állami közúti infrastrukturális létesítmények megépítése céljából legfeljebb a Kormány döntésében foglalt támogatással egyező mértékű forrást átcsoportosítsa.

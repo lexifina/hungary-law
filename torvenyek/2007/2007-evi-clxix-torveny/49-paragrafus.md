@@ -1,0 +1,13 @@
+49. § (1) A XXVI. Szociális és Munkaügyi Minisztérium fejezet, 4. Országos Munkabiztonsági és Munkaügyi Főfelügyelőség cím, 1. Működési költségvetés előirányzat-csoport 1. Személyi juttatások kiemelt előirányzata legfeljebb 550,0 millió forinttal, a 2. Munkaadókat terhelő járulékok kiemelt előirányzata legfeljebb 176,0 millió forinttal túlléphető, a szociális és munkaügyi miniszter által meghatározott feltételek teljesülése esetén, a pénzügyminiszter egyetértésével, ha a 47. § (1) bekezdésében meghatározott bevételi előirányzatokra vonatkozó feltétel teljesül.
+
+(2) A szociális és munkaügyi miniszter negyedévente engedélyezhet jutalom-előleg kifizetést az (1) bekezdés szerinti személyi juttatás és munkaadókat terhelő járulékok előirányzatok terhére, amennyiben az általa meghatározott feltételek, és a 47. § (1) bekezdésben megjelölt előirányzatoknak a pénzügyminiszter által meghatározott negyedéves bevételi tervei teljesülnek. Az év közben fizethető jutalom-előleg összege nem haladhatja meg a negyedéves bevételi terven felül teljesülő előirányzatok összegét.
+
+(3) Amennyiben a tárgyév december 29-ig a 47. § (1) bekezdésében meghatározott bevételi előirányzatok teljesülnek, az (1) bekezdés szerinti személyi juttatás és munkaadókat terhelő járulékok előirányzatának legfeljebb az év közben kifizetett jutalom-előleg összegével csökkentett részét lehet az Országos Munkabiztonsági és Munkaügyi Főfelügyelőség rendelkezésére bocsátani.
+
+(4) A szociális és munkaügyi miniszter a pénzügyminiszter egyetértésével a (2) bekezdés szerint negyedévente meghatározott bevételi tervet meghaladó bevételi többlet legfeljebb 5%-ának mértékéig a XXVI. Szociális és Munkaügyi Minisztérium fejezet, 4. Országos Munkabiztonsági és Munkaügyi Főfelügyelőség cím, 1. Működési költségvetés előirányzat-csoport 3. Dologi kiadások kiemelt előirányzatán és a 2. Felhalmozási költségvetés előirányzat-csoport kiemelt előirányzatain is túllépést engedélyezhet.
+
+(5) A XXVI. Szociális és Munkaügyi Minisztérium fejezet, 11. Nemzeti Fogyasztóvédelmi Hatóság cím, 1. Működési költségvetés előirányzat-csoport kiemelt előirányzatai összesen legfeljebb 600,0 millió forinttal túlléphetők a szociális és munkaügyi miniszter által meghatározott teljesítménykövetelmények teljesülése esetén a pénzügyminiszter egyetértésével.
+
+(6) A szociális és munkaügyi miniszter negyedévente engedélyezhet előlegkifizetést az (5) bekezdés szerinti előirányzatok terhére a pénzügyminiszter egyetértésével, ha a teljesítménykövetelmények időarányos teljesítése meghaladja a tervezettet.
+
+(7) Tárgyév december 29-ig az (5) bekezdésben meghatározott összegnek legfeljebb az év közben kifizetett előleggel csökkentett részét lehet a Nemzeti Fogyasztóvédelmi Hatóság rendelkezésére bocsátani.

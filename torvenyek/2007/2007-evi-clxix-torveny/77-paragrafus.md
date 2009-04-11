@@ -1,0 +1,3 @@
+77. § (1) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcím, 1. Gyógyító-megelőző ellátás jogcím-csoport tartalmazza az E. Alapból finanszírozott egészségügyi ellátások szerződésben foglalt feladataira tárgyévben folyósítandó összeget.
+
+(2) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcím, 1. Gyógyító-megelőző ellátás jogcím-csoporton belül az 1. Háziorvosi, háziorvosi ügyeleti ellátás jogcím, a 3. Fogászati ellátás jogcím, 17. Laboratóriumi ellátás jogcím, valamint a 18. Összevont szakellátás jogcím kiadási előirányzata tartalmazza a vizitdíj, illetve napidíj megfizetése alól külön jogszabály alapján történt mentesítésből származó bevétel kiesés kompenzálására szolgáló fedezetet.

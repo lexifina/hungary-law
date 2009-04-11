@@ -1,0 +1,1 @@
+43. § Amennyiben a Magyar Államnak szerződéssel, illetve jogszabállyal vállalt kezesség- vagy viszontgarancia érvényesítéséből olyan fizetési kötelezettsége keletkezik, amely nem szerepel e törvény 1. számú mellékletében, azt a XXII. Pénzügyminisztérium fejezet, 18. Állam által vállalt kezesség és viszontgarancia érvényesítése cím terhére kell teljesíteni.
