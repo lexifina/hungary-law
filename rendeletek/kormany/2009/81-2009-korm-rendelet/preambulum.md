@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 124. §-a (2) bekezdésének b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következő rendeletet alkotja:
