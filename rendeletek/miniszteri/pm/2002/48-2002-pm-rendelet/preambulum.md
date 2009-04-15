@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló 2000. évi CXXXIII. törvény 109. § (3) bekezdés a) pontjában kapott felhatalmazás alapján – az államháztartásról szóló 1992. évi XXXVIII. törvény 33/A. §-ában foglaltakkal összhangban – a következőket rendelem el:
