@@ -1,0 +1,95 @@
+## 11. § Ez a rendelet a kihirdetését követően megalakuló első Kormány megalakulásával egyidejűleg lép hatályba.
+
+12. § (1) Az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 8. §-a a következő új (6) bekezdéssel egészül ki:
+
+## „(6) A miniszter összehangolja az „Új rend és szabadság” program végrehajtását.”
+
+(2) A Miniszterelnöki Hivatalt vezető miniszter feladat- és hatásköréről szóló 29/2008. (II. 19.) Korm. rendelet (a továbbiakban: R1.) 4. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+## „(8) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége körében elősegíti és szervezi a Kormány és az országgyűlési képviselőcsoportok közötti együttműködést.”
+
+(3) Az R1. 1. § (1) bekezdés c) és f)–g) pontja, 3. § d)–e) pontja, 5. §-a, valamint 10–11. §-a hatályát veszti.
+
+(4) A nemzeti fejlesztési és gazdasági miniszter feladat- és hatásköréről szóló 134/2008. (V. 14.) Korm. rendelet (a továbbiakban: R2.) 1. §-a a következő új i)–k) pontokkal egészül ki:
+
+[A nemzeti fejlesztési és gazdasági miniszter (a továbbiakban: miniszter) a Kormány]
+
+## „i) kutatás-fejlesztésért és technológiai innovációért,
+
+## j) tudománypolitika koordinációjáért,
+
+## k) űrkutatásért”
+
+## [felelős tagja.]
+
+(5) Az R2. 3. §-a a következő új (8) bekezdéssel egészül ki:
+
+## „(8) A miniszter a kutatás-fejlesztésért és a technológiai innovációért való felelőssége körében előkészíti különösen
+
+## a) a kutatás-fejlesztésről,
+
+## b) a technológiai innovációról,
+
+## c) a magyar formatervezési díjról,
+
+## d) az iparjogvédelmi támogatásokról
+
+## szóló jogszabályokat, továbbá e tárgykörökben felhatalmazás alapján miniszteri rendeleteket ad ki.”
+
+(6) Az R2. 4. §-a a következő új (6) bekezdéssel egészül ki:
+
+## „(6) A miniszter a kutatás-fejlesztésért és a technológiai innovációért való felelőssége körében irányítja a Nemzeti Kutatási és Technológiai Hivatalt.”
+
+(7) Az R2. a következő új 10/A. §-sal egészül ki:
+
+## „10/A. § (1) A miniszter a tudománypolitika koordinációjáért való felelőssége körében
+
+## a) képviseli a kormányzati tudománypolitikát a Kormány, valamint – a Kormány döntése szerint – az Országgyűlés előtt,
+
+## b) koordinálja – a Magyar Tudományos Akadémia elnöke közreműködésével – a kormányzati tudománypolitika kidolgozását és érvényesítését,
+
+## c) részt vesz a kormányzati technológia- és innovációpolitika kidolgozásában, koordinálja a nemzetközi tudományos szervezetekben való magyar részvétellel kapcsolatos kormányzati feladatokat,
+
+## d) felelős az európai integrációból eredő tudományos és tudománypolitikai feladatok végrehajtásáért és az integrációs szakmai kapcsolatok szervezéséért, irányításáért,
+
+## e) irányítja a tudománypolitikát és annak megvalósítását, a kormányzati technológia- és innovációpolitika keretében irányítja az ágazati technológia- és innovációpolitikát és annak megvalósítását, meghatározza az ágazati minőségpolitikát.
+
+## (2) A miniszter a tudománypolitika koordinációjáért való felelőssége körében
+
+## a) elősegíti a tudományos eredmények hasznosulását az új ismeretek előállításában, a tudás intézményes átörökítésében és a társadalmi innováció folyamatában,
+
+## b) kezdeményezi a nem közvetlen gazdasági haszon elérésére irányuló tudományos kutatások – így különösen a tiszta alapkutatások – költségvetési és európai uniós forrásainak összehangolt felhasználását,
+
+## c) kezdeményezi, elősegíti és koordinálja az irányítása alá tartozó intézmények kutatási tevékenységét.
+
+## (3) A minisztert az űrkutatással kapcsolatos feladatainak ellátásában véleményező testületként a Magyar Űrkutatási Tanács és Űrkutatási Tudományos Tanács segíti, amelynek tagjait a miniszter kéri fel.
+
+## (4) A miniszter gyakorolja a fejezet felügyeletét ellátó szerv vezetőjének hatásköreit a XXXIV. Kutatás és technológia fejezet felett.”
+
+(8) Hatályát veszti a kutatás-fejlesztésért felelős tárca nélküli miniszter feladat- és hatásköréről szóló 103/2008. (IV. 29.) Korm. rendelet.
+
+(9) Az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 7/A. §-ában az „a pénzügyminiszter” szövegrész helyébe az „a társadalompolitika összehangolásáért felelős tárca nélküli miniszter” szöveg, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 14/B. §-ában „az önkormányzati miniszter” szövegrész helyébe az „a Miniszterelnöki Hivatalt vezető miniszter” szöveg lép, továbbá a polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszter feladat- és hatásköréről szóló 177/2007. (VII. 1.) Korm. rendelet 3. § (2)–(3) bekezdése, valamint (4) bekezdésében az „a Miniszterelnöki Hivatalnak a (2) bekezdésben foglaltak szerint kijelölt államtitkára (a továbbiakban: államtitkár), a miniszter titkárságának vezetője,” szöveg hatályát veszti, illetve a 3. § (6) bekezdésében a „külügyminiszter” szövegrész helyébe a „Miniszterelnöki Hivatalt vezető miniszter” szöveg lép.
+
+(10) Ahol e rendelet hatálybalépését megelőzően kihirdetett rendelet vagy közzétett kormányhatározat
+
+a) nemzetpolitikáért, kisebbségpolitikáért vagy a kormányzati társadalmi kapcsolatok összehangolásáért való felelősség körében a Miniszterelnöki Hivatalt vezető minisztert említi, azon a társadalompolitika összehangolásáért felelős tárca nélküli minisztert,
+
+b) az „Új rend és szabadság” programért felelős kormánybiztost említi, azon az igazságügyi és rendészeti minisztert,
+
+c) a kutatás-fejlesztésért felelős tárca nélküli minisztert említi, azon a nemzeti fejlesztési és gazdasági minisztert
+
+## kell érteni.
+
+(11) A Miniszterelnöki Hivatal jogutódja – a feladat- és hatáskörök ellátásához kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre is kiterjedően – az e kormányrendelet alapján
+
+a) az igazságügyi és rendészeti miniszterhez átkerülő feladat- és hatáskörök tekintetében az Igazságügyi és Rendészeti Minisztérium,
+
+b) a nemzeti fejlesztési és gazdasági miniszterhez átkerülő feladat- és hatáskörök tekintetében a Nemzeti Fejlesztési és Gazdasági Minisztérium.
+
+(12) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 14. § (1) bekezdés c) pontjának alkalmazása szempontjából a Miniszterelnöki Hivatal jogutódjának az e kormányrendelet alapján
+
+a) az igazságügyi és rendészeti miniszterhez átkerülő feladatkörök tekintetében az Igazságügyi és Rendészeti Minisztériumot,
+
+b) a nemzeti fejlesztési és gazdasági miniszterhez átkerülő feladatkörök tekintetében a Nemzeti Fejlesztési és Gazdasági Minisztériumot
+
+kell tekinteni.

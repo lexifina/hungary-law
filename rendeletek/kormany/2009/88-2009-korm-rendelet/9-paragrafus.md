@@ -1,0 +1,1 @@
+## 8. § A társadalompolitikai miniszter irányítja a Miniszterelnöki Hivatal társadalompolitikai miniszter tevékenységében közreműködő államtitkárának, a Miniszterelnöki Hivatal kisebbség- és nemzetpolitikáért felelős szakállamtitkárának, valamint a Miniszterelnöki Hivatal társadalompolitikai szakállamtitkárának tevékenységét.
