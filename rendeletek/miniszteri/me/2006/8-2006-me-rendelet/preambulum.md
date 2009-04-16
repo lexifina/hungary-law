@@ -1,0 +1,1 @@
+A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény (a továbbiakban: Tv.) 76. §-ának (3) bekezdésében kapott felhatalmazás alapján – figyelemmel a Tv. 1. §-ának (4) bekezdésében és 71. §-ának (2) bekezdésében foglaltakra – a következőket rendelem el:
