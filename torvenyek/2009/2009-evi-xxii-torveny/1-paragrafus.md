@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a központi vámkezeléssel kapcsolatban a hagyományos saját forrásoknak az uniós költségvetés számára történő rendelkezésre bocsátásakor visszatartott nemzeti beszedési költségek megosztásáról szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
