@@ -1,0 +1,3 @@
+## 5. § A személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet (a továbbiakban: R.) 6. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+## „(7) A (6) bekezdés szerinti vezetői megbízással, illetve kinevezéssel rendelkező személy a megbízást, kinevezést követő két éven belül köteles – a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló 9/2000. (VIII. 4.) SZCSM rendelet 5. § (1)–(2) bekezdésében foglaltakra figyelemmel – a szociális szakvizsgát letenni. Ha a vezető a szociális szakvizsgát határidőben nem teszi le, a (6) bekezdés szerinti vezetői beosztásban a szociális szakvizsga megszerzéséig nem foglalkoztatható.”

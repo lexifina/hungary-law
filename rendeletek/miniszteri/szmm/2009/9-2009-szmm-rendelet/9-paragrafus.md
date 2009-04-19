@@ -1,0 +1,3 @@
+## 8. § Az R. 39/I. §-a helyébe a következő rendelkezés lép:
+
+## „39/I. § Közösségi gondozó vagy közösségi koordinátor munkakörben alkalmazott személynek a foglalkoztatás kezdő időpontjától rendelkeznie kell a Nemzeti Szakképzési és Felnőttképzési Intézet által kiadott közösségi pszichiátriai ellátással kapcsolatos képzés tanúsítványával. Felmentés adható, amennyiben a munkakört betöltendő személy a képzésben már hallgatói jogviszonnyal rendelkezik és azt két éven belül elvégzi. A közösségi pszichiátriai ellátással kapcsolatos képzésre történő jelentkezéseket a Nemzeti Szakképzési és Felnőttképzési Intézethez kell benyújtani.”

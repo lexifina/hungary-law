@@ -1,0 +1,1 @@
+A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (2) bekezdés b), c), h) és k) pontjában kapott felhatalmazás alapján – a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 1. § b) és c) pontjában megállapított feladatkörömben eljárva – a következőket rendelem el:
