@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében, továbbá az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. §-a (2) bekezdésének c), n) és r) pontjaiban kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
