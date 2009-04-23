@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya – a (2) bekezdésben foglalt kivétellel – a bíróságokon és az Országos Igazságszolgáltatási Tanács Hivatalában (a továbbiakban: OIT Hivatala) foglalkoztatott igazságügyi tisztviselőre, ügykezelőre és fizikai alkalmazottra (a továbbiakban: igazságügyi alkalmazott) terjed ki.
+
+(2) A megyei bírósági végrehajtó, a megyei bírósági végrehajtó-helyettes, a megyei bírósági végrehajtójelölt, a helyi bíróságnál, illetőleg a megyei bíróságnál szolgálati viszonyban álló végrehajtási ügyintéző munkaköréről és képesítési követelményéről, valamint vizsgájáról külön jogszabály rendelkezik.

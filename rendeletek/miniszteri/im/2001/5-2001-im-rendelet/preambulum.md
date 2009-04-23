@@ -1,0 +1,1 @@
+Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 13. §-ának (6) bekezdésében kapott felhatalmazás alapján – az Országos Igazságszolgáltatási Tanáccsal egyetértésben – a következőket rendelem el:
