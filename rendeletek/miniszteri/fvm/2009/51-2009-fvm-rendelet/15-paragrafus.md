@@ -1,0 +1,5 @@
+## 14. § Az R. 27. §-ának (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő (3) bekezdéssel egészül ki:
+
+## „(2) Azon támogatási jogcímek esetén, amelyeknél a támogatás igénybevételének feltétele üzleti terv vagy működtetési és fenntarthatósági terv benyújtása, de az (1) bekezdés e) és f) pontjaiban meghatározott értékhatárokra tekintettel az ügyfél nem köteles ezeket benyújtani, kérelmének elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
+
+## (3) A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek – amennyiben a támogatás részletes feltételeit megállapító jogszabály másként nem rendelkezik – nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségtől. Benyújtásuk esetén a fejezeteket a (2) bekezdésben meghatározott arányosítást követően, a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.”

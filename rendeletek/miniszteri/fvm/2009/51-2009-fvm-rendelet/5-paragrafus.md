@@ -1,0 +1,3 @@
+## „(2) Egy kifizetési kérelem benyújtási időszakban egy ügyfél egy jogcímre egy kifizetési kérelmet nyújthat be.
+
+## (3) Ha a támogatás részletes feltételeit megállapító jogszabály kötelező képzésen való részvételt ír elő és az ügyfél azért nem tudja az abban meghatározottak szerint benyújtani a részvételi igazolást az MVH-hoz, mert a jogszabályban meghatározott időszakban nem volt képzés, vagy az ügyfél a képzés helyszínéről és időpontjáról a képzés koordinálójától nem kapott megfelelő értesítést, akkor az FVM VKSZI igazolást állít ki, amelyet az ügyfélnek a képzésen való részvételi igazolás helyett kell az MVH-hoz benyújtani.”
