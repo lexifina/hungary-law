@@ -1,0 +1,1 @@
+## 29. § Mind a támogatási megállapodás, mind a végrehajtási szerződés módosítását minden esetben írásba kell foglalni. A módosítási kérelem elutasítása esetén a KPSZE köteles a projektgazdát az elutasítás indokairól írásban tájékoztatni.

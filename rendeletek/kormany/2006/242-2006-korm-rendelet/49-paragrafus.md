@@ -1,0 +1,1 @@
+## 48. § Az e rendeletben meghatározott jelentéseken túlmenően az FMI a finanszírozási mechanizmusok végrehajtásával összefüggésben bármikor további információt kérhet, amelyet a Nemzeti Kapcsolattartón keresztül kell részére megküldeni.

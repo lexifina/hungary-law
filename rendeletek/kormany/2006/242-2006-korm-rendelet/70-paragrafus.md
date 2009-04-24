@@ -1,0 +1,1 @@
+## 69. § Az FMI kötelezettségvállalásának – amennyiben erről a támogatási megállapodás rendelkezik – meghatározott százalékát előleg formájában utalja át a kifizető hatóság finanszírozási mechanizmusonként nyitott (bank)számláira projektenkénti bontásban.
