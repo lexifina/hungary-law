@@ -1,0 +1,1 @@
+## „(5) A felsőoktatási intézmény, amennyiben a jelentkező az intézmény által meghatározott – intézményspecifikus – mellékletet nem nyújtja be, a besorolási döntés időpontja előtt 45 nappal – keresztféléves felvételi eljárás esetében 30 nappal – felhívja a jelentkezőt ennek pótlására.”
