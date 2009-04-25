@@ -1,0 +1,1 @@
+## 3. § Az NFÜ az SA közreműködő szervezettel a GOP végrehajtásával kapcsolatos feladatairól, valamint azok végrehajtásáról és az ehhez szükséges finanszírozás mértékéről és módjáról megállapodást köt.
