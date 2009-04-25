@@ -1,0 +1,1 @@
+## 8. § A Nemzetközi jelentőségű, kiemelt KFI programok támogatása előirányzat keretén belül az ESS projekt magyarországi megvalósításának előkészítésével kapcsolatos feladatokat közreműködőként az ESS Magyarország Európai Anyagtudományi, Nanotechnológiai és Molekuláris Biológiai Kutatóközpont Nonprofit Korlátolt Felelősségű Társaság kizárólagos joggal látja el.

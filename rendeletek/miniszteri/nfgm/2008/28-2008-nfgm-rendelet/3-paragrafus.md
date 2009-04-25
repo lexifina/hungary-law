@@ -1,0 +1,5 @@
+3. § (1) A KFC terhére pályázati úton nyújtott támogatások tekintetében (beleértve ebbe az ITD-H Befektetésösztönzési és kereskedelemfejlesztési tanácsadás célelőirányzat terhére 2005–2006. években pályázati úton nyújtott támogatásokat is) a támogatási rendszer lebonyolításának operatív feladatait mint közreműködő szervezet a MAG Zrt. és az ITD Hungary Zrt. látja el kizárólagos joggal a (2)–(3) bekezdésben foglaltak szerint.
+
+(2) A MAG Zrt. az (1) bekezdésben meghatározott feladatkörében a KFC terhére pályázati úton nyújtott támogatások tekintetében ellátja a szerződéskötéssel, a szerződések teljesítésének pénzügyi ellenőrzésével és az elszámoltatással összefüggő feladatokat.
+
+(3) Az ITD Hungary Zrt. az (1) bekezdésben meghatározott feladatkörében a KFC terhére pályázati úton nyújtott támogatások tekintetében ellátja a pályázatok meghirdetésével, érkeztetésével és befogadásával, azok értékelésével, a jogszabályban és a pályázati felhívásban meghatározott formai és tartalmi feltételek meglétének ellenőrzésével, valamint a pályázatoknak a bíráló bizottság részére történő döntés-előkészítésével kapcsolatos feladatokat.

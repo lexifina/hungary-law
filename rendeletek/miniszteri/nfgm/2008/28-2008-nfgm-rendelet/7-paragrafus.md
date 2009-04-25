@@ -1,0 +1,3 @@
+7. § (1) A magyar találmányok külföldi bejelentése célelőirányzat terhére nyújtott támogatások tekintetében a támogatási rendszer lebonyolításának operatív feladatait mint közreműködő szervezet a MAG Zrt. látja el kizárólagos joggal a (2) bekezdésben foglaltak szerint.
+
+(2) A MAG Zrt. az (1) bekezdésben meghatározott feladatkörében ellátja a támogatási szerződések módosításával, a magyar találmányok külföldi bejelentése célelőirányzat maradványának terhére történt kötelezettségvállalások nyilvántartásával, a követelésállomány kezelésével, a pénzügyi teljesítés ellenőrzésével és igazolásával, a kifizetések kezelőnél történő kezdeményezésével, valamint a beszámolási és adatszolgáltatási kötelezettségek teljesítésével kapcsolatos teendőket.
