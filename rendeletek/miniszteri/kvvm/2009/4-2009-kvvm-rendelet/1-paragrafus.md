@@ -1,0 +1,3 @@
+1. § (1) Védetté nyilvánítom Nyugat-Mecsek Tájvédelmi Körzet (a továbbiakban: Tájvédelmi Körzet) elnevezéssel a Baranya megyében Abaliget, Bakonya, Boda, Bükkösd, Cserkút, Hetvehely, Kővágószőlős, Kővágótöttös, Mánfa, Orfű és Pécs közigazgatási területén lévő, 9624,6 hektár, illetve a Tájvédelmi Körzet területéhez csatolom a már védetté nyilvánított 691,5 hektár, az 1. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 10 316,1 hektár kiterjedésű területet.
+
+(2) A Tájvédelmi Körzetből fokozottan védetté nyilvánítom a 2. számú mellékletben felsorolt ingatlan-nyilvántartási helyrajzi számú, összesen 370,9 hektár kiterjedésű területet.
