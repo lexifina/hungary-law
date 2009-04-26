@@ -1,0 +1,127 @@
+## E rendelet alkalmazásában a telepíthető fafajok listája
+
+## A) Lombos fafajok
+
+## barkócaberkenye (Sorbus torminalis)
+
+## bibircses nyír (Betula pendula)
+
+## budai berkenye (Sorbus semiincisa)
+
+## bükk (Fagus sylvatica)
+
+## cser (Quercus cerris)
+
+## érdeslevelű mezei szil (Ulmus procera)
+
+## ezüst hárs (Tilia tomentosa)
+
+## ezüst juhar (Acer saccharinum)
+
+## fehér fűz (Salix alba)
+
+## fehérnyár (Populus alba)
+
+## feketegyűrű juhar (Acer tataricum)
+
+## feketenyár (Populus nigra)
+
+## gyertyán (Carpinus betulus)
+
+## hamvas éger (Alnus incana)
+
+## hegyi juhar (Acer pseudoplatanus)
+
+## hegyi szil (Ulmus glabra)
+
+## kecskefűz (Salix caprea)
+
+## keleti gyertyán (Carpinus orientalis)
+
+## kislevelű hárs (Tilia cordata)
+
+## kocsányos tölgy (Quercus robur)
+
+## kocsánytalan tölgy (Quercus petraea)
+
+## korai juhar (Acer platanoides)
+
+## lisztes berkenye (Sorbus aria)
+
+## madárberkenye (Sorbus aucuparia)
+
+## madárcseresznye (Cerasus avium)
+
+## magas kőris (Fraxinus excelsior)
+
+## magyar kőris (Fraxinus angustifolia ssp. pannonica)
+
+## magyar tölgy (Quercus frainetto)
+
+## mezei juhar (Acer campestre)
+
+## mezei szil (Ulmus minor)
+
+## mézgás éger (Alnus glutinosa)
+
+## molyhos tölgy (Quercus pubescens)
+
+## olasz molyhos tölgy (Quercus virgiliana)
+
+## nagylevelű hárs (Tilia platyphyllos)
+
+## rezgőnyár (Populus tremula)
+
+## szőrös nyír (Betula pubescens)
+
+## szürkenyár (Populus canescens)
+
+## törékeny fűz (Salix fragilis)
+
+## vadalma (Malus sylvestris)
+
+## vadkörte (Pyrus pyraster)
+
+## varjútövis benge (Rhamnus cathartica)
+
+## vénic szil (Ulmus laevis)
+
+## virágos kőris (Fraxinus ornus)
+
+## B) Tűlevelű fafajok (fenyők)
+
+## közönséges boróka (Juniperus communis)
+
+## erdei fenyő (Pinus sylvestris)
+
+## tiszafa (Taxus baccata)
+
+4. számú melléklet a 46/2009. (IV. 16.) FVM rendelethez
+
+E rendelet alkalmazásában az 50% elegyarányt
+
+meg nem haladó mértékben telepíthető
+
+tájjellegű gyümölcsfa fajták listája
+
+Alma (Malus domestica): Ananász renet, Batul alma, Budai Domokos, Csillagos piros renet, Dallos alma, Daru sóvári, Egri piros, Hercegnő alma, Hosszúfalusi, Húsvéti rozmaring, Jászvadóka, Kanadai renet, Kálvil alma, Kecskeméti vajalma, Kenézi piros, Londoni pepin, Muskotály renet, Nemes sóvári, Nemes szercsika, Nyári csíkos fűszeres, Nyári fontos, Orbai alma, Parker pepin, Pónyik alma, Sándor cár, Sárga szépvirágú, Sikulai alma, Simonffy piros, Szabadkai szercsika alma, Széchenyi renet, Szemes alma, Téli arany parmen, Téli piros pogácsa, Tombácz alma, Tordai piros, Török Bálint alma, Zeliz alma;
+
+Cseresznye (Prunus avium): Badacsonyi óriás, Gyöngyösi szívcseresznye, Márki korai, Pomázi hosszúszárú, Solymári politúr, Szomolyai rövidszárú;
+
+Dió: (Juglans regia): Alsószentiváni, Milotai, Tiszacsécsi;
+
+Fehér eperfa (Morus alba);
+
+Fekete eperfa (Morus nigra);
+
+Kajszibarack (Prunus armeniaca): Rózsabarack, Borsi-féle kései rózsa; Kécskei rózsa; Korai piros; Magyar kajszi, Rakovszky kajszi;
+
+Körte (Pyrus pyraster): Arabitka, Árpával érő, Búzával érő, Diel vajkörte, Erdei vajkörte, Hardy vajkörte, Kieffer körte, Nagy szegfűkörte, Nemes kraszán, Nyári Kálmán körte, Papkörte, Serres Olivér, Zöld Magdolna;
+
+Mandula (Amygdalis communis)
+
+Meggy (Prunus cerasus): Cigánymeggy;
+
+Szelíd gesztenye: (Castanea sativa): Iharosberényi, Kőszegszerdahelyi, Nagymarosi;
+
+Szilva (Prunus domestica): Besztercei szilva, Bódi szilva, Gömöri nyakas, Mirabolán szilva, Nemtudom szilva (Penyigei szilva), Nyári aszaló, Späth Anna, Vörös szilva;
