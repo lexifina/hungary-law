@@ -1,0 +1,10 @@
+4. § (1)[^2] A képzési támogatás a felsőoktatási intézményeknek – az e rendelet módosításáról szóló 70/2008. (IV. 3.) Korm. rendelettel beiktatott –, e rendelet mellékletében részletezett szakjaihoz, képzési területeihez tartozó államilag támogatott számított hallgatói létszáma és a mellékletben szereplő képzési normatívák szorzatával megállapított támogatás összege.
+
+(2) A számított hallgatói létszám a költségvetési évet megelőző év október 15-i statisztikai hallgatói létszám alapján a jogosult létszám, a páratlan félévű képzés éves létszámra történő korrigálásával. A számított hallgatói létszámba egy teljes idejű képzésben részt vevő hallgató egy főnek, míg egy részidős képzésben részt vevő, illetve egy távoktatás tagozatos hallgató 0,5 főnek számít, függetlenül attól, hogy a hallgató egy- vagy többszakos. A kifutó többszakos képzések esetében a magasabb képzési normatíva szerinti szak alapján, a felmenő rendszerű új tanári szakokon a mestertanári normatíva szerint történik a hallgató besorolása. Párhuzamos képzésben részt vevő jogosult hallgatót mind a két intézményben, vagy egy intézményben mind a két szaknak megfelelően figyelembe kell venni. A felsőoktatási törvény 55. § (2) bekezdésében meghatározott, a hallgató támogatási idejének két féléves meghosszabbodása esetén az intézmény jogosult – ezen időszakra is – a normatív képzési támogatás igénylésére.
+
+(3)[^3] A felsőoktatási törvény 3. számú mellékletében meghatározott számítási alap összege a költségvetési évben 260 000 Ft.
+
+(4) A felsőoktatási intézményeknek a képzési támogatásból kell képezni és szabályzatukban rögzíteni az államilag támogatott képzésben részt vevő hallgató külföldi résztanulmányaihoz biztosítható ösztöndíj forrását.
+
+[^2]: A 4. § (1) bekezdése a 70/2008. (IV. 3.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést 2008. január 1. napjától kell alkalmazni.
+[^3]: A 4. § (3) bekezdése a 98/2009. (IV. 24.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
