@@ -1,0 +1,1 @@
+## 8. § A belügyminiszter, illetve a BM közgazdasági helyettes államtitkár által jóváhagyott rendszeresített egyenruházati cikkek, a külön rendelkezésben meghatározott rendszeresítési jegyzőkönyvben foglaltak szerint beszerezhetőek, valamint az önálló szervnél bevezethetőek a vonatkozó ruházati norma módosítását megelőzően is.
