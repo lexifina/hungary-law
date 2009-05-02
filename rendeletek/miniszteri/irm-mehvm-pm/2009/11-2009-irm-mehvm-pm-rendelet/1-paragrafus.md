@@ -1,0 +1,3 @@
+1. § (1) A cégnek a számviteli törvény rendelkezései alapján összeállított beszámolót, a független könyvvizsgálói jelentést, az adózott eredmény felhasználására vonatkozó határozatot (a továbbiakban együtt: beszámoló) a közzétételi költségtérítés megfizetéséről szóló igazolást és az elektronikus űrlapot a kormányzati portál útján kell a céginformációs szolgálat részére megküldeni.
+
+(2) A beszámolót az elektronikus cégbejegyzési eljárás és cégnyilvántartás egyes kérdéseiről szóló 24/2006. (V. 18.) igazságügyi miniszteri rendelet (a továbbiakban: Ecvhr.) 1. §-ának (2) bekezdésében meghatározott informatikai feltételeknek megfelelően kell megküldeni.
