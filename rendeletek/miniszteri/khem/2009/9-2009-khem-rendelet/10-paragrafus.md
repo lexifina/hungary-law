@@ -1,0 +1,68 @@
+## 1–9. §[^2]
+
+10. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 8. napon lép hatályba.
+
+(2) A 10. § (5)–(15) bekezdése, valamint a 4. melléklet a) és b) pontja 2009. május 1-jén lép hatályba.
+
+(3) E rendelet 1–9. §-a, 10. § (17) bekezdése, valamint 1–6. melléklete 2009. május 2. napján hatályát veszti.
+
+(4) Ez a rendelet 2014. január 2-án hatályát veszti.
+
+(5) A 2009. május 1. napja előtt kiállított hajóskapitány képesítéssel rendelkezők számára a hajózási hatóság kérelemre
+
+a) „B” kategóriájú hajóvezetői képesítést állít ki,
+
+b) „A” kategóriájú hajóvezetői képesítést állít ki eredményes tengeri vonalismereti (navigációs) különbözeti vizsga letételének igazolását követően. A különbözeti vizsgát a tengeren való összeütközések megelőzésére vonatkozó nemzetközi szabályokból (COLREG) és partmenti navigációs ismeretekből kell tenni.
+
+(6) Az új képesítéssel együtt kiadott vonalvizsga bizonyítványba a hajózási hatóság a hajóskapitányi képesítésben szereplő vonalkiterjesztésnek megfelelő bejegyzést tesz.
+
+(7) A 2009. május 1. napja előtt kiállított hajóskapitány képesítés a Dunán és vízrendszerén a 2009. május 1. napját megelőzően hatályos korlátozásokkal legfeljebb 2010. december 31. napjáig érvényes, és a vonalvizsgának megfelelő vízterületen való hajóvezetésre jogosít.
+
+(8) A 2009. május 1. napja előtt kiállított hajóvezető „A” képesítéssel rendelkezők számára a hajózási hatóság kérelemre
+
+a) „B” kategóriájú hajóvezetői képesítést állít ki a „B” kategóriájú hajóvezetői vizsga gyakorlati részéből tett eredményes vizsga letételének igazolását követően,
+
+b) „A” kategóriájú hajóvezetői képesítést állít ki a tengeri szakasz vonalismeretét tanúsító vonalvizsga bizonyítvány tulajdonosának eredményes különbözeti tengeri vonalismereti vizsga letételének igazolását követően. Különbözeti vizsgát a tengeren való összeütközések megelőzésére vonatkozó nemzetközi szabályokból (COLREG) és partmenti navigációs ismeretekből kell tenni.
+
+(9) A 2009. május 1. napja előtt kiállított hajóvezető „A” képesítés a Dunán és vízrendszerén a 2009. május 1. napját megelőzően hatályos korlátozásokkal legfeljebb 2010. december 31. napjáig érvényes, és a vonalvizsgának megfelelő vízterületen való hajóvezetésre jogosít.
+
+(10) A 2009. május 1. napja előtt kiállított hajóvezető „B” képesítés helyett a hajózási hatóság kérelemre
+
+a) a hajóvezető „B” képesítésben megjelölt, valamint az arra vonatkozó jogszabályi méretkorlátozásokat tartalmazó, „C” kategóriájú hajóvezetői képesítést állít ki, és a korábban kiállított képesítést bevonja. Az új képesítéssel együtt kiadott vonalvizsga bizonyítványba a bevont képesítésben szereplő vonalkiterjesztésnek megfelelő bejegyzést tesz a hajózási hatóság;
+
+b) az új rendelkezéseknek megfelelő „B” kategóriájú hajóvezetői képesítést állít ki, ha a „B” képesítéssel rendelkező hajóvezető igazolja, hogy hajóvezető „B” képesítés birtokában
+
+ba) ilyen képesítéssel vezethető hajón 12 havi hajóparancsnoki szolgálatot látott el,
+
+bb) hajóskapitányi képesítéssel vezethető hajón/köteléken 12 havi I. tiszti szolgálatot látott el, vagy
+
+bc) legalább 6 havi hajóparancsnoki szolgálatot látott el és a „B” kategóriájú hajóvezetői vizsga gyakorlati részéből eredményes vizsgát tett.
+
+(11) A (10) bekezdés ba) és bc) pontjában megjelölt szolgálatok részidői összevonhatók.
+
+(12) A 2009. május 1. napja előtt kiállított hajóvezető „B” képesítés a Dunán és vízrendszerén a 2009. május 1. napját megelőzően hatályos korlátozásokkal legfeljebb 2010. december 31. napjáig érvényes, és a vonalvizsgának megfelelő vízterületen való következő hajóvezetésre jogosít:
+
+a) hajóparancsnoki szolgálat ellátására, legfeljebb 60 méter hosszú és 17 méter széles hajón és tolt, vontatott vagy mellévett köteléken, kivéve a 600 főnél nagyobb befogadóképességű személyszállító hajón,
+
+b) géphajó kormányosi szolgálat ellátására, továbbá
+
+c) vitorlás hajóra tett vizsga esetén vitorlás hajó vezetésére.
+
+(13) A 2009. május 1. napja előtt kiállított hajóskapitányi és hajóvezető „A” képesítés 2010. december 1. napja után a Duna vízrendszerén kívüli vízterületre vonatkozó hajóvezetői képesítés kiadásához igazolásként nem szolgál.
+
+(14) A 2009. május 1. napja előtt hatályos rendelkezéseknek megfelelő hajóskapitányi, hajóvezető „A” és hajóvezető „B” képesítés kiállítása, kiterjesztése, cseréje, pótlása 2009. május 1. napját követően kizárólag a 10. § (7), (9) és (12) bekezdésében foglalt rendelkezések alkalmazásával történhet és azok a 10. § (7), (9) és (12) bekezdésében megjelölt határidőt követően érvényüket veszítik.
+
+(15) A szolgálati célú nagyhajóra kiállított képesítés a vonalvizsgának megfelelően, de kizárólag a Magyar Köztársaság területére és az Európai Unió más tagállamával közös határvizekre érvényes.
+
+(16) Személyhajón, utasok szállítása esetén az utasok biztonságát szolgáló intézkedések végrehajtása érdekében a hajószemélyzet vagy a kiszolgáló személyzet tagjaként szolgálatot teljesítő személyhajózási szakértő, elsősegélynyújtó és légzőkészülék-kezelő személyeknek a hajón való tartózkodására és a szolgálat ellátásra vonatkozóan a Rendelet 2. mellékletében foglalt rendelkezéseket
+
+a) a nemzetközi forgalomban résztvevő hajókra 2012. január 1-jétől,
+
+b) a csak belföldi forgalomban résztvevő hajókra 2014. január 1-jétől
+
+## kell alkalmazni.
+
+(17)[^3]
+
+[^2]: Az 1–9. § e rendelet 10. § (3) bekezdése alapján hatályát vesztette.
+[^3]: A 10. § (17) bekezdése e rendelet 10. § (3) bekezdése alapján hatályát vesztette.
