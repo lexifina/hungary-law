@@ -1,0 +1,31 @@
+14. § (1) 0-s robbanásveszélyességi zónába tartoznak a bioetanol-üzem azon zárt terei, ahol a robbanásveszélyes közeg folyamatosan vagy hosszú ideig van jelen, így különösen
+
+a) a tartályok, egyéb berendezések és technológiai csővezetékek belső terei,
+
+b) a robbanásveszélyes folyadékot gyakran és nagy mennyiségben tartalmazó akna belseje.
+
+(2) 1-es robbanásveszélyességi zónába tartoznak a bioetanol-üzem azon terei, ahol a robbanásveszélyes közeg normál üzemben várhatóan alkalmanként fordul elő, így különösen
+
+a) a mintavevő, lecsapoló és lefejtő szerkezetek körül legalább 5 méter sugarú gömb alakú tér, amely érintkezik a föld felszínével,
+
+b) a szabályozó szelepek, valamint a terepszinten vagy terepszint felett szabadtéren elhelyezett szivattyú körüli legalább 1 méter sugarú gömb alakú tér, amely érintkezik a föld felszínével,
+
+c) az aknák vagy tartályok légzője körüli legalább 3 méter sugarú gömb alakú tér, amely érintkezik a föld felszínével,
+
+d) az aknában elhelyezett szivattyú, vagy szerelvény és karimás kötés esetén az akna belseje,
+
+e) helyiségben elhelyezett szivattyú esetén a szivattyú körüli legalább 3 méter sugarú gömb alakú tér, amely érintkezik a föld felszínével.
+
+(3) 2-es robbanásveszélyességi zónába tartoznak az olyan terek, ahol a robbanásveszélyes közeg normál üzemben várhatóan nem fordul elő, de ha mégis előfordul, akkor rövid ideig marad fenn, így különösen
+
+a) a karimás kötések (búvó nyílás) körüli legalább 3 méter sugarú gömb alakú tér, amely érintkezik a föld felszínével,
+
+b) a mintavevő, lecsapoló és lefejtő szerkezetek körüli – az 5 méter sugarú gömb alakú 1-es zónán túli – további 3 méter sugarú gömb alakú tér,
+
+c) a szabályozó szelepek, a terepszinten vagy terepszint felett szabadtéren elhelyezett szivattyú körüli – az 1 méter sugarú gömb alakú 1-es zónán túli – további 3 méter sugarú gömb alakú tér,
+
+d) az 1-es zónába sorolt akna fölötti tér 0,8 méter magasságig és az akna széle körül 2 méter szélességig,
+
+e) a helyiségben elhelyezett szivattyú esetén a szivattyú körüli – a 3 méter sugarú gömb alakú 1-es zónán túli – további 3 méter sugarú gömb alakú tér.
+
+(4) Ha a létesítés során az (1)–(3) bekezdésben meghatározottól eltérő típusú és kiterjedésű zónabesorolást kívánnak kialakítani, azt csak a vonatkozó szabványokban foglaltak szerint vagy azzal egyenértékű műszaki megoldásnak megfelelően lehet végrehajtani. Ennek igazolására a tervező által elkészített, a robbanásveszélyességi zónák besorolását tartalmazó dokumentáció szolgál.
