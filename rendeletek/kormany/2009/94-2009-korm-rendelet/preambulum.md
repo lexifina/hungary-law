@@ -1,0 +1,1 @@
+A Kormány a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés k) pontjában és a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 66. § (3) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
