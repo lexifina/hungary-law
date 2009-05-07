@@ -1,0 +1,1 @@
+A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény (a továbbiakban: Ksztv.) 76. § (3) bekezdésében kapott felhatalmazás alapján, a Ksztv. 26. § (4) bekezdésére tekintettel a következőket rendelem el:
