@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a védjegyek nemzetközi lajstromozásáról szóló Madridi Megállapodáshoz kapcsolódó 1989. évi Jegyzőkönyvnek a Madridi Unió Közgyűlése 38. ülésén, 2007. november 12-én elfogadott módosítását (a továbbiakban: a Jegyzőkönyv módosítása) e törvénnyel kihirdeti.
