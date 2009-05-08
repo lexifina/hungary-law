@@ -1,0 +1,1 @@
+## Az eljárás felfüggesztése

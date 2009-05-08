@@ -1,0 +1,8 @@
+19. § (1) Ha ugyanazon követelés biztosítására különböző tulajdoni lapokon nyilvántartott ingatlanokra kell a jelzálogjogot bejegyezni (egyetemleges jelzálogjog), a bejegyzésben az egyetemlegességre mindegyik tulajdoni lapon utalni kell.
+
+(2)[^13] Ha meghatározott jogviszonyból vagy jogcímen keletkező követelések biztosítása céljából kérik a jelzálogjog bejegyzését, a jelzálogjogot keretbiztosítéki jelzálogjogként megjelölve kell bejegyezni. A bejegyzésben fel kell tüntetni a jogviszonyt vagy jogcímet, valamint azt a legmagasabb összeget, melyen belül a keretbiztosítéki jelzálogjog a követeléseket biztosítja.
+
+(3)[^14] A vagyont terhelő zálogjog a kielégítési jog megnyíltával akkor alakul át ingatlant terhelő jelzálogjoggá, ha ezt az ingatlan-nyilvántartásba bejegyzik. A bejegyzéshez szükséges a felek közötti alapszerződésen kívül a tv. 32. § (3), illetőleg (5) bekezdésében meghatározott alakban tett nyilatkozata a vagyont terhelő zálogjog jogosultjának arról, hogy a vagyont terhelő zálogjogot ingatlan jelzálogjoggá alakította át, valamint annak igazolása, hogy ezt az átalakító nyilatkozatot a zálogjogosult a zálogkötelezettel közölte (tértivevény, átvételi elismervény stb.). Ezt a szabályt kell alkalmazni a Ptk. 266. § (4) bekezdésében meghatározott esetben is.
+
+[^13]: A 19. § (2) bekezdése a 117/2005. (XII. 19.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^14]: A 19. § (3) bekezdése a 117/2005. (XII. 19.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.

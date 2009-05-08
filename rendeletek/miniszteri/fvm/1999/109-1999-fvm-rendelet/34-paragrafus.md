@@ -1,0 +1,5 @@
+## 33. §[^23] Bejegyzésre, illetve valamely tény feljegyzésére, adatváltozás átvezetésére irányuló kérelem vagy megkeresés részben vagy egészben történt elutasítására vonatkozó feljegyzésben fel kell tüntetni a kérelmező vagy megkereső nevét és a kérelem, illetve a megkeresés tárgyát.
+
+## Törölt jelzálogjog és önálló zálogjog ranghelyének fenntartása
+
+[^23]: A 33. § a 117/2005. (XII. 19.) FVM rendelet 13. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.

@@ -1,0 +1,1 @@
+## 103. § Ha a körzeti földhivatal a fellebbezéssel megtámadott határozatot az illetékhivatalnak is kézbesítette és azt az ügyfél fellebbezésére saját hatáskörben módosítja, az újabb határozatot az illetékhivatal részére is megküldi.

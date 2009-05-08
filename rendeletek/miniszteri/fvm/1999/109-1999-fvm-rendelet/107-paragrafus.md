@@ -1,0 +1,1 @@
+## 106. § Ha a körzeti földhivatalnak a fellebbezést követően saját hatáskörben való intézkedésre nincs lehetősége, a fellebbezést az ügyre vonatkozó iratokkal, az érintett ingatlan tulajdoni lapjának másolatával, iratjegyzékkel terjeszti fel a megyei földhivatalhoz.

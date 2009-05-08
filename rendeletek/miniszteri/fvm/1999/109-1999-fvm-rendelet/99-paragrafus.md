@@ -1,0 +1,1 @@
+## 98. § A külföldre irányuló megkeresést, továbbá a külföldi szerv vagy személy megkeresésére, illetőleg kérelmére adott választ – ha nemzetközi szerződés vagy jogszabály másként nem rendelkezik – a hatáskörrel rendelkező miniszter útján a külügyminiszterhez kell felterjeszteni.

@@ -1,0 +1,1 @@
+## Ranghely megváltoztatása
