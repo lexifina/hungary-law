@@ -1,0 +1,1 @@
+## Normatív támogatások folyósítása
