@@ -1,0 +1,1 @@
+A Kormány az Általános Vám- és Kereskedelmi Egyezmény (GATT) keretében kialakított, a Kereskedelmi Világszervezetet létrehozó Marrakesh-i Egyezmény és mellékleteinek kihirdetéséről szóló 1998. évi IX. törvény 3. §-ában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:

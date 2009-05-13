@@ -1,0 +1,9 @@
+# 103/2009. (V. 11.) Korm. rendelet
+
+a Kereskedelem Technikai Akadályairól szóló Megállapodásban előírt bejelentési és tájékoztatási kötelezettségek teljesítéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-103-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-05-13 | 2009-103-20-22.1 | 103/2009. (V. 11.) Korm. rendelet |
