@@ -1,0 +1,3 @@
+2. § (1) Az Európai Unió másik tagállamában vagy Törökországban az ott irányadó előírásoknak megfelelően előállított vagy forgalomba hozott, továbbá az Európai Gazdasági Térségről szóló megállapodásban részes – az előbbiektől eltérő – államban az ott irányadó előírásoknak megfelelően előállított árura a műszaki szabályt csak akkor kell alkalmazni, ha az adott államban irányadó előírások a műszaki szabály által érvényesíteni kívánt kényszerítő követelmény érvényesülése tekintetében nem nyújtanak a műszaki szabállyal egyenértékű védelmet.
+
+(2) Ha a védelem egyenértékűsége a műszaki szabálynak csak egy része tekintetében állapítható meg, az árunak meg kell felelnie a fennmaradó műszaki szabálynak.

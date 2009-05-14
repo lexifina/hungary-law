@@ -1,0 +1,1 @@
+Az Országgyűlés az Európai Közösség létrehozásáról szóló szerződésben, illetve az Európai Gazdasági Térségről szóló megállapodásban foglalt kötelezettségekkel összhangban, az európai közösségi jog által nem harmonizált területeken az áruk szabad áramlásának biztosítása érdekében a következő törvényt alkotja:
