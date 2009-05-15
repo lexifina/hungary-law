@@ -1,0 +1,1 @@
+26. § A Kormány, az egészségügyi miniszter, valamint a környezetvédelmi és vízügyi miniszter által a 4. § alapján kijelölt hatóságok egymásnak a 22–25. §-ban foglalt hatósági eljárásaiban szakhatóságként kölcsönösen közreműködnek.

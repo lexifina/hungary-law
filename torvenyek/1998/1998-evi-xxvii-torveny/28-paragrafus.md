@@ -1,0 +1,1 @@
+28. § A géntechnológiát hasznosító jogutód nélküli megszűnése esetén a felszámolás vagy a végelszámolás során a tevékenységgel esetlegesen okozott károk feltárása, megszüntetése érdekében a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló törvénynek a környezetvédelmi követelményekre vonatkozó rendelkezései értelemszerű alkalmazásával kell eljárni.
