@@ -1,0 +1,1 @@
+(A Magyar Köztársaság megerősítő okiratának letétbe helyezése az Egyesült Királyság Kormányánál 1948. szeptember 13-án megtörtént. A Magyar Köztársaság vonatkozásában az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete Alkotmánya 1948. szeptember 13-án lépett hatályba.)
