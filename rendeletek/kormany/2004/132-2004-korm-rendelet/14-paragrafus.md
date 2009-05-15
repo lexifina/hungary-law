@@ -1,0 +1,3 @@
+14. § (1) Amennyiben a 10., 11. vagy 13. §-ban foglalt eljárás során ellenvetés merül fel és marad fenn valamely tagállam géntechnológiai hatósága vagy a Bizottság részéről, a 2001/18/EK irányelv 18. cikke szerinti közösségi szintű határozat meghozatalára kerül sor.
+
+(2) Amennyiben közösségi szinten kedvező határozat született, a vizsgálati jelentést készítő géntechnológiai hatóság kibocsátja az engedélyt a forgalomba hozatalról, illetve az engedély megújításáról. A géntechnológiai hatóság az engedélyt továbbítja a kérelmezőhöz, és erről tájékoztatja a többi tagállamot és a Bizottságot a határozat közzétételét vagy bejelentését követő 30 napon belül.

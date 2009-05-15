@@ -1,0 +1,5 @@
+16. §[^24] (1) A közvetlen feldolgozásra szánt termékek esetében a géntechnológiával módosított szervezetek forgalomba hozatala, jelölése és csomagolása során nem kell alkalmazni a 11. § (6) bekezdésének, a 13. § (5) bekezdésének, a 14. § (2) bekezdésének és a 15. § (3) bekezdésének előírásait, amennyiben az engedélyezett géntechnológiával módosított szervezet nyomokban, 0,9%-nál nem nagyobb mértékben fordul elő, feltéve, hogy ez véletlen vagy technológiailag elkerülhetetlen szennyeződésből ered.
+
+(2) Ha egy géntechnológiával módosított szervezetet vagy géntechnológiával módosított szervezetek keverékét véletlen vagy technikailag elkerülhetetlen szennyeződésből eredően nyomokban tartalmazó, közvetlenül élelmiszerként vagy takarmányként történő felhasználásra vagy feldolgozásra szánt termék forgalomba hozatala megfelel az 1829/2003/EK rendelet 47. cikkében említett feltételeknek, akkor 2007. április 18-ig mentesül a 10–11. §, a 13–15. §, valamint a 17. § előírásai alól.
+
+[^24]: A 16. § a 15/2006. (I. 26.) Korm. rendelet 7. §-ával megállapított szöveg.

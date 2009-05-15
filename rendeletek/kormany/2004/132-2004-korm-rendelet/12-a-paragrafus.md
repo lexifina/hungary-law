@@ -1,0 +1,5 @@
+12/A. §[^22] (1) Amennyiben a géntechnológiai hatóság a kibocsátási engedélyben kibocsátás utáni nyomon követést írt elő, az erről szóló időközi, illetve záró jelentést a hasznosítónak kell – időközi nyomon követési jelentés esetében az engedélyben meghatározott ütemezésnek megfelelő időpontban, záró nyomon követési jelentés esetében az engedélyben meghatározott nyomon követési időtartam leteltét követő 30 napon belül – postai úton írásban, és lehetőség szerint elektronikus úton is megküldeni a géntechnológiai hatóság részére. Géntechnológiával módosított magasabb rendű növények esetében az időközi nyomon követési jelentést és záró nyomon követési jelentést a 2003/701/EK határozat mellékletében foglalt formanyomtatványon kell benyújtani. A 2003/701/EK határozatot a 6. számú mellékletben foglaltakkal összhangban kell alkalmazni.
+
+(2) A géntechnológiai hatóság a 2003/701/EK határozat szerinti jelentést a beérkezést követő 30 napon belül megküldi az Európai Bizottság részére a 18. § (1) bekezdésében meghatározott kapcsolattartó szerven keresztül.
+
+[^22]: A 12/A. §-t a 15/2006. (I. 26.) Korm. rendelet 5. §-a iktatta be.
