@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és a Szerb Köztársaság között a bűnüldöző szervek határokon átnyúló együttműködéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
