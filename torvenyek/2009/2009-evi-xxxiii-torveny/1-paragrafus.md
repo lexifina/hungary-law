@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Népköztársaság és a Román Szocialista Köztársaság között Bukarestben, 1973. november 28-án aláírt konzuli egyezmény módosításáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
