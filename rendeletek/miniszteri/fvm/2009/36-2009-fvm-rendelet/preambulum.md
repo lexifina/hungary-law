@@ -1,0 +1,1 @@
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (3) bekezdés a) és p) pontjában kapott felhatalmazás alapján a következőket rendelem el:

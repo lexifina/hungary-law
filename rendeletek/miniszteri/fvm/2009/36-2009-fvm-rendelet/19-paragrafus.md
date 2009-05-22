@@ -1,0 +1,1 @@
+## A jogkövetkezmények halmozódása
