@@ -1,0 +1,33 @@
+2. § (1) Az igénylő a támogatási igényt legkésőbb 2009. június 15-ig az alábbiak szerint nyújthatja be az 1. § (7) bekezdésében meghatározott módon:
+
+a) az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 64/B. § (3) bekezdésének figyelembevételével a helyi önkormányzatok a Magyar Államkincstár (a továbbiakban: Kincstár) Regionális Igazgatósága illetékes megyei szervezeti egységeihez (a továbbiakban: Igazgatóság),
+
+b) a nem állami, nem helyi önkormányzati intézmények fenntartói, valamint a központi költségvetési szervként működő felsőoktatási intézmények fenntartói az OKM Támogatáskezelő részére
+
+## papír alapon, valamint elektronikusan az erre a célra kialakított elektronikus rendszeren keresztül.
+
+(2) Az (1) bekezdésben meghatározott határidő elmulasztása jogvesztő. Az igénylés legkorábban e rendelet hatálybalépésének napjától nyújtható be.
+
+(3) A helyi önkormányzatok esetén az Igazgatóság, nem állami és nem helyi önkormányzati intézmények, valamint a központi költségvetési szervként működő felsőoktatási intézmények esetén az OKM Támogatáskezelő a határidőig benyújtott igénylések feldolgozása során szükség esetén a beérkezéstől számított öt napon belül, nyolcnapos határidővel hiánypótlásra hívja fel a támogatást igénylőt. Amennyiben a fenntartó a felhívásnak nem tesz eleget vagy nem megfelelően teljesíti azt, az Igazgatóság, illetve az OKM Támogatáskezelő a támogatási igényt elutasítja, erről 2009. július 10-ig értesíti a fenntartót és az Oktatási és Kulturális Minisztériumot (a továbbiakban: OKM).
+
+(4) Az Igazgatóság a helyi önkormányzatok által benyújtott támogatási igényeket a hiánypótlások beérkezését követően 2009. július 5-ig egy eredeti példányban megküldi az OKM Támogatáskezelőnek, egy eredeti példány az Igazgatóságnál marad.
+
+(5) Az OKM Támogatáskezelő a feldolgozott igénybejelentések alapján elkészített összesítő jelentését helyi önkormányzatok, közoktatási feladatot ellátó nem állami, nem helyi önkormányzati fenntartók, illetve központi költségvetési szervként működő felsőoktatási intézmények fenntartói szerint külön-külön összesítve, továbbá intézmény-, programtípusok és tanulói létszám szerint összesítve elektronikus formában és papír alapon, 2009. július 15-ig megküldi az OKM részére.
+
+(6) A megküldött összesítő jelentéseket hét tagból álló értékelő bizottság vizsgálja meg. A bizottság elnökét és két tagját az OKM, két tagját az OOIH, további egy tagját szakmai érdekképviseleti társadalmi szervezet, egy tagot az Önkormányzati Minisztérium (a továbbiakban: ÖM) jelöl ki. A bizottság az ügyrendjét maga állapítja meg.
+
+(7) Az értékelő bizottság a formai követelményeken túl az MKM rendelet 39/D–39/E. §-ának, valamint az 1. § rendelkezéseinek való megfelelést megvizsgálva szakmai véleményt készít, amelyben a támogatás odaítélésére, illetve elutasítására indokolt javaslatot tesz a miniszternek. Az értékelő bizottság a javaslatot 2009. július 25-ig küldi meg a miniszternek.
+
+(8) Az értékelő bizottság javaslata alapján a miniszter 2009. augusztus 3-ig dönt a támogatás odaítéléséről.
+
+(9) A támogatást elnyert önkormányzatok összesített adatait az OKM utalványozás céljából az önkormányzat KSH-kódjának, megnevezésének és a támogatási összegnek a feltüntetésével papír alapon és elektronikus formában 2009. augusztus 5-ig megküldi az ÖM részére. A támogatás folyósításáról a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény (a továbbiakban: költségvetési törvény) 5. számú mellékletének 16. pontja szerinti forrás terhére a 2009. év augusztus havi nettó finanszírozás keretében az ÖM utalványozása alapján a Kincstár intézkedik.
+
+(10) A nem állami, nem helyi önkormányzati intézményfenntartó részére megítélt támogatás folyósításáról az OKM által biztosított keretösszeg, valamint a finanszírozási adatok ismeretében az Igazgatóság a 2009. szeptember havi normatívakiutalással együtt gondoskodik. A központi költségvetési szervként működő felsőoktatási intézményfenntartó részére megítélt támogatás folyósításáról a költségvetési törvény XX. fejezet, 11. cím, 2. alcím, 17. jogcímcsoport „Gyakorlóiskolák normatív támogatása” előirányzat terhére kell gondoskodni.
+
+(11) A támogatást elnyert fenntartók összesített adatait az OKM elektronikus formában 2009. augusztus 10-ig továbbítja az OKM Támogatáskezelőnek, valamint az Igazgatóságnak. Ezt követően az OKM Támogatáskezelő értesíti a fenntartót a támogatás elfogadásáról, illetve elutasításáról.
+
+(12) Az e rendelet alapján támogatásra jogosult fenntartók által fenntartott intézmények a 2009. októberi statisztikai létszámadatok megadásával egyidejűleg az 1. § (7) bekezdése szerinti elektronikus rendszeren keresztül a 4. b. számú melléklet és az 5. b. számú melléklet kitöltésével 2009. október 15-ig kötelesek megadni a támogatásra jogosult intézmény, tagintézmény halmozottan hátrányos helyzetű gyermekekre, tanulókra vonatkozó 2009. októberi statisztikai létszámadatait, valamint a képességkibontakoztató, integrációs felkészítésben, illetve óvodai fejlesztő programban részt vevő gyermekek, tanulók létszámadatait. Amennyiben az adatszolgáltatás körében – az igénylési adatok határidőre történő benyújtása óta – fenntartóváltás következett be, a jogutód fenntartó az OOIH-tól köteles azonosítót igényelni az e § szerinti adatbejelentési kötelezettség teljesítéséhez.
+
+(13) A támogatást elnyert fenntartónak és a támogatásban részesülő intézménynek vállalnia kell, hogy – az 1. § (2) és (4) bekezdésében foglaltakra figyelemmel – a támogatott időszakra vonatkozóan 2009. szeptember 15-ig az OOIH-val és az OKM Támogatáskezelővel együttműködési megállapodást köt. Az együttműködési megállapodás alapján a nevelési év, tanév végén az intézmények és fenntartóik – a 6. számú melléklet szerint elkészített vállalásaik teljesüléséről – intézményi önértékelést és pénzügyi elszámolást kötelesek benyújtani. A központi költségvetési szervként működő felsőoktatási intézményfenntartó esetében az együttműködési megállapodásban szerződő félként az OKM is részt vesz. Az együttműködési megállapodás egy másolati példányát az OOIH 2009. október 31-ig megküldi az Igazgatóságnak. Amennyiben a vállalások teljesítése a 2009/2010. nevelési évben, tanévben nem történik meg, a benyújtásra kerülő intézményi önértékelés és a pénzügyi elszámolás nem kerül elfogadásra.
+
+(14) Az Oktatási Hivatal (a továbbiakban: OH) a támogatást elnyert fenntartók esetében ellenőrzést végez. Ha a szakmai ellenőrzés tanügy-igazgatási szabálytalanságokat tár fel, az OH hatósági ellenőrzést végez, a vizsgálat eredményeképpen kezdeményezheti a Kincstárnál a támogatás iránti jogosultság felülvizsgálatát.
