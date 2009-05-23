@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 79. §-ának (1) bekezdése c) pontjában kapott felhatalmazás alapján a Kormány a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. § (2) bekezdésének b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
