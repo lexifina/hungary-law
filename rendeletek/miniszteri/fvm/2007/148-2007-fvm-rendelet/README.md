@@ -1,0 +1,9 @@
+# 148/2007. (XII. 8.) FVM rendelet
+
+az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-148-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-05-23 | 2007-148-20-82.7 | 148/2007. (XII. 8.) FVM rendelet |
