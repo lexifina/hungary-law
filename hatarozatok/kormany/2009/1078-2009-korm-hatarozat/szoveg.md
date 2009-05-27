@@ -1,0 +1,1 @@
+A Kormány tudomásul veszi, hogy a pénzügyminiszter az államháztartásról szóló 1992. évi XXXVIII. törvény 108/A. §-ában foglalt felhatalmazás alapján a bemutatott szövegnek megfelelő tartalommal Megállapodást kössön Kambodzsával, Kambodzsa Magyarországgal szemben fennálló adóssága konszolidálásáról és rendezéséről.
