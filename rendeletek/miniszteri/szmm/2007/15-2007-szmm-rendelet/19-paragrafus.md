@@ -1,0 +1,1 @@
+## 18. § Pályázati eljárás alapján támogatás nyújtható a szakképzési hozzájárulásra kötelezett részére a felnőttképzés érdekében végzett, a 2. § b) pontjának ba)–bb), bd)–be) és bi) alpontjaiban meghatározott olyan fejlesztő tevékenységhez, amelynek eredménye mindenki által hozzáférhető.

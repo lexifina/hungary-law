@@ -1,0 +1,1 @@
+## 4. § Egyedi döntés alapján támogatás nyújtható a Kormány vagy a Szociális és Munkaügyi Minisztérium (a továbbiakban: Minisztérium) által indított, egyes munkavállalói rétegek munkaerőpiaci helyzetének javítását szolgáló programhoz, az abban részt vevő felnőtt foglalkoztatásának elősegítéséhez szükséges képzés díjának részben vagy egészben történő megtérítésére.

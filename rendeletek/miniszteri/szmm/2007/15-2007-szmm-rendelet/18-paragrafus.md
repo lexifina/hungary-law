@@ -1,0 +1,1 @@
+## 17. § Pályázati eljárás alapján támogatás nyújtható az Szht. 2. §-ának (1)–(2) bekezdésében meghatározott szakképzési hozzájárulásra kötelezett (a továbbiakban: szakképzési hozzájárulásra kötelezett) részére, az általa foglalkoztatott munkavállaló külső, illetve belső képzés formájában szervezett általános és speciális képzéséhez.
