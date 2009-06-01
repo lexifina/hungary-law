@@ -1,0 +1,1 @@
+5. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 12. § (1) bekezdésében a „Nemzetközi szerződés alapján más” szövegrész helyébe a „Más” szöveg, (2) bekezdésében a „Nemzetközi szerződés alapján a” szövegrész helyébe az „A” szöveg lép.
