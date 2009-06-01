@@ -1,0 +1,7 @@
+11. § (1) Az Szht. melléklet 1. d) pontja alapján a kedvezményes étkeztetés költsége, ideértve az iskolai rendszerű szakképzésben részt vevő tanulók juttatásairól szóló 4/2002. (II. 26.) OM rendelet [a továbbiakban: 4/2002. (II. 26.) OM rendelet] 3. § (4) bekezdésében foglaltakat, havonta a gyakorlati képzési napok arányában számolható el. Saját konyha üzemeltetése esetén a költségek elszámolása a gyakorlati képzési napokra közvetlen önköltségen történik.
+
+(2) Az Szht. melléklet 1. d) pontjában szereplő vizsgáztatás költségeként csak a 4/2002. (II. 26.) OM rendelet 4. § (1) bekezdésében meghatározott útiköltség számolható el számla alapján.
+
+(3) A hozzájárulásra kötelezett az általa – az Szt. 15. § (5) bekezdése alapján – megszervezett szintvizsgával kapcsolatban kettő közreműködő szakértő díjazását számolhatja el igazolt költségként a szakképzési hozzájárulás teljesítésénél a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló 316/2005. (XII. 25.) Korm. rendelet 2. § (1) bekezdés c) pontja szerinti kötelező legkisebb személyi alapbér legfeljebb 2 százalékának mértékéig szakértőnként és vizsgázónként.
+
+(4) Az Szht. melléklet 5. pontjában meghatározott főállású oktató, szakoktató részére biztosított, akkreditált szakmai, pedagógiai képzés költsége a külön jogszabályban meghatározott saját dolgozó képzési költségeinek elszámolására vonatkozó előírásoknak megfelelően, az Szht. 4. § (3) bekezdésében meghatározott mértékén felül számolható el.
