@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme négyzet alakú, 75% réz és 25% nikkel ötvözetéből készült, súlya 14 gramm, szélessége 28,43 mm, széle sima.
+
+(2) Az emlékérme előlapján, a középmezőben a Bánki- féle vízturbina stilizált ábrázolása látható. A vízturbina ábrázolása alatti vízszintes sorokban a „MAGYAR” és a „KÖZTÁRSASÁG” felirat, a vízturbina ábrázolása felett az „1000” értékjelzés és a „FORINT” felirat olvasható. A vízturbina ábrázolása mellett, az emlékérme bal oldali peremével párhuzamosan a „2009” verési évszám, az emlékérme jobb oldali peremével párhuzamosan pedig a „BP.” verdejel olvasható. Az emlékérme előlapjának képét e rendelet 1. melléklete tartalmazza.
+
+(3) Az emlékérme hátlapján Bánki Donát portréja látható. A portré fölött a „BÁNKI DONÁT” felirat olvasható. A portrétól jobbra, egymás alatti vízszintes sorokban az „1859–1922”, az „A BÁNKI-FÉLE”, a „VÍZTURBINA”, és a „FELTALÁLÓJA” felirat olvasható, a jobb alsó sarokban pedig Bitó Balázs tervezőművész mesterjegye található. Az emlékérme hátlapjának képét e rendelet 2. melléklete tartalmazza.
