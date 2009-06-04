@@ -1,0 +1,808 @@
+# A Kormány 116/2009. (VI. 4.) Korm. rendelete
+
+Magyar Közlöny 2009. évi 76. szám, 2009. június 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/99285bc7640c02343704c7af32e3560a8fc5bd7a/dokumentumok/5aba7144f6fc30f8bc997421645102f0ff118d53/letoltes)
+
+---
+
+A Kormány
+116/2009. (VI. 4.) Korm.
+rendelete
+a Közép-Európai Felsőoktatási Csereprogramról
+(CEEPUSII) szóló egyezménynek a Miniszterek
+Közös Bizottság által 2007. március 16-án Zágrábban
+módosított és 2008. február 29-én Szófiában
+jóváhagyott egységes szerkezetű szövege
+kihirdetéséről
+1. §
+A Kormány e rendelettel felhatalmazást ad a Közép-
+Európai Felsőoktatási Csereprogramról (CEEPUSII) szóló
+egyezménynek a Miniszterek Közös Bizottsága által 2007.
+március 16-án Zágrábban módosított és 2008. február
+29-én Szófiában jóváhagyott egységes szerkezetű szövege
+(a továbbiakban: egyezmény) kötelező hatályának elisme-
+résére.
+2. §
+A Kormány az egyezményt e rendelettel kihirdeti.
+3. §
+Az egyezmény hiteles szövege és annak hivatalos ma-
+gyar nyelvű fordítása a következő:
+„Agreement between the Republic of Albania,
+the Republic of Austria, the Republic of Bulgaria,
+Bosnia and Herzegovina, the Republic of Croatia,
+the Czech Republic, the Republic of Hungary,
+the Republic of Macedonia, Montenegro,
+the Republic of Poland, Romania, the Republic
+of Serbia, the Slovak Republic and the Republic
+of Slovenia promoting cooperation in the field
+of higher education within the framework
+of the Central European Exchange Programme for
+University Studies („CEEPUS II”)1
+the Republic of Albania, the Republic of Austria, the
+Republic of Bulgaria, Bosnia and Herzegovina, the
+Republic of Croatia, the Czech Republic, the Republic of
+Hungary, the Republic of Macedonia, Montenegro, the
+Republic of Poland, Romania, the Republic of Serbia, the
+Slovak Republic and the Republic of Slovenia hereinafter
+referred to as the „Contracting Parties”, have agreed as
+follows:
+1 As revised by the Joint Committee of Ministers on March 16, 2007.
+Article 1
+Cooperation between the Contracting Parties shall be
+promoted in the field of higher education, in particular
+inter-university cooperation and mobility in the context of
+the implementation of CEEPUS II. The actions of the
+CEEPUS II programme are set out in Annex I which forms
+an integral part of the present Agreement.
+Article 2
+(1) For the purpose of the present Agreement, the terms
+„University” applies to an establishment providing higher
+education and being recognized by the competent
+authority of a Contracting Party as belonging to its system
+of higher education.
+Each Contracting Party shall yearly provide a list of
+universities eligible for CEEPUS II.
+(2) For the purpose of the present Agreement, the term
+„academic year” applies to the period of time from
+September 1st until August 31st of the following year.
+(3) Students registered at universities, regardless of the
+field of study, are eligible for support within the CEEPUS
+II programme, up to and including doctoral or post
+graduate level, provided that the period of study or training
+carried out in accordance with the present Agreement at a
+host university or a host establishment, which is
+compatible with the curriculum at the student’s home
+university, forms part of his or her university studies.
+Furthermore, the CEEPUS II programme shall support
+the mobility of teaching staff of universities to promote
+transnational inter-university cooperation and to enhance
+the Central European dimension of university curricula.
+The CEEPUS II programme shall not cover research
+and technological development activities.
+Article 3
+(1) A Joint Committee of Ministers, each of them
+representing one of the Contracting Parties, is hereby
+established. The Joint Committee of Ministers shall be
+responsible for all steps and decisions necessary to ensure
+the implementation and promotion of the CEEPUS II
+programme and for the approval of evaluation reports and
+the restructuring of the programme.
+(2) The Joint Committee of Ministers shall meet at least
+once a year. Ministers unable to attend a meeting shall be
+represented by their high officials. The Joint Committee of
+Ministers may establish a panel of their high officials to
+decide on those issues which the Joint Committee of
+Ministers has deferred to them in preparation of the next
+meeting of the Joint Committee of Ministers.
+
+(3) The Joint Committee of Ministers shall elect one of
+its members to act as chair for a period of one year.
+(4) The Joint Committe of Ministers shall make every
+effort to reach agreement by consensus regarding all
+decisions to ensure the implementation and promotion of
+the programme as described in Annex I. Should consensus
+not be attainable, the matter shall be subject to decision by
+two-thirds majority of the members Joint Committee of
+Ministers present and voting.
+(5) Concerning the annual budget of all Contracting
+Parties and their exchange quotas, i.e. the number of
+scholarship months per academic year to facilitate the
+actions described in Annex I each Contracting Party shall
+make a pledge. The Joint Committee of Ministers takes a
+final unanimous overall decision on all pledges.
+Article 4
+(1) All decisions concerning the selection of projects
+described in Annex I (Actions 1–3) shall be made by the
+Joint Committee of Ministers, or by a panel of high
+officials, as described in Article 3. Academics or other
+experts shall be consulted to support the selection process.
+(2) After entry into force of the present Agreement, each
+Contracting Party shall nominate a National CEEPUS
+Office with the following responsibilities and notify the
+Joint Committee of Ministers thereof:
+– advertising in order to promote the programme in
+close cooperation with the Central CEEPUS Office and
+the other National CEEPUS Offices;
+– receipt of applications;
+– preparation of the awarding of scholarships to
+applicants;
+– securing of a place to study for incoming scholarship
+holders;
+– awarding scholarships (as described in Annex I under
+Action 4);
+– organizing scholarship payment;
+– receipt of reports;
+– carrying out national evaluation of the programme;
+– annual reports.
+(3) Each Contracting Party shall take measures to ensure
+that its National CEEPUS Office shall have at its disposal
+the necessary means to enable them to fulfill its functions.
+Article 5
+(1) A Central CEEPUS Office shall be established in
+Vienna. The Central CEEPUS Office shall have such legal
+capacity as may be necessary for the exercise of its
+functions. The Central CEEPUS Office, its staff and
+representatives of the Contracting Parties to the Central
+CEEPUS Office shall enjoy such privileges and
+immunities as are necessary for their functions.
+(2) The Secretary General of the Central CEEPUS
+Office shall be elected by a two thirds majority of the Joint
+Committee of Ministers for a period of seven years upon
+proposition by the Republic of Austria. The Secretary
+General may be recalled before the end of his/her term by
+unanimous decision of the Joint Committee of Ministers.
+(3) The necessary infrastructure, including the salaries
+of the Secretary General and the staff, of the Central
+CEEPUS Office shall be financed by the Republic of
+Austria. Each Contracting Party is entitled to dispatch
+additional staff to the office at their own expense.
+The Secretary General shall lay down the rules of
+procedure of the Central CEEPUS Office and notify the
+Joint Committee of Ministers thereof.
+(4) The Central CEEPUS Office shall serve solely as a
+coordinating and evaluating facility, whereas the
+Contracting Parties shall retain full power over their
+national budget designated for mobility and exchange
+actions described in Annex I.
+(5) The Central CEEPUS Office shall furthermore:
+– be responsible for the development of a joint public
+relations strategy for the programme and advise the
+Contracting Parties on informative issues;
+– publish information on the Contracting Parties’
+universities in order to promote academic mobility among
+them;
+– take over responsibility for the preparation of an
+annual progress report and carry out the overall evaluation
+of the CEEPUS II programme;
+– submit proposals for further programme
+development;
+– be responsible for preparation and organisation as
+well as keeping the minutes of the meetings of the Joint
+Committee of Ministers;
+– upon request support the implementation of the
+decisions agreed upon by the Joint Committee of
+Ministers.
+Article 6
+(1) The Contracting Parties shall make all efforts to
+abstain from any restrictions concerning the free
+movement and residence of individuals participating in
+mobility actions covered by the present Agreement.
+(2) The Contracting Parties agree to take the measures
+they consider appropriate in the framework of their
+national law so as to eliminate all administrative and
+financial obstacles to acquiring visa and/or residence
+permits for CEEPUS II scholarship holders.
+Article 7
+(1) The present Agreement shall remain in force for a
+period of seven years. It may be renewed for a further
+period upon agreement of the Contracting Parties. A
+
+review of the present Agreement shall be completed before
+the end of the fourth academic year after entry into force.
+This review shall be based on an overall evaluation of the
+CEEPUS II programme.
+(2) Each Contracting Party may at any time request a
+revision of the present Agreement. For this purpose, it
+shall submit a written request to the chairman of the Joint
+Committee of Ministers and the other Contracting Parties.
+All decisions concerning the revision of the present
+Agreement shall be made by unanimous decision of the
+Joint Committee of Ministers.
+Article 8
+(1) The present Agreement shall be open for signature at
+Zagreb, Croatia, from March 9th, 2003 until March 9th,
+2003 by the Republic of Austria, the Republic of Bulgaria,
+the Republic of Croatia, the Czech Republic, the Republic
+of Hungary, the Republic of Poland, Romania, the Slovak
+Republic and the Republic of Slovenia. It shall thereafter
+be open for accession.
+(2) The present Agreement and revisions thereof shall
+be subject to approval by the Contracting Parties and the
+documents of approval shall be deposited with the
+Hungarian Ministry of Education, referred to in this
+Agreement as „the Depositary”.
+(3) The present Agreement shall enter into force upon
+the first day of the third month following the deposit of the
+documents of approval by not less than three Contracting
+Parties.
+(4) Any State not mentioned in para. 1 may accede
+thereto by unanimous invitation by the Joint Committee of
+Ministers. Any State wishing to become a Contracting
+Party may notify the Depositary in writing of this
+intention.
+(5) The Depositary shall inform all Contracting Parties
+of all notifications and documents of approval received.
+(6) For any State which has become a Contracting Party
+after entry into force of the present Agreement full
+participation in programme activities as laid down in
+Annex I shall take place in accordance with the provisions
+unanimously decided upon by the Joint Committee of
+Ministers.
+Article 9
+At any time a Contracting Party may withdraw from the
+present Agreement by giving written notice to the
+Depositary. Any such withdrawal shall take effect upon
+expiry of at least 6 months from the date of receipt by the
+Depositary of the notification of withdrawal; however, the
+Joint Committee of Ministers may lay down a period
+longer than 6 but less than 12 months for the entry into
+force of the withdrawal notified.
+Article 10
+(1) Any dispute between two or more Contracting
+Parties, or between any of them and the Central CEEPUS
+Office, concerning the interpretation or application of the
+present Agreement or its Annex, which cannot be settled
+by the Joint Committee of Ministers, shall, at the request of
+any party to the dispute, be submitted to arbitration.
+(2) The arbitration tribunal shall consist of a minimum
+of three members. Each party to the dispute shall nominate
+one arbitrator each; the first two arbitrators shall nominate
+the third arbitrator, who shall be the chair of the arbitration
+tribunal.
+(3) The arbitration tribunal shall determine its seat and
+establish its own rules of procedure.
+(4) The award of the arbitration tribunal shall be made
+by a majority of its members, who may not abstain from
+voting. This award shall be final and binding on all parties
+to the dispute and no appeal shall lie against it. The parties
+shall comply with the award without delay. In the event of
+a dispute as to its meaning or scope, the arbitration tribunal
+shall interprete it at the request of any party to the dispute.
+Article 11
+The original of the present Agreement and its revision,
+of which the English text is authentic, shall be deposited
+with the Depositary.
+CEEPUS II: Annex I
+The Contracting Parties shall develop and promote a
+Central European University Network made up of various
+individual networks. This network is designed to stimulate
+academic mobility, in particular student mobility within
+Central Europe, and to promote Central European
+university cooperation and the development of joint
+programmes ideally leading to double or joint degrees.
+All CEEPUS II Actions except for the Freemover
+scholarships take place in the framework of CEEPUS II
+networks as described in Action 1.
+CEEPUS II shall give priority to networks developing
+their cooperation into joint programmes or developing
+new joint programmes. The Joint Committee of Ministers
+will monitor the progress achieved within the Bologna
+Process in this respect and adapt the CEEPUS II priorities
+accordingly.
+
+Action 1
+Establishment and Operation of a Central European
+University Network
+1) A network shall comprise at least three universities,
+two of them belonging to different Contracting Parties,
+although networks specializing in the development of joint
+programmes may comprise only two universities of
+different Contracting Parties for an initial phase to be
+specified by the Joint Committee of Ministers. However,
+priority shall be given to networks consisting of more than
+two universities of different Contracting Parties.
+2) Any university desiring to participate in a CEEPUS II
+network shall meet the following requirements:
+a) Periods of study or training completed at one
+participating university or host establishment shall be fully
+recognized at the partner universities.
+b) Mutual recognition within the network shall be
+foreseen. ECTS (European Credit Transfer System) or
+compatible systems shall be applied. In the case of
+students working on their theses or dissertations this might
+be replaced by a statement of both the advisor of the home
+and of the host university that the study abroad period
+served the purpose of working towards a thesis or
+dissertation, respectively.
+c) In order to facilitate academic mobility, CEEPUS II
+courses and/or lectures shall be held also in English,
+German or French, respectively.
+The Contracting Parties agree to promote professional
+language courses by awarding scholarship months for
+preparatory professional language courses in English,
+German or French, offered by the respective networks.
+Accompanying language courses in the language of the
+host country might be offered where possible.
+d) A student studying within the CEEPUS II framework
+shall be exempt from any registration and/or tuition fees
+whatsoever.
+Action 2
+Intensive Courses
+The Contracting Parties agree to promote intensive
+courses under the provision that
+1) these courses are designed to attract participants from
+as many Contracting Parties as possible, including the host
+country. Participants are defined as students and/or
+lecturers, visiting professors and teaching staff.
+2) these courses are classified as
+summerschools over a period of at least 10 working
+days dedicated to a specific topic, provided they carry
+credit points;
+intensive training courses over a period of at least
+10 working days for young teaching staff.
+3) Congresses and similar events are explicitly
+excluded.
+Action 3
+Student Excursions
+The Contracting Parties agree to promote student
+excursions under the provision that these excursions carry
+credit points and
+1) serve a scientific/artistic purpose and make use of a
+specific part of the infra-structure of the host country; or
+2) serve a scientific/artistic purpose and are jointly
+organized.
+Action 4
+Student and Teacher Mobility Scholarship Scheme
+1) The Contracting Parties agree to award individual
+scholarships to students participating in the CEEPUS II
+activities described under Action 1–3.
+2) Scholarships shall also be awarded to lecturers,
+visiting professors and teaching staff, provided that they
+contribute to transnational university cooperation and/or
+appropriate training measures. Lecturers, visiting
+professors and teaching staff shall carry a workload of at
+least 6 teaching hours a week at the host university.
+3) Scholarships shall also be awarded to students and
+graduates for practical training at a commercial enterprise,
+research facility or governmental institution in the host
+country, provided that a definite and structured proposal is
+made.
+4) Student scholarhips for regular semester activities
+shall be awarded for a minimum of 3 months and a
+maximum of 10 months. Shorter stays shall only be
+permitted for students working on their theses or
+dissertations.
+5) CEEPUS II scholarships may also be awarded to
+students enrolled at an eligible CEEPUS II university for
+whom special arrangements for studying have been made
+outside a CEEPUS II network (Freemovers).
+6) CEEPUS II scholarships are „comprehensive”
+scholarships, i.e. intended to cover the cost of living,
+expenses for laboratory fees according to general usage in
+the host country where applicable, housing and basic
+medical insurancewhere applicable during the stay in a
+host country. CEEPUS II scholarships shall be linked to
+the cost of living in the respective host country and shall be
+safeguarded against inflation.
+
+7) Since there is no transfer of funds, CEEPUS II
+scholarships shall be paid by the host country, with the
+exception of travel allowances, which shall be paid by the
+country of origin where applicable.
+8) The CEEPUS II currency is defined as „one
+scholarship month”. All Contracting Parties shall
+announce their quotas for the following academic year in
+yearly intervals. The minimum requirement shall be 100
+scholarship months.
+9) CEEPUS II shall not cover overhead costs or
+expenses related to organisational purposes.
+Egyezmény az Albán Köztársaság, az Osztrák
+Köztársaság, a Bolgár Köztársaság, Bosznia
+és Hercegovina a Horvát Köztársaság, a Cseh
+Köztársaság, a Magyar Köztársaság, a Macedon
+Köztársaság, Montenegro, a Lengyel Köztársaság,
+Románia, a Szerb Köztársaság, a Szlovák
+Köztársaság és a Szlovén Köztársaság között
+a felsőoktatási együttműködés támogatása érdekében
+a Közép-Európai Felsőoktatási Csereprogram
+(CEEPUS II.) keretei között2
+Az Albán Köztársaság, az Osztrák Köztársaság, a Bol-
+gár Köztársaság, Bosznia és Hercegovina, a Horvát Köz-
+társaság, a Cseh Köztársaság, a Magyar Köztársaság,
+a Macedon Köztársaság, Montenegro, a Lengyel Köztár-
+saság, Románia, a Szerb Köztársaság, a Szlovák Köztár-
+saság és a Szlovén Köztársaság (a továbbiakban: Szerződő
+Felek) a következőkben állapodtak meg:
+1. cikk
+A Szerződő Felek a CEEPUS II. program végrehajtása
+keretében támogatják az együttműködést a felsőoktatás
+terén, különös tekintettel az egyetemközi együttműködés-
+re és a mobilitásra. A CEEPUS II. program részprogram-
+jait a jelen Egyezmény szerves részét képező I. számú
+Melléklet tartalmazza.
+2. cikk
+(1) A jelen Egyezmény alkalmazásában „Egyetemnek”
+az az intézmény minősül, amely felsőoktatási képzést foly-
+tat, és amelyet valamelyik Szerződő Fél illetékes hatósága
+az adott ország felsőoktatási rendszerébe tartozónak ismer
+el. Minden Szerződő Fél évente összeállítja azon Egyete-
+mek felsorolását, amelyek a CEEPUS II. programban részt
+vehetnek.
+(2) A jelen Egyezmény alkalmazásában „Tanévnek”
+a szeptember 1-jétől a következő év augusztus 31-ig tartó
+időszak minősül.
+2 A Miniszterek Közös Bizottsága által 2007. március 16-án módosítva.
+(3) Az Egyetemek beiratkozott hallgatói, tekintet nélkül
+arra, hogy milyen szakon folytatják tanulmányaikat
+(ideértve a doktori vagy posztgraduális tanulmányokat is)
+a CEEPUS II. program keretein belül támogatásban része-
+síthetőek. A támogatás igénybevételének feltétele, hogy
+a hallgató egyetemi tanulmányainak részét képezze az
+a résztanulmány vagy az a részképzés, amelyet a jelen
+Egyezmény alapján valamely fogadó Egyetemen vagy
+intézményben teljesít, továbbá hogy a résztanulmány vagy
+részképzés összeegyeztethető legyen a hallgató otthoni
+egyetemi tanulmányainak tantervével. A CEEPUS II.
+program támogatja továbbá az egyetemi oktatók mobilitá-
+sát a transznacionális egyetemközi együttműködés előse-
+gítése, valamint az egyetemi tantervek közép-európai
+dimenziójának erősítése érdekében. A CEEPUS II. prog-
+ram nem támogat kutatási vagy technológiafejlesztési
+tevékenységet.
+3. cikk
+(1) A jelen cikk szerint létrejön a Miniszterek Közös
+Bizottsága, amelyben minden egyes Szerződő Felet egy
+tag képvisel. A Miniszterek Közös Bizottságának feladata
+egyrészről a CEEPUS II. program végrehajtása és elősegí-
+tése érdekében szükséges valamennyi intézkedés és döntés
+meghozatala, másrészről a CEEPUS II. programot érté-
+kelő jelentések jóváhagyása, illetve a program szerkezeté-
+nek átalakítása.
+(2) A Miniszterek Közös Bizottsága évente legalább
+egyszer ülésezik. Azt a minisztert, aki nem tud részt venni
+a bizottság ülésén, magas rangú képviselője helyettesíti.
+A Miniszterek Közös Bizottsága létrehozhat egy magas
+rangú képviselőkből álló testületet. A testület a Miniszte-
+rek Közös Bizottsága soron következő ülésének előké-
+szítése során olyan ügyben hozhat döntést, amellyel a
+Miniszterek Közös Bizottsága megbízta.
+(3) A Miniszterek Közös Bizottsága egyéves időtartam-
+ra megválasztja egyik tagját az elnöki tisztség betöltésére.
+(4) A Miniszterek Közös Bizottsága minden erőfeszítést
+megtesz annak érdekében, hogy a CEEPUS II. program-
+nak az I. számú Melléklet szerint történő végrehajtása és
+elősegítése érdekében szükséges valamennyi intézkedést
+és döntést egyhangúlag hozzon meg. Abban az esetben, ha
+nem lehetséges egyhangú döntést elérni, a döntéshez a
+Miniszterek Közös Bizottsága jelenlévő és szavazásban
+részt vevő tagjainak kétharmados többsége szükséges.
+(5) Minden Szerződő Fél évente felajánlást tesz a prog-
+ram éves költségvetési támogatására és a Cserekvótára.
+Jelen Egyezmény alkalmazásában Cserekvótának azon
+ösztöndíjhónapok száma minősül, amely egy Tanév alatt
+vehető igénybe, és amely az I. számú Mellékletben megha-
+tározott részprogramok végrehajtását szolgálja. A Minisz-
+terek Közös Bizottsága a felajánlásokról szóló végső dön-
+tését egyhangúlag hozza meg.
+
+4. cikk
+(1) Az I. számú Melléklet 1–3. számú részprogramjának
+megvalósítására irányuló projektek kiválasztásáról szóló
+döntés a Miniszterek Közös Bizottságának vagy a 3. cikk-
+ben meghatározott magas rangú képviselők testületének
+a hatáskörébe tartozik. A projektek kiválasztásáról szóló
+döntés elősegítése érdekében azonban egyetemi oktatók
+vagy más szakértők véleményét is ki kell kérni.
+(2) A jelen Egyezmény hatálybalépését követően min-
+den Szerződő Fél kijelöl egy Nemzeti CEEPUS Irodát,
+amelyről értesíti a Miniszterek Közös Bizottságát is.
+A Nemzeti CEEPUS Iroda feladatai a következők:
+– a program támogatása érdekében mind szélesebb
+nyilvánosság elérése, szorosan együttműködve a Központi
+CEEPUS Irodával és a többi Nemzeti CEEPUS Irodával;
+– a pályázatok fogadása;
+– az ösztöndíjak pályázók részére történő odaítélésé-
+nek előkészítése;
+– a képzést nyújtó intézmény biztosítása a más ország-
+ból érkező ösztöndíjasok számára;
+– az ösztöndíjak odaítélése (az I. számú Melléklet
+4. számú részprogramja esetében);
+– az ösztöndíjak kifizetésének megszervezése;
+– a jelentések kézhezvétele;
+– a program nemzeti értékelésének elkészítése;
+– az éves jelentések elkészítése.
+(3) A Szerződő Felek intézkedéseket hoznak annak biz-
+tosítása érdekében, hogy a Nemzeti CEEPUS Irodák ren-
+delkezzenek a feladataik ellátásához szükséges erőforrá-
+sokkal.
+5. cikk
+(1) A jelen cikk szerint Bécsben létrejön a Központi
+CEEPUS Iroda. A Központi CEEPUS Iroda olyan jogkör-
+rel rendelkezik, amely szükséges feladatai ellátásához.
+A Központi CEEPUS Iroda és annak munkatársai, vala-
+mint a Szerződő Feleknek a Központi CEEPUS Irodához
+delegált képviselői olyan kiváltságokat és mentességeket
+élveznek, amelyek feladataik ellátásához szükségesek.
+(2) A Központi CEEPUS Iroda főtitkárát az Osztrák
+Köztársaság javaslata alapján a Miniszterek Közös Bizott-
+sága kétharmados többségi szavazattal választja meg hét-
+éves időtartamra. A főtitkár – mandátumának lejárta előtt –
+a Miniszterek Közös Bizottságának egyhangú döntése
+alapján menthető fel.
+(3) A Központi CEEPUS Iroda szükséges infrastruktú-
+rájának a költségeit, beleértve a főtitkár és a munkatársak
+illetményét is, az Osztrák Köztársaság fizeti. A Szerződő
+Feleknek joguk van saját költségükre további munkatársa-
+kat küldeni az irodába. A főtitkár határozza meg a Köz-
+ponti CEEPUS Iroda működési szabályait, amelyekről tá-
+jékoztatja a Miniszterek Közös Bizottságát.
+(4) A Központi CEEPUS Iroda kizárólag koordinátori
+és értékelési feladatokat lát el, míg a Szerződő Felek fenn-
+tartják az I. számú Mellékletben meghatározott mobilitás-
+ra és hallgatói/oktatói cserére fordítandó nemzeti költség-
+vetésük feletti önálló jogkörüket.
+(5) A Központi CEEPUS Iroda feladata továbbá:
+– a program közös külső kommunikációs stratégiájá-
+nak fejlesztése, valamint a Szerződő Felek részére történő
+tanácsadás tájékoztatási ügyekben;
+– információnyújtás a Szerződő Felek Egyetemeiről,
+elősegítve ezzel az intézmények közötti akadémiai mobi-
+litást;
+– a CEEPUS II. éves működési jelentésének elkészí-
+tése, valamint CEEPUS II. program általános értékelése;
+– javaslat a programok továbbfejlesztésére;
+– a Miniszterek Közös Bizottsága üléseinek előkészí-
+tése, megszervezése és a jegyzőkönyv vezetése;
+– külön felhatalmazás alapján a Miniszterek Közös
+Bizottsága által meghozott döntések végrehajtásának elő-
+segítése.
+6. cikk
+(1) A Szerződő Felek megtesznek minden erőfeszítést
+annak érdekében, hogy tartózkodjanak valamennyi olyan
+korlátozástól, amely megakadályozhatja azon személyek
+szabad mozgását és az adott országban való tartózkodását,
+akik a jelen Egyezményben meghatározott mobilitási rész-
+programokban vesznek részt.
+(2) A Szerződő Felek megállapodnak abban, hogy nem-
+zeti jogrendszerük keretein belül megteszik az általuk
+megfelelőnek tartott intézkedéseket annak érdekében,
+hogy elhárítsák azokat az adminisztratív és pénzügyi aka-
+dályokat, amelyek a CEEPUS II. programban részt vevő
+ösztöndíjasok számára szükséges vízumok és tartózkodási
+engedélyek megszerzésének útjában állnak.
+7. cikk
+(1) A Jelen Egyezmény hatályának időtartama hét év.
+A Szerződő Felek megállapodása esetén az Egyezmény
+további időtartamra meghosszabbítható. A jelen Egyez-
+mény hatálybalépését követő negyedik Tanév befejezése
+előtt az Egyezményről beszámolót kell készíteni. Ez a be-
+számoló a CEEPUS II. program átfogó értékelésén alap-
+szik.
+(2) Bármelyik Szerződő Fél kérheti a jelen Egyezmény
+módosítását. Ennek érdekében a javaslatot írásban kell be-
+nyújtani a Miniszterek Közös Bizottsága elnökének és
+a többi Szerződő Félnek. A jelen Egyezmény módosítását
+érintő valamennyi döntést a Miniszterek Közös Bizottsága
+egyhangúan hozza meg.
+
+8. cikk
+(1) Jelen Egyezmény aláírására Zágrábban, Horvátor-
+szágban kerül sor 2003. március 9-én az Osztrák Köztársa-
+ság, a Bolgár Köztársaság, a Horvát Köztársaság, a Cseh
+Köztársaság, a Magyar Köztársaság, a Lengyel Köztársa-
+ság, Románia, a Szlovák Köztársaság és a Szlovén Köztár-
+saság által. Ezt követően kerülhet sor további csatlako-
+zásra.
+(2) A jelen Egyezmény és annak módosítása a Szerződő
+Felek utólagos jóváhagyására szorul. Az utólagos jóvá-
+hagyást tanúsító nyilatkozatot Magyarország Oktatási
+Minisztériumához kell eljuttatni (a jelen Egyezmény
+alkalmazásában: Letéteményes).
+(3) A jelen Egyezmény hatálybalépésének időpontja az
+azt a napot követő harmadik hónap első napja, amelyen
+legalább három Szerződő Fél eljuttatja a Letéteményeshez
+az utólagos jóváhagyást tanúsító nyilatkozatot.
+(4) A Miniszterek Közös Bizottsága egyhangú meg-
+hívására bármely, az (1) bekezdésben nem említett állam
+csatlakozhat az Egyezményhez. Az az állam, amely Szer-
+ződő Fél kíván lenni, a Letéteményest erről a szándékáról
+írásban értesítheti.
+(5) A Letéteményes tájékoztatja a Szerződő Feleket
+a beérkezett értesítésekről és az utólagos jóváhagyást tanú-
+sító nyilatkozatok kézhezvételéről.
+(6) Azon állam esetében, amely a jelen Egyezmény
+hatálybalépését követően vált Szerződő Féllé, az I. számú
+Mellékletben meghatározott részprogramokba történő tel-
+jes körű bekapcsolódás azon rendelkezések szerint tör-
+ténik, amelyeket a Miniszterek Közös Bizottsága egyhan-
+gúan meghatározott.
+9. cikk
+A jelen Egyezményt bármely Szerződő Fél a Letétemé-
+nyeshez intézett írásbeli nyilatkozatával felmondhatja.
+A felmondás a felmondásról szóló nyilatkozatnak a Leté-
+teményes által történt kézhezvételétől számított legalább
+hat hónap elteltével lép hatályba. A Miniszterek Közös
+Bizottsága azonban hat hónapnál hosszabb, de tizenkét
+hónapnál rövidebb időtartamot is megállapíthat a felmon-
+dás hatálybalépésére.
+10. cikk
+(1) Két vagy több Szerződő Fél közötti, illetve bármely
+Szerződő Fél és a Központi CEEPUS Iroda közötti olyan
+vita esetén, amely a jelen Egyezmény vagy Mellékletének
+értelmezéséről vagy alkalmazásáról szól, és amelyet a
+Miniszterek Közös Bizottsága nem tud rendezni, a vitában
+részt vevő bármelyik Fél kérésére választottbírósági eljá-
+rásnak van helye.
+(2) A választottbíróságnak legalább három tagja van.
+Minden Fél kijelöl egy-egy választottbírót, az első két
+választottbíró választja meg a harmadik választottbírót,
+aki a választottbíróság elnöke lesz.
+(3) A választottbíróság eljárásának helyét és eljárási
+szabályait maga határozza meg.
+(4) A választottbíróság határozatát tagjainak többségi
+szavazata alapján hozza meg, a választottbíróság tagjai
+a határozathozatalkor nem tartózkodhatnak. A választott-
+bíróság határozata végleges és kötelező. A határozat ellen
+fellebbezésnek nincs helye, a vitában részes feleknek a
+határozatban foglaltaknak késedelem nélkül eleget kell
+tenniük. Amennyiben vita merül fel a határozat értelmezé-
+se vagy terjedelme tekintetében, a választottbíróság a vitá-
+ban részes bármely fél kérésére határozatát értelmezi.
+11. cikk
+A jelen Egyezmény eredeti példányát és annak módosí-
+tását, amelyeknek angol nyelvű szövege a hiteles, a Letéte-
+ményesnél kell elhelyezni.
+1. számú melléklet
+A Szerződő Felek létrehoznak és támogatnak egy kü-
+lönböző, egymástól független hálózatokból felépülő Kö-
+zép-európai Egyetemi Hálózatot. E hálózat célja az akadé-
+miai mobilitás, különösen a hallgatói mobilitás ösztönzése
+Közép-Európában, valamint a közép-európai egyetemi
+együttműködés és az olyan közös programok kialakításá-
+nak elősegítése, amelyek optimális esetben kettős vagy
+közös fokozatokhoz vezetnek.
+A CEEPUS II. valamennyi részprogramja, a „freemo-
+ver” ösztöndíjak kivételével, az 1. számú részprogramban
+meghatározott CEEPUS II. hálózatokon belül valósul
+meg.
+A CEEPUS II. program elsőbbséget ad azon hálózatok-
+nak, amelyek együttműködésüket közös programokká ala-
+kítják át, vagy új közös programokat dolgoznak ki. A
+Miniszterek Közös Bizottsága Bolognai Folyamat ered-
+ményeinek figyelembevételével fogalmazza meg a
+CEEPUS II. program prioritásait.
+1. számú részprogram
+A Közép-európai Egyetemi Hálózat létrejötte
+és működése
+1. Egy hálózat legalább három Egyetemből áll, mely-
+ből kettő különböző Szerződő Félhez tartozik. A közös
+
+programokat kidolgozó hálózatok azonban, a Miniszterek
+Közös Bizottsága által meghatározott kezdeti szakaszban,
+állhatnak különböző Szerződő Felekhez tartozó két Egye-
+temből is. Elsőbbséget élveznek mindazonáltal azok a há-
+lózatok, amelyek különböző Szerződő Felekhez tartozó
+több mint két Egyetemből épülnek fel.
+2. Valamely CEEPUS II. hálózatban részt venni kívánó
+Egyetemnek a következő követelményeknek kell eleget
+tennie:
+a) Az egyik részt vevő Egyetemen vagy fogadó intéz-
+ményben teljesített résztanulmányok vagy részképzés ide-
+jét a partner Egyetem teljes mértékben elismeri.
+b) Előre rendelkezni kell a hálózaton belüli kölcsönös
+elismerésről. Az Európai Kreditátviteli Rendszert (ECTS)
+vagy egyéb kompatibilis rendszert kell alkalmazni. A
+szakdolgozaton vagy disszertáción dolgozó hallgatók ese-
+tében a fent említett rendszerek helyett mind a fogadó,
+mind a hazai egyetemi mentor kiállít egy nyilatkozatot
+arról, hogy a külföldi tanulmány időszaka megfelelt
+a szakdolgozat vagy disszertációkészítés céljának.
+c) Az akadémiai mobilitás megkönnyítése érdekében
+a CEEPUS II. kurzusok és/vagy előadások nyelve az an-
+gol, német vagy francia nyelv. A Szerződő Felek megálla-
+podnak arról, hogy elősegítik a szakmai nyelvi kurzusokat
+azáltal, hogy előkészítő szakmai nyelvi kurzusokra vonat-
+kozó, a nyelvileg megfelelő nemzeti hálózat kínálta, hóna-
+pokra lebontott ösztöndíjakat írnak ki angol, német és
+francia nyelvből. A fentiek mellett, ha az lehetséges, a
+fogadó ország anyanyelvének nyelvi tanfolyamai is támo-
+gathatóak.
+d) A CEEPUS II. keretén belül tanulmányokat folytató
+hallgató mentesül minden beiratkozási díj vagy tandíj
+megfizetése alól.
+2. számú részprogram
+Intenzív képzések
+A Szerződő Felek megállapodnak, hogy intenzív képzé-
+seket is támogatnak azon szempontok figyelembevéte-
+lével, hogy
+1. ezen képzések célja résztvevők toborzása minél több
+Szerződő Félbeli országból, beleértve a fogadó országot is.
+Résztvevőknek minősülnek a hallgatók és/vagy az elő-
+adók, a vendégtanárok, valamint az egyetemi oktatók;
+2. ezek a képzések
+a) legalább 10 munkanapig tartó, meghatározott témát
+feldolgozó nyári egyetemek, azzal a feltétellel, hogy rész-
+vétel esetén a hallgatók kreditpontokat kapnak, vagy
+b) legalább 10 munkanapig tartó intenzív képzések fia-
+tal egyetemi oktatók részére;
+3. kongresszusok és hasonló rendezvények támogatása
+ezen részprogram keretében nem lehetséges.
+3. számú részprogram
+Hallgatói kirándulások
+A Szerződő Felek megállapodnak arról, hogy támogat-
+ják a hallgatói kirándulásokat, azzal a feltétellel, hogy
+részvétel esetén a hallgatók kreditpontokat kapnak, továb-
+bá ezek a kirándulások
+1. tudományos vagy művészeti céllal bírnak, és hasz-
+nosítják a fogadó ország infrastruktúrájának meghatáro-
+zott részét; vagy
+2. tudományos vagy művészeti céllal bírnak, és azokat
+közösen szervezik.
+4. számú részprogram
+A hallgatói és oktatói mobilitást elősegítő ösztöndíjak
+rendszere
+1. A Szerződő Felek megállapodnak, hogy egyéni ösz-
+töndíjakat ítélnek oda olyan hallgatók részére, akik részt
+vesznek a CEEPUS II. program 1–3. számú részprogram-
+jaiban.
+2. Szintén ösztöndíjakat nyerhetnek az előadók, ven-
+dégtanárok és egyetemi oktatók, amennyiben hozzájárul-
+nak a transznacionális egyetemi együttműködéshez vagy
+az előremutató oktatási módszerekhez. Az előadók, ven-
+dégtanárok és az egyetemi oktatók legalább heti hat órát
+tartanak a fogadó egyetemen.
+3. Ösztöndíjakat nyerhetnek azok a hallgatók vagy
+PhD, illetve posztgraduális képzésben részt vevő hallga-
+tók, akik a fogadó államban gazdasági vállalkozásnál,
+kutatóintézetnél vagy kormányzati intézménynél kíván-
+nak gyakorlatot folytatni, amennyiben a gyakorlat célját és
+hasznát világosan bemutató pályázatot készítenek.
+4. A fogadó intézmény szemeszterek szerinti, rendsze-
+res képzésébe bekapcsolódó hallgatói ösztöndíjak időtar-
+tama legalább három, legfeljebb tíz hónap lehet. Ennél
+rövidebb időtartamú ösztöndíjat csak szakdolgozaton
+vagy disszertáción dolgozó hallgatók nyerhetnek el.
+5. A CEEPUS II. program ösztöndíját nyerheti el az
+a hallgató is, aki ezen Egyezmény szerinti Egyetemre úgy
+iratkozik be, hogy a fogadó intézménynél történő tanulása
+nem valamely Közép-európai Egyetemi Hálózatról szóló
+megállapodáson, hanem külön megállapodáson alapszik
+(„freemover” ösztöndíj).
+6. A CEEPUS II. program ösztöndíjai „átfogó” ösztön-
+díjak, vagyis azt célozzák, hogy a fogadó országban fedez-
+zék a megélhetési költségeket, a fogadó országban az álta-
+lános használatnak megfelelő laboratóriumi díjakat, ha
+ilyen külön díjak felmerülnek, továbbá a szállás és az
+egészségbiztosítás költségeit, ha ilyen költségek felmerül-
+nek, a fogadó országban történő tartózkodás időtartama
+
+alatt. Biztosítani kell, hogy a CEEPUS II. program ösztön-
+díjait a fogadó ország megélhetési költségeire és az inflá-
+cióra figyelemmel állapítsák meg.
+7. Mivel a Szerződő Felek között nem történik pénzfor-
+galom, a CEEPUS II. program ösztöndíjait a fogadó
+ország fizeti, az utazási költség kivételével, amelyet a kül-
+dő ország fizet, amennyiben az ilyen költség megtéríthető.
+8. A CEEPUS II. program elszámolási egysége az „egy
+ösztöndíjas hónap”. Minden Szerződő Félnek évenként
+közölnie kell a következő Tanévre vonatkozó Cserekvótá-
+ját. A minimális követelmény száz ösztöndíjas hónap.
+9. A CEEPUS II. program általános igazgatási vagy
+szervezési célokhoz kapcsolódó költségeket és kiadásokat
+nem támogat.”
+4. §
+(1) E rendelet – a (2) bekezdésben meghatározott kivé-
+tellel – a kihirdetését követő napon lép hatályba.
+(2) E rendelet 2–3. §-a a szerződés 8. cikkében meghatá-
+rozott időpontban lép hatályba.
+(3) E rendelet 2–3. §-a hatálybalépésének naptári napját
+a külügyminiszter annak ismertté válását követően a
+Magyar Közlönyben haladéktalanul közzétett egyedi hatá-
+rozatával állapítja meg.
+(4) E rendelet végrehajtásához szükséges intézkedések-
+ről az oktatási és kulturális miniszter gondoskodik.
+(5) A (2) bekezdésben meghatározott időpontban hatá-
+lyát veszti a felsőoktatási együttműködés támogatása érde-
+kében a Közép-Európai Felsőoktatási Csereprogramról
+(CEEPUSII) szóló 130/2005. (VII. 1.) Korm. rendelet.
+Bajnai Gordon s. k.,
+miniszterelnök
