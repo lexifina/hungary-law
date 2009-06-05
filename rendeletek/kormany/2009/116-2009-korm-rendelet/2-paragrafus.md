@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Közép-Európai Felsőoktatási Csereprogramról (CEEPUSII) szóló egyezménynek a Miniszterek Közös Bizottsága által 2007. március 16-án Zágrábban módosított és 2008. február 29-én Szófiában jóváhagyott egységes szerkezetű szövege (a továbbiakban: egyezmény) kötelező hatályának elismerésére.
