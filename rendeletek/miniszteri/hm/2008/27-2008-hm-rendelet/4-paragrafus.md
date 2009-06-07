@@ -1,0 +1,1 @@
+## 3. § Pályázati kiírás nélkül létesíthető közalkalmazotti jogviszony a katonai nemzetbiztonsági szolgálatok valamennyi közalkalmazotti munkakörében, valamint az e rendelet mellékletében külön mentesítettként megjelölt munkakörökben.

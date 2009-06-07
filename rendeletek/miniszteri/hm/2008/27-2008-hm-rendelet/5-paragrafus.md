@@ -1,0 +1,1 @@
+## 4. § A gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 70. § (1) bekezdésében meghatározott feladatok ellátásához közvetlenül kapcsolódó munkakörök minősülnek.

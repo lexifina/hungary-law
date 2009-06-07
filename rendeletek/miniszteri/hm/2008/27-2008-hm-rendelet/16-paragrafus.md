@@ -1,0 +1,7 @@
+## 15. § A HM Hadtörténeti Intézet és Múzeumban a közalkalmazott a kollektív szerződésben meghatározottak szerint formaruhára jogosult.
+
+16. § (1) Ez a rendelet 2009. január 1-jén lép hatályba, ezzel egyidejűleg hatályát veszti a honvédségnél foglalkoztatottak közalkalmazotti jogviszonyával összefüggő egyes kérdések rendezéséről szóló 25/1992. (XI. 25.) HM rendelet.
+
+(2) Amennyiben a közalkalmazott e rendelet hatálybalépését megelőzően létesített honvédségi közalkalmazotti jogviszonyt, ez a rendelet nem érinti a korábbi jogszabály által biztosított betegszabadság időtartamára járó kiegészítő pótlék, éjszakai pótlék, délutáni és éjszakai műszakpótlék (ideértve az 1992-ben fenntartott korábbi műszakpótlékokat is), teljesítménypótlék, valamint rendkívüli munkavégzésért járó pótlék megállapítását és folyósítását.
+
+(3) Ez a rendelet nem érinti a hatálybalépését megelőzően létesített honvédségi közalkalmazotti jogviszony alapján betöltött azon munkaköröket, amelyekben az Mt. 208. § (1) bekezdése alapján heti harminchat óra teljes munkaidőnek minősül.
