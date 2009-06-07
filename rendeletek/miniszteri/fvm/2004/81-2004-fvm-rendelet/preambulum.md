@@ -1,0 +1,1 @@
+Az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény (a továbbiakban: Tv.) 10. § (2) bekezdésének e) pontjában kapott felhatalmazás alapján – figyelemmel a Tv. 5. §-ának e) és j) pontjaira – a következőket rendelem el:
