@@ -1,0 +1,3 @@
+21. § (1) Ez a rendelet a 2004/36/EK európai parlamenti és tanácsi irányelv II. mellékletének a közösségi repülőtereket használó légi járművek földi ellenőrzésének végrehajtási feltételei tekintetében történő módosításáról szóló, 2008. április 16-i 2008/49/EK bizottsági irányelvnek való megfelelést szolgálja.
+
+(2) Ez a rendelet a 2004/36/EK európai parlamenti és tanácsi irányelvnek a közösségi repülőtereket használó légi járművek földi ellenőrzésének rangsorolása tekintetében történő végrehajtásáról szóló, 2008. április 16-i 351/2008/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.

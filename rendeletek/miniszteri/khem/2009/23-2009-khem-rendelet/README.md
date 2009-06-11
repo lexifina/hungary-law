@@ -1,0 +1,9 @@
+# 23/2009. (VI. 3.) KHEM rendelet
+
+a Magyar Köztársaság területén lévő repülőtereket használó légijárművek földi ellenőrzései végrehajtásának részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-23-20-2M
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-06-11 | 2009-23-20-2M.1 | 23/2009. (VI. 3.) KHEM rendelet |
