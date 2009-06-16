@@ -1,0 +1,1 @@
+## „(7) Az éves zárások végrehajtása előtt az egyes operatív programok számviteli feladatait végző szervezeteknek a 2–4. számú melléklet szerinti Nyilatkozatot kell kiállítaniuk és a tárgyévet követő év március 31-éig megküldeniük a kifizető hatóság részére. Az éves zárást a kifizető hatóság csak akkor hajthatja végre, ha valamennyi szervezet Nyilatkozata hozzá beérkezett.”

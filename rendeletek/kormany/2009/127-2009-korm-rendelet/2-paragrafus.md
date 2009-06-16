@@ -1,0 +1,11 @@
+## 1. § A Nemzeti Fejlesztési Terv operatív programjai, az EQUAL Közösségi Kezdeményezés program és a Kohéziós Alap projektek támogatásainak fogadásához kapcsolódó pénzügyi lebonyolítási, számviteli és ellenőrzési rendszerek kialakításáról szóló 360/2004. (XII. 26.) Korm. rendelet (a továbbiakban: Korm. rendelet) 24. §-a a következő (5) és (6) bekezdéssel egészül ki:
+
+## „(5) A támogatás – a társadalmi szervezetek és alapítványok által igényelt, a program befejezéséhez kapcsolódó támogatások kivételével – nem folyósítható mindaddig, amíg a kedvezményezettnek lejárt esedékességű, meg nem fizetett köztartozása áll fenn. A kedvezményezettet írásban tájékoztatni kell arról, hogy a támogatás folyósításának feltétele a köztartozás megfizetése, vagy annak igazolása, hogy a kedvezményezett fizetési könnyítésben (halasztás, részletfizetés) részesült.
+
+## (6) Amennyiben a kedvezményezett köztartozása miatt a támogatás folyósítása 2009. szeptember 30-át követően, illetve az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatás esetén 2009. június 25-ét követően kerülne felfüggesztésre, illetve a korábban észlelt köztartozását az említett időpontokig a kedvezményezett nem rendezi, abban az esetben a kedvezményezett támogatási jogosultságát a köztartozással érintett támogatási összegek vonatkozásában elveszíti, és az adott kifizetési igénylésben szereplő támogatási igényét a továbbiakban nem érvényesítheti. A támogatási jogosultság elvesztése nem érinti a kedvezményezett támogatási szerződésben vállalt kötelezettségeit, valamint a már korábban kifizetett támogatásokat, kivéve, ha a támogatási jogosultság elvesztése a támogatási szerződésben szereplő teljes támogatásra vonatkozik, ez esetben a támogatási szerződés megszűnik.”
+
+2. § (1) A Korm. rendelet 36. § (1) bekezdésének helyébe a következő rendelkezés lép:
+
+## „(1) A pénzügyminiszter felé történő beszámolási és adatszolgáltatási kötelezettségek teljesítését az e rendelet szerinti elkülönített, eredményszemléletű kettős könyvviteli nyilvántartásokkal kell biztosítani, amelyet a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: számviteli törvény) foglalt számviteli alapelvek figyelembevételével kell vezetni.”
+
+(2) A Korm. rendelet 36. § (7) bekezdésének helyébe a következő rendelkezés lép:

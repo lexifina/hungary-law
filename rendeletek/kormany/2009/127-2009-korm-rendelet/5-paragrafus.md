@@ -1,0 +1,3 @@
+## 4. § A Korm. rendelet 38. § (1) bekezdésének helyébe a következő rendelkezés lép:
+
+## „(1) A 36. §-ban foglalt elkülönített számviteli nyilvántartásnak biztosítania kell, hogy az évközi adatszolgáltatások számvitelből nyerhető adatai, valamint az éves pénzügyi jelentések elkészítéséhez szükséges számviteli adatok megfelelő részletességgel rendelkezésre álljanak. E követelmény teljesítéséért a kifizető hatóság (strukturális alapok, valamint Kohéziós Alap tekintetében), az operatív program irányító hatóságok, valamint az EQUAL program irányító hatóság (strukturális alapok tekintetében), a KTK irányító hatóság (a KTK technikai segítségnyújtás tekintetében) és a Kohéziós Alap közreműködő szervezetei (Kohéziós Alap tekintetében) felelősek.”
