@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Kambodzsai Királyság Kormánya közötti fejlesztési együttműködésről szóló, Phnompen-ben, 2009. május 28-án aláírt Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
