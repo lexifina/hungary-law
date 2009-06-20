@@ -1,0 +1,5 @@
+## „(3) Ha a foglalkoztatott tárgyhónapra járó teljes havi illetménye meghaladja a 131 000 forintot, de nem éri el a 149 000 forintot, akkor a havi kereset-kiegészítés a 10 917 forintnak az a része, ami meghaladja a foglalkoztatott tárgyhónapra járó teljes havi illetménye 131 000 forinttal csökkentett összegének a 60,65%-át. Amennyiben a foglalkoztatott a tárgyhónapban a beosztása szerinti nem mindegyik munkanapra volt jogosult illetményre, akkor a havi kereset-kiegészítés így számolt összegét a díjazott munkanapok és a tárgyhónap munkanapjainak arányában kell figyelembe venni.
+
+## (4) Nem fizethető havi kereset-kiegészítés, ha a foglalkoztatott tárgyhónapra járó teljes havi illetménye eléri vagy meghaladja a 149 000 forintot.
+
+## (5) Az 1. § szerinti jogviszonyok közül egyidejűleg egynél több jogviszonyban álló foglalkoztatott abban a jogviszonyában jogosult a (2)–(3) bekezdés szerinti kereset-kiegészítésre, amelyben az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény 6. §-a szerinti tételes egészségügyi hozzájárulás megfizetésre kerül.”
