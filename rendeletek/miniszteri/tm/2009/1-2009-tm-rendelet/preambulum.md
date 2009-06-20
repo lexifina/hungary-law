@@ -1,0 +1,1 @@
+A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 10. § (2) bekezdésében foglalt felhatalmazás alapján, a társadalompolitika összehangolásáért felelős tárca nélküli miniszter feladat- és hatásköréről szóló 88/2009. (IV. 13.) Korm. rendelet 2. § d) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
