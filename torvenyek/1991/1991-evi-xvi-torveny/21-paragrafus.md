@@ -1,0 +1,5 @@
+21. § (1) Ha a koncesszió-köteles tevékenység folytatását külön jogszabály hatósági engedélyhez köti, a koncessziós társaság tevékenységét csak ennek birtokában folytathatja. Semmis a koncessziós szerződésben foglalt azon kikötés, mely szerint az állam, illetőleg az önkormányzat nevében aláíró személy, illetve szerv a hatósági engedély kiadására előzetesen kötelezettséget vállal.
+
+(2) A hatósági engedély visszavonása, illetőleg az illetékes államigazgatási szervnek a jogellenes állapot megszüntetéséig a koncesszió-köteles tevékenység folytatását megtiltó határozata a koncessziós szerződést nem teszi érvénytelenné.
+
+(3) Ha a koncessziós társaság a koncessziós szerződés megkötésétől, illetőleg a hatósági engedély visszavonásáról rendelkező, valamint a tevékenység gyakorlását megtiltó határozat közlésétől számított hat hónapon belül nem válik a tevékenység gyakorlására jogosulttá, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv a koncessziós szerződést felmondhatja.

@@ -1,0 +1,5 @@
+26. § (1) A koncessziós szerződésben meghatározott időtartam lejártakor vagy a koncessziós szerződésnek más okból történt megszűnése esetén [12. § (3) bek.], legkésőbb az azt megállapító jogerős bírósági határozat közlésétől számított harminc napon belül a koncessziós társaság tagjai (részvényesei) kötelesek a végelszámolást lefolytatni.
+
+(2) Ha a koncessziós társaság tagjai (részvényesei) az (1) bekezdésben foglaltak teljesítését elmulasztják, úgy a cégbíróság hivatalból intézkedik a jogutód nélküli megszűnés jogkövetkezményeinek érvényesítéséről.
+
+(3) A koncessziós társaság megszüntetése esetén a tagok (részvényesek) részére az őket megillető vagyonmaradványt csak abban az esetben lehet kiszolgáltatni (kifizetni), ha az állam, illetőleg az önkormányzat nevében eljáró szerv az állam, illetőleg az önkormányzat tulajdonában levő vagyontárgyak rendeltetésszerű állapotban történt átadását igazolta, kivéve, ha a kizárólagos állami tulajdonhoz, illetőleg önkormányzati törzsvagyonhoz tartozó vagyontárgy üzembehelyezésére ezen időpontig nem került sor.

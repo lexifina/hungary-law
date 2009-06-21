@@ -1,0 +1,1 @@
+9. § A pályázatok benyújtására nyitva álló időtartam nem lehet kevesebb hatvan napnál. Az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv a beérkezett pályázatokat – ha az ágazati törvény ennél rövidebb határidőt nem állapít meg – a pályázatok benyújtására előírt időtartam lejártát követő kilencven napon belül köteles elbírálni.

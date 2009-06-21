@@ -1,0 +1,1 @@
+7/A. § Az 1. § (1) bekezdésének a), c), d), f) és j)—m) pontjaiban meghatározott koncesszióköteles tevékenységek gyakorlására vonatkozó jogosultság — koncessziós szerződéssel történő — átengedésére irányuló pályázat kiírása előtt ki kell kérni az illetékes gazdasági kamara véleményét is.

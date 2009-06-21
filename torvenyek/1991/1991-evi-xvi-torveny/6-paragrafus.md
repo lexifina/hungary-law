@@ -1,0 +1,1 @@
+6. § Az önkormányzat nevében a pályázat kiírására és annak elbírálására a képviselőtestület jogosult. E hatáskörét nem ruházhatja át. A koncessziós szerződés aláírására az önkormányzat nevében a polgármester jogosult.

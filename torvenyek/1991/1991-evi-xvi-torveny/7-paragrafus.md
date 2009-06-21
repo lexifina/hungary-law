@@ -1,0 +1,1 @@
+7. § Az 5—6. §-ban meghatározott személy, illetőleg szerv az 1. § (1) bekezdés szerinti tevékenység (a továbbiakban: koncesszió-köteles tevékenység) gyakorlásával összefüggésben szükséges hatósági engedély megadásának feltételeit az illetékes államigazgatási szervvel a pályázat kiírása előtt egyeztetni köteles.

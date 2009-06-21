@@ -1,0 +1,1 @@
+24. § A koncesszió-köteles tevékenységgel összefüggésben létrejött kizárólagos állami tulajdonnak, illetőleg önkormányzati törzsvagyonnak minősülő vagyontárgy rendeltetésszerű használatát elősegítő vagyontárgyak (létesítmények) elkészültük (üzembehelyezésük) után — ha a koncessziós szerződés eltérően nem rendelkezett — a koncessziós társaság tulajdonába kerülnek.

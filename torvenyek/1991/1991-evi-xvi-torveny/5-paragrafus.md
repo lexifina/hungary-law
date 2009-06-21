@@ -1,0 +1,3 @@
+5. § (1) Az állam nevében a pályázat kiírására, elbírálására és a koncessziós szerződés megkötésére – az állami vagyon felügyeletéért felelős miniszter egyetértésével – a tevékenység tárgya szerint illetékes ágazati miniszter jogosult.
+
+(2) Abban az esetben, ha a pályázati kiírás olyan tevékenység gyakorlására vonatkozó jogosultság átengedésére irányul, mely az önkormányzat törvényben előírt kötelezettségének teljesítésére közvetlenül hatással van, a pályázat kiírásához az érintett önkormányzat egyetértése szükséges. Ha a pályázat kiírása az önkormányzatot egyébként megillető jogok gyakorlását, illetve egyéb feladat teljesítését érinti, a pályázati kiírás közzététele előtt az érdekelt önkormányzat véleményét ki kell kérni.

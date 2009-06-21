@@ -1,0 +1,3 @@
+15. § (1) Abban az esetben, ha a koncesszió-köteles tevékenység kizárólagos állami tulajdonhoz vagy az önkormányzati törzsvagyonhoz tartozó vagyontárgyhoz kapcsolódik, a koncessziós szerződés megkötése e vagyontárgy tulajdonjogában változást nem eredményez. Az ágazati törvény a bányászati koncessziós szerződés alapján kitermelt természeti kincs feletti tulajdonjog vonatkozásában ettől eltérő rendelkezést állapíthat meg.
+
+(2) A koncesszió-köteles tevékenységgel összefüggésben létrejött kizárólagos állami tulajdonnak vagy önkormányzati törzsvagyonnak minősülő vagyontárgy az üzembehelyezés időpontjával kerül az állam, illetőleg az önkormányzat tulajdonába a koncessziós szerződésben rögzített feltételek szerint.

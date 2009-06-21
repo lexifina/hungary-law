@@ -1,0 +1,1 @@
+25. § A koncessziós társaság a koncesszió-köteles tevékenység gyakorlásának jogát az állam, illetőleg az önkormányzat hozzájárulása nélkül másra nem ruházhatja át, valamint azt más gazdasági társaságba nem pénzbeni hozzájárulásként nem viheti be.

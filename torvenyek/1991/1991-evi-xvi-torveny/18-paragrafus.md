@@ -1,0 +1,1 @@
+18. § Az ágazati törvény az állam által kötendő egyes koncessziós szerződések létrejöttéhez az Országgyűlés jóváhagyását írhatja elő. Amennyiben a koncessziós szerződés aláírásától számított, kilencven napon belül azt az Országgyűlés nem hagyja jóvá, úgy a jogosult nyilatkozati kötöttségétől szabadul.

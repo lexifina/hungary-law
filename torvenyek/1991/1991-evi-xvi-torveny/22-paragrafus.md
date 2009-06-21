@@ -1,0 +1,1 @@
+22. § A koncessziós társaság a koncesszió-köteles tevékenységen kívül kizárólag azzal szervesen összefüggő — az ágazati törvényben, illetőleg az önkormányzat döntésében meghatározott — tevékenységek gyakorlására jogosult.

@@ -1,0 +1,1 @@
+A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajdon hatékony működtetésének, valamint a kizárólagosan az állam vagy az önkormányzat hatáskörébe utalt tevékenységek gyakorlásának egyik lehetséges útja mindezek koncessziós szerződés alapján való átengedése. E jogintézmény megteremtése érdekében az Országgyűlés a következő törvényt alkotja:
