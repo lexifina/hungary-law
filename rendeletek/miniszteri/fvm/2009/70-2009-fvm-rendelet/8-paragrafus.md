@@ -1,0 +1,3 @@
+8. § (1) Ez a rendelet a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK Bizottsági rendelet (HL. L. 358. 2006. 12. 16. 3. o.) hatálya alá tartozó támogatást tartalmaz.
+
+(2) E rendelet keretében nyújtott állami támogatás ugyanazon elszámolható költségek vonatkozásában nem halmozható egyéb állami vagy közösségi támogatással – beleértve a csekély összegű támogatásokat is –, amennyiben az ilyen halmozódás eredményeként a támogatási intenzitás meghaladná a 1857/2006/EK rendeletben megállapított felső határt.
