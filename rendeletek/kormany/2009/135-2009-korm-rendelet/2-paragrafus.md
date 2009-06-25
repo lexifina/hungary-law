@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az Európai Közösség és a Magyar Köztársaság közötti második Kiegészítő Egyetértési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
