@@ -1,0 +1,1 @@
+30. § Az útlevélhatóság az eljárásában keletkezett iratokat az úti okmány érvényességi idejének lejártától számított egy évig őrzi meg, ezt követően azokat az iratkezelésre irányadó jogszabályok szerint selejtezi.

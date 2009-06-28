@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezésekre figyelemmel – az Emberi Jogok Egyetemes Nyilatkozatával, a Polgári és Politikai Jogok Nemzetközi Egyezségokmányával, valamint az Emberi Jogok Európai Egyezményével összhangban – a külföldre utazásról és az úti okmányokról a következő törvényt alkotja:

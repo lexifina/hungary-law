@@ -1,0 +1,1 @@
+42. § E törvény 7. § (2)–(4) bekezdése, 20. § (2) bekezdése, valamint 32/A. §-a a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
