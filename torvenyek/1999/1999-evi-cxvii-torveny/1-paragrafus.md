@@ -1,0 +1,1 @@
+1. § Az Országgyűlés elhatározza a Magyar Köztársaság csatlakozását az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló, 1951. június 19-én, Londonban kelt Megállapodáshoz (a továbbiakban: Megállapodás).
