@@ -1,0 +1,3 @@
+167. § (1) E törvénynek – a Bjt. 14. §-ának (3) bekezdését módosító – 127. § (2) bekezdése 2000. február 1. napján lép hatályba.
+
+(2) E törvénynek – a Bjt. 56/A. §-át megállapító, illetőleg az 57. § (1) bekezdés g) pontját módosító – 132. §-ában és 133. § (1) bekezdésében foglalt rendelkezéseire tekintettel, ha az országgyűlési képviselő megválasztása előtt a bírói szolgálati viszonya 1997. október 1. napját követően országgyűlési képviselői választáson jelöltként való indulása miatt szűnt meg, és a képviselő a képviselői megbízatásának megszűnésekor ismét bíróvá történő kinevezését kéri, kinevezésére az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény 2. §-ának (5) bekezdésében foglalt rendelkezéseket kell alkalmazni.
