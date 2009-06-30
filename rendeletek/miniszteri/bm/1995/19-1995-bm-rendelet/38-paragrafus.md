@@ -1,0 +1,28 @@
+## 37. §[^79] E rendelet alkalmazása során hozzátartozó a Büntető Törvénykönyvben hozzátartozóként meghatározott személy.
+
+## Záró rendelkezések
+
+38. § (1)[^80] E rendelet a kihirdetése napját követő hónap első napján lép hatályba.
+
+(2) Az e rendeletből a rendőrségre háruló feladatok végrehajtását az országos rendőrfőkapitány utasításban szabályozza.
+
+Melléklet a 19/1995. (XII. 13.) BM rendelethez
+
+A fogvatartott birtokában tartható tárgyak
+
+1. Tisztasági felszerelések: tisztálkodási eszközök (pl. szappan, fésű, hintőpor, krém, sampon), fogápolási eszközök, izzadásgátló szerek (kivéve: hajtógázzal töltött palack, pumpával működő dezodor), körömápolási cikkek, körömcsipesz (olló kivételével), ruha- és cipőápolási eszközök, varrókészlet, törülköző, zsebkendő, mosó- és öblítőszerek (mosás idején, egyébként zárkán kívül személyenként elkülönítve tárolva), borotvahab, ún. félpengés borotva, elemes borotva (borotválkozás idején, egyébként a zárkán kívül tárolva), vatta, tampon, egészségügyi betét, hajcsavarók és csipeszek, hajháló, zuhanysapka.
+
+2. Ruházati anyagok: saját tulajdonú alsó- és felsőruházat, lábbeli, papucs.
+
+3. Élelmiszerek, étkezési eszközök: csomagban beküldhető élelmiszerek, filteres tea, kávé granulátum (papírzacskóban), édesítő szerek, üdítő italok, savanyúságok, kompótok (műanyagban tárolva), tejtermékek, ételízesítők, kiskanál, pohár (műanyag), ételtartó doboz és táska.
+
+4. Dohányáruk: cigaretta, szivar, dohány, szipka, pipa, gyufa, öngyújtó.
+
+5. Írószerek, papíráruk: levelezéshez szükséges eszközök, zseb- és kártyanaptár, családi fényképek, levelek, iratok, könyvek, napilapok, folyóiratok.
+
+6. Egyéb használati tárgyak: vallásgyakorláshoz szükséges könnyű, kisméretű kegytárgyak, elemmel működtethető zsebrádió, fülhallgató, hordozható, elemmel működtethető televíziókészülék, karóra, szemüveg, kontaktlencse, tartalék elemek (zárkán kívül tárolva), kártya, sakk és egyéb játék, melyek tárolása, működtetése az őrzés biztonságát nem zavarja.
+
+7. Gyógyszerek, gyógyászati segédeszközök: az egészségügyi szolgálat által írásban engedélyezett gyógyszerek és gyógyászati segédeszközök, vitaminok, tápszerek, az orvos engedélyével.
+
+[^79]: A 37. § a 42/2003. (X. 3.) BM rendelet 7. §-ával megállapított szöveg.
+[^80]: A 38. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 3. § 218. pontja hatályon kívül helyezte.

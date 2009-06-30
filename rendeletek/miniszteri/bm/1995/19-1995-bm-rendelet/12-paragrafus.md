@@ -1,0 +1,1 @@
+## 11. § A Magyarországon elhunyt és Magyarországon eltemetendő hozzátartozó temetésén való részvétellel, illetőleg az itt élő, súlyosan beteg hozzátartozó meglátogatásával kapcsolatban felmerült kísérési és őrzési költségek a fogvatartásért felelőst terhelik.

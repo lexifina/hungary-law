@@ -1,0 +1,1 @@
+## Értelmező rendelkezések
