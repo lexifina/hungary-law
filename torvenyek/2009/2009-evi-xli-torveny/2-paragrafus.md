@@ -1,0 +1,7 @@
+2. § (1) A Hpt. 102. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Alap által biztosított betétek esetében a hitelintézet és a betétes között beszámításnak akkor van helye, ha a betétesnek a hitelintézettel szemben hitellel vagy más ügylettel kapcsolatos lejárt tartozása van. A hitelintézet a betétekre vonatkozó adatok átadásával egyidejűleg köteles a beszámítási igényét az Alappal közölni. A hitelintézet köteles okirattal igazolni, hogy a betétest (az adóst) a beszámítási igényéről tájékoztatta. Ha a beszámításra sor kerül, akkor az Alap a 101. § szerinti összegből a hitelintézetet megillető és részére átutalt összeg levonása után fennmaradó összeget fizeti ki a betétes részére.”
+
+(2) A Hpt. 102. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kártalanítás mértékének megállapítása során az ügyfélnek az Alap tagjánál fennálló valamennyi befagyott követelését össze kell számítani. Ha az Alap tagjának az ügyféllel szemben lejárt követelése van, azt a kártalanítás megállapítása során az ügyfél követelésébe be kell számítani.”
