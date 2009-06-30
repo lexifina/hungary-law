@@ -1,0 +1,51 @@
+# A miniszterelnök 39/2009. (VI. 30.) ME határozata
+
+Magyar Közlöny 2009. évi 90. szám, 2009. június 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/17b7c1cc11e622109a7356e6d3f791b0425ba6fb/dokumentumok/77f6b95e223ce79a7997fd720f5d39165ab71402/letoltes)
+
+---
+
+A miniszterelnök
+39/2009. (VI. 30.) ME
+határozata
+címzetes főjegyzői cím adományozásáról
+A köztisztviselők jogállásáról szóló 1992. évi
+XXIII. törvény 30/B. § (1) bekezdése alapján – az önkor-
+mányzati és a Miniszterelnöki Hivatalt vezető miniszter
+együttes javaslatára –
+Balázsné dr. Vástyán Krisztinának,
+dr. Benda Dénesnek,
+dr. Istvánfi Sándornak,
+dr. Jáger Lászlónak,
+dr. Kaczmarski Jánosnak,
+dr. Král Lászlónak,
+dr. Puskás Lászlónak,
+dr. Sallai Árpádnak,
+Soltész Attilának,
+Szanyi-Nagy Józsefnének,
+dr. Szemán Sándornak,
+Varró Gyulánénak,
+dr. Vaskó Ernőnek,
+dr. Voller Erikának
+– határozatlan időre – címzetes főjegyzői címet adomá-
+nyozok.
+Bajnai Gordon s. k.,
+miniszterelnök
+
+A Magyar Közlönyt szerkeszti a Miniszterelnöki Hivatal, a Szerkesztőbizottság közreműködésével. A Szerkesztőbizottság
+elnöke: dr. Petrétei József. A szerkesztésért felelős: dr. Tordai Csaba. Budapest V., Kossuth tér 1–3.
+Kiadja a Magyar Közlöny Lap- és Könyvkiadó. Felelős kiadó: dr. Kodela László elnök-vezérigazgató.
+Budapest VIII., Somogyi Béla u. 6., www.mhk.hu. Telefon: 266-9290.
+A papír alapon terjesztett Magyar Közlöny a kormányzati portálon közzétett hiteles elektronikus dokumentum CD-vel ellátott
+oldalhű másolata.
+A Határozatok Tára hivatalos lap tartalma a Magyar Közlöny IX. részében jelenik meg.
+Előfizetésben megrendelhető a Magyar Közlöny Lap- és Könyvkiadónál
+Budapest VIII., Somogyi Béla u. 6., 1394 Budapest 62. Pf. 357, vagy faxon 318-6668.
+Előfizetésben terjeszti a Magyar Közlöny Lap- és Könyvkiadó a Magyar Posta Zrt. közreműködésével.
+Telefon: 235-4554, 266-9290/240, 241 mellék. Terjesztés: tel.: 317-9999, 266-9290/245 mellék.
+Példányonként megvásárolható a Budapest VIII., Somogyi Béla u. 6. szám alatti Közlönyboltban (tel.: 318-8411),
+illetve megrendelhető a kiadó ügyfélszolgálatán (fax: 318-6668, 338-4746, e-mail: kozlonybolt@mhk.hu) vagy a
+www.mhk.hu/kozlonybolt internetcímen.
+2009. évi éves előfizetési díj: 151 452 Ft. Egy példány ára: 315 Ft 16 oldal terjedelemig, utána +8 oldalanként +270 Ft.
+HU ISSN 0076—2407
+09.1696 – Nyomja a Magyar Közlöny Lap- és Könyvkiadó Lajosmizsei Nyomdája. Felelős vezető: Burján Norbert igazgató.
+Előfizetési bankszámlaszám: MKB Bank 10300002–20377199–70213285
