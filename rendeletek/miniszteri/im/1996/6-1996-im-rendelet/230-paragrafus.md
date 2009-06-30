@@ -1,0 +1,1 @@
+## 229. § A külföldi bíróság által kiszabott szabadságvesztés végrehajtásának az átvételéről szóló határozat alapján a külföldi elítéltet az átvételi eljárás idejére a Fővárosi Büntetés-végrehajtási Intézetben kell elhelyezni.

@@ -1,0 +1,1 @@
+## 66. § A kényszerítő eszközök alkalmazása szempontjából a bv. szerv, illetve annak vagyona elleni támadásnak vagy rongálásnak minősül az olyan magatartás, amely a területén lévő vagy az üzemeltetését (működését) biztosító létesítmények, tárgyak, berendezések, járművek megszerzésére, használhatatlanná tételére, megrongálására vagy megsemmisítésére irányul.

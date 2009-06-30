@@ -1,0 +1,1 @@
+## 144. § Az ön- és közveszélyes magatartást tanúsító elítéltek elhelyezésére külön helyiséget kell kialakítani, amelyben berendezési és felszerelési tárgy nem lehet. A helyiséget párnázott burkolattal kell ellátni.

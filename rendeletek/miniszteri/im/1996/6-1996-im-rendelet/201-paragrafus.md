@@ -1,0 +1,29 @@
+## A szabadítás szabályai
+
+201. §[^155] (1) Azt az elítéltet,
+
+a) aki szabadságvesztését kitöltötte, annak utolsó napján,
+
+b) akit feltételes szabadságra bocsátottak – ideértve a bv. bíró nem jogerős végzése alapján elbocsátott elítéltet is – annak esedékessége napján,
+
+c) akinek szabadságvesztését félbeszakították, a rendelkezés vételekor, illetve a határozatban megjelölt napon,
+
+d) akinek a szabadságvesztés hátralévő részét kegyelemből elengedték vagy mérsékelték, a jogszabályban, illetve a kegyelmi döntésben megállapított napon,
+
+e)[^156] akinek ügyében a Legfelsőbb Bíróság felülvizsgálati eljárás, illetve a törvényesség érdekében lefolytatott jogorvoslati eljárás, vagy jogegységi eljárás keretében szabadlábra helyezéséről határoz, a Legfelsőbb Bíróság határozata kihirdetésének napján,
+
+f)[^157] akinek a szabadságvesztés büntetését a bíróság a Be. 574. §-ának (3) bekezdése alapján felfüggeszti,
+
+## szabadon kell bocsátani.
+
+(2) Az (1) bekezdésben meghatározott esetekben sem szabadítható az elítélt, amennyiben további szabadságvesztés, előzetes letartóztatás, ideiglenes kiadatási letartóztatás, kiadatási letartóztatás, elzárás, illetve idegenrendészeti őrizet vár végrehajtásra.
+
+(3) A szabadon bocsátást megelőző szabadítási eljárás legfeljebb negyvennyolc óráig tarthat.
+
+(4) Az elítéltet olyan időpontban kell szabadítani, hogy – az utazási körülményeket figyelembe véve – lehetőleg még ugyanazon a napon a lakó-, illetve tartózkodási helyére megérkezzék.
+
+(5) A bv. bíró nem jogerős végzése alapján feltételes szabadságra bocsátott elítélt jogerős végzés alapján szükségessé vált visszahívásáról az intézet gondoskodik. Ilyen esetben az intézet a 187. § (3) bekezdése, ha ez nem vezet eredményre, akkor a 206/A. § (2) bekezdésének a) és b) pontja szerint jár el.
+
+[^155]: A 201. § a 18/2002. (XI. 30.) IM rendelet 52. §-ával megállapított szöveg.
+[^156]: A 201. § (1) bekezdésének e) pontja a 10/2006. (VII. 25.) IRM rendelet 11. § (2) bekezdésének d) pontja szerint módosított szöveg.
+[^157]: A 201. § (1) bekezdésének f) pontját a 10/2006. (VII. 25.) IRM rendelet 8. §-a iktatta be.

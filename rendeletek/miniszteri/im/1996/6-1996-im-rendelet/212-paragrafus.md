@@ -1,0 +1,1 @@
+## 211. § Az oktatásban vagy szakmai képzésben részt vevő fiatalkorúak – a szabadságvesztés végrehajtási fokozatára tekintet nélkül – azonos tanulmányi osztályba, illetve tanulócsoportba is beoszthatók.

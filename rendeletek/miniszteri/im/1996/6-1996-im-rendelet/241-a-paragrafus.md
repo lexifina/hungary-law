@@ -1,0 +1,1 @@
+## 241. § Ha a rendelkezési jogkör gyakorlója az előzetesen letartóztatott fokozott őrzését rendelte el, a parancsnok az érintettet – a 42. § (2) bekezdésében írt szempontok értékelésével – a III. vagy a IV. biztonsági csoportba sorolja.

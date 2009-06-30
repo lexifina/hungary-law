@@ -1,0 +1,1 @@
+## 77. § Az intézetben a szabadidős, a sport, a kulturális és közművelődési programok szervezésére az elítéltek öntevékeny szervezetei működhetnek, az elítéltek által választott tisztségviselők azonban utasítási joggal nem rendelkeznek.

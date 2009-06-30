@@ -1,0 +1,1 @@
+## Az elítélt felszerelése
