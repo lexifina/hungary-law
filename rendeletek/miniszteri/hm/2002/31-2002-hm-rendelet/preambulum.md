@@ -1,0 +1,3 @@
+A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 287. § g) pontjában, valamint a honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Hvt.) 10. § g) pontjában kapott felhatalmazás alapján – figyelemmel a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvényben, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben foglaltakra is – a következőket rendelem el:[^1]
+
+[^1]: A preambulum a 7/2005. (III. 23.) HM rendelet 10. § (9) bekezdésének a) pontja szerint módosított szöveg.
