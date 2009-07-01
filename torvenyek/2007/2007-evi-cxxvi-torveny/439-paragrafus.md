@@ -1,0 +1,1 @@
+439. § 2008. január 1-jétől az Itv. 44. §-ának (2) bekezdése, 73. §-a (12) bekezdésének utolsó mondata, Melléklete VI. címe 1. pontjának c) alpontjában az „– a külpolitikáért felelős miniszter kivételével –” szövegrész hatályát veszti.

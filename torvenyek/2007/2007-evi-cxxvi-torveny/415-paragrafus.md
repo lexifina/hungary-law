@@ -1,0 +1,5 @@
+415. § (1) E törvény hatálybalépésével egyidejűleg a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 52. § (1) bekezdése első mondatában az „és a záró mérleg elkészítésének napját követő 30 napon belül” szövegrész helyébe az „és a záró mérleg elkészítésének napját követő napon” szövegrész lép.
+
+(2) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2006. évi CXXXI. törvény 203. § (1) bekezdése a következők szerint módosul:
+
+„203. § (1) 2008. évben a munkáltató és a kifizető az Art. 16. § (4) bekezdésében, valamint a 31. § (2) bekezdésében, a magánszemély az Art. 20. § (6) bekezdésében meghatározott esetben az ott megjelölt adatokon túl a biztosított társadalombiztosítási azonosító jelét is bejelenti az állami adóhatóságnak, valamint az állami adóhatóság az Art. 16. § (5)–(6) bekezdésének, valamint 52. § (7) bekezdésének, továbbá a Tbj. 39. § (6) bekezdésének alkalmazása során a biztosított társadalombiztosítási azonosító jelét is továbbítja az egészségbiztosítás biztosítotti nyilvántartása, a magánnyugdíjpénztár, a munkaügyi hatóság, illetve a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére.”

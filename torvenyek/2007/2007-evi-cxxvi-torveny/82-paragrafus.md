@@ -1,0 +1,3 @@
+82. § A Jöt. 59. §-a (6) bekezdésének első mondata helyébe a következő rendelkezés lép:
+
+„A jövedéki biztosítékot az éves szinten várhatóan beszerzésre kerülő ásványolaj és megfigyelt termék, illetve – az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék előállítása esetén – az alkoholtermék egyhavi átlagos beszerzésének mennyisége és az 52. § (1) bekezdésének a) pontjában meghatározott alacsonyabb – az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék, illetve az alkoholtermék esetében a 64. § (2) bekezdése szerinti – adómérték alapján számított összeg erejéig, de legfeljebb 60 millió forint összegben kell nyújtani.”

@@ -1,0 +1,3 @@
+191. § Az Art. 54. §-a a következő új (12) bekezdéssel egészül ki:
+
+„(12) A kettős adóztatás elkerüléséről szóló nemzetközi szerződés információcseréről rendelkező cikke keretében a magyar illetékes hatóság a külföldi állam illetékes hatóságának a magánszemélyekről az egyezmény rendelkezéseinek végrehajtása, a külföldi állam adóztatási jogának biztosítása, illetőleg a kettős adóztatás elkerülése érdekében az azonosításhoz, az adómegállapításhoz, az ellenőrzéshez, a bizonyítási eljáráshoz, illetőleg a tényállás tisztázásához szükséges olyan személyes adatokat adhat át, amelyeket nyilvántartásai tartalmaznak vagy amelyek megszerzését a belföldi jogszabályok számára lehetővé teszik.”

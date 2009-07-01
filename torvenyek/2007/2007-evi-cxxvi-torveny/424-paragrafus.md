@@ -1,0 +1,1 @@
+424. § E törvény hatálybalépésével egyidejűleg az Szt. 153. §-a (4) bekezdésében „A cégbíróságnál letétbe helyezett” szövegrész helyébe „A letétbe helyezett”, a 153. §-a (4) bekezdésében az „azokról a cégbíróságnál bárki” szövegrész helyébe az „azokról bárki”, a 154. §-a (11) bekezdésében a „letétbe helyezési vagy” szövegrész helyébe a „letétbe helyezési, valamint” szöveg lép.

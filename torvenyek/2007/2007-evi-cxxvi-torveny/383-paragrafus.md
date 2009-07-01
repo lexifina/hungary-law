@@ -1,0 +1,1 @@
+383. § E törvénynek a Tbj.-t módosító rendelkezései – a Tbj. 20/A. § (1) bekezdését, 27. § (5) bekezdését és 29. § (8) bekezdését megállapító rendelkezések kivételével – 2008. január 1-jén lépnek hatályba.

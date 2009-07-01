@@ -1,0 +1,1 @@
+477. § E törvénynek az Art. 31. § (5) bekezdését módosító rendelkezését az adózó az e törvény hatálybalépését megelőző időszakra teljesítendő adóbevallási kötelezettsége tekintetében is alkalmazhatja.

@@ -1,0 +1,7 @@
+299. § Az Szt. 133. §-ának (4) bekezdése a következő i) és j) ponttal egészül ki:
+
+[(4) Az összevont (konszolidált) kiegészítő mellékletben az (1) és (2) bekezdésben foglaltakon túl a következő adatokat kell feltüntetni:]
+
+„i) azon összevont (konszolidált) mérlegen kívüli tételek és összevont (konszolidált) mérlegben nem szereplő megállapodások jellegét, üzleti célját és pénzügyi kihatásait, amelyek bemutatásáról e törvény külön nem rendelkezik, ha e tételekből és megállapodásokból származó kockázatok vagy előnyök lényegesek, és bemutatásuk szükséges a konszolidálásba bevont vállalkozások egésze pénzügyi helyzetének megítéléséhez;
+
+j) az anyavállalat vagy a konszolidálásba bevont más vállalkozás által kapcsolt felekkel lebonyolított azon ügyleteket (ide nem értve a vállalatcsoporton belüli ügyleteket), amelyek bemutatásáról e törvény külön nem rendelkezik, ha ezen ügyletek lényegesek és nem a szokásos piaci feltételek között valósultak meg. Ennek során be kell mutatni az ügyletek értékét, a kapcsolt féllel fennálló kapcsolat jellegét és az ügyletekkel kapcsolatos egyéb, a konszolidálásba bevont vállalkozások egésze pénzügyi helyzetének megítéléséhez szükséges információkat. Az egyedi ügyletekre vonatkozó információk összesíthetők az ügyletek jellege szerint, ha az összesítés nem akadályozza az érintett ügyleteknek a konszolidálásba bevont vállalkozások egésze pénzügyi helyzetére gyakorolt hatásának a megítélését.”

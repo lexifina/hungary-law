@@ -1,0 +1,7 @@
+342. § (1) A Fétám tv. 6. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az állami támogatást a gyermek javára a Start-számláját vezető számlavezető a naptári évet követő március 1-jéig igényli a kiutalónál. A kiutalóval kötött szerződés szerint a számlavezető eljuttatja a (2) bekezdés a)–c) pontja szerinti csoportosításban az állami támogatásra jogosult gyermekekről készített kimutatást, amely tartalmazza a gyermekek adóazonosító jelét, természetes azonosító adatait, Start-számláik számát, az állami támogatásra jogosító befizetések összegét, valamint a rendszeres gyermekvédelmi kedvezményre jogosult, illetőleg átmeneti vagy tartós nevelésbe vett gyermekek esetében megküldi a magasabb összegű állami támogatásra való jogosultság igazolására szolgáló, az (5) bekezdés szerint kiállított, a szülő által hozzá eljuttatott iratot. Az iratokat számlavezetőnként egy csomagban kísérőjegyzékkel együtt kell a kiutalóhoz eljuttatni.”
+
+(2) A Fétám tv. 6. §-a (4) bekezdésének felvezető szövege helyébe a következő rendelkezés lép:
+
+„(4) Az állami támogatást a kiutaló a (3) bekezdés alapján kapott igénylésben feltüntetett befizetések után, illetőleg az átmeneti vagy tartós nevelésbe vett gyermek esetében a jogosultság időszakával arányos összegben az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül a számlavezetőhöz utalja”

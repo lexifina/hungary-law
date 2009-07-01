@@ -1,0 +1,1 @@
+458. § 2008. január 1-jén hatályát veszti a halászatról és a horgászatról szóló 1997. évi XLI. törvény 55. §-a (2) bekezdésének a) pontjának második mondata „A halászatfejlesztési hozzájárulást a korábban megállapított mértékben mindaddig fizetni kell, ameddig a halászati jog átengedéséről szóló határozat érvényben van” szövegrész

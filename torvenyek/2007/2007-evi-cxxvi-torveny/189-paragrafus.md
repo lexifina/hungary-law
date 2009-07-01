@@ -1,0 +1,3 @@
+189. § Az Art. 46. §-ának (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A kifizető olyan bizonylatot (igazolást) állít ki az osztalékban részesülő személynek, amely tartalmazza a kifizető és a bevételt, jövedelmet szerző nevét (elnevezését), adóazonosító számát, székhelyét (telephelyét), lakóhelyét, a kifizetés jogcímét, az osztalék kifizetésének évét, a bizonylat (igazolás) kiállításának időpontját, az adó alapját és a megállapított adó összegét. Osztalékelőleg fizetése esetén, illetőleg ha az osztalék-, társasági adót a kifizető nem vonta le, adó-visszatérítésre jogosító igazolás nem állítható ki.”

@@ -1,0 +1,1 @@
+434. § 2008. január 1-jén hatályát veszti a Kjtv. 3. §-a (2) bekezdésének e) pontjában az „ , a társas vállalkozás részleges átalakulása” szövegrész, valamint a Kjtv. 3. §-ának (6) bekezdésében az „és a részlegesen átalakuló szövetkezet”, az „(ideértve a részlegesen átalakuló szövetkezetet is)” szövegrész.

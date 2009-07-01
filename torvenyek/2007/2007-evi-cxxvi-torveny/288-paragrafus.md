@@ -1,0 +1,5 @@
+288. § Az Szt. 33. §-a a következő (5) és (6) bekezdéssel egészül ki:
+
+„(5) Aktív időbeli elhatárolásként kell kimutatni a kölcsönbeadott értékpapír könyv szerinti értékének a – felhalmozott kamattal csökkentett – kölcsönszerződés szerinti értékét meghaladó összegét (veszteségét). Az időbeli elhatárolást akkor kell megszüntetni, amikor a kölcsönbevevő által visszaszolgáltatott értékpapír eladásra, beváltásra, illetve egyéb ügylet keretében az állományból véglegesen kivezetésre kerül, vagy a kölcsönbevevő megtéríti annak piaci értékét, mert az értékpapír nem kerül visszaszolgáltatásra.
+
+(6) Az aktív időbeli elhatárolások között halasztott ráfordításként ki lehet mutatni a jogszabályi rendelkezés alapján az üzemeltetőnek térítés nélkül (visszaadási kötelezettség nélkül) átadott eszköz (beruházás) nyilvántartás szerinti értékét. A térítés nélkül átadott eszköz (beruházás) időbelileg elhatárolt nyilvántartás szerinti értékét – az átadáskor meghatározott módon és időtartamon belül – kell a rendkívüli ráfordításokkal szemben megszüntetni.”

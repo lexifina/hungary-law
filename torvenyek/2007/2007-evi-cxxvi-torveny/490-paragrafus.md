@@ -1,0 +1,1 @@
+490. § E törvénynek a Fétám tv. 7. §-a (1) bekezdésének aa) pontját megállapító rendelkezését először 2007. december 31-ei fordulónappal kell alkalmazni. Azon gyermekeknél, ahol e rendelkezés hatálybalépéséig kamatjóváírás még nem történt, a születés napjától kezdődően, ahol kamatjóváírás már történt az utolsó kamatjóváírástól kell az időarányos kamatot számítani.

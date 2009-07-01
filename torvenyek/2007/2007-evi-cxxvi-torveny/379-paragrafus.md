@@ -1,0 +1,3 @@
+379. § (1) E törvény Itv.-t módosító rendelkezései 2008. január 1-jén lépnek hatályba azzal, hogy a rendelkezéseket – a (2) bekezdésben foglaltak kivételével – a 2008. január 1. napját követően illetékkiszabásra bejelentett vagy más módon az állami adóhatóság tudomásra jutott vagyonszerzési ügyekben, valamint kezdeményezett elsőfokú, illetve jogorvoslati eljárásokban kell alkalmazni.
+
+(2) E törvénynek az Itv. 23/A. §-ának (7) bekezdését módosító rendelkezését azokban a vagyonszerzési ügyekben is alkalmazni kell, amelyekben az Itv. 23/A. §-ának (1) bekezdésében meghatározott célra megszerzett ingatlan továbbértékesítésére, illetőleg annak igazolására nyitva álló határidő 2007. december 31-ig még nem telt el.

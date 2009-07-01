@@ -1,0 +1,3 @@
+413. § A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 1. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A felügyelő jogosult hatósági ellenőrzés során megállapított tényállás alapján a foglalkoztató és a részére munkát végző személy közötti, illetve a munkavállalónak munkavégzés céljából történő átengedése alapjául szolgáló jogviszony, valamint a tényleges foglalkoztatás alapján létrejött kapcsolat minősítésére. Ehhez a foglalkoztatónak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka a (4) bekezdés szerinti jogviszonyok alapján, vagy ellenérték nélkül történt.”

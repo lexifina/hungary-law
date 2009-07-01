@@ -1,0 +1,3 @@
+188. § Az Art. 43. §-ának (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Ha az adószámla 1000 forintot meghaladó összegű tartozást vagy túlfizetést mutat, az állami és az önkormányzati adóhatóság az adózó adószámlájának egyenlegéről és a tartozásai után felszámított késedelmi pótlékról az adózók részére október 31-ig értesítést ad ki. Az állami adóhatóság az adózó adószámlájának egyenlegéről és a tartozásai után felszámított késedelmi pótlékról nem értesíti azt az adózót, aki (amely) bevallás benyújtására, illetőleg adatszolgáltatás teljesítésére elektronikus úton kötelezett, vagy önkéntesen elektronikusan nyújtotta be a bevallását.”

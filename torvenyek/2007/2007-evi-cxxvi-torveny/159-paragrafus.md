@@ -1,0 +1,3 @@
+159. § Az Itv. 72. §-a (4) bekezdésének c) pontja helyébe a következő rendelkezés lép:
+
+„c) ha a vagyoni értékű jog tartama több egyidejűleg jogosult személy élettartamától függ, mégpedig oly módon, hogy a jogosultság a legelőször elhalt személy halálával megszűnik, az értékelésnél a legidősebb személy életkora az irányadó; ha pedig a jogosultság a legutóbb elhalt személy haláláig tart, a kiszámítás a legfiatalabb személy életkora szerint történik. Az így kapott értéket, mint illetékalapot az egyes jogosultak között olyan arányban kell megosztani, mint amilyen arányt az életkoruk szerint számított vagyoni értékű jog értéke ezek együttes értékében képvisel.”

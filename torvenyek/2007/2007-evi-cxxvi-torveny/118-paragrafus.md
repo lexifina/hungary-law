@@ -1,0 +1,3 @@
+118. § A Vtv. 7/N. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az elrendelt utólagos ellenőrzéssel összefüggésben a vámhatóság ellenőrzést végezhet olyan személynél, amely az utólagos ellenőrzés alanyával közvetett vagy közvetlen üzleti kapcsolatban áll, feltéve, hogy az elrendelt utólagos ellenőrzés tényállásának teljes körű tisztázása érdekében ezen vizsgálat szükséges (kapcsolódó vizsgálat). Kapcsolódó vizsgálat esetében a vámhatóság a vizsgálat lefolytatásáról szóló előzetes értesítést mellőzi, és a kapcsolódó vizsgálat a megbízólevél átadásával veszi kezdetét. Az utólagos ellenőrzés a kapcsolódó vizsgálat időtartamára felfüggeszthető. Egyéb tekintetben a kapcsolódó vizsgálatra az utólagos ellenőrzés szabályai alkalmazandók.”

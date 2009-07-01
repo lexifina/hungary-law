@@ -1,0 +1,1 @@
+484. § Azon önkéntes kölcsönös biztosítópénztárak, valamint magánnyugdíjpénztárak, melyek e jogszabály hatálybalépésének időpontjában ingatlannal rendelkeznek és azon olyan fejlesztéseket hajtanak végre, amely műszaki ellenőr megbízását igényli, kötelesek a hatálybalépést követő 6 hónapon belül műszaki ellenőrt megbízni, és a megbízást a Felügyelet részére igazolni.
