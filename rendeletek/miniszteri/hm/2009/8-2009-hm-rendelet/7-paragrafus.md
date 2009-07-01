@@ -1,0 +1,1 @@
+## „(4) A támogatás iránti kérelmet a szükséges okmányok (az állami foglalkoztatási szerv által kiállított igazolások, parancsok másolatai stb.) csatolásával a képzés megkezdése előtt – a szervezeti egység parancsnoka (vezetője) véleményezését követően – az MH Szociálpolitikai Közalapítványához kell benyújtani.”
