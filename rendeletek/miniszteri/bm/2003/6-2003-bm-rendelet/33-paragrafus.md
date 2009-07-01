@@ -1,0 +1,1 @@
+## Az anyakönyvezett adatok összehasonlítása
