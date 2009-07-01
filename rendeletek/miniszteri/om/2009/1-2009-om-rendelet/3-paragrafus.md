@@ -1,0 +1,5 @@
+3. § (1) Az Önkormányzati Minisztérium az időközi választások pénzügyi fedezetét közvetlenül az illetékes települési önkormányzat polgármesteri hivatala (körjegyzőség esetén a körjegyzőség) bankszámlájára, illetve a fővárosi, megyei önkormányzati hivatal bankszámlájára folyósítja. Az időközi választások pénzügyi fedezete az átadónál támogatásértékű működési kiadásként, az átvevő szervnél támogatásértékű működési bevételként kerül biztosításra.
+
+(2) Az Önkormányzati Minisztérium a regionális államigazgatási hivatal részére fejezeten belüli előirányzatátcsoportosítással, a megfelelő kiemelt előirányzaton biztosítja az időközi választások pénzügyi fedezetét.
+
+(3) Az Önkormányzati Minisztérium az időközi választás dologi kiadásainak fedezetére rendelkezésre álló, az 1. mellékletben meghatározott normatívák szerinti összeget az első forduló napját megelőző 20. munkanapig előlegként folyósítja. A személyi juttatások normatíváinak folyósítására csak utólag, a pénzügyi elszámolás elfogadását követően kerül sor.
