@@ -1,0 +1,1 @@
+## 1. § Az anyakönyvvezetői feladatok ellátásához jogszabályban előírt anyakönyvi szakvizsgát (a továbbiakban: szakvizsga) a polgármester és a köztisztviselő (a továbbiakban: jelölt) az e rendeletben foglalt szabályok szerint tehet.
