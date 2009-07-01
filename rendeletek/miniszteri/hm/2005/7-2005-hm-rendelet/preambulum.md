@@ -1,0 +1,1 @@
+A honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 52. § (1) bekezdés f) pontjában kapott felhatalmazás alapján az önkéntes haderő kialakításával összefüggésben a következőket rendelem el:
