@@ -1,0 +1,3 @@
+24. § (1) Az igénylőlap kitöltésével, a jogosultság igazolásával, az igénylés nyilvántartásba vételével, a kedvezmény érvényesítésével, a jogosultság megszüntetésével vagy felfüggesztésével kapcsolatos fogyasztói panaszok ügyében a fogyasztóvédelmi hatóság jár el a VET 57. §-ának megfelelően.
+
+(2) Ha az igénylőlap ellenőrzésére, feldolgozására, továbbküldésére, valamint az igénylőlaphoz és kedvezmény érvényesítéséhez kapcsolódó értesítésekre vonatkozó e rendelet szerinti határidőket a kapcsolattartásra kijelölt szervezet, az átviteli rendszerirányító, illetve az illetékes egyetemes szolgáltató neki felróható okból nem tartja be, köteles a fogyasztó kárát megtéríteni.

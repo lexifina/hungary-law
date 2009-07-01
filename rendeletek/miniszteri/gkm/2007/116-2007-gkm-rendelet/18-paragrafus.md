@@ -1,0 +1,3 @@
+## tartalmazza.
+
+## A jogosultság megszűnése
