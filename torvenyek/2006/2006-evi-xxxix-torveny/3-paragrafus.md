@@ -1,0 +1,1 @@
+3. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Rádiótávközlési Hivatal (ERO) létrehozásáról szóló, Hágában, 1993. június 23. napján kelt Egyezmény 2002. december 17-én kelt Módosító Okirata (a továbbiakban: Módosító Okirat) kötelező hatályának elismerésére.
