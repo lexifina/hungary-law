@@ -1,0 +1,3 @@
+## 8. § Az R2. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az állami kezességvállalás feltétele, hogy a kölcsön teljes hiteldíjmutatójának mértéke kisebb, mint a kölcsönt nyújtó hitelintézet által állami kezességvállalás nélkül, forintban, kamattámogatás szempontjából azonos feltételekkel nyújtott lakáskölcsön teljes hiteldíjmutatója. Amennyiben a kölcsön támogatott és nem támogatott kölcsönrészekből áll, az egyes kölcsönrészekre vonatkozó teljes hiteldíjmutatónak kisebbnek kell lennie, mint a hitelintézet által az adott kölcsönrésszel azonos feltételekkel, de állami kezességvállalás nélkül nyújtott lakáskölcsön teljes hiteldíjmutatója.”

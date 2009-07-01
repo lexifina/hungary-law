@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság 2000. évi költségvetéséről szóló 1999. évi CXXV. törvény 91. § (1) bekezdés e) pontjában foglalt felhatalmazás alapján, valamint az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdésének b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:

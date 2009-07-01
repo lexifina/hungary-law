@@ -1,0 +1,15 @@
+## „(16) A Kincstár hatósági jogkörében eljárva méltányossági eljárást nem folytathat le, kivéve a részletfizetés engedélyezését. A kedvezmény, az adó-visszatérítési támogatás, illetőleg a fiatalok otthonteremtési támogatása (15) bekezdés szerinti és részletekben történő visszafizetése akkor engedélyezhető, ha a kérelmező igazolja, hogy a támogatás azonnali és egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos terhelést jelent.”
+
+5. § (1) Az R1. 21. § (3) bekezdésének helyébe a következő rendelkezés lép:
+
+## „(3) Ha a lakás tulajdonosa lakásának egy részét idegeníti el, a kedvezmény, az adó-visszatérítési támogatás, illetőleg a fiatalok otthonteremtési támogatása összegének csak az elidegenítésre kerülő tulajdoni hányadra jutó arányos részét kell visszafizetni. Ebben az esetben a jegyző határozatban intézkedik a teljes támogatási összeg visszafizetését biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak a töröltetése iránt, továbbá határozatban intézkedik a visszafizetési kötelezettség alá nem eső támogatási összegnek megfelelő a Magyar Államot megillető jelzálogjog, illetve az azt biztosító elidegenítési és terhelési tilalom a támogatott lakásra történő bejegyeztetése iránt.”
+
+(2) Az R1. 21. § (6) bekezdésének helyébe a következő rendelkezés lép:
+
+## „(6) Ha a lakás tulajdonosa a (4) bekezdés szerinti határidő lejártáig az újabb lakás megszerzését hitelt érdemlően igazolja (az adásvételi vagy csereszerződés esetén a tulajdonjog bejegyzése iránti kérelem ingatlan-nyilvántartási bejegyzését tartalmazó hiteles tulajdoni lap másolatával, építés esetében a használatbavételi engedély bemutatásával), és a korábbi lakás elidegenítéséből származó teljes bevételt – csökkentve a (16) bekezdésben foglaltakkal – számlával vagy szerződéssel és értékbecsléssel igazoltan az új lakás megszerzésére fordította, az (1) bekezdés szerinti kötelezettség az eredeti határidő lejártáig terheli. A kedvezményt, az adó-visszatérítési támogatást, a megelőlegező kölcsön időszaka alatt az állam által fizetett ellenszolgáltatásokat, illetőleg a fiatalok otthonteremtési támogatása visszafizetését biztosító jelzálogjognak az ingatlan-nyilvántartásban az újabb lakásra való átjegyzése iránt az önkormányzat jegyzője intézkedik. A megelőlegező kölcsönt biztosító jelzálogjog újabb ingatlanra történő átjegyezhetőségéről a hitelintézet dönt és intézkedik.”
+
+(3) Az R1. 21. § (9) bekezdésének helyébe a következő rendelkezés lép:
+
+## „(9) Ha az eladó a korábbi lakás elidegenítéséből származó – a (16) bekezdésben foglaltakkal csökkentett – bevételnek csak egy részét fordította az újabb lakás megszerzésére, úgy a támogatásnak az eladási és a vételár különbözetével arányos részét kell visszafizetnie. Ebben az esetben a jegyző a határozatával a visszafizetési kötelezettség alá nem eső támogatási hányadra jutó jelzálogjogot, továbbá annak biztosítására az elidegenítési és terhelési tilalmat az újabb ingatlanra a Magyar Állam javára bejegyezteti.”
+
+(4) Az R1. 21. §-a a következő (16) bekezdéssel egészül ki:
