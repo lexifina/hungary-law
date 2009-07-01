@@ -1,0 +1,3 @@
+## 1. § A villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben igénybe vehető villamosenergia-vásárlási kedvezményről szóló 116/2007. (XII. 29.) GKM rendelet (a továbbiakban: R.) 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A „C” díjszabással történő vételezésre, illetve a kedvezményre jogosult villamosenergia-ipari munkavállaló halála esetén annak túlélő házastársa, aki 2007. június 21-én villamosenergia-ipari özvegyként nem vételezett az R. szerint „C” díjszabással villamos energiát, a jogosultság kezdetének a 4. számú mellékletben meghatározott időpontjától számított 5 évig jogosult a kedvezményre.”

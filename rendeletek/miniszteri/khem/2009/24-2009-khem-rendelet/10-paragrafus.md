@@ -1,0 +1,3 @@
+## 9. § Az R. 23. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+## „(11) Az illetékes egyetemes szolgáltató a (10) bekezdés szerinti értesítést követő 10 munkanapon belül értesíti a kedvezményre jogosultat a jogosultság fennállásáról és jellemzőiről, külön kiemelve az (5) bekezdés szerint korrigált eltéréseket. Az értesítésen szerepeltetni kell a kedvezményre jogosult fogyasztónak az átviteli rendszerirányító által adott egyedi azonosító kódját. A kedvezményre jogosult fogyasztó az értesítést követő 20 munkanapon belül észrevételt tehet az illetékes egyetemes szolgáltatónál, amelyet az egyetemes szolgáltató az észrevétel kézhezvételétől számított 5 munkanapon belül továbbít az átviteli rendszerirányító részére.”
