@@ -1,0 +1,1 @@
+A szakképzésről szóló 1993. évi LXXVI. törvény 5. § (1) bekezdés b) pontjában foglalt felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § b), c), e), f), g), h), k), n), p) és q) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
