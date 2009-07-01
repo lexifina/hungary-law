@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Stratégiai Légiszállítási Képességről (Strategic Airlift Capability – SAC) szóló többoldalú Egyetértési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
