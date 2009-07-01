@@ -1,0 +1,3 @@
+## II. MUNKADÍJ
+
+## Közös szabályok

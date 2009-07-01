@@ -1,0 +1,9 @@
+## 3. §
+
+## Ha a közjegyző több jogügyletet foglal egy okiratba, az egyes jogügyletek után a munkadíjat külön kell felszámítani.
+
+## 4. §
+
+(1) Ha a közjegyző eljárása a rajta kívül álló okból befejezetlen marad, munkadíjra és költségtérítésre a ténylegesen elvégzett munka arányában tarthat igényt.
+
+(2) A törvényben foglaltak megsértése vagy elmulasztása miatt közokiratnak nem tekinthető okiratért, tanúsítványért [Ktv. 131. § (1) bek.] és kiadmányért [Ktv. 154. § (5) bek.] nem jár munkadíj és költségtérítés.
