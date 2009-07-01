@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad arra, hogy a Magyar Köztársaság a 93/2008. (IV. 23.) Korm. rendelettel (a továbbiakban: Rendelet) kihirdetett, a Stratégiai Légiszállítási Képességről szóló többoldalú Egyetértési Megállapodáshoz (a továbbiakban: Megállapodás) a 2. § szerinti értelmező nyilatkozatot tegye.
