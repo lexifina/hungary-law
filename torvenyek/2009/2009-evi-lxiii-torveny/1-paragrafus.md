@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya között a határokat átlépő bűnözés megelőzése és leküzdése érdekében folytatott együttműködésről szóló Megállapodás kötelező hatályának elismerésére.
