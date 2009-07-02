@@ -1,0 +1,3 @@
+26. § (1) A tárgyévben elszámolóegységre épülő rendszert alkalmazó pénztár a Br. 22. §-ának (1) bekezdésében előírt kötelezettségét a 2008. évre vonatkozóan 2009. június 30-áig köteles teljesíteni.
+
+(2) Az elszámolóegységre épülő nyilvántartási rendszerre 2008. december 31-ével áttérő magánnyugdíjpénztár azon tagok követelésének eszközfedezetét, akik 2008. negyedik negyedévében az Mpt. 28. §-a szerinti egyösszegű kifizetést, átlépést, illetve a társadalombiztosítási nyugdíjrendszerbe történő visszalépést kezdeményeztek, 2009. évben a klasszikus portfolió befektetési szabályai szerint köteles befektetni.
