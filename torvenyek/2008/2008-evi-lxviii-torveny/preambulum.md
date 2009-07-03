@@ -1,0 +1,1 @@
+Az Országgyűlés a harmadik országokból beutazó személyek által importált termékek után fizetendő hozzáadottérték-adó és jövedéki adó alóli mentesítésről szóló 2007/74/EK tanácsi irányelv végrehajtására a következő törvényt alkotja:
