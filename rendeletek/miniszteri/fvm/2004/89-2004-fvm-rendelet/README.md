@@ -1,0 +1,9 @@
+# 89/2004. (V. 15.) FVM rendelet
+
+a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-89-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-07-03 | 2004-89-20-82.16 | 89/2004. (V. 15.) FVM rendelet |
