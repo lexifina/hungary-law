@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a határokat átlépő bűnözés elleni harcban történő együttműködésről szóló Megállapodás kötelező hatályának elismerésére.
