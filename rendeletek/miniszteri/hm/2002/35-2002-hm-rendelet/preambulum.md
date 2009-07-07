@@ -1,0 +1,3 @@
+A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 287. §-ának g) pontjában kapott felhatalmazás alapján – figyelemmel a honvédelemről szóló 1993. évi CX. törvény 10. §-ának g) pontjára, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. §-a (3) bekezdésének b) pontjára, valamint a Munka Törvénykönyvéről szóló 1992. évi XX. törvény 165. §-ának (1) bekezdésére – a kedvezményes üdültetés rendjéről a következőket rendelem el:[^1]
+
+[^1]: A preambulum a 7/2005. (III. 23.) HM rendelet 10. § (10) bekezdésének a) pontja szerint módosított szöveg.
