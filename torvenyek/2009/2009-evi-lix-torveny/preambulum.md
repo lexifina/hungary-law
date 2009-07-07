@@ -1,0 +1,1 @@
+(A COTIF Egyezmény 35. Cikkének 3. §-ában foglaltak szerint az OTIF Főtitkára körlevelében értesítette a tagállamokat, hogy a RID Szabályzat 2009. évi módosításai 2009. január 1-jén – 2009. június 30-ig tartó átmeneti idővel – hatályba léptek.)
