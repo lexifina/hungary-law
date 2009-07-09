@@ -1,0 +1,3 @@
+35. § Az Szht. 7. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A 4. § (5) bekezdésében, valamint az 5. § (2) bekezdésének a) pontjában meghatározott fejlesztési támogatás mértéke nem haladhatja meg szakképző iskolai tanulónként, illetve a felsőoktatási intézmény által szervezett, államilag finanszírozott, az Ftv. hatálya alá tartozó gyakorlati képzésben részt vevő hallgatónként – a (3) bekezdésben meghatározott tárgyi eszköz átadása kivételével – legfeljebb a költségvetési törvényben meghatározott, a szakképzési évfolyamon történő szakmai gyakorlati képzésre megállapított közoktatási kiegészítő hozzájárulás fajlagos összegének a kétszeresét.”

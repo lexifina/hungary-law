@@ -1,0 +1,1 @@
+68. § Az Flt. e törvény 32. §-ával megállapított 40. §-át és az e törvény 33. §-ával megállapított 46/B. §-ának (1) bekezdését a 2009. július 1-jétől megszerzett jövedelmekre és keletkezett járulékfizetési kötelezettségre kell alkalmazni, azzal, hogy a 2009. július 10-éig megszerzett jövedelmekre a 2009. június 30-án hatályos rendelkezéseket kell alkalmazni.

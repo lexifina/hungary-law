@@ -1,0 +1,1 @@
+48. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 30. §-ának (4) bekezdésében a „24. § (1) bekezdésének b)–h) pontjában” szövegrész helyébe a „24. § (1) bekezdésénekb)–e) és g)–h) pontjában” szövegrész lép.

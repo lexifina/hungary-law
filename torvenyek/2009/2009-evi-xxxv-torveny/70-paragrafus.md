@@ -1,0 +1,1 @@
+70. § A Pftv. e törvénnyel megállapított rendelkezéseit a törvény hatálybalépésének napját megelőzően kiváltott START, START PLUSZ vagy START EXTRA kártyával rendelkező személy foglalkoztatása esetén is alkalmazni kell a foglalkoztatásnak a törvény hatálybalépését követő időtartamára.

@@ -1,0 +1,3 @@
+66. § (1) Annak a képviselőnek a társadalombiztosítási jogaira és kötelezettségeire, aki az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 6. §-ának (6) bekezdésében foglaltak szerinti nyilatkozatot tesz, a képviselői tevékenység teljes időtartamára a Tbj. biztosítottakra vonatkozó rendelkezései irányadók.
+
+(2) Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 7/A. §-ában említett, a tiszteletdíja után nyugdíjjárulékot fizető képviselő a nyugdíjjárulék-fizetési kötelezettségét közvetlenül a nyugdíjbiztosítási igazgatási szervnek, magán-nyugdíjpénztári tagság esetén a tagdíjat a magánnyugdíjpénztárnak teljesíti.
