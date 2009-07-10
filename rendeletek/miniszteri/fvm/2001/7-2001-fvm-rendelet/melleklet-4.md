@@ -1,0 +1,3 @@
+4. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^313]
+
+[^313]: A 4. számú melléklet a 37/2003. (IV. 4.) FVM rendelet 40. § (2) bekezdésével megállapított, a 63/2004. (IV. 27.) FVM rendelet 9. §-a, a 119/2004. (VII. 12.) FVM rendelet 2. §-a, a 62/2005. (VII. 8.) FVM rendelet 8. § (4) bekezdésének a) pontja, a 81/2005. (IX. 13.) FVM rendelet 4. § (1) bekezdése, az 56/2006. (VIII. 1.) FVM rendelet 6. § (1) bekezdése, a 65/2007. (VII. 23.) FVM rendelet 9. § (1) bekezdése, az 5/2008. (I. 17.) FVM rendelet 4. § (2) bekezdése, a 10/2009. (II. 25.) FVM rendelet 11. § (3) bekezdése szerint módosított szöveg.
