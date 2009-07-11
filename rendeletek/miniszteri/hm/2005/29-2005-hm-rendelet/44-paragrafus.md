@@ -1,0 +1,5 @@
+## VI. Fejezet
+
+## A FREKVENCIASÁVOK FELHASZNÁLÁSI
+
+## SZABÁLYAI
