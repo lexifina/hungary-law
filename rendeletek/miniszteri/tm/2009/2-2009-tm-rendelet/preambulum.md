@@ -1,0 +1,1 @@
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 78. § (3) bekezdésében foglalt felhatalmazás alapján, a 88/2009. (IV. 13.) Korm. rendelet 2. § d) pontjában meghatározott feladatkörömben eljárva – a polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszterrel egyetértésben – a következőket rendelem el:
