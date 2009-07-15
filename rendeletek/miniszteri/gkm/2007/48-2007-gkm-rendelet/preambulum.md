@@ -1,0 +1,1 @@
+A gazdasági és közlekedési miniszter feladat- és hatásköréről szóló 163/2006. (VII. 28.) Korm. rendelet 1. §-ának e) pontjában foglalt hatáskörömben eljárva, az árak megállapításáról szóló 1990. évi LXXXVII. törvény 7. §-ában foglalt felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
