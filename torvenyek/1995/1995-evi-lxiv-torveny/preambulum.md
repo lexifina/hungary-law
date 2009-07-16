@@ -1,0 +1,1 @@
+Az Országgyűlés az államháztartásról szóló 1992. évi XXXVIII. törvény 54. §-a alapján, a gyermek- és ifjúsági korosztályok öntevékenységének támogatása, valamint az erre a célra rendelkezésre álló központi költségvetési és egyéb pénzeszközök kiegészítése érdekében az alábbi törvényt alkotja:
