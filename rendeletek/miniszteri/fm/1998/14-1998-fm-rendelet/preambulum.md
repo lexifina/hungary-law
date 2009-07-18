@@ -1,0 +1,1 @@
+Az agrárpiaci rendtartásról szóló 1993. évi VI. törvény 27. §-ának (2) bekezdésében kapott felhatalmazás alapján – az érdekelt miniszterekkel egyetértésben – a kereskedelmi célú vágómarha-termelés, a minőségi hús-, hústermék-előállítás és kereskedelem elősegítése érdekében a következőket rendelem el:
