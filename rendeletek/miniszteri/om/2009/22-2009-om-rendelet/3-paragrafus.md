@@ -1,0 +1,5 @@
+## 2. § A termék tanúsítását külön jogszabályban foglaltak szerint kijelölt tanúsító szervezet végezheti, jogszabály, honosított harmonizált szabvány vagy műszaki követelmény előírásai szerint. Ezek hiányában a tűzvédelmi biztonságossági műszaki követelményeket az Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) állapítja meg.
+
+3. § (1) A tanúsítvány kiadásához szükséges vizsgálat elvégeztetéséről, valamint a tanúsítvány beszerzéséről a gyártó vagy forgalmazó köteles gondoskodni.
+
+(2) Az e rendeletben meghatározott technikai jellegű előírásoknak nem kell megfelelnie az olyan terméknek, amelyet az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások az emberi egészség és élet védelme tekintetében az e rendeletben meghatározottal egyenértékű védelmet nyújtanak. Az emberi egészség és élet védelmének érdekében az egyenértékűség vizsgálatára az OKF jogosult.
