@@ -1,0 +1,1 @@
+A Kormány a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvény 4. §-ának (4) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
