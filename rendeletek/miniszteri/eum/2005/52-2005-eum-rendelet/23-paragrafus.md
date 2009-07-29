@@ -1,0 +1,3 @@
+23. § (1) Az OGYI kölcsönös elismerési, illetve a decentralizált eljárás esetében, amennyiben nem referencia hatóság, az erre irányuló kérelem kézhezvételét követő 90 napon belül jóváhagyja az értékelő jelentést, az alkalmazási előírást, valamint a címkét és betegtájékoztatót vagy azok tervezetét, és erről tájékoztatja a referencia tagállamot.
+
+(2) Kölcsönös elismerési, illetve a decentralizált eljárás esetében, ha az OGYI a referencia hatóság, lezárja az engedélyezési folyamatot, írásban összesíti valamennyi tagország jóváhagyását a forgalomba hozatali engedély kiadására, és értesíti a kérelmezőt és az érintett tagállamokat.
