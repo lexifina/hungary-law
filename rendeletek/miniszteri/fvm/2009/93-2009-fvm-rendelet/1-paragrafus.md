@@ -1,0 +1,1 @@
+1. § (1) Az Európai Mezőgazdasági Vidékfejlesztési Alapból a falumegújításra és -fejlesztésre igénybe vehető támogatások részletes feltételeiről szóló 135/2008. (X. 18.) FVM rendelet (a továbbiakban: R.) 5. §-a a következő (7) bekezdéssel egészül ki:
