@@ -1,0 +1,7 @@
+## A rendelet alkalmazási köre
+
+1. § (1) E rendeletet a mezőgazdasági, takarmányozási, állatgyógyászati, élelmiszer-termelési, valamint egyéb ipari célú (pl. szerves kémiai intermedier vagy aminosav előállítása, enzimmel végzett katalízis) géntechnológiai tevékenységre, ezen tevékenységek folytatásához szükséges műszaki, technológiai, környezetvédelmi, természetvédelmi és egészségügyi feltételekre, valamint a géntechnológiával módosított szervezetből álló, vagy ilyen szervezetet a külön jogszabályban[^1] meghatározott határérték felett tartalmazó termékek jelölésére kell alkalmazni.
+
+(2) E rendelet előírásait az Európai Parlament és a Tanács géntechnológiával módosított élelmiszerekről és takarmányokról szóló 2003. szeptember 22-i 1829/2003/EK rendeletével (a továbbiakban: 1829/2003/EK rendelet), továbbá a géntechnológiával módosított szervezetek nyomonkövethetőségéről és címkézéséről, és a géntechnológiával módosított szervezetekből előállított élelmiszer- és takarmánytermékek nyomonkövethetőségéről, valamint a 2001/18/EK irányelv módosításáról szóló 2003. szeptember 22-i 1830/2003/EK rendelettel együtt kell alkalmazni.
+
+[^1]: A géntechnológiai tevékenység engedélyezési eljárási rendjéről, valamint az eljárás során az Európai Bizottsággal való kapcsolattartásról szóló 132/2004. (IV. 29.) Korm. rendelet, valamint a géntechnológiával módosított élelmiszerekről és takarmányokról szóló 2003. szeptember 22-i 1829/2003/EK európai parlamenti és tanácsi rendelet.
