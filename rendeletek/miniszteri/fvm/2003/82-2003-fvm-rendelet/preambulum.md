@@ -1,0 +1,1 @@
+A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény (a továbbiakban: törvény) 34. §-ának (8) bekezdésében kapott felhatalmazás alapján – a gazdasági és közlekedési miniszterrel, valamint az egészségügyi, szociális és családügyi miniszterrel egyetértésben – a következőt rendelem el:

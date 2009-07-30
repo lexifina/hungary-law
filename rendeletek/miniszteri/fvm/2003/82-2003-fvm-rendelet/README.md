@@ -1,0 +1,9 @@
+# 82/2003. (VII. 16.) FVM rendelet
+
+a géntechnológiai tevékenységre vonatkozó nyilvántartás és adatszolgáltatás rendjéről, valamint a géntechnológiai tevékenységhez szükséges engedély iránti kérelemhez csatolandó dokumentációról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-82-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-07-30 | 2003-82-20-82.2 | 82/2003. (VII. 16.) FVM rendelet |
