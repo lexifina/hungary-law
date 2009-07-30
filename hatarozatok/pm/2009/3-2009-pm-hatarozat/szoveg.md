@@ -1,0 +1,3 @@
+Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2009. évi XXXV. törvény 38. §-ának (4) bekezdése alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következő határozatot hozom:
+
+Megállapítom, hogy az Európai Bizottságnak a távhőszolgáltatás kedvezményes áfa-mértékére vonatkozó határozata meghozatalára nyitva álló, az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2009. évi XXXV. törvény 38. § (3) bekezdésének b) pontja szerinti határidő 2009. július 29-én lejárt, és ezen időtartam alatt az Európai Bizottság nem hozott határozatot.
