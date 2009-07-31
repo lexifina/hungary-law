@@ -1,0 +1,1 @@
+A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény 57. §-a (1) bekezdésének a) pontjában kapott felhatalmazás alapján, a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
