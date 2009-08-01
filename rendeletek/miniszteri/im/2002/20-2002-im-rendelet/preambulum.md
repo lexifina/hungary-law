@@ -1,0 +1,1 @@
+A találmányok szabadalmi oltalmáról szóló, többször módosított 1995. évi XXXIII. törvény (a továbbiakban: Szt.) 118. §-ának (3) bekezdésében foglalt felhatalmazás alapján – a Magyar Szabadalmi Hivatal elnökével egyetértésben – a következőket rendelem el:
