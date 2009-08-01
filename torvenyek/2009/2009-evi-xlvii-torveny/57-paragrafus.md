@@ -1,0 +1,7 @@
+57. § (1) Az 56. § a)–c) pontjában meghatározott adatokat, valamint a DNS-profil meghatározására alkalmas anyagmaradványt a nyilvántartásba vétel alapjául szolgáló bűncselekmény miatt büntetőeljárást folytató nyomozó hatóság vagy ügyészség – a nyilvántartásba vétel kezdeményezésével egyidejűleg – megküldi a szakértői nyilvántartó szerv részére.
+
+(2) A DNS-profilt a bűncselekmény helyszínén vagy a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványból a szakértői nyilvántartó szerv határozza meg.
+
+(3) Ha a nyomozás megszüntetésére vagy a büntetőeljárás jogerős befejezésére azért került sor, mert a nyilvántartásba vétel alapjául szolgáló cselekmény nem bűncselekmény vagy a nyomozás adatai alapján nem állapítható meg bűncselekmény elkövetése, és az eljárás folytatásától sem várható eredmény, ennek tényét a határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a szakértői nyilvántartó szervvel.
+
+(4) Ha a büntetőeljárásban a tények tisztázása során megállapítható, hogy a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített DNS-profilok nyilvántartásába korábban nyilvántartásba vett DNS-profil olyan személytől származik, aki nem hozható összefüggésbe a nyilvántartásba vétel alapjául szolgáló bűncselekmény elkövetésével, ennek tényét a büntetőeljárást folytató nyomozó hatóság, ügyészség vagy bíróság közli a szakértői nyilvántartó szervvel.

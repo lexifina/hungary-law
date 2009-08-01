@@ -1,0 +1,1 @@
+27. § A kényszerintézkedés hatálya alatt állók nyilvántartásában annak az adatait kell nyilvántartani, akivel szemben előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet, távoltartást, ideiglenes kényszergyógykezelést rendeltek el, továbbá akinek előzetes letartóztatása óvadék letétele miatt szűnt meg.

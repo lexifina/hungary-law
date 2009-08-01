@@ -1,0 +1,1 @@
+40. § A bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomatok nyilvántartásában annak az adatait kell nyilvántartani, akinek ujj- és tenyérnyomatát bűncselekmény elkövetésének helyszínén vagy a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzítették, ha ezen adatokhoz személyazonosító adat nem kapcsolható.

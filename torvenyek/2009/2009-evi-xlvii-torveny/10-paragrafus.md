@@ -1,0 +1,1 @@
+10. § A bűntettesek nyilvántartásában annak az adatait kell nyilvántartani, akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, és az ítélet jogerőre emelkedésének napján a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) alapján nem mentesült.

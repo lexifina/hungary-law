@@ -1,0 +1,1 @@
+55. § A bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített DNS-profilok nyilvántartásában annak az adatait kell nyilvántartani, akinek DNS-profilját bűncselekmény helyszínén vagy a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványból határozták meg, ha ezen adatokhoz személyazonosító adat nem kapcsolható.
