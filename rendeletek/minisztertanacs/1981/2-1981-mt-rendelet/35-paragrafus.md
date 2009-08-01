@@ -1,0 +1,1 @@
+## Eltérő rendelkezések áruátvétel esetére

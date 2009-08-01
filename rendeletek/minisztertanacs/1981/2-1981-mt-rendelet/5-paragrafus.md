@@ -1,0 +1,1 @@
+## 4. § Gépjárművel végzett fuvarozásnál a szerződő felek (a fuvaroztató és a fuvarozó) jogaira, kötelezettségeire, valamint a szerződés teljesítésére a Polgári törvénykönyv fuvarozásra vonatkozó rendelkezéseit az 5–15. §-ban foglalt kiegészítésekkel kell alkalmazni.

@@ -1,0 +1,1 @@
+## Az árudarabok megjelölése
