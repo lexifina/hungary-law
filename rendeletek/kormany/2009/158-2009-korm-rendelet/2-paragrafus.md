@@ -1,0 +1,9 @@
+## II. Fejezet
+
+## A MAGYAR EREDETVÉDELMI TANÁCS
+
+2. § (1) A Magyar Eredetvédelmi Tanács (a továbbiakban: MET) a földművelésügyi és vidékfejlesztési miniszter (a továbbiakban: miniszter) véleményező, javaslattevő jogkörrel működő konzultatív testülete a mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalma iránti eljárásokban.
+
+(2) A MET tizenöt tagból áll, akik közül – a miniszter előzetes felkérése alapján – az agrárágazat és az élelmiszeripar területéhez kapcsolódó oktató, illetve kutató intézmények 3 főt, a mezőgazdasági és élelmiszeripari termékek előállítóinak szakmai érdekképviseleti szervezetei 3 főt, a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek 1 főt javasolhatnak. A Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: Minisztérium) 3 főt, a Magyar Szabadalmi Hivatal (a továbbiakban: MSZH) 1 főt, a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) 3 főt, valamint a Nemzeti Fogyasztóvédelmi Hatóság 1 főt jelöl. A MET tagjait a miniszter nevezi ki.
+
+(3) A MET ügyrendjét a miniszter hagyja jóvá; működésének feltételeiről, valamint a titkársági feladatok ellátásáról a Minisztérium gondoskodik. A MET elnökét és titkárát a Minisztérium képviselői közül a miniszter nevezi ki.
