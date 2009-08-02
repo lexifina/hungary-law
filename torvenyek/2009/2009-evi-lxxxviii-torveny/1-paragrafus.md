@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a nemzetközi polgári repülésről szóló, Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény 1., 2., 3., 4., 6/I., 6/II., 6/III., 9., 10/I., 10/II., 10/III., 10/IV.,10/V., 11., 12., 13., 15. és 18. Függelékeit e törvénnyel kihirdeti.

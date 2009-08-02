@@ -1,0 +1,1 @@
+(Az Egyezmény 13. Függeléke 2006. november 23. napján, 9. Függeléke 2007. július 15. napján, 3. Függeléke 2007. november 7. napján, 1., 2., 4., 6/I., 6/II., 6/III., 10/I., 10/II., 10/III., 10/V., 11., 12., 15., 18. Függeléke 2007. november 22. napján, 10/IV. Függeléke 2007. november 28. napján lépett nemzetközi jogi értelemben hatályba.)

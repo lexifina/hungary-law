@@ -1,0 +1,1 @@
+2. § Az Egyezmény 1., 2., 3., 4., 6/I., 6/II., 6/III., 9., 10/I., 10/II., 10/III., 10/IV., 10/V., 11., 12., 13., 15. és 18. Függelékeinek hiteles angol nyelvű szövegét és hivatalos magyar nyelvű fordítását a törvény melléklete tartalmazza.
