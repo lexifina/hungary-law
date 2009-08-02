@@ -1,0 +1,1 @@
+2. § A nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek hiteles angol nyelvű szövegét és hivatalos magyar nyelvű fordítását a törvény melléklete tartalmazza.
