@@ -1,0 +1,1 @@
+## A SOSZ működési támogatása
