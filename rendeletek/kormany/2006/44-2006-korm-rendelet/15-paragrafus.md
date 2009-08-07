@@ -1,0 +1,1 @@
+## 14. § A minisztérium a támogatásra vonatkozó pályázati felhívásokat az oktatási miniszter kezdeményezésére a minisztérium hivatalos lapjában, honlapján és legalább két országos napilapban köteles közzétenni.

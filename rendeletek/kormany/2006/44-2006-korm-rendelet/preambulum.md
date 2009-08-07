@@ -1,0 +1,1 @@
+A közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Kt.) 94. § (3) bekezdésének k) pontjában kapott felhatalmazás alapján a Közoktatási Fejlesztési Célelőirányzat működésének részletes szabályaival kapcsolatban a Kormány a következőt rendeli el:
