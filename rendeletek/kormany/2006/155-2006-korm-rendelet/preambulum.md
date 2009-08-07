@@ -1,0 +1,1 @@
+A Kormány Magyarország folyóin 2006 tavaszán kialakult rendkívüli árvíz, valamint az ország egyes területein ezen év első hónapjaiban bekövetkezett jelentős belvíz miatt keletkezett károk enyhítése érdekében a következőket rendeli el:
