@@ -1,0 +1,1 @@
+A Kormány az egyes elkobzott dolgok közérdekű felhasználásáról szóló 2000. évi XIII. törvény (a továbbiakban: törvény) 7. §-ának (6) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
