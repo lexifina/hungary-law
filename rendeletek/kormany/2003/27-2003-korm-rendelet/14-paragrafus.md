@@ -1,0 +1,3 @@
+14. § (1) A célelőirányzatból támogatott beruházással létrehozott vagyon a beruházás üzembe helyezésétől a támogatási szerződésben meghatározott kötelezettségvállalás időpontjáig csak a támogatási döntést hozó előzetes jóváhagyásával, illetve a szolgáltatási és az egyéb kötelezettségek (munkahelyteremtés, munkahelymegőrzés stb.) más által történő átvállalásával idegeníthető el, adható más vállalkozás tulajdonába, vagy adható bérbe.
+
+(2) Ha az elidegenítésre, más vállalkozás tulajdonába adásra vagy a bérbeadásra a döntést hozó jóváhagyása nélkül kerül sor, a 15. § (2) bekezdésének b) pontja szerint kell eljárni.
