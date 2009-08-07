@@ -1,0 +1,3 @@
+## V. Fejezet
+
+## ELSZÁMOLÁS AZ ÁLLAMI VAGYONNAL

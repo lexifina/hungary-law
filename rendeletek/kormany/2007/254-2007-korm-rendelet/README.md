@@ -1,0 +1,9 @@
+# 254/2007. (X. 4.) Korm. rendelet
+
+az állami vagyonnal való gazdálkodásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-08-07 | 2007-254-20-22.5 | 254/2007. (X. 4.) Korm. rendelet |

@@ -1,0 +1,1 @@
+## Versenyeztetés nélküli értékesítés

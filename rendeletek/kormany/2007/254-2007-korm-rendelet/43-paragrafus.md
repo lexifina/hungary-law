@@ -1,0 +1,5 @@
+43. § (1) Az ajánlattevő a szerződéskötésig – illetőleg a 39. § (2)–(3) bekezdésében megjelölt tárgyalás megkezdéséig – köteles titokban tartani ajánlata tartalmát, köteles továbbá a pályázati eljárás befejezését követően is bizalmasan kezelni a kiíró által a rendelkezésére bocsátott minden tényt, információt, adatot, azokról harmadik személynek tájékoztatást nem adhat. Ez a tilalom nem zárja ki a finanszírozó bankokkal, konzorcionális ajánlat esetén a konzorciumi résztvevőkkel, valamint az ajánlattevő meghatalmazott jogi képviselőjével, illetve az ajánlat elkészítéséhez az ajánlattevő által igénybe vett, felhatalmazással rendelkező egyéb szakértővel való kapcsolattartást, a titoktartási kötelezettség azonban e személyekre is kiterjed.
+
+(2) Ha az ajánlattevő vagy az érdekkörébe tartozó más személy a pályázat titkosságát megsértette, a kiíró az ajánlatot érvénytelennek nyilváníthatja.
+
+(3) A kiíró a pályázók számát a pályázatok bontásáig, az ajánlatok tartalmát a döntéshozatalig –, illetve a 39. § (2)–(3) bekezdésében megjelölt tárgyalás megkezdéséig – köteles titkosan kezelni, arról felvilágosítást sem kívülállóknak, sem a pályázaton részt vevőknek nem adhat.
