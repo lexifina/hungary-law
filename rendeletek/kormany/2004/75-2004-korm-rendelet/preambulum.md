@@ -1,0 +1,1 @@
+A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdésének g) pontjában kapott felhatalmazás alapján az országos jelentőségű területfejlesztési programokra szolgáló fejezeti kezelésű előirányzatok felhasználásával kapcsolatban a Kormány a következőket rendeli el:
