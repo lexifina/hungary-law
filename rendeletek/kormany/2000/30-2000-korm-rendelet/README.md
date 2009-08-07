@@ -1,0 +1,9 @@
+# 30/2000. (III. 10.) Korm. rendelet
+
+a mezőgazdasági termelők kibontakozási hitelkonstrukciójáról és a gazdahitel programról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-30-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-08-07 | 2000-30-20-22.10 | 30/2000. (III. 10.) Korm. rendelet |

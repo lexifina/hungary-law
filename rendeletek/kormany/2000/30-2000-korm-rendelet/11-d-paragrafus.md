@@ -1,0 +1,11 @@
+11/D. §[^29] (1) Elfogadott jelentés alapján a kifizethető kibontakozási támogatás összege – a benyújtott kibontakozási hitelkonstrukciós pályázatban vállalt és jóváhagyott program, valamint a minisztérium által kiadott igazolásban előírt kötelezettségek időarányos teljesítése esetén – az 1. számú melléklet szerinti támogatási okiratban meghatározott kibontakozási hitelösszeg éves arányos előirányzatának felel meg.
+
+(2) A kibontakozási hitel a pályázati kiírás szerint a hitelszerződés megkötésétől számított háromszor háromszázhatvanöt napig állhat fenn. A jelentés – amelyet első ízben a 2000. évi gazdálkodásra vonatkozóan kell elkészíteni – minden esetben naptári évre vonatkozik. A beszámolót tájékoztató jelleggel ki kell egészíteni a beszámolási évet követő év – beszámoló elkészítéséig terjedő – eseményeinek, tevékenységének, folyamatainak bemutatásával.
+
+(3) Teljesítés esetén a kibontakozási támogatás igénybevételére jogosító igazolás kiadására, illetőleg a támogatás évente egy összegben történő kifizetésére a 2001., 2002. és 2003. években kerül sor, függetlenül attól, hogy a 2001. évben megkötött hitelszerződések esetében a hitelek lejárata – és így az utolsó tőketörlesztés is – a 2004. évben esedékes. A támogatásból történő tőketörlesztés legkésőbbi időpontja 2003. december 31. Az emiatt esetlegesen bekövetkező, a hitellejáratot megelőző teljesítés esetén az igénybe vett támogatások nem minősülnek jogosulatlan igénybevételnek és az igénylő mentesül az ezzel járó jogszabályi szankciók alól. Ebben az esetben a kibontakozási hitelhez kapcsolódó kamattámogatás csak a kibontakozási hitel utolsó tőketörlesztési időpontjáig vehető igénybe.
+
+(4) A támogatásra jogosult a kibontakozási támogatást – annak folyósítását követő 15 napon belül – a kibontakozási hitel évente esedékes egyösszegű törlesztésére köteles felhasználni. Ennek elmulasztása az igénylő programból való kizárását vonja maga után.
+
+(5) Az igénylő a vissza nem térítendő támogatást a minisztérium által kiadott 1. számú melléklet szerinti támogatási okirattal igényelheti az állami adóhatóság illetékes szervétől, a 10032000–01905609 számú Agrártermelési támogatások folyósítási számláról.
+
+[^29]: A 11/D. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
