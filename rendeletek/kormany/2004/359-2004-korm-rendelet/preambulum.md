@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 124. §-a (2) bekezdés cs) pontjában, valamint t) pontjának második fordulatában kapott felhatalmazás alapján a következőket rendeli el:

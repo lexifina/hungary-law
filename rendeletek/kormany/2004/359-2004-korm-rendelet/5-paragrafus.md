@@ -1,0 +1,7 @@
+## 4. § Amennyiben e rendeletben felsorolt programokban támogatásban részesülő szervezet vállalkozásnak minősül, számára vagy az EK Szerződés 87. és 88. cikkének a csekély összegű (ún. de minimis) támogatásokra való alkalmazásáról szóló 69/2001/EK rendelet, vagy az EK Szerződés 87. és 88. cikkében foglaltaknak a foglalkoztatásra nyújtott állami támogatásokra való alkalmazásáról szóló 2204/2002/EK bizottsági rendelet, vagy az EK Szerződés 87. és 88. cikkének a képzési támogatásokra való alkalmazásáról szóló 68/2001/EK bizottsági rendelet, vagy az EK Szerződés 87. és 88. cikkének a kis- és középvállalkozások támogatására való alkalmazásáról szóló 70/2001/EK bizottsági rendelet, vagy a Tanács 1257/1999/EK számú, az Európai Mezőgazdasági Orientációs és Garanciaalapból (EMOGA) nyújtandó vidékfejlesztési támogatásról és bizonyos rendeletek módosításáról szóló rendeletének hatálya alá tartozó támogatás nyújtható, a támogatás nyújtásának módjára a hivatkozott közösségi rendeletek szabályai az irányadók.
+
+## A programok végrehajtásában részt vevő szervek
+
+5. § (1) A programok végrehajtásában a strukturális alapokra vonatkozó általános rendelkezések megállapításáról szóló 1260/99/EK rendelet (a továbbiakban: 1260/99/EK rendelet) értelmében a monitoring bizottság, az irányító hatóság, a kifizető hatóság, valamint a közreműködő szervezet vesz részt.
+
+(2) A programokkal kapcsolatos egyes speciális feladatokat a nemzeti hatóság, az al-kifizető hatóság, a közös titkárság, valamint az információs pontok látnak el.

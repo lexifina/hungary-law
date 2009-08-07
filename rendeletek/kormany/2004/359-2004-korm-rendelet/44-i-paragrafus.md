@@ -1,0 +1,3 @@
+44/I. § (1) Minden negyedévet követő 6 héten belül az irányító hatóság, illetve nemzeti hatóság a szabálytalansági eljárások indításáról, a megtett intézkedésekről és azok eredményeiről az Európai Bizottság által meghatározott formában jelentést küld a kifizető hatóság részére.
+
+(2) Az irányító hatóság, illetve nemzeti hatóság a negyedik negyedéves szabálytalansági jelentések mellékleteként kimutatást küld a kifizető hatóság részére az INTERREG Közösségi Kezdeményezés programok keretében adott időpontban behajtásra váró, a behajtási eljárások megindításának éve szerint osztályozott összegekről, illetve tájékoztatja a kifizető hatóságot a behajtott összegek újrafelhasználásának módjáról.
