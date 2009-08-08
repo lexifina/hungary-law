@@ -1,0 +1,3 @@
+21. § (1) A szántóföldi ellenőrzésre bejelentett adatok helyszíni azonosításakor a szántóföldi ellenőrzést végző felügyelőnek – a szántóföldi ellenőrzés megkezdése előtt – a termelő területére vonatkozó nyilvántartási adatok és a termelő nyilatkozata alapján kell a vetőmag-szaporítás táblájára vonatkozó adatokat azonosítania, illetve tájékozódnia a tábla helyéről, a területen az előző években termesztett növényfajokról.
+
+(2) A vetőmag-előállító táblákat elválasztó sávval kell elhatárolni egymástól, beleértve az azonos fajtájú, de különböző szaporítási fokú vetőmag-szaporító táblák elkülönítését is.

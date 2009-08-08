@@ -1,0 +1,23 @@
+## Engedményes vetőmag
+
+5. § (1)[^4] Átmeneti és az Európai Unión belül ki nem küszöbölhető vetőmaghiány esetén engedélyezhető a Nemzeti Fajtajegyzékben és a Közösségi Fajtajegyzékben nem szereplő, illetve az e rendeletben foglaltaknak meg nem felelő vetőmag átmeneti forgalomba hozatala.
+
+(2)[^5] Az (1) bekezdés szerinti engedély iránti kérelmet az MgSzH-hoz írásban kell benyújtani.
+
+(3)[^6] Az MgSzH egyetértése esetén a kérelmet – a (6) bekezdés szerinti eset kivételével – az Európai Unió Mezőgazdasági, Kertészeti és Erdészeti Vetőmagok és Szaporítóanyagok Állandó Bizottságának (a továbbiakban: Állandó Bizottság) továbbítja. Az engedélyről az MgSzH támogató előterjesztését elbírálva az Állandó Bizottság dönt.
+
+(4)[^7] Az MgSzH az Állandó Bizottság engedélyező döntését követően jogosult az engedményezett vetőmagtétel – a szaporítási fok által meghatározott címke színének megfelelő – címkéjét kiállítani, amelyen minden esetben fel kell tüntetni az engedményezés tényét, továbbá, hogy a vetőmag kevésbé szigorú követelményeknek felel meg.
+
+(5)[^8] Az MgSzH meghatározott időszakra engedélyezheti a csírázóképesség szempontjából az 1–4. számú mellékletekben foglaltaknak meg nem felelő elit fokú vetőmag hatósági minősítését és forgalomba hozatalát. Az ilyen engedményezés esetén a szállítónak szavatolnia kell a meghatározott csírázóképességet, amelyet egyedi, külön címkéjén – a szállító nevének, címének és a vetőmagtétel fémzárolási számának egyidejű szerepeltetésével – fel kell tüntetnie.
+
+(6)[^9] A 3. számú melléklet C. részének II. pontjában a minimális csírázásra vonatkozóan megállapított követelményeknek meg nem felelő I. és II. szaporítási fokú, valamint kereskedelmi vetőmag átmeneti forgalomba hozatala iránti kérelmet az MgSzH – egyetértése esetén – az Európai Bizottságnak továbbítja, a többi tagállam egyidejű értesítésével. A kérelem tartalmi elemeit a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet (a továbbiakban: 217/2006/EK rendelet) 3. cikke határozza meg.
+
+(7)[^10] A 217/2006/EK rendelet 2. cikkének (1) bekezdése szerinti kapcsolattartó pont a Magyar Köztársaság tekintetében az MgSzH.
+
+[^4]: Az 5. § (1) bekezdése a 70/2006. (IX. 27.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2006. október 12. napját követően megkezdett vizsgálatok során kell alkalmazni.
+[^5]: Az 5. § (2) bekezdése a 45/2008. (IV. 11.) FVM rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^6]: Az 5. § (3) bekezdése a 70/2006. (IX. 27.) FVM rendelet 4. § (2) bekezdésével megállapított, a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b)–c) pontja szerint módosított szöveg.
+[^7]: Az 5. § (4) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^8]: Az 5. § (5) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^9]: Az 5. § (6) bekezdését a 70/2006. (IX. 27.) FVM rendelet 4. § (3) bekezdése iktatta be, szövege a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (7) bekezdését a 70/2006. (IX. 27.) FVM rendelet 4. § (3) bekezdése iktatta be, szövege a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.

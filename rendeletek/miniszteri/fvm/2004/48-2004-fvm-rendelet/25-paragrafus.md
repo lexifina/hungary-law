@@ -1,0 +1,1 @@
+## minősítő számmal kell elbírálni.
