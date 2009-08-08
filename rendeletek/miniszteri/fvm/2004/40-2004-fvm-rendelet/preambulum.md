@@ -1,0 +1,1 @@
+A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény (a továbbiakban: törvény) 30. §-a (2) bekezdésének a) és b) pontjában kapott felhatalmazás alapján a következőket rendelem el:
