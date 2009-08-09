@@ -1,0 +1,1 @@
+A Kormány az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény 17. §-ának (2) bekezdésében foglaltak alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
