@@ -1,0 +1,1 @@
+## 4. § A nyomozó hatóság az erről szóló külön értesítés megküldésével közli a büntetőeljárás hatálya alatt állók nyilvántartása részére a büntetőügyek egyesítése esetén az egyes egyesítésre került eljárásokról és az egyesített eljárásról a Bnytv. 23. § c), d) és h)–j) pontjában meghatározott adatokat.
