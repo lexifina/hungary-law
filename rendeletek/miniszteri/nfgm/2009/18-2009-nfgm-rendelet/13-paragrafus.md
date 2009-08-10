@@ -1,0 +1,1 @@
+## 12. § A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés napjától számított tíz évig megőrizni, és azokat ellenőrzés esetén az ellenőrzésre jogosult állami szervek rendelkezésére bocsátani.
