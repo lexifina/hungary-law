@@ -1,0 +1,3 @@
+15. § (1) A vetőmag-előállítónak minden termelési időszak kezdete előtt értesítenie kell az MgSzH területi szervét a tervezett vetőmag-termelési terület méretéről és földrajzi elhelyezkedéséről a Szántóföldi rendelet 14. §-ában előírt határidők betartásával. Az MgSzH területi szerve az összesített területi adatokat továbbítja az MgSzH Központnak.
+
+(2) Amennyiben az (1) bekezdés szerinti értesítések alapján a tervezett termesztéshez szükséges vetőmag-mennyiség a 14. §-ban megállapított mennyiségeket várhatóan meghaladja, az MgSzH Központnak a fajtafenntartóval történt egyeztetést követően fel kell osztani minden érintett vetőmagtermelő között azt a mennyiséget, amelyet a megfelelő termelési időszakban forgalmazhatnak.

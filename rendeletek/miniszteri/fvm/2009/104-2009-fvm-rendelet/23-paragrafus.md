@@ -1,0 +1,1 @@
+23. § Ez a rendelet a helyi és a regionális feltételekhez természetes módon alkalmazkodott, és génerózió által veszélyeztetett mezőgazdasági honos fajok és fajták elfogadása, és ezen honos fajok és fajták vetőmagjának, valamint vetőburgonyájának forgalmazása esetében alkalmazható eltérésekről szóló, 2008. június 20-i 2008/62/EK bizottsági irányelvnek való megfelelést szolgálja.
