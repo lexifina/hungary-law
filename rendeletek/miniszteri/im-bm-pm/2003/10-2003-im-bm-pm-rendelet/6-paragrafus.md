@@ -1,0 +1,3 @@
+6. § (1) Az iratmásolat birtoklására jogosult személy a birtokában lévő technikai eszköz (a továbbiakban: saját technikai eszköz) segítségével másolatot készíthet a saját részére azokról az iratokról, amelyek birtoklására jogosult, feltéve, hogy az ilyen módon végzett iratmásolás nem jár az összefűzött iratanyag megbontásával.
+
+(2) Az iratmásolásra az ügyben eljáró hatóság vagy bíróság hivatalos helyiségében – a hatóság vagy a bíróság jelen lévő tagjának vagy ügyviteli alkalmazottjának ellenőrzése mellett – az ügyfélfogadási időben kerül sor. Az iratot a hatóság vagy a bíróság épületéből kivinni nem lehet, a hatóság vezetője, illetőleg a bíróság elnöke engedélyezheti az iratmásolásnak az ügyfélfogadási időn túli időpontban történő elvégzését.
