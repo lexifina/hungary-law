@@ -1,0 +1,1 @@
+## 86. § Ha a számítástechnikai rendszer útján rögzített adatok megőrzésére kötelezés végrehajtása különleges szakismeretet igényel – így különösen annak megállapítása, hogy a számítástechnikai rendszer útján rögzített adat biztonságos tárolásának feltételei fennállnak-e, a számítástechnikai rendszer naplózása megoldott-e – szaktanácsadót kell alkalmazni.

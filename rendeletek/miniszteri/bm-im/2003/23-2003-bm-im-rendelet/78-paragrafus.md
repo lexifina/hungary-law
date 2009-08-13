@@ -1,0 +1,1 @@
+## 77. § Ha a házkutatásra, lefoglalásra, motozásra a Be. 177. §-a szerint halaszthatatlan nyomozási cselekményként kerül sor, a határozatot szóban kell közölni. Az ilyen esetben a halaszthatatlan nyomozási cselekményről készült jegyzőkönyvbe foglalható a határozat, valamint a jogorvoslati jogra történt figyelmeztetés, és az arra tett nyilatkozat.

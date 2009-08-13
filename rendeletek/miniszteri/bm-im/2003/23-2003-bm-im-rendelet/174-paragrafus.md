@@ -1,0 +1,3 @@
+174. § (1) Közlekedési, illetőleg a közlekedés körében elkövetett bűncselekmény megalapozott gyanújának a közlésekor a cselekmény Btk. szerinti minősítésén túl meg kell jelölni a megszegett közlekedési vagy foglalkozási szabályt is. Külföldön történő elkövetés esetén a megszegett, külföldön hatályos közlekedési, illetve foglalkozási szabályt kell megjelölni.
+
+(2) A gyanúsítottat kihallgatásakor nyilatkoztatni kell arra is, hogy a közlekedési bűncselekmény elkövetése előtt mennyit vezetett, mióta vezeti az adott járművet, illetőleg mióta vezet ilyen típusú járművet. Azt, hogy a gyanúsított mióta és milyen vezetői engedéllyel rendelkezik, ellenőrizni kell a vezetői engedélye, illetve a külön nyilvántartások alapján.

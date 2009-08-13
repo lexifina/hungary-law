@@ -1,0 +1,5 @@
+## 37. § Indokolt esetben a helyszíni kihallgatást megelőzően tisztázni kell a részt vevő gyanúsított, sértett, illetve tanú, látó-, halló- és egyéb észlelő képességét, állapotát, illetőleg az ezekben bekövetkezett esetleges változásokat is. A résztvevő felkérhető arra, hogy előzetesen készítsen a helyszínről, az ott található bizonyítási eszközről rajzot vagy vázlatot, amelyet a jegyzőkönyvhöz kell csatolni.
+
+38. § (1) A helyszíni kihallgatást – ha a hallási, látási viszonyoknak, illetve egyéb észlelési körülményeknek külön jelentőségük van – az eredeti észlelés időpontjának megfelelő viszonyok, illetve körülmények között kell megtartani. Az észlelési körülményekről a gyanúsítottat, sértettet, illetve tanút a helyszíni kihallgatást megelőzően ki kell hallgatni.
+
+(2) A helyszíni kihallgatás során biztosítani kell, hogy a részt vevő gyanúsított, sértett, illetve tanú önállóan mutassa meg a helyszínre érkezés és a távozás útvonalát, a helyszínt és az ahhoz tartozó tárgyak, tárgyi bizonyítási eszközök helyét és elhelyezkedésüket, illetve a kérdéses cselekményt.

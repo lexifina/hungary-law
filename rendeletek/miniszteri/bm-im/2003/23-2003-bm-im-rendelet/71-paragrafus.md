@@ -1,0 +1,3 @@
+71. § (1) Ha a gyanúsított a házi őrizet részleges feloldására irányuló kérelmét a nyomozó szervnél nyújtja be, azt a nyomozó szerv – álláspontjának kifejtésével – haladéktalanul megküldi az ügyészhez.
+
+(2) Ha a gyanúsított a házi őrizet szabályait megszegi, a nyomozó szerv vezetője a házi őrizet végrehajtásáról szóló 6/2003. (IV. 4.) IM–BM együttes rendelet alapján a bíróság részére készített jelentés egy példányát egyidejűleg az ügyész részére is megküldi, illetőleg ha a házi őrizet szabályainak megszegését olyan súlyúnak ítéli – a jelentésre utalással – előterjesztést tesz az ügyészhez rendbírság kiszabása, vagy előzetes letartóztatás elrendelésének indítványozása iránt.
