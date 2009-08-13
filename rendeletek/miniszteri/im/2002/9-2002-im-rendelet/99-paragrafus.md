@@ -1,0 +1,3 @@
+99. § (1) Az elítélt szabadításával egyidejűleg a bv. intézet a II. jelzésű mellékbüntetési értesítőlapot – a beszámításra vonatkozó adatok kitöltését követően – a 95. § (2) bekezdésben megjelölt hatóságnak küldi meg.
+
+(2) Kiutasítás esetén a bv. intézet a II. jelzésű mellékbüntetési értesítőlapot az elítélt várható szabadulása napját harminc nappal megelőzően megküldi az ügydöntő határozatot hozó bíróság székhelye szerint illetékes területi idegenrendészeti hatóságnak. Ha a várható szabadulás időpontja ezt követően megváltozik, a bv. intézet erről haladéktalanul értesíti az illetékes területi idegenrendészeti hatóságot.

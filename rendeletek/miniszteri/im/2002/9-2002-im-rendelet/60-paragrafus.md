@@ -1,0 +1,1 @@
+## Az értesítőlap mellőzése

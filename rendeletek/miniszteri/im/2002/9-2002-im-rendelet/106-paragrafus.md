@@ -1,0 +1,3 @@
+106. § (1) Ha az elítéltet több összbüntetésbe foglalt vagy foglalható büntetésre ítélték, a bíróság a kegyelmi kérelmet, a büntetések összbüntetésbe foglalása után a büntetőügyek irataival, illetve legalább az ítéletkiadmányokkal és a szükséges iratokkal terjeszti fel. A felterjesztő lapon az elítélések alapjául szolgáló tényállásokat, az alapügyben eljárt bíróságokat, a határozatok keltét, ügyszámát, a kiszabott büntetéseket és intézkedéseket is fel kell tüntetni.
+
+(2) Az (1) bekezdés esetén a felterjesztés akkor is az összbüntetési ügyben első fokon eljárt bíróság feladata, ha az elítélt több ítélethez fűződő hátrányos következmény alól kegyelemből történő mentesítését kéri.

@@ -1,0 +1,3 @@
+109. § (1) Ha az elítélt a szabadságvesztés végrehajtása során részesül kegyelemben, szabadításával egyidejűleg a bv. intézet a II. jelzésű mellékbüntetési értesítőlapon kegyelem tényét a kegyelmi elhatározás megjelölésével és a mellékbüntetés lejártának napjával feltünteti – a beszámításra vonatkozó adatok kitöltését követően –, és a 95. § (2) bekezdésében megjelölt érintett hatóságnak küldi meg.
+
+(2) Ha a kegyelem a mellékbüntetésre is kiterjed, a bv. intézet a II. jelzésű mellékbüntetési értesítőlapon a kegyelem tényét a kegyelmi elhatározás megjelölésével feltünteti, és megküldi a 95. § (2) bekezdésében megjelölt érintett hatóságoknak.
