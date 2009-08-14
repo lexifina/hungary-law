@@ -1,0 +1,3 @@
+54. § (1) Ha a bíróság az ügyben még nem kezdte meg a tárgyalást, és az 534. § (4) bekezdésében írt feltételek fennállnak, a bíróság a tárgyalásról lemondás alapjául szolgáló iratok hozzá érkezésétől számított hatvan napon belül az ügyet nyilvános ülésre tűzi ki.
+
+(2) Ha a bíróság az ügyben már megkezdte a tárgyalást, és az 534. § (4) bekezdésében írt feltételek fennállnak, a bíróság a tárgyalásról lemondás alapjául szolgáló iratok hozzá érkezésétől számított hatvan napon belül kitűzi a tárgyalás folytatásának napját. A tárgyaláson a bíróság az 541–542/B. § rendelkezései szerint jár el, és erről az érintetteket tájékoztatja.

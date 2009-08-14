@@ -1,0 +1,1 @@
+57. § E törvény hatálybalépésének időpontjában a jogerősen befejezett ügyekben a Be. 571. §-ának értelemszerű alkalmazásával az első fokon eljárt bíróságnak meg kell szüntetni a Be. 151. § (2) bekezdésében felsorolt tárgyi bizonyítási eszközöknek az iratok mellékletenkénti kezelését, és azokról e törvény rendelkezései szerint kell határozni.
