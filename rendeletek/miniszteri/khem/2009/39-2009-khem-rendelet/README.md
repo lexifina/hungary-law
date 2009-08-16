@@ -1,0 +1,9 @@
+# 39/2009. (VIII. 7.) KHEM rendelet
+
+a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) belföldi alkalmazásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-39-20-2M
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-08-16 | 2009-39-20-2M.2 | 39/2009. (VIII. 7.) KHEM rendelet |
