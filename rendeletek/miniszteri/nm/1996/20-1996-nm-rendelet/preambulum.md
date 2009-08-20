@@ -1,0 +1,1 @@
+Az egészségügy társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 103/1995. (VIII. 25.) Korm. rendelet, valamint a társadalombiztosításról szóló 1975. évi II. törvény végrehajtásáról rendelkező 89/1990. (V. 1.) MT rendelet módosításáról szóló 114/1996. (VII. 23.) Korm. rendelet 7. §-ának (5) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
