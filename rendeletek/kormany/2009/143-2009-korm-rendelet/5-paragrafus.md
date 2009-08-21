@@ -1,0 +1,1 @@
+## erdővédelmi bírságot köteles fizetni.

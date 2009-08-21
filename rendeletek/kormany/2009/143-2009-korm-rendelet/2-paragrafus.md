@@ -1,0 +1,1 @@
+## 1. § Az erdőgazdálkodási és erdővédelmi bírság mértéke az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 82. § (1) bekezdés szerinti erdővédelmi járulékalap (a továbbiakban: EJA) 3–4. § szerinti szorzata.
