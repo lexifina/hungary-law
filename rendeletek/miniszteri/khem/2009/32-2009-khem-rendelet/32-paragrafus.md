@@ -1,0 +1,5 @@
+32. §[^2] (1) A rendelet hatálybalépését megelőzően kiadott képzési engedélyek, amelyek motoros pilóta, ultralight A2 pilóta, MOVIT szakszolgálati engedély, jogosítás megszerzésére vonatkoznak, az érvényességük lejártáig, de legfeljebb a rendelet hatálybalépését követő 12. hónap utolsó napjáig érvényesek, azzal, hogy ezen képzési engedélyek alapján a rendeletben meghatározott képzések – a 17. mellékletben meghatározott szakszolgálati engedély, jogosítás megszerzésére irányuló képzések kivételével – nem folytathatóak.
+
+(2) Motoros pilóta, ultralight A2 pilóta, MOVIT szakszolgálati engedély vagy jogosítás megszerzésére irányuló, a rendelet hatálybalépésekor folyamatban lévő képzések alapján a légiközlekedési hatóság a 17. mellékletben meghatározott szakszolgálati engedélyt és jogosítást ad ki. Ezen szakszolgálati engedély vagy jogosítás a rendelet hatálybalépését követő 12. hónap utolsó napjáig adható ki.
+
+[^2]: A 32. § e rendelet 30. § (3) bekezdése alapján hatályát veszti 2010. augusztus 31. napján.
