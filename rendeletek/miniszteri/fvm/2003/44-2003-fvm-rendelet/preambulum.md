@@ -1,0 +1,1 @@
+A takarmányok előállításáról, forgalomba hozataláról és felhasználásáról szóló 2001. évi CXIX. törvény (a továbbiakban: Tv.) 18. §-ának n) pontjában foglalt felhatalmazás alapján a következőket rendelem el:
