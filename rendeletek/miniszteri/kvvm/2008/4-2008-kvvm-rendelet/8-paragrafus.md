@@ -1,0 +1,3 @@
+8. § (1) A Kövi-ből támogatást – amennyiben nemzetközi szerződés eltérően nem rendelkezik – belföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező szervezet, jogi személyiséggel nem rendelkező gazdasági társaság, külföldi székhelyű vállalkozás magyarországi fióktelepe, egyéni vállalkozó, valamint természetes személy kaphat.
+
+(2) Nem nyújtható támogatás a pályázó részére, ha nem felel meg az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott rendezett munkaügyi kapcsolatok általános és különös feltételeinek, illetőleg ezen feltételek fennállását nem, vagy nem a külön jogszabályban meghatározott módon igazolja.
