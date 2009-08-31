@@ -1,0 +1,9 @@
+# 32/2005. (VI. 30.) BM–OM együttes rendelet
+
+a belügyminiszter irányítása alá tartozó rendészeti szakközépiskolákra vonatkozó szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-32-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-08-31 | 2005-32-20-0A.3 | 32/2005. (VI. 30.) BM–OM együttes rendelet |
