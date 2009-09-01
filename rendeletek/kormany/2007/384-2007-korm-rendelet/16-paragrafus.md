@@ -1,0 +1,1 @@
+## 15. § A rendszeresítés folyamán biztosítani kell a kényszerítő eszközzel szemben előírt alkalmazhatósági követelmények teljesítését biztosító szervezeti, kiképzési, műszaki, munka-, egészségügyi-, tűz-, környezetvédelmi, üzemeltetési és állagmegóvási feltételeket a rendszerben tartás teljes időtartamára.

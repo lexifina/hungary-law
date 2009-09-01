@@ -1,0 +1,6 @@
+14. §[^23] (1) Alkalmazásba vételi határozattal kerül a Rendőrség alkalmazásába a már rendszeresített kényszerítő eszköz azon típusváltozata, amely paramétereiben – különösen méretére, tömegére, színére, űrtartalmára, anyagminőségére, illetve a kényszerítő hatás kiváltására vonatkozóan – kismértékű eltérést mutat a már rendszeresített kényszerítő eszköz típusához képest, és ezáltal alkalmazástaktikájában nincs változás.
+
+(2)[^24] Az alkalmazásba vételről az 5. melléklet szerinti alkalmazásba vételi határozattal az országos rendőrfőkapitány dönt. Az alkalmazásba vételi határozatot – annak meghozatalát követően – haladéktalanul meg kell küldeni a miniszternek, aki 3 munkanapon belül gondoskodik az alkalmazásba vétel tényének az általa vezetett minisztérium honlapján való közzétételéről. A közzétételnek tartalmaznia kell az alkalmazásba vételi határozat számát, az alkalmazásba vett kényszerítő eszköz megnevezését, rövid leírását, és az alkalmazásba vétel szükségességének rövid indoklását.
+
+[^23]: A 14. § a 167/2009. (VIII. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^24]: A 14. § (2) bekezdésében meghatározott adatokat a 167/2009. (VIII. 26.) Korm. rendelet 17. §-a alapján 2009. szeptember 1-jét követő harminc napon belül az Igazságügyi és Rendészeti Minisztérium honlapján közzé kell tenni.
