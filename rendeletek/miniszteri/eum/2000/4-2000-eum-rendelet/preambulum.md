@@ -1,0 +1,1 @@
+Az önálló orvosi tevékenységről szóló 2000. évi II. törvény 3. §-a (7) bekezdésének b) pontjában és az egészségügyről szóló 1997. évi CLIV. törvény 247. §-a (2) bekezdésének f) pontjában kapott felhatalmazás alapján a következőket rendelem el:
