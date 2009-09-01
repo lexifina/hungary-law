@@ -1,0 +1,1 @@
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 83. § (3) bekezdésének a) és b) pontjában foglalt felhatalmazás alapján a betegségek megelőzését és korai felismerését szolgáló szűrővizsgálatok rendjét az alábbiak szerint állapítom meg:
