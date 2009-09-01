@@ -1,0 +1,1 @@
+## 15. § Minden egyes új csekély összegű (de minimis) támogatás odaítélésekor az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt de minimis támogatás teljes összegét kell figyelembe venni a pályázati adatlapon feltüntetett adatok alapján.
