@@ -1,0 +1,3 @@
+18. § A Gyvt. 73. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A Kormány által kijelölt gyámhivatal a külföldi állampolgárságú gyermek – ide nem értve a 4. § (1) bekezdésének b) pontja szerinti személyt – ideiglenes hatályú elhelyezését a gyermek származási országának válaszát követően azonnal, illetve hivatalból félévente felülvizsgálja, és ennek eredményeképpen dönt az ideiglenes hatályú elhelyezés fenntartásáról, a gondozási hely megváltoztatásáról vagy – ha azt nemzetközi szerződés vagy jogszabály nem zárja ki – az ideiglenes hatályú elhelyezés megszüntetésével egyidejűleg a gyermek gyámságáról, örökbefogadásáról.”
