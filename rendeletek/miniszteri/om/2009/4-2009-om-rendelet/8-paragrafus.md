@@ -1,0 +1,1 @@
+## 7. § Az önkormányzati miniszter a nyertes pályázóval (a továbbiakban: Támogatott) 2009. április 20-áig támogatási szerződést köt. E határidőnek a Támogatott hibájából történő elmulasztása jogvesztő.
