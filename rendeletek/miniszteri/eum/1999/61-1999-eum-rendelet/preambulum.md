@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény 88. §-ának (2) bekezdésében (a továbbiakban: Mvt.), valamint az egészségügyről szóló 1997. évi CLIV. törvény 247. §-a (2) bekezdésének d) pontjában kapott felhatalmazás alapján – a szociális és családügyi miniszterrel egyetértésben – a következőket rendelem el:
