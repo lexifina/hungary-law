@@ -1,0 +1,9 @@
+## A hozamérték-csökkenés megállapítása
+
+7. § (1) A tárgyévi hozamértéket a tárgyévben ténylegesen hasznosított termőföldről betakarított termésmennyiség alapulvételével a minisztérium honlapján és a Földművelésügyi és Vidékfejlesztési Értesítőben közleményben közzétett referenciaárakon kell figyelembe venni. Azon termékeknél, amelyekre referenciaár közzétételére nem került sor, a termelő a tárgyévet megelőző évi értékesítés számlával igazolt adatait használhatja fel, vagy az adott termékre vonatkozó számításokat a hozamérték-csökkenés megállapításánál mellőzheti. Utóbbi esetben azonban az adott termékre kárenyhítési juttatási igényt sem érvényesíthet.
+
+(2) Azon esetekben, amikor a referencia hozamérték és a hozamérték-csökkenés megállapításához csak a tárgyévben áll rendelkezésre adat, vagy a termelő adott termékből nem rendelkezik három elemikár-mentes év adataival, a szükséges információk beszerzése céljából a szakigazgatási hivatalhoz fordulhat, amely az adott termékre és az adott évre vonatkozó megyei átlagtermés-adatok alapján képezi a bázisadatokat. Ezen bázisadatok szolgálnak az adott termelő esetében a hozamérték-csökkenés kiszámításához szükséges referencia hozamértékek alapjául (6. számú melléklet táblázatának D és F oszlop adatai).
+
+(3) A termelőnek a referencia hozamérték megállapításához szükséges évenkénti termelési bázisadatokat tartalmazó, 5. számú melléklet szerinti nyilvántartásait nyolc évig meg kell őriznie.
+
+(4) Az igényelhető kárenyhítő juttatás összegét a Krt. 11. § (1) bekezdésének előírásai alapján, és a káresemények folytán lecsökkent termés betakarításának a ráfordításcsökkenése (6. melléklet táblázatának „M” oszlopa és a Megjegyzés rovatban megadott adatok), valamint a káresemények után a biztosító által kifizetett kártérítés összegének figyelembevételével kell meghatározni.
