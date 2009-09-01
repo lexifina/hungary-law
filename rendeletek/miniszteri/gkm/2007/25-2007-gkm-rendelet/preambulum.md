@@ -1,0 +1,1 @@
+A kereskedelemről szóló 2005. évi CLXIV. törvény 12. §-a (2) bekezdésének b) pontjában foglalt felhatalmazás alapján – a gazdasági és közlekedési miniszter feladat- és hatásköréről szóló 163/2006. (VII. 28.) Korm. rendelet 1. §-ának d) pontjában foglalt feladatkörben eljárva – a következőket rendelem el:
