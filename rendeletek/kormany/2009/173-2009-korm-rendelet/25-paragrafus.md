@@ -1,0 +1,1 @@
+## „(6) A Gyvt. 4. § (1) bekezdés b) pontja szerinti személynek a kérelem benyújtásakor igazolnia kell magyarországi lakcímét a lakcímről szóló hatósági igazolvánnyal. Ha a kérelmező lakcímét nem igazolja, a gyámhivatal a polgárok személyi adatainak és lakcímének nyilvántartását vezető szervet megkeresi az adatszolgáltatás érdekében.”

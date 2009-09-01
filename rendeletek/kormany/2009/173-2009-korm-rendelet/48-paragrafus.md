@@ -1,0 +1,1 @@
+## „A jegyző ellenőrzi a gyermekjóléti szolgáltatás és a gyermekek napközbeni ellátásának működését és ennek keretében szükség esetén a Gyvt. 100/A. §-a szerinti gyermekvédelmi igazgatási bírságot szab ki vagy a Gyvt. 100/B. §-ában foglalt intézkedést tesz.”

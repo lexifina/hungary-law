@@ -1,0 +1,3 @@
+## „(5) Ha a szülő hozzájárul gyermeke ismeretlen személy általi örökbefogadásához, és a gyermek ideiglenes hatályú elhelyezésére a leendő örökbefogadó szülőnél kerül sor, a gyámhivatal a végzés meghozatalával egyidejűleg közli a szülővel a szülői felügyeleti joga szünetelésének vagy megszűnésének, valamint a gyermek kötelező gondozásba történő kihelyezésének tényét.
+
+## (6) Az ideiglenes hatályú elhelyezésről szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a családtámogatási ellátást folyósító szervvel és a gyermeket ellátó védőnővel a gondozási hely megváltoztatásának és az esetleges gyámrendelésnek a tényét.”

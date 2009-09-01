@@ -1,0 +1,1 @@
+## „c) másodfokú hatósági jogkört gyakorol a települési önkormányzat jegyzőjének, a városi gyámhivatalnak a gyermekvédelmi és gyámügyi hatósági ügyeiben, valamint a gyermekvédelmi jelzőrendszer elégtelen működése esetén megteszi a Gyvt. 17. §-a (4) és (5) bekezdésében foglalt intézkedéseket.”

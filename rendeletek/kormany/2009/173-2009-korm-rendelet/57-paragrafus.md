@@ -1,0 +1,1 @@
+## „A szakhatóság a fenntartó kérelmére előzetes szakhatósági állásfoglalást ad ki, amely a működési engedélyezési eljárásban akkor használható fel, ha a fenntartó a működési engedély iránti kérelmét az előzetes szakhatósági állásfoglalás kiadását követő hat hónapon belül benyújtja.”
