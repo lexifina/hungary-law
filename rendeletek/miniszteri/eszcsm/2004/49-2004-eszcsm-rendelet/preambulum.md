@@ -1,0 +1,1 @@
+A helyi önkormányzatokról szóló 1990. évi LXV. törvény 97. §-ának b) pontjában és az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 247. §-a (2) bekezdésének f) pontjában foglalt felhatalmazás alapján – a 8. § (2) bekezdésének a)–c) pontja vonatkozásában az oktatási miniszterrel egyetértésben – a következőket rendelem el:
