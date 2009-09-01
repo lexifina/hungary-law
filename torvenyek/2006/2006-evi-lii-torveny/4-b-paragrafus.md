@@ -1,0 +1,1 @@
+4/B. § A polgárőrség a rendőrséggel való együttműködés keretében részt vehet a körözött gépjárművek azonosításában. Az azonosított körözött gépjárművekre vonatkozó információkról a polgárőrség a rendőrséget az azonosítást követően haladéktalanul tájékoztatja.

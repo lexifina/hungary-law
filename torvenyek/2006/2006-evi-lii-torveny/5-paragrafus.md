@@ -1,0 +1,1 @@
+5. § A polgárőr a tevékenysége során birtokába jutott személyes adatok megismerése és adatkezelése tekintetében a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény rendelkezései szerint köteles eljárni.
