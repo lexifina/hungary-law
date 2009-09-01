@@ -1,0 +1,1 @@
+9. § A felügyelő eljárása során a diplomáciai és konzuli képviseletek, valamint azok személyzetének kiváltságait és mentességeit, továbbá más, törvényben megállapított mentességeket köteles tiszteletben tartani.

@@ -1,0 +1,1 @@
+18. § A felügyelő azt a dolgot, amelynek elkobzását a szabálysértésekről szóló törvény lehetővé, illetőleg kötelezővé teszi, átvételi elismervény ellenében visszatarthatja, illetőleg visszatartja és az elkövetés helye szerint illetékes szabálysértési hatóságnak adja át.
