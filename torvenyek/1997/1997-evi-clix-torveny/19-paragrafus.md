@@ -1,0 +1,5 @@
+19. § (1) Az önkormányzati mezei őrszolgálat megalakítási, fenntartási és működési költségeit a földhasználó, ha ez ismeretlen, a tulajdonos által kifizetett mezőőri járulékból és a központi költségvetés által biztosított hozzájárulásból kell fedezni. A mezőőri járulék mértékét és megfizetésének módját a települési, a fővárosban a fővárosi kerületi önkormányzat, a mezei őrszolgálat létesítéséről és működéséről szóló helyi önkormányzati rendeletében szabályozza.
+
+(2) A megalakítási, fenntartási és működési költségek felét, de legfeljebb a külön jogszabályban meghatározott összeget a központi költségvetés biztosítja hozzájárulásként az agrárpolitikáért felelős miniszter által vezetett minisztérium fejezetéből.
+
+(3) Az önkormányzati mezei őrszolgálat esetében, a mezőőri járulék adók módjára behajtandó köztartozásnak minősül. Az eljárásra az ingatlan fekvése szerinti települési önkormányzat jegyzője jogosult

@@ -1,0 +1,1 @@
+12/A. § A természetvédelmi őr – a helyszíni bírságolás kivételével – a nemzeti park igazgatóság működési területén kívül is jogosult a 12. § szerint intézkedni, ha a természet és a régészeti örökség védelmének érdekeit sértő jogellenes cselekményt észlel, vagy a nemzeti park igazgatóság működési területén kívüli szolgálatellátást az arra jogosult elrendeli.

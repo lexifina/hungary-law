@@ -1,0 +1,1 @@
+Az Országgyűlés az állam működése, illetőleg a lakosság ellátása szempontjából kiemelkedően fontos létesítmények és tevékenységek, valamint a pótolhatatlan értéket képviselő nemzeti javak jogellenes cselekményekkel szembeni fokozottabb védelme, a védett természeti értékek és területek megóvása, valamint a termőföldek őrzése érdekében a következő törvényt alkotja:
