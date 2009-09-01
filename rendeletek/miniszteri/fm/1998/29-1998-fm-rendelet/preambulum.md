@@ -1,0 +1,1 @@
+A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 30. §-ának (6) bekezdésében foglalt felhatalmazás alapján – a belügyminiszterrel egyetértésben – a következőket rendelem el:
