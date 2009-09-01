@@ -1,0 +1,3 @@
+14. § Az Fbtv. 29. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A hegyőrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a hegybíró által kiadott hatósági szolgálati igazolvány igazolja. A hatósági szolgálati igazolvány tartalmazza a hegyőr arcfényképét, nevét, fegyvertartási engedélyének számát, működési területét, a munkáltató szerv megnevezését és címét. A hegyőr hatósági szolgálati igazolványának kiadására, nyilvántartásba vételére és nyilvánosságára a 15/B–15/C. § rendelkezéseit kell alkalmazni. A hegybíró a hegyőr számára az előírt vizsga és eskü letétele után szolgálati naplót ad ki.”

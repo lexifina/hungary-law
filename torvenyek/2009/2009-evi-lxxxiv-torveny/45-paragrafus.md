@@ -1,0 +1,5 @@
+45. § Az Ftv. a 4. §-t követően a következő 4/A. §-sal egészül ki:
+
+„4/A. § (1) A 3. § (1) bekezdését a lőfegyvernek, a festéklövő fegyvernek, a gáz- és riasztófegyvernek, a légfegyvernek, a színházi fegyvernek, a muzeális lőszer kivételével a lőszernek, a flóberttölténynek, a gáz- és riasztótölténynek, valamint a lőszerelemnek a szolgáltatási kerettörvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő javítására, forgalmazására is alkalmazni kell.
+
+(2) A 3. § (1) bekezdését az „A”, „B”, „C” vagy „D” kategóriába tartozó tűzfegyvernek, a lőfegyverdarabnak, az e törvény alapján lőfegyvernek minősülő légfegyvernek, a lőszernek és a hangtompítónak a szolgáltatási kerettörvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő exportjára, importjára, transzferére is alkalmazni kell.”
