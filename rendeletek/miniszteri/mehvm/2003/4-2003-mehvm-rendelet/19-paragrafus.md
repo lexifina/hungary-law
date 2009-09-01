@@ -1,0 +1,3 @@
+19. § (1) A Tv. 1. számú melléklete X. Miniszterelnökség fejezet, 9. cím, 2. alcím, 35. jogcímcsoport, vállalkozási övezetek támogatása megnevezés alatti kiadási előirányzat 8%-ában meghatározott egyéb működési célú támogatás 80 millió forintos összege 2003. évben a rendelet kihirdetésének időpontjában fennálló vállalkozási övezetek számára egyenlő arányban kerül felosztásra. A támogatás felhasználására és az elszámolásra vonatkozóan a támogatási szerződés feltételei az irányadóak.
+
+(2) A támogatást a vállalkozási övezetet működtető jogi személyiségű szervezet részére kell biztosítani. A vállalkozási övezeteket működtető jogi személyiségű szervezetek felsorolását a melléklet tartalmazza.
