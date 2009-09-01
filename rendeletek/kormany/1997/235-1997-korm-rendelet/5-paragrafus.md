@@ -1,0 +1,1 @@
+## 4. § Ha a nyilvántartási lapot a megszűnt ügyek nyilvántartásába helyezték, újabb nyilvántartásba vétel esetén azt a megszűnt nyilvántartásból ki kell emelni és az adatfelvételt ezen kell folytatni.

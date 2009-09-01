@@ -1,0 +1,11 @@
+## 1. §[^1] A gyámhatóságok, a személyes gondoskodást nyújtó gyermekjóléti alapellátást biztosító szervek és személyek, a területi gyermekvédelmi szakszolgálatok vezetői az 1. számú mellékletben meghatározott nyilvántartásokat vezetik. A nyilvántartások vezetése során gondoskodni kell a személyes adatoknak a Gyvt. 134. §-a (3) bekezdésében meghatározott védelméről.
+
+2. § (1) A nyilvántartásokon a nyilvántartásba vétel kezdő időpontját rögzíteni kell.
+
+(2) A nyilvántartásokat egymástól tárgykörönként el kell különíteni.
+
+(3) A (2) bekezdésben meghatározott módon kell kezelni a megszűnt ügyek nyilvántartását is, de azt a folyamatban lévő ügyektől el kell különíteni.
+
+(4) A nyilvántartásokban bekövetkezett változásokat folyamatosan kell vezetni.
+
+[^1]: Az 1. § a 260/2002. (XII. 18.) Korm. rendelet 1. §-ával megállapított, valamint a 251/2006. (XII. 6.) Korm. rendelet 21. § (6) bekezdésének a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 21. § (3) bekezdése alapján rendelkezéseit a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
