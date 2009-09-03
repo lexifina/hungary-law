@@ -1,0 +1,9 @@
+# 111/2009. (VIII. 19.) FVM rendelet
+
+az idegen és nem honos halfajoknak akvakultúrában való alkalmazásával kapcsolatos szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-111-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-09-03 | 2009-111-20-82.1 | 111/2009. (VIII. 19.) FVM rendelet |

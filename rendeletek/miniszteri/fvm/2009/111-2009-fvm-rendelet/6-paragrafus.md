@@ -1,0 +1,1 @@
+## 5. § Amennyiben – a 708/2007/EK rendelet 18. cikke szerinti – megfigyelési programot kell lefolytatni, az MgSzH Központ dönt annak helyszínéről. A tanácsadó bizottság véleménye alapján a megfigyelési program értékelését a nemzeti nyilvántartásba vétel céljából az MgSzH Központ juttatja el a Halászati és Öntözési Kutatóintézetnek.
