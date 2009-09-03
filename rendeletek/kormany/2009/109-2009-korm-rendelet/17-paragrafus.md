@@ -1,0 +1,3 @@
+## 16. § Az R. 18. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) Az államháztartásért felelős miniszter a Magyar Állam nevében az – az (5) bekezdés szerinti – értesítés kézhezvételét követő 15 naptári napon belül intézkedik a kultúráért felelős miniszter jóváhagyásában meghatározott összegű kártérítés, illetve viszontgarancia jogosult részére történő kifizetéséről. Kiállítási viszontgarancia esetében a viszontgarancia érvényesítésére kizárólag a kiállító által kötött biztosítási szerződés alapján történt kifizetést követően kerülhet sor. A garantőr Áht. 33/C. §-a (4) bekezdése szerinti megtérítési igénye a kártérítés kifizetését nem érinti.”
