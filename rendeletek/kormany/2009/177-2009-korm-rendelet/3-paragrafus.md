@@ -1,0 +1,41 @@
+## „5. § A miniszter a tudománypolitika kormányzati koordinációjáért való felelőssége körében
+
+## a) képviseli a kormányzati tudománypolitikát a Kormány, valamint az Országgyűlés előtt,
+
+## b) részt vesz a kormányzati technológia- és innovációpolitika kidolgozásában,
+
+## c) a Magyar Tudományos Akadémia elnökének közreműködésével összehangolja a kormányzati tudománypolitika kidolgozását és érvényesítését,
+
+## d) összehangolja a nemzetközi tudományos szervezetekben való magyar részvétellel kapcsolatos kormányzati feladatokat,
+
+## e) felelős az európai integrációból eredő tudományos és tudománypolitikai feladatok végrehajtásáért és az integrációs szakmai kapcsolatok szervezéséért, irányításáért,
+
+## f) kezdeményezi a nem közvetlen gazdasági haszon elérésére irányuló tudományos kutatások – így különösen a tiszta alapkutatások – költségvetési és európai uniós forrásainak összehangolt felhasználását.”
+
+3. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1–2. §, valamint a (3)–(8) bekezdés a rendelet kihirdetését követő hónap első napján lép hatályba.
+
+(3) Hatályát veszti a nemzeti fejlesztési és gazdasági miniszter feladat- és hatásköréről szóló 134/2008. (V. 14.) Korm. rendelet 1. § j) pontja, 3. § (8) bekezdés c) és d) pontja, valamint 10/A. § (1)–(2) bekezdése.
+
+(4)[^2] Ahol a (2) bekezdésben meghatározott időpontot megelőzően kihirdetett kormányrendelet vagy kormányhatározat a tudománypolitika koordinációjáért való felelősség körében nemzeti fejlesztési és gazdasági minisztert említ, azon az oktatási és kulturális minisztert kell érteni.
+
+(5)[^3] Az e kormányrendelet alapján az oktatási és kulturális miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre is kiterjedően – a Nemzeti Fejlesztési és Gazdasági Minisztérium és a Nemzeti Kutatási és Technológiai Hivatal jogutódja az Oktatási és Kulturális Minisztérium.
+
+(6)[^4] A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 14. § (1) bekezdés c) pontjának alkalmazása szempontjából az oktatási és kulturális miniszterhez átkerülő feladatkörök tekintetében a Nemzeti Fejlesztési és Gazdasági Minisztérium és a Nemzeti Kutatási és Technológiai Hivatal jogutódjának az Oktatási és Kulturális Minisztériumot kell tekinteni.
+
+(7)[^5] A Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény 1. számú mellékletében a XXXIV. Kutatás és technológia fejezet 3. cím Magyar Szabadalmi Hivatal besorolása XIV. Igazságügyi és Rendészeti Minisztérium fejezet 16. címre változik.
+
+(8)[^6] Felhatalmazást kap a Magyar Államkincstár 2009. szeptember 30-i határnappal a címrendi változás átvezetésére, egyidejűleg az átrendezés időpontjáig végrehajtott évközi előirányzat módosítások, teljesítési adatok, kötelezettségvállalások és a kapcsolódó előirányzat maradványok átrendezésére.
+
+(9) A köztisztviselők képzésével összefüggő egyes kormányrendeletek módosításáról szóló 252/2008. (X. 14.) Korm. rendelet 5. § (2) és (3) bekezdésében a „2009. szeptember 1-jéig” szövegrész helyébe a „2009. december 31-éig” szöveg lép.
+
+(10) Hatályát veszti a közigazgatási és ügykezelői alapvizsgáról szóló 51/1993. (III. 31.) Korm. rendelet 2. § (1) bekezdésében az „– az I. Besorolási osztály esetén legalább 6 hónapos, a II. Besorolási osztály esetén legalább 12 hónapos –” szövegrész.
+
+(11) Hatályát veszti a statisztikai szakképesítések szakmai követelményeiről szóló 77/1996. (V. 30.) Korm. rendelet.
+
+[^2]: A 3. § (4) bekezdése a 3. § (2) bekezdése alapján 2009. október 1-jén lép hatályba.
+[^3]: A 3. § (5) bekezdése a 3. § (2) bekezdése alapján 2009. október 1-jén lép hatályba.
+[^4]: A 3. § (6) bekezdése a 3. § (2) bekezdése alapján 2009. október 1-jén lép hatályba.
+[^5]: A 3. § (7) bekezdése a 3. § (2) bekezdése alapján 2009. október 1-jén lép hatályba.
+[^6]: A 3. § (8) bekezdése a 3. § (2) bekezdése alapján 2009. október 1-jén lép hatályba.
