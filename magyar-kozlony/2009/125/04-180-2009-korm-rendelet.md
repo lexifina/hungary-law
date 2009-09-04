@@ -1,0 +1,258 @@
+# A Kormány 180/2009. (IX. 4.) Korm. rendelete
+
+Magyar Közlöny 2009. évi 125. szám, 2009. szeptember 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a235b90728d00528dabfb0d125fb3ee295091a61/dokumentumok/33f4cb0dcefb6b1946f2aaa98754bdaf950816d9/letoltes)
+
+---
+
+A Kormány 180/2009. (IX. 4.) Korm. rendelete
+a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 124. §-a (2) bekezdésének u) pontjában kapott felhatalmazás
+alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva az alábbiakat rendeli el.
+1. §
+(1) A költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet (a továb biak ban: Ber.) 1. §-a
+(2) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+[A rendelet hatálya kiterjed]
+„a) a központi költségvetési szervekre;”
+(2) A Ber. 1. § (2) bekezdésének c) pontja helyébe a következő rendelkezés lép:
+[A rendelet hatálya kiterjed]
+„c) a köztestületi költségvetési szervekre;”
+
+(3) A Ber. 1. § (2) bekezdésének e) pontja helyébe a következő rendelkezés lép:
+[A rendelet hatálya kiterjed]
+„e) a központi államigazgatási szervek, helyi önkormányzati, kisebbségi önkormányzati, települési önkormányzatok
+többcélú kistérségi társulása, köztestületi költségvetési szervek, területfejlesztési tanácsok által alapított
+vagyonkezelői szervezetekre;”
+2. §
+(1) A Ber. 2. §-ának e) pontja helyébe a következő rendelkezés lép:
+[E rendelet alkalmazásában]
+„e) megbízhatósági ellenőrzés: a költségvetési szerv által működtetett belső kontrollrendszer megfelelőségének, az
+éves elemi költségvetési beszámolók számviteli alapelveknek való megfelelőségének, illetve a beszámolási időszak
+költségvetési gazdálkodása szabályszerűségének minősítése az államháztartásról szóló 1992. évi XXXVIII. törvény
+(a továb biak ban: Áht.) 121/A. §-ának (5) bekezdésében foglaltak szerint;”
+(2) A Ber. 2. §-ának h)–j) pontjai helyébe a következő rendelkezések lépnek:
+[E rendelet alkalmazásában]
+„h) gazdaságosság: az Áht. 87. § (2) bekezdésének a) pontjában meghatározott fogalom;
+i) hatékonyság: az Áht. 87. § (2) bekezdésének b) pontjában meghatározott fogalom;
+j) eredményesség: az Áht. 87. § (2) bekezdésének c) pontjában meghatározott fogalom;”
+(3) A Ber. 2. §-ának m) pontja helyébe a következő rendelkezés lép:
+[E rendelet alkalmazásában]
+„m) belső ellenőr: a költségvetési szervnél teljes vagy részmunkaidőben foglalkoztatott, vagy polgári jogi jogviszony
+keretében belső ellenőrzési tevékenységet ellátó személy;”
+(4) A Ber. 2. §-ának q) pontja helyébe a következő rendelkezés lép:
+[E rendelet alkalmazásában]
+„q) belső kontrollrendszer: az Áht. 120/B. §-ában meghatározott rendszer;”
+(5) A Ber. 2. §-a a következő r)–s) pontokkal egészül ki:
+[E rendelet alkalmazásában]
+„r) az ellenőrzés lezárása: egy adott ellenőrzés akkor tekinthető lezártnak, ha az ellenőrzési jelentést (vagy annak
+kivonatát) megküldték az ellenőrzött részére (illet ve annak, akire vonatkozóan megállapítást vagy javaslatot
+tartalmaz). Amennyiben az ellenőrzés során büntető-, szabálysértési, kártérítési, illetve fegyelmi eljárás megindítására
+okot adó cselekmény, mulasztás vagy hiányosság gyanúja merül fel, a költségvetési szerv vezetőjének feladata
+a szükséges intézkedések megtétele, ez azonban a belső ellenőrzés lezárását nem befolyásolja;
+s) FEUVE: az Áht. 121. §-ában meghatározott folyamatba épített, elő ze tes, utólagos és vezetői ellenőrzés;”
+(6) A Ber. 2. §-a a következő t) ponttal egészül ki:
+[E rendelet alkalmazásában]
+„t) magyarországi államháztartási belső ellenőrzési standardok: a pénzügyminiszter által közzétett standardok,
+amelyek a nemzetközi belső ellenőrzési standardokkal összhangban meghatározzák az államháztartási belső
+ellenőrzés céljai eléréséhez szükséges tevékenységek és eljárások során alkalmazandó alapelveket.”
+3. §
+A Ber. 4. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A fejezetet irányító szervnek – e szerv vezetőjének közvetlen irányítása alatt álló – külön belső ellenőrzési
+szervezeti egységgel kell rendelkeznie, amely ellátja az Áht. 121/A. §-ának (3) bekezdésében meghatározott
+feladatokat. E rendelkezés nem akadálya annak, hogy a minisztérium belső ellenőrzési egysége a miniszteri kabinet
+osztályaként működjön, illetve az állományába tartozó személyek felett a munkáltatói jogokat – a szervezeti egység
+vezetőjének megbízása és megbízásának visszavonása kivételével – a kabinetfőnök gyakorolja.”
+4. §
+(1) A Ber. 4/A. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az (1)–(3) bekezdések szerinti megállapodás alapján belső ellenőrzést végző személynek – azon, a szolgáltatási
+tevékenység megkezdésének és folytatásának általános szabályairól szóló tör vény szerint a szabad szolgáltatásnyújtás
+jogával rendelkező személyek kivételével, akik szakmájukat a külföldi bizonyítványok és oklevelek elismeréséről szóló
+tör vény rendelkezéseire figyelemmel határon átnyúló szolgáltatás keretében kívánják gyakorolni – meg kell felelnie
+a 11. § (1) bekezdésében meghatározott feltételeknek.”
+
+(2) A Ber. 4/A. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Amennyiben a költségvetési szerv foglalkoztat belső ellenőrt, a költségvetési szerv által külső szolgáltató
+igénybevételére fordított éves kiadások nem haladhatják meg a belső ellenőrzés tervezett éves személyi juttatásai és
+a kapcsolódó járulékai együttes kiadási összegének 50 százalékát. Ettől eltérni csak a fejezetet irányító szerv
+vezetőjének jóváhagyásával lehet.”
+5. §
+A Ber. 8. §-ának d) pontja helyébe a következő rendelkezés lép:
+[A belső ellenőrzés feladata:]
+„d) a vizsgált folyamatokkal kapcsolatban megállapításokat és ajánlásokat tenni, valamint elemzéseket, értékeléseket
+készíteni a költségvetési szerv vezetője számára a költségvetési szerv működése eredményességének növelése,
+valamint a belső kontrollrendszerek (ideértve a FEUVE-t is) javítása, továbbfejlesztése érdekében;”
+6. §
+A Ber. 17. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A költségvetési szerv vezetője elkészíti, rendszeresen aktualizálja és a belső ellenőrzés rendelkezésére bocsátja
+a költségvetési szerv ellenőrzési nyomvonalát (nyomvonalait).”
+7. §
+A Ber. 22. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A költségvetési szerv belső ellenőrzési vezetője a tárgyévet követő évre vonatkozó éves ellenőrzési tervét
+megküldi a fejezetet irányító költségvetési szerv belső ellenőrzési egységének vezetője részére minden év november
+15-éig. Önkormányzati költségvetési szerv esetén a költségvetési szerv belső ellenőrzési vezetője a tárgyévet követő
+évre vonatkozó éves ellenőrzési tervét megküldi a jegyző, többcélú kistérségi társulás által ellátott belső ellenőrzéssel
+érintett önkormányzati költségvetési szerv esetén a munkaszervezet vezetője részére minden év október 31-ig.”
+8. §
+(1) A Ber. 28. §-ának (1)–(2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A belső ellenőrzési vezető a jelentés tervezetét (illet ve annak kivonatát) egyeztetés céljából megküldi az
+ellenőrzött szerv, illetve szervezeti egység vezetőjének, továbbá annak, akire vonatkozóan a jelentéstervezet
+megállapítást vagy javaslatot tartalmaz (e § alkalmazásában a továb biak ban együttesen: érintettek).
+(2) A jelentéstervezetnek tartalmaznia kell a záradékot, amely szerint az érintettek kötelesek észrevételeiket
+a jelentéstervezet kézhezvételétől számított 10 munkanapon belül megküldeni az ellenőrzést végző szerv vagy
+szervezeti egység részére. Indokolt esetben a belső ellenőrzési vezető ennél hosszabb, legfeljebb 22 munkanapos
+határidőt is megállapíthat. A határidő elmulasztását egyetértésnek kell tekinteni, melyre a záradékban fel kell hívni az
+ellenőrzött figyelmét.”
+(2) A Ber. 28. §-ának (8) bekezdése helyébe a következő rendelkezés lép:
+„(8) Az ellenőrzési jelentést (illet ve annak kivonatát) – a vizsgálatvezető és a vizsgálatot végző valamennyi ellenőr
+aláírását köve tően – a belső ellenőrzési vezető megküldi
+a) az ellenőrzött szerv vezetőjének (költségvetési szerv ellenőrzése esetén), illetve
+b) az ellenőrzött szervezeti egység vezetőjének és a szervezeti egységet működtető költségvetési szerv vezetőjének
+(szervezeti egység ellenőrzése esetén), továbbá
+c) annak, akire vonatkozóan megállapítást vagy javaslatot tartalmaz.”
+9. §
+(1) A Ber. 29/A. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A fejezetet irányító szerv vezetője a fejezetére vonatkozó összefoglaló beszámolót, valamint a saját szervezetére
+vonatkozó beszámolót megküldi a fejezetet irányító szerv belső ellenőrzési vezetőjének és a pénzügyminiszternek
+minden év április 30-ig. A pénzügyminiszter az intézkedési tervekben foglaltak meg valósításáról a belső
+kontrollrendszerekről szóló éves jelentésében tájékoztatja a Kormányt.”
+(2) A Ber. 29/A. §-a a következő (6)–(7) bekezdésekkel egészül ki:
+„(6) E § alkalmazásában külső ellenőrzés az Állami Számvevőszék, az Európai Számvevőszék, az Európai Bizottság,
+a Kormányzati Ellenőrzési Hivatal, a Magyar Államkincstár, az irányító szerv, illetve a felsorolt szervezetek által
+megbízottak által végzett ellenőrzés.
+(7) Az (1)–(3) bekezdésben meghatározott feladatok elvégzésének kötelezettsége nem ruházható át a belső
+ellenőrzést ellátókra.”
+
+10. §
+(1) A Ber. 31. §-ának (3) bekezdése ac) alpontja helyébe a következő rendelkezés lép:
+[A pénzügyminiszter által közzétett módszertani útmutató figye lembe véte lével elkészített éves ellenőrzési jelentés, illetve
+éves összefoglaló ellenőrzési jelentés az alábbiakat tartalmazza:]
+„ac) az ellenőrzések fontosabb megállapításait, következtetéseit és javaslatait;”
+(2) A Ber. 31. §-ának (3) bekezdése ba) alpontja helyébe a következő rendelkezés lép:
+[A pénzügyminiszter által közzétett módszertani útmutató figye lembe véte lével elkészített éves ellenőrzési jelentés, illetve
+éves összefoglaló ellenőrzési jelentés az alábbiakat tartalmazza:]
+„ba) az intézkedési tervek meg valósításáról szóló beszámolást a 12. § n) pontjában meghatározott nyilvántartási
+rendszer alapján, figye lembe véve a 29/A. § (4) és (5) bekezdésében meghatározott, az ellenőrzött szerv, szervezeti
+egység vezetője által megküldött beszámolót,”
+11. §
+A Ber. a következő alcímmel és 32/B. §-sal egészül ki:
+„Az önkormányzatok társulásaival kapcsolatos különleges szabályok
+32/B. § (1) A belső ellenőrzési feladat társulás keretében történő ellátása (továb biak ban: társult feladatellátás)
+esetében az e rendeletben foglalt szabályokat – eltérő megállapodás hiányában – az e §-ban meghatározott
+eltérésekkel kell alkalmazni.
+(2) A társult önkormányzatok stratégiai ellenőrzési tervének és éves ellenőrzési tervének összeállítása a belső
+ellenőrzési feladatok és a rendelkezésre álló kapacitások összehangolásának érdekében az érintett önkormányzatok
+jegyzője írásos véleményének figye lembe véte lével történik.
+(3) A társult feladatellátás során készített stratégiai ellenőrzési terv és éves ellenőrzési terv magába foglalja:
+a) a társulásban résztvevő önkormányzatoknak a képviselő-testület által jóváhagyott stratégiai ellenőrzési terveit és
+éves ellenőrzési terveit,
+b) a társulásra és az általa irányított költségvetési szervekre vonatkozó, a társulási tanács által jóváhagyott stratégiai
+ellenőrzési tervet és éves ellenőrzési tervet.
+(4) Az elvégzett kockázatelemzés során magas kockázatúnak minősített területekre az éves ellenőrzési terv készítése
+során kiemelt figyelmet kell fordítani, és a lehető legrövidebb időn belül ellenőrizni.
+(5) A társult feladatellátásra vonatkozó, (3) bekezdés szerinti stratégiai ellenőrzési terveket és éves ellenőrzési terveket
+összesítve a társulás munkaszervezeti feladatát ellátó (vagy közös feladatellátás esetén a feladatellátást végző,
+intézményi társulás esetén az irányítási feladatot ellátó önkormányzat által kijelölt) költségvetési szerv vezetője
+tájékoztatásul a társulás vagy annak irányító szerve elé terjeszti.
+(6) Az éves ellenőrzési tervben foglaltakhoz képest ellenőrzést elhagyni vagy új ellenőrzést indítani az ellenőrzési terv
+módosítását köve tően lehet.
+(7) A belső ellenőrzési vezető az éves ellenőrzési terv végrehajtásáról év közben az ellenőrzések megkezdésekor és
+befejezésekor tájékoztatja az érintett önkormányzatok jegyzőit.
+(8) A társult feladatellátás esetén a társulás által végzett ellenőrzéseknél elegendő egy belső ellenőrzési kézikönyv
+alkalmazása, amelyet a társulás munkaszervezeti feladatát ellátó (vagy közös feladatellátás esetén a feladatellátást
+végző, intézményi társulás esetén az irányítási feladatot ellátó önkormányzat által kijelölt) költségvetési szerv vezetője
+hagyja jóvá.
+(9) Az éves ellenőrzési jelentést a társulás munkaszervezeti feladatát ellátó (vagy közös feladatellátás esetén
+a feladatellátást végző, intézményi társulás esetén az irányítási feladatot ellátó önkormányzat által kijelölt)
+költségvetési szerv vezetője az egyes önkormányzatok zárszámadásának határidejére, de legkésőbb március 20-ig az
+érintett jegyző részére megküldi, hogy azt a polgármester a zárszámadással egyidejűleg képviselő-testület elé
+terjeszthesse.
+(10) Az éves ellenőrzési jelentést önkormányzatonként, illetve a társulásra külön-külön kell készíteni a 31. § szerinti
+tartalommal.”
+12. §
+A Ber. 33. §-ának d) pontja helyébe a következő rendelkezés lép:
+[A pénzügyminiszter felelős a belső ellenőrzési rendszer szabályozásáért, fejlesztéséért, koordinációjáért és
+harmonizációjáért a költségvetési kiadások és bevételek, illetve a hazai és nemzetközi támogatások vonatkozásában,
+amelynek keretében:]
+„d) figyelemmel kíséri és vizsgálja a belső ellenőrzési jogszabályok, módszertani útmutatók, a nemzetközi és
+a magyarországi államháztartási belső ellenőrzési standardok alkalmazását és végrehajtását, ennek keretében elemzi
+a belső ellenőrzési tevékenység minőségét és megfelelőségét;”
+
+13. §
+A Ber. 34. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A belső ellenőrzési rendszer működéséről a pénzügyminiszter a belső kontrollrendszerekről szóló éves jelentés
+keretében – miután azt az ÁBPE Bizottság megtárgyalta – számol be a Kormánynak.”
+14. §
+A Ber. 35. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A megbízhatósági ellenőrzések esetében – kockázatelemzés alapján – törekedni kell a lehetőségekhez képest
+minél szélesebb lefedettségre.”
+15. §
+(1) A Ber. 36. §-ának (1)–(2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A helyi önkormányzati, illetve települési, területi és országos kisebbségi önkormányzati költségvetési szervek,
+valamint a többcélú kistérségi társulás költségvetési szervei, továbbá a vagyonkezelő szervezetek esetében az
+e rendelet 4. §-ának (3)–(4) bekezdésében, 7. §-ában, 10. §-ában, 22. §-ának (2) bekezdésében, a 29/A. §-ának
+(5) bekezdésében, valamint 31. §-ának (2) és (5) bekezdésében foglaltakat nem kell alkalmazni.
+(2) Az önállóan működő és gazdálkodó, valamint az önállóan működő költségvetési szervek megállapodhatnak arról,
+hogy az önállóan működő és gazdálkodó költségvetési szerv ellátja az önállóan működő költségvetési szervnél a belső
+ellenőrzési feladatokat. A helyi önkormányzatok gondoskodhatnak költségvetési szerveik belső ellenőrzésének közös
+megszervezéséről társulás keretében.”
+(2) A Ber. 36. §-a a következő (5)–(7) bekezdéssel egészül ki:
+„(5) Az önkormányzati költségvetési szerveknél a belső ellenőrzést elláthatja
+a) a költségvetési szerv által alkalmazott vagy polgári jogi megállapodás keretében foglalkoztatott belső ellenőr,
+b) az önkormányzati hivatal által alkalmazott vagy polgári jogi megállapodás keretében foglalkoztatott belső ellenőr,
+c) a társulás által alkalmazott vagy polgári jogi megállapodás keretében foglalkoztatott belső ellenőr.
+(6) Az Országgyűlés Hivatalának belső ellenőrzési egysége a pártok parlamenti képviselőcsoportjai számára külön
+tör vény alapján biztosított források felhasználására vonatkozóan szabályszerűségi ellenőrzést végez.
+(7) Ahol e rendelet fejezetet irányító szervet említ, ott a vagyonkezelő szervezetek esetében az alapító szervet kell
+érteni.”
+Záró rendelkezések
+16. §
+(1) E rendelet – a (2) bekezdésben foglalt kivételekkel – a kihirdetését követő napon lép hatályba.
+(2) E rendelet 4. §-ának (1) bekezdése 2009. október 1-jén; 2. §-ának (6) bekezdése, 4. §-ának (2) bekezdése, 12. §-a,
+valamint 17. §-ának (17) bekezdése 2010. január 1-jén lép hatályba.
+(3) E rendelet hatálybalépésével egyidejűleg hatályát veszti a Ber. 1. §-a (2) bekezdésének d) pontja, 2. §-a g) pontjának
+második mondata, 11. §-a (1) bekezdésében az „az a), illetve a b) pontban meghatározott képzettség és képesítés
+mellett” szövegrész, 11. §-ának (2) bekezdése, 24. §-a (2) bekezdésének d) pontja, 31. § (4) bekezdése, valamint 32. §-a
+(2) bekezdésének f) pontja.
+(4) A Ber. e rendelet 8. §-ával és a 17. § (14) bekezdésével módosított rendelkezéseit csak a hatálybalépésüket köve tően
+indult ellenőrzésekben kell alkalmazni.
+17. §
+(1) A Ber. 2. §-ának l) pontjában a „pénzügyi irányítási és ellenőrzési rendszerekben” szövegrész helyébe a „belső
+kontrollrendszerekben” szöveg, a 8. §-ának b) pontjában a „pénzügyi irányítási és ellenőrzési rendszerek” szövegrész
+helyébe a „belső kontrollrendszerek” szöveg lép.
+(2) A Ber. 3. §-ában az „államháztartásról szóló 1992. évi XXXVIII. törvény” szövegrész helyébe az „Áht.” szöveg lép.
+(3) A Ber. 4. §-ának (4) bekezdésében, 7. §-ának (1)–(2) bekezdésében, 10. §-ában, 22. §-ának (2) bekezdésében, 28. §-ának
+(9) bekezdésében, 29/A. §-ának (4) bekezdésében, 30. §-ának (1)–(2) bekezdésében, valamint 31. §-ának (1), (2) és
+(5) bekezdésében a „fejezet felügyeletét ellátó szerv” szövegrész helyébe a „fejezetet irányító szerv” szöveg lép.
+(4) A Ber. 4. §-ának (5) bekezdésében az „a szerv vezetőjének közvetlen irányítása alá tartozó” szövegrész helyébe az
+„a szerv vezetőjének közvetlen irányítása alá vagy alárendeltségébe tartozó” szöveg lép.
+(5) A Ber. 4. §-ának (6) bekezdésében, a 18. §-ában, a 19. §-ában és a 21. §-ában a „stratégiai terv” szövegrész helyébe
+a „stratégiai ellenőrzési terv” szöveg lép.
+(6) A Ber. 7. §-ának (3) bekezdésében és a 10. §-ában az „a felügyelete alá tartozó” szövegrész helyébe az „az irányítása alá
+tartozó” szöveg lép. A Ber. 7. §-ának (3) bekezdésében az „a felügyeleti szerv” szövegrész helyébe az „az irányító szerv”
+szöveg lép.
+
+(7) A Ber. 8. §-ának a) pontjában, 19. §-ának b) pontjában, 31. §-a (3) bekezdésének ae) pontjában a „folyamatba épített,
+elő ze tes és utólagos vezetői ellenőrzési rendszer” szövegrész helyébe a „belső kontrollrendszer” szöveg lép.
+(8) A Ber. 8. §-ának a)–c) pontjaiban a „vizsgálni” szövegrész helyébe az „elemezni, vizsgálni” szöveg lép.
+(9) A Ber. 11. §-ának (1) bekezdésében a „büntetlen előéletű magyar állampolgár” szövegrész helyébe az „személy”
+szöveg lép.
+(10) A Ber. 11. §-ának (3) bekezdésében a „felsőfokú végzettségűeknek” szövegrész helyébe az „felsőfokú iskolai
+végzettségűeknek” szöveg lép.
+(11) A Ber. 15. §-ának (1) bekezdésének b) és c) pontjában a „három éven belül” szövegrész helyébe a „két éven belül”
+szöveg lép.
+(12) A Ber. 24. §-a (2) bekezdésének g) pontjában az „érvényességének” szövegrész helyébe az „hatályának” szöveg lép.
+(13) A Ber. 28. §-ának (3) és (7) bekezdésében az „ellenőrzött szerv, illetve szervezeti egység” szövegrész helyébe az
+„érintettek” szöveg lép.
+(14) A Ber. 29. §-ának (1) bekezdésében a „15 munkanapon belül” szövegrész helyébe a „10 munkanapon belül”,
+a „30 napos” szövegrész helyébe a „22 munkanapos” szöveg lép.
+(15) A Ber. 32. §-ának (1) bekezdésében az „ellenőrzésekről” szövegrész helyébe a „belső ellenőrzésekről” szöveg lép.
+(16) A Ber. 34. §-ának (1) bekezdése a) pontjában a „pénzügyi ellenőrzési rendszer” szövegrész helyébe a „kontrollrendszer”
+szöveg lép.
+(17) A Ber. 5. §-ának (1) bekezdésében és a 8. §-ának h) pontjában a „nemzetközi belső ellenőrzési standardok” szövegrész
+helyébe a „nemzetközi és a magyarországi államháztartási belső ellenőrzési standardok” szöveg lép.
+18. §
+E rendelet 2010. január 2-án hatályát veszti.
+19. §
+E rendelet 17. §-ának (9) bekezdése a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai
+parlamenti és tanácsi irányelv 14. cikkének való megfelelést szolgálja.
+Bajnai Gordon s. k.,
+miniszterelnök
