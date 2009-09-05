@@ -1,0 +1,1 @@
+## „ba) az intézkedési tervek megvalósításáról szóló beszámolást a 12. § n) pontjában meghatározott nyilvántartási rendszer alapján, figyelembe véve a 29/A. § (4) és (5) bekezdésében meghatározott, az ellenőrzött szerv, szervezeti egység vezetője által megküldött beszámolót,”

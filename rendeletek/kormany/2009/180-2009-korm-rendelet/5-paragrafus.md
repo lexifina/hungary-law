@@ -1,0 +1,1 @@
+## „(6) Amennyiben a költségvetési szerv foglalkoztat belső ellenőrt, a költségvetési szerv által külső szolgáltató igénybevételére fordított éves kiadások nem haladhatják meg a belső ellenőrzés tervezett éves személyi juttatásai és a kapcsolódó járulékai együttes kiadási összegének 50 százalékát. Ettől eltérni csak a fejezetet irányító szerv vezetőjének jóváhagyásával lehet.”
