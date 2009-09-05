@@ -1,0 +1,1 @@
+A csődeljárásról és felszámolási eljárásról szóló 1991. évi XLIX. törvény 85. § (5) bekezdésének b) pontjában foglalt felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. §-ának h) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
