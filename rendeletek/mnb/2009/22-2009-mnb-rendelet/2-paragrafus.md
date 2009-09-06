@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, pereme virágszirom formájú, széle szaggatottan recézett.
+
+(2) Az emlékérme előlapján, felső köriratban a „MAGYAR KÖZTÁRSASÁG” felirat olvasható. A középmezőben a budapesti Dohány utcai zsinagóga főbejárata fölötti mérműves ablakminta látható. Alsó köriratban az „5000” értékjelzés, a „FORINT” felirat, valamint a „BP.” verdejel és a „2009” verési évszám olvasható. Az emlékérme előlapjának képét e rendelet 1. melléklete tartalmazza.
+
+(3) Az emlékérme hátlapján a budapesti Dohány utcai zsinagóga épülete látható, a Ludwig Förster által tervezett, 150 évvel ezelőtt megépített homlokzattal és a szomszédos épületek részletével. A zsinagóga ábrázolása alatt, négy vízszintes sorban a „BUDAPESTI”, a „DOHÁNY UTCAI”, a „ZSINAGÓGA” és az „1859” felirat olvasható. A zsinagóga ábrázolásától balra, fent Szabó György tervezőművész mesterjegye található. Az emlékérme hátlapjának képét e rendelet 2. melléklete tartalmazza.
