@@ -1,0 +1,27 @@
+## 22. §[^48] Végső elszámoláskor az operatív program, valamint az EQUAL program irányító hatósággal folytatott egyeztetéseket követően a kifizető hatóság az EMIR rendszerben összeállítja a végső egyenleg átutalási igénylés dokumentációját, majd továbbítja a KEHI mint zárónyilatkozat kiadásáért felelős szerv felé az operatív program, illetve az EQUAL program közösségi támogatásra való jogosultságáról hozott európai bizottsági döntésben meghatározott kifizetési határidőt követő 3 hónapon belül.
+
+## Forráslehívás
+
+23. § (1)[^49] Az irányító hatóság biztosítja a támogatás összegének rendelkezésre állását annak érdekében, hogy a kedvezményezett támogatásra jogosult számláin vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylatain szereplő összegre jutó támogatás teljes (közösségi hozzájárulás és központi költségvetési finanszírozás) összegben megtérítésre, a szállítók számlái kiegyenlítésre, illetve a kedvezményezett részére folyósítandó előleg átutalásra kerüljenek.
+
+(2)[^50] Az irányító hatóság az elszámolható költségeket minden esetben forintban határozza meg. A forinttól eltérő pénznemben kiállított számla vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylat esetén a számlán vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylaton szereplő összeget és az arra jutó támogatás összegét a számlán vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylaton megjelölt fizikai teljesítés napján – ha a fizikai teljesítés napja munkaszüneti nap, akkor a teljesítés napját követő első munkanapon – érvényes a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett középárfolyamon kell forintra átszámítani. Az MNB által nem jegyzett pénznemben kiállított számla esetén a számlához kapcsolódó elszámolható költségeket a számlán megjelölt fizikai teljesítés időpontjában érvényes, az Európai Központi Bank által közzétett középárfolyamon kell euróra átváltani. Az EMIR biztosítja ezen összegek forintra történő átszámítását a fizikai teljesítés időpontjában érvényes hivatalos MNB középárfolyamon. Az átszámított forintértékből a támogatási szerződésben meghatározott támogatási aránnyal számított támogatási összeget kell kiutalni a kedvezményezett vagy a szállító részére.
+
+(3)[^51] Minden egyes forráslehívási folyamat során az irányító hatóság gondoskodik a rendszerbe korábban bevitt, még le nem hívott támogatásra jogosult számlák adatainak összesítéséről, azaz az EMIR-ben történő forráslehívás és kapcsolódó hitelesítési jelentés összeállításáról, majd elektronikusan és nyomtatott formában, az illetékes vezető aláírásával igazolva is jóváhagyja a forráslehívási dokumentációt, és a hibátlan és hiánytalan benyújtás esetén az azt követő 6 munkanapon belül intézkedik a vonatkozó forint lebonyolítási (bank)számlára történő utalásról. E jóváhagyást megelőzően az adott forráslehívásra vonatkozóan kifizetés sem az előirányzat-felhasználási keretszámláról, sem a lebonyolítási bankszámláról nem kezdeményezhető.
+
+(4) Az irányító hatóság a vonatkozó operatív programra, valamint az EQUAL programra a forrásgazda által nyitott központi költségvetési fejezeti kezelésű előirányzat-felhasználási keretszámla terhére, a KTK technikai segítségnyújtás intézkedésre vonatkozóan a KTK irányító hatóság a vonatkozó központi költségvetési fejezeti kezelésű előirányzat-felhasználási keretszámla terhére megelőlegezi a jogosult támogatás teljes (közösségi hozzájárulás és központi költségvetési finanszírozás) összegét az intézkedésenkénti forint lebonyolítási (bank)számlára.
+
+(5)[^52] Az adott elszámolásban kért támogatás teljes összegének átutalásához szükséges dokumentumok összeállítása után, az irányító hatóság a támogatás jóváhagyott, központi költségvetési forrásból átutalt, illetve előfinanszírozott teljes összegét a központi költségvetési fejezeti kezelésű előirányzat-felhasználási keretszámláról átutalja az adott intézkedés forint lebonyolítási (bank)számlára, majd onnan a kedvezményezett, illetve a szállító részére.
+
+(6) A forráslehívás jóváhagyása után a fejezeti kezelésű előirányzat-felhasználási keretszámláról csak akkor lehet átutalást kezdeményezni, amennyiben az operatív tevékenységekkel kapcsolatos adatok az EMIR rendszerben rögzítésre és jóváhagyásra kerültek.
+
+(7)[^53] A fejezeti kezelésű előirányzat-felhasználási keretszámláról történő utaláskor figyelembe kell venni a forrásgazda által kiadott likviditás-kezelési útmutató rendelkezéseit.
+
+(8)[^54] A lebonyolítási (bank)számlára nem utalható a kedvezményezett által biztosított saját erő összege.
+
+[^48]: A 22. § a 281/2006. (XII. 23.) Korm. rendelet 66. § (6) bekezdésével megállapított szöveg.
+[^49]: A 23. § (1) bekezdése a 202/2006. (X. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^50]: A 23. § (2) bekezdése a 403/2007. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^51]: A 23. § (3) bekezdése a 403/2007. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^52]: A 23. § (5) bekezdése a 202/2006. (X. 5.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^53]: A 23. § (7) bekezdése a 202/2006. (X. 5.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^54]: A 23. § (8) bekezdése a 202/2006. (X. 5.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.

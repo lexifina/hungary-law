@@ -1,0 +1,8 @@
+## Közösségi hozzájárulás rendezése
+
+25. §[^60] (1)[^61] Miután az irányító hatóság folyósította a kedvezményezetteknek vagy szállítóknak a jogosult támogatás teljes összegét, illetve a KTK technikai segítségnyújtás intézkedésre vonatkozóan a KTK irányító hatóság teljesítette fizetési kötelezettségét a szállító részére, a kifizető hatóság az EMIR finanszírozási modul adatai alapján utólagosan elszámolja a közösségi hozzájárulásnak a központi költségvetés által előfinanszírozott összegét, és ezen elszámolás jóváhagyását követő 3 munkanapon belül átutalja azt a vonatkozó operatív program forint bankszámlájáról – jogszabály eltérő rendelkezése hiányában – a vonatkozó fejezeti kezelésű előirányzat-felhasználási keretszámlára, figyelembe véve a vonatkozó operatív program forintbankszámláján rendelkezésre álló forrásokat.
+
+(2) Az irányító hatóság csak olyan átutalást kezdeményezhet a kedvezményezetteknek vagy szállítóknak, illetve a KTK technikai segítségnyújtás intézkedésre vonatkozóan a KTK irányító hatóság csak olyan átutalást indíthat a szállító részére központi költségvetési forrásból, amelyhez kapcsolódó közösségi hozzájárulás rendezését a kifizető hatóság – az uniós forrásnak a vonatkozó operatív program forint bankszámláin történő rendelkezésre állása esetén – még a folyósítás évében az e jogszabályban meghatározott határidők figyelembevételével teljesíteni tud.
+
+[^60]: A 25. § a 281/2006. (XII. 23.) Korm. rendelet 66. § (7) bekezdésével megállapított szöveg.
+[^61]: A 25. § (1) bekezdése a 179/2009. (IX. 4.) Korm. rendelet 17. §-ával megállapított szöveg. E módosító rendelet 21. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

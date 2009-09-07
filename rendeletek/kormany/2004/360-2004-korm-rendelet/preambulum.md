@@ -1,0 +1,1 @@
+A Kormány a strukturális alapok, az EQUAL Közösségi Kezdeményezés és a Kohéziós Alap támogatásaiból származó közösségi hozzájárulások hatékony módon történő felhasználása érdekében az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 124. § (2) bekezdésének t) pontjában kapott felhatalmazás alapján, az alábbi rendeletet alkotja:
