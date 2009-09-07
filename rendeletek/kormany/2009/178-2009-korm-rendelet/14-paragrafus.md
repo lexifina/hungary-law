@@ -1,0 +1,1 @@
+## A termékleírás módosítása
