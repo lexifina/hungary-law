@@ -1,0 +1,1 @@
+## 2. § A nitrátérzékeny területek azonosítása érdekében a talajvédelmi hatóság, valamint a környezetvédelmi, természetvédelmi és vízügyi felügyelőségek a MePAR Böngésző feladatellátásra alkalmas formátumához térítésmentesen férnek hozzá.

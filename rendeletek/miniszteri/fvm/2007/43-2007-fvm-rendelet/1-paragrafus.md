@@ -1,0 +1,3 @@
+1. § (1) A vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló 27/2006. (II. 7.) Korm. rendeletben foglalt nitrátérzékeny területeket a Mezőgazdasági Parcella Azonosító Rendszerről (a továbbiakban: MePAR) szóló 115/2003. (XI. 13.) FVM rendelet szerint tematikus rétegként, blokkok szintjén – a nitrátérzékeny területek által érintett települések szerinti bontásban – e rendelet mellékleteként közzéteszem.
+
+(2) A MePAR évenkénti felülvizsgálata során bekövetkező blokkváltozások alapján a Földmérési és Távérzékelési Intézet által átadott blokkazonosító változásokat a Földművelésügyi és Vidékfejlesztési Minisztérium, valamint a Környezetvédelmi és Vízügyi Minisztérium hivatalos lapjában is közzé kell tenni.
