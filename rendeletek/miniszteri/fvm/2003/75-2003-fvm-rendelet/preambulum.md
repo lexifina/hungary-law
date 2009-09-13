@@ -1,0 +1,1 @@
+Az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény 32. §-a (1) bekezdésének d) pontjában kapott felhatalmazás alapján a kereskedelmi célú vágóállat-termelés, valamint a minőségi hús-, hústermék-előállítás és kereskedelem elősegítése érdekében a következőket rendelem el:

@@ -1,0 +1,1 @@
+## A vágóállatok minősítése
