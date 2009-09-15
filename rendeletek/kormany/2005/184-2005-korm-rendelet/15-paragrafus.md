@@ -1,0 +1,20 @@
+## 14. § A számmező átadásra vonatkozó határozatában a hatóság meghatározza a kijelölés egyik szolgáltatótól való visszavonásának és a számmező másik szolgáltató számára való kijelölésének időpontját. Az időpont megegyezik a számátadásban közvetlenül érintett szolgáltatókkal előre egyeztetett számátadási időablakkal, amely időablakban a számmezőben lévő számok irányítási adatai a külön jogszabályban foglaltak alapján[^8] módosulnak vagy törlődnek. A hatóság a számmező átadást engedélyező határozatát legalább két héttel a határozatban meghatározott időpontot megelőzően valamennyi érintett szolgáltatónak megküldi.
+
+## Nyilvántartás
+
+15. § (1) A hatóság a lekötési, kijelölési és ideiglenes kijelölési engedélyekről, valamint az engedélyek visszavonásáról naprakész, nyilvános hatósági nyilvántartást vezet.
+
+(2) A nyilvántartásnak tartalmaznia kell:
+
+a) az azonosítókat az állapot megjelölésével;
+
+b) a kérelmező, illetve jogosult szolgáltató nevét (cégnevét);
+
+c)[^9] az engedélyek iktatószámát és az érvényességükre vonatkozó adatokat.
+
+(3) A hatósági nyilvántartást a hatóság a honlapján folyamatosan hozzáférhetővé teszi.
+
+(4) A szolgáltatók együttműködésük során a hatóság honlapján hozzáférhető nyilvántartásban szereplő adatokat kötelesek elfogadni.
+
+[^8]: A számhordozási központi referencia adatbázisról szóló 17/2003. (XII. 27.) IHM rendelet.
+[^9]: A 15. § (2) bekezdésének c) pontja e rendelet 17. § (2) bekezdése alapján 2006. január 1-jén lépett hatályba.
