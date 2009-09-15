@@ -1,0 +1,1 @@
+## „(12) Nem mért közvilágítási célú vételezésre a felhasználó ezirányú kezdeményezése esetén „A2” árszabást kell alkalmazni a villamos energia rendszerhasználati díjakról szóló 119/2007. (XII. 29.) GKM rendelet 2. számú melléklet B) Fejezet 2.1.5. pont c) alpont második vagy harmadik francia bekezdése szerinti esetekben.”
