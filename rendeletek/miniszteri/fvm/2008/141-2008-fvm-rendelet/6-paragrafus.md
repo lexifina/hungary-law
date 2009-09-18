@@ -1,0 +1,1 @@
+## A támogatás igénybevételének feltétele
