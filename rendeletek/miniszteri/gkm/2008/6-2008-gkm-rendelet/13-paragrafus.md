@@ -1,0 +1,3 @@
+13. § (1) Az elszámolható költséget szokásos piaci áron kell figyelembe venni, ha az a kedvezményezett és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
+
+(2) A földterület és az épületek kivételével az eszközök bérletével kapcsolatos költségeket csak akkor lehet figyelembe venni, ha az zártvégű pénzügyi lízing formájában valósul meg, és a szerződés tartalmazza az eszköznek a bérleti időtartam lejárta utáni megvásárlására vonatkozó kötelezettséget. Földterület és épületek bérlése esetén a beruházási projekt befejezésének várható időpontját követően a bérleti jogviszony hatályának nagyvállalatok esetében még legalább öt évig, KKV-k esetében pedig legalább három évig kell fennállnia.
