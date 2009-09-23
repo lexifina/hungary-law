@@ -1,0 +1,1 @@
+A Kormány a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. §-a (1) bekezdésének 7., 24., 26–27. és 29. pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:

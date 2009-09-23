@@ -1,0 +1,1 @@
+## „6/A. § A Vet. 171. § (5) bekezdésében, illetve (6) bekezdésében meghatározott, a termelő és az átviteli rendszerirányító közötti szerződés érvényességének feltétele, hogy azt a Hivatal jóváhagyja. A jóváhagyás nem tagadható meg, ha a szerződés megfelel a Vet. 171. § (5) bekezdésének, illetve (6) bekezdésének.”
