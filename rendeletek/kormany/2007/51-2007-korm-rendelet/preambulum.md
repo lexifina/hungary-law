@@ -1,0 +1,1 @@
+A Kormány a felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: felsőoktatási törvény) 153. § (1) bekezdésének 12–13. és 23. pontjában foglalt felhatalmazás alapján – figyelemmel a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: kedvezménytörvény) rendelkezéseire is – a következőket rendeli el:
