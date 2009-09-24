@@ -1,0 +1,720 @@
+# Az Al kot mány bí ró ság 86/2009. (IX. 24.) AB határozata
+
+Magyar Közlöny 2009. évi 134. szám, 2009. szeptember 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f52140ac6545666a3ae612cb6e17e18ad19db65c/dokumentumok/1fe00a36f4acc93cc9ff52873896a7a9447d1623/letoltes)
+
+---
+
+Az Al kot mány bí ró ság 86/2009. (IX. 24.) AB határozata
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+Az Alkotmánybíróság jogszabály alkot mány elle nességének utólagos vizsgálatára, alkot mány elle nes mulasztás
+megállapítására irányuló indítvány, valamint alkotmányjogi panasz tárgyában meghozta a következő
+határozatot:
+1. Az Alkotmánybíróság hivatalból megállapítja: az Alkotmány 57. § (5) bekezdésében foglalt jogorvoslathoz való jogot
+sérti, hogy a szabálysértésekről szóló 1999. évi LXIX. törvény nem biztosított jogorvoslati lehetőséget arra az esetre, ha
+a szabálysértési hatóság az eljárást a felelősségre vonás mellőzésével fejezi be. Az Alkotmánybíróság felhívja az
+Országgyűlést, hogy jogalkotói kötelezettségének 2010. március 31-ig tegyen eleget.
+2. Az Alkotmánybíróság megállapítja, hogy az Alkotmány 57. § (5) bekezdésében foglalt jogorvoslathoz való jogot sérti,
+hogy a szabálysértésekről szóló 1999. évi LXIX. törvény nem biztosított jogorvoslati lehetőséget a rendbírsággal
+sújtott személy számára arra az esetre, ha a bírósági eljárás során kerül sor rendbírság kiszabására. Az
+Alkotmánybíróság felhívja az Országgyűlést, hogy jogalkotói kötelezettségének 2010. március 31-ig tegyen eleget.
+3. Az Alkotmánybíróság a szabálysértésekről szóló 1999. évi LXIX. törvénnyel kapcsolatosan benyújtott,
+alkot mány elle nes mulasztás megállapítására irányuló további indítványi kérelmeket elutasítja.
+4. Az Alkotmánybíróság a szabálysértésekről szóló 1999. évi LXIX. törvény 20. §-a, 86. § (1)–(2) bekezdése, 87. §
+(3) bekezdés c) pontja, valamint 90. § (2) bekezdése alkot mány elle nességének megállapítására és megsemmisítésére
+irányuló indítványt elutasítja.
+5. Az Alkotmánybíróság az alkotmányjogi panasz elnevezéssel benyújtott indítványi kérelmeket, a szabálysértésekről
+ szóló 1999. évi LXIX. törvény egyes rendelkezéseinek értelmezésére irányuló indítványi kérelmeket, valamint a hiányos
+jogalkotásra hivatkozó indítványi kérelmeket visszautasítja.
+Az Alkotmánybíróság jelen határozatát a Magyar Közlönyben közzéteszi.
+Indokolás
+I.
+Az indítványozó számos indítvánnyal támadta a szabálysértésekről szóló 1999. évi LXIX. törvény (a továb biak ban:
+Sztv.) egyes rendelkezéseit.
+1. Eredeti indítványában az Sztv. 20. §-át támadta, mivel kötelező és csak kivételesen mellőzhető elkobzást ír elő, ami
+szerinte a tulajdonjog teljes és kártalanítás nélküli korlátozása, ezért az Sztv. 20. §-a az Alkotmány 8. § (2) bekezdésével
+és 13. § (1) és (2) bekezdésével is ellentétes. Az indítványozó szerint a jogalkotó olyan dolgok elkobzását is lehetővé
+tette, amelyek vagyontárgynak minősülnek (pl. gépjármű), és egyúttal – ahogy az indítványozó fogalmaz – „egyes
+szabadság jogok meg valósításának eszközei is”. A szabályozás az indítványozó szerint diszkriminatív is, mivel az Sztv.
+20. §-a azon szabadságjogokat korlátozza, amelyek meg valósításának az elkobzott dolog az eszköze, aminek
+beszerzése a kisebb vagyonú elkövető szabadságjogát nagyobb mértékben korlátozza, mint a vagyonosabb
+elkövetőét. Mindezek miatt az indítványozó kérte az Sztv. 20. §-ának megsemmisítését hatályba lépése napjáig
+visszamenőleges hatállyal, illetve az Sztv. 20. §-ának Alkotmánynak megfelelő értelmezését, valamit azt, hogy az
+Alkotmánybíróság kötelezze a jogalkotót az Sztv. 20. §-ának felülvizsgálatára. Az indítványozó szerint az Sztv. 20. §
+(5) bekezdése – miután úgy rendelkezik, hogy az elkobzás kivételesen mellőzhető – a jogalkotó „aránytalanul
+korlátozza az Alkotmányban garantált alapjogokat”, méltányossági alapon megengedi az alkotmánysértő
+korlátozások alkalmazásának kivételes mellőzését. Ezért kérte az Sztv. 20. § (5) bekezdése „kivételesen”
+szövegrészének megsemmisítését.
+
+2. Az indítványozó többször kiegészítette eredeti indítványát. Egyik indítvány-kiegészítésében kérte az Sztv. 20. §
+(4) bekezdése „önállóan” szövegrészének megsemmisítését, mivel az szerinte félreérthető: úgy is értelmezhető, hogy
+az elkobzás szabálysértési határozat, vagy bírósági végzés hiányában is alkalmazható. Ez szerinte azért lehetséges,
+mert hiányzik az Sztv.-ből annak kimondása, hogy az elkobzást alkalmazni – ahogy fogalmaz – „csak jogerős bírósági
+végzés vagy közigazgatási jogerővel bíró szabálysértési határozat alapján lehet”. Ezzel az indítványozó szerint már
+a szabálysértési eljárás ideje alatt foganatosítható elkobzásra ad lehetőséget a jogalkotó, ami szerinte az ártatlanság
+vélelmét sérti. Az indítványozó szerint, figyelemmel az elkobzás és a lefoglalás szabályozására, „[e]llentmond az
+Alkotmány jogállamiságról szóló 2. § (1) bekezdésének az, ha a jogalkotó nem alkalmazza az éles megkülönböztetés
+eszközét a hatóságok jogállami szerepének tisztázása érdekében”. Mindezek alapján az Sztv. 20. § (4) bekezdésének
+„önállóan és” szövegrésze megsemmisítését, valamint az Sztv. 20. §-ának Alkotmánynak megfelelő értelmezését kérte
+az indítványozó.
+3. Az indítványozó mulasztás megállapítását is kérte az Sztv.-vel kapcsolatban, mivel a jogalkotó szerinte nem
+szabályozta, hogy miként kényszeríthető ki bírósági úton a szabálysértési hatóság hallgatásának megszüntetése. Az
+indítványozó utalt az Sztv. 84. § (4) bekezdésében szabályozott eljárási határidőre, ugyanakkor úgy vélte, hogy az Sztv.
+nem biztosít sem jogorvoslati lehetőséget, sem más hatékony jogi eszközt az ügyfélnek, hogy a szabálysértési
+határozat meghozatalát az Sztv. 84. § (4) bekezdésében szabályozott határidő elmulasztása esetén kikényszeríthesse
+a határozathozatalt. Az indítványozó utalt a hatóság kártérítési felelősségére is, azonban ez szerinte nem megfelelő
+„fenyegetés”. Az indítványozó a mulasztással kapcsolatban nem hivatkozott alkotmányos rendelkezésre, a mulasztást
+általában vett jogalkotási hiányosságként fejtette ki.
+4. Az indítványozó az Sztv. 86. § (1) és (2) bekezdésének alkotmányossági vizsgálatát is kérte. Az Sztv. 86. § (1) bekezdése
+az indítványozó szerint korlátozza a panasz tárgyát, illetve korlátozza a kényszerintézkedésekkel szembeni
+panaszjogot. Az indítványozó szerint, ha a szabálysértési hatóságnak az államigazgatási eljárás általános szabályairól
+ szóló 1957. évi IV. törvény (a továb biak ban: Áe.) 3. § (7) bekezdése alapján nincs hatásköre a panasz elbírálására,
+köteles kellene, hogy legyen annak továbbítására az ügyészség felé. Ennek szabályozása szerinte hiányzik az Sztv.
+86. §-ból, ami az Alkotmány 64. §-ával ellentétes. Emellett – mivel az Áe. 42. § (1) bekezdése nem vonatkozik
+a panaszra – a szabálysértési hatóságnak az indítványozó szerint nincs határozathozatali kötelezettsége az Sztv.
+86. §-ában utalt cselekményekkel kapcsolatban. Ezért szerinte értelmetlen az Sztv. 86. § (2) bekezdésének azon
+rendelkezése, miszerint a panaszt a határozat közlésétől számított nyolc napon belül kell előterjeszteni. Mindezek
+ miatt a támadott rendelkezés az Alkotmány 2. § (1) bekezdését és 57. § (5) bekezdését sérti az indítványozó szerint.
+5. Az indítványozó kérte az Sztv. 90. § (2) bekezdés „a kifogás érvényes és” szövegrésze alkot mány elle nességének
+megállapítását, mivel az korlátozza a bírósághoz fordulás jogát azzal, hogy „egyes előterjesztett kifogások jogerős
+elutasításának jogát (...) a szabálysértési hatóság hatáskörébe utalja”. Álláspontja szerint „[a]z alkotmányos szabályozás
+az lenne, ha a szabálysértési hatóság által érvénytelennek nyilvánított kifogást is meg kellene küldeni a bíróságnak,
+a hatóság elutasító javaslatával együtt”.
+6. Mulasztás megállapítását kérte az indítványozó, mivel szerinte a jogalkotó elmulasztotta szabályozni az Sztv.-ben
+a szabálysértési hatóság által foganatosított lefoglalással szembeni bírósági jogorvoslat rendjét. A hatóság hallgatása
+esetén, vagy ha az eljárást megszünteti, vagy felfüggeszti, nem születik a lefoglalásról határozat, ezért a lefoglalás
+megtámadására sincs lehetőség. E miatt az indítványozó szerint sérül az ártatlanság vélelme és a jogorvoslati jog.
+Mulasztás megállapítását kérte az indítványozó a miatt is, mert az Sztv. nem minden esetben biztosít hatékony
+védelmet a szabálysértési hatóság jogszabálysértő eljárásának bírósági felülvizsgálatára. Az Sztv. 84. §-a ugyanis nem
+rendelkezik arról, hogy „az eljárást megszüntető határozat kifogásolható határozat”. E miatt szerinte nem
+kényszeríthető ki az ilyen eljárásban történt lefoglalás megszüntetése. Az indítványozó álláspontja az, hogy
+a kártérítési felelősség nem biztosít hatékony eszközt a jogszabálysértő eljárás következményeinek mielőbbi
+felszámolására.
+Ugyancsak mulasztás megállapítását kérte az indítványozó azért, mert a jogalkotó az Sztv.-ben a perújításnak csak
+azon esetét szabályozta, amikor az alapügyben a bíróság hozott jogerős határozatot. Ez az indítványozó szerint
+a diszkrimináció tilalmát sérti, mivel véleménye szerint a jogalkotónak „a szabálysértési perújításhoz hasonló
+feltételekkel kell biztosítania a bírósághoz fordulás jogát”.
+7. Az indítványozó szerint az Sztv. 87. § (2) bekezdés c) pontjának „a határozat jogerőre emelkedésétől számított tizenöt
+napon belül” szövegrésze alkot mány elle nes, mert „arra kötelezi a szabálysértési hatóságot, hogy (...) tör vénysértő
+fizetési felszólítást” bocsásson ki határozatában. Ezért a rendelkezés az Alkotmány 2. § (1) bekezdését sérti, mivel nem
+felel meg a normavilágosság követelményének.
+
+Az indítványozó minden utólagos normakontroll keretében támadott rendelkezéssel kapcsolatban kérte azok
+Alkotmánynak megfelelő értelmezését is.
+8. Az indítványozó szerint alkot mány elle nes mulasztást eredményez, hogy az Sztv. nem minden esetben engedi meg,
+hogy az eljárás alá vont személy kifogásolja a szabálysértési hatóság határozatában megállapított eljárás költségét. Ha
+a szabálysértési hatóság felelősségre vonás mellőzésével szüntette meg a szabálysértési eljárást úgy, hogy fizetési
+kötelezettséget állapított meg, az eljárás alá vont személy számára nem biztosított a bírósághoz fordulás joga. Az Sztv.
+88. §-a, 89. §-a, valamint 72. és 75. §-ai az eljárási költséget megállapító határozatot nem sorolják fel, ezért az bírósági
+úton nem támadható meg. Ez sérti az Alkotmány 50. § (2) bekezdését.
+9. Alkotmányellenes mulasztást eredményez az indítványozó szerint az is, hogy a jogalkotó hibásan szabályozta az
+Sztv.-ben a bírósági tárgyaláson kiszabott rendbírság és szakértői díj vonatkozásában a jogorvoslati jogot. A jogalkotó
+ezzel elmulasztotta a 22/1995. (III. 31.) AB határozat végrehajtását, illetve sérti az Alkotmány 57. § (5) bekezdését. A
+jogalkotó nem határozta meg az eljáró fórumot a rendbírság kiszabása tekintetében. A szakértői díj tekintetében
+pedig utalt arra, hogy nem minden esetben engedi meg az Sztv., hogy az eljárás alá vont személy kifogásolja
+a szabálysértési eljárás határozatban megállapított költségét.
+10. Alkotmányellenes mulasztás áll fenn az indítványozó szerint azért is, mert a jogalkotó nem szabályozta önálló
+perújítási okként a szabálysértési határozat szabálytalan közlését az Sztv. 103. §-ában. Nem határozza meg az Sztv.
+a „közlés” fogalmát, amivel jogbizonytalanságot eredményez és „utat nyitott különböző alkotmánysértő
+jogértelmezések számára”, mivel „garanciális szabályok sorát építi a definiálatlan közlés fogalomra”. Ez az Alkotmány
+2. § (1) bekezdését sérti. Mulasztást kért megállapítani azért is, mert az Sztv. 90. §-a alapján az Sztv. 111. §-a szerint
+alkalmazott letiltás az eljárás alá vont személy távollétében is jogerőre emelkedhet, és az ellen nem biztosított
+a jogorvoslat.
+11. Az indítványozó szerint alkot mány elle nes mulasztás áll fenn a miatt, hogy a jogalkotó nem írta elő az Sztv.-ben
+a szabálysértési hatóság indokolási kötelezettségét arra az esetre, ha az eljárás alá vont személy bizonyítási indítványát
+elutasítja. Az indítványozó szerint az Sztv. az egyetlen olyan eljárási tör vény, amely nem követeli meg az indokolási
+kötelezettséget a bizonyítási indítvány elutasításáról. Az indítványozó hivatkozott 21/1997. (III. 26.) AB határozatra, az
+Alkotmány 7. § (1) bekezdésének sérelmére a Polgári és Politikai Jogok Nemzetközi Egyezségokmánya kihirdetéséről
+ szóló 1976. évi 8. tvr., valamint az Emberi jogok és alapvető szabadságok védelméről szóló Egyezmény kihirdetéséről
+ szóló 1993. évi XXXI. törvény (a továb biak ban: Egyezmény) egyes rendelkezéseivel, illetve az Alkotmány 57. §
+(1) bekezdésére (a tisztességes eljárás követelményére).
+12. Az indítványozó szerint alkot mány elle nes mulasztást eredményez az is, hogy a jogalkotó nem szabályozta a többi
+gépjárművezetőhöz hasonlóan az Sztv.-ben a szabálytalanul parkoló cégautó „távollévő” vezetőjének
+„büntethetőségét”, amennyiben a gépkocsit magáncélra használja. A diszkrimináció tilalmát sérti az, hogy
+„a magánautók vezetői büntethetők, míg az azonos szabálysértést elkövető és magáncélú utazást lebonyolító
+cégautók vezetői eredményesen elkerülhetik a szabálysértési felelősségre vonást”. Ez az indítványozó szerint
+a magánautók vezetőivel szembeni hátrányos megkülönböztetést eredményez. Az indítványozó utalt arra, hogy
+a mulasztás megállapítását arra az esetre kérte, ha a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény
+módosítása következtében sem szűnne meg a diszkrimináció.
+13. Az indítványozó alkot mány elle nes mulasztás megállapítását kérte azért is, mert az Sztv. nem teszi lehetővé a jogerős
+szabálysértési határozat felülvizsgálatát a bíróság „súlyos eljárási-szabálysértéseinek esetére”. Az indítványozó szerint
+az Sztv. szerinti perújítás túlságosan szűk körben meghatározott feltételeket szab, ami az Alkotmány 2. §
+(1) bekezdését (jogintézmények kiszámíthatósága), 7. § (1) bekezdését (tisztességes eljárás elve az Egyezmény szerint),
+8. § (2) bekezdését (eljárás alá vont személyek alapvető jogainak alkotmányosan indokolatlan sérelme), és az 57. §
+(1) bekezdését sértik. Emellett az indítványozó szerint a szabályozás elzárja az eljárás alá vont személyeket jogegységi
+határozat kezdeményezésétől, ha nem biztosított számukra a jogerős döntéssel szembeni perorvoslat. Mivel pedig
+a szabálysértési eljárás és a büntetőeljárás alá vont személyek azonos méltóságúak, egyformán biztosítani kell
+számukra a tisztességes bírói eljárást, így a szabályozási hiány az Alkotmány 70/A. §-át is sérti.
+14. Az indítványozó szerint alkot mány elle nes mulasztást eredményez, hogy az Sztv.-ben hiányoznak a tárgyalási
+jegyzőkönyv hitelességét garantáló jogorvoslati szabályok. Az indítványozó azt kifogásolja, hogy az Sztv. 70. §-a
+alapján az eljárás alá vont személynek nem kell aláírnia a tárgyalási jegyzőkönyvet, holott az általa történő
+hitelesítésnek garanciális jelentősége lenne. Ez sérti az Alkotmány 57. § (1) és (5) bekezdését. Emellett nem biztosított
+határidőköz kötött, kiszámítható jogorvoslat sem a „torz jegyzőkönyvvel szemben”, ami az Alkotmány 2. §
+(1) bekezdését sérti.
+
+15. Az indítványozó alkotmányjogi panasz elnevezéssel előterjesztett indítványában ugyanezeket a szabályozási
+hiányosságokat kifogásolta. Az indítványozó szerint a Pesti Központi Kerületi Bíróság (a továb biak ban: PKKB)
+4.Sz.11.149/2001/3. sz. végzésében „alkotmánysértő módon értelmezte” az Sztv. 92. § (5) bekezdését, s ezzel
+„korlátozni próbálta a teljes ügy nyilvános tárgyaláshoz való jogát”. Emellett az eljáró bíróság megsértette az
+Alkotmánybíróságról szóló 1989. évi XXXII. törvény (a továb biak ban: Abtv.) 27. § (2) bekezdését, mert nem az Sztv.
+alapján ítélte meg az indítványozó szabálysértési ügyét. Mindez az indítványozó tisztességes eljáráshoz való jogát
+sérti. Ezzel összefüggésben kérte, hogy az Alkotmánybíróság állapítsa meg az indítványozó Alkotmányban biztosított
+jogainak megsértését és tegye lehetővé számára a jogerős szabálysértési végzés felülvizsgálatát perújítási eljárásban,
+annak érdekében, hogy megállapítást nyerjen, hogy a bíróság „torz” jegyzőkönyvet vett fel, valamint indokolás nélküli
+végzésben utasította el az indítványozó által a tárgyalás során előterjesztett bizonyítási indítványokat, valamint
+tévesen állapította meg hatáskörének hiányát.
+Az alkotmányjogi panasz kiegészítéseként megint csak a PKKB eljárását támadta, és annak felülvizsgálatát kérte az
+Alkotmánybíróságtól az Alkotmány 57. § (1) bekezdése, valamint az Egyezmény 6. cikke (tisztességes eljáráshoz való
+jog) alapján. Szerinte ugyanis a PKKB tévesen állapította meg hatásköre hiányát, továbbá a PKKB – szerinte tévedésen
+alapuló – végzésével szemben az Sztv. alapján nem biztosított számára a jogorvoslat joga.
+II.
+Az Alkotmány indítvánnyal érintett rendelkezései:
+„2. § (1) A Magyar Köztársaság független, demokratikus jogállam.”
+„8. § (1) A Magyar Köztársaság elismeri az ember sérthetetlen és elidegeníthetetlen alapvető jogait, ezek tiszteletben
+tartása és védelme az állam elsőrendű kötelessége.
+(2) A Magyar Köztársaságban az alapvető jogokra és kötelességekre vonatkozó szabályokat tör vény állapítja meg,
+alapvető jog lényeges tartalmát azonban nem korlátozhatja.”
+„13. § (1) A Magyar Köztársaság biztosítja a tulajdonhoz való jogot.
+(2) Tulajdont kisajátítani csak kivételesen és közérdekből, tör vény ben szabályozott esetekben és módon, teljes,
+feltétlen és azonnali kártalanítás mellett lehet.”
+„50. § (2) A bíróság ellenőrzi a közigazgatási határozatok tör vényességét.”
+„57. § (1) A Magyar Köztársaságban a bíróság előtt mindenki egyenlő, és mindenkinek joga van ahhoz, hogy az ellene
+emelt bármely vádat, vagy valamely perben a jogait és kötelességeit a tör vény által felállított független és pártatlan
+bíróság igazságos és nyilvános tárgyaláson bírálja el.
+(2) A Magyar Köztársaságban senki sem tekinthető bűnösnek mindaddig, amíg büntetőjogi felelősségét a bíróság
+jogerős határozata nem állapította meg. (...)
+(5) A Magyar Köztársaságban a tör vény ben meghatározottak szerint mindenki jogorvoslattal élhet az olyan bírósági,
+közigazgatási és más hatósági döntés ellen, amely a jogát vagy jogos érdekét sérti. A jogorvoslati jogot – a jogviták
+ésszerű időn belüli elbírálásának érdekében, azzal arányosan – a jelenlévő országgyűlési képviselők kétharmadának
+szavazatával elfogadott tör vény korlátozhatja.”
+„64. § A Magyar Köztársaságban mindenkinek joga van arra, hogy egyedül vagy másokkal együttesen írásban kérelmet
+vagy panaszt terjesszen az ille té kes állami szerv elé.”
+„70/A. § (1) A Magyar Köztársaság biztosítja a területén tartózkodó minden személy számára az emberi, illetve az
+állampolgári jogokat, bármely megkülönböztetés, nevezetesen faj, szín, nem, nyelv, vallás, politikai vagy más
+vélemény, nemzeti vagy társadalmi származás, vagyoni, születési vagy egyéb helyzet szerinti különbségtétel nélkül.”
+Az Sztv. utólagos normakontrollra irányuló indítványokkal érintett rendelkezései:
+„20. § (1) El kell kobozni azt a dolgot,
+a) amelyet a szabálysértés elkövetéséhez eszközül használtak, ha az eljárás alá vont személy tulajdona vagy
+egyébként is, ha birtoklása a közbiztonságot veszélyezteti;
+b) amely a szabálysértés útján jött létre;
+c) amelyet az eljárás alá vont személy a szabálysértés elkövetéséért a tulajdonostól vagy annak hozzájárulásával
+mástól kapott.
+(2) El kell kobozni azt a dolgot, amelyre nézve a szabálysértést elkövették, amennyiben a szabálysértést meghatározó
+jogszabály az elkobzást kötelezővé teszi.
+(3) El lehet kobozni azt a dolgot, amelyre nézve a szabálysértést elkövették, amennyiben a szabálysértést meghatározó
+jogszabály az elkobzást lehetővé teszi.
+(4) Az elkobzás önállóan és akkor is alkalmazható, ha az eljárás alá vont személy nem vonható felelősségre, illetve
+a hatóság mellőzte a felelősségre vonást.
+
+(5) Az (1) bekezdés a) pontja esetén az eljárás alá vont személy tulajdonában lévő dolog elkobzása kivételesen
+mellőzhető, ha az a szabálysértés súlyával arányban nem álló, méltánytalan hátrányt jelentene az eljárás alá vont
+személy számára.
+(6) Az elkobzott dolog tulajdonjoga az államra száll.
+(7) Nincs helye elkobzás elrendelésének, ha a cselekmény elkövetése óta két év eltelt, kivéve, ha az elkobzás tárgyának
+birtoklása jogellenes.”
+„74/A. § (8) A kézbesítési vélelem megdöntésére irányuló kérelmet elutasító határozat ellen panasznak van helye.”
+„79. § (1) Átvizsgálható az olyan személynek a ruházata, csomagja, ille tő leg a helyszínen lévő járműve, akiről alaposan
+feltehető, hogy tárgyi bizonyítási eszközt tart magánál, továbbá, ha az átvizsgálásra a 80. § (6) bekezdésben
+meghatározott lefoglalás érdekében van szükség.
+(2) Az átvizsgálás előtt az érdekeltet fel kell szólítani, hogy a keresett tárgyat önként adja át.
+(3) A ruházat átvizsgálását csak az átvizsgált személlyel azonos nemű személy végezheti.
+(4) Az átvizsgálás foganatosítására a Rendőrség, ille tő leg a hatáskörébe tartozó szabálysértések tekintetében a Vám- és
+Pénzügyőrség, továbbá külön jogszabályban meghatározott esetekben a szabálysértés miatt eljáró más szerv
+jogosult.
+80. § (1) A szabálysértési hatóság lefoglalhatja azt a dolgot, amely
+a) tárgyi bizonyítási eszköz;
+b) a tör vény értelmében elkobozható.
+(2) A szabálysértési hatóság lefoglalja azt a dolgot, amelynek birtoklása jogszabályba ütközik.
+(3) Postai küldeményeket és táviratokat – amíg azokat a címzettnek nem kézbesítették – csak az ügyész írásbeli
+határozata alapján lehet lefoglalni. A határozat kiadásáig csupán visszatartásuk iránt lehet intézkedni.
+(4) A szabálysértési hatóság a lefoglalt dolog őrzéséről gondoskodik. Ha a dolog használatához az érintettnek különös
+érdeke fűződik, az (1) bekezdés alapján lefoglalt dolgot az őrizetére lehet bízni.
+(5) A gyorsan romló, bomló, tárolhatatlan dolgot a szabálysértési hatóság értékesítheti.
+(6) Ha a külföldi az előreláthatólag kiszabásra kerülő pénzbírság, ille tő leg az eljárási költség fedezetéhez szükséges
+összeget nem helyezi letétbe, a szabálysértési hatóság az összeg erejéig az eljárás alá vont személy
+vagyontárgyait – a nélkülözhetetlen vagyontárgyak kivételével – lefoglalhatja. A szabálysértési tárgyalás során
+a letétbe helyezés, ille tő leg ennek elmulasztása esetén a lefoglalás lehetőségéről a külföldit tájékoztatni kell.
+(7) A lefoglalás érdekében a dolog birtokosát fel kell szólítani, hogy a keresett dolgot adja át. Az átadás megtagadása
+nem akadálya annak, hogy a keresett dolgot átvizsgálás útján megszerezzék. Erre az érintettet figyelmeztetni kell.
+(8) A lefoglalást meg kell szüntetni, mihelyt arra az eljárás érdekében már nincs szükség. Ebben az esetben a dolgot,
+ illetve az értékesítésből befolyt ellenértéket annak kell visszaadni, akitől a dolgot lefoglalták.
+(9) Az eljárás alá vont személytől lefoglalt dolgot részére csak akkor lehet kiadni, ha a kiadás iránt más nem jelentett be
+igényt. Ha az eljárás alá vont személytől lefoglalt dolog kiadása iránt más is jelent be igényt, a szabálysértési
+hatóság – a jogosultság elbírálása nélkül – határoz a lefoglalt dolog elhelyezéséről.
+(10) Az eljárás alá vont személytől lefoglalt dolog az állam tulajdonába kerül, ha kétséget kizáróan mást illet, de
+a jogosult kiléte nem állapítható meg. A később jelentkező jogosult a szabálysértési hatóságtól kérheti a dolog
+visszaadását, illetve értékesítés esetén a dolog lefoglaláskori ellenértékét.
+(11) Ha a lefoglalt dolog értéktelen és arra senki sem tart igényt, a lefoglalás megszüntetése után azt meg kell
+semmisíteni.
+81. § (1) A szabálysértési hatóság, továbbá a bíróság az eljárás során előírt kötelességek teljesítése érdekében, továbbá
+az eljárás rendjének megzavarása miatt rendbírságot szabhat ki.
+(2) A rendbírság kiszabása elleni panasznak halasztó hatálya van.
+(3) A rendbírság legalacsonyabb összege ötszáz, legmagasabb összege a szabálysértési hatóság előtt folyó eljárásban
+ötezer forint, a bírósági eljárásban ötvenezer forint.”
+„86. § (1) A szabálysértési hatóságnak a 79–81. §-a alapján hozott határozatával, ille tő leg intézkedésével szemben az
+eljárás alá vont személy és jogi képviselője, valamint a rendbírsággal sújtott személy, a 84. § alapján hozott
+határozatával szemben a sértett panaszt tehet. A 74/A. § (8) bekezdése alapján hozott határozattal szemben az eljárás
+alá vont személy és jogi képviselője, valamint a sértett és jogi képviselője panaszt tehet.
+(2) A panaszt a határozat közlésétől számított nyolc napon belül kell szóban vagy írásban megtenni a szabálysértési
+hatóságnál.”
+
+„87. § (3) Az (1) bekezdésben meghatározott határozatnak tartalmaznia kell:
+(...)
+c) felszólítást az eljárás alá vont személyhez arra nézve, hogy a határozat jogerőre emelkedésétől számított harminc
+napon belül a pénzbírságot vagy az egyéb pénzösszeget fizesse meg; (...)”
+„89. § (1) A kifogás alapján a szabálysértési hatóság a határozatát visszavonhatja, vagy – a kifogást tevő
+javára – módosíthatja.”
+„90. § (2) A szabálysértési hatóság a kifogás beérkezését követő nyolc napon belül – amennyiben a kifogás érvényes és
+nem kerül sor a 89. § (1) bekezdésében foglaltak alkalmazására – az iratokat a további eljárás lefolytatása céljából
+megküldi az ille té kes helyi bíróságnak.”
+III.
+Az indítvány az alábbiak szerint nem megalapozott.
+1. Az Alkotmánybíróság elsőként az utólagos normakontrollra irányuló indítványi kérelmeket tekintette át.
+1.1. Az indítványozó szerint az Sztv. 20. §-ában szabályozott elkobzás intézménye az Alkotmány 8. § (2) bekezdésével és
+13. § (1) és (2) bekezdésével is ellentétes.
+Az Alkotmánybíróság már több korábbi határozatában is foglalkozott az elkobzás különböző jogterületeken
+szabályozott intézményével. Az 1624/B/1991. AB határozat a büntetőjogban szabályozott elkobzás jellegével
+kapcsolatban a következőkre mutatott rá: „[a]z elkobzás olyan büntetőjogi jogkövetkezmény, védelmi jellegű
+biztonsági intézkedés, amelynek alapja és elengedhetetlen előfeltétele valamely, a tör vény ben büntetendővé
+nyilvánított magatartás, büntetőjog-ellenes cselekmény meg valósulása, amellyel az elkobzandó tárgy a tör vény által
+meghatározott viszonyban áll, azonban nem szükségképpeni előfeltétele, hogy az elkobzással érintett személy az
+adott cselekményért büntetőjogilag is felelőssé tehető legyen”. (ABH 1992, 509, 511.)
+A 33/2002. (VII. 4.) AB határozat – áttekintve azokat a jogágakat, amelyek az elkobzást alkalmazzák – a következőket
+hangsúlyozta annak büntető- és szabálysértési jogi szabályozásával összefüggésben: „A lefoglalás és az elkobzás
+kétségkívül a tulajdont érintő intézkedés, függetlenül attól, hogy melyik jogág szabályozása teszi annak alkalmazását
+lehetővé. A büntetőjogban (szabálysértési jogban) azonban ilyen intézkedés alkalmazása csak akkor lehetséges, ha az
+intézkedéssel érintett dologgal (a tulajdon tárgyával) összefüggésben bűncselekményt (szabálysértést) követtek el.”
+(ABH 2002, 173, 178–179.)
+Az Sztv. 20. §-ában szabályozott elkobzás alkalmazásának eredményeként az állam javára történik a dolog
+tulajdonának elvonása, ennek azonban előfeltétele, hogy az elkobzott dologgal kapcsolatban szabálysértést követtek
+el, s e jogkövetkezmény megállapítása szabálysértési határozatban történik. Tehát a szabálysértési eljárás során
+megállapított elkobzás – hasonlóan a büntetőjogban alkalmazott elkobzáshoz – a tulajdonjogtól való közjogi alapú
+megfosztást jelent. Az elkobzás alkotmányossága ezért csak abban az összefüggésben ítélendő meg, hogy
+a szabálysértéshez kapcsolódó, a tulajdon elvonását eredményező büntető jellegű jogkövetkezmény.
+Önmagában az, hogy az Sztv. – a büntetőjoghoz hasonlóan – lehetővé teszi az elkobzás intézményének alkalmazását
+a szabálysértéssel érintett dologra, nem eredményezi a tulajdonhoz való jog alkot mány elle nes korlátozását.
+Az Sztv. 20. §-ának alkot mány elle nessége azon az alapon sem állapítható meg, hogy – amint az indítványozó
+fogalmaz – az „a kisebb vagyonú elkövető szabadságjogát nagyobb mértékben korlátozza, mint a vagyonosabb
+elkövetőét”. Mivel az elkobzás speciális jogi szankció, azt elsődlegesen a szabálysértésre tekintettel rendeli alkalmazni
+a jogalkotó, és nem az elkobzással érintett személy vagyoni helyzetére tekintettel. Ugyanakkor az Sztv. 20. §
+(5) bekezdése alapján a jogalkotó lehetővé teszi, hogy az elkobzás elrendelésekor a hatóság mérlegelje az elkobzás
+mellőzését épp az elkobzással érintett személy vagyoni helyzete alapján, valamint az Sztv. ismeri a méltányossági
+kérelem intézményét az elkobzott dolog visszaadása iránt (Sztv. 116. §). Bár az indítványozó az Sztv. 20. §
+(5) bekezdésével összefüggésben úgy vélekedett, hogy az épp azért alkot mány elle nes, mert kivételesen lehetővé teszi
+az elkobzás mellőzését, valójában e szabály azt a célt szolgálja, hogy az elkobzás ne eredményezzen méltánytalan
+hátrányt az elkobzott dolog tulajdonosára. Ezért az Alkotmány 70/A. §-ának sérelme az Sztv. 20. §-ával összefüggésben
+nem állapítható meg.
+Nem állapítható meg az Alkotmány 2. § (1) bekezdésének sérelme sem az Sztv. 20. § (4) bekezdésének „önállóan”
+szövegrészével összefüggésben. Ebből ugyanis – az indítványozó feltevésével ellentétben – nem következik, hogy az
+elkobzás kimondására szabálysértési határozat nélkül kerülhetne sor. Az Sztv. 87. §-a egyértelműen megjelöli, hogy az
+elkobzásról határozatban kell rendelkeznie a szabálysértési hatóságnak. Így az Sztv. 20. § (4) bekezdésének
+alkot mány elle nessége ebben az összefüggésben nem állapítható meg.
+Ugyancsak nem állapítható meg, hogy az ártatlanság vélelmét sértené az Sztv. 20. § (4) bekezdése. Az elkobzás
+alkalmazásának feltétele ilyenkor is a szabálysértés elkövetése (lásd Sztv. 87. §) – pusztán a felelősség megállapítására
+
+nem kerül sor azért, mert az kizárt (Sztv. 9.–11. §), vagy a szabálysértési hatóság az Sztv. 12. §-a alapján mellőzi
+a felelősségre vonást a szabálysértővel szemben. Így az Alkotmány 57. § (2) bekezdése és az Sztv. 20. §-a között az
+indítványozó által felvetettek tekintetében alkotmányos összefüggés nem állapítható meg.
+Az
+Alkotmánybíróság
+mindezek
+alapján
+az
+Sztv.
+20.
+ §-ának
+egésze,
+valamint
+(4)–(5)
+bekezdése
+alkot mány elle nességének megállapítására irányuló indítványt elutasította.
+1.2. Az Alkotmánybíróság a továb biak ban az Sztv. 86. §-ának alkotmányosságát vitató indítványi elemeket bírálta el. Az
+indítványozó szerint az Sztv. 86. § (1) bekezdése sérti az Alkotmány 64. §-át, mivel nem teszi lehetővé a panasz
+ügyészséghez történő továbbítását, ha a szabálysértési hatóságnak nincs hatásköre. Az indítványozó támadta az Sztv.
+86. § (2) bekezdését is, mivel szerinte az Sztv. nem ír elő a határozathozatali kötelezettséget az Sztv. 86. §
+(1) bekezdésében utalt cselekményekkel kapcsolatban. Ezért szerinte értelmetlen az Sztv. 86. § (2) bekezdése, s az
+Alkotmány 2. § (1) bekezdését valamint az Alkotmány 57. § (5) bekezdését sérti.
+Az Sztv. 86. §-a az olyan cselekményekkel szemben biztosít speciális jogorvoslatot, amelyekkel szemben nincs helye
+kifogásnak. A panasz intézményének sajátossága, hogy azt az eljárt szabálysértési hatóság bírálja el, és így maga
+orvosolhatja a panaszt. Vagyis az indítványozó által felvetett probléma – hogy tudniillik az Sztv. 86. § (1) bekezdésében
+felsorolt határozatot meghozó, illetve intézkedést foganatosító szabálysértési hatóságnak nincs az eljárásra
+hatásköre – alapvetően nem értelmezhető az Sztv. 86. § (1) bekezdésével összefüggésben. Ha az eljárt szabálysértési
+hatóság a panaszt elutasítja, a panaszról érdemben az ügyészség dönt. Ugyanakkor, ha a panaszos nem az eljárt
+hatóságnál terjeszti elő panaszát, a panasz érdemi elbírálásának nem lehet helye. Az Alkotmányból nem következik,
+hogy a panaszt bármely hatóság köteles lenne elbírálni. A panasz elbírálása a jogalkotó által megjelölt, hatáskörrel
+rendelkező szerv feladata. Ahogy az 1211/B/1996. AB határozat fogalmazott: „Az Alkotmány 64. §-ában foglalt petíciós
+jogból nem vezethetők le sem az egyes állami szervek előtt folyó eljárásokban részt vevők konkrét jogosultságai és
+kötelezettségei, sem az, hogy ezeket az eljárásokat minden kérelemre automatikusan meg kellene indítani. Nem
+következik a petíciós jog alkotmányos alapelvéből az sem, hogy a különböző állami szervek előtt folyó eljárásokban
+csak ügyféli minőséget kellene biztosítania a jogalkotónak, ille tő leg az eljárások megindítására ugyanolyan
+szabályokat kellene alkalmazni. A jogalkotó az egyes szabályozási terület jellegére tekintettel állapította meg pl. az
+államigazgatási, polgári, büntető- vagy versenyhivatali eljárás kezdeményezésének feltételeit, valamint ezen eljárások
+alanyainak jogait és kötelezettségeit. Az, hogy a jogalkotó az eljárások megindítását feltételhez köti, ille tő leg hogy az
+egyes jogterülethez tartozó eljárások alanyainak jogait eltérően szabályozza, nem sérti az Alkotmány 64. §-ában foglalt
+alapjogot.” (ABH 2002, 768, 772.) Erre tekintettel az Alkotmány 64. §-ának sérelme az indítványozó által felvetett
+összefüggésben nem állapítható meg.
+Nem állapítható meg az Sztv. 86. § (2) bekezdésének alkot mány elle nessége sem. A 86. § (1) bekezdésében megjelölt
+intézkedésekkel, döntésekkel kapcsolatban a határozathozatali kötelezettséget nem az Sztv. 86. §-a mondja ki, hanem
+az Sztv.-nek az adott intézkedést, illetve döntést szabályozó rendelkezései. Mivel az Sztv. 86. § (2) bekezdése
+egyértelműen az Sztv. 86. § (1) bekezdésében foglaltakra utal vissza, a panasz elő ter jesz tésének határidejét az ott
+megjelölt intézkedésről, illetve egyéb döntésről szóló határozat közlésétől kell számítani. Önmagában az a körülmény,
+hogy az Sztv. 86. § (2) bekezdését a jogalkalmazás során értelmezni kell, nem eredményezi az Alkotmány 2. §
+(1) bekezdésének sérelmét.
+Miután az Sztv. 86. §-a egy speciális jogorvoslati formát szabályoz, nem állapítható meg az Alkotmány 57. §
+(5) bekezdésének sérelme sem. A panasz intézménye épp azt hivatott biztosítani, hogy az Sztv. 86. § (1) bekezdésében
+felsorolt döntésekkel szemben is biztosított legyen a jogorvoslat. Így az Alkotmánybíróság az indítványt ebben
+a tekintetben elutasította.
+1.3. Az indítványozó Sztv. 87. § (2) bekezdés c) pontjának megsemmisítését azért kérte, mert az Sztv. 111. §
+(1) bekezdésével ellentétesen, ami harmincnapos határidőt biztosít a teljesítésre, tizenöt napos határidőt ír elő, ami az
+Alkotmány 2. § (1) bekezdését sérti.
+Az Alkotmánybíróság eljárása során megállapította, hogy az Sztv. indítvánnyal támadott rendelkezését még az
+indítvány-kiegészítés benyújtását (2000. május 9.) megelőzően módosította a büntető jogszabályok módosításáról
+ szóló 1999. évi CXX. törvény 41. § (3) bekezdése, ami 2000. március 1-jén lépett hatályba. E módosítás összehangolta az
+Sztv. 87. §-ában és 111. §-ában szabályozott határidőket, amiket az indítványozó kifogásolt. Miután a megsemmisíteni
+kért jogszabályi rendelkezés már az indítvány benyújtását megelőzően hatályát vesztette, az Alkotmánybíróság az
+indítványt ebben a részében az Alkotmánybíróság ideiglenes ügyrendjéről és annak közzétételéről szóló, többször
+módosított és egységes szerkezetbe foglalt 2/2009. (I. 12.) Tü. határozat (ABK 2009. január, 3.; a továb biak ban:
+Ügyrend) 29. § f) pontja alapján visszautasította.
+
+1.4. Az Alkotmánybíróság végül azt az utólagos normakontrollra irányuló indítványi kérelmet vizsgálta, ami szerint az Sztv.
+90. § (2) bekezdésének „a kifogás érvényes és” szövegrésze a bírósághoz fordulás jogát korlátozza.
+Az Sztv. szabályozási rendszerében a kifogás a szabálysértési hatóság határozatával szembeni jogorvoslati forma,
+amelyet a szabálysértési hatóság előtt lehet előterjeszteni. Ez alapján a szabálysértési hatóság maga is orvosolhatja
+a kifogásban foglaltakat, illetve, ha erre nem kerül sor, a bíróság jár el a kifogás ügyében. Ugyanakkor az Sztv. 90. §
+(1) bekezdése értelmében a szabálysértési hatóság elutasítja a kifogást, ha az elkésett, vagy nem a jogosult terjesztette
+elő. A bíróság általi felülvizsgálatra tehát csak akkor kerül sor, ha formailag meg fele lően, vagyis az arra jogosult
+határidőn belül terjesztette elő a kifogást.
+Önmagában az a körülmény, hogy a szabálysértési hatóság nem köteles minden kifogást automatikusan, vagyis
+a formai feltételeknek meg nem felelő kifogásokat is a bíróság elé terjeszteni még nem jelenti a bírósághoz fordulás
+jogának alkot mány elle nes korlátozását. A szabálysértési hatóság döntésével szemben ugyanis az ügyészségen
+panasszal lehet élni, és az ügyészség a panasz alapján kötelezheti a szabálysértési hatóságot döntése felülvizsgálatára.
+Vagyis ha a szabálysértési hatóság tévesen ítéli meg a kifogás érvénytelenségét, akkor az ügyészség döntése alapján
+a kifogást továbbítani kell a bírósághoz. Ez kellő biztosítékot jelent arra, hogy a kifogás előterjesztője számára – ha
+a kifogás a kifogás elő ter jesz tésével szemben támasztott tör vényi feltételeknek megfelel – a bírói út biztosított legyen.
+A bírósághoz fordulás jogából ugyanis az nem következik, hogy a szabálysértési hatóságnál előterjesztett, az érdemi
+elbírálásra nyilván valóan alkalmatlan kifogásokat is kizárólag a bírósági felülvizsgálat során lehetne elutasítani.
+1.5. Az indítványozó minden utólagos normakontroll keretében támadott rendelkezéssel kapcsolatban kérte azok
+Alkotmánynak megfelelő értelmezését is. Mivel az Alkotmánybíróság hatáskörébe jogszabály, valamint az állami
+irányítás egyéb jogi eszköze alkotmányosságának vizsgálata tartozik, az Alkotmánybíróság ezt az indítványi kérelmet
+az Ügyrend 29. § b) pontja alapján – hatásköre hiánya miatt – visszautasította.
+2. Az Alkotmánybíróság a továb biak ban az alkot mány elle nes mulasztás megállapítására irányuló indítványi kérelmeket
+tekintette át.
+Az Alkotmánybíróságnak a mulasztásban megnyilvánuló alkot mány elle nesség megállapítására irányuló hatáskörét az
+Abtv. 49. §-a szabályozza.
+Az Abtv. ezen rendelkezését, valamint az Alkotmánybíróság gyakorlatát is figye lembe véve a mulasztásban
+megnyilvánuló alkot mány elle nesség megállapításának két együttes feltétele van:
+– a jogalkotó jogszabályi felhatalmazáson alapuló, vagy feltétlen jogszabályi rendezést igénylő kérdésben jogalkotói
+kötelezettségének nem tesz eleget,
+– és a jogalkotói kötelezettség elmulasztásának eredményeként alkot mány elle nes helyzet keletkezik.
+Az Alkotmánybíróság a 35/2004. (X. 6.) AB határozatában az alábbiakban összegezte az Abtv. 49. § (1) bekezdésében
+szereplő „jogalkotói mulasztás” és „alkot mány elle nes helyzet” egymáshoz való viszonyára vonatkozó álláspontját: „Az
+Alkotmánybíróság következetesen érvényesített álláspontja, hogy a jogalkotói mulasztásnak és az alkot mány elle nes
+helyzetnek együttesen kell fennállnia [22/1990. (X. 16.) AB határozat, ABH 1990, 83, 86.; 37/1992. (VI. 10.) AB határozat,
+ABH 1992, 227, 232.]. A jogalkotói feladat elmulasztása önmagában nem feltétlenül jelent alkot mány elle nességet
+[14/1996. (IV. 24.) AB határozat, ABH 1996, 56, 58–59.; 479/E/1997. AB határozat, ABH 1998, 967, 968–969.;
+1080/D/1997. AB határozat, ABH 1998, 1045, 1046.; 10/2001. (IV. 12.) AB határozat, 2001, 123, 131.], a mulasztásból
+eredő alkot mány elle nes helyzetet minden esetben csak konkrét vizsgálat eredményeként lehet megállapítani.” (ABH
+2004, 504, 508.)
+2.1. Mulasztás megállapítását kérte az indítványozó a miatt, hogy a jogalkotó elmulasztotta szabályozni az Sztv.-ben
+a szabálysértési hatóság által foganatosított lefoglalással szembeni bírósági jogorvoslat rendjét a hatóság hallgatása,
+az eljárás megszüntetése, vagy felfüggesztése esetén, mivel ilyenkor nem hoznak a lefoglalásról határozatot, így
+a lefoglalás megtámadására sincs lehetőség. E miatt az indítványozó szerint sérül az ártatlanság vélelme és
+a jogorvoslati jog.
+Az Sztv. 86. §-a rendelkezik a panasz intézményéről, ami azt a funkciót tölti be a szabálysértési eljárásban, hogy
+a kifogás útján meg nem támadható szabálysértési határozatokkal szemben jogorvoslatot biztosítson. A panasz
+kezdeményezésére akkor van lehetőség, ha a szabálysértési hatóság az Sztv. 79–81. §-a alapján hozott határozatot,
+vagy alkalmazott intézkedést. Ebből következően az, akinek dolgát a szabálysértési hatóság lefoglalta, panaszt tehet
+a lefoglalás miatt. Így nem állapítható meg, hogy az Sztv. ne adna lehetőséget – ahogy az indítványozó
+fogalmaz – a „lefoglalás megtámadására”. Így a mulasztás megállapítására irányuló indítványt az Alkotmánybíróság
+elutasította. Megjegyzi az Alkotmánybíróság, hogy a lefoglalásról a szabálysértési hatóság határozatot hoz, ennek
+hiányában nem kerül sor lefoglalásra.
+
+2.2. Mulasztást eredményez az indítványozó szerint az is, hogy az Sztv. nem minden esetben engedi meg, hogy az eljárás
+alá vont személy kifogásolja a szabálysértési hatóság határozatában megállapított eljárás költségét, illetve általában
+véve a megállapított szakértői díjat. Ha a szabálysértési hatóság felelősségre vonás mellőzésével „szüntette meg”
+a szabálysértési eljárást úgy, hogy fizetési kötelezettséget állapított meg, az eljárás alá vont személy számára nem
+biztosított a bírósághoz fordulás joga, ugyanis az Sztv. 88. §-a, 89. §-a, valamint 72. és 75. §-ai alapján az eljárási
+költséget megállapító határozatot nem sorolják fel, ezért az bírósági úton nem támadható meg. Az indítványozó ezzel
+összefüggésben az Alkotmány 50. § (2) bekezdésére hivatkozott.
+Az Alkotmánybíróság az indítványozó által felvetett alkotmányossági probléma kapcsán megvizsgálta a szabálysértési
+eljárás költségviselési szabályait és jogorvoslati fórumrendszerét, és a következőket állapította meg.
+2.2.1. Az Sztv. lehetővé teszi az eljárás során a cselekmény súlyának mérlegelését, s a cselekmény csekély súlya esetén
+kivételes elbírálás alkalmazását. Ennek két esetét ismeri az Sztv.: a figyelmeztetést (Sztv. 22. §), valamint a felelősségre
+vonás mellőzését (Sztv. 12. §). A figyelmeztetés büntetés helyett alkalmazható szankció, amennyiben a bíróság úgy
+ítéli meg, hogy a szabálysértés az elkövetés körülményeire tekintettel csekély fokú, s az eljárás alá vont személlyel
+szemben e nevelő célzatú intézkedés alkalmazása is kellően visszatartó hatású lehet. Mivel ilyen esetben
+megállapításra kerül az eljárás alá vont személy felelőssége, az ügyben érdemi határozatot kell hozni.
+Felelősségre vonás mellőzése esetén a szabálysértés „még csekélyebb” súlyára tekintettel a szabálysértési hatóság
+büntetés, illetve intézkedés alkalmazásától is eltekinthet. Ilyen esetben az eljárás alá vont személy felelőssége
+a szabálysértés elkövetéséért megállapításra kerül, csupán a szabálysértési szankció alkalmazásától tekint el
+a szabálysértési hatóság. Az Sztv. végrehajtásáról szóló 11/2000. (II. 23.) BM rendelet 3. § (1) bekezdése
+alapján – tekintettel a szabálysértési felelősség megállapítására – érdemi (de nem eljárást megszüntető) határozatot
+kell hozni.
+2.2.2. Az Sztv. 73. § (1) bekezdése alapján eljárási költségnek minősül mindaz a költség, amelyet az állam előlegez az eljárás
+megindításától a végrehajtás befejezéséig, az eljárás alá vont személy ügyben felmerült készkiadása, valamint a sértett
+indokolt készkiadása. Az eljárási költség körében a jogalkotó nem sorolja fel kifejezetten a szakértő díját és költségét,
+de jogértelmezés útján megállapítható, hogy az az Sztv. 73. § (1) bekezdés a) pontja alá tartozó eljárási költség.
+2.2.3. Az Sztv. 73. §-a rendelkezik az eljárási költség viselésének szabályairól. Eszerint ha az eljárás során megállapítják, hogy
+az eljárás alá vont személy a szabálysértést elkövette, ő viseli az eljárás költségét (kivéve a magyar nyelv ismeretének
+hiánya miatt felmerült költséget). Ide tartozik értelemszerűen az az eset is, amikor a felelősségre vonás mellőzésével
+(Sztv. 12. §), vagy figyelmeztetés alkalmazásával (Sztv. 22. §) zárul az eljárás. Ugyanis mindkét esetben sor kerül
+a szabálysértés elkövetésének megállapítására az eljárást lezáró érdemi határozatban. Ha azonban az eljárás
+megszüntetésére kerül sor (Sztv. 8–11. §), az eljárási költséget az állam viseli. Kivételesen azonban ebben az esetben is
+a sértettet terheli az eljárási költség: ha az eljárás megszüntetésére azért kerül sor, mert a sértett a tárgyaláson nem
+jelent meg, vagy arra a sértett hibájából nem volt idézhető (Sztv. 131. §). Az eljárási költség viselése tehát a felelősség
+megállapításától függ: az eljárás alá vont személyt akkor terheli, ha a szabálysértés elkövetéséért felelőssége
+megállapítható.
+2.2.4. Az Sztv. rendszerében a már ismertettek alapján kétféle jogorvoslat létezik: a panasz és a kifogás. Panasszal a kifogás
+útján meg nem támadható érdemi határozatokkal szemben lehet élni: vagyis az eljárás során foganatosított
+kényszerintézkedésekkel, a rendbírsággal szemben, valamint a sértett jogosult panasszal élni, ha a szabálysértési
+eljárás negatív érdemi határozattal, vagyis az eljárás megszüntetésével fejeződött be.
+Kifogással a marasztalást tartalmazó határozatokkal, vagyis – az Sztv. 88. § (1) bekezdésében található kimerítő
+felsorolás alapján – a pénzbírság kiszabását, járművezetéstől eltiltást, az elkobzást, a figyelmeztetést és a kitiltást
+megállapító határozattal szemben élhet az eljárás alá vont személy, illetve ha kár megtérítésére kötelezést tartalmaz
+a határozat, akkor az ellen a sértett is.
+Az Sztv. 92. § (5) bekezdése értelmében, ha a kifogás kizárólag az elkobzásra, a kártérítésre vagy az eljárási költségre
+vonatkozik, a bíróság csak ezekben a kérdésekben határoz. Tehát az eljárás alá vont személy kifogással az eljárási
+költség tekintetében is megtámadhatja a szabálysértési hatóság határozatát.
+2.2.5. Az Sztv. szabályozása alapján az eljárási költséggel szemben valamennyi marasztalást tartalmazó, kifogással
+megtámadható határozat esetében biztosított a jogorvoslat a bíróság előtt. Vagyis például ha – a szabálysértés csekély
+súlyára tekintettel – figyelmeztetés alkalmazásával fejeződik be az eljárás, az eljárás alá vont személy kifogást
+terjeszthet elő a figyelmeztetésről rendelkező határozat és az eljárás költségei tekintetében is.
+Amennyiben azonban az eljárás – a szabálysértés „még csekélyebb” súlya miatt – a felelősségre vonás mellőzésével
+zárul, a jogorvoslat lehetősége sem a szabálysértési felelősség megállapítását kimondó határozattal szemben, sem az
+eljárás költsége tekintetében nem biztosított. Ilyen esetben ugyanis az eljárás nem megszüntető végzéssel zárul,
+
+e miatt az eljárás alá vont személy nem élhet panasszal. Továbbá miután az Sztv. 88. § (1) bekezdése sem utal az ilyen
+eljárást lezáró határozat-típusra, az eljárás alá vont személy kifogással sem támadhatja meg a felelősségre vonás
+mellőzésével hozott határozatot. Ennek következtében az eljárási költség megtámadására sincs lehetősége. Így sem
+panasz, sem kifogás útján nem biztosított az eljárás alá vont személy számára az, hogy a szabálysértésért megállapított
+felelősségéről szóló határozattal szemben (azon az alapon, hogy azt nem ő követte el), illetve az azzal összefüggésben
+kiszabott eljárási költséggel szemben jogorvoslattal éljen.
+További lényeges szempont a felelősségre vonás mellőzését kimondó szabálysértési határozat esetén az is, hogy arról
+a sértettet kell csupán értesíteni az Sztv. 12. §-a alapján: az eljárás alá vont személyt a hatóság csak akkor értesíti
+a döntésről, ha az eljárás megindításáról is tudomást szerzett.
+2.2.6. Az Alkotmánybíróság gyakorlata értelmében az Alkotmány 57. § (5) bekezdése alapján az érdemi határozatok
+tekintetében a más szervhez, vagy ugyanazon szervezeten belül magasabb szervhez fordulás lehetőségét kell
+biztosítani [elsőként: 5/1992. (I. 30.) AB határozat, ABH 1992, 27.]. Az Alkotmány 50. § (2) bekezdését az
+Alkotmánybíróság úgy értelmezte korábbi határozataiban, hogy az az érdemi, ügydöntő közigazgatási határozatok
+bíróság általi – tör vényességi – felülvizsgálatának követelményét fogalmazza meg, ezzel biztosítva a közigazgatás
+feletti bírósági kontroll lehetőségét (többek között: 953/B/1993. AB határozat, ABH 1996, 432.).
+A felelősségre vonás mellőzésével lezárt szabálysértési eljárás esetében az eljárás alá vont személy felelőssége
+megállapítására sor kerül, így az erről szóló határozat érdemi, ügydöntő határozatnak minősül. Ebből következően az
+ilyen határozattal szemben a jogorvoslati jogot biztosítani kell. Mivel a szabálysértési jog rendszerében a panasz
+a kényszerintézkedésekkel és negatív érdemi döntésekkel szembeni jogorvoslat eszköze, a felelősség mellőzéséről
+ szóló határozatok tekintetében a kifogás biztosíthatja a felelősség szabálysértési határozatban történt
+megállapításának tör vényességi felülvizsgálatát.
+A jogorvoslati jog tényleges gyakorlásának feltétele az is – amint azt az Alkotmánybíróság több határozatában is
+megállapította –, hogy az érintett tudomást szerezzen a határozat meghozataláról [például: 24/1999. (VI. 30.) AB
+határozat, ABH 1999, 237.] A jogalkotónak ennek meg fele lően biztosítania kell azt is, hogy az eljárás alá vont személy is
+minden esetben értesüljön a felelősségre vonás mellőzését kimondó határozat meghozataláról, hiszen ennek
+hiányában jogorvoslati jogával érdemben nem tudna élni.
+Az Alkotmánybíróság mindezek alapján megállapította azt, hogy alkot mány elle nes mulasztás áll fenn a miatt, hogy
+a jogalkotó nem biztosította a felelősségre vonás mellőzéséről rendelkező szabálysértési határozattal szemben
+a jogorvoslatot. Ezért az Alkotmánybíróság a rendelkező részben foglaltak szerint felhívta az Országgyűlést jogalkotói
+feladatának teljesítésére.
+Az Alkotmánybíróság – miután hivatalból megállapította, hogy a felelősségre vonás mellőzésével hozott
+szabálysértési határozat ellen a jogorvoslat hiánya alkot mány elle nes mulasztást eredményez – az indítványozó által
+felvetett alkotmányossági probléma tekintetében alkot mány elle nes mulasztást nem állapított meg az Alkotmány
+50. § (2) bekezdése alapján.
+2.3. Az indítványozó a bírósági tárgyaláson kiszabott rendbírság vonatkozásában is mulasztást kért megállapítani
+a jogorvoslati jog alapján. Ugyanis szerinte a jogalkotó nem határozta meg az eljáró fórumot a rendbírság kiszabása
+tekintetében, ha a rendbírságot a bíróság szabja ki.
+2.3.1. Az Sztv. 81. §-a rendelkezik a rendbírságról. A rendbírság a szabálysértési eljárásban az eljárás rendjének fenntartása
+érdekében alkalmazható vagyoni szankció, amit az eljárásban részt vevő bármely személlyel szemben alkalmazni
+lehet. A rendbírságot az eljáró szabálysértési hatóság, illetve bíróság szabhatja ki. Az Sztv. szerint a szabálysértési
+hatóság által kiszabott rendbírsággal szemben panasznak van helye, amely panasznak a rendbírság végrehajtására
+halasztó hatálya van. A bírósági eljárás során azonban „panasz” benyújtására ténylegesen nincs lehetőség, és az Sztv.
+más jogorvoslati lehetőséget sem biztosít arra az esetre, ha rendbírság kiszabására a bírósági eljárásban kerül sor.
+2.3.2. Az Alkotmánybíróság a továb biak ban azt vizsgálta, hogy sérti-e a jogorvoslathoz való jogot az, ha az Sztv. nem biztosít
+jogorvoslati jogot a bírósági tárgyaláson kiszabott rendbírsággal szemben.
+Az Alkotmánybíróság 1434/D/1995. AB határozatában a büntetőeljárásról szóló 1973. évi I. törvény kapcsán
+benyújtott indítvány tárgyában azért szüntette meg az eljárást, mert a jogalkotó a büntetőeljárásról szóló 1998. évi
+XIX. törvénnyel (a továb biak ban: Be.) orvosolta a jogorvoslat hiányát a másodfokú bíróság rendbírságot kiszabó
+határozatával szemben azzal, hogy lehetővé tette kifogás benyújtását.
+E határozatában az Alkotmánybíróság utalt a 22/1995. (III. 31.) AB határozatra (ABH 1995, 108.), amely mulasztást
+állapított meg a miatt, hogy a tör vényhozó nem biztosított jogorvoslati jogot a polgári perrendtartásról szóló 1952. évi
+III. tör vény ben (a továb biak ban: Pp.) a másodfokú bíróság pénzbírságban marasztaló, valamint szakértői díjat
+megállapító végzésével szemben.
+
+Az Alkotmánybíróság elsőként az 5/1992. (I. 30.) AB határozatában fogalmazta meg a jogorvoslati jog
+érvényesülésével összefüggésben a következőket: „A büntetések és intézkedések végrehajtásának menetében
+azonban a jogorvoslati jog mint alkotmányos alapjog megköveteli, hogy az érdemi, ügydöntő, az elítélt helyzetét,
+jogait lényegesen befolyásoló határozat tekintetében a jogorvoslat biztosítsa a döntést hozó szervtől eltérő más szerv
+részéről a felülvizsgálatot, az állásfoglalást a döntés helyessége, tör vényessége tekintetében, esetleg a döntés
+megváltoztatását vagy hatályon kívül helyezését. Vagyis a jogorvoslathoz való jog, mint alkotmányos alapjog
+immanens tartalma az érdemi határozatok tekintetében a más szervhez vagy [...] ugyanazon szervezeten belüli
+magasabb fórumhoz fordulás lehetősége. Ugyanakkor az ilyen felülvizsgálatot nem biztosító jogorvoslat nem
+feltétlenül alkot mány elle nes a nem érdemi, nem ügydöntő határozatok esetén.” (ABH 1992, 27, 31.)
+Az Alkotmánybíróság később számos határozatában megerősítette ezen álláspontját, így a már hivatkozott 22/1995.
+(III. 31.) AB határozatában is. Ebben a határozatban megállapította: „[a] pénzbírságról szóló döntés nem
+ügyviteli-igazgatási jellegű. Kiszabása feltételeiben olyan jellegű és következményeiben olyan súlyú döntés, hogy
+garanciális szempontból nem tekinthető hatékony jogorvoslatnak a másodfokú bíróság ilyen döntése ellen a Pp.-ben
+biztosított egyik orvoslás sem.” (ABH 1995, 108, 111–112.) E megállapítását a következőkre alapozta az
+Alkotmánybíróság: „A pénzbírságot a Pp.-ben tételesen tiltott, tehát jogellenes magatartás alapozza meg. A
+pénzbírság oka a rosszhiszemű pervitel, az indokolatlan késedelem vagy a tárgyalás rendjének megzavarása. A bíróság
+döntése valamely, a perbe vitt jogokhoz tartozó tényeken kívülálló, önálló tényálláson alapul. A pénzbírság kiszabása
+megtorló jellegű (punitatív) intézkedés. A pénzbírság jogellenes magatartás hátrányos jogkövetkezménye, közvetlen
+vagyoni szankciója. A Pp. a kiszabás feltételein kívül csak a pénzbírság legmagasabb összegét rögzíti, az
+összegszerűség megállapításához további szempontokat nem ad, amely tehát a bíróság jogilag kötetlen
+mérlegelésére tartozik. A pénzbírság behajtására a büntetőügyben kiszabott pénzbüntetések behajtására vonatkozó
+szabályok az irányadók (Pp. 120. §).” (ABH 1995, 108, 111.)
+Az Alkotmánybíróság a jelen ügyben is irányadónak tartja itt ismertetett álláspontját, ami alapján a következőket
+állapítja meg.
+A rendbírság – hasonlóan a Pp.-ben szabályozott tárgyaláson kiszabható pénzbírsághoz – mivel egy jogellenes
+magatartás hátrányos jogkövetkezménye nem ügyviteli jellegű döntés, hanem érdemi. Így – az Alkotmánybíróság
+ismertetett gyakorlatára figyelemmel – a bírósági tárgyaláson kiszabott rendbírságról rendelkező döntéssel szemben
+az Alkotmány 57. § (5) bekezdése alapján a rendbírsággal sújtott személy számára a jogorvoslatot biztosítani kell.
+Erre tekintettel megállapítható, hogy az Alkotmány 57. § (5) bekezdését sértő mulasztás áll fenn a miatt, hogy
+a jogalkotó nem biztosította az Sztv.-ben a bírósági eljárás során kiszabott rendbírsággal szemben a jogorvoslatot.
+Ezért az Alkotmánybíróság a rendelkező részben foglaltak szerint határozott.
+2.4. Az indítványozó szerint alkot mány elle nes mulasztást eredményez, hogy az Sztv.-ben hiányoznak a tárgyalási
+jegyzőkönyv hitelességét garantáló jogorvoslati szabályok, mivel az eljárás alá vont személynek nem kell aláírnia
+a tárgyalási jegyzőkönyvet. Ez sérti az Alkotmány 57. § (1) és (5) bekezdését. Emellett nem biztosított határidőköz
+kötött, kiszámítható jogorvoslat sem a „torz jegyzőkönyvvel szemben”, ami az Alkotmány 2. § (1) bekezdését sérti.
+A jegyzőkönyvezés szabályait az Sztv. 70. §-a tartalmazza. Az Sztv. 70. § (4) bekezdése alapján a jegyzőkönyvet
+felolvasás után az eljárási cselekmény résztvevőinek alá kell írniuk. Ez az adott eljárási cselekmény valamennyi
+résztvevőjét jelenti, vagyis ha az eljárás alá vont személy is részt vesz az eljárási cselekményben, akkor az ő aláírása is
+szükséges. A jegyzőkönyv aláírásának megtagadására is lehetősége van a résztvevőknek: az aláírás megtagadásának
+okát és tényét a jegyzőkönyvben rögzíteni kell. Mindezek alapján megállapítható, hogy az indítványozó által felvetett
+probléma az Sztv. támadott rendelkezésével összefüggésben nem vetődik fel, így az indítványt az Alkotmánybíróság
+elutasította.
+Megjegyzi az Alkotmánybíróság, hogy a jegyzőkönyv rögzítése és aláírása, illetve az aláírás megtagadása nem minősül
+érdemi, ügydöntő határozatnak (a jegyzőkönyv maga sem minősül határozatnak). Az Alkotmány 2. § (1) bekezdéséből
+pedig nem lehet levezetni a jogorvoslat szükségességét a jegyzőkönyvvel szemben.
+2.5. Alkotmányellenes mulasztás áll fenn az indítványozó szerint azért is, mert a jogalkotó nem szabályozta önálló
+perújítási okként a jogerős szabálysértési határozat szabálytalan közlését az Sztv. 103. §-ában, illetve nem határozta
+meg a „közlés” fogalmát, amivel jogbizonytalanságot eredményezett és „utat nyitott különböző alkotmánysértő
+jogértelmezések számára”, mivel „garanciális szabályok sorát építi a definiálatlan közlés fogalomra”. Ez az Alkotmány
+2. § (1) bekezdését sérti. Alkotmányellenes mulasztás áll fenn a miatt is, hogy csak a bíróság határozatával szemben van
+helye perújításnak, a szabálysértési hatóság határozata ellen nincs. Az indítványozó alkot mány elle nes mulasztás
+megállapítását kérte azért is, mert az Sztv. nem teszi lehetővé a jogerős szabálysértési határozat felülvizsgálatát
+a bíróság „súlyos eljárási-szabálysértéseinek esetére”.
+
+Az indítványozó szerint az Sztv. szerinti perújítás túlságosan szűk körben meghatározott feltételeket szab, ami az
+Alkotmány 2. § (1) bekezdését, 7. § (1) bekezdését, 8. § (2) bekezdését, és az 57. § (1) bekezdését sértik. Emellett az
+indítványozó szerint a szabályozás elzárja az eljárás alá vont személyeket jogegységi határozat kezdeményezésétől, ha
+nem biztosított számukra a jogerős döntéssel szembeni perorvoslat. Mivel pedig a szabálysértési eljárás és
+a büntetőeljárás alá vont személyek azonos méltóságúak, egyformán biztosítani kell számukra a tisztességes bírói
+eljárást, így a szabályozási hiány az Alkotmány 70/A. §-át is sérti.
+Mulasztás megállapítását kérte az indítványozó azért is, mert a jogalkotó az Sztv.-ben a perújításnak csak azon esetét
+szabályozta, amikor az alapügyben a bíróság hozott jogerős határozatot, így nincs lehetőség perújításra akkor, ha az
+alapügy nem bíróság előtti eljárásban, hanem a szabálysértési hatóság előtti eljárásban emelkedett jogerőre. Az
+indítványozó szerint ez a szabályozási hiány az Alkotmány 70/A. §-át sérti.
+A jogorvoslathoz való jog alapján az Alkotmánybíróság gyakorlata szerint az érdemi határozatok tekintetében a más
+szervhez vagy ugyanazon szervezeten belül magasabb fórumhoz fordulás lehetőségét kell biztosítani. A
+jogorvoslathoz való jog a rendes jogorvoslatra vonatkozik, a rendkívüli jogorvoslatok kényszerítő szükségessége tehát
+az Alkotmány 57. § (5) bekezdéséből nem vezethető le. Erre tekintettel az Alkotmánybíróság az indítványi kérelmet
+elutasította.
+A jogorvoslathoz való jog alapján tehát nincs jog a „perújításra”. De nem pusztán ebből következik, hogy
+a szabálysértési hatóság határozata ellen a perújítás nem biztosított, hanem abból, hogy a szabálysértési hatóság
+határozatával szemben az Alkotmány 57. § (5) bekezdése alapján rendes jogorvoslati jogot kell biztosítani. Ez a már
+tárgyalt kifogás és panasz intézménye révén biztosítottnak tekinthető. Így az, aki a szabálysértési hatóság döntésével
+nem ért egyet, ezen eszközök igénybevételével jogosult azt megtámadni.
+Ahogy az Alkotmány indítványozó által hivatkozott rendelkezéseiből nem vezethető le a „perújításhoz való jog”,
+valamint a „felülvizsgálathoz való jog”, ugyanígy a perújítási okok köre sem vezethető le az Alkotmány hivatkozott
+rendelkezései alapján. Bár a jogalkotó a jelenleginél bővebben, szélesebb körben is meghatározhatja a perújítási
+okokat, a konkrét perújítási okokat az Alkotmányból nem lehet közvetlenül levezetni.
+A „közlés” fogalmának meghatározásának hiánya az Sztv.-ben önmagában alkot mány elle nességet nem vet fel. A
+világos, érthető és meg fele lően értelmezhető normatartalom alkotmányos követelmény a normaszöveggel szemben
+[elsőként 11/1992. (III. 5.) AB határozat, ABH 1992, 77.]. Ugyanakkor nem állapítható meg az Alkotmány 2. §
+(1) bekezdése szerinti jogállamiság és annak képező jogbiztonság sérelme pusztán a miatt, hogy az adott
+normaszöveget a jogalkalmazás során értelmezni kell: a jogbiztonság elvéből nem következik a jogalkotónak olyan
+kötelezettsége, hogy minden fogalmat minden jogszabályban külön meghatározzon. [71/2002. (XII. 27.) AB határozat,
+ABH 2002, 417.] Mivel az Sztv. külön rendelkezik a kézbesítés szabályairól, s ott meghatározza, hogy mikor minősül
+a hatóság vagy bíróság hivatalos irata „átadottnak”, illetve „kézbesítettnek”, a közlés fogalma erre tekintettel
+a jogalkalmazás során értelmezhető és meghatározható.
+Az Alkotmánybíróság gyakorlata értelmében az Alkotmány 70/A. § (1) bekezdése azonos szabályozási körbe tartozó,
+összehasonlítható helyzetben lévő személyek közötti önkényes különbségtételt tiltja. Az egyes eljárások, illetve az
+eljárás egyes szakaszainak egymástól eltérő szabályozása önmagában nem jelenti a diszkrimináció tilalmának
+sérelmét. Ugyanígy a szabálysértési hatóság határozatának és a bíróság határozatának eltérő szabályozása sem jelent
+személyek közötti különbségtételt. Ebből következően az Alkotmány 70/A. §-a alapján nem állapítható meg
+alkot mány elle nes mulasztás a miatt, hogy a jogalkotó milyen típusú ügyekben teszi lehetővé a perújítást. Az Sztv.
+vonatkozó szabálya alapján a perújítás kezdeményezésének az a feltétele, hogy az eljárás alá vont személy valamennyi,
+az Sztv.-ben biztosított jogorvoslati lehetőségét kimerítette. A felülvizsgálati eljárás tekintetében felvetettekre is
+vonatkozik, hogy az Alkotmány 70/A. §-ából nem következik, hogy a különböző eljárási tör vényeknek azonosan
+kellene szabályozniuk az eljárási kérdéseket. Az eljárási szabályok közötti különbség és az Alkotmány 70/A. §-a között
+alkotmányossági összefüggés nincs.
+Az Alkotmánybíróság mindezek alapján az indítványt ebben a részében is elutasította.
+2.6. Az Sztv. 90. §-a alapján az Sztv. 111. §-a szerint alkalmazott letiltás az eljárás alá vont személy távollétében is jogerőre
+emelkedhet, és az ellen nem biztosított a jogorvoslat.
+Az Sztv. végrehajtásról rendelkező szabályainak – így az Sztv. 111. §-ának – alkalmazására akkor kerül sor, ha a kiszabott
+büntetés vagy intézkedés jogerőre emelkedett és a határozat végrehajthatóvá vált. Ennek következtében az
+indítványozó által felvetett probléma, hogy ti. a végrehajtás (letiltás) során nem biztosított a kifogás, mint
+a szabálysértési hatóság határozatával szembeni jogorvoslat lehetősége, nem értelmezhető az Sztv. 111. §-ával
+összefüggésben, így az Alkotmánybíróság az indítványt ebben a részében elutasította.
+
+2.7. Az indítványozó alkot mány elle nes mulasztást kért megállapítani azért is, mert a jogalkotó nem írta elő az Sztv.-ben
+a szabálysértési hatóság indokolási kötelezettségét arra az esetre, ha az eljárás alá vont személy bizonyítási indítványát
+elutasítja. Az indítványozó hivatkozott a 21/1997. (III. 26.) AB határozatra, az Alkotmány 7. § (1) bekezdésének
+sérelmére, illetve az Alkotmány 57. § (1) bekezdésére (a tisztességes eljárás követelményére).
+Az Sztv. 87. §-a szabályozza a szabálysértési hatóság határozatát. Eszerint a megállapított tényekre, az ezek alapjául
+szolgáló bizonyítékokra, valamint a büntetés kiszabása, illetve intézkedés alkalmazása során figye lembe vett
+körülményekre a határozat indokolásában ki kell térni. Az alakszerű határozatnak az eljárás során felvetett valamennyi
+kérdést meg kell válaszolnia. [Ez következik az Sztv. 52. § (1) bekezdéséből is, amely a relevancia elvét fogalmazza meg.
+Eszerint a szabálysértési hatóság, illetve bíróság az ügy megítélése szempontjából lényeges körülményeket tisztázni
+köteles.] Mindebből az is következik, hogy a szabálysértési határozat indokolásában utalni kell azokra az indítványokra
+is, amelyeknek a hatóság nem adott helyt az eljárás során. Erre tekintettel az Alkotmánybíróság az indítványt ebben
+a részében is elutasította.
+2.8. Az indítványozó szerint alkot mány elle nes mulasztást eredményez az is, hogy a jogalkotó nem szabályozta a többi
+gépjárművezetőhöz hasonlóan az Sztv.-ben a szabálytalanul parkoló cégautó „távollévő” vezetőjének
+„büntethetőségét”, amennyiben a gépkocsit magáncélra használja. A diszkrimináció tilalmát sérti az, hogy „a
+magánautók vezetői büntethetők, míg az azonos szabálysértést elkövető és magáncélú utazást lebonyolító cégautók
+vezetői eredményesen elkerülhetik a szabálysértési felelősségre vonást”. Ez az indítványozó szerint a magánautók
+vezetőivel szembeni hátrányos megkülönböztetést eredményez.
+A „szabálytalan várakozás” szabálysértési tényállását nem az Sztv. szabályozza, hanem az egyes szabálysértésekről
+ szóló 218/1999. (XII. 28.) Korm. rendelet (a továb biak ban Szkr.) 54. §-a. Így az indítványozó által felvetett
+alkotmányossági probléma az Sztv.-vel kapcsolatban közvetlenül nem vetődik fel. Mivel az Szkr. 54. §-a helyszíni bírság
+alkalmazásának lehetőségéről rendelkezik, így arra az Sztv. 134–137. §-ában foglaltak alkalmazandók. Eszerint
+a szabálysértés tetten ért elkövetőjével szemben alkalmazható a helyszíni bírság, gépjárművel elkövetett
+szabálysértés esetén azonban az elkövető távollétében is alkalmazható úgy, hogy a gépjármű rendszáma szerint
+megállapítható üzemben tartó címére kell a helyszíni bírságról szóló készpénz-átutalási megbízást küldeni. A helyszíni
+bírság meg nem fizetése esetén szabálysértési eljárást kell lefolytatni. Az Sztv. helyszíni bírságról rendelkező szakaszai
+nem csak a „magánautó” vezetőjére vonatkozóan tartalmaznak szabályozást, így az Sztv.-vel összefüggésben nem
+állapítható meg alkot mány elle nes mulasztás abban az összefüggésben, amire az indítványozó hivatkozott.
+2.9. Az indítványozó mulasztás megállapítását is kérte az Sztv.-vel kapcsolatban, mivel a jogalkotó szerinte nem
+szabályozta, hogy miként kényszeríthető ki bírósági úton a szabálysértési hatóság hallgatásának megszüntetése. Az
+indítványozó a mulasztással kapcsolatban nem hivatkozott alkotmányos rendelkezésre, a mulasztást általában vett
+jogalkotási hiányosságként fejtette ki.
+Mulasztás megállapítását kérte az indítványozó a miatt is, mert szerinte az Sztv. nem minden esetben biztosít hatékony
+védelmet a szabálysértési hatóság jogszabálysértő eljárásának bírósági felülvizsgálatára. Az Sztv. 84. §-a ugyanis nem
+rendelkezik arról, hogy „az eljárást megszüntető határozat kifogásolható határozat”. E miatt szerinte nem
+kényszeríthető ki az ilyen eljárásban történt lefoglalás megszüntetése.
+Az indítványozó ezekkel az indítványi kérelmekkel kapcsolatban nem jelölt meg alkotmányos rendelkezést, amelyre
+hivatkozással az alkot mány elle nes mulasztás megállapítását kéri. Az Alkotmánybíróság számos ügyben utalt arra,
+hogy az indítványnak meg kell felelnie az Abtv. 22. § (2) bekezdésében foglalt követelményeknek. Abban pontosan
+meg kell jelölni a támadott rendelkezést, az Alkotmány megfelelő rendelkezését, a kérelem alapjául szolgáló okot (azt,
+hogy az Alkotmány egyes rendelkezéseit a vitatott jogszabály miért és mennyiben sérti). Határozott kérelmet kell
+tartalmaznia a vitatott rendelkezés alkot mány elle nességének megállapítására és megsemmisítésére [összefoglalóan:
+pl. 31/2007. (V. 30.) AB határozat, ABH 2007, 368, 381–382.].
+Az indítványozó az itt megjelölt indítványi kérelmekben csupán a szabályozási hiányra utalt, nem hivatkozott azonban
+az Alkotmány valamely rendelkezésére, e miatt az indítvány érdemben nem bírálható el. Ezért az Alkotmánybíróság
+ezen indítványi kérelmeket az Ügyrend 29. § d) pontja alapján visszautasította.
+3. Az indítványozó a PKKB által az ügyében hozott jogerős végzést is támadta alkotmányjogi panasz elnevezéssel. Az
+Abtv. 48. §-a alapján az alkotmányjogi panasz elő ter jesz tésének feltétele, hogy a panasz előterjesztőjének jogsérelme
+alkot mány elle nes jogszabály alkalmazása folytán következett be, és egyéb jogorvoslati lehetőségeit már kimerítette,
+ille tő leg más jogorvoslati lehetőség nincs számára biztosítva.
+Az indítványozó által benyújtott alkotmányjogi panasz ezeknek a tör vényi feltételeknek nem felel meg, mivel nem az
+ügyében alkalmazott jogszabály alkot mány elle nességét állította, hanem a PKKB ügyében hozott végzésének
+
+tör vényellenességét. Ennek vizsgálatára az Alkotmánybíróságnak nincs hatásköre, így az alkotmányjogi panasz
+elnevezéssel benyújtott indítványi kérelmeket az Ügyrend 29. § b) pontja alapján visszautasította.
+Az Alkotmánybíróság jelen határozatának közzététele az Abtv. 41. §-án alapul.
+Dr. Paczolay Péter s. k.,
+az Alkotmánybíróság elnöke
+Dr. Balogh Elemér s. k.,
+Dr. Bragyova András s. k.,
+alkotmánybíró
+alkotmánybíró
+Dr. Holló András s. k.,
+Dr. Kiss László s. k.,
+alkotmánybíró
+alkotmánybíró
+Dr. Kovács Péter s. k.,
+Dr. Lenkovics Barnabás s. k.,
+alkotmánybíró
+alkotmánybíró
+Dr. Lévay Miklós s. k.,
+Dr. Trócsányi László s. k.,
+előadó alkotmánybíró
+alkotmánybíró
+Alkotmánybírósági ügyszám: 368/B/2000.
