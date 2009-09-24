@@ -1,0 +1,1 @@
+Az Országgyűlés az egy magyar vezetésű afganisztáni tartományi újjáépítési csoport létesítéséről és működésének előkészítéséről szóló 2115/2006. (VI. 29.) Korm. határozat módosításáról szóló kormánydöntésről szóló beszámolót elfogadja.
