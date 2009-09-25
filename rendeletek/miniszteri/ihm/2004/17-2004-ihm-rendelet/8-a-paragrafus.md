@@ -1,0 +1,1 @@
+## 8. § Az egyetemes postai szolgáltató köteles belső számviteli rendszerében minden egyes egyetemes szolgáltatási körbe tartozó fenntartott szolgáltatáshoz, valamint nem fenntartott szolgáltatáshoz kapcsolódó nyilvántartást elkülönülten vezetni oly módon, hogy az egyetemes és nem egyetemes körbe tartozó szolgáltatások egyértelműen azonosíthatóak legyenek.
