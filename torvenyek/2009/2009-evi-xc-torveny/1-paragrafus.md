@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a menekültek vízumkötelezettségének eltörléséről szóló, 1959. április 20-án, Strasbourgban aláírt Európai Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
