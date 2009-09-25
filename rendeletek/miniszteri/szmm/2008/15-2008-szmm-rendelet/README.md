@@ -1,0 +1,9 @@
+# 15/2008. (VIII. 13.) SZMM rendelet
+
+a szociális és munkaügyi miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-15-20-1X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-09-25 | 2008-15-20-1X.2 | 15/2008. (VIII. 13.) SZMM rendelet |
