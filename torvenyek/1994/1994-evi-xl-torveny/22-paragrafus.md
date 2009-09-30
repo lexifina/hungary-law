@@ -1,0 +1,9 @@
+22. § (1) Az akadémiai költségvetési szervek többéves kutatási és egyéb szerződéseket köthetnek, és ezek teljesítése érdekében az Akadémia elnökének előzetes engedélyével a folyó éven túli kötelezettségeket vállalhatnak.
+
+(2) A kutatóhálózatba tartozó szervezetek a megkötött kutatási szerződések alapján – az Alapszabályban rögzített eljárási rend szerint – a bevételek mértékéig módosíthatják a kiadási és bevételi előirányzataik főösszegét.
+
+(3) A kutatóhálózatba tartozó szervezetek a rendelkezésükre bocsátott pénzeszközökkel és saját bevételeikkel önállóan gazdálkodnak; ezek nem vonhatók el tőlük, kivéve a 20. § (2) bekezdésében foglalt esetet. A kutatóhálózatba tartozó szervezetek év végi pénzmaradványának a megkötött szerződések teljesítésével összefüggő része nem tartozik az éves maradványelszámolás körébe. Ezeket a maradványokat a kutatóhálózat szervezeteinek a megkötött szerződésekben foglaltak szerint kell felhasználniuk, és a megbízóval kell a maradvány összegéről elszámolniuk. A költségvetési év végén keletkezett előirányzat-maradványt – a jogosultsági elszámolást követően, az Akadémia rendelkezésétől függően – a következő évben (években) a szervezetek feladataik teljesítésére felhasználhatják.
+
+(4) A kutatóhálózatba tartozó szervezetek vállalkozási tevékenységet is folytathatnak. Ha a tevékenység eredményét közfeladataik ellátására vagy azokat segítő beruházásokra a tárgyévet követő két éven belül felhasználják, ezt az összeget befizetési kötelezettség nem terheli.
+
+(5) A kutatóhálózatba tartozó szervezetek az államháztartáson kívüli bevételeknek a kapcsolódó kiadások teljesítése után fennmaradt részét a Magyar Államkincstárnál külön célelszámolási számlán kezelhetik, s ennek összegét, valamint a maradvány, a vállalkozási tartalék átmenetileg szabad pénzeszközeit – amennyiben nincs lejárt kötelezettségük – a Magyar Államkincstár hálózatában értékesített állampapírba fektethetik.

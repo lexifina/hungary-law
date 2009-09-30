@@ -1,0 +1,1 @@
+4. § Feladatainak ellátása során az Akadémia a vagyonával, a részére jóváhagyott költségvetési támogatással, saját bevételeivel és más forrásaival az e törvénynek az Akadémia gazdálkodásáról és vagyonáról szóló rendelkezéseiben leírtak szerint gazdálkodik.
