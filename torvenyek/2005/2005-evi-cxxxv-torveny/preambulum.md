@@ -1,0 +1,1 @@
+Annak érdekében, hogy a bűncselekményt elszenvedett és emiatt életminőségükben veszélybe került személyek társadalmi, erkölcsi és anyagi sérelmei enyhüljenek – a társadalmi szolidaritás és méltányosság elvei alapján –, az Országgyűlés a következő törvényt alkotja:
