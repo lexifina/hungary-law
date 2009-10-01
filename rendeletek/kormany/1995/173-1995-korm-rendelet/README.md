@@ -1,0 +1,9 @@
+# 173/1995. (XII. 27.) Korm. rendelet
+
+a nemzeti helytállásért elnevezésű pótlék bevezetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-173-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-01 | 1995-173-20-22.31 | 173/1995. (XII. 27.) Korm. rendelet |
