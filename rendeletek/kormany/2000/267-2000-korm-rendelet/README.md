@@ -1,0 +1,9 @@
+# 267/2000. (XII. 26.) Korm. rendelet
+
+az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-267-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-01 | 2000-267-20-22.10 | 267/2000. (XII. 26.) Korm. rendelet |

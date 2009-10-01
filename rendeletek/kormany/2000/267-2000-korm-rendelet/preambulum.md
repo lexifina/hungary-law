@@ -1,0 +1,1 @@
+A Kormány – az 1956-os forradalom és szabadságharc közelgő 45. évfordulójára tekintettel – az 1945 és 1963 között törvénysértő módon elítélt, valamint az 1956-os forradalommal és szabadságharccal összefüggésben elítéltek, továbbá az egyes, személyes szabadságot tartósan korlátozó intézkedések hatálya alatt állt személyek részére járó juttatásról a következőket rendeli el:
