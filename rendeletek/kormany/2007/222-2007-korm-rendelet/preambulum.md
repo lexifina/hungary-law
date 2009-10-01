@@ -1,0 +1,1 @@
+A Kormány az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény (a továbbiakban: Állatvédelmi törvény) 49. §-a (3) bekezdésének e) pontjában foglalt felhatalmazás alapján a következőket rendeli el:
