@@ -1,0 +1,1 @@
+47. § A szolgáltatott és a felhasznált távhő mérésével és elszámolásával, a díjfizetéssel, valamint a szabálytalan vételezéssel kapcsolatos általános szabályokat az önkormányzat a díjalkalmazási feltételekben határozza meg.

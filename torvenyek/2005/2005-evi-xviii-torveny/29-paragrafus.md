@@ -1,0 +1,5 @@
+29. § (1) A használati jog ingatlan-nyilvántartásba történő bejegyzését az engedélyes kérelmezi az ingatlantulajdonossal kötött szerződés vagy jogerős hatósági határozat alapján. A használati jog a mindenkori engedélyest illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A használati jog az azt megállapító hatósági határozat jogerőre emelkedését követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható.
+
+(2) Megszűnik a használati jog, ha az engedélyes a használati joggal terhelt ingatlanon a szolgáltatói hőközpontot a használati jog keletkezésétől számított öt éven belül nem építi meg vagy azt véglegesen eltávolítja. Megszűnik a használati jog a felek megállapodásával is.
+
+(3) A használati jog megszűnése esetén az engedélyes a használati jog megszűnésével egyidejűleg köteles kérni az ingatlan-nyilvántartásból történő törlést. Ennek elmulasztása esetén – az engedélyes költségére – az ingatlan tulajdonosa is kérheti a használati jog törlését. Az ehhez szükséges nyilatkozatot az engedélyes köteles az ingatlantulajdonosnak kiadni, és a törléssel összefüggésben felmerült kiadásait megtéríteni.

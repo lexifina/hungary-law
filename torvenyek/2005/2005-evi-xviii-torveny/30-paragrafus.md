@@ -1,0 +1,1 @@
+30. § Ha a használati joggal terhelt idegen ingatlan tulajdonosa a saját felhasználási helyére vonatkozó közüzemi szerződést felmondja, a használati jog az engedélyest továbbra is megilleti mindaddig, amíg a hőközpontból más felhasználót is ellát. Ebben az esetben a használati jog az érdekeltek megállapodásával szüntethető meg.

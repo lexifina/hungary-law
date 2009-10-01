@@ -1,0 +1,1 @@
+26. § Az ingatlan tulajdonosa kérheti az engedélyestől a távhővezeték és a tartószerkezet eltávolítását, átalakítását vagy áthelyezését, ha annak műszaki feltételei adottak, az üzemeltetésben jelentős hátrányt nem jelentenek és vállalja az azokkal kapcsolatos költségek viselését.

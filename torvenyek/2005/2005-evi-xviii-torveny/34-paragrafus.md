@@ -1,0 +1,7 @@
+34. § (1) A távhőszolgáltató tulajdonát képező szolgáltatói berendezést, valamint a szolgáltató tulajdonában lévő felhasználói berendezést a távhőszolgáltató köteles fenntartani, üzemeltetni, fejleszteni és az ezekkel kapcsolatos költségeket viselni.
+
+(2) Abban az esetben, ha a távhővezeték-hálózat vagy annak egyes részei nem a távhőszolgáltató vagy a felhasználó tulajdonát képezik, a vezeték és részei tulajdonosát az engedélyes távhőszolgáltatóval a szolgáltatói berendezések fenntartására, üzemeltetésére és fejlesztésére a polgári jog szabályai szerinti éves és hosszú távú szerződéskötési kötelezettség terheli.
+
+(3) A (2) bekezdésben foglalt szerződéskötési kötelezettség nem vonatkozik a felhasználó tulajdonában lévő – a távhővezeték-hálózat részét képező – azon vezetékszakaszra, amely a szolgáltatói hőközpontot az ellátott épület felhasználói berendezésével köti össze a csatlakozási pontig bezáróan. E vezetékszakaszt a távhőszolgáltató köteles fenntartani, üzemeltetni, fejleszteni és az ezekkel kapcsolatos költségeket viselni.
+
+(4) Új vagy növekvő távhőigénnyel jelentkező felhasználási hely tulajdonosától a távhőszolgáltató a távhőszolgáltatás díjával nem fedezett fejlesztési költségekre az önkormányzat rendeletében meghatározott mértékű csatlakozási díjat kérhet. A csatlakozási díj magában foglalhatja a 33. § (2) bekezdés alapján fizetett fejlesztési költség teljes vagy részleges fedezetét is.

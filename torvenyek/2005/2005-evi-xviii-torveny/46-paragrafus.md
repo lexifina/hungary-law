@@ -1,0 +1,3 @@
+46. § (1) Az önkormányzat képviselő-testületének rendeletében meghatározott helyen és a távhőszolgáltató költségén felszerelt, elszámolás alapjául szolgáló hiteles mérőeszköz a távhőszolgáltató tulajdona, annak karbantartása, időszakos újrahitelesítése, cseréje a mérésügyről szóló 1991. évi XLV. törvény rendelkezéseivel összhangban, a távhőszolgáltató kötelessége.
+
+(2) A felhasználó kérheti a távhőszolgáltatótól az alkalmazott mérőeszköz hitelességének mérésügyi hatóság általi igazolását, valamint az alkalmazott mérőeszközök megfelelő beépítésének méréstechnikai felülvizsgálatát. Ha a mérőeszköz felülvizsgálata indokolt volt, annak költsége a távhőszolgáltatót terheli, ellenkező esetben a költséget a felhasználó köteles viselni.

@@ -1,0 +1,7 @@
+59. § (1) Az e törvény hatálybalépésekor érvényben lévő távhőtermelői és szolgáltatói működési engedélyek a (2)–(4) bekezdésekben foglalt eseteket kivéve hatályban maradnak.
+
+(2) Azon távhőtermelők és szolgáltatók, amelyek e törvény rendelkezésénél fogva más engedélyező hatósághoz kerülnek, mint akitől érvényes működési engedéllyel rendelkeznek, az illetékes engedélyező hatóságtól e törvény hatálybalépésétől számított 90 napon belül új engedélyt kötelesek kérni. Igazgatási szolgáltatási díj ebben az esetben a kérelmezőt nem terheli. Az engedélyező hatóság jogerős határozatáig a már működő távhőtermelők és távhőszolgáltatók tevékenységüket tovább folytathatják.
+
+(3) Azoknak a távhőszolgáltatói engedélyeseknek, akik a törvény hatálybalépésekor az illetékes önkormányzat jegyzőjétől működési engedéllyel nem rendelkeznek, e törvény hatálybalépésétől számított 90 napon belül az illetékes önkormányzat jegyzőjétől működési engedélyt kell kérniük. Az önkormányzat jegyzője által kiadott működési engedély jogerőre emelkedésének napjával az engedélyesnek más engedélyező által kiadott engedélye érvényét veszti.
+
+(4) A Hivatal engedélyezési hatáskörébe tartozó, de a Hivataltól engedéllyel nem rendelkező távhőtermelőknek e törvény hatálybalépésétől számított 90 napon belül a Hivataltól működési engedélyt kell kérniük. A Hivatal által kiadott működési engedély jogerőre emelkedésének napjával az engedélyesnek más engedélyező által kiadott engedélye érvényét veszti.

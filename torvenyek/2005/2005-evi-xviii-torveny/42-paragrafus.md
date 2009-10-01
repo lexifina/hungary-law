@@ -1,0 +1,1 @@
+42. § A távhőszolgáltatás szünetelése miatt a felhasználói berendezésekben keletkezett károkat, ha a szolgáltatás szünetelésében a felhasználó vétlen, a szolgáltató köteles megtéríteni. Ezen túlmenően a 40. § szerinti szüneteltetésből, illetőleg a 41. § szerinti korlátozásból eredő károkért a távhőszolgáltatót kártalanítási kötelezettség nem terheli.

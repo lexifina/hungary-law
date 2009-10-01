@@ -1,0 +1,3 @@
+11. § (1) A távhőszolgáltató a szükséges adatok és információk rendelkezésre bocsátásával köteles együttműködni az engedélyező hatósággal, valamint a lakossági felhasználókat, illetve a természetes személy díjfizetőket érintő kérdésekben a fogyasztóvédelmi hatósággal és a felhasználói érdek-képviseletekkel.
+
+(2) A távhőszolgáltató köteles az általános szerződési feltételeit – kiemelve a távhőszolgáltatás igénybevételének feltételeit, azok változását, a számlázás rendjét és a szolgáltatás minőségi követelményeit – az ügyfélszolgálatán könnyen hozzáférhető helyen kifüggeszteni, valamint a felhasználó és a díjfizető kívánságára azt ingyenesen rendelkezésre bocsátani.

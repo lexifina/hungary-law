@@ -1,0 +1,1 @@
+17. § Ha a távhő termelésére engedélyt kérő egyúttal távhőszolgáltatásra is kíván működési engedélyt kérni, azt a 16. § előírásainak figyelembevételével, önálló szolgáltatói működési engedélyként kell kérni és kiadni.

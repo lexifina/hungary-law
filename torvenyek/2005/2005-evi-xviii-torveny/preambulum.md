@@ -1,0 +1,1 @@
+Az Országgyűlés a felhasználók biztonságos, megfelelő minőségű és gazdaságos távhőellátása érdekében az objektív, átlátható és hátrányos megkülönböztetéstől mentes szabályozás kialakítása érdekében, a fogyasztóvédelem, az energiahatékonyság, az energiatakarékosság és környezetvédelem követelményeire figyelemmel a következő törvényt alkotja:
