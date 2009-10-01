@@ -1,0 +1,1 @@
+5. § A topográfia szerzőjének személyhez fűződő jogaira, az oltalmi igényre, a szolgálati topográfiára egyebekben a találmányok szabadalmi oltalmáról szóló törvénynek (a továbbiakban: szabadalmi törvény) a feltaláló személyhez fűződő jogaira, a szabadalmi igényre és a szolgálati találmányra vonatkozó szabályait kell megfelelően alkalmazni.
