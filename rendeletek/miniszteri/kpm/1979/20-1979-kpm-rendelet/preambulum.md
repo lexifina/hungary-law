@@ -1,0 +1,1 @@
+Az 1979. évi 19. törvényerejű rendelet 4. §-ának (2) bekezdésében foglalt felhatalmazás alapján - az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben a következőket rendelem:
