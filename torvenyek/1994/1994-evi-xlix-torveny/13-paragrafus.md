@@ -1,0 +1,3 @@
+13. § (1) A közgyűlésen a tagot a társulati érdekeltségéhez igazodó számú szavazat illeti meg. A közgyűlés határozatképes, ha azon az összes szavazatnak több mint a felét képviselő tag megjelent.
+
+(2) Ha a közgyűlés határozatképtelen, a nyolc napon belül azonos napirenddel összehívott újabb közgyűlés határozatképesnek nyilváníthatja magát, ha az összes szavazat egynegyedét képviselő tag jelen van. A megismételt közgyűlés csak az eredeti napirendi javaslatba felvett kérdésekben hozhat határozatot, az alapszabályt azonban akkor sem módosíthatja, ha annak módosítása az eredeti közgyűlés napirendi javaslatában szerepelt.

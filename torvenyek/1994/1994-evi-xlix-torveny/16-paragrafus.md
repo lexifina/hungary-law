@@ -1,0 +1,1 @@
+16. § Az alapszabály lehetővé teheti, hogy a tagok — közgyűlés összehívása nélkül — írásban szavazzanak, ha a döntés ily módon is meghozható. Ebben az esetben az alapszabályban meg kell határozni az írásbeli szavazás eljárási szabályait, valamint azt a módot, ahogyan a tagok a határozatról tájékoztatást kapnak. Az írásbeli szavazásra egyebekben a 14. §-ban foglaltak irányadók.
