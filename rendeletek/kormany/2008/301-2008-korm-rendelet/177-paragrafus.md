@@ -1,0 +1,5 @@
+177. § (1) A hitelkockázatot belső minősítésen alapuló módszer alapján számító befektetési vállalkozás a számításai során a kitettség fedezettel ellátott része esetén a nemteljesítési valószínűség az 50–58. § vonatkozásában a hitelkockázati fedezet nyújtójának a nemteljesítési valószínűsége, vagy a hitelfelvevő és a hitelkockázati fedezetet nyújtó nemteljesítési valószínűség értékei közötti, a befektetési vállalkozás által meghatározott nemteljesítési valószínűség érték, ha megítélése szerint nem biztosítható a teljes helyettesítés. Hátrasorolt kitettség és nem hátrasorolt, előre nem rendelkezésre bocsátott hitelkockázati fedezet esetén az 50–58. § vonatkozásában a nem hátrasorolt fedezetek nemteljesítéskori veszteségrátáját lehet figyelembe venni.
+
+(2) A kitettség fedezettel el nem látott részére vonatkozó nemteljesítési valószínűség a hitelfelvevőhöz rendelt nemteljesítési valószínűség, a nemteljesítéskori veszteségráta pedig a fedezetlen kitettség nemteljesítéskori veszteségráta értéke.
+
+(3) GA: a G* 174. § szerint számított és a 178–180. §-ban meghatározott módon a lejárati eltérés figyelembevételével korrigált értéke.

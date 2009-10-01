@@ -1,0 +1,3 @@
+105. § (1) A befektetési vállalkozásnak olyan rendszerrel és eljárással kell rendelkeznie, amely alkalmas arra, hogy az eladó pénzügyi helyzetében és a vásárolt követelések hitelminőségében bekövetkező minőségromlást korán felismerje, és a felmerülő problémákat megelőző módon kezelje.
+
+(2) A befektetési vállalkozásnak egyértelmű és hatékony belső szabályzatokkal, eljárásokkal és információs rendszerekkel kell rendelkeznie a szerződésszegések felismeréséhez, egyértelmű és hatékony belső szabályzatokkal és eljárásokkal kell rendelkeznie a jogi lépések kezdeményezésére és a problémás vásárolt követelés kezelésére.

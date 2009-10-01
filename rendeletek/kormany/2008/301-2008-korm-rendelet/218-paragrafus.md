@@ -1,0 +1,3 @@
+218. § (1) A 219. §-ra is figyelemmel, az eszközátruházó befektetési vállalkozásnak a kockázattal súlyozott kitettség értéket az értékpapírosítás összes ügyletrész-sorozatára a 16–33. §-ban vagy 223–245. §-ban meghatározott módszer szerint kell kiszámítania, ideértve a hitelkockázat-mérséklés elismerésének feltételeit is.
+
+(2) Ha egy ügyletrész-sorozatot előre nem rendelkezésre bocsátott hitelkockázati fedezet alkalmazásával ruháznak át harmadik félre, akkor az eszközátruházó befektetési vállalkozásnak a kockázattal súlyozott kitettség érték kiszámításakor a harmadik fél kockázati súlyát kell figyelembe vennie az adott ügyletrész-sorozat esetén.

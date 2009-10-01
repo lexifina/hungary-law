@@ -1,0 +1,1 @@
+## ügyletkockázati súllyal kell megszorozni.

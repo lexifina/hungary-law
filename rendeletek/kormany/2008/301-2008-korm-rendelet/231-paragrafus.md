@@ -1,0 +1,3 @@
+231. § (1) A befektetési vállalkozás könyvvizsgálójának, elismert külső hitelminősítő szervezetnek vagy a befektetési vállalkozás belső ellenőrzési vagy kockázatkezelési feladatokat ellátó szervezeti egységének rendszeresen – legalább évente – felül kell vizsgálnia a belső minősítési folyamatokat, és a befektetési vállalkozás ABCP programban lévő pozíciókra vonatkozó hitelminősítéseit.
+
+(2) Ha az (1) bekezdés szerinti felülvizsgálatot a befektetési vállalkozás belső ellenőrzési vagy kockázatkezelési feladatokat ellátó szervezeti egysége végzi, akkor a szervezeti egységnek függetlennek kell lennie az ABCP program üzletágtól, és nem állhat kapcsolatban az ügyféllel.

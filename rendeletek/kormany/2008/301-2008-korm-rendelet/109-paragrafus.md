@@ -1,0 +1,7 @@
+109. § (1) A befektetési vállalkozás egyéb mennyiségi jóváhagyási eszközöket és a meghatározó, külső adatforrásokkal szembeni összehasonlításokat is alkalmaz. Az összehasonlítás a befektetési vállalkozás portfóliójának megfelelő, rendszeresen aktualizált és jelentős megfigyelési időszakot átfogó adatokon alapul. A befektetési vállalkozás minősítési rendszereinek teljesítményére vonatkozó belső értékelés a lehető leghosszabb időszakot veszi figyelembe.
+
+(2) A mennyiségi jóváhagyásra felhasznált módszereknek és adatoknak időben következetesnek kell lennie. A becslésekben, a becslési és jóváhagyási módszerekben és adatokban – ideértve az adatforrásokban és a felhasznált időszak hosszát is – bekövetkező változásokat dokumentálni kell.
+
+(3) A befektetési vállalkozás megbízható belső szabályzatokat alkalmaz olyan helyzetekre, amikor a tényleges nemteljesítési valószínűség, a nemteljesítéskori veszteségráta, a hitelegyenértékesítési tényező és – amennyiben a várható veszteség értéket alkalmazzák – a teljes veszteség esetén az értékek és a becslések közti különbségek elég jelentőssé válnak ahhoz, hogy megkérdőjelezzék a becslések helytállóságát.
+
+(4) A befektetési vállalkozás a (3) bekezdés szerinti eljárások során figyelembe veszi az üzleti ciklusokat és a veszteségjellemzők egyéb szisztematikus változásait. Ha a tényleges értékek továbbra is magasabbak a várható értékeknél, a befektetési vállalkozásnak ennek megfelelően felfelé kell korrigálnia a becsléseket, hogy azok a tényleges nemteljesítési és veszteségi értékeket tükrözzék.

@@ -1,0 +1,11 @@
+## 80. § A hitelbírálati folyamat részeként minden lakossággal szembeni kitettséget kategóriába vagy poolba (halmaz) kell sorolni.
+
+81. § (1) A kitettség kategóriába vagy poolba (halmazba) sorolásához a befektetési vállalkozás dokumentálja
+
+a) a besorolási folyamat bemeneti vagy kimeneti adatainak felülbírálati lehetőségét,
+
+b) a felülbírálat jóváhagyásáért felelős személyeket,
+
+c) a végrehajtott felülbírálatot és a felülbírálatot végző személyeket.
+
+(2) A befektetési vállalkozásnak elemeznie kell a felülbírált besorolású kitettségek teljesítőképességét. Az elemzésnek tartalmaznia kell a felülbírált besorolású kitettségek teljesítőképességének értékelését is, az (1) bekezdés b) pontjában meghatározott személyek szerinti bontásban.
