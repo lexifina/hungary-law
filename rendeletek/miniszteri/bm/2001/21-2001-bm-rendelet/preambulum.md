@@ -1,0 +1,1 @@
+A személy- és tárgykörözésről szóló 2001. évi XVIII. törvény (a továbbiakban: Sztk.tv.) 39. §-ának c) és d) pontjában kapott felhatalmazás alapján – az igazgatási szolgáltatási díj megállapítása és megfizetése tárgyában a pénzügyminiszterrel egyetértésben – a következőket rendelem el:

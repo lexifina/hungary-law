@@ -1,0 +1,1 @@
+## 19. § A díjakból befolyt bevételt az illetékes költségvetési alcímnek a főkönyvi könyvelésében elkülönülten kell nyilvántartania. A díj nyilvántartására és elszámolására a költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló jogszabályok előírásait kell alkalmazni.
