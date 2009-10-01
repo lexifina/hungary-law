@@ -1,0 +1,1 @@
+Annak érdekében, hogy az Európai Unió támogatásából finanszírozott projektek megvalósítása gyorsabb, egyszerűbb és egységesebb eljárási rendben történjék meg a rendelkezésre álló források minél hatékonyabb felhasználásával, az Országgyűlés a következő törvényt alkotja:
