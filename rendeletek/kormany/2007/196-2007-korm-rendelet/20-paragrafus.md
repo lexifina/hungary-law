@@ -1,0 +1,3 @@
+20. § (1) A külső hitelminősítő szervezet akkor tekinthető elismerhetőnek, ha a hitelminősítéseit annak felhasználói hitelesnek és megbízhatónak tekintik. A hitelességet alá kell támasztania a külső hitelminősítő szervezet piaci részesedésének, minősítési tevékenységéből származó bevételeinek, a minősítésén alapuló piaci árképzésnek, valamint hitelminősítését legalább kettő hitelintézetnek használnia kell a kötvénykibocsátása vagy a hitelkockázat meghatározása során (hitelesség és piaci elfogadás követelménye).
+
+(2) Az elismert külső hitelminősítő szervezet hitelminősítésének minden felhasználó számára – akinek jogos érdeke fűződik a hitelminősítés megismeréséhez – azonos feltételekkel rendelkezésre kell állnia (átláthatóság és nyilvánosságra hozatal követelménye).

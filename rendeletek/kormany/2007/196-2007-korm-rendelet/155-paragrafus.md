@@ -1,0 +1,5 @@
+155. § (1) A hitelezési kockázatát belső minősítésen alapuló módszer alapján számító hitelintézet a számításai során a kitettség fedezettel ellátott része esetében a nemteljesítési valószínűség a IX. Fejezet vonatkozásában a hitelkockázati fedezet nyújtójának a nemteljesítési valószínűsége, illetve a hitelfelvevő és a hitelkockázati fedezetet nyújtó nemteljesítési valószínűség értékei közötti, a hitelintézet által meghatározott nemteljesítési valószínűség érték, ha megítélése szerint nem biztosítható a teljes helyettesítés. Hátrasorolt kitettség és nem hátrasorolt, előre nem rendelkezésre bocsátott hitelkockázati fedezet esetében a IX. Fejezet vonatkozásában a nem hátrasorolt fedezetek nemteljesítékori veszteségrátáját lehet figyelembe venni.
+
+(2) A kitettség fedezettel el nem látott részére vonatkozó nemteljesítési valószínűség a hitelfelvevőhöz rendelt nemteljesítési valószínűség, a nemteljesítéskori veszteségráta pedig a fedezetlen kitettség nemteljesítéskori veszteségráta értéke.
+
+(3) GA a G* 153. § szerint számított és a XVII. Fejezetben meghatározott módon a lejárati eltérés figyelembevételével korrigált értéke.

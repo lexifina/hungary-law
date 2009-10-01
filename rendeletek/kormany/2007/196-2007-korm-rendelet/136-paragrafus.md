@@ -1,0 +1,5 @@
+136. § (1) A pénzügyi biztosítékok átfogó módszerének alkalmazása esetén a pénzügyi biztosíték piaci értékét a 138–144. § szerinti volatilitási korrekciós tényezővel kell módosítani annak érdekében, hogy figyelembevételre kerüljön a likvidációs időszakra becsült árfolyamvolatilitás.
+
+(2) A (3) bekezdésben meghatározott, tőzsdén kívüli (OTC) származtatott ügylet esetében a devizanem eltérés kezelésére, ha a fedezeti ügylet és a kitettség devizaneme eltér, akkor a 138–144. § szerinti, a biztosítékra vonatkozó volatilitási korrekciós tényezőt korrigálni kell a deviza árfolyamvolatilitást tükröző korrekciós tényezővel.
+
+(3) A partnerkockázatról szóló külön jogszabály szerinti, elismert, nettósítási megállapodás alá tartozó, tőzsdén kívüli (OTC) származtatott ügylet esetében, ha a fedezeti ügylet devizaneme eltér az alapügylet elszámolási devizanemétől, akkor az adott deviza árfolyamának volatilitását tükröző volatilitási korrekciós tényezőt kell alkalmazni. Ha a nettósítási megállapodás alá tartozó alapügylethez, illetőleg fedezeti ügylethez több devizanem kapcsolódik, akkor is csak egy volatilitási korrekciós tényezőt kell alkalmazni.

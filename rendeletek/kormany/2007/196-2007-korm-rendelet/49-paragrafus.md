@@ -1,0 +1,9 @@
+49. § (1) A hitelintézet – a Felügyelet engedélyével – saját nemteljesítéskori veszteségráta becslést végezhet, ha megfelel a XIII. Fejezetben meghatározott feltételeknek.
+
+(2) A lakossággal szembeni vásárolt követelés felhígulási kockázatára vonatkozó nemteljesítéskori veszteségráta értéke 75%.
+
+(3) Ha a hitelintézet a vásárolt követelés felhígulási kockázatára vonatkozó várható veszteség becsléseit megbízhatóan le tudja bontani nemteljesítési valószínűség és nemteljesítéskori veszteségráta értékre, akkor számításai során alkalmazhatja a nemteljesítéskori veszteségráta becsléseit.
+
+(4) Egyedi kitettség vagy kitettségek pooljára (halmazára) vonatkozó előre nem rendelkezésre bocsátott hitelkockázati fedezet hitelezési kockázat mérséklő hatása – a Felügyelet engedélyével, a Negyedik Részben meghatározott feltételek esetén – elismerhető a nemteljesítési valószínűségre és a nemteljesítéskori veszteségrátára vonatkozó becslés korrekciója során. A hitelintézet nem rendelhet a fedezett kitettséghez olyan korrigált nemteljesítési valószínűséget és nemteljesítéskori veszteségrátát, amely alacsonyabb kockázati súlyt eredményez, mint a hitelkockázati fedezet nyújtójával szembeni, összehasonlításra alkalmas, közvetlen kitettség kockázati súlya.
+
+(5) A (4) bekezdéstől eltérően, a 31. § (3) bekezdésének alkalmazásában a hitelkockázati fedezet nyújtójával szembeni, összehasonlításra alkalmas és közvetlen kitettség nemteljesítéskori veszteségrátája megegyezik a hitelkockázati fedezet nyújtójával vagy az ügyféllel szembeni hitelkockázati fedezettel el nem látott ügylet nemteljesítéskori veszteségrátájával. Ha a hitelkockázati fedezettel ellátott ügylet lejárati ideje alatt a hitelkockázati fedezetet nyújtó és az ügyfél nemteljesítése egyidejűleg következik be, akkor a rendelkezésre álló információ és a hitelkockázati fedezet jellege alapján a behajtott összeg a hitelkockázati fedezet nyújtójának vagy az ügyfélnek a pénzügyi helyzetétől függ.
