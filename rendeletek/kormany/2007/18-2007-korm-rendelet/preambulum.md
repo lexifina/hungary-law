@@ -1,0 +1,1 @@
+A transzeurópai közúthálózatnak a Magyar Köztársaság területén kijelölt szakaszain a biztonság, a szolgáltatások és a kényelem magas, egységes és állandó szintjének garantálása érdekében a Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdése a) pontjának 12. alpontjában kapott felhatalmazás alapján a következőket rendeli el:

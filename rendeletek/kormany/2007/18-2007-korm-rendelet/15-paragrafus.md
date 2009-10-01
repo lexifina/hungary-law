@@ -1,0 +1,1 @@
+## Jelentési kötelezettség
