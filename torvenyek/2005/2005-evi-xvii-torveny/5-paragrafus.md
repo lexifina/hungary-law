@@ -1,0 +1,5 @@
+## II. Fejezet
+
+## A POLGÁRI PERRENDTARTÁSRÓL SZÓLÓ 1952. ÉVI III. TÖRVÉNY MÓDOSÍTÁSA
+
+5–18. §
