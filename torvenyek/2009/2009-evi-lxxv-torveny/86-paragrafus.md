@@ -1,0 +1,3 @@
+86. § A Pp. 85. § a következő (6) bekezdéssel egészül ki:
+
+„(6) Ha az (5) bekezdésben megjelölt személy költségmentesség iránti kérelmét az Európai Tanácsnak a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló 2003/8/EK irányelve 16. cikke szerinti nyomtatványon, az irányelv szerinti módon terjesztette elő és a kérelem kiterjed pártfogó ügyvédi képviselet biztosítására is, a bíróság a kérelmet másolatban továbbítja a külön jogszabály szerinti jogi segítségnyújtó szolgálathoz, mellékelve a költségmentességi kérelmet elbíráló jogerős határozatának egy kiadmányát.”
