@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva, valamint az elektronikus hírközlésről szóló 2003. évi C. törvény 182. §-a (2) bekezdésének g) pontjában kapott felhatalmazás alapján a következőket rendeli el:
