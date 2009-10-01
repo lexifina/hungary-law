@@ -1,0 +1,53 @@
+## ………………………… ÖNKORMÁNYZAT JEGYZŐJE
+
+## Szám:…………………… Tárgy: Hadieredetű fogyatkozás
+
+## vizsgálata
+
+## Hiv. sz.:
+
+## Mell.:
+
+## A Szakértői Intézet ....................... fokú szakértői bizottságának
+
+## ..............................................................
+
+## A hadigondozásról szóló 1994. évi XLV. törvény 3. § (3) bek. alapján kérem ............................................ nevű személy vizsgálatát.
+
+## Szül. ideje:.............................
+
+## Személyi igazolvány száma:...............
+
+## Anyja leánykori neve:.........................
+
+## Lakóhelye:....................................
+
+## Hadieredetű fogyatkozás miatti munkaképesség-csökkenés legutóbb megállapított mértéke: ............................... %
+
+## Hadieredetű fogyatkozása:...............................
+
+## ........................................................
+
+## ........................................................
+
+## Kérem a szakvélemény közlését arról, hogy nevezett
+
+## a) jelenlegi hadieredetű fogyatkozása miatti egészségkárosodás milyen mértékű?
+
+## b) mások rendszeres ápolására szorul-e?
+
+## c) utazásnál kísérőre szorul-e?
+
+## d) gyógyászati segédeszköz használatára szorul-e, ha igen, milyenre?
+
+## Kelt:.........................
+
+## P. H.
+
+## ……………………………
+
+## jegyző aláírása
+
+3. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^42]
+
+[^42]: Az R. 3. számú melléklete a 213/2007. (VIII. 7.) Korm. rendelet 18. § c) pontjának cg)–ch) alpontja, az 58/2008. (III. 26.) Korm. rendelet 5. § (4) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 58. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
