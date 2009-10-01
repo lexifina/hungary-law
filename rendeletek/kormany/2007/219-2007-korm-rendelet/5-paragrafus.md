@@ -1,0 +1,1 @@
+## Műholdas helymeghatározás

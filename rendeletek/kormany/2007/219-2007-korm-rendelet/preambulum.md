@@ -1,0 +1,1 @@
+A Kormány a víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 88. §-a (1) bekezdésének a) és j) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-ának b) pontjában megállapított feladatkörében eljárva, a következőket rendeli el:
