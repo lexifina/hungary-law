@@ -1,0 +1,1 @@
+A biztonsági okmányok hatékony védelmének megteremtése érdekében a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. §-a (1) bekezdésének b) pontjában kapott felhatalmazás alapján, a törvény 8. §-a (1) bekezdésének d) pontjára figyelemmel, a Kormány a következőket rendeli el:
