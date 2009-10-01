@@ -1,0 +1,1 @@
+A polgári eljárásra vonatkozóan az 1954. évi március hó 1. napján, Hágában kelt nemzetközi egyezmény (a továbbiakban: Egyezmény) kihirdetéséről szóló 1966. évi 8. törvényerejű rendelet 3. §-ában kapott felhatalmazás alapján – a pénzügyminiszterrel és a művelődési és közoktatási miniszterrel egyetértésben – a következőket rendelem:

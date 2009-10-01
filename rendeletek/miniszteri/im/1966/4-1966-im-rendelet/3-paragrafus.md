@@ -1,0 +1,3 @@
+3. § (1) A külföldön kézbesíteni kért iratokat fordítással ellátni általában nem kell; ha azonban a bíróság az Egyezmény 3. cikkében meghatározott módon (kényszer vagy különleges eljárás útján) való kézbesítést kér, hiteles fordítást kell csatolni. A fordítást a félnek -a költségmentesség esetét kivéve – az Országos Fordító és Fordításhitelesítő Irodával kell elkészíttetnie.
+
+(2) A külföldről érkezett jogsegély iránti kérelmek lefordításáról a jogsegély teljesítésére illetékes magyar bíróság gondoskodik. Nem kell fordítást készíttetni, ha az idegen nyelvű iratot a bíróság valamelyik dolgozója megérti. A fordítás költségei az államot terhelik.
