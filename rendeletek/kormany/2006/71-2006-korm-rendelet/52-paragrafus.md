@@ -1,0 +1,5 @@
+52. § (1)[^38] A honvédelmi miniszter a HM Védelmi Hivatal közreműködésével a honvédelmi irányítás jogkörében, a katasztrófák elleni védekezésért felelős miniszter az általa kijelölt védelmi igazgatási feladatokat ellátó szervezeti egység közreműködésével a katasztrófavédelmi irányítás jogkörében felügyeletet gyakorol a centrális alárendeltségű közigazgatási szervek, a megyei és a fővárosi védelmi bizottság felett. A honvédelmi miniszter vagy a katasztrófák elleni védekezésért felelős miniszter megváltoztatja, illetőleg megsemmisíti a jogszabálysértő határozatot.
+
+(2) A helyi védelmi bizottságok felett a felügyeletet a megyei, fővárosi védelmi bizottság gyakorolja.
+
+[^38]: Az 52. § (1) bekezdése a 344/2006. (XII. 23.) Korm. rendelet 4. §-ával megállapított, a 182/2009. (IX. 10.) Korm. rendelet 458. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

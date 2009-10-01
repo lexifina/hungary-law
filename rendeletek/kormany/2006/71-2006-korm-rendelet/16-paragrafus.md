@@ -1,0 +1,5 @@
+16. § (1) Ha a 15. § (6) bekezdésében rendszeres adatszolgáltatásra kötelezett a kijelölt ingatlant, szolgáltatást időközben elidegenítette, vagy azzal más ok miatt már nem rendelkezik, erről 8 napon belül az ingatlan fekvése, szolgáltatás esetén a szolgáltatásra kötelezett székhelye (telephelye, fióktelepe) szerint illetékes hadkiegészítő parancsnokságot az erről szóló okiratok másolatának megküldésével együtt értesíti.
+
+(2) Az igénybevevő tájékoztatja az igénybevételre kijelölt ingatlan fekvése, szolgáltatás esetén a szolgáltatásra kötelezett székhelye (telephelye, fióktelepe) szerint illetékes hadkiegészítő parancsnokságot, ha a honvédelmi feladatainak ellátása érdekében a részére kijelölt ingatlan, szolgáltatás igénybevételére a továbbiakban nincs szükség.
+
+(3) A megyei, fővárosi védelmi bizottság – a hadkiegészítő parancsnokság javaslatára – a rendszeres adatszolgáltatásra kötelezett értesítése, illetve az igénybevevő tájékoztatása alapján megszünteti az ingatlan, szolgáltatás igénybevételi célú kijelölését, és erről tájékoztatja mindazokat, akiket a kijelölésről tájékoztatott.
