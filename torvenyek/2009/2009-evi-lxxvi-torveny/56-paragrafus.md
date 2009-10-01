@@ -1,0 +1,5 @@
+56. § (1) Ha 2009. október 1-jétől az adott szolgáltatási tevékenységre az adott szolgáltatási tevékenység megkezdésére vagy folytatására való jogosultságot szabályozó jogszabály bejelentési kötelezettséget ír elő, az adott szolgáltatási tevékenység folytatására engedéllyel rendelkező szolgáltatót e tevékenység vonatkozásában úgy kell tekinteni, mint aki a bejelentési kötelezettségének eleget tett.
+
+(2) A szolgáltatás felügyeletét ellátó hatóság 2009. október 1-ig hivatalból az e törvény szerinti nyilvántartásba veszi azt a szolgáltatót, aki 2009. október 1-jén az adott szolgáltatási tevékenység megkezdésére vagy folytatására engedéllyel rendelkezik és az adott szolgáltatási tevékenységet jogszerűen folytatja.
+
+(3) A szolgáltatás felügyeletét ellátó hatóság 2009. október 1-ig hivatalból felveszi az e törvény 29. § szerinti nyilvántartásba azt a szolgáltatót, amely 2009. október 1-jén vagy azt követően végrehajtható hatósági határozat alapján az adott szolgáltatási tevékenység folytatására vonatkozó tilalom hatálya alatt áll.

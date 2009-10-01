@@ -1,0 +1,3 @@
+30. § (1) A 26. §, a 27. §, valamint a 29. § szerinti nyilvántartás a szolgáltatási tevékenység folytatásának hatósági ellenőrzését és a szolgáltatás igénybe vevőinek tájékoztatását szolgálja.
+
+(2) A szolgáltatás felügyeletét ellátó hatóság a szolgáltatókról általa vezetett nyilvántartás alapján a Kormány rendeletében meghatározottak szerint az interneten, bárki számára ingyenesen és korlátozásmentesen hozzáférhető módon, naprakészen közzéteszi a 26. § (2) bekezdés a)–c) pontjában, a 27. § (2) bekezdésében, valamint a 29. § a)–d) pontjában meghatározott adatokat. Ezek az adatok közérdekből nyilvánosak.

@@ -1,0 +1,3 @@
+## A Magyar Köztársaságban letelepedett, más EGT-államban határon átnyúló szolgáltatásnyújtást folytató szolgáltató ellenőrzése
+
+20. § A Magyar Köztársaság területén letelepedett szolgáltató szolgáltatási tevékenységének ellenőrzése során a szolgáltató valamely más EGT-állam területén folytatott szolgáltatási tevékenységét és a szolgáltatási tevékenységének valamely másik EGT-államban adott esetben bekövetkező hátrányos következményét is figyelembe kell venni, ha a szolgáltatóra alkalmazandó jogszabályi rendelkezések és hatósági döntések megsértése a szolgáltató ilyen tevékenységére hatással lehet vagy az ilyen következményekkel összefügghet.

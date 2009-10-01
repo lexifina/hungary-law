@@ -1,0 +1,5 @@
+## Kétszeres vizsgálat tilalma az engedélyezés során
+
+15. § (1) Ha a valamely más EGT-államban letelepedett szolgáltatónak a letelepedésének helye szerinti EGT-államban a szolgáltatási tevékenység megkezdéséhez vagy folytatásához meg kellett felelnie az adott szolgáltatási tevékenység megkezdésére vagy folytatására vonatkozóan jogszabályban előírt valamely követelménnyel megegyező vagy célját tekintve egyenértékű követelménynek, az adott szolgáltatási tevékenység megkezdéséhez vagy folytatásához szükséges engedélyezési eljárásban az érintett követelmény teljesítését vélelmezni kell.
+
+(2) Ha a hatóságnak nincs hivatalos tudomása az (1) bekezdés szerinti más EGT-állam joga szerinti követelmény tartalmáról, és az érintett szolgáltató a követelmények tartalmát és azok teljesítését nem igazolja, megkeresi az érintett EGT-állam illetékes hatóságát vagy, ha az célszerűbb, a 32. § szerinti központi kapcsolattartót, hogy szolgáltasson adatot az adott EGT-államban alkalmazandó követelményekről és azok ellenőrzéséről.

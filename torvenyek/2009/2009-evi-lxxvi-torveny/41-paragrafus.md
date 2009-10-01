@@ -1,0 +1,3 @@
+41. § (1) Ha jogszabály meghatározott hatósági eljárásban meghatározza a személyes adatok kezelésének leghosszabb idejét, és az hat hónapnál rövidebb, a hatóság az adatoknak Belső Piaci Információs Rendszerből határidőben való törlése érdekében már a megkeresésében vagy a megkeresésre adott válaszában köteles jelezni az adatok törlésének kötelező határidejét.
+
+(2) Ha – az (1) bekezdés szerinti eseten kívül – az e fejezet szerinti eljárásban a személyes adatok kezelését hat hónapnál rövidebb határidőn belül meg kell szüntetni, és az adatokat törölni kell, a hatóság megkeresi az Európai Bizottságot, és kéri az adatoknak a Belső Piaci Információs Rendszerből való törlését.

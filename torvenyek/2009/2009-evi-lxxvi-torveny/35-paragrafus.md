@@ -1,0 +1,5 @@
+35. § (1) A szolgáltató az általa nyújtott szolgáltatással összefüggésben az igénybe vevő által közölt panaszt köteles haladéktalanul megvizsgálni és szükség szerint orvosolni, vagy ha a panasszal nem ért egyet, erről a panaszost tájékoztatni. Ha a panasz kivizsgálása nyomban nem lehetséges, erről a tényről, és a panaszra való válaszadás várható időpontjáról kell az igénybe vevőt haladéktalanul tájékoztatni.
+
+(2) A panaszt a szolgáltató – ha törvény vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa eltérően nem rendelkezik – legkésőbb harminc napon belül köteles írásban megválaszolni, kivéve, ha a szóbeli panaszt nyomban orvosolja.
+
+(3) A panasz elutasítása esetén a szolgáltató köteles az igénybe vevőt írásban tájékoztatni ennek indokairól és arról, hogy panaszával – annak jellege szerint – mely hatóságnál kezdeményezhet eljárást, továbbá milyen egyéb nem hatósági vagy bírósági vitarendezési módokat vehet igénybe, az ilyen eljárás megindításához vagy vitarendezési mód igénybevételéhez szükséges információkkal együtt.

@@ -1,0 +1,3 @@
+## Központi kapcsolattartó
+
+32. § Az e fejezetben, így különösen a 15. §-ban foglalt rendelkezések végrehajtásának segítése érdekében a Kormány rendeletében kijelölt központi kapcsolattartó hatóság (a továbbiakban: központi kapcsolattartó) megkeresés alapján tájékoztatást nyújt az eljáró hatóságok és bíróságok részére a más EGT-államokban az adott szolgáltatási tevékenységre alkalmazandó követelmények tartalmáról, adott esetben az azzal összefüggő jogalkalmazási gyakorlatról, valamint a más EGT-államok központi kapcsolattartói és egyéb illetékes hatóságai részére az adott szolgáltatási tevékenységre alkalmazandó hazai jogszabályokról és – a szükséges mértékben – az azokkal összefüggő jogalkalmazási gyakorlatról.

@@ -1,0 +1,1 @@
+5. § Ha jogszabály külföldi szolgáltatóra vonatkozóan valamely, a szolgáltatási tevékenység megkezdésével vagy folytatásával összefüggő követelmény tekintetében a szolgáltató honossága szerinti állammal való viszonosság feltételét írja elő, a valamely EGT-államban honos szolgáltató vonatkozásában a viszonossági feltétel nem alkalmazható.

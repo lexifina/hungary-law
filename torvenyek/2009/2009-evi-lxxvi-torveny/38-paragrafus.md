@@ -1,0 +1,3 @@
+38. § (1) A szolgáltató – a hatóság felhívására – a 34. § szerinti tájékoztatásnak az igénybe vevővel az ott előírt módon való közlését és a tájékoztatásban foglalt tényállítás valóságát igazolni köteles. Ha a szolgáltató nem tesz eleget ennek a kötelezettségnek, úgy kell tekinteni, hogy a tájékoztatást nem bocsátotta az igénybe vevő rendelkezésére, vagy hogy a közlés nem felelt meg a valóságnak. Erre a szolgáltatót a hatóság felhívásában figyelmeztetni kell.
+
+(2) A bíróság előtti eljárásban a 34. § szerinti tájékoztatás az igénybe vevővel az ott előírt módon való közlésének, és a közölt tényállítás valóságának bizonyítása a szolgáltatót terheli.
