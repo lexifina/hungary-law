@@ -1,0 +1,1 @@
+Annak érdekében, hogy a földrendező bizottságok működése a jelentkező igényekhez igazodjon, valamint, hogy a részarány-földtulajdonosok az őket megillető földterületeket természetben megkaphassák, illetőleg a termőföldek folyamatos mezőgazdasági hasznosítása biztosítva legyen, az Országgyűlés a következő törvényt alkotja:

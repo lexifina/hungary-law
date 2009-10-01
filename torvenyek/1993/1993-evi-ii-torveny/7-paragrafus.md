@@ -1,0 +1,13 @@
+7. § (1) Ha a részarány-földtulajdonos az 5. § (1) bekezdés szerinti kérelmében megjelölte, hogy az elkülönített földalapon belül melyik földrészletből kéri földjének kiadását, és a kérelem a 6. §-ban foglaltak figyelembevételével teljesíthető, a földkiadó bizottság a részarány-földtulajdonos által megjelölt földrészletet jelöli ki a földkiadás helyéül. Ha a földrészlet valamennyi kérelem teljesítésére nem elegendő, a földkiadó bizottság az érintett részarány-földtulajdonosok között egyezség létrehozását kísérli meg. Ha egyezség nem jön létre, a kielégíthető kérelmekről nyilvános sorsolással dönt és erről jegyzőkönyvet készít.
+
+(2) Az (1) bekezdés szerint ki nem elégíthető igényekre vonatkozóan a földkiadó bizottság az érintettek közötti egyezség alapján, egyezség hiányában pedig sorsolással állapítja meg, hogy melyik földrészletből teljesíthető a földkiadási kérelem, és erről jegyzőkönyvet készít.
+
+(3)
+
+(4) Az (1)—(2) bekezdések szerinti földrészlet a teljesíthető földkiadási kérelmet benyújtó részarány-földtulajdonosok, illetőleg az egyezséggel vagy a sorsolással megállapított tulajdonosok közös tulajdonába kerül. A földrészlet közös tulajdonba és birtokba adásáról a földkiadó bizottság ingatlan-nyilvántartási bejegyzésre alkalmas határozatot hoz. Ha abból a célból, hogy az állattartó telep a hozzá legközelebb eső földön biztosíthassa a takarmány- ellátását, a részarány-földtulajdonos vállalja, hogy a kiadásra kerülő földjét az állattartó telep tulajdonosának eladja, vagy üzemeltetőjének legalább öt év időtartamra haszonbérbe adja és az erre vonatkozó előszerződést bemutatja, számára a részarány-földtulajdonát az előszerződésben megjelölt földből kell kiadni. A végleges szerződést a föld kiadásától számított 30 napon belül be kell mutatni. Ennek elmulasztása esetén a földkiadási eljárást újra le kell folytatni.
+
+(5) A közös tulajdon természetbeni megosztással történő megszüntetése során az új földrészletet — eltérő megállapodás hiányában — a megosztás előtti eredeti földrészlet szélén kell kialakítani, és a gazdasági év végével kell birtokba adni.
+
+(6) A részarány-földtulajdonos kérelmére a földkiadó bizottság a tulajdonosnak többféle jogcímen járó és különböző földalapokban meghatározott részarány-földtulajdonait összeszámítja, és az így összevont részarány fedezetéül szolgáló földalapokból kijelölt földrészletre lefolytatja az (1)—(4) bekezdés szerinti földkiadási eljárást.
+
+(7) A földkiadó bizottságnak az (1)—(4) bekezdésben foglaltak alkalmazása során úgy kell eljárnia, hogy a ki nem adott földterületek (táblarészek) gazdaságosan megművelhetők maradjanak.

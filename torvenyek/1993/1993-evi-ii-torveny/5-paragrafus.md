@@ -1,0 +1,9 @@
+## A részarány-földtulajdonnak megfelelő föld kiadása
+
+5. § (1) A földkiadási eljárás a részarány-földtulajdonos kérelmére indul. A földkiadási kérelmet a részarány-földtulajdonos e törvény hatálybalépését követő 60 napon belül nyújthatja be a földjét használó szövetkezet gazdálkodási területén működő földkiadó bizottságnál.
+
+(2) A földkiadási kérelmet írásban kell benyújtani. A kérelemnek tartalmaznia kell a tulajdonos személyi adatait (név, leánykori név, névváltozást megelőző név, születési hely, idő, anyja neve) és lakcímét.
+
+(3) A tulajdonos a kérelemben megjelölheti, hogy a szövetkezet gazdálkodási területén melyik településen és a településen belül a magánszemélyek részarány-földtulajdonának kielégítésére elkülönített földalapok közül melyikből és melyik földrészlet terhére kéri földkiadási kérelme teljesítését. Arra az esetre, ha a kérelem a megjelölt település területén nem lenne teljesíthető, a tulajdonos megjelölheti, hogy a földkiadó bizottság a szövetkezet gazdálkodási területén lévő településeket milyen sorrendben vegye figyelembe kérelmének átsorolásakor. Ha a tulajdonos a részére kiadásra kerülő föld önálló ingatlanná alakítását is kéri, nyilatkoznia kell arról, hogy vállalja annak költségeit.
+
+(4) A kérelemhez csatolni kell a szövetkezet (jogutódja, illetőleg a felszámoló) igazolását arról, hogy a részarány-földtulajdonost milyen jogcímen, hány AK értékű föld illeti meg. A kért adatokat a szövetkezet köteles a részarány-földtulajdonos rendelkezésére bocsátani. Beviteli kötelezettség alapján keletkezett részarány-földtulajdon esetén az igazolást az ingatlanügyi hatóság adja ki, amelynek tartalmaznia kell a szövetkezet használatába adott földek település, fekvés és művelési ág szerint összesített területét, valamint ezek AK értékét. Ha a beviteli kötelezettség alapján a tulajdonos részarány-földtulajdona több településen keletkezett, az igazolást településenként részletezve kell kiállítani.
