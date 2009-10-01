@@ -1,0 +1,3 @@
+7/A. § (1) Ha az 1. §-ban megjelölt és a 3. vagy 4. §-ban foglalt szervezet tulajdonába adott ingatlant az 5. § (1) bekezdésének b) pontjában meghatározott időtartam alatt végrehajtás alá vonták, a végrehajtás során történő értékesítéssel az szerezheti meg az ingatlan tulajdonjogát, aki vállalja, hogy az ingatlant annak a 3. vagy 4. § szerinti megszerzésétől számított 15 év elteltéig sportcélra, illetve sportlétesítményként használja vagy hasznosítja.
+
+(2) Az ingatlan megszerzéséhez az (1) bekezdésben előírt feltétel vállalását az árverés vagy az árverésen kívüli eladás előtt, illetve a nyilvános pályázatra benyújtott ajánlatban az MNV Zrt.-vel kötött előzetes megállapodással kell igazolni.
