@@ -1,0 +1,3 @@
+## Telematikai alkalmazásokra vonatkozó
+
+## szabályok
