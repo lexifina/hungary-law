@@ -1,0 +1,1 @@
+A vízgazdálkodásról szóló 1995. évi LVII. törvény 45. §-a (7) bekezdésének b) és k) pontjaiban, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § a) pontjában foglalt felhatalmazás alapján – az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva – a Kormány a következőket rendeli el:
