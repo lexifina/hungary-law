@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva, a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 67. § (1) bekezdésében foglalt felhatalmazás alapján a következő rendeletet alkotja:
