@@ -1,0 +1,1 @@
+## A feladatok megoszlása
