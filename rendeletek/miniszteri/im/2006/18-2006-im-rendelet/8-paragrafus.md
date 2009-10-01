@@ -1,0 +1,1 @@
+## 7. § A szerző írásban megadott hozzájárulása esetén a Magyar Szabadalmi Hivatal a 2. § (1) bekezdésében említett formanyomtatványon megadott adatokat nyilvánosságra hozhatja, és az adatokból a nyilvánosság tájékoztatásának céljaira adatbázist szerkeszthet.
