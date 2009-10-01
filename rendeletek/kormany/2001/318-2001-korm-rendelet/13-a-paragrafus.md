@@ -1,0 +1,8 @@
+13/A. §[^25] (1)[^26] Ha az igazolványhoz pótfüzet is kapcsolódik, akkor a 13. § (1) bekezdése szerinti okból érvénytelenné vált igazolványhoz tartozó pótfüzet is érvényét veszti. Az igazolvány pótlását követően az új igazolvány melléklete szolgál a kedvezmények igénybevételére jogosító igazolások bejegyzésére. Amennyiben a pótfüzet a jogosult birtokában van, azt a Kormány általános hatáskörű területi államigazgatási szerve, illetve a kézbesítésben közreműködő diplomáciai és konzuli képviselet bevonja, mellyel egyidejűleg a bevont pótfüzetben feltüntetett, a tárgyévre vonatkozó igazolásokat és bejegyzéseket az új igazolványba átvezeti, és ezt az eljáró személy aláírásával és bélyegzőlenyomatával hitelesíti.
+
+(2) Amennyiben csak a pótfüzet került ki a tulajdonosának birtokából, illetőleg vált használatra alkalmatlanná, a diplomáciai és konzuli képviselet a 10/A. § (2) és (3) bekezdésében meghatározott eljárás szerint új pótfüzetet ad ki, mellyel egyidejűleg az előző sorszámú pótfüzet érvénytelenségének tényét a nyilvántartásba bejegyzi.
+
+(3) A pótfüzet (2) bekezdés szerinti kiadása esetén a kedvezmények és támogatások igénybevételére jogosító igazolások és bejegyzések pótlására a 12. § a)–c) pontjaiban meghatározott szervek jogosultak. Az évi meghatározott számban felhasználható kedvezmények igénybevételére jogosító bejegyzések és igazolások a tárgyév vonatkozásában ismételten nem biztosíthatóak.
+
+[^25]: A 13/A. §-t a 130/2007. (VI. 12.) Korm. rendelet 8. §-a iktatta be.
+[^26]: A 13/A. § (1) bekezdés harmadik mondata a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 37. pontja szerint módosított szöveg.
