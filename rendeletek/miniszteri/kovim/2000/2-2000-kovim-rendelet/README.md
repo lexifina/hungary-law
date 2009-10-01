@@ -1,0 +1,9 @@
+# 2/2000. (VII. 26.) KöViM rendelet
+
+a kedvtelési célú vízijárművek tervezéséről, építéséről és megfelelőségének tanúsításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-2-20-93
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-01 | 2000-2-20-93.9 | 2/2000. (VII. 26.) KöViM rendelet |
