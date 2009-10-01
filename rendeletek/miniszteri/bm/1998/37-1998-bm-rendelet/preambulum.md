@@ -1,0 +1,1 @@
+A külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Utv.) 41. §-ának (2) bekezdésében kapott felhatalmazás alapján – a 2–4. § és a 9–10. § tekintetében a külügyminiszterrel egyetértésben – az alábbiakat rendelem el:
