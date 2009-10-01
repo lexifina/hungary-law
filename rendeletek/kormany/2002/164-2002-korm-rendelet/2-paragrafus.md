@@ -1,0 +1,3 @@
+## 1. §[^1] E rendelet hatálya kiterjed az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja, valamint az Észak-atlanti Szerződés Szervezete által finanszírozott egyéb programok (a továbbiakban együtt: NSIP) keretében kiírásra kerülő pályázatokon (a továbbiakban: beszerzési eljárásokban) részt venni kívánó magyarországi székhelyű, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában felsorolt szervezetekre, továbbá a felsőoktatási intézményekre és a kutatóintézetekre (a továbbiakban együtt: gazdálkodó szervezetek), valamint az értékelési eljárásban résztvevőkre.
+
+[^1]: Az 1. § a 117/2007. (V. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
