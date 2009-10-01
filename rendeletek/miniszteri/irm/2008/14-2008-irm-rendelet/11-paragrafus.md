@@ -1,0 +1,1 @@
+## 10. § A tanú költségtérítését a törvényes magyar fizetőeszközben kell teljesíteni. A külföldi pénznemben felmerülő költségek esetén az átváltásnál a költségek felmerülésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyam alapján a feltüntetett középárfolyamot kell figyelembe venni.
