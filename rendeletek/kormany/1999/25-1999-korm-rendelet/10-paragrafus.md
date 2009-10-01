@@ -1,0 +1,5 @@
+10. § (1) Nemzetközi légi személyszállítás esetén az utas köteles a szállítást megelőzően utasbiztonsági ellenőrzésnek alávetnie magát, és a szállítás során érintett államok által a határátlépéshez megkövetelt okmányait a légitársaság alkalmazottjának – felhívásra – bemutatni. Ha az utas az ellenőrzést megtagadja, annak nem veti alá magát, az okmányokkal nem rendelkezik vagy az okmányok szabálytalanok, a légitársaság a szerződés teljesítésének megkezdését, illetve folytatását az okmányok bemutatásáig megtagadhatja.
+
+(2) A légitársaság nem felel az utassal szemben azokért a károkért, amelyek abból keletkeztek, hogy az utas nem rendelkezett a szállítás során érintett államok által megkövetelt okmányokkal vagy azok nem voltak szabályosak.
+
+(3) Nemzetközi légi személyszállítás esetén az utas köteles a visszaszállítás és tartás költségeit megtéríteni a légitársaságnak, valamint azokat a károkat, amelyek abból keletkeztek, hogy a szükséges okmányok hiánya, szabálytalansága vagy a be- és kiutazásra vonatkozó rendelkezések megsértése miatt utas szállításának teljesítéséhez a szállítás során érintett állam hatóságai nem járultak hozzá.
