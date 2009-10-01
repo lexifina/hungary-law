@@ -1,0 +1,1 @@
+## 64. § A lőfegyverhasználati jog azt a rendőrt illeti meg, akinek igazolványában a „fegyverviselésre és intézkedésre jogosult” felhatalmazás fel van tüntetve. A lőfegyverhasználati jog gyakorlása független attól, hogy a rendőr egyenruhát vagy polgári öltözetet visel, szolgálatban van vagy azon kívül, és rendelkezik-e szolgálati lőfegyverrel.
