@@ -1,0 +1,1 @@
+A Kormány a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés a) pontjában, valamint az egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről szóló 2007. évi LXXXII. törvény 6. § (2) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli:
