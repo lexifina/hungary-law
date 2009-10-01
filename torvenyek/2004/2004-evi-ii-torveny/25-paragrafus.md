@@ -1,0 +1,3 @@
+25. § (1) A mozgóképszakmai hatóság a művészi értékű vagy kulturális jelentőségük miatt támogatásra érdemes filmalkotásoknak, terjesztésük elősegítése céljából a filmalkotás előállítójának vagy terjesztőjének kérelmére ,,art'' minősítést adhat.
+
+(2) A mozgóképszakmai hatóság bármely mozinak, amelynek üzemeltetője a külön jogszabályban meghatározott feltételek betartását vállalja, az üzemeltető kérelmére ,,art'' minősítést ad. ,,Art'' minősítés, több termes mozi esetén, a mozi valamely termének is adható, amennyiben a moziüzemeltető az ,,art'' mozikra vonatkozó feltételek betartását az adott terem tekintetében vállalja.
