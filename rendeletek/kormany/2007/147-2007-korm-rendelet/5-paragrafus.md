@@ -1,0 +1,13 @@
+## 4. § A természetes személy ügyfél, illetve képviselő az iparjogvédelmi beadványt elektronikus úton az ügyfélkapun keresztül történő bejelentkezést követően is benyújthatja a Magyar Szabadalmi Hivatal elektronikus ügyintézési rendszerén keresztül.
+
+## Az elektronikus úton benyújtott iparjogvédelmi beadvány kellékei
+
+5. § (1) Az e rendeletben meghatározott eltérésekkel az elektronikus úton benyújtott iparjogvédelmi beadványnak tartalmaznia kell az egyes iparjogvédelmi beadványokra megállapított részletes alaki szabályokról szóló külön jogszabályokban meghatározott kellékeket, és annak ki kell elégítenie az egyes iparjogvédelmi beadványokkal szemben az említett külön jogszabályokban támasztott követelményeket.
+
+(2) Ha az (1) bekezdésben említett külön jogszabály megköveteli, hogy az ügyfél, illetve a képviselő az iparjogvédelmi beadványt aláírja, e külön jogszabályt a következő eltérésekkel kell alkalmazni:
+
+a) ha az ügyfél vagy képviselője elektronikus aláírással rendelkezik, az elektronikus űrlapot az ügyfél, illetve az ügyfelek mindegyike vagy a képviselő a 3. § szerinti elektronikus aláírással látja el;
+
+b) mellőzhető az ügyfélnek, illetve az ügyfelek mindegyikének vagy a képviselőnek az aláírása az iparjogvédelmi beadvány ügyfélkapus azonosítást követő benyújtása esetén.
+
+(3) A használati mintaoltalmi bejelentés elektronikus úton való benyújtása esetén mellőzhető a leírás és az igénypontok, valamint a rajzok utolsó oldalának az ügyfél vagy a képviselő általi aláírása.
