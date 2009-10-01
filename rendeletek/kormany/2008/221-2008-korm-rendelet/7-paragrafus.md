@@ -1,0 +1,8 @@
+## 6. §[^10] A FÖMI a parlagfű elleni közérdekű védekezés végrehajtásának részletes szabályairól szóló külön jogszabályban meghatározott feladata ellátásával kapcsolatos költségeit – a földművelésügyi és vidékfejlesztési miniszter előzetes jóváhagyása alapján – az előirányzatból kell biztosítani. A FÖMI az elvégzett feladatokról és felhasznált forrásokról a tárgyév december 31. napjáig szakmai beszámolót és tételes pénzügyi elszámolást nyújt be a földművelésügyi és vidékfejlesztési miniszternek.
+
+7. § (1) A közérdekű védekezéssel kapcsolatos költségek előlegezését a közérdekű védekezést elrendelő hatóság a védekezést elrendelő határozat meghozatala után igényelheti az MgSzH Központtól. Amennyiben a földhasználó a közérdekű védekezés elrendelését követően tesz eleget védekezési kötelezettségének, az okafogyottá vált kiszállással felmerült költségeket lehet érvényesíteni.
+
+(2)[^11] Az MgSzH Központ a közérdekű védekezéssel kapcsolatos költségeket a hozzá érkezett igény szerint a közérdekű védekezést elrendelő hatóság részére az előirányzat terhére megelőlegezi, az igénylés beérkezését követő öt munkanapon belül.
+
+[^10]: A 6. § a 182/2009. (IX. 10.) Korm. rendelet 640. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 640. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
