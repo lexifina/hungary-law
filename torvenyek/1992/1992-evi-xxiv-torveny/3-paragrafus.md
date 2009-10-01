@@ -1,0 +1,1 @@
+3. § Az egyes vagyontárgyak kötelező letétbe helyezését, illetve zár alá vételét előíró — a Kpt. 1. számú mellékletének 6. pontjában és az e törvény 2. számú mellékletének 2., 4. és 6. pontjában megjelölt — jogszabályok alkalmazásával okozott kár mértékét a 3. számú mellékletben foglaltak szerint kell meghatározni.

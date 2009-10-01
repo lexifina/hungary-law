@@ -1,0 +1,1 @@
+4. § Ha a kárpótlásra jogosultat mind a Kpt., mind pedig e törvény alapján kárpótlás illeti meg, annak mértékét úgy kell megállapítani, mintha összes kárpótlási igényét ugyanazon törvény alapján érvényesítette volna.
