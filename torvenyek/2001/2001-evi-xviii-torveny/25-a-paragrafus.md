@@ -1,0 +1,1 @@
+25/A. § A polgárőrség a polgárőrségről szóló törvényben meghatározottak szerint végzett, a körözött gépjárművek azonosítására vonatkozó feladatainak ellátásához a nyilvántartásból a körözött gépjárművek egyedi azonosító ismérveinek – a körözött gépjárművek forgalmi rendszámának, alvázszámának, gyártmányának, felségjelzésének – igénylésére jogosult.

@@ -1,0 +1,1 @@
+13. § A 12. § (1) bekezdésének g) és h) pontjában meghatározott adatigényléseket a megkeresett az általa kezelt nyilvántartásból történő adatszolgáltatásra vonatkozó rendelkezések szerint – és a költségvetési szerv ingyenesen – köteles teljesíteni.
