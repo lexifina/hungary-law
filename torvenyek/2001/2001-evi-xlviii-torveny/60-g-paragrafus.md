@@ -1,0 +1,1 @@
+60/G. § Az ipari minták nemzetközi letétbe helyezéséről szóló 1925. évi Hágai Megállapodás 1960. november 28-án, Hágában felülvizsgált szövege alapján tett nemzetközi letétbe helyezésekre e fejezet rendelkezéseit megfelelően kell alkalmazni.

@@ -1,0 +1,1 @@
+57/A. § Szolgálati mintára adott mintaoltalom esetén a Magyar Szabadalmi Hivatal a megsemmisítési kérelmet azzal küldi meg a szerzőnek, hogy a megsemmisítési eljárásban ügyfélként vehet részt, ha az erre vonatkozó nyilatkozatát a kérelem kézhezvételétől számított harminc napon belül megteszi.
