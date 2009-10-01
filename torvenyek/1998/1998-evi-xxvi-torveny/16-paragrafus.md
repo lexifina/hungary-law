@@ -1,0 +1,1 @@
+16. § Ha a fogyatékos személy foglalkoztatása az integrált foglalkoztatás keretében nem megvalósítható, úgy számára speciális munkahelyek működtetésével a munkához való jogát lehetőség szerint biztosítani kell. A védett munkahelyet a központi költségvetés normatív támogatásban részesíti.

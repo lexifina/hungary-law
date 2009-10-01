@@ -1,0 +1,1 @@
+7/C. § A közszolgáltatásokhoz való egyenlő esélyű hozzáférés biztosítása érdekében a fogyatékos személy az önálló életvitelét segítő kutyáját – külön jogszabályban meghatározottak szerint – beviheti a közszolgáltatást nyújtó szerv, intézmény, szolgáltató mindenki számára nyitva álló területére.
