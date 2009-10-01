@@ -1,0 +1,1 @@
+A víziközlekedésről szóló 2000. évi XLII. törvény 88. §-a (2) bekezdésének b) pontjában, valamint a műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 182/1997. (X. 17.) Korm. rendelet 11. §-ában kapott felhatalmazás alapján a következőket rendelem el:

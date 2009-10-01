@@ -1,0 +1,1 @@
+## 18. § E rendelet a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba, egyidejűleg a vízijárművek és úszómunkagépek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 10/2000. (X. 31.) KöViM rendelet hatályát veszti.
