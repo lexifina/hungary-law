@@ -1,0 +1,1 @@
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdésének e) pontjában kapott felhatalmazás alapján a vízügyi igazgatási szervek, valamint a helyi önkormányzatok jegyzőinek vízgazdálkodási hatósági hatásköréről és a hatósági jogkör gyakorlásáról a következőket rendeli el:

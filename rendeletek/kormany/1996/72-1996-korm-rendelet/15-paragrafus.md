@@ -1,0 +1,11 @@
+## A hatósági engedély nélkül vagy attól eltérően végzett létesítésre és üzemeltetésre vonatkozó rendelkezések
+
+15. § (1) Vízjogi létesítési engedély nélkül megépített vagy attól eltérően megvalósított vízimunka vagy vízilétesítmény esetén az építtetőnek (tulajdonosnak) a vízügyi hatóságtól – a (2) bekezdésben meghatározott eset kivétellel – fennmaradási engedélyt kell kérni.
+
+(2) Ha az építtető a létesítményt a vízügyi hatóság által megállapított határidő alatt és a hatósági előírások betartásával megszünteti, az eredeti állapotot visszaállítja, az engedély nélkül, illetve az attól eltérően végzett tevékenységhez kapcsolódó joghátrányok nem alkalmazhatók.
+
+(3) A fennmaradási engedéllyel kapcsolatos kérelem elbírálása során a vízjogi létesítési és üzemeltetési engedélyezési eljárásra vonatkozó rendelkezések megfelelő alkalmazásával kell eljárni azzal, hogy a kérelemhez a tényleges megvalósulási állapotot tartalmazó tervdokumentációt kell csatolni.
+
+(4) Az (1) bekezdésben meghatározott kérelemmel kapcsolatos eljárás annak megállapítására irányul, hogy a megvalósított vízilétesítmény, vízimunka – az engedély hiányától eltekintve – mennyiben felel meg a vízjogi létesítési és üzemeltetési engedély kiadására vonatkozó, a Vgtv.-ben és egyéb jogszabályban meghatározott követelményeknek, illetve a hatósági előírásoknak. A vízügyi hatóság a fennmaradási engedély megadását a létesítmény átalakításától vagy meghatározott munkák elvégzésétől teheti függővé.
+
+(5) Amennyiben a fennmaradási engedély megadható, a Vgtv. 29. §-ának (3) bekezdésében meghatározott bírság megfizetéséről a fennmaradásról szóló döntéssel, illetve eljárással egyidejűleg kell rendelkezni.
