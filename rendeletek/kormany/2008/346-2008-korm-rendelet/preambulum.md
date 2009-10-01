@@ -1,0 +1,1 @@
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. §-a (7) bekezdésének 25. pontjában, valamint a szabálysértésekről szóló 1999. évi LXIX. törvény 166. §-ában kapott felhatalmazás alapján – az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében – a következőket rendeli el:
