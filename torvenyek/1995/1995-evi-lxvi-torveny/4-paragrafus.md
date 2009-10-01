@@ -1,0 +1,1 @@
+4. § Az irattári anyaggal rendelkező szervek és a maradandó értékű iratokat őrző természetes személyek kötelesek a szervesen összetartozó irataik egységének, illetve eredeti rendjének megőrzéséről, valamint a tulajdonukban vagy birtokukban lévő maradandó értékű iratok megóvásáról gondoskodni.

@@ -1,0 +1,1 @@
+Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául szolgáló, illetőleg a közfeladatok folyamatos ellátásához és az állampolgári jogok érvényesítéséhez nélkülözhetetlen, a nemzet kulturális örökségének részét képező levéltári anyag védelmének, folytonos gyarapításának és használatának alapvető szabályairól a következő törvényt alkotja:
