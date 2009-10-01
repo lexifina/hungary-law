@@ -1,0 +1,1 @@
+A Kormány a földrendező és földkiadó bizottságokról szóló 1993. évi II. törvény (a továbbiakban: Fkbt.) 15. §-ában kapott felhatalmazás alapján az osztatlan közös tulajdon megszüntetésével kapcsolatos földhivatali eljárás részletes szabályaiként a következőket rendeli el:
