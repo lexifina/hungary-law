@@ -1,0 +1,1 @@
+A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény (a továbbiakban: Ktv.) 7. § (4) bekezdésében foglaltakra figyelemmel az Országgyűlés a következő törvényt alkotja:
