@@ -1,0 +1,1 @@
+## A szolgálatok ellátásának célja

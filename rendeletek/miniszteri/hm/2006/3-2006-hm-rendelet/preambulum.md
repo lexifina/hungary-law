@@ -1,0 +1,1 @@
+A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 74. §-ának w) pontjában kapott felhatalmazás alapján – a gazdasági és közlekedési miniszterrel egyetértésben – a következőket rendelem el:
