@@ -1,0 +1,47 @@
+## A vagyonnyilatkozat-tételre kötelezett
+
+3. § (1) Vagyonnyilatkozat tételére kötelezett az a közszolgálatban álló személy, aki – önállóan vagy testület tagjaként – javaslattételre, döntésre vagy ellenőrzésre jogosult
+
+a) közigazgatási hatósági vagy szabálysértési ügyben,
+
+b) közbeszerzési eljárás során,
+
+c) feladatai ellátása során költségvetési vagy egyéb pénzeszközök felett, továbbá az állami vagy önkormányzati vagyonnal való gazdálkodás, valamint elkülönített állami pénzalapok, fejezeti kezelésű előirányzatok, önkormányzati pénzügyi támogatási pénzkeretek tekintetében,
+
+d) egyedi állami vagy önkormányzati támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
+
+e) állami vagy önkormányzati támogatások felhasználásának vizsgálata, vagy a felhasználással való elszámoltatás során.
+
+(2) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett, aki
+
+a) fegyveres szerv hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezető beosztást, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
+
+b) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
+
+c) vezetői megbízással rendelkező köztisztviselő,
+
+d) jogszabály alapján „C” típusú nemzetbiztonsági ellenőrzésre köteles fontos és bizalmas köztisztviselői munkakört tölt be,
+
+e) ügyész vagy
+
+f) közjegyző.
+
+(3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
+
+a) a Magyar Fejlesztési Bank Rt. vezérigazgatója, igazgatóságának, felügyelőbizottságának elnöke és tagja,
+
+b) a Magyar Nemzeti Vagyonkezelő Zrt. felügyelőbizottságának és ellenőrző bizottságának tagja,
+
+c) a többségi állami részesedéssel működő gazdálkodó szervezet tisztségviselője és felügyelőbizottságának tagja,
+
+d) az Országgyűlés és a Kormány által alapított közalapítvány kezelő szervének vagy szervezetének tagja, illetve egyéb tisztségviselője, továbbá
+
+e) az a közszolgálatban nem álló személy, aki – önállóan vagy testület tagjaként – javaslattételre, döntésre, illetve ellenőrzésre jogosult
+
+ea) az állam, önkormányzat, költségvetési intézmény, valamint többségi állami, illetve többségi önkormányzati tulajdonban lévő gazdasági társaság, továbbá az Országgyűlés, a Kormány, valamint önkormányzat által alapított közalapítvány által lefolytatott közbeszerzési eljárásban,
+
+eb) feladatai ellátása során költségvetési vagy egyéb pénzeszközök felett, továbbá az állami vagy önkormányzati vagyonnal való gazdálkodás, valamint elkülönített állami pénzalapok, fejezeti kezelésű előirányzatok, önkormányzati pénzügyi támogatási pénzkeretek tekintetében, illetve az Országgyűlés, a Kormány, valamint önkormányzat által alapított közalapítvány számára nyújtott támogatási pénzeszköz juttatásánál,
+
+ec) egyedi állami vagy önkormányzati támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
+
+ed) állami, önkormányzati, illetve az Országgyűlés, a Kormány, valamint önkormányzat által alapított közalapítványi támogatások felhasználásának vizsgálata, valamint a felhasználással való elszámoltatás során.

@@ -1,0 +1,3 @@
+1. § (1) Az alapvető jogok és kötelességek pártatlan és elfogulatlan érvényesítése, valamint a közélet tisztaságának biztosítása és a korrupció megelőzése céljából az a személy, aki a 3. §-ban felsorolt feladatot lát el, tisztséget, illetve munkakört tölt be (a továbbiakban együtt: kötelezett), az e törvényben meghatározott esetekben a törvény mellékletében rögzített adattartalommal nyilatkozatot tesz a saját és a vele egy háztartásban élő hozzátartozók jövedelmi, érdekeltségi és vagyoni helyzetéről (a továbbiakban: vagyonnyilatkozat).
+
+(2) Nem köteles e törvény rendelkezései szerint vagyonnyilatkozatot tenni az, aki külön jogszabály alapján vagyonnyilatkozat tételére egyébként kötelezett.

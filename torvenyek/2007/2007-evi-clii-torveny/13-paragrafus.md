@@ -1,0 +1,1 @@
+13. § A vagyonnyilatkozat-tételi kötelezettség teljesítését az őrzésért felelős személy ellenőrzi. A nyilatkozat tartalmát abban az esetben ismerheti meg, ha a 14. § rendelkezései szerint döntenie kell a vagyongyarapodási vizsgálat kezdeményezéséről.
