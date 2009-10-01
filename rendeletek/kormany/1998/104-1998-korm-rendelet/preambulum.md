@@ -1,0 +1,1 @@
+A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló, többször módosított 1992. évi LXXXIX. törvény 22. §-ának c) pontjában foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
