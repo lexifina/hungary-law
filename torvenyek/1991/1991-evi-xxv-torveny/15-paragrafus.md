@@ -1,0 +1,3 @@
+15. § (1) A kárpótlás termőföldben történő biztosítása érdekében a szövetkezet vagy jogutódja (a továbbiakban: szövetkezet) a 12. § (4) bekezdésében említett értesítés kézhezvételétől számított 30 napon belül a 16—18. §-okban foglalt rendelkezéseknek megfelelően kijelöli azt az e törvény kihirdetése napján a tulajdonában vagy használatában álló termőföldterületet, amelyet a 2. számú mellékletben felsorolt jogszabályok alapján szerzett meg. Amennyiben a szövetkezet a kijelölési kötelezettségének nem tesz eleget, akkor az e törvény alapján megszerzett, s a tulajdonában vagy használatában lévő termőföld mennyiség teljes egészében kijelöltnek tekintendő.
+
+(2) Az (1) bekezdés alapján kijelölt termőföldterületre a kárpótlásra jogosultakat vételi jog illeti meg.

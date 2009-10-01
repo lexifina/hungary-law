@@ -1,0 +1,1 @@
+16. § A szövetkezetnek legalább a 12. § (4) bekezdésében említett értesítésben meghatározott AK értékű termőföldterületet kell kijelölnie úgy, hogy a kijelölt földmennyiség átlagos AK értékének meg kell egyeznie a szövetkezet egyéb földterületének átlagos AK értékével.

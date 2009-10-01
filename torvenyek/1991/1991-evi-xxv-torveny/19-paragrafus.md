@@ -1,0 +1,1 @@
+19. § Az állam a szövetkezeti földek árverésével egyidőben, illetőleg azt követően állami tulajdonú földeket is árverésre bocsát. Az így árverésre bocsátott termőföldek AK értékének el kell érnie a szövetkezetek által árverésre bocsátott termőföldek AK értékének legalább 20%-át.

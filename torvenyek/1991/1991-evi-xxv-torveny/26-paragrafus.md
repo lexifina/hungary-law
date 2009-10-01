@@ -1,0 +1,1 @@
+26. § A 15—18. §-ok alapján kijelölt, s a szövetkezet által árverésen értékesített termőföld ellenértékeként megszerzett kárpótlási jegyeket a szövetkezet a 7. § (1) bekezdésében foglaltaknak megfelelően felhasználhatja, kivéve a használatában lévő állami tulajdonú termőföld értékesítése ellenében megszerzett kárpótlási jegyeket.
