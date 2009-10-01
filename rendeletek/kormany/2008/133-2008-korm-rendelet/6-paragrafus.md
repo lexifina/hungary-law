@@ -1,0 +1,3 @@
+## 5/B. §[^7] A Kormány a miniszternek a működő állami repülőtéren nyilvános repülőtéri szektor létesítésére vonatkozó közigazgatási hatósági eljárásában – abban a kérdésben, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatók-e – a honvédelemért felelős minisztert szakhatóságként jelöli ki.
+
+[^7]: Az 5/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 621. §-a iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
