@@ -1,0 +1,7 @@
+81. § A Ket. 109. § (2)–(4) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha törvény alapján a végzés ellen önálló fellebbezésnek van helye, az ügyfél, továbbá a kifejezetten rá vonatkozó végzés esetében az eljárás egyéb résztvevője jogszabálysértésre hivatkozással kezdeményezheti a jogerős végzés bírósági felülvizsgálatát a végzés közlésétől számított harminc napon belül. Az első fokú végzés a közlésétől számított harminc napon belül közvetlenül a közigazgatási ügyekben eljáró bíróság előtt támadható meg, ha a végzést miniszter, autonóm államigazgatási szerv vagy kormányhivatal vezetője vagy – törvény vagy kormányrendelet eltérő rendelkezése hiányában – ha központi államigazgatási szerv vezetője hozta, vagy ha törvény az ügyben az első fokú határozattal szemben is kizárja a fellebbezést, és a határozat bírósági felülvizsgálatát teszi lehetővé. A közigazgatási ügyekben eljáró bíróság a végzést nemperes eljárásban vizsgálja felül.
+
+(3) A bírósági felülvizsgálatra csak akkor kerülhet sor, ha a hatósági eljárásban a fellebbezésre jogosultak valamelyike a fellebbezési jogát kimerítette, vagy a fellebbezés törvény rendelkezései szerint kizárt.
+
+(4) Bírósági felülvizsgálat kezdeményezése esetén az első fokú döntést hozó hatóság erről az ügy iratainak felterjesztésével, illetve a bíróságra történő továbbításával egyidejűleg értesíti azokat, akiknek jogát vagy jogos érdekét a felülvizsgálat érinti. Ha a kezdeményező a döntés végrehajtásának felfüggesztését is kéri, akkor erről a hatóság a végrehajtást foganatosító szervet is értesíti.”

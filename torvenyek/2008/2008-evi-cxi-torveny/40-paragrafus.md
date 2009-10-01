@@ -1,0 +1,3 @@
+40. § A Ket. 48. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha az idézett személy az idézésnek nem tesz eleget, vagy meghallgatása előtt az eljárás helyéről engedély nélkül eltávozik, és távolmaradását előzetesen alapos okkal nem menti ki vagy öt munkanapon belül megfelelően nem igazolja, továbbá ha az idézésre meghallgatásra nem alkalmas állapotban jelenik meg, és ezt a körülményt nem menti ki, eljárási bírsággal sújtható, továbbá az eljárási cselekmény megismétlése miatti többletköltség megfizetésére kötelezhető. Nem sújtható bírsággal és nem kötelezhető a többletköltség viselésére az idézett személy, ha az idézés nem volt szabályszerű.”
