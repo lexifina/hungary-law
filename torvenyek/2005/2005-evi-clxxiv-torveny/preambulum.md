@@ -1,0 +1,1 @@
+A magyar nemzet jövője, a hátrányos helyzetűek esélyeinek növelése iránti felelősségtől indíttatva, a fiatalok önálló életkezdésének anyagi megalapozása céljából az Országgyűlés a következő törvényt alkotja:
