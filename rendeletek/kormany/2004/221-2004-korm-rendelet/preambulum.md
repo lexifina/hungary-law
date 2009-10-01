@@ -1,0 +1,1 @@
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 110. §-a (7) bekezdésének o) pontja alapján – figyelemmel a vízgazdálkodásról szóló 1995. évi LVII. törvény 2. §-a (1) bekezdésének a) és b) pontjára, valamint 14. és 15. §-ára – a következőket rendeli el:
