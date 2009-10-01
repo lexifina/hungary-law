@@ -1,0 +1,1 @@
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 7. §-ában, 36. §-ában és 110. §-a (7) bekezdésének f) pontjában kapott felhatalmazás alapján – a vízgazdálkodásról szóló 1995. évi LVII. törvénnyel összhangban – a felszín alatti vizek jó állapotának biztosítása érdekében a következőket rendeli el:

@@ -1,0 +1,3 @@
+17. § (1) A bejelentési, adatszolgáltatási kötelezettség Környezetvédelmi és Vízügyi Minisztérium (a továbbiakban: minisztérium) vagy kijelölt szerve által kiadott nyomtatványon vagy számítógépes adathordozón teljesíthető. Az adatszolgáltatónak gondoskodnia kell a dokumentumok, illetve adatokat előállító és továbbító eljárások megfelelő archiválásáról.
+
+(2) Az adatszolgáltatás során közölt adatok teljes körűségéért, a bejelentésre kötelezettre érvényes számviteli szabályokkal, statisztikai rendszerrel, valamint egyéb nyilvántartási rendszereivel, mérési, megfigyelési adataival való egyezésért a bejelentésre kötelezett a felelős.
