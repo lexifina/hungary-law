@@ -1,0 +1,1 @@
+16. § A vágóhídon a vágóállat állapotát és egészségét a megérkezéskor, a várakoztatott állatot pedig szükség szerint ellenőrizni kell. A beteg, elgyengült vagy sérült állatot haladéktalanul el kell különíteni, és gondoskodni kell elkülönített levágásáról.

@@ -1,0 +1,1 @@
+47. § A miniszter az állatvédelmi hatósági feladatok ellátásának elősegítésére, valamint a társadalmi részvétel biztosítása érdekében szakértői testületet hoz létre. A testületben biztosítja az érintett szakmai szervezetek és a bejegyzett országos állatvédő társadalmi szervezetek részvételét.

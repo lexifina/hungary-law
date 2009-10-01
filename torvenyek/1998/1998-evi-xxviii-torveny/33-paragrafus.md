@@ -1,0 +1,1 @@
+33. § Az állatkísérlet végzésére feljogosított és nyilvántartott intézményben munkahelyi állatkísérleti bizottságot (a továbbiakban: MÁB) kell létrehozni, és működtetni. A MÁB tagjait az intézmény vezetője nevezi ki. A MÁB ügyrendjét maga állapítja meg.

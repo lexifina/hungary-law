@@ -1,0 +1,3 @@
+## Az állat életének kioltása
+
+11. § Az állat életét elfogadható ok vagy körülmény nélkül kioltani nem szabad. Elfogadható oknak, körülménynek minősül különösen az élelmezési cél vágóállat esetében, a prém termelése a hagyományosan e célból tartott állat esetében, az állományszabályozás, a gyógyíthatatlan betegség, illetve sérülés, a fertőző betegségek kontrollja, valamint az azok ellen való védekezés, a kártevők irtása, a másként el nem hárítható támadás megakadályozása és a tudományos kutatás. Kutya és macska tekintetében az élelmezési cél, illetve a prém termelése nem minősül elfogadható oknak, körülménynek.
