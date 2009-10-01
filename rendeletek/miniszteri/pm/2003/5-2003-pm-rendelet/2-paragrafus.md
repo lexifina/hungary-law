@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya az Szja tv. 77/C. §-ában meghatározott elismert munkavállalói értékpapír-juttatási program nyilvántartásba vételének rendjére, a nyilvántartásba vétel kezdeményezéséért fizetendő igazgatási szolgáltatási díj (a továbbiakban: díj) mértékére, valamint a díj megfizetésének módjára terjed ki.
