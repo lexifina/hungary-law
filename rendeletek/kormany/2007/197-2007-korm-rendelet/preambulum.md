@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva, a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 451. §-a (1) bekezdésének q) pontjában kapott felhatalmazás alapján a következőket rendeli el:

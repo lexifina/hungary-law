@@ -1,0 +1,3 @@
+## 1. §[^1] E rendelet hatálya az alapkezelő által az ingatlanalap tulajdonában lévő ingatlanok értékének rendszeres megállapításával megbízott, ingatlanértékelést végző, a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a Magyar Köztársaság területén letelepedett természetes személyre és szervezetre (a továbbiakban: ingatlanértékelő) terjed ki.
+
+[^1]: Az 1. § a 182/2009. (IX. 10.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

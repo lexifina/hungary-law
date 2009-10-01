@@ -1,0 +1,9 @@
+# 197/2007. (VII. 30.) Korm. rendelet
+
+az ingatlanértékelést végző természetes személy és szervezet felelősségbiztosítási szerződésének minimális tartalmi követelményeire vonatkozó részletes szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-197-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-01 | 2007-197-20-22.2 | 197/2007. (VII. 30.) Korm. rendelet |
