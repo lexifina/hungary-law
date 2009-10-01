@@ -1,0 +1,1 @@
+## 33. § Ha a hévízhasználat ideiglenes jellegű, a használat szüneteltetése idejére – a karbantartási kötelezettség fenntartásával – a kutat le kell zárni. Az adatszolgáltatási kötelezettségnek a használat szüneteltetése alatt is eleget kell tenni.

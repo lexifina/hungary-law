@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. §-ának (1) bekezdés b) pontjában meghatározott feladatkörében eljárva, valamint a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdésének e), k) és n) pontjában kapott felhatalmazás alapján a következőket rendeli el.
