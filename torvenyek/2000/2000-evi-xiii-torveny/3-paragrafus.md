@@ -1,0 +1,1 @@
+3. § Az elkobzott dolgot kezelő hatóság az elkobzás külön jogszabályban meghatározott végrehajtásának megkezdése előtt alkalmanként, vagy — ha ez az érintett dolgok csekély mennyisége miatt ésszerűtlen lenne — több elkobzásról együttesen, időszakonként értesíti a Karitatív Tanácsot, ha e törvény szerint az elkobzott dolog közérdekű felhasználásának lehet helye.
