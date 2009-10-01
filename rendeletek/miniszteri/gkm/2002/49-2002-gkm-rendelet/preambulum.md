@@ -1,0 +1,1 @@
+A víziközlekedésről szóló 2000. évi XLII. törvény 88. § (2) bekezdésének k) és p) pontjában kapott felhatalmazás alapján – figyelemmel a törvény 76. §-ában foglaltakra – a belügyminiszterrel egyetértésben a következőket rendelem el:
