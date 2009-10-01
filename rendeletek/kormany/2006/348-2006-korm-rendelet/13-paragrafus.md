@@ -1,0 +1,1 @@
+## A bemutatásra vonatkozó szabályok

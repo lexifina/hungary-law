@@ -1,0 +1,1 @@
+A természet védelméről szóló 1996. évi LIII. törvény (a továbbiakban: Tvt.) 10. §-ának (1) bekezdésében, 44. §-ának (6) bekezdésében, valamint 85. §-ának a) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
