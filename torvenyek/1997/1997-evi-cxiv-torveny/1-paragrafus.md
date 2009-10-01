@@ -1,0 +1,3 @@
+1. § (1) A központi költségvetés évenkénti elfogadása során az Országgyűlés biztosítja, hogy a 2005. évi költségvetési törvény szerinti támogatási összeghez képest az agrárgazdaság nemzeti hatáskörben nyújtandó támogatás – beleértve az Európai Unió által biztosított közvetlen termelői támogatás nemzeti kiegészítését is – (a továbbiakban: nemzeti agrártámogatás) reálértéke a támogatások kiegyenlítődésének időpontjáig megőrzésre kerül.
+
+(2) A Kormány az agrártámogatások részletes feltételeinek kidolgozásánál érvényesíti az Európai Unió erre vonatkozó alapelveit és rendelkezéseit, az agrártámogatási rendszer működtetése során gondoskodik az (1) bekezdésben foglaltak érvényesüléséről.
