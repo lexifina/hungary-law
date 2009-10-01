@@ -1,0 +1,1 @@
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 36. §-ában kapott felhatalmazás alapján, a felszíni vizek minőségét érintő szennyezőanyag terhelések csökkentése érdekében a következőket rendeli el:
