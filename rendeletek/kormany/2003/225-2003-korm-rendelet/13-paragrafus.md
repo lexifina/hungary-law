@@ -1,0 +1,3 @@
+13. § (1) Ha olyan hajó fedélzetén, amelyre a SOLAS 1974/1978. melléklete IX. fejezetében előírt, a hajók biztonsági üzemviteléről és a környezetszennyezés megelőzéséről szóló szabályzatot (ISM Szabályzat) alkalmazni kell, az ellenőrző hatóság megállapítja, hogy a szabályzat alapján kiállítandó megfelelőségi bizonyítvány vagy a biztonsági üzemviteli bizonyítvány hiányzik, a hajó üzemeltetését megtiltja.
+
+(2) Ha az (1) bekezdésben meghatározott okmányok hiányán túl az ellenőrző hatóság nem tár fel semmilyen egyéb, a hajó üzemeltetésének megtiltását indokoló hiányosságot, a kikötő zsúfoltságának elkerülése érdekében az ellenőrző hatóság az üzemeltetés megtiltását feloldhatja.
