@@ -1,0 +1,5 @@
+61/G. § (1) Az egy védjegybejelentéssel kapcsolatban benyújtott több felszólalást egy eljárásban kell elintézni.
+
+(2) Egy védjegybejelentéssel kapcsolatban benyújtott több felszólalás esetén egyes felszólalások tekintetében az eljárás felfüggeszthető. Az eljárást ilyen esetben felfüggesztő végzés megváltoztatása [77. § (1) bek.] külön nem kérhető a bíróságtól, az csak a védjegy lajstromozása kérdésében hozott eljárást befejező döntéssel szemben benyújtott megváltoztatási kérelemben támadható meg. Az eljárást ilyen esetben felfüggesztő végzés – szükség szerint – meghatározza a felszólalónak az eljárás felfüggesztéséig felmerült költségeit.
+
+(3) Ha a védjegy lajstromozására irányuló eljárás a bejelentést elutasító döntés jogerőre emelkedésével fejeződik be, a felszólalást, amellyel kapcsolatban az eljárást felfüggesztették, visszavontnak kell tekinteni. Ellenkező esetben az eljárást folytatni kell annak a felszólalásnak az alapján, amellyel kapcsolatban az eljárást korábban felfüggesztették.

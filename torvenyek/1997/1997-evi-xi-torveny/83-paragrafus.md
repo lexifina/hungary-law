@@ -1,0 +1,1 @@
+83. § Ha a közös védjegyoltalom valamely jogosultja a védjegyoltalom fenntartása és védelme érdekében önállóan lép fel, illetve az eljárást csak az egyik védjegyjogosult ellen indították meg, a bíróság értesíti a többi védjegyjogosultat, hogy az eljárásba védjegyjogosult társuk mellett beléphetnek.
