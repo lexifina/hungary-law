@@ -1,0 +1,10 @@
+## Záró rendelkezések
+
+12. § (1)[^14] Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+
+(2)[^15]
+
+(3) E rendelet előírásainak betartása nem helyettesíti a más jogszabályokban, különösen az ember egészsége és a környezet védelme érdekében előírt engedélyezési, bejelentési és ellenőrzési kötelezettségeket.
+
+[^14]: A 12. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1260. pontja szerint módosított szöveg.
+[^15]: A 12. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1260. pontja hatályon kívül helyezte.

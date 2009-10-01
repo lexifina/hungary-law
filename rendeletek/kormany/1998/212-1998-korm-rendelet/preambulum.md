@@ -1,0 +1,1 @@
+A vegyifegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény (a továbbiakban: Egyezmény) kihirdetéséről rendelkező 1997. évi CIV. törvény végrehajtásának keretében a Kormány a következőket rendeli el:
