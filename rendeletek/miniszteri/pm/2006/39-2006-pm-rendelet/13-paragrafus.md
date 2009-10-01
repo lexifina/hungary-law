@@ -1,0 +1,1 @@
+## 12. § A másodfokú határozatot (végzést) a pénzügyminiszter adja ki. A határozat kiadásában az államtitkár – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 43. § (1) bekezdése alapján – a miniszter teljes jogkörű helyettese.
