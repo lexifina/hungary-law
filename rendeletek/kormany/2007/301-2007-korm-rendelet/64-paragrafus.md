@@ -1,0 +1,5 @@
+64. § (1) Ha a külföldi nem a menekültügyi hatóságnál kíván elismerés iránti kérelmet előterjeszteni, az érintett hatóságnak tájékoztatnia kell a külföldit, hogy kérelmével mely hatósághoz fordulhat.
+
+(2) Ha a külföldi elismerés iránti kérelem benyújtására irányuló szándékát idegenrendészeti, szabálysértési vagy büntetőeljárás során nyilvánítja ki, nyilatkozatát az eljáró hatóság jegyzőkönyvbe foglalja, és – a jegyzőkönyv, valamint az általa rögzített ujjnyomat-lap egyidejű megküldésével – haladéktalanul értesíti a menekültügyi hatóságot, valamint az előzetes vizsgálati eljárás alatt állók elhelyezésére szolgáló befogadó állomást.
+
+(3) A menekültügyi hatóság az értesítést követően haladéktalanul gondoskodik a külföldinek az előzetes vizsgálati eljárás alatt állók elhelyezésére szolgáló befogadó állomásra szállításáról, kivéve, ha a külföldi ügyében a repülőtéri eljárásra vonatkozó szabályok irányadók, vagy a külföldivel szemben személyi szabadságot korlátozó intézkedés alkalmazásának van helye.

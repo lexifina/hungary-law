@@ -1,0 +1,7 @@
+63. § (1) Az elismerés iránti kérelem előterjesztését követően a menekültügyi hatóság haladéktalanul értesíti a befogadó állomás helye szerint illetékes egészségügyi államigazgatási szerv kistérségi tisztifőorvosát (a továbbiakban: tisztifőorvos) az adott járványügyi helyzetnek megfelelő orvosi vizsgálatok elrendelése érdekében.
+
+(2) Ha az (1) bekezdésben elrendelt vizsgálatok elvégzését követően a befogadó állomáson működő háziorvos megállapítja, hogy az elismerését kérő közegészséget veszélyeztető betegségben szenved, illetve fertőzőképes, haladéktalanul értesíti a tisztifőorvost, aki – a menekültügyi hatóság tájékoztatása mellett – javaslatot tesz a szükséges korlátozó intézkedések megtételére.
+
+(3) A (2) bekezdés szerinti egészségi állapot fennállásáig az elismerését kérő közösségben nem vagy állapotára, betegségére, illetve kórokozó-hordozó állapotára figyelemmel a tisztifőorvos által meghatározott korlátozásokkal helyezhető el. Ha az elismerését kérő közösségben nem helyezhető el, gondozásba vételéről és elhelyezéséről a tisztifőorvos által meghatározott módon elkülönítetten kell gondoskodni. Az elkülönítésről a menekültügyi hatóságot értesíteni kell. A járványügyi érdekből szükséges intézkedések költségeit a menekültügyi hatóság megtéríti.
+
+(4) Ha a fekvőbeteg-gyógyintézet fertőző osztályán vagy kijelölt gyógyintézetben elkülönített elismerését kérő elkülönítésére a továbbiakban nincs szükség, erről a tisztifőorvos a menekültügyi hatóságot értesíti, és az elismerését kérőt a számára kijelölt szálláshelyre irányítja.

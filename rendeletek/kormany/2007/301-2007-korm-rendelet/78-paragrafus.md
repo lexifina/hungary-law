@@ -1,0 +1,3 @@
+78. § (1) Ha a Tv. 44. § (1) bekezdése szerinti orvosszakértői vizsgálat szükségessége felmerül, a menekültügyi hatóság az elismerését kérőt – az anyanyelvén vagy az általa értett más nyelven – közérthető módon tájékoztatja a szakértő által elvégzendő vizsgálatról, a szakértői vizsgálat eredményének jelentőségéről, továbbá a vizsgálat elvégzéséhez való hozzájárulás megtagadásának – a Tv. 44. § (3) bekezdésében meghatározott – következményeiről.
+
+(2) Ha az elismerését kérő az orvosszakértői vizsgálat eredményét vitatja, kérheti a menekültügyi hatóságtól új szakértő kirendelését. Ellentétes szakértői vélemények esetén a menekültügyi hatóság a szakértői vélemények mérlegelése alapján dönt, vagy újabb szakértőt rendel ki.
