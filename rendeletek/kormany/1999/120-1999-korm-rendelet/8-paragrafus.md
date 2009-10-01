@@ -1,0 +1,32 @@
+## A fenntartással kapcsolatos egyéb feladatok
+
+8. § (1) A vizek és vízilétesítmények fenntartásával kapcsolatos egyéb feladatok körében a fenntartó
+
+a) nyilvántartja a vízgazdálkodással összefüggésben művelés alól kivett területeket, az állam, illetőleg az önkormányzat tulajdonában álló vizeket, azok medrét képező területeket, továbbá a meder részét nem képező parti földrészleteket;
+
+b) szükség esetén gondoskodik az (1) bekezdés a) pontjában meghatározott területként nyilvántartott vizek medrét vagy azok partját érintő ingatlan-nyilvántartási bejegyzéssel kapcsolatos feladatokkal, továbbá a földrészleteken fennálló – a fenntartási feladatokkal összefüggő, a Vgtv. 20. § (3) bekezdésében, 23. és 24., valamint a 27. §-ban meghatározott – korlátozásokkal járó jogok és tények bejegyzéséről, illetve bejegyeztetéséről.
+
+(2) Az (1) bekezdésben érintett feladatokkal összefüggésben a fenntartó:
+
+a) a meder és a part találkozási vonalának módosulása esetén – a változást megalapozó jogcímre figyelemmel – elkészíti az ingatlan-nyilvántartási átvezetéshez szükséges munkarészeket, szükség esetén gondoskodik a part vonalának a természetben történő kitűzéséről;
+
+b) indokolt esetben – különösen jogellenes beavatkozás esetén, saját ellenőrzése alapján – intézkedés végett megkeresi a hatáskörrel rendelkező államigazgatási szervet, és kezdeményezi az eredeti állapot helyreállítását vagy ha az elbontás nem indokolt, a partvonal megállapítását (módosítását);
+
+c)[^6] a meder jogellenes igénybevétele, feltöltése esetén az eredeti állapot visszaállítására irányuló jogerős közigazgatási hatósági határozat, illetve jogerős bírósági döntés alapján – ha a munkák elvégzésére más személy nem kötelezhető – ellátja a végrehajtás műveleti (operatív) feladatait.
+
+(3)[^7] Amennyiben a jogellenes feltöltést végző személye ismeretlen, a fenntartónak a fennmaradásra vagy az eredeti állapot helyreállítására vonatkozó, az eljárást megindító javaslata alapján, valamint a területileg illetékes önkormányzat véleményére figyelemmel a vízügyi hatóság határoz a partvonal ismételt megállapításáról vagy ennek hiányában a feltöltött terület megszüntetéséről, a meder eredeti állapotának helyreállításáról.[^8]
+
+(4)[^9] A (3) bekezdésben érintett hatáskörben eljárva, a vízügyi hatóság a partvonal ismételt megállapítására irányuló, elutasító döntésében kötelezi a fenntartót a (2) bekezdés a) pontja szerint feltöltött terület megszüntetésére, illetve az eredeti állapot visszaállítására.
+
+(5) A feltöltés fennmaradása esetén a fenntartó elkészíti az ingatlan-nyilvántartási átvezetéshez szükséges dokumentációt.
+
+(6) Az ingatlan-nyilvántartási változás és átvezetés alapja a jogerős partvonal-megállapító határozat, amelynek alapján – figyelemmel a (5) bekezdés szerinti dokumentációra – az illetékes földhivatal az eddig mederként nyilvántartott területet a változás átvezetésével, rendeltetésének, illetve a hasznosításnak megfelelő művelési ágban tartja nyilván.
+
+(7) Az ingatlan-nyilvántartási átvezetés után a meder részét már nem képező parti területeken – ha annak tulajdonosa és a vagyonkezelő személye megegyezik a meder tulajdonosával – a fenntartó gondoskodik a földrészletek (parti területek) jogszabálynak megfelelő, rendeltetésszerű hasznosításáról.
+
+(8) Amennyiben a jogellenes és káros mederfeltöltés kapcsán az eredeti mederállapot helyreállítása iránt kell intézkedni, az ehhez szükséges vízimunkát a fenntartó a (3) bekezdésben érintett döntésre figyelemmel, illetve vízjogi engedély alapján végzi el.
+
+[^6]: A 8. § (2) bekezdésének c) pontja a 182/2009. (IX. 10.) Korm. rendelet 171. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 8. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 60. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^8]: 72/1996. (V. 22.) Korm. r. 10. §.
+[^9]: A 8. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 170. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
