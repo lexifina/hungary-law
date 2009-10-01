@@ -1,0 +1,1 @@
+A Rendőrségről szóló 1994. évi XXXIV. törvény 101. §-a (1) bekezdésének a) és d) pontjában kapott felhatalmazás alapján – a közlekedési, hírközlési és vízügyi miniszterrel egyetértésben – a következőket rendelem el:

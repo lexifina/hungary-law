@@ -1,0 +1,1 @@
+## 8. § A menetben lévő hajóknál és karavánoknál ellenőrizni kell a hajóút jelzőberendezésének védelmére, a vízszennyezés tilalmára, a hajók látható jelzéseire, a hajók hangjelzéseire, a közlekedés rendjére, egyes területeken a víziközlekedés korlátozására, továbbá lobogó viselésre vonatkozó szabályok megtartását.
