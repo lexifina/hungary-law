@@ -1,0 +1,1 @@
+A Kormány a kisajátításról szóló 2007. évi CXXIII. törvény 41. §-a (3) bekezdésének a) és b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
