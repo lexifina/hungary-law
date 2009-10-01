@@ -1,0 +1,1 @@
+37. § E törvény rendelkezései nem érintik a kiskereskedelmi, vendéglátóipari és fogyasztási szolgáltató tevékenységet végző állami vállalatok vagyonának privatizálásáról (értékesítéséről, hasznosításáról) szóló 1990. évi LXXIV. törvény előírásait.

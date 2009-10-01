@@ -1,0 +1,1 @@
+Az Országgyűlés a tulajdoni viszonyok átalakítása keretében, az önkormányzatok működéséhez szükséges vagyon biztosítása céljából, a helyi önkormányzatokról szóló 1990. évi LXV. törvényben meghatározott állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonába adása érdekében a következő törvényt alkotja:

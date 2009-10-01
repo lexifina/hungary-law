@@ -1,0 +1,1 @@
+48. § A mezőgazdasági szövetkezetek használatában lévő állami tulajdonú termőföld önkormányzatok tulajdonába kerülő körét a mezőgazdasági szövetkezetek földtulajdoni és használati viszonyainak rendezése keretében külön törvény szabályozza.í

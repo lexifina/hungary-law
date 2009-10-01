@@ -1,0 +1,5 @@
+33. § (1) Ha az állami tulajdonú ingatlant nem az arra jogosult szerv kezeli vagy nincs az ingatlannyilvántartásba kezelő bejegyezve a főpolgármester, a polgármester, illetve a megyei közgyűlés elnöke kérelmére a bizottság dönt az ingatlan önkormányzat tulajdonába adásáról, feltéve, hogy az Öt. hatálybalépése napján az ingatlan jogszerű kezelőjének a tanácsot, a tanács szervét, intézményét, illetve a közüzemét vagy a költségvetési üzemét kellett volna tekinteni. Ha az ingatlan nem kerülhet önkormányzat tulajdonába, a jogszerű kezelő kijelöléséről a bizottság dönt.
+
+(2) Azt az ingatlant, amelyet az Öt. hatálybalépése napján tanácsnak, vagy szervének, valamint intézményének, költségvetési üzemének kellett volna kezelnie, a bizottság e szervek jogutódjának minősülő önkormányzat tulajdonába adja. A műemlék épület és védett természeti terület, valamint a közüzemek ingatlanainak tulajdonba adásáról az e vagyontárgyakra vonatkozó szabályok szerint kell dönteni.
+
+(3) Az (1) bekezdés csak akkor alkalmazható, ha a törvény hatálybalépése napján más szerv előtt a kezelői jogot érintő eljárás nincs folyamatban.

@@ -1,0 +1,1 @@
+32. § A bizottság munkájának vízügyi-műszaki előkészítésében a vízügyi igazgatási szerv közreműködik és a bizottság tevékenységét szakvéleményével segíti. Az önkormányzatok tulajdonába kerülő vízügyi vagyontárgyak kijelölése során meg kell hallgatni a tanácsi alapítású víz-, csatorna- és fürdővállalat, illetőleg a regionális vízügyi vállalat képviselőjét.

@@ -1,0 +1,1 @@
+50. § A volt tanácsi közüzem tekintetében az alapítói jogokat gyakorló önkormányzatot, illetve önkormányzatokat — az érintettek megállapodásának hiányában — a bizottság jelöli ki, ha a közüzem működéséhez szükséges vagyon két vagy több önkormányzat tulajdonába került.

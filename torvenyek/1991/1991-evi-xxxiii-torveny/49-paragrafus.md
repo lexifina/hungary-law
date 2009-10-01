@@ -1,0 +1,1 @@
+49. § Az önkormányzatok törvényen és a bizottság döntésén alapuló tulajdonszerzése, illetve a tulajdonjog feladat- és hatáskör megváltozásával összefüggő átadása másik önkormányzatnak és az államnak adómentes.

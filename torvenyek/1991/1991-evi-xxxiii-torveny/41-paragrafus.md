@@ -1,0 +1,1 @@
+41. § Ha a megyei önkormányzat fenntartásában működő intézmény által nyújtott közszolgáltatást a nem megyeszékhely megyei jogú város átvállalja, a közszolgáltatást biztosító vagyont a használatába kell átadni. A használat átadására a 40. § rendelkezései az irányadók.

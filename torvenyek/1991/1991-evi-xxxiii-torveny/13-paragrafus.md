@@ -1,0 +1,1 @@
+13. § A tanácsi közüzem kezelésében álló, állami tulajdonú földön lévő temetőt az önkormányzat kérelmére a települési — fővárosban a kerületi — önkormányzat tulajdonába kell adni. A kerületi önkormányzat tulajdonába adott temetőben való temetkezés rendjére a fővárosi közgyűlés rendelete szabályokat állapíthat meg.
