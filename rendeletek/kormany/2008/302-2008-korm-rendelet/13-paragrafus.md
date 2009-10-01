@@ -1,0 +1,1 @@
+## „(12) A (4) bekezdésében meghatározott kármentesítési szakaszok eredményeit tartalmazó dokumentációkat – a felügyelőség által előírt példányszámban – papír alapon vagy számítógépes adathordozón lehet benyújtani.”
