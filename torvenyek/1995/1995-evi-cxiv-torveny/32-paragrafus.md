@@ -1,0 +1,7 @@
+32. § (1) Az etikai eljárás kezdeményezésére irányuló kérelmet az etikai bizottság elnöke az etikai bizottsághoz érkezésétől számított 15 napon belül megvizsgálja, és a (2)–(4) bekezdésben foglaltak szerint intézkedik, vagy a kezdeményezést elutasítja, ha annak feltételei fennállnak.
+
+(2) Ha a kezdeményezés elbírálására másik területi kamara illetékes, az etikai bizottság elnöke a kezdeményezést megküldi az illetékességgel rendelkező területi kamara etikai bizottságának, és erről a kezdeményezőt írásban tájékoztatja. Ha az a területi kamara, amelyhez a kezdeményezés megküldésre került azt állapítja meg, hogy az ügyre a megküldő területi kamara illetékes, a MISZK elnökségétől kéri az eljáró területi kamara kijelölését. Az etikai bizottság az illetékességét az eljárás teljes tartama alatt köteles vizsgálni.
+
+(3) Ha a kezdeményezés hiányos, az etikai bizottság elnöke azt a hiányok megjelölése mellett – 15 napos határidő kitűzésével – hiánypótlásra visszaadja, azzal a figyelmeztetéssel, hogy a kezdeményezést elutasítja, ha a kezdeményező a felhívásban felsorolt hiányokat nem pótolja.
+
+(4) Ha a kérelem megfelel a törvény rendelkezéseinek, továbbá ha a kezdeményező a kérelem hiányait a megadott határidőben pótolta, az etikai bizottság elnöke határozattal kijelöli az eljáró etikai tanácsot. A határozatot kézbesíteni kell a kezdeményezőnek és a panaszolt szakértőnek; a panaszolt szakértő példányához a kezdeményezést és annak mellékleteit is csatolni kell.

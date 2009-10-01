@@ -1,0 +1,1 @@
+48/C. § A másodfokú etikai tanács a fellebbezést elutasítja, ha az nem a jogosulttól származik, vagy azt nem határidőben nyújtották be, továbbá ha azt olyan határozattal szemben terjesztették elő, amely ellen fellebbezésnek helye nincs.
