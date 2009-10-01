@@ -1,0 +1,3 @@
+1. § (1) A rendelet hatálya kiterjed a Magyarországon elektronikus hírközlési szolgáltatást nyújtó természetes személyre, jogi személyre és jogi személyiséggel nem rendelkező szervezetre (a továbbiakban: szolgáltató), az elektronikus hírközlési szolgáltatások előfizetőire és felhasználóira.
+
+(2) A rendelet hatálya nem terjed ki a titkos információgyűjtésre és a titkos adatszerzésre felhatalmazott szervezetek részére, valamint a büntetőeljárásról szóló 1998. évi XIX. törvény 200–206. §-a alapján végzett adatszolgáltatásra, valamint a zártcélú hálózat létesítésével és működtetésével összefüggő adatkezelésre.
