@@ -1,0 +1,1 @@
+A Kormány a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 34. § (1) bekezdésének d) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
