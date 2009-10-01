@@ -1,0 +1,1 @@
+A cselekvőképességgel, gondnoksággal összefüggő, valamint egyes törvények módosításáról szóló 2001. évi XV. törvény (a továbbiakban: Tv.) 8. §-ának (1) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
