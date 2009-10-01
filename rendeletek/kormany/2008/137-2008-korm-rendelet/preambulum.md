@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva, a felsőoktatásról szóló 2005. évi CXXXIX. törvény 153. § (1) bekezdésének 6. pontjában foglalt felhatalmazás alapján a következő rendeletet alkotja:

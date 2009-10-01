@@ -1,0 +1,9 @@
+# 137/2008. (V. 16.) Korm. rendelet
+
+az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-137-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-01 | 2008-137-20-22.4 | 137/2008. (V. 16.) Korm. rendelet |
