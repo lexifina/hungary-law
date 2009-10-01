@@ -1,0 +1,1 @@
+A magyar állampolgárságról szóló 1993. évi LV. törvény (a továbbiakban: Ápt.) 24. §-ának (4) bekezdésében foglalt felhatalmazás alapján az állampolgársági eljárás részletes szabályairól a Kormány a következő rendeletet alkotja:

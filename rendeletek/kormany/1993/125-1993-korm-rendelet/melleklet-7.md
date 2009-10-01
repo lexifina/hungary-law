@@ -1,0 +1,89 @@
+## A Magyar Köztársaság Elnökének
+
+## Budapest
+
+## A magyar állampolgárság megszerzésére irányuló
+
+## NYILATKOZAT
+
+## 1957. október 1-je előtt született személy részére
+
+## Alulírott .............................................. kijelentem, hogy a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. § (1) bekezdés c) pontja alapján a magyar állampolgárságot meg kívánom szerezni.
+
+## 1957. október 1-je előtt születtem, születésemkor anyám magyar állampolgár volt.
+
+## A kérelmező személyi adatai:
+
+| 1. Házassági neve: Születési családi neve: Születési utóneve(i): Előző (születési) családi neve: Előző utóneve(i): Születési helye: (ország) .............…................ (város, község) ..... (kerület) Születési ideje: .......…………... év hó ......………….. nap Állampolgársága(i): Jelenlegi állampolgárságát mikor és milyen jogcímen szerezte: |
+
+## A kérelmező felmenőire vonatkozó adatok:
+
+| 2. Apja neve: Apja születési helye: .............................. ideje: Apja állampolgársága a kérelmező születésekor: Apja volt-e magyar állampolgár: Ha igen, mikortól meddig: |
+
+| 3. Anyja születési családi és utóneve: Anyja születési helye: ........................... ideje: Anyja állampolgársága a kérelmező születésekor: Anyja szerzett-e, és ha igen, mikor és milyen jogcímen külföldi állampolgárságot: Anyai nagyapja neve: születési helye: ............................. ideje: Anyai nagyanyja születési neve: születési helye: ............................ ideje: Anyai nagyszülei házasságkötésének helye és ideje: |
+
+| 4. Szülei házasságkötésének helye: ............…..... (ország) ..........…......... (város, község) ...……………... (kerület) ideje: ............................................ |
+
+## Egyéb adatok:
+
+| 5. A kérelmező lakóhelye: (ország) ⬜⬜⬜⬜ (város/község) (utca) ............... (hsz.) ...... (em.) ......... (ajtó) (Ha Magyarországon él, telefonszáma: ) (Ha külföldön él, a bizonyítvány továbbítását az alábbi címre kéri: ) |
+
+| 6. Családi állapota: A következő rovatokat megszűnt házasság esetén is szíveskedjék kitölteni! Házasságkötésének helye: .........................………………....... ideje: Házastársa születési neve: házassági neve: születési helye: .................…………………….............. ideje: állampolgársága: Elváltaknál a házasságot felbontó bíróság megnevezése: Az ítélet száma: Jogerőre emelkedésének ideje: Özvegyeknél a házastárs halálesetének helye és ideje: Ha jelenlegi házassága nem az első: Előző házasságkötésének helye és ideje: az Ön házassági neve az előző házasságkötése után: családi és utóneve e házasság megszűnése után: Előző házastársa születési neve: születési helye: ...................……………………........ ideje: állampolgársága: Előző házassága megszűnésének módja, helye és ideje: |
+
+| 7. Magyarországi lakóhely esetén: Magyarországi tartózkodására jogosító engedélyének, okiratának – típusa: – száma: – kelte: – érvényességi ideje: Az engedélyt kiadó hatóság megnevezése: |
+
+| 8. Külföldi lakóhely esetén: Mikor hagyta el Magyarországot: Utolsó magyarországi lakcíme: Ha soha nem élt Magyarországon, édesanyja (szülei, nagyszülei) mikor távoztak külföldre: Édesanyja (szülei, nagyszülei) utolsó magyarországi lakcíme: |
+
+## 9. Hozzátartozója az elmúlt tíz évben szerzett-e magyar állampolgárságot: igen – nem*
+
+## (Szülő, nagyszülő, testvér stb.)
+
+## A hozzátartozó neve:
+
+## Születési helye: ..............................…………………...... ideje:
+
+## Az állampolgársági okirat száma:
+
+## A hozzátartozó neve:
+
+## Születési helye: ..............................…………………...... ideje:
+
+## Az állampolgársági okirat száma:
+
+## Kijelentem, hogy a fenti adatok a valóságnak megfelelnek.
+
+## Mellékletek:
+
+## (A csatolt mellékleteket szíveskedjék aláhúzással vagy más módon megjelölni!)
+
+## – születési anyakönyvi kivonat;
+
+## – családi állapot igazolására: házassági anyakönyvi kivonat, elhunyt házastárs halotti anyakönyvi kivonata, jogerős bontóítélet;
+
+## – szülei házassági anyakönyvi kivonata;
+
+## – édesanyja születési anyakönyvi kivonata;
+
+## – édesanyja magyar állampolgárságának igazolására szolgáló okirat: ....……………...............
+
+## – egyéb okmány: ..................................................................................…………………………
+
+## Kelt: .................................................
+
+|  | ......................................... |
+
+|  | kérelmező aláírása |
+
+## A kérelmező aláírását hitelesítem.
+
+## A kérelmező személyazonosságát ....................................... típusú .................... számú személyazonosságot igazoló okirattal igazolta.
+
+## P. H.
+
+|  | .............................……………............... |
+
+|  | anyakönyvvezető/konzul aláírása |
+
+7. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^57]
+
+[^57]: A 7. számú mellékletet a 103/2001. (VI. 21.) Korm. rendelet 10. §-a iktatta be, szövege a 119/2005. (VII. 28.) Korm. rendelet 9. §-ával megállapított, valamint a 303/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének a) pontja, a 366/2006. (XII. 28.) Korm. rendelet 5. § (5) bekezdése, a 116/2007. (V. 24.) Korm. rendelet 12. § (2) bekezdésének b) pontja, a 97/2008. (IV. 29.) Korm. rendelet 4. § 42. pontja, a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 51. pontja, a 117/2009. (VI. 4.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
