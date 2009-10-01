@@ -1,0 +1,5 @@
+## 17. § Ha a szállítás lebonyolítása bármilyen fizikai akadályba ütközik vagy a szállítás feltételeit e rendelettel összhangban nem teljesítették, a Hivatal elrendeli, hogy a kérdéses radioaktív hulladékot vagy kiégett fűtőelemet annak birtokosa visszaszállítsa, vagy lehetővé teszi a kérelmező számára esetleges sugárvédelmi és szándékos károkozás elleni védelmi korrekciós biztonsági intézkedések megtételét. Ha szükséges, a Hivatal elrendelheti, hogy a kérelmező megtegye a sugárvédelmi és szándékos károkozás elleni védelmi korrekciós biztonsági intézkedéseket.
+
+18. § (1) Ha a Hivatal úgy határoz, hogy a szállítás nem bonyolítható le, mivel a szállítás e rendelet szerinti feltételei a továbbiakban már nem teljesülnek, vagy nem felelnek meg az e rendeletnek megfelelően megadott engedély vagy hozzájárulás feltételeinek, akkor a Hivatal az érintett tagállamok és harmadik országok hatóságait haladéktalanul tájékoztatja erről a határozatáról.
+
+(2) A kérelmező viseli az azon esetekben felmerülő költségeket, amelyekben a szállítás lebonyolítása bármilyen fizikai vagy jogi akadályba ütközik.

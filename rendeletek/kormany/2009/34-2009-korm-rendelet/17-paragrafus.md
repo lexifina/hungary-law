@@ -1,0 +1,1 @@
+## Korrekciós biztonsági intézkedések megtétele
