@@ -1,0 +1,1 @@
+## 16. § A működésképtelenné vált helyi önkormányzatok kiegészítő támogatásánál az igénylésekre előírt, illetve az érdemi döntést megalapozó tartalmi, formai követelmények meglétét, valamint a szükséges esetekben az elszámolás helyességét kell vizsgálni.

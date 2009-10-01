@@ -1,0 +1,3 @@
+## 1. §[^1] A Magyar Államkincstár Területi Igazgatóságai (a továbbiakban: Igazgatóságok) és a Magyar Államkincstár (a továbbiakban: Kincstár) az Áht. 64/A–64/D. §-aiból, 121. §-ának (3) bekezdéséből, valamint az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet 52/A–52/C. §-aiból eredő, a helyi, helyi kisebbségi önkormányzatok, valamint a települési önkormányzatok többcélú kistérségi társulásai (a továbbiakban: együtt: helyi önkormányzatok) központi költségvetési kapcsolatokból származó forrásai igénybevétele és elszámolása szabályszerűségének felülvizsgálatára irányuló feladataikat e rendelet szabályai szerint végzik.
+
+[^1]: Az 1. § a 2/2006. (I. 19.) PM rendelet 1. §-ával megállapított szöveg.
