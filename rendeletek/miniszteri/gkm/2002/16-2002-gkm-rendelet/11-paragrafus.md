@@ -1,0 +1,7 @@
+## Egyéb intézkedések
+
+11. § (1) A hajózási hatóság a mentesítési bizonyítványt kiállító állam hatóságának felkérése alapján azzal együttműködik annak érdekében, hogy a mentességek helytállóságával kapcsolatos nézeteltérések az első különleges szemlét megelőzően rendeződjenek, és a fogadó állam hatósága által kiállított mentesítési bizonyítványt elfogadja.
+
+(2) A menetrend szerinti szolgáltatásban a kompot, illetve a gyorsjáratú kompot üzemeltető vállalkozás köteles a hajófedélzeti vészhelyzetek esetére szóló, és az A.852(20) IMO közgyűlési határozatával összhangban lévő, integrált intézkedési tervet készíteni és alkalmazni. A vállalkozásnak az integrált intézkedési tervet a fogadó állam hatóságával együttműködve kell elkészítenie. A hajózási hatóság ellenőrzi, hogy a vállalkozás az intézkedési tervet elkészítette-e.
+
+(3) A hajózási hatóság a fogadó állam hatóságát a Gyorsjáratú Vízijárművek Szabályzatának 1.9.3. bekezdésének rendelkezéseivel összhangban teljeskörűen bevonja a gyorsjáratú komp biztonsági bizonyítványának kiállítására irányuló eljárásba. A hajózási hatóság a fogadó állam, illetve államok hatóságával együttműködve gondoskodik arról, hogy a helyi körülmények által megkívánt, az emberélet, a természetes erőforrások és a tengerparti tevékenységek védelméhez szükséges üzemeltetési korlátozásokat megállapítsák és betartsák, továbbá intézkedéseket hoz e korlátozások érvényesítése érdekében.
