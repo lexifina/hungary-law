@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 12/B. §-ának (6) bekezdésében, valamint a 124. §-a (2) bekezdésének y) pontjában kapott felhatalmazás alapján a következőket rendeli el:
