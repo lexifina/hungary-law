@@ -1,0 +1,1 @@
+Az Országgyűlés az alapvető emberi jogok sérelmével elkövetett jogtalanságok következtében maradandó fogyatékosságot vagy súlyos egészségkárosodást elszenvedetteknek, életvesztés esetén hozzátartozóiknak nemzeti gondozásáról a következő törvényt alkotja.
