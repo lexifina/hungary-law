@@ -1,0 +1,5 @@
+3/A. §[^3] (1) Az iparügyekért felelős miniszter rendeletében meghatározott hegesztett szerkezet szerelésénél, átalakításánál, javításánál az ömlesztőhegesztés és az ezzel összefüggő egyéb tevékenység csak az iparügyekért felelős miniszter rendeletében meghatározott engedéllyel végezhető. Az engedélyező hatóság az engedéllyel rendelkezőkről nyilvántartást vezet.
+
+(2) Az iparügyekért felelős miniszter rendeletében meghatározott kazánok és a hozzá tartozó berendezések, továbbá a hatósági felügyelet alá tartozó egyéb nyomástartó berendezések vegyi kezelésére irányuló tevékenységet csak az folytathat, aki rendelkezik az iparügyekért felelős miniszter rendeletében meghatározott engedéllyel. Az engedélyező hatóság az engedéllyel rendelkezőkről nyilvántartást vezet.
+
+[^3]: A 3/A. §-t a 211/2009. (IX. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
