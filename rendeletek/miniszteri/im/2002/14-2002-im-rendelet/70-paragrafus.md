@@ -1,0 +1,1 @@
+## Ügyelosztási módszer

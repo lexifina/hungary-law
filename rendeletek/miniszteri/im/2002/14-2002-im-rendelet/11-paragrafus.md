@@ -1,0 +1,11 @@
+11. § (1)[^6] Az iroda a jogosultságot az ügyiratok alapján állapítja meg. A felvilágosítást kérő személy azonosságát személyazonosító igazolvánnyal – ügyész, ügyvéd, jogtanácsos esetében ügyészi, ügyvédi, jogtanácsosi igazolvánnyal (a foglalkoztatását igazoló okirattal) – kell igazolni. Az ügyvédi irodával (ügyvéddel) munkaviszonyban álló dolgozó – ide nem értve az alkalmazott ügyvédet – kizárólag az e § (5) bekezdésében felsorolt felvilágosítás kérésére és a már megrendelt másolatok átvételére jogosult; e jogosultságát pedig csak akkor gyakorolhatja, ha az ügyvédi iroda (ügyvéd) képviseleti jogosultsága az ügy irataiból kitűnik és a dolgozó a munkaviszonyát igazolja. Az ügyvédjelölt azon a bíróságon ahol törvény alapján eljárhat, az ügyvédre vonatkozó szabályok szerint, azon a bíróságon pedig ahol törvény alapján nem járhat el, az ügyvédi irodával (ügyvéddel) munkaviszonyban álló dolgozóra vonatkozó szabályok szerint jogosult felvilágosítás kérésére.
+
+(2) Ha a felvilágosításra fogvatartásban lévő személy jogosult, s e célból a bíróságra vezetése nem lehetséges, az iroda – bírói utasításra – az iratokat a bíróság székhelyén lévő bv. intézetnek az erre rendszeresített átadókönyvvel átadja; a bíróság székhelyén kívüli bv. intézetnek pedig megküldi. Az így átadott iratot, illetve megküldött iratokat a bv. intézet lehetőleg még az átvétel napján, de legkésőbb három munkanapon belül köteles visszajuttatni.
+
+(3) A (2) bekezdés alapján átadott, illetve megküldött iratok közül azokat, amelyeknek a megtekintését a tanács elnöke nem engedélyezte, illetve amelyekről felvilágosítás nem adható, az iroda az iratok közül kiemeli, és az iratok visszaérkezéséig zárt borítékban kezeli.
+
+(4) A felvilágosítás során gondoskodni kell az iratok megőrzéséről, épségüknek védelméről.
+
+(5) A felvilágosításra jogosult személynek a tárgyalás (meghallgatás) helyéről és időpontjáról, az iratok hollétéről, arról, hogy az ügyben érkezett-e szakértői vélemény, továbbá terjesztettek-e elő jogorvoslati kérelmet, távközlési eszközön is adható felvilágosítás, ha az ügy és a felvilágosítást kérő személy azonosításához szükséges adatokat közli.
+
+[^6]: A 11. § (1) bekezdése a 22/2004. (V. 18.) IM rendelet 4. §-a szerint módosított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

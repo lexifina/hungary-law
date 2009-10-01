@@ -1,0 +1,1 @@
+A polgári perrendtartásról szóló 1952. évi III. törvény (Pp.) 395. §-ának (3) bekezdésében és a büntetőeljárásról szóló 1998. évi XIX. törvény (Be.) 604. §-a (2) bekezdésének o) pontjában kapott felhatalmazás alapján – az Országos Igazságszolgáltatási Tanáccsal (OIT) egyetértésben – a következőket rendelem el:

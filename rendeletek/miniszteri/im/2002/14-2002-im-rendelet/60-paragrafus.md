@@ -1,0 +1,3 @@
+60. § (1) A cégbíróság az eredeti cégiratot más hatósághoz nem küldheti meg, kivéve, ha a nyomozó hatóság, az ügyész, vagy a bíróság írásszakértői vizsgálatot rendelt el és az a cégbíróságon nem végezhető el, továbbá, ha az illetékhivatal megkeresésére a visszatérítendő illetékkel ellátott iratot kell megküldeni. A cégbíróság a megkereső hatóság költségére, az eredeti iratról – illetékhivatali megkeresés esetén az iratról – fénymásolatot készít, és azt pótborítékban tartja az irat visszaérkeztéig.
+
+(2) Az iratot a szakértői vizsgálatot elrendelő hatóság és az illetékhivatal külön kézbesítővel szállíthatja el és vissza a cégbíróságnak, továbbá azt csak a vizsgálat időtartamára tarthatja magánál.

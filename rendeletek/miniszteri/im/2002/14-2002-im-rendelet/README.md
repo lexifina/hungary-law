@@ -1,0 +1,9 @@
+# 14/2002. (VIII. 1.) IM rendelet
+
+a bírósági ügyvitel szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-14-20-06
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-01 | 2002-14-20-06.13 | 14/2002. (VIII. 1.) IM rendelet |

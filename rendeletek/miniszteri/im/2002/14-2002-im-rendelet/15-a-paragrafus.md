@@ -1,0 +1,1 @@
+## 15. § Ha a bíróság okirat vagy egyéb melléklet kiadását rendelte el, ennek átvételét a másolat átvételéhez hasonlóan kell igazolni. Ha hiteles másolat csatolása szükséges a kiadáshoz, azt a kérelmező költségére a bíróság készíti el az okirat (melléklet) vagy a kérelmező által benyújtott másolat felhasználásával.
