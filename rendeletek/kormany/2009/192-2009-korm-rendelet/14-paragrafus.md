@@ -1,0 +1,1 @@
+## Gazdálkodó szervezetek nyilvántartása
