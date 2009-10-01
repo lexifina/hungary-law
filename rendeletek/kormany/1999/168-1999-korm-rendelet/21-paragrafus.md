@@ -1,0 +1,1 @@
+## 20. § A menekült jogállású személy kérelméhez csatolni kell egy darab fényképet. A fénykép hátoldalára a menekültügyi hatóság feltünteti a menekültkénti elismerésről szóló hatósági határozat számát, továbbá a fényképnek a menekültként elismert személlyel való azonosságát bélyegzőlenyomattal és aláírással igazolja.

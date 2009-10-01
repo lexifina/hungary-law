@@ -1,0 +1,1 @@
+## Alapvető rendelkezések
