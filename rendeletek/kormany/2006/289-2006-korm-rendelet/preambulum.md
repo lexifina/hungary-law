@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, és az Alkotmány 40. §-ának (3) bekezdésében meghatározott feladatkörében eljárva, valamint a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101/A. §-ában kapott felhatalmazás alapján a következőket rendeli el:
