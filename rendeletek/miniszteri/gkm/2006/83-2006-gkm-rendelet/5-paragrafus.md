@@ -1,0 +1,3 @@
+5. §[^4]
+
+[^4]: Az 5. §-t a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 42. pontja hatályon kívül helyezte.
