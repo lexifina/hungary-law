@@ -1,0 +1,1 @@
+Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok önkormányzati elveken alapuló, köztestületi formában működő szakmai szervezete szervezze és intézze a vadászati tevékenység gyakorlásával összefüggő egyes közfeladatokat, továbbá elismerve a vadászok szakmai önkormányzathoz való jogát, a következő törvényt alkotja:

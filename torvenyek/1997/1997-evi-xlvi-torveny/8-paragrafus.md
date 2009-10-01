@@ -1,0 +1,1 @@
+8. § A területi közgyűlés az alapszabályban meghatározott számú, de legalább három tagból álló területi etikai bizottságot választ. A választás során biztosítani kell az egyes kamarai osztályok megfelelő képviseletét. A területi etikai bizottság elnökét – annak tagjai közül – a területi közgyűlés választja meg.
