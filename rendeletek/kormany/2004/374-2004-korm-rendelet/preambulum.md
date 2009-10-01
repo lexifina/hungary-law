@@ -1,0 +1,1 @@
+A Kormány a Kiváló Művész, az Érdemes Művész és a Népművészet Mestere járadékáról szóló 2004. évi CVI. törvény (a továbbiakban: Tv.) 6. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
