@@ -1,0 +1,1 @@
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 110. §-ának (7) bekezdése q) pontjában kapott felhatalmazás alapján a következőket rendeli el:
