@@ -1,0 +1,18 @@
+10/A. §[^36] (1)[^37] Az a terv vagy beruházás, amely az ott megtalálható élővilágra vonatkozó adatok alapján jelentős hatással lehet valamely Natura 2000 területen előforduló, annak kijelölésének alapjául szolgáló, a 2. B) vagy 3. B) mellékletben felsorolt kiemelt közösségi jelentőségű fajra vagy a 4. B) mellékletben felsorolt kiemelt közösségi jelentőségű élőhelytípusra, – a (3) bekezdés kivételével – kizárólag kiemelt fontosságú közérdekből fogadható el, illetőleg engedélyezhető.
+
+(2) Az (1) bekezdés alkalmazása szempontjából kiemelt fontosságú közérdeknek minősül az emberi egészség és élet védelme, a köz biztonságának a fenntartása, valamint a környezet szempontjából kiemelt jelentőségű kedvező hatás elérése.
+
+(3)[^38] A Natura 2000 területen előforduló kiemelt közösségi jelentőségű élőhelytípusra vagy kiemelt közösségi jelentőségű fajra várhatóan jelentős hatással lévő olyan terv vagy beruházás elfogadása, illetőleg engedélyezése előtt, amelyhez – a (2) bekezdésben felsoroltakon kívül – egyéb kiemelt fontosságú közérdek fűződik, ki kell kérni az Európai Bizottság véleményét. Egyéb kiemelt fontosságú közérdeknek minősülhetnek különösen a 4. § (2) bekezdés a) pontjában foglalt, az ország társadalmi-gazdasági fejlődését szolgáló célok.
+
+(4)[^39] A (3) bekezdés szerinti beruházás engedélyezése előtt az Európai Bizottság véleményét a felügyelőség a 8. számú melléklet szerinti adatlap alapján – az államtitokról és szolgálati titokról szóló külön törvényben foglaltak figyelembevételével – a miniszter útján kéri ki.
+
+(5)[^40]
+
+(6)[^41] A (3) bekezdés szerinti terv elfogadása előtt az Európai Bizottság véleményét a 8. számú melléklet szerinti adatlapon országos hatáskörű szerv által kidolgozott terv esetén a miniszter, minden más esetben – a miniszter útján – a felügyelőség kéri ki.
+
+[^36]: A 10/A. §-t a 201/2006. (X. 2.) Korm. rendelet 10. §-a iktatta be.
+[^37]: A 10/A. § (1) bekezdése a 266/2008. (XI. 6.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^38]: A 10/A. § (3) bekezdése a 266/2008. (XI. 6.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^39]: A 10/A. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 375. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A 10/A. § (5) bekezdését a 266/2008. (XI. 6.) Korm. rendelet 7. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^41]: A 10/A. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 375. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
