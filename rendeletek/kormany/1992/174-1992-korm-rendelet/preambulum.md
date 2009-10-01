@@ -1,0 +1,1 @@
+A Kormány az 1951 és 1956 közötti időszakban társadalmi hovatartozásuk, politikai meggyőződésük miatt hátrányos megkülönböztetéssel járó katonai munkaszolgálatot teljesített személyek társadalombiztosítási és munkajogi helyzetének rendezése érdekében a következőket rendeli el:
