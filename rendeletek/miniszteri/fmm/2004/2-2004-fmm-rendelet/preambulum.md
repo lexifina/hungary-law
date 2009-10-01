@@ -1,0 +1,1 @@
+A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 41/A. §-ának (4) bekezdésében foglalt felhatalmazás alapján – az Országos Érdekegyeztető Tanács egyetértésével – a következőket rendelem el:

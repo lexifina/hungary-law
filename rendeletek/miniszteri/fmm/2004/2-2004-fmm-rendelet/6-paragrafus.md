@@ -1,0 +1,1 @@
+## 5. § A minisztérium törli a számítógépen vezetett nyilvántartásból a kollektív szerződést, ha külön jogszabályban meghatározott módon tudomást szerez a kollektív szerződés hatályának megszűnéséről. Erről a feleket – a nyilvántartási szám közlésével – tájékoztatja.
