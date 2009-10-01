@@ -1,0 +1,1 @@
+6. § A vízügyi hatóság dönt az árvízi tározóba történő sorolás megszüntetéséről, ha annak feltételei már nem állnak fenn. A jogerős határozatot megküldi az ingatlanügyi hatóságnak az árvízi tározó jogi jelleg ingatlan-nyilvántartásból történő törlése céljából.

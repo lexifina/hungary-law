@@ -1,0 +1,1 @@
+4. § A VTT keretében megvalósuló árvízi tározók és a nagyvízi mederben történő beavatkozások beruházója a Kormány által rendeletben kijelölt vízügyi igazgatási szerv (a továbbiakban: beruházó), amely szerv a hatósági és az egyéb igazgatási eljárások során jár el.
