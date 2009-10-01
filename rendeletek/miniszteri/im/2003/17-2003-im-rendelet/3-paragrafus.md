@@ -1,0 +1,40 @@
+## 2. §[^2] Ha az ügyész vagy a bíróság, illetve a büntetés-végrehajtási bíró (a továbbiakban a bíróság és a büntetés-végrehajtási bíró együtt: bíróság) pártfogó felügyelői vélemény beszerzését rendeli el, annak elkészítésére a terhelt lakóhelye (tartózkodási helye) szerint illetékes megyei (fővárosi) igazságügyi hivatal Pártfogó Felügyelői Szolgálatát (a továbbiakban: megyei hivatal) rendeli ki, s azt a megyei hivatal igazgatója által kijelölt pártfogó felügyelő készíti el.
+
+3. § (1) A pártfogó felügyelői vélemény I. része az ügyre és a terheltre vonatkozó adatokat tartalmazza.
+
+(2) Az ügyre vonatkozóan a pártfogó felügyelői vélemény rögzíti
+
+a) a vélemény beszerzését elrendelő hatóságot, székhelyét, ügyszámát, az elrendelés idejét, a vélemény elkészítésének határidejét,
+
+b) a büntetőeljárás jellegét,
+
+c) a cselekmény Btk. szerinti minősítését,
+
+d) az elkövetés időpontját,
+
+e) az illetékes megyei hivatalt, annak címét, az érkeztetés időpontját,
+
+f) a véleményben közreműködő megyei hivatalt,
+
+g) a véleményt készítő pártfogó felügyelő nevét,
+
+h) a beszerzett okiratokat, igazolásokat, egyéb mellékleteket.
+
+(3) A terheltre vonatkozóan a pártfogó felügyelői vélemény rögzíti
+
+a)[^3] természetes személyazonosító adatait, lakcímét és tartózkodási helyét,
+
+b) a családi állapotát,
+
+c) a munkaviszony (az iskolarendszerű tanulói jogviszony) adatait (munkáltató, illetve tanintézmény megnevezése, telephelye, illetve címe, a terhelt beosztása, munkaköre, illetve tancsoportja),
+
+d) a szakképzettségét, foglalkozását,
+
+e) az egészségi állapotát,
+
+f) az esetleges káros szenvedélyeit,
+
+g) a jövedelmi, vagyoni viszonyait.
+
+[^2]: A 2. § a 12/2006. (III. 23.) IM rendelet 14. §-ával megállapított szöveg.
+[^3]: A 3. § (3) bekezdésének a) pontja a 41/2009. (IX. 15.) IRM rendelet 33. § (1) bekezdésével megállapított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

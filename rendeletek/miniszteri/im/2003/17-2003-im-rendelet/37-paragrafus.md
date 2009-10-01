@@ -1,0 +1,1 @@
+## 36. § A Bvtvr. 96. §-ának b) pontja szerinti munkavégzési kötelezettség nem vonatkozik arra a pártfogoltra, aki nevelési-oktatási intézmény nappali tagozatának tanulója, vagy foglalkoztatást elősegítő képzésben vesz részt, és az eltartása családon belül vagy otthont nyújtó ellátás keretében biztosított.

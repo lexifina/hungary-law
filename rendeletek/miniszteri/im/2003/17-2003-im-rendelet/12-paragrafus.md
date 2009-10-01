@@ -1,0 +1,3 @@
+12. § (1) Ha az elítélt a jogerősen kiszabott közérdekű munka büntetésének letöltését azért nem kezdte meg, illetve a közérdekű munka végrehajtására szóló felhívás a részére azért nem volt kézbesíthető, mert a kézbesítő jelentése szerint az elítélt a felhívást a kézbesítés kétszeri megkísérlése után sem vette át, illetőleg a megjelölt címen ismeretlen, vagy onnan ismeretlen helyre távozott, a pártfogó felügyelő e körülményt jelzi az illetékes büntetés-végrehajtási bírónak.
+
+(2) Ha az elfogatóparancs kiadásának megszűnési okát a pártfogó felügyelő észleli, indítványozza a büntetés-végrehajtási bírónál az elfogatóparancs visszavonását.
