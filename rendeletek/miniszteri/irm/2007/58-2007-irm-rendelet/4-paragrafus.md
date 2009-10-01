@@ -1,0 +1,1 @@
+## 3. § A közvetítői eljárás befejezése után a közvetítői eljárást lefolytató ügyvéd a jelentés elkészítését követő nyolc napon belül visszaküldi a közvetítői eljárás iratanyagát a pártfogó felügyelői szolgálatnak. A közvetítőként eljáró ügyvédet megillető eljárási díj kifizetésére az iratanyag pártfogó felügyelői szolgálathoz történt visszaérkezése után kerül sor.

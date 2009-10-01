@@ -1,0 +1,1 @@
+A büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény 24. § (4) bekezdésében foglalt felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § h) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
