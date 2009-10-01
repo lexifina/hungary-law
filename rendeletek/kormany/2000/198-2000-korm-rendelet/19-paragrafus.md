@@ -1,0 +1,1 @@
+## Önálló zálogjog

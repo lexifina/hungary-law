@@ -1,0 +1,1 @@
+## Kérelem elutasítása

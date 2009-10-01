@@ -1,0 +1,1 @@
+## 45. § Ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá, csatolni kell a meghatalmazást is, amelyet a bejegyzés alapjául szolgáló okiratra előírt alakszerűségek szerint kell kiállítani.
