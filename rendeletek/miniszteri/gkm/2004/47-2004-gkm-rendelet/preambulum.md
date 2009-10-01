@@ -1,0 +1,1 @@
+A víziközlekedésről szóló 2000. évi XLII. törvény 88. §-a (2) bekezdésének d) és v) pontjában kapott felhatalmazás alapján – figyelemmel a nemzetközi tengeri forgalom könnyítéséről szóló, Londonban, 1965. évi április hó 9. napján kelt egyezmény kihirdetéséről szóló 1977. évi 16. törvényerejű rendelet 4. § (2) bekezdésében foglaltakra – a következőket rendelem el:
