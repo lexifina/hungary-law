@@ -1,0 +1,5 @@
+## 51. § Hatályát veszti a büntető ügyekben közvetítői tevékenységet végző ügyvéd képesítési követelményeiről, díjazásáról és iratkezeléséről szóló 58/2007. (XII. 23.) IRM rendelet 4. §-ában az „ , az Igazságügyi Minisztérium Pártfogó Felügyelői Szolgálat egységes iratkezeléséről szóló 18/2003. (VI. 24.) IM rendelet (a továbbiakban: Pir.) 8. § (3)–(4) bekezdésének, 14. § (2) bekezdésének, 15. § c) pontjának, 18. §-ának, 25/A. §-ának, 26. §-ának, 27. §-ának, 29. §-ának, 30. §-ának, 32. §-ának, 33. §-ának, 34. § (1) bekezdésének, 36. § a) pont 1–2. alpontjának, 38. § a) pontjának, 39/A–39/C. §-ának, 40. §-ának, 43. § (1) bekezdés c)–e) pontjának, 44. §-ának, 45. §-ának” szövegrész.
+
+## A katonai alakulatok és szállítmányok államhatáron történő átléptetéséről, a nemzetközi forgalom számára ideiglenesen megnyitott repülőtéren közlekedő légi járművek határforgalmi ellenőrzéséről, valamint a menet közbeni ellenőrzésre kijelölt vasútvonalakról és víziutakról szóló
+
+## 68/2007. (XII. 28.) IRM rendelet módosítása

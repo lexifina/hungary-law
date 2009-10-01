@@ -1,0 +1,1 @@
+## 25. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 16. számú melléklete helyébe e rendelet 2. melléklete lép.

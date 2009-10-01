@@ -1,0 +1,1 @@
+## 37. § A közúti közlekedési igazgatási hatósági eljárások díjairól szóló 29/2004. (VI. 16.) BM rendelet 2. § (1) bekezdésében az „az illetékes külön” szövegrész helyébe az „a külön” szöveg, 3. § (1) bekezdésében a „határozata” szövegrész helyébe a „döntése” szöveg, az „a hatósági eljárás” szövegrész helyébe az „az elsőfokú eljárás” szöveg lép.

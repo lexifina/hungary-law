@@ -1,0 +1,1 @@
+## 21. § Az okmányirodák működésének személyi és technikai feltételeiről szóló 58/1999. (XII. 30.) BM rendelet 2. számú melléklete I. pontjában a „Színes CCD kamera” szövegrész helyébe a „Színes CCD kamera, ujjnyomatszkenner” szöveg, 2. számú melléklete II. pontjában az „Asztali UV lámpa” szövegrész helyébe az „Asztali UV lámpa, POS-terminál” szöveg lép.

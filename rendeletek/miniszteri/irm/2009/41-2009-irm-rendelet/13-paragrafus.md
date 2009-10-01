@@ -1,0 +1,1 @@
+## „11. § Az atomenergia alkalmazása körében történő foglalkoztatás rendőrségi engedélyezésére a nukleáris létesítmény székhelye (telephelye), a nukleáris, radioaktív anyag, illetve ionizáló sugárzást létrehozó berendezés tárolásának, őrzésének helye vagy az atomenergia alkalmazójának székhelye (telephelye) szerinti megyei (fővárosi) rendőr-főkapitányság illetékes.”
