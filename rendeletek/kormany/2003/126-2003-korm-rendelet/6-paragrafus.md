@@ -1,0 +1,17 @@
+## 5. § A területi hulladékgazdálkodási terveket a külön jogszabályban[^1] meghatározott tervezési statisztikai (nagy) régiókra vonatkozóan kell elkészíteni.
+
+6. § (1)[^2] A környezetvédelmi és vízügyi igazgatóság (a továbbiakban: igazgatóság) a területi hulladékgazdálkodási terv készítése során bekéri a területi hulladékgazdálkodási terv tervezetére a tervezési területtel érintett e rendelet 2. számú mellékletében meghatározott közigazgatási szervek, a helyi önkormányzatok, az érintett érdek-képviseleti szervek, valamint a környezetvédelmi társadalmi szervezetek által külön jogszabályban meghatározottak alapján delegált személyek véleményét.
+
+[(1)[^3] A környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továbbiakban: felügyelőség) a területi hulladékgazdálkodási terv készítése során bekéri a területi hulladékgazdálkodási terv tervezetére a tervezési területtel érintett e rendelet 2. számú mellékletében meghatározott közigazgatási szervek, a helyi önkormányzatok, az érintett érdek-képviseleti szervek, valamint a környezetvédelmi társadalmi szervezetek véleményét.]
+
+(2)[^4] Az (1) bekezdésben foglaltak teljesítése érdekében a területi hulladékgazdálkodási terv elkészítéséért felelős igazgatóság írásban megkeresi az (1) bekezdésben megjelölt érintetteket. Ezzel egyidejűleg a területi hulladékgazdálkodási terv tervezetét elektronikus adathordozó útján megküldi a külön jogszabály szerinti társadalmi szervezetek képviselői, e rendelet 2. számú mellékletében meghatározott közigazgatási szervek, valamint a tervezési területen működő helyi önkormányzatok részére, és értesíti őket arról, hogy hivatali helyiségében a területi hulladékgazdálkodási terv tervezete nyomtatott formában megtekinthető.
+
+[(2)[^5] Az (1) bekezdésben foglaltak teljesítése érdekében a területi hulladékgazdálkodási terv elkészítéséért felelős felügyelőség írásban megkeresi az (1) bekezdésben megjelölt érintetteket. Ezzel egyidejűleg a területi hulladékgazdálkodási terv tervezetét elektronikus adathordozó útján megküldi a társadalmi szervezetek, e rendelet 2. számú mellékletében meghatározott közigazgatási szervek, valamint a tervezési területen működő helyi önkormányzatok részére, és értesíti őket arról, hogy hivatali helyiségében a területi hulladékgazdálkodási terv tervezete nyomtatott formában megtekinthető.]
+
+(3) Az (1) bekezdésben meghatározott szervek a megkereséstől számított 30 napon belül jogosultak véleményt nyilvánítani a területi hulladékgazdálkodási tervről.
+
+[^1]: A területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény.
+[^2]: A 6. § (1) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 25. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 6. § (1) bekezdése a 344/2009. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg. [E módosító rendelet 28. § (2) bekezdése alapján a rendelkezés 2011. január 15. napján lép hatályba.]
+[^4]: A 6. § (2) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 25. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^5]: A 6. § (2) bekezdése a 344/2009. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg. [E módosító rendelet 28. § (2) bekezdése alapján a rendelkezés 2011. január 15. napján lép hatályba.]

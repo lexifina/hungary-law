@@ -1,0 +1,1 @@
+## 8. § A helyi hulladékgazdálkodási terv csomagolási és veszélyeshulladék-gazdálkodási részterve tartalmazza a települési hulladékok elkülönített begyűjtésére, válogatására, továbbá a kezelő létesítménybe való szállítására vonatkozó követelményeket, amennyiben a helyi önkormányzat területén folynak ilyen irányú tevékenységek.
