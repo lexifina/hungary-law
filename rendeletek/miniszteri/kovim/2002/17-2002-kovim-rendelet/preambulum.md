@@ -1,0 +1,1 @@
+A víziközlekedésről szóló 2000. évi XLII. törvény 88. § (2) bekezdésének h) és j) pontjában kapott felhatalmazás alapján, valamint figyelemmel a nemzetközi jelentőségű víziutakról szóló európai megállapodás kihirdetéséről szóló 151/2000. (IX. 1.) Korm. rendelet 3. § (2) bekezdésében foglaltakra, a következőket rendelem el:
