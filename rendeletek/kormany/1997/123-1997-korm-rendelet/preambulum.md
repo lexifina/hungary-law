@@ -1,0 +1,1 @@
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény – 14. §-ának (2) bekezdésében foglaltakra figyelemmel – a 45. §-a (7) bekezdésének a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
