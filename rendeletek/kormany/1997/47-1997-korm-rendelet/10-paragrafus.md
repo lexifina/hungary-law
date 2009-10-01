@@ -1,0 +1,1 @@
+## 9. § A lakáselőtakarékoskodó a szerződés módosítása nélkül bármikor jogosult a lakáskölcsön törlesztése során rendkívüli – a szerződésben meghatározott törlesztőrészletnél magasabb – törlesztés teljesítésére. A rendkívüli törlesztést külön díj, illetőleg költség nem terhelheti.
