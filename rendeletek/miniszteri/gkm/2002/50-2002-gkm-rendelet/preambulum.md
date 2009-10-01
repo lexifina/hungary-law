@@ -1,0 +1,1 @@
+A víziközlekedésről szóló 2000. évi XLII. törvény 88. § (2) bekezdésének k) pontjában és az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (4) bekezdésében kapott felhatalmazás alapján a belügyminiszterrel egyetértésben a következőket rendelem el:
