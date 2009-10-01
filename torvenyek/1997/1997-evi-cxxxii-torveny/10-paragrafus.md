@@ -1,0 +1,7 @@
+10. § (1) A fióktelep nem folytathat a külföldi vállalkozás nevében képviseleti tevékenységet.
+
+(2) A külföldi vállalkozás a fióktelep cégneve alatt szerzett vagyonról, jogokról, illetve vállalt kötelezettségekről saját cégneve alatt csak a fióktelep megszűnésekor, illetve az e törvényben meghatározott fizetésképtelenségi eljárások során, valamint a fióktelep cégneve alatt szerzett vagyonnal, jogokkal, kötelezettségekkel összefüggésben külföldön indított eljárások során rendelkezhet.
+
+(3) Nem lehet a fióktelep képviselője az a magánszemély, akit bűncselekmény elkövetése miatt jogerősen szabadságvesztésre ítéltek, amíg a büntetett előélethez fűződő hátrányos jogkövetkezmények alól nem mentesült. Akit valamely foglalkozástól jogerős bírói ítélettel eltiltottak, az ítélet hatálya alatt az abban megjelölt tevékenységet folytató fióktelep képviseletére nem jogosult.
+
+(4) A fióktelep képviseletére jogosult személyek, továbbá azoknak a Ptk. 685. § b) pontja szerinti közeli hozzátartozói saját nevükben csak akkor köthetnek a fióktelep tevékenységi körébe tartozó ügyleteket, ha azt a fióktelep létesítéséről szóló okirat vagy a külföldi székhelyű vállalkozás írásbeli határozattal engedélyezi. A külföldi székhelyű vállalkozás írásbeli engedélye szükséges ahhoz is, hogy a fióktelep képviseletére jogosult személy a fiókteleppel azonos tevékenységet folytató más gazdálkodó szervezetben részesedést szerezzen, ide nem értve a nyilvánosan működő részvénytársaságban történő részvényszerzést.

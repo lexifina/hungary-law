@@ -1,0 +1,5 @@
+## Bankképviselet, biztosító intézet képviselete
+
+31. § (1) A külföldi székhelyű hitelintézet bankképviseletének, továbbá a külföldi székhelyű biztosító, biztosításközvetítő, biztosítási szaktanácsadó magyarországi képviseletének létesítésére, működésére és megszüntetésére az e törvényben foglaltakat akkor kell alkalmazni, ha külön törvény másképp nem rendelkezik.
+
+(2) A tőkepiacról szóló 2001. évi CXX. törvény hatálya alá eső befektetési alapkezelési, elszámolóházi, tőzsdei tevékenységgel, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény hatálya alá eső befektetési szolgáltatási tevékenységgel, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatással és árutőzsdei szolgáltatási tevékenységgel, továbbá a közraktározásról szóló 1996. évi XLVIII. törvény hatálya alá eső közraktározási tevékenységgel összefüggő szerződéseket devizakülföldinek belföldön létesített képviselete nem kötheti meg Magyarországon.

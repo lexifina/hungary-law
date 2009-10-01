@@ -1,0 +1,1 @@
+8. § Ha nemzetközi szerződés ettől eltérően nem rendelkezik, törvény előírhatja, hogy valamely vállalkozási tevékenység folytatására kizárólag valamely EGT-államban letelepedett vállalkozás vagy az ilyen vállalkozás legalább többségi tulajdonában lévő, valamely EGT-államban letelepedett szervezet jogosult.

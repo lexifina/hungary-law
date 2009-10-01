@@ -1,0 +1,9 @@
+## Fizetésképtelenség esetén követendő eljárás
+
+19. § (1) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi eljárás (csőd-, felszámolási, illetve azokkal egy tekintet alá eső eljárás) megindítását a fióktelepnek a cégbíróságnál a külföldi eljárás megindításától számított tíz napon belül be kell jelentenie, s egyidejűleg a Cégközlönynél közlemény megjelentetését kell kezdeményeznie. Ebben tájékoztatást kell adnia arról, hogy a hitelezők külföldön – az ott megindult eljárásban – milyen módon érvényesíthetik követeléseiket.
+
+(2) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi eljárás a magyarországi fióktelepre nemzetközi szerződés vagy viszonosság esetében, továbbá a Tanácsnak a fizetésképtelenségi eljárásról szóló 1346/2000/EK rendeletében foglaltak szerint terjed ki.
+
+(3) Ha a külföldi vállalkozás ellen külföldön – személyes joga alapján indított – fizetésképtelenségi eljárás a (2) bekezdésben említett nemzetközi szerződés, illetve viszonosság hiányában a fióktelepre nem terjed ki, vagy az 1346/2000/EK rendeletben foglaltakat kell alkalmazni, a fióktelep bejegyzésének helye szerinti megyei bíróság – a cégbíróság értesítése alapján (az 1346/2000/EK rendelet hatálya alá eső eljárásokban pedig a külföldön indult fizetésképtelenségi eljárásban eljáró felszámoló értesítése alapján) – hivatalból rendeli el a fióktelep felszámolását.
+
+(4) A fióktelep felszámolására irányuló eljárásra a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi IL. törvény (a továbbiakban: Cstv.) I., III. és IV. fejezetében foglaltakat kell alkalmazni 22. § és az 1346/2000/EK rendelet szerinti eltérésekkel. Az eljárás befejeződése után fennmaradó vagyonnal a külföldi vállalkozás, illetve a külföldi fizetésképtelenségi eljárásban eljáró – a vállalkozás vagyonával kapcsolatosan jognyilatkozatok tételére jogosult – felszámoló rendelkezik.

@@ -1,0 +1,3 @@
+12. § (1) A fióktelep könyvvezetésére, éves beszámoló készítésére, a beszámoló nyilvánosságra hozatalára és közzétételére vonatkozó előírásokat, valamint az ezekkel összefüggő sajátos szabályokat és mentességeket a számviteli törvény, illetve az annak felhatalmazása alapján kiadott kormányrendelet tartalmazza.
+
+(2) A külföldi vállalkozás éves beszámolójának egy hiteles másolati példányát a fióktelepnek a cégbíróságnál a tárgyévet követő év szeptember 30-áig letétbe kell helyeznie, s ezzel egyidejűleg közzé kell tennie. Közzétételi kötelezettség alatt a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat részére történő megküldést kell érteni.

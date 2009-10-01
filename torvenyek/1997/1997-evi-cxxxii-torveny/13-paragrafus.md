@@ -1,0 +1,1 @@
+13. § A fióktelep – ha törvény másképp nem rendelkezik – devizabelföldinek minősül. A belföldiekre irányadó szabályok szerint kell a külkereskedelmi szerződéseket is megkötnie, illetve az engedélyköteles ügyletek esetén – ha jogszabály másképp nem rendelkezik – az engedélyeket beszereznie.

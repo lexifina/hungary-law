@@ -1,0 +1,1 @@
+28. § A külföldi vállalkozásnak a Magyarországon létesített kereskedelmi képviselete tevékenységéhez szükséges ingatlan tulajdonjoga megszerzésének feltételeire, valamint a kereskedelmi képviselet megszüntetése esetén az ingatlantulajdonnal kapcsolatos eljárásra a 17. §-ban foglaltakat kell alkalmazni.

@@ -1,0 +1,3 @@
+20. § (1) Ha a külföldi vállalkozás a magyarországi fióktelep útján folytatott vállalkozási tevékenységével összefüggésben fizetésképtelenné válik, és a fizetésképtelenségi eljárásokra nézve a külföldi vállalkozás államával nincs nemzetközi szerződés vagy viszonossági gyakorlat, a hitelezők a fióktelep felszámolását kérhetik a fióktelep bejegyzése szerinti megyei bíróságtól. Az eljárásra a Cstv. I., III. és V. fejezetében foglaltakat kell alkalmazni a 22. § szerinti eltérésekkel. A felszámolási eljárást a bíróság megszünteti, ha a külföldi vállalkozás vagy a fióktelep az eljárásban bejelentett hitelezői igények kielégítésére biztosítékot nyújt.
+
+(2) Az eljárás befejeződése után fennmaradó vagyonnal a külföldi vállalkozás az általános szabályok szerint rendelkezik.

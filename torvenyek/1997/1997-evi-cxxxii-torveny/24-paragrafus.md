@@ -1,0 +1,9 @@
+## A pénzügyi szektor szolgáltatásaira, továbbá a kockázati tőkebefektetésekre létesített fióktelep
+
+24. § (1) Külföldi székhelyű hitelintézet, pénzügyi vállalkozás, biztosító, biztosításközvetítő, biztosítási szaktanácsadó magyarországi fióktelepe, továbbá a külföldi székhelyű vállalkozás befektetési, kiegészítő befektetési, árutőzsdei szolgáltatást, valamint befektetési alapkezelési, elszámolóházi, tőzsdei, továbbá közraktározási tevékenységet végző belföldi fióktelepe (a továbbiakban: pénzügyi fióktelep) létesítésére, működésére, állami felügyeletére, ellenőrzésére, továbbá megszüntetésére, illetve a fizetésképtelenségi eljárásokra az e törvényben foglaltakat akkor kell alkalmazni, ha a külön törvény másként nem rendelkezik.
+
+(2) A valamely EGT-államban bejegyzett külföldi vállalkozás pénzügyi fióktelepe az alapítással jön létre, és Magyarországon a külön törvényben foglaltak szerint kezdheti meg működését, mellyel egyidejűleg benyújtja a cégbejegyzésre vonatkozó kérelmét is.
+
+(3) A valamely EGT-államban székhellyel rendelkező külföldi vállalkozás által létesített pénzügyi fióktelep az alapítója nevében, képviseletében jár el, továbbá a 10. § (1)–(2) bekezdésében foglaltakat nem kell rá alkalmazni.
+
+(4) A kockázati tőkebefektetésekről, a kockázati tőketársaságokról, valamint a kockázati tőkealapokról szóló törvény hatálya alá tartozó fióktelep tevékenységének engedélyezésére, működésére, felügyeletére, ellenőrzésére, továbbá megszüntetésére az e törvényben foglaltakat akkor kell alkalmazni, ha a külön törvény másként nem rendelkezik.
