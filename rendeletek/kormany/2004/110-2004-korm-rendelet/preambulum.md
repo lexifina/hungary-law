@@ -1,0 +1,1 @@
+A Kormány az európai uniós csatlakozással összefüggő egyes törvénymódosításokról és törvényi rendelkezések hatályon kívül helyezéséről szóló 2004. évi XXIX. törvényben foglalt felhatalmazás alapján a következőket rendeli el:
