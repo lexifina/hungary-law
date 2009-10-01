@@ -1,0 +1,7 @@
+22. § (1) Országos kiterjedésű ,,M'' zártcélú távközlő hálózat tervezéséről, előkészítéséről, rendeltetésszerű használatra alkalmas állapotban tartásáról, ellenőrzéséről, gyakoroltatásáról, finanszírozásáról a hálózatgazda gondoskodik.
+
+(2) A helyi közigazgatási, mozgósítási feladatokat szolgáló ,,M'' zártcélú távközlő hálózatok (összeköttetések) előkészítését és finanszírozását a Hvt.-ben, illetve a Vhr.-ben meghatározottak szerint, a helyi védelmi igazgatás szintjén, a megyei védelmi bizottság koordinálásával végzik.
+
+(3)[^31] Az országos vagy helyi előkészített távközlő hálózat (összeköttetés) kialakítására, továbbá aktivizálásra alkalmas állapotban tartására és üzembe helyezésének rendjére vonatkozó szerződést – a műszaki feltételek megléte esetén – a megrendeléstől számított 60 napon belül meg kell kötni. Ha ezen idő alatt a szerződés nem jön létre, a hálózatgazda igénybevételi hatósági eljárást kezdeményezhet a Hvt. 194. §-ában, illetve a Vhr. 155–167. §-ában foglaltak szerint, országos hálózat esetében a közigazgatási informatikáért felelős miniszternél, helyi hálózat esetében a hírközlési hatóságnál.
+
+[^31]: A 22. § (3) bekezdése a 176/2007. (VII. 1.) Korm. rendelet 16. § (2) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 140. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
