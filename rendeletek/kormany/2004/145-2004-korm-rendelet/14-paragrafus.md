@@ -1,0 +1,1 @@
+14. § Ez a rendelet – a 13. § (2) bekezdésben foglalt kivétellel – a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló szerződést kihirdető törvény hatálybalépése napján lép hatályba.
