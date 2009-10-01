@@ -1,0 +1,3 @@
+5. § (1) A légiforgalmi irányító szakszolgálati engedély az engedélyest feljogosítja, hogy a szakszolgálati engedélybe bejegyzett jogosításnak, jogosítás-kiterjesztésnek és munkahelyi kiterjesztésnek megfelelő légiforgalmi irányító szolgálati tevékenységet lásson el.
+
+(2) A légiforgalmi irányító szakszolgálati engedélybe be nem jegyzett jogosításnak, jogosítás-kiterjesztésnek, munkahelyi kiterjesztésnek megfelelő légiforgalmi irányító szolgálati tevékenységet az engedélyes képzés keretében, munkahelyi kiterjesztéssel és munkahelyi gyakorlati oktató kiterjesztéssel rendelkező engedélyes felügyelete mellett láthat el.

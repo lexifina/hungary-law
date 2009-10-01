@@ -1,0 +1,21 @@
+## A légiforgalmi tiszt szolgálati tevékenység
+
+## ellátására való jogosultság korlátozása
+
+33. § (1) Az engedélyes a légiforgalmi tiszt szakszolgálati engedély érvényességén belül is legalább 3 éve érvényes légiforgalmi tiszt szakszolgálati engedéllyel és megfelelő jogosítással, – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztéssel rendelkező személy felügyelete mellett láthat el szolgálati tevékenységet,
+
+a) ha a szakszolgálati engedélyébe bejegyzett jogosításnak és – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztésnek megfelelő szolgálati tevékenység folyamatos ellátásában 90 napnál hosszabb időtartamú megszakítása volt,
+
+b) ha a továbbképzési követelményeket nem teljesítette, vagy
+
+c) ha a szaktudását nem megfelelőnek értékelik, de a szakszolgálati engedélyét a légiközlekedési hatóság nem függesztette fel.
+
+(2) Az (1) bekezdésben meghatározott esetekben a továbbképzési program határozza meg a munkahelyi gyakorlati oktató felügyelete mellett eltöltendő időtartamot.
+
+(3) Az engedélyes a légiforgalmi tiszt szakszolgálati engedély érvényességén belül nem láthat el szolgálati tevékenységet, ha
+
+a) a 37. §-ban meghatározott feltételek fennállnak vagy
+
+b) olyan, a szolgálati tevékenység ellátására hátrányosan ható szer befolyása alatt áll, amely képtelenné teheti arra, hogy feladatát biztonságosan és megfelelően lássa el.
+
+(4) Az engedélyes a (3) bekezdésben meghatározott tényt köteles a szolgáltatónak haladéktalanul bejelenteni.

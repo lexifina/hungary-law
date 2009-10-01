@@ -1,0 +1,1 @@
+A légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (1) bekezdés l) pontjában, valamint 74. § (2) bekezdésének e) és k) pontjában kapott felhatalmazás alapján, a gazdasági és közlekedési miniszter feladat- és hatásköréről szóló 163/2006. (VII. 28.) Korm. rendelet 1. § e) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
