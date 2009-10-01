@@ -1,0 +1,6 @@
+37. §[^30] (1)[^31] A koporsós temetésre szolgáló temetési helyre sírnyitási engedéllyel – a sír megfelelő mélyítésével, alapméretenként egymás fölé helyezve – további, legfeljebb egy elhalt vagy a szabályzatban rögzített, a kistérségi intézet által engedélyezett számú, 25 évnél régebbi holttestmaradvány temethető rá. Fertőző betegségben elhunyt sírhelyére csak a kistérségi intézet engedélye alapján lehet rátemetni. Ez esetben a rátemethető elhaltak számát a kistérségi intézet korlátozhatja. Rátemetés esetén – a 25 évnél régebben temetett és exhumált maradvány kivételével – biztosítani kell a temetési hely legalább 25 éves használatát. Rátemetés esetén a meghosszabbított sírhelyhasználati időre vonatkozó arányos sírhelyhasználati díjat kell megfizetni.
+
+(2) Az elhalálozástól számított 5 éven belül sír (sírbolt) felnyitására engedély csak hamvasztás, más temetési helyre való áthelyezés és rátemetés céljából, illetve a nyomozó hatóság rendelkezésére adható.
+
+[^30]: A 37. § a 121/2005. (VI. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^31]: A 37. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 177–178. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

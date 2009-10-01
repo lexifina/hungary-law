@@ -1,0 +1,21 @@
+36. §[^29] (1) A rátemetés, valamint a holttest újratemetése vagy hamvasztása céljából történő sírnyitást – a (3) bekezdésben foglalt kivétellel – a temetési hely felett rendelkezni jogosult vagy annak örököse kérheti a kistérségi intézettől. A kérelemhez csatolni kell:
+
+a) az eltemetett halott halotti anyakönyvi kivonatát vagy a temetkezési hely sírboltkönyv-kivonatát, amely tartalmazza az adott sírhelyen koporsóban vagy urnában eltemetettek számát, valamint a temetés időpontját;
+
+b) a halottvizsgálati bizonyítvány hiteles másolatát;
+
+c) ha a kérelmező örökös, az öröklést igazoló okiratot.
+
+(2) A halottvizsgálati bizonyítvány hiteles másolatát az elhalálozás helye szerint illetékes anyakönyvvezető adja ki.
+
+(3) Az eltemetéstől számított huszonöt éven túl a halál okát nem kell vizsgálni. Ezen időponton túl a sírnyitáshoz nem kell a kistérségi intézet engedélyét beszerezni.
+
+(4) A kiürítéssel összefüggésben szükséges áttemettetés vagy hamvasztás céljából történő sírnyitás esetén a sírnyitási engedély az eltemetésre kötelezettek sorrendjét figyelembe véve más kötelezettnek is kiadható, ha az eltemettető (örököse) hitelt érdemlően nyilatkozik, hogy nem kíván gondoskodni az áttemettetésről vagy hamvasztásról. A kistérségi intézet szükség szerint, de legalább a kiürítés megkezdésekor ellenőrzi a kiürítést.
+
+(5) A hamvasztás célját szolgáló sírnyitási engedélyt meg kell adni, ha a halál nem rendkívüli módon következett be.
+
+(6) Tudományos, illetve kutatási célból történő sírnyitás esetén a sírnyitás célját is igazolni kell.
+
+(7) Ha az (1) és (2) bekezdés szerinti okiratot a kérelmező nem csatolja, a kistérségi intézet a rátemetés, valamint a holttest újratemetése vagy hamvasztása céljából történő sírnyitáshoz adatszolgáltatás iránti kérelemmel fordul az okiratban meghatározott adatokról nyilvántartást vezető hatósághoz, a sírboltkönyvet vezető üzemeltetőhöz vagy bírósághoz. A megkeresett temetőüzemeltető az adatszolgáltatási kérelmet egy munkanapon belül köteles teljesíteni.
+
+[^29]: A 36. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
