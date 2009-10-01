@@ -1,0 +1,1 @@
+## 13. § A rendelet 1. mellékletében foglaltaktól eltérően 2012. december 31-ig a kereskedés és értékesítés üzletághoz tizenöt százalékos súlyt lehet rendelni, ha a befektetési vállalkozás kereskedés és értékesítés üzletághoz kapcsolódó irányadó mutatója eléri az üzletági irányadó mutatók összegének ötven százalékát.
