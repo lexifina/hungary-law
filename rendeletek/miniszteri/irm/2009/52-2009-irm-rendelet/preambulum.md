@@ -1,0 +1,1 @@
+A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 18. § (2) bekezdésében kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § n) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
