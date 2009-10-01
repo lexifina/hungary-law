@@ -1,0 +1,1 @@
+A Kormány annak érdekében, hogy a „Sikeres Magyarországért Panel Plusz” Hitelprogram keretében nyújtott kölcsönt a szociálisan hátrányos helyzetű családok is igénybe tudják venni, az alábbi rendeletet alkotja:
