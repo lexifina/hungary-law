@@ -1,0 +1,1 @@
+Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény (a továbbiakban: Tv.) 21. §-ának (2) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
