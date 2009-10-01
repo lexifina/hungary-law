@@ -1,0 +1,3 @@
+6. § (1) A kártalanítási igényt – a (2) bekezdésre figyelemmel – a tulajdonos, illetve jogszerű használó, ideértve a földtulajdonhoz kötődő vagyoni értékű jog jogosultját is (a továbbiakban együtt: kártalanításra jogosult) nyújtja be, akinek az 5. § (1) bekezdés szerinti korlátozást, tilalmat, ideiglenes védetté nyilvánítást megállapító határozat, illetve egyéb hatósági kötelezés jogerőre emelkedésekor és a kár bekövetkezésekor is az ingatlan a tulajdonában, illetve jogszerű használatában állt, illetőleg azon más jogszerű tevékenységet folytatott.
+
+(2) Kártalanítási igény benyújtására a kártalanításra jogosult örököse, illetve jogutódja jogosult, ha az (1) bekezdés szerinti határozat jogerőre emelkedése és a kár bekövetkeztét követően vált örökössé, illetve jogutóddá.
