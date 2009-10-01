@@ -1,0 +1,1 @@
+50. § Ha a szerző a mű felhasználásához hozzájárult, a felhasználáshoz elengedhetetlen vagy nyilvánvalóan szükséges, a mű lényegét nem érintő változtatásokat köteles végrehajtani. Ha e kötelezettségének nem tesz eleget, vagy nem tud eleget tenni, a felhasználó a változtatásokat hozzájárulása nélkül is végrehajthatja.

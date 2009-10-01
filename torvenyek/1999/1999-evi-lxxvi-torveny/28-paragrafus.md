@@ -1,0 +1,11 @@
+28. § (1) A szerző kizárólagos joga, hogy a sugárzással nyilvánossághoz közvetített művét sugárzással továbbközvetítse, és hogy erre másnak engedélyt adjon.
+
+(2) A szerzőnek az is kizárólagos joga, hogy a rádió- vagy televízió-szervezet, illetve a saját műsort a nyilvánossághoz vezeték útján vagy másként közvetítő műsorában sugárzott, illetve közvetített művének sugárzással, vezeték útján vagy egyéb módon – az eredetihez képest más szervezet közbeiktatásával – a nyilvánossághoz történő egyidejű, változatlan és csonkítatlan továbbközvetítésére engedélyt adjon.
+
+(3) A jogosultak a (2) bekezdésben meghatározott jogukat csak közös jogkezelés útján gyakorolhatják, díjukról csak a felosztás időpontját követő hatállyal, a rájuk jutó összeg erejéig mondhatnak le. A díjakat az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezet állapítja meg a többi jogosult közös jogkezelő szervezeteivel egyetértésben. A továbbközvetítő szervezet a megállapított díjat az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezetnek köteles befizetni.
+
+(4) A befolyt díjaknak a költségek levonása után fennmaradó összegéből – ha az érintett közös jogkezelő szervezetek évente március 31-ig másként nem állapodnak meg – tizenhárom százalék a filmgyártókat, tizenkilenc százalék a filmalkotások mozgóképi alkotóit, három százalék a képzőművészeket, az iparművészeket és a fotóművészeti alkotások szerzőit, tizennégy százalék a filmírókat, tizenöt és fél százalék a zeneszerzőket és zeneszöveg-írókat, huszonhat és fél százalék az előadóművészeket, valamint kilenc százalék a hangfelvétel-előállítókat illeti meg.
+
+(5) Az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezet a díjakból az általa a felosztást illetően nem képviselt műtípusok szerzőinek és szerzői jogi jogosultjainak, valamint az előadóművészeknek és a hangfelvétel-előállítóknak járó részt a jogosultak közös jogkezelő szervezeteinek utalja át.
+
+(6) A magyar közszolgálati műsorszolgáltató rádió- vagy televízió-szervezet műsorában sugárzott, vezetéken vagy másként közvetített művek továbbközvetítéséért járó díjakat a Műsorszolgáltatási Alapból kell megfizetni; erről az Alap kezelője gondoskodik.

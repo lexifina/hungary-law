@@ -1,0 +1,1 @@
+106/A. § E törvénynek a gyűjteményes műnek minősülő adatbázisok szerkesztőinek és az adatbázisok előállítóinak szerzői, illetve a XI/A. fejezet szerinti védelmére vonatkozó rendelkezései nem érintik a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló jogszabályok érvényesülését.

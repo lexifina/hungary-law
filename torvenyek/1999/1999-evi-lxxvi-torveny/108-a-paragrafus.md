@@ -1,0 +1,3 @@
+108/A. § (1) A 31. § és a 84. § rendelkezéseit – a 2001. évi LXXVII. törvény 13. §-a (7) bekezdésének első mondatában szabályozott kivétellel – alkalmazni kell olyan művekre és szomszédos jogi teljesítményekre is, amelyek védelmi ideje az Európai Gazdasági Térség legalább egy tagállamában még nem járt le 1995. július 1-jéig.
+
+(2) Az (1) bekezdésben említett művekre a 108. § (3)–(9) bekezdéseiben foglalt szabályok megfelelően irányadók azzal, hogy az 1994. évi VII. törvény és e törvény hatálybalépésén, illetve kihirdetésén az (1) bekezdés alkalmazásában a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépését, illetve kihirdetését kell érteni.

@@ -1,0 +1,3 @@
+84/D. § (1) Az e fejezetben szabályozott jogok a következő időtartamban részesülnek védelemben: az adatbázis első nyilvánosságra hozatalát követő év első napjától számított tizenöt évig, illetve az adatbázis elkészítését követő év első napjától számított tizenöt évig, ha ezalatt nem hozták nyilvánosságra az adatbázist.
+
+(2) Az adatbázisnak az (1) bekezdés szerint számított védelmi ideje újra kezdődik, ha az adatbázis tartalmát jelentősen megváltoztatják úgy, hogy annak eredményeként a megváltoztatott adatbázis önállóan is jelentős ráfordítással előállítottnak számít. Az adatbázis tartalmának jelentős megváltoztatása eredhet az egymást követő bővítések, elhagyások és módosítások halmozódásából is.

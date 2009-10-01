@@ -1,0 +1,3 @@
+## A szerzői joghoz kapcsolódó jogok megsértésének következményei
+
+99. § A 94–98. §-ok rendelkezéseit megfelelően alkalmazni kell a XI. és a XI/A. fejezet szabályainak megsértése esetén, illetve az e fejezetekben szabályozott jogokkal kapcsolatos műszaki intézkedések és jogkezelési adatok védelmére is. A XI/A. fejezet alkalmazásában a 95/A. § (1) bekezdésében meghatározott szabad felhasználási eseteken a 84/C. § (1) bekezdésben meghatározott – reprográfiával [21. § (1) bek.] történő – magáncélú másolást, valamint a 84/C. § (2)–(3) bekezdéseiben meghatározott szabad felhasználási eseteket kell érteni.

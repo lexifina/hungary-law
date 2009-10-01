@@ -1,0 +1,1 @@
+37. § Egyes művek az időszerű, napi eseményekről való tájékoztatás céljára – a cél által indokolt terjedelemben – szabadon felhasználhatók. Ilyen felhasználás esetén a forrást – a szerző nevével együtt – fel kell tüntetni, hacsak ez lehetetlennek nem bizonyul.

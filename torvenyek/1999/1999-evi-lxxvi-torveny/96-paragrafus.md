@@ -1,0 +1,5 @@
+## A jogkezelési adatok védelme
+
+96. § (1) A szerzői jog megsértésének következményeit kell alkalmazni a jogkezelési adat jogosulatlan eltávolítására vagy megváltoztatására, továbbá olyan művek jogosulatlan terjesztésére, terjesztés céljából történő behozatalára, sugárzására vagy a nyilvánossághoz másként történő közvetítésére, amelyekről eltávolították vagy amelyeken megváltoztatták a jogkezelési adatot, feltéve, hogy a felsorolt cselekmények bármelyikét elkövető személy tudja, vagy az adott helyzetben általában elvárható gondosság mellett e személynek tudnia kellene, hogy cselekményével lehetővé teszi, megkönnyíti vagy leplezi a szerzői jog megsértését, vagy mást arra indít.
+
+(2) Jogkezelési adat a jogosultaktól származó minden olyan adat, amely a művet, a szerzőt vagy a műre vonatkozó jogok más jogosultját azonosítja, vagy a felhasználás feltételeiről tájékoztat, ideértve az ilyen adatokat megjelenítő számokat vagy jelzéseket is, feltéve, hogy az adatokat a mű példányához kapcsolják, illetve a mű nyilvánossághoz történő közvetítésével összefüggésben jelenítik meg.

@@ -1,0 +1,1 @@
+32. § A szerző vagyoni jogaihoz igazodó terjedelmű jogi védelem illeti meg azt, aki a védelmi idő vagy a 31. § (7) bekezdésében meghatározott időtartam lejártát követően jogszerűen nyilvánosságra hoz valamely korábban még nyilvánosságra nem hozott művet. E védelem időtartama az első nyilvánosságra hozatalt követő év első napjától számított huszonöt év.

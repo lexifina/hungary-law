@@ -1,0 +1,1 @@
+55. § A felhasználási szerződésre vonatkozó rendelkezéseket megfelelően alkalmazni kell a szerzői vagyoni jogok átruházására irányuló szerződésekre, valamint az előadóművészi teljesítmények felhasználására vonatkozó szerződésekre is.

@@ -1,0 +1,1 @@
+54. § A felhasználási szerződés a jövőre nézve megszűnik a szerződésben megállapított idő elteltével vagy a szerződésben meghatározott körülmények bekövetkeztével, valamint akkor is, ha a védelmi idő eltelt.
