@@ -1,0 +1,1 @@
+Az illetékekről szóló, többször módosított 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében, valamint a lőfegyverekről és a lőszerekről szóló 2004. évi XXIV. törvény 22. §-ának (3) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
