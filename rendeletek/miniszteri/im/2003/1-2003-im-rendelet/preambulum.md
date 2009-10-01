@@ -1,0 +1,1 @@
+A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 604. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján a belügyminiszterrel, a pénzügyminiszterrel és a legfőbb ügyésszel egyetértésben a következőket rendelem el:
