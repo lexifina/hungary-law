@@ -1,0 +1,1 @@
+## 14. § A miniszter az idegenrendészetért és menekültügyért való felelőssége körében előkészíti a migrációs és menekültügyi politikát érintő kormányzati döntéseket, különös tekintettel a Magyar Köztársaság Migrációs Stratégiájára.
