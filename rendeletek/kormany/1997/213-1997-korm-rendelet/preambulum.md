@@ -1,0 +1,1 @@
+Az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: At.) 67. §-a j) pontjának felhatalmazása alapján a nukleáris létesítmények és radioaktív hulladék tárolók biztonsági övezetéről a Kormány az alábbiakat rendeli el:
