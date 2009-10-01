@@ -1,0 +1,9 @@
+# 103/2006. (IV. 28.) Korm. rendelet
+
+az építésüggyel kapcsolatos egyes szabályozott szakmák gyakorlásához kapcsolódó szakmai továbbképzési rendszer részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-103-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-01 | 2006-103-20-22.7 | 103/2006. (IV. 28.) Korm. rendelet |
