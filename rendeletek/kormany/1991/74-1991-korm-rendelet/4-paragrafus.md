@@ -1,0 +1,3 @@
+4. § (1) Annak, az e rendelet hatálya alá tartozó, az öregségi nyugdíjkorhatárt betöltött vagy rokkant személynek, aki nyugellátásban, baleseti nyugellátásban vagy a nyugdíjfolyósító szerv által folyósított nyugdíjszerű rendszeres szociális ellátásban nem részesül és utána házastársának (élettársának) sem folyósítanak házastársi pótlékot vagy házastárs után járó jövedelempótlékot, az 1. § alapján meghatározott összeget a lakóhelye szerinti önkormányzat folyósítja.
+
+(2) Az (1) bekezdésben megjelölt személy halála esetén az őt megillető összeg felét a házastárs (élettárs) részére kell folyósítani.

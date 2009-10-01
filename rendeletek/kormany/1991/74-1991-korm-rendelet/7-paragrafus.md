@@ -1,0 +1,1 @@
+## 6. § A személyes szabadságnak az 1. § (1) bekezdésben meghatározott okból történő korlátozása idejét társadalombiztosítási szempontból szolgálati időként, munkajogi szempontból munkaviszonyban töltött időként kell számításba venni.
