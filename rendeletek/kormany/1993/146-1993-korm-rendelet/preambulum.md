@@ -1,0 +1,1 @@
+A Kormány a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 47. §-ának (1) bekezdése a) és c) pontjaiban foglalt felhatalmazás alapján a következőket rendeli el:

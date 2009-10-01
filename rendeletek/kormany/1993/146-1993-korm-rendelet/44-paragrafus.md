@@ -1,0 +1,3 @@
+44. § (1) A nyilvántartó szerv, az üzemeltető, illetve az adatszolgáltatást közvetlenül (on-line) igénybe vevő szerv dolgozói csak meghatározott jelszó és azonosító használatával férhetnek hozzá az adatállományhoz, amelyek egyidejűleg meghatározzák az adathozzáférési jogosultság mértékét is.
+
+(2) A rendszer üzemeltetői csak az adatállományok kezelésére, a nyilvántartás szervei által jelentett változások átvezetésére, a szolgáltatásokkal kapcsolatos technikai feladatok ellátására, a számítógépes rendszer működéséhez szükséges beavatkozások elvégzésére jogosultak. Az üzemeltető az adatállományban szereplő adatokat más, általa kezelt nyilvántartáshoz törvényi felhatalmazás nélkül nem használhatja fel.

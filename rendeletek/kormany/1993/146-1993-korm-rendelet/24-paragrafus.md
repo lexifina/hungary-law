@@ -1,0 +1,1 @@
+24. § A polgár, jogi személy, vagy jogi személyiséggel nem rendelkező szervezet a nyilvántartásból adatszolgáltatást írásban — vagy jegyzőkönyvbe foglalva — kérhet. A kérelem mintáját a 2. számú melléklet tartalmazza.
