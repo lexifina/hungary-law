@@ -1,0 +1,1 @@
+16. § Jármű egyedi előállítása (összeépítése) vagy átalakítása abban az esetben engedélyezhető, ha a műszaki, közlekedésbiztonsági, környezetvédelmi és munkavédelmi követelmények mellett kielégíti az esztétikai igényeket is és a jármű létrehozása gazdasági vagy egyéb szempontból indokolt.
