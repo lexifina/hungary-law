@@ -1,0 +1,3 @@
+13. § (1) Ha a távhővezeték vezetékjogi engedély nélkül létesül, a vezeték elhelyezését és annak műszaki biztonsági feltételeit a biztonsági övezet megállapítására is tekintettel a Tszt. 23. § (2) bekezdésében megjelölt hatóság határozza meg.
+
+(2) Ha a vezetékjoggal érintett műszaki rendszer üzemszerű működése megszűnik, a megszűnést követő 1 éven belül az engedélyes köteles – az érintett tulajdonossal történt eltérő megállapodás hiányában – a távhővezetéket és tartószerkezetét az ingatlanról eltávolítani, és a területet rendezett állapotban a tulajdonos rendelkezésére bocsátani. A távhővezeték elbontása és a vezeték megszüntetése a Tszt. 23. § (2) bekezdésében megjelölt hatóság által kiadott bontási engedély alapján történik.

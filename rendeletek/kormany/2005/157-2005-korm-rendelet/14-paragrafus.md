@@ -1,0 +1,1 @@
+14. § Az engedélyező hatóság – az üzemelés biztonságának maradéktalan fenntartása mellett – elrendelheti a távhővezeték biztonsági övezetének csökkentését a távhővezeték és környezete biztonságát szolgáló más műszaki megoldás alkalmazásával. A biztonsági övezet csökkentését megalapozó műszaki megoldás költsége a kérelmezőt terheli.

@@ -1,0 +1,1 @@
+17. § A távhő vételezését korlátozó eszközök, berendezések beszerzése, felszerelése, üzemeltetése, karbantartása és ellenőrzése, és az ezekkel kapcsolatos költségek viselése a távhőszolgáltató kötelessége.

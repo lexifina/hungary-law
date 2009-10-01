@@ -1,0 +1,1 @@
+4. § A telephelyen 50 MW beépített összes hőteljesítménynél kisebb névleges teljesítményű távhőtermelő berendezés esetében a Tszt. 12. § (5) bekezdése szerinti egyszerűsített engedélyezési eljáráshoz a létesítési és működési engedély kérelmezőjének nem kell a 3. § (1) bekezdés k) pontban, valamint a 3. § (2) bekezdés d)–g) pontjaiban foglaltakat teljesítenie.

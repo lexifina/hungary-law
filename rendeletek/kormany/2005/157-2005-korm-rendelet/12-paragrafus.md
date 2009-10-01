@@ -1,0 +1,1 @@
+12. § A távhővezeték vagy tartószerkezetének létesítése, karbantartása, javítása, felújítása, átalakítása érdekében az idegen ingatlanon végzett munkák (a továbbiakban: idegen ingatlanon végzett munkák) megkezdése előtt legalább 15 nappal, az engedélyes köteles a munka megkezdéséről és idejéről a tulajdonost tájékoztatni.
