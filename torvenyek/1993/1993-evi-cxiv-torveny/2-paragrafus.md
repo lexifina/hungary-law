@@ -1,0 +1,1 @@
+2. § A törvény hatálya kiterjed a szarvasmarha, bivaly, juh, kecske, ló, szamár, sertés, baromfi, házinyúl, prémes állat, méh, hal, és az egyéb állatok gazdasági célú tenyész- és haszonérték növelő köztenyésztésére, valamint a vadászható vadfajok zárttéri, élelmiszer-termelési célú köztenyésztésére.
