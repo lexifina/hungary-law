@@ -1,0 +1,1 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 36. §-ában és a 110. § (7) bekezdésének a), f) és i) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § a) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
