@@ -1,0 +1,1 @@
+## 3. § Ha a kárpótlásra jogosult a kárpótlás formájára vonatkozó kérését [Tvn. 8. § (1) és (2) bek.] a határozat meghozatala előtt, de a Tvn. hatálybalépését követően – korábbi határozatának számára hivatkozással – bejelenti, a kárpótlást a kért formában kell megállapítani. A jogosultnak járó kárpótlás megállapításakor egyébként a Tv. 8. §-át megfelelően alkalmazni kell.

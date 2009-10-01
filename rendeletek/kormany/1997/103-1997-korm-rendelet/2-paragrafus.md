@@ -1,0 +1,6 @@
+2. § (1)[^3] A kárpótlási hatóság a Tv. 2. §-a alapján igényelt kárpótlás ügyében hozott határozatában arról rendelkezik, hogy a sérelmet szenvedett esetében az életelvesztésért jár-e kárpótlás, és ha igen, a kérelmet benyújtó hozzátartozót a kárpótlás összegének hányad része illeti meg.
+
+(2)[^4] Az (1) bekezdés szerint hozott határozatot a jogerőre emelkedését, illetőleg – ha ez később történik – a kárpótlás összegét megállapító törvény hatálybalépését követő 15 napon belül a kárpótlási hatóság megküldi a Nyugdíjfolyósító Igazgatóságnak (a továbbiakban: NYUFIG), amely a kárpótlás összegét megállapító törvény szerint fizeti ki a kárpótlást a jogosultnak. Az 5. § esetén a határozat továbbítására az ott meghatározottakat kell alkalmazni.
+
+[^3]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 2. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 111. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

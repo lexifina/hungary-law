@@ -1,0 +1,1 @@
+Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvényt (a továbbiakban: Tv.) módosító 1997. évi XXIX. törvény (a továbbiakban: Tvn.) 14. §-ának (8) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
