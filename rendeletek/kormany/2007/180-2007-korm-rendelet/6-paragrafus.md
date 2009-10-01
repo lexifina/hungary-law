@@ -1,0 +1,1 @@
+## 5. § Az e rendelet 2. §-ának (2) és (3) bekezdésében előírt tájékoztatási kötelezettség elmulasztása, illetve a hulladék jogellenes szállítása esetén a külön jogszabályban meghatározottak szerint hulladékgazdálkodási bírságot kell kiszabni.
