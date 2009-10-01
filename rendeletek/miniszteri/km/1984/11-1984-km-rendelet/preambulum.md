@@ -1,0 +1,1 @@
+A vasutakról szóló 1968. évi IV. törvény végrehajtására kiadott 40/1968. (X. 31.) Korm. rendelet – 22/1984. (VI. 14.) MT rendelettel módosított – 9. §-ában kapott felhatalmazás alapján az ipari és kereskedelmi miniszterrel és az érdekelt szakszervezetekkel egyetértésben a következőket rendelem:
