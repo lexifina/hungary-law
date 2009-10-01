@@ -1,0 +1,9 @@
+# 68/2007. (XII. 28.) IRM rendelet
+
+a katonai alakulatok és szállítmányok államhatáron történő átléptetéséről, a nemzetközi forgalom számára ideiglenesen megnyitott repülőtéren közlekedő légi járművek határforgalmi ellenőrzéséről, valamint a menet közbeni ellenőrzésre kijelölt vasútvonalakról és víziutakról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-68-20-1U
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-01 | 2007-68-20-1U.3 | 68/2007. (XII. 28.) IRM rendelet |
