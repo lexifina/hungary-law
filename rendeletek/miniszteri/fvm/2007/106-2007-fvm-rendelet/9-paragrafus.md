@@ -1,0 +1,1 @@
+## 8. § A történelmi bázis jogosultságok használati jogának, valamint a nemzeti történelmi bázis jogosultságok mennyiségének nyomon követése érdekében nyilvántartást kell működtetni. A nyilvántartás működtetését, illetve a működtetés kapcsán felmerülő hatósági feladatokat az MVH látja el.
