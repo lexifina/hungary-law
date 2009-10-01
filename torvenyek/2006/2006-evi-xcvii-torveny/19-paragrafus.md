@@ -1,0 +1,1 @@
+19. § A tagsági viszony felfüggesztéséről, illetőleg megszüntetéséről szóló döntést hozó szerv a jogerős határozatát megküldi az érintett személy egészségügyi tevékenységének megfelelő működési nyilvántartást vezető szervnek.

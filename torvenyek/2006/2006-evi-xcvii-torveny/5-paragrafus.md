@@ -1,0 +1,1 @@
+5. § A küldöttközgyűlés kizárólagos hatáskörébe nem tartozó, törvényben, valamint az alapszabályban meghatározott feladatok ellátására a küldöttközgyűlés országos ügyintéző szerveket és tisztségviselőket választ.
