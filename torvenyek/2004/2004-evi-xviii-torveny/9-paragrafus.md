@@ -1,0 +1,1 @@
+9. § Európai borszőlőfajta saját gyökerű szaporítóanyagával való telepítés és pótlás kizárólag filoxérának ellenálló homoktalajra engedélyezhető. A talaj e tulajdonságát laboratóriumi vizsgálattal kell igazolni.

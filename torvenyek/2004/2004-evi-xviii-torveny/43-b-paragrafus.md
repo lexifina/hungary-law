@@ -1,0 +1,5 @@
+43/B. § (1) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy a borszőlőültetvényt a telepítési engedélyben foglaltaktól eltérően telepítették, úgy a telepítőt megfelelő határidő kitűzésével felszólítja, hogy – a 7. § (2) bekezdésében meghatározott eljárásrend szerint – kezdeményezze a telepítési engedély módosítását, amennyiben az az ültetvény telepítésének engedélyezésében hozott döntést érdemben nem befolyásolja és a módosított döntés nem állapít meg a telepítő részére több jogot.
+
+(2) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy a telepítést – a telepítési engedélyben foglaltaktól eltérően – a termőhelyre nem engedélyezett borszőlőfajtával vagy a termőhelyen fel nem használható szaporítóanyaggal végezték, a növénytermesztési hatóság kezdeményezi a mezőgazdasági és vidékfejlesztési támogatási szervnél a borszőlőültetvény kivágásának elrendelését.
+
+(3) Amennyiben a telepítő kivágási kötelezettségének nem tesz eleget, úgy a mezőgazdasági és vidékfejlesztési támogatási szerv a borszőlőültetvényt kivágattatja.
