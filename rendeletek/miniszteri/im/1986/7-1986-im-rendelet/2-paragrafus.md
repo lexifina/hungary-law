@@ -1,0 +1,1 @@
+2. § Szövetkezeti szakcsoport és gazdasági munkaközösség szakfordító, illetőleg tolmácstevékenységet akkor folytathat, ha valamennyi – szakfordító, illetőleg tolmácsfeladatot ellátó – tagja rendelkezik szakfordító, illetőleg tolmácsképesítéssel.

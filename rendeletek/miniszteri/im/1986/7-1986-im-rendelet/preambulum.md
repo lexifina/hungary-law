@@ -1,0 +1,1 @@
+A szakfordításról és a tolmácsolásról szóló 24/1986. (VI. 26.) MT rendelet (a továbbiakban: R.) 7. §-ának (1) bekezdésében kapott felhatalmazás alapján – a 3–4. § tekintetében a belügyminiszterrel, a 6. § tekintetében a belügyminiszterrel és a legfőbb ügyésszel egyetértésben – a következőket rendelem:
