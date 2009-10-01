@@ -1,0 +1,1 @@
+A Kormány a növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény (a továbbiakban: Tv.) 30. §-ának (1) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
