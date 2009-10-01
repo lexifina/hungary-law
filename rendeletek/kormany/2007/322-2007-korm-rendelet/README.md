@@ -1,0 +1,9 @@
+# 322/2007. (XII. 5.) Korm. rendelet
+
+a kölcsönös megfeleltetési szabályok betartását ellenőrző szervekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-322-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-01 | 2007-322-20-22.3 | 322/2007. (XII. 5.) Korm. rendelet |
