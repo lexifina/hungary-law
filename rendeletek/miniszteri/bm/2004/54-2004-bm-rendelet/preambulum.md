@@ -1,0 +1,1 @@
+A nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény 4. §-a (2) bekezdésében és a Rendőrségről szóló 1994. évi XXXIV. törvény 101. §-a (1) bekezdésének k) pontjában kapott felhatalmazás alapján a következőket rendelem el:
