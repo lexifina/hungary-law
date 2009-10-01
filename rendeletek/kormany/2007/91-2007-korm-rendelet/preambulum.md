@@ -1,0 +1,1 @@
+A Kormány a természet védelméről szóló 1996. évi LIII. törvény (a továbbiakban: Tvt.) 85. §-ának a) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. §-ában kapott felhatalmazás alapján a következőket rendeli el:
