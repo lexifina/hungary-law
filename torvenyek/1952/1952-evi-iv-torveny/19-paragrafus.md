@@ -1,0 +1,1 @@
+Csjt. 19. § A házasság felbontása iránt a házastársnak a pert személyesen kell megindítania. Törvényes képviselőjének hozzájárulása nélkül maga indíthat pert a korlátozottan cselekvőképes házastárs is. Ha azonban a házastárs a cselekvőképességet kizáró gondnokság alatt áll, nevében a per indítására a gyámhatóság hozzájárulásával a törvényes képviselő jogosult.

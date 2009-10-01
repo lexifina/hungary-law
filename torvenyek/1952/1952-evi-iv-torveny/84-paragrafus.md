@@ -1,0 +1,1 @@
+Csjt. 84. § A szülők vagyonkezelői joguk megszűntével kötelesek gyermekük vagyonát az állagra vonatkozó számadással együtt kiadni a nagykorú gyermeknek, vagy pedig annak, akinek kezelése alá a vagyon kerül.

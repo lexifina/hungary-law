@@ -1,0 +1,1 @@
+Csjt. 89. § A bíróság a jövőre nézve visszaállítja a szülői felügyeletet, ha az az ok, amely miatt azt megszüntették, már nem áll fenn, és nincs egyéb olyan ok sem, amely a megszüntetésre alapul szolgálna.
