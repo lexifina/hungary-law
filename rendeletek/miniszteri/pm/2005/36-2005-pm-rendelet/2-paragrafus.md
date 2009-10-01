@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya a Hpt. 96/E. §-ának (2) és (3) bekezdésében, a Tpt. 181/M. §-ának (2) és (3) bekezdésében, valamint a Bit. 189/B. §-ának (2) és (3) bekezdésében meghatározott pénzügyi ágazatbeli vállalkozásokra terjed ki.
