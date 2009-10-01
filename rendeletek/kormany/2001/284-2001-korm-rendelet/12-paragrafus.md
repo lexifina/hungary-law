@@ -1,0 +1,3 @@
+12. § (1) A számlavezető köteles üzletszabályzatában, illetve hirdetményében meghatározni munkanapon belül azt a kezdő és záró időpontot, amelyek között az értékpapír-számlához, illetve ügyfélszámlához kapcsolódó terhelési megbízásokat befogadja. Ezen belül meg kell határozni azt az időpontot, ameddig az elfogadott, illetve beérkezett megbízásokat még a tárgynapon teljesíti. A záró időpontig befogadott megbízásokat a számlavezető a számlatulajdonos megbízásában feltüntetett időpontban, ennek hiányában legkésőbb a következő munkanapon hajtja végre.
+
+(2) Az értékpapír-számla, az ügyfélszámla szerződés számlavezető általi felmondása esetén a számlavezető köteles a felmondással egyidejűleg igazolhatóan értesíteni a számlatulajdonost a megszűnés jogkövetkezményeiről.
