@@ -1,0 +1,1 @@
+## végzettséggel rendelkezik.

@@ -1,0 +1,1 @@
+Az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény (a továbbiakban: Szaktv.) 31. §-a (6) bekezdésének a) pontjában kapott felhatalmazás alapján – az egyes szakterületek ágazati irányításáért felelős miniszterekkel egyetértésben – a következőket rendelem el:
