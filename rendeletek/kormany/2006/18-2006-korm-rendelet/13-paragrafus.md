@@ -1,0 +1,5 @@
+13. § (1) A biztonsági jelentés vagy a biztonsági elemzés alapján a hatóság a dominóhatás veszélyének csökkentése és az irányítás összehangolása érdekében az érintett üzemeket kölcsönös adatszolgáltatásra kötelezi. Ennek célja, hogy a kölcsönösen szolgáltatott adatok felhasználásával a baleset-megelőzési fő célkitűzések, az irányítási rendszer, a tervrendszerek és a veszélyek csökkentését szolgáló műszaki megoldások összehangolhatók legyenek, amivel a dominóhatás kizárható vagy lehetőségének valószínűsége csökkenthető.
+
+(2)[^12] A hatóság adatszolgáltatásra kötelezheti a veszélyes ipari üzem környezetében lévő gazdálkodó szervezeteket annak érdekében, hogy az üzemeltető elemezhesse a gazdálkodó szervezet által folytatott tevékenységnek a veszélyes ipari üzemre gyakorolt veszélyeztető hatását. Az adatszolgáltatás valóságtartalmát a hatóság és a szakhatóság helyszíni szemlével ellenőrizheti.
+
+[^12]: A 13. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 445. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
