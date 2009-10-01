@@ -1,0 +1,1 @@
+A közlekedési, hírközlési és vízügyi miniszter feladat- és hatásköréről szóló 151/1994. (XI. 17.) Korm. rendelet 2. §-a (2) bekezdésének d) pontjában kapott felhatalmazás alapján az alábbiakat rendelem el:
