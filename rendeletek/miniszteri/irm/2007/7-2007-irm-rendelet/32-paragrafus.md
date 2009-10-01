@@ -1,0 +1,1 @@
+## 31. § A nukleáris és radioaktív anyagok hatósága által végzett helyszíni ellenőrzések célja annak megállapítása, hogy a jelentéstételi kötelezettség teljesítése során a nukleáris és radioaktív anyagok hatóságához benyújtott információk megfelelnek-e a valós helyzetnek (hitelesítés).
