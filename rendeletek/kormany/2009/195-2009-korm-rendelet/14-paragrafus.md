@@ -1,0 +1,11 @@
+## Az építésfelügyeleti hatósági nyilvántartások
+
+14. § (1) A katonai építésfelügyeleti hatósági nyilvántartások vezetésének szabályaira a honvédelmi és katonai célú építmények építésügyi hatósági nyilvántartásaira vonatkozó szabályok az irányadók.
+
+(2) A katonai építésfelügyeleti hatóság nyilvántartást vezet
+
+a) a 2. melléklet szerinti adattartalommal az építési tevékenység megkezdésével kapcsolatos adatokról,
+
+b) a 3. melléklet szerinti adattartalommal az építésfelügyeleti hatósági ellenőrzésekről,
+
+c) a 4. melléklet szerinti adattartalommal a kiszabott építésfelügyeleti bírságokról és azok behajtásáról.

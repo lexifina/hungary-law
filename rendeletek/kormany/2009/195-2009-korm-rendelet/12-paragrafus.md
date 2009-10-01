@@ -1,0 +1,5 @@
+12. § (1) Az építésfelügyeleti hatósági eljárásban a tervező, a tervellenőr, a felelős műszaki vezető, az építési műszaki ellenőr, a beruházáslebonyolító és a vállalkozó (alvállalkozó) kivitelező ügyfélnek minősül, ha a katonai építésfelügyeleti hatóság döntését ezen személyek feladat- és felelősségi körébe tartozó tevékenység alapozta meg.
+
+(2) Az engedélyhez vagy bejelentéshez kötött tevékenységet végző személy kötelezésekor és bírságolásakor a katonai építésfelügyeleti hatóság a jogerős és végrehajtható döntése egyidejű megküldésével az engedélyező, illetve a bejelentés alapján vezetett névjegyzéket vezető szervnél a külön jogszabály szerinti eljárást kezdeményezi.
+
+(3) Ha a kivitelezési dokumentáció tervezőjének, vagy a tervellenőrnek a nyilatkozata hiányzik, illetve nem felel meg az építőipari kivitelezési tevékenységről szóló kormányrendeletben foglaltaknak, vagy tartalma valótlan, illetve ha a tervező által készített kivitelezési dokumentáció szakszerűtlen vagy tartalma valótlan, akkor a katonai építésfelügyeleti hatóság eljárást kezdeményez a tervezői, tervellenőri jogosultságról névjegyzéket vezető szervnél.
