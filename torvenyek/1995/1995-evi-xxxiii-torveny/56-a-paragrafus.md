@@ -1,0 +1,1 @@
+56/A. § A Szabadalmi Közlöny és Védjegyértesítőben kell közölni az európai szabadalmi bejelentésekkel és az európai szabadalmakkal, valamint a nemzetközi szabadalmi bejelentésekkel kapcsolatos – a X/A. és a X/B. fejezetben előírt – hatósági tájékoztatásokat is.

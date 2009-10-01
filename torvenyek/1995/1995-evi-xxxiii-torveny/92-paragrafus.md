@@ -1,0 +1,1 @@
+92. § Ha a szabadalmastárs a szabadalom fenntartása és védelme érdekében önállóan lép fel, illetve az eljárást csak egy szabadalmastárs ellen indították meg, a bíróság értesíti a többi szabadalmastársat, hogy az eljárásba a szabadalmastárs mellett beléphetnek.

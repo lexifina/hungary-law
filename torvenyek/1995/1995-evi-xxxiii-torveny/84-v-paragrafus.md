@@ -1,0 +1,1 @@
+84/V. § Elsőbbség igénylése esetén, annak feltételei és joghatálya tekintetében a Szerződés 8. cikke (2) bekezdésének b) pontjában említett esetben is az ipari tulajdon oltalmára létrejött Párizsi Uniós Egyezmény stockholmi szövege 4. cikkének rendelkezéseit kell megfelelően alkalmazni.

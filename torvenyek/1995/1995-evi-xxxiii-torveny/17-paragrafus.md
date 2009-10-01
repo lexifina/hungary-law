@@ -1,0 +1,1 @@
+17. § A 9–16. §-okban foglalt rendelkezéseket megfelelően alkalmazni kell, ha közszolgálati vagy közalkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag alkotta meg a találmányt.
