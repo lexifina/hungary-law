@@ -1,0 +1,10 @@
+37. § (1) Épületnek a szomszédos telekkel közös határvonalán vagy attól 3 m-en belül álló és a telekhatárral 60°-nál kisebb szöget bezáró homlokzati falában és a vízszintessel 30°-nál nagyobb szöget bezáró tetőfelületén nyílászárót, nyílást, szellőzőt – a szellőzőkürtő, a tetőkibúvó és a (4) bekezdésben említettek kivételével – létesíteni nem szabad.
+
+(2)[^76] A szomszédos telekkel közös határvonalon álló határfalban (tűzfalban) kiképzett légaknára kizárólag nem huzamos tartózkodás célját szolgáló és nem tűzveszélyes anyag tárolására igénybe vett helyiségek szellőzői vagy a helyiség alapterület legfeljebb 1/10-ed részének megfelelő nyílófelületű szellőzőablakai nyithatók, a szellőzésre vonatkozó általános előírások megtartásával és legalább 1,80 m-es mellvédmagassággal.
+
+(3) Az oldalhatáron álló beépítési módú telken az oldalhatáron álló épület esetén, annak eresze a terepcsatlakozás felett legalább 2 m magasságban és legfeljebb 0,5 m-re a szomszédos ingatlanra átnyúlhat a csapadékvíz saját telekre való visszavezetésével.
+
+(4)[^77] Az épületnek a telek oldalhatárán vagy attól 3 m-en belül álló és a telekhatárral 60°-nál kisebb szöget bezáró homlokzati falában és a vízszintessel 30°-nál nagyobb szöget bezáró tetőfelületén csak tároló-, tisztálkodó-, főzőhelyiség és illemhely, legalább 1,80 m-es mellvédmagasságú és helyiségenként legfeljebb 1 db 0,40 m2 nyíló felületű szellőzőablaka, szellőzőnyílása lehet. Az épület pinceszintjén és alagsori szintjén lévő helyiségeinek, tereinek nyílásai, nyílászárói, szellőzői a telek oldalhatárán vagy a telek oldalhatárától 1 m-en belül álló határfalán nem lehetnek.
+
+[^76]: A 37. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének g) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^77]: A 37. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének g) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

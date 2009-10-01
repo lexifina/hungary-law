@@ -1,0 +1,27 @@
+## Gázvezetékek, gázfogyasztó készülékek[^152]
+
+79. § (1)[^153] A gázenergia felhasználása az építmény biztonságát, állékonyságát és az egészséget nem veszélyeztetheti. Gázvezetéket, gázfogyasztó készüléket, gázfelhasználó technológiát, valamint ezek tartozékait (gázberendezés) építményben alkalmazni csak a vonatkozó jogszabályok, szabványok és ágazati előírások szerint szabad.
+
+(2) Égéstermék-elvezetés nélküli gázkészülék (főző, sütő, vízmelegítő, fűtő stb.) nem alkalmazható
+
+a) alvás céljára is szolgáló helyiségben,
+
+b) testnevelés, sportolás céljára szolgáló helyiségben,
+
+c) nevelési-oktatási építményekben a 0–18 éves gyermekek, tanulók tartózkodására szolgáló terekben – a taneszköznek minősülő gázkészülékek kivételével –,
+
+d) közvetlen természetes szellőzés nélküli helyiségben.
+
+(3) A gázkészülék működéséhez szükséges légtérbővítés (szellőzőnyílás) a (2) bekezdésben említett helyiségekre nem nyílhat.
+
+(4)[^154] Nevelési-oktatási építménynek a 0–18 éves gyermekek, tanulók tartózkodására szolgáló helyiségében, terében gázfogyasztó készülék és kapcsolója, automatikája, csak úgy alkalmazható, ha ahhoz a gyermekek, tanulók nem férhetnek hozzá.
+
+(5)[^155]
+
+(6)[^156] Nyílt lángú gázfogyasztó készüléket a padlószint felett 1,20 m-nél alacsonyabban lévő benyíló, forgó ablakszárny alatt elhelyezni nem szabad.
+
+[^152]: A 79. §-t megelőző alcím a 182/2008. (VII. 14.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^153]: A 79. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 34. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^154]: A 79. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének r) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^155]: A 79. § (5) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
+[^156]: A 79. § (6) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének r) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
