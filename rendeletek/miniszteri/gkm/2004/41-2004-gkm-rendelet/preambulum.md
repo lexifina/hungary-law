@@ -1,0 +1,1 @@
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdése b) pontjának 13. alpontjában, valamint az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében kapott felhatalmazás alapján – a belügyminiszterrel, az egészségügyi, szociális és családügyi miniszterrel és a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
