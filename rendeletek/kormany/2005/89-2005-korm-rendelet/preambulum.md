@@ -1,0 +1,1 @@
+A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: At.) 67. §-ának a), d) és e) pontjaiban kapott felhatalmazás alapján az atomenergia biztonságos alkalmazása érdekében az alábbiakat rendeli el:

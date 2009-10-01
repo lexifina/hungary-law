@@ -1,0 +1,7 @@
+16. § (1) Az engedélyes legkésőbb az üzembe helyezési engedély iránti kérelem benyújtásáig biztonsági politikát dolgoz ki. E dokumentum tartalmazza az engedélyes koncepcióját és célkitűzéseit a biztonsággal kapcsolatban, továbbá meggyőzően tükrözi azon elv érvényesülését, hogy a nukleáris létesítmény működése során a nukleáris biztonság minden más szempontot megelőz.
+
+(2) Az engedélyes mindaddig, amíg felelős a nukleáris létesítmény nukleáris biztonságáért, folyamatosan megteszi mindazokat az intézkedéseket, amelyekkel biztosítja az (1) bekezdés szerinti biztonsági politika végrehajtását.
+
+(3) Az engedélyes a nukleáris biztonsági követelmények betartását ellenőrzi. E feladatok ellátására a nukleáris létesítményben – az üzemeltetés irányításától független – szervezeti egységet hoz létre. Atomerőmű kivételével ennek a szervezeti egységnek a feladatait egy személy is elláthatja. Az ellenőrzéseknek és a 21. § szerinti időszakos biztonsági felülvizsgálat keretében az engedélyes által elvégzett tevékenységnek együttesen biztosítaniuk kell, hogy a létesítmény minden időpontban a 19. § (2) bekezdés szerint aktualizált végleges biztonsági jelentésében meghatározott keretek között üzemel.
+
+(4) Az engedélyes ellenőrzéssel és a különböző vezetési szinteken rendszeresen elvégzett önértékeléssel meggyőződik arról, hogy a biztonságot minden más szempont elé helyező szemlélet, a biztonsági kultúra a meghatározó-e a szervezetben.
