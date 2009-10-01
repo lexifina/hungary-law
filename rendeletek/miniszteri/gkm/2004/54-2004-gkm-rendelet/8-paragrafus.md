@@ -1,0 +1,9 @@
+## Idényjellegű és rövid ideig tartó üzemelés
+
+8. § (1) Amennyiben menetrend szerinti szolgáltatást nyújtó hajózási társaság idényjellegű szolgáltatásra további Ro-Ro személyhajót kíván forgalomba állítani, legkésőbb egy hónappal a hajó forgalomba állítása előtt köteles értesíteni a fogadó állam vagy államok illetékes hatóságát. Előre nem látható körülmények következtében szükségessé váló, helyettesítő Ro-Ro személyhajónak a forgalom folyamatossága érdekében történő gyors beállítását illető intézkedés meghozatalakor, a külön jogszabályban[^4] meghatározott feltételek megtartásával kell eljárni.
+
+(2) Amennyiben hajózási társaság évi hat hónapot meg nem haladó időtartamú, idényjellegű menetrend szerinti szolgáltatást tervez indítani, legkésőbb három hónappal az üzemeltetés megindítása előtt értesíteni köteles a fogadó állam vagy államok illetékes hatóságát. Abban az esetben, ha az ilyen üzemeltetés alacsonyabb mértékadó hullámmagassági viszonyok között történik, mint amelyeket az egész évre kiterjedő üzemelés esetében megállapítottak, a hajózási hatóság az 1. számú melléklet különleges stabilitási követelményeinek alkalmazásakor a rövidebb időszak esetében alkalmazandó mértékadó hullámmagassági érték alapján állapíthatja meg a fedélzetet elárasztó víz magasságát. Az e rövidebb időszakokra vonatkozóan alkalmazandó mértékadó hullámmagassági értéket a tagállamok közötti, vagy ha indokolt és lehetséges, az útvonal két végén fekvő tagállam, illetve harmadik ország közötti megállapodással határozzák meg.
+
+(3) Amennyiben a fogadó állam vagy államok illetékes hatósága hozzájárul az (1) és (2) bekezdés szerint üzemeltetéshez, az ilyen szolgáltatásban részt vevő Ro-Ro személyhajó üzembentartója és parancsnoka a 7. § (1) bekezdésében foglalt kötelezettségnek eleget tesz.
+
+[^4]: 16/2002. (IX. 25.) GKM rendelet a tengeren menetrend szerint közlekedő kompok és gyorsjáratú kompok biztonságos üzemeltetésének kötelező vizsgálati rendszeréről.

@@ -1,0 +1,1 @@
+## Mértékadó hullámmagasság meghatározása
