@@ -1,0 +1,1 @@
+## 8. § A közvetlen hozzáféréssel megvalósuló adatigénylésre a Hivatal az adatigénylővel szerződést (megállapodást) köthet, amely kiterjed az adatszolgáltatás adatvédelmi és adatbiztonsági feltételeire is.
