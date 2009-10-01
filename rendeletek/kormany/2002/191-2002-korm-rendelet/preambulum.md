@@ -1,0 +1,1 @@
+A bányászatról szóló 1993. évi XLVIII. törvény 50. §-ának (12) bekezdése, valamint a Rendőrségről szóló 1994. évi XXXIV. törvény 100. §-a (1) bekezdésének a) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
