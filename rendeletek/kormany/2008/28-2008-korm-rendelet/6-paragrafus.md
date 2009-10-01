@@ -1,0 +1,1 @@
+## 5. § A támogatás éves keretösszegét a Magyar Köztársaság költségvetéséről szóló törvénynek a Oktatási és Kulturális Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatokra vonatkozó rendelkezései határozzák meg.
