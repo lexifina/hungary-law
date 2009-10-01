@@ -1,0 +1,14 @@
+1. § (1)[^1] A Tft., valamint a Polgári Törvénykönyv (a továbbiakban: Ptk.) alapján fennálló elővásárlási jog esetén a termőföld vagy a tanya tulajdonosa (a továbbiakban: eladó) az ingatlanra vonatkozó vételi ajánlatot (a továbbiakban: ajánlat) a szerződés megkötése előtt köteles az elővásárlásra jogosultakkal közölni, kivéve, ha az ajánlat az első helyen álló elővásárlási jogosulttól érkezett. Ez a kötelezettség csak az elfogadott ajánlatra terjed ki.
+
+(2)[^2] Az ajánlatot teljes terjedelmében kell közölni. A közlésből ki kell tűnnie annak is, hogy az ajánlattevő elővásárlásra jogosult-e, és ha igen, a Tft.-ben, illetve a Ptk.-ban meghatározott melyik jogcímen.
+
+(3)[^3] Az ajánlat közlése az ingatlan fekvése szerint illetékes települési önkormányzat (a fővárosban a fővárosi kerületi önkormányzat) polgármesteri hivatala, illetve a körjegyzőség székhelyén a körjegyzőség (a továbbiakban együtt: polgármesteri hivatal) hirdetőtáblájára való kifüggesztéssel, a körjegyzőséghez tartozó többi településen pedig a helyben szokásos módon történik.
+
+(4) Más jogszabályban meghatározott elővásárlási jog esetén a jogosultat az ajánlatról írásban kell értesíteni.
+
+(5)[^4] E rendeletben foglaltakat nem kell alkalmazni a Nemzeti Földalapba tartozó ingatlanok nyilvános pályázat útján történő haszonbérbe adása vagy eladása, illetve árverezése során.
+
+[^1]: Az 1. § (1) bekezdése a 225/2008. (IX. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 24. napját követően az eladóhoz (haszonbérbeadóhoz) érkezett ajánlatokra kell alkalmazni.
+[^2]: Az 1. § (2) bekezdése a 225/2008. (IX. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 24. napját követően az eladóhoz (haszonbérbeadóhoz) érkezett ajánlatokra kell alkalmazni.
+[^3]: Az 1. § (3) bekezdését az Alkotmánybíróság az 56/2007. (IX. 28.) AB határozatának 1. pontjával megsemmisítette 2008. március 31. napjával, újonnan a 225/2008. (IX. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 267. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: Az 1. § (5) bekezdését a 215/2007. (VIII. 14.) Korm. rendelet 1. §-a iktatta be, e módosító rendelet 3. §-a alapján a rendelkezést a 2007. augusztus 22. után meghirdetett pályázatok, illetve kitűzött árverések esetében kell alkalmazni.
