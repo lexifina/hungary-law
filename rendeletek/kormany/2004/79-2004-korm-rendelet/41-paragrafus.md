@@ -1,0 +1,13 @@
+## Az egyetemes postai szolgáltatások időbeli hozzáférhetősége
+
+41. § (1) Az egyetemes postai szolgáltató és az engedélyes postai szolgáltató a levélgyűjtő szekrényeken és az egyéb postai berendezéseken köteles előre feltüntetni azok munkanaponként legalább egyszeri ürítési időpontját vagy – pontosan nem meghatározható gyűjtési időpont esetén – azt a napszakban vagy órában és percben rögzített időtartamot, amelyen belül a gyűjtést végzi.
+
+(2) Az egyetemes postai szolgáltató és az engedélyes postai szolgáltató által működtetett mobilposta – a postai szolgáltatások elérhetőségének biztosítása érdekében – minden munkanapon legalább egyszer, előre meghirdetett – és a helyben szokásos módon közzétett – időpontban, az erre kijelölt elérhetőségi ponton, legalább harminc perc időtartamig köteles tartózkodni. Amennyiben a szolgáltató a házhoz kézbesítési tevékenység közben felvételi tevékenységet is végez, a kijelölt elérhetőségi ponton a kötelező tartózkodás időtartama legalább tizenöt perc.
+
+(3) Az egyetemes postai szolgáltató és az engedélyes postai szolgáltató által üzemeltetett állandó postai szolgáltató helyek napi nyitvatartási idejét az igényekhez és a forgalom mértékéhez igazodóan kell megállapítani. A napi nyitvatartási idő egybefüggő, vagy legfeljebb két részre osztott lehet. Az összességében napi két órát el nem érő nyitvatartási idejű postai szolgáltató hely nem tekinthető állandó postai szolgáltató helynek.
+
+(4) Az egyetemes postai szolgáltató és az engedélyes postai szolgáltató által üzemeltetett állandó postai szolgáltató helyeken minden munkanapon legalább két órás napi nyitvatartási időt kell biztosítani 7 és 20 óra között. A tizenötezer vagy annál nagyobb számú bejelentett lakossal rendelkező településeken legalább egy postai szolgáltató helyen a napi nyitvatartási idő minden munkanapon legalább hat órás, amelyből legalább egy nyitvatartási órának 8 óra előtt vagy 17 óra után kell lennie.
+
+(5) Az egyetemes postai szolgáltató, illetve az engedélyes postai szolgáltató azokon az állandó postai szolgáltató helyeken, amelyeken a felvett postai küldemények összegyűjtését és azok továbbítását követően a küldemények felvételére még rendelkezésre áll, köteles a postai szolgáltatást igénybevevőket tájékoztatni arról, hogy a feladott küldeményt – a következő munkanapon – milyen időponttól továbbítja.
+
+(6) A postai küldemény kezelésének gyorsaságán alapuló küldeménytovábbítási rendszer alkalmazása esetén az állandó postai szolgáltató helyeken – az igénybevevők által jól látható módon – fel kell tüntetni az elsőbbségi küldemény továbbításának aznapi legkésőbbi időpontját.
