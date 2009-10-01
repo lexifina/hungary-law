@@ -1,0 +1,1 @@
+Az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásának lezárása érdekében, a kárpótlás határidejének ismételt megnyitására az Országgyűlés a következő törvényt alkotja:
