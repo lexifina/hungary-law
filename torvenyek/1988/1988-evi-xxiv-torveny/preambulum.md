@@ -1,0 +1,1 @@
+A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföldi működő tőke gazdaságunkban való közvetlen megjelenésének elősegítése és a magyar gazdaságban a műszaki fejlődésnek ez úton is történő előmozdítása érdekében — a külföldi befektetők részére a hátrányos megkülönböztetéstől mentes és nemzeti elbánást biztosítva — az Országgyűlés a következő törvényt alkotja:

@@ -1,0 +1,1 @@
+4. § Külföldi részvétellel működő társaság más gazdasági társaság, illetve szövetkezet alapításában részt vehet, társaságot maga is alapíthat és működő társaságban, illetőleg szövetkezetben részesedést szerezhet. Ezekre a társaságokra, illetőleg szövetkezetekre e törvény rendelkezései – a IV. fejezetben foglaltak kivételével – nem vonatkoznak.
