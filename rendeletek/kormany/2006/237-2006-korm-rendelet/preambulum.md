@@ -1,0 +1,1 @@
+A Kormány a felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: felsőoktatási törvény) 153. § (1) bekezdésének 2–3., 5., 7–15., 18. és 20. pontjaiban foglalt felhatalmazás alapján – a 47. § (3) és (5) bekezdéseinek tekintetében a Magyar Rektori Konferencia egyetértésével – a következőket rendeli el:
