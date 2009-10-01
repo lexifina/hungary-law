@@ -1,0 +1,3 @@
+Az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 30. §-ának (1) bekezdésében meghatározottakra figyelemmel, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. §-a (1) bekezdésének a) pontjában foglalt felhatalmazás alapján, a minősített adat kezelésének rendjéről szóló 79/1995. (VI. 30.) Korm. rendelet 27. §-ának (7) bekezdésében és 31. §-ában előírt rejtjelzési kötelezettség alá eső államtitok és szolgálati titok védelme érdekében a Kormány a következőket rendeli el:[^2]
+
+[^2]: A bevezető rész a 135/1996. (VIII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
