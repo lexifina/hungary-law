@@ -1,0 +1,1 @@
+A Kormány az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény (a továbbiakban: Szaktv.) 31. §-a (4) bekezdésének a), b) és e) pontjában kapott felhatalmazás alapján a következőket rendeli el:
