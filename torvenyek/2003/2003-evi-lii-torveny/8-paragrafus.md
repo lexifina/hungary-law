@@ -1,0 +1,1 @@
+8. § A növényfajta állami elismerésre való bejelentésekor nyilatkozni kell arról, hogy a bejelentett növényfajta géntechnológiával módosított szervezet-e, és a módosítás milyen célra irányult. A géntechnológiával módosított növényfajták esetében a növénytermesztési hatóság csak a külön jogszabályban foglalt előírások teljesítését követően kezdheti meg a kísérleti vizsgálatokat.

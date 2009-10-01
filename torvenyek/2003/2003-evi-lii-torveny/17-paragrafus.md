@@ -1,0 +1,1 @@
+17. § Szaporítóanyag előállítására, termesztésére, feldolgozására, kiszerelésére, forgalomba hozatalára, illetve az ezekhez kapcsolódó tárolására a külön jogszabályban meghatározott személyi és tárgyi feltételekkel rendelkező, olyan természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság jogosult, aki a termékpálya szerinti terméktanács tagja.

@@ -1,0 +1,3 @@
+23/A. § (1) A szaporítóanyag jelölésére (címkézésére) vonatkozóan e törvényben és a végrehajtására kiadott jogszabályban meghatározott rendelkezések megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jogosult, ha a jogsértés az Fttv. 2. §-ának a) pontja értelmében vett fogyasztót érint. Az eljáró hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
+
+(2) Az (1) bekezdésben említett rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.

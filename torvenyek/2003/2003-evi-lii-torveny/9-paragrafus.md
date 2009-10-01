@@ -1,0 +1,3 @@
+9. § (1) Az állami elismeréshez és a növényfajta-oltalomhoz szükséges vizsgálatok elvégzéséről a Magyar Köztársaságban a növénytermesztési hatóság gondoskodik. A növénytermesztési hatóság a DUS-vizsgálatok módszereit a vonatkozó nemzetközi előírások, a gazdasági értékvizsgálat módszereit pedig a minősítő intézet által az Európai Unió vonatkozó előírásai figyelembevételével kidolgozott és a Fajtaminősítő Bizottság által jóváhagyott módszer szerint határozza meg. Az egyes növényfajok fajtáinak állami elismeréséhez szükséges kísérleti vizsgálatok számát és időtartamát külön jogszabály határozza meg.
+
+(2) Az állami elismerésre bejelentett növényfajta fajtavizsgálatának eredményeit a növénytermesztési hatóság a javaslatával együtt a ,,Fajtaminősítő Bizottság'' elé terjeszti.

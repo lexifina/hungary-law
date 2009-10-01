@@ -1,0 +1,3 @@
+13. § (1) A nemesítőt megilleti az a jog, hogy a növényfajta nemesítőjeként feltüntessék, illetve, hogy a növényfajta nemesítőjeként nyilvánosan elismerjék. A növényfajta minősített szaporítóanyaga után, a fajtahasználatért a fajtafenntartót szerződés alapján díjazás illeti meg.
+
+(2) A 7. § (2) bekezdése szerint a növényfajtát állami elismerésre bejelentő, illetve a növényfajta tulajdonosa a jogszabályok betartásával a növényfajtával szabadon rendelkezhet.
