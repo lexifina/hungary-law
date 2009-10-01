@@ -1,0 +1,25 @@
+## A vízügyi igazgatóság[^21] műszaki és szervezési adatszolgáltatási kötelezettsége
+
+9. § (1) A vízügyi igazgatóság[^22] szolgáltatja:
+
+a) a védelmi bizottság elnöke útján
+
+1. az erőforrás-igénybevételi tervek elkészítéséhez, védelmi szakaszok szerinti bontásban a szükséges munkaerő, a szivattyú-gépkezelők létszámát, továbbá a szállítóeszköz, földmunkagép szükséges mennyiségét;
+
+2. a kitelepítési, kiürítési, mentési, befogadási és visszatelepítési tervek elkészítéséhez a lokalizációs tervek kivonatát, a műszaki leírást és átnézetes helyszínrajzot, amely tartalmazza az elöntéssel fenyegetett területeket, a kiürítés végrehajtására alkalmas utakat és vasútvonalakat;
+
+b) a helyi önkormányzatok és vízitársulatok saját védekezési terveinek elkészítéséhez a mértékadó, illetőleg jellemző vízszintek és vízhozamok, továbbá a befogadó és csatlakozó állami főművek műszaki alapadatait.(2) A vízügyi igazgatóság[^23] az (1) bekezdés a) pontjában felsorolt adatokban bekövetkezett változásokat – a védelmi bizottság elnöke útján – minden év augusztus 31-ig közölni köteles az érintett polgármesterekkel.
+
+(3)[^24] A vízügyi igazgatóság[^25] a Vgtv. 16. §-a (4) bekezdésének d) pontja szerinti szakmai irányítási feladatkörében:
+
+a) véleményezi a védekezési terveket;
+
+b) közreműködik a védekezési felkészülés és a védőművek felülvizsgálatában,
+
+c) a polgármester részére műszaki segítséget nyújt a védekezés ellátásához.
+
+[^21]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^22]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^23]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^24]: A 9. § (3) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 104. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol e rendelet vízügyi igazgatóságot említ, azon a KÖVIG-et kell érteni.

@@ -1,0 +1,1 @@
+## Kimenekítés, kiürítés

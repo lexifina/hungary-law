@@ -1,0 +1,1 @@
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 17. §-ának (5) bekezdésében kapott felhatalmazás alapján, a vizek kártételei elleni védekezés feladatairól és a kormánybiztos jogköréről a következőket rendeli el:
