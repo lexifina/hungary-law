@@ -1,0 +1,5 @@
+## VII. Fejezet
+
+## SZABÁLYSÉRTÉSI ÜGYBEN ÉS KATONAI BÜNTETŐELJÁRÁSBAN ALKALMAZANDÓ KÜLÖN RENDELKEZÉSEK
+
+## Általános rendelkezés

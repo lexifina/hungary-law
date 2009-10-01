@@ -1,0 +1,5 @@
+15. § (1) A bűnjelkezelő a bűnjelnyilvántartó könyvet minden év végén lezárja és a következő év elején új bűnjelnyilvántartó könyvet nyit. Lezáráskor az utolsó bejegyzés alá vízszintes vonalat húz és feltünteti a lezárás időpontját. A lezárásra vonatkozó bejegyzést a bűnjelkezelő és a bűnjelkezelést végző szerv vezetője aláírja.
+
+(2) A bűnjelkezelő a bűnjelnyilvántartó könyv lezárása után az új bűnjelnyilvántartó könyvben a tételszámok sorrendjében átvezeti azokat a tételeket, amelyeket a lezárt évet megelőző év végéig vett nyilvántartásba, de amelyekkel kapcsolatban még nem történt intézkedés. Az előző évi bűnjelnyilvántartó könyvben az átvezetett tétel tételszáma mellett feljegyzi, hogy azt melyik év bűnjelnyilvántartó könyvének hányadik oldalára vezette át.
+
+(3) Legfeljebb évi száz tételszám bejegyzést igénylő, kis ügyforgalmú hatóságnál, elektronikus úton történő nyilvántartás esetében, valamint az ORFK vezetőjének erre vonatkozó engedélye alapján a rendőrségen az új bűnjelnyilvántartó könyv nyitása és a (2) bekezdés szerinti átvezetés mellőzhető. Ebben az esetben az előző évi bűnjelnyilvántartó könyv vezetése – új tételszámokkal – folytatható.

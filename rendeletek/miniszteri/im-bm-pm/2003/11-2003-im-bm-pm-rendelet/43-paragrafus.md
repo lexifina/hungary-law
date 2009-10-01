@@ -1,0 +1,3 @@
+43. § (1) Ha a jogosult nem magyar állampolgár, vagy olyan magyar állampolgár, akinek állandó lakóhelye külföldön van, és a bűnjel visszaadásának elrendelésekor nem tartózkodik Magyarországon, a bűnjel visszaadásáról szóló határozatot – kulturális javak esetében a külön jogszabályban megállapított, a tulajdonos által a hatóság részére becsatolt kiviteli engedély egy példányával – a Külügyminisztérium Konzuli Főosztályának küldi meg a hatóság, kivéve, ha nemzetközi egyezmény ettől eltérően rendelkezik.
+
+(2) Nemzetközi egyezmény hiányában az (1) bekezdésben meghatározott esetben a határozatot és a kiviteli engedélyt a Külügyminisztérium Konzuli Főosztálya kézbesíti a jogosult részére.

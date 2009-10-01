@@ -1,0 +1,5 @@
+20. § (1) Ha a bűnjel lezárt postai küldeményként postán érkezett, azt a bírósági bűnjelkezelő két tanú (bírósági dolgozó) jelenlétében bonthatja fel. Azt, hogy a csomag tartalma azonos a kísérő bűnjeljegyzékben felsorolt bűnjelekkel, a bűnjelkezelő és a tanúk a bűnjeljegyzéknek a bűnjelkezelőnél maradó példányán aláírásukkal igazolják.
+
+(2) A postán érkezett sérült könyvelt, valamint a posta által átcsomagolt bűnjelet a posta dolgozójától a bírósági bűnjelkezelő csak a posta által készített jegyzőkönyv másolati példányával együtt veheti át. Ebben az esetben a bűnjelkezelő a csomagot a posta dolgozójának jelenlétében bontja fel és annak tartalmát a bűnjeljegyzékkel, illetőleg a posta által készített jegyzőkönyvvel egyezteti. Eltérés esetén a bűnjelkezelő jegyzőkönyvet készít és azt a posta dolgozójával is aláíratja.
+
+(3) Ha a bűnjelet tartalmazó postai küldemény bűnjeljegyzék nélkül érkezett, a bűnjeljegyzéket – két példányban – a bírósági bűnjelkezelő állítja ki. Ebben az esetben a bűnjeljegyzéket a bűnjelkezelőn kívül az (1) bekezdésben említett két tanú is aláírja, és a bírósági bűnjelkezelő intézkedik az eredeti bűnjeljegyzék utólagos beszerzésére.

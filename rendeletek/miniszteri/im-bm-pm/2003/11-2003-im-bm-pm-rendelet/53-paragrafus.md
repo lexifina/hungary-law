@@ -1,0 +1,7 @@
+53. § (1) A bírósági bűnjelkezelő az elkobzott bűnjeleket – a bűnjelnyilvántartó könyvből történő kivezetés mellett – alkalmanként, de legalább hathavonként, két példányban készített, összevont bűnjeljegyzékkel a BGH bűnjelraktárába szállítja. Ha a szállítás a bűnjel értékével arányban nem álló költséget okozna, a bűnjelet nem szállítja be, de ezt a körülményt az összevont bűnjeljegyzéken az adott bűnjel vonatkozásában feltünteti. A bírósági bűnjelkezelő a csekély értékű bűnjelet is beszállítja, ha a szállításával kapcsolatban felmerülő költség az egyéb bűnjelek szállítási költségét lényegesen nem növeli.
+
+(2) A beszállításnál különösen ügyelni kell arra, hogy a szennyező és más káros hatású bűnjel a küldemény egyéb tartalmának az épségét ne veszélyeztesse.
+
+(3)[^35] Ha a bíróság az érdekelt, valamint egyes szerv őrizetében hagyott vagy kezelésére bízott bűnjel elkobzásáról határozott, erről a bírósági bűnjelkezelő a BGH-t a jogerős határozat megküldésével haladéktalanul értesíti. Az értesítéshez csatolja az erre a célra kiállított bűnjeljegyzék két példányát. A bűnjeljegyzékhez csatolja az őrzéssel kapcsolatban felvett jegyzőkönyvet és a rendelkezésre álló egyéb iratokat.
+
+[^35]: Az 53. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

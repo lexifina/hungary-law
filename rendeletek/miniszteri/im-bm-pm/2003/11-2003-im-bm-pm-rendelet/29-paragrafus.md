@@ -1,0 +1,1 @@
+## 28. § Ha a bíróság azt észleli, hogy az ügy iratai között bűnjelként kezelendő dolog van, haladéktalanul intézkedik bűnjeljegyzék készítése és annak, valamint a dolognak a bűnjelkezelő részére való átadása, és a bűnjelként történő kezelés iránt.
