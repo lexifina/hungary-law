@@ -1,0 +1,9 @@
+# 362/2008. (XII. 31.) Korm. rendelet
+
+a Nemzeti Hírközlési Hatóság eljárásában közreműködő szakhatóságok kijelöléséről, valamint egyes szakhatósági közreműködések megszüntetéséről és módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-362-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-01 | 2008-362-20-22.4 | 362/2008. (XII. 31.) Korm. rendelet |
