@@ -1,0 +1,1 @@
+A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Etv.) 67. §-ának (3) bekezdése c) pontjában kapott felhatalmazás alapján, az önkormányzati és területfejlesztési miniszter feladat- és hatásköréről szóló 168/2006. (VII. 28.) Korm. rendelet 1. §-ának g) pontjában meghatározott feladatkörben eljárva a következőket rendelem el:
