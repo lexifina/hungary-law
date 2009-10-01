@@ -1,0 +1,1 @@
+13. § Ha a felek az árban nem állapodtak meg, és a termékre hatósági ár van hatályban, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a joszabály megsértésével más árban állapodtak meg.
