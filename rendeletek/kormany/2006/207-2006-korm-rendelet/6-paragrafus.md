@@ -1,0 +1,1 @@
+6. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba. A szolgáltató az e rendelet hatálybalépésekor alkalmazott általános szerződési feltételeknél a jövőre nézve a felhasználók számára hátrányosabb feltételeket csak jogszabály rendelkezése alapján állapíthat meg azon szolgáltatások tekintetében, amelyet jogszabály előírása alapján nyújt.
