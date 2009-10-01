@@ -1,0 +1,1 @@
+A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174. § (3) bekezdés e) és f) pontjában kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § q) pontjában meghatározott feladatkörömben eljárva a következőket rendelem:
