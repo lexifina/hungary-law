@@ -1,0 +1,1 @@
+## 14. § Kárpótlási hatóságként a Kormány az Igazságügyi Hivatalt jelöli ki azzal, hogy kárpótlási ügyekben területi szerveiként a Fővárosi Igazságügyi Hivatal és a Szabolcs- Szatmár-Bereg Megyei Igazságügyi Hivatal jár el.
