@@ -1,0 +1,1 @@
+## 3. § A rajnai okmány iránti kérelemhez csatolni kell a Tanácsnak a rajnai hajózásban részt vevő hajókra vonatkozó, a Felülvizsgált rajnai hajózási egyezmény szerinti szabályozás igénybevételéhez szükséges feltételek megállapításáról szóló 2919/85/EGK rendelete mellékletének 3., 4. és 5.cikkében foglalt feltételek teljesítését igazoló okmányok másolatait.
