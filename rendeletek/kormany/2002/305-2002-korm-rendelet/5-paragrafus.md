@@ -1,0 +1,3 @@
+5. § (1) Ez a rendelet a Magyar Köztársaság 2003. évi költségvetéséről szóló törvény hatálybalépése napján lép hatályba, e rendelet alapján a távolléti díj megtérítése a 2002. december 1-jén, vagy azt követően született gyermekre való tekintettel igényelhető.
+
+(2) Az apákat megillető munkaidő-kedvezménnyel összefüggő költségek megtérítése 2003-ban a XXII. Pénzügyminisztérium 25. ,,Családi támogatások, egyéb szociális ellátások és térítések'' cím, 1. ,,Családi támogatások'' alcím, 5. ,,Apákat megillető munkaidő-kedvezmény távolléti díjának megtérítése'' jogcímcsoport alatti kiadási előirányzatból kerül biztosításra.
