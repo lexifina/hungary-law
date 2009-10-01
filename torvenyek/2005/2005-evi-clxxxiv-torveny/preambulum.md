@@ -1,0 +1,1 @@
+Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának javítása, a balesetek szakmai kivizsgálásának gyors végrehajtása, továbbá a jövőbeni balesetek megelőzése érdekében – összhangban a közlekedési balesetek kivizsgálása tárgyában kötött nemzetközi szerződésekkel – a következő törvényt alkotja:

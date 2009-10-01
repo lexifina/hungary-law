@@ -1,0 +1,41 @@
+## II. Fejezet
+
+## KÖZLEKEDÉSBIZTONSÁGI SZERV
+
+## A közlekedésbiztonsági szerv jogállása és szervezete
+
+3. § (1) A közlekedésbiztonsági szerv – e törvényben meghatározottak szerint – a balesetek megelőzése érdekében elvégzi a közlekedési balesetek és az egyéb közlekedési események független szakmai vizsgálatát, gyűjti, elemzi a közlekedési balesetekkel és az egyéb közlekedési eseményekkel kapcsolatos információkat, biztonsági ajánlásokat dolgoz ki.
+
+(2) A közlekedésbiztonsági szerv irányítását a közlekedésért felelős miniszter (a továbbiakban: miniszter) látja el. A közlekedésbiztonsági szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet. A miniszter a közlekedésbiztonsági szervnek feladat elvégzésére vagy mulasztás pótlására egyedi utasítást nem adhat ki.
+
+(3) A közlekedésbiztonsági szerv bevételeit – a bírságból származó bevételek kivételével – működésének fedezetére használja fel, azok más célra nem vonhatók el.
+
+(4) A közlekedésbiztonsági szerv évente beszámol a Kormánynak az előző évben vizsgált balesetek okainak feltárása során szerzett tapasztalatokról, a közlekedés biztonságát érintő folyamatokról, és a közlekedésbiztonság állapotáról, és ezt követően – legkésőbb szeptember 30-áig – a honlapján közzéteszi az előző évben végzett vizsgálatokról, a kiadott biztonsági ajánlásokról és a korábban kiadott biztonsági ajánlásokkal összhangban végrehajtott intézkedésekről készített beszámolóját, és azt az Európai Bizottság, valamint az Európai Vasúti Ügynökség részére megküldi.
+
+(5) A közlekedésbiztonsági szerv vezetője és a helyettesítésére jogosult köztisztviselő felmenthető, ha a tisztségével való összeférhetetlenségét 30 napon belül nem szüntette meg, illetve tisztségének ellátására tartósan alkalmatlanná vált.
+
+(6)
+
+(7) A közlekedésbiztonsági szerv független minden olyan személytől és szervezettől, akinek vagy amelynek érdekei a kivizsgáló szervezet feladataival ütköznek, így különösen:
+
+a) a járművek forgalomba helyezését, üzemeltetését, és karbantartását engedélyező, és annak ellenőrzését végző légi-, vízi- és vasúti közlekedési hatóságoktól,
+
+b) a járművezetői engedélyek kiadására illetékes hatóságoktól,
+
+c) a légiforgalom és a víziút forgalmának irányítását végző szervezettől,
+
+d) a közlekedési infrastruktúrát üzemeltető szervezetektől,
+
+e) a közlekedési társaságoktól,
+
+f) a vasúti díjszabás meghatározásáért és a menetvonal elosztásáért (kijelöléséért) felelős szervezetektől,
+
+g) a vasúti közlekedésről szóló törvény szerinti bejelentett szervezetektől,
+
+h) a biztonsági hatóságtól,
+
+i) a többi vasúti szabályozó szervezettől.
+
+(8) A közlekedésbiztonsági szervvel közszolgálati jogviszonyban álló személy (e törvény alkalmazásában a továbbiakban: köztisztviselő) nem lehet a (7) bekezdésben meghatározott szervek és gazdálkodó szervezetek köztisztviselője, vezető tisztségviselője, tulajdonosa, alkalmazottja vagy egyéb munkavállalója.
+
+(9) A (8) bekezdésben foglaltakon túl a közlekedésbiztonsági szerv vezetője, valamint a vezetőjének helyettesítésére jogosult személy nem lehet a (7) bekezdésben meghatározott szervek és gazdálkodó szervezetek köztisztviselőjének, vezető tisztségviselőjének, tulajdonosának, alkalmazottjának vagy egyéb munkavállalójának közeli hozzátartozója [Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § b) pont].

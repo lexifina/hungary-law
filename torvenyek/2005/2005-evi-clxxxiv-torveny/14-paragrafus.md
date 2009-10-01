@@ -1,0 +1,1 @@
+14. § A közlekedési balesetben vagy az egyéb közlekedési esemény során elhalálozott személyek hozzátartozóit, valamint sérültjeit a vizsgálatról és annak folyamatáról tájékoztatni kell, és lehetőséget kell biztosítani arra, hogy a vizsgálattal kapcsolatos álláspontjukat kifejthessék és a zárójelentés tervezetében szereplő adatokhoz megjegyzést fűzzenek.
