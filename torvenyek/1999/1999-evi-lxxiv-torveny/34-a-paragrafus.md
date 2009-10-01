@@ -1,0 +1,3 @@
+34/A. § (1) A védendő adatot tartalmazó biztonsági jelentésbe, illetve biztonsági elemzésbe csak az üzemeltető vagy írásban meghatalmazott képviselője, a hatóság és – szakhatóság közreműködése esetén – a szakhatóság eljárásban érintett képviselői (a továbbiakban együtt: eljárásban érintett felek), valamint a külön jogszabály alapján arra jogosultak tekinthetnek be.
+
+(2) A nyilvánosságra hozható biztonsági jelentésről, illetve biztonsági elemzésről a hatóság csak az eljárásban érintett felek, a veszélyeztetett települések polgármesterei, e törvény végrehajtására kiadott kormányrendeletben megjelölt szervezetek és a külső védelmi terv készítésére kötelezettek részére adhat másolatot.

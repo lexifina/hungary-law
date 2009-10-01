@@ -1,0 +1,1 @@
+29. § A megyei, fővárosi igazgatóság költségvetési szerv, amely jogszabályban meghatározott ügyekben első fokú hatóságként jár el, ellátja a jogszabályokban és az ügyrendben részére meghatározott feladatokat, irányítja, ellenőrzi a kirendeltségeket.

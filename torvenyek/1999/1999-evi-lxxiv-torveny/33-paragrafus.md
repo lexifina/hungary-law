@@ -1,0 +1,3 @@
+33. § (1) Amennyiben a veszélyes ipari üzemben a veszélyes anyagok mennyisége eléri vagy meghaladja a jogszabályban meghatározott felső küszöbértéket, az üzemeltető a külön jogszabályban meghatározottak szerint biztonsági jelentést készít és a hatósághoz elfogadásra benyújtja.
+
+(2) A biztonsági jelentést, működő veszélyes ipari üzem esetén a külön jogszabályban meghatározott időszakonként, de legalább ötévenként az üzemeltető felülvizsgálja és szükség szerint módosítja. A felülvizsgálat eredményét, illetve a módosított biztonsági jelentést a hatóság részére megküldi. A hatóság a jelentés alapján dönt az engedély meghosszabbításáról, illetve annak feltételeiről.

@@ -1,0 +1,1 @@
+57. § Ahol a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény polgári védelmet, állami tűzoltóságot, tűzoltóság országos parancsnokát, illetve a polgári védelem országos parancsnokát említi, azon az Országos Katasztrófavédelmi Főigazgatóságot és annak vezetőjét kell érteni.
