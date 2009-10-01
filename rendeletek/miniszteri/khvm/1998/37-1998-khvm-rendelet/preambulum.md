@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében, valamint a Nemzetközi Szállítótartály Biztonsági Egyezmény kihirdetéséről szóló 1977. évi 20. törvényerejű rendelet 3. §-ának (2) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
