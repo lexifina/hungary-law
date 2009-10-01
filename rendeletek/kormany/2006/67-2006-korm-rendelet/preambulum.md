@@ -1,0 +1,1 @@
+Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvényben meghatározott határidők ismételt megnyitásáról és a kárpótlás lezárásáról szóló 2006. évi XLVII. törvény (a továbbiakban: Tv.) 4. §-ában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
