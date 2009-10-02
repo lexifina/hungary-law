@@ -1,0 +1,1 @@
+## 31. § Amennyiben az igénylő a nyílt hozzáférésű vasúti pályahálózat használatához kapcsolódó tevékenységéhez más működtetésében lévő saját célú vasúti pályahálózatot is igénybe kíván venni, akkor a menetvonal-igényhez mellékeli a saját célú vasúti pályahálózat működtetőjének nyilatkozatát a szolgáltatási szerződés megkötéséről.
