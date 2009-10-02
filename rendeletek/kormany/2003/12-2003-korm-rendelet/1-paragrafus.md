@@ -1,0 +1,5 @@
+1. § (1) E rendeletet kell alkalmazni, ha a zálogtárgyat a Ptk. 257. §-ának (2)–(3) bekezdése szerinti megállapodás alapján a zálogjogosult vagy az általa megbízott személy (a továbbiakban: jogosult) bírósági végrehajtás mellőzésével értékesítheti (a továbbiakban: értékesítés). A Ptk. 257. §-ának (1) bekezdése szerinti közös értékesítésben való megállapodás (a továbbiakban: közös értékesítés) esetén e rendeletet az abban foglalt eltéréssel kell alkalmazni.
+
+(2) E rendeletet az üzletszerűen folytatott – zálogházi tevékenység keretében nyújtott – kézizálogkölcsön esetén csak akkor kell alkalmazni, ha az erre vonatkozó külön jogszabály azt előírja, vagy alkalmazását a felek írásban kikötötték.
+
+(3) E rendelet rendelkezéseitől a felek csak abban a körben térhetnek el, amelyben azt a jogszabály lehetővé teszi. Az e rendeletben nem szabályozott kérdésekben a felek megállapodása csak akkor irányadó, ha az nem sérti a zálogkötelezett e rendeletben biztosított jogait, és nem teszi terhesebbé az e rendeletben előírt kötelezettségeit.
