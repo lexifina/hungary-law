@@ -1,0 +1,3 @@
+## 31. §[^1]
+
+[^1]: A 31. § a (2) bekezdése alapján hatályát vesztette.

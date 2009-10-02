@@ -1,0 +1,3 @@
+22. § (1) Vendéglátó üzletben a vendégek szórakoztatására zeneszolgáltatás nyújtható, műsoros előadás, tánc rendezhető, továbbá a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvényben (a továbbiakban: Szt.) foglaltak alapján szerencsejátéknak nem minősülő szórakoztató játék folytatható. Az üzletben az Szt. alapján szerencsejátéknak minősülő játék csak az Szt.-ben meghatározott feltételekkel működtethető, illetve folytatható.
+
+(2) Az (1) bekezdésben meghatározott tevékenység akkor folytatható, ha a vendéglátó üzlet megfelel a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló kormányrendeletben foglalt követelményeknek.
