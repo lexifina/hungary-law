@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a Hunyadi-sziget értékes növény- és állatvilágának, tájképi értékeinek megóvása, továbbá a kiemelkedő természeti értéket képviselő ártéri erdő és az úgynevezett „fátyolvegetáció” fenntartása.
