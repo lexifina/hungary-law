@@ -1,0 +1,1 @@
+## 1. § Azon szakmai szövetségek és szervezetek felsorolását, amelyek tagjai által gyakorolt szakmák az európai közösségi jog alapján szabályozott szakmának minősülnek e rendelet melléklete tartalmazza.
