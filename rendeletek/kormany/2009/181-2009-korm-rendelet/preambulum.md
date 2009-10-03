@@ -1,0 +1,1 @@
+A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés b), c), i) és j) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § a) pontjában kapott felhatalmazás alapján a következőket rendeli el:
