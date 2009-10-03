@@ -1,0 +1,11 @@
+## 2. § A Kormány az üzletszerű ingatlanközvetítői, illetőleg ingatlanvagyon-értékelő és közvetítői tevékenység tekintetében ingatlanvállalkozás-felügyeleti hatóságként megyeszékhely szerinti városi önkormányzat jegyzőjét, Pest megyében a megyei önkormányzat főjegyzőjét, Budapesten a Fővárosi Önkormányzat Főjegyzőjét jelöli ki. Az ingatlanvállalkozás-felügyeleti hatósági eljárásban a jegyző, illetve a főjegyző a megye, illetve a főváros területére kiterjedő illetékességgel jár el.
+
+3. § (1) A Kormány a Tt. 7. § (3) bekezdésében meghatározott esetben az első fokú használatbavételi engedélyezési eljárás lefolytatására hatáskörrel és illetékességgel rendelkező építésügyi hatóságot a társasház ingatlan-nyilvántartási bejegyzésére irányuló eljárás tekintetében közreműködő hatóságként jelöli ki.
+
+(2) Ha a használatba vételi engedély az építési engedélytől nem tér el, és az ügyfél a társasház ingatlan-nyilvántartási bejegyzéséhez szükséges kérelmet, valamint annak mellékleteit a használatbavételi engedélyezési eljárás során benyújtotta, a közreműködő hatóság a jogerős és végrehajtható használatbavételi engedély megküldésével együtt az ingatlan-nyilvántartási bejegyzés iránti kérelmet továbbítja az ingatlanügyi hatósághoz.
+
+(3) A Kormány a Tt. 21. § (4) bekezdésében meghatározott esetben az első fokú használatbavételi engedélyezési eljárás lefolytatására hatáskörrel és illetékességgel rendelkező építésügyi hatóságot a változás ingatlan-nyilvántartási bejegyzésére irányuló eljárás tekintetében közreműködő hatóságként jelöli ki.
+
+(4) Ha az ügyfél a változás ingatlan-nyilvántartási bejegyzéséhez szükséges kérelmet, valamint annak mellékleteit a használatbavételi engedélyezési eljárás során benyújtotta, a közreműködő hatóság a jogerős és végrehajtható használatbavételi engedély megküldésével együtt az ingatlan-nyilvántartási bejegyzés iránti kérelmet továbbítja az ingatlanügyi hatósághoz.
+
+(5) A közreműködő hatóság az ügyfelet az ingatlan-nyilvántartási bejegyzés iránti kérelem tárgyában hiánypótlásra – az igazgatási szolgáltatási díj megfizetésének pótlására való felhívás kivételével – nem hívhatja fel. A közreműködő hatóság az eljárást akkor is megszünteti, ha az eljárásra okot adó körülmény már nem áll fenn.
