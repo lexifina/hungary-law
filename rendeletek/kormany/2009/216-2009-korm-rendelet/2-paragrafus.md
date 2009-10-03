@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Belarusz Köztársaság Kormánya közötti oktatási, tudományos és kulturális Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
