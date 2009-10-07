@@ -1,0 +1,1 @@
+## 1. § A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 138/A. §-a szerinti kötelező befizetésből származó pénzeszközre (a továbbiakban: pénzeszköz) bevételi hiányának mértékéig a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedelmi engedéllyel rendelkezett engedélyes vagy jogutódja (a továbbiakban: nagykereskedő) jogosult.
