@@ -1,0 +1,31 @@
+A MAGYAR KÖZTÁRSASÁG NEVÉBEN!
+
+Az Alkotmánybíróság az Országos Választási Bizottságnak az országos népszavazás kitűzésére irányuló kezdeményezés aláírásgyűjtő ívének hitelesítése tárgyában hozott határozata ellen benyújtott kifogás alapján meghozta a következő
+
+határozatot:
+
+Az Alkotmánybíróság az Országos Választási Bizottság 26/2009. (I. 30.) OVB határozatát megsemmisíti, és az Országos Választási Bizottságot új eljárásra utasítja.
+
+Az Alkotmánybíróság ezt a határozatát a Magyar Közlönyben közzéteszi.
+
+Indokolás
+
+I.
+
+A választási eljárásról szóló 1997. évi C. törvény (a továbbiakban: Ve.) 130. § (1) bekezdése alapján a Nyugdíjasok Országos Képviselete kifogást nyújtott be az Alkotmánybírósághoz az Országos Választási Bizottság (a továbbiakban: OVB) 26/2009. (I. 30.) OVB határozata ellen. Az OVB vitatott határozatában hitelesítette annak az országos népszavazás kezdeményezésre irányuló aláírásgyűjtő ívnek a mintapéldányát, amelyen a következő kérdés szerepel: „Egyet ért-e Ön azzal, hogy a nyugdíjemeléseknél minden nyugdíjas nyugdíját – nyugdíjának összegétől függetlenül – egységesen, egyenlő (azonos) összegben emeljék?”. Az OVB határozata indokolásában megállapította, hogy a kérdés megfelel az országos népszavazásról és népi kezdeményezésről szóló 1998. évi III. törvényben (a továbbiakban: Nsztv.) foglalt formai és tartalmi feltételnek, ezért a hitelesítésének akadálya nincs. Az OVB határozata ellen törvényes határidőn belül kifogást nyújtottak be, amelyben arra hivatkozással kérik a támadott határozat „megsemmisítését”, mert az tömeges egyéni jogsérelmet okozó jogalkotásra kötelezné a jogalkotót, mivel változtatna a nyugdíjak biztosítási jellegén. A sikeres népszavazás esetén alkotandó jogszabály sértené azok tulajdonhoz való jogát, akik magas járulékfizetésük alapján a jelenlegi arányos rendszerben magasabb nyugdíjemelést kapnak, s ettől a kérdés szerinti rendszerben elesnének. A kifogást tévő szerint a jogalkotás a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 62. § (4) és (7) bekezdéseit, az abban szabályozott alanyokat szükségképpen érinti, nekik jogsérelmet okoz.
+
+II.
+
+A kifogás az alábbiak szerint megalapozott.
+
+1. Az Alkotmánybíróság hatáskörét a jelen ügyben az Alkotmánybíróságról szóló 1989. évi XXXII. törvény 1. § h) pontja alapján a választási eljárásról szóló 1997. évi C. törvény (a továbbiakban: Ve.) 130. §-a határozza meg. Az Alkotmánybíróság eljárása ebben a hatáskörben jogorvoslati természetű. Az Alkotmánybíróság az OVB határozatában, valamint a kifogásban foglaltak alapján azt vizsgálja, hogy az aláírásgyűjtő ív és a rajta szereplő kérdés hitelesítéséről való döntés során az OVB az Alkotmánynak és az irányadó törvényeknek megfelelően járt-e el [63/2002. (XII. 3.) AB határozat, ABH 2002, 342, 344.]. Az Alkotmánybíróság feladatát e hatáskörében eljárva is alkotmányos jogállásával és rendeltetésével összhangban látja el [25/1999. (VII. 7.) AB határozat, ABH 1999, 251, 256.].
+
+2. Az Alkotmánybíróság vizsgálta, hogy a népszavazásra feltenni kívánt kérdés megfelel-e az egyértelműség követelményének. Az Alkotmánybíróság gyakorlata során több határozatban értelmezte az Nsztv. 13. § (1) bekezdésében foglalt, a népszavazásra bocsátandó kérdéssel szemben támasztott egyértelműség követelményét. E határozataiban az Alkotmánybíróság kifejtette, hogy az egyértelműség követelménye a népszavazáshoz való jog érvényesülésének garanciája. Az egyértelműség követelménye ebben az összefüggésben azt jelenti, hogy a népszavazásra szánt kérdésnek egyértelműen megválaszolhatónak kell lenni. Ahhoz, hogy a választópolgár a népszavazásra feltett kérdésre egyértelműen tudjon válaszolni az szükséges, hogy a kérdés világos és kizárólag egyféleképpen értelmezhető legyen, a kérdésre „igen”-nel vagy „nem”-mel lehessen felelni (választópolgári egyértelműség). Az eredményes népszavazással hozott döntés az Országgyűlésnek az Alkotmány 19. § (3) bekezdés b) pontjában foglalt jogkörének – Alkotmányban szabályozott – korlátozása: az Országgyűlés köteles az eredményes népszavazásból következő döntéseket meghozni. Ezért a kérdés egyértelműségének megállapításakor vizsgálni kell azt is, hogy a népszavazás eredménye alapján az Országgyűlés el tudja-e dönteni, hogy terheli-e jogalkotási kötelezettség, ha igen milyen jogalkotásra köteles (jogalkotói egyértelműség) [51/2001. (XI. 29.) AB határozat, ABH 2001, 392, 396.; 25/2004. (VII. 7.) AB határozat, ABH 2004, 381, 386.; 24/2006. (VI. 15.) AB határozat, ABH 2006, 358, 360–361.; 84/2008. (VI. 13.) AB határozat, ABH 2008, 695, 703.].
+
+Az Alkotmánybíróság megállapította, hogy a feltenni kívánt kérdés a jogalkotói egyértelműség követelményének nem felel meg. A kérdés nem differenciál a nyugellátási formák számos típusa között. Ilyenek a saját jogú nyugellátások, azon belül az öregségi nyugdíj, a rokkantsági nyugdíj, a baleseti rokkantsági nyugdíj, a külön jogszabály alapján járó rehabilitációs járadék; valamint a hozzátartozói nyugellátások, azon belül az özvegyi nyugdíj, az árvaellátás, a szülői nyugdíj és a baleseti hozzátartozói nyugellátások [Tny. 6. § (1)–(2) bekezdés]. A jogalkotói egyértelműség tehát hiányzik, mert nem egyértelmű a jogalkotó számára, hogy eredményes népszavazás esetén a nyugellátások közül csak azok tekintetében kötelező a kívánt módszerrel emelni a nyugellátásokat, amelyeket kifejezetten a „nyugdíj” elnevezéssel illet a jogalkotó, vagy azon nyugellátások tekintetében is, amelyek elnevezése bár más, továbbra is a nyugellátások rendszerébe tartoznak. Ilyen a külön jogszabály alapján járó rehabilitációs járadék [Tny. 6. § (1) bekezdés d) pont]; árvaellátás [Tny. 6. § (2) bekezdés b) pont].
+
+A fentiek miatt a kezdeményezés nem felel meg az Nsztv. 13. § (1) bekezdésében foglalt követelménynek, ezért az Alkotmánybíróság a 26/2009. (I. 30.) OVB határozatot megsemmisítette és az Országos Választási Bizottságot új eljárásra utasította. Az OVB határozat megsemmisítésére tekintettel az Alkotmánybíróság a kifogás további részét érdemben nem vizsgálta.
+
+Az Alkotmánybíróság a határozat közzétételét az OVB határozatnak a Magyar Közlönyben való megjelenésére tekintettel rendelte el.
+
+Alkotmánybírósági ügyszám: 205/H/2009.
