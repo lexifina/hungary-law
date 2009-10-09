@@ -1,0 +1,1 @@
+A Kormány a fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdés b) és g) pontjában kapott felhatalmazás alapján, a 4. § tekintetében az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, valamint az Alkotmány 35. § (1) bekezdés a) és b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
