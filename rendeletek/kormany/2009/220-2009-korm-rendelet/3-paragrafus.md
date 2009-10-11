@@ -1,0 +1,1 @@
+## A működési előleg forrása
