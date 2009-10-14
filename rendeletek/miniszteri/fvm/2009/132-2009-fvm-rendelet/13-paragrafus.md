@@ -1,0 +1,1 @@
+## „(4) Ha a mezőgazdasági termelő más szarvasmarhatartás-támogatásban is részt vesz, az ellenőrzések során a támogatási feltételeknek való meg nem felelés esetén a támogatási összeg meghatározására, kizárólag az áthúzódó szankció levonása tekintetében, a 796/2004/EK bizottsági rendelet 57., 59. és 69. cikke szerinti eljárást kell alkalmazni.”
