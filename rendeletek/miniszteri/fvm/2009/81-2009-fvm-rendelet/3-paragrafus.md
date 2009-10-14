@@ -1,0 +1,1 @@
+## Az ellenőrzésre való kiválasztás
