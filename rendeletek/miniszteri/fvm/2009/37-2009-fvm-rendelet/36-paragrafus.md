@@ -1,0 +1,3 @@
+36. § (1) A mezőgazdasági termelő a támogatásra bejelentett állatlétszámnak megfelelő anyajuhállományt köteles 100 egymást követő napon át birtokán tartani. A birtokon tartási kötelezettség a támogatási kérelem benyújtására nyitva álló határidőt követő naptól kezdődően áll fenn.
+
+(2) Amennyiben a mezőgazdasági termelő a birtokon tartási időszak alatt megváltoztatja a kérelmezett állatállomány tartási helyét, úgy köteles azt az MVH által rendszeresített formanyomtatványon bejelenteni a változás bekövetkezésétől számított 15 munkanapon belül. A bejelentés késedelme vagy elmaradása esetén az Eljárási tv. 71. §-a alapján mulasztási bírság szabható ki.

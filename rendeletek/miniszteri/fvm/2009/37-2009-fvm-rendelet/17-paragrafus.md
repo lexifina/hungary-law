@@ -1,0 +1,1 @@
+## A nyilvánvaló hibák helyesbítése
