@@ -1,0 +1,1 @@
+A víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 88. §-a (2) bekezdésének s) pontjában kapott felhatalmazás alapján, figyelemmel a Vkt. 26. §-ának (1) bekezdésére is – az oktatási miniszterrel egyetértésben – a következőket rendelem el:
