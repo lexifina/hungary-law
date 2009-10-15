@@ -1,0 +1,1 @@
+## 1. § A Nemzeti Fogyasztóvédelmi Hatóság (a továbbiakban: NFH) hivatalból indított eljárása során felmerülő mintavételi költség, továbbá laboratóriumi és egyéb vizsgálati költség (a továbbiakban együtt: eljárási költség) mértékét e rendelet melléklete határozza meg.
