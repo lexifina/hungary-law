@@ -1,0 +1,1 @@
+9. § Ez a rendelet – a fogyasztóvédelemről szóló 1997. évi CLV. törvény 2. § m) és n) pontjával, 14. § (1)–(3), (5) és (6) bekezdésével együtt – a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről szóló, 1998. február 16-i 98/6/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
