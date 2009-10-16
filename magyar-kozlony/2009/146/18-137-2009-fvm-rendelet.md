@@ -1,0 +1,56 @@
+# A földművelésügyi és vidékfejlesztési miniszter 137/2009. (X. 16.) FVM rendelete
+
+Magyar Közlöny 2009. évi 146. szám, 2009. október 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a45730e7c8927de48fd7cfa84e43c0ce78cb3ffe/dokumentumok/4fcf94acd35615d48d31bc7edd6e645defe8457e/letoltes)
+
+---
+
+A földművelésügyi és vidékfejlesztési miniszter 137/2009. (X. 16.) FVM rendelete
+az anyajuhtartás „de minimis” támogatásáról
+A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes
+kérdéseiről szóló 2007. évi XVII. törvény 81. § (4) bekezdésében kapott felhatalmazás alapján, a földművelésügyi és vidékfejlesztési
+miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. §-ának a) pontjában meghatározott feladatkörömben
+eljárva a következőket rendelem el:
+1. §
+E rendelet alkalmazásában:
+a)
+agrár „de minimis” rendelet: az EK-szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott
+csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2007. december 20-i 1535/2007/EK
+bizottsági rendelet;
+b)
+anyajuh: minden olyan, a juh fajhoz tartozó nőivarú állat, amely a birtokon tartás utolsó napjáig már legalább egy
+ízben ellett, vagy legalább egyéves;
+c)
+támogatási rendelet: az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes terület alapú támogatás
+(SAPS), valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) 2009. évi igénybevételével
+kapcsolatos egyes kérdésekről szóló 37/2009. (IV. 3.) FVM rendelet;
+d)
+regisztrált mezőgazdasági termelő: a támogatási rendelet 1. § 1. pontja szerinti mezőgazdasági termelő.
+2. §
+(1) E rendelet alapján anyajuh tartásához vissza nem térítendő támogatás vehető igénybe.
+(2) A támogatás igénybevételére az a regisztrált mezőgazdasági termelő jogosult, aki a támogatási rendelet 34–37. §-a
+szerint anyajuhtartási támogatásban részesül.
+(3) A támogatás mértéke 1240 Ft/anyajuh. A támogatás a támogatási rendelet 34–37. §-a szerinti támogatás alapját
+képező állatok után vehető igénybe. A támogatás országos szinten a 2009. évre vonatkozóan legfeljebb 840 000 egyed
+
+után nyújtható. A Mezőgazdasági és Vidékfejlesztési Hivatal (a továb biak ban: MVH) a támogatási összeg agrár „de
+minimis” rendelet szerinti nyilvántartása céljából, a 2009. május 1-jén érvényes, az Európai Központi Bank által
+közzétett két tizedesjegy pontossággal meghatározott forint/euró árfolyamot veszi figye lembe.
+(4) A támogatás regisztrált mezőgazdasági termelőnként, naptári évenként egy alkalommal nyújtható, és összege
+termelőnként nem haladhatja meg egy évre vonatkozóan a 2.500 eurót, valamint az agrár „de minimis” rendelet
+3. cikkének (2) bekezdése szerinti küszöbértéket.
+3. §
+(1) Támogatási kérelemnek a támogatási rendelet 37. §-ának (1) bekezdése alapján benyújtott támogatási kérelem
+minősül.
+(2) Az MVH határozatban közli a jogosulttal, hogy csekély összegű támogatásban részesül. A csekély összegű
+támogatásról hozott határozatnak tartalmaznia kell az agrár „de minimis” rendelet pontos címét, az Európai Közösség
+Hivatalos Lapjában való kihirdetése napját, valamint meg kell határoznia a támogatás pontos összegét euróban és
+forintban kifejezve.
+(3) A támogatás egyösszegű kifizetésére 2010. április 30-ig kerül sor.
+4. §
+Az e rendelet alapján nyújtott támogatás az agrár „de minimis” rendelet hatálya alá tartozik.
+5. §
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) E rendelet hatálybalépésével egyidejűleg az anyajuhtartás „de minimis” támogatásáról szóló 122/2008. (IX. 16.) FVM
+rendelet hatályát veszti. E bekezdés az e rendelet hatálybalépését követő napon hatályát veszti.
+Gráf József s. k.,
+földművelésügyi és vidékfejlesztési miniszter
