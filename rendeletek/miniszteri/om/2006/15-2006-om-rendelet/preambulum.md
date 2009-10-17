@@ -1,0 +1,1 @@
+A felsőoktatásról szóló 2005. évi CXXXIX. törvény 153. §-a (2) bekezdésének b) pontjában foglalt felhatalmazás alapján – a Magyar Rektori Konferencia, a Főiskolai Főigazgatói Konferencia és a Művészeti Egyetemek Rektori Széke egyetértésével – a következőket rendelem el:
