@@ -1,0 +1,21 @@
+## Vándoroltatáshoz szükséges új eszközök beszerzésének támogatása
+
+13. § (1) A 2. § (1) bekezdés c) pont cb) alpontja szerinti támogatás az eredményes méhészkedés érdekében a vándoroltatást elősegítő speciális eszközcsoportok beszerzéséhez vehető igénybe. A támogatás keretösszege a 2009/2010. évi végrehajtási időszakra legfeljebb 200 000 euró, amely aggregátor és benzines szívó-fúvógép, benzinmotoros fűkasza/bozótvágó, csörlő, kézi hidraulikus emelő (béka), elektronikus táv-kaptármérleg, méhes vagyonvédelmi rendszer beszerzésének támogatásához használható fel, és 140 000 euró, amely utánfutó, daru, emelőhátfal, méhek tartására alkalmas új építésű konténer, teherautó, villástargonca, önjáró rakodógép beszerzésének támogatásához használható fel.
+
+(2) A (3) bekezdés szerinti pótkocsira vagy legalább differenciálzárral ellátott kisméretű, legfeljebb 3,5 tonna összsúlyú teherautóra, teherautóra szerelhető darukra, emelőhátfalakra és méhek tartására szolgáló új építésű konténerre vonatkozó támogatást az MgSzH 2009. június 1-je és szeptember 30-a között végzett felmérése szerint legalább 30 méhcsaláddal rendelkező méhész igényelheti. A differenciálzárral ellátott és legfeljebb 7,5 tonna összsúlyú teherautóra, terepjáró villástargoncára, önjáró rakodógépre vonatkozó támogatást a MgSzH 2009. június 1-je és szeptember 30-a között végzett felmérése szerint legalább 80 méhcsaláddal rendelkező méhész igényelheti.
+
+(3) A támogatás kaptárak szállítására kialakított, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet szerinti új pótkocsi vagy legalább differenciálzárral ellátott kisméretű legfeljebb 3,5 tonna összsúlyú teherautó, differenciálzárral ellátott legfeljebb 7,5 tonna összsúlyú teherautó, teherautóra szerelhető daru (VTSZ 8426 91 10), és emelőhátfal (VTSZ 8428 90 95), terepjáró villástargonca (VTSZ 8427 20 11), önjáró rakodógép (VTSZ 8429 51 99), benzines szívó-fúvógép (VTSZ 8414 59), benzinmotoros fűkasza/bozótvágó (VTSZ 8467 89 00) és legfeljebb 3 kW elektromos teljesítményű aggregátor/robbanómotorral meghajtott áramfejlesztő (8501 11 20 vagy 8502 20 20), csörlő [kézi hidraulikus emelő (béka)], méhek tartására szolgáló új építésű konténer, elektronikus táv-kaptármérleg és méhes vagyonvédelmi rendszer beszerzéséhez vehető igénybe.
+
+(4) Kérelmezőnként egy darab (3) bekezdés szerinti berendezés, de termelői csoportonként három pótkocsi, három teherautó támogatható, amennyiben a kérelmező a benyújtást megelőző öt évben támogatást ugyanolyan eszközre nem vett igénybe.
+
+(5) A támogatás mértéke kérelmenként az elszámolható költség (a beszerzési ár, valamint pótkocsi, utánfutó, daru, emelőhátfal és teherautó esetében a műszaki vizsga díja, átíratás költségei, üzembe helyezési díj, rendszámtábla hatósági díja, érvényesítő címke költsége) legfeljebb ötven százaléka, de utánfutó, daru, emelőhátfal, méhek tartására alkalmas új építésű konténer esetében legfeljebb 1200 euró, teherautónként, villástargoncánként, önjáró rakodógépenként legfeljebb 2000 euró, illetve aggregátor és benzines szívó-fúvógép, benzinmotoros fűkasza/bozótvágó, csörlő, kézi hidraulikus emelő (béka), elektronikus táv-kaptármérleg, méhes vagyonvédelmi rendszer esetében legfeljebb 200 euró.
+
+(6) A támogatási kérelemhez csatolni kell:
+
+a) a méhcsalád tartási helye szerint illetékes hatósági vagy jogosult állatorvos igazolását a 2009. június 1-je és szeptember 30-a között végzett felmérés szerinti, az igénylő tulajdonát képező méhcsaládszámról (az igazoláson szerepelnie kell az illetékes hatósági vagy jogosult állatorvos aláírásának, székhelye megnevezésének és bélyegzőlenyomatának),
+
+b) a kérelmező OMME tagságáról szóló igazolást,
+
+c) a támogatási kérelem alapjául szolgáló költségeket igazoló bizonylatok (számla, amely tartalmazza az alvázszámot teherautó és pótkocsi esetében, illetve a pénzügyi teljesítését igazoló bizonylat), valamint a forgalmi engedély, méhek tartására alkalmas új építésű konténer esetében a műszaki dokumentáció másolati példányait. Az üzembe helyezés költségei tekintetében a számla, illetve a kifizetést igazoló bizonylat egyikének benyújtása is elegendő,
+
+d) nyilatkozatot arra vonatkozóan, hogy a kérelmező más közösségi intézkedés keretében az adott eszközre támogatást nem igényelt.
