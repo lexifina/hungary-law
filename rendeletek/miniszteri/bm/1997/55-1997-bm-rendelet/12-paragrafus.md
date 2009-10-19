@@ -1,0 +1,5 @@
+12. § (1) A települési polgári védelmi szervezetek megalakítási tervét a helyi hivatásos polgári védelmi szerv közreműködésével a települési polgári védelmi parancsnokság dolgozza ki, és a település polgármestere hagyja jóvá.
+
+(2)[^8] Az illetékességi területén létrehozott települési polgári védelmi szervezetek személyi és anyagi-technikai felépítéséről a polgármester adatszolgáltatása alapján a helyi hivatásos polgári védelmi szerv kimutatást készít.
+
+[^8]: A 12. § (2) bekezdése a 4/2005. (II. 19.) BM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 6. §-ának (2)–(3) bekezdése alapján az e bekezdésben meghatározott adatszolgáltatás tartalmi és formai követelményeit az országos katasztrófavédelmi főigazgató 2005. március 6. napját követő 60 napon belül állapítja meg és teszi közzé. 2005. március 6. napját követő 180 napon belül kell végrehajtani – a külön jogszabályokban meghatározottak szerint – a meglévő polgári védelmi szervezetek átalakítását, illetve az új szervezetek létrehozását.
