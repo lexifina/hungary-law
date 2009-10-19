@@ -1,0 +1,1 @@
+Az árak megállapításáról szóló 1990. évi LXXXVII. törvény 7. § (1)–(2) és (4) bekezdésében kapott felhatalmazás alapján – a felszolgálási díj mértékének tekintetében – a pénzügyminiszterrel egyetértésben a következőket rendelem el:
