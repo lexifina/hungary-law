@@ -1,0 +1,17 @@
+27. § (1) A sportrendezvény rendezési jogára vonatkozó pályázat benyújtását legalább 45 nappal megelőzően a sportszövetség a sportrendezvény megrendezésének szándékát és az előirányzatból való támogatás iránti igényét tartalmazó regisztrációs kérelmet nyújt be a miniszter részére. A regisztrációs kérelmet a 3. melléklet szerinti – az ÖTM által internetes honlapján is közzétett – nyomtatványon kell postai és elektronikus úton megküldeni.
+
+(2) A miniszter a regisztrációs kérelmet annak kézhezvételétől számított 30 napon belül elbírálja, dönt annak nyilvántartásba vételéről vagy elutasításáról, amelyről a sportszövetséget értesíti. Ha a regisztrációs kérelem kiegészítésre vagy kijavításra szorul, azt a miniszter a hiányok megjelölése mellett hiánypótlás végett a kérelmező sportszövetségnek legfeljebb 15 napos határidő kitűzésével visszaküldi.
+
+(3) A miniszter elutasítja a regisztrációs kérelem nyilvántartásba vételét, ha
+
+a) nem a jogosult nyújtotta be, vagy
+
+b) nem a 26. § szerinti sportrendezvény megrendezésének szándékát tartalmazza, vagy
+
+c) a regisztrációs kérelem a sportszövetség hibájából hiányosan került benyújtásra, és a hiánypótlás is eredménytelen volt.
+
+(4) Ha a sportrendezvény rendezési jogára vonatkozó pályázathoz az Stv. 50. § (3) bekezdés b) pontjában meghatározott garanciavállalás, illetve a Kormány döntését igénylő létesítményfejlesztés, beruházás, eszközbeszerzés szükséges, a regisztrációs kérelem a Kormány fentiekre vonatkozó döntését követően vehető nyilvántartásba.
+
+(5) A regisztrációs kérelem nyilvántartásba vétele a miniszter részére fizetésikötelezettség-vállalást nem jelent.
+
+(6) A 26. § szerinti előirányzatból kizárólag annak a sportszövetségnek nyújtható támogatás, amelynek az adott sportrendezvényre vonatkozó regisztrációs kérelmét a miniszter nyilvántartásba vette.

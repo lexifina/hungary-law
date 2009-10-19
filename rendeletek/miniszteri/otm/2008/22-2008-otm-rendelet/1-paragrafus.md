@@ -1,0 +1,5 @@
+## I. Fejezet
+
+## AZ ÁLLAMI SPORTCÉLÚ TÁMOGATÁSOKRA VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
+
+## A rendelet hatálya
