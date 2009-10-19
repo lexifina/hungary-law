@@ -1,0 +1,1 @@
+## 9. § E rendelet rendelkezéseinek megtartását a közegészségügyi, illetőleg az állatvédelmi ellenőrzésre feljogosított szervek, az MgSzH, valamint a nyilvántartásba vétel feltételeinek fennállása vonatkozásában a Hivatal ellenőrzi, jogsértés észlelése esetén a külön jogszabályokban meghatározott szankciót alkalmazzák.
