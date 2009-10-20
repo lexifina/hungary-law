@@ -1,0 +1,86 @@
+# A Kormány 240/2009. (X. 20.) Korm. rendelete
+
+Magyar Közlöny 2009. évi 148. szám, 2009. október 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2362455ea58eafbf1a27b60394683a63dc0cf622/dokumentumok/1fb880ca14d248e0d756ac35efafbf488c2e5390/letoltes)
+
+---
+
+A Kormány 240/2009. (X. 20.) Korm. rendelete
+a köztisztviselők jutalmazásának egyes átmeneti szabályairól
+A Kormány a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továb biak ban: Ktv.) 34. § (13) bekezdésében és 49/O. §
+(6) bekezdésében, valamint a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló
+2006. évi LVII. törvény 76. § (1) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
+1. §
+A köztisztviselői teljesítményértékelés és jutalmazás szabályairól szóló 301/2006. (XII. 23.) Korm. rendelet
+(a továb biak ban: R.) 16. § b) pontja helyébe a következő rendelkezés lép:
+[A jutalom alapja]
+„b) az a) pont hatálya alá nem tartozó köztisztviselő esetén a költségvetési tör vény ben megállapított köztisztviselői
+illetményalap annak arányában, amennyi ideig a köztisztviselő a statisztikai állományi létszámban szerepel.”
+2. §
+Az R. a következő új 19/A. §-sal egészül ki:
+„19/A. § (1) A 2009. évben e rendelet szabályait azzal az eltéréssel kell alkalmazni, hogy
+a) a „kivételes teljesítmény” és a „magas szintű teljesítmény” kategóriába nem lehet sorolni köztisztviselőt,
+b) ha az 1. számú melléklet III. 4. pontjában 76 és 100 pont közötti érték adódik, a köztisztviselőt a „kivételes vagy
+magas szintű teljesítmény” kategóriába kell besorolni,
+c) a „kivételes vagy magas szintű teljesítmény” kategóriába az eloszlási szinthez tartozó köztisztviselők legfeljebb
+50%-a sorolható be, azzal, hogy ha az eloszlási szintre besorolt köztisztviselők száma kevesebb mint 6 fő, akkor
+e kategóriába az eloszlási szinthez tartozó köztisztviselők legfeljebb 50%-a plusz egy fő sorolható be,
+d) a „kivételes vagy magas szintű teljesítmény” kategóriába sorolt köztisztviselő esetében a komplex
+teljesítményértékelés alapján járó jutalom összege
+da) vezető és tanácsadó esetében a jutalomalap 0%-ától a jutalomalap 16%-áig terjedhet, azzal, hogy az eloszlási
+szinthez tartozó, „kivételes vagy magas szintű teljesítmény” kategóriába sorolt vezetők és tanácsadók együttes,
+a komplex teljesítményértékelés alapján járó jutalma legfeljebb a jutalomalapok összegének 12%-a lehet,
+db) a da) alpont hatálya alá nem tartozó, felsőfokú végzettséggel rendelkező köztisztviselő esetében nulla forinttól az
+illetményalap tizenötszöröséig terjedhet azzal, hogy e köztisztviselői körben a „kivételes vagy magas szintű
+teljesítmény” kategóriába sorolt köztisztviselők együttes, a komplex teljesítményértékelés alapján járó jutalma
+legfeljebb átlagosan az illetményalap tizenkétszerese lehet,
+dc) a da) alpont hatálya alá nem tartozó, felsőfokú végzettséggel nem rendelkező köztisztviselő esetében nulla
+forinttól az illetményalap tízszereséig terjedhet azzal, hogy e köztisztviselői körben a „kivételes vagy magas szintű
+teljesítmény” kategóriába sorolt köztisztviselők együttes, a komplex teljesítményértékelés alapján járó jutalma
+legfeljebb átlagosan az illetményalap hétszerese lehet,
+e) a „jó teljesítmény” kategóriába sorolt köztisztviselő esetében a komplex teljesítményértékelés alapján járó jutalom
+összege
+ea) vezető és tanácsadó esetében a jutalomalap 0%-ától a jutalomalap 6%-áig terjedhet, azzal, hogy az a jutalomalap
+százalékában kifejezve nem lehet magasabb, mint az adott szervnél „kivételes vagy magas szintű teljesítmény”
+kategóriába sorolt bármely vezető vagy tanácsadó részére a jutalomalap százalékában meghatározott jutalom
+összege,
+eb) az ea) alpont hatálya alá nem tartozó, felsőfokú végzettséggel rendelkező köztisztviselő esetében nulla forinttól
+az illetményalap hatszorosáig terjedhet, azzal, hogy a jutalom összege nem lehet magasabb, mint az adott szervnél
+„kivételes vagy magas szintű teljesítmény” kategóriába sorolt bármely, vezetőnek vagy tanácsadónak nem minősülő
+köztisztviselő részére meghatározott jutalom összege,
+ec) az ea) alpont hatálya alá nem tartozó, felsőfokú végzettséggel nem rendelkező köztisztviselő esetében nulla
+forinttól az illetményalap négyszereséig terjedhet, azzal, hogy a jutalom összege nem lehet magasabb, mint az adott
+szervnél „kivételes vagy magas szintű teljesítmény” kategóriába sorolt bármely, vezetőnek vagy tanácsadónak nem
+minősülő köztisztviselő részére meghatározott jutalom összege,
+f) a „megfelelő teljesítmény” és a „fejlesztés szükséges” kategóriába sorolt köztisztviselő számára a komplex
+teljesítményértékelés alapján jutalom nem fizethető,
+g) a jutalmat a tárgyévet követő év január 31-ig kell kifizetni.
+(2) Az (1) bekezdésben meghatározott jutalmat a 16/A. § alapján a 2009. évben ténylegesen kifizetett részjutalom
+összegével – legfeljebb a jutalom összegéig terjedően – csökkenteni kell.”
+
+3. §
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) Az autonóm államigazgatási szervek, az R. 19. §-ában és a köztisztviselői teljesítményértékelés és jutalmazás
+szabályairól szóló 301/2006. (XII. 23.) Korm. rendelet módosításáról szóló 31/2008. (II. 21.) Korm. rendelet 13. §-ában
+meghatározott központi államigazgatási szervek kivételével a központi államigazgatási szerveknél, azok területi és
+helyi szerveinél, valamint a Kormány általános hatáskörű területi szerveinél foglalkoztatott olyan köztisztviselők
+számára, akikre az R. rendelkezéseit a 2009. évben nem kell alkalmazni, a 2009. évben legfeljebb kéthavi jutalom
+fizethető ki azzal, hogy az adott szerv köztisztviselői számára átlagosan egyhavi jutalomnál több nem fizethető ki.
+(3) Az autonóm államigazgatási szervek kivételével a központi államigazgatási szervnél, azok területi és helyi szerveinél,
+valamint a Kormány általános hatáskörű területi szerveinél foglalkoztatott köztisztviselő, továbbá a szakállamtitkár
+számára e rendelet hatálybalépését köve tően legfeljebb a (8) bekezdés szerint meghatározott keretösszegen belül,
+legfeljebb kéthavi illetménynek megfelelő összegű céljuttatás fizethető ki.
+(4) Állami vezető számára jutalom, továbbá miniszter és államtitkár részére céljuttatás nem fizethető ki.
+(5) Az R. 16. § a) pontja szerinti jutalomalap megállapításánál figyelmen kívül kell hagyni a költségvetési szerveknél
+foglalkoztatottak 2009. évi havi kereset-kiegészítés címén kifizetett juttatást.
+(6) Az R. 19/A. §-át alkalmazni kell az e rendelet kihirdetésekor folyamatban levő teljesítményértékelésekre is.
+(7) Az R. 22. §-ában a „2010. január 1-jétől” szövegrész helyébe a „2011. január 1-jétől” szöveg lép.
+(8) A központi költségvetési fejezethez kijelölt kincstárnok a jutalmazásra fordítható keretösszeget, illetve a céljuttatásra
+fordítható keretösszeget elő ze tesen véleményezi, azokkal összefüggésben szükség esetén különösen az
+államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet 152/C. § (6) bekezdése szerinti eljárást
+kezdeményezheti.
+(9) Az R. 19/A. §-a, valamint e rendelet 2010. február 1-jén hatályát veszti.
+Bajnai Gordon s. k.,
+miniszterelnök
+
+V.
+A Kor mány tag ja i nak ren de le tei
