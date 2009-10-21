@@ -1,0 +1,1 @@
+## 90. § Az állatgyógyászati készítmények minőségének a piacfelügyeleti ellenőrzés keretében való vizsgálatát az MgSzH Központ OMCL laboratóriumai végzik. A vizsgálathoz a mintát az MgSzH területi szerve az MgSzH Központ által kiadott éves mintavételi terv alapján veszi.

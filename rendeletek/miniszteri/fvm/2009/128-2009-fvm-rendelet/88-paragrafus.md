@@ -1,0 +1,9 @@
+88. § (1) A forgalomba hozatali engedély jogosultja az MgSzH Központ kérésére köteles haladéktalanul kiszolgáltatni az immunológiai állatgyógyászati készítmények vizsgálatához szükséges mintákat a 86. § (3) bekezdése szerinti minőségi bizonylatokkal együtt. A vizsgálathoz szükséges mintát az MgSzH Központ felkérése alapján az MgSzH területi szerve veszi.
+
+(2) Az MgSzH Központ a kérdéses tétel ellenőrzésére irányuló szándékáról köteles tájékoztatni a forgalomba hozatali engedély jogosultját, az érintett tagállamokat, amelyekben az immunológiai állatgyógyászati készítményt engedélyezték, valamint az EDQM-et, hogy más tagállam hatósága már ne alkalmazza az (1) bekezdésben foglalt szabályt.
+
+(3) A 86. § (3) bekezdése szerinti minőségi bizonylatok tanulmányozását követően az MgSzH Központ OMCL laboratóriuma a beküldött mintán megismétli a gyártó által a készterméken elvégzett vizsgálatokat a készítmény törzskönyvi dokumentációjában leírtaknak megfelelően. Az ismételt vizsgálatok körét azokra az indokolt vizsgálatokra kell korlátozni, amelyekkel az összes érdekelt tagállam, és ha szükséges, az EDQM is egyetért.
+
+(4) A vizsgálatokat az MgSzH Központ a minták beérkezését követő 60 napon belül elvégzi, és a vizsgálat eredményéről ugyanezen határidőn belül értesíti a többi érintett tagállamot, az EDQM-et, a forgalomba hozatali engedély jogosultját, az MgSzH területi szervét, és ha szükséges, a gyártót. Ha a vizsgálatok hosszabb időt vesznek igénybe, az MgSzH Központ erről előzetesen értesíti a forgalomba hozatali engedély jogosultját és az Európai Bizottságot.
+
+(5) A 726/2004/EK rendelet alapján engedélyezett immunológiai állatgyógyászati készítmények ellenőrzése során az MgSzH Központ az EDQM által kiadott irányelv szerint jár el. Ez esetben az előírt vizsgálatok körének csökkentéséhez az Európai Gyógyszer Ügynökség jóváhagyása szükséges.

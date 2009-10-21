@@ -1,0 +1,15 @@
+67. § (1) A nagykereskedő köteles részletes nyilvántartást vezetni, amelyben minden egyes bevételi vagy kiszállítási ügyletnél köteles nyilvántartásba venni
+
+a) az ügylet dátumát,
+
+b) az állatgyógyászati készítmény pontos megnevezését,
+
+c) az állatgyógyászati készítmény gyártási számát, lejárati idejét,
+
+d) a bevételezett vagy kiadott mennyiséget, és
+
+e) a beszállító vagy vevő nevét és címét.
+
+(2) A nagykereskedő legalább évente egyszer köteles a bevételezésekről és kiadásokról, valamint a raktáron lévő készletekről készítményenként, gyártási tételek szerinti bontásban teljes körű leltárt végrehajtani és ennek tapasztalatait jegyzőkönyvben rögzíteni. A jegyzőkönyvet és nyilvántartásokat helyszíni ellenőrzés, illetve ellenőrzés céljára 5 évig meg kell őrizni.
+
+(3) A nagykereskedőnek közegészségügyi, illetve állategészségügyi veszély esetére tervvel kell rendelkeznie, amely biztosítja az MgSzH Központ által az Éltv. 34. §-a (4) bekezdés i) pontjával összhangban elrendelt bármely termék-visszahívási művelet hatékony végrehajtását.

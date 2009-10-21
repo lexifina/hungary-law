@@ -1,0 +1,3 @@
+51. § (1) A kiindulási anyagként felhasznált hatóanyagok gyártása magában foglalja a 2. számú melléklet 2. részének C szakaszában meghatározott kiindulási anyagként felhasznált hatóanyag teljes és részleges gyártását vagy behozatalát, valamint az állatgyógyászati készítményben való felhasználását megelőzően végzett szétosztás (dividálás), csomagolás és kiszerelés különböző eljárásait, beleértve az átcsomagolást vagy az átcímkézést, amelyeket a kiindulási anyagok forgalmazója végez.
+
+(2) Az (1) bekezdés szerinti hatóanyagokat gyártani kizárólag engedély alapján lehet. Az engedély tekintetében a 43–50. § rendelkezéseit értelemszerűen alkalmazni kell.

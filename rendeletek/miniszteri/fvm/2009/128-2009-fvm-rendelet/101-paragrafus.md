@@ -1,0 +1,5 @@
+101. § (1) Az MgSzH Központ a forgalomba hozatali engedélyre vonatkozó döntéseiről, továbbá valamely termék forgalmazásának megtiltására, illetve piacról való kivonására vonatkozó döntéseiről a döntés alapját képező indokokkal együtt haladéktalanul tájékoztatja az Európai Gyógyszer Ügynökséget.
+
+(2) A forgalomba hozatali engedély jogosultja köteles haladéktalanul értesíteni az MgSzH Központot minden olyan lépésről, amely valamely állatgyógyászati készítmény forgalmazásának felfüggesztésére vagy a piacról történő kivonására irányul, a lépés alapjául szolgáló indokokkal együtt, amennyiben ez utóbbiak az állatgyógyászati készítmény hatékonyságával vagy a közegészség védelmével kapcsolatosak. Az MgSzH Központ biztosítja, hogy ez az információ az Európai Gyógyszer Ügynökség tudomására jusson.
+
+(3) Az MgSzH Központ az (1) és (2) bekezdés alapján hozott intézkedéseivel kapcsolatos információt haladéktalanul az illetékes nemzetközi szervezetek tudomására hozza, ha az harmadik ország közegészségügyét érintheti. Az MgSzH Központ az információt másolatban megküldi az Európai Gyógyszer Ügynökségnek is.

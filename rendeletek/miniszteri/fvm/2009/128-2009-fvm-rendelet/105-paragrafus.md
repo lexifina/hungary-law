@@ -1,0 +1,1 @@
+## 104. § Ha a gyártó nem rendelkezik állatgyógyászati készítmény forgalomba hozatali engedélyével, az MgSzH Központ a gyártó részére nyilatkozatot ad, amelyben indokolja, miért nem áll a gyártó rendelkezésére forgalomba hozatali engedély.

@@ -1,0 +1,3 @@
+## VI. RÉSZ
+
+## HATÓSÁGI ELLENŐRZÉS ÉS SZANKCIÓK
