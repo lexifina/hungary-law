@@ -1,0 +1,1 @@
+## Jelentés a vizsgálat befejezéséről

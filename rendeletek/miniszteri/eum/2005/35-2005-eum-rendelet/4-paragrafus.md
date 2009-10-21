@@ -1,0 +1,1 @@
+## A vizsgálati alanyok védelme
