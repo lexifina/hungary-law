@@ -1,0 +1,1 @@
+## Klinikai vizsgálatra szánt eszköz

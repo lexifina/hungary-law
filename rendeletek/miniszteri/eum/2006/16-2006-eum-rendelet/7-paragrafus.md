@@ -1,0 +1,15 @@
+7. § (1) A kijelölt szervezet indokolt esetben minden olyan tájékoztatást vagy adatot megkövetelhet, amely a választott eljárás vonatkozásában a megfelelőség vizsgálatához, ellenőrzéséhez, tanúsításához és a tanúsítvány érvényességének fenntartásához szükséges. A 6. § (1)–(7) bekezdése szerinti eljáráshoz a szükséges dokumentumokat magyarul vagy az EGT más tagállamának hivatalos – a kijelölt szervezet által elfogadott – nyelvén kell a kijelölt szervezet rendelkezésére bocsátani.
+
+(2) A kijelölt szervezetnek a 2. és 3. számú mellékletek szerint kiállított tanúsítványa legfeljebb 5 évig érvényes. A tanúsítvány lejárta előtt – a felek közötti megállapodásban meghatározott időpontban, ennek hiányában a lejárat előtt legalább 3 hónappal benyújtott megkeresésre – egy alkalommal legfeljebb további 5 éves időszakra a tanúsítvány meghosszabbítható.
+
+(3) A gyártó vagy a meghatalmazott képviselő és a kijelölt szervezet a 2–6. számú mellékletek szerinti értékelések és vizsgálatok elvégzésének feltételeit szerződésben rögzíti.
+
+(4) Közegészségügyi célból – orvosilag indokolt kérelemre, az illetékes szakmai kollégium előzetes jóváhagyásával – legfeljebb 1 év időtartamra, meghatározott egészségügyi szolgáltatónál történő felhasználásra a Hivatal kivételesen engedélyezheti olyan egyedi eszköz eseti használatbavételét és alkalmazását, amelyet nem vetettek alá a 6. § (1)–(7) bekezdései szerinti eljárásoknak, amennyiben más forgalomban lévő eszközzel az egyedi eszköz nem helyettesíthető.
+
+(5) Ha a megfelelőségértékelési eljáráshoz a kijelölt szervezet közreműködése szükséges és az adott eljárás lefolytatására több szervezet is ki van jelölve, közülük a gyártó vagy a meghatalmazott képviselő választ.
+
+(6) Amennyiben a kijelölt szervezet megállapítja, hogy a gyártó nem felel meg az e rendeletben meghatározott követelményeknek, illetve nem lehetett volna kiállítani a megfelelőségi tanúsítványt, a kijelölt szervezet az eset összes körülményeit mérlegelve felfüggeszti vagy visszavonja az általa kiadott megfelelőségi tanúsítványt, kivéve, ha a kijelölt szervezet felhívására, az abban foglalt határidőn belül a gyártó a megfelelő intézkedések megtételével biztosítja az e rendeletnek való megfelelést, illetve a megfelelőségi tanúsítvány kiállításához szükséges feltételeket.
+
+(7) A kijelölt szervezet minden e rendelet szerinti tanúsítási tevékenységéről – ideértve a tanúsítást, változásokat, kiegészítéseket, felfüggesztéseket, visszavonásokat és visszautasításokat – a Hivatalnál beszerezhető formanyomtatvány, illetve annak elektronikus változata útján tájékoztatja a Hivatalt és a többi kijelölt szervezeteket. A Hivatal a kijelölt szervezet tájékoztatása alapján értesíti a Bizottságot és az EGT tagállamokat. A kijelölt szervezet – a Hivatal megkeresésére – rendelkezésre bocsát minden, a tevékenységével összefüggő egyéb információt.
+
+(8) A kijelölt szervezet szakmai ellenőrzését – a külön jogszabály szerinti Kijelölő Bizottság kérésére vagy saját kezdeményezésre – a Hivatal végzi. A Hivatal a szakmai ellenőrzés eredményéről beszámol a Kijelölő Bizottságnak.
