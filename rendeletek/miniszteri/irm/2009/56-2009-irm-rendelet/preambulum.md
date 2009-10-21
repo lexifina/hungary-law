@@ -1,0 +1,1 @@
+A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 10. § (2) bekezdésében kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VI. 28.) Korm. rendelet 1. §-ában meghatározott feladatkörömben a következőket rendelem el:
