@@ -1,0 +1,1 @@
+Az árak megállapításáról szóló 1990. évi LXXXVII. törvény (a továbbiakban: Ártv.) 7. §-ának (1) és (2) bekezdésében, valamint a villamos energiáról szóló 2001. évi CX. törvény (a továbbiakban: VET) 113. §-ának b) pontjában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
