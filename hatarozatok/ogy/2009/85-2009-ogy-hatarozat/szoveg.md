@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése Molnár Oszkár országgyűlési képviselő mentelmi jogát a Kazincbarcikai Városi Bíróság 14.B.417/2009/2-14.B.786/2009/2. és 14.B.796/2009/2. számú megkereséseivel érintett ügyekben nem függeszti fel.
