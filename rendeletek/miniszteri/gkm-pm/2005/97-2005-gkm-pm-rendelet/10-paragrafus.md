@@ -1,0 +1,1 @@
+## 9. § A légiközlekedési hatóságnak a kezdeti árplafon módosításához – a 3. mellékletben foglaltak alapján – adott hozzájárulása nem érinti a repülőtér üzemben tartójának az ötéves időszak lejártát követő újabb Díjszabályzat jóváhagyásra történő benyújtására vonatkozó kötelezettségének teljesítését.

@@ -1,0 +1,1 @@
+## 8. § A repülőtér üzemben tartója kizárólag a Díjszabályzat módosításával rendelkezhet korábban díjmentes szolgáltatás díjfizetési kötelezettséggel járó szolgáltatássá minősítéséről, illetve egészítheti ki a Díjszabályzatot abban korábban nem szereplő szolgáltatással. A Díjszabályzat módosítására a Díjszabályzat jóváhagyására vonatkozó szabályokat kell alkalmazni.
