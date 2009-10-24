@@ -1,0 +1,3 @@
+## 10. §[^25] Az innovációs tanácsadó szolgáltatásokhoz és az innovációs támogató szolgáltatásokhoz nyújtott támogatások esetében a támogatás nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget kedvezményezettenként bármely hároméves időszakban. Amennyiben a szolgáltató nem rendelkezik nemzeti vagy európai tanúsítvánnyal, a támogatás mértéke nem haladhatja meg az elszámolható költségek 75%-át.
+
+[^25]: A 10. § hatálybalépéséről e rendelet 44. § (2) bekezdése alapján külön kormányrendelet rendelkezik. A 12/2008. (I. 26.) Korm. rendelet 9. § (2) bekezdése alapján a rendelkezés 2008. január 27-én lépett hatályba.
