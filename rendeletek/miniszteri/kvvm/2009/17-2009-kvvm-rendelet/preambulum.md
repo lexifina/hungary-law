@@ -1,0 +1,1 @@
+A kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdés j) pont ja) alpontjában kapott felhatalmazás alapján, a környezetvédelmi és vízügyi miniszter feladat- és hatásköréről szóló 165/2006. (VII. 28.) Korm. rendelet 3. § (1) bekezdés b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
