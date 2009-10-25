@@ -1,0 +1,5 @@
+1. §[^2] (1) A nemzeti fejlesztési és gazdasági miniszter mint a Regionális Operatív Programok, valamint a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: VÁTI Nonprofit Kft.) felügyeletéért felelős miniszter a Pro Regio Közép-Magyarországi Regionális Fejlesztési és Szolgáltató Nonprofit Közhasznú Kft.-t, valamint a VÁTI Nonprofit Kft.-t a Közép-magyarországi operatív program régiós hatáskörbe tartozó, a mellékletben foglalt prioritásainak és intézkedéseinek végrehajtásában történő közreműködésre közreműködő szervezetként jelöli ki.
+
+(2) Az (1) bekezdésben kijelölt közreműködő szervezetek a Nemzeti Fejlesztési Ügynökséggel kötött, teljesítményalapú finanszírozási szerződésekben rögzített feladatmegosztás és feladatátadás alapján, a mellékletben nem szereplő egyéb prioritás és intézkedés, valamint más regionális operatív program valamennyi prioritása végrehajtásában történő – az operatív programokban, illetve rendszerleírásokban rögzített munkamegosztást nem érintő – kiegészítő közreműködéssel is megbízhatóak.
+
+[^2]: Az 1. § a 27/2009. (X. 22.) NFGM rendelet 3. §-ával megállapított szöveg.
