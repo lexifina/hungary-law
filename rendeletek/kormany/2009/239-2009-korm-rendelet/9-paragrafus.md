@@ -1,0 +1,5 @@
+9. § (1) Ha a szálláshely-szolgáltató – a szálláshely-üzemeltetési engedély iránti kérelmének benyújtásával egyidejűleg – a természetes gyógytényezőkről szóló külön jogszabály szerinti, az intézmény gyógyászati jellegére utaló megnevezésének engedélyezése (a továbbiakban: gyógyászati jellegre utaló megnevezés engedélyezése) iránti kérelmét a jegyzőhöz nyújtja be, a jegyző a gyógyászati jellegre utaló megnevezés engedélyezésére irányuló eljárásban közreműködő hatóságként jár el.
+
+(2) A közreműködő hatóság a kérelmet – a szálláshely-üzemeltetési engedélyről szóló jogerős határozatával együtt – továbbítja a gyógyászati jellegre utaló megnevezés engedélyezésére hatáskörrel rendelkező illetékes hatósághoz.
+
+(3) A közreműködő hatóság az ügyfelet gyógyászati jellegre utaló megnevezés engedélyezése iránti kérelem tárgyában hiánypótlásra – az igazgatási szolgáltatási díj vagy illeték megfizetésének pótlására való felhívás kivételével – nem hívhatja fel. A közreműködő hatóság az eljárást akkor is megszünteti, ha az eljárásra okot adó körülmény már nem áll fenn.
