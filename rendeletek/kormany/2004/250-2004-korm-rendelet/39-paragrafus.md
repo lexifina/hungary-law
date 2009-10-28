@@ -1,0 +1,1 @@
+## 38. § A végrehajtó a 36. és a 37. § szerinti kézbesítési helyeken történő eljárás sorrendjét maga állapítja meg azzal, hogy elsőként a címzett lakásául szolgáló ingatlanban, illetve szervezet esetében a székhelyén kísérli meg a kézbesítést, kivéve, ha másik kézbesítési helyen valószínűbbnek látszik a kézbesítés sikere.

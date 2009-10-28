@@ -1,0 +1,3 @@
+42. § (1) Ha a kézbesítés helye a közforgalom számára nyitva álló intézmény (művelődési, oktatási intézmény, közhivatal stb.), az intézmény vezetője, illetve alkalmazottja köteles biztosítani azt, hogy a végrehajtó az intézmény területére belépjen és tájékoztatni őt arról, hogy a címzett az intézményben tartózkodik-e, illetve milyen időpontban tartózkodik ott.
+
+(2) A végrehajtó a kézbesítést az intézmény területén foganatosíthatja; a bírósági iratot oly módon kell átadnia a címzett részére, hogy az lehetőség szerint más személyeket ne zavarjon, illetve lehetőség szerint csak a címzett jelenlétében történjen meg.
