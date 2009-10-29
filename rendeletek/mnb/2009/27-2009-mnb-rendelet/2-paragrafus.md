@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján, körvonallal ellátott külső gyűrűben, felső köriratban a „MAGYAR KÖZTÁRSASÁG” felirat olvasható. A középmezőben a Debreceni Református Kollégium szószéktartóján található Krisztus-monogram ábrázolása látható. Az ábrázolás alatti két vízszintes sorban az „5000” értékjelzés és a „FORINT” felirat olvasható. Az emlékérme bal alsó részén a „BP.” verdejel, a jobb alsó részén a „2009” verési évszám olvasható. Az emlékérme előlapjának képét e rendelet 1. melléklete tartalmazza.
+
+(3) Az emlékérme hátlapján, körvonallal ellátott külső gyűrűben, felső köriratban a „SOLI DEO GLORIA”, alsó köriratban a „KÁLVIN JÁNOS 1509–1564” felirat olvasható. A középmezőben Kálvin János – Hans Holbein festménye alapján készült – portréja látható. A portrétól balra az „EUROPA” nemzetközi emlékérme-sorozat közös emblémája, az ún. „Euro-Star” jel látható, míg a portrétól jobbra Csikai Márta tervezőművész mesterjegye található. Az emlékérme hátlapjának képét e rendelet 2. melléklete tartalmazza.
