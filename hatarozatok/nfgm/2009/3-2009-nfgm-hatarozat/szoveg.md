@@ -1,0 +1,5 @@
+A Magyar Közlöny 2008. augusztus 1-jei, 114. számában került kihirdetésre a Közlekedés Operatív Program 4. prioritásának első konstrukciójára vonatkozó részletes szabályokról szóló 10/2008. (VIII. 1.) NFGM rendelet (a továbbiakban: Rendelet). A Rendelet 18. §-ának (2) bekezdése értelmében a nemzeti fejlesztési és gazdasági miniszter az Európai Bizottság határozata meghozatalának időpontját – annak ismertté válását követően haladéktalanul – a Magyar Közlönyben közzétett egyedi határozattal állapítja meg. A Rendelet 18. §-ának (1) bekezdése értelmében a Rendelet az Európai Bizottság jóváhagyó határozatának meghozatalát követő 15. napon lép hatályba.
+
+Az Európai Bizottság 2009. július. 14-én arról tájékoztatta a Magyar Felet, hogy a hatálybalépéshez szükséges jóváhagyó határozat 2009. július 13-án született meg.
+
+A fentiekre tekintettel megállapítom, hogy az Európai Bizottság – a Közlekedési Operatív Program 4. prioritásának első konstrukciójára vonatkozó – jóváhagyó határozatának időpontja 2009. július 13-a, következésképpen az Európai Bizottság határozatának időpontját követő 15. nap 2009. július 28-a.
