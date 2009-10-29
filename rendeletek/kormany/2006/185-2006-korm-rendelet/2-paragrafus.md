@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a fontos kombinált nemzetközi szállítási vonalakról és ezek létesítményeiről szóló 1991. évi Európai Megállapodást (AGTC) kiegészítő, a víziutakon történő kombinált szállításról szóló jegyzőkönyv (a továbbiakban: szerződés) kötelező hatályának elismerésére.
