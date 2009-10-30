@@ -1,0 +1,1 @@
+A Kormány a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 80. § b) pontjában, valamint a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 6. és 8. alpontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
