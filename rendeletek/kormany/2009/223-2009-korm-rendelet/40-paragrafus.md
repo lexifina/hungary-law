@@ -1,0 +1,1 @@
+## 39. § Az elektronikus közszolgáltatást nyújtó szervezet köteles gondoskodni arról, hogy az általa nyújtott szolgáltatás, illetve annak igénybevétele ne veszélyeztesse a központi rendszer biztonságát.

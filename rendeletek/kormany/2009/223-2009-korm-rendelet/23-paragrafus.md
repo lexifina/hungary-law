@@ -1,0 +1,3 @@
+23. § (1) A jogosulatlan hozzáféréstől fizikailag is védeni kell az informatikai rendszernek az informatikai biztonsági célokat szolgáló elemeit és a 15–17. §-ok szerinti naplókat, mentéseket, illetve az ezeket magukban foglaló helyiségeket.
+
+(2) Az (1) bekezdésben említett helyiségekbe csak az erre feljogosított személyek léphetnek be. A belépésre jogosultak személyét (azonosítását), belépésének, kilépésének időpontját, a végzett tevékenységeket naplóban kell rögzíteni. A védett területen való munkavégzés nyilvántartásának rendjét az informatikai biztonsági szabályzat (illetve annak valamely részszabályzata) tartalmazza.
