@@ -1,0 +1,1 @@
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba, az R. e rendelettel megállapított rendelkezéseit az e rendelet hatálybalépését követően indult vagy megismételt eljárásokban kell alkalmazni.
