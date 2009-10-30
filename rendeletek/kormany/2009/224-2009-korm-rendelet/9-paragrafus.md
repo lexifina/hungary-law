@@ -1,0 +1,9 @@
+9. § (1) Sikeres regisztrációt követően a regisztrációs rendszer a felhasználó részére az általa a regisztráció részeként megadott elektronikus levélcímére elektronikus levélben megküldi az ügyfélkapu megnyitásához szükséges egyszer használható aktiváló kódot. Az aktiváló kód a regisztrációtól számított 5 napig használható fel. Az aktiváló kód lejárata után az elfelejtett jelszóra vonatkozó eljárásrendben lehet új jelszót igényelni.
+
+(2) Az aktiváló kód segítségével a kormányzati portál ügyfélkapu aktiválási felületén a felhasználó elvégzi az ügyfélkapu aktiválást, és ennek részeként lecseréli az aktiváló kódot a saját jelszavára.
+
+(3) Amennyiben a regisztrációtól – ide nem értve az ideiglenes regisztrációt, amelynek lejárata 30 nap – számított 60 napon belül nem történik meg az ügyfélkapu aktiválása, a regisztrációs adatbázis adatkezelője törli a regisztrációt.
+
+(4) A központi rendszerben használható jelszó legalább 8 karakter hosszú és egyaránt tartalmaz kis- és nagybetűket, valamint számokat. Egy jelszó legfeljebb két évig használható. A felhasználó a jelszó megadásakor rövidebb lejáratot is beállíthat. A központi rendszer működtetője legfeljebb 3 alkalommal, a jelszó lejárata előtt 1 hónappal, 1 héttel és 1 nappal elektronikus levélben és az értesítési tárhelyen elhelyezett üzenettel figyelmezteti a felhasználót a jelszócsere szükségességére.
+
+(5) A jelszó lejáratát követően 60 napig az elfelejtett jelszó szabályai szerint lehet új jelszót igényelni, ezt követően a regisztrációs szervnél a regisztrációs adatok ellenőrzésével, az új ügyfélkapu nyitásának megfelelő eljárásrendben lehet a hozzáférést megújítani. Ennek eredményeként az ügyfél a korábbi felhasználói név mellé új egyszer használható aktiváló kódot kap, és ennek segítségével ismét hozzáférhet ügyfélkapujához és a tárhelyen tárolt adataihoz.

@@ -1,0 +1,7 @@
+## 13. § A kezelőorvos által kiállított igazolás szerint személyes megjelenésében akadályozott felhasználó esetén a regisztrációs szerv a személyazonosságot a felhasználó lakóhelyén vagy tartózkodási helyén ellenőrzi.
+
+14. §[^8] (1) A Magyar Köztársaság konzuli képviseletein a regisztrációs szerv előtt történt azonosítás szabályai szerint lehet ügyfélkapu nyitását kezdeményezni azzal az eltéréssel, hogy a kitöltött elektronikus űrlapot a konzuli tisztviselő kizárólag a bemutatott, személyazonosításra alkalmas hatósági igazolvánnyal veti össze és ellenőrzi a bemutatott dokumentum érvényességét. Ezután feldolgozásra és az ügyfélkapu létrehozására haladéktalanul megküldi a regisztrációs adatbázis adatkezelőjének, aki az adatokat összeveti a személyi adat- és lakcímnyilvántartással, illetve a központi idegenrendészeti nyilvántartással.
+
+(2) Amennyiben az összevetés alapján az ügyfélkapu létrehozását kérő azonosítható, vagy megállapítható, hogy azért nem szerepel egyik nyilvántartásban sem, mert nem tartozik azok hatálya alá, úgy az ügyfélkapu létrehozásra kerül, és az egyszer használatos aktiváló kódot a megadott elektronikus levelezési címre 3 munkanapon belül elküldi a regisztrációs adatbázis adatkezelője.
+
+[^8]: A 14. § a 38. § (2) bekezdése alapján 2009. december 28-án lép hatályba.

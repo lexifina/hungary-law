@@ -1,0 +1,5 @@
+10. § (1) A felhasználó jogosult több ügyfélkaput létesíteni és fenntartani. Ezek közül – a (2) bekezdésben meghatározott kivétellel – azonban csak egy létesítése és fenntartása díjmentes. A további ügyfélkapu létesítéséért fizetett igazgatási szolgáltatási díj a regisztrációs szerv bevételét képezi.
+
+(2) Amennyiben a felhasználó egy hivatali kapuval rendelkező, vagy azt létesíteni kívánó szervezet hivatali kapujának működtetéséhez, a hivatali kaput létesítő szervezet igazolásával, és az ennek megfelelő elektronikus levélcímmel igényel újabb ügyfélkaput, ez az ügyfélkapu is díjmentesen létesíthető.
+
+(3) A második vagy további ügyfélkapu létesítéséhez kapcsolódó igazgatási szolgáltatási díj megfizetése a regisztrációs szervnél használható fizetési módokon történhet. A díjfizetés ellenében létrehozott ügyfélkapura vonatkozóan az egyszer használatos aktiváló kódot tartalmazó elektronikus levél megküldésére az igazgatási szolgáltatási díj, illetve az erre vonatkozó visszavonhatatlan fizetési ígéret beérkezését követően haladéktalanul sor kerül.
