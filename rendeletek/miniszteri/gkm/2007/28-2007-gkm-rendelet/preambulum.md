@@ -1,0 +1,1 @@
+A fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 56. §-ának a) pontjában foglalt felhatalmazás alapján – a gazdasági és közlekedési miniszter feladat- és hatásköréről szóló 163/2006. (VII. 28.) Korm. rendelet 3. § (2) bekezdésének g) pontjában foglalt feladatkörömben eljárva – a következőket rendelem el:

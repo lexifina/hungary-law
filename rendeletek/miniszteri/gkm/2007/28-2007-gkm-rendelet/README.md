@@ -1,0 +1,9 @@
+# 28/2007. (III. 7.) GKM rendelet
+
+az öngyújtók forgalomba hozatalának egyes követelményeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-28-20-0L
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-10-30 | 2007-28-20-0L.4 | 28/2007. (III. 7.) GKM rendelet |
