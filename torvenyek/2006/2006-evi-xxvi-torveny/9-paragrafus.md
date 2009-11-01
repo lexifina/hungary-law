@@ -1,0 +1,3 @@
+9. § (1) A Szövetség tagja minden hó 15-éig köteles a Szövetségnek nyilatkozni arról, hogy a megelőző hónapban mennyi volt az e törvény hatálya alá tartozó, a tagi hozzájárulás fizetése alapjául szolgáló földgáz hőmennyisége. A Szövetség felhívására a tag köteles minden olyan adatot, dokumentációt haladéktalanul benyújtani, amely a tagi hozzájárulás teljesítésének ellenőrzéséhez szükséges.
+
+(2) A havi nyilatkozatban közölt adatok alapján a tag kiszámítja az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt a következő hónap utolsó munkanapjáig köteles a Szövetség pénzforgalmi számlájára átutalni.
