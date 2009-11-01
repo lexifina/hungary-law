@@ -1,0 +1,1 @@
+87. § Rendőrségi adat harmadik ország, valamint a 86. § (1) bekezdése szerinti nemzetközi szervezeteken kívüli nemzetközi szervezet részére nemzetközi szerződés vagy nemzetközi megállapodás alapján az e törvényben meghatározott célból és csak akkor továbbítható, ha a harmadik ország, illetőleg nemzetközi szervezet a személyes adatok megfelelő védelmét biztosítja.

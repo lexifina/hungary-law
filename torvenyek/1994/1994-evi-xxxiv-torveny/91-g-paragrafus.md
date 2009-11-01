@@ -1,0 +1,1 @@
+91/G. § A bűnüldözési adatok továbbítását az adatkezelőnél írásban kell kérelmezni. A kérelemnek tartalmaznia kell az igénylő szerv – ezen belül a felhatalmazott személy – nevét, az adatkérés célját és indokát.

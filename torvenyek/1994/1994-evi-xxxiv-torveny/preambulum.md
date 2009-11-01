@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Alkotmányának és nemzetközi jogi kötelezettségeinek, valamint a jogállamiság követelményeinek megfelelően működő Rendőrség kialakítása érdekében a következő törvényt alkotja:

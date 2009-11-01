@@ -1,0 +1,1 @@
+14. § A rendőr közreműködik a közbiztonságot fenyegető veszélyhelyzet elhárításában. Ha a veszélyhelyzet elhárítása más szerv feladatkörébe tartozik, de beavatkozására csak késedelmesen van lehetőség, a rendőr haladéktalanul gondoskodik a veszély elhárításáért felelős hatóság vagy más szerv értesítéséről.

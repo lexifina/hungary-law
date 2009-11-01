@@ -1,0 +1,1 @@
+40. § A rendőr a feladata ellátása során — jogszabály eltérő rendelkezése hiányában — beléphet a magánlakásnak nem minősülő egyéb helyre, és ott az intézmény rendjének lehetőség szerinti tiszteletben tartásával intézkedhet.

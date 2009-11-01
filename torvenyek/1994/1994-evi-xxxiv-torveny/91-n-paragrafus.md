@@ -1,0 +1,1 @@
+91/N. § A Rendőrség a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet (Közösségi Kódex) II. melléklete szerinti adatokat egy évig kezeli.

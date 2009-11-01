@@ -1,0 +1,1 @@
+91. § A bűnüldözési adatkezelés során a tényeken alapuló adatokat meg kell különböztetni a következtetésen, véleményen, elemzésen vagy becslésen alapuló adatoktól. A bűnüldözési adatok különböző fajtáit helyes és megbízható voltuk mértékére utaló jelzéssel kell ellátni. A jelzés módjának részletes szabályait a miniszter állapítja meg.

@@ -1,0 +1,39 @@
+101. § (1) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
+
+a) a Rendőrség szerveinek illetékességi területét,
+
+b) a rendőr képesítési és egyéb alkalmassági követelményeit, valamint az alkalmassági feltételek ellenőrzésének szabályait,
+
+c) a rendőrségi fogdák rendjét,
+
+d) a vízirendészettel és a víziközlekedéssel kapcsolatos rendőri feladatokat, a szabad vízen való tartózkodás alapvető szabályait,
+
+e) a Rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a Rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét, a rendőr más kereső foglalkozásának lehetőségét, a Rendőrségnél rendszeresített munkakörök átminősítésének rendjét,
+
+f) a Rendőrség feladatait a polgárőrséggel és más önvédelmi szervezetekkel történő együttműködésben,
+
+g) a rendőrségi adatok kezelésére jogosult szervek feladatait, az adatok kezelésének és feldolgozásának technikai szabályait, valamint a bűnüldözési adatok helyessége, megbízhatósága és felhasználhatósága jelölésének módját,
+
+h) a különleges eszközök és módszerek engedélyezésével, igénybevételével kapcsolatos szabályokat,
+
+i) az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények körét,
+
+j) az eltűnt személyek felkutatásának, illetőleg a rendkívüli halálesetek kivizsgálásának rendjét,
+
+k) a Rendőrség feladatai ellátásának rendjét a fontosabb közúti, vasút, vízi- és légiszállításokkal kapcsolatban, valamint a Rendőrség légi közlekedésrendészeti és repülésbiztonsági, repülésvédelmi feladatait,
+
+l) a belföldi állami futárszolgálat tevékenységét,
+
+m) a kényszerítő eszközök típusát, fajtáját.
+
+(2) Felhatalmazást kap a miniszter, hogy
+
+a) az államháztartásért felelős miniszterrel együttesen, rendeletben állapítsa meg az elővezetés és a kísérés végrehajtásával kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait,
+
+b) a honvédelemért felelős miniszterrel egyetértésben rendeletben állapítsa meg a katonai alakulatok és szállítmányok államhatáron történő átléptetésének rendjét,
+
+c) a közlekedésért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben jelölje ki azokat a vasútvonalakat és vízi utakat, amelyeken a menet közbeni ellenőrzés végezhető,
+
+d) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a határátlépés ellenőrzésének szabályait a nemzetközi forgalom számára ideiglenesen megnyitott repülőtéren.
+
+(3) A titkos információgyűjtés eszközei, módszerei alkalmazásának részletes szabályait a miniszter utasításban állapítja meg.
