@@ -1,0 +1,3 @@
+## 12. §[^10] A tanúsítványt kiállító szerv – amennyiben az nem áll rendelkezésére – beszerzi a tanúsítvány kiállításához szükséges aláírások és bélyegzőlenyomatok mintáját, amelyet a megkeresett szerv vagy személy öt munkanapon belül köteles megküldeni. Az aláírásmintát és a bélyegzőlenyomatot – külön megkeresés nélkül – akkor is meg kell küldeni a tanúsítványt kiállító szerv részére, ha az aláíró személyében vagy a bélyegzőlenyomatban változás következik be.
+
+[^10]: A 12. § a 43/2009. (IX. 22.) IRM rendelet 35. § (7) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
