@@ -1,0 +1,1 @@
+Az Országgyűlés a nem kormányzati és nem haszonelvű szervezetek hazai hagyományainak megőrzése, társadalmi szerepük növelése, közhasznú működésük és gazdálkodásuk áttekinthetőbbé tétele, a közszolgáltatások terén végzett tevékenységük elősegítése, valamint az államháztartással való kapcsolatuk rendezése céljából a következő törvényt alkotja:
