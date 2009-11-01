@@ -1,0 +1,1 @@
+18. § A TTT tagjává az a büntetlen előéletű, felsőfokú végzettségű magyar állampolgár választható, aki legalább öt év szakmai gyakorlattal rendelkezik. Szakmai gyakorlatnak tekintendő a tájékoztatási, továbbá az ezzel összefüggő műszaki, jogi, igazgatási, gazdasági, kulturális, tudományos és közvélemény-kutatási tevékenység.
