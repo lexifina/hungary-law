@@ -1,0 +1,13 @@
+30. § (1) A pénzügyi gondnok a 29. § (6) bekezdésében meghatározott jóváhagyó végzés jogerőre emelkedését követő
+
+a) 30 napon belül a hitelezők követelését a 31. §-ban meghatározott kielégítési sorrend alapján besorolja, és erről a hitelezőket értesíti,
+
+b) 60 napon belül köteles megkísérelni a helyi önkormányzat adósságrendezésbe vonható vagyonának nyilvános értékesítését a forgalomban elérhető legmagasabb áron. A vagyon értékesítése során a hitelezőket elővásárlási jog illeti meg. A 60 napos határidő a 28. § szerinti módon egy alkalommal meghosszabbítható. A pénzügyi gondnok a határidő lejártát követő 30 napon belül az adósságrendezésbe vonható vagyon hitelezők részére történő felosztására tesz javaslatot. A hitelezői igények kielégítése történhet pénzzel, illetve az értékesítetlen vagyontárgyak hitelezők részére történő átadásával is. Ez utóbbi esetben meg kell állapítani – a kielégítési sorrend és a hitelezői követelések arányának megfelelően –, hogy a hitelezők a helyi önkormányzat vagyonából milyen arányban részesednek.
+
+(2) Az értékesítetlen vagyontárgyaknak a hitelezők közötti felosztásával történő vagyonszerzés illetékmentes.
+
+(3) A műemlékek és a védett természeti területek elidegenítésére, kezelői vagy használati joga átadására az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonába adásáról szóló 1991. évi XXXIII. törvény rendelkezései vonatkoznak.
+
+(4) A vagyonfelosztási javaslat benyújtásakor még vitatott hitelezői igénnyel rendelkező hitelezők igényét úgy kell figyelembe venni, mintha a pénzügyi gondnok a hitelezők által követelt teljes összeget elfogadta volna, és az ennek megfelelően számított, a vagyonfelosztás során a vitatott követeléssel rendelkező hitelezőnek jutó vagyonhányadot a jogvita jogerős lezárásáig elkülönítve kell kezelni. Ha jogerős bírósági határozat megállapítja, hogy a hitelező követelése nem volt jogos, a külön kezelt vagyonhányadot a többi hitelező között – a 31. §-ban meghatározott sorrend figyelembevételével, követeléseik arányában, teljes kielégítésük erejéig – kell szétosztani. E szétosztásért a mindenkori jegyző a felelős.
+
+(5) A vitatott követeléssel rendelkező hitelező részére a (4) bekezdés szerint jutó vagyonhányad járulékát – a jogvita jogerős befejezéséig – a vagyonhányaddal együtt kell kezelni és végül azzal kiadni, ha a követelés fennállását jogerős bírósági határozat megállapította. A vagyonhányad kezelésével kapcsolatos esetleges költségeket a vagyonhányadból kell fedezni. A vagyon kiadásakor a hitelező részére elszámolást kell átadni a vagyonnal kapcsolatos bevételekről és kiadásokról.

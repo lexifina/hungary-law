@@ -1,0 +1,1 @@
+Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállítása, a hitelezők követelésének vagyonarányos kielégítése és a helyi önkormányzatok kötelező feladatainak az adósságrendezési eljárás alatti folyamatos teljesítése érdekében a következő törvényt alkotja:

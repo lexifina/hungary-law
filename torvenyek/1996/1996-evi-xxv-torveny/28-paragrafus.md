@@ -1,0 +1,1 @@
+28. § A bíróság a pénzügyi gondnok és a képviselő-testület vagy a hitelezők követelés szerint számított többségének – a határidő lejárta előtt benyújtott – indokolt kérelmére a 22. § (1) bekezdésében, valamint a 25. § (5) bekezdésében foglalt határidőket további 30 nappal meghosszabbíthatja. E végzés ellen fellebbezésnek helye nincs.

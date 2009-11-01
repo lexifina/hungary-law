@@ -1,0 +1,1 @@
+27. § Ha a helyi önkormányzat az egyezségben vállalt kötelezettségének nem tesz eleget a hitelező újabb adósságrendezési eljárást kezdeményezhet, amelyben az eredeti követelése még ki nem elégített hányadának megfizetését követelheti.

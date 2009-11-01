@@ -1,0 +1,7 @@
+19. § (1) A válságköltségvetési rendelettervezetet – a pénzügyi gondnoknak történő átadást követő 8 napon belül – az adósságrendezési bizottság megtárgyalja. Annak elfogadása után a polgármester a válságköltségvetési rendelettervezetet megküldi a képviselők részére, és egyidejűleg 8 napon belüli időpontra képviselő-testületi ülést hív össze.
+
+(2) Ha a képviselő-testület a válságköltségvetést elfogadja, a hitelezőkkel történő egyezség megkötéséig, illetve a vagyon bíróság által történő felosztásáig a helyi önkormányzat e költségvetés alapján gazdálkodik. Ha az adósságrendezési eljárás a válságköltségvetés szerinti költségvetési évben nem fejeződik be, a következő költségvetési évre új válságköltségvetést kell készíteni.
+
+(3) Az adósságrendezés megindítása időpontjától kezdődően a válságköltségvetési rendelet elfogadásáig – a 13. § (1) bekezdésében írt rendelkezése megtartása mellett – a helyi önkormányzat korábbi rendeleteinek megfelelően kell a feladatokat ellátni. A hatósági feladatok, valamint az alapvető lakossági szolgáltatások folyamatos ellátásával összefüggően ebben az időtartamban keletkezett, ki nem egyenlített tartozásokat a válságköltségvetésben kiadásként kell figyelembe venni.
+
+(4) Ha a képviselő-testület a válságköltségvetési rendeletet az adósságrendezés megindításának időpontját követő 60 napon belül nem fogadja el, a pénzügyi gondnok köteles ezt a tényt a bíróságnak bejelenteni, amely az adósságrendezési eljárás az e törvény IV. fejezetében foglaltak szerinti folytatását rendeli el.

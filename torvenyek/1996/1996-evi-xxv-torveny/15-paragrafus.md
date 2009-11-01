@@ -1,0 +1,5 @@
+15. § (1) A pénzügyi gondnok a 10. § (2) bekezdés e) pontjában meghatározott határidőben jelentkező hitelezőket nyilvántartásba veszi, követeléseiket megvizsgálja, majd a bejelentkezésre nyitva álló határidő lejártát követő 15 napon belül tájékoztatja a hitelezőket arról, hogy követeléseiket, illetve ezek biztosítékait elfogadja-e.
+
+(2) Amennyiben a pénzügyi gondnok a hitelező bírósági (hatósági) határozattal még el nem bírált követelését vitatja, azt a hitelező az általános hatáskörű bíróság előtt az elutasítás kézhezvételétől számított 15 napon belül indított eljárásban érvényesítheti. Erről a pénzügyi gondnokot – a keresetlevél (fizetési meghagyás) benyújtásával egyidejűleg – tájékoztatja. Folyamatban levő bírósági eljárás esetén az igény bejelentésével egyidejűleg a hitelezőnek csatolnia kell az ezt igazoló okiratot is.
+
+(3) A (2) bekezdésben írt határidő elmulasztása esetén igazolási kérelemnek helye nincs, a hitelező a követelését a folyamatban lévő adósságrendezési eljárásban nem érvényesítheti.
