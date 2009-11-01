@@ -1,0 +1,3 @@
+14. § (1) Amennyiben a 2004–2009. közötti európai parlamenti ciklusban mandátumot szerzett képviselő, illetve a 6. § (6) bekezdése szerinti nyilatkozatot tett képviselő megbízatása az Európai Parlament működésének befejezésével szűnik meg, és a volt európai parlamenti képviselő a megbízatását legalább két évig látta el – újraválasztásának esetét kivéve – további hat hónapon keresztül az alapdíjának és pótdíjának a megbízatása megszűnését megelőző hat havi átlagának megfelelő összegű ellátásra jogosult. Az erre az időre folyósított díjazás időtartama is munkaviszonyban töltött időnek számít.
+
+(2) Az európai parlamenti képviselő kérelmére az ellátást egy összegben kell kifizetni.
