@@ -1,0 +1,3 @@
+7. § (1) A 6. § nem alkalmazható a távollévők között kötött szerződésekről szóló 17/1999. (II. 5.) Korm. rendelet 6. §-ának (1) bekezdése, valamint az ingatlanok időben megosztott használati jogának megszerzésére irányuló szerződésekről szóló 20/1999. (II. 5.) Korm. rendelet 12. §-ának (1) bekezdése alapján felbontott fogyasztási kölcsönszerződésekre.
+
+(2) A fogyasztó 6. § szerinti elállási (felmondási) jogának gyakorlása a szerződéshez kapcsolódó azon egyéb távollévők között kötött szerződést, illetve távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződést is felbontja (megszünteti), amely a szolgáltató által vagy egy harmadik fél és a szolgáltató előzetes megállapodása alapján a harmadik fél által nyújtott szolgáltatásra vonatkozik.
