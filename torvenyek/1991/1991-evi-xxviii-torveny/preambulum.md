@@ -1,0 +1,1 @@
+Az elmúlt társadalmi rendszerben hozott döntések következtében tisztázatlanná váltak a munkavállalói érdekképviseleti és érdekvédelmi szervezetek vagyoni viszonyai. A jogilag rendezetlen helyzet veszélyezteti e szervek működőképességét és gátolja a szervezkedési szabadság alkotmányos jogának érvényesülését. A helyzet megoldása érdekében az Országgyűlés az alábbi törvényt alkotja:
