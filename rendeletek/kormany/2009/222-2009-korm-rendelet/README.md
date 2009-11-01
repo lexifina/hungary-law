@@ -1,0 +1,9 @@
+# 222/2009. (X. 14.) Korm. rendelet
+
+az elektronikus közszolgáltatás működtetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-222-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-11-01 | 2009-222-20-22.2 | 222/2009. (X. 14.) Korm. rendelet |

@@ -1,0 +1,3 @@
+9. § (1) A 6–8. §-okban nem említett költségvetési szervek a 6. § (5) bekezdés b) pontja szerinti közszolgáltatások nyújtása és a 6–8. §-okban említett szervezetekkel való kapcsolattartás érdekében a 6. § (4) bekezdésben meghatározott eljárásrendben díjmentesen jogosultak a központi rendszerhez csatlakozni.
+
+(2) Az (1) bekezdésben említett szervezetek az ott fel nem sorolt szolgáltatások nyújtásához a működtetővel kötött megállapodás alapján vehetik igénybe a központi rendszert. A megállapodás részeként az igényelt szolgáltatás erőforrás-igényével arányosan járulnak hozzá a központi rendszer fenntartásához. A költségek elszámolása havonta utólag, teljesítményarányosan történik.
