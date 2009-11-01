@@ -1,0 +1,9 @@
+60. § (1) A kisebbségi önkormányzatokat – törvényben meghatározott eltérésekkel – megilletik mindazok a jogok, és terhelik mindazok a kötelezettségek, amelyek a tulajdonost megilletik, illetve terhelik. A tulajdonost megillető jogosultságokról a kisebbségi önkormányzat testülete át nem ruházható hatáskörében minősített többséggel határoz.
+
+(2) Települési, illetőleg területi kisebbségi önkormányzat megszűnésekor a jogutódlás megtörténtéig a megszűnt települési, illetőleg területi kisebbségi önkormányzat tulajdonát képező összes ingó és ingatlan vagyon, vagyoni értékű jog a helyi önkormányzat ideiglenes kezelésébe kerül. A jogutódlás megtörténtével az újonnan alakuló települési, illetve területi kisebbségi önkormányzat tulajdonába kerül a kezelt vagyon egésze vagy a helyébe lépő azonos értékű vagyon.
+
+(3) A (2) bekezdésben meghatározott megszűnéskor a helyi önkormányzat gyakorolja a megszűnt települési, illetőleg területi kisebbségi önkormányzat intézményei tekintetében a fenntartói, felügyeleti jogokat, valamint az intézményvezetők tekintetében a munkáltatói jogokat. A helyi önkormányzat az ideiglenesen kezelésbe vett vagyont nem idegenítheti el, nem terhelheti meg, másnak kezelésre át nem adhatja. Az új települési, illetőleg területi kisebbségi önkormányzat megalakulását követő 30 napon belül a helyi önkormányzat elszámol az ideiglenesen kezelésbe vett vagyonnal.
+
+(4) A jogutódlást követő 30 napon belül az újonnan alakuló települési, illetve területi kisebbségi önkormányzat részére át kell adni az ideiglenes kezelésben tartott vagyont vagy az annak helyébe lépő vagyont, és az ideiglenes kezelés időszakáról elszámolást kell benyújtani.
+
+(5) A települési, illetve területi kisebbségi önkormányzatok tartozásaiért a helyi önkormányzat kizárólag abban az esetben és addig a mértékig felel, ahogyan azt a közöttük létrejött megállapodásban vállalta.

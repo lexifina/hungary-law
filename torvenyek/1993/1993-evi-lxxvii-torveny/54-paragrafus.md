@@ -1,0 +1,1 @@
+54. § Azon a településen, ahol a kisebbséghez tartozó lakosság számaránya ezt indokolja, a helyi köztisztviselői és közalkalmazotti, valamint közjegyzői és bírósági végrehajtói állások betöltése során – az általános szakmai követelmények megtartása mellett – biztosítani kell az adott kisebbség anyanyelvét is ismerő személy alkalmazását.

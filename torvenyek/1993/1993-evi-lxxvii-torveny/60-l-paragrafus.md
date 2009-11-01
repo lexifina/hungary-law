@@ -1,0 +1,1 @@
+60/L. § A köztársasági elnök köztársasági biztost nevez ki meghatározott kisebbségi önkormányzati feladatok ellátásának irányítására – az új kisebbségi önkormányzati testület megválasztásáig, illetve ennek meghiúsulásáig terjedő időre –, ha az Alkotmánybíróság a kisebbségi önkormányzati testületet feloszlatta.

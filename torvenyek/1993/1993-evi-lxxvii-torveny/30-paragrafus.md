@@ -1,0 +1,3 @@
+30. § (1) A települési kisebbségi önkormányzat kapcsolatot tart kisebbségi egyesületekkel, más szervezetekkel, velük együttműködési megállapodást köthet. A települési kisebbségi önkormányzat a feladatai körében támogatja a lakosság önszerveződő közösségeinek tevékenységét, együttműködik e közösségekkel.
+
+(2) A kisebbségi egyesületek, intézmények és más szervezetek – e bekezdés értelmezésében ideértve a kisebbségi célú közhasznú társaságokat is – a kisebbségi kultúra, oktatás, tudomány és művelődés támogatására kiírt állami pályázatokon a települési kisebbségi önkormányzatokkal azonos feltételek mellett vehetnek részt.

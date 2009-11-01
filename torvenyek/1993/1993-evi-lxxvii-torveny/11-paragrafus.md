@@ -1,0 +1,1 @@
+11. § A kisebbséghez tartozó személyeknek joguk van a családra vonatkozó kisebbségi hagyományok tiszteletben tartására, családi kapcsolataik ápolására, családi ünnepeiknek anyanyelven történő megtartására és az ezekhez kapcsolódó egyházi szertartások anyanyelven való lebonyolításának igénylésére.

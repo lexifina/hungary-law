@@ -1,0 +1,3 @@
+49/D. § (1) A helyi önkormányzat és a kisebbségi önkormányzat – a helyi önkormányzatok társulásairól és együttműködéséről szóló törvény szerint – a kulturális intézmény közös fenntartására, közművelődési feladat közös ellátására megállapodást köthet. A közös fenntartású kulturális intézmény tekintetében a 49/C. § (1) bekezdésében foglaltakat kell alkalmazni.
+
+(2) Ha jogszabály a kisebbségi önkormányzat részére valamely döntés meghozatalánál a kulturális intézmény és a kulturális feladat átadásával kapcsolatos ügyben véleményezési vagy egyetértési jogot biztosít, az eljárásra a 47/A. § rendelkezéseit kell alkalmazni.
