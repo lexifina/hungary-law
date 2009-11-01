@@ -1,0 +1,3 @@
+2. § (1) Ha a fél a jövedelmi és vagyoni viszonyai alapján arra szerez jogosultságot, hogy helyette a jogi szolgáltatás díját az állam viseli (5. §), a jogi szolgáltatás igénybevétele a fél számára nem jár költségekkel.
+
+(2) Ha a fél a jövedelmi és vagyoni viszonyai alapján arra szerez jogosultságot, hogy helyette a jogi szolgáltatás díját az állam megelőlegezze (6. §), az előlegezett díjat a támogatás engedélyezéséről szóló határozatban megállapított határidőn belül kell az állam részére visszatérítenie. A visszatérítésre legfeljebb egyéves határidő biztosítható, e határidőn belül pedig a részletekben történő teljesítés is engedélyezhető.

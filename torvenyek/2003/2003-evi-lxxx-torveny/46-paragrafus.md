@@ -1,0 +1,1 @@
+46. § Ha a támogatást engedélyező határozatban foglalt időtartam lejárt, a jogi segítő tájékoztatja a felet, hogy ezt követően csak a jogi segítségnyújtó szolgálat további időtartamot engedélyező határozata alapján járhat el a fél ügyében, vagy ha ennek feltételei fennállnak, a támogatás utólagos engedélyezésére vonatkozó szabályok szerint nyújt jogi szolgáltatást (43–45. §).

@@ -1,0 +1,1 @@
+37. § A visszatérítési kötelezettség elmulasztása esetén a jogi segítségnyújtó szolgálat – a fél kérelmére, indokolt esetben – egy alkalommal legfeljebb hat hónapra terjedő halasztást vagy részletfizetést adhat a teljesítésre, kivéve, ha a visszatérítésre a 27. § (2) bekezdésében foglaltak alapján kerül sor.

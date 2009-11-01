@@ -1,0 +1,1 @@
+6. § A jogi szolgáltatás díját a fél helyett az állam előlegezi, ha a fél rendelkezésre álló havi nettó jövedelme nem haladja meg a tárgyévet megelőző második év – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági bruttó havi átlagkeresetének 43%-át, és vagyona – a 9. §-ban foglaltak figyelembevételével – nincs.

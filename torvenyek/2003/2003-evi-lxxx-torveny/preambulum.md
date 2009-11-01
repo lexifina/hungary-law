@@ -1,0 +1,1 @@
+Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lévők számára egy olyan intézményrendszer, amelyben a támogatottak szakszerű jogi tanácsot és eljárási jogi képviseletet kaphatnak jogaik érvényesítése és jogvitáik megoldása során, az Országgyűlés a következő törvényt alkotja:
