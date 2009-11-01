@@ -1,0 +1,1 @@
+4. § Ha a munkavállaló a megbízást tartalmazó vagy az azt visszavonó nyilatkozatát a bérszámfejtést megelőző 5 napon belül juttatja el a munkáltatóhoz, a munkáltató azt csak a következő bérszámfejtésnél köteles figyelembe venni.
