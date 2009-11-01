@@ -1,0 +1,6 @@
+6. § (1)[^13] Ha a fél jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása) nem haladja meg a munkaviszony alapján megállapított öregségi nyugdíj mindenkori legkisebb összegét, vagyona pedig – a szokásos életszükségleti és berendezési tárgyakon felül – nincs, részére költségmentességet kell engedélyezni. Költségmentességben kell részesíteni – jövedelmi és vagyoni helyzetének vizsgálata nélkül – azt a felet is, aki aktív korúak ellátására jogosult, vagy aktív korúak ellátására jogosult, a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti közeli hozzátartozójával él közös háztartásban.
+
+(2)[^14] Kivételesen költségmentességet lehet engedélyezni akkor is, ha az (1) bekezdésben írt feltételek nem állnak fenn, de a bíróság a fél egyéb körülményeinek figyelembevételével megállapítja, hogy a fél létfenntartása veszélyeztetett.
+
+[^13]: A 6. § (1) bekezdése a 48/2009. (IX. 28.) IRM rendelet 30. § (1) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 6. § (2) bekezdése a 17/1995. (VII. 25.) IM rendelet 5. §-ával megállapított szöveg.
