@@ -1,0 +1,3 @@
+9/B. § (1) Az Európai Unióhoz történő csatlakozásról szóló nemzetközi szerződést kihirdető törvény hatálybalépése napját követően a kizárólagos televíziós közvetítési jog gyakorolása nem sértheti az Európai Unió tagállamaiban a társadalom számára nagy jelentőséggel bíró események közvetítésére vonatkozó rendelkezéseket.
+
+(2) Az 1998. évi XLIX. törvénnyel kihirdetett, a határokat átlépő televíziózásról szóló, Strasbourgban, 1989. május 5-én kelt európai egyezményt módosító Jegyzőkönyvet kihirdető törvény hatálybalépését követően szerzett kizárólagos televíziós közvetítési jog gyakorlása nem sértheti a Jegyzőkönyvet elfogadó államokban a társadalom számára nagy jelentőséggel bíró események közvetítésére vonatkozó rendelkezéseket.

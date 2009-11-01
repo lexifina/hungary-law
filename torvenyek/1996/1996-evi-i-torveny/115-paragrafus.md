@@ -1,0 +1,17 @@
+## VII. Fejezet
+
+## MŰSORELOSZTÓ RENDSZER ÁLTAL TÖRTÉNŐ MŰSORSZOLGÁLTATÁS, ILLETVE MŰSORELOSZTÁS
+
+115. § (1)–(2)
+
+(3)
+
+(4)
+
+(5)–(6)
+
+(7)
+
+(8)
+
+(9)

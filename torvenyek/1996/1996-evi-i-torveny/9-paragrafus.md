@@ -1,0 +1,3 @@
+9. § (1) Ha valamely, a közönség számára egyébként nyilvános rendezvényt egy műsorszolgáltató kizárólagos joggal közvetít, más műsorszolgáltató műsora, illetve hírműsora a közvetítéssel egyidőben vagy a közvetítés után a rendezvényről a szükségleteinek megfelelően a rendezvény valamely részletét olyan mértékben teheti közzé, hogy ne haladja meg a szerzői jogról szóló törvénynek a szerzői művek rádióban, illetve televízióban történő szabad felhasználásának terjedelmét.
+
+(2) A rendezvény részletének közzététele akkor felel meg a műsor, illetve hírműsor szükségleteinek, ha az nem haladja meg az érintett közvetítés (műsorszám) időtartamának tíz százalékát, de legfeljebb az ötven másodpercet.

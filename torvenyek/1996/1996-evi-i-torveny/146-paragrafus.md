@@ -1,0 +1,11 @@
+146. § (1) A törvény hatálybalépése előtt kiadott, dátumszerűen meghatározott ideig szóló stúdióengedélyek jogosultjai 1996. március 31-ig jelenthetik be a Testületnél engedélyük műsorszolgáltatási szerződéssé való átalakítására vonatkozó igényüket. E jogvesztő határidő elmulasztásával az engedély érvényét veszti. A Testület nem köthet szerződést az igénylővel, ha a stúdió nem, vagy nem a stúdióengedélyben foglaltak szerint végez műsorszolgáltatást. A Testület erről szóló határozatával a stúdióengedély érvényét veszti.
+
+(2) Az igénylővel a Testület megköti az eredeti engedélyben foglalt stúdióengedély időtartamáig és az abban foglalt vételkörzetre a szerződést — a műsorszolgáltatási díj megállapításával —, ha a kérelmező a stúdióengedélyben foglaltak szerint működik.
+
+(3) A stúdióengedély érvényének elvesztése folytán felszabaduló frekvenciára (adásidőre) a Testület pályázatot ír ki, kivéve, ha a 100. § (3) bekezdése alapján ahhoz a műsorszolgáltató nem járul hozzá.
+
+(4) A törvény hatálybalépése előtt határozatlan időre, illetve az ebben a törvényben meghatározott határidőre utalással kiadott stúdióengedélyek alapján használt frekvenciák e törvény szerinti hasznosítására pályázatot kell kiírni. Az ebben a törvényben meghatározott határidőre utalással kiadott stúdióengedélyek alapján használt frekvenciákra a Testület kilenc hónapon belül, a határozatlan időre kiadott stúdióengedélyek alapján használt frekvenciákra egy évet követően, de legfeljebb másfél éven belül kell a pályázatot kiírni. E határidőket a törvény hatálybalépésétől kell számítani. A stúdióengedélyek legkésőbb a pályázat alapján megkötött műsorszolgáltatási szerződés alapján kezdődő műsorszolgáltatás megkezdésének időpontjában hatályukat vesztik.
+
+(5) A (3)—(4) bekezdésben jelzett pályázatoknál az értékelés során kiemelt szempontként kell értékelni az azonos frekvencián korábban stúdióengedély alapján műsorszolgáltatásra jogosult korábbi működését.
+
+(6) A törvény 85—88. §-ai, 108. §-a és a VIII. fejezetében foglaltaknak meg nem felelő, e törvény hatálybalépésekor működő vállalkozásokkal a Testület azzal a feltétellel köthet szerződést, hogy azok 1996. december 31-ig kötelesek tevékenységüket módosítani, vagy vállalkozásukat átalakítani.
