@@ -1,0 +1,3 @@
+10. § (1) A társulási tanács döntéseinek előkészítését és feladatainak végrehajtását a többcélú kistérségi társulás székhely települése önkormányzata képviselő-testületének hivatala, vagy – a többcélú kistérségi társulási megállapodásban meghatározottak szerint – a társulási tanács költségvetési szervként létrehozott elkülönült munkaszervezete (a továbbiakban együtt: munkaszervezet) közreműködésével látja el.
+
+(2) A munkaszervezet keretében – külön jogszabályban meghatározott feltételek szerint, a szükséges pénzügyi fedezet biztosítása mellett – működhetnek a minisztériumoknak, valamint területi szerveiknek a kistérségben feladatot ellátó munkatársai.

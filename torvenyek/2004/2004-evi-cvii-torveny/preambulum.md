@@ -1,0 +1,1 @@
+Az Országgyűlés a települési önkormányzatok többcélú kistérségi társulásainak (a továbbiakban: többcélú kistérségi társulás) intézményesítése, a kistérségek összehangolt fejlesztésének előmozdítása, az önkormányzati közszolgáltatások színvonalának kiegyenlített emelése érdekében az alábbi törvényt alkotja:
