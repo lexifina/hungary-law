@@ -1,0 +1,5 @@
+22. § (1) Az elnök ellátja a Testület képviseletét, irányítja az elnökség működését, ellenőrzi határozatai végrehajtását, továbbá ellátja mindazokat a feladatokat, amelyeket az alapszabály feladatkörébe utal.
+
+(2) A Testületnek két elnökhelyettese van, az általános helyettesítési feladatokat ellátó és a gazdasági ügyekért felelős elnökhelyettes. Az általános helyettesítést ellátó elnökhelyettes az elnök távolléte vagy akadályoztatása esetén ellátja az elnök helyettesítését. A gazdasági ügyekért felelős elnökhelyettes felel a Testület gazdálkodásáért, a számviteli feladatok ellátásáért. Az elnökhelyettesek ellátják mindazokat a feladatokat, amelyeket az alapszabály meghatároz. Az alapszabályban kell meghatározni az elnökhelyettesek közötti feladatmegosztás, valamint az elnök és az elnökhelyettesek közötti helyettesítés rendjét.
+
+(3) A bizottság elnökét a bizottság választja meg – tagjai közül – öt évre. A bizottság elnöke irányítja a bizottság működését. A bizottság elnöke az alapszabály által meghatározott körben képviselheti a Testületet és helyettesíti az elnököt, illetőleg az elnökhelyetteseket.

@@ -1,0 +1,7 @@
+# 2001. évi XXXVII. törvény a tankönyvpiac rendjéről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-37-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2009-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2001-37-00-00.16 |
