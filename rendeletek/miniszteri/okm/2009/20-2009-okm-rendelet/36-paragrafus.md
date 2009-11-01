@@ -1,0 +1,3 @@
+36. § (1) E rendelet a kihirdetését követő 8. napon lép hatályba. E rendeletet a hatálybalépését követően igényelt támogatások és meghirdetett pályázatok tekintetében kell alkalmazni.
+
+(2) A XX. Oktatási és Kulturális Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok 2008. évi felhasználásának szabályairól szóló 13/2008. (IV. 10.) OKM rendelet, valamint a XX. Oktatási és Kulturális Minisztérium költségvetési fejezethez tartozó fejezeti kezelésű előirányzatok 2008. évi felhasználásának szabályairól szóló 13/2008. (IV. 10.) OKM rendelet módosításáról szóló 29/2008. (XI. 21.) OKM rendelet 2009. július 31-én hatályát veszti.

@@ -1,0 +1,9 @@
+## 21. § A 10. Alapítványok, közalapítványok támogatása alcímen szereplő alapítványok, közalapítványok támogatása esetén a támogatási összeget meg kell bontani az alapítvány, közalapítvány működésére, illetve a pályáztatásra fordítható összegre. A működésre szolgáló támogatást negyedéves ütemezésben, a pályázat nyerteseinek nyújtandó támogatások összegét pedig a pályázati döntést vagy döntéseket követően, a kifizetések esedékessége alapján lehet folyósítani.
+
+## Közhasznú társaságoknak, nonprofit gazdasági társaságoknak nyújtott támogatások
+
+22. § (1) Azon közhasznú társaságok és nonprofit gazdasági társaságok esetében, amelyek vonatkozásában a tulajdonosi jogokat a minisztérium gyakorolja, a minisztérium által – nem pályázat útján – támogatott közhasznú feladatokat közhasznú keretszerződésben kell rögzíteni, amelyben meg kell határozni a közhasznú keretszerződés időbeli hatályát. A közhasznú keretszerződés alapján megkötött feladatfinanszírozási támogatási szerződésben minden esetben hivatkozni kell a közhasznú keretszerződésre és az abban meghatározott, a támogatási szerződéssel biztosított közhasznú feladatra.
+
+(2) Azon közhasznú társaságok és nonprofit gazdasági társaságok részére, amelyek felett a tulajdonosi jogokat nem a minisztérium gyakorolja, csak az alapító okiratban, társasági szerződésben meghatározott közhasznú feladatokhoz nyújtható támogatás. A feladatfinanszírozási támogatási szerződésben minden esetben hivatkozni kell a támogatási szerződéssel biztosított közhasznú feladatra.
+
+(3) A közhasznú társaságok és nonprofit gazdasági társaságok részére közhasznú keretszerződésük alapján a szerződésben foglalt feltételekkel az év elejei indulással járó pénzügyi nehézségek áthidalása érdekében – kérelemre – áthidaló támogatás adható. Az áthidaló támogatás a tárgyévi közhasznú feladatfinanszírozási támogatás részét képezi.

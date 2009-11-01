@@ -1,0 +1,9 @@
+## Pénzügyi teljesítés
+
+11. § (1) Pénzügyi teljesítés a (2)–(3) bekezdésekben foglalt kivételekkel csak a Kincstár által visszaigazolt kötelezettségvállalásra történhet a kötelezettségvállalás dokumentumában foglalt mértékben és időpontokban, amennyiben a szükséges fedezet az előirányzat-felhasználási és a finanszírozási tervnek megfelelően rendelkezésre áll.
+
+(2) A nem állami fenntartású felsőoktatási intézmények részére nyújtott normatív támogatások esetében a tárgyévre vonatkozó kötelezettségvállalásról szóló dokumentumok kiadásáig – de legkésőbb 2009. április 30-ig – az utolsó ismert feladatmutató és a hatályos normatíva mértékének figyelembevételével havi időarányos támogatás folyósítható. A kötelezettségvállalások alapján szükségessé váló esetleges korrekciókra az év hátralévő hónapjaiban időarányosan kerül sor.
+
+(3) A Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény (a továbbiakban: Kv. tv.) 30. § (1) bekezdése szerinti humánszolgáltatók részére a Kv. tv. 3., 5. és 8. számú mellékletében szereplő normatív és központosított támogatások a tárgyévi feladatmutatókkal kapcsolatos adatszolgáltatást megelőzően a közoktatásról szóló 1993. évi LXXIX. törvény végrehajtásáról szóló 20/1997. (II. 13.) Korm. rendelet és az Ámr. 78. § (3) bekezdésének előírásait figyelembe véve folyósíthatók.
+
+(4) Fel kell függeszteni a támogatás folyósítását a 17. § (1) bekezdése szerinti esetben, továbbá akkor, ha a támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, illetve a minisztérium egyéb módon olyan körülményről szerez tudomást, amely a támogatás felmondását, illetve az attól történő elállást teheti szükségessé a 13. § (1) bekezdése alapján. A felfüggesztésről a minisztérium a kedvezményezettet soron kívül írásban tájékoztatja.

@@ -1,0 +1,7 @@
+## 2. § Az előirányzatok alcímeinek, jogcímcsoportjainak, jogcímeinek megnevezését, felhasználási céljait, azok részfeladatokra történő lebontását, a megvalósításhoz tervezett támogatási összeget, a felhasználás módját, az előzetes egyeztetési kötelezettségeket, továbbá a javaslattételre, ellenjegyzésre és kötelezettségvállalásra jogosult személyek megnevezését az oktatási és kulturális miniszter (a továbbiakban: miniszter) által kiadott belső szabályzat tartalmazza. A szabályzatban rendelkezni kell az előirányzatok módosításának, átcsoportosításának és a kötelezettségvállalások általános eljárási és dokumentációs szabályairól, a pénzügyi teljesítés, a beszámoltatás, ellenőrzés rendjéről, valamint az előirányzatok felhasználásának egyéb – jogszabályi rendezést nem igénylő – részletszabályairól. A szabályzatot a minisztérium honlapján közzé kell tenni.
+
+3. § (1) Az előirányzatok felhasználása támogatás nyújtásával vagy – a fejezet irányítása, illetve fenntartói irányítása (a továbbiakban együtt: irányítása) alá tartozó intézményen keresztül történő lebonyolítás útján – áru beszerzésével, illetve szolgáltatás megrendelésével összefüggő előirányzat-átcsoportosítással történik.
+
+(2) Az előirányzatok terhére közvetlenül csak támogatás adható.
+
+(3) Az államháztartáson belül átcsoportosított előirányzat felhasználására az adott intézmény beszerzési, illetve gazdálkodási szabályzatának rendelkezéseit kell alkalmazni.

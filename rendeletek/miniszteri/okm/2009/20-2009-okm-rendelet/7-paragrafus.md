@@ -1,0 +1,5 @@
+7. § (1) A kötelezettségvállalás feltétele – a (2)–(3) bekezdésben meghatározott eltérésekkel –, hogy a kedvezményezett a rendelkezésére álló saját forrást, valamint a várható kifizetések ütemezését is tartalmazó megfelelő, részletes költségtervet nyújtson be a minisztérium részére. A 4. § (2)–(3) bekezdésében meghatározott esetben a költségtervnek tartalmaznia kell a támogatott feladat ellátásához szükséges, ténylegesen felmerült és igazolt költségek mértékét is.
+
+(2) Amennyiben a kedvezményezett olyan közhasznú társaság vagy gazdasági társaság, amely vonatkozásában a minisztérium a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött szerződés alapján tulajdonosi jogokat gyakorol, az üzleti terv elfogadását igazoló alapítói határozatot kell a minisztériumnak benyújtani.
+
+(3) Amennyiben a kedvezményezett olyan közhasznú társaság vagy gazdasági társaság, amely vonatkozásában a minisztérium tulajdonosi jogokat nem, csak szakmai felügyeletet gyakorol, a Magyar Nemzeti Vagyonkezelő Zrt. üzleti tervet elfogadó határozatát, valamint az üzleti terv alapján elkészített költségtervet kell a minisztérium részére benyújtani.
