@@ -1,0 +1,1 @@
+1. § A pártok a politikai kultúra fejlesztése érdekében tudományos, ismeretterjesztő, kutatási és oktatási tevékenységük elősegítésére a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvényben meghatározott költségvetési támogatásra jogosult alapítványt (a továbbiakban: alapítvány) hozhatnak létre.
