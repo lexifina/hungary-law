@@ -1,0 +1,1 @@
+## 32. § A honvédelmi miniszter rendeletében megállapított leszerelési időponttól eltérő időpontban kerülnek leszerelésre azok a hadkötelesek, akiknél a Hvt. 27. §-ának (2) bekezdésében foglalt körülmények fennállnak. A leszerelés előkészítésére és végrehajtására a 26–31. §-ban foglaltakat kell alkalmazni.

@@ -1,0 +1,1 @@
+## 28. § A leszerelési parancsot a leszerelés előtti napon a hadkötelesekkel az alegységeknél közölni kell, és egyidejűleg át kell adni részükre a személyi okmányaikat (a személyazonosító igazolvány kivételével), valamint a járandóságaikat.

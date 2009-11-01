@@ -1,0 +1,1 @@
+## 29. § A leszerelő hadköteleseket úgy kell elbocsátani, hogy a leszerelés napján elsőnek induló tömegközlekedési eszközökkel hazautazhassanak. A személyazonosító igazolványokat a leszerelés napján az alegység elhelyezési körletének elhagyása előtt kell átadni.

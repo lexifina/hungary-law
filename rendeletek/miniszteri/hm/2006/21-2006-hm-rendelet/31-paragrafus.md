@@ -1,0 +1,1 @@
+## 30. § A katonai szervezet parancsnoka a leszerelés napjáról, annak zavartalan végrehajtása, illetve biztosítása érdekében a területileg illetékes rendőri szervet a leszerelés előtt 10 nappal tájékoztatja.

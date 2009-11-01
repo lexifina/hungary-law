@@ -1,0 +1,3 @@
+6. § (1) A hadkiegészítő parancsnokság vezetője az első fokú sorozóbizottságot (sorozóbizottság elnöke, tagjai és kisegítő személyei) a sorozás megkezdése előtt legalább 10 nappal parancsban hozza létre.
+
+(2) Az első fokú sorozóbizottság orvos és pszichológus tagjainak, valamint a hadkiegészítő parancsnokság sorozó szakfőorvosának kijelölését a hadkiegészítő parancsnokság vezetője a sorozás megkezdése előtt legalább 15 nappal az orvost, pszichológust foglalkoztató egészségügyi intézet vezetőjétől, illetve a hadkiegészítő parancsnokság székhelye szerinti Állami Népegészségügyi és Tisztiorvosi Szolgálat megyei, fővárosi intézetének vezetőjétől kéri.

@@ -1,0 +1,1 @@
+## 24. § A katonai szolgálat félbeszakítása esetén a katonai szervezet a hadköteles nyilvántartási adatait lezárja, a letöltött katonai időt, a kiképzettség fokát, a megszerzett szakképzettséget rögzíti, és 8 napon belül megküldi a behívó hadkiegészítő parancsnokságnak.
