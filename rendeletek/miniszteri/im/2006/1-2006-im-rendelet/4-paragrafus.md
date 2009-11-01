@@ -1,0 +1,3 @@
+4. § (1) A területi áldozatsegítő szolgálat alkalmazottja az ügyfélfogadáson személyesen megjelent ügyfélnek – kérelmére – a nyomtatvány kitöltésében segítséget nyújt, őt a kitöltéshez szükséges információkkal ellátja. Az ügyfél kérésére a területi áldozatsegítő szolgálat alkalmazottja a nyomtatványt – az ügyfél jelenlétében – helyette kitöltheti; ennek tényére a nyomtatvány Közlemények rovatában utalni kell. Az ügyfél a nyomtatványt ebben az esetben is aláírja.
+
+(2) A hiánypótlási felhívásban a területi áldozatsegítő szolgálat az (1) bekezdés szerinti segítségnyújtás lehetőségéről az ügyfélfogadás helyének és időpontjának megjelölésével tájékoztatja az ügyfelet.
