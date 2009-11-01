@@ -1,0 +1,1 @@
+20. § Az e törvényben említett szabadságelvonással kapcsolatos maradandó fogyatékosság vagy súlyos egészségkárosodás miatt a sérelmet szenvedett a nemzeti gondozás keretében külön juttatásban részesül.
