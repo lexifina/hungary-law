@@ -1,0 +1,1 @@
+## 56. § A megyei bírósági végrehajtó működésével kapcsolatban a megyei bírósági végrehajtóhoz, a bírósághoz vagy a BGH-hoz postán érkezett összeget átvétel nélkül, rendeltetésének megfelelően a megyei bírósági végrehajtói letéti számlára, illetőleg a megfelelő számlára kell telepíteni.

@@ -1,0 +1,1 @@
+## 4. § Ha a végrehajtó szolgálata megszűnt, őt más székhelyre helyezték át, vagy az elveszett bélyegzője előkerült, továbbá, ha a végrehajtó a bélyegző megváltoztatására kapott engedélyt, az addig használt, illetőleg előkerült bélyegzőt olyan bevágással kell érvényteleníteni, amely az azonosíthatóságát nem akadályozza.

@@ -1,0 +1,1 @@
+## A végrehajtható okirat továbbítása
