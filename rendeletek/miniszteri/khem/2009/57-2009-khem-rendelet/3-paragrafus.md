@@ -1,0 +1,3 @@
+3. § (1) A kedvezményre jogosultság a munkaviszony, közszolgálati, közalkalmazotti jogviszony fennállása, a saját jogú, hozzátartozói nyugellátásra, illetve nyugdíjszerű társadalombiztosítási ellátásra jogosultság tartama alatt illeti meg a jogosultat, nyugdíjas személy esetén addig az időpontig, amíg az 1. § b) pontja alapján nyugdíjasnak minősül.
+
+(2) A kedvezményezett vasúti társaság tulajdonosi szerkezetében bekövetkezett olyan változás esetén, amelynek következtében a kedvezményezett vasúti társaság már nem felel meg az 1. § a) pontjában foglaltaknak, az utazási kedvezményre jogosultság a tulajdonosi szerkezetben bekövetkezett változás napjával szűnik meg.

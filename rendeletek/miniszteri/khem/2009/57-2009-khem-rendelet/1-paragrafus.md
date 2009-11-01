@@ -1,0 +1,13 @@
+## A vasúti utazási kedvezményre jogosultak köre
+
+## 1. § E rendelet alkalmazásában
+
+a) kedvezményezett vasúti társaság: az országos, térségi vagy elővárosi vasúti közszolgáltatást végző, valamint az országos vasúti pályahálózatot működtető vasúti társaság, továbbá minősített többséget biztosító befolyása alatt álló vasúti társaságok,
+
+b) nyugdíjas: a kedvezményezett vasúti társaságtól, elkülönült vasútegészségügyi szervezettől nyugdíjba vonult személy, aki a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 6. § (1) bekezdése szerinti saját jogú nyugellátásban – ideértve a korengedményes nyugdíjat is – részesül, feltéve, ha nyugdíjazását közvetlenül megelőzően kedvezményezett vasúti társasággal, illetve az elkülönült vasútegészségügyi szervezettel folyamatosan legalább öt évig állt munkaviszonyban, illetve közalkalmazotti jogviszonyban és összeszámítva legalább 10 év munkaviszonnyal vagy közalkalmazotti jogviszonnyal rendelkezik, vagy kedvezményezett vasúti társaságnál, illetve az elkülönült vasútegészségügyi szervezetnél összeszámítva legalább húsz év munkaviszonnyal, illetve közalkalmazotti jogviszonnyal rendelkezik és munkaviszonyához, illetve közalkalmazotti jogviszonyához kapcsolódóan utazási kedvezmény illette meg,
+
+c) igényjogosult hozzátartozó: igényjogosult hozzátartozónak minősül a 2. § (1) bekezdés a), b), d) és e) pontjaiban meghatározott személyekkel közös háztartásban élő vagy a 2. § (1) bekezdése c) pontjában meghatározott okokból már elhunyt személlyel közös háztartásban élt házastárs vagy élettárs, valamint eltartott gyermek (ideértve a mostoha, a nevelt és az örökbefogadott gyermeket is), továbbá a 2. § (1) bekezdésének a) vagy e) pontjában meghatározott, már elhunyt nyugdíjassal közös háztartásban élt özvegye, volt élettársa, eltartott gyermeke, kivéve, ha az özvegy, volt élettárs a reá irányadó öregségi nyugdíjra jogosító életkorának betöltése előtt házasságot köt, élettársi kapcsolatot létesít,
+
+d) eltartott gyermek: eltartott gyermeknek tekintendő a gyermek a 18. életévének betöltése napjáig. Amennyiben a gyermek oktatási intézmény nappali tagozatán tanul, a tanulmányok tartamára, de legfeljebb a 25. életév betöltése napjáig. Eltartott gyermeknek minősül a gyermek abban az esetben is, ha az iskola igazolása szerint betegsége, testi vagy szellemi fogyatékossága miatt tanulmányait magántanulóként végzi, továbbá ha a kedvezmény megszűnése előtt a gyermek megrokkant, ennek tartamára a kedvezmény életkorra tekintet nélkül megilleti,
+
+e) szolgáltató vasúti társaság: az országos, térségi vagy elővárosi vasúti közszolgáltatást végző vasúti társaság.
