@@ -1,0 +1,1 @@
+A tudományos kutatások és a kutatási infrastruktúra független, széles körű támogatása, a fiatal kutatók segítése, nemzetközi színvonalú tudományos eredmények létrehozása érdekében az Országgyűlés az Országos Tudományos Kutatási Alapprogramokról (a továbbiakban: OTKA) a következő törvényt alkotja:
