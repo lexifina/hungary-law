@@ -1,0 +1,1 @@
+A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény (a továbbiakban: Jstv.) 75. §-ának b) pontjában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
