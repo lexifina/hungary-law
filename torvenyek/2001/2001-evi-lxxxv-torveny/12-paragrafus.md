@@ -1,0 +1,7 @@
+12. § (1) A Szolgálat az érintett nyugellátásának megállapítása érdekében adatokat kérhet be az adatkezelő szervtől és a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény szerint a nyugellátásra való jogosultságot és annak összegét határozattal megállapíthatja. A megállapított nyugellátásról a nyugdíjfolyósító szervet a Szolgálat a határozat megküldésével értesíti.
+
+(2) A határozat ellen a kézbesítéstől számított 15 napon belül a rendészetért felelős miniszterhez (a továbbiakban: miniszter) fellebbezés nyújtható be. A miniszter határozata ellen a kézbesítéstől számított 30 napon belül keresettel a bírósághoz lehet fordulni. Az eljárás lefolytatására a Fővárosi Bíróság az illetékes. A bíróság a felek közötti jogvitát zárt tárgyaláson bírálja el.
+
+(3) A Szolgálat az egészségügyi szolgáltatások, illetve ellátások igénybevétele, valamint a társadalombiztosítási juttatások összegének megállapítása érdekében adatokat kérhet be az adatkezelő szervtől, és a megállapított társadalombiztosítási juttatásra való jogosultságról, illetve annak mértékéről az egészségbiztosítási szervet értesíti. A jogorvoslati jogosultságra vonatkozóan a (2) bekezdésben foglaltakat kell alkalmazni.
+
+(4) Ha a Szolgálat (1) és a (3) bekezdésben meghatározott szerveket a megállapított nyugellátásról, valamint a megállapított társadalombiztosítási juttatásra való jogosultságról, annak mértékéről értesíti, azt követően a nyugdíj folyósítása, illetve az egészségügyi szolgáltatások, valamint az ellátások igénybevétele az általános szabályok szerint történik.

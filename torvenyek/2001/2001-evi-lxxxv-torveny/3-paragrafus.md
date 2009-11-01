@@ -1,0 +1,1 @@
+3. § Megállapodás a 2. §-ban meghatározottak személyére tekintettel azok hozzátartozójával, továbbá – kivételesen – más személlyel is köthető, ha azt a fenyegetett helyzetben lévő személy vagy az érintett méltányolható helyzete indokolja és a védelem céljával összeegyeztethető.

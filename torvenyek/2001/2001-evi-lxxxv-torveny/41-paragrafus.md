@@ -1,0 +1,1 @@
+41. § Az e törvényben meghatározott intézkedések, különösen az adatzárlat elrendelésének, a nyilvántartott adatokkal kapcsolatos megkeresések jelzésének és a személyazonosság megváltoztatásának részletes szabályait a rendőrség és az intézkedés végrehajtásában érintett szervek közötti együttműködési megállapodások rögzítik.

@@ -1,0 +1,3 @@
+26. § (1) Ha az adatkezelésre, illetve az okirat kiállítására jogosult szerv tudomása szerint a 25. § (2) bekezdésében meghatározott új okirat kiállítása nyomós közérdeket sért, illetve sérthet, e körülményről – mérlegelés végett – a Szolgálatot haladéktalanul értesíti. Ha a Szolgálat az eredeti megkeresését továbbra is megalapozottnak tartja, a megkeresést a megkeresett szerv köteles végrehajtani.
+
+(2) Ha az érintett a 25. § (1) bekezdés a) pontjában meghatározott kötelezettségét neki felróható okból nem teljesíti, a személyazonosság megváltoztatására irányuló intézkedés – a teljesítés bekövetkezéséig – nem hajtható végre.

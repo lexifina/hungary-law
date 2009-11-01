@@ -1,0 +1,1 @@
+10. § A Szolgálat a Program keretében a 16. § (1) bekezdésében foglalt különleges óvintézkedések indokoltságáról és – ha feltételei fennállnak – alkalmazásáról önállóan dönt, illetve azokat önállóan kezdeményezi.

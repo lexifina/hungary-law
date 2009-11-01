@@ -1,0 +1,3 @@
+13. § (1) A 35. § (1) és (3) bekezdése alapján magánszemélynek kifizetett támogatás jövedelmet pótló összegéből a kifizetőnek 20% forrásadót kell levonnia és befizetnie az adóhatósághoz. A magánszemélynek ezt a jövedelmet nem kell összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről személyre szólóan adatot szolgáltatnia, illetőleg a magánszemély részére igazolást kiadnia. A támogatásnak a nem jövedelmet pótló összegét a magánszemély jövedelmének kiszámításánál nem kell figyelembe venni.
+
+(2) A Program tartama alatt az adatzárlattal, valamint a személyazonosság megváltoztatásával érintett adózó adóügyében a kijelölt állami adóhatóság jár el.
