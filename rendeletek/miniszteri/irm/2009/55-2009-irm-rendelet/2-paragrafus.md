@@ -1,0 +1,5 @@
+## Az intézkedések közös szabályai
+
+2. § (1) A közterület-felügyeletről szóló 1999. évi LXIII. törvény (a továbbiakban: Kftv.) 1. § (2) bekezdése alapján létrehozott közterület-felügyelet, illetve a Kftv. 1. § (3) bekezdése szerint a polgármesteri, főpolgármesteri hivatalban alkalmazott közterület-felügyelő (a továbbiakban együtt: felügyelet) a kerékbilincs alkalmazásának, illetve a jármű elszállításának, tárolásának (a továbbiakban együtt: intézkedés) végrehajtásához felelősségbiztosítással rendelkező közreműködőt is igénybe vehet.
+
+(2) A Kftv. 20. § (7) bekezdésében meghatározott közreműködő igénybevétele esetén a kerékbilincs felszerelése, továbbá a jármű elszállítása során a szállító járműre történő felrakodás, illetve a vontató járműhöz történő rögzítés csak közterület-felügyelő (a továbbiakban: felügyelő) jelenlétében történhet. A kerékbilincs leszerelése, valamint az elszállított jármű visszaadása – a felügyelő ellentétes rendelkezése hiányában – a felügyelő jelenléte nélkül is végezhető.

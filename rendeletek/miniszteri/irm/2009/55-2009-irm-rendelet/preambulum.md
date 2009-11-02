@@ -1,0 +1,1 @@
+A közterület-felügyeletről szóló 1999. évi LXIII. törvény 29. § b) pont ba) alpontjában kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § k) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
