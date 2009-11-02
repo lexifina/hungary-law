@@ -1,0 +1,7 @@
+## 1. számú melléklet a 2/1968. (I. 24.) IM rendelethez
+
+## A Kekir. 1. számú mellékletében a „Tájékoztató az 1–5. számú mellékletek szerinti nyomtatványok hátoldalához” című szövegrész 6. pontja helyébe a következő szöveg lép:
+
+## „6. Ha a kérelmező (a hozzátartozó) társadalombiztosítási nyugellátásban vagy nyugdíjszerű rendszeres szociális ellátásban részesül, a kérelemhez a nyugellátás, illetve a nyugdíjszerű szociális ellátás összegéről a Nyugdíjfolyósító Igazgatóság által kiállított igazolást, vagy ennek másolatát kell csatolni. Ha a kérelmező vagy hozzátartozója a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerint álláskeresési járadékban, álláskeresési segélyben valamint vállalkozói járadékban vagy a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti időskorúak járadékában, rendszeres szociális segélyben, rendelkezésre állási támogatásban, ápolási díjban vagy a családok támogatásáról szóló törvény szerinti családi pótlékban, gyermekgondozási támogatásban, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban, vagy vakok személyi járadékában részesül, a folyósítás időtartamát és az ellátás összegét álláskereső kérelmező esetében az állami foglalkoztatási szerv igazolja; egyébként a folyósító szerv igazolását kell a kérelemhez csatolni.”
+
+2. melléklet a 48/2009. (IX. 28.) IRM rendelethez
