@@ -1,0 +1,1 @@
+## Az üzletszabályzat módosításának rendje
