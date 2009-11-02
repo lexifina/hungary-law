@@ -1,0 +1,11 @@
+22. § (1) A pénzforgalmi szolgáltató a nála befizetett készpénz összegét a számlatulajdonos fizetési számláján az ügyfél azonnali rendelkezési jogának biztosítása mellett – a (2) és (3) bekezdésben foglalt kivétellel – aznapi értéknappal haladéktalanul jóváírja, ha a készpénzbefizetés
+
+a) forintban,
+
+b) fogyasztónak vagy mikrovállalkozásnak minősülő számlatulajdonos javára a fizetési számla pénznemével megegyező pénznemben
+
+## történik.
+
+(2) Amennyiben a számlatulajdonos nem fogyasztó vagy mikrovállalkozás, és a készpénzbefizetés a számlavezető pénzforgalmi szolgáltatónál forinton kívüli, a fizetési számla pénznemével megegyező pénznemben történik, a pénzforgalmi szolgáltató az (1) bekezdés szerinti feladatait legkésőbb a pénzösszeg átvételét követő munkanapon teljesíti.
+
+(3) A befizetési funkciót ellátó bankjegykiadó automata útján történő készpénzbefizetés esetén a pénzösszeg fizetési számlán történő jóváírását a befizetés 6. § (2) bekezdésének cb) alpontja szerinti befogadásának napján, azonos értéknappal végzi el a pénzforgalmi szolgáltató.
