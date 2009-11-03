@@ -1,0 +1,115 @@
+# Az igazságügyi és rendészeti miniszter 59/2009. (XI. 3.) IRM rendelete
+
+Magyar Közlöny 2009. évi 154. szám, 2009. november 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f6bf5a45405ed77223937e462e8df85b93627c26/dokumentumok/0247c6d2149ff76191f350ca004b0d727bee78ab/letoltes)
+
+---
+
+Az igazságügyi és rendészeti miniszter 59/2009. (XI. 3.) IRM rendelete
+a központi szabálysértési nyilvántartás részére történő adatközlés formájáról és módjáról,
+valamint az adatszolgáltatás rendjéről
+A szabálysértésekről szóló 1999. évi LXIX. törvény 167. § (6) bekezdésében kapott felhatalmazás alapján, az igazságügyi és
+rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § o) pontjában meghatározott
+feladatkörömben eljárva a következőket rendelem el:
+1. §
+(1) A
+Közigazgatási
+és
+Elektronikus
+Közszolgáltatások
+Központi
+Hivatala
+(a
+továb biak ban:
+Nyilvántartó)
+a szabálysértésekről szóló 1999. évi LXIX. törvény (a továb biak ban: Sztv.) 27/D. § (1) bekezdésében meghatározott,
+adatátvételre feljogosított szerveknek a központi szabálysértési nyilvántartásban (a továb biak ban: szabálysértési
+nyilvántartás) kezelt adatokhoz történő hozzáférést elektronikus úton
+a)
+rendszer-rendszer kapcsolat útján vagy ennek hiányában
+b)
+az erre a célra kialakított felhasználói felületen keresztül
+biztosítja.
+(2) A szabálysértési nyilvántartással kapcsolatos feladatai ellátásához közvetlen hozzáféréssel nem rendelkező jogosult
+részére a Nyilvántartó biztosítja
+a)
+az adattovábbításhoz szükséges felhasználói felületet és informatikai támogatást,
+b)
+az adattovábbítás érdekében rendszeresített elektronikus űrlapot.
+2. §
+(1) Ha az adatszolgáltatás az Sztv. 27/D. § (2) és (3) bekezdésében meghatározott adatigénylő részére elektronikus úton
+nem biztosítható, továbbá ha az adatigénylésre feljogosított szerv vagy személy papír alapon nyújtotta be az
+adatszolgáltatás iránti kérelmét, az adatszolgáltatást papír alapon kell teljesíteni.
+(2) Az Sztv. 27/D. § (2) és (3) bekezdésében meghatározott adatszolgáltatás iránti kérelemnek – az Sztv. 27/E. §
+(1) bekezdésében meghatározottakon túl – tartalmaznia kell:
+a)
+annak a személynek, akire az adatigénylés vonatkozik
+aa)
+a családi és utónevét,
+ab)
+a születési családi és utónevét,
+ac)
+a születési helyét és idejét,
+ad)
+az anyja születési családi és utónevét,
+b)
+azt a tör vényi rendelkezést, amely alapján az igényelt adatok megismerésére az adatigénylő jogosult, valamint
+c)
+az adatigénylő pontos megnevezését és címét.
+(3) A szabálysértési nyilvántartásból az Sztv. 27/G. §-a alapján statisztikai, illetve tudományos kutatási célra történő
+adatigényléskor meg kell jelölni a felhasználás célját, az érintettek körét és az adatszolgáltatás teljesítésének kért
+formáját (papír vagy mágneses adathordozó stb.).
+3. §
+A 2. §-ban meghatározottak alapján teljesített adatszolgáltatás a szolgáltatott adatokon kívül tartalmazza az
+adatszolgáltatás célját és az átadott adatok jogszerű felhasználására figyelmeztető adatvédelmi záradékot is.
+4. §
+A szabálysértési nyilvántartás részére az Sztv. 27/A. § (2) bekezdésében meghatározott szervek az adatközlést
+kizárólag elektronikus úton, a Nyilvántartó által biztosított, az 1. § (1) bekezdésében meghatározott elektronikus
+kommunikációs kapcsolatok egyikén teljesítik.
+5. §
+(1) Az adatközlő szerv a felelősségi körében gondoskodik a szabálysértési nyilvántartásba továbbított adatok
+helyességéről, időszerűségéről, valamint utólag értesíti a Nyilvántartót a később felfedett adathiba tényéről és
+a rendelkezésre álló helyes adatról.
+(2) A Nyilvántartó az ellentmondó, illetve nyilván valóan hibás adatok észlelése esetén az adatközlő szervnél
+kezdeményezi – a (3) bekezdésben foglalt kivétellel – az adathiba kijavítását.
+
+(3) A szabálysértési nyilvántartásban nyilvántartott, a személyiadat- és lakcímnyilvántartás, illetve a központi
+idegenrendészeti nyilvántartás hatálya alá tartozó személyek személyazonosító adatainak minőségéért,
+naprakészségéért az Sztv. 27/B. §-a szerinti összehasonlítás alapján a Nyilvántartó felel.
+(4) A Nyilvántartó gondoskodik a kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása,
+nyilvánosságra hozatala vagy törlése, illetve sérülés vagy megsemmisülés elleni védelméről, valamint felel
+a szabálysértési nyilvántartásból történő adatszolgáltatás jogszerűségéért.
+6. §
+Az adatközlést
+a)
+a bíróság vagy a szabálysértési hatóság előtt indult eljárásban hozott határozat jogerőre emelkedésének,
+b)
+a pénzbírság megfizetése igazolásának,
+c)
+a végrehajtásról szóló határozat meghozatalának,
+d)
+az elzárás büntetés elengedéséről vagy mérsékléséről szóló méltányossági döntés meghozatalának,
+e)
+a pénzbírság megfizetésének elengedéséről, valamint a járművezetéstől eltiltás mellőzéséről szóló méltányossági
+döntés meghozatalának,
+f)
+az elzárás vagy a pénzbírságot helyettesítő elzárás elhalasztásáról vagy félbeszakításáról szóló határozat
+meghozatalának,
+g)
+az elzárás letöltésének vagy az azonnali szabadítás elrendelésének
+napjától számított három munkanapon belül kell teljesíteni.
+7. §
+(1) A szabálysértési nyilvántartáshoz az 1. § (1) bekezdés a) pontjában meghatározott módon hozzáférő szervezet
+nyilvántartja a szabálysértési nyilvántartásban adatkezelési művelet elvégzésére jogosultakat (a továb biak ban:
+jogosultság-nyilvántartás), és e jogosultak jogosultságazonosítóját az adatkezelési művelet végrehajtása során átadja
+a Nyilvántartó részére.
+(2) A szabálysértési nyilvántartáshoz az 1. § (1) bekezdés b) pontjában meghatározott módon hozzáférő szervezet esetén
+a jogosultság-nyilvántartást a Nyilvántartó vezeti.
+(3) A jogosultság-nyilvántartás tartalmazza:
+a)
+a lekérdezési jogosultsággal rendelkező szervezet nevét, azonosítóját,
+b)
+az adatkezelési műveletet végző személy jogosultságazonosítóját.
+8. §
+Ez a rendelet 2010. január 1-jén lép hatályba.
+Dr. Draskovics Tibor s. k.,
+igazságügyi és rendészeti miniszter
