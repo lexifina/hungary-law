@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az 1980. évi 5. törvényerejű rendelettel kihirdetett Közúti Közlekedési Egyezményt kiegészítő európai Megállapodás 1993. évi, 2001. évi és 2006. évi módosításait e törvénnyel kihirdeti.
