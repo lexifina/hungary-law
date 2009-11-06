@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság, az Osztrák Köztársaság, a Bolgár Köztársaság, Románia és a Török Köztársaság között a Nabucco Projekt tárgyában létrejött Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
