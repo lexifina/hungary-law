@@ -1,0 +1,1 @@
+56. § A vadászvizsga díja tízezer forint. A ragadozó madárral való vadászatra, illetve a vadász-íjászatra feljogosító kiegészítő vizsga díja a vadászvizsga mindenkori díjának ötven százaléka. A díjat jelentkezéskor a vadászkamara területi szervezeténél készpénzben vagy készpénz-átutalási megbízással kell teljesíteni.

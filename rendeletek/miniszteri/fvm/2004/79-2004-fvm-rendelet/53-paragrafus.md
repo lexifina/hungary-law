@@ -1,0 +1,1 @@
+53. § Amennyiben a vadászati engedély kiadása iránti kérelmet a vadász az ügyeivel megbízott vadászatszervező útján nyújtja be, a vadászati hatóság kérheti a szervező vadásztatási tevékenység folytatására való jogosultsága igazolását. A kérelemhez csatolni kell a bérvadászati szerződés, vagy vendégvadászat esetén a meghívólevél másolatát.

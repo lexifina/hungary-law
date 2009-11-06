@@ -1,0 +1,3 @@
+74. § (1) Minden vadászházban elsősegélynyújtó felszerelést kell tartani. A társas vadászat színhelyére elsősegélydobozt kell vinni. Erről, valamint az elsősegélynyújtó felszerelések szükség szerinti pótlásáról a vadászatvezető gondoskodik. Egyéni és társasvadászat során minden vadász köteles egyéni sebkötöző csomagot magánál tartani. A vadászattal kapcsolatos építményeket és egyéb berendezéseket a biztonsági követelményeknek megfelelően kell létesíteni és üzemben tartani.
+
+(2) Személyi sérülés esetén a sérültet azonnal elsősegélyben kell részesíteni, és haladéktalanul gondoskodni kell orvosi ellátásáról. A vadászlőfegyverrel okozott személyi sérülés esetén elsősegélyt kell nyújtani, és a helyszínt biztosítani kell.

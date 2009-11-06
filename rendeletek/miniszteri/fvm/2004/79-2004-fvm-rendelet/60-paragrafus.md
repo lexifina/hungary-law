@@ -1,0 +1,3 @@
+60. § (1) A vadászati hatóság külön engedélyével meghatározott célra tudományos kísérlet, lakott területről történő eltávolítás és egyéb humán-, illetve állat-egészségügyi célból vadbefogásra olyan kábító és bénító vegyszert, valamint lőszert lehet alkalmazni, amely a vad életét és testi épségét nem veszélyezteti. Tudományos kutatás céljából a vadászati hatóság a vadászati módok, illetve a vadászati idények alól felmentést adhat.
+
+(2) A Vtv. 30. §-ának (2) bekezdése alapján róka, dolmányos varjú, szarka és szajkó elpusztítására védett állatot nem veszélyeztető szelektív hatású vegyszer is alkalmazható.

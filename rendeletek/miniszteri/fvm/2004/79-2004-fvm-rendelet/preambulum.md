@@ -1,0 +1,1 @@
+A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény (a továbbiakban: Vtv.) 100. §-a (1) bekezdésének a) pontjában kapott felhatalmazás alapján – az érdekelt miniszterekkel egyetértésben – a következőket rendelem el:

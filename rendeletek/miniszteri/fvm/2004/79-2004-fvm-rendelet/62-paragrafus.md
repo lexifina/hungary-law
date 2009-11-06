@@ -1,0 +1,12 @@
+62. § (1)[^65] Vadászkutyák vadászati alkalmassági vizsgáján csak az a személy végezhet minősítést, aki teljesítménybírói igazolvánnyal és érvényes vadászjeggyel rendelkezik.
+
+(2)[^66] A vadászkutyák vadászati alkalmassági vizsgáin biztosítani kell, hogy a VAV szabályzatban megadott munkateljesítmény feltételeknek megfelelő, az adott fajtakörbe tartozó egyéb fajtájú vagy fajtakeverék vadászkutyák is vizsgát tehessenek. Az eredményes vizsgát tett vadászkutya azonosítható egyedi jelöléséről a vadászkutya tulajdonosa köteles gondoskodni.
+
+(3)[^67] A vadászkamara területi szervezete köteles a megfelelő vadászati kiképzettséget is tanúsító sorszámozott, vadászati alkalmassági vizsga igazolványt (a továbbiakban: VAV igazolvány) kiállítani, amelyben fel kell tüntetni a vadászkutya egyedi jelölését. Ha a vadászkutya vadászati alkalmassági vizsgáját az elismert ebtenyésztő szervezet rendezi, köteles a bírálati lap egy példányát haladéktalanul megküldeni a vadászkamara területi szervezetének, amely ez alapján kiállítja és a vadászkutya tulajdonosa részére kiadja a VAV igazolványt. A VAV igazolvány mintáját a 24. számú melléklet tartalmazza.
+
+(4)[^68] A minősítést végző személyekből álló bizottság a vizsga napján összesítőt készít a 24. számú melléklet szerint. A vizsgáztatásról és a VAV igazolványokról a vadászkamara területi szervezetei nyilvántartást vezetnek, melyhez az elismert ebtenyésztő szervezet a vadászkutya alkalmassági vizsga összesítő egy példányát 8 napon belül megküldi a vadászkamara területi szervezetének.
+
+[^65]: A Vhr. 62. § (1) bekezdése az 56/2005. (VI. 25.) FVM rendelet 20. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^66]: A Vhr. 62. § (2) bekezdése az 56/2005. (VI. 25.) FVM rendelet 20. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^67]: A Vhr. 62. § (3) bekezdését az 56/2005. (VI. 25.) FVM rendelet 20. §-ának (2) bekezdése iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^68]: A Vhr. 62. § (4) bekezdését az 56/2005. (VI. 25.) FVM rendelet 20. §-ának (2) bekezdése iktatta be, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.

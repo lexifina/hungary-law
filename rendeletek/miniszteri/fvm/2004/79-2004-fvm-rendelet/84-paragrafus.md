@@ -1,0 +1,5 @@
+84. § (1) A kárbecslésről jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell a szakértő és a felek megnevezését, címét, a szakértő helyszíni megállapításait, az általa megállapított kár mértékét, valamint azt, hogy a károsult a kár megelőzési kötelezettségének milyen módon tett eleget, illetve a felek vadkárátalány-fizetésben megállapodtak-e. A jegyzőkönyvnek tartalmaznia kell továbbá a felek, illetőleg képviselőik által a szakértő megállapításaira tett esetleges észrevételeit is.
+
+(2) A mezőgazdasági (ideértve a szőlőt és gyümölcsöst is) és az erdei vadkárok becsléséhez a szakértő által alkalmazott jegyzőkönyv mintáját a 19. számú melléklet tartalmazza. A jegyzőkönyvet a szakértőnek és a jelen levő feleknek (képviselőinek) kell aláírniuk.
+
+(3) A szakértő köteles a kárbecslésről készült jegyzőkönyveket haladéktalanul átadni a jegyzőnek. A jegyző a szakértői vadkárbecslési jegyzőkönyvben foglaltak alapján kísérli meg a felek között az egyezség létrehozását, illetve megállapítja az egyezség létrejöttének hiányát.

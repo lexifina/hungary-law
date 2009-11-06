@@ -1,0 +1,1 @@
+87. § A vadvédelmi hozzájárulás, a vadgazdálkodási és a vadvédelmi bírság összegét – külön jogszabály szerint – a 10032000-01031654-00000000 számú ,,Vadgazdálkodási bevételek'' központi kincstári számla javára, a vadászati hatóság határozatában meghatározott módon készpénz-átutalási megbízáson vagy átutalással kell teljesíteni.
