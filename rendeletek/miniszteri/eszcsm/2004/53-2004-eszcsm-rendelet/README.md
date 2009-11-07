@@ -1,0 +1,9 @@
+# 53/2004. (VI. 2.) ESZCSM rendelet
+
+a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos import tevékenységről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-53-20-0M
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-11-07 | 2004-53-20-0M.7 | 53/2004. (VI. 2.) ESZCSM rendelet |
