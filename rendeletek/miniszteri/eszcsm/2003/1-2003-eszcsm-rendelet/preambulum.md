@@ -1,0 +1,1 @@
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (3) bekezdése a) pontjában kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben –, valamint a 83. § (4) bekezdése n) pontjában kapott felhatalmazás alapján az alábbiakat rendelem el:
