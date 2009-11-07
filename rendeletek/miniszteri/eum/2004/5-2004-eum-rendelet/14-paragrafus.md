@@ -1,0 +1,1 @@
+## 13. § Az 1. § (2) bekezdésében meghatározott egyes gyógyászati ellátások rendelésére jogosult orvosok körét és a rendelésre vonatkozó orvosszakmai szabályokat az 5–6. számú mellékletek tartalmazzák.
