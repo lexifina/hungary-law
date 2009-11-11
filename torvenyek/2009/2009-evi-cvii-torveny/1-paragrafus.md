@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Közösség és tagállamai, másrészről a Kínai Népköztársaság Kormánya közötti, a tengeri közlekedésről szóló megállapodást módosító jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
