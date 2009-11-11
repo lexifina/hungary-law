@@ -1,0 +1,1 @@
+A prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: PéPtv.) 7. § (4) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
