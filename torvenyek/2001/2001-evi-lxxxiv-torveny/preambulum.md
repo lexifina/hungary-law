@@ -1,0 +1,1 @@
+Az Országgyűlés az államháztartásról szóló 1992. évi XXXVIII. törvény 53. §-a alapján a társadalombiztosítás pénzügyi alapjai 2000. évi költségvetéséről szóló 1999. évi CIX. törvényben (a továbbiakban: KT.) meghatározott költségvetése végrehajtásáról a következő törvényt alkotja:

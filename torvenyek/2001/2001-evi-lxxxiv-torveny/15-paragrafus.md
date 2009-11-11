@@ -1,0 +1,1 @@
+15. § Az Országgyűlés tudomásul veszi, hogy a KT. 16. §-a alapján a 2. cím, 4. alcím, 4. előirányzat-csoport, 2. kiemelt előirányzat postaköltségek és egyéb kiadások előirányzat terhére, pénzeszköz átadással az Ny. Alap 295,0 millió forintot, az E. Alap 105,0 millió forintot bocsátott az APEH rendelkezésére.

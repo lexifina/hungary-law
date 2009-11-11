@@ -1,0 +1,1 @@
+12. § Az Országgyűlés tudomásul veszi, hogy a KT. 11. § (1)–(2) bekezdésében foglaltak szerint a 4. cím, 3. alcím, 9. előirányzat-csoportnál az EU csatlakozás felkészüléséhez kapcsolódó kiadásokra az Ny. Alap 120,8 millió forintot, az E. Alap 33,5 millió forintot használt fel.
