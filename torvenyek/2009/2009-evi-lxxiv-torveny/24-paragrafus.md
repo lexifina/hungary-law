@@ -1,0 +1,35 @@
+## Adatkezelés
+
+24. § (1) Az ÁRMB – határozata meghozatala érdekében – a következő adatokat kezelheti:
+
+a) az érdekképviselet elnevezése, székhelye, képviselőjének neve;
+
+b) az OÉT munkavállalói, illetve munkáltatói oldalán résztvevő országos szövetséghez való tartozás;
+
+c) a nemzetközi ágazati érdekképviseleti tagság;
+
+d) munkáltatói érdekképviselet esetén:
+
+da) az adott érdekképviselethez tartozó munkáltatók neve, székhelye, adószáma, fő tevékenységének TEÁOR szerinti besorolása,
+
+db) a munkáltatói érdekképviseletnek az ágazatba besorolt munkáltató tagjainál a tárgyévet megelőző évben munkaviszonyban állók átlagos statisztikai állományi létszáma,
+
+dc) a munkáltatói érdekképviseletnek az ágazatba besorolt munkáltató tagjai tárgyévet megelőző második év éves nettó árbevétele;
+
+e) munkavállalói érdekképviselet esetén:
+
+ea) azon munkáltatók neve, székhelye, statisztikai számjele, amelynél szervezettel vagy képviselővel rendelkezik,
+
+eb) az ea) pontban meghatározott munkáltatóknál – munkáltatónként – munkaviszony keretében foglalkoztatott munkavállalók létszáma, valamint ebből az érdekképviseleti tagok száma,
+
+ec) a legutóbbi üzemi tanácsi választáson elért redukált szavazatok száma azoknál a munkáltatóknál, amelyeknél szervezettel rendelkezik.
+
+(2) Az ÁRMB természetes személy szakszervezeti hovatartozásáról adatokat – az (1) bekezdés a) pontjában foglalt esetet kivéve – nem kezel.
+
+(3) A (2) bekezdésben foglaltak figyelembevételével az ÁRMB az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (6) bekezdése, valamint 52. § (7) bekezdés c) pontja alapján a munkaügyi hatóságnál rendelkezésre álló adatokból a munkáltatónál foglalkoztatottak számára vonatkozó összesített adatokat is felhasználhatja.
+
+(4) Az adatokat az ÁRMB határozatának jogerőre emelkedésétől számított öt év elteltével, de legkorábban a következő, azonos szervezet részvételi jogosultsága alapját képező adatot megállapító határozat jogerőre emelkedését követő harminc nap elteltével törölni kell.
+
+(5) A kezelt adatok közül az (1) bekezdés d) pontjának dc) alpontjában, valamint e) pontjában meghatározott adatok nem nyilvánosak. Azokba csak az ÁRMB tagja, valamint az ÁRMB tevékenységét segítő, a 25. § (1) bekezdésének d) pontja szerinti feladatot ellátó munkatárs tekinthet be. Ezen túlmenően, az ÁPB oldalának tagjaira vonatkozó, e bekezdés szerinti adatokba betekinthetnek az oldal tagjai is. A betekintési joggal rendelkezők – e törvény eltérő rendelkezése hiányában – az e bekezdésben meghatározott adatokat harmadik személy részére nem adhatják át.
+
+(6) A kezelt adatok – személyazonosító adatok nélkül – statisztikai célra felhasználhatók, illetőleg azokból statisztikai célra adat szolgáltatható.

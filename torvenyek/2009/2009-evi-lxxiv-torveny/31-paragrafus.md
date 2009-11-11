@@ -1,0 +1,3 @@
+## „(5) A munkaügyi bíróság hatáskörébe tartozik a munkaügyi ellenőrzés, a munkavédelem keretében hozott közigazgatási határozat, a kollektív szerződés ágazatra történő kiterjesztésével kapcsolatosan hozott határozat, az Országos Érdekegyeztető Tanács, illetve az ágazati párbeszéd bizottság létrejöttével, az abban való részvétel, illetve gyakorolt jogosultságok tárgyában hozott határozat, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján az állami foglalkoztatási szerv által hozott közigazgatási határozat, valamint a társadalombiztosítási határozat bírósági felülvizsgálata; ennek során a munkaügyi bíróság a XX. fejezet szabályai szerint jár el.”
+
+31. § Az Mt. 31. §-a a következő (2) bekezdéssel egészül ki:

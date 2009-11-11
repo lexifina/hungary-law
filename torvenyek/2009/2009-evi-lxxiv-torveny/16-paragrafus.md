@@ -1,0 +1,5 @@
+16. § (1) Ha a kollektív szerződést az ÁPB-ben több ágazati szakszervezet kötötte, és azt bármelyik szakszervezet felmondja, a kollektív szerződés akkor veszti hatályát, ha e szakszervezet részvétele nélkül a kollektív szerződés nem lett volna megköthető. E rendelkezés alapján nem illeti meg a felmondás joga a kollektív szerződéshez később csatlakozott munkáltatói érdekképviselet tagmunkáltatójánál képviselettel rendelkező szakszervezetet. Felmondás esetén a kollektív szerződés hatálya hat hónapos felmondási idő leteltével szűnik meg.
+
+(2) Ha a kollektív szerződést az ÁPB-ben több munkáltatói érdekképviselet kötötte, és azt bármelyikük – ideértve a kollektív szerződéshez később csatlakozott munkáltatói érdekképviseletet is – felmondja, a kollektív szerződés az Mt. 39. §-ában szereplő határidő elteltekor csak az azt felmondó munkáltatói érdekképviselethez tartozó munkáltatókra nézve veszti hatályát.
+
+(3) A kollektív szerződés hatályát veszti továbbá, amennyiben a megkötését követően bekövetkezett változás eredményeként a 14. § (5)–(8) bekezdésben foglalt feltételek egyike sem áll fenn.

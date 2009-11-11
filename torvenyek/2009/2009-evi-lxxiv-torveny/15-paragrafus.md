@@ -1,0 +1,7 @@
+15. § (1) Az ÁPB-ben kötött kollektív szerződés hatálya kiterjed a kollektív szerződést kötő munkáltatói érdekképviselet tagjára és a vele munkaviszonyban álló munkavállalókra.
+
+(2) Az ÁPB-ben kötött kollektív szerződés az ÁPB-hez később csatlakozó munkáltatói érdekképviselethez tartozó munkáltatókra, illetve a velük munkaviszonyban álló munkavállalókra abban az esetben terjed ki, ha az ÁPB-hez a kollektív szerződés megkötését követően csatlakozó munkáltatói érdekképviselet nyilatkozik arról, hogy az ÁPB-ben kötött kollektív szerződéshez is csatlakozik, továbbá
+
+a) a munkáltatói érdekképviseletben tag munkáltatónál működő, kollektív szerződéskötésre jogosult szakszervezet, illetve szakszervezetek az Mt. 33. §-a (2)–(5) bekezdésének megfelelő alkalmazásával a kollektív szerződéshez való csatlakozással előzetesen egyetértenek, vagy
+
+b) a munkáltatói érdekképviseletben tag munkáltatónál működő szakszervezet, illetve szakszervezetek és a munkáltatónál munkaviszonyban álló munkavállalók – ha a munkáltatónál működő szakszervezet, illetve szakszervezetek az Mt. 33. §-ának (6) bekezdése szerint kizárólag a kollektív szerződés megkötésére irányuló tárgyalás lefolytatására való jogosultsággal rendelkeznek, illetve üzemi tanács választása hiányában – a kollektív szerződéshez való csatlakozással előzetesen egyetértenek. A munkavállalóknak erről szavazniuk kell. A szavazás akkor érvényes, ha ezen a munkáltatónál foglalkoztatott munkavállalók több mint fele részt vesz.
