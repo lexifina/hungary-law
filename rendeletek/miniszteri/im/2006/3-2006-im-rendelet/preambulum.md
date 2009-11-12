@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében és a közvetítői tevékenységről szóló 2002. évi LV. törvény 40. §-ának b) pontjában foglalt felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
