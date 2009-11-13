@@ -1,0 +1,1 @@
+## 19. § A sportrendezvény helyszíne megközelítésének közutat, illetve tömegközlekedést érintő lehetséges útvonaláról és a sportrendezvény elkerülésének lehetséges útvonalairól a szervező tájékoztatja a közút kezelőjét, valamint a többi érintett szervet.

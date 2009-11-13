@@ -1,0 +1,1 @@
+## 11. § Ha a sportrendezvényt közterületen bonyolítják le, vagy a nézők egy része a sportrendezvényt a közterületről kísérheti figyelemmel, a szervező köteles a közterületnek a sportrendezvény lebonyolítására szolgáló részét jól láthatóan megjelölni és egyéb jelzések használatával a közterület többi részétől elhatárolni.

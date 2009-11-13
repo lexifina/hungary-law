@@ -1,0 +1,10 @@
+## 7. § A szervező az 1. § szerinti sportrendezvények
+
+a) résztvevői számára köteles felelősségbiztosítást kötni;
+
+b)[^7]
+
+c)[^8] résztvevőinek személyi és vagyonbiztonsága érdekében jogosult a sportrendezvény ideje alatt annak helyszínét kamerával megfigyelni.
+
+[^7]: A 7. § b) pontját a 247/2009. (XI. 10.) Korm. rendelet 39. § b) pontja hatályon kívül helyezte, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 7. § c) pontját a 247/2009. (XI. 10.) Korm. rendelet 39. § c) pontja hatályon kívül helyezte, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni. [E módosító rendelet 37. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.]

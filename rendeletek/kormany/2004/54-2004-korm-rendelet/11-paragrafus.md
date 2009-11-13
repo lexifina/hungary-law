@@ -1,0 +1,1 @@
+## 10. § Ha a szervező nyilvános helyen rendszeresen szervez a rendelet hatálya alá tartozó ugyanolyan sportrendezvényt és a sportrendezvény megtartásának biztonsági feltételei megfelelnek a rendőrség által korábban elfogadott biztonsági feltételeknek, a további ugyanolyan sportrendezvények bejelentéséhez a 9. § (2) bekezdésében meghatározott mellékleteket nem kell csatolni.
