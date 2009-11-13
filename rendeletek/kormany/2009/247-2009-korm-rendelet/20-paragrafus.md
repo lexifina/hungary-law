@@ -1,0 +1,3 @@
+## 19. § Az R2. 32. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A fegyver, lőszer tartására kiadott engedély – e rendelet eltérő rendelkezése hiányában – öt évig hatályos, hatályossága kérelemre alkalmanként további öt évre meghosszabbítható, ha az engedély kiadására vonatkozó feltételek – azok ismételt vizsgálata alapján – biztosítottak, és a kérelmező az engedély meghosszabbítását legalább harminc nappal a hatályossága lejártának határnapja előtt kezdeményezi. A feltételek ismételt vizsgálata a lőfegyver tartásához szükséges elméleti és gyakorlati jártasságot igazoló vizsga megismétlésére nem terjed ki.”

@@ -1,0 +1,1 @@
+## „d) azt, hogy az eltiltott személynek a Rendőrségről szóló 1994. évi XXXIV. törvény 91/J. § (1) bekezdés b) pontjában meghatározott adatait a rendőrség az eltiltás hatályának lejártától számított egy évig nyilvántartja.”
