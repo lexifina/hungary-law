@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között az Ivándárda/Branjin Vrh autópálya-kapcsolat létesítéséről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
