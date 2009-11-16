@@ -1,0 +1,133 @@
+# A Kormány 252/2009. (XI. 16.) Korm. rendelete
+
+Magyar Közlöny 2009. évi 161. szám, 2009. november 16. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/31924e95a3c65519028d8611cca53abad0c1705a/dokumentumok/0c7456f07628317a75f0e7d259af52bb156ef394/letoltes)
+
+---
+
+A Kormány 252/2009. (XI. 16.) Korm. rendelete
+a földhasználati nyilvántartás részletes szabályairól szóló
+356/2007. (XII. 23.) Korm. rendelet módosításáról
+A Kormány a termőföldről szóló 1994. évi LV. törvény 90. § (1) bekezdésének c) pontjában foglalt felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében, valamint a 7. § tekintetében az Alkotmány 35. §
+(2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. § (3) bekezdésében foglalt feladatkörében
+eljárva a következő rendeletet alkotja:
+1. §
+A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet (a továb biak ban: R.) 10. §-a
+helyébe a következő rendelkezés lép:
+„10. § Ha a földhasználat nyilvántartásba vételét köve tően kerül sor a Tft. 25/C. § (1) bekezdésében meghatározott
+ügyészi értesítésre, a földhivatal az ügyész értesítésének tényét a földhasználati lap jegyzet rovatába feljegyzi.
+A földhivatal a feljegyzést az ügyész további intézkedésétől függően törli a földhasználati lapról.”
+2. §
+Az R. a következő 16/A. §-sal egészül ki:
+„16/A. § A földhasználati nyilvántartási eljárásban az elektronikus kapcsolattartás kizárt.”
+3. §
+Az R. 17–19. §-ai helyébe a következő rendelkezések lépnek, egyúttal az R. a 17. §-t megelőzően az alábbi alcímmel
+egészül ki:
+„A földhasználati nyilvántartásból történő adatszolgáltatás
+17. § (1) A földhasználati nyilvántartás számítógépes adatbázisából – lekérdezés útján megjelenített – földhasználati
+lap másolatával teljesíthető adatszolgáltatás.
+(2) A földhasználati lap
+a) papír alapú másolatként,
+b) elektronikus másolatként
+szolgáltatható.
+(3) A (2) bekezdésben meghatározott földhasználati lap másolatokat kizárólag a földhivatal szolgáltathatja.
+(4) Adatszolgáltatás nem teljesíthető a földhasználati nyilvántartás számítógépes adatbázisába való helyszíni
+betekintéssel.
+(5) Iratbetekintéssel élni az okirattár részét képező bármely olyan magán- és közokiratba, amely a földhasználat
+bejegyzésének vagy törlésének alapjául szolgált, vagy szolgálhat, csak a földhasználati nyilvántartásban szereplő
+földhasználó, vagy a földhasználó által használt termőföldet használatba adó teljes bizonyító erejű magánokiratba
+vagy közjegyzői okiratba foglalt hozzájárulásával lehet, kivéve, ha a kérelmező írásban igazolja, hogy az irat
+megismerése joga érvényesítéséhez, vagy jogszabályon, hatósági határozaton alapuló kötelezettsége teljesítéséhez
+szükséges, és az iratban foglaltak megismerésének egyéb tör vényi feltételei fennállnak.
+18. § (1) A papír alapú földhasználati lap másolat a földhasználati nyilvántartásba az érintett földrészlet használatára
+vonatkozóan bejegyzett adatokat hitelesen tanúsítja. A papír alapú földhasználati lap másolatot a kiadó földhivatal
+a következő szöveget tartalmazó hitelesítési záradékkal látja el: „A másolat a kiadást megelőző napig az eredetivel
+megegyezik, és a használatra vonatkozóan bejegyzett fennálló adatokat hitelesen tanúsítja”.
+(2) Papír alapú földhasználati lap másolatot a földhivatal kérelemre, illetve a 19/A. § (2) bekezdés a) pontjában felsorolt
+szervek megkeresésére szolgáltat. A földhasználati lap másolat kiadása iránti kérelmet a földművelésügyi és
+vidékfejlesztési miniszter által rendszeresített, a Földművelésügyi és Vidékfejlesztési Minisztérium, valamint
+a földhivatalok hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A kérelem adattartalmát
+a 2. számú melléklet határozza meg.
+
+19. § (1) Földhasználati lapot elektronikus másolatként a földhivatal a számítógépes ingatlan-nyilvántartási rendszer
+szolgáltatásaira az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben meghatározott jogosultak részére,
+adatátviteli vonalon keresztül szolgáltat.
+(2) Az elektronikus másolatot fokozott biztonságú elektronikus aláírással és a következő szöveget tartalmazó
+záradékkal kell ellátni: „A földhasználati lap tartalma a kiadás időpontjában megegyezik a földhasználati nyilvántartási
+adatbázisban található adatokkal. Ez az elektronikus dokumentum kinyomtatva nem minősül hiteles bizonyító erejű
+dokumentumnak”.”
+4. § Az R. 19. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Elektronikus másolat igénylésére a kormányzati portálon az ügyfélkapun keresztül is sor kerülhet.”
+5. § Az R. a következő 19/A–19/B. §-okkal egészül ki:
+„19/A. § (1) A 17. § szerinti adatszolgáltatás során az alábbi földhasználati lap másolat típusok szolgáltathatók:
+a) a földhasználati lap teljes másolata, amely valamennyi nyilvántartott adatot (fennálló és törölt bejegyezéseket)
+tartalmazza;
+b) földhasználati lap teljes szemle-másolata, amely valamennyi fennálló adatot tartalmazza;
+c) a földhasználati lap részleges másolata, amely a kérelemben megjelölt földrészletre leválogatott valamennyi
+nyilvántartott adatot (fennálló és törölt bejegyzéseket) tartalmazza;
+d) a földhasználati lap részleges szemle-másolata, amely a kérelemben megjelölt földrészletre leválogatott
+valamennyi fennálló adatot tartalmazza.
+(2) Az (1) bekezdés a) és b) pontja szerinti földhasználati lap másolat típusok (a továbbiakban együtt: teljes
+földhasználati lap másolat) kizárólag
+a) hatóság részére közigazgatási eljáráshoz, közérdekű bejelentés és panasz elbírálására irányuló eljáráshoz, valamint
+bíróság, ügyészség és nyomozó hatóság részére jogszabályban meghatározott feladatai ellátása céljából,
+b) a földhasználó részére a saját földhasználati lapjairól
+szolgáltatható.
+(3) A (2) bekezdés alkalmazása esetén az ott felsorolt szerveknek az adatszolgáltatás iránti megkeresésükben meg kell
+jelölniük a feladatuk ellátására vonatkozó pontos jogszabályhelyet és annak az ügyiratnak a számát, amely
+elintézéséhez az adatszolgáltatást igénylik.
+19/B. § (1) A földhasználati nyilvántartás számítógépes adatbázisából történő adatszolgáltatás, lekérdezés során
+a természetes személyazonosító adatok nem használhatók fel abból a célból, hogy annak alapján a lekérdező
+a földhasználó által használt, a földhasználati nyilvántartásban szereplő valamennyi földrészletről adatszolgáltatást
+teljesítsen.
+(2) Az (1) bekezdés szerinti rendelkezés nem vonatkozik arra az esetre, ha az adatszolgáltatást vagy lekérdezést
+a földhasználó által használt, a földhasználati nyilvántartásban szereplő valamennyi földrészletről a 19/A. §
+(2) bekezdésében foglalt szervek, illetve személy igényli.”
+6. § (1) Az R. 1. számú mellékletének I. 1.2. pontja helyébe a következő rendelkezés lép:
+[I. A bejelentési adatlapon a bejelentő által megadandó tartalmi elemek:]
+„1.2. a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet (gazdálkodó szervezet) bejelentő
+a) megnevezése,
+b) székhelye (telephelye),
+c) statisztikai számjele,
+d) képviseletében eljáró személy családi és utóneve, lakcíme,
+e) bélyegzőlenyomata.”
+(2) Az R. 1. számú mellékletének I. 3. pontja helyébe a következő rendelkezés lép:
+[I. A bejelentési adatlapon a bejelentő által megadandó tartalmi elemek:]
+„3. A használatba adó adatai:
+a) a természetes személy használatba adó természetes személyazonosító adatai és lakcíme;
+b) a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet (gazdálkodó szervezet) használatba adó
+megnevezése, székhelye (telephelye) és statisztikai számjele, továbbá a képviseletében eljáró személy családi és
+utóneve, valamint lakcíme.”
+
+(3) Az R. 2. számú mellékletének I. 1.2. pontja helyébe a következő rendelkezés lép:
+[I. A kérelem benyújtására szolgáló nyomtatványon a kérelmező által megadandó tartalmi elemek:]
+„1.2. a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet (gazdálkodó szervezet) kérelmező
+a) megnevezése,
+b) székhelye (telephelye),
+c) statisztikai számjele,
+d) képviseletében eljáró személy családi és utóneve, lakcíme,
+e) bélyegzőlenyomata.”
+(4) Az R. 2. számú mellékletének I. 3. pontja helyébe a következő rendelkezés lép:
+„3. A kérelmezett földhasználati lap másolat típusa:
+a) a földhasználati lap teljes másolata,
+b) a földhasználati lap teljes szemle-másolata,
+c) a földhasználati lap részleges másolata,
+d) a földhasználati lap részleges szemle-másolata.”
+(5) Az R. 2. számú mellékletének I. pontja a következő 6. ponttal egészül ki:
+„6. A kérelmező aláírása.”
+7. § A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási
+eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet 5. §-a a következő (8) bekezdéssel egészül ki:
+„(8) A FÖMI – egyedi megállapodás alapján – a földhivatali nyilvántartások adatbázisából adatműveleti,
+adatfeldolgozási tevékenységet igénylő esetekben országos statisztikai célú adatgyűjtéshez, valamint hatósági
+ellenőrzések teljesítéséhez adatlekérdezést és adattovábbítást végezhet.”
+8. § (1) E rendelet – a (2) bekezdésben foglalt kivétellel – 2010. január 1-jén lép hatályba azzal, hogy rendelkezéseit a hatályba-
+lépést követően indult földhasználati eljárásokra kell alkalmazni.
+(2) A 4. § 2010. október 1-jén lép hatályba.
+(3) E rendelet hatálybalépésével egyidejűleg hatályát veszti a földhasználati nyilvántartás részletes szabályairól szóló
+184/1999. (XII. 13.) Korm. rendelet.
+(4) E rendelet 2010. október 2-án hatályát veszti.
+Bajnai Gordon s. k.,
+miniszterelnök
+
+V.
+A Kor mány tag ja i nak ren de le tei
