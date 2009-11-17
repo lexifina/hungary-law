@@ -1,0 +1,5 @@
+147. § (1) Az Itv. e törvénnyel megállapított rendelkezéseit – a (2) bekezdésben foglaltak kivételével – a hatálybalépésüket követően illetékkiszabásra bejelentett vagy más módon az állami adóhatóság tudomására jutott vagyonszerzési ügyekben, illetve indult eljárásokban kell alkalmazni.
+
+(2) Az Itv. e törvénnyel megállapított 17/B. §-át azokban az illetékügyekben is alkalmazni kell, melyekben az illetékalap kedvezmény feltételeként vállalt hároméves határidő 2010. január 1-jén még nem telt le.
+
+(3) Az e törvény hatálybalépésének napja és 2012. december 31. között – az illetékkötelezettség keletkezését követő 30 napon belül – illetékkiszabásra bejelentett ügyekben mentes a visszterhes vagyonátruházási illeték alól az olyan gépjárműnek, pótkocsinak a futamidő végén tulajdonjog átszállást eredményező lízingszerződés keretében történő megszerzése, mely a lízingszerződés megkötéséig a lízingbevevő tulajdona volt, és a tulajdonjog a lízingszerződés megkötése érdekében került a lízingbeadónak átadásra.

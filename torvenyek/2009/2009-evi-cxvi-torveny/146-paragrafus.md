@@ -1,0 +1,1 @@
+146. § Az a gazdálkodó szervezet, amelynek 2007. december 31-ig a pénzügyminiszter a bírósági eljárási illeték utólagos megfizetését engedélyezte, a bírósági eljárási illetéket 2010. június 30-ig fizetheti meg az engedélyben meghatározottak szerint.

@@ -1,0 +1,3 @@
+117. § A Krtv. 88. §-ával megállapított Art. 43/A. §-ának (1) bekezdése a következő szöveggel lép hatályba:
+
+„43/A. § (1) Ha az adózó bevallása és önellenőrzése, illetve az állami adóhatóság helyi iparűzési adót érintő ellenőrzése következtében az önkormányzatnak helyi iparűzési adókülönbözet visszafizetési kötelezettsége keletkezik, az állami adóhatóság 30 napos határidő kitűzésével felhívja az önkormányzatot a különbözet visszafizetésére. Amennyiben az önkormányzat visszafizetési kötelezettségének nem tesz eleget, az állami adóhatóság az önkormányzat költségvetési számlájával szemben hatósági átutalási megbízást bocsát ki. Ha ez az intézkedés részben vagy egészben eredménytelen, az állami adóhatóság a következő kiutaláskor a vissza nem fizetett összeget beszámítja.”

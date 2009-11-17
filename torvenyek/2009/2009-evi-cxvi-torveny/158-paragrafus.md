@@ -1,0 +1,1 @@
+158. § Az egyes adó- és járuléktörvények módosításáról szóló 2008. évi LXXXI. törvény 276–277. §-ának e törvénnyel módosított rendelkezéseit a 2009. január 1-jétől megszerzett jövedelmekre és keletkezett adókötelezettségre kell alkalmazni.

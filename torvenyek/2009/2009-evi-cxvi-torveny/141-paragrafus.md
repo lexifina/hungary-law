@@ -1,0 +1,1 @@
+141. § Hatályát veszti az egyes adó- és járuléktörvények módosításáról szóló 2008. évi LXXXI. törvény 277. §-ának (1) bekezdésében az „és az e rendelkezésekben meghatározott személy által az ott meghatározott módon az adózó részére juttatott bevételnek a 276. § (1)–(3) bekezdésében megjelölt részét vagy annak megfelelő összeget az ott leírtaknak megfelelően befekteti” szövegrész.

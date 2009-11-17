@@ -1,0 +1,3 @@
+85. § A Kkt. 183. §-át követően egy új 183/A. §-sal egészül ki:
+
+„183/A. § A kamara a más államok illetékes hatóságaival az e törvény 180–183. §-ai alapján folytatott együttműködése során, a más államok illetékes hatóságaitól érkező megkeresésekről, illetve a kamara intézkedéseiről a Könyvvizsgálói Közfelügyeleti Bizottságot folyamatosan tájékoztatja.”
