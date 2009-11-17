@@ -1,0 +1,1 @@
+13. § Az ingatlanügyi hatóság a gyorsforgalmi út tervezéséhez, a terület igénybevételéhez szükséges ingatlan-nyilvántartási adatokat, a tulajdoni lap másolatát és az ingatlan-nyilvántartási térkép másolatát a kérelmező részére 10 munkanapon belül adja ki.
