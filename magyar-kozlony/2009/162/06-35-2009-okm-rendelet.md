@@ -1,0 +1,254 @@
+# Az oktatási és kulturális miniszter 35/2009. (XI. 18.) OKM rendelete
+
+Magyar Közlöny 2009. évi 162. szám, 2009. november 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6f269acf101c490acbd0faddc7b29e32a09d8479/dokumentumok/49ea5cd7dc26cf8ce35dd59611e2f7fcf57ff432/letoltes)
+
+---
+
+Az oktatási és kulturális miniszter 35/2009. (XI. 18.) OKM rendelete
+a nevelési-oktatási intézmények működéséről szóló 11/1994. (VI. 8.) MKM rendelet
+és a 2009/2010. tanév rendjéről szóló 24/2009. (V. 25.) OKM rendelet módosításáról
+A közoktatásról szóló 1993. évi LXXIX. törvény 94. § (1) bekezdésének b), e) és i) pontjában foglalt felhatalmazás alapján, az oktatási
+és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott
+feladatkörömben eljárva a következőket rendelem el:
+1. § A nevelési-oktatási intézmények működéséről szóló 11/1994. (VI. 8.) MKM rendelet (a továbbiakban: Rendelet) 6/C. §
+(2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az iskolai (kollégiumi) könyvtár igénybevételének, működésének szabályait az iskola, kollégium szervezeti és
+működési szabályzatában kell meghatározni. Az iskolai (kollégiumi) könyvtár állományába csak a könyvtár
+gyűjtőkörébe tartozó dokumentum vehető fel. Az iskolai (kollégiumi) könyvtár gyűjtőkörét – a szervezeti és működési
+szabályzat mellékleteként kiadott – gyűjtőköri szabályzat határozza meg. A gyűjtőköri szabályzatot – elfogadása
+előtt – közoktatási szakértői tevékenység folytatására jogosult szakértővel véleményeztetni kell. E rendelet 3. számú
+melléklete határozza meg azokat az előírásokat, amelyeket minden iskolai (kollégiumi) könyvtár működtetésénél meg
+kell tartani, illetve, amelyek figyelembevételével a könyvtár igénybevételével és használatával kapcsolatos
+rendelkezéseket el kell készíteni.”
+
+2. § A Rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A gyermekekkel, a tanulókkal kapcsolatos ügyeket az ügy elintézéséért felelős alkalmazott köteles haladéktalanul,
+de legkésőbb az iktatás napjától számított huszonkét munkanapon belül elintézni. A nevelési-oktatási intézmények
+működésével kapcsolatos ügyekben az elintézési határidő huszonkét munkanap. Ha az ügy elintézésére az iskolaszék,
+óvodaszék, kollégiumi szék, a szülői szervezet (közösség), a diákönkormányzat jogosult, döntését legkésőbb az
+iktatástól számított huszonkét munkanapot követő első ülésén köteles meghozni.”
+3. § A Rendelet 17/A. § (4) bekezdés d) pontja helyébe a következő rendelkezés lép:
+[(4) A központilag szervezett írásbeli vizsgához magyar nyelvi és matematikai kompetenciákat mérő külön-külön
+feladatlapok készülnek azok részére, akik]
+„d) a kiemelkedő tehetséget kibontakoztató felkészítést nyújtó (a továbbiakban: tehetséggondozó) középiskola
+hetedik, kilencedik évfolyamára”
+[jelentkeznek.]
+4. § A Rendelet 22. § (2)–(3) bekezdése helyébe a következő rendelkezés lép:
+„(2) A tanuló – kiskorú tanuló esetén a szülője aláírásával – a félév, illetve a szorgalmi idő utolsó napját megelőző
+huszonkettedik munkanapig, a 20. § (6) bekezdésében meghatározott esetben az engedély megadását követő három
+munkanapon belül jelentheti be, ha osztályzatának megállapítása céljából független vizsgabizottság előtt kíván
+számot adni tudásáról. A bejelentésben meg kell jelölni, hogy milyen tantárgyból kíván vizsgát tenni. Az iskola
+igazgatója a bejelentést öt munkanapon belül továbbítja a vizsgáztatásra kijelölt intézménynek, amelyik az első félév,
+illetve a szorgalmi idő utolsó hetében szervezi meg a vizsgát.
+(3) A tanuló – kiskorú tanuló esetén a szülője aláírásával – a bizonyítvány átvételét követő tíz munkanapon belül
+kérheti, hogy javítóvizsgát független vizsgabizottság előtt tehessen. Az iskola a kérelmet öt munkanapon belül
+továbbítja a vizsgáztatásra kijelölt intézménynek.”
+5. § A Rendelet 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha a tanuló – szülőjének a közoktatási törvény 7. § (2) bekezdésében szabályozott választása
+alapján – a tankötelezettségének magántanulóként tesz eleget, az erről való bejelentést követő három munkanapon
+belül az iskola igazgatója beszerzi a tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes
+gyermekjóléti szolgálat véleményét annak eldöntésére, hátrányos-e ez a megoldás a tanulónak. A gyermekjóléti
+szolgálat tíz munkanapon belül köteles megküldeni véleményét.”
+6. § A Rendelet 32. § (2) bekezdésének utolsó mondata helyébe a következő rendelkezés lép:
+„A fegyelmi eljárást folytatni kell, ha az egyeztető eljárás lefolytatását nem kérik, továbbá ha a bejelentés iskolába,
+kollégiumbatörténőmegérkezéstőlszámítotttízmunkanaponbelülazegyeztető eljárásnemvezetett eredményre.”
+7. § A Rendelet 35. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Ha a határozatokban szereplő adatokban változás következik be, a jegyző, főjegyző – figyelemmel
+a (3) bekezdésben foglaltakra – a kiegészítéssel, illetve a módosítással egybeszerkesztett határozatot ad ki. Ha
+a nevelési-oktatási intézmény feladatellátási helye, illetve feladata megváltozik, a jegyző, főjegyző a közoktatási
+törvény 79. §-ának (6) bekezdése alapján indított eljárásban azokat a feltételeket vizsgálja, amelyeket a változás
+érintett.”
+8. § A Rendelet 51. §-a a következő (9) bekezdéssel egészül ki:
+„(9) E rendelet– a 35/2009. (XI. 18.) OKM rendelet3. §-ávalmegállapított– 17/A. § (4) bekezdésd) pontjábanfoglaltakat
+első ízben a 2010/2011. tanév középfokú felvételi eljárása során kell alkalmazni.”
+9. § A Rendelet 54. § (15) bekezdése helyébe a következő rendelkezés lép:
+„(15) Amennyiben a képesség-kibontakoztató felkészítés valamennyi évfolyamon, osztályban nem szervezhető meg,
+akkor azt a 2009/2010. tanévtől középfokú iskola esetében a kilencedik évfolyamon, általános iskola esetében az első
+és az ötödik évfolyamon, ezt követően felmenő rendszerben lehet megszervezni. Az e bekezdésben foglaltak nem
+érintik a 2009/2010. tanévet megelőzően indított felkészítés megszervezését és lebonyolítását.”
+
+10. § (1) A Rendelet 5. számú mellékletében A fegyelmi eljárás szabályai cím A fegyelmi tárgyalás alcím 1. pontjának utolsó
+mondata helyébe az 1. számú melléklet lép.
+(2) A Rendelet 5. számú mellékletében A fegyelmi eljárás szabályai cím A fegyelmi tárgyalás alcím 2. pontjának első
+mondata helyébe a 2. számú melléklet lép.
+(3) A Rendelet 5. számú mellékletében A fegyelmi eljárás szabályai cím A fegyelmi határozat alcím 7. pontjának utolsó
+mondata helyébe a 3. számú melléklet lép.
+(4) A Rendelet 5. számú mellékletében A fegyelmi eljárás szabályai cím A fegyelmi határozat alcím 9. pontja helyébe
+a 4. számú melléklet lép.
+(5) A Rendelet 5. számú mellékletében A fegyelmi eljárás szabályai cím Az eljárást megindító kérelem alcím 13. pontjának
+utolsó mondata helyébe az 5. számú melléklet lép.
+(6) A Rendelet 5. számú mellékletében A fegyelmi eljárás szabályai cím Az eljárást megindító kérelem alcím 14. pontjának
+első mondata helyébe a 6. számú melléklet lép.
+11. § A Rendelet 6. számú melléklete helyébe e rendelet 7. számú melléklete lép.
+12. § (1) A Rendelet 7. számú mellékletében az Óvoda cím VII. Egészség- és munkavédelmi eszközök alcím 8. pontja helyébe
+a 8. számú melléklet lép.
+(2) A Rendelet 7. számú mellékletében az Iskola cím V. Egészség- és munkavédelmi eszközök alcím 8. pontja helyébe
+a 9. számú melléklet lép.
+(3) A Rendelet 7. számú mellékletében a Kollégium cím IV. Egészség- és munkavédelmi eszközök alcím 11. pontja helyébe
+a 10. számú melléklet lép.
+(4) A Rendelet 7. számú mellékletében az Alapfokú művészetoktatási intézmények cím IV. Egészség- és munkavédelmi
+eszközök alcím 12. pontja helyébe a 11. számú melléklet lép.
+13. § A Rendelet 8. számú mellékletébenA középfokúiskolákbatörténő jelentkezésrendje és a felvételi eljárásszabályaicím
+A felvételi kérelem benyújtása alcím 2.1. pontjának negyedik mondata helyébe a 12. számú melléklet lép.
+14. § (1) Az Árpád Gimnázium (OM azonosító: 035223), a Berzsenyi Dániel Gimnázium (OM azonosító: 035243), a Fazekas
+Mihály Gimnázium (OM azonosító: 031198), a Fazekas Mihály Fővárosi Gyakorló Általános Iskola és Gimnázium
+(OM azonosító: 035277), a Földes Ferenc Gimnázium (OM azonosító: 029379), a Radnóti Miklós Kísérleti Gimnázium
+(OM azonosító: 029743), a Szent István Gimnázium (OM azonosító: 035246) (a továbbiakban együtt: gimnáziumok)
+a 2009/2010. tanév felvételi eljárásában külön felvételi vizsgát szervezhetnek, a következők figyelembevételével:
+a) a gimnáziumok a hetedik évfolyam speciális matematika tantervű hat évfolyamos tanulmányi területre
+felvételizőktől a központilag szervezett írásbeli vizsgák mellett vagy helyette kérhetik az általuk közösen
+kidolgozott, speciális nehézségi fokú matematika írásbeli vizsga eredményét is;
+b) a gimnáziumok két egyenértékű speciális nehézségi fokú matematika feladatsort készítenek, amelyek közül az
+egyiket az e § d) pontjában meghatározott rendes vizsga során, a másikat pedig a pótló írásbeli vizsga során
+használnak fel. Az egyes vizsganapokra a feladatsorok kiválasztását az érintett intézmények igazgatói közösen
+sorsolással döntik el. A feladatlapok elkészítése, sokszorosítása és a vizsgákra való eljuttatása során olyan eljárást
+kötelesek követni, amely az azokhoz történő illetéktelen hozzáférést kizárja;
+c) a gimnáziumok, ha a külön felvételi vizsgát előírták, a speciális nehézségi fokú matematika írásbeli vizsgát
+kötelesek megszervezni;
+d) a 2009/2010. tanévben megszervezésre kerülő speciális nehézségi fokú matematika írásbeli vizsga időpontja
+2010. február 27. szombat, 11.00 óra. A pótló írásbeli vizsga időpontja 2010. március 6. szombat, 11.00 óra.
+A vizsgára jelentkezők értesítéséről az érintett gimnáziumok kötelesek gondoskodni;
+e) a gimnáziumok az írásbeli vizsgát követő napon a feladatlapokat a megoldókulcsokkal együtt helyben
+nyilvánosságra hozzák. A kijavított vizsgadolgozatok megtekintését és az azzal kapcsolatos észrevételek
+benyújtásának rendjét a középfokú iskolákba történő jelentkezés rendje és a felvételi eljárás általános szabályai
+szerint kötelesek biztosítani;
+f) a gimnáziumok a vizsgázókat a speciális nehézségi fokú matematika írásbeli vizsga eredményéről értesítik;
+g) a gimnáziumoka nyilvánosságrahozott felvételitájékoztatójukbana speciálisnehézségifokú matematikaírásbeli
+vizsgák rendjét részletesen közlik.
+
+(2) Az e rendelkezések alapján lefolytatott külön felvételi vizsgán kitöltött felvételi feladatsorokat a vizsgát szervező
+gimnázium értékeli. A felvételi vizsga értékelését minden az (1) bekezdésben felsorolt gimnázium köteles elfogadni.
+15. § E rendelet hatálybalépésével egyidejűleg a 2009/2010. tanév rendjéről szóló 24/2009. (V. 25.) OKM rendelet 1. számú
+melléklet „II. Szakmai vizsgaidőszakok, vizsganapok” cím 3. c) pontja helyébe a következő rendelkezés lép:
+[Az Igazságügyi és Rendészeti Minisztérium irányítása alá tartozó, iskolai rendszerű szakképzésben oktatott
+szakképesítések írásbeli, szóbeli és gyakorlati vizsgaidőpontjai:]
+„c) írásbeli 2010. május 31.
+szóbeli és gyakorlati 2010. június 7–18.”
+16. § (1) Ez a rendelet – a 14. § kivételével – 2009. december 1-jén lép hatályba és 2010. június 30-án veszti hatályát.
+(2) A rendelet 14. §-a a kihirdetés napján lép hatályba és 2010. június 30-án veszti hatályát.
+(3) E rendelet hatálybalépésével egyidejűleg a Rendelet 35. § (3) bekezdésében a „munkavédelmi” szövegrész helyébe
+a „munkavédelmi, tűzvédelmi” szövegrész lép.
+Dr. Hiller István s. k.,
+oktatási és kulturális miniszter
+1. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[5. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„Az értesítést oly módon kell kiküldeni, hogy azt a tanuló, a szülő és meghatalmazott képviselőjük külön-külön
+a tárgyalás előtt legalább öt munkanappal megkapja.”
+2. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[5. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„2. A fegyelmi eljárást – a megindítástól számított huszonkét munkanapon belül – egy tárgyaláson be kell fejezni.”
+3. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[5. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„Ha az ügy bonyolultsága vagy más fontos ok szükségessé teszi, a határozat szóbeli kihirdetését az elsőfokú fegyelmi
+jogkör gyakorlója legfeljebb öt munkanappal elhalaszthatja.”
+4. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[5. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„9. A fegyelmi határozatot a kihirdetést követő öt munkanapon belül írásban meg kell küldeni a tanulónak, kiskorú
+tanuló esetén a szülőjének és meghatalmazott képviselőjüknek, ha a gazdálkodó szervezet képviselője az eljárásban
+részt vett, a gazdálkodó szervezetnek.”
+5. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[5. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„Az eljárást megindító kérelmet a határozat kézhezvételétől számított tíz munkanapon belül kell az elsőfokú fegyelmi
+jogkör gyakorlójához benyújtani.”
+
+6. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[5. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„14.Afegyelmibüntetéstmegállapítóhatározatellenbenyújtottkérelmetazelsőfokúfegyelmijogkörgyakorlójaakérelem
+beérkezésétől számított öt munkanapon belül köteles továbbítani a másodfokú fegyelmi jogkör gyakorlójához.”
+7. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[6. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„Kérelem a nem önkormányzati nevelési-oktatási intézmény működésének megkezdéséhez szükséges
+engedély kiadásához
+I. A(z) ........................... Önkormányzat jegyzője, főjegyzője részére a közoktatásról szóló 1993. évi LXXIX. törvény
+79. §-ának (2) bekezdése alapján. A kérelemnek az alábbi adatokat kell tartalmaznia:
+1. A működési engedély iránti kérelem tárgya
+2. A közoktatási intézményt nyilvántartásba vevő jegyző, főjegyző hivatala, a nyilvántartásba vételről szóló határozat
+száma, kelte (amennyiben a nyilvántartásba vétel már megtörtént)
+3. Alapító adatai (név, működési forma, nyilvántartásba vétel formája és azonosítója, székhely, értesítési cím)
+4. Fenntartó adatai (név, működési forma, nyilvántartásba vétel formája és azonosítója, székhely, értesítési cím)
+5. Az intézmény adatai (hivatalos név, intézménytípus, székhely)
+6. Intézmény székhelyére és minden telephelyére külön
+a) az ott ellátott feladatok
+b) az épület tulajdonosa
+c) az épület feletti rendelkezési jog időtartama (amennyiben nem a fenntartó az épület tulajdonosa)
+d) a közoktatási tevékenység megkezdésének tervezett dátuma
+e) az épületbe felvehető maximális gyermek-, tanulólétszám
+f) tantermek száma
+g) óvodai csoportszobák száma
+h) tantermek alapterülete (legkisebb-legnagyobb)
+i) óvodai csoportszobák alapterülete (legkisebb-legnagyobb)
+j) tervezett évfolyamok felsorolása
+k) tervezett óvodai csoportok száma
+l) óvoda napi nyitvatartási ideje (-tól –ig)
+m) szakképzés esetén a gyakorlati képzés megszervezésének módja: iskolai tanműhely, tanulószerződés alapján,
+megállapodás keretében, egyéb
+7. A nevelési-oktatásiintézményfeladatával,működésévelkapcsolatosegyéb tudnivalók,sajátosságok,bejelentések.(Itt
+kell feltüntetni azokat a sajátos tudnivalókat, amelyek feltüntetésére az előző pontok nem nyújtottak lehetőséget.)
+II. A mellékletek
+A kérelemhez csatolni kell eredetiben vagy másolatban: (Másolat esetén az eljárás során a jegyző, főjegyző kérheti az
+eredeti dokumentum bemutatását.)
+1. a nevelési-oktatási intézmény alapító okiratát, valamint a nyilvántartásba vételről szóló határozatot,
+2. az ellátott feladatokhoz a fenntartó által jóváhagyott nevelési, pedagógiai, szakmai programot,
+3. fenntartói igazolást arról, hogy a feladatai ellátásához szükséges, jogszabályban meghatározott helyiségek feletti
+rendelkezési jog a nevelési-oktatási intézmény működéséhez legalább öt nevelési évre, tanítási évre biztosított
+(tulajdoni lap, megállapodás, hozzájáruló nyilatkozat),
+4. annak igazolását, hogy a helyiségek a nevelési-oktatási intézmény feladatainak ellátására alkalmasak
+(használatbavételi engedély, hatósági bizonyítvány),
+5. szakképzésben részt vevő iskola esetén annak ismertetését, hogy a gyakorlati oktatást milyen módon szervezik meg,
+saját gyakorlati oktatási hely hiányában a gyakorlati oktatási hely biztosítására kötött megállapodást, illetve
+nyilatkozatot arról, hogy a gyakorlati képzést tanulószerződés alapján végzik,
+
+6. a tárgyi feltételek meglétét igazoló tételes jegyzéket – a kötelező (minimális) eszköz- és felszerelési jegyzékben
+meghatározottakszerint elkészítve,külön feltüntetve a testnevelésiés a gyakorlati foglalkozásokmegtartását szolgáló
+helyiségeket –, valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a nevelő és oktató
+munkához szükséges, jogszabályban meghatározott tárgyi feltételek rendelkezésre állnak, illetve fokozatosan
+megteremthetők, felmenő rendszerben történő oktatásszervezés esetén az eszközök és felszerelések beszerzésének
+ütemtervét, szakképzésben részt vevő iskola esetén a gyakorlati képzésre vonatkozó felszerelési jegyzéket.
+A tárgyi feltételek meglétét igazoló tételes jegyzéket a székhelyre és valamennyi telephelyre vonatkozóan külön-külön kell
+elkészíteni,
+7. a személyi feltételek meglétét igazoló tételes jegyzéket, valamint a fenntartó nyilatkozatát arról, hogy a működés
+megkezdéséhez, a nevelő és oktató munkához szükséges, jogszabályban meghatározott személyi feltételek biztosítottak.
+A jegyzéknek tartalmaznia kell az óvodai nevelésben, az iskolai nevelésben-oktatásban foglalkoztatott pedagógusok
+listáját, feltüntetve a pedagógusok nevét, végzettségét és szakképzettségét, iskola esetén tantárgyi bontásban,
+valamint a pedagógus-végzettséget tanúsító oklevél kiállítóját és az oklevél számát, a tantárgyfelosztást, továbbá
+a működéshez szükséges többi alkalmazott nevét, végzettségét és szakképzettségét, foglalkoztatásuk módját és
+időtartamát. A jegyzéknek az óraadókra vonatkozóan is tartalmaznia kell a fenti adatokat.
+A személyi feltételek meglétét igazoló tételes jegyzéket a székhelyre és valamennyi telephelyre vonatkozóan
+külön-külön kell elkészíteni,
+8. a pénzügyi feltételek teljesítésének igazolásához csatolni kell
+a) részletes kimutatást arról, hogy a nevelési-oktatási intézmény tevékenységét milyen forrásokból finanszírozzák
+(a források között kell feltüntetni a feladatellátáshoz rendelkezésre álló készpénzt, a befektetett eszközök és
+forgóeszközök értékét, a tervezett bevételi forrásokat: normatív állami támogatás és hozzájárulást; közoktatási
+megállapodás alapján járó kiegészítő támogatást; egyházi kiegészítő támogatást; tandíjat; alapítványi
+támogatást; bankhitelt; minden egyéb bevételt; bármilyen, a működéshez felhasználható tárgyi vagy pénzbeli
+juttatást, a tevékenységben való ingyenes közreműködést), továbbá
+b) a fenntartó által jóváhagyott egy évre szóló költségvetést (amely tartalmazza a működéshez szükséges
+befektetett eszközök és forgóeszközök beszerzési értékét, a dologi és személyi kiadások összegét, utóbbiba
+beleértve az alkalmazottak bérét, annak közterheit és a tanulói juttatások költségeit), valamint
+c) a fenntartó nyilatkozatát arról, hogy a feladatok ellátásához szükséges fedezetet biztosítja.
+A pénzügyi feltételek teljesítésének kimutatását az intézmény egészére vonatkozóan kell elkészíteni (székhelyre és
+valamennyi telephelyre vonatkozóan együttesen).
+Ha a kérelmező a melléklet 1., 3., 4. pontja szerinti adattartalmat nem igazolja, a kérelem elbírálásához a nyilvántartásba
+vételi engedélyről szóló határozat, a tulajdoni lap, a használatbavételi engedély, a hatósági bizonyítvány vonatkozásában
+a nyilvántartást vezető szervet kell megkeresni a jogosultságra vonatkozó adatok szolgáltatása vagy igazolása iránt.”
+8. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[7. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„8. Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására
+jogosult szakértő véleményét kell beszerezni.”
+9. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[7. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„8. Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység folytatására
+jogosult szakértő véleményét kell beszerezni.”
+10. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[7. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„11. Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység
+folytatására jogosult szakértő véleményét kell beszerezni.”
+
+11. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[7. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„12. Ha vitás, hogy az előírt eszközök, felszerelések rendelkezésre állnak, közoktatási szakértői tevékenység
+folytatására jogosult szakértő véleményét kell beszerezni.”
+12. számú melléklet a 35/2009. (XI. 18.) OKM rendelethez
+[8. számú melléklet a 11/1994. (VI. 8.) MKM rendelethez]
+„Amennyiben a jelentkezést nem a közzétett jelentkezési lapon nyújtották be, a kérelemben érintett középfokú iskola
+a felvételi eljáráshoz szükséges adatok öt munkanapon belüli pótlására felszólítja a kérelem benyújtóját.”
