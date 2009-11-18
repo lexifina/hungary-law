@@ -1,0 +1,1 @@
+## 3. § A rendelet 2. melléklete tartalmazza azokat a bányászatihulladék-kezelő létesítmény engedélyben foglalt információkat, melyeket megkeresés után a bányafelügyelet a bányászati hulladékok kezeléséről szóló 14/2008. (IV. 3.) GKM rendelet (a továbbiakban Bhr.) alapján a közösségi statisztikai hivatalok számára hozzáférhetővé tesz.

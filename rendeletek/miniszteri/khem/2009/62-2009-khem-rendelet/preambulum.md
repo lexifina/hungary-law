@@ -1,0 +1,1 @@
+A bányászatról szóló 1993. évi XLVIII. törvény 50/A. §-ának (2) bekezdése i) pontjában kapott felhatalmazás alapján, a közlekedési, hírközlési és energiaügyi miniszter feladat- és hatásköréről szóló 133/2008. (V. 14.) Korm. rendelet 1. §-a (1) bekezdésének c) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
