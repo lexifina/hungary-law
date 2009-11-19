@@ -1,0 +1,3 @@
+1. § (1) A Miniszterelnöki Hivatalban, valamint a Miniszterelnöki Hivatalt vezető miniszter irányítása alá tartozó központi hivatalban, illetőleg a felügyelete alá tartozó kormányhivatalban – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 2. számú melléklet 18. pontja hatálya alá tartozó – fontos és bizalmas munkaköröket, továbbá az ilyen munkakörben foglalkoztatott személyek nemzetbiztonsági ellenőrzésének szintjét az e rendelet mellékletében foglaltak szerint határozom meg.
+
+(2) A rendelet hatálya nem terjed ki a Miniszterelnöki Hivatalban a tárca nélküli miniszter irányítási vagy felügyeleti jogkörébe tartozó szervezetre és szervezeti egységre.
