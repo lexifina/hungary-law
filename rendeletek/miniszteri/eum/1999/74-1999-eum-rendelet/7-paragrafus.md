@@ -1,0 +1,3 @@
+## 6. §[^7] A gyógyhelyre vonatkozó előírások és a közegészségügyi követelmények betartását az ÁNTSZ kistérségi intézete ellenőrzi. Ha az ellenőrzés során kifogásolható körülményeket, hiányosságot észlel, a követelmények biztosítása érdekében intézkedik, ennek eredménytelenségéről az OTH-t értesíti.
+
+[^7]: A 6. § a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának ab) alpontja, a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
