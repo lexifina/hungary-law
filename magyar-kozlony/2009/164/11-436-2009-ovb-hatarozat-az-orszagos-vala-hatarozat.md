@@ -1,0 +1,11 @@
+# A Közép-európai Funkcionális Légtérblokkról szóló megállapodás létrehozására adott felhatalmazásról 41970 436/2009. (XI. 20.) OVB határozat Az Országos Választási Bizottság határozata
+
+Magyar Közlöny 2009. évi 164. szám, 2009. november 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/62af2d90dbee53ead102781720be51b16a432cfa/dokumentumok/2efe694e0a04c00d87cb71d1467eaaf0e706cc9d/letoltes)
+
+---
+
+A Közép-európai Funkcionális Légtérblokkról szóló megállapodás
+létrehozására adott felhatalmazásról
+
+436/2009. (XI. 20.) OVB
+határozat
