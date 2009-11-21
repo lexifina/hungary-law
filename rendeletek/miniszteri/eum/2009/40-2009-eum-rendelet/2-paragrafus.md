@@ -1,0 +1,17 @@
+## 1. § A szakértői tevékenységre jogosító engedély az egészségügy területén az 1. mellékletben felsorolt szakterületekre adható ki.
+
+2. § (1) A szakértői tevékenység engedélyezése iránti kérelmet az Egészségügyi Engedélyezési és Közigazgatási Hivatalhoz (a továbbiakban: EEKH) kell benyújtani.
+
+(2) A kérelemben meg kell jelölni a külön jogszabályban foglalt adatokon túl a 2. melléklet szerinti adatokat is.
+
+(3) A kérelmet az EEKH honlapján és a kormányzati portálon közzétett elektronikus formanyomtatványon is be lehet nyújtani.
+
+(4) A kérelemhez csatolni kell:
+
+a) az iskolai végzettséget igazoló okmány másolatát,
+
+b) a kérelmező megjelent publikációi címének, a publikálás helyének és idejének leírását,
+
+c) a kérelmező szakmai működésének részletes leírását.
+
+(5) Az engedély kiadása iránti eljárásért fizetendő díjat az EEKH számlájára kell befizetni. A díj mértéke szakterületenként megegyezik az általános tételű eljárási illeték összegének kétszeresével. A díj megfizetésére, kezelésére, nyilvántartására és visszatérítésére a népjóléti ágazatba tartozó egyes államigazgatási eljárásokért és igazgatási jellegű szolgáltatásokért fizetendő díjakról rendelkező külön jogszabály előírásai az irányadók.
