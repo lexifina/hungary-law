@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és Szerbia Köztársaság Kormánya között a nemzetközi kombinált árufuvarozásról és a logisztikai szolgáltatásokról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
