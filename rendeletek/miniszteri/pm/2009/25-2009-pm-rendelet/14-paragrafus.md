@@ -1,0 +1,3 @@
+14. § (1) Az államháztartás információs rendszerének jogszabályban elrendelt módosulása miatt bekövetkező adatváltozások átvezetésére a Kincstár – a Pénzügyminisztériummal egyeztetett módon, hivatalból megindított eljárás keretében – eseti csoportos adatmódosítást végezhet. Az eljáró szerv az adatmódosításról és annak hatálybalépéséről a módosítás végrehajtását követő öt munkanapon belül értesíti a törzskönyvi szervet és alapító szervét.
+
+(2) A nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 24. §-ában foglalt esetben a megszűnt kisebbségi önkormányzat nyilvántartásból való törlése iránt az eljáró szerv hivatalból jár el.

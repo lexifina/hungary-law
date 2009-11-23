@@ -1,0 +1,1 @@
+## A törzskönyvi szervek azonosítása
