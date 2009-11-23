@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a természetes lösz-lejtősztyep vegetáció, valamint a területen élő védett és fokozottan védett növény és állatfajok, különösen a gyapjas őszirózsa (Aster oleifolius), gyapjas csüdfű (Astragalus dasyanthus), szirti törpebagoly (Apaustis rupicila), zöldike (Coeloglossum viride) és a zefír boglárka (Plebejus sephirus) populációinak megőrzése.

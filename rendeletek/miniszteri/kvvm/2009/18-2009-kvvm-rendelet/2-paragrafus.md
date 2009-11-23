@@ -1,0 +1,1 @@
+## 1. § Védetté nyilvánítom Tarcali Turzó-dűlő természetvédelmi terület elnevezéssel a Borsod-Abaúj-Zemplén megyében, Tarcal közigazgatási területén lévő, Tarcal 2149/7, 2150, 2151, 2153, 2154/1–3, 2158, 2161, 3993, 031/3 ingatlan-nyilvántartási helyrajzi számú, összesen 10,74 hektár kiterjedésű területet.
