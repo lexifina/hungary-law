@@ -1,0 +1,3 @@
+## 4. § Az R. 60/A. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Az érettségi vizsgát szervező középiskola vezetőjének biztosítania kell a Hivatal által működtetett elektronikus üzenetküldő rendszer folyamatos figyelemmel kísérését minden vizsganapon. Az intézményben folyó írásbeli, gyakorlati érettségi vizsgák alkalmával a figyelemmel kísérést a vizsga kezdete előtt legalább 30 perccel meg kell kezdeni és az írásbeli, gyakorlati vizsgára a részletes vizsgakövetelményekben meghatározott időtartam letelte után 30 percig kell biztosítani. Az intézményben folyó szóbeli vizsgák időtartama alatt az elektronikus üzenetküldő rendszert legalább kétóránként kell megtekinteni (vagy ellenőrizni).”

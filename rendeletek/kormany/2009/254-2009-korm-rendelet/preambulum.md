@@ -1,0 +1,1 @@
+A Kormány a közoktatásról szóló 1993. évi LXXIX. törvény 94. §-a (3) bekezdésének c) pontjában kapott felhatalmazás alapján – a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva – a következőket rendeli el:
