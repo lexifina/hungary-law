@@ -1,0 +1,5 @@
+9. § (1) Az anyatej-helyettesítő tápszer hatékony hatósági ellenőrzésének elősegítése érdekében a termék Magyarországon történő forgalomba hozatalakor az előállító vagy forgalmazó (a továbbiakban együtt: forgalmazó) a forgalomba hozatalt bejelenti az Országos Élelmezés- és Táplálkozástudományi Intézetnél (a továbbiakban: OÉTI), a különleges táplálkozási célú élelmiszerekről szóló 36/2004. (IV. 26.) ESZCSM rendelet (a továbbiakban: R. I.) 4. számú melléklete szerinti adatlap, valamint a terméken használt címke mintájának egyidejű megküldésével.
+
+(2) Az (1) bekezdés szerint kell eljárni abban az esetben is, ha a már bejelentett és forgalmazott termék összetételében, az összetevők arányában a csomagolást és a jelölést illetően bármely változás történik.
+
+(3) A fogyasztó egészségének védelme érdekében, a termékek megfelelő megítélése és táplálkozás-élettani értékelése céljából az OÉTI a bejelentőtől további dokumentumokat is kérhet. Kétség esetén a készítmény biztonságos alkalmazhatóságára vonatkozó bizonyítási kötelezettség a forgalmazót terheli.

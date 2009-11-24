@@ -1,0 +1,5 @@
+10. § (1) Az anyatej-helyettesítő és anyatej-kiegészítő tápszerben – a (2) és (3) bekezdésben foglaltak kivételével – az egyes növényvédőszer-maradékok nem haladhatják meg a 0,01 mg/kg értéket a fogyasztásra kész vagy az előállító utasításainak megfelelően fogyasztásra elkészített termékben.
+
+(2) A 8. mellékletben felsorolt növényvédő szereket nem lehet anyatej-helyettesítő és anyatej-kiegészítő tápszer előállítására szánt mezőgazdasági termékekben felhasználni. A fogyasztásra kész, illetve az előállító utasítása szerint fogyasztásra elkészített anyatej-helyettesítő és anyatej-kiegészítő tápszer azonban az ellenőrzés szempontjából megfelelő, ha a 8. melléklet 1. és 2. táblázatában felsorolt növényvédő szerek maradékának mennyisége nem haladja meg a 0,003 mg/kg szintet.
+
+(3) A 9. mellékletben meghatározott növényvédő szer esetén a 9. mellékletben meghatározott maximális szermaradék-értéket kell alkalmazni a fogyasztásra kész vagy az előállító utasításainak megfelelően fogyasztásra elkészített termékben.

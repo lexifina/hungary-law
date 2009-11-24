@@ -1,0 +1,1 @@
+## 5. § Az anyatej-helyettesítő tápszer az 1. melléklet 2. pontjában meghatározott fehérjeforrásokból és adott esetben egyéb olyan élelmiszer-összetevőkből állítható elő, amelyek a tudományos ismeretek szerint bizonyítottan alkalmasak a csecsemők születéstől kezdődő különleges táplálására.

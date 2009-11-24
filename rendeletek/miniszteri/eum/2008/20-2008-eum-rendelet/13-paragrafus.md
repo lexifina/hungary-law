@@ -1,0 +1,5 @@
+13. § (1) Az anyatej-helyettesítő tápszerek reklámozása kizárólag a csecsemőgondozásra vagy tudományos publikációkra szakosodott kiadványokban történhet. Az anyatej- helyettesítő tápszerek reklámozására a 12. § (3)–(8) bekezdésében megállapított feltételek vonatkoznak. Az anyatej-helyettesítő tápszer reklámja csak tudományosan megalapozott és tényszerű információt tartalmazhat, és nem utalhat arra, vagy nem sugallhatja, hogy a tápszerrel történő táplálás egyenértékű vagy előnyösebb, mint a szoptatás.
+
+(2) Az anyatej-helyettesítő tápszert árusító helyeken nem lehet semmilyen, az anyatej-helyettesítő tápszert népszerűsítő tevékenységet végezni, amely az anyatej-helyettesítő tápszer vásárlásának ösztönzését segíti elő.
+
+(3) Az anyatej-helyettesítő tápszerek előállítói és forgalmazói a nyilvánosságnak, várandós anyának, szoptatós anyának vagy családtagjainak ingyenes vagy csökkentett árú készítményt, mintát vagy bármely más népszerűsítő ajándékot egészségügyi szolgáltató vagy az egészségügyi szolgáltató alkalmazottja útján sem adhat.
