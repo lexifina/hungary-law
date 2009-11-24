@@ -1,0 +1,1 @@
+34. § Az Áht. 33/B. §-a alapján a 2009. évben vállalható kiállítási garanciák és kiállítási viszontgaranciák együttes, a vállalás időpontjában forintra átszámított állománya az év egyetlen napján sem haladhatja meg a 300 000,0 millió forintot.

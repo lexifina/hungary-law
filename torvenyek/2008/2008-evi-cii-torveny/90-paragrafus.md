@@ -1,0 +1,1 @@
+90. § A mozgóképről szóló 2004. évi II. törvény 13. §-ának (2) bekezdésében meghatározott gyártási költségvetési értékhatár a 2009. évben magyar filmalkotás esetén 256,0 millió forint, magyar részvételű koprodukciós filmalkotás esetén 487,0 millió forint.

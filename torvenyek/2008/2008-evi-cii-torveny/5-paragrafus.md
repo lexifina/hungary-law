@@ -1,0 +1,1 @@
+5. § A 4. § (1) bekezdés szerinti céltartalék szolgál a központi költségvetési szerveknél foglalkoztatottak munkateljesítményeinek elismerésére. A céltartalékból igényelhető támogatás teljesítményelv-érvényesítésen alapuló szempontjait, feltételeit, a támogatásban részesíthető költségvetési szervek körét a Kormány állapítja meg.

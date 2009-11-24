@@ -1,0 +1,3 @@
+42. § (1) Az MV Zrt. által a Gazdaságfejlesztés Operatív Program Pénzügyi eszközök prioritási tengelyében, illetve a Közép-magyarországi Operatív Program A tudásalapú gazdaság innováció- és vállalkozásorientált fejlesztése prioritási tengelyében a Garanciaeszközökre vállalt készfizető kezesség állománya a 2009. évben nem haladhatja meg a 100 000,0 millió forintot.
+
+(2) Amennyiben a Garantiqa Hitelgarancia Zrt. a készfizető kezességvállalást az MV Zrt. kezességvállalási tevékenységének közreműködőjeként végzi, akkor az (1) bekezdés szerinti állományi keret összege a Garantiqa Hitelgarancia Zrt. által e minőségében – a 38. § (6) bekezdése szerinti állományi keretösszegen belül – vállalt készfizető kezesség állományával növekedhet.

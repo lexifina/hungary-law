@@ -1,0 +1,5 @@
+84. § (1) Az NSRK forrásaiból kell biztosítani azon programok, projektek finanszírozását, melyek megvalósítására a Nemzeti Fejlesztési Terv operatív programjai alapján történt kötelezettségvállalás, megfelelnek az NSRK céljainak, szabályainak, de európai uniós forrásból történő finanszírozásukra a Nemzeti Fejlesztési Terv keretében nem kerülhet sor.
+
+(2) Az ÚMVP forrásaiból kell biztosítani azon programok, projektek finanszírozását, melyek megvalósítására az I. Nemzeti Vidékfejlesztési Terv intézkedései alapján történt kötelezettségvállalás, megfelelnek az ÚMVP céljainak, szabályainak, de európai uniós forrásból történő finanszírozásukra az I. Nemzeti Vidékfejlesztési Terv keretében nem kerülhet sor.
+
+(3) Jogszabály eltérő rendelkezése hiányában az NSRK keretében nyújtott támogatás kedvezményezettje – kormányrendeletben meghatározott feltételek mellett – abban az esetben is jogosult az esedékes támogatás teljes, illetve köztartozással csökkentett összegére, amennyiben az Áht. 10. §-ában foglalt fizetési kötelezettséggel összefüggő, esedékessé vált és még meg nem fizetett köztartozása van.

@@ -1,0 +1,5 @@
+## A társadalombiztosítás pénzügyi alapjai költségvetése egyes előirányzatainak felhasználásával kapcsolatos rendelkezések
+
+72. § (1) Az Országgyűlés felhatalmazza az egészségügyi minisztert, hogy a pénzügyminiszter egyetértésével a LXXII. Egészségbiztosítási Alap fejezet, 1. cím, 7. alcím, 7. jogcím-csoport, 2. Folyamatos gyógyszerellátást biztosító gyógyszergyártói és forgalmazói befizetések és egyéb gyógyszerforgalmazással kapcsolatos bevételek jogcím előirányzaton elszámolt bevételek mértékéig a gyógyszertámogatás céltartalékot a 2. cím, 3. alcím, 4. Gyógyszertámogatás jogcím-csoport jogcímeire átcsoportosítsa.
+
+(2) Az Országgyűlés felhatalmazza az egészségügyi minisztert, hogy a pénzügyminiszter egyetértésével a LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcím, 4. jogcím-csoport, 1. Gyógyszertámogatás kiadásai jogcím előirányzatát év közben megemelje az 1. cím, 7. alcím, 7. jogcím-csoport, 2. Folyamatos gyógyszerellátást biztosító gyógyszergyártói és forgalmazói befizetések és egyéb gyógyszerforgalmazással kapcsolatos bevételek jogcím bevételi előirányzatán felül jelentkező többlet összegével.
