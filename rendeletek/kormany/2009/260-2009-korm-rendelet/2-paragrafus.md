@@ -1,0 +1,1 @@
+## 1. § A Kormány felhatalmazást ad a guantanamoi fogolytáborban fogva tartott személy magyarországi befogadásáról szóló, a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya közötti megállapodás (a továbbiakban: Megállapodás) kötelező hatályának jegyzékváltás útján történő elismerésére.
