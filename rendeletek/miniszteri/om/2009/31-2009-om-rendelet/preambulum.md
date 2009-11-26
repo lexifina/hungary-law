@@ -1,0 +1,1 @@
+A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 87/B. §-ában kapott felhatalmazás alapján, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet 1. § e) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
