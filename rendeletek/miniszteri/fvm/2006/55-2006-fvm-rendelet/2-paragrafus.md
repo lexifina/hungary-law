@@ -1,0 +1,1 @@
+## 1. § A vételi és haszonbérleti ajánlatnak (a továbbiakban: ajánlat) a termőföldre vonatkozó elővásárlási és előhaszonbérleti jog gyakorlásának részletes szabályairól szóló 16/2002. (II. 18.) Korm. rendeletben foglaltak szerint történő közléséért igazgatási szolgáltatási díjat kell fizetni.
