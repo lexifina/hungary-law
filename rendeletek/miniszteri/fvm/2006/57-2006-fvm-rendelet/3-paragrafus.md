@@ -1,0 +1,639 @@
+3. §[^3]
+
+Melléklet az 57/2006. (VIII. 4.) FVM rendelethez[^4]
+
+I.
+
+II.
+
+Az R. mellékletének 20. sora szerinti, „Az élelmiszerekben használható adalékanyagok, az édesítőszerek és a színezékek kivételével 1–2–95/2 számú előírás 4. kiadása” 4. számú melléklete táblázatának 2. sora helyébe a következő szövegrész lép:
+
+| [E szám | Név | Élelmiszer | Maximális szint] |
+
+|  | „A következő élelmiszerekben az E 338 foszforsav, az E 339, E 340, E 341, E 343, E 450, E 451, E 452 foszfátok egyedileg vagy keverten használhatók (P2O5-ben kifejezve). |  |
+
+| E 338 | foszforsav | Üdítőitalok | 700 mg/l |
+
+|  |  | Sterilezett és UHT-kezelt tej | 1 g/l |
+
+|  |  | Kandírozott gyümölcsök | 800 mg/kg |
+
+|  |  | Gyümölcskészítmények | 800 mg/kg |
+
+| E 339 | nátrium-foszfátok | Részlegesen dehidratált tej, 28% alatti szárazanyag-tartalommal | 1 g/kg |
+
+|  | a) nátrium-dihidrogén-foszfát | Részlegesen dehidratált tej, 28% feletti szárazanyag-tartalommal | 1,5 g/kg |
+
+|  | b) dinátrium-hidrogén-foszfát | Tejpor és sovány tejpor | 2,5 g/kg |
+
+|  | c) trinátrium-foszfát | Pasztőrözött, sterilezett és UHT-kezelt tejszín | 5 g/kg |
+
+|  |  | Tejszínhab és növényi zsíranalógok | 5 g/kg |
+
+|  |  | Nyers sajt (kivéve a Mozzarellát) | 2 g/kg |
+
+| E 340 | kálium-foszfátok | Ömlesztett sajtok és feldolgozott sajtanalógok | 20 g/kg |
+
+|  | a) kálium-dihidrogén-foszfát | Húskészítmények | 5 g/kg |
+
+|  | b) dikálium-hidrogén-foszfát | Sportitalok és ásványi anyaggal dúsított palackozott vizek | 0,5 g/l |
+
+|  | c) trikálium-foszfát | Étrend-kiegészítők | GMP |
+
+|  |  | Só és sóhelyettesítők | 10 g/kg |
+
+|  |  | Növényifehérje-italok | 20 g/l |
+
+| E 341 | kalcium-foszfátok | Italfehérítők | 30 g/kg |
+
+|  | a) kalcium-hidrogén-foszfát | Italfehérítők árusító automatákhoz | 50 g/kg |
+
+|  | b) dikalcium-foszfát | Fagyasztott állapotban fogyasztandó készítmények (például fagylaltok, jégkrémek) | 1 g/kg |
+
+|  | c) trikalcium-foszfát | Desszertek | 3 g/kg |
+
+|  |  | Desszertporok | 7 g/kg |
+
+| E 343 | magnézium-foszfátok | Finom pékáruk, sütemények, tartós lisztes készítmények | 20 g/kg |
+
+|  | a) mono-magnézium-foszfát | Liszt | 2,5 g/kg |
+
+|  | b) dimagnézium-foszfát | Liszt, sütéskész (sütőportartalmú) | 20 g/kg |
+
+|  |  | Soda bread | 20 g/kg |
+
+|  |  | Tojáslé (fehérje, sárgája vagy egész) | 10 g/kg |
+
+| E 450 | difoszfátok | Mártások, szószok | 5 g/kg |
+
+|  | a) dinátrium-difoszfát | Levesek és erőleves, levesalapok | 3 g/kg |
+
+|  | b) trinátrium-difoszfát | Instant tea és instant gyógynövény-kivonatok, főzetek | 2 g/l |
+
+|  | c) tetranátrium-difoszfát | Rágógumi | GMP |
+
+|  | d) tetrakálium-difoszfát | Szárított, porított élelmiszerek | 10 g/kg |
+
+|  | e) dikalcium-difoszfát | Tejalapú csokoládé és malátaitalok | 2 g/l |
+
+|  | f) kalcium-dihidrogén-difoszfát | Szeszes italok (kivéve a bort és a sört) | 1 g/l |
+
+|  |  | Reggeli-cereáliatermékek | 5 g/kg |
+
+|  |  | Snackek | 5 g/kg |
+
+| E 451 | trifoszfátok | Surimi | 1 g/kg |
+
+|  |  | Hal- és rákkrémek | 5 g/kg |
+
+|  | a) pentanátrium-trifoszfát | Öntetek (palacsinta-szirupok, ízesített szörpök tejturmixokhoz és fagylaltokhoz; hasonló termékek) | 3 g/kg |
+
+|  | b) pentakálium-trifoszfát | Különleges táplálkozási célokra készített élelmiszerek | 5 g/kg |
+
+|  |  | Hús- és zöldségtermékek bevonatai | 4 g/kg |
+
+| E 452 | polifoszfátok | Cukorkák | 5 g/kg |
+
+|  | a)  nátrium-polifoszfát | Porcukor | 10 g/kg |
+
+|  | b)  kálium-polifoszfát | Metélt tészták | 2 g/kg |
+
+|  | c)  nátrium-kalcium-polifoszfát | Folyékony tészták | 12 g/kg |
+
+|  | d)  kalcium-polifoszfát | Nyers halfilék, fagyasztva és gyorsfagyasztva | 5 g/kg |
+
+|  |  | Nyers és feldolgozott, fagyasztott és gyorsfagyasztott csiga- és ráktermékek | 5 g/kg |
+
+|  |  | Feldolgozott burgonyatermékek (beleértve a fagyasztott, gyorsfagyasztott, hűtött vagy szárított termékeket) elősütött fagyasztott és mélyhűtött burgonya | 5 g/kg |
+
+|  |  | Kenhető zsírok a vaj kivételével | 5 g/kg |
+
+|  |  | Savanyú tejszínvaj | 2 g/kg |
+
+|  |  | Rákkonzervek | 1 g/kg |
+
+|  |  | Víz alapú emulziók sütőformák kenésére | 30 g/kg |
+
+|  |  | Kávé alapú italok automatákhoz | 2 g/kg |
+
+|  |  | Aromák | 40 g/kg” |
+
+* * *
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének
+
+1. sorszámú előírása[^5]
+
+* * *
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének
+
+34. sorszámú előírása
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+1–3–76/621 számú előírás
+
+(2. kiadás – 2006.)
+
+Az étolajokban, zsírokban, valamint hozzáadott étolajat és zsírt tartalmazó élelmiszerekben megengedett erukasav-tartalom
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+1–3–76/621 számú előírás
+
+(2. kiadás – 2006.)
+
+Az étolajokban, zsírokban, valamint hozzáadott étolajat és zsírt tartalmazó élelmiszerekben megengedett erukasav-tartalom
+
+1. §
+
+Ez az előírás vonatkozik
+
+a) az emberi fogyasztásra szánt olajokra, zsírokra és ezek elegyeire,
+
+b) azokra az élelmiszerekre, amelyek 5%-ban vagy ezt meghaladó mennyiségben hozzáadott olajat vagy hozzáadott zsírt tartalmaznak.
+
+2. §
+
+Az 1. § szerinti élelmiszerek erukasav-tartalma a bennük található összes zsírsav 5%-ánál több nem lehet.
+
+3. §
+
+Az erukasav-tartalom meghatározására szolgáló mintavételi és vizsgálati módszereket a Magyar Élelmiszerkönyv 3–1–80/891 számú előírása tartalmazza.
+
+4. §
+
+Ez az előírás 2006. szeptember 1-jén lép hatályba, ezzel egyidejűleg az 1–3–76/621 számú előírás 1995-ben jóváhagyott 1. kiadása hatályát veszti.
+
+5. §
+
+Ez az előírás a közvetlenül emberi fogyasztásra szánt olajok (étolajok) és zsírok (étkezési zsírok), valamint a hozzáadott olajokat és zsírokat tartalmazó élelmiszerek erukasav-tartalma legmagasabb szintjének rögzítéséről szóló, 1976. július 20-i 76/621/EGK tanácsi irányelvnek való megfelelést szolgálja.
+
+* * *
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének
+
+36. sorszámú előírása
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+1–3–89/108 számú előírás
+
+(2. kiadás – 2006.)
+
+A gyorsfagyasztott élelmiszerek
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+1–3–89/108 számú előírás
+
+(2. kiadás – 2006.)
+
+A gyorsfagyasztott élelmiszerek
+
+1. §
+
+(1) Ez az előírás a gyorsfagyasztott élelmiszerekre vonatkozik.
+
+(2) Ezen előírás szerint gyorsfagyasztott élelmiszer az olyan élelmiszer, amelyet
+
+a) olyan gyorsfagyasztási folyamatnak vetnek alá, amely során a termék a maximális kristályképződés tartományán a termék jellegétől függően, de a lehető leggyorsabban halad át; ennek eredményeként a termikus kiegyenlítődést követően a termék minden pontjának hőmérséklete –18 °C vagy ennél kisebb érték lesz, és
+
+b) erre utaló megnevezéssel forgalmaznak.
+
+(3) Ezen előírás értelmében az étkezési jég és a jégkrém nem gyorsfagyasztott élelmiszer.
+
+2. §
+
+Csak az 1. § (2) bekezdése szerinti gyorsfagyasztott élelmiszert szabad a 8. és 9. §-ban megadott jelöléssel ellátni.
+
+3. §
+
+(1) A gyorsfagyasztott élelmiszer nyersanyagának épnek, egészségesnek és frissnek kell lennie.
+
+(2) A kémiai, biokémiai és mikrobiológiai változások minimumra csökkentése érdekében a nyersanyagok előkészítését és a gyorsfagyasztást – megfelelő gépekkel, illetve berendezésekkel – haladéktalanul el kell végezni.
+
+4. §
+
+A gyorsfagyasztott élelmiszerekkel a következő fagyasztó közegek kerülhetnek közvetlen kapcsolatba:
+
+a) levegő,
+
+b) nitrogén,
+
+c) szén-dioxid.
+
+5. §
+
+(1) A gyorsfagyasztott élelmiszer hőmérsékletének a termék minden pontján állandóan –18 °C-osnak vagy kisebbnek kell lennie. Szállításkor rövid ingadozással maximum 3 °C-kal lehet nagyobb.
+
+(2) A termék hőmérséklete a jó tárolási és szállítási gyakorlat betartásával a helyi elosztási és a kiskereskedelmi tárolás során –18 °C-nál
+
+a) legfeljebb 3 °C-kal lehet nagyobb,
+
+b) a kiskereskedelmi hűtőpultokban és a kiskereskedelembe történő helyi kiszállítás során legfeljebb 6 °C-kal lehet nagyobb.
+
+6. §
+
+Biztosítani kell,
+
+a) hogy a gyorsfagyasztáshoz, tároláshoz, szállításhoz és a helyi áruelosztáshoz használt berendezések, valamint a hűtőpultok alkalmasak legyenek az előírások betartására,
+
+b) a gyorsfagyasztott élelmiszerek hőmérsékletének ellenőrzését.
+
+7. §
+
+A gyorsfagyasztott élelmiszert úgy kell csomagolni, hogy a csomagolás védje a terméket a mikrobiológiai és egyéb szennyeződésektől, valamint a kiszáradástól.
+
+8. §
+
+A további feldolgozás nélkül a végső felhasználóhoz – beleértve a vendéglátást, kórházakat, üzemi étkeztetést és hasonló létesítményeket – kerülő gyorsfagyasztott termékekre az általános jelölési előírásokon túl a következők vonatkoznak:
+
+a) a megnevezést a „gyorsfagyasztott” szóval kell kiegészíteni,
+
+b) a minőségmegőrzési időhöz kiegészítően meg kell adni a tárolási hőmérsékletet (és/vagy a tárolásra alkalmas berendezést), valamint a hozzá tartozó időtartamot, ameddig a termék a vevőnél még felhasználható,
+
+c) a címkén szerepelnie kell a tétel azonosítását lehetővé tevő megjelölésnek,
+
+d) egyértelműen fel kell tüntetni, hogy a terméket felengedtetés után nem szabad újrafagyasztani.
+
+9. §
+
+(1) Az 1. § (2) bekezdésében meghatározott azon termékek jelölésének, amelyek sem végső felhasználóhoz, sem a vendéglátáshoz, kórházakhoz, üzemi étkezdékhez és hasonló intézményekhez nem kerülnek, csak a következőket kell tartalmaznia:
+
+a) megnevezés, kiegészítve a gyorsfagyasztott szóval,
+
+b) nettó tömeg,
+
+c) a tétel azonosítására szolgáló megjelölés,
+
+d) az előállító vagy csomagoló vagy forgalmazó cég neve (címe).
+
+(2) Az (1) bekezdés szerinti megjelöléseket a termék burkolatán, a tartályán, a csomagolásán vagy megfelelő címkén kell feltüntetni.
+
+10. §
+
+A gyorsfagyasztott élelmiszerek, valamint a szállítási és raktározási, tárolási hőmérsékletük ellenőrzését az emberi fogyasztásra szánt gyorsfagyasztott élelmiszerek hőmérsékletének a szállítóeszközökben, raktárakban és tárolókban történő ellenőrzéséről szóló, 2005. január 12-i 37/2005/EK bizottság rendelet és a Magyar Élelmiszerkönyv 1–3–92/2 számú előírása szerint kell végezni.
+
+11. §
+
+(1) Ez az előírás 2006. szeptember 1-jén lép hatályba.
+
+(2) Ezen előírás hatálybalépésével a Magyar Élelmiszerkönyv 1–3–89/108 számú előírásának 1995-ben jóváhagyott 1. kiadása hatályát veszti.
+
+12. §
+
+Ez az előírás az emberi fogyasztásra szánt gyorsfagyasztott élelmiszerekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1988. december 21-i 89/108/EGK tanácsi irányelvnek való megfelelést szolgálja.
+
+* * *
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének
+
+38. sorszámú előírása
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+1–3–92/2 számú előírás
+
+(2. kiadás – 2006.)
+
+A gyorsfagyasztott élelmiszerek hőmérsékletének hatósági ellenőrzésére vonatkozó mintavételi eljárás és vizsgálati módszer
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+1–3–92/2 számú előírás
+
+(2. kiadás – 2006.)
+
+A gyorsfagyasztott élelmiszerek hőmérsékletének hatósági ellenőrzésére vonatkozó
+
+mintavételi eljárás és vizsgálati módszer
+
+1. §
+
+A hatósági hőmérséklet-ellenőrzési vizsgálatot akkor kell elvégezni az 1. számú, illetve 2. számú mellékletben ismertetett eljárás és módszer szerint, ha felmerül annak a gyanúja, hogy az élelmiszer hőmérséklete nem felel meg a Magyar Élelmiszerkönyv gyorsfagyasztott élelmiszerekre vonatkozó 1–3–89/108 számú előírásának (a továbbiakban: 1–3–89/108 számú előírás).
+
+2. §
+
+Más, tudományosan elfogadott vizsgálati módszer is használható, de abban az esetben, ha a mért érték a jelen előírás szerint mérttől eltér, ezen vizsgálati módszer szerint kapott eredmény a döntő.
+
+3. §
+
+(1) Ez az előírás 2006. szeptember 1-jén lép hatályba.
+
+(2) Ezen előírás hatálybalépésével a Magyar Élelmiszerkönyv 1–3–92/2 számú előírásának 1995-ben jóváhagyott 1. kiadása hatályát veszti
+
+4. §
+
+Ez az előírás az emberi fogyasztásra szánt gyorsfagyasztott élelmiszerekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1992. január 13-i 92/2/EGK bizottsági irányelvnek való megfelelést szolgálja.
+
+1. számú melléklet az 1–3–92/2 számú előíráshoz
+
+Gyorsfagyasztott élelmiszerek hőmérsékletének hatósági ellenőrzésére vonatkozó mintavételi eljárás
+
+Az ellenőrzésre kiválasztandó minták
+
+A kiválasztandó minták típusának és számának olyannak kell lennie, hogy hőmérsékletük az ellenőrzött szállítmány legnagyobb hőmérsékletű pontjait képviselje.
+
+1. Tárolás (hűtő-tároló terek; hűtőkamrák)
+
+A mintákat a tároló néhány kritikus pontjáról kell kiválasztani, például az ajtók mellől (alsóbb és felsőbb rétegekből), a tároló közepének környékéről (alsóbb és felsőbb rétegekből) és a hűtőberendezésnél a levegő visszatérítésének közeléből. Figyelembe kell venni a termékek tárolásának időtartamát (a hőmérséklet stabilizálódása miatt).
+
+2. Szállítás
+
+a) Mintavétel szállítás közben: amennyiben a mintát szállítás során kell venni, úgy azt a szállítmánynak az ajtók vagy ajtópárok nyílásának széle melletti alsó és felső részéből kell venni.
+
+b) Kirakodás során végzett mintavétel:
+
+a szállítmányból 4–4 mintát kell venni a következő kritikus pontokon levő tételei közül:
+
+– az ajtók nyíló része mellett fekvő tétel aljáról és tetejéről,
+
+– a tétel felső hátsó részéből (a hűtőberendezéstől a lehető legtávolabb levő helyről),
+
+– a tétel közepéről,
+
+– a tétel elülső részének közepéből (a hűtőberendezéshez lehető legközelebb fekvő részről),
+
+– a tétel első síkjának alsó és felső sarkából (a lehető legközelebb a hűtőberendezésnek a légbeszívó részéhez).
+
+3. Kereskedelmi hűtőpultok
+
+A hűtőpult legnagyobb hőmérsékletű pontjait reprezentáló három helyről egy-egy mintát kell venni.
+
+2. számú melléklet az 1–3–92/2 számú előíráshoz
+
+Gyorsfagyasztott élelmiszerek hőmérséklet-mérési módszere
+
+1. Alkalmazási terület
+
+Az 1–3–89/108 számú előírása 1. §-ának 2. pontja szerinti gyorsfagyasztást követő hőmérséklet stabilizációja után, a hőmérsékletnek a termék minden pontján –18 °C-nak vagy annál kisebbnek kell lennie. Kisebb hőmérséklet-eltérések az 1–3–89/108 számú előírás 5. §-a szerint engedélyezettek.
+
+2. Alapelv
+
+A gyorsfagyasztott élelmiszerek hőmérsékletének mérésekor az 1. számú melléklet szerint kiválasztott minták megfelelő eszközök segítségével mért hőmérsékletét kell pontosan lejegyezni.
+
+3. A hőmérséklet definíciója
+
+„Hőmérséklet”-en azt a hőmérsékletet értjük, amelyet egy meghatározott helyen mérnek a mérőműszer vagy eszköz hőérzékeny részével.
+
+4. Felszerelés
+
+4.1. Hőmérsékletmérő eszköz
+
+4.2. Termékfúró eszköz
+
+Egy könnyen tisztítható, hegyes fémszerszámot kell használni (például jéglyukasztó, kézifúró, rúdfúró).
+
+5. A hőmérsékletmérő eszközök általános jellemzői
+
+A hőmérsékletmérő eszköznek a következő jellemzőknek kell megfelelnie:
+
+a) a beállási sebessége olyan legyen, hogy 3 perc alatt érje el a kezdeti és végső leolvasási érték különbségének 90%-át,
+
+b) a pontossága –20 °C és +30 °C közötti tartományban ±0,5 °C legyen,
+
+c) ha a környező hőmérséklet –20 °C és +30 °C közötti, a mérési pontosság változása használat közben nem lehet nagyobb 0,3 °C-nál,
+
+d) 0,1 °C pontosságú mérésre alkalmas legyen,
+
+e) pontosságát rendszeres időközönként ellenőrizzék,
+
+f) legyen érvényes kalibrációs igazolása,
+
+g) érzékelő része (szonda) könnyen tisztítható legyen,
+
+h) érzékelő része úgy legyen kialakítva, hogy jó hőmérsékleti érintkezést biztosítson a termékkel,
+
+i) elektromos része a páralecsapódástól védve legyen.
+
+6. A mérési eljárás
+
+6.1. Az eszközök előhűtése
+
+A hőmérő érzékelő része és a termékfúró eszköz legyen előhűtve, mielőtt a termék hőmérsékletét mérnék vele. Az eszközök hőmérséklete – amennyire csak lehetséges – közelítse meg a termék hőmérsékletét.
+
+6.2. A minták előkészítése a hőmérséklet méréséhez
+
+Ha szükséges, a gyorsfagyasztott termékeknél az előhűtött termékfúró eszköz segítségével akkora lyukat kell készíteni a termékben, amelybe a szonda szorosan illeszkedik. A lyuk mélysége a termék típusától függ (a 6.3. pont előírásai szerint).
+
+6.3. A termék hőmérsékletének mérése
+
+A minta előkészítése és hőmérsékletének mérése lehetőleg hűtött környezetben történjen, a következőképpen:
+
+a) ha a termék méretei ezt lehetővé teszik, az előhűtött szondát a termék felszínétől számított 2,5 cm mélységbe kell helyezni,
+
+b) ha az a) pontban leírtak végrehajtása nem lehetséges, a szondát a felszíntől a szonda átmérőjének legalább három-négyszeres méretéig kell a mintába behelyezni,
+
+c) bizonyos élelmiszerek (például zöldborsó) méretük vagy összetételük miatt nem fúrhatók át; ezekben az esetekben az élelmiszercsomag belső hőmérsékletét az élelmiszerrel érintkező levegő hőmérsékletének mérésével kell megállapítani úgy, hogy egy megfelelően előhűtött éles végű szondát az élelmiszerrel érintkező módon a csomag közepébe szúrnak,
+
+d) a hőmérsékletet akkor kell leolvasni, ha az már nem változik.
+
+* * *
+
+Az 56/2004. (IV. 24.) FVM rendelet mellékletének
+
+45. sorszámú előírása
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+1–3–2001/114 számú előírás
+
+(2. kiadás – 2006.)
+
+Részben vagy teljesen dehidratált, emberi fogyasztásra szánt, tartós tejtermékek
+
+(Sűrített tej és tejpor)
+
+MAGYAR ÉLELMISZERKÖNYV
+
+(Codex Alimentarius Hungaricus)
+
+1–3–2001/114 számú előírás
+
+(2. kiadás – 2006.)
+
+Részben vagy teljesen dehidratált, emberi fogyasztásra szánt, tartós tejtermékek
+
+(Sűrített tej és tejpor)
+
+1. §
+
+Ez az előírás az 1. számú mellékletben meghatározott, részben vagy teljesen dehidratált tartós tejtermékekre (sűrített tej és tejpor) vonatkozik.
+
+2. §
+
+Az 1. számú mellékletben meghatározott termékekhez a Magyar Élelmiszerkönyv élelmiszerek tápérték jelölésére vonatkozó 1–1–90/496 számú előírás (a továbbiakban: 1–1–90/496 számú előírás) rendelkezéseinek betartásával, vitaminok hozzáadása megengedett.
+
+3. §
+
+(1) Az 1. számú mellékletben felsorolt élelmiszerekre az általános jelölési előírásokon túlmenően e §-ban foglaltakat is alkalmazni kell.
+
+(2) Az 1. számú mellékletben felsorolt megnevezések csak az ott meghatározott termékekre alkalmazhatók és azokat – a (3) bekezdésben felsorolt esetek kivételével – változtatás nélkül kell alkalmazni a forgalomba hozott termékek megnevezésére és megjelölésére.
+
+(3) Az 1. számú mellékletben felsorolt megnevezések helyett a 2. számú mellékletben felsorolt megnevezések az ott megjelölt nyelven és feltételek mellett használhatóak.
+
+(4) A termék jelölésében fel kell tüntetni a végtermék tömegére vonatkoztatott tejzsírtartalmat százalékban (m/m) kifejezve, kivéve az 1. számú melléklet 1. d) és g), valamint 2. d) pontjaiban meghatározott termékeket, továbbá fel kell tüntetni a tejeredetű zsírmentes szárazanyag-tartalmat az 1. számú melléklet 1. pontjában meghatározott termékek esetében. Ezeket az adatokat a termék megnevezésének közelében kell feltüntetni.
+
+(5) Az 1. számú melléklet 2. pontjában feltüntetett termékek jelölésében meg kell adni a hígítás vagy az eredeti állapot visszaállításának módjára vonatkozó ajánlásokat, továbbá az így hígított vagy visszaállított termékek zsírtartalmát.
+
+(6) Ha a terméket 20 g-nál kisebb tömegű egyedi csomagolásba, majd gyűjtőcsomagolásba helyezik, az ebben a paragrafusban előírt külön jelöléseket csak a gyűjtőcsomagoláson kell feltüntetni, kivéve a (2) bekezdésben előírtakat.
+
+(7) Az 1. számú melléklet 2. pontja szerinti termékek jelölésében fel kell tüntetni, hogy a termékek 12 hónapnál fiatalabb csecsemők élelmezésére nem ajánlottak.
+
+4. §
+
+(1) Ez az előírás 2006. szeptember 1-jén lép hatályba.
+
+(2) Ezen előírás hatálybalépésével a Magyar Élelmiszerkönyv 1–3–2001/114 számú előírásának 2003-ban jóváhagyott 1. kiadása hatályát veszti.
+
+5. §
+
+Ez az előírás az egyes emberi fogyasztásra szánt, részben vagy teljesen dehidratált tartós tejekről szóló, 2001. december 20-i 2001/114/EK tanácsi irányelvnek, valamint az azt módosító, a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló Okmánynak való megfelelést szolgálja.
+
+1. számú melléklet az 1–3–2001/114 számú előíráshoz
+
+A termékek meghatározásai és megnevezései
+
+1. Részben dehidratált tej (sűrített tej)
+
+Ez a megnevezés azt az édesített vagy nem édesített folyékony termékcsoportot jelöli, amelyet részleges vízelvonással közvetlenül nyernek tejből, teljesen vagy részben fölözött tejből, vagy ezek keverékéből, amely tartalmazhat még hozzáadott tejszínt vagy teljesen dehidratált tejet (tejport) vagy mindkettőt, amelyben a hozzáadott teljesen dehidratált tej aránya a késztermék tejeredetű szárazanyag-tartalmának legfeljebb 25% (m/m)-a lehet.
+
+– A cukrozatlan sűrített tej típusai:
+
+a) Nagy zsírtartalmú sűrített tej
+
+Részben dehidratált tej, amelynek zsírtartalma legalább 15% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 26,5% (m/m).
+
+b) Sűrített tej
+
+Részben dehidratált tej, amelynek zsírtartalma legalább 7,5% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 25% (m/m).
+
+c) Félzsíros sűrített tej vagy részben fölözött sűrített tej
+
+Részben dehidratált tej, amelynek zsírtartalma legalább 1% (m/m), de legfeljebb 7,5% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 20% (m/m).
+
+d) Sovány sűrített tej
+
+Részben dehidratált tej, amelynek zsírtartalma legfeljebb 1% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 20% (m/m).
+
+– A cukrozott sűrített tej típusai:
+
+e) Cukrozott sűrített tej
+
+Részben dehidratált tej, amely cukor (félfehér kristálycukor, kristálycukor, finomított kristálycukor) felhasználásával készül, és amelynek zsírtartalma legalább 8% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 28% (m/m).
+
+f) Félzsíros cukrozott sűrített tej vagy részben fölözött cukrozott sűrített tej
+
+Részben dehidratált tej, amely cukor (félfehér kristálycukor, kristálycukor, finomított kristálycukor) felhasználásával készül, és amelynek zsírtartalma legalább 1% (m/m), de legfeljebb 8% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 24% (m/m).
+
+g) Sovány cukrozott sűrített tej
+
+Részben dehidratált tej, amely cukor (félfehér kristálycukor, kristálycukor, finomított kristálycukor) felhasználásával készül, és amelynek zsírtartalma legfeljebb 1% (m/m) és az összes tejeredetű szárazanyag-tartalma legalább 24% (m/m).
+
+2. Teljesen dehidratált tej (tejpor)
+
+Ez a megnevezés azt a szilárd termékcsoportot jelöli, amelynek víztartalma a végtermékben legfeljebb 5% (m/m), és amelyet a víztartalom elvonásával közvetlenül nyernek tejből, teljesen vagy részben fölözött tejből, tejszínből vagy ezek keverékéből.
+
+a) Nagy zsírtartalmú tejpor vagy szárított nagy zsírtartalmú tej
+
+Dehidratált tej, amelynek zsírtartalma legalább 42% (m/m).
+
+b) Zsíros vagy teljes tejpor vagy szárított zsíros, illetve teljes tej
+
+Dehidratált tej, amelynek zsírtartalma legalább 26% (m/m), de kevesebb mint 42% (m/m).
+
+c) Félzsíros tejpor vagy szárított félzsíros tej, illetve részben fölözött félzsíros tej
+
+Dehidratált tej, amelynek zsírtartalma több mint 1,5% (m/m), de kevesebb mint 26% (m/m).
+
+d) Sovány tejpor vagy szárított sovány tej
+
+Dehidratált tej, amelynek zsírtartalma legfeljebb 1,5% (m/m).
+
+3. Gyártási előírások
+
+a) Az 1. pont e)–g) alpontjaiban meghatározott termékek gyártásához a végtermékre vonatkoztatva legfeljebb 0,03% (m/m) tejcukor hozzáadása megengedett.
+
+b) Az 1. és 2. pontokban meghatározott termékek tartósítása – a nyers tej, a hőkezelt tej és a tejalapú termékek előállítására és forgalmazására vonatkozó higiéniai előírások maradéktalan betartásával – a következő kezelésekkel történik:
+
+– hőkezeléssel (sterilezés, UHT stb.) az 1. pont a)–d) alpontjaiban meghatározott termékek esetében,
+
+– cukor (szacharóz) hozzáadásával az 1. pont e)–g) alpontjaiban meghatározott termékeknél,
+
+– vízelvonással (dehidratálással) a 2. pontban meghatározott termékeknél.
+
+4. Engedélyezett egyéb anyagok
+
+A jelen mellékletben meghatározott termékek gyártásához ezen előírás 2. §-a értelmében vitaminok hozzáadása – az 1–1–90/496 számú előírás rendelkezéseinek betartásával – megengedett.
+
+2. számú melléklet az 1–3–2001/114 számú előíráshoz
+
+Az 1. számú mellékletben felsorolt egyes termékek különleges megnevezése
+
+a) Az angol „evaporated milk” kifejezés azt az 1. számú melléklet 1. pont b) alpontjában meghatározott terméket jelenti, amely legalább 9% (m/m) zsírt és legalább 31% (m/m) összes tejeredetű szárazanyagot tartalmaz.
+
+b) A francia „lait demi-écrémé concentré” és „lait demi-écrémé concentré non sucré”, a spanyol „leche evaporada semidesnatada”, a holland „geevaporeerde halfvolle melk” vagy „halfvolle koffiemelk” és az angol „evaporated semi-skimmed milk” kifejezések azokat az 1. számú melléklet 1. pont c) alpontjában meghatározott termékeket jelentik, amelyek zsírtartalma 4 és 4,5% (m/m) között van és szárazanyag-tartalmuk legalább 24% (m/m).
+
+c) A dán „kondenseret kaffeflrde” és a német „kondensierte Kaffeesahne” kifejezések az 1. számú melléklet 1. pont a) alpontjában meghatározott terméket jelentik.
+
+d) A dán „flrdepulver”, a német „Rahmpulver” és „Sahnepulver”, a francia „créme en poudre”, a holland „roompoeder”, a svéd „gräddpulver” és a finn „kermajauhe” kifejezések az 1. számú melléklet 2. pont a) alpontjában meghatározott terméket jelentik.
+
+e) A francia „lait demi-écrémé concentré sucré”, a spanyol „leche condensada semidesnatada”, a holland „gecondenseerde halfvolle melk met suiker” kifejezések azokat az 1. számú melléklet 1. pont f) alpontjában meghatározott termékeket jelentik, amelyeknek a zsírtartalma 4 és 4,5% (m/m) között van és a tejeredetű szárazanyag-tartalma legalább 28% (m/m).
+
+f) A francia „lait demi-écrémé en poudre”, a holland „halfvolle melkpoeder” és az angol „semi-skimmed milk powder” vagy „dried semi-skimmed milk” kifejezések azokat az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelentik, amelyek zsírtartalma 14 és 16% (m/m) között van.
+
+g) A portugál „leite em pó meio gordo” kifejezés azt az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelenti, amelynek a zsírtartalma 13 és 26% (m/m) között van.
+
+h) A holland „koffiemelk” kifejezés az 1. számú melléklet 1. pont b) alpontjában meghatározott terméket jelenti.
+
+i) A finn „rasvaton maitojauhe” kifejezés az 1. számú melléklet 2. pont d) alpontjában meghatározott terméket jelenti.
+
+j) A spanyol „leche en polvo semidesnatada” kifejezés az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 10 és 16% (m/m) között van.
+
+k) A máltai „halib evaporat” kifejezés az 1. számú melléklet 1. pont b) alpontjában meghatározott terméket jelenti.
+
+l) A máltai „halib evaporat b’kontenut baxx ta’ xaham” kifejezés az 1. számú melléklet 1. pont c) alpontjában meghatározott terméket jelenti.
+
+m) Az észt „koorepulber” az 1. számú melléklet 2. pont a) alpontjában meghatározott terméket jelenti.
+
+n) Az észt „piimapulber” az 1. számú melléklet 2. pont b) alpontjában meghatározott terméket jelenti.
+
+o) Az észt „väherasvane kondenspiim” az 1. számú melléklet 1. pont c) alpontjában meghatározott terméket jelenti.
+
+p) Az észt „magustatud väherasvane kondenspiim” az 1. számú melléklet 1. pont f) alpontjában meghatározott terméket jelenti.
+
+q) Az észt „väherasvane piimapulber” az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelenti.
+
+r) A cseh „zahuštěná neslazená smetana” az 1. számú melléklet 1. pont a) alpontjában meghatározott terméket jelenti.
+
+s) A cseh „zahuštěné neslazené plnotučné mléko” az 1. számú melléklet 1. pont b) alpontjában meghatározott terméket jelenti.
+
+t) A cseh „zahuštěné neslazené polotučné mléko” az 1. számú melléklet 1. pont c) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 4 és 4,5% (m/m) között van.
+
+u) A cseh „zahuštěné neslazené plnotučné mléko” az 1. számú melléklet 1. pont e) alpontjában meghatározott terméket jelenti.
+
+v) A cseh „zahuštěné neslazené polotučné mléko” az 1. számú melléklet 1. pont f) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 4 és 4,5% (m/m) között van.
+
+w) A cseh „sušená smetana” az 1. számú melléklet 2. pont a) alpontjában meghatározott terméket jelenti.
+
+x) A cseh „sušené polotučné mléko” az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 14 és 16% (m/m) között van.
+
+[^3]: A 3. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 82. pontja hatályon kívül helyezte.
+[^4]: A melléklet a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 82. pontja szerint módosított szöveg.
+[^5]: Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.
