@@ -1,0 +1,1 @@
+## „(14) A (13) bekezdés és a 4/C. § rendelkezéseit megfelelően alkalmazni kell az Európai Gazdasági Térségben nem részes államban nyilvántartásba vett azon gépjárműre, amely a vámkönnyítések közösségi rendszerének felállításáról szóló 1983. március 28-i 918/83/EGK tanácsi rendelet 2–10. cikke szerint természetes személyhez tartozó személyes vagyontárgynak minősül.”
