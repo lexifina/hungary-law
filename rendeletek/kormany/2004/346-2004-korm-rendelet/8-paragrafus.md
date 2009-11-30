@@ -1,0 +1,1 @@
+## Frekvenciasávok használata
