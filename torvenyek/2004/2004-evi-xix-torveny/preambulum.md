@@ -1,0 +1,1 @@
+Az Európai Unió saját forrásainak, a Magyar Köztársaság költségvetésének biztosítása, a rendvédelmi, a fogyasztó- és piacvédelmi, továbbá a tagállami feladatok és a Vám- és Pénzügyőrség szerveinek feladata ellátása érdekében az Országgyűlés a következő törvényt alkotja:
