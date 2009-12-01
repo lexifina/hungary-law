@@ -1,0 +1,3 @@
+15. § (1) A sorozáson a sorozóorvosok tájékozódnak a hadköteles kórelőzményeiről (például korábbi betegségeiről, műtéteiről, baleseteiről, egészségi állapotáról, panaszairól), valamint értékelik a Törzslap és az egyéb rendelkezésre álló orvosi dokumentáció adatait. Ezt követően elvégzik – az alapvető idegrendszeri vizsgálatot is magában foglaló – belgyógyászati és sebészeti irányú klinikai vizsgálatot.
+
+(2) Az (1) bekezdés szerint elvégzett orvosi vizsgálatok során észlelteket, különösen az egészségi panaszokat, a kórelőzményi adatokat, az élettanilag elfogadottól eltérő klinikai elváltozásokat a Törzslapon röviden fel kell tüntetni. A sorozóorvosok az egészségi alkalmassági minősítésre vonatkozó megállapításukat a Törzslapon jegyzik fel.

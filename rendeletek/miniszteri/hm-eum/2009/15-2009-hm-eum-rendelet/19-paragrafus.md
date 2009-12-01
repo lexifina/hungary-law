@@ -1,0 +1,3 @@
+19. § (1) A 18. § (2) bekezdés a) pontja szerinti javaslat alapján a hadköteles bejelentett lakóhelye szerint illetékes hadkiegészítő parancsnokság (a továbbiakban: behívó hadkiegészítő parancsnokság) képviselője dönt a bevonuló hadköteles átadásáról vagy elbocsátásáról.
+
+(2) A bevonulási helyről a behívó hadkiegészítő parancsnokság képviselőjének intézkedésére el kell bocsátani azt a hadkötelest, aki behívását megelőző időszakban olyan egészségkárosodást szenvedett, amelynek várható gyógytartama a 30 napot meghaladja, vagy ha az egészségkárosodása miatt alkalmassági fokozatát újra meg kell állapítani.
