@@ -1,0 +1,21 @@
+23. §[^103] (1)[^104] Ha a tanuló – szülőjének a közoktatási törvény 7. § (2) bekezdésében szabályozott választása alapján – a tankötelezettségének magántanulóként tesz eleget, az erről való bejelentést követő három munkanapon belül az iskola igazgatója beszerzi a tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyermekjóléti szolgálat véleményét annak eldöntésére, hátrányos-e ez a megoldás a tanulónak. A gyermekjóléti szolgálat tíz munkanapon belül köteles megküldeni véleményét.
+
+(2) Ha a tanuló tanulmányi kötelezettségének a szülő döntése alapján magántanulóként tesz eleget, felkészítéséről a szülő gondoskodik, illetőleg a tanuló egyénileg készül fel. Az az iskola pedig, amellyel a tanuló tanulói jogviszonyban áll – kivéve, ha a tanuló független vizsgabizottság előtt ad számot tudásáról – állapítja meg a tanuló érdemjegyeit és osztályzatait, továbbá dönt – minden esetben – a tanuló magasabb évfolyamra lépésével kapcsolatos kérdésekben. Az iskola igazgatója köteles tájékoztatni a tanulót, illetve a szülőt a magántanulói jogairól és kötelességeiről. A magántanuló kérelemre felvehető a napközibe és a tanulószobai foglalkozásra.
+
+(3)[^105] Ha a sajátos nevelési igényű tanuló az illetékes szakértői és rehabilitációs bizottság, a beilleszkedési, magatartási, tanulási nehézséggel küzdő tanuló a nevelési tanácsadó szakértői véleménye alapján tanulmányait magántanulóként folytatja, iskolai neveléséről és oktatásáról – felkészítéséről, érdemjegyeinek és osztályzatainak megállapításáról, illetve az ehhez szükséges pedagógusokról – a szakértői véleményben foglaltak szerint – az az iskola gondoskodik, amellyel a tanuló tanulói jogviszonyban áll. A közoktatási törvény 120. §-ának (1) bekezdésében meghatározottak alapján az iskolában nem foglalkoztatott szakemberek biztosításáról
+
+a) a beilleszkedési, tanulási nehézséggel, magatartási rendellenességgel küzdő tanuló esetén a szakvéleményt kiállító nevelési tanácsadó;
+
+b) sajátos nevelési igényű tanuló esetén a fővárosi, megyei utazó szakember hálózat költségvetése terhére kell gondoskodni.
+
+(4) Az iskola köteles gondoskodni a tanuló felkészítéséről, érdemjegyeinek és osztályzatának megállapításáról akkor is, ha a szakorvosi vélemény alapján otthoni ellátás keretében részesül tartós gyógykezelésben, és emiatt magántanulóként folytatja tanulmányait.
+
+(5) Ha a tanulót a közoktatási törvény 69. §-ának (2) bekezdése alapján egyéni adottsága vagy sajátos helyzete alapján mentesítették a testnevelés, a művészetek, a technika tantárgyak és egyéb gyakorlati jellegű tantárgyak, foglalkozások tanulása alól, tudásáról nem kell számot adnia. A mentesítés iránti kérelemben meg kell jelölni a kérelem indokát. Ha a mentesítést a sajátos nevelési igényű tanuló testi, érzékszervi, értelmi, beszédfogyatékosságára, autizmusára, halmozottan fogyatékosságára, vagy a pszichés fejlődés zavarai miatt a nevelési, tanulási folyamatban való tartós és súlyos akadályozottságára tekintettel kérik, az illetékes szakértői és rehabilitációs bizottság, ha pedig tanulási nehézségre tekintettel kérik, a nevelési tanácsadó szakértői véleményét be kell csatolni.
+
+(6) Ha a tanulónak a közoktatási törvény 70. §-ának (7) bekezdése alapján egyéni továbbhaladást engedélyeztek, a pedagógus – jogszabályban meghatározott munkamegosztás szerint – a nevelési tanácsadó vagy a szakértői és rehabilitációs bizottság szakértői véleménye alapján egyéni fejlesztési tervet készít. Az egyéni fejlesztési tervben kell meghatározni, hogy a tanulónak az egyes évfolyamok végére milyen követelményeket kell teljesítenie, továbbá, hogy melyik évfolyam végére kell utólérnie a többi tanulót.
+
+(7) Ha a tanuló a szakképzésben tanulószerződés alapján vesz részt, tanulói jogviszonya szünetelésének engedélyezéséhez az iskola igazgatójának be kell szereznie a tanulószerződést kötő gazdálkodó szervezet egyetértését.
+
+[^103]: A 23. § a 30/2004. (X. 28.) OM rendelet 11. §-ával megállapított szöveg.
+[^104]: A 23. § (1) bekezdését a 30/2004. (X. 28.) OM rendelet 21. § (2) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 35/2009. (XI. 18.) OKM rendelet 5. §-a iktatta be.
+[^105]: A 23. § (3) bekezdésének második mondata a 21/2005. (VII. 25.) OM rendelet 4. §-ával megállapított szöveg.
