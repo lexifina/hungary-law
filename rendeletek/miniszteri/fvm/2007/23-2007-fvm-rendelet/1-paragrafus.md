@@ -1,0 +1,5 @@
+## I. Fejezet
+
+## A RENDELET HATÁLYA, ÉRTELMEZŐ RENDELKEZÉSEK
+
+## Hatály

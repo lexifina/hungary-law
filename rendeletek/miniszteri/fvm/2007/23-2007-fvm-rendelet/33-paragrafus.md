@@ -1,0 +1,39 @@
+## Közbeszerzés
+
+33. § (1)[^139] Amennyiben az ügyfél az adott tevékenység vonatkozásában közbeszerzésre kötelezett – a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alapján –, vagy a Kbt.-t önként alkalmazza, az eljárást megindító felhívás, illetve hirdetmény „az aktába rendelt hivatkozási szám” rovatában hivatkozási számként fel kell tüntetni az ügyfél Tv. 28. §-a szerinti regisztrációs számát. Az ügyfél köteles továbbá:
+
+a) az eljárást megindító, illetve módosító felhívást, illetve hirdetményt az annak megküldését, illetve megjelenését bizonyító dokumentumokkal,
+
+b) az eredményről szóló tájékoztató(ka)t, illetve – ha a Kbt. az eljárásra nem írja elő az eredményről szóló tájékoztató közzétételét – az írásbeli összegezést az annak megküldését bizonyító dokumentumokkal,
+
+c) a szerződésmódosításról szóló hirdetményt,
+
+d) a szerződés teljesítéséről szóló hirdetményt,
+
+## annak megjelenését – eljárást indító hirdetmény közvetlen megküldése esetében a megküldést – követő 3 munkanapon belül az MVH részére benyújtani.
+
+(2)[^140] Az ügyfél köteles továbbá:
+
+a) MVH által rendszeresített formanyomtatványon a közbeszerzéssel érintett tételek részletezését, és
+
+b) az eljárás – fentiek alapján még be nem nyújtott – összes érdemi dokumentumát, így különösen a kiegészítő tájékoztatásokat; az ajánlatok másolati példányát; a bontási, tárgyalási, bírálati, eredményhirdetési jegyzőkönyveket, továbbá a bírálat dokumentumait
+
+## ahhoz az első kifizetési kérelemhez csatolni, amely a közbeszerzéssel érintett műveleti tevékenység elszámolására vonatkozik.
+
+(3)[^141]
+
+(4) Ha a közbeszerzési eljárás megindítását az ügyfél igazolta, a művelet megvalósításának határideje
+
+a) gépbeszerzés esetén 6 hónappal,
+
+b) építési beruházás esetén 12 hónappal
+
+## meghosszabbodik.
+
+(5) Ha az ügyfél ellen a Közbeszerzési Döntőbizottság EMVA támogatással összefüggő jogorvoslati eljárást indít, az ügyfél köteles ezt a körülményt az MVH-nak bejelenteni. A bejelentést a Kbt. 330. § (1) bekezdésében meghatározott értesítés kézbesítését követő munkanapon az MVH által rendszeresített nyomtatványon kell megtenni.
+
+(6) Az (5) bekezdés alapján az MVH a kérelem elbírálását felfüggeszti. Az MVH a kérelem elbírálását a Közbeszerzési Döntőbizottság érdemi határozatának vagy a közbeszerzési ügy befejezését eredményező végzésének a Kbt. 343. § (1) bekezdésében előírt kézbesítését követően folytatja.
+
+[^139]: A 33. § (1) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^140]: A 33. § (2) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^141]: A 33. § (3) bekezdését az 51/2009. (IV. 16.) FVM rendelet 25. § (3) bekezdésének b) pontja hatályon kívül helyezte.
