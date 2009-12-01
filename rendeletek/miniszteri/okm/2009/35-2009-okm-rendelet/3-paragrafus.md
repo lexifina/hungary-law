@@ -1,0 +1,3 @@
+## 2. § A Rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A gyermekekkel, a tanulókkal kapcsolatos ügyeket az ügy elintézéséért felelős alkalmazott köteles haladéktalanul, de legkésőbb az iktatás napjától számított huszonkét munkanapon belül elintézni. A nevelési-oktatási intézmények működésével kapcsolatos ügyekben az elintézési határidő huszonkét munkanap. Ha az ügy elintézésére az iskolaszék, óvodaszék, kollégiumi szék, a szülői szervezet (közösség), a diákönkormányzat jogosult, döntését legkésőbb az iktatástól számított huszonkét munkanapot követő első ülésén köteles meghozni.”
