@@ -1,0 +1,7 @@
+31. § (1) Ha valamely gazdasági tevékenység gyakorlását jogszabály – ide nem értve az önkormányzati rendeletet – hatósági engedélyhez (a tevékenységi kör gyakorlásához szükséges engedélyhez) köti, az egyéni cég e tevékenységét csak az engedély birtokában kezdheti meg, illetve végezheti.
+
+(2) Ha az egyéni vállalkozónak hatósági engedély kiadása iránti kérelemre indított eljárása van folyamatban és az egyéni cég alapításának elhatározását az engedélyt kiadó hatóságnak bejelenti, a hatósági engedély jogosultja az egyéni cég lesz, kivéve, ha a hatósági engedély feltételeinek az egyéni cég nem felel meg.
+
+(3) Ha a hatósági engedélyre vonatkozó jogszabály másként nem rendelkezik, az egyéni vállalkozó számára az egyéni cég alapítását megelőzően kiadott hatósági engedély jogosultja az egyéni cég lesz, kivéve, ha a hatósági engedély feltételeinek az egyéni cég nem felel meg.
+
+(4) Képesítéshez kötött tevékenységet az egyéni cég csak akkor folytathat, ha tagja a jogszabályokban meghatározott képesítési követelményeknek megfelel. Jogszabály – ide nem értve az önkormányzati rendeletet – eltérő rendelkezése hiányában képesítéshez kötött tevékenységet az egyéni cég akkor is folytathat, ha a képesítési követelményeknek a tag nem felel meg, de az adott tevékenység folytatásában személyesen közreműködő, az egyéni cég által határozatlan időre foglalkoztatott személyek az előírt képesítéssel rendelkeznek.

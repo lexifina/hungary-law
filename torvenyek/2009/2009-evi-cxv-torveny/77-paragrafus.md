@@ -1,0 +1,1 @@
+77. § A postáról szóló 2003. évi CI. törvény 8. § (1) bekezdésében a „jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság” szövegrész helyébe a „jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság vagy egyéni cég” szöveg lép.

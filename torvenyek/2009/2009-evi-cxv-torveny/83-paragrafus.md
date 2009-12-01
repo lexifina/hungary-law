@@ -1,0 +1,1 @@
+83. § A kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. § 6. a) pontjában az „egyéni vállalkozás” szövegrész helyébe az „egyéni vállalkozó, az egyéni cég,” szöveg lép.

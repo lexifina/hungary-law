@@ -1,0 +1,1 @@
+80. § A közbeszerzésekről szóló 2003. évi CXXIX. törvény 4. §-ának 1., 30. és 31. pontjában a „gazdasági társaság” szövegrész helyébe a „gazdasági társaság, egyéni cég” szöveg, 22. § (2) bekezdésében és 241. § b) pontjában a „kivéve az egyéni vállalkozót és az egyéni céget” szövegrész helyébe a „kivéve az egyéni vállalkozót” szöveg lép.

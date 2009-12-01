@@ -1,0 +1,3 @@
+## „(3) A gazdasági társaság vagy az egyéni cég vezetője a részére kiállított hatósági erkölcsi bizonyítványt, illetőleg a gazdasági társaság vagy az egyéni cég képviselője a gazdasági társaság vagy egyéni cég részére kiállított nemleges köztartozásról szóló igazolásokat – a közgyűlés (2) bekezdésben említett határozatának megfelelően – köteles beszerezni és bemutatni.”
+
+82. § A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény 1. § (2) bekezdésének 7. pontjában a „gazdasági társaság” szövegrész helyébe a „gazdasági társaság és egyéni cég” szöveg lép.

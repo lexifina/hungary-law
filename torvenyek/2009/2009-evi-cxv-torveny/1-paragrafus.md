@@ -1,0 +1,1 @@
+1. § E törvény szabályozza az egyéni vállalkozók tevékenysége megkezdésének, folytatásának, szünetelésének és megszűnésének, valamint a Magyarországon székhellyel rendelkező egyéni cég alapításának, működésének és megszűnésének feltételeit, tagjának vagy tagjainak jogait és kötelezettségeit.

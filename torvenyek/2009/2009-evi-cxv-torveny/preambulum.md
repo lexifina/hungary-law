@@ -1,0 +1,1 @@
+Az Országgyűlés – elismerve a kisvállalkozók gazdasági életben betöltött kiemelkedő szerepét – az egyéni vállalkozói tevékenység megkönnyítése, az egyéni vállalkozók adminisztratív terheinek csökkentése, az Európai Unió szabályaival való összhang megteremtése és az egyéni vállalkozók cégalapításának elősegítése érdekében a következő törvényt alkotja:

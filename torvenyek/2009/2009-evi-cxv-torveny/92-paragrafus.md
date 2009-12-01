@@ -1,0 +1,1 @@
+92. § Az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról, valamint ehhez kapcsolódóan egyes törvények módosításáról szóló 2007. évi CLXXX. törvény 9. § (1) bekezdésének d) pontjában a „vállalkozói engedéllyel rendelkezők” szövegrész helyébe a „vállalkozók” szöveg lép.
