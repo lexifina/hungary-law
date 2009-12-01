@@ -1,0 +1,11 @@
+## Ügyelosztás
+
+9. § (1) Az elektronikus úton előterjesztett fizetési meghagyás kibocsátása iránti kérelmek elosztása a MOKK rendszerének alkalmazásával automatikusan, a mentesítés esetét kivéve a közjegyzői székhelyek között egyenlő arányban történik.
+
+(2) A papír alapon benyújtott és a szóban előterjesztett fizetési meghagyás kibocsátása iránti kérelem folytán indult eljárásban az a közjegyző jár el, akihez a fizetési meghagyás kibocsátása iránti kérelmet benyújtották, illetve akinél a kérelmet előterjesztették. A kérelmet a fél a (4) bekezdés alapján mentesített közjegyzőt kivéve bármelyik közjegyzőnél benyújthatja vagy előterjesztheti.
+
+(3) Ha a közjegyzőnél egy héten belül az igazságügyért felelős miniszter rendeletében meghatározottnál több fizetési meghagyás kibocsátása iránti kérelmet nyújtanak be papír alapon, a közjegyző – haladéktalanul, de legkésőbb a bejelentési lehetőség megnyíltát követő munkanapon előterjesztett – kérelmére a MOKK elnöke (elnökhelyettese) egyes ügyekre vagy az ügyek meghatározott csoportjára három munkanapon belül más közjegyzőt jelöl ki az eljárás lefolytatása végett. A kérelmeket a kijelölt közjegyző rögzíti a MOKK rendszerén, ebben az esetben a 26. § (1) bekezdésében írt határidő a kérelemnek a kijelölt közjegyzőhöz való érkezésétől számít.
+
+(4) A közjegyző a MOKK elnökétől írásban, az érintett időszakot legalább harminc nappal megelőzően kérheti, hogy az általa megjelölt, legalább ötnapos és évente legfeljebb hatvannapos folyamatos időszakra a fizetési meghagyásos eljárásban a közreműködés alól mentesítse. A MOKK elnöke (elnökhelyettese) a kérelmet csak fontos okból, így különösen az ügyfelek érdekeinek védelme és a MOKK rendszerének folyamatos és biztonságos működtetése érdekében tagadhatja meg. A közjegyző a mentesítés időszakában és az azt megelőző tizenöt napban új ügyet nem kap, a folyamatban lévő ügyekben pedig – szükség esetén – gondoskodnia kell a helyettesítéséről.
+
+(5) A közjegyző a MOKK rendszerében rögzíti a Pp. 13. § (2) bekezdése szerinti hozzátartozóinak és volt házastársának a nevét. Ha az ügyben a fél vagy képviselőjének neve megegyezik a közjegyző vagy az általa bejelentett személy nevével, az ügyet a MOKK rendszerének alkalmazásával nem lehet a közjegyzőre osztani.
