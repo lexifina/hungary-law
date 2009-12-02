@@ -1,0 +1,1 @@
+## „(6) A szervező az általa üzemeltetett, a játékteremben, közterületen, vagy a közönség számára nyitva álló épületben vagy helyiségben meghibásodott, üzemképtelen játékautomatát 3 munkanapon belül köteles megjavíttatni, vagy gondoskodnia kell annak a játékteremből, közterületről, vagy a közönség számára nyitva álló épületből vagy helyiségből történő elszállításáról.”

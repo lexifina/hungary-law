@@ -1,0 +1,1 @@
+## „c) természetes személyre, aki a számviteli törvény 152/B. §-a szerinti határon átnyúló könyvviteli szolgáltatás végzésére irányuló szándékát bejelenti és a bejelentése alapján a hatóság nyilvántartásba veszi, adatainak módosítását bejelenti, illetve a nyilvántartásból való törlését kéri.”

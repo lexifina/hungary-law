@@ -1,0 +1,1 @@
+## „(9) A jogutód gazdasági társaság az átalakulást követő 30 napon belül köteles időszaki elszámolást készíteni és benyújtani az állami adóhatóságnak a jogelőd gazdasági társaságok átalakulást megelőző, még el nem számolt időszakára vonatkozóan.”

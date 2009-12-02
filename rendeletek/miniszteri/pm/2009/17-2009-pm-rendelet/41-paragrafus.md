@@ -1,0 +1,5 @@
+## 40. § Az eljárási illetékek megfizetésének és a megfizetés ellenőrzésének részletes szabályairól szóló 44/2004. (XII. 20.) PM rendelet módosításáról szóló 41/2007. (XII. 29.) PM rendelet 2. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) A bírósági eljárási illetéknek a 2007. december 31-éig kiadott engedélyek alapján történő utólagos elszámolása során a gazdálkodó szervezet 2009-ben az R. 8. §-a szerinti nyilvántartást a naptári év végén köteles lezárni, és 2010. január 15. napjáig a nyilvántartást és annak másolati példányát az illetékes állami adóhatósághoz benyújtani, s ezzel egyidejűleg az illetéket megfizetni. Ha a gazdálkodó szervezet a nyilvántartást a határidő letelte után nyújtja be, az adózás rendjéről szóló törvényben meghatározott mulasztási bírságot kell fizetni. Az illeték megfizetésének elmulasztása esetén az illetéket az esedékesség napjától (január 15.) felszámított, az adózás rendjéről szóló törvényben meghatározott mértékű késedelmi pótlékkal együtt kell megfizetni.”
+
+## Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosítása
