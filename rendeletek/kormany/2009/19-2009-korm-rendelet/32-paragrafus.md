@@ -1,0 +1,3 @@
+32. §[^50] Az egyetemes szolgáltató köteles a földgázszállítói elszámolás alapján a Hivatalnak – az okok részletes megjelölésével – haladéktalanul bejelenteni, ha a szolgáltatási területén az egyetemes szolgáltatásra jogosult felhasználók gáznapi fogyasztása legalább 15%-ának megfelelő földgáz ellátáshoz a forrásokat két egymást követő gáznapon, vagy 10 gáznapon belül összesen 4 alkalommal az együttműködő földgázrendszerbe nem táplálta be. A forráshiány megállapításának alapja a földgázszállító által elkészített gáznapot követő napi elszámoló mérleg.
+
+[^50]: A Vhr. 32. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

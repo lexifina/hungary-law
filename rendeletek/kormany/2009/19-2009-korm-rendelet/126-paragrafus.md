@@ -1,0 +1,25 @@
+126. § (1) A GET 114. §-ában meghatározott valamennyi engedély iránti kérelemhez a következő dokumentumokat kell csatolni:
+
+a) az engedélyért folyamodó gazdasági társaság társasági szerződését, alapító okiratát vagy alapszabályát (a továbbiakban: társasági szerződés),
+
+b) a GET 114. § (1) bekezdés a)–h) pontjában meghatározott engedély iránti kérelemhez csatolni kell a megfelelő képzettségű és szükséges létszámú szakszemélyzet rendelkezésre állásának bemutatását, illetve az ezt biztosító terveket,
+
+c) nyilatkozatokat a GET 114. § (7) bekezdés c)–d) pontjában foglaltakról,
+
+d)[^159] az engedélyért folyamodó gazdasági társaságnak és képviselőjének telefonos elérhetőségét, elektronikus levélcímét,
+
+e) a külön jogszabályban meghatározott igazgatási-szolgáltatási díj Hivatal részére történő befizetésének pénzintézeti igazolását,
+
+f) a vezetékes PB-gáz szolgáltatói engedély iránti kérelem kivételével nyilatkozatokat az ÜKSZ-ben foglaltak tudomásulvételéről, az abban foglalt előírások betartásáról, valamint
+
+g) a rendszerüzemeltető működési engedélyben szereplő működtetett rendszer tulajdonjogáról szóló nyilatkozatot.
+
+(2)[^160] A Hivatal engedélyezési eljárását megelőzően a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) a kérelmező GET által megkövetelt szervezetét, szükséges képzettségű és létszámú szakszemélyzet rendelkezésre állását vizsgálja, és a bányászatról szóló törvény felhatalmazása alapján kiadott jogszabályok szerinti műszaki-biztonsági követelmények érvényesítése érdekében minősíti a földgázszállítási-, földgázelosztási-, földgáztárolási-, vezetékes PB-gáz szolgáltatási működési engedély kérelmezőjét. Az erről szóló határozatot a kérelmező az engedély iránti kérelméhez csatolja. Ha az MBFH a kérelemnek helyt ad, és az ügyfél azt kéri, a kérelmet közreműködő hatóságként továbbítja a Hivatalnak.
+
+(3)[^161] A földgázszállítási, földgázelosztási, földgáztárolási engedélyesnek a bányászatról szóló 1993. évi XLVIII. törvény 24. § (3) bekezdése szerinti a bányafelügyelet által jóváhagyott minőségbiztosítási rendszerrel kell rendelkeznie, amelyről szóló okiratot az engedélyezési eljárásban köteles benyújtani. Ha minőségbiztosítási rendszerrel a kérelmező az engedély iránti kérelem benyújtásakor nem rendelkezik, a minőségbiztosítási rendszer kidolgozására a MBFH által jóváhagyott, erre vonatkozó tervét kell benyújtani, és ennek a követelménynek az engedély kiadásától számított két éven belül kell megfelelnie.
+
+(4) A földgázszállító, földgázelosztó, földgáztároló köteles a tulajdonában lévő szállító- és elosztóvezetékre, valamint tárolóra az ésszerű kockázatvállalás mértékéig a biztosítási piacon elérhető kondícióktól függően a környezeti károkra is kiterjedő vagyon- és felelősségbiztosítást kötni. Ha a biztosítás megkötését, fenntartását az engedélyes elmulasztja, a biztosítás hiánya az engedély visszavonásának alapjául szolgáló oknak minősül.
+
+[^159]: A Vhr. 126. § (1) bekezdés d) pontja a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^160]: A Vhr. 126. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 667. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^161]: A Vhr. 126. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 668. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

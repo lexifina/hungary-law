@@ -1,0 +1,397 @@
+## Kérelem szociálisan rászoruló személyként a védendő fogyasztók nyilvántartásába
+
+## történő felvétel / nyilvántartásába vétel meghosszabbítása iránt
+
+## A)
+
+## A FOGYASZTÓ TÖLTI KI
+
+## A földgázkereskedő (a lakossági fogyasztót ellátó kereskedő vagy az egyetemes szolgáltató) által kiállított számlán megjelölt felhasználási hely
+
+## a) egyértelmű meghatározására alkalmas, a földgázelosztónál nyilvántartott azonosító:
+
+## b) címe (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+## A földgázkereskedő által kiállított számlán fogyasztóként megjelölt személy
+
+## a) családi és utóneve:
+
+## b) születési neve:
+
+## c) anyja neve:
+
+## d) születési helye és ideje:
+
+## e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+## f) tartózkodási helye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+## Ha a földgázkereskedő által kiállított számlán megjelölt személy nem saját jogán, hanem a vele egy háztartásban élő személyre tekintettel kéri védendő fogyasztóként történő nyilvántartásba vételét (nyilvántartásba vételének meghosszabbítását), e személy
+
+## a) családi és utóneve:
+
+## b) születési neve:
+
+## c) anyja neve:
+
+## d) születési helye és ideje:
+
+## e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+## f) tartózkodási helye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+## Az alábbi igazolás alapján kérem a földgázelosztó
+
+## a)1 nyilvántartásába szociálisan rászoruló (védendő) fogyasztóként történő felvételem,
+
+## b)1 nyilvántartásában szociálisan rászoruló (védendő) fogyasztóként történő nyilvántartásom meghosszabbítását.
+
+## Kelt:
+
+## ..................................................
+
+## fogyasztó aláírása
+
+## –––––––––––
+
+## 1 A megfelelő rész aláhúzandó!
+
+## B)
+
+## AZ IGAZGATÁSI SZERV TÖLTI KI
+
+## Eljáró igazgatási szerv megnevezése:
+
+## Székhelye:
+
+## Igazolom, hogy
+
+## (név):
+
+## (születési név):
+
+## (anyja neve):
+
+## (születési helye és ideje):
+
+## (lakóhelye):
+
+## (tartózkodási helye):
+
+## fogyasztó
+
+## a)1 saját jogán
+
+## b)1 vele egy háztartásban élő
+
+## (név):
+
+## (születési név):
+
+## (anyja neve):
+
+## (születési helye és ideje):
+
+## (lakóhelye):
+
+## (tartózkodási helye):
+
+## személyre tekintettel
+
+## a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet 56. § (1) bekezdésében foglaltak alapján szociálisan rászoruló fogyasztónak minősül.
+
+## A fogyasztó1 / a vele közös háztartásban élő személy1
+
+## a)1 a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
+
+## b)1 a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
+
+## c)1 a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban részesül,
+
+## d)1 a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
+
+## e)1 a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményre jogosult,
+
+## f)1 a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
+
+## g)1 a Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket.
+
+## A fogyasztó szociális rászorultságának fennállását a(z) ........... számú határozat alapján igazolom.
+
+## A fogyasztó szociális rászorultságát a fentiek szerint megalapozó körülmény
+
+## a)1 határozatlan ideig,
+
+## b)1 határozott ideig: ............... -ig
+
+## áll fenn.
+
+## Ugyanazon fogyasztónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás!
+
+## Kelt:
+
+## P. H.
+
+## ..................................................
+
+## eljáró igazgatási szerv
+
+## –––––––––––
+
+## 1 A megfelelő rész aláhúzandó!
+
+## KITÖLTÉSI ÚTMUTATÓ
+
+## Az űrlapot géppel vagy tollal, nyomtatott betűkkel kell kitölteni.
+
+## A földgázellátásról szóló 2008. évi XL. törvény 65. § (1) bekezdése alapján a védendő fogyasztók nyilvántartásába történő felvétel
+
+## a) szociálisan rászoruló fogyasztóként és/vagy
+
+## b) fogyatékkal élő fogyasztóként
+
+## kérelmezhető.
+
+## A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet 56. § (1) bekezdése alapján szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki vagy akinek háztartásában élő személy:
+
+## a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
+
+## b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
+
+## c) a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban részesül,
+
+## d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
+
+## e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben részesül,
+
+## f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
+
+## g) a Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket.
+
+## A földgázellátásról szóló 2008. évi XL. törvény 3. § 22. pontja szerint fogyatékkal élő fogyasztó:
+
+## a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy,
+
+## b) a vakok személyi járadékában részesülő személy, továbbá
+
+## c) az a személy, aki vagy aki után szülője vagy eltartója a családok támogatásáról szóló törvény szerint magasabb összegű családi pótlékban részesül.
+
+## Az az igénylő, aki egyidejűleg mind szociálisan rászoruló fogyasztónak, mind fogyatékkal élő fogyasztónak minősül, mindkét jogcímen történő nyilvántartásba vételét kezdeményezheti és egyaránt jogosulttá válhat a szociálisan rászoruló fogyasztóknak nyújtott kedvezményekre, valamint a fogyatékkal élőket megillető különleges bánásmódra. Ebben az esetben külön-külön igazolni kell, hogy a fogyasztó szociálisan rászoruló fogyasztónak, illetve fogyatékkal élő fogyasztónak minősül. A fogyatékkal élő fogyasztóként történő nyilvántartásba vétel iránti kérelemhez a 10. számú melléklet szerinti adatlapot kell benyújtani.
+
+## Az A) részben szereplő adatokat a fogyasztó tölti ki és az adatok valódiságát aláírásával igazolja.
+
+## A B) részben szereplő adatokat az a szerv tölti ki, amelyik a szociális rászorultságot megalapozó jogosultságot, ellátást, tényt megállapította.
+
+## Tekintettel arra, hogy a védendő fogyasztó a védettséggel járó jogait csak egy felhasználási helyen gyakorolhatja, ugyanazon igénylőnek, fogyasztónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
+
+## Az igazolást a lakossági fogyasztónak kell benyújtania a földgázelosztóhoz az igazolás kiállításától számított 30 napon belül, a nyilvántartásba történő felvétel iránti igény bejelentésekor. A 30 nap elteltét követően az igénylőnek új igazolást kell kérnie.
+
+## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
+
+10. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez
+
+Kérelem fogyatékkal élő személyként a védendő fogyasztók nyilvántartásába
+
+történő felvétel / nyilvántartásába vétel meghosszabbítása iránt
+
+A)
+
+A FOGYASZTÓ TÖLTI KI
+
+A földgázkereskedő (a lakossági fogyasztót ellátó kereskedő vagy az egyetemes szolgáltató) által kiállított számlán megjelölt felhasználási hely
+
+a) egyértelmű meghatározására alkalmas, a földgázelosztónál nyilvántartott azonosító:
+
+b) címe (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+A földgázkereskedő által kiállított számlán fogyasztóként megjelölt személy
+
+a) családi és utóneve:
+
+b) születési neve:
+
+c) anyja neve:
+
+d) születési helye és ideje:
+
+e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+f) tartózkodási helye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+Ha a földgázkereskedő által kiállított számlán megjelölt személy nem saját jogán, hanem a vele egy háztartásban élő személyre tekintettel kéri védendő fogyasztóként történő nyilvántartásba vételét (nyilvántartásba vételének meghosszabbítását), e személy
+
+a) családi és utóneve:
+
+b) születési neve:
+
+c) anyja neve:
+
+d) születési helye és ideje:
+
+e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+f) tartózkodási helye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
+
+Az alábbi igazolások alapján kérem a földgázelosztó
+
+a)1 nyilvántartásába fogyatékkal élő (védendő) fogyasztóként történő felvételem,
+
+b)1 nyilvántartásában fogyatékkal élő (védendő) fogyasztóként történő nyilvántartásom meghosszabbítását.
+
+Nyilatkozom, hogy a fogyasztóként megjelölt személy háztartásában
+
+a)1 van,
+
+b)1 nincs
+
+olyan személy, aki nem minősül fogyatékkal élőnek.
+
+Kelt:
+
+............................................................
+
+fogyasztó / eltartó aláírása
+
+––––––––––––
+
+1 A megfelelő rész aláhúzandó!
+
+B)
+
+AZ IGAZGATÁSI SZERV TÖLTI KI
+
+Eljáró igazgatási szerv megnevezése:
+
+Székhelye:
+
+A(z)........... számú határozat alapján igazolom, hogy
+
+a)1 (név):
+
+(születési név):
+
+(anyja neve):
+
+(születési helye és ideje):
+
+(lakóhelye):
+
+(tartózkodási helye):
+
+fogyasztó
+
+b)1 a fenti fogyasztóval egy háztartásban lakó
+
+(név):
+
+(születési név):
+
+(anyja neve):
+
+(születési helye és ideje):
+
+(lakóhelye):
+
+(tartózkodási helye):
+
+személy
+
+(i)1 a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesül,
+
+(ii)1 a vakok személyi járadékában részesül,
+
+(iii)1 olyan személy, aki vagy aki után szülője vagy eltartója a családok támogatásáról szóló törvény szerint magasabb összegű családi pótlékban részesül.
+
+Ugyanazon fogyasztónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás!
+
+Kelt:
+
+P. H.
+
+............................................................
+
+eljáró igazgatási szerv
+
+C)
+
+A KEZELŐORVOS – ENNEK HIÁNYÁBAN A HÁZIORVOS – TÖLTI KI
+
+Orvos neve (egészségügyi szolgáltató megnevezése):
+
+Orvos címe (egészségügyi szolgáltató székhelye):
+
+Orvos pecsétszáma (egészségügyi szolgáltató működési engedélyének száma):
+
+Igazolom, hogy a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: Rendelet) 59. § (2) bekezdésében foglaltak alapján az igénylő, illetve a vele együtt lakó fogyatékkal élő személyek adatai és fogyatékosságuk jellege a következő:
+
+| Név (születési név) | Születési hely és idő | Lakóhely (tartózkodási hely) | Korlátozottság jellege [Rendelet 59. § (2) bekezdés a), b) vagy c) pontja]* |
+
+* Az orvos tölti ki!
+
+A táblázatban fel kell tüntetni az igénylőt, illetve minden olyan személyt, aki a kérelmezővel közös háztartásban él és a fogyatékossága okán a Rendelet 59. § (2) bekezdése szerinti eseteknek megfelelően különleges bánásmódban kell részesíteni a földgáz felhasználása során. A fogyatékosság jellegénél a korlátozottság jellegének megfelelő betűjelet vagy betűjeleket kell megadni.
+
+A Rendelet 59. § (2) bekezdés a) pontja szerinti fogyatékosság esetén annak jellege alapján álláspontom szerint a fogyasztó tekintetében az alábbi típusú különleges bánásmód (bánásmódok) alkalmazása lehet indokolt:
+
+a)1 havi (időközi) mérőleolvasás a felhasználási helyen,
+
+b)1 rendkívüli, ingyenes mérőfelülvizsgálat 12 naptári hónapban egyszer,
+
+c)1 készpénzben történő számlakiegyenlítés a felhasználási helyen,
+
+d)1 az általánostól eltérő, de a műszaki-biztonsági előírásoknak megfelelő mérőhely-kialakítás,
+
+e)1 a számla értelmezéséhez az engedélyes üzletszabályzata szerint nyújtott egyedi segítség (helyszíni számla magyarázat, számlafordíttatás stb.),
+
+f)1 egyéb szolgáltatás, éspedig:
+
+Az 59. § (2) bekezdés b)–c) pontja szerinti körbe tartozó fogyatékkal élő személy vonatkozásában a földgázellátás kikapcsolásának, szüneteltetésének vagy szünetelésének esetén értesítendő személy vagy szervezet neve, telefonszáma: ................................................................
+
+Alulírott ........................ mint a fent megjelölt személy(ek) orvosi ellátását végző orvos, a Rendelet 33. § (2) bekezdésében foglaltak alapján kijelentem, hogy a fent megjelölt fogyatékossági állapotra vonatkozó adatok a valóságnak megfelelnek.
+
+Kelt:
+
+P. H.
+
+.....................................
+
+orvos aláírása
+
+––––––––––––
+
+1 A megfelelő rész aláhúzandó!
+
+KITÖLTÉSI ÚTMUTATÓ
+
+Az űrlapot géppel vagy tollal, nyomtatott betűkkel kell kitölteni.
+
+A földgázellátásról szóló 2008. évi XL. törvény 65. § (1) bekezdése alapján a védendő fogyasztók nyilvántartásába történő felvétel
+
+a) fogyatékkal élő fogyasztóként és/vagy
+
+b) szociálisan rászoruló fogyasztóként
+
+kérelmezhető.
+
+A földgázellátásról szóló 2008. évi XL. törvény 3. § 22. pontja szerint fogyatékkal élő fogyasztó:
+
+a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy,
+
+b) a vakok személyi járadékában részesülő személy, továbbá
+
+c) az a személy, aki vagy aki után szülője vagy eltartója a családok támogatásáról szóló törvény szerint magasabb összegű családi pótlékban részesül.
+
+A fogyasztóval egy háztartásban lakó, fogyatékkal élő személyként az vehető figyelembe, aki a fenti juttatások valamelyikében részesül.
+
+A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: Rendelet) 56. § (1) bekezdése alapján szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki vagy akinek háztartásában élő személy:
+
+a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
+
+b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
+
+c) a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban részesül,
+
+d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
+
+e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben részesül,
+
+f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
