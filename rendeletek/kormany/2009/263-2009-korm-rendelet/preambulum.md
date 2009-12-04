@@ -1,0 +1,1 @@
+A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
