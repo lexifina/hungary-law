@@ -1,0 +1,116 @@
+# A Kormány 276/2009. (XII. 4.) Korm. rendelete
+
+Magyar Közlöny 2009. évi 175. szám, 2009. december 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/54f236868f2a0a2c67f40008034f40b280f147bc/dokumentumok/ac3706182efaed60c206352d0dbad4097bfbbca5/letoltes)
+
+---
+
+A Kormány 276/2009. (XII. 4.) Korm. rendelete
+a felsőoktatásról szóló 2005. évi CXXXIX. törvény egyes végrehajtási rendeleteinek módosításáról
+A Kormány az Alkotmány 35. § (2) bekezdés b) pontjában foglalt feladatkörében eljárva, a felsőoktatásról szóló 2005. évi
+CXXXIX. törvény 153. §-ának (1) bekezdés 1., 2. és 5. pontjában kapott felhatalmazás alapján, – az 1. § tekintetében a Magyar
+Felsőoktatási Akkreditációs Bizottság, a 3. § (4) bekezdés tekintetében a Magyar Rektori Konferencia egyetértésével –
+a következőket rendeli el:
+1. § A felsőoktatásról szóló 2005. évi CXXXIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 79/2006. (IV. 5.) Korm.
+rendelet (a továbbiakban: Rendelet) az 1. §-t követően a következő alcímmel és 1/A–1/D. §-sal egészül ki:
+„A „kutatóegyetem” minősítés adományozási rendje
+[az Ftv. 5. § (6) bekezdéséhez]
+1/A. § (1) Azok a felsőoktatási intézmények, amelyek az egyetemmé válás jogszabályban rögzített feltételein
+túlmenően további – a (2) bekezdésben és 1/B. § (5) bekezdésében meghatározott – minőségi kritériumoknak is
+megfelelnek, pályázati eljárás eredménye alapján hároméves időszakra „kutatóegyetem” minősítést kaphatnak.
+(2) A „kutatóegyetem” minősítést pályázat útján azok az egyetemek nyerhetik el, amelyek eleget tesznek az alábbi
+feltételeknek:
+a) a folyamatos, stratégiai jellegű alap- és alkalmazott kutatás a felsőoktatási intézmény és szervezeti egységeinek
+többsége működésének meghatározó részét képezi;
+b) jelentős hazai és nemzetközi kutatási, fejlesztési és innovációs tevékenységet végeznek, amelynek eredményeit
+magas hatásfaktorú folyóiratokban és könyvekben, szabadalmakban, új eljárásokban, közhasznú alkotásokban
+jelenítik meg, és azokat az oktatásba közvetítik;
+c) a tehetséggondozást a képzés minden szintjén kiemelt feladatként végzik, ezen belül is kiemelkedő teljesítményt
+nyújtanak a doktori képzés területén;
+d) mind a kutatás, mind a képzés területén széles körű nemzetközi együttműködéseket folytatnak.
+1/B. § (1) A minősítési eljárás lefolytatására, a minősítés részletes követelményrendszerének kidolgozására
+az oktatásért felelős miniszter (a továbbiakban: miniszter) Kutatóegyetemmé Minősítő Bizottságot (a továbbiakban:
+Bizottság) hoz létre. A Bizottság öt tagból áll. A Bizottság tagjai a Magyar Tudományos Akadémia, a Magyar Rektori
+Konferencia, a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási és Tudományos Tanács, és a Nemzeti
+Bologna Bizottság elnökei vagy az általuk kijelölt személyek.
+(2) A Bizottság munkájában tanácskozási joggal részt vehetnek a Bizottság által felkért tudományos fokozattal
+rendelkező külső szakértők, valamint a Munkaadók és Gyáriparosok Országos Szövetsége, Vállalkozók Országos
+Szövetsége és a Magyar Kereskedelmi és Iparkamara által delegált egy-egy személy.
+(3) A Bizottság a tagjai közül elnököt választ. A Bizottság ügyrendjét maga alakítja ki és közzéteszi az Oktatási és
+KulturálisMinisztériumhonlapján.A Bizottsághatározatképes,haazüléséntagjainakatöbbségejelenvan.A Bizottság
+döntését a jelenlévő tagok több mint felének szavazatával hozza meg.
+(4) A Bizottság részletesen kidolgozza a minősítés követelményrendszerét, a pályázók körét, és az értékelés
+módszerét, amit előterjeszt a miniszter számára jóváhagyás céljából. A pályázati kiírást a miniszter teszi közzé
+az Oktatási és Kulturális Minisztérium honlapján.
+(5) A részletes pályázati kiírás feltételrendszerét a következő értékelési szempontok alapján kell meghatározni:
+a) tudományos fokozattal rendelkező, teljes munkaidőben foglalkoztatott oktatók, kutatók aránya jelentősen
+meghaladja az egyetem működési feltételeként a felsőoktatási törvényben meghatározott mértéket, közöttük
+jelentős számban rangos hazai és külföldi tudományos és más alkotói díjakkal, címekkel kitüntetettek vannak;
+b) a felsőoktatási intézmény főállású oktatóinak és kutatóinak többsége – a publikációk és a független hivatkozások
+száma alapján – nemzetközileg is jelentős alap- és alkalmazott kutatási tevékenységet és nemzetgazdaságilag fontos,
+hazai és nemzetközi hatású kutatási-fejlesztési tevékenységet folytat;
+
+c) a felsőoktatási intézmény több tudományterületen, tudományterületenként több tudományágban folytat doktori
+képzést, és nemzetközi szintűek a doktori fokozat odaítélésének követelményei;
+d) a felsőoktatási intézményben kiemelkedően nagy a doktori képzésben részt vevő hallgatók száma vagy aránya, és
+a doktori fokozatszerzési eljárást sikerrel teljesítők száma vagy aránya;
+e) a felsőoktatási intézmény rendelkezik jelentős mértékű, hazai és külföldi, közvetlen megrendelésen alapuló, illetve
+pályázati támogatás formájában elnyert kutatási, fejlesztési és innovációs bevételekkel;
+f) a felsőoktatási intézmény tudás- és technológiatranszfer tevékenységével szervezi, illetve erősíti a régióban
+a felsőoktatás és gazdaság kapcsolatát, hallgatói pályakövetési rendszert működtet;
+g) a felsőoktatási intézményben az Magyar Tudományos Akadémia által támogatott kutatóhelyek működnek;
+h) a felsőoktatási intézmény részt vesz az Európai Felsőoktatási Térség és az Európai Kutatási Térség programjaiban,
+az Európai Minőségi Díj követelményrendszerével összhangban támogatja a folyamatos minőségfejlesztést, ezzel
+összefüggésben figyelembe vehető az is, ha az egyetem vagy szervezeti egysége Felsőoktatási Minőségi Díjat nyert;
+i) a felsőoktatási intézménynek jelentős külföldi felsőoktatási intézményekkel, kutatóhelyekkel kötött
+együttműködési megállapodásai vannak az oktatás és a kutatás terén;
+j) a felsőoktatási intézmény idegen nyelvű képzéseket folytat, felkészült külföldi hallgatók és doktoranduszok
+képzésére, képzési programjaiban nemzetközi elismertségű hazai és külföldi oktatók is hirdetnek kurzusokat;
+k) a felsőoktatási intézmény hallgatóinak meghatározó százaléka a képzés ideje alatt részt vesz az intézmény által
+elfogadottkülföldirészképzésen,továbbáazintézményazeurópaimobilitásprogramkeretébenrészképzésrefogadja
+az Európai Uniós tagállamok hallgatóit;
+l) a felsőoktatási intézmény példamutató a minőségi oktatást segítő módszerek, technikák alkalmazásában –
+különösen a tutorális-rendszer, és az elektronikus tartalomfejlesztés terén;
+m) a felsőoktatási intézmény átfogó tehetséggondozó programmal rendelkezik (kiválasztás, mentorprogram,
+tudományos diákkör, szakkollégium), hallgatói tanácsadó rendszert működtet;
+n) a felsőoktatási intézményben nemzetközi hallgatói szakmai-tudományos szervezet működik, a hallgatók
+eredményesen szerepelnek nemzetközi konferenciákon, szakmai versenyeken, és eredményeiket rangos hazai és
+külföldi folyóiratokban és könyvekben mutatják be.
+(6) A pályázatokat szakértők értékelik, akiket az értékelésre a Bizottság kér fel. A szakértők szakmai szempontból
+pontozzák, és szövegesen értékelik a benyújtott pályázatokat. A Bizottság összegezi, a pontszámok alapján
+rangsorolja és elbírálja az értékelt pályázatokat, továbbá javaslatot tesz a díjazottakra.
+(7) A „kutatóegyetem” minősítésadományozásáróla Bizottságjavaslatáraa miniszterdönt. A minősítéstöbbegymást
+követő időszakra is elnyerhető.
+1/C. § A pályázattal kapcsolatos ügyviteli, koordinációs, szervezési, lebonyolítási feladatokat az Oktatási és Kulturális
+Minisztérium Támogatáskezelő Igazgatósága látja el.
+1/D. § A „kutatóegyetem” minősítéssel rendelkező felsőoktatási intézmények részére külön eljárás alapján
+többlettámogatás adható.”
+2. § A Rendelet 33. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az egészségügyért felelős miniszter egészségügyi felsőoktatási koordinációs tanácsot működtet, amelyben
+valamennyi érintett felsőoktatási intézmény képviselője és a miniszter is részt vesz. Az orvos- és egészségtudományi
+képzési területet illetően az egészségügyi miniszter a miniszterrel együtt – az egészségpolitikai elvekkel
+összhangban – tesz javaslatot alap- és mesterképzésben elsajátítandó kompetenciákra, a képzési és kimeneti
+követelmények módosítására.”
+3. § (1) E rendelet – a (3) bekezdés b) pontjának kivételével – a kihirdetését követő nyolcadik napon lép hatályba, és 2012.
+január 2-án hatályát veszti.
+(2) A (3) bekezdés b) pontja 2012. január 1-jén lép hatályba.
+(3) A Rendelet bevezető részében
+a) a „153. § (1) bekezdés 3., 7., 8., 10., 11., 14., 15. és 20.” szövegrész helyébe a „153. § (1) bekezdés 1., 3., 7., 8., 10., 11.,
+14., 15. és 20.” szöveg,
+b) az „a 129. § (5)–(6) bekezdésében” szövegrész helyébe az „a 128. § (1) bekezdés q) pontjában és a 129. §
+(5)–(6) bekezdésében” szöveg,
+
+c) az „a 23–27. §-ok tekintetében a Magyar Rektori Konferencia egyetértésével” szövegrész helyébe az „az
+1/A–1/D. §-ok tekintetében a Magyar Felsőoktatási Akkreditációs Bizottság, a 23–27. §-ok tekintetében a Magyar
+Rektori Konferencia egyetértésével” szöveg
+lép.
+(4) A felsőoktatási alap- és mesterképzésről, valamint a szakindítási eljárás rendjéről szóló 289/2005. (XII. 22.) Korm.
+rendeletnek a ciklusokra bontott, osztott képzés alapképzési szakjainak jegyzékét meghatározó 1. számú
+mellékletébena jogiés igazgatásiképzésiterülethez tartozó, igazgatásiképzésiág alapképzésiszakelnevezéseiközött
+a „bűnügyi igazgatási” szövegrész helyébe a „bűnügyi igazgatási*” szöveg, a „rendészeti igazgatási” szövegrész
+helyébe a „rendészeti igazgatási*” szöveg lép.
+(5) A Rendelet – e rendelet 1. §-ával megállapított – 1/B. § (1) bekezdésében meghatározott Kutatóegyetemmé Minősítő
+Bizottságot az e rendelet hatálybalépését követő harminc napon belül kell megalakítani.
+Bajnai Gordon s. k.,
+miniszterelnök
+
+V. A Kormány tagjainak rendeletei

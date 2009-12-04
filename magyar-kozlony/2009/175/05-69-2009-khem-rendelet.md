@@ -1,0 +1,262 @@
+# A közlekedési, hírközlési és energiaügyi miniszter 69/2009. (XII. 4.) KHEM rendelete
+
+Magyar Közlöny 2009. évi 175. szám, 2009. december 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/54f236868f2a0a2c67f40008034f40b280f147bc/dokumentumok/ac3706182efaed60c206352d0dbad4097bfbbca5/letoltes)
+
+---
+
+A közlekedési, hírközlési és energiaügyi miniszter 69/2009. (XII. 4.) KHEM rendelete
+a villamos energia rendszerhasználati díjakról szóló 119/2007. (XII. 29.) GKM rendelet, valamint
+a közcélú villamos hálózatra csatlakozás pénzügyi és műszaki feltételeiről szóló
+117/2007. (XII. 29.) GKM rendelet módosításáról
+A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. §-a (2) bekezdésének 11. és 17. pontjában kapott felhatalmazás alapján,
+a közlekedési, hírközlési és energiaügyi miniszter feladat- és hatásköréről szóló 133/2008. (V. 14.) Korm. rendelet 1. §-a
+(1) bekezdésének b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+A villamos energia rendszerhasználati díjakról szóló 119/2007. (XII. 29.) GKM rendelet módosítása
+1. § A villamos energia rendszerhasználati díjakról szóló 119/2007. (XII. 29.) GKM rendelet (a továbbiakban: RR.) 2. §-ának
+(5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A rendszerhasználati díjak beszedésére jogosult engedélyes a részére fizetett rendszerhasználati díjakat
+elkülönítve, díjtételenként köteles nyilvántartani, elszámolni és – a 3. számú melléklet B) fejezetének 2.7. pontjában
+leírtak kivételével – a számlán feltüntetni.”
+2. § Az RR. 3. §-ának (6) és (7) bekezdései helyébe a következő rendelkezések lépnek:
+„(6) A (3) bekezdés szerinti rendszerhasználati díjakat kell az elosztó részére megfizetniük az elosztó hálózatra
+közvetve, nem közcélú hálózati elemen keresztül csatlakozó rendszerhasználóknak is, beleértve a közvetlen vezeték
+vagy magánvezeték tulajdonosát is, ha a közvetlen vezeték vagy magánvezeték elosztó hálózatra csatlakozó, nem
+szigetüzemű erőműhöz csatlakozik.
+(7) Az (5) bekezdés szerinti rendszerhasználati díjakat kell az átviteli rendszerirányító részére megfizetniük az átviteli
+hálózatra közvetve, nem közcélú hálózati elemen keresztül csatlakozó rendszerhasználóknak is, beleértve a közvetlen
+vezeték vagy magánvezeték tulajdonosát is, ha a közvetlen vezeték vagy magánvezeték átviteli hálózatra csatlakozó,
+nem szigetüzemű erőműhöz csatlakozik.”
+3. § (1) Az RR. 4. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Átviteli-rendszerirányítási díjat és a rendszerszintű szolgáltatások díját köteles fizetni:
+a) az elosztó részére az elosztó hálózatra közvetlenül vagy közvetve csatlakozó
+aa) felhasználó,
+ab) erőmű,
+ac) közvetlen vezeték vagy magánvezeték tulajdonosa, valamint további elosztó,
+b) az átviteli rendszerirányító részére az átviteli hálózatra közvetlenül vagy közvetve csatlakozó
+ba) felhasználó,
+bb) erőmű,
+bc) közvetlen vezeték vagy magánvezeték tulajdonosa, valamint – az a) pontban foglaltakkal összefüggésben – az
+elosztó,
+c) az átviteli rendszerirányító részére a rendszerösszekötő vezetéken keresztül villamos energia szállítást végző
+ca) az átviteli hálózatról történő villamos energia kiszállítás,
+cb) az átviteli hálózatra történő villamos energia beszállítás
+esetén.”
+(2) Az RR. 4. §-ának (5)–(6) bekezdései helyébe a következő rendelkezések lépnek:
+„(5) Az átviteli rendszerirányító az elosztók által fizetett átviteli-rendszerirányítási díjból származó bevételének azon
+részét, amelyet az 1. számú melléklet I. fejezet 1.1. és 3.1. pont szerinti díjtételek különbsége és a 2. számú melléklet
+B) fejezet 1.1.1. pont szerinti villamos energia mennyiségek szorzataként realizál, a VET 142. §-ának (15) bekezdésén
+alapuló, utólag adott árengedmény jogcímen a 4. számú melléklet szerinti arányoknak megfelelően köteles
+megosztani az elosztók között. Az ezzel kapcsolatoselszámolásszabályait a 3. számú melléklet B) fejezetének 3. pontja
+tartalmazza.
+(6) Az adott évrevonatkozóhatárkeresztezőkapacitásaukcióbólszármazóbevételeketazátviteli-rendszerirányításidíj
+következő évre történő megállapításánál – a Hivatal által a VET 142. §-ának (5) bekezdése alapján kiadott módszertani
+útmutató szerinti éves árkorrekciós mechanizmus keretében – korrekciós (csökkentő) tételként kell figyelembe venni.
+E rendeletben meghatározott díjak számszerűsítésénél alkalmazott éves árkorrekciós mechanizmus részletszabályait
+
+– különös tekintettel a VET 142. §-ának (14) bekezdésére – a VET. 142. §-ának (5) bekezdése szerinti módszertani
+útmutató tartalmazza.”
+4. § Az RR. 5. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az elosztó részére az (1) bekezdés a)–e) pontja szerinti díjakat köteles fizetni:
+a) az elosztó hálózatra közvetlenül vagy közvetve csatlakozó
+aa) felhasználó,
+ab) erőmű,
+ac) a közvetlen vezeték vagy magánvezeték tulajdonosa, valamint további elosztó,
+b) a határkeresztező elosztó vezetéken keresztül villamosenergia-szállítást végző
+ba) az elosztó hálózatról történő villamos energia kiszállítás,
+bb) az elosztó hálózatra történő villamos energia beszállítás
+esetén.”
+5. § (1) Az RR. 1. számú melléklete helyébe e rendelet 1. számú melléklete lép.
+(2) Az RR. 2. számú melléklete e rendelet 2. számú melléklete szerint módosul.
+(3) Az RR. 3. számú melléklete e rendelet 3. számú melléklete szerint módosul.
+(4) Az RR. 4. számú melléklete helyébe e rendelet 4. számú melléklete lép.
+A közcélú villamos hálózatra csatlakozás pénzügyi és műszaki feltételeiről szóló 117/2007. (XII. 29.)
+GKM rendelet módosítása
+6. § A közcélú villamos hálózatra csatlakozás pénzügyi és műszaki feltételeiről szóló 117/2007. (XII. 29.) GKM rendelet
+(a továbbiakban: RCs.) 3. §-ának (10) bekezdése helyébe a következő rendelkezés lép:
+„(10) A közcélú hálózaton a csatlakozási pontig
+a) az e rendelet szerint csatlakozási díj megfizetése ellenében a hálózati engedélyes által, vagy
+b) arendszerhasználóésahálózatiengedélyesközöttimegállapodásalapjánarendszerhasználósajátberuházásában
+megépített és üzembe helyezett vezetékek, átalakító és kapcsoló berendezések – jogszabály eltérő rendelkezése
+hiányában – a hálózati engedélyesek tulajdonában lévő közcélú hálózat részét képezik.”
+7. § (1) Az RCs. 5. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Ha a rendszerhasználó az adott csatlakozási pontra vonatkozóan az egyetemes szolgáltatás keretei között – a nem
+vezérelt vételezésen kívül – az egyetemes szolgáltatásról szóló külön jogszabály szerinti
+a) időszakos, külön mért, vezérelt vételezésre,
+b) idényjellegű (külön mért) felhasználásra
+is igényel villamos teljesítményt, akkor csatlakozási alapdíjat a legnagyobb rendelkezésre álló teljesítményt igénylő
+vételezési mód teljesítménye után kell fizetnie, figyelembe véve a (2) bekezdésben foglaltakat is.”
+(2) Az RCs. 5. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A (4) bekezdés szerinti idényjellegű (külön mért) vételezés esetén a külön mért áramkör túláramvédelmi
+készülékének névleges teljesítménye (áramerősség-értéke) nem lehet nagyobb az egyetemes szolgáltatásról szóló
+külön jogszabályban meghatározott, ilyen vételezésre jogosult felhasználói berendezések igényelt névleges
+csatlakozási teljesítményénél.”
+8. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2010. január 1-jén lép hatályba.
+(2) Az RR. e rendelettel módosított 2. számú melléklete „B Különös szabályok” fejezet 2.6.2. pontjának ab) és bb) alpontja,
+valamint 2.7.2. pontjának ab) pontja, továbbá az RCs. e rendelettel módosított 5. §-a (4) bekezdésének b) pontja és
+(5) bekezdése 2010. április 16-án lép hatályba.
+(3) Ez a rendelet 2010. április 17-én hatályát veszti.
+Hónig Péter s. k.,
+közlekedési, hírközlési és energiaügyi miniszter
+
+1. számú melléklet a 69/2009. (XII. 4.) KHEM rendelethez
+„1. számú melléklet a 119/2007. (XII. 29.) GKM rendelethez
+A villamos energia rendszerhasználat legmagasabb hatósági díjai (áfa nélkül)
+I. ÁTVITELI-RENDSZERIRÁNYÍTÁSI DÍJ ÉS RENDSZERSZINTŰ SZOLGÁLTATÁSOK DÍJA
+1. Az átviteli vagy az elosztó hálózatra közvetlenül, vagy közvetve csatlakozó a villamos energia rendszert vételezésre
+használó rendszerhasználó az 1.1. és az 1.2. pontban meghatározott mértékű díjakat köteles megfizetni:
+1.1. Átviteli-rendszerirányítási díj: 0,823 Ft/kWh
+1.2. Rendszerszintű szolgáltatások díja: 0,712 Ft/kWh
+2. Az átviteli vagy az elosztó hálózatra csatlakozó erőmű a villamos energia rendszer betáplálási célú használatáért a 2.1.
+és a 2.2. pontban meghatározott mértékű díjakat köteles megfizetni:
+2.1. Átviteli-rendszerirányítási díj: 0 Ft/kWh
+2.2. Rendszerszintű szolgáltatások díja: 0 Ft/kWh
+3. Az átviteli hálózatra csatlakozó elosztó a 3.1. és a 3.2. pontban meghatározott mértékű díjakat köteles megfizetni:
+3.1. Átviteli-rendszerirányítási díj: 1,732 Ft/kWh
+3.2. Rendszerszintű szolgáltatások díja: 0,712 Ft/kWh
+4. Rendszerösszekötő vezetéken keresztül történő villamos energia kiszállítás esetén a szállítást végző a 4.1. és
+a 4.2. pontban meghatározott mértékű díjakat köteles megfizetni:
+4.1. Az 1228/2003/EK rendelet 3. cikkének végrehajtására az átviteli rendszerirányító által kötött szerződésben részes
+országba történő kiszállítás esetén:
+4.1.1. Átviteli-rendszerirányítási díj: 0 Ft/kWh
+4.1.2. Rendszerszintű szolgáltatások díja: 0 Ft/kWh
+4.2. Egyéb országba történő kiszállítás esetén:
+4.2.1. Átviteli-rendszerirányítási díj: 0 Ft/kWh
+4.2.2. Rendszerszintű szolgáltatások díja: 0 Ft/kWh
+5. Rendszerösszekötő vezetéken keresztül történő villamos energia beszállítás esetén a szállítást végző az 5.1. és
+az 5.2. pontban meghatározott mértékű díjakat köteles megfizetni:
+5.1. Az 1228/2003/EK rendelet 3. cikkének végrehajtására a rendszerirányító által kötött szerződésben részes
+országból történő beszállítás esetén:
+5.1.1. Átviteli-rendszerirányítási díj: 0 Ft/kWh
+5.1.2. Rendszerszintű szolgáltatások díja: 0 Ft/kWh
+5.2. Egyéb országból történő beszállítás esetén:
+5.2.1. Átviteli-rendszerirányítási díj: 0,25 Ft/kWh
+5.2.2. Rendszerszintű szolgáltatások díja: 0 Ft/kWh
+
+II. ELOSZTÁSI DÍJ
+1. Az 5. § (4) bekezdésében meghatározott rendszerhasználók a következő díjakat kötelesek az elosztó részére
+megfizetni:
+Elosztói
+alapdíj
+Elosztói
+teljesítmény-
+díj
+Elosztói
+forgalmi díj
+Elosztói
+meddő
+energia díj
+Elosztói
+veszteségdíj
+Elosztói
+menetrend-
+kiegyen-
+súlyozási díj
+Ft/csatlakozási
+pont/év
+Ft/kW/év Ft/kWh Ft/kVArh Ft/kWh Ft/kWh
+A) Az elosztó hálózatból vételezők által és az elosztó hálózatról történő villamos energia kiszállítás esetén
+[5. § (4) bekezdés a) pont aa), ac) és b) pont ba) alpont]
+a) Nagyfeszültségű csatlakozás 204 600 864 0,13 2,05 0,22 –
+b) Nagy/középfeszültségű
+transzformátorhoz történő
+csatlakozás
+102 300 2 436 0,71 2,47 0,34 –
+c) Középfeszültségű csatlakozás 102 300 4 884 1,28 2,47 1,16 –
+d) Közép/kisfeszültségű transzformátorhoz történő csatlakozás
+da) I. 3 408 – 3,85 3,43 2,18 0,45
+db) II. 1 152 – 1,19 – 1,62 0,30
+dc) III. 34 104 5 076 1,85 3,43 2,18 –
+e) Kisfeszültségű csatlakozás
+ea) I. 1 872 – 9,33 3,43 3,71 0,45
+eb) II. 624 – 2,88 – 2,76 0,30
+ec) III. 34 104 7 512 4,12 3,43 3,71 –
+B) Az elosztó hálózatba betáplálók által és az elosztó hálózatra történő villamos energia beszállítás esetén
+[5. § (4) bekezdés a) pont ab) és bb) alpont]
+a) Nagyfeszültségű csatlakozás 0 0 0 0 0 –
+b) Középfeszültségű csatlakozás 0 0 0 0 0 –
+c) Kisfeszültségű csatlakozás 0 0 0 0 0 –
+2. A 6. § (2) bekezdésben meghatározott felhasználók – az 1. pont szerinti díjakon felül – a következő díjakat kötelesek az
+elosztó részére megfizetni:
+Közvilágítási elosztási díj, Ft/kWh: 9,42„
+2. számú melléklet a 69/2009. (XII. 4.) KHEM rendelethez
+1. Az RR. 2. számú mellékletének „B) Különös szabályok” fejezetében a 2.3.5. pont helyébe a következő rendelkezés lép:
+„2.3.5. Ha a felhasználó a teljesítményigényének vagy az egyidejű maximális teljesítményigényének biztonságosabb
+kielégítése érdekében – az ellátási szabályzatokban meghatározott – többirányú hálózati ellátást kíván igénybe venni,
+és azt az elosztó hálózati engedélyessel kötött hálózati csatlakozási, illetve hálózathasználati szerződésben is
+rögzítették, akkor a felhasználónak az ezen ellátáshoz tartozó csatlakozási pontokra lekötött teljesítmények után is
+meg kell fizetnie az elosztói teljesítménydíjat.”
+2. Az RR. 2. számú melléklet „B) Különös szabályok” fejezetében a 2.3.7. pont helyébe a következő rendelkezés lép:
+„2.3.7. A közvilágítási célra vételező felhasználók esetében a teljesítményüket a közvilágítási lámpatestek beépített
+teljesítményével, azaz a fényforrásnak az előtét, a gyújtó és a lámpatestbe épített feszültségszabályzó
+teljesítményfelvételével növelt névleges villamos teljesítményével kell figyelembe venni. Ha a közvilágítási
+berendezés fényáramszabályzóval van ellátva, akkor a közvilágítási berendezés számított teljesítményét – az elosztó
+üzletszabályzatában rögzített módon – a szabályzóberendezés által beállított legnagyobb feszültségnek megfelelő
+szabályozási tényezővel kell módosítani.”
+
+3. Az RR. 2. számú mellékletének „B) Különös szabályok” fejezetében a 2.6.2. pont helyébe a következő rendelkezés lép:
+„2.6.2. Az 1. számú melléklet II. Elosztási díj című táblázat A) szakasz db) sor szerinti tarifa díjait köteles megfizetni
+a felhasználó azon villamosenergia-fogyasztása után, amelyet
+a) az egyetemes szolgáltatásról szóló külön jogszabály szerinti
+aa) időszakos árszabással,
+ab) idényjellegű, egy zónaidős árszabással,
+b) nem egyetemes szolgáltatásivillamosenergia-vásárlásiszerződésealapjánaz ellátásiszabályzatokszerinti vezérelt,
+külön mért villamos energia felhasználás szerint
+ba) az elosztói engedélyes vezérlési programjának megfelelően,
+bb) az adott felhasználási helyen kizárólag a megújuló energiaforrásból vagy hulladékból nyert energiával termelt
+villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007.
+(XII. 23.) Korm. rendelet (a továbbiakban: RK.) szerinti mélyvölgy időszakban
+vételez.”
+4. Az RR. 2. számú melléklet „B) Különös szabályok” fejezetében a 2.7.2. pont helyébe a következő rendelkezés lép:
+„2.7.2. Az 1. számú melléklet II. Elosztási díj című táblázat A) szakasz eb) sor szerinti tarifa díjait köteles megfizetni
+a felhasználó azon villamosenergia-fogyasztása után, amelyet
+a) az egyetemes szolgáltatásról szóló külön jogszabály szerinti
+aa) időszakos árszabással,
+ab) idényjellegű, egy zónaidős árszabással,
+b) nem egyetemes szolgáltatásivillamosenergia-vásárlásiszerződésealapjánaz ellátásiszabályzatokszerinti vezérelt,
+külön mért villamos energia felhasználás szerint
+ba) az elosztói engedélyes vezérlési programjának megfelelően,
+bb) az adott felhasználási helyen kizárólag az RK. szerinti mélyvölgy időszakban
+vételez.”
+5. Az RR. 2. számú melléklet „B) Különös szabályok” fejezete – a 2.7.3. pont után – a következő 2.7.4. ponttal egészül ki:
+„2.7.4. A 2.6.2. és 2.7.2. pont szerinti módon vételezők felhasználói berendezése a vezérelt felhasználói áramkörre csak
+állandó jelleggel, megfelelő segédeszköz (szerszám) hiányában állagsérelem nélkül nem leválasztható módon, nem
+dugaszolhatóan csatlakoztatható. A hálózati engedélyes jogosult ellenőrizni a vezérelt áramkör, valamint az arra
+kapcsolt felhasználói berendezések jogszabálynak való megfelelőségét. A jogszabályi rendelkezések be nem tartása
+a hálózathasználati szerződés megszegésének minősül.”
+3. számú melléklet a 69/2009. (XII. 4.) KHEM rendelethez
+1. Az RR. 3. számú melléklete „B) Különös szabályok” fejezetének „2. Elosztói számlák” pontja a 2.6. alpontot követően
+a következő 2.7. alponttal egészül ki:
+„2.7. A részszámlákon a fogyasztásarányos rendszerhasználati díjak a tételenkénti feltüntetés helyett összevontan is
+szerepeltethetők.”
+2. Az RR. 3. számú melléklete „B) Különös szabályok” fejezetében a „3. Elosztók visszatérítési számlái” pontja helyébe
+a következő rendelkezés lép:
+„3. A 4. § (5) bekezdés szerinti, utólag adott árengedményre vonatkozó elszámolás szabályai
+3.1. A második átviteli-rendszerirányítói számla kiállításával megegyező időpontban az átviteli rendszerirányító
+meghatározza a 4. § (5) bekezdés szerinti árengedmény elosztónkénti összegét, amelyről számlával egy tekintet alá
+eső okiratot állít ki az elosztók részére. Ezzel egyidejűleg az átviteli-rendszerirányító köteles az engedmény
+mértékének ellenőrzéséhez szükséges összesített villamos energia forgalmi adatokról az elosztókat tájékoztatni.
+3.2. A 3.1. pont szerinti árengedményt az 1. számú melléklet I. fejezetének 3. pontjában szereplő díjakra
+vonatkoztatva, azok arányának megfelelően kell nyújtani.
+3.3. A 3.1. pont szerinti árengedmény megfizetése a második átviteli-rendszerirányítói számla kiegyenlítését
+követően a második átviteli-rendszerirányítói számla fizetési határidejét követő banki napon, az
+átviteli-rendszerirányító által az elosztók részére kibocsátott, számlával egy tekintet alá eső okirat alapján történik.
+
+3.4. A 3.3. pont szerinti számlával egy tekintet alá eső okiratban szereplő összeg az átviteli rendszerirányító által az
+elosztók részére nyújtott utólagos árengedménynek minősül, amit az elosztók – tájékoztatási kötelezettségük során –
+a Hivatal számára elkülönülten is kötelesek kimutatni.”
+4. számú melléklet a 69/2009. (XII. 4.) KHEM rendelethez
+„4. számú melléklet a 119/2007. (XII. 29.) GKM rendelethez
+Az átviteli rendszerirányító átviteli-rendszerirányítási díjból származó többletbevételének megosztása
+Az átviteli rendszerirányító azon bevételi többletét, melyet az 1. számú melléklet I. fejezet 3.1. pont szerinti díjnak az
+1.1. pont szerinti díjat meghaladó része és a 2. számú melléklet B) fejezet a 1.1.1. pont szerinti
+villamosenergia-mennyiségek szorzataként realizál – e rendelet előírásain alapuló, utólag adott árengedmény
+jogcímen – a következő arányok alapján köteles megosztani az elosztók között:
+Elosztó Részarány
+DÉMÁSZ Hálózati Elosztó Kft. 18,4%
+ELMÜ Hálózati Kft. 0,0%
+ÉMÁSZ Hálózati Kft. 29,8%
+E.ON Dél-dunántúli Áramszolgáltató Zrt. 21,2%
+E.ON Észak-dunántúli Áramszolgáltató Zrt. 14,8%
+E.ON Tiszántúli Áramszolgáltató Zrt. 15,8%
+Összesen 100,0%
+„
