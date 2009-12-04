@@ -1,0 +1,1 @@
+Az Országgyűlés a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 64. § (6) bekezdésében foglaltak alapján a fővárosi és a kerületi önkormányzatok közötti forrásmegosztás normatív módszereinek szabályozására a következő törvényt alkotja:

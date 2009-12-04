@@ -1,0 +1,7 @@
+6. § (1) A kerületi önkormányzatokat megillető részesedés felosztásakor azon feladatok önkormányzati költségvetési beszámoló szerinti bázisévi működési kiadásaiból, amelyekhez a központi költségvetés központi hozzájárulást nyújt, le kell vonni a kiadásokhoz kapcsolódó központi hozzájárulást, és a különbséget a központi hozzájárulások arányában kell megosztani az önkormányzatok között.
+
+(2) Az (1) bekezdés szerint számított felosztandó forráson felüli rész 40%-át az állandó népesség, 15%-át a belterületi terület, 15%-át a kerület állandó népességének és a belterületi terület nagyságának hányadosa, 15%-át a 2005. év végén az önkormányzati tulajdonban lévő félkomfortos, komfort nélküli és szükséglakások együttes alapterülete és 15%-át a 2005. év végén az önkormányzat területén levő iparosított technológiával épült lakások darabszáma arányában kell megosztani az önkormányzatok között. A számításokban felhasználandó belterületi terület, illetve lakás adatokat a melléklet tartalmazza.
+
+(3) Az állandó népesség (2) bekezdés szerinti súlya évente 2 százalékponttal növekszik, a lakás alapterületé és az iparosított technológiával épült lakások darabszámáé pedig 1-1 százalékponttal csökken.
+
+(4) Az egyes kerületi önkormányzatoknak az (1)–(3) bekezdés szerint számított részesedési aránya a megosztott forrásokból a tárgyévet megelőző év forrásmegosztásához képest maximum 5%-kal nőhet, illetve csökkenhet. A módszer alkalmazása miatt bekövetkező eltérések a forrásmegosztás során az egyes önkormányzatok részesedését növelik vagy csökkentik.
