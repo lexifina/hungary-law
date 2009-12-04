@@ -1,0 +1,1 @@
+A Kormány a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (1) bekezdés – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosításáról szóló 2009. évi XLVI. törvény 23. § (1) bekezdésével megállapított – h) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:

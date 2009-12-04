@@ -1,0 +1,19 @@
+## A vasúti társaság felelőssége a szerződésszegéssel okozott károkért
+
+16. § (1) Amennyiben az utas felárral igénybe vehető közforgalmú személyszállító vonattal utazott, a vonat kimaradása, illetve az utas célállomására 30 percet meghaladó késéssel történő érkezése esetén a vasúti társaság köteles – az utas bizonyított kára esetén – kártérítést fizetni. Egyéb esetekben a vasúti társaság kártérítés fizetésére nem kötelezett.
+
+[(1)[^4] Amennyiben az utas felárral igénybe vehető közforgalmú személyszállító vonattal utazott, a vonat kimaradása, illetve az utas célállomására késéssel történő érkezése esetén a vasúti társaság köteles – az utas bizonyított kára esetén – kártérítést fizetni. Egyéb esetekben a vasúti társaság kártérítés fizetésére nem kötelezett.]
+
+(2) Nem minősül járatkimaradásnak vagy késésnek, ha az utasok továbbszállításáról a vasúti társaság oly módon gondoskodott, vagy arra más vonattal lehetőség volt úgy, hogy az utas vonatkimaradás esetében 180 percet, a vonat késése esetén 30 percet meg nem haladó késéssel a célállomására megérkezzék.
+
+(3) A kártérítés összege nem haladhatja meg az utas menetjegye árának:
+
+a) vonat kimaradása esetén a tizenötszörösét,
+
+b) 30 percet meghaladó késés esetében az ötszörösét.
+
+(4) A kártérítési összeg alapja vonatkésés esetében az utas által a késett vonattal megtett útra eső, vonatkimaradás esetében a kimaradt vonattal megtenni szándékozott útra eső, az utas által igénybe vett kedvezménynek megfelelő belföldi, egy útra szóló menetjegy ára. Ha az utas többszöri utazásra jogosító menetjeggyel rendelkezik, a kártérítési összeg alapja a késett vagy kimaradt vonattal megtett vagy megtenni szándékozott útra eső, hasonló mértékű kedvezménynek megfelelő belföldi, egy útra szóló menetjegy ára.
+
+(5) A kártérítési igény elbírálásával kapcsolatos részletes szabályokat – ideértve a kárigény-bejelentés helyét, a kártérítés jogalapját alátámasztó dokumentumok körét és a vonatkozó eljárási szabályokat – a vasúti társaság az üzletszabályzatában határozza meg.
+
+[^4]: A 16. § (1) bekezedése a 25. § (2) bekezdésével megállapított szöveg. [A 24. § (2) bekezdése alapján 2013. január 1-jén lép hatályba.]
