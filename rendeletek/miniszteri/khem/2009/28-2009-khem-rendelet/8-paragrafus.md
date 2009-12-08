@@ -1,0 +1,11 @@
+8. § (1) A felhasználó kezdeményezheti a gázmérő cseréjét a gyártási méretsorozatnak megfelelő típusú és teljesítményű gázmérőre, ha
+
+a) a felhasználónál üzemelő gázüzemi berendezések névleges teljesítményeinek összege 115 m3/h-nál kisebb és a felszerelt gázmérő névleges teljesítménye 100 m3/h-nál nagyobb, vagy
+
+b) a felhasználó gázmérőjének névleges teljesítménye a beépített gázüzemi berendezések névleges teljesítményeinek összegéhez viszonyítva 15%-kal nagyobb.
+
+(2) Az (1) bekezdés szerinti felhasználói kezdeményezést a szolgáltató a rendelkezésére álló műszaki adatok figyelembevételével (beépített gázmérő névleges teljesítménye, üzemelő berendezések száma, teljesítménye, éves gázfelhasználás) köteles az elosztóval 30 napon belül felülvizsgáltatni.
+
+(3) A felülvizsgálat lezárását követően a szolgáltató a bejelentés időpontjától köteles a fogyasztást a műszakilag indokolt gázmérő teljesítményének megfelelő díjjal elszámolni. Ha az elosztó a felülvizsgálat alapján kicseréli a gázmérőt, az új gázmérő beszerzésének költsége a gázmérő tulajdonosát terheli. A mérőcserével kapcsolatos gázmérőkötés kialakításának költsége a felhasználót terheli, kivéve ha az elosztó az indokolt gázmérőcserét 3 hónapon belül nem hajtja végre.
+
+(4) Mérőcsere esetén a fogyasztás elszámolásához újonnan beépíthető gázmérők névleges teljesítményét az 5. melléklet tartalmazza.
