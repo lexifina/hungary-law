@@ -1,0 +1,1 @@
+A gazdasági lehetőségekkel összhangban a gazdasági válság hatásainak tompítása és a rászorult, lakáscélú kölcsönnel rendelkező természetes személyek terheinek mérséklése érdekében az Országgyűlés a következő törvényt alkotja:
