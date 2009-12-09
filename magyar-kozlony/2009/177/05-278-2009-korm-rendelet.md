@@ -1,0 +1,136 @@
+# A Kormány 278/2009. (XII. 9.) Korm. rendelete
+
+Magyar Közlöny 2009. évi 177. szám, 2009. december 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/21ced7a257312f1e3d671e214e7a4db759cb268b/dokumentumok/586fdda0e2acf398e63ef068e20b42970d959db8/letoltes)
+
+---
+
+A Kormány 278/2009. (XII. 9.) Korm. rendelete
+a házi segítségnyújtást, illetőleg a jelzőrendszeres házi segítségnyújtást ellátási szerződés
+keretében biztosító helyi önkormányzatok támogatásáról, valamint az e szolgáltatások körében
+tevékenységet végző személyek elmaradt juttatásainak megelőlegezéséről
+A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, valamint a Magyar Köztársaság
+2009. évi költségvetésről szóló 2008. évi CII. törvény (a továbbiakban: költségvetési törvény) 49. § (1) bekezdésében kapott
+felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének g) pontjában foglalt feladatkörében eljárva a következő rendeletet
+alkotja:
+1. § E rendelet hatálya a költségvetési törvény 1. számú melléklete IX. Helyi önkormányzatok támogatásai és átengedett
+személyi jövedelemadója fejezet, 16. A házi segítségnyújtást és/vagy a jelzőrendszeres házi segítségnyújtást ellátási
+szerződés keretében biztosító helyi önkormányzatok támogatása (a továbbiakban Önkormányzati támogatás),
+valamint a XXVI. Szociális és Munkaügyi Minisztérium fejezet 16. cím 44. alcím 1. Szociális alap és szakosított ellátások,
+módszertani feladatok támogatása jogcímcsoport (a továbbiakban: Egyéb támogatás) jogcímek előirányzatából
+nyújtott támogatás igénylésére, felhasználására és elszámolására terjed ki.
+
+Az önkormányzati támogatásra vonatkozó szabályok
+2. § (1) Az Önkormányzati támogatás előirányzata terhére támogatást igényelhetnek a házi segítségnyújtást és/vagy
+jelzőrendszeres házi segítségnyújtást a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény
+120–122. §-a szerinti ellátási szerződés keretében biztosító helyi önkormányzatok és többcélú kistérségi társulások
+(a továbbiakban együtt: Önkormányzat).
+(2) A támogatást az Önkormányzat csak azon ellátott személyek után és csak azon időszakra igényelheti, akik után a nem
+állami fenntartó az adott hónapokban nem részesült normatív állami hozzájárulásban. A támogatás mértéke
+megegyezik
+a) házi segítségnyújtásnál a költségvetési törvény 3. számú melléklete 11. da) vagy 11. db) pontok szerinti
+hozzájárulás és a tényleges ellátotti létszám szorzatának időarányos összegével,
+b) jelzőrendszeres házi segítségnyújtásnál a költségvetési törvény 3. számú melléklete 11. e) pont szerinti
+hozzájárulás és a tényleges ellátotti létszám szorzatának időarányos összegével.
+(3) A támogatás a ténylegesen ellátott személyek száma, de legfeljebb az ellátási szerződésben szereplő ellátotti létszám
+után vehető igénybe.
+3. § (1) A támogatási igénylésben szerepeltetni kell:
+a) az Önkormányzat alapadatait;
+b) az érintett szolgáltatás(ok) megjelölését;
+c) az ellátási szerződéssel megbízott nem állami fenntartó azonosító adatait;
+d) a szerződésben szereplő ellátotti létszámot;
+e) szolgáltatástípusonként az igényelt támogatási összeget, és az azt megalapozó mutatószámok bemutatását;
+f) azon személyek munkaszerződését, foglalkoztatásrairányuló jogviszonyt létrehozó egyéb szerződéseit, akik után
+az Önkormányzat 5. §-ra figyelemmel a támogatást igényelte;
+g) az f) pontban megjelölt személyek nyilatkozatát, amelyben büntetőjogi felelőssége tudatában kijelenti, hogy
+az 5. § (1) bekezdésében meghatározott feltételeknek megfelel;
+h) az Önkormányzat nyilatkozatát arra vonatkozóan, hogy a szolgáltatást az érintett időszakban a nem állami
+fenntartó a szerződésben foglaltaknak megfelelően teljesítette.
+(2) A támogatási igényléshez csatolni kell a nem állami fenntartóval kötött ellátási szerződést, illetve az Önkormányzat
+nyilatkozatát arról, hogy az ellátási szerződéssel érintett települések ugyanezen támogatást 2009. évben nem veszik
+igénybe.
+4. § (1) Az Önkormányzat az igénylést 2009. december 15-éig a Magyar Államkincstár területileg illetékes Igazgatóságához
+(a továbbiakban: Igazgatóság) nyújthatja be. A határidő elmulasztása jogvesztő.
+(2) Az Igazgatóság megvizsgálja az igénylést, és hiányosság észlelése esetén az Áht. 64/B. § (3) bekezdése alapján
+3 munkanapos határidővel hiánypótlásra szólítja fel az Önkormányzatot. Amennyiben az Önkormányzat
+a hiánypótlásnak nem, vagy nem megfelelően tesz eleget, az Igazgatóság az igénylést elutasítja.
+(3) A feltételeknek megfelelő igénylések adatait az Igazgatóság megyénként összesítve, településsorosan legkésőbb
+2009. december 23-áig megküldi az Önkormányzati Minisztérium, valamint a Szociális és Munkaügyi Minisztérium
+részére.
+(4) A támogatásokataz ÖnkormányzatiMinisztérium – a Szociálisés Munkaügyi Minisztérium véleményérefigyelemmel–
+soron kívüli utalványozása alapján a Magyar Államkincstár legkésőbb 2009. december 30-áig folyósítja.
+5. § (1) Az Önkormányzat a támogatást az ellátást végző olyan munkavállalók, valamint a szolgáltatóval foglalkoztatásra
+irányuló egyéb jogviszonyban álló személyek 2009. évi elmaradt járandóságának és azok közterheinek
+megelőlegezésére használhatja fel, akik
+a) az Önkormányzattal ellátási szerződéses jogviszonyban álló szolgáltató tevékenységének keretében a házi
+segítségnyújtás és/vagy jelzőrendszeres házi segítségnyújtás ellátás biztosításában munkaviszony vagy
+foglalkoztatásra irányuló egyéb jogviszony keretében közreműködtek,
+b) az a) pontban megjelölt tevékenységükért a munkaszerződésükben, foglalkoztatásra irányuló egyéb jogviszonyt
+létrehozó szerződésükben meghatározott munkabért vagy díjazást nem kapták meg a szerződés fenntartása
+mellett, valamint akik a munkabér, valamint díjazás kifizetésének elmaradása miatt éltek rendkívüli felmondással,
+továbbá
+
+c) akiknek munkaviszonyát, foglalkoztatásra irányuló egyéb jogviszonyát a szolgáltató úgy szüntette meg, hogy
+a jogviszony megszűntetésekor a munkavállalóval, valamint a foglalkoztatásra irányuló egyéb jogviszony
+alanyával szemben a szerződésben foglalt munkabérrel, valamint díjazással összefüggésben tartozása állt fenn.
+(2) Amennyiben az (1) bekezdésben megjelölt személyek elmaradt munkabérét, valamint díjazását a szolgáltató kifizeti,
+az Önkormányzat kéri az előleg munkavállaló általi visszafizetését. A munkavállaló az elmaradt munkabérének
+kifizetéséről köteles 5 munkanapon belül tájékoztatni az Önkormányzatot. A visszafizetett összeget az Önkormányzat
+3 munkanapon belül köteles a költségvetés felé befizetni.
+(3) Az Önkormányzat a kapott támogatást nem adhatja át a nem állami fenntartónak.
+(4) Amennyiben a munkavállaló több településen is ellát gondozottakat, úgy az Önkormányzatok egymás közötti
+pénzeszköz-átadással is rendezhetik a járandóság egy összegben történő kifizetését.
+(5) Ha valamely Önkormányzat korábban visszatérítendő támogatással segítette az érintett munkavállalót, a támogatás
+ennek kiegyenlítésére is fordítható, és ennek összege az elszámolás során figyelembe vehető.
+6. § (1) A támogatás felett az Önkormányzat rendelkezik, és felelős annak jogszerű felhasználásáért.
+(2) A támogatás felhasználására az e rendeletben nem szabályozott kérdésekben az államháztartás működési rendjéről
+szóló 217/1998. (XII. 30.) Korm. rendeletet szabályait kell megfelelően alkalmazni.
+(3) A támogatás felhasználásának végső határideje 2010. január 31. Az ezen határidőig fel nem használt támogatásrészt
+vissza kell fizetni a központi költségvetésbe. A támogatás határidőn túl, illetve a jogszabályban meghatározott
+céloknak és feltételeknek nem megfelelően felhasznált összegét a támogatás igénylésekor irányadó jegybanki
+alapkamat kétszeresének megfelelő kamattal növelt mértékben kell visszafizetni a központi költségvetésbe.
+(4) Az Önkormányzat 2010. február 15-éig adatot szolgáltat az Igazgatóság részére a kifizetett járandóság és közterheinek
+összegéről.
+(5) Amennyiben a támogatást igénybe vevő Önkormányzattal ellátási szerződéssel rendelkező nem állami fenntartó
+részére ugyanazon időszakra és jogcímen támogatás kerül megállapításra, a folyósításkor abból az Önkormányzat
+(4) bekezdés szerinti adatszolgáltatásában feltüntetett összeget le kell vonni.
+7. § (1) Az Önkormányzat a támogatás felhasználásáról tárgyév december 31-i fordulónappal, a mindenkori zárszámadás
+keretében és rendje szerint köteles elszámolni.
+(2) Az Önkormányzat a támogatás felhasználásáról az elemi költségvetési beszámoló készítésével egyidejűleg részletes
+pénzügyi beszámolót küld az Igazgatóság részére, amelyben igazolja a támogatás foglalkoztatottak részére történt
+kifizetését.
+(3) A támogatás felhasználását a jogszabályban erre feljogosított szervek ellenőrizhetik.
+(4) Az Önkormányzat köteles a támogatás felhasználásáról elkülönítetten naprakész nyilvántartást vezetni,
+az ellenőrzésre feljogosított szervek megkeresésére az ellenőrzés lefolytatásához szükséges tájékoztatást megadni,
+a kért dokumentumokat rendelkezésre bocsátani, a helyszíni ellenőrzést lehetővé tenni.
+Az egyéb támogatásra vonatkozó szabályok
+8. § (1) Az Állami Foglalkoztatási Szolgálatról szóló 291/2006. (XII. 23.) Korm. rendelet alapján illetékes regionális munkaügyi
+központ (a továbbiakban: regionális munkaügyi központ) a házi segítségnyújtást és/vagy jelzőrendszeres házi
+segítségnyújtást nyújtó egyházi vagy nem állami fenntartó által működtetett szolgáltatóval munkaviszonyban,
+valamint foglalkoztatásra irányuló egyéb jogviszonyban álló, a szolgáltatásban közreműködő és az 5. §
+(1) bekezdésének b)–c) pontjaiban meghatározott feltételeknek megfelelő, a 2–7. §-ok szerinti támogatásban nem
+részesült személy elmaradt munkabérét, valamint díjazását és ezek közterheit a források rendelkezésre állásáig
+megelőlegezheti.
+(2) Az (1) bekezdés szerinti feltételeknek megfelelő munkavállaló a regionális munkaügyi központnál 2009. december
+15-éig kérhetiaz 5. § (1) bekezdésénekb) és c) pontjábanfoglaltakszerintielmaradt munkabérének,illetvedíjazásának
+megelőlegezését. A határidő elmulasztása jogvesztő.
+(3) Az (2) bekezdésben meghatározott kérelemhez csatolni kell:
+a) a munkavállaló munkaszerződésének, vagy a foglalkoztatásra irányuló jogviszonyt létrehozó egyéb
+szerződésének másolatát,
+b) a bérszámfejtéshez szükséges valamennyi dokumentumot, valamint
+
+c) azon nyilatkozatát, amelyben büntetőjogi felelőssége tudatában kijelenti, hogy az 5. § (1) bekezdésének
+b)–c) pontjaiban meghatározott feltételeknek megfelel.
+(4) A regionális munkaügyi központ az előleg biztosításáról – a rendelkezésre álló költségvetési forrásokra figyelemmel –
+a kérelem benyújtását követő 5 munkanapon belül határoz. A regionális munkaügyi központ a határozatot annak
+meghozatalát követően haladéktalanul közli a Magyar Államkincstár illetékes területi szervével.
+(5) A regionális munkaügyi központ határozata alapján az előleget a Magyar Államkincstár illetékes területi szerve
+számfejti, majd utalványozza.
+(6) Amennyiben az (1) bekezdésben megjelölt személyek elmaradt munkabérét, valamint díjazását a szolgáltató kifizeti,
+a regionális munkaügyi központ kéri az előleg munkavállaló általi visszafizetését. A munkavállaló az elmaradt
+munkabérének kifizetéséről köteles 5 munkanapon belül tájékoztatni a regionális munkaügyi központot.
+A visszafizetett összeget a regionális munkaügyi központ 3 munkanapon belül köteles a költségvetés felé befizetni.
+9. § E rendelet a kihirdetését követő napon lép hatályba, és 2010. április 1-jén hatályát veszti.
+A miniszterelnök helyett:
+Kiss Péter s. k.,
+társadalompolitika összehangolásáért felelős
+tárca nélküli miniszter
