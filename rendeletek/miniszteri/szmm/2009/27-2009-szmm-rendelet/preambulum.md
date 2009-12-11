@@ -1,0 +1,1 @@
+A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 30. § (2) bekezdésében kapott felhatalmazás alapján, a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 1. § h) pontjában megállapított feladatkörömben eljárva a következőket rendelem el:
