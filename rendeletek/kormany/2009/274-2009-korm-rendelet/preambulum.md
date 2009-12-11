@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 40. § (3) bekezdésében foglalt eredeti jogalkotó hatáskörében, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdésének 5. és 6. pontjaiban kapott felhatalmazás alapján – az Alkotmány 35. §-a (1) bekezdésének b) pontjában és (2) bekezdésében foglalt feladatkörében eljárva – a következőket rendeli el:
