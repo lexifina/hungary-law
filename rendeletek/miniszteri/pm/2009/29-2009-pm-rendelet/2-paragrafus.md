@@ -1,0 +1,3 @@
+## 1. § Az önkormányzati adóhatóságok által rendszeresíthető bevallási, bejelentési nyomtatványok tartalmáról szóló 35/2008. (XII. 31.) PM rendelet (a továbbiakban: R1.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az önkormányzati adóhatóságnak (a továbbiakban: adóhatóság) a hatáskörébe tartozó adókra az 1–9. és a 15–16. mellékletben szereplő nyomtatványok alapján kell a bevallási nyomtatványokat rendszeresítenie. Az adóhatóság a bevallási nyomtatványokat kizárólag az önkormányzati adórendeletben szabályozott mentességi, kedvezményi rendelkezések végrehajtása, illetve a fizetendő adó megállapítása érdekében egészítheti ki.”
