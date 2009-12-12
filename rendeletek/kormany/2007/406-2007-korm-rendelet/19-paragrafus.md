@@ -1,0 +1,5 @@
+19. § (1)[^4] E rendeletet a minisztérium, a Miniszterelnöki Hivatal vezetőire és a kormányhivatal vezetőjére 2008. január 1-jétől, a központi hivatal és kormányhivatal vezetőire 2008. július 1-jétől, a minisztérium, a Miniszterelnöki Hivatal és a kormányhivatal köztisztviselőire 2009. január 1-jétől, a központi államigazgatási szervek területi szerveinek vezetőire, helyi szerveit vezetőkre, a Kormány általános hatáskörű területi államigazgatási szervének a vezetőjére és a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv vezetőjére 2009. július 1-jétől kell alkalmazni.
+
+(2) E rendelet közigazgatási versenyvizsgára vonatkozó rendelkezéseit a központi államigazgatási szervek vezetőire 2009. március 1-jétől, a központi államigazgatási szervek területi szerveinek vezetőire és helyi szerveit vezetőkre 2009. július 1-jétől, a köztisztviselőkre 2009. december 1-jétől kell alkalmazni.
+
+[^4]: A 19. § (1) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 11. pontja szerint módosított szöveg.
