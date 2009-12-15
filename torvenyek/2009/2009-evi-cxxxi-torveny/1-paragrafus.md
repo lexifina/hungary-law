@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európa Tanácsnak a közérdekű adatot tartalmazó iratokhoz való hozzáférésről szóló, 2009. június 18-án Tromso-ban elfogadott Egyezménye (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
