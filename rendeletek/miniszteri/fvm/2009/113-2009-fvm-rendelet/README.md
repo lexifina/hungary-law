@@ -1,0 +1,9 @@
+# 113/2009. (VIII. 29.) FVM rendelet
+
+az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-113-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-12-16 | 2009-113-20-82.4 | 113/2009. (VIII. 29.) FVM rendelet |
