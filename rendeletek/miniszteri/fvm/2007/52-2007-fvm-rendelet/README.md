@@ -1,0 +1,9 @@
+# 52/2007. (VI. 28.) FVM rendelet
+
+az Európai Mezőgazdasági Vidékfejlesztési Alapból a szaktanácsadási szolgáltatások igénybevételéhez nyújtandó támogatások részletes feltételeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-52-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-12-16 | 2007-52-20-82.9 | 52/2007. (VI. 28.) FVM rendelet |
