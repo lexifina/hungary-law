@@ -1,0 +1,25 @@
+## Kötelezettség megszüntetése egyéb jogcímekkel kapcsolatban
+
+22. § (1) Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2006. december 15-i 1974/2006/EK bizottsági rendelet 27. cikk (11) bekezdésének megfelelően a támogatásra jogosult az agrár-környezetgazdálkodási célprogram keretében a támogatott területét a megkezdett gazdálkodási év befejeztével mezőgazdasági erdősítési intézkedésbe bevonhatja.
+
+(2) Az (1) bekezdésben foglalt erdősített terület agrár-környezetgazdálkodási támogatásra való jogosultsága az erdőtelepítés megkezdésének gazdálkodási évétől megszűnik, de a támogatásra jogosultat támogatás-visszafizetési kötelezettség nem terheli.
+
+(3) Amennyiben a támogatásra jogosult az (1) bekezdés alapján a támogatott területét a megkezdett gazdálkodási év befejeztével mezőgazdasági erdősítési intézkedésbe bevonja, de az erdőtelepítést a következő gazdálkodási évben nem kezdi meg, azonban az adott célprogram keretében vállalt kötelezettségeit teljesíti, akkor az adott gazdálkodási évre vonatkozóan továbbra is jogosult az agrár-környezetgazdálkodási támogatásra.
+
+(4) Fás szárú energetikai célú ültetvény telepítésére, valamint ültetvény telepítése esetében az (1)–(3) bekezdésben foglaltak nem alkalmazandók, ide nem értve a 21. § (1) és (3) bekezdései szerinti ültetvény újratelepítést.
+
+(5) A 3. § (1) bekezdés a) és b) pontjában meghatározott célprogramok esetén a támogatásra jogosult a támogatott területét a megkezdett gazdálkodási év végével az Európai Mezőgazdasági Vidékfejlesztési Alapból az agrár-erdészeti rendszerek mezőgazdasági földterületeken történő első létrehozásához nyújtandó támogatás igénybevételének részletes szabályairól szóló 46/2009. (IV. 16.) FVM rendelet [a továbbiakban: 46/2009. (IV. 16.) FVM rendelet] szerinti agrár-erdészeti intézkedésbe bevonhatja.
+
+(6) Az (5) bekezdésben foglaltak esetén:
+
+a) amennyiben a 3. § (1) bekezdés a) pontjában meghatározott szántóföldi célprogram csoporton belüli támogatott terület kerül bevonásra, úgy a terület agrár-környezetgazdálkodási támogatásra való jogosultsága a fásítás, illetve a gyepesítés megkezdésének gazdálkodási évétől megszűnik, de a támogatásra jogosultat támogatás-visszafizetési kötelezettség nem terheli;
+
+b) amennyiben a 3. § (1) bekezdés b) pontjában meghatározott gyepgazdálkodási célprogram csoporton belüli terület kerül bevonásra, úgy a terület támogatásra való jogosultsága megmarad.
+
+(7) Amennyiben a támogatásra jogosult a szántóföldi célprogram csoporton belüli támogatott területét a megkezdett gazdálkodási év befejeztével a 46/2009. (IV. 16.) FVM rendelet szerinti agrár-erdészeti intézkedésbe bevonja, de a fásítást, illetve a gyepesítést a következő gazdálkodási évben nem kezdi meg, azonban az adott célprogram keretében vállalt kötelezettségeit teljesíti, úgy az adott gazdálkodási évre vonatkozóan jogosult az agrár-környezetgazdálkodási támogatásra.
+
+(8) Amennyiben a támogatásra jogosult a támogatott területén az Európai Mezőgazdasági Vidékfejlesztési Alapból nem termelő mezőgazdasági beruházásokhoz nyújtandó támogatások részletes feltételeiről szóló 33/2008. (III. 27.) FVM rendelet [a továbbiakban: 33/2008. (III. 27.) FVM rendelet] 3. § (1) bekezdés a) pontjának aa)–ab) alpontjai szerinti sövénytelepítést vagy mezővédő fásítást, illetve a b) pontjának ba) alpontja szerinti füves mezsgye telepítést hajt végre, a beruházás területének agrár-környezetgazdálkodási támogatásra való jogosultsága a beruházás megkezdésének gazdálkodási évétől megszűnik, a támogatásra jogosultat támogatás-visszafizetési kötelezettség nem terheli.
+
+(9) A támogatásra jogosult köteles a (8) bekezdés szerinti, beruházással érintett kötelezettségvállalással érintett egybefüggő terület elhelyezkedését legalább 3 méter pontossággal megadó EOV koordinátákat a kifizetési kérelem benyújtására rendelkezésre álló időszakban elektronikus úton benyújtani.
+
+(10) A (9) bekezdésben foglalt beruházással érintett ismételt területazonosításának költségeit a támogatásra jogosult viseli, arra vonatkozóan a 29. § (5) bekezdése szerinti kifizetés nem igényelhető.

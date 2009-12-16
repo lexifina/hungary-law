@@ -1,0 +1,87 @@
+## Szántóföldi természetvédelmi zonális célprogramok
+
+## 1. Szántóföldi növénytermesztés túzok élőhely-fejlesztési előírásokkal célprogram
+
+61. § (1) A támogatás célja a regionális, ökológiai szempontú, fenntartható mezőgazdasági földhasználat, a természetvédelmi, illetve környezetvédelmi szempontok érvényesülésének elősegítése, valamint olyan gazdálkodási módok elterjesztése, amelyek segítik megőrizni a tájegységek természeti értékeit. A célprogram kiemelt célja a túzok, ugartyúk, a szalakóta, parlagi sas, kerecsensólyom, hamvas rétihéja és egyéb, szántóföldi élőhelyhez kötődő védett madárfajok élőhelyeinek megfelelő kezelése, valamint a mezőgazdasági biológiai sokféleség fenntartása, növelése.
+
+(2) Támogatási időszak teljes időtartama alatti jogosultsági feltételek:
+
+a) a legkisebb támogatható terület 1 ha;
+
+b) a kötelezettségvállalással érintett egybefüggő területnek a 8. § (1) bekezdésére tekintettel a 6. számú melléklet szerinti jogosult MTÉT egységen kell elhelyezkednie.
+
+(3) Adott gazdálkodási évi kifizetés jogosultsági feltételei:
+
+a) egy tábla területe legalább 0,3 hektár;
+
+b) egy tábla nagysága legfeljebb 75 ha;
+
+c) a támogatás minden szántóföldi növény- és zöldségfélére, valamint ültetvény módjára termeszthető zöldségnövényekre igényelhető a rizs, az energiafű, az energetikai céllal telepített kínai nád, valamint a fás szárú energetikai célú ültetvény kivételével, a 9. számú mellékletben meghatározottak szerint.
+
+(4) A célprogram általános előírásai:
+
+a) a 13. § (1) bekezdésében foglaltak alapján a támogatási időszak kezdetét megelőző gazdálkodási évben vagy az első gazdálkodási évben, majd a célprogram utolsó gazdálkodási évében akkreditált laboratóriumban bővített talajvizsgálat végeztetése;
+
+b) a talajvizsgálati eredmények alapján évente tápanyag-gazdálkodási terv készítése és végrehajtása;
+
+c) évente földhasználati terv készítése és végrehajtása;
+
+d) hígtrágya, szennyvíz, szennyvíziszap és szennyvíziszapot tartalmazó komposzt felhasználása tilos;
+
+e) melioráció és öntözés nem végezhető;
+
+f) rágcsálóirtó szerek és talajfertőtlenítő szerek alkalmazása tilos;
+
+g) rovarölő szerek nem alkalmazhatók, kivéve a repce, a mustár, illetve az olajretek rovarirtását;
+
+h) március 1. és július 31. között a munkavégzés kizárólag napkeltétől napnyugtáig megengedett;
+
+i) fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szervet. A földhasználó értesítésétől számított 3 munkanapon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a j) pont figyelembevételével folytatható;
+
+j) a talált fészek körül 0,5–1 hektáros védőterületet kell kialakítani a természetvédelmi szerv javaslata alapján.
+
+(5) További előírások évelő szálas pillangós takarmánynövények termesztése esetén:
+
+a) a célprogram 5 éve alatt a célprogramba bevitt teljes területen évelő szálas pillangós takarmánynövényeket (évelő szálas pillangósok, vagy azok keveréke, illetve füves keveréke) kell termeszteni;
+
+b) tápanyag-utánpótlás tilos, kizárólag telepítéskor és felülvetéskor megengedett, amelynek során a műtrágyával kijuttatott nitrogén-hatóanyag mennyisége nem haladhatja meg a 90 kg/ha/gazdálkodási év mértéket;
+
+c) a 17. § (2) bekezdésében foglaltakra tekintettel kizárólag környezetkímélő besorolású növényvédőszer-hatóanyagok alkalmazása engedélyezett;
+
+d) a lucerna felülvetése 5 év alatt egy alkalommal végezhető augusztus–szeptember hónapban;
+
+e) évelő szálas pillangós takarmánynövények betakarítása esetén:
+
+ea) minden kaszáláskor táblánként legalább 5%, de legfeljebb 10% kaszálatlan területet kell hagyni, a tábla szélével érintkezően;
+
+eb) madárbarát kaszálási módszert kell alkalmazni;
+
+ec) kaszálásnál vadriasztó lánc használata kötelező;
+
+ed) évelő szálas pillangós takarmánynövények teljes területének kijelölt legalább 50%-án az első növedék június 15. után vágható le, a teljes terület másik legfeljebb 50%-án az első növedék április 25-ig, a második növedék június 30. után vágható le, azzal, hogy az első növedék levágása során a Dunavölgyi-sík, a Homokhátság, valamint a Hortobágy MTÉT esetében az első kaszálás legkorábbi időpontja június 30.;
+
+ee) kaszálás megkezdése előtt legalább 5 nappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját.
+
+(6) További előírások vegyes szántóföldi növénytermesztés esetén:
+
+a) a vetésváltás szabályainak betartása;
+
+b) a 17. § (2) bekezdésében foglaltakra tekintettel kizárólag környezetkímélő besorolású növényvédőszer-hatóanyagok alkalmazása;
+
+c) tápanyag-utánpótlás során a műtrágyával kijuttatott nitrogén-hatóanyag mennyisége nem haladhatja meg a 90 kg/ha/gazdálkodási év mértéket;
+
+d) a célprogram 5 éve alatt a célprogramba bevitt teljes területen a következő vetésszerkezet betartása kötelező fővetésű növények tekintetében: legalább 20% kalászos gabona, legalább 20% szálas pillangós takarmánynövény (szálas pillangósok, vagy azok keveréke, illetve füves keveréke), legalább 20% zöldugar, legalább 10% őszi repce, legfeljebb 20% egyéb kultúra;
+
+e) a tábla szélein legalább 6 méter széles növényvédőszer-mentes táblaszegélyt kell hagyni, ahol szükség esetén mechanikai gyomirtást kell végezni;
+
+f) repce esetén a teljes repceterületnek az illetékes állami természetvédelmi szerv által kijelölt legalább 5, de legfeljebb 10%-án a madarak téli táplálékának biztosítása céljából a hóeltakarítás kötelező;
+
+g) kalászos gabonák betakarítása esetén minimum 25 cm magas tarlót kell hagyni;
+
+h) a vetésszerkezetben szereplő szálas pillangós takarmánynövény betakarítása esetén is alkalmazni kell ugyanezen célprogramnak az évelő szálas pillangós takarmánynövények betakarítására vonatkozó előírásait.
+
+(7) A támogatás mértéke a célprogramba bevitt terület után
+
+a) évelő szálas pillangós takarmánynövények termesztése esetén 310 euró/ha-nak megfelelő forintösszeg;
+
+b) vegyes szántóföldi növénytermesztés esetén 303 euró/ha-nak megfelelő forintösszeg.

@@ -1,0 +1,11 @@
+15. § (1) A 14. § (1) bekezdésben foglalt tápanyag-gazdálkodási tervet, illetve a 14. § (9) bekezdésben meghatározott földhasználati tervet évente szeptember 30-ig kell elkészíteni a következő gazdálkodási évre vonatkozóan. Amennyiben a főnövény betakarítására szeptember 30-át követően kerül sor, a terveket a betakarítást követően kell haladéktalanul elkészíteni.
+
+(2) Az elkészített tervektől való eltérést a gazdálkodási naplóban dokumentálni kell az eltérés indoklásával együtt.
+
+(3) A tervek eredeti példányát a támogatási időszak alatt meg kell őrizni.
+
+(4) Az első gazdálkodási évre vonatkozó tápanyag-gazdálkodási tervet és földhasználati tervet legkésőbb a területazonosítási kérelmet jóváhagyó vagy részben jóváhagyó határozat jogerőre emelkedésétől számított 60 napon belül kell elkészíteni.
+
+(5) A támogatásra jogosult köteles az előző gazdálkodási évre vonatkozó tápanyag-gazdálkodási terv 20. számú mellékletben foglalt adattartalmát évente szeptember 1. és november 30. között, elektronikus úton benyújtani a Mezőgazdasági Szakigazgatási Hivatalhoz (a továbbiakban: MgSzH). Az első gazdálkodási évre vonatkozó terv fentiek szerinti adattartalmát 2010. szeptember 1. és november 30. között kell benyújtani.
+
+(6) Az akkreditált talajlaboratórium által megküldött talajvizsgálati eredmények az adott gazdálkodási évet követő tápanyag-gazdálkodási tervek elkészítéséhez szolgálnak alapul.

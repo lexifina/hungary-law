@@ -1,0 +1,59 @@
+## 2. Szántóföldi növénytermesztés
+
+## vadlúd- és daruvédelmi előírásokkal célprogram
+
+62. § (1) A támogatás célja a vonulásuk során az ország egyes jellemző tájait érintő, jelentős lúd-, réce- és daruállományok számára megfelelő őszi-téli táplálkozóhely biztosítása, az általános madárvédelmi szántóföldi előírások mellett a speciális vetésszerkezet és a betakarítás korlátozásával a táplálékbázis megteremtése, az apróvad fajok életfeltételeinek javítása, valamint a mezőgazdasági biológiai sokféleség fenntartása, növelése.
+
+(2) Támogatási időszak teljes időtartama alatti jogosultsági feltételek:
+
+a) a legkisebb támogatható terület 1 ha;
+
+b) a kötelezettségvállalással érintett egybefüggő területnek a 8. § (1) bekezdésére tekintettel a 6. számú melléklet szerinti jogosult MTÉT egységen kell elhelyezkednie.
+
+(3) Adott gazdálkodási évikifizetés jogosultsági feltételei:
+
+a) egy tábla területe legalább 0,3 hektár;
+
+b) egy tábla nagysága legfeljebb 75 ha;
+
+c) a támogatás minden szántóföldi növény- és zöldségfélére, valamint ültetvény módjára termeszthető zöldségnövényekre igényelhető a rizs, az energiafű, az energetikai céllal telepített kínai nád, valamint a fás szárú energetikai célú ültetvény kivételével, a 9. számú mellékletben meghatározottak szerint.
+
+(4) A célprogram előírásai:
+
+a) a 13. § (1) bekezdésében foglaltak alapján a támogatási időszak kezdetét megelőző gazdálkodási évben vagy az első gazdálkodási évben, majd a célprogram utolsó gazdálkodási évében akkreditált laboratóriumban bővített talajvizsgálat végeztetése;
+
+b) a talajvizsgálati eredmények alapján évente tápanyag-gazdálkodási terv készítése és végrehajtása;
+
+c) évente földhasználati terv készítése és végrehajtása;
+
+d) tápanyag-utánpótlás során a műtrágyával kijuttatott nitrogén-hatóanyag mennyisége nem haladhatja meg a 90 kg/ha/gazdálkodási év mértéket;
+
+e) hígtrágya, szennyvíz, szennyvíziszap és szennyvíziszapot tartalmazó komposzt felhasználása tilos;
+
+f) melioráció és öntözés nem végezhető;
+
+g) a 17. § (2) bekezdésében foglaltakra tekintettel kizárólag környezetkímélő besorolású növényvédőszer-hatóanyagok alkalmazása;
+
+h) rágcsálóirtó szerek és talajfertőtlenítő szerek alkalmazása tilos;
+
+i) rovarölő szerek nem alkalmazhatók, kivéve a repce, a mustár, illetve az olajretek rovarirtását;
+
+j) szálas pillangós takarmánynövények betakarítása esetén:
+
+ja) minden kaszáláskor táblánként legalább 5%, de legfeljebb 10% kaszálatlan területet kell hagyni a tábla közepén,
+
+jb) madárbarát kaszálási módszert kell alkalmazni,
+
+jc) kaszálásnál vadriasztó lánc használata kötelező,
+
+jd) kaszálás megkezdése előtt legalább 5 nappal írásban, elektronikus úton vagy telefaxon, illetve e-mail címen be kell jelenteni az illetékes állami természetvédelmi szervnek a kaszálás pontos helyét és tervezett kezdési időpontját,
+
+je) fokozottan védett, földön fészkelő madárfaj fészkének, fiókáinak megtalálása esetén a betakarítást, illetve kaszálást azonnal abba kell hagyni, és haladéktalanul értesíteni kell az illetékes állami természetvédelmi szerv kijelölt munkatársát. A földhasználó értesítésétől számított 3 munkanapon belül a természetvédelmi szerv köteles a földhasználót a kaszálásra, illetve betakarításra vonatkozó feltételekről tájékoztatni. Amennyiben a megadott határidőn belül nem érkezik válasz, akkor a megkezdett munkavégzés a terület bármely részén folytatható;
+
+k) a vetésváltás szabályainak betartása;
+
+l) a célprogram 5 éve alatt a célprogramba bevitt teljes területen a következő vetésszerkezet betartása kötelező fővetésű növények tekintetében: legalább 30% kalászos gabona, legalább 20% szemeskukorica, legalább 20% szálas pillangós takarmánynövény (szálas pillangósok, vagy azok keveréke, illetve füves keveréke), legalább 20% zöldugar, legfeljebb 10% egyéb kultúra;
+
+m) a szemeskukorica egy vagy több táblán elhelyezkedő teljes területének legalább 10%-án betakarítás előtt az érett állapotban lévő, lábon álló kukoricát szárzúzóval le kell zúzni, és a területet műveletlenül kell hagyni legalább február 28-ig.
+
+(5) A támogatás mértéke a célprogramba bevitt terület után 173 euró/ha-nak megfelelő forintösszeg.

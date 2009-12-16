@@ -1,0 +1,17 @@
+## Állategységhez kötött jogosultsági szempontok
+
+10. § (1) A 3. § (1) bekezdés b) pontjában, valamint d) pontjának db)–dc) alpontjaiban meghatározott célprogramok esetében a támogatásra az a kérelmező jogosult, aki a II. fejezet szerinti legeltethető állatokra vonatkozóan a támogatási időszak teljes időtartama alatt a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet alapján vezetett nyilvántartásban az állatállomány tartójaként szerepel, valamint eleget tesz:
+
+a) szarvasmarhafélékre vonatkozóan a szarvasmarha fajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 99/2002. (XI. 5.) FVM rendeletben,
+
+b) lófélékre vonatkozóan az egyes állatfajok egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 29/2000. (VI. 9.) FVM rendeletben,
+
+c) juh-, kecskefajokra vonatkozóan a juh- és kecskefajok egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 47/2005. (V. 23.) FVM rendeletben
+
+## előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek.
+
+(2) A kifizetési kérelem adminisztratív ellenőrzése során az állategységhez kötött jogosultság vizsgálatakor az (1) bekezdés a)–c) pontjaiban hivatkozott nyilvántartásokban szereplő, az egyes célprogramokon belül legeltethető fajok esetében a kérelem benyújtásának gazdálkodási évére meghatározott napi állományadatok éves átlaga alapján számított állategységet kell figyelembe venni, amelyet a Mezőgazdásági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kizárólag az (1) bekezdésben hivatkozott nyilvántartásokból állapít meg.
+
+(3) A célprogramra vonatkozó előírások teljesítésének helyszíni ellenőrzése során az állategység a gazdálkodási napló adatai alapján kerül meghatározásra.
+
+(4) A bérlegeltetés keretén belül legeltetett állatok a célprogramra vonatkozó előírások teljesítésének helyszíni ellenőrzése során figyelembe vehetők, azonban a jogosultsági feltételek megállapításakor nem.
