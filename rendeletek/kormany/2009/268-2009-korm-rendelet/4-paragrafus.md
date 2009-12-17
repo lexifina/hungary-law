@@ -1,0 +1,1 @@
+## 3. § A nem független vasúti pályahálózat-működtető köteles a Hálózati Üzletszabályzat elkészítéséhez szükséges adatokat annak közzétételére külön jogszabályban előírt időpont előtt legkésőbb kilencven nappal, módosítás esetén pedig haladéktalanul a VPSZ rendelkezésére bocsátani.
