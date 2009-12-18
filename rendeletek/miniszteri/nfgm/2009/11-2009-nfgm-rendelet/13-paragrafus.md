@@ -1,0 +1,5 @@
+13. § (1) Az EGT, Norvég Alap támogatásból megvalósuló projektek (XIX. fejezet 2. cím 6. alcím 4. jogcímcsoport) vonatkozásában a támogatási konstrukció meghirdetését mint előzetes kötelezettségvállalást az NFÜ elnöke hagyja jóvá.
+
+(2) A PROMEI Modernizáció és Euroatlanti Integrációs Projektiroda Kht., a PÓLUS Programiroda Kht., továbbá a Regionális Fejlesztési Ügynökségek részére a „Végrehajtás Operatív Program” előirányzatból nyújtható támogatás, melynek összegét az NFÜ támogatási szerződésben, az annak mellékletét képező költségvetési terv alapján állapítja meg. A támogatás kizárólag a Végrehajtás Operatív Programban, valamint annak akcióterveiben meghatározott támogatható tevékenységek ellátására használható fel.
+
+(3) A XIX. fejezet 2. cím 7. alcím 6. jogcímcsoporthoz tartozó, a 2007-től induló EU-nagyberuházások és komplex programok előkészítése előirányzat-maradványból nyújtott támogatások feltételei tekintetében a 2007 utáni EU támogatásokhoz kapcsolódó tervezés és EU-nagyberuházások előkészítése fejezeti kezelésű előirányzat felhasználásának szabályairól szóló 29/2005. (VII. 22.) TNM rendelet rendelkezései irányadók.

@@ -1,0 +1,1 @@
+## 9. § Az előirányzatoknak a 8. §-ban meghatározottak szerinti felhasználásáról a fejezetet irányító szerv vezetője dönt azzal a korlátozással, hogy amennyiben az előirányzat-felhasználás összege a 8. § b) és c) pontjában meghatározott esetekben eléri projektenként, illetve összesen a 300 millió forintot, akkor a pénzügyminiszter jóváhagyása szükséges.
