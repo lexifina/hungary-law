@@ -1,0 +1,1 @@
+31. § A Kormány 2009. december 31-ig nyilvános határozatában engedélyezheti a központi költségvetést megillető követelésről történő lemondást legfeljebb 19 milliárd Ft összegben, ha arra az elengedett követelés összegét meghaladó vagyoni hátrány megakadályozása érdekében kerül sor, vagy ha a követelés elengedését kiemelt nemzetgazdasági érdek indokolja.

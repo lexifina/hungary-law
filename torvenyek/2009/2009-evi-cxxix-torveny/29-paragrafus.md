@@ -1,0 +1,1 @@
+29. § Az Országgyűlés felhatalmazást ad arra, hogy az Erzsébet téri kulturális központ és park helyzetének rendezésére fordított beruházás könyv szerinti értéken, 1226,3 millió forinttal, az Oktatási és Kulturális Minisztérium könyvviteli nyilvántartásából kivezetésre kerüljön és egyidejűleg azt a Budapest Főváros Önkormányzat a könyvviteli nyilvántartásába bevételezze.

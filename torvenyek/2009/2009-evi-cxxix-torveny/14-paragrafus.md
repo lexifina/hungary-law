@@ -1,0 +1,1 @@
+14. § Az Országgyűlés jóváhagyja, hogy a Költségvetési Törvény 7. §-a (2) bekezdésének felhatalmazása szerint a Magyar Nemzeti Vagyonkezelő Zrt. – a Kormány jóváhagyása alapján – 2008. év folyamán 4608 millió forint összegű tulajdonosi kölcsönt nyújtott állami tulajdonú gazdasági társaságok részére.

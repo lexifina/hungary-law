@@ -1,0 +1,5 @@
+## NEGYEDIK RÉSZ
+
+## ZÁRÓ RENDELKEZÉSEK
+
+27. § Ez a törvény a kihirdetését követő 8. napon lép hatályba.

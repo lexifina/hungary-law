@@ -1,0 +1,1 @@
+25. § Az Országgyűlés tudomásul veszi, hogy a Magyar Köztársaság 2007. évi költségvetésének végrehajtásáról szóló 2008. évi LXXVIII. törvény 16. §-ában és 18. §-ában előírt megtérítési kötelezettségek teljesítése megtörtént.

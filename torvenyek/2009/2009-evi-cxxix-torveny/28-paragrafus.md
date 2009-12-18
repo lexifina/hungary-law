@@ -1,0 +1,1 @@
+28. § Felhatalmazást kap az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter, hogy az e törvény 7. § (1)–(2), és (5)–(8) bekezdésében foglaltakat rendeletben hirdesse ki.
