@@ -1,0 +1,1 @@
+A Kormány a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (10) bekezdésében, valamint a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 203. § (2) bekezdésének d) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
