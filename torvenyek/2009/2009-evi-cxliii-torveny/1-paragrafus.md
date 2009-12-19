@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és a Macedón Köztársaság Kormánya között, a katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló Egyezmény (a továbbiakban: szerződés) kötelező hatályának elismerésére.
