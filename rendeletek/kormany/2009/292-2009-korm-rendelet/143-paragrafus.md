@@ -1,0 +1,5 @@
+## A pályázatok elbírálása
+
+143. § (1) A Kincstár a döntés-előkészítés folyamatában adatot szolgáltat a monitoring rendszerben regisztrált adatokról. Az azonos célú előirányzatok kezelői a támogatási konstrukció regisztrálása után lekérdezési lehetőséget kapnak elektronikus módon a támogatás igénylőinek a monitoring rendszerben regisztrált adatairól, vagy – amennyiben az elektronikus adatszolgáltatás nem a Kincstár által meghatározott rögzítő felületen keresztül történik – a támogatás igénylői adatainak feldolgozását követően automatikus válaszban értesülnek azok vonatkozó monitoring információiról.
+
+(2) Az azonos célú előirányzat kezelője a jóváhagyott költségvetésből nyújtott támogatásokról a támogatási döntést követő tíz munkanapon belül a 9. számú melléklet szerinti adatokat a Kincstár által meghatározott felületen berögzíti, vagy megküldi elektronikus módon a monitoring rendszer részére. Több azonos célú előirányzat forrásaira benyújtott pályázat esetén a támogató döntéséről a többi érintett azonos célú előirányzat kezelőjét is tájékoztatja.

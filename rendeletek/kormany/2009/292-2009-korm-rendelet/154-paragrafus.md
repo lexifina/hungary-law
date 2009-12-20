@@ -1,0 +1,7 @@
+## A FEJLESZTÉSI CÉLÚ TÁMOGATÁSSAL MEGVALÓSULÓ, BEFEJEZETT BERUHÁZÁSOKHOZ PÓTLÓLAGOSAN REALIZÁLT BEVÉTELEK ELSZÁMOLÁSA
+
+154. § (1) Amennyiben a fejlesztési célú költségvetésből nyújtott támogatásban részesülő helyi önkormányzat, központi költségvetési szerv az Áht. 101. §-ának (10) bekezdése szerinti pótlólagos bevételhez jut, visszafizetési kötelezettségének összegét beruházásonként, a 11. számú melléklet szerint mutatja ki. Ha az adott beruházásra több jogcímen kapott – hazai, illetve európai uniós forrásból származó – költségvetésből nyújtott támogatást, a 12. számú melléklet szerint kell meghatározni a beruházás átlagos támogatási intenzitását, aminek arányában vissza kell fizetni a pótlólagos bevételre jutó költségvetésből nyújtott támogatást. A helyi önkormányzat, központi költségvetési szerv a kitöltött melléklet(ek)et a beruházás üzembe helyezését követő hatvan napon belül küldi meg a Kincstárnak.
+
+(2) A helyi önkormányzat, központi költségvetési szerv a központi költségvetést megillető összeget az (1) bekezdés szerinti elszámolási határidőt követő harminc napon belül visszafizeti.
+
+(3) Ha a visszafizetési kötelezettséget a (2) bekezdésben foglalt határidőig nem teljesítik, a jogosulatlanul igénybe vett támogatást – a (2) bekezdés szerinti határidőtől a visszafizetés napjáig számított – jegybanki alapkamat kétszeresének megfelelő mértékű kamattal terhelten kell visszafizetni.

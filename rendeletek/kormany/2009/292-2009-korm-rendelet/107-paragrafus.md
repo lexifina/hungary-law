@@ -1,0 +1,1 @@
+## 106. § Az országos kisebbségi önkormányzat közgyűlése dönthet a központosított illetményszámfejtés igénybevételéről, erről az országos kisebbségi önkormányzat elnöke a Kincstárt értesíti. A központosított illetményszámfejtéssel kapcsolatos feladatokat a Kincstár ingyenesen látja el.

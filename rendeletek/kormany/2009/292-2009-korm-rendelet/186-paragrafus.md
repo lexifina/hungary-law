@@ -1,0 +1,1 @@
+## 185. § Az OEP és az ONYF a társadalombiztosítás pénzügyi alapjai éves költségvetési beszámolójának benyújtásával egy időben nyújtja be a Pénzügyminisztérium részére a társadalombiztosítási szervek által folyósított, a központi költségvetésből finanszírozott ellátások részletes elszámolását, ideértve a működési költségtérítést és a postaköltséget is.

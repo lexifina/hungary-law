@@ -1,0 +1,7 @@
+18. § (1) A gazdasági vezetőnek – a (2)–(4) bekezdésben foglalt kivétellel – a felsőoktatásban szerzett pénzügyi-számviteli végzettséggel, vagy a felsőoktatásban szerzett egyéb végzettséggel, szakképzettséggel és emellett legalább államháztartási mérlegképes könyvelői képesítéssel kell rendelkeznie. A gazdasági vezetőnek a könyvviteli szolgáltatás körébe tartozó feladatok ellátása tekintetében szerepelnie kell a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) 151. §-ának (3) bekezdése szerinti nyilvántartások valamelyikében, továbbá rendelkeznie kell a tevékenység ellátására jogosító engedéllyel (igazolvánnyal).
+
+(2) Amennyiben az Szt. 150. §-a szerinti könyvviteli szolgáltatási feladatokat a gazdasági vezető irányítása alá tartozó személy látja el, ez utóbbi személynek kell rendelkeznie az (1) bekezdés szerinti számviteli képesítéssel és a tevékenység ellátására jogosító engedéllyel.
+
+(3) A községi, nagyközségi önkormányzat irányítása alá tartozó költségvetési szerv esetén a gazdasági vezető tekintetében a 19. § (1) bekezdésében foglalt követelmények alkalmazandók.
+
+(4) A (1) bekezdésben foglalt előírások alól abban az esetben adható a kinevezéskor (megbízáskor) felmentés, ha az adott személy költségvetési szervnél legalább ötéves gazdasági vezetői gyakorlattal rendelkezik, és az e §-ban foglaltaknak megfelelő végzettség (képesítés) megszerzéséhez a tanulmányait már megkezdte.

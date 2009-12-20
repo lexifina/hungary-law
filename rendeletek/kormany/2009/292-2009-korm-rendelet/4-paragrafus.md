@@ -1,0 +1,5 @@
+4. § (1) Az elkülönített állami pénzalapok költségvetését az elkülönített állami pénzalapok kiadásainak és bevételeinek teljes körű előirányzatai alkotják.
+
+(2) A társadalombiztosítás költségvetését és a költségvetés végrehajtását a társadalombiztosítás pénzügyi alapjai – a társadalombiztosítási költségvetési szervek bevételeit és kiadásait is magában foglaló – kiadásainak és bevételeinek teljes körű előirányzatai és azok teljesítésének elszámolása alkotják.
+
+(3) Törvény eltérő rendelkezése hiányában a központi kezelésű előirányzatok, a fejezeti kezelésű előirányzatok és az alapok az államháztartás központi alrendszerén belüli gazdálkodáshoz szükséges pénzügyi eszközökkel rendelkeznek, azonban elkülönült jogi személyiséggel nem bírnak, munkáltatóként munkaerőt nem foglalkoztathatnak, az Áht.-ban meghatározott esetek kivételével immateriális javakkal, tárgyi eszközökkel, értékpapírokkal, valamint készletekkel nem rendelkezhetnek. A gazdálkodási, könyvvezetési, adatszolgáltatási feladatokat a központi, fejezeti kezelésű előirányzat, alap kezelő szerve látja el.
