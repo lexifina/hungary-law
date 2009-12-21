@@ -1,0 +1,287 @@
+# A Kormány 296/2009. (XII. 21.) Korm. rendelete
+
+Magyar Közlöny 2009. évi 188. szám, 2009. december 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/58be964204b2b444b94293a62864329d9e07bf41/dokumentumok/ba1cea02810d82f100d48bb3d898942bf589f978/letoltes)
+
+---
+
+A Kormány 296/2009. (XII. 21.) Korm. rendelete
+az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési
+engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet módosításáról
+Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. §
+(1) bekezdés b) pontjában megállapított feladatkörében eljárva a Kormány a következőket rendeli el:
+1. §
+(1) Az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló
+96/2003. (VII. 15.) Korm. rendelet (a továb biak ban: R.) 2. § (1) bekezdés f) és g) pontja helyébe a következő rendelkezés
+lép:
+[E rendelet alkalmazásában]
+„f) szakmai szervezeti egység: az egészségügyi szolgáltató működési engedéllyel rendelkező, szervezetileg elkülönült
+alapegysége, amely az egészségügyi szakma gyakorlásának végzéséhez megfelelő tárgyi és személyi feltételekkel,
+valamint a szakmai működésért felelős vezetővel rendelkezik, és amelyen belül egy szakma, illetve egy
+szaktevékenység végezhető;
+g) szaktevékenység: külön jogszabály szerinti besorolás alapján az egészségügyi szakmán belül önállóan végezhető
+tevékenységek összessége, szakdolgozói szaktevékenység esetén megfelelő szakképesítés birtokában más
+tevékenységtől függetlenül végezhető tevékenység;”
+(2) Az R. 2. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
+[E rendelet alkalmazásában]
+„i) telephely:
+az
+egészségügyi
+szolgáltatás
+végzésének
+a
+székhelytől,
+ illetve
+másik
+telephelytől
+az ingatlan-nyilvántartásban eltérő helyrajzi számon feltüntetett helyszíne, ahol egy vagy több szakmai szervezeti
+egység feladatát látják el;”
+(3) Az R. 2. § (1) bekezdés k) pontja helyébe a következő rendelkezés lép, ezzel egyidejűleg a bekezdés a következő
+l)–n) ponttal egészül ki:
+[E rendelet alkalmazásában]
+„k) közreműködő: a szakmai szervezeti egység tevékenységéhez kapcsolódó, az egészségügyi szolgáltatás
+nyújtásában részt vevő személy vagy szervezet, amely közreműködői szerződés alapján, közvetlenül, működési
+engedély és felelősségbiztosítási szerződés birtokában, a szervezeti egység által nyújtott szakma keretein belül és
+– amennyiben szükséges – a saját tulajdonában vagy használatában levő eszközökkel, személyesen, vagy az általa
+foglalkoztatott egészségügyi dolgozókkal a közreműködést igénybe vevő szolgáltató szervezeti egysége által ellátott
+betegek részére nyújt egészségügyi szolgáltatást;
+l) változó helyszínen végzett egészségügyi szolgáltatás: a szolgáltatás jellegéből adódóan az egészségügyi
+szolgáltató székhelyétől vagy telephelyétől eltérő helyszínen nyújtott egészségügyi szolgáltatás;
+
+m) mozgó egészségügyi szolgáltatás: az egészségügyi szolgáltató által nem helyhez kötötten, rendszeresen nyújtott
+egészségügyi szolgáltatás;
+n) ellátási forma: az egészségügyi szakma, szaktevékenység gyakorlásának szervezési kerete.”
+2. §
+Az R. 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Nem kell külön működési engedélyt kiadni a bentlakásos szociális intézményeknek a külön jogszabályban
+meghatározott kötelező szolgáltatásai körébe tartozó egészségügyi szolgáltatásokra. Ez a rendelkezés nem zárja ki azt,
+hogy a bentlakásos szociális intézmény – az adott szolgáltatásra vonatkozó feltételek teljesítése esetén – egészségügyi
+szolgáltatás nyújtására működési engedélyt szerezhessen.”
+3. §
+(1) Az R. 7. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az otthoni szakápolásra vonatkozó működési engedélyt a szolgáltató székhelye szerinti kistérségi intézet adja ki.
+A határozatot közölni kell a szolgáltató ellátási területéhez tartozó települések szerint ille té kes kistérségi intézetekkel.”
+(2) Az R. 7. §-a a következő (8) és (9) bekezdéssel egészül ki:
+„(8) Változó helyszínen végzett egészségügyi szolgáltatás esetén az engedélyezés feltételeit a székhely vagy telephely
+tekintetében kell vizsgálni, a változó helyszínen a szolgáltatásnyújtás időtartama alatt ellenőrizhető
+a közegészségügyi, valamint a személyi és tárgyi feltételek biztosítása.
+(9) Változó helyszínen végzett egészségügyi szolgáltatás és mozgó egészségügyi szolgáltatás esetén a szolgáltató
+a székhelyétől vagy telephelyétől eltérő helyszínen végzett tevékenységét 3 nappal korábban bejelenti a kistérségi
+intézetnek. A kistérségi intézet a tevékenység végzése során akkor is jogosult helyszíni ellenőrzést tartani, ha
+az engedélyt nem ő adta ki.”
+4. §
+(1) Az R. 8. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[A kérelemben fel kell tüntetni]
+„a) a kérelmező telephelyét, valamint a megye és a régió megnevezését;”
+(2) Az R. 8. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+[A kérelemben fel kell tüntetni]
+„d) az ellátni kívánt egészségügyi szakma (szakmák), szaktevékenységek megnevezését, progresszivitási szintjét,
+ellátási formáját;”
+(3) Az R. 8. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+[A kérelemhez mellékelni kell]
+„f) az egészségügyi szakma (szakmák) ellátásához szükséges tárgyi és személyi feltételek – ideértve a progresszivitási
+szinthez kapcsolódó feltételeket is – meglétére vonatkozó tételes nyilatkozatot,”
+(4) Az R. 8. § (2) bekezdése a következő h)–j) ponttal egészül ki:
+[A kérelemhez mellékelni kell]
+„h) közreműködő szolgáltató igénybevétele esetén a közreműködői szerződés másolatát,
+i) szakmai szervezeti egységenként a közfinanszírozásban való részvételre vonatkozó szándéknyilatkozatot, vagy
+a közfinanszírozásban való részvételre vonatkozó dokumentumokat,
+j) az egészségügyi szolgáltatás működtetéséhez kapcsolódó, a Melléklet szerinti szakmai programot.”
+(5) Az R. 8. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A működési engedélyezési eljárásban az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem
+támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést,
+és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.”
+5. §
+Az R. 9. § (2)–(4) bekezdése helyébe a következő rendelkezés lép:
+„(2) Ha a szolgáltató a 8. § (2) bekezdés i) pontja szerinti nyilatkozatot tesz, az egészségügyi államigazgatási szerv
+ellenőrzi, hogy
+a) a szolgáltató rendelkezik-e az egészségbiztosító által befogadott kapacitással vagy vonatkozásában elő ze tes
+kapacitásbefogadási eljárás folyamatban van-e,
+b) a szolgáltató rendelkezik-e kapacitás-átcsoportosítás keretében biztosított kapacitással,
+c) a szolgáltató nyújtott-e be kérelmet az engedéllyel érintett szakma tekintetében kapacitás biztosítására.
+
+(3) A (3) bekezdés szerinti ellenőrzés keretében az egészségügyi államigazgatási szerv beszerzi az egészségbiztosító
+nyilatkozatát a közfinanszírozásban való részvétel lehetőségéről az engedéllyel érintett szakmai szervezeti egység
+tekintetében.
+(4) Amennyiben az egészségügyi szolgáltatónál olyan szervezeti változás következik be, amely nem érinti a székhelyet,
+telephelyet és a szakmai struktúrát, a jogutód egészségügyi szolgáltató működési engedély kiadása iránti eljárásban
+a) helyszíni szemlét nem szükséges tartani,
+b) a tárgyi és személyi feltételek ellenőrzésére a szolgáltató személyében történő változás bejelentését követő
+120 munkanapon belül kerül sor.”
+6. § (1) Az R. 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A működési engedély tartalmazza:
+a) az egészségügyi szolgáltató 8. § (1) bekezdés a) pontjában meghatározott adatait, és az egészségügyi szolgáltatók
+nyilvántartásában a szolgáltatónak megállapított egyedi azonosító számot,
+b) a szakmai szervezeti egység pontos megnevezését, illetve az osztály, mátrix osztály megnevezését,
+c) a szakmai szervezeti egység számára az egészségügyi szolgáltatók nyilvántartása alapján megállapított egyedi
+azonosító számot,
+d) az egészségügyi szolgáltató által végezhető szakmákat, szaktevékenységeket és ezek – külön jogszabályban
+meghatározott – egészségügyi szakmakódját vagy szaktevékenység kódját,
+e) szakmánként, szükség esetén szaktevékenységenként az ellátás progresszivitási szintjét, az adott progresszivitási
+szintre meghatározott szolgáltatásokra, tevékenységekre vonatkozó korlátozásokat és az ellátás formáját,
+f) a szakmai szervezeti egység engedélyének státuszát (határozatlan, átmeneti engedély),
+g) amennyiben a szakmai szervezeti egység működésének korlátozására (szüneteltetés vagy felfüggesztés) kerül sor,
+ennek tényét és határidejét,
+h) közfinanszírozott és nem közfinanszírozott bontásban a fekvőbeteg-szakellátást nyújtó szakmai szervezeti egység
+ágyszámát, az osztály ágyszámát,
+i) járóbeteg-szakellátás nyújtása esetén – közfinanszírozott és nem közfinanszírozott bontásban – a heti rendelési időt
+(óraszám/hét) napi bontásban,
+j) alapellátás nyújtása esetén – közfinanszírozott és nem közfinanszírozott bontásban – a rendelési időt és
+a rendelkezésre állás idejét napi bontásban,
+k) ha az egészségügyi szolgáltató területi ellátási kötelezettséggel működik, az ellátási terület megjelölését, a területi
+ellátási kötelezettség nélkül működő egészségügyi szolgáltató esetén a kérelemben megjelölt működési területet,
+l) az egyes szolgáltatások ellátásának pontos helyszínét – ide nem értve a beteg otthonában nyújtott szolgáltatást,
+a mentést, a betegszállítást, valamint a mozgó szakorvosi szolgálatot,
+m) az ügyeleti, készenléti rendszerben való közreműködés módját,
+n) az egészségügyi alapellátásban gyakorolt szakmák esetén a tevékenységet végző nevét és orvosi bélyegzője
+számát vagy a működési nyilvántartási számát, a helyettesítés rendjét, a helyettesítő személy nevét és orvosi
+bélyegzője számát vagy működési nyilvántartási számát,
+o) a közreműködő szolgáltató igénybevételének tényét,
+p) a közreműködő szolgáltató nevét és egyedi azonosítóját,
+q) a közreműködő szolgáltató szakmai szervezeti egységének egyedi azonosítóját,
+r) a közreműködés tartalmát (személyi, vagy személyi és tárgyi feltételek biztosítása).
+Amennyiben a szolgáltató több önálló szakmai szervezeti egységgel rendelkezik, akkor a b)–r) pontban
+meghatározottakat valamennyi szakmai szervezeti egységre vonatkozóan fel kell tüntetni.”
+(2) Az R. 11. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Amennyiben a kérelmező nem felel meg a jogszabályban előírt követelményeknek, a működési engedély iránti
+kérelmet – a 13. §-ban meghatározott eset kivételével – a kistérségi vagy regionális intézet elutasítja. Az elutasító
+határozatot – a (3) bekezdés d) pontjában foglalt szervet kivéve – közölni kell a (3) és (4) bekezdésben foglalt
+szervekkel. Amennyiben a kérelmező a kérelemben megjelölt szakmán belül csak egyes szolgáltatások tekintetében
+felel meg a jogszabályban előírt követelményeknek, a működési engedélyt ezekre a szolgáltatásokra kell megadni.”
+
+(3) Az R. 11. §-a a következő (6) és (7) bekezdéssel egészül ki:
+„(6) A külön jogszabály szerinti mátrix formában működtetett szervezeti egység (a továb biak ban: mátrix osztály)
+részére kiadott működési engedély tartalmazza:
+a) az egészségügyi szolgáltató által mátrix osztály keretében végezhető szakmákat, szaktevékenységeket, vagy
+a szakmán, szaktevékenységen belüli egyes szolgáltatásokat és ezek – külön jogszabályban meghatározott –
+egészségügyi szakmakódjait vagy szaktevékenység kódjait,
+b) a mátrix osztály progresszivitási szintjét,
+c) a mátrix osztály engedélyének státuszát (határozatlan, átmeneti engedély),
+d) amennyiben a mátrix osztály működésének korlátozására (szünetelés, felfüggesztés) kerül sor, ennek tényét és
+határidejét,
+e) a mátrix osztály összes ágyszámát, és a mátrix osztályon belüli, külön jogszabály szerinti bázis ágyszámot
+szakmánként vagy szaktevékenységenként,
+f) ha a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató területi ellátási kötelezettséggel működik, a mátrix
+osztályok – szükség szerint szakmánként eltérő – ellátási területét.
+(7) A közreműködő részére kiadott működési engedélyben – a (2) bekezdésben meghatározottakon túl – rögzíteni
+kell a közreműködés tényét és a közreműködés tartalmára vonatkozó adatokat.”
+7. §
+Az R. 12. §-a és az azt megelőző alcím helyébe a következő rendelkezés lép:
+„Közreműködő részvétele az egészségügyi szolgáltatás nyújtása során
+12. § (1) Közreműködő igénybevételére a szakmai szervezeti egység működéséhez kapcsolódóan közreműködői
+szerződés alapján kerülhet sor.
+(2) A közreműködői szerződés határozatlan időtartamra szól. A közreműködő további közreműködői szerződést nem
+köthet.
+(3) A közreműködői szerződés kötelezően tartalmazza:
+a) a közreműködést igénybevevő és a közreműködő egészségügyi szolgáltató adatait,
+b) a közreműködéssel érintett egészségügyi szakmát és a közreműködés keretében végzett szaktevékenységet,
+c) a közreműködés keretében végzett szaktevékenység során felmerülő felelősségvállalásra vonatkozó szabályokat,
+d) a közreműködés keretében végzett szaktevékenység végzéséhez szükséges feltételek biztosítására vonatkozó
+kötelezettségvállalást,
+e) amennyiben közfinanszírozás keretében kerül sor a közreműködői szerződés megkötésére, a közfinanszírozás
+körébe tartozó ellenszolgáltatás elszámolására vonatkozó szabályokat,
+f) a személyi feltételek teljesítésére kötött közreműködői szerződés esetében a munkavégzést végző személy
+(személyek) nevét, működési nyilvántartásban való azonosítóját, a munkavégzés időtartamát, a munkavégzéssel
+összefüggő egyéb kérdéseket,
+g) a személyi és tárgyi feltételek teljesítésére kötött közreműködői szerződés esetében az f) pontban
+meghatározottakon túl a tárgyi feltételek elérhetőségének, biztosításának jellegére vonatkozó nyilatkozatot,
+h) a szolgáltatás szerződésszegés esetén történő folyamatos biztosítására vonatkozó feltételeket, a szerződés
+felmondásának szabályait, a felmondás határidejét, figyelemmel a szolgáltatás folyamatos biztosításának
+kötelezettségére,
+i) a vitás kérdések rendezésének eljárási szabályait.”
+8. §
+Az R. 15. §-a helyébe a következő rendelkezés lép:
+„15. § (1) Amennyiben új vagy módosított szakmai minimumfeltételt előíró jogszabály kerül kihirdetésre,
+az egészségügyi szolgáltató – ha jogszabály eltérően nem rendelkezik – a jogszabály hatálybalépésétől számított
+45 munkanapon belül bejelenti a működési engedélyt kiadó egészségügyi államigazgatási szervnek szolgáltatásainak
+az új vagy módosított szakmai minimumfeltételnek való megfelelését.
+(2) Ha az (1) bekezdésben meghatározott határidő alatt az egészségügyi szolgáltató nem tesz bejelentést,
+az egészségügyi államigazgatási szerv – legfeljebb 22 munkanapos határidő tűzésével – felhívja a szolgáltatót
+a bejelentés pótlására. Amennyiben a szolgáltató ezt a határidőt is elmulasztja, az egészségügyi államigazgatási szerv
+a határidő elmulasztásától számított 60 munkanapon belül az új vagy módosított szakmai minimumfeltételnek való
+megfelelés megvizsgálása érdekében ellenőrzést végez, amelynek keretében a 16. § (2) bekezdésében meghatározott
+intézkedéseket teheti.
+
+(3) Ha az új vagy módosított szakmai minimumfeltételt előíró jogszabály a működési engedély módosítását is
+szükségessé teszi – és a szolgáltató az új vagy módosított minimumfeltételeknek megfelel –, a kistérségi, illetve
+a regionális intézet a működési engedélyt a bejelentéstől számított 45 munkanapon belül hivatalból módosítja.
+(4) A működési engedély 14. §, illetve e § szerinti módosításáról szóló határozatot közölni kell a 11. § (3) bekezdésében
+felsorolt szervekkel.”
+9. §
+Az R. 16. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az egészségügyi államigazgatási szerv – a 9. §-ban meghatározott ellenőrzésen kívül – előre meghatározott és
+közzétett ütemezés szerint végzi az egészségügyi szolgáltatók ellenőrzését.
+(2) Az ellenőrzés megállapításai alapján az engedélyező egészségügyi államigazgatási szerv a jogszabálysértés vagy
+szakmai szabályszegés jellegének, súlyának az egészségügyi ellátásra nézve okozott sérelem nagyságának
+mérlegelésével az alábbi jogkövetkezményeket alkalmazhatja:
+a) amennyiben az észlelt hiányosságok jellege intézkedési kötelezettséget igényel a szolgáltató részéről, intézkedési
+tervet kér a szolgáltatótól,
+b) az egészségügyi szolgáltatót legfeljebb 90 napos határidő tűzésével felszólítja az észlelt hiányosságok vagy
+a bejelentési kötelezettségben foglaltak pótlására,
+c) tárgyi feltételek hiánya esetén, ha a hiányosságok jellege indokolja, hatósági szerződést köthet az egészségügyi
+szolgáltatóval a hiányosságok pótlásának ütemezésére,
+d) az egészségügyi szolgáltató szakmai szervezeti egysége engedélyét felfüggeszti,
+e) közfinanszírozott egészségügyi szolgáltatónak a működési engedélyétől eltérő működése esetén kezdeményezi
+az egészségbiztosítónál a finanszírozás részleges felfüggesztését, vagy visszavonását,
+f) a szolgáltató progresszivitási szintjét visszaminősíti,
+g) ha a szolgáltató a kitűzött határidőre vonatkozó kötelezettségét, vagy az intézkedési tervben, illetve a hatósági
+szerződésben vállalt kötelezettségét nem teljesíti, a működési engedélyt visszavonja.”
+10. §
+Az R. e rendelet melléklete szerinti melléklettel egészül ki.
+11. §
+(1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – 2010. január 1-jén lép hatályba.
+(2) Az 1–10. §, a (3)–(6) bekezdés, a (7) bekezdés a) pontja és a Melléklet 2010. július 1-jén lép hatályba.
+(3) A 2010. július 1-jén hatályos működési engedéllyel rendelkező egészségügyi szolgáltató működési engedélyét az R.
+e rendelettel módosított szabályainak meg fele lően az első változásbejelentés alkalmával az engedélyező
+egészségügyi államigazgatási szerv hivatalból, a bejelentéstől számított 45 munkanapon belül módosítja. Ha
+az egészségügyi szolgáltató 2010. december 31-ig nem jelent be változást, az egészségügyi államigazgatási szerv
+hivatalból kezdeményezi a működési engedély felülvizsgálatát.
+(4) 2010. június 30-át köve tően ideiglenes működési engedély nem adható ki. A 2010. július 1-jén hatályban lévő
+ideiglenes működési engedély alapján az egészségügyi szolgáltató az ideiglenes működési engedélyben
+meghatározott időtartamig működhet, az a továb biak ban nem hosszabbítható meg.
+(5) Ha az egészségügyi szolgáltató a 2010. július 1-jét megelőzően hatályos szabályok szerint vesz igénybe
+közreműködőt, az R. e rendelettel módosított szabályainak megfelelő közreműködői szerződést 2010. december 31-ig
+köteles megküldeni a működési engedélyt kiadó egészségügyi államigazgatási szervnek.
+(6) Hatályát veszti az R.
+a)
+9. § (1) bekezdésének felvezető szövegében a „tárgyi” szövegrész,
+b)
+11. § (1) bekezdése,
+c)
+13. §-ának utolsó mondata,
+d)
+14. § (2), (4) és (5) bekezdése.
+
+(7) Az R.
+a)
+9. § (1) bekezdésében az „az egészségügyi szolgáltatás megkezdésének bejelentésétől számított” szövegrész
+helyébe az „a működési engedély jogerőre emelkedésétől számított” szöveg,
+b)
+14/A. § (1) bekezdésében a „helyi önkormányzat az államháztartásról szóló 1992. évi XXXVIII. törvény
+(a továb biak ban: Áht.) 90. §-a (1) bekezdésének c) pontja szerint megszünteti és a feladat ellátására új szervezetet
+hoz létre, vagy a költségvetési szervét átszervezi, illetve a miniszter az Áht. 91/A. §-a szerint az egészségügyi
+szolgáltatást nyújtó központi költségvetési szervet” szövegrész helyébe a „fenntartó a költségvetési szervek
+jogállásáról és gazdálkodásáról szóló tör vény alapján” szöveg
+lép.
+(8) Ez a rendelet 2011. február 1-jén hatályát veszti.
+Bajnai Gordon s. k.,
+miniszterelnök
+Melléklet a 296/2009. (XII. 21.) Korm. rendelethez
+„Melléklet a 96/2003. (VII. 15.) Korm. rendelethez
+Az egészségügyi szolgáltató szakmai programja*
+Az egészségügyi szolgáltatás tevékenységi körének rövid bemutatása, az ellátni kívánt terület szakmai mutatói.
+A szolgáltatásnyújtással összefüggő tevékenységek terén szerzett szakmai tapasztalatok, gyakorlat bemutatása,
+a szolgáltatás szakmai vezetőjének szakmai önéletrajza.
+A működtetéshez rendelkezésre álló infrastruktúra bemutatása, és a szakmai feladatok ellátásának szervezése.
+A szolgáltatásnyújtáshoz szükséges humán erőforrás szakmai szervezeti egységenként (létszám, szakmai végzettség,
+nyilvántartásban való regisztráció igazolása, munkaköri vagy tevékenységi leírások).
+Munkaszervezés bemutatása, ápolási ellátási rend tervezete, ápolási és gondozási folyamatok bemutatása, beteg
+edukáció, ápolási dokumentáció tervezete, vezetési rendje, adatvédelmi követelményeknek való megfelelés.
+Egyes kisegítő folyamatok bemutatása, (étkeztetés, betegszállítás, takarítás, veszélyes hulladék elszállítás, mosodai
+szolgáltatás, sterilizálás).
+A szolgáltatónál működő infekciókontroll, antibiotikum politika főbb elemei.
+A működtetni kívánt belső minőségügyi rendszer tervezett elemei, minőségpolitika és minőségügyi célkitűzések.
+Panaszok, reklamációk kezelésének rendje.
+Magánszolgáltatás vagy – a területi ellátási kötelezettség keretében meghatározott ellátási területen kívül –
+a szolgáltató működési területe.
+* Amennyiben az egészségügyi szolgáltatás nem orvosi vagy ápolási szakma vagy szaktevékenység végzésére irányul, a szakmai program tartalmi
+elemeit a szolgáltatás jellege szerinti értelemszerű alkalmazással kell elkészíteni.”
