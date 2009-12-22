@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Kanada Kormánya közötti film és videó kapcsolatokról szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
