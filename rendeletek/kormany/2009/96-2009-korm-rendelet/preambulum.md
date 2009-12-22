@@ -1,0 +1,1 @@
+Az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény 20. § (5) bekezdés a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva, a Kormány a következőket rendeli el:
