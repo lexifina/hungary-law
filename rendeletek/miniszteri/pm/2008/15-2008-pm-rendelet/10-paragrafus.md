@@ -1,0 +1,5 @@
+10. § (1) Az állami adóhatóság a 6. § (2) bekezdés a) pontjában említett mindazon okiratot, amelyet a feljogosított személy, szervezet kérelméhez csatolt, olyan jelzéssel látja el, amely egyértelművé teszi, hogy arra az okiratra a feljogosított személy, szervezet új adó-visszatéríttetési jogot nem alapíthat.
+
+(2) Az (1) bekezdésben meghatározott jelzéssel ellátott okiratot – a 6. § (3) bekezdése szerint rendelkezésre bocsátott okirat kivételével –, valamint a 6. § (2) bekezdésének b) és c) pontjában említett mindazon okiratot, amelyet a feljogosított személy, szervezet kérelméhez csatolt, az állami adóhatóság azok beérkezésétől számított legfeljebb 30 napon belül a feljogosított személy, szervezet címére postai úton visszaküldi.
+
+(3) A (2) bekezdésben foglaltakon kívül a feljogosított személy, szervezet írásban kérheti, hogy a részére visszajuttatandó okiratokat az állami adóhatóság legkésőbb az adó-visszatérítési eljárásban hozott első fokú határozat (végzés) megküldésével egyidejűleg küldje meg.
