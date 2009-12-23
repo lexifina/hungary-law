@@ -1,0 +1,9 @@
+# 37/2009. (XII. 22.) PM rendelet
+
+a függő és független biztosításközvetítői hatósági képzés követelményrendszeréről és a hatósági vizsgáról szóló 18/2008. (VI. 13.) PM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-37-20-53
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-12-23 | 2009-37-20-53.1 | 37/2009. (XII. 22.) PM rendelet |
