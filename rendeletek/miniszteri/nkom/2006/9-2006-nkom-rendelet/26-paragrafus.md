@@ -1,0 +1,3 @@
+26. § (1) A pályázó a támogatási szerződés teljesítéséről, illetve a támogatás felhasználásáról a kollégium által meghatározott szempontok szerinti szakmai beszámolót és pénzügyi elszámolást köteles a szerződésben megjelölt határidőben és módon benyújtani. A szerződés teljesítését szakmai szempontból a miniszteri keret terhére nyújtott támogatás esetén a miniszter által megbízott személy vagy szervezet, egyéb esetben a kollégium – szükség esetén – szakértők bevonásával, pénzügyi szempontból pedig mindkét esetben az Igazgatóság ellenőrzi.
+
+(2) A szakmai és pénzügyi ellenőrzés részletes szempontjait az Ügyrendben kell meghatározni.

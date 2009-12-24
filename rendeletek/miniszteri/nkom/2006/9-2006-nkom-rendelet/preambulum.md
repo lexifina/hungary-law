@@ -1,0 +1,1 @@
+A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény (a továbbiakban: Tv.) 10. §-ának (2) bekezdésében és a Nemzeti Kulturális Alapprogramról szóló 1993. évi XXIII. törvény módosításáról szóló 2005. évi CL. törvény 7. §-ának (2) bekezdésében kapott felhatalmazás alapján az alábbiakat rendelem el:
