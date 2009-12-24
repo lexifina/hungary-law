@@ -1,0 +1,1 @@
+A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény 10. § (2) bekezdésében és 10. § (3) bekezdés c) pontjában kapott felhatalmazás alapján, az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. § d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
