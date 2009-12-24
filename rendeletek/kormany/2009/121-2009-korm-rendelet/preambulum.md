@@ -1,0 +1,1 @@
+Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 14. § (5) bekezdés b)–c) pontjában foglalt felhatalmazás alapján, és az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a Kormány a következőket rendeli el:

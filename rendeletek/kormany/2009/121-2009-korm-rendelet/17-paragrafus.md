@@ -1,0 +1,3 @@
+## 16. § A Vhr. 34. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A kijelölt szerv a szerződésmódosításra irányuló kérelmet értékeli és javaslatával együtt – az adatváltozás miatt szükséges szerződésmódosítás, illetve a (4) bekezdésben foglaltak kivételével – továbbítja a miniszternek, aki 15 napos véleményezési határidővel megküldi az érintett minisztereknek. A vélemények figyelembevételével a módosításról a miniszter, illetve – az adatváltozás miatt szükséges szerződésmódosítás, illetve a (4) bekezdésben foglaltak esetében – a miniszter által megbízott személy 10 napon belül dönt.”
