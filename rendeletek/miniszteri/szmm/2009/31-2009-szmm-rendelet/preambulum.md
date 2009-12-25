@@ -1,0 +1,1 @@
+A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (2) bekezdés a) és b) pontjában kapott felhatalmazás alapján – a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 1. § e) pontjában megállapított feladatkörömben eljárva – a következőket rendelem el:
