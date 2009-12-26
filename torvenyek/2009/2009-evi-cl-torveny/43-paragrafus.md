@@ -1,0 +1,3 @@
+43. § A Hpt. 49. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A pénzügyi intézmény, a pénzforgalmi intézmény és a pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás (ideértve a közvetítőt is) tulajdonosa, a pénzügyi intézményben és a pénzforgalmi intézményben minősített befolyást szerezni kívánó személy, a vezető állású személy, valamint a pénzügyi intézmény, a pénzforgalmi intézmény és a pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás alkalmazottja köteles a pénzügyi intézmény és a pénzforgalmi intézmény működésével kapcsolatban tudomására jutott üzleti titkot – időbeli korlátozás nélkül – megtartani.”

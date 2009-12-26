@@ -1,0 +1,3 @@
+40. § A Hpt. 31. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A pénzügyi intézmény – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a tevékenységi engedélyét a Felügyeletnek, az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatást végző engedélyét az MNB-nek akkor adhatja vissza, ha bizonyítja, hogy pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból származó kötelezettsége nincs. A Felügyelet, valamint az MNB meghatározhatja azokat a feltételeket és előírásokat, amelyek teljesítéséig a pénzügyi intézmény, illetőleg a szolgáltató működését – az arra vonatkozó szabályok szerint – köteles folytatni.”
