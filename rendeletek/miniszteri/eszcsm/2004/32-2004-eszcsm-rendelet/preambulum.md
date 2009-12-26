@@ -1,0 +1,1 @@
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 83. §-a (3) bekezdésének c) pontjában, valamint az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-a (2) bekezdésében foglalt felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
