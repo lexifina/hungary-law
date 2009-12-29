@@ -1,0 +1,3 @@
+4. § (1) A területileg illetékes vám- és pénzügyőri hivatal a fémkereskedelmi engedély iránti kérelem benyújtását követő 10 munkanapon belül a kérelmező telephelyén helyszíni szemlét tart, amelynek időpontjáról előzetesen értesíti az 1. számú melléklet 1.9. pontja szerint megadott kapcsolattartó személyt.
+
+(2) A területileg illetékes vám- és pénzügyőri hivatal a benyújtott fémkereskedelmi engedély iránti kérelemben és az ahhoz csatolt, vagy a helyszínen megtekintett okiratokban, bizonylatokban foglaltak helyszíni ellenőrzésének eredményét a kérelmező jelenlétében felvett jegyzőkönyvben rögzíti.
