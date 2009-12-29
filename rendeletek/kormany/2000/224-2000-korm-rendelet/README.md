@@ -1,0 +1,9 @@
+# 224/2000. (XII. 19.) Korm. rendelet
+
+a számviteli törvény szerinti egyes egyéb szervezetek beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-224-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-12-29 | 2000-224-20-22.11 | 224/2000. (XII. 19.) Korm. rendelet |
