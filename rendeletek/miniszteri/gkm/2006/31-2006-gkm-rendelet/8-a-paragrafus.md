@@ -1,0 +1,1 @@
+## 8. § Szemlére kell bemutatni azt a fegyvert, amelyen a Magyar Köztársaság által elismert külföldi próbajelek (a továbbiakban: elismert próbajel) található, de a vizsgálatról nem rendelkezik tanúsítvánnyal. Az elismert próbajeleket az 1. melléklet tartalmazza.

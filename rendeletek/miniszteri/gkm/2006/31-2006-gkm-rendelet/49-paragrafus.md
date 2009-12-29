@@ -1,0 +1,1 @@
+## 48. § Ez a rendelet a kihirdetését követő 30. napon lép hatályba, egyidejűleg hatályát veszti a polgári kézilőfegyverek, gáz-, riasztó- és légfegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló 64/1996. (XII. 27.) IKIM, valamint az azt módosító 5/1999. (III. 3.) GM és 15/2003. (III. 28.) GKM rendelet.

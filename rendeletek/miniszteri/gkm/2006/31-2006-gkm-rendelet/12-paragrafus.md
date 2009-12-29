@@ -1,0 +1,1 @@
+## 11. § A 7. §-ban előírt időszakos vizsgálatok esetében a 9. § a) pont szerinti vizsgálatokat mindenkor el kell végezni. A 9. § b) vagy c) és d) pontja szerinti vizsgálatokat csak akkor kell végrehajtani, ha a 9. § a) pont szerinti vizsgálatok eredményei alapján kétségesnek ítélhető a fegyver biztonságos működése. A vizsgálati előírásokat a 8. melléklet tartalmazza.
