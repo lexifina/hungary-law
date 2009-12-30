@@ -1,0 +1,1 @@
+A Kormány a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 80. § g) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
