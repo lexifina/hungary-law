@@ -1,0 +1,1 @@
+## 1. § A felsőoktatásról szóló 2005. évi CXXXIX. törvény módosításáról szóló 2009. évi CXXXVIII. törvény 45. §-a alapján, figyelemmel a Kt. 16. §-a (1) bekezdésének b) pontjára és 18. §-ára 2010. január 1-jével Óbudai Egyetem (a továbbiakban: OE) néven önállóan működő és gazdálkodó közszolgáltató közintézet központi költségvetési szerv létesül.
