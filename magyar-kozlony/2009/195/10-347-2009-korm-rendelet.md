@@ -1,0 +1,156 @@
+# A Kormány 347/2009. (XII. 30.) Korm. rendelete
+
+Magyar Közlöny 2009. évi 195. szám, 2009. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/23f07f654cf53636d7b859fa6653684c851ff3b3/dokumentumok/738eac03c9f6a15eb346ef7dd1f0848b3d00bbe8/letoltes)
+
+---
+
+A Kormány 347/2009. (XII. 30.) Korm. rendelete
+a járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök
+és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló
+134/1999. (VIII. 31.) Korm. rendelet módosításáról
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) és x) pontjában foglalt,
+valamint a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános
+szabályairól szóló 2006. évi XCVIII. törvény 77. § (1) bekezdés b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. §
+(1) bekezdés b) pontjában foglalt feladatkörben eljárva a következőket rendeli el:
+1. § (1) A járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához
+nyújtott támogatásokelszámolásárólés folyósításárólszóló134/1999. (VIII. 31.) Korm.rendelet (a továbbiakban:R.) 1. §
+(1)–(2) bekezdése helyébe a következő rendelkezés lép:
+„(1) A járóbeteg-ellátás keretében rendelt, támogatással történő gyógyszer, gyógyászati segédeszköz forgalmazására,
+gyógyászati segédeszköz javítására, kölcsönzésére, valamint gyógyászati ellátások nyújtására az Országos
+Egészségbiztosítási Pénztár területileg illetékes igazgatási szerveivel (a továbbiakban: REP) szerződést kötött
+forgalmazó, gyártó, szolgáltató (a továbbiakban: forgalmazó) jogosult a külön jogszabályban, illetve gyógyszerek és
+gyógyászati segédeszközök esetén a külön jogszabály szerinti közleményben közzétett támogatás elszámolására
+az e rendeletben, és a szerződésében foglaltakra figyelemmel.
+(2) Az (1) bekezdés szerinti szerződésben kell meghatározni a támogatás elszámolásának és folyósításának
+jogszabályban nem szabályozott kérdéseit, így különösen a támogatás elszámolásának a forgalmazó által választott
+gyakoriságát, az elszámolás benyújtásának módját, az elszámolás jogszabályban nem szabályozott formai és tartalmi
+elemeit.”
+(2) Az R. 1. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Gyógyszertár a külön jogszabály szerinti indikációhoz kötött emelt és kiemelt támogatással rendelt gyógyszerhez
+nyújtott társadalombiztosítási támogatást akkor számolhatja el, ha a vényen az alábbi adatok megfelelő módon
+rögzítésre kerültek:
+a) a vényről külön jogszabály alapján rögzítendő, a külön jogszabály szerinti indikációs pontokban meghatározott
+BNO-kód,
+
+b) a felíró és a javaslatot kiállító orvos szakképesítése, amely alapján a külön jogszabályban meghatározottak szerint
+jogosult a javaslat kiállítására és a gyógyszer emelt vagy kiemelt támogatással történő rendelésére, és
+c) a javaslat kiállításának dátuma alapján a gyógyszer emelt vagy kiemelt támogatással történő rendelése a külön
+jogszabályban meghatározott időn belül történt.”
+2. § (1) Az R. 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A forgalmazó a vényt – a (3)–(4) bekezdésben meghatározott kivétellel – három évig köteles megőrizni.”
+(2) Az R. 2. §-a a következő (3)–(4) bekezdéssel egészül ki:
+„(3) A kábítószert és pszichotróp anyagot tartalmazó gyógyszerekre vonatkozó vényt a gyógyszertár öt évig köteles
+megőrizni.
+(4) Gyógyászati segédeszköz szaküzletben kiszolgáltatott olyan gyógyászati segédeszköz esetén, melynek kihordási
+ideje három évnél hosszabb, a vény megőrzési ideje a kihordási idővel azonos.”
+3. § Az R. a következő 2/A. §-sal egészül ki:
+„2/A. § A gyógyszertár jelenti a REP felé
+a) a javaslatot adó szakorvos pecsétszámát és a javaslat keltét, amennyiben a gyógyszert külön jogszabály szerint
+indikációhoz kötött emelt, kiemelt támogatással szakorvosi javaslatra rendelték,
+b) hogy a vény melyik minősített számítógépes programmal került nyomtatásra.”
+4. § (1) Az R. 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A támogatás folyósítására irányuló elszámolást elektronikus úton, vagy elektronikus adathordozón, vagy írásban
+(nyomtatott formában) kell benyújtani.”
+(2) Az R. 3. §-a a következő (8) bekezdéssel egészül ki:
+„(8) Az OEP minden év február 25-éig minden forgalmazónak összesítő eredményszemléletű kimutatást küld írott
+formában a megelőző naptári évben felmerült támogatási összegekről.”
+5. § (1) Az R. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az elszámolást az elszámolási időszakot követő 3 munkanapon belül kell benyújtani az illetékes REP-hez.”
+(2) Az R. 4. §-a a következő (4)–(6) bekezdéssel egészül ki:
+„(4) Az adott elszámolási időszakban kizárólag azok a tárgyi elszámolási időszak alatt beváltott és kiszolgált vények
+nyújthatók be elszámolásra, melyeken szerepel a vényen rendelt terméket átvevő személy kézjegye és a vény
+ellenében a terméket átadó személy kézjegye.
+(5) Az adott elszámolási időszakban kizárólag azok a tárgyi elszámolási időszak alatt beváltott és kiszolgált vények
+nyújthatók be elszámolásra, amelyek önellenőrzését a forgalmazó a vény beváltása és az elszámolás benyújtása
+közötti időszakban elvégezte, és amelyeket az önellenőrzést végző személy kézjegyével ellátott.
+(6) Az (5) bekezdés alkalmazásában önellenőrzésnek minősül annak kontrollálása, hogy a vényen rendelt, vagy
+a helyettesítés szabályai szerint kiadható termék került-e kiszolgáltatásra, és ennek megfelelően az ehhez külön
+jogszabály alapján megállapított támogatás kerül-e elszámolásra. Az önellenőrzés tényét az önellenőrzést végző
+személy a vényen feltünteti és kézjegyével ellátja.”
+6. § Az R. 5. §-a helyébe rendelkezés lép:
+„5. § (1) Az elszámolt támogatás átutalására vonatkozó megbízást az OEP a Magyar Államkincstárnak legkésőbb
+az elszámolás benyújtását követő 5. banki napon adja át.
+(2) Az elszámolt támogatás mint követelés nem engedményezhető.”
+
+7. § (1) Az R. 6/A. § (1)–(4) bekezdése helyébe a következő rendelkezés lép:
+„(1) A forgalmazók közül a közforgalmú gyógyszertár (a továbbiakban: gyógyszertár) részére a lakosság biztonságos
+gyógyszerellátása érdekében az OEP – az Egészségbiztosítási Alap éves költségvetésének a gyógyszertámogatási
+előirányzata terhére – tárgyévben egy alkalommal kamatmentes, visszatérítendő finanszírozási előleget
+(a továbbiakban: előleg) nyújt, amennyiben
+a) a gyógyszertár egy adott település vagy egy település közigazgatási egységéhez csatolt, de földrajzilag elkülönülő
+településrész gyógyszerellátását egyedül biztosítja, és
+b) a gyógyszertár közfinanszírozott gyógyszerek forgalmazásából származó, a tárgyévet megelőző két év első féléves
+árréstömegének átlaga nem haladja meg a 6 millió forintot, és
+c) az adott gyógyszertárat működtető gazdasági társaság vagy egyéni vállalkozó kizárólag – az a)–b) pontban foglalt
+feltételeknek megfelelő – egy gyógyszertárat működtet.
+(2) Az előleg összege 3 millió forint.
+(3) A gyógyszertár működtetője a (2) bekezdés szerinti előleg folyósítását az 1. számú melléklet szerinti
+nyomtatványon, vagy elektronikus űrlapon az OEP-nél kérelmezheti legkésőbb a tárgyév május 31. napjáig.
+A kérelemhez nyilatkozatot kell csatolni arról, hogy a kérelmező a támogatás teljes összegét gyógyszerbeszerzésre
+fordítja.
+(4) Amennyiben az (1) bekezdés a) pontjában meghatározott feltétel nem áll fenn, az egészségügyért felelős miniszter
+ellátási érdekből engedélyezheti a finanszírozási előleg nyújtását.”
+(2) Az R. 6/A. § (8) bekezdése helyébe a következő rendelkezés lép:
+„(8) Az OEP a határozat jogerőre emelkedését követően az előleg utalását a hónap 26. napján, de legkésőbb
+a határozat jogerőre emelkedését követő hónap 26. napján a Magyar Államkincstáron keresztül teljesíti.”
+8. § (1) Az R. 6/C. § (1)–(3) bekezdése helyébe a következő rendelkezés lép:
+„(1) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás
+általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 41. §-a szerinti közforgalmú
+gyógyszertárat működtető vállalkozás naptári negyedévente működési célú támogatásban részesül, amennyiben azt
+az illetékes elsőfokú állami adóhatóságnál kérelmezi, és
+a) egy adott település gyógyszerellátását egyedül biztosítja, és
+b) a tárgyévet megelőző év gyógyszerforgalmi adataiból számított, közfinanszírozott gyógyszer forgalmazásából
+származó árréstömege nem haladja meg a 12 millió forintot.
+(2) A működési célú támogatás negyedéves összege a Gyftv. 36. § (3) bekezdése és 39. §-a szerinti gyógyszertár
+szolidaritási díjból befolyt összeg arányában kerül megállapításra úgy, hogy az adott naptári negyedévben befolyt
+gyógyszertár szolidaritási díj összege az (1) bekezdés szerint jogosult gyógyszertárak között egyenlő arányban kerül
+felosztásra.
+(3) Amennyiben az (1) bekezdés a) pontjában meghatározott feltétel nem áll fenn, az egészségügyért felelős miniszter
+ellátási érdekből engedélyezheti a működési célú támogatás nyújtását.”
+(2) Az R. 6/C. §-a a következő (5) bekezdéssel egészül ki, valamint a § (6)–(7) bekezdése helyébe a következő rendelkezés
+lép:
+„(5) Az (1) bekezdés szerinti támogatásra való jogosultság megítélése során figyelembe veendő feltételek meglétét
+a gyógyszertárak szakmai felügyeletét ellátó egészségügyi államigazgatási szerv igazolja a támogatást igénylő
+kérelmére.
+(6) A támogatás igényléséhez szükséges, az (1) bekezdés b) pontjában meghatározott adatokat az OEP az ÁNTSZ OTH
+számára az összes forgalmazóra vonatkozóan minden év január 31. napjáig megküldi.
+(7) Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 52. § (4) bekezdésében foglaltak alapján
+a gyógyszertárak szakmai felügyeletét ellátó egészségügyi államigazgatási szerv a gyógyszertár helye szerint illetékes
+adóhatóság részére az Art. 3. számú melléklet L) pontja szerint szolgáltat adatot.”
+9. § Az R. 1. számú melléklete helyébe az e rendelet melléklete szerinti melléklet lép.
+
+10. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – 2010. január 1-jén lép hatályba.
+(2) E rendelet1.§ (2) bekezdéseésazR. erendelet6.§-ávalmegállapított5.§ (1) bekezdése,valaminte§ (4)–(5) bekezdése
+2010. július 1-jén lép hatályba.
+(3) Az R. 1. § (3) bekezdése, 2. § (1) bekezdésében a „ , megrendelőlap” szövegrész, 3. § (3) bekezdés b) pontja, 6/A. §
+(5)–(7) bekezdése, 6/B. § (3) bekezdése, 6/C. § (4) és (8) bekezdése, valamint 2. és 3. számú melléklete hatályát veszti.
+(4) Az R. 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A támogatás folyósítására irányuló elszámolást elektronikus úton kell benyújtani.”
+(5) Az R. 4. § (1) bekezdés a) és b) pontja hatályát veszti.
+(6) Az R. e rendelet 4. § (2) bekezdésével megállapított 3. § (8) bekezdésében foglaltakat első ízben a 2010. évi támogatási
+összegek vonatkozásában kell alkalmazni.
+(7) Ez a rendelet 2010. július 2-án hatályát veszti.
+A miniszterelnök helyett:
+Kiss Péter s. k.,
+a társadalompolitika összehangolásáért felelős
+tárca nélküli miniszter
+Melléklet a 347/2009. (XII. 30.) Korm. rendelethez
+„1. számú melléklet a 134/1999. (VIII. 31.) Korm. rendelethez
+Finanszírozási előleg igénylő lap
+Igénylő adatai
+1. A cég neve: ...........................................................................................................................................................................................................
+2. Telephelye (ha több van, mindegyik telephelyet fel kell sorolni): ...................................................................................................
+...................................................................................................................................................................................................................................
+3. Székhelye: .............................................................................................................................................................................................................
+4. Adószáma: ............................................................................................................................................................................................................
+5. Bankszámlaszáma: ............................................................................................................................................................................................
+6. OEP-pel (REP-pel) kötött szerződés száma: ..............................................................................................................................................
+7. OEP-pel (REP-pel) kötött szerződés kelte: ................................................................................................................................................
+8. A tárgyévet megelőző két év első féléve támogatott árréstömegének átlaga: .........................................................................
+...................................................................................................................................................................................................................................
+9. Az előleg visszafizetésének vállalt határideje: ........................................................................................................................................
+10. A könyvvezetés módja: .................................................................................................................................................................................
+Büntetőjogi felelősségem tudatában kijelentem, hogy a fenti adatok a valóságnak megfelelnek.
+Dátum: ............................................
+....................................................................... ..............................................................................
+cégjegyzésre jogosult aláírása személyi jog jogosultjának aláírása”

@@ -1,0 +1,403 @@
+# A Kormány 339/2009. (XII. 30.) Korm. rendelete
+
+Magyar Közlöny 2009. évi 195. szám, 2009. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/23f07f654cf53636d7b859fa6653684c851ff3b3/dokumentumok/738eac03c9f6a15eb346ef7dd1f0848b3d00bbe8/letoltes)
+
+---
+
+A Kormány 339/2009. (XII. 30.) Korm. rendelete
+az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény
+módosításának kihirdetéséről
+
+1. § A Kormány a 99/2007. (V. 8.) Korm. rendelettel kihirdetett, a sportbeli dopping elleni nemzetközi egyezmény
+(a továbbiakban: Egyezmény) I. mellékletének módosítását e rendelettel kihirdeti.
+2. § Az Egyezmény I. melléklete módosításának hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű
+fordítása a következő:
+„INTERNATIONAL CONVENTION AGAINST DOPING IN SPORT
+Annex I – Prohibited List – International Standard
+Paris, 1 January 2010
+THE 2010 PROHIBITED LIST
+WORLD ANTI-DOPING CODE
+Valid 1 January 2010
+All Prohibited Substances shall be considered as “Specified Substances” except Substances in classes S1, S2.1 to S2.5, S.4.4
+and S6.a, and Prohibited Methods M1, M2 and M3.
+SUBSTANCES AND METHODS PROHIBITED AT ALL TIMES
+(IN- AND OUT-OF-COMPETITION)
+PROHIBITED SUBSTANCES
+S1. ANABOLIC AGENTS
+Anabolic agents are prohibited.
+S1.1. Anabolic Androgenic Steroids (AAS)
+(a) Exogenous* AAS, including:
+1-androstendiol (5α-androst-1-ene-3β,17β-diol ); 1-androstendione (5α-androst-1-ene-3,17-dione); bolandiol (19-
+norandrostenediol); bolasterone; boldenone; boldione (androsta-1,4-diene-3,17-dione); calusterone; clostebol;
+danazol (17α-ethynyl-17β-hydroxyandrost-4-eno[2,3-d]isoxazole); dehydrochlormethyltestosterone (4-chloro-17β-
+hydroxy-17α-methylandrosta-1,4-dien-3-one); desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol);
+drostanolone; ethylestrenol (19-nor-17α-pregn-4-en-17-ol); fluoxymesterone; formebolone; furazabol (17β-hydroxy-
+17α-methyl-5α-androstano[2,3-c]-furazan); gestrinone; 4-hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one);
+mestanolone; mesterolone; metenolone; methandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one);
+methandriol; methasterone (2α, 17α-dimethyl-5α-androstane-3-one-17β-ol); methyldienolone (17β-hydroxy-17α-
+methylestra-4,9-dien-3-one); methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one);
+methylnortestosterone (17β-hydroxy-17α-methylestr-4-en-3-one); methyltestosterone; metribolone
+(methyltrienolone, 17β-hydroxy-17α-methylestra-4,9,11-trien-3-one); mibolerone; nandrolone; 19-norandrostenedione
+(estr-4-ene-3,17-dione); norboletone; norclostebol; norethandrolone; oxabolone; oxandrolone; oxymesterone;
+oxymetholone; prostanozol (17β-hydroxy-5α-androstano[3,2-c] pyrazole); quinbolone; stanozolol; stenbolone;
+1-testosterone (17β-hydroxy-5α-androst-1-en-3-one); tetrahydrogestrinone (18a-homo-pregna-4,9,11-trien-17β-ol-3-
+one); trenbolone and other substances with a similar chemical structure or similar biological effect(s).
+(b) Endogenous** AAS when administered exogenously:
+androstenediol (androst-5-ene-3β,17β-diol); androstenedione (androst-4-ene-3,17-dione); dihydrotestosterone (17β-
+hydroxy-5α-androstan-3-one); prasterone (dehydroepiandrosterone, DHEA); testosterone,
+and the following metabolites and isomers:
+
+5α-androstane-3α,17α-diol; 5α-androstane-3α,17β-diol; 5α-androstane-3β,17α-diol; 5α-androstane-3β,17β-diol;
+androst-4-ene-3α,17α-diol; androst-4-ene-3α,17β-diol; androst-4-ene-3β,17α-diol; androst-5-ene-3α,17α-diol;
+androst-5-ene-3α,17β-diol; androst-5-ene-3β,17α-diol; 4-androstenediol (androst-4-ene-3β,17β-diol); 5-
+androstenedione (androst-5-ene-3,17-dione); epi-dihydrotestosterone; epitestosterone; 3α-hydroxy-5α-androstan-
+17-one; 3β-hydroxy-5α-androstan-17-one; 19-norandrosterone; 19-noretiocholanolone.
+For purposes of this section:
+* “exogenous” refers to a substance which is not ordinarily capable of being produced by the body naturally.
+** “endogenous” refers to a substance which is capable of being produced by the body naturally.
+S1.2. Other Anabolic Agents, including but not limited to:
+Clenbuterol, selective androgen receptor modulators (SARMs), tibolone, zeranol, zilpaterol.
+S2. PEPTIDE HORMONES, GROWTH FACTORS AND RELATED SUBSTANCES
+The following substances and their releasing factors are prohibited:
+1. Erythropoiesis-Stimulating Agents [e.g. erythropoietin (EPO), darbepoetin (dEPO), methoxy polyethylene glycol-
+epoetin beta (CERA), hematide];
+2. Chorionic Gonadotrophin (CG) and Luteinizing Hormone (LH) in males;
+3. Insulins;
+4. Corticotrophins;
+5. Growth Hormone (GH), Insulin-like Growth Factor-1 (IGF-1), Mechano Growth Factors (MGFs), Platelet-Derived
+Growth Factor (PDGF), Fibroblast Growth Factors (FGFs), Vascular-Endothelial Growth Factor (VEGF) and
+Hepatocyte Growth Factor (HGF) as well as any other growth factor affecting muscle, tendon or ligament protein
+synthesis/degradation, vascularisation, energy utilization, regenerative capacity or fibre type switching;
+6. Platelet-derived preparations (e.g. Platelet Rich Plasma, “blood spinning”) administered by intramuscular route.
+Other routes of administration require a declaration of Use in accordance with the International Standard for Therapeutic
+Use Exemptions.
+and other substances with similar chemical structure or similar biological effect(s).
+S3. BETA-2 AGONISTS
+All beta-2 agonists (including both optical isomers where relevant) are prohibited except salbutamol (maximum 1600
+micrograms over 24 hours) and salmeterol by inhalation which require a declaration of Use in accordance with the
+International Standard for Therapeutic Use Exemptions.
+The presence of salbutamol in urine in excess of 1000 ng/mL is presumed not to be an intended therapeutic use of the
+substance and will be considered as an Adverse Analytical Finding unless the Athlete proves, through a controlled
+pharmacokinetic study, that the abnormal result was the consequence of the use of a therapeutic dose (maximum 1600
+micrograms over 24 hours) of inhaled salbutamol.
+S4. HORMONE ANTAGONISTS AND MODULATORS
+The following classes are prohibited:
+1. Aromatase inhibitors including, but not limited to: aminoglutethimide, anastrozole, androsta-1,4,6-triene-3,17-
+dione (androstatrienedione), 4-androstene-3,6,17 trione (6-oxo), exemestane, formestane, letrozole, testolactone;
+2. Selective estrogen receptor modulators (SERMs) including, but not limited to: raloxifene, tamoxifen, toremifene;
+3. Other anti-estrogenic substances including, but not limited to: clomiphene, cyclofenil, fulvestrant;
+4. Agents modifying myostatin function(s) including but not limited to: myostatin inhibitors.
+
+S5. DIURETICS AND OTHER MASKING AGENTS
+Masking agents are prohibited. They include:
+Diuretics, probenecid, plasma expanders (e.g. glycerol; intravenous administration of albumin, dextran,
+hydroxyethyl starch and mannitol) and other substances with similar biological effect(s).
+Diuretics include:
+Acetazolamide, amiloride, bumetanide, canrenone, chlorthalidone, etacrynic acid, furosemide, indapamide,
+metolazone, spironolactone, thiazides (e.g. bendroflumethiazide, chlorothiazide, hydrochlorothiazide),
+triamterene, and other substances with a similar chemical structure or similar biological effect(s) (except drosperinone,
+pamabrom and topical dorzolamide and brinzolamide, which are not prohibited).
+A Therapeutic Use Exemption for diuretics and masking agents is not valid if an Athlete’s urine contains such substance(s)
+in association with threshold or subthreshold levels of an exogenous Prohibited Substance(s).
+PROHIBITED METHODS
+M1. ENHANCEMENT OF OXYGEN TRANSFER
+The following are prohibited:
+1. Blood doping, including the use of autologous, homologous or heterologous blood or red blood cell products of any
+origin;
+2. Artificially enhancing the uptake, transport or delivery of oxygen, including but not limited to perfluorochemicals,
+efaproxiral (RSR13) and modified haemoglobin products (e.g. haemoglobin-based blood substitutes, microencapsulated
+haemoglobin products), excluding supplemental oxygen.
+M2. CHEMICAL AND PHYSICAL MANIPULATION
+1. Tampering, or attempting to tamper, in order to alter the integrity and validity of Samples collected during Doping
+Controls is prohibited. These include but are not limited to catheterisation, urine substitution and/or adulteration (e.g.
+proteases).
+2. Intravenous infusions are prohibited except for those legitimately received in the course of hospital admissions or
+clinical investigations.
+M3. GENE DOPING
+The following, with the potential to enhance athletic performance, are prohibited:
+1. The transfer of cells or genetic elements (e.g. DNA, RNA);
+2. The use of pharmacological or biological agents that alter gene expression.
+Peroxisome Proliferator Activated Receptor δ (PPARδ) agonists (e.g. GW 1516) and PPARδ-AMP-activated protein kinase
+(AMPK) axis agonists (e.g. AICAR) are prohibited.
+
+SUBSTANCES AND METHODS
+PROHIBITED IN-COMPETITION
+In addition to the categories S1 to S5 and M1 to M3 defined above, the following categories are prohibited in
+competition:
+PROHIBITED SUBSTANCES
+S6. STIMULANTS
+All stimulants (including both optical isomers where relevant) are prohibited, except imidazole derivatives for topical use
+and those stimulants included in the 2010 Monitoring Program*.
+Stimulants include:
+(a) Non-Specified Stimulants:
+Adrafinil; amfepramone; amiphenazole; amphetamine; amphetaminil; benfluorex; benzphetamine;
+benzylpiperazine; bromantan; clobenzorex; cocaine; cropropamide; crotetamide; dimethylamphetamine;
+etilamphetamine; famprofazone; fencamine; fenetylline; fenfluramine; fenproporex; furfenorex; mefenorex;
+mephentermine; mesocarb; methamphetamine(d-); p-methylamphetamine; methylenedioxyamphetamine;
+methylenedioxymethamphetamine; methylhexaneamine (dimethylpentylamine); modafinil; norfenfluramine;
+phendimetrazine; phenmetrazine; phentermine; 4-phenylpiracetam (carphedon); prenylamine; prolintane.
+A stimulant not expressly listed in this section is a Specified Substance.
+(b) Specified Stimulants (examples):
+Adrenaline**; cathine***; ephedrine****; etamivan; etilefrine; fenbutrazate; fencamfamin; heptaminol;
+isometheptene; levmetamphetamine; meclofenoxate; methylephedrine****; methylphenidate; nikethamide;
+norfenefrine; octopamine; oxilofrine; parahydroxyamphetamine; pemoline; pentetrazol; phenpromethamine;
+propylhexedrine; pseudoephedrine*****; selegiline; sibutramine; strychnine; tuaminoheptane and other substances
+with a similar chemical structure or similar biological effect(s).
+* The following substances included in the 2010 Monitoring Program (bupropion, caffeine, phenylephrine,
+phenylpropanolamine, pipradol, synephrine) are not considered as Prohibited Substances.
+** Adrenaline associated with local anaesthetic agents or by local administration (e.g. nasal, ophthalmologic) is not
+prohibited.
+*** Cathine is prohibited when its concentration in urine is greater than 5 micrograms per milliliter.
+**** Each of ephedrine and methylephedrine is prohibited when its concentration in urine is greater than 10
+micrograms per milliliter.
+***** Pseudoephedrine is prohibited when its concentration in urine is greater than 150 micrograms per milliliter.
+S7. NARCOTICS
+The following narcotics are prohibited:
+Buprenorphine, dextromoramide, diamorphine (heroin), fentanyl and its derivatives, hydromorphone,
+methadone, morphine, oxycodone, oxymorphone, pentazocine, pethidine.
+S8. CANNABINOIDS
+Natural or synthetic Δ9-tetrahydrocannabinol (THC) and THC-like cannabinoids (e.g. hashish, marijuana, HU-210) are
+prohibited.
+S9. GLUCOCORTICOSTEROIDS
+All glucocorticosteroids are prohibited when administered by oral, intravenous, intramuscular or rectal routes.
+In accordance with the International Standard for Therapeutic Use Exemptions, a declaration of Use must be completed by
+the Athlete for glucocorticosteroids administered by intraarticular, periarticular, peritendinous, epidural, intradermal and
+inhalation routes, except as noted below.
+
+Topical preparations when used for auricular, buccal, dermatological (including iontophoresis/phonophoresis), gingival,
+nasal, ophthalmic and perianal disorders are not prohibited and require neither a Therapeutic Use Exemption nor a
+declaration of Use.
+SUBSTANCES PROHIBITED IN PARTICULAR SPORTS
+P1. ALCOHOL
+Alcohol (ethanol) is prohibited In-Competition only, in the following sports. Detection will be conducted by analysis of
+breath and/or blood. The doping violation threshold (haematological values) is 0.10 g/L.
+x Aeronautic (FAI)
+x Archery (FITA)
+x Automobile (FIA)
+x Karate (WKF)
+x Modern Pentathlon (UIPM) for disciplines involving shooting
+x Motorcycling (FIM)
+x Ninepin and Tenpin Bowling (FIQ)
+x Powerboating (UIM)
+P2. BETA-BLOCKERS
+Unless otherwise specified, beta-blockers are prohibited In-Competition only, in the following sports.
+x Aeronautic (FAI)
+x Archery (FITA) (also prohibited Out-of-Competition)
+x Automobile (FIA)
+x Billiards and Snooker (WCBS)
+x Bobsleigh (FIBT)
+x Boules (CMSB)
+x Bridge (FMB)
+x Curling (WCF)
+x Golf (IGF)
+x Gymnastics (FIG)
+x Motorcycling (FIM)
+x Modern Pentathlon (UIPM) for disciplines involving shooting
+x Ninepin and Tenpin Bowling (FIQ)
+x Powerboating (UIM)
+x Sailing (ISAF) for match race helms only
+x Shooting (ISSF, IPC) (also prohibited Out-of-Competition)
+x Skiing/Snowboarding (FIS) in ski jumping, freestyle aerials/halfpipe and snowboard halfpipe/big air
+x Wrestling (FILA)
+Beta-blockers include, but are not limited to, the following:
+Acebutolol, alprenolol, atenolol, betaxolol, bisoprolol, bunolol, carteolol, carvedilol, celiprolol, esmolol, labetalol,
+levobunolol, metipranolol, metoprolol, nadolol, oxprenolol, pindolol, propranolol, sotalol, timolol.”
+
+„SPORTBELI DOPPING ELLENI NEMZETKÖZI EGYEZMÉNY
+I. melléklet - Tiltólista – Nemzetközi követelmények
+Párizs, 2010. január 1.
+2010. ÉVI TILTÓLISTA
+NEMZETKÖZI DOPPINGELLENES SZABÁLYZAT
+Érvényes 2010. január 1-jétől
+Minden Tiltott szer „Meghatározott szerek”-nek minősül, kivéve az S1, S2.1-S2.5, S.4.4 és S6.a osztályokba tartozó
+anyagokat, valamint az M1, M2 és M3 Tiltott Módszereket.
+MINDENKOR (VERSENYEN ÉS VERSENYEN KÍVÜL) TILTOTT SZEREK ÉS MÓDSZEREK
+TILTOTT SZEREK
+S1. ANABOLIKUS SZEREK
+Az anabolikus szerek alkalmazása tilos.
+S1.1. Anabolikus Androgén Szteroidok (AAS)
+(a) Exogén* anabolikus androgén szteroidok, ideértve:
+1-androstendiol (5α-androst-1-ene-3β,17β-diol); 1-androstendione (5α-androst-1-ene-3,17-dione); bolandiol (19-
+norandrostenediol); bolasterone; boldenone; boldione (androsta-1,4-diene-3,17-dione); calusterone; clostebol;
+danazol (17α-ethynyl-17β-hydroxyandrost-4-eno[2,3-d]isoxazole); dehydrochlormethyltestosterone (4-chloro-17β-
+hydroxy-17α-methylandrosta-1,4-dien-3-one); desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol);
+drostanolone; ethylestrenol (19-nor-17α-pregn-4-en-17-ol); fluoxymesterone; formebolone; furazabol (17β-hydroxy-
+17α-methyl-5α-androstano[2,3-c]-furazan); gestrinone; 4-hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one);
+mestanolone; mesterolone; metenolone; methandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one);
+methandriol; methasterone (2α, 17α-dimethyl-5α-androstane-3-one-17β-ol); methyldienolone (17β-hydroxy-17α-
+methylestra-4,9-dien-3-one); methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one);
+methylnortestosterone (17β-hydroxy-17α-methylestr-4-en-3-one); methyltestosterone; metribolone
+(methyltrienolonel 17β-hydroxy-17α-methylestra-4,9,11-trien-3-one); mibolerone; nandrolone; 19-norandrostenedione
+(estr-4-ene-3,17-dione); norboletone; norclostebol; norethandrolone; oxabolone; oxandrolone; oxymesterone;
+oxymetholone; prostanozol (17β-hydroxy-5α-androstano [3,2-c]pyrazole); quinbolone; stanozolol; stenbolone; 1-
+testosterone (17β-hydroxy-5α-androst-1-en-3-one); tetrahydrogestrinone (18a-homo-pregna-4,9,11-trien-17β-ol-3-one);
+trenbolone és egyéb hasonló kémiai szerkezetű vagy hasonló biológiai hatású szerek.
+(b) Endogén** anabolikus androgén szteroidok exogén módon alkalmazva:
+androstenediol (androst-5-ene-3β,17β-diol); androstenedione (androst-4-ene-3,17- dione); dihydrotestosterone (17β-
+hydroxy-5α-androstan-3-one); prasterone (dehydroepiandrosterone, DHEA); testosterone,
+továbbá az alábbi metabolitok és izomerek:
+5α-androstane-3α,17α-diol; 5α-androstane-3α,17β-diol; 5α-androstane-3β,17α-diol; 5α-androstane-3β,17β-diol;
+androst-4-ene-3α,17α-diol; androst-4-ene-3α,17β-diol; androst-4-ene-3β,17α-diol; androst-5-ene-3α,17α-diol;
+androst-5-ene-3α,17β-diol; androst-5-ene-3β,17α-diol; 4-androstenediol (androst-4-ene-3β,17β-diol); 5-
+androstenedione (androst-5-ene-3,17-dione); epi-dihydrotestosterone; epitestosterone; 3α-hydroxy-5α-androstan-
+17-one; 3β-hydroxy-5α-androstan-17-one; 19-norandrosterone; 19-noretiocholanolone.
+A jelen részre vonatkozóan:
+* „exogénnek” tekintendő az a szer, amelyet az emberi szervezet természetes módon általában nem állít elő.
+** „endogénnek” tekintendő az a szer, amelyet az emberi szervezet természetes módon előállíthat.
+
+S1.2. Egyéb Anabolikus Hatóanyagok, a teljesség igénye nélkül:
+Clenbuterol, szelektív androgén receptor modulátorok (SARM), tibolone, zeranol, zilpaterol.
+S2. PEPTID HORMONOK, NÖVEKEDÉSI FAKTOROK ÉS ROKONVEGYÜLETEK
+Az alábbi szerek, valamint az emberi szervezetben való felszabadításukat előidéző faktorok tiltottak:
+1. Erythropoiesist Stimuláló Ágensek (pl. erythropoietin (EPO), darbepoietin (dEPO), methoxy polyethylene
+glycol-epoetin beta (CERA), hematide)
+2. Chorionic Gonadotrophin (CG), és Luteinizáló hormon (LH) férfiak esetében;
+3. Inzulinok;
+4. Kortikotrop hormonok.
+5. Növekedési hormon (GH), inzulin típusú növekedési faktor-1 (pl. IGF-1), mechano növekedési faktorok (MGF),
+trombocita-származék növekedés faktor (PDGF), fibroplaszt növekedés tényezők (FGF), vaszkuláris endotél
+növekedési faktor (VEGF) valamint hepatocita növekedési faktor (HGF) továbbá bármely egyéb növekedési faktor,
+ami hatást gyakorol az izom, ín, ínszalag fehérje szintézisére/lebontására, az érképződésre, az energiahasznosításra, a
+regenerálódási képességre vagy az izomrost típus átalakítsra.
+6. Trombocita származék készítmények (pl. trombocita-dús plazma, „blood-spinning”) intramuszkulárisan
+alkalmazva. Egyéb módokon való alkalmazás esetén kötelező a Használatról szóló nyilatkozat, a Gyógyászati Célú
+Mentességre vonatkozó Nemzetközi Szabványnak megfelelően,
+továbbá a hasonló kémiai szerkezetű vagy hasonló biológiai hatású szerek.
+S3. BÉTA-2 AGONISTÁK
+Az összes béta-2 agonista (beleértve - ha értelmezhető - mindkét optikai izomert) tiltott, kivéve a salbutamol-t (24 óra alatt
+legfeljebb 1600 mikrogramm) és az inhalált salmeterol-t, mely esetben kötelező a Használatról szóló nyilatkozat a
+Gyógyászati Célú Mentességre vonatkozó Nemzetközi Szabvánnyal összhangban.
+Ha a salbutamol koncentrációja a vizeletben meghaladja a 1000 ng/ml értéket, azt nem lehet a szer terápiás célú
+alkalmazásának tekinteni és Kedvezőtlen Elemzési Eredménynek tekintendő, kivéve, ha a Sportoló igazolni tudja egy
+ellenőrzött farmakokinetikai vizsgálattal, hogy a normál értéktől eltérő mérési eredmény inhalációs formában alkalmazott
+terápiás mennyiségű (24 óra alatt legfeljebb 1600 mikrogram) salbutamol alkalmazásának tudható be.
+S4. HORMON ANTAGONISTÁK ÉS MODULÁTOROK
+Az alábbi vegyületcsoportok tiltottak:
+1. Aromatáz inhibitorok, a teljesség igénye nélkül: aminoglutethimide, anastrozole, androsta-1,4,6-triene-3,17-
+dione (androstatrienedione), 4-andostrene-3,6,17 trione (6-oxo), exemestane, formestane, letrozole, testolactone.
+2. Szelektív ösztrogén-receptor modulátorok (SERM), a teljesség igénye nélkül: raloxifene, tamoxifen, toremifene.
+3. Egyéb antiösztrogén hatású szerek, a teljesség igénye nélkül: clomiphene, cyclofenil, fulvestrant.
+4. A miosztatin funkció(ka)t módosító hatóanyagok, a teljesség igénye nélkül: miosztatin inhibitorok.
+S5. DIURETIKUMOK ÉS EGYÉB MASZKÍROZÓ ÁGENSEK
+A maszkírozó ágensek tiltottak. Ezek az alábbiak:
+Diuretikumok, probenecid, plazma expanderek (pl. glycerol; az albumin, dextran, hydroxyethyl keményítő és
+mannitol intravénás alkalmazása) és egyéb, hasonló biológiai hatású szerek.
+Diuretikumok:
+Acetazolamide, amiloride, bumetanide, canrenone, chlorthalidone, etacrynic acid, furosemide, indapamide, metolazone,
+spironolactone, thiazidok (pl. bendroflumethiazide, chlorothiazide, hydrochlorothiazide), triamterene, és egyéb, hasonló
+kémiai szerkezetű vagy hasonló biológiai hatású szerek (a drosperinone, a pamabrom és a helyileg alkalmazott
+dorzolamide és brinzolamide kivételével, amelyek nem tiltottak).
+A gyógyászati célú mentesség nem érvényes a diuretikumokra és a maszkírozó ágensekre, amennyiben a sportoló
+vizeletmintája ezek mellett határértéken vagy határérték alatti koncentrációban exogén tiltott szer(eke)t is tartalmaz.
+
+TILTOTT MÓDSZEREK
+M1. AZ OXIGÉN-TRANSZFER NÖVELÉSE
+Az alábbiak tiltottak:
+1. Vérdopping, ideértve bármilyen eredetű autológ, homológ vagy heterológ vér- illetve vörösvérsejt-készítmény
+alkalmazását.
+2. Az oxigén-felvétel, -szállítás és -leadás mesterséges fokozása a teljesség igénye nélkül a perfluro származékok, az
+efaproxiral (RSR13), illetve a módosított hemoglobin-készítmények (pl. hemoglobin-alapú vérpótló készítmények,
+mikrokapszulázott hemoglobin készítmények) alkalmazásával, kivéve a kiegészítő oxigénadást.
+M2. KÉMIAI ÉS FIZIKAI MANIPULÁCIÓ
+1. Tiltott a Doppingellenőrzések során levett Minták módosítása vagy módosításának kísérlete azon célból, hogy
+megváltoztassák annak integritását vagy érvényességét. Ezek a teljesség igénye nélkül a katéterezés, valamint a
+vizeletminta helyettesítése és/vagy módosítása (pl. proteázok).
+2. Az intravénás infúzió tiltott, kivéve sebészeti beavatkozás, egészségügyi vészhelyzet vagy klinikai vizsgálatok
+esetén.
+M3. GÉNDOPPING
+Az alábbi, a sportoló teljesítményének növelésére alkalmas módszerek tiltottak:
+1. sejtek vagy genetikai elemek átvitele (pl.: DNA, RNA)
+2. farmakológiai vagy biológiai ágensek felhasználása a génexpresszió modulálás céljából.
+A peroxiszóma szaporító ágens által aktivált receptor δ (PPARδ) agonisták (pl. GW 1516) és a PPARδ-AMP aktivált kináz
+fehérje (AMPK) axis agonisták (pl. AICAR) tiltottak.
+VERSENY KÖZBEN TILTOTT SZEREK ÉS MÓDSZEREK
+A fentiekben meghatározott S1-S5 és M1-M3 kategóriák mellett verseny közben az alábbiak is tiltottak:
+TILTOTT SZEREK
+S6. STIMULÁNSOK
+Minden stimuláns (mindkét optikai izomerjével egyetemben ahol releváns) tiltott, a helyileg alkalmazott imidazole-
+származékok és a 2010-as évi Monitoring Programban szereplő stimulánsok kivételével.*
+Stimulánsok, úgymint:
+(a) Nem meghatározott stimulánsok:
+Adrafinil, amfepramone, amiphenazole, amphetamine, amphetaminil, benflourex, benzphetamine,
+benzylpiperazine, bromantan, clobenzorex, cocaine, cropropamide, crotetamide, dimethylamphetamine,
+etilamphetamine, famprofazone, fencamine, fenetylline, fenfluramine, fenproporex, furfenorex, mefenorex,
+mephentermine, mesocarb, methamphetamine (d-), p-methylamphetamine methylenedioxy-amphetamine,
+methylenedioxymethamphetamine, methylhexaneamine (dimethylpentylamine), modafinil, norfenfluramine,
+phendimetrazine, phenmetrazine, phentermine, 4-phenylpiracetam (carphedon), prelynmine, prolintane.
+Az e szekcióban kifejezetten fel nem sorolt stimulánsok a Meghatározott Szerek közé tartoznak.
+
+(b) Meghatározott stimulánsok (példák):
+Adrenaline**, cathine***, ephedrine****, etamivan, etilefrine, fenbutrazate, fencamfamin, heptaminol,
+isometheptene, levmethamfetamine, meclofenoxate, methylephedrine****, methylphenidate, nikethamide,
+norfenefrine, octopamine, oxilofrine, parahydroxy-amphetamine, pemoline, pentetrazol, phenpromethamine,
+propylhexedrine, pseudoephedrine*****, selegiline, sibutramine, strychnine, tuaminoheptane, illetve egyéb,
+hasonló kémiai szerkezetű vagy hasonló biológiai hatású szerek.
+* A 2010. évi monitoring programban szereplő szerek (bopropion, caffeine, phenylephrine,
+phenylpropanolamine, pipradol, synephrine) nem tekinthetők Tiltott Szereknek.
+** Adrenaline helyi érzéstelenítő szerekkel együtt illetve helyileg alkalmazva (például
+nazálisan, szemészeti alkalmazásban) nem tiltott.
+*** A Cathine tiltott, ha koncentrációja a vizeletben meghaladja a milliliterenkénti 5 mikrogrammot.
+**** Az ephedrine és a methylephedrione egyaránt tiltott, ha koncentrációja a vizeletben meghaladja a
+milliterenkénti 10 mikrogrammot.
+***** A Pseudoephedrine tiltott, ha koncentrációja a vizeletben meghaladja a milliliterenkénti 150 mikrogrammot.
+S7. NARKOTIKUMOK
+Az alábbi narkotikumok tiltottak:
+Buprenorphine, dextromoramide, diamorphine (heroin), fentanyl és származékai, hydromorphone, methadone,
+morphine, oxycodone, oxymorphone, pentazocine, pethidine.
+S8. KANNABINOIDOK
+A természetes és a szintetikus Δ9-tetrahydrocannabinol (THC) és a THC-szerű kannabinoidok (pl. hasis, marihuána, HU-210)
+tiltottak.
+S9. GLÜKOKORTIKOSZTEROIDOK
+Minden glükokortikoszteroid orális, rektális, intravénás vagy intramuszkuláris alkalmazása tiltott.
+Alkalmazásuk gyógyászati célú mentességhez kötött. Egyéb módon történő (intraartikuláris, periartikuláris, peritendinous,
+epidurális, intradermális injekciók, valamint inhaláció) alkalmazásuk esetén a Gyógyászati Célú Mentességre (TUE)
+vonatkozó Nemzetközi Szabványnak megfelelően a sportolónak Nyilatkozatot kell kitölteni, kivéve az alábbi
+megjegyzésben foglalt esetet.
+Füllel, arcüreggel, bőrgyógyászati (ideértve az iontoforézist/fonoforézist), orral, fogínnyel, szemmel, és a végbélnyílás
+környékével kapcsolatos problémák helyi kezelésére szolgáló készítmények nem tiltottak, és alkalmazásuk sem
+gyógyászati célú mentességhez (TUE) sem használatról szóló Nyilatkozathoz nem kötött.
+BIZONYOS SPORTÁGAKBAN TILTOTT SZEREK
+P1. ALKOHOL
+Alkohol (etanol) fogyasztása kizárólag verseny közben tiltott, az alábbi sportágakban. Kimutatása a kilélegzett levegő,
+illetve levett vér elemzésével történik. A doppingvétség küszöbértéke (hematológiai értékek) 0,10 g/l.
+x Műrepülés (FAI)
+x Íjászat (FITA, IPC)
+x Autóverseny (FIA)
+x Karate (WKF)
+x Öttusa (UIPM) lövészetben
+x Motorverseny (FIM)
+x Kilenc és tíz bábus bowling (FIQ)
+x Motorcsónak verseny (UIM)
+
+P2. BÉTA-BLOKKOLÓK
+Egyéb, ellenkező értelmű rendelkezés hiányában a béta-blokkolók kizárólag versenyen tiltottak, az alábbi sportágakban.
+x Műrepülés (FAI)
+x íjászat (FITA, IPC) (versenyen kívül is tiltott)
+x Autóverseny (FIA)
+x Billiárd és snooker (WCBS)
+x Bob (FIBT)
+x Golyósportok (CMSB)
+x Bridzs (FMB)
+x Curling (WCF)
+x Golf (IGF)
+x Torna (FIG)
+x Motorverseny (FIM)
+x Öttusa (UIPM) a lövészetben
+x Kilenc és tíz bábus bowling (FIQ)
+x Motorcsónak verseny (UIM)
+x Vitorlázás (ISAF) kizárólag üldözéses versenyeken, a kormányost illetően
+x Lövészet (ISSF, IPC) (versenyen kívül is tiltott)
+x Sízésen/hódeszkázáson (FIS) belül: síugrás, freestyle aerials/halfpipe, snowboardban halfpipe/big air
+x Birkózás (FILA)
+A béta-blokkolók, a teljesség igénye nélkül, az alábbiak:
+Acebutolol, alprenolol, atenolol, betaxolol, bisoprolol, bunolol, carteolol, carvedilol, celiprolol, esmolol, labetalol,
+levobunolol, metipranolol, metoprolol, nadolol, oxprenolol, pindolol, propranolol, sotalol, timolol.”
+3. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
+(2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy a sportbeli dopping elleni nemzetközi
+egyezménynek a Nemzetközi Doppingellenes Szabályzat 2010. évi tiltólistájával egységes szerkezetbe
+foglalt, hiteles szövegét és annak magyar nyelvű hivatalos fordítását a Magyar Közlönyben közzétegye.
+(3) E rendelet végrehajtásához szükséges intézkedésekről a sportpolitikáért felelős miniszter gondoskodik.
+A miniszterelnök helyett:
+Kiss Péter s. k.,
+a társadalompolitika összehangolásáért felelős
+tárca nélküli miniszter
