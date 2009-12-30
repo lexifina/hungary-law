@@ -1,0 +1,1 @@
+## 10. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba azzal, hogy rendelkezéseit az e rendelet hatálybalépését követően kötött vagy az e rendeletben foglaltak szerint módosított termeltetési szerződésekre is alkalmazni kell.
