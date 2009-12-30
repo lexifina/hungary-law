@@ -1,0 +1,5 @@
+4. § (1) A hitelprogram keretében felvett hitel összege a 3. § (1) bekezdésének a) és c) pontjában meghatározott esetben pályázónként legalább ötmillió forint, de legfeljebb egymilliárd forint, a 3. § (1) bekezdésének b) pontjában meghatározott esetben pályázónként legalább egymillió forint, de legfeljebb ötvenmillió forint lehet.
+
+(2) A hitelprogram keretében felvett hitel futamideje a 3. § (1) bekezdésének a) és b) pontjában meghatározott esetekben legfeljebb tizenöt év lehet, de legfeljebb hároméves tőketörlesztési türelmi idő és kétéves rendelkezésre tartási idő biztosítása mellett. A 3. § (1) bekezdésének c) pontja esetében a futamidő 5–8 év lehet, de legfeljebb 7 év tőketörlesztési türelmi idő biztosítása mellett.
+
+(3) E rendelet alapján csak olyan, a felek által megkötött hitelszerződés támogatható, amelynél a hitelintézet a kamaton kívül egyszázalékos folyósítási jutalékot és huszonöt század százalékos rendelkezésre tartási jutalékot, továbbá az adott esetben felmerülő késedelmi kamatot és a követelés érvényesítésével kapcsolatos költségeket, valamint a szerződés módosításával kapcsolatos költségeket számol fel.
