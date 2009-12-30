@@ -1,0 +1,9 @@
+10. § (1) A tűzoltáshoz, illetőleg a műszaki mentéshez szükséges erők és eszközök riasztását – az RST adatlap alapján – a jelzést értékelő személy döntése szerint kell végrehajtani.
+
+(2) Az RST adatlapon rögzítettek szerinti erők, eszközök riasztását a tűzoltóságok elsődleges működési körzete szerinti híradóügyeletes hajtja végre a saját erők, eszközök részére. A riasztással egyidejűleg értesíteni kell az alapszabályában mentő-tűzvédelmi feladatok ellátását vállaló és a működési körzet szerinti tűzoltóságokkal együttműködési megállapodással rendelkező tűzoltó egyesületet. A segítségnyújtásra tervezett tűzoltóságok erőinek, eszközeinek riasztását, az igazgatóság ügyeletese – az FTP esetében az FTP Hírközpontja – hajtja végre.
+
+(3) A tűzoltás- vagy mentésvezető döntése alapján a bázis különleges technikai eszközeinek a riasztása a bázist üzemeltető hivatásos önkormányzati tűzoltóság elsődleges működési körzetébe, az üzemeltető hivatásos önkormányzati tűzoltóság híradóügyeletesének, egyéb esetben az igazgatóság ügyeletesének feladata.
+
+(4) A tűzoltóságok a működési területükön kívülre is kötelesek vonulni, ha azt számukra a Központi Ügyelet elrendeli, egyéb esetben működési területüket csak az főigazgató engedélyével hagyhatják el. A bázis különleges technikai eszközeinek riasztását – működési területén és azon túl is – a Központi Ügyelet közvetlenül is elrendelheti.
+
+(5) A bázisok különleges technikai eszközei az üzemeltetést végző hivatásos önkormányzati tűzoltóságok különleges szerállományához tartoznak. Olyan tűzoltási, műszaki mentési, katasztrófaveszélyt megelőző, illetve katasztrófahelyzetben a védekezési feladatok végrehajtásához vehetők igénybe, ahol a tűzoltóságok egyéb eszközei mennyiségükből vagy teljesítményükből adódóan nem elegendőek az esemény felszámolásához.

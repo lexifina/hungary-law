@@ -1,0 +1,3 @@
+11. § (1) A létesítményi tűzoltóság a saját működési területén kívülre csak akkor riasztható, ha az RST kötet alapján igénybe vehető erők és eszközök nem elegendőek a tűzoltáshoz, műszaki mentéshez, vagy késedelmes kiérkezésük hátráltatná ezen feladatok ellátását.
+
+(2) Az önkéntes tűzoltóságokat – önkéntes kötelezettségvállalás esetén – segítségnyújtásra a katasztrófák elleni védekezésért felelős miniszter által kijelölt területen tervezni kell, amennyiben vállalják, hogy az elsődleges működési körzetük védelmét e rendeletben meghatározott szinten, a segítségnyújtással egyidejűleg biztosítani képesek.
