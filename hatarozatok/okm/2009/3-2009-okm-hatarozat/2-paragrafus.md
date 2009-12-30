@@ -1,0 +1,1 @@
+## 1. § A felsőoktatásról szóló 2005. évi CXXXIX. törvény módosításáról szóló 2009. évi CXXXVIII. törvény 45. §-a és 49. §-ának f) pontja alapján a Budapesti Műszaki Főiskola (a továbbiakban: BMF) költségvetési szerv 2009. december 31-ével jogutódlással megszűnik.
