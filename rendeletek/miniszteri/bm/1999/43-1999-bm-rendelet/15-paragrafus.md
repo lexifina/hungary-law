@@ -1,0 +1,1 @@
+## 14. § Amennyiben a 12. § (2)–(3) bekezdésében meghatározott személy lemond a mentelmi jogáról, vele szemben a felügyelő az általános szabályok szerint jár el. A lemondó nyilatkozatot a felügyelő helyszíni jegyzőkönyvbe foglalja. A helyszíni jegyzőkönyvet a nyilatkozó személy mellett a felügyelő és a járőrtárs (segítő) is aláírja.

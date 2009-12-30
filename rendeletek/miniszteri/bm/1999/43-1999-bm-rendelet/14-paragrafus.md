@@ -1,0 +1,1 @@
+## 13. § A felügyelő – feladatkörében eljárva – a szabálysértést elkövető, mentességet élvező személyt igazoltathatja, személyazonosságát és ennek során mentességét megállapítja. Ezután a mentességgel rendelkező személy ellen további intézkedést nem tesz, azonban a tényállást rögzíti, és tettenérés esetén feljelentést tehet.
