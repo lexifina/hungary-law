@@ -1,0 +1,1 @@
+## 5. § A kezességvállaló intézmény minden negyedévet követő hónap utolsó napjáig köteles tájékoztatni a minisztériumot és a Pénzügyminisztériumot a rendelet alapján megkötött kezesi szerződések számáról és a támogatási összegekről.
