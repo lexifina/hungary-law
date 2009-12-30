@@ -1,0 +1,9 @@
+# 59/2009. (V. 8.) FVM rendelet
+
+a jégeső-elhárító szervezetnek fizetett szolgáltatási díj támogatása igénybevételének szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-59-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-12-30 | 2009-59-20-82.2 | 59/2009. (V. 8.) FVM rendelet |
