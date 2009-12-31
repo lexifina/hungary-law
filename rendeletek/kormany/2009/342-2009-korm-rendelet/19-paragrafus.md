@@ -1,0 +1,7 @@
+## 12. Riasztási mechanizmus
+
+19. § (1) Ha a Szolgtv. 47. §-a szerint annak feltételei fennállnak, a szolgáltatás felügyeletét ellátó hatóság az IMI-rendszerben haladéktalanul kezdeményezi a riasztás küldését. A riasztás kezdeményezésekor meg kell jelölni a riasztással összefüggésben eljárásra jogosult más IMI-hatóságot, valamint – ha a kezdeményező IMI-hatóság előtt ismert – az érintett másik EGT-államban a riasztással összefüggő eljárásra hatáskörrel rendelkező illetékes hatóságot.
+
+(2) A hatáskörrel rendelkező delegált IMI-koordinátor, ha megállapítja, hogy a riasztás megküldésének feltételei valóban fennállnak, a riasztásnak az IMI-rendszerben való jóváhagyásával haladéktalanul intézkedik a riasztásnak a többi érintett EGT-állam riasztás fogadására kijelölt riasztáskoordinátorként regisztrált szervéhez, valamint a riasztással összefüggésben eljárásra jogosult más IMI-hatósághoz való továbbításáról. Ha a delegált IMI-koordinátor nem ért egyet a riasztás megküldésével, erről indokai megjelölésével tájékoztatja a riasztást kezdeményező hatóságot és annak felügyeleti szervét.
+
+(3) Ha a riasztás küldését kezdeményező IMI-hatóság utóbb megállapítja, hogy a riasztás tévesen került kiküldésre, mert annak feltételei eredetileg sem álltak fenn, az IMI-rendszerben haladéktalanul kezdeményezi a riasztás visszavonását. A riasztást korábban jóváhagyó delegált IMI-koordinátor – ha a visszavonással egyetért – haladéktalanul intézkedik a riasztás visszavonásáról.
