@@ -1,0 +1,7 @@
+2. §[^1] (1) A Kormány az egyetemes elektronikus hírközlési szolgáltatóknak az egyetemes elektronikus hírközlési szerződésben vagy e rendeletben megállapított kötelezettsége alapján nyújtott, egyetemes szolgáltatásból adódó – az Eht. 121. § (1) bekezdése szerinti – pénzügyi terhei mérséklésére létrehozza az Egyetemes Elektronikus Hírközlési Támogatási Kasszát (a továbbiakban: Kassza).
+
+(2) Az egyetemes elektronikus hírközlési szolgáltatásokat az egyetemes elektronikus hírközlési szolgáltatók és az elektronikus hírközlésért felelős miniszter (a továbbiakban: miniszter) közötti egyetemes elektronikus hírközlési szerződés alapján kell biztosítani. Az egyetemes elektronikus hírközlési szolgáltatók nettó elkerülhető költségeit a jogszabályoknak megfelelően a Kasszából kell biztosítani.
+
+(3) Amennyiben az egyetemes elektronikus hírközlési szerződés bármilyen okból úgy szűnik meg, hogy az egyetemes elektronikus hírközlési szolgáltatások új vagy módosított egyetemes elektronikus hírközlési szerződés alapján nem biztosítottak, az egyetemes elektronikus hírközlési szerződés megszűnésekor kötelezett egyetemes szolgáltató az új szerződés létrejöttéig, legfeljebb azonban egy évig köteles az egyetemes szolgáltatásokat a szerződés szerinti változatlan feltételekkel biztosítani. Az egyetemes szolgáltatások nettó elkerülhető költségét a szerződés megszűnésekor hatályos jogszabályok szerint kell biztosítani a Kasszából.
+
+[^1]: A 2. § a 352/2008. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
