@@ -1,0 +1,5 @@
+## 1. § Az egészségkárosodott személyek szociális járadékairól szóló 387/2007. (XII. 23.) Korm. rendelet (a továbbiakban: Er.) 9. §-a a következő (4)–(5) bekezdéssel egészül ki:
+
+## „(4) A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek és a szociális biztonsági tárgyú nemzetközi egyezmények hatálya alá tartozó más államból származó saját jogú nyugellátásra jogosult személyt – akinek a járadékra és a saját jogú nyugellátásra való jogosultsága egyaránt fennáll – a járadék a saját jogú nyugellátás összegével csökkentett összegben illeti meg.
+
+## (5) A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek és a szociális biztonsági tárgyú nemzetközi egyezmények hatálya alá tartozó más államból származó saját jogú nyugellátásra és az özvegyi nyugdíjra vagy annak megfelelő ellátásra egyaránt jogosult személy esetén a járadékot úgy kell megállapítani, hogy a (4) bekezdés szerint csökkentett összegű ellátásra kell az (1)–(2) bekezdés szerinti korrekciót megfelelően alkalmazni.”
