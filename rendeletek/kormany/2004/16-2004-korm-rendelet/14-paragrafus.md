@@ -1,0 +1,9 @@
+14. § (1)[^75] Haditechnikai eszköz behozatala esetén a végleges vámjogi rendeltetést végző vámhivatal a Tanúsítványt érvényesíti, annak igazolására, hogy az abban foglalt haditechnikai eszközök Magyarország területére érkeztek. Amennyiben a szállító a magyar végfelhasználótól vagy vevőtől Tanúsítványt kér, akkor a magyar vállalkozás a Hivatal által meghatározott nyomtatvány szerinti okmányt köteles használni.
+
+(2)[^76] A Hivatal a magyar kivitel engedélyezése során előírhatja a kérelmező részére, hogy nyújtsa be a külföldi vevő, illetve végfelhasználó részéről megküldött Tanúsítványt. A Tanúsítvány magyar kivitel esetén annak igazolására szolgál, hogy az abban foglalt haditechnikai eszközök és szolgáltatások a vevő/végfelhasználó ország vámterületére érkeztek.
+
+(3)[^77] Az Igazolásban és a hozzá kapcsolódó Nyilatkozatban, valamint a Tanúsítványban szereplő adatokkal kapcsolatban beálló bármilyen természetű változásról a kérelmezőnek haladéktalanul értesítenie kell a Hivatalt. Az engedélyezési szempontból jelentős változás esetén a Hivatal jogosult az okmányokat visszavonni, illetve egyidejűleg a változások bejelentését új kérelemként kezelni.
+
+[^75]: A 14. § (1) bekezdése a 227/2005. (X. 13.) Korm. rendelet 30. §-a, a 257/2009. (XI. 20.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^76]: A 14. § (2) bekezdése a 227/2005. (X. 13.) Korm. rendelet 30. §-a szerint módosított szöveg. E módosító rendelet 29. § (2) bekezdése alapján a rendelkezést a 2005. november 1. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
+[^77]: A 14. § (3) bekezdése a 227/2005. (X. 13.) Korm. rendelet 30. §-a szerint módosított szöveg. E módosító rendelet 29. § (2) bekezdése alapján a rendelkezést a 2005. november 1. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
