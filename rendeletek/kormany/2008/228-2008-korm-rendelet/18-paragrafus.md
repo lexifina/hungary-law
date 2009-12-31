@@ -1,0 +1,1 @@
+## 17. § A lebonyolítási számla szolgál a hazai partner számára történő előleg-, időközi- és végső egyenleg fizetések hazai társfinanszírozási részének teljesítésére, illetve a hazai partner által bármilyen jogcímen történő visszafizetésére is.
