@@ -1,0 +1,62 @@
+## Tényfeltárás[^101]
+
+39/C. §[^102] (1) A tényfeltárás
+
+a) amennyiben a környezetkárosodás megállapításának bonyolultsága azt szükségessé teszi, tényfeltárási terv készítéséből,
+
+b) felderítő és részletes tényfeltárásból, továbbá
+
+c) tényfeltárási záródokumentáció készítéséből
+
+## áll.
+
+(2) A tényfeltárásra kötelező határozat tartalmazza:
+
+a) a valószínűsíthetően károsodott felszíni víz megjelölését;
+
+b) a felszíni víz károsodása valószínűségének megállapításakor figyelembe vett tényezőket, jellemzőket, az ezekkel kapcsolatos eljárások, vizsgálatok megjelölését;
+
+c) az (1) bekezdés c) pontban meghatározottakra figyelemmel tényfeltárási terv készítésének előírását, benyújtási határidejét;
+
+d) a tényfeltárási záródokumentáció benyújtási határidejét.
+
+(3) A tényfeltárási tervnek tartalmaznia kell a tényfeltárással kapcsolatos mindazon munkát, amely a tényfeltárási záródokumentáció megalapozott összeállításához szükséges, beleértve a tényfeltáráshoz kapcsolódó monitoring tervét.
+
+(4) A tényfeltárási tervet a (2) bekezdés szerinti határozatban megjelölt határidőre engedélyezésre be kell nyújtani a felügyelőséghez. A felügyelőség nem kötelezi a kötelezettet tényfeltárási terv készítésére, ha a kármentesítés sürgőssége, a várható költség alacsony szintje, a szennyező anyagok kis száma valószínűsíthető.
+
+(5) A (4) bekezdés szerinti tényfeltárási terv elfogadásáról a felügyelőség dönt.
+
+(6)[^103] A tényfeltárási munkák megkezdését 5 munkanapon belül, a tényfeltárás során észlelt bármilyen rendkívüli körülményt haladéktalanul be kell jelenteni a felügyelőségnek.
+
+(7)[^104] A tényfeltárás során észleltek alapján, a tényfeltárásra kötelezett kezdeményezésére indokolt esetben, a felügyelőség 5 munkanapon belül dönt a tényfeltárási terv módosításának elfogadásáról vagy elutasításáról.
+
+(8) A tényfeltárást és annak eredményeit dokumentálni kell. A tényfeltárási záródokumentációt a (9) bekezdés szerint kell összeállítani és benyújtani a felügyelőséghez.
+
+(9) A tényfeltáró záródokumentáció az alábbiakat tartalmazza:
+
+a) a felszíni víz eredeti állapotára vonatkozó adatokat;
+
+b) a felszíni víz károsodása utáni állapotára vonatkozó adatokat;
+
+c) a már elvégzett kármentesítési szakaszok bemutatását, eredményét;
+
+d) a lehetséges beavatkozási változatok bemutatását, jellemzését, továbbá a javasolt változat jellemzését és indokolását;
+
+e) a természetes regenerálódás esélyét, mértékét, várható időtartamát;
+
+f) a tényfeltárás alatt működtetett monitoring bemutatását, továbbá monitoring tervet a tényfeltárást követő szakaszra.
+
+(10) A felügyelőség dönt a tényfeltárási záródokumentáció elfogadásáról, valamint a környezetkárosodással kapcsolatos további feladatokról, így:
+
+a) a tényfeltárás folytatásáról;
+
+b) a beavatkozás elvégzésének szükségességéről, illetve a beavatkozás megvalósítási tervének elkészítéséről és benyújtásáról, amennyiben megállapítható a felszíni víz jelentősen kedvezőtlen állapota;
+
+c) a tényfeltárást követő monitorozás elrendeléséről;
+
+d) a kármentesítés befejezéséről, ha minden körülmény együttes mérlegelése azt mutatja, hogy a további kármentesítési munkára nincs szükség.
+
+[^101]: A 39/C. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^102]: A 39/C. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^103]: A 39/C. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^104]: A 39/C. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

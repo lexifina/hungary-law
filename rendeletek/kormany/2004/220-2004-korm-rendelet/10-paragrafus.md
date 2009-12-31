@@ -1,0 +1,3 @@
+10. § (1) Új létesítmények tervezésénél és megvalósításánál, valamint működtetésénél az elérhető legjobb technikának megfelelő kibocsátási színvonalat eredményező módszereket, eljárásokat, termelő, illetőleg szennyvíztisztító berendezéseket kell alkalmazni.
+
+(2) Tilos vízterhelést okozó új létesítményt telepíteni, ha a 42. § (1) bekezdés szerinti előírások nem teljesíthetők, továbbá – a 26. § (4)–(5) bekezdésben foglalt kivételekkel – ha a befogadó mértékadó vízszennyezettsége már meghaladja vagy a tervezett létesítmény szennyezőanyag- kibocsátásának hatására várhatóan meghaladhatja a vízszennyezettségi határértéket.
