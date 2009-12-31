@@ -1,0 +1,3 @@
+## 5. §[^10] A jelölő szervezetek, továbbá a Cím birtokosai az adományozott halálától számított 60 napon belül – a 2. § (3) bekezdésében foglaltaknak megfelelően – új javaslatot juttatnak el a sportigazgatási szervnek, aki a javaslatokat azok beérkezését követő 30 napon belül – a 2. § (4) bekezdésében meghatározott eljárási rendnek megfelelően – elbírálja. Az adományozás rendjére a továbbiakban a 3. és 4. §-ban foglaltakat kell alkalmazni.
+
+[^10]: Az 5. § a 19/2008. (II. 5.) Korm. rendelet 2. § (1) bekezdésének e) pontja, a 182/2009. (IX. 10.) Korm. rendelet 328. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
