@@ -1,0 +1,1 @@
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdése a) pontjának 13. alpontjában, valamint a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény 4. §-ának (1) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
