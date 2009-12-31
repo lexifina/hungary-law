@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Unióról szóló szerződés K.3. cikke alapján létrejött, az Európai Közösségek pénzügyi érdekeinek védelméről szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.

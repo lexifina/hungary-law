@@ -1,0 +1,1 @@
+11. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Unióról szóló szerződés K.3. cikke alapján létrejött, az Európai Közösségek pénzügyi érdekeinek védelméről szóló egyezményhez csatolt, Brüsszelben, 1997. június 19-én létrejött második Jegyzőkönyv (a továbbiakban: 1997. június 19-ei Jegyzőkönyv) kötelező hatályának elismerésére.

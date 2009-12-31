@@ -1,0 +1,1 @@
+4. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Unióról szóló szerződés K.3. cikke alapján létrejött, az Európai Közösségek pénzügyi érdekeinek védelméről szóló egyezményhez csatolt, Brüsszelben, 1996. szeptember 27-én létrejött Jegyzőkönyv (továbbiakban 1996. szeptember 27-ei Jegyzőkönyv) kötelező hatályának elismerésére.
