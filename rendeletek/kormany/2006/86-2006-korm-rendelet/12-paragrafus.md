@@ -1,0 +1,3 @@
+12. § (1) A hitelfelvevő az aktuális kamatmérték ismeretében szeptember 30-áig, illetőleg február 28-áig dönthet az igényelt hitelösszeg mértékének megváltoztatásáról. Amennyiben a hitelfelvevő nem nyilatkozik, a hallgató és a Diákhitel Központ közötti megállapodás alapján a Diákhitel Központ változatlan feltételekkel folyósítja részére a hallgatói hitelt, ha a folyósítás egyéb feltételei fennállnak. Ez esetben a hallgatói hitel folyósítására a 13. § (3)–(5) bekezdéseiben meghatározott ellenőrzést követően kerül sor.
+
+(2) Amennyiben a hitelfelvevő a hallgatói hitel összegét, igénybevételének gyakoriságát módosítani kívánja, módosítási kérelmét a Diákhitel Központ üzletszabályzatában meghatározott módon és határidőben kell eljuttatnia a Diákhitel Központ részére.
