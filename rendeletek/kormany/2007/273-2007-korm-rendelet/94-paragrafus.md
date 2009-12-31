@@ -1,0 +1,1 @@
+94. § Az átviteli rendszerirányítási és az elosztó hálózati engedélyes gazdasági társaság saját éves üzleti tervére és az eladósodás mértékére javaslatot tesz. Amennyiben az anyavállalat az átviteli rendszerirányítási és az elosztó hálózati engedélyes javaslatát nem hagyja jóvá, az elutasítás, illetve módosítás indokait és körülményeit jelenteni kell a Hivatalnak.

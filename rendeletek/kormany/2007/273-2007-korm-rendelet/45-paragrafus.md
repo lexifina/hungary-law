@@ -1,0 +1,1 @@
+45. § A Hivatal által közcélúnak nyilvánított vezeték átminősítésére csak a 43. § (1) bekezdés a)–c) és e) pontjaiban meghatározott adatok vagy a vezeték átviteli-elosztói jellegének megváltozása esetén kerülhet sor.

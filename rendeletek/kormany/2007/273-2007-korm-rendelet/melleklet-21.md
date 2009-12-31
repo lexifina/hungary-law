@@ -1,0 +1,285 @@
+## A tevékenységek számviteli szétválasztásának alapelvei, a szétválasztással szemben támasztott követelmények és a szétválasztási módszer kötelező tartalmi elemei
+
+## Általános rendelkezések
+
+## Az integrált villamosenergia-ipari vállalkozás tevékenységeinek számviteli szétválasztásával megbízható és valós képet kell kapni a vállalkozás engedélyköteles tevékenységeinek (üzletágainak) vagyoni, pénzügyi és jövedelmi helyzetéről. A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti éves beszámoló, illetve összevont (konszolidált) éves beszámoló (a továbbiakban együtt: éves beszámoló) kiegészítő mellékletének alá kell támasztania, hogy a tevékenységek között keresztfinanszírozás nem történt, és hogy a vállalkozás nem engedélyes tevékenysége nem veszélyezteti az engedélyköteles tevékenység végzését.
+
+## A tevékenységek számviteli szétválasztása során alkalmazott módszereket és vetítési alapokat a társaság számviteli politikájának keretében elkészített számviteli szétválasztási szabályzatban kell részletesen meghatározni. Az éves beszámoló kiegészítő mellékletében a számviteli szétválasztási szabályzat ezen előírásaira is hivatkozni kell. Az engedélyesnek a számviteli szétválasztási szabályzatát a Hivatal bármikor ellenőrizheti.
+
+## Integrált villamosenergia-ipari vállalkozások esetében az engedélyes tevékenység(ek) beszámolási időszak alatti megszűnése esetén is tartalmaznia kell a tárgyévi kiegészítő mellékletnek az adott tevékenység(ek) mérlegeit és eredménykimutatásait.
+
+## I. A tevékenységek szétválasztásának alapelvei
+
+## 1. Teljeskörűség elve: a tevékenységek számviteli szétválasztása során – közvetlen hozzárendelés vagy valamilyen felosztási módszer alapján – minden eszköz, forrás, bevétel és ráfordítás felosztásra kerül a vállalkozás tevékenységei között, kivéve ahol a villamos energiáról szóló 2007. évi LXXXVI. törvény, illetve e rendelet felmentés ad.
+
+## 2. Áttekinthetőség és egyszerűség elve: a tevékenységek szétválasztása a vonatkozó törvényeknek megfelelően, lehetőleg egyszerű és átlátható szabályok szerint, nyomon követhető módon történjen.
+
+## 3. Állandóság elve: a számviteli szétválasztás során alkalmazott szabályrendszer megváltoztatására csak a Hivatal megfelelő idejű és tartalmú tájékoztatása mellett van lehetőség. A szabályrendszer megváltoztatását az engedélyes számviteli szabályzatában rögzíteni kell, és az éves beszámoló kiegészítő mellékletében is be kell mutatni.
+
+## 4. Folytonosság elve: a szétválasztott engedélyesek részére a folyamatos működéshez szükséges eszközöket és pénzforrásokat biztosítani kell.
+
+## II. A tevékenységek szétválasztásával szemben támasztott követelmények
+
+## 1. Az integrált villamosenergia-ipari vállalkozás engedélyes tevékenységeire készítendő kimutatás alatt az Szt. 1. számú mellékletében található „A” változatú mérleg és az Szt. 2. számú mellékletében szereplő, összköltségi-eljárással készülő „A” változatú eredménykimutatás értendő. A kimutatások tagolására és a tételek tartalmára a számvitelről szóló törvény vonatkozó előírásait kell alkalmazni. Az itt meghatározottaktól való eltérés a Hivatal jóváhagyásával lehetséges.
+
+## 2. Az eszközöket, forrásokat, bevételeket és ráfordításokat közvetlenül – vagy amennyiben közvetlenül egyes tevékenységhez nem rendelhetők – az engedélyes számviteli szétválasztási szabályzatában meghatározott módszerek és vetítési alapok alapján kell felosztani. Az eszközökhöz, illetve forrásokhoz kapcsolódó bevételek és ráfordítások tevékenységek közötti megosztását egymással összhangban kell megoldani.
+
+## 3. A több engedélyest kiszolgáló támogató és engedélyköteles tevékenységek esetén kiemelten fontos az adott tevékenységet igénybe vevők közötti költségfelosztás bemutatása és indoklása.
+
+## 4. A könyvvizsgáló az éves beszámoló vizsgálata keretében köteles felülvizsgálni, hogy a tevékenységek szétválasztásának szabályai megfelelően vannak dokumentálva, és hogy a szétválasztás a számviteli szétválasztási szabályzatnak megfelelően történt.
+
+## III. A szétválasztási módszer kötelező tartalmi elemei
+
+## 1. Közvetlenül az engedélyes tevékenységhez rendelhető eszközök, források, bevételek és ráfordítások körének fogalmi és tartalmi meghatározása.
+
+## 2. Közvetlenül az engedélyes tevékenységhez nem rendelhető eszközök, források, bevételek és ráfordítások megosztásának szabályai, legalább mérleg- és eredménykimutatás, illetve a villamos energiáról szóló 2007. évi LXXXVI. törvény és e rendelet szerint meghatározott tételenként.
+
+## 3. A több engedélyest kiszolgáló támogató és engedélyköteles tevékenységek költségeinek engedélyesenkénti felosztása, az alkalmazott árak kialakításának szabályai.
+
+21. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
+
+A benyújtandó üzletszabályzatok formátumára vonatkozó előírások
+
+## Az üzletszabályzatokat nyomdai úton előállítottan, fűzve vagy kötve, két oldalasra nyomtatva kell elkészíteni. Az üzletszabályzatokat rendelkezéseiben egyértelműen kell elkészíteni. Az oldalakat folyamatos számozással kell ellátni. A mellékletek és a függelékek minden lapján fel kell tüntetni, hányas számú melléklet vagy függelék lapjáról van szó. Az üzletszabályzat, a mellékletek és a függelékek minden oldalán fel kell tüntetni, melyik engedélyes szabályzatáról van szó. Az üzletszabályzatokat minimum 4 példányban kell jóváhagyásra benyújtani, melyből két példány marad a Hivatalban. Egy példány az engedélyes, egy példány a fogyasztóvédelmi hatóság példánya. Az üzletszabályzatokat elektronikus formában is be kell nyújtani CD vagy DVD lemezen. Azokban az esetekben, amikor az üzletszabályzatok módosítását kérelmezik az engedélyesek, szükséges egy példányban a korrektúrás változat benyújtása is, melyből egyértelműen megállapíthatók (például színeltéréssel) a módosítások. A korrektúrás változatot az engedélyesek elektronikusan is kötelesek mellékelni CD vagy DVD lemezen. A benyújtott üzletszabályzathoz mellékelni szükséges a jóváhagyásra vonatkozó kérelmet, és az igazgatási szolgáltatási díj átutalását igazoló dokumentum egy másolati példányát.
+
+## Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása
+
+## Az üzletszabályzatok jóváhagyásra történő benyújtása során csatolni szükséges a társadalmi szervezetekkel történt egyeztetések eredményeit tanúsító iratokat. Amennyiben a társadalmi és állami érdekképviseletekkel az egyetértés megvan, azt elegendő röviden jelezni. Amennyiben az egyetértés hiányzik, a kifogásokat egy összegző táblázatban a kifogást tevő megjelölésével és az elutasítás indoklásával megjelölve, össze kell gyűjteni és a jóváhagyásra beterjesztett üzletszabályzat mellékleteként csatolni. A csatolt dokumentumot az abban érintett érdekelt felek aláírásukkal hitelesítik.
+
+## Az üzletszabályzatok kötelező tartalmi követelményei
+
+## Az átviteli rendszerirányító, az elosztó hálózati engedélyes, a szervezett villamosenergia-piac engedélyese, valamint – a VET 72. § (5) bekezdésében foglalt kivétellel – a villamosenergia-kereskedő és a termelői engedélyes köteles üzletszabályzatot kidolgozni és azt szerződéses kapcsolataiban alkalmazni. Az engedélyes köteles üzletszabályzatában az általa nyújtott szolgáltatások általános műszaki, kereskedelmi, elszámolási és fizetési szerződési feltételeit feltüntetni. Az üzletszabályzatoknak ennek alapján különösen a következőket kell tartalmazniuk.
+
+I. Általános rendelkezések
+
+1. Az üzletszabályzat hatálya, fogalommeghatározások, az engedélyesre vonatkozó adatok, tevékenység bemutatása.
+
+2. Az üzletszabályzattól – mint általános szerződési feltételrendszertől – történő eltérés lehetőségei, egyedi feltételek kialakításának lehetősége. Egyedi feltételek alkalmazása esetén az engedélyes köteles az egyedi feltételeket nyilvánosságra hozni, és azokat minden, a feltételeket teljesítő szerződő fél részére biztosítani. E rendelkezést az üzletszabályzatban fel kell tüntetni, a nyilvánosságra hozatal helyének megjelölésével együtt.
+
+3. Az engedélyes által nyújtott szolgáltatás részletes bemutatása, ehhez kapcsolódóan:
+
+a) a szolgáltatást igénybe venni kívánó rendszerhasználó szerződéskötési igényének kezelése (folyamat a szerződéskötésig, a szerződéskötést megelőzően a felek által teljesítendő feltételek)
+
+aa) igénybejelentés rendje
+
+ab) tájékoztatás az igénybejelentésre az engedélyes részéről, annak megjelölésével, hogy más engedélyeseknél történő eljárást bizományosi, megbízási szerződés alapján ellát-e, ha igen, mely engedélyeseknél és milyen feltételek szerint, ideértve ennek ellenértékét is
+
+ac) a szerződéskötéshez szükséges adatok, iratok biztosításának rendje;
+
+b) a szerződéskötésre vonatkozó szabályok
+
+ba) a létrejövő szerződést – annak teljes tartalmával – írásba kell foglalni
+
+bb) a szerződés hatálybalépéséhez szükséges esetleges további feltételek (igazolások, nyilatkozatok más engedélyesektől, ezek beszerzésének rendje, határideje);
+
+c) a szerződés teljesítésére vonatkozó rendelkezések
+
+ca) az engedélyes által nyújtott szolgáltatás mennyiségi és minőségi paraméterei
+
+cb) elszámolás, elszámolási időszakok
+
+cc) mérés, elszámolás hibás mérés esetén
+
+cd) mérlegkörre vonatkozó információk
+
+ce) fizetési módok és határidők;
+
+d) a szerződés teljesítésében részt vevő harmadik személyek és a velük fennálló kapcsolatok bemutatása;
+
+e) eljárás üzemzavar, korlátozás esetén
+
+ea) kölcsönös tájékoztatási kötelezettség
+
+eb) a tájékoztatás elmulasztásának következményei
+
+ec) együttműködés a helyreállítás érdekében;
+
+f) a szerződés megszűnésének esetei
+
+fa) a szerződés időtartamának meghatározása
+
+fb) rendes felmondás szabályai – a rendes felmondás joga nem korlátozható
+
+fc) azonnali hatályú felmondás – az azonnali felmondáshoz vezető súlyos szerződésszegések meghatározása
+
+fd) a szerződés megszűnésének egyéb esetei
+
+fe) elszámolás a szerződés megszűnése esetén;
+
+g) a szerződésszegés kezelése
+
+ga) a szerződésszerű teljesítés ellenőrzésének módja, eljárásrendje
+
+gb) a szerződésszegés bizonyítására vonatkozó szabályok
+
+gc) az azonnali felmondást nem eredményező szerződésszegések következményei;
+
+h) adatvédelem
+
+ha) a szerződő fél kezelt személyes adatainak köre
+
+hb) azon személyek megjelölése, akik számára a kezelt adatok vagy azok meghatározott részei átadhatók
+
+hc) eljárásrend a személyes adatokhoz fűződő jogok megsértése esetén;
+
+i) panaszügyintézésre vonatkozó rendelkezések
+
+ia) a beérkező panaszok rögzítése, archiválása
+
+ib) a szükséges egyeztetések végrehajtásának dokumentálása
+
+ic) érdemi válaszadási határidő
+
+id) a válaszadási határidő elmulasztásának következménye;
+
+j) ügyfélszolgálatok, fogyasztói irodák, egyéb elérhetőségek
+
+ja) állandó ügyfélszolgálati irodák felsorolása, azok nyitvatartási idejével együtt, az ott ellátott feladatok megjelölésével
+
+jb) ügyfélszolgálati fiókirodák felsorolása, azok nyitvatartási idejével együtt, az ott ellátott feladatok megjelölésével
+
+jc) telefonszámok, postacímek, azok megjelölésével együtt, hogy mely telefonszámon milyen ügyeket lehet elintézni, illetve mely postacímen milyen bejelentés tehető;
+
+k) vitarendezés, értesítések
+
+ka) irányadó jogszabályok megjelölése
+
+kb) bírósági kikötések
+
+kc) kölcsönös értesítések rendje, határideje, módja.
+
+4. Az engedélyes köteles az üzletszabályzathoz minden, általa alkalmazott szerződésmintát csatolni.
+
+II. Az egyes engedélyesekre vonatkozó további rendelkezések
+
+1. Az átviteli rendszerirányító köteles az 1. pontban előírtakon felül üzletszabályzatában szabályozni, illetve feltüntetni:
+
+a) a villamosenergia-rendszer működéséhez, valamint a folyamatos és biztonságos villamosenergia-ellátáshoz szükséges információk részletes körét, ezen információk átadásának rendjét;
+
+b) a mérések és elszámolások rendjét;
+
+c) a rendszerszintű szolgáltatások beszerzésének rendjét, a beszerzések feltételeinek nyilvánosságra hozatala módját;
+
+d) a rendszerszintű szolgáltatások beszerzésére és értékesítésére vonatkozó általános szerződési feltételek mintáját;
+
+e) a folyamatos és biztonságos szolgáltatásra vonatkozó, üzleti titok körébe nem tartozó főbb műszaki paramétereket;
+
+f) a környezetvédelmi előírások betartásának garanciális feltételeit;
+
+g) a vásárlók/felhasználók biztonságos ellátására vonatkozó garanciákat, az üzemzavarok elhárítására vonatkozó rendelkezéseket;
+
+h) a fejlesztési tervek végrehajtásának rendjét;
+
+i) az üzemzavar, korlátozás és szüneteltetés esetén alkalmazandó szabályokat;
+
+j) a villamosenergia-piac más résztvevőivel való együttműködés műszaki feltételeit;
+
+k) az átviteli hálózathoz történő hozzáférés műszaki feltételeit;
+
+l) meg kell határozni a termelőkkel, a kereskedőkkel, a felhasználókkal, valamint a rendszerirányítóval történő együttműködés körét és eljárásrendjét;
+
+m) a mérőberendezések felszerelésének, hitelesítésének és karbantartásának rendjét;
+
+n) az idegen ingatlanok tulajdon- és használati jogának korlátozására vonatkozó eljárások rendjét;
+
+o) az üzemi szabályzatban meghatározott adatok és információk szolgáltatásának rendjét;
+
+p) a csatlakozási költség megfizetésére vonatkozó szabályokat;
+
+q) a minőségre, megbízhatóságra vonatkozó követelményeket;
+
+r) a termelőkkel, a rendszerirányítóval, a kereskedővel, a felhasználókkal kötendő szerződési feltételeket;
+
+s) a csatlakozásra vonatkozó szabályokat;
+
+t) a mérésre vonatkozó szabályokat, eljárásrendet.
+
+2. Az elosztó hálózati engedélyesek kötelesek az I. pontban előírtakon felül üzletszabályzatukban szabályozni, illetve feltüntetni:
+
+a) a folyamatos és biztonságos szolgáltatásra vonatkozó, üzleti titok körébe nem tartozó főbb műszaki paramétereket;
+
+b) a környezetvédelmi előírások betartásának garanciális feltételeit;
+
+c) a vásárlók/felhasználók biztonságos ellátására vonatkozó garanciákat, az üzemzavarok elhárítására vonatkozó rendelkezéseket;
+
+d) a fejlesztési tervek végrehajtásának rendjét;
+
+e) az üzemzavar és korlátozás esetén alkalmazandó szabályokat;
+
+f) a villamosenergia-piac más résztvevőivel való együttműködés műszaki feltételeit;
+
+g) a közcélú hálózathoz történő hozzáférés műszaki feltételeit;
+
+h) az idegen ingatlanok tulajdon- és használati jogának korlátozására vonatkozó eljárások rendjét;
+
+i) a hálózaton végzendő, előre tervezhető karbantartási-felújítási munkálatok végzéséről történő értesítés rendjét;
+
+j) a mérőberendezések felszerelésének, hitelesítésének és karbantartásának rendjét;
+
+k) az összekötő berendezések üzemeltetésére és az üzemzavar elhárítására vonatkozó szerződések feltételeit;
+
+l) a villamosenergia-ellátási szabályzatokban meghatározott adatok és információk szolgáltatásának rendjét;
+
+m) a felhasználói igény kielégítésének műszaki-gazdasági feltételeinek közlésére vonatkozó határidőket;
+
+n) a csatlakozási költség megfizetésére vonatkozó szabályokat;
+
+o) a közvilágítás céljait szolgáló berendezések közcélú hálózat tartószerkezetein történő elhelyezésére és üzemeltetésére vonatkozó szabályokat, valamint szerződési feltételeket;
+
+p) a szolgáltatás minőségére vonatkozó követelményeket;
+
+r) a kereskedővel kötött szerződések felhasználókat is érintő rendelkezéseit;
+
+s) az ügyfélszolgálati fiókirodán ellátandó ügytípusokat;
+
+t) a csatlakozási szerződés és a hálózathasználati szerződés mintáját;
+
+u) a szerződés nélkül villamos energiát vételező személyekkel szembeni eljárás rendjét, az ellátásban való részvétel jogszerűvé tételének módját.
+
+3. A szervezett villamosenergia-piac engedélyese üzletszabályzatában az I. pontban foglaltakon túl köteles szabályozni, illetve feltüntetni:
+
+a) a szervezett villamosenergia-piacon történő kereskedés feltételeit;
+
+b) a szervezett villamosenergia-piaci tagság feltételeit.
+
+4. A villamosenergia-kereskedő az I. pontban meghatározott feltételeken túl üzletszabályzatában köteles szabályozni, illetve feltüntetni:
+
+a) a villamos energia értékesítésére vonatkozó általános szerződési feltételeinek mintáját;
+
+b) az általa alkalmazott áralkalmazási feltételeket és az árakat;
+
+c) az árak megváltoztatásának feltételeit, árváltozás esetén alkalmazandó eljárást;
+
+d) a védendő fogyasztók részére nyújtott különleges bánásmód részletes szabályait;
+
+e) az ügyfélszolgálati fiókirodán ellátandó ügytípusokat;
+
+f) az egyetemes szolgáltatásba történő visszatérés feltételeit;
+
+g) a felhasználó igénye esetén a közcélú hálózathoz való hozzáférés biztosítása érdekében a hálózati engedélyesekkel kötendő bizományosi, megbízási szerződések mintáját; ideértve a hálózati engedélyessel kötendő szerződés megkötésére, módosítására, felmondására vonatkozó egyedi megbízások mintáját is;
+
+h) az egyedi közvilágítási szerződési feltételeket.
+
+5. Az egyetemes szolgáltató az I. pontban, illetve a II.4. pontban meghatározottakon felül üzletszabályzatában köteles szabályozni, illetve feltüntetni:
+
+a) az igénybejelentésre szolgáló nyomtatvány mintáját;
+
+b) az igénybejelentéssel kapcsolatosan a hálózati engedélyessel történő egyeztetés határidejét;
+
+c) a felhasználó személyében bekövetkező változás esetén a helyszíni ellenőrzésről szóló, a felhasználó részére küldött értesítés mintáját, amelynek tartalmaznia kell a felhasználó időpont-egyeztetésre vonatkozó jogára történő figyelmeztetést is;
+
+d) az egyetemes szolgáltatási körből történő kilépés rendjét.
+
+6. A termelő az I. pontban meghatározott feltételeken túl üzletszabályzatában köteles szabályozni, illetve feltüntetni:
+
+a) a folyamatos és biztonságos szolgáltatásra vonatkozó, üzleti titok körébe nem tartozó főbb műszaki paramétereket;
+
+b) a környezetvédelmi előírások betartásának garanciális feltételeit;
+
+c) a vásárlók/felhasználók biztonságos ellátására vonatkozó garanciákat, az üzemzavarok elhárítására vonatkozó rendelkezéseket;
+
+d) a fejlesztési tervek végrehajtásának rendjét;
+
+e) az üzemzavar és korlátozás esetén alkalmazandó szabályokat;
+
+f) a villamosenergia-piac más résztvevőivel való együttműködés műszaki feltételeit.

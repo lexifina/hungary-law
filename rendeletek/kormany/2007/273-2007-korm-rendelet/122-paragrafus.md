@@ -1,0 +1,1 @@
+122. § Az e rendelet hatálybelépését megelőzően továbbadást folytató felhasználó a 38. § (2) bekezdése szerinti tájékoztatási kötelezettségének e rendelet hatálybalépését követő 60 napon belül eleget tesz.

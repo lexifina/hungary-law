@@ -1,0 +1,1 @@
+42. § A Hivatal által a VET 37. §-ának (1) bekezdése szerinti hatáskörben folytatott eljárás során az átviteli rendszerirányító kötelezettsége a közcélú hálózattal kapcsolatosan a véleménynyilvánítás a Hivatal részére a rendszerösszekötő vezetékre vonatkozó mentesítési kérelem elbírálás elősegítése céljából.

@@ -1,0 +1,5 @@
+95. § (1) Az átviteli rendszerirányítási és az elosztó hálózati engedélyes köteles olyan szervezeti egységekről, és ahhoz tartozó szakszemélyzetről gondoskodni, amelyek képesek meghozni a VET 101. §-ának l) pontjában foglalt – a 84. § (1) bekezdése szerinti – tevékenységre vonatkozó önálló döntéseket.
+
+(2) Az átviteli rendszerirányítási és az elosztó hálózati engedélyes köteles olyan szervezeti egységekről, és ahhoz tartozó szakszemélyzetről gondoskodni, amelyek képesek meghozni a működési engedélyek alapján, a Hivatal jóváhagyásával a 84–89. § rendelkezéseivel összhangban kiszervezett tevékenységekre vonatkozó önálló döntéseket.
+
+(3) A Hivatal által küldött írásbeli küldemények (levelek, értesítések, meghívók, határozatok stb.) kézbesítése az átviteli rendszerirányítási és az elosztó hálózati engedélyben rögzített elérhetőségekre történik, függetlenül attól, hogy a küldemény tárgyát képező átviteli rendszerirányítási, hálózati vagy támogató tevékenységet az engedélyes vállalkozás keretében végzik-e.

@@ -1,0 +1,1 @@
+88. § Amennyiben az engedélyes engedélyköteles tevékenységéhez kapcsolódó tevékenységek egyes elemeit – a Hivatal hozzájáruló határozata alapján – kapcsolt vállalkozás végzi, úgy e kapcsolt vállalkozás a kiszervezéssel érintett kapcsolódó tevékenység végzésére – sem részben sem egészben – nem jogosíthat fel más vállalkozást.

@@ -1,0 +1,1 @@
+19. § A profil elszámolású felhasználó által fizetett rendszerhasználati díjak tartalmazzák a menetrend kiegyensúlyozásának költségeit is a rendszerhasználati díjak megállapításáról szóló miniszteri rendeletben meghatározottak szerint.

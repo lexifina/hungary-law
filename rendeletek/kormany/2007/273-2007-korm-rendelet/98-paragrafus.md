@@ -1,0 +1,1 @@
+98. § Bizalmas információk esetén az átviteli rendszerirányítási és az elosztó hálózati engedélyes a megfelelési program, illetve a megfelelési jelentés Hivatalhoz történő benyújtása során kérheti a megfelelési program és a megfelelési jelentés egyes részeinek bizalmas kezelését. A Hivatal egyetértése esetén a bizalmasnak minősített részeket nem kell nyilvánosságra hozni.

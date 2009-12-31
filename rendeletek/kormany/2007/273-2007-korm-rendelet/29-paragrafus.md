@@ -1,0 +1,1 @@
+29. § Az engedélyes üzletszabályzatában köteles a felhasználói beadványok kezelésére, valamint a felhasználók panaszai benyújtására vonatkozó részletes szabályokat feltüntetni. A felhasználói beadványok engedélyes által történő érdemi elbírálásának határideje 30 napnál hosszabb nem lehet.

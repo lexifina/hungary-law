@@ -1,0 +1,3 @@
+20. § (1) Az adott időszakra vonatkozó mért fogyasztás és az ugyanezen időszakra előre megbecsült fogyasztás különbségét (a továbbiakban: profil mennyiségi eltérés) a villamosenergia-ellátási szabályzatokban meghatározottak szerint évente kell a felhasználóval elszámolni.
+
+(2) Amennyiben az elosztóval való pénzügyi elszámolások tekintetében a profil elszámolású felhasználó nevében villamosenergia-kereskedő vagy egyetemes szolgáltató jár el, akkor a profil mennyiségi eltérés díját a villamosenergia-ellátási szabályzatokban meghatározottak szerint a villamosenergia-kereskedővel vagy egyetemes szolgáltatóval kell elszámolni.

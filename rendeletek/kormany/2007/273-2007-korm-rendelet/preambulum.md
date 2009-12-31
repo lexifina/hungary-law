@@ -1,0 +1,1 @@
+A Kormány a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdésének 1–8., 10–18., 20–21., 25–29., 31–34., 36–37., valamint 39–40. pontjaiban foglalt felhatalmazás alapján – az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva – a VET egyes rendelkezéseinek végrehajtására a következőket rendeli el:

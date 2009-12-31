@@ -1,0 +1,1 @@
+39. § A Hivatal a magánvezeték üzemeltetőjével szemben a jogszabályban foglalt kötelezettségének megsértése esetén – különösen a VET 66. § (4) bekezdésben foglaltak megszegése esetén – a VET 96. § (1) bekezdésében foglalt jogkövetkezményeket alkalmazhatja, illetőleg a tevékenység végzőjét azonnali hatállyal eltilthatja a tevékenység folytatásától.

@@ -1,0 +1,1 @@
+124. § Amennyiben a 78. § (2) bekezdése szerinti eszközök az átviteli rendszerirányításra vonatkozó működési engedély benyújtásakor nem képezik a kérelmező tulajdonát, az átviteli rendszerirányításra vonatkozó működési engedély a tulajdonjognak a Hivatal által előírt határidőn belül történő megszerzése feltételével adható meg.
