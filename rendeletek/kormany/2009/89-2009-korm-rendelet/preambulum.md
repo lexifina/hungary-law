@@ -1,0 +1,1 @@
+A Kormány a pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény 19. §-ának a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva, a következőket rendeli el:
