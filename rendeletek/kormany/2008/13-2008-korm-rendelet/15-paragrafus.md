@@ -1,0 +1,3 @@
+15. § (1) A kettős elszámolású kibocsátás-csökkentéssel járó együttes végrehajtási projektek által 2008. január 1. és 2012. december 31. között elért éves kibocsátás-csökkentést külön jogszabály szerint kell nyomon követni és hitelesíteni.
+
+(2) Az (1) bekezdés szerint hitelesített kibocsátás-csökkentés elismerésére legfeljebb a 8. mellékletben az adott projekt számára meghatározott kibocsátás-csökkentési egység mennyiség adható át, olyan módon, hogy ezzel egyidejűleg megegyező számú kibocsátási egység kerül törlésre az együttes végrehajtási projekt tartalékból. Az átadás részletes szabályairól külön jogszabály rendelkezik.

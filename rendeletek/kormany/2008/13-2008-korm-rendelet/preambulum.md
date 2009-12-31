@@ -1,0 +1,1 @@
+Az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény 20. § (5) bekezdés a)–b) pontjában és az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 14. § (5) bekezdés b)–c) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
