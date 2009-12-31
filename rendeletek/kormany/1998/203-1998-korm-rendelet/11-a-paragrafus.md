@@ -1,0 +1,79 @@
+11/A. §[^69] (1)[^70]
+
+(2)[^71] A bányatelek megállapítására irányuló kérelemhez – a (10) bekezdésben foglaltak figyelembevételével – mellékelni kell:
+
+a)[^72] a megállapításra kért bányatelek egészére vonatkozóan a külön jogszabály hatálya alá tartozó tevékenység esetén
+
+aa) azt a határozatot, amelyben a környezetvédelmi, természetvédelmi és vízügyi felügyelőség megállapította, hogy a tervezett tevékenység nem környezetvédelmi engedély- és nem egységes környezethasználati engedély-köteles, vagy
+
+ab) a környezetvédelmi engedélyt, vagy
+
+ac) az egységes környezethasználati engedélyt;
+
+b) mélyművelésre vagy külfejtéses művelésre tervezett bányatelek esetében a megállapításra kért bányatelekkel érintett ingatlanok
+
+ba) ingatlan-nyilvántartás szerinti tulajdonosainak (vagyonkezelőinek, használóinak) név- és címjegyzékét, és
+
+bb) rendeltetésének, használati állapotának leírását;
+
+c)[^73] külfejtéses művelésre tervezett bányatelek esetében a bányatelekkel lefedni tervezett ingatlanok várható igénybevételi ütemtervét
+
+ca) a kitermelés megkezdésének tervezett időpontjától számított első öt évre vonatkozóan évenkénti,
+
+cb) az 5-ödik év és a 35-ödik év közötti időtartamra vonatkozóan ötévenkénti bontásban,
+
+cc) a 35 évnél később tervezett igénybevétel esetén „35 éven túl” utalással.
+
+d) mélyművelésre vagy külfejtéses művelésre tervezett bányatelek esetében a Bt. 26/A. § (3) bekezdés e) pontjában előírt tájékoztatás egy példányát és a tájékoztatási kötelezettség teljesítését igazoló eredeti bizonylatokat, vagy azok hiteles másolatát;
+
+e) a Bt. 26/A. § (2) bekezdés b) pontja szerinti kérelem esetén a készletszámítási jelentést;
+
+f) a bányatelek műszaki leírását;
+
+g) a külön jogszabály szerinti bányatelek térképet;
+
+h) külfejtéses művelésre tervezett bányatelek esetében a tájrendezési előtervet.
+
+(3)[^74] A (2) bekezdés a)–d) pontok szerinti mellékleteket egy-egy, az e) pont szerinti mellékletet kettő, az f)–h) pontok szerinti mellékleteket a bányatelek megállapítási eljárásban szakhatóságként közreműködő érintett hatóságok számát kettővel meghaladó példányszámban kell benyújtani.
+
+(4) A (2) bekezdés f) pontjában foglalt műszaki leírásnak tartalmaznia kell:
+
+a) a bányatelek határvonala töréspontjainak EOV rendszer szerinti koordinátáit, a határvonal töréspontjainál a terep magasságát, az alap- és fedőlap magasságát, a haszonanyag fekü- és fedőszintjeit (mBf);
+
+b) a kutatási zárójelentés vagy a készletszámítási jelentés alapján a bányatelek földtani- és kitermelhető ásványvagyonának mennyiségét és minőségi jellemzőit;
+
+c) a bányászati tevékenységek következtében várható felszíni kőzetmozgásokkal szemben védelmet igénylő létesítmény, lakótelepülés, vízbázis, folyó- vagy állóvíz megjelölését;
+
+d) a kijelölendő határ-, illetve védőpillért, annak méretezését, valamint az abban lekötött ásványvagyont;
+
+e) a megállapítandó bányatelekkel határos, vagy azt részben vagy egészben magában foglaló bányatelkeket és azok határvonalait, alap- és fedőlap magasságát;
+
+f) a földalatti gáztárolásra megállapítani kért bányatelek esetében a tárolás céljára szolgáló földtani szerkezetbe, természetes vagy mesterséges üregbe mélyített fúrások műszaki állapotát, felhasználásuk lehetőségét, a szükséges külszíni berendezéseket, azok műszaki jellemzőit és a gáztárolásnak a környezet veszélyeztetését, szennyezését, károsítását kizáró technológiáját.
+
+(5) A műszaki leírásban ismertetni kell:
+
+a) a feltáráskor, kitermeléskor várható melléktermékek, hulladékok fizikai és kémiai tulajdonságait;
+
+b) az ásványi nyersanyag feltárására, kitermelésére kiválasztható bányászati módszereket (mélyművelés, külfejtés, fúrólyukas – ezen belül irányított ferdefúrású vagy vízszintes fúrású – módszer) és ezek várható hatásait a felszín alatti vizekre, valamint a környezet más elemeire;
+
+c) a feltáráshoz, kitermeléshez várhatóan szükséges külszíni és felszín alatti létesítménycsoportok megnevezését;
+
+d) a kitermelési feltételek teljesíthetőségét (beleértve a kitermelt ásványi nyersanyag elszállítását a legközelebbi országos közútig vagy szénhidrogén szállítóvezetékig).
+
+(6) A (2) bekezdés h) pontjában foglalt tájrendezési előtervet a környezetvédelmi engedélyre, a hatályos területrendezési, illetve szabályozási tervekre, továbbá az ingatlanok igénybevételi ütemtervére figyelemmel kell elkészíteni. A tájrendezési előtervnek tartalmaznia kell a tervezett bányászati tevékenység során kialakuló terepviszonyok, valamint a megépítendő létesítmények szöveges leírását és térképét.
+
+(7) A tájrendezési előterv szöveges részében ismertetni kell az újrahasznosítási célt és e cél megvalósításához szükséges feladatokat, a tájrendezéssel kialakítandó új terepviszonyokat és létesítményeket, kialakításuk ütemezését és módszerét.
+
+(8) A külön jogszabályban meghatározott bányaművelési térkép méretarányának megfelelő térképen ábrázolni kell a tájrendezéssel kialakított új terepviszonyokat, ezek magassági adatait és az érthetőséget elősegítő metszeteket; valamint az ingatlan-nyilvántartási térkép tartalmát.
+
+(9) Ha a bányatelek határain belül a tervezett bányászati tevékenység következtében a felszín alatti vízkészletből származó állóvíz kialakulásával és a bányászat befejezését követő fennmaradásával kell számolni, úgy a külön jogszabály figyelembevételével a tájrendezési előtervben meg kell határozni az ezzel kapcsolatos előzetes vízgazdálkodási, környezet-, természet- és tájvédelmi feltételeket, amelyeket a tájrendezés, illetve a bányabezárás során figyelembe kell venni.
+
+(10)[^75] Ha a kérelmező a kérelemhez a megállapításra kért bányatelekkel érintett ingatlanok ingatlan-nyilvántartás szerinti tulajdonosainak, vagyonkezelőinek, valamint használóinak név- és címjegyzékét nem csatolja, a bányakapitányság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
+
+[^69]: A Vhr. 11/A. §-át a 106/2005. (VI. 16.) Korm. rendelet 16. §-a iktatta a szövegbe.
+[^70]: A Vhr. 11/A. §-ának (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 148. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^71]: A Vhr. 11/A. § (2) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^72]: A 11/A. § (2) bekezdésének a) pontja a 314/2005. (XII. 25.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg. E módosító rendelet 27. § (1) bekezdése alapján a rendelkezést a 2006. január 1. napját követően indult eljárásokban kell alkalmazni.
+[^73]: A Vhr. 11/A. §-a (2) bekezdésének c) pontja az 57/2008. (III. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (1) bekezdése alapján a rendelkezést a 2008. április 3. napja után indult eljárásokban kell alkalmazni.
+[^74]: A Vhr. 11/A. §-ának (3) bekezdése az 57/2008. (III. 26.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 63. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^75]: A Vhr. 11/A. §-ának (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
