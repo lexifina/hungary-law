@@ -1,0 +1,3 @@
+22. § (1) Törvény eltérő rendelkezése hiányában az elektronikus közszolgáltatást igénybe vevő természetes személy számára az ügyei elektronikus intézése során elektronikusan keletkezett vagy rendelkezésre álló iratok elektronikus rendelkezésre bocsátása ingyenes, ezzel összefüggésben semmilyen költséget, díjat felszámítani nem lehet.
+
+(2) Ha a jogi személy vagy a jogi személyiség nélküli szervezet jogszabály alapján a közigazgatási hatóság által elektronikusan vezetett nyilvántartásokban róla kezelt adatokhoz az adattovábbítás költségeinek megfizetése ellenében férhet hozzá, az elektronikus közszolgáltatást nyújtó szervezet az adattovábbítás költségét a központi rendszer útján is köteles közzétenni.
