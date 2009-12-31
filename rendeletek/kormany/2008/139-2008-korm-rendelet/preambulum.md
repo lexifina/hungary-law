@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 84. §-a (1) bekezdésének d) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:

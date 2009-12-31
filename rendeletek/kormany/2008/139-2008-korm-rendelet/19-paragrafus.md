@@ -1,0 +1,1 @@
+## 18. § Az MFB köteles az ellenőrzést tűrni és együttműködni, az ellenőrzés céljából a kamattámogatással kapcsolatos nyilvántartásokat naprakészen és elkülönítetten vezetni és az ellenőrzéskor bemutatni.

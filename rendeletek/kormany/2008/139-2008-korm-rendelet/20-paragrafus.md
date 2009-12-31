@@ -1,0 +1,1 @@
+## 19. § Az utólagos ellenőrzések során az MFB hibájából jogtalannak ítélt kamattámogatás összegét az MFB köteles a folyósítás időpontjában érvényes jegybanki alapkamat kétszeresével növelt értékben a fizetési felszólítás kézhezvételét követő 8 napon belül az NFÜ-nek visszafizetni.

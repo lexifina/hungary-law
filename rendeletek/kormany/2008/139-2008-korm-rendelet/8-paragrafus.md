@@ -1,0 +1,3 @@
+8. § (1) A kamattámogatás igénybevételére a kedvezményezett a kifizetési kérelem támogatási részének támogató általi kifizetésének időpontját magában foglaló tárgynegyedév első napjától jogosult, de legfeljebb a hitelfolyósítás, illetve kötvénykibocsátás napjáig visszamenőleg, amennyiben a melléklet a tárgynegyedév utolsó hónapjának 15. napjáig a finanszírozó hitelintézet és az MFB részére megküldésre került.
+
+(2) Abban az esetben, ha a támogatás kifizetésére tárgynegyedévben kerül sor, de az erről szóló igazolás a tárgynegyedév utolsó hónapjának 15. napjáig a finanszírozó hitelintézet és az MFB részére nem került megküldésre, kamattámogatás csak az igazolás benyújtásának napját követő negyedév első napjától vehető igénybe.

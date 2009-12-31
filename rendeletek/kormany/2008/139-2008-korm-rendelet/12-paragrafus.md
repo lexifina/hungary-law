@@ -1,0 +1,1 @@
+## 11. § A kedvezményezett köteles az ellenőrzés során együttműködni, az ellenőrzés céljából a kedvezményes kamatozású forrással kapcsolatos nyilvántartásokat naprakészen és elkülönítetten vezetni és az ellenőrzéskor bemutatni.

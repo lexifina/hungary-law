@@ -1,0 +1,1 @@
+## 10. § A kamattámogatással felvett kedvezményes kamatozású hitel-, illetve kibocsátott kötvény kedvezményezett általi rendeltetésszerű és a jogszabályoknak megfelelő felhasználását a támogató, az MFB, a finanszírozó hitelintézet, a befektető, továbbá jogszabályban erre feljogosított egyéb szervek ellenőrizhetik.
