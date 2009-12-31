@@ -1,0 +1,1 @@
+Az államháztartásról szóló – többször módosított – 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 124. §-a (2) bekezdésének d) pontjában kapott felhatalmazás alapján, figyelemmel az Áht. 15/B. §-ának (3) bekezdésére, a Kormány a következőket rendeli el:
