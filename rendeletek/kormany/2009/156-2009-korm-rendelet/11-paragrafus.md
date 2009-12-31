@@ -1,0 +1,1 @@
+## 10. § A Kkt. 20. § (1) bekezdés i) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 9. mellékletben meghatározott összegű bírságot köteles fizetni az, aki a nemzetközi kombinált árufuvarozást elősegítő kedvezményekről szóló 266/2003. (XII. 24.) Korm. rendeletben foglalt rendelkezést megsérti.
