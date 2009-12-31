@@ -1,0 +1,1 @@
+## 52. § A végső kedvezményezettekre vonatkozó pályázati kiírásnak és a támogatási szerződésnek megfelelő részletezettséggel kell tartalmaznia az ellenőrzés tűrési kötelezettséget, és annak megtagadása esetére a szankciókat is.

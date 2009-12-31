@@ -1,0 +1,3 @@
+33. § (1) A fejezet – az Áht. vonatkozó előírásai alapján – felelős a feladatfinanszírozási okmányok időben történő benyújtásáért a Kincstár felé. Valamennyi feladatfinanszírozási okmányon fel kell tüntetni a Phare, illetve az Átmeneti Támogatás program, alprogram, projekt azonosító kódot is.
+
+(2) A Phare és az Átmeneti Támogatás hazai társfinanszírozási részét biztosító fejezet köteles a Programengedélyező kérésére rendszeres adatszolgáltatás formájában megadni a hazai társfinanszírozásból és az egyéb forrásokból teljesített kifizetések adatait, hogy a végrehajtó szervezet a 30. § e), f) és g) bekezdéseiben foglaltaknak eleget tudjon tenni.
