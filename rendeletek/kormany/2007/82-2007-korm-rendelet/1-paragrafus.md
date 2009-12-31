@@ -1,0 +1,51 @@
+## I. Fejezet
+
+## ÁLTALÁNOS SZABÁLYOK
+
+## A rendelet hatálya
+
+1. § (1) E rendelet hatálya kiterjed az Európai Mezőgazdasági Vidékfejlesztési Alap (a továbbiakban: EMVA), az Európai Halászati Alap (a továbbiakban: EHA), valamint az Európai Mezőgazdasági Garancia Alap (a továbbiakban: EMGA), (a továbbiakban együtt: alapok) által finanszírozott programok és intézkedések pénzügyi tervezésében, pénzügyi és számviteli lebonyolításában részt vevő alábbi szervekre:
+
+a) a földművelésügyi és vidékfejlesztési miniszterre mint forrásgazdára, felügyeleti szervre és irányító hatóságra,
+
+b) a Mezőgazdasági és Vidékfejlesztési Hivatalra (a továbbiakban: MVH) mint mezőgazdasági és vidékfejlesztési támogatási szervre,
+
+c) a Magyar Államkincstárra (a továbbiakban: Kincstár) mint a lebonyolításban közreműködő szervre,
+
+d) a Vám- és Pénzügyőrség Országos Parancsnokságának (a továbbiakban: VPOP) OLAF Koordinációs Irodájára mint a szabálytalanságok kezelésében közreműködő szervre,
+
+e) az Adó- és Pénzügyi Ellenőrzési Hivatalra (a továbbiakban: állami adóhatóság) mint az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettség beszedésére irányuló végrehajtási eljárást lefolytató adóhatóságra,
+
+f) a törvény 11. §-a (3) bekezdésének b)–f) pontjaiban meghatározott végrehajtási feladatot ellátó szervekre, illetve szervezetekre,
+
+g)[^1] a törvény 10. §-ának (1)–(2) bekezdésében meghatározott ügyfelekre, valamint ezek számláit vezető pénzforgalmi szolgáltatókra.
+
+(2) E rendelet hatálya kiterjed továbbá:
+
+a) az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlegéből finanszírozott Nemzeti Vidékfejlesztési Terv egyes intézkedései keretében támogatott kérelmek azon kifizetéseire, amelyek az 1320/2006/EK bizottsági rendelet rendelkezéseivel összhangban EMVA terhére áthúzódó tételek,
+
+b) az EMGA-ból finanszírozott egységes területalapú támogatásokhoz kapcsolódó kiegészítő nemzeti támogatásokra,
+
+c) az (1) bekezdésben meghatározott alapok és az a) pontban meghatározott intézkedések finanszírozásához kapcsolódó további, kizárólag a fejezeti költségvetést terhelő kiadásokra, amely tételekre a fejezeti költségvetésben céltartalékot kell képezni, úgy mint:
+
+ca) árfolyamveszteségek,
+
+cb) a központi intervenciós intézkedések költségeinek európai uniós (a továbbiakban: EU) átalánnyal nem fedezett része,
+
+cc) az Európai Unió által meg nem térített behajthatatlan kintlévőségek,
+
+cd) az EMGA javára teljesítendő rendkívüli befizetések, úgy mint az Európai Bizottság általi éves elszámolás során vagy vizsgálat eredményeként meghatározott, a szabálytalan támogatás felhasználás miatt és/vagy egyéb okból Magyarországra kirótt tagállami befizetési kötelezettség, illetve valamennyi, Magyarországra kirótt tagállami büntetés, pénzügyi korrekció az alapok bármelyike tekintetében,
+
+ce) az adók módjára behajtandó köztartozások állami adóhatóság általi végrehajtásához kapcsolódó, az adózás rendjéről szóló 2003. évi XCII. törvény 161. §-ának (2) bekezdése szerinti végrehajtási költségminimum,
+
+cf) követelés a csőd- és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 46. §-ának (7) bekezdése szerinti nyilvántartásba vételi díja,
+
+cg) behajtáshoz kapcsolódó, jogszabály alapján járó kifizetések,
+
+d) az (1) bekezdésben meghatározott alapok és az a) pontban meghatározott intézkedések finanszírozásához kapcsolódó, a fejezeti költségvetést illető bevételekre, úgy mint:
+
+da) árfolyamnyereségek,
+
+db) a központi intervenciós intézkedések költségei és az EU átalány közötti különbség.
+
+[^1]: Az 1. § (1) bekezdés g) pontja a 314/2009. (XII. 28.) Korm. rendelet 44. § (2) bekezdése szerint módosított szöveg.
