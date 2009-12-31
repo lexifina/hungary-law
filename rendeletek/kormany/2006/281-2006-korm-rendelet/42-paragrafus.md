@@ -1,0 +1,16 @@
+## 41. § Rendszerjellegű szabálytalanság megállapításáról a szabálytalansági vizsgálatot lefolytató szervezet vezetője köteles a szervezet belső ellenőrzését, a Nemzeti Fejlesztési Ügynökséget, az ellenőrzési hatóságot és az Igazoló Hatóságot 5 munkanapon belül értesíteni.
+
+42. § (1)[^115] A Nemzeti Fejlesztési Ügynökség felelőssége annak biztosítása, hogy a már kifizetett, de szabálytalanul felhasznált támogatási összegek a kedvezményezettektől behajtásra kerüljenek. A behajtott összeget a lebonyolítási pénzforgalmi számlán történő jóváírásáról szóló pénzforgalmi számlakivonat kézhezvételét követő 5 munkanapon belül a megfelelő fejezeti kezelésű előirányzat-felhasználási keretszámlára kell visszautalni. Amennyiben a visszafizetett támogatás összege korábban az Igazoló Hatóságtól lehívásra került, akkor a behajtott összeg közösségi támogatási részét a fejezeti kezelésű előirányzat-felhasználási keretszámlán történő jóváírásáról szóló pénzforgalmi számlakivonat kézhezvételét követő 5 munkanapon belül kell visszautalni az Igazoló Hatóság pénzforgalmi számlájára.
+
+(2)[^116] A Magyar Államkincstár által kiállított pénzforgalmi számlakivonatok adatait a pénzforgalmi számla felett rendelkezőknek az EMIR-ben a kézhezvételt követő 2 munkanapon belül kell rögzíteni és a rögzítést követő 2 munkanapon belül jóváhagyni.
+
+(3)[^117] Amennyiben az Európai Bizottság visszafizetésre szólítja fel az Igazoló Hatóságot, és a Nemzeti Fejlesztési Ügynökség az Igazoló Hatóság értesítését követően nem tudja behajtani a szabálytalanságban érintett összeget, akkor az Áht. 13/C. § értelmében a szabálytalanságért felelős, illetve annak hiányában a szabálytalanul felhasznált forrást folyósító fejezet költségvetéséből kell az érintett összeget, az Igazoló Hatóság megfelelő pénzforgalmi számlájára visszapótolni az Igazoló Hatóság által megadott fizetési határidőre.
+
+(4) Amennyiben a szabálytalanságban érintett összegeket a program zárásáig nem sikerült behajtani, akkor a behajtásra tett kísérletek és intézkedések valamennyi dokumentációját legalább a program zárását követő harmadik év végéig programonkénti bontásban meg kell őrizni.
+
+(5)[^118] Az Igazoló Hatóság a vonatkozó operatív program pénzforgalmi számláján jóváírt összeggel csökkentett átutalás igénylés dokumentációt nyújt be az Európai Bizottságnak.
+
+[^115]: A 42. § (1) bekezdése a 402/2007. (XII. 27.) Korm. rendelet 18. §-ával megállapított, a 340/2009. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2009. december 31. napját követően indult ügyekben kell alkalmazni.
+[^116]: A 42. § (2) bekezdése a 340/2009. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2009. december 31. napját követően indult ügyekben kell alkalmazni.
+[^117]: A 42. § (3) bekezdése a 340/2009. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2009. december 31. napját követően indult ügyekben kell alkalmazni.
+[^118]: A 42. § (5) bekezdése a 340/2009. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a 2009. december 31. napját követően indult ügyekben kell alkalmazni.

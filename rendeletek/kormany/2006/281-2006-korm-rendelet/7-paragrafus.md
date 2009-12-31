@@ -1,0 +1,3 @@
+## 6. §[^19] A Nemzeti Fejlesztési Ügynökség, az Igazoló Hatóság és a közreműködő szervezetek olyan irányítási és kontroll-rendszert alakítanak ki, amelyek biztosítják a támogatási szerződés teljesítésének és az igényelt kiadások hitelességének ellenőrzését, valamint biztosítják az alkalmazandó nemzeti és közösségi jogszabályok betartását, különösen a kiadások támogathatósága, a közbeszerzések, az állami támogatás, a környezetvédelem, a tisztességes verseny, az esélyegyenlőség tárgyában és a technikai segítségnyújtás tárgyában.
+
+[^19]: A 6. § a 402/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 32. § (1) bekezdését.
