@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (3) bekezdés a) pontjában kapott felhatalmazás alapján, a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény végrehajtásáról szóló 71/2006. (IV. 3.) Korm. rendelet 32/A. § (1) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:

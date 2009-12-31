@@ -1,0 +1,3 @@
+41. § (1) A munkavédelmi felügyelő az ellenőrzési jogosultságát – a helyszíni ellenőrzés során – az 5. melléklet szerinti munkavédelmi felügyelői igazolvány és a szolgálati/köztisztviselői igazolvány felmutatásával köteles igazolni.
+
+(2) A munkavédelmi felügyelői igazolványt az MH központi nyilvántartásáért felelős szerve állítja ki. A munkavédelmi igazolványok kezelésére, illetve kiadására a hivatásos, szerződéses és nyugállományú katonák, valamint a honvédelmi ágazatban foglalkoztatott köztisztviselők és közalkalmazottak igazolványairól szóló 24/2002. (IV. 10.) HM rendelet igazolványok kezelésével, illetve kiadásával kapcsolatos szabályait kell megfelelően alkalmazni.

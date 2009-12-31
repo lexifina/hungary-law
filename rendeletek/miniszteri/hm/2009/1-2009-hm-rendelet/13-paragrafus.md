@@ -1,0 +1,19 @@
+## A rendszeresítés követelményei
+
+13. § (1) Hadfelszerelési anyagot, illetve katonai védőeszközt rendszeresíteni abban az esetben szabad, ha az egészséget nem veszélyeztető és biztonságos munkavégzés általános követelményei mellett kielégíti a HMK előírásait is, és rendelkezik
+
+a) az adott anyagra, eszközre, mint termékre meghatározott megfelelőségi nyilatkozattal, illetve a megfelelőséget tanúsító egyéb dokumentummal,
+
+b) üzemeltetési dokumentációval,
+
+c) kockázatértékelési dokumentációval,
+
+d) a munkavédelmi szempontú előzetes vizsgálat végrehajtását igazoló jegyzőkönyvvel,
+
+e) az időszakos felülvizsgálatok rendjére (gyakoriságára, terjedelmére) vonatkozó előírásokkal, valamint
+
+f) az egészséget nem veszélyeztető és biztonságos használathoz szükséges egyéni, illetve katonai védőeszközök első ellátmányával.
+
+(2) A rendszeresítésre tervezett hadfelszerelési anyagra, katonai védőeszközre vonatkozó HMK-t az alkalmazó határozza meg. Hazai fejlesztés esetén az alkalmazó a HMK meghatározása során a rendszeresítésért és üzemeltetésért felelős szervezet véleményét is figyelembe veszi.
+
+(3) A rendszeresítésért felelős meghatározza a beszerzést előkészítő dokumentumokat, a rendszeresítést megelőző vizsgálatok körét, és az üzemeltetésért felelőssel történő egyeztetést követően javaslatot tesz a végrehajtásért felelős honvédelmi szervezetek kijelölésére.

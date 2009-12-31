@@ -1,0 +1,9 @@
+27. § (1) A munkavédelmi oktatások tematikáját a munkavédelmi szaktevékenységet ellátó személyek állítják össze és az állományilletékes parancsnok hagyja jóvá.
+
+(2) A munkavédelmi oktatás tematikájának összeállítása munkavédelmi szaktevékenységnek minősül.
+
+(3) A munkavédelmi oktatásról távol lévők részére pótoktatást kell szervezni.
+
+(4) Az elméleti munkavédelmi oktatást a munkavédelmi szaktevékenységet ellátó személy(ek), illetve a munkahely, hadfelszerelési anyag, tevékenység követelményeit, előírásait részletesen ismerő szakállomány vezeti. A gyakorlati munkavédelmi oktatást a munkahelyi vezetők vezetésével kell végrehajtani.
+
+(5) A munkavédelmi oktatást végrehajtó állomány oktatását, felkészítését külön kell tervezni és végrehajtani.
