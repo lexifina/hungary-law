@@ -1,0 +1,7 @@
+16. § (1) Amennyiben a támogatási szerződés módosítása kizárólag a kedvezményezett azonosító- vagy alapadatainak (pl. kedvezményezett azonosító adatai, címe, számlavezető bank neve, bankszámlaszám, önkormányzat képviseletére jogosult személy) változására vonatkozik, a támogatási szerződés módosítása a Tanács külön döntése nélkül, az Igazgatóság által előkészített formanyomtatvány kitöltésével, és a kedvezményezett, valamint a Tanács által aláírásra meghatalmazott személy által történő aláírásával érvényesnek tekintendő. A kedvezményezett és a Tanács által aláírt formanyomtatvány egy-egy eredeti példányát az Igazgatóság a kedvezményezett és a Tanács részére igazolható módon megküldi.
+
+(2)[^17] A kedvezményezett a kitöltött formanyomtatvány megküldésekor módosítási kezdeményezéséhez csatolja a szerződésmódosítás szükségességét alátámasztó dokumentumokat, valamint, ha a módosítás a kedvezményezett fizetési számlaszámára vonatkozik, az új fizetési számlára vonatkozóan a pénzforgalmi szolgáltatójának adott beszedési megbízás benyújtására szóló felhatalmazó levelét.
+
+(3) Nem tekintendő kizárólag a kedvezményezett azonosító- vagy alapadatainak változására irányuló szerződésmódosításnak az, ha a támogatási szerződésből eredő jogokat és kötelezettségeket harmadik személy a kedvezményezettől át kívánja vállalni.
+
+[^17]: A 16. § (2) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 61. § (2) bekezdésével megállapított szöveg.
