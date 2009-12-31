@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény (a továbbiakban: Tv.) 15. §-ának (3) bekezdésében foglalt felhatalmazás alapján a civil jelöltállítási rendszer működéséről, az Alapprogram kezelésének és felhasználásának szabályairól, az Alapprogram kezelőjének kijelöléséről, továbbá az ellenőrzés és beszámolás rendjéről a következő rendeletet alkotja:
