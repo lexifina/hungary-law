@@ -1,0 +1,1 @@
+A vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdésének d) pontjában kapott felhatalmazás alapján a vízgazdálkodási társulatok megalakulásával, működésével, megszűnésével és a közcélú érdekeltségi hozzájárulással kapcsolatos szabályokról a Kormány a következőket rendeli el:
