@@ -1,0 +1,1 @@
+## „(7) A rehabilitációs költségtámogatásra kötött keretszerződés a lejáratát követően 2010. december 31-ig meghosszabbítható, ha a munkáltató a jogszabályban előírt kötelezettségeket a támogatás jogszabályi feltételeinek megváltozására tekintettel is vállalja.”
