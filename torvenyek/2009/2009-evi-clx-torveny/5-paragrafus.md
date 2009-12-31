@@ -1,0 +1,7 @@
+5. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E törvény 2–4. §-a a Jegyzőkönyv 10. cikkében meghatározott időpontban lép hatályba.
+
+(3) A Jegyzőkönyv, illetve e törvény 2–4. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+(4) E törvény végrehajtásához szükséges intézkedésekről a honvédelemért, valamint az igazságügyért felelős miniszter és a rendészetért felelős miniszter gondoskodik.

@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a gyermekek fegyveres konfliktusba történő bevonásáról szóló, a Gyermek jogairól szóló egyezményhez fűzött Fakultatív Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
