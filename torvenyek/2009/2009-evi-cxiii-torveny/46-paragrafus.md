@@ -1,0 +1,13 @@
+46. § (1) A Jöt. 73. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az alkoholtermék zárjegye darabonként 1000 forint értéket képvisel, amelyet arra a zárjegyre kell megfizetni, amellyel az adóraktár engedélyese, a bejegyzett/nem bejegyzett kereskedő, a közösségi kereskedelmi tevékenységet folytató kereskedő és az importáló nem tud elszámolni (a továbbiakban: zárjegyhiány). A zárjegyhiány megfizetésére az Art.-nak az adóra vonatkozó rendelkezéseit kell alkalmazni.”
+
+(2) A Jöt. 73. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A zárjeggyel az adóraktár engedélyese a 49. § (3) bekezdése szerinti készletfelvétellel egyidejűleg, a 24. § (1) bekezdés szerinti bejegyzett kereskedő háromhavonta, az importáló, az eseti bejegyzett kereskedő és a közösségi kereskedelmi tevékenységet végző jövedéki engedélyes kereskedő az átvétel napját követő 60 napon belül köteles a vámhatóság felé elszámolni. Ha az importügylet vagy a más tagállamból való behozatal 60 napon belül nem bonyolódott le, az importálónak, az eseti bejegyzett kereskedőnek és a közösségi kereskedelmi tevékenységet végző jövedéki engedélyes kereskedőnek az elszámolásra a vámhatóság legfeljebb 30 nap haladékot adhat.”
+
+(3) A Jöt. 73. §-ának (9)–(10) bekezdései helyébe a következő rendelkezések lépnek:
+
+„(9) Az alkoholtermék – a 63. § (1) bekezdés c) pontja szerinti termék, valamint a (2) bekezdés a) és c)–f) pontjaiban foglalt esetek kivételével, illetve a (10) bekezdésben foglalt eltéréssel – 2 liter űrtartalmat meg nem haladó göngyölegben palackozva bocsátható szabad forgalomba, illetve hozható forgalomba a más tagállamból behozatalt követően.
+
+(10) Az alkoholtermék reklám, kiállítás céljából, valamint alkalmi, eseti kereskedelmi forgalmazásra 2 litert meghaladó, egyedileg beazonosítható göngyölegben való szabad forgalomba bocsátása, illetve más tagállamból történt behozatalt követően a forgalomba hozatala az adóraktár, a bejegyzett/nem bejegyzett kereskedő, az importáló vagy a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő által a vámhatósághoz teljesített előzetes bejelentés és annak a vámhatóság általi nyilvántartásba vételét követően lehetséges. A bejelentést esetenként, legkésőbb a forgalmazást, tagállamból történő behozatal esetében a behozatalt, importálás esetében pedig az importálást megelőző harmadik munkanapig kell elektronikus úton, az ügyfélkapun keresztül megtenni. A vámhatóság a bejelentést legkésőbb a bejelentést követő munkanapon nyilvántartásba veszi és arról a bejelentőt elektronikus úton, az ügyfélkapun keresztül értesíti.”

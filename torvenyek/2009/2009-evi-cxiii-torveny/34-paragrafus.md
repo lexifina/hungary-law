@@ -1,0 +1,3 @@
+34. § A Jöt. 42. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az adómentes felhasználási cél megvalósulásának kockázatára, valamint a jövedéki termék adófelfüggesztéssel belföldön történő szállításával járó adókockázatra a keretengedély megadásához jövedéki biztosítékot kell előzetesen felajánlani, és annak vámhatósági elfogadása után teljesíteni a tárgyidőszakra [43. § (2) bekezdés] engedélyezett keretmennyiség havi időarányos mennyisége és a hatályos adómérték alapján számított adóösszeg erejéig, de legfeljebb a különös rendelkezésekben meghatározott mértékig. A jövedéki biztosítéknak a keretengedély érvényességét követő 90 napig a vámhatóság által még érvényesíthetőnek kell lennie.”
