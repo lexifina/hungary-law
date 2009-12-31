@@ -1,0 +1,5 @@
+27. § (1) A hazai társfinanszírozásra vonatkozó előleg-elszámolást a hazai partner a számlákkal és gazdasági eseményt hitelesen dokumentáló bizonylatokkal együtt nyújtja be a hitelesítésre kijelölt szervezetnek.
+
+(2) A hazai partner köteles visszafizetni a hazai társfinanszírozást, amennyiben nem nyújt be előleg-elszámolást a hazai társfinanszírozás kifizetésétől számított egy éven belül.
+
+(3) A hazai társfinanszírozás terhére elszámolható költségeket minden esetben euróban kell megállapítani. A forintban vagy az eurótól eltérő külföldi pénznemben kiállított számla vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylat esetén a számlán vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylaton szereplő hazai társfinanszírozás összegét a társfinanszírozási szerződésben megadott módon – alapelvként a felmerült költségeket az elszámolási időszak utolsó hónapjában érvényes, az Európai Bizottság által meghatározott havi árfolyam figyelembevételével – kell euróra átszámítani.

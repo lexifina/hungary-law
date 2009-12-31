@@ -1,0 +1,1 @@
+## 24. § A lebonyolítási euró bankszámla szolgál a hazai partner hazai társfinanszírozásra jogosult költségeinek hazai társfinanszírozásból történő megtérítésére, illetve a hazai partner által bármilyen jogcímen történő visszafizetésére is.

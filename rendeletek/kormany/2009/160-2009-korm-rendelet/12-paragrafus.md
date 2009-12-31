@@ -1,0 +1,1 @@
+## 11. § Az Európai Bizottság részére benyújtott időközi kifizetési kérelmek és végső-egyenleg kifizetések kizárólag olyan kifizetett és hitelesítési nyilatkozattal alátámasztott, IMIR 2007–2013-ban rögzített költségeket tartalmazhatnak, amelyek a támogatott projektekre vonatkozóan elszámolható költségnek minősülnek.

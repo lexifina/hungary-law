@@ -1,0 +1,9 @@
+## 33. § Az operatív program irányítási és ellenőrzési rendszerével kapcsolatos szabálytalanság megállapításáról a szabálytalansági vizsgálatot lefolytató szervezet szabálytalanság-felelőse köteles a szervezet belső ellenőrzését, az Irányító Hatóságot és a Nemzeti Hatóságot 5 munkanapon belül értesíteni. Az Irányító Hatóság és a Nemzeti Hatóság az értesítést követő 5 munkanapon belül tájékoztatja az Ellenőrzési Hatóságot és az Igazoló Hatóságot.
+
+34. § (1) Az Irányító Hatóság és a Nemzeti Hatóság biztosítja, hogy a már kifizetett, de szabálytalanul felhasznált támogatási összegek a hazai partnertől behajtásra kerüljenek. A behajtott összeg közösségi hozzájárulási részét az euró lebonyolítási bankszámlán történő jóváírásról szóló bankszámlakivonat kézhezvételét követő 5 munkanapon belül a megfelelő közös programszámlára kell visszautalni. A behajtott összeg hazai társfinanszírozási részét pedig az euró lebonyolítási bankszámlán történő jóváírásról szóló bankszámlakivonat kézhezvételét követő 5 munkanapon belül az előirányzat-felhasználási keretszámlára kell visszautalni.
+
+(2) Az Európai Bizottságtól érkező, magyar partnert érintő visszafizetésre irányuló felszólítás esetén, amennyiben a szabálytalanságban érintett összeg behajthatatlan, akkor az Áht. 13/C. § értelmében a szabálytalanságért felelős, illetve annak hiányában a szabálytalanul felhasznált forrást folyósító fejezet költségvetéséből kell az érintett összeget a vonatkozó program euró lebonyolítási bankszámlájára visszapótolni.
+
+(3) Amennyiben a szabálytalanságban érintett összegeket az operatív program zárásáig nem sikerült behajtani, akkor a behajtásra tett kísérletek és intézkedések valamennyi dokumentációját legalább az operatív program zárását követő harmadik év végéig programonkénti bontásban meg kell őrizni.
+
+(4) Az Igazoló Hatóság a vonatkozó közös programszámláján jóváírt összeggel csökkentett átutalás igénylési dokumentációt nyújt be az Európai Bizottságnak.
