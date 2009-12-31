@@ -1,0 +1,1 @@
+## 4. § A Nemzeti Fejlesztési Tanács az NFT tervezésére és végrehajtására vonatkozóan értékeli a fejlesztéspolitikai célok megvalósulását, az NFT-ben rögzített célok teljesülését, az EU fejlesztési irányelvek érvényesülését és összhangját, javaslatot tehet a Kormány részére fejlesztési tervek módosítására.

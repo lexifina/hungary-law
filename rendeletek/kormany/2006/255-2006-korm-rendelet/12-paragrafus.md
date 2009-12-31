@@ -1,0 +1,5 @@
+12. § (1) A közreműködő szervezetnek az NFT megvalósításához kapcsolódó szolgáltatásait az NFÜ az elvégzett teljesítmény alapján finanszírozza.
+
+(2) Amennyiben a közreműködő szervezet többségi állami tulajdonú szervezet vagy költségvetési szerv, a vezető kinevezését, illetve felmentését a közreműködő szervezetet felügyelő vagy a tulajdonosi jogokat gyakorló miniszter, illetve a kinevezésre jogosult személy az NFÜ egyetértésével kezdeményezi. Az éves munkatervben meghatározott teljesítménycéloktól való jelentős eltérés, késedelmes vagy szabálytalan teljesítés esetén, az indokolás megjelölésével az NFÜ indítványozhatja a közreműködő szervezet vezetőjének felmentését a közreműködő szervezetet felügyelő vagy a tulajdonosi jogokat gyakorló miniszternél, illetve a kinevezésre jogosult személynél.
+
+(3) A közreműködő szervezet az NFT megvalósításával kapcsolatos feladatainak ellátásához alvállalkozót kizárólag átmeneti jelleggel vagy speciális szakterületen, és az NFÜ egyetértésével vonhat be. A közreműködő szervezet felelős az alvállalkozók teljesítéséért.
