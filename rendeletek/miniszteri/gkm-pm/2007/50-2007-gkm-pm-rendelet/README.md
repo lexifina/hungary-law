@@ -1,0 +1,9 @@
+# 50/2007. (IV. 26.) GKM–PM együttes rendelet
+
+a vasúti közlekedési tevékenységek vasúti társaságon belüli számviteli elkülönítéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-50-20-0L
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-12-31 | 2007-50-20-0L.3 | 50/2007. (IV. 26.) GKM–PM együttes rendelet |
