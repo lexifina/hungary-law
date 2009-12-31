@@ -1,0 +1,3 @@
+## 18/E. §[^126]
+
+[^126]: A 18/E. §-t a 349/2007. (XII. 21.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 22. § (5) bekezdése.
