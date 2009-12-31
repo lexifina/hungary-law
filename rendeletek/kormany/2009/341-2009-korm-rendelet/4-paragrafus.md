@@ -1,0 +1,7 @@
+4. § (1) A 3. § (1) bekezdése szerinti esetben a tervezet akkor nyújtható be a Kormányhoz, vagy – miniszteri rendelet esetében – akkor terjeszthető fel a miniszter általi aláírásra, ha a Bizottság a bejelentés kézhezvételétől számított három hónapon belül nem hoz olyan határozatot, amelyben a tervezet elfogadásától való tartózkodásra vagy az abban foglalt korlátozó követelmény megszüntetésére szólít fel.
+
+(2) Ha a bejelentett tervezetre vonatkozóan a Bizottság a bejelentés kézhezvételétől számított három hónapon belül olyan határozatot hoz, amelyben a tervezet elfogadásától való tartózkodásra vagy az abban foglalt korlátozó követelmény megszüntetésére szólít fel, a tervezet a Bizottság határozatának – és adott esetben a (3) bekezdés szerinti egyeztetés eredményének – megfelelő módosítást, illetve átdolgozást követően nyújtható be a Kormányhoz, vagy – miniszteri rendelet esetében – terjeszthető fel a miniszter általi aláírásra.
+
+(3) Ha a szakminiszter nem ért egyet a Bizottság határozatában jelzett indokolással – az európai integrációs ügyekért felelős miniszter és az igazságügyért felelős miniszter egyetértése esetén és bevonásával – a Központon keresztül egyeztetést kezdeményezhet a Bizottsággal a kifogásolt korlátozó követelmény elfogadtatása céljából.
+
+(4) A Bizottság (2) bekezdés szerinti határozatának – és adott esetben a (3) bekezdés szerinti egyeztetés eredményének – megfelelően módosított, illetve átdolgozott tervezetet a Kormány döntését, illetve a szakminiszter általi aláírást követően haladéktalanul meg kell küldeni a Bizottságnak.
