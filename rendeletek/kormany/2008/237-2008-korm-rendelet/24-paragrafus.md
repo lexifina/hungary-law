@@ -1,0 +1,1 @@
+## 23. § A Projekt Megállapodás és a Végrehajtási Megállapodás módosítását minden esetben írásba kell foglalni. A módosítási kérelem elutasítása esetén a KSz köteles a Projekt Végrehajtót az elutasítás indokairól írásban tájékoztatni.

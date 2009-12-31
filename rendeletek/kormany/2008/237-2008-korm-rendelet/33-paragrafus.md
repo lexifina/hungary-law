@@ -1,0 +1,15 @@
+33. § (1) A Projekt Végrehajtó és a TKSz a projekttevékenység befejezését követően Projektzáró jelentést készít. A Projektzáró jelentés az utolsó Időközi jelentéssel és a végső pénzügyi jelentéssel képezi a végső kifizetés alapját. A Projektzáró jelentés benyújtásának határideje legkésőbb a projekttevékenység befejezését követő 60. nap.
+
+(2) A Projektzáró jelentés tartalmazza
+
+a) a pályázatban és a Projekt Megállapodásban foglalt átfogó célokhoz mért eredményeket,
+
+b) a célzott eredményekhez, hatásokhoz és átfogó célokhoz mért végeredmények és hatások elemzését,
+
+c) a pályázati felhívásban rögzített, kapcsolódó horizontális elvek teljesülését,
+
+d) az eredmények fenntarthatóságának elemzését,
+
+e) a végrehajtás során szerzett és a jövőben hasznosítható tapasztalatokat,
+
+f) a projekt utánkövetésére vonatkozó javaslatokat.
