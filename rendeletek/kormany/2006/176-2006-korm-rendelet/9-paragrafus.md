@@ -1,0 +1,1 @@
+## szorzószámmal kell megszorozni.

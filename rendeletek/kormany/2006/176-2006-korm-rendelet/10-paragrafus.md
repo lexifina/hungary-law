@@ -1,0 +1,1 @@
+## 9. § A bírság kiszabásáról szóló határozat rendelkező részében rendelkezni kell arról, hogy a bírságot milyen számlaszámra kell a határozat jogerőre emelkedésétől számított 15 napon belül befizetni.
