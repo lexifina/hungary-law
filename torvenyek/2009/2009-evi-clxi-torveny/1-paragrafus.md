@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a gyermekek eladásáról, a gyermekprostitúcióról és a gyermekpornográfiáról szóló, a Gyermek jogairól szóló egyezményhez fűzött Fakultatív Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
