@@ -1,0 +1,1 @@
+## „c) az 5. §-ban meghatározott bértámogatás nem nyújtható olyan személy foglalkoztatásához, aki nem minősül a Munkaerőpiaci Alap foglalkoztatási alaprészéből nyújtott foglalkoztatást bővítő támogatás szempontjából, külön jogszabályban meghatározott megváltozott munkaképességű személynek.”
