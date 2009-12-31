@@ -1,0 +1,21 @@
+## III.
+
+## A FOLYÓK NAGYVÍZI MEDRÉNEK HASZNÁLATA
+
+## ÉS HASZNOSÍTÁSA
+
+5. § (1) A nagyvízi medret csak jogszabályban meghatározott módon szabad használni (hasznosítani). A nagyvízi meder területét a mértékadó árvízszint vagy az eddig előfordult legnagyobb árvízszint közül a magasabb jelöli ki. A nagyvízi meder rendeltetése a mederből kilépő árvizek és a jég levezetése.
+
+(2) A nagyvízi meder – ha nem minősül védett természeti területnek – természeti területként kezelendő, ahol az árvíz biztonságos levezetésének elsődlegességét kell figyelembe venni.
+
+(3) A nagyvízi meder rendeltetésére figyelemmel a nagyvízi mederben fekvő ingatlanok tulajdonosai (használói) a nagyvízi mederben mezőgazdasági művelést, erdőgazdálkodást vagy bármely más tevékenységet kizárólag saját kockázatukra, a környezetvédelmi, természetvédelmi és a kulturális örökségvédelmi előírások betartásával és az árvizek levezetésének akadályozása nélkül folytathatnak.
+
+(4)[^3] A nagyvízi mederben – az (5) bekezdésben meghatározott kivétellel – csak a meder használatával, a vízfolyás fenntartásával közvetlenül összefüggő megfigyelő, jelző állomást, a nagyvízi meder használatával összefüggő vízilétesítményt, továbbá kikötői, rév- és kompátkelőhelyi, vízirendészeti épületet, építményt szabad elhelyezni. A vízügyi szakhatósági állásfoglalások során – egyebek mellett – vizsgálni kell az építménynek az árvíz és a jég levonulására gyakorolt hatását. A magassági elhelyezés tekintetében a mértékadó árvízszint és az eddig előfordult legmagasabb árvízszint közül a magasabbat kell figyelembe venni.
+
+(5) Nagyvízi mederben építmények, a helyi építési szabályzat, valamint a szabályozási terv, illetőleg nagyvízi mederkezelési terv szerint helyezhetők el. A vizek használatával közvetlenül összefüggő építmények, amelyek például a vízisportot, horgászatot szolgálják – ha a szabályzat vagy a tervek másképp nem rendelkeznek – csak abban az esetben valósíthatók meg, ha használatuk közösségi célokat szolgál.
+
+(6) A nagyvízi meder hasznosításának korlátozásáért és a vizek által ott okozott károkért, ideértve a nyári gátak megszüntetésével vagy védőképessége mérséklésével összefüggő károkat is, kártalanítás csak akkor igényelhető, ha a nagyvízi meder hasznosítása, beépítése, betelepítése, nem volt jogellenes, és a kártalanítást jogszabály nem korlátozta, vagy nem zárta ki.
+
+(7) A földrészlet használatára vonatkozó, a földrészlet tulajdonosa és használója között kötött szerződésben fel kell tüntetni azt a tényt, hogy a földrészlet nagyvízi mederben fekszik.
+
+[^3]: Az 5. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 27. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
