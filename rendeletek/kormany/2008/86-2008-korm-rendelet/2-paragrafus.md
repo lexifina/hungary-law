@@ -1,0 +1,5 @@
+## feladatellátásuk racionálisabb megszervezése érdekében szükséges 2007–2008. évi létszámcsökkentésének 2008. évben esedékessé váló személyi kifizetéseinek részbeni, illetve teljes fedezetére.
+
+2. § (1) A jogosult az 1. §-ban meghatározott létszámcsökkentés végrehajtásával összefüggésben támogatási igényt abban az esetben nyújthat be, ha a munkaviszony megszüntetése a munkáltató részéről történő rendes felmondással, illetőleg végkielégítéssel jár, valamint ha a munkáltató jogutód nélküli megszűnése miatt szűnik meg a munkaviszony, továbbá, ha a jogosult a vele munkaviszonyban álló munkavállalóval megállapodást köt annak korengedményes nyugdíjazásáról.
+
+(2) Határozott idejű munkaszerződésnek a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 88. §-ának (2) bekezdése szerinti megszüntetése esetén költségvetési támogatás csak abban az esetben igényelhető, ha a határozott időből hátralévő idő – az utolsó munkában töltött napot követő naptól számítva – még legalább egy év.

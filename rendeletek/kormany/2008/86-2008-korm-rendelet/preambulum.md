@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény (a továbbiakban: Kvtv.) 4. § (1) bekezdésének e) és f) pontjaiban foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következő rendeletet alkotja:
