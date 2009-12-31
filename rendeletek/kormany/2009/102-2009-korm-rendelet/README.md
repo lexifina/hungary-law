@@ -1,0 +1,9 @@
+# 102/2009. (V. 11.) Korm. rendelet
+
+az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-102-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2009-12-31 | 2009-102-20-22.5 | 102/2009. (V. 11.) Korm. rendelet |
