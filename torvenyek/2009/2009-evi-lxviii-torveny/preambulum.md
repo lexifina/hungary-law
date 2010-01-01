@@ -1,0 +1,1 @@
+A vállalkozások közötti jogviták gyors és hatékony elintézése, a gazdasági élet szereplői egyszerűbb és hatékonyabb jogérvényesítésének elősegítése érdekében az Országgyűlés a következő törvényt alkotja:
