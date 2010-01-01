@@ -1,0 +1,1 @@
+## 79. § A Vtv. 44. §-a alapján nyújtott vámbiztosíték összegét nem haladhatja meg – a Vámkódex 189. cikke (5) bekezdésben meghatározott összeget meghaladóan – a vámigazgatási eljárások alá vont áruk után szóba jöhető vámtartozás együttes összege.

@@ -1,0 +1,9 @@
+# 15/2004. (IV. 5.) PM rendelet
+
+a közösségi vámjog végrehajtásának részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-15-20-53
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2004-15-20-53.17 | 15/2004. (IV. 5.) PM rendelet |
