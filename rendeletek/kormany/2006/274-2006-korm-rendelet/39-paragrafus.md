@@ -1,0 +1,1 @@
+## 38. § Az egyéni vállalkozásról szóló 1990. évi V. törvény 4/B. §-a (1) bekezdésének d) pontjában foglaltak tekintetében a Kormány mezőgazdasági és vidékfejlesztési támogatási szervként az MgSzH területi szervét jelöli ki.

@@ -1,0 +1,1 @@
+## igazolványt állít ki.
