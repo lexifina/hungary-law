@@ -1,0 +1,53 @@
+3. § (1) A munkaügyi ellenőrzés kiterjed:
+
+a) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére és kötelező tartalmi elemeinek meglétére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre, továbbá a foglalkoztató írásbeli tájékoztatási kötelezettségére vonatkozó rendelkezések,
+
+b) a munkaviszony létesítésével, megszűnésével, illetőleg megszüntetésével összefüggő bejelentési kötelezettségek,
+
+c) a munkáltató nyilvántartási kötelessége,
+
+d) az egyenlő bánásmód követelménye,
+
+e) a nők, a fiatalkorúak és a megváltozott munkaképességűek foglalkoztatásával kapcsolatos jogszabályok,
+
+f) a munkaidőre, a pihenőidőre, a rendkívüli munkavégzésre, valamint a szabadságra vonatkozó, jogszabályban vagy kollektív szerződésben előírt rendelkezések,
+
+g) a jogszabályban, kollektív szerződésben vagy a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződésben megállapított munkabér mértékére, valamint a munkabér védelmére vonatkozó rendelkezések,
+
+h) a foglalkoztatásra irányuló jogviszony megszűnésével összefüggő – a munkavállalót megillető – igazolások kiállítására és kiadására, valamint a munkaviszony megszűnéséhez, megszüntetéséhez kapcsolódó elszámolás megtörténtére vonatkozó jogszabályok rendelkezéseinek,
+
+i) a külföldiek magyarországi foglalkoztatásának engedélyezéséről és foglalkoztatásáról szóló jogszabályok rendelkezéseinek,
+
+j) a munkanélküli ellátások melletti foglalkoztatás feltételeire vonatkozó jogszabályok,
+
+k) a munkaerő-kölcsönzésre vonatkozó, valamint a munkaerő-kölcsönzési tevékenység végzésére jogosító jogszabályok,
+
+l) a munkavállalók gazdasági és társadalmi érdekei védelme céljából szakszervezet szervezését biztosító szabályokkal összefüggő munkáltatói kötelességek,
+
+m) a választott szakszervezeti tisztséget betöltő munkavállalónak, az üzemi és a közalkalmazotti tanács tagjának és a munkavédelmi képviselőnek a munkajogi védelmére, valamint munkaidő-kedvezményére vonatkozó szabályok,
+
+n) a szakszervezet által kifogásolt intézkedésekkel összefüggő munkáltatói kötelességek végrehajtására vonatkozó szabályok
+
+o) a teljesítménykövetelmény megállapítása tekintetében az előzetes foglalkoztatói eljárás lefolytatásának tényére, valamint a teljesítménykövetelmény és a teljesítménybér-tényezők alkalmazása előtti közlésére vonatkozó szabályok,
+
+p) az európai üzemi tanács létrehozásáról, illetve a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás kialakításáról szóló törvény 21. §-ában foglalt rendelkezések munkáltató általi,
+
+q) a Köt. 5. §-ának (3)–(6) bekezdésében foglalt rendelkezések fogadó szervezetek általi,
+
+r) az Európai Unióhoz a Magyar Köztársasággal azonos időpontban csatlakozó állam állampolgára és hozzátartozója magyarországi foglalkoztatására vonatkozó – külön jogszabályban meghatározott – bejelentési kötelezettségre vonatkozó rendelkezések
+
+megtartására.
+
+(2) A munkaügyi ellenőrzést a felügyelő hivatalból, az (1) bekezdés d), l)–n) és p) pontjaiban foglalt esetekben, valamint a g) pontban a munkabérnek – a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződés kivételével – a kollektív szerződésben rögzített mértéke tekintetében annak a félnek a kérelmére folytatja le, akinek a jogát, jogos érdekét az ügy érinti.
+
+(3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés
+
+a) az (1) bekezdés a)–b), – a szabadságra vonatkozó rendelkezést illetően – az f), h)–j) és l)–n) pontjaiban meghatározott szabályok vonatkozásában a kölcsönbeadóra,
+
+b) az (1) bekezdés c), e), f) pontjaiban meghatározott szabályok vonatkozásában a kölcsönvevőre,
+
+c) az (1) bekezdés d), g), i) és k), valamint o) pontjában meghatározott szabályok vonatkozásában mind a kölcsönbeadóra, mind pedig a kölcsönvevőre,
+
+d) az (1) bekezdés r) pontjában meghatározott szabály vonatkozásában külföldi székhellyel rendelkező kölcsönbeadó esetében a kölcsönvevőre, egyébként a kölcsönbeadóra
+
+kiterjed.
