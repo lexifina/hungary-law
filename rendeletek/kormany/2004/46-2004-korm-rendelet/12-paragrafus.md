@@ -1,0 +1,9 @@
+## A hordozott számok nyilvántartása
+
+12. § (1) Amennyiben az előfizető szolgáltatót változtat és számhordozást vesz igénybe, a hordozott előfizetői szám használati joga és az ezzel összefüggő kötelezettségek az átvevő szolgáltatóhoz kerülnek, egyidejűleg az átadó szolgáltatónál megszűnnek, de a kijelölési engedély jogosultja továbbra is az a szolgáltató marad, amely számára a hatóság a hordozott előfizetői számot tartalmazó számmezőt eredetileg kijelölte.
+
+(2) A hordozott számra vonatkozó előfizetői szerződés megszűnése esetén a szabaddá váló előfizetői szám használati joga és az ezzel összefüggő kötelezettségek mindaddig az átvevő szolgáltatónál maradnak, amíg a szám nem rendelhető új előfizetőhöz. Ezen időtartam, amelyet az átvevő szolgáltató az általános szerződési feltételeiben határoz meg, legfeljebb hat hónap lehet.
+
+(3) Az átvevő szolgáltató köteles az előfizetői szám újra előfizetőhöz való rendelhetőségének időpontjáról legalább harminc nappal ezen időpontot megelőzően a központi referencia adatbázist értesíteni. A központi referencia adatbázis köteles a hordozott számot tartalmazó számmező kijelölési engedélyének jogosultját az előfizetői szám újra előfizetőhöz való rendelhetőségéről értesíteni.
+
+(4) A megszűnt hordozott előfizetői szám használati joga visszakerül a számot tartalmazó számmező kijelölési engedélyének jogosultjához, amikor a szám újra előfizetőhöz rendelhetővé válik.
