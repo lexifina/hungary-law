@@ -1,0 +1,7 @@
+46/A. § (1) A miniszterelnök – a Kormány irányítási és felügyeleti jogkörébe nem tartozó fejezetek kivételével – központi költségvetési fejezetet irányító szervhez, valamint az elkülönített állami pénzalaphoz – a fejezet, a fejezethez tartozó költségvetési szervek, illetve az alap gazdálkodásának figyelemmel kísérésére – kormányrendeletben foglaltak szerint kincstárnokot jelölhet ki. A kincstárnok e tevékenysége kiterjed a bevételek beszedésére és behajtására tett intézkedések, valamint a források felhasználásának (ide értve a kötelezettségvállalásokat is) és a feladatok összhangjának vizsgálatára is.
+
+(2) A kincstárnok tevékenységét az államháztartásért felelős miniszter, az államháztartásért felelős miniszter irányítása alá tartozó fejezet vonatkozásában pedig a Miniszterelnöki Hivatalt vezető miniszter szakmai irányításával végzi.
+
+(3) A kincstárnok megbízása a miniszterelnök által meghatározott időtartamra szól azzal, hogy a megbízás a miniszterelnök rendelkezése alapján annak lejárta előtt is megszüntethető. A kincstárnok tevékenységének további feltételeit, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, valamint a kincstárnok tevékenységére vonatkozó további szabályokat a Kormány rendeletben állapítja meg.
+
+(4) A kincstárnokok munkáját a kincstárban működő titkárság segíti. A kincstárnoki rendszer felállításával és működtetésével összefüggő kiadásokat a kincstár költségvetésében kell biztosítani.

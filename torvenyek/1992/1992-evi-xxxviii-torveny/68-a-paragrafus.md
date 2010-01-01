@@ -1,0 +1,1 @@
+68/A. § A helyi önkormányzat helyi kisebbségi önkormányzatok költségvetését is tartalmazó költségvetési rendelete, illetve a helyi kisebbségi önkormányzatok költségvetési határozata a költségvetésen belül a működési és felhalmozási célú bevételi és kiadási előirányzatokat egymástól elkülönítetten tartalmazza.

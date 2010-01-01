@@ -1,0 +1,3 @@
+45. § (1) Ha az Országgyűlés a költségvetési törvényt azon év január 1-jéig, amelyre szól, nem alkotta meg, és az átmeneti gazdálkodásról külön törvényt nem hozott, vagy az átmeneti gazdálkodásról szóló törvény a hatályát vesztette, akkor a Kormány jogosult a költségvetést megillető bevételeknek a hatályos jogszabályok szerinti beszedésére és az előző évi kiadási előirányzatokon belül a kiadások időarányos – a társadalombiztosítás pénzügyi alapjai vonatkozásában az ellátásoknál felmerülő kiadások – teljesítésére.
+
+(2) Az (1) bekezdés alapján folytatott gazdálkodásról az Országgyűlés előtt el kell számolni, a beszedett bevételeket és teljesített kiadásokat az új költségvetési törvénybe kell beilleszteni.

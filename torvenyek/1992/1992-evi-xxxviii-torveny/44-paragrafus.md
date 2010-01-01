@@ -1,0 +1,1 @@
+44. § Ha az Országgyűlés a költségvetési törvényt azon év január 1-jéig, melyre szól nem alkotta meg, a Kormány köteles haladéktalanul az átmeneti gazdálkodásról törvényjavaslatot az Országgyűlés elé terjeszteni.

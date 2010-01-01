@@ -1,0 +1,1 @@
+80. § Az Országgyűlés döntéseinek megalapozásához, továbbá a zárszámadás elkészítéséhez és az államháztartás mérlegeinek összeállításához a helyi önkormányzat, valamint költségvetési szervei évközi, év végi költségvetési beszámolót és időközi költségvetési és mérlegjelentést készít, melynek tartalmát külön jogszabály határozza meg.

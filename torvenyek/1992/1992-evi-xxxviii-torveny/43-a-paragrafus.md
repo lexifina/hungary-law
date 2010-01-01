@@ -1,0 +1,1 @@
+43/A. § A Kormány az Országgyűléssel egyidejűleg tájékoztatja a köztestületeket, valamint az országos kisebbségi önkormányzatokat a következő évi gazdaságpolitikai elképzelésein alapuló költségvetési politika fő irányairól, a rájuk vonatkozó pénzügyi szabályozás előzetes elgondolásairól.

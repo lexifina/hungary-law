@@ -1,0 +1,1 @@
+117. § Az elkülönített állami pénzalapok költségvetésének előterjesztésekor, illetőleg a zárszámadáskor az Országgyűlés részére legalább a 116. § (1) bekezdés 1. pontjának a)–b) pontjaiban, valamint 116. § (2) bekezdése 1. és 4. pontjaiban foglalt mérlegeket kell – a szöveges indokolással együtt – az alapra vonatkozóan tájékoztatásul bemutatni.

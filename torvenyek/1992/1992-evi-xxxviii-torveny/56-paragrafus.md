@@ -1,0 +1,1 @@
+56. § A gazdasággal összefüggő alap esetében a zárszámadásról szóló törvényjavaslat tárgyalása során az Országgyűlést tájékoztatni kell az érintett gazdasági kamaráknak az alap indokoltságára és további működésére vonatkozó véleményéről.

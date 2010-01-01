@@ -1,0 +1,1 @@
+118/A. § A társadalombiztosítás pénzügyi alapjai költségvetéséről, illetve a társadalombiztosítás pénzügyi alapjai költségvetésének végrehajtásáról szóló törvényjavaslat benyújtásakor az Országgyűlés részére legalább a 116. § (1) bekezdés 1. a)–b) pontjai, (2) bekezdése 1. és 4. pontja szerinti mérlegeket a szöveges indoklással együtt be kell mutatni.

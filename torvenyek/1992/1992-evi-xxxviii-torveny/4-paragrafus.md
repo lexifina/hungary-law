@@ -1,0 +1,1 @@
+4. § Az elkülönített állami pénzalap (a továbbiakban: alap) az állam egyes feladatait részben államháztartáson kívüli forrásokból finanszírozó olyan alap, amely működésének jellege az államháztartáson belül elkülönített finanszírozást tesz szükségessé.

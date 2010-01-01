@@ -1,0 +1,1 @@
+18/I. § A 18/B. § (1) bekezdésének l) pontjában említett jogi személyek nyilvántartását (a továbbiakban: törzskönyvi nyilvántartás) a kincstár vezeti. A költségvetési szervek nyilvántartására – e törvényben foglaltak figyelembevételével – külön törvényben foglaltak alkalmazandók.

@@ -1,0 +1,1 @@
+53. § A Kormány a zárszámadásról szóló törvényjavaslatot a költségvetési évet követően nyolc hónapon belül terjeszti az Országgyűlés elé. A zárszámadásról szóló törvényjavaslatot az Országgyűlés elé történő terjesztést megelőzően két hónappal benyújtja az Állami Számvevőszéknek.
