@@ -1,0 +1,1 @@
+32/D. § Ha egy ingatlanügyi hatóságnál egyazon ingatlanra vonatkozóan a kérelmező többféle jog vagy tény keletkezésének, módosulásának vagy megszüntetésének a bejegyzését vagy a bejegyzett ilyen jog vagy tény törlését egy eljárásban kéri, azt az értéket kell a díjfizetés alapjául venni, amely után a legmagasabb díj jár.
