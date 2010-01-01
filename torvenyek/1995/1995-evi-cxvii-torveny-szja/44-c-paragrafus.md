@@ -1,0 +1,7 @@
+44/C. § (1) Ha a magánszemély az adója meghatározott részének átutalásáról az önkéntes kölcsönös pénztári nyilatkozatban és a nyugdíj-előtakarékossági nyilatkozatban is rendelkezik, azonban adóalapja adójának az adókedvezmények levonása után fennmaradó része a nyilatkozatokban megjelölt együttes összeg teljes átutalását nem teszi lehetővé, az adóhatóság az átutalásnál a nyilatkozatokban jogszerűen megjelölt összegek arányát veszi figyelembe azzal, hogy az egyes átutalások jogcím szerinti összege ebben az esetben sem haladhatja meg az adott rendelkezési jogcímre irányadó összeghatárt.
+
+(2) Utólag nem befolyásolja az önkéntes kölcsönös pénztári nyilatkozat és a nyugdíj-előtakarékossági nyilatkozat szerint utalandó összeg nagyságát, ha a magánszemély önellenőrzése, vagy az adóhatóság utólagos adómegállapítása a magánszemély összevont adóalapja adójának az adókedvezmények levonása után fennmaradó részét megváltoztatja. Ha azonban az önellenőrzés vagy az utólagos adómegállapítás a magánszemély összevont adóalapja adójának az adókedvezmények levonása után fennmaradó részét olyan mértékben lecsökkenti, hogy az már nem éri el az átutalt összeget, az így mutatkozó különbözetet az adóhatóság személyi jövedelemadó kötelezettségként írja elő.
+
+(3) A (2) bekezdésben említett különbözetről az adóhatóság nem hoz határozatot, ha az ötezer forintot az nem haladja meg.
+
+(4) Az önkéntes kölcsönös biztosítópénztárnak, valamint a nyugdíj-előtakarékossági számla vezetőjének a magánszemély számára kiadott igazoláson saját pénzforgalmi számlaszámát is fel kell tüntetnie.

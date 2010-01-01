@@ -1,0 +1,5 @@
+54. § (1) Az átalányadózás évében felmerült összes költséget elszámoltnak kell tekinteni, beleértve a korábban és az átalányadózás időszakában beszerzett tárgyi eszközök beszerzési és előállítási értékének az átalányadózás időszakára jutó értékcsökkenési leírását is a 11. számú melléklet II. fejezete szerint. Az átalányadózást megelőző időszakból fennmaradt összes elhatárolt veszteségből az átalányadózás időszakának minden évében 20-20 százalékot elszámoltnak kell tekinteni.
+
+(2) Az (1) bekezdés rendelkezését nem kell alkalmazni azon költségekre, fejlesztési kiadásokra, amelyek fedezetére jogszabály vagy nemzetközi szerződés alapján vissza nem térítendő támogatás folyósítása történt.
+
+(3) Az átalányadózás választását megelőzően érvényesített kisvállalkozói kedvezményre, nyilvántartásba vett fejlesztési tartalékra, foglalkoztatási kedvezményre, nyilvántartott adókülönbözetre, valamint a kisvállalkozások adókedvezményére a 49/B. §, illetve a 13. számú melléklet rendelkezéseit az átalányadózás időszakában is alkalmazni kell.

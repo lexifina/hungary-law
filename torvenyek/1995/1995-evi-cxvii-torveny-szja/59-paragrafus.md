@@ -1,0 +1,3 @@
+## Ingatlan, vagyoni értékű jog átruházásából származó jövedelem
+
+59. § Az ingatlan átruházásából, a vagyoni értékű jog visszterhes alapításából, átruházásából (végleges átengedéséből), megszüntetéséből, ilyen jogról való végleges lemondásból (a továbbiakban: a vagyoni értékű jog átruházása) származó jövedelmet azon a napon kell megszerzettnek tekinteni, amikor az erről szóló érvényes szerződést (okiratot, bírósági, hatósági határozatot) az ingatlanügyi hatósághoz benyújtották. Az ingatlan-nyilvántartásba bejegyzésre nem kötelezett vagyoni értékű jog átruházása esetén a jövedelemszerzés időpontja az a nap, amikor az erre vonatkozó szerződés kelt.

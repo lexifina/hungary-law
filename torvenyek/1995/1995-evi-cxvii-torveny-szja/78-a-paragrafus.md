@@ -1,0 +1,27 @@
+## Nyilatkozatok
+
+78/A. § (1) A magánszemély az őstermelői igazolvány kiváltásához és érvényesítéséhez kormányrendeletben meghatározott előírások szerint nyilatkozatot ad az igazolvány kiállítójának a következőkről:
+
+a) a termelésre és a saját termelésű termékek értékesítésére vonatkozó adatairól;
+
+b) arról, hogy rendelkezik olyan saját gazdasággal, amely alkalmas a nyilatkozat szerinti termelés és értékesítés elérésére, ideértve azt is, hogy erdei melléktermékek gyűjtése esetén van a terület feletti rendelkezési jogot gyakorlótól erre vonatkozó hozzájárulása;
+
+c) arról, hogy rendelkezési jogosultsága van a termelési eszközök (ideértve a bérelt eszközöket is), a termelés szervezése és a termelés eredményének felhasználása felett;
+
+d) arról is, hogy folyamatosan részt vesz a gazdaság, a termelési eszközök működtetésében, ha és amennyiben más őstermelővel (őstermelőkkel) együtt olyan őstermelői tevékenységet folytat – ideértve a (2) bekezdésben említett közös tevékenységet is –, amellyel kapcsolatban mindannyian ugyanazon gazdaságra, termelési eszközökre vonatkozóan nyilatkoztak a b) és c) pont szerint;
+
+e) a nyilatkozatnak tartalmaznia kell a saját termeléshez rendelkezésre álló (saját vagy bérelt) használt földterület helyét, nagyságát művelési áganként, vetésszerkezetét, valamint az állattartását és az állattartásra alkalmas épületek adatait.
+
+(2) A magánszemély az (1) bekezdésben említett nyilatkozat kiegészítéseként, a vele közös háztartásban élő családtagjával (családtagjaival) együttes nyilatkozatot tehet arról, hogy a 6. számú melléklet 2. pontjában meghatározott módon és feltételekkel közös őstermelői igazolvány (a továbbiakban: közös igazolvány) kiváltásával kívánja folytatni az őstermelői tevékenységét (a továbbiakban: közös őstermelői tevékenység), azzal, hogy ilyen családtagnak minősül a mezőgazdasági őstermelő házastársa, egyeneságbeli rokona (ideértve örökbe fogadott, mostoha és nevelt gyermekét, vagy örökbefogadó, mostoha- és nevelőszülőjét is). Ebben az esetben minden egyes családtagnak az őstermelői jövedelmére ugyanazon adózási módot kell választania, továbbá a közös őstermelői tevékenység időszakában egymással munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban nem állhatnak, a segítő családtagra vonatkozó rendelkezéseket egymásra vonatkozóan nem alkalmazhatják. Az együttes nyilatkozat feltétele, hogy az azt tevők az általános forgalmi adózás tekintetében is ugyanazon adózási módot alkalmazzák.
+
+(3) A 46. § (3) bekezdésének alkalmazásában a kifizetőnek kérnie kell az őstermelői igazolvány felmutatását, azonban nem kell a kifizetett összeget bejegyeznie akkor, ha a mezőgazdasági őstermelő a kifizető által kiállított bizonylat kifizetőnél maradó másolatán aláírásával jelzi azt a szándékát, hogy a kifizetett összeget saját maga írja be az őstermelői igazolványba a kormányrendelet előírása szerint. A kifizető ebben az esetben is az őstermelő adóazonosító jelének és az őstermelői igazolványa számának vagy a regisztrációs számának feltüntetésével az adózás rendjéről szóló törvényben meghatározott formában és előírt határidőre a kötelezettséget eredményező kifizetésekről, juttatásokról teljesítendő bevallásában szolgáltat adatot a kifizetésről az adóhatóságnak.
+
+(4) A tételes költségelszámolást alkalmazó mezőgazdasági kistermelő – az adómentesség értékhatárát (23. §) meghaladó, de 4 millió forintnál nem több éves bevétel esetén az adóévben elért bevételének feltüntetése mellett – nyilatkozhat, hogy az adóévben nem volt a mezőgazdasági kistermelésből jövedelme (nemleges nyilatkozat), feltéve, hogy rendelkezik legalább a bevétel 20 százalékát kitevő összegben a tevékenységével összefüggésben felmerült, a 3. számú mellékletben költségként elismert kiadás igazolására a nevére kiállított számlával (számlákkal), és ezt a tényt a nyilatkozatban is megerősíti. A gépjárműhasználattal kapcsolatos számla csak akkor vehető figyelembe, ha a költségelszámolást a törvény rendelkezései szerint vezetett útnyilvántartás támasztja alá. Azokban az években, amikor a mezőgazdasági őstermelő e bekezdés rendelkezését alkalmazza, a tárgyi eszköz és nem anyagi javak értékcsökkenését, valamint az elhatárolt veszteség 20 százalékát évente elszámoltnak kell tekinteni.
+
+(5) A tevékenységüket közös igazolvány alapján folytató családtagok mindegyikét külön-külön megilleti a (4) bekezdés rendelkezése szerinti nyilatkozattétel, de csak akkor, ha azt mindannyian azonosan választják.
+
+(6) A mezőgazdasági kistermelő a nemleges nyilatkozatot a (4) és (5) bekezdésben szabályozott feltételek fennállása esetén adóbevallásban, illetve a munkáltatói adómegállapítás keretében teheti meg.
+
+(7) A (4)–(6) bekezdés rendelkezései szerint adott nemleges nyilatkozat az adóbevallással egyenértékű, arra egyebekben is az adóbevallásra vonatkozó rendelkezéseket kell alkalmazni.
+
+(8)

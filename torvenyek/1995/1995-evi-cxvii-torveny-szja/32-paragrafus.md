@@ -1,0 +1,5 @@
+## A külföldön megfizetett adó beszámítása
+
+32. § (1) Ha az adóévi összevont adóalapnak olyan – adóterhet nem viselő járandóságnak nem minősülő – jövedelem is részét képezi, amelyre vonatkozóan a magánszemély külföldön jövedelemadónak megfelelő adót fizetett, akkor – ha nemzetközi szerződésből vagy viszonosságból más nem következik – a számított adót csökkenti a jövedelem után külföldön megfizetett adó 90 százaléka, de legfeljebb e jövedelemre átlagos adókulcs szerint kiszámított adó. Az átlagos adókulcsot a számított adónak az összevont adóalappal történő elosztásával százalékban kifejezve, két tizedesre kerekítve kell meghatározni. Nem vehető figyelembe külföldön megfizetett adóként az az összeg, amely törvény, nemzetközi szerződés rendelkezése, viszonosság vagy külföldi jog alapján a jövedelem után fizetett adó összegéből a magánszemély részére visszajár.
+
+(2) Az (1) bekezdés rendelkezését az átalányadózást választó magánszemélynek azon bevétele alapján átalányban megállapított, adóterhet nem viselő járandóságnak nem minősülő jövedelmére kell alkalmaznia, amelyre vonatkozóan külföldön a személyi jövedelemadónak megfelelő adót fizetett.

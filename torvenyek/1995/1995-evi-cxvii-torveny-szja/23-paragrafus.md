@@ -1,0 +1,1 @@
+23. § A mezőgazdasági őstermelőnek (ideértve az átalányadózást alkalmazó mezőgazdasági kistermelőt is), ha az e tevékenységéből származó bevétele az évi 600 ezer forintot nem haladja meg, akkor ezen bevételéből jövedelmet nem kell figyelembe vennie, ha meghaladja, akkor ezt a bevételt is beszámítva kell a jövedelmét meghatároznia.

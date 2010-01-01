@@ -1,0 +1,9 @@
+21. § (1) A tételes költségelszámolást alkalmazó mezőgazdasági őstermelő az e tevékenységéből származó bevételét csökkentheti:
+
+a) a legalább 50 százalékban megváltozott munkaképességű alkalmazott foglalkoztatása esetén személyenként havonta az alkalmazottnak fizetett bérrel, de legfeljebb a hónap első napján érvényes havi minimálbérrel, a szakképző iskola tanulójával kötött – jogszabályban meghatározott – tanulószerződés alapján folytatott gyakorlati képzés esetén minden megkezdett hónap után havonta a minimálbér 24 százalékával, ha a szakképző iskolával kötött együttműködési megállapodás alapján végzi a gyakorlati képzést, minden megkezdett hónap után havonta a minimálbér 12 százalékával;
+
+b)
+
+(2) A sikeres szakmai vizsgát tett – az (1) bekezdésben említett – szakképző iskolai tanulót folyamatosan tovább foglalkoztató, valamint a korábban munkanélküli személyt, továbbá a szabadulást követő 6 hónapon belül alkalmazott szabadságvesztésből szabaduló személyt, illetve a pártfogó felügyelet hatálya alatt álló személyt alkalmazottként foglalkoztató mezőgazdasági őstermelő (e § alkalmazásában: munkáltató), ha nem alkalmaz átalányadózást, az ezen tevékenységéből származó bevételét csökkentheti e személy után a foglalkoztatása ideje alatt, de legfeljebb 12 hónapon át befizetett társadalombiztosítási járulék összegével, függetlenül attól, hogy tételes költségelszámolás esetén egyébként költségként is elszámolhatja azt.
+
+(3) A munkáltató a korábban munkanélküli személy esetében akkor járhat el a (2) bekezdésben foglalt rendelkezés szerint, ha a korábban munkanélküli személy alkalmazása óta, illetőleg azt megelőző hat hónapon belül azonos munkakörben foglalkoztatott más alkalmazott munkaviszonyát rendes felmondással nem szüntette meg, és a korábban munkanélküli személy az alkalmazását megelőző hat hónapon belül vele nem állt munkaviszonyban.

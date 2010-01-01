@@ -1,0 +1,17 @@
+## A társasház, a társas üdülő jövedelme
+
+75. § (1) A társasház, a társasüdülő (a továbbiakban együtt: társasház) tulajdonostársainak közössége által a közös név alatt megszerzett jövedelem után – függetlenül attól, hogy a tulajdonostársak nem kizárólag magánszemélyek – a társasházat a (2)–(8) bekezdések szerint terheli adókötelezettség.
+
+(2) A társasház e törvény XI–XIV. fejezetében – e § rendelkezésein kívül – említett bevételéből (kivéve a közös tulajdon tárgyát képező ingatlanrész bérbeadásából származó bevételt) a jövedelmet és az adót – figyelemmel a (3) és a (4) bekezdés rendelkezéseire is – úgy kell megállapítani és megfizetni, mintha azt magánszemély szerezte volna meg, azzal, hogy magánszemélynek a társasházat kell tekinteni. A fennmaradó összegből a magánszemély tulajdonostársak között felosztott jövedelmet további adókötelezettség nem terheli.
+
+(3) A közös tulajdon tárgyát képező ingatlanrész átruházása esetén a bevétel 25 százaléka minősül jövedelemnek, azzal, hogy a 62. § (4) bekezdés rendelkezései nem alkalmazhatók.
+
+(4) A (2) bekezdés rendelkezéseit nem kell alkalmazni a közös tulajdon tárgyát képező ingatlanrész átruházásából származó jövedelem után a magánszemély tulajdonostársakat tulajdoni hányaduk arányában megillető bevételre akkor, ha a társasház közgyűlésének határozata alapján egyénileg tesznek eleget az adókötelezettségüknek.
+
+(5) A (2) bekezdésben nem említett, a társasház által az adóévben megszerzett összes más bevételből (ideértve a közös tulajdon tárgyát képező ingatlanrész bérbeadásából származó bevételt is) le kell vonni a tulajdonostársak közös költségre, illetőleg felújításra történt adóévi befizetéseit, a társasház által közvetített szolgáltatás tovább számlázott ellenértékét, valamint azokat az összegeket, amelyeket e törvény szerint a jövedelem kiszámításánál nem kell figyelembe venni (pl. jogszabály alapján kapott támogatás, felvett hitel). Az így fennmaradó bevételt teljes egészében jövedelemnek kell tekinteni, amely után az adó mértéke 25 százalék.
+
+(6) A társasháznak kifizetett adóköteles összegből az adót a kifizető állapítja meg, azt levonja, befizeti és arról igazolást állít ki a társasház részére, valamint a kifizetőnek az adózás rendjéről szóló törvénynek az adókötelezettséget eredményező, a magánszemélynek teljesített kifizetésekkel, juttatásokkal összefüggő bevallási kötelezettség szabályai szerint bevallást tesz. Az olyan adóköteles bevétel után, amely nem kifizetőtől származik, az adót a társasháznak kell megállapítania és negyedévenként az adózás rendjéről szóló törvénynek az adóelőleg-fizetésre vonatkozó rendelkezései szerint kell megfizetnie, valamint az e törvény 49. §-a (17) bekezdésének a magánszemélyre vonatkozó rendelkezése szerint kell bevallania.
+
+(7) A társasház a magánszemélyre vonatkozó rendelkezések szerint teljesíti e §-ban előírt adókötelezettségeit, azzal az eltéréssel, hogy csak azt a bevételét kell bevallania, amelyre vonatkozóan adómegállapításra kötelezett. A társasház a kifizetéseit illetően kifizetőnek minősül, és e minőségére tekintettel is teljesíti adókötelezettségeit.
+
+(8) Ha a társasház a (6) bekezdés rendelkezése szerint levont, illetve megfizetett adó után fennmaradó jövedelmet, vagy annak egy részét a tulajdonostársak között a tulajdoni hányadok arányában osztja fel, akkor az a magánszemély tulajdonostárs olyan bevétele, amelynek egésze jövedelem és az adó mértéke 35 százalék.
