@@ -1,0 +1,3 @@
+45. § A Gyftv. 87. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A törvény hatálybalépésekor már forgalomban lévő, gyógyszernek nem minősülő gyógyhatású készítménnyel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlat során – 2011. április 1-jéig – a II. fejezet, valamint a 77. § (2) bekezdésének j) pontjában foglalt felhatalmazás alapján kiadott rendelet rendelkezéseit megfelelően alkalmazni kell. Gyógyszernek nem minősülő gyógyhatású készítmény működési engedéllyel rendelkező, gyógyszerek forgalmazására jogosult üzletben is forgalmazható a külön jogszabályban foglaltaknak megfelelően.”

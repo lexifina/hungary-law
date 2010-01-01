@@ -1,0 +1,1 @@
+74. § Felhatalmazást kap a Kormány, hogy az irányított betegellátási rendszer megszüntetésével, az elszámolásokkal, az elszámolások ellenőrzésével kapcsolatos részletes eljárási szabályokat rendeletben állapítsa meg.

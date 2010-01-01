@@ -1,0 +1,3 @@
+68. § A Gytv. 20. §-a (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával és a gyógyszerellátási felelősséggel kapcsolatos, az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv, a gyógyszertárak és egyéb egészségügyi szolgáltatók esetén az egészségügyi államigazgatási szerv feladata. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat külön törvény állapítja meg.”

@@ -1,0 +1,13 @@
+58. § Az Eftv. a következő új 8/A. §-sal egészül ki:
+
+„8/A. § (1) Amennyiben az egészségbiztosító megállapítja, hogy az érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltatónál a finanszírozási szerződés tárgyát képező egészségügyi szolgáltatás nyújtásának minősége nem éri el az érvényes finanszírozási eljárásrendben, illetve ennek hiányában a szakmai eljárásrendben meghatározott követelményeket, külön jogszabályban foglaltak szerint felszólítja az egészségügyi szolgáltatót a legalább az érvényes finanszírozási protokollnak megfelelő szolgáltatásnyújtásra. A felszólításról egyidejűleg értesíteni kell a szolgáltató fenntartóját, a Felügyeletet, az egészségügyi államigazgatási szervet és az egészségügyért felelős minisztert is. Az egészségbiztosító egyidejűleg tájékoztatja a felszólított szolgáltatót és fenntartóját az (5) bekezdés szerinti lehetséges következményekről.
+
+(2) Az egészségbiztosító az (1) bekezdés szerinti felszólítástól számított 60 nap elteltével megvizsgálja, hogy a felszólításban előírtakat a szolgáltató teljesítette-e.
+
+(3) Amennyiben az egészségbiztosító a (2) bekezdés szerinti ellenőrzés során megállapítja, hogy a szolgáltató nem tett eleget a felszólításban előírtaknak, szerződéskötési ajánlatot tesz az adott szolgáltatás finanszírozására a 4/A. § (4) bekezdése szerinti elérési szabályoknak megfelelő távolságon belül lévő, 1. számú mellékletben szereplő egészségügyi szolgáltatónak, ha az az adott szolgáltatás nyújtására rendelkezik működési engedéllyel.
+
+(4) Az egészségbiztosító a (3) bekezdésben meghatározottak helyett külön jogszabályban foglaltak szerint pályázatot ír ki, amennyiben nincs olyan szolgáltató, amelynek a (3) bekezdés alapján szerződéskötési ajánlatot tehetne, vagy az ajánlatot a szolgáltató nem fogadta el.
+
+(5) Az egészségbiztosító a (4) bekezdés szerinti pályázat sikeres lefolytatása után a felszólított szolgáltató finanszírozási szerződését az adott szolgáltatás tekintetében – az ellátás folyamatosságának biztosítása érdekében – azzal a nappal mondja fel, amikor a pályázaton kiválasztott szolgáltatóval kötött finanszírozási szerződés érvényessé válik. A felszólított szolgáltató rendelkezésére bocsátott, az adott szolgáltatás nyújtásához és elszámolásához kapcsolódó kapacitás a finanszírozási szerződés vonatkozó részének megszűnésével egyidejűleg az adott ellátás nyújtására a (3), illetve a (4) bekezdés alapján kiválasztott szolgáltatót illeti meg.
+
+(6) Ha a 2. § (3) bekezdése szerint a feladatot átvállaló szolgáltató az átvállalt feladatát nem teljesíti, az (1)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell, azzal, hogy a szerződéskötési ajánlattételhez, illetve a pályázat kiírásához a feladatot átadó helyi önkormányzat előzetes jóváhagyása szükséges.”
