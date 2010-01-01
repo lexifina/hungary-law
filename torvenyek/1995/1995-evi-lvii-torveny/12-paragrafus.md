@@ -1,0 +1,1 @@
+12. § A koncesszió időtartama alatt a koncessziós társaság jogosult a koncesszióba adott vízilétesítmények területén halászati, üdülési, sportcélú, idegenforgalmi, fürdő- és kereskedelmi szolgáltatások végzésére, az ezeket szolgáló létesítmények megvalósítására, illetve működtetésére, a csatornán létesített hajózási célú infrastruktúra működtetésére.

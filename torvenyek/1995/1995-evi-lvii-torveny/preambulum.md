@@ -1,0 +1,1 @@
+Az Országgyűlés a vizek hasznosításával, hasznosítási lehetőségeinek megőrzésével és kártételeinek elhárításával összefüggő alapvető jogok és kötelezettségek meghatározására — a környezet- és természetvédelmi követelményekre figyelemmel — a következő törvényt alkotja:
