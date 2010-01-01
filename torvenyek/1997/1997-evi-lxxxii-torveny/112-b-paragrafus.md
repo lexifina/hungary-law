@@ -1,0 +1,7 @@
+112/B. § (1) A Felügyelet a pénztár működését határozott időtartamra, legfeljebb 180 napra felfüggesztheti, ha a pénztár a pénztártevékenységre vonatkozó jogszabályokat súlyosan vagy ismételten megsérti, vagy Felügyelet intézkedésének nem tesz eleget, és ezáltal a pénztártagok érdekeit, illetve a pénztárvagyon biztonságát súlyosan veszélyezteti. A Felügyelet a pénztár működése felfüggesztésének időtartamát egy alkalommal, legfeljebb 180 nappal meghosszabbíthatja.
+
+(2) A pénztár a működésének felfüggesztése alatt új tagokat nem vehet fel, átlépő tagokat és tagdíjbefizetéseket nem fogadhat, valamint a (3) bekezdésben foglaltak kivételével nem teljesíthet kifizetéseket és nem eszközölhet befektetéseket.
+
+(3) A pénztár működésének felfüggesztésének idejére alkalmazni kell a kifizetési tilalomra vonatkozó szabályokat. A pénztár új befektetési ügyleteket csak a Felügyelet előzetes engedélyével eszközölhet azzal, hogy a befektetés kizárólag az Európai Gazdasági Térségről szóló megállapodásban részes állam által kibocsátott állampapírba, illetve olyan értékpapírba történhet, amelyben foglalt kötelezettség teljesítéséért a magyar állam készfizető kezességet vállal.
+
+(4) A befolyó tagdíjak fogadásáról az Alap gondoskodik. A tagok a működés felfüggesztésének idején kezdeményezhetik átlépésüket az átlépésekre vonatkozó szabályok szerint. Az átlépés időpontját követően a tagdíjakat a befogadó pénztár fogadja.

@@ -1,0 +1,1 @@
+13/A. § Ha a Magyarországon bejegyzett vagy nyilvántartásba vett nem természetes személy alapító esetében a kérelmező a kérelemhez nem csatolja a 13. § (3) bekezdés d) pontja szerinti okiratot, a Felügyelet az alapító bejegyzéséért vagy nyilvántartásba vételéért felelős szervet a kérelem elbírálásához szükséges adatok szolgáltatása vagy igazolása iránt megkeresi.

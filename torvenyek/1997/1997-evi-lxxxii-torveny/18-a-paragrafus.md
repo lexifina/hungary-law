@@ -1,0 +1,1 @@
+18/A. § Ha a pénztárt a bíróság nyilvántartásba vette, és a kérelmező az ezt igazoló jogerős határozatot a kérelemhez nem csatolja, a Felügyelet a kérelem elbírálásához szükséges adatok szolgáltatása vagy igazolása iránt megkeresi a nyilvántartást vezető bíróságot.

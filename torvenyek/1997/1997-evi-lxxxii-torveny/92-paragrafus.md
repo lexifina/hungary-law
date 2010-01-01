@@ -1,0 +1,1 @@
+92. § A garanciadíj alapja a pénztár éves beszámolója szerinti tagdíjbevétel. A garanciadíj mértéke a tagdíjbevétel 0,4 százalékát nem haladhatja meg. A garanciadíj mértékét és a befizetés rendjét az Alap igazgatósága szabályzatban határozza meg azzal, hogy a garanciadíjat a pénztáraknak negyedévente kell az Alap számlájára átutalni.

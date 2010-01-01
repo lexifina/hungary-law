@@ -1,0 +1,3 @@
+68. § (1) A pénztár befektetései nyilvántartásában köteles a befektetett eszközökből eszközcsoportokat, ezekből befektetési portfólió osztályokat képezni, és meghatározni azok egymás közötti arányát, továbbá az e törvényben, valamint a törvényhez kapcsolódó végrehajtási jogszabályokban meghatározott szabályokat és keretelőírásokat ezen osztályok szerint érvényesíteni.
+
+(2) A 67. §-ban és az (1) bekezdésben meghatározott befektetési korlátok részletes szabályait, a 70. § figyelembevételével a Kormány rendeletben szabályozza. A befektetési alapok által kibocsátott jegyekre vonatkozóan az alap kezelési szabályzatában meghatározott befektetési eszközcsoport tekintetében a rendelet eltérhet a 67. § (4) bekezdésben meghatározott korlátoktól.

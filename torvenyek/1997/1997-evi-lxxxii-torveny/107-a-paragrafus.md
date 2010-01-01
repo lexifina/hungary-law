@@ -1,0 +1,1 @@
+107/A. § A pénztárak az alapítási és a tevékenységi engedély iránti kérelemhez; a pénztár, illetve a vezető tisztségviselők, kötelező alkalmazottak és megbízottak, a könyvvizsgáló, illetve a szolgáltatók adatainak bejelentését a Felügyelet által meghatározott formában kötelesek elkészíteni.

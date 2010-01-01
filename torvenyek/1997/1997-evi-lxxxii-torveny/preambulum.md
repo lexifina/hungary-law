@@ -1,0 +1,1 @@
+Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztosítási rendszer és az ehhez kapcsolódó magánnyugdíjrendszer útján gondoskodik időskor és megrokkanás esetén az állampolgárok biztonságáról. A magánnyugdíjrendszer létrehozása és működése érdekében az Országgyűlés a magánnyugdíjról és a magánnyugdíjpénztárakról a következő törvényt alkotja:

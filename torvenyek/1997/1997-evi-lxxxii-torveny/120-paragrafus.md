@@ -1,0 +1,1 @@
+120. § A pénztárak központi nyilvántartását a Felügyelet saját szervezetében végzi. Ha az adatokból megállapítja, hogy valamely pénztárban, annak működési zavarai miatt veszélyeztetett a szolgáltatások biztonsága, vagy a pénztárak teljesítménymérésének adatai feltűnő aránytalanságot mutatnak, illetőleg törvény- vagy jogszabálysértés gyanúja merül fel, a Felügyelet intézkedik.

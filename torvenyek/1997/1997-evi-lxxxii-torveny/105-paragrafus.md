@@ -1,0 +1,3 @@
+## Összeférhetetlenség
+
+105. §

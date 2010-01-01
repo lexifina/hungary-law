@@ -1,0 +1,1 @@
+109/G. § A Felügyelet információs rendszert működtet, amelyen keresztül közvetlen kapcsolatban áll a pénztárak, az Alap információs rendszerével. A közös információs adatbázis adataira vonatkozó részletes szabályokat kormányrendelet állapítja meg.

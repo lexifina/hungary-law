@@ -1,0 +1,1 @@
+34/A. § A vezető tisztségviselőnek jelölt személy a megválasztását megelőzően a közgyűlés részére hatósági bizonyítvánnyal igazolja azt, hogy a 34. § (12) bekezdésben meghatározott kizáró ok vele szemben nem áll fenn.

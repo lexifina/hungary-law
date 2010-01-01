@@ -1,0 +1,3 @@
+## Eljárás a fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezések megsértése esetén
+
+117. § E törvény a fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen a nyilvánosságra hozatalra vonatkozó rendelkezéseinek, valamint az e törvény végrehajtására a 134. § (1) bekezdésének f) pontjában foglalt felhatalmazás alapján kiadott jogszabály nyilvánosságra hozandó adatokra vonatkozó rendelkezéseinek megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el az ott meghatározott szabályok szerint, ha a jogsértés az Fttv. 2. §-ának a) pontja értelmében vett fogyasztót érint.

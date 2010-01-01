@@ -1,0 +1,3 @@
+20/A. § (1) A tevékenységi engedély közlésétől számított 1 éven belül a pénztár köteles igazolni, hogy taglétszáma eléri a 7. § (1) bekezdésében meghatározott taglétszámot. E határidő elmulasztása esetén igazolásnak nincs helye.
+
+(2) Amennyiben a pénztár a fenti határidőt elmulasztja, vagy a taglétszám nem éri el a 7. § (1) bekezdésében meghatározott számot, úgy a Felügyelet a pénztár tevékenységi engedélyét visszavonja. A tevékenységi engedély visszavonása esetén, a pénztár köteles a tevékenységi engedély visszavonásáról szóló határozat közlését követő 30 napon belül végelszámolás útján történő megszűnéséről dönteni.

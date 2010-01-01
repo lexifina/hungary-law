@@ -1,0 +1,1 @@
+41. § Az igazgatótanács a 40. § (2) bekezdés a)–b) és g) pontjaiban foglalt hatáskörének gyakorlását – felelősségének érintetlenül hagyása és rendszeres beszámolási kötelezettség előírása mellett – az ügyvezetőre átruházhatja. A hatáskör gyakorlásának módjáról és mértékéről az igazgatótanács ügyrendjében kell rendelkezni.

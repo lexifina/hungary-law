@@ -1,0 +1,1 @@
+64. § Az igazgatótanács hatáskörébe tartozik a likviditási tartalék, és ha a pénztár képzett, a működési tartalék előirányzott szintet meghaladó részének felhasználásáról történő döntés azzal, hogy a fedezeti tartalék részét képező szolgáltatási tartalékok előirányzott szintet meghaladó részét nem lehet a fedezeti tartalékon kívül felhasználni.
