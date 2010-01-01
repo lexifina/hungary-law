@@ -1,0 +1,9 @@
+# 328/2009. (XII. 29.) Korm. rendelet
+
+a szakiskolai tanulmányi ösztöndíjról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-328-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2009-328-20-22.1 | 328/2009. (XII. 29.) Korm. rendelet |
