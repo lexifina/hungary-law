@@ -1,0 +1,1 @@
+57. § Az elővásárlási jog gyakorlása esetén a felek a szerződés megtámadásának jogáról nem mondhatnak le, illetőleg a megtámadás jogát megerősítéssel nem zárhatják ki. Az e tilalomba ütköző jognyilatkozat semmis.

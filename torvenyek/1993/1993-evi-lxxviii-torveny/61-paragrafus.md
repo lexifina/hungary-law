@@ -1,0 +1,1 @@
+61. § Az elővásárlási joggal érintett önkormányzati, illetőleg állami lakás és helyiség tulajdonjoga nem pénzbeli hozzájárulásként nem bocsátható gazdasági társaság vagy más, a cégnyilvántartás hatálya alá tartozó jogalany rendelkezésére.

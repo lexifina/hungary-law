@@ -1,0 +1,5 @@
+81. § (1) Az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonába adásáról szóló 1991. évi XXXIII. törvény (a továbbiakban: Övt.) alapján a Kincstári Vagyonkezelő Szervezet, illetőleg a jogutódja vagyonkezelésében lévő lakások és e törvény hatálybalépésekor bérbeadás útján hasznosított helyiségek bérletére, valamint az elidegenítésükre a lakás, illetőleg a helyiség fekvése szerinti önkormányzat rendeletének szabályait kell alkalmazni.
+
+(2) Ha az önkormányzat – e törvény alapján – rendeletet nem alkot, az (1) bekezdésben említett szervnek a bérbeadói jogok gyakorlása és a bérbeadói kötelezettségek teljesítése során, illetőleg elidegenítés esetén a lakás (helyiség) fekvése szerinti önkormányzat véleményét előzetesen ki kell kérnie.
+
+(3) Az (1)–(2) bekezdések rendelkezéseit megfelelően alkalmazni kell az Egészségbiztosítási Önkormányzat tulajdonából állami tulajdonba és az egészségbiztosítási szerv vagyonkezelésébe került, bérbeadás útján hasznosított lakásokra és helyiségekre.

@@ -1,0 +1,1 @@
+11/A. § A külön jogszabály szerint rendelkezésre álló – az épületre, illetőleg az abban lévő lakásra és nem lakás céljára szolgáló helyiségre vonatkozó – energetikai tanúsítványt a bérbeadó a szerződés megkötésével egyidejűleg a bérlőnek bemutatja.

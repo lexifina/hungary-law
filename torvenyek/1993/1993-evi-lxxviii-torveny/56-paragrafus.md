@@ -1,0 +1,1 @@
+56. § Az önkormányzat vagy az állam tulajdonában lévő épületben a közös használatra szolgáló helyiséget és az épülethez tartozó közös használatra szolgáló területet önálló ingatlanként nem lehet elidegeníteni.

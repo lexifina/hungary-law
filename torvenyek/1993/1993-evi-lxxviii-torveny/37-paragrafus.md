@@ -1,0 +1,1 @@
+37. § A helyiség átadásával, rendeltetésszerű használatával, karbantartásával, felújításával, a bérleti jog szünetelésével, továbbá a szerződés megszűnésekor a helyiség visszaadásával kapcsolatban a bérbeadó és a bérlő jogaira és kötelezettségeire a felek megállapodása az irányadó.
