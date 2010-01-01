@@ -1,0 +1,9 @@
+8. § (1)[^17] A munkáltatói kölcsönben részesített dolgozót – a lakásfelújításhoz nyújtott támogatás kivételével – a kölcsön összegéből a folyamatosan eltöltött minisztériumi jogviszonyának ideje alapján 5 évenként 50 000 Ft, legfeljebb összesen 250 000 Ft összegű kedvezmény illeti meg, ami a kölcsön futamidejét arányosan csökkenti. A kedvezmény jóváírására akkor kerülhet sor, ha az a mindenkor hatályos személyi jövedelemadóról szóló jogszabályban foglaltak szerint adóterhet nem viselő járandóságnak minősül.
+
+(2) A szolgálat jogviszony ideje alapján járó kedvezményt az alábbi számítás szerint úgy kell figyelembe venni, hogy az a futamidőt csökkentse. A kölcsönt engedélyező által megállapított kölcsön összegét el kell osztani az engedélyezett futamidőre eső hónapok számával. Ez adja a havi törlesztő részlet összegét. A munkáltatói kölcsön folyósításakor a támogatásban részesült személy tartozását a már figyelembe vehető ténylegesen betöltött időnek megfelelő összegű kedvezménnyel csökkenteni kell oly módon, hogy a kedvezmény összegét el kell osztani az előbbiek szerint megállapított havi törlesztő részlet összegével. Ennek eredménye adja azoknak a hónapoknak a számát, amennyivel rövidül az engedélyezett futamidő. A havi törlesztő részlet összegét növelni kell a pénzintézet által felszámított kezelési költséggel.
+
+(3) A tartozás fennállása alatt a kedvezmény jóváírására – a havi törlesztő összeg változatlanul hagyása mellett – a tartozást nyilvántartó pénzintézetnél a kölcsönt folyósító szerv hivatalból intézkedik. A kedvezmény a még fennálló tartozás összegét nem haladhatja meg.
+
+(4) Ismételt munkáltatói kölcsön nyújtása esetén a megállapítható kedvezmény összegéből le kell vonni a korábban már jóváírt kedvezmény összegét.
+
+[^17]: A 8. § (1) bekezdése a 12/2005. (III. 25.) BM rendelet 13. §-ával megállapított, a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (4) bekezdése szerint módosított szöveg.
