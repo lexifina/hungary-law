@@ -1,0 +1,1 @@
+A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény 40. §-ának (1) bekezdésében kapott felhatalmazás alapján – az igazságügy-miniszterrel és a Magyar Szabadalmi Hivatal elnökével egyetértésben – a következőket rendelem el:
