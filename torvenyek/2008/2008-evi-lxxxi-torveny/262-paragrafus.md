@@ -1,0 +1,1 @@
+262. § A munkáltatói adómegállapítás e törvénnyel módosított Art. 27. §-ának, valamint az egyszerűsített bevallás e törvénnyel módosított Art. 28–28/A. §-ának rendelkezései 2009. január 1-jétől lépnek hatályba azzal, hogy e rendelkezéseket a törvény hatálybalépését megelőző időszakra vonatkozó adómegállapítás során alkalmazni kell.

@@ -1,0 +1,3 @@
+119. § Az Art. 141. §-a a következő új (4) bekezdéssel egészül ki, és ezzel egyidejűleg a jelenlegi (4) bekezdés számozása (5) bekezdésre módosul:
+
+„(4) Felügyeleti intézkedés keretében nem hozható olyan döntés, amely az adókötelezettséget, az adó alapját, az adó összegét, a költségvetési támogatás alapját, összegét az adózó terhére változtatja meg. Amennyiben a felettes adóhatóság vagy az adópolitikáért felelős miniszter megállapítása szerint a felülvizsgált döntés (intézkedés) súlyosításának lenne helye, úgy a jogszabálysértő döntést (intézkedést) megsemmisíti és új eljárás lefolytatását rendeli el.”

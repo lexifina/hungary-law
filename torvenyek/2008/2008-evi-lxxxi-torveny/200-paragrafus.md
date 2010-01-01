@@ -1,0 +1,3 @@
+200. § (1) Az Áfa tv. e törvénnyel megállapított rendelkezései – a (2) bekezdésben, a 215. §-ban, valamint a 240. §-ban foglaltak figyelembevételével – 2009. február 1. napján lépnek hatályba, amelyeket – a 215. §-ban, a 240. §-ban, valamint a 259. §-ban foglaltak figyelembevételével – ettől az időponttól kezdődően kell alkalmazni.
+
+(2) Az Áfa tv. e törvénnyel megállapított 212/A. §-ának (1) bekezdésében meghatározott választási jog gyakorlására vonatkozó előzetes bejelentési kötelezettséggel összefüggő rendelkezés e törvény kihirdetését követő napon lép hatályba azzal, hogy azt ettől az időponttól kezdődően lehet az állami adóhatóság felé teljesíteni úgy, hogy az ahhoz fűződő jogkövetkezményeket legkorábban 2009. február 1. napjától kell alkalmazni.

@@ -1,0 +1,1 @@
+223. § 2009. július 1-jén a Htv. 52. § 31. pontjának c) pontjában és 3. számú melléklete 2.2. pontjának felvezető szövegében a „közüzemi szolgáltató” szövegrészek helyébe az „egyetemes szolgáltató” szövegrész lép, egyidejűleg a 3. számú melléklet 2.2. pontjának a) alpontjában a „vagy közüzemi” szövegrész hatályát veszti.

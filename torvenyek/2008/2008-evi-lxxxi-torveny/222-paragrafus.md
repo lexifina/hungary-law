@@ -1,0 +1,1 @@
+222. § 2009. január 1-jén a Htv. 13/A. §-ának (1) bekezdésében a „(2)–(6)” szövegrész helyébe a „(2)–(7)” szövegrész, 2. számú mellékletének 6.1. pontjában a „kiadását” szövegrész helyébe a „jogerőre emelkedését” szövegrész lép, a 3. számú mellékletében a 2007. évi CXXVI. törvény 6. számú mellékletének 2. pontjával beiktatott 6. pont számozása 7. pontra változik.

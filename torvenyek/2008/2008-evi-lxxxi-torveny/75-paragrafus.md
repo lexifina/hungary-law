@@ -1,0 +1,3 @@
+75. § Az Itv. 73. §-ának (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A (2)–(4) bekezdésben meghatározott eljárások kivételével a 10 000 forintot meghaladó eljárási illeték kiszabás alapján készpénz-átutalási megbízás útján vagy az állami adóhatóság által meghatározott számlaszámra bankszámlák közötti átutalással, illetőleg amennyiben erre lehetőség van, bankkártyával is megfizethető. Ebben az esetben az illetékköteles iratot annak egy másolatával az illetékes állami adóhatósághoz kell benyújtani. Az irat illetékkiszabásra történő bemutatását az eredeti iraton igazolja az állami adóhatóság.”

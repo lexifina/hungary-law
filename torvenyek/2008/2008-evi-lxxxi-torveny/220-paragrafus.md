@@ -1,0 +1,1 @@
+220. § 2009. január 1-jén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 37. §-ának (2) bekezdésében a „vámhivatal” szövegrész helyébe „vámhatóság” szövegrész lép.

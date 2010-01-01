@@ -1,0 +1,7 @@
+267. § (1) Az adózónak az e törvény hatálybalépését követően az azt megelőző időszakra teljesítendő bejelentési, adómegállapítási, bevallási, adófizetési, adóelőleg-fizetési, bizonylat-kiállítási, adatszolgáltatási és adólevonási kötelezettségét a 2008. december 31. napján hatályos szabályok szerint kell teljesítenie.
+
+(2) E törvény rendelkezéseit kell alkalmazni a hatálybalépésekor jogerősen el nem bírált ügyekben, továbbá a hatálybalépést követően az azt megelőző időszakra teljesítendő, illetve esedékessé vált kötelezettségekre azzal, hogy ha a jogszabálysértés elkövetésének időpontjában hatályos rendelkezések az adózóra összességében kevésbé terhes bírság-, pótlékfeltételeket határoztak meg, a kötelezettségre legfeljebb az elkövetéskor hatályos törvényben meghatározott legmagasabb mérték alkalmazható.
+
+(3) A 2007. december 31-ig terjedő adómegállapítási időszakokra vonatkozó adóhatósági adómegállapításokra az adómegállapítás évében hatályos eljárási szabályokat kell alkalmazni.
+
+(4) E törvénynek az Art. 1. számú mellékletének I/B/2/a) pontját, az Art. 1. számú mellékletének I/B/5. pontját, az Art. 2. számú mellékletének I/Határidők/1/B pontjának d) alpontját, valamint az Art. 2. számú mellékletének I/Határidők/2/a) pontjának utolsó francia bekezdését módosító rendelkezéseit a 2008. évi adóévre vonatkozó bevallási és befizetési kötelezettség teljesítésénél is alkalmazni kell.
