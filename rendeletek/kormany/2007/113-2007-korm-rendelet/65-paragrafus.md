@@ -1,0 +1,1 @@
+## Arcképmás és ujjnyomat rögzítése

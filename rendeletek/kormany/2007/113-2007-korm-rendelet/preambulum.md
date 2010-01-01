@@ -1,0 +1,1 @@
+A Kormány a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény (a továbbiakban: Tv.) 86. § (1) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
