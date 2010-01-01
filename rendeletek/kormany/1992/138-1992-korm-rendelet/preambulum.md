@@ -1,0 +1,3 @@
+A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 85. §-ának (4) bekezdésében, valamint a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Kt.) 94. §-a (3) bekezdésének l) pontjában, továbbá a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény 7. §-ának (7) bekezdésében foglalt felhatalmazás alapján – figyelemmel a Kt. 122. §-ának (1) bekezdésében foglaltakra – a Kormány a következőket rendeli el:[^1]
+
+[^1]: A bevezető rendelkezés a 186/2006. (VIII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
