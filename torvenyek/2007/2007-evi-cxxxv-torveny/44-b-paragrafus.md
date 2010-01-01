@@ -1,0 +1,1 @@
+44/B. § Ha olyan helyzet áll elő, amely potenciálisan veszélyezteti a pénzügyi közvetítőrendszer stabilitását, a Felügyelet ellenőrzési eljárása során pénzügyi intézményi minősítéssel rendelkező igazságügyi könyvszakértőt rendel ki.
