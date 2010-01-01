@@ -1,0 +1,1 @@
+77. § A települési önkormányzat a helyi társadalom művelődési érdekeinek és kulturális szükségleteinek figyelembevételével, e törvény és a helyi lehetőségek, sajátosságok alapján rendeletben határozza meg, hogy a 76. §-ban felsoroltakból mit, milyen konkrét formában, módon és mértékben lát el.

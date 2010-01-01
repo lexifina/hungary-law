@@ -1,0 +1,1 @@
+6/A. § A muzeális intézmények, a nyilvános könyvtárak és a könyvtári tevékenység, valamint a közművelődési intézmények tevékenységének ágazati irányítását a kultúráért felelős miniszter (a továbbiakban: miniszter) látja el. E feladatának ellátásában – közreműködőként – szakfelügyelői és szakmai testületeket működtethet.
