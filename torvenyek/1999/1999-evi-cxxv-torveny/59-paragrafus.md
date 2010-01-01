@@ -1,0 +1,1 @@
+59. § Az Országgyűlés a HM Radar Rádiótechnikai Részvénytársaságnak a Kincstárral szemben 1999. december 31-én fennálló 178 179 681 forint, azaz egyszázhetvennyolcmillió-egyszázhetvenkilencezer-hatszáznyolcvanegy forint kamattartozását elengedi.

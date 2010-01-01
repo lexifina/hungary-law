@@ -1,0 +1,1 @@
+36. § Az Országgyűlés felhatalmazza a Kormányt, hogy a 34. §-ban foglaltakon túl a hitelintézetek által nyújtott agrárhitelekre a központi költségvetés terhére 65 000 millió forint összegben kezességet vállaljon.

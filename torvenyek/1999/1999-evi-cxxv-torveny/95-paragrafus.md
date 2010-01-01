@@ -1,0 +1,1 @@
+95. § A felsőoktatásról szóló 1993. évi LXXX. törvény 9/D. §-ának (1)–(3) bekezdéseiben és a 9/E. §-ának (1) bekezdésében meghatározott, az előirányzatok minimum összegére vonatkozó előírások hatályát az Országgyűlés 2000. január 1-jétől 2000. december 31-ig felfüggeszti.

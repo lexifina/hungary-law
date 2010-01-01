@@ -1,0 +1,1 @@
+Az Országgyűlés az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 28. §-a alapján a Magyar Köztársaság 2000. évi központi költségvetéséről, valamint annak a végrehajtásához kapcsolódóan egyes törvények módosításáról a következő törvényt alkotja:

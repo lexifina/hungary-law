@@ -1,0 +1,1 @@
+16. § A fogvatartottakat foglalkoztató büntetés-végrehajtási gazdálkodó szervezetek (kivéve a büntetés-végrehajtási intézeteket) sajátos többletköltségei részbeni ellentételezésére 140 000 forint/foglalkoztatott, fogvatartott/év, de 2000. évben összességében 545 millió forint fordítható.

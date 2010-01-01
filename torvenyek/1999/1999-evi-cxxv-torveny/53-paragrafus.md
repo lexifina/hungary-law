@@ -1,0 +1,1 @@
+53. § A közoktatásról szóló 1993. évi LXXIX. törvény 118. §-ának (10) bekezdésében meghatározott kiemelt munkavégzésért járó keresetkiegészítés fedezetének számítási alapja 2000. augusztus 31-ig 1620 forint/fő/hónap, 2000. szeptember 1-jétől 3000 forint/fő/hónap.

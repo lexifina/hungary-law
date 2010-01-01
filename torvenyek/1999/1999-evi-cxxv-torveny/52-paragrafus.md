@@ -1,0 +1,1 @@
+52. § Az ügyészségi szolgálati viszonyról és az ügyészségi adatkezelésről szóló 1994. évi LXXX. törvény 46/D. §-ának (2) bekezdése szerinti legalacsonyabb ügyészi alapilletmény (1. fizetési fokozat) a 2000. évben 173 200 forint.

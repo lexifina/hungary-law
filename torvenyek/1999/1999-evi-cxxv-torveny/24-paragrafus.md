@@ -1,0 +1,1 @@
+24. § A települési önkormányzat által jogerősen kiszabott környezetvédelmi bírság teljes összege, a területi környezetvédelmi hatóság által a települési önkormányzat területén jogerősen kiszabott és abból befolyt környezetvédelmi bírságok összegének 30%-a a területileg illetékes települési önkormányzatot illeti meg.

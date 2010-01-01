@@ -1,0 +1,1 @@
+41. § A Felsőoktatási Fejlesztési Világbanki Program alapján az állam kezességet vállal a Kormány rendeletében meghatározott körben és feltételek mellett egyes felsőoktatási intézményekben tanulmányokat folytató, magyar állampolgárságú és a devizajogszabályok értelmében devizabelföldinek minősülő hallgatók által forintban felvett hitelekre.

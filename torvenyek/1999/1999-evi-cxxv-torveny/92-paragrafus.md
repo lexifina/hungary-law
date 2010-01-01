@@ -1,0 +1,3 @@
+92. § (1) Az elkülönített állami pénzalapok, a fejezeti kezelésű előirányzatok, a törvény 6. §-ának (3) bekezdésében meghatározott privatizációs ráfordítások, valamint a 18. § (1) bekezdés e)–f) pontjaiban meghatározott támogatási előirányzatok terhére nyújtható fejlesztési célú központi, illetve decentralizált döntési körbe tartozó támogatások pályázati felhívásait legkésőbb 2000. február 28-ig közzé kell tenni.
+
+(2) Az (1) bekezdésben meghatározott előirányzatok fejlesztési célú támogatási rendszereinek döntés-előkészítési és döntéshozatali eljárásrendjét úgy kell kialakítani, hogy az új induló fejlesztések tekintetében az első támogatási döntések legkésőbb 2000. május 31-ig meghozhatók legyenek.

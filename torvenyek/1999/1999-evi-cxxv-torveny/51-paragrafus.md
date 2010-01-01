@@ -1,0 +1,1 @@
+51. § A bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 103. §-ának (2) bekezdése szerinti legalacsonyabb bírói alapilletmény – 1. fizetési fokozat – a 2000. évben 173 200 forint.
