@@ -1,0 +1,1 @@
+## Iparjogvédelmi jogok megsértése

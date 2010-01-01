@@ -1,0 +1,1 @@
+## Műszaki vizsgálat elmulasztása

@@ -1,0 +1,1 @@
+## Megfelelőségi jelölés jogosulatlan használata

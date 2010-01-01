@@ -1,0 +1,9 @@
+# 218/1999. (XII. 28.) Korm. rendelet
+
+az egyes szabálysértésekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-218-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 1999-218-20-22.37 | 218/1999. (XII. 28.) Korm. rendelet |
