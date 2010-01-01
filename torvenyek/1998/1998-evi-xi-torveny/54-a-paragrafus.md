@@ -1,0 +1,1 @@
+54/A. § Az első fokú fegyelmi tanács – az 54. § (1) bekezdésében meghatározottakon kívül – az ügyvéd tevékenységének gyakorlását felfüggesztheti, ha az ügyvéd szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádló vádindítványa alapján indult büntetőeljárást – hatálya alatt áll.
