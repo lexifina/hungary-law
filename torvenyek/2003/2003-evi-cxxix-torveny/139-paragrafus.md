@@ -1,0 +1,3 @@
+139. § (1) Az ajánlatkérő az eljárást megindító hirdetményben köteles megadni, hogy a közbeszerzési eljárás melyik fajtája szerint jár el. Eszerint kell az ajánlati felhívásra vagy a részvételi felhívásra vonatkozó szabályokat a hirdetmény elkészítésekor megfelelően alkalmazni. Gyorsított eljárás nem alkalmazható.
+
+(2) Hirdetmény közzétételével induló tárgyalásos eljárást a 124. § (2) bekezdése szerinti eseteken túlmenően is lehet alkalmazni. Hirdetmény nélküli tárgyalásos eljárás kizárólag a 125. § (1) bekezdése, (2) bekezdésének a), b) pontja vagy (3) bekezdésének a) pontja alapján alkalmazható.

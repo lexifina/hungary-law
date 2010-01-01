@@ -1,0 +1,1 @@
+165. § A 163. § (1) bekezdésének c) pontjában meghatározott tevékenységek körében kivételt képez az autóbusszal történő közforgalmú közlekedési szolgáltatás nyújtása abban az esetben, ha más szervezetek általában vagy egy meghatározott földrajzi területen, szabadon, azonos feltételekkel nyújthatják az ajánlatkérő által nyújtott szolgáltatást.

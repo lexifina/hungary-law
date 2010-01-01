@@ -1,0 +1,9 @@
+## Az alkalmazandó szabályok
+
+285. §
+
+38. CÍM
+
+AZ ELŐMINŐSÍTÉSI HIRDETMÉNNYEL MEGHIRDETETT MEGHÍVÁSOS
+
+ÉS TÁRGYALÁSOS ELJÁRÁS

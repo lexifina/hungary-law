@@ -1,0 +1,11 @@
+## Az iratok megtekintése
+
+337. § (1) A közbeszerzési ügy kérelmezője (az eljárást kezdeményező), az ellenérdekű ügyfél, továbbá ezek képviselője és a Közbeszerzések Tanácsának tagja az eljárás során külön engedély nélkül bármikor betekinthet a közbeszerzési eljárás, illetőleg a jogorvoslati eljárás során keletkezett iratokba, és azokról másolatot, feljegyzést készíthet.
+
+(2) Az ajánlatkérő és az ajánlattevő, a részvételre jelentkező – az üzleti titok védelmére hivatkozással – kérheti az (1) bekezdés szerinti személyek iratbetekintési jogának kizárását vagy korlátozását az olyan iratok vagy adatok tekintetében, amelyek nem minősülnek közérdekű adatnak vagy közérdekből nyilvános adatnak, megismerésük hiánya nem akadályozza az ellenérdekű ügyfelet jogorvoslati jogának gyakorlásában, ugyanakkor az iratok vagy adatok mások általi megismerése aránytalanul súlyosan sértené az ügyfél üzleti érdekeit. A kérelemről való döntéssel egyidejűleg a Közbeszerzési Döntőbizottság kötelezheti az érintettet olyan iratváltozat elkészítésére, amely nem tartalmaz üzleti titkot.
+
+(3) Az (1) bekezdésben meghatározottakon kívüli személyek akkor tekinthetnek be a közbeszerzési eljárás, illetőleg a jogorvoslati eljárás során keletkezett iratokba, illetőleg készíthetnek azokról másolatot, feljegyzést, ha az iratok ismeretéhez jogos érdekük fűződik, és az iratbetekintés nem ütközik a titokvédelmi szabályokba. Egyébként a Közbeszerzési Döntőbizottság engedélye szükséges.
+
+(4) Betekintési engedély hiányában nem lehet betekinteni az államtitkot, illetőleg a szolgálati titkot tartalmazó iratba. Nem lehet betekinteni a törvény által védett egyéb adatot tartalmazó iratba sem, ha azt az érintett adat védelmét szabályozó törvény kizárja, vagy ha a védett adat megismerésének hiánya nem akadályozza az (1) bekezdésben meghatározott, betekintést kérő személyt jogorvoslati jogának gyakorlásában.
+
+(5) Az olyan tárgyalásról készült jegyzőkönyvet, amelyről a nyilvánosságot államtitok vagy szolgálati titok megőrzése miatt zárták ki, nem lehet lemásolni vagy arról feljegyzést készíteni. Ilyen ügyben az iratok megtekintésének is csak – az államtitokról és a szolgálati titokról szóló törvényben meghatározott megismerési engedély alapján – a Közbeszerzési Döntőbizottság elnöke által megállapított feltételek mellett van helye.

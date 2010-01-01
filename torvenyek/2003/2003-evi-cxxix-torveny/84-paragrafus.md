@@ -1,0 +1,1 @@
+84. § Ha az ajánlatban nyilvánvaló számítási hiba van, annak javítását az ajánlatkérő végzi el úgy, hogy a közbeszerzés tárgya elemeinek tételesen meghatározott értékeit (az alapadatokat) alapul véve számítja ki az összesített ellenértéket. A számítási hiba javításáról az összes ajánlattevőt egyidejűleg, közvetlenül, írásban, haladéktalanul tájékoztatni kell.

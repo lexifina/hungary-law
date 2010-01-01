@@ -1,0 +1,1 @@
+95. § Az eredményhirdetésre meg kell hívni az ajánlattevőket, továbbá – a közbeszerzéshez támogatásban részesülő ajánlatkérő esetében – a külön jogszabályban meghatározott szervek képviselőit, illetőleg személyeket.

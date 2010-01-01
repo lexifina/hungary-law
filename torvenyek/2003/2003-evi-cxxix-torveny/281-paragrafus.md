@@ -1,0 +1,9 @@
+## Az alkalmazandó szabályok
+
+281–283. §
+
+36. CÍM
+
+A RÉSZVÉTELI FELHÍVÁST TARTALMAZÓ HIRDETMÉNNYEL INDULÓ MEGHÍVÁSOS
+
+ÉS TÁRGYALÁSOS ELJÁRÁS

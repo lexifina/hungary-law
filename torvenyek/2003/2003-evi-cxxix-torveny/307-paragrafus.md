@@ -1,0 +1,9 @@
+## Tájékoztatás a szerződés módosításáról és teljesítéséről
+
+307. § (1) Az ajánlatkérő köteles a szerződés módosításáról, valamint a szerződés teljesítéséről külön jogszabályban meghatározott minta szerint tájékoztatót készíteni, és hirdetmény útján a Közbeszerzési Értesítőben közzétenni. A hirdetményt legkésőbb a szerződés módosításától, illetőleg a szerződés mindkét fél általi teljesítésétől számított öt munkanapon belül kell feladni. Az egy évnél hosszabb vagy határozatlan időre kötött szerződés esetében a szerződés megkötésétől számítva évenként kell a szerződés részteljesítéséről tájékoztatót készíteni. A szerződés teljesítésére vonatkozó tájékoztatási kötelezettség körében – ha a teljesítés eltérő időpont(ok)ban történik – külön meg kell jelölni a szerződés teljesítésének az ajánlatkérő által elismert időpontját, továbbá az ellenszolgáltatás teljesítésének időpontját. A tájékoztatóban az ajánlattevőként szerződő félnek nyilatkoznia kell, hogy egyetért-e az abban foglaltakkal.
+
+(2) Az ajánlatkérő az (1) bekezdés szerinti hirdetmények Közbeszerzési Értesítőben történő megjelenését követően haladéktalanul gondoskodik a szerződés módosításáról, illetve teljesítéséről szóló tájékoztatónak – amennyiben rendelkezik honlappal – honlapján történő közzétételéről.
+
+(3) A Közbeszerzések Tanácsának elnöke kezdeményezi a Közbeszerzési Döntőbizottság hivatalból történő eljárását, ha valószínűsíthető, hogy a szerződés módosítására a 303. §-ba ütköző módon, illetőleg a szerződés teljesítésére a 304. vagy a 305. §-ba ütköző módon került sor.
+
+(4) A Közbeszerzések Tanácsa az illetékes ellenőrző szerveknek, valamint a 308. § (2) bekezdése szerinti ellenőrzést végzőknek megküldi azokat az (1) bekezdés szerinti hirdetményeket, amelyek alapján valószínűsíthető, hogy a szerződés módosítása a 303. §-ba ütköző módon történt, illetőleg a szerződésszegés jelentős és olyan körülményekre vezethető vissza, amelyekért valamelyik fél felel.

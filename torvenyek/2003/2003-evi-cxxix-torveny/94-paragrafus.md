@@ -1,0 +1,9 @@
+94. § (1) Az ajánlatokat a lehető legrövidebb időn belül kell az ajánlatkérőnek elbírálnia és azt követően az eljárás eredményét vagy eredménytelenségét kihirdetnie (a továbbiakban együtt: eredményhirdetés). Az eljárás eredményét legkésőbb az ajánlatok felbontástól számított harminc – építési beruházás esetében hatvan – napon belül, az ajánlati felhívásban meghatározott eredményhirdetési időpontban nyilvánosan kell kihirdetni.
+
+(2) Az ajánlatkérő az eredményhirdetés időpontját – indokolt esetben – egy alkalommal, legfeljebb harminc nappal elhalaszthatja. Az ajánlatkérő az eredeti határidő lejárta előtt köteles a halasztásról és annak indokáról, valamint – ha szükséges [99. § (3) bekezdése] – a szerződéskötés új időpontjáról [99. § (3) bekezdése] az összes ajánlattevőt egyidejűleg, közvetlenül, írásban tájékoztatni.
+
+(3) A (2) bekezdés szerinti esetben – ha szükséges – az ajánlatkérő felkérheti az ajánlattevőket ajánlataiknak a szerződéskötés új időpontjának lejártáig történő fenntartására. Az ajánlattevő ajánlati kötöttsége – eltérő nyilatkozat hiányában – a szerződéskötés új időpontjának lejártáig tart.
+
+(4) Az ajánlatkérő az eredményhirdetést – indokolt esetben – az ajánlati felhívásban meghatározott időponthoz képest korábbi időpontban is megtarthatja. Az ajánlatkérő a korábbi eredményhirdetési időpont előtt legalább két munkanappal korábban köteles az új időpontról és annak indokáról, valamint – ha indokolt – a szerződéskötés új korábbi időpontjáról [99. § (3) bekezdése] az összes ajánlattevőt egyidejűleg, közvetlenül, írásban tájékoztatni.
+
+(5) Ha az eredményhirdetés az ajánlati felhívásban meghatározott vagy a (2) vagy a (4) bekezdés szerint módosított időpontban nem történt meg, az ajánlatkérő – a késedelemmel kapcsolatban e törvényben vagy egyéb jogszabályokban előírt következmények viselése mellett – haladéktalanul köteles az eljárás eredményét vagy eredménytelenségét kihirdetni.

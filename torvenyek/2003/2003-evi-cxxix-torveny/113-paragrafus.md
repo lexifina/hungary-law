@@ -1,0 +1,1 @@
+113. § A részvételi jelentkezések elbírálása során az ajánlatkérő írásban és a többi jelentkező egyidejű értesítése mellett felvilágosítást kérhet a jelentkezőtől a részvételi jelentkezéssel kapcsolatos nem egyértelmű kijelentések, nyilatkozatok, igazolások tartalmának tisztázása érdekében. Ez azonban nem eredményezheti a részvételi jelentkezés módosítását.

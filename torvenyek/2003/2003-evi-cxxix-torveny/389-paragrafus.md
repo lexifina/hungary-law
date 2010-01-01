@@ -1,0 +1,1 @@
+389. § A minősített ajánlattevő köteles a Tanácsnak bejelenteni, ha a minősítési szempontok szerinti adataiban, körülményeiben változás állt be a változást követően haladéktalanul, de legkésőbb a változástól számított öt munkanapon belül. Ha a változás következtében a minősített ajánlattevő nem felel meg a minősítési szempontoknak, a Tanács törli a hivatalos jegyzékből.

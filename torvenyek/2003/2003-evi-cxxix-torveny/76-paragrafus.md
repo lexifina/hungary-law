@@ -1,0 +1,3 @@
+76. § (1) Az ajánlatkérő az ajánlattételi határidő lejártáig módosíthatja az ajánlati felhívásban, illetőleg a dokumentációban meghatározott feltételeket. A módosított feltételekről e határidő lejárta előtt új hirdetményt kell közzétenni, amelyben új ajánlattételi határidőt kell megállapítani. A határidő ebben az esetben sem lehet a 74. § (1)–(4) bekezdésében foglaltaknál rövidebb.
+
+(2) Az ajánlatkérő az ajánlati felhívást az ajánlattételi határidő lejártáig visszavonhatja, amiről e határidő lejárta előtt hirdetményt kell feladni közzététel céljából, és egyidejűleg az ajánlattevőket írásban kell tájékoztatni.

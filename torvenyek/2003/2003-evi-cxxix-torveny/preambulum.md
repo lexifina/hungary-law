@@ -1,0 +1,1 @@
+Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának és széles körű nyilvános ellenőrizhetőségének megteremtése, továbbá a közbeszerzések során a verseny tisztaságának biztosítása érdekében – összhangban a közbeszerzések terén nemzetközi szerződéseinkkel és az Európai Közösség jogszabályaival – a következő törvényt alkotja:

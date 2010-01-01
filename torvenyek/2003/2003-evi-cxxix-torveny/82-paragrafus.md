@@ -1,0 +1,1 @@
+82. § Az ajánlatkérő köteles az ajánlatokat elbírálni, kivéve, ha a közbeszerzés megkezdését követően – általa előre nem látható és elháríthatatlan ok következtében – beállott lényeges körülmény miatt a szerződés megkötésére, illetőleg a szerződés megkötése esetén a teljesítésre nem lenne képes. Ebben az esetben az ajánlatkérőnek az eljárást eredménytelenné kell nyilvánítania.

@@ -1,0 +1,5 @@
+164. § A 163. § (1) bekezdésének a) pontjában meghatározott tevékenységek körében kivételt képez a 162. § (1) bekezdésének b) pontja vagy (2) bekezdése szerinti ajánlatkérő által működtetett hálózat ivóvízzel, villamos energiával, gázzal vagy hőenergiával történő ellátása abban az esetben, ha
+
+a) ivóvíz vagy villamos energia esetén az érintett szervezet a 163. § (1) bekezdésétől eltérő tevékenysége keretében való felhasználás céljából állít elő ivóvizet vagy villamos energiát, valamint a hálózat ellátása kizárólag saját felhasználásától függ, és nem haladta meg az általa előállított ivóvíz vagy villamos energia teljes mennyiségének harminc százalékát, figyelembe véve a tárgyévet is magában foglaló megelőző három év átlagát;
+
+b) gáz vagy hőenergia esetén az érintett szervezet a 163. § (1) bekezdésétől eltérő tevékenysége folytatásának elkerülhetetlen következménye a gáz vagy a hőenergia termelése, valamint a hálózat ellátása kizárólag az ilyen termelés hasznosítására irányul, és nem haladta meg az érintett szervezet forgalmának húsz százalékát, figyelembe véve a tárgyévet is magában foglaló megelőző három év átlagát.

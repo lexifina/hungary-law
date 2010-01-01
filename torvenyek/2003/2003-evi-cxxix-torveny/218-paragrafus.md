@@ -1,0 +1,1 @@
+218. § Ha az ajánlatkérő módosítja az előminősítési rendszer működtetésére vonatkozó szabályokat, illetőleg az előminősítési szempontokat és igazolási módjait, köteles új előminősítési hirdetményt közzétenni, valamint a már listára vett előminősített jelentkezőket és az előminősítési kérelmet benyújtókat egyidejűleg, közvetlenül, írásban tájékoztatni.

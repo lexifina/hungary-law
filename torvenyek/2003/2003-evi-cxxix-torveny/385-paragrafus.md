@@ -1,0 +1,3 @@
+385. § (1) A Tanácsnak a névjegyzékbe történő bejegyzés iránti kérelmet vagy a megújítási kérelmet elutasító, valamint a törlésről hozott határozata ellen fellebbezésnek helye nincs, de a kérelmező, illetőleg az érintett hivatalos közbeszerzési tanácsadó a határozat felülvizsgálatát kérheti a bíróságtól a határozat kézhezvételétől számított tizenöt napon belül.
+
+(2) A kérelemről a Fővárosi Bíróság nemperes eljárásban a kérelem benyújtásától számított hatvan napon belül határoz. A bíróság a Tanács határozatát megváltoztathatja. A végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, amennyiben e törvényből, illetőleg a nemperes eljárás jellegéből más nem következik.

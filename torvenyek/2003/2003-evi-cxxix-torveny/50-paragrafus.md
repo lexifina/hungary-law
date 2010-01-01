@@ -1,0 +1,5 @@
+50. § (1) Az ajánlati felhívásban az ajánlatkérő köteles megadni a közbeszerzés tárgyát, illetőleg mennyiségét.
+
+(2) A közbeszerzés mennyiségét úgy is meg lehet határozni, hogy az ajánlatkérő a legalacsonyabb vagy a legmagasabb mennyiséget vagy értéket közli, és kiköti az ettől való eltérés lehetőségét, előírva az eltérés százalékos mértékét.
+
+(3) A 22. § (1) bekezdésének a), b) és d) pontja szerinti ajánlatkérő köteles megvizsgálni beszerzését abból a szempontból, hogy a beszerzés tárgyának jellege lehetővé teszi-e a közbeszerzés egy részére történő ajánlattétel biztosítását. Amennyiben a beszerzés tárgyának természetéből adódóan részajánlattételi lehetőség biztosítható és az nem ellentétes a gazdasági ésszerűséggel, a 22. § (1) bekezdésének a), b) és d) pontja szerinti ajánlatkérő az ajánlati felhívásban köteles lehetővé tenni a közbeszerzés egy részére történő ajánlattételt. Ebben az esetben az ajánlati felhívásban elő kell írni, hogy a közbeszerzés tárgyának mely elemeire lehet részajánlatot tenni.

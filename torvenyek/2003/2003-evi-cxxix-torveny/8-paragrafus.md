@@ -1,0 +1,7 @@
+## Az ajánlatkérő nevében eljáró és az eljárásba bevont személyekkel, szervezetekkel kapcsolatos szabályok
+
+8. § (1) A közbeszerzési eljárás előkészítése, a felhívás és a dokumentáció elkészítése, az ajánlatok értékelése során és az eljárás más szakaszában az ajánlatkérő nevében eljáró, illetőleg az eljárásba bevont személyeknek, illetőleg szervezeteknek megfelelő – a közbeszerzés tárgya szerinti, közbeszerzési, jogi és pénzügyi – szakértelemmel kell rendelkezniük.
+
+(2) Az ajánlatkérő nevében eljáró, illetőleg az eljárásba bevont szervezet akkor felel meg az (1) bekezdés szerinti követelménynek, ha a tevékenységében személyesen közreműködő tagjai, munkavállalói, illetőleg a szervezettel kötött tartós polgári jogi szerződés alapján a szervezet javára tevékenykedők között legalább egy olyan személy van, aki megfelelő szakértelemmel rendelkezik.
+
+(3) Az ajánlatkérő az ajánlatok elbírálására legalább háromtagú bírálóbizottságot köteles létrehozni, amely írásbeli szakvéleményt és döntési javaslatot készít az ajánlatkérő nevében a közbeszerzési eljárást lezáró döntést meghozó személy vagy testület részére. A bírálóbizottsági munkáról jegyzőkönyvet kell készíteni, amelynek részét képezik a tagok indokolással ellátott bírálati lapjai.

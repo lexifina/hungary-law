@@ -1,0 +1,7 @@
+## Az alkalmazandó szabályok
+
+265. §
+
+30. CÍM
+
+A SZOLGÁLTATÁSI KONCESSZIÓVAL KAPCSOLATOS KÜLÖNÖS SZABÁLYOK
