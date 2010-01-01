@@ -1,0 +1,1 @@
+A Kormány az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdésének a) és s) pontjában, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 90. § (5) bekezdés d) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében a következő rendeletet alkotja:

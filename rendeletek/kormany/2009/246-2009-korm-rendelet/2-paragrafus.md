@@ -1,0 +1,3 @@
+## 1. § A földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R.) az I. Fejezetet megelőzően a következő 6. §-sal egészül ki:
+
+## „6. § A Kormány építésügyi hatóságként az épített környezet alakításáról és védelméről szóló törvény szerinti telekalakítási eljárásokban – a műemléki védettség alatt álló, valamint a honvédelmi és katonai célú ingatlanok kivételével – első fokon a körzeti földhivatalt, másodfokon a megyei földhivatalt jelöli ki.”
