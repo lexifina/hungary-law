@@ -1,0 +1,3 @@
+## 4. § Az R3. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az igényjogosultak részére az alapellátási egyenruházati ellátmány és a ruházati utánpótlási ellátmány folyósítását az igényjogosult szolgálati helye szerint illetékes gazdálkodó szerv anyagi szakszolgálata végzi. Az önálló szervek csak a saját állományukba tartozó vagy az ellátás tekintetében hatáskörükbe tartozó igényjogosultak részére adhatnak ruházati ellátást, illetve alapellátási egyenruházati és ruházati utánpótlási ellátmányt. A tábornoki állomány tagjának ruházati ellátását a szolgálati hely szerinti szerv végzi.”

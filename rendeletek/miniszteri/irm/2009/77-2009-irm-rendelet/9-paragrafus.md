@@ -1,0 +1,1 @@
+## „b) a Budapesti Rendőr-főkapitányságról, a Fővárosi Büntetés-végrehajtási Intézetből, a Budapesti Fegyház és Börtönből, az Igazságügyi Megfigyelő és Elmegyógyító Intézetből, illetve az 1/A. §-ára figyelemmel a támogatás engedélyezésekor fennálló szolgálati helyről saját kérésére más szolgálati helyre áthelyezésre kerül;”
