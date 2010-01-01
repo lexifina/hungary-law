@@ -1,0 +1,1 @@
+34/B. § A köztisztviselőt soron kívül minősíteni kell, ha a 34. § (4) bekezdése szerinti teljesítményértékelés alapján megállapítható, hogy a köztisztviselő a teljesítménykövetelményeket nem vagy nagyon csekély mértékben, illetve nagyon alacsony színvonalon teljesítette.

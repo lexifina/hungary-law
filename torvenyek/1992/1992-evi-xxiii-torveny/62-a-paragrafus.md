@@ -1,0 +1,1 @@
+62/A. § A tartalékállományba helyezett köztisztviselőknek az 5. számú melléklet szerinti adatairól, valamint az üres álláshelyekről és azok betöltéséről a közigazgatási szerv folyamatos adatszolgáltatást végez a Kormány által meghatározott rendben a 61. § (7) bekezdésben meghatározott rendszer útján a központi közszolgálati nyilvántartás részére.

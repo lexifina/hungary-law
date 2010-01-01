@@ -1,0 +1,9 @@
+77. § (1) Ha e törvény hatálybalépését követően jogszabály által meghatározott fontos és bizalmas munkakörben foglalkoztatott köztisztviselő nem felel meg az állami élet és a nemzetgazdaság jogszerű működéséhez szükséges biztonsági feltételeknek, a hivatali szervezet vezetője kezdeményezi a köztisztviselő – vezető esetében a vezetői megbízás, kinevezés visszavonásával együtt – képzettségének és iskolai végzettségének megfelelő enyhébb megítélésű fontos és bizalmas munkakörbe vagy fontos és bizalmasnak nem minősülő munkakörbe történő áthelyezését.
+
+(2) Ha a köztisztviselő az áthelyezést nem fogadja el, a hivatali szervezet vezetője kezdeményezi a közszolgálati jogviszony megszüntetését közös megegyezéssel. Ha a köztisztviselő ehhez nem járul hozzá, a közszolgálati jogviszonyt az 1995. évi CXXV. törvény (a továbbiakban: Nbt.) 72. §-ának (2) bekezdésében meghatározott tájékoztatás időpontjával azonnali hatállyal meg kell szüntetni.
+
+(3) Ha a köztisztviselő úgy nyilatkozik, hogy a fontos és bizalmas munkakörrel együttjáró kötelezettségeknek nem kívánja magát alávetni, úgy kell tekinteni, mint aki a biztonsági feltételeknek nem felel meg, s közszolgálati jogviszonya a törvény erejénél fogva megszűnik.
+
+(4) Ha a hivatali szervezet vezetője a nemzetbiztonsági szolgálattól kapott tájékoztatás alapján úgy dönt, hogy a fontos és bizalmas munkakörben foglalkoztatott köztisztviselő nem felel meg az állami élet és a nemzetgazdaság jogszerű működéséhez szükséges biztonsági feltételeknek, de a köztisztviselő az Nbt. 72. §-ának (3) bekezdése alapján panasszal él a biztonsági szakvéleményben szereplő megállapításokkal kapcsolatban, a tájékoztatás időpontjától kezdődően a panasz elbírálásáig a köztisztviselőt a munkavégzés alól fel kell menteni. A felmentés idejére a köztisztviselő illetményre jogosult.
+
+(5) Az Nbt. 72. §-ának (1) bekezdésében meghatározott szakvéleményről szóló tájékoztatást a titkos ügykezelés szabályai szerint kell kezelni.

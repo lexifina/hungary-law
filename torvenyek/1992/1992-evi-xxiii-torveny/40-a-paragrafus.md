@@ -1,0 +1,1 @@
+40/A. § Ha a napi munkaidő a hat órát meghaladja, a köztisztviselő részére a munkaidőn belül – a munkavégzés megszakításával – napi 30 perc, valamint minden további három óra munkavégzés után a köztisztviselő részére legalább húsz perc munkaközi szünetet kell biztosítani.

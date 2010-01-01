@@ -1,0 +1,1 @@
+55. § A fegyelmi eljárás lefolytatásával összefüggő költségeket a közigazgatási szerv viseli. Ha azonban a köztisztviselő fegyelmi felelősségét jogerősen megállapították, a köztisztviselő köteles megtéríteni az általa indítványozott eljárási cselekmények, illetve a részéről igénybe vett jogi képviselő költségeit.

@@ -1,0 +1,5 @@
+49/L. § (1) A nyugállományú köztisztviselők szociális gondozásának, illetve szakmai tapasztalata hasznosításának elősegítésére, a velük való kapcsolattartás biztosítására a munkáltató nyugdíjas bizottságot hozhat létre, illetve támogathatja az e célokat szolgáló egyesületek létrehozását. A rendkívüli feladatok végrehajtása során, így különösen választás, népszámlálás, egyéb statisztikai felmérések keretében elsősorban az életpályájukat a közszolgálatban letöltő, tapasztalt nyugdíjas köztisztviselőket előnyben kell részesíteni. A nyugdíjas bizottság javaslatot tehet nyugdíjas köztisztviselő elismerésére a Köztisztviselők Napja alkalmából.
+
+(2) A központi államigazgatási szerv vezetője legalább kétévente áttekinti, értékeli az (1) bekezdésben, valamint a 49/J–49/K. §-okban meghatározott rendelkezések érvényesülését, és szükség esetén a nyugdíjas köztisztviselők helyzetét javító intézkedést hoz. Az értékelés megvitatására a nyugdíjas bizottság képviselőjét is meg kell hívni.
+
+(3) Ha nyugdíjas bizottságot nem hoznak létre, a nyugdíjas köztisztviselők ügyeinek intézésével referens bízható meg.
