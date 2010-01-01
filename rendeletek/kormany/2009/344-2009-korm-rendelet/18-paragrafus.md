@@ -1,0 +1,3 @@
+## 17. § A Kr. 29. §-a helyébe a következő rendelkezés lép:
+
+## „29. § A Kormány a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 4. § (1) bekezdésében, 21/B. § (5) bekezdés c) pontjában és (7)–(8) bekezdésében, valamint 22–25. §-ában foglalt eljárásokban – annak elbírálása kérdésében, hogy a géntechnológiai, illetve a géntechnológiával módosított növény termesztése iránti tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – a természetvédelmi jogkörében eljáró minisztert szakhatóságként jelöli ki.”

@@ -1,0 +1,1 @@
+## „(2) Az OKTVF jár el a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény (a továbbiakban: Hgt.) 8. § (4) bekezdésében, 11. § (2) és (3) bekezdésében, a 17. § (1) bekezdés d) pontjában, 17. § (2) bekezdésében, 32. § (7) bekezdésében foglalt környezetvédelmi hatóságként.”
