@@ -1,0 +1,1 @@
+A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 10. alpontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésében foglalt feladatkörében a következőket rendeli el:
