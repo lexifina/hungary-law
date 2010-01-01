@@ -1,0 +1,1 @@
+## 23. § Amennyiben a bíró a különleges eszköz alkalmazása iránti kérelmet elutasítja, de olyan új tény merül fel, amely a különleges eszköz alkalmazását szükségessé teszi, újabb kérelem terjeszthető elő.
