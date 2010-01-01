@@ -1,0 +1,1 @@
+## „(4) Az ügyfél azonosító számot az adózó vagy képviselője elektronikus űrlapon a KR-en keresztül vagy levélben igényli az adóhatóságtól. Ügyfél azonosító szám igénylése esetén az adóhatóság a véletlenszerűen képzett ügyfél azonosító számról és annak alkalmazhatósági időtartamáról a kérelemnek megfelelő úton értesíti az adózót vagy képviselőjét.”
