@@ -1,0 +1,1 @@
+133. § A szolgáltató az előfizető (vagy elhalálozás esetén az örökös) kérésére csak az általános szerződési feltételekben foglaltak szerint módosíthatja az egyedi előfizetői szerződést, ha az előfizető személyében szerződés, öröklés vagy egyéb jogcímen történő jogutódlás következtében változás következik be (átírás).

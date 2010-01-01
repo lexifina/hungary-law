@@ -1,0 +1,1 @@
+180. § Azok a 84. § (1) bekezdésének megfelelő engedélyek, amelyeket a törvény hatálybalépése előtt megkötött koncessziós szerződés alapján határozott időre adtak ki, a koncessziós szerződés hatályának időtartama alatt hatályban maradnak.

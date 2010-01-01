@@ -1,0 +1,1 @@
+98. § Az elektronikus hírközlési építmény építtetője jogosult a folyóvíz, csatorna, természetes tavak és azok medrének, valamint az ország területe feletti légtérnek elektronikus hírközlési célú igénybevételére.

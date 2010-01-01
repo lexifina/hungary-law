@@ -1,0 +1,1 @@
+7. § A nem polgári célú frekvenciagazdálkodási feladatokat – amennyiben e törvény másként nem rendelkezik – a miniszterrel egyetértésben a nem polgári célú frekvenciagazdálkodási feladatokat ellátó miniszter látja el.

@@ -1,0 +1,11 @@
+## Árprés alkalmazásának tilalma
+
+116. § (1) Az érintett piacok valamelyikén jelentős piaci erővel rendelkező szolgáltató az e piacon nyújtott hálózati szolgáltatás ellenértékét úgy köteles kialakítani, hogy – a ráépülő előfizetői szolgáltatások árát figyelembe véve – az ne okozzon árprést.
+
+(2) A referenciaajánlat közzétételére köteles szolgáltató a ráépülő előfizetői szolgáltatás díjának általa vagy az általa irányított, őt irányító vagy a vele közös irányítás alatt álló vállalkozás által végrehajtott csökkentésével egyidejűleg köteles a referenciaajánlatában meghatározott árakat az (1) bekezdésben foglaltak érvényesülésének érdekében megfelelően csökkenteni, és ezt a hatóságnak bejelenteni, illetve a nyilvánosság számára – a referenciaajánlatokkal azonos módon – hozzáférhetővé tenni.
+
+(3) Nem kell alkalmazni a (2) bekezdésben foglaltakat, amennyiben a díjcsökkentés a díjcsökkentéssel érintett ráépülő előfizetői szolgáltatás előfizetőinek legfeljebb 10%-át érintheti, vagy a díjcsökkentés hatása a jelentős piaci erővel rendelkező szolgáltató vagy az általa irányított, őt irányító, vagy a vele közös irányítás alatt álló vállalkozás csökkentett díjakkal számított, a díjcsökkentéssel érintett ráépülő előfizetői szolgáltatás előző üzleti évi volumenével súlyozott nettó árbevétele a díjcsökkentéssel érintett ráépülő előfizetői szolgáltatás nyújtásából származó előző üzleti évi nettó árbevételétől az utóbbi 5%-át meg nem haladó mértékben tér el.
+
+(4) A (2) bekezdés szerinti ráépülő előfizetői szolgáltatás díjának csökkentése esetén a referenciaajánlat közzétételére köteles szolgáltató a díjcsökkentés meghirdetésével egyidejűleg köteles a hatóságnak a díjcsökkentést a várható hatásainak részletes bemutatásával, illetve az ezt alátámasztó adatok megküldésével a referenciaajánlatban szereplő díjaknak a (3) bekezdésben foglaltaknak való megfelelősége ellenőrzése céljából bejelenteni.
+
+(5) A hálózati szolgáltatás ellenértékének megállapításakor a szolgáltatás nyújtásával összefüggésben felmerült költségek fedezete kizárólag annyiban vehető figyelembe, amennyiben az nem haladja meg a hatékony szolgáltatónak az adott szolgáltatás nyújtásához szükséges befektetése méltányos megtérülése iránti igényét és a befektetéssel vállalt kockázatát.

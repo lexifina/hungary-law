@@ -1,0 +1,1 @@
+101. § A hatóság a 106. § szerinti kötelezettségek előírása során megállapíthat olyan mind a kötelezett, mind a jogosult szolgáltatók számára kötelező műszaki és üzemeltetési feltételeket, amelyek a hálózat egysége miatt szükségesek.

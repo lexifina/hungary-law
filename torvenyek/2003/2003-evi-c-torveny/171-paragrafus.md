@@ -1,0 +1,1 @@
+171. § A 168. § (1) bekezdésében meghatározott időpontig az e törvény hatálybalépésekor jelentős piaci erővel rendelkező szolgáltatók kötelezettségeiket a 103. §, a 107. §, a 110. § és a 112–115. §-ok figyelembevételével kötelesek teljesíteni.

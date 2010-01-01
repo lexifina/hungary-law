@@ -1,0 +1,1 @@
+81. § Nagyfrekvenciás berendezést, valamint villamos vagy elektronikus berendezést úgy kell előállítani, hogy az általa okozott elektromágneses zavarás ne haladja meg azt a szintet, amely az elektronikus hírközlő berendezések és más villamos vagy elektronikus berendezések üzemszerű működését akadályozza.

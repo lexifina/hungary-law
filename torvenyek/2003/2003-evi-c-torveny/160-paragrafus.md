@@ -1,0 +1,17 @@
+## Az előfizetői listák, az előfizetői névjegyzékek, címtárak
+
+160. § (1) A szolgáltató előfizetői listában tartja nyilván az előfizető azonosításához és az általa igénybe vett szolgáltatáshoz szükséges azon adatokat, amelynek a szolgáltató általi adatkezelését e törvény vagy külön jogszabály lehetővé teszi.
+
+(2) A szolgáltató valamennyi helyhez kötött telefonszolgáltatást igénybe vevő előfizetőjéről évente nyomtatott (telefonkönyv) vagy elektronikus formában előfizetői névjegyzéket köteles készíteni. Az elektronikus hírközlési szolgáltató vagy más információs szolgáltató létrehozhat címtárakat, amelyben az előfizetőkre vonatkozó adatok meghatározott csoportosításban szerepelnek.
+
+(3) Az előfizetői névjegyzékek vagy címtárak az előfizető önkéntes és egyértelmű hozzájárulása nélkül csak annyi adatot tartalmazhatnak róla, amennyi azonosításához feltétlenül szükséges.
+
+(4) Az előfizető számára külön költség nélkül biztosítani kell azt a jogot, hogy kérésére:
+
+a) kimaradjon a nyomtatott vagy elektronikus névjegyzékből;
+
+b) az előfizetői névjegyzékben feltüntessék, hogy személyes adatai nem használhatóak fel közvetlen üzletszerzés, tájékoztatás, közvélemény- vagy piackutatás céljára;
+
+c) lakcímét csak részben tüntessék fel az előfizetői névjegyzékben.
+
+(5) A 117. § d) pontja szerinti előfizetői névjegyzéket az előfizető – jogszabályban meghatározott feltételek mellett – térítésmentesen veheti át.
