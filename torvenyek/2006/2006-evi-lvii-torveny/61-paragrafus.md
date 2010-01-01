@@ -1,0 +1,1 @@
+61. § Ha a szakállamtitkár az összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a miniszterelnök a miniszter javaslatára az indítvány kézhezvételétől számított harminc napon belül dönt az összeférhetetlenség kérdésében.

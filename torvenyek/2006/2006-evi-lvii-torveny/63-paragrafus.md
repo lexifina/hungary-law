@@ -1,0 +1,1 @@
+63. § Ha a szakállamtitkár megbízatása a Kormány megbízatásának megszűnésével szűnt meg, az 58. § b)–f) pontjaiban meghatározott feltétel bekövetkeztéig, illetve az adott szerv új szakállamtitkárainak kinevezéséig gyakorolja hatáskörét.
