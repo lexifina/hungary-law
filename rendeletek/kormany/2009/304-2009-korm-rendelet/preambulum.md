@@ -1,0 +1,1 @@
+A közúti közlekedési nyilvántartásról szóló 1999. LXXXIV. törvény 41/A. § b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
