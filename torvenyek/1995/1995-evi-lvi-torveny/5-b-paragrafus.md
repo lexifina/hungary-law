@@ -1,0 +1,1 @@
+5/B. § Külön jogszabályban meghatározott feltételekkel és mértékig visszaigényelheti a terméket terhelő termékdíjat a vámhatóságtól az a kötelezett vagy az a másodlagos kötelezett, aki a termékdíjköteles termék gyártásához közvetlen anyagként termékdíjköteles terméket (alapanyagot) használt fel.
