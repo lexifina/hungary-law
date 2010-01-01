@@ -1,0 +1,1 @@
+## 7. § Az egyenruházati termékeknek és felszerelési cikkeknek, vagy ezek utánzatának polgári személy, valamint nem e rendelet hatálya alá tartozó szervezet vagy oktatási intézmény általi felhasználását az országos rendőrfőkapitány, a Rendőrtiszti Főiskola formaruházata tekintetében a főiskola rektora engedélyezheti.

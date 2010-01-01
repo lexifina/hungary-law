@@ -1,0 +1,27 @@
+## 22. § Az igényjogosult előléptetésével kapcsolatos átszerelési költség az igényjogosultat terheli, amit az igényjogosult szolgálati helye szerinti illetékes ruházati szakszolgálat – az állományilletékes parancsnok jóváhagyásával – átvállalhat, kivéve, ha az igényjogosult előléptetésére a rendfokozatban történő visszavetését követően került sor.
+
+## Az utánpótlás átmeneti szüneteltetésének szabályai
+
+23. § (1)[^25] Illetmény nélküli szabadságon lévő személy, valamint a gyermekgondozási díjban, illetve gyermekgondozási segélyben (a továbbiakban: gyes) részesülők – a gyes melletti újbóli munkába állást kivéve – ruházati utánpótlási ellátmányt a távollétük egész időtartamára nem kaphatnak. A távollét időtartamát – összevontan – egész hónapokban kell számítani, a töredék hónap nem vehető figyelembe. A részükre előre kifizetett ruházati utánpótlási ellátmánynak azon részét, amelyre vonatkozóan a jogosultság nem áll fenn, túlellátásként kell előjegyezni, és a következő évi ruházati utánpótlási ellátmányból le kell vonni, illetve leszerelés esetén vissza kell téríttetni.
+
+(2)[^26] A szolgálati beosztásukból felfüggesztettek, továbbá az előzetes letartóztatásba helyezettek és a katonai fogdában letöltendő szabadságvesztésre ítéltek részére – függetlenül annak időtartamától – esedékessé váló ruházati utánpótlási ellátmányt vissza kell tartani.
+
+(3) Ha a szolgálati beosztásból történő felfüggesztésre okot adó fegyelmi, illetve büntetőeljárásban jogerősen olyan döntést hoztak, amely alapján az igényjogosult szolgálati jogviszonyát meg kell szüntetni, vagy ha a szolgálati beosztásból történő felfüggesztésre okot adó fegyelmi, illetve büntetőeljárásban érintett igényjogosult szolgálati jogviszonya a fegyelmi, illetve büntetőeljárás jogerős befejezését megelőzően egyéb okból szűnik meg, az igényjogosultnak a fegyelmi, illetve büntetőeljárás megindításának első naptári hónapjának utolsó napjától visszamenőleges hatállyal kell elszámolnia a 25. §-ban meghatározottak szerint.
+
+(4)[^27] Ha az igényjogosult a szolgálati beosztásból történő felfüggesztésére okot adó fegyelmi, illetve büntetőeljárás jogerős befejezését követően továbbra is szolgálati viszonyban marad, úgy visszamenőlegesen ki kell adni, vagy ki kell fizetni részére a visszatartott és esedékessé vált ruházati utánpótlási ellátmányt.
+
+(5) Nem szünetel az ellátás azon igényjogosult részére:
+
+a) akit állományviszonya fenntartása mellett a Hszt. 43. §-ában és 248. §-ában meghatározottak szerint más szervhez vezényeltek vagy berendeltek,
+
+b) akit a Rendőrtiszti Főiskolára – kettős jogállású hallgatóként – vezényeltek,
+
+c) aki szülési szabadságát tölti, valamint
+
+d) aki betegállományban van.
+
+(6) Az igényjogosult a Hszt. 43. §-a alapján más szervhez történő vezénylése esetén az ellátást a Rendőrség és a vezénylés helye szerinti szerv megállapodása alapján kell folyósítani.
+
+[^25]: A 23. § (1) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^26]: A 23. § (2) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^27]: A 23. § (4) bekezdése a 77/2009. (XII. 28.) IRM rendelet 11. § (4) bekezdése szerint módosított szöveg.
