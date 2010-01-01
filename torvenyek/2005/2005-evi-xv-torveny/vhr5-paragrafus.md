@@ -1,0 +1,11 @@
+Vhr. 5. § (1) A kibocsátási egységek kiosztásának elveit, kiválasztásuk indokaival együtt a miniszter – a gazdasági és közlekedési miniszterrel egyetértésben – a kereskedési időszak kezdetét megelőző második év február 28-ig közleményben teszi közzé a minisztérium hivatalos lapjában, valamint honlapján. Ezen közleményben egyúttal a miniszter közzéteszi a 8. § (2) bekezdés, valamint a 11. § (2) bekezdés szerinti nyomtatványokat is.
+
+(2) A miniszter a Kiosztási Terv tervezetét – a gazdasági és közlekedési miniszterrel egyetértésben – a kereskedési időszak kezdetét megelőző második év március 31-ig véleményezés céljából közleményben teszi közzé a minisztérium hivatalos lapjában, valamint honlapján.
+
+(3) A Kiosztási Terv (2) bekezdés szerint közzétett tervezetére a közzétételt követő április 30-ig írásban vagy elektronikus úton bárki észrevételt tehet.
+
+(4) A kereskedési időszak alatt tervezett új beruházások felmérése érdekében a kereskedési időszak kezdetét megelőző harmadik év október 1-jétől a Kiosztási Terv tervezetének közzétételéig a miniszter – a gazdasági és közlekedési miniszterrel együtt – valamennyi érintett ágazat bevonásával konzultációt tart. Az ágazati konzultációk helyét és idejét a miniszter a minisztérium hivatalos lapjában, valamint honlapján teszi közzé.
+
+(5) A (3) bekezdés szerint benyújtott észrevételeket, továbbá a (4) bekezdés szerinti konzultációk eredményeit a miniszter – a gazdasági és közlekedési miniszterrel együtt – mérlegeli a Kiosztási Terv véglegesítése során. A miniszter az észrevételekről, valamint elutasított észrevételek esetében – a nyilvánvalóan alaptalan észrevételek kivételével – az elutasítás indokairól összefoglalót készít, amelyet a Kiosztási Terv tartalmát megállapító, a (6) bekezdés szerint elfogadott kormányhatározattal egyidejűleg a minisztérium honlapján közzétesz. A minisztert egyedi válaszadási kötelezettség nem terheli.
+
+(6) A Kormány a Kiosztási Terv tartalmáról, valamint annak az Európai Bizottság (a továbbiakban: Bizottság) és az Európai Gazdasági Térség tagállamai részére történő megküldéséről a kereskedési időszak kezdetét megelőző második év június 30-ig határozatban rendelkezik. A Kiosztási Terv továbbításáról a miniszter gondoskodik. A kormányhatározatot a miniszter a minisztérium honlapján közzéteszi.

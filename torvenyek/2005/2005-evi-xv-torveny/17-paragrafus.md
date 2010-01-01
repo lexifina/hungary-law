@@ -1,0 +1,3 @@
+## Jogkövetkezmények
+
+Üht. 17. § (1) Amennyiben az üzemeltető a kibocsátási engedély megszerzésére, a változások bejelentésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, valamint a kibocsátási egység visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság az üzemeltetőt külön jogszabályban meghatározott mértékű bírság megfizetésére kötelezi. Ismételt kötelezettségszegés esetén a környezetvédelmi hatóság – a kötelezettségszegés súlyára figyelemmel – a tevékenységet korlátozza, felfüggeszti vagy a kibocsátási engedélyt visszavonja.
