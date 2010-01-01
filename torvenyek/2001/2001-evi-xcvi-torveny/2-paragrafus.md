@@ -1,0 +1,3 @@
+2. § (1) Az üzlet feliratain az üzlet elnevezését – a vállalkozás neve, a vezérszó és az üzletben forgalmazott árura utaló árujelző kivételével –, valamint az üzletben, illetőleg az üzlet kirakatában a fogyasztók tájékoztatását szolgáló közleményeket magyar nyelven meg kell jeleníteni.
+
+(2) Az (1) bekezdésben meghatározott követelmény teljesíthető úgy is, hogy ugyanazon feliraton az idegen nyelvű szövegen (szövegrészen) kívül annak magyar nyelvű megfelelőjét is megjelenítik, legalább ugyanolyan jól érzékelhetően, valamint legalább ugyanolyan méretben, mint az idegen nyelvű szöveget (szövegrészt).
