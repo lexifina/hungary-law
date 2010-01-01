@@ -1,0 +1,3 @@
+6. § (1) A Hszt. 183. §-ának (2) bekezdése szerinti korlátozásoknak megfelelően, a nyugdíjalap megállapításánál az e rendelet 5. §-a szerinti illetmény és illetmény jellegű juttatások közül csak azokat lehet figyelembe venni, amelyekből a járulékfizetés – törvényben szabályozott – felső határának figyelembevételével nyugdíjjárulékot vontak, és azokat is csak a társadalombiztosítási jogszabályok szerinti degresszív (sávosan csökkenő) mértékben.
+
+(2) A szolgálati nyugdíj megállapítására és annak részbeni vagy teljes összegű folyósítására jogosult személy az ellátásra a szolgálati viszony megszüntetését követő naptól, a Hszt. 192. §-ának (1) bekezdése szerinti kéthavi ellátás figyelembevételével jogosult.
