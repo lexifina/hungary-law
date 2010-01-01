@@ -1,0 +1,1 @@
+## „(5) A hatósági jelzés(eke)t [rendszámtábla(áka)t] a járművön a felszerelésére kijelölt helyen, jól olvasható állapotban kell tartani, azt megváltoztatni, letakarni vagy jogosulatlanul eltávolítani tilos.”

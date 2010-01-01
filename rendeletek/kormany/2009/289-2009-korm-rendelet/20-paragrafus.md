@@ -1,0 +1,1 @@
+## „(9) A járdán a mozgáskorlátozott személy (illetőleg az őt szállító jármű vezetője) járművével, a betegszállító gépjármű, a kerékpár, a kétkerekű segédmotoros kerékpár és a kétkerekű motorkerékpár a (8) bekezdésben említett egyéb feltételek fennállása esetén akkor is megállhat, ha a megállást jelzőtábla vagy útburkolati jel nem engedi meg.”

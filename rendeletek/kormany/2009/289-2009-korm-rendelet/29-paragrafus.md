@@ -1,0 +1,1 @@
+## „y) Iskolabusz: kizárólag gyermekek, tanulók, felnőtt kísérő melletti szállítására rendszeresített és a 48. § (12) bekezdésében meghatározott feltételeknek megfelelő autóbusz, amely a közoktatási intézmény munkarendjéhez igazodóan közlekedik.”
