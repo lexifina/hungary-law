@@ -1,0 +1,3 @@
+## „c) a C02, C03, C07, C08, C09 csoportban a moxonidin, rilmenidin, prazosin, doxazosin, clopamid, indapamid, furosemid, spironolacton, hidroklorotiazid és kálium kímélő szerek kombinációi, metoprolol, betaxolol, bisoprolol, nebivolol, carvedilol, amlodipin, nifedipin, verapamil, enalapril, lisinopril, perindopril, ramipril, fosinopril, enalapril és diuretikumok, perindopril és vizelethajtók, ramipril és vizelethajtók, quinapril és vizelethajtók, fosinopril és vizelethatjók, ace gátlók és kalcium-csatorna blokkolók kombibációja (C09BB), losartan, valsartan, losartan és vizelethajtók, valsartan és vizelethajtók, irbesartan és vizelethajtók, valsartan és amlodipin,”
+
+## [hatóanyagot tartalmazó készítmények rendelése esetén kerül sor az értékelésre.]
