@@ -1,0 +1,3 @@
+15. § Az Flt. 43/D. §-ának helyébe a következő rendelkezés lép:
+
+„43/D. § A rendszeres szociális segély átalakításával összefüggő, a Társadalmi Megújulás Operatív Program keretében az állami foglalkoztatási szervek közreműködésével megvalósuló programot a Munkaerőpiaci Alap, mint a központi program kedvezményezettje előfinanszírozhatja, illetve az uniós források terhére finanszírozhatja. Az Európai Unió felé elszámolt, de az Európai Unió által meg nem térített összegek közötti különbözet a Munkaerőpiaci Alapot terheli.”
