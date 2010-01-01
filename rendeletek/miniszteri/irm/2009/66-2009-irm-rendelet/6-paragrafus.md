@@ -1,0 +1,1 @@
+## 5. § Akinek az igazolványát ellopták, megsemmisült vagy elvesztette, köteles azt haladéktalanul, de legkésőbb a bejelentés alapjául szolgáló eseménytől számított három munkanapon belül a körzetközponti jegyzőnél bejelenteni.

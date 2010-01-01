@@ -1,0 +1,1 @@
+## 6. § Amennyiben az egyéni vállalkozó elvesztettnek vélt igazolványát megtalálta és bejelentése alapján részére új vállalkozói igazolvány került kiállításra, a régi és utóbb megtalált vállalkozói igazolványát köteles leadni vagy postán megküldeni a körzetközponti jegyzőnek, aki az így megküldött okmányt bevonja.
