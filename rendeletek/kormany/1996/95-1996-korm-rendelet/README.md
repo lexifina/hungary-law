@@ -1,0 +1,9 @@
+# 95/1996. (VII. 4.) Korm. rendelet
+
+a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény végrehajtásának egyes kérdéseiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-95-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 1996-95-20-22.5 | 95/1996. (VII. 4.) Korm. rendelet |

@@ -1,0 +1,1 @@
+A Kormány a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény (a továbbiakban: Har. törvény) 35. §-ának (2) bekezdésében kapott felhatalmazás alapján a következő rendeletet alkotja:

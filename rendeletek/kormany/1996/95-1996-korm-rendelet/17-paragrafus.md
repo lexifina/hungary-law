@@ -1,0 +1,1 @@
+## 16. § A jegyző az adósságrendezés megindításával egyidejűleg a számlavezető pénzintézethez soron kívül eljuttatja a bírósági végzésben kijelölt pénzügyi gondnok ellenjegyzéséhez szükséges aláírási címpéldányt.
