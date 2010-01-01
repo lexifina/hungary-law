@@ -1,0 +1,9 @@
+# 284/1997. (XII. 23.) Korm. rendelet
+
+térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-284-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 1997-284-20-22.14 | 284/1997. (XII. 23.) Korm. rendelet |
