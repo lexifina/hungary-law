@@ -1,0 +1,1 @@
+A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 287. §-ának e) pontjában kapott felhatalmazás alapján a szerződéses katonák leszerelési segélye, illetőleg toborzópénze megállapításának és kifizetésének rendjét a következők szerint állapítom meg:
