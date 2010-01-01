@@ -1,0 +1,1 @@
+Ptk.580. § Az ajándékozási szerződés teljesítését az ajándékozó megtagadhatja, ha bizonyítja, hogy az ajánlattétel, illetőleg a szerződés megkötése után körülményeiben, különösen a megajándékozotthoz való viszonyában olyan lényeges változás állott be, hogy a szerződés teljesítése tőle többé el nem várható.

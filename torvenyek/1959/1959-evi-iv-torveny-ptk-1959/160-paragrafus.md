@@ -1,0 +1,1 @@
+Ptk.160. § A haszonélvező a haszonélvezet keletkezésekor meglevő elhasználható dolgokkal, gazdasági felszereléssel és állatállománnyal a rendes gazdálkodás által indokolt mértékben rendelkezhet; a haszonélvezet megszűnésekor azonban köteles ezeket pótolni, ha pedig ez nem lehetséges, értéküket megtéríteni.

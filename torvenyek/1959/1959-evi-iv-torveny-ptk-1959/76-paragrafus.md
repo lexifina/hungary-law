@@ -1,0 +1,1 @@
+Ptk.76. § A személyhez fűződő jogok sérelmét jelenti különösen az egyenlő bánásmód követelményének megsértése, a lelkiismereti szabadság sérelme és a személyes szabadság jogellenes korlátozása, a testi épség, az egészség, valamint a becsület és az emberi méltóság megsértése.

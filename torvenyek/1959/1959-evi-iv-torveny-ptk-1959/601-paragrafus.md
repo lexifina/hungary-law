@@ -1,0 +1,5 @@
+Ptk.601. § (1) Törvény alapján nem örökölhet az örökhagyó házastársa, bejegyzett élettársa, ha az öröklés megnyílásakor a házastársak, bejegyzett élettársak között életközösség nem állott fenn, és az eset körülményeiből nyilvánvaló, hogy az életközösség visszaállítására nem volt kilátás.
+
+(2) Az életközösség megszakadása előtt tett végintézkedés alapján nem örökölhet az örökhagyó házastársa vagy bejegyzett élettársa, ha az öröklés megnyílásakor a házastársak vagy a bejegyzett élettársak között életközösség nem állott fenn, kivéve ha a körülményekből az következik, hogy az örökhagyó végintézkedését azért nem vonta vissza, mert házastársát vagy bejegyzett élettársát az életközösség megszakadása ellenére is juttatásban kívánta részesíteni.
+
+(3) Ha a házastársak vagy a bejegyzett élettársak között az öröklés megnyílásakor életközösség nem állott fenn, az örökhagyó házastársának, bejegyzett élettársának az öröklésből való kiesésére csak az hivatkozhat, aki a házastárs, bejegyzett élettárs kiesése folytán maga örökölne, vagy a végintézkedéssel reá rótt kötelezettségtől, illetőleg más tehertől mentesülne.

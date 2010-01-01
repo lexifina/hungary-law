@@ -1,0 +1,1 @@
+Ptk.74/D. § Ha az alapítvány létrehozása végrendeletben történt, arról a bíróságot értesíteni kell; ezt az alapítványt közérdekű meghagyásnak kell tekinteni, amennyiben létrehozása nem felel meg a törvényben meghatározott feltételeknek.

@@ -1,0 +1,3 @@
+Ptk.264. § (1) A jelzálogjog megszűnik akkor is, ha a követelés elévül.
+
+(2) A tulajdonos a megszűnő jelzálogjog ranghelyén és a megszűnés terjedelmében a bejegyzett zálogjog törlésével egyidejűleg, annál nem terhesebb új jelzálogjogot alapíthat, vagy a törölt bejegyzés ranghelyét egy év tartamára fenntarthatja. A tulajdonos erről a jogáról harmadik személlyel vagy a lemondással érintett ranghelyet követő ranghelyen bejegyzett zálogjogosulttal szemben mondhat le. Ilyen esetben a tulajdonos a ranghellyel kapcsolatos jogait csak annak hozzájárulásával gyakorolhatja, akivel szemben arról lemondott.

@@ -1,0 +1,1 @@
+Ptk.12/D. § A törvényes képviselőnek a kiskorú személyét és vagyonát érintő jognyilatkozata megtétele során a korlátozott cselekvőképességű, illetve az ítélőképessége birtokában lévő cselekvőképtelen kiskorú véleményét figyelembe kell vennie.

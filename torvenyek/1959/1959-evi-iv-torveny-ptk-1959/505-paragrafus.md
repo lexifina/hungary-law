@@ -1,0 +1,3 @@
+Ptk.505. § (1) Ha a feladó írásban utasította a fuvarozót arra, hogy a küldeményt a csomagolás hiányossága ellenére vegye át, a csomagolás hiányossága következtében a fuvarozóra vagy más személyre háruló kárt köteles megtéríteni, és viseli a küldeményben keletkezett kárt is. Ha pedig a fuvarozó a csomagolás kívülről észrevehető hiányossága ellenére anélkül vette át a küldeményt, hogy erre a feladó írásban utasította volna, a csomagolás hiányossága következtében a fuvarozóra vagy más személyre háruló kárt, valamint a küldeményben keletkezett kárt fele részben a fuvarozó, fele részben a feladó viseli.
+
+(2) Harmadik személyekkel szemben a fuvarozó köteles helytállni, a feladótól azonban a felelősség általános szabályai szerint megtérítést követelhet.

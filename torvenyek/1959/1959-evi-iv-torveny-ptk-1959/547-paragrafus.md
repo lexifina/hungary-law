@@ -1,0 +1,3 @@
+Ptk.547. § (1) Ha a biztosítási szerződést nem a biztosított, hanem az ő javára harmadik személy köti, a biztosítási esemény bekövetkezéséig, illetőleg a biztosított belépéséig (550. §) a díjfizetési kötelezettség a szerződő felet terheli, a jognyilatkozatokat hozzá kell intézni és ő köteles a megfelelő jognyilatkozatok megtételére.
+
+(2) A közlésre, illetőleg a változás bejelentésére irányuló kötelezettség egyaránt terheli a szerződő felet és a biztosítottat; egyikük sem védekezhet olyan körülmény vagy változás nem tudásával, amelyet bármelyikük elmulasztott a biztosítóval közölni, vagy neki bejelenteni, noha arról tudnia kellett, és a közlésre, illetőleg bejelentésre köteles lett volna.

@@ -1,0 +1,3 @@
+Ptk.79. § (1) Ha valakiről napilap, folyóirat (időszaki lap), rádió, televízió vagy filmhíradó valótlan tényt közöl vagy híresztel, illetőleg való tényeket hamis színben tüntet fel – a törvényben biztosított egyéb igényeken kívül –, követelheti olyan közlemény közzétételét, amelyből kitűnik, hogy a közlemény mely tényállítása valótlan, mely tényeket tüntet fel hamis színben, illetőleg melyek a való tények (helyreigazítás).
+
+(2) A helyreigazítást napilap esetében az erre irányuló igény kézhezvételét követő nyolc napon belül, folyóirat, illetőleg filmhíradó esetében a legközelebbi számban azonos módon, rádió, illetőleg televízió esetében pedig – ugyancsak nyolc napon belül – a sérelmes közléssel azonos napszakban kell közölni.

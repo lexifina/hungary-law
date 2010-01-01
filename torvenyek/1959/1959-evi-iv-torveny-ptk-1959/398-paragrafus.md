@@ -1,0 +1,1 @@
+Ptk.398. § Az alvállalkozó vagy más közreműködő hibás teljesítése alapján a vállalkozó mindaddig érvényesítheti jogait, amíg a vállalkozó a megrendelővel szemben a szerződésszegés miatt helytállni tartozik, feltéve, hogy a vállalkozó a minőség megvizsgálására vonatkozó kötelezettségének eleget tett.

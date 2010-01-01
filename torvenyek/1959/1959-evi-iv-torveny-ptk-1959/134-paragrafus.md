@@ -1,0 +1,3 @@
+Ptk.134. § (1) Ha több személy dolgai úgy egyesülnek vagy vegyülnek, hogy azokat csak aránytalan károsodás vagy aránytalan költekezés árán vagy egyáltalán nem lehet szétválasztani, közös tulajdon keletkezik. Ha a tulajdonosok bármelyike a közös tulajdont nem kívánja, az, akinek dolga az egyesülés előtt nagyobb értékű volt, választhat, hogy a dolgot a többi tulajdonos kártalanítása ellenében tulajdonába veszi vagy kártalanítás ellenében azoknak átengedi.
+
+(2) A választási jog nem illeti meg azt, aki az egyesülést vagy vegyülést rosszhiszeműen maga idézte elő. Ilyen esetben a rosszhiszemű volt tulajdonos csak a gazdagodás megtérítését követelheti.

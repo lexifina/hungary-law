@@ -1,0 +1,1 @@
+Ptk.20/C. § A gondnok vagyonkezelésének a gondnokolt jólétét kell szolgálnia. A gondnok köteles a gondnokolt személyes kívánságait meghallgatni, és a vagyon állagától függően a jogos igényeket lehetőség szerint teljesíteni.

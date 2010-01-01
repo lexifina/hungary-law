@@ -1,0 +1,1 @@
+Ptk.130. § Ha a talált dolog nagyobb értékű, és annak tulajdonjogát a találó nem szerzi meg, a találó méltányos összegű találódíjra jogosult, feltéve, hogy megtett mindent, amit a jogszabályok előírnak avégből, hogy a tulajdonos a dolgot visszakaphassa.

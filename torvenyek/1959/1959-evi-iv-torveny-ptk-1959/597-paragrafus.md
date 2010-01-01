@@ -1,0 +1,11 @@
+Ptk.597. §
+
+## ÖTÖDIK RÉSZ
+
+## ÖRÖKLÉSI JOG
+
+## I. CÍM
+
+AZ ÖRÖKLÉSI JOG
+
+ÁLTALÁNOS SZABÁLYAI

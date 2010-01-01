@@ -1,0 +1,13 @@
+Ptk.74/C. § (1) Az alapító – az alapító okiratban – kijelölheti a kezelő szervet, illetőleg ilyen célra külön szervezetet is létrehozhat. A kezelő szerv (szervezet) az alapítvány képviselője. Az alapító az alapító okiratban úgy is rendelkezhet – a (3) bekezdésben foglalt követelmény keretei között –, hogy a kezelő szerv (szervezet) vagy annak tagja kijelölése meghatározott időtartamra vagy feltétel bekövetkezéséig áll fenn. E rendelkezés azonban az időtartam lejárta, illetve a feltétel bekövetkezése esetén is csak az új kezelő szerv (szervezet), illetve az új tag kijelölésének bírósági nyilvántartásba vételével egyidejűleg válik hatályossá.
+
+(2) A bíróság köteles kezelő szerv (szervezet) kijelöléséről gondoskodni, ha erről az alapító nem rendelkezett, illetőleg a kezelő szerv (szervezet) a feladat ellátását nem vállalja.
+
+(3) Nem jelölhető ki, illetve nem hozható létre olyan kezelő szerv (szervezet), amelyben az alapító — közvetlenül vagy közvetve — az alapítvány vagyonának felhasználására meghatározó befolyást gyakorolhat.
+
+(4) Ha az alapító az alapítvány kezelésére külön szervezetet hoz létre, az alapító okiratban rendelkeznie kell annak összetételéről és meg kell jelölnie az alapítvány képviseletére jogosult személyt, ha pedig a képviseletre többen jogosultak, úgy a képviseleti jog gyakorlásának módját, illetőleg terjedelmét is. A képviseleti jog korlátozása jóhiszemű harmadik személy irányában hatálytalan. Az alapító az alapító okiratban úgy is rendelkezhet, hogy a kezelő szerv (szervezet) az alapítvány alkalmazottjának képviseleti jogot biztosíthat, megjelölve a képviseleti jog gyakorlásának módját, illetőleg terjedelmét.
+
+(5) A kezelő szerv (szervezet) vagy annak tisztségviselője (tagja) által a feladatkörének ellátása során harmadik személynek okozott kárért az alapítvány felelős. A tisztségviselő (tag) az általa e minőségében az alapítványnak okozott kárért a polgári jog általános szabályai szerint felel.
+
+(6) Ha a kezelő szerv (szervezet) tevékenységével az alapítvány célját veszélyezteti, az alapító a kijelölést visszavonhatja és kezelőként más szervet (szervezetet) jelölhet ki.
+
+(7) Az alapító az alapító okiratban az e törvényben biztosított jogainak gyakorlására – különösen halála, megszűnése esetére – maga helyett más személyt is kijelölhet. E személyre az alapítóra vonatkozó rendelkezések az irányadók. A kijelölést a nyilvántartásba vétel után az alapító nem vonhatja vissza. Alapító vagy a jogainak gyakorlására kijelölt más személy hiányában – a kezelő szerv (szervezet) vagy az ügyészség erre vonatkozó bejelentése alapján – az alapítói jogosultságok a bíróságot illetik meg.

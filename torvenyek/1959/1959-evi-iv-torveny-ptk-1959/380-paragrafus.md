@@ -1,0 +1,1 @@
+Ptk.380. § A felek a dolog minőségét, a minőség és a mennyiség megvizsgálásának módját, a minőségi és a mennyiségi kifogásolás rendjét meghatározhatják szabványra, műszaki feltételre, más előírásra, mindkét fél által ismert szokványra vagy mintaszabályzatra utalással, mintával vagy részletes leírással.

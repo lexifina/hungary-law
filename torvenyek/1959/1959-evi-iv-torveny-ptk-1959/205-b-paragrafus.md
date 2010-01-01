@@ -1,0 +1,3 @@
+Ptk.205/B. § (1) Az általános szerződési feltétel csak akkor válik a szerződés részévé, ha alkalmazója lehetővé tette, hogy a másik fél annak tartalmát megismerje, és ha azt a másik fél kifejezetten vagy ráutaló magatartással elfogadta.
+
+(2) Külön tájékoztatni kell a másik felet arról az általános szerződési feltételről, amely a szokásos szerződési gyakorlattól, a szerződésre vonatkozó rendelkezésektől lényegesen vagy valamely korábban a felek között alkalmazott kikötéstől eltér. Ilyen feltétel csak akkor válik a szerződés részévé, ha azt a másik fél – a külön, figyelemfelhívó tájékoztatást követően – kifejezetten elfogadta.

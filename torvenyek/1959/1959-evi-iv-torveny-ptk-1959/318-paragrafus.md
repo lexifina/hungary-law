@@ -1,0 +1,5 @@
+Ptk.318. § (1) A szerződésszegésért való felelősségre, valamint a kártérítés mértékére a szerződésen kívül okozott károkért való felelősség szabályait kell alkalmazni azzal az eltéréssel, hogy a kártérítés mérséklésének – ha a jogszabály kivételt nem tesz – nincs helye.
+
+(2) A szerződésszegésen alapuló igények érvényesítése kötelező, ha a szerződésben kikötött ellenszolgáltatás teljesítése egészben vagy részben az állami költségvetésből történik. A jogosult az igény érvényesítésétől – jogszabály eltérő rendelkezése hiányában – eltekinthet, ha a rendelkezésre álló adatok alapján meggyőződést szerzett arról, hogy a szerződésszegés olyan körülményekre vezethető vissza, amelyekért a kötelezett nem felel, vagy ha a szerződésszegés a nemzetgazdaság, továbbá a felek együttműködése szempontjából jelentéktelen.
+
+(3) Ha a szerződésszegésen alapuló igények érvényesítése kötelező, és a jogosult e kötelezettségének indokolatlanul nem tesz eleget, a pénzkövetelésre (kártérítés, kötbér, árleszállítás) irányuló igényt a kifizetéseket a költségvetésből teljesítő pénzintézet az állam javára érvényesítheti.

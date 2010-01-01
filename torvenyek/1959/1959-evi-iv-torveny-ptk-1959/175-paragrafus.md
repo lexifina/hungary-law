@@ -1,0 +1,1 @@
+Ptk.175. § Az állam az egyes vagyontárgyait másra bízhatja, ebben az esetben — a jogszabályok rendelkezéseinek megfelelően — ez utóbbi gyakorolja a tulajdonost a polgári jogi kapcsolatokban megillető jogokat, és teljesíti a tulajdonos ilyen kötelezettségeit.

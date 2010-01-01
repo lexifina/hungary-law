@@ -1,0 +1,5 @@
+Ptk.107. § (1) Másnak életét, testi épségét vagy vagyonát közvetlenül fenyegető és más módon el nem hárítható veszély (szükséghelyzet) esetében a tulajdonos köteles tűrni, hogy dolgát a szükséghelyzet megszüntetése végett a szükséges mértékben igénybe vegyék, felhasználják, illetőleg abban kárt okozzanak. Más vagyonát fenyegető szükséghelyzet esetében ez a kötelezettség a tulajdonost csak akkor terheli, ha a fenyegető kár előreláthatóan jelentős mértékben meghaladja azt a kárt, amely a tulajdonost a behatás következtében érheti.
+
+(2) A tulajdonos a szükséghelyzetbe került személytől kártalanítást, attól pedig, aki a szükséghelyzet megszüntetése során indokolatlanul nagy kárt okozott, kártérítést követelhet.
+
+(3) Ha több személy életét vagy vagyonát fenyegető veszélyt egyes veszélyeztetett tárgyak feláldozásával hárítanak el, az ebből eredő kárt, amennyiben e tárgyak feláldozása szükséges volt, veszélyeztetett érdekeik arányában valamennyien viselik; ezt a szabályt kell alkalmazni a veszély elhárítására fordított szükséges költség megosztására is.

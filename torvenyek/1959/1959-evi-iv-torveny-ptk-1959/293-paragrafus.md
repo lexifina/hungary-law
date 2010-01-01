@@ -1,0 +1,1 @@
+Ptk.293. § Ha a kötelezett kamattal és költséggel is tartozik, és a fizetett összeg az egész tartozás kiegyenlítésére nem elég, azt elsősorban a költségre, azután a kamatra és végül a főtartozásra kell elszámolni. A kötelezett eltérő rendelkezése hatálytalan.

@@ -1,0 +1,3 @@
+Ptk.524. § (1) A kölcsönösszeg átadását a hitelező megtagadhatja, ha bizonyítja, hogy a szerződés megkötése után akár az ő, akár az adós körülményeiben olyan lényeges változás állott be, amely miatt a szerződés teljesítése többé el nem várható, továbbá a szerződés megkötése után olyan körülmények következtek be, amelyek miatt azonnali hatályú felmondásnak (525. §) van helye.
+
+(2) Az adós a kölcsönösszeg átvételére nem köteles, ebben az esetben azonban a hitelezőnek a szerződés megkötéséből eredő kárát meg kell térítenie. Ha a hitelező pénzintézet, kártérítés nem illeti meg, arra az időre azonban, amely alatt a kölcsönösszeget – akár hitelszerződés alapján, akár anélkül – az adós rendelkezésére tartja, az adós jutalék fizetésére köteles.
