@@ -1,0 +1,6 @@
+13/A. §[^62] (1) Bértámogatás megállapítása iránti új kérelmet 2009. augusztus 31-ig lehet benyújtani. 2009. szeptember 1-jétől bértámogatás iránti új kérelmek befogadása szünetel. Bértámogatás iránti új kérelemnek kell tekinteni azt is, ha a munkáltató bértámogatásban részesül, és a támogatásra vonatkozó hatósági szerződésben meghatározott munkavállalói létszámon felüli létszámú munkavállaló foglalkoztatásához kér bértámogatást.
+
+(2)[^63] Az (1) bekezdés alkalmazása szempontjából nem minősül új kérelemnek, ha a munkáltató a bértámogatásra vonatkozó hatósági szerződésben meghatározott folyósítási idő lejártát követően, legfeljebb a hatósági szerződés lejártát közvetlenül megelőzően támogatással érintett munkavállalói létszám foglalkoztatásához, az azokra biztosított támogatási mértéket nem meghaladóan új bértámogatás iránti kérelmet nyújt be.
+
+[^62]: A 13/A. §-t a 168/2009. (VIII. 26.) Korm. rendelet 3. §-a iktatta be.
+[^63]: A 13/A. § (2) bekezdése a 352/2009. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 8. § (4) bekezdése alapján a rendelkezést arra a munkáltatóra is alkalmazni kell, amellyel a bértámogatásra kötött hatósági szerződés a 2009. szeptember 1. és 2009. december 31. közötti időszakban járt le.
