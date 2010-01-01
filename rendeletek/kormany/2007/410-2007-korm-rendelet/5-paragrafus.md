@@ -1,0 +1,1 @@
+## 4. § A Kkt. 21. § (1) bekezdés c) pontjához kapcsolódóan a gépjármű üzemeltetője a 3. mellékletben meghatározott összegű bírságot köteles fizetni az abban hivatkozott jogszabályi rendelkezés megsértése esetében.

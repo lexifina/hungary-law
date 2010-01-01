@@ -1,0 +1,1 @@
+## 3. § A Kkt. 21. § (1) bekezdés b) pontjához kapcsolódóan a gépjármű üzemeltetője a 2. mellékletben meghatározott összegű bírságot köteles fizetni az abban hivatkozott jogszabályi rendelkezés megsértése esetében.

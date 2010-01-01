@@ -1,0 +1,1 @@
+## 6. § A Kkt. 21. § (1) bekezdés e) pontjához kapcsolódóan a gépjármű üzemeltetője az 5. mellékletben meghatározott összegű bírságot köteles fizetni az abban hivatkozott jogszabályi rendelkezés megsértése esetében.
