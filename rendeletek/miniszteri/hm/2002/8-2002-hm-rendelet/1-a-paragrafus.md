@@ -1,0 +1,1 @@
+## 1. § A rendelet hatálya a Magyar Honvédség hivatásos és szerződéses állományú tagjaira (a továbbiakban együtt: az állomány tagja), valamint az utánuk hozzátartozói nyugellátásra jogosult hozzátartozóikra terjed ki.
