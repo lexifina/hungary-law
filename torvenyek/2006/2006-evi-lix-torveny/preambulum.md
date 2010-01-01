@@ -1,0 +1,1 @@
+A költségvetés egyensúlyának javítása érdekében az általános adófizetési kötelezettséget meghaladó közteherviselésre képes adófizetők szolidaritására alapozva, a különadó- és járadékfizetési kötelezettségről az Országgyűlés a következő törvényt alkotja.
