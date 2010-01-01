@@ -1,0 +1,13 @@
+## Különleges helyzetből adódó eltérő rendelkezések
+
+## [Az Ebtv. 18. §-a (4) bekezdéséhez][^73]
+
+6. § (1)[^74] A Magyar Honvédség és a rendvédelmi szervek (a Rendőrség, a hivatásos katasztrófavédelmi szervek, a Vám- és Pénzügyőrség, a büntetés-végrehajtási szervezet, a hivatásos önkormányzati tűzoltóság, valamint a polgári nemzetbiztonsági szolgálatok) (a továbbiakban együtt: fegyveres szervek) hivatásos és szerződéses állományú tagjai az egészségügyi szolgáltatások igénybevételére az Ebtv. és e rendelet rendelkezései alapján jogosultak azzal, hogy e jogosultságuk nem érinti a külön jogszabály vagy a fegyveres szerv rendelkezése alapján kijelölt egészségügyi szolgáltató igénybevételével kapcsolatos kötelezettséget. A fegyveres szervek hivatásos, szerződéses, köztisztviselő, közalkalmazott és nyugállományú, katonai intézeti hallgató tagjának, továbbá igényjogosult közeli hozzátartozójának vizsgálatát és gyógykezelését – kérésére, az Ebtv. 18. §-ának (4) bekezdése szerinti külön jogszabályban foglaltak figyelembevételével – az egészségi állapota által indokolt, az ágazati jogszabályukban meghatározott egészségügyi szolgáltatónál kell kezdeményezni.
+
+(2)[^75] Az őrizetbe vett, az előzetesen letartóztatott, az elzárásra utalt és a szabadságvesztés büntetését töltő (a továbbiakban együtt: fogvatartott) személyek az egészségügyi szolgáltatásra – a személyes szabadságuk korlátozásából adódóan – a fogvatartó szerv keretén belül, illetve, ha ott nem biztosítható az egészségi állapotuknak megfelelő ellátásuk, a fogvatartó szerv által kijelölt egészségügyi szolgáltatónál jogosultak.
+
+(3) A vasúti és a hajózási dolgozók, továbbá a polgári repülés dolgozói egészségügyi szolgáltatások igénybevételére való jogosultságát nem érinti a külön jogszabály rendelkezése alapján kijelölt egészségügyi szolgáltató igénybevételével kapcsolatos kötelezettség.
+
+[^73]: A Vhr. 6. §-át megelőző törvényi hivatkozás a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg.
+[^74]: A Vhr. 6. §-ának (1) bekezdése a 28/2005. (II. 15.) Korm. rendelet 5. §-ával megállapított, valamint a 330/2005. (XII. 29.) Korm. rendelet 3. §-a, a 331/2007. (XII. 13.) Korm. rendelet 3. § 10. pontja, a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^75]: A Vhr. 6. § (2) bekezdésének második mondatát a 4/2007. (I. 22.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének g) pontja.

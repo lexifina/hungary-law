@@ -1,0 +1,15 @@
+42. § (1)[^372] A táppénz és baleseti táppénz folyósításának 240. napját követő 8. munkanapon belül, továbbá az Ebtv. 48/A. §-ban meghatározott esetben a keresőképtelenségi igazolás benyújtásával igényelt ellátás elbírálását követő 3 munkanapon belül a táppénzt folyósító szerv köteles a keresőképtelenséget igazoló orvost értesíteni a biztosított táppénz, baleseti táppénz jogosultsága megszűnésének időpontjáról.
+
+(2)[^373] Ha a biztosított részére a táppénzt a REP folyósítja és a biztosítási jogviszony a táppénz folyósításának időtartama alatt megszűnik, a foglalkoztató köteles haladéktalanul értesíteni a folyósító REP-et a biztosítási jogviszony megszűnésének időpontjáról, valamint a megszűnéskor kifizetett jövedelmekről és azok jogcíméről.
+
+(3)[^374] A baleseti járadékkal kapcsolatban az egészségkárosodás mértékét a Szakértői Intézet szakértői bizottságai véleményezik.
+
+(4)[^375] A Szakértői Intézet szakértői bizottsága a szakvéleményéről tájékoztatja az orvost, a vizsgálat lefolytatásáról pedig a táppénzfolyósító szervet.
+
+(5)[^376] Ha a társadalombiztosítási határozat bírósági felülvizsgálata során a bíróság a keresetet elutasította ugyan, de a munkaképesség-csökkenésnek utóbb bekövetkezett, a rokkantsági fokot elérő változását, illetőleg a rokkantság fokát vagy a munkaképesség-csökkenés mértékét az ítélet indokolásában tényként rögzítette, akkor az újabb kérelem alapján indult eljárásban a Szakértői Intézet illetékes szakértői bizottságának véleményét már nem kell beszerezni.
+
+[^372]: A Vhr. 42. §-ának (1) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 252/2003. (XII. 23.) Korm. rendelet 14. §-a iktatta be, szövege a 360/2008. (XII. 31.) Korm. rendelet 16. § (4) bekezdésének q) pontja szerint módosított szöveg.
+[^373]: A Vhr. 42. §-ának új (2) bekezdését a 111/2004. (IV. 28.) Korm. rendelet 8. §-a iktatta be, egyidejűleg az eredeti (2)–(4) bekezdés számozását (3)–(5) bekezdésre változtatva. A Vhr. 42. §-ának (2) bekezdése a 360/2008. (XII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^374]: A Vhr. 42. § eredeti (2) bekezdésének számozását a 111/2004. (IV. 28.) Korm. rendelet 8. §-a (3) bekezdésre változtatta. A (3) bekezdés szövege a 213/2007. (VIII. 7.) Korm. rendelet 17. §-ával megállapított szöveg; e módosító rendelet 17. §-a alapján a rendelkezés 2008. január 1. napján lépett hatályba.
+[^375]: A Vhr. 42. § eredeti (3) bekezdésének számozását a 111/2004. (IV. 28.) Korm. rendelet 8. §-a (4) bekezdésre változtatta. A Vhr. 42. § (4) bekezdése a 213/2007. (VIII. 7.) Korm. rendelet 18. § h) pontjának hc) alpontja szerint módosított szöveg.
+[^376]: A Vhr. 42. § eredeti (4) bekezdésének számozását a 111/2004. (IV. 28.) Korm. rendelet 8. §-a (5) bekezdésre változtatta. A Vhr. 42. § (5) bekezdése a 213/2007. (VIII. 7.) Korm. rendelet 18. § h) pontjának hd) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
