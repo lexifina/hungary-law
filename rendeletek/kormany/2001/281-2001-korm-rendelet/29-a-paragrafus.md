@@ -1,0 +1,20 @@
+29/A. §[^65] (1) Az egyéni nyugdíjszámlán nyilvántartott összeg egy részének felvétele esetén [Öpt. 47. § (4) bekezdés b) pont], amennyiben a kifizetési kérelem összege nem haladja meg az egyéni nyugdíjszámlán nyilvántartott tagi kölcsön összegével, illetve tagi lekötés összegének kétszeresével csökkentett összeg 85%-át, akkor a kérelemben meghatározott összeget a bejelentés napjától számított 15 napon belül kell kifizetni. A teljes összeg felvétele esetén [Öpt. 47. § (4) bekezdés b) pont], illetve olyan részfelvétel esetében, amikor a felvenni kívánt összeg a 85%-ot meghaladja, akkor az összeg 85%-ának átutalását, kifizetését legkésőbb a bejelentés napjától számított 15 napon belül kell elvégezni. A pénztár a hátralévő összeg átutalását, kifizetését legkésőbb a bejelentés negyedévét követő 50 napon belül végzi el. Az elszámolóegységekre épülő nyilvántartási rendszert működtető pénztárak az egyéni nyugdíjszámlán nyilvántartott összeg egy részének vagy a teljes összeg felvétele esetén [Öpt. 47. § (4) bekezdés b) pont], a kérelemben meghatározott összeget az ott megjelölt fordulónapot követő 8 munkanapon belül kell kifizetni. Amennyiben a kérelemben a tag fordulónapot nem jelöl meg, akkor a pénztár legkésőbbi fordulónapként a kézhezvételt követő 10. munkanapot veheti figyelembe.
+
+(2) A tagsági jogviszony megszűnésével kapcsolatos elszámolási módszert a pénztár a tagokkal való elszámolásról szóló szabályzatában rögzíti. A pénztár a tagsági jogviszony megszűnésekor az átlépésre, kilépésre vonatkozó bejelentés, a kizárásról való döntés, a pénztártag halála miatt szükségessé váló egyösszegű kifizetés vagy átutalás, illetve egyösszegű nyugdíjszolgáltatás igénybevétele esetén a jogosultság igazolása (a továbbiakban: kiváltó esemény időpontja) esetén a tag tagi kölcsönnel csökkentett követelése 85%-ának átutalását, kifizetését legkésőbb a kiváltó esemény időpontjától számított 15 napon belül végzi el. Az egyéni számla lezárását és a végleges elszámolást a pénztár a kiváltó esemény időpontjának negyedévét követő 50 napon belül végzi el.
+
+(3)[^66] Az elszámoló egységes rendszerre épülő nyilvántartást vezető pénztárak esetén a tagsági jogviszony Öpt. 15. §-ának (1) bekezdése szerinti megszűnésekor, valamint egyösszegű nyugdíjszolgáltatás kifizetésekor a tag tagi kölcsönnel csökkentett összegű követelésének kifizetését, vagy átutalását a jogosultság igazolását követően kell a pénztárnak teljesítenie. A kifizetés, vagy átutalás – pénztár szabályzata szerinti – legkésőbbi fordulónapja
+
+a) a pénztártag halála miatt szükségessé váló egyösszegű kifizetés, illetve átutalás iránti igény bejelentése pénztárhoz történő beérkezésének;
+
+b) a pénztártagnak a tagsági jogviszony megszüntetésére irányuló bejelentése pénztárhoz történő beérkezésének;
+
+c) a pénztár döntése pénztártaggal történő közlésének; valamint
+
+d) az egyösszegű nyugdíjszolgáltatás kifizetése, illetve átutalása iránti igény bejelentése pénztárhoz történő beérkezésének
+
+időpontját követő tizedik munkanap. Amennyiben a bejelentésben ezt követő időpont került megjelölésre, akkor a megjelölt időpontot kell fordulónapnak tekinteni. A kifizetést, illetve átutalást – a pénztár szabályzata szerint – legkésőbb a fordulónapot követő nyolcadik munkanapon kell teljesíteni.
+
+(4) Az elszámolóegységes rendszerre épülő nyilvántartást vezető pénztár a tagsági jogviszonyukat megszüntető tagok, részkifizetés vagy a teljes összeg kifizetése esetén a kifizetéssel érintett, illetve portfólióváltás esetén a portfóliót váltó tagok elszámolóegységeinek számáról a fordulónapot követő második munkanapig tájékoztatja a letétkezelőt. A részletszabályokat a háromoldalú szerződésben kell rendezni.
+
+[^65]: A 29/A. §- és az azt megelőző alcímet a 302/2002. (XII. 27.) Korm. rendelet 6. §-a iktatta be, a 29/A. §-t megelőző alcímet a 233/2006. (XI. 24.) Korm. rendelet 14. § (3) bekezdése hatályon kívül helyezte. A 29/A. § a 335/2008. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^66]: A 29/A. § (3) bekezdése a 332/2009. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
