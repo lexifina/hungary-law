@@ -1,0 +1,1 @@
+66. § A fejezeti kezelésű támogatási célprogramok (elkülönített állami pénzalapoktól átvett feladatok) terhére az éves kiadási előirányzat 25%-ának megfelelő összegű éven túli kötelezettség vállalható.

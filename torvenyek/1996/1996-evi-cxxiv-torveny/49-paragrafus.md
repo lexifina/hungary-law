@@ -1,0 +1,1 @@
+49. § A Munkaerőpiaci Alap rehabilitációs alap részénél a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 41/A. § (3) bekezdésének alapján 1997-ben a hozzájárulás kiszámításának alapjául szolgáló összeg 8000 forint.

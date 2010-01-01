@@ -1,0 +1,1 @@
+16. § A XV. Gazdasági Minisztérium fejezet, 17. Külkereskedelmi Szolgálat címen a külszolgálatok működésére szolgáló előirányzatból 1997. június 30-ig teljesíthető kifizetés. Az előirányzat fel nem használt része a X. Miniszterelnökség fejezet, 10. cím, 2. alcím, 4. előirányzat-csoport „Külszolgálat” céltartalékot növeli.

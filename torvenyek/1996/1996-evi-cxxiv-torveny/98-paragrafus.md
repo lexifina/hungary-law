@@ -1,0 +1,1 @@
+98. § A Országgyűlés felhatalmazza a Kormányt, hogy a lágymányosi egyetemfejlesztési feladatokról – az 1998. évi költségvetési törvényjavaslat részeként – beruházási javaslatot nyújtson be a kiemelt jelentőségű beruházásokra vonatkozó rendelkezések szerint.

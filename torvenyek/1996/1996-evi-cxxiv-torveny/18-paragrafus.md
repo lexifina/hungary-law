@@ -1,0 +1,1 @@
+18. § A fogvatartottakat foglalkoztató büntetés-végrehajtási gazdálkodó szervezetek (kivéve a büntetés-végrehajtási intézeteket) sajátos többletköltségei részbeni ellentételezésére 100 000 forint/foglalkoztatott, fogvatartott/év, de 1997. évben összességében nem több, mint 410 millió forint fordítható.

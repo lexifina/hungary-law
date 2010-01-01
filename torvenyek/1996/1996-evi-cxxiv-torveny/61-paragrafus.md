@@ -1,0 +1,1 @@
+61. § Az EXPO '96. Nemzetközi Világkiállítás lemondása miatt a kártérítési peres ügy fedezetére 1994. decemberében az EXPO '96. Kft. (névváltozást követően: '96. Kft.) mérlegében elkülönített 1050 millió forint és hozadékai maradványát a peres ügy jogerős befejezését követően 15 napon belül a központi költségvetésbe be kell fizetni.

@@ -1,0 +1,1 @@
+3. § A hiteltörlesztési és államkötvény-visszavásárlási kiadások és a hitelfelvételből származó bevételek részletezését e törvény 1. és 2. számú mellékleteinek a XLII. A költségvetés nemzetközi hitelfelvételei és külföldi adósságának törlesztése és a XLIII. A költségvetés belföldi hitelfelvételei és belföldi adósságának törlesztése fejezetei tartalmazzák.

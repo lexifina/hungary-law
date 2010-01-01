@@ -1,0 +1,1 @@
+48. § Az Országgyűlés a honvédelemről szóló 1993. évi CX. törvény 5. § (1) bekezdése c) pontjában, valamint a fegyveres erők részletes bontású létszámáról szóló 85/1995. (VII. 6.) OGY határozat 3. pontjában foglalt rendelkezés alapján a fegyveres erők 1997. évi költségvetési létszámának felső határát a 9. számú mellékletben foglaltak szerint hagyja jóvá.
