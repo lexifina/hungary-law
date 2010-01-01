@@ -1,0 +1,1 @@
+22. § Azt a polgárt, aki nem rendelkezik TAJ számmal, de jogosulttá válik egészségügyi szolgáltatásra, munkanélküli vagy szociális ellátásra, külön kérelemre külön törvény alapján, az egészségbiztosítási szerv TAJ számmal látja el.

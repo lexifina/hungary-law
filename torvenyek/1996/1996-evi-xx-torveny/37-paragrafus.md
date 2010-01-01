@@ -1,0 +1,25 @@
+## Rendszeres adatátadás a személyiadat- és lakcímnyilvántartásból
+
+37. § (1) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – köteles rendszeres adatszolgáltatást teljesíteni:
+
+a) az állami adóhatóságnak, az adóalanyok nyilvántartásában szereplő polgár családi és utónevének (nők esetében beleértve a leánykori családi és utónevet is), anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, ideiglenesen külföldön tartózkodásának tényéről vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról;
+
+b) a társadalombiztosítási szervnek, az egészségbiztosítási nyilvántartásában szereplő polgár családi és utónevének (nők esetében beleértve a leánykori családi és utónevet is), anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, ideiglenesen külföldön tartózkodásának tényéről vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról, továbbá az Nytv. hatálya alá tartozó újszülöttek nyilvántartásában szereplő adatairól;
+
+c) a társadalombiztosítási szervnek, a nyugdíjbiztosítási nyilvántartásában szereplő polgár családi és utónevének (nők esetében beleértve a leánykori családi és utónevet is), anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének – ennek hiányában tartózkodási helyének – változásáról, ideiglenesen külföldön tartózkodásának tényéről vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról;
+
+d) A Pénzügyi Szervezetek Állami Felügyeletének a Pénztárak Központi Nyilvántartásában szereplő személy elhalálozásáról, az elhalálozás időpontjáról;
+
+e) a kincstárnak, a kincstár által folyósított ellátásban részesülő személy és a külön törvényben meghatározott kincstár által vezetett egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
+
+(2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
+
+a) a honvédelmi igazgatás szervének, a katonai nyilvántartásban szereplő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, ideiglenesen külföldön tartózkodásának tényéről vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról, továbbá a honvédelmi kötelezettség alá eső polgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, személyi azonosítójáról, családi állapotáról és lakcíméről;
+
+b) az idegenrendészeti szervnek, a bevándorolt és a letelepedett polgár családi és utónevének (beleértve a születési családi és utónevet is), anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének – ennek hiányában tartózkodási helyének – változásáról, ideiglenesen külföldön tartózkodásának tényéről vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról;
+
+c) a bűntettesek nyilvántartását kezelő szervnek, a bűntettesek nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének változásáról, továbbá az érintett elhalálozásáról;
+
+d) a közúti közlekedési nyilvántartást vezető szervnek a nyilvántartás hatálya alá tartozó polgár családi és utónevének (nők esetében a leánykori családi és utónevet is), anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
+
+(3) Az adatszolgáltatást az (1) és (2) bekezdés alapján igénybe vevő szervek az adatátadást kizárólag akkor kezdeményezhetik, ha törvényben előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.

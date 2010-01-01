@@ -1,0 +1,1 @@
+15. § Az adóigazolványt a polgár köteles megőrizni, és annak adatait felhívásra – személyazonosságának hitelt érdemlő igazolása mellett – megismerhetővé tenni az adóhatóság, valamint az adózással kapcsolatban adatszolgáltatásra kötelezett szerv számára.

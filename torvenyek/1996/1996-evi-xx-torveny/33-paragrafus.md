@@ -1,0 +1,1 @@
+33. § A polgár a személyi azonosítóját – személyazonosságának hitelt érdemlő igazolása mellett – a 32. § a)–k) és n)–o) pontjaiban felsorolt szerveknek az ott megjelölt feladataik ellátásához köteles megismerhetővé tenni.

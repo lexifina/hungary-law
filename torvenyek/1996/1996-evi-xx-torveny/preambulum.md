@@ -1,0 +1,1 @@
+Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotmányos alapjogból, és szem előtt tartva azt a követelményt, hogy a személyes adatok felhasználásának átláthatóságát biztosítani kell, az információs önrendelkezési jog arányos korlátozásával a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról a következő törvényt alkotja:

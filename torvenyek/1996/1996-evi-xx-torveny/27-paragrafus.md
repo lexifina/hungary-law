@@ -1,0 +1,1 @@
+27. § A társadalombiztosítási szerv az általa folyósított ellátások azonosítására, valamint a polgár járulékbefizetésének és egyéb követelések nyilvántartása céljából – a TAJ szám helyett – törvény felhatalmazása alapján más azonosítót is használhat.

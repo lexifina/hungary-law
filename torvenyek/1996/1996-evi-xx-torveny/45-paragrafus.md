@@ -1,0 +1,1 @@
+45. § Ahol más jogszabály személyazonosító jelet említ, azon – az Nytv. 5. §-ának (6) bekezdése, 37. §-ának (1), (3), (5) és (6) bekezdése, valamint az Nytv. melléklete kivételével – személyi azonosítót kell érteni.
