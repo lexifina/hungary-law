@@ -1,0 +1,1 @@
+A Kormány a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (továbbiakban: Mpt.) 134. § d) pontjában foglalt felhatalmazás alapján a Pénztárak Garancia Alapjának (a továbbiakban: Alap) szervezetével és működésével kapcsolatos szabályokról a következő rendeletet alkotja:

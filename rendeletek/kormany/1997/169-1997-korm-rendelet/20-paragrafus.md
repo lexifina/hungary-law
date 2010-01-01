@@ -1,0 +1,1 @@
+## 19. § Az Alap főkönyvelője gondoskodik az Alap könyveinek szabályszerű vezetéséről, a számviteli törvény és a kapcsolódó jogszabályok rendelkezéseinek megtartásáról, közreműködik az Alap pénz- és befektetés-politikájának kialakításában. Javaslatot tesz az Alap költségvetésére, felügyeli az Alap számviteli politikájának betartását.

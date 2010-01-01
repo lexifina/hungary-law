@@ -1,0 +1,1 @@
+## 18. § Az Alap főkönyvelőjének és vezető matematikusának kinevezéséről, felmentéséről, díjazásának és munkaköri leírásának meghatározásáról az igazgatóság az ügyvezető igazgató előterjesztése alapján határoz.
