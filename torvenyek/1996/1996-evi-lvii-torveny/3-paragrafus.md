@@ -1,0 +1,1 @@
+3. § Tilos valótlan tény állításával vagy híresztelésével, valamint valós tény hamis színben való feltüntetésével, úgyszintén egyéb magatartással a versenytárs jó hírnevét vagy hitelképességét sérteni, illetőleg veszélyeztetni.

@@ -1,0 +1,1 @@
+71/A. § A vizsgáló a hivatalból indított versenyfelügyeleti eljárást megszünteti akkor is, ha a vizsgálat során beszerzett bizonyítékok alapján nem állapítható meg törvénysértés, és az eljárás folytatásától sem várható eredmény. A végzést a bejelentővel is közölni kell. Az eljárást megszüntető végzéssel szemben külön jogorvoslatnak van helye (82. §).

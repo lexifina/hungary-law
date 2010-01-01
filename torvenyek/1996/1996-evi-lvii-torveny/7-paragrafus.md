@@ -1,0 +1,1 @@
+7. § Tilos a versenyeztetés – így különösen a versenytárgyalás, a pályáztatás –, az árverés, a tőzsdei ügylet tisztaságát bármilyen módon megsérteni. E tilalmat csak azokra a magatartásokra kell alkalmazni, amelyeket e törvény más rendelkezése vagy külön törvény nem szabályoz.

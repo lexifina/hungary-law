@@ -1,0 +1,1 @@
+36/A. § A Gazdasági Versenyhivatal főtitkára a Gazdasági Versenyhivatal elnökének irányítása alatt, a jogszabályoknak és a szakmai követelményeknek megfelelően vezeti a Gazdasági Versenyhivatal hivatali szervezetét. A főtitkár vizsgáló irodavezetői besorolású.

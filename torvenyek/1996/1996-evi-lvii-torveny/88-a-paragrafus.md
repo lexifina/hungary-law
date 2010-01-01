@@ -1,0 +1,1 @@
+88/A. § A Gazdasági Versenyhivatalnak e törvény 45. §-ával megállapított, a 70. § (1) bekezdése alapján a közérdek érvényesítésére irányuló hatásköre nem zárja ki az e törvény III–V. Fejezetében foglalt rendelkezések megsértésére alapított, e törvény 11. §-ának (3) bekezdésében és 93. §-ában említett polgári jogi igények közvetlen bíróság előtti érvényesítését.

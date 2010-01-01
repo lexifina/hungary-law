@@ -1,0 +1,1 @@
+39. § A Gazdasági Versenyhivatal vizsgálatot végző, illetve a vizsgálat eredményességét segítő feladatokat ellátó köztisztviselőit (a továbbiakban: vizsgáló) a Gazdasági Versenyhivatal elnöke nevezi ki.

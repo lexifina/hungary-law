@@ -1,0 +1,1 @@
+34. § A Gazdasági Versenyhivatalnál közszolgálati jogviszonyban állókra az e törvényben meghatározott eltérésekkel a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény rendelkezéseit kell alkalmazni.

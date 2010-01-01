@@ -1,0 +1,1 @@
+93. § A törvény rendelkezéseinek megsértése miatt alkalmazott jogkövetkezmények és érvényesített polgári jogi igények nem érintik a külön jogszabályokban foglaltak szerinti egyéb polgári jogi jogkövetkezmény alkalmazásának, illetőleg szabálysértési vagy büntetőeljárás megindításának lehetőségét.

@@ -1,0 +1,1 @@
+16. § A megállapodások meghatározott csoportjait a Kormány rendeletben mentesítheti a 11. §-ban foglalt tilalom alól. A Kormány a megállapodások csoportos mentesüléséről a törvény 17. §-ában foglalt szempontok figyelembevételével rendelkezhet.

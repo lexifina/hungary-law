@@ -1,0 +1,1 @@
+90/A. § A végrehajtó szolgálat a Gazdasági Versenyhivatalt a meghatározott cselekmény elvégzésére, vagy meghatározott magatartás tanúsítására kötelező döntés végrehajtásának foganatosításába bevonhatja.

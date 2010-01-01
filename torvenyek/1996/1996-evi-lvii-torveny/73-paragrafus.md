@@ -1,0 +1,3 @@
+73. § (1) Ha a 72. § (1) bekezdésének a)–b) pontjaiban írt intézkedésekre nincs szükség, az eljáró versenytanács megküldi az ügyfélnek az ügyre vonatkozó előzetes álláspontját, amely tartalmazza a megállapított tényállást, az azt alátámasztó bizonyítékokat, a tényállás értékelését, a döntés meghozatalához szükséges szempontok és következtetések lényegének ismertetését.
+
+(2) Nem kell előzetes álláspontot készíteni, ha az eljárás kérelemre indult, az eljáró versenytanács a kérelem tartalmával egyetért, és a 30. § (3) bekezdésének alkalmazására nincs szükség. Ilyen esetben az eljáró versenytanács tárgyalástartás nélkül határozatot (77. §) hoz.

@@ -1,0 +1,1 @@
+8/A. § Nem terjed ki e Fejezet hatálya az olyan magatartásra, amely a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény rendelkezései értelmében megtévesztő reklám.
