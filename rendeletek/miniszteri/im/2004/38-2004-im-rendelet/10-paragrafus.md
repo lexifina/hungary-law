@@ -1,0 +1,1 @@
+## 9. § A megállapodás alapján a férőhellyel rendelkező bv. szerv köteles a férőhelyet a használati jogosult használatába adni, a használati jogosult a férőhely használatáért térítési díjat fizetni, amely magában foglalja a használati díjat és az üzemeltető által nyújtott szolgáltatások díját is.
