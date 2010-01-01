@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében, továbbá a termőföldről szóló 1994. évi LV. törvény 90. § (1) bekezdésének c) pontjában foglalt felhatalmazás alapján a következő rendeletet alkotja:
