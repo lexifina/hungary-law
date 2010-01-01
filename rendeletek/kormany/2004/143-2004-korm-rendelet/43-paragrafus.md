@@ -1,0 +1,7 @@
+## 42. § Az ajánlatkérő köteles a részvételre jelentkezőt legkésőbb az eredményhirdetésig írásban tájékoztatni részvételi jelentkezésének érvénytelenné nyilvánításáról, vagy az eljárásból való kizárásáról. A tájékoztatást indokolni kell.
+
+43. § (1) A részvételi jelentkezéseket a lehető legrövidebb időn belül kell az ajánlatkérőnek elbírálnia és azt követően a részvételi szakasz eredményét vagy eredménytelenségét kihirdetnie (a továbbiakban együtt: eredményhirdetés). A részvételi szakasz eredményét legkésőbb a részvételi jelentkezések felbontásától számított harminc – építési beruházás esetében hatvan – napon belül kell kihirdetni. A kihirdetés a részvételre jelentkezők egyidejű, közvetlen és írásos értesítésével történik.
+
+(2) Az ajánlatkérő az eredményhirdetés időpontját – indokolt esetben – egy alkalommal, legfeljebb harminc nappal elhalaszthatja. Az ajánlatkérő az eredeti határidő lejárta előtt köteles a halasztásról az összes részvételre jelentkezőt egyidejűleg, közvetlenül, írásban tájékoztatni.
+
+(3) Az ajánlatkérő a részvételi jelentkezések elbírálását a nemzetbiztonsági szakvélemények beérkezéséig az összes részvételre jelentkező egyidejű, írásos értesítése mellett felfüggeszti. Az utolsó nemzetbiztonsági szakvélemény beérkezését követően az ajánlatkérő két munkanapon belül írásban tájékoztatja a részvételre jelentkezőket a felfüggesztés megszüntetéséről. A felfüggesztés időtartama a határidőkbe nem számít bele, a tájékoztatás megküldésének napjától a határidők számítása folytatódik.

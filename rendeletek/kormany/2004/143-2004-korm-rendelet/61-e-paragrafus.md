@@ -1,0 +1,11 @@
+61/E. §[^55] (1) A párbeszédek egy vagy több fordulóban is lefolytathatóak. Többfordulós párbeszéd esetében az ajánlatkérő jogosult csak azokat az ajánlattevőket meghívni a további forduló(k)ra, akik az első, illetőleg a megadott fordulóban a részvételi felhívásban a 48. § (3) bekezdése tekintetében meghatározott körülmények alapján a legkedvezőbb megoldási javaslatot (javaslatváltozatot) tették. Az ajánlattevők száma azonban az utolsó tárgyalási fordulót követően sem lehet háromnál kevesebb.
+
+(2) Az eltérő javaslatot adó ajánlattevők megoldási javaslatait is a 48. § (3) bekezdése tekintetében meghatározott körülmények alapján kell összehasonlítani. Ha egy ajánlattevő többváltozatú megoldási javaslatot adott, a különböző megoldásjavaslat-változatokat önálló javaslatnak kell tekinteni, és az ajánlatkérő jogosult a továbbiakban az ajánlattevő egy-egy megoldási javaslatát a párbeszéd további fordulójára (fordulóira) nem meghívni.
+
+(3) Ha egy ajánlattevő megoldási javaslata nem felel meg azoknak a követelményeknek, amelyek vonatkozásában a 61/A. § (1) bekezdése szerinti körülmények közül meg nem határozottakra nézve az ajánlatkérő az ajánlattételi felhívásban az ajánlattevők javaslatát kérte, az ajánlatkérő a megoldási javaslatot vagy annak változatát érvénytelenné nyilvánítja, ebben az esetben az 54. § (1) bekezdése szerint köteles eljárni.
+
+(4) Az (1) és (2) bekezdés szerint kiválasztott ajánlattevőkkel folytatott további párbeszéd során az ajánlatkérő nem módosíthatja feltételeit, az ajánlattevők pedig a korábbi fordulóhoz képest az ajánlatkérő számára csak azonos vagy kedvezőbb megoldási javaslatot adhatnak.
+
+(5) Az ajánlatkérőnek minden egyes párbeszédről jegyzőkönyvet kell készítenie, és azt a párbeszéd következő fordulójának megkezdéséig (egyetlen vagy utolsó forduló esetén a párbeszéd befejezését követő két munkanapon belül) az érintett ajánlattevőnek alá kell írnia, és részére egy példányt át kell adni, vagy két munkanapon belül részére meg kell küldeni.
+
+[^55]: A 61/E. §-t a 65/2007. (IV. 3.) Korm. rendelet 22. §-a iktatta be. E módosító rendelet 24. § (1) bekezdése alapján a rendelkezést a 2007. április 11. napját követően megkezdett beszerzési eljárásokban kell alkalmazni.
