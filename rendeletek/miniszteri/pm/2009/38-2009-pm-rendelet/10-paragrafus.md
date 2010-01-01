@@ -1,0 +1,1 @@
+## 9. § A vám- és pénzügyőri hivatal az engedélyes forgalmában beérkezett küldeményekről vezetett vállalati nyilvántartást legalább harminc naponta ellenőrzi. A nyilvántartásnak tartalmaznia kell a küldemény kísérőokmány számát, címzettjét, a nyilvántartási tételszámot, valamint a küldemény vámjogi sorsának rendezését igazoló elintézési tételszámot.
