@@ -1,0 +1,1 @@
+Az állategészségügyről szóló 1995. évi XCI. törvény 45. §-ának 3. pontjában, valamint az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
