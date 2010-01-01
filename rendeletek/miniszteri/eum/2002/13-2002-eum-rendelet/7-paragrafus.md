@@ -1,0 +1,3 @@
+## 6. §[^14] E rendeletben szabályozott vezetői, illetőleg vezető-helyettesi (orvos-, illetve ápolási igazgatói, gazdasági igazgatói), valamint osztályvezetői, illetőleg intézeti vezető főgyógyszerészi, intézeti főgyógyszerészi beosztások pályázati eljárás során tölthetők be. A pályázati feltételekre, valamint a pályázati eljárásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény egészségügyi ágazatban történő végrehajtásáról szóló 233/2000. (XII. 23.) Korm. rendeletet kell megfelelően alkalmazni.
+
+[^14]: A 6. § a 43/2003. (VII. 29.) ESZCSM rendelet 14. §-a (5) bekezdésének f) pontja szerint módosított szöveg.

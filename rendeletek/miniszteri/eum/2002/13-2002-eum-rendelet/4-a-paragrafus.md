@@ -1,0 +1,1 @@
+## 4. § Az 1. § (1) bekezdés b) pontjában, a 2. § (1) bekezdés b) pontjában, valamint a 3. § (1) bekezdés b) pontjában előírt képesítés alól felmentés abban az esetben adható, ha a pályázó (jelölt) a képzésben részt vesz, vagy vállalja a képesítésnek – a kinevezés (megbízatás) adásától számított – öt éven belül történő megszerzését.
