@@ -1,0 +1,3 @@
+## Felhatalmazó rendelkezés
+
+54. §
