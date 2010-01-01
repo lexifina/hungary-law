@@ -1,0 +1,1 @@
+## 22. § A szakképzéssel kapcsolatos pályáztatás lebonyolításával és a szakképzés költségvetési forrásának a kezelésével kapcsolatos feladatokat az Egészségügyi Engedélyezési és Közigazgatási Hivatal végzi.
