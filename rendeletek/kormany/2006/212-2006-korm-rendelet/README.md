@@ -1,0 +1,9 @@
+# 212/2006. (X. 27.) Korm. rendelet
+
+a „Pályamódosító hitelprogram” keretében nyújtott hitel igénybevételének feltételeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-212-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2006-212-20-22.4 | 212/2006. (X. 27.) Korm. rendelet |

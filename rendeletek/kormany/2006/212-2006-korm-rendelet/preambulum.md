@@ -1,0 +1,1 @@
+A Magyar Köztársaság 2006. évi költségvetéséről szóló 2005. évi CLIII. törvény (a továbbiakban: Kvtv.) 103. §-ának g) pontjában kapott felhatalmazás alapján a Kormány a „Pályamódosító hitelprogram” (a továbbiakban: Hitelprogram) keretében nyújtott hitel igénybevételének feltételeiről a következőket rendeli el:
