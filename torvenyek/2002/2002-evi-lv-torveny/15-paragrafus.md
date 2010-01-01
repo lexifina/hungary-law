@@ -1,0 +1,1 @@
+15. § A közvetítő (a jogi személy nevében eljáró közvetítő esetében a jogi személy) minden tárgyévet követő év január 31. napjáig köteles adatszolgáltatást teljesíteni a miniszter részére a tárgyévben lefolytatott közvetítői eljárások, az eljárások során létrejött megállapodások számáról, az eredménytelenül zárult eljárások számáról (az ok megjelölésével) és a vita jellegéről.
