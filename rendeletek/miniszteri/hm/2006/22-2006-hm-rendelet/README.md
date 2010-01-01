@@ -1,0 +1,9 @@
+# 22/2006. (VIII. 8.) HM rendelet
+
+a Magyar Honvédség élelmezési ellátásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-22-20-15
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2006-22-20-15.6 | 22/2006. (VIII. 8.) HM rendelet |
