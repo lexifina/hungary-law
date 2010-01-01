@@ -1,0 +1,3 @@
+16. § (1) A veszettséggel kapcsolatos, állat-egészségügyi vizsgálatot végző nemzeti referencia laboratórium feladatait ellátó, továbbá a veszettséggel kapcsolatos, állat-egészségügyi vizsgálatot végző laboratóriumo(ka)t az országos főállatorvos jelöli ki az MgSzH Központ javaslata alapján.
+
+(2) Az (1) bekezdés szerint kijelölt laboratórium feladata, hogy a vizsgálat eredményéről a vizsgálati anyagot beküldő állatorvost, embermarás esetén a marás helye szerint illetékes kerületi főállatorvost, továbbá az ÁNTSZ illetékes területi intézetét értesítse, veszettség szempontjából pozitív esetben haladéktalanul, távmásoló útján is.
