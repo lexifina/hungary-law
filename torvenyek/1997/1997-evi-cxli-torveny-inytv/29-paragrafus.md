@@ -1,0 +1,3 @@
+## Jogok bejegyzése és tények feljegyzése alapjául szolgáló okiratok
+
+29. § Jogok bejegyzésének és tények feljegyzésének – ha törvény másként nem rendelkezik – olyan közokirat, teljes bizonyító erejű magánokirat vagy ezeknek a közjegyző által hitelesített másolata (a továbbiakban: okirat) alapján van helye, amely a bejegyzés tárgyát képező jog vagy tény keletkezését, módosulását, illetve megszűnését igazolja, továbbá tartalmazza a bejegyzést, feljegyzést megengedő nyilatkozatot az ingatlan-nyilvántartásban bejegyzett, vagy közbenső szerzőként bejegyezhető jogosult részéről (bejegyzési engedély). A bejegyzési engedélyt a jogosult külön, a bejegyzés alapjául szolgáló okirattal azonos alakisággal rendelkező okiratban is megadhatja.

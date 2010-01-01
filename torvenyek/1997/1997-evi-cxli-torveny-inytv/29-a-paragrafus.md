@@ -1,0 +1,3 @@
+29/A. § (1) Társasházi közös tulajdonba tartozó ingatlan tulajdonjogának átruházásáról szóló szerződés alapján a tulajdonjog-változás az összes tulajdoni hányad legalább négyötödét képviselő tulajdonostársak szerződéses nyilatkozata alapján is bejegyezhető; ebben az esetben a változás átvezetéséhez a többi tulajdonostárs szerződéses nyilatkozata és bejegyzési engedélye nem szükséges.
+
+(2) A tulajdonostársak (1) bekezdés szerinti többségének hiányában az (1) bekezdés rendelkezéseit kell alkalmazni abban az esetben is, ha a szerződéses nyilatkozatot tevő tulajdonostársak az összes tulajdoni hányad legalább kétharmadát képviselik, feltéve, hogy a társasház alapító okirata a társasházi közös tulajdonba tartozó ingatlan ilyen többséggel való átruházását lehetővé teszi.
