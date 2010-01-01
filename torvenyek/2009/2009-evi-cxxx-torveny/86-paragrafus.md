@@ -1,0 +1,1 @@
+86. § A mozgóképről szóló 2004. évi II. törvény 13. §-ának (2) bekezdésében meghatározott gyártási költségvetési értékhatár a 2010. évben magyar filmalkotás esetén 271,0 millió forint, magyar részvételű koprodukciós filmalkotás esetén 509,0 millió forint.

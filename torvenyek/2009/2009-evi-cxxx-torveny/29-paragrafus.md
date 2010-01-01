@@ -1,0 +1,3 @@
+29. § (1) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 4. alcím, 4. jogcím-csoport, 3. Egyéb kiadások jogcím előirányzata – az egészségbiztosítás hatósági felügyeletéről szóló 2006. évi CXVI. törvény 20. §-a (2) bekezdésének a) pontjában foglaltak alapján – tartalmazza az Egészségbiztosítási Felügyeletet megillető felügyeleti díjat.
+
+(2) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 4. alcím, 4. jogcím-csoport, 6. GYED-ben részesülők utáni nyugdíjbiztosítási járulék címen az Ny. Alapnak átadott pénzeszköz jogcím előirányzatból az OEP havonta utalást teljesít az Ny. Alap részére az éves előirányzat havi időarányos mértékének megfelelően a tárgyhó 15. napjáig.
