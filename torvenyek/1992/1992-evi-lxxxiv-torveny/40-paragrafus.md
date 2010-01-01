@@ -1,0 +1,3 @@
+## Záró rendelkezések
+
+40. §
