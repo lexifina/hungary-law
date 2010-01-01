@@ -1,0 +1,1 @@
+## 7. § Az országos éves általános tartalmú adatszolgáltatás során az állami adóhatóság az ország egész területére vonatkozóan, 12 hónapos időtartamra, valamennyi ügylet 4. § szerinti adatait adja át.

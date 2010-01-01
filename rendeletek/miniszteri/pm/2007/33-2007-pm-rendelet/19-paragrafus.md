@@ -1,0 +1,1 @@
+## 18. § A díj az adatszolgáltatást teljesítő állami adóhatóság bevétele. A díjak nyilvántartására és elszámolására a költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló jogszabály előírásait kell alkalmazni.

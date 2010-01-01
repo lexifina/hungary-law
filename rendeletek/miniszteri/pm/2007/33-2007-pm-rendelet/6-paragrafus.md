@@ -1,0 +1,5 @@
+## 5. § A részletes adatszolgáltatás az állami adóhatóság által a visszterhes vagyonszerzési ügyekben tartott helyszíni szemlén felvett adatok alapján történik. Ezen adatszolgáltatás során az állami adóhatóság a 4. §-ban meghatározott adatokon túlmenően – a házszám és helyrajzi szám kivételével – az illetékekkel kapcsolatos ügyiratok kezeléséről, valamint az illetékek kiszabásáról, elszámolásáról és könyveléséről szóló 40/2006. (XII. 25.) PM rendelet (a továbbiakban: illetékkezelési rendelet) 1. számú melléklete szerint nyilvántartott adatokat (a továbbiakban együtt: helyszíni szemlén felvett adatok) is átadja.
+
+6. § (1) A specifikus adatszolgáltatás keretében az állami adóhatóság az illetékkezelési rendelet 1. számú mellékletében foglalt adatokból a kérelmező által megjelölt szempontok szerint, meghatározott időszakra és földrajzi területre vonatkozó adatokat – a házszám és helyrajzi szám kivételével – adja át. A meghatározott földrajzi terület nem lehet szűkebb a 3. § ab), ba) és bb) alpontja szerint meghatározottaknál.
+
+(2) Az (1) bekezdés szerinti adatszolgáltatással érintett időszak legkorábbi kezdő időpontja 2008. január 1.
