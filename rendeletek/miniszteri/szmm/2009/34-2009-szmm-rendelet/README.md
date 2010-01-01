@@ -1,0 +1,9 @@
+# 34/2009. (XII. 30.) SZMM rendelet
+
+az álláskeresési járadék és álláskeresési segély megállapításához szükséges igazolólapról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-34-20-1X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2009-34-20-1X.1 | 34/2009. (XII. 30.) SZMM rendelet |
