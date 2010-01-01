@@ -1,0 +1,1 @@
+Stt.20. § Az egyedi adatok más jogszabályok alkalmazása szempontjából magántitoknak minősülnek. Az ezek védelmére vonatkozó szabályok betartásáért a statisztikai tevékenységet végző, valamint az abban közreműködő személyek felelősek.
