@@ -1,0 +1,5 @@
+53. § (1) A nyilvántartással érintett személyes adatok tekintetében az adatkezelő az Információs Központ.
+
+(2) A kártörténeti nyilvántartásból nem vagy csak részlegesen szolgáltatható adat, ha az arra jogosult az adatszolgáltatást az állam külső és belső biztonsága, így különösen honvédelmi, nemzetbiztonsági, bűnmegelőzési, bűnüldözési érdekből törvény rendelkezése alapján korlátozta vagy megtiltotta. A korlátozásról, tiltásról, illetve azok feloldásáról a nyilvántartó szervet értesíteni kell.
+
+(3) A (2) bekezdésben foglaltakat nem lehet alkalmazni, ha az érintett személy a személyes adatainak kezeléséről kér tájékoztatást. Abban az esetben, ha a büntetőeljárásban eljáró bíróság, ügyészség vagy nyomozó hatóság, a nemzetbiztonsági szolgálat, vagy külön törvény szerint titkos információgyűjtésre felhatalmazott szerv adatigénylése ezt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekre hivatkozással – kifejezetten tartalmazza, a kárnyilvántartó szerv nem tájékoztathatja az érintettet a személyes adataival kapcsolatos adattovábbításról.

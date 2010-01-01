@@ -1,0 +1,1 @@
+60. § A kötelező gépjármű-felelősségbiztosítás 1991. július 1-je előtti rendszeréből származó, a káresemények időpontjában hatályos jogszabályok alapján még nem teljesített állami kötelezettségek teljesítésére a külön jogszabályban foglaltak irányadók.

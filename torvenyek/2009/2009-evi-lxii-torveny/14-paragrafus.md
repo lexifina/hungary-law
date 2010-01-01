@@ -1,0 +1,11 @@
+14. § (1) Ha egy biztosítási eseménnyel kapcsolatban több jogosult megalapozott kártérítési igénye meghaladja a 13. § (1)–(2) bekezdésében meghatározott összeget, akkor a kártérítési igények megtérítése az összes kártérítési igénynek a károkra káreseményenként meghatározott összeghez viszonyított arányában történik.
+
+(2) Ha kártérítésként járadékfizetési kötelezettség áll fenn, a biztosítási összeg felosztásakor a járadék tőkeértékét kell figyelembe venni. Ha a jövőben várható járadékkifizetések tőkeértéke magasabb a szerződésben rögzített biztosítási összegből rendelkezésre álló összegnél, a biztosító a járadékkifizetések tőkeértékét arányosan csökkentve állapítja meg a járadék nagyságát.
+
+(3) Ha a biztosítási esemény folytán az adott kártípusra (dologi, illetve személyi kár) meghatározott káreseményenkénti összeg kimerül, a biztosítási összeg felosztásakor figyelembe nem vett károsult kizárólag akkor érvényesíthet kártérítési igényt, ha azt a biztosító a károsultnak fel nem róható okból hagyta figyelmen kívül. Ebben az esetben a kárt olyan arányban kell az adott kártípusra meghatározott biztosítási összeg újrafelosztásával megtéríteni, amilyen arányban a károsult a biztosítási összeg felosztásakor abból részesülhetett volna.
+
+(4) A (3) bekezdés szerinti eljárást kell követnie a biztosítónak akkor is, ha egy vagy több károsult kártérítési igénye a károsultnak fel nem róható okból a biztosítási összeg felosztását követően jelentkezik, vagy növekszik (pl. egészségi állapot romlása).
+
+(5) Ha a biztosító a figyelembe nem vett károsult kárát az (1)–(4) bekezdésekben foglaltak szerint megtérítette, a biztosítási összeg újrafelosztása miatt jogosult a többi érintett károsulttól a részükre korábban teljesített kárkifizetésből az új kártérítési arányt meghaladó kártérítési összeget visszakövetelni a kifizetést követő 5 éven belül. A biztosító az újrafelosztás lehetőségéről köteles a károsultat a kárrendezés során, az első kárkifizetéssel egyidejűleg írásban tájékoztatni.
+
+(6) Ha egy vagy több károsult kártérítési igénye a biztosítási összeg (1) bekezdésben meghatározottak szerinti felosztásakor figyelembe vetthez képest csökken, abban az esetben a többi károsult a biztosítási összeg újrafelosztásából eredő új kártérítési aránynak megfelelő kártérítésre jogosult.

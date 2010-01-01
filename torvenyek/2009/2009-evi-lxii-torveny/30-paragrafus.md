@@ -1,0 +1,11 @@
+30. § (1) A biztosított köteles a káreseményt – a kárrendezéshez szükséges adatok megadásával és a lényeges körülmények leírásával, valamint a káreseménnyel kapcsolatos hatósági (rendőrségi) eljárást lefolytató szerv megjelölésével – 5 munkanapon belül a biztosítójánál írásban bejelenteni.
+
+(2) Az érvényes biztosítási szerződéssel nem rendelkező üzemben tartó az (1) bekezdésben meghatározottakat 5 munkanapon belül köteles a Kártalanítási Számla kezelőjének bejelenteni.
+
+(3) Köteles a biztosított 5 munkanapon belül bejelenteni azt is, ha a káreseménnyel kapcsolatban ellene peres vagy nemperes eljárás indult. A biztosító jogosult ebben az eljárásban a biztosított képviseletéről gondoskodni.
+
+(4) Az érvényes biztosítási szerződéssel nem rendelkező üzemben tartó a (3) bekezdésben meghatározottakat 5 munkanapon belül köteles a Kártalanítási Számla kezelőjének bejelenteni. A Kártalanítási Számla kezelője jogosult ebben az eljárásban az érvényes biztosítási szerződéssel nem rendelkező üzemben tartó képviseletéről gondoskodni.
+
+(5) Külföldön bekövetkezett káresemény bejelentésének határidejét a hazaérkezés időpontjától kell számítani.
+
+(6) A biztosító, a Nemzeti Iroda, a Kártalanítási Számla kezelője, a kárképviselő és a levelező kérelmére, a kárrendezési eljárás lefolytatása céljából, az eljáró hatóság tájékoztatást nyújt a káreseménnyel kapcsolatos eljárás állásáról, eredményéről, a károsult és a károkozó – 46. § (2) bekezdésének a) pontjában meghatározott – személyes adatairól, a gépjármű hatósági jelzéséről, a biztosító megnevezéséről, a biztosítást igazoló okirat számáról, valamint a káreseménnyel kapcsolatban a konkrét esetre vonatkoztatva a kárigények rendezéséhez szükséges alapvető adatokról.

@@ -1,0 +1,9 @@
+## A kárrendezési megbízott
+
+37. § (1) A Magyar Köztársaság területén székhellyel rendelkező biztosító a (2) bekezdésben meghatározott feladatok ellátására kárrendezési megbízottat jelöl ki.
+
+(2) Ha a zöldkártyarendszer valamely, a károsult lakóhelyétől (székhelyétől) eltérő országában magyarországi telephelyű gépjármű üzemeltetésével kárt okoznak, és a károkozónak a Magyar Köztársaság területén székhellyel rendelkező biztosítójával szemben a más tagállam területén lakóhellyel (székhellyel) rendelkező károsultnak e károk miatt kártérítési igénye keletkezik, a károsult kártérítési igényét lakóhelye (székhelye) szerinti tagállam területén a károkozó biztosítója által kijelölt kárrendezési megbízottjához is benyújthatja. A károsult igényét választása szerint a károkozóval vagy a károkozó biztosítójával szemben közvetlenül is érvényesítheti.
+
+(3) A Magyar Köztársaság területén székhellyel rendelkező biztosító kárrendezési megbízottja a kártérítési igényekkel kapcsolatban köteles összegyűjteni a kárigények rendezéséhez szükséges valamennyi információt, és köteles a kárrendezés elintézéséhez szükséges minden intézkedést megtenni, valamint a kárrendezési eljárást a károsult lakóhelye, illetve székhelye szerinti tagállam hivatalos nyelvén lefolytatni.
+
+(4) Ha – a Magyar Köztársaság területén kívül – a zöldkártyarendszer valamely országában más tagállam területén telephellyel rendelkező gépjármű (nem magyarországi telephelyű gépjármű) üzemeltetésével kárt okoznak, és a Magyar Köztársaság területén lakóhellyel (székhellyel) rendelkező károsultnak e károk miatt a károkozó gépjármű-felelősségbiztosítójával szemben kártérítési igénye keletkezik („szenvedett kár”), kártérítési igényét a károkozó gépjármű-felelősségbiztosítója által Magyarországra kijelölt kárrendezési megbízottjához is benyújthatja. A károsult igényét választása szerint a károkozóval vagy a károkozó gépjármű-felelősségbiztosítójával szemben közvetlenül is érvényesítheti.

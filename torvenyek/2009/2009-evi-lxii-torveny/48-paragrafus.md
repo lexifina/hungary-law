@@ -1,0 +1,3 @@
+48. § (1) A kötvénynyilvántartó szerv negyedévenként köteles a járműnyilvántartás és a kötvénynyilvántartás összevetésével ellenőrizni a biztosítási szerződések érvényességét és összeállítani az érvényes szerződéssel nem rendelkező üzemben tartók adatait tartalmazó listát, majd a 45. § (2) és (3) bekezdésében meghatározott eljárás lefolytatása érdekében az üzemben tartó lakóhelye (székhelye, telephelye) szerinti illetékes jegyző részére továbbítani.
+
+(2) Az (1) bekezdésben meghatározottak szerinti összekapcsolás útján létrejött adatállomány más célra nem használható fel és azt az eljárási feladatok elvégzése után 90 nappal törölni kell.
