@@ -1,0 +1,1 @@
+40. § A radioaktív hulladék végleges elhelyezésével, valamint a kiégett üzemanyag átmeneti tárolásával és végleges elhelyezésével, továbbá a nukleáris létesítmény leszerelésével összefüggő feladatok elvégzéséről a Kormány által kijelölt szerv gondoskodik, mivel ezek megoldása országos érdek.

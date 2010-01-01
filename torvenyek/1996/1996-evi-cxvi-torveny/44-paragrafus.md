@@ -1,0 +1,1 @@
+44. § A rendkívüli esemény elhárításához szükséges – az atomenergia alkalmazójának lehetőségeit meghaladó – intézkedések megtétele a balesetelhárítási és intézkedési tervben meghatározott intézmények, nukleáris veszélyhelyzetben az elhárításért felelős, külön jogszabályban meghatározott hatóságok és szervezetek feladata.

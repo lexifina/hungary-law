@@ -1,0 +1,3 @@
+60. § (1) E törvénynek az atomenergia alkalmazásával kapcsolatos felelősségi és kártérítési szabályait kell alkalmazni azokban az esetekben, amikor a Magyar Köztársaság területén működő valamely nukleáris létesítménnyel kapcsolatos nukleáris baleset következtében az atomkár a Magyar Köztársaság területén vagy olyan bármely más állam területén, illetve egyéb térségekben keletkezik, amelyek tekintetében kártérítésre az engedélyes nemzetközi szerződés alapján köteles.
+
+(2) E törvény nem zárja ki, hogy az (1) bekezdésben említetteken kívül, a viszonosság alapján egyéb esetekben is e törvény rendelkezéseinek alkalmazására kerüljön sor.

@@ -1,0 +1,3 @@
+31. § (1) Az atomenergia alkalmazójának kötelessége megakadályozni, hogy a birtokában lévő radioaktív vagy nukleáris anyaghoz, a felügyelete alatt álló, s az atomenergia alkalmazását szolgáló létesítményhez, berendezéshez illetéktelen személy hozzáférhessen, azok a biztonságos őrzés alól kikerülhessenek, és meg nem engedett célokra felhasználhatók legyenek.
+
+(2) Az atomenergia alkalmazója, ha tudomást szerez arról, hogy radioaktív vagy nukleáris anyag, ionizáló sugárzást létrehozó berendezés illetéktelen személy birtokába került vagy kerülhet, illetve egyéb rendellenességet észlel, köteles azt a rendőrségnek és a nemzetbiztonsági szolgálatoknak haladéktalanul bejelenteni.

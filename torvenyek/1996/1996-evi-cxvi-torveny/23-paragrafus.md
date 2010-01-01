@@ -1,0 +1,1 @@
+23. § A földügyért felelős miniszter látja el a talaj, az élelmiszerlánc-felügyeletért felelős miniszter látja el a növényzet, az állatok, a növényi és az állati eredetű élelmiszertermékek radioaktivitásának ellenőrzését, szakvéleményezését, továbbá az élelmiszerek nemzetközi forgalmazásához szükséges vizsgálatok elvégzésével és az igazolások kiadásával kapcsolatos feladatokat.

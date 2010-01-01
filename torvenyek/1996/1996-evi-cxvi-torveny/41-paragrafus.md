@@ -1,0 +1,1 @@
+41. § A radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának és végleges elhelyezésének, továbbá a nukleáris létesítmény leszerelésének költsége az engedélyest, költségvetési intézmény esetén a központi költségvetést terheli.
