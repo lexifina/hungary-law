@@ -1,0 +1,11 @@
+## Az egészségügyi képesítések megszerzését tanúsító oklevelek feltétel nélküli elismerésére irányuló eljárás
+
+1. § (1) A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Etv.) 28. §-ának (1) bekezdése szerinti tagállam (a továbbiakban: tagállam) állampolgára, valamint az Etv. 28. §-ának (2) bekezdése alapján a tagállam állampolgárával azonos megítélés alá eső személy (a továbbiakban együtt: tagállami állampolgár) által megszerzett, és valamely tagállam arra feljogosított intézménye által kiállított általános orvosi, szakorvosi, fogorvosi, szakfogorvosi, gyógyszerészi, ápolói, valamint szülésznői végzettség megszerzését tanúsító oklevelek feltétel nélkül kerülnek elismerésre, ha
+
+a) az oklevelet az európai közösségi jog hatálya alá tartozó, feltétel nélkül elismerésre kerülő egyes egészségügyi oklevelek, bizonyítványok és a képesítés megszerzéséről szóló egyéb tanúsítványok megnevezéséről és az ezen okiratok birtokosaival azonos jogállású személyek köréről szóló 4/2008. (I. 16.) EüM rendeletben (a továbbiakban: R.) meghatározott időpontot követően megkezdett képzés sikeres teljesítését követően állították ki, ha annak megnevezése megfelel az R. szerinti megnevezésnek, vagy
+
+b) az oklevél az a) pont szerinti feltételeknek nem felel meg, de az oklevelet olyan igazolás kíséri, amely tanúsítja, hogy azt az 1. melléklet szerinti, az európai közösségi jog által meghatározott minimális képzési követelményeknek megfelelő képzés sikeres teljesítését követően állították ki, és az oklevelet a kiállító tagállam úgy tekinti, mint az a) pont szerinti oklevelet, képesítést.
+
+(2)[^1] Az (1) bekezdésben foglaltakon túlmenően feltétel nélkül kerül elismerésre az oklevél abban az esetben is, ha annak kiadására nem az 1. melléklet szerinti, az európai közösségi jog által meghatározott minimális képzési követelményeknek megfelelő képzés sikeres teljesítését követően került sor, de az R. alapján az oklevél valamely tagállam arra hatáskörrel és illetékességgel rendelkező hatósága által kiállított igazolás alapján – a kérelmező tényleges és jogszerű szakmai gyakorlatára figyelemmel – feltétel nélkül elismerendő.
+
+[^1]: Az 1. § (2) bekezdése az 50/2009. (XII. 30.) EüM rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
