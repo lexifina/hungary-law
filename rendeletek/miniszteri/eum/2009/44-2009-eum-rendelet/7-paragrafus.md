@@ -1,0 +1,1 @@
+## „(3) Az (1) bekezdésben fel nem sorolt nem nukleáris létesítmények sugárvédelmi és sugárbiztonsági terveinek elbírálását, a létesítmények létesítésének, valamint üzembe helyezésének engedélyezését a Sugáregészségügyi Decentrumok végzik.”
