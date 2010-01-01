@@ -1,0 +1,1 @@
+6. § A társasháztulajdon földrészletre való feljegyzésének vagy meglevő épületre való bejegyzésének feltétele, hogy az ingatlan-nyilvántartásban feltüntetett jogokat töröljék, vagy az érdekeltek megegyezzenek abban, hogy azok a társasházzá történő átalakítás után mely ingatlanokat fogják terhelni.

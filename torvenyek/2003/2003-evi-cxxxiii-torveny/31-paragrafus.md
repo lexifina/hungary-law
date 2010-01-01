@@ -1,0 +1,1 @@
+31. § A közös képviselő vagy az intézőbizottság elnöke a hátralékos tulajdonostárs külön tulajdonának és a hozzá tartozó közös tulajdoni hányadának jelzáloggal való megterhelését – a közgyűlés összehívása nélkül – akkor rendelheti el, ha erre őt a szervezeti-működési szabályzat felhatalmazza.

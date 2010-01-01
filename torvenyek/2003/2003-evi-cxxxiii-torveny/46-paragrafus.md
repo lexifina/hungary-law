@@ -1,0 +1,3 @@
+46. § (1) A közös képviselő (az intézőbizottság elnöke) a külön tulajdont érintő tulajdonosváltozás esetén – a tulajdonostárs kérésére – köteles írásbeli nyilatkozatot adni a közösköltség-tartozásról. Ha tartozás áll fenn, a nyilatkozatban a hátralék összegét is meg kell jelölni. Az írásbeli nyilatkozat tartalmáért fennálló felelősségre a Ptk. szabályai az irányadóak.
+
+(2) A tulajdonostársnak az ingatlan per-, teher- és igénymentességéről tett szavatossági nyilatkozata a közösköltség-tartozás alól történő mentesség szavatolására kiterjed akkor is, ha a szerződés megkötése során a tartozás fennállásának kérdésében nem kéri a közös képviselő (az intézőbizottság elnöke) e törvényben meghatározott nyilatkozatának megadását.

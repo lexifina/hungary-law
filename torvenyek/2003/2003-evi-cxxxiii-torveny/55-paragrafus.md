@@ -1,0 +1,3 @@
+55. § (1) A hatlakásosnál nagyobb társasház közgyűlése a természetes személy közös képviselő vagy az intézőbizottság elnöke részére előírhatja a társasház-kezelői szakképesítés megszerzését, amennyiben a közös képviselő vagy az intézőbizottság elnöke a tulajdonostársak megbízása alapján, a társasház kezelésével összefüggő feladatokat is ellátja. Az ilyen közgyűlési határozatban rendelkezni kell arról is, hogy a szakképesítés megszerzésével járó költség megfizetése – ha azt a közös képviselő nem vállalja – a tulajdonostársakat terheli.
+
+(2) Az 54. § (1)–(2) bekezdéseiben meghatározott kötelezettség a nem üzletszerű társasházkezelést végző természetes személy közös képviselőre, illetőleg az intézőbizottság elnökére nem vonatkozik.

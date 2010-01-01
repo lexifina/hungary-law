@@ -1,0 +1,1 @@
+Az Országgyűlés a társasháztulajdon létesítése és biztonságos fenntartása, a társasházak szabályszerű, szakszerű és biztonságos működése, valamint a tulajdonosok érdekeinek érvényesítése érdekében a következő törvényt alkotja:
