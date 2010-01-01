@@ -1,0 +1,1 @@
+A közoktatásról szóló – többször módosított – 1993. évi LXXIX. törvény 94. §-a (1) bekezdésének g) pontjában foglalt felhatalmazás alapján, az érettségi vizsga vizsgaszabályzatáról szóló – többször módosított – 100/1997. (VI. 13.) Korm. rendelet (a továbbiakban: vizsgaszabályzat) 63. §-ának (12) bekezdésében foglaltak végrehajtására a következőket rendelem el:
