@@ -1,0 +1,1 @@
+37. § A miniszter az MNB-t előzetesen tájékoztatja a költségvetési javaslatról. Az MNB jogosult ezzel kapcsolatos véleményét a Kormánynak, illetve a költségvetésről szóló törvényjavaslat Országgyűléshez történő benyújtását követően az Országgyűlés illetékes bizottságának is kifejteni.

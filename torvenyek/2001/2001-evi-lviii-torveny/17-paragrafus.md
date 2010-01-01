@@ -1,0 +1,9 @@
+17. § (1) Az MNB a külföldi pénznemben fennálló követeléseinek és kötelezettségeinek a tárgyév utolsó napján érvényes hivatalos árfolyamon történő értékeléséből származó árfolyamnyereséget, illetve árfolyamveszteséget a forint árfolyam kiegyenlítési tartalékába köteles helyezni.
+
+(2) Az MNB a devizában fennálló, értékpapíron alapuló követelések piaci értékelése alapján megállapított különbözetet – a nyitóállomány visszavezetése után – a deviza-értékpapírok kiegyenlítési tartalékába köteles helyezni.
+
+(3) Az (1) és a (2) bekezdésben meghatározott forint árfolyam kiegyenlítési tartalék és deviza-értékpapír kiegyenlítési tartalék az MNB saját tőkéjének része. A kiegyenlítési tartalékok egyenlegei egymással szemben nem számolhatók el.
+
+(4) Amennyiben az (1), illetve a (2) bekezdés szerinti kiegyenlítési tartalékok valamelyike a rendelkezésre álló adatok alapján negatív egyenlegű, akkor a negatív egyenleg mértékéig a tárgyévet követő év március 31-éig a központi költségvetés közvetlenül a megfelelő kiegyenlítési tartalék javára készpénzben térítést nyújt, amit a tárgyévi mérlegben el kell számolni.
+
+(5) Amennyiben az (1), illetve a (2) bekezdés szerinti kiegyenlítési tartalékok valamelyike a végleges adatok alapján – figyelemmel a (4) bekezdés szerinti térítésre is – negatív egyenlegű, akkor a részvényes 46/A. § b) pontjában foglaltak szerint hozott határozatát követő nyolc napon belül a központi költségvetés közvetlenül a megfelelő kiegyenlítési tartalék javára készpénzben térítést nyújt. Ha a (4) bekezdés szerinti térítés meghaladja a végleges adatok alapján megállapított egyenleget, akkor a túlfizetést az MNB a részvényes 46/A. § b) pontjában foglaltak szerint hozott határozatát követő nyolc napon belül a központi költségvetésnek megtéríti a kiegyenlítési tartalék terhére. E tételeket a kifizetések évében kell a mérlegben kimutatni.

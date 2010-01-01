@@ -1,0 +1,3 @@
+34. § (1) Forgalomban lévő törvényes fizetőeszközről utánzatot készíteni vagy készíttetni bármely célra csak az MNB elnökének rendeletében meghatározottak szerint lehet. Az utánzatok előállítása, nyilvántartása, őrzése és megsemmisítése tekintetében az MNB elnökének rendeletében meghatározottak szerint kell eljárni.
+
+(2) Az euro-utánzatokra – ideértve az euro-érmékhez hasonló érmeket és zsetonokat is – vonatkozó előírásokat a szankciókra vonatkozó szabályok kivételével az euro-érmékhez hasonló érmekről és zsetonokról szóló, 2004. december 6-i 2182/2004/EK tanácsi rendelet előírásainak figyelembevételével az MNB elnökének rendelete határozza meg.
