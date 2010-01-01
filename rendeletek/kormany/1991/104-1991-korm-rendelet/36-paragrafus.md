@@ -1,0 +1,1 @@
+36. § A tanyája körüli termőföldre árverező tanyatulajdonost az elővásárlási jog akkor illeti meg, ha a kárpótlási jegyeivel (a megzőgazdasági vállalkozási támogatással) fedezett ajánlata eléri az elhangzott legutolsó ajánlat összegét.

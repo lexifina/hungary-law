@@ -1,0 +1,1 @@
+12. § Egzisztencia Hitel, illetőleg más privatizációs hitel igénylése esetén a kárpótlási jegyet saját erőként csak olyan mértékben kell figyelembe venni, amilyen mértékben (arányban) a saját pénzforrás igazolását a vonatkozó jogszabályok, ennek hiányában pedig az üzletszabályok a hitel elnyerésének feltételéül megkövetelik.

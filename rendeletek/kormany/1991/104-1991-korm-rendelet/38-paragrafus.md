@@ -1,0 +1,1 @@
+38. § A lezárt és a közjegyző által is hitelesített jegyzőkönyv 1—1 példányát az árverés vezetője a lezárást követő nyolc napon belül megküldi a földhivatalnak, a gazdálkodó szervezetnek és az árverésen résztvevő, vételi jognyilatkozatot tevő valamennyi kárpótlásra jogosultnak. A földhivatalhoz küldött jegyzőkönyvhöz mellékelni kell a meghatalmazások eredeti példányát is.

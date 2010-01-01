@@ -1,0 +1,1 @@
+9. § A kárpótlási jegy forgalmazására az egyes értékpapírok nyilvános forgalombahozataláról és forgalmazásáról, valamint az értékpapírtőzsdéről szóló 1990. évi VI. törvény (a továbbiakban: Épt.) IV. részét, a bennfentes kereskedelem korlátozására pedig az Épt. VI. részét és 84. §-át kell alkalmazni.

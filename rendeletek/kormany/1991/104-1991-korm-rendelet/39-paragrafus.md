@@ -1,0 +1,1 @@
+39. § Amennyiben az árverés lezárását követően az árverésre bocsátott nagyüzemi tábla teljes AK mennyiségére nem érkezett ajánlat, a gazdálkodó szervezet tulajdonában maradó AK mennyiségnek megfelelő földterület a megosztást követően ismét árverésre bocsátható.

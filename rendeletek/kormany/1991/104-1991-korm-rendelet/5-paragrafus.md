@@ -1,0 +1,3 @@
+5. § (1) A Tv. 3. §-a (4) bekezdésének alkalmazásában az állami tulajdonba vett üzem (vállalat, vállalkozás) gazdálkodását szolgáló összes vagyontárgyat, így a gazdasági tevékenység folytatásához szükséges, illetőleg e célra szolgáló ingatlant (ingatlanrészt), termelőberendezést és egyéb állóeszközt — ha a tulajdonos személye azonos — egy vagyontárgynak kell tekinteni.
+
+(2) Az (1) bekezdésben említett — több vagyonelemből álló — vagyontárgy esetén a kárpótlás mértéke a jogosult választása szerinti vagyonelemhez kapcsolódó átalányérték [3. számú melléklet a) vagy b) pont] alapján állapítható meg.

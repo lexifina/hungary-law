@@ -1,0 +1,1 @@
+A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény (a továbbiakban: Tv.) 29. §-ában foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
