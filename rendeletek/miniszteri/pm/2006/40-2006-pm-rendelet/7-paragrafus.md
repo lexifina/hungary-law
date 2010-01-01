@@ -1,0 +1,7 @@
+## 6. §[^7] Az állami adóhatóság – a 2. számú melléklet szerinti adattartalommal – a tárgyhónapot követő hó 15. napjáig tájékoztatja a kincstárt és az adópolitikáért felelős miniszter által vezetett minisztériumot a költségvetési törvény szerint a központi költségvetést és az önkormányzatokat megillető tárgyhavi illetékbevételről és az adatszolgáltatással egyidejűleg a 2. számú mellékletnek az 1.1 Megosztandó illeték, valamint a 2. Megosztás elnevezésű táblázatait honlapján közzéteszi.
+
+7. § (1) Az illetéket, amennyiben a visszatérítés jogszabályi feltételei fennállnak, az állami adóhatóság – a (2) bekezdésekben foglaltak kivételével – az Art. adó-visszatérítésre vonatkozó szabályai szerint téríti vissza.
+
+(2) A megrongálódott, tévesen felragasztott, továbbá feleslegessé vált illetékbélyeg értékének visszatérítése az ügyfél kérelme alapján történik. A kérelemhez csatolni kell az illetékbélyeget, illetve azt az iratot, amelyre az illetékbélyeget felragasztották. Ha a visszatérítés Itv. 94. §-ában foglalt feltételei fennállnak, az állami adóhatóság az illetékbélyeget átírással használatra alkalmatlanná teszi.
+
+[^7]: A 6. § a 31/2007. (XII. 21.) PM rendelet 3. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 3. § (5) bekezdése alapján a 2007. évre vonatkozó éves zárási összesítőt a 40/2006. (XII. 25.) PM rendelet 2007. december 31-én hatályos rendelkezései szerint kell elkészíteni.
