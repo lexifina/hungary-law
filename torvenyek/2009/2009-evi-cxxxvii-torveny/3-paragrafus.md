@@ -1,0 +1,1 @@
+3. § Az ORTT a 2010. évi költségvetésének végrehajtásáról az Rttv. 32. § (3) bekezdése szerint beszámolót készít, melyet az Rttv. 77. § (6) bekezdése szerinti – a Műsorszolgáltatási Alap 2010. évi költségvetésének végrehajtásáról szóló beszámolót tartalmazó – melléklettel együtt 2011. május 31-ig terjeszt az Országgyűlés elé.
