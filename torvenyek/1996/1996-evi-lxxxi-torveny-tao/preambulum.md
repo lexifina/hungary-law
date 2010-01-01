@@ -1,0 +1,1 @@
+Az állami feladatok ellátásához szükséges bevételek biztosítása, a vállalkozások kedvező működési feltételeinek elősegítése, továbbá az Európai Közösségekhez való társulásból eredő szempontok érvényesítése érdekében az Országgyűlés a társasági adózás szabályairól a következő törvényt alkotja:

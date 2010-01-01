@@ -1,0 +1,25 @@
+## MÁSODIK RÉSZ
+
+## A TÁRSASÁGI ADÓ
+
+## II. Fejezet
+
+## A társasági adókötelezettség
+
+5. § (1) Az adózót jövedelme után e törvény előírása szerint társasági adókötelezettség terheli. Az adóévben vállalkozási tevékenységet nem folytató egyház társasági adókötelezettségét azzal teljesíti, hogy az adóévre bevallást helyettesítő nyilatkozatot tesz.
+
+(2) A belföldi illetőségű adózó társasági adókötelezettsége a társasági szerződése közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben azon a napon, amelyen az alapítását szabályozó jogszabály szerint létrejön. Az adózó adókötelezettsége azon a napon szűnik meg, amelyen a megszűnését szabályozó jogszabály szerint megszűnik, vagy amely napot követő napon bármely egyéb okból kikerül a társasági adó hatálya alól (ideértve a cégbejegyzés iránti kérelem elutasítását vagy a cégbejegyzési eljárás megszüntetését is).
+
+(3) A külföldi vállalkozó társasági adókötelezettsége a fióktelepének a cégnyilvántartásba történő bejegyzése napján kezdődik, és fióktelepének a cégnyilvántartásból való törlésének a napján szűnik meg. A külföldi vállalkozó adókötelezettsége megszűnik a fióktelepe ellen belföldön vagy – amennyiben az eljárás e fióktelepre is kiterjed – az ellene külföldön indított felszámolási eljárás (annak megfelelő eljárás) kezdő napját megelőző napon. Amennyiben a külföldi vállalkozó cégnyilvántartásba be nem jegyzett telephelye útján végez belföldön vállalkozási tevékenységet, adókötelezettsége a telephely létrejöttét eredményező első jognyilatkozat megtételének napján keletkezik, és a külföldi vállalkozó megszűnésének vagy a telephely megszűnését eredményező jognyilatkozat tételének napján (ideértve azt is, ha a tevékenységet fióktelepen, európai részvénytársaságként vagy európai szövetkezetként folytatja) szűnik meg. A külföldi vállalkozó adókötelezettsége az általa belföldön végzett építkezés esetén az építkezés kezdetének napján kezdődik, ha az építkezés időtartama meghaladja az egyezményben meghatározott időtartamot, illetve (egyezmény hiányában) a három hónapot. Az építkezés folyamatosságát nem befolyásolja, hogy azt a külföldi vállalkozó fióktelepén vagy más telephelyén végzi.
+
+(4) Ha az adózó az adóévre vonatkozó beszámoló készítésére az adóévről készítendő bevallás határidejéig nem kötelezett, a fizetendő adót az adóév utolsó napjára készített könyvviteli zárlat alapján állapítja meg. Ha az adózó az adóévre vonatkozó beszámoló készítésére utólag válik kötelezetté, az utólag készített beszámoló alapján adóévenként – a bevallással érintett adóévben hatályos előírások szerint – megállapítja a tényleges fizetendő adót, valamint ennek és a könyvviteli zárlat alapján bevallott fizetendő adónak a különbözetét.
+
+(5) E törvénynek a jogutódra vonatkozó rendelkezéseit a kiválással (ideértve azt is, ha a társaságtól megváló tag a társasági vagyon egy részével más, már működő társasághoz, mint átvevő társasághoz csatlakozik) létrejövő adózónak, a jogelődre vonatkozó rendelkezéseit kiválás esetén a fennmaradó adózónak is alkalmaznia kell.
+
+(6) Ha a felszámolási eljárás (annak megfelelő eljárás) a cég cégnyilvántartásból való törlése nélkül fejeződik be, az adókötelezettség az eljárás megszűnésének napját követő naptól új adóévként folytatódik.
+
+(7) Az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, a felsőoktatási intézmény, a nonprofit gazdasági társaság és a szociális szövetkezet a közhasznú szervezetre, kiemelkedően közhasznú szervezetre vonatkozó rendelkezéseket először abban az adóévben alkalmazhatja, amely évben ilyen szervezetként besorolást nyert. Az adózó nem alkalmazhatja a közhasznú szervezetre, kiemelkedően közhasznú szervezetre vonatkozó rendelkezéseket – kivéve a törlés napjáig az igazolás kiadását – abban az adóévben, amelyben a közhasznúsági nyilvántartásból törölték. A közhasznú besorolás adóéven belüli változása esetén – kivéve az átsorolás napjáig az igazolás kiadását – az adóév utolsó napján érvényes besorolásnak megfelelő rendelkezéseket kell az adóév egészére alkalmazni.
+
+(8) A társasági adóbevallást magyar nyelven, forintban kell elkészíteni. A beszámolót, könyvvezetést konvertibilis devizában készítő adózó a társasági adóbevallás adatait a Magyar Nemzeti Bank hivatalos – az adóév utolsó napján érvényes – devizaárfolyamának alapulvételével számítja át forintra. Olyan külföldi pénznem esetében, amelynek nincs a Magyar Nemzeti Bank által jegyzett árfolyama, a Magyar Nemzeti Bank által az adóév utolsó napjára vonatkozóan közzétett, euróban megadott árfolyamot kell a forintra történő átszámításkor figyelembe venni. Ugyanígy kell eljárni minden más esetben, ha az átszámításra a számviteli törvény előírása nem vonatkozik.
+
+(9) Az ingatlannal rendelkező társaság tagjának adókötelezettsége az ingatlannal rendelkező társaságban lévő részesedés elidegenítésének, a jegyzett tőke tőkekivonás útján történő leszállításának napján keletkezik.

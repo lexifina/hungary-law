@@ -1,0 +1,65 @@
+1. számú melléklet az 1996. évi LXXXI. törvényhez
+
+Az értékcsökkenési leírás szabályairól
+
+1. Ha a mellékletek ugyanazon eszközre több szabályt, leírási kulcsot is tartalmaznak, akkor az adózót választási lehetőség illeti meg.
+
+2. Az adózó az értékcsökkentési leírást az immateriális jószág, a tárgyi eszköz üzembe helyezése napjától (ideértve jogutód esetén a jogelődtől a vagyonmérleg szerint átvett, a jogelőd által már üzembe helyezett eszköznél az átalakulás napját követő napot is) az állományból való kivezetése (ideértve a forgóeszközök közé való átsorolást, valamint az adózó megszűnését is) napjáig számolja el. Az értékcsökkenési leírást azon napokra arányosan kell meghatározni, amely napokon az eszköz állományban volt.
+
+3. Az adózó az értékcsökkenési leírást az eszköz bekerülési értékére vetítve állapítja meg. A jogutód a jogelőd által már üzembe helyezett eszközre az értékcsökkenési leírást a jogelődnél az átalakulás időpontjában kimutatott bekerülési értékre vetítve is megállapíthatja. Az adózás előtti eredmény csökkentéseként elszámolt értékcsökkenési leírás nem haladhatja meg az eszköznek az adózónál kimutatott bekerülési értékét.
+
+4. Nem számolható el értékcsökkenési leírás azon eszközre, amelyre a számvitelről szóló törvény szerint nem számolható el terv szerinti értékcsökkenés, vagy nem szabad elszámolni terv szerinti értékcsökkenést. Nem kell e rendelkezést figyelembe venni a nulla vagy – a terv szerinti értékcsökkenés elszámolása következtében – a maradványértéknek megfelelő könyv szerinti értékű eszköznél, valamint ha az adózó az eszközre e törvény külön rendelkezése alapján érvényesíti a számvitelről szóló törvény alapján megállapított terven felüli értékcsökkenést, továbbá az épületnél, építménynél. Ha a tárgyi eszközhöz telek is tartozik, a telek bekerülési értékét el kell különíteni.
+
+5. A számvitelről szóló törvény szerint megállapított terv szerinti értékcsökkenés (ideértve az egy összegben elszámolt értékcsökkenési leírást is) érvényesíthető
+
+a) immateriális javaknál és az ingatlanhoz kapcsolódó vagyoni értékű jogoknál, figyelemmel a 13. pont rendelkezésére,
+
+b) a koncesszió keretében megvalósult tárgyi eszközöknél,
+
+c) az ipari park közműnek minősülő – út, víz- és csatornaellátás, energiaellátás, távközlés célját szolgáló – tárgyi eszközeinél,
+
+d) a bányászatban a kizárólag egy bánya célját szolgáló épületek, építmények, speciális gépek, berendezések, felszerelések, a föld alatti bányatérségek és építmények, valamint az ezekhez tartozó speciális gépek és az igénybe vett földterület esetében, valamint a villamosenergia-iparban az atomerőművi technológiai épületek, építmények,
+
+e) a legfeljebb kétszázezer forint bekerülési értékű, valamint a 2. számú melléklet IV. fejezetének a) pontja szerinti 33 százalékos kulcs alá sorolt tárgyi eszközök esetében,
+
+f) tenyészállatok esetében,
+
+g) a kizárólag alapkutatáshoz, alkalmazott kutatáshoz vagy kísérleti fejlesztéshez használt tárgyi eszköz esetében,
+
+h) a közúti személyszállításhoz használt járműveknél.
+
+6. Az 1995. december 31-e után az adózó vagy jogelődje által üzembe helyezett, más által korábban még használatba nem vett, a HR 8401, 8405–8408, 8410–8430, 8432–8447, 8449–8465, 8467, 8468, 8474–8485, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504–8507, 8511–8513, 8530, 8531, 8535–8537, 8539, 8543–8548, 9006, 9405 vtsz.-ok alá tartozó villamos készülékek, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető.
+
+7. A bérbeadó eszközei között kimutatott, bérbe adott épület, építmény és ültetvény esetében 5 százalék, minden egyéb bérbe adott tárgyi eszköz után 30 százalék értékcsökkenési leírást érvényesíthet a bérbeadó.
+
+7/a. A teljes adóévben a szálláshely szolgáltatás és vendéglátás ágba sorolt adózó a tárgyi eszközei között kimutatott és e tevékenységet közvetlenül szolgáló, hosszú élettartamú szerkezetű épület után 3 százalék értékcsökkenési leírást érvényesíthet.
+
+8. Az adózó az általános rendeltetésű számítástechnikai gépek, berendezések (HR 8471 vtsz.-ből) esetében 50 százalék értékcsökkenési leírást érvényesíthet.
+
+8/a. A kizárólag film- és videogyártást szolgáló gépek és berendezések esetében 50 százalék értékcsökkenési leírás érvényesíthető.
+
+9. Az adózó a 2003-ban vagy azt követően beszerzett, előállított, korábban még használatba nem vett, a 2. számú melléklet IV. fejezete szerint a 33 százalékos vagy a 14,5 százalékos kulcs alá tartozó tárgyi eszközök, valamint a 2003-ban vagy azt követően vásárolt, előállított szellemi termékek, kísérleti fejlesztés aktivált értéke esetében 50 százalék értékcsökkenési leírást érvényesíthet.
+
+10. Az adózó a számvitelről szóló törvény alapján megállapított terven felüli értékcsökkenést érvényesítheti az adóév utolsó napján állományban lévő
+
+a) vagyoni értékű jogra, ha az a szerződés módosulása miatt csak korlátozottan, vagy egyáltalán nem érvényesíthető;
+
+b) kísérleti fejlesztés aktivált értékére, ha a befejezett kísérleti fejlesztés révén megvalósuló tevékenységet korlátozzák vagy megszüntetik, illetve az eredménytelen lesz;
+
+c) olyan eszközre (kivéve a beruházást), amelyre a számvitelről szóló törvény szerint nem számolható el terv szerinti értékcsökkenés, vagy nem szabad elszámolni terv szerinti értékcsökkenést;
+
+d) az a)–c) alpontban nem említett szellemi termékre, tárgyi eszközre (ideértve a beruházást is), ha az eszköz megrongálódása elháríthatatlan külső ok miatt következett be.
+
+10/a. Ha az adózó – a 10. pontban foglaltak alapján – az eszköz terven felüli értékcsökkenésének az adóévre megállapított összegét nem érvényesíti adóalapjánál, akkor a terven felüli értékcsökkenés adóévre megállapított, de nem érvényesített összegét az adóévet követő négy adóévben egyenlő részletekben érvényesítheti.
+
+11. A 29/D. § (9) bekezdése alapján érvényesített összeget az adóalapnál elszámolt értékcsökkenési leírásnak kell tekinteni.
+
+12. Az adózás előtti eredmény csökkentéseként elszámolt értékcsökkenési leírásnak kell tekinteni a felszámolási eljárás alatt elszámolt értékcsökkenést, továbbá a tárgyi eszköz beszerzése, előállítása alapján a 7. § (15) bekezdése vagy a 29/D. § (1) bekezdése szerint felhasznált (feloldott) fejlesztési tartalék összegét azzal, hogy az értékcsökkenési leírás az adóév első napjától, illetve a tárgyi eszköz üzembe helyezésének napjától folytatható.
+
+13. A számvitelről szóló 2000. évi C. törvény 3. § (5) bekezdésének 1. c) pontja alapján nyilvántartásba vett üzleti vagy cégérték bekerülési értékének – a nyilvántartásba vételt követő, az adózó részvételével történő egyesülés esetén – az egyesülés napjáig elszámolt terv szerinti értékcsökkenéssel csökkentett összegét az adózás előtti eredmény csökkentéseként elszámolt értékcsökkenési leírásnak kell tekinteni, ha az egyesülés során a megvásárolt társaság az eszközeit nem értékeli át piaci értékre.
+
+14. Az adóév utolsó napján kis- és középvállalkozásnak minősülő adózó a korábban még használatba nem vett, a műszaki gépek, berendezések és a – személygépkocsi kivételével – a járművek között nyilvántartott tárgyi eszköz üzembe helyezése adóévében a bekerülési érték 100 százalékának megfelelő értékcsökkenési leírást érvényesíthet, amennyiben a tárgyi eszközt a jogszabályban megnevezett leghátrányosabb térségek, települések valamelyikében helyezi üzembe. A tárgyi eszköz adózás előtti eredmény csökkentéseként figyelembe vett bekerülési értékének 1 százaléka, jármű esetében 3 százaléka az állami támogatásokra vonatkozó rendelkezések alkalmazásában, ha a beruházás elsődleges mezőgazdasági termelést szolgál, az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásra történő alkalmazásáról szóló 1857/2006/EK rendelet 4. cikkében foglalt támogatásként vehető igénybe, minden más esetben az adózó választása szerint
+
+a) az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, vagy
+
+b) a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak tekintendő.
