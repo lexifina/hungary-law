@@ -1,0 +1,1 @@
+73. § A baleseti járadékkal összefüggő felelősség érvényesítésére a Tny.-nek a nyugellátásokkal kapcsolatos felelősségi szabályait kell alkalmazni azzal, hogy a visszafizetéssel, illetőleg megtérítéssel kapcsolatos feladatokat a nyugdíjbiztosítási igazgatási szerv látja el.

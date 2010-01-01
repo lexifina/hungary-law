@@ -1,0 +1,7 @@
+68/A. § (1) A 67–68. §-ok alapján megtérítésre kötelezett a ténylegesen megállapított és folyósított egészségbiztosítási ellátásért, valamint az egészségbiztosítás keretében igénybe vett, finanszírozott egészségügyi szolgáltatásért felelős. A megtérítés összege nem csökkenthető azért, mert az ellátásban részesülőt egyéb címen is megilletné egészségbiztosítási ellátás.
+
+(2) A 66. § (2)–(6) bekezdése alapján visszafizetésre, megtérítésre kötelezettet a visszafizetésre vagy megtérítésre előírt összeg után az Art.-ben meghatározott késedelmi pótlékkal azonos mértékű kamatfizetési kötelezettség terheli.
+
+(3) A 67–68. §-ok alapján megtérítésre kötelezettet a megtérítésre előírt összeg után kamatfizetési kötelezettség terheli. Nem kell a kamatot megfizetni, ha az érintett az eljárásról való tudomásszerzésével egyidejűleg a felelősségét írásban elismeri, és nyilatkozatát a követelés teljes kiegyenlítéséig fenntartja, továbbá a követelés összegét határidőben megfizeti.
+
+(4) Az egészségbiztosító jogosult a 67–68. §-ok szerinti megtérítési igényt megalapozó eseménnyel kapcsolatban a más hatóságnál, illetve egyéb szervnél indult eljárás során hozott, a megtérítési igény elbírálásához szükséges döntés megismerésére. Biztosítani kell az egészségbiztosító részére, hogy a döntés alapjául szolgáló iratokba betekinthessen és arról másolatot készíthessen. Az egészségbiztosító megkeresésére a kért iratok másolatát az érintett szerv huszonkét munkanapon belül megküldi a megkereső részére.

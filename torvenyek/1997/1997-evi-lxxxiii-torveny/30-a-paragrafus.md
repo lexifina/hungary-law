@@ -1,0 +1,1 @@
+30/A. § Az egészségbiztosító szerződést köthet a gyógyszer forgalomba hozatalára jogosulttal, a gyógyászati segédeszközt forgalomba hozóval, illetve a gyógyászati ellátást nyújtóval az árhoz nyújtott támogatással forgalmazható termék és ellátás áráról, mennyiségéről, minőségi követelményéről, illetve a felek által lényegesnek ítélt egyéb kérdésről.

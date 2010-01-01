@@ -1,0 +1,147 @@
+## Záró rendelkezések
+
+83. § (1) E törvény hatálybaléptetéséről a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény rendelkezik.
+
+(2) Felhatalmazást kap a Kormány
+
+a) a finanszírozási szerződések megkötésére és tartalmára, valamint az egészségügyi szolgáltatások finanszírozására vonatkozó szabályok
+
+b) a keresőképesség elbírálásával kapcsolatos eljárás rendjének,
+
+c) a gyógyszerek, gyógyászati segédeszközök és a gyógyászati ellátások árához nyújtott támogatás, illetve a gyógyászati segédeszközök javítási és kölcsönzési díjához nyújtott támogatás formájának, alapjának, mértékének megállapítására vonatkozó hatásköri és eljárási szabályok,
+
+d) a külföldön történő gyógykezelés feltételeinek és elszámolási rendjének,
+
+e) a beutaló nélkül igénybe vehető szakellátások, a beutalásra jogosult orvosok körének és a beutalási rend,
+
+f) a magánszemély által jogalap nélkül felvett, igénybe vett ellátás visszatérítése, illetve megtérítése iránti követelés mérséklése, elengedése esetén gyakorolható méltányosság szempontjainak, valamint a kirótt kamat, késedelmi pótlék, mulasztási bírság mérséklése, elengedése során gyakorolható méltányosság szempontjainak,
+
+g) az utazási költségekhez nyújtott támogatás mértékének és módjának,
+
+h) gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás jogosulatlan rendelése esetén a támogatással történő rendelésre jogosító, illetőleg a támogatással történő kiszolgáltatásra, forgalmazásra, vagy a gyógyászati ellátás támogatással történő nyújtására jogosító szerződés felfüggesztését, illetve felmondását megalapozó értékhatár,
+
+i) a kizárólag baleseti egészségügyi szolgáltatás igénybevételére jogosultságot megalapozó üzemi balesetek,
+
+j) a szolgálati viszonyban álló személyek, a Magyar Honvédség állományába tartozó személyek, valamint egyes meghatározott tevékenységet végző személyek és a fogvatartottak egészségügyi szolgáltatás igénybevételére vonatkozó szabályainak,
+
+k) a pénzbeli ellátások, továbbá a baleseti ellátások megállapítására és folyósítására vonatkozó részletes szabályok,
+
+l) a kifizetőhellyel nem rendelkező munkáltatóknak a táppénz igénybejelentésével kapcsolatos kötelezettségei, továbbá a kifizetőhelyeknek a terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz, a baleseti táppénz megállapítására, folyósítására és elszámolására vonatkozó feladatai,
+
+m) a foglalkoztatóknak és egyéb szerveknek az egészségbiztosítási ellátások megállapításához szükséges nyilvántartási és adatszolgáltatási feladatainak,
+
+n) az eltartott hozzátartozók jövedelemszámítási szabályainak,
+
+o) a részleges térítési díjak megállapítási módszerének, az egyes díjtételek képzésénél számításba vehető költségelemeknek, valamint a díjak befizetésére és elszámolására vonatkozó szabályoknak, a térítési díjak egészségügyi szolgáltató általi megállapítása szabályainak, illetve egyes ellátások részleges térítési díjának,
+
+p) az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételének, az igényjogosultság igazolásának, valamint a külön jogszabályban meghatározott személyek tekintetében fennálló egészségügyi ellátási rend szabályainak,
+
+q) a szolgáltató teljesítményjelentésére az ártámogatás elszámolására kötött szerződések alapján történő elszámolásra, továbbá a szerződésekkel kapcsolatos egyes bejelentések elektronikus aláírással ellátott formában történő megküldésére vonatkozó részletes szabályok
+
+r) az egészségbiztosítást érintő hatásköri és eljárási szabályok,
+
+s) a gyógyszerek árához nyújtott támogatással igénybe vehető szolgáltatást nyújtók számára folyósítható előleg feltételeinek és folyósítása szabályainak,
+
+t) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelvei, feltételrendszere és részletes szabályai, valamint a már befogadott technológiák körének felülvizsgálatára és módosítására vonatkozó szabályok
+
+u) a gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás támogatással történő rendelésére, illetőleg támogatással történő kiszolgáltatásra, forgalmazásra, egyedi méretvétel alapján történő gyártására és az ilyen eszköz javítására, valamint gyógyászati ellátás támogatással történő nyújtására jogosító szerződésekre vonatkozó szabályok,
+
+v) a 37. § szerinti megtérítésre, visszatérítésre, felfüggesztésre és felmondásra vonatkozó részletes szabályok
+
+w) az egészségügyi ellátás keretében társadalombiztosítási támogatással kiszolgáltatható gyógyászati segédeszközök körének és az ezek kiszolgáltatására jogosult egészségügyi szolgáltatók körének,
+
+x) a gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás árához nyújtott társadalombiztosítási támogatás elszámolására és folyósítására vonatkozó szabályok,
+
+y) az elszámolási nyilatkozattal kapcsolatos részletes szabályok,
+
+z) az Európai Egészségbiztosítási Kártya érvényességi idejének és kibocsátása szabályainak
+
+zs) a várólistára és a betegfogadási listára vonatkozó szabályok
+
+meghatározására.
+
+(3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
+
+a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét, az árukhoz nyújtott támogatás alapját és mértékét, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
+
+b) a társadalombiztosítási támogatással kölcsönözhető gyógyászati segédeszközök körét, valamint a kölcsönzési díjhoz nyújtott támogatás alapját és mértékét,
+
+c) a gyógyszerek és a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának és a támogatás mértéke megállapításának szempontrendszerét, valamint a társadalombiztosítási támogatásba befogadott gyógyszerek hivatalból történő felülvizsgálatának szempontjait,
+
+d) a nagy értékű, országosan nem elterjedt műtéti eljárások, beavatkozások díjtételeit, valamint az aktív fekvőbeteg-szakellátásban a sürgősségi ellátási formák havi fix összegű díjazását,
+
+e) a biztosítottnak a gyógyászati segédeszköz ára után járó támogatás betegségtől függő keretösszegben történő megállapítására vonatkozó szabályokat,
+
+f) az európai egészségbiztosítási kártya, illetve a TAJ-számot igazoló okmány kiadásával kapcsolatos igazgatási szolgáltatásért fizetendő igazgatási szolgáltatási díjak megfizetésére vonatkozó rendelkezéseket,
+
+g) a munkáltató által kezdeményezett, a munkavállaló keresőképtelenségének felülvizsgálatára irányuló külön jogszabály szerinti eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket,
+
+h) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó egyes eljárásokért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket.
+
+(4) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy rendeletben határozza meg
+
+a) a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokat,
+
+b) a szűrővizsgálatok igazolására vonatkozó rendelkezéseket,
+
+c) az egyes főbb betegségcsoportok finanszírozási, vizsgálati és terápiás eljárási rendje, valamint a gyógyszerterápiás ajánlások kidolgozásának, szerkesztésének, valamint az ezeket érintő szakmai egyeztetések lefolytatásának egységes szabályait,
+
+d) a meddőség kezelésére vonatkozó rendelkezéseket,
+
+e) a szanatóriumi ellátásokat,
+
+f) a betegszállításra jogosító kúraszerű kezeléseket,
+
+g) a várólista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének egészségügyi szakmai feltételeit és szabályait, továbbá a várólista adatainak honlapon történő közzétételére vonatkozó szabályait,
+
+h) a beutalás szakmai szabályait,
+
+i) az egyes egészségügyi szolgáltatások körébe tartozó beavatkozásokat,
+
+j) a gyógyászati ellátások körébe tartozó szolgáltatásokat,
+
+k) az egészségügyi szakellátás társadalombiztosítási finanszírozásának körében a határnapon belüli ismételt felvételre vonatkozó összevonási szabály alóli kivételeket, a tételes elszámolás alá eső egyszerhasználatos eszközök és implantátumok jegyzékét; a tételes elszámolás alá eső gyógyszerek jegyzékét és kódját; a J0 ellátási szintű laboratóriumokból jelenthető eljárásokat (OENO); a meghatározott intézeti körben végezhető ellátásokat tartalmazó homogén betegségcsoportokat; az egynapos beavatkozásokat (kivéve 1 éves kor alatt); az aktív fekvőbeteg-ellátási háttér mellett ambuláns formában is nyújtható kúraszerű kezeléseket; a dializálási eljárásokat; és a vérkészítmények térítési díját,
+
+l) a finanszírozás alapjául szolgáló homogén betegségcsoportokat és azok súlyszámértékét,
+
+m) a járóbeteg-szakellátás körébe tartozó beavatkozási csoportokat és azok pontértékét, valamint a járóbeteg-szakellátás egyes tevékenységeinek minimális ellátási idejét,
+
+n) a gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás rendelésének szakmai követelményeit,
+
+o) a kötelező egészségbiztosítás egészségügyi szolgáltatásainak rendelésére vonatkozó szabályokat,
+
+p) az egészségügyi szolgáltatók által kiállított igazolások kiadási rendjét,
+
+q) az anyatejellátásra való jogosultság feltételeit,
+
+r) az anyatejellátás szakmai és közegészségügyi követelményeit,
+
+s) az anyatej társadalombiztosítási támogatás alapjául szolgáló literenkénti árát, valamint a támogatás elszámolási módját,
+
+t) a magyar egészségbiztosítási jogszabályok alapján egészségügyi szolgáltatásra nem jogosult, a Magyar Köztársaság területén tartózkodó személyek betegellátásának szabályait,
+
+u) a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeit,
+
+v) az egyes gyógyászati segédeszközök egészségügyi ellátás keretében történő kiszolgáltatásának szakmai feltételeit,
+
+x) a gondozóintézeti gondozás szakmai szabályait,
+
+z) szenvedélybetegségek esetén a társadalombiztosítási támogatással igénybe vehető rehabilitációs ellátások körét,
+
+zs) az egészségügyi ellátás keretében igénybe vehető egyéb kényelmi szolgáltatásokra vonatkozó részletes szabályokat.
+
+(5) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki az egészségbiztosítási szervet vagy szerveket, valamint a vasutas egészségbiztosítási szervet vagy szerveket.
+
+(6) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy rendeletben határozza meg
+
+a) a (4) bekezdés c) pontja alapján kiadott rendeletben előírt szabályoknak megfelelően a finanszírozási eljárásrendeket,
+
+b) a sürgős szükség körébe tartozó egészségügyi szolgáltatásokat,
+
+c) az orvosi bélyegzők formai és tartalmi elemeire vonatkozó részletes szabályokat,
+
+d) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó eljárás során alkalmazandó szakmai szempontrendszert és szakmapolitikai prioritásokat.
+
+(7)
+
+(8) E törvény a Magyar Köztársaság és az Európai Közösségek, és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban összeegyeztethető szabályozást tartalmaz a Tanács 1978. december 19-i 79/7/EGK irányelvével a férfiakkal és a nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról.

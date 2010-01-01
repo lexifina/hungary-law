@@ -1,0 +1,1 @@
+28. § A Magyarországon nem hozzáférhető gyógyító eljárások más országban való igénybevételéhez a biztosítottaknak – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – az E. Alap terhére támogatás nyújtható. A támogatás rendjét a Kormány rendeletben szabályozza.

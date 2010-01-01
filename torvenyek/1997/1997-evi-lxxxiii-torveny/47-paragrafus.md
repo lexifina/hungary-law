@@ -1,0 +1,15 @@
+47. § (1) A táppénz – a (2) bekezdésben foglaltak kivételével – minden naptári napra jár, ideértve a szabadnapot, a heti pihenőnapot és a munkaszüneti napot is.
+
+(2) Nem jár táppénz
+
+a) a keresőképtelenségnek arra az időtartamára, amelyre a biztosított átlagkeresetre jogosult, illetőleg, amely alatt a biztosítás szünetel, munkavégzési kötelezettség hiányában keresetveszteség nincs, továbbá a betegszabadság lejártát követő szabadnapra és heti pihenőnapra, ha az azt követő munkanapon (munkaszüneti napon) a keresőképtelenség már nem áll fenn,
+
+b) a keresőképtelenségnek arra a tartamára, amelyre a biztosított a teljes keresetét megkapja, illetve, ha a keresetét részben kapja meg, a részben megkapott kereset után,
+
+c) a gyermekgondozási segély folyósításának az idejére, ide nem értve a segély mellett végzett munka alapján járó táppénzt,
+
+d) az előzetes letartóztatás és a szabadságvesztés tartamára.
+
+e) a saját jogú nyugdíj folyósításának időtartamára.
+
+(3) A táppénz folyósítását meg kell szüntetni, ha a jogosult az elrendelt orvosi vizsgálaton elfogadható ok nélkül nem jelent meg, vagy a keresőképesség elbírálását külön jogszabályban foglaltak szerint ellenőrző (fő)orvos vizsgálatához nem járult hozzá. Az ellenőrző (fő)orvos – a kezelő orvos jelenlétében – a keresőképességet a jogosult tartózkodási helyén is ellenőrizheti. A táppénz folyósítását akkor is meg kell szüntetni, ha a táppénzre jogosult a keresőképességét elbíráló orvos utasításait nyilvánvalóan nem tartja be, illetőleg a gyógyulását tudatosan késlelteti.

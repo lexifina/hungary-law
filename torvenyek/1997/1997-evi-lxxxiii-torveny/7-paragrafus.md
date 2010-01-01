@@ -1,0 +1,1 @@
+7. § Azok a személyek, akik az egészségbiztosítás körébe tartozó egyes ellátásokra a Tbj. szerint megállapodást kötöttek, a megállapodás tárgyát képező ellátás tekintetében a Tbj.-ben, illetőleg az e törvényben foglalt kivételekkel a biztosítottal esnek egy tekintet alá.
