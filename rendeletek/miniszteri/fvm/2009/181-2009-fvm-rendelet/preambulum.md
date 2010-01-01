@@ -1,0 +1,1 @@
+A termőföld védelméről szóló 2007. évi CXXIX. törvény 66. § (2) bekezdés g) pontjában kapott felhatalmazás alapján, a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
