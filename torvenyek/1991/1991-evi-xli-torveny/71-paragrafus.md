@@ -1,0 +1,1 @@
+71. § Ha az eljárás alá vont személy vétkessége enyhébb fokú, és a kötelességszegés nem jár, vagy csekély mértékben jár következménnyel, a fegyelmi eljárás lefolytatása és a fegyelmi büntetés kiszabása mellőzhető, de a felmerült költségek viselésére kötelezhető.

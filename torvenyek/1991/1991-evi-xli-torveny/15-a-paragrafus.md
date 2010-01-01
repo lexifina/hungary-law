@@ -1,0 +1,1 @@
+15/A. § A miniszter törvényességi felügyeletet gyakorol a közjegyzői önkormányzati szervek működése felett. A törvényességi felügyelet nem terjed ki olyan ügyre, amelyben bírósági eljárásnak van helye.

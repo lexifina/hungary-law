@@ -1,0 +1,3 @@
+5. § (1) A közjegyző a közreműködését e törvényben említetteken kívül más okból nem tagadhatja meg. A közjegyző közreműködését végzéssel tagadja meg, a végzést írásban kell közölni azzal a féllel, aki a közjegyzőt a közreműködésre felkérte.
+
+(2) A közreműködést kérő fél a végzés felülvizsgálatát kérheti a közjegyző székhelye szerinti megyei bíróságtól. A bíróság a végzést a közigazgatási nemperes eljárás szabályai szerint vizsgálja felül azzal, hogy végzésében a kérelmet elutasítja, vagy a végzést hatályon kívül helyezi és a közjegyzőt az eljárás lefolytatására utasítja. A bíróság határozata ellen felülvizsgálatnak nincs helye.

@@ -1,0 +1,1 @@
+121. § A közjegyzői okirat elkészítésénél aggályos körülménynek kell tekinteni különösen, ha a fél a közjegyzői okiratba olyan rendelkezés felvételét kéri, amely jogvita keletkezéséhez vezethet, vagy amelynek nincs joghatása.

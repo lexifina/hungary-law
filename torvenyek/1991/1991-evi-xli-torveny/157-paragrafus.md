@@ -1,0 +1,1 @@
+157. § A magyar külképviseleti hatóság okirat elkészítésénél és tanúsítvány kiállításánál e törvény szerint jár el. A közreműködés megtagadása, továbbá a kijavítás tárgyában hozott végzés felülvizsgálatát megyei bíróságtól (Fővárosi Bíróságtól) kell kérni; a bíróság eljárására az 5. § (2) bekezdésében foglaltak az irányadóak.

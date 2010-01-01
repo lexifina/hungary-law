@@ -1,0 +1,1 @@
+27. § Közjegyzőhelyettesként a közjegyzői kamara névjegyzékébe azt a kérelmezőt lehet felvenni, aki a 26. § (1) bekezdésének a)–c) pontjában és (2) bekezdésében írt feltételeknek megfelel, jogi szakvizsgával rendelkezik, és igazolja, hogy a kamara területén működő közjegyzővel közjegyzőhelyettesi munkakör betöltésére munkaszerződést kötött.

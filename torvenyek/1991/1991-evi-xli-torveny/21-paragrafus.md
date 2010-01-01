@@ -1,0 +1,3 @@
+21. § (1) A közjegyző a kinevezését követő 3 hónapon belül a Magyar Országos Közjegyzői Kamara elnöke előtt esküt tesz. Ezt megelőzően bemutatja a bélyegzőjét, aláírásmintáját és a hivatali helyiségének a hivatás gyakorlására való alkalmasságát megállapító kamarai igazolást, igazolja továbbá, hogy kötelező felelősségbiztosítást kötött és megszüntette az összeférhetetlenséget [17. § (3) bekezdés h) pont].
+
+(2) Az eskü szövege a következő: ,,Becsületemre és lelkiismeretemre esküszöm, hogy a Magyar Köztársasághoz hű leszek, az Alkotmányt és az alkotmányos jogszabályokat megtartom, a hivatali és magántitkot megőrzöm, és közjegyzői kötelességeimet lelkiismeretesen teljesítem.''

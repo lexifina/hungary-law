@@ -1,0 +1,3 @@
+144. § (1) A 137—143. §-okban nem említett egyéb tények és körülmények, különösen versenytárgyalás, sorsolás tanúsítására a közjegyző akkor jogosult, ha ennek megtörténte vagy elmaradása jogkövetkezménnyel jár, és a tanúsítani kért eljárást a közjegyző jelenlétében folytatták le. A közjegyző az eljárásról jegyzőkönyvet készít.
+
+(2) A közjegyző tényeknek információhordozóra (mikrofilm, mágnesszalag stb.) való felvételét az (1) bekezdés szerint tanúsítja, azzal az eltéréssel, hogy a felvétel után az információhordozót az őrizetébe veszi, és a visszajátszás alkalmával tanúsítja, hogy az információhordozó tartalma a felvett ténnyel megegyező.

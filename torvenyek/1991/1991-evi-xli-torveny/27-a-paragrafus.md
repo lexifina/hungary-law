@@ -1,0 +1,1 @@
+27/A. § (1) A közjegyzőjelölt, valamint a közjegyzőhelyettes nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a közjegyzőjelölt, valamint a közjegyzőhelyettes tekintetében a 17. § (3) bekezdés a)–d) pontjában foglalt körülmény vizsgálata során a 17/A. §, valamint a 22/A. § rendelkezéseit kell megfelelően alkalmazni.
