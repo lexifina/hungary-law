@@ -1,0 +1,3 @@
+## 1. § A személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló 9/1999. (XI. 24.) SZCSM rendelet (a továbbiakban: Ir.) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az 1. számú melléklet szerinti kérelem C részének I. pontját – étkeztetés, házi segítségnyújtás, továbbá az Szt. 115/A. § szerint térítésmentesen biztosítandó ellátások kivételével – valamennyi személyes gondoskodási forma esetében, II. pontját étkeztetés és házi segítségnyújtás esetében, III. pontját – az Szt. 117/B. §-a szerinti vállalás kivételével – idősotthoni ellátás esetében kell kitölteni.”

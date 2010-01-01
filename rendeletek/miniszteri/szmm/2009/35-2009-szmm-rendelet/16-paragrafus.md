@@ -1,0 +1,3 @@
+## 15. § Az R. 39/G. § (1) bekezdése helyébe az alábbi rendelkezés lép:
+
+## „(1) A közösségi pszichiátriai ellátást közösségi gondozó és közösségi koordinátor végzi. Egy közösségi gondozó vagy közösségi koordinátor legfeljebb 25 ellátottról gondoskodhat. A közösségi gondozó vagy közösségi koordinátor további 10 ellátottról gondoskodhat, amennyiben a gondozottak legalább felénél a rehabilitációs folyamat intenzitása nem haladja meg a havi 4 találkozást. Amennyiben a 2. számú melléklet szerint nem kell önálló közösségi koordinátort alkalmazni, a koordinátor feladatait a szolgálat vezetője látja el.”
