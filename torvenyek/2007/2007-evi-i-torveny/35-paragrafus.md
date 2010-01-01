@@ -1,0 +1,1 @@
+35. § Az e törvényben foglalt tartózkodási feltételek fennállását, valamint a bejelentési kötelezettségek teljesítését az eljáró hatóság ellenőrizheti, amennyiben adat merül fel arra nézve, hogy e feltételek nem állnak fenn, vagy az érintett a bejelentési kötelezettségének nem tett eleget.

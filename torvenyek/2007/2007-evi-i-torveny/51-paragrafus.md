@@ -1,0 +1,13 @@
+## A kitoloncolási őrizet
+
+51. § (1) Az eljáró hatóság a kitoloncolás végrehajtásának biztosítása érdekében őrizetbe (a továbbiakban: kitoloncolási őrizet) veszi az EGT-állampolgárt, illetve a családtagot. Kiskorút nem lehet kitoloncolási őrizetbe venni.
+
+(2) A kitoloncolási őrizetet az eljáró hatóság legfeljebb hetvenkét órára rendelheti el, amelyet a kitoloncolási őrizet helye szerint illetékes helyi bíróság a kitoloncolás végrehajtásáig, de legfeljebb harminc napra meghosszabbíthat.
+
+(3) A kitoloncolási őrizetet határozattal kell elrendelni, és a közléssel egyidejűleg végre kell hajtani. A kitoloncolási őrizetet azonnal meg kell szüntetni, ha
+
+a) elrendelésének oka megszűnt,
+
+b) nyilvánvalóvá válik, hogy a kiutasítást nem lehet végrehajtani, vagy
+
+c) az elrendeléstől számított harminc nap eltelt.

@@ -1,0 +1,3 @@
+25. § (1) A harmadik ország állampolgárságával rendelkező családtag köteles az állandó tartózkodási kártya kiállítása iránti kérelmet a tartózkodási kártya érvényességének lejárta előtt benyújtani. Ha a kérelmező a tartózkodási kártya érvényességének lejárta után nyújtja be a kérelmet, és magát kimenteni nem tudja, az állandó tartózkodás jogának fennállását igazolnia kell.
+
+(2) Az eljáró hatóság a kérelem benyújtásáról a benyújtással egyidejűleg igazolást ad ki, amely az állandó tartózkodási kártya kiállításáig tanúsítja a harmadik ország állampolgárságával rendelkező családtag tartózkodási jogát.

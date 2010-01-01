@@ -1,0 +1,1 @@
+Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosított szabad mozgás és tartózkodás joga gyakorlásának biztosítása, valamint a magyar állampolgárok magyar állampolgársággal nem rendelkező családtagjai tekintetében az egyenlő bánásmód megteremtése érdekében a következő törvényt alkotja:

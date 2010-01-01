@@ -1,0 +1,3 @@
+66. § (1) A légi fuvarozót a határforgalmat ellenőrző hatóság közrendvédelmi bírsággal sújtja, amennyiben a légi fuvarozó – a külön jogszabályban meghatározottak szerinti kötelezettségét megszegve – nem szolgáltat adatot azokról az utasokról, akiket nem az Európai Unió valamely tagállamának vagy valamely schengeni államnak a területéről szállít a Magyar Köztársaság területére.
+
+(2) Az (1) bekezdésben foglalt rendelkezéseket kell alkalmazni akkor is, ha a légi fuvarozó hiányos adatokat vagy – az elvárható gondosság tanúsítása hiányában – valótlan adatot továbbít.

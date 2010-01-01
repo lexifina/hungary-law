@@ -1,0 +1,1 @@
+5. § A beutazástól számított három hónapot meg nem haladó tartózkodás joga az EGT-állampolgárt érvényes úti okmány vagy személyazonosító igazolvány, a harmadik ország állampolgárságával rendelkező, jogszerűen beutazó családtagot érvényes úti okmány birtokában megilleti mindaddig, amíg tartózkodása nem jelent indokolatlan terhet a Magyar Köztársaság szociális ellátórendszerére.
