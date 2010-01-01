@@ -1,0 +1,1 @@
+A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81. § (2) bekezdésében kapott felhatalmazás alapján, az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 1. § a) pontja szerinti feladatkörömben eljárva a következőket rendelem el:
