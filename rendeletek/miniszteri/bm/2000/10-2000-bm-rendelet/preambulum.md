@@ -1,0 +1,1 @@
+A szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) 167. §-ának (1) bekezdésében foglalt felhatalmazás alapján – az érintett miniszterekkel egyetértésben – a következőket rendelem el:
