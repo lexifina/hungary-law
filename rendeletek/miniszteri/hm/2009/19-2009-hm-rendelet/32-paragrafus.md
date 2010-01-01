@@ -1,0 +1,13 @@
+32. § (1) A HM rendelkezésű lakást határozatlan időtartamra kell bérbe adni:
+
+a) ha a lakásigény teljesítésére az 5. § (2) bekezdésben meghatározott végleges letelepedés címén kerül sor,
+
+b) ha a bérbeadásra felmondás következtében, vagy megfelelő elhelyezés címén kerül sor,
+
+c) a magánszemélyek közötti lakáscsere esetén a HM rendelkezésű lakásba költöző félnek, ha előző lakását határozatlan időtartamra bérelte,
+
+d) annak, aki a visszaadásra kerülő vagy a korábban térítés nélkül visszaadott HM rendelkezésű lakását határozatlan időtartamra bérelte,
+
+e) annak, aki a honvédelmi szerv által visszavásárolt lakásának a magántulajdon szerzése előtt a bérlője volt.
+
+(2) Az (1) bekezdés b) pontja a honvédelmi szerv állományába tartozó személy esetében nem alkalmazható. Részére a lakást – amennyiben a 9. § (1) bekezdés szerinti kizáró ok nem áll fent – a 30. § (1) bekezdésben foglaltak szerint kell bérbe adni.

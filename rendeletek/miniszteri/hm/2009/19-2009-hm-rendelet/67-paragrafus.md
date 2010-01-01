@@ -1,0 +1,7 @@
+## Jogcím nélküli lakáshasználó elhelyezése
+
+## 67. § A HM rendelkezésű lakás jogcím nélküli használója – a 69. §-ban foglalt kivétellel – e rendelet szerinti megfelelő elhelyezési igényét csak akkor érvényesítheti, ha
+
+a) ő maga vagy házastársa, élettársa vagy saját háztartásában nevelt kiskorú gyermeke (örökbefogadott, mostoha vagy nevelt gyermeke) – beleértve a felsoroltak közös tulajdonát is – ugyanazon a településen nem rendelkezik a 62. § (1) bekezdésben meghatározott, beköltözhető lakás tulajdonjogával vagy
+
+b) önkormányzati, illetőleg állami tulajdonú lakás határozatlan időtartamra vagy a 30. § (1) bekezdés, illetőleg a 31. § (1) bekezdés szerinti feltétel bekövetkezéséig szóló bérleti jogával.

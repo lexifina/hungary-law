@@ -1,0 +1,1 @@
+## 149. § Az önkormányzat által elidegenítésre kijelölt, HM bérlőkijelölési vagy ismételten gyakorolható bérlőkiválasztási jogú lakás és helyiség megvásárlásához adott hozzájárulásban az önkormányzattal közölni kell az 1991. évi XXXIII. törvény 43. §-ában meghatározott vételárhányadra vonatkozó igényt is.

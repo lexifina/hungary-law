@@ -1,0 +1,1 @@
+## 90. § A helyiség nem adható bérbe olyan célra, amely a lakóépületben lakók nyugalmát, a közösségi együttélést zavarja, vagy az általános erkölcsi felfogással ellentétes tevékenységgel jár (kimért szeszes ital forgalmazása, diszkó, jelentős zajjal záró tevékenység, játékautomata üzemeltetése stb.).

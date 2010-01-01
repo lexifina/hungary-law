@@ -1,0 +1,1 @@
+## 203. § A pénzügyi fedezet hiányában nem teljesíthető, a vissza nem térítendő juttatásra vagy a munkáltatói kölcsönre irányuló igényeket az érdemi elbírálás mellett folyamatosan nyilvántartásba kell venni és arról, valamint a teljesítés várható idejéről a kérelmezőt írásban értesíteni kell.

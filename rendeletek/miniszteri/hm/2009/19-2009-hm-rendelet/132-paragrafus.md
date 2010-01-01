@@ -1,0 +1,1 @@
+## 131. § A társasház-alapító okirat tervezetének előkészítésébe a leendő tulajdonostársakat be kell vonni. Az alapító okirat tervezetének meg kell felelni a leendő tulajdonostársak többségi akaratának.

@@ -1,0 +1,1 @@
+## 243. § A helyőrségi és a keretgazda lakásbizottságokat 2010. január 31-ig kell a 229. § rendelkezéseinek megfelelően újjáalakítani. A 17. § szerinti besorolásról a 2010. évre vonatkozóan már az új összetételű bizottságoknak kell döntést hozni.

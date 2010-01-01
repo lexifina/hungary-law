@@ -1,0 +1,3 @@
+63. § (1) Ha a lakásbérlet közös megegyezéssel történő megszüntetésére másik lakás bérbeadása nélkül kerül sor, a bérlő részére kiürítési térítés, másik lakás egyidejű bérbeadása esetén cseretérítés fizethető a 64–66. §-okban meghatározott feltételekkel.
+
+(2) Ha az 1994. január 1-jét megelőzően vásárolt többszörös bérlőkiválasztási jogát a honvédség még nem merítette ki, vagy ha a további bérlőkiválasztást a helyi önkormányzat arra jogosult szerve elismeri, a lakásbérlet közös megegyezéssel történt megszüntetéséről szóló megállapodás alapján fizetett térítést a honvédség a helyi önkormányzatnak visszatéríti. Az 1994. január 1. után szerzett bérlőkiválasztási joggal érintett lakást illető térítés módjára a honvédség és a lakás tulajdonosa közti megállapodás az irányadó.

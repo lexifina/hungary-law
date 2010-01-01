@@ -1,0 +1,5 @@
+## 161. § A Lakástörvény 71. §-ának (1) bekezdése szerinti esetben a bérlő által korábban befizetett lakáshasználatbavételi díjat és díjkülönbözetet a területi lakásgazdálkodási szerv lakhatás-támogatási egységétől kell igényelni. A visszafizetésre a felmondással érintett lakás kiürítésének igazolását követő 8 napon belül kell intézkedni.
+
+162. § (1) A lakás-használatbavételi díj címén fennálló tartozások és a megelőlegezett szociálpolitikai kedvezményeken alapuló kötelezettségek e rendelet hatálybalépése után is fennmaradnak.
+
+(2) A kötelezett kérelmére a tartozás elengedéséről, részletfizetési és halasztási kedvezményről a helyi lakásgazdálkodási szerv javaslatának figyelembevételével a területi lakásgazdálkodási szerv lakhatástámogatási egysége dönt.

@@ -1,0 +1,1 @@
+## 93. § A bérlő és a bérbeadó megállapodhat a helyiség közművesítésében, átépítésében és a használati értékét növelő egyéb építési, szerelési munkák elvégzésében. Ha a munkák elvégzéséhez hatósági engedély szükséges, annak beszerzéséről a bérlő gondoskodik.

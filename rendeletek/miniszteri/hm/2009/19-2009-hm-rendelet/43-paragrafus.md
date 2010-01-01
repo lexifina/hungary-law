@@ -1,0 +1,1 @@
+## 42. § Az állami tulajdonú, HM vagyonkezelői jogú lakás bérlője az épület (lakás) központi berendezéseiben bekövetkező, illetve az azonnali beavatkozást igénylő meghibásodásokat – amennyiben észleli – haladéktalanul köteles bejelenteni a kezelőnek.

@@ -1,0 +1,3 @@
+80. § (1) Az állami tulajdonú, HM vagyonkezelői jogú lakás egy részét a honvédelmi szerv szolgálati (köztisztviselői, közalkalmazotti, munkavállalói) jogviszonyban álló, határozott időtartamú külszolgálatra beosztott bérlője albérletbe adhatja a külszolgálat időtartamára a honvédelmi szervvel szolgálati (köztisztviselői, közalkalmazotti, munkavállalói) jogviszonyban álló személynek, ha a lakása ezen időszak alatt lakatlanul maradna. Az albérletbe adáshoz a helyi lakásgazdálkodási szerv hozzájárulása szükséges.
+
+(2) A hozzájárulás akkor adható meg, ha az albérlő szolgálati vagy munkahelye a lakással azonos településen van, és nem rendelkezik állandó lakóhellyel, vagy lakásigénylését a helyi lakásgazdálkodási szerv az I. besorolási kategóriában tartja nyilván.
