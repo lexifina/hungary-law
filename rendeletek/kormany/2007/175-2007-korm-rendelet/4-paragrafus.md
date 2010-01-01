@@ -1,0 +1,8 @@
+4. § (1)[^10] Az igényjogosult a HM ÁEK ellátására való jogosultságát az ellátás igénybevételekor, sürgős ellátás esetén pedig az ellátást követően köteles igazolni.
+
+(2)[^11] A HM ÁEK igényjogosultja az Ebtv. szerinti területi egészségügyi ellátást is választhatja.
+
+(3) A saját jogú igényjogosult igényjogosultságát a szolgálati igazolvánnyal – közalkalmazotti, köztisztviselői igazolványával (ennek hiányában munkáltatói igazolással), a polgári nemzetbiztonsági szolgálatok állományának tagja a részére rendszeresített igazolvánnyal, a hallgatói állomány diákigazolvánnyal –, a nyugdíjas a nyugdíjas szolgálati igazolványával, a vasutas igényjogosult az igényjogosultságát a vasúti arcképes menetkedvezményi igazolványával vagy munkáltatói igazolással, a korábban honvédelmi, rendvédelmi vagy vasutas szervnél közalkalmazotti vagy köztisztviselői jogviszonyban álló nyugdíjas a volt munkáltató igazolásával és minden esetben – az Ebtv. 29. §-ának (4) bekezdése alapján – a TAJ számát igazoló okmányával igazolja.
+
+[^10]: A 4. § (1) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 4. § (2) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.

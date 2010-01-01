@@ -1,0 +1,23 @@
+## A HM ÁEK SZOLGÁLTATÁSAIRA IGÉNYJOGOSULTAK ÉS JOGOSULTAK[^2]
+
+2. § (1)[^3] A HM ÁEK egészségügyi szolgáltatásaira igényjogosult:
+
+a) az MH személyi állománya és biztosított közeli hozzátartozója, a személyi állományból nyugállományba helyezett és biztosított családtagja, a HM oktatási intézményeibe jelentkező a felvételi alkalmassági vizsgálat tekintetében, a honvédelmi ösztöndíjas hallgató és családi segélyre jogosult biztosított közeli hozzátartozója a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 41/G. §-a szerinti esetben, valamint a tényleges katonai szolgálatot teljesítő önkéntes tartalékos;
+
+b)[^4] a vasutas állomány, a vasutas állomány biztosított közeli hozzátartozói, a volt vasutas biztosított, aki nyugellátásban részesül és biztosított családtagjai, aki vasútegészségügyi gyógyintézetekben való ellátásra korábbi munkáltatója révén jogot szerzett, aki háziorvosául vasútegészségügyben dolgozó – erre feljogosított – orvost választott; továbbá a vasutas szervezeteket felügyelő minisztérium, valamint az irányítása alá tartozó szerveknél foglalkoztatott köztisztviselők, közalkalmazottak és a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény hatálya alá tartozó munkavállaló, ezen személyek biztosított közeli hozzátartozója, valamint ezen személyi állományból nyugállományba helyezett és biztosított családtagja;
+
+c) a rendvédelmi szervek személyi állománya és közeli hozzátartozója, a személyi állományból nyugállományba helyezett és biztosított családtagja, valamint a polgári nemzetbiztonsági szolgálatok állományába, illetve a rendvédelemért felelős miniszterek irányítása alatt álló oktatási intézményekbe jelentkezők a felvételi alkalmassági vizsgálat tekintetében, valamint ezen intézmények hallgatója, tanulója;
+
+d)[^5] a védett személy, az állami vezető, a minisztérium kabinetfőnöke, a kormánybiztos, a törvény alapján állami vezetői juttatásra jogosult személy;
+
+e) azok a természetes személyek, akik részére a honvédelemért felelős miniszter vagy az általa kijelölt személy kivételes méltánylást érdemlő esetekben (így különösen közegészségügyi, nemzetbiztonsági, honvédelmi vagy rendvédelmi érdekből) az igénybevételt engedélyezte;
+
+f) a honvédelemért, a rendvédelemért, illetve a vasúti közlekedésért felelős miniszterek által többségi tulajdonosi jogok alapján irányított gazdasági társaság munkaviszonyban álló alkalmazottai, nyugdíjasai és az alkalmazottak családtagjai.
+
+(2)[^6] A HM ÁEK egészségügyi szolgáltatásaira jogosult továbbá az, akik tekintetében a HM ÁEK területi ellátásra kötelezett.
+
+[^2]: A 2. §-t megelőző cím a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés bevezető szövegrésze a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdésének b) pontja a Magyar Közlöny 2007. évi 96. számában megjelent helyesbítésnek megfelelő szöveg.
+[^5]: A 2. § (1) bekezdés d) pontja a 264/2009. (XI. 27.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdése a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés a)–b) pontja szerint módosított szöveg.
