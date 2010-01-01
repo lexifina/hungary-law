@@ -1,0 +1,3 @@
+32. § Az Ftv. a következő 120/A. §-sal egészül ki:
+
+„120/A. § A költségvetési szervként működő felsőoktatási intézmény vezetője a kiemelt előirányzatok között év közben, saját hatáskörben a feladatellátáshoz szükséges mértékben – a kincstár és a fenntartó egyidejű értesítése mellett – átcsoportosítást hajthat végre.”
