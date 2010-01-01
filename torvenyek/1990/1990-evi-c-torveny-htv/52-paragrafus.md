@@ -1,0 +1,233 @@
+## VII. Fejezet
+
+## Értelmező rendelkezések
+
+52. § E törvény alkalmazásában:
+
+1. önkormányzat illetékességi területe: az önkormányzat közigazgatási határa által behatárolt — bel- és külterületet magában foglaló — térség, amelyre az önkormányzati hatáskör kiterjed,
+
+2. külföldi: az a természetes személy, akinek állandó lakóhelye külföldön van és nem tartózkodik Magyarországon 183 napnál hosszabb időtartamban; továbbá az a jogi személy, gazdálkodó szervezet vagy más személyi egyesülés, amelynek székhelye (központja) külföldön van, ide nem értve a Magyarországon működő telepeit, fiókjait, képviseleteit,
+
+3. vagyoni értékű jog: a kezelői jog, a vagyonkezelői jog, a tartós földhasználat, a haszonélvezet, a használat joga – ideértve a külföldiek ingatlanhasználati jogát is –, a földhasználat és a lakásbérlet,
+
+4. külterület: a település közigazgatási határának belterületén kívül eső földrészlete, ideértve a zártkertet is,
+
+5. építmény: a rendeltetésére, szerkezeti megoldására, anyagára és kiterjedésére tekintet nélkül minden olyan helyhez kötött műszaki alkotás, amely a talaj, a víz vagy azok feletti légtér megváltoztatásával, beépítésével jött létre;
+
+6. épület: az olyan építmény, vagy az építmény azon része, amely a környező külső tértől szerkezeti elemekkel részben vagy egészben mesterségesen kialakított, elválasztott teret alkot és ezzel az állandó vagy időszakos tartózkodás, illetőleg használat feltételeit biztosítja, ideértve az olyan önálló létesítményt is, amely részben vagy teljes belmagasságával a környező csatlakozó terepszint alatt van. Épületrész az épület önálló rendeltetésű, a szabadból vagy az épület közös közlekedőjéből nyíló önálló bejárattal ellátott helyisége vagy helyiség-csoportja, amely a 8., a 20., a 45. és 47. pontokban foglaltak szerint azzal felel meg lakásnak, üdülőnek, kereskedelmi egységnek, egyéb nem lakás céljára szolgáló épületnek, hogy az ingatlan-nyilvántartásban önálló ingatlanként nem szerepel;
+
+7. tulajdonos: az ingatlan tulajdonosa az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban tulajdonosként szerepel. Amennyiben az ingatlan tulajdonjogának átruházására irányuló szerződést az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, a szerző felet kell tulajdonosnak tekinteni. Újonnan létrehozott épület/épületrész tulajdonjogának – a használatbavételi engedély jogerőre emelkedését megelőző – átruházása esetén a szerződés ingatlanügyi hatósághoz történő benyújtását követően a szerző felet a használatbavételi engedély jogerőre emelkedésének időpontjától kell tulajdonosnak tekinteni. Egyéb módon történő tulajdonszerzés esetére a Polgári Törvénykönyv vonatkozó szabályai az irányadók;
+
+8. lakás: a lakások és helyiségek bérletére, valamint elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. §-a 1–6. pontjában foglaltak alapján ilyennek minősülő és az ingatlan-nyilvántartásban lakóház, lakóépület, lakás, kastély, villa, udvarház megnevezéssel nyilvántartott, vagy ilyenként feltüntetésre váró ingatlan;
+
+9. hasznos alapterület: a teljes alapterületnek olyan része, ahol a belmagasság legalább 1,90 m. A teljes alapterületbe a lakáshoz, üdülőhöz tartozó kiegészítő helyiségek, melléképületek, melléképületrészek kivételével valamennyi helyiség összegzett alapterülete, valamint a többszintes lakrészek belső lépcsőjének egy szinten számított vízszintes vetülete is beletartozik. Az épülethez tartozó fedett és három oldalról zárt külső tartózkodók (lodzsa, fedett és oldalt zárt erkélyek), és a fedett terasz, tornác alapterületének 50%-a tartozik a teljes alapterületbe. A lakások esetében a pinceszinten (a csatlakozó terepszint alatt) kialakított helyiségek alapterületének 70%-át kell a teljes alapterületbe számítani;
+
+10. kiegészítő helyiség: a lakáshoz, üdülőhöz tartozó, jellegénél és kialakításánál fogva csak tárolásra alkalmas padlás, pince, ide nem értve a gépjárműtárolót;
+
+11. kistelepülés: a tanya, valamint az a település, ahol az állandó lakosok száma az 500 főt nem haladja meg,
+
+12. építmény megszűnése: ha az épületet lebontják, vagy megsemmisül,
+
+13. korrigált forgalmi érték: az illetékekről szóló törvény alkalmazásával megállapított forgalmi érték 50%-a,
+
+14. nevelési-oktatási intézmény: a közoktatásról szóló 1993. évi LXXIX. törvény 20–23. §-ában, a felsőoktatásról szóló 2005. évi CXXXIX. törvény 18. § (1)–(2) bekezdésében és a szakképzésről szóló 1993. évi LXXVI. törvény 2. §-ában meghatározott intézmény;
+
+15. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog,
+
+16. belterületi földrészlet: épülettel be nem épített minden olyan földterület, amelyet az ingatlan-nyilvántartás belterületként tart nyilván, ide nem értve az ingatlan-nyilvántartásban művelési ág szerint aranykoronaértékkel nyilvántartott és ténylegesen mezőgazdasági művelés alatt álló telket,
+
+17.
+
+18. kommunális beruházás: a közmű (a településekre vagy azok jelentős részére kiterjedő elosztó és vezetékrendszerek és az ezekkel kapcsolatos létesítmények, amelyek a fogyasztók vízellátási — ideértve a belvíz-, a csapadék- és szennyvízelvezetési, tisztítási-, villamos energia, hő-, gázenergia és távbeszélési igényeit elégítik ki), valamint az út és járda építés,
+
+19. korrigált átlagos statisztikai állományi létszám: a Központi Statisztikai Hivatal Útmutató az intézményi munkaügyi statisztika kérdőíve kitöltéséhez című kiadvány 1999. január 1-napján érvényes szabályai szerint éves szinten számított statisztikai állományi létszám, ideértve a saját nevében és saját kockázatára rendszeresen, haszonszerzés céljából vállalkozási tevékenységet folytató magánszemélyt, továbbá azt a tulajdonost, aki vállalkozásában személyes közreműködésre kötelezett, vagy azt mellékszolgáltatásként végzi, valamint a segítő családtagot,
+
+20. üdülő: az ingatlan-nyilvántartásban üdülőként (üdülőépület, hétvégi ház, apartman, nyaraló, csónakház) feltüntetett vagy ilyenként feltüntetésre váró épület;
+
+21. állandó lakos, aki a lakcímbejelentés szabályai szerint nyilvántartásba vett lakóhellyel, tartózkodási hellyel rendelkezik az önkormányzat illetékességi területén,
+
+22. nettó árbevétel:
+
+a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó összegével, feltéve, ha az így elszámolt regisztrációs adó, energiaadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)–j) alpontokban foglalt eltérésekkel,
+
+b) a hitelintézeteknél és pénzügyi vállalkozásoknál: a kapott kamatok és kamatjellegű bevételek csökkentve a fizetett kamatokkal és kamatjellegű ráfordításokkal, növelve az egyéb pénzügyi szolgáltatás bevételeivel, a befektetési szolgáltatások bevételeivel és a nem pénzügyi és befektetési szolgáltatás bevételével. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
+
+c) biztosítóknál: a biztosítástechnikai eredmény növelve a nettó működési költségekkel, a befektetésekből származó biztosítástechnikai ráfordításokkal (csak életbiztosítási ágnál), az egyéb biztosítástechnikai ráfordításokkal, a kapott kamatokkal és kamatjellegű bevételekkel, a biztosítási állományhoz kapcsolódó tárgyi eszközök bevételeivel, a befektetések értékesítésének árfolyamnyereségével és az egyéb befektetési bevételekkel (nem életbiztosítási ágnál), az életbiztosításból allokált befektetési bevétellel, valamint a nem biztosítási tevékenység bevételeivel, valamint csökkentve a Kártalanítási Számlával szemben ráfordításként elszámolt összeggel, a tűzvédelmi hozzájárulásként elszámolt összeggel és a biztosítottaknak visszajuttatandó befektetési eredménnyel. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
+
+d) a költségvetési szerveknél: a vállalkozási tevékenységgel kapcsolatos pénzforgalmi bevétel,
+
+e) befektetési vállalkozásoknál: a befektetési szolgáltatási tevékenység bevételei növelve a nem befektetési szolgáltatási tevékenység bevételeivel, valamint a kapott kamatokkal és kamatjellegű bevételekkel. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
+
+f) az egyházi jogi személynél, valamint az egyház által alapított intézménynél: a könyvvezetési kötelezettségtől függően a vállalkozási tevékenységből származó a) pont alatti nettó árbevétel, vagy pénzforgalmi bevétel,
+
+g) a külföldi székhelyű vállalkozás magyarországi fióktelepénél, valamint a külföldi székhelyű európai részvénytársaság és európai szövetkezet magyarországi telephelyénél, továbbá egyéb más külföldi székhelyű vállalkozás magyarországi telephelyénél: a fióktelep (telephely) számviteli beszámolója (ha a telephelynek számviteli beszámolókészítési kötelezettsége nincs, akkor nyilvántartásai, bizonylatai) alapján kimutatott, az a) pont szerinti, – illetve, ha a külföldi székhelyű vállalkozás a b), c) és e) alpontok valamelyikében említett szervezet, akkor az ott meghatározottak szerinti – nettó árbevétel. Amennyiben a fióktelep (telephely) szerepel a Pénzügyi Szervezetek Állami Felügyelete által a kockázati tőkebefektetésekről, a kockázati tőketársaságokról, valamint a kockázati tőkealapokról szóló törvény előírásai szerint vezetett nyilvántartásban, akkor a j) alpont szerinti nettó árbevétel,
+
+h) a b)–g) és j) alpontokban nem említett szervezetnél (lakásszövetkezet, társasház, alapítvány, társadalmi szervezet, ügyvédi iroda, intézmény stb.) – könyvvezetési kötelezettségtől függően – a vállalkozási tevékenységből származó, az a) pont szerinti nettó árbevétel vagy pénzforgalmi bevétel. Nem minősül vállalkozási tevékenységből származó árbevételnek a társasház és a lakásszövetkezet belső szolgáltatásból származó árbevétele,
+
+i) a magánszemélyek jövedelemadójáról szóló törvény hatálya alá tartozó vállalkozók esetében a tevékenységükkel (termékeladás, szolgáltatás) összefüggésben kapott általános forgalmi adó nélküli készpénz, jóváírás, természetben kapott juttatás, vagy bármilyen vagyoni érték, növelve az árkiegészítéssel és csökkentve a fogyasztási adóval, továbbá az adóhatósággal elszámolt regisztrációs adó összegével, feltéve, ha a regisztrációs adó összege a termék ellenértéke részeként bevételként került kimutatásra,
+
+j) a kockázati tőkebefektetésekről, a kockázati tőketársaságokról, valamint a kockázati tőkealapokról szóló törvény hatálya alá tartozó kockázati tőketársaságoknál és a kockázati tőkealapoknál: az a) pont szerinti nettó árbevétel, valamint a befektetett pénzügyi eszköznek minősülő részvények, részesedések – kockázati tőkebefektetések – eladási árának és könyv szerinti értékének különbözetében keletkezett, a mérlegkészítés időpontjáig pénzügyileg realizált árfolyamnyereség, továbbá az ilyen befektetések után kapott osztalék és részesedés együttes összege,
+
+k)
+
+23. piaci és vásározó kiskereskedelem: piacokon, vásárokon folytatott kicsinybeni, közvetlenül a végső fogyasztónak történő értékesítés,
+
+24. építőipari tevékenység: a Gazdasági Tevékenységek Egységes Osztályozási Rendszere 2008. január 1-jétől hatályos (TEÁOR'08) besorolása szerint a 41–43. ágazatokba sorolt tevékenységek összessége;
+
+25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 7. §-a (1) bekezdésének t) pontjában meghatározott feltételekkel megvalósított alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége, figyelemmel a Tao. tv. 31. §-a (2) bekezdésének c) pontjában foglaltakra;
+
+26. vállalkozó: a gazdasági tevékenységet saját nevében és kockázatára haszonszerzés céljából, üzletszerűen végző
+
+a) a személyi jövedelemadóról szóló törvényben meghatározott egyéni vállalkozó,
+
+b) a személyi jövedelemadóról szóló törvényben meghatározott mezőgazdasági őstermelő, feltéve, hogy őstermelői tevékenységéből származó bevétele az adóévben a 600 000 forintot meghaladja,
+
+c) a jogi személy, ideértve azt is, ha az felszámolás vagy végelszámolás alatt áll,
+
+d) egyéni cég, egyéb szervezet, ideértve azt is, ha azok felszámolás vagy végelszámolás alatt állnak;
+
+27. önkormányzat költségvetése javára megállapított adó: mindazon adók, illetékek, adójellegű kötelezettségek, amelyeknek az önkormányzat költségvetése javára való teljesítését jogszabály írja elő.
+
+28. szálláshely: egész éven át vagy csak időszakosan, üzletszerűen működtetett olyan létesítmény, amely éjszakai elszállásolásra és tartózkodásra szolgál,
+
+29. szállásdíj: a szálláshely általános forgalmi adóval csökkentett ára a kötelező reggeli és egyéb szolgáltatások nélkül,
+
+30. vendégéjszaka: vendégként eltöltött — éjszakát is magában foglaló vagy így elszámolt — legfeljebb 24 óra,
+
+31. telephely: a) az adóalany olyan állandó üzleti létesítménye – függetlenül a használat jogcímétől –, ahol részben vagy egészben iparűzési tevékenységet folytat, azzal, hogy a telephely kifejezés magában foglalja különösen a gyárat, az üzemet, a műhelyt, a raktárt, a bányát, a kőolaj- vagy földgázkutat, a vízkutat, a szélerőművet (szélkereket), az irodát, a fiókot, a képviseletet, a termőföldet, a hasznosított (bérbe vagy lízingbe adott) ingatlant, az ellenszolgáltatás fejében igénybe vehető közutat, vasúti pályát;
+
+b) hang, kép, adat vagy egyéb információ (ideértve a rádió- és televízió programokat is) vezetéken, kábelen, rádión, optikai úton vagy elektromágneses rendszer útján történő továbbítását szolgáló berendezés, amennyiben annak üzemeltetése rendszeres személyes jelenlétet kíván,
+
+c) a villamos energiáról szóló törvény szerinti egyetemes szolgáltató, villamosenergia-kereskedő és villamos energia elosztó hálózati engedélyes, továbbá a földgázellátásról szóló törvény szerinti egyetemes szolgáltató, földgázkereskedő és földgázelosztói engedélyes esetén azon önkormányzat illetékességi területe, ahol villamos energia vagy földgáz értékesítése, illetve a villamos energia vagy földgáz elosztása a végső fogyasztó, a végső felhasználó (a továbbiakban együttesen: a végső fogyasztó) részére történik, feltéve, hogy a villamosenergia-kereskedő, a földgázkereskedő, a villamos energia egyetemes szolgáltató, a földgáz egyetemes szolgáltató, illetve a villamosenergia elosztó hálózati engedélyes, a földgázelosztói engedélyes adóévet megelőző adóévi számviteli törvény szerinti nettó árbevételének legalább 75%-a közvetlenül a végső fogyasztónak történő értékesítésből, illetve a végső fogyasztó számára történő elosztásból származik;
+
+32. idényjellegű tevékenység: az a vállalkozási tevékenység, amelyet a vállalkozó állandó székhellyel, telephellyel az év meghatározott szakához kötötten rendszeresen végez,
+
+33. szociális intézmény: a szociális ellátásokról szóló törvényben meghatározott személyes szociális gondoskodást nyújtó szervezet, vállalkozás,
+
+34. egészségügyi intézmény: minden olyan szervezet, vállalkozás, amely járó- vagy fekvőbeteg-ellátást, megelőző, illetőleg szűrővizsgálatot, diagnosztikai vizsgálatot, gyógyító célú vagy más egészségügyi beavatkozást, utókezelést, rehabilitációt, illetve mentőszolgálatot végez, továbbá a közforgalmi gyógyszertár, fiókgyógyszertár,
+
+35. közszolgáltató szervezet: a Magyar Posta Zrt., a Magyar Rádió Zrt., a Magyar Televízió Zrt., a Duna Televízió Zrt., a Magyar Távirati Iroda Zrt., a Diákhitel Központ Zrt., a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság, továbbá a távfűtés-, a melegvíz-, az ivóvíz-, a csatornaszolgáltatást (a továbbiakban: szolgáltatás) nyújtók – ideértve a víziközmű-társulatot is – feltéve, ha nettó árbevételük legalább 75%-ban közvetlenül a fogyasztók számára történő szolgáltatás nyújtásából származik. Közszolgáltató szervezet továbbá a vasúti pályahálózatot üzemeltető feltéve, ha nettó árbevétele legalább 55%-ban a vasúti pályahálózat működtetéséből származik, valamint a helyi- és helyközi menetrendszerinti tömegközlekedési szolgáltatást nyújtó feltéve, ha nettó árbevétele legalább 55%-ban a tömegközlekedési szolgáltatás nyújtásából származik;
+
+36. eladott áruk beszerzési értéke: a kettős könyvvitelt vezető vállalkozások esetében a vásárolt és változatlan formában eladott anyagoknak, áruknak – a számvitelről szóló törvény szerint az eladott áruk beszerzési értékeként elszámolt – bekerülési (beszerzési) értéke. Az egyszeres könyvvitelt, valamint – a személyi jövedelemadóról szóló törvény hatálya alá tartozó – pénzforgalmi nyilvántartást vezető vállalkozók esetében a tárgyévi árubeszerzésre fordított kiadás, csökkentve a kifizetett árukészlet leltár szerinti záró értékével, növelve a kifizetett árukészlet leltár szerinti nyitó értékével. Csökkenti az eladott áruk beszerzési értékét az az érték, amellyel az adóalany a 37. pont szerint anyagköltségként, a 40. pont szerint közvetített szolgáltatások értékeként nettó árbevételét csökkentette,
+
+37. anyagköltség: a kettős könyvvitelt vezető vállalkozások esetében a vásárolt anyagoknak – a számvitelről szóló törvény szerint – anyagköltségként elszámolt bekerülési (beszerzési) értéke. Az egyszeres könyvvitelt, valamint – a személyi jövedelemadóról szóló törvény hatálya alá tartozó – pénzforgalmi nyilvántartást vezető vállalkozók esetében a tárgyévi anyagbeszerzésre fordított kiadás, csökkentve a kifizetett anyagkészlet leltár szerinti záró értékével, növelve a kifizetett anyagkészlet leltár szerinti nyitó értékével. Csökkenti az anyagköltséget a saját vállalkozásában végzett beruházáshoz felhasznált anyagok bekerülési (beszerzési) értéke, továbbá az az érték, amellyel az adóalany a 36. pont szerint az eladott áruk beszerzési értékeként, a 40. pont szerint a közvetített szolgáltatások értékeként nettó árbevételét csökkentette,
+
+38. anyag, áru: a számvitelről szóló törvény szerinti vásárolt készletekből az anyagok, az áruk,
+
+39. az egyszerűsített vállalkozói adónak a számviteli törvény hatálya alá nem tartozó alanya esetében nettó árbevétel: a 22. pont i) alpontja szerinti nettó árbevétel, eladott áruk beszerzési értéke és anyagköltség: a 36. és a 37. pontokban foglalt, pénzforgalmi nyilvántartást vezető vállalkozókra meghatározott eladott áruk beszerzési értéke és anyagköltség,
+
+40. közvetített szolgáltatások értéke: az adóalany által saját nevében vásárolt és a harmadik személlyel (a megrendelővel) írásban kötött szerződés alapján, a szerződésben rögzített módon részben vagy egészben, de változatlan formában továbbértékesített (továbbszámlázott) szolgáltatás értéke. Közvetített szolgáltatásnál az adóalany vevője és nyújtója is a szolgáltatásnak, az adóalany a vásárolt szolgáltatást részben vagy egészben közvetíti úgy, hogy a megrendelővel kötött szerződésből a közvetítés lehetősége, a számlából a közvetítés ténye, vagyis az, hogy az adóalany nemcsak a saját, hanem az általa vásárolt szolgáltatást is értékesíti változatlan formában, de nem feltétlenül változatlan áron, egyértelműen megállapítható. Ide sorolandó továbbá a közvetített szolgáltatások közé nem tartozó, az adóalany által továbbszámlázott olyan alvállalkozói teljesítés értéke, amelynek végzése során az adóalany mind megrendelőjével, mind alvállalkozójával a Polgári Törvénykönyv (Ptk.) szerinti – írásban kötött – vállalkozási szerződéses kapcsolatban áll. Alvállalkozói teljesítés értékének minősül annak a – közvetített szolgáltatásnak nem minősülő – szolgáltatásnak az ellenértéke is, amelyet az adóalany az általa értékesített új (a használatbavételi engedély jogerőre emelkedését megelőzően vagy azt követően első ízben értékesített) lakás előállításához a Ptk. szerinti, írásban megkötött vállalkozási szerződés alapján vesz igénybe. Az e pont szerinti értékkel az adóalany akkor csökkentheti a nettó árbevételét, ha azzal a 36. pont szerint eladott áruk beszerzési értékeként vagy a 37. pont szerint anyagköltségként vagy a 22. pont a) alpontja szerint jogdíjként nettó árbevételét nem csökkentette;
+
+41. székhely: belföldi szervezet esetében az alapszabályában (alapító okiratában), a cégbejegyzésben (bírósági nyilvántartásban), az egyéni vállalkozó esetében az egyéni vállalkozók nyilvántartásában ekként feltüntetett hely, a magánszemélyek esetében az állandó lakóhely. A külföldi székhelyű vállalkozás magyarországi fióktelepe vonatkozásában a székhely alatt a cégbejegyzésben a fióktelep helyeként megjelölt helyet kell érteni,
+
+42. saját vállalkozásban végzett beruházás: a számviteli törvény szerinti tárgyi eszköznek minősülő eszközök saját vállalkozásban végzett megvalósítása, létesítése, bővítése, rendeltetésének megváltoztatása, átalakítása, élettartamának növelése, eredeti állagának helyreállítását szolgáló felújítása – ide nem értve a tárgyi eszköz folyamatos, zavartalan, biztonságos üzemeltetését szolgáló javítási, karbantartási munkákat, továbbá az erdőnevelési, erdőfenntartási, erdőfelújítási munkákat – akkor is, ha az adóalany kizárólag a beruházás megvalósításához szükséges anyagot biztosítja,
+
+43. építési tilalom: az épített környezet alakításáról és védelméről szóló törvény alapján elrendelt változtatási, telekalakítási, illetőleg építési tilalom,
+
+44. helyi és helyközi menetrendszerinti tömegközlekedés: a díjfizetés ellenében bárki által igénybe vehető menetrendszerinti személyszállító járatokkal lebonyolított közlekedés, ideértve a bel- és külföldi légi közlekedést is.
+
+45. kereskedelmi egység: az ingatlan-nyilvántartási bejegyzés alapján kereskedelmi üzletnek, boltnak, abc-nek, üzletháznak, játékteremnek, csárdának, bisztrónak, borozónak, sörözőnek, büfének, cukrászdának, kávézónak, kávéháznak, teaháznak, fagylaltozónak, étteremnek, vendéglőnek, presszónak, irodának, műteremnek, szállodának, hotelnek, panziónak, fogadónak, motelnek, szállónak, vendégháznak, vadászháznak, rendelőnek, kórháznak, szanatóriumnak, gyógyszertárnak minősülő vagy ilyenként feltüntetésre váró épület, épületrész;
+
+46. szállásépület: az a kereskedelmi egység, mely szálláshely-szolgáltatás nyújtására alkalmas, így különösen az ingatlan-nyilvántartási bejegyzés alapján szállodának, hotelnek, panziónak, fogadónak, motelnek, szállónak, vendégháznak, vadászháznak minősülő vagy ilyenként feltüntetésre váró épület, épületrész;
+
+47. egyéb nem lakás céljára szolgáló épület: az ingatlan-nyilvántartási bejegyzés alapján garázsnak, gépjárműtárolónak, raktárnak, üvegháznak, műhelynek, szerviznek, üzemnek, üzemcsarnoknak, pincének, présháznak, hűtőháznak, gyárnak minősülő vagy ilyenként feltüntetésre váró épület, épületrész, továbbá a melléképület és a melléképületrész;
+
+48. a lakáshoz, üdülőhöz tartozó gépjárműtároló: a lakóépületben lévő épületrész, vagy a lakóépület elhelyezésére szolgáló telken álló épület, amely kialakításánál fogva gépjármű tárolására alkalmas, függetlenül attól, hogy az épület vagy az épületrész az ingatlan-nyilvántartásban önálló ingatlanként szerepel;
+
+49. vagyoni értékű jog jogosítottja: az ingatlanon fennálló vagyoni értékű jog jogosítottja az a személy vagy szervezet, aki/amely az ingatlan-nyilvántartásban a vagyoni értékű jog jogosítottjaként feltüntetésre került. Amennyiben az ingatlant terhelő vagyoni értékű jog alapításáról szóló okiratot az ingatlanügyi hatósághoz benyújtották – melynek tényét az ingatlanügyi hatóság széljegyezte –, az okiratban megjelölt, jogszerzésre feljogosított személyt vagy szervezetet kell a vagyoni értékű jog jogosítottjának tekinteni;
+
+50. melléképület, melléképületrész: a lakás, az üdülő elhelyezésére szolgáló telken lévő és a lakás, üdülő szokásos használatához szükséges, de huzamos emberi tartózkodásra részben és ideiglenesen sem szolgáló, tüzelő, lom, szerszám, kerékpár, babakocsi tárolására szolgáló épület vagy épületrész, ide nem értve a gépjárműtárolót. A többlakásos lakóépületben lévő lakás esetén a lakástulajdonhoz tartozó, 5 m2 hasznos alapterületet meg nem haladó, lomok, szerszámok, tüzelő tárolására szolgáló helyiség, feltéve, hogy az az épületen belül, de a lakástól elkülönítve helyezkedik el, valamint lakóépületben az osztatlan közös tulajdonban lévő közlekedő és tároló-helyiség, akkor, ha azt a tulajdonközösség közösen használja;
+
+51.
+
+52. a lakáshoz tartozó telekhányad: társasház esetén az alapító okiratban ilyenként meghatározott telekhányad, ha a telken több adótárgy (épület, épületrész) áll, akkor a lakáshoz tartozó telekhányad megegyezik azzal az aránnyal, amit a lakás hasznos alapterülete a telken található valamennyi épület, épületrész összes hasznos alapterületében képvisel;
+
+53. az épület (épületrész) adóköteles hasznos alapterülete: az épület, épületrész hasznos alapterülete, csökkentve a 13. § b) és d) pontja szerint adómentes hasznos alapterülettel;
+
+54. a telek adóköteles alapterülete: a telek teljes alapterülete csökkentve az építménnyel lefedett telekrésszel, valamint a 19. § szerint számított adómentes területrésszel;
+
+55–59.
+
+60. lakóépület: olyan épület, amelynek hasznos alapterülete legalább 50 százalékát lakások hasznos alapterülete teszi ki.
+
+61. külföldön létesített telephelyen végzett tevékenységből származó adóalaprész: az iparűzési adóalapnak az része, amely a 3. számú melléklet – tevékenységre leginkább jellemző – 1.1 vagy 1.2 vagy 2.1 pontja alkalmazásával a külföldön létesített telephelyre, telephelyekre jut, azzal, hogy a 3. számú mellékletben említett település, települések kifejezések alatt a külföldön létesített telephelyet, telephelyeket is érteni kell. Ha a vállalkozó adóévet megelőző teljes adóévi adóalapja a 100 millió forintot meghaladja csak a 3. számú melléklet 2.1 pontja szerinti módszer alkalmazható.
+
+## FÜGGELÉK
+
+## Melléket az 1990. évi C. törvény 39. §-ához
+
+A helyi iparűzési adó alapjának megosztása:
+
+1. Az a vállalkozó, akinek a tárgyévet megelőző teljes adóévben az iparűzési adóalapja (a továbbiakban: adóalap) nem haladta meg a 100 millió forintot, a következő 1.1., 1.2. vagy 2.1. pont szerinti adóalap-megosztási módszer valamelyikét köteles alkalmazni.
+
+1.1. Személyi jellegű ráfordítással arányos megosztás módszere
+
+A székhely, telephely(ek) szerinti településekhez (a továbbiakban együtt: települések) tartozó foglalkoztatottak – ideértve a magánszemély vállalkozó [52. § 26. a)–d) pont] esetében önmagát is – után a tárgyévben elszámolt személyi jellegű ráfordítások arányában osztható meg az adóalap. Személyi jellegű ráfordításnak a melléklet alkalmazásában az tekintendő, amit a számvitelről szóló törvény annak minősít, és a társasági adóról és osztalékadóról szóló törvény, illetőleg a személyi jövedelemadóról szóló törvény alapján költségként elszámolható. A magánszemély vállalkozó esetében az önmaga után elszámolt személyi jellegű ráfordítás címén – az említett törvényekben foglaltaktól függetlenül – 500 000 Ft-ot kell figyelembe venni. Ha a nem magánszemély vállalkozó ügyvezetője (a vállalkozónak a társasági szerződésben, az alapító okiratban képviseletére feljogosított magánszemély) után az adóévben személyi jellegű ráfordítás nem merül fel, akkor ezen ügyvezető után 500 000 forintot kell figyelembe venni személyi jellegű ráfordítás címén. A településen kívül változó munkahelyen foglalkoztatott személyek esetében a ráfordítást annál a településnél kell figyelembe venni, ahol ezen személyek tényleges irányítása történik.
+
+A részletszámítás a következő:
+
+a) A vállalkozó összes személyi jellegű ráfordításának összegét 100%-nak véve, meg kell állapítani az egyes településekre eső személyi jellegű ráfordítások százalékos arányát.
+
+b) A vállalkozó adóalapjának olyan százaléka tartozik az egyes településekhez, amilyen arányt az a) pont szerint megállapított százalék képvisel.
+
+1.2. Eszközérték arányos megosztás módszere:
+
+A településekhez tartozó, az adóév folyamán a vállalkozási tevékenységhez használt tárgyi eszközök eszközértékének együttes összege arányában kell az adóalapot megosztani. Tárgyi eszköz mindaz a saját tulajdonú, bérelt, lízingelt eszköz, amely a számvitelről szóló törvény szerint tárgyi eszköz lehet. A 100 ezer forint beszerzési érték alatti tárgyi eszközöket – a használat idejétől függetlenül – csak az aktiválás évében kell figyelembe venni. A tárgyi eszköz értéke (eszközérték) a tárgyi eszköznek az e melléklet szerint figyelembe veendő értéke.
+
+A társasági adóról és az osztalékadóról szóló törvény, illetőleg a személyi jövedelemadóról szóló törvény hatálya alá tartozó vállalkozó egyrészt az említett törvények rendelkezései szerint az adóévben elszámolható értékcsökkenési leírás, a költségként elszámolható bérleti díj, lízing díj összegét veheti eszközérték címén figyelembe, ezen túlmenően azon egyébként a vállalkozás tevékenységéhez használt tárgyi eszközök után, amelyek a költségek között nem szerepelhetnek
+
+– termőföld esetében aranykoronánként 500 forintot;
+
+– telek esetében a beszerzési érték 2%-át
+
+kell eszközértéknek tekinteni.
+
+Ha az eszközérték az előbbiek szerint nem állapítható meg, akkor a számviteli törvény szerinti ingatlanok esetén a beszerzési érték 2%-a, egyéb eszközök esetén a beszerzési érték 10%-a tekintendő eszközértéknek. Ha a nyilvántartásokból a beszerzési érték nem állapítható meg, akkor beszerzési értéknek a társasági adóról és az osztalékadóról szóló törvény szerint megállapított piaci érték tekintendő.
+
+A településen kívül változó munkahelyen hasznosított tárgyi eszközök esetében az eszközértéket annál a településnél kell figyelembe venni, ahol ezek működtetésének tényleges irányítása történik, illetőleg – járműveknél – ahol azt jellemzően tárolják.
+
+A részletszámítás a következő:
+
+a) A vállalkozó összes eszközértékének összegét 100%-nak véve, meg kell állapítani az egyes településekre eső eszközértékek százalékos arányát.
+
+b) A vállalkozó adóalapjának olyan százaléka tartozik az egyes településekhez, amilyen arányt az a) pont szerint megállapított százalék képvisel.
+
+2.1. Az a vállalkozó, akinek a tárgyévet megelőző teljes adóévben az adóalapja meghaladta a 100 millió forintot, köteles a következő adóalap megosztási módszert alkalmazni.
+
+Az adóalap olyan hányadát kell a személyi jellegű ráfordítással arányos megosztás módszerével (1.1. pont) megosztani, amilyen arányt a személyi jellegű ráfordítások összege képvisel a személyi jellegű ráfordítás és eszközérték együttes összegén belül. A fennmaradó adóalap-részre az eszközérték arányos megosztás módszerét (1.2. pont) kell alkalmazni.
+
+A részletszámítás a következő:
+
+a) Az adóalapot két részre – személyi jellegű ráfordítás arányos megosztás módszerével megosztandó és eszközérték arányos megosztás módszerével megosztandó részre – kell osztani. A személyi jellegű ráfordítással arányos megosztás módszerével megosztandó adóalap-rész megállapítása az alábbi képlet szerint történik:
+
+AH = VAa /(VAa+VAb)
+
+ahol
+
+VAa = az 1.1. pont szerinti összes személyi jellegű ráfordítás összege
+
+VAb = az 1.2. pont szerinti összes eszközérték összege
+
+AH = a VAa és VAb együttes összegén belül a VAa hányada.
+
+Az adóalapnak az AH százalékban kifejezett hányadát a személyi jellegű ráfordítás arányában kell a települések között megosztani, az adóalapnak a fennmaradó részét pedig eszközérték arányosan kell a települések között megosztani.
+
+b) Az adott településre eső adóalap egyenlő az adott településre a személyi jellegű ráfordítással arányos megosztási módszerrel kiszámított rész-adóalap, valamint az eszközérték arányos megosztási módszerrel kiszámított rész-adóalap együttes összegével.
+
+2.2. A villamos energiáról szóló törvény szerinti egyetemes szolgáltató, villamosenergia-kereskedő és villamos energia elosztó hálózati engedélyese, továbbá a földgázellátásról szóló törvény szerinti egyetemes szolgáltató, földgázkereskedő és földgázelosztói engedélyes végső fogyasztó részére történő villamos energia, földgáz értékesítése, illetve villamos energia vagy földgáz elosztása esetén – a melléklet 1. és 2.1. pontjában foglaltaktól eltérően – a helyi iparűzési adó alapját [39. § (1) bek.]:
+
+a) egyetemes szolgáltató, villamosenergia- vagy földgázkereskedő esetén az önkormányzat illetékességi területén végső fogyasztó részére eladott villamos energia vagy földgáz értékesítéséből származó számviteli törvény szerinti nettó árbevételnek a villamos energia vagy földgáz végső fogyasztók részére történő értékesítéséből származó összes számviteli törvény szerinti nettó árbevételben képviselt arányában,
+
+b) villamos energia elosztó hálózati engedélyes és földgázelosztói engedélyes esetén az önkormányzat illetékességi területén lévő végső fogyasztó számára továbbított villamos energia vagy földgáz mennyisége és az összes, végső fogyasztónak továbbított villamos energia vagy földgáz mennyisége arányában
+
+kell megosztani a székhely, telephely szerinti önkormányzatok között.
+
+3. Az egyes településekre eső adóalapok együttes összege egyenlő a vállalkozó adóalapjának összegével.
+
+4. Az adóelőleg számításánál ugyanazt a módszert kell alkalmazni, mint az adó számításánál.
+
+5. Az adóalap-megosztásra vonatkozó számításokat – a kerekítés általános szabályai alapulvételével – hat tizedesjegy pontossággal kell elvégezni.
+
+6. A megosztás módszerét, az adóelőleg és adó számításának menetét a vállalkozónak – az adóhatóságok (állami, önkormányzati) által ellenőrizhető módon – írásban rögzítenie kell.
+
+7. Az 1.1, 1.2, 2.1 pontok szerinti megosztási módszerek közül nem lehet azt alkalmazni, amelyik a székhely vagy valamelyik telephely szerinti település esetén nulla forint települési adóalapot eredményezne.
