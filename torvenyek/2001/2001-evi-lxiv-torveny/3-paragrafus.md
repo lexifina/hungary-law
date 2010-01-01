@@ -1,0 +1,1 @@
+3. § A kulturális örökség védelme érdekében a köz- és magáncélú fejlesztéseket – így különösen a terület- és településfejlesztés, terület- és településrendezés, környezet-, természet- és tájvédelem és az ezzel kapcsolatos beruházások tervezését – e védelemmel összhangban kell végezni.

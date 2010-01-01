@@ -1,0 +1,1 @@
+40. § A védetté nyilvánított műemlékkel vagy műemléki jelentőségű területtel közvetlenül határos ingatlanok, a közterületrészek és a közterületrészekkel határos ingatlanok műemléki környezetnek minősülnek. A védetté nyilvánításról szóló rendelet sajátos viszonyok esetén ettől eltérően is kijelölheti a műemléki környezetet.

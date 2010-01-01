@@ -1,0 +1,1 @@
+23/A. § A régészeti örökség védelme és a fejlesztések, beruházások hatékonyabb megvalósítása érdekében a régészeti lelőhelyen kívüli földmunka esetén a régészeti feltárásra a 22. § (3) bekezdésében foglalt követelmények szerinti szerződés köthető.

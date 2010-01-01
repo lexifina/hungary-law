@@ -1,0 +1,1 @@
+16. § A védetté nyilvánított régészeti lelőhelyeket a hatóság a gyűjtőterület szerinti megyei múzeum, a fővárosban a Budapesti Történeti Múzeum (a továbbiakban: illetékes múzeum) közreműködésével rendszeresen ellenőrzi.

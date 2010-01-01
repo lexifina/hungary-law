@@ -1,0 +1,19 @@
+## A hatósági eljárások szabályai
+
+75. § (1)
+
+(2)
+
+(3) Az ügyintézési határidő:
+
+a) ha a hatóság építésügyi hatósági jogkörben, továbbá kulturális javak védetté nyilvánításában jár el, három hónap;
+
+b) az előzetes nyilatkozat, előzetes szakhatósági állásfoglalás, valamint ha a hatóság műemlékhez kapcsolódó örökségvédelmi hatósági jogkörében jár el, két hónap;
+
+c)
+
+d) a 30. § (5) bekezdésében meghatározott esetben a bejelentéstől számított harmincöt munkanap;
+
+e)
+
+f) a hiánypótlási felhívás és a hatósági bizonyítvány kiadása esetén tíz munkanap.

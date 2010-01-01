@@ -1,0 +1,3 @@
+23. § (1) A fejlesztések, beruházások tervezése során a megelőző feltárás teljes költségét, de legalább a teljes bekerülési költség 9 ezrelékét kell költségelőirányzatként biztosítani a feltárás fedezetére, így különösen a régészeti hatástanulmány, próbafeltárás, régészeti megfigyelés, dokumentálás, elsődleges leletkonzerválás, valamint az elsődleges leletfeldolgozás teljes és a leletelhelyezés rendkívüli költségeit. A feltárást végző intézmény köteles a tényleges felhasználásról elszámolni.
+
+(2) A megelőző feltárásokkal kapcsolatban felmerült vitás szakmai kérdésekben a hatóság álláspontja az irányadó.

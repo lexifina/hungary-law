@@ -1,0 +1,1 @@
+25. § A mentő feltárást végző múzeum jogosult a leletmentésre fordított költségeinek megtérítésére, amennyiben az állam nem mond le javára a régészeti leletek tulajdonjogáról. A költségek iránti igényt a hatósághoz kell benyújtani.

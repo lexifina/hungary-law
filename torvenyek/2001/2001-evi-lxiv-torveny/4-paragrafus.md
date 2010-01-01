@@ -1,0 +1,3 @@
+4. § (1) A kulturális örökség a nemzet egészének közös szellemi értékeit hordozza, ezért megóvása mindenkinek kötelessége. Tilos a kulturális örökség védett elemeinek veszélyeztetése, megrongálása, megsemmisítése, meghamisítása, hamisítása.
+
+(2) A kulturális örökség elemeit tudományos módszerekkel kell felkutatni, számba venni, értékelni, az utókor számára megőrizni és hozzáférhetővé tenni.
