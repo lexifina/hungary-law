@@ -1,0 +1,3 @@
+52. § (1) A szerződésállományt átvevő viszontbiztosító vagy biztosító az engedélyező határozat kézhezvételétől, viszontbiztosítók egyesülése esetén a cégbírósági vagy megyei (fővárosi) bírósági nyilvántartásba való bejegyzéstől számított 30 napon belül köteles az átadásról minden érintett szerződő felet írásban értesíteni a szerződéskötés nyelvén. A szerződő fél az értesítés kézhezvételétől számított 30 napon belül az átvevő viszontbiztosítóhoz intézett írásbeli nyilatkozatával a szerződését – 30 napra – felmondhatja.
+
+(2) Viszontbiztosítók egyesülése, beolvadása, szétválása esetén az értesítési kötelezettség és a felmondási jog szempontjából az állományátruházásra vonatkozó szabályokat kell alkalmazni.

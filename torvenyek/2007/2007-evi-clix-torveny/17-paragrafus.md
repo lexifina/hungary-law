@@ -1,0 +1,1 @@
+17. § A harmadik országbeli viszontbiztosító fióktelepe olyan biztosítási ág viszontbiztosításának végzésére kérhet engedélyt, amelyre az alapító külföldi viszontbiztosító a székhely szerinti országban engedéllyel rendelkezik.

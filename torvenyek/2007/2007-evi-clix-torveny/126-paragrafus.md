@@ -1,0 +1,3 @@
+126. § (1) Ha a Magyar Köztársaság területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében tevékenységet végző, másik tagállamban székhellyel rendelkező viszontbiztosító megsérti a Magyar Köztársaság területén hatályos előírásokat, illetve működésében a Felügyelet hiányosságokat észlel, a Felügyelet kötelezi a fióktelepet, illetve a viszontbiztosítót a szabályellenes helyzet megszüntetésére. Egyidejűleg tájékoztatja a székhely szerinti felügyeletet.
+
+(2) Ha a fióktelep, illetve a viszontbiztosító a Felügyelet határozatában foglalt kötelezésnek határidőben nem tesz eleget, a Felügyelet értesíti a székhely szerinti tagállam felügyeleti hatóságát, illetve kezdeményezi a szükséges intézkedések megtételét.

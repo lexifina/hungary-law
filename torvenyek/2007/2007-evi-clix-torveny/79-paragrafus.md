@@ -1,0 +1,1 @@
+79. § Azon eszközök esetében, amelyekre a 76. § (2) bekezdése és a 77. § nem állítottak fel korlátokat, a következő alapelv érvényes: a 74. § f) pontja esetében a viszontbiztosító követeléseinek meghatározása során figyelembe kell venni a továbbengedményezést nyújtó minősítését.
