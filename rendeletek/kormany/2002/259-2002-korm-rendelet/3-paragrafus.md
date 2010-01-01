@@ -1,0 +1,50 @@
+## 2/A. §[^9]
+
+## A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység engedélyezése
+
+3. § (1)[^10]
+
+(2)[^11] A működést engedélyező szerv
+
+a)[^12] gyermekjóléti szolgáltatás és gyermekek napközbeni ellátása esetén a szolgáltató (intézmény) székhelye, illetőleg telephelye szerint illetékes, a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Gyár.) mellékletében kijelölt települési, fővárosi kerületi önkormányzat jegyzője (a továbbiakban: városi jegyző),
+
+b) helyettes szülői hálózat, nevelőszülői hálózat, külső férőhelyen biztosított utógondozói ellátás esetén a működtető székhelye szerint illetékes szociális és gyámhivatal,
+
+c) az a)–b) pontban nem szabályozott szolgáltatótevékenység engedélyezése esetén a szolgáltató (intézmény) székhelye, illetőleg telephelye szerint illetékes szociális és gyámhivatal.
+
+(3)[^13] Többféle gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltató (intézmény) számára – ideértve azt az esetet is, ha a szolgáltató (intézmény) egyúttal nevelőszülői hálózat, helyettes szülői hálózat vagy külső férőhelyen biztosított utógondozói ellátás működtetője – egy működési engedélyt kell kiadni. Telephellyel rendelkező szolgáltató (intézmény) esetén az ellátást nyújtó székhelyre és az egyes telephelyekre külön kell működési engedélyt kiadni, és e rendeletnek az intézményre vonatkozó szabályait mind az ellátást nyújtó székhelyre, mind a telephelyekre megfelelően alkalmazni kell.
+
+(4)[^14] Ha a szolgáltató (intézmény) a székhelyén vagy valamelyik telephelyén a gyermekjóléti szolgáltatás, illetve gyermekek napközbeni ellátása mellett gyermekek átmeneti gondozását, gyermekvédelmi szakellátást vagy bentlakásos szociális intézményi ellátást is nyújt – ideértve azt az esetet is, ha helyettes szülői hálózat, nevelőszülői hálózat vagy külső férőhelyen biztosított utógondozói ellátás működtetője –, a szolgáltató (intézmény) ellátást nyújtó székhelye és valamennyi telephelye tekintetében a székhely, telephely szerint illetékes szociális és gyámhivatalok járnak el első fokon.
+
+(5) A különböző formájú, típusú szolgáltató tevékenység engedélyezése esetén a jogszabályi feltételek teljesítését külön kell vizsgálni.
+
+(6)[^15] A fenntartó a működési engedély kiadása, módosítása és visszavonása iránti kérelmet a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) által e célra rendszeresített és a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) és a működést engedélyező szervek honlapján, valamint a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon nyújthatja be. Az adatlap és az elektronikus űrlap adattartalmát az 1. számú melléklet határozza meg.
+
+(7)[^16] A működést engedélyező szerv a működési engedély kiadásáról, módosításáról és visszavonásáról
+
+a)[^17] a határozat jogerőre emelkedésétől, a fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozat meghozatalától, illetve a 14/B. § (6) bekezdése szerinti végzés meghozatalától számított öt munkanapon belül értesíti
+
+aa) az ellátásra köteles helyi önkormányzat jegyzőjét, főjegyzőjét,
+
+ab) az illetékes gyermekjogi képviselőt,
+
+ac) az illetékes módszertani intézményt,
+
+ad) a szolgáltató (intézmény, hálózat működtetőjének) székhelye, telephelye szerint illetékes települési jegyzőt,
+
+ae) helyettes szülői, nevelőszülői hálózat esetén az ellátás helye szerint illetékes szociális és gyámhivatalt,
+
+af) gyermekjóléti szolgáltatás és gyermekek napközbeni ellátása esetén a Gyár. 14. §-a alapján ellenőrzésre jogosult szociális és gyámhivatalt;
+
+b)[^18] szóló jogerős vagy a fellebbezésre való tekintet nélkül végrehajthatóvá nyilvánított határozatát és a 14/B. § (6) bekezdése szerinti végzését közli a Magyar Államkincstár – a normatív állami támogatás ügyében illetékes – regionális igazgatóságával (a továbbiakban: Igazgatóság).
+
+[^9]: A 2/A. §-t a 296/2005. (XII. 23.) Korm. rendelet 22. §-a iktatta be, hatályon kívül helyezte a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés c) pontja. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 3. § (1) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés d) pontja hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^11]: A 3. § (2) bekezdése a 331/2006. (XII. 23.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (2) bekezdés a) pontja a 340/2008. (XII. 30.) Korm. rendelet 25. § (3) bekezdés d) pont da) alpontja szerint módosított szöveg.
+[^13]: A 3. § (3) bekezdését a 331/2006. (XII. 23.) Korm. rendelet 24. § (2) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 234/2009. (X. 20.) Korm. rendelet 4. §-a iktatta be, szövege a 320/2009. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még ez utóbbi módosító rendelet 20. § (6) bekezdését.
+[^14]: A 3. § (4) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 63. § (3) bekezdés e) pontja hatályon kívül helyezte, újonnan a 234/2009. (X. 20.) Korm. rendelet 4. §-a iktatta be, szövege a 320/2009. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^15]: A 3. § (6) bekezdése a 320/2009. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^16]: A 3. § (7) bekezdését a 296/2005. (XII. 23.) Korm. rendelet 23. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 55. §-ával megállapított, a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés c) pont ca) alpontja szerint módosított szöveg. Ez utóbbi módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^17]: A 3. § (7) bekezdés a) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^18]: A 3. § (7) bekezdés b) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.

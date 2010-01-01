@@ -1,0 +1,1 @@
+A Kormány a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 162. §-a (1) bekezdésének i) és l) pontjában, valamint az egyéni vállalkozásról szóló 1990. évi V. törvény 2. §-ának (2) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
