@@ -1,0 +1,3 @@
+23. § (1) A hivatásos katona a jövedelemkiegészítésre jogosultság alapjául szolgáló körülmények megváltozását annak bekövetkeztétől számított 8 napon belül köteles a parancsnoknak bejelenteni. A jövedelemkiegészítés újból megállapított összegét a jogosultság alapjául szolgáló körülmények megváltozásának napjától kell folyósítani, illetve amennyiben a feltételeknek már nem felel meg, a jövedelemkiegészítést ezen időponttal kell megszüntetni.
+
+(2) A jövedelemkiegészítésre jogosultság fennállását a hivatásos katona háromhavonként megfelelő okiratokkal (pl. munkaközvetítő szerv igazolása, munkaszerződés, kifizetési bizonylat) igazolja.
