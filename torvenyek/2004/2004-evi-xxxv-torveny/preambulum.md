@@ -1,0 +1,1 @@
+Az Országgyűlés a készpénz-helyettesítő fizetési módok körének további bővítése érdekében és a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozására tekintettel a következő törvényt alkotja:
