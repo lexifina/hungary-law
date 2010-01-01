@@ -1,0 +1,1 @@
+48. § Azt a személyt, akinek a települési önkormányzat közcélú munkát ajánlott fel, az állami foglalkoztatási szerv küldi el a közcélú foglalkoztatáshoz szükséges foglalkozás-egészségügyi vizsgálatra. A foglalkozás-egészségügyi vizsgálat térítési díját az állami foglalkoztatási szerv téríti meg a vizsgálatot végző szerv részére.

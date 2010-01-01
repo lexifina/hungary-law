@@ -1,0 +1,3 @@
+38. § (1) A munkaadó és egyéb szerv köteles megtéríteni a jogalap nélkül kifizetett ellátást, ha az ellátás jogalap nélküli kifizetése, mulasztásának vagy a valóságtól eltérő adatszolgáltatásnak következménye és az ellátást a 37. § alapján visszakövetelni nem lehet.
+
+(2) Ha az ellátás jogalap nélküli kifizetéséért a munkaadót vagy egyéb szervet és az ellátásra jogosultat is felelősség terheli, a jogalap nélkül felvett ellátást a közrehatásuk arányában kötelesek visszafizetni, illetve megtéríteni. Ha a közreműködés aránya nem állapítható meg, a felelősöket egyenlő arányban kell megtérítésre, illetőleg visszafizetésre kötelezni.

@@ -1,0 +1,13 @@
+## Álláskeresési járadék mértéke
+
+26. § (1) Az álláskeresési járadék összegét az álláskeresőnek az álláskeresővé válását megelőző négy naptári negyedévben elért, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 19. §-ának (3) bekezdésében meghatározott munkaerő-piaci járulék alapja (a továbbiakban: járulékalap) havi átlagos összegének alapulvételével kell kiszámítani.
+
+(2) Ha az álláskereső az álláskeresővé válását megelőző négy naptári negyedévben több munkaadóval állt munkaviszonyban, vagy több vállalkozói tevékenységet is folytatott, vagy munkaviszonyban állt és vállalkozói tevékenységet is folytatott, az álláskeresési járadék összegét valamennyi munkaadónál, illetőleg vállalkozói tevékenysége során elért járulékalap alapulvételével kell az (1) bekezdés szerint kiszámítani.
+
+(3) Megelőző négy naptári negyedévi járulékalap hiányában a járadék számításának alapja a négy naptári negyedévnél rövidebb időszakban elért járulékalap havi átlagos összege. Ha a megelőző négy naptári negyedévben egyáltalán nincs az álláskeresőnek járulékalapja, akkor az álláskeresési járadék megállapításának alapja a jogosultság kezdő napján hatályos kötelező legkisebb munkabér 130 százaléka.
+
+(4) Az egy napra járó álláskeresési járadék számításának alapja az (1) és (3) bekezdésben meghatározott összeg harmincad része.
+
+(5) Az álláskeresési járadék napi összege a folyósítás első szakaszában – amely a folyósítási időtartam feléig, de legfeljebb 91 napig terjed – a (4) bekezdés alapján meghatározott járadékalap 60 százaléka, de legalább az álláskeresési járadékra való jogosultság kezdő napján hatályos kötelező legkisebb munkabér napi összegének 60 százaléka, legfeljebb a jogosultság kezdő napján hatályos kötelező legkisebb munkabér napi összegének 120 százaléka.
+
+(6) Az álláskeresési járadék napi összege a folyósítási időtartam második szakaszában az álláskeresési járadékra való jogosultság kezdő napján hatályos kötelező legkisebb munkabér napi összegének 60 százaléka. Ha a járadék számításánál figyelembe vett összeg nem éri el a minimálbért, akkor mindkét szakaszban az álláskeresési járadék napi összege az (1) és (3)–(4) bekezdés szerint számított összeg 60 százaléka.

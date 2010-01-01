@@ -1,0 +1,11 @@
+56/A. § (1) Rendbírságot köteles fizetni
+
+a) az a munkaadó, munkavállaló, egyéb szerv, illetőleg személy, aki e törvényben, valamint a felhatalmazása alapján hozott jogszabályban, az Mt. 94/D. §-ában és 193/D. §-ának (1) bekezdésében, továbbá közigazgatási határozatban, hatósági szerződésben meghatározott bejelentési [kivéve a 8. § (5) bekezdés b) pontjában, valamint a 36. § (1) bekezdésében meghatározott kötelezettséget], nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem az előírt módon tesz eleget, vagy valótlan adatot szolgáltat;
+
+b) az a felszámoló, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. §-ának (1) bekezdésében meghatározott kötelezettségének nem tesz eleget.
+
+(2) A rendbírság összege 5000 forinttól 500 000 forintig terjedhet. Az (1) bekezdés b) pontjában meghatározott esetben a rendbírságot munkavállalónként kell kiszabni.
+
+(3) A befizetett rendbírság hatvan százaléka a Munkaerőpiaci Alap foglalkoztatási alaprészét növeli, negyven százaléka a rendbírság kiszabására jogosult szerv saját bevétele, amely személyi juttatásokra nem használható fel.
+
+(4) A rendbírság kiszabására, továbbá a törvény végrehajtásához szükséges nyilvántartások vezetésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
