@@ -1,0 +1,11 @@
+## Hegyközségi rendtartási ügyek
+
+40. § (1) A hegyközség a hegyközségi rendtartás (hegyszabályok) keretében meghatározza a célszerű telepítés és művelés, az ültetvények rendje, a szőlőkárosító elleni egységes növényvédelem, a szüretelés, a feldolgozás, valamint a bor helyi sajátosságoknak megfelelő készítése szabályait, továbbá más, a minőségvédelem szempontjából fontosnak ítélt szakmai követelményeket. Ennek során figyelembe kell venni a természet- és tájvédelemre vonatkozó jogszabályokat is. A rendtartásban meg kell határozni a hegyszabályokat sértő cselekmények e törvény szerinti jogkövetkezményeit.
+
+(2) A hegyközségi rendtartás a szőlőkataszteri besorolás alapján borvidéknek és bortermőhelynek minősülő határrészekre (szőlőhegy) kiterjedő hatállyal határozza meg az ingatlanok, az utak, vízelvezető árkok állapotára és növényvédelmére, valamint az ingatlanok rendeltetésszerű használatával kapcsolatos létesítmények karbantartására vonatkozó szabályokat. A rendtartás ezen előírásait a szőlőhegy területébe eső, más művelési ágú külterületi ingatlanok használóinak és az utak kezelőinek is be kell tartaniuk.
+
+(3) Azok a hegyközségek, amelyek működési területéhez egybefüggő szőlőterületek tartoznak, közös hegyközségi rendtartást készítenek. A közös rendtartás elfogadásáról az érdekelt hegyközségek közgyűlései külön határoznak. A rendtartás elfogadásához az összes szavazat többsége szükséges.
+
+(4) Az elfogadott rendtartást meg kell küldeni a hegyközségi tanácsnak, amely kifogást emelhet a rendtartás ellen, ha az törvénysértő, vagy nyilvánvalóan szakszerűtlen rendelkezést tartalmaz. A hegyközségnek a kifogásolt rendelkezést újra kell tárgyalni. A rendtartást – kifogás híján – a hegyközségi tanácsnak történő megküldését követő harminc nap elteltével kell közzétenni. Az a hegyközség, amelynek nincs érvényes rendtartása, a közfeladatok ellátásáért költségtérítésben nem részesülhet.
+
+(5) A rendtartást hirdetményi úton, valamint a helyben szokásos más alkalmas módon is közzé kell tenni, továbbá a hegyközség székhelyén kívül lakó tagoknak meg kell küldeni. A közzététellel egyidejűleg a rendtartást meg kell küldeni a települési önkormányzatnak, valamint a mezőgazdasági igazgatási szervnek is. A rendtartás a hirdetményként való közzététele napját követő harmincadik napon lép hatályba.

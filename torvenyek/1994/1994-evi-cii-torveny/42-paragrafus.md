@@ -1,0 +1,1 @@
+42. § A hegyközség – a jogszabályok keretein belül, a hegyközségi tanács által a borvidék területére meghatározott borszőlőfajták közül – a működési területére kiterjedően meghatározhatja a telepíthető szőlőfajtákat, továbbá fajtánként az egységnyi területen termelhető szőlő, must és bor mennyiségét, valamint a legalacsonyabb szüretelési mustfokot.

@@ -1,0 +1,1 @@
+2. § A törvény személyi hatálya a szőlészeti és borászati termelő-, illetve felvásárló-tevékenységet folytató természetes és jogi személyekre, valamint jogi személyiség nélküli gazdasági társaságokra terjed ki.

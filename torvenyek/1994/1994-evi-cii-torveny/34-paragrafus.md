@@ -1,0 +1,1 @@
+34. § A hegyközségi tanács ülésén tanácskozási joggal részt vesznek: a mezőgazdasági igazgatási szerv, a természetvédelmi hatóság, a borászati hatóság képviselője, továbbá a tanács működési területén lévő szőlészeti, borászati és kertészeti szakoktatási és kutatási intézmények, valamint szakmai érdekképviseleti szervezetek képviselői.

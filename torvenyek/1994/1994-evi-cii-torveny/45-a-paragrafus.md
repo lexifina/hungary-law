@@ -1,0 +1,3 @@
+45/A. § (1) Aki a szőlő, must vagy bor származási bizonyítványát, vagy jogszabályban meghatározott, a hegybíró által kiadandó más igazolását nem a jogszabályban meghatározott határidőig kérelmezi, az okiratokat csak 5000–500 000 forintig terjedő mulasztási bírság megfizetésével kaphatja meg. A hegybíró a bírság kiszabása során figyelembe veszi a késedelem időtartamát, az ügyfél késedelembe esésének gyakoriságát, továbbá származási bizonyítvány esetén a kérelemben foglalt szőlő, illetve bor értékét.
+
+(2) A bírság adók módjára behajtandó köztartozásnak minősül. A beszedett bírság a hegyközséget illeti meg.

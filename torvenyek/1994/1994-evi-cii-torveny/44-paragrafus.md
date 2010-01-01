@@ -1,0 +1,1 @@
+44. § A hegybíró a műveletlenül hagyott ültetvény használóját megfelelő határidő biztosításával felszólítja, hogy a szükséges talaj- és növényvédelmi munkákat végezze el, illetve a szőlőt művelje meg. Ha a felszólítás eredménytelen, a hegybíró a határidő lejártát követő öt munkanapon belül köteles erről tájékoztatni az ingatlanügyi hatóságot.
