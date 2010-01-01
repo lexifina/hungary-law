@@ -1,0 +1,1 @@
+## 11. § Nem folyósítható napidíj annak, aki a kiküldetés teljesítésének helyén – bármilyen címen – térítésmentes természetbeni élelmezési ellátásban részesül. A részben térítésmentes élelmezési ellátás (kötelező szállodai reggeli stb.) esetén a napidíjat reggeli címén 20%-kal, ebéd címén 45%-kal, vacsora címén 35%-kal kell csökkenteni.

@@ -1,0 +1,3 @@
+A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 287. §-a f) pontjában kapott felhatalmazás alapján – figyelemmel a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény (a továbbiakban: Hft.) 41. §-ában és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 2. §-ában foglaltakra – a hivatásos és a honvédségi közalkalmazottak egyes költségtérítéseire a következőket rendelem el:[^1]
+
+[^1]: A preambulum a 18/2005. (V. 5.) HM rendelet 14. §-ának első francia bekezdése szerint módosított szöveg.

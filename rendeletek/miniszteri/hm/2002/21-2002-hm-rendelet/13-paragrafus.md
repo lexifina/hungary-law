@@ -1,0 +1,1 @@
+## 12. § A napidíj megállapítása során a kiküldetés tényleges (indokolt) időtartamát, a 11. § szerinti ellátottságot, illetőleg annak hiányát – a kirendelt írásbeli nyilatkozata alapján – a kiküldetést elrendelő állományilletékes parancsnok a menetlevélen igazolja.
