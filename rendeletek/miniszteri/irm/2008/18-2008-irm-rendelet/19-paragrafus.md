@@ -1,0 +1,1 @@
+## Rendelkezési állományba helyezés
