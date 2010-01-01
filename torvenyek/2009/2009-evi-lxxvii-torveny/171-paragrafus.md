@@ -1,0 +1,9 @@
+171. § Az Eva tv.
+
+a) 11. § (3) bekezdése a) pontjában a „február 15.” szövegrész helyébe a „február 25.” szövegrész lép,
+
+b) 17. §-a (5) bekezdésében a „49/B. §-ának (5), (11), (14) és (16) bekezdését” szövegrész helyébe, a „49/B. §-ának (5), (11), (14), (16) és (22) bekezdését”, valamint a „kisvállalkozások adókedvezményét vette igénybe, vagy fejlesztési tartalékot képzett.” szövegrész helyébe a „kisvállalkozások adókedvezményét vette igénybe, fejlesztési tartalékot képzett vagy a vállalkozói adóalap után 10 százalékos adómértéket alkalmazott.” szövegrész lép,
+
+c) 19. §-a (1) bekezdésében a „16. §-a (1) bekezdésének b) pontjában foglaltakat, ha az adóalanyisága időszaka alatt a Tao. 7. § (15) bekezdése megfelelő alkalmazásával nem terhelné adófizetési kötelezettség, valamint a 16. § (1) bekezdése c) pontjának cf), ch) alpontjában foglaltakat, ha adóalanyisága időszaka alatt a 8. § (1) bekezdése u) és v) pontjai rendelkezéseinek megfelelő alkalmazásával nem terhelné az adózás előtti eredmény növelésének kötelezettsége.” szövegrész helyébe a „8. § (1) bekezdése u) és v) pontjaiban, a 7. § (15) bekezdésében, a 16. §-a (1) bekezdésének b) pontjában, c) pontjának cf), ch) alpontjában és a 19. § (5) bekezdésében foglaltakat, ha adóalanyisága időszaka alatt a Tao. rendelkezéseinek megfelelő alkalmazásával nem terhelné az adózás előtti eredmény növelésének, illetve az adó megfizetésének kötelezettsége.” szövegrész lép,
+
+d) 22. §-a (8) bekezdésében „A kiegészítő tevékenységet folytató egyéni vállalkozó az egészségügyi szolgáltatási járulékot és nyugdíjjárulékot az evaalap 10 százaléka után évente” szövegrész helyébe „A kiegészítő tevékenységet folytató egyéni vállalkozó a Tbj. 19. § (4) bekezdése szerinti egészségügyi szolgáltatási járulékot és az evaalap 10 százaléka után megállapított nyugdíjjárulékot évente,” szövegrész lép.

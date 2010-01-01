@@ -1,0 +1,1 @@
+190. § Az Áfa tv.-nek az Adómód. tv. 3. §-ának (2) bekezdésével és 2. mellékletével megállapított rendelkezéseinek hatálybalépésével egyidejűleg az Áfa tv. 3/A. számú mellékletének az e törvény 53. §-ának (1) bekezdésével és 5. mellékletével megállapított rendelkezései hatályukat vesztik.

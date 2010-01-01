@@ -1,0 +1,1 @@
+192. § Hatályát veszti az Itv. 16. §-a (1) bekezdésének b) pontjában az „, a gazdasági társaság tagját megillető vagyoni betét (üzletrész, szövetkezeti részjegy, befektetői részjegy, átalakított befektetői részjegy)” szövegrész, 74. §-ának (6) bekezdésében az „, az (5) bekezdésben meghatározott” szövegrész, 102. §-a (1) bekezdésének k), o) és p) pontjai.

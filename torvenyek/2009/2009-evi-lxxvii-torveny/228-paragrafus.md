@@ -1,0 +1,1 @@
+228. § Az Mpt. 89. §-a e törvénnyel megállapított (4) bekezdésének alkalmazása során az e törvény hatálybalépését megelőzően megállapított nyugdíjszolgáltatásokat, valamint kezdeményezett átlépéseket és portfólióváltásokat nem kell figyelembe venni.

@@ -1,0 +1,1 @@
+168. § Az 53. § (2) bekezdése és a 6. melléklet az Áfa tv.-nek az Adómód. tv. 3. §-ának (2) bekezdésével és 2. mellékletével megállapított rendelkezéseinek hatálybalépésével egyidejűleg lépnek hatályba.

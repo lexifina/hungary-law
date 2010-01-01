@@ -1,0 +1,1 @@
+209. § Az az adófizetésre kötelezett, aki (amely) termék importja esetében 2009. augusztus 31. napján az adó önadózással történő megállapítására jogosult, e jogosultságát az Áfa tv. 2009. augusztus 31. napján hatályos 156. §-a szerint gyakorolhatja 2009. szeptember 1. napját követően is, de legfeljebb 2010. június 30. napjáig.
