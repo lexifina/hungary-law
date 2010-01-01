@@ -1,0 +1,3 @@
+44. § (1) A vizsgáló 30 napon belül lefolytatja a vizsgálatot, melynek során össze kell gyűjteni mindazokat a bizonyítékokat, amelyek alapján a bizottság dönthet a méltatlanság kérdésében. A határidő egy esetben 30 nappal meghosszabbítható.
+
+(2) A vizsgáló a vizsgálat befejezésekor jelentést készít, melyben összefoglalja a kifogásolt magatartás elkövetését, valamint a Hszt. 56. §-a (6) bekezdésének c) pontjában meghatározott feltételek fennállását bizonyító tényeket és következtetéseket és ezek alapján javaslatot tesz a bizottság döntésére. Jelentését a vizsgálat befejezését követő öt napon belül megküldi az állományilletékes parancsnoknak.

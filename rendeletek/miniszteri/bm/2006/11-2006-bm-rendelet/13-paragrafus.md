@@ -1,0 +1,5 @@
+## 12. § Ha a folyamatban levő fegyelmi eljárásban vizsgált cselekmény egyben katonai vétséget is megvalósít és azt a Be. 485/A. §-ának (1) bekezdése alapján fegyelmi eljárásra utalták, a fegyelmi eljárás elrendeléséről szóló határozatot módosítani kell. A módosított határozatban rendelkezni kell arról, hogy a fegyelmi eljárás tárgyává tett cselekmény vizsgálata a továbbiakban a katonai vétség miatt folytatódik, és tájékoztatni kell az eljárás alá vontat a megváltozott eljárási és jogorvoslati szabályokról.
+
+13. § (1) A fegyelmi eljárás elrendeléséről szóló határozatot haladéktalanul, de legkésőbb az eljárás alá vonti meghallgatásról szóló értesítéssel egyidejűleg az eljárás alá vontnak kézbesíteni kell. A kézbesítéskor a Hszt. 7. §-ának (3) bekezdésére figyelemmel kell eljárni.
+
+(2) A fegyelmi vizsgálat meghosszabbításáról [Hszt. 128. § (3) bekezdés] a fegyelmi jogkör gyakorlója az elrendelő határozatra feljegyezéssel vagy külön íven indokolás nélküli határozatban rendelkezik. A vizsgálat határidejének meghosszabbításáról a vizsgáló az eljárás alá vontat és képviselőjét írásban értesíti.

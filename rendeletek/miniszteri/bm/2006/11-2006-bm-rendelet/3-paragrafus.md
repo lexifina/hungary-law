@@ -1,0 +1,1 @@
+## Fenyíthetőséget kizáró ok
