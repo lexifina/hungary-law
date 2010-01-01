@@ -1,0 +1,1 @@
+1. § A Magyar Köztársaság nagyra becsüli a nemzet szolgálatában, az ország fejlődésének elősegítésében, a haza érdekeinek előmozdításában és az egyetemes emberi értékek gyarapításában kifejtett kimagasló, példamutató tevékenységet. Ezek elismerésére az Országgyűlés Magyar Köztársasági Érdemrendet és Magyar Köztársasági Érdemkeresztet alapít.
