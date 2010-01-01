@@ -1,0 +1,11 @@
+## Függetlenségi követelmények
+
+4. § (1) A kijelölt szervezet, annak vezető tisztségviselője, megfelelőségértékelési tevékenységet végző munkavállalója és a kijelölt szervezettel munkavégzésre irányuló egyéb jogviszonyban álló, megfelelőségértékelési tevékenységet végző személy és annak – a Polgári Törvénykönyvben meghatározott – közeli hozzátartozója nem lehet az értékelt termékek tervezője, gyártója, forgalmazója, üzembe helyezője, vásárlója, tulajdonosa, felhasználója vagy karbantartója, továbbá a felsoroltak képviselője. Ez a rendelkezés nem zárja ki a kijelölt szervezet működéséhez szükséges termékek felhasználását és az értékelt termékek személyes célra történő használatát.
+
+(2) A kijelölt szervezet, annak vezető tisztségviselője, megfelelőségértékelési tevékenységet végző munkavállalója és a kijelölt szervezettel munkavégzésre irányuló egyéb jogviszonyban álló, megfelelőségértékelési tevékenységet végző személy és annak – a Polgári Törvénykönyvben meghatározott – közeli hozzátartozója nem vehet részt közvetlenül az értékelt termékek tervezésében, gyártásában, összeszerelésében, forgalmazásában, üzembe helyezésében, használatában vagy karbantartásában, és nem képviselheti a felsorolt tevékenységekben résztvevőket.
+
+(3) A kijelölt szervezet nem folytathat olyan tevékenységet, amely veszélyeztetné a megfelelőségértékelési tevékenységekkel kapcsolatos függetlenségét, így különösen nem nyújthat szaktanácsadási szolgáltatást a kijelölt megfelelőségértékelési területen.
+
+(4) A kijelölt szervezet, annak vezető tisztségviselője, megfelelőségértékelési tevékenységet végző munkavállalója és a kijelölt szervezettel munkavégzésre irányuló egyéb jogviszonyban álló, megfelelőségértékelési tevékenységet végző személy nem fogadhat el vagyoni előnyt a megfelelőségértékelési tevékenység eredményében érdekelt személytől vagy szervezettől.
+
+(5) A kijelölt szervezet vezető tisztségviselőjének, megfelelőségértékelési tevékenységet végző munkavállalójának és a kijelölt szervezettel munkavégzésre irányuló egyéb jogviszonyban álló, megfelelőségértékelési tevékenységet végző személynek a díjazása nem függhet az elvégzett megfelelőségértékelések számától vagy a megfelelőségértékelések eredményétől.
