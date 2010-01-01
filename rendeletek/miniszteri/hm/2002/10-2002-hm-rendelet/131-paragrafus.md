@@ -1,0 +1,3 @@
+131. § (1) Összesített személyügyi nyilvántartást kell vezetni minden olyan szervezetnél, amelynek alárendeltségébe a 130. § (1) bekezdés a) pont szerinti személyügyi alapnyilvántartást vezető szervezet tartozik.
+
+(2) Az összesített személyügyi nyilvántartás vezetésére kötelezett szervezeti egység közvetlenül irányítja, ellenőrzi az alárendelt szervezeti egységek alapnyilvántartás vezetéséhez kapcsolódó feladatainak végrehajtását, gondoskodik a feltárt hiányosságok megszüntetéséről. Az összesített nyilvántartáshoz kapcsolódó feladatainak végrehajtása során vezeti a 134. § (1) bekezdésének b) pontjában meghatározott nyilvántartásokat. Adatokat szolgáltat a parancsnok hatáskörébe tartozó személyügyi döntések előkészítéséhez.

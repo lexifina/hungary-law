@@ -1,0 +1,9 @@
+# 10/2002. (III. 5.) HM rendelet
+
+a hivatásos és szerződéses katonai szolgálat létesítéséről, módosításáról, megszüntetéséről, tartalmáról, valamint az integrált személyügyi igazgatás és egységes nyilvántartás rendjéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-10-20-15
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2002-10-20-15.18 | 10/2002. (III. 5.) HM rendelet |

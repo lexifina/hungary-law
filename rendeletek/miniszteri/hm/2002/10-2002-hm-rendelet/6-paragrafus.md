@@ -1,0 +1,1 @@
+## 5. § Amennyiben a volt függetlenített tisztségviselő részére viselt rendfokozatának megfelelő beosztás nem ajánlható fel, vagy a felajánlott beosztást nem fogadja el a Hjt. 48. §-a (1) bekezdésének b) pontja szerint rendelkezési állományba kell helyezni, vagy a Hjt. 59. §-a (1) bekezdésének b) pontjában foglaltak figyelembevételével kell eljárni.

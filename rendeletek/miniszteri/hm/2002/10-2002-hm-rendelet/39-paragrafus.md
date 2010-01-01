@@ -1,0 +1,1 @@
+## 38. § Más szervhez a határozott időre szóló vezénylés legfeljebb 5 évi időtartamra történhet, ami egy alkalommal legfeljebb 5 évvel meghosszabbítható. Ez nem vonatkozik az egészségügyi, illetve felsőoktatási intézményhez történő vezénylésre.

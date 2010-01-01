@@ -1,0 +1,1 @@
+A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 287. §-ának a) pontjában, valamint a honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Hvt.) 10. §-ának g) pontjában kapott felhatalmazás alapján a következőket rendelem el:

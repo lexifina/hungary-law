@@ -1,0 +1,1 @@
+## 77. § A törvényben meghatározott vagy a felek által külön megállapodásban rögzített felmentési időtartam módosítására a szolgálati viszony megszüntetését elrendelő parancs közlését követően nincs lehetőség.
