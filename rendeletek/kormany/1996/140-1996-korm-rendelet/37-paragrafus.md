@@ -1,0 +1,3 @@
+## 36. §[^39] A Hszt. 254. §-a (2) bekezdésének a) pontja tizedik gondolatjeles bekezdése, valamint a 322. §-a (1) bekezdésének l) pontja szempontjából az 1. számú melléklet 1–3. és 8. pontjaiban meghatározott egészségkárosító kockázatok közötti munkával járó beosztásban szolgálatot teljesítőt az illetménypótlék havonta akkor illeti meg, ha az egészségkárosító kockázatok között töltött ideje eléri a 23. § (1) bekezdésében meghatározott időtartamot.
+
+[^39]: A 36. § a 99/2003. (VII. 15.) Korm. rendelet 5. §-ával megállapított, valamint a 390/2007. (XII. 23.) Korm. rendelet 8. §-ának c) pontja szerint módosított szöveg.

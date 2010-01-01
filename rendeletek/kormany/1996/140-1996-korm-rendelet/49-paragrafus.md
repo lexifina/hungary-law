@@ -1,0 +1,1 @@
+## 48. § Osztálybasorolási pótlékra jogosultak a meghatározott beosztásokban haditechnikai eszközöket közvetlenül kezelők, vezetők, ha az osztályos szintekre előírt elméleti és gyakorlati követelményeket teljesítik. Osztálybasorolási pótlékon felül az aranykoszorús első osztályú követelményeknek eleget tevők részére aranykoszorús kiegészítő pótlék jár.
