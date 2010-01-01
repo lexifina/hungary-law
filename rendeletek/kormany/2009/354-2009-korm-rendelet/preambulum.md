@@ -1,0 +1,1 @@
+A Kormány a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés c) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következő rendeletet alkotja:
