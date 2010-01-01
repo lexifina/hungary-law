@@ -1,0 +1,1 @@
+162. § Az emberi génállomány megváltoztatására irányuló vagy azt eredményező kutatás, beavatkozás kizárólag megelőzési, kórismézési vagy gyógykezelési indokból és – a 182. § (1)–(2) bekezdéseiben foglalt kivételekkel – csak akkor végezhető, ha a kutatásnak, beavatkozásnak nem a leszármazottak genetikai állományának megváltoztatása, illetve új egyed létrehozása a célja.

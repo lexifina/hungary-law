@@ -1,0 +1,5 @@
+8. § (1) A betegnek joga van az állapota által szakmailag indokolt szintű egészségügyi szolgáltató és – ha jogszabály kivételt nem tesz – a választott orvos egyetértésével az ellátását végző orvos megválasztásához, amennyiben azt az egészségi állapota által indokolt ellátás szakmai tartalma, az ellátás sürgőssége vagy az ellátás igénybevételének alapjául szolgáló jogviszony nem zárja ki.
+
+(2) Az (1) bekezdés szerinti orvosválasztás joga az egészségügyi szolgáltató működési rendjének megfelelően gyakorolható. Az orvosválasztás jogának gyakorlása során a betegnek joga van az ellátását végző olyan orvos megválasztásához, akivel az állapotának, illetve az egészségügyi szolgáltatás jellegének megfelelő, magyar nyelven történő kapcsolattartásra képes.
+
+(3) A beteg bármely, a kezelőorvos által megállapított diagnózissal, illetőleg javasolt terápiával, valamint fekvőbeteg-gyógyintézetből történő tervezett elbocsátásával vagy más egészségügyi szolgáltatóhoz történő beutalásával kapcsolatban kezdeményezheti más orvos által történő vizsgálatát.

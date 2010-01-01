@@ -1,0 +1,3 @@
+144. § (1) Az állam a rendelkezésére álló eszközökkel támogatja és elősegíti az egészségügy területén működő szakmai kamaráknak és más köztestületeknek, valamint szakmai érdekképviseleti szerveknek, szakmai egyesületeknek és más társadalmi szervezeteknek az e törvényben foglaltakkal összhangban levő tevékenységét.
+
+(2) Az állam az (1) bekezdés szerinti szervekkel együttműködik abból a célból, hogy a lakosság egészségi állapotának javítása, illetőleg a jobb életminőség érdekében elősegítse az e törvényben meghatározott célok és alapelvek érvényesülését, valamint az egészségkárosító környezeti, társadalmi és egyéb hatások elleni eredményes fellépést.

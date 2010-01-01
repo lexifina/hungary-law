@@ -1,0 +1,1 @@
+137. § Több résztevékenységből álló, összefüggő ellátási folyamat végén vagy fekvőbeteg-gyógyintézeti ellátást követően írásbeli összefoglaló jelentést (zárójelentést) kell készíteni, és – a 14. § (1) bekezdésében foglalt eset kivételével – azt a betegnek át kell adni.

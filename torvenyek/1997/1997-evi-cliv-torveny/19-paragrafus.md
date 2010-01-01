@@ -1,0 +1,3 @@
+19. § (1) A beteg írásbeli beleegyezése szükséges bármely – a beavatkozással összefüggésben – életében eltávolított sejtjének, sejtalkotórészének, szövetének, szervének, testrészének – egészségügyi ellátásával össze nem függő – bármilyen célú felhasználásához. Nem kell a beteg beleegyezése ezen anyagok szokásos módon történő megsemmisítéséhez.
+
+(2) A betegnek – e törvény keretei között – joga van arra, hogy halála esetére rendelkezzen a holttestét érintő beavatkozásokról. A beteg e törvény rendelkezései szerint megtilthatja, hogy holttestéből szervet és szövetet átültetés, egyéb gyógyító célú felhasználás, kutatás vagy oktatás céljából eltávolítsanak.

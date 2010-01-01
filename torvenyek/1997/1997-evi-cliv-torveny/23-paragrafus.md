@@ -1,0 +1,3 @@
+23. § (1) A 20. § (3) bekezdése szerinti beavatkozás megszüntetésére, illetve mellőzésére csak abban az esetben kerülhet sor, ha a beteg erre irányuló akarata világosan és meggyőző módon kideríthető. Kétség esetén a beteg később tett, személyes nyilatkozatát kell figyelembe venni; ennek hiányában az életfenntartó, illetve életmentő beavatkozás elvégzéséhez történő beleegyezését vélelmezni kell.
+
+(2) A beteget, illetve a 22. § (2) bekezdés szerinti személyt az ellátás visszautasítása során nem szabad semmilyen eszközzel döntésének megváltoztatására kényszeríteni. A beteg a 20. § (3) bekezdése szerinti beavatkozás visszautasítása esetén is jogosult szenvedéseinek enyhítésére, fájdalmainak csökkentésére irányuló ellátásra.

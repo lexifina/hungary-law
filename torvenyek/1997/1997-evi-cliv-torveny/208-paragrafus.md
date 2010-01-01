@@ -1,0 +1,1 @@
+208. § Szerv, szövet átültetésének elvégzése előtt a szerv, szövet kivételét, illetve átültetését végző orvosnak dokumentálnia kell, hogy a donornál a szerv, szövet eltávolításának feltételei fennállanak, az orvosi szempontból nem ellenjavallt, a recipiensnél az átültetés indokolt, annak feltételei fennállanak és a szerv átültetésre alkalmas.

@@ -1,0 +1,1 @@
+133. § A területi ellátási kötelezettséggel működő egészségügyi szolgáltatónál foglalkoztatott egészségügyi dolgozó esetében a 131. § (5) bekezdés a) pontja szerinti megtagadási jog gyakorlásának feltétele, hogy ezt a körülményt alkalmazását megelőzően vagy foglalkoztatása folyamán a körülmény felmerülését követően azonnal a munkáltatójával írásban közölte.

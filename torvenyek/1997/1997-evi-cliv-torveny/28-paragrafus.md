@@ -1,0 +1,1 @@
+28. § Az egészségügyi szolgáltató köteles a beteget – egészségi állapotától függően – a felvételekor, illetőleg az ellátás előtt tájékoztatni a betegjogokról, azok érvényesítésének lehetőségeiről, illetve a gyógyintézet házirendjéről. E rendelkezés megfelelően alkalmazandó az önrendelkezési jog gyakorlására jogosult egyéb személy vonatkozásában is.

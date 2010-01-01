@@ -1,0 +1,1 @@
+237/A. § A külön jogszabályban meghatározott szerv részére az egészségügyi szakértői tevékenységre jogosító engedély kiadásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.

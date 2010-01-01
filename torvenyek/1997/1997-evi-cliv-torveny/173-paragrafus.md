@@ -1,0 +1,9 @@
+173. § (1) Az egészségügyi szolgáltató a reprodukciós eljárás céljából adományozással rendelkezésére bocsátott ivarsejteket csak ilyen eljárás elvégzése érdekében és a beavatkozáshoz szükséges mértékben, a (2) bekezdésben foglalt korlátozásra tekintettel szolgáltathatja ki a nála, illetőleg más, reprodukciós eljárás végzésére jogosult egészségügyi szolgáltatónál igénybe vett ellátásokhoz.
+
+(2) Az ivarsejtek rendelkezésre bocsátása során – a 171. § (4) bekezdésben meghatározott módon történő női ivarsejt-adományozás esetét kivéve – biztosítani kell, hogy az ugyanazon ivarsejt-adományozótól származó utódok száma különböző személyeknél elvégzett reprodukciós eljárások során se haladja meg a négyet. Egy reprodukciós eljáráshoz csak ugyanazon adományozó ivarsejtjei bocsáthatók rendelkezésre.
+
+(3) Az adományozott ivarsejtek kiadását megelőzően – más egészségügyi szolgáltatónál végzett reprodukciós eljárás esetén a beavatkozást végző egészségügyi szolgáltató által rendelkezésre bocsátott adatok alapján – az ivarsejt tárolását végző egészségügyi szolgáltató meggyőződik az ivarsejteknek az adott reprodukciós eljárásban történő felhasználhatóságáról, az esetleges biológiai összeférhetetlenségi okok hiányáról. A reprodukciós eljárást kérelmező személyek személyazonosításra alkalmas adatait – amennyiben az a vizsgálat elvégzéséhez szükséges – a vizsgálatot végző rendelkezésére kell bocsátani.
+
+(4) Az ivarsejtek kiadásának körülményeiről, a felhasználás szerint érintett személyek adatairól az ivarsejtek tárolását végző egészségügyi szolgáltató tájékoztatást nem adhat, az adatokat nem továbbíthatja és nem hozhatja nyilvánosságra.
+
+(5) Kutatóhely csak ivarsejtekkel végzett orvostudományi kutatás céljára és kizárólag az ivarsejt átvételére jogosult egészségügyi szolgáltató vagy kutatóhely részére adhat át ivarsejteket.

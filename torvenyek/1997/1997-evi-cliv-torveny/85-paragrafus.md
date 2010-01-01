@@ -1,0 +1,1 @@
+85. § A munkavégzésnek nem minősülő tevékenységre vonatkozó egészségi alkalmassági vizsgálat célja annak megállapítása és ellenőrzése, hogy az egyén a tevékenység megkezdése előtt és folytatása során alkalmas-e az adott tevékenységet úgy végezni, hogy sem saját, sem mások egészségét és testi épségét ne veszélyeztesse.

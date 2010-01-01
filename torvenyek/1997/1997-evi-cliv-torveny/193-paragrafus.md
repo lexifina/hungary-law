@@ -1,0 +1,1 @@
+193. § A pszichiátriai beteg esetében kivételesen korlátozható a betegnek az egészségügyi dokumentáció megismeréséhez való joga, ha alapos okkal feltételezhető, hogy a beteg gyógyulását nagymértékben veszélyeztetné, vagy más személy személyiségi jogait sértené az egészségügyi dokumentáció megismerése. A korlátozás elrendelésére kizárólag orvos jogosult.
