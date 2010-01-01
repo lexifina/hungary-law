@@ -1,0 +1,1 @@
+## 16. § A szociális és gyámhivatal a Szociálpolitikai és Munkaügyi Intézet, illetve az Országos Gyermekvédelmi Szakértői Névjegyzékbe felvett szakértők véleményének kikérésével kijelöli a gyermekjóléti alapellátást, illetve a gyermekvédelmi szakellátást nyújtó intézmények közül a szakmai módszertani feladatokat ellátó intézményeket.
