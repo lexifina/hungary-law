@@ -1,0 +1,5 @@
+## IV. Fejezet
+
+## KÖZTÁRSASÁGI ESÉLYEGYENLŐSÉGI PROGRAM
+
+31–36. §

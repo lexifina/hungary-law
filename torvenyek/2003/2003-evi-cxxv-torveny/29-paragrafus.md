@@ -1,0 +1,1 @@
+29. § Törvény vagy törvény felhatalmazása alapján megalkotott kormányrendelet az iskolarendszeren belüli, valamint az iskolarendszeren kívüli oktatásban részt vevők meghatározott körére – az oktatással, képzéssel összefüggésben – előnyben részesítési kötelezettséget írhat elő.

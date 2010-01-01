@@ -1,0 +1,1 @@
+23. § Törvény, törvény felhatalmazása alapján kormányrendelet, illetve kollektív szerződés a munkavállalók meghatározott körére – a foglalkoztatási jogviszonnyal vagy a munkavégzésre irányuló egyéb jogviszonnyal összefüggésben – előnyben részesítési kötelezettséget írhat elő.
