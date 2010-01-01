@@ -1,0 +1,1 @@
+## 8. § A pénzváltó köteles a Felügyeletnek bejelenteni, ha az e rendelet hatálya alá tartozó szolgáltatási tevékenységét 30 napon túl szünetelteti. A bejelentésnek tartalmaznia kell a szüneteltetés időtartamát.

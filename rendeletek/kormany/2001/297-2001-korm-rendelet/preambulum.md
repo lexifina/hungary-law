@@ -1,0 +1,1 @@
+A Kormány a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 235. §-a (1) bekezdésének a) és e) pontjában kapott felhatalmazás alapján a következőket rendeli el:
