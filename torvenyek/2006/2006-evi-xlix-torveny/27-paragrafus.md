@@ -1,0 +1,1 @@
+27. § A lobbitevékenység céljával összefüggő tárgykörben a lobbista szakmai tanácskozáson való részvételre hívhatja meg a közhatalmi döntést hozó szerv tagját, képviselőjét. A tanácskozáson való részvétellel összefüggő költségeket azonban nem térítheti meg a közhatalmi döntést hozó szerv, illetőleg az annak képviseletében részt vett személy részére.

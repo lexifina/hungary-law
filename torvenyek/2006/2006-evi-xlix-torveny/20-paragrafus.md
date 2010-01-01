@@ -1,0 +1,1 @@
+20. § A nyilvántartást vezető szervnek a nyilvántartásból való törlést követően – a törlés tényének és okának feltüntetésével – három évig gondoskodnia kell a lobbista, illetve a lobbiszervezet adatainak közzétételéről.

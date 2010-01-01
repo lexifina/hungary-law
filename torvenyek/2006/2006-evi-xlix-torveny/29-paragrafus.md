@@ -1,0 +1,1 @@
+29. § A lobbista – az igazolványa felmutatásával – a be- és kiléptetés rendjére vonatkozó előírásoknak megfelelően jogosult a lobbitevékenységgel érintett szervvel előzetesen egyeztetett időpontban a szerv helyiségeibe belépni.

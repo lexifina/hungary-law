@@ -1,0 +1,5 @@
+17. § (1) Ha az e törvényben meghatározott okok miatt a lobbistát, illetve a lobbiszervezetet a nyilvántartásból törölték – ide nem számítva azt az esetet, ha az érintett a tevékenységét saját döntése alapján szünteti meg –, a lobbista, illetve a lobbiszervezet a nyilvántartásból történő törlés hatálybalépésétől kezdődő egy évig nem vehető fel ismét a nyilvántartásba.
+
+(2) Ha a lobbistát az (1) bekezdésben megjelölt határidő leteltét követően újból nyilvántartásba veszik, és ismételten megszegi e törvény rendelkezéseit, a nyilvántartást vezető szerv törli a nyilvántartásból. Ebben az esetben a lobbista a nyilvántartásból történő törlés hatálybalépésétől kezdődő két évig nem vehető fel ismét a nyilvántartásba.
+
+(3) A (2) bekezdésben foglaltak megfelelően irányadóak a második esetet követő minden további, e törvény szerinti jogszabálysértésre is azzal, hogy ebben az esetben a lobbista a nyilvántartásból történő törlés hatálybalépésétől kezdődő három évig nem vehető fel ismét a nyilvántartásba.

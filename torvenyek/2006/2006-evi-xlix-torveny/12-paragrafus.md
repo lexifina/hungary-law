@@ -1,0 +1,1 @@
+12. § A nyilvántartást vezető szerv a lobbista nevét, a lobbiszervezet nevét és képviseletére jogosultak nevét, továbbá a lobbista és a lobbiszervezet nyilvántartásba vételének, illetve törlésének időpontját és annak okát közzéteszi.
