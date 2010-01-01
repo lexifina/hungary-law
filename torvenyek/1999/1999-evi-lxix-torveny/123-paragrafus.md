@@ -1,0 +1,1 @@
+123. § A megyei bíróság a határozatot hatályban tartja, a 122. §-ban meghatározott korlátok között megváltoztatja, vagy hatályon kívül helyezi és az eljárást megszünteti, illetőleg az eljárt bíróságot új eljárásra utasítja.

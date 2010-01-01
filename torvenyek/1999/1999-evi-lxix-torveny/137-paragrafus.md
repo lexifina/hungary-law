@@ -1,0 +1,1 @@
+137. § Ha az elkövető vagy a gépjármű üzembentartója a helyszíni bírság kiszabását nem veszi tudomásul, a szabálysértési eljárást az egyébként irányadó rendelkezések szerint kell lefolytatni. Így kell eljárni akkor is, ha a gépjármű üzembentartójának megküldött készpénz-átutalási megbízást harminc napon belül nem fizetik meg.

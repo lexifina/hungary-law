@@ -1,0 +1,3 @@
+116/A. § Ha a kézbesítési vélelem megdöntésére irányuló kérelmet terjesztettek elő, és a kérelemben előadott tények és körülmények a kérelem elfogadását valószínűsítik, a végrehajtás kérelemre vagy hivatalból felfüggeszthető.
+
+Vhr.30. § A kiszabott pénzbírság, illetőleg járművezetéstől eltiltás végrehajtása részben vagy teljesen mellőzhető, az elkobzott dolog – kivéve azt, amelynek birtoklása jogszabályba ütközik – visszaadható. A rendőrség hatáskörébe tartozó szabálysértések esetén a méltányossági kérelmet és az eljárási iratokat a szolgálati út betartásával, az Országos Rendőr-főkapitánysághoz kell felterjeszteni.

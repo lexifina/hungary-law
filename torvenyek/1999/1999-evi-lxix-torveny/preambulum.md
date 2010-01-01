@@ -1,0 +1,5 @@
+[A vastag betűs szedés az 1999: LXIX. törvény (a továbbiakban: Sztv.) a normál betűs szedés a 11/2000. (II. 23.) BM rendelet (a továbbiakban: Vhr.) szövege.]
+
+E törvény célja, hogy gyors és eredményes fellépést biztosítson azokkal a jogsértő magatartásokkal szemben, melyek a bűncselekményekhez képest enyhébb fokban sértik vagy veszélyeztetik a társadalom általánosan elfogadott együttélési normáit, akadályozzák vagy zavarják a közigazgatás működését, illetve meghatározott tevékenység vagy foglalkozás gyakorlására vonatkozó jogszabályokba ütköznek. E célok megvalósítása érdekében a törvény meghatározza a szabálysértések elkövetése miatt alkalmazható joghátrányokat, e cselekmények elbírálásának rendjét, s ennek keretében azt a jogot, hogy az érintettek az e törvényben meghatározott feltételek mellett bírósághoz fordulhatnak.
+
+A szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) 167. §-ának (4) bekezdésében kapott felhatalmazás alapján - figyelemmel a 2000. évre vonatkozó Országos Statisztikai Adatgyűjtési Programról szóló 154/1999. (X. 22.) Korm. rendelet 2-3. §-aiban foglaltakra - a következőket rendelem el:

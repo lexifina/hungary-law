@@ -1,0 +1,1 @@
+136. § A gépjárművel elkövetett szabálysértés miatt a helyszíni bírságot a gépjárművezető távollétében is ki lehet szabni. Ilyenkor a gépjármű forgalmi rendszáma alapján megállapított üzembentartó címére kell a kiszabott összeget tartalmazó készpénz-átutalási megbízást megküldeni.

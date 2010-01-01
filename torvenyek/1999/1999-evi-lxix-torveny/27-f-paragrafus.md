@@ -1,0 +1,1 @@
+27/F. § Az adatkezelés jogszerűségének ellenőrzése érdekében a szabálysértési nyilvántartásba a szabálysértési nyilvántartó szerv szakmai felügyeletét ellátó miniszter, az adatvédelmi biztos, illetve az általuk meghatalmazott személy, valamint a törvényességi felügyeletet ellátó ügyész tekinthet be.
