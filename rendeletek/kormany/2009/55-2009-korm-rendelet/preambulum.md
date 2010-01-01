@@ -1,0 +1,1 @@
+A Kormány a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés h) és l) pontjában, valamint az 5. § (1) bekezdés j) pontjában foglaltak tekintetében a rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
