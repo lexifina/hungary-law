@@ -1,0 +1,1 @@
+A számvitelről szóló 2000. évi C. törvény 178. §-ának (5) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. §-ának f) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:

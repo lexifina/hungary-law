@@ -1,0 +1,9 @@
+# 39/2008. (XII. 31.) PM rendelet
+
+a könyvviteli szolgáltatást végzők nyilvántartásba vételéért, a nyilvántartásban szereplő adatok módosításáért, valamint a nyilvántartásból való törlésért, továbbá a továbbképző szervezetek akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díjról és a díj megfizetésének részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-39-20-53
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2008-39-20-53.4 | 39/2008. (XII. 31.) PM rendelet |
