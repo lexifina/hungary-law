@@ -1,0 +1,3 @@
+15. § (1) A veszélyes anyagok és a veszélyes keverékek tárolásáért szervezett munkavégzés esetében a munkáltató, nem szervezett munkavégzés során a vállalkozó, illetve – egyéb nem szervezett munkavégzés esetén – a tevékenység végzésére a tevékenység bejelentésével jogot szerző természetes vagy jogi személy felelős. Bejelentéshez nem kötött tevékenység esetén a veszélyes anyagok és a veszélyes keverékek megfelelő módon történő tárolásáért a tevékenységet végző felel.
+
+(2) A veszélyes anyagok, illetve a veszélyes keverékek tárolásáért az (1) bekezdés szerint felelős személyek biztosítják, hogy a tárolt veszélyes anyag, illetve veszélyes keverék a biztonságot, az egészséget, illetve testi épséget ne veszélyeztesse, illetőleg a környezetet ne szennyezhesse, károsíthassa.

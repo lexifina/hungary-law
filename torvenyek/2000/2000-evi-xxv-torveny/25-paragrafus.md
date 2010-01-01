@@ -1,0 +1,11 @@
+## A kémiai biztonságot koordináló tárcaközi bizottság
+
+25. § (1) A kémiai biztonság irányításának koordinálása, részfeladatainak áttekinthetősége, az egységes és hatékony döntés-előkészítés céljából, a kémiai biztonság biztosításában való aktív nemzeti részvétel elősegítése érdekében tárcaközi bizottság működik.
+
+(2) A tárcaközi bizottság kidolgozza a kémiai biztonság nemzeti politikáját és programját – beleértve a közoktatási, illetve felsőoktatási intézmények tanulói, magánszemélyek és a szakemberek kémiai biztonsági oktatásának, képzésének rendszerét, módját is –, továbbá koordinálja a nemzeti program végrehajtását.
+
+(3) A tárcaközi bizottság javaslattételi, valamint véleményezési joggal részt vesz bármely, a kémiai biztonságot érintő jogszabály, illetőleg hatósági intézkedés előkészítésében, felülvizsgálatában.
+
+(4) A tárcaközi bizottság tagjai a Kormány rendeletében meghatározott miniszterek által kijelölt személyek, az országos tisztifőorvos vagy az általa kijelölt személy, továbbá a kémiai biztonság területén érintett társadalmi szervezetek által a Kormány rendeletében meghatározott módon delegált legfeljebb hat személy.
+
+(5) A tárcaközi bizottság operatív tevékenységét az egészségügyi államigazgatási szervnél működő titkárság segíti.
