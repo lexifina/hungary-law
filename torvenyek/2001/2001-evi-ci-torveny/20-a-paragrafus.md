@@ -1,0 +1,5 @@
+## Az élethosszig tartó tanulás feltételeinek biztosítása
+
+20/A. § (1) A digitális írástudás megszerzése minden a 21. § (2)–(3) bekezdés szerinti forrásból támogatott, összességében legalább 240 órát meghaladó időtartamú – ezt nem meghaladó időtartam esetében külön rendeletben meghatározott – felnőttképzési program tartalmának kötelező része, függetlenül attól, hogy általános, nyelvi vagy szakmai képzés valósul-e meg e törvény keretei között.
+
+(2) A digitális írástudás megszerzéséhez szükséges ismeretek és kompetenciák körét az Európai Számítógép-használói Jogosítvány „Internet és kommunikáció” valamint „Operációs rendszerek” moduljai írják le. Az egyéb szükséges ismeretek és kompetenciák meghatározását, valamint azon felnőttképzési programok körét, amelyek esetében 240 órát meg nem haladó időtartamú képzés esetében is kötelező a digitális írástudás megszerzése, a miniszter az informatikáért felelős miniszterrel, valamint az oktatásért felelős miniszterrel egyetértésben rendeletben határozza meg.

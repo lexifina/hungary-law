@@ -1,0 +1,3 @@
+2. § (1) E törvény szabályozza a felnőttképzési, illetve a felnőttképzéshez kapcsolódó szolgáltatási és igazgatási tevékenységet, valamint a felnőttképzés intézmény- és támogatási rendszerét.
+
+(2) A felnőttképzés e törvényben nem szabályozott kérdéseiben a szakképzésről szóló 1993. évi LXXVI. törvény (a továbbiakban: Sztv.), a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Ktv.), valamint a felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: Ftv.), valamint a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény (a továbbiakban: Szht.) rendelkezéseit kell megfelelően alkalmazni.
