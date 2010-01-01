@@ -1,0 +1,1 @@
+62. § A kilépési szándékot az igazgatóságnak írásban kell bejelenteni. Az alapszabályban kell meghatározni, hogy a kilépésre vonatkozó bejelentés és a tagsági jogviszony megszűnése között milyen időtartamnak kell eltelnie, azonban az nem lehet hosszabb három hónapnál.

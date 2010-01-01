@@ -1,0 +1,1 @@
+88. § Ha a szövetkezet gazdasági társasággá alakul át, az átalakulás során a gazdasági társaságokról szóló törvénynek a pénzbeli hozzájárulás arányára és összegére vonatkozó előírásai nem alkalmazhatók. Egyebekben az átalakulásra a gazdasági társaságokról szóló törvényt kell alkalmazni.

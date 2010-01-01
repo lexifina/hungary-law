@@ -1,0 +1,1 @@
+102. § A 99–101. § alkalmazásában a szövetkezeti üzletrész árfolyamértékét a közgyűlés határozza meg. Az árfolyamérték nem lehet alacsonyabb, mint a közgyűlés határozatát megelőző 12 naptári évben alkalmazott, a szövetkezet által visszavásárolt üzletrészek árfolyamának súlyozott számtani átlaga.

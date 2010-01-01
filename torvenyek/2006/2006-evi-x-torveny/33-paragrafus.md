@@ -1,0 +1,5 @@
+33. § (1) A vezető tisztségviselők az ilyen tisztséget betöltő személyektől általában elvárható gondossággal, a szövetkezet érdekeinek elsődlegessége alapján kötelesek ellátni feladataikat. A jogszabályok, az alapszabály, a közgyűlés által hozott határozatok, illetőleg kötelességeik vétkes megszegésével a szövetkezetnek okozott kárért a polgári jog általános szabályai szerint egyetemlegesen felelnek a szövetkezettel szemben, akkor is, ha a szövetkezettel munkaviszonyban állnak.
+
+(2) Nem terheli az (1) bekezdés szerinti felelősség azt a vezető tisztségviselőt, aki a határozat ellen szavazott, vagy az intézkedés ellen tiltakozott, és tiltakozását a felügyelő bizottságnak bejelentette.
+
+(3) A szövetkezet fizetésképtelenségével fenyegető helyzet bekövetkeztét követően a vezető tisztségviselők ügyvezetési feladataikat a szövetkezet hitelezői érdekeinek elsődlegessége alapján kötelesek ellátni. Külön törvény e követelmény vétkes megszegése esetére, ha a szövetkezet fizetésképtelenné vált, előírhatja a vezető tisztségviselők hitelezőkkel szembeni helytállási kötelezettségét.

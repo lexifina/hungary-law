@@ -1,0 +1,1 @@
+6. § A külföldi székhellyel alapított szövetkezetet – a külön törvényben meghatározott rendelkezések szerint Magyarországon bejegyzett fióktelepe által folytatott üzletszerű gazdasági tevékenysége során – az e törvény szerint alapított szövetkezetekkel azonos jogok illetik meg, illetőleg kötelezettségek terhelik.

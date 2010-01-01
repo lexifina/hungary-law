@@ -1,0 +1,5 @@
+104. § (1) A Szövetkezeti Üzletrészhasznosító Kft. tulajdonában lévő mezőgazdasági szövetkezeti üzletrészeknek az ÁPV Rt. hozzárendelt vagyonába kerülése esetén a szövetkezetekről szóló 1992. évi I. törvény 56. §-ának (2) bekezdésében foglalt rendelkezés nem alkalmazható.
+
+(2) Az ÁPV Rt. a hozzárendelt vagyonába került mezőgazdasági szövetkezeti üzletrészeket térítés- és tehermentesen 2006. március 31-éig átadja annak a szövetkezetnek, amely az üzletrészt kibocsátotta, feltéve, hogy a szövetkezet nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, továbbá elfogadja a térítésmentes átadásra vonatkozó ajánlatot. Az e bekezdés szerinti tulajdonszerzés mentes az adó-, illeték- és járulékfizetés alól.
+
+(3) A szövetkezet a (2) bekezdés szerint megszerzett üzletrészét köteles bevonni és fel nem osztható vagyonként kezelni, e törvény szerinti alapszabály-módosításával egyidejűleg az üzletrészek szövetkezet nyilvántartásában szereplő névértékének megfelelő összeget a közösségi alapba helyezni.
