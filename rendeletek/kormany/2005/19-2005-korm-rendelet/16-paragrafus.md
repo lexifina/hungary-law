@@ -1,0 +1,1 @@
+## 15. § Ha az önkormányzat a kivitelezés megkezdése (az építési napló megnyitása, illetve egészségügyi gép-műszer beszerzésnél a szerződés kötése) előtt lemond az összes központi támogatásról, akkor a következő évi feltételeknek megfelelően új igényt nyújthat be.

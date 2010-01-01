@@ -1,0 +1,3 @@
+A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény (a továbbiakban: Cct.) 22. §-ának a) pontjában foglalt felhatalmazás alapján a Kormány a helyi önkormányzatok címzett és céltámogatásának igénybejelentési, döntés-előkészítési és elszámolási rendjéről, valamint a Magyar Államkincstár (a továbbiakban: Kincstár) finanszírozási, elszámolási és ellenőrzési feladatairól, továbbá a Magyar Államkincstár területi szervei (a továbbiakban: Igazgatóság) feladatairól a következőket rendeli el:[^1]
+
+[^1]: A bevezető rész a 29/2007. (II. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
