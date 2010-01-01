@@ -1,0 +1,3 @@
+43. § A Gjt. 17/F. §-a helyébe a következő rendelkezés lép:
+
+„17/F. § A negyedévre fizetendő adóból levonható a személygépkocsi után az adóalany terhére önkormányzati adóhatóság által megállapított gépjárműadó, illetve önadózással általa megállapított nagy teljesítményű gépjárművek adója. Levonásra a negyedév azon hónapjaira jutó gépjárműadó, illetve a nagy teljesítményű gépjárművek adója esetén van lehetőség, amelyben a személygépkocsi utáni cégautóadó-, gépjárműadó-, és nagy teljesítményű gépjárművek adókötelezettsége egyaránt fennállt, feltéve, hogy az adóalany a gépjárműadó-, és a nagy teljesítményű gépjárművek adója fizetési kötelezettségének határidőben eleget tett.”
