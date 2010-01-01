@@ -1,0 +1,1 @@
+A Kormány az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 62. §-a (1) bekezdésének i) pontjában kapott felhatalmazás alapján a következőket rendeli el:
