@@ -1,0 +1,17 @@
+18. § (1) A kereskedő, illetve az átalakítást végző személy az utalvány értékét a vételárba, illetőleg az átalakítás költségébe beszámítja.
+
+(2)[^73] A kereskedő, illetve az átalakítást végző személy az utalványt benyújtja a miniszternek a támogatás kiegyenlítése céljából, és mellékeli az általa kiállított számla egy példányát. A számlán a vásárló nevét, címét, a személygépkocsi típusát, lökettérfogatát és forgalmi rendszámát, ez utóbbi hiányában motorszámát, valamint alvázszámát is fel kell tüntetni.
+
+(3)[^74] A 3. § (1) bekezdés b) pontja szerint külföldről behozott személygépkocsi esetén az utalványt a szerzési támogatásban részesített személy nyújtja be a támogatás kiegyenlítése céljából a miniszternek. A benyújtott utalványhoz csatolni kell a vámhatóság által kiállított, a vámigazgatási eljárás lefolytatásának tényét igazoló okmány másolatát.
+
+(4)[^75] A személygépkocsi vásárlásához felhasznált utalvány legfeljebb a felhasználhatóságának lejártát követő 15 napon belül nyújtható be a miniszternek.
+
+(5)[^76] A miniszter az utalvány ellenértékét 15 napon belül kiegyenlíti.
+
+(6)[^77] A miniszter az utalvány ellenértékének kiegyenlítését követő öt munkanapon belül értesíti a hivatalt az utalvány felhasználásáról a vásárló nevének, címének, a megvásárolt személygépkocsi típusának, lökettérfogatának és forgalmi rendszámának, ez utóbbi hiányában motorszámának, valamint alvázszámának megjelölésével.
+
+[^73]: A 18. § (2) bekezdése a 124/2001. (VII. 10.) Korm. rendelet 7. §-ának (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 75. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^74]: A 18. § új (3) bekezdését a 124/2001. (VII. 10.) Korm. rendelet 7. §-ának (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (3)-(4) bekezdés számozását (4)-(5) bekezdésre változtatta. A 18. § (3) bekezdése a 125/2004. (IV. 29.) Korm. rendelet 16. § (3) bekezdés b) pontjának bb) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 75. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^75]: A 18. § eredeti (3) bekezdés számozását a 124/2001. (VII. 10.) Korm. rendelet 7. §-ának (2) bekezdése (4) bekezdésre változtatta, szövege a 182/2009. (IX. 10.) Korm. rendelet 75. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^76]: A 18. § eredeti (4) bekezdés számozását a 124/2001. (VII. 10.) Korm. rendelet 7. §-ának (2) bekezdése (5) bekezdésre változtatta, szövege a 182/2009. (IX. 10.) Korm. rendelet 75. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^77]: A 18. § (6) bekezdését a 124/2001. (VII. 10.) Korm. rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 75. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
