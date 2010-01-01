@@ -1,0 +1,3 @@
+20/A. § (1) A kamarai tagsági viszony fennállása alatt lefolytatott hatósági ellenőrzés keretében a kamara ellenőrzi azt is, hogy az állatorvossal szemben fennáll-e a 19. § (1) bekezdés b) és c) pontjában, valamint a 20. § (2) bekezdés a) és b) pontjában meghatározott, a kamarai tagságot kizáró ok. A hatósági ellenőrzés céljából a kamara adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az állatorvossal szemben fennáll-e a 19. § (1) bekezdés b) és c) pontjában, valamint a 20. § (2) bekezdés a) és b) pontjában meghatározott kizáró ok.
+
+(2) A kamara az (1) bekezdés alapján megismert személyes adatokat az állatorvos kamarai tagságának megszűnéséig kezeli.
