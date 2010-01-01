@@ -1,0 +1,1 @@
+7. § E törvény eltérő rendelkezésének hiányában a megkeresések teljesítése során a bűnüldöző szervek és a megkeresés teljesítésében résztvevő más szervek tevékenységére vonatkozó magyar jogszabályok szerint kell eljárni.

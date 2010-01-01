@@ -1,0 +1,1 @@
+32. § Magyarország területén forrónyomon üldözést – a 31. § rendelkezéseit nem érintve – külföldi hatóságnak a hivatalos minőséget tanúsító jelzéssel és a külföldi hatósághoz tartozását igazoló okirattal rendelkező tagja folytathat.

@@ -1,0 +1,1 @@
+30. § Magyarország területén megfigyelést – a 28. § rendelkezéseit nem érintve – a külföldi hatóságnak a megfigyelés engedélyezését igazoló okirattal rendelkező tagja folytathat, feltéve, ha a hivatalos minőségét és külföldi hatósághoz tartozását igazoló okirattal rendelkezik.

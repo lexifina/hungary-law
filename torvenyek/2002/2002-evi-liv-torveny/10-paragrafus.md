@@ -1,0 +1,5 @@
+10. § (1) A megkereséseket a külföldi hatóság által kért határidőt figyelembe véve kell teljesíteni. A NEBEK, illetve a magyar bűnüldöző szerv kezdeményezésére küldött megkeresésben közölt határidő kitűzésének okát indokolni kell.
+
+(2) Ha a megkeresés megérkezésekor nyilvánvaló, hogy annak teljesítése az abban foglalt határidőn belül nem lehetséges, és a késedelem a külföldi hatóság eljárásának sikerét veszélyeztetné, a NEBEK, illetve a magyar bűnüldöző szerv haladéktalanul tájékoztatást ad a megkeresés teljesítéséhez szükséges időtartamról. A külföldi hatóságtól nyilatkozatot kell kérni arról, hogy a NEBEK, illetve a magyar bűnüldöző szerv által megjelölt teljesítési határidő ismeretében is fenntartja-e megkeresését.
+
+(3) Ha a külföldi hatóság arról tájékoztatja a NEBEK-et, illetve a magyar bűnüldöző szervet, hogy megkeresése a kért határidőn belül nem teljesíthető, a NEBEK-nek, illetve a magyar bűnüldöző szervnek haladéktalanul nyilatkoznia kell, hogy a megkeresést továbbra is fenntartja-e.

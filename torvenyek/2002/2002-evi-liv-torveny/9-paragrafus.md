@@ -1,0 +1,5 @@
+9. § (1) A megkeresések teljesítése során a NEBEK vagy a magyar bűnüldöző szerv a külföldi hatóság által megjelölt szabályok szerint, illetve technikai módszert alkalmazva is eljárhat. A NEBEK kérheti a külföldi hatóságot, hogy megkeresését a magyar jogszabályokban foglaltak szerint, illetve az általa meghatározott technikai módszert alkalmazva teljesítse.
+
+(2) Ha a megkeresésben foglalt feltételek szerint a teljesítés nem, vagy csak részben lehetséges, a NEBEK, illetve a magyar bűnüldöző szerv e körülményről haladéktalanul tájékoztatja a külföldi hatóságot, és ezzel egyidejűleg megjelöli azokat a feltételeket, amelyek alkalmazása esetén a megkeresés teljesíthető. Szükség esetén a NEBEK, illetve a magyar bűnüldöző szerv a külföldi hatósággal egyeztet.
+
+(3) Ha a megkeresést a külföldi hatóság az abban megjelölt feltételek szerint nem, vagy csak részben tudja teljesíteni, azonban a megkeresés indokai továbbra is fennállnak, a NEBEK vagy a magyar bűnüldöző szerv a külföldi hatóság által megjelölt feltételek teljesítése érdekében intézkedik.

@@ -1,0 +1,3 @@
+37. § (1) Külföldi hatóságtól érkező megkeresés akkor teljesíthető, ha a külföldi hatóság a saját államának joga szerinti engedéllyel és a titkos információgyűjtést végző magyar bűnüldöző szerv az Rtv.-ben meghatározott bírói engedéllyel rendelkezik.
+
+(2) A titkos lehallgatásra irányuló megkeresés – az (1) bekezdésben foglaltakon felül – akkor teljesíthető, ha a titkos lehallgatás célszemélye Magyarország területén tartózkodik, továbbá, ha a célszemély harmadik állam területén tartózkodik, azonban a titkos lehallgatás Magyarország területén működő távközlési szolgáltató közreműködését igényli, vagy a titkos lehallgatást lehetővé tevő technikai eszköz Magyarország területén található.

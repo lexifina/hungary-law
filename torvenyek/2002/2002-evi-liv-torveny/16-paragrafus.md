@@ -1,0 +1,1 @@
+16. § A magyar bűnüldöző szervnek a nemzetközi kötelezettségvállalás alapján létrehozott, a kötelezettségvállalásban meghatározott bűnmegelőzési részfeladatot ellátó szervezeti egységei önálló információcserét és együttműködést folytathatnak a külföldi állam azonos feladatot ellátó egységével.
