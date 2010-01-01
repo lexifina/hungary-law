@@ -1,0 +1,1 @@
+18. § A kereskedelemről szóló 2005. évi CLXIV. törvény 1. §-ában az „a külön törvényben meghatározott egészségügyi szolgáltatás” szövegrész helyébe az „a külön törvényben meghatározott egészségügyi szolgáltatás, valamint a külön törvényben meghatározott fémkereskedelmi engedélyköteles tevékenység” szöveg lép.
