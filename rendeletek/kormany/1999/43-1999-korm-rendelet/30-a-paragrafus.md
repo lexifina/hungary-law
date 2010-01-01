@@ -1,0 +1,16 @@
+30/A. §[^253] (1)[^254] A vértranszfúziós intézetektől a felhasználó intézmények által igényelt a nemzeti vérkészlettel való gazdálkodás szabályairól szóló 114/2000. (VI. 29.) Korm. rendeletben meghatározott vér- és vérkészítmények (a továbbiakban együtt: vérkészítmény) térítési díját az egészségügyi miniszter rendeletben határozza meg. A térítési díjak fedezetét a szolgáltatók teljesítményarányos finanszírozási díjazása tartalmazza. A felhasználó intézmény számla alapján közvetlenül fizeti meg a kiadó vértranszfúziós intézet részére az igényelt vérkészítmény(ek) díját.
+
+(2)[^255] Amennyiben a felhasználó az (1) bekezdés szerinti fizetési kötelezettségének nem tesz eleget a követelés lejártától számított 8 napon belül (a továbbiakban: késedelem), az Országos Vérellátó Szolgálat (a továbbiakban: OVSZ) és a késedelembe esett szolgáltató 10 napon belül köteles egyeztetést lefolytatni. Az egyeztetést az OVSZ kezdeményezi a késedelemre történő felhívással és a számla kiegyenlítésére vonatkozó felszólítással egyidejűleg. Az egyeztetés számlaegyeztetésből és a kiegyenlítésben történő megállapodásból áll.
+
+(3)[^256] Az egyeztetésre nyitva álló 10 napos határidő eredménytelen elteltét követően vagy a megegyezés ellenére sem teljesített fizetés esetén az OVSZ a számlaegyeztetésnek megfelelő követelését – díjmegtérítés céljából – eljuttatja az OEP részére.
+
+(4)[^257] Az OEP az OVSZ díjmegtérítési, valamint az OVSZ és a szolgáltató által a vérrel való ellátásra kötött szerződésben meghatározott kamat követelését 8 napon belül megküldi a felhasználó egészségügyi szolgáltatónak, és amennyiben a szolgáltató az értesítés kézhezvételétől számított 10 napon belül pénzügyi bizonylattal nem igazolja fizetési kötelezettségének teljesítését, a soron következő finanszírozási összeg átutalásakor a követelés mértékével csökkenti az intézmény számlájára átutalandó összeget, és a tartozásnak megfelelő összeget átutalja az OVSZ részére. Amennyiben a követelés mértéke meghaladja az intézmény esedékes finanszírozási összegének 5%-át, az OVSZ követelésének teljesítése több részletben, a havi finanszírozás összegének legfeljebb 5%-áig terjedően történik.
+
+(5)[^258] Amennyiben fekvőbeteg szakellátást nyújtó egészségügyi szolgáltató számára az OVSZ járóbeteg-szakellátási tevékenységet végez, annak díja a mindenkori járóbeteg-szakellátás teljesítményegységének forintértékén kerül meghatározásra az R. 2. mellékletében meghatározott pontértékekkel.
+
+[^253]: A 30/A. §-t a 21/2000. (III. 3.) Korm. rendelet 17. §-a iktatta a szövegbe.
+[^254]: A 30/A. § (1) bekezdése a 114/2000. (VI. 29.) Korm. rendelet 13. §-ának (3) bekezdése, valamint a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^255]: A 30/A. § (2) bekezdése a 266/2007. (X. 10.) Korm. rendelet 7. § (4) bekezdésének a) pontja, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg.
+[^256]: A 30/A. § (3) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése szerint módosított szöveg.
+[^257]: A 30/A. § (4) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^258]: A 30/A. § (5) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.

@@ -1,0 +1,1 @@
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Eb. tv.) 83. §-a (2) bekezdésének a) pontjában, valamint a társadalombiztosítás pénzügyi alapjainak 1999. évi költségvetéséről szóló 1998. évi XCI. törvény (a továbbiakban: T.) 16. §-ának (11) bekezdésében foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
