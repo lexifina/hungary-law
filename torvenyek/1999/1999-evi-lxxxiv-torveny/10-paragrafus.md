@@ -1,0 +1,1 @@
+10. § A nyilvántartó a nyilvántartási eljárásban, az érintett személy és a hatóság kapcsolattartása céljából kezeli a nyilvántartásban szereplő személyek személyi azonosítóját, amelyet az érintett személy az eljárás során köteles közölni a hatósággal. A nyilvántartó a személyi azonosítót csak belső azonosítóként használhatja.

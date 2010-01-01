@@ -1,0 +1,1 @@
+30. § A nyilvántartó technikai és szervezési intézkedésekkel, valamint ellenőrzési rendszer kialakításával gondoskodik a kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg a sérülés vagy a megsemmisülés elleni védelméről.

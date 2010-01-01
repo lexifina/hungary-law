@@ -1,0 +1,1 @@
+25. § A nyilvántartó a nyilvántartás adatait statisztikai célra feldolgozhatja és nyilvánosságra hozhatja, illetőleg az adatokat személyazonosításra alkalmatlan módon statisztikai célra továbbíthatja.

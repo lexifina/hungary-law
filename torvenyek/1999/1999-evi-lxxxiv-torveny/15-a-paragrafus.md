@@ -1,0 +1,3 @@
+15/A. § (1) A közlekedési igazgatási hatóság az 5. § (1) bekezdésének h) és j) pontjában meghatározott feladata ellátása céljából kezeli a 8. §-ban és a 8/A. §-ban meghatározott adatokat, a jármű azonosító adatát, a járműtulajdonos (üzembentartó) 9. § (1) bekezdésének a), b), e) és f) pontjaiban meghatározott, továbbá a járművezető közlekedésbiztonsági alkalmatlanságára vonatkozó adatokat.
+
+(2) A közlekedési igazgatási hatóság az (1) bekezdésben meghatározott adatokat az 5. § (1) bekezdésének h) és j) pontja alapján hozott jogerős hatósági határozat nyilvántartásba történő bejegyzésétől számított egy évig kezelheti.
