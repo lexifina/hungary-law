@@ -1,0 +1,1 @@
+23/A. § A tagokról a testület elnöke listát vezet. A lista tartalmazza a tagok nevét, szakterületük és a tagot jelölő szervezet megjelölését. Ezek az adatok közérdekből nyilvános adatok. Az elnök a testületi tagok listáját megküldi a békéltető testület működési feltételeit biztosító kamarának, valamint a fogyasztóvédelemért felelős miniszternek.

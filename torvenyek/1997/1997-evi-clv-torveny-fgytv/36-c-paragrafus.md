@@ -1,0 +1,7 @@
+36/C. § (1) A vállalkozás a székhelye szerinti békéltető testületnél vagy – valamennyi békéltető testületre kiterjedő hatállyal – a Magyar Kereskedelmi és Iparkamaránál írásban, visszavonásig érvényes általános alávetési nyilatkozatot tehet, amelyben vállalja, hogy a békéltető testületi eljárásnak és egyezség hiányában az ilyen eljárásban hozott határozatnak aláveti magát. Az alávetési nyilatkozatban a vállalkozás kötelezettségvállalásának mértékét, illetve hatályát a jogvita tárgyának általa meghatározott értékében vagy más módon is korlátozhatja.
+
+(2) A Magyar Kereskedelmi és Iparkamara a nála megtett alávetési nyilatkozatokról nyilvántartást vezet.
+
+(3) A békéltető testület az illetékességi területén székhellyel rendelkező vállalkozások nála megtett alávetési nyilatkozatairól nyilvántartást vezet.
+
+(4) Ha a fogyasztó bizonyítja, hogy a fogyasztói jogvita alapjául szolgáló szerződést arra tekintettel kötötte, hogy a vállalkozás kereskedelmi kommunikációjában vállalta, hogy a békéltető testületi eljárásnak és egyezség hiányában az ilyen eljárásban hozott határozatnak aláveti magát, a vállalkozást e nyilatkozata – az abban meghatározott feltételekkel – köti az adott eljárásban akkor is, ha nem tett az (1) bekezdés szerinti általános alávetési nyilatkozatot. A vállalkozás mentesül e nyilatkozat kötőereje alól, ha bizonyítja, hogy azt a szerződéskötésig a vállalással azonos módon visszavonta.

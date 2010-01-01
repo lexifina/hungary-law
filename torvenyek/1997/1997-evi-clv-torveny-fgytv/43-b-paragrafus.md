@@ -1,0 +1,1 @@
+43/B. § A 2006/2004/EK európai parlamenti és tanácsi rendelet 5. cikkének (1) bekezdése, 16. cikkének (1) bekezdése, valamint 17. cikkének (1) bekezdése szerinti értesítési kötelezettségek, továbbá a 21. cikkének (2) bekezdése szerinti jelentéstételi kötelezettség végrehajtásáról a fogyasztóvédelemért felelős miniszter gondoskodik.

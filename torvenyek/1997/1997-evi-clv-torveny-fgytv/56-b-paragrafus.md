@@ -1,0 +1,1 @@
+56/B. § Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 39. § (5) bekezdésében említett irányelv mellékletében felsorolt, valamint a 43/A. § (1) bekezdésében, illetve a 46. § (2) bekezdésének b) pontjában meghatározott uniós jogi rendelkezéseket átültető jogszabályi rendelkezések felsorolását.

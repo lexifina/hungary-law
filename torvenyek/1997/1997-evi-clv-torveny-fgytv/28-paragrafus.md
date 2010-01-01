@@ -1,0 +1,23 @@
+28. § (1) A békéltető testület eljárása a fogyasztó kérelmére indul.
+
+(2) A kérelmet a békéltető testület elnökéhez kell írásban benyújtani. Az írásos formának a 17/C. § szerinti módokon is eleget lehet tenni. A kérelemnek tartalmaznia kell
+
+a) a fogyasztó nevét, lakóhelyét vagy tartózkodási helyét,
+
+b) a fogyasztói jogvitával érintett vállalkozás nevét, székhelyét vagy érintett telephelyét,
+
+c) – ha az illetékességet a 20. § (3) bekezdése szerint a szerződés teljesítésének helyére kívánja alapítani – a fogyasztónak a teljesítés helyére vonatkozó nyilatkozatát,
+
+d) a fogyasztó álláspontjának rövid leírását, az azt alátámasztó tényeket és azok bizonyítékait,
+
+e) a fogyasztó nyilatkozatát a 27. §-ban előírt feltétel teljesítéséről,
+
+f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben más békéltető testület eljárását nem kezdeményezte, közvetítői eljárást vagy polgári peres eljárást nem indított,
+
+g) a testület döntésére irányuló indítványt.
+
+(3) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát (kivonatát), amelynek tartalmára a fogyasztó bizonyítékként hivatkozik, így különösen a vállalkozás írásbeli nyilatkozatát a panasz elutasításáról, ennek hiányában a fogyasztó rendelkezésére álló egyéb írásos bizonyítékot a 27. §-ban előírt egyeztetés megkísérléséről.
+
+(4) Ha a fogyasztó meghatalmazott útján jár el, a kérelemhez csatolni kell a meghatalmazást.
+
+(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a békéltető testület elnöke a kérelmet – annak beérkezésétől számított tizenöt napon belül – a hiányok megjelölése mellett pótlás végett a kérelmezőnek visszaküldi.

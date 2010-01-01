@@ -1,0 +1,1 @@
+28/A. § Az eljárás megindítása az elévülést megszakítja. Az eljárás eredményes befejezése után az elévülésre a Ptk. 327. §-a (1) és (2) bekezdésében, az eljárás eredménytelensége esetén a Ptk. 326. §-a (2) bekezdésében foglaltak irányadók.
