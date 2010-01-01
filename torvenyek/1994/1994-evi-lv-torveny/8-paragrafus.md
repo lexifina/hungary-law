@@ -1,0 +1,1 @@
+8. § A külföldi az önálló ingatlanként (földrészletként) legfeljebb 6000 m2 területtel kialakított tanya tulajdonjogát a termőföldnek nem minősülő más ingatlanokra vonatkozó, a Kormány e törvény felhatalmazása alapján kiadott rendeletében foglaltak szerint szerezheti meg.

@@ -1,0 +1,1 @@
+17. § A haszonbérlő arra az évre, amelyben elemi csapás, vagy más rendkívüli esemény okából az átlagos termés kétharmada sem termett meg, ha törvény másként nem rendelkezik, méltányos, a terméskieséssel arányos haszonbérmérséklést, illetőleg haszonbér-elengedést igényelhet. Erre irányuló igényét köteles még a termés betakarítása előtt a haszonbérbe adóval közölni.

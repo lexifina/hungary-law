@@ -1,0 +1,3 @@
+19. § (1) A magánszemély haszonbérlő azonnali hatállyal felmondhatja a haszonbérletet, ha egészségi állapota oly mértékben romlik meg, vagy családi és életkörülményeiben olyan tartós változás következik be, amely a haszonbérletből eredő kötelezettségeinek teljesítését akadályozza, továbbá abban az esetben, ha a mezőgazdasági termelő a gazdaságátadási támogatást igénybe veszi.
+
+(2) Az (1) bekezdésben meghatározott esetben a haszonbérlő — az azonnali hatályú felmondás helyett — a tulajdonos hozzájárulásával kijelölheti azt a magánszemélyt, aki a haszonbérleti szerződésben a helyébe lép és a haszonbérleti jogviszonyt változatlan feltételekkel folytatja.

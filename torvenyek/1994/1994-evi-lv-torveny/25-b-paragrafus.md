@@ -1,0 +1,15 @@
+25/B. § (1) Az ingatlanügyi hatóság az illetékességi területéhez tartozó termőföldekről, valamint a mező- vagy erdőgazdasági művelés alatt álló belterületi földek használatáról – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – önálló nyilvántartást vezet, amelynek alapja a közhiteles ingatlan-nyilvántartás. A földhasználati nyilvántartás tartalmazza a földrészletek ingatlan-nyilvántartás szerinti helyrajzi számát, alrészleteit, hektárban a terület nagyságát, aranykoronában a termőföld értékét, a földrészlet (alrészlet) vagy földrészletek magánszemély használójának természetes személyazonosító adatait, illetőleg a gazdálkodó szervezet használó megnevezését, székhelyét (telephelyét), statisztikai számjelét, a használat jogcímét, határozott időre kötött szerződés esetén a használat időtartamát.
+
+(2) Aki termőföldet használ, s annak területe – a földrészletek számától függetlenül – az egy hektárt meghaladja, köteles a használatot annak megkezdésétől számított harminc napon belül az ingatlanügyi hatósághoz nyilvántartásba vétel céljából – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon (bejelentési adatlapon) – bejelenteni. Ha a használó nem a tulajdonos, illetőleg haszonélvezet fennállása esetén nem a haszonélvező, a bejelentési adatlapot a földhasználó mellett a tulajdonosnak, illetőleg a haszonélvezőnek is alá kell írnia.
+
+(3) Ha a földhasználat olyan szerződés alapján keletkezett, amelyet jogszabály alapján kötelező írásba foglalni, a (2) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a földhasználat ingatlanügyi hatósághoz való bejelentéséhez elegendő a szerződés egy eredeti példányát vagy annak közjegyző által hitelesített másolatát benyújtani.
+
+(4) A földhasználó a bejelentéssel egyidejűleg köteles nyilatkozni arról, hogy termőföld használata a törvényben foglalt korlátozásokat nem sérti. A földhasználó a használatban bekövetkezett – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott – változásokat 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni.
+
+(5) A bejelentést elmulasztó földhasználót az ingatlanügyi hatóság bírsággal sújtja, aminek mértéke a termőföld ingatlan-nyilvántartás szerinti AK értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás minimális összegénél. A meg nem fizetett bírság adók módjára behajtandó köztartozás. A bírság az ingatlanügyi hatóságot illeti meg.
+
+(6) A bírság kiszabásával egyidejűleg az ingatlanügyi hatóság – határidő megjelölésével – a bejelentés pótlására szólítja fel a mulasztó földhasználót. A határozatban előírt határidő elmulasztása esetén – újabb határidő megjelölésével – a bírságot ismételten ki kell szabni.
+
+(7) Ha a földhasználó személyére vonatkozó bejelentés nem érkezett, a termőföld használójának a tulajdonost, illetőleg haszonélvezet fennállása esetén a haszonélvezőt kell tekinteni.
+
+(8) Közös használat esetén, vagy közös tulajdonban álló ingatlan esetében az (5) bekezdés szerinti bírság megfizetésére a mulasztó földhasználók, illetőleg a tulajdonosok egyetemlegesen kötelezhetők.

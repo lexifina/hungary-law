@@ -1,0 +1,1 @@
+33. § A termőföldön fennálló elidegenítési és terhelési tilalom, haszonélvezeti, tartási és életjáradéki jog esetén a föld csak a tilalom, illetőleg a jog jogosultjának hozzájárulásával vonható be az önkéntes földcserébe.
