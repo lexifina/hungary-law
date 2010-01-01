@@ -1,0 +1,1 @@
+## 8. § Az átadásra kerülő nemperes iratok esetében az iratjegyzék tartalmát a közjegyzői ügyvitel szabályairól szóló rendelet határozza meg. A hagyatéki ügyekben kihirdetett végintézkedéseket külön, a végintézkedések jegyzékének megfelelően veszi át a levéltár.

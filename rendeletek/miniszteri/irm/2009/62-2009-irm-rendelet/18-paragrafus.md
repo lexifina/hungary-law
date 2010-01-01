@@ -1,0 +1,1 @@
+## 17. § Ha a közjegyző az átadás során akadályoztatva van, úgy helyette az átadás során – a közjegyző örököse vagy az iratokat, eszközöket birtokló személy meghatalmazása alapján – az illetékes területi kamara erre kijelölt tagja jár el.
