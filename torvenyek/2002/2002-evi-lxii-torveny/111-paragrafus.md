@@ -1,0 +1,3 @@
+111. § (1) A közoktatási feladatok ellátásánál a személyi jövedelemadóról szóló 1995. évi CXVII. törvény hatálya alá tartozó egyéni vállalkozók a 28. §-a (1) bekezdésének a) pontja szerinti normatívára jogosultak. A képzésbe 2003–2004. tanévtől belépők tekintetében a 28. §-a (1) bekezdésének b) pontjában foglalt normatíva mértékeket kell alkalmazniuk.
+
+(2) A személyes gondoskodást nyújtó szociális, gyermekjóléti, gyermekvédelmi közfeladatot ellátó, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény hatálya alá tartozó egyéni vállalkozók 2003. december 31-ig a 28. §-a (1) bekezdésének h) pontja szerinti, ezt követően a 28. § (1) bekezdés g) pontjában megjelölt mértékű normatívára jogosultak.

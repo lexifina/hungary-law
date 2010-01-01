@@ -1,0 +1,9 @@
+12. § (1) A központi költségvetési szervként működő felsőoktatási intézményeket az általuk ellátott közoktatási feladatokra az e törvény 3. számú mellékletében és a 8. számú melléklet I. részének 1–5. és 7–9. pontjában megállapított, a helyi önkormányzatok normatív hozzájárulásaival és támogatásaival azonos jogcímeken és feltételek mellett normatív hozzájárulás illeti meg, kivéve a 3. számú melléklet 24. f) és g) pontjában meghatározottakat. Nem vonatkozik rájuk a 3. számú melléklet kiegészítő szabályainak 3–8. pontja.
+
+(2) A központi költségvetési szervként működő felsőoktatási intézmények gyakorló intézményei esetén az (1) bekezdés szerinti, a 3. számú melléklet 19–23. és a 24. a)–c) pontja szerinti jogcímek tekintetében a normatív hozzájárulások kétszerese jár.
+
+(3) Az (1)–(2) bekezdésben meghatározott, közoktatási feladatot ellátó központi költségvetési szerv a létszámjelentésben szereplő feladatmutatók alapján az intézményi költségvetésben meglévő és az (1) bekezdésben meghatározott normatíva alapján járó támogatás különbözetét a felügyeletét ellátó szervtől igényelheti.
+
+(4) A közoktatási feladatot ellátó központi költségvetési szerv a január 1-jei és a szeptember 1-jei létszámáról január 15-éig, illetve szeptember 15-éig köteles adatszolgáltatást teljesíteni. A fenntartó a tényleges, a tanügyi okmányok alapján dokumentált feladatmutatók szerint jogosult a normatív hozzájárulás igénybevételére.
+
+(5) Az (1)–(2) bekezdésben meghatározott, közoktatási célú normatív hozzájárulások elszámolása – a zárszámadás keretében – az önkormányzatokkal azonos számítási eljárás alapján a 3. számú melléklet Kiegészítő szabályainak alkalmazásával történik a 8. számú melléklet I. része 1–5. és 7–9. pontja szerint igénybe vett támogatások kivételével. A 8. számú melléklet I. része 1–5. és 7–9. pontja szerinti támogatásokkal az ott meghatározott szabályok alapján történik az elszámolás.

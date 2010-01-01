@@ -1,0 +1,1 @@
+40. § Az agrárkezességek érvényesítésének forrása 2003. január 1-jétől a XII. Földművelésügyi és Vidékfejlesztési Minisztérium fejezet, 11. cím, 6. alcím Agrárgazdasági kezességbeváltás jogcímen előirányzott összeg.

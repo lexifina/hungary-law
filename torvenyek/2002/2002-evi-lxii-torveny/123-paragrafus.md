@@ -1,0 +1,1 @@
+123. § A társadalombiztosítás ellátásaira és a magán-nyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 19. § (1) bekezdésében a ,,2002-ben'' szövegrész ,,2002-től'' szövegrészre változik.

@@ -1,0 +1,1 @@
+112. § Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet módosításáról szóló 2002. évi XLV. törvény 34. §-a (3) bekezdésének b) pontjában a ,,19. § g) pontja, továbbá 40. §-ának (4) és (5) bekezdése'' szövegrész helyébe 2002. december 15-ei hatállyal a ,,19. §-a (2) bekezdésének g) pontja'' szövegrész lép.

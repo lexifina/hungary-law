@@ -1,0 +1,1 @@
+38. § Az állam a központi költségvetés terhére készfizető kezességet vállal a Diákhitel Központ Rt. azon fizetési kötelezettségeire, amelyek a belföldről és külföldről, a diákhitelezési rendszer finanszírozása érdekében felvett hiteleiből, illetve kötvénykibocsátásaiból erednek. A vállalt kezesség után a központi költségvetés kezességvállalási díjat nem számít fel.

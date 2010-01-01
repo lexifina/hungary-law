@@ -1,0 +1,1 @@
+122. § A Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló 2000. évi CXXXIII. törvény 74. §-ának (2) bekezdésében a ,,2002-ben 615,0 millió forintot'' szövegrész ,,2002-ben 1465,0 millió forintot'' szövegrészre változik.

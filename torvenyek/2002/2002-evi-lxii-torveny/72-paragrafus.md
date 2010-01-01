@@ -1,0 +1,1 @@
+72. § Az Országgyűlés hozzájárul, hogy a LXXI. Nyugdíjbiztosítási Alap fejezet vagyonába tartozó járuléktartozás fejében átvett, Csopak, Kőkorsó út 5. sz. alatti üdülőingatlan-részt az Országos Nyugdíjbiztosítási Főigazgatóság könyvszerinti értéken megvásárolja.

@@ -1,0 +1,1 @@
+49. § Az ügyészségi szolgálati viszonyról és az ügyészségi adatkezelésről szóló 1994. évi LXXX. törvény 46/D. §-ának (2) bekezdése szerinti legalacsonyabb ügyészi alapilletmény (1. fizetési fokozat) 2003. január 1-jétől 202 950 forint, július 1-jétől 253 700 forint, november 1-jétől 304 400 forint.

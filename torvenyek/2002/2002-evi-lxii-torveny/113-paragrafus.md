@@ -1,0 +1,11 @@
+113. § (1) E törvény hatálybalépésével egyidejűleg a társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló 1992. évi LXXXIV. törvény 4. §-ának (2) bekezdésében és 5. §-ának (2) bekezdésében a ,,10. § (3) bekezdése'' szövegrész ,,10. § (2) bekezdése'' szövegrészre, a 11/A. §-ának (2) bekezdésében az ,,egészségügyi miniszter'' szövegrész ,,egészségügyi, szociális és családügyi miniszter'' szövegrészre változik.
+
+(2) E törvény hatálybalépésével egyidejűleg a társadalombiztosítás pénzügyi alapjai 2000. évi költségvetésének végrehajtásról szóló 2001. évi LXXXIV. törvény 14. §-a a) pontjának szövegében a ,,2002. december 31-ig'' szövegrész ,,2003. december 31-ig'' szövegrészre változik.
+
+(3) E törvény hatálybalépésével egyidejűleg az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény 3. §-ának (2) bekezdése a következő rendelkezéssel egészül ki:
+
+,,E rendelkezés alkalmazásában a biztosítási jogviszony alapján fennálló járulékfizetéssel azonos elbírálás alá esik a baleseti járulék (Tbj. 36–37. §) fizetésére fennálló kötelezettség is.''”
+
+(4) E törvény hatálybalépésével egyidejűleg a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. számú melléklete 12. pontjában az „a 7. § (15) bekezdése szerint feloldott'' szövegrész helyébe az ,,a 7. § (15) bekezdése vagy a 29/D. § (1) bekezdése szerint felhasznált (feloldott)'' szövegrész lép.
+
+(5) E törvény hatálybalépésével a fogyasztási adóról és a fogyasztói árkiegészítésről szóló 1991. évi LXXVIII. törvény (a továbbiakban: Fat.) 19. §-a hatályát veszti, egyidejűleg a Fat. 2003. január 1-jétől hatályos 12. §-a (5) bekezdésében a ,,(3) bekezdésben'' szövegrész helyébe a ,,(3)–(4) bekezdésekben'' szövegrész; az általános forgalmi adóról szóló 1992. évi LXXIV. törvény 38. §-a (2) bekezdésében és 43. § (5) bekezdésében a ,,33. § (4) bekezdésében'' szövegrész helyébe a ,,33. § (6) bekezdésében'' szövegrész, a 3. számú melléklet I. rész 2/b) pontjában a ,,2. számú melléklet 6., 7. és 12. pontjában'' szövegrész helyébe a ,,2. számú melléklet 6., 8. és 13. pontjában'' szövegrész, illetve a ,,2. számú melléklet 6., 7. és 12. pontjai csak a 2. számú melléklet 31. pontjának'' szövegrész helyébe a ,,2. számú melléklet 6., 8. és 13. pontjai csak a 2. számú melléklet 25. pontjának'' szövegrész lép.

@@ -1,0 +1,1 @@
+126. § Az Országgyűlés felhatalmazza a Kormányt, hogy a nemzetgazdaság szempontjából kiemelten fontos finanszírozandó területekre az előző évek előirányzat-maradványaiból 2003. évben átcsoportosítást hajthasson végre.

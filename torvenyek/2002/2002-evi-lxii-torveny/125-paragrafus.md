@@ -1,0 +1,1 @@
+125. § Az e törvény 89. § (1) bekezdésével megállapított a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 77/A. §-a (2) bekezdésének d) pontját az adózó bármely korábbi adóév adókötelezettségére alkalmazhatja.

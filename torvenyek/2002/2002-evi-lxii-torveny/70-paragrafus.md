@@ -1,0 +1,1 @@
+70. § A LXXI. Nyugdíjbiztosítási Alap fejezet és a LXXII. Egészségbiztosítási Alap fejezet, 3. Vagyongazdálkodás cím bevételeit ugyanezen cím kiadásaira kell fordítani. E kötelezettség teljesítésén túl a vagyongazdálkodással kapcsolatos bevételek az ellátások fedezetét képezik.

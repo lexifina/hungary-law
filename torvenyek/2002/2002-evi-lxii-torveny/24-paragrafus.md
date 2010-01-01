@@ -1,0 +1,5 @@
+## A helyi önkormányzatok pénzellátásának kiegészítő szabályai
+
+24. § (1) A rendszeres gyermekvédelmi támogatás, a rendszeres szociális segély, az időskorúak járadéka, a normatív alapú ápolási díj, az önkormányzat által szervezett közcélú foglalkoztatás támogatása, valamint – a Munkaerőpiaci Alapból – a munkanélküliek jövedelempótló támogatása, az adósságcsökkentési támogatás és az adósságkezelési szolgáltatáshoz kapcsolódó lakásfenntartási támogatás, továbbá a XXI. Egészségügyi, Szociális és Családügyi Minisztérium fejezetből a gyermektartásdíj megelőlegezése esetében a települési önkormányzat első alkalommal az őt megillető havi összeg legfeljebb kétszeresét igényelheti – külön jogszabály szerinti – éven belüli elszámolási kötelezettséggel.
+
+(2) Az e törvény 5. számú melléklet 7., 10., 13. és 18. pontja, a 6. számú melléklet 1. pontjában, a 7. számú mellékletben, valamint a 8. számú melléklet I. rész 1., 5., 7–9. pontjában, II. rész 3. pontjában, továbbá a III. és IV. része alapján számított előirányzatok folyósítása az Áht. 101. §-ának (6) bekezdésében foglaltak szerint, nettó finanszírozás keretében történik.
