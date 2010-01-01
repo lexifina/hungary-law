@@ -1,0 +1,1 @@
+## 12. § A nyomtatvány által előírt adatokról a félnek nyilatkoznia kell, ha pedig azt e rendelet előírja, vagy a felet arra a területi hivatal – az igazolásra szolgáló okirat és az igazolás határidejének megjelölésével – felhívja, az adatot igazolnia is kell.

@@ -1,0 +1,1 @@
+## 70. § Ha a végrehajtást kérő fél részére csak a 44/2001/EK tanácsi rendelet 50. cikke vagy a 2201/2003/EK tanácsi rendelet 50. cikke alapján engedélyezhető támogatás, a támogatást engedélyező határozatban meg kell jelölni azt, hogy a támogatás hatálya csak a végrehajtás elrendelése iránti eljárásra terjed ki.

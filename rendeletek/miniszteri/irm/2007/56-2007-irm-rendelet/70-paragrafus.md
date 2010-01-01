@@ -1,0 +1,1 @@
+## A támogatást engedélyező határozat

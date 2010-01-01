@@ -1,0 +1,1 @@
+## 29. § A területi hivatal a támogatások számítógépes nyilvántartásába (a továbbiakban: támogatások nyilvántartása) a Jst. 34. §-ában meghatározott adatokat a bejegyzés alapját képező irat kézhezvételét követően legkésőbb három munkanapon belül jegyzi be.

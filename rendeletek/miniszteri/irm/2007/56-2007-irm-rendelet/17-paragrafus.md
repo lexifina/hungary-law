@@ -1,0 +1,3 @@
+17. § (1) A nyomtatványon minden, a munkaviszony, közszolgálati és közalkalmazotti jogviszony, egyéb szolgálati jogviszony, tagsági viszony, munkavégzésre irányuló egyéb jogviszony alapján elért jövedelemről és társadalombiztosítási vagy egyéb jogviszonyon alapuló járandóságról, munkanélküli-ellátásról (a továbbiakban együtt: jövedelem) nyilatkozni kell.
+
+(2) A kérelem előterjesztésekor fennálló jövedelem igazolásakor (nyomtatvány II. és III. pont) a rendszeres havi nettó (adó, adóelőleg, egészségbiztosítási és nyugdíjjárulék, magán-nyugdíjpénztári tagdíj, egyéb járulékok levonása után fennmaradó) jövedelemről kell nyilatkozni.
