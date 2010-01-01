@@ -1,0 +1,17 @@
+8/B. § (1) A nemzeti, etnikai kisebbségi óvodai nevelést biztosító óvoda, iskolai nevelést és oktatást végző iskola a 8. § (2)–(9) bekezdésében és a 8/A. § (1)–(4) bekezdésében foglaltakat azzal az eltéréssel alkalmazza, hogy az óvodai nevelési program, illetve az iskolai helyi tanterv elkészítésénél figyelembe veszi a Nemzeti, etnikai kisebbség óvodai nevelésének irányelvét, illetve a Nemzeti, etnikai kisebbség iskolai oktatásának irányelvét is. Az irányelveket az oktatásért felelős miniszter adja ki az Országos Kisebbségi Bizottság, az Országos Köznevelési Tanács és a Közoktatás-politikai Tanács véleményének kikérése után.
+
+(2) A két tanítási nyelvű iskolákban a 8. § (2)–(9) bekezdésében és a 8/A. § (1)–(4) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a helyi tanterv elkészítésénél az iskola figyelembe veszi a Két tanítási nyelvű iskolai oktatás irányelvében foglaltakat is.
+
+(3) A sajátos nevelési igényű gyermekek, tanulók nevelését biztosító óvoda, valamint nevelését és oktatását végző iskola a 8. § (2)–(9) bekezdésében és a 8/A. § (1)–(4) bekezdésében foglaltakat azzal az eltéréssel alkalmazza, hogy az óvodai nevelési program, illetve az iskolai helyi tanterv elkészítésénél figyelembe veszi a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelvét, illetve a Sajátos nevelési igényű tanulók iskolai oktatásának tantervi irányelvét is. A Sajátos nevelési igényű gyermekek óvodai nevelésének irányelvében, illetve a Sajátos nevelési igényű tanulók iskolai oktatásának tantervi irányelvében meghatározottak szerint a siket gyermek óvodai nevelése, iskolai nevelése és oktatása jelnyelven is folyhat.
+
+(4) A kollégiumok a Kollégiumi nevelés országos alapprogramjában foglaltaknak megfelelően készítik el a pedagógiai programjukat. A Kollégiumi nevelés országos alapprogramjának tartalmaznia kell a nemzeti, etnikai kisebbséghez tartozók kulturális, anyanyelvi nevelésének feladatait is.
+
+(5) Az alapfokú művészetoktatási intézményekben folyó nevelő és oktató munka tekintetében a 8. §-ban, a 8/A. §-ban, valamint a 8/B. § (1)–(4) bekezdésében foglaltak nem alkalmazhatók. Az alapfokú művészetoktatási intézményben a 8/A. § (5) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a helyi tanterv az oktatásért felelős miniszter által – művészeti áganként – kiadott Alapfokú művészetoktatás követelményei és tantervi programjára épül. A művészeti ágak a következők: zeneművészet, táncművészet, képző-, iparművészet, színművészet-bábművészet művészeti ágak.
+
+(6) Az oktatásért felelős miniszter az (1)–(5) bekezdésben szabályozott irányelveket, tantervi programot az Országos Köznevelési Tanács és a Közoktatás-politikai Tanács véleményének kikérése után adja ki.
+
+(7) A kerettanterveket az Országos Köznevelési Tanács és a Közoktatáspolitikai Tanács véleményének, továbbá nemzeti, etnikai kisebbségi oktatást érintő kérdésekben az Országos Kisebbségi Bizottság véleményének kikérése után az oktatásért felelős miniszter adja ki. A kerettantervnek és az érettségi vizsga vizsgakövetelményeinek összhangban kell állniuk egymással.
+
+(8) A szakképesítés megszerzésére felkészítő szakaszban a nevelő-oktató munka az iskola pedagógiai programjának részét alkotó szakmai program alapján folyik. A szakmai tantárgyak központi programjának (tantervének) [a továbbiakban: központi program (tanterv)] kiadásáról a szakképzésről szóló 1993. évi LXXVI. törvény rendelkezik. A központi programban (tantervben) meghatározhatók – az oktatásért felelős miniszter egyetértésével – szakmai előkészítő ismeretek is.
+
+(9)
