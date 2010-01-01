@@ -1,0 +1,1 @@
+A magzati élet védelméről szóló 1992. évi LXXIX. törvény (a továbbiakban: Tv.) módosításáról rendelkező 2000. évi LXXXVII. törvény 8. §-ának (3) bekezdésében foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
