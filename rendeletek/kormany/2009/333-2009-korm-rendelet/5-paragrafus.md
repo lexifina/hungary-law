@@ -1,0 +1,1 @@
+## „(7) A 38. §, 38/A. § és 54. § szerinti illetménypótlékban részesülők szolgálati ideje a Hszt. 329. § (1) bekezdés c) pontja alapján 2006. január 1-jétől a szolgálati idő a kedvezményes számításra jogosító beosztás betöltéséig, de legfeljebb 2010. december 31-ig számítható kedvezményesen.”
