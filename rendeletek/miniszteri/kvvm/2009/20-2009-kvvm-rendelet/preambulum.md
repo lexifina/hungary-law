@@ -1,0 +1,1 @@
+A szakképzésről szóló 1993. évi LXXVI. törvény 5. § (1) bekezdés b) pontjában kapott felhatalmazás alapján – a környezetvédelmi és vízügyi miniszter feladat- és hatásköréről szóló 165/2006. (VII. 28.) Korm. rendelet 1. § a)–c) pontjában megállapított feladatkörömben eljárva – a következőket rendelem el:
