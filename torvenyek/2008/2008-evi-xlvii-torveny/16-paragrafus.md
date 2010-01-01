@@ -1,0 +1,1 @@
+16. § Ha a tisztességtelen kereskedelmi gyakorlat még nem valósult meg, de a vállalkozás tevékenysége, így különösen a szükséges feltételek megteremtése, szerződések megkötése, eszközök beszerzése alapján valószínűsíthető, hogy annak alkalmazására sor kerülne, az eljáró hatóság jogosult a tervezett kereskedelmi gyakorlat előzetes megtiltására.

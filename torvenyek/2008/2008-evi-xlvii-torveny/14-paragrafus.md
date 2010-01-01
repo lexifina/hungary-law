@@ -1,0 +1,1 @@
+14. § A vállalkozás – az eljáró hatóság felhívására – a kereskedelmi gyakorlat részét képező tényállítás valóságát igazolni köteles. Ha a vállalkozás nem tesz eleget ennek a kötelezettségnek, úgy kell tekinteni, hogy a tényállítás nem felelt meg a valóságnak. Erre a vállalkozást a hatóság felhívásában figyelmeztetni kell.
