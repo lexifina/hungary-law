@@ -1,0 +1,1 @@
+122. § Akinek az eljárás során a személyes meghallgatása szükséges, a székhelyéhez, telephelyéhez, lakóhelyéhez legközelebb eső hivatali helyiségbe, illetve az adóhatóság székhelyére idézhető. E szabályt kell alkalmazni az ellenőrzési eljárás során is.

@@ -1,0 +1,1 @@
+139. § A fellebbezési eljárás során hozott határozatot (végzést) a fellebbezővel és mindazokkal, akikkel az elsőfokú határozatot (végzést) közölték, az első fokon eljárt adóhatóság útján írásban kell közölni.

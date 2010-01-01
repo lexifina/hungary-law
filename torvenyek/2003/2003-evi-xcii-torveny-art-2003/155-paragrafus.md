@@ -1,0 +1,7 @@
+155. § (1) Az ingatlan-végrehajtásnak akkor van helye, ha az adótartozás együtt az 500 ezer forintot meghaladja, illetve ennél kisebb összeg esetén, ha a tartozás a végrehajtás alá vont ingatlan értékével arányban áll.
+
+(2) A jogszabályban meghatározott lakásigény mértékének felső határát meg nem haladó nagyságú, az adós és a vele együtt élő közeli hozzátartozók lakhatását közvetlenül szolgáló lakástulajdon a végrehajtás során csak akkor értékesíthető, ha a végrehajtás más formái nem vezettek eredményre.
+
+(3) Az adóhatóság, illetőleg az adóhatóság megbízásából eljáró bírósági végrehajtó az ingatlan lefoglalása végett megkeresi az ingatlanügyi hatóságot, amely a végrehajtási jogot soron kívül bejegyzi az ingatlan-nyilvántartásba. A végrehajtási jog bejegyzése érdekében tett intézkedés ellen benyújtott végrehajtási kifogásnak a megkeresés alapján teendő ingatlanügyi hatósági intézkedésre halasztó hatálya nincs.
+
+(4) Ha az ingatlan-végrehajtásnak az (1) bekezdés alapján nincs helye, az adóhatóságot az adótartozás erejéig az adózó ingatlanán jelzálogjog illeti meg. Az adóhatóság, illetőleg az adóhatóság megbízásából eljáró bírósági végrehajtó a jelzálogjog bejegyzése végett megkeresi az ingatlanügyi hatóságot, amely a jelzálogjogot soron kívül bejegyzi az ingatlan-nyilvántartásba. A jelzálogjog-bejegyzés érdekében tett intézkedés ellen benyújtott végrehajtási kifogásnak a megkeresés alapján teendő ingatlanügyi hatósági intézkedésre halasztó hatálya nincs.

@@ -1,0 +1,1 @@
+130. § Az adókötelezettséget érintő jogviszony (szerződés, ügylet) alanyainak ellenőrzése során ugyanazon jogviszonyt az adóhatóság nem minősítheti adózónként eltérően, a jogviszony egyik alanyánál tett megállapításait hivatalból köteles figyelembe venni a jogviszony másik alanyának ellenőrzése során.

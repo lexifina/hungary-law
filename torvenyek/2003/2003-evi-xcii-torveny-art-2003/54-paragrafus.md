@@ -1,0 +1,59 @@
+54. § (1) Az adótitkot alapos okkal használják fel, ha
+
+a) adó vagy költségvetési támogatás ellenőrzését, az adóigazgatási eljárás megindítását, lefolytatását vagy a (2) és (3) bekezdésben megjelölt szervek tájékoztatását szolgálja,
+
+b) törvény előírja vagy megengedi,
+
+c) az érintett hozzájárul,
+
+d) a vállalkozási tevékenységet folytató adózó nevére, elnevezésére, székhelyére, telephelyére, adószámára vonatkozó adatok megismerésére más adózónak – az őt terhelő adókötelezettség jogszerű teljesítéséhez – vagy állami szervnek, köztestületnek törvényben meghatározott feladata ellátásához van szüksége.
+
+(2) Az adózással összefüggő tényt, adatot, iratot a hivatalos statisztikai szolgálathoz tartozó szervek statisztikai célra felhasználhatják, ha a titoktartási kötelezettség megtartását a feldolgozás során biztosítják és – amennyiben a statisztikáról szóló törvény másként nem rendelkezik – azt a későbbi egyedi azonosításra alkalmatlanná teszik.
+
+(3) Az adóhatóság jogosult a hatáskörébe tartozó, adóval kapcsolatos, a titoktartási kötelezettség alá tartozó adatról, tényről, körülményről vagy iratról más adóhatóság (vámhatóság) tájékoztatására, ha az valamely adó (vámteher) vagy adóhiány feltárását, behajthatóságának megállapítását, illetve adóigazgatási eljárás lefolytatását lehetővé teszi vagy valószínűsíti. A tájékoztatás joga a Nyugdíjbiztosítási Alap, az Egészségbiztosítási Alap és az elkülönített állami pénzalap kezelőjét is megilleti az általa kezelt alap javára teljesítendő kötelező befizetéssel összefüggésben. Az állami foglalkoztatási szervet a tájékoztatás joga – megkeresés alapján – megilleti arról is, hogy a magánszemélynek a munkanélküli-ellátás mellett van-e keresőtevékenységből származó jövedelme, és az meghaladja-e a törvényben meghatározott mértéket.
+
+(4) Az adóhatóság az adóztatási tevékenységéhez megkérheti az állami adóhatóságtól a vállalkozási tevékenységet folytató adózók bejelentkezése, illetőleg változásbejelentése alapján nyilvántartott adatokat. Az adóhatóság a tevékenysége során tudomására jutott, titoktartási kötelezettség alá tartozó adatról, tényről, iratról, körülményről hivatalból tájékoztatja a másik adóhatóságot, ha az lehetővé teszi, vagy valószínűsíti valamely adó (vámteher) vagy adóhiány feltárását, behajtását.
+
+(5) Az állami adóhatóság az adózót terhelő adókötelezettség jogszerű teljesítéséhez, a költségvetési támogatás jogszerű igénybevételéhez honlapján közzéteszi
+
+a) az általános forgalmiadó-alanynak minősülő, illetve az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény hatálya alá tartozó adózó, valamint e törvények hatálya alá nem tartozó, de adószámmal rendelkező jogi személy, egyéb szervezet adózók nevét (elnevezését), adószámát, székhelyét, telephelyét; csoportos általános forgalmi adóalanyiságot választók esetén a csoport azonosító számot valamint a csoportképviselő és az egyéb csoporttagok nevét (elnevezését), adószámát, székhelyét, telephelyét, illetve a csoportos általános forgalmiadó-alanyiságot engedélyezo határozat jogerőre emelkedése napját;
+
+b) az általa felfüggesztett adószámmal (csoportazonosító számmal) rendelkező adózók nevét, elnevezését, adószámát (csoportazonosító számát), a felfüggesztést elrendelő határozat jogerőre emelkedésének napját valamint határozott időtartamú felfüggesztés esetén a felfüggesztés kezdő és záróidőpontját, a felfüggesztés megszüntetését elrendelő határozat jogerőre emelkedésének, illetve az adószám (csoportazonosító szám) törlését elrendelő határozat jogerőre emelkedésének napjáig, továbbá
+
+c) azon adózók nevét, elnevezését és adószámát (csoport azonosító számát) az adószám (csoport azonosító szám) törlésére utalással, amely adózók adószámát az állami adóhatóság a 24/A. § (4) bekezdése alkalmazásával törölte, a törlést elrendelő határozat jogerőre emelkedésétől az adószám megállapításáig vagy ennek hiányában az adózó megszűnéséig, valamint
+
+d) az általa nyilvántartott adószámmal (csoport azonosító számmal) rendelkező, valamint a c) pont hatálya alá tartozó azon adózók nevét, elnevezését, adószámát, csoport azonosító számát (adószámát, csoport azonosító számát a törlésre utalással), amely adózókkal szemben az állami adóhatóság végrehajtási eljárást folytat, a végrehajtási eljárás megindításától annak befejezéséig a végrehajtás felfüggesztése vagy szünetelése időtartama kivételével;
+
+e) az adóköteles tevékenységet adószám birtokában végző magánszemélyek kivételével az adózónak a 1893/2006/EK rendelet szerint bejelentett és nyilvántartott tevékenységi köreit.
+
+(6) Az állami adóhatóság honlapján közzéteszi az általa nyilvántartott, adószámmal rendelkező, általános forgalmiadó-alanynak minősülő adózók – kivéve a Magyar Honvédséget és rendvédelmi szerveket, a nemzetbiztonsági szolgálatokat – az adóhatóság nyilvántartásában szereplő alkalmazottainak létszámát.
+
+(7) Az adóhatóság megkeresésre tájékoztatja az adótitokról
+
+a) a bíróságot;
+
+b) az ügyész által jóváhagyott megkeresésre a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
+
+c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
+
+d) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalásellenes Hivatalt (OLAF), ha a tájékoztatás az ellenőrzéshez szükséges,
+
+e) az adópolitikáért felelős minisztert, ha a tájékoztatás az adóztatáshoz, az adóztatás ellenőrzéséhez, felügyeletéhez szükséges,
+
+f) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges.
+
+(8) Az adóhatóság a nyomozó hatóságot a ,,halaszthatatlan intézkedés'' jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, adótitoknak minősülő adatokról.
+
+(9) Az adóhatóság negyedévenként, a tárgynegyedévet követő hó 15. napjáig – a támogatás ellenőrzésének és nyilvántartásának céljából – tájékoztatja az agrárpolitikáért felelős minisztert, a mezőgazdasági igazgatási szervet, valamint a mezőgazdasági és vidékfejlesztési támogatási szervet a kiutalt, valamint a visszatartási jog gyakorlása keretében visszatartott, illetőleg a személyi jövedelemadóról szóló törvény 3. §-ának 41. pontjában meghatározott és 39. §-ának (1) bekezdése alapján igénybevett támogatás összegéről. Az adóhatóság a tájékoztatást adózónként, az adózók azonosítására alkalmas módon teljesíti.
+
+(10) Az állami adóhatóság a csekély összegű (de minimis) támogatások összegéről adózónként az adóbevallás határidejét követő 90 napon belül adatot szolgáltat a kincstárnak, amely az adatokat az országos támogatási monitoring rendszerben rögzíti.
+
+(11) Az állami adóhatóság az államháztartásról szóló törvény felhatalmazása alapján az államháztartási szervek és a közvállalkozások közötti pénzügyi kapcsolatok átláthatóságáról, valamint az egyes vállalkozásokon belüli pénzügyi átláthatóságról szóló kormányrendeletben meghatározott adatokat, dokumentumokat az Európai Bizottságnak megküldi, illetőleg rendelkezésre bocsátja.
+
+(12) A kettős adóztatás elkerüléséről szóló nemzetközi szerződés információcseréről rendelkező cikke keretében a magyar illetékes hatóság a külföldi állam illetékes hatóságának a magánszemélyekről az egyezmény rendelkezéseinek végrehajtása, a külföldi állam adóztatási jogának biztosítása, illetőleg a kettős adóztatás elkerülése érdekében az azonosításhoz, az adómegállapításhoz, az ellenőrzéshez, a bizonyítási eljáráshoz, illetőleg a tényállás tisztázásához szükséges olyan személyes adatokat adhat át, amelyeket nyilvántartásai tartalmaznak vagy amelyek megszerzését a belföldi jogszabályok számára lehetővé teszik.
+
+(13) Az adótitok megőrzésének a kötelezettsége nem áll fenn abban az esetben, ha a pénzügyi információs egységként működő hatóság – a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresése teljesítése céljából, ha a megkeresés tartalmazza a külföldi adatkérő által aláírt titoktartási záradékot – írásban kér adótitoknak minősülő adatot az adóhatóságtól.
+
+(14) Ha az állami adóhatóság az adózónál be nem jelentett alkalmazottat talál, a foglalkoztatotti jogviszony rendezése érdekében a jogerős határozata egy példányának megküldésével tájékoztatja a munkaügyi hatóságot és az egészségbiztosítási szervet. Az adóhatóság a hónap folyamán jogerőssé vált határozatokat a következő hónap 10. napjáig elektronikus úton továbbítja a munkaügyi hatóságnak és az egészségbiztosítási szervnek.
+
+(15) Ha az állami adóhatóság a biztosítottat terhelő járulékkötelezettséget (tagdíjat) a magánszeméllyel szemben állapítja meg, akkor annak megtérülése esetén az erről szóló határozatot a megtérüléstől számított 30 napon belül, a nyugellátás megállapítása céljából megküldi a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, illetőleg magánnyugdíjpénztári tag esetén az illetékes magánnyugdíjpénztár részére is.

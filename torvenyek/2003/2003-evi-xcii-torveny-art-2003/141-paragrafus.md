@@ -1,0 +1,11 @@
+## Felügyeleti intézkedés
+
+141. § (1) A felettes adóhatóság, illetve az adópolitikáért felelős miniszter kérelemre vagy hivatalból felügyeleti intézkedést tesz, ha az ügyben eljárt adóhatóság határozata, önálló fellebbezéssel megtámadható végzése (intézkedése) jogszabálysértő, vagy a határozat, az önálló fellebbezéssel megtámadható végzés meghozatalára (intézkedésre) jogszabálysértő módon nem került sor.
+
+(2) Az adóhatóság a felettes adóhatóság, illetve az adópolitikáért felelős miniszter erre irányuló felhívásától számított 15 napon belül köteles az iratokat felterjeszteni. Az utólagos adómegállapítással kapcsolatban benyújtott felügyeleti intézkedés iránti kérelem elbírálása esetén az ügyintézési határidő az iratoknak a felügyeleti szervhez történő beérkezésének napjától számított 60 nap, kivéve, ha az eljáró szerv a kérelmet érdemi vizsgálat nélkül utasítja el.
+
+(3) A felettes adóhatóság, illetve az adópolitikáért felelős miniszter a jogszabálysértő határozatot (intézkedést), önálló fellebbezéssel megtámadható végzést megváltoztatja, megsemmisíti, amennyiben szükséges új eljárás lefolytatását rendeli el, vagy az elsőfokú adóhatóságot eljárás lefolytatására utasítja. A felettes adóhatóság, illetve az adópolitikáért felelős miniszter a felügyeleti intézkedésről határozatot (végzést) hoz. A felügyeleti intézkedés mellőzéséről az adóhatóság, illetve az adópolitikáért felelős miniszter az adózót határozat (végzés) meghozatala nélkül értesíti.
+
+(4) Felügyeleti intézkedés keretében nem hozható olyan döntés, amely az adókötelezettséget, az adó alapját, az adó összegét, a költségvetési támogatás alapját, összegét az adózó terhére változtatja meg. Amennyiben a felettes adóhatóság vagy az adópolitikáért felelős miniszter megállapítása szerint a felülvizsgált döntés (intézkedés) súlyosításának lenne helye, úgy a jogszabálysértő döntést (intézkedést) megsemmisíti és új eljárás lefolytatását rendeli el.
+
+(5) A felettes adóhatóság, illetve az adópolitikáért felelős miniszter a felügyeleti intézkedés iránti kérelmet érdemi vizsgálat nélkül elutasíthatja, ha a kérelemből megállapíthatóan a határozat, önálló fellebbezéssel megtámadható végzés (intézkedés) jogszabálysértő volta nem valószínűsíthető vagy a bírósági felülvizsgálatot az adózó kezdeményezte.

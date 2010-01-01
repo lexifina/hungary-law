@@ -1,0 +1,1 @@
+20/B. § Az általános forgalmi adóról szóló törvény szerinti adómentes termékimportot megalapozó közösségi adómentes termékértékesítést közvetett vámjogi képviselő igénybevételével teljesítő importáló mentesül a bejelentkezési kötelezettség teljesítése alól, ha belföldön más adóköteles tevékenységet nem folytat.

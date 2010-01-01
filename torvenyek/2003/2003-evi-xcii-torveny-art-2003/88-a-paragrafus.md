@@ -1,0 +1,15 @@
+88/A. § (1) A központi költségvetés, az egyes elkülönített pénzalapok bevételi érdekeit különösen veszélyeztető adózói jogsértések felderítése, illetve a jogszerű állapot helyreállítása érdekében a Kormány által központosított ellenőrzésre kijelölt szervek az állami adóhatóság vezetőjének vagy a vámhatóság vezetőjének saját hatáskörében vagy más adóhatóság, hatóság megkeresésére kiadott utasítása alapján a Magyar Köztársaság területén a (2) bekezdésben meghatározott okból ellenőrzést végezhetnek, kezdeményezhetnek, megkezdett ellenőrzéseket magukhoz vonhatnak (központosított ellenőrzés).
+
+(2) Az (1) bekezdés szerinti központosított ellenőrzés elrendelésére abban az esetben kerülhet sor, ha a rendelkezésre álló adatok, tények, körülmények valószínűsítik, hogy az adókötelezettségeket
+
+a) a határon átnyúló, harmadik országba irányuló jogsértő kereskedelmi kapcsolatokkal, jogszerű kereskedelmi kapcsolatok színlelésével teljesítik,
+
+b) az Európai Közösség más tagállamában illetőséggel bíró adóalannyal, adóalanyokkal folytatott kereskedelmi kapcsolat során megsértik,
+
+c) belföldi illetőségű, egy vagy több területi szerv illetékességébe tartozó adózók a kapcsolt vállalkozásokra előírt szabályok (elszámoló árak) megsértésével, színlelt szerződéssel vagy a rendeltetésszerű joggyakorlás alapelvébe ütköző módon teljesítik,
+
+d) közbeszerzések megvalósítása érdekében kötött szerződések teljesítése során jogszerűtlen, színlelt, adóelkerülő vagy a rendeltetésszerű joggyakorlás alapelvébe ütköző módon megsértik,
+
+e) kiemelkedő jelentőségű, a vámhatóság hatáskörébe tartozó adóügyekben megsértik.
+
+(3) A központosított ellenőrzési eljárást és az azt követő hatósági eljárást a Kormány által központosított ellenőrzésre kijelölt szerv egy eljárásban, több adózónál egyidejűleg is jogosult lefolytatni. Az eljáró szerv az eljárás eredményeként kiadmányozott jogerős határozat(ok) egy példányának megküldésével tájékoztatja az egyébként hatáskörrel és illetékességgel rendelkező adóhatóságot.

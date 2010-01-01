@@ -1,0 +1,1 @@
+105/A. § A jogi személy, jogi személyiség nélküli szervezet, továbbá az egyéni vállalkozó ellenőrzésével kapcsolatban hozott jogerős és fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatot nem kell közzétenni.

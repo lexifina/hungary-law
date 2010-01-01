@@ -1,0 +1,1 @@
+15. § Az adózó és az adó megfizetésére kötelezett személy jogait és kötelességeit nem érinti, hogy az adóból származó bevétel, illetve a költségvetési támogatás a központi költségvetést, valamely elkülönített állami pénzalapot vagy önkormányzat költségvetését illeti meg, illetőleg terheli.
