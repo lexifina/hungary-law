@@ -1,0 +1,5 @@
+26/C. § (1) Ha a bányászati munkák végzése során a művelésre engedélyezett bányatelek területén a kitermelés befejezése vagy a koncesszió megszűnése előtt olyan természeti, környezeti, műemléki vagy régészeti érték válik ismertté, mely más módon nem védhető meg, az érintett hatóság határozata alapján – melyben rendelkezni kell a bányavállalkozó kártalanításáról is – a bányafelügyelet a bányatelket hivatalból csökkentheti.
+
+(2) A művelés alatt álló bányatelek területének az (1) bekezdés alapján hivatalból történt csökkentése miatt a bányavállalkozót megillető kártalanításra a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.
+
+(3) Ha a már megállapított bányatelek területét a kitermelés befejezése vagy a koncesszió megszűnése előtt a 49. § 16. pontja szerinti kivett hellyé nyilvánítják, az ebből eredő károkért a bányavállalkozót kártalanítás illeti meg. A kivett hellyé nyilvánításról, illetve jogszabály alapján az annak érvényesítésére szolgáló határozatban a kártalanításról is rendelkezni kell.

@@ -1,0 +1,45 @@
+## A szénhidrogén-kutatás, -feltárás és -kitermelés engedélyezésének sajátos szabályai
+
+22/A. § (1) A miniszter a 9. §-ban foglaltak alapján kijelöli azokat a zárt területeket, amelyeken a szénhidrogének kutatásának, feltárásának és kitermelésének koncesszió keretében történő engedélyezése a területeknek két országos terjesztésű napilapban, a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az Európai Unió Hivatalos Lapjában történt közzétételét (hirdetmény) követő 90 nap elteltével, a benyújtott pályázatok egyidejű elbírálásával kezdődik meg.
+
+(2) A hirdetmény közzétételéről a bányafelügyelet intézkedik.
+
+(3) A hirdetményben meg kell határozni, hogy a koncesszió milyen tevékenységekre vonatkozik, azt a földrajzi területet, amelyre pályázatot lehet benyújtani, továbbá az elbírálás tervezett időpontját vagy határidejét, illetőleg az előnyben részesítés esetleges szempontjait. E szempontok meghatározásánál az egyenlő bánásmód követelményét meg kell tartani. A hirdetményben fel kell tüntetni azt is, hogy a területre és az engedélyezési eljárásra vonatkozóan hol lehet részletes információkat kapni.
+
+(4) Nem kell alkalmazni az (1)–(3) bekezdés rendelkezéseit, ha egy területnél geológiai és termelési szempontok alátámasztják, hogy a területen már megállapított bányatelek jogosultja kezdeményezi bányatelkének bővítése céljából kutatási jog adományozását. Nem kell alkalmazni az (1)–(3) bekezdés rendelkezéseit akkor sem, ha egy területnél geológiai és termelési szempontok alátámasztják, hogy a szomszédos terület engedélyese kapjon arra kutatási jogot. Ez esetben a bányafelügyelet tájékoztatja a szomszédos terület engedélyeseit arról, hogy 30 napon belül kutatási jog adományozása iránt kérelemmel élhetnek.
+
+(5) A bányafelügyelet gondoskodik azon területeknek a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az Európai Unió Hivatalos Lapjában történő közzétételéről is,
+
+a) amelyek nem tartoznak az (1)–(3) bekezdés szerint kijelölt területek közé, mert ezek bármely vállalkozás részére kutatási engedélykérelem szempontjából állandóan rendelkezésre álló területnek minősülnek;
+
+b) amelyekre az (1)–(3) bekezdés szerinti eljárást követően nem került engedély kiadásra;
+
+c) amelyekre az engedélyesek a kutatási területeket visszaadták;
+
+d) amelyek a 26/A. § (6) bekezdése alapján szabadultak fel.
+
+(6) Az (5) bekezdésben meghatározott területeket ismertető hirdetményben fel kell tüntetni azt is, hogy a területre és az engedélyezési eljárásra vonatkozóan hol lehet részletes információkat kapni. A hirdetményben fel kell tüntetni továbbá az előnyben részesítés esetleges szempontjait. E szempontok meghatározásánál az egyenlő bánásmód követelményét meg kell tartani. A hirdetmény bármely jelentős változásáról újabb hirdetményt kell kiadni. E területekre vonatkozó, engedélyezésre irányuló kérelmet csak a hirdetmény megjelenését követően, a kérelmeknek a bányafelügyelethez történt beérkezésének sorrendjében lehet elbírálni.
+
+(7) Nemzetbiztonsági okokból megtagadható vagy visszavonható az engedély olyan vállalkozás esetében, amely az Európai Unió tekintetében harmadik országok vagy harmadik országok állampolgárainak irányítása alatt áll.
+
+(8) A szénhidrogénekre vonatkozó kutatási jogadomány iránti kérelemhez mellékelni kell a kutatási munkaprogramot és annak költségvetését. A kutatási jog adományozásának feltétele kutatási blokkonként 200 millió forint, de – az egy vállalkozó jogosultságában álló kutatási területek számától és nagyságától, illetve az összes kutatási költségtől függetlenül – egyidejűleg legfeljebb 1 milliárd forint pénzügyi biztosíték nyújtása. A pénzügyi biztosíték összege a költségvetésben megosztható a kutatási munkaprogram végrehajtásával kapcsolatos feladatok, valamint a várható bányakárok, tájrendezési és környezetmegóvási kötelezettségek fedezetére. Pénzügyi biztosíték az Európai Gazdasági Térség valamely tagállamában székhellyel rendelkező hitelintézet által nyújtott bankgarancia lehet. Olyan hitelintézet által nyújtott bankgarancia, amelynek székhelye nem az Európai Gazdasági Térség valamely tagállamában van, csak akkor fogadható el, ha azt az Európai Gazdasági Térség valamely tagállamában székhellyel rendelkező hitelintézet felülgarantálja.
+
+(9) Pénzügyi biztosítékként visszavonhatatlan vagy a bányafelügyelet jóváhagyásához kötött visszavonható bankgarancia fogadható el. A bányafelügyelet a pénzügyi biztosíték visszavonását akkor hagyja jóvá, ha a bányavállalkozó a kutatási munkaprogramját teljesítette, vagy a kutatási területet visszaadta és a kutatással összefüggésben keletkezett bányakártalanítási, illetve tájrendezési, környezetmegóvási kötelezettsége nem maradt fenn. A pénzügyi biztosíték visszavonása – a költségvetésben szereplő (8) bekezdés szerinti megosztásnak megfelelően – a végrehajtott kutatási és kártalanítási kötelezettségekkel arányosan, részösszegekre is engedélyezhető. Abban az esetben, ha a bányafelügyelet a 22. § (9) bekezdése alapján a kutatási jogadományt visszavonja, vagy koncessziós szerződés esetén a miniszter, a bányafelügyelet kezdeményezése alapján, a szerződésszegés jogkövetkezményeit alkalmazza, a pénzügyi biztosítékot a kötelezettségszegés mértékéig érvényesíteni kell a központi költségvetés javára. A pénzügyi biztosíték igénybevételéről a bányafelügyelet a (8) bekezdésben foglaltak figyelembevételével dönt.
+
+(10) Szénhidrogének esetében a kutatási jog adományozására, a kutatás műszaki üzemi tervének jóváhagyására, illetőleg a bányászati jog átruházására irányuló eljárásban az e törvényben és a külön jogszabályban megállapított általános követelményeken túl a bányafelügyeletnek vizsgálnia kell
+
+a) a kérelmezők műszaki és pénzügyi alkalmasságát;
+
+b) azt, hogy a kérelmezők mikor és milyen módon tervezik a kutatást (feltárást, illetőleg kitermelést) megkezdeni, illetve végrehajtani,
+
+c) azt, hogy a kérelmezők a korábbi engedélyeik alapján tevékenységüket milyen hatékonysággal és felelősséggel végezték,
+
+d) átruházási szándék esetén az a)–c) pontokban foglaltak mellett azt is, hogy a kérelmező átvevő milyen összeget vállal fizetni az engedély elnyerése érdekében.
+
+(11) Nem minősül az (1) és (6) bekezdés szerinti engedély megadásának:
+
+a) a kutatási jogadomány, valamint a bányatelek jogosultjának névátírása, ha az a meglévő engedéllyel rendelkező vállalkozás névváltozásából vagy tulajdonosváltozásából, vagy az ilyen vállalkozás tulajdonosi összetételének változásából ered,
+
+b) kutatási jogadományt vagy bányatelek megállapítását követően a kutatási, illetve feltárási, kitermelési műszaki üzemi terv jóváhagyása;
+
+c) a bányafelügyelet olyan eljárás keretében hozott határozata, amely a tevékenységek megkezdésére, félbeszakítására, meghosszabbítására vagy megszüntetésére, illetve magának az engedélynek a meghosszabbítására vonatkozik.

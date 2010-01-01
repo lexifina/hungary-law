@@ -1,0 +1,1 @@
+15. § Ha a koncesszió jogosultja a szerződésben meghatározott határidőn belül, legkésőbb azonban a bányatelek megállapításától számított 5 éven belül a kitermelést nem kezdi meg, a kiesett bányajáradék pótlására a szerződésben meghatározott térítést köteles megfizetni. Ha a térítésfizetési kötelezettségnek nem tesz eleget, a koncesszió megszűnik.

@@ -1,0 +1,5 @@
+44/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály földtani szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag a bányafelügyelet engedélyével rendelkező személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az ilyen személy igénybevételéhez fűződnek.
+
+(2) Az (1) bekezdés szerinti szakértői tevékenység folytatását a bányafelügyelet annak engedélyezi, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
+
+(3) A bányafelügyelet a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.

@@ -1,0 +1,5 @@
+43/C. § (1) A bányatelek megállapítási, a kutatási, kitermelési, szüneteltetési, bányabezárási, mezőfelhagyási, műszaki üzemi tervek engedélyezési eljárásaiban, továbbá a bányafelügyelet hatáskörébe tartozó építésügyi hatósági engedélyezési eljárásokban hozott határozatok fellebbezéssel nem támadott rendelkezései tekintetében, szolgalom-, vezetékjog-, használatijog-alapítási eljárásban a jogorvoslattal nem érintett ingatlanra – ezen belül önállóan a szolgalom-, vezetékjog-, használatijog-alapításra és a kártalanításra – beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+
+(2) A bányatelket megállapító jogerős határozattal szemben az első műszaki üzemi tervet jóváhagyó határozat jogerőre emelkedéséig, de legfeljebb a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott jogvesztő határidőn belül lehet újrafelvételi eljárást kezdeményezni. A bányászati jog átruházások tárgyában hozott jogerős határozattal szemben újrafelvételi eljárás nem kezdeményezhető.
+
+(3)
