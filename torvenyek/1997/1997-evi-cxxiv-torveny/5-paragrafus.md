@@ -1,0 +1,3 @@
+5. § (1) Az egyházi intézményfenntartók által ellátott nevelési-oktatási, felsőoktatási, kulturális, szociális, egészségügyi, sport, illetőleg gyermek- és ifjúságvédelmi tevékenységek központi költségvetési finanszírozása az állami és önkormányzati intézményekre vonatkozó általános szabályok alapján, azokkal azonos mértékben történik.
+
+(2) Az egyházi fenntartóknak az (1) bekezdésben említett intézmények után a hasonló feladatot ellátó állami és helyi önkormányzati intézményekkel azonosan járó normatív és egyéb állami hozzájárulásának jogcímeit és fedezetét, illetve arányait az éves költségvetési törvény tartalmazza.

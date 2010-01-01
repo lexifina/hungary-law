@@ -1,0 +1,1 @@
+1. § E törvényt alkalmazni kell a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény szerint a bíróság által nyilvántartásba vett egyházra, vallásfelekezetre és vallási közösségre (a továbbiakban: egyház).
