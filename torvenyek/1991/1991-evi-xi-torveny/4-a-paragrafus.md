@@ -1,0 +1,3 @@
+4/A. § (1) Szúnyogirtószer és szúnyoglárvairtó-szer légi úton történő környezetbe juttatása az egészségügyi államigazgatási szerv engedélyével végezhető. Az engedélyes a szúnyogirtás tényleges időpontját és helyét legkésőbb 48 órával a tevékenység megkezdése előtt bejelenti az egészségügyi államigazgatási szervnek.
+
+(2) Az (1) bekezdést a szúnyogirtási tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
