@@ -1,0 +1,3 @@
+13. § A Thtv. 57. §-a a következő új (3) bekezdéssel egészül ki, egyben a jelenlegi (3) bekezdés számozása (4) bekezdésre változik:
+
+„(3) A távhőszolgáltatás csatlakozási díját és a lakossági távhőszolgáltatás díját, illetve a távhőnek a távhőtermelő és a távhőszolgáltató közötti szerződésben meghatározott árát külön jogszabályban meghatározott szempontok szerint úgy kell meghatározni, hogy az a hatékonyan működő vállalkozó szükséges és indokoltan felmerült ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, valamint biztosítsa, hogy a kapcsoltan termelt villamos energia kötelező átvételi rendszerében történő részvételből származó előny a távhőfogyasztókhoz kimutathatóan eljusson”
