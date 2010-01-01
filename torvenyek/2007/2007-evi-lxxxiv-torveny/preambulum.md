@@ -1,0 +1,1 @@
+Az Országgyűlés az egészségkárosodást szenvedett személyek megmaradt, fejleszthető képességeire épülő rehabilitációjának, társadalmi reintegrációjának elősegítésére, továbbá a rehabilitáció időtartamára a jövedelemarányos keresetpótlás érdekében a következő törvényt alkotja:
