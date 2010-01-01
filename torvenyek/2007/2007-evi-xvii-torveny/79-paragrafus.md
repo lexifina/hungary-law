@@ -1,0 +1,1 @@
+79. § A külön jogszabályban meghatározott birtokösszevonási célú termőföld vásárlás támogatásával összefüggésben az állam javára elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.

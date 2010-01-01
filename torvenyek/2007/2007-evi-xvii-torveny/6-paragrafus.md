@@ -1,0 +1,1 @@
+6. § Annak érdekében, hogy az intézkedések ténylegesen a jogszabályokban vagy programokban meghatározott célok megvalósítását szolgálják, a végrehajtási feladatokat ellátó szervezetek kötelesek megteremteni, illetve biztosítani a szándékos szabálytalanságok elleni hatékony fellépéshez szükséges feltételeket.

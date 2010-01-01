@@ -1,0 +1,1 @@
+8. § A törvény rendelkezéseit az Európai Unió Közös Agrárpolitikájáról (KAP), valamint Közös Halászati Politikájáról (KHP) szóló közvetlenül alkalmazandó közösségi jogi aktusokkal együtt kell alkalmazni és értelmezni.

@@ -1,0 +1,17 @@
+## A kérelem benyújtása
+
+38. § (1) Jogszabály vagy a pályázati felhívást tartalmazó közlemény eltérő rendelkezése hiányában a kérelmet a mezőgazdasági és vidékfejlesztési támogatási szervhez kell benyújtani.
+
+(2) A (3) bekezdésben foglalt esetek kivételével a kérelmet postai úton kell benyújtani.
+
+(3) Jogszabály lehetővé teheti, hogy a kérelmet benyújtani, illetve adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen vagy fax útján is lehessen. A regisztrációs szám megállapítása iránti kérelem személyesen is benyújtható.
+
+(4) Jogszabály eltérő rendelkezése hiányában a kérelem benyújtására megállapított határidőt megtartottnak kell tekinteni, ha a kérelmet legkésőbb a határidő utolsó napján postára adták, illetve az elektronikus úton benyújtásra kerülő kérelmek esetében az automatikus értesítés legkésőbb a határidő utolsó napjának dátumával történő beérkezést igazolja.
+
+(5) Amennyiben ezt közvetlenül alkalmazandó közösségi jogi aktusban foglaltak végrehajtása megköveteli, jogszabály, illetve pályázati felhívást tartalmazó közlemény a kérelem vagy más irat benyújtása esetében a mezőgazdasági és vidékfejlesztési támogatási szervhez történő legkorábbi, illetve legkésőbbi beérkezési határidőt is meghatározhat.
+
+(6) A kérelem benyújtására vagy beérkezésére nyitva álló, illetve eljárási cselekményre meghatározott határidő vagy határnap elmulasztása esetén – kivéve, ha az intézkedésben való részvétel részletes feltételeit meghatározó jogszabály ezt kifejezetten lehetővé teszi – igazolásnak helye nincs.
+
+(7) A kérelem, illetve a pályázat benyújtása, valamint a vonatkozó jogszabályokban, illetve a pályázati felhívásban rögzített feltételek teljesítése az intézkedésben való részvételre nem jelent alanyi jogosultságot, arról csak a rendelkezésre álló jogosultsági keretekre tekintettel hozható döntés.
+
+(8) Az intézkedésekben való részvétel során az ügyfélnek kell a jogosultsági feltételek meglétét hitelt érdemlően bizonyítania. Az ügyfelet terheli továbbá a kérelemmel, illetve a pályázattal összefüggésben tett bármilyen nyilatkozatával, állításával, valamint mezőgazdasági és vidékfejlesztési támogatási szerv által megállapított ténnyel szemben a bizonyítási kötelezettség.

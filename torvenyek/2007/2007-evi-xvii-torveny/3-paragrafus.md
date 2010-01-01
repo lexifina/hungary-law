@@ -1,0 +1,1 @@
+3. § A végrehajtási feladatokat ellátó szervezetek minden ügyben kötelesek megkülönböztetés nélkül, az adott intézkedésre vonatkozó közösségi jogi aktusoknak és nemzeti hatáskörben kiadott jogszabályoknak, és az ezeken alapuló más rendelkezéseknek megfelelően, valamint a támogatási cél megvalósítását és rendeltetését elősegítő módon eljárni és intézkedni.

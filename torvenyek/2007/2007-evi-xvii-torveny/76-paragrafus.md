@@ -1,0 +1,7 @@
+76. § (1) A mezőgazdasági vagyoni értékű jogok átruházására vagy ideiglenes átengedésére irányuló szerződést közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.
+
+(2) A mezőgazdasági vagyoni értékű jog átruházásáról, illetve ideiglenes átengedéséről szóló szerződés, illetve a szerződés módosítása alapján – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a felek közösen kötelesek kérelmezni az átruházni, illetve ideiglenesen átengedni kívánt mezőgazdasági vagyoni értékű jogok nyilvántartásban történő átvezetését, amennyiben a nyilvántartás vezetése a mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozik. Jogszabály előírhatja, hogy az átruházás vagy az ideiglenes átengedés tényét a szerződés hatálybalépését megelőzően, előzetesen be kell jelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnek.
+
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartásba vétel iránti kérelemről a kérelem beérkezését követő negyvenöt munkanapon belül dönt. A nyilvántartásban való átvezetésig az átadó viseli a vagyoni értékű jogokkal járó kötelezettségeket.
+
+(4) Amennyiben jogszabály előírja, hogy a mezőgazdasági vagyoni értékű jog átruházása, illetve ideiglenes átengedése csak a megfelelő földterület, állatállomány, illetőleg mezőgazdasági üzem (üzemrész) átruházásával vagy átengedésével együtt történhet, az átruházás, illetve ideiglenes átengedés további feltételeit külön jogszabály határozza meg.
