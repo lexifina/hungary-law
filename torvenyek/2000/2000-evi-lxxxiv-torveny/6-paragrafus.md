@@ -1,0 +1,1 @@
+6. § A területi szervezet képviseleti szerve – az Alapszabályban meghatározottak szerint – legalább három tagból álló etikai-fegyelmi bizottságot választ. Az etikai-fegyelmi bizottságot, valamint a bizottság élére tisztségviselőként elnököt az alakuló ülésen kell megválasztani.

@@ -1,0 +1,3 @@
+19/A. § (1) A kamarai tagsági viszony fennállása alatt lefolytatott hatósági ellenőrzés keretében a Kamara ellenőrzi azt is, hogy a növényvédő mérnök-növényorvossal szemben fennáll-e a 18. § (1) bekezdés b) és c) pontjában, valamint a 19. § (2) bekezdés a) és b) pontjában meghatározott, kamarai tagságot kizáró ok. A hatósági ellenőrzés céljából a Kamara adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a növényvédő mérnök-növényorvossal szemben fennáll-e a 18. § (1) bekezdés b) és c) pontjában, valamint a 19. § (2) bekezdés a) és b) pontjában meghatározott kizáró ok.
+
+(2) A Kamara az (1) bekezdés alapján megismert személyes adatokat a növényvédő mérnök-növényorvos kamarai tagságának megszűnéséig kezeli.
