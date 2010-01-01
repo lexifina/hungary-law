@@ -1,0 +1,1 @@
+7. § A közigazgatási hatóság a költségtakarékosság és a hatékonyság érdekében úgy szervezi meg a tevékenységét, hogy az az ügyfélnek és a hatóságnak a legkevesebb költséget okozza, és az eljárás a lehető leggyorsabban lezárható legyen.

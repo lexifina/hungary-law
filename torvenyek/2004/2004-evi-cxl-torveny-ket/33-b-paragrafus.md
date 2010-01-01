@@ -1,0 +1,5 @@
+33/B. § (1) A hatóság együttes eldöntés céljából elrendelheti az előtte folyamatban lévő olyan eljárások egyesítését, amelyek tárgya egymással összefügg. A hatóság a döntéseit egybefoglalhatja.
+
+(2) Az ügyfelek közösen előterjesztett kérelmére a hatóság – ha annak az (1) bekezdésben foglalt feltételei fennállnak – az eljárásokat egyesíti, és döntéseit egybefoglalhatja.
+
+(3) Az eljárások egyesítése esetén a hatóság az egyes eljárásokra irányadó legkorábban lejáró ügyintézési határidőn belül jár el.

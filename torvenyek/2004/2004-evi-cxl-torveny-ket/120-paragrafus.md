@@ -1,0 +1,1 @@
+120. § Ha az ügyész az e törvény hatálya alá tartozó ügyben nyújt be óvást, felszólalást, figyelmeztetést vagy jelzést a hatóság döntése, eljárása vagy mulasztása ellen, annak elbírálására a Magyar Köztársaság ügyészségéről szóló 1972. évi V. törvénynek az ügyészi törvényességi felügyeletre vonatkozó V. fejezetében, valamint a VII. fejezetében foglaltak az irányadók.
