@@ -1,0 +1,3 @@
+2. § (1) Magyarországi felhasználónak szánt feldolgozott élelmiszerről az élelmiszer-előállító a Melléklet szerinti tartalmú gyártmánylapot köteles készíteni és vezetni.
+
+(2) Az egymástól csak névleges tömegükben vagy térfogatukban eltérő termékekről elegendő egyetlen gyártmánylapot készíteni. Nem szükséges külön gyártmánylapot készíteni azokra a termékekre sem, amelyek csak ízesítésükben különböznek egymástól, illetve azokra amelyeket azonos tartalommal, azonos élelmiszer-előállító különböző telephelyein állítanak elő vagy azonos tartalommal különböző csomagolásban hoznak forgalomba. A névleges mennyiségeket, ízválasztékot, előállítási helyeket, csomagolási módokat és az ezekhez kapcsolódó változó elemeket a gyártmánylapon egyértelműen meg kell adni.
