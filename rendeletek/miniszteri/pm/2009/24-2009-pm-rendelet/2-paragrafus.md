@@ -1,0 +1,7 @@
+## „(4) A biztosító az éves belső jelentést a Bit. 147. § (1) bekezdésében meghatározottak szerint az éves beszámolóval együtt, elektronikus úton megküldi a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) részére.
+
+## (5) A biztosító az I–III. negyedévről szóló negyedéves belső jelentést a tárgynegyedévet követő hónap 15. munkanapjáig, a IV. negyedévről szóló negyedéves belső jelentést a tárgyévet követő év január 31-éig a Felügyelet részére megküldi. A negyedéves belső jelentésen belül elkülönítetten küldi a KTABERT6 (kiszervezési adatok) táblát, valamint a negyedéves belső jelentések kiegészítő tábláit. A biztosító a felügyeleti alapdíj számításáról szóló BIZTAD éves felügyeleti alapdíj táblát elkülönítetten, a tárgyév január 31. napjáig megküldi a Felügyelet részére.
+
+## (6) A biztosító a belső törzsadat jelentést első alkalommal a Felügyelet által kiadott tevékenységi engedélyről szóló határozat jogerőre emelkedését követő 15 munkanapon belül, majd a II. negyedéves belső jelentéssel egyidejűleg, a június 30-ai állapotnak megfelelően, a törzsadatban történt időközi változást pedig a változást követő 15 munkanapon belül köteles a Felügyelet részére megküldeni. Időközi változás esetén a biztosító csak a változással érintett törzsadat táblákat jelenti.
+
+## (7) A biztosító a Felügyelet által kiadott tevékenységi engedélyről szóló határozat jogerőre emelkedésének napjától a felügyeleti engedély visszavonásáról szóló határozat jogerőre emelkedésének napjáig köteles az e rendelet szerinti belső adatszolgáltatás teljesítésére.”
