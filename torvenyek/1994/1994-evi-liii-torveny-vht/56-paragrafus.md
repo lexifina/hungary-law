@@ -1,0 +1,5 @@
+56. § (1) A végrehajtást elrendelő bíróság végzéssel megszünteti, illetőleg korlátozza a végrehajtást, ha közokirat alapján megállapította, hogy a végrehajtandó határozatot jogerős határozat hatályon kívül helyezte, illetőleg megváltoztatta. A bíróság a végrehajtást megszüntető végzésében arról is rendelkezik, hogy ki viseli a végrehajtási költséget.
+
+(2) Az (1) bekezdésben említett esetben a végrehajtást elrendelő bíróság az adós kérelmére végzéssel arra kötelezheti a végrehajtást kérőt, hogy — teljesen, illetőleg részben — térítse vissza az adósnak a végrehajtás során kapott összeget (vagyontárgyat) és a végrehajtási költséget, illetőleg megfelelő részét. Ez akkor is irányadó, ha az adós a végrehajtás megelőzése végett önként teljesítette a kötelezettségét, és ezt igazolta. Tartásdíj címén kifizetett összeg (átadott vagyontárgy) ilyen visszatérítésének nincs helye.
+
+(3) A (2) bekezdésben foglalt esetben az eljárást az alapügyben eljáró végrehajtó az alapügy keretében foganatosítja (visszvégrehajtás).

@@ -1,0 +1,1 @@
+102. § A muzeális vagy történeti értékű tárgy és könyv, továbbá levéltári anyag lefoglalásáról a végrehajtó köteles a tárgy jellegének megfelelő, területileg illetékes múzeumot, könyvtárat, illetőleg levéltárat a foglalási jegyzőkönyv másolatának megküldésével értesíteni.

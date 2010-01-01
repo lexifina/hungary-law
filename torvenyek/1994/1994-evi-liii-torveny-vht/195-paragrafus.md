@@ -1,0 +1,1 @@
+195. § Az ingatlan zárlatát elrendelő végzés átvétele után a végrehajtó haladéktalanul megkeresi az ingatlanügyi hatóságot, hogy a zárlatot jegyezze be az ingatlan-nyilvántartásba. A további eljárásra a 138. § megfelelően irányadó.

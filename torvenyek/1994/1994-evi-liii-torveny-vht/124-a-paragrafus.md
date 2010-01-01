@@ -1,0 +1,1 @@
+124/A. § A 103/D. § alapján lefoglalt ingóságokat a végrehajtó mint egészt árverezi el a 124. § megfelelő alkalmazásával. Ha az első árverés sikertelen, az ingóságokat a második és harmadik árverésen egyenként kell értékesíteni.

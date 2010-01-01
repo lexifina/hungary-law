@@ -1,0 +1,3 @@
+183/A. § (1) A bérbeadó a határozott időre kötött lakás- és más – nem lakás céljára szolgáló – helyiségbérleti szerződés esetén a meghatározott idő lejártát követő 60 napon belül kérheti a 183. §-ban meghatározott rendelkezések alkalmazását, ha a kérelem benyújtásával egyidejűleg igazolja, hogy a bérleti szerződésben meghatározott idő eltelt. A kiürítés iránti kérelem benyújtására nyitva álló határidő jogvesztő.
+
+(2) Az (1) bekezdés szerinti eljárás során is alkalmazni kell a 182/A. § rendelkezéseit azzal, hogy az ingatlan a kiürítés elhalasztása szempontjából nem minősül önkényesen elfoglalt lakásnak.

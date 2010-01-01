@@ -1,0 +1,7 @@
+237. § (1) A végrehajtó köteles a szolgálatba lépését megelőzően a kamara elnökének, illetve az általa kijelölt személynek bemutatni a bélyegzője lenyomatát, a letéti és elszámolási számlájának nyitásáról szóló fizetésiszámla-szerződést, a felelősségbiztosítási szerződést vagy a biztosíték összegének befizetéséről szóló igazolást és bejelenteni hivatali helyiségének címét.
+
+(2) A kamara elnöke vagy az általa kijelölt személy ellenőrzi a bélyegzőt, a fizetésiszámla-szerződést, felelősségbiztosítási szerződést vagy a biztosíték összegének befizetését, és azt, hogy a végrehajtó hivatali helyisége és annak felszerelése alkalmas-e a hivatás gyakorlására.
+
+(3) Az (1) bekezdésben foglalt bejelentési kötelezettség a végrehajtói szolgálat időtartama alatt bekövetkezett változások tekintetében is fennáll.
+
+(4) A letéti számlán elhelyezett pénzösszeg után a végrehajtó kamatot nem fizet, őrzési díjat és költséget nem számíthat fel.

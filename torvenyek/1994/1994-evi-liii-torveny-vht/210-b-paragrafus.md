@@ -1,0 +1,1 @@
+210/B. § Ha a határozat végrehajtása bírósági végrehajtás útján, e törvény szerint történik, a bíróság a 2201/2003/EK tanácsi rendelet szerinti, a bírósági határozat végrehajthatóságának megállapítására irányuló eljárás során – ha a 2201/2003/EK tanácsi rendelet másképpen nem rendelkezik – az e Fejezetben foglaltak szerint jár el.

@@ -1,0 +1,1 @@
+95. § Mentes a végrehajtás alól a postára feladott pénz és más küldemény, továbbá a közforgalmú fuvarozónak fuvarozásra átadott dolog mindaddig, amíg azt a posta, illetőleg a fuvarozó az átvételre jogosultnak nem adta át.

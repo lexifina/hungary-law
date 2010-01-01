@@ -1,0 +1,1 @@
+210. § A külföldi határozat végrehajtása során a külön törvényben és a nemzetközi egyezményekben foglalt rendelkezéseket is alkalmazni kell, továbbá a viszonosságon alapuló joggyakorlatot is figyelembe kell venni.

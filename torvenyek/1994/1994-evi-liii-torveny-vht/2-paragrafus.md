@@ -1,0 +1,1 @@
+2. § A munkabérre és egyéb járandóságra, valamint a pénzforgalmi szolgáltatónál kezelt összegre vezetett végrehajtás foganatosítása esetén a bírósági végrehajtás szabályai irányadók akkor is, ha a pénzkövetelést közigazgatási végrehajtás vagy közvetlen végrehajtás útján hajtják be.

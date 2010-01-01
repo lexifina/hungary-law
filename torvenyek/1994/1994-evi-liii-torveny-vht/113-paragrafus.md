@@ -1,0 +1,1 @@
+113. § Ha a harmadik személy a követelést, illetőleg a róla szóló szerződést nem ismerte el, vagy a 111. § szerinti nyilatkozatot, illetőleg a 112. § szerinti befizetést (letétbe helyezést) elmulasztotta, a végrehajtást kérő a harmadik személy ellen pert indíthat a követelés behajtása iránt.

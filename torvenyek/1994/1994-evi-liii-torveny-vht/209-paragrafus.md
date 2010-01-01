@@ -1,0 +1,1 @@
+209. § A 208. § szerint hozott végzés jogerőre emelkedése után a bíróság a végrehajtási tanúsítvánnyal ellátott külföldi határozat alapján végrehajtási lapot, illetőleg vele egy tekintet alá eső végrehajtható okiratot állít ki.

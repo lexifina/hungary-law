@@ -1,0 +1,1 @@
+103/D. § Ha az adós lefoglalható vagyontárgyai technológiai vagy termelési, szolgáltatási egészt alkotnak, a végrehajtó a foglalási jegyzőkönyvben feltünteti az ingóságok egészének becsértékét és az egyes ingóságok becsértékét is.

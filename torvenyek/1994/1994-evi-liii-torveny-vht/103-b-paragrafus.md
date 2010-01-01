@@ -1,0 +1,1 @@
+103/B. § Jelzálogjoggal terhelt ingóság lefoglalása esetén a végrehajtó a foglalási jegyzőkönyv másolatát megküldi a közjegyzőnek, hogy az ingóság lefoglalását jegyezze be a zálogjogi nyilvántartásba, és adjon tájékoztatást az ingóságon fennálló jelzálogjog jogosultjának adatairól.

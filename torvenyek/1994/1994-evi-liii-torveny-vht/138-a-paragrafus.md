@@ -1,0 +1,1 @@
+138/A. § A végrehajtási eljárás során kezdeményezett azon ingatlan-nyilvántartási eljárásokat, amelyek valamely jog bejegyzésére vagy törlésére irányulnak, a végrehajtó akkor is kezdeményezi az ingatlanügyi hatóság előtt, ha a jogszerzésre jogosult ezen eljárások költségét nem fizeti meg.

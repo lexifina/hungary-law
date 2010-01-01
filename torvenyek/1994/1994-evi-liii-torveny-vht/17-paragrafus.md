@@ -1,0 +1,1 @@
+17. § Tartásdíj behajtása érdekében a végrehajtási lapot a jövőben lejáró tartásdíjrészletekre nézve is ki lehet állítani. Ilyenkor csak a végrehajtási eljárás befejezéséig lejárt tartásdíjrészleteknek megfelelő összeget lehet behajtani és a végrehajtást kérőnek kifizetni.

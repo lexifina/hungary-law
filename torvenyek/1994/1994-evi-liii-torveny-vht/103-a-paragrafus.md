@@ -1,0 +1,3 @@
+103/A. § (1) Vízi vagy légi jármű lefoglalása esetén a végrehajtó lefoglalja a forgalomban való részvételre jogosító okmányokat is, ezeket a foglalási jegyzőkönyv másolatával együtt megküldi a vízi, légi járművek lajstromát, illetőleg nyilvántartását vezető hatóságnak, amely a jármű lefoglalását bejegyzi a nyilvántartásába. A 103. § (3) bekezdése megfelelően irányadó a vízi és légi járművek lefoglalásánál is.
+
+(2) A végrehajtó az (1) bekezdésben foglalt megkeresésében felhívja az érintett szervet, hogy haladéktalanul adjon tájékoztatást a vagyontárgyat terhelő jelzálogjog jogosultjának adatairól és a végrehajtási jog bejegyzéséről.

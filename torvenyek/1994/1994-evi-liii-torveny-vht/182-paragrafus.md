@@ -1,0 +1,3 @@
+182. § (1) Ha a kötelezett vagy képviselője nincs jelen a végrehajtás foganatosításánál, a kiürítendő lakásban lévő ingóságokat a végrehajtó összeírja. Az ingóságoknak másik lakásban vagy másik helyiségben való elhelyezése után a lista egy példányát itt is el kell helyezni. Ha az ingóságok elhelyezése olyan lakásban történt, amelyet kizárólag a kötelezett vagy családtagjai használnak, a végrehajtás foganatosítása után a lakást le kell zárni és le kell pecsételni.
+
+(2) Ha a másik lakásban a kötelezett ingóságait vagy egy részüket nem lehetett elhelyezni, raktárban vagy más alkalmas helyiségben való elhelyezésükről – a kötelezett költségére és veszélyére – a végrehajtást kérő gondoskodik. A végrehajtást kérő az ingóságokat 30 napig köteles tárolni.

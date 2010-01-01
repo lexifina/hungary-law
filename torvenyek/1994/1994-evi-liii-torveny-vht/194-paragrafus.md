@@ -1,0 +1,7 @@
+## Zárlat
+
+194. § (1) Az ingóság zárlatát elrendelő végzést a végrehajtó a helyszínen adja át az adósnak, és egyúttal lefoglalja az ingóságot.
+
+(2) Az ingóság zárlata zár alá vétellel is történhet.
+
+(3) A lefoglalt romlandó dolgot zárlat esetén is értékesíteni kell. A 193. § b) pontja ilyenkor is irányadó.

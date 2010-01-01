@@ -1,0 +1,1 @@
+228. § A végrehajtó sem hivatalában, sem hivatalán kívül nem tanúsíthat olyan magatartást, amely a feladatának ellátásához szükséges közbizalmat megingathatja, vagy hivatásának tekintélyét csorbíthatja.

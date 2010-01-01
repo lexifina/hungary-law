@@ -1,0 +1,1 @@
+23/A. § Az ügyben eljárt fogyasztóvédelmi békéltető testület, illetve egészségügyi közvetítői tanács székhelye szerint illetékes helyi bíróság a tanács kötelező határozatát, továbbá az egészségügyi közvetítői tanács előtt kötött egyezséget – a feltételek megléte esetén – végrehajtási záradékkal látja el.

@@ -1,0 +1,1 @@
+240/E. § Végrehajtó-helyettesként az működhet, akit a kamara az önálló bírósági végrehajtó-helyettesek nyilvántartásába felvett, és a 238. § (2) bekezdése szerinti esküt letette. A kamara a nyilvántartásba való felvételét kérő személyt meghallgatja.

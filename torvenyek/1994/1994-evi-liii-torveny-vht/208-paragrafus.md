@@ -1,0 +1,1 @@
+208. § Ha a külföldi határozat a 205. § szerint végrehajtható, a 16. § c), illetőleg d) pontjában említett bíróság a végzésével a külföldi határozatra végrehajtási tanúsítványt vezet, amelyben azt tanúsítja, hogy a határozat a magyar jog szerint a belföldi bíróság (választottbíróság) határozatával azonos módon végrehajtható.

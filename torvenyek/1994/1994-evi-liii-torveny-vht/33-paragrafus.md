@@ -1,0 +1,7 @@
+33. § (1) Ha a végrehajtás foganatosítását megkezdő végrehajtó (a továbbiakban: ügygazda végrehajtó) székhelye szerinti fővároson, illetőleg megyén (a továbbiakban együtt: megye) kívül válik szükségessé helyszíni eljárási cselekmény foganatosítása, az ügygazda végrehajtó megküldi a végrehajtható okirat másolatát és a szükséges iratokat az eljárási cselekmény foganatosításának helye szerint illetékes végrehajtónak (232., 255/A. §) vagy a végrehajtói iroda azon végrehajtó tagjának, akinek a székhelye a cselekmény foganatosításának helye szerinti megyében van (a továbbiakban: megkeresett végrehajtó), és ellátja őt a szükséges tájékoztatással.
+
+(2) A megkeresett végrehajtó az eljárási cselekményeket foganatosítja, és a keletkezett iratokat a készkiadásairól készült költségelszámolással együtt megküldi az ügygazda végrehajtónak.
+
+(3) Ha az eljárási cselekmények folytatása egyidejűleg több helyszínen, illetve több megye területén szükséges, az ügygazda végrehajtó több végrehajtót is megkereshet az eljárás lefolytatására. A megkeresett végrehajtók munkájának összehangolásáról az ügygazda végrehajtó gondoskodik.
+
+(4) A feleknek az előlegezett költségeket az ügygazda végrehajtó részére kell megfizetniük, a végrehajtás során befolyt összegeket az ügygazda végrehajtó részére kell átadni, illetve az ő letéti számlájára kell befizetni. Az ügyben az ügygazda végrehajtó állítja ki a díjjegyzéket, és gondoskodik a megkeresett végrehajtó költségeinek megtérítéséről.

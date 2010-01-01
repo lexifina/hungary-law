@@ -1,0 +1,3 @@
+79/E. § (1) Ha a pénzforgalmi szolgáltató a végrehajtás alá vonandó pénzösszeget a végrehajtást foganatosító hatóság rendelkezése ellenére az adós vagy más javára teljesíti, a követelés összegéért felelős a végrehajtást kérőnek.
+
+(2) Ha a pénzforgalmi szolgáltató nem ismeri el, hogy az adóst megillető pénzösszeget kezeli, vagy a végrehajtást foganatosító hatóság rendelkezését nem teljesíti, a végrehajtást kérő pert indíthat ellene a követelés behajtása iránt. A követelés összegéért fennálló helytállási kötelezettség nem mentesíti a pénzforgalmi szolgáltatót a végrehajtásból eredő kötelezettségek nemteljesítése miatt e törvényben és más jogszabályokban meghatározott jogkövetkezmények alkalmazása alól.

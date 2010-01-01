@@ -1,0 +1,1 @@
+229/A. § A végrehajtó az általa intézett végrehajtási ügyről a sajtó, a rádió és a televízió részére nem adhat tájékoztatást. Végrehajtási ügyről a sajtó, a rádió és a televízió részére a kamara elnöke vagy a kamara általa kijelölt tagja ad tájékoztatást.
