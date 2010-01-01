@@ -1,0 +1,1 @@
+## előzetes engedélyével kiegészítheti. A kiegészítés összegét a kérelmező egyéni és családi körülményeinek vizsgálata alapján az állományilletékes parancsnok vagy a hivatali szervezet vezetője állapítja meg.

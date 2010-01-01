@@ -1,0 +1,5 @@
+9. § (1) Ha a szállóférőhely használója a fizetésre megállapított időpontig a használati díjat nem fizeti meg, a beutalásra jogosult szerv köteles a beutaltat – a következményekre figyelmeztetéssel – a teljesítésre írásban felszólítani. Ha a szállóférőhely használója a felszólításnak 8 napon belül nem tesz eleget, a beutalásra jogosult szerv további 8 napon belül írásban felmondással élhet.
+
+(2) Ha a felmondásra a szállóférőhely használója vagy a vele együtt élő személy magatartása szolgáltat alapot, – a szállóférőhely gondnokának jelzése alapján – a beutalásra jogosult szerv haladéktalanul – írásban – felszólítja a magatartás megszüntetésére vagy annak megismétlésétől való tartózkodásra. Ha a szálló használója a felszólításnak 8 napon belül nem tesz eleget, a beutalásra jogosult szerv további 8 napon belül írásban felmondással élhet.
+
+(3) Nem kell a szállóférőhely használóját előzetesen felszólítani, ha a magatartás olyan súlyos, hogy a beutalásra jogosult szervtől nem várható el a megállapodás fenntartása.
