@@ -1,0 +1,7 @@
+## A működés felfüggesztése
+
+68. § (1) A Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény működését határozott időtartamra, legfeljebb 180 napra felfüggesztheti, ha a foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységének végzésére vonatkozó jogszabályokat súlyosan vagy ismételten megsérti, vagy a Felügyelet intézkedésének nem tesz eleget, és ezáltal a tagok érdekeit, illetve a foglalkoztatói nyugdíjszolgáltató intézmény vagyonának biztonságát súlyosan veszélyezteti és a jogszabályoknak megfelelő működés helyreállítása érdekében tett intézkedései nem vezettek eredményre. A Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény működése felfüggesztésének időtartamát egy alkalommal, legfeljebb 180 nappal meghosszabbíthatja.
+
+(2) A foglalkoztatói nyugdíjszolgáltató intézmény a működésének felfüggesztése alatt új tagokat nem vehet fel és hozzájárulás-befizetéseket nem fogadhat, valamint a (3) bekezdésben foglaltak kivételével nem teljesíthet kifizetéseket és nem eszközölhet befektetéseket.
+
+(3) A foglalkoztatói nyugdíjszolgáltató intézmény működése felfüggesztésének idejére alkalmazni kell a kifizetési tilalomra vonatkozó szabályokat. A foglalkoztatói nyugdíjszolgáltató intézmény új befektetési ügyleteket csak a Felügyelet előzetes engedélyével eszközölhet azzal, hogy a befektetés kizárólag EGT-állam által kibocsátott állampapírba, illetve olyan értékpapírba történhet, amelyben foglalt kötelezettség teljesítéséért a magyar állam készfizető kezességet vállal.

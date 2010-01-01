@@ -1,0 +1,21 @@
+## A foglalkoztatói nyugdíjszolgáltató intézmény könyvvizsgálója
+
+16. § (1) A könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgáló társaság) részére megbízás, ha a Magyar Könyvvizsgálói Kamara az általa vezetett biztosítói, pénztári vagy befektetési vállalkozási minősítésű könyvvizsgálók, illetve biztosítói, pénztári vagy befektetési vállalkozási minősítésű könyvvizsgáló társaságok névjegyzékében a könyvvizsgálót határozatával nyilvántartásba vette.
+
+(2) Nem lehet könyvvizsgáló a foglalkoztatói nyugdíjszolgáltató intézmény tagja, a foglalkoztatói nyugdíjszolgáltató intézmény cégvezetője, igazgatóságának, felügyelőbizottságának tagja, illetve ezek közeli hozzátartozója, a foglalkoztatói nyugdíjszolgáltató intézmény tulajdonrésszel rendelkező (részvényes) foglalkoztatójának vezető állású személye, egyéb vezetője, illetve e személyek közeli hozzátartozója, a vagyonkezelő, valamint gazdálkodása nyilvántartását végző szervezet, a letétkezelő könyvvizsgálója, a nyilvántartást végző szervezet és a letétkezelő könyvvizsgálójának közeli hozzátartozója.
+
+(3) Könyvvizsgálói feladatot ilyen tevékenység folytatására jogosult szervezet, könyvvizsgáló társaság is elláthat. Ebben az esetben az (1) bekezdésben meghatározott rendelkezéseket a könyvvizsgálói tevékenységet végző személyre kell alkalmazni.
+
+(4) A könyvvizsgáló megbízatása legfeljebb ötéves időtartamra szólhat, amely nem hosszabbítható meg. A könyvvizsgáló megbízatásának lejártát követő két év elteltével a könyvvizsgálói feladatokat ugyanannál a foglalkoztatói nyugdíjszolgáltató intézménynél ismételten elláthatja.
+
+(5) A könyvvizsgáló betekinthet a foglalkoztatói nyugdíjszolgáltató intézmény könyveibe, az igazgatóság és a felügyelőbizottság tagjaitól, a foglalkoztatói nyugdíjszolgáltató intézmény alkalmazottaitól felvilágosítást kérhet, a foglalkoztatói nyugdíjszolgáltató intézmény tartalékait, szerződéseit, pénzforgalmi számláját, befektetéseit megvizsgálhatja. Jelen lehet az igazgatóság és a felügyelőbizottság ülésein, a közgyűlésen köteles részt venni.
+
+(6) A könyvvizsgáló a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlése elé terjesztett beszámolót köteles megvizsgálni abból a szempontból, hogy azok valós adatokat tartalmaznak-e, illetve megfelelnek-e a jogszabályok előírásainak, és köteles véleményét a közgyűléssel ismertetni. Biometriai kockázatot tartalmazó nyugdíjkonstrukciót is kezelő foglalkoztatói nyugdíjszolgáltató intézmény esetén a könyvvizsgáló vizsgálata során köteles független biztosításmatematikus közreműködését igénybe venni. E nélkül a közgyűlés a beszámolóról érvényes határozatot nem hozhat. Az alakuló közgyűlésen elfogadott dokumentumokat nem kell könyvvizsgálónak megvizsgálnia.
+
+(7) Ha a könyvvizsgáló tudomást szerez arról, hogy a foglalkoztatói nyugdíjszolgáltató intézmény vagyonának, illetőleg fedezeti vagy a nyugdíjtechnikai tartalékának jelentős csökkenése várható, köteles erről a felügyelőbizottságot és a foglalkoztatói nyugdíjszolgáltató intézmény igazgatóságát tájékoztatni, továbbá a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlésének összehívását kezdeményezni, és az intézkedéseket és azok okát a Felügyeletnek bejelenteni.
+
+(8) Ha a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlését az igazgatóság – a könyvvizsgáló (7) bekezdésben foglalt tájékoztatásának tudomásra jutásától számított nyolc napon belül – nem hívja össze, arra a könyvvizsgáló jogosult. Ha a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlése nem hozza meg a szükséges döntéseket, a könyvvizsgáló köteles értesíteni a Felügyeletet és a cégjegyzéket vezető megyei (fővárosi) bíróságot (a továbbiakban: bíróság).
+
+(9) Ha a Magyar Könyvvizsgálói Kamara a biztosítói, pénztári vagy befektetési vállalkozási minősítésű könyvvizsgáló társaságot, könyvvizsgálót törli nyilvántartásából, erről egyidejűleg értesíti a Felügyeletet.
+
+(10) A biztosítói, pénztári vagy befektetési vállalkozási minősítésű könyvvizsgáló társaság haladéktalanul köteles a Felügyelet részére a Magyar Könyvvizsgálói Kamara biztosítói, pénztári vagy befektetési vállalkozási minősítésű könyvvizsgáló munka-, illetve tagsági jogviszonyának megszűnéséről szóló határozatát megküldeni.

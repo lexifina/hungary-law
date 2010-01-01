@@ -1,0 +1,5 @@
+23. § (1) Amennyiben a Felügyelet értesítést kap a másik állam illetékes hatóságaitól arról, hogy a foglalkoztatói nyugdíjszolgáltató intézmény a másik állam szociális és munkajogának foglalkoztatói nyugdíjkonstrukciókra, illetve a tagok tájékoztatására vonatkozó követelményeinek nem tesz eleget, a Felügyelet eseti ellenőrzést végez az intézménynél és szükség esetén intézkedéseket alkalmaz.
+
+(2) A Felügyelet megküldi a foglalkoztatói nyugdíjszolgáltató intézménynek a másik állam illetékes hatóságaitól kapott, a másik állam szociális és munkajogának foglalkoztatói nyugdíjkonstrukciókra vonatkozó követelményei, valamint a foglalkoztatói nyugdíjszolgáltató intézmény vagyonának befektetésével kapcsolatos előírásai terén bekövetkezett változásokról szóló tájékoztatást.
+
+(3) A Felügyelet eseti tájékoztatást kérhet a foglalkoztatói nyugdíjszolgáltató intézménytől a határon átnyúló tevékenység során alkalmazott szerződési feltételekről és az ezzel összefüggő dokumentumokról annak igazolására, hogy a szerződések megfelelnek a foglalkoztató székhelye szerinti állam jogszabályainak.

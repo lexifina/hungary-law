@@ -1,0 +1,1 @@
+86. § A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a foglalkoztatói nyugdíjszolgáltató intézmény belső adatszolgáltatásának, valamint a nemi hovatartozás szerint eltérő hozzájárulások és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjét, tartalmát.
