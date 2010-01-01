@@ -1,0 +1,1 @@
+113. § Hatályát veszti a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 11. § (1) bekezdés d) pontja és (5) bekezdése, valamint a 98. § (1) bekezdés a) pontjában az „és d)” szövegrész.

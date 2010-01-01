@@ -1,0 +1,1 @@
+119. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 101. § (1) bekezdésében az „a 98–100. §-ban megfogalmazott kötelezettségeken és jogosultságokon túl” szöveg helyébe az „a 98–100/B. §-ban megfogalmazott kötelezettségeken és jogosultságokon túl” szövegrész lép.
