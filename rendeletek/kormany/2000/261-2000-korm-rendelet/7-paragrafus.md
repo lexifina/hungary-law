@@ -1,0 +1,1 @@
+## 6. § A biztosító köteles haladéktalanul a Felügyeletnek bejelenteni, ha a jelzáloghitelezési tevékenységet, illetve annak valamely elemét megbízás alapján más jogalannyal végezteti. A biztosító a – biztosító nevében történő – jelzáloghitelezéssel összefüggő kockázat vállalására nem adhat megbízást.
