@@ -1,0 +1,16 @@
+## Az illetékbevételi számlára fizetett összegek
+
+## visszatérítése
+
+7. § (1)[^15] Amennyiben az eljáró hatóság – ide nem értve az adóhatóságot – megállapítja, hogy az ügyfél több illetéket fizetett, mint amennyi járt volna, a túlfizetés visszatérítését átiratban közli az állami adóhatósággal, amely intézkedik a túlfizetés ügyfél részére történő visszatérítéséről. Az értesítés egy példányát az eljáró hatóság az ügyfél részére is megküldi.
+
+(2)[^16] Ha az ügyfél készpénzátutalási megbízás útján anélkül fizetett illetéket, hogy közigazgatási hatósági eljárást kezdeményezett volna, az illeték visszatérítését az állami adóhatóságtól kérheti. A kérelemhez csatolni kell a feladóvevényt, melynek átvételéről az állami adóhatóság igazolást állít ki a kérelmező részére. Az igazoláson fel kell tüntetni a befizető nevét, lakcímét, székhelyét, a feladóvevényen szereplő összeget és a befizetés időpontját. Az állami adóhatóság a feladóvevény azonosítószámának, a befizető nevének, a befizetett összegnek és a befizetés időpontjának a közlésével a kérelem benyújtásától számított 5 munkanapon belül megkeresi a Kincstárt. A Kincstár a megkereséstől számított 10 munkanapon belül visszaigazolja, hogy az azonosított feladóvevényen szereplő összeg tényleges megfizetése megtörtént, és azt más szerv megkeresésére még nem igazolta vissza.
+
+(3)[^17] A Kincstárnál vezetett illetékbevételi számla javára tévesen indított banki átutalások esetén az illetékes állami adóhatóságnál kérhető a tévesen átutalt összeg visszatérítése. A kérelemhez csatolni kell az átutalásról szóló banki igazolást. Az állami adóhatóság a kérelem beérkezésétől számított 5 munkanapon belül a kérelmező számlaszámának, nevének, az átutalt összegnek és az átutalás dátumának közlésével megkeresi a Kincstárt. A Kincstár a megkereséstől számított 5 munkanapon belül visszaigazolja, hogy a kérdéses átutalás megtörtént, és azt más szerv megkeresésére nem igazolta vissza.
+
+(4)[^18] Amennyiben az (1)–(3) bekezdések alapján visszatérítésnek van helye, az állami adóhatóság azt postai átutalás, ha pedig az ügyfél (kérelmező) számlaszáma ismert, akkor banki átutalás útján fizeti vissza.
+
+[^15]: A 7. § (1) bekezdése a 40/2006. (XII. 25.) PM rendelet 10. § (1) bekezdése, a 17/2009. (IX. 29.) PM rendelet 95. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^16]: A 7. § (2) bekezdése a 44/2005. (XII. 22.) PM rendelet 4. § (2) bekezdése, a 40/2006. (XII. 25.) PM rendelet 10. § (1) bekezdése, a 17/2009. (IX. 29.) PM rendelet 95. §-a, a 31/2009. (XII. 18.) PM rendelet 10. § d) pontja szerint módosított szöveg.
+[^17]: A 7. § (3) bekezdése a 40/2006. (XII. 25.) PM rendelet 10. § (1) bekezdése, a 17/2009. (IX. 29.) PM rendelet 95. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
+[^18]: A 7. § (4) bekezdése a 40/2006. (XII. 25.) PM rendelet 10. § (1) bekezdése szerint módosított szöveg.
