@@ -1,0 +1,1 @@
+25. § A munkáltató – amennyiben a kutatónak a kutatás-fejlesztési munka eredménye hasznosításában érdekelt vállalkozásnál történő munkavégzéséhez előzetesen hozzájárult (Kjt. 43. §) – a kutatóval kötött megállapodás alapján a kutató számára fizetés nélküli szabadságot engedélyez.

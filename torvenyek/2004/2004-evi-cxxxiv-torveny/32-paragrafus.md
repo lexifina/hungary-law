@@ -1,0 +1,1 @@
+32. § Hasznosító vállalkozás költségvetési szerv által történő alapítása vagy gazdasági társaságban e célból történő tagsági (részvényesi) jogviszony létesítése, részesedés szerzése tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvény 100/K–L. §-ában foglaltak nem alkalmazandók.
