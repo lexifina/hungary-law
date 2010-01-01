@@ -1,0 +1,3 @@
+## 19. § Az R. melléklete az 58. pontot követően a következő 58/A. ponttal egészül ki:
+
+## „58/A. A hivatásos, a szerződéses és az önkéntes tartalékos katona továbbá a hallgató a köznapi- és sötétkék köznapi-, a társasági- és sötétkék társasági-, valamint a hadihajós társasági zubbonyon, továbbá a női és sötétkék női köznapi zubbonyon, valamint a női és sötétkék női társasági kosztümkabáton nemzeti hovatartozást kifejező, 35×20 mm méretű, nemzeti színű szövött szalagot viselhet. A nemzeti színű szalagot a bal vállcsúcstól 4 cm-re úgy kell vízszintesen rögzíteni, hogy a nemzeti színű szalag középvonala a zubbony ujjának hossztengelyétől 1 cm-rel előbbre helyezkedjen el.”

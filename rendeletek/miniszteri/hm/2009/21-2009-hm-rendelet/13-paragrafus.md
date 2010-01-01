@@ -1,0 +1,1 @@
+## „w) az általános köznapi öltözetet viselő katonanő – kivétel a szerződéses legénységi és az önkéntes tartalékos katonanő, valamint a hallgatónő – a köznapi öltözet nyári változataihoz a köznapi sapka helyett női kalapot is viselhet.”
