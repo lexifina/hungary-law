@@ -1,0 +1,3 @@
+29. § (1) Ha a kiadott személy ellen Magyarországon más bűncselekmény miatt eljárás van folyamatban, vagy szabadságvesztését tölti, az eljárás befejezéséig, illetőleg a büntetés végrehajtásának befejezéséig az átadását a miniszter elhalaszthatja.
+
+(2) Ha a kiadott személy átadását a miniszter az (1) bekezdés rendelkezései alapján elhalasztotta, a megkereső állam kérésére engedélyezheti, hogy sürgős eljárási cselekmény lefolytatása érdekében ideiglenesen átadják a megkereső államnak. A kiadni kért személy akkor adható át ideiglenesen, ha biztosított, hogy őt a megkereső államban őrizetben tartják, és meghatározott időn belül visszaadják.

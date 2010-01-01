@@ -1,0 +1,1 @@
+42. § Ha a megkeresett állam a terheltet nem veszi át a 40. § (2) bekezdésében megjelölt határidőig, vagy ha a terhelt kivonja magát a külföldi eljárás alól, a 39. § alapján megszüntetett büntetőeljárást folytatni lehet.

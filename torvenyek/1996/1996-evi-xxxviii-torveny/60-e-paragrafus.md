@@ -1,0 +1,1 @@
+60/E. § Ha a végrehajtás átadását követően a terheltet rendkívüli jogorvoslat folytán felmentették, vele szemben az eljárást megszüntették, illetőleg az ennek folytán hozott határozat vagyonelkobzást, illetőleg elkobzást nem, vagy alacsonyabb mértékben tartalmaz, az átvevő államot erről értesíteni kell.

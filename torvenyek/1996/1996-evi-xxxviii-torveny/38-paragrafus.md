@@ -1,0 +1,1 @@
+38. § A büntetőeljárás átadását a vádirat benyújtásáig az ügyész a legfőbb ügyésznél, azt követően a bíróság a miniszternél kezdeményezi. A büntetőeljárás átadásáról a legfőbb ügyész, illetőleg a miniszter dönt. A döntésről a külföldi hatóságoknak a büntetőeljárás átadása céljából történő megkeresésével egyidejűleg az ügyészt, illetőleg a bíróságot értesíteni kell.

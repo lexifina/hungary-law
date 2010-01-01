@@ -1,0 +1,1 @@
+59. § Ha a végrehajtást átvették, az elítélttel szemben a büntetés végrehajtását csak akkor lehet Magyarországon folytatni, ha a végrehajtást átvevő államban az elítélt kivonta magát a végrehajtás alól.

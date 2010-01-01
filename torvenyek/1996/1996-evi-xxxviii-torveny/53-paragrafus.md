@@ -1,0 +1,5 @@
+53. § (1) A büntetés végrehajtásának átvételéről szóló megállapodásról az igazságügyért felelős miniszter értesíti a Fővárosi Bíróságot. Az elítélt átvételéről az Interpol a rendőrség közreműködésével gondoskodik.
+
+(2) A külföldi bíróság által kiszabott szabadságvesztés végrehajtására átvett elítéltet az 51. §-ban szabályozott eljárás befejezéséig a büntetés végrehajtás szervezetét irányító miniszter által kijelölt büntetés végrehajtási intézetben kell fogva tartani. Az elítélt fogva tartására az előzetes letartóztatás végrehajtására vonatkozó szabályokat kell alkalmazni.
+
+(3) A büntetés végrehajtásának átvételét követően az ügyész indítványára a bíróság tárgyaláson, a külföldi ítélet alapján megállapítja a Magyarországon végrehajtásra kerülő büntetést. A tárgyaláson az elítélt, az ügyész és a védő részvétele kötelező. Ha a bíróság ugyanabban az ügyben korábban már a külföldi ítélet érvényét elismerte, de erre vonatkozó kérelem hiányában a végrehajtás átvételéről nem döntött, a Magyarországon végrehajtásra kerülő büntetést megállapító határozata elleni fellebbezésben a külföldi ítélet érvényének elismerése miatt nem lehet fellebbezni.

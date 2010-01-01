@@ -1,0 +1,1 @@
+9. § Ha a jogsegély iránti megkeresésnek helyt adnak, az útlevél-, vízum-, deviza- és vámjogszabályok rendelkezései nem képezhetik akadályát a személyek ki- és beutazásának, valamint a tárgyak átadásának és átvételének.

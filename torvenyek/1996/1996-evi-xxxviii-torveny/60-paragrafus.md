@@ -1,0 +1,1 @@
+60. § Ha a végrehajtás átengedését követően az ítéletet perújítás vagy felülvizsgálat folytán megváltoztatják, vagy a végrehajtás közkegyelmi rendelkezés alapján nem folytatható, illetve a büntetés tartama csökken, az átvevő államot erről értesíteni kell.

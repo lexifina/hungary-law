@@ -1,0 +1,1 @@
+67. § Jogsegély iránti megkeresés alapján tárgyaknak és eredeti ügyiratoknak, valamint egyéb eredeti okiratoknak a megkereső hatóság részére történő megküldése feltételéül szabható, hogy azokat az átadáskorival azonos állapotban fogják visszaszolgáltatni. A tárgyak megküldése nem érinti az azokon fennálló tulajdonjogot és egyéb jogokat.

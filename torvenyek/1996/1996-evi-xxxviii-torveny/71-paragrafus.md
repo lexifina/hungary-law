@@ -1,0 +1,1 @@
+71. § Az eljárási jogsegély teljesítéséről a legfőbb ügyész, illetőleg a miniszter értesíti a megkeresést előterjesztő igazságügyi hatóságot. Ugyancsak értesíti e hatóságot – az ok megjelölésével – arról is, ha a jogsegély iránti megkeresés nem, vagy csak részben volt teljesíthető.

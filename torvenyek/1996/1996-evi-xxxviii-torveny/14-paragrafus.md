@@ -1,0 +1,5 @@
+14. § (1) Meg kell tagadni a menekült kiadatását, kivéve, ha azt a menedékjogról szóló törvényben meghatározott biztonságos harmadik ország kéri.
+
+(2) A menedékes, a befogadott, valamint a menekültkénti, illetőleg menedékeskénti elismerését kérő külföldi annak az államnak, ahonnan elmenekült, nem adható ki.
+
+(3) Abban az esetben, ha a kiadni kért személy menekültkénti, illetőleg menedékeskénti elismerését kéri, illetve menedékjogi eljárása van folyamatban, a 22. § (1) bekezdésében meghatározott kiadatási letartóztatás, illetőleg a 23. § (3) bekezdés szerint elrendelt ideiglenes kiadatási letartóztatás határideje – a menedékjogi eljárás jogerős befejezését figyelembe véve – oly módon hosszabbodik meg, hogy a menekültkénti vagy menedékeskénti elismerés megtagadását követően legalább negyven nap álljon rendelkezésre a kiadatás ügyében való döntésre és a kiadott személy átadására. A kiadatási, illetve ideiglenes kiadatási letartóztatás időtartama azonban ebben az esetben sem haladhatja meg a letartóztatás kezdetétől számított huszonnégy hónapot.

@@ -1,0 +1,1 @@
+15. § Ha a kiadatási kérelem alapjául szolgáló bűncselekmény miatt a megkereső állam törvényei halálbüntetés kiszabását teszik lehetővé, a miniszter a kiadatást csak abban az esetben engedélyezheti, ha a megkereső állam kellő biztosítékot nyújt arra, hogy amennyiben a kiadott személlyel szemben halálbüntetést szabnak ki, azt vele szemben nem hajtják végre.
