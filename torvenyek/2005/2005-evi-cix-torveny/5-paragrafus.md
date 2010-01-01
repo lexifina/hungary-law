@@ -1,0 +1,31 @@
+## Az alkalmazottakkal szembeni követelmények
+
+5. § (1) A tervezett haditechnikai termék gyártásához vagy szolgáltatás nyújtásához kapcsolódó munkakörben alkalmazható, aki
+
+a) e törvény mellékletének I–IV. és XXVI. fejezete szerinti termékek gyártása vagy azokhoz kapcsolódó szolgáltatás nyújtása esetén megfelel a munkakör betöltéséhez szükséges, a (2) bekezdésben meghatározott biztonsági követelményeknek,
+
+b) e törvény mellékletének V–XXV. fejezete szerinti termékek gyártása vagy azokhoz kapcsolódó szolgáltatás nyújtása esetén büntetlen előéletű.
+
+(2) Az (1) bekezdés a) pontja szerinti haditechnikai termék gyártásához vagy szolgáltatás nyújtásához kapcsolódó munkakörben nem alkalmazható, aki
+
+a) büntetett előéletű;
+
+b) büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerősen megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. fejezetében meghatározott állam elleni bűncselekmény, XI. fejezetében meghatározott emberiség elleni bűncselekmény, személy elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, a 170. § (2)–(6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, lelkiismereti és vallásszabadság megsértése, közösség tagja elleni erőszak, egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése, személyi szabadság megsértése, emberrablás, emberkereskedelem, a 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, erőszakos közösülés, szemérem elleni erőszak, a 207. § (3) bekezdés b) pontja szerinti kerítés, XV. fejezet IV. címében meghatározott hivatali bűncselekmény, V. címében meghatározott hivatalos személy elleni bűncselekmény, embercsempészés, a 259. § (1)–(3) bekezdés szerinti közveszélyokozás, közérdekű üzem működésének megzavarása, terrorcselekmény, nemzetközi gazdasági tilalom megszegése, légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, bűnszervezetben részvétel, a visszaélés radioaktív anyaggal, visszaélés nemzetközi szerződés által tiltott fegyverrel, tiltott állatviadal szervezése, állatkínzás, garázdaság, önbíráskodás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, lopás, sikkasztás, csalás, hűtlen kezelés, rablás, kifosztás, zsarolás, rongálás, orgazdaság, jármű önkényes elvétele, a 343. § (2) bekezdés a) pontja és (4) és (5) bekezdése szerinti szökés és a 355. § (2) bekezdés a) pontja szerinti elöljáró vagy szolgálati közeg elleni erőszak elkövetése vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
+
+ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig,
+
+bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
+
+bc) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
+
+bd) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
+
+be) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
+
+c) bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség elkövetésének megalapozott gyanúja miatt büntetőeljárás alatt áll, a büntetőeljárás jogerős befejezéséig,
+
+d) ellen a tervezett alkalmazását megelőző két évben ipari robbantóanyaggal és pirotechnikai termékekkel, lőfegyverrel, közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, rendzavarás, sportrendezvény rendjének megbontása, számszeríj vagy szigonypuska jogellenes használata, veszélyes fenyegetés, jogosulatlan vadászat, természetvédelmi szabálysértés elkövetése miatt büntetést szabtak ki vagy intézkedést alkalmaztak.
+
+(3) Az (1) bekezdés b) pontjában meghatározott személy azt a tényt, hogy büntetlen előéletű, az (1) bekezdés a) pontjában meghatározott személy azt a tényt, hogy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel, a 2. §-ban meghatározott engedély iránti kérelem benyújtásával egyidejűleg vagy – ha a munkavégzésre irányuló jogviszony létesítésére az engedély kiadását követően kerül sor, a jogviszony létesítését megelőzően – hatósági bizonyítvánnyal igazolja.
+
+(4) A hadiipari gyártás- és szolgáltatásfelügyelet a hadiipari tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű, valamint, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel. A hatósági ellenőrzés céljából a hadiipari gyártás- és szolgáltatásfelügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag annak megállapítására irányulhat, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű-e, illetve, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel-e.

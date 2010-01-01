@@ -1,0 +1,1 @@
+A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezése, továbbá egyes haditechnikai termékekhez kapcsolódóan a Magyar Köztársaság nemzetközi kötelezettségei teljesítése érdekében az Országgyűlés a következő törvényt alkotja:
