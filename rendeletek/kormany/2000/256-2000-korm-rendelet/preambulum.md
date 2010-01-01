@@ -1,0 +1,1 @@
+A Kormány a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 47. §-a (1) bekezdésének b) pontjában kapott felhatalmazás alapján, figyelemmel a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 5. §-ára, a következőket rendeli el:
