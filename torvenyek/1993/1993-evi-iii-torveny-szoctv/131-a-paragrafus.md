@@ -1,0 +1,1 @@
+131/A. § A támogató szolgáltatások, a jelzőrendszeres házi segítségnyújtás és a közösségi ellátások működtetését az állam – a külön jogszabályban meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni.

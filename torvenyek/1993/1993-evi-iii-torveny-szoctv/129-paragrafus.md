@@ -1,0 +1,1 @@
+129. § Címzett támogatás keretében kell gondoskodni az idősek és fogyatékosok ápolását, gondozását nyújtó intézmények, valamint a pszichiátriai betegek, illetve a fogyatékosok rehabilitációs intézményeinek olyan mértékű férőhelybővítéséről, hogy az önkormányzatok eleget tudjanak tenni az ellátási kötelezettségüknek.

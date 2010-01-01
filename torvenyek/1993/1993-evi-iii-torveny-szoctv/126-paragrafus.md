@@ -1,0 +1,1 @@
+126. § Az állandó lakosok után járó normatív állami hozzájárulás tartalmazza a települési önkormányzatok által nyújtott pénzbeli és természetbeni ellátások kiadásaihoz, valamint a az éves költségvetési törvényben meghatározott szociális szolgáltatások működtetési költségeihez történő állami hozzájárulást.

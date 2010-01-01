@@ -1,0 +1,1 @@
+94/J. § A gondnokság alatt álló jogosult érdekeinek védelmében az intézményvezető köteles kezdeményezni új gondnok kirendelését, ha a gondnok a gondnoki teendőket nem megfelelően látja el, különösen, ha nem a gondnokolt érdekeinek figyelembevételével végzi ezen feladatokat.

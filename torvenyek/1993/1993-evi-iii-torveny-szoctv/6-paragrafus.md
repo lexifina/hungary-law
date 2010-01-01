@@ -1,0 +1,1 @@
+6. § A hajléktalan személyek ügyében szociális igazgatási eljárásra az a szociális hatáskört gyakorló szerv illetékes, amelynek illetékességi területét a hajléktalan személy az ellátás igénybevételekor nyilatkozatában tartózkodási helyeként megjelölte.

@@ -1,0 +1,1 @@
+83/A. § A pszichiátriai betegek átmeneti otthonában az a pszichiátriai beteg helyezhető el, akinek ellátása átmenetileg más intézményben vagy a családjában nem oldható meg, viszont tartós bentlakásos intézményi elhelyezése vagy fekvőbeteg-gyógyintézeti kezelése nem indokolt.

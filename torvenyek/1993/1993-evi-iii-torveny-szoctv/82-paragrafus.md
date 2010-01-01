@@ -1,0 +1,1 @@
+82. § Az idősek gondozóházába azok az időskorúak, valamint azok a 18. életévüket betöltött beteg személyek vehetők fel, akik önmagukról betegségük miatt vagy más okból otthonukban időlegesen nem képesek gondoskodni.

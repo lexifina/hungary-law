@@ -1,0 +1,1 @@
+71/B. § A hajléktalanok otthonában olyan hajléktalan személy gondozását kell biztosítani, akinek az ellátása átmeneti szálláshelyen, rehabilitációs intézményben nem biztosítható és kora, egészségi állapota miatt tartós ápolást, gondozást igényel.

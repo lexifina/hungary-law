@@ -1,0 +1,3 @@
+96/A. § (1) A tájékoztatási kötelezettség teljesítése érdekében a módszertani intézmény ismertetőt készít a feladatkörébe tartozó szociális intézményekről. Az esetleges intézményi változások ismeretében évente elvégzi az adatok szükség szerinti módosítását. Az ismertető az intézmény székhelyét, telephelyeit, a szolgáltatások körét, az intézménybe történő felvétel, illetve az elhelyezés körülményeire, valamint az ellátottjogi képviselő személyére, elérhetőségére vonatkozó adatokat tartalmazza.
+
+(2) A szociális intézmény a módszertani intézmény feladatának teljesítéséhez közli az (1) bekezdésben meghatározott adatokat. Az esetleges változásokat azok keletkezésétől számított 30 napon belül közli a módszertani intézménnyel.

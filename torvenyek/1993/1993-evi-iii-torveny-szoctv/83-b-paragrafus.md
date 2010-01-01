@@ -1,0 +1,1 @@
+83/B. § A szenvedélybetegek átmeneti otthonában az a személy helyezhető el, akinél szakorvosi (addiktológus, pszichiáter) szakvélemény alapján szenvedélybetegség került megállapításra, és ellátása átmeneti jelleggel családjában vagy lakókörnyezetében nem oldható meg.

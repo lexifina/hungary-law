@@ -1,0 +1,1 @@
+14. § A szociális hatáskört gyakorló szerv által a szociális igazgatási eljárásban hozott kötelezettséget megállapító határozat jogerőre emelkedésétől számított egy év eltelte után nincs helye végrehajtásnak.

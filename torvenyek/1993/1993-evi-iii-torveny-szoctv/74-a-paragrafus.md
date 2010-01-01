@@ -1,0 +1,1 @@
+74/A. § A hajléktalanok rehabilitációs intézménye annak az aktív korú, munkaképes hajléktalan személynek az elhelyezését szolgálja, akinek szociális ellátása ily módon indokolt, és aki önként vállalja a rehabilitációs célú segítőprogramokban való részvételt.
