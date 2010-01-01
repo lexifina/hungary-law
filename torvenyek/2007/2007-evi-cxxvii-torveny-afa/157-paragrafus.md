@@ -1,0 +1,1 @@
+157. § Abban az esetben, ha a 156. § szerinti engedélyes egyúttal közvetett vámjogi képviselő is, jogosult az adót önadózással megállapítani arra a termékimportra is, amelyben az importáló megbízása alapján jár el, függetlenül attól, hogy az importáló maga a 156. § szerint engedélyes-e, vagy nem.

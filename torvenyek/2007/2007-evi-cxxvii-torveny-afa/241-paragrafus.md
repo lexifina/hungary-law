@@ -1,0 +1,1 @@
+241. § Abban az esetben, ha az adóalany befektetési aranyat állít elő, vagy más aranyat befektetési arannyá alakít át, jogosult – az adólevonási jog gyakorlása egyéb feltételeinek sérelme nélkül – az e tevékenységéhez kapcsolódó előzetesen felszámított adó levonására úgy, mintha a később adó alól mentes befektetési arany értékesítése adóköteles lenne.

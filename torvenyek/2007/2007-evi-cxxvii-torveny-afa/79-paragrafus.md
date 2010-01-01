@@ -1,0 +1,3 @@
+79. § (1) Termék Közösségen belüli beszerzése esetében, ha a beszerző a Közösség más tagállamában, ahol a termék a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor volt, jövedékiadó-visszatérítésben részesült, az adó alapját csökkentheti a visszatérített jövedéki adó igazolt összegével, feltéve, hogy a termék belföldön is jövedéki termék.
+
+(2) Az 51. § (2) bekezdésben említett esetben a termék Közösségen belüli beszerzésének adóalapja csökkenthető azzal az igazolt pénzösszeggel, amely az adó alapjául szolgált a Közösség azon másik tagállamában, ahol a termék Közösségen belüli beszerzése az 50. § szerint teljesült.

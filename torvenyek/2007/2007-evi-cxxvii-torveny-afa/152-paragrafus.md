@@ -1,0 +1,1 @@
+152. § A 150. és 151. § szerinti esetekben az adófizetésre kötelezett nem mentesül e kötelezettsége alól, ha az erről szóló hatósági határozat közlésének napját követően az adó megfizetése nélkül szűnik meg a felelősségét megalapozó ok.

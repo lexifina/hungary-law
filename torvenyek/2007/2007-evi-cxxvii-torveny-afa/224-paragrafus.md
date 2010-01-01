@@ -1,0 +1,3 @@
+224. § (1) A belföldön nyilvántartásba vett viszonteladó – az állami adóhatóságnak tett előzetes bejelentése alapján – dönthet úgy is, hogy tevékenységének egészére nem alkalmazza ezen alfejezet rendelkezéseit.
+
+(2) Az (1) bekezdésben említett áttérés kezdő napjára szóló időzítéssel a viszonteladónak a 223. § (3) bekezdésének a) pontja szerint kell eljárnia. Az így megállapított nyitókészleten levő termékekre jutó előzetesen felszámított adóra – az adólevonási jog gyakorlásának egyéb feltételeinek sérelme nélkül – a viszonteladó legkorábban az áttérés kezdő napjától kezdődően adólevonási jogot gyakorolhat.

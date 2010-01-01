@@ -1,0 +1,1 @@
+118. § E cím alkalmazásában a 111. § (3) bekezdésében, a 112. § (2) bekezdésében és a 116. §-ban említett termékhez közvetlenül kapcsolódó szolgáltatás különösen a termék fuvarozása, a termék fuvarozásához járulékosan kapcsolódó szolgáltatások, valamint a terméken végzett munka vagy közvetlenül a termékre irányuló szakértői értékelés.

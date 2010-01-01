@@ -1,0 +1,1 @@
+238. § A 237. §-ban említett választási jog – az ott meghatározottak szerint – megilleti azt a belföldön nyilvántartásba vett adóalanyt is, aki (amely) gazdasági tevékenysége keretében aranyat általában ipari felhasználásra értékesít, arra a 235. § a) pontjában említett aranyrúd vagy aranylemez értékesítésére, amely más adóalany részére történik.

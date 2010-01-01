@@ -1,0 +1,1 @@
+28. § A 26. §-tól eltérően, ha a termék a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor a Közösség területén kívül van, az importáló általi termékértékesítés teljesítési helye a Közösség azon tagállama, ahol a termék importja teljesül.

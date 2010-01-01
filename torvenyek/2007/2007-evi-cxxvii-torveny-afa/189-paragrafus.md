@@ -1,0 +1,1 @@
+189. § Az adóalany belföldi nyilvántartásba vételével egyidejűleg is választhatja a tárgy naptári évre az alanyi adómentességet. Ilyen esetben elegendő a 188. § (1) bekezdésének b) pontjában említett feltételt időarányosan teljesíteni.

@@ -1,0 +1,1 @@
+81. § Termék importja esetében, ha az adó alapja külföldi pénznemben kifejezett, a forintra történő átszámításhoz azt az árfolyamot kell alkalmazni, amelyet a vámérték – ideértve a 74. § (2) bekezdésében említett esetet is – megállapításánál kell alkalmazni.

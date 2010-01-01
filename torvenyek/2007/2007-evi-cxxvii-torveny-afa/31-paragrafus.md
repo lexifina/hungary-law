@@ -1,0 +1,1 @@
+31. § A 29. és 30. § nem alkalmazható a használt ingóság, műalkotás, gyűjteménydarab és régiség értékesítésére, feltéve, hogy azokra e törvény rendelkezéseit a XVI. fejezetben meghatározott eltérésekkel alkalmazzák.

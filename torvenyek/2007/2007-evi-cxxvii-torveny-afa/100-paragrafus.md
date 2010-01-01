@@ -1,0 +1,5 @@
+100. § (1) Abban az esetben, ha a beszerző közhasznú tevékenységet folytató személy, szervezet, a 98. § (1) bekezdése szerinti adómentesség alkalmazásához szükséges az is, hogy a közhasznú tevékenységet folytató személy, szervezet a részére értékesített terméket igazoltan kizárólag a Közösség területén kívül végzett humanitárius, karitatív vagy oktatási tevékenységéhez használja, egyéb módon hasznosítsa.
+
+(2) Abban az esetben, ha a közhasznú tevékenységet folytató személy, szervezet a részére értékesített terméket maga vagy – javára – más az értékesítéssel egyidejűleg nem adja fel küldeményként vagy nem fuvarozza el a Közösség területén kívülre, a 98. § (1) bekezdése szerinti adómentesség az adó utólagos visszatéríttetése iránti jog formájában illeti meg a közhasznú tevékenységet folytató személyt, szervezetet.
+
+(3) Az adó-visszatéríttetési jog gyakorlásához fűződő, a közhasznú tevékenységet folytató személyt, szervezetet terhelő igazolási kötelezettséget, az adó-visszatéríttetése iránti kérelem kötelező adattartalmát, valamint az adó-visszatéríttetésével kapcsolatos egyéb eljárási rendelkezéseket külön jogszabály határozza meg.

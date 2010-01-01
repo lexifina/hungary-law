@@ -1,0 +1,1 @@
+106. § Mentes az adó alól a termék értékesítése abban az esetben, ha az vasúti-, vízi- vagy légiközlekedési eszközön történik, és az a Közösség területén végzett személyszállítás részeként teljesül, feltéve, hogy az értékesített termék a közlekedési eszköz fedélzetén történő helybeni fogyasztás célját szolgálja.

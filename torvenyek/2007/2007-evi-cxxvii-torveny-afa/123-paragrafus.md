@@ -1,0 +1,7 @@
+## Előzetesen felszámított adó megosztása
+
+123. § (1) Abban az esetben, ha az adóalany egyaránt teljesít a 120. és 121. § szerint adólevonásra jogosító termékértékesítést, szolgáltatásnyújtást (a továbbiakban: adólevonásra jogosító termékértékesítés, szolgáltatásnyújtás) és arra nem jogosító termékértékesítést, szolgáltatásnyújtást, az előzetesen felszámított adó kizárólag az adólevonásra jogosító termékértékesítésének, szolgáltatásnyújtásának betudható részében vonható le.
+
+(2) Az előzetesen felszámított adó levonható és le nem vonható részének megállapításához az adóalany köteles olyan megfelelően részletezett nyilvántartást alkalmazni, amely az adólevonási jog keletkezésétől kezdődően alkalmas annak egyértelmű, megbízható és folyamatos követésére, hogy a termék, szolgáltatás használata, egyéb módon történő hasznosítása adólevonásra jogosító termékértékesítését, szolgáltatásnyújtását vagy arra nem jogosító termékértékesítését, szolgáltatásnyújtását szolgálja (tételes elkülönítés).
+
+(3) Abban az esetben, ha a termék, szolgáltatás természete, illetőleg a használat, egyéb módon történő hasznosítás jellege folytán az előzetesen felszámított adó megosztása a tételes elkülönítés szabályai szerint nem végezhető el, az adóalany a megosztást más, az (1) bekezdésben említett követelményt kielégítő szabályok szerint is elvégezheti. Ennek hiányában a tételes elkülönítés szabályai szerint meg nem osztható előzetesen felszámított adót az 5. számú mellékletben meghatározott számítási módszer alkalmazásával kell arányosan megosztani.

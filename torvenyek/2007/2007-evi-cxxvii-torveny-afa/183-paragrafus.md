@@ -1,0 +1,1 @@
+183. § Abban az esetben, ha a Közösség valamely más tagállamában nyilvántartásba vett adóalany belföldön vevői készletet tart fenn, a tőle beszerző köteles a vevői készletből beszerzett termékekről folyamatos mennyiségi nyilvántartást vezetni.

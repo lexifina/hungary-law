@@ -1,0 +1,3 @@
+35. § (1) Abban az esetben, ha a 34. §-ban említett feltételek bármelyike nem teljesül, a gáz földgázcsővezeték-hálózaton keresztüli vagy a villamos energia értékesítésének teljesítési helye az a hely, ahol a beszerző ezeket a termékeket ténylegesen felhasználja (elfogyasztja).
+
+(2) Amennyiben a beszerző a gázt vagy a villamos energiát egészben vagy részben nem használja fel (nem fogyasztja el), az (1) bekezdés alkalmazásában a fel nem használt (el nem fogyasztott) gáz vagy villamos energia tényleges felhasználási (elfogyasztási) helyének azt a helyet kell tekinteni, ahol a beszerző gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában pedig azt a helyet, ahol lakóhelye vagy szokásos tartózkodási helye van.

@@ -1,0 +1,1 @@
+97. § A 93–95. §-októl függetlenül mentes az adó alól a termék importja akkor is, ha az jogszabályban kihirdetett nemzetközi szerződésben szabályozott kötelező vámmentességen alapul, kivéve az oktatási, a tudományos és a kulturális jellegű tárgyak behozataláról szóló nemzetközi szerződést kihirdető jogszabályban szabályozott vámmentességet.
