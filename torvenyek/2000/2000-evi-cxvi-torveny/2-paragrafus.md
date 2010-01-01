@@ -1,0 +1,1 @@
+2. § A szolgáltató biztosítja, hogy a közvetítői eljárás igénybevételére jogosultak az eljárás kezdeményezésének módját, illetve a közvetítői eljárás lényegét megismerhessék. A közvetítői eljárás lehetőségéről a betegjogi képviselő is tájékoztatást ad.

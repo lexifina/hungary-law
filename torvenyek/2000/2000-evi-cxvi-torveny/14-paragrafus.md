@@ -1,0 +1,1 @@
+14. § A közvetítői eljárás során keletkezett iratokat a kamara az eljárás befejezését követő 10 évig megőrzi. Az iratok őrzése során az egészségügyi adatok kezelésére vonatkozó jogszabályok rendelkezéseit kell megfelelően alkalmazni.
