@@ -1,0 +1,1 @@
+A Kormány a Szülőföld Alapról szóló 2005. évi II. törvény (a továbbiakban: Szatv.) 12. § (3) bekezdésében kapott felhatalmazás alapján a Szülőföld Alap (a továbbiakban: Alap) működése részletes szabályainak megállapítása érdekében a következőket rendeli el:
