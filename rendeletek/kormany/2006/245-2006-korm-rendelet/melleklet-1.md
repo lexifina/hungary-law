@@ -1,0 +1,3 @@
+1. melléklet a 245/2006. (XII. 5.) Korm. rendelethez[^25]
+
+[^25]: Az 1. melléklet a 9/2008. (I. 26.) Korm. rendelet 7. §-ával megállapított, a 100/2008. (IV. 29.) Korm. rendelet 3. § (3) bekezdése, a 311/2009. (XII. 28.) Korm. rendelet 25. § (2) bekezdés b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
