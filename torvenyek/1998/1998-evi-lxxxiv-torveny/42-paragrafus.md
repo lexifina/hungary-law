@@ -1,0 +1,3 @@
+42. § (1) A jogalap nélkül felvett ellátás visszafizetéséről határozattal, az igényelbíráló szervvel vagy egyéb szervvel szemben érvényesítendő megtérítésről fizetési meghagyással kell intézkedni. A jogerős határozat vagy fizetési meghagyás végrehajtható közigazgatási határozat.
+
+(2) Az igényelbíráló szerv a követelést a jogalap nélkül felvett ellátás utolsó kifizetésétől számított három éven belül érvényesítheti. Ha a követelésre alapot adó magatartás a bíróság jogerős ítélete szerint bűncselekmény, úgy a követelés három éven túl is érvényesíthető mindaddig, amíg a bűncselekmény büntethetősége el nem évül.

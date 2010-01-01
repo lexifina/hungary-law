@@ -1,0 +1,1 @@
+46. § Ha törvény másként nem rendelkezik, a 45. § (2) bekezdés szerinti adatok alapján vezetett nyilvántartásból a családtámogatási ellátásra való jogosultság megszűnésétől számított öt év elteltével – a szolgálati időre jogosító ellátások kivételével – törölni kell az adott személyre vonatkozó adatokat.

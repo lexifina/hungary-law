@@ -1,0 +1,1 @@
+30. § Amennyiben az anyasági támogatásra jogosult nő a támogatás felvételét megelőzően meghal, úgy az anyasági támogatást az anyával egy háztartásban élt apának kell kifizetni, ezen személy hiányában annak a személynek, aki a gyermek gondozását ellátja.

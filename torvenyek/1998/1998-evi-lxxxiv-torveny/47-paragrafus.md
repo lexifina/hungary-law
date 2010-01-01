@@ -1,0 +1,1 @@
+47. § Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban szereplő adatokat személyazonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
