@@ -1,0 +1,1 @@
+87/C. § A Felügyelet a 87/B. § (1) bekezdés szerinti határozatát visszavonhatja, ha a pénzügyi vállalkozás a Felügyelet intézkedésében, kivételes intézkedésében foglalt határidőn belül nem tesz eleget a 87/A. §-ban rögzített követelményeknek.

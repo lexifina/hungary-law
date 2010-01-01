@@ -1,0 +1,1 @@
+135. § A Felügyelet a 151. § (3) bekezdésének k) pontjában meghatározott esetben jogosult arra, hogy a hitelintézetet más könyvvizsgáló választására kötelezze és a könyvvizsgáló pénzügyi intézményi minősítésének visszavonását kezdeményezze.

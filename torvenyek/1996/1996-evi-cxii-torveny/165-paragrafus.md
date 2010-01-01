@@ -1,0 +1,3 @@
+165. § (1) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja a gazdasági társaságokra, a szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit.
+
+(2) Az (1) bekezdéstől eltérően az igazgatóság, illetőleg a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a hitelintézettel szemben hozott határozat ellen, e jogorvoslati eljárásban a hitelintézetet képviselheti vagy a képviselet ellátására megbízást adhat.

@@ -1,0 +1,1 @@
+143. § A pénzügyi intézmény, a pénzforgalmi intézmény és a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy – jogszabályban előírt tartalommal, módon és formában, rendszeres időközönként – köteles az MNB-nek és a Felügyeletnek adatszolgáltatást teljesíteni.

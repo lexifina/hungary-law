@@ -1,0 +1,1 @@
+19. § A 14. § (1) bekezdés h) pontjában meghatározott esetben az engedély iránti kérelemhez be kell nyújtani az írásbeli szerződést, amely azt a szerződési kikötést is tartalmazza, hogy a Felügyelet, illetőleg a hitelintézet korlátozás nélkül ellenőrizheti az ügynöknél a megbízás tárgyát képező tevékenységgel kapcsolatos gazdálkodást és az üzleti könyveket.

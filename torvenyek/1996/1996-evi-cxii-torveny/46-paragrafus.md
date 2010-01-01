@@ -1,0 +1,1 @@
+46. § A vezető állású személy és a pénzügyi intézmény alkalmazottja mindenkor – e beosztásával járó fokozott szakmai követelményeknek megfelelő – elvárható gondossággal és szakértelemmel, a pénzügyi intézmény és az ügyfelek érdekeinek figyelembevételével, a jogszabályok szerint köteles eljárni.

@@ -1,0 +1,1 @@
+130/H. § A KHR-t kezelő pénzügyi vállalkozás a részére átadott referenciaadatot „átruházás referenciaadat-szolgáltató részére” megjegyzéssel látja el, és feltünteti az átvevő referenciaadat-szolgáltató adatait, ha a referenciaadat-szolgáltató az adatszolgáltatással kapcsolatos szerződésből eredő követelést egy másik referenciaadat-szolgáltató részére ruházta át.

@@ -1,0 +1,3 @@
+## Hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás
+
+87/A. § Ha a pénzügyi vállalkozás alkalmazza a hitelintézetekre vonatkozó szavatoló tőkére és tőkemegfelelésre [76–76/K. §], kockázatok és befektetések korlátozására [77–85. §], az eszközök minősítésére [86–87. §], irányítási rendszerre és kockázatkezelésre [13/D. §], irányításra és ellenőrzésre [44–48. §, 62–69. §], valamint a nyilvánosságra hozatal követelményére [137/A. §] vonatkozó rendelkezéseket, és saját tőkéje legalább kétmilliárd forint, akkor a pénzügyi vállalkozás e törvény, valamint az e törvény felhatalmazása alapján kiadott jogszabály tekintetében – a Felügyelet határozata szerint – hitelintézettel egyenértékű prudenciális szabályozásnak felel meg.

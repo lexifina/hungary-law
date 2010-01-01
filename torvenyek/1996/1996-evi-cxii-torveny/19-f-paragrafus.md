@@ -1,0 +1,1 @@
+19/F. § Ha a kérelmező a 19/A. § (1) bekezdés a)–b) pontjában meghatározott adatokat nem mellékeli, az MNB adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.

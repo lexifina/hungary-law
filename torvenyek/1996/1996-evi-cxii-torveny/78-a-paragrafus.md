@@ -1,0 +1,5 @@
+78/A. § (1) Pénzügyi intézmény által vállalt, a sztenderd módszer alkalmazásakor a 76/A. § (1) bekezdés i) pontjába sorolható kitettségi osztály esetén, a kitettség vállaláskori értéke – ha a kockázattal súlyozott kitettség érték meghatározásához az ingatlanon kívül nincs más elismerhető hitelkockázati fedezet – nem haladhatja meg az ingatlan piaci értékének száz százalékát.
+
+(2) A pénzügyi intézmény (1) bekezdésben meghatározott kitettségeinek együttes értéke nem haladhatja meg a fedezetül szolgáló ingatlanok együttes piaci értékének hetven százalékát.
+
+(3) E § alkalmazásában az ingatlan piaci értéke az a becsült összeg, amelyért az ingatlan tulajdonjoga gazdát cserélhetne magánjogi adásvételi szerződés keretében, egy önkéntes eladó és egy önkéntes vevő között, megfelelő marketingtevékenységet követően, tisztességes feltételek mellett történő tranzakció keretében, amelynek során a felek jólértesülten, ésszerűen, körültekintően és kényszer nélkül járnak el. Az értékmeghatározásnál más jogszabályban leírtak szerint, a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertan az irányadó.

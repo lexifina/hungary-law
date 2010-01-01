@@ -1,0 +1,1 @@
+229. § Ha a hitelintézet a törvény hatálybalépése előtt kötött szerződések miatt a 79. § (2)–(3) bekezdésében foglalt korlátozásokat nem tartja be – a felső határértéket meghaladó összeget évente legalább húsz százalékkal csökkentve –, legkésőbb 2001. december 31-ig kell az előírt szintet elérnie.
