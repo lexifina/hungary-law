@@ -1,0 +1,5 @@
+38. § (1) A szolgálati kötelmekkel összefüggőnek minősülő baleset esetén, ha maradandó egészségkárosodás vélelmezhető, illetve ha az állapot végleges kialakulása után munkaképesség-csökkenés következett be, az alapellátó orvos köteles a balesetet szenvedett személyt az Országos Rehabilitációs és Szociális Szakértői Intézet (a továbbiakban: ORSZI) területileg illetékes igazgatósága elé rendelni a balesetből eredő egészségkárosodás mértékének megállapítása érdekében.
+
+(2) Amennyiben a hivatásos állomány tagjának a balesetből eredő egészségkárosodása a 13%-ot meghaladja, de baleseti rokkantsági nyugdíj nem illeti meg, az állományilletékes parancsnok köteles az ellátásra jogosultat felhívni baleseti járadék megállapítása iránti igénye érvényesítésére. A baleseti járadék megállapításával összefüggő teendőiről az állományilletékes parancsnok tájékoztatja az ellátásra jogosultat.
+
+(3) Ha az egészségkárosodás olyan mértékű, hogy az eredeti beosztás ellátását nem teszi lehetővé az állományilletékes parancsnok FÜV eljárás lefolytatását rendeli el.
