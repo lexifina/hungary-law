@@ -1,0 +1,3 @@
+66. § (1) Az integrált vasúti társaságnak az általa működtetett, nyílt hozzáférésű vasúti pályahálózathoz történő hozzáférésére a 37. § (1) bekezdésének b)–d) pontjaiban meghatározott tevékenységet végző szervezeti egységei, és a vasúti pályahálózat működtetését ellátó szervezeti egysége közötti – a VPSZ által kidolgozott, és a vasúti igazgatási szerv által jóváhagyott – belső megállapodás alapján kerül sor.
+
+(2) A pályahálózatot működtető integrált vasúti társaságnak a 65. § (2) bekezdésében foglaltak szerint meghatározott belső hálózat-hozzáférési díjat a 37. §-ban foglaltaknak megfelelően kell az integrált vasúti társaság vállalkozó vasúti és a vasúti pályahálózat működtetését végző szervezeti egységei között elszámolni.

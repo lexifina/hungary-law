@@ -1,0 +1,1 @@
+63. § A nem független vasúti pályahálózat-működtető Hálózati Üzletszabályzatának – az 59. § (1) bekezdésében foglaltakon túlmenően – tartalmaznia kell az általa működtetett, nyílt hozzáférésű vasúti pályahálózathoz történő hozzáférésére vonatkozó részletes szabályokat.

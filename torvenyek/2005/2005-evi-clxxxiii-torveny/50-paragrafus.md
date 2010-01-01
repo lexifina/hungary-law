@@ -1,0 +1,1 @@
+50. § A kizárólag egy, országos működési engedéllyel nem rendelkező vasúti társaság által árutovábbításra használt térségi vasúti pályahálózatra az 51–67. §-okban foglaltakat azt követően kell alkalmazni, hogy arra vonatkozóan újabb hozzáférésre jogosult vasúti pályahálózat-kapacitás iránti igényt jelent be.

@@ -1,0 +1,3 @@
+36/F. § (1) A tanúsítvány hatályban tartásához annak birtokosa a tanúsítvány megszerzésére vonatkozó követelményekkel azonos ismeretanyagból a vasúti társaság biztonság-irányítási rendszerében meghatározott rendszerességgel, de legalább háromévente, illetve több mint egyéves távollét esetén időszakos vizsgára kötelezett.
+
+(2) A járművezetőként történő foglalkoztatás megszűnésekor a tanúsítvány hatályát veszti. Ebben az esetben a járművezető jogosult a tanúsítvány hiteles másolatára, valamint a képzettségének, képesítéseinek, tapasztalatának és szakmai alkalmasságának bizonyítékául szolgáló összes okmányra, melyeket az új foglalkoztató vasúti társaság a tanúsítvány kiadása során figyelembe vesz.

@@ -1,0 +1,1 @@
+Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érvényesítése, a magyar vasúti közlekedésnek az egységesülő nemzetközi vasúti közlekedési rendszerbe illesztése, a vasút által végzett környezetkímélő közlekedési szolgáltatások iránti igények növekedésének elősegítése, valamint a vasúti közlekedés biztonságának növelése céljából a következő törvényt alkotja:
