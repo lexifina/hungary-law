@@ -1,0 +1,1 @@
+Az önkéntes kölcsönös biztosító pénztárakról szóló, módosított 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 78. §-ának (2) bekezdésében foglalt felhatalmazás alapján a Kormány az önkéntes kölcsönös egészségpénztárak egészségügyi intézményeinek működési és üzemeltetési szabályairól a következőket rendeli el:
