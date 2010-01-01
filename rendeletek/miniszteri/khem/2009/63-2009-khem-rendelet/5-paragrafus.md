@@ -1,0 +1,1 @@
+## „(4) A járműfenntartó szervezet köteles bejelenteni a közlekedési hatóság részére – az időtartam megjelölésével – a tevékenység szüneteltetését, a tevékenység megszüntetését, valamint a (2) bekezdésben meghatározott adatok tekintetében bekövetkezett változásokat.”
