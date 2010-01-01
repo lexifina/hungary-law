@@ -1,0 +1,3 @@
+## Átmeneti rendelkezés
+
+15. §

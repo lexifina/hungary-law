@@ -1,0 +1,1 @@
+7. § A rendszer résztvevője ellen indult fizetést korlátozó eljárás esetén a résztvevőnek a rendszerben való részvételből származó jogait és kötelezettségeit a rendszerre irányadó jog szerint kell megállapítani.

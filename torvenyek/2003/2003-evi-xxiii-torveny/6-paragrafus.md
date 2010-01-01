@@ -1,0 +1,1 @@
+6. § A fizetést korlátozó eljárás során született határozatoknak és a megtett intézkedéseknek nem lehet az eljárás megindításának az 5. § (2) bekezdése szerinti időpontját megelőző időpontra visszaható, a résztvevőnek a rendszerben való részvételből származó jogait vagy kötelezettségeit érintő hatálya.
