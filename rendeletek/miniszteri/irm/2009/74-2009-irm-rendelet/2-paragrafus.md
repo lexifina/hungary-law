@@ -1,0 +1,5 @@
+## 1. § Az illeték és közzétételi költségtérítés elektronikus úton történő megfizetéséről a cégeljárásban és más cégügyekben szóló 25/2006. (V. 18.) IM rendelet (a továbbiakban: R.) 1. §-ának (1) bekezdése, valamint az azt megelőző alcím helyébe a következő rendelkezés lép:
+
+## „A cégbejegyzési (változásbejegyzési) eljárás illetékének és közzétételi költségtérítésének megfizetése a cégbejegyzési (változásbejegyzési) kérelem benyújtásának napját megelőzően
+
+## 1. § (1) A Ctv. 37. §-ának (4) bekezdésében foglalt fizetési mód választása esetén az illetéket és a közzétételi költségtérítést az Igazságügyi és Rendészeti Minisztérium Céginformációs és Elektronikus Cégeljárásban Közreműködő Szolgálat (a továbbiakban: Céginformációs Szolgálat) honlapjáról, illetve a kormányzati portálról letölthető illetékbefizetési utalványmintán, valamint költségtérítési utalványmintán (a továbbiakban mindkét esetben: utalvány) szereplő adatok feltüntetésével – elektronikus úton – kell megfizetni, a cégbejegyzési (változásbejegyzési) kérelem benyújtásának napját megelőzően.”
