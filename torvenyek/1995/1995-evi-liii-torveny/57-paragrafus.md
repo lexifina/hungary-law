@@ -1,0 +1,3 @@
+## Környezetvédelmi alap célfeladat fejezeti kezelésű előirányzat
+
+57. § A környezetvédelmi alap célfeladat fejezeti kezelésű előirányzat a környezetkímélő gazdasági szerkezet kialakításának ösztönzését, a környezeti ártalmak megelőzését, csökkentését, a bekövetkezett környezeti károk felszámolását – a külön törvényben meghatározott tájrendezést –, továbbá természeti értékek és területek fenntartását, a leghatékonyabb megoldások, továbbá a külön jogszabályban meghatározott tevékenységek esetén az elérhető legjobb technika ösztönzését, előmozdítását, a társadalom környezeti szemléletének fejlődését, valamint a környezetvédelmi kutatást elősegítő előirányzat.

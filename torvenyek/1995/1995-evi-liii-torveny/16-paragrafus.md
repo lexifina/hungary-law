@@ -1,0 +1,1 @@
+16. § Beruházás (építés, bányászat) folytatása során, annak megkezdése előtt — külön jogszabály rendelkezése szerint — gondoskodni kell a termőréteg megfelelő letermeléséről és termőtalajkénti felhasználásáról.

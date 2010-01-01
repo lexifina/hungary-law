@@ -1,0 +1,1 @@
+36. § A környezeti elemek védelmére, továbbá a környezetet veszélyeztető hatások elleni védelemre vonatkozó átfogó szakterületi szabályokat külön törvények, a törvényi szabályozást nem igénylő részletes szabályokat — az e törvényben foglaltak alapulvételével — a Kormány rendeletben állapítja meg.

@@ -1,0 +1,1 @@
+83. § Csődeljárás, felszámolási eljárás és végelszámolás esetén a tevékenységgel esetlegesen okozott környezetkárosodás feltárása, megszüntetése érdekében külön törvény rendelkezéseit kell alkalmazni.

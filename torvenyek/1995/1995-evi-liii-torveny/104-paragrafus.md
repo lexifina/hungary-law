@@ -1,0 +1,1 @@
+104. § Ha a jogsértő tevékenységet folytató személyében változás áll be, e tevékenységet folytatóval szemben a jogutód felelősségének szabályait kell alkalmazni, kivéve, ha a felek a szerződésben ettől eltérően állapodtak meg.

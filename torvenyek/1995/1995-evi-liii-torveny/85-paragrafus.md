@@ -1,0 +1,1 @@
+85. § A környezetre súlyos veszélyt jelentő anyagok és termékek előállítása, behozatala, forgalmazása, technológiák alkalmazása a minősítésen túl csak a Kormány rendeletében meghatározottak szerinti hatósági engedéllyel végezhető.

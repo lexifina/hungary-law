@@ -1,0 +1,1 @@
+105. § A környezethasználó jogutód nélküli megszűnése esetén a felszámolás vagy végelszámolás során, illetve állami vállalat gazdasági társasággá alakulása, állami vagyon hasznosítása és értékesítése során, állapotfelmérés alapján a vagyonfelmérésben szerepeltetni kell a tevékenység következtében létrejött környezetkárosodások kárelhárítási és kártérítési költségeit.
