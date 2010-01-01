@@ -1,0 +1,1 @@
+4. § A területfejlesztési és területrendezési feladatokat az állami szervek, az önkormányzatok, a természetes személyek és szervezeteik, a gazdálkodást végző szervezetek és az érdekvédelmi szervezetek, valamint más intézmények összehangoltan, egymással együttműködve látják el.
