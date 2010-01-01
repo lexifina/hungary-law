@@ -1,0 +1,3 @@
+24. § (1) A bíróság és a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén –, valamint a nyomozó hatóságok bűnüldözési tevékenységük ellátásához, továbbá az állampolgársági ügyekben eljáró szerv a kérelmező adatainak azonosításához e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének [17. § (2) bekezdés d) pont] igénylésére jogosultak.
+
+(2) A személyazonosításra alkalmas hatósági igazolvány kiadási eljárásban – személyazonosítás céljára – az eljáró hatóság jogosult a polgár arcképmásának és saját kezű aláírásának megismerésére, illetőleg igénylésére.

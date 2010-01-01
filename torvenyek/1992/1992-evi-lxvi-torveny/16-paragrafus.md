@@ -1,0 +1,1 @@
+16. § Az anyakönyvvezető a születési, a házassági, a halotti anyakönyvben, valamint a bejegyzett élettársi kapcsolatok anyakönyvében rögzített – a 11. § (1) bekezdésében meghatározott – adatokat átvezeti a nyilvántartáson.
