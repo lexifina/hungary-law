@@ -1,0 +1,1 @@
+51/A. § Az egészségpénztár kiegészítő egészségbiztosítási szolgáltatásokat, valamint életmódjavító egészségpénztári szolgáltatásokat nyújthat a pénztártagok, illetve rendelkezésük alapján a közeli hozzátartozók részére.

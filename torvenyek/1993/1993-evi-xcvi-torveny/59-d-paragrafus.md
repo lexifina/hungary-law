@@ -1,0 +1,1 @@
+59/D. § A pénztárak a tevékenységi engedély iránti kérelmet; a pénztár, illetve a vezető tisztségviselők, az ügyvezető, a kötelező alkalmazottak és megbízottak, a könyvvizsgáló, illetve a szolgáltatók adatainak bejelentését a Felügyelet által meghatározott formában kötelesek elkészíteni.

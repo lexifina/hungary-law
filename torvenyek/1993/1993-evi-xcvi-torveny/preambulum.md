@@ -1,0 +1,3 @@
+A szociális biztonság erősítése sürgető társadalmi érdek. A szociális biztonságot szolgáló rendszerek újjáépítése, a szolidaritás, a rendszerszerűség, a kiszámíthatóság és az önkéntesség elve alapján a szociális piacgazdaság kiépítéséhez nélkülözhetetlen. Az ezt szolgáló önkéntes kölcsönös biztosító pénztárak új, intézményes formát adnak az öngondoskodásnak, s a tartósan befektethető források bővítésével elősegítik a hazai tőkepiac fejlődését. Az önkéntes kölcsönös biztosító pénztárak meghonosítása Magyarországon a társadalombiztosítás reformjának szerves része.
+
+A pénztárszervezet és működési forma bevezetése, új intézménytípusként a hazai jogrendbe történő illesztése érdekében az Országgyűlés a következő törvényt alkotja.

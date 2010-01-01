@@ -1,0 +1,1 @@
+50/A. § Az önsegélyező pénztár kiegészítő önsegélyező pénztári szolgáltatásokat, valamint életmódjavító önsegélyező pénztári szolgáltatásokat nyújthat a pénztártagok, illetve rendelkezésük alapján a közeli hozzátartozók részére.

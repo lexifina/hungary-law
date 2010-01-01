@@ -1,0 +1,11 @@
+## A közgyűlés feladata és hatásköre
+
+21. § (1) A pénztár legfőbb szerve a tagok összességéből álló közgyűlés, vagy a tagok által — az alapszabályban meghatározottak szerint — közvetlenül vagy közvetett úton választott testület (küldöttközgyűlés). Az alapszabály a hatásköri és eljárási szabályok rögzítése mellett részközgyűlések tartásáról is rendelkezhet.
+
+(2) A közgyűlést évente legalább kétszer össze kell hívni, az éves beszámoló, illetve a pénzügyi terv elfogadására. A közgyűlés összehívásának módjáról az alapszabályban kell rendelkezni. A hirdetmény közzététele vagy a meghívó elküldése, valamint a közgyűlés időpontja között legalább 15 napi időköznek kell lennie. A közgyűlés összehívásáról szóló értesítésben meg kell jelölni a közgyűlés helyét, idejét, napirendjét, valamint a napirendhez tartozó iratok megtekintésének helyét és idejét.
+
+(3) A közgyűlést a (2) bekezdésben meghatározott eseteken kívül akkor is össze kell hívni, ha azt a bíróság elrendeli, a Felügyelet, vagy az ellenőrző bizottság, illetve a pénztártagok legalább tíz százaléka — az ok és a cél megjelölésével — írásban indítványozza, illetve, ha az igazgatótanács szükségesnek látja. Az alapszabály más esetekben is előírhatja közgyűlés összehívását. A közgyűlés összehívása az igazgatótanács feladata. Amennyiben az igazgatótanács a közgyűlés összehívása iránt nem intézkedik, az indítványozók bírósághoz fordulhatnak.
+
+(4) A közgyűlésre a Felügyelet képviselőjét is meg kell hívni. A Felügyelet képviselője a közgyűlésen tanácskozási joggal vesz részt.
+
+(5) A közgyűlés a meghívóban (hirdetményben) nem szereplő napirendi pontokat az Öpt. 23. §-ának (1) bekezdésében meghatározott, a közgyűlés kizárólagos hatáskörébe tartozó kérdések esetén csak akkor tárgyalhatja meg, ha az ülésen valamennyi tag jelen van, illetve képviselve van, és egyhangúlag hozzájárul a napirendi kérdés megtárgyalásához.

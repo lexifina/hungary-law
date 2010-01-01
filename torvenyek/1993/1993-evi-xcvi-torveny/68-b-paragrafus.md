@@ -1,0 +1,7 @@
+68/B. § (1) A Felügyelet a pénztár működését határozott időtartamra, legfeljebb 180 napra felfüggesztheti, ha a pénztár súlyosan vagy ismételten megsérti a pénztártevékenységre vonatkozó jogszabályokat, vagy a Felügyelet intézkedésének nem tesz eleget, és ezáltal veszélyezteti a pénztártagok érdekeit, illetve a pénztárvagyon biztonságát. A Felügyelet a pénztár működése felfüggesztésének időtartamát egy alkalommal, legfeljebb 180 nappal meghosszabbíthatja.
+
+(2) A pénztár a működésének felfüggesztése alatt új tagokat nem vehet fel, átlépő tagokat és tagdíjbefizetéseket nem fogadhat, valamint a (3) bekezdésben foglaltak kivételével nem teljesíthet kifizetéseket, és nem eszközölhet befektetéseket.
+
+(3) A pénztár működése felfüggesztésének idején történő kivételes kifizetésekre alkalmazni kell a kifizetési tilalomra vonatkozó szabályokat. A pénztár új befektetési ügyleteket csak a Felügyelet előzetes jóváhagyásával eszközölhet, azzal, hogy a befektetés kizárólag az Európai Gazdasági Térségről szóló megállapodásban részes állam által kibocsátott állampapírba, illetve olyan értékpapírba történhet, amelyben foglalt kötelezettség teljesítéséért a magyar állam készfizető kezességet vállal.
+
+(4) A pénztár működésének felfüggesztése alatt a tagsági jogviszony és a tagdíjfizetési kötelezettség szünetel, azzal, hogy ez az idő a várakozási időbe beszámít. A beérkező tagdíjakat a pénztár pénzforgalmi számlájának vezetője a felfüggesztés időpontjától a befizetőnek visszautalja.

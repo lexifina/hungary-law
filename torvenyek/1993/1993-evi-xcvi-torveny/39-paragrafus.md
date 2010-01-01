@@ -1,0 +1,3 @@
+39. § (1) Amennyiben a beszámoló olyan veszteséget mutat, amely a likviditási alapból nem pótolható, az igazgatótanácsnak javaslatot kell tennie a közgyűlés számára a veszteségmegszüntetés módjára. A javaslattétel előtt köteles tájékoztatni a veszteségről és a stabilizációs tervéről a Felügyeletet és a Pénztárszövetséget.
+
+(2) Amennyiben az igazgatótanács javaslatát a megkeresett szervek a veszteség megszüntetésére nem tartják szakmailag megalapozottnak, ettől eltérő szakmai ajánlásokat tehetnek. Indokolt esetben a 69. § szerint a Felügyelet és a Pénztárszövetség a közgyűlésnek javasolhatja a pénztár átmeneti államigazgatási irányítás alá helyezését.

@@ -1,0 +1,11 @@
+38/A. § (1) Az ingatlanokra vonatkozó adásvételi szerződés érvényességéhez a letétkezelő ellenjegyzése szükséges. A letétkezelő az adott ügyletet csak a pénztárakra vonatkozó jogszabályok szerint minősítheti, ellenjegyzése során a pénztár döntését üzleti megfontolások szempontjából nem értékeli.
+
+(2) A pénztár a tulajdonában álló biztosítható ingatlanokra köteles teljes körű vagyonbiztosítást kötni.
+
+(3) A pénztár a tulajdonában álló ingatlanokat kizárólag bérbeadás, továbbértékesítés, valamint fejlesztés útján hasznosíthatja. Amennyiben a pénztár a fedezeti tartalékból vásárolt ingatlant a pénztár elhelyezésére hasznosítja, akkor az ingatlan hasznosítási díjaként (hozamaként) a pénztár köteles legalább az ingatlanértékelő által meghatározott minimális bérleti díjat a működési tartalékból a fedezeti tartalékba negyedévente átvezetni.
+
+(4) A pénztár az ingatlant vállalkozási tevékenység folytatására harmadik személy részére bérbeadhatja, azonban a pénztár maga azzal kapcsolatban a befektetési kockázaton túli kockázatot jelentő, haszonszerzésre irányuló, üzleti tevékenységet nem végezhet.
+
+(5) Az ingatlanok bérbeadása, forgalmazása és fejlesztése (a továbbiakban: ingatlanhasznosítás) a pénztári befektetési tevékenység részét képezi. A befektetési üzletmenet kihelyezése az ingatlanok tulajdonjogával és hasznosításával kapcsolatos döntések meghozatalára nem vonatkozik, azt a pénztár kizárólag saját maga végezheti.
+
+(6) Ha a pénztár befektetési portfóliója ingatlant is tartalmaz, ingatlanértékelőt köteles megbízni. Az ingatlan értékelésével kizárólag olyan személy bízható meg, aki büntetlen előéletű, nem áll agrár-, műszaki, gazdasági vagy jogi egyetemi, illetve főiskolai végzettséghez kötött munkakörnek megfelelő (a továbbiakban: ingatlanértékelő tevékenység gyakorlását kizáró) foglalkozástól eltiltás hatálya alatt, valamint akivel szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok. Amennyiben a pénztár ingatlanfejlesztést végez, és az adott fejlesztés tervezett értéke meghaladja az ötmillió forintot, a pénztár az építési, szerelési munka szakszerűségének ellenőrzésével, illetőleg helyszíni képviselete ellátásával építési műszaki ellenőrt köteles megbízni. A műszaki ellenőr az építési műszaki ellenőri tevékenység gyakorlására vonatkozó jogszabályi előírások szerint köteles eljárni.

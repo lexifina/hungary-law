@@ -1,0 +1,1 @@
+48. § A 47. § (4)–(5) bekezdései alapján történő kifizetéseket pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján, vagy a jogosult kérésére az általa megjelölt belföldi vagy külföldi fizetési számlára történő utalással teljesíti. Amennyiben a pénztár alapszabálya lehetővé teszi, a kifizetés házipénztárból való kifizetéssel is teljesíthető.

@@ -1,0 +1,5 @@
+6. § (1) A pénztár jogi személy.
+
+(2) A pénztárt a székhelye szerint illetékes megyei (fővárosi) bíróság veszi nyilvántartásba. A nyilvántartásba vétel iránti kérelmet az alakuló közgyűlést követő 30 napon belül kell benyújtani a bírósághoz. A kérelemhez mellékelni kell az alakuló közgyűlés által elfogadott alapszabályt, az alakuló közgyűlés jegyzőkönyvét, a jelenléti ívet, valamint a kérelem beadását követően a számlavezetésre feljogosított pénzforgalmi szolgáltató igazolását pénzforgalmi számla megnyitásáról. A bíróság a nyilvántartásba vételről nem peres eljárásban határoz és határozatáról a kérelmezővel egyidejűleg az illetékes ügyészséget és a Pénzügyi Szervezetek Állami Felügyeletét (a továbbiakban: Felügyelet) is értesíti.
+
+(3) A pénztár a bírósági nyilvántartásba vétellel jön létre, az alakuló közgyűlés időpontjára visszaható hatállyal. A pénztár nyilvántartásba vételének meghiúsulása esetén a felek egymás közötti jogviszonyaira a Polgári Törvénykönyvről szóló többször módosított 1959. évi IV. törvény (a továbbiakban: Ptk.) rendelkezései az irányadók.

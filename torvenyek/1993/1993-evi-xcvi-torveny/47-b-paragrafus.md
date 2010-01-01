@@ -1,0 +1,5 @@
+47/B. § (1) Pénztárak közötti átlépés esetén – ideértve a 45/A. § (3) bekezdés a) pontjában foglalt esetet is –, illetve amennyiben valamely okból különböző nyugdíjpénztárakban fennálló tagsági jogviszonyok alatt eltelt várakozási idők összeszámítása szükséges, akkor az érintett tagsági jogviszonyok alatt eltelt várakozási idők összeszámítandók azzal, hogy a párhuzamosan fennálló tagsági jogviszonyok alatt egyidejűleg eltelt várakozási idők csak egyszeresen vehetők figyelembe.
+
+(2)
+
+(3) Pénztárak közötti átlépés esetén az átlépő tag egyéni számla követeléséről tőke és hozam bontásban, a 2007. december 31-ét követő befizetésekről az értéknap megjelölésével, illetve az átlépő tag egyéni számlájára vezetett tagi lekötésről, annak mértékéről és jogosultjáról a befogadó pénztárat az egyéni számlát vezető pénztár köteles értesíteni. A tagi lekötés jogosultját az átlépésről és a tagi lekötés egyéni számlára vezetéséről a befogadó pénztár köteles értesíteni a befogadó nyilatkozat kiállításával egyidejűleg.

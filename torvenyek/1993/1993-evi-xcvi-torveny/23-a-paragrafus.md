@@ -1,0 +1,1 @@
+23/A. § A közgyűlési határozatok ellen a pénztártagok, illetve a küldöttek, valamint a Felügyelet a határozat meghozatalától számított 90 napon belül keresetet nyújthatnak be a pénztár székhelye szerint illetékes megyei bíróságon.
