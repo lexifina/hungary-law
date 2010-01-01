@@ -1,0 +1,1 @@
+193. § A károsult állományilletékes parancsnoka, ennek hiányában a miniszter a károkozásról való tudomásszerzéstől számított 15 napon belül köteles a károsultat felhívni kárigényének előterjesztésére. A Honvédség a kárigény bejelentésétől számított 15 napon belül írásbeli tájékoztatást ad a károsultnak az eljáró szervről és az eljárás módjáról.

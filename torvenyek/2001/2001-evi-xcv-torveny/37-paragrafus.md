@@ -1,0 +1,5 @@
+37. § (1) Az állomány választott szakszervezeti tisztséget betöltő tagjának más szolgálati helyre való – a Honvédség által kezdeményezett – beosztásához, továbbá szolgálati viszonyának felmentéssel történő megszüntetéséhez – a külföldi szolgálatot teljesítő személyi állomány kivételével – az adott szervezeti egységen belüli szakszervezeti szerv előzetes egyetértése szükséges. Ha a felmentés méltatlanság miatt válik szükségessé, vagy a szakszervezeti tisztségviselőt fegyelmileg kell felelősségre vonni, erről a megfelelő szakszervezeti szervet előzetesen értesíteni kell.
+
+(2) Az (1) bekezdésben meghatározott védelem a tisztségviselőt megbízatásának idejére és annak megszűnését követő 1 évre illeti meg, feltéve, hogy tisztségét legalább 6 hónapon át betöltötte.
+
+(3) Ha a választott tisztségviselő ügyében az eljárásra jogosult szakszervezeti szerv nem határozható meg, az (1) bekezdésben meghatározott jogosultságot az a szakszervezeti szerv gyakorolja, amelyben a tisztségviselő a tevékenységét kifejti.

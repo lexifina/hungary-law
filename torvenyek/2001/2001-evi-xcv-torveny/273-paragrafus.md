@@ -1,0 +1,1 @@
+273. § Az állomány tagját, aki a beosztásához rendszeresített rendfokozathoz előírt iskolai végzettség (szakképesítés) megszerzéséhez szükséges tanulmányokat megkezdte, az előírt tanulmányi idő lejártáig úgy kell tekinteni, mint aki a beosztásához szükséges követelményeket teljesítette.

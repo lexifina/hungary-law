@@ -1,0 +1,3 @@
+80. § (1) A magasabb beosztás betöltéséhez szükséges iskolai végzettség (szakképesítés, tanfolyami végzettség) megszerzését hazai vagy külföldi katonai, rendvédelmi, illetőleg polgári felsőoktatási és középfokú oktatási intézményben, iskolarendszerű vagy iskolarendszeren kívüli oktatás (képzés) keretében kell biztosítani. A beiskolázásra pályázat vagy kijelölés útján kerül sor. Emellett lehetőséget kell adni az állomány tagjának a szolgálati érdek sérelmével nem járó, saját elhatározáson alapuló egyéni továbbtanulásra is.
+
+(2) Az állomány tagját szakmai ismereteinek fejlesztése céljából szakmai továbbképzésben, illetve átképzésben kell részesíteni.

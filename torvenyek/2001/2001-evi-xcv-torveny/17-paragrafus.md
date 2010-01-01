@@ -1,0 +1,1 @@
+17. § Ha a szolgálati rend és a fegyelem fenntartása érdekében elkerülhetetlenül szükséges, a szolgálati elöljáró, a helyőrség-, illetve az egységügyeletes az állomány tagját bűncselekmény elkövetése esetén elkülönített helyiségben, felügyelet alatt tarthatja. Ez a személyi szabadságkorlátozás legfeljebb 6 órán át tarthat.

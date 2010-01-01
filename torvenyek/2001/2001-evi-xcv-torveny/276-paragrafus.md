@@ -1,0 +1,1 @@
+276. § A leszerelési segély megilleti az e törvény hatálybalépésekor szolgálatban álló szerződéses állományúakat, toborzópénz azonban csak az e törvény hatálybalépése után szerződéses szolgálati viszonyt létesítők számára fizethető.

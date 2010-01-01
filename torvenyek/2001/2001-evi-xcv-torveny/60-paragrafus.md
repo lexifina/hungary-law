@@ -1,0 +1,7 @@
+60. § (1) Az állomány tagjának kezdeményezésére a felek írásban a felmentési idő 59/A. § szerinti tartamánál rövidebb időtartamban is megállapodhatnak. A szerződéses állomány tagjának felmentési ideje az eredeti szerződés határnapján nem terjedhet túl. A felmentés időtartamának felére az állomány tagját a szolgálati kötelezettség teljesítése alól mentesíteni kell. Indokolt esetben a munkáltatói jogkört gyakorló elöljáró (vezető) az állomány tagját a teljes felmentési időre mentesítheti a szolgálati kötelezettség teljesítése alól. A szolgálati kötelezettség teljesítése alóli mentesítés idejére az állomány tagja távolléti díjra jogosult.
+
+(2) Az állomány tagja a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta egyenlő részletekben jogosult.
+
+(3) A szakmailag alkalmatlan minősítést kapott személy szolgálati viszonyát 30 napos felmentési idővel, a szolgálatra méltatlanná vagy nemzetbiztonsági szempontból neki felróható okból alkalmatlanná vált személy szolgálati viszonyát felmentési idő nélkül – azon a napon, amelyen a munkáltatói jogkört gyakorló elöljáró a felmentésre okot adó tényt megállapítja – kell megszüntetni.
+
+(4) Ha az állomány tagja a szolgálat felső korhatárát még nem érte el és szolgálati nyugdíjra jogosult, a felmentésével egyidejűleg nyugállományba kell helyezni. Ebben az esetben a hivatásos szolgálat a felmentési idő elteltével szűnik meg. A nyugdíj folyósítására a 203. §-ban foglaltakat kell alkalmazni.

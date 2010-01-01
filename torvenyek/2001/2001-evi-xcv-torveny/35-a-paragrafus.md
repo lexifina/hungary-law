@@ -1,0 +1,1 @@
+35/A. § A szakszervezet az együttműködés keretén belül a Honvédséget tájékoztatja a szakszervezeti tisztségviselők megválasztásáról és e tisztség ellátásának megszűnéséről, valamint a tisztségviselők megválasztáskori beosztásáról és illetményadatairól.

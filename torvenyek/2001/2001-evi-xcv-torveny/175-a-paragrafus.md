@@ -1,0 +1,3 @@
+175/A. § (1) Amennyiben a leltárhiányért fennálló felelősséget megállapítani nem lehet, a vizsgáló eljárása során feltárt bizonyítékok alapján a leltárhiányért fennálló felelősségen kívüli kártérítési felelősség megállapításának lehet helye.
+
+(2) Amennyiben a leltárhiányért fennálló felelősségre vonásra irányuló eljárásban a kártérítésre kötelező határozatot utólag hatályon kívül helyezik, de a vizsgáló eljárása során feltárt bizonyítékok alapján a leltárhiányért fennálló felelősségen kívüli kártérítési felelősség megállapításának lehet helye, a hatályon kívül helyezés jogerőssé válását megállapító irat kézhezvételétől számított 30 napon belül meg kell indítani az e felelősség szerinti káreljárást.

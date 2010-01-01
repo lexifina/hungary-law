@@ -1,0 +1,1 @@
+214. § A hivatásos állomány azon tagjának, aki a szolgálati nyugdíjra jogosultsághoz szükséges, a 203. § (1) bekezdése szerinti 25 év tényleges szolgálati időt megszerzi, a szolgálati nyugdíja összegét – annak folyósítása nélkül – hivatalból meg kell állapítani (rögzíteni).

@@ -1,0 +1,3 @@
+165. § (1) A pénzbírságot a határozat jogerőre emelkedésétől számított 30 napon belül kell a szolgálati helyen befizetni. A fegyelmi jogkört gyakorló parancsnok (vezető) az érintett kérelmére legfeljebb 6 havi részletfizetést vagy halasztást engedélyezhet. Ha a fenyített a jogerősen kiszabott pénzbírságot az előírt határidő alatt nem fizette meg, illetve a részletfizetést elmulasztja, az egy összegben esedékessé válik, és azt az illetményéből le kell vonni.
+
+(2) Ha az állomány tagja a szabálysértési hatóság által vele szemben jogerősen kiszabott pénzbírságot nem fizeti meg, és a szabálysértési hatóság emiatt azt elzárásra változtatta át, az elzárást katonai fogdában kell végrehajtani.

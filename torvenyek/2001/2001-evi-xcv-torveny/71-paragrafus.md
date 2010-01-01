@@ -1,0 +1,3 @@
+71. § (1) Az állomány tagja köteles az állományilletékes parancsnoknak haladéktalanul bejelenteni, ha vele szemben a törvényben meghatározott összeférhetetlenségi ok merült fel, illetve, ha szolgálati viszonyának fennállása alatt összeférhetetlen helyzetbe került. Az állományilletékes parancsnok köteles – a 62. § (1) bekezdés a) pontjában meghatározott esetet kivéve – felszólítani az állomány tagját az összeférhetetlenség megszüntetésére, illetve köteles a szükséges intézkedést megtenni az összeférhetetlenség kizárására.
+
+(2) Ha az állomány tagja az összeférhetetlenséget a felszólítástól számított 30 napon belül nem szüntette meg, szolgálati viszonya megszűnik.

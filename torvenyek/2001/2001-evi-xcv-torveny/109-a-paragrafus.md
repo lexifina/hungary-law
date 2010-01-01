@@ -1,0 +1,1 @@
+109/A. § A Honvéd Vezérkar főnöke és a katonai nemzetbiztonsági szolgálatok főigazgatói, valamint helyetteseik illetményét a munkáltatói jogkört gyakorló elöljáró határozza meg azzal, hogy az illetmény a köztisztviselői illetményalap huszonötszörösét nem haladhatja meg.

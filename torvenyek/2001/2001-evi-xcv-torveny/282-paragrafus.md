@@ -1,0 +1,1 @@
+282. § Az e törvény hatálybalépése előtt megkötött tanulmányi szerződésekre, illetve a tanulmányokkal kapcsolatos kedvezményekre a szerződés megkötésekor, illetve a tanulmányok megkezdésekor hatályos szabályokat kell alkalmazni.

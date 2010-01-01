@@ -1,0 +1,1 @@
+99/A. § Az önkéntes tartalékos katona részére a felkészítés időszakában – különös méltánylást érdemlő esetben, így különösen a 77. § (1) bekezdésében meghatározott esetekben – legfeljebb 2 munkanap szolgálatmentességi idő adható.

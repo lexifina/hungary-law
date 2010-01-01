@@ -1,0 +1,1 @@
+277. § Az e törvény hatálybalépésekor a szolgálati viszony létesítésére és módosítására vonatkozóan folyamatban lévő ügyekben e törvény szabályait, a szolgálati viszony megszüntetésére – ideértve a nyugállományba helyezést is – folyamatban lévő ügyekben e törvény hatálybalépése előtti szabályokat kell alkalmazni.

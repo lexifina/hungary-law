@@ -1,0 +1,3 @@
+239/A. § (1) A sírhely földrajzi fekvése szerint illetékes hadkiegészítő parancsnok a hősi halottá minősítettek sírjai esetében – a temetőkről és a temetkezésről szóló törvény eltérő rendelkezése hiányában – a sírgondozási feladatokat a sírhely földrajzi fekvése szerinti legközelebbi katonai szervezet parancsnoka, vagy az általa kijelölt, alárendeltségébe tartozó parancsnok útján, annak tevékeny közreműködésével látja el.
+
+(2) Az (1) bekezdés szerinti parancsnok köteles a hősi halottá minősítettek sírhelyeinek állapotát folyamatosan ellenőrizni, állagának megóvásáról gondoskodni, ennek érdekében a szükséges intézkedésekkel kapcsolatos javaslatokat a területileg illetékes hadkiegészítő parancsnokság részére haladéktalanul megtenni.

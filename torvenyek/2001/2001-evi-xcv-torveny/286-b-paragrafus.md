@@ -1,0 +1,1 @@
+286/B. § E törvény rokkantsági nyugdíjra, baleseti rokkantsági nyugdíjra vonatkozó, 2008. január 1-jétől hatályos rendelkezéseit a 2007. december 31-ét követően benyújtott igénybejelentés – ideértve az állapotváltozás miatti igénybejelentést, valamint az időszakos, kötelező felülvizsgálatot is – esetén kell alkalmazni.
