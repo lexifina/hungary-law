@@ -1,0 +1,7 @@
+## Egyszeres könyvvitel
+
+162. § (1) Az egyszeres könyvvitelt vezető gazdálkodó a kezelésében, a használatában, illetve a tulajdonában lévő pénzeszközökről és azok forrásairól, továbbá a pénzforgalmi gazdasági műveletekről, a pénzforgalmi műveletekhez közvetve kapcsolódó, de tényleges pénzmozgást nem eredményező végleges vagyonváltozásokról, nem pénzben kiegyenlített bevételekről, ráfordításokról olyan könyvviteli nyilvántartást (pénzforgalmi könyvvitel) köteles vezetni, amely ezen eszközökben és forrásokban bekövetkezett változásokat a valóságnak megfelelően, folyamatosan, áttekinthetően mutatja. E könyvviteli nyilvántartáshoz kapcsolódóan az egyszerűsített beszámoló összeállításához szükséges, hogy a gazdálkodó az eszközökről, a forrásokról részletező nyilvántartásokat is a valóságnak megfelelően és folyamatosan vezessen.
+
+(2) A pénzeszközökről és azok forrásairól, valamint az azokban beállott változásokról vezetett könyvviteli nyilvántartási kötelezettségnek naplófőkönyv vagy más, a követelményeknek megfelelő nyilvántartás vezetésével lehet eleget tenni. Az alkalmazott nyilvántartási rendszernek olyannak kell lennie, amely a teljes üzleti pénzforgalmat, a pénzforgalomhoz kapcsolódó, de pénzmozgással nem járó vagyon- és eredményváltozásokat az elszámolások egyezőségét biztosító formában mutatja ki.
+
+(3) A könyvvezetés folyamatosságáért és helyességéért a gazdálkodó képviseletére jogosult személy a felelős.

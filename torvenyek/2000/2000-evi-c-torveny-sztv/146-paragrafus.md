@@ -1,0 +1,13 @@
+## Forintról devizára való áttérés
+
+146. § (1) A forintban elkészített éves beszámoló, egyszerűsített éves beszámoló mérlegének valamennyi tételét az áttérés napján érvényes, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyam reciprok értékén kell – a (2)–(6) bekezdésben foglaltak kivételével – a létesítő okiratban rögzített devizára átszámítani.
+
+(2) A létesítő okiratban rögzített devizanemben fennálló követeléseket, továbbá valuta-, devizakészleteket, illetve kötelezettségeket nyilvántartás szerinti valuta-, devizaösszegükben kell az átszámításnál figyelembe venni.
+
+(3) Amennyiben a létesítő okiratban rögzített devizanemben fennálló követelések, valuta-, devizakészletek forintban kimutatott értékének az áttérés napján érvényes, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyam reciprok értékén számított valuta-, devizaértéke eltér a létesítő okiratban rögzített devizában fennálló követelések, valuta-, devizakészletek devizaértékétől, a különbözetet átszámítási különbözetként a 149. § (1) bekezdése szerint kell figyelembe venni.
+
+(4) Amennyiben a létesítő okiratban rögzített devizanemben fennálló kötelezettségek forintban kimutatott értékének az áttérés napján érvényes, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyam reciprok értékén számított devizaértéke eltér a létesítő okiratban rögzített devizában fennálló kötelezettség devizaértékétől, a különbözetet átszámítási különbözetként kell a 149. § (1) bekezdése szerint figyelembe venni.
+
+(5) Amennyiben a létesítő okiratban rögzítettől eltérő devizanemben fennálló követelések, pénzeszközök forintértékéből az áttérés napján érvényes, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyam reciprok értékével számított – a létesítő okiratban rögzített devizanem szerinti – devizaértéke eltér ezen követelések, illetve pénzeszközök valutáinak, devizáinak a keresztárfolyamok alapján számított – a létesítő okiratban rögzített devizanem szerinti – devizaértékétől, akkor a különbözetet átszámítási különbözetként a 149. § (1) bekezdése szerint kell figyelembe venni.
+
+(6) Amennyiben a létesítő okiratban rögzítettől eltérő devizanemben fennálló kötelezettségek forintértékéből az áttérés napján érvényes, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyam reciprok értékével számított – a létesítő okiratban rögzített devizanem szerinti – devizaértéke eltér ezen kötelezettségek devizáinak a keresztárfolyamok alapján számított – a létesítő okiratban rögzített devizanem szerinti – devizaértékétől, akkor a különbözetet átszámítási különbözetként kell a 149. § (1) bekezdése szerint figyelembe venni.

@@ -1,0 +1,3 @@
+7. § (1) Az 5–6. §-ban hivatkozott kormányrendelet a megjelölt szervezetek tekintetében azokat a sajátos szabályokat tartalmazhatja, amelyek – egyéb jogszabályi előírásokból következően – eltérnek a törvény 17–158. §-aiban előírt szabályoktól, de nem ellentétesek a törvény alapelveivel. A kormányrendelettel nem érintett törvényi előírásokat az 5–6. §-ban megjelölt szervezeteknél – a kormányrendeletben meghatározott sajátosságokon túlmenően – alkalmazni kell.
+
+(2) A törvény 17–158. §-aiban foglaltakat a kormányrendelet előírásai figyelembevételével kell alkalmazni az 5–6. §-ban hivatkozott kormányrendeletben megjelölt szervezeteknek is.

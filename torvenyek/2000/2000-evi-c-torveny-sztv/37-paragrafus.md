@@ -1,0 +1,37 @@
+37. § (1) Az eredménytartalék növekedéseként kell kimutatni:
+
+a) az előző üzleti év mérleg szerinti eredményét (nyereségét), ideértve az ellenőrzés előző üzleti év(ek) mérleg szerinti eredményét növelő módosítását (nyereségét) is,
+
+b) a jegyzett tőke leszállítását az eredménytartalékkal szemben,
+
+c) a veszteség miatti negatív eredménytartalék ellentételezésére felhasznált tőketartalékot, lekötött tartalékot,
+
+d) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással egyidejűleg,
+
+e) az eredménytartalékból lekötött tartalék visszavezetett összegét a lekötés feloldása alapján,
+
+f) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékba helyezett pénzeszközöket, átvett eszközök értékét.
+
+(2) Az eredménytartalék csökkenéseként kell kimutatni:
+
+a) az előző üzleti év mérleg szerinti eredményét (veszteségét), ideértve az ellenőrzés előző év(ek) mérleg szerinti eredményét csökkentő módosítását (veszteségét) is,
+
+b) a jegyzett tőke emelését a rendelkezésre álló szabad eredménytartalékból,
+
+c) az eredménytartalék lekötött tartalékba átvezetett összegét,
+
+d) az üzleti év végén a tárgyévi adózott eredmény kiegészítéseként osztalékra, részesedésre, kamatozó részvény kamatára, továbbá az eredménytartalékot terhelő adóra igénybe vett összeget,
+
+e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással egyidejűleg,
+
+f) a tőkekivonással megvalósított jegyzett tőke leszállításához kapcsolódó – a jegyzett tőke leszállításával arányos – eredménytartalék-kivonás összegét,
+
+g) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékkal szemben átadott pénzeszközök, eszközök értékét.
+
+(3) A 35. § (3) bekezdése szerinti vállalkozónál az eredménytartalék (1) bekezdés b) pontja szerinti növekedésének, a (2) bekezdés b) és f) pontja szerinti csökkenésének bizonylata a létesítő okirat, annak módosítása, illetve a közgyűlési, az alapítói, a taggyűlési határozat, könyvviteli elszámolását a tőkeemelésről, a tőkeleszállításról szóló létesítő okiratnak, illetve módosításának a cégjegyzékbe történt bejegyzése időpontjával kell végrehajtani.
+
+(4) A 35. § (5) bekezdése szerinti vállalkozónál az eredménytartalék (1) bekezdés b) pontja szerinti növekedésének, a (2) bekezdés b) és f) pontja szerinti csökkenésének bizonylata a létesítő okirat, annak módosítása, illetve a taggyűlési határozat, könyvviteli elszámolása a taggyűlési határozatban megjelölt időponttal (legkorábban a határozat keltének időpontjával) történik.
+
+(5) Az ellenőrzés során a mérlegkészítés időpontjáig megállapított – az előző üzleti év(ek)re vonatkozó – jelentős összegű hibák elkülönítetten kimutatott eredményre gyakorolt hatásának összegét (mérleg szerinti eredményét) az eredménytartalékot növelő-csökkentő tételként a hiba megállapításának üzleti évében kell elszámolni.
+
+(6) Az adózott eredmény kiegészítéséhez a szabad eredménytartalék csak akkor vehető igénybe, ha az igénybevétel után a lekötött tartalékkal, továbbá az értékelési tartalékkal csökkentett saját tőke összege meghaladja a jegyzett tőke összegét.

@@ -1,0 +1,7 @@
+## A mérlegtételek alátámasztása leltárral
+
+69. § (1) A könyvek üzleti év végi zárásához, a beszámoló elkészítéséhez, a mérleg tételeinek alátámasztásához olyan leltárt kell összeállítani és e törvény előírásai szerint megőrizni, amely tételesen, ellenőrizhető módon tartalmazza – a (3) bekezdés figyelembevételével – a vállalkozónak a mérleg fordulónapján meglévő eszközeit és forrásait mennyiségben és értékben.
+
+(2) Ha a vállalkozó a számviteli alapelveknek megfelelő mennyiségi nyilvántartást nem vezet, vagy e nyilvántartást nem folyamatosan vezeti, akkor a leltárba bekerülő adatok valódiságáról – a leltár összeállítását megelőzően – leltározással köteles meggyőződni, és az üzleti év mérlegfordulónapjára vonatkozó leltározást mennyiségi felvétellel, illetve – a (3) bekezdésben foglaltak kivételével – a csak értékben kimutatott eszközöknél és kötelezettségeknél, valamint az idegen helyen tárolt – letétbehelyezett, portfoliókezelésben, vagyonkezelésben lévő értékpapírokat és egyéb, a pénzeszközök közé nem tartozó – eszközöknél, továbbá a dematerializált értékpapíroknál egyeztetéssel kell elvégeznie.
+
+(3) Az árukészleteit az üzleti évben csak értékben nyilvántartó vállalkozó – a (2) bekezdéstől eltérően – az üzleti év mérlegfordulónapját megelőző negyedévben vagy az azt követő negyedévben is ellenőrizheti tételes leltározással értékbeni nyilvántartásának a mérleg fordulónapjára vonatkozó adatai helyességét. A leltározással megállapított érték és a könyv szerinti érték különbözetével a mérleggel lezárt üzleti év eredményét kell módosítani.

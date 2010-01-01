@@ -1,0 +1,5 @@
+76. § (1) Aktivált saját teljesítmények értékeként a saját előállítású eszközöknek az üzleti évben aktivált (az eszközök között állományba vett) értéke és a saját termelésű készletek állományváltozása együttes (összevont) összegét kell kimutatni.
+
+(2) Saját előállítású eszközök aktivált értékeként kell kimutatni a saját vállalkozásban végzett és az eszközök között állományba vett saját teljesítmények [tárgyi eszközök, immateriális javak, a 48. § (1), (3) bekezdése szerinti, az eszközök értékét növelő munkák], továbbá a tenyészállattá átminősített növendékállatok, valamint a törvény előírásai szerint az egyéb ráfordítások, illetve a rendkívüli ráfordítások között elszámolandó saját előállítású eszközök és saját teljesítmények – 51. § szerint meghatározott – közvetlen önköltségen számított értékét (ideértve a saját termelésű készletek értékvesztését is).
+
+(3) A saját termelésű készletek – 66. § (1) bekezdése szerint meghatározott értéke – üzleti év végi záróállományának és az üzleti év elejei nyitóállományának különbözetét kell állományváltozásként figyelembe venni.

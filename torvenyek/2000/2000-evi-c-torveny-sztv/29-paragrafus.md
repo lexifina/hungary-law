@@ -1,0 +1,17 @@
+29. § (1) Követelések azok a különféle szállítási, vállalkozási, szolgáltatási és egyéb szerződésekből jogszerűen eredő, pénzértékben kifejezett fizetési igények, amelyek a vállalkozó által már teljesített, a másik fél által elfogadott, elismert termékértékesítéshez, szolgáltatás teljesítéséhez, hitelviszonyt megtestesítő értékpapír, tulajdoni részesedést jelentő befektetés értékesítéséhez, kölcsönnyújtáshoz, előlegfizetéshez (beleértve az osztalékelőleget is) kapcsolódnak, valamint a különféle egyéb követelések, ideértve a vásárolt követeléseket, a térítés nélkül és egyéb címen átvett követeléseket, a bíróság által jogerősen megítélt követeléseket is.
+
+(2) Követelések áruszállításból és szolgáltatásból (vevők) között kell kimutatni minden olyan, a vállalkozó által teljesített – a vevő által elismert – termékértékesítésből, szolgáltatásnyújtásból származó követelést, amely nem tartozik a (3)–(4) bekezdés szerinti követelések és a 27. § (3), (5)–(6) bekezdésében nevesített pénzkölcsönök közé.
+
+(3) Követelések kapcsolt vállalkozással szemben mérlegtétel azokat az (1) bekezdés szerinti követeléseket tartalmazza, amelyeknél az adós a 3. § (2) bekezdésének 7. pontja szerinti kapcsolt vállalkozás és a követelés nem tartozik a 27. § (3), (5)–(6) bekezdése szerinti pénzkölcsönök közé.
+
+(4) Követelések egyéb részesedési viszonyban lévő vállalkozással szemben mérlegtétel azokat az (1) bekezdés szerinti követeléseket tartalmazza, amelyeknél a követelés egyéb részesedési viszonyban lévő adóssal szemben áll fenn, és a követelés nem tartozik a 27. § (3), (5)–(6) bekezdése szerinti pénzkölcsönök közé.
+
+(5) Váltókövetelések között csak a nem részesedési viszonyban lévő adóssal szembeni váltóköveteléseket szabad kimutatni.
+
+(6) Egyéb követelésként kell kimutatni a munkavállalói tartozást, a visszatérítendő adót, az igényelt, de még nem teljesített támogatást, továbbá a 77. § (7) bekezdése szerinti utólag kapott engedmény miatti követelés összegét is.
+
+(7) Egyéb követelésként kell kimutatni – a nem részesedési viszonyban lévő vállalkozások között létrejött – valódi penziós és óvadéki repóügylet esetén a határidős viszonteladási kötelezettség mellett vásárolt eszköz kifizetett vételárát, illetve a határidős visszavásárlási kötelezettség mellett eladott eszköz kifizetett visszavásárlási árát, az értékpapír-kölcsönügylet során a kölcsönbeadott értékpapír kölcsönszerződés szerinti értékében fennálló követelést, továbbá a határidős és opciós ügyletek esetén a fizetett letétek, pénzügyi biztosítékok, árkülönbözetek összegét, amíg az ügylet le nem zárul.
+
+(8) A (6) és (7) bekezdésben foglaltakon túlmenően az egyéb követelés mérlegtételnél kell kimutatni továbbá a nem részesedési viszonyban lévő adóssal szembeni (1) bekezdés szerinti valamennyi követelést – a (2) és az (5) bekezdésben foglaltak kivételével –, ideértve a tartósan adott kölcsönből a mérlegfordulónapot követő egy éven belül esedékes részleteket, a vásárolt követeléseket, a térítés nélkül és egyéb címen átvett követeléseket, a peresített követelésekből a bíróság által az üzleti év mérlegfordulónapjáig jogerősen megítélt követeléseket is.
+
+(9) A követelések között kell a mérlegben önálló tételként kimutatni származékos ügyletek pozitív értékelési különbözete címén a pénzügyi instrumentumok 59/A–59/F. §-ok szerinti valós értéken történő értékelése esetén a le nem zárt kereskedési, illetve fedezeti célú származékos ügyletek pozitív valós értékét (jövőben várható – nyereségjellegű – eredményét).

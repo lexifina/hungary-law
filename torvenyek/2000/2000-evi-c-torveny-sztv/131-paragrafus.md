@@ -1,0 +1,1 @@
+131. § Az anyavállalattal, a konszolidálásba bevont leányvállalattal – a 3. § (2) bekezdése 5. pontja szerinti – egyéb részesedési viszonyban lévő vállalkozás részesedését az anyavállalat, illetve a konszolidálásba bevont leányvállalat éves mérlegében szereplő könyv szerinti értéken kell az összevont (konszolidált) mérlegben kimutatni.
