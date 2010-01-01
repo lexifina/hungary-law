@@ -1,0 +1,1 @@
+## 14. § A miniszter a „Miniszterelnökség” költségvetési fejezettel kapcsolatban – kivéve a költségvetésről szóló törvényben meghatározott címeket – ellátja mindazokat a feladatokat, amelyeket jogszabályok a fejezetek irányító szervei hatáskörébe utalnak.
