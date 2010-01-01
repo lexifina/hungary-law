@@ -1,0 +1,1 @@
+## 15. § Az R. mellékletének EMBERISMERET ÉS ETIKA II. A VIZSGA LEÍRÁSA cím KÖZÉPSZINTŰ VIZSGA alcím Írásbeli vizsga (projekt) pont A projektmunka értékelése alpontot követő szöveg helyébe a 21. számú melléklet lép.
