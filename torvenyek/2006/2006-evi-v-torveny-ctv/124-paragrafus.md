@@ -1,0 +1,1 @@
+124. § A 120–123. §-ban foglaltak megfelelően irányadók abban az esetben is, ha a cég törlésére végelszámolási eljárás vagy felszámolási eljárás lefolytatása után került sor, de a cég törlését követően olyan vagyontárgy kerül elő, amelynek a törölt cég volt a tulajdonosa, és arról a végelszámolási, illetve a felszámolási eljárásban rendelkezés nem történt.

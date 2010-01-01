@@ -1,0 +1,5 @@
+66. § (1) Ha a cégbejegyzést (változásbejegyzést) elrendelő végzés vagy a meghozatala alapjául szolgáló irat jogszabálysértő, a bíróság megfelelő határidő tűzésével felhívja a céget a jogszabálysértő állapot megszüntetéséhez szükséges intézkedések megtételére.
+
+(2) Ha az (1) bekezdésben foglalt intézkedések eredményre vezetnek, a bíróság ítéletében a végzést hatályában fenntartja és felhívja a cégbíróságot, hogy törvényességi felügyeleti jogkörében hivatalból jegyezze be vagy törölje az érintett cégjegyzékadatot, illetve – indokolt esetben – hívja fel a céget a bejegyzéshez szükséges további adatok bejelentésére, illetve a törvényes állapot helyreállításához szükséges intézkedések megtételére.
+
+(3) Ha a változásbejegyzést elrendelő végzés hatályon kívül helyezése iránti perben a jogszabálysértés nem küszöbölhető ki, vagy a cég a bíróság felhívásának nem tesz eleget, a bíróság a végzést, illetve a végzésben szereplő többi adattól elkülöníthető jogszabálysértő adatot hatályon kívül helyezi és a (2) bekezdés megfelelő alkalmazásával jár el azzal, hogy az utóbbi esetben a céggel szemben törvényességi felügyeleti intézkedés alkalmazását is kezdeményezheti.

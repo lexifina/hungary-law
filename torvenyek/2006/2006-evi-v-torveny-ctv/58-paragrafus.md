@@ -1,0 +1,5 @@
+58. § (1) Az összeolvadás bejegyzése iránti kérelmet a jogutód cég székhelye szerint illetékes cégbíróságon kell előterjeszteni a jogutód cég létesítő okiratának aláírásától, illetve elfogadásától számított hatvan napon belül. Egyidejűleg kérni kell a jogelőd cégek törlését is. A kérelemben fel kell tüntetni valamennyi összeolvadó cég székhelyét és cégjegyzékszámát.
+
+(2) Ha az összeolvadó cégek székhelye a jogutód cég székhelyétől eltérő cégbíróság illetékességi területén van, a jogutód cég székhelye szerint illetékes cégbíróság megkeresésére a jogelőd(ök) székhelye szerinti cégbíróság intézkedik a cégiratoknak a jogutód cég székhelye szerinti cégbírósághoz való megküldéséről. Ezzel egyidejűleg a cégnyilvántartásban az iratok megküldésének tényét rögzíti. Ezt megelőzően soron kívül döntenie kell a még folyamatban lévő változásbejegyzési kérelmekről.
+
+(3) Az összeolvadás bejegyzésére a jogutód cég székhelye szerinti cégbíróság illetékes, amely egyben törli a jogelődöket a cégjegyzékből a jogutódra történő utalással.

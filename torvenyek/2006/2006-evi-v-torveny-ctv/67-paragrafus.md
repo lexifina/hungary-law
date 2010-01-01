@@ -1,0 +1,1 @@
+67. § Ha a cégbejegyzést (változásbejegyzést) elrendelő végzés jogszabálysértő, azonban a jogszabálysértés csekély jelentőségű és cégjegyzékadatot nem érint, a bíróság a végzést a jogszabálysértés megállapítása mellett – további intézkedés elrendelése nélkül – hatályában fenntartja.

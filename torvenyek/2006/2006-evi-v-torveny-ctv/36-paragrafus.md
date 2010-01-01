@@ -1,0 +1,11 @@
+36. § (1) A cég bejegyzése (változásbejegyzése) iránti kérelmet elektronikus úton kell benyújtani. A cégbírósághoz elektronikus úton benyújtott kérelmek érkezéséről az e törvényben meghatározott feltételek fennállása esetén a cégbíróság elektronikus tanúsítványt, illetve változásbejegyzési kérelem esetében igazolást küld a jogi képviselőnek.
+
+(2) A cégbejegyzési (változásbejegyzési) eljárás során az elektronikus úton küldött okiratokat minősített elektronikus aláírással és időbélyegzővel kell ellátni, oly módon, hogy az időbélyegző alapján a minősített elektronikus aláírás használatára való jogosultság – okirat aláírásának időpontjában való – fennállása megállapítható legyen. A jogi képviselő e kötelezettséget olyan módon is teljesítheti, ha a cégbejegyzési (változásbejegyzési) kérelmet látja el minősített elektronikus aláírással és időbélyegzővel. A cégbíróság által küldött elektronikus okirat közokiratnak minősül.
+
+(3) A cégbíróság a cégre vonatkozó iratokat elektronikus okirat formájában tartja nyilván.
+
+(4) A bejegyzési kérelem előterjesztője – választása alapján – az adóhatóság, illetve a Központi Statisztikai Hivatal által vezetett nyilvántartáshoz szükséges – külön törvényben rögzített – további adatokat az elektronikus úton benyújtott bejegyzési (változásbejegyzési) kérelemmel együtt előterjesztve a cégbíróság útján juttathatja el az illetékes szervezethez. Az ilyen módon továbbított adatok nem képezik a cégnyilvántartás részét.
+
+(5) Ha törvény a cégirat cégbírósághoz történő benyújtására közvetlenül valamely személyt kötelez, e személy a kötelezettségét elektronikus okiratként készített cégirat esetén – választása szerint – minősített elektronikus aláírás alkalmazásával vagy anélkül, a kormányzati portálon keresztül maga is teljesítheti. Ha a cégiratot elektronikus okirati formába kell alakítani, erre, és az elektronikus okirat cégbírósághoz való benyújtására a jogi képviselő vagy a cégirat benyújtására kötelezett személy jogosult. A jogi képviselő eljárására egyebekben a 37–38. § rendelkezéseit megfelelően alkalmazni kell.
+
+(6) E §, valamint a 37–40. § rendelkezései csak az elsőfokú eljárásban alkalmazhatók.

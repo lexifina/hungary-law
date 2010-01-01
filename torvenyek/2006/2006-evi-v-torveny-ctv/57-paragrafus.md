@@ -1,0 +1,9 @@
+57. § (1) Átalakulás (cégformaváltás, egyesülés, szétválás) esetén a kérelem elbírálására nyitva álló határidő harminc munkanap, amely akkor kezdődik, amikor az átalakulásban részt vevő valamennyi cég cégirata az eljárásra illetékes cégbíróság rendelkezésére áll.
+
+(2) Ha az átalakuló cég az átalakulás időpontját meghatározza, az átalakulás nem a cégbejegyzés napjával, hanem a cég által megadott napon következik be. A cég által meghatározott időpont nem lehet későbbi, mint a kérelem cégbírósághoz történt benyújtását követő kilencvenedik nap, illetve nem lehet korábbi, mint a cégbejegyzés napja. Ha a cég által meghatározott időpont a cégbejegyzés napját megelőzné, a cégbíróság az átalakulás időpontjaként a cégbejegyzés napját tünteti fel.
+
+(3) A cégforma változása esetén a cég átalakulását a létesítő okirat aláírásától, illetve elfogadásától számított hatvan napon belül kell bejelenteni a jogelőd cég székhelye szerint illetékes cégbíróságnak. Ezzel egyidejűleg kérni kell a jogelőd cég törlését is.
+
+(4) A cégformaváltozásról a jogelőd cég székhelye szerinti cégbíróság dönt. A cégbíróság a jogelőd céget – a jogutódra történő utalással – törli, egyúttal a jogutód céget a cégjegyzékbe bejegyzi. Ezt követően szükség szerint rendelkezik a cégiratoknak a jogutód cég székhelye szerint illetékes cégbírósághoz való megküldéséről.
+
+(5) A cégbíróság az átalakulás iránti kérelmet elutasítja, ha a büntetőügyben a jogi személlyel szemben intézkedés alkalmazásának lehet helye, és erről a büntetőügyben eljáró bíróság vagy ügyész a bíróságot értesítette.

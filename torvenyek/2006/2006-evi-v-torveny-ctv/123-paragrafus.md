@@ -1,0 +1,11 @@
+123. § (1) A vagyontárgy értékesítését követő harminc napon belül a vagyonrendező ezt a tényt bejelenti a bíróságnak, és benyújtja a 122. § (3)–(5) bekezdésében foglaltak szerint készített vagyonfelosztási javaslatot. A vagyonfelosztási javaslatban a követelések járulékait nem lehet figyelembe venni. A vagyonfelosztási javaslat keretében a vagyonrendező az eljárás lefolytatásával kapcsolatban közvetlenül felmerült költségei, továbbá munkadíjként 100 000 Ft és az azt terhelő általános forgalmi adó megállapítását kérheti a bíróságtól, amelyet a vagyonfelosztási javaslat elkészítése során a felosztásra rendelkezésre álló összegből le kell vonni.
+
+(2) A bíróság a vagyonrendező vagyonfelosztási javaslatát megvizsgálja és azt az érintetteknek megküldi, azzal, hogy arra nyolc napon belül észrevételt tehetnek. Ezt követően a bíróság végzéssel határoz a hitelezők követeléseinek kielégítéséről, illetve a hitelezőnek nem minősülő kérelmezők közötti vagyonfelosztásról, valamint meghozza a 122. § (1) és (6) bekezdésében foglalt határozatot, továbbá kötelezi a vagyonrendezőt a még szükséges intézkedések megtételére. A bíróság a vagyonrendező által felszámított költségek összegét indokolt esetben módosíthatja.
+
+(3) Az értékesítés mellőzése esetén a bíróság a vagyonfelosztási javaslatban foglaltak szerint a vagyontárgyat a jogosult tulajdonába, illetve a kérelmezők által meghatározott arányban a jogosultak közös tulajdonába adja. A végzésben határozni kell a vagyonrendező költségeinek és díjazásának összegéről, annak viseléséről is.
+
+(4) A tulajdonjognak a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásba történő bejegyzésére, illetve a vagyontárgy birtokba adására csak akkor kerülhet sor, ha a jogosultak a vagyonrendező bíróság által megállapított költségeit és munkadíját – amennyiben azok levonására az (1) bekezdés szerint nem került sor – megfizették.
+
+(5) Ha a vagyonrendezési eljárás lefolytatására hivatalból került sor, a vagyonrendező az (1) bekezdésben meghatározott költségeinek és díjának a vagyonfelosztási javaslat alapján nem fedezett részét az állam viseli.
+
+(6) A vagyonfelosztásról döntő végzés ellen fellebbezésnek van helye. Az eljárás jogerős befejezésének tényét a bíróság a Cégközlönyben közzéteszi.

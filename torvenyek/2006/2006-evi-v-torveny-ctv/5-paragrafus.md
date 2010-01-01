@@ -1,0 +1,1 @@
+5. § A cég nevét (rövidített nevét) a cégbejegyzési eljárás alatt „bejegyzés alatt” („b. a.”) toldattal, a cég elleni csődeljárás esetén „csődeljárás alatt” („cs. a.”) toldattal, felszámolási, illetve végelszámolási eljárás esetén pedig „felszámolás alatt” („f. a.”) és „végelszámolás alatt” („v. a.”) toldattal kell használni.
