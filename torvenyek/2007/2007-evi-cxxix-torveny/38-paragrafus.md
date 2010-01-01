@@ -1,0 +1,1 @@
+38. § A szikes talajokon tilos olyan talajművelést folytatni, amely a talaj minőségének további romlásával járhat. Az egyéb talajokon olyan minőségű öntözővíz használható, továbbá bármely tevékenység csak úgy folytatható, amely másodlagos szikesedés előidézésével nem jár.
