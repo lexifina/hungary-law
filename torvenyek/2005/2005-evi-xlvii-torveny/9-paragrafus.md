@@ -1,0 +1,5 @@
+9. § (1) Az igazságügyi szakértői névjegyzéket vezető hatóság a kérelem benyújtásától számított 30 munkanapon belül dönt.
+
+(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérve, ha az igazságügyi szakértői névjegyzéket vezető hatóság a rá irányadó ügyintézési határidőn belül nem döntött, a kérelmezőt nem illeti meg az igazságügyi szakértői tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni. Ha a szakhatóság az igazságügyi szakértői tevékenység folytatásához szükséges gyakorlati idő szakirányúságáról szóló állásfoglalását határidőben nem adja ki, a szakhatóság hozzájárulását nem lehet megadottnak tekinteni.
+
+(3) Az eljárás megindítása előtt az igazságügyi szakértői tevékenység folytatásához szükséges szakmai gyakorlat szakirányú jellegének igazolására beszerzett előzetes szakhatósági hozzájárulás a hozzájárulás keltétől számított egy éven belül használható fel a névjegyzékbe-vételi eljárásban.
