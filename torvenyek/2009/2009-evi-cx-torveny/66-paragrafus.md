@@ -1,0 +1,1 @@
+66. § Azokban az esetekben, amelyekben az adó-visszatéríttetésre jogosító ügyletet még 2010. január 1. napját megelőzően teljesítették, és az adóval növelt ellenértéket legkésőbb 2010. szeptember 30. napjáig maradéktalanul megtérítik, az Áfa tv. 2009. december 31. napján hatályos 248. §-ának (1) bekezdése is alkalmazható.

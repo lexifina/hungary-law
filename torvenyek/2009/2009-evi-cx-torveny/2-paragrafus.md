@@ -1,0 +1,3 @@
+2. § Az Áfa tv. 20. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Azt a közösségi adószámmal egyébként rendelkező beszerzőt, aki (amely) nem élt ugyan az (5) bekezdésben említett választási jogával, de a termék Közösségen belüli beszerzése kapcsán közösségi adószámát megadta a termék értékesítőjének, és az annak figyelembevételével járt el, úgy kell tekinteni, mint aki (amely) erre az ügyletre, valamint az ezt követő összes olyan termék Közösségen belüli beszerzésére, amelyet részére az előzőekben említett ügylet teljesítésének évét követő második naptári év végéig teljesítenek, nem az (1) bekezdést, hanem a 19. § a) pontját – az ott meghatározottak szerint – alkalmazza.”

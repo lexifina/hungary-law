@@ -1,0 +1,3 @@
+59. § Az Art. a 181. § után a következő 181/A. §-sal egészül ki:
+
+„181/A. § Ha az állami adóhatóság közösségi jogi aktus rendelkezése alapján az Európai Bizottság vagy az Európai Közösség más intézménye, ügynöksége részére személyes adatot nem tartalmazó, statisztikai célú, illetve a közösségi jogi aktus alkalmazásának eredményeit összegző adatszolgáltatást, információ átadást teljesít, azt egyidejűleg az adópolitikáért felelős miniszter részére is megküldi.”
