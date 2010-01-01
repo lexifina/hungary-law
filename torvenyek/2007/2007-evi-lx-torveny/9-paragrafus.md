@@ -1,0 +1,17 @@
+## A kiotói egységekkel való gazdálkodás
+
+9. § (1) A kincstári vagyon részét képező kiotói egységek értékesítési eljárása során az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.), valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell alkalmazni.
+
+(2) A kiotói egységek feletti vagyonkezelői jogot a miniszter gyakorolja. A vagyonkezelői jogot a miniszter az általa kijelölt központi költségvetési szerv útján is gyakorolhatja.
+
+(3) A kiotói egységet megterhelni, annak tulajdonjogát – az Üht. 3. § c) pontjában meghatározott kibocsátási egység kivételével – ingyenesen átengedni nem lehet.
+
+(4) Egy adott kötelezettségvállalási időszakban a nemzeti forgalmi jegyzékben a kibocsátható mennyiségi egységek száma nem lehet kevesebb a Keretegyezmény, továbbá a Jegyzőkönyv által előírt tartalék mennyiségnél.
+
+(5) A kibocsátható mennyiségi egységek korlátozás nélkül, a kibocsátás-csökkentési egységek, valamint az igazolt kibocsátás-csökkentési egységek az adott kötelezettségvállalási időszak kibocsátható mennyiségének 2,5%-áig a következő kötelezettségvállalási időszakba átvihetők.
+
+(6) A kibocsátható mennyiséget, illetve a kibocsátható mennyiségi egységeknek a Jegyzőkönyvnek és az azt követő döntéseknek megfelelően megállapított számát, megállapításukat követően a miniszter közleményben teszi közzé.
+
+(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről, illetve azok teljes mennyiségéről a nemzeti forgalmi jegyzékben való bejegyzésüket követő 21 napon belül a miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
+
+(8) A kibocsátható mennyiség egységek kincstári vagyonkörből történő kikerüléséről, illetve törléséről a miniszter évente tájékoztatja a kincstári vagyon kezeléséért felelős szervet.

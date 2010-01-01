@@ -1,0 +1,1 @@
+13/A. § Az együttes végrehajtási projekt tervdokumentumát és a projekt megvalósításáról és működtetéséről készített éves jelentést a kibocsátáscsökkentési tevékenység végrehajtója a Kormány rendeletében meghatározott módon, együttes végrehajtás hitelesítővel hitelesítteti.

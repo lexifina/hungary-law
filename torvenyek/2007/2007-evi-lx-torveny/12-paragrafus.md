@@ -1,0 +1,1 @@
+12. § A Magyar Köztársaság területén kívül megvalósítandó együttes végrehajtásban vagy tiszta fejlesztési mechanizmusban magyarországi székhellyel rendelkező jogi személyek a nemzetközi kötelezettségvállalásokkal összhangban, külön jogszabályban meghatározott feltételek teljesítése esetén a miniszter jóváhagyása alapján vehetnek részt.
