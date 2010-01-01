@@ -1,0 +1,9 @@
+# 58/1999. (XII. 30.) BM rendelet
+
+az okmányirodák működésének személyi és technikai feltételeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-58-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 1999-58-20-0A.8 | 58/1999. (XII. 30.) BM rendelet |

@@ -1,0 +1,1 @@
+A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 47. §-a (2) bekezdésének e) pontjában kapott felhatalmazás alapján az okmányirodák működésének személyi és technikai feltételeiről a következőket rendelem el:
