@@ -1,0 +1,1 @@
+## Értesítés rendkívüli eseményről
