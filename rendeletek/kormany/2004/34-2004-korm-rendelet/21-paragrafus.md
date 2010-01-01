@@ -1,0 +1,3 @@
+## 20. §[^27] Abban az esetben, ha a kérelmező az Értesítőben közzéteendő hirdetmény közzététele mellett egyben azonos tartalmú hirdetménynek az Európai Unió Hivatalos Lapjában történő közzétételre való feladását is kezdeményezi a Szerkesztőbizottságnál, a hirdetmény Értesítőben történő közzétételéért, valamint a hirdetmények ellenőrzéséért csak a 7. § szerinti szerkesztési díjat kell befizetnie.
+
+[^27]: A 20. § a 82/2009. (IV. 10.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2009. április 11. napját követően megkezdett közbeszerzésekre, beszerzésekre, tervpályázatokra, illetőleg az ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
