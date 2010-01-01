@@ -1,0 +1,1 @@
+153. § A tagok társasági szerződésben foglalt kötelezettségeinek növeléséhez, új kötelezettségek megállapításához, illetve az egyes tagok külön jogainak csorbításához a taggyűlés egyhangú határozatára van szükség.

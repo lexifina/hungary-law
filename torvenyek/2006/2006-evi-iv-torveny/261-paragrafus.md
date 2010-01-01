@@ -1,0 +1,1 @@
+261. § Dematerializált részvények esetén az igazgatóság az alaptőke-emelés bejegyzését követő, az alapszabályban meghatározott időn, ennek hiányában tizenöt napon belül értesíti a központi értéktárat és a részvényes értékpapírszámla-vezetőjét az alaptőke-emelés következtében a részvényes részvénytulajdonában beállt változásról.

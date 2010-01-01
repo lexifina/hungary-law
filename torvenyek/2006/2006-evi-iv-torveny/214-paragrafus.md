@@ -1,0 +1,1 @@
+214. § A részvényes jogosult a közgyűlésen részt venni, e törvényben megszabott keretek között felvilágosítást kérni, valamint észrevételt és indítványt tenni, szavazati joggal rendelkező részvény birtokában pedig szavazni.

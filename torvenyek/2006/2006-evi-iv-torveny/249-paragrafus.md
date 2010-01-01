@@ -1,0 +1,1 @@
+249. § Ha a részvénytársaság új részvények nyilvános forgalomba hozatalával alaptőkéjének felemelését határozza el, a közgyűlésnek előzetesen határoznia kell a részvénytársaság működési formájának megváltoztatásáról (173. §).

@@ -1,0 +1,3 @@
+161. § (1) Ha a törzstőke leszállítása e törvényben meghatározott ok miatt kötelező, a taggyűlés az ok bekövetkeztétől történt tudomásszerzéstől számított harminc napon belül köteles a tőke leszállításáról határozni.
+
+(2) Ha a törzstőkét a 114. § (1) bekezdésében meghatározott összeg alá kellene leszállítani – ha a társaság nem él a 143. § (3) bekezdésében, illetve a 159. § (3) bekezdése nyújtotta lehetőségek valamelyikével – a társaságnak társasági formaváltásról, más társasággal való egyesüléséről, szétválásáról, avagy jogutód nélküli megszűnéséről kell döntenie. A taggyűlési határozat tartalmára a 160. § megfelelően irányadó.

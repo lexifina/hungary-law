@@ -1,0 +1,5 @@
+145. § (1) A társasági szerződés rendelkezhet a taggyűlés olyan módon történő megtartásáról is, hogy a tagok a taggyűlésen nem közvetlen személyes jelenléttel, hanem a társasági szerződésben foglaltak szerint, erre alkalmas, a tagok közötti párbeszédet, illetve vitát korlátozás nélkül lehetővé tevő elektronikus hírközlő eszköz közvetítésével vesznek részt. A taggyűlés ilyen módon történő megtartása esetén nem alkalmazhatók olyan elektronikus hírközlő eszközök, amelyek nem teszik lehetővé a taggyűlésen résztvevők személyének megállapítását.
+
+(2) A társasági szerződés kizárhatja a taggyűlés elektronikus hírközlő eszköz közvetítésével történő megtartásának lehetőségét, illetve meghatározhatja azokat a kérdéseket, amelyek ilyen módon nem tárgyalhatók.
+
+(3) Az elektronikus hírközlő eszköz közvetítésével tartott taggyűlésen elhangzottakat és a hozott határozatokat hiteles módon, úgy kell rögzíteni, hogy az utóbb is ellenőrizhető legyen. Ha a taggyűlésen hozott határozatot be kell nyújtani a cégbírósághoz, a felvétel alapján jegyzőkönyvet kell készíteni, amelyet az ügyvezető hitelesít.

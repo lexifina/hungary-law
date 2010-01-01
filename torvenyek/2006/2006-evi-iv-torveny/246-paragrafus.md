@@ -1,0 +1,1 @@
+246. § Ha a közgyűlés befejezését követő három hónapon belül az összehívására okot adó, a 245. § (1) bekezdésének a) pontja szerinti körülmény változatlanul fennáll, az alaptőke leszállítása kötelező.

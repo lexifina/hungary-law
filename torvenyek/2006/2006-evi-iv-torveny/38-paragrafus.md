@@ -1,0 +1,7 @@
+38. § (1) Ha a gazdasági társaság teljes munkaidőben foglalkoztatott munkavállalóinak létszáma éves átlagban a 200 főt meghaladja, a munkavállalók – az üzemi tanácsnak a társaság ügyvezetésével kötött eltérő megállapodása hiányában – jogosultak részt venni a gazdasági társaság működésének ellenőrzésében. Ebben az esetben a felügyelőbizottság tagjainak egyharmada a munkavállalók képviselőiből áll. Ha a tagok számának egyharmada tört számot eredményez, a felügyelőbizottság tagjainak számát a munkavállalókra kedvezőbb módon kell megállapítani.
+
+(2) Ha a nyilvánosan működő részvénytársaság az egységes irányítási rendszer szabályai szerint működik, a munkavállalókat a társaság ügyvezetése ellenőrzésében – az alapszabályban foglaltak szerint – megillető jogok gyakorlásának módjáról az igazgatótanács és az üzemi tanács állapodik meg egymással. Az alapszabály az igazgatótanácsnak a megállapodás megkötésére vonatkozó jogosultságát a cégvezetőre ruházhatja át.
+
+(3) Ha a gazdasági társaság olyan szervezetből jön létre átalakulással, amelynél a felügyelőbizottságban nem volt munkavállalói képviselet, de az (1) bekezdésben megjelölt feltételek fennállnak, a társasági szerződésben biztosítani kell, hogy a munkavállalók az átalakulás után a felügyelőbizottság működésében azonnal részt vehessenek.
+
+(4) A felügyelőbizottságban részt vevő munkavállalói küldött – az üzleti titok körén kívül – tájékoztatni köteles az üzemi tanácson keresztül a munkavállalók közösségét a felügyelőbizottság tevékenységéről.

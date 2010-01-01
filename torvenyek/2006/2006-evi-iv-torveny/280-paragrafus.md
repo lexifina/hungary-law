@@ -1,0 +1,7 @@
+280. § (1) Az egyesüléssel érintett részvénytársaságok harminc nappal az egyesülési szerződés elfogadásáról döntő közgyűlés napja előtt kötelesek az egyesülési szerződés tervezetét, az egyesülő részvénytársaságok vezető tisztségviselői által készített írásbeli beszámolót, valamint – amennyiben készült – a könyvvizsgálónak, illetve a független szakértőnek az egyesülési szerződés tervezetére és az írásbeli beszámolóra vonatkozó álláspontját tartalmazó jelentést benyújtani az egyesülő részvénytársaságok cégjegyzékét vezető cégbírósághoz.
+
+(2) Az egyesülésről döntő második közgyűlést megelőző harminc nappal az egyesüléssel érintett részvénytársaságok minden részvényesének jogában áll, hogy megismerje a közgyűlési döntéshez készített iratokon kívül az egyesülő társaságok utolsó háromévi, a számviteli törvény szerinti beszámolóinak tartalmát is.
+
+(3) Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést kimondó határozat meghozatala során a 237. §-t megfelelően alkalmazni kell.
+
+(4) Az egyesüléssel érintett részvénytársaságok hitelezői – a 76. § (2) bekezdésben foglalt rendelkezések megfelelő alkalmazásával – biztosítékot igényelhetnek, ha igazolják, hogy az egyesülés veszélyezteti követeléseik kielégítésének alapját, feltéve, hogy az egyesüléssel érintett részvénytársaságok korábban nem nyújtottak számukra biztosítékot.

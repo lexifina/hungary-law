@@ -1,0 +1,3 @@
+53. § (1) A minősített többségű befolyás közzétételétől számított hatvannapos jogvesztő határidőn belül az ellenőrzött társaság bármely tagja (részvényese) kérheti, hogy a minősített befolyásszerző az üzletrészét (részvényét) vegye meg tőle. A minősített befolyásszerző vételi kötelezettségének az üzletrésznek (részvénynek) a kérelem benyújtásának időpontjában fennálló piaci értékén, de legalább a gazdasági társaság saját tőkéjéből az üzletrészre (részvényre) jutó résznek megfelelő értékén kell, hogy eleget tegyen.
+
+(2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha azt a tagok (részvényesek) a társasági szerződésben kizárták. A társasági szerződés e rendelkezésének elfogadásához a tagok (részvényesek) egyhangú határozata szükséges.

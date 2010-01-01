@@ -1,0 +1,1 @@
+103. § A meghalt tag örököse, illetve a megszűnt tag jogutódja a társaság tagjaival történt megegyezés alapján a társaságba tagként beléphet. Ilyen megegyezés hiányában az örökössel, illetve a megszűnt tag jogutódjával történő elszámolásra a 102. § rendelkezéseit kell megfelelően alkalmazni.

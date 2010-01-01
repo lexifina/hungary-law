@@ -1,0 +1,5 @@
+220. § (1) A részvényest a részvénytársaságnak a 219. § (1) bekezdése szerint felosztható és a közgyűlés által felosztani rendelt eredményéből a részvényei névértékére jutó arányos hányad (osztalék) illeti meg. Osztalékra az a részvényes jogosult, aki az osztalékfizetésről döntő közgyűlés időpontjában a részvénykönyvben szerepel, kivéve, ha az alapszabály ettől eltérő időpontot határoz meg. Az alapszabály lehetőséget adhat arra, hogy a részvényest megillető osztalék nem pénzbeli vagyoni értékű juttatásként kerüljön teljesítésre. A részvényes az osztalékra csak a már teljesített vagyoni hozzájárulása arányában jogosult.
+
+(2) Az (1) bekezdésben foglaltak alkalmazására az alapszabályban az egyes részvényosztályokra meghatározott külön jogok figyelembevételével kerülhet sor.
+
+(3) A közgyűlés az osztalékfizetésről a számviteli törvény szerinti beszámoló elfogadásával egyidejűleg, az igazgatóság javaslatára határozhat. Ha a részvénytársaságnál felügyelőbizottság működik, az igazgatóság javaslatát a felügyelőbizottságnak előzetesen jóvá kell hagynia.

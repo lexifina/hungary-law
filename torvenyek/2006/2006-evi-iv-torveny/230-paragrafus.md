@@ -1,0 +1,1 @@
+230. § Nem minősülnek saját részvénynek azok a részvények, amelyeket a részvénytársaság e törvény vagy az alapszabály rendelkezése szerint ideiglenesen köteles megszerezni (191. §, 193. §). Ezekkel a részvényekkel a részvénytársaság részvényesi jogokat nem gyakorolhat.

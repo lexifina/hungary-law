@@ -1,0 +1,5 @@
+37. § (1) A zártkörűen működő részvénytársaság alapszabálya, illetve a korlátolt felelősségű társaság társasági szerződése az igazgatóság tagjai, illetve az ügyvezetők megválasztásának, visszahívásának, díjazása megállapításának jogát a felügyelőbizottságra ruházhatja át, továbbá egyes ügydöntő határozatok meghozatalát a felügyelőbizottság előzetes jóváhagyásához kötheti (ügydöntő felügyelőbizottság). Ez esetben az ügyvezetés körében ellátott funkciók tekintetében a felügyelőbizottság tagjai is vezető tisztségviselőnek minősülnek.
+
+(2) Ha a felügyelőbizottság az (1) bekezdés szerinti jogkörében eljárva a határozat jóváhagyását megtagadta, a gazdasági társaság igazgatósága, illetve vezető tisztségviselője jogosult a társaság legfőbb szervének összehívására. Ez esetben a legfőbb szerv a felügyelőbizottság határozatát megváltoztathatja.
+
+(3) Az (1) bekezdésben meghatározott ügydöntő határozatok meghozatalával a társaságnak okozott károkért a vezető tisztségviselők és a felügyelőbizottság tagjai a társaság irányában egyetemleges felelősséggel tartoznak a Ptk. közös károkozásra vonatkozó szabályai szerint.

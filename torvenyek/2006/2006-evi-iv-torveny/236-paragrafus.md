@@ -1,0 +1,3 @@
+236. § (1) A közgyűlésnek a 231. § (2) bekezdésének a)–c), h) és k) pontjaiban felsorolt ügyekben, ha a törvény eltérően nem rendelkezik, a határozati javaslatot legalább háromnegyedes többséggel kell elfogadnia. Az alapszabály a felsorolt ügyeken kívül is előírhatja a szavazatok legalább háromnegyedes többségével történő határozathozatalt.
+
+(2) Ha az alapszabály módosítására az alaptőke felemeléséről vagy leszállításáról hozott közgyűlési határozat végrehajtásával összefüggésben, az alaptőke nagyságának meghatározása végett kerül sor, a közgyűlésnek az alapszabály módosítására vonatkozó jóváhagyó döntése az alaptőke felemelésével vagy leszállításával összefüggő közgyűlési határozat elfogadásával megadottnak tekintendő.

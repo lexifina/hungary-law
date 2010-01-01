@@ -1,0 +1,1 @@
+138. § Az érintett taggal való megállapodás alapján kell értékesíteni annak a tagnak az üzletrészét, akinek tagsági jogviszonya a 14. § alapján szűnt meg. Ilyen megállapodás hiányában a tagsági jog megszűnésétől számított negyvenöt napon belül nyilvános árverést kell tartani.

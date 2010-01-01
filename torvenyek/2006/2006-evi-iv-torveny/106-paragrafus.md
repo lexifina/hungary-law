@@ -1,0 +1,1 @@
+106. § A társaság jogutód nélküli megszűnése esetén a tartozások kiegyenlítése után fennmaradó vagyont – a társasági szerződés eltérő rendelkezése hiányában – a vagyoni hozzájárulásuk arányában kell felosztani a társaság tagjai között.

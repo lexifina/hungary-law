@@ -1,0 +1,7 @@
+211. § (1) A részvénytársaság cégbejegyzésétől számított két éven belül a társaság és annak alapítója, valamint a társaság és a szavazati jogok legalább tíz százalékával rendelkező részvényese közötti vagyonátruházási szerződés létrejöttéhez – feltéve, hogy a részvénytársaság által teljesítendő ellenszolgáltatás elérné az alaptőke egytizedét – a közgyűlés előzetes, jóváhagyó határozatára van szükség. Ennek során a nem pénzbeli hozzájárulás értékelésére és a könyvvizsgáló jelentésének nyilvánosságra hozatalára vonatkozó rendelkezéseket megfelelően alkalmazni kell (209. §).
+
+(2) A részvénytársaság alapszabálya az (1) bekezdésben foglaltak alkalmazását a cégbejegyzés időpontjától számított két naptári évnél hosszabb időszakra és a szavazati jogok tíz százalékával nem rendelkező részvényesek vonatkozásában is előírhatja.
+
+(3) Az (1) bekezdésben foglaltakat kell alkalmazni abban az esetben is, ha a részvénytársasággal az alapító, illetve a részvényes közeli hozzátartozója [Ptk. 685. § b) pont], élettársa, továbbá, olyan személy köt szerződést, amelyben az alapító, illetve a részvényes közvetlenül vagy közvetve a szavazatok több mint ötven százalékával vagy meghatározó befolyással rendelkezik (Ptk. 685/B. §).
+
+(4) Az (1) bekezdésben foglaltak nem alkalmazhatók a társaság tevékenységi körébe tartozó szokásos nagyságrendű szerződésekkel, a hatósági határozattal és hatósági árverés útján történő tulajdonszerzéssel, valamint a tőzsdei ügyletekkel kapcsolatban.

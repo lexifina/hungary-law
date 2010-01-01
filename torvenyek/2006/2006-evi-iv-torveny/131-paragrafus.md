@@ -1,0 +1,7 @@
+131. § (1) A társaság saját tőkéjéből a tagok javára, azok tagsági jogviszonyára figyelemmel kifizetést a társaság fennállása során kizárólag az e törvényben meghatározott esetekben és – a törzstőke leszállításának esetét kivéve – csak a számviteli törvényben meghatározott feltételek teljesülése esetén, a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha a társaságnak a számviteli törvény szerint helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a társaság törzstőkéjét.
+
+(2) Az (1) bekezdés alkalmazásában kifizetésnek minősül a pénzbeli és a nem pénzbeli vagyoni értékű juttatás egyaránt.
+
+(3) Az ügyvezetőnek írásban nyilatkoznia kell a taggyűlésnek arról, hogy a kifizetés nem veszélyezteti a társaság fizetőképességét, illetve a hitelezők érdekeinek érvényesülését. A nyilatkozat megtételének elmulasztásával történő kifizetéssel, illetve valótlan nyilatkozat tételével okozott károkért az ügyvezető a vezető tisztségviselőkre vonatkozó általános rendelkezések szerint felel. Az ügyvezető köteles a nyilatkozatot 30 napon belül a cégbírósághoz elektronikus úton benyújtani. A bejelentés nem jár illetékfizetési és közzétételi kötelezettséggel.
+
+(4) Azokat a kifizetéseket, melyeket az (1) és (3) bekezdés rendelkezései ellenére teljesítettek, a társaság részére vissza kell fizetni, feltéve, hogy a társaság bizonyítja a tag rosszhiszeműségét.

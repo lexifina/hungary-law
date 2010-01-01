@@ -1,0 +1,5 @@
+132. § (1) A tagot a társaságnak a 131. § (1) bekezdése szerint felosztható és a taggyűlés által felosztani rendelt, a számviteli törvény szerint meghatározott tárgyévi adózott eredményéből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményéből arányos hányad (osztalék) illeti meg. Osztalékra az a tag jogosult, aki az osztalékfizetésről döntő taggyűlés időpontjában a tagjegyzékben (150. §) szerepel, kivéve, ha a társasági szerződés ettől eltérő időpontot határoz meg. A társasági szerződés lehetőséget adhat arra, hogy a tagot megillető osztalék nem pénzbeli vagyoni értékű juttatásként kerüljön teljesítésre. A tag az osztalékra csak a már teljesített vagyoni hozzájárulása arányában jogosult.
+
+(2) A taggyűlés az osztalékfizetésről az ügyvezetőnek – ha a társaságnál felügyelőbizottság működik, a felügyelőbizottság által jóváhagyott – javaslatára, a számviteli törvény szerinti beszámoló elfogadásával egyidejűleg határozhat.
+
+(3) A társasági szerződés eltérő rendelkezése hiányában az (1) bekezdésben meghatározott eredményt a törzsbetétek arányában kell a tagok között felosztani.

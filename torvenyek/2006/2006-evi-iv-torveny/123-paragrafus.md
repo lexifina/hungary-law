@@ -1,0 +1,5 @@
+123. § (1) Az üzletrész a társaság tagjaira – a társaság saját üzletrészét (135. §) kivéve – szabadon átruházható. A társasági szerződésben a tagok egymásnak elővásárlási jogot biztosíthatnak, illetve az üzletrész harmadik személyre történő átruházását egyéb módon korlátozhatják vagy feltételhez köthetik.
+
+(2) Az üzletrészt harmadik személyre csak akkor lehet átruházni, ha a tag a törzsbetétét teljes mértékben befizette, kivéve a 138. §-ban, valamint a 120. § (3) bekezdésében foglalt eseteket. A tagot, a társaságot vagy a taggyűlés által kijelölt személyt – ebben a sorrendben – az adásvételi szerződés útján átruházni kívánt üzletrészre – ha azt a társasági szerződés nem zárja ki vagy nem korlátozza – elővásárlási jog illeti meg.
+
+(3) Ha a tag a vele közölt vételi ajánlat bejelentésétől számított tizenöt napon belül nem nyilatkozik, úgy kell tekinteni, hogy az elővásárlási jogával nem kívánt élni. A társaság vagy az általa kijelölt személy esetén a határidő a bejelentéstől számított harminc nap. Ez utóbbi határidő vonatkozik a 126. §-ban megjelölt beleegyezés esetére is.

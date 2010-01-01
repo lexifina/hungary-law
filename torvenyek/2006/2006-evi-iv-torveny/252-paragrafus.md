@@ -1,0 +1,5 @@
+252. § (1) A részvénytársaság közgyűlése, ha az alapszabály ennek lehetőségét nem zárja ki, közgyűlési határozatban felhatalmazhatja az igazgatóságot az alaptőke felemelésére. A felhatalmazásban meg kell határozni azt a legmagasabb összeget (jóváhagyott alaptőke), amellyel az igazgatóság a részvénytársaság alaptőkéjét a közgyűlési határozatban megszabott, legfeljebb ötéves időtartam alatt összesen felemelheti. Eltérő közgyűlési határozat hiányában az alaptőke felemelésére szóló, megújítható felhatalmazás a 248. § (1) és (2) bekezdése szerinti valamennyi alaptőke-emelési esetre és módra vonatkozik.
+
+(2) Az igazgatóságnak az alaptőke felemelésére történő felhatalmazása egyben feljogosítja és kötelezi az igazgatóságot az alaptőke felemelésével kapcsolatos, a törvény vagy az alapszabály szerint egyébként a közgyűlés hatáskörébe tartozó döntések meghozatalára, ideértve az alapszabálynak az alaptőke felemelése miatt szükséges módosítását is.
+
+(3) Az (1) bekezdés szerinti közgyűlési határozatról szóló közleményt az igazgatóság köteles a határozat meghozatalát követő harminc napon belül a Cégközlönyben közzétenni.

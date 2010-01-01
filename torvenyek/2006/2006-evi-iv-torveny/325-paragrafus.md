@@ -1,0 +1,1 @@
+325. § A taggyűlés a tagok saját gazdálkodásában végrehajtandó kötelezettségének megállapítására irányuló határozatának érvényességéhez legalább háromnegyedes szótöbbség szükséges. Ilyen határozat csak az érintett tag hozzájárulásával hozható.

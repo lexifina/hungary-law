@@ -1,0 +1,1 @@
+134. § A 131. § (4) bekezdésben foglaltak megfelelően alkalmazandók abban az esetben is, ha a tag polgári jogi szerződés alapján, nem tagsági jogviszonyára tekintettel, olyan kifizetésben részesült, amelyre a 131. § (1) bekezdésben foglaltak egyébként nem adnának lehetőséget, és amely a felelős társasági gazdálkodás követelményével összeegyeztethetetlen.

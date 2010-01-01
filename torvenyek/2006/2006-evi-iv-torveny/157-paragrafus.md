@@ -1,0 +1,1 @@
+157. § A törzsbetét legkisebb összegére, megfizetésének módjára, esedékességére, a késedelem jogkövetkezményeire, valamint a vagyoni hozzájárulás értékelésére és szolgáltatására, továbbá a vagyoni hozzájárulást szolgáltató tag felelősségére vonatkozó rendelkezéseket a törzstőke felemelése során is alkalmazni kell.

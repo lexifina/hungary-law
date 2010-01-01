@@ -1,0 +1,7 @@
+23. § (1) Nem lehet gazdasági társaság vezető tisztségviselője az, akit bűncselekmény elkövetése miatt jogerősen szabadságvesztés büntetésre ítéltek, amíg a büntetett előélethez fűződő hátrányos jogkövetkezmények alól nem mentesült.
+
+(2) Akit jogerős bírói ítélettel a vezető tisztség gyakorlásától eltiltottak, e tilalom hatálya alatt nem lehet vezető tisztségviselő. Akit valamely más foglalkozástól jogerős bírói ítélettel eltiltottak, az ítélet hatálya alatt az abban megjelölt tevékenységet főtevékenységként folytató gazdasági társaságban nem lehet vezető tisztségviselő.
+
+(3) A gazdasági társaságnak megszüntetési eljárás során való törlését követő három évig nem lehet más gazdasági társaság vezető tisztségviselője az a személy, aki a törlést megelőző naptári évben a gazdasági társaságnál vezető tisztségviselő volt.
+
+(4) Nem lehet más gazdasági társaság vezető tisztségviselője az a személy, akinek – mint a felszámolással megszűnt gazdálkodó szervezet vezető tisztségviselőjének vagy legalább többségi befolyást biztosító részesedéssel rendelkező tulajdonosának – felelősségét a felszámolás során ki nem elégített követelésekért a bíróság a csődeljárásról és a felszámolási eljárásról szóló törvény szerinti eljárásban jogerősen megállapította, és a jogerős bírósági határozat szerinti helytállási kötelezettség alapján a fizetési kötelezettségeit nem teljesítette. A tilalom hatálya a vele szemben lefolytatott végrehajtási eljárás eredménytelenségétől számított öt év.

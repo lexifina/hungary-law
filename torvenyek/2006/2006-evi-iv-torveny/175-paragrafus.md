@@ -1,0 +1,1 @@
+175. § A részvénytársaság a számviteli szabályok szerinti saját tőkéjéből csak e törvénynek a részvénytársaságokra megállapított szabályai szerint, a törvényben meghatározott eljárási rendben teljesíthet vagyoni juttatást a részvényes javára.
