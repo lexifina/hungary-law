@@ -1,0 +1,1 @@
+## „(7) A szociális és gyámhivatal a szociális foglalkoztatást végző vagy külső foglalkoztatóval megállapodást kötött nappali intézmény működését az intézmény működését engedélyező hatósággal azonos jogkörben – a hatóság egyidejű értesítése mellett – ellenőrizheti, és az ellenőrzés alapján megteheti mindazon intézkedéseket, melyre a működést engedélyező hatóság jogosult.”

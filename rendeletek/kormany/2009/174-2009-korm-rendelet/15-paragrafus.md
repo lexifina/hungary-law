@@ -1,0 +1,1 @@
+## „(5) Ha a kérelmező a (4) bekezdés d) és h) pontjában foglalt adatokat nem igazolja, a hatóság a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz és 2009. október 1-jétől az adatokról nyilvántartást vezető bírósághoz, illetőleg a köztartozás tekintetében megvizsgálja a köztartozásmentes adózói adatbázist.”
