@@ -1,0 +1,1 @@
+17. § Az eljáró hatóság a külföldi oktatási intézményben szerzett bizonyítványnak a magyar általános iskolai, szakképesítő vagy középiskolai érettségi bizonyítvánnyal való egyenértékűségéről, ha azt nemzetközi szerződés vagy jogszabály állapítja meg, hatósági bizonyítványt állít ki.

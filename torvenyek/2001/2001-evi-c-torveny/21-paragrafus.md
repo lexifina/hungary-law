@@ -1,0 +1,17 @@
+## HARMADIK RÉSZ
+
+## AZ EURÓPAI KÖZÖSSÉGI JOG HATÁLYA ALÁ TARTOZÓ ELISMERÉS
+
+## VI. Fejezet
+
+## AZ EURÓPAI KÖZÖSSÉGI JOG HATÁLYA ALÁ TARTOZÓ ELISMERÉS KÖZÖS SZABÁLYAI, AZ EURÓPAI KÖZÖSSÉGI JOG ALAPJÁN TÖRTÉNŐ ELISMERÉS JOGI HATÁLYA
+
+21. § (1) E törvény rendelkezéseit az ebben a részben foglalt eltérésekkel kell alkalmazni, ha a kérelmező
+
+a) magyar állampolgár, valamely tagállam [28. § (1) bekezdés] állampolgára vagy azzal azonos megítélés alá eső személy [28. § (2) bekezdés],
+
+b) a képzés sikeres elvégzését tanúsító okiratát valamely tagállamban szerezte, és
+
+c) Magyarországon szabályozott szakmát szándékozik gyakorolni, tekintet nélkül arra, hogy a szakmát önálló vállalkozóként vagy foglalkoztatottként kívánja-e gyakorolni, valamint hogy a szakma, illetve a kérelmező szabadfoglalkozású-e.
+
+(2) A Második rész rendelkezéseit kell alkalmazni, ha az (1) bekezdésben meghatározott feltételek közül valamelyik nem áll fenn.

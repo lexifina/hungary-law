@@ -1,0 +1,5 @@
+## IX. Fejezet
+
+## [ A SZAKMAI GYAKORLATON ALAPULÓ ELISMERÉS]
+
+45–53. §
