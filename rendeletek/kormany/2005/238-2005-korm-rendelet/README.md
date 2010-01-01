@@ -1,0 +1,9 @@
+# 238/2005. (X. 25.) Korm. rendelet
+
+az építésfelügyeleti bírságról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-238-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2005-238-20-22.6 | 238/2005. (X. 25.) Korm. rendelet |

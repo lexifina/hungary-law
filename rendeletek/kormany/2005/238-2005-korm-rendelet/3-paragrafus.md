@@ -1,0 +1,23 @@
+3. §[^10] (1) A bírság az építésfelügyeleti hatóságnak a jogsértő cselekményről való tudomásszerzésétől számított egy éven belül, de legkésőbb a cselekmény elkövetésétől számított öt éven belül szabható ki.
+
+(2) A bírság kiszabásáról szóló jogerős határozatot közölni kell
+
+a) az illetékes építésügyi hatósággal,
+
+b) a névjegyzéket vezető szervvel, ha a bírság kiszabására az építési műszaki ellenőrrel, a kivitelezési tervek tervezőjével vagy a felelős műszaki vezetővel szemben került sor,
+
+c)[^11] a 2. § (9) bekezdésben meghatározott építésfelügyeleti hatóság eljárása esetén a sajátos építményfajták szerinti előirányzat felügyeletét ellátó szervvel, a 2. melléklet szerinti adatlappal együtt.
+
+(3) A befizetés megtörténtét a befizetést követő öt munkanapon belül a kötelezett igazolja a bírságot megállapító elsőfokú építésfelügyeleti hatóság részére.
+
+(4)[^12] Az elsőfokú építésfelügyeleti hatóság az adóhatóság megkereséséről tájékoztatja a felügyeleti szervét.
+
+(5)[^13] Az építésfelügyeleti hatóság a bírság kiszabásáról az építésügy körébe tartozó egyes hatósági nyilvántartásokról szóló kormányrendelet szerinti nyilvántartást vezet az elektronikus építésügyi bírság-nyilvántartó programban.
+
+(6)[^14] A 2. § (8) bekezdés szerinti építésfelügyeleti hatóság a (2) bekezdés szerinti döntéséről – az építésügy körébe tartozó egyes hatósági nyilvántartásokról szóló kormányrendelet szerinti – elektronikus építésügyi bírságnyilvántartó programban történő rögzítés útján értesíti az építésügyi célelőirányzat felügyeletét ellátó szervet.
+
+[^10]: A 3. § a 196/2009. (IX. 15.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^11]: A 3. § (2) bekezdés c) pontja a 311/2009. (XII. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^12]: A 3. § (4) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (3) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^13]: A 3. § (5) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^14]: A 3. § (6) bekezdését a 311/2009. (XII. 28.) Korm. rendelet 13. § (2) bekezdése iktatta be. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
