@@ -1,0 +1,1 @@
+33. § Ha az értékpapír semmissé nyilvánítására irányuló kérelemmel együttesen vagy utóbb kérik, a közjegyző felhívja az értékpapír alapján kifizetésre kötelezett személyt vagy szervezetet, hogy további rendelkezésig az értékpapír alapján kifizetést ne teljesítsen, illetőleg, hogy az időközben esedékessé váló összeget helyezze bírói letétbe.

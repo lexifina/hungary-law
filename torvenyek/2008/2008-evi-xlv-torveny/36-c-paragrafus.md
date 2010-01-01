@@ -1,0 +1,3 @@
+36/C. § (1) Ha a közjegyző a feleknek az őket egymással szemben terhelő, jogszabályon alapuló tartásról, a közös lakás használatáról, valamint – az ingatlanon fennálló közös tulajdon megszüntetése kivételével – az élettársi közös vagyon megosztásáról szóló egyezségét jóváhagyta, a felek bejegyzett élettársi kapcsolatát végzéssel megszünteti.
+
+(2) Ha az egyezség nem hagyható jóvá, a közjegyző az egyezség jóváhagyását megtagadja, és a kérelmet elutasítja. A kérelmet akkor is el kell utasítani, ha megállapítható, hogy a bejegyzett élettársi kapcsolat közjegyző által történő megszüntetésének feltételei nem állnak fenn.
