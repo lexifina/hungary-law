@@ -1,0 +1,5 @@
+17. § (1) A földhasználati jogot ingyenesen megszerző használó részére a használati jog megszűnéséért kártalanítás nem jár. A telek, illetőleg a föld értékét növelő munkák ellenértékét azonban a földhasználó részére meg kell téríteni. E kártalanítást az ingatlanért járó kártalanításnál figyelembe kell venni.
+
+(2) Haszonélvezeti joggal terhelt ingatlan kisajátítása esetén – ha a tulajdonos pénzbeli kártalanításban részesül – a megszűnt haszonélvezeti jog értékét az eset összes körülményeinek gondos mérlegelésével kell meghatározni. Ennek során figyelembe kell venni különösen a haszonélvezeti joggal terhelt ingatlan jellegét, a haszonélvezeti jog gyakorlásának módját, a jogosult személyi körülményeit, a hasznosítás lehetőségeit és a hasznosítással elérhető anyagi előnyöket, továbbá a haszonélvezeti jognak az ingatlan forgalmi értékére gyakorolt hatását.
+
+(3) A haszonélvezeti jogért járó kártalanítás nem lehet kevesebb az illetékekről szóló törvény alapján, a vagyoni értékű jogok megszerezése után fizetendő illeték számításának alapjánál, de nem érheti el azt az összeget, ami haszonélvezeti jog fennállása hiányában a tulajdonos részére kártalanításként járna.

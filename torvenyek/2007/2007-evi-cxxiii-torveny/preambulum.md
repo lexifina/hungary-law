@@ -1,0 +1,1 @@
+Az e törvényben meghatározott közérdekű célok megvalósításához elengedhetetlenül szükséges ingatlanok megszerzése, ugyanakkor a közérdek és a tulajdonosnak a tulajdona védelméhez fűződő érdekei közötti egyensúly biztosítása érdekében – a kisajátítást a tulajdonjog elvonása kivételes eszközeként szabályozva – az Országgyűlés a következő törvényt alkotja:
