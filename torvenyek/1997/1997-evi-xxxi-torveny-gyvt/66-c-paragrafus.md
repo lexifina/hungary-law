@@ -1,0 +1,3 @@
+66/C. § (1) A működtető a székhelyén, illetve illetékességi területén kívül élő nevelőszülővel is létesíthet nevelőszülői jogviszonyt, feltéve, hogy a gyermek nevelését, gondozását, a nevelőszülői család életkörülményeit rendszeresen figyelemmel tudja kísérni, valamint az 55. § (5) bekezdés szerinti feladatokat el tudja látni.
+
+(2) A nevelőszülőnél elhelyezhető gyermekek és fiatal felnőttek számát a működtető a nevelőszülővel egyetértésben állapítja meg. Ennek során tekintettel kell lenni a gyermekek és a fiatal felnőttek életkorára, egészségi állapotára, fejlettségére vagy egyéb különleges nevelést indokoló szempontra, továbbá a nevelőszülő személyiségére és életkörülményeire.

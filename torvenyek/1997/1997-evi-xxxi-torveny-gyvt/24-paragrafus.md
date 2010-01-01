@@ -1,0 +1,45 @@
+24. § (1) Ha a gyermektartásdíj megelőlegezését jogerősen megállapítják, az a kérelem benyújtásától esedékes. A folyósítás időtartama a kérelem benyújtásának napjától az alapul szolgáló ok előrelátható fennállásáig, legfeljebb azonban három évig tart. A feltételek fennállása esetén – függetlenül az adók módjára történő behajtás eredményétől – ugyanazon gyermekre tekintettel, egy alkalommal, legfeljebb további három évre a megelőlegezés továbbfolyósítható, illetve ismételten elrendelhető.
+
+(2) Ha a gyermektartásdíj megelőlegezését jogerősen elrendelték, az a kérelem benyújtásától esedékes, azzal, hogy ha a kérelmet
+
+a) a tárgyhónap 15-éig nyújtották be, a gyermektartásdíj megelőlegezését elrendelő jogerős határozatban megállapított teljes összeget,
+
+b) a tárgyhónap 15-ét követően nyújtották be, a gyermektartásdíj megelőlegezését elrendelő jogerős határozatban megállapított összeg 50%-át
+
+kell kifizetni.
+
+(3) A gyámhivatal hivatalból vagy a külön jogszabályban meghatározott szervek és személyek értesítése alapján a gyermektartásdíj folyósítását – legfeljebb hat hónapra – felfüggeszti, ha
+
+a) a kérelmezőnek a 22. § (1) bekezdésében meghatározott körülményeiben változás állt be,
+
+b) a kötelezett rendszeres jövedelmére, illetve az egyéb vagyonára vezetett végrehajtás eredménnyel jár,
+
+c) a kötelezett a kérelmező részére közvetlenül fizet tartásdíjat,
+
+d) a gyermek ideiglenes hatályú elhelyezését rendelték el.
+
+(4) A gyámhivatal a felfüggesztést követő vizsgálat eredményeképpen, ha a felfüggesztés időtartama alatt a jogosult nem részesült gyermektartásdíjban – a felfüggesztés lejárta után – elrendeli a gyermektartásdíj további folyósítását és a felfüggesztés időtartamára esedékes megelőlegezett gyermektartásdíj utólagos, egy összegben történő kifizetését vagy a megelőlegezést megszünteti.
+
+(5) A gyámhivatal a gyermektartásdíj megelőlegezését megszünteti, ha
+
+a) a gyermek – a gyámhivatal, illetve a bíróság végrehajtható határozata alapján – a külön élő másik szülő vagy más személy gondozásába kerül,
+
+b) a gyermek nagykorúvá vált, és nappali oktatás munkarendje szerint tanulmányokat nem folytat,
+
+c) a gyermeket a gyámhivatal átmeneti vagy tartós nevelésbe vette,
+
+d) a kötelezett meghalt.
+
+(6)
+
+(7) Ha a gyermektartásdíj megelőlegezésére való jogosultság megszűnik, az a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
+
+a) a tárgyhónap 15-éig következik be, a gyermektartásdíj megelőlegezését elrendelő jogerős határozatban megállapított összeg 50%-át,
+
+b) a tárgyhónap 15-ét követően következik be, a gyermektartásdíj megelőlegezését elrendelő jogerős határozatban megállapított teljes összeget
+
+kell kifizetni.
+
+(8) A megelőlegezett gyermektartásdíjat a kötelezett a Ptk. 232. §-ának (2) bekezdésében meghatározott kamattal az államnak megtéríti. A megelőlegezett gyermektartásdíjnak meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
+
+(9) A megelőlegezett gyermektartásdíj behajtása során a hátralékra a települési önkormányzat jegyzője adóügyi hatáskörében indokolt esetben méltányosságból részletfizetést vagy kamatelengedést engedélyezhet. A települési önkormányzat jegyzője adóügyi hatáskörében a hátralék teljes összegét akkor engedheti el, ha a kötelezett gyermeke a reá tekintettel megelőlegezett gyermektartásdíjat hagyatéki teherként megörökli.

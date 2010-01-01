@@ -1,0 +1,1 @@
+81/D. § A nevelési felügyelet megszűnik a bíróság erre irányuló döntése alapján, a meghatározott idő elteltével, továbbá hivatalból vagy – a gyermek, a gyermekjogi képviselő, a gyermekotthon vezetője általi – kérelemre. A nevelési felügyelet megszüntetése iránti eljárás során minden esetben ki kell kérni a megyei, fővárosi gyermekvédelmi szakértői bizottság véleményét.

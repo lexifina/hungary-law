@@ -1,0 +1,1 @@
+94/A. § A települési önkormányzatok a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátásokat, különösen a bölcsőde, a gyermekek átmeneti otthona, a családok átmeneti otthona és a gyermekjóléti központ működtetését a külön jogszabályban meghatározott többcélú kistérségi társulás útján is biztosíthatják.

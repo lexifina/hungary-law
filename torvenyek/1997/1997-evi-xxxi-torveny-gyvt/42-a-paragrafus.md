@@ -1,0 +1,1 @@
+42/A. § A bölcsődei felvétel során előnyben kell részesíteni azt a rendszeres gyermekvédelmi kedvezményre jogosult gyermeket, akinek szülője vagy más törvényes képviselője igazolja, hogy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
