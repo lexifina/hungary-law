@@ -1,0 +1,21 @@
+## 98. §[^83] A bevándorolt vagy letelepedett harmadik országbeli állampolgárnak a Magyar Köztársaság területén született gyermeke részére – a születés bejelentésére szolgáló, külön jogszabályban meghatározott formanyomtatvány alapján – a regionális igazgatóság az ideiglenes letelepedési engedélyt vagy nemzeti letelepedési engedélyt soron kívül, de legkésőbb három munkanapon belül adja ki.
+
+## Ideiglenes letelepedési engedély
+
+99. § (1) A harmadik országbeli állampolgár az ideiglenes letelepedési engedély iránti kérelmét legkésőbb a három hónapot meg nem haladó jogszerű tartózkodása utolsó napján, illetve három hónapot meghaladó tartózkodásra jogosító engedélyének lejártát harminc nappal megelőzően nyújthatja be.
+
+(2) Az ideiglenes letelepedési engedély iránti kérelem benyújtásakor a kérelmezőnek be kell mutatnia az Európai Unió tagállama által a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-ei 2003/109/EK irányelv (a továbbiakban: 2003/109/EK irányelv) alapján kiállított huzamos tartózkodói jogállást igazoló EK tartózkodási engedélyét.
+
+(3) A Tv. 34. § (1) bekezdésben foglalt tartózkodási cél igazolására az ideiglenes letelepedési engedély iránti kérelemhez a következő okiratokat kell benyújtani:
+
+a) keresőtevékenység folytatása céljából történő tartózkodás esetén az 59. § (1) bekezdésében meghatározott okiratot;
+
+b) tanulmányok folytatása vagy szakképzés céljából történő tartózkodás esetén a 60. § (1) bekezdésében meghatározott okiratot;
+
+c) egyéb célból történő tartózkodás esetén a tartózkodás célját igazoló okiratot;
+
+d) családtagként történő kérelmezés esetén a Tv. 34. § (2) bekezdésében meghatározott családi kapcsolatot igazoló okiratot.
+
+(4) Az ideiglenes letelepedési engedély meghosszabbítása esetén a kérelmezőnek – amennyiben nyilatkozata szerint a megelőző kérelmezéshez képest megélhetési és lakhatási körülményei változatlanok – csak a (3) bekezdésben meghatározott okiratot kell benyújtania.
+
+[^83]: A 98. § a 182/2009. (IX. 10.) Korm. rendelet 547. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

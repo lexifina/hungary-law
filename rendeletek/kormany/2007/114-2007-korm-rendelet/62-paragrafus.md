@@ -1,0 +1,1 @@
+## 61. § Amennyiben a beutazás és tartózkodás célja kutatás, a harmadik országbeli állampolgár a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállását a kutatószervezettel kötött fogadási megállapodással igazolhatja.

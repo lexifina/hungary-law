@@ -1,0 +1,353 @@
+## Az Európai Unió jogának való megfelelés
+
+183. § (1) E rendelet – a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvénnyel együtt – a következő közösségi jogi aktusoknak történő megfelelést szolgálja:
+
+a) a Tanács 2001/40/EK irányelve (2001. május 28.) a harmadik országok állampolgárainak kitoloncolásáról hozott határozatok kölcsönös elismeréséről;
+
+b) a Tanács 2001/51/EK irányelve (2001. június 28.) az 1985. június 14-én kelt Schengeni Megállapodás végrehajtásáról szóló Egyezmény 26. Cikke rendelkezéseinek kiegészítéséről;
+
+c) a Tanács 2003/86/EK irányelve (2003. szeptember 22.) a családegyesítési jogról;
+
+d) a Tanács 2003/109/EK irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról;
+
+e) a Tanács 2003/110/EK irányelve (2003. november 25.) a légi úton történő kiutasítás céljából történő átszállítás eseteiben biztosított segítségnyújtásról;
+
+f) a Tanács 2004/81/EK irányelve (2004. április 29.) a harmadik országok emberkereskedelem áldozatává vált, vagy az illegális bevándorlás megkönnyítésére irányuló cselekményekkel érintett, a hatáskörrel rendelkező hatóságokkal együttműködő állampolgárai részére kiállított tartózkodási engedélyről;
+
+g) a Tanács 2004/82/EK irányelve (2004. április 29.) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről;
+
+h) a Tanács 2004/114/EK irányelve (2004. december 13.) a harmadik országok állampolgárainak tanulmányok folytatása, diákcsere, javadalmazás nélküli gyakorlat, illetve önkéntes szolgálat céljából történő beutazása feltételeiről;
+
+i) a Tanács 2005/71/EK irányelve (2005. október 12.) a harmadik országbeli állampolgároknak az Európai Közösség területén folytatott tudományos kutatás céljából való fogadására vonatkozó külön eljárásról;
+
+j) a Tanács 1994. november 30-i határozata a Tanács által az Európai Unióról szóló Egyezmény K. 3. (2) Cikke alapján elfogadott közös intézkedésről a valamely tagállamban lakó harmadik országbeli iskolai tanulók utazási lehetőségéről.
+
+(2) E rendelet
+
+a) a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i, 1683/95/EK tanácsi rendelet,
+
+b) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2001. március 15-i, 539/2001/EK tanácsi rendelet,
+
+c) az érintett tagállam által el nem ismert útiokmányok birtokosai részére a tagállamok által kiadott vízumok beillesztésére szolgáló űrlapok egységes formátumáról szóló, 2002. február 18-i, 333/2002/EK tanácsi rendelet,
+
+d) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendelet,
+
+e) a vízumok, köztük az átutazó tengerészek számára kibocsátandó vízumok határon történő kiadásáról szóló, 2003. február 27-i, 415/2003/EK tanácsi rendelet,
+
+f) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i, 562/2006/EK európai parlamenti és tanácsi rendelet,
+
+g)[^140] a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+I. melléklet a 114/2007. (V. 24.) Korm. rendelethez
+
+Repülőtéri tranzitvízum beszerzésének kötelezettsége alá eső országok
+
+Fülöp-szigetek
+
+Guinea
+
+Kamerun
+
+Libanon
+
+Libéria
+
+Ruanda
+
+Sierra Leone
+
+Szenegál
+
+Szíria
+
+Szudán
+
+II. melléklet a 114/2007. (V. 24.) Korm. rendelethez
+
+Vízumokmányok
+
+1. Vízumokmány: a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i, 1683/95/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
+
+2. Vízum beillesztésére szolgáló külön lap: az érintett tagállam által el nem ismert útiokmányok birtokosai részére a tagállamok által kiadott vízumok beillesztésére szolgáló űrlapok egységes formátumáról szóló, 2002. február 18-i, 333/2002/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
+
+Kishatárforgalmi engedély okmány[^141]
+
+3.[^142] Kishatárforgalmi engedély: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben meghatározott formájú okmány.
+
+Az okmány formátuma: matrica.
+
+Megjegyzés: kishatárforgalom céljából kiadva.
+
+III. melléklet a 114/2007. (V. 24.) Korm. rendelethez
+
+Tartózkodási engedély okmányok
+
+1. Tartózkodási engedély okmány: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
+
+Az okmány formátuma: matrica
+
+2. Humanitárius tartózkodási engedély okmány: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
+
+Az okmány formátuma: ID-2 kártya
+
+Megjegyzések: „humanitárius célú tartózkodási engedély”
+
+3. Humanitárius tartózkodási engedély okmány menedékjogot kérő számára
+
+Az okmány megnevezése: humanitárius tartózkodási engedély menedékjogot kérő részére
+
+Az okmány formátuma: ID-2 kártya
+
+Az okmány adattartalma a következő:
+
+1. okmányazonosító
+
+2. név – családi és utónév (nevek) -
+
+3. állampolgárság (hontalanság)
+
+4. nem
+
+5. arcképmás
+
+6. az engedély kibocsátásának helye és időpontja
+
+7. érvényességi idő
+
+8. a tartózkodás célja
+
+9. születési hely, idő
+
+10. szálláshely
+
+11. saját kezű aláírás
+
+12. egyéb megjegyzések
+
+IV. melléklet a 114/2007. (V. 24.) Korm. rendelethez
+
+Bevándorolt és letelepedett státuszt igazoló okmányok
+
+A harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
+
+Az okmány formátuma: matrica
+
+Megjegyzések:
+
+1. Bevándorlási engedély esetén: „bevándorlási engedély”
+
+2. Letelepedési engedély esetén: „letelepedési engedély”
+
+3. Ideiglenes letelepedési engedély esetén: „ideiglenes letelepedési engedély”
+
+4. Nemzeti letelepedési engedély esetén: „nemzeti letelepedési engedély”
+
+5. EK letelepedési engedély esetén: „huzamos tartózkodási engedéllyel rendelkező – EK”
+
+V. melléklet a 114/2007. (V. 24.) Korm. rendelethez
+
+A közösségi szállás házirendje
+
+1. A szálláson elhelyezésre kerülő személy az elhelyezéskor (szállásra érkezéskor) tartózkodásra jogosító okmányát, valamint a kötelező tartózkodási helyet kijelölő határozatot köteles bemutatni.
+
+2. Az elhelyezést követően a harmadik országbeli állampolgár köteles magát egészségügyi, ruházat- és csomagellenőrzésnek alávetni.
+
+3. A közösségi szálláson elhelyezett harmadik országbeli állampolgár (a továbbiakban: elhelyezett) az elhelyezéskor pénzét, értékeit megőrzőben elhelyezheti vagy magánál tarthatja, de ez esetben megőrzésükről önmagának kell gondoskodnia.
+
+4. Az elhelyezett nem tarthat magánál olyan tárgyakat, amelyekkel önmaga, illetve mások életét, testi épségét veszélyeztetheti (fegyver, ütő-, vágó-, szúróeszköz, gázspray, kábítószer, alkohol stb.).
+
+5. A elhelyezett a részére átadott leltári tárgyakkal a közösségi szállás elhagyásakor köteles elszámolni.
+
+6. Az elhelyezett a közösségi szállás helyiségeit, berendezési tárgyait, felszereléseit csak rendeltetésszerűen használhatja. Köteles a helyiségek tisztaságára ügyelni, környezetét tisztán tartani, a berendezési tárgyak épségét megóvni.
+
+7. Az elhelyezett egészségügyi panaszával az ügyeletes orvoshoz fordulhat. Az orvosi rendelés időpontjait a napirend tartalmazza.
+
+8. Az elhelyezett az erre kijelölt helyiségben, a napirend szerinti időpontokban látogatót fogadhat, saját költségén távbeszélést és levelezést folytathat.
+
+9. Az elhelyezett vallását egyénileg vagy csoportosan szabadon gyakorolhatja. A vallásgyakorlás a szálláshely működési rendjét nem sértheti.
+
+10. Az elhelyezett a szállás kijelölt helyiségeiben szabadon mozoghat, a művelődéshez és a sportoláshoz rendelkezésre álló eszközöket, felszereléseket szabadon használhatja.
+
+11. Az elhelyezett a szálláshelyen köteles olyan magatartást tanúsítani, amellyel a többi elhelyezett jogait nem sérti, nyugalmát nem zavarja.
+
+VI. melléklet a 114/2007. (V. 24.) Korm. rendelethez
+
+A befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár
+
+vagyon- és jövedelemnyilatkozata
+
+NYILATKOZAT
+
+a befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli vagyonáról, jövedelméről
+
+és az azokban bekövetkezett változásokról
+
+A) Személyes adatok
+
+A nyilatkozó
+
+neve:
+
+születési helye:
+
+szálláshelyének (tartózkodási helyének) címe:
+
+tartózkodási engedély száma:
+
+B) Vagyoni adatok
+
+A nyilatkozat benyújtásának időpontjában az alábbi – Magyarországon rendelkezésre álló – vagyontárgyakkal rendelkezem – nem rendelkezem:
+
+1. ingatlan:
+
+nem rendelkezem – rendelkezem,
+
+forgalmi érték:  Ft
+
+(olyan ingatlan, melyben nem lakik életvitelszerűen)
+
+2. gépjármű:
+
+nem rendelkezem – rendelkezem,
+
+forgalmi érték: Ft
+
+3. gépi meghajtású termelő- és munkaeszköz:
+
+nem rendelkezem – rendelkezem,
+
+forgalmi érték: Ft
+
+4. készpénz:
+
+nem rendelkezem – rendelkezem,
+
+összeg: Ft
+
+5. takarékbetét:
+
+nem rendelkezem – rendelkezem,
+
+összeg: Ft
+
+6. értékpapír:
+
+nem rendelkezem – rendelkezem,
+
+érték: Ft
+
+7. vagyoni értékű jog (tartós földhasználat, földhasználat, haszonélvezet, használat, külföldiek ingatlanhasználati joga stb.):
+
+nem rendelkezem – rendelkezem,
+
+érték: Ft
+
+8. összes vagyonom (1–7.)
+
+összege: Ft
+
+C) Jövedelmi adatok
+
+A nyilatkozat benyújtásának időpontjában az alábbi – Magyarországon rendelkezésemre álló – jövedelemmel rendelkezem – nem rendelkezem:
+
+1. munkaviszonyból származó havi jövedelem:
+
+nem rendelkezem – rendelkezem,
+
+összeg: Ft
+
+2. munkavégzésre irányuló egyéb jogviszonyból származó havi jövedelem:
+
+nem rendelkezem – rendelkezem,
+
+összeg: Ft
+
+3. vagyontárgyak értékesítéséből származó jövedelem:
+
+nem rendelkezem – rendelkezem,
+
+összeg: Ft
+
+4. egyéb jövedelem:
+
+nem rendelkezem – rendelkezem,
+
+összeg: Ft
+
+5. összes jövedelmem (1–4.)
+
+összege: Ft
+
+A nyilatkozat benyújtásának időpontjában a velem közös háztartásban élők (házastárs, élettárs, testvér, egyenes ági rokon) összes jövedelme szerint számított egy főre jutó havi jövedelem összege: Ft
+
+D) Változás bejelentése
+
+A kérelmező köteles haladéktalanul, de legkésőbb 15 napon belül a Bevándorlási és Állampolgársági Hivatalnak (a továbbiakban: Hivatal) bejelenteni, ha
+
+vagyontárgyai külön-külön számított forgalmi értéke (összege) elérte a …………………… Ft-ot, együttes forgalmi értéke (összege) a …………………… Ft-ot
+
+havi jövedelme meghaladta az öregségi nyugdíj mindenkori legkisebb összegét (200…………-ben a ............ …………… Ft-ot).
+
+Nyilatkozat
+
+Kijelentem, hogy a jelen nyilatkozatban foglalt adatok a valóságnak megfelelnek. Tudomásul veszem, hogy:
+
+a) a személyes gondoskodás körébe tartozó ellátásért térítést kell fizetnem, amennyiben vagyonom Ft értéke (összege) vagy jövedelmem havi összege meghaladja a jelen Nyilatkozat D) pontjában meghatározott értéket (összeget);
+
+b) a Hivatal – amennyiben térítésmentes ellátásban, illetőleg támogatásban részesülök – újabb vagyon- és jövedelemnyilatkozat benyújtására kötelezhet, amelynek 15 napon belül köteles vagyok eleget tenni;
+
+c) a Hivatal a nyilatkozatban szereplő adatok valódiságát ellenőrizheti;
+
+d) a vagyoni, jövedelmi helyzetemben bekövetkezett, a jelen nyilatkozat D) pontja szerinti változás bejelentésének elmulasztása esetén a Hivatal az ellátás és a pénzbeli támogatás folyósítását a kötelezettség tejesítéséig felfüggesztheti;
+
+e) a vagyoni és jövedelmi helyzetemről, valamint az abban bekövetkezett változásról kitöltött Nyilatkozatban valótlan adatok közlése esetén a Hivatal megvonhatja az ellátást és a támogatást.
+
+Dátum: ……………, 200… év ……… hónap …… nap
+
+...................................................
+
+a nyilatkozó
+
+(törvényes képviselője) aláírása
+
+A nyilatkozatot átvettem:
+
+Dátum: ……………, 200… év ……… hónap …… nap
+
+...........................................................
+
+a Hivatal képviselőjének
+
+aláírása
+
+Minden kérelmező és befogadott (tehát az együtt érkező házastárs, kiskorú helyett a törvényes ügygondnok) külön nyilatkozatot tölt ki.
+
+A nyilatkozatot nyomtatott betűvel kell kitölteni!
+
+VII. melléklet a 114/2007. (V. 24.) Korm. rendelethez
+
+Ellátási igazolvány befogadott, illetve emberkereskedelem áldozatává vált harmadik országbeli állampolgár részére
+
+Az okmány adattartalma:
+
+1. családi és utónév
+
+2. születési idő
+
+3. születési hely
+
+4. tartózkodási engedély száma
+
+5. tartózkodási engedély érvényességi ideje
+
+6. hatósági bejegyzések
+
+7. okmányazonosító szám
+
+8. kiállító szerv
+
+[^140]: A 183. § (2) bekezdésének g) pontját a 327/2007. (XII. 11.) Korm. rendelet 6. §-a iktatta be.
+[^141]: A II. melléklet 3. pontjának alcímét a 327/2007. (XII. 11.) Korm. rendelet 7. §-a iktatta be.
+[^142]: A II. melléklet 3. pontját a 327/2007. (XII. 11.) Korm. rendelet 7. §-a iktatta be.

@@ -1,0 +1,3 @@
+156. § (1) A harmadik országbeli állampolgár a szálláshelyének megváltozását köteles három napon belül bejelenteni az új szálláshely szerint illetékes regionális igazgatóságon.
+
+(2) A szálláshely megváltozására vonatkozó bejelentési kötelezettség nem terjed ki annak a szállásnak a bejelentésére, amelyről a tartózkodási vízummal vagy tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár átmeneti távollét után a bejelentett szálláshelyére visszatér. Ha az átmeneti távollét helye vendégkönyv vezetésére köteles szálláshely, ebben az esetben azt a vendégkönyvben rögzíteni kell, és abban fel kell tüntetni a harmadik országbeli állampolgár bejelentett szálláshelyét is.

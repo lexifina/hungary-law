@@ -1,0 +1,1 @@
+## 45. § A harmadik országbeli állampolgár tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelméről (a továbbiakban együtt: tartózkodási engedély iránti kérelem) – a 46. §-ban foglalt kivétellel – a regionális igazgatóság dönt.

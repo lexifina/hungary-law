@@ -1,0 +1,15 @@
+## A közösségi szállás
+
+131. § (1) Közösségi szállás a regionális igazgatóság által e célból fenntartott szálláshely.
+
+(2) Közösségi szállás olyan épületben létesíthető, ahol
+
+a) személyenként legalább 15 m3 légtér és 5 m2 mozgástér,
+
+b) a lakóhelyiségek mellett étkezés, a szabadidő eltöltése és látogatók fogadása céljából közösségi helyiség,
+
+c) alap- és sürgősségi ellátás céljából a háziorvosi minimum feltételeknek megfelelő orvosi rendelő,
+
+d) orvosi vizsgálat céljára szolgáló helyiség és egészségügyi elkülönítő helyiség,
+
+e) higiénés célra, az engedélyezett férőhelyek számának figyelembevételével kialakított számú, nemenként elkülönített, hideg-meleg folyóvízzel ellátott mosdó és zuhanyozó, valamint WC helyiségek állnak rendelkezésre, és a harmadik országbeli állampolgárok által tartózkodás céljára szolgáló valamennyi helyiség esetén természetes szellőzés és természetes fény biztosítható.

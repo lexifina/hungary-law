@@ -1,0 +1,3 @@
+75. § (1) A 74. §-ban foglalt ellátások és támogatások biztosításának, folyósításának feltétele, hogy a befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár ne rendelkezzék vagyonnal, valamint jövedelme – a vele közös háztartásban élő házastársa, élettársa, testvére és egyenes ági rokona összes jövedelme szerint számított egy főre jutó havi jövedelem esetén – ne haladja meg az öregségi nyugdíj mindenkori legkisebb összegét.
+
+(2) E rendelet alkalmazásában jövedelemnek, illetve vagyonnak minősül a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés a), illetve b) pontjában meghatározott jövedelem, illetve vagyon.

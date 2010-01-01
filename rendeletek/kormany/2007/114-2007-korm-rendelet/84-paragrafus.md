@@ -1,0 +1,5 @@
+84. § (1) A településen elismert minimális lakásnagyságot és minőséget meg nem haladó lakásban, szálláson lakó befogadott, illetve emberkereskedelem áldozatává vált harmadik országbeli állampolgár kérelmére lakbérének, albérleti díjának, szállásköltségének megfizetéséhez a regionális igazgatóság támogatást nyújthat. A támogatás csak érvényes bérleti, albérleti szerződés vagy befogadó nyilatkozat alapján, előzetes környezettanulmány után folyósítható. Az előzetes környezettanulmányt a kérelmező szálláshelye szerint illetékes regionális igazgatóság folytatja le.
+
+(2) Lakhatási támogatás a tartózkodási engedély első alkalommal történő kiállításától számított legfeljebb tizennyolc hónapig folyósítható.
+
+(3) A támogatás összege a bérbeadó által igazolt lakbér, albérleti díj, szállásköltség 50%-a, de legfeljebb az öregségi nyugdíj mindenkori legkisebb összege egy fő esetén, egy család esetén legfeljebb az öregségi nyugdíj mindenkori legkisebb összegének kétszerese. Ugyanabban a lakásban együtt élő, családtagnak nem minősülő befogadottakra, illetve emberkereskedelem áldozatává vált harmadik országbeli állampolgárokra a családra vonatkozó szabályok irányadóak.

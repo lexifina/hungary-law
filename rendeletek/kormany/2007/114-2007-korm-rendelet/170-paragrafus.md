@@ -1,0 +1,7 @@
+## IX. Fejezet
+
+## A HARMADIK ORSZÁGBELI ÁLLAMPOLGÁROK ADATAINAK KEZELÉSÉRE VONATKOZÓ
+
+## RÉSZLETES SZABÁLYOK
+
+## Az adatkezelő szerv

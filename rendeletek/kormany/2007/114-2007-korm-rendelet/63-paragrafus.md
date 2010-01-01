@@ -1,0 +1,1 @@
+## 62. § Amennyiben a beutazás és tartózkodás célja gyógykezelés, a harmadik országbeli állampolgár a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállását a gyógykezelést végző intézmény igazolásával támaszthatja alá.
