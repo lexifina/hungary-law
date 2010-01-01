@@ -1,0 +1,15 @@
+## Meghívásos pályázat
+
+8. § (1) Ha az általános pályázat elbírálását követően ellátatlanul vagy részben ellátatlanul maradt területek ellátása a 4. § (4) bekezdése szerinti pályázat útján sem biztosítható, a szolgáltató meghívásos pályázat útján is kiválasztható.
+
+(2) A meghívásos pályázat keretében legalább három olyan fenntartót kell a pályázat benyújtására felhívni, amely a szolgáltatást más ellátási területen biztosítja, vagy amely az ellátási területen vagy annak egy részén más szociális szolgáltatást biztosít. E rendelkezés tekintetében az egyházakat és egyházi fenntartónak minősülő szervezeteiket, szervezeti egységeiket, illetve a társadalmi szervezeteket, alapítványokat, közalapítványokat és ezek jogi személyiséggel rendelkező szervezeti egységeit egy fenntartónak kell tekinteni.
+
+(3) A pályázat benyújtására való felhívás tartalmazza a 4. § (5) bekezdése szerinti adatokat, továbbá a pályázattal érintett ellátási területet.
+
+(4) Meghívásos pályázat esetén a pályázatot olyan szolgáltató támogatására is be lehet nyújtani, amely nem felel meg az 5. § (2) bekezdése szerinti feltételeknek. Ebben az esetben a pályázathoz csatolni kell a fenntartó nyilatkozatát arról, hogy vállalja a megfelelő jogerős működési engedélynek a pályázati kiírásban meghatározott időpontig történő megszerzését.
+
+(5) Az FSZH a döntés meghozatala előtt – a szolgáltatások területi lefedettsége, illetve a megfelelő minőségű és kapacitású szolgáltatások kialakítása érdekében – valamennyi pályázóval egyeztet, és javaslatot tehet a pályázóknak egyes pályázatban vállalt feladatok, feladatmutatók, illetve az ellátási terület módosítására. Az egyeztetés során a pályázati felhívás egyes feltételei a minisztérium jóváhagyásával módosíthatóak, amelyről valamennyi pályázót haladéktalanul értesíteni kell, és megfelelő határidőt kell számukra biztosítani pályázatuk módosítására.
+
+(6) Az egyeztetésről jegyzőkönyvet kell felvenni, amely tartalmazza az egyeztetésen elhangzott lényeges megállapításokat. A jegyzőkönyv nyilvános, abba bárki betekinthet.
+
+(7) A meghívásos pályázatra egyebekben a 4–7. § rendelkezéseit kell megfelelően alkalmazni.
