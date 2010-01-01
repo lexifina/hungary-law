@@ -1,0 +1,3 @@
+16. § (1) A bejegyző végzés hatályon kívül helyezése iránti, a cégalapítás vagy a létesítő okirat módosítása érvénytelenségének megállapítása iránti, illetve a cégformákra irányadó törvényekben szabályozott, a cég szervei által hozott határozatok bírósági felülvizsgálata iránti perindítás esetén [Ctv. 26. § (1) bekezdés f)–h) pont] a cégjegyzék tartalmazza a perben eljáró bíróság megnevezését és a per ügyszámát is.
+
+(2) A Ctv. 26. §-a (1) bekezdésének h) pontjában meghatározott esetben a cégjegyzékben az is feltüntetésre kerül, ha a perben eljáró bíróság a felülvizsgálni kért határozat végrehajtását felfüggesztette.

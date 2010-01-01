@@ -1,0 +1,3 @@
+14. § (1) A közös vállalat cégjegyzékében bekövetkező változásokat, ideértve a tagok neve (cége), lakóhelye (székhelye) változását, valamint a csatlakozó tag csatlakozásának időpontját, felelősségének esetleges korlátozását [a gazdasági társaságokról szóló 1997. évi CXLIV. törvény 116. § (1) bekezdés], a cégbíróságnak e rendelet 1. számú melléklete szerinti változásbejegyzési nyomtatvány kitöltésével kell bejelenteni.
+
+(2) Ha a cégbíróság a közjegyzői irodát, illetve a végrehajtói irodát a cégjegyzékből törölte, erről elektronikus úton értesíti a közjegyzői kamara területi elnökségét, illetve értesíti a Magyar Bírósági Végrehajtói Kamarát a kamarai nyilvántartásból való törlés céljából.
