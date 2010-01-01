@@ -1,0 +1,1 @@
+16. § A Felügyelet javaslatot tesz azokra az egészségügyi szolgáltatásokra, amelyeket a külön jogszabályok alapján a központi költségvetésből kell finanszírozni, és véleményezi az ellátásokat meghatározó jogszabályok tervezeteit.
