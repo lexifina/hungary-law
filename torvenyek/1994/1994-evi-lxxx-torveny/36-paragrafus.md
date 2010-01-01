@@ -1,0 +1,7 @@
+36. § (1) Az ügyész tudományos, oktatói (edzői, versenybírói, játékvezetői), ismeretterjesztő, művészeti, illetőleg szerzői jogi védelemben részesülő, továbbá a kizárólag tiszteletdíj ellenében végzett lektori és szerkesztői tevékenység kivételével más kereső foglalkozást nem folytathat, gazdasági társaságban személyes közreműködési kötelezettséggel járó tagsági viszonyt nem létesíthet, nem lehet felügyelőbizottság tagja, és gazdasági társaság, szövetkezet vezető tisztségviselője, illetőleg gazdasági társaság korlátlanul felelős tagja, valamint hivatásával összeférhetetlen egyéb tisztséget nem vállalhat, s ilyen tevékenységet nem végezhet.
+
+(2) Az ügyész a munkaköri feladataihoz kapcsolódó nyilvános szerepléséért tiszteletdíjat nem vehet fel.
+
+(3) Az ügyész az ügyészségi szolgálati viszony munkaidejét egészben vagy részben érintő munkavégzésre irányuló egyéb jogviszonyt csak a munkáltatói jogkör gyakorlójának előzetes hozzájárulásával létesíthet. A hozzájárulás megtagadása miatt jogvita nem kezdeményezhető.
+
+(4) Az ügyészségi szolgálati viszony munkaidejét nem érintő munkavégzésre irányuló egyéb jogviszony létesítését az ügyész köteles a munkáltatói jogkör gyakorlójának előzetesen bejelenteni. A munkáltatói jogkör gyakorlója a jogviszony létesítését megtiltja, ha az az ügyész ügyészségi szolgálati viszony alapján betöltött munkakörével a törvény rendelkezései szerint összeférhetetlen.

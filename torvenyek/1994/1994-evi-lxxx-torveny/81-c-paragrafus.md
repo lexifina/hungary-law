@@ -1,0 +1,1 @@
+81/C. § Az ügyészségi titkár, fogalmazó és nyomozó illetménye alapilletményből, továbbá e törvényben meghatározott pótlékból tevődik össze. Az illetményük megállapítása alapjául a mindenkori legalacsonyabb ügyészi alapilletmény szolgál. Az alapilletmény nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér) összege.

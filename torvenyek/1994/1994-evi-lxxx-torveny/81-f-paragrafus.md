@@ -1,0 +1,1 @@
+81/F. § Ha az ügyészségi nyomozó az 5. számú melléklet szerinti magasabb fizetési osztályba kerül, az addig elért fizetési fokozatát az új fizetési osztályban legfeljebb két fokozattal csökkenteni lehet, az új alapilletményének azonban a korábbit meg kell haladnia.

@@ -1,0 +1,1 @@
+107. § A törvény hatálybalépése előtt hatályban volt rendelkezések alkalmazásával hozott jogerős fegyelmi határozatot a határozat alapjául szolgáló rendelkezések szerint kell végrehajtani, és a fegyelmi büntetés hatályának időtartamát számítani.

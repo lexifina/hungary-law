@@ -1,0 +1,1 @@
+80/A. § Az ügyészségi titkár, fogalmazó és nyomozó kirendelésére az ügyész kirendelésére vonatkozó szabályokat kell megfelelően alkalmazni, azzal az eltéréssel, hogy a kirendelésük esetén a napidíj összegét a 81/B. § szerint kell megállapítani.

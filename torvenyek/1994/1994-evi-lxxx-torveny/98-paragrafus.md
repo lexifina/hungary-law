@@ -1,0 +1,1 @@
+98. § Az ügyészségi szolgálati viszonyt érintő minden lényeges jognyilatkozatot írásba kell foglalni. A törvény eltérő rendelkezése hiányában nem kell írásba foglalni a munka szervezésével, a napi munkavégzéssel kapcsolatos munkáltatói intézkedéseket.

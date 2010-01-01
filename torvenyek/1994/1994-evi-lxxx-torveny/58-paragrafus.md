@@ -1,0 +1,9 @@
+58. § (1) A fegyelmi eljárás alá vont ügyészt a legfőbb ügyész az állásából felfüggeszti, ha az ügyészt előzetes letartóztatásba helyezték vagy vele szemben ideiglenes kényszergyógykezelést rendeltek el. A felfüggesztés akkor is elrendelhető, ha az ügyész büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – hatálya alatt áll, továbbá ha az ügyész jelenléte a tényállás tisztázását gátolná, vagy a fegyelmi vétség súlya és jellege a szolgálati helyétől való távoltartását indokolja. A felfüggesztésről hozott határozat ellen az eljárás alá vont ügyész és képviselője a határozat közlésétől számított nyolc napon belül a fegyelmi határozatra vonatkozó szabályok szerint jogorvoslattal élhet, amelynek nincs halasztó hatálya.
+
+(2) Az állásból történő felfüggesztést meg kell szüntetni, ha annak indoka már nem áll fenn.
+
+(3) A felfüggesztés idejére az ügyészt alapilletményének és rendszeres bérpótlékainak megfelelő összegű munkabér illeti meg. Ennek legfeljebb ötven százalékát négy hétre vissza lehet tartani. A teljes összeget kell visszatartani a hivatalvesztés büntetést kiszabó fegyelmi határozat kézbesítésétől annak jogerőre emelkedéséig. A munkabér visszatartása ellen nincs helye jogorvoslatnak.
+
+(4) Nem jár munkabér a felfüggesztésnek arra az időtartamára, amely alatt a munkabérre az ügyész akkor sem lenne jogosult, ha felfüggesztésre nem került volna sor.
+
+(5) A visszatartott munkabért a fegyelmi határozat jogerőre emelkedése után ki kell fizetni, kivéve ha a fegyelmi eljárás hivatalvesztés büntetés kiszabásával zárult. Ugyanígy kell eljárni, ha az ügyész ügyészségi szolgálati viszonya időközben megszűnt. Ha pedig az ügyész munkabére a fegyelmi büntetés következtében csökkent, a visszatartott összeget az új munkabér alapulvételével kell kifizetni.

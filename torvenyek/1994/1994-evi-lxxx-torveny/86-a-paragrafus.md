@@ -1,0 +1,1 @@
+86/A. § A tisztviselő, az írnok és a fizikai alkalmazott kirendelésére az ügyész kirendelésére vonatkozó szabályokat kell megfelelően alkalmazni, azzal az eltéréssel, hogy a kirendelésük esetén a napidíj összegét a 90. § szerint kell megállapítani.

@@ -1,0 +1,1 @@
+7. § A törvényben nem szabályozott kérdésekben az alkalmazotti tanácsra (Országos Tanácsra) a Munka Törvénykönyvének az üzemi tanácsra (központi üzemi tanácsra) vonatkozó rendelkezéseit kell megfelelően alkalmazni, kivéve az üzemi megbízottra és az elnök díjazására vonatkozó szabályait.
