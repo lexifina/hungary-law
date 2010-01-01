@@ -1,0 +1,1 @@
+A természet védelméről szóló 1996. évi LIII. törvény (a továbbiakban: Tvt.) 59. § (4) bekezdésében, a 63. § (3) bekezdésében, továbbá a 85. § a) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
