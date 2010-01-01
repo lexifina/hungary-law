@@ -1,0 +1,3 @@
+## 14/A. §[^60] A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként az egészségügyi államigazgatási szerv jár el a gyógyászatisegédeszköz-forgalmazási tevékenység, valamint az Eütv. 242/A. § szerinti, a természetes fürdővizek minőségellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenység tekintetében.
+
+[^60]: A 14/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 522. § (5) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
