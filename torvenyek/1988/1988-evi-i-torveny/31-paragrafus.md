@@ -1,0 +1,3 @@
+31. § (1) A közút használatában érdekelt természetes és jogi személyek, jogi személyiség nélküli gazdasági társaságok, valamint a helyi önkormányzat az alapvetően helyi lakossági érdeket szolgáló közút építésére (földút szilárd burkolattal való ellátására) együttműködhetnek. Az együttműködés (a továbbiakban: útépítési együttműködés) formáját a résztvevők maguk határozzák meg.
+
+(2) A helyi önkormányzat – ha az útépítési együttműködésben az érdekeltek több mint kétharmada részt vesz – az abban részt nem vevő, de a közút használatában érdekelt természetes és jogi személyt, jogi személyiség nélküli gazdasági társaságot a résztvevők által vállalt anyagi hozzájárulás mértékéig – a rendeletében meghatározott módon – útépítési érdekeltségi hozzájárulás fizetésére kötelezheti.

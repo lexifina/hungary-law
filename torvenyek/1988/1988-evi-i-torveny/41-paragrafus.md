@@ -1,0 +1,3 @@
+41. § (1) Az út területén, az alatt vagy felett elhelyezett építmény fenntartásáról az építmény, az útcsatlakozás fenntartásáról az útcsatlakozás tulajdonosa (kezelője) köteles gondoskodni.
+
+(2) A közút kezelője a közlekedés biztonsága érdekében felszólíthatja az (1) bekezdésben megjelölt építmény, útcsatlakozás tulajdonosát (kezelőjét) annak felújítására, korszerűsítésére vagy megszüntetésére. A felszólítás eredménytelensége esetén az építmény engedélyezésére jogosult hatóság vagy a közlekedési hatóság – a közút kezelőjének kérelmére – az építmény, útcsatlakozás tulajdonosát (kezelőjét) a felújításra, korszerűsítésre, megszüntetésre kötelezheti.

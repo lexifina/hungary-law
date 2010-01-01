@@ -1,0 +1,3 @@
+7/A. § (1) A közúti balesettel érintett járművek vezetői – a rendőrhatóság értesítésének, illetve a rendőri intézkedés hiányában – kötelesek személyazonosságukat és a kötelező gépjármű-felelősségbiztosításuk fennállását a biztosítóintézet megnevezésével együtt hitelt érdemlően igazolni, nevüket, lakcímüket és a balesetben érintett járművek hatósági jelzését közölni.
+
+(2) Ha a baleset folytán megrongálódott jármű vezetője nincs jelen, a károkozó az (1) bekezdésben megjelölt adatokat köteles erre alkalmas módon a helyszínen hátrahagyni, és az esetet a felelősségbiztosítási jogszabályok rendelkezéseinek megfelelően biztosítóintézetének bejelenteni.

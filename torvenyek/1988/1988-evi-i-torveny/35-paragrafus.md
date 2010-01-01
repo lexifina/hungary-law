@@ -1,0 +1,1 @@
+35. § Az út kezelője a kezelői kötelezettségének megszegésével okozott kárt a polgári jog általános szabályai szerint köteles megtéríteni. A kártérítési követelést a kár keletkezését követően haladéktalanul kell a közút kezelőjéhez bejelenteni.

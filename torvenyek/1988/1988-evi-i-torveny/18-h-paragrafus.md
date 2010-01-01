@@ -1,0 +1,1 @@
+18/H. § A munkáltató az Mt. 140/A. §-ában foglaltakon túl a munkavállaló rendelkezésre állási idejét köteles nyilvántartani, valamint a nyilvántartást három évig megőrizni. A munkáltató a nyilvántartás egy példányát köteles a munkavállaló részére – kérésre – átadni.

@@ -1,0 +1,1 @@
+38. § Kezelői hozzájárulás nélkül a közút nem közlekedési célból abban az esetben vehető igénybe (a továbbiakban: rendkívüli igénybevétel), ha az közmű, közműalagút, vasútüzemi berendezés, távközlési vezeték vagy csővezeték halasztást nem tűrő kijavítása, árvíz- vagy belvízvédekezés, helyi vízkárelhárítás vagy elemi csapás miatt szükséges.

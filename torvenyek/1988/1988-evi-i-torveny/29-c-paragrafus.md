@@ -1,0 +1,1 @@
+29/C. § Az ideiglenesen forgalomba helyezett országos közút esetén a végleges forgalomba helyezésig felhasznált további forrásokkal és létrehozott további eszközökkel kapcsolatban az építtető a 29. § (3) és (4) bekezdése szerint jár el.
