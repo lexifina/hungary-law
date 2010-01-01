@@ -1,0 +1,3 @@
+41. § (1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárása során ha az e törvény végrehajtására kiadott jogszabályban meghatározott védelmi célok érdekében szükséges, elrendelheti, hogy az engedélyezési eljárás ideje alatt a növényvédő szerek alkalmazásáról meghatározott ismereteket kell nyerni, gyűjteni és értékelni. Az eredményeket az engedélyező hatóságnak meghatározott időn belül meg kell küldeni, felhívásra a megfelelő dokumentumokat és mintákat be kell mutatni.
+
+(2) Az élelmiszerlánc-felügyeleti szerv a már engedélyezett növényvédő szer esetében az engedélyestől adatokat és mintákat kérhet be, amennyiben új ismeretek az engedély felülvizsgálatát teszik szükségessé.

@@ -1,0 +1,19 @@
+27. § (1) E törvény szerinti élelmiszerlánc-felügyeleti állami feladatokat látnak el
+
+a) az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter),
+
+b) az élelmiszerlánc-felügyelettel kapcsolatos vizsgálatot végző laboratóriumok,
+
+c) az élelmiszerlánc-biztonsági tudományos szerv,
+
+d) az élelmiszerlánc-felügyeleti szerv.
+
+(2) Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak elvégzésére kormányrendelet feljogosíthatja a magánállatorvost.
+
+(3) Az állami feladatok elvégzésére feljogosított magánállatorvos állami feladatainak végzése közben az élelmiszerlánc-felügyeleti szerv nevében, az e törvényben és a végrehajtására kiadott jogszabályokban foglalt eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályainak alkalmazásával jár el, ezen tevékenységéért az e törvény végrehajtására kiadott jogszabályban foglaltak szerint díjazás illeti meg.
+
+(4) Az állami feladatok elvégzésére feljogosított magánállatorvos a feladatkörébe tartozó eljárásokért köteles az e törvény végrehajtására kiadott jogszabályban előírt igazgatási szolgáltatási díjat beszedni, és a külön jogszabályban meghatározott befizetési határidőben az élelmiszerlánc-felügyeleti szerv számlájára befizetni.
+
+(5) A 10/A. § szerinti tanúsítványt az élelmiszerlánc-felügyeleti szerv által – az e törvény végrehajtására kiadott jogszabály szerint – elismert tanúsító szervezet (a továbbiakban: tanúsító szervezet) adhatja ki.
+
+(6) Az e törvényben szabályozott tanúsítványra és tanúsító szervezetre, valamint annak elismerésére nem kell alkalmazni a megfelelőségértékelő szervezetek tevékenységéről szóló törvény rendelkezéseit.

@@ -1,0 +1,3 @@
+8. § (1) Élelmiszer-vállalkozás csak olyan helyen és módon létesíthető, amely esetében biztosított, hogy az élelmiszer az élelmiszer-biztonsági és élelmiszer-minőségi előírásoknak, valamint a környezet és az állatok védelmére vonatkozó külön jogszabályok szerinti követelményeknek megfelel. Az élelmiszer-vállalkozás működéséhez az e törvény végrehajtására kiadott jogszabály szerinti élelmiszer-ipari szakképesítés megléte szükséges.
+
+(2) Hatósági eljárás során az élelmiszernek az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerinti emberi fogyasztásra való alkalmasságára vonatkozó hatósági döntést csak az élelmiszerlánc-felügyeleti szerv hozhat.

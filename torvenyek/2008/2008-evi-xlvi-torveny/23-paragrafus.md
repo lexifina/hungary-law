@@ -1,0 +1,7 @@
+23. § (1) Az élelmiszer-, illetve takarmány-vállalkozás működését az élelmiszerlánc-felügyeleti szerv által az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározottak szerint történt nyilvántartásba vételét vagy engedélyezését követően kezdheti meg.
+
+(2) Élelmiszer- és takarmány-vállalkozás kizárólag az élelmiszerlánc-felügyeleti szerv által az e törvény végrehajtására kiadott jogszabály, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusai szerint engedélyezett, illetve nyilvántartott élelmiszer- és takarmány-létesítményt működtethet, valamint az e törvény végrehajtására kiadott jogszabály, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusai alapján engedélyezett, illetve nyilvántartott élelmiszer-, illetve takarmány-vállalkozási tevékenységeket végezhet.
+
+(3) Az élelmiszer-vállalkozó haladéktalanul köteles bejelenteni az élelmiszerlánc-felügyeleti szervnek, ha tudomására jut, hogy az általa előállított vagy forgalomba hozott termék megbetegedést okozott, vagy ennek gyanúja áll fenn.
+
+(4) Az az élelmiszer-vállalkozás, amely egy másik tagállamból szerez be terméket vagy ilyen termék szétosztását végzi, az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint az élelmiszerlánc-felügyeleti szerv felhívására köteles bejelenteni a más tagállamból származó állati eredetű élelmiszerek első betárolási helyre történő beszállítás megtörténtét.

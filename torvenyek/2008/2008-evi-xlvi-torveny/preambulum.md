@@ -1,0 +1,1 @@
+Az Országgyűlés felismerve, hogy az emberek biztonságos élelmiszerrel történő ellátásához a teljes élelmiszerlánc egységes és folyamatos hatósági felügyelete szükséges, az Európai Unió szabályozásával összhangban a következő törvényt alkotja:
