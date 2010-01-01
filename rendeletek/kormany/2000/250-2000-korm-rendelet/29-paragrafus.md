@@ -1,0 +1,3 @@
+## ZÁRÓ RENDELKEZÉSEK
+
+## Hatálybalépés
