@@ -1,0 +1,1 @@
+## A mérleg tételeinek tartalma

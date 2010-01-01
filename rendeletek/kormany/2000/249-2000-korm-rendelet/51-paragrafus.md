@@ -1,0 +1,17 @@
+## Bizonylati elv, bizonylati fegyelem
+
+51. § (1)[^395] A bizonylatok feldolgozási rendjének kialakításakor figyelembe kell venni a következőket is:
+
+a)[^396] a pénzforgalmat érintő gazdasági műveletek, események bizonylatainak adatait késedelem nélkül, készpénzforgalom esetén a pénzmozgással egyidejűleg, pénzforgalmi számla, előirányzat-felhasználási keretszámla forgalomnál a hitelintézeti értesítés, illetve a Kincstár értesítésének megérkezésekor a könyvekben rögzíteni kell,
+
+b)[^397] az egyéb gazdasági műveletek, események bizonylatainak adatait, illetve a folyamatosan vezetett analitikus nyilvántartásokból készített összesítő bizonylat (feladás) adatait a gazdasági műveletek, események megtörténte után, legkésőbb a tárgynegyedévet követő hónap 15. napjáig kell a könyvekben rögzíteni. Az egyéb gazdasági műveletek, események rögzítésének rendjét úgy kell kialakítani, hogy az államháztartás szervezete eleget tudjon tenni a jogszabályokban előírt adatszolgáltatási kötelezettségeknek. Amennyiben az államháztartás szervezete az egyéb gazdasági műveletek, események hatását a folyamatosan vezetett analitikus nyilvántartásokból készített összesítő bizonylat (feladás) alapján rögzíti, akkor az összesítő bizonylat tartalmi és formai követelményeit a számlarendjében vagy a bizonylati rendjében köteles rögzíteni.
+
+(2)[^398] Az államháztartás szervezetének a módosított teljesítésszemléletű könyvvezetésre, a bizonylatolásra vonatkozó részletes belső szabályait úgy kell kialakítania, hogy az a könyvviteli mérleg, a pénzforgalmi jelentés, a pénzmaradvány-kimutatás, az előirányzat-maradványkimutatás, a vállalkozási maradvány-kimutatás alátámasztásán túlmenően a kiegészítő melléklet pénzügyi adatainak közvetlen alátámasztására is alkalmas legyen.
+
+(3)[^399] A 7. § (15) bekezdése szerinti államháztartás szervezetének az elkülönített eredményszemléletű könyvvezetésre, a bizonylatolásra vonatkozó részletes belső szabályait úgy kell kialakítania, hogy az a mérleg, az eredménykimutatás alátámasztásán túlmenően a kiegészítő melléklet pénzügyi adatainak közvetlen alátámasztására is alkalmas legyen.
+
+[^395]: Az 51. § eredeti szövegét a 278/2003. (XII. 24.) Korm. rendelet 27. §-a (1) bekezdésre változtatta.
+[^396]: Az 51. § (1) bekezdés a) pontja a 317/2009. (XII. 29.) Korm. rendelet 42. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
+[^397]: Az 51. § (1) bekezdésének b) pontja a 383/2004. (XII. 29.) Korm. rendelet 23. §-a és a 319/2005. (XII. 26.) Korm. rendelet 23. § (5) bekezdése és a 359/2006. (XII. 27.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 26. § (1) bekezdését.
+[^398]: Az 51. § új (2) bekezdését a 278/2003. (XII. 24.) Korm. rendelet 27. §-a iktatta a szövegbe, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatva. A (2) bekezdés a 317/2009. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 40. § (1) bekezdése alapján a rendelkezést először a 2010. évről készített beszámolókra kell alkalmazni.
+[^399]: Az 51. § (3) bekezdését a 317/2009. (XII. 29.) Korm. rendelet 36. § (2) bekezdése iktatta be. E módosító rendelet 40. § (1) bekezdése alapján a rendelkezést először a 2010. évről készített beszámolókra kell alkalmazni.

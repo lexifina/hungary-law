@@ -1,0 +1,10 @@
+## 40/A. §[^315] Amennyiben az önkormányzat a tulajdonában lévő korlátozottan forgalomképes és forgalomképes vagyonának rendeletében meghatározott körére az Ötv. 80/A–80/B. §-a alapján vagyonkezelői jogot létesít, akkor a szöveges magyarázatok között be kell mutatnia a vagyonkezelésbe adáskor a könyveiből kivezetett immateriális javak, tárgyi eszközök bruttó értékét és elszámolt értékcsökkenését, illetve a vagyonkezelésbe adott eszközök között nyilvántartásba vett (a vagyonkezelési szerződésbenszereplő) bekerülési értéket, illetve annak tárgyidőszaki változásait legfontosabb jogcímenként.
+
+41. § (1) A költségvetési előirányzatok és a pénzforgalom egyeztetése kimutatás tagolását az 5. számú melléklet tartalmazza.
+
+(2) A mellékletben kell bemutatni a költségvetésben jóváhagyott előirányzatokat, az előirányzatokban bekövetkezett változásokat a módosításra jogosult hatásköri tagolásban, a módosított előirányzatokat és az előirányzatok teljesítését. A melléklet az előirányzatok jogcímeit az éves költségvetés indokolásának megfelelő tagolásban tartalmazza.
+
+(3)[^316] A pénzforgalom egyeztetésénél a nyitó pénzkészlet (pénztárak és betétkönyvek, költségvetési pénzforgalmi számlák, előirányzat-felhasználási keretszámlák, maradványelszámolási számlák) állományából kiindulva a pénzforgalom változását, majd a záró pénzkészletet kell bemutatni.
+
+[^315]: A 40/A. §-t a 319/2005. (XII. 26.) Korm. rendelet 15. §-a iktatta be. E módosító rendelet 23. § (2) bekezdése alapján a rendelkezés 2007. január 1. napján lépett hatályba.
+[^316]: A 41. § (3) bekezdése a 317/2009. (XII. 29.) Korm. rendelet 42. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 40. § (2) bekezdése alapján a rendelkezést a 2009. évről összeállított költségvetési beszámoló elkészítésekor is alkalmazni kell.
