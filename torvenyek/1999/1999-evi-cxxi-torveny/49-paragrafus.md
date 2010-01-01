@@ -1,0 +1,1 @@
+49. § E törvény végrehajtását – a soron kívüli kamarai választások lebonyolításáig – kormánymegbízott felügyeli. Felhatalmazást kap a Kormány, hogy a kormánymegbízott feladat- és hatáskörét rendeletben szabályozza.

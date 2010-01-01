@@ -1,0 +1,1 @@
+46. § Ahol jogszabály területi kereskedelmi és iparkamarát, vagy területi kézműves kamarát, illetve Magyar Kereskedelmi és Iparkamarát, vagy Magyar Kézműves Kamarát említ, azon 2000. március 31. napjától a kereskedelmi és iparkamarát, illetve Magyar Kereskedelmi és Iparkamarát kell érteni.
