@@ -1,0 +1,1 @@
+A közúti közlekedésről szóló 1988. évi I. törvény 48. §-ának (3) bekezdése b) pontjának 11. és 12. alpontjában foglalt felhatalmazás alapján, a közlekedési, hírközlési és energiaügyi miniszter feladat- és hatásköréről szóló 133/2008. (V. 14.) Korm. rendelet 1. §-a (1) bekezdésének a) pontjában meghatározott hatáskörömben eljárva, a következőket rendelem el:
