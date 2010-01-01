@@ -1,0 +1,3 @@
+10. § A Vtv. 27/D. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Az, akinek érdekében állt vagy áll vasúti személyszállítási közszolgáltatási szerződés elnyerése és a 27–27/D. §-ban foglalt szabályok megszegésével kötött vasúti személyszállítási közszolgáltatási szerződés folytán sérelmet szenvedett vagy a sérelem bekövetkezésének reális veszélye fennáll, a pályázat eredményének kihirdetésétől, egyéb esetben a vasúti személyszállítási közszolgáltatási szerződés megkötésétől számított 30 napos jogvesztő határidőn belül a szolgáltatás végzésének helye szerinti bíróságtól kérheti a jogszabálysértés tényének megállapítását.”
