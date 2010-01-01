@@ -1,0 +1,1 @@
+6. § E törvényben foglaltak kivételével tilos minden, az árhoz nyújtott társadalombiztosítási támogatással rendelhető gyógyszer és gyógyászati segédeszköz népszerűsítésére, a felhasználás ösztönzésére irányuló bármilyen tevékenység.

@@ -1,0 +1,1 @@
+7. § A forgalomba hozatali engedély jogosultjai az általuk társadalombiztosítási támogatással forgalmazott gyógyszerek mennyiségével arányosan, az e törvényben meghatározott befizetési kötelezettségek teljesítésével hozzájárulnak a biztosítottak után megfizetett járulékok ellenében igénybe vehető gyógyszerellátás gazdaságosságához.

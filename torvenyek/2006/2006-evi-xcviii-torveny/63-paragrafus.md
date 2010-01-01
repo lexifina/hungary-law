@@ -1,0 +1,17 @@
+63. § (1) Amennyiben a személyi jog jogosultja a gyógyszertár személyes vezetési kötelezettségének meghatározott ideig eleget tenni nem tud, a gyógyszertár vezetéséről felelős vezető alkalmazásával is gondoskodhat.
+
+(2) Felelős vezető az a gyógyszerész lehet, aki megfelel a 61. § (2) bekezdésében foglalt feltételeknek. Amennyiben a felelős vezető alkalmazására előreláthatólag hatvan napot meghaladó időtartamra van szükség, úgy a felelős vezető csak az lehet, aki megfelel a személyi jogos gyógyszerésszel szemben az 56. §-ban támasztott követelményeknek.
+
+(3) Ha a felelős vezető alkalmazására hatvan napot meg nem haladó időtartamra van szükség, a felelős vezető alkalmazását az egészségügyi államigazgatási szervnek be kell jelenteni.
+
+(4) Ha a felelős vezető alkalmazására előreláthatólag hatvan napot meghaladó időtartamra van szükség, a felelős vezető alkalmazásához az egészségügyi államigazgatási szerv engedélye szükséges.
+
+(5) A felelős vezető alkalmazására adott engedélyt vissza kell vonni, ha
+
+a) a személyi jog megszűnik, a személyi jog megszűnésének napján,
+
+b) a felelős vezető számára a személyi jogot engedélyezik, a személyi jogot engedélyező határozat jogerőre emelkedésének napján,
+
+c) a felelős vezető neki felróható okból a gyógyszertár működtetését nem biztosítja, vagy a gyógyszertárba hatósági vezető kirendelése szükséges.
+
+(6) A gyógyszerészi oklevéllel nem rendelkező személy gyógyszer készítésénél csak gyógyszerész felügyelete és irányítása mellett segédkezhet. Csomagküldés, illetve házhozszállítás útján kiszolgált gyógyszer esetén a gyógyszertár vezetője felelős a kiszolgálás szakszerűségéért és pontosságáért. Kizárólag orvosi rendelvényre kiadható gyógyszert csak gyógyszerész vagy gyógyszertári szakasszisztens szolgáltathat ki. A gyógyszerek kiadására vonatkozó jogosultságot, valamint a gyógyszertár szaktevékenységének ellátásában részt vevő gyógyszerészi oklevéllel nem rendelkező dolgozók képesítési feltételeit külön jogszabály állapítja meg.
