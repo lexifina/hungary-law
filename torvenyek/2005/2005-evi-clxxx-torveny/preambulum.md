@@ -1,0 +1,1 @@
+Az álláskeresők mikro-, kis- és középvállalkozásnál, valamint civil szervezetnél történő foglalkoztatásának támogatása, továbbá a rugalmas foglalkoztatási formák közszférában történő térnyerése érdekében az Országgyűlés a következő törvényt alkotja:
