@@ -1,0 +1,1 @@
+8. § Az 5. § (1) bekezdésének a) pontja esetén a 6. § (1) bekezdése és a 14. § szerinti adatokat az európai vagy nemzetközi elfogatóparancsot kibocsátó bíróság megküldi a SIRENE Irodának, amely továbbítja az N.SIS Hivatalnak a figyelmeztető jelzés N.SIS-be történő elhelyezése céljából.
