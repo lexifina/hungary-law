@@ -1,0 +1,1 @@
+41/B. § Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a temetkezési szolgáltatási engedély kiadása iránt fizetendő igazgatási szolgáltatási díjat rendeletben állapítsa meg.

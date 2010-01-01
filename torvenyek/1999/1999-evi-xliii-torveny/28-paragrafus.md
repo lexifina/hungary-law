@@ -1,0 +1,1 @@
+28. § A temetkezési szolgáltató a tevékenység ellátása során köteles az eltemettetőnek a temetési szertartásra vonatkozó rendelkezését – az egyházi temetés esetén az egyházi szertartás rendjének megfelelően – tiszteletben tartani.

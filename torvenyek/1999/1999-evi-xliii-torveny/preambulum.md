@@ -1,0 +1,1 @@
+Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és ápolása, a temetkezés közegészségügyi és kegyeleti rendeltetésének érvényesítése, valamint a temető és temetkezési kultúra fejlesztése érdekében a következő törvényt alkotja:

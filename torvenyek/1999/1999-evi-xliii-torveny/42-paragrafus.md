@@ -1,0 +1,1 @@
+42. § Ahol az önkormányzat a köztemető fenntartására vonatkozó kötelezettségéről kegyeleti közszolgáltatási szerződés keretében gondoskodik, a temető használatának szabályait önkormányzati rendeletben kell megállapítani.
