@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló, többször módosított 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 124. §-ának (2) bekezdésének a), b), f) és h) pontjaiban foglalt felhatalmazás alapján a következő rendeletet alkotja:

@@ -1,0 +1,1 @@
+## 4. § A kincstári éves beszámoló mérlegeinek fordulónapja december 31. A mérlegeket a tárgyévet követő év május 31-éig kell elkészíteni. A kincstári éves beszámolót a Kincstár elnöke írja alá és küldi meg a pénzügyminiszter részére.
