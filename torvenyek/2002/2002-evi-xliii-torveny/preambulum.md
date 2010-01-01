@@ -1,0 +1,1 @@
+Az Országgyűlés az egyszerűsített adómegállapítási és beszedési szabályok alkalmazása érdekében azon kisvállalkozások számára, amelyeknél az általános szabályok szerint történő adóztatás tevékenységük jellege miatt nehézségekbe ütközne, valamint az Európai Unióhoz való csatlakozásból eredő szempontok érvényesítése céljából a következő törvényt alkotja:
