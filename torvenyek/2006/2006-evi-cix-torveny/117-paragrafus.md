@@ -1,0 +1,5 @@
+## XVII. Fejezet
+
+## KERESKEDELMI IGAZGATÁS
+
+117–119. §
