@@ -1,0 +1,1 @@
+## 12. § A felnőttképzési intézménynek – az Fktv. 10/A. §-ában meghatározott dokumentumokon kívül – a képzésben részt vevő fogyatékkal élő felnőtt támogatásra való jogosultságát alátámasztó 5. számú melléklet szerinti igazolását 5 évig kell megőriznie.
