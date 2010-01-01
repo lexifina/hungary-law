@@ -1,0 +1,3 @@
+40. § (1) Fokozottan védett természeti területre történő belépéshez – a jelzett turistautak és tanösvények kivételével – a természetvédelmi hatóságnak az igazgatóság szakértői véleményének figyelembevételével kiadott engedélye szükséges. A külön jogszabályok alapján erre feljogosított személyek – feladatuk ellátásához szükséges mértékben – engedély nélkül beléphetnek.
+
+(2) Fokozottan védett természeti területen csak természetvédelmi kezelés, a 38. § (1) bekezdése alapján engedélyezett tevékenység, továbbá – a lehetőséghez képest – a természetvédelmi hatósággal egyeztetett közvetlen élet- és vagyonvédelmi beavatkozás végezhető.

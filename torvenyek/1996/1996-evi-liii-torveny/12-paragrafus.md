@@ -1,0 +1,3 @@
+12. § (1) Ha valamely területen a vadászható vadfaj, illetve a halászható (horgászható) halfaj állománya a vadászat, illetve halászat (horgászat) vagy más tényező miatt veszélyeztetetté válik, a természetvédelmi hatóság kezdeményezheti a vadászati, illetőleg a halászati hatóságnál vadászati, illetve halászati (horgászati) korlátozás vagy tilalom elrendelését.
+
+(2) A vadászható vad- és a halászható (horgászható) halfaj túlszaporodása esetén, illetve a nem őshonos, nem meghonosodott, a hazai állatvilágtól idegen állomány felszámolása érdekében, a természetvédelmi hatóság a vadászati (halászati) hatóságnál az állomány szabályozását vagy felszámolását kezdeményezi.

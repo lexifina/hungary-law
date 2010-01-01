@@ -1,0 +1,1 @@
+70. § A védett természeti terület nevének, jelképének, illetve a természetvédelem jelképének felhasználásáért – a jogosult és a felhasználó közötti polgári jogi szerződésben meghatározottak szerint – a felhasználó díjat köteles fizetni.

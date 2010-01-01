@@ -1,0 +1,3 @@
+55. § (1) A települési önkormányzat – fővárosban a fővárosi önkormányzat – az illetékességi területén található helyi jelentőségű védett természeti területek fenntartására tervet készít. A tervnek az országos, a regionális tervekkel összhangban kell lennie. A tervet a települési önkormányzat képviselő-testülete, a fővárosban és a megyei jogú városban a közgyűlés (a továbbiakban együtt: képviselő-testület) rendelettel fogadja el.
+
+(2) A tervek előterjesztéséhez az igazgatóság előzetes véleménye szükséges. Az elfogadott önkormányzati természetvédelmi terv egy példányát meg kell küldeni az igazgatóságnak.
