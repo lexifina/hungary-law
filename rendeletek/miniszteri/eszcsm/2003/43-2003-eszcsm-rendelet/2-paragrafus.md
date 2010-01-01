@@ -1,0 +1,3 @@
+## 1. §[^1] E rendelet hatálya az egészségügyi közszolgáltatást nyújtó gyógyintézetekre (a továbbiakban: gyógyintézet) terjed ki. E rendeletet a költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény (a továbbiakban: Kt.) hatálya alá tartozó egészségügyi közszolgáltató költségvetési szervek tekintetében az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 156/H–156/J. §-ában, továbbá az egészségügyi közszolgáltató költségvetési szerv vezető testületének és felügyelő testületének működéséről, valamint a szerv vezetője teljesítményének értékeléséről szóló külön jogszabályban foglalt eltérésekkel kell alkalmazni.
+
+[^1]: Az 1. § az 55/2009. (XII. 30.) EüM rendelet 11. § (1) bekezdésével megállapított szöveg.

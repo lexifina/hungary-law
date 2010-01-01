@@ -1,0 +1,1 @@
+Az egészségügyi szolgáltatókról és az egészségügyi közszolgáltatások szervezéséről szóló 2003. évi XLIII. törvény (a továbbiakban: Eüszt.) 35. §-a (2) bekezdésének e) pontjában foglalt felhatalmazás alapján a következőket rendelem el:
