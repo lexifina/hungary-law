@@ -1,0 +1,13 @@
+13. § (1) Az állatokat az országon belül két tenyészet közötti szállításuk esetén az MgSzH Központ által rendszeresített és a www.enar.hu honlapon közzétett, a (2) bekezdésben meghatározott adattartalmú szállítólevéllel kell kísérni.
+
+(2) A szállítólevélnek a 21/2004/EK rendelet Mellékletének C. 1. szakaszában foglalt adattartalmon kívül tartalmaznia kell a szállított állat faját és ENAR-számát, a szállítást felügyelő állatorvos állategészségügyi igazolását arról, hogy az állat szállíthatóságának állat-egészségügyi akadálya nincs, továbbá a fogadó tenyészet általi fogadás dátumát, a fogadott állatok számát és a fogadó tenyészet állattartójának aláírását.
+
+(3) Az állattartó részére a szállítólevél nyomtatványt a területi felelős biztosítja.
+
+(4) A szállítólevelet öt példányban kell kitölteni, amelyből kettő marad a szállítást indító állattartónál, két példány a szállítmányt kíséri, egy példány az állat-egészségügyi igazolást kiállító állatorvosnál marad. Egy példányt az indító tenyészet, egy példányt a fogadó tenyészet az állat indításának napját követő hét napon belül az MgSzH Központ részére köteles megküldeni.
+
+(5) A szállítólevél állat-egészségügyi igazolás részének kitöltésére – ha a jogszabály másként nem rendelkezik – a szállítást a jogosult állatorvos hatásköréről és a működésével kapcsolatos részletes szabályokról szóló külön jogszabály szerinti állatorvos jogosult, a tenyészetet ellátó állatorvos által kitöltött igazolás alapján.
+
+(6) A szállítólevelet az állattartó három évig köteles megőrizni.
+
+(7) Az országot elhagyó állat esetében az indító tenyészetben az MgSzH Központ által rendszeresített és a www.enar.hu honlapon közzétett szállítólevélnek a 21/2004/EK rendelet Mellékletének C. 1. szakaszában foglalt adattartalmon kívül tartalmaznia kell a szállított állat faját és ENAR-számát, a szállítást felügyelő állatorvos állategészségügyi igazolását arról, hogy az állat szállíthatóságának állat-egészségügyi akadálya nincs, továbbá a hatósági állatorvos azonosítóját és aláírását. Az indító tenyészetnek a szállítólevél egy példányát meg kell küldenie az MgSzH Központ részére, egy példányát pedig meg kell őriznie.
