@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 124. §-a (2) bekezdésének u) pontjában kapott felhatalmazás alapján, a belső ellenőrzés nemzetközi belső ellenőrzési standardokon alapuló, egységes gyakorlatának kialakítása céljából, az államháztartás egészére kiterjedően az alábbiakat rendeli el:
