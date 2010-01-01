@@ -1,0 +1,3 @@
+24. § (1) A települési önkormányzat a hulladékgazdálkodási feladatainak végrehajtása érdekében hozott önkormányzati rendeleteiben – törvényben vagy kormányrendeletben meghatározott módon és mértékben – illetékességi területére a más jogszabályokban előírtaknál szigorúbb hulladékgazdálkodási előírásokat is meghatározhat.
+
+(2) A települési önkormányzat hulladékgazdálkodási tárgyú rendeleteinek tervezetét a szomszédos és az intézkedéssel érintett más települési önkormányzatoknak, a megyei önkormányzatnak tájékoztatásul, valamint a felügyelőségnek véleményezésre megküldi. A felügyelőség szakmai véleményéről harminc napon belül tájékoztatja a települési önkormányzatot.

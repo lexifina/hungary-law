@@ -1,0 +1,5 @@
+45/A. § (1) A felhasználók tájékoztatására, illetve a terméken és a csomagoláson feltüntetendő információkra vonatkozóan a 7. §-ban előírt követelmények megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jogosult, ha a jogsértés az Fttv. 2. §-ának a) pontja értelmében vett fogyasztót érint. Az eljáró hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
+
+(2) A 8. § (1) bekezdésben, valamint a 10. § (1) és (3) bekezdésben előírt követelmények megsértése esetén az eljárás lefolytatására a fogyasztóvédelmi hatóság jogosult, ha a jogsértés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. §-ának a) pontja értelmében vett fogyasztót érint. A fogyasztóvédelmi hatóság az Fgytv. szabályai szerint jár el.
+
+(3) Az (1) és (2) bekezdésben említett rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.

@@ -1,0 +1,1 @@
+10/A. § Ha a gyártó nem tesz eleget a 7. §-ban előírt tájékoztatási kötelezettségének, a forgalmazó köteles azt pótolni. E rendelkezés nem érinti a forgalmazónak a gyártóval szemben érvényesíthető igényeit.
