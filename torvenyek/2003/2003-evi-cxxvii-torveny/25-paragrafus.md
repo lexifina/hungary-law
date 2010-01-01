@@ -1,0 +1,15 @@
+25. § (1) A bejegyzett/nem bejegyzett kereskedőnek a más tagállamból közösségi adó-felfüggesztési eljárásban szállított jövedéki termék fogadásával adókötelezettsége keletkezik, és egyidejűleg – az (5)–(6) bekezdésben foglalt eltéréssel – beáll az adómegállapítási és adófizetési kötelezettsége.
+
+(2) A bejegyzett kereskedő az 52. § (1) bekezdés a)–e) pontjában megjelölt ásványolaj és a 2207 vámtarifaszám alá tartozó alkoholtermék (1) bekezdés szerinti beszerzéséről a termék fogadásának napján köteles a vámhatóságot elektronikus úton értesíteni.
+
+(3) A bejegyzett kereskedő a szállítási nyilvántartásának adatait havonta lezárja, és megállapítja – szállítónként, jövedéki termékenkénti részletezésben – a tárgyhóban beszerzett jövedéki termékek mennyiségét. A szállítási nyilvántartás havi zárását az adóbevallással egyidejűleg be kell nyújtani a vámhatósághoz, kivéve a 26. § (2) bekezdése szerinti esetet, vagy azt az esetet, ha a bejegyzett kereskedő egyben adómentes felhasználó is.
+
+(4) A nem bejegyzett kereskedő – a 48. § (9) bekezdésétől eltérően – az adófizetési kötelezettsége keletkezését követő 5 napon belül tesz adóbevallást és fizeti meg az adót, kivéve, ha a nem bejegyzett kereskedő egyben adómentes felhasználó is.
+
+(5) Amennyiben a bejegyzett/nem bejegyzett kereskedő egyben adómentes felhasználó is, az adómegállapítási és adófizetési kötelezettségét – az (1)–(4) bekezdésben foglalt rendelkezésektől eltérően – az adómentes felhasználókra meghatározott rendelkezések szerint állapítja meg és teljesíti, melynek során a jövedéki termék más tagállamból közösségi adófelfüggesztési eljárásban történt beszerzése a belföldi adóraktárból való betárolással azonos megítélés alá esik.
+
+(6) Amennyiben a bejegyzett kereskedő más tagállamból kizárólag adómentes felhasználó részére, az adómentes felhasználó üzemébe való közvetlen szállítással szerez be ásványolajat vagy alkoholterméket és a TKO-n feltüntetett rendeltetési hely egy adómentes felhasználó üzeme, a jövedéki termék fogadásával az (1) bekezdés szerint belföldön keletkezett adókötelezettség a bejegyzett kereskedő helyett az adómentes felhasználót terheli a jövedéki terméknek az adómentes felhasználó üzemébe történő betárolásával. A vámhatóság a TKO visszaküldendő 3. példányának ellenjegyzését csak abban az esetben teljesíti, ha az adómentes felhasználó a betárolást külön jogszabályban foglaltak szerint külön igazolja.
+
+(7) A (6) bekezdés szerinti bejegyzett kereskedőnek nem kell az adóbevallást benyújtania, a szállítási nyilvántartása havi zárását adómentes felhasználónkénti részletezésben kell elkészítenie és benyújtania.
+
+(8) A jövedéki termék bejegyzett/nem bejegyzett kereskedő általi, más tagállamból közösségi adófelfüggesztési eljárásban történt beszerzése esetén a 22. § (3)–(5) bekezdésének rendelkezéseit értelemszerűen alkalmazni kell. A nem bejegyzett kereskedőnek továbbá az adó megfizetését vagy annak biztosítását igazoló, a vámhatóság által aláírt okmányt is csatolnia kell a TKO visszaküldendő példányához.

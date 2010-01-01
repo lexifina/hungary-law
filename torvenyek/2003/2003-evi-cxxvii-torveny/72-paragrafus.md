@@ -1,0 +1,55 @@
+## Alkoholtermék-adóraktár
+
+72. § (1) Alkoholtermék-adóraktári engedély
+
+a) az alkoholterméket – a gyümölcs kivételével – cukor- vagy keményítőtartalmú mezőgazdasági eredetű termékből erjesztéssel és/vagy lepárlással előállító, és/vagy a borból és a borászati melléktermékekből lepárlással borpárlat, boralkohol, nyersszesz vagy semleges alkohol előállítását külön jogszabály szerint végző üzemre (a továbbiakban: szeszüzem),
+
+b) a gyümölcspálinkát vagy borpárlatot gyümölcsökből és bogyókból, gyümölcstörkölyből, gyümölcsmustból, szőlőből, szőlőmustból, szőlőborból és borászati melléktermékekből, illetve a párlatot sörből, gabonából erjesztéssel és lepárlással előállító, és/vagy a borból és a borászati melléktermékekből lepárlással boralkohol, nyersszesz vagy semleges alkohol előállítását külön jogszabály szerint végző üzemre (a továbbiakban: szeszfőzde),
+
+c) az alapanyagok összekeverésével alkoholtermék előállítását végző üzemre (a továbbiakban: italgyár),
+
+d) a 2208 vámtarifaszám alá tartozó alkoholtermék önálló palackozását végző palackozó üzemre (a továbbiakban: szeszpalackozó),
+
+e) a szeszüzem, a szeszfőzde, illetve az italgyár engedélyesének a gyártóüzeme területén vagy a gyártóüzeme területén kívül található, alkoholtermék tárolására, raktározására alkalmas, saját tulajdonú vagy bérelt, illetve egyéb használati jogon működtetett raktárára (a továbbiakban: üzemi szeszraktár),
+
+f) a kizárólag a 2207 vámtarifaszám alá tartozó, legalább 96 térfogatszázalék alkoholtartalmú, nagytisztaságú, analitikai minőségű alkoholtermék tisztítással, válogatással való előállítását, és legfeljebb 1 liter űrtartalmú egységben való kiszerelését végző üzemre (a továbbiakban: etanolüzem),
+
+g) a 2208 vámtarifaszám alá tartozó, a 73. § (9)–(10) bekezdése szerinti kiszerelésű alkoholtermék önálló tárolását, raktározását végző raktárra (a továbbiakban: alkoholtároló adóraktár),
+
+h) a bor krízis lepárlásából, illetve a bor és a borászati melléktermék kötelező lepárlásából származó alkoholtermék tárolására a külön jogszabályban foglaltak szerint jogosultságot szerző raktárra (a továbbiakban: kijelölt alkoholraktár),
+
+i) a vegyipari és gyógyszeripari felhasználás során szennyezetté vált alkoholtermék önálló tevékenység keretében történő tisztítását (regenerálását) és/vagy az alkoholtermék teljes denaturálását és kiszerelését végző üzemre, ahol a regenerált és vásárolt alkoholtermékből az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék, illetve hígítóként, oldószerként értékesített, 2207 vámtarifaszám alá tartozó alkoholtermék is előállítható (a továbbiakban: alkoholregeneráló és -denaturáló üzem),
+
+j) a 2207 vámtarifaszám alá tartozó, kizárólag nyomdaipari célokat szolgáló hígítót, oldószert előállító, kiszerelő üzemre (a továbbiakban: egyéb alkoholtermék-adóraktár)
+
+adható.
+
+(2) Az (1) bekezdésben foglalt eseteken kívül az alkoholtermék – kivéve a 2207 vámtarifaszám alá tartozó terméket – adó megfizetése nélküli tárolására adóraktári engedély adható
+
+a) a nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló helyen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzlet és az üzlet áruellátását biztosító raktár együttes területére (a továbbiakban: tranzitadóraktár),
+
+b) a vámraktárban és a vámszabadterület raktározási célra elkülönített területén kialakított raktárra, ha ott belföldi adóraktárból betárolt alkoholterméket kizárólag harmadik országba történő kiléptetés céljából raktároznak (a továbbiakban: vámadóraktár).
+
+(3) A tranzit- és a vámadóraktárban alkoholtermék mellett adózatlan sör, bor, pezsgő, köztes alkoholtermék és dohánygyártmány a (2) bekezdés szerinti céllal történő adómentes tárolása is megengedett.
+
+(4) Az italgyár és a szeszfőzde engedélyesének üzemi szeszraktárába nem saját előállítású, 2208 vámtarifaszám alá tartozó alkoholtermék legfeljebb az egy naptári év alatt előállított, a 73. § (9)–(10) bekezdése szerinti kiszerelésű, saját gyártású alkoholtermék 25%-ának megfelelő mennyiségben tárolható be évente. Az italgyár és a szeszfőzde engedélyese ezt meghaladó mennyiséget abban az esetben tárolhat be az üzemi szeszraktárába, ha a (6) bekezdésben foglalt feltételt, továbbá az alkoholtároló adóraktár esetében nyújtandó jövedéki biztosítékot külön teljesíti. A szeszüzem engedélyesének üzemi szeszraktárába nem saját előállítású, 2207 vámtarifaszám alá tartozó alkoholtermék legfeljebb az egy naptári év alatt előállított saját gyártású alkoholtermék 25%-ának megfelelő mennyiségben tárolható be évente.
+
+(5) Az alkoholtároló adóraktárban az alkoholterméken kívül adózatlan sör, bor, pezsgő és köztes alkoholtermék tárolása is megengedett.
+
+(6) Az alkoholtároló adóraktári engedély akkor adható, ha
+
+a) a raktár alapterülete legalább 1000 m2;
+
+b) a raktárban számítógépes raktárgazdálkodási rendszert működtetnek.
+
+(7) A jövedéki biztosítékot az (1) bekezdés szerinti adóraktárak esetében – a (8) bekezdésben foglalt eltéréssel – adóraktáranként legalább 40 millió forint, de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes esetében engedélyesenként legfeljebb 200 millió forint értékben kell teljesíteni. Az egy helyrajzi számon vagy az összefüggő helyrajzi számokon szereplő szeszüzem, italgyár, szeszfőzde és üzemi szeszraktár a jövedéki biztosíték szempontjából egy adóraktárnak minősül. A nem összefüggő helyrajzi számokon szereplő, de a gyártástechnológiai folyamatból fakadóan egy technológiai egységet képező, csővezetékrendszerrel összekötött üzem, raktár egy adóraktárnak tekintendő.
+
+(8) A kizárólag bérfőzést végző szeszfőzdére és az etanolüzemre a jövedéki biztosítékot legalább 1 millió forint, a szeszfőzdére és az egyéb alkoholtermék-adóraktárra legalább 10 millió forint értékben kell nyújtani. A kizárólag bérfőzést végző szeszfőzde jövedéki biztosítékát a 64. § (3) bekezdésében foglalt alacsonyabb adómérték alapulvételével kell megállapítani. Amennyiben a szeszüzem éves etilalkohol-gyártó kapacitása nem haladja meg az évi 50 ezer hektolitert, és a szeszüzemben kizárólag legalább 80, legfeljebb 92 térfogatszázalék alkoholtartalmú, finomítatlan, élelmiszeripari alapanyagkénti felhasználásra alkalmatlan etilalkoholt állítanak elő egy desztillációs lépésben, a jövedéki biztosítékot legfeljebb 25 millió forint értékben kell nyújtani.
+
+(9) A kizárólag bérfőzést végző szeszfőzde esetében a 35. § (1) bekezdés f)–g) pontjának rendelkezését nem kell alkalmazni.
+
+(10) Az adóraktár engedélyese a minőségi kifogás vagy lejárt szavatosság miatt szabadforgalomból visszaszállított (visszáru) alkoholtermék általa megfizetett adóját visszaigényelheti (levonhatja), amennyiben az alkoholterméket megsemmisíti. Az adólevonás joga a megsemmisítési jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes.
+
+(11) Kérelemre – a külön jogszabályban foglaltak szerint – engedélyezhető az E85 előállítása a legalább 250 ezer hektoliter éves etilalkohol-gyártó kapacitású szeszüzemben is, az ásványolajtermékekre meghatározott külön jövedéki biztosíték nyújtása nélkül.
+
+(12) Az italgyár és a szeszpalackozó engedélyesének a palackozás céljára betárolt és lepalackozott szőlőbor tekintetében a 83. § rendelkezéseit kell értelemszerűen alkalmaznia.

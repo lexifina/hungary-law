@@ -1,0 +1,3 @@
+36. § (1) A kérelmező a 35. §-ban foglalt feltételek fennállása esetén is csak arra a termékgyártásra, raktározásra, tárolásra használt üzemre, raktárra kaphat engedélyt, ahol az előállított, raktározott jövedéki termékek biztonságos tárolásához, pontos mennyiségi számbavételéhez, a hatósági felügyelet ellátásához, az ellenőrzések folytatásához szükséges tárgyi feltételek adottak, továbbá, amelyre rendelkeznek azokkal a hatósági engedélyekkel, amelyeket jogszabály az adóraktárban folytatni kívánt tevékenység gyakorlásához külön előír.
+
+(2) Az adóraktári engedély (1) bekezdés szerinti feltételeit a vámhatóság előzetesen a helyszínen is megvizsgálja.
