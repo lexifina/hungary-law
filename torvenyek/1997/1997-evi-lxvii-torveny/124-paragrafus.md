@@ -1,0 +1,5 @@
+124. § (1) A helyi bíróság ülnökeit a bíróság székhelye szerint illetékes települési, illetőleg települési kisebbségi önkormányzat képviselő-testülete, a megyei bíróság ülnökeit a megyei (fővárosi), megyei jogú városi közgyűlés és a területi kisebbségi önkormányzatok képviselő-testületei választják meg. A kerületi bíróságok ülnökeit a bíróság illetékességi területe szerinti települési önkormányzatok és a települési kisebbségi önkormányzatok képviselő-testületei, a Budakörnyéki Bíróság ülnökeit a Pest Megyei Közgyűlés és a Pest megyei kisebbségi önkormányzatok képviselő-testületei választják meg. A megyei bíróság és a munkaügyi bíróság ülnökeit a megyei (fővárosi), megyei jogú városi közgyűlés és a területi kisebbségi önkormányzatok képviselő-testületei választják meg.
+
+(2) Az ülnökök megválasztásánál a helyi önkormányzatokról szóló 1990. évi LXV. törvény 12. §-a (4) bekezdésének a) pontját megfelelően alkalmazni kell.
+
+(3) A katonai ülnököket a rendfokozatuknak megfelelő állománygyűlésen választják meg.

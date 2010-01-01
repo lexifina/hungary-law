@@ -1,0 +1,1 @@
+20/A. § A bíró – hozzájárulásával – az OIT döntése alapján tartós külszolgálatot láthat el. A tartós külszolgálatot ellátó bíró megtartja bírói tisztségét, de nem ítélkezhet; a külszolgálat befejezését követően a tényleges bírói munkakörbe történő beosztására pedig a 40. § (4) és (5) bekezdését kell alkalmazni.

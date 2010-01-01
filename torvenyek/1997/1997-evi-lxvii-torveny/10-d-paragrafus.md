@@ -1,0 +1,1 @@
+10/D. § A vagyonnyilatkozatot első ízben a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény vagyonnyilatkozatra vonatkozó rendelkezéseinek a hatálybalépését követő 120 napon belül, a hatálybalépés napján fennálló állapotnak megfelelően kell megtenni. Ha a bíró e kötelezettségének nem tesz eleget, szolgálati viszonya megszűnik.

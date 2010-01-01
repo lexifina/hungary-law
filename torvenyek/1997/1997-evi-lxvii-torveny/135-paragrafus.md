@@ -1,0 +1,1 @@
+135. § A törvény hatálybalépése előtt kinevezett bíró munkáját e törvény szerint akkor kell értékelni – a soron kívüli értékelés eseteit ide nem értve – ha a bíró tényleges szolgálati ideje a 15 évet nem haladja meg. Az értékelést 2000. december 31. napjáig kell elvégezni.

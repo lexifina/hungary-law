@@ -1,0 +1,1 @@
+A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan érvényre juttatása érdekében, a bírák jogállásának, javadalmazásának és előmenetelének szabályairól az Országgyűlés a következő törvényt alkotja:

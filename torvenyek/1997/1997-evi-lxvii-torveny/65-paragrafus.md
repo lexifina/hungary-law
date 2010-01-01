@@ -1,0 +1,1 @@
+65. § A fegyelmi eljárás kezdeményezéséről az érintett bírót az eljárás kezdeményezője haladéktalanul értesíti. Ha a fegyelmi eljárást nem az OIT kezdeményezte, a kezdeményezésről az OIT-ot is értesíteni kell.
