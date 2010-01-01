@@ -1,0 +1,1 @@
+25. § Az eljárás a gazdasági reklámtevékenységre vonatkozó rendelkezéseket megsértő reklám közzétételét, a tiltott szponzorálást megvalósító rendezvény vagy tevékenység befejeztét, illetve a magatartási kódex jogsértő rendelkezése alkalmazásának megszűnését követő három éven túl nem indítható meg.
