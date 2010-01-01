@@ -1,0 +1,7 @@
+20. § A Hjt. 100. §-a a következő (4)–(6) bekezdéssel egészül ki:
+
+„(4) Az állomány tagjának szolgálati kötelmekkel összefüggő balesete, sérülése vagy szolgálati eredetű betegsége miatt engedélyezett egészségügyi szabadság időtartamára távolléti díj jár.
+
+(5) Amennyiben az egészségügyi szabadságot nem szolgálati kötelmekkel összefüggő baleset, sérülés vagy nem szolgálati eredetű betegség indokolja, annak időtartamára évente 30 naptári napig távolléti díjat, a 31. naptári naptól a távolléti díj 90%-át kell folyósítani. A 31. naptári naptól a baleset, sérülés szolgálati kötelmekkel összefüggő jellegének, illetve a betegség szolgálati eredetének megállapításáig a távolléti díj 90%-át kell folyósítani, a baleset, sérülés szolgálati kötelmekkel összefüggő jellegének, illetve a betegség szolgálati eredetének megállapítása esetén a különbözetet a jogosult részére egyösszegben folyósítani kell.
+
+(6) Ha az állomány egészségügyi szabadságon levő tagja a betegségét vagy sérülését szándékosan maga okozta, az egészségügyi szabadság időtartama alatt számára távolléti díj nem folyósítható, ha pedig az súlyos gondatlanságának következménye, legfeljebb 50%-kal csökkenthető. Az egészségügyi szabadságra járó távolléti díjat meg lehet vonni az állomány tagjától, ha a gyógyulását felróhatóan késleltette, az orvos utasításainak felróhatóan nem tett eleget, vagy az elrendelt orvosi vizsgálaton elfogadható indok nélkül nem jelent meg.”
