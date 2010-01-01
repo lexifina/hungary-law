@@ -1,0 +1,1 @@
+A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 287. §-ának i) pontjában kapott felhatalmazás alapján a Magyar Honvédség (a továbbiakban: Honvédség) külföldi szolgálatba vezényelt tagjaival kapcsolatos személyügyi feladatokról és jogállásuk egyes kérdéseiről a következőket rendelem el:

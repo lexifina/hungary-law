@@ -1,0 +1,11 @@
+## 11. § A fegyverhasználat és más kényszerítő eszközök alkalmazása során a 8. § (1) bekezdésében szereplő dokumentumoknak a hazai jogszabályokban foglaltaktól eltérő előírásait is érvényesíteni kell.
+
+12. § (1)[^26] Ha a Hjt. 142. §-ára figyelemmel fegyelmi eljárást kell folytatni, akkor az állomány tagjának a Hjt. 142. § a) pontja szerinti hazarendelésére – a béketámogató műveletekre vonatkozó jogszabály eltérő rendelkezése hiányában – a 7. § (1) bekezdésében megjelölt parancsnok jogosult, aki az illetékes katonai ügyész vagy a külföldön tartózkodó kontingens vagy szervezet külföldi szolgálati elöljárójának ez irányú megkeresését megvizsgálja.
+
+(2) A hazarendelés szolgálati útnak minősül, mely nem érinti a külföldi szolgálatra vezénylés folyamatosságát, azonban a Hjt. 262. § (2) bekezdésében és a 263. § (1) bekezdésének előírásait ez esetben is alkalmazni kell.
+
+(3) A Hjt. 16. §-ában meghatározott személyes szabadságot korlátozó intézkedések során a külföldi szolgálatot teljesítő állomány tagjával szemben külföldi katonai rendész (rendőr) vagy hasonló jogállású személy – a rá vonatkozó nemzetközi szerződés, Egységes Műveleti Szabályok szerinti hatáskörében – is eljárhat. A külföldi katonai rendész (rendőr) vagy hasonló jogállású személy által készített jelentést a fegyelmi vizsgálat során bizonyítékként kell megvizsgálni.
+
+(4) A külföldi szolgálati helyen folytatott vizsgálat, illetve fegyelmi eljárás során – a felelősségre vonás alapjául szolgáló – megsértett katonai szabályok között a magyar szabályokkal azonosnak kell tekinteni az adott missziót működtető nemzetközi szervezet által kiadott Egységes Műveleti Szabályokat, a külföldi szolgálat ellátására vonatkozó nemzetközi szerződést vagy egyéb olyan nemzetközi előírást, amelynek betartása az eljárással érintett személyt is kötelezi. Amennyiben a külföldi szolgálatteljesítés során a magyar katonával szemben a külföldi elöljárója kezdeményez fegyelmi felelősségre vonást, azt a fegyelmi jogkör gyakorlására jogosult parancsnok köteles megvizsgálni.
+
+[^26]: A 12. § (1) bekezdése a 14/2006. (IV. 20.) HM rendelet 18. § (2) bekezdésével megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a 2006. május 5. napján folyamatban lévő fegyelmi ügyekben az eljárás megindulásakor hatályos szabályok alapján kell eljárni.

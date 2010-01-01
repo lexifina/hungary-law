@@ -1,0 +1,9 @@
+# 26/2002. (IV. 12.) HM rendelet
+
+a külföldi szolgálatba vezényeltekkel kapcsolatos személyügyi feladatokról és jogállásuk egyes kérdéseiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-26-20-15
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2002-26-20-15.6 | 26/2002. (IV. 12.) HM rendelet |
