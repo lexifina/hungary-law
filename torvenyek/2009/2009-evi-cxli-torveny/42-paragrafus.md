@@ -1,0 +1,3 @@
+42. § A Hszt. 115/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Amennyiben a hivatásos állomány tagjának szolgálati viszonya az 53. § a)–b) és f)–g), valamint az 56. § (2) bekezdés a) pontja alapján – ez esetben az egészségi vagy pszichikai állapota miatti megszűnés kivételével –, b) pontja alapján, továbbá az 59. § (1) bekezdés b), d) pontja alapján szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.”
