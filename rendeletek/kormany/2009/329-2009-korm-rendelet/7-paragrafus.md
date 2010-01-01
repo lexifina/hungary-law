@@ -1,0 +1,1 @@
+## 6. § Ha a jegyzékben szereplő fogyasztóvédelmi szervezet megszűnésének megállapítása vagy a fogyasztóvédelmi szervezet feloszlatása a miniszter hivatalos tudomására jut, az erről szóló bírósági határozat alapján kezdeményezi az Európai Bizottságnál a fogyasztóvédelmi szervezet jegyzékből való törlését.
