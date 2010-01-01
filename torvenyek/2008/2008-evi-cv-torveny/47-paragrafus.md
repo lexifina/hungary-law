@@ -1,0 +1,1 @@
+47. § A Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 88. §-ának (11) bekezdésével átszámozott Áht. 24. §-a (13) bekezdésének számozása (14) bekezdésre változik, azzal, hogy a bekezdésben a „fejezet felügyeletét ellátó szerv” szövegrész helyébe „fejezetet irányító szerv” szöveg lép.

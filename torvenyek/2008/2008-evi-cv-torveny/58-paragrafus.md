@@ -1,0 +1,1 @@
+58. § E törvény 1. §-ának és 15. §-ának alkalmazásában jogszabályon, 3. §-a (5) bekezdésének és 8. §-a (2) és (7) bekezdésének alkalmazásában törvényen az Országgyűlés Hivatala tekintetében az Országgyűlés – az Alkotmány 24. §-ának (4) bekezdése alapján megalkotott – Házszabályát is érteni kell.
