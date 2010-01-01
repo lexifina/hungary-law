@@ -1,0 +1,1 @@
+9/A. § A fogvatartottak kötelező foglalkoztatása keretében előállítandó termékek, illetve teljesítendő szolgáltatások körét a miniszter rendeletben, azoknak a fegyveres, valamint a rendvédelmi szervek részére – a költségvetési előirányzat átcsoportosítása mellett – történő átadás-átvételének rendjét a miniszter utasításban határozza meg.

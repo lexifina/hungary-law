@@ -1,0 +1,1 @@
+31. § Az adatkezelő szerv gondoskodik a nyilvántartott adatok védelméről, az arra jogosultak megfelelő tájékoztatásáról, az adatokhoz való illetéktelen hozzáférés, közlés, megváltoztatás vagy törlés megakadályozásáról.

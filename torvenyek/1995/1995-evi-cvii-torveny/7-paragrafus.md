@@ -1,0 +1,1 @@
+7. § A bv. szervek anyagi-technikai ellátására, a személyi állomány oktatására, továbbképzésére, egyes szociális és egészségügyi feladatok ellátására büntetés-végrehajtási intézmény (a továbbiakban: intézmény) alapítható.
