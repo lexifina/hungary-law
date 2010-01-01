@@ -1,0 +1,1 @@
+16. § Felhatalmazást kap a Kormány, hogy rendelettel a 15. §-ban meghatározott adótételtől eltérő adótételt állapítson meg, illetőleg a 13. § hatálya alá nem eső gépjárművet mentesítse az adó alól. Államokkal szemben az adómérséklés vagy az adómentesség feltétele a viszonosság.

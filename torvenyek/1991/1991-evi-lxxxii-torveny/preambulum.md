@@ -1,0 +1,1 @@
+Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, a települési, a fővárosban a kerületi önkormányzatok bevételeinek gyarapítása, valamint a közúthálózat karbantartásához és fejlesztéséhez szükséges források bővítése érdekében a gépjárművek adójáról a következő törvényt alkotja:
