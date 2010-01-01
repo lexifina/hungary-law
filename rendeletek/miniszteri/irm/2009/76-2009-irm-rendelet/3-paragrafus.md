@@ -1,0 +1,1 @@
+## „(2) A tulajdonos (üzembentartó) a Hivatalnál elektronikus úton is kezdeményezheti a rövid szöveges üzenet fogadására szolgáló elérhetőségének, telefonszámának vagy elektronikus levélcímének, valamint az ezen adataiban bekövetkezett változás járműnyilvántartásba történő bejegyzését.”
