@@ -1,0 +1,1 @@
+## szerinti feladatok ellátására.
