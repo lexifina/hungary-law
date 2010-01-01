@@ -1,0 +1,1 @@
+## Hatálybalépés és átmeneti rendelkezések

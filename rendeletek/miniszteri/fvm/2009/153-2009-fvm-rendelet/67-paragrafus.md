@@ -1,0 +1,1 @@
+## 66. § Az Evt. hatálybalépésekor nyilvántartott erdőgazdálkodók az Evt. 18. § (6) bekezdésében foglalt adatok teljes körű nyilvántartásának biztosítása érdekében kötelesek a hiányzó adatokat az erdőgazdálkodási tevékenységükre vonatkozó soron következő bejelentéssel egyidejűleg, de legkésőbb 2010. december 31-ig az erdészeti hatóságnál bejelenteni.

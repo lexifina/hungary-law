@@ -1,0 +1,5 @@
+4. § (1) Erdőben tervezett kerítés építésének engedélyezése iránti kérelemben meg kell jelölni a kerítés célját, és a fenntartás tervezett időtartamát. A kérelemhez csatolni kell a kerítés műszaki megvalósításának leírását, műszaki vázrajzot, amely legalább két oszlopközt, a kapuk és az átjárók szerkezeti felépítését ábrázolja, valamint a kerítés tervezett nyomvonalát ábrázoló erdészeti nyilvántartási térkép 1:10 000 méretarányú másolatát.
+
+(2) A vadkárelhárító kerítés létesítése meghaladja a rendes erdőgazdálkodás körét, ezért a (3) bekezdésben említett kivétellel csak abban az esetben létesíthető, ha a vadászati hatóság véleménye szerint az erdősítés védelme a vadállomány apasztásával, vagy más vadkár-elhárítási módszerrel nem biztosítható.
+
+(3) Nem minősül kerítésnek az öt évet meg nem haladó időre létesített vadkárelhárító villanypásztor és a makktermés védelme érdekében létesített 120 cm-nél nem magasabb vadkárelhárító kerítés, de létesítésüket az erdészeti hatósághoz előzetesen be kell jelenteni.
