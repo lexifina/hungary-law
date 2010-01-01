@@ -1,0 +1,1 @@
+## 64. § A látásfogyatékosok otthonában olyan látássérült személyeket kell elhelyezni, akik önmagukról gondoskodni más körülmények között nem tudnak, valamint olyan további szolgáltatásokat igényelnek – különös tekintettel oktatásukra, képzésükre –, mely más szervezeti keretek között nem oldható meg, vagy aránytalanul nagyobb költséggel járna.

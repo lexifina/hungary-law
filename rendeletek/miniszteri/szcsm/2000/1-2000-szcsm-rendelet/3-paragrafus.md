@@ -1,0 +1,6 @@
+3. § (1)[^3] A személyes gondoskodás biztosítása során fokozott figyelmet kell fordítani arra, hogy az ellátásban részesülő személyek emberi és állampolgári jogai ne sérüljenek. Az intézmény vezetője gondoskodik az intézményen belül az emberi és állampolgári jogok érvényesüléséről, az egyén autonómiáját elfogadó, integrációját minden eszközzel segítő, humanizált környezet kialakításáról és működtetéséről.
+
+(2)[^4] Ha az ellátásban részesülő személy jogainak, érdekeinek érvényesítésére nem képes, a személyes gondoskodást végző személy, illetőleg az intézményvezető intézkedés megtételét kezdeményezi a lakóhely szerint illetékes gyámhivatalnál, illetve a szükséges segítségnyújtás érdekében felveszi a kapcsolatot az oktatási, az egészségügyi vagy más szociális intézménnyel.
+
+[^3]: A 3. § eredeti szövegének jelölését a 6/2000. (VII. 6.) SZCSM rendelet 1. §-a (1) bekezdésre változtatta.
+[^4]: A 3. § (2) bekezdését a 6/2000. (VII. 6.) SZCSM rendelet 1. §-a iktatta a szövegbe, s egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatta; szövege a 6/2003. (II. 26.) ESZCSM rendelet 5. §-ának (2) bekezdése, a 9/2009. (IV. 11.) SZMM rendelet 11. § (5) bekezdésének ba) alpontja szerint módosított szöveg.

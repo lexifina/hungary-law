@@ -1,0 +1,20 @@
+## 19/B. §[^58] Étkeztetés, házi segítségnyújtás, valamint időskorúak nappali ellátása esetén a személyes gondoskodást nyújtó intézmény vezeti a 4. számú melléklet szerinti igénybevételi naplót.
+
+## 2. CÍM
+
+## ÉTKEZTETÉS[^59]
+
+20. § (1) Az étkeztetés formái különösen a szociális konyha, a népkonyha és egyéb főzőhely keretében nyújtott ellátás.
+
+(2)[^60] Az étkeztetést nyújtó szociális szolgáltató, intézmény
+
+a) az önkormányzat rendeletében meghatározottak szerint részt vesz a szociális rászorultság megállapításában,
+
+b) – külön jogszabály szerint – előkészíti a szolgáltatás igénybevételéhez szükséges dokumentációt,
+
+c)[^61]
+
+[^58]: A 19/B. §-t és alcímét a 2/2006. (IV. 14.) ICSSZEM rendelet 13. §-a iktatta be, hatályon kívül helyezte a 9/2006. (XII. 27.) SZMM rendelet 10. § (7) bekezdésének b) pontja. A 19/B. §-t újonnan a 35/2009. (XII. 30.) SZMM rendelet 13. §-a iktatta be.
+[^59]: A 20. §-t megelőző alcím a 2/2006. (IV. 14.) ICSSZEM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^60]: A 20. § (2) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 14. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^61]: A 20. § (2) bekezdés c) pontját a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont ba) alpontja hatályon kívül helyezte.

@@ -1,0 +1,1 @@
+## 65. § A mozgásfogyatékosok otthona olyan személynek az ellátását biztosítja, akinek mozgáskorlátozottságát az öregségi nyugdíjkorhatár betöltését megelőzően állapították meg, állapota gyógyintézeti kezelést nem igényel, valamint rehabilitációs intézményi ellátásban nem részesíthető.
