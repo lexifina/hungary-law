@@ -1,0 +1,1 @@
+92. § Az e törvényben szabályozott hivatalból indult eljárás során – halaszthatatlan esetben – tolmácsot az eljáró hatóság kirendelő végzés hiányában is igénybe vehet a hatóság és a tolmács között létrejött szerződés alapján.

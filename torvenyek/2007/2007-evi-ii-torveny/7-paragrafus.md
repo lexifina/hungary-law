@@ -1,0 +1,1 @@
+7. § Ha valamely közvetlenül alkalmazandó európai közösségi jogi aktus, nemzetközi szerződés, e törvény vagy e törvény felhatalmazása alapján kormányrendelet másként nem rendelkezik, a harmadik országbeli állampolgár három hónapot meg nem haladó tartózkodás céljából történő beutazásához és tartózkodásához vízum szükséges.

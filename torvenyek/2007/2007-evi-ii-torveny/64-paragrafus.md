@@ -1,0 +1,1 @@
+64. § Az a harmadik országbeli állampolgár, akinek kijelölt helyen való tartózkodását az idegenrendészeti hatóság elrendelte, az elrendelő idegenrendészeti hatóság hozzájárulásával – érvényes munkavállalási engedéllyel – jogosult arra, hogy keresőtevékenységet folytasson.

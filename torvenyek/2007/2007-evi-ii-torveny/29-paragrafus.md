@@ -1,0 +1,33 @@
+29. § (1) Az e törvényben foglalt tartózkodási feltételek hiányában humanitárius célból tartózkodási engedéllyel kell ellátni
+
+a) akit a Magyar Köztársaság hontalanként ismert el;
+
+b) akit a Magyar Köztársaság befogadottként ismert el;
+
+c) azt a harmadik országbeli állampolgárt, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
+
+d) azt a harmadik országbeli állampolgárt, aki a Magyar Köztársaság területén született és azt követően a magyar jog szerint érte felelős személy felügyelete nélkül maradt, illetve a kísérő nélküli kiskorút;
+
+e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből az ügyész, a bíróság, illetve a nemzetbiztonsági szerv indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon – együttműködik.
+
+(2) A humanitárius célból kiadott tartózkodási engedély érvényességi ideje
+
+a) az (1) bekezdés a)–d) pontjában foglalt esetben egy év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
+
+b) az (1) bekezdés e) pontjában foglalt esetben hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható.
+
+(3) A humanitárius célból kiadott tartózkodási engedély – a 18. § (1) bekezdésben foglaltaktól eltérően – nem hosszabbítható meg, illetve azt vissza kell vonni, ha
+
+a) a kiadására okot adó körülmény már nem áll fenn;
+
+b) a harmadik országbeli állampolgár tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt;
+
+c) a visszavonást a kiadást indítványozó hatóság vagy szerv az a) pontban meghatározott vagy más okból kezdeményezi.
+
+(4) Ha a tartózkodási engedély humanitárius célból történő kiadására az arra feljogosított hatóság vagy szerv indítványa alapján kerül sor, a tartózkodási engedély visszavonása, meghosszabbítása vagy a meghosszabbítás megtagadása az indítványozásra jogosult hatóság vagy szerv kezdeményezésére vagy hozzájárulásával történhet.
+
+(5) Az (1) bekezdés d) pontjának hatálya alá tartozó harmadik országbeli állampolgár tartózkodási engedélye csak akkor vonható vissza, illetve a tartózkodási engedélyben meghatározott tartózkodási idő meghosszabbítása csak akkor tagadható meg, ha származási országában, illetve az őt befogadó más államban a család egyesítése, illetve az állami vagy más intézményi gondoskodás biztosított.
+
+(6) A befogadottat megilletik a tartózkodási engedéllyel rendelkezőknek, illetve a befogadottaknak külön törvényben biztosított jogok. A befogadott köteles személyazonosságának megállapítását elősegíteni, de a személyazonosság bizonyításának hiánya miatt a tartózkodási engedély kiadása nem tagadható meg.
+
+(7) A befogadott, illetve az (1) bekezdés e) pontja alapján tartózkodási engedéllyel ellátott harmadik országbeli állampolgár, aki emberkereskedelem áldozata, külön jogszabályban meghatározott ellátásra és támogatásra jogosult.

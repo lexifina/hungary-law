@@ -1,0 +1,1 @@
+5. § A külön törvény alapján a magyar menekültügyi hatóság által menekültként elismert, illetve ideiglenes vagy kiegészítő védelemben részesített harmadik országbeli állampolgárra kizárólag e törvény IV. fejezetének nemzeti letelepedési engedélyre vonatkozó rendelkezéseit kell alkalmazni.
