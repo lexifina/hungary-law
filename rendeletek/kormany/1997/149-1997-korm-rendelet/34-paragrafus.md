@@ -1,0 +1,21 @@
+## HARMADIK RÉSZ
+
+## HÁZASSÁGKÖTÉS, ÖRÖKBEFOGADÁS,
+
+## CSALÁDI JOGÁLLÁS
+
+## V. Fejezet
+
+## A kiskorú házasságkötésének engedélyezésével kapcsolatos ügyek
+
+34. § (1) A 16. évét betöltött házasuló a házasságkötés engedélyezése iránti kérelmet a gyámhivatalnál vagy az anyakönyvvezetőnél személyesen terjesztheti elő.
+
+(2)[^123] A házasságkötéshez szükséges előzetes engedély megadása iránti kérelemhez csatolni kell
+
+a) a háziorvos arra vonatkozó igazolását, hogy a kiskorú gyermek a házasságkötéshez szükséges testi és értelmi fejlettséggel rendelkezik,
+
+b) a házasulandó felek jövedelemigazolását, amelyből megállapítható, hogy a 16. életévet betöltött házasuló, illetve a meglévő vagy a 18. életévének elérése előtt születendő gyermekének megélhetése és lakhatása a házasságkötés után biztosítva van,
+
+c) a családvédelmi szolgálat tanácsadásán való részvételt tanúsító igazolást.
+
+[^123]: A 34. § (2) bekezdése a 14/2003. (II. 12.) Korm. rendelet 14. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.

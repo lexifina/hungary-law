@@ -1,0 +1,18 @@
+## rendelkezik a Magyar Államkincstár felé a 6. számú melléklet szerint igényelt támogatásoknak a települési önkormányzatok részére történő átutalásáról.
+
+## Óvodáztatási támogatás[^259]
+
+68/F. §[^260] (1) A települési önkormányzat jegyzője a Gyvt. 20/C. §-ában meghatározott feltételek fennállása esetén a Gyvt. 20/A. §-a szerinti pénzbeli támogatás és a Gyvt. 20/B. § (4)–(5) bekezdése szerinti pótlék mellett óvodáztatási támogatást folyósít.
+
+(2) Az óvodáztatási támogatást ugyanazon gyermek után csak az egyik szülő igényelheti.
+
+(3)[^261] Az óvodáztatási támogatás iránti 11. számú melléklet szerinti kérelmet a szülő lakcíme szerint illetékes települési önkormányzat polgármesteri hivatalánál kell előterjeszteni. A kérelemben a gyermek szülői felügyeletet gyakorló szülőjének nyilatkoznia kell arról, hogy gyermekének hároméves koráig legfeljebb az iskola nyolcadik évfolyamán folytatott tanulmányait fejezte be sikeresen, kivéve, ha korábban erről a közoktatásról szóló 1993. évi LXXIX. törvény végrehajtásáról szóló 20/1997. (II. 13.) Korm. rendelet 7. számú melléklete szerint már nyilatkozott.
+
+(4) Az óvodáztatási támogatásra való jogosultságot akkor lehet megállapítani, ha a szülő a gyermekét annak az évnek az utolsó napjáig beíratta az óvodába, amelyben a gyermek a negyedik életévét betöltötte.
+
+(5)[^262] Lakcímváltozás esetén az óvodáztatási támogatásra jogosult személy kérésére vagy az új lakcím szerint illetékes jegyző megkeresésére az ügyben keletkezett iratokat a korábbi lakcím szerint illetékes jegyző haladéktalanul, de legkésőbb 5 munkanapon belül átteszi a jogosult új lakcíme szerint illetékes jegyzőnek.
+
+[^259]: A 68/F. §-t megelőző alcímet a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be.
+[^260]: A 68/F. §-t a 275/2008. (XI. 21.) Korm. rendelet 8. §-a iktatta be. E módosító rendelet 23. § (2) bekezdése alapján az 1997: XXXI. törvény 160/A. §-a alapján a gyermeküket 2009. január 1-je előtt az óvodába beírató és tízezer forint óvodáztatási támogatásra jogosult szülő kérelmének benyújtására, elbírálására és a támogatás folyósítására a 149/1997. (IX. 10.) Korm. rendelet 68/F., 68/G., 68/I., 68/K. §-ait kell megfelelően alkalmazni.
+[^261]: A 68/F. § (3) bekezdése a 340/2008. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^262]: A 68/F. § (5) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 40. pontja szerint módosított szöveg. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
