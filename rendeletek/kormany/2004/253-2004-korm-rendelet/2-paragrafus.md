@@ -1,0 +1,1 @@
+## A hatósági engedélyezés szabályai
