@@ -1,0 +1,7 @@
+177. § (1) Ha a Felügyelet a Magyar Köztársaság területén más EGT-államban székhellyel rendelkező befektetési vállalkozás vagy piacműködtető határon átnyúló tevékenysége vagy a Magyar Köztársaság területén létesített fióktelepe esetében jogszabályban vagy a jogszabály szerinti szabályzatban foglalt rendelkezés megsértését tapasztalja, a befektetők védelme érdekében a 164. § (1) bekezdésének a), b), e), h), m), n), p) és s) pontjaiban foglalt intézkedést hozhat, továbbá a 179. § szerinti esetben alkalmazhatja az Fttv.-ben meghatározott jogkövetkezményeket.
+
+(2) A 176. §-ban nem említett rendelkezések megsértése esetén a Felügyelet értesíti a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
+
+(3) Ha a Felügyelet a (2) bekezdésben foglalt értesítést követően, a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságának intézkedései nyomán vagy azok ellenében, a befektetési vállalkozás vagy a fióktelepe továbbra is a jogszabályban vagy a jogszabály szerinti szabályzatban foglaltakkal ellentétes viselkedését tapasztalja, azt követően, hogy erről a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságát értesítette, minden olyan intézkedést megtesz, amely az ügyfeleknek történő károkozást, illetve az intézményrendszer stabilitásának hátrányos változását megakadályozza.
+
+(4) A Felügyelet az (1) és (2) bekezdés alapján megtett intézkedéséről és annak indokolásáról haladéktalanul tájékoztatja az intézkedéssel érintett befektetési vállalkozást vagy piacműködtetőt és a Bizottságot.

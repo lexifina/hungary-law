@@ -1,0 +1,1 @@
+A befektetési szolgáltatási tevékenység hazai és európai szabályainak egységesítése, átláthatósága, a nemzetközi versenyképesség fejlesztése, a befektetők, ügyfelek védelme és a szektor hatékony felügyelete érdekében az Országgyűlés a következő törvényt alkotja:

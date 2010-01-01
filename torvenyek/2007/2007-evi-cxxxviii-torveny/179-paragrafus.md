@@ -1,0 +1,5 @@
+## XXX. Fejezet
+
+## ELJÁRÁS A FOGYASZTÓKKAL SZEMBENI KERESKEDELMI GYAKORLATRA VONATKOZÓ RENDELKEZÉSEK MEGSÉRTÉSE ESETÉN
+
+179. § A fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezések megsértése esetén az Fttv.-ben meghatározott hatóság jár el az ott meghatározott szabályok szerint, ha a jogsértés az Fttv. 2. §-ának a) pontja értelmében vett fogyasztót érint, vagy ha lakossági ügyfelet, illetve olyan leendő szerződő felet érint, aki a szerződés hatálybalépését követően lakossági ügyfélnek minősül, azzal, hogy az e törvény szerinti lakossági ügyfél (leendő szerződő fél) az Fttv. alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.

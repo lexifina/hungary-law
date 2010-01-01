@@ -1,0 +1,1 @@
+83. § Az árutőzsdei szolgáltató a 82. §-ban foglalt kötelezettségét írásban – ha az ügyféllel kötött megállapodása ettől eltérően nem rendelkezik – magyar nyelven, világos és közérthető formában, a magyar nyelv szabályainak megfelelő formában teljesíti.

@@ -1,0 +1,1 @@
+145. § A piacműködtető a multilaterális kereskedési rendszer működtetéséért felelős vezetőt (a továbbiakban: működtetési vezető) választ, aki felelős a multilaterális kereskedési rendszer működésére vonatkozó jogszabályokban és szabályzatokban foglaltak betartásáért, valamint kapcsolatot tart a Felügyelettel.

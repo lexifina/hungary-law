@@ -1,0 +1,3 @@
+46. § (1) Ha a befektetési vállalkozás a 45. § (1) bekezdésében meghatározott információ alapján úgy ítéli meg, hogy a szerződésben foglalt pénzügyi eszköz vagy ügylet nem megfelelő a leendő szerződő fél vagy az ügyfél számára, erre felhívja a leendő szerződő fél, illetőleg az ügyfél figyelmét.
+
+(2) Ha a leendő szerződő fél vagy az ügyfél nem adja meg a 45. § (1) bekezdésében meghatározott információt vagy a megadott információt a befektetési vállalkozás elégtelennek tartja, felhívja a leendő szerződő fél, illetőleg az ügyfél figyelmét arra, hogy ebben az esetben nem képes a szerződésben foglalt pénzügyi eszköz vagy ügylet megfelelőségét megállapítani.

@@ -1,0 +1,1 @@
+130. § A végelszámoló díjának összege nem haladhatja meg a befektetési vállalkozás vagy az árutőzsdei szolgáltató Ctv. 98. §-a (3) bekezdésének a) pontjában meghatározott tevékenységet lezáró beszámoló mérlege szerinti eszközök könyv szerinti értékének 0,4 százalékát.
