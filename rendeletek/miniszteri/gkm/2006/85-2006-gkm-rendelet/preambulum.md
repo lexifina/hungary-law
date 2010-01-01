@@ -1,0 +1,1 @@
+Az árak megállapításáról szóló 1990. évi LXXXVII. törvény 7. §-ának (1) és (2) bekezdésében, valamint a postáról szóló 2003. évi CI. törvény 53. §-ának (4) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
