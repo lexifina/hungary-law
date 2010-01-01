@@ -1,0 +1,5 @@
+9. § (1) A zárjegyet arra a jövedéki termékre is a 8. §-ban előírt módon kell felhelyezni, amely nem önállóan, hanem más ajándéktárgyakkal együtt kerül értékesítésre.
+
+(2) A hatósági felügyeletet ellátó vám- és pénzügyőri hivatal a 7. § (2) bekezdésében foglalt előírások betartását köteles rendszeresen vizsgálni.
+
+(3) Az alkoholterméknek minősülő nem közösségi áru, valamint az adóhatósági, a bírósági végrehajtási eljárásban lefoglalt áru esetén a zárjeggyel való ellátási kötelezettség azt az adóraktár engedélyest, jövedéki engedélyes kereskedőt vagy nem jövedéki engedélyes kereskedőt terheli, amely (aki) a nem közösségi árut, árut átveszi (a továbbiakban: átvevő). A zárjegyet a Hivatal a nem közösségi árut, az árut értékesítésre átadó vámszerv, illetve a végrehajtást végző hatóság székhelye szerint illetékes hatósági felügyeletet ellátó vám- és pénzügyőri hivatal útján adja ki az átvevőnek. A zárjegyet a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal ellenőrzése mellett kell felragasztani, és a zárjegyfelhasználásról a 12. §-ban foglaltak értelemszerű alkalmazásával elszámolni.
