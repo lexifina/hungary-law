@@ -1,0 +1,1 @@
+57. § A vámkódex 232. cikke (1) bekezdésének b) pontjában meghatározott kamat mértéke az esedékes vám és nem közösségi adók és díjak összege után minden megkezdett napra a fizetési határidő lejártát követő naptól a tartozás megfizetése napjáig a felszámítás napján érvényes jegybanki alapkamat kétszeresének 365-öd része, de legalább kettőezer forint.

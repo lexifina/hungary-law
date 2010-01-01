@@ -1,0 +1,1 @@
+7/K. § Az utólagos ellenőrzés eredményéről az utólagos ellenőrzést lefolytató szerv – a külön jogszabályban meghatározott, 485/2008/EK tanácsi rendelet szerint végzett utólagos ellenőrzés esetét kivéve – határozatot hoz.

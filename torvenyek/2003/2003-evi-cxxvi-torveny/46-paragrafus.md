@@ -1,0 +1,1 @@
+46. § A vámhatóság vámbiztosítékként azt a készpénz letétbe helyezést fogadja el, amely a vámhatóság kezelésében lévő központi vámletét számlán a vámhatóság által meghatározott egyedi azonosítással rendelkezése alá került. Az egyedi azonosítás részletes szabályait e törvény végrehajtási rendelete határozza meg.

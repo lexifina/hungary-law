@@ -1,0 +1,1 @@
+64. § Amennyiben a közösségi vámjog a nem tarifális vámmentességek alkalmazása vonatkozásában különleges felhatalmazást vagy engedélyt ír elő, az engedélyt vagy a felhatalmazást a meghatározott feltételeket teljesítő személy részére lehet megadni.

@@ -1,0 +1,1 @@
+Az Országgyűlés az Európai Közösség belső piacának működése és a közösségi vámjog maradéktalan érvényesülése, valamint a bevételek biztosítása érdekében, figyelembe véve a közösségi vívmányokat, a következő törvényt alkotja:

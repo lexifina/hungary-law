@@ -1,0 +1,5 @@
+## A vámkódex 233. cikkéhez
+
+57/A. § (1) A vámkódex 233. cikke, valamint az EK végrehajtási rendelet 867. és 867a. cikke sérelme nélkül, a lefoglalt és kiadni rendelt, a lefoglalt és előzetesen értékesített, valamint az elkobzott nem közösségi áru vámjogi sorsának rendezésére – beleértve a vámtartozás keletkezését, valamint a vámadós személyének megállapítását – a közösségi vámjog, e törvény és végrehajtási rendeletének előírásait kell alkalmazni, a vonatkozó büntetőeljárási és jövedéki jogszabályok figyelembevételével.
+
+(2) A nem közösségi áru értékesítéséből befolyt összegből ki kell egyenlíteni a vámtartozást és az azzal együtt beszedendő nem közösségi adókat és díjakat. Elkobzott nem közösségi áru értékesítése esetén, valamint ha a lefoglalás hatálya alatt előzetesen értékesített nem közösségi áru helyébe lépő ellenérték elkobzásra kerül, az értékesítésből befolyt összegből az értékesítéssel kapcsolatos költségeket is le kell vonni. A fennmaradó összeget központi költségvetési bevételként kell elszámolni.
