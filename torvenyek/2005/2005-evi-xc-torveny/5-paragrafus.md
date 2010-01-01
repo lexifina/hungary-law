@@ -1,0 +1,1 @@
+5. § A 6. §-ban meghatározott közzétételi listákban szereplő adatok közzététele nem érinti az adott szervnek az Avtv. 20. §-ában meghatározott, továbbá a közérdekű vagy közérdekből nyilvános adatok közzétételével kapcsolatos más jogszabályban meghatározott kötelezettségeit.
