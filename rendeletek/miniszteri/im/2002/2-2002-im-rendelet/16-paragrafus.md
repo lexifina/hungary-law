@@ -1,0 +1,3 @@
+16. § (1) A munkáltatói kölcsönben részesült bv. dolgozó halála esetén az özvegy, az élettárs vagy az örökös a kölcsöntartozást változatlan feltételekkel fizetheti vissza.
+
+(2) Ha a lakás a házassági vagyonközösség felbontásával a bv. dolgozó lakásban maradó, volt házastársának a tulajdonába kerül, abban az esetben, ha a volt házastárs maga is bv. dolgozó, a munkáltatói kölcsönt változatlan feltételekkel fizetheti vissza. Ha a volt házastárs nem bv. dolgozó, a munkáltatói kölcsönt változatlan törlesztési idő alatt fizetheti vissza, de a még fennálló tartozás után a Ptk. 232. §-ának (2) bekezdésében meghatározott kamatot köteles megfizetni.
