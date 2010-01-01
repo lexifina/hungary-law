@@ -1,0 +1,5 @@
+30. § (1) A készletezéshez, a készletnöveléshez, továbbá a Szövetség működéséhez szükséges eszközöket – az éves költségvetés alapján – a tagok pénzbeli hozzájárulás formájában bocsátják a Szövetség rendelkezésére.
+
+(2) A Szövetség éves költségvetésében megtervezi a készletek értékesítésének várható bevételeit, az egyéb bevételeket, illetve az értékesítés ráfordításait, a működés költségeit, a készletnövelés miatti tőkefeltöltés pénzszükségletét, valamint a bevételek és a ráfordítások különbözeteként a tagok hozzájárulásának összegét. A költségvetéshez mellékelni kell a biztonsági készletek alakulásának mérlegszerű összeállítását, amely tartalmazza a készletek nyitó értékét — a készletnövekedés értékét — a készletcsökkenés összegét, és ezek eredőjeként a zárókészlet értékét, valamint a záró és nyitó készletérték különbözetét, mint a készletezés tagok általi hozzájárulásának egyik összetevőjét.
+
+(3) A Szövetség az éves költségvetés alapján határozza meg a termékcsoportonkénti egységnyi hozzájárulás értékét.

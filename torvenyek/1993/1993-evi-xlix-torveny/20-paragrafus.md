@@ -1,0 +1,1 @@
+20. § A közgyűlés a 19. § a) és b) pontjaiban meghatározott ügyekben a jelenlévő tagok kétharmados szavazattöbbségével, más ügyekben — ha az Alapszabály minősített többséget nem ír elő — a jelenlévő tagok egyszerű szavazattöbbségével határoz.

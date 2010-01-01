@@ -1,0 +1,1 @@
+25. § Ha az igazgató tanács választott tagjának megbízatása a 23. §-ban meghatározott időtartam letelte előtt megszűnik, a hátralévő időre új tagot kell választani. Az új tagot a legközelebbi közgyűlésen választják meg.

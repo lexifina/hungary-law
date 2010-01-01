@@ -1,0 +1,1 @@
+47. § A törvény 9. §-ában előírt kötelezettség azokra a jogi és természetes személyekre terjed ki, akik (amelyek) 1992. évben biztonsági tartalék képzési kötelezettséggel járó kőolajat vagy kőolajterméket hoztak be.

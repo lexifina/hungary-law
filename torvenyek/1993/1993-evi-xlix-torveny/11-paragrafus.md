@@ -1,0 +1,1 @@
+11. § A Szövetség feladata a 3. § (2) bekezdésében és a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott mértékű biztonsági készletképzés feltételeinek megteremtése és fenntartásának biztosítása, valamint az ehhez szükséges tárolók létesítése, működtetése és fejlesztése. A Szövetség nem alanya a társasági adónak.
