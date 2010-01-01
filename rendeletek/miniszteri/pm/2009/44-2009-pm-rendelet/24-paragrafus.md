@@ -1,0 +1,3 @@
+## „(8) A Jöt. 13. § (1) bekezdés g) pontja szerinti esetben az adómegállapítási és adófizetési kötelezettség alóli végleges mentesüléshez a 45. számú melléklet szerinti adattartalommal kiállított, szigorú számadású bizonylat szükséges. A bizonylat egyik példányát át kell adni a hajó üzemeltetője vagy a képviseletére jogosult személy részére.
+
+## (9) A hajó üzemanyagtartályába betöltött gázolajról kiállított e-TKO tervezet 5.b rovatában a címzett mellett a hajó nevét, 16.b rovatában a hajó lajstromozási jelét, 9.f rovatában a pontos időpont meghatározásánál az órát is fel kell tüntetni. Az e-TKO tervezetet a kikötői adóraktár engedélyese a gázolaj hajóba történt betöltését követően állítja ki.”

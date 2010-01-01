@@ -1,0 +1,1 @@
+## 50. § A hordós és kannás borra előírt hivatalos zár alkalmazásának, valamint elszámolásának részletes szabályairól szóló 41/2002. (XII. 6.) PM rendelet 4. §-a (1) bekezdésében a „vagy nem bejegyzett kereskedői” szövegrész hatályát veszti.

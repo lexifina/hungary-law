@@ -1,0 +1,3 @@
+## 19. § A JötR. 42. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A Jöt. rendelkezései alapján kizárólag szeszüzem által előállítható, értékesíthető cukorcefre alatt az olyan – alkoholtartalmú jövedéki termék előállítására alkalmas – anyagot kell érteni, amelynek szénhidrát tartalma 50%-ot meghaladó mértékben cukor- vagy keményítőtartalmú mezőgazdasági eredetű termékből származik, és amelyből etilalkohol erjeszthető. E tekintetben nem minősül cukorcefrének az egyéb borászati üzemben az egyéb bor előállításához felhasználásra kerülő alapanyag, a feldolgozás során keletkező gyártásközi termék, illetve előállított egyéb bor, amennyiben az előállítás a külön jogszabály szerinti előírások betartásával történik.”
