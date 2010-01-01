@@ -1,0 +1,1 @@
+16. § Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy a pénzforgalmi szolgáltató nem köteles a keretszerződés módosítását a 8. §-ban meghatározott módon kezdeményezni.

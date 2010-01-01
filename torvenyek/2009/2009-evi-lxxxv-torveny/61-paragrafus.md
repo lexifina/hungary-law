@@ -1,0 +1,7 @@
+61. § (1) A fizető fél ugyanazon pénzforgalmi szolgáltatónál vezetett fizetési számlái a hatósági átutalás és átutalási végzés alapján teljesített átutalás teljesítése szempontjából egy fizetési számlának minősülnek.
+
+(2) A hatósági átutalás és átutalási végzés alapján teljesített átutalás teljesítése során a hatósági átutalási megbízásban és az átutalási végzésben szereplő pénznemmel azonos pénznemben vezetett fizetési számlát kell figyelembe venni, ha a fizető fél rendelkezik ilyen pénznemben vezetett fizetési számlával. Ha a fizető fél nem rendelkezik ilyen pénznemben vezetett fizetési számlával vagy az azonos pénznemben vezetett fizetési számlán nem, vagy csak részben volt fedezet, akkor a forintban, majd az egyéb pénznemben vezetett fizetési számlát kell figyelembe venni. Pénznemek közötti átváltás esetén a terhelést végző pénzforgalmi szolgáltató által jegyzett – a pénzforgalmi számla megterhelésének napján érvényes – devizavételi árfolyamot kell alkalmazni.
+
+(3) A terhelést végző pénzforgalmi szolgáltató által nem jegyzett pénznemre szóló, hatósági átutalási megbízás és átutalási végzés esetén e fizetési megbízást forintban kell teljesíteni. A forintra történő átváltást a Magyar Nemzeti Bank által közzétett, a terhelés napján érvényes hivatalos devizaárfolyamon kell elvégezni.
+
+(4) A hatósági átutalási megbízásra és az átutalási végzésre a rendelkezésre álló részfedezet erejéig részfizetést kell teljesíteni.

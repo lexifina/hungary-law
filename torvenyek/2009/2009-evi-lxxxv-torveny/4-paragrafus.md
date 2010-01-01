@@ -1,0 +1,3 @@
+4. § (1) A pénzforgalmi szolgáltató a II–III. és V–VI. Fejezetben előírt kötelező tájékoztatási kötelezettségének teljesítéséért az ügyfél terhére nem számíthat fel külön díjat, költséget vagy egyéb fizetési kötelezettséget.
+
+(2) A felek a szerződésben kiköthetik, hogy a pénzforgalmi szolgáltató az ügyfél kérésére történő, a 24. §-ban és a 27. §-ban meghatározottnál gyakoribb, részletesebb vagy a keretszerződésben meghatározottól eltérő távközlő eszköz használatával való tájékoztatás nyújtásáért ellenértékre jogosult. Az ellenérték a pénzforgalmi szolgáltató tájékoztatása nyújtásának tényleges és közvetlenül felmerülő költségeinek felel meg.

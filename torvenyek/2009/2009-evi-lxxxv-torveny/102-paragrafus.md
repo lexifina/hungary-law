@@ -1,0 +1,1 @@
+102. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 45. §-ának (1) bekezdésében a „bankszámlájának számát” szövegrész helyébe „pénzforgalmi számlájának számát” szöveg lép.

@@ -1,0 +1,1 @@
+55. § A pénzforgalmi szolgáltató mentesül a felelősség alól, ha bizonyítja, hogy a VII–IX. Fejezetben meghatározott kötelezettségének teljesítését tevékenysége körén kívül eső elháríthatatlan ok (vis maior), vagy jogszabályban vagy közösségi jogi aktusban előírt rendelkezések zárták ki.

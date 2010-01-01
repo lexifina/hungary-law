@@ -1,0 +1,5 @@
+43. § (1) A jóvá nem hagyott vagy a jóváhagyott, de hibásan teljesített fizetési művelet helyesbítése iránti kérelem esetén a pénzforgalmi szolgáltató köteles bizonyítani – adott esetben a hitelesítés által –, hogy a kifogásolt fizetési műveletet a fizető fél jóváhagyta, a fizetési művelet megfelelően került rögzítésre, és a teljesítést műszaki hiba vagy üzemzavar nem akadályozta.
+
+(2) A jóvá nem hagyott fizetési művelet helyesbítése iránti kérelem esetén a készpénz-helyettesítő fizetési eszköz használata önmagában nem bizonyítja, hogy a fizető fél csalárd módon járt el, vagy a fizetési műveletet jóváhagyta, vagy a 40. § (1) és (2) bekezdésében meghatározott kötelezettséget szándékosan vagy súlyosan gondatlanul megszegte.
+
+(3) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy az (1) és (2) bekezdés nem alkalmazandó, ha az ügyfél olyan készpénz-helyettesítő fizetési eszközt használ, amely az ügyfél beazonosíthatóságát nem teszi lehetővé, vagy a pénzforgalmi szolgáltató a készpénz-helyettesítő fizetési eszköz jellege miatt nincs abban a helyzetben, hogy a művelet jóváhagyását bizonyítsa.

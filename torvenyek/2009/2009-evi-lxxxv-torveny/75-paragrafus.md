@@ -1,0 +1,1 @@
+75. § A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 98. §-ának (4) bekezdésében a „bankszámlaszámát” szövegrész helyébe a „pénzforgalmi számlaszámát” szöveg, 154. §-ának (1) bekezdésében a „munkavállaló bankszámlájára” szövegrész helyébe a „munkavállaló által meghatározott fizetési számlájára” szöveg, a „bankszámlára” szövegrész helyébe a „fizetési számlára” szöveg lép.

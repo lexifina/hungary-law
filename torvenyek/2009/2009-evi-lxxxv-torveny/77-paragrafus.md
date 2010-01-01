@@ -1,0 +1,1 @@
+77. § Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény 6. §-ának (2) bekezdésében a „pénzintézetnél vezetett forintszámlájára” szövegrész helyébe a „pénzforgalmi szolgáltatónál vezetett forintszámlájára” szöveg lép.

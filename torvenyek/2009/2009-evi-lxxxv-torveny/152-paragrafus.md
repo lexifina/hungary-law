@@ -1,0 +1,1 @@
+152. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 94. §-ának (2) bekezdésében a „bankszámla és a korlátozott rendeltetésű pénzforgalmi számla” szövegrész helyébe „pénzforgalmi számla” szöveg lép.

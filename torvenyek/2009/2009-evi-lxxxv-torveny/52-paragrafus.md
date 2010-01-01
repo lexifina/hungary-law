@@ -1,0 +1,1 @@
+52. § Az ügyfél pénzforgalmi szolgáltatója felel az általa nem teljesített vagy hibásan teljesített fizetési műveletért felszámított díj, költség vagy egyéb fizetési kötelezettség megtérítéséért, és a kamatbevétel elmaradásáért.

@@ -1,0 +1,1 @@
+72. § A szakszervezeti vagyon védelméről, a munkavállalók szervezkedési és szervezeteik működési esélyegyenlőségéről szóló 1991. évi XXVIII. törvény 2. §-a (2) bekezdésének f) pontjában a „bankszámlán” szövegrész helyébe „pénzforgalmi számlán” szöveg lép.

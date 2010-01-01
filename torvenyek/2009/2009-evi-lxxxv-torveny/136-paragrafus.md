@@ -1,0 +1,1 @@
+136. § Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 13. §-ának (2) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlára” szöveg, a „bankszámla hiányában postai úton” szövegrész helyébe „fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg lép.

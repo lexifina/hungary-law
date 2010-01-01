@@ -1,0 +1,3 @@
+24. § (1) A felek a keretszerződésben megállapodhatnak arról, hogy – a 23. §-ban foglalt haladéktalan tájékoztatástól eltérően – a 23. § (1) bekezdésének a)–e) pontjában meghatározott tájékoztatást a pénzforgalmi szolgáltató a fizető fél részére legalább havonta egy alkalommal átadja vagy rendelkezésre bocsátja, oly módon, hogy a fizető fél az adatokat az adatok céljának megfelelő ideig tartósan tárolhassa, és a tárolt adatokat változatlan formában és tartalommal megjeleníthesse.
+
+(2) Ha a fizető fél fogyasztó, kérelmére a pénzforgalmi szolgáltató a fizető fél részére havonta legalább egy alkalommal papíron díj-, költség- vagy egyéb fizetési kötelezettségmentesen átadja a 23. §-ban meghatározott adatokat.

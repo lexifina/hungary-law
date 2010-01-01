@@ -1,0 +1,1 @@
+101. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 58. §-a (4) bekezdésének g) pontjában a „számlát” szövegrész helyébe „fizetési számlát” szöveg, a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg lép.

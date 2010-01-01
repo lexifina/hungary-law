@@ -1,0 +1,1 @@
+54. § Ha a pénzforgalmi szolgáltatónak a 49–52. § szerinti felelőssége harmadik személy magatartásának vagy mulasztásának következménye, a pénzforgalmi szolgáltató e harmadik személytől a 49–52. §-ban meghatározott összeg kifizetésének megtérítését követelheti.

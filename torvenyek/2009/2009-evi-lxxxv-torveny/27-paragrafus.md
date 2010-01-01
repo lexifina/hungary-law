@@ -1,0 +1,3 @@
+27. § (1) A felek a keretszerződésben megállapodhatnak arról, hogy – a 26. §-ban foglalt haladéktalan tájékoztatástól eltérően – a 26. § (1) bekezdésének a)–e) pontjában meghatározott tájékoztatást a pénzforgalmi szolgáltató a kedvezményezett részére legalább havonta egy alkalommal átadja vagy rendelkezésre bocsátja, oly módon, hogy a kedvezményezett az adatokat az adatok céljának megfelelő ideig tartósan tárolhassa, és a tárolt adatokat változatlan formában és tartalommal megjeleníthesse.
+
+(2) Ha a kedvezményezett fogyasztó, kérelmére a kedvezményezett pénzforgalmi szolgáltatója a kedvezményezett részére havonta legalább egy alkalommal papíron díj-, költség- vagy egyéb fizetési kötelezettségmentesen átadja a 26. §-ban meghatározott adatokat.

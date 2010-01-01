@@ -1,0 +1,1 @@
+145. § A szövetkezetekről szóló 2006. évi X. törvény 11. §-ának (4) bekezdésében a „bankszámlára” szövegrész helyébe „pénzforgalmi számlára” szöveg, 40. §-ának (7) bekezdésében a „bankszámláját” szövegrész helyébe „pénzforgalmi számláját” szöveg lép.

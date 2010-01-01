@@ -1,0 +1,1 @@
+154. § A nemzeti agrárkár-enyhítési rendszerről és a kárenyhítési hozzájárulásról szóló 2008. évi CI. törvény 6. §-ának (2) bekezdésében a „banki átutalással” szövegrész helyébe „átutalással” szöveg lép.

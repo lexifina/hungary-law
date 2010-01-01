@@ -1,0 +1,1 @@
+91. § A rádiózásról és televíziózásról szóló 1996. évi I. törvény 73. §-ának (1) bekezdésében a „bankszámláját” szövegrész helyébe a „pénzforgalmi számláját” szöveg, 91. § (3) bekezdésének b) pontjában a „bankigazolást” szövegrész helyébe „igazolást” szöveg, a „bankszámlán” szövegrész helyébe „pénzforgalmi számlán” szöveg lép.

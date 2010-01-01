@@ -1,0 +1,1 @@
+73. § A munkavállalói érdek-képviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvény 2. § (1) bekezdésének a) pontjában a „bankszámlára” szövegrész helyébe „fizetési számlára” szöveg lép.

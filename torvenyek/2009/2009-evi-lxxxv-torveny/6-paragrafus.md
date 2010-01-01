@@ -1,0 +1,3 @@
+6. § (1) Ha a fizetési művelethez kapcsolódó pénznemek közötti átváltásra a fizetési megbízás megadása előtt kerül sor, és a pénznemek közötti átváltás a fizetés helyén vagy a kedvezményezett által történik, a pénznemek közötti átváltást végző köteles tájékoztatni a fizető felet a fizetési megbízásra irányuló jognyilatkozatát megelőzően az alkalmazandó átváltási árfolyamról és valamennyi ehhez kapcsolódó díjról, költségről vagy egyéb fizetési kötelezettségről.
+
+(2) Az (1) bekezdés szerinti tájékoztatást követően a pénznemek közötti átváltást a fizető félnek jóvá kell hagynia.

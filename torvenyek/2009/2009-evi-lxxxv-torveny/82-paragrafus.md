@@ -1,0 +1,1 @@
+82. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény 38. §-ának (2) bekezdésében a „bankszámlájára” szövegrész helyébe a „pénzforgalmi számlájára” szöveg lép.

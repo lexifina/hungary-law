@@ -1,0 +1,1 @@
+11. § A szerződés fennállása alatt az ügyfél kérésére a pénzforgalmi szolgáltató bármikor köteles a szerződési feltételeket és a 10. § szerinti adatokat papíron vagy tartós adathordozón rendelkezésre bocsátani.
