@@ -1,0 +1,5 @@
+34. § (1) A felszámolás kezdő időpontjában megszűnnek a tulajdonosnak a gazdálkodó szervezettel kapcsolatos külön jogszabályokban meghatározott jogai.
+
+(2) A felszámolás kezdő időpontjától a gazdálkodó szervezet vagyonával kapcsolatos jognyilatkozatot csak a felszámoló tehet. A felszámolás kezdő időpontjától az adós cég nevét a „felszámolás alatt” („f. a.”) toldattal kiegészítve kell használni. A felszámolónak haladéktalanul be kell jelentenie az adós számláit vezető pénzforgalmi szolgáltatóknak a kijelölését tartalmazó jogerős végzést, és hitelt érdemlő módon igazolt aláírását.
+
+(3) A felszámoló kérelemre tájékoztatást ad a 8. § (1) bekezdésében meghatározott szervek képviselőjének, hogy kik és milyen összegre nyújtottak be hitelezői igényt, azokat a felszámoló elfogadta-e, és hova sorolta be, valamint tájékoztatást ad az 57. § (1) bekezdésének a) és c) pontjaiban felsorolt követelések összegéről és jogosultjairól. A képviseleti meghatalmazást közokirat vagy teljes bizonyító erejű magánokirat formájában kell a felszámolóhoz benyújtani.

@@ -1,0 +1,1 @@
+42. § Az egyezségi tárgyalás során a bíróság a felszámoló javaslata alapján végzésben — figyelembe véve az 57. § (1) bekezdés a), c) pontjaiban felsorolt követeléseket — meghatározza az egyezség körébe vonható vagyon mértékét.

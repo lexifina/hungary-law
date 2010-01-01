@@ -1,0 +1,7 @@
+63. § (1)
+
+(2) A minősített többséget biztosító befolyás alatt álló, valamint egyszemélyes gazdasági társaság, továbbá az egyéni cég felszámolása esetében a befolyással rendelkező, illetve az egyedüli tag (részvényes) korlátlan felelősséggel tartozik a társaság minden olyan kötelezettségéért, amelynek kielégítését a felszámolási eljárás során az adós vagyona nem fedezi, ha a hitelezőnek a felszámolási eljárás során, vagy annak jogerős lezárását követő 90 napos jogvesztő határidőn belül benyújtott keresete alapján a bíróság megállapítja e tagnak (részvényesnek) – az adós társaság felé érvényesített tartósan hátrányos üzletpolitikájára figyelemmel – korlátlan és teljes felelősségét a társaság tartozásaiért.
+
+(3) A felszámolási eljárás jogerős lezárását követő 60 napos jogvesztő határidőn belül – ki nem elégített követelése erejéig – bármely hitelező keresettel kérheti a bíróságtól [6. § (1) bekezdés], hogy a 33/A. § szerinti perben jogerősen megállapított felelősség alapján kötelezze az adós volt vezetőjét követelésének kielégítésére. Amennyiben határidőben több hitelező terjeszt elő keresetet, a bíróság a pereket egyesíti és a követelések arányos kielégítéséről rendelkezik.
+
+(4) Amennyiben a felszámolási eljárás jogerős lezárásáig a 33/A. § szerinti perben jogerős döntés nem születik, a (3) bekezdésben meghatározott jogvesztő határidő kezdő napja a 33/A. § szerinti jogerős bírósági döntés napját követő nap.

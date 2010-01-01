@@ -1,0 +1,1 @@
+Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy fizetésképtelen gazdálkodó szervezetek adósságának csődeljárásban, hitelezőkkel való egyezségkötéssel történő rendezése, ha pedig ez nem lehetséges, a fizetésképtelen gazdálkodó szervezetek felszámolás útján való megszüntetése és a hitelezői érdekek védelme érdekében a következő törvényt alkotja:

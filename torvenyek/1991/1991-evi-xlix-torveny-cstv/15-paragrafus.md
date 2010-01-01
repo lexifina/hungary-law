@@ -1,0 +1,5 @@
+15. § (1) A vagyonfelügyelő működése során az ilyen tisztséget betöltő személytől elvárható gondossággal köteles eljárni. Kötelezettségeinek megszegésével okozott kárért a polgári jogi felelősség szabályai szerint felel.
+
+(2) A vagyonfelügyelő a bíróság vagy a hitelezői gyűlés (hitelezői választmány) felhívására, 8 munkanapon belül köteles saját tevékenységéről és az adós vagyoni helyzetéről beszámolni.
+
+(3) A vagyonfelügyelő jogszabálysértő vagy a hitelezők, illetve más személy jogos érdekét sértő tevékenysége vagy mulasztása ellen a sérelmet szenvedett személy vagy szervezet, továbbá a hitelezői választmány – a tudomásszerzéstől számított 5 munkanapon belül – a csődeljárást lefolytató bíróságnál kifogással élhet. A bíróság a kifogás elbírálásáról soron kívül, de legfeljebb 5 munkanapon belül dönt. Ha a bíróság a kifogást megalapozottnak találja, a vagyonfelügyelő intézkedését megsemmisíti, vagy kötelezi a megfelelő intézkedés megtételére, ellenkező esetben a kifogást elutasítja. A bíróság eljárására az 51. §-ban foglaltak megfelelően irányadóak azzal az eltéréssel, hogy a kifogás elbírálása tárgyában hozott végzés ellen külön fellebbezésnek nincs helye.

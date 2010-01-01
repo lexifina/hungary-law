@@ -1,0 +1,1 @@
+32. § Ha az adós nem köteles beszámolót készíteni, a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete szerint indított fizetésképtelenségi eljárásban a felszámoló az adós nyilvántartásai alapján vagy egyéb módon megállapítja az eljárásba vonható vagyont, s erről nyitó mérleget készít.

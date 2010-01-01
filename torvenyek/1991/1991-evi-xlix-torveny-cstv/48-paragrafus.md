@@ -1,0 +1,9 @@
+48. § (1) A felszámoló az adós követeléseit esedékességkor behajtja, igényeit érvényesíti, és vagyonát értékesíti. A felszámoló a vagyont — kedvezőbb értékesítés érdekében — a hitelezőknek a 44. §-ban meghatározott arányú egyetértése esetén korlátolt felelősségű társaság, részvénytársaság vagy szövetkezet részére nem pénzbeli betétként (hozzájárulásként) rendelkezésre bocsáthatja.
+
+(2)
+
+(3) A felszámoló a felszámolási eljárás alatt köteles gondoskodni az adós vagyonának megóvásáról, megőrzéséről, különösen a mezőgazdaságilag művelhető földek termőképességének fenntartásáról, az erdőfelújítási és erdőállomány nevelési munkák elvégzéséről, továbbá a környezetvédelmi, természetvédelmi és műemlékvédelmi követelmények betartásáról, a felszámolás kezdő időpontját megelőző időszakból eredő, bizonyított környezeti károsodások, környezeti terhek olyan rendezéséről, amely az eljárás során a környezeti károsodások, illetve terhek elhárítását, megszüntetését, illetve a vagyontárgyaknak a környezeti terhekkel történő értékesítését is jelenti.
+
+(4) A felszámolási eljárás alatt betartandó környezet-, természet- és műemlékvédelmi követelményeket — ideértve a 31. § (1) bekezdésének c) pontjában foglalt nyilatkozat tartalmának meghatározását és a környezeti állapotvizsgálatra való kötelezés lehetőségét — a környezeti károk, illetve terhek rendezésének követelményeit és módját, továbbá az ebből eredő, az 57. § (2) bekezdés szerint felszámolási költségnek minősülő kiadások körét kormányrendelet szabályozza.
+
+(5) Az eljárás alatt folytatott tevékenység környezet-, természet- és műemlékvédelmi követelményeinek betartására, valamint a környezeti károk, illetve terhek rendezésére az adóst az illetékes hatóság határozatban kötelezheti.

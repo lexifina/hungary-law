@@ -1,0 +1,1 @@
+81. § E törvényben szabályozott felszámolási eljárásban nem kell alkalmazni a földről szóló 1987. évi I. törvény 13. §-ának (3) bekezdésében és az időlegesen állami tulajdonban levő vagyon értékesítéséről, hasznosításáról és védelméről szóló 1992. évi LIV. törvény 22. §-ának (1) bekezdésében foglaltakat.
