@@ -1,0 +1,1 @@
+22. § A volt miniszterelnök az e törvény 16. §-a szerinti gépkocsihasználatra, 17. §-a szerinti titkárság alkalmazására, továbbá 18. §-a szerinti, a megszűnt tisztségére utaló elnevezés használatára, valamint kérelmére – ha a reá irányadó öregségi nyugdíjkorhatárt betöltötte – a 14. § szerinti juttatásra jogosult.

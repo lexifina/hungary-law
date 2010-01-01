@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Köztársaság Alkotmányáról szóló, többször módosított 1949. évi XX. törvény 20. §-a (4) bekezdésének, 30. §-a (2) bekezdésének, 32/A. §-a (6) bekezdésének, 39. §-a (2) bekezdésének és 50. §-a (5) bekezdésének végrehajtására a következő törvényt alkotja:
