@@ -1,0 +1,6 @@
+1. § (1)[^1] A rendelet hatálya kiterjed a Tv. 3. §-ában meghatározott családi gazdaságra, családi gazdálkodóra és gazdálkodó család tagjaira.
+
+(2)[^2] E rendelet alkalmazásában élethivatásszerűen végzett mezőgazdasági és mezőgazdasági kiegészítő tevékenységnek minősül a Tv. 3. §-ának k) és l) pontjaiban meghatározott tevékenység, ha az abból származó nettó árbevétel/bevétel, illetve jövedelem a tevékenységet végző összes nettó árbevételében/bevételében, illetve jövedelmében legalább az – az 5. számú melléklet szerint kiszámított – 50 százalékos arányt eléri.
+
+[^1]: Az 1. § eredeti szövegének jelölését a 100/2005. (V. 31.) Korm. rendelet 1. §-a (1) bekezdésre változtatta.
+[^2]: Az 1. § (2) bekezdését a 100/2005. (V. 31.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. E módosító rendelet 5. §-ának (1) bekezdése alapján a rendelkezést a már nyilvántartásba vett családi gazdálkodóra is alkalmazni kell, azonban az általa a 2. számú melléklet szerint megtett nyilatkozatot az e módosító rendelet 1. számú melléklete szerinti nyilatkozatnak kell tekinteni; további alkalmazási rendelkezések tekintetében lásd az 5. § (2)–(4) bekezdését.
