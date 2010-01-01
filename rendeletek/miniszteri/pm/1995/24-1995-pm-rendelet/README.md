@@ -1,0 +1,9 @@
+# 24/1995. (XI. 22.) PM rendelet
+
+a számla, egyszerűsített számla és nyugta adóigazgatási azonosításáról, valamint a nyugta adását biztosító pénztárgép és taxaméter alkalmazásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-24-20-53
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 1995-24-20-53.16 | 24/1995. (XI. 22.) PM rendelet |
