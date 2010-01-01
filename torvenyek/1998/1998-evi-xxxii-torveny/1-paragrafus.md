@@ -1,0 +1,5 @@
+1. § Az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény (a továbbiakban: Tv.) 2. §-ának (4) bekezdése helyébe az alábbi rendelkezés lép és a következő (5) bekezdéssel egészül ki:
+
+,,(4) Ha a képviselő a megválasztása előtt ügyész, közigazgatási szerv köztisztviselője, fegyveres szervek hivatásos állományú tagja, valamint e törvény 9. § a) pontjában felsorolt hivatali alkalmazott volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
+
+(5) Ha a képviselő a megválasztása előtt bíró volt és az országgyűlési képviselői megbízatásának megszűnésekor úgy nyilatkozott, hogy ismét bíróvá történő kinevezését kéri és a bírói kinevezéséhez szükséges feltételekkel rendelkezik (ide nem értve a pályaalkalmassági vizsgálaton való részvételt) akkor őt kérelmére, pályázat kiírása nélkül, a köztársasági elnök – az Országos Igazságszolgáltatási Tanács javaslatára – határozatlan időre bíróvá kinevezi. A bírói munkakörbe történő beosztásánál az Igazságügyi Minisztériumba beosztott bíróra vonatkozó rendelkezésnek megfelelően kell eljárni.''
