@@ -1,0 +1,3 @@
+## 4. § A KTMr. 8. §-ának (9) bekezdése helyébe a következő rendelkezés lép:
+
+## „(9) A külföldről újrahasználható termékdíjköteles terméket behozó kötelezett – a (7)–(8) bekezdésben foglalt feltételek teljesülése esetén – levonhatja az adómegállapítási időszak alatt újrahasználható termék forgalomba hozatala vagy saját célú felhasználása után keletkező termékdíj-fizetési kötelezettségéből azon újrahasználható termékek termékdíját, amelyek az adómegállapítási időszakban igazoltan a külföldre visszaszállításra kerültek, amennyiben a kötelezett az első fizetési kötelezettség keletkezését követő 15 napon belül a 2. számú melléklet III. pontjában meghatározott bejelentkezési kötelezettségének eleget tett.”
