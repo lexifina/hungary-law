@@ -1,0 +1,1 @@
+22. § E rendelet a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg hatályát veszti a fegyveres erők és a fegyveres testületek hivatásos állományú tagjainak nyugdíjáról szóló 22/1971. (VI. 1.) Korm. rendeletnek a büntetés-végrehajtási testületnél történő végrehajtásáról rendelkező 103/1982. (IK 2.) IM utasítás.
