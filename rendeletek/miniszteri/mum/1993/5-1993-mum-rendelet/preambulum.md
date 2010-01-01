@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvényben (a továbbiakban: Mvt.) kapott felhatalmazás alapján — az érintett munkáltatói és munkavállalói érdekképviseleti szervezetekkel, illetőleg a 13. § (1) bekezdésének tekintetében a pénzügyminiszterrel egyetértésben — a következőket rendelem el:

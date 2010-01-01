@@ -1,0 +1,4 @@
+7. §[^11] A súlyos munkabalesetet (ide nem értve a bányászati munkabalesetet) a munkáltatónak — telefonon, telexen, telefaxon vagy személyesen — azonnal be kell jelentenie a rendelkezésére álló adatok közlésével a megyei (fővárosi) munkabiztonsági és munkaügyi felügyelőség[^12] a baleset helyszíne szerint illetékes területi szervének. A bányászati munkabalesetet a bányatörvénybenés végrehajtási szabályaiban előírtak szerint kell bejelenteni.
+
+[^11]: A Vhr. 7. §-a a 9/1996. ( XII. 20.) MüM rendelet 10. §-a (2) bekezdésének a) pontja, valamint a 20/1997. (XII.19.) MüM rendelet 7. §-ának (2) bekezdése szerint módosított szöveg.
+[^12]: A 2004: XI. törvény 34. § (5) bekezdése alapján a megyei (fővárosi) munkabiztonsági és munkaügyi felügyelőségen területi felügyelőséget, a 2005: CLV. törvény 12. § (6) bekezdése alapján a munkabiztonsági és munkaügyi felügyelőségen munkabiztonsági, munkaügyi felügyelőséget kell érteni.
