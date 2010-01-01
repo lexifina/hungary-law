@@ -1,0 +1,1 @@
+16/I. § Az elektronikusan aláírt elektronikus dokumentumok tartalmát a szolgáltató, vagy vele megbízási vagy munkaviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban álló személyek csak az igénybe vevő írásbeli engedélyével ismerhetik meg.

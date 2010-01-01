@@ -1,0 +1,7 @@
+## Önkéntes akkreditáció
+
+8/B. § (1) A szolgáltató szervezetének, rendszerének, valamint a szolgáltatás során alkalmazott termékeknek és hálózatnak a külön jogszabály szerinti informatikai biztonsági követelményeknek vagy más önként vállalt követelményeknek való megfelelését önkéntes akkreditációs rendszer keretében tanúsíttathatja.
+
+(2) A létrejött önkéntes akkreditációs rendszert a Hatóságnak a működés megkezdésekor be kell jelenteni. A bejelentésnek tartalmaznia kell az önkéntes akkreditációs rendszer elnevezését, a működtetésért felelős személy vagy szervezet nevét és székhelyét (lakóhelyét, telephelyét, működési helyét). A bejelentett adatokban bekövetkezett változásokat a működtető a Hatóságnak a változásokat követő 30 napon belül köteles bejelenteni.
+
+(3) A szolgáltató köteles bejelenteni a Hatóságnak, amennyiben szervezetének, rendszerének, valamint a szolgáltatás során alkalmazott termékeknek és hálózatnak a külön jogszabály szerinti informatikai biztonsági követelményeknek, vagy más önként vállalt követelményeknek való megfelelését önkéntes akkreditációs rendszer keretében tanúsíttatta. A bejelentésnek tartalmaznia kell a szolgáltató nevét, székhelyét, (lakóhelyét, telephelyét, működési helyét), az önkéntes akkreditációs rendszer elnevezését, valamint a tanúsítás érvényességi időtartamát. A bejelentett adatok körében bekövetkezett változásokat a szolgáltató a Hatóságnak a változásokat követő 30 napon belül köteles bejelenteni.

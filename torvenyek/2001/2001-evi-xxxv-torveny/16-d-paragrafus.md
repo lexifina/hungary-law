@@ -1,0 +1,1 @@
+16/D. § A szolgáltató a szerződéskötést megelőzően köteles tájékoztatni a szolgáltatást igénylőt a szolgáltatás felhasználásának módjáról, biztonsági fokáról, szolgáltatási szabályzatáról, a szerződés feltételeiről, valamint az alkalmazandó adatvédelmi szabályokról (különösen az igénybe vevőn kívüli harmadik személyek hozzáférési lehetőségeiről).

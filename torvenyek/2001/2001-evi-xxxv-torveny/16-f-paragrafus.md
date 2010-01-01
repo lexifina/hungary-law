@@ -1,0 +1,1 @@
+16/F. § Ha az elektronikus aláírás hosszú távú érvényesítéséhez szükséges információk nem szerezhetők be, a szolgáltató köteles erről a tényről az igénybe vevőt haladéktalanul tájékoztatni. Ha a szolgáltató a tájékoztatást elmulasztja, az ezzel okozott kárért a 16/M. § szerint felel.

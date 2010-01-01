@@ -1,0 +1,3 @@
+## Technológiakövetés
+
+18. § A Hatóság figyelemmel kíséri az elektronikus aláírással kapcsolatos technológia és kriptográfiai algoritmusok fejlődését és határozatba foglalja a szolgáltatók által szolgáltatásaik nyújtása során használható biztonságos kriptográfiai algoritmusokat és az azok meghatározott paraméterekkel történő alkalmazására vonatkozó követelményeket. E § alkalmazásában biztonságos a kriptográfiai algoritmus különösen akkor, ha a meghatározott paraméterek alkalmazása mellett az aláírás-ellenőrző adatból nem származtatható az aláírás-létrehozó adat és nem lehetséges valamely előre meghatározott lenyomattal rendelkező elektronikusan aláírt elektronikus dokumentum létrehozása.
