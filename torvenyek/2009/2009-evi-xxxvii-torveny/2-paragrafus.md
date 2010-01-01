@@ -1,0 +1,5 @@
+## A törvény alapelvei
+
+2. § (1) A fenntartható erdőgazdálkodás során a fenntartható használat követelményeinek megfelelve az erdei haszonvételek gyakorlása során törekedni kell az olyan módszerek alkalmazására, amelyek biztosítják, hogy az erdő megőrizze biológiai sokféleségét, természetességét vagy természetszerűségét, termőképességét, felújuló képességét, életképességét, továbbá megfeleljen a társadalmi igényekkel összhangban levő védelmi, közjóléti és gazdasági követelményeknek, betöltse természet- és környezetvédelmi, közjóléti (egészségügyi-szociális, turisztikai, valamint oktatási és kutatási) célokat szolgáló szerepét és az erdővagyonnal való gazdálkodás lehetőségei a jövő nemzedékei számára is fennmaradjanak.
+
+(2) A fenntartható erdőgazdálkodás során a legfontosabb közérdekű feladat az erdők változatosságának megőrzése, az erdők fenntartása, felújítása és a védelmi, valamint közjóléti szolgáltatások biztosítása, melyek elvégzését az állam megfelelő eszközökkel biztosítja.

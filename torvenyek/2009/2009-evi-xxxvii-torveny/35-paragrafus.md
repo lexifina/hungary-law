@@ -1,0 +1,9 @@
+35. § (1) A körzeti erdőtervezés megkezdésének időpontjáról, lefolyásáról az érintett erdőgazdálkodókat, az e törvény végrehajtására kiadott jogszabályban meghatározott hatóságokat (e § alkalmazásában a továbbiakban: hatóságok), a védett természeti területek természetvédelmi kezeléséért felelős szervet, a körzet területén található helyi önkormányzatokat értesíteni kell, és arról hirdetményi úton is tájékoztatást kell adni.
+
+(2) Az érintett erdőgazdálkodók, hatóságok, a védett természeti területek természetvédelmi kezeléséért felelős szerv, a körzet területén található helyi önkormányzatok, az erdészeti vagy természetvédelmi célra alakult civil szervezetek a körzeti erdőtervezés megkezdésétől számított 45 napig az erdőgazdálkodással kapcsolatos írásos javaslatokat tehetnek.
+
+(3) A terepi felvételezést követően az erdészeti hatóság erdőrészlet szintű tárgyalást tart, amelyen az erdőgazdálkodó, az érintett hatóságok, a védett természeti területek természetvédelmi kezeléséért felelős szerv vehet részt.
+
+(4) Az erdőrészlet szintű tárgyalások lezárását követően a körzet egészére vagy annak egy részére vonatkozóan az erdészeti hatóság a (2) bekezdés szerinti javaslatot benyújtók, valamint a lakosság bevonásával egyeztető tárgyalást tart. Az erdészeti hatóság az egyeztető tárgyaláson tájékoztatást ad a körzet vagy körzetrész természetbeni állapotáról, a következő időszak erdőgazdálkodási lehetőségeiről és korlátairól, valamint meghallgatja és mérlegeli az ezzel kapcsolatban elhangzott észrevételeket, véleményeket.
+
+(5) A körzeti erdőtervezés befejezésekor az erdészeti hatóság záró tárgyalást tart. A záró tárgyalásról az érintett erdőgazdálkodókat, hatóságokat, a körzet területén található helyi önkormányzatokat, a védett természeti területek természetvédelmi kezeléséért felelős szervet értesíteni kell.

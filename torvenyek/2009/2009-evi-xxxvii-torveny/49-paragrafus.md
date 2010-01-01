@@ -1,0 +1,1 @@
+49. § Az erdőtelepítést az erdészeti hatóság hivatalból vagy kérelemre indult eljárásban meghozott határozatával befejezetté nyilvánítja, ha az erdőtelepítési-kivitelezési tervben meghatározott fafajok egyedei az e törvény végrehajtására kiadott jogszabályban meghatározott számban, arányban és minőségben jelen vannak.

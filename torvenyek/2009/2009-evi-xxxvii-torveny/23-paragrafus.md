@@ -1,0 +1,1 @@
+23. § Új erdő telepítésekor, az erdőtelepítő javaslatának figyelembevételével – védett természeti területen lévő erdő elsődleges rendeltetése meghatározásának kivételével – az erdőtelepítési-kivitelezési terv jóváhagyásakor az erdészeti hatóság állapítja meg az erdő rendeltetését, illetve rendeltetéseit.

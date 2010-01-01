@@ -1,0 +1,1 @@
+52. § Az erdő felújítását az erdészeti hatóság bejelentésre vagy hivatalból indított eljárásban hozott határozatban befejezetté nyilvánítja, ha az erdőtervben szereplő célállománynak megfelelő fafajok egyedei az e törvény végrehajtására kiadott jogszabályban meghatározott számban, arányban és minőségben jelen vannak.
