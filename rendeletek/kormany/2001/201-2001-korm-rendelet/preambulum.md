@@ -1,0 +1,1 @@
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. §-a (7) bekezdésének k) pontjában kapott felhatalmazás alapján – figyelemmel az Állami Népegészségügyi és Tisztiorvosi Szolgálatról szóló 1991. évi XI. törvény 4. §-a (1) bekezdésének b) pontjában foglaltakra – a következőket rendeli el:
