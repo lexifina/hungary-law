@@ -1,0 +1,1 @@
+A Magyar Köztársaság 1996. évi költségvetéséről szóló 1995. évi CXXI. törvény 69. §-ának (4) bekezdésében szereplő felhatalmazás alapján a kötelező gépjármű-felelősségbiztosítás 1991. július 1-je előtti rendszeréből származó állami kötelezettségek rendezésére a következőket rendelem el:

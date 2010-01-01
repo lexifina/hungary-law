@@ -1,0 +1,9 @@
+# 5/1996. (I. 26.) PM rendelet
+
+a kötelező gépjármű-felelősségbiztosítás 1991. július 1. előtti rendszeréből származó állami kötelezettségek rendezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-5-20-53
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 1996-5-20-53.3 | 5/1996. (I. 26.) PM rendelet |
