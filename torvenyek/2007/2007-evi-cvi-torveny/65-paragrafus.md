@@ -1,0 +1,3 @@
+65. § (1) Ahol az ingatlan-nyilvántartás az ÁPV Zrt.-t, a KVI-t vagy az NFA-t mint tulajdonosi joggyakorlót, illetve vagyonkezelőt tünteti fel, ezen az MNV Zrt.-t kell érteni.
+
+(2) Ha az ingatlan-nyilvántartási változásbejegyzési kérelem a Magyar Állam tulajdonjogát nem érinti, az ingatlanügyi hatóság a kérelem elintézése során, azzal egyidejűleg az (1) bekezdés szerinti változást is átvezeti az ingatlan-nyilvántartásban. Más változás hiányában az ingatlanügyi hatóság az MNV Zrt., illetve a szerződéses vagyonkezelő legkésőbb 2009. december 31. napjáig előterjesztett kérelmére gondoskodik az (1) bekezdés szerinti változás átvezetéséről.

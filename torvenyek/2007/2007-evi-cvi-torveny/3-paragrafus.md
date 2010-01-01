@@ -1,0 +1,1 @@
+3. § Az állami vagyon feletti tulajdonosi jogok és kötelezettségek összességét – ha törvény eltérően nem rendelkezik – a Magyar Állam nevében a Nemzeti Vagyongazdálkodási Tanács (a továbbiakban: Tanács) gyakorolja. A Tanács a feladatait a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján, annak ügyvezető szerveként látja el.

@@ -1,0 +1,3 @@
+16. § (1) A Tanács tagja az országgyűlési képviselőkre vonatkozó szabályok szerint köteles vagyonnyilatkozatot tenni, első ízben a kinevezését követő harminc napon belül.
+
+(2) A vagyonnyilatkozat nyilvántartására, ellenőrzésére, kezelésére az országgyűlési képviselők vagyonnyilatkozatának nyilvántartására, ellenőrzésére, kezelésére vonatkozó szabályokat azzal az eltéréssel kell alkalmazni, hogy a vagyonnyilatkozat-tételi kötelezettség teljesítésének megtagadása, elmulasztása vagy a vagyonnyilatkozatban közölt lényeges adat, tény valótlan közlése esetén az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottsága kezdeményezi a 8. § (6) bekezdés szerinti javaslat megtételét a miniszterelnöknek.

@@ -1,0 +1,3 @@
+47. § A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 87. §-a (1) bekezdésének felvezető szövege helyébe a következő rendelkezés lép:
+
+„(1) Felhatalmazást kap a Kormány, hogy a központi költségvetési szervekkel szolgálati, köztisztviselői, közalkalmazotti és egyéb munkaviszonyban, valamint más címen foglalkoztatási jogviszonyban álló személyek elhelyezéséhez szükséges lakásokra, illetőleg helyiségekre (ideértve a bérlőkijelölési vagy bérlő-kiválasztási jog gyakorlását is), – e törvény keretei között – rendeletben határozza meg:”

@@ -1,0 +1,1 @@
+40. § A 38–39. §-ban meghatározott kedvezményes értékesítési technikák alkalmazásával benyújtott pályázatok kizárólag akkor kerülhetnek elbírálásra, ha az MNV Zrt. által megállapított pályázati kiírás szerint a teljes ellenérték készpénzben való kifizetésére irányuló, és a pályázati feltételeknek is megfelelő érvényes ajánlat nem érkezett.
