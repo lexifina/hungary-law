@@ -1,0 +1,3 @@
+1. § (1) E rendelet hatálya kiterjed a magyar jog hatálya alá tartozó foglalkoztatásra irányuló jogviszonyt létesítő, valamint a Magyar Köztársaság területén foglalkoztatásra irányuló jogviszony keretében munkát végző harmadik országbeli állampolgárra, továbbá az őt foglalkoztatóra.
+
+(2) E rendelet hatálya a 3. § alkalmazásában kiterjed a magyar jog hatálya alá tartozó foglalkoztatásra irányuló jogviszonyt létesítő, valamint a Magyar Köztársaság területén foglalkoztatásra irányuló jogviszony keretében munkát végző menekültként, oltalmazottként vagy menedékesként elismert, továbbá a bevándorolt vagy letelepedett jogállású személyre és az őt foglalkoztatóra is.

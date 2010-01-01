@@ -1,0 +1,9 @@
+# 355/2009. (XII. 30.) Korm. rendelet
+
+a harmadik országbeli állampolgárok Magyar Köztársaság területén történő engedélymentes foglalkoztatásának szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-355-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2009-355-20-22.1 | 355/2009. (XII. 30.) Korm. rendelet |
