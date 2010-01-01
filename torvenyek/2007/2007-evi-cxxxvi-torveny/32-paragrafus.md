@@ -1,0 +1,5 @@
+32. § (1) A szolgáltató köteles gondoskodni arról, hogy az 1. § (1) bekezdésében meghatározott tevékenység ellátásában részt vevő alkalmazottai a pénzmosásra és a terrorizmus finanszírozására vonatkozó jogszabályi rendelkezéseket megismerjék, a pénzmosást vagy a terrorizmus finanszírozását lehetővé tevő, illetőleg megvalósító üzleti kapcsolatot, ügyleti megbízást felismerjék, a pénzmosásra vagy a terrorizmus finanszírozására utaló adat, tény, körülmény felmerülése esetén e törvénynek megfelelően tudjanak eljárni.
+
+(2) A szolgáltató köteles gondoskodni arról, hogy az 1. § (1) bekezdésében meghatározott tevékenység ellátásában részt vevő alkalmazottai a Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló külön törvény rendelkezéseit megismerjék, és az abban meghatározott kötelezettségeknek megfelelően tudjanak eljárni.
+
+(3) Az (1)–(2) bekezdésben meghatározott kötelezettség biztosítása céljából az 1. § (1) bekezdésében meghatározott tevékenység ellátásában részt vevő alkalmazottat foglalkoztató szolgáltató köteles az alkalmazottak részvételével speciális képzési programok szervezéséről gondoskodni.

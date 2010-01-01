@@ -1,0 +1,1 @@
+25. § Ha az 5. §-ban meghatározott felügyeletet ellátó szervnek hatósági ellenőrzése során a 23. § (1) bekezdésében meghatározott bejelentés alapjául szolgáló adat, tény vagy körülmény jut tudomására, arról haladéktalanul tájékoztatja a pénzügyi információs egységként működő hatóságot.

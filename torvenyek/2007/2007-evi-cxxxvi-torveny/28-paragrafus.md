@@ -1,0 +1,5 @@
+## Nyilvántartás, statisztika
+
+28. § (1) A szolgáltató – az általa vezetett nyilvántartásban – a 7–10. §-ban és a 17. §-ban foglalt kötelezettség teljesítése során birtokába jutott adatot, okiratot, illetve annak másolatát, valamint a 23. §-ban meghatározott bejelentés és adatszolgáltatás teljesítését, valamint az ügyleti megbízás teljesítésének a 24. § szerinti felfüggesztését igazoló iratot, illetve azok másolatát az adatrögzítéstől, a bejelentéstől (felfüggesztéstől) számított nyolc évig köteles megőrizni. A 6. § (1) bekezdésének a) pontja alapján birtokába jutott adat, okirat, illetve a másolat megőrzési határideje az üzleti kapcsolat megszűnésekor kezdődik.
+
+(2) Az 1. § (1) bekezdésének a)–e), l) és m) pontjaiban meghatározott tevékenységet végző szolgáltató az (1) bekezdésben meghatározott nyilvántartásban a hárommillió-hatszázezer forint értéket elérő vagy meghaladó összegű készpénzben (forintban, illetőleg valutában) teljesített ügyleti megbízásokat is köteles rögzíteni, amely információt nyolc évig köteles megőrizni.

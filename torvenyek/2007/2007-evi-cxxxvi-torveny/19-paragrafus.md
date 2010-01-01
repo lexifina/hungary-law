@@ -1,0 +1,3 @@
+19. § (1) A 18. § (1)–(4) bekezdésében meghatározott esetben a szolgáltató a 7–9. §-okban meghatározott ügyfél-átvilágítás elvégzése érdekében igényelt adatot az érintett ügyfél hozzájárulása esetén jogosult más szolgáltató rendelkezésére bocsátani.
+
+(2) A 18. § (1)–(4) bekezdésében meghatározott esetben az ügyfél-átvilágítást lefolytató szolgáltató az ügyfél-átvilágítás eredményét elfogadó szolgáltató írásbeli kérésére az ügyfél vagy a tényleges tulajdonos azonosítása és személyazonossága igazoló ellenőrzése érdekében rögzített adat, továbbá a személyazonosságra vonatkozó egyéb dokumentáció másolatát – az érintett ügyfél hozzájárulása esetén – jogosult más szolgáltató rendelkezésére bocsátani.
