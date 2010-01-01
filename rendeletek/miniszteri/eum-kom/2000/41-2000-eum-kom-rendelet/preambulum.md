@@ -1,0 +1,1 @@
+A kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdésének f) pontjában kapott felhatalmazás alapján – a 2000. évi XLVI. törvénnyel kihirdetett, a Nemzetközi Munkaügyi Konferencia 1921. évi 3. ülésszakán elfogadott 13. számú Egyezményben foglaltakkal összhangban – a következőket rendeljük el:
