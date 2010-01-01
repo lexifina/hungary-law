@@ -1,0 +1,23 @@
+2. § (1) Az e rendelet szerinti eljárásokban a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+
+(2) Ha e rendelet másként nem rendelkezik, az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók normatív állami támogatásával kapcsolatos, e rendelet szerinti hatósági ügyekben első fokon a fenntartó székhelye szerint illetékes igazgatóság, magyarországi székhellyel nem rendelkező fenntartó esetén a Magyar Államkincstár Közép-magyarországi Regionális Igazgatósága jár el. Ha a fenntartó székhelye a tárgyévi normatíva megállapítását követően megváltozik, továbbra is a korábbi székhely szerint illetékes igazgatóság jár el a tárgyévi normatívával kapcsolatos ügyekben, és folyósítja a tárgyévi normatívát.
+
+(3) A fenntartó a normatíva iránti kérelmet – ide értve a kérelem 5. § (1) bekezdés szerinti módosítását, a pótigényt és a lemondást –, valamint az elszámolást a szociál- és nyugdíjpolitikáért felelős miniszter által e célra rendszeresített
+
+a) és a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium), valamint a Magyar Államkincstár honlapján közzétett adatlapon vagy
+
+b) elektronikus formanyomtatványon
+
+nyújthatja be. Az adatlap és az elektronikus formanyomtatvány adattartalmát a melléklet határozza meg. A tárgyévi normatívára vonatkozó adatlapokat és elektronikus formanyomtatványokat a tárgyévi költségvetési törvényjavaslat benyújtását követő tíz munkanapon belül kell elérhetővé tenni.
+
+(4) Az igazgatóság a normatíva ügyében hozott jogerős határozat és a lefolytatott ellenőrzésről készített jegyzőkönyv másolatát elektronikus levélben megküldi az első fokú működést engedélyező szervnek, valamint szociális szolgáltató, intézmény esetén a Foglalkoztatási és Szociális Hivatalnak.
+
+(5) Ha a fenntartó év közben új szolgáltatóra vagy szolgáltatásra kap jogerős működési engedélyt, illetve valamely szolgáltatójának vagy szolgáltatásának működési engedélyét év közben visszavonják, e szolgáltatók, illetve szolgáltatások után a normatíva időarányosan illeti meg, amennyiben az igénybevétel egyéb feltételeinek megfelel.
+
+(6) A költségvetési törvény alkalmazása során utcai szociális munka esetén egy szolgálatnak egy jogerős működési engedéllyel rendelkező szolgáltató minősül. Telephellyel rendelkező szolgáltató esetén külön szolgálatnak az az ellátást nyújtó székhely, illetve telephely minősül, amelynek működési engedélyében az utcai szociális munka szerepel.
+
+(7) Az e rendelet szerinti eljárásokban a fenntartó számára hiánypótlásra nyitva álló határidő a felhívás közlését követő öt munkanap.
+
+(8) Ha a fenntartó a normatíva iránti kérelmet – ide értve a kérelem 5. § (1) bekezdés szerinti módosítását, a pótigényt és a lemondást –, illetve az elszámolást hibásan nyújtja be, az igazgatóság a felhívás közlését követő öt munkanapos határidővel nyilatkozattételre hívja fel.
+
+(9) Ha jogszabály másként nem rendelkezik, az e rendelet szerinti, hivatalból indult eljárásokban a fenntartó és a szolgáltató köteles átadni, illetve megküldeni az érdemi döntéshez szükséges adatokat és iratokat az igazgatóságnak.
