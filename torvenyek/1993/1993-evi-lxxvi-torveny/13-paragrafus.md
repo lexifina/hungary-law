@@ -1,0 +1,9 @@
+13. § (1) Szakmai vizsgát a szakképesítésért felelős miniszter által rendeletben feljogosított intézmény, továbbá az iskolai rendszerű szakképzésben – ha a szakmai vizsgaszabályzat másképp nem rendelkezik – a 2. § (1) bekezdés a)–b) pontjaiban felsorolt szakképzést folytató intézmény, továbbá a felsőfokú szakképzést szervező felsőoktatási intézmény a vele tanulói, illetőleg hallgatói jogviszonyban állók tekintetében szervezhet. Az iskolarendszeren kívüli szakképzésben a 2. § (1) bekezdés a)–d) pontjában felsorolt szakképzést folytató intézmény azok számára szervezhet e törvény felhatalmazása alapján szakmai vizsgát, akikkel a felnőttképzési törvényben szabályozott képzési szerződést kötött.
+
+(2) A szakképzést folytató intézmény a szakmai és vizsgakövetelményben meghatározottak szerint modulzáró vizsgát szervez. A szakmai vizsgára bocsátás feltétele a szakmai és vizsgakövetelményben előírt modulzáró vizsga eredményes letétele.
+
+(3) A szakmai vizsga helyét és időpontját — iskolai rendszerű szakképzésben a tanév rendjében meghatározott keretek között — a szakmai vizsgát szervező intézmény jelöli ki, egyúttal gondoskodik a szükséges feltételek biztosításáról, és vezeti a szakmai vizsgákkal kapcsolatos nyilvántartásokat.
+
+(4) A szakmai vizsgát szervező intézmény székhelye szerint illetékes megyei (fővárosi) önkormányzat főjegyzője ellátja a szakmai vizsga törzslapjának nyilvántartásával és megőrzésével kapcsolatos feladatokat.
+
+(5) A szakmai vizsgát szervező intézmény a szakmai vizsga jogszabályban meghatározott dokumentumait – az ott meghatározottak szerint – megküldi a megyei (fővárosi) önkormányzat főjegyzője, illetve az állami szakképzési és felnőttképzési intézet részére. A jogszabályban meghatározott kötelezettség elmulasztása az 5. § (4) bekezdésében foglalt jogkövetkezményt vonhatja maga után.

@@ -1,0 +1,5 @@
+6/A. § (1)
+
+(2) A szakképzés országos és térségi szakmai ellenőrzését az országos mérési feladatokon keresztül kell megvalósítani, az iskolai rendszerű szakképzés tekintetében a közoktatási törvény, az iskolarendszeren kívüli szakmai képzés vonatkozásában pedig a felnőttképzési törvény rendelkezései szerint. A szakképesítésért felelős miniszter évente egyszer javaslatot tehet az oktatásért felelős miniszternek a szakmai ellenőrzés témaköreire. Az ellenőrzés költségeit az érintett minisztérium költségvetésében kell megtervezni.
+
+(3) A közoktatási feladatkörében eljáró oktatási hivatal hatósági feladatai ellátása során kizárólag az Országos közoktatási szakértői névjegyzékben szereplő, a szakképesítésért felelős miniszter által javasolt szakértőket vehet igénybe. Az ellenőrzésben az érintett szakképesítésért felelős miniszter képviselője is részt vehet. A szakmai ellenőrzés tapasztalatairól a közoktatási feladatkörében eljáró oktatási hivatal évente összegezést készít, amelyet az oktatásért felelős miniszter megküld a szakképesítésért felelős szervnek és miniszternek.
