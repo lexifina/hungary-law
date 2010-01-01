@@ -1,0 +1,1 @@
+3. § A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogok és kötelezettségek összességét a Nemzeti Vagyongazdálkodási Tanács (a továbbiakban: Tanács) gyakorolja, feladatait az MNV Zrt. útján, annak ügyvezető szerveként látja el.

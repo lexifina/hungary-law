@@ -1,0 +1,1 @@
+20. § Felhatalmazást kap a földügyért felelős miniszter, hogy – a szociál- és nyugdíjpolitikáért felelős miniszterrel és a helyi önkormányzatokért felelős miniszterrel egyetértésben – a termőföld és erdő szociális földprogram folytatása céljából az önkormányzatok számára történő tulajdonba vagy ingyenes vagyonkezelésbe adásának feltételeit rendeletben szabályozza.
