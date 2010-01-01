@@ -1,0 +1,1 @@
+34. § A szabadtéri munkahelyen — a munkavégzés jellegének és a munkakörülményeknek megfelelő műszaki megoldásokkal, munkaszervezéssel, egyéni védelemmel, melegedési lehetőséggel, védőitallal — gondoskodni kell a munkavállalók időjárás elleni védelméről.

@@ -1,0 +1,5 @@
+## A munkafolyamatra, a technológiára, az anyagra vonatkozó követelmények
+
+40. § (1) A munkafolyamatot, a technológiát, a munkaeszközt, az anyagot úgy kell megválasztani, hogy az sem a munkavállalók, sem a munkavégzés hatókörében tartózkodók egészségét és biztonságát ne veszélyeztesse.
+
+(2) Olyan munkahelyen, ahol különböző munkáltatók alkalmazásában álló munkavállalókat egyidejűleg foglalkoztatnak, a munkavégzést úgy kell összehangolni, hogy az az ott dolgozókra és a munkavégzés hatókörében tartózkodókra veszélyt ne jelentsen. Az összehangolás keretében különösen az egészséget és biztonságot veszélyeztető kockázatokról és a megelőzési intézkedésekről az érintett munkavállalókat és munkavédelmi képviselőiket, illetőleg a munkavégzés hatókörében tartózkodókat tájékoztatni kell. Az összehangolás megvalósításáért a felek által szerződésben megjelölt munkáltató, ilyen kikötés hiányában a fővállalkozó, illetve bármely más olyan személy vagy szervezet, aki, illetve amely a tényleges irányítást gyakorolja, vagy a munkahelyért a fő felelősséget viseli, ha ilyen nincs, akkor az a felelős, akinek a területén a munkavégzés folyik.

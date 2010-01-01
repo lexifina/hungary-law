@@ -1,0 +1,1 @@
+32. § A munkahelyen a zajhatások és a rezgések, a por és vegyi anyagok, valamint a sugárzások, az alacsonyabb vagy magasabb légköri nyomás nem károsíthatják a munkavállalókat és a munkavégzés hatókörében tartózkodókat, és nem veszélyeztethetik a munkavégzés biztonságát.

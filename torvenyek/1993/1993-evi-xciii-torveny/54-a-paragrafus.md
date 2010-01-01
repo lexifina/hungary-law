@@ -1,0 +1,3 @@
+54/A. § (1) A munkáltató megfelelő intézkedésekkel biztosítja, hogy szükség esetén az elsősegély, az orvosi sürgősségi ellátás, a mentési és a tűzvédelmi feladatok ellátása érdekében haladéktalanul fel lehessen venni a kapcsolatot a külső szolgálatokkal, szervekkel.
+
+(2) A munkáltató a külön jogszabályok figyelembevételével köteles megtenni minden indokolt intézkedést veszély esetére a munkahely kiürítésének, továbbá a tűzvédelmi, katasztrófavédelmi feladatok végrehajtásához szükséges, arra alkalmas munkavállalók kijelölése, létszámuk meghatározása, felkészítésük és megfelelő egyéni védőeszközzel való ellátásuk érdekében.

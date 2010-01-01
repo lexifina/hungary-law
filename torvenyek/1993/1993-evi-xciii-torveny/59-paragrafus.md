@@ -1,0 +1,3 @@
+59. § (1) A munkáltatónak tájékoztatnia kell a munkavállalókat és a munkavédelmi képviselőt (bizottságot) arról, hogy az egészséget nem veszélyeztető és biztonságos munkavégzéssel kapcsolatos őt terhelő feladatait ki látja el.
+
+(2) A munkáltató köteles tájékoztatni a 8. §-ban, illetőleg az 57–58. §-okban meghatározott személyt, továbbá a munkavédelmi képviselőt (bizottságot), annak hiányában a munkavállalókat a kockázatértékelés [54. § (2) bekezdés] és a munkavédelmi intézkedések tapasztalatairól, a munkabalesetek és foglalkozási megbetegedések nyilvántartásáról és bejelentéséről, a 81. § szerint a munkavédelmi hatóságtól kapott munkavédelmi információkról, különösen a munkáltatónál végzett ellenőrzések megállapításairól.

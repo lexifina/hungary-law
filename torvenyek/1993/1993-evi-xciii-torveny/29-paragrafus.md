@@ -1,0 +1,1 @@
+29. § A tárolóhelyeket a tárolt anyagok fizikai, kémiai és biológiai tulajdonságainak, egymásra hatásának, továbbá a környezetből eredő hatásoknak, illetőleg az anyag emberi egészségre, környezetre gyakorolt hatásának, a rakodás, szállítás és tárolás módjának figyelembevételével kell kialakítani.

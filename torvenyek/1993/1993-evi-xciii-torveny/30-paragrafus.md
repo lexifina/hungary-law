@@ -1,0 +1,1 @@
+30. § Az energia-, cső- és közműhálózatnak biztonságosan üzemeltethetőnek, kezelhetőnek, karbantarthatónak és azonosíthatónak kell lennie, a villamos szerelvényeknek meg kell felelniük a biztonsági (érintésvédelmi, robbanásbiztonsági stb.) követelményeknek.

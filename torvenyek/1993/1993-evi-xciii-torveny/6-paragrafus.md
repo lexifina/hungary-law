@@ -1,0 +1,1 @@
+6. § A munkáltatóknak és a munkavállalóknak, valamint az állami szerveknek e törvényben és a munkavédelemre vonatkozó más szabályokban meghatározott jogok gyakorlása és kötelezettségek teljesítése során együtt kell működniük.

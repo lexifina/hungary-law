@@ -1,0 +1,1 @@
+69. § Ha a magyarországi székhelyű munkáltató magyar állampolgárságú munkavállalóját külföldi kiküldetés (külszolgálat) során éri munkabaleset, a munkáltató köteles a foglalkoztatáspolitikáért felelős miniszter rendeletében meghatározott rendben a bejelentési és nyilvántartási kötelezettséget teljesíteni.

@@ -1,0 +1,1 @@
+50. § A munkavállaló csak olyan munkával bízható meg, amelynek ellátására egészségileg alkalmas, rendelkezik az egészséget nem veszélyeztető és biztonságos munkavégzéshez szükséges ismeretekkel, készséggel és jártassággal.

@@ -1,0 +1,1 @@
+46. § A munkahelyen — jellegének, elhelyezkedésének, a veszélyforrásoknak, a munkavállalók létszámának, a munka szervezésének megfelelően — biztosítani kell a munkahelyi elsősegélynyújtás tárgyi, személyi és szervezési feltételeit.

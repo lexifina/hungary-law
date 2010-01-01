@@ -1,0 +1,1 @@
+37. § A kijáratokat és vészkijáratokat, a kijelölt menekülési utakat szabadon kell tartani. Számuk, méretük, elhelyezésük és megvilágításuk tegye lehetővé a munkahely, a veszélyes terület gyors és biztonságos elhagyását. Vészkijárathoz toló- vagy forgóajtók használata tilos. Vészkijáratot lezárni csak úgy szabad, hogy vészhelyzetben bárki által nyitható legyen.

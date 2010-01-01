@@ -1,0 +1,1 @@
+71. § A munkavállalónak, a munkavédelmi képviselőnek (bizottságnak) és a munkáltatónak az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében együtt kell működniük, jogaikat és kötelezettségeiket rendeltetésüknek megfelelően kell gyakorolniuk, illetve teljesíteniük, így különösen a szükséges információt (tájékoztatást) a kellő időben egymás részére megadniuk.

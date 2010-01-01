@@ -1,0 +1,3 @@
+83/C. § (1) A munkavédelmi hatóság részéről eljáró orvos végzettségű felügyelő a hatósági eljárás lefolytatásához szükséges okból és mértékben megismerheti és kezelheti az érintett munkavállalók – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott – egészségügyi adatait, betekinthet a munkavállaló irataiba, kérheti azok bemutatását, azokról másolatot készíthet, továbbá a munkáltatót, illetve a munkavállalót adatközlésre hívhatja fel.
+
+(2) Az (1) bekezdés szerinti adatokat a munkavédelmi hatóság informatikai rendszerében kezeli, az adatokat a hatósági eljárás jogerős befejezésétől számított két év elteltével törli.

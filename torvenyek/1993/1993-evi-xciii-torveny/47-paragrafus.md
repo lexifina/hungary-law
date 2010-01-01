@@ -1,0 +1,1 @@
+47. § A munkavégzésre, a munkafolyamatokra, a munkahelyre, a technológiára, a munkaeszközre, az egyéni védőeszközre és a védőitalra vonatkozó részletes előírásokat külön jogszabály, Szabályzat (11. §) és szabvány tartalmazza.

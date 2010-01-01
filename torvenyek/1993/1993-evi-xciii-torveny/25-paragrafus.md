@@ -1,0 +1,1 @@
+25. § A munkahely és a munka jellegének megfelelően gondoskodni kell a rendről, tisztaságról, a keletkező szennyező anyagok, szennyvíz, hulladék kezeléséről oly módon, hogy veszélyt vagy egészségi ártalmat ne okozzanak és a környezetet ne károsítsák.

@@ -1,0 +1,1 @@
+26/A. § Az olyan munkahelyen, ahol a veszély jellege indokolja, a munkavállalók és a munkavégzés hatókörében tartózkodók védelme érdekében biztonsági és egészségvédelmi jelzéseket kell alkalmazni. Ennek részletes szabályait a foglalkoztatáspolitikáért felelős miniszter állapítja meg.
