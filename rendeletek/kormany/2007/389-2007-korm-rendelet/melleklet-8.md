@@ -1,0 +1,31 @@
+## A megújuló energiaforrásból nyert energiával termelt villamos energia kötelező átvétele keretében történő értékesítés megkezdéséhez biomassza vagy biogáz felhasználása esetén teljesítendő minimális hatásfok követelmények
+
+| Kondenzációs termelés | Előírt energetikai hatásfok |
+
+| Biomassza-tüzelésű erőműegység | 30% |
+
+| Biomassza-tüzelésű erőműegység vegyes tüzeléssel | 32% |
+
+| Biogáztüzelésű erőműegység 500 kW teljesítőképesség felett | 35% |
+
+| Biogáztüzelésű erőműegység 500 kW teljesítőképesség alatt | 32% |
+
+| Biogáztüzelésű erőműegység vegyes tüzeléssel | 40% |
+
+## Az előírt hatásfok követelmények az erőműegység névleges hő- és villamosenergia-termelése esetén értendők 15 °C környezeti hőmérséklet, 1,013 bar nyomás, 60% relatív páratartalom mellett.
+
+8. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez
+
+## A kötelező átvétel alá eső villamos energia Befogadójának adatszolgáltatási kötelezettsége
+
+A Befogadó neve és címe
+
+Értékesítési időszak (év, hónap)
+
+Értékesítőnként
+
+1. az Értékesítő neve és címe
+
+2. a kötelező átvétel rendeleti alapja (ahol is a 389/2007. (XII. 23.) Korm. rendelet 4–5. §-ának megfelelő bekezdésére, valamint 1. vagy 2. számú mellékletének megfelelő pontjára kell hivatkozni).
+
+3. az átvett villamos energia mennyisége (MWh) és ára (Ft/kWh) zónaidőnként.
