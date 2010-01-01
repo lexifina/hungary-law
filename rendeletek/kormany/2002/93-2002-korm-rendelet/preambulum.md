@@ -1,0 +1,3 @@
+A számviteli törvény 151. §-ának (4) bekezdésében, valamint a 178. §-a (1) bekezdésének d) pontjában kapott felhatalmazás alapján a könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezet kijelölésére, a nyilvántartásba vételre, illetve a nyilvántartásból való törlésre, a nyilvántartás vezetésének részletes szabályaira, a kötelező szakmai továbbképzésre, valamint a jogorvoslati lehetőségekre vonatkozóan a Kormány a következőket rendeli el:[^1]
+
+[^1]: A rendelet bevezető része a 349/2004. (XII. 22.) Korm. rendelet 1. §-ával megállapított és a 357/2006. (XII. 27.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.
