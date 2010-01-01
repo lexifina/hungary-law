@@ -1,0 +1,5 @@
+## 1. § A Kormány az egyéni vállalkozói tevékenységgel kapcsolatos egyes ügyekben – a 2–3. §-ban foglalt eltérésekkel – a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát (a továbbiakban: KEK KH), valamint az okmányirodák kijelöléséről és illetékességéről szóló 256/2000. (XII. 26.) Korm. rendeletben (a továbbiakban: Korm. rendelet) kijelölt körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzőjét (a továbbiakban: körzetközponti jegyző) jelöli ki.
+
+2. § (1) Az Evtv. 5. § (2) bekezdésében meghatározott személyes bejelentés tekintetében az a körzetközponti jegyző jár el, amelynél a bejelentő a bejelentést megtette.
+
+(2) Az Evtv. 7. § (2) bekezdése tekintetében az a körzetközponti jegyző jár el, amelyhez a bejelentés beérkezett, vagy amelynél a személyes bejelentést megtették. A nyilvántartást vezető szerv az Evtv. 7. § (3) bekezdésében meghatározott igazolást a bejelentést fogadó hatóság útján közli a bejelentővel. A nyilvántartást vezető szerv a nyilvántartásba vétel tényéről értesíti a bejelentést fogadó, valamint az egyéni vállalkozó székhelye szerinti körzetközponti jegyzőt.
