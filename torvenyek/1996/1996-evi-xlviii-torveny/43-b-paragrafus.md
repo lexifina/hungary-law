@@ -1,0 +1,1 @@
+43/B. § Felhatalmazást kap a kereskedelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza a felügyeleti eljárási díj megfizetésének részletes szabályait, valamint az igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait.

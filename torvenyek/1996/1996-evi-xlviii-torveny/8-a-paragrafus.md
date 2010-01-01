@@ -1,0 +1,1 @@
+8/A. § A felügyelet a 8. § (3) bekezdésének a) pontjában meghatározott személyes adatot a minősített befolyás megszerzésére irányuló, illetve azt eredményező vagy ahhoz kapcsolódó, jelentős előnyt biztosító megállapodás előzetes engedélyezése céljából a kérelem elbírálásáig kezeli, azt követően törli.

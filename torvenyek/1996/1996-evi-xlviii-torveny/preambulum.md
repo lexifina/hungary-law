@@ -1,0 +1,1 @@
+Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelés hiteligényeinek jobb kielégítése, a közraktári tevékenység és a közraktárak működésének szabályozása érdekében a következő törvényt alkotja:

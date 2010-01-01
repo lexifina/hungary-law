@@ -1,0 +1,1 @@
+12/B. § A közraktári tevékenység engedélyezéséért, valamint az 5/C. §-ban, az 5/D. §-ban, a 8. §-ban és a 13. § (1) bekezdésében meghatározott engedélyezési eljárásért a kérelmező igazgatási szolgáltatási díjat fizet a felügyelet részére.

@@ -1,0 +1,5 @@
+39. § (1) A közraktár ellen indított felszámolási eljárásra a Cstv. rendelkezéseit kell alkalmazni azzal, hogy a felszámolás kezdő időpontját követően közraktári szerződést a felszámoló sem köthet, a közraktári szerződések teljesítésére vonatkozóan pedig a közraktár tevékenysége felfüggesztésének szabályai [10. § (1) bek. b) pontja és 11. § (1) bekezdés] irányadók.
+
+(2) A közraktár felszámolása során kötendő kényszeregyezség esetén az adós egyezségi ajánlatához köteles előzetesen megszerezni a felügyelet jóváhagyását. Ha a felügyelet a jóváhagyást megtagadja és az adós a hitelezőkkel egyezséget kötött, a felügyelet a 10. § (1) bekezdésének c) pontja szerint jár el, és a 11. § (2) bekezdésében foglalt következményeket kell alkalmazni.
+
+(3) Közraktár felszámolása esetén az ellene a közraktári szerződésből eredő kártérítés iránti követeléseket a Cstv. 57. §-a (1) bekezdésének b) pontja szerint kell besorolni és kielégíteni, a közraktár elleni zálogjogból és óvadékból eredő követeléseket megelőzően.
