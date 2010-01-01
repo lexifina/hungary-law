@@ -1,0 +1,1 @@
+## 15. § A regionális államigazgatási hivatal – a helyi önkormányzatok és a kisebbségi önkormányzatok törvényességi ellenőrzése kivételével – a regionális közigazgatási hivatal általános jogutódja az állománytábla szerinti létszám érintetlenül hagyásával.
