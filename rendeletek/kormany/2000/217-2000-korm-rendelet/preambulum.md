@@ -1,0 +1,1 @@
+A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Tv.) 178. §-a (1) bekezdésének b) pontjában, valamint a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 134. §-ának d) pontjában kapott felhatalmazás alapján – a Magyar Nemzeti Bank előzetes véleményének kikérésével – a Kormány a következőket rendeli el:

@@ -1,0 +1,3 @@
+9. § (1) A forgóeszközök között értékpapírként az Alap befektetési tevékenységével összefüggésben a garanciális fedezet céljára szolgáló, átmeneti, nem tartós befektetésként vásárolt, hitelviszonyt megtestesítő állampapírokat (államkötvény, kincstárjegy) kell kimutatni.
+
+(2) A forgatási célú hitelviszonyt megtestesítő értékpapírok között külön-külön kell kimutatni a kamatbevétel, illetve az árfolyamnyereség elérése érdekében beszerzett államkötvényeket, kincstárjegyeket. Itt kell továbbá kimutatni a tartós befektetési céllal vásárolt hitelviszonyt megtestesítő államkötvények közül azokat, amelyek a tárgyévet követő üzleti évben lejárnak.
