@@ -1,0 +1,11 @@
+## A társas vállalkozás és a társas vállalkozó járulékfizetése
+
+Tbj. 27. § (1) A társas vállalkozás a biztosított társas vállalkozó után a 19. § (1) bekezdésében meghatározott társadalombiztosítási járulékot a társas vállalkozó személyes közreműködésére tekintettel kifizetett (juttatott) járulékalapot képező jövedelem, de havi átlagban legalább a társas vállalkozó tevékenységére jellemző kereset után fizeti meg. Ha a járulékalapot képező jövedelem nem éri el a tevékenységre jellemző keresetet, a foglalkoztató az Art. 31. § (2) bekezdésében meghatározott bevallásban – a tényleges járulékalapot képező jövedelem feltüntetésével – bejelentést tehet arról, hogy a társadalombiztosítási járulékot a járulékalapot képező jövedelem, de legalább a minimálbér alapulvételével fizeti meg. Ha a járulékfizetési kötelezettség nem áll fenn egy teljes naptári hónapon át, egy naptári napra az előzőek szerinti összeg harmincad részét kell figyelembe venni.
+
+(2) A biztosított társas vállalkozó a 19. § (2) bekezdése szerinti nyugdíjjárulékot (tagdíjat) és a 19. § (3) bekezdése szerinti egészségbiztosítási- és munkaerő-piaci járulékot fizet. A nyugdíjjárulék (tagdíj) és az egészségbiztosítási- és munkaerő-piaci járulék alapja megegyezik az (1) bekezdésben meghatározott társadalombiztosítási járulék alapjával – ide nem értve az Szja tv. 69. §-a szerinti természetbeni juttatás adóalapként megállapított értékének személyi jövedelemadóval növelt összegét – azzal, hogy a nyugdíjjárulékot (tagdíjat) legfeljebb a járulékfizetési felső határig kell megfizetni.
+
+(3) Abban az esetben, ha a biztosítási kötelezettség a naptári év teljes tartama alatt nem áll fenn, a járulékfizetési felső határt a biztosítási kötelezettség időtartamával arányosan kell meghatározni.
+
+(4) A tevékenységre jellemző kereset utáni járulékfizetési kötelezettség nem vonatkozik arra a társas vállalkozásra, amely a társas vállalkozó utáni járulékfizetési kötelezettséget külön törvényben meghatározottak szerint teljesíti.
+
+(5) A társas vállalkozás a Tny. tv. szerint korkedvezményre jogosító munkakörben foglalkoztatott biztosított társas vállalkozó után a társadalombiztosítási járulék alapjának alapulvételével – a társadalombiztosítási járulékon felül – korkedvezmény-biztosítási járulékot fizet, kivéve, ha e kötelezettsége alól külön jogszabály szerint mentesítették.

@@ -1,0 +1,5 @@
+## Társadalombiztosítási egyéni nyilvántartás
+
+Tbj. 46. § (1) A foglalkoztató a tevékenységében személyesen közreműködő biztosított személyek adatait oly módon köteles nyilvántartásba venni és erről a magánszemélynek igazolást adni, hogy abból a törvényben előírt adatok a munkavégzés (tevékenység) megkezdésétől megállapíthatók legyenek. A nyilvántartásba vétel elmulasztása miatt a foglalkoztatót az Art. szerint megállapítható mulasztási bírság – a nyilvántartásba nem vett személyenként – terheli.
+
+(2) A foglalkoztató a biztosítottakról – az egyéni vállalkozó a biztosítással összefüggő adatairól – köteles a külön törvényben meghatározottak szerint olyan nyilvántartást vezetni, amely tartalmazza a biztosított nevét és személyi adatait, társadalombiztosítási azonosító jelét, a magánnyugdíj-pénztári tagságára vonatkozó adatot, a foglalkoztató adatait, a biztosítási időre és a szolgálati időre vonatkozó adatokat, a biztosítottól levont járulékok alapját és összegét. A Munka Törvénykönyve Harmadik részének XI. fejezete alapján foglalkoztatott munkavállalót a kölcsönbeadó köteles nyilvántartásba venni.

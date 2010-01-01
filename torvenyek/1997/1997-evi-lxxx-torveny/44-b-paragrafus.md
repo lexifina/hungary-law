@@ -1,0 +1,11 @@
+Tbj. 44/B. § (1) Az egészségbiztosítási szerv az egészségügyi szolgáltatást igénybe vevő, de az egészségügyi szolgáltatásra jogosultak nyilvántartásában nem szereplő személyekről a bejelentési- és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából – külön megállapodásban foglaltak szerint – havonta adatot szolgáltat az állami adóhatóságnak.
+
+(2) Az egészségbiztosítási szerv az egészségügyi szolgáltatásra jogosultak nyilvántartásában biztosítottként vagy egyéb jogcímen egészségügyi szolgáltatásra jogosultként nem szereplő személyekről a bejelentési- és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából – külön megállapodásban foglaltak szerint – adatot szolgáltathat az állami adóhatóságnak.
+
+(3) Az (1)–(2) bekezdésben meghatározott adatszolgáltatás kiterjedhet az Art. 20. § (1) bekezdésében meghatározott természetes azonosító adatokra.
+
+(4) Az állami adóhatóság a (1)–(2) bekezdésben, valamint a 44/C. § (3) bekezdésében meghatározott adatszolgáltatás alapján ellenőrzi a bejelentési- és járulékfizetési kötelezettség teljesítését.
+
+(5) Ha az állami adóhatóság tudomást szerez arról, hogy a foglalkoztató megszűnt, azonban a biztosítás megszűnéséről bejelentés nem történt, akkor az egészségügyi szolgáltatásra való jogosultság ellenőrzése céljából a cég nevéről, székhelyéről és a foglalkoztatottak Art. 20. §-ának (1) bekezdése szerinti természetes azonosító adatairól tájékoztatja az egészségbiztosítási szervet. Ha az egészségbiztosítási szerv nyilvántartása szerint a természetes személy egészségügyi szolgáltatásra való jogosultsága a foglalkoztató megszűnése miatt már nem áll fenn, akkor az egészségbiztosítási szerv erről tájékoztatja az adóhatóságot.
+
+(6) Az idegenrendészeti hatóság az állami adóhatóság kérésére a 39. § (2) bekezdésében előírt járulékfizetésre bejelentkező személyek ellenőrzése céljából adatot szolgáltat az állami adóhatóságnak azokról, akik a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározott tartózkodási feltételek teljesítését más EGT-államban fennálló biztosítással (Európai Egészségbiztosítási Kártyával) igazolják. Az adatszolgáltatás az Art. 20. §-ának (1) bekezdése szerinti természetes azonosító adatokra terjed ki. Az adatszolgáltatás módjáról az állami adóhatóság megállapodást köt az idegenrendészeti hatósággal.

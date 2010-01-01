@@ -1,0 +1,1 @@
+Tbj. 16/A. § A 16. § (1) bekezdésének i) pontjában említett tanuló és hallgató a tanulói jogviszony, illetőleg a hallgatói jogviszony kezdetétől a diákigazolványra való jogosultság megszűnéséig jogosult egészségügyi szolgáltatásra, ideértve a tanulói, hallgatói jogviszony szünetelésének időtartamát is.

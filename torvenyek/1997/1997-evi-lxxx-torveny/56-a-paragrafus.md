@@ -1,0 +1,5 @@
+## Képviselet
+
+Tbj. 56/A. § (1) A magyar jogszabályok szerint bejegyzésre nem kötelezett külföldi munkáltatónak a Magyar Köztársaság területén biztosítási kötelezettséggel járó jogviszony keretében munkát végző vagy kiküldetésben lévő munkavállalója (foglalkoztatottja) biztosítási jogviszonyával kapcsolatos jogok és kötelezettségek tekintetében a külföldi munkáltató (foglalkoztató) képviseletére az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 7. §-át kell alkalmazni. A képviseletre vonatkozó meghatalmazás hiányában a külföldi munkáltató (foglalkoztató) képviseletét ellátó személynek a munkavállalót (foglalkoztatottat) kell tekinteni.
+
+(2) Ha a biztosított foglalkoztatására kirendelés alapján kerül sor, és a munkáltatók megállapodása alapján a munkavállaló munkabérét és az ezzel járó közterheket az a munkáltató fizeti, amelyhez a munkavállalót kirendelték, akkor a bejelentési-, nyilvántartási kötelezettség, továbbá a járulék megállapításának, bevallásának és megfizetésének kötelezettsége azt a munkáltatót terheli, amelyhez a munkavállalót kirendelték.
