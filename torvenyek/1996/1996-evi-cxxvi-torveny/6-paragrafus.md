@@ -1,0 +1,35 @@
+6. § (1) Az állami adóhatóság a 3. §-ban meghatározott összeget a 4. § (1) bekezdésében meghatározott kedvezményezett részére a 4. § (2) bekezdésében előírt nyilatkozatok benyújtásától számított 30 napon belül, de legkésőbb a rendelkező nyilatkozat évének december 15. napjáig utalja át, figyelemmel az 5. § (8) bekezdésére és e § (7) bekezdésére is.
+
+(2)
+
+(3) A 4. § (1) bekezdésében meghatározott kedvezményezettnek az e törvény alapján átutalt összeg felhasználására vonatkozó (a cél szerinti és működési költségeket összegszerűen is tartalmazó) adatait – meghatározva a támogatás esetleges tartalékolásának tényét, célját, legfeljebb 3 éves időtartamát és összegét is – az átutalást követő naptári év október 31. napjáig az állami adóhatóság részére elektronikus úton kell megküldenie. Amennyiben az adóhatóság a 7. § (7) bekezdése szerinti ellenőrzés során megállapítja, hogy a 4. § (1) bekezdésében meghatározott kedvezményezett e kötelezettségének nem tett eleget, illetve közleményében valótlan adatot közöl, határozattal kizárja a kedvezményezettet a határozat jogerőre emelkedését követő rendelkező évben a felajánlásokból történő részesedésből. A közleményekre az állami adóhatóságnak az 5. § (7) bekezdése szerinti őrzési szabályokat kell alkalmaznia. Az állami adóhatóság a közleményeket és a kizáró határozatokat tartalmazó adatbázist elektronikus adathordozón a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter rendelkezésére bocsátja. A miniszter a közleményeket az átutalást követő naptári év november 30. napjáig a civil szervezetekkel foglalkozó internetes honlapján ingyenesen közzéteszi. A közlemények a honlapról egy évig – a következő évi közlemények nyilvánosságra hozataláig – nem távolíthatók el. Azon szervezetnek, amely rendelkezik általa fenntartott vagy a megbízása alapján működtetett olyan internetes felülettel, amelynek tartalmáért ő felel (a továbbiakban: saját honlap), a közleményét e felületen is el kell helyeznie az átutalást követő év december 15. napjáig, és azt legalább egy évig nem távolíthatja el.
+
+(4) Az állami adóhatóság a rendelkező nyilatkozat évének augusztus 31. napjáig tájékoztatja az adópolitikáért felelős minisztert, az egyházakkal való kapcsolattartás koordinációjáért felelős minisztert és a társadalmi és civil kapcsolatok fejlesztésért felelős minisztert az 1. § (5) bekezdésének előírásai szerint tett érvényes rendelkező nyilatkozatok alapján
+
+a) a 4. § (1) bekezdésében nevesített (kategóriánként összesített) kedvezményezettekről, az őket megillető kategóriánként összesített összegekről és az érvényesen rendelkezők számáról, továbbá
+
+b) a 4/A. § (1) bekezdésében meghatározott kedvezményezettekről, az őket megillető összegekről, továbbá az egyes kedvezményezettek javára érvényesen rendelkezők számáról.
+
+Az állami adóhatóság a tájékoztatást szeptember 15. napjáig legalább két országos napilapban és internetes honlapján közzéteszi.
+
+(5) Az állami adóhatóság internetes honlapján tájékoztatást ad
+
+a) kategóriánként összesítve a 4. § (1) bekezdésében nevesített kedvezményezettekről és az őket megillető összegekről, valamint az érvényesen rendelkezők számáról, továbbá
+
+b) a 4. § (1) bekezdése szerinti kedvezményezettek nevéről, adószámáról, székhelyéről, az adott évi rendelkezések egyes kedvezményezetteket megillető együttes összegéről és az érvényesen rendelkezők számáról,
+
+c) a 4/A. § (1) bekezdése szerinti kedvezményezettek nevéről, technikai számáról, székhelyéről, az adott évi rendelkezések egyes kedvezményezetteket megillető együttes összegéről és az érvényesen rendelkezők számáról.
+
+A jogszabályi feltételeknek megfelelő azon kedvezményezettekről, akik számára az átutalás megtörtént, a tájékoztatást az állami adóhatóság honlapja a rendelkezési év december 31-ét követően tartalmazza. Az állami adóhatóság biztosítja a b) pontban foglalt adatokat tartalmazó adatbázis elérhetőségét a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter részére az általa működtetett információs portálon történő közzététel, adatfeldolgozás, -rendszerezés céljából. A kedvezményezettet kérelmére az állami adóhatóság térítésmentesen tájékoztatja a javára rendelkező – az adatszolgáltatás időpontjában – érvényes és érvénytelen, valamint el nem bírált nyilatkozatok számáról, régiónkénti megoszlásáról, az érvénytelenséget okozó – a 7. § (1) bekezdés a)–d) pontjainak megfelelően részletezett – okokról és azok arányáról.
+
+(6) A 4/A. § (1) bekezdésének a) pontjában említett kedvezményezetteknek az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter által vezetett minisztérium – az állami adóhatóság által a rendelkezés évének december 31. napjával meghatározott és a (8) bekezdés szerint a korábbi időszak pótlistája alapján megnövelt – összeget a rendelkező nyilatkozat évét követő év január 31. napjáig utalja át.
+
+(7) Ha az adóbevallás, az egyszerűsített bevallás, vagy a munkáltatói adómegállapítás az átutaláshoz szükséges adatfeldolgozásra alkalmatlan, úgy az utalást akkor kell teljesíteni,
+
+a) amikor a rendelkező nyilatkozat éve utolsó napját követő egy éven belül az említett iratok helyesbítése alapján az lehetséges,
+
+b) illetve abban az esetben, ha a rendelkező magánszemélynek az adóhatóság havi részletfizetést, illetve fizetési halasztást engedélyezett és – figyelemmel az 1. § (1) bekezdésében foglaltakra – az utalás már jogszerűen lehetségessé válik.
+
+(8) A 4/A. § (1) bekezdése alapján kedvezményezetteket a rendelkező év utáni időszakban a jogvitákat lezáró határozatok, illetőleg a (7) bekezdés és a 2. § (1) bekezdése alapján megillető összegekről az állami adóhatóság a tárgy évi augusztus 31-i tájékoztatójához kapcsolt pótlistán közli.
+
+(9) A 4/A. § (1) bekezdésének b) pontjában meghatározott kiemelt előirányzat javára felajánlott összeget a rendelkezést követő évben a felhasználásában érintett – éves költségvetési törvényben megnevezett – fejezet költségvetése tartalmazza, felhasználása pedig pályázati úton történik. A felhasználásról az érintett fejezet a felhasználás évére vonatkozó költségvetés végrehajtásáról szóló törvény fejezeti indokolásában részletesen elszámol, megnevezve a pályázaton nyertes szervezeteket, személyeket és a nekik juttatott összegeket. Az elszámolást a saját honlapján és a (3) bekezdés szerint – az ott meghatározott határidőig – közzé kell tenni.
