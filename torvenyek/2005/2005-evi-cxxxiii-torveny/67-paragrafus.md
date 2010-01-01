@@ -1,0 +1,7 @@
+67. § (1) Az EGT-vállalkozás Magyarország területén az e törvény hatálya alá tartozó tevékenységet a rendőrség működési engedély kiadására illetékes szervének a (2) bekezdésben foglaltak szerint hozott határozata alapján kezdheti meg és gyakorolhatja. A tevékenység végzésének további feltétele annak igazolása, hogy az EGT-vállalkozást a kamara nyilvántartásba vette.
+
+(2) A rendőrség az EGT-vállalkozás kérelmére magyarországi tevékenységét akkor engedélyezi, ha a kérelmező által szolgáltatott, hitelesen lefordított okiratokat megvizsgálva meggyőződik arról, hogy az EGT-vállalkozás rendelkezik olyan, más EGT-tagállamban kiadott, valódi és érvényes okirattal, amely a vállalkozást e törvény hatálya alá tartozó tevékenység végzésére feljogosítja.
+
+(3) Az EGT-vállalkozás magyarországi tevékenységét a rendőrség határozatlan időre, de legfeljebb a (2) bekezdés szerinti határozat meghozatalának alapjául szolgáló okirat érvényességének idejéig engedélyezi.
+
+(4) A rendőrség nyilvántartást vezet azon EGT-vállalkozásokról, amelyek számára a magyarországi tevékenységet engedélyezte, a (2) bekezdés szerinti határozat meghozatalának alapjául szolgáló okirat kiadásának időpontjáról és érvényességének idejéről, a határozat visszavonásáról és az EGT-vállalkozás magyarországi tevékenységének határozott időre való megtiltásáról. A nyilvántartott adatot törölni kell, ha nyilvántartása a továbbiakban a tevékenység ellenőrzésének céljából nem szükséges.

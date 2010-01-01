@@ -1,0 +1,1 @@
+12. § Az engedély, illetve az igazolvány visszavonása, illetve bevonása esetén, illetve, ha a jogosult az engedélyt, illetve az igazolványt a rendőrségnek visszaadja, a személy- és vagyonvédelmi, illetve a magánnyomozói tevékenység nem gyakorolható.

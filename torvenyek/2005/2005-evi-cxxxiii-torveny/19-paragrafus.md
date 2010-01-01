@@ -1,0 +1,3 @@
+19. § (1) Személy- és vagyonvédelmi tevékenységet ténylegesen ellátó természetes személy ilyen szolgáltatást – egybefüggően – legfeljebb 24 óra időtartamban nyújthat.
+
+(2) Ha a személy- és vagyonvédelmi tevékenység ellátásával megbízott fővállalkozó az általa e tevékenység tényleges ellátása érdekében foglalkoztatott alvállalkozót harminc nap időtartamot meghaladó, folyamatosan elvégzendő munka végrehajtásával bízza meg, köteles az alvállalkozó számára huszonnégy órai egybefüggő szolgáltatási idő után legalább huszonnégy óra, naptári hetenként pedig negyvennyolc óra egybefüggő pihenőidőt biztosítani.

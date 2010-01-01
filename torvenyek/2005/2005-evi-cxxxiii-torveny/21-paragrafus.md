@@ -1,0 +1,3 @@
+21. § (1) A fővállalkozó az általa folyamatosan foglalkoztatott alvállalkozó javára köteles balesetbiztosítást kötni. A kötelező felelősségbiztosítási szerződést azonban mind a fővállalkozó, mind az alvállalkozó köteles a maga javára megkötni. Az alvállalkozó ez utóbbi kötelezettsége alól akkor mentesülhet, ha a fővállalkozó által megkötött felelősségbiztosítási szerződés rá is kiterjed.
+
+(2) Az e fejezetben írt szabályokat kell alkalmazni a fővállalkozó és az alvállalkozó között e fejezet rendelkezéseinek hatálybalépését megelőzően létesült és a fejezet rendelkezéseinek hatálybalépésekor még fennálló jogviszonyt érintően is.
