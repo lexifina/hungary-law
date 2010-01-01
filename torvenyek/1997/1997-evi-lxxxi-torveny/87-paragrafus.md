@@ -1,0 +1,3 @@
+87. § (1) A foglalkoztató köteles megtéríteni a baleseti rokkantsági nyugdíjat, a baleseti hozzátartozói nyugellátást, ha a baleset annak a következménye, hogy ő vagy megbízottja a reá nézve kötelező munkavédelemi szabályzatnak, a munkavédelemről szóló 1993. évi XCIII. törvény előírásainak nem tett eleget. Ugyanilyen megtérítési kötelezettség terheli a foglalkoztatót akkor is, ha ő vagy alkalmazottja (tagja) a balesetet szándékosan idézte elő.
+
+(2) Az (1) bekezdés rendelkezésének alkalmazása során a foglalkoztató alatt a Munka Törvénykönyve 193/C. §-ának c) pontjában meghatározott kölcsönvevőt is érteni kell.

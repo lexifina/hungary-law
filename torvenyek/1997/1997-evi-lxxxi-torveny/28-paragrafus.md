@@ -1,0 +1,5 @@
+## A nyugdíj összege, a nyugdíj alapjául szolgáló kereset
+
+28. § (1) A rokkantsági nyugdíj alapját képező havi átlagkereset megállapításánál az öregségi nyugdíjra vonatkozó rendelkezéseket (12., 13., 16., 17. és 22. §-ok) kell megfelelően alkalmazni azzal az eltéréssel, hogy amennyiben a rokkantsági nyugdíjra jogosultsághoz szükséges és a figyelembe vehető szolgálati idő együttesen is rövidebb a 22. § (1) bekezdésében meghatározott átlagszámítási időszaknál, a rokkantsági nyugdíjat e rövidebb idő alatt elért kereset, jövedelem havi átlaga alapján kell megállapítani, legalább 30 napi kereset hiányában pedig azt a – külön jogszabályban általánosan meghatározott – minimálbért kell havi átlagkeresetnek tekinteni, amely azt a napot megelőző naptári hónapban érvényes, amely naptól a nyugdíjat megállapítják.
+
+(2) Ha a rokkant a magánnyugdíjpénztárba is fizetett tagdíjat és saját döntése szerint az egyéni számláján lévő összeget nem utalták át a Nyugdíjbiztosítási Alap részére, a szolgálati időtől, az átlagkeresete összegétől és a rokkantság fokától függően kiszámított összeg hetvenöt százalékát kell részére rokkantsági nyugdíjként megállapítani.

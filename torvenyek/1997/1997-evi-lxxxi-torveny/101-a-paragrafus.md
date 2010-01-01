@@ -1,0 +1,1 @@
+101/A. § Felhatalmazást kap a Kormány, hogy a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervet vagy szerveket, a nyugdíjbiztosítási igazgatási szervet vagy szerveket rendeletben jelölje ki.

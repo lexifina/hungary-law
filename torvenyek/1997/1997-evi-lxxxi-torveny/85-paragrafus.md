@@ -1,0 +1,3 @@
+85. § (1) A foglalkoztató és egyéb szerv köteles megtéríteni a jogalap nélkül felvett nyugellátást, ha a nyugellátás jogalap nélküli megállapítása, illetőleg folyósítása az ő mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye, és a nyugellátást a 84. § alapján visszakövetelni nem lehet.
+
+(2) Ha nyugellátás jogalap nélküli megállapításáért, illetőleg felvételéért a foglalkoztatót vagy egyéb szervet és a nyugellátásban részesülőt is felelősség terheli, a jogalap nélkül felvett nyugellátást közrehatásuk arányában kötelesek megtéríteni, illetőleg visszafizetni. Ha a közrehatások aránya nem állapítható meg, a felelősöket egyetemlegesen kell megtérítésre, illetőleg visszafizetésre kötelezni.

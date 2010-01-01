@@ -1,0 +1,1 @@
+78. § A nyugdíjbiztosítási igazgatási szerv kérelemre az ellátást megszüntető határozatának azonnali végrehajtását rendelheti el, ha a megszűnést követő naptól kezdődően más nyugellátásra vagy rendszeres pénzellátásra való jogosultságot állapít meg, és a két ellátás jogosultsági feltételei egymást kizárják.

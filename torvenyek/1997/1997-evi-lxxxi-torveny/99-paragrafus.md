@@ -1,0 +1,3 @@
+99. § (1) Az adatszolgáltatást – ha jogszabály kivételt nem tesz – elektronikus úton, ügyfélkapun keresztül kell teljesíteni. A nyilvántartások vezetésére, az adatszolgáltatásra, az e törvényben előírt bejelentés teljesítésére, az igény érvényesítésére a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv számítógépes program használatát írhatja elő, illetőleg nyomtatványt rendszeresíthet.
+
+(2) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv az előírt nyilvántartási, adatszolgáltatási és bejelentési kötelezettség, továbbá rendszeresített nyomtatvány használata alól mentesítést adhat. A nyugdíjbiztosítási igazgatási szerv a bejelentés módjára és a határidőkre egyes foglalkoztatókkal és egyéb szervekkel eltérő megállapodást köthet.

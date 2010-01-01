@@ -1,0 +1,1 @@
+40. § Szolgálati időként kell figyelembe venni azt az időt is, amely a munkaviszony (közalkalmazotti, köztisztviselői jogviszony) jogellenes megszűnésétől annak helyreállításáig, vagy az utóbbi mellőzése esetén a jogviszony jogellenes megszüntetésének jogerős megállapításáig telt el.
