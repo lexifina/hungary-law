@@ -1,0 +1,5 @@
+2. § (1)[^1] Az egészségügyért felelős miniszter a fertőző betegségek megelőzésének és leküzdésének irányításával, illetve felügyeletével kapcsolatos jogkörét az országos tisztifőorvos útján látja el.
+
+(2) Az országos tisztifőorvos a járványveszély elhárítása és az egészségügyi ellátás biztosítása érdekében közvetlenül intézkedhet, ha azt a járványügyi helyzet szükségessé teszi, ennek keretében közvetlenül megteheti mindazokat az intézkedéseket, amelyek a járványveszély elhárítása és megszüntetése érdekében szükségesek.
+
+[^1]: A 2. § (1) bekezdése a 30/2009. (X. 14.) EüM rendelet 11. § (2) bekezdésének a) pontja szerint módosított szöveg. E módosító rendelet 11. § (4) bekezdése alapján a háziorvosi szolgálat a betegforgalmi tevékenység külön jogszabály szerinti jelentése alapján, új influenzavírus elleni védőoltással történő immunizálásért oltásonként 200 forintra jogosult, melyet az Egészségügyi Minisztérium és az Országos Egészségbiztosítási Pénztár között létrejött megállapodásban foglaltaknak megfelelően az Országos Egészségbiztosítási Pénztár utal.

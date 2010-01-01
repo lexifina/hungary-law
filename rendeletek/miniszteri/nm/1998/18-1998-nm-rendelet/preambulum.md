@@ -1,0 +1,1 @@
+Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 57. §-ának (2)–(3) bekezdésében, 59. §-ának (2)–(3) bekezdésében, 63. §-ának (2) bekezdésében, 65. §-ának (1) bekezdésében, 68. §-ának (1) és (3) bekezdésében, valamint 71. §-ának (1) bekezdésében foglalt felhatalmazás alapján a fertőző betegségek terjedésének megelőzése érdekében az alábbiakat rendelem el:
