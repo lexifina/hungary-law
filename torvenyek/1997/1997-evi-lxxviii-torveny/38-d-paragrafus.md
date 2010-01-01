@@ -1,0 +1,1 @@
+38/D. § Jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet akkor végezhet a 38/B., illetve a 38/C. § szerinti tevékenységet, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy jogosult az adott tevékenység folytatására, és ez a tag, személy részt vesz a tevékenység ellátásában.
