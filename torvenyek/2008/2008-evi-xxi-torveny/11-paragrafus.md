@@ -1,0 +1,1 @@
+11. § E fejezetben foglalt rendelkezések alkalmazása során az Eütv. 13. és 14. §-ának a tájékoztatáshoz való jogra és 16. §-ának a beleegyező nyilatkozatra vonatkozó szabályai is megfelelően irányadóak.
