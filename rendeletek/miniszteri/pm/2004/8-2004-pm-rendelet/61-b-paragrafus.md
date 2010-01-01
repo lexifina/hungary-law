@@ -1,0 +1,9 @@
+61/B. §[^262] (1) A szeszüzem-adóraktár, illetve a bioüzemanyag-adóraktár engedélyesének, illetve a 2207 10 00 vámtarifaszámú, legalább 99 térfogatszázalék alkoholtartalmú víztelenített alkoholterméket beszerző kőolajfinomító, finomítói ásványolajraktár és ásványolaj-tároló adóraktár engedélyesének abban az esetben, ha a bioetanol előállításához nem kizárólag olyan etilalkoholt használ, amelyet a Közösség valamely tagállamában termelt alapanyagból állítottak elő, a bioetanolról két termékmérleget kell vezetnie, és azokban az összesen termelt mennyiséget a felhasznált alapanyag (Közösségben, illetve Közösségen kívül előállított alapanyag) arányában a Jöt. 7. §-ának 37. pontjában meghatározott bioetanolra és az attól eltérő termékre megbontva kell szerepeltetnie, elkülönített tárolást azonban nem kell alkalmaznia.
+
+(2)[^263] A szeszüzem-adóraktár engedélyese a bioetanol célra előállított etilalkohol gyártásához felhasznált alapanyag fajtájáról és Közösségben történt előállításáról etilalkohol-, illetve bioetanol-szállítmányonként nyilatkozatot állít ki az E85 terméket előállító ásványolaj-adóraktár engedélyese számára, és azt, valamint – bioetanol szállítása esetén – az etilalkohol denaturálásáról felvett jegyzőkönyv másolatát átadja a beszerző ásványolaj-adóraktár engedélyese részére.
+
+(3)[^264] A szeszüzem-adóraktár engedélyese a bioetanol célra előállított etilalkohol gyártásához felhasznált alapanyag mennyiségét és fajtáját – az alapanyag termelésének (előállításának) helye (ország) szerinti bontásban – külön nyilvántartja.
+
+[^262]: A 61/B. §-t a 33/2006. (XII. 25.) PM rendelet 13. §-a iktatta be, szövege a 40/2007. (XII. 29.) PM rendelet 17. §-ával megállapított szöveg.
+[^263]: A 61/B. § (2) bekezdése a 13/2009. (VI. 12.) PM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^264]: A 61/B. § (3) bekezdését a 13/2009. (VI. 12.) PM rendelet 12. § (2) bekezdése iktatta be.

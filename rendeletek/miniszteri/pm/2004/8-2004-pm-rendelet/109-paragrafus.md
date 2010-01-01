@@ -1,0 +1,28 @@
+## Bejegyzett/nem bejegyzett kereskedő, adóképviselő
+
+109. § (1)[^404] Az olyan fogadóhely, ahol a jövedéki termék fogadása minden esetben a jövedéki terméknek a fogadóhelyen kialakított raktárba (tartályba) való beraktározása (lefejtése) nélkül történik, a kereskedelmi forgalmazás céljából végzett beszerzés esetén sem tekintendő a jövedéki engedélyes kereskedelmi tevékenység telephelyének. Ezen fogadóhelyről a jövedéki termék fogadásával egyidejűleg megvalósuló továbbszállítás csak a bejegyzett kereskedő által kiállított olyan szállítólevéllel történhet, amelyen szerepel a bejegyzett kereskedő jövedéki száma, a tagállami feladó neve, jövedéki száma, a tagállami feladás helye és a termékkísérő okmány kelte, sorszáma is.
+
+(2)[^405] Ha a bejegyzett kereskedő fogadóhelye és jövedéki engedélyes kereskedelmi telephelye azonos helyiségben (helyiségcsoportban) van, a bejegyzett kereskedő a fogadott zárjegy nélküli alkoholtermékeket a jövedéki engedélyes kereskedelmi készlettől elkülönítve köteles tárolni. A bejegyzett kereskedői és a jövedéki engedélyes kereskedelmi engedély birtokában használt helyiségek (helyiségrészek) elhatárolását, továbbá azt, hogy az ott található készletet mely engedély alapján tárolják, egyértelműen azonosítható módon jelölni kell. A zárjegy nélküli alkoholtermékeket a zárjegy felhelyezését követően kell a jövedéki engedélyes kereskedelmi készletébe felvenni.
+
+(3)[^406] A bejegyzett kereskedő a más tagállamból adófelfüggesztéssel beszerzett, a Jöt. 52. § (1) bekezdés a)–e) pontjában megjelölt ásványolaj és a 2207 vámtarifaszám alá tartozó alkoholtermék fogadásának napján a fogadóhely szerint illetékes hatósági felügyeletet ellátó vám- és pénzügyőri hivatalt értesíti a szállítmányról. Az értesítésben megadja a feladó adóraktár nevét, címét, jövedéki számát, a jövedéki termék megnevezését, vámtarifaszámát, feladott és átvett mennyiségét, a termékkísérő okmány számát.
+
+(4)[^407] A bejegyzett kereskedőnek a 15. számú melléklet szerinti adattartalommal kell folyamatosan a fogadóhelyen, több fogadóhely esetén összesítve is a regionális ellenőrzési központ által jóváhagyott és a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal által hitelesített szállítási nyilvántartást vezetni. A nyilvántartás vezetésére a regionális ellenőrzési központ által előzetesen jóváhagyott számítógépes nyilvántartás is alkalmazható.
+
+(5) A bejegyzett kereskedőnek a szállítási nyilvántartását naptári hónaponként le kell zárnia, és a készletváltozásokat jogcímenként összegeznie.
+
+(6)[^408] A szállítási nyilvántartás havi zárását az adóbevallással együtt kell a regionális ellenőrzési központnak megküldeni, kivéve a keretengedéllyel is rendelkező bejegyzett kereskedőt, továbbá, ha a bejegyzett kereskedő adóképviselőt alkalmaz.
+
+(7)[^409] A nem bejegyzett kereskedő által a termékkísérő okmány tagállami adóraktár részére visszaküldendő példányához csatolandó a Jöt. 25. § (8) bekezdés szerinti okmány mintáját a 39. számú melléklet tartalmazza. Az okmány a regionális ellenőrzési központ aláírásával érvényes.
+
+(8)[^410] Amennyiben a bejegyzett kereskedő rendelkezésre álló jövedéki biztosítéka nem felel meg a Jöt. 24. § (3) bekezdésében foglalt feltételnek, a jövedéki biztosíték kiegészítését igazoló bizonylat, okmány regionális ellenőrzési központhoz történő benyújtásáig a bejegyzett kereskedőhöz adófelfüggesztéssel betárolt jövedéki termékre a Jöt. 25. § (1) bekezdés szerint keletkezett adókötelezettségről az átvételt követő 5 napon belül külön adóbevallást kell benyújtani és azzal egyidejűleg az adót megfizetnie. Az így megfizetett adót a havi adóbevallásban tájékoztató adatként kell szerepeltetni.
+
+(9)[^411] A Jöt. 25. §-ának (6) bekezdése szerinti külön igazolás adattartalmát a 42. számú melléklet tartalmazza.
+
+[^404]: A 109. § (1) bekezdése a 44/2009. (XII. 29.) PM rendelet 34. §-ával megállapított szöveg.
+[^405]: A 109. § (2) bekezdése a 44/2009. (XII. 29.) PM rendelet 34. §-ával megállapított szöveg.
+[^406]: A 109. § (3) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (10) bekezdése szerint módosított szöveg.
+[^407]: A 109. § (4) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése és a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^408]: A 109. § (6) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (12) bekezdése szerint módosított szöveg.
+[^409]: A 109. § (7) bekezdése a 46/2004. (XII. 29.) PM rendelet 19. §-ának (1) bekezdésével megállapított, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése szerint módosított szöveg.
+[^410]: A 109. § (8) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (7) bekezdése szerint módosított szöveg.
+[^411]: A 109. § (9) bekezdését a 46/2004. (XII. 29.) PM rendelet 19. §-ának (2) bekezdése iktatta a szövegbe.

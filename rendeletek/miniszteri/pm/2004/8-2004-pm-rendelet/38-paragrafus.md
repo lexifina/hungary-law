@@ -1,0 +1,23 @@
+## 37/D. §[^175]
+
+## Adóraktárak működése
+
+38. § (1)[^176] Az adóraktár engedélyesének az adóraktári engedély átvételét követő 5 munkanapon belül a termelés megkezdésének időpontját a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalhoz írásban kell bejelentenie.
+
+(2)[^177] Az egyszerűsített adóraktárban és a kísérleti előállítást végző üzemben folytatott tevékenység kivételével a jövedéki termékek termelésének, tárolásának befejezését, szüneteltetését és újbóli megkezdését – annak időpontját legalább 15 nappal megelőzően – a hatósági felügyeletet ellátó vám- és pénzügyőri hivatalhoz írásban be kell jelenteni. Szüneteltetésnek kell tekinteni, ha az adóraktárban 30 napot meghaladóan nem folytatnak termék-előállítást, illetve tárolást.
+
+(3)[^178] A jövedéki termék előállításának, illetve tárolásának szüneteltetése esetén a hatósági felügyeletet ellátó vám- és pénzügyőri hivatal a jövedéki üzem berendezésein termelést akadályozó hivatalos zárat helyez el, amelyet a tevékenység újbóli megkezdésekor távolít el.
+
+(4)[^179] Hivatalos zárnak e rendelet alkalmazásában a vámhatóság által a raktárhelyiségen, tárolótartályon, mérőműszeren, egyéb berendezésen, szállítóeszközön, csomagon, mintán elhelyezett ólomzár, műanyag biztonsági plomba, pecsétzár, szalagzár, függőpecsét minősül.
+
+(5)[^180] Az adóraktár engedélyesének a székhelyén, illetve adóraktáranként ki kell jelölni azt a személyt, aki a hatósági felügyeletet ellátó vám- és pénzügyőri hivatallal az együttműködésért és a hatósági felügyelet helyszíni feltételeinek biztosításáért felelős (a továbbiakban: felelős üzemvezető).
+
+(6)[^181] Az adóraktár engedélyesének a felelős üzemvezető kijelölését és az abban bekövetkező változást a regionális ellenőrzési központ felé írásban be kell jelentenie a kijelölést, illetve a változást követő 15. napon belül.
+
+[^175]: A 37/D. §-t a 38/2008. (XII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte az 5/2009. (III. 27.) PM rendelet 2. § (2) bekezdése.
+[^176]: A 38. § (1) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (6) bekezdése szerint módosított szöveg.
+[^177]: A 38. § (2) bekezdése a 40/2007. (XII. 29.) PM rendelet 12. §-ával megállapított és a 44/2008. (XII. 31.) PM rendelet 35. § (6) bekezdése szerint módosított szöveg.
+[^178]: A 38. § (3) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (1) bekezdése szerint módosított szöveg.
+[^179]: A 38. § (4) bekezdése a 44/2009. (XII. 29.) PM rendelet 18. §-ával megállapított szöveg.
+[^180]: A 38. § (5) bekezdése a 44/2008. (XII. 31.) PM rendelet 35. § (7) bekezdése szerint módosított szöveg.
+[^181]: A 38. § (6) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése szerint módosított szöveg.

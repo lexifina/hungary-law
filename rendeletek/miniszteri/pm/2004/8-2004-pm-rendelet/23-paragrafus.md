@@ -1,0 +1,7 @@
+23. § (1)[^110] A bejegyzett/nem bejegyzett kereskedő adóképviselője engedélyének kiadására a 11. § (1)–(3) bekezdése, az engedély iránti kérelem elutasítására a 12. §, az adóképviselői engedély iránti kérelemben vagy az adóképviselői engedélyében szereplő adatok változása esetén a 8. § rendelkezéseit kell – értelemszerűen – alkalmazni azzal az eltéréssel, hogy a regionális ellenőrzési központ a bejegyzett kereskedő adóképviselője esetében a felajánlott jövedéki biztosíték összegéről a kérelem benyújtását követő 30 napon belül dönt, a nem bejegyzett kereskedő adóképviselőjének engedélyét a kérelem benyújtását követő 15 napon belül bírálja el, továbbá az adóképviselői engedélyt a 18. számú melléklet szerinti adattartalmú nyomtatványon kell kiadni, az adóképviselői engedély módosítását pedig az 5. számú melléklet szerinti adattartalmú nyomtatványon kell kérni.
+
+(2) Az adóképviselő engedélyében minden bejegyzett/nem bejegyzett kereskedőre és azon belül tagállami adóraktár engedélyesenként külön betétlapot kell kiállítani.
+
+(3) Az adóképviselő az engedélyében szereplőn túl további bejegyzett/nem bejegyzett kereskedő adóképviseletének az ellátására vonatkozó engedélyt az adóképviselői engedélyének az (1) bekezdés szerinti módosításával, a 22. § rendelkezéseinek betartásával kérheti.
+
+[^110]: A 23. § (1) bekezdése a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése szerint módosított szöveg.

@@ -1,0 +1,1 @@
+## 52. § Az etanol üzemben az előállított nagytisztaságú, analitikai minőségű alkohol hektoliterfok mennyiségét a palackok űrtartalma és darabszáma szorzataként adódó litermennyiség és az MSZ 9562/2–71 számú szabvány szerinti reprezentatív mintavétel alapján meghatározott valódi szeszfok figyelembevételével kell megállapítani.
