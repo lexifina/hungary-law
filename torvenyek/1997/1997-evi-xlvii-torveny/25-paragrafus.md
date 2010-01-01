@@ -1,0 +1,1 @@
+25. § Egészségügyi és személyazonosító adatot közigazgatási hatósági eljárás, illetve az érintettnek intézményi elhelyezése, gondozása céljából akkor lehet továbbítani, ha arra az érintett jogai érvényesítéséhez vagy kötelezettségei teljesítéséhez van szükség.

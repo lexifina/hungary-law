@@ -1,0 +1,1 @@
+35. § A nem egészségügyi intézményben az adatkezelő a működése során tudomására jutott orvosi titkot köteles megtartani. Az adatkezelő mentesül a titoktartási kötelezettség alól a 7. § (2) bekezdése szerinti esetekben.

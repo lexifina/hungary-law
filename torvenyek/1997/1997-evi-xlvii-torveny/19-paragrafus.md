@@ -1,0 +1,3 @@
+19. § (1) A 4. § (2) bekezdés b)–c) pontjai szerinti célból az egészségügyért felelős miniszter (a továbbiakban: miniszter) és az irányítása alá tartozó országos szervek és intézetek, továbbá az egészségügyi államigazgatási szerv – saját szakterületén – kezelheti az esetszám meghatározása céljából a cél eléréséig az érintett TAJ számát és egészségügyi adatait, továbbá személyazonosító adatai közül minden olyan adatot, amely önmagában nem teszi lehetővé az érintett személyének azonosítását (pl. nem, életkor, postai irányítószám).
+
+(2) Az (1) bekezdésben megjelölt adatokat az ott meghatározott célból az egészségügyi ellátóhálózat, illetve az egészségügyi államigazgatási szerv továbbítja az (1) bekezdés szerinti szervek részére.
