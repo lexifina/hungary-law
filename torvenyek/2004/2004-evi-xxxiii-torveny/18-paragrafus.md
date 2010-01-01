@@ -1,0 +1,1 @@
+18. § Ez a törvény a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 1370/2007/EK rendelete végrehajtásához szükséges rendelkezéseket állapítja meg.

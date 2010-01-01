@@ -1,0 +1,5 @@
+## Közforgalmú kötöttpályás közlekedést helyettesítő autóbuszjáratok
+
+15. § (1) A közforgalmú kötöttpályás közlekedést helyettesítő autóbuszjárat üzemeltetésére szóló járati engedélyt helyi közforgalmú vasúti személyszállítás helyettesítése esetén a települési (fővárosi) önkormányzat jegyzője, országos közforgalmú személyszállítás helyettesítése esetén a miniszter adja ki. Az engedély kiadása műszaki indok esetén nem tagadható meg, azonban a szolgáltatás csak olyan – a menetrendi időpontokra és a megállóhelyek igénybevételére vonatkozó – feltételekkel engedélyezhető, amelyek más szolgáltató közszolgáltatási szerződésben rögzített jogait nem sértik és működőképességét nem veszélyeztetik.
+
+(2) Országos közforgalmú vasúti személyszállítást helyettesítő autóbuszjáratra, amennyiben annak engedélyezését – külön törvény alapján – a vállalkozó vasút, illetve a vasúti társaság saját gazdasági érdekeire tekintettel kéri, járati engedély csak az érintett települések önkormányzatával történt előzetes egyeztetés alapján, az (1) bekezdésben foglalt feltételekkel adható ki.
