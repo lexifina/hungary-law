@@ -1,0 +1,3 @@
+## I. RÉSZ
+
+## A RENDELET HATÁLYA

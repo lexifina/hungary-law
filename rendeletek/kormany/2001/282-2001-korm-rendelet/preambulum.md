@@ -1,0 +1,1 @@
+A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 134. § a), b), f), h), k), l) és m) pontjaiban foglalt felhatalmazás alapján, figyelemmel az 55. § (2), a 68. § (2), a 69. § (6), valamint a 70. § (5) bekezdéseire, a Kormány a magánnyugdíjpénztárak befektetési és gazdálkodási tevékenységéről a következőket rendeli el:

@@ -1,0 +1,1 @@
+## 26. § Az önkéntes kölcsönös nyugdíjpénztár által működtetett pénztár befektetéseit külön kell nyilvántartani, és az egyes pénztártípusokra előírt befektetési és teljesítményértékelési előírásoknak külön-külön is meg kell felelni. A nyilvántartást az előírt befektetési szabályok betartására és ellenőrzésére alkalmas módon kell vezetni.
