@@ -1,0 +1,1 @@
+101. § Ha a tisztviselő vagy az ügykezelő – munkakörének a változása miatt – magasabb fizetési osztályba kerül, az addig elért fizetési fokozatát az új fizetési osztályban legfeljebb két fokozattal csökkenteni lehet, az új alapilletményt azonban a korábbinál magasabb összegben kell megállapítani.

@@ -1,0 +1,3 @@
+35. § (1) Ha a vezetői megbízás megszűnése nem jár együtt a szolgálati viszony egyidejű megszűnésével, a volt vezető részére az igazságügyi szerven belül megfelelő munkakört kell felajánlani. Amennyiben ilyen munkakört nem lehet felajánlani, a szolgálati jogviszonyt 3 hónap, ha pedig az igazságügyi alkalmazott a felajánlott megfelelő munkakört nem fogadta el, 1 hónap felmentési idővel meg kell szüntetni a munkavégzés alóli egyidejű mentesítés mellett.
+
+(2) A határozott idejű vezetői megbízás lejártakor a volt vezetőt a korábbi munkakörébe vagy legalább az azzal azonos szintű munkakörbe kell helyezni.

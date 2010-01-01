@@ -1,0 +1,3 @@
+15. § (1) A kinevezési okirat a kinevezés kezdő napját, határozott idejű kinevezés esetén ennek időtartamát, a munkakört, a vezetői munkakört, a szolgálati helyet, a szolgálati idő kezdő időpontját, a fizetési osztályt (csoportot), a fizetési fokozatot és az ezekhez kapcsolódóan megállapított alapilletményt, az esetleges pótlékok jogcímét és összegét, a legközelebbi kötelező előresorolás időpontját, a hiányzó képesítés megszerzésére adott halasztást, illetve kötelezést és ezek határidejét, valamint a kinevezés évére járó szabadság napjainak a számát tartalmazza.
+
+(2) A kinevezési okirattal együtt az igazságügyi alkalmazottnak át kell adni a feladatait tartalmazó munkaköri leírást.

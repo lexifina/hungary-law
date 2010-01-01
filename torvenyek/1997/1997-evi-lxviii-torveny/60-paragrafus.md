@@ -1,0 +1,1 @@
+60. § A fegyelmi eljárás alá vont az eljárás elrendelésétől kezdve jogi képviselőt vehet igénybe, illetve kérheti, hogy képviseletében az igazságügyi alkalmazottak érdekképviseletét ellátó szerv járjon el.

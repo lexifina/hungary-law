@@ -1,0 +1,1 @@
+123. § Az e törvény alapján adható juttatások, kedvezmények és elismerések részletes szabályait, valamint e törvény keretei között azok mértékét az érdekképviseleti szervekkel együttműködve az OIT, illetve a miniszter állapítja meg.

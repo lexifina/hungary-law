@@ -1,0 +1,1 @@
+68. § Ha a fegyelmi eljárás alá vont vagy a képviselője a tárgyaláson nem jelent meg, a tárgyalást megtartani és az ügyet érdemben elbírálni csak akkor lehet, ha őket a tárgyalásról megfelelő időben értesítették.

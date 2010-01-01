@@ -1,0 +1,1 @@
+131. § Ha az igazságügyi alkalmazott e törvény szerint járó szabadsága a korábbi szabadságához képest csökkenne, mindaddig a törvény hatálybalépése előtt megállapított szabadságára jogosult, amíg annak mértékét az e törvény szerinti szabadsága meg nem haladja.

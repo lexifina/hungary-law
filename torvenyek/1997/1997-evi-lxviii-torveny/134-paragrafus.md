@@ -1,0 +1,1 @@
+134. § Az igazságügyi alkalmazott az e törvény hatálybalépése előtt adományozott főtanácsosi és tanácsosi címeket tovább viselheti, amennyiben az adományozás feltételeinek megfelel, a címmel járó pótlékot is e törvény rendelkezései szerint kell folyósítani.

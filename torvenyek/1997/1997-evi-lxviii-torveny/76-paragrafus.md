@@ -1,0 +1,1 @@
+76. § A fegyelmi eljárás lefolytatásával összefüggő költségeket az igazságügyi szerv viseli, ha azonban a fegyelmi felelősséget jogerősen megállapították, a fegyelmi eljárás alá vont köteles megtéríteni az általa indítványozott eljárási cselekmények, illetve a részéről igénybe vett képviselő költségeit.
