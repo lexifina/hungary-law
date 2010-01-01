@@ -1,0 +1,1 @@
+207. § A szociális gondoskodás keretében a szociális igazgatásról és szociális ellátásokról szóló jogszabályokban biztosítottakon túl, a fegyveres szerv saját költségvetése terhére pénzbeni, természetbeni, személyes gondoskodást nyújtó alap- és szakosított ellátást biztosít.

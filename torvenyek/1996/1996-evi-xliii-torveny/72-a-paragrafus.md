@@ -1,0 +1,1 @@
+72/A. § A miniszter állapítja meg azokat a szolgálati beosztásokat, amelyek betöltéséhez a 72. §-ban meghatározott iskolai végzettségen túl további iskolai végzettség, szakképesítés vagy szaktanfolyam szükséges.

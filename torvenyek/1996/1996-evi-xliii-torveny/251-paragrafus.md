@@ -1,0 +1,3 @@
+251. § (1) A miniszter határozza meg e fejezet hatálya alá tartozó fegyveres szerveknél rendszeresített beosztásokat, a betöltésükhöz szükséges további követelményeket (iskolai végzettség, szakképesítés, sorkatonai szolgálat letöltése), a beosztásokban elérhető legmagasabb rendfokozatokat, valamint a beosztásokhoz tartozó fizetési fokozatokat.
+
+(2) A középfokú rendvédelmi oktatási intézményekben tanulmányokat folytató személyeket – a miniszter által meghatározott rendben – az első oktatási év eredményes befejezését követően – legalább 6, de legfeljebb 12 havi próbaidő kikötésével – hivatásos állományba lehet venni.

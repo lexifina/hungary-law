@@ -1,0 +1,1 @@
+165. § A fegyveres szerv a 162. § (1) bekezdésén, továbbá a 164. § (1) és (4) bekezdésén alapuló felelőssége alapján a hivatásos állomány tagjának elmaradt jövedelmét, dologi és nem vagyoni kárát, a sérelemmel, illetve ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.

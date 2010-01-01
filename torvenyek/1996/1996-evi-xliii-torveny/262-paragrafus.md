@@ -1,0 +1,1 @@
+262. § A foglalkoztatásra vonatkozó speciális szabályokat – a hatályos jogszabályok keretei között – a miniszter állapítja meg, továbbá – a költségvetési és társadalombiztosítási kötelezettségek teljesítése és a járandóságok tekintetében – az érintett szervezetekkel kötött megállapodás tartalmazza.

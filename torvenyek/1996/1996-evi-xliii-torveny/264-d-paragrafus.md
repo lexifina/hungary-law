@@ -1,0 +1,3 @@
+264/D. § (1) Határozott idejű szolgálati viszony a 60. életévét be nem töltött, legalább két éve szolgálati nyugállományba tartozó, magyar állampolgárságú, a nemzetbiztonsági feltételeknek megfelelő, legfeljebb alezredes rendfokozatú, a beosztáshoz meghatározott képzettséggel rendelkező rendőrrel, illetve nyugállományú határőrrel létesíthető. A határozott idejű szolgálati viszony létesítésének egészségi alkalmassági feltételeit, a betölthető beosztásokat megállapító, e törvény végrehajtására kiadott rendelet határozza meg.
+
+(2) Határozott idejű szolgálati viszony kettő, vagy három évre létesíthető, amely – legfeljebb a rendőr 62. életévének betöltéséig – két alkalommal, esetenként legfeljebb három évvel meghosszabbítható.

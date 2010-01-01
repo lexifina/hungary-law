@@ -1,0 +1,1 @@
+264/L. § A határozott idejű szolgálati viszonyban álló rendőr szolgálati viszonyának létesítése és megszüntetése tekintetében a megyei rendőrfőkapitány, egyéb tekintetben pedig a helyi rendőri szerv vezetője a munkáltatói jogot gyakorló szolgálati elöljáró.

@@ -1,0 +1,1 @@
+264/E. § A határozott idejű szolgálati viszony önkéntes jelentkezés alapján, különleges állományba vétellel jön létre. A különleges állományba vételi döntésben meg kell állapítani a szolgálatteljesítés helyét és a betöltendő beosztást.
