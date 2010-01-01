@@ -1,0 +1,5 @@
+## 71. § A kiküldött járandóságait a besorolási határozat (parancs), illetőleg a kiutazási engedély tartalmazza. A besorolási határozat (parancs), illetve a kiutazási engedély tervezetének pénzügyi járandóságokra vonatkozó szövegrészét a HM KPÜ-vel előzetesen véleményeztetni (ellenjegyeztetni) kell.
+
+72. § (1) A tartós külföldi tanulmányokat folytató kiküldöttek esetében egyszeri alkalommal, a kiutazás előtti nyolc munkanapon belül 2000 EUR, illetőleg annak megfelelő összegű, a tárgyhónapot megelőző hónap tizenötödik napján érvényes, hivatalos MNB devizaárfolyamon átszámított, visszatérítés-köteles USD utazási előleget kell folyósítani, amelyet az illetékes pénzügyi ellátó szerv indokolt esetben legfeljebb kéthavi várható kiadásnak megfelelő összegű kiegészítéssel megemelhet.
+
+(2) Az utazási előleget a visszaérkezést követő nyolc munkanapon belül, a tizenkét hónapot meghaladó külföldi tanulmányokat folytatók esetében pedig az első szabadságra történő hazautazás során kell a honvédség részére visszatéríteni.

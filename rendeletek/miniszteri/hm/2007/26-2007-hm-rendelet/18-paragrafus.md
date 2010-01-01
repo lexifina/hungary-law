@@ -1,0 +1,5 @@
+## Lakhatási költségek
+
+18. § (1) A kiküldöttnek a honvédség – a kiküldött feladatkörének, a család összetételének, létszámának és az állomáshely körülményeinek megfelelő – elhelyezést biztosít. Az elhelyezés során a kiküldött és családja részére megfelelő, berendezett lakást, élet- és munkakörülményeket kell biztosítani. A honvédség tulajdonának védelme érdekében szükség szerint gondoskodni kell a technikai biztosítás feltételeiről.
+
+(2) A kiküldött részére a megfelelő elhelyezésnek a honvédség által történő rendelkezésre bocsátásánál (a lakás kiválasztásakor) a lakásbérletről szóló jogszabályban meghatározott lakásigény jogos mértékét, a szolgálati és biztonsági követelményeket, a gazdaságossági szempontokat, továbbá az állomáshelyen érvényesülő sajátosságokat, valamint lehetőség szerint a kiküldött egyedi igényeit is figyelembe kell venni. Az e bekezdésben említett jogszabálytól való eltérést indokolt esetben – az illetékes logisztikai ellátó szerv javaslata alapján – a HM hatáskörrel rendelkező szakállamtitkára [a 3. § i) pont 6. alpontja szerinti szervezetek állománya esetében az MK KFH főigazgatója] engedélyezheti.

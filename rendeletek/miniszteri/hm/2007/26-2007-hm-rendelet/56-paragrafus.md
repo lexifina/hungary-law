@@ -1,0 +1,3 @@
+56. § (1) A Magyar Köztársasággal szomszédos országokba, valamint a Cseh Köztársaságba történő utazások során vonat, autóbusz, szolgálati gépjármű, illetőleg – a 28. §-ban foglaltak figyelembevételével – magángépjármű vehető igénybe. Ukrajnába, illetőleg Romániába történő utazásnál szükség esetén a kiküldő repülőgép igénybevételét is engedélyezheti.
+
+(2) Az (1) bekezdésben fel nem sorolt ideiglenes külföldi szolgálat alkalmával repülőgép vehető igénybe. A kiküldő azonban dönthet úgy, hogy ezekben az esetekben is más közlekedési eszközzel történjen az utazás, amennyiben ezzel költségmegtakarítás érhető el.
