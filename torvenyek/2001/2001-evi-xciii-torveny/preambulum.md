@@ -1,0 +1,1 @@
+Az Országgyűlés a piacgazdaság kiépítésének következményeként, a forint konvertibilitását teljessé téve, az Európai Unióhoz történő csatlakozásra való felkészülés érdekében törvényt alkot a devizakorlátozások megszüntetéséről, a tőke szabad áramlásának elősegítéséről.
