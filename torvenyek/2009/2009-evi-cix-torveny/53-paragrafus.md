@@ -1,0 +1,3 @@
+53. § (1) A közteherviselés rendszerének átalakítását célzó törvénymódosításokról szóló 2009. évi LXXVII. törvény 226. §-ának (1) bekezdésében az „e törvény hatálybalépését megelőzően” szövegrész helyébe a „2009. december 31-éig” szövegrész; a „2009. december 31-éig kérheti” szövegrész helyébe a „2009. december 31-éig, illetve a társadalombiztosítási nyugellátást 2010. január 1-jét megelőző hatállyal megállapító első fokú határozat 2009. december 15-ét követő kézhezvétele esetén legkésőbb a határozat kézhezvételétől számított 15 napon belül kérheti” szövegrész lép.
+
+(2) E törvény kihirdetését követő napon hatályát veszti a közteherviselés rendszerének átalakítását célzó törvénymódosításokról szóló 2009. évi LXXVII. törvény 226. §-ának (2) bekezdése.

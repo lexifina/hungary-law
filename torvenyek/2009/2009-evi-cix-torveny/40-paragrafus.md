@@ -1,0 +1,7 @@
+## A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
+
+40. § A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 142. §-a a következő (14) és (15) bekezdéssel egészül ki:
+
+„(14) Az Szt. általános szabályaitól eltérően a (2) bekezdés szerinti rendeletben rögzített éves árkorrekciós mechanizmus alapján keletkező, az átviteli rendszerirányítónak járó, a következő évek díjaiban elismerendő különbözeteket az átviteli rendszerirányító köteles az éves beszámolójának mérlegében aktív időbeli elhatárolásként szerepeltetni, köteles továbbá az átviteli rendszerirányító éves beszámolójának mérlegében az átviteli rendszerirányítótól a következő évek díjaiban elvonandó különbözeteket a határkeresztező aukcióból származó bevételeinek a tárgyévi, az átviteli-rendszerirányítási díjban a következő évben figyelembe vett bevételeivel együtt passzív időbeli elhatárolásként szerepeltetni. Az ebben a bekezdésben foglaltak alapján elkészített beszámoló a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. § (5) bekezdése alkalmazásában a számvitelről szóló törvény rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.
+
+(15) A (2) bekezdés szerinti rendeletben meghatározott az átviteli rendszerirányító átviteli rendszerirányítási díjból származó bevételének az elosztók között megosztott része árengedménynek minősül. A megosztott részre az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdésében és 77. § (3) bekezdésében meghatározottak alkalmazandók.”
