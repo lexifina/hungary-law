@@ -1,0 +1,1 @@
+## Az irányítás sajátos szabályai
