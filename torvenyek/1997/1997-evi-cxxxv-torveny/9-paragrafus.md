@@ -1,0 +1,1 @@
+9. § Két vagy több képviselő-testület közös döntéshozó szerv létrehozásával megállapodhat intézmény vagy más szervezet közös fenntartásában, egyes alapítói jogok közös gyakorlásában, munkavállaló közös foglalkoztatásában, illetve feladat, hatáskör, szolgáltatás más módon történő közös ellátásában.

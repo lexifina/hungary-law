@@ -1,0 +1,1 @@
+2. § A helyi önkormányzatok képviselő-testületei (a továbbiakban: képviselő-testület) önkéntes és szabad elhatározásukból, egyenjogúságuk tiszteletben tartásával, a kölcsönös előnyök és az arányos teherviselés alapján írásbeli megállapodással hozhatnak létre társulást.

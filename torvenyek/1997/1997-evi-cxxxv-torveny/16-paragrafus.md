@@ -1,0 +1,1 @@
+16. § Két vagy több képviselő-testület megállapodhat jogi személyiséggel rendelkező társulás létrehozásában, ha a feladat, szolgáltatás közös ellátása, intézmény vagy más szervezet közös alapítása, fenntartása szükségessé teszi, hogy a társulás önállóan vállaljon kötelezettségeket, és rendelkezzen vagyoni jogokkal.

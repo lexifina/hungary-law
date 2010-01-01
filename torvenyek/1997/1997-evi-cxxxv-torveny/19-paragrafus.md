@@ -1,0 +1,3 @@
+## Együttműködés
+
+19. § A helyi önkormányzatok képviselő-testületei, bizottságai, polgármesterei, jegyzői, a képviselő-testületek intézményei, társulásai feladatkörükben egymással, illetve más jogi személlyel és jogi személyiséggel nem rendelkező szervezettel eseti és rendszeres kapcsolatot alakíthatnak ki, tanácskozásokat, közös rendezvényeket szervezhetnek tapasztalataik kölcsönös átadása, a helyi sajátosságoknak megfelelő szervezeti megoldások, kulturális és egyéb feladataik hatékonyabb, eredményesebb és színvonalasabb ellátása, valamint a lakosság önszerveződő közösségeivel, a társadalmi és érdekképviseleti szervekkel való hatékonyabb és szélesebb körű együttműködés érdekében.
