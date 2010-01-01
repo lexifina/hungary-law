@@ -1,0 +1,5 @@
+72/A. § (1) A szervező névre szóló belépőjegyet és bérletet, a sportszervezet klubkártyát állíthat ki és értékesíthet. A belépőjegyen, bérleten, illetve klubkártyán a sportrendezvényre ezekkel belépésre jogosult személy nevét, születési helyét és idejét (a továbbiakban: természetes személyazonosító adatok), valamint lakcímét az azokat kibocsátó szervező vagy sportszervezet annak érvényességét követő 24 óráig nyilvántartja.
+
+(2) Az (1) bekezdésben foglaltak alapján kiadott belépőjegy, bérlet, valamint klubkártya, illetve az abban szereplő személyes adat csak a sportrendezvény helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás, továbbá a sportrendezvényről való eltiltás során használható fel.
+
+(3) Az (1) bekezdésében meghatározott határidőn belül a (2) bekezdés szerinti személyes adatot megkeresésre a nyomozó hatóság, az ügyészség és a bíróság részére büntető- vagy szabálysértési eljárásban bizonyítási eszközként való felhasználás céljából továbbítani lehet.
