@@ -1,0 +1,1 @@
+7. § Az állami adóhatóság a szerencsejáték-szervezés hatósági felügyeletét látja el, tevékenységének célja a szerencsejáték-piac zavartalan és eredményes működésének, a játékosok érdekei védelmének, továbbá a szerencsejáték-piaccal szembeni bizalom erősítésének érdekében a szerencsejáték-szervezők joggyakorlásának elősegítése és a szerencsejáték-piac folyamatos felügyelete.

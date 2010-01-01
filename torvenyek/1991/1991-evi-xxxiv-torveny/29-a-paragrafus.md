@@ -1,0 +1,11 @@
+## Játékautomaták üzemeltetése
+
+29/A. § (1) Játékautomatának minősül az az elektronikusan vagy mechanikusan vezérelt játék folytatására alkalmas, szórakoztató szolgáltatást nyújtó berendezés, amely nem tartozik a 26. § (1) bekezdésének hatálya alá. Az állami adóhatóság dönt abban a kérdésben, hogy valamely berendezés játékautomatának minősül-e.
+
+(2)
+
+(3) Az üzemeltető köteles – nyilvántartásba vétel céljából – az állami adóhatósághoz bejelenteni az általa működtetni kívánt játékautomatát. Az állami adóhatóság a játékautomatát a kérelemben foglalt időtartamra, de legfeljebb hitelességének időtartamára veszi nyilvántartásba. A játékautomata a bejelentési kötelezettség megfelelő teljesítése nélkül nem üzemeltethető.
+
+(4) Az állami adóhatóság csak azokat a játékautomatákat veszi nyilvántartásba, amelyek a jogszabályban a játékautomatákra előírt műszaki követelményeknek megfelelnek.
+
+(5) A (3) bekezdés szerint bejelentési kötelezettség elmulasztása esetén a 26/A. § rendelkezéseit megfelelően alkalmazni kell.

@@ -1,0 +1,3 @@
+23. § (1) Aki rendszeresen, saját nevében áruk, szolgáltatások értékesítését végzi, engedély nélkül rendezhet és bonyolíthat le vásárlással vagy szolgáltatás igénybevételével egybekötött ajándéksorsolásos akciót (a továbbiakban: ajándéksorsolás), amelyben a vásárlónak a meghatározott értékű, mennyiségű vagy fajtájú áru megvételekor vagy szolgáltatás igénybevételekor kapott sorsjegy nyilvános kihúzása esetén áru vagy szolgáltatás formájában nyereményt kell adni.
+
+(2) Ajándéksorsolás lebonyolítása során az 1. § (8) bekezdését, a 11. § (8)–(10) bekezdéseit, a 15. § (2) bekezdését, a 16. § (2) bekezdését és a 17–19. §-okat megfelelően alkalmazni kell azzal az eltéréssel, hogy pénznyeremény sorsolására nincs lehetőség.

@@ -1,0 +1,1 @@
+22. § Számsorsjáték az a rendezvény, amelynek keretében a szerencsejáték szervező köteles a meghatározott pénzösszegért megvásárolt sorsjegy birtokosának előre meghatározott nyereményt adni, ha a sorsjegy számsorában megjelölt egy vagy több szám azonos a nyilvános sorsoláson kihúzott számmal.

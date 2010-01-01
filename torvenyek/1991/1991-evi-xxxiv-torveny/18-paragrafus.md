@@ -1,0 +1,3 @@
+18. § (1) Az állami adóhatóság a sorsolásos játék játékterv szerinti lebonyolítását ellenőrzi. Ha az állami adóhatóság az engedélyben eltérően nem rendelkezik, a sorsolásnál közjegyző jelenléte kötelező. A közjegyző jelenlétéről a szerencsejáték szervező gondoskodik.
+
+(2) Ha a sorsjátékot nem a játéktervnek megfelelően bonyolítják le, az állami adóhatóság megbízottja a sorsolásos játék folytatását felfüggeszti és kezdeményezi az állami adóhatóságnál a 12. §-ban, illetőleg a 13. § (1) és (2) bekezdésében foglalt szankciók alkalmazását. A játékosok kártalanításáról a szerencsejáték szervező gondoskodik.
