@@ -1,0 +1,1 @@
+A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 11. §-ának (6) bekezdésében és 38. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:

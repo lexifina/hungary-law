@@ -1,0 +1,1 @@
+## 15. § A témavizsgálat több ellenőrzött szervezet vagy személy szerencsejáték-szervező tevékenységének, illetve székhelyükön ugyanazon szempontok alapján lebonyolított ellenőrzése, figyelemmel az összehasonlításra és a későbbi részletesebb vizsgálatok megalapozásának elősegítésére.

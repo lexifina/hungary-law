@@ -1,0 +1,12 @@
+## 42/A. §[^141] A szervező az elektronikus kaszinó üzemeltetésére vonatkozó játékterv módosítását a módosítást megelőzően legalább 15 nappal az állami adóhatóság által rendszeresített formanyomtatványon köteles előterjeszteni. A szervező a formanyomtatványhoz köteles csatolni az elektronikus kaszinó módosításokat tartalmazó egységes szerkezetbe foglalt játéktervét.
+
+43. § (1)[^142] A játékterem-engedélyt a szervező kérelmére az állami adóhatóság érvényteleníti. Az erre irányuló kérelmet az állami adóhatóság által rendszeresített formanyomtatványon, az APEH Központi Hivatalának a szervező székhelye szerinti kihelyezett szerencsejáték felügyeleti feladatot ellátó szervezeti egységénél kell előterjeszteni, legkésőbb a játékterem működtetésének megszűnését követő első ügyfélfogadási napon. A kérelem előterjesztésével egyidejűleg az engedélyt le kell adni.
+
+(2)[^143] Ha a szervező valamennyi pénznyerő automata engedélyének érvényessége bármely okból megszűnik, vagy a játékterem-engedélyt az állami adóhatóság visszavonja, illetve, ha a szervezőt a játékterem üzemeltetésétől eltiltja, az állami adóhatóság a játékterem-engedély érvénytelenségét is megállapítja. Az érvénytelenített engedélyt a határozat végrehajthatóságát követő nyolc napon belül az APEH Központi Hivatalának a társaság székhelye szerinti kihelyezett szerencsejáték felügyeleti feladatot ellátó szervezeti egységénél le kell adni.
+
+(3)[^144] Ha a szervező játékterem engedélyét az állami adóhatóság az Szjtv. 13. § (1) bekezdése alapján felfüggesztette, a szervező köteles a játékterem engedélyt a határozat végrehajthatóságát követő nyolc napon belül az APEH Központi Hivatalának a társaság székhelye szerinti kihelyezett szerencsejáték felügyeleti feladatot ellátó szervezeti egységénél leadni.
+
+[^141]: A 42/A. §-t a 19/2006. (VII. 31.) PM rendelet 17. §-a iktatta be, szövege a 36/2006. (XII. 25.) PM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^142]: A 43. § (1) bekezdése a 32/2007. (XII. 21.) PM rendelet 14. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 30. § (5)–(6) bekezdését.
+[^143]: A 43. § (2) bekezdése a 36/2006. (XII. 25.) PM rendelet 4. § (1)–(2) bekezdése szerint módosított szöveg.
+[^144]: A 43. § (3) bekezdését a 19/2006. (VII. 31.) PM rendelet 18. § (2) bekezdése iktatta be, szövege a 36/2006. (XII. 25.) PM rendelet 4. § (1)–(2) bekezdése szerint módosított szöveg.
