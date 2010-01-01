@@ -1,0 +1,13 @@
+## A HALLGATÓK KÖZÖSSÉGEI, A HALLGATÓI ÖNKORMÁNYZATOK, A HALLGATÓK ORSZÁGOS KÉPVISELETE
+
+77. § (1) A felsőoktatási intézményekben a hallgatói érdekek képviseletére – a felsőoktatási intézmény részeként – hallgatói önkormányzat működik. A hallgatói önkormányzatnak minden hallgató tagja. A hallgatói önkormányzat tevékenysége a hallgatókat érintő valamennyi kérdésre kiterjed. Az e törvényben szabályozott eljárásokban a hallgató képviseletében – megbízás alapján – a hallgatói önkormányzat is eljárhat. A hallgatói önkormányzat az e törvényben meghatározott jogosítványait akkor gyakorolhatja, ha megválasztotta tisztségviselőit, és jóváhagyták az alapszabályát.
+
+(2) A hallgatói önkormányzat dönt saját működéséről, a hallgatói önkormányzat működéséhez biztosított anyagi eszközök felhasználásáról, hatáskörei gyakorlásáról, az intézményi tájékoztatási rendszer létrehozásáról és működtetéséről. A hallgatói önkormányzat részére érdekképviseleti tevékenysége körében utasítás nem adható. A hallgatói önkormányzat megválasztja tisztségviselőit, ennek során minden érintett hallgató választó, illetve választható. Érvényes a választás, ha azon a hallgatók legalább húsz százaléka részt vett.
+
+(3) A hallgatói önkormányzat alapszabálya határozza meg a hallgatói önkormányzat működésének a rendjét. Az alapszabályt a hallgatói önkormányzat küldöttgyűlése fogadja el, és a szenátus jóváhagyásával válik érvényessé. Az alapszabály jóváhagyása csak akkor tagadható meg, ha az jogszabálysértő vagy ellentétes a felsőoktatási intézmény szervezeti és működési szabályzatával. Az alapszabály jóváhagyásáról a szenátusnak legkésőbb a beterjesztést követő harmincadik nap eltelte utáni első ülésen nyilatkoznia kell. Az alapszabályt, illetve módosítását jóváhagyottnak kell tekinteni, ha a szenátus a meghatározott határidőn belül nem nyilatkozott.
+
+(4) A hallgatói önkormányzat működéséhez és a feladatai elvégzéséhez a felsőoktatási intézmény biztosítja a feltételeket, amelynek jogszerű felhasználását jogosult ellenőrizni. A hallgatói önkormányzat feladatainak ellátásához térítésmentesen használhatja a felsőoktatási intézmény, kollégium helyiségeit, berendezéseit, ha ezzel nem korlátozza a felsőoktatási intézmény, kollégium működését.
+
+(5) A hallgatói önkormányzat az e törvényben meghatározott jogainak megsértése esetén – beleértve azt is, ha az alapszabályának jóváhagyását megtagadják – a közléstől számított harminc napon belül jogszabálysértésre vagy intézményi szabályzatban foglaltakba ütközésre hivatkozással bírósághoz fordulhat.
+
+(6) A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a döntést megváltoztathatja. Az eljárásra a Fővárosi Bíróság az illetékes. A kérelem benyújtásának a döntés végrehajtására halasztó hatálya van.

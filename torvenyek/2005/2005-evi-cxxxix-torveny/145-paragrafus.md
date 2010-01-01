@@ -1,0 +1,17 @@
+## A PEDAGÓGUSKÉPZÉSRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
+
+145. § (1) A pedagógusképzést folytató felsőoktatási intézmény – a külön törvényben meghatározottak szerint – elláthatja az e törvényben meghatározott feladatai mellett a közoktatás feladatait is. A pedagógusképzést folytató felsőoktatási intézmények tevékenységüket a közoktatás igényeinek figyelembevételével végzik. A pedagógusképzést folytató felsőoktatási intézmény közoktatási intézményt tarthat fenn, illetve kapcsolatot tarthat, együttműködhet közoktatási intézménnyel.
+
+(2) A pedagógusképzést folytató felsőoktatási intézményben tanulmányokat folytató hallgatók a közoktatási intézményben vesznek részt gyakorlati felkészítésben. Ha a közoktatási intézményt a felsőoktatási intézmény tartja fenn, az részben vagy egészében gyakorló közoktatási intézményként működhet. A gyakorló közoktatási intézményt a felsőoktatási intézmény a közoktatásról szóló törvény alapján intézményalapításra jogosulttal közösen is fenntarthatja. Gyakorló közoktatási intézményként működhet az egyházi jogi személy által fenntartott közoktatási intézmény, amennyiben az egyházi jogi személy által fenntartott felsőoktatási intézmény pedagógusképzési tevékenységet is folytat. A hallgatók gyakorlati felkészítése megvalósítható – megállapodás alapján – bármelyik közoktatási intézményben. A gyakorló közoktatási intézmények által ellátott közoktatási feladatok után az éves költségvetésről szóló törvényben meghatározottak szerint a helyi önkormányzatok részére biztosított normatív hozzájárulások kétszerese vehető igénybe.
+
+(3) A pedagógusképzést folytató felsőoktatási intézmények közreműködnek a pedagógus továbbképzésben, a pedagógiai kutatásokban, segítik a miniszter közoktatással összefüggő ágazati feladatainak a végrehajtását.
+
+(4) A miniszter az ágazati feladatainak körében, a közoktatási és a pedagógusképzést folytató felsőoktatási intézményrendszer fejlesztéséhez, a pedagógusképzés korszerűsítéséhez, az ehhez szükséges szakmai feltételek megteremtéséhez – a pedagógusképzést folytató felsőoktatási intézményekre építve – regionális szolgáltató és kutatóhálózatot hoz létre és működtet. A miniszter az e bekezdésben és a (2) bekezdésben meghatározott feladatok ellátására az érintett felsőoktatási intézménnyel megállapodást köt. A miniszter megszervezi a pedagógusképzés-fejlesztés országos szolgáltatási és kutatási feladatainak az ellátását.
+
+(5) Ha a felsőoktatási intézményben több oktatási szervezeti egységben folyik pedagógusképzés, a szervezeti és működési szabályzatban meg kell határozni azt az oktatási szervezeti egységet vagy a szenátus által létrehozott testületet, amelyik ellátja a különböző szervezeti egységekben folyó oktatómunka, valamint az ehhez kapcsolódó gyakorlati képzés összehangolását. Ennek a szervezeti egységnek a vezetője felel a felsőoktatási intézményben folyó pedagógusképzés összehangolásáért.
+
+(6) Tanári szakképzettség csak mesterképzésben szerezhető. A tanári szakképzettség megszerzésének előfeltétele a szakmai gyakorlat teljesítése. A tanári szakképzettséget nyújtó mesterképzésben százötven kreditet lehet szerezni.
+
+(7) A Kormány határozza meg a pedagógusképzésben az alap- és mesterképzés szakjait, továbbá a mesterképzés szakosodási rendszerének általános szabályait. A miniszter rendeletben határozza meg a tanári mesterség képzési és kimeneti követelményeit.
+
+(8) A Magyar Felsőoktatási Akkreditációs Bizottságban a pedagógusképzéssel kapcsolatos feladatokat ellátó állandó szakmai és szakértői bizottság működik.

@@ -1,0 +1,5 @@
+50. § (1) Ha a hallgató bejelenti, hogy a következő képzési időszakban hallgatói kötelezettségének nem kíván eleget tenni, a hallgatói jogviszonya szünetel. A hallgatói jogviszony egybefüggő szüneteltetésének ideje nem lehet hosszabb, mint két félév. A hallgató több alkalommal is élhet a hallgatói jogviszonyának szüneteltetésével. Az első szünetelésre – ha a tanulmányi és vizsgaszabályzat eltérően nem rendelkezik – csak az első félév sikeres teljesítése után kerülhet sor. A hallgatói jogviszony szüneteltetésével kapcsolatos további kérdéseket – beleértve az első félév sikeres teljesítése előtti szünetelés lehetőségét – a tanulmányi és vizsgaszabályzat szabályozza.
+
+(2) Szünetel a hallgatói jogviszony akkor is, ha a hallgató a hallgatói jogviszonyból eredő kötelezettségeinek szülés, továbbá baleset, betegség, vagy más váratlan ok miatt, önhibáján kívül nem tud eleget tenni. Az e bekezdésben meghatározott esetekben nem kell alkalmazni az (1) bekezdésben meghatározott korlátozásokat.
+
+(3) Szünetel a hallgatói jogviszony, ha a hallgatót fegyelmi büntetésként eltiltják a tanulmányok folytatásától [70. § (2) bekezdés d) pont].

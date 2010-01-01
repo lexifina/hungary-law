@@ -1,0 +1,1 @@
+31/A. § A 31. § (2) bekezdés b) pontja szerinti magyar felsőoktatási intézmények közötti együttműködésben megvalósuló közös képzés eredményeként a szakindítási engedéllyel rendelkező intézmény jogosult kiállítani az oklevelet.

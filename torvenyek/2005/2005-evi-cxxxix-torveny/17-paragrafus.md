@@ -1,0 +1,5 @@
+17. § (1) A nem állami felsőoktatási intézmény fenntartói joga megállapodással másik, a fenntartói jog gyakorlására jogosultnak átadható. Ha a felsőoktatási intézmény fenntartójának személyében következik be változás anélkül, hogy az érintené a felsőoktatási intézmény tevékenységét és működését, a regisztrációs központ azt vizsgálja, hogy az új fenntartó rendelkezik-e a felsőoktatási intézmény folyamatos működtetéséhez szükséges feltételekkel. A fenntartói jog átadása tárgyában kötött megállapodás a regisztrációs központ határozatának jogerőre emelkedésével jön létre.
+
+(2) A fenntartói jog változása nem érinti a felsőoktatási intézmény állami elismerését. A felsőoktatási intézmény jogai és kötelezettségei nem változnak. A fenntartói jog változása a hallgatói jogviszonyt nem érinti. A fenntartói jog változása esetén a felsőoktatási intézményben alkalmazottak további foglalkoztatását – a foglalkoztatási jogviszony létesítésére vonatkozó rendelkezések figyelembevételével – biztosítani kell.
+
+(3) A regisztrációs központ az e §-ban meghatározott döntéseit a 106. §-ban meghatározott eljárás szerint hozza meg.

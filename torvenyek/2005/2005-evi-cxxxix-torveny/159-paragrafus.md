@@ -1,0 +1,7 @@
+159. § (1) A felsőoktatási intézmények az 1993. évi felsőoktatásról szóló törvény alapján kiadott követelményekre építve kezdhetnek szakirányú továbbképzést, továbbá kiegészítő alapképzést mindaddig, ameddig az e törvény alapján megkezdett alapképzésre épülve szakirányú továbbképzés, illetve mesterképzés nem indítható.
+
+(2) A felsőoktatási intézmények a doktori képzést az egyetemi képzés követelményeire építve indíthatják mindaddig, ameddig az e törvényben szabályozott mesterképzés alapján a doktori képzés nem indítható meg. Ettől az időponttól kezdődően a doktori képzést a mesterképzésre építve kell indítani, azonban biztosítani kell, hogy az egyetemi szintű végzettséggel rendelkezők a doktori képzésbe bekapcsolódhassanak.
+
+(3) Ha a doktorandusz a doktori képzést az 1993. évi felsőoktatásról szóló törvény rendelkezései alapján kezdte meg, azt az előírt követelmények szerint fejezheti be. A doktori képzés és fokozatszerzés eljárási kérdéseire e törvény rendelkezéseit kell alkalmazni. A doktori képzésben résztvevőknek az e törvényben meghatározott fokozatokat kell odaítélni. Az 1993. évi felsőoktatásról szóló törvény alapján odaítélt doktori fokozatok egyenértékűek az e törvény alapján kiadott doktori fokozatokkal.
+
+(4) Az 53. § (4) bekezdés szerinti doktori képzésre biztosítandó államilag támogatott létszámkeretre vonatkozó rendelkezést a 2009/2010-es tanévtől kell alkalmazni, azzal, hogy a 2006/2007-es tanévtől kezdődően a doktori képzésben résztvevők száma nem lehet kevesebb, mint a 2005/2006-os tanévben.

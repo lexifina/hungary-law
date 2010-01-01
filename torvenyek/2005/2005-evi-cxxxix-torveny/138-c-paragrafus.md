@@ -1,0 +1,3 @@
+138/C. § (1) Ha a nemzetközi jellegű felsőoktatási intézmény nem felel meg a 138/A. § (1) bekezdésében foglaltaknak, a minősítés visszavonása érdekében a működési engedélyét módosítani kell. A módosítással kapcsolatos eljárás megindítását a regisztrációs központ – a fenntartó kérelmére, a bíróság jogerős ítélete alapján, vagy hivatalból – folytatja le.
+
+(2) Ha a felsőoktatási intézmény nemzetközi jellegű minősítését visszavonták, a működési engedélyét módosították, az intézmény magán felsőoktatási intézményekre vonatkozó szabályok szerint működhet tovább, azzal, hogy a nemzetközi jellegű felsőoktatási intézményre vonatkozó sajátos feltételek szerint már megkezdett képzéseket kifutó rendszerben folytathatja.

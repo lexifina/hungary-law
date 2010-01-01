@@ -1,0 +1,1 @@
+163. § Az e törvény hatálybalépésekor működő nem állami felsőoktatási intézmények az állandó oktatói, kutatói karra vonatkozó rendelkezések szerinti működésre 2008. szeptember 1-jétől kezdődően kötelesek.

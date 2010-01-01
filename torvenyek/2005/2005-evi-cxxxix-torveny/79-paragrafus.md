@@ -1,0 +1,11 @@
+79. § (1) A hallgatók országos képviseletét – a (4)–(6) bekezdésben meghatározott kivétellel – a Hallgatói Önkormányzatok Országos Konferenciája látja el, amely véleményt nyilváníthat, illetve javaslatot tehet a felsőoktatást érintő bármely kérdésben. A Hallgatói Önkormányzatok Országos Konferenciája ellátja a hallgatók képviseletét a felsőoktatás országos szervezeteiben.
+
+(2) A Hallgatói Önkormányzatok Országos Konferenciája jogi személy, székhelye Budapest, képviseletére az elnök jogosult. A Hallgatói Önkormányzatok Országos Konferenciája jogosult a Magyar Köztársaság címerének használatára. A Hallgatói Önkormányzatok Országos Konferenciáját a regisztrációs központ veszi nyilvántartásba. A Hallgatói Önkormányzatok Országos Konferenciája felett az ügyészség gyakorol törvényességi felügyeletet. A Hallgatói Önkormányzatok Országos Konferenciája beszámolási és könyvvezetési kötelezettségére az egyéb szervezetekre vonatkozó szabályokat kell alkalmazni.
+
+(3) A Hallgatói Önkormányzatok Országos Konferenciája a hallgatói önkormányzatokból álló testület, amely elfogadja alapszabályát. A Hallgatói Önkormányzatok Országos Konferenciájának alapszabálya határozza meg azt a rendet, amely alapján a hallgatói önkormányzatok képviseltetik magukat a Hallgatói Önkormányzatok Országos Konferenciáján.
+
+(4) A felsőoktatási intézmények doktori képzésben részt vevő hallgatóinak képviseletét a Doktoranduszok Országos Szövetsége látja el. A Doktoranduszok Országos Szövetsége a doktoranduszokat érintő kérdésekben gyakorolja az (1) bekezdésben meghatározott jogköröket.
+
+(5) A Hallgatói Önkormányzatok Országos Konferenciája és a Doktoranduszok Országos Szövetsége üléseire tanácskozási joggal meg kell hívni a Magyar Rektori Konferencia képviselőjét.
+
+(6) A tudományos diákköri tevékenységet végző hallgatók és az őket támogató oktatók szakmai szervezete az Országos Tudományos Diákköri Tanács. Az Országos Tudományos Diákköri Tanács feladata a felsőoktatási intézményekben folyó hallgatói tudományos és művészeti tevékenység, a diákköri mozgalom országos képviselete és összehangolása, valamint az országos jellegű tudományos és művészeti diákfórumok szervezése. Az Országos Tudományos Diákköri Tanács működését – az általa megalkotott – szervezeti és működési szabályzat határozza meg.

@@ -1,0 +1,11 @@
+60. § (1) A felsőfokú szakképzésben a szakképzésre vonatkozó rendelkezések szerint szakmai vizsgát kell tenni.
+
+(2) A hallgató tanulmányait az alap- és mesterképzésben, a szakirányú továbbképzésben záróvizsgával fejezi be.
+
+(3) A záróvizsga az oklevél megszerzéséhez szükséges ismeretek, készségek és képességek ellenőrzése és értékelése, amelynek során a hallgatónak arról is tanúságot kell tennie, hogy a tanult ismereteket alkalmazni tudja. A záróvizsga a tantervben meghatározottak szerint több részből – szakdolgozat vagy diplomamunka megvédéséből, további szóbeli, írásbeli, gyakorlati vizsgarészekből – állhat.
+
+(4) A záróvizsgára bocsátás feltétele a végbizonyítvány (abszolutórium) megszerzése. Végbizonyítványt a felsőoktatási intézmény annak a hallgatónak állít ki, aki a tantervben előírt tanulmányi és vizsgakövetelményeket és az előírt szakmai gyakorlatot – a nyelvvizsga letétele, a szakdolgozat, diplomamunka elkészítése kivételével – teljesítette, és az előírt krediteket megszerezte. A záróvizsga a végbizonyítvány megszerzését követő vizsgaidőszakban a hallgatói jogviszony keretében, majd a hallgatói jogviszony megszűnése után, határidő nélkül, bármelyik vizsgaidőszakban, az érvényes képzési követelmények szerint letehető. A tanulmányi és vizsgaszabályzat a záróvizsga letételét a végbizonyítvány kiállításától számított hetedik év eltelte után feltételhez kötheti.
+
+(5) A záróvizsgát záróvizsga-bizottság előtt kell tenni, amelynek elnöke és legalább még két tagja van. A záróvizsga-bizottságot úgy kell összeállítani, hogy legalább egy tagja egyetemi vagy főiskolai tanár, illetve egyetemi vagy főiskolai docens legyen, továbbá legalább egy tagja ne álljon foglalkoztatási jogviszonyban az érintett felsőoktatási intézménnyel. A záróvizsgáról jegyzőkönyvet kell vezetni.
+
+(6) A felsőoktatási intézmény tanulmányi és vizsgaszabályzata határozza meg a záróvizsgára jelentkezés módját, a záróvizsga megszervezésének és lebonyolításának rendjét, eredményének kiszámítási módját. Nem bocsátható záróvizsgára az a hallgató, aki a felsőoktatási intézménnyel szemben fennálló fizetési kötelezettségének nem tett eleget. Záróvizsgát a felsőoktatási intézmények közösen is szervezhetnek.
