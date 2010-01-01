@@ -1,0 +1,1 @@
+A gazdaság és a lakosság biztonságos, megfelelő minőségű és hozzáférhető postai szolgáltatásokkal való ellátása, a postai piaci verseny kiszélesítése és az Európai Közösség jogszabályainak érvényesítése céljából az Országgyűlés a következő törvényt alkotja:
