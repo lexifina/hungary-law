@@ -1,0 +1,1 @@
+203. § Azokban az esetekben, amikor a bizonyítást a törvény szerint a bíróság helyett az elnök is lefolytathatja, a bizonyítás során a bíróságra vonatkozó szabályokat az elnök eljárására kell alkalmazni.

@@ -1,0 +1,1 @@
+269. § Amennyiben a jelen fejezet másként nem rendelkezik, a perújítási eljárás során a bíróság az általános szabályok szerint jár el. A határozathozatalra, valamint a határozatok elleni perorvoslatokra szintén az általános szabályok irányadók.

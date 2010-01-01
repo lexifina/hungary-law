@@ -1,0 +1,9 @@
+## A költségek előlegezése
+
+76. § (1) A bizonyítási eljárással járó költségeket (a tanú-, szakértői és tolmácsdíjat, a helyszíni tárgyalás és szemle költségét stb.) a bizonyító fél (164. §) köteles előlegezni, a bíróság azonban – ha ezt méltányosnak tartja – kivételesen a bizonyító fél ellenfelét is kötelezheti a bizonyítási eljárással felmerülő költségeknek vagy azok egy részének előlegezésére. Az előlegezés felől a bíróság a költségek felmerülésekor határoz, ha azonban már előre valószínűnek mutatkozik, hogy a felmerülő költségek jelentősebb összeget érnek el, vagy más körülmények ezt indokolttá teszik, a bíróság azt is elrendelheti, hogy a fél a költségek fedezésére előreláthatóan szükséges összeget a bíróságnál előzetesen tegye le. Szakértő kirendelése esetében a bíróság a szakértői díj fedezésére előreláthatólag szükséges összeg letétbe helyezését köteles elrendelni.
+
+(2) A perben kirendelt ügygondnok készkiadásának és díjának előlegezésére azt a felet kell kötelezni, aki az ügygondnok kirendelését kérte, illetőleg akinek perbeli cselekménye folytán a kirendelés szükségessé vált. Az ügygondnok készkiadásainak előlegezésére a felet esetenként, az ügygondnoki díj előlegezésére pedig általában csak az eljárást befejező határozatban kell kötelezni; szükség esetén azonban a bíróság a felet az ügygondnoki díj előlegezésére külön határozatban is kötelezheti. Ha a bíróság az előlegezésre köteles felet a költségekben s ezzel együtt az ügygondnoki díj megfizetésében is elmarasztalja, az ügygondnoki díj előlegezése tárgyában külön határozatot hozni nem kell.
+
+(3) A (2) bekezdésben megállapított kivételtől eltekintve az ellenfél eljárásával vagy képviseletével felmerülő költségek előlegezésére a felet kötelezni nem lehet.
+
+(4) Az ügyészt, valamint a külön jogszabállyal erre feljogosított szervezetet költségek előlegezésére nem lehet kötelezni, hanem a költségmentesség engedélyezése esetében irányadó szabályokat kell megfelelően alkalmazni.

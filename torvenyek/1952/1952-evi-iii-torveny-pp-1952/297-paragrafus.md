@@ -1,0 +1,1 @@
+297. § A tárgyalás kitűzéséről a keresetlevél egy példányának megküldésével az anyát akkor is értesíteni kell, ha nem peres fél; az értesítésben az anyát figyelmeztetni kell beavatkozási jogára (294. §).

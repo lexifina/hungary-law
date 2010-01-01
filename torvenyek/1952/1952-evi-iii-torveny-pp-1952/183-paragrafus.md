@@ -1,0 +1,5 @@
+183. § (1) A bíróság az igazságügyért felelős miniszter rendeletében meghatározott körbe tartozó szakkérdésekre – szakértőként történő véleménynyilvánítás végett – a rendeletben meghatározott szakértői testületet kereshet meg. A testület – külön törvényben meghatározott – bizottságban jár el.
+
+(2) A bíróság szakértői testületet akkor rendelhet ki, ha a perben felmerülő szakkérdés a 182. § alapján, két egymástól független szakvélemény előterjesztése után, a kirendelt szakértők személyes meghallgatása során sem tisztázható. A szakértői testület azonban nem kötelezhető a korábbi szakvélemények felülvéleményezésére, szakvéleménye a szakértő szakvéleményével esik egy tekintet alá.
+
+(3) Az (1) bekezdés szerinti bizottság tagjára a szakértőre vonatkozó rendelkezéseket – ideértve a kizárás és a tárgyalásra való idézés szabályait – kell megfelelően alkalmazni, azzal, hogy a tárgyalásra a szakvélemény előterjesztésekor a bizottság által megjelölt bizottsági tag vagy a bizottság képviselője idézhető.

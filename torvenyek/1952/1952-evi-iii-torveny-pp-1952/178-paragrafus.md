@@ -1,0 +1,7 @@
+178. § (1) Az, akire a 13. § (1) bekezdésének a), b), c) vagy e) pontjában meghatározott kizáró ok áll fenn, szakértőként sem járhat el, úgyszintén az sem, aki az ügyben mint bíró vett részt, illetve aki olyan gazdasági társaságnak tagja, alkalmazottja, amely az ügyben szakértőként már korábban eljárt.
+
+(2) Az ügyben szakértőként nem járhat el az a gazdasági társaság, amelynek tagjával vagy vezető tisztségviselőjével szemben a 13. § (1) bekezdésének a), b) vagy c) pontjában, illetve vezető tisztségviselőjével szemben a 13. § (1) bekezdés e) pontjában meghatározott kizáró ok áll fenn. Az ügyben nem járhat el az a szakértői intézmény sem, amelynek vezetőjével szemben 13. § (1) bekezdésének a), b), c) vagy e) pontjában meghatározott kizáró ok áll fenn.
+
+(3) A bíróság hivatalból ügyel arra, hogy kizárt szakértő az eljárásban ne vegyen részt. A kizárási okot maga a szakértő, valamint a fél köteles a bíróságnak haladéktalanul bejelenteni; ha a bejelentés a szakértő véleményének előterjesztése után történt, a bíróság a vélemény figyelembevételével dönti el, hogy más szakértő meghallgatása szükséges-e.
+
+(4) A bíróság a kizárás tárgyában a felek és a szakértő meghallgatása (113. §) után határoz, határozata ellen külön fellebbezésnek helye nincs. Ha a szakértőt a megkeresett bíróság rendelte ki, a kizárás felől is ez határoz; ha azonban a kizárási okot a szakvélemény előterjesztése után jelentik be, a (2) bekezdés alkalmazásával a perbíróság dönt.

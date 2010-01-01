@@ -1,0 +1,5 @@
+82. § (1) Az 51. § a) pontja alá eső pertársakat a perköltség megfizetésére egyetemlegesen kell kötelezni.
+
+(2) Egyéb pertársakat egyenlő arányban kell a perköltség megfizetésére kötelezni, a pertársak perbeli érdekeltsége között fennálló jelentékenyebb eltérés esetén azonban a perköltséget az érdekeltség arányában meg kell osztani. Az a költség, amely kizárólag a pertársak egyikének vagy egy részének perbeli cselekménye folytán merült fel, a többi pertársakat nem terheli.
+
+(3) Az ügyész, állami szerv, valamint a per megindítására, illetőleg az abban való fellépésre külön jogszabállyal feljogosított más személy vagy szervezet és a perben érvényesített igény jogosultja közül a megítélt perköltség azt illeti meg, akinél a költségek felmerültek. Pervesztesség esetében a költségek megfizetésére általában azt kell kötelezni, aki a pert megindította. Ha azonban a pert megindítónak és a perben érvényesített igény jogosultjának eljárási cselekményei nem voltak összhangban, a költség megfizetésére azt kell kötelezni, akinek a perbeli cselekménye folytán a költség felmerült.

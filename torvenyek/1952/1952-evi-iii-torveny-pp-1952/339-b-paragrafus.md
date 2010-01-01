@@ -1,0 +1,1 @@
+339/B. § Mérlegelési jogkörben hozott közigazgatási határozat akkor tekintendő jogszerűnek, ha a közigazgatási szerv a tényállást kellő mértékben feltárta, az eljárási szabályokat betartotta, a mérlegelés szempontjai megállapíthatóak, és a határozat indokolásából a bizonyítékok mérlegelésének okszerűsége kitűnik.

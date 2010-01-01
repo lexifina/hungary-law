@@ -1,0 +1,1 @@
+268. § A bíróság a per újbóli tárgyalásának eredményéhez képest a perújítási kérelemmel megtámadott ítéletet hatályában fenntartja, illetőleg annak egészben vagy részben hatályon kívül helyezése mellett a jogszabályoknak megfelelő új határozatot hoz.

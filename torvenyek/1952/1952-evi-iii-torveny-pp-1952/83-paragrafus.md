@@ -1,0 +1,7 @@
+83. § (1) A beavatkozó által támogatott fél pernyertessége esetében az ellenfelet a beavatkozó költségének megfizetésére is kötelezni kell. A beavatkozó által támogatott fél pervesztessége esetében az ellenfélnek a beavatkozással felmerült költségtöbbletében a beavatkozót kell elmarasztalni; ha azonban a perben hozott ítélet jogereje a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozót az általa támogatott féllel egyetemlegesen kell kötelezni az ellenfél összes költségeinek megfizetésére. A beavatkozás elutasítása esetében a beavatkozót kell elmarasztalni abban a költségben, amelyet a beavatkozás az azt ellenző feleknek okozott.
+
+(2) Ha a perbehívott a perbehívást nem fogadja el, vagy ha a perbehívóhoz való csatlakozását, illetőleg a perbe való belépését elutasítják, a perbehívó felet kötelezni kell annak a költségnek a megfizetésére, amelyet a perbehívással az ellenfélnek okozott. Ha a perbehívott a perbehívóhoz beavatkozóként csatlakozik, a jelen § (1) bekezdése irányadó.
+
+(3) Az (1) és (2) bekezdés rendelkezéseit kell megfelelően alkalmazni a 61–64. §-okon alapuló perbelépés vagy perbevonás, illetőleg perbehívás esetében is; a jogelődnek a perből való elbocsátása esetében az addig felmerült perköltség megfizetésére a jogutóddal egyetemlegesen a jogelődöt is kötelezni kell.
+
+(4) A 77–81. §-ok rendelkezései a jelen § eseteiben is megfelelően irányadók.

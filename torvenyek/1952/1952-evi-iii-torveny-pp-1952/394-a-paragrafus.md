@@ -1,0 +1,1 @@
+394/A. § A 392–394. § rendelkezései nem alkalmazhatók a végzés elleni fellebbezés esetében. A 392–394. § rendelkezései nem alkalmazhatók az ítélet elleni fellebbezés esetén sem, ha a per tárgya tartási vagy egyéb járadék jellegű követelés.

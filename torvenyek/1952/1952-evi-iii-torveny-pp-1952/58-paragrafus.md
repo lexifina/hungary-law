@@ -1,0 +1,1 @@
+58. § Az a fél, aki pervesztessége esetére harmadik személy ellen kíván követelést érvényesíteni, vagy harmadik személy követelésétől tart, ezt a harmadik személyt az első fokú ítélet hozatalát megelőző tárgyalás berekesztéséig perbe hívhatja. Perbehívással a beavatkozó és a perbehívott is élhet.

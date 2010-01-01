@@ -1,0 +1,7 @@
+272. § (1) A felülvizsgálati kérelmet az elsőfokú határozatot hozó bíróságnál a határozat közlésétől számított hatvan napon belül kell benyújtani vagy ajánlott küldeményként postára adni kettővel több példányban, mint ahány fél a perben érdekelve van. A felülvizsgálati kérelem benyújtására előírt határidő elmulasztása esetén az elmulasztott határidő utolsó napjától számított harminc nap elteltével igazolásnak akkor sincs helye, ha a mulasztás csak később jutott a fél tudomására, vagy az akadály csak később szűnt meg.
+
+(2) A felülvizsgálati kérelemben meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati kérelem irányul, továbbá elő kell adni – a jogszabálysértés megjelölése mellett –, hogy a fél a határozat megváltoztatását mennyiben és milyen okból kívánja.
+
+(3) A felülvizsgálati kérelemhez – ha arra korábban nem került sor – csatolni kell a jogi képviselő meghatalmazását is.
+
+(4) Ha a felülvizsgálati kérelem benyújtására nyitva álló határidő valamennyi féllel szemben lejárt, illetve ha a felülvizsgálati kérelmet valamennyi fél benyújtotta, az elsőfokú határozatot hozó bíróság azt az ügy irataival együtt haladéktalanul felterjeszti a Legfelsőbb Bírósághoz, a jogerős határozatot hozó bíróságot pedig a felülvizsgálati kérelem másolatának megküldésével értesíti az eljárás megindításáról. Ha a végrehajtás elrendelése már megtörtént, illetve ha végrehajtás felfüggesztése iránti kérelmet terjesztettek elő, a felülvizsgálati kérelmet a beérkezését követően haladéktalanul fel kell terjeszteni.

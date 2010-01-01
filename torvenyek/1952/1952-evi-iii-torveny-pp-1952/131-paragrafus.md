@@ -1,0 +1,1 @@
+131. § Ha valamely bíróság hatáskörének vagy illetékességének hiányát valamely okból már jogerősen megállapította, az utóbb eljáró bíróság nem hozhat ezzel az okkal ellentétes olyan határozatot, amellyel a saját hatáskörét vagy illetékességét megtagadva, az ügyet az előbb eljárt bírósághoz utalja vissza.

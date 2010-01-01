@@ -1,0 +1,1 @@
+150. § A különélő házastárs által tartás iránt indított pert – feltéve, hogy a per első fokon még nincs befejezve – a házassági per megindítása esetében a tartást kérő fél indítványára át kell tenni a házassági per bíróságához.

@@ -1,0 +1,1 @@
+91. § Ha a biztosíték adásának oka a per folyamán megszűnik, a biztosítékot a felperes kérelmére – az alperes meghallgatása után – vissza kell adni, illetőleg a felperest a biztosítékadás alól fel kell menteni; ez a rendelkezés megfelelően irányadó a biztosíték összegének leszállítása esetében is.

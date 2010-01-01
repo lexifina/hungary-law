@@ -1,0 +1,3 @@
+81. § (1) Részleges pernyertesség esetében a bíróság a perköltség felől a pernyertesség arányának, valamint az egyes felek által előlegezett költségek összegének figyelembevételével határoz. Ha a pernyertesség és pervesztesség aránya, valamint az előlegezett költségek összege között nincsen számottevő különbség, a bíróság akként rendelkezik, hogy mindegyik fél maga viseli a saját költségét.
+
+(2) Ha a per kártérítésre irányul, vagy egyéb olyan követelés iránt folyik, amelynek összegszerű megállapítása bírói mérlegeléstől függ, az ellenfelet akkor is kötelezni lehet a terhére megállapított marasztalási összegnek megfelelő perköltség megfizetésére, ha a bíróság a követelt összegnél kevesebbet ítélt ugyan meg, de a követelt összeg nem tekinthető nyilvánvalóan túlzottnak.

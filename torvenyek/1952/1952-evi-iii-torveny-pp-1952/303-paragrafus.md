@@ -1,0 +1,1 @@
+303. § A szülői felügyeletet megszüntető határozat hatályon kívül helyezésére irányuló perre a 302. § rendelkezéseit kell alkalmazni azzal, hogy a perre kizárólag az a bíróság illetékes, amely a megtámadott határozatot hozta.

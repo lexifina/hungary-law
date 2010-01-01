@@ -1,0 +1,1 @@
+98. § Ha az iratot a címzett halála miatt vagy azért nem lehet kézbesíteni, mert a címzett a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött, erről az érdekelt feleket értesíteni kell.

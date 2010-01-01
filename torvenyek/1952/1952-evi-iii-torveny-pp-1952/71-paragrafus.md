@@ -1,0 +1,1 @@
+71. § A meghatalmazásnak visszavonás, felmondás, vagy a fél halála folytán való megszűnése a bírósággal szemben a bíróságnak való bejelentéstől, az ellenféllel szemben pedig a vele való közléstől hatályos.

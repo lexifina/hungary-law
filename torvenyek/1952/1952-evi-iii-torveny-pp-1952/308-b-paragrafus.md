@@ -1,0 +1,1 @@
+308/B. § A zárlat, illetve az ideiglenes gondnokrendelés fenntartására, valamint elrendelésére vonatkozó határozat ellen külön fellebbezésnek van helye, de azt a bíróság előzetesen végrehajthatónak nyilváníthatja.

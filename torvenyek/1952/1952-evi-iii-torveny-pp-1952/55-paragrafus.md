@@ -1,0 +1,1 @@
+55. § A beavatkozást írásban vagy a tárgyaláson szóval kell bejelenteni, s a beavatkozónak meg kell jelölnie, hogy melyik fél pernyertességét kívánja előmozdítani, továbbá, hogy a fél pernyertességéhez milyen jogi érdeke fűződik. A bejelentést a felekkel közölni kell.

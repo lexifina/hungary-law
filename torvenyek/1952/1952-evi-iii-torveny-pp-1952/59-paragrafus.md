@@ -1,0 +1,1 @@
+59. § A perbehívást írásban vagy a tárgyaláson szóval kell előterjeszteni, abban meg kell jelölni a perbehívás okát és röviden elő kell adni a per állását. A perbehívást az ellenféllel is közölni kell.

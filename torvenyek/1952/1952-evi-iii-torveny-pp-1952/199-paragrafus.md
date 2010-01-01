@@ -1,0 +1,1 @@
+199. § A bíróság a tárgyalás és a bizonyítás összes adatainak mérlegelése alapján ítéli meg, hogy az okirati bizonyítás eredménye mennyiben vehető figyelembe azokban az esetekben, amelyekben a jelen fejezet rendelkezései valamely okirat bizonyító erejét nem határozzák meg, vagy az okirat a 195–196. §-ok rendelkezéseinek nem felel meg.

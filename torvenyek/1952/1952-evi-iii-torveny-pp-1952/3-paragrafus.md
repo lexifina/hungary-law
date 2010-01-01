@@ -1,0 +1,11 @@
+3. § (1) A bíróság a polgári ügyek körében felmerült jogvitát erre irányuló kérelem esetén bírálja el. Ilyen kérelmet – ha törvény eltérően nem rendelkezik – csak a vitában érdekelt fél terjeszthet elő.
+
+(2) A bíróság – törvény eltérő rendelkezése hiányában – a felek által előterjesztett kérelmekhez és jognyilatkozatokhoz kötve van. A bíróság a fél által előadott kérelmeket, nyilatkozatokat nem alakszerű megjelölésük, hanem tartalmuk szerint veszi figyelembe.
+
+(3) A jogvita elbírálásához szükséges bizonyítékok rendelkezésre bocsátása – ha törvény eltérően nem rendelkezik – a feleket terheli. A bizonyítás indítványozása elmulasztásának, illetve a bizonyítási indítvány elkésett voltának jogkövetkezményei, valamint a bizonyítás esetleges sikertelensége törvény eltérő rendelkezése hiányában a bizonyításra kötelezett felet terheli. A bíróság köteles a jogvita eldöntése érdekében a bizonyításra szoruló tényekről, a bizonyítási teherről, illetve a bizonyítás sikertelenségének következményeiről a feleket előzetesen tájékoztatni.
+
+(4) A bíróság a bizonyítási indítványhoz, illetve a bizonyítást elrendelő határozatához nincs kötve. A bíróság mellőzi a bizonyítás elrendelését, vagy a már elrendelt bizonyítás lefolytatását (kiegészítését, megismétlését), ha az a jogvita elbírálása szempontjából szükségtelen. A bíróság a bizonyítás elrendelését mellőzni köteles, ha a bizonyítási indítványt a fél neki felróható okból elkésetten, vagy egyébként a jóhiszemű pervitellel össze nem egyeztethető módon terjeszti elő, kivéve, ha a törvény eltérően rendelkezik.
+
+(5) Ha törvény másként nem rendelkezik, a bíróság a polgári perben alakszerű bizonyítási szabályokhoz, a bizonyítás meghatározott módjához vagy meghatározott bizonyítási eszközök alkalmazásához nincs kötve, szabadon felhasználhatja a felek előadásait, valamint felhasználhat minden egyéb bizonyítékot, amely a tényállás felderítésére alkalmas. E rendelkezések nem érintik a törvényes vélelmeket, ideértve azokat a jogszabályokat is, amelyek szerint valamely körülményt az ellenkező bizonyításáig valónak kell tekinteni.
+
+(6) A bíróság köteles gondoskodni arról, hogy a felek minden, az eljárás során előterjesztett kérelmet, jognyilatkozatot, valamint a bírósághoz benyújtott okiratot megismerhessenek és azokra – törvényben előírt időn belül – nyilatkozhassanak.

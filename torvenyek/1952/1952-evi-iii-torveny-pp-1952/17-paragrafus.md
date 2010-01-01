@@ -1,0 +1,1 @@
+17. § Ha a bíró a reá vonatkozó kizárási okot maga jelentette be, vagy saját mellőzéséhez maga is hozzájárult, más tanács, illetőleg bíró kijelölése iránt a bíróság vezetője is intézkedhetik. Ilyen esetben a kizárás tárgyában külön határozatot hozni nem kell.

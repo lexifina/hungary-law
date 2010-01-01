@@ -1,0 +1,1 @@
+289. § Ha valamelyik házastárs a házassági bontóper jogerős befejezése előtt meghal, a bíróság a pert a perköltségre vonatkozó határozathozatal nélkül megszünteti, és a perben esetleg már hozott ítéletet hatályon kívül helyezi.

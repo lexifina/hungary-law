@@ -1,0 +1,1 @@
+233/A. § Fellebbezéssel megtámadható a másodfokú eljárásban hozott olyan végzés, amellyel szemben az első fokú eljárás szabályai szerint fellebbezésnek lenne helye, továbbá a másodfokú eljárásban hozott, a fellebbezést hivatalból elutasító végzés.

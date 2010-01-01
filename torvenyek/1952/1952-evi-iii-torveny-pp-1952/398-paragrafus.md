@@ -1,0 +1,1 @@
+398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó fizetési késedelem leküzdéséről szóló 2000/35/EK irányelvének 5. cikkével.

@@ -1,0 +1,1 @@
+282. § A házassági per bírósága előtt a keresettel csak az ugyanarra a házasságra vonatkozó más érvénytelenítési vagy bontókeresetet, továbbá a házasfelek gyermekének származására, elhelyezésére és tartására vonatkozó keresetet, valamint a házassági vagyonjogi keresetet (292. §) lehet összekapcsolni.
