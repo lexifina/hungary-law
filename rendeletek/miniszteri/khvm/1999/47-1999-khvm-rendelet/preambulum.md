@@ -1,0 +1,1 @@
+Az árak megállapításáról szóló 1990. évi LXXXVII. törvény 7. §-ában foglalt felhatalmazás alapján, figyelemmel a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Korm. rendeletben foglaltakra – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
