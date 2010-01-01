@@ -1,0 +1,1 @@
+Hhtv. 30. § Ha a halgazdálkodási terv jóváhagyását követően a halállomány vagy a hal élőhelyének állapotában bekövetkezett változás miatt szükséges, a halászati hatóság a jogosult kérelemére vagy hivatalból a halgazdálkodási tervet módosítja, illetőleg attól eltérést engedélyez.

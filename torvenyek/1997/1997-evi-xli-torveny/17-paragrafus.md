@@ -1,0 +1,1 @@
+Hhtv. 17. § A halászati vízterületen bekövetkezett halpusztulás esetén a víz tulajdonosa, használója (a vízilétesítmény üzemeltetője), a vízparti ingatlan tulajdonosa, használója, valamint a jogosult a vízmintavételt és a szükséges vizsgálat elvégzését a 36. § (2) bekezdésében megjelölt szervezet számára köteles lehetővé tenni és tűrni.

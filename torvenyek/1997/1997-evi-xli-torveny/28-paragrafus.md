@@ -1,0 +1,1 @@
+Hhtv. 28. § A halászati hatóság a halgazdálkodási terv jóváhagyását megtagadja, ha az nem felel meg a jogszabályban, hatósági határozatban, illetőleg a halászati jog haszonbérbe adásáról szóló szerződésben előírt követelményeknek.

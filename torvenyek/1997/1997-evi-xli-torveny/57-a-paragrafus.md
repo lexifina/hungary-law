@@ -1,0 +1,1 @@
+Hhtv. 57/A. § E törvény az 56. § (1) bekezdésének l) pontjában adott felhatalmazás alapján kiadott rendelettel együtt az idegen és nem honos fajoknak az akvakultúrában történő alkalmazásáról szóló, 2007. június 11-i 708/2007/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
