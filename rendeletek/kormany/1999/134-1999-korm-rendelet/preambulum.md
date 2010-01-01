@@ -1,0 +1,1 @@
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján az árhoz nyújtott támogatással igénybe vehető szolgáltatások finanszírozásával kapcsolatban a következőket rendeli el:

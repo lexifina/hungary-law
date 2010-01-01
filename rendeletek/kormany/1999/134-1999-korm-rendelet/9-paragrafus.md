@@ -1,0 +1,1 @@
+## 8. § E rendelet hatálybalépését megelőző elszámolási időszak elszámolására, az elszámolás benyújtásának és a támogatás átutalására vonatkozó megbízás átadásának határidejére az R. 3. §-ának (2) bekezdésében, valamint ezen elszámolási időszakban érvényes szerződésben foglaltak az irányadók.
