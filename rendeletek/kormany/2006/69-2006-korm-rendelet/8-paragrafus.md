@@ -1,0 +1,11 @@
+8. § (1) A MAB elnökét a Testület tagjai közül titkos szavazással választja meg.
+
+(2) A MAB elnökét megválasztó testületi ülés akkor határozatképes, ha azon a tagok legalább kétharmada jelen van.
+
+(3) Az elnökválasztás eredménytelensége esetén tizenöt napon belül újabb testületi ülést kell összehívni. Elnökké a MAB Testületének azon tagja választható meg, aki a jelen lévő tagok szavazatainak több mint felét megszerezte. Amennyiben – többes jelölés esetén – egyik jelölt sem kapta meg a megválasztáshoz szükséges szavazatot, a szavazást oly módon kell folytatni, hogy az előző fordulóban legkevesebb szavazatot kapott jelölt az újabb fordulókban már nem vehet részt. A szavazást addig kell folytatni, amíg egy jelölt a jelenlévő tagok szavazatainak több mint felét megszerezte. Amennyiben két jelölt közül egyik sem kapja meg a jelen lévő tagok szavazatának több mint felét, és az újabb szavazási eljárás sem vezet eredményre, tizenöt napon belül újabb ülést kell összehívni. Amennyiben a harmadik ülésen sem sikerül elnököt választani, a miniszterelnök a miniszter előterjesztésére a MAB Testületét – négy hónapos határidővel – feloszlatja, és a miniszter újabb delegálási eljárást indít.
+
+(4) A MAB elnöke – valamint az ennek jelölt személy – amennyiben egyidejűleg más közhasznú szervezetnél is tölt be vezető tisztséget, erről köteles valamennyi érintett közhasznú szervezetet előzetesen tájékoztatni.
+
+(5) Nem lehet a MAB elnöke, aki a választás időpontját megelőző két éven belül megszűnt olyan közhasznú szervezetnél töltött be a megszűnést megelőző két éven belül legalább egy évig vezető tisztséget, amely az adózás rendjéről szóló törvény szerinti köztartozását nem egyenlítette ki.
+
+(6) Amennyiben a MAB elnöke jogszabályba ütköző cselekményt vagy mulasztást követ el, a MAB Testülete az elnök megbízásának visszavonására tesz javaslatot. A MAB Testületének állásfoglalását a visszavonásról a MAB Testületének bármely tagja, illetve a Felügyelő Bizottság írásos indoklással kezdeményezheti. A visszavonási javaslatot a MAB Testülete a tagok legalább kétharmados jelenléte mellett a tagok többségének támogatásával teszi meg. Az elnök megbízásának visszavonására a megbízással azonos rendben kerül sor.

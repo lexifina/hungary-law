@@ -1,0 +1,9 @@
+# 69/2006. (III. 28.) Korm. rendelet
+
+a Magyar Felsőoktatási Akkreditációs Bizottságról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-69-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2006-69-20-22.3 | 69/2006. (III. 28.) Korm. rendelet |
