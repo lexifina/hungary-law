@@ -1,0 +1,9 @@
+25. § (1) Az ösztöndíjas hallgató az intézmény Szabályzatában meghatározott módon – a Rendőrtiszti Főiskola hallgatója esetében az ösztöndíjszerződésben érintett fegyveres szervek engedélyével – a képzési időben egyszer szakot változtathat.
+
+(2) Az ösztöndíjas hallgató nem csatlakozhat olyan szervezethez, amelynek szerveződési célja vagy tevékenysége a fegyveres szervek törvényben meghatározott feladataival ellentétes.
+
+(3) A honvédtiszti alapképzésben részt vevő ösztöndíjas hallgató a beiratkozást követően egy félév időtartamban katonai alapfelkészítésen vesz részt, amelynek sikeres teljesítése a felsőfokú alapképzésben való részvétel feltétele. A katonai felsőoktatási intézmény ösztöndíjas hallgatója a 28. § c) pontja szerinti szolgálati feladat ellátására is igénybe vehető, az igénybevétel azonban nem veszélyeztetheti a tanulmányi feladatok elvégzését. A rendvédelmi felsőoktatási intézményben tanuló ösztöndíjas hallgató – az alapképzés, az ügyeleti szolgálatok és a szakmai gyakorlat időtartama, valamint a szükségállapot és rendkívüli állapot kivételével – szolgálati feladat ellátására nem vehető igénybe.
+
+(4) A katonai felsőoktatási intézmény ösztöndíjas hallgatója a (3) bekezdés szerinti tanulmányokkal összefüggő kiképzést, gyakorlatot, szolgálati igénybevételt a szövetséges, valamint az európai uniós együttműködésre felajánlott katonai szervezetben külföldön is teljesítheti.
+
+(5) A (3) bekezdés szerinti szakmai gyakorlat teljesítése során a Rendőrtiszti Főiskola ösztöndíjas hallgatója önálló hatósági jogkör gyakorlása nélkül, felügyelet mellett, a fegyveres szerv tevékenységére vonatkozó eljárási szabályok szerint köteles a fegyveres szerv szolgálati feladatainak végrehajtásában közreműködni, jogosult bármely cselekménynél jelen lenni, intézkedésben részt venni, részfeladatokat önállóan végrehajtani.

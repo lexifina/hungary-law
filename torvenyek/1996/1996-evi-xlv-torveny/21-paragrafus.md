@@ -1,0 +1,1 @@
+21. § A hallgató a tanulmányi feladatainak ellátása során köteles tartózkodni a pártpolitikai tevékenységtől. Az intézményben, annak kollégiumában, valamint a gyakorlat teljesítésének helyén politikai agitációt nem folytathat, politikai szervezet képviselőjeként vagy megbízottjaként véleményt nem nyilváníthat.

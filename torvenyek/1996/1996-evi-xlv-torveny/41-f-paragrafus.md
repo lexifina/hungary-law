@@ -1,0 +1,1 @@
+41/F. § Az ösztöndíjas hallgatói jogviszony ideje alatt, illetőleg azzal összefüggő baleset vagy betegség következtében a jogviszony megszűnését követően egy éven belül elhunyt ösztöndíjas hallgató eltemettetéséről – saját költségvetése terhére – a honvédelemért felelős miniszter által meghatározottak szerint, a Honvédség gondoskodik.

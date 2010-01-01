@@ -1,0 +1,1 @@
+49/A. § E törvény rokkantsági nyugdíjra, baleseti rokkantsági nyugdíjra vonatkozó, 2008. január 1-jétől hatályos rendelkezéseit a 2007. december 31-ét követően benyújtott igénybejelentés – ideértve az állapotrosszabbodás miatti igénybejelentést is – esetén kell alkalmazni.

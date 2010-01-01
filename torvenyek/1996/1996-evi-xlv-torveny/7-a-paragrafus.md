@@ -1,0 +1,1 @@
+7/A. § A más katonai szervezetnél beosztást betöltő és a katonai felsőoktatási intézménynél megbízási szerződéssel foglalkoztatott óraadó oktatókat a katonai felsőoktatási intézmény nemzetvédelmi és katonai alap- és mesterképzési szakjainak akkreditációja során – az Ftv. 83. §-ának (4) bekezdésétől eltérően – teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
