@@ -1,0 +1,1 @@
+A Kormány a szerzői jogról szóló 1999. évi LXXVI. törvény 112. §-ának (4) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
