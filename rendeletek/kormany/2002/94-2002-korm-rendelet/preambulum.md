@@ -1,0 +1,1 @@
+A hulladékgazdálkodásról szóló 2000. évi XLIII. törvény (a továbbiakban: Hgt.) 14. §-a (6) bekezdésének a) pontjában, valamint 59. §-a (1) bekezdésének h) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
