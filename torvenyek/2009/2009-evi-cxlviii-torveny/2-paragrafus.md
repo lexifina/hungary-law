@@ -1,0 +1,5 @@
+## A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény módosítása
+
+2. § A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 1. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Törvény eltérő rendelkezése hiányában a köztársasági elnök hivatala, az Országgyűlés hivatala, az Alkotmánybíróság hivatala, az országgyűlési biztos hivatala, az Állami Számvevőszék, a Közbeszerzések Tanácsa, az Országos Rádió és Televízió Testület Irodája, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia Titkársága, a Pénzügyi Szervezetek Állami Felügyelete és a Nemzeti Hírközlési Hatóság köztisztviselői közszolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni, azzal, hogy a köztársasági elnök hivatala, az Országgyűlés hivatala, az Alkotmánybíróság hivatala, az országgyűlési biztos hivatala és az Állami Számvevőszék esetében a próbaidőre, a pályázatra, a versenyvizsgára és a tartalékállományra vonatkozó rendelkezéseket e szervek szervezeti és működési szabályzatában (ügyrendjében) meghatározott munkakörök esetében, az ott meghatározott eljárási rend szerint kell alkalmazni.”

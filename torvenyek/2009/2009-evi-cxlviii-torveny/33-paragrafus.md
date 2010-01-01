@@ -1,0 +1,3 @@
+33. § Az Fgytv. 39. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A keresetindítási jog az (1)–(4) bekezdésben meghatározottak szerint megilleti azokat az Európai Gazdasági Térség bármely államának joga alapján létrejött feljogosított egységeket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesített igény a 2009/22/EK európai parlamenti és tanácsi irányelv I. mellékletében felsorolt közösségi jogi rendelkezéseket átültető jogszabályi rendelkezések megsértésén alapul.”
