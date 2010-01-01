@@ -1,0 +1,1 @@
+## „(9) Az OEP központi szerve az alaptevékenységeinek teljes körű ellátása mellett, a szabad kapacitásainak kihasználásával kiegészítő, valamint – az alapító okiratában meghatározott arányban – kisegítő és vállalkozói tevékenységet végezhet.”
