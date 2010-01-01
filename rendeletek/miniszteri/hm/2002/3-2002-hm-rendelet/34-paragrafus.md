@@ -1,0 +1,1 @@
+## 33. § Nem terjed ki a gyakorlati pótlékra való jogosultság a más jellegű távollétekre (pl. kiképzésekre, továbbképzésekre, a gyakorlatokkal nem összefüggő ellenőrzésekre stb.), valamint azokra az igénybevételekre, amelyekért a résztvevők külön anyagi juttatásban részesülnek.

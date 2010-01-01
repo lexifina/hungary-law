@@ -1,0 +1,1 @@
+## 34. § A gyakorlati pótlék naponkénti összege – a gyakorlat fajtájától, valamint a gyakorlatok alatti rendkívüli igénybevételre tekintettel biztosított szabadnap, illetőleg szolgálatmentességi időtől függetlenül – az illetményalap 7,4%-a.
