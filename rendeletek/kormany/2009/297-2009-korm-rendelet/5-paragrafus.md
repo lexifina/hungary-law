@@ -1,0 +1,1 @@
+## A szakértői tevékenység engedélyezése
