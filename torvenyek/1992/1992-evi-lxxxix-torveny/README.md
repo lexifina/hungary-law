@@ -1,0 +1,7 @@
+# 1992. évi LXXXIX. törvény a helyi önkormányzatok címzett és céltámogatási rendszeréről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-89-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1992-89-00-00.40 |
