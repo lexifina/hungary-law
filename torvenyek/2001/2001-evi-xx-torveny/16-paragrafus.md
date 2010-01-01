@@ -1,0 +1,9 @@
+## A felügyelő bizottság
+
+16. § (1) A felügyelő bizottság az MFB Zrt. ellenőrző szerve.
+
+(2)
+
+(3) A felügyelő bizottság elnökét és tagjait a tulajdonosi jogok gyakorlója választja meg és hívja vissza.
+
+(4)
