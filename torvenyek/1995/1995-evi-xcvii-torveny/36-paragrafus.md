@@ -1,0 +1,1 @@
+36. § A 35. § alkalmazásának szempontjából a légiközlekedési hatóság engedélyében foglaltak alapján a légisport szövetség a tagegyesületei és a tagjai vonatkozásában betöltheti a jogosult jogkörét. Ennek szakmai feltételeit az engedélyben kell meghatározni.

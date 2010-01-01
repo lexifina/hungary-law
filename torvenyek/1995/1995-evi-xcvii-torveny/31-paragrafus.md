@@ -1,0 +1,1 @@
+31. § A légiforgalmi irányító és körzeti repüléstájékoztató szakszolgálat ellátásához szükséges szakmai ismeretekre vonatkozó képzést a miniszter, illetve – az állami célú légiközlekedés tekintetében – a honvédelemért felelős miniszter által kijelölt intézetek végzik. A képzés feltételeiről a miniszterek gondoskodnak.

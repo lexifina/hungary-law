@@ -1,0 +1,1 @@
+60. § A parancsnok — vagy ha az sérülései, illetve más ok miatt erre képtelen, a személyzet tagja — az 58—59. §-okban említett intézkedésekről — amennyiben azok magyar állampolgárt, illetve Magyarországon bejegyzett jogi személyt érintenek — értesíti Magyarország konzuli képviseletét.

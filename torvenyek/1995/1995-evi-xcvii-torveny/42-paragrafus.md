@@ -1,0 +1,1 @@
+42. § A nem állami repülések céljára szolgáló repülőtér üzemben tartója köteles a repülőtér ideiglenes használatát — előre egyeztetett időpontban és módon — a Magyar Honvédség részére esetenként átengedni. A repülőtér üzemben tartója az átengedéssel összefüggésben kártérítésre jogosult.

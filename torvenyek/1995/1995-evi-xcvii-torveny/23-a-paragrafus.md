@@ -1,0 +1,3 @@
+23/A. § (1) Az illetékes vámhatóság a légijárat által fuvarozott áru (a továbbiakban: légiáru) ellenőrzése, vámkezelése, illetve a légijáratot teljesítő jármű határátlépése során köteles meggyőződni arról, hogy a légiárut fuvarozó gazdálkodó szervezet jogosult-e a fuvarokmányon megjelölt rendeltetési helyre történő légi árufuvarozásra.
+
+(2) Amennyiben a be-, illetve kilépni szándékozó légiárut fuvarozó gazdálkodó szervezet nem rendelkezik a légiáru fuvarozására vonatkozó engedéllyel, az illetékes vámhatóság köteles haladéktalanul értesíteni a légiközlekedési hatóságot, és az engedély megszerzéséig a légiáru be-, illetve kiléptetését megtagadni.
