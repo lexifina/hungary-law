@@ -1,0 +1,13 @@
+19. § (1) Építtetői fedezetkezelő közreműködése esetén az alvállalkozó kivitelezők nyilvántartása elektronikus formában, a fővállalkozó kivitelező építési naplójának részét képező alvállalkozói nyilvántartásban történik. Az alvállalkozói nyilvántartásba a szerződéskötés során a szerződő fél [vállalkozó (fővállalkozó) kivitelező] által megadott kód alapján az alvállalkozó kivitelező köteles a saját alvállalkozói szerződésének adatait felvinni. Az építtetői fedezetkezelő az alvállalkozó kivitelező védelmét szolgáló 20. § (4) bekezdés szerinti visszatartást kizárólag az alvállalkozói nyilvántartásban szereplő alvállalkozó kivitelező javára gyakorolja.
+
+(2) A vállalkozó (fővállalkozó) kivitelező a vele szerződéses viszonyban álló alvállalkozó kivitelező esedékes számlája kiegyenlítéséből köteles visszatartani
+
+a) az alvállalkozó kivitelező teljesítésében részt vevő további alvállalkozó kivitelező által – a teljesítésigazolás alapján – számlázott, de részére határidőre ki nem egyenlített követelésének megfelelő összeg,
+
+b) az alvállalkozó kivitelező teljesítésében részt vevő további alvállalkozó kivitelező által – amennyiben a teljesítésigazolás kézhezvételétől számított nyolc munkanapon belül az alvállalkozói nyilvántartásban jelezve vitatja a felelős műszaki vezető által kiadott teljesítésigazolás tartalmát – megjelölt ellenérték, de legfeljebb a részére járó adott teljesítési szakasz szerződésben rögzített ellenértéke és a teljesítésigazolásban jóváhagyott összeg közti különbözetnek megfelelő összeg
+
+kifizetését.
+
+(3) A (2) bekezdés szerinti visszatartás mértéke legfeljebb a vállalkozó (fővállalkozó) kivitelezővel szerződött alvállalkozó kivitelezői teljesítés – a kivitelezés szakaszolása esetén a részteljesítés – ellenértékének összegéig terjed. Ha az alvállalkozó kivitelező teljesítésének (részteljesítésének) szerződés szerinti ellenértékét a teljesítésben részt vevő – az alvállalkozó kivitelezővel szerződött – további alvállalkozók teljesítésének összege meghaladja, részükre az alvállalkozói nyilvántartás automatikusan jelzi a túllépés tényét és összegét.
+
+(4) A vállalkozási láncolatban megjelenő minden vállalkozó kivitelező (2) bekezdés szerinti visszatartási kötelezettségnek a megvalósítása – az alvállalkozóval szemben keletkező fizetési kötelezettség és a vállalkozó kivitelező teljesítéséért ellenszolgáltatásra kötelezettel szemben keletkező azonos összegű követelés miatt – a vállalkozó kivitelező javára keletkezett követelés annak az alvállalkozó részére történő átszállását eredményezi, akivel szemben a vállalkozó kivitelező a visszatartási kötelezettséget gyakorolta.
