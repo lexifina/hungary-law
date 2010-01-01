@@ -1,0 +1,1 @@
+14. § Az alkalmazott egészségügyi dolgozó által önként vállalt többletmunkavégzés keretében végzett munka egy órára eső díjazásának mértéke a 13/A. §-ban, illetve a külön jogszabályban meghatározott díj 50%-kal megemelt összege.

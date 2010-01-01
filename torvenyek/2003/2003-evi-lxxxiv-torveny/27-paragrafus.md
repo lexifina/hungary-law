@@ -1,0 +1,1 @@
+27. § Az egészségügyi tevékenységet nem végző, de a munkakörük szerint a betegekkel közvetlenül érintkező 4. § b) pontja szerinti egészségügyben dolgozók, valamint az egészségügyi tevékenység végzésében tanulói vagy hallgatói jogviszony alapján közreműködő személyek alkalmassági vizsgálatára a 20. § rendelkezéseit értelemszerűen alkalmazni kell.

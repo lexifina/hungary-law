@@ -1,0 +1,3 @@
+6. § (1) Az egészségügyi dolgozó köteles önképzéssel és a szervezett továbbképzések által biztosított lehetőség igénybevételével magát rendszeresen továbbképezni annak érdekében, hogy tevékenységét az egészségtudományok mindenkori állásának megfelelően – a rendelkezésre álló személyi és tárgyi feltételek keretei között – végezhesse. Az egészségügyi dolgozónak a kötelező jellegű továbbképzések miatt felmerült és igazolt költségeit (tanfolyami díj, utazási költség, szállásköltség stb.) a munkáltató megtérítheti.
+
+(2) Az egészségügyi dolgozók egészségügyi tevékenység végzésével kapcsolatos jogait és kötelezettségeit egyebekben az Eütv. 125–140. §-a tartalmazza.

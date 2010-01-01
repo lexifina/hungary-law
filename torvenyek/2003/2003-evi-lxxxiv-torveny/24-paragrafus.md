@@ -1,0 +1,1 @@
+24. § Amennyiben az egészségügyi dolgozó egészségügyi tevékenység gyakorlásától való eltiltására a belátási képesség érintettsége miatt kerül sor és az érintett egészségügyi dolgozó orvos, az egészségügyi hatóság kezdeményezi az egészségbiztosítási szervnél a pro familia gyógyszerrendelésre jogosító szerződés felmondását.

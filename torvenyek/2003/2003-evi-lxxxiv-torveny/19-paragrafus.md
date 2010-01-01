@@ -1,0 +1,5 @@
+## Az egészségügyi közszolgáltatást nyújtó egészségügyi dolgozókra vonatkozó speciális rendelkezések
+
+19. § (1) Az állami költségvetésből, illetve az Egészségbiztosítási Alapból külön jogszabályok szerint finanszírozott egészségügyi szolgáltatók keretében egészségügyi tevékenységet végző egészségügyi dolgozó feladatainak ellátása során köteles figyelembe venni a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 19. § (1) bekezdése alapján, az adott finanszírozott ellátásra a miniszter által meghatározott vizsgálati és terápiás eljárási rendet is.
+
+(2) Az (1) bekezdésben foglalt egészségügyi szolgáltatónál történő tevékenység keretében, továbbá az Ebtv. 32. §-a szerint gyógyszer és gyógyászati segédeszköz társadalombiztosítási támogatással történő rendelésére jogosító szerződés alapján gyógyszert vagy gyógyászati segédeszközt rendelő orvos a rendelés során köteles figyelembe venni az (1) bekezdésben említett terápiás eljárási rendet, valamint az egészségügyért felelős miniszter által közzétett gyógyszerterápiás ajánlásokat.
