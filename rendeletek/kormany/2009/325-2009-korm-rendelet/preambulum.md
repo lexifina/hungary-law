@@ -1,0 +1,1 @@
+A Kormány a számvitelről szóló 2000. évi C. törvény 178. §-a (1) bekezdésének b) és c) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva – a Magyar Nemzeti Bank (a továbbiakban: MNB) előzetes véleményének kikérésével – a következőket rendeli el:

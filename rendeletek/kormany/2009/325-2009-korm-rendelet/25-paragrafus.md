@@ -1,0 +1,3 @@
+## 24. § Az Mvhr. 33. §-ának (8) bekezdése helyébe a következő rendelkezés lép:
+
+## „(8) Az eredménykimutatásban befektetési tevékenységgel kapcsolatos bevételként, illetve ráfordításként kell kimutatni az Mbr.-ben meghatározott befektetési formákba eszközölt – a számviteli nyilvántartásban a befektetett, illetve a forgóeszközök között kimutatott – befektetésekből adódó bevételeket, illetve ráfordításokat, ideértve a befektetések mérlegfordulónapi, illetve negyedév végi és az értékelés napjára vonatkozó értékelésekor az értékelési különbözetben bevételként elszámolt várható hozamot, illetve az értékelési különbözet összegében ráfordításként elszámolt céltartalékképzést is.”

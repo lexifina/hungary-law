@@ -1,0 +1,3 @@
+## 17. § Az Mvhr. 18. §-ának (9) bekezdése helyébe a következő rendelkezés lép:
+
+## „(9) Értékpapír kölcsönbe adásából származó követelés értékelési különbözeteként kell kimutatni a (8) bekezdés szerinti kölcsönügylet tárgyát képező értékpapír kölcsönbe adásának napjára, illetve a negyedév utolsó napjára vonatkozóan és naponta meghatározott, felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegét, továbbá itt kell kimutatni a kölcsönbe adott értékpapír mérlegfordulónapra vonatkozóan meghatározott, könyvvizsgáló által hitelesített felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegét.”
