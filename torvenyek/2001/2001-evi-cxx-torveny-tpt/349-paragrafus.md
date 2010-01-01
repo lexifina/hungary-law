@@ -1,0 +1,1 @@
+349. § Az elszámolóházi tevékenységet végző szervezet a szabályzatában meghatározottak szerint értékpapír kölcsönzési rendszert működtethet. Az elszámolóházi tevékenységet végző szervezet által működtetett kölcsönzési rendszer keretében kötött kölcsönügyletek esetében a felek a 168. § (3) és (4) bekezdéseiben foglaltaktól eltérő feltételekben is megállapodhatnak.

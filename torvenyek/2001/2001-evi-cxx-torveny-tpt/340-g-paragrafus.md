@@ -1,0 +1,1 @@
+340/G. § Ha a kérelmező a 340/B. § a) pont aa) alpontjában, valamint a 340/E. § a) pontjában meghatározott adatokat nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.

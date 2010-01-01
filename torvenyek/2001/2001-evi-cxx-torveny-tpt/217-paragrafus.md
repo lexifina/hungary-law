@@ -1,0 +1,17 @@
+217. § (1) Kártalanítás megállapítására a befektető erre irányuló kérelme alapján kerül sor. A kérelem formáját az Alap meghatározhatja. A kérelmet a befektető az igényérvényesítés első napjától számított egy éven belül terjesztheti elő. Ha a befektető menthető okból nem tudta igényét határidőben előterjeszteni, a kérelem az akadály elhárulását követő harminc napon belül terjeszthető elő.
+
+(2) Az Alap a kártalanításra jogosult befektető részére követelését – személyenként és Alap tagonként összevontan – legfeljebb húszezer euró összeghatárig fizeti ki kártalanításként. Az Alap által fizetett kártalanítás mértéke egymillió forint összeghatárig száz százalék, egymillió forint összeghatár felett egymillió forint és az egymillió forint feletti rész kilencven százaléka.
+
+(3)
+
+(4) A kártalanítás mértékének megállapítása során a befektetőnek az Alap tagjánál fennálló, valamennyi biztosított, és a tag által ki nem adott követelését össze kell számítani.
+
+(5) Ha a biztosított követelés értékpapír kiadására vonatkozik, a kártalanítás összegét a felszámolás kezdő időpontját megelőző száznyolcvan nap átlagárfolyama alapján kell megállapítani. Árfolyamként a tőzsdei vagy a tőzsdén kívüli kereskedelemben kialakult átlagárat kell figyelembe venni. Ha az értékpapírnak ezen időszak alatt nem volt forgalma, akkor a kártalanítás alapjául szolgáló árat az Alap igazgatósága állapítja meg. Az ár megállapítása által a befektetőt olyan helyzetbe kell hozni, mintha a felszámolás kezdő időpontjában az értékpapírt értékesítette volna.
+
+(6) A (2) bekezdés szerinti összeghatárnak és devizában fennálló követelés esetén a devizában, valutában kifizetett kártalanítás összegének a megállapítása – a kifizetés időpontjától függetlenül – a felszámolás kezdő időpontjának napján érvényes MNB által közzétett hivatalos devizaárfolyamon történik. Az MNB által nem jegyzett devizákat a belföldi székhelyű hitelintézetek által közzétett legmagasabb és legalacsonyabb, az adott pénznemre vonatkozó devizaeladási árfolyamok számtani átlaga alapján kell számba venni.
+
+(7) Ha az Alap tagjának az ügyféllel szemben befektetési szolgáltatási tevékenységből származó lejárt vagy a kártalanítás kifizetéséig lejáró követelése van, azt a kártalanítás megállapítása során a befektető követelésébe be kell számítani.
+
+(8) Az Alap a kártalanítást pénzben nyújtja.
+
+(9) Közös tulajdonban álló értékpapír esetén a (2) bekezdésben meghatározott kártalanítási összeghatárt a kártalanításra jogosult, az Alap tagjának nyilvántartásában szereplő minden személy esetén külön kell számításba venni. A kártalanítási összeg – eltérő szerződési kikötés hiányában – a befektetőket azonos arányban illeti meg. A közös tulajdonban álló értékpapír esetén fizetett kártalanítási összeget hozzá kell számítani a kártalanításra jogosult egyéb követelésére fizetendő kártalanítás összegéhez.

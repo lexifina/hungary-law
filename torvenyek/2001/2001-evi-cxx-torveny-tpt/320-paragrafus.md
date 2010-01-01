@@ -1,0 +1,1 @@
+320. § Ha a tőzsdei ügyletben az ügylet tárgyának tényleges átadására anélkül vállalnak kötelezettséget, hogy a teljesítés módját és idejét meghatározták volna, a kötelezettséget a tőzsdei szabályzatban meghatározott módon és időben kell teljesíteni (azonnali ügylet).

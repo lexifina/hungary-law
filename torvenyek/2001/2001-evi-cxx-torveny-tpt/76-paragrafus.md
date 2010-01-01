@@ -1,0 +1,3 @@
+## A vételi ajánlattételi eljárás lezárása
+
+76. § Az ajánlattevő és a 68. § (4) bekezdése alapján megbízott befektetési szolgáltató a vételi ajánlat elfogadására nyitva álló határidő zárónapját követő két naptári napon belül a vételi ajánlat eredményét a Felügyeletnek bejelenti, és azt a bejelentéssel egyidejűleg a vételi ajánlat közzétételére vonatkozó szabályok szerint közzéteszi. Az ajánlattevő az ellenérték szolgáltatására nyitva álló határidő lejártát követő két naptári napon belül köteles a Felügyeletnek bejelenteni az ellenérték teljesítésének vagy nem teljesítésének tényét, az utóbbi esetben a nem vagy részleges teljesítés indokait is.

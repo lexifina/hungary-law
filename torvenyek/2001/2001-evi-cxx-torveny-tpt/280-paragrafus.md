@@ -1,0 +1,7 @@
+## Ingatlanalapokra vonatkozó eltérő befektetési szabályok
+
+280. § (1) Az ingatlanalap portfóliója az ingatlanokon felül kizárólag látra szóló és lekötött bankbetétet, az Európai Unió vagy az OECD tagállama által kibocsátott állampapírt, nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapírt, illetve más alapkezelő által kezelt, ingatlanokba fektető kollektív befektetési forma által kibocsátott kollektív befektetési értékpapírt – beleértve ezen értékpapírok repóügylettel történő vásárlását is –, valamint devizaárfolyamhoz kötött ingatlanügyletekből befolyó bevételek és az ingatlanügyletekhez kapcsolódó kiadások árfolyamkockázatának, továbbá hitelfinanszírozás deviza- és kamatkockázatainak fedezése céljából kötött származtatott ügyleteket tartalmazhat. Az ingatlanalap portfóliójában lévő kollektív befektetési értékpapírok aránya nem haladhatja meg az ingatlanalap saját tőkéjének húsz százalékát.
+
+(2) A nyilvános, nyílt végű ingatlanalap saját tőkéjének legalább tizenöt százalékát likvid eszközökben kell tartani.
+
+(3) Az ingatlanokra vonatkozó adásvételi, valamint az ingatlanok megterhelésére vonatkozó jelzálogkölcsön szerződések érvényességéhez a letétkezelő ellenjegyzése szükséges. A letétkezelő az adott ügyletet csak a befektetési alapokra vonatkozó jogszabályok szerint minősítheti, ellenjegyzése során az alapkezelő döntését üzleti megfontolások szempontjából nem értékeli.

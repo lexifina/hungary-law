@@ -1,0 +1,1 @@
+A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának elősegítése, átlátható működésének biztosítása, a tőkepiaci szereplők szabályozásának fejlesztése, a befektetések biztonságának növelése, a befektetők védelme és a tőkepiac hatékony felügyeletének ellátása érdekében az Országgyűlés a következő törvényt alkotja:

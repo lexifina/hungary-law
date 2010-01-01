@@ -1,0 +1,7 @@
+9. § (1) A 7. § (2) bekezdése szerinti okiratot a kibocsátó a központi értéktárban helyezi el, és egyidejűleg megbízza a központi értéktárat az értékpapír előállításával.
+
+(2) A dematerializált értékpapír kibocsátása esetén, ha a tulajdonosnak az értékpapír kiadására vonatkozó követelési joga megnyílt, a kibocsátó haladéktalanul köteles a központi értéktárat az allokáció eredménye alapján értesíteni az értékpapír-tulajdonos számlavezetőjének személyéről és a központi értékpapír-számlán jóváírandó értékpapír darabszámáról. A kibocsátó utasítására a központi értéktár a központi értékpapír-számlákat a 7. § (2) bekezdése szerinti okirat és a kibocsátó értesítése alapján az értékpapír jóváírásával megnyitja.
+
+(3) Az értékpapír-számlavezető – a központi értéktárnak a központi értékpapírszámla megnyitásáról szóló értesítését követően – az abban megjelölt értéknappal, az általa vezetett értékpapírszámlán jóváírja az értékpapírt és erről a számlatulajdonost értesíti. A dematerializált értékpapír előállítása során az előállítás visszamenőleges értéknappal nem lehetséges.
+
+(4) A központi értéktár felel azért, hogy a központi értékpapír-számlák összesített állománya folyamatosan megegyezzen az adott értékpapír-sorozat kibocsátási mennyiségével. Ha a központi értékpapír-számlákon nyilvántartott értékpapír mennyisége a forgalomba hozott mennyiségtől eltér, a központi értéktár az eltérés okát köteles haladéktalanul kivizsgálni, és annak megszüntetése érdekében intézkedni.

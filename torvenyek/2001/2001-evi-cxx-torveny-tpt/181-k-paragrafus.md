@@ -1,0 +1,1 @@
+181/K. § E fejezet, valamint a 391. § f) és g) pontjának és a 10. számú melléklet 1. m) pontjának alkalmazásában személy: a természetes személy, a jogi személy, továbbá a jogi személyiséggel nem rendelkező gazdasági társaság.

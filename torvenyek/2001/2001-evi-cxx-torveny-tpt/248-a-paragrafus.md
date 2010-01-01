@@ -1,0 +1,5 @@
+248/A. § (1) Ha az alapkezelő a nyílt végű befektetési alap tájékoztatójában és kezelési szabályzatában a forgalomba hozandó befektetési jegy mennyiségére felső korlátot állapított meg (kibocsátási maximum), és a forgalomban lévő befektetési jegyek mennyisége ezt a korlátot elérte, akkor a befektetési jegyek folyamatos forgalomba hozatala szünetel. Ha a törvény másként nem rendelkezik, a befektetési jegyek visszaváltása a folyamatos forgalomba hozatal szünetelése esetén sem korlátozható. Kibocsátási maximum a nyílt végű befektetési alap befektetési jegyének jegyzési eljárással történő forgalomba hozatalára is meghatározható.
+
+(2) A tájékoztatóban, rövidített tájékoztatóban közölni kell a kibocsátási maximum elérését követő allokáció módját, befejezésének időpontját, az allokációról való értesítés módját, valamint a folyamatos forgalomba hozatal újraindításának pontos feltételeit.
+
+(3) A kibocsátási maximum elérését, a befektetési jegyek folyamatos forgalomba hozatalának szüneteltetését, illetve újraindítását az alap hirdetményi helyein közzé kell tenni.

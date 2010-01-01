@@ -1,0 +1,3 @@
+152. § (1) A részvényesi meghatalmazott a részvénytársasággal szemben részvényesi jogokat a részvénykönyvbe részvényesi meghatalmazottként történő bejegyzését követően gyakorolhat. A bejegyzésnek tartalmaznia kell részvény-fajtánként a joggyakorlás alapjául szolgáló részvények mennyiségét.
+
+(2) Ha a részvénytársaságban történő tulajdonszerzés hatósági engedélyhez kötött, a részvényesi meghatalmazott kizárólag a részvényessel, illetve belföldi székhelyű részvénytársaság részvényeire kibocsátott másodlagos értékpapír esetén annak tulajdonosával (végső jogosulttal) együtt jegyezhető be a részvénykönyvbe.

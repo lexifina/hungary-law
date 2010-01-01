@@ -1,0 +1,7 @@
+177/A. § (1) A befektetési vállalkozásnak megbízható, hatékony és átfogó stratégiával és eljárással kell rendelkeznie annak érdekében, hogy felmerülő kockázatainak fedezetéhez szükséges nagyságú és összetételű tőkét meghatározza és folyamatosan fenntartsa.
+
+(2) A befektetési vállalkozásnak legalább évente felül kell vizsgálnia az (1) bekezdés szerinti stratégiáját és eljárását, hogy azok összhangban legyenek a tevékenysége jellegével, nagyságrendjével és összetettségével.
+
+(3) A tagállami befektetési vállalkozás anyavállalat, a tagállami pénzügyi holding társaság anyavállalat, az EU-szintű befektetési vállalkozás anyavállalat és az EU-szintű pénzügyi holding társaság anyavállalat az (1) és (2) bekezdésben foglaltaknak a 181/A. § (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon köteles megfelelni.
+
+(4) Ha egy befektetési vállalkozás ellenőrző befolyás alatt áll vagy egy vállalkozás ezen befektetési vállalkozásban részesedési viszonnyal rendelkezik és a befektetési vállalkozás maga is ellenőrző befolyással vagy részesedési viszonnyal rendelkezik egy harmadik országban székhellyel rendelkező hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban, befektetési alapkezelőben vagy járulékos vállalkozásban, akkor a befektetési vállalkozás az (1) és (2) bekezdésben rögzített követelményeknek a 181/A. § (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon is köteles megfelelni.

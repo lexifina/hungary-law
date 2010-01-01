@@ -1,0 +1,7 @@
+## Részvényesi meghatalmazott (nominee)
+
+151. § (1) Az értékpapír-számlavezető, a letétkezelő, vagy az elszámolóház a részvényessel írásban kötött szerződés (e fejezet alkalmazásában a továbbiakban: szerződés) alapján, a részvényes meghatalmazottjaként (a továbbiakban: részvényesi meghatalmazott), saját nevében a részvényes javára gyakorolhatja a részvénytársasággal szemben a részvényesi jogokat. Részvényesi meghatalmazott devizakülföldi is lehet, ha saját joga alapján jogosult a saját nevében a részvényes javára a részvénytársasággal szemben a tagsági jogok gyakorlására. Ez a szabály megfelelően irányadó akkor is, ha a részvénytársasággal szemben a tagsági jogok gyakorlására másodlagos értékpapír kibocsátása alapján, a másodlagos értékpapír tulajdonosa (végső jogosult) javára kerül sor.
+
+(2) A részvényesi meghatalmazott tevékenysége mindazon részvényesi jog gyakorlására kiterjedhet, amely jog gyakorlására a részvényes jogosult. A részvényesi meghatalmazott kizárólag az általa vezetett értékpapírszámlán nyilvántartott vagy a nála letétbe helyezett részvények alapján gyakorolhat részvényesi jogokat.
+
+(3) A szerződés nem lehet része az értékpapír-számla vezetésére, az értékpapír letétkezelésére létesített, illetve más befektetési szolgáltatási, vagy kiegészítő befektetési szolgáltatási szerződésnek. A szerződésben rendelkezni kell a részvényes és a részvényesi meghatalmazott közötti kapcsolattartás, az utasítás kikérésének és megadásának, a tájékoztatási kötelezettség teljesítésének módjáról.

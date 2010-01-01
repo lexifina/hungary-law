@@ -1,0 +1,11 @@
+## Egyes értékpapírokra vonatkozó sajátos szabályok
+
+44. § (1) Állampapír – ide nem értve a harmadik ország által kibocsátott állampapírt – vagy az Európai Unió tagállama által garantált értékpapír nyilvános forgalomba hozatala, illetőleg szabályozott piacra történő bevezetése esetén – ha a forgalomba hozatalra, illetőleg a szabályozott piacra történő bevezetésre kizárólag Magyarországon kerül sor – a 26–27. §-ban meghatározott tájékoztató helyett a 2. számú mellékletben meghatározott tartalmú ismertető és nyilvános ajánlattétel tehető közzé.
+
+(2) Az ismertető az állampapírok forgalomba hozatalával és forgalmazásával kapcsolatos általános feltételeket és szabályokat tartalmazza. Az ismertetőt a Felügyelethez tájékoztatásul előzetesen be kell nyújtani. Az ismertető teljes szövegét a 34. § (3) bekezdésében meghatározottak szerint nyilvánosságra kell hozni, valamint a forgalmazási helyeken megtekintésre a befektetők számára rendelkezésre kell bocsátani.
+
+(3) A nyilvános ajánlattétel az értékesítésre felajánlott értékpapír feltételeit és adatait, valamint a forgalomba hozatalra vonatkozó adatokat tartalmazza. A nyilvános ajánlattételt a kibocsátónak – befektetési szolgáltató igénybevétele esetén a forgalomba hozatalban közreműködő befektetési szolgáltatóval együttesen – kell legkésőbb a forgalomba hozatal napját megelőző három munkanappal közzétenni a közzététel szabályai szerint a 34. § (4) bekezdésében meghatározott helyen. A kibocsátási árat – amennyiben az előzetesen meghatározásra kerül – a nyilvános ajánlattételben vagy legkésőbb a forgalomba hozatal napját megelőző munkanapon a hirdetménnyel megegyező módon kell közzétenni.
+
+(4) Állampapír nyilvános forgalomba hozatala kibocsátási program keretében is történhet. A kibocsátási program keretében különböző fajta állampapírok is forgalomba hozhatók, illetőleg különböző forgalomba hozatali módok alkalmazhatók.
+
+(5) Ha a kibocsátó az értékpapírban foglalt jogokat, vagy a nyilvános forgalomba hozatalhoz készített ismertető tartalmát megváltoztatja, a változtatás tartalmát legkésőbb a változtatás időpontját három munkanappal megelőzően köteles a Felügyeletnek megküldeni, valamint a változtatás tényét a (3) bekezdésben meghatározott módon közzétenni.

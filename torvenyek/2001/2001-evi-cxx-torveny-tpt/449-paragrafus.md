@@ -1,0 +1,1 @@
+449. § Ahol a hatálybalépés előtt kihirdetett jogszabály az 1996. évi CXI. törvényre vagy az Épt.-re, az 1994. évi XXXIX. törvényre vagy az Áttv.-re, illetőleg az 1991. évi LXIII. törvényre vagy a Bat.-ra utal, azon e törvényt kell érteni.

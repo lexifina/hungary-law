@@ -1,0 +1,1 @@
+169. § Ha a kölcsönbe vevő az értékpapír-kölcsönzésre vonatkozó szerződésben vállalt esedékességkor az értékpapírt visszaszolgáltatni nem tudja, akkor a kölcsönbe adó részére fizetendő pénzbeli kártérítés legkisebb összegeként a kölcsönbe adás, illetőleg az esedékesség napjának árfolyamai közül a magasabbat kell figyelembe venni.

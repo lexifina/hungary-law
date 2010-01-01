@@ -1,0 +1,3 @@
+329. § (1) A tőzsde, illetve a Felügyelet a felfüggesztésre vagy a kereskedés visszaállítására vonatkozó döntéséről haladéktalanul értesíti a másik felet és döntését a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza.
+
+(2) Ha a felfüggesztésre okot adó körülmény megszűnt, a felfüggesztést elrendelő haladéktalanul köteles intézkedni a forgalmazás visszaállítása iránt. Ha a felfüggesztést a tőzsde rendelte el és a forgalmazás visszaállítása iránt indokolatlanul nem intézkedik, a Felügyelet az intézkedést határozattal pótolja.

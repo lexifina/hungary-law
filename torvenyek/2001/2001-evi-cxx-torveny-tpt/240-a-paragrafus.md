@@ -1,0 +1,1 @@
+240/A. § A befektetési alapkezelő alkalmazhatja a Bszt. kiszervezésre vonatkozó rendelkezéseit azzal, hogy ahol a jogszabály befektetési vállalkozást említ, az alatt befektetési alapkezelőt, ahol befektetési szolgáltatási tevékenységet, kiegészítő szolgáltatást említ, az alatt a befektetési alapkezelő által végzett tevékenységet kell érteni.

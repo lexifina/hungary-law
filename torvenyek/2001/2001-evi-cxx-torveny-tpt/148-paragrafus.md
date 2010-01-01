@@ -1,0 +1,1 @@
+148. § Befektetési szolgáltatási tevékenységet végző hitelintézet az ügyfél által igénybe vett befektetési szolgáltatási tevékenységhez kapcsolódó pénzforgalmat – az ügyfél kifejezett rendelkezése alapján – az ügyfél bankszámláján is lebonyolíthatja.

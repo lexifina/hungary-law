@@ -1,0 +1,43 @@
+296/D. § (1) A kérelmezőnek a kockázati tőkealap-kezelési tevékenység végzésére vonatkozó engedély iránti kérelméhez be kell nyújtania:
+
+a) a társasági szerződést (alapító okiratot), illetve ennek módosítását;
+
+b) a jegyzett tőke teljes összegének befizetését és rendelkezésre állását tanúsító iratokat;
+
+c) részvénykönyvének másolatát;
+
+d) a szervezeti és működési szabályzatát;
+
+e) az olyan gazdasági társaságok megnevezését, amelyben részesedése van, a részesedés mértékének megjelölésével;
+
+f)
+
+g) könyvvizsgálója nevét és engedélyének számát;
+
+h) a könyvvizsgáló igazolását arra vonatkozóan, hogy a kérelmező informatikai rendszere, számviteli politikája és számviteli rendje mindenkori pénzügyi helyzetének megállapítására alkalmas;
+
+i) a vezető állású személy esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt és a kockázati tőkealap-kezelési tevékenységet vezető személy felsőfokú végzettségét igazoló dokumentumot;
+
+j) az üzleti tervét; és
+
+k) az e törvényben foglalt előírásoknak való megfelelést tanúsító egyéb okiratokat.
+
+(2) A Felügyelet a tevékenységi engedély megadását csak akkor tagadhatja meg, ha a kérelmező
+
+a) az e törvényben foglalt feltételeknek nem felel meg és azt hiánypótlásra történt felszólítás ellenére sem pótolja; vagy
+
+b) az eljárás során megtévesztő vagy valótlan adatot közölt.
+
+(3) A Felügyelet a kockázati tőkealap-kezelő tevékenységi engedélyét visszavonja, ha
+
+a) a kockázati tőkealap-kezelő részére kiadott tevékenységi engedély kiadásának feltételei már nem állnak fenn és azok megfelelő határidőn belül nem pótolhatók; vagy
+
+b) az engedéllyel rendelkező az engedélyezett tevékenységet hat hónapon belül nem kezdi meg, vagy hat hónapot meghaladó időtartam alatt nem gyakorolja;
+
+c) az engedéllyel rendelkező a tevékenység folytatásával felhagy;
+
+d) az engedéllyel rendelkező a tevékenységre vonatkozó, e törvényben és külön jogszabályban meghatározott előírásokat ismétlődően vagy súlyosan megszegi;
+
+e) az engedélyt a Felügyelet megtévesztésével vagy más jogszabálysértő módon szerezte meg.
+
+(4) Ha a kérelmező az (1) bekezdés a) és g) pontjában meghatározott adatokat nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.

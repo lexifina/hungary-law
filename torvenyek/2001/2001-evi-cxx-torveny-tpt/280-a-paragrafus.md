@@ -1,0 +1,3 @@
+280/A. § (1) Ingatlanalap kizárólag az ingatlanok átruházása (elidegenítése, megszerzése) körében köthet adásvételi, csere, valamint más, adásvételre irányuló, azzal vegyes szerződéseket, így különösen a Ptk.-ban az adásvétel különös nemeiként nevesített szerződéseket, illetve időpont vagy feltétel bekövetkezésétől függő hatályú szerződéseket.
+
+(2) Az ingatlanok átruházására, valamint az ingatlanok megterhelésére vonatkozó szerződések érvényességéhez a letétkezelő ellenjegyzése szükséges. A letétkezelő az adott ügyletet csak a befektetési alapokra vonatkozó jogszabályok szerint minősítheti, ellenjegyzése során az alapkezelő döntését üzleti megfontolások szempontjából nem értékeli.

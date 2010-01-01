@@ -1,0 +1,5 @@
+8. § (1) Ha a kibocsátó azonos sorozatú értékpapír további kibocsátásáról rendelkező döntése alapján a 7. § (2) bekezdés c) és d) pontjában szereplő adatokban bármilyen változás áll be, a korábban kibocsátott okirat érvénytelenítésével egyidejűleg új okiratot kell kiállítani.
+
+(2) Amennyiben a kibocsátás jegyzési eljárással történik, a 7. § (2) bekezdése szerinti okiratot a kibocsátó a jegyzés tényleges lezárását követő napon állítja ki. Amennyiben a jegyzést követően allokációra kerül sor, az okiratot az allokáció lezárását követő napon kell kiállítani. Ha a kibocsátó a forgalomba hozatal más módját választja, az okiratot az azt követő napon állítja ki, amikor a kibocsátandó értékpapír mennyisége véglegessé vált.
+
+(3) Ha a kibocsátás jegyzési eljárás lefolytatása nélkül a befektetőnek történő közvetlen értékesítéssel történik, és a kibocsátó meghatározza a kibocsátani tervezett értékpapír összértékének felső határát, a 7. § (2) bekezdése szerinti okiratot a kibocsátó az értékesítés megkezdését megelőző munkanapon állítja ki, és az értékpapír értékesített mennyiségének változását új okirat benyújtásával a központi értéktárnak naponta bejelenti.

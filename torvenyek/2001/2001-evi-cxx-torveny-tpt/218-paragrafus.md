@@ -1,0 +1,1 @@
+218. § Harmadik országbeli befektetési vállalkozás, hitelintézet és befektetési alapkezelő fióktelepe esetében az ügyfél követelésekre kizárólag az Alap által biztosított mértékig fizethető kártalanítás.
