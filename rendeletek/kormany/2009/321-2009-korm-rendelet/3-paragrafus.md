@@ -1,0 +1,11 @@
+3. § (1) Többféle szociális szolgáltatást nyújtó szociális szolgáltató, intézmény számára egy működési engedélyt kell kiadni. Telephellyel rendelkező szociális szolgáltató, intézmény esetén az ellátást nyújtó székhelyre és az egyes telephelyekre külön kell működési engedélyt kiadni, és e rendeletnek a szociális szolgáltatóra, intézményre vonatkozó szabályait mind az ellátást nyújtó székhelyre, mind a telephelyekre megfelelően alkalmazni kell.
+
+(2) A működési engedélyezéssel és – a 15. §-ban foglaltak kivételével – az ellenőrzéssel kapcsolatos ügyekben első fokon
+
+a) szociális szolgáltató és kizárólag alapszolgáltatást nyújtó szociális intézmény esetén a szociális szolgáltató, intézmény székhelye, telephelye szerint illetékes városi jegyző,
+
+b) bentlakásos intézményi ellátást nyújtó szociális intézmény esetén a szociális intézmény székhelye, telephelye szerint illetékes szociális és gyámhivatal
+
+jár el.
+
+(3) Ha a szociális szolgáltató, intézmény a székhelyén vagy valamelyik telephelyén a szociális alapszolgáltatás mellett bentlakásos intézményi ellátást, gyermekek átmeneti gondozását vagy gyermekvédelmi szakellátást is nyújt – ideértve azt az esetet is, ha külön jogszabály szerinti helyettes szülői hálózat, nevelőszülői hálózat vagy külső férőhelyen biztosított utógondozói ellátás működtetője –, a 15. §-ban foglaltak kivételével a szociális szolgáltató, intézmény ellátást nyújtó székhelye és valamennyi telephelye tekintetében a székhely, telephely szerint illetékes szociális és gyámhivatalok járnak el első fokon.
