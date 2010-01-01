@@ -1,0 +1,3 @@
+18. § (1) Az V. és VI. kategóriába sorolt színházak támogatása pályázati úton történik. A pályázatokról történő döntései megalapozásához a miniszter az EMT javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésekre a szakmai kuratórium előterjesztése alapján az EMT tesz javaslatot. A javaslattól eltérő döntéseit a miniszter köteles megindokolni.
+
+(2) Az V. és VI. kategóriába sorolt színházak tárgyévi támogatási keretösszege 50%-a mértékéig a szakmai kuratórium javaslata alapján a miniszter legfeljebb három évre szóló kötelezettséget vállalhat a következő évek támogatási kerete terhére.

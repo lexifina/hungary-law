@@ -1,0 +1,1 @@
+22. § Az önkormányzat a támogatás rendeltetésszerű felhasználásáról a mindenkori zárszámadás keretében és annak rendje szerint a tárgyév december 31. napjáig köteles elszámolni. A támogatásnak az adott év december 31-én feladattal terhelt maradványával a következő év június 30-ig kell elszámolni.

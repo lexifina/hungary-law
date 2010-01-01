@@ -1,0 +1,17 @@
+4. § A kultúráért felelős miniszter (a továbbiakban: miniszter) az e törvényben meghatározottak szerint ellátja az előadó-művészeti tevékenységgel kapcsolatos ágazati feladatokat. E körben a miniszter feladatai különösen:
+
+a) előkészíti az előadó-művészeti területet érintő jogalkotás során a szabályozás tervezeteit és e törvény felhatalmazása szerint rendeletben szabályozza az előadó-művészeti szervezetek támogatásával kapcsolatos kérdéseket,
+
+b) az e törvényben és a költségvetési törvényben előírtak szerint végzi az előadó-művészeti szervezetek központi költségvetési támogatásával kapcsolatos feladatokat,
+
+c) a létesítő okirat alapján gyakorolja a központi költségvetési szervként működő előadó-művészeti szervezetek feletti alapítói és felügyeleti jogokat, valamint támogatja az állam tulajdonosi részesedésével működő előadó-művészeti nonprofit gazdasági társaságok (a továbbiakban együtt: állam által fenntartott előadó-művészeti szervezet) feladat-ellátását,
+
+d) legfeljebb öt évre szóló, többször megújítható közszolgáltatási szerződést köt meghatározott művészeti feladatokra kivételesen magas színvonalú művészi teljesítményt felmutató, hazai és nemzetközi szinten kiemelten elismert, állami vagy önkormányzati fenntartóval nem rendelkező előadó-művészeti szervezettel,
+
+e) a döntéshozatalra jogosultat tájékoztatja szakmai véleményéről az I–V. kategóriába sorolt színházak, balett- vagy táncegyüttesek, valamint az I. kategóriába sorolt zenekarok és énekkarok alaptevékenységét érintő jelentős szakmai változással, átalakításával, más szervezettel történő összevonásával, jogutód nélküli megszüntetésével kapcsolatban, valamint
+
+f) működteti az Előadó-művészeti Tanácsot.
+
+2. CÍM
+
+Az Előadó-művészeti Tanács
