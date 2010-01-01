@@ -1,0 +1,3 @@
+197. § (1) Ha az ügyész a nyomozást a 190. § (1) bekezdésének e) pontja alapján azért szüntette meg, mert a büntethetőség a hivatalból kezdeményezett eljárási kegyelem folytán szűnt meg, a gyanúsított a nyomozást megszüntető határozat közlésétől számított nyolc napon belül kérheti a nyomozás folytatását, ebben az esetben a nyomozást folytatni kell.
+
+(2) A büntetőeljárást folytatni kell, ha a gyanúsított a nyomozást megszüntető határozat ellen benyújtott panaszában a megrovás alkalmazását sérelmezi, és a büntetőeljárás megszüntetésének más oka nincs. Erre a gyanúsítottat a határozatban figyelmeztetni kell.

@@ -1,0 +1,3 @@
+519. § (1) Az ügyész haladéktalanul értesíti a bíróságot, ha a vádlottat bíróság elé kívánja állítani, ebben az esetben a bíróság nyomban kitűzi a tárgyalás határnapját.
+
+(2) A bíróság elé állítás előtt elrendelt személyi szabadságot elvonó vagy korlátozó kényszerintézkedés a bíróság elé állítás napján tartott tárgyalás befejezéséig tart. Ha az 517. § (1) bekezdésében meghatározott feltételek is fennállnak, az őrizetbe vétel bíróság elé állítás céljából is elrendelhető. Az őrizet legfeljebb hetvenkét óráig tarthat. Ha a bíróság az iratokat az ügyészhez visszaküldi, az ügyész indítványára az általános szabályok szerint határoz a személyi szabadságot elvonó vagy korlátozó kényszerintézkedésekről.

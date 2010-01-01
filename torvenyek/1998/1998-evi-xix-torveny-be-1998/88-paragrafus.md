@@ -1,0 +1,3 @@
+88. § (1) A kihallgatása során a tanú a hozzá intézett kérdésekre válaszol, de arra is módot kell neki adni, hogy a vallomását összefüggően előadja; ennek során – a tanú védelmére vonatkozó szabályok figyelembevételével – tisztázni kell azt is, hogy a tanú az általa elmondottakról miként szerzett tudomást. Ha a tanú vallomása eltér a korábbi vallomásától, ennek okát tisztázni kell. Az eljárás azonos szakaszában a tanú újabb kihallgatásánál a személyi adatokat – ha azok nem változtak – nem szükséges rögzíteni.
+
+(2) A tanú kérelmére a vallomásának egyes részeit szó szerint kell jegyzőkönyvbe venni.

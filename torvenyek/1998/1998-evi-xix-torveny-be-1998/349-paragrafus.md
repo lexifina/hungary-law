@@ -1,0 +1,5 @@
+349. § (1) Ha az első fokú bíróság ítélete több vádlottról rendelkezik, a másodfokú bíróság az ítéletnek csak a fellebbezéssel érintett vádlottra vonatkozó részét bírálja felül.
+
+(2) A másodfokú bíróság a fellebbezéssel nem érintett vádlottat felmenti, a bűncselekményének enyhébb minősítése folytán törvénysértően súlyos büntetését, illetve a vele szemben büntetés helyett alkalmazott intézkedést enyhíti, vagy az első fokú bíróság ítéletének reá vonatkozó részét hatályon kívül helyezi, és vele szemben az eljárást megszünteti, illetőleg az első fokú bíróságot új eljárásra utasítja, ha a fellebbezéssel érintett vádlott tekintetében is ugyanígy határoz.
+
+(3) Ha a másodfokú bíróság az első fokú bíróság ítéletének a fellebbezéssel nem érintett vádlottra vonatkozó részét hatályon kívül helyezi, vagy a fellebbezéssel nem érintett vádlottat felmenti, és az első fokú bíróság által e vádlott tekintetében kiszabott büntetést összbüntetésbe foglalták, a másodfokú bíróság az összbüntetési ítéletet is hatályon kívül helyezi.

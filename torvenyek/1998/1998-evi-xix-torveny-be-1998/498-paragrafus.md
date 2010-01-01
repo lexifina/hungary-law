@@ -1,0 +1,1 @@
+498. § Ha a feljelentésből a feljelentett kiléte vagy a bűncselekmény nem állapítható meg, a bíróság felhívhatja a feljelentőt, hogy írásban pontosítsa a feljelentést, előkészítő ülést tarthat, nyomozást rendelhet el.

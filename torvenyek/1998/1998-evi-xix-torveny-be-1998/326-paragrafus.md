@@ -1,0 +1,1 @@
+326. § Ha az első fokú bíróság a nem ügydöntő végzést kihirdetés útján közli, a fellebbezést a végzés kihirdetésekor kell bejelenteni. A nem ügydöntő végzés elleni fellebbezés bejelentésére egyebekben a 325. § (2)–(4) bekezdésében foglaltak irányadók.

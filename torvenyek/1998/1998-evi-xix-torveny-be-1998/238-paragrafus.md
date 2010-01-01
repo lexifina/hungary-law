@@ -1,0 +1,7 @@
+238. § (1) A nyilvánosság kizárásáról szóló határozatot a bíróság nyilvános tárgyaláson hirdeti ki. A nyilvánosság kizárása tárgyában hozott határozat ellen külön fellebbezésnek nincs helye, azt az ügydöntő határozattal szemben bejelentett fellebbezésben lehet sérelmezni.
+
+(2) A bíróság a nyilvánosság kizárása esetén is engedélyezheti, hogy az igazságszolgáltatással összefüggő feladatokat ellátó hivatalos személyek a tárgyaláson jelen legyenek. A külföldi állampolgár vádlott ellen, illetőleg a külföldi állampolgár sértett sérelmére elkövetett bűncselekmény miatt indult eljárás során lehetővé kell tenni, hogy a tárgyaláson a külföldi állampolgár államának konzuli tisztviselője, illetőleg törvénnyel kihirdetett nemzetközi szerződés rendelkezése alapján a külföldi állam hatóságának tagja jelen lehessen.
+
+(3) A nyilvánosság kizárása esetén a sértett, ha nincs képviselője, illetőleg a vádlott, ha nincs védője, indítványozhatja, hogy a tárgyalás helyszínén tartózkodó, általa megnevezett személy – kivéve a tárgyaláson kihallgatandó személyt – legyen jelen a tárgyaláson. Ha a nyilvánosságot a bíróság a 237. § (3) bekezdésének d) pontja alapján zárta ki, ilyen indítvány nem terjeszthető elő. Az indítvány tárgyában hozott határozat ellen fellebbezésnek nincs helye.
+
+(4) Ha a bíróság zárt tárgyalást rendel el, figyelmezteti a résztvevőket arra, hogy a tárgyaláson elhangzottakról tájékoztatást nem adhatnak, szükség esetén figyelmezteti őket az államtitok és a szolgálati titok megsértésének következményeire. A figyelmeztetést a jegyzőkönyvben fel kell tüntetni.

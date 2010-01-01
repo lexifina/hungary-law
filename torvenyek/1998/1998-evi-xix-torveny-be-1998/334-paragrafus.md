@@ -1,0 +1,1 @@
+334. § Az eljárásnak a 332. § (1) bekezdése a)–b) és f)–g) pontja alapján történt megszüntetése esetén a bíróság elkobzást, illetőleg vagyonelkobzást rendelhet el. Az eljárásnak a 332. § (5) bekezdése alapján történt megszüntetése esetén a bíróság a korábbi ügydöntő határozat elkobzást, illetőleg vagyonelkobzást kimondó rendelkezését hatályában fenntartja.

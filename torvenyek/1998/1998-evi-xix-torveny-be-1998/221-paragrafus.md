@@ -1,0 +1,1 @@
+221. § Az ügyész a határozatban tájékoztatja a sértettet, hogy a polgári jogi igényét egyéb törvényes úton érvényesítheti, valamint, hogy annak a cselekménynek a tekintetében, amely miatt a vádemelést részben mellőzte, pótmagánvádnak van helye.

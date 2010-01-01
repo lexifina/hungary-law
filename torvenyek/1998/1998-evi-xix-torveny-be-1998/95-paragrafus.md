@@ -1,0 +1,1 @@
+95. § A tanú életének és testi épségének vagy személyes szabadságának védelme, valamint annak érdekében, hogy a tanú a vallomástételi kötelezettségének eleget tegyen és a vallomását megfélemlítés nélkül tegye meg, a tanút az e törvényben meghatározottak szerint védelemben kell részesíteni.

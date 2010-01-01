@@ -1,0 +1,1 @@
+248. § A tárgyalás vezetésének és rendjének fenntartása körében hozott határozatok ellen külön fellebbezésnek nincs helye, kivéve, ha a határozat rendbírság kiszabásáról, a költségek viselésére kötelezésről vagy őrizetbe vételről rendelkezik.
