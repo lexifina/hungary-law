@@ -1,0 +1,3 @@
+57. § (1) A hajóútnak a hajózási létesítmény és a hajózást befolyásoló vízilétesítmény karbantartása és egyéb előre tervezhető vízimunkák miatti elzárásának időtartamát a létesítmény fenntartója a lehető legrövidebb időre köteles korlátozni.
+
+(2) A hajóútnak hajózási létesítmény és hajózást befolyásoló vízilétesítmény előre nem látható üzemzavara vagy meghibásodása, továbbá elemi csapás vagy havaria által okozott elzárása esetén, a létesítmény fenntartója a helyreállítást a lehető legrövidebb időn belül köteles megkezdeni, és a hajóút elzárását minden rendelkezésre álló eszköz felhasználásával a lehető legrövidebb időre korlátozni.

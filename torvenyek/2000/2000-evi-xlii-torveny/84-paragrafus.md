@@ -1,0 +1,1 @@
+84. § A kikötő üzemben tartója a kikötő, illetőleg a kikötőben tartózkodó úszólétesítmény ellenőrzését végző államigazgatási szervek úszólétesítményeinek kikötését – a vizsgálat idejére – díjmentesen köteles biztosítani.

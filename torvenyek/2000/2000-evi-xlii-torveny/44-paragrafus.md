@@ -1,0 +1,1 @@
+44. § (1) Tengeri kereskedelmi hajó személyzete tekintetében – munkaidőkeret alkalmazása esetén – kollektív szerződés az Mt. teljes munkaidő mértékére vonatkozó szabályaitól eltérhet, és a teljes munkaidő mértékét legfeljebb heti hat munkanap, és napi nyolc óra figyelembevételével állapíthatja meg.

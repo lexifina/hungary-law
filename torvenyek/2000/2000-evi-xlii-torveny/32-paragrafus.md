@@ -1,0 +1,1 @@
+32. § A magyar lobogó alatt közlekedő tengeri nagyhajón, továbbá a Magyar Köztársaság területét elhagyó belvízi nagyhajón alkalmazott munkavállaló javára a munkáltató élet- és balesetbiztosítást köteles kötni.

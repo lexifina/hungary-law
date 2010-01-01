@@ -1,0 +1,1 @@
+5. § A hajózással kapcsolatos rendőrhatósági és határrendészeti tevékenységet a rendészetért felelős miniszter és a határrendészetért felelős miniszter – a rendőrség vízirendészeti feladatokat ellátó szervei útján – külön jogszabályban foglaltak alapján látja el.

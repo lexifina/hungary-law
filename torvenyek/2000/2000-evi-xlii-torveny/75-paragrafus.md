@@ -1,0 +1,3 @@
+75. § (1) A víziútban lévő, azt keresztező, vagy azt a víziút medrétől 50 méternél kisebb távolságban megközelítő nyomvonalas és egyéb létesítményeket annak üzemben tartója köteles a jogszabályban és az üzemeltetési engedélyben meghatározott állapotban tartani és az előírt jelekkel ellátni.
+
+(2) Ha a víziútban lévő, azt keresztező, megközelítő nyomvonalas és egyéb létesítmény műszaki jellemzői eltérnek a jogszabályban, illetőleg az engedélyben foglaltaktól, vagy az a víziközlekedés biztonságát, illetőleg a környezetet veszélyezteti, a hajózási hatóság a tulajdonost, a veszélyforrás építéssel, bontással vagy átalakítással történő felszámolására kötelezheti.

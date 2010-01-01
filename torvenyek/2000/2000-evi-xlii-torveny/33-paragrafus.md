@@ -1,0 +1,1 @@
+33. § A közforgalmú hajózási tevékenységet folytató gazdálkodó szervezet munkavállalóját, nyugdíjasát és ezek hozzátartozóit – a saját üzemeltetésben lévő hajókon – utazási és fuvarozási kedvezmény illeti meg.

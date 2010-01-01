@@ -1,0 +1,1 @@
+6. § A hajózás egészségügyi és közegészségügyi-járványügyi hatósági felügyeletét az egészségügyért felelős miniszter – az egészségügyi államigazgatási szerv útján – külön jogszabályban foglaltak alapján látja el.

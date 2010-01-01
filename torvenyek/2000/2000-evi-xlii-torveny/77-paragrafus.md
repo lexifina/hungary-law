@@ -1,0 +1,1 @@
+77. § A hajóút jogszabályban megállapított jellemző méreteiben [70. § (1) bekezdésének d) pontja] átmenetileg, elháríthatatlanul bekövetkezett csökkenésről a víziút fenntartójának bejelentése alapján a hajózási hatóság értesíti a hajózás résztvevőit.

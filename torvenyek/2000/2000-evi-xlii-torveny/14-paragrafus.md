@@ -1,0 +1,5 @@
+14. § (1) A magyarországi székhelyű jogi személy és gazdálkodó szervezet által személyzet nélkül bérelt, külföldi lajstromban nyilvántartott úszólétesítményt a hajózási hatóság a lajstromba – kérelemre – a bérleti szerződés időtartamára ideiglenesen bejegyzi, amennyiben azt a külföldi lajstromból ideiglenesen törölték. Az úszólétesítmény üzemképességét igazoló – külföldi hajózási hatóság által kiállított – okmányok érvényességük lejártáig, de legfeljebb 60 napig használhatók a magyar lobogó alatt történő üzemeltetés során.
+
+(2) A külföldi székhelyű jogi személy és gazdálkodó szervezet által személyzet nélkül bérelt, magyar lajstromban nyilvántartott úszólétesítményt a hajózási hatóság – kérelemre – a bérleti szerződésben meghatározott időtartamra a lajstromból ideiglenesen törli. Amennyiben az úszólétesítményt jelzálog terheli, az ideiglenes törléshez a zálogjogosult hozzájárulása szükséges. Az ideiglenes törlés időtartamának lejártával – külön eljárás nélkül – a törlés előtti bejegyzés válik érvényessé.
+
+(3) Az ideiglenes lajstromozás, illetőleg az ideiglenes törlés a lajstromba bejegyzett egyéb jogokat nem érinti.

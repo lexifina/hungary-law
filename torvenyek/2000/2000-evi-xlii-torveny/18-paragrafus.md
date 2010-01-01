@@ -1,0 +1,1 @@
+18. § A hajózási hatóság, továbbá külön jogszabályban meghatározott szerv az üzemben tartott úszólétesítmény hajózásra alkalmasságát ellenőrizheti. A hajózási hatóság az úszólétesítmény üzemeltetését – annak hajózásra alkalmatlansága esetén – korlátozza vagy megtiltja.

@@ -1,0 +1,1 @@
+44/B. § A hajók üzemképességi vizsgálatait, a tűzvédelmi és mentőcsónak gyakorlatokat, továbbá külön jogszabályban megkövetelt egyéb gyakorlatokat úgy kell végezni, hogy azok a pihenőidőt a lehető legkisebb mértékben vegyék igénybe, és ne idézzenek elő kimerültséget.

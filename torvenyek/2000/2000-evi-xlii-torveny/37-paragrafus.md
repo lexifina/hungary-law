@@ -1,0 +1,1 @@
+37. § Az úszólétesítmény vezetője köteles a hajózás biztonságát, az úszólétesítményt, a rajta tartózkodó személyeket, illetőleg a rajta lévő tárgyakat fenyegető veszély, továbbá kár elhárítása érdekében az adott helyzetben lehetséges minden intézkedést megtenni.

@@ -1,0 +1,1 @@
+73. § Nemzeti víziutat – nemzetközi szerződés eltérő rendelkezése hiányában – idegen állam lobogója alatt közlekedő úszólétesítmény – a kedvtelési célú kishajó és a csónak kivételével – csak a hajózási hatóság által, díj ellenében kiadott víziúthasználati engedéllyel veheti igénybe.
