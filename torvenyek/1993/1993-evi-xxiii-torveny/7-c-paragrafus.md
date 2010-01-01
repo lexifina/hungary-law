@@ -1,0 +1,1 @@
+7/C. § A miniszter által közvetlenül felhasználható keret a 4. § (1) bekezdés a) pontja szerinti bevétel – a 7. § (2) bekezdésben foglalt költségekkel csökkentett – összegének 25%-a (a továbbiakban: miniszteri keret).

@@ -1,0 +1,1 @@
+2/B. § Az Alapot a miniszter felügyelete alá tartozó, önálló költségvetési szerv, a Nemzeti Kulturális Alap Igazgatósága (a továbbiakban: Igazgatóság) kezeli. Az Igazgatóság felel a bizottsági és kollégiumi döntések előkészítésének és végrehajtásának törvényességéért, valamint ellátja az Áht. 54/A. §-ában meghatározott feladatokat.
