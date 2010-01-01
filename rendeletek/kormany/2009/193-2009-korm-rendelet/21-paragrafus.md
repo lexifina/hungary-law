@@ -1,0 +1,1 @@
+## Építésügyi igazgatási szakértői nyilatkozat
