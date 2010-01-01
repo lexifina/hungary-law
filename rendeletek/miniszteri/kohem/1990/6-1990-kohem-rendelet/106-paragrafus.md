@@ -1,0 +1,82 @@
+## 105. §[^143]
+
+## Elsősegélynyújtó felszerelésre vonatkozó üzemeltetési műszaki feltételek
+
+106. §[^144] (1) A járműveken elsősegélynyújtó felszerelést kell készenlétben tartani, amelynek tartalma a következő:
+
+a) oldalkocsi nélküli motorkerékpár, motoros tricikli és négykerekű segédmotoros kerékpár (mopedautó) esetében:
+
+aa) steril gyorskötöző pólya (10 cm × 5 m): 2 db
+
+ab) steril mull-lap (6 × 6 cm/100 lap): 1 db
+
+ac) kéztisztító/fertőtlenítő lap: 4 db
+
+ad) fóliakesztyű: 1 pár
+
+ae) ragtapasz (1,25 cm × 5 m): 1 tekercs
+
+af) olló (rozsdamentes acélból, 110–150 mm-es): 1 db
+
+ag) polividonum jodatum hatóanyag tartalmú sebfertőtlenítő oldat (30 ml): 1 db
+
+ah) sebtapasz vágható (6 × 10 cm): 2 db
+
+ai) higiénikus arcmaszk (lélegeztetéshez): 1 db
+
+aj) gumis rögzítésű sebészeti szájmaszk: 1 db
+
+ak) elsősegélynyújtás képekben: 1 db
+
+al) tartalomjegyzék: 1 db
+
+b) személygépkocsi, tehergépkocsi, oldalkocsis motorkerékpár, mezőgazdasági vontató és lassú jármű, valamint a kizárólag menetrendszerű helyi járatban közlekedő autóbusz esetén:
+
+ba) steril gyorskötöző pólya (10 cm × 5 m): 4 db
+
+bb) steril gyorskötöző pólya (5 cm × 5 m): 2 db
+
+bc) steril mull-lap (6 × 6 cm/100 lap): 2 db
+
+bd) egyenként csomagolt vágott mullpólya (10 × 5 m): 4 db
+
+be) steril mull-lap (50 cm × 80 cm): 3 db
+
+bf) kéztisztító/fertőtlenítő lap: 4 db
+
+bg) fóliakesztyű: 1 pár
+
+bh) háromszögletű kendő 2 db
+
+bi) biztosítótű (40 mm-es): 4 db
+
+bk) ragtapasz (1,25 cm × 5 m): 1 tekercs
+
+bl) olló (rozsdamentes acélból, 110–150 mm-es): 1 db
+
+bm) polividonum jodatum hatóanyag tartalmú sebfertőtlenítő oldat (30 ml): 1 db
+
+bn) sebtapasz vágható (6 × 10 cm): 2 db
+
+bo) higiénikus arcmaszk (lélegeztetéshez): 1 db
+
+bp) gumis rögzítésű sebészeti szájmaszk: 1 db
+
+bq) elsősegélynyújtás képekben: 1 db
+
+br) tartalomjegyzék: 1 db
+
+c) a nem kizárólag menetrendszerinti járatban közlekedő autóbusz, valamint egyéb olyan jármű esetén, ahol a szállítható személyek száma 10 vagy annál több, továbbá a tűzoltó jármű esetében a b) pontban meghatározott mennyiség négyszerese.
+
+Az ag), illetve bm) pontokban meghatározott polividonum jodatum hatóanyag tartalmú sebfertőtlenítő oldat helyettesíthető 6 db 1 ml-es ampulla jódpárnával.
+
+(2) Az (1) bekezdésben meghatározott elsősegélynyújtó felszerelés – a tartalmának alkalmazhatóságára vonatkozó lejárati időn belül – helyettesíthető olyan elsősegélynyújtó felszereléssel, amelyet az Európai Gazdasági Térségről szóló megállapodásban részes állam a jármű kategóriájához alkalmazni rendelt, amennyiben azt magyar nyelvű, vagy ábrás elsősegélynyújtási tájékoztatóval ellátták.
+
+(3) Az elsősegélynyújtó felszerelést portól és víztől védett csomagolásban a járművezető számára jól hozzáférhető helyen kell a járművön tartani.
+
+(4) Az elsősegélynyújtó felszerelés (1) bekezdésben meghatározott egyes tartalmi elemei a gyártó által meghatározott időpontig alkalmazhatóak.
+
+(5) Az (1)–(4) bekezdés rendelkezéseit a már forgalomba helyezett járműveken a járműhöz használt bontatlan, lezárt elsősegélynyújtó felszerelés alkalmazhatóságának lejárta esetén, de legkésőbb 2013. január 1. napját követően kell alkalmazni.
+
+[^143]: A 105. §-t és az azt megelőző alcímet a 48/2009. (IX. 30.) KHEM rendelet 51. § 2. pontja hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^144]: A 106. § az 50/2009. (IX. 30.) KHEM rendelet 1. §-ával megállapított szöveg.
