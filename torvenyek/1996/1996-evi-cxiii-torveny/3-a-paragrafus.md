@@ -1,0 +1,7 @@
+3/A. § (1) Fióktelep formájában működő lakástakarékpénztárat kizárólag olyan külföldi hitelintézet létesíthet, amely kizárólagos tevékenységként lakáscélú betétek gyűjtésével és lakáscélú hitelek nyújtásával foglalkozik.
+
+(2) Olyan hitelintézet fióktelepének működését, amelynek székhelye nem az Európai Unió tagállamában van, akkor engedélyezi a Felügyelet, ha a kérelmező működése, üzletszabályzata, általános szerződési feltételei megfelelnek e törvény és a kapcsolódó rendeletek előírásainak.
+
+(3) Fióktelep formájában működő lakástakarékpénztár a 10. § (1) bekezdésében meghatározott kiutalási összeget a külföldi hitelintézettől függetlenül, elkülönítve állapítja meg az általa kötött szerződések alapján történő befizetések figyelembevételével. Az így megállapított kiutalási összeget kizárólag a fióktelep által kötött szerződések alapján teljesítendő kifizetésekre és e szerződések teljesítése érdekében a lakáskölcsönök nyújtására szükség esetén általa felvett kölcsön tőketörlesztésére és e kölcsönnek a kollektív kamat mértékével meghatározott számított hozamának kifizetésére használhatja fel a 15. § alapján.
+
+(4) Az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepe esetén a fióktelep létesítésének bejelentésétől számított két hónapon belül a Felügyelet tájékoztatja a székhely állam felügyeleti hatóságát a magyarországi tevékenységvégzés 6–24. §-ban meghatározott feltételeiről.

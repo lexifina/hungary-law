@@ -1,0 +1,3 @@
+23. § (1) Az állami támogatás összegét a központi költségvetés átutalja és a lakástakarékpénztár a lakáselőtakarékoskodó lakáselőtakarékossági számláján betétként jóváírja éves rendszerességgel a megtakarítási év leteltét követő egy hónapon belül. A lakástakarékpénztár a jóváírt állami támogatást és annak kamatait a lakáselőtakarékoskodó számláján elkülönítve kezeli.
+
+(2) Az állami támogatás összegének meghatározásánál nem minősül betétbefizetésnek az előző megtakarítási évben betétként elhelyezett összeg alapján a tárgyévben betétként jóváírt állami támogatás összege, a lakástakarékpénztár által a 7. § (8) bekezdése szerint fizetett késedelmi kamat, valamint az az összeg, amelyre mint lakáscélú megtakarításra korábban adókedvezményt vettek igénybe.

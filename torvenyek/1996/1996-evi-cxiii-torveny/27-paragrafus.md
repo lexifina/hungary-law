@@ -1,0 +1,1 @@
+27. § Az állami támogatás mértéke az 1997. december 31-ig megkötött szerződések esetén a lakáselőtakarékoskodó által az első megtakarítási évben a lakástakarékpénztárnál betétként elhelyezett összeg negyven százaléka, legfeljebb azonban harminchatezer forint.

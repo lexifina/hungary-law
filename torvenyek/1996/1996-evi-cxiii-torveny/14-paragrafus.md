@@ -1,0 +1,1 @@
+14. § A 6. § (1) bekezdésének c) és d) pontja szerinti lakáselőtakarékoskodókkal kötött, érvényben lévő szerződések együttes szerződéses összege az új szerződések megkötésének időpontjában nem haladhatja meg a lakástakarékpénztár előző hónap utolsó napján érvényben lévő összes szerződéséből eredő szerződéses összeg 15%-át.

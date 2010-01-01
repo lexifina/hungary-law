@@ -1,0 +1,1 @@
+17. § A lakástakarékpénztár a 10. és 11. § alapján nyújtott kölcsönöket – a vállalt kockázatnak megfelelően – személyi vagy dologi biztosítékokkal, elsősorban ingatlanra bejegyzett jelzáloggal biztosítja.
