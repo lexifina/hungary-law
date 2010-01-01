@@ -1,0 +1,9 @@
+10. § (1)[^10] Az építési, illetve bontási tevékenység befejezését követően az építtető köteles elkészíteni az építési tevékenység során ténylegesen keletkezett hulladékról az építőipari kivitelezési tevékenységről szóló kormányrendelet[^11] szerinti építési hulladék nyilvántartó lapot, illetve a bontási tevékenység során ténylegesen keletkezett hulladékról az építőipari kivitelezési tevékenységről szóló kormányrendelet szerinti bontási hulladék nyilvántartó lapot.
+
+(2)[^12]
+
+(3) Az (1) bekezdés szerinti bontási hulladék nyilvántartó lapot, valamint a hulladékot kezelő átvételi igazolását az építtető köteles a területileg illetékes környezetvédelmi hatóságnak benyújtani. Ennek hiányában a környezetvédelmi hatóság szabálysértési eljárást kezdeményezhet, valamint az adott területre új építési engedélyhez a külön jogszabályban meghatározott szakhatósági hozzájárulást nem adhat.
+
+[^10]: A 10. § (1) bekezdése a 311/2009. (XII. 28.) Korm. rendelet 25. § (7) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
+[^11]: Lásd a 191/2009. (IX. 15.) Korm. rendeletet.
+[^12]: A 10. § (2) bekezdését a 311/2009. (XII. 28.) Korm. rendelet 24. § (5) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a Kormány általános hatáskörű területi államigazgatási szerve építésfelügyeleti szakigazgatási szervének tevékenységében a közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtását a miniszter a Kormány általános hatáskörű területi államigazgatási szerve bevonásával ellenőrzi.
