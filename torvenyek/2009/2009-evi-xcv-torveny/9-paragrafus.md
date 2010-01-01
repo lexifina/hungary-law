@@ -1,0 +1,1 @@
+9. § A mezőgazdasági igazgatási szerv eltilthatja a kereskedőt a 3. § (5) bekezdése szerinti üzletszabályzatban szereplő rendelkezés alkalmazásától, amennyiben az nem egyértelmű megfogalmazású, a szolgáltatás, illetve ellenszolgáltatás nincs pontosan meghatározva vagy a kereskedő által felszámított díj nem költségarányos.
