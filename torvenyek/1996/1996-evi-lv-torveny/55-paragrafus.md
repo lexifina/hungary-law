@@ -1,0 +1,1 @@
+55. § A feladatát ellátó, e törvény szerint alkalmazott hivatásos vadászt a Büntető Törvénykönyv 230. §-ának c) pontjában meghatározott, közfeladatokat ellátó polgári őrt a Büntető Törvénykönyv 229. §-a szerinti büntetőjogi védelem illeti meg.
