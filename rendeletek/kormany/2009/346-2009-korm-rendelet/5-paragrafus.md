@@ -1,0 +1,1 @@
+## 4. § A honvédelmi szervezetek egyes szellemi és fizikai (technikai) támogató tevékenységeit a miniszter által meghatározott rend szerint, több önállóan működő és gazdálkodó honvédelmi szervezet láthatja el.

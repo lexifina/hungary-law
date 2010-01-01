@@ -1,0 +1,1 @@
+## 5. § Az ellátó és az ellátott honvédelmi szervezet közötti munkamegosztás és felelősségvállalás rendjét miniszteri utasítás, az ellátási-utaltsági rend szabályait belső rendelkezések határozzák meg.

@@ -1,0 +1,1 @@
+## 15. § A Kincstár által a „Hozzájárulás a NATO Biztonsági Beruházási Programjához” fejezeti kezelésű előirányzatra a finanszírozási terv alapján megnyitott előirányzat-felhasználási keretet a „NATO Biztonsági Beruházási Program lebonyolítási számlára” átutalja, és azt végleges kiadásként elszámolja.

@@ -1,0 +1,1 @@
+## 18. § Feladatellátáshoz gyakorolt funkciójuk szerint a honvédelmi szervezetek az Ámr. 9. § (1) bekezdés a) és b) pontjának, valamint (2) bekezdés a), d) és e) pontjának rendelkezései alapján kerülnek önállóan működő és gazdálkodó költségvetési szervként besorolásra.

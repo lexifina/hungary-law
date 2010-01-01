@@ -1,0 +1,1 @@
+## 11. § A költségvetési tervezési keretszámok 10. § (2) bekezdése szerinti kiadása során a miniszter a központi gazdálkodás és a nemzetközi feladatok évközi változásaiból adódó, a tervezettet meghaladó többletkiadások fedezetére a honvédelmi szervezetek egyes előirányzat-kereteit zárolhatja, és a költségvetési év során azokat elvonhatja.
