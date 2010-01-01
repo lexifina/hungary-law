@@ -1,0 +1,3 @@
+54. § Az Eütv. 207. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A donor jogosult az adományozással kapcsolatos jövedelemkiesésének, valamint az adományozásról szóló nyilatkozat megtételével, továbbá az utazással összefüggésben ténylegesen felmerült és igazolt – társadalombiztosítási jogviszonya alapján nem fedezett – költségeinek megtérítésére. Továbbá a donor szervkivételt elrendelő egészségügyi intézménybe történt átszállítása esetén az ebből keletkező többletszállítási költségeket is meg kell téríteni. E költségeket az Egészségbiztosítási Alap kezeléséért felelős szerv fizeti ki, melynek a költségvetés azt megtéríti.”

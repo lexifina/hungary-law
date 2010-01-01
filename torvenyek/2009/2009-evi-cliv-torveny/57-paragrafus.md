@@ -1,0 +1,3 @@
+57. § Az Eütv. a következő 239. §-sal egészül ki:
+
+„239. § A természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.”

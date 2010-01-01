@@ -1,0 +1,3 @@
+78. § A Gytv. a következő 25/A. §-sal egészül ki:
+
+„25/A. § A gyógyszerészeti államigazgatási szerv engedélyezi az 1. § 29. pontja szerinti forgalomba hozatali engedéllyel nem rendelkező fejlett terápiás gyógyszerkészítmény gyártását abban az esetben is, ha azt nem rendszeres jelleggel a kezelőorvos kizárólagos szakmai felelőssége mellett állítják elő és használják fel egy adott fekvőbeteg-gyógyintézetben, egy adott beteg számára szóló, rendelésre készült készítményre vonatkozó egyedi orvosi rendelvény teljesítése érdekében (a továbbiakban: fejlett terápiás gyógyszerkészítmény kórházi eseti gyártása).”

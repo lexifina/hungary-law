@@ -1,0 +1,93 @@
+93. § A Gyftv. 32. §-a helyébe a következő rendelkezés lép:
+
+„32. § (1) A gyógyászati segédeszközök támogatásával kapcsolatos eljárások kérelemre vagy hivatalból indulnak.
+
+(2) A kérelem
+
+a) még be nem fogadott gyógyászati segédeszközök
+
+aa) támogatásának megállapítására,
+
+ab) kölcsönzési napidíj támogatásának megállapítására azon termék esetében, amely kizárólag kölcsönzés keretében szolgálható ki,
+
+b) már befogadott gyógyászati segédeszközök
+
+ba) kölcsönzési napidíjának emelésére azon termék esetében, amely kizárólag kölcsönzés keretében szolgálható ki,
+
+bb) kölcsönzési napidíjának csökkentésére azon termék esetében, amely kizárólag kölcsönzés keretében szolgálható ki,
+
+bc) más funkcionális csoportban (alcsoportban) történő támogatására,
+
+bd) nevének külön jogszabály szerinti megváltoztatására,
+
+be) közfinanszírozás alapjául szolgáló árának csökkentésére,
+
+bf) közfinanszírozás alapjául szolgáló árának emelésére,
+
+bg) támogatásból való törlésére,
+
+bh) külön jogszabály szerinti méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására
+
+irányulhat.
+
+(3) A (2) bekezdés szerinti kérelmet – a (11) bekezdés szerinti csoportos kérelem kivételével – kizárólag a gyógyászati segédeszköz forgalomba hozója nyújthatja be az egészségbiztosítási szervhez.
+
+(4) Az egészségbiztosítási szerv
+
+a) a (2) bekezdés aa), ab), ba), bc) és bf) alpontja szerinti kérelmekről a külön jogszabályban foglalt feltételek alapján, normál eljárásban 90 napon belül dönt;
+
+b) a (2) bekezdés aa), ab) és bc) alpontja szerinti kérelmekről – az a) pontban foglaltaktól eltérően, külön jogszabályban foglalt feltételek alapján – gyorsított eljárásban, 60 napon belül dönt abban az esetben, ha a gyógyászati segédeszköz forgalomba hozója a termékre vonatkozóan
+
+ba) kérelmében az adott funkcionális csoportba (alcsoportba) már befogadott, legalacsonyabb közfinanszírozás alapjául szolgáló árú termék áránál legalább 10%-kal alacsonyabb közfinanszírozás alapjául szolgáló árat jelöl meg, vagy
+
+bb) kérelméhez legalább 100 betegre kiterjedő, Magyarországon végzett klinikai vizsgálat evidenciáit csatolja.
+
+(5) Az egészségbiztosítási szerv a (2) bekezdés bd) és bh) alpontja szerinti kérelmekről a külön jogszabályban foglalt feltételek alapján egyszerűsített eljárásban, a kérelem benyújtását követő 30 napon belül határozatban dönt.
+
+(6) A támogatott gyógyászati segédeszköz forgalomba hozójának a (2) bekezdés bb), be) és bg) alpontja esetében bejelentési kötelezettsége van. Az egészségbiztosítási szerv e bejelentéseket a külön jogszabályban foglalt feltételek szerint a bejelentést követő 15 napon belül közzéteszi.
+
+(7) A (4)–(5) bekezdés alapján hozott határozat – az elutasító határozat kivételével – tartalmazza a támogatás megállapítására vonatkozóan külön jogszabályban foglaltak figyelembevételével
+
+a) a gyógyászati segédeszköz pontos megnevezését, funkcionális csoportját (alcsoportját) és ISO-kódját,
+
+b) a gyógyászati segédeszköz kiszerelését,
+
+c) azon eszköz esetében, amely
+
+ca) nem kizárólag kölcsönzés keretében kiszolgáltatható, az eszköz közfinanszírozás alapjául elfogadott árát,
+
+cb) kizárólag kölcsönzés keretében kiszolgáltatható, az eszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíját,
+
+d) a támogatási mértéket és támogatási technikát,
+
+e) a támogatás nettó összegét,
+
+f) az eszköz kihordási idejét és a kihordási időre felírható maximális mennyiségét,
+
+g) a konkrét rendelhetőségi feltételeket (indikáció, szakképesítési követelmények, egyéb feltételek),
+
+h) a támogatás, illetve a módosult feltételek melletti támogatás kezdőnapját,
+
+i) azt, hogy az eszköz közgyógyellátás jogcímen kiszolgáltatható-e,
+
+j) olyan eszköz esetében, amely a beteg tulajdonába csak a kölcsönzési időszakot követően adható, az eszköz funkcionális csoportjához (alcsoportjához) rendelt, külön jogszabály szerinti kölcsönzésidíj-szorzót,
+
+k) tartós használati célú gyógyászati segédeszköz esetében az adott funkcionális csoportra (alcsoportra) jellemző javításidíj-átalányt,
+
+l) az eszköz beteg által fizetendő térítési díját.
+
+(8) A forgalomba hozó a (4)–(5) bekezdés szerinti eljárásért a külön jogszabályban meghatározottak alapján igazgatási szolgáltatási díjat fizet.
+
+(9) A (4)–(5) bekezdés szerinti eljárásokban újrafelvételi eljárásnak nincs helye.
+
+(10) A nyilvánosság biztosítása érdekében az egészségbiztosítási szerv internetes honlapján közzéteszi:
+
+a) a formai szempontból megfelelő kérelmet, a kérelem beérkezését, illetve a hiánypótlás teljesítését követő tizenöt munkanapon belül, továbbá
+
+b) az ügyben hozott jogerős vagy önálló fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatát az ügy elbírálását követő tíz munkanapon belül.
+
+(11) Az egyedi méretvétel alapján készített gyógyászati segédeszközök esetén az eszköz valamennyi, az egészségbiztosítási szervvel támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozója vagy meghatalmazott képviselője kizárólag közösen nyújthat be külön jogszabály szerinti csoportos kérelmet az eszköz típusára vonatkozóan. Az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait e törvénnyel összhangban külön jogszabály tartalmazza.
+
+(12) A (11) bekezdés szerinti kérelmet csak a (2) bekezdés aa), be), bf), bg) alpontjai tárgyában lehet az egészségbiztosítási szervhez benyújtani.
+
+(13) Az egészségbiztosítási szerv elsőfokú döntését fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.”

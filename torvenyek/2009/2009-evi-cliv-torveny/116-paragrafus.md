@@ -1,0 +1,3 @@
+116. § Az Eftv. 4. §-ának (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az egészségügyi államigazgatási szerv a fekvőbeteg-szakellátások tekintetében a kapacitásszerkezet módosításáról hozott határozatával az egyes, 2. számú mellékletben meghatározott szakmacsoportokhoz tartozó, az 5/A. § (7) bekezdése szerinti nyilvántartás szerinti kapacitások mennyiségét annak 10 százalékáig módosíthatja, azzal, hogy összességében az aktív kapacitások, illetve a krónikus kapacitások mennyisége nem változhat. Az egészségügyi államigazgatási szerv határozata az 1. számú mellékletben szereplő szolgáltatóknak, illetve az azok jogutódjainak lekötött kapacitásain belül nem érintheti az 1. számú mellékletben meghatározott kapacitásokat.”
