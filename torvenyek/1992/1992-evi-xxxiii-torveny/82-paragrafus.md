@@ -1,0 +1,1 @@
+82. § Amennyiben a kollektív szerződés lehetővé teszi, hogy a munkáltató a közalkalmazottat közvetlenül kártérítésre kötelezze, és a felelősségről történő döntésig a közalkalmazotti jogviszony fennáll, a felelősség megállapítására a fegyelmi eljárás szabályait azzal az eltéréssel kell alkalmazni, hogy az eljárás megindítására az elévülésre vonatkozó rendelkezések az irányadók.

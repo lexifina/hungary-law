@@ -1,0 +1,1 @@
+80. § A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munka díjazására vonatkozó szabályai (Harmadik rész, VII. fejezet) közül a 142. §-a, a 143–143/A. §-a, a 144. §-ának (6) bekezdése, a 147. §-ának (6)–(7) bekezdése, a 154. §-a (1) bekezdésének utolsó két mondata, a 154. §-ának (2) bekezdése, a 155. §-ának (2) bekezdése nem alkalmazható.

@@ -1,0 +1,1 @@
+3. § A Munka Törvénykönyve bevezető rendelkezései közül (Első rész) a közalkalmazotti jogviszony tekintetében a 3. § (6) bekezdése és a 13. § nem alkalmazható; a 3. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott neve és beosztása közérdekű adatnak minősül, azt bárki megismerheti.

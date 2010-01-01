@@ -1,0 +1,1 @@
+86. § A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének Vegyes és Átmeneti rendelkezései közül (Ötödik rész) a 206. § (1)–(2) bekezdése, a 210. §, valamint a 211. § (2) bekezdése nem alkalmazható.

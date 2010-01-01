@@ -1,0 +1,3 @@
+79/C. § (1) A felsőoktatási intézményben az oktatói, kutatói, tanári és más munkakörben történő foglalkoztatás egyes kérdéseit (határozott időre történő foglalkoztatás, a pályázati eljárás kérdései, várakozási idő csökkentése, további szakképesítés figyelembevétele, illletménykiegészítés, vezetői pótlékok, illetménypótlékok) a Kormány határozza meg.
+
+(2) Tudományos kutatói munkakörként – a felsőoktatási intézmények kivételével – kutatóprofesszor, tudományos tanácsadó, tudományos főmunkatárs, tudományos munkatárs, tudományos segédmunkatárs munkakör létesíthető. Az e bekezdésben meghatározott tudományos munkakörbe történő besorolás feltételeit a Kormány határozza meg.

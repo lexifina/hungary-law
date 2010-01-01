@@ -1,0 +1,1 @@
+83. § A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkavállaló és a munkáltató kártérítési felelősségéről szóló rendelkezései közül (Harmadik rész, VIII—IX. fejezet) a 167. § (2)—(3) bekezdése, a 173. § (2) bekezdésének második mondata és a 175. § nem alkalmazható.

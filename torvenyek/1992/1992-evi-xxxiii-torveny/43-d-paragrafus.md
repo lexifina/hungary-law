@@ -1,0 +1,5 @@
+43/D. § (1) A 41–43. §-ban foglaltakon túlmenően a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervnél, valamint a központi költségvetési intézményként működő kutatóintézeteknél összeférhetetlen az olyan munkavégzésre irányuló további jogviszony, amelynek keretében a közalkalmazottat foglalkoztató munkáltató üzleti titkát képező módszerek, eljárások, ismeretek, know-how-k alkalmazására, hasznosítására kerülne sor.
+
+(2) Az (1) bekezdés alkalmazásában üzleti titok a munkáltató gazdasági (kutatási) tevékenységéhez kapcsolódó minden olyan téma, információ, megoldás, eljárási módszer, adat, amely a munkáltató számára vagyoni értéket képvisel.
+
+(3) Az (1) bekezdésben megjelölt munkáltatónál foglalkoztatott magasabb vezető, vezető beosztású, illetve témacsoport-vezető közalkalmazott nem lehet tagja, illetve vezető tisztségviselője olyan gazdasági társaságnak, amelynek az őt foglalkoztató munkáltató az alapítója, tagja vagy a munkáltatóval – ide nem értve a közműszolgáltató tevékenységet ellátó gazdasági társaságokat – gazdasági kapcsolatban áll.

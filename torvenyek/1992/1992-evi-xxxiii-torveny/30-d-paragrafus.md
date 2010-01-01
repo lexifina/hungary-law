@@ -1,0 +1,5 @@
+30/D. § (1) Két vagy több helyi önkormányzat írásban megállapodást köthet a 30/A. §-ban foglaltak szerinti tájékoztatás teljesítésére a megállapodásban részes helyi önkormányzat által fenntartott munkáltatónál a 30. § (1) bekezdésének a)–b) pontja szerinti, valamint az egészségügyi alkalmatlanság miatti felmentés megelőzése érdekében.
+
+(2) A megállapodás hatálya kiterjed az azt kötő önkormányzatok fenntartásában lévő, e törvény hatálya alatt működő valamennyi munkáltatóra, melyeknél a helyben szokásos módon kell a megállapodásról a közalkalmazottakat tájékoztatni. A megállapodásban továbbá rendelkezni kell annak időbeli hatályáról.
+
+(3) A megállapodás alapján a 30/A. és 30/C. §-ban foglaltakat az önkormányzat, illetve a munkáltató azzal az eltéréssel köteles teljesíteni, hogy a tájékoztatás teljesítése érdekében a munkáltató fenntartója mellett a megállapodásban részes többi önkormányzatot is köteles megkeresni, amelyek a munkáltatót közvetlenül értesítik az álláshelyekről, illetve azok hiányáról.

@@ -1,0 +1,1 @@
+44/A. § A Munka Törvénykönyve 106. §-a (1) bekezdésének alkalmazásakor tulajdonosnak tekintendő a munkáltató fenntartója is, amely kezdeményezheti a közalkalmazott kirendelését, illetve a Munka Törvénykönyve 150. §-ának (1) bekezdése szerinti intézkedés megtételét az e törvény hatálya alá tartozó munkáltatónál történő átmeneti foglalkoztatás érdekében.

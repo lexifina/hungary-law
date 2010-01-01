@@ -1,0 +1,1 @@
+69. § Az e törvényben megállapított feltételek mellett a közalkalmazott a 70–75. § szerinti illetménypótlékra jogosult. A 70–75. § szerinti illetménypótlék számításának alapját (a továbbiakban: pótlékalap) a mindenkori éves költségvetési törvény állapítja meg.
