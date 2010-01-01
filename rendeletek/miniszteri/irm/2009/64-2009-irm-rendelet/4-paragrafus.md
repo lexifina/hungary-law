@@ -1,0 +1,3 @@
+4. § (1) Az R. 3. § (6) bekezdésében a „postautalványon” szövegrész helyébe a „csekkszelvényen” szöveg, 3. § (8) bekezdésében a „postautalvány” szövegrész helyébe a „csekkszelvény” szöveg, 4. § (1) bekezdésében a „postautalványt” szövegrész helyébe a „csekkszelvényt” szöveg lép.
+
+(2) Hatályát veszti a szabálysértésekről szóló 1999. évi LXIX. törvény végrehajtásáról szóló 11/2000. (II. 23.) BM rendelet 3. §-a, 4. § (3) bekezdése, 7. § a) pontja, 8. § (1) bekezdésében a „ , valamint a sorkatona” szövegrész, 10. §-a, 16. §-a, 17. § (2) bekezdése, 23. § (1) bekezdés f) pontjában az „és pártfogó felügyelet” szövegrész, 26. §-a, 29. § (1) bekezdése, valamint a melléklet I. tábla 22. pontjában a „Letiltások száma” szövegrész.
