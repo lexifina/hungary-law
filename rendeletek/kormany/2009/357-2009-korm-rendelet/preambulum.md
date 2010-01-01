@@ -1,0 +1,1 @@
+A Kormány a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 53. § (3) bekezdésben kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
