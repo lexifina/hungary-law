@@ -1,0 +1,1 @@
+## A hatósági döntés közlése
