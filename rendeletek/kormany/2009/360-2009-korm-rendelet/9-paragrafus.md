@@ -1,0 +1,1 @@
+## „(15) Amennyiben az előzetes többletkapacitás-befogadási eljárás keretében hozott döntés a befogadás fedezetéül a régió rendelkezésére álló járóbeteg-szakellátási kapacitásokat jelölte meg, ez a befogadás a Tv. 4. § (8) bekezdése szerinti kapacitásmennyiség régióra eső részének terhére történhet.”
