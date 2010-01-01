@@ -1,0 +1,11 @@
+70. § (1) A Magyar Köztársaság területén lakóhellyel rendelkező minden nagykorú magyar állampolgárt megillet az a jog, hogy az országgyűlési képviselők választásán választó és választható legyen, valamint országos népszavazásban és népi kezdeményezésben részt vegyen.
+
+(2) A Magyar Köztársaság területén lakóhellyel rendelkező minden nagykorú magyar állampolgárt és az Európai Unió más tagállamának a Magyar Köztársaság területén lakóhellyel rendelkező nagykorú állampolgárát megilleti az a jog, hogy a helyi önkormányzati képviselők és a polgármesterek választásán választható és – amennyiben a választás, illetve a népszavazás napján a Magyar Köztársaság területén tartózkodik – választó legyen, valamint helyi népszavazásban és népi kezdeményezésben részt vegyen. Polgármesterré és fővárosi főpolgármesterré magyar állampolgár választható.
+
+(3) A Magyar Köztársaságban minden menekültként, bevándoroltként vagy letelepedettként elismert nagykorú személyt megillet az a jog, hogy a helyi önkormányzati képviselők és a polgármesterek választásán – amennyiben a választás, illetve a népszavazás napján a Magyar Köztársaság területén tartózkodik – választó legyen, valamint a helyi népszavazásban és népi kezdeményezésben részt vegyen.
+
+(4) A Magyar Köztársaság területén lakóhellyel rendelkező minden nagykorú magyar állampolgárt és az Európai Unió más tagállamának a Magyar Köztársaság területén lakóhellyel rendelkező nagykorú állampolgárát megillet az a jog, hogy az európai parlamenti választáson választható és választó legyen.
+
+(5) Nincs választójoga annak, aki jogerős ítélet alapján a cselekvőképességet korlátozó vagy kizáró gondnokság, illetőleg a közügyek gyakorlásától eltiltás hatálya alatt áll, szabadságvesztés büntetését vagy büntetőeljárásban elrendelt intézeti kényszergyógykezelését tölti. Az Európai Unió más tagállamának a Magyar Köztársaság területén lakóhellyel rendelkező nagykorú állampolgára akkor sem választható, ha az állampolgársága szerinti állam jogszabálya, bírósági vagy más hatósági döntése alapján hazájában kizárták e jog gyakorlásából.
+
+(6) Minden magyar állampolgárnak joga van ahhoz, hogy rátermettségének, képzettségének és szakmai tudásának megfelelően közhivatalt viseljen.

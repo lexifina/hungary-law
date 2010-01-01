@@ -1,0 +1,1 @@
+29/D. § A megválasztott köztársasági elnök a korábbi elnök megbízatásának lejártakor, illetőleg a megbízás idő előtti megszűnése esetén a kiírt választás eredményének kihirdetését követő nyolcadik napon lép hivatalába; hivatalba lépését megelőzően az Országgyűlés előtt esküt tesz.

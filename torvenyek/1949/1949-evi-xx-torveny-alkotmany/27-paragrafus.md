@@ -1,0 +1,1 @@
+27. § Az Országgyűlés tagjai az állampolgári, valamint a nemzeti és etnikai kisebbségi jogok országgyűlési biztosaihoz, az Állami Számvevőszék elnökéhez és a Magyar Nemzeti Bank elnökéhez kérdést, a Kormányhoz, a Kormány bármely tagjához és a legfőbb ügyészhez interpellációt és kérdést intézhetnek a feladatkörükbe tartozó minden ügyben.

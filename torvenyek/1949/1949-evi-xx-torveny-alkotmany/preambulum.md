@@ -1,0 +1,1 @@
+A többpártrendszert, a parlamenti demokráciát és a szociális piacgazdaságot megvalósító jogállamba való békés politikai átmenet elősegítése érdekében az Országgyűlés — hazánk új Alkotmányának elfogadásáig — Magyarország Alkotmányának szövegét a következők szerint állapítja meg:

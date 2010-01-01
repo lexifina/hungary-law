@@ -1,0 +1,1 @@
+44/C. § A helyi önkormányzatokról szóló törvény elfogadásához a jelenlevő országgyűlési képviselők kétharmadának szavazata szükséges. Ugyanilyen szavazataránnyal elfogadott törvényben korlátozhatók az önkormányzatok alapjogai.

@@ -1,0 +1,1 @@
+39/B. § Ha a Kormány megbízatása megszűnik, az új Kormány megalakulásáig a Kormány hivatalban marad, és gyakorolja mindazokat a jogokat, amelyek a Kormányt megilletik; nemzetközi szerződést azonban nem köthet, és rendeletet csak törvény kifejezett felhatalmazása alapján, halaszthatatlan esetben alkothat.

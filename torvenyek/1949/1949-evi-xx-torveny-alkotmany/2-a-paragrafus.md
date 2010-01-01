@@ -1,0 +1,3 @@
+2/A. § (1) A Magyar Köztársaság az Európai Unióban tagállamként való részvétele érdekében nemzetközi szerződés alapján – az Európai Uniót, illetőleg az Európai Közösségeket (a továbbiakban: Európai Unió) alapító szerződésekből fakadó jogok gyakorlásához és kötelezettségek teljesítéséhez szükséges mértékig – egyes, Alkotmányból eredő hatásköreit a többi tagállammal közösen gyakorolhatja; e hatáskörgyakorlás megvalósulhat önállóan, az Európai Unió intézményei útján is.
+
+(2) Az (1) bekezdés szerinti nemzetközi szerződés megerősítéséhez és kihirdetéséhez az országgyűlési képviselők kétharmadának szavazata szükséges.
