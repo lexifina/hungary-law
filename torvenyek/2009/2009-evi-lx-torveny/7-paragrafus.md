@@ -1,0 +1,5 @@
+7. § (1) A közigazgatási hatóság jogszabályban előírt elektronikus adatszolgáltatás nyújtására vonatkozó kötelezettségét – törvény vagy kormányrendelet eltérő rendelkezése hiányában – a központi rendszer útján teljesíti.
+
+(2) A külön törvényben meghatározott közüzemi szolgáltatást nyújtók kötelesek a rájuk, illetve szolgáltatásaikra vonatkozó közérdekből nyilvános adataik közzétételére irányuló, jogszabályban meghatározott kötelezettségüket a központi rendszeren keresztül is teljesíteni, valamint a közüzemi szolgáltatással kapcsolatos szabályzataikat a központi rendszeren keresztül is elérhetővé tenni.
+
+(3) Az adat- és információszolgáltatás tekintetében a csatlakozásra kötelezett szervek a tájékoztató jellegű szolgáltatási kötelezettségüknek elsősorban a központi rendszer egységes követelményeknek megfelelő felhasználói felületén tesznek eleget. Amennyiben más módon is eleget tesznek e kötelezettségeiknek, biztosítaniuk kell a központi rendszerben lévő mindenkori adatokkal való teljes egyezést.
