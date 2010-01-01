@@ -1,0 +1,1 @@
+A Kormány a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 404. §-a (1) bekezdésének c) és d) pontjában kapott felhatalmazás alapján – az állami ráfordítások csökkentése, a költségvetési előirányzatok tervszerű felhasználása, valamint a központi beszerzési rendszerben rejlő előnyök közigazgatási célú hasznosítása érdekében – a következőket rendeli el:
