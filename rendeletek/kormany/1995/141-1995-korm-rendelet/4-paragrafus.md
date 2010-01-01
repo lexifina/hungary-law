@@ -1,0 +1,5 @@
+4. §[^3] (1) A Magyar Köztársaság területére a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó országból érkező, leszállás céljából belépő légi járműnek az első leszállást, valamint az ilyen országba induló légi járműnek a felszállást olyan repülőtéren kell végrehajtania, ahol vám- és útlevélvizsgálatot biztosítanak.
+
+(2) A Magyar Köztársaság területére a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó országból érkező olyan légi jármű, amelynek fedélzetén vámszempontból harmadik országból érkező utasnak vámvizsgálaton át nem esett poggyásza van, első leszállását olyan repülőtéren hajthatja végre, amelyen a közösségi vámjog végrehajtásáról szóló külön jogszabályban foglaltak alkalmazása biztosított.
+
+[^3]: A Vhr. 4. §-a a 84/2009. (IV. 10.) Korm. rendelet 1. §-ával megállapított szöveg.

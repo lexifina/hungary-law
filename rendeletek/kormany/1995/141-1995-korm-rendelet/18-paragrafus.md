@@ -1,0 +1,1 @@
+18. § A törvény hatálybalépésekor meglévő repülőtér körzetében a létesítésekor hatályos jogszabály szerint kialakított biztonsági és zajvédelmi övezetet addig kell fenntartani, amíg a repülőtér működési feltételei meg nem változnak. A feltételek változása esetén a törvény alapján hozott rendelkezések és egyéb, vonatkozó jogszabályok szerint kell eljárni.
