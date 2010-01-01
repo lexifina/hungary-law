@@ -1,0 +1,1 @@
+Az egészségügyi szolgáltatásokra szolidaritási elv alapján jogosultak ellátásai pénzügyi fedezetének biztosítása és az arányos közteherviselés elvének érvényesítése érdekében az Országgyűlés a következő törvényt alkotja:
