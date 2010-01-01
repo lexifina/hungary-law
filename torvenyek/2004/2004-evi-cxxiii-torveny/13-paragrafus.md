@@ -1,0 +1,1 @@
+13. § Az ösztöndíjas foglalkoztatási jogviszony alapján nem kerülhet sor a munkaügyi törvények szerinti próbaidő kikötésére, az ösztöndíjas foglalkoztatásról szóló szerződéstől eltérően való foglalkoztatásra, munkakörbe történő átirányításra, helyettesítésre, más munkáltatóhoz való kirendelésre, rendkívüli munkavégzésre, ügyeletre és készenlétre.
