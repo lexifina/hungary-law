@@ -1,0 +1,3 @@
+## Az egyetemes szolgáltatás
+
+48. § Az egyetemes szolgáltatót az egyetemes szolgáltatás vonatkozásában villamosenergia-értékesítési és szerződéskötési kötelezettség terheli, az erre jogosult felhasználó tekintetében a felhasználó külön jogszabályban meghatározott módon bejelentett szándéka esetén. E bekezdés alkalmazásában jogosult felhasználónak az olyan, az 50. § (3) bekezdése szerinti felhasználót kell tekinteni, aki (amely) az egyetemes szolgáltatónak az egyetemes szolgáltatásra vonatkozó engedélyében meghatározott szolgáltatási területen elhelyezkedő felhasználási hely tekintetében igényli az egyetemes szolgáltatást.

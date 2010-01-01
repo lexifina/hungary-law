@@ -1,0 +1,19 @@
+151. § (1) Az átviteli rendszerirányító, az elosztó hálózati engedélyesek, az egyetemes szolgáltató, a felhasználónak közvetlenül értékesítő termelői engedélyes és a villamosenergia-kereskedő (a továbbiakban együtt: adatkezelő) a jelen törvény szerint engedélyköteles tevékenységének végzése, valamint az ehhez szükséges műszaki berendezések létesítésére, üzemeltetésére vonatkozó szerződés megkötése, tartalmának meghatározása, módosítása, a teljesítésének figyelemmel kísérése, a szerződésben meghatározott díjak számlázása, továbbá a szerződésből eredő egyéb követelések érvényesítése, valamint a ellátási szabályzatokban foglalt együttműködési és adatszolgáltatási kötelezettségek teljesítése céljából kezelheti a felhasználó, valamint a külön jogszabályban meghatározott fizető azonosításához szükséges és elégséges, jelen törvény vagy a végrehajtására kiadott külön jogszabály szerint a szerződés tartalmát képező személyes adatot. A felhasználó azonosításához a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma) szükséges.
+
+(2) Az adatkezelő a kezelt személyes adatot haladéktalanul törli, ha nem az (1) bekezdésben meghatározott célból történt az adatkezelés, vagy az (1) bekezdésben meghatározott adatkezelési cél megszűnt, különösen az engedélyesi tevékenység keretében létrejött jogviszony megszűnik, vagy az ahhoz kapcsolódó követelések érvényesítése megtörtént, illetve a követelés érvényesíthetősége megszűnt.
+
+(3) A felhasználó, valamint a külön jogszabályban meghatározott fizető adatkezelővel történő szerződéskötése nem tehető függővé valamely, az (1) bekezdésben nem szabályozott célból történő adatkezeléshez való hozzájárulástól.
+
+(4) Az (1) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok átadhatóak
+
+a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását, illetőleg az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
+
+b) a számlázási és forgalmazási jogviták rendezésére jogszabály alapján jogosult szervezetek részére,
+
+c) a Hivatalnak,
+
+d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságoknak, az ügyésznek, valamint a bíróságnak,
+
+e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a bírósági végrehajtónak.
+
+(5) Az átadott adatokkal kapcsolatban a (4) bekezdés a)–c) pontjaiban meghatározott adatokat átvevőket az engedélyessel azonos titoktartási kötelezettség terheli. Az adatkezelő köteles a (4) bekezdés a)–c), valamint e) pontja esetén az adatátadással egyidejűleg az érintettet értesíteni.

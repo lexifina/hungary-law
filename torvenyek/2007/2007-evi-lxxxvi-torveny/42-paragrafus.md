@@ -1,0 +1,1 @@
+42. § A hálózati engedélyesek és a termelői engedélyesek tevékenységük ellátása, az átviteli és az elosztó hálózatok zavartalan, megbízható működtetése, a villamosenergia-igények folyamatos kielégítése, az üzemzavarok gyors, biztonságos elhárítása, valamint mérési adatok továbbítása érdekében zártcélú távközlési és adatátviteli rendszert létesíthetnek, tarthatnak fenn.

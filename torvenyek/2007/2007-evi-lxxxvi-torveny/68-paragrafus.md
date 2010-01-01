@@ -1,0 +1,1 @@
+68. § Az engedélyesek, valamint a villamosenergia-rendszerhez kapcsolódó nem engedélyköteles erőművek üzemeltetői jelen törvény és az annak felhatalmazása alapján kiadott külön jogszabályok, valamint a Hivatal által jóváhagyott villamosenergia-ellátási szabályzatok rendelkezései szerint együttműködnek.

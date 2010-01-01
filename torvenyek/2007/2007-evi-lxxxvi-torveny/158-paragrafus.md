@@ -1,0 +1,25 @@
+## XIX. Fejezet
+
+## A MAGYAR ENERGIA HIVATAL JOGÁLLÁSA, FELADAT- ÉS HATÁSKÖRE
+
+## A Magyar Energia Hivatal feladata és hatásköre
+
+158. § (1) A Hivatal önálló feladat- és hatáskörrel rendelkező kormányhivatal.
+
+(2) A Hivatal tevékenységének célja
+
+a) az e törvény és felhatalmazása alapján kiadott jogszabályok által engedélykötelesnek minősített tevékenységet folytató vállalkozások és a vezetékes energiaellátási piac jogszabályoknak és hatósági előírásoknak megfelelő működésének biztosítása,
+
+b) a hatékony és fenntartható villamosenergia-piaci verseny előmozdítása,
+
+c) a hatékonysági követelmények és a legkisebb költség elvének érvényesítése,
+
+d) az ellátás biztonságának megőrzése és növelése,
+
+e) az energiapolitikai célkitűzések, valamint a fenntartható fejlődés követelményeinek érvényesítése,
+
+f) a nyilvánosság tájékoztatása,
+
+g) a felhasználók és az engedélyesek érdekeinek védelme, valamint
+
+h) a technológiai monopolhelyzettel való visszaélés, a versenykorlátozás megakadályozása a piaci résztvevők tevékenységének és az áraknak a szabályozásával kapcsolatos hatáskörök gyakorlása révén, az Európai Unió követelményeinek megfelelően.

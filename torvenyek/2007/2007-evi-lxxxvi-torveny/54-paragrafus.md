@@ -1,0 +1,5 @@
+54. § (1) A szervezett villamosenergia-piacot működtető részvénytársaságban – a (2) bekezdésben foglalt eltéréssel – egyetlen részvényes tulajdoni hányada, illetve szavazatainak száma nem haladhatja meg a társaság alaptőkéjének, illetve a leadható szavazatok számának 25%-át.
+
+(2) Az átviteli rendszerirányító tulajdoni hányada, a 177. §-ban meghatározott esetet kivéve, nem haladhatja meg a társaság alaptőkéjének, illetve a leadható szavazatok számának 30%-át.
+
+(3) Az (1)–(2) bekezdés számítása során a részvényes tulajdoni hányadának, illetve szavazati arányának a részvényes és kapcsolt vállalkozásai tulajdoni hányadainak, illetve szavazatainak összegét kell tekinteni. Tulajdoni hányad a tulajdonolt részvények névértéke összegének a társaság alaptőkéjéhez viszonyított százalékos formában kifejezett aránya.

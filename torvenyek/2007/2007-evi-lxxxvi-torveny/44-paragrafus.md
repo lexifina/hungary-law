@@ -1,0 +1,1 @@
+44. § A villamosenergia-kereskedő – ha jogszabály, vagy a hálózat használati szerződés ettől eltérően nem rendelkezik – a szerződésben meghatározott időszakban, a hálózati engedélyes tulajdonában lévő hiteles fogyasztásmérő berendezés adatai alapján a 40. § (4) bekezdésével összhangban legalább negyedévente számolja el az értékesített villamosenergia-mennyiséget.

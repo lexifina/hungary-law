@@ -1,0 +1,1 @@
+15. § Az átviteli rendszerirányító a jelen törvényben meghatározott feladatait, különösen a hálózatokhoz történő csatlakozás és a hozzáférés biztosítását átlátható módon, befolyásmentesen és az egyenlő bánásmód követelményének megfelelően köteles végrehajtani.

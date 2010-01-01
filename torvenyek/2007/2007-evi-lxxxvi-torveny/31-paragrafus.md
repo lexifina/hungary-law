@@ -1,0 +1,17 @@
+31. § Az elosztó hálózati engedélyes feladatai a villamosenergia-ellátás biztonságával és az elosztó hálózatok üzemével kapcsolatban különösen
+
+a) a működési engedélyben meghatározott elosztó hálózat irányítása és üzemvitele biztonságának biztosítása,
+
+b) a villamos energia elosztó hálózatokon keresztül történő továbbítása, az üzemi szabályzatban meghatározott mennyiségi elszámolásainak elkészítése,
+
+c) kétévente hálózat fejlesztési terv készítése és az átviteli rendszerirányító részére, az üzemi szabályzatban meghatározott módon történő benyújtása,
+
+d) a működési engedélyben meghatározott elosztó hálózat működéséhez, valamint a folyamatos és biztonságos villamosenergia-ellátáshoz szükséges, az üzemi és elosztói szabályzatban meghatározott információk összegyűjtése és szolgáltatása az átviteli rendszerirányítóval együttműködve,
+
+e) a háztartási méretű kiserőművekről a külön jogszabályban meghatározott nyilvántartás vezetése,
+
+f) az e törvény alapján védendő felhasználókkal kapcsolatos, külön jogszabályban meghatározott feladatok ellátása,
+
+g) a mérési, leolvasási és számlázási rendszerek fejlesztéséről a működési engedélyben meghatározott időszakonként beszámoló készítése, illetve a számlázási rendszer lényeges megváltoztatása előtt a Hivatallal történő egyeztetés,
+
+h) ügyfélszolgálatok működtetése telefonos és elektronikus eléréssel, valamint az ügyfelek részére nyitva álló helyiségben.

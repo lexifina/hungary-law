@@ -1,0 +1,1 @@
+71. § Az engedélyesek egymásnak és az átviteli rendszerirányítónak a villamosenergia-ellátási szabályzatokban meghatározott adatokat és információt, az ott meghatározott módon és időben szolgáltatják a villamosenergia-rendszer biztonságos és hatékony üzemeltetése érdekében.

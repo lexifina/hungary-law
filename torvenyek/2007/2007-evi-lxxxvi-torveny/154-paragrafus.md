@@ -1,0 +1,1 @@
+154. § Az átviteli rendszerirányító a jelen törvényben szabályozott feladata ellátása során a nemzetközi együttműködés keretében az ellátási szabályzatokban meghatározott adatokat továbbíthatja az együttműködő nemzetközi szervezeteknek.

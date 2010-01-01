@@ -1,0 +1,1 @@
+14. § Az átviteli rendszerirányítás keretében az átviteli rendszerirányító feladata a magyar villamosenergia-rendszer zavartalan és biztonságos működtetése, egyensúlyának biztosítása, a piaci szereplők versenysemleges kiszolgálása, valamint az átviteli hálózat üzemeltetése, karbantartása és fejlesztése.
