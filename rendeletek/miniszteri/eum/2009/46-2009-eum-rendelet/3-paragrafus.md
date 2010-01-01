@@ -1,0 +1,1 @@
+## „(4) A gondozásba vett tünetes HIV fertőzött személyt a gyógykezelés megkezdése céljából, illetőleg a valószínűsíthetően kialakult AIDS megbetegedésben szenvedő személyt a gondozó orvosa a Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház-Rendelőintézetbe utalja be.”
