@@ -1,0 +1,1 @@
+A közúti közlekedésről szóló 1988. évi I. törvény, valamint a közlekedési, hírközlési és vízügyi miniszter feladat- és hatásköre alapján a belügyminiszterrel, az ipari és kereskedelmi miniszterrel, a művelődési és közoktatási miniszterrel, a munkaügyi miniszterrel és a népjóléti miniszterrel egyetértésben a következőket rendelem:
