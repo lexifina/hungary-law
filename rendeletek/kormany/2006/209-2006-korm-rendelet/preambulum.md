@@ -1,0 +1,1 @@
+A Kormány a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény (a továbbiakban: Pttv.) 19. §-ának (3) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:

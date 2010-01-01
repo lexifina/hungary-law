@@ -1,0 +1,5 @@
+9. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba azzal, hogy rendelkezéseit első ízben a 2006. évi általános önkormányzati választásokon a mandátumát vesztett polgármester tekintetében kell alkalmazni.
+
+(2) Az e rendeletben foglalt, a polgármester öregségi nyugdíjának megállapítására és folyósítására vonatkozó rendelkezéseket a társadalmi megbízatású polgármesterre, alpolgármesterre is alkalmazni kell azzal, hogy az alpolgármester tisztsége megszűnésének időpontjára vonatkozó rendelkezések alatt a Pttv. 2. § (2) bekezdésének a) és b) pontját kell érteni.
+
+(3) Az e rendeletben foglalt eltérésekkel a polgármester öregségi nyugdíja, illetve közszolgálati járadéka összegének megállapítására, folyósítására, a jogorvoslatra, a jogalap nélkül felvett nyugdíj, illetve közszolgálati járadék visszafizetésére, a követelés érvényesítésére (ideértve a tartozás mérséklését, elengedését, fizetési kedvezmény engedélyezését is), valamint a bejelentési és adatszolgáltatási kötelezettségre a Tny. és a végrehajtásáról szóló kormányrendelet öregségi nyugdíjra irányadó rendelkezéseit kell alkalmazni.
