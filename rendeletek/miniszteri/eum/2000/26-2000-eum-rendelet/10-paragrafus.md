@@ -1,0 +1,1 @@
+## Belépés a veszélyeztetett területre

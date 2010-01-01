@@ -1,0 +1,1 @@
+## Feljegyzések készítése, dokumentumok megőrzése
