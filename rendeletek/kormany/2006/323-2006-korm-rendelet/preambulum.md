@@ -1,0 +1,1 @@
+A Kormány az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotó hatáskörében, az Alkotmány 40. §-ának (3) bekezdésében foglalt feladatkörében eljárva, valamint az egészségügyről szóló 1997. évi CLIV. törvény 247. §-a (1) bekezdésének j) pontjában foglalt felhatalmazás alapján a következő rendeletet alkotja:
