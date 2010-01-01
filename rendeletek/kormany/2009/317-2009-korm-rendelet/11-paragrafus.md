@@ -1,0 +1,5 @@
+## 10. § Az Áhsz. a 13/A. §-a után a következő 13/B. §-sal egészül ki:
+
+## „13/B. § (1) Az átszervezéssel (ideértve a jogutódlással fejezeten (önkormányzaton) belüli, vagy fejezetek (önkormányzatok) közötti összevonást, beolvasztást, egyesülést is), illetve a jogutód nélkül véglegesen megszűnő 7. § (15) bekezdés szerinti államháztartási szervezet a megszüntető alapító (irányító) szerv által meghatározott fordulónappal (megszűnés napjával), 60 napon belül, az éves eredményszemléletű költségvetési beszámolónak megfelelő adattartalommal – leltárral és záró főkönyvi kivonattal alátámasztott beszámolót is készít.
+
+## (2) Az államháztartási szervezetet megszüntető alapító (irányító) szerv által meghatározott fordulónapra (megszűnés napjára) vonatkozóan elkészített éves eredményszemléletű költségvetési beszámoló tartalmazza a mérleget, az eredménykimutatást, a kiegészítő mellékletet. A beszámolót – a fordulónapig (a megszűnésnapjáig) bekövetkezett gazdasági események hatásainak figyelembevételével – az éves zárásra vonatkozó szabályok szerint kell elkészíteni.”

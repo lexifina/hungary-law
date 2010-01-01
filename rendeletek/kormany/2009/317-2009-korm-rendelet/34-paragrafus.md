@@ -1,0 +1,1 @@
+## „(3) A 7. § (15) bekezdése szerinti államháztartás szervezete – az elkülönített eredményszemléletű könyvvezetéséhez szükséges – számlakerete a 29. számú mellékletben foglaltak szerint a könyvviteli számlák számát és megnevezését (eredményszemléletű számlakeret-tükör), valamint a számlaosztályok tartalmára vonatkozó előírásokat tartalmazza.”
