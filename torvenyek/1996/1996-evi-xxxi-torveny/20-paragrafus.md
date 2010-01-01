@@ -1,0 +1,3 @@
+20. § (1) A tűzvédelmi helyzetre kiható olyan tevékenységet, amely a létesítmény, az épület, az építmény, a helyiség vagy a szabadtér tűzveszélyességi osztályba sorolásának megváltoztatását teszi szükségessé, annak megkezdése előtt legalább tizenöt nappal a kezdeményező a tűzvédelmi hatóságnál köteles bejelenteni.
+
+(2) Minden új tűz- vagy robbanásveszéllyel járó készülék, gép, berendezés, technológia, anyag bevezetése, illetőleg alkalmazása előtt elsődlegesen a gyártó, amennyiben az nem gondoskodott arról, akkor a forgalomba hozó köteles a tűzvédelmi rendelkezések megállapítása céljából szükséges vizsgálatokat elvégezni, illetve elvégeztetni.

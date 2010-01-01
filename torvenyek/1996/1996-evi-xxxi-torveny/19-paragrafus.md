@@ -1,0 +1,5 @@
+19. § (1) A gazdálkodó tevékenységet folytató magánszemélyeknek, a jogi személyeknek, a jogi és a magánszemélyek jogi személyiséggel nem rendelkező szervezeteinek, ha a munkavégzésben részt vevő családtagokkal együtt ötnél több munkavállalót foglalkoztatnak, vagy ha ötvennél több személy befogadására alkalmas létesítményt működtetnek, illetve a fokozottan tűz- és robbanásveszélyes besorolás esetén és kereskedelmi szálláshelyeken tűzvédelmi szabályzatot kell készíteniük.
+
+(2) Az (1) bekezdésben felsoroltak kötelesek gondoskodni arról, hogy munkavállalóik (a munkavégzésben részt vevő családtagjaik) a jogszabályokban meghatározott előírások szerint végezzék a tevékenységüket vagy a létesítmény, építmény, helyiség igénybe vevői a tűzvédelmi szabályzatban foglaltakat megismerjék és megtartsák.
+
+(3) Az (1) bekezdésben felsoroltaknak a fokozottan tűz- és robbanásveszélyes, a tűz- és robbanásveszélyes, valamint a tűzveszélyes tűzveszélyességi osztályba tartozó létesítményekben megfelelő szervezettel, tűzvédelmi szakképesítéssel rendelkező személlyel, illetőleg szolgáltatás igénybevételével kell gondoskodniuk a tűzvédelem biztosításáról.

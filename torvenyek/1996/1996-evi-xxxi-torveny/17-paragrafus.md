@@ -1,0 +1,1 @@
+17. § A magánszemélyek kötelesek gondoskodni arról, hogy a nevelésük, felügyeletük alatt álló személyek a 15. § (1) bekezdésében foglalt tűzvédelmi ismereteket megszerezzék, és tevékenységük során ne okozzanak tüzet vagy közvetlen tűzveszélyt.
