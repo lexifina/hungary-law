@@ -1,0 +1,1 @@
+5. § A Kormány álláspontjavaslatát az Európai Unió döntéshozatali eljárására figyelemmel módosíthatja. A Kormány folyamatosan tájékoztatja az Országgyűlést az európai uniós tervezetek, illetve az álláspontjavaslatok tartalmának lényeges változásáról. Ez alapján korábbi állásfoglalását az Országgyűlés is módosíthatja.
