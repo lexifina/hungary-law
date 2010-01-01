@@ -1,0 +1,9 @@
+# 13/2009. (II. 27.) FVM rendelet
+
+a szőlőfeldolgozás és a borkészítés során keletkező melléktermékek támogatással történő lepárlásának feltételeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-13-20-82
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-01-01 | 2009-13-20-82.2 | 13/2009. (II. 27.) FVM rendelet |
