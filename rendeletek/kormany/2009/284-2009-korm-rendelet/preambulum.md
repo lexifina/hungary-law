@@ -1,0 +1,1 @@
+A Kormány a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény 8. melléklet II. fejezetének 1. pontja alapján, valamint a 2. § tekintetében az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés a)–b) pontjában megállapított feladatkörében a következőket rendeli el:
