@@ -1,0 +1,1 @@
+A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. § (6) bekezdés b) pontjának 2. alpontjában kapott felhatalmazás alapján, a szociális és munkaügyi miniszter feladat- és hatásköréről 170/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában megállapított feladatkörömben eljárva a következőket rendelem el:
