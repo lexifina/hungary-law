@@ -1,0 +1,13 @@
+## Az illeték mértéke
+
+29. § (1) Az első fokú közigazgatási hatósági eljárásért – ha e törvény melléklete másként nem rendelkezik – 2200 forint illetéket kell fizetni (általános tételű eljárási illeték).
+
+(2) Az első fokú közigazgatási határozat elleni fellebbezés illetéke – ha e törvény melléklete másként nem rendelkezik, és a fellebbezési eljárás tárgyának értéke pénzben megállapítható – a fellebbezéssel érintett, vagy vitatott összeg minden megkezdett 10 000 forintja után 400 forint, de legalább 5000 forint, legfeljebb 500 000 forint. Ha a fellebbezési eljárás tárgyának értéke pénzben nem állapítható meg, a fellebbezés illetéke 5000 forint.
+
+(3) Az adózás rendjéről szóló törvényben meghatározott felügyeleti intézkedés iránti kérelemért a 29. § (2) bekezdésében meghatározott illetéket kell fizetni. A megfizetett illeték visszatérítésére a 32. § rendelkezései az irányadók.
+
+(4) Végzés elleni fellebbezésért – ha e törvény másként nem rendelkezik – 3000 forint illetéket kell fizetni. Ha a végzés csak a határozat vagy az eljárást megszüntető végzés elleni fellebbezéssel együtt támadható meg, és az ügyfél a végzés felülvizsgálatát is kéri, akkor csak a határozat elleni fellebbezés illetékét kell megfizetni.
+
+(5) A végrehajtási kifogás illetéke 5000 forint. A végrehajtási kifogás tárgyában hozott végzés elleni fellebbezés illetéke 10 000 forint.
+
+(6) Az újrafelvételi eljárásért az (1) bekezdésben meghatározott illetéket kell fizetni, tekintet nélkül az alapeljárásban már megfizetett illetékre.

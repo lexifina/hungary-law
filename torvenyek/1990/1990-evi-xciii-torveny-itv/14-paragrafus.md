@@ -1,0 +1,1 @@
+14. § A kötelesrész értékével a kiadásra kötelezett örökös örökrészének értékét csökkenteni kell. Az az örökös, aki a kötelesrészre jogosult követelését a hagyatékhoz nem tartozó készpénzzel vagy más ellenszolgáltatással elégíti ki, visszterhes vagyonátruházási, míg a kötelesrészre jogosult öröklési illetéket köteles fizetni.

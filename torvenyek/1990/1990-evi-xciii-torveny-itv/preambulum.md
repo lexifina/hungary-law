@@ -1,0 +1,1 @@
+Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzájárulás, valamint az önkormányzatok saját bevételi forrásának gyarapítása érdekében az illetékek alapvető szabályairól, továbbá az igazgatási és bírósági szolgáltatások díjának megállapításáról a következő törvényt alkotja.

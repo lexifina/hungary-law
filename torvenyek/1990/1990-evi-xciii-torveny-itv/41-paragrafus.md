@@ -1,0 +1,3 @@
+41. § (1) Ha a bíróság az eljárás tárgyának értékét a fél által megjelöltnél magasabb összegben állapítja meg, az illeték alapjának ezt kell tekinteni.
+
+(2) Az eljárás tárgya értékének a felek által történő leszállítása vagy annak utólag alacsonyabb összegben történt megállapítása esetén az illetékalap mérséklésének — ha e törvény kivételt nem tesz — nincs helye. Ha az eljárás tárgyának értéke a fél nyilatkozata alapján emelkedik, a változtatást tartalmazó iraton le kell róni, illetve fel kell jegyezni azt az illetékkülönbözetet, amely az eljárás megindításakor fizetett, illetve figyelembe vett és a magasabb érték alapulvételével kiszámítható illeték között mutatkozik.

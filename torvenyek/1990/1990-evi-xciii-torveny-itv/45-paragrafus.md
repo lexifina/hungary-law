@@ -1,0 +1,29 @@
+## A cégbírósági eljárás illetéke
+
+45. § (1) A cégbejegyzésre irányuló eljárás illetéke:
+
+a) nyilvánosan működő részvénytársaság, illetve az európai részvénytársaság esetében 600 000 forint,
+
+b) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetében 100 000 forint,
+
+c) az a) és b) pont alá nem tartozó egyéb jogi személy esetén 100 000 forint,
+
+d) jogi személyiség nélküli gazdasági társaság esetén 50 000 forint,
+
+e) egyéni cég esetén 30 000 forint,
+
+f) külföldi székhelyű vállalkozás magyarországi fióktelepe esetén 50 000 forint,
+
+g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 forint.
+
+(2) Ha a cégbejegyzésre irányuló kérelemben fióktelep bejegyzését is kérik, az (1) bekezdésben meghatározott illetéken kívül további illetéket nem kell fizetni.
+
+(3) Az egyszerűsített eljárással történő cégbejegyzési kérelem, valamint a (4)–(7) bekezdésben nem említett egyéb cégbírósági eljárás illetéke 15 000 Ft. Amennyiben az egyszerűsített cégbejegyzésre irányuló kérelem benyújtása után megállapítást nyer, hogy a kérelmező az egyszerűsített bejegyzés igénybevételére nem jogosult, a cégbíróság felhívást bocsát ki az illeték (1) bekezdés szerinti összegre történő kiegészítésére.
+
+(4) Az átalakulás, minősített többséget biztosító befolyás létrejötte, valamint az elismert vállalatcsoportként való működés, illetve a nyilvánosan működő részvénytársaság cégadataira vonatkozó változás bejegyzése iránti kérelem illetéke 50 000 Ft. Ez az illeték magában foglalja az átalakulással, minősített többségi befolyás létrejöttével, valamint az elismert vállalatcsoportként való működés bejegyzésével egyidejűleg bejelentett más változásokért fizetendő illetéket is.
+
+(5) A cég vagyonában bekövetkezett változás bejelentése iránti eljárásért az (1) bekezdésben meghatározott illeték 40%-át kell megfizetni. Ez az illeték magában foglalja az egyidejűleg bejelentett más változásokért fizetendő illetéket is.
+
+(6) A cégkivonat elkészítésének illetéke 5000 forint, a cégbizonyítvány kiállításának illetéke 3000 forint, a cégmásolat elkészítéséért pedig 7000 forint illetéket kell fizetni.
+
+(7) A cégnyilvántartásban szereplő elektronikus okiratok elektronikus úton történő megküldéséért, illetve papír alapú másolatáért cégiratonként 2000 forint illetéket kell fizetni.

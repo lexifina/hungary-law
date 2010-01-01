@@ -1,0 +1,11 @@
+## Az ajándék és a visszterhes vagyonszerzés bejelentése
+
+91. § (1) Az ingatlan tulajdonjogának, valamint az ingatlanhoz kapcsolódó vagyoni értékű jognak a megszerzését (megszüntetését) az ingatlanügyi hatósághoz kell bejelenteni illetékkiszabásra az azt tartalmazó szerződés (okirat) benyújtásával. Az illetékkiszabás célját szolgáló bejelentést az ingatlan-nyilvántartási bejegyzésre irányuló kérelemmel kell teljesíteni. Ha az illeték fizetésére kötelezett a kérelmet a külön jogszabályban meghatározott 30 napon túl nyújtja be, illetve bejelentési kötelezettségét elmulasztja, vagy hiányosan teljesíti, e törvény 82. §-ában említett mulasztási bírság megfizetésére kötelezhető.
+
+(2) A vagyonszerzési illeték tárgyát képező, de ingatlannyilvántartási eljárást nem igénylő jogügyletet a szerződő felek — a 76. §-ban említett eset kivételével — közvetlenül az állami adóhatóságnak kötelesek bejelenteni. A bejelentést az illetékkötelezettség keletkezését követő 30 napon belül, a vagyonszerzést rögzítő irat eredeti és másolati példányának benyújtásával kell teljesíteni. Az ilyen másolatot az állami adóhatóság illetékmentesen hitelesíti.
+
+(3) Az okirat kiállítása nélkül is illetékköteles jogügyletet szóval is be lehet jelenteni. A szóbeli bejelentést írásba kell foglalni, és a bejelentés megtörténtéről az állami adóhatóság az ügyfélnek igazolást köteles adni.
+
+(4) A 18. § (2) bekezdés h) pontja szerinti vagyonszerzést csak a 18. § (4) bekezdésében foglalt feltétel teljesülése esetén kell bejelenteni annak, akinek vagyonszerzésével a feltétel teljesült. Az illetékkiszabásra történő bejelentéssel egyidejűleg a vagyonszerző közli a 18. § (4) bekezdésének a)–c) pontjaiban felsorolt személyek közül azoknak az azonosító adatait (név, adóazonosító jel vagy adószám), melyek a vagyonszerzéssel érintett társaságban további vagyoni betétekkel rendelkeznek.
+
+(5) Az (1)–(4) bekezdésben említett bejelentési kötelezettség jogszabály szerint illetékmentes vagyonszerzésre is vonatkozik.

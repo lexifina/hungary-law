@@ -1,0 +1,3 @@
+81. § (1) A fellebbezési eljárásban fizetett illetéket vissza kell téríteni, ha a fellebbezéssel is támadott bírósági határozatot igazolási kérelem folytán helyezték hatályon kívül.
+
+(2) Az (1) bekezdésben és a 80. § (1) bekezdésében, valamint az 58. §-ban említett esetben, ha az illeték megfizetése illetékbélyeggel történt, a bíróság a határozatát a székhelye szerint illetékes állami adóhatóságnak küldi meg. Ha pedig az illetéket a 74. § (2) bekezdésében foglaltak szerint pénzzel fizették meg, a bíróság a határozatot annak az állami adóhatóságnak küldi meg, amelynek számlájára az illetéket befizették.

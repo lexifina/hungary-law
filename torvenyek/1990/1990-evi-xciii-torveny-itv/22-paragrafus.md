@@ -1,0 +1,1 @@
+22. § Lakástulajdonnak állami, helyi önkormányzati tulajdonban álló bérlakás bérleti joga megszerzése ellenében történő átruházása esetén a visszterhes vagyonátruházási illeték alapja a lakástulajdon forgalmi értékének 50%-a. Az illeték mértékére a 21. § (1) bekezdésében foglalt rendelkezés irányadó.

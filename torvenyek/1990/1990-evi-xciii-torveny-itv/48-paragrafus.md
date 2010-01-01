@@ -1,0 +1,1 @@
+48. § Ha a fellebbezés kizárólag a határozat indokolása ellen irányul vagy a teljesítési határidő megváltoztatására, illetve az engedélyezett részletfizetési kedvezmény módosítására vagy mellőzésére vonatkozik, az illeték 8000 forint.

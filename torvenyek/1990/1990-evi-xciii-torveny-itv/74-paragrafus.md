@@ -1,0 +1,17 @@
+## A bírósági eljárási illeték megfizetése
+
+74. § (1) A bírósági eljárási illetéket illetékbélyeggel az eljárást kezdeményező iraton kell megfizetni, kivéve, ha jogszabály más fizetési módot is megenged, vagy ha az illeték viseléséről a bíróság az eljárást befejező határozatában dönt. A 10 000 forintot meghaladó eljárási illeték kiszabás alapján készpénz-átutalási megbízás útján vagy az állami adóhatóság által meghatározott számlaszámra átutalással, illetve amennyiben erre lehetőség van, bankkártyával is megfizethető. Ebben az esetben az illetékköteles iratot annak egy másolatával az illetékes állami adóhatósághoz kell benyújtani. Az irat illetékkiszabásra történő bemutatását az eredeti iraton igazolja az állami adóhatóság.
+
+(2) Ha az illeték megfizetését a kötelezett felhívás ellenére elmulasztotta, de a beadványt nem utasították el, a meg nem fizetett illetéket a mulasztási bírsággal együtt lelet alapján az állami adóhatóság előírja.
+
+(3) Az illetékfeljegyzési jog engedélyezésére és megvonására, valamint az eljárás kezdeményezésekor meg nem fizetett illeték, illetve a cégbírósági felügyeleti illeték viselésére, nyilvántartására és a megfizetésével kapcsolatos bírósági intézkedésekre az e törvényben nem rendezett kérdésekben a költségmentességről szóló jogszabályok rendelkezései az irányadóak.
+
+(4) A választottbírósági eljárásban az illetéket a megállapított költségekkel együtt kell megfizetni és azt az eljárás befejezésekor az eljárt választottbíróság utalja át az állami adóhatóságnak.
+
+(5) Az adópolitikáért felelős miniszter – kérelemre – az általános szabályoktól eltérően a bírósági eljárási illeték utólagos elszámolással történő megfizetését engedélyezheti annak a gazdálkodó szervezetnek [Ptk. 685. § c) pont], amely igazolja, hogy a kérelem benyújtását megelőző 12 hónapban legalább 1000 bírósági (peres és nemperes) eljárást kezdeményezett. Az engedély egy évre szól, meghosszabbítását az adópolitikáért felelős miniszter engedélyezi, amennyiben a gazdálkodó szervezet igazolja, hogy a megelőző 12 hónapban az engedély kiadására meghatározott feltételek teljesültek. Az engedélyről, valamint annak meghosszabbításáról az adópolitikáért felelős miniszter „Tájékoztató”-t tesz közzé a Pénzügyi Közlönyben.
+
+(6) Utólagos elszámolás esetén a gazdálkodó szervezet az utólagos elszámolás körébe tartozó ügyekben mentesül az eljárás kezdeményezésekor a bírósági eljárási illeték megfizetése alól. A gazdálkodó szervezetnek az engedély megadását (meghosszabbítását) követő hónap 15. napjáig előleget kell fizetnie. Az előleg összege a kérelem benyújtását megelőző 12 hónapban kezdeményezett, bírósági eljárásokért fizetett illeték 50%-a. A különbözetet utólagos elszámolás alapján az engedély lejártát követő hónap 15. napjáig a székhelye szerint illetékes állami adóhatóság számlájára kell megfizetni.
+
+(7) Az engedéllyel rendelkező gazdálkodó szervezet társasági formaváltása vagy egyesülése esetén az adópolitikáért felelős miniszter az engedélyt kérelemre módosítja, szétválása esetén pedig a létrejövő új gazdálkodó szervezetnek új engedélyt kell kérnie. Az új engedély annak a jogutód gazdálkodó szervezetnek adható meg, amely igazolja, hogy a jogelőd gazdálkodó szervezet engedélyének kiadása alapjául szolgáló tevékenységet tovább folytatja. Ha e tevékenységet több jogutód gazdálkodó szervezet is folytatja, az engedélyt valamennyinek meg kell adni.
+
+(8) Az engedélyért, az engedély meghosszabbításáért és módosításáért külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.

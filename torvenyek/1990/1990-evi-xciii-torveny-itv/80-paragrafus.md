@@ -1,0 +1,23 @@
+80. § (1) Azoktól az esetektől eltekintve, amelyekben az illetéket e törvény egyéb rendelkezése alapján kell törölni vagy visszatéríteni, a kiszabott, de még meg nem fizetett illeték törlésének, illetőleg a megfizetett illeték visszatérítésének – hivatalból, vagy a fizetésre kötelezett, illetve jogutódja kérelmére – a következő esetekben van helye:
+
+a) ha az illeték jogerős megállapítása után olyan körülmény állott be, amely az örökség vagy hagyomány értékét az öröklés megnyíltának idejére visszaható módon csökkenti;
+
+b) ha a jogügyletet a bíróság módosítja, átváltoztatja vagy megszünteti, illetőleg felbontja, s emiatt a jogügylet után kevesebb illeték jár, illetőleg illeték nem jár;
+
+c) ha a jogügyletet a felek közös megegyezéssel, az eredeti állapot helyreállításával megszüntetik vagy az erre jogosult a jogügylettől eláll és ezt ingatlan esetén az ingatlanügyi hatóság határozata igazolja, más esetben a közös megegyezésről, illetve az elállásról szóló okirattal igazolják;
+
+d) ha a vagyoni értékű jog valamely személy életének, házasságának vagy özvegységének idejére terjed, de e jogosultság a 72. § (4) bekezdésében megállapított szorzókkal vélelmezett évek felénél rövidebb idő elteltével megszűnik;
+
+e) ha a jogügylet tárgya határozott időre kikötött vagyoni értékű jog, és az illetéket a 72. § (2) bekezdés szerint számított érték után szabták ki, de a jogosultság a figyelembe vett évek felének eltelte előtt szűnik meg;
+
+f) ha az illetékfizetésre kötelezett számítási hiba vagy jogszabály téves értelmezése folytán a szabályszerű illetéknél többet fizetett;
+
+g) ha az illetéket vagy az illetékalapot hibásan számították ki, vagy az illeték kiszabása nem a fizetésre kötelezett terhére történt, továbbá ismételt kiszabás esetén;
+
+h) ha a bontó feltételtől függő jogügyletnél a feltétel bekövetkezik;
+
+i) mindazokban a bírósági eljárásokban, ahol az eljárás illetékmentes, vagy az illeték mérséklésének van helye, de az illetéket megfizettették, vagy nagyobb összegben fizették meg;
+
+j) a hatóság visszatéríti a természetes személy ügyfél által lerótt illetéket, ha számára az eljárás során költségmentességet engedélyez, vagy ha hatásköre az ügy elbírálása alatt megszűnt, és az ügy elbírálására nincs hatáskörrel rendelkező más hatóság.
+
+(2) Az (1) bekezdés d)—e) pontjában meghatározott esetekben a vagyoni értékű jog tényleges ideje után számított illetéket meghaladó részt kell törölni, illetve visszatéríteni.
