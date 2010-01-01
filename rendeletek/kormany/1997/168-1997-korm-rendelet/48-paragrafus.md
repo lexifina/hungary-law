@@ -1,0 +1,1 @@
+48. § Szolgálati időként kell figyelembe venni a mezőgazdasági szakcsoport tagjaként, illetőleg az egyéni gazdálkodóként eltöltött időnek azt a tartamát, amelyre a tag, az egyéni gazdálkodó társadalombiztosítási járulékot fizetett.

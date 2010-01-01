@@ -1,0 +1,13 @@
+81. §[^214] (1)[^215] A nyugellátás és a baleseti járadék Tny. 87–88. §-a szerinti megtérítésére irányuló követelést az ügyben első fokon eljárt nyugdíjbiztosítási igazgatási szerv érvényesíti. A megtérítendő összeget a nyugdíjbiztosítási igazgatási szervnek a kincstár területi szervénél vezetett számlájára kell átutalni.
+
+(2)[^216] Ha az (1) bekezdés szerinti megtérítési igényt a nyugdíjfolyósító szerv érvényesíti, a megtérítendő összeget a Nyugdíjfolyósító Igazgatóságnak a kincstár területi szervénél vezetett számlájára kell átutalni.
+
+(3)[^217] Az (1)–(2) bekezdés szerint érvényesítésre kerülő követelésekkel kapcsolatos nyilvántartások, elszámolások vezetése a nyugdíjbiztosítási igazgatási szervek feladatát képezi.
+
+(4)[^218]
+
+[^214]: A 81. § a 229/2000. (XII. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^215]: A 81. § (1) bekezdése a 172/2009. (VIII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^216]: A 81. § (2) bekezdése a 292/2005. (XII. 23.) Korm. rendelet 10. § (4) bekezdésének d) pontja, a 327/2006. (XII. 23.) Korm. rendelet 12. § (4) bekezdésének 15. pontja, a 365/2007. (XII. 23.) Korm. rendelet 18. § (1) bekezdése a) pontjának ai) alpontja, a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^217]: A 81. § (3) bekezdése a 292/2005. (XII. 23.) Korm. rendelet 10. § (4) bekezdésének d) pontja, a 365/2007. (XII. 23.) Korm. rendelet 18. § (1) bekezdése a) pontjának aj) alpontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 17. § (3) és (5) bekezdését.
+[^218]: A 81. § (4) bekezdését a 327/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének e) pontja hatályon kívül helyezte.

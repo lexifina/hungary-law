@@ -1,0 +1,3 @@
+60/A. §[^82] A Tny. 47. § (2) bekezdése a) pontjának alkalmazásánál az özvegyre irányadó öregségi nyugdíjkorhatár alatt a Tny. 18. § (1) bekezdésében meghatározott – korkedvezmény és egyéb kedvezmények nélkül számított – életkort kell érteni.
+
+[^82]: A 60/A. §-t a 201/1999. (XII. 26.) Korm. rendelet 10. §-a iktatta be, szövege a 332/2008. (XII. 30.) Korm. rendelet 15. § (2) bekezdés a) pont ae) alpontja szerint módosított szöveg. Ez utóbbi módosító rendelet 14. § (2) bekezdése alapján a rendelkezést a 2008. december 31-ét követő időponttól megállapított ellátásokra, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.

@@ -1,0 +1,1 @@
+41. § A mezőgazdasági szövetkezeti tag közös munkában részt vevő családtagja szolgálati idejének a számításánál a 40. § (4) bekezdését kell alkalmazni arra az időtartamra, amely alatt a családtag biztosítása munkamegállapodás alapján fennállott.

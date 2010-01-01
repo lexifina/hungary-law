@@ -1,0 +1,1 @@
+83. § A visszafizetésre kötelezett halála esetén a követelés meg nem térült összegét – az örökség erejéig – az örököstől be kell hajtani. A hozzátartozó saját jogú vagy hozzátartozói nyugellátásából – ide nem értve a Tny. 83. §-ának (2) bekezdése szerint kifizetett összeget – a meg nem térült tartozást levonni, illetőleg azt a hozzátartozótól behajtani nem lehet.

@@ -1,0 +1,3 @@
+45. § (1) A szakszövetkezeti tag szolgálati idejének a számításánál alapul szolgáló munkanapok figyelembevételére a 42. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a naptári évnek azt a részét, amely alatt a tag egyéb jogviszony alapján is biztosított volt, vagy társadalombiztosítási járulékot fizetett, illetőleg utána társadalombiztosítási járulékot fizettek, nem szakszövetkezeti tagság alapján szerzett szolgálati időként kell számításba venni.
+
+(2) Szolgálati időnek számít a szakszövetkezeti tagságnak az az ideje, amelyre a tag a havi 1200 forint társadalombiztosítási járulék és a havi 200 forint szakszövetkezeti járulék közötti különbözetet megfizette.

@@ -1,0 +1,3 @@
+10/A. §[^19] Ha az átmeneti járadékban vagy rendszeres szociális járadékban részesülő személy öregségi nyugdíjra válik jogosulttá, az öregségi teljes vagy résznyugdíjának havi összege nem lehet kevesebb annál az összegnél, mint amely az öregségi teljes vagy résznyugdíj megállapítása kezdő időpontjának hónapjában átmeneti járadék, illetve rendszeres szociális járadék címén megillette, vagy megillette volna.
+
+[^19]: A 10/A. §-t a 248/2003. (XII. 23.) Korm. rendelet 1. §-a iktatta be, e módosító rendelet 25. §-ának (3) bekezdése alapján rendelkezéseit a 2003. december 31-ét követő időponttól megállapításra (megszüntetésre) kerülő ellátásokra, illetőleg követelésekre, valamint az említett időpontot követő adatszolgáltatásra kell alkalmazni.

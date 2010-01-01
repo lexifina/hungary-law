@@ -1,0 +1,3 @@
+37. § (1) Szolgálati időként kell figyelembe venni azt az időtartamot, amelynek utólagos járulékfizetés mellett történő beszámítását a mezőgazdasági szövetkezet tagjának a közös munkában részt vett családtagja, a mezőgazdasági szakcsoport tagja, az egyéni gazdálkodó, a szakszövetkezet tagja, illetőleg a kisiparosnak, a magánkereskedőnek az egyéni vállalkozónak a házastársa 1992. március 1-jét megelőzően a lakóhelye (telephelye) szerint illetékes társadalombiztosítási igazgatási szervtől kérte, és az előírt társadalombiztosítási járulékot legkésőbb 1992. december 31-ig megfizette.
+
+(2) Ha a szolgálati idő (1) bekezdés szerinti utólagos beszámításának feltételei több jogcímen is fennállnak, összesen legfeljebb öt év számítható be.

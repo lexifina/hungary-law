@@ -1,0 +1,1 @@
+39. § A szolgálati időként figyelembe kell venni a 38. §-ban említett szervek hivatásos vagy továbbszolgáló állományában töltött időt, ha a szolgálat nem nyugállományba helyezéssel szűnt meg, kivéve, ha rokkantsági nyugdíjat állapítottak meg, és azt megszüntették.

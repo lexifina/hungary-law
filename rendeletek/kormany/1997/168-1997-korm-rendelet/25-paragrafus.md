@@ -1,0 +1,3 @@
+25. §[^59] A Tny. 36/D. § (5) bekezdésének, illetve 36/G. §-a (4) bekezdésének alkalmazásánál a rokkantsági nyugdíj – orvosi vizsgálat alapján állapotjavulás miatt történő – csökkentéséről (leszállításáról) a 23/A. §-ban meghatározott időpontot követő második hónap első napjától kell intézkedni. Állapotrosszabbodás esetén a felemelt összegű rokkantsági nyugdíjat a 23/A. §-ban említett időpontot követő hónap első napjától kell megállapítani.
+
+[^59]: A 25. § a 201/1999. (XII. 26.) Korm. rendelet 8. §-ával megállapított, a 365/2007. (XII. 23.) Korm. rendelet 18. § (2) bekezdése a) pontjának ac) alpontja, az 51/2008. (III. 14.) Korm. rendelet 2. § (5) bekezdésének a) pontja szerint módosított szöveg.

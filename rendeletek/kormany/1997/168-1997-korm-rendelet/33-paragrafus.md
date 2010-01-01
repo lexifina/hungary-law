@@ -1,0 +1,1 @@
+33. § A gépjárművezető-képző munkaközösség tagjaként eltöltött időt legkorábban 1975. július 1-jétől lehet szolgálati időként figyelembe venni. Az 1988. december 31-ét követően eltöltött időnek az a tartama szolgálati idő, amelyre a gépjárművezető-képző munkaközösség tagja a reá irányadó járulékfizetési kötelezettségnek eleget tett.

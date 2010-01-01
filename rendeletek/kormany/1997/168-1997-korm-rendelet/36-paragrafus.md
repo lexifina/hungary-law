@@ -1,0 +1,1 @@
+36. § Szolgálati időként kell figyelembe venni a kisiparos, a magánkereskedő, az egyéni vállalkozó, a gazdasági munkaközösség tagja és a szerződéses üzemeltetésű üzlet vezetője házastársának, továbbá 1988. december 31-ét követően a gazdasági társaság természetes személy tagja házastársának azt az idejét, amelyre utána társadalombiztosítási járulékot fizettek.

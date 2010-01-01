@@ -1,0 +1,1 @@
+31. § A rendszeres és személyes munkavégzésre irányuló megbízásos jogviszony alapján biztosítottként munkában töltött időt legkorábban 1963. június 1-jétől lehet – egykori okirati bizonyíték alapján – szolgálati időként figyelembe venni.
