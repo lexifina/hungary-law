@@ -1,0 +1,1 @@
+Az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény (a továbbiakban: Egyezmény) kihirdetéséről szóló 1978. évi 16. törvényerejű rendelet 4. §-ának (2) bekezdésében foglalt felhatalmazás alapján a következőket rendeljük el:
