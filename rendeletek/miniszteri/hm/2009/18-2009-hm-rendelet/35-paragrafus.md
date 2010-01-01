@@ -1,0 +1,1 @@
+## 34. § A járművek környezetvédelmi felülvizsgálatához szükséges plaketteket – szín és darabszám szerint –, valamint az igazolólapokat a honvédelmi ágazat részére a tulajdonosként bejegyzett szervezet szerzi be, és ezekkel a tanúsítványadókat a szükséges mennyiségben ellátja.

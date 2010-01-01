@@ -1,0 +1,1 @@
+## 25. § Az egyedileg közlekedő honvédségi járművön, valamint a kötelékben közlekedő járművek esetében tíz járművenként egy darab szabványos kivitelű elakadást jelző háromszöget kell készenlétben tartani a technikai zárórészleg járművein.

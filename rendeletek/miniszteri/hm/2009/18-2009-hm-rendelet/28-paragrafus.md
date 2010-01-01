@@ -1,0 +1,1 @@
+## 27. § Az új honvédségi járművek forgalomba helyezés előtti műszaki vizsgálatát a HM felsőszintű logisztikai tervező, irányító és végrehajtó szerv vezetője által meghatalmazott vizsgálóállomásokon a gyártó vagy a forgalmazó végzi a speciális katonai követelmények figyelembevételével.

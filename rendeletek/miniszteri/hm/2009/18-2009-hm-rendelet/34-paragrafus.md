@@ -1,0 +1,1 @@
+## 33. § Ha a vizsgált honvédségi jármű kipufogógázának megengedett szennyezőanyag tartalmára gyári vagy a közlekedési hatóság által jóváhagyott adatbázisban szereplő adat nem áll rendelkezésre, akkor a jármű motorját az R2. 14. számú mellékletében szereplő értékre, illetve a motor normális működése mellett elérhető legalacsonyabb kibocsátási szintre kell beszabályozni.

@@ -1,0 +1,1 @@
+## 32. § A hatósági engedéllyel és jelzéssel ellátott honvédségi járművek környezetvédelmi felülvizsgálatát és ellenőrzését az üzemeltető szervezetek javítóműhelyeiben kell végezni. A vizsgáztatás feltételeinek hiánya esetén a felülvizsgálat nem honvédségi felülvizsgáló szervezetnél is elvégeztethető.

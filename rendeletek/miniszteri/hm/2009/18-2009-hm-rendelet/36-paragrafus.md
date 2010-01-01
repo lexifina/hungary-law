@@ -1,0 +1,1 @@
+## 35. § A tanúsítványadók a környezetvédelmi felülvizsgálat érvényességének igazolását csak a tulajdonosként bejegyzett szervezet által biztosított plakettel és igazolólappal végezhetik, kizárólag a honvédségi járműveken.
