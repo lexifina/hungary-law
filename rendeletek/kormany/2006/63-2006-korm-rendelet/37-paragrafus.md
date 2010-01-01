@@ -1,0 +1,22 @@
+37. §[^103] (1)[^104] A REP a szakhatósági állásfoglalásban nyilatkozik a kérelmező esetében elismert havi rendszeres gyógyító ellátás térítési díjáról, külön megjelölve a gyógyszerek térítési díját.
+
+(2)[^105]
+
+(3)[^106] A havi 6000 forint feletti gyógyszerköltséget megállapító szakhatósági állásfoglalás a REP vezetőjének ellenjegyzésével adható ki.
+
+(4)[^107] Az Szt. 50. §-ának (1) bekezdése szerinti kérelem esetén – az (1) bekezdésben foglaltaktól eltérően – a REP a szakhatósági állásfoglalásban csak az elismert havi rendszeres gyógyszerköltséget [Szt. 50/A. § (7) bek.] tünteti fel.
+
+(5)[^108]
+
+(6)[^109] Ha a REP a szakhatósági eljárás során azt állapítja meg, hogy a kérelmező érvényes közgyógyellátási igazolvánnyal rendelkezik, akkor a szakhatósági állásfoglalás kiadásával egyidejűleg tájékoztatja a jegyzőt a kérelmező közgyógyellátásra való jogosultsága lejártának időpontjáról.
+
+(7)[^110] A szakhatósági állásfoglalással kapcsolatos iratokat a REP öt évig megőrzi.
+
+[^103]: A 37. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^104]: A 37. § (1) bekezdése a 326/2006. (XII. 23.) Korm. rendelet 12. § (5) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
+[^105]: A 37. § új (2) bekezdését a 133/2006. (VI. 15.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2)–(5) bekezdés számozását (3)–(6) bekezdésre változtatva, hatályon kívül helyezte a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ac) alpontja.
+[^106]: A 37. § új (3) bekezdését a 326/2006. (XII. 23.) Korm. rendelet 9. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3)–(6) bekezdésének számozását (4)–(7) bekezdésre változtatta. A 37. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^107]: A 37. § eredeti (2) bekezdésének számozását a 133/2006. (VI. 15.) Korm. rendelet 1. §-a (3) bekezdésre. A 37. § (3) bekezdésének számozását (4) bekezdésre változtatta a 326/2006. (XII. 23.) Korm. rendelet 9. § (2) bekezdése, szövege a 12. § (5) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^108]: A 37. § eredeti (3) bekezdésének számozását a 133/2006. (VI. 15.) Korm. rendelet 1. §-a (4) bekezdésre változtatta. A 37. § (4) bekezdésének számozását (5) bekezdésre változtatta a 326/2006. (XII. 23.) Korm. rendelet 9. § (2) bekezdése. A 37. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^109]: A 37. § eredeti (4) bekezdésének számozását a 133/2006. (VI. 15.) Korm. rendelet 1. §-a (5) bekezdésre változtatta. A 37. § (5) bekezdésének számozását (6) bekezdésre változtatta a 326/2006. (XII. 23.) Korm. rendelet 9. § (2) bekezdése, szövege a 12. § (5) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^110]: A 37. § eredeti (5) bekezdésének számozását a 133/2006. (VI. 15.) Korm. rendelet 1. §-a (6) bekezdésre változtatta. A 37. § (6) bekezdésének számozását (7) bekezdésre változtatta a 326/2006. (XII. 23.) Korm. rendelet 9. § (2) bekezdése, szövege a 12. § (5) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

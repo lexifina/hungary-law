@@ -1,0 +1,7 @@
+47. §[^149] (1)[^150] Az Szt. 52. §-ának (2) bekezdése szerinti egyeztetés érdekében az OEP a nyilvántartása szerinti, megelőző év december 31-i állapotnak megfelelő adatokat – ide nem értve a jogosult betegségének BNO kódját – a REP-en keresztül a tárgyév január 31-éig megküldi a jegyző részére. Az OEP által megküldött adatok között külön meg kell jelölni a tárgyévet megelőző évben kiadott és megszűnt hatályú közgyógyellátási igazolványokat.
+
+(2)[^151] A jegyző az OEP által megküldött adatokat a tárgyév március 31-éig egyezteti a saját nyilvántartása szerinti adatokkal. Ha az adatok között eltérés van, szükség esetén további egyeztetést folytat a REP-en keresztül az OEP-pel és gondoskodik az adatok helyesbítéséről.
+
+[^149]: A 47. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^150]: A 47. § (1) bekezdése a 326/2006. (XII. 23.) Korm. rendelet 12. § (5) bekezdésének g) pontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^151]: A 47. § (2) bekezdése a 326/2006. (XII. 23.) Korm. rendelet 12. § (5) bekezdésének g) pontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

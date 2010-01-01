@@ -1,0 +1,15 @@
+## 13. § Ha a jövedelemszámításnál a nem forintban megszerzett jövedelmet is figyelembe kell venni, az átszámítás a kérelem benyújtásának napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon történik.
+
+## II. Fejezet
+
+## EGYES ELLÁTÁSOKRA VONATKOZÓ RÉSZLETES SZABÁLYOK
+
+## Időskorúak járadéka
+
+14. § (1) Az időskorúak járadékának megállapítása iránti kérelmet a 2. számú melléklet szerinti formanyomtatványon kell benyújtani.
+
+(2)[^39]
+
+(3) Ha a kérelmet a házastárs (élettárs) nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
+
+[^39]: A 14. § (2) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 21. § (1) bekezdésének b) pontja hatályon kívül helyezte.
