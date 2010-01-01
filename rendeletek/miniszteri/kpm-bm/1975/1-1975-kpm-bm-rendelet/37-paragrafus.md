@@ -1,0 +1,28 @@
+## Közlekedés autópályán és autóúton
+
+37. § (1) Autópályán és autóúton, valamint az azokra való ráhajtásra szolgáló úton (az előjelző táblától kezdődően) csak olyan gépjárművel, illetőleg gépjárműből és pótkocsiból álló járműszerelvénnyel szabad közlekedni, amely sík úton legalább 60 km/óra sebességgel képes haladni; ezeken az utakon más jármű közlekedése tilos.
+
+(2) Az autópályán és az azonos irányú forgalom számára legalább két forgalmi sávval rendelkező autóúton a párhuzamos közlekedés szabályait kell alkalmazni.
+
+(3) Tilos
+
+a) autópályára és autóútra út menti ingatlanról, valamint útnak nem minősülő más területről ráhajtani, illetőleg oda behajtani;
+
+b) autópályán és autóúton hátramenetet végezni, megfordulni és az úttesteket elválasztó sávra ráhajtani.
+
+(4)[^220] Autópálya és autóút úttestjén – a forgalmi okból szükséges megállást kivéve – megállni tilos. Tilos a leállósávon megállni vagy várakozni, kivéve ha:
+
+a) műszaki meghibásodás miatt a jármű továbbhaladásra képtelen;
+
+b) a jármű a forgalmat ellenőrzi;
+
+c) a jármű útfenntartást, úttisztítást végez;
+
+d) a jármű, a továbbhaladásra képtelen jármű elszállítását vagy a műszaki meghibásodásának elhárítását végzi;
+
+e) a jármű a megkülönböztető jelzést adó berendezését működtetik.
+
+(5)[^221] A leállósávon – ha a közúti jelzésekből más nem következik – csak a (4) bekezdés b)–e) pontjában meghatározott járművek és a forgalmi sávokban folyamatosan haladó járművek közé besorolni kívánó járművek haladhatnak. A leállósávon álló, a forgalmat ellenőrző járművet úgy kell elhelyezni, hogy az kellő távolságból észlelhető legyen. A leállósáv igénybevételére jogosultaknak a feladatuk ellátását követően a lehető legrövidebb időn belül el kell hagyniuk a leállósávot.
+
+[^220]: A 37. § (4) bekezdése a 289/2009. (XII. 18.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^221]: A 37. § (5) bekezdését a 2/1984. (I. 29.) KM-BM együttes rendelet 41. §-a hatályon kívül helyezte, újonnan a 289/2009. (XII. 18.) Korm. rendelet 16. § (2) bekezdése iktatta be.
