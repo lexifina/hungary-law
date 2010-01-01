@@ -1,0 +1,1 @@
+## Hatályon kívül helyező rendelkezések
