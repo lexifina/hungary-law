@@ -1,0 +1,1 @@
+12. § A közúti közlekedési nyilvántartásban 2001. január 1-jén szereplő, illetve a nyilvántartásba későbbiekben felvett járművezetőt 0 ponttal rendelkezőnek kell tekinteni, a pontszám ez alá nem csökkenhet.

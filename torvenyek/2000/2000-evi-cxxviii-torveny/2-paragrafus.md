@@ -1,0 +1,1 @@
+2. § A közúti közlekedési előéleti pontrendszer (a továbbiakban: pontrendszer) olyan rendszer, amely jogszabályban meghatározott szabályszegés elkövetése esetén kiszabható pontok e törvényben meghatározott számának elérése esetén a vezetői engedély ideiglenes visszavonását teszi lehetővé.

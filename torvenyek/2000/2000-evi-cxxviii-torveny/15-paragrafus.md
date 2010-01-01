@@ -1,0 +1,1 @@
+15. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 4. § (1) bekezdésének c) pontjában meghatározott ponthatárok között – a szabálysértés tárgyi súlyát és gyakoriságát figyelembe véve – a pontrendszer hatálya alá tartozó szabálysértéseket és a hozzá rendelt pontok számát, valamint a pontrendszer alkalmazásának részletes szabályait.
