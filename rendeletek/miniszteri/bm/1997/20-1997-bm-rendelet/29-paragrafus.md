@@ -1,0 +1,1 @@
+## 28. § A hivatásos állomány tagjának áthelyezése esetén vele együtt költöző házastársa kereset-, illetőleg jövedelemkiesésének átmeneti pótlására szolgáló jövedelemkiegészítés megállapításáról és folyósításáról külön jogszabály rendelkezik.
