@@ -1,0 +1,1 @@
+17/A. § A munkaügyi kapcsolatokat és a munkaviszonyt érintő ágazati, alágazati, szakágazati (a továbbiakban együtt: ágazat) jelentőségű kérdésekben a munkavállalók és munkáltatók ágazati érdekképviseleti szervezetei egyeztetnek.

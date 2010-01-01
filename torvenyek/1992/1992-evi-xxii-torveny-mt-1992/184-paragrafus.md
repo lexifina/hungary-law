@@ -1,0 +1,7 @@
+184. § (1) Ha a kártérítés megállapítása után változás következik be a sérelmet szenvedett munkavállaló lényeges körülményeiben, mind a károsult, mind a munkáltató, illetőleg felelősségbiztosítás alapján nyújtott kártérítés esetén a biztosító a megállapított kártérítés módosítását kérheti.
+
+(2) A fiatal munkavállaló részére megállapított kártérítés összegét a tizennyolcadik életévének betöltésekor, illetőleg a szakképzettség elnyerése érdekében végzett tanulmányai befejezését követő egy év elteltekor felül kell vizsgálni és az azt követő időre a részére járó kártérítést a munkaképességében, illetőleg a képzettségében bekövetkezett változásnak megfelelően kell megállapítani.
+
+(3) A kártérítés módosításának alapjául szolgáló munkabér-növekedés mértékének meghatározásánál a munkáltatónak a károsultat a sérelem bekövetkezésekor foglalkoztató szervezeti egységénél, a károsulttal azonos munkakört betöltő munkavállalók ténylegesen megvalósult átlagos, éves bérfejlesztésének (átlagkeresete változásának) mértéke az irányadó. Azonos munkakört betöltő munkavállalók hiányában a módosítás alapjaként a szervezeti egységnél ténylegesen megvalósult átlagos, éves bérfejlesztést (átlagkeresete változását) kell figyelembe venni.
+
+(4) A (3) bekezdés szerinti szervezeti egység megszűnése esetén a kártérítés módosításánál a munkáltatónál a károsulttal azonos munkakört betöltő munkavállalók, ilyen munkavállalók hiányában pedig a munkáltatónál ténylegesen megvalósult átlagos éves bérfejlesztésének (átlagkeresetének) mértéke az irányadó.

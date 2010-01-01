@@ -1,0 +1,1 @@
+63. § A munkáltató biztosítja az üzemi tanács választásának, illetve működésének indokolt és szükséges költségeit. Ennek mértékét a munkáltató és az üzemi tanács közösen állapítja meg. Vita esetén egyeztetésnek van helye.

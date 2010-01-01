@@ -1,0 +1,1 @@
+210. § Ha a vezető, illetőleg közeli hozzátartozója tekintetében e törvény hatálybalépésekor a 191. § (1)—(3) bekezdésében felsorolt összeférhetetlenség fennáll, ennek okát tizenöt napon belül meg kell szüntetni. Ennek elmaradása esetén a 192/A. § (1) bekezdése az irányadó.

@@ -1,0 +1,3 @@
+113. § (1) Amennyiben a munkáltató a támogatást nem biztosítja, vagy egyéb lényeges szerződésszegést követ el, a másik fél mentesül a szerződésből folyó kötelezettségei alól és a szerződésszegésből eredő esetleges kárát érvényesítheti.
+
+(2) Ha a támogatásban részesülő tanulmányait nem megfelelő eredménnyel folytatja, nem lép a szerződés szerinti időpontban a munkáltatónál munkába, illetőleg a meghatározott időtartamot nem tölti le, vagy egyéb lényeges szerződésszegést követ el, a munkáltató követelheti a ténylegesen nyújtott támogatásnak megfelelő összeg megtérítését. Amennyiben a támogatásban részesülő a szerződésben kikötött időtartamnak csak egy részét nem tölti le, megtérítési kötelezettsége ezzel arányos.

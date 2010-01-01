@@ -1,0 +1,3 @@
+139. § (1) A munkavállónak — kérelmére — a tartós (előreláthatólag harminc napot meghaladó) ápolásra vagy gondozásra (a továbbiakban: ápolásra) szoruló közeli hozzátartozója otthoni ápolása céljából az ápolás idejére, de legfeljebb két évre a munkáltató fizetés nélküli szabadságot köteles engedélyezni, ha a munkavállaló az ápolást személyesen végzi. A tartós otthoni ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
+
+(2) Közeli hozzátartozó: a házastárs, az egyenes ágbeli rokon, a házastárs egyenes ágbeli rokona, az örökbefogadott, mostoha és nevelt gyermek, az örökbefogadó, a mostoha, és a nevelőszülő, a testvér, valamint az élettárs.

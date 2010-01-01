@@ -1,0 +1,1 @@
+185. § A munkáltató a károkozásról való tudomásszerzéstől számított tizenöt napon belül köteles a károsultat felhívni kárigénye előterjesztésére. A munkáltató a kárigény bejelentésére tizenöt napon belül írásbeli, indokolt választ ad.

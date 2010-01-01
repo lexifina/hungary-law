@@ -1,0 +1,3 @@
+188/A. § (1) A tulajdonos, illetőleg a tulajdonosi jogokat gyakorló szerv a munkáltató működése szempontjából meghatározó jelentőségű munkakör tekintetében előírhatja, hogy az ilyen munkakört betöltő munkavállaló a 190. § (3) bekezdés, 191. §, a 192. §, illetve a 192/A. § (2)–(4) bekezdése alkalmazásában vezetőnek minősül. Erről a körülményről a munkavállalót a munkaviszony létesítésekor írásban tájékoztatni kell.
+
+(2) A munkaviszony fennállása alatt a tulajdonos, illetőleg a tulajdonosi jogokat gyakorló szervezet (1) bekezdés szerinti döntése a munkavállaló munkaviszonyát – eltérő megállapodás hiányában – nem érinti.

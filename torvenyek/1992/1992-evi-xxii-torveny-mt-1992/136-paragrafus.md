@@ -1,0 +1,3 @@
+136. § (1) A munkavállaló munkaviszonya megszűnésekor, illetőleg sorkatonai vagy polgári szolgálatra történő behívásakor, ha a munkáltatónál eltöltött idővel arányos szabadságot nem kapta meg, azt pénzben kell megváltani. Egyéb esetben a szabadságot pénzben megváltani nem lehet; ettől érvényesen eltérni nem lehet.
+
+(2) Ha a munkavállaló a munkaviszonya megszűnéséig több szabadságot vett igénybe annál, mint ami a munkáltatónál töltött időre megilletné, a különbözetre kifizetett munkabért köteles visszafizetni. Nem követelhető vissza a túlfizetés, ha a munkaviszony a munkavállaló nyugdíjazása vagy halála, illetve a munkáltató jogutód nélküli megszűnése miatt szűnt meg, vagy a munkavállalót sorkatonai, illetőleg polgári szolgálatra hívták be.

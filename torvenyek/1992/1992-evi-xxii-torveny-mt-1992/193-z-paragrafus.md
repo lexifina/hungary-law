@@ -1,0 +1,1 @@
+193/Z. § Felhatalmazást kap a Kormány a közigazgatási szerveknél foglalkoztatott munkavállalók munkaviszonyával összefüggő személyi iratokra és munkaügyi nyilvántartásra vonatkozó részletszabályok megalkotására.
