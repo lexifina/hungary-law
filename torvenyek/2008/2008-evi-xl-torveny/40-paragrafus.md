@@ -1,0 +1,1 @@
+40. § Az egyetemes szolgáltatást nyújtani szándékozó részére a földgázelosztó az engedélykérelem benyújtását megelőzően és kizárólag ebből a célból, a 39. §-ban előírtak teljesítéséhez köteles a gázforgalomról adatot, információt biztosítani.

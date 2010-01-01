@@ -1,0 +1,1 @@
+23. § A telephelyi szolgáltató köteles azzal a rendszerüzemeltetővel együttműködni, akinek a rendszeréhez a telephelyi vezeték közvetlenül csatlakozik. Az együttműködés részletes feltételeit az Üzemi és Kereskedelmi Szabályzat tartalmazza.

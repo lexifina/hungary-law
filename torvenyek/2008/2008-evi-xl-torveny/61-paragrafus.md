@@ -1,0 +1,1 @@
+61. § Az 55. § szerinti piacelemzés elvégzésével kapcsolatban a jelentős piaci erővel rendelkező engedélyesek azonosításával és a rájuk vonatkozó kötelezettségek előírásával kapcsolatos eljárások során a Hivatal a versenyhatósággal együttműködik, szakmai álláspontját figyelembe veszi, ha attól eltér, annak indokait a határozat indokolásában megjelöli.

@@ -1,0 +1,1 @@
+75. § A kapacitáslekötést követően rendelkezésre álló szabad kapacitás közzétételének és lekötésének szabályait, továbbá kapacitáshiány esetén az igény-kielégítés rendjét külön jogszabály határozza meg.

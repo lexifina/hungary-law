@@ -1,0 +1,3 @@
+138. § (1) Ha a földgázellátásról szóló 2003. évi XLII. törvény (a továbbiakban: Get.) szerinti közüzemi nagykereskedői engedélyes – amennyiben egy jogi személyen belül – e törvény hatálybalépését megelőzően kereskedelmi engedéllyel is rendelkezett, 2008. november 30-ig köteles a kereskedelmi engedélye módosítása iránti kérelmet a Hivatalhoz benyújtani.
+
+(2) Az (1) bekezdés szerinti társaságot – az e törvény szerint módosított kereskedelmi engedélye megszerzésének feltételével, annak napján – a módosított földgáz kereskedelmi engedély alapján folytatott földgázipari tevékenységet illető összes jogviszonya tekintetében a közüzemi nagykereskedelmi engedélyes törvényes jogutódjának kell tekinteni.

@@ -1,0 +1,3 @@
+33. § (1) Az egyetemes szolgáltatásra vonatkozó engedélyt a Hivatal az engedély iránti kérelemben megjelölt szolgáltatási területre adja ki, ha a kérelmező az e törvényben, és a külön jogszabályokban foglalt feltételeket teljesíti. Az egyetemes szolgáltatásra vonatkozó engedélyek kiadása során a Hivatal biztosítja, hogy a földgázellátásba bekapcsolt valamennyi település, településrész, terület egyetemes szolgáltatással lefedett legyen.
+
+(2) Az egyetemes szolgáltatásra vonatkozó működési engedély az ország egész területére vagy annak meghatározott területi egységére, határozatlan időre adható ki. Jelen bekezdés alkalmazása szempontjából a legkisebb területi egységet külön jogszabály határozza meg. Egy területi egységre több egyetemes szolgáltatói engedély is kiadható.

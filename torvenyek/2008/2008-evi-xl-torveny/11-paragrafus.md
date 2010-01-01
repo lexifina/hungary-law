@@ -1,0 +1,1 @@
+11. § A földgázszállító olyan informatikai rendszert működtet, amely internet alapon, valós idejű adatokkal biztosítja az együttműködő földgázrendszer hidraulikai egyensúlyának fenntartásához, valamint a nominálások és az elszámolások lebonyolításához szükséges adatforgalmat.

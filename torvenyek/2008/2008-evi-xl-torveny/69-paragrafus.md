@@ -1,0 +1,1 @@
+69. § Abban az esetben, ha a felhasználó az elosztóvezetékhez csatlakozik, a földgázelosztó köteles a földgázszállítónál eljárni a szükséges földgáz szállítási kapacitás biztosítása érdekében. A földgázszállító és a földgázelosztó csatlakozással kapcsolatos együttműködésének szabályait és részletes feltételeit külön jogszabály határozza meg.

@@ -1,0 +1,1 @@
+136. § A rendszerüzemeltetők a 82. § (1) bekezdése szerinti első fejlesztési javaslatot legkésőbb 2009. december 31-ig kötelesek elkészíteni és a rendszerirányítóval együttműködve a Hivatalhoz benyújtani.

@@ -1,0 +1,53 @@
+## XI. Fejezet
+
+## ENGEDÉLYEZÉS
+
+114. § (1) Az e törvény szerinti engedélyköteles tevékenységek a következők:
+
+a) a rendszerirányítás,
+
+b) a földgázszállítás,
+
+c) a földgázelosztás,
+
+d) a földgáztárolás,
+
+e) a földgáz kereskedelem,
+
+f) az egyetemes szolgáltatás,
+
+g) a szervezett földgázpiac-működtetés,
+
+h) a vezetékes PB-gáz szolgáltatás,
+
+i) az egyablakos kapacitásértékesítés.
+
+(2) Az (1) bekezdés b)–i) pontja szerinti tevékenységek határozatlan időre szóló engedély alapján végezhetők, míg az (1) bekezdés a) pontja szerinti tevékenység 10 évre szóló, meghosszabbítható engedély alapján végezhető.
+
+(3) Az e törvény szerinti engedélyköteles tevékenység csak működési engedély alapján végezhető.
+
+(4) A telephelyi szolgáltató jogosult telephelyi szolgáltatói engedélyt kérni. A telephelyi szolgáltatói engedély – a telephelyi felhasználók vonatkozásában – kiterjed a földgáz értékesítésre is, e jogosultság azonban nem kizárólagos jog.
+
+(5) Az engedély kérelmezőjének rendelkeznie kell a külön jogszabályban meghatározott pénzügyi és gazdasági feltételekkel.
+
+(6)
+
+(7) A Hivatal a működési engedély kiadását megtagadja, ha
+
+a) bármely jogszabályi feltétel hiányzik,
+
+b) a kérelemben szereplő tevékenység folyamatos, hosszú távú ellátásához a kérelmező nem rendelkezik a jogszabályban meghatározott pénzügyi, gazdasági, műszaki, környezetvédelmi, informatikai, távközlési feltételekkel és eszközökkel, valamint szakszemélyzettel, és a földgázipari tevékenység megfelelő végzéséhez szükséges feltételekkel,
+
+c) a kérelmező csőd- vagy felszámolási eljárás alatt áll,
+
+d) a kérelmező működési engedélyét a Hivatal az engedély iránti kérelem benyújtását megelőző 10 éven belül a kérelmezőnek felróható okból visszavonta.
+
+(8) Az e törvény által kiadott engedély nem érinti a más jogszabályokban előírt engedélyek megszerzésének, és az engedélyezési eljárások lefolyatásának kötelezettségét.
+
+(9) A Hivatal az engedély iránti kérelem elutasításának okait tájékoztatásul megküldi az Európai Bizottságnak.
+
+(10) Az (1) bekezdés a)–h) pontjában meghatározott engedélyköteles tevékenységet csak az a földgázipari vállalkozás végezhet, amely megfelel az e törvényben, és a végrehajtására kiadott jogszabályban meghatározott feltételeknek.
+
+(11) Az (1) bekezdés i) pontjában foglalt tevékenységet külföldi székhelyű vállalkozás is végezhet, ha a külföldi vállalkozás székhely szerinti állama és a Magyar Köztársaság közötti nemzetközi szerződés ezt biztosítja.
+
+(12)

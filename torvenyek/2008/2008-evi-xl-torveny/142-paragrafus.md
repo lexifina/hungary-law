@@ -1,0 +1,1 @@
+142. § A földgázszállító és a rendszerhasználók 2010. június 30-ig – a napi földgáz és kapacitás kereskedelmi piac működéséig – az Üzemi és Kereskedelmi Szabályzat szerinti egyensúlyozási eszközöket kötelesek használni.

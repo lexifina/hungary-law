@@ -1,0 +1,1 @@
+95. § Az egyensúlytartás részletes szabályait, különösen a nominálást, újranominálást, az együttműködést, az adatszolgáltatást, az egyensúlyozás eszközeit, az operatív beavatkozással kapcsolatos szabályokat, a mérést, az elszámolást, valamint az egyensúlytartással kapcsolatos jogokat és kötelezettségeket külön jogszabály és az Üzemi és Kereskedelmi Szabályzat határozza meg.

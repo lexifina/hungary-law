@@ -1,0 +1,1 @@
+106. § A rendszerüzemeltető és az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető kiegészítő szolgáltatások körét, valamint annak díjait külön jogszabály állapítja meg.

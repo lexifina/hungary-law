@@ -1,0 +1,1 @@
+56. § A Hivatal az azonosított jelentős piaci erővel rendelkező engedélyesekre az 58. § és az 59. §, valamint a külön jogszabály rendelkezései szerint meghatározott kötelezettségek közül az adott piacon a kellően hatékony verseny kialakulásának elősegítéséhez igazodó, indokolt és arányos mértékű kötelezettséget vagy kötelezettségeket írhat elő.

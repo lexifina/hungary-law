@@ -1,0 +1,1 @@
+30. § A földgázkereskedő kereskedelmi egyensúlytartásra köteles, jogosult a kereskedelmi egyensúly Üzemi és Kereskedelmi Szabályzatban meghatározott módon történő helyreállítására, vagy viseli mindazon költségeket, amelyek a tevékenysége következtében felmerült egyensúlyi eltérésekkel kapcsolatosak.

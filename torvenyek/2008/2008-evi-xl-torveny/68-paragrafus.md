@@ -1,0 +1,1 @@
+68. § A felhasználók együttműködő földgázrendszerre történő csatlakozásának műszaki-gazdasági feltételeit a külön jogszabályban meghatározottak szerint kell megvizsgálni. A felhasználó vásárolt kapacitását, a vásárolt kapacitás igénybevételének feltételeit a felhasználó és az érintett rendszerüzemeltető a csatlakozási szerződésben köteles rögzíteni.

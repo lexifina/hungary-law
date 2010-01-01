@@ -1,0 +1,3 @@
+51. § (1) A vezetékes PB-gáz szolgáltatási tevékenység gyakorlásához a gázszolgáltatónak rendelkeznie kell az elosztóvezeték hálózat többségi tulajdonával – amely esetben a gázszolgáltató által üzemeltetett teljes eszközvagyon könyvszerinti értékét kell figyelembe venni – vagy érvényes üzemeltetési szerződéssel.
+
+(2) A vezetékes PB-gáz szolgáltatónak rendelkeznie kell továbbá adatforgalmi és információs rendszerrel, mérő és adatátviteli eszközökkel, az elosztóvezetékek folyamatos felügyeletét ellátó, valamint a karbantartást, és az üzemzavar elhárítást irányító szervezetekkel és ügyfélszolgálattal.

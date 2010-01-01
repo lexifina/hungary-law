@@ -1,0 +1,1 @@
+52. § A PB-gáz szolgáltató elosztási tevékenységére e törvény földgázelosztásra vonatkozó, míg értékesítési tevékenységére a földgáz-kereskedelemre vonatkozó rendelkezéseket kell megfelelően alkalmazni. Ezek részletes szabályait külön jogszabály tartalmazza.

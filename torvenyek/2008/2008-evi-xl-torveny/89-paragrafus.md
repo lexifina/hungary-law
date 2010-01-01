@@ -1,0 +1,15 @@
+89. § (1) A csatlakozóvezeték és a felhasználói berendezés kiviteli tervét – a kivitelezés megkezdése előtt – műszaki-biztonsági szempontok szerinti felülvizsgálatra be kell nyújtani a földgázelosztóhoz. A felülvizsgálathoz szükséges engedélyek rendelkezésre állása esetén a földgázelosztó a felülvizsgálatot 15 munkanapon belül köteles elvégezni. A földgázelosztónak a kivitelezésre alkalmasságot megállapító nyilatkozata hiányában a létesítmény nem kivitelezhető. Az egyetemes szolgáltatásra jogosult felhasználók esetében a felülvizsgálat díjmentes.
+
+(2) Ha a földgázelosztó a nyilatkozatával a tervet kivitelezésre alkalmatlannak minősítette, az ingatlan tulajdonosa a műszaki-biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra külön jogszabály rendelkezéseit kell alkalmazni.
+
+(3) Az elkészült gázszerelést a földgázelosztó vagy megbízottja az üzembe helyezés előtt köteles – az egyetemes szolgáltatásra jogosult felhasználók esetében díjmentesen – műszaki-biztonsági szempontból ellenőrizni.
+
+(4) A csatlakozóvezeték és a fogyasztói vezeték üzembe helyezéséről a földgázelosztó köteles gondoskodni. A gázfogyasztó készülék és a gázfelhasználó technológia üzembe helyezésére a készülék gyártója vagy a gyártó feljogosított megbízottja is jogosult. A földgázelosztó a gázkészülék üzembe helyezése nélkül is köteles a fogyasztói vezeték üzembe helyezését elvégezni, ha a berendezés a műszaki-biztonsági előírásoknak megfelel. A gázfogyasztó készülék nem helyezhető üzembe, ha nem felel meg a forgalmazására vonatkozó követelményeknek, megfelelőségértékelése nem a jogszabályban meghatározott módon történt meg, továbbá ha az üzemelés helye nem felel meg a használatba vétel műszaki-biztonsági követelményeinek.
+
+(5) Az üzembe helyező az üzembe helyezés alkalmával köteles a felhasználóval a csatlakozóvezeték és a felhasználói berendezés szakszerű használatát, a gázmérő állagmegóvási és védelmi kötelezettségét, valamint a felhasználó egyéb kötelezettségeit ismertetni.
+
+(6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről. A csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálatának részletes szabályait – beleértve a felülvizsgálat gyakoriságát is – külön jogszabály tartalmazza.
+
+(7) A fogyasztói főelzáró karbantartása és javítása az elosztó kötelessége, saját költségén.
+
+(8) Ha a felhasználó új engedélyessel köt gázellátási szerződést – egyéb megállapodás hiányában – a földgázszállító és a földgázelosztó köteles a felhasználó számára az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerinti fogyasztásmérő és adatátviteli berendezést térítésmentesen biztosítani.

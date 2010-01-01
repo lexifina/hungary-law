@@ -1,0 +1,13 @@
+66. § (1) Az érintett engedélyes a kedvezmények biztosítása érdekében a működési területén, az egyes felhasználási helyeken vételező védendő fogyasztókról nyilvántartást vezet, amelyből egyértelműen megállapítható, hogy a lakossági fogyasztó a kedvezmények melyik körére [65. § (2) és (4)–(5) bekezdés] jogosult és ezek közül melyek igénybevételét kérte.
+
+(2) A védendő fogyasztói körbe tartozás igazolására a védendő fogyasztói státuszra jogosító ellátást megállapító szerv – a védendő fogyasztó kérelmére – igazolást ad ki arról, hogy a kérelem benyújtásakor a védendő fogyasztó részesül az adott ellátásban.
+
+(3) Az ellátást megállapító szerv az igazoláson köteles feltüntetni, hogy az igazolás mely felhasználási helyen történő felhasználásra került kiadásra. Ugyanazon fogyasztónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
+
+(4) A nyilvántartásba történő felvételt az érintett engedélyes ügyfélszolgálatán a lakossági fogyasztónak kell kérnie. A kérelemben meg kell jelölnie, hogy milyen e törvényben, valamint 65. § (3) és (4) bekezdése szerinti kormányrendeletben meghatározott különleges bánásmód vagy kedvezmény illeti meg és azok közül melyikre tart igényt. A kérelemhez csatolnia kell a védendő fogyasztói körbe tartozás igazolására szolgáló – a (2) bekezdésben valamint a 65. § (3) bekezdése szerinti kormányrendeletben meghatározott – iratokat. A nyilvántartásba történt felvételről a lakossági fogyasztót 5 munkanapon belül írásban tájékoztatni kell.
+
+(5) A nyilvántartásban kizárólag az érintett védendő fogyasztó neve, felhasználási helyének címe, ügyfél azonosítója, a 65. § (2) vagy (4) bekezdésére történő utalás, a 65. § (4)–(5) bekezdés szerinti különleges bánásmód esetén annak formája, a védendő fogyasztó által igénybe vehető kedvezmények szerepelnek.
+
+(6) A nyilvántartásba történt felvételt követően a védendő fogyasztó köteles minden év március 31-ig – a (2) bekezdés szerinti igazolással – igazolni, hogy továbbra is részesül azon ellátásban, amely alapján védendő fogyasztónak minősül. Nem kell évenkénti igazolást benyújtania azon fogyatékkal élő fogyasztónak, akinek állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás. Ha a védettségét megalapozó körülmények megváltozása folytán a lakossági fogyasztó már nem jogosult a 65. § (2) vagy a (4)–(5) bekezdésében foglalt kedvezményekre, adatait a rögzítéstől számított 5 évig meg kell őrizni.
+
+(7) Az egyetemes szolgáltató és a földgázelosztó köteles a nyilvántartásba történő felvételt követő legkésőbb 10 napon belül a védendő fogyasztóval a szerződést megkötni és a szerződés megkötését követő hónap első napján a szolgáltatás nyújtását megkezdeni.

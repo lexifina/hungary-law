@@ -1,0 +1,1 @@
+60. § A földgáz nagykereskedelmi piacon jelentős piaci erővel rendelkező szereplők részére a Hivatal ellátási kötelezettséget írhat elő az egyetemes szolgáltatók földgázellátásának biztosítása érdekében.

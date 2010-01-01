@@ -1,0 +1,1 @@
+43. § A végső menedékes szolgáltatásra vonatkozó részletes rendelkezéseket, a kijelölést, a végső menedékes szolgáltatási szerződés tartalmát, megszűnésének eseteit, valamint a kijelölési eljárás szabályait a Kormány – a csődeljárásról és felszámolásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.) rendelkezéseivel összhangban – rendeletben szabályozza.

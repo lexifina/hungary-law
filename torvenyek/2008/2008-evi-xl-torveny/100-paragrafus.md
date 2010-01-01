@@ -1,0 +1,7 @@
+100. § (1) A fogyasztásmérő berendezések leolvasását a földgázszállító és a földgázelosztó az indokolt költségeik között elismert és az üzletszabályzatukban részletezett gyakorisággal végzik. A rendszerüzemeltető és a rendszerhasználó az üzletszabályzatban meghatározottaktól eltérő leolvasási gyakoriságban is megállapodhatnak, de a fogyasztásmérő berendezéseket legalább évente egyszer le kell olvasni.
+
+(2) A földgázszállító és a földgázelosztó gondoskodnak a kereskedelmi számlakiállítás alapjául szolgáló fogyasztási adatok összegyűjtéséről, a szükséges átszámítások és korrekciók elvégzéséről, és az adatok földgázkereskedőnek történő továbbításáról.
+
+(3) A felhasználó esedékes díjfizetési kötelezettségének elmulasztása miatt, a földgázkereskedő a földgázelosztónál kezdeményezheti előre fizető mérő felszerelését.
+
+(4) A fogyasztásmérő berendezések felszerelése, üzemeltetése, karbantartása, időszakos hitelesítése, valamint a 100 m3/óra névleges mérőteljesítmény feletti mérők távadóval történő ellátása és a jeltovábbításhoz szükséges telemechanikai rendszer kiépítése és működtetése – egyéb megállapodás hiányában – a földgázszállító és a földgázelosztó kötelezettsége. Ezen kötelezettségek költségei az engedélyest terhelik. Ha a földgázkereskedő vagy a felhasználó kérésére az Üzemi és Kereskedelmi Szabályzatban meghatározott műszakilag indokoltnál költségesebb berendezés kerül felszerelésre, a rendszerüzemeltető jogosult az ezzel felmerülő igazolt többletköltségeit érvényesíteni.

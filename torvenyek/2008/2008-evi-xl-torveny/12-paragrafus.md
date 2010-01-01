@@ -1,0 +1,1 @@
+12. § A földgázszállító egyensúlyozási tevékenységéhez kapcsolódóan a 96. § (6) bekezdése, valamint a külön jogszabály alapján beszedett pótdíjak nem minősülnek az engedélyes saját bevételének, azokat a jogszabályban meghatározott előírásoknak megfelelően köteles kezelni.
