@@ -1,0 +1,3 @@
+39. § (1) A független biztosításközvetítő köteles tevékenységének felelősségbiztosítására mindenkor legalább káreseményenkénti 1 120 200 euró, illetve évente együttesen legalább 1 680 300 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással vagy 1 680 300 euró vagyoni biztosítékkal rendelkezni. Az engedély megadásának feltétele, hogy a független biztosításközvetítő igazolja a Felügyeletnek a felelősségbiztosítási szerződés megkötését vagy a vagyoni biztosíték meglétét.
+
+(2) A független biztosításközvetítői felelősségbiztosítási szerződés minimális tartalmi követelményeit a kormány rendeletben állapítja meg.

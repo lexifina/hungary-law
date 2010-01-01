@@ -1,0 +1,1 @@
+28. § Az évközben belépő vagy kiváló tag részére időarányos tagdíjat, illetőleg pótlólagos befizetést lehet előírni. Pótlólagos befizetést csak olyan mértékben lehet előírni, amilyen mértékben az év folyamán a tagdíjak növelésére vagy a szolgáltatások leszállítására került sor.

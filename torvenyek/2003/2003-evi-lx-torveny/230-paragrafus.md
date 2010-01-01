@@ -1,0 +1,7 @@
+230. § (1) Azon, e törvény hatálybalépésekor már működési engedéllyel rendelkező biztosító, amelynek szavatoló tőkéje e törvény hatálybalépésekor kevesebb, mint a 8. számú melléklet szerinti minimális szavatoló tőke vagy a 125. § szerinti biztonsági tőke, köteles a hiányt 2006. december 31-ig megszüntetni.
+
+(2) Azon, e törvény hatálybalépésekor már működési engedéllyel rendelkező biztosító esetén, amelynek szavatoló tőkéje 2006. december 31-jén még nem éri el a szükséges mértéket, a Felügyelet a biztosító kérelmére és a biztosító által benyújtott tőkefeltöltési terv alapján a szavatoló tőke feltöltésének határidejét további két évvel meghosszabbíthatja.
+
+(3)
+
+(4) A biztosító az 1996. január 1. előtt megkötött, vagy addig megadott termékengedély alapján 2000. december 31-éig megkötött életbiztosítási szerződései után a 100. § (1) bekezdésében foglaltak helyett az életbiztosítási ág matematikai tartalékai befektetési eredményének legalább 50%-át köteles a biztosítottaknak visszajuttatni, amennyiben a biztosító nem vállalt egyéb kötelezettséget. A visszajuttatás azonban a biztosított számára nem lehet kedvezőtlenebb a szerződésben foglaltaknál. A visszajuttatott rész magában foglalja a technikai kamatlábnak megfelelő bevételt is. A törvény 100. § (1) bekezdésében foglaltak szerinti többlethozam visszajuttatást és az e bekezdés szerinti visszajuttatást a biztosító elkülönítetten köteles kezelni és kimutatni.

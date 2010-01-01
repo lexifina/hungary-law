@@ -1,0 +1,1 @@
+148. § A segítségnyújtási tevékenységet folytató biztosító éves beszámolójában és negyedéves jelentésében köteles ismertetni az általa vállalt segítségnyújtási szolgáltatások teljesítéséhez rendelkezésére álló pénzügyi és egyéb eszközöket.

@@ -1,0 +1,7 @@
+210. § (1) Ha a Magyar Köztársaság területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében tevékenységet végző, másik tagállamban székhellyel rendelkező biztosító, független biztosításközvetítő, szaktanácsadó megsérti a Magyar Köztársaság területén hatályos előírásokat, illetve működésében a Felügyelet hiányosságokat észlel, a Felügyelet kötelezi a fióktelepet, illetve a biztosítót, a független biztosításközvetítőt, a szaktanácsadót a szabályellenes helyzet megszüntetésére.
+
+(2) Ha a fióktelep, illetve a biztosító, a független biztosításközvetítő, a szaktanácsadó a Felügyelet határozatában foglalt kötelezésnek határidőben nem tesz eleget, a Felügyelet értesíti a székhely szerinti tagállam felügyeleti hatóságát, illetve kezdeményezi a szükséges intézkedések megtételét.
+
+(3) Ha a székhely szerinti tagállam felügyeleti hatósága által tett intézkedések ellenére a jogszabálysértés továbbra is fennáll, a Felügyelet – a székhely szerinti tagállam előzetes értesítését követően – a 195. § (1) bekezdésének a), c), d), f), h), i) és k) pontjaiban foglalt intézkedéseket alkalmazhatja.
+
+(4) A Felügyelet az új biztosítási szerződések létrejöttének megakadályozása érdekében a magyar jogszabályok megsértése esetén – az (1)–(3) bekezdések mellőzésével – közvetlenül is intézkedhet, ha a jogszabálysértő helyzet fennállása súlyosan veszélyezteti a biztosítási piac biztonságát, illetve az ügyfelek érdekeit.

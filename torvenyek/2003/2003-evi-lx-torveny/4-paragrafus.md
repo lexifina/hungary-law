@@ -1,0 +1,3 @@
+## A biztosítási tevékenység, a biztosításközvetítő és a biztosítási szaktanácsadói tevékenység alapfeltételei
+
+4. § A biztosítási tevékenység biztosítási szerződésen, jogszabályon vagy tagsági jogviszonyon alapuló kötelezettségvállalás, amely során a tevékenységet végző megszervezi az azonos vagy hasonló kockázatoknak kitett személyek közösségét (veszélyközösség), matematikai és statisztikai eszközökkel felméri a biztosítható kockázatokat, megállapítja és beszedi a kötelezettségvállalás ellenértékét (díját), meghatározott tartalékokat képez, a létrejött jogviszony alapján a kockázatot átvállalja és teljesíti a szolgáltatásokat.

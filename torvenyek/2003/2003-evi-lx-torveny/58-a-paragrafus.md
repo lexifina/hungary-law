@@ -1,0 +1,1 @@
+58/A. § Ha a kérelmező az 58. § a), f)–g) pontjában foglalt adatokat nem igazolja, a Felügyelet – a biztosító alapítási engedélyéhez – adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.

@@ -1,0 +1,11 @@
+41. § (1) A független biztosításközvetítő köteles meggyőződni arról, hogy az általa alkalmazott, illetve megbízott biztosításközvetítést végző természetes személy, vagy ha a közvetítői tevékenységgel gazdálkodó szervezetet bízott meg, ennél a szervezetnél közvetítői tevékenységet végző természetes személy szerepel-e a felügyeleti nyilvántartásban.
+
+(2) Független biztosításközvetítői tevékenységet csak olyan természetes személy végezhet – független biztosításközvetítői tevékenységet végző gazdálkodó szervezeten, illetve az e gazdálkodó szervezettel egyéb jogviszonyban álló gazdálkodó szervezeten belül –, aki büntetlen előéletű, felsőfokú végzettséggel vagy az e törvény 13. számú mellékletében meghatározott szakképesítéssel vagy külön jogszabály szerinti hatósági vizsgával rendelkezik.
+
+(3) A független biztosításközvetítő az általa alkalmazott, megbízott, illetve egyéb munkavégzésre irányuló jogviszony keretében biztosításközvetítést végző természetes személyekről, vagy ha a közvetítői tevékenységgel gazdálkodó szervezetet bízott meg, akkor erről a gazdálkodó szervezetről, illetve az ennél a szervezetnél közvetítői tevékenységet végző természetes személyekről köteles nyilvántartást vezetni. A nyilvántartásban szereplő adatok körét az 5. számú melléklet 2. pontja tartalmazza. Az 5. számú melléklet 2. pontjában [az A) b) és f) alpont, valamint a B) b) alpont kivételével] meghatározott adatokban bekövetkezett változásokat a független biztosításközvetítő köteles a Felügyeletnek 30 napon belül bejelenteni.
+
+(4) A biztosításközvetítő a felügyeleti nyilvántartásba annak a biztosítónak vagy független biztosításközvetítőnek a bejelentése alapján kerül, akinek a biztosításközvetítő biztosítást közvetít. A biztosításközvetítő adataiban beállt változást – a (3) bekezdés alapján – a biztosító vagy a független biztosításközvetítő köteles a Felügyeletnek bejelenteni.
+
+(5) A biztosító vagy a független biztosításközvetítő a biztosításközvetítő bejelentését, illetve adatainak változását a Felügyelet által előírt módon teszi meg.
+
+(6) A biztosításközvetítő természetes személy, gazdálkodó szervezet és a vele jogviszonyban álló biztosításközvetítő természetes személy köteles a nyilvántartást vezető biztosítónak vagy független biztosításközvetítőnek a nyilvántartásba vételi feltételek teljesítését igazolni.

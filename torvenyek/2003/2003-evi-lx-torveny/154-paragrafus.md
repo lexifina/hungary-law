@@ -1,0 +1,1 @@
+154. § Az ügyfél egészségi állapotával összefüggő adatokat a biztosító a 155. § (1) bekezdésében meghatározott célokból, az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről szóló 1997. évi XLVII. törvény rendelkezései szerint, kizárólag az érintett írásbeli hozzájárulásával kezelheti.

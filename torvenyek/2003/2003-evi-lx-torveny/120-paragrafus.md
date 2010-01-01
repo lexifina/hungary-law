@@ -1,0 +1,1 @@
+120. § Az e törvény hatálybalépését követően megkötött életbiztosítási szerződések díjának – ésszerű aktuáriusi feltételezések mellett – elegendőnek kell lenniük a biztosító valamennyi, e szerződésekkel összefüggésben felmerülő kötelezettségének teljesítésére, illetve a megfelelő biztosítástechnikai tartalékok képzésére.
