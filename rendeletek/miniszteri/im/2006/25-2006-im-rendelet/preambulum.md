@@ -1,0 +1,1 @@
+A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) 128. §-ának f) pontjában foglalt felhatalmazás alapján – az informatikai és a hírközlési miniszterrel, valamint a pénzügyminiszterrel egyetértésben – a következőket rendelem el:

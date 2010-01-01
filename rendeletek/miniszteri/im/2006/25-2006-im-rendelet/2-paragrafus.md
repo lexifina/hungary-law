@@ -1,0 +1,5 @@
+2. § (1) A Magyar Államkincstárnak az illeték, illetve a költségtérítés befizetéséről szóló, fokozott biztonságú elektronikus aláírással és az elektronikus aláírás hosszú távú érvényesítéséhez szükséges információkkal ellátott – külön-külön kiállított – igazolása tartalmazza az ügyazonosító számot, az illetékbevételi, illetve a költségtérítési számla számát, a befizetett illeték, illetve költségtérítés összegét, a kincstári jóváírás napját, az átutalást indító számlaszámot, valamint az átutalást indító számlatulajdonos nevét.
+
+(2) Az elektronikus igazolást az illeték, illetve a költségtérítés befizetésének igazolására vonatkozó kérelemben feltüntetett elektronikus levélcímre kell megküldeni, a kérelem érkezésétől számított egy munkanapon belül. Ha a kérelem érkezéséig a befizetés nem került jóváírásra, az igazolást a jóváírástól számított egy munkanapon belül kell kiadni.
+
+(3) A Magyar Államkincstár által megküldött, az illeték, illetve a költségtérítés megfizetésére vonatkozó elektronikus igazolást a cégbejegyzési (változásbejegyzési) kérelemhez mellékelni kell.
