@@ -1,0 +1,3 @@
+24. § (1) Ha a 3. § (1) bekezdésének a) pontja szerinti tevékenységet végző kamarai tag könyvvizsgáló megállapítja vagy tudomást szerez arról, hogy megbízója vagyonának jelentős mértékű csökkenése várható, illetve olyan tényt észlel, amely a legfőbb irányító (vezető) szerv vagy a felügyelő testület tagjainak jogszabályban meghatározott felelősségét vonja maga után, köteles kezdeményezni a megbízó legfőbb szervének összehívását.
+
+(2) Ha a megbízó a kamarai tag könyvvizsgáló kezdeményezésére a legfőbb szervét nem hívja össze, vagy a legfőbb szerv a jogszabályok által megkívánt döntéseket nem hozza meg, a kamarai tag könyvvizsgáló köteles erről a megbízó törvényességi felügyeletét ellátó szervet értesíteni.

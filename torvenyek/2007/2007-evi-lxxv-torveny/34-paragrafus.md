@@ -1,0 +1,13 @@
+## III. Fejezet
+
+## A KÖNYVVIZSGÁLÓ CÉG
+
+## Jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezése gazdálkodó szervezetnek (szervezetnek)
+
+34. § (1) Gazdálkodó szervezet (szervezet) a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet akkor végezhet, ha azt a kamara a 35. § alapján engedélyezte és arról igazolást adott [az engedéllyel és igazolással rendelkező gazdálkodó szervezet (szervezet) a továbbiakban: könyvvizsgáló cég].
+
+(2) Az (1) bekezdés szerinti igazolás tanúsítja a jogosultságot a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére.
+
+(3) Az engedélyezési eljárás tekintetében a kamara felvételi bizottsága jár el.
+
+(4) A kamara gondoskodik arról, hogy az érvényben lévő igazolások mintája a kamara honlapján folyamatosan és bárki számára szabadon megtekinthető legyen.

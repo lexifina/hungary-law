@@ -1,0 +1,1 @@
+123. § A kamara elnökének jogsértő döntése ellen a közlésétől számított 15 napon belül az elnökséghez fellebbezhet az a kamarai tag könyvvizsgáló, könyvvizsgáló cég, továbbá a kamarának az a területi szervezete, akit (amelyet) a döntés érint.

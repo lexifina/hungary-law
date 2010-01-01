@@ -1,0 +1,3 @@
+64. § (1) A kamarai tag könyvvizsgáló a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során nem utasítható és senki által nem befolyásolható.
+
+(2) A könyvvizsgáló cég, valamint a könyvvizsgáló cég kapcsolt vállalkozásai legfőbb szervének, legfőbb irányító (vezető) szervének és felügyelő testületének tagjai nem avatkozhatnak be olyan módon a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásába, amely veszélyezteti a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgáló függetlenségét és pártatlanságát.

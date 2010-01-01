@@ -1,0 +1,1 @@
+102. § Ha a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló vagy könyvvizsgáló cég elveszíti jogosultságát a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére a Magyar Köztársaság területén, akkor a könyvvizsgáló jelölt által a munkaviszony keretében végzett tevékenység a továbbiakban nem minősül könyvvizsgáló jelölti tevékenységnek.

@@ -1,0 +1,1 @@
+47. § A kamarai tag könyvvizsgáló, a könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység határidőre történő elvégzését akadályozó körülményt megbízójának a megbízási szerződésben vállalt határidő lejárta előtt legalább 30 nappal – ha az akadályozó körülmény később keletkezett, annak bekövetkeztétől számított 3 munkanapon belül – köteles bejelenteni.

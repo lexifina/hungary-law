@@ -1,0 +1,1 @@
+146. § A területi szervezetek vezetőit az illetékességi területhez tartozó kamarai tag könyvvizsgálók legalább 3, legfeljebb 5 évre választják. Megválasztásuk és visszahívásuk a kamara alapszabályában és választási szabályzatában meghatározott módon történik.

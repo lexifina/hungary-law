@@ -1,0 +1,1 @@
+25. § A 3. § (1) bekezdésének a) pontja szerinti tevékenységet végző kamarai tag könyvvizsgáló a megbízó legfőbb szervének a számviteli jogszabályok szerinti beszámolót tárgyaló ülésén köteles részt venni.

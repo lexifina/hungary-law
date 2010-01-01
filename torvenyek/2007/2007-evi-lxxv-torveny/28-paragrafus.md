@@ -1,0 +1,1 @@
+28. § A szüneteltetés időtartamára a könyvvizsgálói igazolványt átvételi elismervény ellenében be kell vonni, a kamarai tag könyvvizsgálók nyilvántartásában a könyvvizsgáló jogállásának változását be kell jegyezni.

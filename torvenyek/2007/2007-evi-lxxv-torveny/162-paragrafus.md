@@ -1,0 +1,1 @@
+162. § A minőségellenőröket az e feladatkörükben végzett tevékenységükért a bizottság szervezeti és működési szabályzatában meghatározott díjazás illeti meg. A díjakat a kamara pénzügyi tervében elkülönített Minőségbiztosítási Alap terhére kell elszámolni.

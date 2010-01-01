@@ -1,0 +1,1 @@
+99. § A könyvvizsgáló jelöltet olyan feladatok elvégzésével kell megbízni, amelynek során elsajátíthatja a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásához szükséges gyakorlati ismereteket.

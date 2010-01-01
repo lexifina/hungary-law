@@ -1,0 +1,1 @@
+223. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 46. §-ának (1) bekezdésében a „ha a Felügyelet az általa vezetett pénztári minősítésű könyvvizsgálók névjegyzékében a könyvvizsgálót határozatával nyilvántartásba vette” szövegrész helyébe a „ha a könyvvizsgáló rendelkezik pénztári minősítéssel” szövegrész lép.

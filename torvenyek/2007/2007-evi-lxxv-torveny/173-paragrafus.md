@@ -1,0 +1,1 @@
+173. § A bizottság évenként összefoglaló értékelést tartalmazó jelentést készít a tárgyévben lefolytatott minőségellenőrzések tapasztalatairól. A jelentést a tárgyévet követő év május 31-ig a kamara honlapján és a kamara lapjában nyilvánosságra kell hozni.

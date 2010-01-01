@@ -1,0 +1,1 @@
+57. § Az a kamarai tag könyvvizsgáló, aki közérdeklődésre számot tartó gazdálkodó tekintetében nem könyvvizsgáló cég nevében végez jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, a rá vonatkozó feltételek figyelembevételével köteles eleget tenni az 55. §-ban és az 56. §-ban meghatározott kötelezettségeknek.
