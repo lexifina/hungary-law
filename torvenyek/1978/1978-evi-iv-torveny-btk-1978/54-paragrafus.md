@@ -1,0 +1,19 @@
+54. § (1) A közügyektől eltiltott
+
+a) nem vehet részt népképviseleti szerv tagjainak választásában, népszavazásban és népi kezdeményezésben,
+
+b) nem lehet hivatalos személy,
+
+c) nem működhet népképviseleti szerv testületében (bizottságában),
+
+d) nem viselhet tisztséget társadalmi szervezetben, köztestületben, közalapítványban,
+
+e) nem érhet el katonai rendfokozatot,
+
+f) nem kaphat belföldi kitüntetést és külföldi kitüntetés elfogadására engedélyt.
+
+(2) A közügyektől eltiltott az ítélet jogerőre emelkedésével elveszti
+
+a) mindazon tagságát, állását, tisztségét, vagy megbízatását, amelynek elnyerését az (1) bekezdés kizárja,
+
+b) katonai rendfokozatát, továbbá belföldi kitüntetését és azt a jogát, hogy külföldi kitüntetést viselhessen.

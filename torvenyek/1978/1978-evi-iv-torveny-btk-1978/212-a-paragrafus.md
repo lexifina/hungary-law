@@ -1,0 +1,1 @@
+212/A. § Aki a bíróság által feloszlatott társadalmi szervezet vezetésében vesz részt, ha súlyosabb bűncselekmény nem valósul meg, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.

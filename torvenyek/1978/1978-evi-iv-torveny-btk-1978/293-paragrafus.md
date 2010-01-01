@@ -1,0 +1,1 @@
+293. § Aki a termék minőségének megállapítására vonatkozó szabályokat megszegi, és ezzel lehetővé teszi, hogy a terméket a valóságosnál jobb minőségűként értékesítsenek, adjanak használatba, illetőleg hozzanak forgalomba, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.

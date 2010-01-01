@@ -1,0 +1,5 @@
+57. § (1) A foglalkozástól eltiltás végleges hatályú vagy határozott ideig tart. Végleges hatállyal az tiltható el, aki a foglalkozás gyakorlására alkalmatlan, vagy arra méltatlan. A határozott ideig tartó eltiltás legrövidebb tartama egy év, leghosszabb tartama tíz év.
+
+(2) A közügyektől eltiltás tartamának számítására vonatkozó rendelkezést [55. § (2) bekezdés] foglalkozástól eltiltás esetében megfelelően alkalmazni kell.
+
+(3) Határozott ideig tartó eltiltás esetén a szakképzettséget igénylő foglalkozás újból való gyakorlása attól tehető függővé, hogy az eltiltott a foglalkozás gyakorlásához szükséges jártasságot az eltiltás tartamának letelte után meghatározott módon igazolja. A végleges hatályú eltiltás alól a bíróság az eltiltottat kérelemre mentesítheti, ha az eltiltás óta tíz év eltelt, és az eltiltott a foglalkozás gyakorlására alkalmas, illetőleg arra érdemes. Nem mentesíthető, aki a bűncselekményt bűnszervezetben követte el, és méltatlanság miatt a bíróság a foglalkozástól véglegesen eltiltotta.

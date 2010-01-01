@@ -1,0 +1,1 @@
+14. § Gondatlanságból követi el a bűncselekményt, aki előre látja magatartásának lehetséges következményeit, de könnyelműen bízik azok elmaradásában; úgyszintén az is, aki e következmények lehetőségét azért nem látja előre, mert a tőle elvárható figyelmet vagy körültekintést elmulasztja.

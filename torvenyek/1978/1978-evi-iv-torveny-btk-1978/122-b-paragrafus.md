@@ -1,0 +1,1 @@
+122/B. § A XX. fejezet szerint büntetendő az a katona is, aki az ott meghatározott bűncselekményt a szövetséges fegyveres erőkben teljesített szolgálata során, illetve az Egyesült Nemzetek vagy más nemzetközi szervezet felkérésére külföldi hadműveleti területen végzett humanitárius tevékenység, békefenntartás vagy humanitárius művelet keretében követi el.
