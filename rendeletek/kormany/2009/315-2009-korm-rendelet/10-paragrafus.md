@@ -1,0 +1,1 @@
+## 9. § A Kormány a megfelelőségértékelési tevékenységek engedélyezésére kijelölő hatóságként azt a minisztert jelöli ki, aki a termékre vonatkozó forgalmazási követelmény szabályozása tekintetében feladat- és hatáskörrel rendelkezik.
