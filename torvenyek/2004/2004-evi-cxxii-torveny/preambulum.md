@@ -1,0 +1,1 @@
+Az Országgyűlés a közszférában töltött életpálya elismerésének és méltó lezárásának lehetővé tétele, valamint a feladat-alapú közigazgatás megteremtéséhez való rugalmas alkalmazkodás biztosítása érdekében, továbbá a közszférán kívül a munka világából történő fokozatos távozás lehetőségének biztosítására a következő törvényt alkotja.
