@@ -1,1 +1,0 @@
-A szabálysértésekről szóló 1999. évi LXIX. törvény 167. § (1) és (7) bekezdésben kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § o) pontja szerinti feladatkörömben eljárva a következőket rendelem el:

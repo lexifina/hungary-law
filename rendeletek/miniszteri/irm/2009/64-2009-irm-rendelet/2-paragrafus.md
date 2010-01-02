@@ -1,3 +1,0 @@
-## 1. § A helyszíni bírságolás részletes szabályairól szóló 10/2000. (II. 23.) BM rendelet (a továbbiakban: R.) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A hatóság tagja a nyomtatvány egyik másolati példányát a fizetési számlára történő készpénzbefizetésre vonatkozó szelvényrésszel (a továbbiakban: csekkszelvény) együtt az elkövetőnek átadja. Az átadott csekkszelvény tartalmazza az elismervény sorszámát, a helyszíni bírság befizetését nyilvántartó szerv (a továbbiakban: nyilvántartó szerv) megnevezését, nemzetközi fizetési számlaszámát (IBAN), a nemzetközi banki azonosító (BIC) kódját és a kiszabott helyszíni bírság összegét.”
