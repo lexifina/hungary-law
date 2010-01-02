@@ -1,3 +1,5 @@
+## 38–39. §[^2]
+
 ## III. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
@@ -11,3 +13,5 @@
 (3) Tartós tőkeként kell az éves elemi költségvetési beszámoló könyvviteli mérlegben kimutatni az államháztartás szervezete eszközeinek forrásául szolgáló, 2010 január 1-jén meglévő induló tőke és a tőkeváltozás állományának pozitív összegét.
 
 (4) A 2009. december 31-jén meglévő forgatási célú értékpapírok és a rövid lejáratú likvid hitelek (ideértve a rövid lejáratú működési kötvénykibocsátásokat is) különbözetének összegét át kell vezetni a saját tőke tőkeváltozások mérlegsorából a tartalékok megfelelő mérlegsorába.
+
+[^2]: A 38–39. §-t a 41. § (2) bekezdése hatályon kívül helyezte.

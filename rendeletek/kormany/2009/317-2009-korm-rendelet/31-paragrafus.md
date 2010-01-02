@@ -1,3 +1,0 @@
-## 30. § Az Áhsz. 46/A. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az államháztartás szervezetétől független könyvvizsgáló feladata az éves eredményszemléletű költségvetési beszámoló (a mérleg, az eredménykimutatás, a kiegészítő melléklet) és az üzleti jelentés valódiságának és szabályszerűségének felülvizsgálata, a számviteli törvény és e rendelet, valamint az alapító okirat előírásai betartásának ellenőrzése, és ennek alapján az éves eredményszemléletű költségvetési beszámolóról a könyvvizsgáló állásfoglalását tükröző vélemény kialakítása, a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentés elkészítése.”
