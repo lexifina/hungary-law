@@ -12,6 +12,6 @@ d) a torlatban, hordalékban előforduló ásványi nyersanyagok kutatása és k
 
 e) kiterjed továbbá az a)–d) pontban felsorolt tevékenységek gyakorlásához szükséges létesítményekre és berendezésekre.
 
-(3) A bányaüzemekben megvalósítandó biztonsági és egészségvédelmi követelmények minimális szintjét külön jogszabály[^1] állapítja meg. E rendelet melléklete a hatálya alá tartozó tevékenységek és létesítmények általános bányászati biztonsági követelményeit határozza meg.
+(3) A bányaüzemekben megvalósítandó biztonsági és egészségvédelmi követelmények minimális szintjét külön jogszabály[^2] állapítja meg. E rendelet melléklete a hatálya alá tartozó tevékenységek és létesítmények általános bányászati biztonsági követelményeit határozza meg.
 
-[^1]: A bányaüzemekben megvalósítandó biztonsági és egészségvédelmi követelmények minimális szintjéről szóló 4/2001. (II. 23.) GM rendelet.
+[^2]: A bányaüzemekben megvalósítandó biztonsági és egészségvédelmi követelmények minimális szintjéről szóló 4/2001. (II. 23.) GM rendelet.

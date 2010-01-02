@@ -64,7 +64,7 @@ A biztonságellenes állapot megszüntetésére tett azonnal végre nem hajthat�
 
 3.3. Ha valamely műszakban egyidejűleg kettő vagy több felügyeleti személy teljesít szolgálatot és a közvetlen bányászati felügyeletet nem a felelős műszaki vezető vagy helyettese gyakorolja, akkor a bánya egészére kiterjedő hatáskörrel rendelkező bányászati felügyeleti személyt kell megbízni.
 
-3.4. Bányászati felügyeleti személyként az a legalább középfokú, szakirányú iskolai végzettséggel[^2], és legalább egyéves bányászati gyakorlattal rendelkező személy bízható meg, aki a feladatkörét érintő munkavédelmi és műszaki-biztonsági előírások ismeretéből a bányakapitányság előtt vizsgát tett.
+3.4. Bányászati felügyeleti személyként az a legalább középfokú, szakirányú iskolai végzettséggel[^3], és legalább egyéves bányászati gyakorlattal rendelkező személy bízható meg, aki a feladatkörét érintő munkavédelmi és műszaki-biztonsági előírások ismeretéből a bányakapitányság előtt vizsgát tett.
 
 3.5. Ha a bányában a beépített (szerződött) villamos teljesítmény 500 kVA-nál nagyobb, a villamos berendezések és tevékenység felügyeletével, külön jogszabályban meghatározott képzettségű és gyakorlatú villamos felügyeleti személyt kell megbízni.
 
@@ -72,7 +72,7 @@ A biztonságellenes állapot megszüntetésére tett azonnal végre nem hajthat�
 
 3.7. Ha a bányában üzemeltetett gépek összteljesítménye 200 kW-nál nagyobb, akkor a gépészeti munkák felügyeletével gépészeti felügyeleti személyt kell megbízni.
 
-3.8. Gépészeti felügyeleti személyként az a legalább középfokú szakirányú iskolai végzettséggel[^3], és legalább egyéves bányászati gyakorlattal rendelkező személy bízható meg, aki a feladatkörét érintő munkavédelmi és műszaki-biztonsági előírások ismeretéből a bányakapitányság előtt vizsgát tett.
+3.8. Gépészeti felügyeleti személyként az a legalább középfokú szakirányú iskolai végzettséggel[^4], és legalább egyéves bányászati gyakorlattal rendelkező személy bízható meg, aki a feladatkörét érintő munkavédelmi és műszaki-biztonsági előírások ismeretéből a bányakapitányság előtt vizsgát tett.
 
 3.9. A műszaki felügyeleti személy illetékességi területén felelős a megbízását érintő biztonsági előírások megtartásáért. A biztonsági követelmények teljesítéséről a szabályzat vonatkozó előírása, valamint az ellenőrzési rend szerint köteles meggyőződni.
 
@@ -84,7 +84,7 @@ A műszak folyamán ismételten ellenőriznie kell azt a munkahelyet, ahol azonn
 
 3.12. A munkahelyek közvetlen felügyeletét ellátó személyek kötelesek munkahelyi ellenőrzési naplót vezetni. A munkahelyi ellenőrzési naplóba be kell vezetni az ellenőrzés tényét és a biztonságellenes állapot megszüntetésére tett intézkedést. Az azonnal végre nem hajtható utasítás végrehajtásának megtörténtéről visszaellenőrzéssel meg kell győződni. Ennek tényét a munkahelyi naplóban rögzíteni kell.
 
-3.13. Ha a bányaművelet barlangot[^4], védett ásványtársulást vagy ősmaradványt tár fel, akkor a műszaki felügyelet köteles intézkedni a tevékenység felfüggesztésére a felelős műszaki vezető helyszínre érkezéséig.
+3.13. Ha a bányaművelet barlangot[^5], védett ásványtársulást vagy ősmaradványt tár fel, akkor a műszaki felügyelet köteles intézkedni a tevékenység felfüggesztésére a felelős műszaki vezető helyszínre érkezéséig.
 
 4. Ellenőrzési kötelezettségek
 
@@ -106,7 +106,7 @@ legalább egy alkalommal köteles ellenőrizni.
 
 5.1. A felügyeleti személyeknek megbízásukat megelőzően, majd ötévenként, illetőleg a biztonsági szabályok megváltozásától számított három hónapon belül a munkakörükre vonatkozó munkavédelmi és műszaki-biztonsági előírások ismeretéből a területileg illetékes bányakapitányság előtt vizsgát kell tenniük. Sikertelen vizsga esetén a vizsgát egy hónapon belül meg kell ismételni. Az ismételt vizsga sikertelensége esetén a felügyeleti megbízás nem adható, illetőleg a megbízást vissza kell vonni.
 
-5.1.1. A vizsgabizottság elnökét a bányakapitányság jelöli ki. A vizsgáztatásért vizsgadíjat kell fizetni. A díjat a szakmai vizsgadíj és a vizsgáztatási díjak kereteiről szóló jogszabály[^5] szerint a vizsgát szervező intézmény vezetője és a vizsgabizottság elnöke, illetve tagjai között esetenként létrejött, a vizsgáztatási feladatok ellátására és a vizsgáztatási díjakra vonatkozó írásbeli megállapodás határozza meg.
+5.1.1. A vizsgabizottság elnökét a bányakapitányság jelöli ki. A vizsgáztatásért vizsgadíjat kell fizetni. A díjat a szakmai vizsgadíj és a vizsgáztatási díjak kereteiről szóló jogszabály[^6] szerint a vizsgát szervező intézmény vezetője és a vizsgabizottság elnöke, illetve tagjai között esetenként létrejött, a vizsgáztatási feladatok ellátására és a vizsgáztatási díjakra vonatkozó írásbeli megállapodás határozza meg.
 
 5.2. A munkáltatónak oktatás keretében gondoskodnia kell arról, hogy a bányában újonnan alkalmazott vagy az új munkakörbe beosztott munkavállalók munkába álláskor megismerjék a rájuk vonatkozó munkavédelmi, műszaki-biztonsági és az alapvető elsősegély-nyújtási követelményeket.
 
@@ -120,7 +120,7 @@ legalább egy alkalommal köteles ellenőrizni.
 
 5.3.2. A bányabiztonsági tanfolyam tananyagát, tantervét, óraszámát és előadóit a területileg illetékes bányakapitánysággal egyetértésben kell meghatározni. Az egyes tanfolyamok kezdetének időpontjáról, a tanfolyam helyéről és időtartamáról és a hallgatók létszámáról a bányakapitányságot legalább 14 nappal a tanfolyam indítása előtt írásban tájékoztatni kell.
 
-5.3.3. A bányabiztonsági tanfolyam tananyagából vizsgát kell tenni. A vizsgabizottság elnökét a bányakapitányság jelöli ki. A vizsgáztatásért vizsgadíjat kell fizetni. A díjat a szakmai vizsgadíj és a vizsgáztatási díjak kereteiről szóló jogszabály[^6] szerint a vizsgát szervező intézmény vezetője és a vizsgabizottság elnöke, illetve tagjai között esetenként létrejött, a vizsgáztatási feladatok ellátására és a vizsgáztatási díjakra vonatkozó írásbeli megállapodás határozza meg.
+5.3.3. A bányabiztonsági tanfolyam tananyagából vizsgát kell tenni. A vizsgabizottság elnökét a bányakapitányság jelöli ki. A vizsgáztatásért vizsgadíjat kell fizetni. A díjat a szakmai vizsgadíj és a vizsgáztatási díjak kereteiről szóló jogszabály[^7] szerint a vizsgát szervező intézmény vezetője és a vizsgabizottság elnöke, illetve tagjai között esetenként létrejött, a vizsgáztatási feladatok ellátására és a vizsgáztatási díjakra vonatkozó írásbeli megállapodás határozza meg.
 
 5.3.4. Ha a dolgozó a bányabiztonsági tanfolyamon figyelmeztetés ellenére saját hibájából nem vesz részt, illetőleg az előírt vizsgát nem teszi le, a munkakörében történő további munkavégzéstől el kell tiltani.
 
@@ -210,19 +210,19 @@ A kotrási munkálatok során fokozott figyelmet kell fordítani a szennyező an
 
 7.16. Az úszó munkagép a száraz partszakaszt csak annyira közelítheti meg, hogy a partfal megcsúszása, omlása ne veszélyeztesse.
 
-7.17. Úszó munkagépen, berendezésen történő munkavégzés során a vonatkozó jogszabály[^7] előírásait és a munkagép engedélyében foglaltakat is be kell tartani.
+7.17. Úszó munkagépen, berendezésen történő munkavégzés során a vonatkozó jogszabály[^8] előírásait és a munkagép engedélyében foglaltakat is be kell tartani.
 
-7.18. A robbantási tevékenységre és az alkalmazandó robbantóanyagokra a vonatkozó külön jogszabályok[^8] előírását kell betartani.
+7.18. A robbantási tevékenységre és az alkalmazandó robbantóanyagokra a vonatkozó külön jogszabályok[^9] előírását kell betartani.
 
 7.19. A kitermelést követően a bányatérséget olyan állapotban szabad felhagyni, hogy az az emberi életre és a környezetre veszélyt ne jelentsen.
 
-7.20. Az alkalmazott technológia, a berendezések, munkagépek, szállítójárművek üzemeltetése során fokozott figyelmet kell fordítani a környezet védelmére, a tevékenység úgy végezhető, hogy ne okozza – külön jogszabály[^9] szerinti – kockázatos anyag földtani közegbe, illetve felszín alatti vízbe történő közvetett vagy közvetlen bevezetését.
+7.20. Az alkalmazott technológia, a berendezések, munkagépek, szállítójárművek üzemeltetése során fokozott figyelmet kell fordítani a környezet védelmére, a tevékenység úgy végezhető, hogy ne okozza – külön jogszabály[^10] szerinti – kockázatos anyag földtani közegbe, illetve felszín alatti vízbe történő közvetett vagy közvetlen bevezetését.
 
 8. Meddőhányók kialakítása, üzemeltetése, megszüntetése
 
-8.1. Meddőhányót úgy kell megtervezni és telepíteni, hogy az a külön jogszabályokra[^10] is figyelemmel biztosítsa a termőföld humuszos rétege, a földtani közeg, a felszíni és felszín alatti vizek védelmét, a szél vagy csapadékvíz által elhordott anyaga, égése vagy megcsúszása az élet- és vagyonbiztonságot, valamint a természeti elemeket ne veszélyeztesse.
+8.1. Meddőhányót úgy kell megtervezni és telepíteni, hogy az a külön jogszabályokra[^11] is figyelemmel biztosítsa a termőföld humuszos rétege, a földtani közeg, a felszíni és felszín alatti vizek védelmét, a szél vagy csapadékvíz által elhordott anyaga, égése vagy megcsúszása az élet- és vagyonbiztonságot, valamint a természeti elemeket ne veszélyeztesse.
 
-8.2. Meddőhányót külön jogszabály[^11] szerinti szakértő szakvéleménye alapján készített műszaki terv szerint szabad kiképezni. A tervben meg kell adni a meddőhányó megengedhető legnagyobb szintmagasságát és a rézsűjének dőlésszögét, valamint többlépcsős hányó esetén a legkisebb szintszélesség méretét.
+8.2. Meddőhányót külön jogszabály[^12] szerinti szakértő szakvéleménye alapján készített műszaki terv szerint szabad kiképezni. A tervben meg kell adni a meddőhányó megengedhető legnagyobb szintmagasságát és a rézsűjének dőlésszögét, valamint többlépcsős hányó esetén a legkisebb szintszélesség méretét.
 
 8.3. Többszintes hányó generálrézsűjének megengedett dőlésszögét szakértő vizsgálata (szakvéleménye) alapján kell meghatározni.
 
@@ -256,9 +256,9 @@ Tilos mozgásban lévő járműre, mozdonyra vagy munkagépre fel-, illetve arr�
 
 9.4. Azon oldaldarus emelőgépeket, amelyeknél a gémszerkezet akaratlan lezuhanását kilincsművel akadályozzák meg, el kell látni olyan jelzőberendezéssel, amely a kilincsmű kiiktatásakor automatikusan jól látható fény-, és jól hallható hangjelzést ad.
 
-9.5. Az anyagmozgatás és az anyagtárolás, továbbá e szabályzatban nem érintett szállítási módok és berendezések alkalmazása során a vonatkozó jogszabály[^12] előírásait kell betartani.
+9.5. Az anyagmozgatás és az anyagtárolás, továbbá e szabályzatban nem érintett szállítási módok és berendezések alkalmazása során a vonatkozó jogszabály[^13] előírásait kell betartani.
 
-9.6. Gépjárművel, illetve mozdonnyal történő szállítás irányításánál külön jogszabály[^13] szerinti kéz-, hang- vagy fényjelzéseket kell alkalmazni. Amennyiben a jelzésrendről jogszabály nem rendelkezik (pl. síp-, zászló- vagy fényjelzés esetén) a jelzés rendjét és eszközeit üzemi utasításban kell szabályozni.
+9.6. Gépjárművel, illetve mozdonnyal történő szállítás irányításánál külön jogszabály[^14] szerinti kéz-, hang- vagy fényjelzéseket kell alkalmazni. Amennyiben a jelzésrendről jogszabály nem rendelkezik (pl. síp-, zászló- vagy fényjelzés esetén) a jelzés rendjét és eszközeit üzemi utasításban kell szabályozni.
 
 9.7. A bunkerben történő anyagtárolás szabályai
 
@@ -296,9 +296,9 @@ e) Szerelői ellenőrzés: a gép, villamos berendezés alapvető hibáinak kimu
 
 10.3. Kialakítás, telepítés, szerelés és használatbavétel
 
-10.3.1. A külön jogszabály[^14] alapján a bányafelügyelet építési és használatbavételi engedélyéhez kötött létesítmény építését a kiadott engedély birtokában, egyéb létesítmény, gép és villamos berendezés esetén a bányavállalkozó által jóváhagyott terv alapján szabad megkezdeni.
+10.3.1. A külön jogszabály[^15] alapján a bányafelügyelet építési és használatbavételi engedélyéhez kötött létesítmény építését a kiadott engedély birtokában, egyéb létesítmény, gép és villamos berendezés esetén a bányavállalkozó által jóváhagyott terv alapján szabad megkezdeni.
 
-10.3.2. Bányában csak olyan gépet, villamos berendezést, illetve villamos szerkezetet szabad használatba venni és üzemeltetni, amely kielégíti az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit, és megfelelőségének a vonatkozó jogszabályok[^15] szerinti tanúsítására kiadott dokumentumok a bányavállalkozó rendelkezésére állnak. A gép és a villamos berendezés, illetve a villamos szerkezet megfelelőségét igazoló dokumentumokat a bányavállalkozónak meg kell őriznie.
+10.3.2. Bányában csak olyan gépet, villamos berendezést, illetve villamos szerkezetet szabad használatba venni és üzemeltetni, amely kielégíti az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit, és megfelelőségének a vonatkozó jogszabályok[^16] szerinti tanúsítására kiadott dokumentumok a bányavállalkozó rendelkezésére állnak. A gép és a villamos berendezés, illetve a villamos szerkezet megfelelőségét igazoló dokumentumokat a bányavállalkozónak meg kell őriznie.
 
 10.3.3. A közúti forgalomban részt nem vevő, bányában üzemelő gépjárművet és munkagépet legalább a következő felszereléssel kell ellátni:
 
@@ -334,7 +334,7 @@ e) A nagyteljesítményű szállítószalagot minden kezelőhelyén, mindkét v�
 
 10.3.5. Gépet és villamos berendezést, illetve villamos szerkezetet első alkalommal üzembe helyezni csak a bányavállalkozó írásbeli engedélyével szabad. Az engedélyben azonosíthatóan fel kell sorolni a beépített anyagok és termékek, illetve villamos szerkezetek, valamint a gépek és villamos berendezések megfelelőségét igazoló dokumentumokat, valamint az elvégzett vizsgálatok bizonylatait. Az engedélyt a bányavállakozónak meg kell őriznie.
 
-10.3.6. Bányaüzemi célra szolgáló nyomástartó berendezést üzembe helyezni és üzemben tartani a külön jogszabály[^16] rendelkezéseinek betartásával lehet.
+10.3.6. Bányaüzemi célra szolgáló nyomástartó berendezést üzembe helyezni és üzemben tartani a külön jogszabály[^17] rendelkezéseinek betartásával lehet.
 
 10.4. Karbantartás, felülvizsgálat
 
@@ -406,7 +406,7 @@ c) a tűzoltóság részére a tűz oltására szolgáló felkészítés érdek�
 
 11.4. Létesítményi tűzoltóság
 
-11.4.1. A bányavállalkozónak a tevékenységével összefüggő tűzoltási feladatok ellátására a tűzszakasz alapterületének és a számított tűzterhelés nagyságának figyelembevételével a vonatkozó jogszabály[^17] szerinti létesítményi tűzoltóságot kell fenntartania, vagy a szolgálat biztosításáról más módon gondoskodnia. A létesítményi tűzoltóságot több gazdálkodó szervezet vagy más jogi személy közösen is létrehozhatja és fenntarthatja. A létesítményi tűzoltóság feladatainak ellátására a létesítésre kötelezettek megállapodást köthetnek egymással, illetőleg a települési önkormányzattal.
+11.4.1. A bányavállalkozónak a tevékenységével összefüggő tűzoltási feladatok ellátására a tűzszakasz alapterületének és a számított tűzterhelés nagyságának figyelembevételével a vonatkozó jogszabály[^18] szerinti létesítményi tűzoltóságot kell fenntartania, vagy a szolgálat biztosításáról más módon gondoskodnia. A létesítményi tűzoltóságot több gazdálkodó szervezet vagy más jogi személy közösen is létrehozhatja és fenntarthatja. A létesítményi tűzoltóság feladatainak ellátására a létesítésre kötelezettek megállapodást köthetnek egymással, illetőleg a települési önkormányzattal.
 
 11.4.2. A létesítményi tűzoltóság a bányaüzem szervezeti egységeként vagy gazdasági, illetve közhasznú társaságként is működhet.
 
@@ -434,7 +434,7 @@ c) a tűzoltóság részére a tűz oltására szolgáló felkészítés érdek�
 
 11.6.5. A bányavállalkozónak a fokozottan tűz- és robbanásveszélyes, a tűz- és robbanásveszélyes, valamint a tűzveszélyes tűzveszélyességi osztályba tartozó létesítményekben megfelelő szervezettel, tűzvédelmi szakképesítéssel rendelkező személlyel, illetőleg szolgáltatás igénybevételével kell gondoskodnia a tűzvédelem biztosításáról.
 
-11.6.6. Jogszabályban[^18] meghatározott foglalkozási ágakban és munkakörökben csak tűzvédelmi szakvizsgával rendelkező személy foglalkoztatható. A tűzvédelmi szakvizsgáztatást az adott foglalkozási ágra (munkakörre) képesítést adó oktatás (szaktanfolyam) keretében az oktatást végző köteles megszervezni.
+11.6.6. Jogszabályban[^19] meghatározott foglalkozási ágakban és munkakörökben csak tűzvédelmi szakvizsgával rendelkező személy foglalkoztatható. A tűzvédelmi szakvizsgáztatást az adott foglalkozási ágra (munkakörre) képesítést adó oktatás (szaktanfolyam) keretében az oktatást végző köteles megszervezni.
 
 11.6.7. A bányavállalkozó köteles gondoskodni a területén munkát végző személyek tűzvédelmi oktatásáról és rendszeres továbbképzéséről, valamint arról, hogy azok a munkakörükkel, tevékenységükkel kapcsolatos tűzvédelmi ismereteket a foglalkoztatásuk megkezdése előtt elsajátítsák, a tűz esetén végzendő feladataikat megismerjék. Azt a személyt, aki a tevékenységéhez szükséges tűzvédelmi ismeretekkel, illetőleg az előírt tűzvédelmi szakvizsgával nem rendelkezik, az adott tevékenység végzésétől el kell tiltani.
 
@@ -448,68 +448,23 @@ c) a tűzoltóság részére a tűz oltására szolgáló felkészítés érdek�
 
 11.7.4. A tűzoltásvezető a tűz által veszélyeztetett és a tűz oltásához szükséges területen minden tevékenységet korlátozhat, megtilthat, elrendelheti az illetéktelen vagy a veszélyeztetett személyek, valamint az anyagi javak eltávolítását, a terület kiürítését.
 
-Függelék
+Függelék[^20]
 
-a Külszíni bányászati tevékenységek Bányabiztonsági Szabályzatához
-
-1. Bányászati felügyelet tekintetében középfokú szakirányú iskolai végzettségnek minősül
-
-– a bányaipari aknász-technikusi,
-
-– a geológus-geofizikus technikusi,
-
-– a mélyépítő technikusi,
-
-– a bányagépész-technikusi,
-
-– az erdész-technikusi,
-
-– a földmérő és térinformatikai technikusi,
-
-– a környezet- és vízgazdálkodási technikusi,
-
-– a közlekedésépítő, útépítő technikusi, valamint
-
-– a technikus képzés szüneteltetésének időszakában az előbb felsorolt szakirányú
-
-szakközépiskolai végzettség.
-
-2. Gépészeti felügyeleti személyek tekintetében középfokú szakirányú iskolai végzettségnek minősül
-
-– az anyagmozgató építőgépész-technikusi,
-
-– az anyagmozgató gépészeti technikusi,
-
-– a bányagépész-technikusi,
-
-– a gépésztechnikusi,
-
-– a gépgyártás-technológus technikusi,
-
-– a közlekedésgépészeti technikusi, közútijármű-gépész,
-
-– a mechatronikai technikusi,
-
-– a mezőgazdasági gépésztechnikusi, valamint
-
-– a technikus képzés szüneteltetésének időszakában az előbb felsorolt szakirányú
-
-szakközépiskolai végzettség.
-
-[^2]: A Szabályzat alkalmazása tekintetében a középfokú szakirányú iskolai végzettségeket a függelék tartalmazza.
-[^3]: Lásd 1. számú lábjegyzet.
-[^4]: A barlang fogalmát, valamint az azzal kapcsolatos intézkedéseket a természet védelméről szóló 1996. évi LIII. törvény határozza meg.
-[^5]: A szakmai vizsgadíj és a vizsgáztatási díjak kereteiről szóló 1/2001. (I. 16.) OM rendelet.
-[^6]: Lásd 5. számú lábjegyzet.
-[^7]: A Vízügyi Biztonsági Szabályzat kiadásáról szóló 19/1995. (XII. 7.) KHVM rendelet.
-[^8]: A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 191/2002. (IX. 4.) Korm. rendelet.
-[^9]: A felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról szóló 33/2000. (III. 17.) Korm. rendelet.
-[^10]: A termőföldről szóló 1994. évi LV. törvény, illetve a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról szóló 33/2000. (III. 17.) Korm. rendelet.
-[^11]: Az ipari szakterületek körébe tartozó, továbbá egyes épületnek nem minősülő építményekre (sajátos építményfajtákra) vonatkozó önálló műszaki szakértői tevékenység végzésének feltételeiről szóló 39/1999. (VII. 6.) GM rendelet 1. számú melléklet G–A – 2. pont.
-[^12]: A Közlekedési baleset-elhárító és egészségvédő óvórendszabály IV. Anyagmozgatás, anyagtárolás című fejezetének kiadásáról szóló 2/1972. (MK 6.) KPM rendelet.
-[^13]: A munkahelyen alkalmazandó biztonsági és egészségvédelmi jelzésekről szóló 2/1998. (I. 16.) MüM rendelet.
-[^14]: A bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó egyes építésügyi hatósági eljárások szabályairól szóló GKM rendelet.
-[^15]: A gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 21/1998. (IV. 17.) IKIM rendelet.
-[^16]: A bányafelügyelet hatáskörébe tartozó nyomástartó berendezések hatósági felügyeletéről szóló GKM rendelet.
-[^17]: A létesítményi tűzoltóságokra vonatkozó részletes szabályokról szóló 118/1996. (VII. 24.) Korm. rendelet.
-[^18]: A tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról és munkakörökről szóló 32/1997. (V. 9.) BM rendelet.
+[^3]: A Szabályzat alkalmazása tekintetében a középfokú szakirányú iskolai végzettségeket a függelék tartalmazza.
+[^4]: Lásd 1. számú lábjegyzet.
+[^5]: A barlang fogalmát, valamint az azzal kapcsolatos intézkedéseket a természet védelméről szóló 1996. évi LIII. törvény határozza meg.
+[^6]: A szakmai vizsgadíj és a vizsgáztatási díjak kereteiről szóló 1/2001. (I. 16.) OM rendelet.
+[^7]: Lásd 5. számú lábjegyzet.
+[^8]: A Vízügyi Biztonsági Szabályzat kiadásáról szóló 19/1995. (XII. 7.) KHVM rendelet.
+[^9]: A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 191/2002. (IX. 4.) Korm. rendelet.
+[^10]: A felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról szóló 33/2000. (III. 17.) Korm. rendelet.
+[^11]: A termőföldről szóló 1994. évi LV. törvény, illetve a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról szóló 33/2000. (III. 17.) Korm. rendelet.
+[^12]: Az ipari szakterületek körébe tartozó, továbbá egyes épületnek nem minősülő építményekre (sajátos építményfajtákra) vonatkozó önálló műszaki szakértői tevékenység végzésének feltételeiről szóló 39/1999. (VII. 6.) GM rendelet 1. számú melléklet G–A – 2. pont.
+[^13]: A Közlekedési baleset-elhárító és egészségvédő óvórendszabály IV. Anyagmozgatás, anyagtárolás című fejezetének kiadásáról szóló 2/1972. (MK 6.) KPM rendelet.
+[^14]: A munkahelyen alkalmazandó biztonsági és egészségvédelmi jelzésekről szóló 2/1998. (I. 16.) MüM rendelet.
+[^15]: A bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó egyes építésügyi hatósági eljárások szabályairól szóló GKM rendelet.
+[^16]: A gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 21/1998. (IV. 17.) IKIM rendelet.
+[^17]: A bányafelügyelet hatáskörébe tartozó nyomástartó berendezések hatósági felügyeletéről szóló GKM rendelet.
+[^18]: A létesítményi tűzoltóságokra vonatkozó részletes szabályokról szóló 118/1996. (VII. 24.) Korm. rendelet.
+[^19]: A tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról és munkakörökről szóló 32/1997. (V. 9.) BM rendelet.
+[^20]: A Bányabiztonsági Szabályzat függelékét a 60/2009. (XI. 3.) KHEM rendelet 4. § (3) bekezdésének a) pontja hatályon kívül helyezte. A 2010. január 2. napján az e módosító rendelet szerinti jelentős munkakört betöltő munkavállaló – figyelemmel a 4. § (2) bekezdésére – munkakörében változatlan feltételekkel tovább foglalkoztatható.
