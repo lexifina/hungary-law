@@ -1,3 +1,0 @@
-## 26. § Hatályát veszti közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 17/A. § (1) és (3) bekezdésében, 21. § (9) bekezdésében és 88/A. § (2) bekezdésében az „illetékes” szövegrész, 31. § (3) bekezdés d) pontjában az „arra illetékes” szövegrész, 31. § (8) bekezdésében a „határozatában” szövegrész, 43. § (1) bekezdésében, 84. § (8) bekezdésében és 84/A. § (2) bekezdésében a „határozattal” szövegrész, 87. § (3) bekezdésében a „határozatban” szövegrész.
-
-## Az úti okmányok központi nyilvántartásából teljesített adatszolgáltatás igazgatási szolgáltatási díjáról szóló 15/2001. (VII. 5.) BM rendelet módosítása

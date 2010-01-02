@@ -1,1 +1,0 @@
-## A polgári eljárásra vonatkozóan az 1954. évi március hó 1. napján, Hágában kelt nemzetközi egyezmény kihirdetéséről szóló 1966. évi 8. törvényerejű rendelet végrehajtásáról szóló 4/1966. (VI. 15.) IM rendelet módosítása

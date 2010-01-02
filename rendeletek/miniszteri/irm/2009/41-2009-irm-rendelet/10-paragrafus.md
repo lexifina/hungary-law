@@ -1,3 +1,0 @@
-## 9. § Hatályát veszti a vízi közlekedés rendőrhatósági igazgatásáról szóló 13/1996. (VI. 28.) BM rendelet 12/B. § a) pontja, 12/B. § d) pontjában a „nevét, anyja nevét,” szövegrész, a „ , foglalkozását, lakcímét és telefonszámát” szövegrész, 12/C. § c) pontja, 13. §-a, 15. § (3) bekezdésében az „az egyébként” szövegrész, 17. §-a, 18. §-ában az „ , egyidejűleg a vízi rendészeti és a vízi közlekedéssel kapcsolatos rendőri feladatok ellátásáról szóló 7/1978. (XII. 22.) BM rendelet, továbbá az azt módosító 2/1983. (II. 1.) BM rendelet, valamint a 2/1985. (V. 11.) BM rendelet hatályát veszti” szövegrész.
-
-## A büntetés-végrehajtási szervezet hivatásos állományú tagjai nyugellátásának eljárási rendjéről szóló 16/1997. (IV. 22.) IM rendelet módosítása
