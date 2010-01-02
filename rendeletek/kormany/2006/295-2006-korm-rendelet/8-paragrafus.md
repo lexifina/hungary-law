@@ -6,13 +6,13 @@
 
 (3) A felügyelő elsőfokú hatósági jogkörében a Met. 3. §-a alá tartozó ellenőrzési tárgykörökben ellátja a munkaügyi hatóságnak a Met. 4. §-ában, 5. §-a (2) bekezdésében, valamint 6–7. §-ában meghatározott munkaügyi hatósági feladatait, továbbá a Met. 1. §-ának (5) bekezdésében meghatározott feladatot.
 
-(4)[^14] A munkaügyi felügyelő a munkaügyi hatóság illetékességi területén valamennyi munkahelyen ellenőrzést tarthat, függetlenül a foglalkoztató székhelyétől és telephelyétől.
+(4)[^18] A munkaügyi felügyelő a munkaügyi hatóság illetékességi területén valamennyi munkahelyen ellenőrzést tarthat, függetlenül a foglalkoztató székhelyétől és telephelyétől.
 
-(5)[^15] Munkaügyi bírság kiszabására, valamint a Met. 7. § (8) bekezdése szerinti határozat meghozatalára első fokon annak a munkaügyi felügyelőségnek az igazgatója jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
+(5)[^19] Munkaügyi bírság kiszabására, valamint a Met. 7. § (8) bekezdése szerinti határozat meghozatalára első fokon annak a munkaügyi felügyelőségnek az igazgatója jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
 
-(6)[^16] A munkaügyi felügyelő a területi munkaügyi felügyelőség illetékességi területén kívül, valamint az OMMF köztisztviselője a Magyar Köztársaság egész területén az OMMF elnöke által kiállított megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján indult eljárás lefolytatására az a munkaügyi felügyelőség jogosult, amelynek illetékességi területén az ellenőrzés történt.
+(6)[^20] A munkaügyi felügyelő a területi munkaügyi felügyelőség illetékességi területén kívül, valamint az OMMF köztisztviselője a Magyar Köztársaság egész területén az OMMF elnöke által kiállított megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján indult eljárás lefolytatására az a munkaügyi felügyelőség jogosult, amelynek illetékességi területén az ellenőrzés történt.
 
-(7)[^17] Munkaügyi hatósági ügyben a fellebbezés elbírálására jogosult hatóságnak minősül
+(7)[^21] Munkaügyi hatósági ügyben a fellebbezés elbírálására jogosult hatóságnak minősül
 
 a) a munkaügyi felügyelő eljárása tekintetében az OMMF;
 
@@ -20,10 +20,10 @@ b) a munkaügyi felügyelőség vezetője vonatkozásában az OMMF elnöke;
 
 c) az OMMF és elnöke tekintetében a miniszter.
 
-(8)[^18] Munkaügyi hatósági ügyben az OMMF eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(8)[^22] Munkaügyi hatósági ügyben az OMMF eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
-[^14]: A 8. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 500. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A 8. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 500. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^16]: A 8. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 500. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^17]: A 8. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 500. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^18]: A 8. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 500. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 8. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 500. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^19]: A 8. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 500. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 8. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 500. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^21]: A 8. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 500. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 8. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 500. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
