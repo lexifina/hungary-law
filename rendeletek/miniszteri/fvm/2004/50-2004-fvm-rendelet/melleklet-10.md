@@ -52,7 +52,7 @@
 
 | Solanum melongena | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában -Aleyrodidae -Aphididae -Hemitarsonemus latus -Leptinotarsa decemlineata -Meloidogyne spp. -Tetranychidae -Thysanoptera, de különösen Frankliniella occidentalis Gombák -Fusarium spp. -Leveillula taurica f.sp. cynarae -Rhizoctonia solani -Pythium spp. -Sclerotinia sclerotiorum -Verticillium spp. Vírusok és vírusszerű szervezetek Valamennyi, de különösen a Cucumber mosaic virus, az Eggplant mosaic virus, a Potato virus Y, és a Tobacco mosaic virus |
 
-10. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^171]
+10. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^174]
 
 | Mezőgazdasági Szakigazgatási Hivatal KözpontNövénytermesztési és Kertészeti Igazgatóság 1024 Budapest, Keleti Károly u. 24. 1525 Budapest 114. Pf. 30 | Oldal: ............. |
 
@@ -94,4 +94,4 @@ a szerződéses termeltetés keretében előállított dughagyma és fokhagyma s
 
 Szaporítóanyag szemle időpontja: .................................... Ellenőrző felügyelő neve: ...........................................
 
-[^171]: A 10. számú mellékletet a 124/2007. (X. 20.) FVM rendelet 18. § (7) bekezdése iktatta be.
+[^174]: A 10. számú mellékletet a 124/2007. (X. 20.) FVM rendelet 18. § (7) bekezdése iktatta be.

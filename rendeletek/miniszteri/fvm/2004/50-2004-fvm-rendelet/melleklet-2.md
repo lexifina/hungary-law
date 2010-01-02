@@ -84,6 +84,6 @@
 
 | Zea mays L. convar. saccharata Koern | csemegekukorica |
 
-2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^165]
+2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^168]
 
-[^165]: A 2. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^168]: A 2. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (2) bekezdésével megállapított szöveg.

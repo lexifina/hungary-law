@@ -74,7 +74,7 @@
 
 | Zea mays L. (részben) | csemegekukorica, pattogatni való kukorica |
 
-3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^166]
+3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^169]
 
 ## A zöldségvetőmagvak minőségi feltételei
 
@@ -186,4 +186,4 @@ Bruchus rufimanus Boh.
 
 3.2.2. A vetőmag nem lehet élő Acarina által fertőzött.
 
-[^166]: A 3. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (3) bekezdése szerint módosított szöveg.
+[^169]: A 3. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (3) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-8. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^170]
+8. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^173]
 
 ## A zöldségvetőmag minták tömege
 
@@ -94,4 +94,4 @@ A vetőmag megengedett legnagyobb árutételének tömege nem léphető túl 5%-
 
 A fenti fajok F-1 hibrid fajtái esetében a minta előírt legkisebb tömege a megadott tömeg negyedére csökkenthető. A minta tömege azonban legalább 5 g kell legyen és legalább 400 vetőmagból kell álljon.
 
-[^170]: A 8. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (6) bekezdése szerint módosított szöveg.
+[^173]: A 8. számú melléklet a 124/2007. (X. 20.) FVM rendelet 18. § (6) bekezdése szerint módosított szöveg.

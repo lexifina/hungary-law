@@ -10,7 +10,7 @@ a) az alkalmazott termesztési módszer alapján megállapítani a szaporítóan
 
 b) kidolgozni és kivitelezni az a) pont szerinti kritikus pontok megfigyelési és ellenőrzési módszereit, valamint
 
-c)[^142] mintát venni és azt az MgSzH Központja által megbízott laboratóriumban való vizsgálat céljára elküldeni.
+c)[^144] mintát venni és azt az MgSzH Központja által megbízott laboratóriumban való vizsgálat céljára elküldeni.
 
 (3) Az üzem köteles írásos vagy más eltávolíthatatlan módon készített naprakész feljegyzést vezetni
 
@@ -28,14 +28,14 @@ c) a területen előforduló károsítókról, a kár elhárítására tett int�
 
 (4) A kizárólag mások által előállított zöldségpalánta csomagolását és forgalomba hozatalát végző üzem írásos vagy más eltávolíthatatlan módon készített feljegyzést csak az általa vásárolt, szállított és forgalomba hozott termékekről köteles vezetni.
 
-(5)[^143] A (2)–(4) bekezdés szerinti feljegyzéseket az üzem köteles az MgSzH Központja ellenőrzéséig, de legalább három évig megőrizni, valamint ellenőrzésre az MgSzH Központjának bemutatni.
+(5)[^145] A (2)–(4) bekezdés szerinti feljegyzéseket az üzem köteles az MgSzH Központja ellenőrzéséig, de legalább három évig megőrizni, valamint ellenőrzésre az MgSzH Központjának bemutatni.
 
 (6) Amennyiben a látható jelek vagy tünetek alapján az állapítható meg, hogy a szaporítóanyag a minőséget hátrányosan befolyásoló károsítóktól nem mentes, az ilyen szaporítóanyag tekintetében az üzemnek kezelést kell alkalmaznia, szükség esetén a szaporítóanyagot el kell távolítania, illetve meg kell semmisítenie.
 
 (7) Ha az üzem területén a 9. számú mellékletben felsorolt, vizsgálatköteles vagy zárlati növényi károsítók valamelyikének nagy mértékű megjelenését vagy megjelenésének gyanúját észleli, köteles azt a szolgálatnak bejelenteni, és utasításait végrehajtani.
 
-(8)[^144] Az MgSzH Központja által megbízott személyek – különös tekintettel az ellenőrzés és a mintavétel végzésére, továbbá a (2)–(4) bekezdés szerinti nyilvántartás és egyéb bizonylatok ellenőrzésére – az üzem területére beléphetnek. Az üzem minden egyéb módon is köteles együttműködni az MgSzH Központjával.
+(8)[^146] Az MgSzH Központja által megbízott személyek – különös tekintettel az ellenőrzés és a mintavétel végzésére, továbbá a (2)–(4) bekezdés szerinti nyilvántartás és egyéb bizonylatok ellenőrzésére – az üzem területére beléphetnek. Az üzem minden egyéb módon is köteles együttműködni az MgSzH Központjával.
 
-[^142]: A 35. § (2) bekezdésének c) pontja a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének h) pontja szerint módosított szöveg.
-[^143]: A 35. § (5) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének h) pontja szerint módosított szöveg.
-[^144]: A 35. § (8) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének h) pontja szerint módosított szöveg.
+[^144]: A 35. § (2) bekezdésének c) pontja a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének h) pontja szerint módosított szöveg.
+[^145]: A 35. § (5) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének h) pontja szerint módosított szöveg.
+[^146]: A 35. § (8) bekezdése a 124/2007. (X. 20.) FVM rendelet 19. § (2) bekezdésének h) pontja szerint módosított szöveg.

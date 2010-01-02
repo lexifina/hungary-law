@@ -22,7 +22,7 @@ e)[^3] azokra a természetes és jogi személyekre, valamint jogi személyiség 
 
 tevékenységet,
 
-f) a minősítést végző Országos Mezőgazdasági Minősítő Intézetre (a továbbiakban: minősítő intézet) és egyéb természetes és jogi személyekre, valamint jogi személyiség nélküli gazdasági társaságokra, továbbá az ellenőrző és felügyeletet ellátó jogi személyekre.
+f)[^4] a minősítést végző Mezőgazdasági és Szakigazgatási Hivatal Központjára és területi szerveire (a továbbiakban együtt: MgSzH) és egyéb természetes és jogi személyekre, valamint jogi személyiség nélküli gazdasági társaságokra, továbbá az ellenőrző és felügyeletet ellátó jogi személyekre.
 
 (2) A rendelet hatálya nem terjed ki
 
@@ -36,14 +36,15 @@ d) a teljes mennyiségben harmadik országba irányuló kivitelre szánt zölds�
 
 e) a palánta saját felhasználására,
 
-f)[^4] a palánta nem árutermelők részére, hanem kiskerti felhasználás céljára történő értékesítésére, ha a forgalomba hozott palánta mennyisége üzemenként, telephelyenként nem haladja meg dughagyma esetében az évi 200 kg-t, fiókhagyma esetében a 100 kg-t, hajtatási fajtákból 10 000 db-ot, illetve mindösszesen a 150 000 db-ot,
+f)[^5] a palánta nem árutermelők részére, hanem kiskerti felhasználás céljára történő értékesítésére, ha a forgalomba hozott palánta mennyisége üzemenként, telephelyenként nem haladja meg dughagyma esetében az évi 200 kg-t, fiókhagyma esetében a 100 kg-t, hajtatási fajtákból 10 000 db-ot, illetve mindösszesen a 150 000 db-ot,
 
 g) a vetőmag előállításra és forgalomba hozatalra, ha az előállított és forgalomba hozott mennyiség nem haladja meg szemenkénti kiszerelés esetében a 10 000 szemet, súlyegységes kiszerelés esetén az ezermag tömeg 100-szorosát és a zöldség hibridek esetén az ezermag tömeget,
 
-h)[^5] a Nemzeti Fajtajegyzék B és C fejezeteiben felsorolt zöldségnövények, mint fajok vetőmagvainak, illetve palántáinak hazai előállítására és forgalomba hozatalára, amennyiben nem államilag elismert fajtát forgalmaznak.
+h)[^6] a Nemzeti Fajtajegyzék B és C fejezeteiben felsorolt zöldségnövények, mint fajok vetőmagvainak, illetve palántáinak hazai előállítására és forgalomba hozatalára, amennyiben nem államilag elismert fajtát forgalmaznak.
 
 [^1]: Az 1. § (1) bekezdésének a) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdésének b) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdésének e) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (2) bekezdésének f) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (2) bekezdésének h) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés f) pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdésének f) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (2) bekezdésének h) pontja a 124/2007. (X. 20.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
