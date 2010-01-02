@@ -2,6 +2,8 @@
 
 11. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
-(2) Hatályát veszti az integrált postaforgalomra vonatkozó egyes vámszabályokról szóló 21/2004. (IV. 21.) PM rendelet.
+(2)[^1]
 
 (3) A (2) bekezdés az e rendelet hatálybalépését követő napon hatályát veszti. E bekezdés az e rendelet hatálybalépését követő második napon hatályát veszti.
+
+[^1]: A 11. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
