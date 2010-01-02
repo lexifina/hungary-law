@@ -1,5 +1,0 @@
-8. § A Tt. 24. §-a a következő (3)–(4) bekezdéssel egészül ki:
-
-„(3) A közös képviselőnek (az intézőbizottság elnökének) a (2) bekezdés c) pontjában meghatározott feladatkörében a hátralékos tulajdonostárs részére – az ismert lakóhelyére, illetőleg levelezési címére – igazoltan, postai szolgáltató útján megküldött felszólítását kézbesítettnek kell tekinteni, ha azt a hátralékos tulajdonostárs a legalább két alkalommal megkísérelt kézbesítés ellenére nem vette át. A másodszor megkísérelt és átvétel nélkül, „nem kereste” jelzéssel a közös képviselőhöz (az intézőbizottság elnökéhez) visszaérkezett felszólítást, a postai kézbesítés második megkísérlésének napját követő nyolcadik munkanapon kézbesítettnek kell tekinteni (kézbesítési vélelem).
-
-(4) Ha az ismeretlen helyen tartózkodó hátralékos tulajdonostárs nyilvántartásba vett új lakó- vagy tartózkodási helyéről, székhelyéről, telephelyéről az illetékes jegyző, illetőleg a központi szerv adatot szolgáltat, a (3) bekezdés szerinti kézbesítési vélelem az új adat szerinti címre legalább két alkalommal megkísérelt és eredménytelen kézbesítés esetében áll be.”
