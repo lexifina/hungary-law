@@ -8,7 +8,7 @@
 
 (4)[^36]
 
-(5)[^37] E rendelet 8. §-ának (4) bekezdésében a „legalább húszmillió forint” szövegrész helyébe 2010. január 1-jén a „legalább harmincmillió forint” szövegrész lép. Ez a bekezdés 2010. január 2-án hatályát veszti.
+(5)[^37]
 
 (6) Az adatszolgáltatási kötelezettség teljesítése során a 2. melléklet 1., 5. és 6. táblázata szerinti adatokat első alkalommal 2010. évben, a 2. melléklet 2. táblázata szerinti adatokat első alkalommal 2011. évben, a 2. melléklet 3. és 4. táblázata szerinti adatokat első alkalommal 2012. évben kell benyújtani. Ez a bekezdés 2012. február 21-én hatályát veszti.
 
@@ -24,7 +24,7 @@
 
 [^35]: A 15. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
 [^36]: A 15. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^37]: A 15. § (5) bekezdése a 212/2009. (IX. 29.) Korm. rendelet 10. § (17) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^37]: A 15. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
 [^38]: A 15. § (7) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
 [^39]: A 15. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
 [^40]: A 15. § (9) bekezdése a 217/2008. (VIII. 29.) Korm. rendelet 14. § (5) bekezdés c) pontja szerint módosított szöveg.
