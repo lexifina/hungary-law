@@ -6,7 +6,7 @@
 
 a) az a vagyon, amelyet az adós állami vagyonkezelő szervezettel kötött szerződés alapján kezel;
 
-b) az állami tulajdonban álló erdő, továbbá jogszabályban meghatározott természetvédelmi oltalom alatt álló földterület (nemzeti park, fokozottan védett terület, nemzetközi egyezmény hatálya alá tartozó terület), külön jogszabályban meghatározott állami tulajdonban lévő műemlék, továbbá a vízgazdálkodási társulatok kezelésében lévő vizek, vízilétesítmények és a vízitársulatoknak a közfeladatok ellátásához szükséges elkülönített vagyona;
+b) az állami tulajdonban álló erdő, továbbá jogszabályban meghatározott természetvédelmi oltalom alatt álló földterület (nemzeti park, fokozottan védett terület, nemzetközi egyezmény hatálya alá tartozó terület), külön jogszabályban meghatározott állami tulajdonban lévő műemlék, továbbá a vízitársulatok tulajdonában, vagyonkezelésében, használatában lévő vizek, vízilétesítmények és a vízitársulatoknak a közfeladatok ellátásához szükséges elkülönített vagyona;
 
 c) a kárpótlás céljára elkülönített termőföld és a külön törvényben meghatározott földalap és a kárpótlási árverésre kijelöléssel nem érintett, illetve a kárpótlási árverésből visszamaradt földterület;
 
