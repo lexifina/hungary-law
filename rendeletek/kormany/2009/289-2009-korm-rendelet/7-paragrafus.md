@@ -1,1 +1,0 @@
-## „(16) Ha a „Korlátozott forgalmú övezet” jelzőtáblát (53/c. ábra) a „Lakott terület kezdete” (131–131/c. ábra) jelzőtáblával együtt helyezték el, a tilalom hatálya a teljes lakott területre kiterjed.”
