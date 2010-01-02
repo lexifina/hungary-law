@@ -1,0 +1,1 @@
+A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (4) bekezdés b) és c) pontjában kapott felhatalmazás alapján, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet 1. § f) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
