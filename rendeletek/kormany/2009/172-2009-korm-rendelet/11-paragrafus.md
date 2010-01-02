@@ -1,5 +1,0 @@
-## 10. § A TnyR. 88. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A nyilvántartó lap kiállítására kötelezett – a (2) bekezdésben foglalt kivétellel – a nyilvántartó lap adattartalmát az ONYF által rendszeresített számítógépes programmal állítja elő, és adatszolgáltatási kötelezettségét e számítógépes program felhasználásával, elektronikus úton teljesíti.
-
-## (2) A 87. § (1) bekezdés g) és i) pontja szerinti személyek, továbbá az öt főnél kevesebb biztosítottról adatot szolgáltató foglalkoztatók a nyilvántartó lap adattartalmát nem kötelesek az (1) bekezdés szerinti számítógépes programmal előállítani. Ha e személyek, illetve foglalkoztatók a nyilvántartó lap adattartalmát nem az (1) bekezdés szerinti számítógépes programmal állítják elő, az adatszolgáltatási kötelezettségüket – az ONYF által rendszeresített és a regionális nyugdíjbiztosítási igazgatóság által térítésmentesen rendelkezésre bocsátott – nyomtatványon vagy az adatoknak a regionális nyugdíjbiztosítási igazgatóságnál történő személyes bejelentésével teljesítik. A személyesen közölt adatokat a regionális nyugdíjbiztosítási igazgatóság rögzíti.”

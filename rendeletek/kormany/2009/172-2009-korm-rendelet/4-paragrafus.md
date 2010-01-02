@@ -1,3 +1,0 @@
-## 3. § A TnyR. 9/A. §-a helyébe a következő rendelkezés lép:
-
-## „9/A. § Az öregségi teljes, illetve résznyugdíj, az előrehozott öregségi nyugdíj és a csökkentett összegű előrehozott öregségi nyugdíj megállapítása során a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés e)–f) pontja szerinti jogviszonyban álló személy esetén a biztosítási jogviszony megszűnése napjának azt a napot megelőző naptári napot kell tekinteni, amelytől kezdődően a nyugellátást megállapítják.”

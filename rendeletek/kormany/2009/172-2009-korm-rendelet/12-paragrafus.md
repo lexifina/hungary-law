@@ -1,6 +1,4 @@
-## 11. § A TnyR. 89. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A nyilvántartó lapokról – az elektronikus úton teljesített adatszolgáltatás kivételével – két példányban jegyzéket kell készíteni, amely tartalmazza a nyilvántartásra kötelezett és a nyugdíjbiztosítási igazgatási szerv által a biztosított azonosítását szolgáló, törvény alapján kezelhető adatokat, valamint a nyilvántartó lap sorszámát.”
+## 1–11. §[^2]
 
 12. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivételekkel – 2009. október 1-jén lép hatályba.
 
@@ -15,3 +13,5 @@
 (6) A TnyR. 61. § a) pontjának és 62. § (1) bekezdés b) pontjának alkalmazása során a rehabilitációs szakértői szerv által e rendelet hatálybalépését megelőzően kiállított szakvélemény szakhatósági állásfoglalásnak minősül.
 
 (7) A TnyR. 87. § (1) bekezdésének 2009. december 31-én hatályos k) pontja szerinti személy az adatszolgáltatást 2009. december 31-ét követően a TnyR. 88. §-a e rendelettel megállapított (2) bekezdésének szabályai szerint is teljesítheti.
+
+[^2]: Az 1–11. §-t a 13. § (5) bekezdése hatályon kívül helyezte.
