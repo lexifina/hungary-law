@@ -14,4 +14,6 @@ e) azt, hogy az üzemben lévő nyomástartó berendezések rendelkeznek-e az el
 
 f) azt, hogy az üzemeltetési feltételek a használatbavételi engedélyben foglaltaknak megfelelnek-e.
 
-(2) A bányafelügyelet az ellenőrzéséről jegyzőkönyvet vesz fel és hiányosság megállapítása esetén ezek megszüntetésére intézkedni köteles.
+(2)[^62]
+
+[^62]: A 17. § (2) bekezdését a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés i) pontja hatályon kívül helyezte. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

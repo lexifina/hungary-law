@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-23-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-01 | 2006-23-20-22.3 | 23/2006. (II. 3.) Korm. rendelet |
+| 2010-01-02 | 2006-23-20-22.4 | 273/2009. (XII. 3.) Korm. rendelet |

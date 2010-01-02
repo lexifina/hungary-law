@@ -1,98 +1,6 @@
-## Nyomástartó berendezés nyilvántartásának tartalmi követelményei
-
-## A létesítmény helye (helyrajzi szám, irányítószám, település utca, házszám):
-
-## Üzemeltető neve, címe:
-
-## Tulajdonos neve, címe:
-
-## A berendezés adatai:
-
-## típusa, megnevezése:
-
-## a gyártó neve:
-
-## gyári száma:
-
-## gyártási éve:
-
-## a tanúsító (engedélyező) neve:
-
-## a tanúsítás (gyártási engedély) száma:
-
-## méretezési nyomása (bar):
-
-## próbanyomása:
-
-## méretezési hőmérséklete:
-
-## mértékadó hőmérséklete:
-
-## térfogata (liter):
-
-## veszélyességi kategóriája:
-
-## töltetének halmazállapota, veszélyességi csoportja:
-
-## a nyomástároló terek száma, nyomása, térfogata:
-
-## jellemző méretei (∅; DN; L):
-
-## – A nyomástartó berendezés engedélyezési adatai:
-
-## veszélyességi osztálya:
-
-## a felülvizsgálati ciklusidő:
-
-## a létesítési engedély száma, kelte:
-
-## a létesítést engedélyező szerv:
-
-## a használatbavételt megelőző vizsgálat dátuma:
-
-## a vizsgálatot végző szerv vagy személy megnevezése:
-
-## a használatbavételi engedély száma, kelte:
-
-## a használatot engedélyező szerv:
-
-## engedélyezési nyomása:
-
-## engedélyezési hőmérséklete:
-
-## a meg nem engedett túlnyomás elleni védelem módja:
-
-## helye:
-
-## a túlnyomás-határoló bizonylatának (gépkönyvének) száma:
-
-## típusa, gyári száma (üzemi nyilvántartás száma):
-
-## hitelesítése:
-
-## beállítási (nyitó) nyomása:
-
-## lefúvókapacitása:
-
-## – Az időszakos felülvizsgálat időpontja:
-
-## – Az időszakos felülvizsgálatot végző szerv vagy személy megnevezése:
-
-## – A használaton kívül helyezés dátuma:
-
-## oka:
-
-## időtartama:
-
-## – A selejtezés dátuma:
-
-## oka:
-
-## – Megjegyzések:
-
 4. számú melléklet a 23/2006. (II. 3.) Korm. rendelethez
 
-## A Magyar Bányászati és Földtani Hivatal által nyilvántartásba vett szervezetekre vonatkozó követelmények[^24]
+## A vizsgáló szervezetekre vonatkozó követelmények[^72]
 
 I. Személyi feltételek
 
@@ -100,11 +8,11 @@ I. Személyi feltételek
 
 2. A vizsgálatokat végzők feleljenek meg a rendelet 4. §-ában előírt feltételeknek.
 
-3. A szervezet vezetője és a vizsgálatokat végzők egyaránt rendelkezzenek a bányahatóság hatáskörébe tartozó nyomástartó berendezések vizsgálatára vonatkozó bizonyítvánnyal.
+3.[^73]
 
 II. Tárgyi feltételek
 
-1. A szervezet rendelkezzen a tevékenységi területre vonatkozó rendeletekkel, szabályzatokkal, szabványokkal és egyéb műszaki előírásokkal.
+1.[^74] A vizsgáló szervezetek nem lehetnek közvetlenül érintettek a rendelet hatálya alá tartozó és az általuk ellenőrzött termék tervezésében, gyártásában, forgalmazásában, szerelésében, üzemeltetésében és karbantartásában.
 
 2. A szervezet rendelkezzen továbbá az általa elvégzendő vizsgálatokra vonatkozó technológiai, műveleti utasításokkal, amelyek a megállapítások kiértékelését is tartalmazzák, azon túlmenően, hogy meghatározzák a végrehajtás módját (esetleg személyi), tárgyi követelményeit.
 
@@ -118,11 +26,15 @@ III. Szervezeti követelmények
 
 2. A külső vizsgáló szervezet legyen független az érintett felektől, ezáltal „harmadik fél” típusú ellenőrző szolgáltatást biztosítson.
 
-3. Az üzemeltetői ellenőrző szervezet az ellenőrzött terméket tervező, gyártó, forgalmazó, szerelő, üzemeltető vagy karbantartó szervezet különálló és szervezetileg azonosítható része legyen.
+3.[^75] Az üzemeltetői vizsgáló szervezet az ellenőrzött terméket tervező, gyártó, forgalmazó, szerelő, üzemeltető vagy karbantartó szervezet különálló és szervezetileg azonosítható része legyen.
 
-4. Az ellenőrzést és az egyéb tevékenységet végző személyzet felelőségét egyértelműen el kell választani, ezt az anyaszervezeten belül az ellenőrző szervezet jegyzőkönyvezési módszerével és szervezeti azonosításával kell megvalósítani.
+4.[^76] Az ellenőrzést és az egyéb tevékenységet végző személyzet felelőségét egyértelműen el kell választani, ezt az anyaszervezeten belül a vizsgáló szervezet jegyzőkönyvezési módszerével és szervezeti azonosításával kell megvalósítani.
 
-5.[^25] Az üzemeltetői ellenőrző szervezet csak annál az üzemeltető szervezetnél végezhet időszakos vizsgálatokat, amelyre az MBFH-nál nyilvántartásba vették. A szervezet nem támaszthat jogtalan, indokolatlan pénzügyi vagy egyéb feltételeket, és eljárásait megkülönböztetés nélkül köteles végezni.
+5.[^77] Az üzemeltetői vizsgáló szervezet más üzemeltető szervezetnél nem végezhet időszakos vizsgálatokat. A szervezet nem támaszthat indokolatlan pénzügyi vagy egyéb feltételeket, és eljárásait megkülönböztetés nélkül köteles végezni.
 
-[^24]: A 4. számú melléklet címe a 269/2006. (XII. 20.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^25]: A 4. számú melléklet III. részének 5. pontja a 269/2006. (XII. 20.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^72]: A 4. számú melléklet címe a 273/2009. (XII. 3.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^73]: A 4. számú melléklet I. pont 3. alpontját a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés l) pontja hatályon kívül helyezte. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^74]: A 4. számú melléklet II. pont 1. alpontja a 273/2009. (XII. 3.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+[^75]: A 4. számú melléklet III. pont 3. alpontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés k) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^76]: A 4. számú melléklet III. pont 4. alpontja a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés k) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^77]: A 4. számú melléklet III. pont 5. alpontja a 273/2009. (XII. 3.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.

@@ -1,21 +1,17 @@
-6. § (1)[^12] Törölni kell a nyilvántartásból, akinél a nyilvántartásba vételhez szükséges feltételek bármelyike utóbb megszűnt. Bármelyik feltétel megszűnéséről 8 napon belül a nyilvántartásba felvett személy köteles az MBFH-t értesíteni.
-
-(2) Törölni kell – az (1) bekezdésben foglaltakon kívül – a nyilvántartásból azt, aki
+6. §[^20] (1) Az engedélyét vissza kell vonni annak, és ezzel egyidejűleg törölni kell a nyilvántartásból azt, akinél az engedélyhez előírt feltételek bármelyike utóbb megszűnt, továbbá aki
 
 a) elhalálozott,
 
-b) a törlését kérte,
+b) azt kérte,
 
-c) nem kérte a jogosultság megújítását,
+c) akivel szemben a bányafelügyelet az egészséget vagy köz- és vagyonbiztonságot veszélyeztető állapot miatt két alkalommal szabálysértési eljárást folytatott le,
 
-d) akivel szemben a bányafelügyelet az egészséget vagy köz- és vagyonbiztonságot veszélyeztető állapot miatt két alkalommal szabálysértési eljárást folytatott le,
+d) hamis adatot szolgáltatott,
 
-e) hamis adatot szolgáltatott,
+e) a hatóságot egyéb módon megtévesztette,
 
-f) a hatóságot egyéb módon megtévesztette,
+f) akit e foglalkozástól eltiltottak.
 
-g) akit e foglalkozástól eltiltottak.
+(2) Akinek az (1) bekezdés c) pontjában írtak miatt az engedélyét visszavonták, az engedély visszavonásától számított 5 éven belül nem kaphat engedélyt.
 
-(3) Akit a (2) bekezdés d) pontjában írtak miatt a nyilvántartásból töröltek, a törlés időpontjától számított 5 éven belül a nyilvántartásba felvenni nem szabad.
-
-[^12]: A 6. § (1) bekezdése a 269/2006. (XII. 20.) Korm. rendelet 12. § (4) bekezdése szerint módosított szöveg.
+[^20]: A 6. § a 273/2009. (XII. 3.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

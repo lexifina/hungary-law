@@ -4,12 +4,21 @@
 
 14. § (1) A nyomástartó berendezést csak a létesítési és használatbavételi engedélyben meghatározott, továbbá a rendeltetésének megfelelő célra és a biztonsági előírások figyelembevételével szabad használni úgy, hogy az egészséget, az élet-, a tulajdon- és a közbiztonságot ne veszélyeztesse, illetve a legkisebb mértékű környezetterhelést és igénybevételt idézze elő.
 
-(2) A nyomástartó berendezést üzemeltető köteles a berendezés kezeléséhez, üzemben tartásához és felügyeletének ellátására erre alkalmas és kiképzett munkavállalót (munkavállalókat) alkalmazni. A felügyeleti személy feladatait az üzemeltetők e rendelet és mellékletei figyelembevételével kötelesek meghatározni.
+(2)[^49]
 
-(3) A nyomástartó berendezés használatát, üzemeltetését (kezelését, karbantartását, javítását) az üzemeltetőnek írásos utasításban kell szabályozni. A használati utasításnak tartalmaznia kell a külön jogszabály[^18] előírásain túlmenő, a létesítmény biztonságos használatára vonatkozó előírásokat is.
+(3) A nyomástartó berendezés használatát, üzemeltetését (kezelését, karbantartását, javítását) az üzemeltetőnek írásos utasításban kell szabályozni. A használati utasításnak tartalmaznia kell a külön jogszabály[^50] előírásain túlmenő, a létesítmény biztonságos használatára vonatkozó előírásokat is.
 
-(4) A cseppfolyós propán-bután gázok tartályban történő belföldi forgalmazására szolgáló nyomástartó berendezések esetében a használati utasítást a fogyasztó számára a gázforgalmazó köteles biztosítani.
+(4)[^51] A cseppfolyós propán-bután gázok tartályban történő belföldi forgalmazására szolgáló nyomástartó berendezések esetében a használati utasítást a felhasználó számára a gázforgalmazó köteles biztosítani.
 
-(5) A nyomástartó berendezések használatba vételi engedélyének érvényességét nem érintő munkák felügyeleti személy jelenléte mellett végezhetők. Az elvégzett munkát dokumentálni kell.
+(5)[^52] A nyomástartó berendezések használatba vételi engedélyének hatályát nem érintő munkák felügyelet biztosítása mellett végezhetők. A felügyeletet legalább nyomástartóedény-gépész (OKJ szerinti szakképesítés száma: 52 524 01 0100 31 01) szakképesítésű személynek kell ellátnia. Az elvégzett munkát dokumentálni kell, amelynek tartalmaznia kell
 
-[^18]: A fogyasztóvédelemről szóló 1997. évi CLV. törvény.
+a) az elvégzett munka időpontját,
+
+b) a munkát végző és felügyelő személy nevét,
+
+c) az elvégzett munka leírását.
+
+[^49]: A 14. § (2) bekezdését a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés h) pontja hatályon kívül helyezte. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^50]: A fogyasztóvédelemről szóló 1997. évi CLV. törvény.
+[^51]: A 14. § (4) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés i) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^52]: A 14. § (5) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 11. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

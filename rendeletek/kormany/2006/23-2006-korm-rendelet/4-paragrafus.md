@@ -1,14 +1,6 @@
 ## Szakmai követelmények
 
-4. § (1)[^6] Nyomástartó berendezés vizsgáló szakember vagy felügyeleti személy az a személy lehet, akit az MBFH által vezetett nyilvántartásba felvettek.
-
-(2) A nyilvántartásba – kérelemre – az a büntetlen személy vehető fel, aki az e rendeletben előírt
-
-a) szakirányú szakmai képesítéssel,
-
-b) szakmai gyakorlati idővel
-
-## egyidejűleg rendelkezik, továbbá a nyilvántartásba vételi igazgatási szolgáltatási díjat befizette.
+4. § (1)–(2)[^14]
 
 (3) Szakmai képesítésnek a szakirányú felsőfokú, illetve a felsőfokú szakképesítés (akkreditált felsőfokú), valamint a szakirányú középfokú szakképesítés felel meg.
 
@@ -20,10 +12,10 @@ b) szakmai gyakorlati idővel
 
 (7) E rendelet alkalmazásában szakirányú középfokú szakképesítésnek minősül a gépésztechnikusi, a gáz- és olajipari technikusi képesítés és a technikus képzés szüneteltetésének időszakában az előbbi szakirány szerinti szakközépiskolai érettségi bizonyítvánnyal szerzett szakképesítés.
 
-(8) A gyakorlati idő felsőfokú végzettség esetén legalább három év, középfokú végzettség esetén legalább öt év. Gyakorlati időnek tekinthető a nyomástartó berendezést gyártónál, üzemeltetőnél vagy vizsgálónál (ellenőrzőnél) eltöltött olyan idő, melyet a munkavállaló nyomástartó berendezés vizsgáló szakember vagy felügyelő személy irányítása mellett töltött el.
+(8)[^15] A gyakorlati idő felsőfokú végzettség esetén legalább három év, középfokú végzettség esetén legalább öt év. Gyakorlati időnek tekinthető a nyomástartó berendezést gyártónál, üzemeltetőnél vagy vizsgálónál (ellenőrzőnél) eltöltött olyan idő, melyet a kérelmező nyomástartó berendezést vizsgáló szakértő, illetve felügyeleti személy irányítása mellett töltött el.
 
-(9)[^7] A külföldön szerzett (3)–(7) bekezdések szerinti képesítés honosításáról – az érdekelt kérelmére – az MBFH bevonásával, külön jogszabály[^8] előírása szerint az Oktatási Minisztérium dönt.
+(9)[^16]
 
-[^6]: A 4. § (1) bekezdése a 269/2006. (XII. 20.) Korm. rendelet 12. § (4) bekezdése szerint módosított szöveg.
-[^7]: A 4. § (9) bekezdése a 269/2006. (XII. 20.) Korm. rendelet 12. § (4) bekezdése szerint módosított szöveg.
-[^8]: A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény.
+[^14]: A 4. § (1)–(2) bekezdését a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^15]: A 4. § (8) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 20. § (3) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+[^16]: A 4. § (9) bekezdését a 273/2009. (XII. 3.) Korm. rendelet 20. § (4) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
