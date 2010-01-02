@@ -1,10 +1,6 @@
 ## 25. §[^27]
 
-26. §[^28] (1) A 23. § (3) és (4) bekezdése, a 24. § (1) és (3)–(5) bekezdése, valamint a 25. § 2009. július 2. napján hatályát veszti.
-
-(2) A 24. § (2) bekezdése 2010. január 1. napján hatályát veszti.
-
-(3) Ez a § 2010. január 2. napján hatályát veszti.
+26. §[^28]
 
 Melléklet a 4/2009. (III. 6.) IRM rendelethez
 
@@ -51,4 +47,4 @@ P. H.
 megküldő
 
 [^27]: A 25. § e rendelet 26. § (1) bekezdése alapján hatályát vesztette.
-[^28]: A 26. § a (3) bekezdése alapján hatályát veszti 2010. január 2-án.
+[^28]: A 26. § a (3) bekezdése alapján hatályát vesztette.
