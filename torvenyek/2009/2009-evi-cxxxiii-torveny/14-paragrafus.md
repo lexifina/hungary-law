@@ -12,10 +12,4 @@ hatálybalépéséig – ha az a) pont szerinti esetben az uniós jogi aktus, a 
 
 (3) A harmonizációs uniós jogi aktus hatálya alá nem tartozó körben kiadott jogszabályi rendelkezés alapján e törvény hatálybalépését megelőzően kijelölt szervezeteknek legkésőbb 2012. december 31-ig kell megfelelniük az e törvényben és a végrehajtására kiadott jogszabályokban foglalt követelményeknek.
 
-(4) Hatályát veszti
-
-a) a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (2) bekezdés 15. pontja,
-
-b) az elektronikus hírközlésről szóló 2003. évi C. törvény 5. § (1) bekezdés p) pontja, 182. § (3) bekezdés g) pontjában a „ , továbbá a megfelelőséget vizsgáló, ellenőrző és tanúsító szervezetek felhatalmazásának” szövegrész,
-
-c) a postáról szóló 2003. évi CI. törvény 44. § l) pontja.
+(4)
