@@ -1,3 +1,0 @@
-14. § Az Flt. a következő új 43/B. §-sal egészül ki:
-
-„43/B. § Az állami foglalkoztatási szervek közreműködésével, az Európai Globalizációs Alkalmazkodási Alap bevonásával megvalósuló programok tekintetében a Munkaerőpiaci Alap a támogatásokat elő- és társfinanszírozza. Az előfinanszírozott összeget terheli az Európai Globalizációs Alap által meg nem térített kiadás.”
