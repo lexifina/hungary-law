@@ -1,0 +1,3 @@
+16. § (1) Az alakuló gyűlés időpontját, helyét és napirendjét tartalmazó értesítést – a szándéknyilatkozatot adó összes érdekeltnek – az alakuló gyűlés megtartására kitűzött időpontot legalább 8 nappal megelőzően meg kell küldeni, és a működési terület valamennyi érdekeltje tájékoztatásának érdekében a tervezett működési terület önkormányzatainak hirdetőtábláján is közzé kell tenni.
+
+(2) Az érdekeltet az alakuló gyűlésen két tanú által aláírt, írásbeli meghatalmazással rendelkező személy is képviselheti. A meghatalmazásban fel kell tüntetni a képviselt érdekelt 8. § (1) bekezdés szerinti adatait.

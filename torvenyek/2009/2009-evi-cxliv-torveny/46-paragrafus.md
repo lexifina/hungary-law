@@ -1,0 +1,1 @@
+46. § A társulat a tagjainál vagy harmadik személynél bekövetkezett vízkárokért csak akkor felel, ha a társulati és a közfeladatok elvégzéséhez bármely jogcímen kapott hozzájárulást nem a küldöttgyűlés döntései szerint használja fel.

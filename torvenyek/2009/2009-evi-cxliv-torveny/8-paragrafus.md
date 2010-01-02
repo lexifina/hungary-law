@@ -1,0 +1,5 @@
+## Tagi adatok kezelése
+
+8. § (1) A társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési évét, anyja nevét, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát), jogviszonyának jellegét (tulajdonos vagy használó), tagsági jogviszonyát megalapozó területének nagyságát első alkalommal az alapszabállyal egy időben, a tagok adataiban bekövetkező változásokat évente egy alkalommal, legkésőbb június 30-ig az illetékes cégbírósághoz kell benyújtani. A tagi adatok és ezek változásainak kezelésére a társulat közfeladata ellátása érdekében működésének időtartama alatt köteles és jogosult.
+
+(2) Az (1) bekezdésben foglalt tagi adatokat alakuláskor és az adatokban bekövetkezett változások nyilvántartásának hitelessége érdekében évente egy alkalommal az arra hivatott állami szervek a társulat megkeresésére számítógépes adathordozón, díjmentesen bocsátják a társulat rendelkezésére. A társulat a közfeladatok ellátásához saját adatfeldolgozó eszközökkel az (1) bekezdés szerinti tagi adatok megállapítása érdekében díjmentesen a számítógépes ingatlan-nyilvántartásra csatlakozhat.

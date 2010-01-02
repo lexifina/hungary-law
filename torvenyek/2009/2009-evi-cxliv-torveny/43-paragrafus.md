@@ -1,0 +1,1 @@
+43. § A társulat gazdasági tevékenységének elvégzésére munkaszervezetet működtethet. A munkaszervezet irányítását önálló hatáskörben az igazgató is elláthatja. A társulatnál foglalkoztatott munkavállalók jogaira és kötelezettségeire, valamint a munkaügyi kapcsolatokra a Munka Törvénykönyve rendelkezéseit kell alkalmazni.
