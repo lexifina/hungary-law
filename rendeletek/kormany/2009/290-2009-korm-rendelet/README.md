@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-290-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-21 | 2009-290-20-22.1 | 290/2009. (XII. 18.) Korm. rendelet |
+| 2010-01-02 | 2009-290-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
