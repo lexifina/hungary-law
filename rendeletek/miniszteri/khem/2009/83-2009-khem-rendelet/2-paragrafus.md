@@ -1,1 +1,0 @@
-## „(2) Az egyetemes szolgáltatási ár a GET 138/A. §-a szerinti pénzeszköz, a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 8. §-a szerinti – a szolgáltató által a felhasználó felé továbbhárított – tagi hozzájárulás, az általános forgalmi adó, valamint az energiaadó összegét nem tartalmazza.”
