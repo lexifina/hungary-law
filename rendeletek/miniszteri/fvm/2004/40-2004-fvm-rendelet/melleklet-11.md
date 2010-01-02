@@ -1,113 +1,115 @@
 ## Az I. és a II. részben nem szereplő növényfajoknak a nemzeti DUS-vizsgálati irányelvnek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^140]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^148]
 
 I. Rész
 
-A Közösségi Növényfajta-hivatal vizsgálati iránymutatásai a zöldségfajok DUS-vizsgálatára
+A Közösségi Növényfajta-hivatal vizsgálati iránymutatásai a zöldségfajok DUS vizsgálatára
 
-| A Közös Fajtajegyzékben szereplő fajok | CPVO-iránymutatás |
+| Tudományos név | Közhasználatú név | CPVO-jegyzőkönyv |
 
-| Vöröshagyma és salottahagyma | Vöröshagyma, salottahagyma 2005. 06. 14-i TP/46/1 iránymutatás |
+| Allium cepa L. (Cepa csoport) | Vöröshagyma | 2009.4.1-i TP 46/2 |
 
-| Póréhagyma | Póréhagyma, 2001. 11. 15-i TP/85/1 iránymutatás |
+| Allium cepa L. (Aggregatum csoport) | Salottahagyma | 2009.4.1-i TP 46/2 |
 
-| Fokhagyma | Fokhagyma, 2004. 03. 25-i TP/162/1 iránymutatás |
+| Allium porrum L. | Póréhagyma | 2009.4.1-i TP 85/2 |
 
-| Zeller | Zeller, 2008. 03. 13-i TP/82/1 iránymutatás |
+| Allium sativum L. | Fokhagyma | 2004.3.25-i TP 162/1 |
 
-| Gumós zeller | Gumós zeller, 2008. 03. 13-i TP/74/1 iránymutatás |
+| Allium schoenoprasum L. | Metélőhagyma | 2009.4.1-i TP 198/1 |
 
-| Spárga | Spárga, 2002. 03. 27-i TP/130/1 iránymutatás |
+| Apium graveolens L. | Zeller | 2008.3.13-i TP 82/1 |
 
-| Karfiol | Karfiol, 2001. 11. 15-i TP/45/1 iránymutatás |
+| Apium graveolens L. | Gumós zeller | 2008.3.13-i TP 74/1 |
 
-| Brokkoli | Brokkoli, 2007. 03. 21-i TP/151/2 iránymutatás |
+| Asparagus officinalis L. | Spárga | 2002.3.27-i TP 130/1 |
 
-| Bimbóskel | Bimbóskel, 2005. 12. 01-i TP/54/2 iránymutatás |
+| Beta vulgaris L. | Cékla, beleértve a cheltenham répát is | 2009.4.1-i TP 60/1 |
 
-| Karalábé | Karalábé, 2004. 03. 25-i TP/65/1 iránymutatás |
+| Brassica oleracea L. | Karfiol | 2001.11.15-i TP 45/1 |
 
-| Kelkáposzta, fejes káposzta és vörös káposzta | Kelkáposzta, fejes káposzta és vörös káposzta 2005. 12. 01-i TP/48/2 iránymutatás |
+| Brassica oleracea L. | Brokkoli, vagy Calabrese brokkoli | 2007.3.21-i TP 151/2 |
 
-| Kínai kel | Kínai kel, 2008. 03. 13-i TP/105/1 iránymutatás |
+| Brassica oleracea L. | Kelbimbó | 2005.12.1-i TP 54/2 |
 
-| Paprika | Paprika, 2007. 03. 21-i TP/76/2 iránymutatás |
+| Brassica oleracea L. | Karalábé | 2004.3.25-i TP 65/1 |
 
-| Endívia saláta | Endívia saláta, 2005. 12. 01-i TP/118/2 iránymutatás |
+| Brassica oleracea L. | Kelkáposzta, fejes káposzta és vörös káposzta | 2005.12.1-i TP 48/2 |
 
-| Ipari cikória | Ipari cikória, 2005. 12. 01-i TP/172/2 iránymutatás |
+| Brassica rapa L. | Kínai kel | 2008.3.13-i TP 105/1 |
 
-| Hajtató cikória | Hajtató cikória, 2004. 03. 25-i TP/173/1 iránymutatás |
+| Capsicum annuum L. | Chili vagy paprika | 2007.3.21-i TP 76/2 |
 
-| Görögdinnye | Görögdinnye, 2007. 03. 21-i TP/142/1 iránymutatás |
+| Cichorium endivia L. | Fodroslevelű és széleslevelű endívia | 2005.12.1-i TP 118/2 |
 
-| Sárgadinnye | Sárgadinnye, 2007. 03. 27-i TP/104/2 iránymutatás |
+| Cichorium intybus L. | Ipari cikória | 2005.12.1-i TP 172/2 |
 
-| Uborka (saláta és konzerv) | Uborka (saláta és konzerv), 2008. 03. 13-i TP/61/2 iránymutatás |
+| Cichorium intybus L. | Cikóriasaláta | 2005.3.25-i TP 173/1 |
 
-| Tök | Tök, 2004. 03. 25-i TP/119/1 iránymutatás |
+| Citrullus lanatus (Thumb.) Matsum. et Nakai | Görögdinnye | 2007.3.21-i TP 142/1 |
 
-| Articsóka, kardi | Articsóka, kardi, 2004. 03. 25-i TP/184/1 iránymutatás |
+| Cucumis melo L. | Sárgadinnye | 2007.3.21-i TP 104/2 |
 
-| Sárgarépa és takarmánysárgarépa | Sárgarépa és takarmánysárgarépa, 2008. 03. 13-i TP/49/3 iránymutatás |
+| Cucumis sativus L. | Salátauborka és fürtös uborka | 2008.3.13-i TP61/2 |
 
-| Édeskömény | Édeskömény, 2004. 03. 25-i TP/183/1 iránymutatás |
+| Cucurbita pepo L. | Főzőtök | 2004.3.25-i TP 119/1 |
 
-| Fejes saláta | Fejes saláta, 2007. 03. 21-i TP/13/3 iránymutatás |
+| Cynara scolymus L. | Articsóka és kardi | 2004.3.25-i TP 184/1 |
 
-| Paradicsom | Paradicsom, 2007. 03. 21-i TP/44/3 iránymutatás |
+| Daucus carota L. | Sárgarépa és takarmány sárgarépa | 2008.3.13-i TP 49/3 |
 
-| Petrezselyem | Petrezselyem, 2007. 03. 21-i TP/136/1 iránymutatás |
+| Foeniculum vulgare Mill. | Édeskömény | 2004.3.25-i TP 183/1 |
 
-| Tűzbab | Tűzbab, 2007. 03. 21-i TP/9/1 iránymutatás |
+| Lactuca sativa L. | Fejes saláta | 2009.4.1-i TP 13/4 |
 
-| Zöldbab (bokorbab és futóbab) | Zöldbab (bokorbab és futóbab), 2005. 12. 01-i TP/12/2 iránymutatás |
+| Lycopersicon esculentum Mill. | Paradicsom | 2007.3.21-i TP 44/3 |
 
-| Kifejtőborsó, velőborsó, cukorborsó | Kifejtőborsó, velőborsó, cukorborsó, 2003. 11. 06-i TP/7/1 iránymutatás |
+| Petroselinum crispum (Mill.) Nyman ex A. W. Hill | Petrezselyem | 2007.3.21-i TP 136/1 |
 
-| Retek | Retek, 2002. 03. 27-i TP/64/1 iránymutatás |
+| Phaseolus coccineus L. | Tűzbab | 2007.3.21-i TP 9/1 |
 
-| Tojásgyümölcs | Tojásgyümölcs, 2008. 03. 13-i TP/117/1 iránymutatás |
+| Phaseolus vulgaris L. | Zöldbab (bokorbab és futóbab) | 2009.4.1-i TP 12/3 |
 
-| Spenót | Spenót, 2008. 03. 13-i TP/55/2 iránymutatás |
+| Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | 2003.11.6-i TP 7/1 |
 
-| Galambbegysaláta | Galambbegysaláta, 2007. 03. 21-i TP/75/2 iránymutatás |
+| Raphanus sativus L. | Retek | 2002.3.27-i TP 64/1 |
 
-| Lóbab | Lóbab, 2004. 03. 25-i TP/Broad Bean/1 iránymutatás |
+| Solanum melongena L. | Padlizsán vagy tojásgyümölcs | 2008.3.13-i TP 117/1 |
 
-| Csemegekukorica és pattogató kukorica | Csemegekukorica és pattogató kukorica, 2001. 11. 15-i TP/2/2 iránymutatás |
+| Spinacia oleracea L. | Paraj | 2008.3.13-i TP 55/2 |
+
+| Valerianella locusta (L.) Laterr. | Galambbegysaláta | 2007.3.21-i TP 75/2 |
+
+| Vicia faba L. (partim) | Lóbab | 2004.3.25-i TP Broadbean/1 |
+
+| Zea mays L. (partim) | Csemegekukorica és pattogatni való kukorica | 2001.11.15-i TP 2/2 |
 
 II. Rész
 
-Az UPOV vizsgálati irányelvei a zöldségfajok DUS-vizsgálatára
+Az UPOV vizsgálati irányelvei a zöldségfajok DUS vizsgálatára
 
-| A Közös Fajtajegyzékben szereplő fajok | UPOV irányelv |
+| Tudományos név | Közhasználatú név | UPOV-irányelv |
 
-| Téli sarjadékhagyma | Téli sarjadékhagyma, 1998. 04. 01-i TG/161/3 irányelv |
+| Allium fistulosum L. | Téli sarjadékhagyma | 1998.4.1-i TG/161/3 |
 
-| Metélőhagyma | Metélőhagyma, 2003. 04. 09-i TG/198/1 irányelv |
+| Beta vulgaris L. | Mángold | 2004.3.31-i TG/106/4 |
 
-| Mángold | Mángold, 2004. 03. 31-i TG/106/4 irányelv |
+| Brassica oleracea L. | Leveles kel | 2004.3.31-i TG/90/6 |
 
-| Cékla | Cékla, 2008. 04. 09-i TG/60/7 irányelv |
+| Brassica rapa L. | Tarlórépa | 2001.4.4-i TG/37/10 |
 
-| Leveles kel | Leveles kel, 2004. 03. 31-i TG/90/6 irányelv |
+| Cichorium intybus L. | Leveles cikória vagy olaszcikória | 1996.10.18-i TG/154/3 |
 
-| Tarlórépa | Tarlórépa, 2001. 04. 04-i TG/37/10 irányelv |
+| Cucurbita maxima Duchesne | Sütőtök | 2007.3.28-i TG/155/4 Rev.+2009.04.01. |
 
-| Nagylevelű cikória | Nagylevelű cikória, 1996. 10. 18-i TG/154/3 irányelv |
+| Raphanus sativus L. | Fekete retek | 1999.3.24-i TG/63/6 |
 
-| Sütőtök | Sütőtök, 2007. 03. 14-i TG/155/4 irányelv |
+| Rheum rhabarbarum L. | Rebarbara | 1999.3.24-i TG/62/6 |
 
-| Fekete retek | Fekete retek, 1999. 03. 24-i TG/63/6 irányelv |
-
-| Rebarbara | Rebarbara, 1999. 03. 24-i TG/62/6 irányelv |
-
-| Feketegyökér | Feketegyökér, 1988. 10. 21-i TG/116/3 irányelv |
+| Scorzonera hispanica L. | Feketegyökér | 1988.10.21-i TG/116/3 |
 
 III. Rész
 
-Az I. és a II. Részben nem szereplő növényfajoknak a nemzeti DUS-vizsgálati irányelvnek kell megfelelniük.
+Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS-vizsgálati irányelvnek kell megfelelniük.
 
-[^140]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 150/2008. (XI. 12.) FVM rendelet 2. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a 2008. november 15. napja előtt megkezdett vizsgálatok esetében a 150/2008. (XI. 12.) FVM rendelet 2. §-ával megállapított 11. számú melléklet szerinti vizsgálati követelményeket csak a bejelentő hozzájárulásával lehet alkalmazni.
+[^148]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 183/2009. (XII. 30.) FVM rendelet 1. § (10) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 8. § (3) bekezdése alapján a mellékletben foglalt vizsgálati követelményeket a 2010. január 1-je előtt megkezdett vizsgálatok esetében csak a bejelentő hozzájárulásával lehet alkalmazni.

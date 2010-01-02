@@ -1,4 +1,4 @@
-## 24. §[^58] Az MgSzH Központja az államilag elismert fajtákról Leíró Fajtajegyzéket készít, amelyben a fajtáknak az elismeréskori állapotára vonatkozóan közölt lényeges morfológiai, termesztési és felhasználási tulajdonságairól ad tájékoztatást.
+## 24. §[^64] Az MgSzH Központja az államilag elismert fajtákról Leíró Fajtajegyzéket készít, amelyben a fajtáknak az elismeréskori állapotára vonatkozóan közölt lényeges morfológiai, termesztési és felhasználási tulajdonságairól ad tájékoztatást.
 
 ## Ajánlott Fajták Jegyzéke
 
@@ -10,4 +10,4 @@
 
 (4) Az Ajánlott Fajták Jegyzékének összeállításához szükséges kísérletek szervezését, a kísérleti módszertan – a faj sajátosságai, illetve a termesztési cél figyelembevételével történő – összeállítását és évenkénti közzétételét a Magyar Agrárkamara, valamint az egyes termékpályákat összefogó szakmai szervezetek által létrehozott bizottság végzi. A bizottság dönt az Ajánlott Fajták Jegyzékében történő szerepeltetésről, egyúttal szervezi és lebonyolítja az ahhoz szükséges kísérleteket, illetve megállapítja a vonatkozó költségeket. A költségek fedezetét központi költségvetési források és a Magyar Agrárkamara, valamint az egyes termékpályákat összefogó szakmai szervezetek befizetési kötelezettsége biztosítja. A bizottság működésének szabályait és etikai szabályzatát maga határozza meg.
 
-[^58]: A 24. § a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^64]: A 24. § a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.

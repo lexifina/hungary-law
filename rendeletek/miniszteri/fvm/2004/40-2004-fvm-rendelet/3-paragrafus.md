@@ -16,7 +16,7 @@
 
 7. tartós vetőmagtárolás: az államilag elismert, illetve növényfajta-oltalomban részesített fajták – kijelölt hibridek esetén azok komponensei is – és a referencia és példa fajták nemzetközi szabvány szerint előkészített vetőmagjának középtávú megőrzése, a gyűjtemény fenntartása,
 
-8. UPOV-egyezmény (International Convention for the Protection of New Varieties of Plants): az új növényfajták oltalmára 1961. december 2-án létesült, Genfben, 1972. november 10-én, 1978. október 23-án és 1991. március 19-én felülvizsgált Nemzetközi Egyezmény,
+8.[^6] UPOV: az új növényfajták oltalmára 1961. december 2-án létesült, Genfben, 1972. november 10-én, 1978. október 23-án és 1991. március 19-én felülvizsgált Nemzetközi Egyezmény (International Convention for the Protection of New Varieties of Plants),
 
 9. Közösségi Növényfajta Hivatal (Community Plant Variety Office, CPVO): a Tanács közösségi növényfajta-oltalomról szóló 2100/94/EK rendelete alapján működő közösségi növényfajta-oltalmi hatóság,
 
@@ -24,3 +24,4 @@
 
 [^4]: A 3. § 5. pontja a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének d) pontja szerint módosított szöveg.
 [^5]: A 3. § 6. pontja a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^6]: A 3. § 8. pontja a 183/2009. (XII. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.

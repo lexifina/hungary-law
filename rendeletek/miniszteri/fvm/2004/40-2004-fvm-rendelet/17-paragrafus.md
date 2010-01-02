@@ -1,10 +1,10 @@
-## 16. §[^42] A növényfajta-oltalmi eljárás céljára külön vagy az állami elismeréssel együtt benyújtott kérelem alapján elvégzett DUS-vizsgálatról az MgSzH Központja időközi vagy végleges DUS-vizsgálati jelentést készít. Az MgSzH Központja a végleges jelentésben nyilatkozik arról, hogy a fajta megkülönböztethető, egyöntetű (egynemű) és állandó-e. Ha az MgSzH Központja a fajtát megkülönböztethetőnek, egyöntetűnek (egyneműnek) és állandónak minősíti, a jelentéshez mellékeli a fajtaleírást, amit egyúttal a bejelentőnek is megküld.
+## 16. §[^47] A növényfajta-oltalmi eljárás céljára külön vagy az állami elismeréssel együtt benyújtott kérelem alapján elvégzett DUS-vizsgálatról az MgSzH Központja időközi vagy végleges DUS-vizsgálati jelentést készít. Az MgSzH Központja a végleges jelentésben nyilatkozik arról, hogy a fajta megkülönböztethető, egyöntetű (egynemű) és állandó-e. Ha az MgSzH Központja a fajtát megkülönböztethetőnek, egyöntetűnek (egyneműnek) és állandónak minősíti, a jelentéshez mellékeli a fajtaleírást, amit egyúttal a bejelentőnek is megküld.
 
 ## A növényfajták állami elismerése, annak elutasítása
 
 ## és visszavonása
 
-17. § (1)[^43] A kísérleti vizsgálatok eredményei alapján az MgSzH Központja előterjesztést készít a Fajtaminősítő Bizottság részére, és egyúttal javaslatot tesz
+17. § (1)[^48] A kísérleti vizsgálatok eredményei alapján az MgSzH Központja előterjesztést készít a Fajtaminősítő Bizottság részére, és egyúttal javaslatot tesz
 
 a) a növényfajta állami elismerésére,
 
@@ -46,7 +46,7 @@ e) a fajta gazdasági értékvizsgálatának eredményeit az arra kötelezett fa
 
 f) a 9. § (4) bekezdése szerinti tulajdonságokat,
 
-g)[^44] a javasolt és az MgSzH Központja által ellenőrzött fajtanevet,
+g)[^49] a javasolt és az MgSzH Központja által ellenőrzött fajtanevet,
 
 h) a döntési javaslatot és annak indoklását.
 
@@ -54,6 +54,6 @@ h) a döntési javaslatot és annak indoklását.
 
 (5) Az állami elismerés időpontját legalább 90 nappal megelőzően a javasolt fajtanevet az Európai Unió tagállamai hatóságainak tudomására kell hozni, biztosítva a felszólalás lehetőségét.
 
-[^42]: A 16. § a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^43]: A 17. § (1) bekezdésének felvezető szövege a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^44]: A 17. § (3) bekezdésének g) pontja a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^47]: A 16. § a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^48]: A 17. § (1) bekezdésének felvezető szövege a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^49]: A 17. § (3) bekezdésének g) pontja a 87/2007. (VIII. 17.) FVM rendelet 3. § (2) bekezdésének b) pontja szerint módosított szöveg.

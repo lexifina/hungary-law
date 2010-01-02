@@ -380,6 +380,6 @@
 
 | Bodza | II. 1. | 12 db tő |
 
-5. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^131]
+5. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^137]
 
-[^131]: Az 5. számú melléklet a 136/2007. (XI. 15.) FVM rendelet 2. § (1) bekezdésével megállapított, a 173/2008. (XII. 31.) FVM rendelet 2. §-a szerint módosított szöveg.
+[^137]: Az 5. számú melléklet a 136/2007. (XI. 15.) FVM rendelet 2. § (1) bekezdésével megállapított, a 173/2008. (XII. 31.) FVM rendelet 2. §-a szerint módosított szöveg.
