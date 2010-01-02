@@ -30,7 +30,7 @@ l) az elzárás letöltésének, illetőleg az azonnali szabadítás elrendelés
 
 (2) A szabálysértési nyilvántartás részére az (1) bekezdésben meghatározott adatokat jogszabályban meghatározott formában és módon közli:
 
-a) az (1) bekezdés a)–i) pontja esetében az eljáró bíróság illetőleg szabálysértési hatóság,
+a) a bíróság az előtte indult szabálysértési eljárásokban az (1) bekezdés a)–e) és i) pontok esetén, a szabálysértési hatóság az (1) bekezdés a)–h) pontok esetén,
 
 b) az (1) bekezdés j) pontja esetén a méltányossági döntést hozó szerv,
 
