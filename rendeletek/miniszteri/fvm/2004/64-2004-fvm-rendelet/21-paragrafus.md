@@ -1,6 +1,6 @@
 ## C.A.C. faiskola üzemeltetése és ellenőrzése
 
-21. § (1) C.A.C. gyümölcsfaiskolában a minősítő intézet évente legalább egy szemlét tart, amely során ellenőrzi a 20. § (2) és (3) bekezdése szerinti követelmények teljesülését.
+21. § (1)[^64] C.A.C. gyümölcsfaiskolában az MgSzH évente legalább egy szemlét tart, amely során ellenőrzi a 20. § (2) és (3) bekezdése szerinti követelmények teljesülését.
 
 (2) Az (1) bekezdés szerinti szemlét legkésőbb a kitermelést megelőzően el kell végezni.
 
@@ -17,3 +17,5 @@ d) 2.4. pontjában a szamóca palántára,
 e) 2.5.1. pontjában a termesztőedényben nevelt ültetési anyagokra,
 
 f) 2.6.1. pontjában az alanycsemetékre
+
+[^64]: A 21. § (1) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.

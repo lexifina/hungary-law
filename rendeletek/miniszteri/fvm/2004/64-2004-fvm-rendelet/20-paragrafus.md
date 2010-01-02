@@ -1,6 +1,6 @@
 ## A tanúsított (certifikált) szaporítóanyagot termelő faiskola üzemeltetése, ellenőrzése
 
-20. § (1) A tanúsított szaporítóanyagot termelő gyümölcsfaiskolákban a minősítő intézet évente két szemlét tart. Az első szemlét legkésőbb július 15-éig, a második szemlét pedig legkésőbb október 10-éig, de még kitermelés előtt, lombos állapotban kell végezni. Indokolt esetben összevont szemle is végezhető. A minősítő intézet a szakmai felügyelet keretében a termelés más időpontjaiban is végezhet ellenőrzést.
+20. § (1)[^62] A tanúsított szaporítóanyagot termelő gyümölcsfaiskolákban az MgSzH évente két szemlét tart. Az első szemlét legkésőbb július 15-éig, a második szemlét pedig legkésőbb október 10-éig, de még kitermelés előtt, lombos állapotban kell végezni. Indokolt esetben összevont szemle is végezhető. Az MgSzH a szakmai felügyelet keretében a termelés más időpontjaiban is végezhet ellenőrzést.
 
 (2) Az első gyümölcsfaiskolai szemlén
 
@@ -26,4 +26,7 @@ a) az első szemle intézkedéseinek elvégzését,
 
 b) a nyilvántartási napló, a vázrajz adatai és a faiskolai táblában történt megjelölése alapján azonosított minden kitermelésre szánt tétel fejlettségét, kezeltségét, fajtatisztaságát, valamint becsléssel az üzemi leltár adatainak valódiságát,
 
-c) a növényegészségügyi vizsgálat megtörténtét a Szolgálat jegyzőkönyve alapján.
+c)[^63] a növényegészségügyi vizsgálat megtörténtét az MgSzH jegyzőkönyve alapján.
+
+[^62]: A 20. § (1) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^63]: A 20. § (3) bekezdés c) pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés b) pontja szerint módosított szöveg.

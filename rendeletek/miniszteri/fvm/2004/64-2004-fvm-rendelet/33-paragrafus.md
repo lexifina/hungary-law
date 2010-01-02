@@ -1,4 +1,4 @@
-## 32. § A minősítő intézet köteles a Bizottság által szervezett, a gyümölcstermő növények szaporítóanyagai, illetve a gyümölcstermesztésre szánt gyümölcstermő növények forgalmazásáról szóló 92/34/EGK tanácsi irányelv 7. cikkének 1. bekezdésében említett ellenőrzésekhez a Bizottság részére a szükséges információkat megadni, a Bizottsággal együttműködni és minden egyéb módon biztosítani az ellenőrzés elvégzésének feltételeit.
+## 32. §[^97] Az MgSzH köteles a Bizottság által szervezett, a gyümölcstermő növények szaporítóanyagai, illetve a gyümölcstermesztésre szánt gyümölcstermő növények forgalmazásáról szóló 92/34/EGK tanácsi irányelv 7. cikkének 1. bekezdésében említett ellenőrzésekhez a Bizottság részére a szükséges információkat megadni, a Bizottsággal együttműködni és minden egyéb módon biztosítani az ellenőrzés elvégzésének feltételeit.
 
 ## Záró rendelkezések
 
@@ -11,3 +11,5 @@ a) a Tanács 92/34/EGK irányelve a gyümölcstermő növények szaporítóanyag
 b) a Bizottság 93/64/EGK irányelve a gyümölcstermő növények szaporítóanyagai, illetve a gyümölcstermesztésre szánt gyümölcstermő növények forgalmazásáról szóló 92/34/EGK tanácsi irányelv alapján a szállítók és létesítmények felügyeletére és ellenőrzésére vonatkozó végrehajtási intézkedések meghatározásáról,
 
 c) a Bizottság 93/48/EGK irányelve a 92/34/EGK tanácsi irányelv szerinti gyümölcstermő növények szaporítóanyagaira, illetve a gyümölcstermesztésre szánt gyümölcstermő növényekre vonatkozó feltételek jegyzékének kidolgozásáról.
+
+[^97]: A 32. § a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.

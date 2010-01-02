@@ -18,7 +18,7 @@ d) továbbszaporítása során certifikált szaporítóanyag előállítására 
 
 4. Certifikáció (tanúsítás): a szaporítóanyag-előállítás ellenőrzési rendszere, amelynek eredményeként a hivatalos ellenőrző szervek igazolják, hogy a termelő a terméket a vonatkozó hazai és nemzetközi előírásoknak megfelelően állította elő; az előállítás során az anyag utódvonalát bizonylati rendszerrel nyilvántartják, minőségét a vonatkozó jogszabályi előírásoknak megfelelően ellenőrzik, az eljárás eredményességét az eljáró hatóság certifikációs címkével tanúsítja.
 
-5. Certifikációs (tanúsító) címke: a certifikációs rendszerben előállított szaporítóanyag-tétel növényeire, illetve kötegeire a szállító által felhelyezett, annak kategóriáját tanúsító, fémzár jellegű jelölés, amelyet a minősítő intézet azonosíthatóan megjelölve ad ki a forgalmazónak, és amely tartalmazza a felhasználó számára szükséges összes adatot, beleértve a növényútlevél adatait is.
+5.[^7] Certifikációs (tanúsító) címke: a certifikációs rendszerben előállított szaporítóanyag-tétel növényeire, illetve kötegeire a szállító által felhelyezett, annak kategóriáját tanúsító, fémzár jellegű jelölés, amelyet az MgSzH azonosíthatóan megjelölve ad ki a forgalmazónak, és amely tartalmazza a felhasználó számára szükséges összes adatot, beleértve a növényútlevél adatait is.
 
 6. Certifikált szaporítóanyag: közvetlenül vagy ismert számú vegetatív szaporítási lépés eredményeként üzemi törzsültetvény növényanyagából származó szaporító alapanyag, vagy gyümölcstermő ültetvény létesítésére szolgáló – a certifikációs rendszert elhagyó – ültetési anyag, amely
 
@@ -30,7 +30,7 @@ c) hatósági ellenőrzés eredményeként minősítést kapott.
 
 7. Egyéb károsító: a gyümölcs olyan nem zárlati és nem vizsgálatköteles, szaporítóanyag útján terjedő károsítója, amelyet külön jogszabály ilyennek minősít.
 
-8. Faiskola: gyökeres gyümölcs szaporítóanyagot előállító szaporító terület a rajta lévő növényállománnyal, törzsültetvénnyel, felszerelésekkel, épületekkel, amelynek működését a minősítő intézet engedélyezte.
+8.[^8] Faiskola: gyökeres gyümölcs szaporítóanyagot előállító szaporító terület a rajta lévő növényállománnyal, törzsültetvénnyel, felszerelésekkel, épületekkel, amelynek működését az MgSzH engedélyezte.
 
 9. Faiskolai lerakat: faiskolában termelt ültetési anyagnak a faiskolán kívüli – gyümölcs szaporítóanyag kiskereskedelmi forgalomba hozatalát végző – árusító helye, így különösen az áruda, kertészeti áruház.
 
@@ -82,9 +82,9 @@ d) továbbszaporítása során bázis szaporítóanyag előállítására szolg�
 
 29. Tünetmentes szaporítóanyag: vizuális vizsgálat alapján vírustüneteket nem mutató növényanyag.
 
-30. Üzemi (bázis) törzsültetvény: bázis szaporítóanyagból létesített, certifikált fokozatú szaporítóanyag előállítására szolgáló, a minősítő intézet által törzsültetvénnyé minősített növényállomány.
+30.[^9] Üzemi (bázis) törzsültetvény: bázis szaporítóanyagból létesített, certifikált fokozatú szaporítóanyag előállítására szolgáló, az MgSzH által törzsültetvénnyé minősített növényállomány.
 
-31. Üzemi (bázis) törzsültetvény jelölt: bázis szaporítóanyagból szaporítóanyag előállítás céljára létesített, de a minősítő intézet által törzsültetvénnyé még nem minősített növényállomány.
+31.[^10] Üzemi (bázis) törzsültetvény jelölt: bázis szaporítóanyagból szaporítóanyag előállítás céljára létesített, de az MgSzH által törzsültetvénnyé még nem minősített növényállomány.
 
 32. Vegetatív szaporító alapanyagot termő törzsültetvény: szemzőhajtás, oltóvessző, dugvány, bujtvány, sarj, palánta előállítására létesített ültetvény.
 
@@ -92,9 +92,9 @@ d) továbbszaporítása során bázis szaporítóanyag előállítására szolg�
 
 33.1. Tünetmentes szaporítóanyag: vizuális vizsgálat alapján vírustüneteket nem mutató anyafákról származó növényanyag.
 
-33.2. Vírusmentes (VF) szaporítóanyag: olyan vírusmentes anyanövényekről, illetőleg azok vírusmentesen fenntartott szaporulatáról származó növény, amelyet nemzetközileg elismert tudományos módszerekkel megvizsgáltak és az adott fajt fertőző valamennyi ismert vírustól és vírusszerű kórokozótól mentesnek találtak, és amelynek termesztése során a Szolgálat által igazoltan a vírusmentes technológiai előírásokat megtartották.
+33.2.[^11] Vírusmentes (VF) szaporítóanyag: olyan vírusmentes anyanövényekről, illetőleg azok vírusmentesen fenntartott szaporulatáról származó növény, amelyet nemzetközileg elismert tudományos módszerekkel megvizsgáltak és az adott fajt fertőző valamennyi ismert vírustól és vírusszerű kórokozótól mentesnek találtak, és amelynek termesztése során az MgSzH által igazoltan a vírusmentes technológiai előírásokat megtartották.
 
-33.3. Vírustesztelt (VT) szaporítóanyag: olyan anyanövényekről, illetve azok szaporulatáról származó növényanyag, amelyet nemzetközileg elismert tudományos módszerekkel vírusfertőzöttségre megvizsgáltak, és az adott fajra jellemző, meghatározott gazdasági kárt okozó vírusoktól és vírusszerű szervezetektől mentesnek találtak, illetve amelyet a Szolgálat által igazoltan vírusmentes technológiai előírások szerint állítottak elő.
+33.3.[^12] Vírustesztelt (VT) szaporítóanyag: olyan anyanövényekről, illetve azok szaporulatáról származó növényanyag, amelyet nemzetközileg elismert tudományos módszerekkel vírusfertőzöttségre megvizsgáltak, és az adott fajra jellemző, meghatározott gazdasági kárt okozó vírusoktól és vírusszerű szervezetektől mentesnek találtak, illetve amelyet az MgSzH által igazoltan vírusmentes technológiai előírások szerint állítottak elő.
 
 34. Vizsgálatköteles nem zárlati károsító: olyan károsító, amely az importőr ország területén vizsgálatköteles, illetve amelyet gazdasági jelentőségénél fogva jogszabály ebbe a körbe sorol.
 
@@ -102,4 +102,12 @@ d) továbbszaporítása során bázis szaporítóanyag előállítására szolg�
 
 36. Zárlati károsító: potenciális gazdasági jelentőségű károsító, amely a veszélyeztetett területen még nem fordul elő vagy előfordul, de nem terjedt el, és amely ellen hatósági határozat alapján védekezést folytatnak.
 
-37. Zárlati termesztés: a minősítő intézet eseti engedélye alapján olyan tétel faiskolai termesztése, amely valamely tulajdonsága miatt nem bizonyult az Európai Unió területén forgalomba hozatalra alkalmasnak; a harmadik országba szánt, bértermelésre szaporított tételek termesztése is zárlati termesztésnek minősül.
+37.[^13] Zárlati termesztés: az MgSzH eseti engedélye alapján olyan tétel faiskolai termesztése, amely valamely tulajdonsága miatt nem bizonyult az Európai Unió területén forgalomba hozatalra alkalmasnak; a harmadik országba szánt, bértermelésre szaporított tételek termesztése is zárlati termesztésnek minősül.
+
+[^7]: A 3. § 5. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 3. § 8. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 3. § 30. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 3. § 31. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 3. § 33.2. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 3. § 33.3. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 3. § 37. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.

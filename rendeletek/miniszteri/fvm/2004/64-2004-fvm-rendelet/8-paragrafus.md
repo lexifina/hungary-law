@@ -1,6 +1,6 @@
 ## Növényegészségügyi követelmények
 
-8. § (1) Forgalomba hozni csak a Szolgálat által a külön jogszabályokban előírt rendszerességgel és tartalommal ellenőrzött gyümölcs szaporítóanyagot szabad.
+8. § (1)[^23] Forgalomba hozni csak az MgSzH által a vonatkozó jogszabályok szerint növényegészségügyi szempontból ellenőrzött gyümölcs szaporítóanyagot szabad.
 
 (2) A megfelelőség tanúsításban részesített szaporítóanyag kategóriába sorolásának feltétele a gyümölcs szaporítóanyag előállítása során a megfelelő növényegészségügyi előírások betartása. Egy állomány akkor tekinthető tanúsítottan károsítóktól mentesnek, ha
 
@@ -18,4 +18,7 @@ d) az előállítás során a szaporítóanyag kötelező és rendszeres növén
 
 (5) C.A.C. növényállománnyal való keveredés (az izolációs távolság be nem tartása) esetén a virológiai állapotra vonatkozó jelzést valamennyi növényről el kell távolítani, a növényanyag csak C.A.C. minősítésű lehet.
 
-(6) Amennyiben az ellenőrző vizsgálatok nem igazolják a gyümölcs szaporítóanyag eredeti növényegészségügyi állapotát vagy a vizsgálatok, illetve a szaporítás vagy termesztés során a termelő a vonatkozó technológiai előírásokat nem tartotta be, a Szolgálat a minősítési kategóriára és a virológiai állapotra utaló megkülönböztető jelzés használatát azonnal megtiltja.
+(6)[^24] Amennyiben az ellenőrző vizsgálatok nem igazolják a gyümölcs szaporítóanyag eredeti növényegészségügyi állapotát vagy a vizsgálatok, illetve a szaporítás vagy termesztés során a termelő a vonatkozó technológiai előírásokat nem tartotta be, az MgSzH a minősítési kategóriára és a virológiai állapotra utaló megkülönböztető jelzés használatát azonnal megtiltja.
+
+[^23]: A 8. § (1) bekezdése a 183/2009. (XII. 30.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^24]: A 8. § (6) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés b) pontja szerint módosított szöveg.

@@ -48,8 +48,10 @@ a) a különböző kategóriájú növényeket nem különítették el és azono
 
 b) a tanúsított gyümölcsfaiskolában előállított szaporítóanyag nem felel meg a 3. és 4. számú melléklet szerinti minőségi követelményeknek.
 
-(5) Az egyéb hiányosságok megszüntetését a minősítő intézet határidő és jelentési kötelezettség megállapításával együtt előírja.
+(5)[^65] Az egyéb hiányosságok megszüntetését az MgSzH határidő és jelentési kötelezettség megállapításával együtt előírja.
 
 (6) A zárlatfeloldás feltételeit az ellenőrzöttel közölni kell.
 
 (7) A zárlatot haladéktalanul fel kell oldani, ha a korlátozásra okot adó körülmények megszűnnek és a szaporítóanyagról bebizonyosodik, hogy megfelel e rendelet előírásainak.
+
+[^65]: A 22. § (5) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.

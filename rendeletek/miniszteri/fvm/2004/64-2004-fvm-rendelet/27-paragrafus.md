@@ -1,14 +1,14 @@
 ## Kiskereskedelmi forgalomba hozatal
 
-27. § (1) Ültetési anyag az engedélyes telephelyén kívül vagy viszonteladás céljából kiskereskedelmi forgalomba hozatal keretében lerakatban, illetve egyéb értékesítő helyen a minősítő intézetnél történő bejelentés után hozható forgalomba. A bejelentésnek tartalmaznia kell
+27. § (1)[^80] Ültetési anyag az engedélyes telephelyén kívül vagy viszonteladás céljából kiskereskedelmi forgalomba hozatal keretében lerakatban, illetve egyéb értékesítő helyen az MgSzH-nál történő bejelentés után hozható forgalomba. A bejelentésnek tartalmaznia kell
 
 a) az árusítóhely vezetőjének nevét, címét, valamint a 18. § (3) bekezdésének c) pontja szerinti végzettségét igazoló okirat másolatát,
 
 b) az árusítóhely címét, külterület esetén helyrajzi számát és a megközelítést segítő térképvázlatot is.
 
-(2) A minősítő intézet a bejelentés alapján az árusítóhelyet nyilvántartásba veszi, amiről egyidejűleg értesíti a Szolgálatot.
+(2)[^81] Az MgSzH a bejelentés alapján az árusítóhelyet nyilvántartásba veszi, amiről egyidejűleg értesíti az MgSzH-t.
 
-(3) A minősítő intézet az árusítóhelyen annak nyitvatartási idejében bejelentés nélkül, vagy előre egyeztetett más időpontban ellenőrzést tarthat. Az ellenőrzés kiterjed
+(3)[^82] Az MgSzH az árusítóhelyen annak nyitvatartási idejében bejelentés nélkül, vagy előre egyeztetett más időpontban ellenőrzést tarthat. Az ellenőrzés kiterjed
 
 a) az árusítóhelyen lévő technikai feltételek szakmai alkalmasságának,
 
@@ -48,4 +48,9 @@ b) az értékesítés időpontját,
 
 c) az ültetési anyag mennyiségét, fajtáját, kategóriáját, gyümölcsoltvány estén alanyát.
 
-(11) Amennyiben az árusítóhely ismételten vagy súlyosan megszegi a szaporítóanyag forgalomba hozatalára vonatkozó előírásokat, a minősítő intézet az árusítóhely engedélyének visszavonását kezdeményezi az illetékes települési önkormányzat jegyzőjénél.
+(11)[^83] Amennyiben az árusítóhely ismételten vagy súlyosan megszegi a szaporítóanyag forgalomba hozatalára vonatkozó előírásokat, az MgSzH az árusítóhely engedélyének visszavonását kezdeményezi az illetékes települési önkormányzat jegyzőjénél.
+
+[^80]: A 27. § (1) bekezdés bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés j) pontja szerint módosított szöveg.
+[^81]: A 27. § (2) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) és k) pontja szerint módosított szöveg.
+[^82]: A 27. § (3) bekezdés bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^83]: A 27. § (11) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## A gyümölcs szaporítóanyagok előállításának és forgalomba hozatalának általános követelményei
 
-4. § (1) Gyümölcs szaporítóanyagot kizárólag a minősítő intézet által engedélyezett faiskolában, illetve szaporítás céljára telepített vagy előkészített ültetvényben szabad forgalomba hozatal céljára előállítani. Forgalomba hozatal céljából szaporítani – a kísérleti, nemesítési és génmegőrzési célból végzett szaporítások, valamint a céltermeltetés kivételével – csak azokat a fajtákat, klónokat szabad, amelyek a Nemzeti Fajtajegyzékben, a Szállítói Fajtajegyzékben, illetve a Közösségi Fajtajegyzékben szerepelnek vagy egyedi szaporítási engedéllyel rendelkeznek. A tagállamokban elismert, de a Nemzeti Fajtajegyzékben nem szereplő fajták csak a Szállítói Fajtajegyzékre vételt követően szaporíthatók.
+4. § (1)[^14] Gyümölcs szaporítóanyagot kizárólag az MgSzH által engedélyezett faiskolában, illetve szaporítás céljára telepített vagy előkészített ültetvényben szabad forgalomba hozatal céljára előállítani. Forgalomba hozatal céljából szaporítani – a kísérleti, nemesítési és génmegőrzési célból végzett szaporítások, valamint a céltermeltetés kivételével – csak azokat a fajtákat, klónokat szabad, amelyek a Nemzeti Fajtajegyzékben, a Szállítói Fajtajegyzékben, illetve a Közösségi Fajtajegyzékben szerepelnek vagy egyedi szaporítási engedéllyel rendelkeznek. A tagállamokban elismert, de a Nemzeti Fajtajegyzékben nem szereplő fajták csak a Szállítói Fajtajegyzékre vételt követően szaporíthatók.
 
 (2) A tanúsítási (certifikációs) rendszer keretében csak a Nemzeti Fajtajegyzékben szereplő vagy egyedi szaporítási engedéllyel rendelkező fajták szaporíthatók.
 
@@ -8,7 +8,7 @@
 
 (4) Az előállítás és forgalomba hozatal során a szállító köteles az 5. §-ban részletezett, az általa folytatott tevékenységre jellemző kritikus pontokat figyelemmel kísérni.
 
-(5) A szaporítóanyag előállító köteles a minősítő intézetnek tárgyévi tevékenységét minden év február 28-áig bejelenteni. A bejelentésben nyilatkoznia kell
+(5)[^15] A szaporítóanyag előállító köteles az MgSzH-nak tárgyévi tevékenységét minden év február 28-áig bejelenteni. A bejelentésben nyilatkoznia kell
 
 a) a tárgyévi faiskolai, szaporítóanyag nagykereskedelmi tevékenység folytatásáról,
 
@@ -39,3 +39,6 @@ b) ültetési anyagok és alanycsemeték tekintetében pedig a 4. számú mellé
 (13) A vásárolt szaporító alapanyagot megbontott kötegzárú tételből továbbértékesíteni (viszonteladás) nem szabad.
 
 (14) Harmadik országból behozott szaporító alapanyagot a 28. §-ban foglaltak szerint lehet termesztésbe vonni és forgalomba hozni.
+
+[^14]: A 4. § (1) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^15]: A 4. § (5) bekezdés bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés c) pontja szerint módosított szöveg.

@@ -14,4 +14,6 @@ szaporítóanyagként felhasznált növényállományaira és azok forgalomba ho
 
 b) az a) pontban meghatározott szaporítóanyagot előállító, forgalomba hozó, illetve felhasználó természetes és jogi személyekre, illetve jogi személyiség nélküli gazdasági társaságokra (a továbbiakban együtt: szállító), valamint
 
-c) a gyümölcs szaporítóanyag előállításának és forgalomba hozatalának ellenőrzését végző Országos Mezőgazdasági Minősítő Intézetre (a továbbiakban: minősítő intézet) és a növényegészségügyi ellenőrzésre jogosult megyei (fővárosi) növény- és talajvédelmi szolgálatokra (a továbbiakban: Szolgálat)
+c)[^2] a gyümölcs szaporítóanyag előállításának és forgalomba hozatalának ellenőrzését, valamint növény- egészségügyi ellenőrzését végző Mezőgazdasági Szakigazgatási Hivatal Központjára és területi szerveire (a továbbiakban együtt: MgSzH)
+
+[^2]: Az 1. § c) pontja a 183/2009. (XII. 30.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.

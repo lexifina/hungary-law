@@ -1,6 +1,6 @@
 ## A gyümölcs szaporítóanyagok megjelölése, címkézés
 
-6. § (1) A gyümölcs szaporítóanyagok megjelölésére felhasznált certifikációs (tanúsító) és minősítő címkét a minősítő intézet biztosítja a szállítók számára. A megfelelő minőséget és a címke-előállítás ellenőrizhetőségét biztosító feltételek mellett a certifikációs címkék saját célra történő előállítására a minősítő intézet feljogosíthatja a szállítót.
+6. § (1)[^16] A gyümölcs szaporítóanyagok megjelölésére felhasznált certifikációs (tanúsító) és minősítő címkét az MgSzH biztosítja a szállítók számára. A megfelelő minőséget és a címke-előállítás ellenőrizhetőségét biztosító feltételek mellett a certifikációs címkék saját célra történő előállítására az MgSzH feljogosíthatja a szállítót.
 
 (2) A C.A.C. szaporítóanyagok megjelölésére szolgáló termelői címkéről a szállító gondoskodik.
 
@@ -54,7 +54,7 @@ a) árutermő ültetvény telepítés céljára szándékozzák forgalomba hozni
 
 b) az egy telepítő részére forgalmazni kívánt tétel legalább 200 db oltványból áll,
 
-c) a szállítónak a telepítőtől írásos megrendelése van, melyet a kötegellenőrzéskor az intézet részére be kell mutatni,
+c)[^17] a szállítónak a telepítőtől írásos megrendelése van, melyet a kötegellenőrzéskor az MgSzH részére be kell mutatni,
 
 d) kötegelten tanúsított fás oltványok csak a 23. § a) és b) pontja szerint a faiskola telephelyén végzett kötegellenőrzést követően hozhatók forgalomba,
 
@@ -75,3 +75,6 @@ c) a kötegelten jelölhető faiskolai termékekre – a fémzárolás gyakorlat
 (11) A (10) bekezdés c) pontja szerinti esetekben a címkét oly módon kell felhelyezni, hogy a köteget a címke levétele nélkül ne lehessen felbontani vagy fémzárat kell alkalmazni.
 
 (12) A saját felhasználásra, nyilvántartott kísérletre, illetve kísérleti, nemesítési vagy génmegőrzési célra szaporított tételeket a faiskola saját címkéjével szabad felhasználni, illetve forgalomba hozni. A forgalomba hozatal során a kísérő dokumentumon fel kell tüntetni a felhasználás célját.
+
+[^16]: A 6. § (1) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 6. § (8) bekezdés c) pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (7) bekezdés d) pontja szerint módosított szöveg.
