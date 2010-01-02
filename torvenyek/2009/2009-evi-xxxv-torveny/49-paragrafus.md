@@ -1,5 +1,0 @@
-49. § (1) A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 137. §-ának (3) bekezdésében a „80 százaléka” szövegrész helyébe a „70 százaléka” szöveg lép.
-
-(2) Az Ebtv. 2. §-ának (2) bekezdésében a „közül a pénzbeli ellátások” szövegrész helyébe a „– az e törvényben foglalt kivételekkel –” szöveg lép.
-
-(3) Az Ebtv. 52. §-ának (1) bekezdésében az „összefüggésben, illetőleg munkába vagy onnan lakására (szállására) menet közben éri” szövegrész helyébe az „összefüggésben éri. Üzeminek minősül az a baleset is, amelyet a biztosított munkába vagy onnan lakására (szállására) menet közben szenved el (a továbbiakban: úti baleset)” szövegrész lép, 55. §-ának (7) és (9) bekezdésében a „jövedelmének naptári napi összegével” szövegrészek helyébe a „jövedelme naptári napi összegével, úti baleset esetén annak kilencven százalékával” szöveg, (7) bekezdésben a „naptári napi átlagjövedelem” szövegrész helyébe a „naptári napi átlagjövedelem, úti baleset esetén annak kilencven százaléka” szöveg, (8) bekezdésében a „100 százaléka” szövegrész helyébe a „száz százaléka, úti baleset esetén annak kilencven százaléka” szöveg lép.

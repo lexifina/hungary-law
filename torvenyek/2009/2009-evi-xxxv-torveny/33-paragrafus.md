@@ -1,3 +1,0 @@
-33. § Az Flt. 46/B. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az egyéni és a társas vállalkozó az egészségbiztosítási járulékalap után a minimálbér kétszeresének megfelelő járulékalapig 2,5 százalék, a járulékalap minimálbér kétszeresét meghaladó része után 4 százalék vállalkozói járulékot fizet. Ez a rendelkezés nem vonatkozik arra a személyre, aki öregségi, rokkantsági, baleseti rokkantsági nyugdíjban részesül, vagy arra jogosulttá vált. Nem kell vállalkozói járulékot fizetnie annak az egyéni és társas vállalkozónak, aki a vállalkozói tevékenysége folytatásával egyidejűleg munkaviszonyban is áll, vagy oktatási intézmény nappali tagozatán tanulmányokat folytat.”
