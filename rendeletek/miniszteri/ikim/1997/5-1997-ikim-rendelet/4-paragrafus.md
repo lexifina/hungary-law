@@ -62,56 +62,6 @@ Melléklet az 5/1997. (III. 5.) IKIM rendelethez[^3]
 
 | Atomerőművi technológiai túlnyomás alatt üzemelő rendszerekben bekövetkező meghibásodások elhárítása | Nyomás alatt üzemelő rendszer hibaelhárító |
 
-| BÁNYÁSZAT |
-
-| Aknaszállító gépek kezelése | Aknaszállítógép kezelő |
-
-| Teljesítménytől és típustól függő bányászati berendezések kezelése | Bányagép- és berendezéskezelő I. |
-
-| Teljesítménytől és típustól függő bányászati berendezések kezelése | Bányagép- és berendezéskezelő II. |
-
-| Bányakábelek, tömlővezetékek szerelése, kötések elkészítése | Bányakábel- és tömlővezeték-szerelő |
-
-| Bányamentési munkák | Bányamentő |
-
-| Bányamentő, újraélesztő és oxigénes menekülő készülékek javítása, karbantartása | Bányamentő műszerész |
-
-| Szilárdásvány-bányászati bányaüzemi diszpécserközpontok kezelése, irányítása | Bányaüzemi diszpécserközpont-kezelő |
-
-| Az Általános Bányászati Biztonsági Szabályzatban előírt villamos felülvizsgálatok végzése | Bányaüzemi villamos biztonsági felülvizsgáló |
-
-| Gázfogadó, gázátadó állomások berendezéseinek kezelése | Gázfogadó- és átadóállomás-kezelő |
-
-| Külfejtések, ásvány-előkészítő művek berendezéseinek kezelése | Külszínigép-kezelő |
-
-| Fluidumbányászati, talajmechanikai és kutatófúró berendezések erőgépeinek és erőátviteli egységeinek kezelése | Mélyfúrómotor-kezelő |
-
-| PB lefejtő és töltőberendezések kezelése, palackok töltése és lefejtése | Propánbután-gázlefejtő és töltőberendezés kezelő |
-
-| Robbantóanyag-szállítmányok szállítása és őrzése | Robbanóanyag szállítmánykísérő |
-
-| Robbanóanyagok szállítási, rakodási, készletezési munkái | Robbanóanyag raktárkezelő |
-
-| Ipari robbantási tevékenység tervezése, kivitelezése, irányítása, ellenőrzése | Robbantásvezető |
-
-| Ipari robbantási tevékenység kivitelezése | Robbantómester |
-
-| Sújtólég- és robbanásbiztos villamos berendezések szerelése, üzemeltetése, felülvizsgálata, karbantartása, javítása | Sújtólég- és robbanásbiztos villamos berendezés kezelő |
-
-| Fluidumbányászati kutak, kútkörzetek, kútfejszerelvények, gyűjtő- és szállítóvezetékek üzemeltetése, ellenőrzése | Tankállomás és kútkezelő |
-
-| Bányatérségek jövesztési, biztosítási, omlasztási, felhagyási, speciális fenntartási munkái | Vájár (mélyművelő) |
-
-| Technikusi felkészültséget nem igénylő mélyfúrási, geofizikai jellegű műszaki feladatok ellátása | Mélyfúró |
-
-| Bányászatban alkalmazott villamos és gépi berendezések szerelése, ellenőrzése, javítása | Bánya-elektrolakatos |
-
-| Mélyművelésű bányászatban alkalmazott villamos berendezések és a bányabeli villamosenergia-hálózattal fémesen összekapcsolt külszíni villamos berendezések önálló szerelése, javítása, karbantartása, üzemeltetése | Bányavillamossági szerelő vagy ABBSZ szerinti bányaüzemi önálló villanyszerelő |
-
-| Bányaipari erő- és munkagépek szerelése, javítása, karbantartása | Bányagépész vagy géplakatos |
-
-| Külfejtésű bányák nagy teljesítményű jövesztő, szállító rakodó gépei~nek üzemeltetése, ellenőrzése | Külfejtéses bányaművelő |
-
 | BEL- ÉS KÜLKERESKEDELEM, VENDÉGLÁTÁS, IDEGENFORGALOM |
 
 | Könyvértékesítés* | Könyvesbolti eladó |
@@ -789,4 +739,4 @@ Megjegyzés
 2. A *-gal ellátott tevékenységeknél szakképesítésként elfogadható a szakiránynak megfelelő egyéb szakképesítés vagy magasabb szintű szakirányú szakmai végzettség is.
 
 [^2]: A 4. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 16. §-ának 13. pontja hatályon kívül helyezte.
-[^3]: A melléklet az 50/1999. (IX. 10.) GM rendelet 1. §-ával megállapított, az 1/2008. (II. 8.) GKM rendelet 1. §-a szerint módosított szöveg.
+[^3]: A melléklet az 50/1999. (IX. 10.) GM rendelet 1. §-ával megállapított, az 1/2008. (II. 8.) GKM rendelet 1. §-a, a 60/2009. (XI. 3.) KHEM rendelet 4. § (3) bekezdésének b) pontja szerint módosított szöveg. A 2010. január 2. napján az ez utóbbi módosító rendelet szerinti jelentős munkakört betöltő munkavállaló – figyelemmel a 4. § (2) bekezdésére – munkakörében változatlan feltételekkel tovább foglalkoztatható.
