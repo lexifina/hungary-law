@@ -78,18 +78,6 @@ Szállítói engedélyes tevékenység követelményei
 
 | 5. | Gázátadó állomás kezelő | Szakirányú alapfokú szakképesítés | 1 év |
 
-Tárolói engedélyes tevékenység követelményei
-
-|  | Munkakör | Szakmai képesítés/végzettség | Munkakör betöltéséhez szükséges szakirányú szakmai gyakorlat |
-
-| 1. | A tárolói engedélyes önálló területi/szervezeti egységének egyszemélyi, felelős irányítása | Szakirányú felsőfokú végzettség az 1993. évi XLVIII. törvény 28. §-ának (3) bekezdése és a 25/1994. (X. 14.) IKM rendelet szerint | 3 év |
-
-| 2. | Műszaki-biztonsági szempontból jelentős tevékenységet végző szellemi és fizikai dolgozók közvetlen irányítása | Szakirányú felsőfokú vagy középfokú szakképesítés | 3 év 5 év |
-
-| 3. | Gáztároló és tartozékai, valamint szénhidrogén ipari berendezések sajátos építményei vonatkozásában építési műszaki ellenőrzés | A 244/2006. (XII. 5.) Korm. rendelet szerint |  |
-
-| 4. | Műszaki-biztonsági szempontból jelentős tevékenységet végző fizikai dolgozók közvetlen irányítása | Szakirányú középfokú vagy alapfokú szakképesítés | 3 év 5 év |
-
 Cseppfolyós propán-bután gázok és ezek elegyeinek tartályban vagy palackban történő forgalmazásával kapcsolatos tevékenység követelményei
 
 |  | Munkakör | Szakmai képesítés/végzettség | Munkakör betöltéséhez szükséges szakirányú szakmai gyakorlat |
@@ -107,4 +95,4 @@ Cseppfolyós propán-bután gázok és ezek elegyeinek tartályban vagy palackba
 | 6. | Propán-bután cseretelep kezelő (több mint 3000 kg tömegű propán-butángáznak cseretelepen történő együttes tárolása esetén) | A vonatkozó OKJ szerinti szakképesítés |  |
 
 [^9]: A 7. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 187. pontja hatályon kívül helyezte.
-[^10]: A melléklet a 86/2007. (X. 31.) GKM rendelet 4. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.
+[^10]: A melléklet a 86/2007. (X. 31.) GKM rendelet 4. §-ával megállapított, valamint a 60/2009. (XI. 3.) KHEM rendelet 4. § (3) bekezdésének c) pontja szerint módosított szöveg. A 2010. január 2. napján az ez utóbbi módosító rendelet szerinti jelentős munkakört betöltő munkavállaló – figyelemmel a 4. § (2) bekezdésére – munkakörében változatlan feltételekkel tovább foglalkoztatható.
