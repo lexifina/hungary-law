@@ -1,3 +1,0 @@
-14. § Az Étv. 30/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A településrendezési szerződésben kikötött, illetőleg vállalt kötelezettségek és a megvalósuló településrendezési cél között közvetlen összefüggésnek kell lennie. A településrendezési szerződésben az ingatlan tulajdonosa, vagy annak hozzájárulásával a beruházó által vállalt kötelezettségek teljesítése érdekében a településrendezési kötelezettség tényét a települési önkormányzat jegyzőjének megkeresésére a mellékelt szerződés alapján az ingatlan-nyilvántartásba fel kell jegyeztetni. A kötelezettség megszűnését követő 15 munkanapon belül az önkormányzat jegyzője megkeresi az ingatlanügyi hatóságot a tény törlése érdekében.”
