@@ -1,1 +1,0 @@
-88. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 82. § (1) bekezdésének f) pontjában a „vállalkozói engedéllyel rendelkezők” szövegrész helyébe a „vállalkozók” szöveg lép.

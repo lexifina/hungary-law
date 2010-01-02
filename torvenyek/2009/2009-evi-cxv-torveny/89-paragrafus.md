@@ -1,1 +1,0 @@
-89. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 106. § (4) bekezdésének f) pontjában a „vállalkozói engedéllyel rendelkezők” szövegrész helyébe a „vállalkozók” szöveg lép.

@@ -1,5 +1,3 @@
-## „(3) E törvény 54. § (2) bekezdésében a „jogi személy fél” szövegrész helyébe a „vállalkozás és egyéb jogi személy fél” szöveg lép.”
-
 1. számú melléklet a 2009. évi CXV. törvényhez
 
 ## [10. számú melléklet a 2006. évi V. törvényhez]

@@ -1,3 +1,0 @@
-## „(1) A 7. § szerinti kérelem benyújtásához – ha azt az adós nyújtja be – az adós gazdálkodó szervezet alapítói (tagsági) jogait gyakorló legfőbb szerv előzetes egyetértése szükséges. Egyéni cég esetében a kérelmet a cégtulajdonos saját döntése alapján nyújthatja be. A kérelem benyújtásáról a munkavállalókat, az Mt. 18. §-ában meghatározott szakszervezeteket, az üzemi tanácsot (üzemi megbízottat) tájékoztatni kell.”
-
-44. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés e) pontjában az „azt a személyt is, aki vállalkozói igazolvánnyal rendelkezik, valamint aki gazdasági társaság” szövegrész helyébe „az egyéni vállalkozót, valamint azt a személyt, aki gazdasági társaság vagy egyéni cég” szöveg lép.
