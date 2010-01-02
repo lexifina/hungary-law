@@ -17,5 +17,3 @@ I. Az e törvény 57. § (1) bekezdés b) pontjának és 60. § (1) bekezdés b)
 5. a Dán Királyság esetében: Indkomstskat til staten, Selskabsskat, Den kommunale indkomstskat, Den amtskommunale indkomstskat, Folkepensionsbidragene, Sømandsskat Den særlige indkomstskat, Kirkeskat, Formueskat til staten, Bidrag til dagpengefonden;
 
 6. az Egyesült Királyság esetében: Income tax, Corporation tax, Capital gains tax, Petroleum revenue tax, Development land tax;
-
-7. az Észt Köztársaság esetében: Tulumaks, Sotsiaalmaks, Maamaks;
