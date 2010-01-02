@@ -76,6 +76,6 @@
 
 | 18. | A gyógykezelés céljára szolgáló önálló rendeltetési egység vagy helyiség egyéb önálló rendeltetési egységet is tartalmazó épületben történő elhelyezése esetén. | A biztonságos betegellátáshoz szükséges orvos-szakmai és ápolás-szakmai feltételek meglétének vizsgálatával, valamint az épület egyéb, önálló rendeltetési egységei higiénés, közegészségügyi-járványügyi biztonsága megteremtésével kapcsolatos szakkérdések. | a) elvi építési engedély, b) építési engedély, c) összevont építésügyi hatósági engedély, d) használatbavételi engedély, e) fennmaradási engedély | Állami Népegészségügyi és Tisztiorvosi Szolgálat kistérségi, fővárosi kerületi intézete | Állami Népegészségügyi és Tisztiorvosi Szolgálat regionális intézete |
 
-6. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^13]
+6. melléklet a 193/2009. (IX. 15.) Korm. rendelethez[^14]
 
-[^13]: A 6. mellékletet a 46. § (2) bekezdése hatályon kívül helyezte.
+[^14]: A 6. mellékletet a 46. § (2) bekezdése hatályon kívül helyezte.
