@@ -1,3 +1,5 @@
+## 14. §[^9]
+
 ## Átmeneti rendelkezések
 
 15. § (1) E rendeletben foglaltakat a folyamatban lévő eljárásokra is alkalmazni kell.
@@ -11,3 +13,5 @@
 (5) A Hivatal a 4. számú mellékletnek megfelelően a szakterületek megnevezését hivatalból átvezeti a nyilvántartásban.
 
 (6) Az e rendelet hatálybalépésekor a szakképesítésért felelős miniszterek által vezetett Országos szakmai szakértői névjegyzéken szereplő szakértők a Hivatal által vezetett Országos szakértői névjegyzéken kerülnek nyilvántartásba.
+
+[^9]: A 14. §-t a 13. § (2) bekezdése hatályon kívül helyezte.
