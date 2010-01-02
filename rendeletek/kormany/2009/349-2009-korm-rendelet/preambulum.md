@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, a 2. § (2) bekezdésének tekintetében a fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdés h) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének a) és b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
