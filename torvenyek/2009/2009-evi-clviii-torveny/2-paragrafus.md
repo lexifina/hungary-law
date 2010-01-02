@@ -1,1 +1,0 @@
-2. § Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvénnyel és a megtakarítások ösztönzésével összefüggő törvénymódosításokról szóló 2009. évi CXVI. törvény 134. §-ának 13. pontjában a „3.2.1. és 3.2.2. alpontjai” szövegrész a „3.2.1. alpontja” szöveggel lép hatályba.
