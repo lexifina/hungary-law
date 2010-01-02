@@ -1,4 +1,4 @@
-## 18. § A térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet 2. számú melléklete helyébe az e rendelet Melléklete szerinti melléklet lép.
+## 1–18. §[^1]
 
 19. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – 2009. december 31-én lép hatályba.
 
@@ -6,41 +6,7 @@
 
 (3) A Vhr. e § (5) bekezdés b) pontjával megállapított rendelkezését az e rendelet hatálybalépését követően kiszolgáltatott gyógyszer, forgalmazott gyógyászati segédeszköz, nyújtott gyógyászati ellátás, valamint egyedi méretvétel alapján rendelésre készített gyógyászati segédeszköz vonatkozásában kell alkalmazni.
 
-(4) Nem lép hatályba az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 5. számú mellékletének az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 291/2009. (XII. 18.) Korm. rendelet 1. mellékletével megállapított második táblázata.
-
-(5) A Vhr.
-
-a) 12/A. § (7) bekezdés a) pontjában az „a c)–d) pontban” szövegrész helyébe az „a d) pontban” szöveg,
-
-b) 23. § (2) és (3) bekezdésében a „600 000 Ft” szövegrész helyébe a „400 000 Ft” szöveg,
-
-c) 37. § (4) bekezdésében a „nyolcnapos” szövegrész helyébe a „10 munkanapos” szöveg,
-
-d) 43. §-ának e rendelettel átszámozott (5) bekezdésében az „az (1)–(3)” szövegrész helyébe az „az (1)–(4)” szöveg
-
-lép.
-
-(6) A Vhr.
-
-a) 20. §-a az „otthoni szakápolás” szövegrészt követően az „és otthoni hospice ellátás” szöveggel,
-
-b) 43. §-ának e rendelettel átszámozott (5) bekezdése a „jegyzőkönyvek,” szövegrészt követően a „nyomtatvány,” szöveggel
-
-egészül ki.
-
-(7) Hatályát veszti a Vhr.
-
-a) 11/A. § (5)–(6) bekezdése,
-
-b) 11/D. § (6) bekezdése,
-
-c) 12/A. § (7) bekezdés c) pontja,
-
-d) 39. § (1) bekezdése,
-
-e) 39/A. § (2) bekezdésében az „– az ügyfél hozzájárulása esetén a foglalkoztató –” szövegrész,
-
-f) 41. § (2) bekezdésében az „– a 40. § (1) bekezdésében foglalt esetben az ügyfél hozzájárulása esetén a foglalkoztató –” szövegrész.
+(4)–(7)[^2]
 
 (8) Az 1–18. §, valamint a (4)–(7) bekezdés 2010. január 2-án hatályát veszti. E bekezdés 2010. január 3-án hatályát veszti.
 
@@ -155,3 +121,6 @@ Melléklet a 336/2009. (XII. 29.) Korm. rendelethez
 | keretében kerül sor. | A mellkas-szűrővizsgálat közfinanszírozásban érvényesíthető díja |
 
 ”
+
+[^1]: Az 1–18. §-t a 19. § (8) bekezdése hatályon kívül helyezte.
+[^2]: A 19. § (4)–(7) bekezdését a (8) bekezdés hatályon kívül helyezte.

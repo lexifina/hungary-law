@@ -1,3 +1,0 @@
-## 1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Vhr.) 2. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) A szakellátásra beutalt biztosított ismételt orvosi beutalás nélkül jogosult igénybe venni a járóbeteg-szakellátást, ha annak keretében ismételt ellátása orvosszakmai szempontból indokolt. Az ismételt ellátás indokoltságát a járóbeteg-szakellátás orvosa rögzíti a biztosított egészségügyi dokumentációjában, és erről írásban tájékoztatja a biztosítottat, azzal, hogy ez nem érinti az ellátás beutaló nélkül történő igénybevételének jogosultságát.”
