@@ -1,1 +1,0 @@
-16/B. § Felhatalmazást kap a Kormány, hogy a vállalkozói igazolvány kiadásával, cseréjével kapcsolatos eljárás szabályait, a kérelem-formanyomtatvány tartalmi és formai kellékeit, valamint a vállalkozói igazolvány formai követelményeit rendeletben állapítsa meg.

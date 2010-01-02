@@ -1,1 +1,0 @@
-12/A. § Az egyéni vállalkozó gazdasági tevékenysége során ,,az egyéni vállalkozó'' megnevezést vagy annak ,,e. v.'' rövidítését, a 15. §-ban meghatározott egyéni cég esetén az ,,egyéni cég'' megnevezést vagy annak ,,e. c.'' rövidítését aláírása mellett köteles feltüntetni.
