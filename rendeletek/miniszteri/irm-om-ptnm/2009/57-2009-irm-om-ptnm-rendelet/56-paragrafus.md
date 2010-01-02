@@ -4,6 +4,6 @@
 
 (2) E rendelet 22. § (1) bekezdés b) pontja, 24. § (2), (4) és (5) bekezdése, valamint 12. melléklete 2010. január 1-jén lép hatályba.
 
-(3) E rendelet 57. §-a és 22. melléklete 2010. január 1-jén, 56. § (3) és (4) bekezdése 2010. január 2-án hatályát veszti.
+(3)–(4)[^16]
 
-(4) Hatályát veszti a fegyveres szervek hivatásos, közalkalmazotti és köztisztviselői állományának munkaköri egészségi, pszichikai és fizikai alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint a belügyi egészségügyi szolgálat igénybevételéről szóló 21/2000. (VIII. 23.) BM–IM–TNM együttes rendelet.
+[^16]: Az 56. § (3)–(4) bekezdését a (3) bekezdés hatályon kívül helyezte.

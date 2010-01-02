@@ -1,4 +1,4 @@
-## 57. §[^16]
+## 57. §[^17]
 
 1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez
 
@@ -2050,4 +2050,4 @@ Recidiváló, rosszul kezelhető esetekben „AN” minősítés is adható.
 
 Ht. állományba vételt, valamint rendészeti oktatási intézménybe felvételt megelőzően csak „AN” minősítés adható.
 
-[^16]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte.
+[^17]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte.

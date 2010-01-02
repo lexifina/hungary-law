@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-57-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2009-57-20-1U.2 | 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelet |
+| 2010-01-02 | 2009-57-20-1U.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
