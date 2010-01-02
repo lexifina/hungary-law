@@ -1,1 +1,0 @@
-A halászatról és a horgászatról szóló 1997. évi XLI. törvény 56. §-a (1) bekezdésének a)–b), f)–h) és m) pontjában foglalt felhatalmazás alapján – a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. §-ának l) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
