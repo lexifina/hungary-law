@@ -2,6 +2,8 @@
 
 8. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
-(2) Hatályát veszti a fogyasztói érdekek képviseletét ellátó társadalmi szervezeteknek a 98/27/EK európai parlamenti és tanácsi irányelv szerinti jegyzékbe való felkerülése céljából lefolytatandó eljárásáról szóló 216/2008. (VIII. 29.) Korm. rendelet.
+(2)[^1]
 
 (3) E § (2) bekezdése 2010. január 2-án hatályát veszti. E bekezdés 2010. január 3-án hatályát veszti.
+
+[^1]: A 8. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
