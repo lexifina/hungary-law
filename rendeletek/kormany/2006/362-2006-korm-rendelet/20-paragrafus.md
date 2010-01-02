@@ -28,12 +28,12 @@ d) 18. §[^85] (1) bekezdésének a) pontja és (4) bekezdése
 
 (5)[^86]
 
-(6)[^87] A 10. § (5) bekezdés hb) pontjának „és (2)” szövegrésze 2010. január 1-jén hatályát veszti; e bekezdés 2010. január 2-án hatályát veszti.
+(6)[^87]
 
 (7)[^88]
 
 [^84]: A 20. § (2) bekezdésének c) pontja a Magyar Közlöny 2007. évi 3. számában megjelent helyesbítésnek megfelelő szöveg.
 [^85]: A Magyar Közlöny 2007. évi 3. számában megjelent helyesbítésnek megfelelő szöveg.
 [^86]: A 20. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 169. pontja hatályon kívül helyezte.
-[^87]: A 20. § (6) bekezdése a 118/2008. (V. 8.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
+[^87]: A 20. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
 [^88]: A 20. § (7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 169. pontja hatályon kívül helyezte.
