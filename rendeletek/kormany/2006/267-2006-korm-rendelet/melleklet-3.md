@@ -56,7 +56,7 @@
 
 | 12. | Az államhatártól számított 100 méteren belül épülő létesítmény esetén | Annak elbírálása kérdésében, hogy a létesítmény a kérelemben foglaltak szerinti vagy további feltételek melletti megvalósítása esetén az államhatár rendje biztosított-e, a határrend-sértések és határesemények megelőzhetők-e. | megyei (fővárosi) rendőr-főkapitányság | Országos Rendőr- főkapitányság |
 
-3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^12]
+3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^13]
 
 A bányászati szakigazgatással kapcsolatos eljárásokban közreműködő szakhatóságok
 
@@ -164,4 +164,4 @@ A bányászati szakigazgatással kapcsolatos eljárásokban közreműködő szak
 
 | 13. | Bányatavak fennmaradási engedélye kivételével, ha a létesítményt régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy külön jogszabályban meghatározott esetekben műemléket érintő módon valósítják meg. | Annak elbírálása kérdésében, hogy a létesítmény a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Kulturális Örökségvédelmi Hivatal területi szerve | Kulturális Örökségvédelmi Hivatal központi szerve | IGEN | IGEN | Bányatavak fennmaradása és hasznosítása kivételével | IGEN | NEM |
 
-[^12]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^13]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

@@ -12,6 +12,6 @@
 
 | Veszprémi Bányakapitányság 8201 Veszprém, Budapesti út 2. | Fejér, Győr-Moson-Sopron, Komárom-Esztergom, Vas és Veszprém megye |
 
-2. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^11]
+2. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^12]
 
-[^11]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 181/2009. (IX. 4.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^12]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 181/2009. (IX. 4.) Korm. rendelet 3. §-a szerint módosított szöveg.

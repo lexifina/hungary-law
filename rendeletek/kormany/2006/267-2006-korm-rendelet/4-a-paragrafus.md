@@ -8,4 +8,13 @@
 
 (5) A Kormány a bányászati hatóságnak a polgári felhasználású robbanóanyag gyártására, megszerzésére, tárolására, felhasználására, megsemmisítésére vonatkozó engedélyezési eljárásában, ha a tevékenység végzése védett természeti területen, Natura 2000 területen, barlangban történik vagy ezekre közvetlen hatással van, valamint a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges, – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
+(6)[^8] A Kormány a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések létesítésének (felállításának) és használatbavételének engedélyezésére irányuló eljárásban
+
+a) a létesítésre vonatkozó tűzvédelmi előírások érvényre juttatása kérdésében első fokú eljárásban a hivatásos önkormányzati tűzoltóságot, másodfokú eljárásban a megyei katasztrófavédelmi igazgatóság, a főváros területén az Országos Katasztrófavédelmi Főigazgatóságot,
+
+b) a helyi építési szabályzat előírásainak érvényre juttatása kérdésében első fokú eljárásban az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló kormányrendelet szerinti építésügyi hatóságot, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét
+
+szakhatóságként jelöli ki.
+
 [^7]: A 4/A. §-t a 362/2008. (XII. 31.) Korm. rendelet 22. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^8]: A 4/A. § (6) bekezdését a 273/2009. (XII. 3.) Korm. rendelet 20. § (5) bekezdése iktatta be. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
