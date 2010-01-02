@@ -6,7 +6,7 @@
 
 ## Az adatlap kötelező tartalmi elemei a következők:
 
-## 1. Az adatlapnak tartalmaznia kell annak megjelölését, hogy a kérelmező a 26/2008. (VIII. 30.) PM rendelet (a továbbiakban: Rendelet) alapján az adótanácsadói[^3], az adószakértői vagy az okleveles adószakértői tevékenység végzésére jogosító
+## 1. Az adatlapnak tartalmaznia kell annak megjelölését, hogy a kérelmező a 26/2008. (VIII. 30.) PM rendelet (a továbbiakban: Rendelet) alapján az adótanácsadói[^11], az adószakértői vagy az okleveles adószakértői tevékenység végzésére jogosító
 
 ## – engedély kiadását
 
@@ -26,9 +26,9 @@
 
 ## a) Név:
 
-## b) Születési név[^4]:
+## b) Születési név[^12]:
 
-## c) Korábbi regisztrációs szám[^5]:
+## c) Korábbi regisztrációs szám[^13]:
 
 ## d) Születési hely: ....................................... idő: ........ év ........... hó ..... nap
 
@@ -76,7 +76,7 @@
 
 ## b) Tudomásul veszem, hogy az a), c) és f) pontokban szereplő adatok külön rendelkezés nélkül, az Art. 175. § (19) bekezdése szerint nyilvánosak.
 
-## c) Hozzájárulok a kérelemben rögzített következő személyes adataim Rendelet szerinti nyilvánosságra hozatalához[^6]:
+## c) Hozzájárulok a kérelemben rögzített következő személyes adataim Rendelet szerinti nyilvánosságra hozatalához[^14]:
 
 ## születési név,
 
@@ -206,7 +206,7 @@ b) oldal
 
 „
 
-[^3]: Minden engedély vonatkozásában külön-külön kérelmet kell benyújtani.
-[^4]: Igazolvány pótlásakor, cseréjekor, valamint adatváltozás és a továbbképzési kötelezettség teljesítésének bejelentésekor az a) és c) pontban foglalt adatok megadásán túl a többi adatmező kitöltése akkor szükséges, ha az ott felsorolt adatok az igazolvány-kiadási eljárás során bejelentettekhez képest megváltoztak, bővültek.
-[^5]: A c) ponthoz tartozó adatot akkor kell megadni, ha az adott nyilvántartásban volt már regisztrációs száma a kérelmezőnek.
-[^6]: Hozzájárulás esetén a megfelelő személyes adat külön-külön egyértelműen megjelölendő.
+[^11]: Minden engedély vonatkozásában külön-külön kérelmet kell benyújtani.
+[^12]: Igazolvány pótlásakor, cseréjekor, valamint adatváltozás és a továbbképzési kötelezettség teljesítésének bejelentésekor az a) és c) pontban foglalt adatok megadásán túl a többi adatmező kitöltése akkor szükséges, ha az ott felsorolt adatok az igazolvány-kiadási eljárás során bejelentettekhez képest megváltoztak, bővültek.
+[^13]: A c) ponthoz tartozó adatot akkor kell megadni, ha az adott nyilvántartásban volt már regisztrációs száma a kérelmezőnek.
+[^14]: Hozzájárulás esetén a megfelelő személyes adat külön-külön egyértelműen megjelölendő.

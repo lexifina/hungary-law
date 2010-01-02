@@ -14,4 +14,6 @@
 
 ## b) szervezetre, amely a könyvviteli szolgáltatást végzők továbbképzésének szervezésére és lebonyolítására jelentkezik”.
 
-(2) A Kdr. 1. §-a a következő c) ponttal egészül ki:
+(2)[^4]
+
+[^4]: A 70. § (2) bekezdését a 88. § (3) bekezdése hatályon kívül helyezte.

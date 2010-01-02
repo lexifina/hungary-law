@@ -8,8 +8,10 @@
 
 (3) A JötR. 9., 10., 13., 16., 17., 19., 21. és 23. számú melléklete e rendelet 3. számú melléklete szerint módosul.
 
-(4) A JötR. 3. számú melléklete e rendelet 4. számú melléklete szerint módosul.
+(4)[^2]
 
 (5) A JötR. 1. §-át megelőző „Engedélykérelmek benyújtása” alcím helyébe az „Engedély iránti kérelmek” alcím lép.
 
 (6) A JötR. 1. §-ának (1) bekezdésében a „Vám- és Pénzügyőrség eljárásra illetékes regionális ellenőrzési központjához” szövegrész helyébe a „regionális ellenőrzési központhoz” szöveg, 4. §-ának (1) bekezdésében az „és illetékességgel felruházott” szövegrész helyébe a „rendelkező” szöveg, 10. §-a (1) bekezdésének o) pontjában az „az illetékes hatóság” szövegrész helyébe az „a hatóság” szöveg, 11. §-ának (5) bekezdésében a „határozattal rendelkezik” szövegrész helyébe a „dönt” szöveg, 99. §-a (1) bekezdésében és 101. §-ának (4) bekezdésében az „az illetékes hatóság” szövegrész helyébe az „a hatóság” szöveg, 125. §-ának (1) bekezdésében és 126. §-a (3) bekezdésében az „az illetékes hatósági” szövegrész helyébe az „a hatósági” szöveg, a 14/A. számú mellékletében az „1. Illetékes vámhatóság” szövegrész helyébe az „1. Vámhatóság megnevezése” szöveg lép.
+
+[^2]: A 19. § (4) bekezdését a 88. § (3) bekezdése hatályon kívül helyezte.
