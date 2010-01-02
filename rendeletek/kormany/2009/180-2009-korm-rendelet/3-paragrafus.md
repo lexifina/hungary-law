@@ -1,1 +1,0 @@
-## „t) magyarországi államháztartási belső ellenőrzési standardok: a pénzügyminiszter által közzétett standardok, amelyek a nemzetközi belső ellenőrzési standardokkal összhangban meghatározzák az államháztartási belső ellenőrzés céljai eléréséhez szükséges tevékenységek és eljárások során alkalmazandó alapelveket.”
