@@ -1,4 +1,4 @@
-## 4. § Az R. melléklete helyébe e rendelet melléklete lép.
+## 1–4. §[^2]
 
 5. § (1) E rendelet 2010. január 1-jén lép hatályba.
 
@@ -819,3 +819,5 @@ Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
 |  |  | Tilos |
 
 Vonatkozási idő vége: Adatszolgáltató neve: Adatszolgáltató törzsszáma:
+
+[^2]: Az 1–4. § az 5. § (5) bekezdése alapján hatályát vesztette.
