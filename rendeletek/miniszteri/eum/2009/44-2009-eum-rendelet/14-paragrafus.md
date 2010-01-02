@@ -1,1 +1,0 @@
-## 13. § Hatályát veszti az R1. 8. § (3) bekezdésében a „területileg illetékes” és az „az oktatók névjegyzékét,” szövegrész, 10. § (2) bekezdésének negyedik mondata, 14. § (4) bekezdése, 18. §-a, 23. § (3) bekezdésében a „határozatában” szövegrész, 24. § (4) bekezdése, 3. számú melléklete 1. pont d) alpontja.
