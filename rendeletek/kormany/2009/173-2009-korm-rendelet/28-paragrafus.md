@@ -1,1 +1,0 @@
-## „(4) Amennyiben a (3) bekezdésben foglalt felülvizsgálat eredményeként a megelőlegezett gyermektartásdíjat tovább kell folyósítani, úgy a továbbfolyósítással egyidejűleg a gyámhivatal rendelkezik a felfüggesztés időtartamára esedékes megelőlegezett gyermektartásdíj egyösszegű kifizetéséről.”

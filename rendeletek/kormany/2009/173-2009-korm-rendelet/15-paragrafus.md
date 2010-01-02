@@ -1,3 +1,0 @@
-## „(2) Az (1) bekezdés d) és f) pontja szerinti törvényes képviselő, a hivatásos gyám, a gyermekotthon vezetője és a gyermekvédelmi szakszolgálat eseti gondnoka a nyilatkozatát írásban is előterjesztheti.
-
-## (3) Nyílt örökbefogadás esetén a gyámhivatal az örökbefogadót, az örökbefogadandó korlátozottan cselekvőképes gyermeket, az örökbefogadandó gyermek törvényes képviselőjét, a vér szerinti szülőt és a kiskorú vér szerinti szülő törvényes képviselőjét együttesen – tárgyalás keretében – hallgatja meg. Titkolt terhesség esetén a gyámhivatal a kiskorú vér szerinti szülő kérelmére a törvényes képviselőjének meghallgatását mellőzheti.”

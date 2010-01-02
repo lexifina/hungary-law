@@ -1,1 +1,0 @@
-## „A munkadíj összegét – a Gyvt. 133/A. § (6) bekezdésében foglalt kivétellel – a gyámhatóság az öregségi nyugdíj mindenkori legkisebb összegének százszorosát meghaladó vagyonnal rendelkező gyermek (gondnokolt) vagyonának terhére állapítja meg, feltéve, hogy ezzel nem veszélyezteti a vagyonnal rendelkező gyermek (gondnokolt) lakhatási és megélhetési feltételeit.”

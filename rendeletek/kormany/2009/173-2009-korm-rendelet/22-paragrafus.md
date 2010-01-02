@@ -1,9 +1,0 @@
-## 21. § A Gyer. a következő 65/A. §-sal egészül ki:
-
-## „65/A. § Ha a kérelmező kérelmében nem igazolja
-
-## a) a 3. számú melléklet B) pontjának 4., 5. és 6. alpontja szerinti nyilvános, vagy valamely hatóság vagy bíróság jogszabállyal rendszeresített nyilvántartásában megtalálható adatot, akkor a jegyző az adatok beszerzése érdekében megkeresi a nyilvántartást vezető hatóságot vagy bíróságot,
-
-## b) a 65. § (1) bekezdés e) pontja szerinti adatot, a jegyző az adat beszerzése érdekében megkeresi a tanulói és hallgatói nyilvántartást vezető szervet,
-
-## c) a 65. § (1) bekezdés f) pontja szerinti adatot, a jegyző az adat beszerzése érdekében megkeresi az anyakönyvvezetőt.”
