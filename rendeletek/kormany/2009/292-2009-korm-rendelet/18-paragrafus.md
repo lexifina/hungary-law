@@ -2,6 +2,8 @@
 
 (2) Amennyiben az Szt. 150. §-a szerinti könyvviteli szolgáltatási feladatokat a gazdasági vezető irányítása alá tartozó személy látja el, ez utóbbi személynek kell rendelkeznie az (1) bekezdés szerinti számviteli képesítéssel és a tevékenység ellátására jogosító engedéllyel.
 
-(3) A községi, nagyközségi önkormányzat irányítása alá tartozó költségvetési szerv esetén a gazdasági vezető tekintetében a 19. § (1) bekezdésében foglalt követelmények alkalmazandók.
+(3)[^1] A községi, nagyközségi önkormányzat irányítása alá tartozó költségvetési szerv esetén a gazdasági vezető tekintetében a 19. § (1) bekezdésében foglalt követelmények alkalmazandók.
 
 (4) A (1) bekezdésben foglalt előírások alól abban az esetben adható a kinevezéskor (megbízáskor) felmentés, ha az adott személy költségvetési szervnél legalább ötéves gazdasági vezetői gyakorlattal rendelkezik, és az e §-ban foglaltaknak megfelelő végzettség (képesítés) megszerzéséhez a tanulmányait már megkezdte.
+
+[^1]: A 18. § (3) bekezdését a 249. § (3) bekezdés c) pontja hatályon kívül helyezte 2011. december 31. napjával.
