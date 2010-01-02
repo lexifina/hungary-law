@@ -1,1 +1,0 @@
-A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 10. § (2) bekezdésében foglalt felhatalmazás alapján, a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 1. §-ában megállapított feladatkörömben eljárva a következőket rendelem el:
