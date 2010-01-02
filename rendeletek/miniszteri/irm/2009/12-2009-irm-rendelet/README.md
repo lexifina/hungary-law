@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-12-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2009-12-20-1U.4 | 12/2009. (IV. 30.) IRM rendelet |
+| 2010-01-02 | 2009-12-20-1U.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
