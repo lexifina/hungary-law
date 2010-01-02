@@ -1,3 +1,0 @@
-## 6. § Az ER. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A jármű összeépítése esetén – a 9/A. §-ban meghatározott egyedi és kis sorozatú gyártás esetét kivéve – a közlekedési hatóság igazgatási szolgáltatási díj ellenében, kérelemre összeépítési engedélyt ad ki. Az összeépítési engedély időbeli hatálya egy év. Az összeépítési engedély iránti kérelemhez csatolni kell az 1. számú melléklet I. Jármű összeépítéséhez szükséges műszaki dokumentációk részében meghatározott, a közúti közlekedésről szóló törvény szerint szakértői tevékenység folytatására járműtervezés műszaki szakterületen jogosult szakértő által ellenjegyzett műszaki dokumentációt.”
