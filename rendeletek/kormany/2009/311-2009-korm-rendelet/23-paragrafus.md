@@ -1,6 +1,4 @@
-## 22. § Az építési beruházások megvalósításához szükséges eljárások integrált intézésének részletes szabályairól és a közreműködő hatóságok kijelöléséről szóló 194/2009. (IX. 15.) Korm. rendelet 16. § (2) bekezdése a következő szöveggel lép hatályba:
-
-## „(2) Ha a társhatóság érdemi döntésének meghozatalához jogszabály szerint egy másik társhatóság döntésének ismerete szükséges, és ennek a társhatóságnak a rendelkezésre álló ügyintézési határideje megegyezik vagy hosszabb a döntésére váró társhatóság ügyintézési határidejénél, akkor a döntésre váró társhatóság ügyintézési határideje a döntés meghozatalát követő tizenötödik munkanapon jár le.”
+## 22. §[^10]
 
 ## Záró rendelkezések
 
@@ -18,4 +16,7 @@ b) az a) pontban foglaltakon kívüli egyéb iratokat folyamatosan, de legkéső
 
 megküldi az építésügyért felelős miniszternek.
 
-(5) Nem lép hatályba az építési beruházások megvalósításának elősegítése érdekében egyes kormányrendeletek módosításáról szóló 196/2009. (IX. 15.) Korm. rendelet 16. §-a.
+(5)[^11]
+
+[^10]: A 22. §-t a 26. § (1) bekezdése hatályon kívül helyezte.
+[^11]: A 23. § (5) bekezdését a 26. § (1) bekezdése hatályon kívül helyezte.
