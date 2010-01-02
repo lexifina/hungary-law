@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-93-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2008-93-20-82.3 | 93/2008. (VII. 24.) FVM rendelet |
+| 2010-01-02 | 2008-93-20-82.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
