@@ -1,3 +1,3 @@
-## 15. §[^4]
+## 15. §[^7]
 
-[^4]: A 15. § a 63. § (1) bekezdése alapján hatályát vesztette.
+[^7]: A 15. § a 63. § (1) bekezdése alapján hatályát vesztette.

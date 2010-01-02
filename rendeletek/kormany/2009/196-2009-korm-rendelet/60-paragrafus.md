@@ -1,4 +1,4 @@
-## 59. §[^16]
+## 59. §[^19]
 
 ## Záró rendelkezések
 
@@ -18,4 +18,4 @@ b) a 13. §, a 16. § és a 62. § (2) bekezdés a) és b) pontja.
 
 (6) E rendelet eljárásjogi rendelkezéseit a hatálybalépését követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
 
-[^16]: Az 59. § a 63. § (1) bekezdése alapján hatályát vesztette.
+[^19]: Az 59. § a 63. § (1) bekezdése alapján hatályát vesztette.
