@@ -2,11 +2,11 @@
 
 3. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
-(2) Hatályát veszti a helyi önkormányzatok egységes irattári tervének kiadásáról szóló 12/2006. (XII. 18.) ÖTM rendelet.
+(2)[^1]
 
 (3) A (2) bekezdés az e rendelet hatálybalépését követő napon hatályát veszti. Ez a bekezdés az e rendelet hatálybalépését követő második napon hatályát veszti.
 
-Melléklet a 29/2009. (X. 30.) ÖM rendelethez[^1]
+Melléklet a 29/2009. (X. 30.) ÖM rendelethez[^2]
 
 Egységes irattári terv
 
@@ -1636,4 +1636,5 @@ X.3. Fegyveres biztonsági őrség
 
 | X302 | Rendészeti ügyek | 2 | – |
 
-[^1]: A melléklet a 34/2009. (XII. 29.) ÖM rendelet 3. §-a szerint módosított szöveg.
+[^1]: A 3. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^2]: A melléklet a 34/2009. (XII. 29.) ÖM rendelet 3. §-a szerint módosított szöveg.
