@@ -88,7 +88,7 @@
 
 | ........................................................ Épület, lépcsőház, szint, ajtó |
 
-4. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^6]
+4. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^7]
 
 Vállalkozói igazolvány pótlap
 
@@ -178,4 +178,4 @@ Vállalkozói igazolvány pótlap
 
 | ........................................................ Épület, lépcsőház, szint, ajtó |
 
-[^6]: A 4. melléklet a 13. § (4) bekezdése alapján 2010. július 1-jén hatályát veszti.
+[^7]: A 4. melléklet a 13. § (4) bekezdése alapján 2010. július 1-jén hatályát veszti.
