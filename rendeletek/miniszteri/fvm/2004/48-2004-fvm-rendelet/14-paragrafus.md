@@ -16,10 +16,10 @@ e) az évelő növények esetében első ízben a telepítés évében, a továb
 
 (2) Pótbejelentésre őszi vetésű növényeknél április 1-jéig, tavaszi vetésű növényeknél az (1) bekezdés szerinti bejelentési határidőt követő 30 napig van lehetőség. A bejelentést módosítani, illetve visszavonni az első szántóföldi ellenőrzés várható időpontjáig lehet.
 
-(3)[^22] Az MgSzH-nak a bejelentést követő 30 napon belül, illetve a pótbejelentést követő 15 napon belül a vetőmag-előállító részére jeleznie kell, ha valamilyen okból a vetésbejelentést nem fogadja el. Amennyiben az MgSzH ezen határidőn belül nem jelzi, hogy a vetésbejelentést nem fogadja el, a bejelentést érvényesnek kell tekinteni.
+(3)[^22] Az MgSzH a bejelentést követő 20 munkanapon belül, illetve a pótbejelentést követő 10 munkanapon belül értesíti a vetőmag-előállítót, ha valamilyen okból a vetésbejelentést nem fogadja el.
 
 (4)[^23] A vetőmag-előállító a bejelentett adatokban történt bármely változásról köteles nyolc napon belül írásban tájékoztatni az MgSzH-t.
 
 [^21]: A 14. § (1) bekezdésének záró szövegrésze a 45/2008. (IV. 11.) FVM rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^22]: A 14. § (3) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének e) pontja szerint módosított szöveg.
+[^22]: A 14. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^23]: A 14. § (4) bekezdése a 45/2008. (IV. 11.) FVM rendelet 14. § (2) bekezdése szerint módosított szöveg.

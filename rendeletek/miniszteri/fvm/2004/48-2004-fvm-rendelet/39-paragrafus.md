@@ -22,12 +22,12 @@ d) harmadik országból importált vetőmag belföldiesítő fémzárolásakor h
 
 e) harmadik országból importált, nem véglegesen minősített vetőmag első fémzárolásakor hivatalos fajtaigazolás.
 
-(5)[^38] A fémzárolást a fémzároltatónak – a 39/A. §-ban és a 39/B. §-ban foglaltak kivételével – az MgSzH illetékes vetőmag-felügyelőségénél kell írásban kezdeményeznie.
+(5)[^38] A fémzárolást a fémzároltatónak – a 39/A. §-ban és a 39/B. §-ban foglaltak kivételével – az MgSzH-nak a fémzárolás helye szerint illetékes területi szervénél kell írásban kezdeményeznie.
 
 (6)[^39] Az MgSzH a bejelentéstől számított öt munkanapon belül a fémzárolást elkezdi, a mintavételt elvégzi.
 
 [^35]: A 39. § (1) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
 [^36]: A 39. § (2) bekezdése a 17/2006. (II. 28.) FVM rendelet 1. § (1) bekezdésével megállapított, a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének f) pontja szerint módosított szöveg.
 [^37]: A 39. § (3) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének f) pontja szerint módosított szöveg.
-[^38]: A 39. § (5) bekezdése a 17/2006. (II. 28.) FVM rendelet 1. § (2) bekezdésével megállapított, a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^38]: A 39. § (5) bekezdése a 183/2009. (XII. 30.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^39]: A 39. § (6) bekezdése a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének c) pontja szerint módosított szöveg.
