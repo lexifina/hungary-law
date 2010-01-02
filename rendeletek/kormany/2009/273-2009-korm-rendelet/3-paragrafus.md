@@ -1,0 +1,1 @@
+## „29. Mobil nyomástartó berendezés: a kőolaj-, és földgázbányászati létesítményekben, vagy kőolaj és földgázkutatási területen, változó felállítási helyen üzemelő, valamely technológiai folyamatot (például szeparálást, kútmérést, próbatermeltetést) ideiglenesen ellátó nyomástartó berendezés.”
