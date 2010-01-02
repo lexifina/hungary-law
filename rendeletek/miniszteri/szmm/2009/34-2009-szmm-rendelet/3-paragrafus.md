@@ -2,11 +2,11 @@
 
 3. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
-(2) Hatályát veszti a munkanélküli járadék megállapításához szükséges igazolólapról szóló 4/1997. (I. 28.) MüM rendelet.
+(2)[^1]
 
 (3) E rendelet szabályait azokban az esetekben kell alkalmazni, ha a munkaviszony 2009. december 31-ét követően szűnt meg.
 
-(4) A regionális munkaügyi központok illetékességéről szóló 13/2007. (III. 28.) SZMM rendelet mellékletében a Közép-magyarországi Regionális Munkaügyi Központ kirendeltségeinek felsorolását tartalmazó szövegben ay „1061 Budapest, Andrássy út 10. Pályakezdő és Diplomás Álláskeresők Közvetítő Irodája” szövegrész helyébe az „1092. Budapest, Ráday utca 42–44. Pályakezdő és Diplomás Álláskeresők Közvetítő Irodája” szöveg lép.
+(4)[^2]
 
 (5) E § (2) és (4) bekezdése 2010. január 2-án hatályát veszti. Ez a bekezdés 2010. január 3-án hatályát veszti.
 
@@ -112,4 +112,6 @@ b) közeli hozzátartozó otthoni ápolása céljából [Mt. 139. § (1) bek.], 
 
 c) a munkavállaló magánerőből a saját részére lakás építése [Mt. 140. § (1) bek.].
 
+[^1]: A 3. § (2) bekezdését az (5) bekezdés hatályon kívül helyezte.
+[^2]: A 3. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
 [^*]: (A munkáltatónak abban az esetben kell kitölteni, ha az előzőekben felsorolt jogviszonyok az itt felsorolt módokon szűntek meg).

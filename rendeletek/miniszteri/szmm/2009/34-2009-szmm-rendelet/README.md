@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-34-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2009-34-20-1X.1 | 34/2009. (XII. 30.) SZMM rendelet |
+| 2010-01-02 | 2009-34-20-1X.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
