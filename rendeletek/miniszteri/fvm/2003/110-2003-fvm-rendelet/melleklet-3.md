@@ -414,9 +414,9 @@ e) a vizsgált szaporítóanyag kiinduló növényállományának tulajdonjogi h
 
 f) külföldi növényanyag esetén a hazai bejelentő írásbeli nyilatkozata az elszaporítás és forgalomba hozatal jogi lehetőségeiről.
 
-1.2. Gazdasági értéket meghatározó tulajdonságok
+1.2.[^73] Gazdasági értéket meghatározó tulajdonságok
 
-A bejelentőnek fel kell sorolnia mindazon kísérleteket, próbatermesztéseket, amelynek alapján a vizsgált szaporítóanyag kiinduló növényállományának előnyei, igényei, tulajdonságai megállapíthatók, bizonyíthatók. Azok a kísérletek vehetők figyelembe, amelyeket a minősítő intézetnek a ,,Kísérlet bejelentő és nyilvántartó lap''-on előzetesen vagy legkésőbb az előterjesztés elkészítéséig bejelentettek, és amelyek a szakmai követelményeknek megfelelnek. A gazdasági szempontok alapján a vizsgált szaporítóanyag kiinduló növényállományának teljesítményét az előállítónak az adott kísérletek statisztikai értékelésével és az alapfaj számára jelentős termőhelytípus-csoportok lefedésével országosan bizonyítani kell, legalább 3, az alapfajra jellemző termőtájban.
+A bejelentőnek fel kell sorolnia mindazon kísérleteket, próbatermesztéseket, amelynek alapján a vizsgált szaporítóanyag kiinduló növényállományának előnyei, igényei, tulajdonságai megállapíthatók, bizonyíthatók. Azok a kísérletek vehetők figyelembe, amelyeket az MgSzH-nak a ,,Kísérlet bejelentő és nyilvántartó lap''-on előzetesen vagy legkésőbb az előterjesztés elkészítéséig bejelentettek, és amelyek a szakmai követelményeknek megfelelnek. A gazdasági szempontok alapján a vizsgált szaporítóanyag kiinduló növényállományának teljesítményét az előállítónak az adott kísérletek statisztikai értékelésével és az alapfaj számára jelentős termőhelytípus-csoportok lefedésével országosan bizonyítani kell, legalább 3, az alapfajra jellemző termőtájban.
 
 1.3. Az erdészeti hasznosítás lehetőségei
 
@@ -480,7 +480,7 @@ c) előzetes, tájékoztató jellegű faminőségvizsgálat (testsűrűség, ros
 
 3. A kiinduló növényanyag vizsgálata
 
-3.1. A minősítő intézet
+3.1.[^74] Az MgSzH
 
 a) bekéri az értékeléshez szükséges, a vizsgálati időszak előtti és az alatti újabb adatokat, folyamatos előállítói/kiválasztói adatszolgáltatás keretében,
 
@@ -582,12 +582,16 @@ g) a fakitermelés gépesíthetősége szempontjából kedvező tulajdonságok,
 
 h) a faanyag felhasználására vonatkozó faipari szabványok előírásai alapján fűrész-, lemez-, forgácslapipari célra, teherviselő szerkezetek, bútor stb. készítésére, papír- és cellulózgyártásra, egyéb vegyi, biológiai és mechanikus feldolgozásra való alkalmasság.
 
-4. A vizsgált szaporítóanyag kibocsátására alkalmas kiinduló növényanyag elfogadásának feltételei
+4.[^75] A vizsgált szaporítóanyag kibocsátására alkalmas kiinduló növényanyag elfogadásának feltételei
 
-A minősítő intézet a kiinduló növényanyagot elismeri és regisztrálja, ha
+Az MgSzH a kiinduló növényanyagot elismeri és regisztrálja, ha
 
 a) mint meghatározott genetikai tartalmat hordozó élő anyag az általános követelményeknek megfelel, azonosítható,
 
 b) mint az erdészet termelőeszköze a termesztés ökonómiai céljainak megfelel,
 
 c) szaporítóanyagának széles körű használatától az erdők élőfakészletének növelése, a kikerülő faanyag minőségének javítása, illetve környezetre gyakorolt jótékony hatásának megőrzése kellő biztonsággal elvárható, vagy előre jelezhető.
+
+[^73]: A 3. számú melléklet 1.2. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^74]: A 3. számú melléklet 3.1. alpontjának bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^75]: A 3. számú melléklet 4. pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.

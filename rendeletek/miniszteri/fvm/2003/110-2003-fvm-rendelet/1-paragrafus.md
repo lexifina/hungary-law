@@ -16,4 +16,6 @@ b) a szaporítóanyagok előállítását, begyűjtését, nevelését, készlet
 
 c) azon természetes személyekre, jogi személyekre, jogi személyiséggel nem rendelkező gazdasági társaságokra (a továbbiakban együtt: szervezetek), amelyek erdészeti szaporítóanyag előállításával, begyűjtésével, nevelésével, készletezésével, forgalomba hozatalával és felhasználásával foglalkoznak,
 
-d) a szaporítóanyag minősítő rendszert működtető és ellenőrző Országos Mezőgazdasági Minősítő Intézetre (a továbbiakban: minősítő intézet).
+d)[^1] a szaporítóanyag minősítő rendszert működtető és ellenőrző Mezőgazdasági és Szakigazgatási Hivatal Központjára és területi szerveire (a továbbiakban: MgSzH).
+
+[^1]: Az 1. § (3) bekezdés d) pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés a) pontja szerint módosított szöveg.

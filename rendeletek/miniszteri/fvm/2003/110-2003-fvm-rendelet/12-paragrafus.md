@@ -2,7 +2,7 @@
 
 (2) A törzsültetvények fenntartása során a fajtaidegen, beteg, sérült, leromlott életképességű egyedeket el kell távolítani.
 
-(3)[^1] Törzsültetvény megszüntetésének szándékát és tényét írásban kell bejelenteni a minősítő intézetnek. Állami támogatásból létesített vagy fenntartott törzsültetvény és magtermelő állomány megszüntetéséhez a minősítő intézet engedélye szükséges.
+(3)[^31] Törzsültetvény megszüntetésének szándékát és tényét írásban kell bejelenteni az MgSzH-nak. Állami támogatásból létesített vagy fenntartott törzsültetvény és magtermelő állomány megszüntetéséhez az MgSzH engedélye szükséges.
 
 (4) Magtermelő állomány törzsültetvényként megszüntethető,
 
@@ -12,6 +12,7 @@ b) az állomány természetes felújítása esetén,
 
 c) az erdőgazdálkodó kérelmére, ha a terület fenntartását nem tudja ellátni.
 
-(5) A törzsültetvényekről a minősítő intézet – a változások folyamatos követésével – számítógépes nyilvántartást vezet, amelyet rendszeresen közzétesz.
+(5)[^32] A törzsültetvényekről az MgSzH – a változások folyamatos követésével – számítógépes nyilvántartást vezet, amelyet rendszeresen közzétesz.
 
-[^1]: A 12. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 42. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^31]: A 12. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 42. pontja, a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b)–c) pontja szerint módosított szöveg.
+[^32]: A 12. § (5) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.

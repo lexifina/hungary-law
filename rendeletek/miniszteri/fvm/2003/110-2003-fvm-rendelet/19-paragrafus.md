@@ -1,14 +1,14 @@
 ## Szaporítóanyagok forgalomba hozatalra előkészítése
 
-19. § (1) A forgalomba hozatalra és felhasználásra kerülő szaporítóanyagot az előállítónak kell méret és minőségi osztályokba sorolni, valamint azonosító jelzéssel ellátni. A küllemi tulajdonságok tekintetében a vevő és az eladó közötti szerződés a meghatározó, de a minősítő intézet vitás ügyekben és az ellenőrzések során a 6. számú melléklet A)–E) részében foglalt előírásokat, valamint a ,,kereskedelemben szokásosan elfogadható minőség'' vonatkozásában a 6. számú melléklet F) részében leírtakat tekinti mértékadónak.
+19. § (1)[^50] A forgalomba hozatalra és felhasználásra kerülő szaporítóanyagot az előállítónak kell méret és minőségi osztályokba sorolni, valamint azonosító jelzéssel ellátni. A küllemi tulajdonságok tekintetében a vevő és az eladó közötti szerződés a meghatározó, de az MgSzH vitás ügyekben és az ellenőrzések során a 6. számú melléklet A)–E) részében foglalt előírásokat, valamint a ,,kereskedelemben szokásosan elfogadható minőség'' vonatkozásában a 6. számú melléklet F) részében leírtakat tekinti mértékadónak.
 
-(2) Az előállított szaporítóanyag 6. számú melléklet szerinti küllemi tulajdonságait (a látható minőségét) a minősítő intézet szúrópróbaszerűen ellenőrizheti és erről jegyzőkönyvet állít ki.
+(2)[^51] Az előállított szaporítóanyag 6. számú melléklet szerinti küllemi tulajdonságait (a látható minőségét) az MgSzH szúrópróbaszerűen ellenőrizheti és erről jegyzőkönyvet állít ki.
 
 (3) A kiemelt ültetési anyagot oly módon kell tárolni, hogy a növények életképessége, életereje megmaradjon.
 
-(4) A szaporítóanyagot csak a 13. §-ban foglaltaknak megfelelő tételekben és szállítói származási bizonylattal kísérten szabad forgalomba hozni. A szállítói bizonylat egy példányát a 20. § (6) bekezdésének b) és c) pontjai szerinti határidőre meg kell küldeni a minősítő intézetnek.
+(4)[^52] A szaporítóanyagot csak a 13. §-ban foglaltaknak megfelelő tételekben és szállítói származási bizonylattal kísérten szabad forgalomba hozni. A szállítói bizonylat egy példányát a 20. § (6) bekezdésének b) és c) pontjai szerinti határidőre meg kell küldeni az MgSzH-nak.
 
-(5) A szállítói származási bizonylatnak – a 7. számú melléklet szerint az alap származási igazolványon a 14. § (4) bekezdése szerint feltüntetett adatokon felül – tartalmaznia kell:
+(5)[^53] A szállítói származási bizonylatnak – az MgSzH Központja által rendszeresített és honlapján közzétett 7. számú melléklet szerint az alap származási igazolványon a 14. § (4) bekezdése szerint feltüntetett adatokon felül – tartalmaznia kell:
 
 a) az alap származási igazolványra történő hivatkozást, ideértve az egyes tételek összevonása esetén az összevonást (összekeverést) igazoló, újonnan kiállított alap származási igazolványt is,
 
@@ -45,3 +45,8 @@ c) a vetőmagok kis mennyiségei tekintetében az 1999/105/EK tanácsi irányelv
 (8) A vizsgált kategóriájú ültetési anyagot csomagolási egységenként (kötegenként) minősítő (certifikációs) címkével kell ellátni, amelyen fel kell tüntetni a termelőt, a faj nevét (botanikai néven is), a fajta nevét, a választék megnevezését, a szaporítóanyag kategóriát, a növények számát, amelyekre a címke érvényes, valamint, hogy az ültetési anyag géntechnológiával módosított-e. Más kategóriába sorolt ültetési anyag önkéntesen is ellátható csomagolási egységenként (kötegenként) minősítő (certifikációs) címkével, ha szakmai vagy kereskedelmi érdek ezt indokolja.
 
 (9) Azokat a kategóriákat, amelyekben a különböző típusú kiindulóanyagokból nyert szaporítóanyag forgalmazható, a 8. számú melléklet tartalmazza.
+
+[^50]: A 19. § (1) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^51]: A 19. § (2) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^52]: A 19. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^53]: A 18. § (5) bekezdés bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés f) pontjával megállapított szöveg.

@@ -2,21 +2,21 @@
 
 20. § (1) Az engedélyes csemetekertek, a bejegyzett magbegyűjtőhelyek és a szaporítóanyag forgalmazók kötelesek nyilvántartást vezetni minden készletről. A nyilvántartáshoz össze kell gyűjteni az egyes tételekhez tartozó bizonylatokat.
 
-(2) A szaporítóanyagok nyilvántartását a 7. számú melléklet szerint megadott formanyomtatványon vagy ennek megfelelő tartalmú elektronikus adathordozón kell vezetni. Az utóbbi esetben ellenőrzéskor vagy szemlekor egy lenyomatot térítésmentesen a minősítő intézet rendelkezésére kell bocsátani.
+(2)[^54] A szaporítóanyagok nyilvántartását az MgSzH Központja által rendszeresített és honlapján közzétett 7. számú melléklet szerinti adattartalmú nyomtatványon vagy ennek megfelelő adattartalmú elektronikus adathordozón kell vezetni. Az elektronikus adathordozón vezetett nyilvántartásról egy lenyomatot át kell adni térítésmentesen az MgSzH részére az ellenőrzéskor, illetve a szemlén.
 
-(3) A 7. számú melléklet szerint meghatározott szállítói alapanyag és ültetési anyag származási bizonylatok minősítő intézeti példányait a minősítő intézetnek meg kell küldeni.
+(3)[^55] Az MgSzH Központja által rendszeresített és honlapján közzétett, a 7. számú melléklet szerinti adattartalmú szállítói alapanyag és ültetési anyag származási bizonylatok megfelelő példányait az MgSzH-nak meg kell küldeni.
 
-(4) A minősítő intézet jogosult a szaporítóanyagokkal kapcsolatos nyilvántartásokba, iratokba és bizonylatokba betekinteni, szükség esetén azokról másolatot készíttetni.
+(4)[^56] Az MgSzH jogosult a szaporítóanyagokkal kapcsolatos nyilvántartásokba, iratokba és bizonylatokba betekinteni, szükség esetén azokról másolatot készíttetni.
 
-(5) A minősítő intézet a tudomására jutott üzleti adatokat, csak jogszabálynak megfelelő módon használhatja fel, az érintett hozzájárulása nélkül névre szólóan közzé nem teheti. Kivételt képez, ha a közzététel súlyos szakmai hiba, szabálysértés vagy bűncselekmény megelőzését, illetve elhárítását szolgálja.
+(5)[^57] Az MgSzH a tudomására jutott üzleti adatokat, csak jogszabálynak megfelelő módon használhatja fel, az érintett hozzájárulása nélkül névre szólóan közzé nem teheti. Kivételt képez, ha a közzététel súlyos szakmai hiba, szabálysértés vagy bűncselekmény megelőzését, illetve elhárítását szolgálja.
 
 (6) Az e rendeletben foglalt előírások végrehajtására a következő határidők irányadóak:
 
 a) termelői (házi, belső használatra szánt) csemeteleltár: augusztus 15-ig,
 
-b) szállítói szaporító alapanyag származási bizonylat megküldése a minősítő intézetnek: őszi időszakban december 31-éig, a tavaszi időszakban május 31-éig,
+b)[^58] szállítói szaporító alapanyag származási bizonylat megküldése az MgSzH-nak: őszi időszakban december 31-éig, a tavaszi időszakban május 31-éig,
 
-c) szállítói ültetési anyag származási igazolvány megküldése a minősítő intézetnek: az őszi forgalom után december 31-éig, a tavaszi forgalom után május 31-éig,
+c)[^59] szállítói ültetési anyag származási igazolvány megküldése az MgSzH-nak: az őszi forgalom után december 31-éig, a tavaszi forgalom után május 31-éig,
 
 d) importkérelem és zárlati termelés engedélyezésének kérése harmadik országból: a behozatal tervezett időpontját megelőző 30 nap,
 
@@ -35,3 +35,10 @@ j) adatváltozás bejelentése: 30 napon belül,
 k) maggyűjtés megkezdése: 8 nappal a gyűjtés kezdete előtt,
 
 l) fémzárolási kérelem: 8 nappal a tervezett időpont előtt.
+
+[^54]: A 20. § (2) bekezdése a 183/2009. (XII. 30.) FVM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^55]: A 20. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^56]: A 20. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^57]: A 20. § (5) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^58]: A 20. § (6) bekezdés b) pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^59]: A 20. § (6) bekezdés c) pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.

@@ -4,11 +4,11 @@
 
 a) az Európai Unió Tanácsának határozata alapján az Európai Unión belül előállított és a Tanács 1999/105/EK irányelve követelményeit teljesítő szaporítóanyaggal egyenértékűnek számít, vagy
 
-b) a minősítő intézet az Európai Unió Bizottságának felhatalmazása alapján kivételes engedélyt adott ki.
+b)[^68] az MgSzH az Európai Unió Bizottságának felhatalmazása alapján kivételes engedélyt adott ki.
 
 (2) Az (1) bekezdés b) pontja esetében a növényanyag szaporítóanyagként kevésbé szigorú követelményekkel kerül importra. A kivételes engedély kiadásának feltétele, hogy a szaporítóanyag az ellátás biztonsága érdekében szükséges, és semmiféle kedvezőtlen befolyása nincs az erdőgazdálkodásra, továbbá az 1. §-ban részletezett célokat nem veszélyezteti. A kivételes engedély kiegészítő rendelkezésekkel látható el.
 
-(3) Forgalomba hozatali célra előállított erdészeti szaporítóanyagot csak bejegyzett erdészeti szaporítóanyag-előállítónak és szaporítóanyag forgalmazónak szabad importálni. Az import erdészeti szaporítóanyagot alapanyag vagy ültetési anyag származási igazolványnak vagy azzal egyenértékű, a származási ország által kiadott okmánynak kell kísérnie, és a beérkezést a szaporítóanyagot kísérő származási igazolvány másolatának megküldésével 8 napon belül be kell jelenteni. A minősítő intézet az átszállított szaporítóanyagot belföldiesítő szemlében részesíti.
+(3)[^69] Forgalomba hozatali célra előállított erdészeti szaporítóanyagot csak bejegyzett erdészeti szaporítóanyag-előállítónak és szaporítóanyag forgalmazónak szabad importálni. Az import erdészeti szaporítóanyagot alapanyag vagy ültetési anyag származási igazolványnak vagy azzal egyenértékű, a származási ország által kiadott okmánynak kell kísérnie, és a beérkezést a szaporítóanyagot kísérő származási igazolvány másolatának megküldésével 8 napon belül be kell jelenteni. Az MgSzH az átszállított szaporítóanyagot belföldiesítő szemlében részesíti.
 
 (4) Az (1) bekezdés b) pontja szerint importált erdészeti szaporítóanyagot az erdészeti szaporítóanyag-előállítónak az importálás, a további feldolgozás és a forgalomba hozatal során a többi szaporítóanyagtól elkülönítve kell tárolni és a ,,kevésbé szigorú követelményeket teljesítő szaporítóanyag'' kategóriát kell alkalmazni.
 
@@ -21,3 +21,6 @@ b) azokra a szaporítóanyagokra, amelyek vámszabad területen vagy vámhatós�
 c) a Bizottság 2002/2301/EK rendelete szerint fajonként megállapított kis tételnek számító szaporító alapanyag mennyiségekre.
 
 (6) Zárlati termesztés esetén, ha a faj, származás vagy fajta Magyarországon nem szaporítható és nem használható fel, a teljes mennyiséget kötelező kiszállítani vagy a szemle során meg kell semmisíteni.
+
+[^68]: A 24. § (1) bekezdés b) pontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^69]: A 24. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.

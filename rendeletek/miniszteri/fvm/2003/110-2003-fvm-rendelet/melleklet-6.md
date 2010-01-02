@@ -86,7 +86,7 @@
 
 ## legyenek.
 
-## 1.1.2.4.2. A maggyűjtés az állományok fokozatos, több évre elhúzódó, folyamatosan csak néhány fát érintő kitermelésével is megengedett. Az ilyen fakitermelést az illetékes erdőfelügyelőséggel egyeztetni kell.
+## 1.1.2.4.2.[^83] A maggyűjtés az állományok fokozatos, több évre elhúzódó, folyamatosan csak néhány fát érintő kitermelésével is megengedett. Az ilyen fakitermelést az MgSzH-nak az erdőterület fekvése szerint illetékes területi szervével egyeztetni kell.
 
 ## (3) Az engedélyezés általános feltételei:
 
@@ -98,7 +98,7 @@
 
 ## 1.1.2.5.1. Az állományoknak elsősorban fahozam, törzsalak, egyenesség és egészségi állapot tekintetében kell más állományokhoz viszonyítva kitűnniük. Fajhibridek előfordulása csak kismértékben engedhető meg.
 
-## 1.1.2.5.2. A maggyűjtés az állományok fokozatos, több évre elhúzódó, folyamatosan csak néhány fát érintő kitermelésével javasolt. A fakitermelést az illetékes erdőfelügyelőséggel egyeztetni kell.
+## 1.1.2.5.2.[^84] A maggyűjtés az állományok fokozatos, több évre elhúzódó, folyamatosan csak néhány fát érintő kitermelésével javasolt. A fakitermelést az MgSzH-nak az erdőterület fekvése szerint illetékes területi szervével egyeztetni kell.
 
 ## 1.1.2.5.3. Az engedélyezés általános feltételei:
 
@@ -132,17 +132,17 @@
 
 ## 1.2.1. Kezdeményezés
 
-## 1.2.1.1. Törzskönyvezésre javaslatot tehet az erdő tulajdonosa (kezelője), az Erdészeti Tudományos Intézet, a Nyugat-Magyarországi Egyetem, az Állami Erdészeti Szolgálat Területi Igazgatósága, a Környezetvédelmi és Vízügyi Minisztérium Természetvédelmi Hivatala és területi szervei (nemzeti park igazgatóságok), valamint hivatalból a minősítő intézet.
+## 1.2.1.1.[^85] Törzskönyvezésre javaslatot tehet az erdő tulajdonosa (kezelője), az Erdészeti Tudományos Intézet, a Nyugat-Magyarországi Egyetem, az Állami Erdészeti Szolgálat Területi Igazgatósága, a Környezetvédelmi és Vízügyi Minisztérium Természetvédelmi Hivatala és területi szervei (nemzeti park igazgatóságok), valamint hivatalból az MgSzH.
 
-## 1.2.1.2. A törzskönyvezés kezdeményezője a kérelmét 1 példányban megküldi a minősítő intézet részére a ,,Magtermelő állomány-törzslap'' című nyomtatványon.
+## 1.2.1.2.[^86] A törzskönyvezés kezdeményezője a kérelmét 1 példányban megküldi az MgSzH részére a ,,Magtermelő állomány-törzslap'' című nyomtatványon.
 
-## 1.2.1.3. A minősítő intézet, ha az állomány a bejelentőív adatai alapján az 1.1. rész szerinti követelményeknek megfelel, az állományt törzskönyvi előjegyzésbe veszi.
+## 1.2.1.3.[^87] Az MgSzH, ha az állomány a bejelentőív adatai alapján az 1.1. rész szerinti követelményeknek megfelel, az állományt törzskönyvi előjegyzésbe veszi.
 
 ## 1.2.2. Helyszíni bizottsági minősítés
 
-## 1.2.2.1. A minősítő intézet a beérkezett javaslat helyszíni elbírálására bírálóbizottságot kér fel.
+## 1.2.2.1.[^88] Az MgSzH a beérkezett javaslat helyszíni elbírálására bírálóbizottságot kér fel.
 
-## 1.2.2.2. A bírálóbizottságba tagot jelöl az erdő tulajdonosa (kezelője), az Erdészeti Tudományos Intézet, az Állami Erdészeti Szolgálat Területi Igazgatósága, valamint a minősítő intézet. Védett természeti területen a Környezetvédelmi és Vízügyi Minisztérium területi szervei (nemzeti park igazgatóságok) is tagot küldhetnek.
+## 1.2.2.2.[^89] A bírálóbizottságba tagot jelöl az erdő tulajdonosa (kezelője), az Erdészeti Tudományos Intézet, az Állami Erdészeti Szolgálat Területi Igazgatósága, valamint az MgSzH. Védett természeti területen a Környezetvédelmi és Vízügyi Minisztérium területi szervei (nemzeti park igazgatóságok) is tagot küldhetnek.
 
 ## 1.2.2.3. A bírálóbizottság az állományokat helyszíneli, ellenőrzi határait és az üzemtervnek való megfelelést. Mintaterületet jelöl ki, és az egyedek bonitálásával megállapítja a minőségi jellemzőket. Az állomány fenotípusos minősítése a bírálóbizottság feladata.
 
@@ -224,9 +224,9 @@
 
 ## 1.2.4.2. A ,,Vizsgált'' kategóriába sorolás feltétele, hogy a populáció fenotípusosan mutatkozó kedvező tulajdonságainak öröklődése a 3. és 4. számú melléklet szerint nyerjen bizonyítást.
 
-## 1.2.4.3. A Bizottság javaslata alapján a minősítő intézet a követelményeknek megfelelt állomány törzskönyvezi, illetve a követelményeknek meg nem felelő állományt törli a törzskönyvi előjegyzésből.
+## 1.2.4.3.[^90] A Bizottság javaslata alapján az MgSzH a követelményeknek megfelelt állomány törzskönyvezi, illetve a követelményeknek meg nem felelő állományt törli a törzskönyvi előjegyzésből.
 
-## 1.2.4.4. A ,,Magtermelő állomány-törzslap'' című nyomtatványt jóváhagyás után a minősítő intézet köteles megküldeni:
+## 1.2.4.4.[^91] A ,,Magtermelő állomány-törzslap'' című nyomtatványt jóváhagyás után az MgSzH köteles megküldeni:
 
 ## a) az erdő kezelője részére 1 példányban,
 
@@ -238,7 +238,7 @@
 
 ## 1.3. Ellenőrzési feladatok
 
-## 1.3.1. A magtermelő állományokat a minősítő intézet időarányosan, de legalább 5 évente ellenőrzi, amelynek főbb szempontjai a következők:
+## 1.3.1.[^92] A magtermelő állományokat az MgSzH időarányosan, de legalább 5 évente ellenőrzi, amelynek főbb szempontjai a következők:
 
 ## a) az állomány beazonosíthatóságának ellenőrzése (MÁ jelek a határon), az erdőtervi adatok naprakésszé tétele törzslapon,
 
@@ -266,7 +266,7 @@
 
 ## 1.4.7. A mageredetű vagy egyszer sarjaztatott akácállományok génkészlete egy alkalommal megőrizhető gyökérsarjról való felújítással.
 
-## 1.4.8. Az erdőgazdálkodó egyedi állománykezelési útmutató elkészítésével kutatási vagy oktatási intézményt, illetve szakértőt megbízhat. Ennek 1-1 példányát ,,Törzslap''-hoz való csatolás céljából az Állami Erdészeti Szolgálat Területi Igazgatóságának és a minősítő intézetnek meg kell küldeni.
+## 1.4.8.[^93] Az erdőgazdálkodó egyedi állománykezelési útmutató elkészítésével kutatási vagy oktatási intézményt, illetve szakértőt megbízhat. Ennek 1-1 példányát ,,Törzslap''-hoz való csatolás céljából az Állami Erdészeti Szolgálat Területi Igazgatóságának és az MgSzH-nak meg kell küldeni.
 
 ## 1.5. Az állományok törzsültetvénykénti megszüntetése (törzskönyvből való törlés)
 
@@ -274,7 +274,7 @@
 
 ## 1.5.2. Kivételes esettől eltekintve, törlést csak az állomány egészségi állapotának súlyos megromlása vagy felújulása miatt lehet kezdeményezni.
 
-## 1.5.3. A törzskönyvből való törlésről a minősítő intézet dönt az erdészeti szakhatóság véleményének figyelembevételével. A törlésről a minősítő intézet értesíti az erdő kezelőjét, valamint az Állami Erdészeti Szolgálat Területi Igazgatóságát, védett természeti területen a Környezetvédelmi és Vízügyi Minisztérium Természetvédelmi Hivatalának területi szerveit.
+## 1.5.3.[^94] A törzskönyvből való törlésről az MgSzH dönt és arról értesíti az erdő kezelőjét, valamint védett természeti területen az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség területi felügyelőségeit.
 
 ## 2. Magtermesztő ültetvények
 
@@ -284,7 +284,7 @@
 
 ## 2.1.2. Fatermesztési (gazdasági) célú magtermesztő ültetvény létesítéshez csak ,,szuperelit'' szaporítási fokozatú szaporítóanyag használható fel.
 
-## 2.1.3. A minősítő intézet a 2.1.1. és 2.1.2. pontok szerinti előírásoktól eltekinthet, illetve a továbbiakban részletezett követelményszintet mérsékelheti, ha a magtermesztő ültetvény elsődleges célja valamely populáció genetikai készletének megőrzése, de az ültetvényt alkotó komponensek beazonosíthatóságától nem tekinthet el.
+## 2.1.3.[^95] Az MgSzH a 2.1.1. és 2.1.2. pontok szerinti előírásoktól eltekinthet, illetve a továbbiakban részletezett követelményszintet mérsékelheti, ha a magtermesztő ültetvény elsődleges célja valamely populáció genetikai készletének megőrzése, de az ültetvényt alkotó komponensek beazonosíthatóságától nem tekinthet el.
 
 ## 2.1.4. Az ültetvényben levő törzsfaklónok, illetve -családok száma biztosítani kell a szabad beporzással keletkezett utódnemzedék kellő genetikai sokszínűségét. Egy ültetvényben legkevesebb 30 klón, illetve család kell legyen. Kevesebb komponens egyedi mérlegelés esetén akkor lehetséges, ha a 4. és 5. számú melléklet szerinti összehasonlító vizsgálatok eredményei ezt indokolják. Szabadbeporzású magtermesztő ültetvény esetében azonban ez az érték 15-nél kevesebb nem lehet.
 
@@ -308,7 +308,7 @@
 
 ## 2.3.1. Magtermesztő ültetvény létesítése
 
-## 2.3.1.1. Magtermesztő ültetvény létesítésének szándékát a minősítő intézetnek előzetesen be kell jelenteni, és az erdészeti genetikai ismeretekkel rendelkező szakértő által készített, de legalább felülvizsgált (ez esetben ő a felelős tervező) kiviteli tervdokumentációt a minősítő intézettel jóvá kell hagyatni.
+## 2.3.1.1.[^96] Magtermesztő ültetvény létesítésének szándékát az MgSzH-nak előzetesen be kell jelenteni, és az erdészeti genetikai ismeretekkel rendelkező szakértő által készített, de legalább felülvizsgált (ez esetben ő a felelős tervező) kiviteli tervdokumentációt az MgSzH-val jóvá kell hagyatni.
 
 ## 2.3.1.2. A kiviteli tervnek tartalmazni kell:
 
@@ -334,7 +334,7 @@
 
 ## 2.3.3. Törzskönyvezés és a törzskönyv vezetése
 
-## 2.3.3.1. Termőre forduláskor az ültetvényt a minősítő intézet minősíti, és ellenőrzi, hogy a klónösszetétel megfelel-e a kiviteli tervdokumentációnak, és kielégítő-e az izoláció. Jelentős eltérésnek számít az 5%-nál nagyobb számú, az összeállítástól eltérő klón.
+## 2.3.3.1.[^97] Termőre forduláskor az ültetvényt az MgSzH minősíti, és ellenőrzi, hogy a klónösszetétel megfelel-e a kiviteli tervdokumentációnak, és kielégítő-e az izoláció. Jelentős eltérésnek számít az 5%-nál nagyobb számú, az összeállítástól eltérő klón.
 
 ## 2.3.3.2. Csak az a magtermesztő ültetvény minősíthető és törzskönyvezhető, továbbá vetőmagja akkor engedélyezhető az elismeréskor (fajta esetén) vagy törzskönyvi előjegyzéskor meghatározott OECD kategóriában forgalomba hozatalra, illetve felhasználásra, melynek klónösszetétele és klónaránya megfelel az elismeréskor meghatározottnak és minden egyes egyede azonosítható, valamint nemkívánatos idegen pollentől megfelelően izolált.
 
@@ -366,7 +366,7 @@
 
 ## 2.5. Ellenőrzési feladatok
 
-## 2.5.1. A minősítő intézet évente ellenőrzi az ültetvényeket, amelynek főbb szempontjai:
+## 2.5.1.[^98] Az MgSzH évente ellenőrzi az ültetvényeket, amelynek főbb szempontjai:
 
 ## a) az egészségi állapot megítélése,
 
@@ -376,11 +376,11 @@
 
 ## d) a maggyűjtés ellenőrzése az OECD követelményrendszer szerint.
 
-## 2.5.2. A szakmai követelmények súlyos megsértése esetén a minősítő intézet az ültetvényt zár alá helyezi.
+## 2.5.2.[^99] A szakmai követelmények súlyos megsértése esetén az MgSzH az ültetvényt zár alá helyezi.
 
 ## 2.6. Törzskönyvből való törlés
 
-## 2.6.1. Az ültetvényt a gazdálkodó a minősítő intézet engedélye nélkül megszüntetheti, ha azt saját pénzügyi forrásából létesítette és üzemeltette. Ez esetben a megszüntetést a minősítő intézetnek köteles bejelenteni. Amennyiben az ültetvény létesítése és üzemeltetése részben vagy egészben állami pénzből történt, az ültetvény megszüntetéséhez a minősítő intézet előzetes engedélye szükséges. A döntés főbb szempontjai:
+## 2.6.1.[^100] Az ültetvényt a gazdálkodó az MgSzH engedélye nélkül megszüntetheti, ha azt saját pénzügyi forrásából létesítette és üzemeltette. Ez esetben a megszüntetést az MgSzH-nak köteles bejelenteni. Amennyiben az ültetvény létesítése és üzemeltetése részben vagy egészben állami pénzből történt, az ültetvény megszüntetéséhez az MgSzH előzetes engedélye szükséges. A döntés főbb szempontjai:
 
 ## a) az ország távlati szaporítóanyag igényének kielégítéséhez szükség van-e az ültetvényre,
 
@@ -388,7 +388,7 @@
 
 ## c) az ültetvény egészségi állapota.
 
-## 2.6.2. A minősítő intézet kezdeményezheti a továbbszaporításra a 2.6.1. pont alapján alkalmatlanná vált ültetvény törzskönyvből való törlését és felszámolását.
+## 2.6.2.[^101] Az MgSzH kezdeményezheti a továbbszaporításra a 2.6.1. pont alapján alkalmatlanná vált ültetvény törzskönyvből való törlését és felszámolását.
 
 ## 3. Anyatelepek
 
@@ -410,13 +410,13 @@
 
 ## 3.3. Az anyatelepek létesítése és minősítése
 
-## 3.3.1. Törzsanyatelepet, törzsállományt és központi anyatelepet csak a minősítő intézet engedélyével és a fajtafenntartó hozzájárulásával szabad létesíteni. Üzemi anyatelep létesítésének szándékát a minősítő intézetnek be kell jelenteni, kérve a szükséges elit dugvány fémzárolását.
+## 3.3.1.[^102] Törzsanyatelepet, törzsállományt és központi anyatelepet csak az MgSzH engedélyével és a fajtafenntartó hozzájárulásával szabad létesíteni. Üzemi anyatelep létesítésének szándékát az MgSzH-nak be kell jelenteni, kérve a szükséges elit dugvány fémzárolását.
 
 ## 3.3.2. Az anyatelepről egyszerűsített kiviteli dokumentációt kell benyújtani, a faj, a fajta, a darabszám, a sor- és tőtávolság, a művelési mód megadásával. Csatolni kell az áttekintő megvalósulási vázlatot, valamint a felhasznált növényanyag származási igazolványának adatait.
 
-## 3.3.3. A minősítő intézet az új anyatelepet törzskönyvi előjegyzésbe veszi és egyedi azonosító kóddal látja el.
+## 3.3.3.[^103] Az MgSzH az új anyatelepet törzskönyvi előjegyzésbe veszi és egyedi azonosító kóddal látja el.
 
-## 3.3.4. A minősítő intézet a minősítő szemlén – szükség szerint szakértő bevonásával – minősíti az anyatelepet, különös tekintettel a fajtaazonosságra és az egészségi állapotra, és a fajtatiszta, egészséges, megfelelő kultúrállapotban lévő anyatelepet törzskönyvezi.
+## 3.3.4.[^104] Az MgSzH a minősítő szemlén – szükség szerint szakértő bevonásával – minősíti az anyatelepet, különös tekintettel a fajtaazonosságra és az egészségi állapotra, és a fajtatiszta, egészséges, megfelelő kultúrállapotban lévő anyatelepet törzskönyvezi.
 
 ## 3.4. Az anyatelep fenntartása
 
@@ -442,14 +442,41 @@
 
 ## 3.5. Ellenőrzési feladatok
 
-## 3.5.1. A minősítő intézet évente a helyszínen ellenőrzi az anyatelep továbbszaporításra alkalmas voltát, a fajtaazonosság, a kultúrállapot, a növényegészségügyi helyzet, valamint a megtermelt szaporítóanyag hozama és életképessége alakulását.
+## 3.5.1.[^105] Az MgSzH évente a helyszínen ellenőrzi az anyatelep továbbszaporításra alkalmas voltát, a fajtaazonosság, a kultúrállapot, a növényegészségügyi helyzet, valamint a megtermelt szaporítóanyag hozama és életképessége alakulását.
 
-## 3.5.2. A minősítő intézet időközönként az egyes anyatelepek szaporítóanyaga összehasonlító kitermesztésével ellenőrzi a kibocsátott szaporítóanyag fajtatisztaságát, egyöntetűségét és életerejét.
+## 3.5.2.[^106] Az MgSzH időközönként az egyes anyatelepek szaporítóanyaga összehasonlító kitermesztésével ellenőrzi a kibocsátott szaporítóanyag fajtatisztaságát, egyöntetűségét és életerejét.
 
 ## 3.6. Törzskönyvből való törlés
 
-## 3.6.1. A klóngyűjtemény és a központi anyatelep megszüntetéséhez a minősítő intézet előzetes engedélye szükséges.
+## 3.6.1.[^107] A klóngyűjtemény és a központi anyatelep megszüntetéséhez az MgSzH előzetes engedélye szükséges.
 
-## 3.6.2. Üzemi anyatelepet a gazdálkodó a minősítő intézet előzetes engedélye nélkül is megszüntethet, de a minősítő intézet tekintetében bejelentési kötelezettséggel tartozik. A továbbszaporításra alkalmatlan anyatelepet a minősítő intézet törli a törzskönyvből.
+## 3.6.2.[^108] Üzemi anyatelepet a gazdálkodó az MgSzH előzetes engedélye nélkül is megszüntethet, de az MgSzH tekintetében bejelentési kötelezettséggel tartozik. A továbbszaporításra alkalmatlan anyatelepet az MgSzH törli a törzskönyvből.
 
 6. számú melléklet a 110/2003. (X. 21.) FVM rendelethez
+
+[^83]: Az 5. számú melléklet 1.1.2.4.2. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés j) pontja szerint módosított szöveg.
+[^84]: Az 5. számú melléklet 1.1.2.5.2. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés k) pontja szerint módosított szöveg.
+[^85]: Az 5. számú melléklet 1.2.1.1. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^86]: Az 5. számú melléklet 1.2.1.2. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^87]: Az 5. számú melléklet 1.2.1.3. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^88]: Az 5. számú melléklet 1.2.2.1. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^89]: Az 5. számú melléklet 1.2.2.2. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^90]: Az 5. számú melléklet 1.2.4.3. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^91]: Az 5. számú melléklet 1.2.4.4. alpontjának bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^92]: Az 5. számú melléklet 1.3.1. alpontjának bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^93]: Az 5. számú melléklet 1.4.8. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^94]: Az 5. számú melléklet 1.5.3. pontja a 183/2009. (XII. 30.) FVM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^95]: Az 5. számú melléklet 2.1.3. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^96]: Az 5. számú melléklet 2.3.1.1. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés c) és i) pontja szerint módosított szöveg.
+[^97]: Az 5. számú melléklet 2.3.3.1. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^98]: Az 5. számú melléklet 2.5.1. alpontjának bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^99]: Az 5. számú melléklet 2.5.2. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^100]: Az 5. számú melléklet 2.6.1. alpontjának bevezető szövegrésze a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b)–c) pontja szerint módosított szöveg.
+[^101]: Az 5. számú melléklet 2.6.2. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^102]: Az 5. számú melléklet 3.3.1. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b)–c) pontja szerint módosított szöveg.
+[^103]: Az 5. számú melléklet 3.3.3. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^104]: Az 5. számú melléklet 3.3.4. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^105]: Az 5. számú melléklet 3.5.1. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^106]: Az 5. számú melléklet 3.5.2. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^107]: Az 5. számú melléklet 3.6.1. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^108]: Az 5. számú melléklet 3.6.2. alpontja a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
