@@ -1,13 +1,15 @@
-## A társulat megalakulása
+36. § (1) A víziközmű társulat megalakulását – egyéb jogszabály szerinti – szervező bizottság készíti elő.
 
-36. § (1) A társulat akkor jön létre, ha az érdekeltségi területen ingatlantulajdonnal rendelkező, illetve az ingatlant egyéb jogcímen használó természetes és jogi személyeknek, jogi személyiséggel nem rendelkező gazdasági társaságoknak (a továbbiakban: tagoknak) az érdekeltségi egység aránya szerint számított többsége az alakuló közgyűlésen
+(2) A víziközmű társulat legfőbb szerve a közgyűlés.
 
-a) elhatározza a társulat megalakulását,
+(3) A közgyűlés tagjait az alapszabályban meghatározott eljárásnak megfelelően a tagok delegálják.
 
-b) elfogadja a társulat alapszabályát, és
+(4) A víziközmű társulat ügyvezetését az intézőbizottság látja el.
 
-c) megválasztja a társulat testületi vezető szerveit és tisztségviselőit.
+(5) A víziközmű társulat ellenőrző szerve az ellenőrző bizottság.
 
-(2) A társulat megalakításához az alakuló közgyűlésen a tagok érdekeltségi egység szerint számított legalább kétharmados többségének döntése szükséges.
+(6) A víziközmű társulat intézőbizottsága elnökből és legalább kettő, legfeljebb hét tagból áll.
 
-(3) A társulat megalakulását szervező bizottság készíti elő.
+(7) Az intézőbizottság és az ellenőrző bizottság elnökét és tagjait – az alakuló taggyűlés kivételével – a közgyűlés választja meg. Az intézőbizottság elnöke a víziközmű társulat elnöke.
+
+(8) Az intézőbizottság és az ellenőrző bizottság ügyrendjét maga állapítja meg.

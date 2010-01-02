@@ -1,7 +1,11 @@
-39. § (1) A társulat irányító szerve az intézőbizottság, ellenőrző szerve az ellenőrző bizottság. E szerveket a taggyűlés legalább kétharmados többséggel választja meg.
+39. § (1) A víziközmű társulat törvényességi felügyeletét – ideértve a közfeladatok ellátásával kapcsolatos, a szakmai követelményeknek megfelelő törvényes megalakulás és működés ellenőrzését is – a társulat székhelye szerint illetékes környezetvédelmi és vízügyi igazgatóság gyakorolja.
 
-(2) Az intézőbizottság elnökből és legalább két, legfeljebb kilenc tagból áll (a továbbiakban: vezető tisztségviselők). A taggyűlés választja meg az intézőbizottság elnökét, aki egyben a társulat elnöke.
+(2) A törvényességi felügyelet kiterjed a társulat megalakulásának, működésének, ellenőrzésére, továbbá annak vizsgálatára, hogy
 
-(3) Az ellenőrző bizottság feladata a társulat egész tevékenységére kiterjedő folyamatos ellenőrzés. Az ellenőrző bizottság közvetlenül a taggyűlésnek van alárendelve. Az ellenőrző bizottság elnökből és legalább két tagból áll, az elnököt a taggyűlés választja meg.
+a) alapszabálya, valamint más belső szabályzatai,
 
-(4) Az intézőbizottság és az ellenőrző bizottság ügyrendjét a jogszabályok és az alapszabály keretei között maga állapítja meg.
+b) szerveinek határozatai és a testületi szervek működése,
+
+c) az érdekeltségi (tagsági) jogviszony keretében a jogok gyakorlása és kötelezettségek teljesítése megfelel a jogszabályoknak, továbbá a testületi szervek határozatainak és a társulat alapszabályának.
+
+(3) A közfeladat ellátás állami ellenőrzésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései az irányadók.

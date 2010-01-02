@@ -1,23 +1,5 @@
-## A társulat megszűnése
+## A víziközmű társulat vagyona
 
-44. § (1) A társulat megszűnik, ha
+44. § (1) A víziközmű társulat a tagok hozzájárulásából, valamint az érintett helyi önkormányzat és az állam költségvetési, illetve egyéb támogatásaiból látja el a közcélú feladatait.
 
-a) elhatározza a jogutód nélküli megszűnését (feloszlását);
-
-b) másik társulattal egyesül vagy több társulatra szétválik;
-
-c) a víziközmű-társulat az alapszabályában meghatározott közcélú feladatát megvalósította;
-
-d) a vízitársulatot a bíróság felszámolási eljárás során megszünteti;
-
-e) a cégbíróság megszűntnek nyilvánítja;
-
-f) a cégbíróság hivatalból elrendeli a törlését.
-
-(2) A társulat más gazdálkodó szervezetté nem alakulhat át.
-
-(3) A társulat megszűnése esetén végelszámolásra kerül sor.
-
-(4) A társulatok jogutód nélküli megszűnése esetén a közfeladat ellátásához szükséges vagyon — a helyi vízgazdálkodási közfeladatot egyébként ellátni köteles — önkormányzatra vagy az államra száll.
-
-(5) Ha a társulat megszűnését követően a közfeladatot az állam látja el, az ehhez szükséges vagyont a vízügyi igazgatás területi szerve, illetőleg a vizek és vízilétesítmények kezelésére létrehozott kizárólagos vagy többségi állami tulajdonú gazdálkodó szervezetek veszik át a mezőgazdasági vízgazdálkodási célokat szolgáló vagyon kivételével, amelynek átvételéről a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszter gondoskodik.
+(2) A hozzájárulás mértékét a közgyűlés állapítja meg. A közgyűlés az alapszabályban meghatározott feltételek szerint a hozzájárulás mértékét mérsékelheti, illetve megfizetését meghatározott időre felfüggesztheti. A hozzájárulást a tagok pénzben kötelesek teljesíteni. A közgyűlés által elfogadott hozzájárulás a közfeladatok teljesítésével nyújtott szolgáltatás ellenértéke.

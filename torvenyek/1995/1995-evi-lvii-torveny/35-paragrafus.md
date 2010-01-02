@@ -1,9 +1,9 @@
-35. § (1) A társulat közfeladatként:
+35. § (1) A társulat közfeladatait szolgáló tevékenységét érdekeltségi területén végzi.
 
-a) víziközmű-társulat esetén — a település, az együttesen ellátható települések belterületi, illetve lakott területi részének közműves vízellátását, szennyvízelvezetését, szennyvíztisztítását, káros vizek elvezetését szolgáló — vízilétesítményeket hoz létre, illetve fejleszt;
+(2) A víziközmű társulat tagjai az érdekeltségi területen ingatlantulajdonnal rendelkező vagy az ingatlant egyéb jogcímen használó természetes és jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok.
 
-b) vízitársulat esetén helyi vízrendezési és vízkár-elhárítási feladatokat lát el.
+(3) A víziközmű társulat tagjai kötelesek a víziközmű társulat részére víziközmű társulati érdekeltségi hozzájárulást (a továbbiakban: hozzájárulás) fizetni. A hozzájárulás adók módjára behajtható köztartozás.
 
-(2) A vízitársulat közcélú mezőgazdasági vízhasznosítási létesítményeket hozhat létre, továbbá azokhoz kapcsolódó talajjavítási tevékenységet, nem közműves vízszolgáltatást végezhet, az alapszabályban meghatározott közfeladatait elősegítő vállalkozási tevékenységet is folytathat.
+(4) A víziközmű társulat tagja a vele szemben megállapított hozzájárulás felülvizsgálatát a taggyűlési határozat közlésétől számított 30 napon belül a bíróságtól kérheti.
 
-(3) A vízitársulat olyan vállalkozásban vehet részt, amelyben felelőssége nem haladja meg vagyoni hozzájárulásának mértékét.
+(5) A víziközmű társulat feladatai ellátása kapcsán a feladat ellátásához szükséges mértékig jogosult a víziközmű társulati tagok adatainak kezelésére. A víziközmű társulat a hozzájárulás beszedése érdekében jogosult továbbá az ehhez szükséges adatokat a hatáskörrel rendelkező szervtől bekérni.

@@ -16,11 +16,7 @@ E törvény alkalmazásában
 
 6. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki/amely az érdekeltségi területen ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 
-7. érdekeltségi terület:
-
-a) víziközmű-társulat esetén azok a területek, amelyeken az általuk megvalósított vízilétesítmények szolgáltatása (vízellátás, szennyvízelvezetés, belterületi csapadék- vagy talajvízelvezetés) igénybe vehető;
-
-b) vízitársulat esetén azt a területet, amelyről a vizek természetes úton a befogadóba (mások tulajdonában lévő vízfolyásokba, tavakba, vízilétesítményekbe) jutnak, illetve elvezethetők — ide nem értve az e törvény 2. és 3. számú melléklete szerinti vizekkel, vízilétesítményekkel való közvetlen kapcsolatot — és amely területek felszín alatti vagy felszíni vizeire a társulati közcélú vízimunkák, megépített vízilétesítmények hatást gyakorolnak;
+7. érdekeltségi terület: víziközmű-társulat esetén azok a területek, amelyeken az általuk megvalósított vízilétesítmények szolgáltatása (vízellátás, szennyvízelvezetés, belterületi csapadék- vagy talajvízelvezetés) igénybe vehető;
 
 8. gyógyvíz: olyan ásványvíz, amelynek bizonyítottan gyógyhatása van és gyógyászati felhasználásának engedélyezése külön jogszabályok szerint történik;
 

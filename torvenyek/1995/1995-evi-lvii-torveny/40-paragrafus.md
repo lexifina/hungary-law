@@ -1,3 +1,13 @@
-40. § (1) A társulat felett a törvényességi felügyeletet a cégbíróság látja el.
+## A víziközmű társulat megalakulása
 
-(2) A társulatok közös érdekeik védelmére — az egyesülési jogról szóló törvény szerint — érdekképviseleti szervezetet hozhatnak létre.
+40. § (1) A víziközmű társulat alapításához az szükséges, hogy az érdekeltségi területen ingatlantulajdonnal rendelkező természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok (a továbbiakban: tagok) az alakuló taggyűlésen
+
+a) elhatározzák megalakulását,
+
+b) elfogadják alapszabályát,
+
+c) megválasszák ügyvezető és ellenőrző szervét.
+
+(2) A víziközmű társulat a cégjegyzékbe való bejegyzéssel, a bejegyzés napjával jön létre.
+
+(3) Az (1) bekezdés a) és b) pontja vonatkozásában a tagok kétharmadának, az (1) bekezdés c) pontja tekintetében a tagok több mint felének szavazata szükséges.

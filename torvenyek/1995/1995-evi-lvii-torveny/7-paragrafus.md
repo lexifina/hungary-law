@@ -1,4 +1,4 @@
-7. § (1) Az állami tulajdonban lévő vizekről és vízlétesítményekről a 9–10. és 13. §-okban foglaltakra is figyelemmel, a közérdek mértékéig, a központi költségvetés – ideértve a fejezeti kezelésű vízügyi célelőirányzat pénzeszközeinek felhasználásával –, illetve vízgazdálkodási társulat útján (IX. Fejezet) kell gondoskodni.
+7. § (1) Az állami tulajdonban lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel, a közérdek mértékéig, a központi költségvetés – ideértve a fejezeti kezelésű Környezetvédelmi és vízügyi célelőirányzat pénzeszközeinek felhasználásával –, illetve a külön törvényben szabályozott vízitársulat útján kell gondoskodni.
 
 (2) Az (1) bekezdésben megjelölt feladat:
 
@@ -16,7 +16,7 @@ f) a belvízelvezető művek (így például a belvízcsatornák, szivattyútele
 
 g) a víziközműrendszerek és a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése.
 
-(3) A helyi önkormányzat tulajdonában lévő vizekről és vízlétesítményekről a 9., 10. és 13. §-okban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve vízgazdálkodási társulat útján (IX. Fejezet) kell gondoskodni.
+(3) A helyi önkormányzat tulajdonában lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve a külön törvényben szabályozott vízitársulat útján lehet gondoskodni.
 
 (4) A (3) bekezdésben megjelölt feladat:
 

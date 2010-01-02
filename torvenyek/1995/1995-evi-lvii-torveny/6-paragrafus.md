@@ -16,7 +16,7 @@ e) az államhatárt alkotó vagy metsző csatornák, továbbá a törvény 3. sz
 
 (2) A 2. és a 3. számú melléklet szerinti vízfolyások és vízilétesítmények jegyzékét a miniszter rendeletben teszi közzé.
 
-(3) A helyi önkormányzat tulajdonában vannak törzsvagyonként — a külön törvények rendelkezése alapján — a helyi önkormányzatoknak átadott vizek és vízilétesítmények (ideértve a víziközműveket is).
+(3) A helyi önkormányzat tulajdonában vannak törzsvagyonként – a külön törvények rendelkezése alapján – a helyi önkormányzatoknak átadott vizek és vízilétesítmények (ideértve a víziközműveket is).
 
 (4) Az ingatlan tulajdonosának a tulajdonában vannak:
 
