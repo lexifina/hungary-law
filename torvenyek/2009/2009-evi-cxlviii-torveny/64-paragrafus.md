@@ -1,3 +1,0 @@
-64. § A Psztv. a 36. §-t követően a következő 36/A. §-sal egészül ki:
-
-„36/A. § A Felügyelet eljárása során adatot igényelhet a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti bűnügyi nyilvántartási rendszerből. Az adatigénylés a 4. §-ban meghatározott személyekre vonatkozóan annak ellenőrzésére irányulhat, és arra az adatra vonatkozhat, hogy az érintett a tevékenysége gyakorlásának feltételeit megállapító törvényben meghatározott kizáró ok hatálya alatt áll-e.”

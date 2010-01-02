@@ -1,3 +1,0 @@
-72. § A Psztv. 54. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Ha a Felügyelet e törvényben meghatározott felügyeletidíj-bevételei egy költségvetési évben meghaladják a jogszabályban meghatározott feladatai ellátásához kapcsolódó kiadások és a költségvetési év végén a kötelezettségvállalásokkal terhelt maradványok összegét, akkor a többletet a hatóság éves beszámolójának kihirdetését követően – a tárgyévben teljesített felügyeleti díjbefizetések arányában és legfeljebb azok mértékéig – a tárgyévet követő második évben fizetendő felügyeleti díjban a tárgyévi díjfizetés arányában jóvá kell írni.”
