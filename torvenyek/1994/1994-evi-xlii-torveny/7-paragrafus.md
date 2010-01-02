@@ -2,9 +2,9 @@
 
 a) az Eximbank által forrásszerzés céljából kül- és belföldi hitelintézetektől felvehető betétek és hitelek, valamint a kibocsátott kötvények együttes állományának felső határát,
 
-b) az Eximbank által a költségvetés terhére vállalható exporthitel-garanciák állományának felső határát, valamint az egyéb export célú garanciaügyletek állományának felső határát,
+b) az Eximbank által az Állam készfizető kezessége mellett vállalható exporthitel-garanciák állományának felső határát, valamint az egyéb export célú garanciaügyletek állományának felső határát,
 
-c) a Mehib Rt. által a kormányrendeletben előírt feltételekkel vállalt nem-piacképes kockázatú biztosítási kötelezettségek, illetőleg viszontbiztosításból eredő kötelezettségek állományának felső határát,
+c) a Mehib Rt. által az Állam készfizető kezessége mellett vállalható biztosítási kötelezettségek, illetőleg viszontbiztosításból eredő kötelezettségek állományának felső határát,
 
 d) a kamatkiegyenlítési rendszer keretében az Eximbank által a központi költségvetéssel elszámolható kiegyenlítés forrásául szolgáló összeg előirányzatát,
 
