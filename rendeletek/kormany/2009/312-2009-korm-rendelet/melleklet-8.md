@@ -68,20 +68,6 @@
 
 ## X. Dátum, aláírás, bélyegzőlenyomat:
 
-8. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez
+8. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez[^8]
 
-A Vám- és Pénzügyőrség szervezetéről, valamint egyes szervek kijelöléséről szóló
-
-314/2006. (XII. 23.) Korm. rendelet mellékletének módosítása
-
-1. A VPKr. Melléklete 1. pontjának felvezető szövegében az „1334/2000/EK” szövegrész helyébe a „428/2009/EK” szöveg lép.
-
-2. A VPKr. Mellékletének 1. pontja a következő d) és e) alpontokkal egészül ki, egyidejűleg a jelenlegi d)–g) alpontok jelölése f)–i) alpontra változik:
-
-[1. A kettős felhasználású termékek és technológiák kivitelére vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, a Tanács 428/2009/EK rendeletében meghatározott áruk vámeljárás alá vonására, valamint a haditechnikai eszközöknek a haditechnikai eszközök és szolgáltatások kivitelének, behozatalának, transzferjének és tranzitjának engedélyezéséről szóló 16/2004. (II. 6.) Korm. rendeletben meghatározottak szerinti ellenőrzésére:]
-
-„d) az osztrák–magyar határszakaszon a Vám- és Pénzügyőri Hivatal Sopron a soproni vasúti határátkelőhely tekintetében,
-
-e) a szlovák–magyar határszakaszon az Észak-Pest térségi Vám- és Pénzügyőri Hivatal a szobi vasúti határátkelőhely, a Vám- és Pénzügyőri Hivatal Sátoraljaújhely a sátoraljaújhelyi vasúti határátkelőhely tekintetében,”
-
-3. A VPKr. Melléklete 2. pontjának felvezető szövegében az „A kulturális javak kiviteléről szóló, 1992. december 9-i 3911/92/EGK tanácsi rendeletben” szövegrész helyébe az „A kulturális javak kiviteléről szóló 116/2009/EK rendeletben” szöveg lép.
+[^8]: A 8. számú mellékletet a 25. § (10) bekezdése hatályon kívül helyezte.
