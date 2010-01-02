@@ -1,7 +1,0 @@
-8. § Az Eüak. 16. §-a a következő (6)–(8) bekezdésekkel egészül ki:
-
-„(6) Az egészségbiztosítási szerv – a 4. § (1) bekezdés c)–d) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból – az egyes daganatos betegségekkel kapcsolatos epidemiológiai és népegészségügyi, valamint ellátásmegfelelőségi vizsgálatok tervezése, értékelése érdekében a feladat ellátásához szükséges mértékben és ideig kezelheti az érintett egészségügyi és személyazonosító adatait, és azokat továbbítja az (5) és (7) bekezdés szerinti, daganatos eredetű megbetegedéseket nyilvántartó regiszterek részére.
-
-(7) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból, a gyermekek daganatos eredetű megbetegedéseinek nyilvántartása érdekében a külön jogszabály szerint vezetett, az érintett egészségügyi és személyazonosító adatait tartalmazó Gyermekonkológiai Regiszter működik.
-
-(8) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból a Központi Statisztikai Hivatal az elhunytak személyazonosításra alkalmas halálozási adatait a külön törvény szerint meghatározott adattartalommal az adatok teljessége és összefüggése ellenőrzésének befejezését követő 5 napon belül továbbítja az (5) és a (7) bekezdés szerinti, daganatos eredetű megbetegedéseket nyilvántartó regiszterek részére. Az (5)–(7) bekezdés szerinti regiszterek az adatfeldolgozás befejezésétől számított 8 napon belül a regiszterekben nem nyilvántartott, illetve az adatfeldolgozás során nyilvántartásba nem vett elhunytak adatait kötelesek megsemmisíteni.”

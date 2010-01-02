@@ -1,10 +1,4 @@
-106. § (1) A Gyftv. 77. § (1) bekezdése a következő f) ponttal egészül ki:
-
-[Felhatalmazást kap a Kormány, hogy]
-
-„f) a támogatásvolumen-szerződésekre vonatkozó részletes szabályokat”
-
-[rendeletben állapítsa meg.]
+106. § (1)
 
 (2) A Gyftv. 77. §-ának (2) bekezdése a következő m)–p) ponttal egészül ki:
 
@@ -26,6 +20,4 @@ p) az egyszerűsített támogatási jegyzékre vonatkozó részletes szabályoka
 
 [fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket.]
 
-(4) A Gyftv. 77. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a szociálpolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg a közgyógyellátásban ki nem szolgáltatható funkcionális csoportok körét.”
+(4)

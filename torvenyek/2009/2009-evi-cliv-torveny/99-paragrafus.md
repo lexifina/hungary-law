@@ -1,3 +1,0 @@
-99. § A Gyftv. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A gyógyszer- és gyógyászatisegédeszköz-rendelés során – ideértve a fekvőbeteg-gyógyintézetekben alkalmazott gyógyszeres és gyógyászatisegédeszköz-kezelést is – az orvos a szakmai szabályok és a gyógykezelésre vonatkozó jogszabályok figyelembevétele mellett – a fogyatékos személyek számára is hozzáférhető és értelmezhető módon – tájékoztatja a beteget a gyógyszeres kezelés és gyógyászati segédeszközzel való ellátás alternatíváiról, az azonos hatóanyag-tartalmú, illetve azonos fix támogatási csoportba tartozó és bioekvivalens gyógyszerek, továbbá azonos funkcionális csoportba tartozó gyógyászati segédeszközök beteget terhelő kvárható költségei közötti különbségekről.”

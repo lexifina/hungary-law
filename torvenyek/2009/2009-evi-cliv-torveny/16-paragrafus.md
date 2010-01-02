@@ -1,8 +1,4 @@
-16. § (1) Az Ebtv. 26. §-a (3) bekezdésének c) pontja helyébe a következő rendelkezés lép:
-
-[A méltányossági jogkör gyakorlása nem terjed ki]
-
-„c) a külön jogszabály alapján háromhavi terápiás (HTL) alapú támogatásban részesített, illetve az egyszerűsített támogatási jegyzékben felsorolt funkcionális csoportokba (alcsoportokba) tartozó gyógyászati segédeszközök körére,”
+16. § (1)
 
 (2) Az Ebtv. 26. §-a a következő (4)–(5) bekezdésekkel egészül ki:
 
