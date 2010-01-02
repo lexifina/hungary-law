@@ -1,3 +1,0 @@
-13. § A Btk. a következő 271/B. §-sal egészül ki:
-
-„271/B. § A 271–271/A. § alkalmazásában nyilvános rendezvény: a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll.”
