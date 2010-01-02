@@ -1,3 +1,0 @@
-## 1. § A környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény végrehajtásáról szóló 10/1995. (IX. 28.) KTM rendelet (a továbbiakban: KTMr.) 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § A Kt. 2. §-ának (4) bekezdése szerinti kötelezett (a továbbiakban: kötelezett) a 4. számú mellékletben meghatározott, 2010. január 1-jén hatályos Kombinált Nomenklatúra szerinti vámtarifaszámok alá osztályozott termékek, illetve csomagolás esetén, a 7. számú mellékletben meghatározott KT-kóddal ellátott anyagok után – belföldi előállítású újrafutózott vagy használt gumi légabroncs, tömör vagy kis nyomású gumiabroncs kivételével – termékdíj fizetésére köteles.”
