@@ -1,3 +1,1 @@
-33. § A Be. 268. §-a a következő (2) bekezdéssel egészül ki, és a jelenlegi (2) és (3) bekezdés számozása (3) és (4) bekezdésre módosul:
-
-„(2) A bíróság a megkeresésre vonatkozó szabályok szerint okiratok, adatok rendelkezésre bocsátását, valamint felvilágosítás adását kérheti állami és helyi önkormányzati szervtől, hatóságtól, köztestülettől, gazdálkodó szervezettől, alapítványtól, közalapítványtól és társadalmi szervezettől. Ennek keretében a bizonyítás eredményessége érdekében adatok szolgáltatását igényelheti különösen az adóhatóságtól, az egészségügyi és a hozzá kapcsolódó adatot kezelő szervtől, a banktitoknak, értékpapírtitoknak, pénztártitoknak, egyéb üzleti titoknak minősülő adatot kezelő szervtől, a hírközlési szolgáltatást nyújtó szervezettől, a közúti közlekedési nyilvántartásból, valamint az ingatlan-nyilvántartásból is. A bíróság beszerzi a vádlottra vonatkozó bűnügyi nyilvántartás és a központi szabálysértési nyilvántartás adatait is.”
+33. §
