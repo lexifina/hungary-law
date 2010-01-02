@@ -26,6 +26,8 @@ i) európai területi együttműködési csoportosulás,
 
 j) nem költségvetési szervként működő felsőoktatási intézmény,
 
-k) közhasznú tevékenységet ellátó szociális szövetkezet.
+k) közhasznú tevékenységet ellátó szociális szövetkezet,
+
+l) vízitársulat.
 
 (2) Közhasznú szervezetté minősíthető az (1) bekezdés a)–e) pontjában meghatározott szervezet abban az esetben is, ha közhasznú szervezetté minősítését a reá irányadó szabályok szerinti nyilvántartásba vétel iránti kérelmével egyidejűleg kéri.
