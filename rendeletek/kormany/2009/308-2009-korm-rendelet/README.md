@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-308-20-
 | --- | --- | --- |
 | 2010-01-01 | 2009-308-20-22.1 | 308/2009. (XII. 28.) Korm. rendelet |
 | 2010-01-02 | 2009-308-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-01-03 | 2009-308-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
