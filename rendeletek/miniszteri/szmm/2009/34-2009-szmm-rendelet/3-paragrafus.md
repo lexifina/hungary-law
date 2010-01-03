@@ -8,7 +8,7 @@
 
 (4)[^2]
 
-(5) E § (2) és (4) bekezdése 2010. január 2-án hatályát veszti. Ez a bekezdés 2010. január 3-án hatályát veszti.
+(5)[^3]
 
 Melléklet a 34/2009. (XII. 30.) SZMM rendelethez
 
@@ -114,4 +114,5 @@ c) a munkavállaló magánerőből a saját részére lakás építése [Mt. 140
 
 [^1]: A 3. § (2) bekezdését az (5) bekezdés hatályon kívül helyezte.
 [^2]: A 3. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
+[^3]: A 3. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
 [^*]: (A munkáltatónak abban az esetben kell kitölteni, ha az előzőekben felsorolt jogviszonyok az itt felsorolt módokon szűntek meg).
