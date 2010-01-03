@@ -1,3 +1,0 @@
-50. § Az Art. 66. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A követelésre vonatkozó, valamint a megkereső hatóság székhelye szerinti államban kibocsátott végrehajtható okirattal kapcsolatos jogorvoslati kérelmet a megkereső hatósághoz kell előterjeszteni. A magyar hatóság a hozzá előterjesztett jogorvoslati kérelmet – joghatóság hiányában, érdemi vizsgálat nélkül – végzéssel elutasítja, ha a kötelezett (egyéb érdekelt) e rendelkezés megsértésével a jogorvoslati kérelmet a megkeresett hatóságként eljáró magyar adóhatósághoz vagy a Magyar Köztársaság területén más közigazgatási hatósághoz terjesztette elő.”
