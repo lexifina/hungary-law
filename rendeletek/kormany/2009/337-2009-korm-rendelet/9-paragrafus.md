@@ -1,3 +1,3 @@
-## 1–8. §[^1]
+## 1–8. §[^2]
 
-[^1]: Az 1–8. §-t a 23. § (7) bekezdése hatályon kívül helyezte.
+[^2]: Az 1–8. §-t a 23. § (7) bekezdése hatályon kívül helyezte.
