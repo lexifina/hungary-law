@@ -1,4 +1,4 @@
-## 1–18. §[^1]
+## 1–18. §[^2]
 
 19. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – 2009. december 31-én lép hatályba.
 
@@ -6,9 +6,9 @@
 
 (3) A Vhr. e § (5) bekezdés b) pontjával megállapított rendelkezését az e rendelet hatálybalépését követően kiszolgáltatott gyógyszer, forgalmazott gyógyászati segédeszköz, nyújtott gyógyászati ellátás, valamint egyedi méretvétel alapján rendelésre készített gyógyászati segédeszköz vonatkozásában kell alkalmazni.
 
-(4)–(7)[^2]
+(4)–(7)[^3]
 
-(8) Az 1–18. §, valamint a (4)–(7) bekezdés 2010. január 2-án hatályát veszti. E bekezdés 2010. január 3-án hatályát veszti.
+(8)[^4]
 
 Melléklet a 336/2009. (XII. 29.) Korm. rendelethez
 
@@ -122,5 +122,6 @@ Melléklet a 336/2009. (XII. 29.) Korm. rendelethez
 
 ”
 
-[^1]: Az 1–18. §-t a 19. § (8) bekezdése hatályon kívül helyezte.
-[^2]: A 19. § (4)–(7) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^2]: Az 1–18. §-t a 19. § (8) bekezdése hatályon kívül helyezte.
+[^3]: A 19. § (4)–(7) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^4]: A 19. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
