@@ -10,7 +10,7 @@
 
 (6)[^1]
 
-(7) A (6) bekezdés 2010. január 2-án hatályát veszti. Ez a bekezdés 2010. január 3-án hatályát veszti.
+(7)[^2]
 
 Melléklet a 49/2009. (XII. 29.) EüM rendelethez
 
@@ -29,3 +29,4 @@ Az igazolás kiállításának dátuma
 Az igazolást kiállító szakorvos/háziorvos aláírása
 
 [^1]: A 3. § (6) bekezdését a (7) bekezdés hatályon kívül helyezte.
+[^2]: A 3. § (7) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
