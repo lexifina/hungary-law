@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-33-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-02 | 2009-33-20-2L.1 | 33/2009. (XII. 18.) ÖM rendelet |
+| 2010-01-03 | 2009-33-20-2L.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
