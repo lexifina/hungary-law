@@ -2,11 +2,11 @@
 
 3. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
-(2)[^1]
+(2)[^2]
 
-(3) A (2) bekezdés az e rendelet hatálybalépését követő napon hatályát veszti. Ez a bekezdés az e rendelet hatálybalépését követő második napon hatályát veszti.
+(3)[^3]
 
-Melléklet a 29/2009. (X. 30.) ÖM rendelethez[^2]
+Melléklet a 29/2009. (X. 30.) ÖM rendelethez[^4]
 
 Egységes irattári terv
 
@@ -1636,5 +1636,6 @@ X.3. Fegyveres biztonsági őrség
 
 | X302 | Rendészeti ügyek | 2 | – |
 
-[^1]: A 3. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
-[^2]: A melléklet a 34/2009. (XII. 29.) ÖM rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^3]: A 3. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^4]: A melléklet a 34/2009. (XII. 29.) ÖM rendelet 3. §-a szerint módosított szöveg.
