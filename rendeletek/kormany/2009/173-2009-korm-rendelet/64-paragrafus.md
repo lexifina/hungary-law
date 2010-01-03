@@ -1,3 +1,3 @@
-## 62–63. §[^7]
+## 62–63. §[^8]
 
-[^7]: A 62–63. §-t a 64. § hatályon kívül helyezte.
+[^8]: A 62–63. §-t a 64. § hatályon kívül helyezte.

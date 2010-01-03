@@ -1,4 +1,4 @@
-## 55–59. §[^6]
+## 55–59. §[^7]
 
 60. § (1) Ez a rendelet – a (2)–(3) bekezdésben foglalt kivétellel – 2009. szeptember 1-jén lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) E rendelet 47. § (2) bekezdése és 49. § (1) bekezdése 2010. január 1-jén lép hatályba.
 
-[^6]: Az 55–59. §-t a 64. § hatályon kívül helyezte.
+[^7]: Az 55–59. §-t a 64. § hatályon kívül helyezte.
