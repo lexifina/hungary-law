@@ -2,6 +2,7 @@
 
 (2)[^1]
 
-(3) A (2) bekezdés 2010. január 2-án hatályát veszti. Ez a bekezdés 2010. január 3-án hatályát veszti.
+(3)[^2]
 
 [^1]: A 2. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^2]: A 2. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
