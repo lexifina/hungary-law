@@ -1,1 +1,0 @@
-## „(2) A kérelmezőnek az (1) bekezdés b) és e) pontjában foglalt okiratokat eredetiben kell csatolnia. Nem kell csatolni az (1) bekezdés b) pontja szerinti igazolást, ha a kérelem benyújtásának időpontjában a kérelmező a köztartozásmentes adózói adatbázisban szerepel.”

@@ -1,1 +1,0 @@
-## A közhasznú tevékenységet folytató személy, szervezet általános forgalmiadó-visszatéríttetési jogának gyakorlásához fűződő igazolási kötelezettségekről, az általános forgalmiadó-visszatéríttetési kérelem kötelező adattartalmáról és egyes eljárási szabályokról szóló 19/2008. (VI. 13.) PM rendelet módosítása

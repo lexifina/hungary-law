@@ -1,3 +1,0 @@
-91. § (1) A társasági adókedvezményhez kapcsolódó bejelentendő adatokról szóló 34/2002. (XI. 26.) PM rendelet 2. § (1) bekezdésében az „ , a melléklet szerinti formában a Pénzügyminisztériumnak bejelenti az ott meghatározott adatokat.” szövegrész helyébe „az adópolitikáért felelős miniszternek bejelenti a mellékletben meghatározott adatokat.” szöveg lép.
-
-(2) A társasági adókedvezményhez kapcsolódóan bejelentett adatok módosításáról 32/2003. (XII. 4.) PM rendelet 2. § (1) bekezdésében „a melléklet megfelelő táblázatának kitöltésével a Pénzügyminisztériumnak bejelenti az ott meghatározott adatokat.” szövegrész helyébe „az adópolitikáért felelős miniszternek bejelenti a melléklet megfelelő táblázatában meghatározott adatokat.” szöveg lép.

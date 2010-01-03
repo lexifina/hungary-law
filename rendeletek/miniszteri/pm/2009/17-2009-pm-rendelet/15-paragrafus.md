@@ -1,3 +1,0 @@
-## 14. § A JötR. 37/B. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az engedélyezett nyilvántartó, illetve a bizonylat-kiállító program módosított változatára való áttérést – kivéve, ha a módosítás a törzsadatok változása miatt szükséges – a regionális ellenőrzési központhoz előzetesen be kell jelenteni, és egyidejűleg kérni kell a módosított program engedélyezését. A regionális ellenőrzési központ a programmódosítás engedélyezéséről a kérelem benyújtását követő 30 napon belül dönt. A programmódosítás engedélyezésekor – a 37/A. § (3) bekezdésének a) pontjára is figyelemmel – meghatározásra kerül a módosított nyilvántartó, illetve bizonylat-kiállító program használatának kezdő időpontja is.”
