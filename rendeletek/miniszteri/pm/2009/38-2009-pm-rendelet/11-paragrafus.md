@@ -4,6 +4,7 @@
 
 (2)[^1]
 
-(3) A (2) bekezdés az e rendelet hatálybalépését követő napon hatályát veszti. E bekezdés az e rendelet hatálybalépését követő második napon hatályát veszti.
+(3)[^2]
 
 [^1]: A 11. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^2]: A 11. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
