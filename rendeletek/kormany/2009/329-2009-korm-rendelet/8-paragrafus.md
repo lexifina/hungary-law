@@ -4,6 +4,7 @@
 
 (2)[^1]
 
-(3) E § (2) bekezdése 2010. január 2-án hatályát veszti. E bekezdés 2010. január 3-án hatályát veszti.
+(3)[^2]
 
 [^1]: A 8. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^2]: A 8. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
