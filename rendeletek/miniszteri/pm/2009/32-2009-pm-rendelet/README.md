@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-32-20-5
 | --- | --- | --- |
 | 2010-01-01 | 2009-32-20-53.1 | 32/2009. (XII. 21.) PM rendelet |
 | 2010-01-02 | 2009-32-20-53.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-01-03 | 2009-32-20-53.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
