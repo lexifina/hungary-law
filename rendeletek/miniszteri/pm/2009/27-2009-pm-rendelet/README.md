@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-27-20-5
 | --- | --- | --- |
 | 2010-01-01 | 2009-27-20-53.1 | 27/2009. (XI. 23.) PM rendelet |
 | 2010-01-02 | 2009-27-20-53.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-01-03 | 2009-27-20-53.3 | 40/2013. (IX. 30.) NGM rendelet |
