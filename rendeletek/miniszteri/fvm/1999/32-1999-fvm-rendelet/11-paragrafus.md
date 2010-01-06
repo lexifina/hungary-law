@@ -8,6 +8,6 @@ a) felismerni az állatok viselkedésbeli változásának jelentőségét, valam
 
 b) megítélni a technológiai feltételek változásának jelentőségét.
 
-(3)[^12] Az állatok gondozásával és felügyeletével megbízott személyt el kell látni a szükséges utasításokkal és útmutatással, valamint gondoskodni kell arról, hogy ismerje a mezőgazdasági haszonállatok tartására vonatkozó, e rendeletben és más jogszabályokban foglalt rendelkezéseket.
+(3)[^21] Az állatok gondozásával és felügyeletével megbízott személyt el kell látni a szükséges utasításokkal és útmutatással, valamint gondoskodni kell arról, hogy ismerje a mezőgazdasági haszonállatok tartására vonatkozó, e rendeletben és más jogszabályokban foglalt rendelkezéseket.
 
-[^12]: A 11. § (3) bekezdését a 20/2002. (III. 14.) FVM rendelet 10. §-a iktatta a szövegbe.
+[^21]: A 11. § (3) bekezdését a 20/2002. (III. 14.) FVM rendelet 10. §-a iktatta a szövegbe.

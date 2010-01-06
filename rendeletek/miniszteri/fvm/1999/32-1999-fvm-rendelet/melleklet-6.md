@@ -1,80 +1,76 @@
-## A tolltépés szabályai
+## A tollszedés szabályai
 
-## 1.1.[^40] Tolltépés: Az érett tollak kíméletes, fájdalommentes és szakszerű eltávolítása.
+## 1.1. Tollszedés, tollazás, letollazás: Az érett tollak kíméletes, fájdalommentes és szakszerű eltávolítása.
 
-## 1.2. Az alábbi rendelkezések megfelelő keretszabályozást adnak arra, hogy a háziludak speciális biológiai sajátosságait, a vedlést tollnyerés céljára kihasználják. Ez mindazon ludak tépésére érvényes – az állatok fajtájától, hasznosítási irányától, korától, ivarától függetlenül –, amelyeket élő állapotban, tollnyerésre hasznosítanak.
+## 1.2. Az alábbi rendelkezések mindazon házi ludak (Anser anser var. domestica) tollszedésére vonatkoznak – az állatok fajtájától, hasznosítási irányától, korától, ivarától függetlenül –, amelyeket élő állapotban, tollszedésre hasznosítanak.
 
-## 2. A tolltépés szabályai a következők:
+## 2. A tollszedés szabályai a következők:
 
-## 2.1. az állatokat csak meghatározott időpontban szabad tépni, amikor a toll teljesen érett,
+## 2.1. az állatokat csak akkor szabad tollazni, amikor a toll teljesen érett,
 
-## 2.2. a tépést meleg, száraz időben kell végezni, hogy utána az állat ne fázzon meg, amennyiben az időjárás hűvösre fordul, a libákat a tépés után védett, meleg helyen kell tartani,
+## 2.2. a tollazást meleg, száraz időben kell végezni, hogy utána az állat ne fázzon meg, és amennyiben az időjárási viszonyok indokolják, a libákat a szedés után védett, meleg helyen kell tartani,
 
-## 2.3. a tépés előtti napon az állatokat lehetőség szerint meg kell fürdetni, úsztatni, majd a tépés időpontjáig frissen almozott, tiszta ólban kell tartani,
+## 2.3. a tollazás előtti napon az állatokat lehetőség szerint meg kell fürdetni, úsztatni, majd a szedés időpontjáig frissen almozott, tiszta ólban kell tartani,
 
-## 2.4. nem szabad akkor tépni, amikor az állatok tolla még nedves,
+## 2.4. nem szabad tollazást végezni, amikor az állatok tolla nedves,
 
-## 2.5. az állatokat – a tépés előtti egy héttől kezdődően a tépést követő második hét végéig – 20 százalékkal bővebben kell takarmányozni,
+## 2.5. az állatokat – a tollszedés előtti egy héttől kezdődően a tollszedést követő második hét végéig – ad libitum kell takarmányozni,
 
-## 2.6. tépéskor a tollat fekvése irányában kell a bőrből – a bőrön sebzés és a toll csévéje véressé válásának megakadályozása érdekében – kihúzni,
+## 2.6. tollazáskor a tollat – a bőr sérülésének megakadályozása érdekében – a legkisebb ellenállás irányában, a toll könnyed eltávolításához megfelelő erővel szükséges kihúzni,
 
-## 2.7. az állatokról kemény gerincű (szárny- és farok-) tollat tépni tilos, a testtollak tépésekor ügyelni kell arra, hogy annyi toll maradjon az állat testén, amennyi a szárnyakat megtartja, illetve annyi pehely maradjon, amennyi a hőháztartás fenntartását biztosítja.
+## 2.7. az állatokról kemény gerincű (szárny- és farok-) tollat szedni tilos, a testtollak szedésekor ügyelni kell arra, hogy annyi toll maradjon az állat testén, amennyi a szárnyakat megtartja, illetve annyi pehely maradjon, amennyi a hőháztartás fenntartását biztosítja.
 
-## 3. A ludakat a megfelelő méretű kifutón kívül, a kedvezőtlen időjárás hatásának kivédése érdekében legalább a tépés előtti második naptól a tépés utáni tizennegyedik napig világos, jól szellőző istállóban kell elhelyezni.
+## 3. A ludaknak a megfelelő méretű kifutó mellett a kedvezőtlen időjárási hatások megelőzése érdekében legalább a tollazás előtti második naptól a tollazás utáni tizennegyedik napig világos, jól szellőző istállót kell biztosítani.
 
-## 4. Az istállót és a kifutófelületeket, valamint az almot szárazon és tisztán kell tartani.
+## 4. A ludak tollazása folyamán törekedni kell arra, hogy az stresszmentesen történjen. Az állatokat vitaminok és takarmánykiegészítők adásával kell segíteni a tollszedéssel járó stressz károsodásmentes elviselésében.
 
-## 5. A lúd részére a faj sajátosságainak megfelelő olyan elhelyezést kell biztosítani, amely alkalmas a lúd mozgási, valamint evési és ivási igényeinek kielégítésére.
+## 5. A tollszedés évszakhoz kötött, csak akkor végezhető, ha a napi átlaghőmérséklet legalább 15 °C, illetve ha a napi legalacsonyabb hőmérséklet meghaladja a 6 °C-ot.
 
-## 6. A ludak tépése folyamán törekedni kell arra, hogy az stresszmentesen történjen. Vitaminok és takarmánykiegészítők segítik a ludat a tépéssel járó izgalmak károsodásmentes elviselésében.
+## 6. Élő állat tollának szedése csak az élettanilag is bekövetkező tollváltások (vedlések) alkalmával, és csak a vonatkozó előírások figyelembevételével végezhető el. A növendékek az első tollazástól számított 6 hét múlva újra szedhetők. A nevelési körülményektől és az időjárástól függően a növendékludak a második szedéstől számított 6 hét múlva harmadszor is megszedhetők. A kifejlett törzsludakat a mindenkori tojástermelési időszak után szabad először tollazni, további tollazásuk a növendéknél leírtakkal megegyezően végezhető.
 
-## 7. A tolltépés évszakhoz kötött kezdési, illetve utolsó időpontja a legalább 15 °C-os napi átlaghőmérséklet, illetve amikor a legalacsonyabb hőmérséklet meghaladja a +6 °C-ot.
+## 7. A tollérettség pontos idejének megállapítása érdekében a vedlés kezdetén a mell, az oldal és a hát tájékán próbaszedéseket kell végezni. A tenyészállatoknál a tojástermelési periódus végén sűríteni kell a próbaszedéseket. A törzsállomány tollazásonkénti csoportosítása és ennek megtartása esetén elegendő az első csoport optimális tollazási állapotát meghatározni és a többit ehhez igazítani.
 
-## 8. Az élő állatról történő tolltépés csak az élettanilag is bekövetkező tollváltások (vedlések) alkalmával, és csak a vonatkozó előírások figyelembevételével végezhető el. A növendékek az első tépéstől számított 6–7 hét múlva újra téphetők. A nevelési körülményektől és az időjárástól függően a növendékludak a második tépéstől számított 6–7 hét múlva harmadszor is megtéphetők. A kifejlett törzsludakat a mindenkori tojástermelési időszak után célszerű először tépni, további tépésük a növendéknél leírtakkal megegyezően végezhető.
+## 8. Érett a toll abban az esetben, amikor a tollcséve és a tolltüsző közötti kapcsolat teljesen fellazult, ezáltal a tollak akadálytalanul, fájdalomokozás nélkül kihúzhatók a tollpapillákból és a toll vége erőteljesen elszarusodott, a toll táplálása teljes mértékben megszűnt, az holt szaruképződménnyé vált. A toll beérésekor, a vedlés megindulásának jeleként az állatok által használt területen (istállóban, kifutóban, legelőn) megjelennek az elhullatott tollak. Ilyenkor kell a toll érettségét ellenőrizni és a fenti szempontok meglétekor lehet a tollazást elkezdeni.
 
-## 9. A tollérettség pontos idejének megállapítása a vedlés kezdetén a mell, az oldal és a hát tájékán végzett próbatépésekkel történik. A tenyészállatoknál a tojástermelési periódus végén sűríteni kell a próbatépéseket. A törzsállomány tépésenkénti csoportosítása és ennek megtartása esetén elegendő az első csoport optimális tépési állapotát meghatározni és a többit ehhez igazítani.
+## 9. A tollszedést megelőzően és a tollszedés során különösen nagy figyelmet kell fordítani arra, hogy az állatok zavarása minél kisebb mértékű legyen. Ennek érdekében a ludak tollszedéséhez nyugodt helyzetet kell teremteni.
 
-## 10. Érett a toll abban az esetben, amikor a tollcséve és a tolltüsző közötti kapcsolat teljesen fellazult, ezáltal a tollak akadálytalanul, fájdalomokozás nélkül kihúzhatók a tollpapillákból és a toll vége erőteljesen elszarusodott, a toll táplálása teljes mértékben megszűnt, az holt képződménnyé vált. A toll beérésekor, a vedlés megindulásának jeleként az állatok által igénybe vett területen (istállóban, kifutóban, legelőn) megjelennek az elhullajtott tollak. Ilyenkor kell a toll érettségét ellenőrizni és a fenti szempontok meglétekor a tépést elkezdeni.
+## 10. Az állatok befogásához megfelelő, néhány lúd elkerítésére alkalmas befogórácsot kell használni, és a ludakat nyakuknál kell megfogni. A légcsövet nem szabad elszorítani, ezért a nyakuknál fogott ludakat felemelni tilos. Ezen túlmenően a következő szabályokat kell követni:
 
-## 11. A tépést megelőzően és a tépés során különösen nagy figyelmet kell fordítani arra, hogy az állatoknál a zavarás minél kisebb legyen, ugyanis a stressz negatívan hat a ludak közérzetére és ennek következtében a toll szorosabb illeszkedését eredményezi a tollhüvelyben. Ennek elkerülése érdekében a ludak tépéséhez nyugodt helyzetet kell teremteni.
+## 10.1. a ludakat felemelni csak az állat súlyát alulról megtartva szabad,
 
-## 12. Az állatok befogásához megfelelő, néhány lúd elkerítésére, kirekesztésére alkalmas befogórácsot kell használni, és a ludakat nyakuknál kell megfogni. A légcsövet nem szabad elszorítani, ezért a nyakuknál fogott ludakat felemelni tilos. Ezen túlmenően a következő szabályokat kell követni:
+## 10.2. tilos a ludak szárnyait összekötözni, keresztezni, vagy a ludakat összekötött lábaiknál fogva felfüggeszteni.
 
-## 12.1. a ludakat felemelni csak a test másik kézzel történő tehermentesítésével lehet,
+## 11. A ludakat tollazó személynek kerülnie kell minden fájdalom vagy sérülés okozását. A tollat és a pehelytollat mindig kis csomókba fogva kell kihúzni, az új tollkezdeményeket nem szabad kiszakítani. Nedves kézzel ludat tollazni tilos.
 
-## 12.2. tilos a ludak szárnyainak összekötözése, keresztezése, vagy a ludak összekötött lábak által történő felfüggesztése.
+## 12. Tollazáskor toll kizárólag a test mell-, has- és hátoldali részeiről szedhető. Nem szabad szedni a nyelőcsőtágulatot borító tollazatot, illetve a szárnytollakat, a faroktollakat és a szárnytartó, ún. párnatollakat. A pehelytollakat csak ritkítani szabad.
 
-## 13. A ludakat tépő személynek kerülnie kell minden fájdalomokozást, sérülést. A tollat és a pehelytollat mindig kis csomókba fogva kell kihúzni, az esetlegesen mutatkozó új tollkezdeményeket nem szabad kiszakítani, mert az a lúdon sérülést okoz, és emellett a toll minőségét is – a véres toll bomlásának következményeként – erősen rontja. Tilos a tépést végző személynek kezét benedvesítve tépni a tollat.
+## 13. A tollszedést csak arra betanított és gyakorlatot szerzett személyek végezhetik. Az állatok egészségének megőrzése érdekében:
 
-## 14. A tépéseknél a mell, a has, a hát és az oldalak tépendők. Nem szabad kitépni a nyelőcsőtágulatot borító tollazatot, illetve a szárnytollakat, a faroktollakat és a szárnytartó, ún. párnatollakat. A fedőtollazattal szemben a pehelytollakat csak ritkítani szabad.
+## 13.1. a tollazás során esetlegesen előforduló bőrsérüléseket állatorvos által erre a célra javasolt állatgyógyászati készítményekkel kell kezelni, és az állatot nyugalma, gyógyulása érdekében el kell különíteni,
 
-## 15. A tépést csak arra betanított és gyakorlatot szerzett személyek végezhetik. Az állatok egészségének megőrzése érdekében:
+## 13.2. a stressz vagy egyéb tényezők miatt nehezen tollazható egyedeknél a tollszedést mellőzni kell,
 
-## 15.1. a tépés során esetlegesen előforduló bőrsérüléseket állatgyógyászati készítményekkel kell kezelni, és az állatot nyugalma, gyógyulása érdekében el kell különíteni,
+## 13.3. a betegségek megelőzése céljából a tollazók csak frissen mosott, tiszta, fertőtlenített ruházattal és lábbelivel léphetnek be a tollazó helyiségbe, valamint ügyelni kell a tollazók személyi higiénéjére is,
 
-## 15.2. a stressz- vagy egyéb tényezők miatt nehezen téphető egyedeknél a tépést mellőzni kell,
+## 13.4. a tollszedés helyének tisztaságára gondot kell fordítani.
 
-## 15.3. a betegségek megelőzése céljából a tépők csak frissen mosott, tiszta ruházattal és lábbelivel léphetnek be a tépőhelyiségbe, ügyelni kell a tépők személyi higiénéjére is,
+## 14. A próbaszedésekről és a tollazásokról (az állomány azonosítójáról, a tollazás idejéről, a tollazott állatok számáról) az állattartónak nyilvántartást kell vezetnie, amelyet legalább öt évig meg kell őrizni.
 
-## 15.4. a tépés helyének tisztaságára gondot kell fordítani.
+6. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^74]
 
-## 16. A próbatépésekről és a tépésekről (az állomány azonosítójáról, a tépés idejéről, a tépők személyéről, a tépett állatok számáról) nyilvántartást kell vezetni, amelyet legalább öt évig meg kell őrizni.
-
-6. számú melléklet a 32/1999. (III. 31.) FVM rendelethez
-
-Az érzéstelenítés nélkül végezhető beavatkozásokat csak megfelelő képesítéssel vagy azzal egyenértékű szakmai tapasztalattal, gyakorlattal rendelkező személyek végezhetik. Minden lehetséges módon csökkenteni kell az elkerülhetetlen fájdalom hatását.[^41]
+Az érzéstelenítés nélkül végezhető beavatkozásokat csak állatorvos vagy állatorvos irányításával és felügyeletével cselekvő, megfelelő állategészségügyi ismerettel és gyakorlati tapasztalattal rendelkező személy végezheti. Minden lehetséges módon csökkenteni kell az elkerülhetetlen fájdalom hatását.
 
 A mezőgazdasági haszonállatokon érzéstelenítés nélkül végezhető beavatkozások
 
-1. Ló, szamár, öszvér esetében:
+1.[^75] Ló, szamár, öszvér esetében:
 
-vérvétel, fogreszelés, szondázás, rektális vizsgálat, vakbél szúrcsapolás, vértelen szülészeti segítségnyújtás, besütés.
+vérvétel, fogreszelés, szondázás, rektális vizsgálat, vakbél szúrcsapolás, vértelen szülészeti segítségnyújtás, egyedi jelölés.
 
 2. Szarvasmarha, bivaly esetében:
 
 vérvétel, szondázás, szarvtalanítás napos korban vértelen úton, fattyúcsecsbimbó eltávolítás napos korban, bendőmágnes-behelyezés, tályogmegnyitás, krotáliázás, bendő szúrcsapolás, vértelen szülészeti segítségnyújtás.
 
-2.1.[^42] Magyar szürke szarvasmarha esetében a 2. pontban foglaltakon túl megengedett még:
+2.1.[^76] Magyar szürke szarvasmarha esetében a 2. pontban foglaltakon túl megengedett még:
 
 1 éves kor alatti vértelen ivartalanítás, azonosítás célját szolgáló bőrbesütés, tetoválás, orrkarika behelyezés, szarvgombok felhelyezése.
 
@@ -82,7 +78,7 @@ vérvétel, szondázás, szarvtalanítás napos korban vértelen úton, fattyúc
 
 vérvétel, bendő szúrcsapolás, krotáliázás, tetoválás, tályogmegnyitás, vértelen szülészeti segítségnyújtás, castratio, szondázás, napos korban farokcsonkítás (vagy gumigyűrű igénybevételével, 8 napos korig).
 
-4.[^43] Sertés esetében a 4.1. pontban felsoroltak kivételével tilos minden olyan nem állatgyógyászati vagy diagnosztikai célokat szolgáló, illetve nem egyéb jogszabályban leírt és a sertések azonosítását célzó eljárás alkalmazása, amely az állat csontozatában vagy testének valamely érzékeny részében kárt okoz.
+4.[^77] Sertés esetében a 4.1. pontban felsoroltak kivételével tilos minden olyan nem állatgyógyászati vagy diagnosztikai célokat szolgáló, illetve nem egyéb jogszabályban leírt és a sertések azonosítását célzó eljárás alkalmazása, amely az állat csontozatában vagy testének valamely érzékeny részében kárt okoz.
 
 4.1. Sertés esetében megengedett:
 
@@ -108,18 +104,33 @@ vérvétel, bendő szúrcsapolás, krotáliázás, tetoválás, tályogmegnyitá
 
 – vértelen szülészeti segítségnyújtás.
 
-4.2. A hétnaposnál idősebb malacok ivartalanítását és farokkurtítását csak érzéstelenítés vagy tartós fájdalomcsillapítás mellett és csak állatorvos végezheti.
+4.2.[^78]
 
-5.[^44] Baromfi esetében:
+5.[^79] Baromfi esetében:
 
-vérvétel, szárnyszámozás (krotáliázás), szárnykurtítás napos korban, elektromos csőrkurtítás napos korban, úszóhártya-bemetszés napos korban, kakassarkantyúlecsípés napos korban, barbarie kacsa karomvágása és csőrkurtítása kéthetes korig, tetoválás.
+vérvétel, szárnyszámozás (szárnykrotáliázás), szárnykurtítás napos korban, elektromos csőrkurtítás napos korban, úszóhártya-bemetszés napos korban, kakassarkantyúlecsípés napos korban, barbarie kacsa karomvágása és csőrkurtítása kéthetes korig, tetoválás.
 
-6. Strucc esetében:
+6.[^80] Strucc és emu esetében:
 
 vérvétel, krotáliázás.
 
-[^40]: Az 5. számú melléklet 1. pontja a 20/2002. (III. 14.) FVM rendelet 16. §-ának (2) bekezdésével megállapított szöveg.
-[^41]: A 6. számú melléklet bevezető mondatát a 20/2002. (III. 14.) FVM rendelet 16. §-ának (2) bekezdése iktatta a szövegbe.
-[^42]: A 6. számú melléklet 2.1. pontját a 72/2004. (IV. 29.) FVM rendelet 2. §-a iktatta a szövegbe.
-[^43]: A 6. számú melléklet 4. pontja a 20/2002. (III. 14.) FVM rendelet 16. §-ának (2) bekezdésével megállapított szöveg.
-[^44]: A 6. számú melléklet 5. pontja a 72/2004. (IV. 29.) FVM rendelet 2. §-ával megállapított szöveg.
+7.[^81] Nyúl esetében:
+
+Fülszámozás (fülkrotáliázás), fültetoválás.
+
+8.[^82] Csincsilla esetében: krotáliázás, fültetoválás.
+
+9.[^83] Ezüstróka és sarki róka esetében:
+
+fültetoválás.
+
+[^74]: A 6. számú melléklet bevezető szövegrészét a 20/2002. (III. 14.) FVM rendelet 16. § (2) bekezdése iktatta be, szövege a 178/2009. (XII. 29.) FVM rndelet 10. § (5) bekezdésével megállapított szöveg.
+[^75]: A 6. számú melléklet 1. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^76]: A 6. számú melléklet 2.1. pontját a 72/2004. (IV. 29.) FVM rendelet 2. §-a iktatta a szövegbe.
+[^77]: A 6. számú melléklet 4. pontja a 20/2002. (III. 14.) FVM rendelet 16. §-ának (2) bekezdésével megállapított szöveg.
+[^78]: A 6. számú melléklet 4.2. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^79]: A 6. számú melléklet 5. pontja a 72/2004. (IV. 29.) FVM rendelet 2. §-ával megállapított, a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés j) pontja szerint módosított szöveg.
+[^80]: A 6. számú melléklet 6. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^81]: A 6. számú melléklet 7. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
+[^82]: A 6. számú melléklet 8. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
+[^83]: A 6. számú melléklet 9. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.

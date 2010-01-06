@@ -1,15 +1,15 @@
-## 3. §[^3] Az állattartó az állat tartása során köteles:
+## 3. §[^3] Az állattartó az állat tartása során köteles a megalapozott tudományos eredmények és tapasztalatok alapján annak fajára, fajtájára, korára, fejlettségére, alkalmazkodási képességére, háziasítottságának fokára, fiziológiai állapotára, etológiai szükségleteire figyelemmel:
 
-a) az adott állatfaj, illetve -fajta élettani, viselkedési és szociális igényeit figyelembe venni,
+a) az állat számára elegendő férőhelyet biztosítani,
 
-b) az állatot jólléte érdekében szakszerűen gondozni,
+b) az állat környezeti igényeit megfelelő tartástechnológia kialakításával kielégíteni,
 
-c) a megalapozott tudományos eredmények és tapasztalatok alapján az állatot annak fajára, fajtájára, korára, fejlettségére, alkalmazkodási képességére, háziasítottságának fokára, fiziológiai állapotára, etológiai szükségleteire figyelemmel takarmánnyal és folyadékkal ellátni, valamint gondozni,
+c) az állatot takarmánnyal és folyadékkal ellátni,
 
-d) biztosítani, hogy az állatnak adott takarmány és folyadék ne tartalmazzon olyan anyagot, amely annak szenvedést vagy fájdalmat okozhat,
+d) az állatot jóléte érdekében szakszerűen gondozni,
 
-e) az állatot fiziológiai szükségleteinek megfelelő időközönként megetetni,
+e) az állat viselkedési és szociális igényeit figyelembe venni,
 
-f) elkerülni az állatnak szükségtelen fájdalom, sérülés vagy szenvedés okozását.
+f) az állatnak – akár tevőlegesen, akár a szükséges beavatkozás elmulasztásával – szükségtelen fájdalom, sérülés vagy szenvedés okozását elkerülni.
 
-[^3]: A 3. § a 20/2002. (III. 14.) FVM rendelet 3. §-ával megállapított szöveg.
+[^3]: A 3. § a 178/2009. (XII. 29.) FVM rendelet 2. §-ával megállapított szöveg.

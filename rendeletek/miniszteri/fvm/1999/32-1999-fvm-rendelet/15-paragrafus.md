@@ -1,20 +1,21 @@
-## 14. §[^16] A rendelet 1. számú melléklete a borjak tartására, 2. számú melléklete a sertések tartására, 3. számú melléklete a tojótyúkok ketreces tartására, 4. számú melléklete a hízott máj előállítására, 5. számú melléklete a tolltépésre, 6. számú melléklete a mezőgazdasági haszonállatokon érzéstelenítés nélkül végezhető beavatkozásokra, 7. számú melléklete az egyes állatfajoknál végzett állatvédelmi ellenőrzések jelentési formájára vonatkozó szabályokat tartalmazza.
+## 14. §[^25] A borjak tartására vonatkozó szabályokat az 1. számú melléklet, a sertések tartására vonatkozó szabályokat a 2. számú melléklet, a tojótyúkok tartására vonatkozó szabályokat a 3. számú melléklet, a hízott máj előállítására vonatkozó szabályokat a 4. számú melléklet, a tollszedésre vonatkozó szabályokat az 5. számú melléklet, a mezőgazdasági haszonállatokon érzéstelenítés nélkül végezhető beavatkozásokra vonatkozó szabályokat a 6. számú melléklet, a hústermelés céljából tartott csirkék tartására vonatkozó szabályokat a 7. számú melléklet, a házinyulak nagyüzemi tartására vonatkozó szabályokat a 8. számú melléklet, a szőrméjükért tenyésztett fajok tartására és szállítására vonatkozó szabályokat a 9. számú melléklet, az étkezési célra szánt halak tárolására és szállítására vonatkozó szabályokat a 10. számú melléklet tartalmazza.
 
 15. § (1) Ez a rendelet 1999. április 1. napján lép hatályba.
 
-(2)[^17] Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
+(2)[^26] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a Tanács 88/166/EGK irányelve a ketrecben tartott tojótyúkok védelmével kapcsolatos minimális követelmények megállapításáról,
+a) a Tanács 98/58/EK irányelve (1998. július 20.) a tenyésztés céljából tartott állatok védelméről,
 
-b) a Tanács 91/629/EGK irányelve a borjak védelmének minimális követelményeiről, valamint a Tanács azt módosító 97/2/EK irányelve és 97/182/EK határozata,
+b) a Tanács 99/74/EK irányelve (1999. július 19.) a tojótyúkok védelmére vonatkozó minimumkövetelmények megállapításáról,
 
-c) a Tanács 91/630/EGK irányelve a sertések védelmének minimális követelményeiről, valamint a Tanács azt módosító 2001/88/EK és a Bizottság 2001/93/EK irányelve,
+c) a Tanács 2007/43/EK irányelve (2007. június 28.) a hústermelés céljából tartott csirkék védelmét szolgáló minimumszabályok megállapításáról,
 
-d) a Tanács 98/58/EK irányelve az állatok védelméről a mezőgazdasági haszonállattartás során,
+d) a Tanács 2008/119/EK irányelve (2008. december 18.) a borjak védelmére vonatkozó minimumkövetelmények megállapításáról,
 
-e) a Tanács 99/74/EK irányelve a tojótyúkok védelmével kapcsolatos minimális követelmények megállapításáról,
+e) a Tanács 2008/120/EK irányelve (2008. december 18.) a sertések védelmére vonatkozó minimumkövetelmények megállapításáról.
 
-f) a Tanács 2000/50/EK határozata a gazdasági haszon céljából tartott állatok tartási helye ellenőrzésének minimális követelményeiről.
+(3)[^27] Ez a rendelet a bizonyos állatok tenyésztésével foglalkozó termelőhelyeken végzett vizsgálatok alkalmával történő adatgyűjtésre vonatkozó minimumkövetelményekről szóló, 2006. november 14-i 2006/778/EK bizottsági határozat végrehajtását szolgálja.
 
-[^16]: A 14. § a 20/2002. (III. 14.) FVM rendelet 14. §-ával megállapított szöveg.
-[^17]: A 15. § (2) bekezdése a 20/2002. (III. 14.) FVM rendelet 15. §-ával megállapított szöveg.
+[^25]: A 14. § a 178/2009. (XII. 29.) FVM rendelet 8. §-ával megállapított szöveg.
+[^26]: A 15. § (2) bekezdése a 178/2009. (XII. 29.) FVM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^27]: A 15. § (3) bekezdését a 178/2009. (XII. 29.) FVM rendelet 9. § (2) bekezdése iktatta be.
