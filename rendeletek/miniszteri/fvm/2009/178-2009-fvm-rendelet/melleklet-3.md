@@ -1,0 +1,181 @@
+## „2. számú melléklet a 32/1999. (III. 31.) FVM rendelethez
+
+## A sertések tartásának minimális követelményei
+
+## 1. Általános szabályok
+
+## 1.1. E melléklet alkalmazásában:
+
+## a) sertés: tenyésztés vagy hizlalás céljából tartott különféle korú sertés (Sus scrofa var. domestica),
+
+## b) kan: tenyésztésre szánt ivarérett hímivarú sertés,
+
+## c) kocasüldő: ivarérett nőivarú sertés az első fialásig,
+
+## d) koca: a nőivarú sertés megnevezése az első fialás után,
+
+## e) anyakoca: a nőivarú sertés megnevezése a fialás és a malacok elválasztása közötti időszakban (szoptató koca),
+
+## f) szárazonálló koca: a nőivarú sertés megnevezése a malacok elválasztása és a következő fialás közötti időszakban,
+
+## g) malac (szopósmalac): a sertés megnevezése születésétől elválasztásig (utónevelés kezdetéig),
+
+## h) utónevelt malac: a sertés megnevezése az elválasztástól tízhetes életkorig,
+
+## i) hízó, illetve süldő: a sertés megnevezése tízhetes kortól vágásig, illetve tenyésztésbe állításig.
+
+## 1.2.1. A csoportosan tartott minden egyes utónevelt malac és hízó számára – a termékenyített kocasüldők és a kocák kivételével – legalább a következő akadálytalanul használható alapterületet kell biztosítani:
+
+## a) 10 kg-nál kisebb élősúlyú sertések számára 0,15 m2-es,
+
+## b) 10 és 20 kg közötti élősúlyú sertések esetében 0,20 m2-es,
+
+## c) 20 és 30 kg közötti élősúlyú sertések esetében 0,30 m2-es,
+
+## d) 30 és 50 kg közötti élősúlyú sertések esetében 0,40 m2-es,
+
+## e) 50 és 85 kg közötti élősúlyú sertések esetében 0,55 m2-es,
+
+## f) 85 és 110 kg közötti élősúlyú sertések esetében 0,65 m2-es,
+
+## g) 110 kg-nál nehezebb állatok esetében 1 m2-es
+
+## férőhelynek kell minden egyes állat rendelkezésére állnia.
+
+## 1.2.2. A termékenyített kocasüldők, illetve kocák csoportos tartása során újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében minden egyes termékenyített kocasüldő számára legalább 1,64 m2, minden egyes koca részére legalább 2,25 m2 akadálytalanul használható alapterületet kell biztosítani. A 6 egyednél kevesebbet tartalmazó csoport esetén az akadálytalanul használható alapterületet 10%-kal növelni kell. A 40 vagy ennél több egyedet tartalmazó csoport esetén az akadálytalanul használható alapterület 10%-kal csökkenthető.
+
+## 1.3.1. A padozatfelületnek újonnan épített, újjáépített vagy 2003. január elsejét köve tően első alkalommal üzembe helyezett állattartóhely esetében kell megfelelnie az 1.3.2–1.3.3. pontokban foglaltaknak.
+
+## 1.3.2. A termékenyített kocasüldők esetében az 1.2.2. pontban előírt minimális alapterületből egyedenként legalább 0,95 m2 legyen tömör, szilárd padozatfelület, melyből legfeljebb 15%-ot foglalhatnak el a vízelvezető nyílások.
+
+## 1.3.3. A vemhes koca esetében az 1.2.2. pontban előírt minimális alapterületből egyedenként legalább 1,3 m2 legyen tömör, szilárd padozatfelület, melyből legfeljebb 15%-ot foglalhatnak el a vízelvezető nyílások.
+
+## 1.3.4. A betonból készült rácspadozatnak meg kell felelnie az alábbiaknak:
+
+## 1.3.4.1. A nyílások szélessége malac esetében legfeljebb 11 mm, utónevelt malac esetében legfeljebb 14 mm, hízó esetében legfeljebb 18 mm, termékenyített kocasüldő és koca esetében legfeljebb 20 mm lehet.
+
+## 1.3.4.2. A rács szélességének malac és utónevelt malac esetében legalább 50 mm-nek, hízó, termékenyített kocasüldő és koca esetén legalább 80 mm-nek kell lennie.
+
+## 1.3.5. A padozatnak simának, de csúszásmentesnek kell lennie, és úgy kell megtervezni, kialakítani és karbantartani, hogy ne okozzon sérülést vagy fájdalmat a sertéseknek. A padozat kialakításának meg kell felelnie a sertések nagyságának és súlyának, és almozás hiányában szilárd, egyenes és stabil felületet kell képeznie.
+
+## 1.4.1. Tilos sertést lekötve tartani.
+
+## 1.4.2. Tilos a kocák és kocasüldők lekötve tartására szolgáló épület létesítése, valamint az épületek e célból történő átalakítása.
+
+## 1.5.1. A tíznél kevesebb kocát tartó gazdaságok kivételével újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében a kocasüldőket és a kocákat a termékenyítés utáni 4. hét eltelte utáni naptól 1 héttel az ellés várható időpontja előtti napig csoportosan kell tartani. A csoport tartására kialakított kutrica oldalfalainak 2,8 m-nél hosszabbnak kell lenniük. Ha egy csoportban kevesebb, mint 6 egyedet tartanak, a kutrica oldalfalainak 2,4 m-nél hosszabbnak kell lenniük.
+
+## 1.5.2. A tíznél kevesebb kocát tartó gazdaságokban az állatok az 1.5.1. pontban leírt időtartam alatt elkülönítve is tarthatók, ha azok saját rekeszükben kényelmesen meg tudnak fordulni.
+
+## 1.6. E rendelet előírásait figyelembe véve újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében a kocasüldők és kocák számára állandó hozzáférést kell biztosítani manipulálható anyaghoz, illetve az azzal való játék lehetőségéhez.
+
+## 1.7. A csoportosan tartott kocasüldők és kocák takarmányozására olyan rendszert kell alkalmazni, amely a vetélytársak jelenlétében is lehetővé teszi minden egyed számára az elegendő mennyiségű táplálék felvételét.
+
+## 1.8. Minden szárazonálló vemhes kocának és kocasüldőnek az éhség csillapítására és rágási igényeinek kielégítésére elegendő mennyiségű ballaszt- vagy magas rosttartalmú, valamint magas energiatartalmú takarmányt kell biztosítani.
+
+## 1.9. Azokat, az egyébként csoportosan tartandó sertéseket, amelyek különösen agresszívek, vagy amelyeket más sertések megtámadtak, illetve amelyek betegek vagy sérültek, ideiglenes jelleggel egyedi kutricában lehet hizlalni.
+
+## 1.10. Az 1.9. pont szerinti célra alkalmazott egyedi kutrica méreteit újonnan épített, újjáépített vagy 2003. január elsejét követően első alkalommal üzembe helyezett állattartóhely esetében úgy kell kialakítani, hogy az állat kényelmesen megfordulhasson, hacsak ez nem ellentétes az állatorvos erre vonatkozó konkrét utasításával.
+
+## 1.11. Minden sertést legalább naponta egyszer meg kell etetni. Amennyiben a sertéseket csoportokban, és nem ad libitum etetik, vagy az állatok egyéni etetését biztosító automatikus működtetésű takarmányellátó berendezést alkalmaznak, minden sertésnek a csoport többi tagjával azonos időben kell a takarmányhoz jutnia.
+
+## 1.12. Minden kéthetesnél idősebb sertés számára elegendő mennyiségű friss vizet kell biztosítani.
+
+## 1.13. Az épületnek azon részében, ahol a sertéseket tartják, kerülni kell a 85 dBA vagy ennél nagyobb folyamatos zajszintet. Kerülni kell az állandó vagy hirtelen zajt.
+
+## 1.14. A sertések tartására használt épületrészben a fényerő legalább napi nyolc órán keresztül legalább 40 lux legyen.
+
+## 1.15. A sertések elhelyezésére használt épületrészt úgy kell kialakítani, hogy biztosítsa
+
+## 1.15.1. az állatok számára a fizikai értelemben és a hőmérséklet tekintetében egyaránt kényelmes, megfelelő vízelvezetéssel ellátott, tiszta fekvőterületet, valamint az épületben tartott valamennyi állat számára az egyidejű lefekvés lehetőségét,
+
+## 1.15.2. az állatok számára a kényelmes pihenés és felállás lehetőségét,
+
+## 1.15.3. azt, hogy az állatok – kivéve a kocák és kocasüldők a fialást megelőző utolsó hét folyamán, valamint a fiaztató kutricában való tartás alatt – fajtársaikat láthassák.
+
+## 1.16. A sertéseknek biztosítani kell a viselkedésbeli sajátosságaikhoz tartozó magatartásformához (pl. fürkészés, turkálás, játék) szükséges, elegendő mennyiségű, egészségükre nem ártalmas anyagot (pl. szalmát, szénát, fát, fűrészport, gombakomposztot vagy ezek keverékét).
+
+## 2. A kanok tartásának követelményei
+
+## 2.1. A kankutrica kialakítása és elhelyezése tegye lehetővé, hogy a kan abban meg tudjon fordulni, hallhassa, láthassa a többi állatot, és érezhesse azok szagát.
+
+## 2.2. Felnőtt kan számára legalább 6 m2 akadálytalanul használható alapterületet kell biztosítani.
+
+## 2.3. Amennyiben a természetes fedeztetést a kankutricában végzik, a kan számára legalább 10 m2 akadálytalanul használható alapterületet kell biztosítani.
+
+## 2.4. A kankutrica búgató része nem lehet rácspadozatú.
+
+## 3. A kocák és a kocasüldők tartásának követelményei
+
+## 3.1. Csoportos tartás esetén meg kell tenni minden szükséges intézkedést az agresszív magatartás visszaszorítására.
+
+## 3.2. A fialás várható időpontja előtt egy héttel a kocákat a fiaztató kutricába kell telepíteni, hogy elegendő ideje legyen az állatoknak a kutricához hozzászokni.
+
+## 3.3. Amennyiben szükséges, a vemhes kocákat és kocasüldőket a külső és a belső élősködők ellen egyaránt kezelni kell. Fiaztató kutricába telepítés előtt az állat teljes testfelületét alaposan meg kell tisztítani.
+
+## 3.4. A fekvőhelynek tisztának, megfelelő vízelvezetésűnek és kényelmesnek kell lennie. A várható fialás előtti héten a kocák és kocasüldők számára biztosítani kell megfelelő és elegendő alomanyagot, kivéve, ha a létesítményben alkalmazott hígtrágyakezelő rendszer technikailag azt nem teszi lehetővé.
+
+## 3.5. A koca, illetve kocasüldő részére fialáskor olyan szabad területet kell kialakítani, amely lehetővé teszi a zavartalan fialást és a fialásban történő segítségnyújtást.
+
+## 3.6. A fiaztatókutricában gondoskodni kell a malacok védelméről (pl. malacmentő rács, malacvédő korlát elhelyezésével).
+
+## 4. A szopósmalacok tartásának követelményei
+
+## 4.1. A malacok számára olyan szilárd padozatú vagy szőnyeggel borított, szalmával vagy egyéb erre alkalmas anyaggal almozott fekvőhelyet kell biztosítani, amely lehetővé teszi az összes malac egyidejű pihenését.
+
+## 4.2. A fiaztató ketrecekben elégséges helyet kell biztosítani ahhoz, hogy a malacok akadálytalanul szophassanak.
+
+## 4.3. A malacokat 28 napos koruk előtt csak abban az esetben szabad elválasztani, ha a koca vagy a malacok egészsége vagy jóléte veszélyeztetett.
+
+## 4.4. A malacokat az 4.3. pontban megadottnál akár hét nappal korábban is el lehet választani, ha azokat olyan, kifejezetten az erre a célra kialakított épületbe telepítik,
+
+## 4.4.1. amelyet az újabb csoport betelepítése előtt kiürített állapotban kitakarítottak és fertőtlenítettek,
+
+## 4.4.2. amely a különböző betegségek malacokra történő átterjedésének minimálisra csökkentése érdekében megfelelően elkülönített a kocák tartására szolgáló épületektől.
+
+## 4.5. A farokrágás és egyéb rossz viselkedési szokások megelőzése érdekében az állattartás környezeti sajátosságainak és a telepítés sűrűségének figyelembevételével a nem megfelelő környezeti feltételek vagy tartástechnológia megváltoztatására irányuló intézkedéseket kell tenni.
+
+## 4.5.1. Sem a farokkurtítás, sem a szegletfogak lecsípése nem lehet automatikus, rutinszerű tevékenység. Ezeket a műveleteket csak abban az esetben szabad elvégezni, ha egyértelművé válik és bizonyítékkal alátámasztható, hogy a kocák csecsbimbója e nélkül sérül, vagy a malacok egymás fülét, farkát rágják, sértik.
+
+## 4.5.2. A hétnapos kor alatti malacok esetében a farokkurtítást és a szegletfogak lecsípését csak állatorvos vagy állatorvos irányításával és felügyeletével cselekvő, megfelelő állategészségügyi ismerettel és gyakorlati tapasztalattal rendelkező személy végezheti.
+
+## 4.5.3. A hétnaposnál idősebb malacok ivartalanítását és farokkurtítását csak érzéstelenítés vagy tartós fájdalomcsillapítás mellett kizárólag állatorvos végezheti.
+
+## 5. Az utónevelt malacok és a hízók tartásának követelményei
+
+## 5.1. Az állatok csoportos tartása esetében meg kell tenni minden szükséges intézkedést a szokványosnak tekinthető magatartáson túlmenő harc megelőzésére.
+
+## 5.2. A csoportos tartásnál lehetőség szerint korlátozni kell a különböző csoportok között az állatok áthelyezését. Ha egymást nem ismerő egyedek egy csoportba helyezésére van szükség, akkor azt a lehető legkorábban, lehetőség szerint az elválasztás előtt vagy legfeljebb egy héttel az elválasztás után kell megtenni. Az egyedek átcsoportosítása esetén az állatok számára megfelelő menekülési és rejtőzési lehetőséget kell biztosítani a többi sertés elől.
+
+## 5.3. Súlyos harcok, valamint annak látható nyomainak felfedezése esetén haladéktalanul fel kell deríteni az arra vezető okokat, valamint meg kell tenni minden szükséges lépést annak megszüntetésére (pl. bőséges szalmáról vagy az állat érdeklődését felkeltő, fürkészésre alkalmas anyagról kell gondoskodni). A különösen veszélyeztetett vagy agresszív egyedeket el kell különíteni a csoporttól.
+
+## 5.4. Az egyedek különböző csoportok között történő áthelyezésénél nyugtatószereket csak rendkívüli esetben és állatorvos szakvéleménye alapján lehet alkalmazni.”
+
+3. számú melléklet a 178/2009. (XII. 29.) FVM rendelethez
+
+1. Az R. 3. számú melléklete a következő 2.1. ponttal egészül ki:
+
+## „2.1. Ketreces tojótyúktartás során tilos fel nem javított ketrecet üzemben tartani.”
+
+2. Az R. 3. számú mellékletének 9. pontja helyébe a következő rendelkezés lép:
+
+## „9. A tojók tartásánál csak olyan fel nem javított ketreces rendszereket szabad alkalmazni, amelyek megfelelnek a következő előírásoknak:
+
+## 9.1. a tojók számára legalább 550 cm2 szabadon használható ketrec-alapterületet kell biztosítani, amelynek a meghatározásánál a méréseket vízszintesen kell elvégezni, a takarmányveszteség mérséklésére kialakított magas peremeket nem számítva, amennyiben azok a tojók mozgáslehetőségeit gátolják,
+
+## 9.2. a ketrec szabad belmagasságának – a ketrec területének legalább 65%-án- el kell érnie a 40 cm-t, de az sehol sem lehet 35 cm-nél kevesebb,
+
+## 9.3. a ketrec padozatát úgy kell kialakítani, hogy az állatok mindkét lábának mindegyik előrenéző karmát megfelelően megtámassza,
+
+## 9.4. a ketrecpadló lejtése legfeljebb 14%-os lehet; azoknál a padozatoknál, ahol nem négyszögletes dróthálót használnak, a kerületi főállatorvos engedélyezhet meredekebb lejtést,
+
+## 9.5. akadály nélkül használható etetővályúról kell gondoskodni,
+
+## 9.6. az egy tojóra eső etetőhossznak és a vályús itató hosszának egyaránt 10–10 cm-nek kell lennie, a szelepes vagy csészés itató esetén minden ketrecben legalább két itatóhelynek elérhetőnek kell lennie,
+
+## 9.7. a ketreceket megfelelő karomkoptató eszközökkel kell felszerelni.”
+
+3. Az R. 3. számú mellékletének 11. pontja helyébe a következő rendelkezés lép:
+
+## „11. A tojótyúkoknál alkalmazott tartási rendszer csak akkor lehet két- vagy többszintes, ha megfelelő berendezésekkel vagy intézkedésekkel a tojók ellenőrzése minden szinten lehetséges, valamint azok eltávolítása nem okoz nehézséget.”
+
+4. Az R. 3. számú mellékletének 14–20. pontja helyébe a következő rendelkezés lép:

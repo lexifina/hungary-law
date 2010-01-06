@@ -1,0 +1,79 @@
+## „5. számú melléklet a 32/1999. (III. 31.) FVM rendelethez
+
+## A tollszedés szabályai
+
+## 1.1. Tollszedés, tollazás, letollazás: Az érett tollak kíméletes, fájdalommentes és szakszerű eltávolítása.
+
+## 1.2. Az alábbi rendelkezések mindazon házi ludak (Anser anser var. domestica) tollszedésére vonatkoznak – az állatok fajtájától, hasznosítási irányától, korától, ivarától függetlenül –, amelyeket élő állapotban, tollszedésre hasznosítanak.
+
+## 2. A tollszedés szabályai a következők:
+
+## 2.1. az állatokat csak akkor szabad tollazni, amikor a toll teljesen érett,
+
+## 2.2. a tollazást meleg, száraz időben kell végezni, hogy utána az állat ne fázzon meg, és amennyiben az időjárási viszonyok indokolják, a libákat a szedés után védett, meleg helyen kell tartani,
+
+## 2.3. a tollazás előtti napon az állatokat lehetőség szerint meg kell fürdetni, úsztatni, majd a szedés időpontjáig frissen almozott, tiszta ólban kell tartani,
+
+## 2.4. nem szabad tollazást végezni, amikor az állatok tolla nedves,
+
+## 2.5. az állatokat – a tollszedés előtti egy héttől kezdődően a tollszedést követő második hét végéig – ad libitum kell takarmányozni,
+
+## 2.6. tollazáskor a tollat – a bőr sérülésének megakadályozása érdekében – a legkisebb ellenállás irányában, a toll könnyed eltávolításához megfelelő erővel szükséges kihúzni,
+
+## 2.7. az állatokról kemény gerincű (szárny- és farok-) tollat szedni tilos, a testtollak szedésekor ügyelni kell arra, hogy annyi toll maradjon az állat testén, amennyi a szárnyakat megtartja, illetve annyi pehely maradjon, amennyi a hőháztartás fenntartását biztosítja.
+
+## 3. A ludaknak a megfelelő méretű kifutó mellett a kedvezőtlen időjárási hatások megelőzése érdekében legalább a tollazás előtti második naptól a tollazás utáni tizennegyedik napig világos, jól szellőző istállót kell biztosítani.
+
+## 4. A ludak tollazása folyamán törekedni kell arra, hogy az stresszmentesen történjen. Az állatokat vitaminok és takarmánykiegészítők adásával kell segíteni a tollszedéssel járó stressz károsodásmentes elviselésében.
+
+## 5. A tollszedés évszakhoz kötött, csak akkor végezhető, ha a napi átlaghőmérséklet legalább 15 °C, illetve ha a napi legalacsonyabb hőmérséklet meghaladja a 6 °C-ot.
+
+## 6. Élő állat tollának szedése csak az élettanilag is bekövetkező tollváltások (vedlések) alkalmával, és csak a vonatkozó előírások figyelembevételével végezhető el. A növendékek az első tollazástól számított 6 hét múlva újra szedhetők. A nevelési körülményektől és az időjárástól függően a növendékludak a második szedéstől számított 6 hét múlva harmadszor is megszedhetők. A kifejlett törzsludakat a mindenkori tojástermelési időszak után szabad először tollazni, további tollazásuk a növendéknél leírtakkal megegyezően végezhető.
+
+## 7. A tollérettség pontos idejének megállapítása érdekében a vedlés kezdetén a mell, az oldal és a hát tájékán próbaszedéseket kell végezni. A tenyészállatoknál a tojástermelési periódus végén sűríteni kell a próbaszedéseket. A törzsállomány tollazásonkénti csoportosítása és ennek megtartása esetén elegendő az első csoport optimális tollazási állapotát meghatározni és a többit ehhez igazítani.
+
+## 8. Érett a toll abban az esetben, amikor a tollcséve és a tolltüsző közötti kapcsolat teljesen fellazult, ezáltal a tollak akadálytalanul, fájdalomokozás nélkül kihúzhatók a tollpapillákból és a toll vége erőteljesen elszarusodott, a toll táplálása teljes mértékben megszűnt, az holt szaruképződménnyé vált. A toll beérésekor, a vedlés megindulásának jeleként az állatok által használt területen (istállóban, kifutóban, legelőn) megjelennek az elhullatott tollak. Ilyenkor kell a toll érettségét ellenőrizni és a fenti szempontok meglétekor lehet a tollazást elkezdeni.
+
+## 9. A tollszedést megelőzően és a tollszedés során különösen nagy figyelmet kell fordítani arra, hogy az állatok zavarása minél kisebb mértékű legyen. Ennek érdekében a ludak tollszedéséhez nyugodt helyzetet kell teremteni.
+
+## 10. Az állatok befogásához megfelelő, néhány lúd elkerítésére alkalmas befogórácsot kell használni, és a ludakat nyakuknál kell megfogni. A légcsövet nem szabad elszorítani, ezért a nyakuknál fogott ludakat felemelni tilos. Ezen túlmenően a következő szabályokat kell követni:
+
+## 10.1. a ludakat felemelni csak az állat súlyát alulról megtartva szabad,
+
+## 10.2. tilos a ludak szárnyait összekötözni, keresztezni, vagy a ludakat összekötött lábaiknál fogva felfüggeszteni.
+
+## 11. A ludakat tollazó személynek kerülnie kell minden fájdalom vagy sérülés okozását. A tollat és a pehelytollat mindig kis csomókba fogva kell kihúzni, az új tollkezdeményeket nem szabad kiszakítani. Nedves kézzel ludat tollazni tilos.
+
+## 12. Tollazáskor toll kizárólag a test mell-, has- és hátoldali részeiről szedhető. Nem szabad szedni a nyelőcsőtágulatot borító tollazatot, illetve a szárnytollakat, a faroktollakat és a szárnytartó, ún. párnatollakat. A pehelytollakat csak ritkítani szabad.
+
+## 13. A tollszedést csak arra betanított és gyakorlatot szerzett személyek végezhetik. Az állatok egészségének megőrzése érdekében:
+
+## 13.1. a tollazás során esetlegesen előforduló bőrsérüléseket állatorvos által erre a célra javasolt állatgyógyászati készítményekkel kell kezelni, és az állatot nyugalma, gyógyulása érdekében el kell különíteni,
+
+## 13.2. a stressz vagy egyéb tényezők miatt nehezen tollazható egyedeknél a tollszedést mellőzni kell,
+
+## 13.3. a betegségek megelőzése céljából a tollazók csak frissen mosott, tiszta, fertőtlenített ruházattal és lábbelivel léphetnek be a tollazó helyiségbe, valamint ügyelni kell a tollazók személyi higiénéjére is,
+
+## 13.4. a tollszedés helyének tisztaságára gondot kell fordítani.
+
+## 14. A próbaszedésekről és a tollazásokról (az állomány azonosítójáról, a tollazás idejéről, a tollazott állatok számáról) az állattartónak nyilvántartást kell vezetnie, amelyet legalább öt évig meg kell őrizni.”
+
+6. számú melléklet a 178/2009. (XII. 29.) FVM rendelethez
+
+1. Az R. 6. számú mellékletének bevezető szövegrésze helyébe a következő rendelkezés lép:
+
+## „Az érzéstelenítés nélkül végezhető beavatkozásokat csak állatorvos vagy állatorvos irányításával és felügyeletével cselekvő, megfelelő állategészségügyi ismerettel és gyakorlati tapasztalattal rendelkező személy végezheti. Minden lehetséges módon csökkenteni kell az elkerülhetetlen fájdalom hatását.”
+
+2. Az R. 6. számú mellékletének 1. pontja helyébe a következő szövegrész lép:
+
+## „1. Ló, szamár, öszvér esetében:
+
+## vérvétel, fogreszelés, szondázás, rektális vizsgálat, vakbél szúrcsapolás, vértelen szülészeti segítségnyújtás, egyedi jelölés.”
+
+3. Az R. 6. számú mellékletének 6. pontja helyébe a következő szövegrész lép:
+
+## „6. Strucc és emu esetében:
+
+## vérvétel, krotáliázás.”
+
+4. Az R. 6. számú melléklete a következő 7–9. pontokkal egészül ki:
