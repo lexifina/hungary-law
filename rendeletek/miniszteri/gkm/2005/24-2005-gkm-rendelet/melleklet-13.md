@@ -1,10 +1,10 @@
-13. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^195]
+13. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^231]
 
 ## A továbbképzési képesítés megszerzésére vonatkozó előírások
 
-1. A továbbképzési képesítési szaktanfolyamon a részvétel kötelező, a tanfolyam időtartama 35 óra, amely évenként legalább 7 órás tanfolyami részekre is felbontható.
+1.[^232] A gépkocsivezetőnek az alapképesítéséhez igazodó szakmai továbbképzési szaktanfolyamon kell részt vennie. A szaktanfolyam időtartama 35 óra, amely 7 órás tanfolyami részekre is felbontható.
 
-A tanfolyam elvégzése után vizsgát kell tenni. A gépkocsivezetőnek az alapképesítéséhez igazodó szakmai továbbképzési tanfolyamon kell részt vennie.
+A szaktanfolyam elvégzése után vizsgát kell tenni. Aki a szaktanfolyam megkezdésétől számított egy éven belül nem tesz minden tárgyból sikeres vizsgát, annak a szaktanfolyamot és a vizsgát meg kell ismételnie.
 
 2. A szaktanfolyami oktatás elméleti tantárgyai és oktatási óraszámok
 
@@ -96,11 +96,11 @@ A jármű különböző útviszonyok közötti kezelése, megváltozott légkör
 
 a) vészfékezéssel történő megállás,
 
-b) haladás közbeni megpördülés, sodródás esetén a gépkocsi megtartása az úton,
+b)[^233] vészfékezéssel történő megállás eltérő tapadású felületen,
 
-c) fékezés közbeni megpördülés, sodródás esetén a gépkocsi megtartása az úton,
+c)[^234] kanyartechnika,
 
-d) megpördült gépkocsival megállás akadály előtt,
+d)[^235] szűk folyosón való áthaladás,
 
 e) akadály kikerülése fékezéssel és fékezés nélkül.
 
@@ -108,7 +108,7 @@ A gyakorlati oktatást erre a célra speciálisan kialakított tanpályán vagy 
 
 6. A szaktanfolyami oktatásra vonatkozó rendelkezések
 
-6.1. A tanfolyami oktatás tantervét, az alkalmazható tansegédleteket, illetőleg a vizsga követelményeit külön jogszabály[^196] alapján az NKH Központi Hivatala határozza meg.
+6.1. A tanfolyami oktatás tantervét, az alkalmazható tansegédleteket, illetőleg a vizsga követelményeit külön jogszabály[^236] alapján az NKH Központi Hivatala határozza meg.
 
 6.2. A tanfolyami oktatás elméleti tantárgyait csak az oktathatja, aki felsőfokú szakmai ismeretekkel rendelkezik a tantárgy ismeretanyagáról és oktatási módszereiről, továbbá oktatói tevékenységét az NKH Központi Hivatala engedélyezte.
 
@@ -126,7 +126,7 @@ rendelkezik.
 
 7. A továbbképzési szaktanfolyami oktatást végző képző szervre vonatkozó rendelkezések
 
-7.1.[^197] A továbbképzési szaktanfolyami oktatás végzését az NKH Kiemelt Ügyek Igazgatósága írásbeli kérelemre hagyja jóvá (engedélyezi). A kérelemhez a képző szervnek (oktatási központnak) csatolnia kell az alábbi dokumentumokat:
+7.1.[^237] A továbbképzési szaktanfolyami oktatás végzését az NKH Kiemelt Ügyek Igazgatósága írásbeli kérelemre hagyja jóvá (engedélyezi). A kérelemhez a képző szervnek (oktatási központnak) csatolnia kell az alábbi dokumentumokat:
 
 a) igazolást az elméleti tantárgyak oktatására alkalmas tanterem és a kapcsolódó szociális létesítmény meglétéről,
 
@@ -142,7 +142,7 @@ f) tájékoztatás a tanfolyamon történő részvétel körülményeiről (a r�
 
 g) a képző szervnek igazolnia kell, hogy a képzésben közreműködő elméleti és gyakorlati szakoktatók alapos ismeretekkel rendelkeznek a legfrissebb szabályozásokról és képzési követelményekről.
 
-7.2.[^198] Az írásbeli kérelem alapján a továbbképzési szaktanfolyami oktatás végzését az NKH Kiemelt Ügyek Igazgatósága jóváhagyás kiadásával akkor engedélyezi, ha a kérelemhez a 7.1. pontban meghatározott valamennyi dokumentumot – az 1–6. pontokban meghatározott feltételek teljesítést igazoló tartalommal – csatolták.
+7.2.[^238] Az írásbeli kérelem alapján a továbbképzési szaktanfolyami oktatás végzését az NKH Kiemelt Ügyek Igazgatósága jóváhagyás kiadásával akkor engedélyezi, ha a kérelemhez a 7.1. pontban meghatározott valamennyi dokumentumot – az 1–6. pontokban meghatározott feltételek teljesítést igazoló tartalommal – csatolták.
 
 7.3. A továbbképzési szaktanfolyami oktatás végzésére vonatkozó jóváhagyást az engedélyező hatóság visszavonhatja vagy felfüggesztheti, amennyiben a jóváhagyás kiadására vonatkozó feltételeknek a képző szerv nem tesz eleget.
 
@@ -152,7 +152,11 @@ g) a képző szervnek igazolnia kell, hogy a képzésben közreműködő elméle
 
 A szaktanfolyami képzésen részt vett, és a szakmai vizsgabizottság előtt sikeres vizsgát tett gépkocsivezető részére a vizsgajegyzőkönyv alapján az NKH Központi Hivatala a 14. számú melléklet szerinti igazolványt ad ki.
 
-[^195]: A 13. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.
-[^196]: A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 70/2005. (IV. 21.) Korm. rendelet 4. §-a (1) bekezdésének b) pontja.
-[^197]: A 13. számú melléklet 7.1. pontjának bevezető szövegrésze a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^198]: A 13. számú melléklet 7.2. pontjának bevezető szövegrésze a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^231]: A 13. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.
+[^232]: A 13. számú melléklet 1. pontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg.
+[^233]: A 13. számú melléklet 5. pont b) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg.
+[^234]: A 13. számú melléklet 5. pont c) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg.
+[^235]: A 13. számú melléklet 5. pont d) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (4) bekezdésével megállapított szöveg.
+[^236]: A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 70/2005. (IV. 21.) Korm. rendelet 4. §-a (1) bekezdésének b) pontja.
+[^237]: A 13. számú melléklet 7.1. pontjának bevezető szövegrésze a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^238]: A 13. számú melléklet 7.2. pontjának bevezető szövegrésze a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított szöveg.

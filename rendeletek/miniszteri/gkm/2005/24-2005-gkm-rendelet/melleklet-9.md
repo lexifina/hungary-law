@@ -2,7 +2,7 @@
 
 ## 1. A vizsgáztatás okmányai
 
-## 1.1.[^150] A jelentkezési lap
+## 1.1.[^179] A jelentkezési lap
 
 ## A jelentkezési lap az NKH Központi Hivatala által meghatározott tartalmú és szerkesztésű nyomtatvány, amelynek elkészítéséről az NKH Központi Hivatala gondoskodik.
 
@@ -22,25 +22,25 @@
 
 ## A képző szervnek hiánypótlásra vissza kell adni azt a jelentkezési lapot, amelyik a vizsgára jelentéskor a fenti előírásoknak nem felel meg.
 
-## 1.2.[^151] A vizsgalap
+## 1.2.[^180] A vizsgalap
 
 ## A vizsgalapot a regionális igazgatóság állítja ki. A vizsgázó a vizsgalapot az első alapvizsgán veszi át, és azt köteles minden további vizsgára magával vinni, és a vizsgabiztosnak átadni.
 
 ## Más regionális igazgatóság illetékességi területére történő tanulóáthelyezés esetén a vizsgázó a vizsgalapot az elbocsátó regionális igazgatóságnál adja le, ahonnan a vizsgalapot a tanuló teljes személyi anyagával együtt megküldik a fogadó regionális igazgatósághoz. A fogadó regionális igazgatóság az új iktatószámot rávezeti a vizsgalapra, és azt a vizsgázónak visszaadja. A járművezetésre jogosító okmány megszerzéséhez előírt utolsó vizsga sikeres teljesítését követően a vizsgalap a vizsgázónál marad, amelyet a járművezetésre jogosító okmány átvételekor az okmányirodában be kell mutatnia.
 
-## 1.3.[^152] A vezetési karton
+## 1.3.[^181] A vezetési karton
 
 ## A képző szerv a bizonylati album szerinti – a tanuló és a képző szerv adataival kitöltött – vezetési kartont az első vizsgára jelentéssel a jelentkezési lap mellékleteként leadja a regionális igazgatóságnak. A regionális igazgatóság rávezeti a vizsgázó iktatószámát és hitelesíti.
 
 ## Elveszett vezetési karton helyett kiállított vezetési kartont a regionális igazgatóság hitelesíti. A hitelesítéskor a hitelesítő rovatba a „Pótlás” szót kell bejegyezni.
 
-## 1.4.[^153] A vizsgajegyzőkönyv
+## 1.4.[^182] A vizsgajegyzőkönyv
 
 ## A regionális igazgatóság a vizsgára jelentések, illetőleg jelentkezések alapján a bizonylati album szerinti vizsgajegyzőkönyvet állít össze. A vizsgajegyzőkönyv készítésekor észlelt hiányosság – jogszabály alapján vizsgára bocsátást kizáró ok – esetén az érintett vizsgázó a vizsgajegyzőkönyvre nem vehető fel.
 
-## 2.[^154] A regionális igazgatóság ügyfélszolgálati tevékenysége
+## 2.[^183] A regionális igazgatóság ügyfélszolgálati tevékenysége
 
-## 2.1.[^155] Az ügyfelek tájékoztatása
+## 2.1.[^184] Az ügyfelek tájékoztatása
 
 ## A regionális igazgatóság valamennyi közúti járművezetői vizsgáztatást intéző ügyfélfogadó helyiségében biztosítani kell annak lehetőségét, hogy az állampolgárok megbízható, pontos tájékoztatást kapjanak a közúti járművezető képzés és vizsgáztatás mindazon ügymeneti részleteiről, amelyek közvetlenül érintik őket.
 
@@ -84,19 +84,19 @@
 
 ## A sikertelen vizsgát követő újabb vizsga (a továbbiakban: pótvizsga) igényt az alapvizsgára jelentés szabályai szerint kell bejelenteni a jelentkezési lap átadására-átvételére vonatkozó előírások kivételével.
 
-## 3.1.[^156] Az elméleti alapvizsgaigény bejelentése
+## 3.1.[^185] Az elméleti alapvizsgaigény bejelentése
 
 ## A képző szerv az elméleti vizsgaigényét a Bizonylati album szerinti nyomtatványon jelenti be a regionális igazgatóságnak. A képző szerv a vizsgaigény jelentéssel együtt átadja a megfelelően kitöltött, a szükséges igazolásokkal (tanfolyam elvégzése, felmentés, egészségi alkalmassági vélemény stb.) ellátott és felszerelt jelentkezési lapokat. A vizsga helyét és időpontját a regionális igazgatóság jelöli ki, amelyet a vizsgajelentés másolati példányán, a vizsgázók személyi anyagának ellenőrzését követően igazol vissza. A vizsgára jelentéssel a képző szerv kötelezettséget vállal arra, hogy a tanuló elméleti képzése a vizsgáig hiánytalanul megtörténik, egyben igazolja, hogy a vizsgázó a vizsgára bocsátás feltételeinek megfelel.
 
 ## 3.2. A gyakorlati vizsgaigény jelentése
 
-## 3.2.1.[^157] A biztonsági ellenőrzés üzemeltetési alapvizsgaigény jelentése
+## 3.2.1.[^186] A biztonsági ellenőrzés üzemeltetési alapvizsgaigény jelentése
 
 ## A képző szerv a biztonsági ellenőrzés üzemeltetési vizsgaigényét a Bizonylati album szerinti nyomtatványon jelenti a regionális igazgatóságnak.
 
 ## A vizsga helyét és időpontját a regionális igazgatóság jelöli ki, amelyet a vizsgajelentés másolati példányán igazol vissza. A vizsgára jelentéssel a képző szerv kötelezettséget vállal arra, hogy a tanuló képzése az adott tárgyból a vizsgáig hiánytalanul megtörténik, egyben igazolja, hogy a vizsgázó a vizsgára bocsátás feltételeinek megfelel.
 
-## 3.2.2.[^158] A járműkezelési és a rutin alapvizsgaigény jelentése
+## 3.2.2.[^187] A járműkezelési és a rutin alapvizsgaigény jelentése
 
 ## A járműkezelési vagy a rutin vizsgaigényét a képző szerv a Bizonylati album szerinti nyomtatványon jelenti a regionális igazgatóságnak.
 
@@ -104,7 +104,7 @@
 
 ## Az első járműkezelési vagy rutin vizsgára jelentéssel a képző szerv, illetőleg a szakoktató egyben kötelezettséget vállal arra, hogy a vizsgázó részére a vizsga napjáig biztosítja a kötelezően előírt órák levezetését – kivéve a tanfolyammentes vizsga esetét –, egyben igazolja, hogy a vizsgázó a vizsgára bocsátás feltételeinek megfelel.
 
-## 3.2.3.[^159] A forgalmi alapvizsgaigény jelentése
+## 3.2.3.[^188] A forgalmi alapvizsgaigény jelentése
 
 ## A forgalmi vizsgaigényt a képző szerv a Bizonylati album szerinti nyomtatványon jelenti a regionális igazgatóságnak.
 
@@ -112,7 +112,7 @@
 
 ## Az első forgalmi vizsgára jelentéssel a képző szerv kötelezettséget vállal arra, hogy a vizsgázó részére a vizsga napjáig biztosítja a kötelezően előírt és feladatonként meghatározott órák levezetését – kivéve a tanfolyammentes vizsga esetét –, egyben igazolja, hogy a vizsgázó a vizsgára bocsátás feltételeinek megfelel.
 
-## 3.3.[^160] Vizsgára jelentés egyes tanfolyam-, illetve vizsgamentességi esetekben
+## 3.3.[^189] Vizsgára jelentés egyes tanfolyam-, illetve vizsgamentességi esetekben
 
 ## Azoknál a vizsgáknál, ahol nincs előírva elméleti és/vagy gyakorlati tanfolyami, illetve vizsgakötelezettség, a szükséges igazolásokkal ellátott és felszerelt jelentkezési lapot (felmentés, egészségi alkalmassági vélemény stb.) a vizsgázó első vizsgára jelentésekor (jelentkezésekor) kell átadni.
 
@@ -122,7 +122,7 @@
 
 ## A vizsga helyéről és időpontjáról a vizsgázókat a vizsgaigényt bejelentő értesíti. Az értesítésnek tartalmaznia kell, hogy a vizsgára a vizsgalapot, a meglévő vezetői engedélyt, továbbá a vezetői engedélyben nem szereplő kategória megszerzését tanúsító vizsgaigazolást a vizsgázónak magával kell vinnie, és a személyazonosságát igazolnia kell.
 
-## 3.5.[^161] A vizsgára bocsátás feltételeinek ellenőrzése
+## 3.5.[^190] A vizsgára bocsátás feltételeinek ellenőrzése
 
 ## A regionális igazgatóság a jelentkezési lapok átvételét követően a csatolt mellékletek és a vizsgázó nyilatkozata alapján ellenőrzi, hogy a vizsgázók megfelelnek-e a vizsgára bocsátás feltételeinek.
 
@@ -132,13 +132,13 @@
 
 ## Ha a regionális igazgatóság a vizsgázó vizsgára bocsátását kizáró, hitelt érdemlő adat birtokába jut (közlekedésbiztonsági feltételek megváltozása, PÁV alkalmatlanság, utánképzési kötelezettség stb.), a vizsgázót – a feltételek igazolt teljesítéséig – további vizsgára nem bocsáthatja. Ebben az esetben a vizsgázót írásban értesíteni kell.
 
-## 4.[^162] A vizsgák szervezése
+## 4.[^191] A vizsgák szervezése
 
 ## A vizsgákat a regionális igazgatóság szervezi.
 
 ## A képző szerv (illetve képző szervek közösen) és a regionális igazgatóság megállapodhatnak abban, hogy a vizsgákat mindig a hét azonos napján (napjain) rendezik. Ekkor a képző szerv (illetve képző szervek közösen) kötelezettséget vállal arra, hogy a lekötött vizsganapokon a megegyezésben rögzített vizsgázó létszámot biztosítja, a regionális igazgatóság pedig vállalja, hogy a vizsgát az előzetesen megállapított helyen és időben lebonyolítja.
 
-## 4.1.[^163] A vizsgafeltételek biztosítása
+## 4.1.[^192] A vizsgafeltételek biztosítása
 
 ## A regionális igazgatóságnak a székhelyén, az elméleti és a gyakorlati vizsgák lebonyolításához szükséges vizsgatermet, vizsgapályát és az ezekhez szükséges kiszolgáló helyiségeket (vizsgabiztosi szoba, a vizsgázók és a szakoktatók részére várakozó helyiség, WC és kézmosási lehetőség) biztosítania kell.
 
@@ -244,13 +244,13 @@
 
 ## A vizsgázó a vizsgabiztosra a vizsgakiírástól számított legfeljebb 10 percet köteles várni. Ennél több késés esetén a vizsgázó kérheti a vizsga új időpontban megtartását. Ebben az esetben a vizsgázó vizsgadíj befizetése nélkül tehet újabb vizsgát.
 
-## 5.4. A vizsgán meg nem jelenés
+## 5.4.[^193] A vizsgán meg nem jelenés
 
 ## A vizsgára kiírt időpontban meg nem jelenő, vagy az engedélyezettnél többet késő vizsgázó újabb vizsgadíj befizetése nélkül csak az esetben tehet újabb vizsgát, ha távolmaradását
 
-## –[^164] legkésőbb a vizsga napját megelőző 5. napon a regionális igazgatóságnak személyesen vagy írásban bejelenti, vagy
+## – legkésőbb a vizsga napját megelőző 5. napon a regionális igazgatóságnak személyesen vagy írásban bejelenti, vagy
 
-## – orvosi igazolással indokolja.
+## – ha a mulasztás önhibáján kívül következett be és ennek tényét igazolja.
 
 ## 5.5. A személyazonosság megállapítása
 
@@ -360,7 +360,7 @@
 
 ## A vizsgabiztos (vizsgarendező) az aláírás után átadja a vizsgázónak a vizsgalapját. A vizsga az utolsó vizsgalap átadásával fejeződik be.
 
-## 6.1.7.[^165] A vizsga utáni tájékoztatás
+## 6.1.7.[^194] A vizsga utáni tájékoztatás
 
 ## A vizsgázókat a vizsgabiztos – amennyiben ez a vizsga előtt nem történt meg – tájékoztatja a további tennivalóikról, a sikertelen eredménnyel vizsgázottakat a pótvizsgára jelentkezés módjáról, a regionális igazgatóság ügyfélfogadási idejéről, a pótvizsga várható időpontjáról és helyéről, a pótvizsgára befizetendő összegről és a befizetés módjáról.
 
@@ -378,7 +378,7 @@
 
 ## A személy azonosságának megállapítását követően a vizsgabiztos az alapvizsgázó részére átadja a vizsgalapot adategyeztetésre.
 
-## A magyar nyelvet nem beszélő vizsgázók vizsgája a külön jogszabályban[^166] meghatározott tolmács közreműködésével történik.
+## A magyar nyelvet nem beszélő vizsgázók vizsgája a külön jogszabályban[^195] meghatározott tolmács közreműködésével történik.
 
 ## A vizsgát a járműkategóriának és vizsgatárgynak megfelelő tesztlap felhasználásával kell végrehajtani oly módon, hogy a vizsgabiztos a kérdések egyszerűsített, de a tartalomnak megfelelő változatát teszi fel a vizsgázónak. A vizsgázó a feleletet tolmács útján adja meg. A válaszok értékelését a tesztlap pontozási rendszere alapján kell elvégezni.
 
@@ -428,7 +428,7 @@
 
 ## 7.2. A járműkezelési vizsga
 
-## 7.2.1.[^167] Általános előírások
+## 7.2.1.[^196] Általános előírások
 
 ## A vizsgát egy fő vizsgabiztos vezeti le. A vizsgára a regionális igazgatóság vezényelhet vizsgarendezőt is.
 
@@ -436,7 +436,7 @@
 
 ## 7.2.2. A járműkezelési vizsga tárgyi feltételei
 
-## 7.2.2.1.[^168] A vizsgapálya
+## 7.2.2.1.[^197] A vizsgapálya
 
 ## Járműkezelési vizsga csak olyan vizsgapályán tartható, amelyet a regionális igazgatóság előzetesen arra alkalmasnak nyilvánított.
 
@@ -458,7 +458,7 @@
 
 ## Az „M”, „A korl.” és „A” kategóriás és az „A1” alkategóriás járművek vizsgafeladatainak kijelöléséhez olyan műanyag forgalomterelő kúpokat kell használni, amelyek a vizsgázónak és a járműveknek sérülést nem okozhatnak, könnyen hordozhatóak, jól láthatóak és a jármű méreteinek megfelelnek. Az egyes feladatok helyét legfeljebb 45 cm magas és 30 cm talpszélességű kúpokkal kell kijelölni, illetve határolni, a kúpok helyét maradandóan meg kell jelölni. A kúpok egymástól való távolságát a kúpok közepétől kell mérni. A megállás helyét jelző vonalat sárga színűre kell felfesteni. A fékezés kezdetét jelző vonalat sárga színűre kell festeni és kúppal kell jelölni.
 
-## 7.2.3.[^169] A járműkezelési vizsga szervezése
+## 7.2.3.[^198] A járműkezelési vizsga szervezése
 
 ## A járműkezelési vizsga önálló vizsgaként szervezhető.
 
@@ -540,7 +540,7 @@
 
 ## 7.3. A biztonsági ellenőrzés és üzemeltetési vizsga
 
-## 7.3.1.[^170] A biztonsági ellenőrzés és üzemeltetési vizsga tárgyi feltételei
+## 7.3.1.[^199] A biztonsági ellenőrzés és üzemeltetési vizsga tárgyi feltételei
 
 ## Biztonsági ellenőrzés és üzemeltetési vizsga csak olyan helyiségben tartható, amelyet a regionális igazgatóság előzetesen arra alkalmasnak nyilvánított, a minősítési szempontok és egyéb helyszíni adottságok figyelembevételével.
 
@@ -640,7 +640,7 @@
 
 ## – 1 db asztal, 1 db szék
 
-## – az adott kombinált kategóriába tartozó működőképes járműszerelvény a kötelező tartozékokkal[^171],
+## – az adott kombinált kategóriába tartozó működőképes járműszerelvény a kötelező tartozékokkal[^200],
 
 ## – 1 db működtethető félpótkocsi-támasztóláb (csak „C+E”-nél) (lehet a félpótkocsin is),
 
@@ -658,7 +658,7 @@
 
 ## – 1 db asztal, 1 db szék,
 
-## – az adott kombinált kategóriába tartozó működőképes járműszerelvény a kötelező tartozékokkal[^172],
+## – az adott kombinált kategóriába tartozó működőképes járműszerelvény a kötelező tartozékokkal[^201],
 
 ## – 1 db, a járműszerelvényhez tartozó pótkerék,
 
@@ -758,7 +758,7 @@
 
 ## 7.4.2. A rutin vizsga tárgyi feltételei
 
-## 7.4.2.1.[^173] A vizsgapálya
+## 7.4.2.1.[^202] A vizsgapálya
 
 ## Rutin vizsga csak olyan vizsgapályán tartható, amelyet a regionális igazgatóság előzetesen arra alkalmasnak nyilvánított.
 
@@ -788,7 +788,7 @@
 
 ## – oktatójármű-igazolás megszerzésére kötelezett járműnek érvényes oktatójármű-igazolással.
 
-## Különös figyelmet kell fordítani a külön jogszabályban[^174] szereplő műszaki előírásokra, a biztonsági öv felszerelésére, valamint a tűzoltó készülék „készenlétben tartására” vonatkozóan.
+## Különös figyelmet kell fordítani a külön jogszabályban[^203] szereplő műszaki előírásokra, a biztonsági öv felszerelésére, valamint a tűzoltó készülék „készenlétben tartására” vonatkozóan.
 
 ## „C1” alkategóriás és „C” kategóriás rutin vizsgákon a vezetőfülke hátsó ablakán a hátralátást meg kell akadályozni (pl. letakarással).
 
@@ -850,11 +850,11 @@
 
 ## 7.5. A forgalmi vizsga
 
-## 7.5.1.[^175] Általános előírások
+## 7.5.1.[^204] Általános előírások
 
 ## Forgalmi vizsga csak az NKH Központi Hivatala engedélye alapján vizsgahellyé minősített településen tartható. A vizsgahellyé kijelölt települések jegyzékét hivatalos közlönyben közzé kell tenni.
 
-## 7.5.1.1.[^176] A forgalmi vizsgahely követelményei:
+## 7.5.1.1.[^205] A forgalmi vizsgahely követelményei:
 
 ## Közúti járművezetői vizsgahellyé az „A”, „A korl.”, „B”, „C”, „D” kategóriás, az „A1”, „C1”, „D1” alkategóriás, továbbá a „B+E”, „C+E”, „C1+E”, „D+E” és „D1+E” kombinált kategóriás forgalmi vizsgák lebonyolításához csak olyan település minősíthető, amely a forgalmi vizsga kiindulási helyét is figyelembe véve megfelel az alábbi követelményeknek:
 
@@ -866,7 +866,7 @@
 
 ## d) az útvonalak 30%-a párhuzamos közlekedésre alkalmas,
 
-## e) legyen két olyan csomópont, ahol a külön jogszabályban[^177] meghatározott fényjelző készülék működik; az egyik csomóponti fényjelző készülék helyett elfogadható a kiépített körforgalom,
+## e) legyen két olyan csomópont, ahol a külön jogszabályban[^206] meghatározott fényjelző készülék működik; az egyik csomóponti fényjelző készülék helyett elfogadható a kiépített körforgalom,
 
 ## f) a kijelölendő útvonalak egyike lakott területen kívül vezető főútvonal, vagy ahol arra lehetőség van, autópálya vagy autóút szakaszt is foglaljon magába. E szakaszra a forgalomsűrűségi előírások nem vonatkoznak.
 
@@ -940,7 +940,7 @@
 
 ## = álljon meg meghatározott helyen az úttest szélén, azzal párhuzamosan, majd induljon el.
 
-## 7.5.2.3.[^178] A „Trolibusz” kategóriás forgalmi vizsga útvonala
+## 7.5.2.3.[^207] A „Trolibusz” kategóriás forgalmi vizsga útvonala
 
 ## A forgalmi vizsgát az NKH Központi Hivatala által kijelölt útvonalon kell megtartani.
 
@@ -980,13 +980,13 @@
 
 ## – WC, kézmosási lehetőség.
 
-## 7.5.4.[^179] A vizsgán résztvevő jármű
+## 7.5.4.[^208] A vizsgán résztvevő jármű
 
 ## A vizsgáztatásra kiállított járműnek meg kell felelnie:
 
 ## – az általános biztonsági és esztétikai követelményeknek,
 
-## – a külön jogszabályban[^180] előírt feltételeknek,
+## – a külön jogszabályban[^209] előírt feltételeknek,
 
 ## – az egyedi (különleges) előírásoknak, továbbá rendelkeznie kell:
 
@@ -994,7 +994,7 @@
 
 ## – a térképolvasási feladathoz leporelló (kihajtható) Magyarország közúti térképpel.
 
-## Különös figyelmet kell fordítani a külön jogszabályban[^181] szereplő műszaki előírásokra, a biztonsági öv felszerelésére, valamint a tűzoltó készülék „készenlétben tartására” vonatkozóan.
+## Különös figyelmet kell fordítani a külön jogszabályban[^210] szereplő műszaki előírásokra, a biztonsági öv felszerelésére, valamint a tűzoltó készülék „készenlétben tartására” vonatkozóan.
 
 ## Az „M”, „A korl.” és „A” kategóriás, továbbá az „A1” alkategóriás vizsgákon a követő gépkocsit (kísérő gépkocsit) a regionális igazgatóság saját gépkocsival vagy bérlemény útján biztosítja.
 
@@ -1016,7 +1016,7 @@
 
 ## 7.5.6.1. Az „M”, „A korl. „és „A” kategóriás, továbbá az „A1” alkategóriás vizsgánál eltérő előírások:
 
-## a)[^182] Az adó-vevő készüléket és a tanuló-mellényt a regionális igazgatóságnak kell biztosítania. Igénybe vehető a képző szerv által rendelkezésre bocsátott – e célra alkalmas – adó-vevő készülék is.
+## a)[^211] Az adó-vevő készüléket és a tanuló-mellényt a regionális igazgatóságnak kell biztosítania. Igénybe vehető a képző szerv által rendelkezésre bocsátott – e célra alkalmas – adó-vevő készülék is.
 
 ## b) A vizsgázónak a vizsgabiztos jelenlétében az alábbi nyilatkozatot kell aláírnia, melyet a vizsgajegyzőkönyvhöz kell csatolni. A nyilatkozat hiánya, illetőleg az aláírásának megtagadása esetén a vizsga nem folytatható le.
 
@@ -1062,7 +1062,7 @@
 
 ## aláírása”
 
-## c)[^183] A forgalmi vizsgáztatást december 1. és március 1. között szüneteltetni kell.
+## c)[^212] A forgalmi vizsgáztatást december 1. és március 1. között szüneteltetni kell.
 
 ## November hónapban a hirtelen változó út- és időjárási viszonyokra tekintettel a vizsgák megtartásáról a regionális igazgatóság jogosult dönteni.
 
@@ -1146,7 +1146,7 @@
 
 ## A szakoktató feladata a balesetveszély elhárítása, szükség esetén közbeavatkozással (kormányzással, fékezéssel stb.).
 
-## 7.5.7.3.[^184] A vizsgabiztos feladata
+## 7.5.7.3.[^213] A vizsgabiztos feladata
 
 ## A vizsgabiztos a vizsga megkezdése előtt ellenőrzi a vizsgáztatás feltételeit.
 
@@ -1190,7 +1190,7 @@
 
 ## 8.1.1. Végrehajtás
 
-## A vizsgázót a vizsgabiztos előzetesen tájékoztatja a vizsga menetéről. Elindulás előtt a vizsgázó a KRESZ szerinti kötelező ellenőrzést végezze el,[^185] ezt követően a biztonsági övet csatolja be „C1”, „D1” alkategóriák, a „C”, „D” kategóriák, valamint a „C1+E”, „D1+E”, „C+E”, „D+E” kombinált kategóriák esetében végezze el a térképolvasási feladatot, töltse ki a menetíró készüléknek megfelelő adatrögzítő lapot, és helyezze a menetíró készülékbe.
+## A vizsgázót a vizsgabiztos előzetesen tájékoztatja a vizsga menetéről. Elindulás előtt a vizsgázó a KRESZ szerinti kötelező ellenőrzést végezze el,[^214] ezt követően a biztonsági övet csatolja be „C1”, „D1” alkategóriák, a „C”, „D” kategóriák, valamint a „C1+E”, „D1+E”, „C+E”, „D+E” kombinált kategóriák esetében végezze el a térképolvasási feladatot, töltse ki a menetíró készüléknek megfelelő adatrögzítő lapot, és helyezze a menetíró készülékbe.
 
 ## A járdaszegély (úttest széle) mellől, vagy forgalmi ok miatti megállás után határozottan, biztosan, egyenletesen, a kezelő-berendezéseket, szükség esetén a világítást, a jelzéseket használva, körültekintően induljon el. Indulás előtt a külső visszapillantó tükörből vagy más módon győződjön meg a jármű mögötti és melletti forgalomról. Mindig az oktató által megjelölt irányba haladjon. Iránymutatás hiányában kövesse az út vonalvezetését, illetve tegyen eleget a közúti jelzések kötelezéseinek.
 
@@ -1460,7 +1460,7 @@
 
 ## A vizsgabiztos a vizsga során a vizsgaútvonalon a műveletek, manőverek elvégzésekor a vizsgázó teljesítményének megfelelően értékeli a feladat végrehajtását. Az egyes hibákat hibavonallal kell jelölni. A hibavonalat a manőver alatti és az útvonalhoz kapcsolódó rovatokba kell bejegyezni, ugyanakkor a hibára utaló szövegmezőben a vonatkozó hibát jelezni kell.
 
-## 9.[^186] A vizsgázó lemondása sikeres vizsgáról
+## 9.[^215] A vizsgázó lemondása sikeres vizsgáról
 
 ## Összevont kategóriás képzés esetén a vizsgaigazolás „B” kategóriára történő kiállítása céljából szükséges, hogy a vizsgázó lemondjon a „C1” alkategóriában vagy „C” kategóriában tett sikeres vizsgájáról, illetőleg egy adott kategóriában történő új tanfolyam elvégzése esetén az előző tanfolyamon szerzett sikeres vizsgáiról. A vizsgázó az alábbi nyilatkozatot tölti ki 2 példányban, és azt a regionális igazgatóságnak leadja.
 
@@ -1530,7 +1530,7 @@
 
 Az 1–7. pontban foglaltakat értelemszerűen az igazolás kiadásának alapjául szolgáló eljáráshoz kapcsolódóan kell kitölteni.
 
-8.[^187] A vizsgaigazolást kiállító regionális igazgatóság megnevezése és az adatok azonosítására szolgáló számjel.
+8.[^216] A vizsgaigazolást kiállító regionális igazgatóság megnevezése és az adatok azonosítására szolgáló számjel.
 
 9. Vizsgázó:
 
@@ -1546,54 +1546,54 @@ e) születési idő,
 
 f) állampolgárság,
 
-10. Az adott kategóriában tett vizsga megnevezése a külön jogszabályban[^188] meghatározott betűjellel jelölve a kategóriát, továbbá a vizsga időpontja.
+10. Az adott kategóriában tett vizsga megnevezése a külön jogszabályban[^217] meghatározott betűjellel jelölve a kategóriát, továbbá a vizsga időpontja.
 
 11. A vezethető jármű műszaki kialakítására vonatkozó korlátozás megnevezése.
 
 12. A PÁV IV. korlátozás.
 
-13.[^189] Dátum és a kiállító regionális igazgatóság bélyegzőlenyomata és aláírása.
+13.[^218] Dátum és a kiállító regionális igazgatóság bélyegzőlenyomata és aláírása.
 
-14.[^190] Az igazoláson az alábbi záradékot kell feltüntetni:
+14.[^219] Az igazoláson az alábbi záradékot kell feltüntetni:
 
-[^150]: A 8. számú melléklet 1.1. pontja a a 95/2006. (XII. 27.) GKM rendelet 63. § b), i) és o) pontja szerint módosított szöveg.
-[^151]: A 8. számú melléklet 1.2. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e), g), k) és s) pontja szerint módosított szöveg.
-[^152]: A 8. számú melléklet 1.3. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e)–f) és h) pontja szerint módosított szöveg.
-[^153]: A 8. számú melléklet 1.4. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § f) pontja szerint módosított szöveg.
-[^154]: A 8. számú melléklet 2. pontjának címe a 95/2006. (XII. 27.) GKM rendelet 63. § f) pontja szerint módosított szöveg.
-[^155]: A 8. számú melléklet 2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § f) pontja szerint módosított szöveg.
-[^156]: A 8. számú melléklet 3.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) és h) pontja szerint módosított szöveg.
-[^157]: A 8. számú melléklet 3.2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) és h) pontja szerint módosított szöveg.
-[^158]: A 8. számú melléklet 3.2.2. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) és h) pontja szerint módosított szöveg.
-[^159]: A 8. számú melléklet 3.2.3. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) és h) pontja szerint módosított szöveg.
-[^160]: A 8. számú melléklet 3.3. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^161]: A 8. számú melléklet 3.5. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e)–f) és l) pontja szerint módosított szöveg.
-[^162]: A 8. számú melléklet 4. pontjának felvezető szövege a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^163]: A 8. számú melléklet 4.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § h) pontja szerint módosított szöveg.
-[^164]: A 8. számú melléklet 5.4. pontjának első francia bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § h) pontja szerint módosított szöveg.
-[^165]: A 8. számú melléklet 6.1.7. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^166]: A szakfordításról és a tolmácsolásról szóló 24/1986. (VI. 26.) MT rendelet.
-[^167]: A 8. számú melléklet 7.2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^168]: A 8. számú melléklet 7.2.2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^169]: A 8. számú melléklet 7.2.3. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^170]: A 8. számú melléklet 7.3.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^171]: Amennyiben a kombinált kategóriához előírt vizsgafeladatokhoz a vizsgateremben a működő modellek rendelkezésre állnak, és a közvetlen közelben a megfelelő üzemképes járműszerelvény is rendelkezésre áll, akkor vizsgáztatási célra ez is elfogadható.
-[^172]: Amennyiben a „D+E” kombinált kategóriához előírt vizsgafeladatokhoz a vizsgateremben a működő modellek rendelkezésre állnak, és a közvetlen közelben a megfelelő üzemképes járműszerelvény is rendelkezésre áll, akkor vizsgáztatási célra ez is elfogadható.
-[^173]: A 8. számú melléklet 7.4.2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^174]: A közúti járművek forgalomba helyezésének és tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
-[^175]: A 8. számú melléklet 7.5.1. pontja a a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
-[^176]: A 8. számú melléklet 7.5.1.1. pontjának utolsó bekezdése a a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
-[^177]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 9. § (1) bekezdés a) pontja.
-[^178]: A 8. számú melléklet 7.5.2.3. pontja a a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
-[^179]: A 8. számú melléklet 7.5.4. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^180]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 5. § (1) bekezdése.
-[^181]: A közúti járművek forgalomba helyezésének és tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
-[^182]: A 8. számú melléklet 7.5.6.1. pontjának a) alpontja a 95/2006. (XII. 27.) GKM rendelet 63. § h) pontja szerint módosított szöveg.
-[^183]: A 8. számú melléklet 7.5.6.1. pontjának c) alpontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^184]: A 8. számú melléklet 7.5.7.3. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^185]: A féket a jármű megmozdításával és megállításával is ellenőrizze!
-[^186]: A 8. számú melléklet 9. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § h) pontja szerint módosított szöveg.
-[^187]: A 9. számú melléklet 8. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § o) pontja szerint módosított szöveg.
-[^188]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 1. számú melléklete.
-[^189]: A 9. számú melléklet 13. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^190]: A 9. számú melléklet 14. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § t) pontja szerint módosított szöveg.
+[^179]: A 8. számú melléklet 1.1. pontja a a 95/2006. (XII. 27.) GKM rendelet 63. § b), i) és o) pontja szerint módosított szöveg.
+[^180]: A 8. számú melléklet 1.2. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e), g), k) és s) pontja szerint módosított szöveg.
+[^181]: A 8. számú melléklet 1.3. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e)–f) és h) pontja szerint módosított szöveg.
+[^182]: A 8. számú melléklet 1.4. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § f) pontja szerint módosított szöveg.
+[^183]: A 8. számú melléklet 2. pontjának címe a 95/2006. (XII. 27.) GKM rendelet 63. § f) pontja szerint módosított szöveg.
+[^184]: A 8. számú melléklet 2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § f) pontja szerint módosított szöveg.
+[^185]: A 8. számú melléklet 3.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) és h) pontja szerint módosított szöveg.
+[^186]: A 8. számú melléklet 3.2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) és h) pontja szerint módosított szöveg.
+[^187]: A 8. számú melléklet 3.2.2. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) és h) pontja szerint módosított szöveg.
+[^188]: A 8. számú melléklet 3.2.3. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) és h) pontja szerint módosított szöveg.
+[^189]: A 8. számú melléklet 3.3. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^190]: A 8. számú melléklet 3.5. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e)–f) és l) pontja szerint módosított szöveg.
+[^191]: A 8. számú melléklet 4. pontjának felvezető szövege a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^192]: A 8. számú melléklet 4.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § h) pontja szerint módosított szöveg.
+[^193]: A 8. melléklet 5.4. pontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^194]: A 8. számú melléklet 6.1.7. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^195]: A szakfordításról és a tolmácsolásról szóló 24/1986. (VI. 26.) MT rendelet.
+[^196]: A 8. számú melléklet 7.2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^197]: A 8. számú melléklet 7.2.2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^198]: A 8. számú melléklet 7.2.3. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^199]: A 8. számú melléklet 7.3.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^200]: Amennyiben a kombinált kategóriához előírt vizsgafeladatokhoz a vizsgateremben a működő modellek rendelkezésre állnak, és a közvetlen közelben a megfelelő üzemképes járműszerelvény is rendelkezésre áll, akkor vizsgáztatási célra ez is elfogadható.
+[^201]: Amennyiben a „D+E” kombinált kategóriához előírt vizsgafeladatokhoz a vizsgateremben a működő modellek rendelkezésre állnak, és a közvetlen közelben a megfelelő üzemképes járműszerelvény is rendelkezésre áll, akkor vizsgáztatási célra ez is elfogadható.
+[^202]: A 8. számú melléklet 7.4.2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^203]: A közúti járművek forgalomba helyezésének és tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
+[^204]: A 8. számú melléklet 7.5.1. pontja a a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
+[^205]: A 8. számú melléklet 7.5.1.1. pontjának utolsó bekezdése a a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
+[^206]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 9. § (1) bekezdés a) pontja.
+[^207]: A 8. számú melléklet 7.5.2.3. pontja a a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
+[^208]: A 8. számú melléklet 7.5.4. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^209]: A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 5. § (1) bekezdése.
+[^210]: A közúti járművek forgalomba helyezésének és tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
+[^211]: A 8. számú melléklet 7.5.6.1. pontjának a) alpontja a 95/2006. (XII. 27.) GKM rendelet 63. § h) pontja szerint módosított szöveg.
+[^212]: A 8. számú melléklet 7.5.6.1. pontjának c) alpontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^213]: A 8. számú melléklet 7.5.7.3. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^214]: A féket a jármű megmozdításával és megállításával is ellenőrizze!
+[^215]: A 8. számú melléklet 9. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § h) pontja szerint módosított szöveg.
+[^216]: A 9. számú melléklet 8. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § o) pontja szerint módosított szöveg.
+[^217]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 1. számú melléklete.
+[^218]: A 9. számú melléklet 13. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^219]: A 9. számú melléklet 14. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § t) pontja szerint módosított szöveg.

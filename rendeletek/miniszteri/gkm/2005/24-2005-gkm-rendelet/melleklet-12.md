@@ -1,8 +1,12 @@
-12. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^192]
+12. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^222]
 
 ## Az alapképesítés megszerzésére vonatkozó előírások
 
-1. Az alapképesítést a vizsgakötelezettség teljesítésével lehet megszerezni, a vizsga letételéhez az előzetes szaktanfolyami részvétel nem kötelező.
+1.[^223] Az alapképesítést
+
+a) a vizsgakötelezettség teljesítésével lehet megszerezni,
+
+[b)[^224] a vizsga letételéhez az előzetes szaktanfolyami részvétel kötelező.]
 
 2. Elméleti vizsgatárgyak és vizsgaidők:
 
@@ -118,11 +122,11 @@ A jármű különböző útviszonyok közötti kezelése, megváltozott légkör
 
 a) vészfékezéssel történő megállás,
 
-b) haladás közbeni megpördülés, sodródás esetén a gépkocsi megtartása az úton,
+b)[^225] vészfékezéssel történő megállás eltérő tapadású felületen,
 
-c) fékezés közbeni megpördülés, sodródás esetén a gépkocsi megtartása az úton,
+c)[^226] kanyartechnika,
 
-d) megpördült gépkocsival megállás akadály előtt,
+d)[^227] szűk folyosón való áthaladás,
 
 e) akadály kikerülése fékezéssel és fékezés nélkül.
 
@@ -134,11 +138,11 @@ A gyakorlati vizsga során vezetett járműnek meg kell felelnie a választott j
 
 6. Vizsgakövetelmények
 
-A vizsgákra történő felkészülésre vonatkozó tananyagok tantervét, elméleti vizsgák vizsgakérdéseit és a gyakorlati vizsgafeladatokat külön jogszabály[^193] alapján az NKH Központi Hivatala határozza meg. A vizsgakövetelmények minimum szintjét – a szakképesítéseknek az Európai Közösség tagállamai közötti összehasonlíthatóságról szóló, 1985. július 16-i 85/368/EGK tanácsi határozat I. mellékletében előírt képzésszint szerkezet 2. szintjének elérése mellett – úgy kell meghatározni, hogy a gépkocsivezetők tudásának és gyakorlati kompetenciájának szintje olyan legyen, hogy a megfelelő vezetői engedély kategóriába tartozó járművet teljesen biztonságosan tudják vezetni.
+A vizsgákra történő felkészülésre vonatkozó tananyagok tantervét, elméleti vizsgák vizsgakérdéseit és a gyakorlati vizsgafeladatokat külön jogszabály[^228] alapján az NKH Központi Hivatala határozza meg. A vizsgakövetelmények minimum szintjét – a szakképesítéseknek az Európai Közösség tagállamai közötti összehasonlíthatóságról szóló, 1985. július 16-i 85/368/EGK tanácsi határozat I. mellékletében előírt képzésszint szerkezet 2. szintjének elérése mellett – úgy kell meghatározni, hogy a gépkocsivezetők tudásának és gyakorlati kompetenciájának szintje olyan legyen, hogy a megfelelő vezetői engedély kategóriába tartozó járművet teljesen biztonságosan tudják vezetni.
 
 7. Felmentések
 
-Az „Előírások alkalmazása” elméleti vizsgatárgyból nem kell vizsgát tennie annak a gépkocsivezetőnek, aki rendelkezik a külön jogszabályokban[^194] meghatározott képesítéssel.
+Az „Előírások alkalmazása” elméleti vizsgatárgyból nem kell vizsgát tennie annak a gépkocsivezetőnek, aki rendelkezik a külön jogszabályokban[^229] meghatározott képesítéssel.
 
 8. Különbözeti vizsgák
 
@@ -152,19 +156,17 @@ az első alapképesítés megszerzése során az elméleti vizsgákon csak azokb
 
 9. A vizsgák szervezésében közreműködő képző szervekre vonatkozó rendelkezések
 
-9.1. Az alapképesítés megszerzéséhez szükséges, az NKH Központi Hivatala által szervezett elméleti és gyakorlati vizsgára történő jelentkezésnek nem feltétele a megelőző szaktanfolyamon történő részvétel. A vizsgák lebonyolításában a képző szerv (oktatási központ) közreműködését – amelynek az alapképesítés megszerzéshez szükséges szaktanfolyami képzés végzéséhez szükséges jóváhagyással (engedéllyel) nem kell rendelkeznie – az NKH Központi Hivatala a képző szerv írásbeli kérelme alapján hagyja jóvá (engedélyezi). A kérelemhez a képző szervnek csatolnia kell az alábbi dokumentumokat:
+9.1.[^230] Az alapképesítés megszerzéséhez szükséges, az NKH Központi Hivatala által szervezett elméleti és gyakorlati vizsgára történő jelentkezésnek feltétele a megelőző szaktanfolyamon történő részvétel. A vizsgát az a továbbképzési engedéllyel rendelkező képző szerv is szervezheti, amely rendelkezik a következő feltételekkel:
 
-a) igazolás az elméleti vizsgák megtartására alkalmas vizsgaterem és a kapcsolódó szociális létesítmények meglétéről,
+a) az elméleti vizsgák megtartására alkalmas vizsgaterem és a kapcsolódó szociális létesítmények,
 
-b) igazolás a vizsgákhoz kapcsolódó vizsgajegyzői tevékenység végzésére alkalmas személy biztosításáról,
+b) a vizsgákhoz kapcsolódó adminisztrációs feladatok ellátására alkalmas személy,
 
-c) igazolás a gyakorlati vizsgák lebonyolítására alkalmas, az 5.4. pontban meghatározott jármű meglétéről,
+c) a gyakorlati vizsgák lebonyolítására alkalmas, az 5.4. pontban meghatározott jármű,
 
-d) igazolás gyakorlati vizsgán közreműködő oktató meglétéről, aki az adott jármű-kategóriában érvényes gépjárművezetői engedéllyel és a 17. §-ban meghatározott a járművezetési gyakorlat oktatására jogosító érvényes szakoktatói képesítéssel rendelkezik,
+d) a gyakorlati vizsgán közreműködő oktató, aki az adott jármű-kategóriában hatályos gépjárművezetői engedéllyel és a 17. §-ban meghatározott, a járművezetési gyakorlat oktatására jogosító hatályos szakoktatói képesítéssel rendelkezik,
 
-e) igazolás az 5.3. pontban meghatározott tanpálya vagy szimulátor berendezés meglétéről,
-
-f) igazolás a vizsgák megtartására vonatkozó, az NKH Központi Hivatala által kialakított szabályzások meglétéről.
+e) az 5.3. pontban meghatározott tanpálya vagy szimulátor berendezés.
 
 9.2. A képző szerv írásbeli kérelem alapján az elméleti és gyakorlati vizsgák lebonyolításában a képző szerv közreműködést az NKH Központi Hivatala írásban jóváhagyás kiadásával akkor engedélyezi, ha a kérelemhez a 9.1. pontban meghatározott valamennyi dokumentumot csatolták.
 
@@ -174,6 +176,12 @@ f) igazolás a vizsgák megtartására vonatkozó, az NKH Központi Hivatala ál
 
 9.5. Az NKH Központi Hivatala jogosult felhatalmazással rendelkező személyeket küldeni, hogy az írásbeli és gyakorlati vizsgán segédkezzenek, valamint jogosult a vizsgák ellenőrzésére ezek megfelelő lebonyolítása tekintetében.
 
-[^192]: A 12. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.
-[^193]: A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 70/2005. (IV. 21.) Korm. rendelet 4. §-a (1) bekezdésének b) pontja.
-[^194]: A belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló 14/2001. (IV. 20.) KöViM rendelet 4. §-a, az autóbusszal végzett belföldi és nemzetközi személyszállítás szakmai feltételeiről és engedélyezési eljárásáról szóló 49/2001. (XII. 22.) KöViM rendelet 4. §-a.
+[^222]: A 12. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.
+[^223]: A 12. számú melléklet 1. pontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^224]: A 12. számú melléklet 1. pont b) alpontja a 85/2009. (XII. 30.) KHEM rendelet 21. § (5) bekezdése alapján 2011. január 1-jén lép hatályba.
+[^225]: A 12. számú melléklet 5.3. pont b) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^226]: A 12. számú melléklet 5.3. pont c) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^227]: A 12. számú melléklet 5.3. pont d) alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^228]: A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 70/2005. (IV. 21.) Korm. rendelet 4. §-a (1) bekezdésének b) pontja.
+[^229]: A belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló 14/2001. (IV. 20.) KöViM rendelet 4. §-a, az autóbusszal végzett belföldi és nemzetközi személyszállítás szakmai feltételeiről és engedélyezési eljárásáról szóló 49/2001. (XII. 22.) KöViM rendelet 4. §-a.
+[^230]: A 12. számú melléklet 9.1. pontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (3) bekezdésével megállapított szöveg.

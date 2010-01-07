@@ -1,4 +1,4 @@
-14. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^199]
+14. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^239]
 
 ## A GÉPJÁRMŰVEZETŐI KÉPESÍTÉSI IGAZOLVÁNY MINTÁJA
 
@@ -128,4 +128,4 @@ db) sárga: Pantone Yellow;
 
 e) az igazolvány vonalkóddal is ellátható, a vonalkód nem tartalmazhat más információt, mint amelyet olvasható formában már rávezettek az igazolványra, vagy amely az igazolvány kiállítási folyamatának szempontjából lényeges.
 
-[^199]: A 14. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.
+[^239]: A 14. számú mellékletet a 38/2007. (III. 28.) GKM rendelet 6. §-a iktatta be.

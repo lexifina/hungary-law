@@ -28,7 +28,7 @@ a „Szerkezeti és üzemeltetési ismeretek”, a „Biztonsági ellenőrzés �
 
 a járművezetési gyakorlat oktatására (beleértve az „Alapoktatás” biztonsági ellenőrzési feladatainak oktatását is) abban a kategóriában, amelyre a szakoktató vezetői engedélye érvényes, továbbá a „Járművezetés elmélete” tantárgy oktatására minden kategóriában.
 
-2.5.[^120] A „Műszaki ismeretek” szakos szakoktatói képesítésnek megfelelő végzettségek
+2.5.[^150] A „Műszaki ismeretek” szakos szakoktatói képesítésnek megfelelő végzettségek
 
 A „Műszaki ismeretek” szakos szakoktatói képesítésnek elfogadhatók az azzal egyenértékű vagy magasabb szintű, az alábbiakban felsorolt végzettségek:
 
@@ -54,7 +54,7 @@ A nem említett szakképesítések elfogadásáról az NKH Központi Hivatala eg
 
 3.1. Tárgyi feltételek a képzéshez
 
-3.1.1.[^121] Ügyfélfogadó helyiség
+3.1.1.[^151] Ügyfélfogadó helyiség
 
 A képző szervnek rendelkeznie kell az ügyfélfogadáshoz – kizárólag a képző szerv (vállalkozás) céljára szolgáló – ügyfélfogadó helyiséggel, amelynek felszereltsége biztosítja az ügyfelek kulturált fogadásának és kiszolgálásának feltételeit. Az ügyfélfogadóban a képző szerv képzési engedélyét és a vállalkozási feltételeit és az írásos tájékoztatót ki kell függeszteni, továbbá a cégtáblán az ügyfélfogadás idejét fel kell tüntetni.
 
@@ -68,13 +68,13 @@ b) fali tablókkal,
 
 c) írásvetítő berendezéssel, vagy diavetítő berendezéssel, vagy videó-lejátszóval és televíziókészülékkel, vagy számítástechnikai felszereléssel – számítógépes projektorral (kivetítő berendezés),
 
-d)[^122] az egyes tantárgyaknak megfelelő – az NKH Központi Hivatala által jóváhagyott – oktatóprogramokkal.
+d)[^152] az egyes tantárgyaknak megfelelő – az NKH Központi Hivatala által jóváhagyott – oktatóprogramokkal.
 
 3.1.3. A „Szerkezeti és üzemeltetési ismeretek” tantárgy oktatásához
 
 Az „A”, „A korl.” és „B” kategóriás, valamint az „A1” alkategóriás képzést olyan tanteremben kell végezni, amely alkalmas a világító- és jelzőberendezések működőképes modelljének bemutatására.
 
-3.1.4.[^123] A „Biztonsági ellenőrzés és üzemeltetés” tantárgy oktatásához
+3.1.4.[^153] A „Biztonsági ellenőrzés és üzemeltetés” tantárgy oktatásához
 
 A „C”, „D”, „T”, „Trolibusz” kategóriás, valamint a „C1”, „D1” alkategóriás, továbbá a „B+E”, „C+E”, „C1+E”, „D+E”, „D1+E” kombinált kategóriás képzés esetén oktatásra kialakított helyiséggel, amelyben el kell helyezni legalább egy darab, az oktatni kívánt kategóriának (alkategóriának, kombinált kategóriának) megfelelő típusú üzemképes járművet, illetőleg tanalvázat, továbbá az NKH Központi Hivatala által meghatározott tantervi feladatok végrehajtásához szükséges szerszámokat és eszközöket.
 
@@ -100,19 +100,19 @@ fc) legyen alkalmas – a gyakorlást egyidejűleg végzők számának figyelemb
 
 fd) kultúrált WC és kézmosási lehetőség,
 
-g) a vezetési gyakorlat oktatásához a képzési engedélyben szereplő kategóriába tartozó, a 4. vagy 5. mellékletben és a külön jogszabályban[^124] meghatározott további feltételeknek megfelelő járművekkel és felszerelésekkel.
+g) a vezetési gyakorlat oktatásához a képzési engedélyben szereplő kategóriába tartozó, a 4. vagy 5. mellékletben és a külön jogszabályban[^154] meghatározott további feltételeknek megfelelő járművekkel és felszerelésekkel.
 
 A járműkezelési és rutinfeladatok oktatásához meghatározott gyakorló pálya szilárd burkolatának, kizárólag a képzés (gyakorlás) céljára elfogadható – a kétkerekű járművek vezetésének oktatását kivéve – minden olyan felület, amely időjárástól függetlenül, a burkolat deformációja nélkül alkalmas a feladatok gyakorlására. A kétkerekű járművek oktatásához aszfalt vagy beton burkolatú pálya szükséges.
 
 A pálya méretének az adott járműkategóriára előírt tantervi és vizsgafeladatok gyakorlására alkalmasnak kell lennie. A kizárólag képzésre használt pálya esetében nem követelmény az összes feladat egyidejű gyakorlási lehetőségének biztosítása. A pálya oktatás közbeni átrendezése megengedett.
 
-3.2.[^125] A tanulók képzése
+3.2.[^155] A tanulók képzése
 
 A tanulókat az NKH Központi Hivatala által kiadott, az egyes járműkategóriákra vonatkozó, hatályos Tanterv és Útmutatók előírásai szerint kell képezni.
 
 Azokban a közoktatási intézményekben (iskolákban), ahol a közúti járművezető-képzés beépült az iskolai tantervbe, a tanulók vizsgára bocsátásának feltétele, hogy az iskolai tantervet az NKH Központi Hivatala jóváhagyja.
 
-3.2.1.[^126] Az egyes járműkategóriákhoz tartozó oktatási idők.
+3.2.1.[^156] Az egyes járműkategóriákhoz tartozó oktatási idők.
 
 Kötelező óraszámok a közúti járművezető-képző tanfolyamokon
 
@@ -208,7 +208,7 @@ Az együtt tartott oktatást a tanulmányi naplóban fel kell tüntetni.
 
 3.5. A gyakorlati oktatás
 
-3.5.1.[^127] Általános előírások
+3.5.1.[^157] Általános előírások
 
 A járművezetési gyakorlat oktatása csak a tanuló nevére kiállított, a regionális igazgatóság által hitelesített vezetési karton birtokában kezdhető meg.
 
@@ -322,7 +322,7 @@ e) az egyes tanórák között 10 perc szünetet kell tartani.
 
 A szakoktatók napi és havi megengedett oktatási órakeretébe a vizsgák időtartama nem számít bele. A vizsgákat azonban a havi óraösszesítő megfelelő rovatában fel kell tüntetni.
 
-4.[^128] Mentesítések
+4.[^158] Mentesítések
 
 Az alább felsorolt képesítéssel rendelkező tanulókat – az „A korl.”, „A” és „B” kategória, továbbá az „A1” alkategória kivételével – a tanfolyam adott tantárgyának foglalkozásain a részvétel alól az iskolavezető mentesíti. A vizsgakötelezettség alóli mentesítés kezdeményezése, a felmentés alapjául szolgáló – az iskolavezető által hitelesített – okirat fénymásolatának a jelentkezési laphoz való csatolásával történik. Ugyanígy kell eljárni az elsősegély-nyújtási ismeretek megszerzését tanúsító okirat és a korábban szerzett vezetői engedély (járművezetői engedély, járművezetői igazolvány) esetében is.
 
@@ -430,7 +430,7 @@ A „Biztonsági ellenőrzés és üzemeltetés” vizsgakötelezettség alól m
 
 4.1.4. Egyéb mentesítések
 
-4.1.4.1.[^129] Tanfolyammentes vizsga letételét kérheti
+4.1.4.1.[^159] Tanfolyammentes vizsga letételét kérheti
 
 aki a Magyar Honvédségnél (Magyar Néphadseregnél) az 1/1984. (Közl. Ért. 1.) KM–HM együttes utasítás vagy a fegyveres erők részére történő közúti járművezető képzésről, vizsgáztatásról és az ehhez kapcsolódó vezetői engedély kiadásáról szóló 22/1992. (XI. 25.) KHVM–HM–BM együttes rendeletben meghatározott – csak katonai járművek vezetésére jogosító – „C” vagy „E” kategóriás vezetői engedéllyel rendelkezik. A tanfolyammentes vizsga letételére csak abból a kategóriából jogosult a vizsgázó, amelyből érvényes katonai vezetői engedélye van. Az 1993. január 1-je után kiadott „E” kategóriás katonai vezetői engedély a kiállításától számított 3 évig jogosít a tanfolyammentes vizsga letételére.
 
@@ -438,7 +438,7 @@ A mentesítést a regionális igazgatóság a jelentkezési lapra tett bejegyzé
 
 4.1.4.2. Az elsősegély-nyújtási ismeretek megszerzését tanúsító Igazolás bemutatása alóli mentesítések
 
-A vizsgaigazolás kiadásához az elsősegélynyújtásból előírt ismeretek megszerzését tanúsító – a Magyar Vöröskereszt által kiállított – igazolás (a továbbiakban: Vöröskeresztes igazolás) megszerzésének kötelezettsége alól mentesülnek a külön jogszabály[^130] alapján:
+A vizsgaigazolás kiadásához az elsősegélynyújtásból előírt ismeretek megszerzését tanúsító – a Magyar Vöröskereszt által kiállított – igazolás (a továbbiakban: Vöröskeresztes igazolás) megszerzésének kötelezettsége alól mentesülnek a külön jogszabály[^160] alapján:
 
 – az orvostudományi egyetemen szerzett orvosi, fogorvosi, gyógyszerészi,
 
@@ -478,14 +478,14 @@ szerzett.
 
 További mentesítés a Vöröskeresztes igazolás megszerzése alól nem adható.
 
-[^120]: A 3. számú melléklet 2.5. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
-[^121]: A 3. melléklet 3.1.1. pontja e rendelet 39. §-ának (3) bekezdése alapján 2006. január 1. napján lép hatályba.
-[^122]: A 3. számú melléklet 3.1.2. pontjának d) alpontja a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
-[^123]: A 3. számú melléklet 3.1.4. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
-[^124]: A közúti járművek forgalomba helyezésének és forgalomban tartásának feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
-[^125]: A 3. számú melléklet 3.2. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
-[^126]: A 3. számú melléklet 3.2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § h) pontja szerint módosított szöveg.
-[^127]: A 3. számú melléklet 3.5.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^128]: A 3. számú melléklet 4. pontjának felvezető szövege a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^129]: A 3. számú melléklet 4.1.4.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
-[^130]: A közúti járművezetők elsősegély-nyújtási ismeretei megszerzésének igazolásáról szóló 31/1992. (XII. 19.) NM rendelet.
+[^150]: A 3. számú melléklet 2.5. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
+[^151]: A 3. melléklet 3.1.1. pontja e rendelet 39. §-ának (3) bekezdése alapján 2006. január 1. napján lép hatályba.
+[^152]: A 3. számú melléklet 3.1.2. pontjának d) alpontja a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
+[^153]: A 3. számú melléklet 3.1.4. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
+[^154]: A közúti járművek forgalomba helyezésének és forgalomban tartásának feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet.
+[^155]: A 3. számú melléklet 3.2. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
+[^156]: A 3. számú melléklet 3.2.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § h) pontja szerint módosított szöveg.
+[^157]: A 3. számú melléklet 3.5.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^158]: A 3. számú melléklet 4. pontjának felvezető szövege a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^159]: A 3. számú melléklet 4.1.4.1. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § e) pontja szerint módosított szöveg.
+[^160]: A közúti járművezetők elsősegély-nyújtási ismeretei megszerzésének igazolásáról szóló 31/1992. (XII. 19.) NM rendelet.

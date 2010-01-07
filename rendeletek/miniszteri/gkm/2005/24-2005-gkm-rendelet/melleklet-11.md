@@ -46,7 +46,7 @@ d) Gazdasági, munkajogi, vállalkozói ismeretek,
 
 e) Menedzseri ismeretek (tisztességes piaci magatartási ismeretek).
 
-3. A vizsgabiztosi képesítéshez:[^191]
+3. A vizsgabiztosi képesítéshez:[^221]
 
 a) Pedagógiai, andragógiai ismeretek,
 
@@ -86,4 +86,4 @@ r) A jármű vezetésének gyakorlata,
 
 s) Önismereti, kommunikációs és konfliktuskezelési tréning.
 
-[^191]: Az egyes ismeretek megszerzése szakképesítés meglétét tanúsító okmány bemutatásával igazolható.
+[^221]: Az egyes ismeretek megszerzése szakképesítés meglétét tanúsító okmány bemutatásával igazolható.

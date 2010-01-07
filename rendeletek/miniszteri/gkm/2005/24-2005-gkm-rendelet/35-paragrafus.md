@@ -1,6 +1,6 @@
-35. § (1)[^108] A szakfelügyelő a megbízása szerint a képző szervnél és a regionális igazgatóságnál előre bejelentett és soron kívüli szakfelügyeletet végez.
+35. § (1)[^136] A szakfelügyelő a megbízása szerint a képző szervnél és a regionális igazgatóságnál előre bejelentett és soron kívüli szakfelügyeletet végez.
 
-(2)[^109] A szakfelügyelő tapasztalatairól az érintett szakoktatót, a vizsgabiztost, az iskolavezetőt, szaktanfolyami képzésért felelős személyt, valamint az illetékes regionális igazgatóság igazgatóját tájékoztatja.
+(2)[^137] A szakfelügyelő tapasztalatairól az érintett szakoktatót, a vizsgabiztost, az iskolavezetőt, szaktanfolyami képzésért felelős személyt, valamint az illetékes regionális igazgatóság igazgatóját tájékoztatja.
 
 (3) A szakfelügyelő megállapításától függően javaslatot tehet
 
@@ -18,5 +18,5 @@ a) ha életet vagy testi épséget közvetlenül fenyegető balesetveszély áll
 
 b) ha a feltételek hiánya miatt a vizsgázó teljesítménye objektív módon nem értékelhető.
 
-[^108]: A 35. § (1) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § g) pontja szerint módosított szöveg.
-[^109]: A 35. § (2) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § q) pontja szerint módosított szöveg.
+[^136]: A 35. § (1) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § g) pontja szerint módosított szöveg.
+[^137]: A 35. § (2) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § q) pontja szerint módosított szöveg.

@@ -38,15 +38,15 @@ A képző szerv a tanuló részére írásos tájékoztatót állít össze, ame
 
 17. a képző szervnél folyó szakoktató képzés tényét és ennek a képzésre gyakorolt hatását,
 
-18.[^118] a képzés felügyeletét ellátó regionális igazgatóság megnevezését, címét és telefonszámát,
+18.[^148] a képzés felügyeletét ellátó regionális igazgatóság megnevezését, címét és telefonszámát,
 
 19. a vizsgázó jogait és kötelezettségeit,
 
 20. a vizsgadíjakat és azok megfizetésének módját,
 
-21. a vezetői engedély kiadásával kapcsolatos, a külön jogszabályban[^119] meghatározott fontosabb előírásokat. Nem magyar állampolgárokat érintően különös tekintettel kell lenni a tartózkodási engedélyre vonatkozó előírásokra.
+21. a vezetői engedély kiadásával kapcsolatos, a külön jogszabályban[^149] meghatározott fontosabb előírásokat. Nem magyar állampolgárokat érintően különös tekintettel kell lenni a tartózkodási engedélyre vonatkozó előírásokra.
 
 Az írásos tájékoztatót a képző szerv készíti el és végzi a szükséges módosításokat. Az írásos tájékoztató egy példányát a képző szerv a tanfolyamra történő jelentkezéssel egyidejűleg a jelentkezőnek átadja, és a tanfolyamra jelentkezők kellő tájékoztatása érdekében az ügyfélfogadásra szolgáló helyiségben jól látható helyen ki is függeszti.
 
-[^118]: A 2. számú melléklet 18. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § o) pontja szerint módosított szöveg.
-[^119]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 20–26. §-a.
+[^148]: A 2. számú melléklet 18. pontja a 95/2006. (XII. 27.) GKM rendelet 63. § o) pontja szerint módosított szöveg.
+[^149]: A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 20–26. §-a.

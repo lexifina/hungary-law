@@ -1,6 +1,21 @@
-27. § (1)[^71] A vizsgabiztosnak az NKH Központi Hivatala által szervezett szakirányú továbbképzésen részt kell vennie.
+27. §[^98] (1) Az NKH Központi Hivatala kérelemre a vizsgabiztosi tevékenységet engedélyezi és a vizsgabiztosi névjegyzékbe veszi fel azt,
 
-(2)[^72] A továbbképzés követelményeinek teljesítéséről az NKH Központi Hivatala igazolást ad.
+a) aki a rendeletben meghatározott vizsgabiztosi képesítéssel rendelkezik,
 
-[^71]: A 27. § (1) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
-[^72]: A 27. § (2) bekezdése a 95/2006. (XII. 27.) GKM rendelet 63. § b) pontja szerint módosított szöveg.
+b) aki az engedélyezési eljárás díját befizette,
+
+c) aki nem áll a vizsgabiztosi névjegyzékből való törlés hatálya alatt,
+
+d) aki érvényes vezetői engedéllyel rendelkezik és egyetlen jármű-kategóriára vonatkozóan sem áll járművezetéstől eltiltás hatálya alatt,
+
+e) akire nem vonatkozik olyan rendelkezés, amely szerint vezetői engedélyét csak utánképzés elvégzését követően kaphatja vissza, illetve tarthatja meg,
+
+f) akit a közlekedési hatóság a vizsgáztatási tevékenység végzésére vonatkozó előírások súlyos megszegése miatt jogerős határozatban az engedélyezési kérelem benyújtását megelőző 2 éven belül nem marasztalt el.
+
+(2) A nyilvántartásba vett vizsgabiztos részére a közlekedési hatóság vizsgabiztosi igazolványt ad ki.
+
+(3) A vizsgabiztosnak évente az NKH Központi Hivatala által szervezett szakirányú továbbképzésen részt kell vennie.
+
+(4) A továbbképzés követelményeinek teljesítéséről az NKH Központi Hivatala igazolást ad.
+
+[^98]: A 27. § a 85/2009. (XII. 30.) KHEM rendelet 15. §-ával megállapított szöveg.

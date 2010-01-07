@@ -1,6 +1,6 @@
-## A „Gépjárművezetői képesítési igazolvány” kiadása, nyilvántartása[^101]
+## A „Gépjárművezetői képesítési igazolvány” kiadása, nyilvántartása[^129]
 
-33/F. §[^102] (1) A „Gépjárművezetői képesítési igazolvány” – a gépkocsivezető választása szerint – személyesen vehető át az NKH Központi Hivatala hivatalos helyiségében, illetőleg postai úton külön hivatalos iratként továbbítható.
+33/F. §[^130] (1) A „Gépjárművezetői képesítési igazolvány” – a gépkocsivezető választása szerint – személyesen vehető át az NKH Központi Hivatala hivatalos helyiségében, illetőleg postai úton külön hivatalos iratként továbbítható.
 
 (2) Az NKH Központi Hivatala az általa kiadott és bevont „Gépjárművezetői képesítési igazolvány”-okról nyilvántartást vezet.
 
@@ -16,5 +16,5 @@ b) megrongálódás vagy elhasználódás miatt bármely bejegyzett adat nem olv
 
 (6) Ha a „Gépjárművezetői képesítési igazolvány”-ba bejegyzett érvényességi időpont lejárt, a rendeletben meghatározott feltételek teljesítése esetében új „Gépjárművezetői képesítési igazolvány” kiadására kerül sor, egyidejűleg az NKH Központi Hivatala a lejárt érvényességű „Gépjárművezetői képesítési igazolvány”-t bevonja.
 
-[^101]: A 33/F. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
-[^102]: A 33/F. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^129]: A 33/F. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^130]: A 33/F. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.

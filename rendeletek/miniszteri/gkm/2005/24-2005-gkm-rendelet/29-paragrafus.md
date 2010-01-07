@@ -1,14 +1,13 @@
 ## Az iskolavezetők
 
-29. § (1) Közúti járművezető-képzés a teljes körű képzési szolgáltatási tevékenység keretében csak az iskolavezetői névjegyzékbe felvett iskolavezető irányításával folytatható.
+29. §[^99] (1) Közúti járművezető képzés csak az iskolavezetői névjegyzékbe felvett iskolavezető irányításával folytatható.
 
-(2)[^73] A regionális igazgatóság iskolavezetői névjegyzékbe veszi fel azt az iskolavezetői végzettséggel rendelkező jelentkezőt, aki
+(2) A regionális igazgatóság iskolavezetői tevékenységét engedélyezi és ez alapján névjegyzékbe veszi fel azt az iskolavezetői végzettséggel rendelkezőt, aki
 
-a) büntetlen előéletű,
+a) érvényes vezetői engedéllyel rendelkezik,
 
-b) érvényes vezetői engedéllyel rendelkezik,
+b) a közúti járművezetői vizsga és az egyes közúti közlekedési szakképesítésekkel összefüggő vizsgák díjairól szóló miniszteri rendeletben megállapított eljárási díjat befizette.
 
-c) a külön jogszabályban[^74] megállapított névjegyzékbe vételi díjat befizette.
+(3) A névjegyzékbe vett iskolavezető részére a regionális igazgatóság iskolavezetői igazolványt ad ki.
 
-[^73]: A 29. § (2) bekezdésének felvezető szövege a 95/2006. (XII. 27.) GKM rendelet 63. § f) pontja szerint módosított szöveg.
-[^74]: A közúti járművezetői vizsga és az egyes közúti közlekedési szakképesítésekkel összefüggő vizsgák díjairól szóló 34/1998. (XII. 23.) KHVM rendelet 2. számú melléklete.
+[^99]: A 29. § a 85/2009. (XII. 30.) KHEM rendelet 16. §-ával megállapított szöveg.
