@@ -28,7 +28,7 @@ l) számítástechnikai rendszer útján rögzített adatok megőrzésére köte
 
 m)[^19] a nyomozás befejezése és az iratok ismertetése után a gyanúsított, illetőleg a védő indítványával kapcsolatos határozat meghozatala [Be. 193. § (3) bekezdés], továbbá az iratoknak a katonai ügyészhez – vádemelési vagy parancsnoki fegyelmi hatáskörben történő elbírálási javaslattal – való megküldése [Be. 193. § (5) bekezdés, Be. 485/A. § (2) bekezdés];
 
-n)[^20] a panasz elbírálása, illetve annak elbírálás végett történő felterjesztése [Be. 195. § (4) bekezdés], valamint az ellenvetés elbírálása (Be. 196. §);
+n)[^20] a panasz elbírálása, illetve annak elbírálás végett történő felterjesztése [Be. 195. § (4) bekezdés];
 
 o) a határozat végrehajtásának felfüggesztése [Be. 195. § (3) bekezdés].
 
@@ -65,7 +65,7 @@ l) ideiglenes kényszergyógykezelés elrendelésének indítványozására [Be.
 [^17]: A 11. § (1) bekezdésének i) pontja a 4/2006. (VII. 19.) MeHVM–IRM együttes rendelet 4. § (4) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^18]: A 11. § (1) bekezdésének j) pontja a 4/2006. (VII. 19.) MeHVM–IRM együttes rendelet 4. § (4) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^19]: A 11. § (1) bekezdésének m) pontja a 4/2006. (VII. 19.) MeHVM–IRM együttes rendelet 4. § (5) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^20]: A 11. § (1) bekezdésének n) pontja a 4/2006. (VII. 19.) MeHVM–IRM együttes rendelet 4. § (5) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^20]: A 11. § (1) bekezdésének n) pontja a 2/2009. (XII. 30.) PTNM–IRM együttes rendelet 2. §-ával megállapított szöveg.
 [^21]: A 11. § (2) bekezdésének d) pontja a 4/2006. (VII. 19.) MeHVM–IRM együttes rendelet 5. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^22]: A 11. § (2) bekezdésének e) pontja a 4/2006. (VII. 19.) MeHVM–IRM együttes rendelet 5. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^23]: A 11. § (2) bekezdésének f) pontja a 4/2006. (VII. 19.) MeHVM–IRM együttes rendelet 5. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
