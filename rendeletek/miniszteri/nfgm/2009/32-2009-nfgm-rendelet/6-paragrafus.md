@@ -1,10 +1,6 @@
 6. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(2) Hatályát veszti
-
-a) a mérnöki és építész kamarák, valamint az építésfelügyeleti szervek által lefolytatott egyes eljárások igazgatási szolgáltatási díjáról szóló 46/2000. (VII. 21.) FVM rendelet, valamint
-
-b) az építésügyi célelőirányzatról szóló 10/2009. (IV. 14.) NFGM rendelet 16. § (5) és (6) bekezdése.
+(2)[^1]
 
 (3) A (2) bekezdés az e rendelet hatálybalépését követő napon hatályát veszti. E bekezdés az e rendelet hatálybalépését követő második napon hatályát veszti.
 
@@ -97,3 +93,5 @@ s) Zala Megyei Mérnöki Kamara: 12092309-00223530-00100008
 2. A másodfokú eljárás díját a Magyar Mérnöki Kamara 10102086-68905702-00000007 számú számlájára kell befizetni.
 
 III. Az építőipari kivitelezési tevékenység bejelentése igazgatási szolgáltatási díját a Magyar Kereskedelmi és Iparkamara 10300002-20373432-71933285 számú számlájára kell befizetni.
+
+[^1]: a 6. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.

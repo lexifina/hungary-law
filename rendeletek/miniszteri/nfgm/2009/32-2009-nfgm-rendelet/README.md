@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-32-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-06 | 2009-32-20-2K.1 | 32/2009. (XII. 29.) NFGM rendelet |
+| 2010-01-07 | 2009-32-20-2K.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
