@@ -1,0 +1,1 @@
+1. § (1) A fegyveres biztonsági őrség Működési és Szolgálati Szabályzatának kiadásáról szóló 27/1998. (VI. 10.) BM rendelet (a továbbiakban: R.) Mellékletének 4. § (2) bekezdése helyébe a következő rendelkezés lép:
