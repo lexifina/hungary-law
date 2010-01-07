@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-183-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-02 | 2009-183-20-82.1 | 183/2009. (XII. 30.) FVM rendelet |
+| 2010-01-07 | 2009-183-20-82.2 | 137/2023. (XII. 20.) AM rendelet |

@@ -1,1 +1,3 @@
-## „(1) Központi törzsültetvény létesítésére szűrő faiskolában előállított, az MgSzH által fémzárolt és mentesnek minősített, hatóságilag ellenőrzött, illetve a károsítóktól mentes, minőségi származási igazolvánnyal ellátott ültetési anyag használható fel. Külföldről behozott gyümölcs szaporítóanyag csak a vírustesztelések után használható fel, kivéve, ha a behozott anyag vírusmentességét az MgSzH a bemutatott bizonylatok alapján igazolja.”
+6. §[^7]
+
+[^7]: A rendelet a 8. § (1) bekezdése alapján – a 8. § (3) bekezdése kivételével – hatályát vesztette 2010. január 7. napján.
