@@ -1,4 +1,4 @@
-32/C. §[^45] (1) A Kormány – a minősítési eljárás és a bírság kiszabásának kivételével – a felügyelőség veszélyes hulladékkal kapcsolatos engedélyezési eljárásában,
+32/C. §[^46] (1) A Kormány – a minősítési eljárás és a bírság kiszabásának kivételével – a felügyelőség veszélyes hulladékkal kapcsolatos engedélyezési eljárásában,
 
 a) – az egészségkárosító kockázatok és esetleges hatások felmérése, a gyorsan bomló szerves és szervetlen anyagokat tartalmazó veszélyes hulladék gyűjtése módjának és mennyiségének jóváhagyása, tárolása, közegészségügyi feltételeinek érvényesítése kérdésében – első fokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat regionális intézetét, másodfokú eljárásban az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatalát,
 
@@ -28,4 +28,4 @@ b) a tüzelőberendezésben nagyobb légszennyezőanyag-kibocsátást okozó tü
 
 c) a villamos energiáról szóló törvény hatálya alá tartozó erőművek és a tüzelőberendezések éves összes légszennyező anyag kibocsátása mennyiségének meghatározására, az engedélyezett mennyiség megváltoztatására vonatkozó eljárásban
 
-[^45]: A 32/C. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^46]: A 32/C. §-t a 362/2008. (XII. 31.) Korm. rendelet 17. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

@@ -6,9 +6,9 @@ b)[^16] 9. § (1) bekezdésében foglalt környezetvédelmi hatóságnak az orsz
 
 (2)[^17] Az OKTVF jár el a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény (a továbbiakban: Hgt.) 8. § (4) bekezdésében, 11. § (2) és (3) bekezdésében, a 17. § (1) bekezdés d) pontjában, 17. § (2) bekezdésében, 32. § (7) bekezdésében foglalt környezetvédelmi hatóságként.
 
-(3) Az OKTVF jár el az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvényben foglalt környezetvédelmi hatóságként.
+(3)[^18] Az OKTVF jár el az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvényben foglalt környezetvédelmi hatóságként, ideértve a légijármű-üzemeltető által benyújtott figyelemmel kísérési terv jóváhagyását.
 
-(4)[^18] Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény
+(4)[^19] Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény
 
 a) 4. §-a szerinti környezetvédelmi hatóságként az OMSZ,
 
@@ -20,4 +20,5 @@ jár el.
 
 [^16]: A 9. § (1) bekezdés b) pontja a 344/2009. (XII. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^17]: A 9. § (2) bekezdése a 344/2009. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^18]: A 9. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 517. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 9. § (3) bekezdése a 345/2009. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^19]: A 9. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 517. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

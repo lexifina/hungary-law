@@ -1,7 +1,7 @@
-## 23. §[^32] A VTT tv. 4. §-ában foglalt vízügyi igazgatási szervként
+## 23. §[^33] A VTT tv. 4. §-ában foglalt vízügyi igazgatási szervként
 
 a) árvízi tározók és a nagyvízi mederben történő beavatkozások tekintetében a VKKI,
 
 b) egyéb esetekben az igazgatóság
 
-[^32]: A 23. § a 344/2009. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^33]: A 23. § a 344/2009. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
