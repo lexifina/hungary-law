@@ -1,6 +1,6 @@
-## 22. §[^9]
+## 22. §[^10]
 
-23. § (1)[^10] A 9. § (2) bekezdés b) pontja alapján regionális beruházási támogatás a Szerződés 87. és 88. cikkének a nemzeti regionális beruházási támogatásokra való alkalmazásáról szóló, 2006. október 24-i 1628/2006/EK bizottsági rendelet (HL L 302., 2006. november 1., 29. o.) hatálya alá tartozó támogatásnak minősül.
+23. § (1)[^11] A 9. § (2) bekezdés b) pontja alapján regionális beruházási támogatás a Szerződés 87. és 88. cikkének a nemzeti regionális beruházási támogatásokra való alkalmazásáról szóló, 2006. október 24-i 1628/2006/EK bizottsági rendelet (HL L 302., 2006. november 1., 29. o.) hatálya alá tartozó támogatásnak minősül.
 
 (2) E rendelet alapján beruházási támogatás csak akkor ítélhető meg, ha a kedvezményezett még a beruházás megkezdése előtt a támogatás iránti kérelmét benyújtja, és a minisztérium írásban megerősíti, hogy a – további részletes vizsgálat tárgyát képező – projekt megfelel az e rendeletben meghatározott jogosultsági feltételeknek.
 
@@ -62,5 +62,5 @@ je) a társaság fizetésképtelenné vált vagy külön jogszabály szerinti fi
 
 (10) A regionális beruházási támogatás támogatási intenzitása nem haladhatja meg a 2. mellékletben meghatározott mértéket.
 
-[^9]: A 22. §-t a 14/2009. (VIII. 19.) KvVM rendelet 7. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 7. § (5) bekezdése alapján a 2009. augusztus 27. napját megelőzően benyújtott pályázatokra, valamint az odaítélt támogatásokra a 4/2008. (II. 14.) KvVM rendeletnek a pályázat benyújtásakor hatályos rendelkezéseit kell alkalmazni.
-[^10]: A 23. § (1) bekezdése a 14/2009. (VIII. 19.) KvVM rendelet 7. § (4) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 7. § (5) bekezdése alapján a 2009. augusztus 27. napját megelőzően benyújtott pályázatokra, valamint az odaítélt támogatásokra a 4/2008. (II. 14.) KvVM rendeletnek a pályázat benyújtásakor hatályos rendelkezéseit kell alkalmazni.
+[^10]: A 22. §-t a 14/2009. (VIII. 19.) KvVM rendelet 7. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 7. § (5) bekezdése alapján a 2009. augusztus 27. napját megelőzően benyújtott pályázatokra, valamint az odaítélt támogatásokra a 4/2008. (II. 14.) KvVM rendeletnek a pályázat benyújtásakor hatályos rendelkezéseit kell alkalmazni.
+[^11]: A 23. § (1) bekezdése a 14/2009. (VIII. 19.) KvVM rendelet 7. § (4) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 7. § (5) bekezdése alapján a 2009. augusztus 27. napját megelőzően benyújtott pályázatokra, valamint az odaítélt támogatásokra a 4/2008. (II. 14.) KvVM rendeletnek a pályázat benyújtásakor hatályos rendelkezéseit kell alkalmazni.

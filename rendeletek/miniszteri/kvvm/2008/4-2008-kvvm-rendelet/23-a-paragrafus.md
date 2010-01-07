@@ -1,6 +1,6 @@
-## Környezetvédelmi támogatás[^11]
+## Környezetvédelmi támogatás[^12]
 
-23/A. §[^12] (1) A 9. § (2) bekezdés c) pontja alapján nyújtott környezetvédelmi támogatás a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet (a továbbiakban: 800/2008/EK rendelet) hatálya alá tartozó támogatásnak minősül.
+23/A. §[^13] (1) A 9. § (2) bekezdés c) pontja alapján nyújtott környezetvédelmi támogatás a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet (a továbbiakban: 800/2008/EK rendelet) hatálya alá tartozó támogatásnak minősül.
 
 (2) Az (1) bekezdés alapján az alábbi támogatások nyújthatók:
 
@@ -42,5 +42,5 @@ e) regionális beruházási támogatás esetében a projekt a támogatás hiány
 
 (9) A kedvezményezetteknek és a támogatást nyújtó szervnek a támogatás igénylését, felhasználását, ellenőrzését alátámasztó bizonylatokat, dokumentumokat és nyilvántartásokat, valamint minden olyan nyilvántartást, amely az elszámolható költségeket és a megengedhető maximális támogatási intenzitás betartására vonatkozó információkat tartalmazza, a támogatás odaítélésétől számított 10 évig meg kell őrizniük.
 
-[^11]: A 23/A. §-t megelőző alcímet a 14/2009. (VIII. 19.) KvVM rendelet 6. §-a iktatta be.
-[^12]: A 23/A. §-t a 14/2009. (VIII. 19.) KvVM rendelet 6. §-a iktatta be. E módosító rendelet 7. § (5) bekezdése alapján a 2009. augusztus 27. napját megelőzően benyújtott pályázatokra, valamint az odaítélt támogatásokra a 4/2008. (II. 14.) KvVM rendeletnek a pályázat benyújtásakor hatályos rendelkezéseit kell alkalmazni.
+[^12]: A 23/A. §-t megelőző alcímet a 14/2009. (VIII. 19.) KvVM rendelet 6. §-a iktatta be.
+[^13]: A 23/A. §-t a 14/2009. (VIII. 19.) KvVM rendelet 6. §-a iktatta be. E módosító rendelet 7. § (5) bekezdése alapján a 2009. augusztus 27. napját megelőzően benyújtott pályázatokra, valamint az odaítélt támogatásokra a 4/2008. (II. 14.) KvVM rendeletnek a pályázat benyújtásakor hatályos rendelkezéseit kell alkalmazni.

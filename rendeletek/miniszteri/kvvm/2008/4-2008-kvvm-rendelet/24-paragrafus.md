@@ -14,6 +14,6 @@ c) a Kövi működési problémáinak feltárását és a tapasztalatok alapján
 
 (4) A támogatás nem rendeltetésszerű, a szerződéssel ellentétes, illetve attól eltérő felhasználását az ellenőrző szerv jegyzőkönyvben rögzíti, és haladéktalanul javaslatot tesz a szükséges intézkedések megtételére. A kedvezményezett a jegyzőkönyvet aláírásával látja el, illetve az aláírás megtagadásának tényét az ellenőrző szerv a jegyzőkönyvben rögzíti.
 
-(5)[^13] A Minisztérium a fejlesztési támogatások felhasználását teljes körű eredményességi, hatékonysági és célszerűségi elemzéssel zárja.
+(5)[^14] A Minisztérium a fejlesztési támogatások felhasználását teljes körű eredményességi, hatékonysági és célszerűségi elemzéssel zárja.
 
-[^13]: A 24. § (5) bekezdése a 14/2009. (VIII. 19.) KvVM rendelet 7. § (4) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 7. § (5) bekezdése alapján a 2009. augusztus 27. napját megelőzően benyújtott pályázatokra, valamint az odaítélt támogatásokra a 4/2008. (II. 14.) KvVM rendeletnek a pályázat benyújtásakor hatályos rendelkezéseit kell alkalmazni.
+[^14]: A 24. § (5) bekezdése a 14/2009. (VIII. 19.) KvVM rendelet 7. § (4) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 7. § (5) bekezdése alapján a 2009. augusztus 27. napját megelőzően benyújtott pályázatokra, valamint az odaítélt támogatásokra a 4/2008. (II. 14.) KvVM rendeletnek a pályázat benyújtásakor hatályos rendelkezéseit kell alkalmazni.

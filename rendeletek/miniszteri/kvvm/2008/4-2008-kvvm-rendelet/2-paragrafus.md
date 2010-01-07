@@ -1,5 +1,3 @@
-## előirányzatokra (a továbbiakban együtt: Kövi) terjed ki.
-
 ## 2. § E rendelet hatálya a Kövi felhasználása körében
 
 a) az igényelhető támogatás, illetve a pályázatkezelés szabályaira, a pályázatokat elbíráló bizottság összetételére, a döntéshozatallal kapcsolatos egyes szabályokra,
