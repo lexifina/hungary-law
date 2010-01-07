@@ -112,7 +112,7 @@
 
 | év, hó, nap | óra | perc |
 
-## 13. számú függelék[^11]
+## 13. számú függelék[^67]
 
 ## IGAZSÁGÜGYI ÉS RENDÉSZETI MINISZTÉRIUM
 
@@ -586,7 +586,7 @@ Függelék: statisztika
 
 aláírás
 
-17. számú függelék[^12]
+17. számú függelék[^68]
 
 A FEGYVERES BIZTONSÁGI ŐR SZOLGÁLATI IGAZOLVÁNYA
 
@@ -642,85 +642,7 @@ Sorszám
 
 VISSZAVONÁSIG ÉRVÉNYES!
 
-17/a) függelék[^13]
-
-Készült: 2 példányban
-
-............. számú példány
-
-.............
-
-rendőrhatóság
-
-Szám:
-
-Szolgálati igazolvány és szolgálati jelvény igénylő lap Fegyveres Biztonsági Őrség tagja részére
-
-BM Személyügyi Főosztály
-
-Budapest
-
-Igazoljuk, hogy a rendőrhatóság (vagy honvédség, Nemzetbiztonsági Hivatal kijelölt szerve) előtt az adatlapon szereplő személy az FBŐ szolgálathoz szükséges, a jogszabályban előírt vizsgákat sikeresen letette.
-
-Kérem, hogy részére FBŐ szolgálati igazolvány és jelvény kiadása érdekében intézkedni szíveskedjenek.
-
-1. A munkáltató megnevezése: ................
-
-2. A fegyveres biztonsági őr személyes adatai:
-
-[Tájékoztatás: a kérelem benyújtása egyúttal a szükséges személyes adatok kezeléséhez való hozzájárulás megadását is jelenti (1992. évi LXII. tv. 3. § (5) bek.)].
-
-........................
-
-a biztonsági őrség tagja
-
-Neve: .......................................
-
-Születési helye: .......... ideje: ........ év ............ hó ...... nap
-
-Édesanyja leánykori neve: ...................
-
-Állandó lakcíme: ............................
-
-3. A beosztás pontos megnevezése:*
-
-|_| őrségparancsnok |_| őrségparancsnok-helyettes
-
-|_| őrparancsnok |_| őr, járőr
-
-|_| biztonságtechnikai előadó
-
-4. Az igénylés alapja:*
-
-|_| első igazolvány
-
-|_| szöveges adatváltozás esetén a régi igazolvány sorszáma:
-
-60.- .........................
-
-|_| pótlás (elvesztés, megrongálódás stb.) esetén a régi igazolvány sorszáma:
-
-60.- .........................
-
-Kelt: ............, ..............
-
-Cégszerű aláírás pecséttel ellátva
-
-a munkáltató részéről:
-
-......................
-
-P. H.
-
-a felügyeletet ellátó hatóság részéről:
-
-.......................................
-
-P. H.
-
-_______
-
-* A megfelelő négyzetben X-szel kérjük jelezni a kiválasztást.
+17/a) függelék[^69]
 
 18. számú függelék
 
@@ -734,6 +656,6 @@ A pajzs alján aranyszínű téglalap, mely szalagmintában folytatódik. A 22 X
 
 A szolgálati azonosító jelvény fekete bőralátéten rögzített, mely gombolásos kivitelű. A bőralátét 2 mm-rel szélesebb a fémjelvénynél, felül a gombolás céljára lyukasztott és hasított.
 
-[^11]: A melléklet 13. számú függeléke a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
-[^12]: A melléklet 17. számú függeléke a 31/1998. (VII. 10.) BM rendelet 2. §-ával, valamint 1. számú függelékével megállapított szöveg.
-[^13]: A 17/a) függeléket a 31/1998. (VII. 10.) BM rendelet 2. §-a iktatta be, szövege a 2/2001. (I. 19.) BM rendelet 3. §-ával megállapított, a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
+[^67]: A melléklet 13. számú függeléke a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
+[^68]: A melléklet 17. számú függeléke a 31/1998. (VII. 10.) BM rendelet 2. §-ával, valamint 1. számú függelékével megállapított szöveg.
+[^69]: A 17/a) függeléket a 31/1998. (VII. 10.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése.
