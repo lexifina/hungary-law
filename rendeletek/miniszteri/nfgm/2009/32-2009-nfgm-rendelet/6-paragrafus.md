@@ -2,7 +2,7 @@
 
 (2)[^1]
 
-(3) A (2) bekezdés az e rendelet hatálybalépését követő napon hatályát veszti. E bekezdés az e rendelet hatálybalépését követő második napon hatályát veszti.
+(3)[^2]
 
 Melléklet a 32/2009. (XII. 29.) NFGM rendelethez
 
@@ -95,3 +95,4 @@ s) Zala Megyei Mérnöki Kamara: 12092309-00223530-00100008
 III. Az építőipari kivitelezési tevékenység bejelentése igazgatási szolgáltatási díját a Magyar Kereskedelmi és Iparkamara 10300002-20373432-71933285 számú számlájára kell befizetni.
 
 [^1]: a 6. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^2]: A 6. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
