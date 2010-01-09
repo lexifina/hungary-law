@@ -10,6 +10,6 @@
 
 (4) Az építésügyi célelőirányzatról szóló 18/2007. (VIII. 9.) ÖTM rendelet hatályát veszti.
 
-(5)–(6)[^2]
+(5)–(6)[^7]
 
-[^2]: A 16. § (5)–(6) bekezdését a 32/2009. (XII. 29.) NFGM rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^7]: A 16. § (5)–(6) bekezdését a 32/2009. (XII. 29.) NFGM rendelet 6. § (2) bekezdés b) pontja hatályon kívül helyezte.

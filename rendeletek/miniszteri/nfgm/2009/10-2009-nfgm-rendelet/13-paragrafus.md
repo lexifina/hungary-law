@@ -42,7 +42,7 @@ c) a támogatási döntéshozó kezdeményezése miatt
 
 (6) A támogatások folyósítására kizárólag a támogatási szerződés megkötését követően kerülhet sor.
 
-(7)[^1] A támogatás folyósítását megelőzően a pályázatkezelőnek – pályázaton kívüli támogatás esetén a támogatási igény elbírálásával a minisztérium gazdálkodási feladatokat ellátó szervének – vizsgálnia kell, hogy a kedvezményezett nem esik-e csődeljárás, felszámolási eljárás, végelszámolás, illetve önkormányzati adósságrendezési eljárás alá, munkaügyi kapcsolatai az Áht. előírásai szerint rendezettek-e, a Kincstártól és az adóhatóságtól kapott információk alapján nincs-e köztartozása. Ha törvény eltérően nem rendelkezik, a támogatás folyósításának felfüggesztését kell elrendelni csődeljárás esetén a csődegyezség megszületéséig, felszámolási és végelszámolási eljárás megindítása, illetve köztartozásról történő tudomásszerzés esetén.
+(7)[^6] A támogatás folyósítását megelőzően a pályázatkezelőnek – pályázaton kívüli támogatás esetén a támogatási igény elbírálásával a minisztérium gazdálkodási feladatokat ellátó szervének – vizsgálnia kell, hogy a kedvezményezett nem esik-e csődeljárás, felszámolási eljárás, végelszámolás, illetve önkormányzati adósságrendezési eljárás alá, munkaügyi kapcsolatai az Áht. előírásai szerint rendezettek-e, a Kincstártól és az adóhatóságtól kapott információk alapján nincs-e köztartozása. Ha törvény eltérően nem rendelkezik, a támogatás folyósításának felfüggesztését kell elrendelni csődeljárás esetén a csődegyezség megszületéséig, felszámolási és végelszámolási eljárás megindítása, illetve köztartozásról történő tudomásszerzés esetén.
 
 (8) A minisztérium
 
@@ -50,4 +50,4 @@ a) ellátja az ÉC bevételek és kiadások teljesülésének analitikus nyilvá
 
 b) minden hónapot követő 15. napig adatot szolgáltat a pályázatkezelőnek az ÉC bevételének és a kifizetések pénzügyi forgalmáról, a kötelezettségvállalásra rendelkezésre álló forrás összegéről.
 
-[^1]: A 13. § (7) bekezdése a 20/2009. (VIII. 14.) NFGM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 15. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult eljárásokban kell alkalmazni.
+[^6]: A 13. § (7) bekezdése a 20/2009. (VIII. 14.) NFGM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 15. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult eljárásokban kell alkalmazni.
