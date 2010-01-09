@@ -1,0 +1,1 @@
+Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (2) bekezdés r) pontjában kapott felhatalmazás alapján, a nemzeti fejlesztési és gazdasági miniszter feladat- és hatásköréről szóló 134/2008. (V. 14.) Korm. rendelet 1. § g) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
