@@ -16,7 +16,7 @@ e) magyar igazolvány nyilvántartási,
 
 f)[^6] közúti közlekedési nyilvántartási és igazgatási
 
-g)[^7]
+g)[^7] szabálysértési nyilvántartás vezetésével összefüggő
 
 ## ügycsoportjai tekintetében az igazságügyért felelős miniszter gyakorolja.
 
@@ -28,6 +28,6 @@ g)[^7]
 [^4]: A 4. § (2) bekezdés c) pontja a 131/2009. (VI. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^5]: A 4. § (2) bekezdés d) pontja a 308/2009. (XII. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^6]: A 4. § (2) bekezdésének f) pontja a 310/2007. (XI. 16.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^7]: A 4. § (2) bekezdésének g) pontját a 310/2007. (XI. 16.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^7]: A 4. § (2) bekezdésének g) pontját a 310/2007. (XI. 16.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte, újonnan az 1/2010. (I. 8.) Korm. rendelet 2. §-a iktatta be.
 [^8]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, szövege a 278/2008. (XI. 28.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
 [^9]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.

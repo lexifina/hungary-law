@@ -1,6 +1,6 @@
 ## Frekvenciagazdálkodással összefüggő feladatok
 
-13. § (1)[^15] A nem polgári célú frekvenciagazdálkodással kapcsolatos közigazgatási feladatok keretében a KEKKH ellátja – a szervezeti egységeként működő Kormányzati Frekvenciagazdálkodási Hatóság útján – a nem polgári célú frekvenciagazdálkodás feladatait ellátó hatóság szervezetéről, valamint a nem polgári célú frekvenciagazdálkodás rendjéről szóló kormányrendeletben megállapított feladatokat, ezen belül:
+13. § (1)[^16] A nem polgári célú frekvenciagazdálkodással kapcsolatos közigazgatási feladatok keretében a KEKKH ellátja – a szervezeti egységeként működő Kormányzati Frekvenciagazdálkodási Hatóság útján – a nem polgári célú frekvenciagazdálkodás feladatait ellátó hatóság szervezetéről, valamint a nem polgári célú frekvenciagazdálkodás rendjéről szóló kormányrendeletben megállapított feladatokat, ezen belül:
 
 a) lefolytatja a nem polgári célú frekvenciakijelölési eljárásokat,
 
@@ -22,4 +22,4 @@ b) a frekvenciasávok nem polgári, polgári és közös célú megosztásában,
 
 c) a frekvenciatartomány igénybevételének összehangolásában, és a frekvenciasávok nemzeti felosztása kidolgozásában.
 
-[^15]: A 13. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 494. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 13. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 494. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

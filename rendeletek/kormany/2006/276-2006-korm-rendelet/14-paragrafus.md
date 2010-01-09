@@ -1,6 +1,6 @@
 ## Telekommunikációs és hálózat-fenntartási feladatok
 
-14. §[^16] (1) A KEKKH a telekommunikációs és hálózat-fenntartási feladatai körében ellátja:
+14. §[^17] (1) A KEKKH a telekommunikációs és hálózat-fenntartási feladatai körében ellátja:
 
 a) a külön jogszabályban foglalt rendelkezések szerint az elektronikus kormányzati gerinchálózat (EKG), az egységes digitális rádiótávközlő rendszer (EDR), valamint az európai segélyhívó rendszer (ESR) rendszerek, továbbá az informatikai KözHáló program működtetésével kapcsolatos feladatokat,
 
@@ -22,4 +22,4 @@ g) az egységes digitális rádió-távközlő rendszer (EDR) rendszeres informa
 
 (4) A KEKKH elvégzi a működtetési körébe utalt rejtjelező végpontok műszaki-technikai üzemvitelét kulcsellátását, a saját rejtjelfelügyelettel nem rendelkező szervezetek számára ellátja a rejtjelező eszközök használatához szükséges kiképzési, vizsgáztatási feladatokat.
 
-[^16]: A 14. § a 278/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 14. § a 278/2008. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
