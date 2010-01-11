@@ -1,0 +1,1 @@
+A tőkepiacról szóló 2001. évi CXX. törvény 451. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § g) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
