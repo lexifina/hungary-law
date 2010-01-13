@@ -1,0 +1,13 @@
+## A TSE gyanúja esetén alkalmazandó intézkedések
+
+15. § (1) Az MgSzH TSE gyanúja esetén a 999/2001/EK rendelet 12. cikke, illetve a III. fejezetben foglalt szabályok szerint jár el.
+
+(2) BSE vagy súrlókór gyanújának észlelése esetén, amennyiben valószínűsíthető, hogy az állat nem a jelenlegi tartási helyen fertőződött meg, az MgSzH e rendelet előírásai szerint intézkedik a fertőződés feltételezett helye szerinti állomány forgalmi korlátozás alá helyezéséről.
+
+(3) A TSE-re gyanús állat, illetve az egyéb idegrendszeri tüneteket mutató kérődző egész teste SRM-nek minősül, és azt a 3. számú mellékletben előírtaknak megfelelően ártalmatlanítani kell.
+
+(4) A forgalmi korlátozást fel kell oldani, ha
+
+a) a TSE gyanúja a klinikai vizsgálat eredménye és az egyéb rendelkezésre álló adatok alapján felállított alternatív diagnózis következtében kizárható,
+
+b) az elvégzett laboratóriumi vizsgálatok negatív eredménnyel zárultak.
