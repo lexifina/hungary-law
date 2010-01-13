@@ -1,1 +1,0 @@
-## 30. § Ha az Európai Unió Magyarország BSE státuszát meghatározta, akkor a minisztérium a 8. számú mellékletben meghatározott termékek kivitelének jóváhagyása esetén a hazai BSE kategóriára utalással kiegészíti az állategészségügyi bizonyítványt, ha a célország szabályai ezt előírják.
