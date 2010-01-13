@@ -7,5 +7,3 @@
 (3) Aki a (2) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt – az ott tett megkülönböztetés szerint – egy évig, illetve három évig terjedő szabadságvesztéssel büntetendő.
 
 IV. CÍM
-
-A harcképességet veszélyeztető bűncselekmények
