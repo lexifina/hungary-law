@@ -1,6 +1,6 @@
-## K+F projekttámogatás[^35]
+## K+F projekttámogatás[^42]
 
-11/I. §[^36] (1) A K+F projekttámogatás esetén a támogatott résznek teljes egészében a következő kutatás-fejlesztési fajták egyikébe kell tartoznia:
+11/I. §[^43] (1) A K+F projekttámogatás esetén a támogatott résznek teljes egészében a következő kutatás-fejlesztési fajták egyikébe kell tartoznia:
 
 a) alapkutatás,
 
@@ -66,5 +66,5 @@ A b) pont bb) alpontja szerinti szerződéses kutatás-fejlesztés költsége, v
 
 (7) Valamennyi elszámolható költségnek a kutatás-fejlesztés adott fajtájához kell kapcsolódnia.
 
-[^35]: A 11/I. §-t megelőző alcímet a 8/2009. (IV. 2.) NFGM rendelet 17. §-a iktatta be.
-[^36]: A 11/I. §-t a 8/2009. (IV. 2.) NFGM rendelet 17. §-a iktatta be.
+[^42]: A 11/I. §-t megelőző alcímet a 8/2009. (IV. 2.) NFGM rendelet 17. §-a iktatta be.
+[^43]: A 11/I. §-t a 8/2009. (IV. 2.) NFGM rendelet 17. §-a iktatta be.

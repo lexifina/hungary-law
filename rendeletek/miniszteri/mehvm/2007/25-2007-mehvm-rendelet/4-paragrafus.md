@@ -64,7 +64,7 @@
 
 31. egészségfejlesztési programok;
 
-32. közfinanszírozott egészségügyi szolgáltatást nyújtók számára, hiányszakmákban foglalkoztatási bér- és járulék-kiegészítés;
+32.[^7]
 
 33. minőségmenedzsment rendszerek bevezetése, terjesztése, tanúsítása és akkreditálása;
 
@@ -72,9 +72,25 @@
 
 35. beruházási, fejlesztési tervek, megvalósíthatósági tervek minőségbiztosításához kapcsolódó szakértői, tanácsadási tevékenység;
 
-36.[^7] közszolgáltatási feladatok ellátása;
+36.[^8] közszolgáltatási feladatok ellátása;
 
-37.[^8] újonnan létrehozott kisvállalkozások támogatása.
+37.[^9] újonnan létrehozott kisvállalkozások támogatása.
 
-[^7]: A 4. § 36. pontját a 8/2009. (IV. 2.) NFGM rendelet 3. §-a iktatta be.
-[^8]: A 4. § 37. pontját a 13/2009. (V. 12.) NFGM rendelet 2. §-a iktatta be.
+38.[^10] munkába járáshoz adott utazási költségtérítés;
+
+39.[^11] munkatapasztalat-szerzés céljából nyújtható bérköltség-támogatás;
+
+40.[^12] projekthez kapcsolódó működési költségek támogatása;
+
+41.[^13] projekt-előkészítés támogatása;
+
+42.[^14] az egész életen át tartó tanulást támogató kulturális tevékenységek.
+
+[^7]: A 4. § 32. pontját a 3/2010. (I. 8.) NFGM rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^8]: A 4. § 36. pontját a 8/2009. (IV. 2.) NFGM rendelet 3. §-a iktatta be.
+[^9]: A 4. § 37. pontját a 13/2009. (V. 12.) NFGM rendelet 2. §-a iktatta be.
+[^10]: A 4. § 38. pontját a 3/2010. (I. 8.) NFGM rendelet 1. § (2) bekezdése iktatta be.
+[^11]: A 4. § 39. pontját a 3/2010. (I. 8.) NFGM rendelet 1. § (2) bekezdése iktatta be.
+[^12]: A 4. § 40. pontját a 3/2010. (I. 8.) NFGM rendelet 1. § (2) bekezdése iktatta be.
+[^13]: A 4. § 41. pontját a 3/2010. (I. 8.) NFGM rendelet 1. § (2) bekezdése iktatta be.
+[^14]: A 4. § 42. pontját a 3/2010. (I. 8.) NFGM rendelet 1. § (2) bekezdése iktatta be.

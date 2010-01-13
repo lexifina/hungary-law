@@ -1,6 +1,6 @@
-## A közszolgáltatások ellentételezése formájában nyújtható támogatás[^43]
+## A közszolgáltatások ellentételezése formájában nyújtható támogatás[^50]
 
-11/M. §[^44] (1) Közszolgáltatások ellentételezése formájában nyújtható támogatás kizárólag a közszolgáltatás ellátásával megbízott vállalkozás részére nyújtható.
+11/M. §[^51] (1) Közszolgáltatások ellentételezése formájában nyújtható támogatás kizárólag a közszolgáltatás ellátásával megbízott vállalkozás részére nyújtható.
 
 (2) A közszolgáltatások ellátásáért nyújtott támogatás csak olyan mértékben korlátozhatja a versenyt, amely mindenképpen szükséges a feladat hatékony ellátásához.
 
@@ -8,5 +8,5 @@
 
 (4) A kedvezményezett a kapott támogatásról külön elszámolást köteles vezetni, amely alapján a (2)–(3) bekezdésben foglaltak teljesülése ellenőrizhető.
 
-[^43]: A 11/M. §-t megelőző alcímet a 8/2009. (IV. 2.) NFGM rendelet 21. §-a iktatta be.
-[^44]: A 11/M. §-t a 8/2009. (IV. 2.) NFGM rendelet 21. §-a iktatta be.
+[^50]: A 11/M. §-t megelőző alcímet a 8/2009. (IV. 2.) NFGM rendelet 21. §-a iktatta be.
+[^51]: A 11/M. §-t a 8/2009. (IV. 2.) NFGM rendelet 21. §-a iktatta be.

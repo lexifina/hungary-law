@@ -1,8 +1,8 @@
-## 9. §[^15] Képzési támogatást általános képzéshez és szakképzéshez lehet nyújtani.
+## 9. §[^22] Képzési támogatást általános képzéshez és szakképzéshez lehet nyújtani.
 
-## A képzési célú támogatás igénybevételének alapvető feltételei és a támogatás mértéke[^16]
+## A képzési célú támogatás igénybevételének alapvető feltételei és a támogatás mértéke[^23]
 
-10. §[^17] (1) E rendelet alapján képzési támogatás a kedvezményezettel munkaviszonyban álló munkavállalók képzéséhez nyújtható.
+10. §[^24] (1) E rendelet alapján képzési támogatás a kedvezményezettel munkaviszonyban álló munkavállalók képzéséhez nyújtható.
 
 (2) Elszámolható költségek:
 
@@ -36,6 +36,6 @@ b) 10 százalékponttal, ha a támogatást középvállalkozásoknak, és 20 sz�
 
 (7) Ha valamely támogatási projektben mind szakképzés, mind általános képzési összetevők szerepelnek, amelyek a képzés támogatási intenzitásának a kiszámítása céljából egymástól nem választhatók el, vagy ha a támogatási projektben szereplő képzés szakképzés, illetve általános képzés jellege nem állapítható meg, az (5) bekezdés b) pontja szerinti szakképzésre vonatkozó támogatási intenzitásokat kell alkalmazni.
 
-[^15]: A 9. § a 8/2009. (IV. 2.) NFGM rendelet 6. §-ával megállapított szöveg.
-[^16]: A 10. §-t megelőző alcím a 8/2009. (IV. 2.) NFGM rendelet 7. §-ával megállapított szöveg.
-[^17]: A 10. § a 8/2009. (IV. 2.) NFGM rendelet 7. §-ával megállapított szöveg.
+[^22]: A 9. § a 8/2009. (IV. 2.) NFGM rendelet 6. §-ával megállapított szöveg.
+[^23]: A 10. §-t megelőző alcím a 8/2009. (IV. 2.) NFGM rendelet 7. §-ával megállapított szöveg.
+[^24]: A 10. § a 8/2009. (IV. 2.) NFGM rendelet 7. §-ával megállapított szöveg.

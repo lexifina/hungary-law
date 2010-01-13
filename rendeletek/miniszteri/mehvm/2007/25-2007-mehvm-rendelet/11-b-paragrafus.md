@@ -1,8 +1,8 @@
 ## A támogatott beruházás elszámolható költségei
 
-## és a beruházás által indukált elszámolható költségek[^23]
+## és a beruházás által indukált elszámolható költségek[^30]
 
-11/B. §[^24] (1) Az alábbi költségek számolhatóak el:
+11/B. §[^31] (1) Az alábbi költségek számolhatóak el:
 
 a) a beruházás célját szolgáló tárgyi eszköznek az Sztv. szerinti bekerülési értéke,
 
@@ -24,5 +24,5 @@ f) a beruházás üzembe helyezését követő harmadik év végéig újonnan l�
 
 (5) A támogatott projekt kapcsán beszerzett eszköznek újnak kell lennie, kivéve a felvásárlás esetét, vagy ha KKV részesül támogatásban. Felvásárlás, illetve a KKV által vásárolt használt eszköz támogatása esetén az ügylet vagy az eszköz vásárlása kizárólag piaci értéken történhet.
 
-[^23]: A 11/B. §-t megelőző alcímet a 8/2009. (IV. 2.) NFGM rendelet 10. §-a iktatta be.
-[^24]: A 11/B. §-t a 8/2009. (IV. 2.) NFGM rendelet 10. §-a iktatta be.
+[^30]: A 11/B. §-t megelőző alcímet a 8/2009. (IV. 2.) NFGM rendelet 10. §-a iktatta be.
+[^31]: A 11/B. §-t a 8/2009. (IV. 2.) NFGM rendelet 10. §-a iktatta be.

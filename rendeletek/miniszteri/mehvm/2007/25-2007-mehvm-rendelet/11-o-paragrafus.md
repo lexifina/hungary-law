@@ -1,4 +1,4 @@
-11/O. §[^46] (1) Átmeneti támogatás nem nyújtható:
+11/O. §[^53] (1) Átmeneti támogatás nem nyújtható:
 
 a) a halászathoz és akvakultúrához kapcsolódó tevékenységet végző vállalkozásnak;
 
@@ -22,4 +22,4 @@ e) ha az átmeneti támogatás az importáruk helyett hazai áru használatátó
 
 (5) A kedvezményezett köteles az átmeneti támogatáshoz kapcsolódó minden iratot az odaítélést követő 10. évig megőrizni, és a támogatást nyújtó felhívása esetén azokat bemutatni.
 
-[^46]: Az új 11/O. §-t a 13/2009. (V. 12.) NFGM rendelet 4. §-a iktatta be, egyidejűleg az eredeti 11/O. § számozását 11/R. §-ra változtatva.
+[^53]: Az új 11/O. §-t a 13/2009. (V. 12.) NFGM rendelet 4. §-a iktatta be, egyidejűleg az eredeti 11/O. § számozását 11/R. §-ra változtatva.

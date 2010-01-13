@@ -1,4 +1,4 @@
-## 11/C. §[^25] Nem nyújtható támogatás az alábbi költségekre:
+## 11/C. §[^32] Nem nyújtható támogatás az alábbi költségekre:
 
 a) szinten tartást szolgáló tárgyi eszközök bekerülési értéke, illetve vételára a létesítmény felvásárlásakor,
 
@@ -14,4 +14,4 @@ f) személygépkocsi bekerülési értéke,
 
 g) szállítási ágazatban a szállító berendezések (gördülőeszközök) bekerülési értéke.
 
-[^25]: A 11/C. §-t a 8/2009. (IV. 2.) NFGM rendelet 11. §-a iktatta be.
+[^32]: A 11/C. §-t a 8/2009. (IV. 2.) NFGM rendelet 11. §-a iktatta be.

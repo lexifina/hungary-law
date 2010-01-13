@@ -1,4 +1,4 @@
-11/E. §[^28] (1) A támogatott projektek megkezdése időpontjának az alábbi időpontok minősülnek:
+11/E. §[^35] (1) A támogatott projektek megkezdése időpontjának az alábbi időpontok minősülnek:
 
 a) építési tevékenységet tartalmazó projekt esetén:
 
@@ -14,4 +14,4 @@ d) ha a pályázatban ismertetett projektet több célterületre (építés, bes
 
 (2) A projekt-előkészítő tanulmányok megrendelése, elkészítése nem minősül a fejlesztés, beruházás (1) bekezdésben meghatározott megkezdésének.
 
-[^28]: A 11/E. §-t a 8/2009. (IV. 2.) NFGM rendelet 13. §-a iktatta be.
+[^35]: A 11/E. §-t a 8/2009. (IV. 2.) NFGM rendelet 13. §-a iktatta be.

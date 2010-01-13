@@ -1,6 +1,6 @@
 ## Újonnan létrehozott kisvállalkozások részére nyújtott támogatásokra vonatkozó szabályok
 
-11/P. §[^47] (1) E rendelet alapján:
+11/P. §[^54] (1) E rendelet alapján:
 
 a) az EK Szerződés 87. cikk (3) bekezdés a) pontja alapján támogatott területeken újonnan létrehozott kisvállalkozások részére 2 millió euró,
 
@@ -22,4 +22,4 @@ c) energia-, víz és fűtési díj, valamint adók – kivéve az általános f
 
 d) értékcsökkenés, a termelési létesítmény, illetve felszerelés bérleti díja, valamint a bérköltségek, ha a beruházás vagy munkahely-teremtési intézkedés egyéb támogatásban nem részesült.
 
-[^47]: Az új 11/P. §-t és az azt megelőző alcímet a 13/2009. (V. 12.) NFGM rendelet 4. §-a iktatta be, egyidejűleg az eredeti 11/P. § számozását 11/S. §-ra változtatva.
+[^54]: Az új 11/P. §-t és az azt megelőző alcímet a 13/2009. (V. 12.) NFGM rendelet 4. §-a iktatta be, egyidejűleg az eredeti 11/P. § számozását 11/S. §-ra változtatva.
