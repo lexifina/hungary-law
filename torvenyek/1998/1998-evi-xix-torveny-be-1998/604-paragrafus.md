@@ -29,17 +29,3 @@ h) a házi őrizet végrehajtási szabályait, valamint a lakhelyelhagyási tila
 i) az óvadék letétele esetén a bírósági letét szabályait,
 
 j) a lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályait a rendészetért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
-
-k) a bírósági eljárásban az eljárási cselekmény jegyzőkönyv helyett más módon való rögzítésének szabályait, valamint a tárgyalás zártcélú távközlő hálózat útján történő megtartásának részletes szabályait,
-
-l) a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat az érintett miniszterekkel együttesen,
-
-m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel együttesen,
-
-n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
-
-o) a bírósági ügyvitel szabályait,
-
-p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
-
-q) az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait,

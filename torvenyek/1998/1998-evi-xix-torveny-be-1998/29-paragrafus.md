@@ -2,7 +2,7 @@
 
 a) a közjogi tisztség betöltésén alapuló mentességet élvező személy [551. § (1) bek.], a nemzetközi jogon alapuló mentességet élvező személy [553. § (1) bek.] által elkövetett bűncselekmény, a sérelmükre elkövetett hivatalos személy elleni erőszak, a működésükkel kapcsolatban ellenük elkövetett más bűncselekmény, továbbá a nemzetközileg védett személy elleni erőszak (Btk. 232. §),
 
-b) a bíró, az ügyész, a bírósági és ügyészségi titkár, fogalmazó és ügyintéző, az ügyészségi nyomozó, az önálló és a megyei bírósági végrehajtó és végrehajtó-helyettes, a közjegyző és a közjegyző-helyettes, a rendőrség hivatásos állományú tagja ellen elkövetett emberölés, hivatalos személy ellen elkövetett emberrablás, hivatalos személy elleni erőszak, hivatalos személy ellen, hivatalos eljárása alatt elkövetett rablás [Btk. 166. § (2) bek. e) pont, Btk. 175/A. § (2) bek. c) pont, Btk. 229. §, Btk. 321. § (3) bek. d) pont, (4) bek. c)–d) pont],
+b) a bíró, az ügyész, a bírósági és ügyészségi titkár, fogalmazó és ügyintéző, az ügyészségi nyomozó, az önálló és a megyei bírósági végrehajtó és végrehajtó-helyettes, a közjegyző és a közjegyző-helyettes, a rendőrség hivatásos állományú tagja ellen elkövetett emberölés, hivatalos személy ellen elkövetett emberrablás, hivatalos személy elleni erőszak, hivatalos személy ellen, hivatalos eljárása alatt elkövetett rablás [Btk. 166. § (2) bek. e) pont, Btk. 175/A. § (2) bek. c) pont, Btk. 229. §, Btk. 321. § (3) bek. d) pont, (4) bek. c)–d) pont, Btk. 321. § (5) bek. b) pont,],
 
 c) a rendőrség hivatásos állományú tagjának kivételével a b) pontban felsoroltak által elkövetett bármilyen bűncselekmény, valamint az ülnöknek az igazságszolgáltatással összefüggésben elkövetett bűncselekménye,
 

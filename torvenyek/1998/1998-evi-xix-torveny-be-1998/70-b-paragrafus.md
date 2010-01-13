@@ -21,3 +21,5 @@ b) a sértett és képviselője másolatot kaphat a nyomozás azon iratairól, a
 (8) A másolat kiadása ellen nincs helye jogorvoslatnak. A kiadás megtagadása miatt külön jogorvoslatnak van helye.
 
 (9) Az ügy irataiban fel kell jegyezni, hogy mely iratról, kinek a részére, hány példányban készült másolat.
+
+(10) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a büntetőeljárásban részt vevő személyek kérelmére – a (6)–(8) bekezdésben meghatározottak szerint – legkésőbb a kérelem előterjesztésétől számított nyolc napon belül az eljárás során keletkezett iratról másolatot ad ki.

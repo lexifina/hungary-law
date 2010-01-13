@@ -1,0 +1,5 @@
+70/D. § (1) Az eljárás jogerős befejezését követően, a nyomozás vagy az eljárás megszüntetését, a vádemelés részbeni mellőzését követően az államtitkot, szolgálati titkot tartalmazó irat megismerésére a 70/C. § (1) bekezdése az irányadó.
+
+(2) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a 70/C. § (2) bekezdése szerint jár el.
+
+(3) Az eljárás jogerős befejezését, a nyomozás megszüntetését, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az államtitkot, a szolgálati titkot tartalmazó irat másolására és a másolat kezelésére a 70/C. § (5) bekezdés a) pontja az irányadó. A másolatot az eljárás jogerős befejezését követően az elsőfokú bíróság, a nyomozás vagy az eljárás megszüntetését, a vádemelés részbeni mellőzését követően az ügyész, illetve a nyomozó hatóság őrzi, de biztosítani kell, hogy a másolatot a jogosult a hivatali munkaidőben, korlátozás nélkül tanulmányozhassa.
