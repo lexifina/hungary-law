@@ -1,7 +1,8 @@
 6. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^1]
+(2)[^2]
 
-(3) A (2) bekezdés az e rendelet hatálybalépését követő napon hatályát veszti. E bekezdés az e rendelet hatálybalépését követő második napon hatályát veszti.
+(3)[^3]
 
-[^1]: A 6. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^2]: A 6. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^3]: A 6. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
