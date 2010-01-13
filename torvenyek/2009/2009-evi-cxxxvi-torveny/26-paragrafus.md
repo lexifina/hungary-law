@@ -41,11 +41,3 @@ fa) a Btk. 105. § (2) bekezdése, a Btk. 121. § (3) bekezdése,
 fb) a Be. 99. § (2) bekezdés a) pontjában az „alkohol-,”, a Be. 99. § (2) bekezdés b) pontjában a „vagy kényszergyógyítás”, a Be. 157. § (1) bekezdésében a „pénzmellékbüntetés,” a Be. 466. §-ában az „ , illetőleg a pénzmellékbüntetésnek”, a Be. 544. § (1) bekezdésében az „illetőleg önálló büntetésként”, a Be. 563. § (1) bekezdésében az „ , illetőleg a pénzmellékbüntetésnek”, a Be. 585. § (1) bekezdésében az „ , a pénzmellékbüntetés”, a Be. 592. §-át megelőző alcímben az „és pénzmellékbüntetés”, a Be. 592. § (1) bekezdésében az „ , illetőleg a pénzmellékbüntetés”, valamint az „ , illetve a pénzmellékbüntetést”, a Be. 592. § (2) bekezdésében az „ , illetőleg a pénzmellékbüntetés”, a Be. 592. § (3) bekezdésében az „ , a pénzmellékbüntetés esetén az ítéletben a pénzbüntetés szabadságvesztésre átváltoztatását illetően meghatározott összeggel”, a Be. 592. § (4) bekezdésében az „ , illetőleg a pénzmellékbüntetés”, a Be. 595. § (4) bekezdésében a „pénzmellékbüntetés,” a Be. 596. § (8) bekezdésében a „mellékbüntetés” szövegrész, valamint a Be. 562. §-a és az azt megelőző alcím.
 
 (5) E törvény – a 25. § kivételével – 2010. május 2-án hatályát veszti.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
