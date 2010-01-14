@@ -1,0 +1,1 @@
+## „(10) Az ügyintézési határidő 5 hónap a harmadik fél részére történő földi kiszolgálást végzők, illetve a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásban.”
