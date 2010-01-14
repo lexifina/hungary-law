@@ -18,6 +18,6 @@
 
 | Nemzeti Közlekedési Hatóság Dél-alföldi Regionális Igazgatósága | Csongrád megye, Jász-Nagykun-Szolnok megye, Békés megye, Bács-Kiskun megyének a Budapest–Kelebia vasútvonaltól keletre eső területe, valamint a Tisza Tiszafüredtől a déli országhatárig terjedő szakasza, Tisza tó, a Körösök és a Maros, valamint azok mellékvizei |
 
-3. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^93]
+3. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^100]
 
-[^93]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^100]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

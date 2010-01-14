@@ -1,6 +1,6 @@
-## A légiközlekedési hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^70]
+## A légiközlekedési hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^75]
 
-8/B. §[^71] (1) A Kormány a repülőtér légi közlekedés védelme szempontjából kis repülőtérré minősítése iránti eljárásban,
+8/B. §[^76] (1) A Kormány a repülőtér légi közlekedés védelme szempontjából kis repülőtérré minősítése iránti eljárásban,
 
 a) – abban a kérdésben, hogy a repülőtér megfelel-e a fegyveres biztonsági őrség működtetéséhez szükséges feltételeknek, valamint teljesülnek-e a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendeletben foglalt alapkövetelmények – első fokú eljárásban a Repülőtéri Rendőr Igazgatóságot, másodfokú eljárásban az Országos Rendőr-főkapitányságot, valamint
 
@@ -12,7 +12,7 @@ b) – a létesítendő kis repülőtér működésének megzavarására irányu
 
 a) – abban a kérdésben, hogy a repülőtér megfelel-e a fegyveres biztonsági őrség működtetéséhez, nemzetközi repülőtér esetében a határellenőrzéshez szükséges feltételeknek, továbbá teljesülnek-e a repülőtérre vonatkozó biztonsági alapkövetelmények – a repülőtér fekvése szerint illetékes rendőr-főkapitányságot, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóságot,
 
-b)[^72] a katasztrófa- és tűzvédelemmel összefüggő létesítési és használati szabályoknak való megfelelés kérdésében az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatóságát,
+b)[^77] a katasztrófa- és tűzvédelemmel összefüggő létesítési és használati szabályoknak való megfelelés kérdésében az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatóságát,
 
 c) – abban a kérdésben, hogy a repülőtér tervezett meteorológiai műszerezettsége, a műszerek mennyisége, elhelyezése, illetve mérési pontossága megfelel-e a nemzetközi polgári repülésről szóló, Chicagóban, 1944. évi december 7. napján aláírt Egyezmény alapján a Meteorológiai Világszervezet és a Nemzetközi Polgári Repülési Szervezet által megállapított előírásoknak, a futópályák tervezett kiépítése az uralkodó széliránynak megfelelő-e, hiteles éghajlati adatokból, megfelelő szakismerettel készült-e az engedélyezési dokumentációnak a repülések végrehajtása szempontjából mérvadó meteorológiai körülményeket bemutató része – az Országos Meteorológiai Szolgálatot,
 
@@ -52,9 +52,9 @@ b) – a radioaktív anyag szállítása biztonsági feltételeinek, valamint an
 
 ## szakhatóságként jelöli ki.
 
-(7)[^73]
+(7)[^78]
 
-[^70]: A 8/B. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^71]: A 8/B. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^72]: A 8/B. § (2) bekezdés b) pontja a 261/2009. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^73]: A 8/B. § (7) bekezdését a 84/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése.
+[^75]: A 8/B. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^76]: A 8/B. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^77]: A 8/B. § (2) bekezdés b) pontja a 261/2009. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^78]: A 8/B. § (7) bekezdését a 84/2009. (IV. 10.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése.
