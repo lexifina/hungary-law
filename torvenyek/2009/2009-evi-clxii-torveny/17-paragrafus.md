@@ -1,0 +1,5 @@
+17. § (1) A hitelszerződés fennállása alatt a hitelezőnek a fogyasztó kérésére a tartozásról törlesztési táblázat formájában kivonatot a fogyasztónak díj-, költség- és egyéb fizetésikötelezettség-mentesen kell rendelkezésére bocsátania.
+
+(2) Jelzáloghitel esetén a hitelező évente egyszer, illetve a kamatperiódus fordulónapján tájékoztatást ad a fogyasztónak a tartozásról törlesztési táblázat formájában díj-, költség- és egyéb fizetésikötelezettség-mentesen.
+
+(3) A törlesztési táblázat a törlesztőrészletek összegét, a törlesztés gyakoriságát és feltételeit, valamint az egyes törlesztések tőke- és hitelkamat és hitelkamaton kívüli minden egyéb ellenszolgáltatás elemét – ideértve díjat, jutalékot, költséget – elkülönítetten tartalmazza. Ha a hitelkamat mértéke nem rögzített, vagy a hitelkamaton kívüli minden egyéb ellenszolgáltatás – ideértve díjat, jutalékot, költséget – a hitelszerződésben meghatározottak szerint változhat, a törlesztési táblázatban egyértelműen és tömören jelezni kell, hogy a rendelkezésre bocsátott adatok a változás időpontjáig érvényesek.
