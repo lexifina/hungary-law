@@ -1,0 +1,103 @@
+# A Kormány 4/2010. (I. 14.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 2. szám 6. rész, 2010. január 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ca311d73a439f214c306c214fb5e445c533a8b90/dokumentumok/1aa8fbbb3f13e384f817fe7fed1e14bb662c4d06/letoltes)
+
+---
+
+A Kormány 4/2010. (I. 14.) Korm. rendelete
+az Oktatási Hivatalról szóló 307/2006. (XII. 23.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. §
+(3) bekezdésében foglalt feladatkörében eljárva, valamint a közoktatásról szóló 1993. évi LXXIX. törvény 94. § (3) bekezdés
+m) pontjában kapott felhatalmazás, valamint a felsőoktatásról szóló 2005. évi CXXXIX. törvény 153. § (1) bekezdése 18. pontjában
+kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következő rendeletet
+alkotja:
+1. §
+Az Oktatási Hivatalról szóló 307/2006. (XII. 23.) Korm. rendelet (a továb biak ban: Rendelet) 1. § (2) bekezdése helyébe
+a következő rendelkezés lép:
+„(2) A Hivatal a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló
+2006. évi LVII. törvény (a továb biak ban: Kszt.) szerinti központi hivatal, amely feladatait országos ille té kességgel látja
+el. A Hivatal a költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény szerinti önállóan
+működő és gazdálkodó közhatalmi, közszolgáltató tevékenységet is ellátó költségvetési szerv.”
+2. §
+A Rendelet 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A miniszter a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló tör vény és a Kt. hatálya alá
+tartozó ügyekben hozott döntéseknél gyakorolja a fellebbezés elbírálására jogosult hatóság részére meghatározott
+jogosítványokat.”
+3. §
+A Rendelet 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A Hivatal működésére, belső és külső kapcsolataira vonatkozó rendelkezéseket a szervezeti és működési
+szabályzat határozza meg. A Hivatal a feladatait éves munkaterv alapján végzi.”
+4. §
+A Rendelet 4/A. §-a helyébe a következő rendelkezés lép:
+„4/A. § (1) A Kormány a hivatalt jelöli ki
+a) a Kt. szerinti közoktatási feladatkörében eljáró oktatási hivatal és a közoktatási információs iroda feladatainak
+ellátására;
+b) az Ftv. szerinti felsőoktatási információs rendszer működéséért felelős szerv és a felsőoktatási intézmények
+nyilvántartását vezető szerv működtetésére.
+(2) A Hivatal rendszeresen ellenőrzi a közoktatási szakértői tevékenység folytatását, az államilag elismert
+nyelvvizsgaközpontokat, a pedagógus-továbbképzések szervezőit, a Magyarországon működő felsőoktatási
+intézményeket és e tevékenység tekintetében ellátja a szolgáltatási tevékenység megkezdésének és folytatásának
+általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait.
+(3) A magyarországi felsőoktatási intézmények által kötelezően használt nyomtatványok előállítását és forgalomba
+hozatalát – ide értve annak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló
+tör vény szerinti határon átnyúló szolgáltatásnyújtás keretében történő meg valósulását is – a regisztrációs központ
+engedélyezi. Az engedély a jogszabályi elő írásoknak történő megfelelés hiányában tagadható meg.”
+5. §
+A Rendelet 8. §-a helyébe a következő rendelkezés lép:
+„8. § A Hivatal
+a) ellátja a közoktatási szakértői tevékenységre vonatkozó bejelentéssel kapcsolatos feladatokat [Kt. 101. § (2)];
+b) engedélyezi a közoktatási szakértői tevékenység folytatását [Kt. 101. §-a (3) bekezdés];
+c) dönt az Országos vizsgáztatási névjegyzékbe való felvételről [Kt. 101. §-a (6) bekezdés];
+d) dönt a közoktatási szakértői tevékenység folytatásától, illetve a vizsgaelnöki feladatok ellátásától való eltiltásról [Kt.
+101. §-a (10) bekezdés];
+e) a közoktatási intézmény vagy a fenntartó megkeresésére – az Országos szakértői névjegyzékből – egyidejűleg több
+tanügyigazgatási szakértő személyére tesz javaslatot, aki az érintett intézménnyel, illetve fenntartóval nem áll, illetve
+nem állt foglalkoztatásra irányuló jogviszonyban.”
+
+6. § (1) A Rendelet 11. § b) pontja helyébe a következő rendelkezés lép:
+„[A Hivatal]
+b) ellátja a miniszter felelősségébe tartozó szakképesítések tekintetében az Országos szakmai vizsgaelnöki
+névjegyzékkel kapcsolatos feladatokat;”
+(2) A Rendelet 11. § d) pontja helyébe a következő rendelkezés lép:
+„[A Hivatal]
+d) közreműködik az Országos Képzési Jegyzék alapján a miniszter felelősségi körébe tartozó szakképesítések esetén
+a szakmai vizsgák központi írásbeli tételeinek, központi gyakorlati feladatainak, valamint azok megoldásainak
+szétosztásában;”
+7. § (1) A Rendelet 13. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+„[A Hivatal első fokú döntést hoz]
+c) a közoktatási szakértői engedély kiadásáról, a közoktatási szakértői tevékenységtől, illetve a vizsgáztatási
+tevékenységtől való eltiltásról;”
+(2) A Rendelet 13. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+„[A Hivatal első fokú döntést hoz]
+e) a Kt. 95/C. §-ának (2) bekezdése szerint a kötelező felvételt biztosító óvoda, illetve iskola kijelöléséről;”
+(3) A Rendelet 13. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+„[A Hivatal első fokú döntést hoz]
+g) a Kt. 132. §-ának (16) bekezdése szerinti az osztályindítási tilalom alóli felmentésről.”
+(4) A Rendelet 13. § (1) bekezdése a következő h) ponttal egészül ki:
+„[A Hivatal első fokú döntést hoz]
+h) a kerettanterv jóváhagyásáról.”
+(5) A Rendelet 13. §-a (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A közoktatási szakértői tevékenység engedélyezésére irányuló eljárás ügyintézési határideje két hónap.”
+8. § A Rendelet 17. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az alapító okirat módosítása az adatok nyilvántartásba vételéről szóló határozat jogerőre emelkedésével lép
+hatályba.”
+9. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+(2) Hatályát veszti a Rendelet
+a) 5. § (1) bekezdés c) pontjában „az Oktatási Közlönyben és” szövegrész
+b) 17. § (2) bekezdés utolsó mondata
+c) 18. § (2) bekezdésében a ”, és honlapján, valamint az Oktatási Közlönyben közzéteszi” szövegrész.
+(3) Az előzetes eredetiségvizsgálati eljárás részletes szabályairól szóló 301/2009. (XII. 22.) Korm. rendelet (a továbbiakban:
+R.) 5. § (1) bekezdése a következő n) ponttal egészül ki:
+[A közreműködővel a Kknyt. 33/A. § (2) bekezdése alapján kötendő hatósági szerződésnek tartalmaznia kell:]
+„n) azt, hogy a közreműködőt tevékenységéért az előzetes eredetiségvizsgálat hatósági díja mindenkori összege
+40%-ának megfelelő mértékű ellenérték illeti meg.”
+(4) Az R. 19. §-a a következő új (5) bekezdéssel egészül ki:
+„(5) A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló
+35/2000. (XI. 30.) BM rendelet 44. § (5) bekezdésben meghatározott előzetes eredetiségvizsgálatnak minősül a közúti
+járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 12. § (15) bekezdésében meghatározott,
+időszakos vizsgálat keretében elvégzett előzetes eredetiségvizsgálat is.”
+Bajnai Gordon s. k.,
+miniszterelnök
+
+V.
+A Kor mány tag ja i nak ren de le tei
