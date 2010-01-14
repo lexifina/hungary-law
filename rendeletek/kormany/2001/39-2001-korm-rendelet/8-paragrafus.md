@@ -1,11 +1,15 @@
-## 7/A. §[^12] Ez a rendelet a légifuvarozókra és légijárművek üzemben tartóira vonatkozó biztosítási követelményekről szóló, 2004. április 21-ei 785/2004/EK európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
+## 7/A. §[^13]
 
 8. § (1) Ez a rendelet 2001. május 1-jén lép hatályba.
 
-(2)[^13] A kötelező felelősségbiztosítási szerződés megkötését a 785/2004/EK rendelet hatálya alá nem tartozó kötelezetteknek legkésőbb 2006. március 1-jéig igazolniuk kell a légiközlekedési hatóság részére. Az igazolási kötelezettség elmulasztása esetén a szerződés kötésére kötelezett a tevékenységét nem folytathatja.
+(2)[^14] Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
-(3)[^14]
+a) az Európai Parlament és a Tanács 785/2004/EK rendelete (2004. április 21.) a légifuvarozókra és légi járművek üzemben tartóira vonatkozó biztosítási követelményekről;
 
-[^12]: A 7/A. §-t a 284/2006. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
-[^13]: A 8. § (2) bekezdése a 4/2006. (I. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^14]: A 8. § (3) bekezdését a 268/2003. (XII. 24.) Korm. rendelet 6. §-a (2) bekezdésének a) pontja hatályon kívül helyezte.
+b) az Európai Parlament és a Tanács 1008/2008/EK rendelete (2008. szeptember 24.) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról.
+
+(3)[^15]
+
+[^13]: A 7/A. §-t a 284/2006. (XII. 23.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 350/2009. (XII. 30.) Korm. rendelet 7. § (3) bekezdése.
+[^14]: A 8. § (2) bekezdése a 350/2009. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^15]: A 8. § (3) bekezdését a 268/2003. (XII. 24.) Korm. rendelet 6. §-a (2) bekezdésének a) pontja hatályon kívül helyezte.

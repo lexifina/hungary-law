@@ -2,7 +2,7 @@
 
 ## A biztosítási igazolás
 
-7. § (1)[^9] A biztosítási fedezet fennállását a biztosító által kiállított igazolás tanúsítja.
+7. § (1)[^10] A biztosítási fedezet fennállását a biztosító által kiállított igazolás tanúsítja.
 
 (2) Az igazolásnak a következő adatokat kell tartalmaznia:
 
@@ -28,10 +28,10 @@ i) a háborús kockázati kiterjesztés.
 
 (4) A biztosított köteles a biztosítót és a légiközlekedési hatóságot a biztosítási igazolás bármely adatának változásáról azonnal értesíteni. A bejelentés alapján kiállított igazolást a biztosított köteles a légiközlekedési hatóságnak haladéktalanul bemutatni.
 
-(5)[^10] A biztosítási igazolást magyar vagy angol nyelven kell kiállítani.
+(5)[^11] A biztosítási igazolást magyar vagy angol nyelven kell kiállítani.
 
-(6)[^11] A légijármű üzemben tartója köteles az előírt hatályos biztosítás fennállásáról szóló, az adott légijárműre vonatkozó igazolást a légijármű fedélzetén tartani és az ellenőrzésre jogosult személynek felszólításra bemutatni. Érvényes igazolás hiányában a légijármű a légiközlekedésben nem vehet részt.
+(6)[^12] A légijármű üzemben tartója köteles az előírt hatályos biztosítás fennállásáról szóló, az adott légijárműre vonatkozó igazolást a légijármű fedélzetén tartani és az ellenőrzésre jogosult személynek felszólításra bemutatni. Érvényes igazolás hiányában a légijármű a légiközlekedésben nem vehet részt.
 
-[^9]: A 7. § (1) bekezdése a 4/2006. (I. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^10]: A 7. § (5) bekezdése a 4/2006. (I. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^11]: A 7. § (6) bekezdését a 4/2006. (I. 13.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^10]: A 7. § (1) bekezdése a 4/2006. (I. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^11]: A 7. § (5) bekezdése a 4/2006. (I. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^12]: A 7. § (6) bekezdését a 4/2006. (I. 13.) Korm. rendelet 6. § (3) bekezdése iktatta be.
