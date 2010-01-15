@@ -1,15 +1,15 @@
-10. § (1)[^11] A kölcsönnek a megállapított törlesztési idő előtti teljes visszafizetése esetén az alkalmazottat, illetve a Hivataltól nyugállományba vonult alkalmazottat kedvezmény illeti meg. A kedvezmény mértéke a visszafizetéskor fennálló tartozás 40%-a.
+10. §[^11] (1) A támogatásnak a megállapított törlesztési idő előtti teljes visszafizetése esetén az alkalmazottat, illetve a Hivataltól nyugállományba vonult alkalmazottat kedvezmény illeti meg. A kedvezmény mértéke a visszafizetéskor fennálló tartozás 40%-a.
 
-(2)[^12] A kedvezmény nem illeti meg a kölcsön idő előtti visszafizetése esetén azt az alkalmazottat vagy nyugdíjast,
+(2) A kedvezmény nem illeti meg a támogatás idő előtti visszafizetése esetén azt az alkalmazottat vagy nyugdíjast,
 
 a) aki ellen fegyelmi vagy büntetőeljárás folyik, annak befejezéséig, illetve, akinek a szolgálati vagy közalkalmazotti jogviszonya megszüntetése neki felróható okból folyamatban van, vagy neki felróható okból szűnt meg;
 
-b) akinek kölcsönmegállapodását a Hivatal felmondta, és emiatt a kölcsönhátralékának visszafizetése egy összegben esedékessé vált;
+b) akinek a támogatási megállapodását a Hivatal felmondta, és emiatt a támogatási hátralékának visszafizetése egy összegben esedékessé vált;
 
-c) akinek a Hivatal engedélyezte a kölcsönnel terhelt ingatlana elidegenítését a kölcsönhátralék egyösszegű visszafizetése mellett.
+c) akinek a Hivatal engedélyezte a támogatással terhelt ingatlana elidegenítését a támogatási hátralék egyösszegű visszafizetése mellett;
 
-(3)[^13] Az (1) bekezdésben és a 9. § (1) bekezdésében meghatározott engedmény és kedvezmény együttes összege nem haladhatja meg az ezek megállapításakor hatályos személyi jövedelemadó szabályok szerinti adómentes jövedelemhatárt.
+d) akinél a támogatás célja nem valósult meg.
 
-[^11]: A 10. § (1) bekezdése a 4/2004. (XI. 10.) MeHVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 5. §-a alapján rendelkezéseit a még el nem bírált kérelmek tekintetében is alkalmazni kell.
-[^12]: A 10. § (2) bekezdése a 4/2004. (XI. 10.) MeHVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 5. §-a alapján rendelkezéseit a még el nem bírált kérelmek tekintetében is alkalmazni kell.
-[^13]: A 10. § (3) bekezdését a 3/1996. ( VIII. 9.) TNM rendelet 7. §-a iktatta a szövegbe.
+(3) Az (1) bekezdésben és a 9. § (1) bekezdésében meghatározott engedmény és kedvezmény együttes összege nem haladhatja meg a munkáltató által lakás célú felhasználásra nyújtható adóterhet nem viselő járandóság személyi jövedelemadóról szóló törvény szerinti felső határát.
+
+[^11]: A 10. § az 1/2010. (I. 14.) PTNM rendelet 7. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.

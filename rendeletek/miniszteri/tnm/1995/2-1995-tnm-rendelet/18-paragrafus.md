@@ -1,12 +1,14 @@
 ## 18. § E rendelet alkalmazásában
 
-a)[^18] lakáskorszerűsítés: a lakás komfortfokozatának növelése céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, illetve belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, központosított fűtés kialakítása vagy cseréje, beleértve a megújuló energiaforrások (pl. napenergia) alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, illetve vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos cseréje, tető cseréje, felújítása, szigetelése. A korszerűsítés része az ehhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20%-áig. E munkákhoz csak az építési termékek műszaki követelményeinek, megfelelőség igazolásának, valamint forgalomba hozatalának és felhasználásának részletes szabályairól szóló rendelet szerinti megfelelőségi igazolással rendelkező termékeket lehet felhasználni;
+a)[^20] lakáskorszerűsítés: a lakás komfortfokozatának növelése céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, illetve belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, központosított fűtés kialakítása vagy cseréje, beleértve a megújuló energiaforrások (pl. napenergia) alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, illetve vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos cseréje, tető cseréje, felújítása, szigetelése. A korszerűsítés része az ehhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20%-áig. E munkákhoz csak az építési termékek műszaki követelményeinek, megfelelőség igazolásának, valamint forgalomba hozatalának és felhasználásának részletes szabályairól szóló rendelet szerinti megfelelőségi igazolással rendelkező termékeket lehet felhasználni;
 
-b) önálló lakás: az alkalmazott vagy házastársa tulajdonában álló lakásingatlan, vagy az általa bérlőként, bérlőtársként használt bérlakás;
+b)[^21] önálló lakás: az alkalmazott vagy házastársa, élettársa, bejegyzett élettársa – legalább 50%-os tulajdoni hányadot elérő – tulajdonában álló – haszonélvezettel nem terhelt – lakásingatlan vagy az általa – határozatlan időtartamú bérleti szerződés alapján – bérlőként, bérlőtársként használt határozatlan időtartamú bérlakás;
 
-c)[^19] méltányolható lakásigény: ha az igénylő és a vele együtt költöző házastárs, élettárs, gyermek (mostoha-, örökbefogadott, nevelt gyermek), szülő lakásigénye nem haladja meg a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 3. §-ának (1)–(5) bekezdéseiben meghatározott méltányolható lakásigény mértékét;
+c)–d)[^22]
 
-d) élettárs: a Ptk. 578/G. §-ának (1) bekezdésében meghatározott személy.
+e)[^23] első önálló lakást szerző alkalmazott: az alkalmazottnak, házastársának, élettársának, bejegyzett élettársának nincs és nem volt lakástulajdona.
 
-[^18]: A 18. § a) pontja a 4/2004. (XI. 10.) MeHVM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-a alapján rendelkezéseit a még el nem bírált kérelmek tekintetében is alkalmazni kell.
-[^19]: A 18. § c) pontja a 16/2002. (XII. 12.) MeHVM rendelet 7. §-ával megállapított szöveg.
+[^20]: A 18. § a) pontja a 4/2004. (XI. 10.) MeHVM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-a alapján rendelkezéseit a még el nem bírált kérelmek tekintetében is alkalmazni kell.
+[^21]: A 18. § b) pontja az 1/2010. (I. 14.) PTNM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^22]: A 18. § c)–d) pontját az 1/2010. (I. 14.) PTNM rendelet 14. § (3) bekezdése hatályon kívül helyezte; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.
+[^23]: A 18. § e) pontját az 1/2010. (I. 14.) PTNM rendelet 13. § (2) bekezdése iktatta be; alkalmazására lásd e módosító rendelet 14. § (1) bekezdését.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-2-20-6F
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2004-11-13 | 1995-2-20-6F.5 | 2/1995. (XII. 12.) TNM rendelet |
+| 2010-01-15 | 1995-2-20-6F.6 | 1/2010. (I. 14.) PTNM rendelet |
