@@ -1,0 +1,5 @@
+## 1. § A pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló 277/1997. (XII. 22.) Korm. rendelet (a továbbiakban: R.) 6. §-ának (11) bekezdése helyébe a következő rendelkezés lép:
+
+## „(11) A továbbképzés szervezője évente újrakezdődő sorszámmal ellátott tanúsítványt állít ki a továbbképzésben való eredményes részvételről, amely tartalmazza a továbbképzésben részt vevő nevét, születési családi és utónevét, születési helyét és idejét, a továbbképzés megnevezését, a tanórai foglalkozások számát, a továbbképzés szervezőjének hivatalos nevét, székhelyét, felnőttképzési nyilvántartási számát, a továbbképzési program alapítási engedély számát, a továbbképzés idejét és helyszínét, a tanúsítvány kiállításának helyét és keltét, a továbbképzésért felelős aláírását, valamint a tanúsítvány kiadója cégszerű aláírását. A tanúsítványon fel kell tüntetni, hogy az munkakör betöltésére nem, tevékenység folytatására jogszabályban meghatározott egyéb feltételek fennállása esetén jogosít.”
+
+2. § (1) Az R. 7. §-át megelőző alcím helyébe a következő rendelkezés lép:
