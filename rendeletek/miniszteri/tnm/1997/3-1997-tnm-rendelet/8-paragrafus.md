@@ -16,7 +16,7 @@ a) a Hivatal rendelkezésére álló szolgálati lakások bérlőinek kijelölé
 
 b) a garzon-, nőtlen- és hajadonszállón meglévő férőhelyek betöltése;
 
-c) a lakással kapcsolatos munkáltatói támogatások odaítélése és mértéke (építés, vásárlás, korszerűsítés);
+c)[^1] a lakással kapcsolatos munkáltatói támogatások odaítélése és mértéke;
 
 d) a szociális segély odaítélése és mértéke;
 
@@ -35,3 +35,5 @@ b) a lakásgazdálkodással és a lakáscélú támogatások folyósításával,
 c) a családalapítási támogatással, és
 
 d) az üdültetés rendjével
+
+[^1]: A 8. § (6) bekezdés c) pontja az 1/2010. (I. 14.) PTNM rendelet 14. § (3) bekezdés szerint módosított szöveg; alkalmazására lásd e módosító rendelet 14. (1) bekezdését.
