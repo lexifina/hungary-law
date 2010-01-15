@@ -2,7 +2,7 @@
 
 3. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-Melléklet a 6/2008. (III. 11.) HM rendelethez[^1]
+Melléklet a 6/2008. (III. 11.) HM rendelethez[^2]
 
 A katonai-szakmai ismeretekhez kötött hivatásos és szerződéses katonai beosztások megoszlása
 
@@ -528,8 +528,6 @@ A katonai-szakmai ismeretekhez kötött hivatásos és szerződéses katonai beo
 
 | HM Tábori Lelkészi Szolgálat |
 
-| katolikus tábori püspök |  |
-
 | protestáns tábori püspök |  |
 
 | vezető tábori rabbi |  |
@@ -559,8 +557,6 @@ A katonai-szakmai ismeretekhez kötött hivatásos és szerződéses katonai beo
 | kancellár |  |
 
 | dékán |  |
-
-| főtitkár |  |
 
 | igazgató |  |
 
@@ -648,4 +644,4 @@ A katonai-szakmai ismeretekhez kötött hivatásos és szerződéses katonai beo
 
 | Katona összesen: | 203 |
 
-[^1]: A melléklet a 26/2008. (XII. 20.) HM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^2]: A melléklet a 26/2008. (XII. 20.) HM rendelet 7. § (2) bekezdése, az 1/2010. (I. 14.) HM rendelet 4. § (3) bekezdése szerint módosított szöveg.
