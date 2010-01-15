@@ -1,0 +1,3 @@
+## 9. § Az R. 13. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „13. § (1) A támogatással épített, vásárolt vagy korszerűsített ingatlanra, valamint a 2. § (1) bekezdésének e) pontjában említett pénzforgalmi szolgáltatói hitellel terhelt ingatlanra az ingatlan-nyilvántartásban a Hivatal javára jelzálogjogot, valamint – az alkalmazott ingatlanra vonatkozó tulajdonszerzése esetén – elidegenítési és terhelési tilalmat kell bejegyeztetni, amely a támogatás, a pénzforgalmi szolgáltató által felszámított kezelési költség és esetleges késedelmi kamatai teljes visszafizetéséig áll fenn.”
