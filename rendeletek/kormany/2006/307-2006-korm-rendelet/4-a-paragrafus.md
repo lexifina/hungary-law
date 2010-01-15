@@ -1,10 +1,14 @@
-## A Hivatal hatásköre[^4]
+## A Hivatal hatásköre[^6]
 
-## 4/A. §[^5] A Kormány a Hivatalt jelöli ki
+4/A. §[^7] (1) A Kormány a hivatalt jelöli ki
 
 a) a Kt. szerinti közoktatási feladatkörében eljáró oktatási hivatal és a közoktatási információs iroda feladatainak ellátására;
 
 b) az Ftv. szerinti felsőoktatási információs rendszer működéséért felelős szerv és a felsőoktatási intézmények nyilvántartását vezető szerv működtetésére.
 
-[^4]: A 4/A. §-t megelőző alcímet az 1/2007. (I. 9.) Korm. rendelet 3. §-a iktatta be.
-[^5]: A 4/A. §-t az 1/2007. (I. 9.) Korm. rendelet 3. §-a iktatta be, szövege a 198/2008. (VIII. 4.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+(2) A Hivatal rendszeresen ellenőrzi a közoktatási szakértői tevékenység folytatását, az államilag elismert nyelvvizsgaközpontokat, a pedagógus-továbbképzések szervezőit, a Magyarországon működő felsőoktatási intézményeket és e tevékenység tekintetében ellátja a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait.
+
+(3) A magyarországi felsőoktatási intézmények által kötelezően használt nyomtatványok előállítását és forgalomba hozatalát – ide értve annak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti határon átnyúló szolgáltatásnyújtás keretében történő megvalósulását is – a regisztrációs központ engedélyezi. Az engedély a jogszabályi előírásoknak történő megfelelés hiányában tagadható meg.
+
+[^6]: A 4/A. §-t megelőző alcímet az 1/2007. (I. 9.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 4/A. §-t az 1/2007. (I. 9.) Korm. rendelet 3. §-a iktatta be, szövege a 4/2010. (I. 14.) Korm. rendelet 4. §-ával megállapított szöveg.

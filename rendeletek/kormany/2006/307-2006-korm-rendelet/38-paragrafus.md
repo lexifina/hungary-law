@@ -1,4 +1,4 @@
-## 19–37. §[^33]
+## 19–37. §[^44]
 
 ## A Hivatal végzettség elismerésével kapcsolatos feladatai
 
@@ -6,9 +6,9 @@
 
 a) hatósági jogkörében
 
-aa)[^34] külön jogszabályban meghatározott körben elismeri az általános iskolai és középiskolai bizonyítványok, valamint a felsőfokú oklevelek és tudományos fokozatok által tanúsított végzettségi szintet, továbbá az alap-, közép- és felsőfokú szakképesítéseket és az általa működtetett szakbizottságok közreműködésével a felsőfokú végzettséghez kapcsolódó szakképzettségeket,
+aa)[^45] külön jogszabályban meghatározott körben elismeri az általános iskolai és középiskolai bizonyítványok, valamint a felsőfokú oklevelek és tudományos fokozatok által tanúsított végzettségi szintet, továbbá az alap-, közép- és felsőfokú szakképesítéseket és az általa működtetett szakbizottságok közreműködésével a felsőfokú végzettséghez kapcsolódó szakképzettségeket,
 
-ab)[^35] jogszabályban meghatározottak szerint hivatalos tájékoztatást ad (bel- és külföldi szerveknek és személyeknek egyaránt) a külföldi oktatási rendszerekről, a külföldi köz- és felsőoktatási intézményekről, a felsőfokú végzettséget tanúsító oklevelek megszerzésének feltételeiről
+ab)[^46] jogszabályban meghatározottak szerint hivatalos tájékoztatást ad (bel- és külföldi szerveknek és személyeknek egyaránt) a külföldi oktatási rendszerekről, a külföldi köz- és felsőoktatási intézményekről, a felsőfokú végzettséget tanúsító oklevelek megszerzésének feltételeiről
 
 ac) hivatalos információt szolgáltat a magyar oktatási rendszerről, tájékoztatja a külföldi hatóságokat, szakmai szervezeteket a magyar bizonyítványok és oklevelek megszerzésének feltételeiről,
 
@@ -30,6 +30,6 @@ be) betölti az európai közösségi jog alapján a munkavállalás céljából
 
 bf) vezetője ellátja a szakképzettségek elismerésére vonatkozó európai uniós irányelvek nemzeti koordinátori teendőit.
 
-[^33]: A 19–37. §-t a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont bd) alpontja hatályon kívül helyezte, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^34]: A 38. § (1) bekezdés a) pont aa) alpontja a 198/2008. (VIII. 4.) Korm. rendelet 22. §-ával megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
-[^35]: A 38. § (1) bekezdés a) pont ab) alpontja a 198/2008. (VIII. 4.) Korm. rendelet 22. §-ával megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^44]: A 19–37. §-t a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont bd) alpontja hatályon kívül helyezte, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^45]: A 38. § (1) bekezdés a) pont aa) alpontja a 198/2008. (VIII. 4.) Korm. rendelet 22. §-ával megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^46]: A 38. § (1) bekezdés a) pont ab) alpontja a 198/2008. (VIII. 4.) Korm. rendelet 22. §-ával megállapított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

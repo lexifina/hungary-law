@@ -1,11 +1,13 @@
-## 8. §[^13] A Hivatal a Kt. 95/A. §-a (2) bekezdésének d) pontjában meghatározott feladatkörében
+## 8. §[^16] A Hivatal
 
-a) dönt az Országos szakértői névjegyzékbe, illetve az Országos vizsgáztatási névjegyzékbe történő felvétellel kapcsolatosan benyújtott kérelmekről, a névjegyzékből történő törlésről, illetve a névjegyzékben való nyilvántartás meghosszabbításáról;
+a) ellátja a közoktatási szakértői tevékenységre vonatkozó bejelentéssel kapcsolatos feladatokat [Kt. 101. § (2)];
 
-b) ellátja a vizsgaelnöki tevékenység szakmai irányításával és ellenőrzésével kapcsolatos feladatokat, és indokolt esetben a vizsgaelnököt törli a nyilvántartásból;
+b) engedélyezi a közoktatási szakértői tevékenység folytatását [Kt. 101. §-a (3) bekezdés];
 
-c) gondozza – a Kt. előírásainak megfelelően – az Országos szakértői névjegyzéket és az Országos vizsgáztatási névjegyzéket, gondoskodik az egységes névjegyzékek összeállításáról és az Oktatási Közlönyben történő közzétételéről;
+c) dönt az Országos vizsgáztatási névjegyzékbe való felvételről [Kt. 101. §-a (6) bekezdés];
 
-d) a közoktatási intézmény vagy a fenntartó megkeresésére – az Országos szakértői névjegyzékből – javaslatot tesz a szakértő személyére.
+d) dönt a közoktatási szakértői tevékenység folytatásától, illetve a vizsgaelnöki feladatok ellátásától való eltiltásról [Kt. 101. §-a (10) bekezdés];
 
-[^13]: A 8. § bevezető szövegrésze a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés b) pont ba) alpontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+e) a közoktatási intézmény vagy a fenntartó megkeresésére – az Országos szakértői névjegyzékből – egyidejűleg több tanügyigazgatási szakértő személyére tesz javaslatot, aki az érintett intézménnyel, illetve fenntartóval nem áll, illetve nem állt foglalkoztatásra irányuló jogviszonyban.
+
+[^16]: A 8. § a 4/2010. (I. 14.) Korm. rendelet 5. §-ával megállapított szöveg.
