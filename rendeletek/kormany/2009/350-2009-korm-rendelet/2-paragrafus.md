@@ -1,7 +1,3 @@
-## 1. § A légi közlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet (a továbbiakban: Vhr.) 4. §-a helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „4. § (1) A Magyar Köztársaság területére, a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet szerinti belső légijáratnak nem minősülő, leszállás céljából belépő légi járműnek az első leszállását olyan repülőtéren kell végrehajtania, ahol útlevélvizsgálat végrehajtása biztosított, illetve a vámvizsgálat végrehajtása is biztosított, amennyiben a légi jármű vámszempontból harmadik országból érkezik.
-
-## (2) A Magyar Köztársaság területéről induló, a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet szerinti belső légijáratnak nem minősülő légi járműnek a felszállást olyan repülőtéren kell végrehajtania, ahol útlevélvizsgálat végrehajtása biztosított, illetve a vámvizsgálat végrehajtása is biztosított, amennyiben a légi jármű vámszempontból harmadik országba indul.
-
-## (3) A Magyar Köztársaság területére a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet szerinti belső légijáratnak minősülő olyan légi jármű, amelynek fedélzetén vámszempontból harmadik országból érkező utasnak vámvizsgálaton át nem esett poggyásza van, első leszállását olyan repülőtéren kell végrehajtania, amelyen a közösségi vámjog végrehajtásáról szóló külön jogszabályban foglaltak alkalmazása biztosított.”
+[^2]: Az 1. §-t a 7. § (5) bekezdése hatályon kívül helyezte.
