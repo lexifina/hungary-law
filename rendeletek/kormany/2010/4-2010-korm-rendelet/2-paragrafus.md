@@ -1,0 +1,3 @@
+## 1. § Az Oktatási Hivatalról szóló 307/2006. (XII. 23.) Korm. rendelet (a továbbiakban: Rendelet) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A Hivatal a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény (a továbbiakban: Kszt.) szerinti központi hivatal, amely feladatait országos illetékességgel látja el. A Hivatal a költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény szerinti önállóan működő és gazdálkodó közhatalmi, közszolgáltató tevékenységet is ellátó költségvetési szerv.”
