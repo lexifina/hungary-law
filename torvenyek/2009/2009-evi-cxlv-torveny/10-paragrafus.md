@@ -11,11 +11,3 @@ c) az Ávtv. 43. §-át megelőző „IX. Fejezet ALLATVÉDELMI BÍRSÁG” cím
 d) az Ávtv. 46. §-a.
 
 (3) Az Ávtv. 48/B. §-ában az „emlősökre” szövegrész helyébe az „állatokra” szöveg lép.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
