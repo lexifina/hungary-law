@@ -54,7 +54,7 @@
 
 | ahol: | NTN | (Network Terminal Number) adatátviteli előfizetői szám, amely legfeljebb tíz számjegyből áll, és az adott hálózatban lévő előfizetők (adat-végberendezések, illetőleg adatáramköri végberendezések) azonosítására szolgál. |
 
-4. melléklet a 164/2005. (VIII. 16.) Korm. rendelethez[^11]
+4. melléklet a 164/2005. (VIII. 16.) Korm. rendelethez[^12]
 
 Jelzéspont kódok felosztási terve
 
@@ -118,4 +118,4 @@ A jelzéspont kódok számára egy 14 bit terjedelmű mező áll rendelkezésre.
 
 |  |  |  | NSPC (14 bit) = tetszőleges |
 
-[^11]: A 4. melléklet a 170/2009. (VIII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^12]: A 4. melléklet a 170/2009. (VIII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

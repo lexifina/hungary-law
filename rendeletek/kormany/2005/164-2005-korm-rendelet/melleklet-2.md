@@ -772,17 +772,7 @@
 
 |  | (KVE) – ES |
 
-| 4.2.2. | A mobil rádiótelefon hálózatokban megengedett az előfizetői szám formátumú tárcsázás: |
-
-|  | ES |
-
-|  | a) Pannon előfizetőtől | 20 – ES, |
-
-|  | b) Magyar Telekom előfizetőtől | 30 – ES, |
-
-|  | c) Vodafone előfizetőtől | 70 – ES |
-
-|  | számokra irányuló hívás esetén. |
+| 4.2.2. |  |
 
 | 4.3. | Rövid számok hívása |
 

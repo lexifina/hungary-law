@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-164-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-09-15 | 2005-164-20-22.6 | 164/2005. (VIII. 16.) Korm. rendelet |
+| 2010-01-15 | 2005-164-20-22.7 | 129/2012. (VI. 26.) Korm. rendelet |

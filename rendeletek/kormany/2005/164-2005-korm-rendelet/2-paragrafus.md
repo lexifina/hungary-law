@@ -4,7 +4,7 @@
 
 (3) Az azonosítók kijelölési engedély nélkül, valamint a kijelölési engedélyben meghatározottaktól eltérő módon nem használhatók.
 
-(4)[^3] A beszédcélú elektronikus hírközlő hálózatok számozási tervét e rendelet 1. melléklete tartalmazza.
+(4)[^4] A beszédcélú elektronikus hírközlő hálózatok számozási tervét e rendelet 1. melléklete tartalmazza.
 
 (5) A nemzetközi mobil előfizető azonosítók felosztási tervét e rendelet 2. melléklete tartalmazza.
 
@@ -12,4 +12,4 @@
 
 (7) Az elektronikus hírközlő hálózatokban alkalmazott jelzéspont kódok felosztási tervét e rendelet 4. melléklete tartalmazza.
 
-[^3]: A 2. § (4) bekezdése a 170/2009. (VIII. 28.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdése a 170/2009. (VIII. 28.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.

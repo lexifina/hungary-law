@@ -1,6 +1,6 @@
 ## terjed ki.
 
-## 1/A. §[^2] E rendelet alkalmazásában
+## 1/A. §[^3] E rendelet alkalmazásában
 
 1. Beszédcélú elektronikus hírközlő hálózat: olyan nyilvánosan elérhető elektronikus hírközlő hálózat, amely alkalmas hálózati végpontok közötti beszédre, továbbá más kommunikációra, és amely belföldi vagy nemzetközi számozási terven alapuló hívásirányítással lehetővé teszi belföldi és nemzetközi hívások kezdeményezését és fogadását.
 
@@ -12,4 +12,4 @@
 
 5. Nomadikus beszédcélú szolgáltatás: olyan beszédcélú elektronikus hírközlési szolgáltatás, amely a hívások kezdeményezése és fogadása céljából a szolgáltatást nyújtó hálózatok tetszőleges hozzáférési pontján elérhető, azaz a szolgáltatáshoz való hozzáférés nincs egy adott hozzáférési ponthoz rendelve, azonban a szolgáltatás igénybevétele közben a hozzáférési pont nem változtatható.
 
-[^2]: Az 1/A. §-t a 170/2009. (VIII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1/A. §-t a 170/2009. (VIII. 28.) Korm. rendelet 1. §-a iktatta be.
