@@ -1,0 +1,3 @@
+A Magyar Köztársaság 2010. évi költségvetését megalapozó egyes törvények módosításáról szóló 2009. évi CIX. törvény 50. §-ának (11) bekezdése alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következő határozatot hozom:
+
+Megállapítom, hogy az Európai Bizottságnak a távhőszolgáltatás kedvezményes áfa-mértékére vonatkozó határozata meghozatalára nyitva álló, a Magyar Köztársaság 2010. évi költségvetését megalapozó egyes törvények módosításáról szóló 2009. évi CIX. törvény 50. §-a (10) bekezdésének b) pontja szerinti határidő 2010. január 15-én lejárt, és ezen időtartam alatt az Európai Bizottság nem hozott határozatot.
