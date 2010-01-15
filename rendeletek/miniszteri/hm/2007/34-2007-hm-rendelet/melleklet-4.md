@@ -14,15 +14,15 @@
 
 |  | ezredes | igazgató (V); főosztályvezető (V) | igazgató (V); főosztályvezető (V); főosztályvezető (KFH képviselő) (V) |
 
-| VI. | ezredes | igazgatóhelyettes (V), főosztályvezető-helyettes (V), osztályvezető (V) | igazgatóhelyettes (V); főosztályvezető-helyettes (V); véderő-, katonai és légügyi attasé (V), osztályvezető (V), központparancsnok (V) |
+| VI. | ezredes | igazgatóhelyettes (V), főosztályvezető-helyettes (V), osztályvezető (V) | igazgatóhelyettes (V); főosztályvezető-helyettes (V); véderő-, katonai és légügyi attasé (V), katonai és légügyi attasé (V), osztályvezető (V), központparancsnok (V) |
 
-|  | alezredes | igazgatóhelyettes (V), főosztályvezető-helyettes (V), osztályvezető (V) | véderő-, katonai és légügyi attasé, osztályvezető (V), központparancsnok (V) |
+|  | alezredes | igazgatóhelyettes (V), főosztályvezető-helyettes (V), osztályvezető (V) | véderő- katonai és légügyi attasé (V), osztályvezető (V), központparancsnok (V) |
 
-| V. | alezredes | osztályvezető-helyettes (V), kiemelt biztonsági főtiszt, kiemelt főreferens | referens, főmérnök, véderő-, katonai és légügyi attasé helyettes (V), osztályvezető-helyettes (V), központparancsnok-helyettes (V) |
+| V. | alezredes | osztályvezető-helyettes (V), kiemelt biztonsági főtiszt, kiemelt főreferens | referens, főmérnök, véderő-, katonai és légügyi attasé helyettes (V), osztályvezető-helyettes (V), központparancsnok-helyettes (V), kiemelt főtiszt |
 
 |  | őrnagy | osztályvezető-helyettes (V), alosztályvezető (V), részlegvezető (V) | alosztályvezető (V), véderő-, katonai és légügyi attasé helyettes (V), osztályvezető-helyettes (V), központparancsnok-helyettes (V); beosztott főtiszt |
 
-| IV. | őrnagy | főreferens, biztonsági főtiszt | beosztott főtiszt |
+| IV. | őrnagy | főreferens, biztonsági főtiszt | beosztott főtiszt, attasé hivatali titkár |
 
 |  | százados | biztonsági tiszt, referens | beosztott tiszt |
 
@@ -50,4 +50,6 @@
 
 | VII. | főtörzsőrmester | biztonsági tiszthelyettes | ügykezelő, kezelő, távírász, beszerző tiszthelyettes, gépjárművezető, forrásgépkezelő; beosztott tiszthelyettes |
 
-4. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez
+4. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^7]
+
+[^7]: A 4. számú melléklet az 1/2010. (I. 14.) HM rendelet 4. § (2) bekezdés e) pontja szerint módosított szöveg.

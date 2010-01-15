@@ -14,7 +14,7 @@
 
 | alezredes | ügyészségvezető-helyettes (V); Katonai Főügyészségi osztályvezető-helyettes (V); Katonai Főügyészségi, illetve fellebbviteli ügyész* |
 
-| őrnagy | Katonai főügyészségi ügyviteli irodavezető (V); Katonai főügyészségi laborvezető (V); titkár; informatikai főtiszt |
+| őrnagy | Katonai főügyészségi ügyviteli irodavezető (V); titkár; informatikai főtiszt |
 
 | százados | fogalmazó; irodavezető-helyettes (lajstromvezető) (V) |
 
@@ -56,7 +56,7 @@
 
 | főtörzsőrmester | tisztviselő (jegyzőkönyvvezető) |
 
-5. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^7]
+5. számú melléklet a 34/2007. (VIII. 17.) HM rendelethez[^8]
 
 A Honvédelmi Minisztérium Állami Egészségügyi Központ (Honvéd, Rendészeti és Vasútegészségügyi
 
@@ -110,4 +110,4 @@ B. II. BESOROLÁSI OSZTÁLY
 
 | I. | honvéd |  |  |
 
-[^7]: Az 5. számú mellékletet a 26/2008. (XII. 20.) HM rendelet 6. §-a iktatta be.
+[^8]: Az 5. számú mellékletet a 26/2008. (XII. 20.) HM rendelet 6. §-a iktatta be.

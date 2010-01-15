@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-34-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-12-28 | 2007-34-20-15.3 | 34/2007. (VIII. 17.) HM rendelet |
+| 2010-01-15 | 2007-34-20-15.4 | 26/2008. (XII. 20.) HM rendelet |
