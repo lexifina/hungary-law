@@ -24,7 +24,7 @@ e) igazságügyi orvostani vizsgálatok elvégzése
 
 teszi szükségessé.
 
-(5) Az engedélyezés során – a kérelmező által benyújtott dokumentáció, továbbá az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által felkért szakértői testület véleménye alapján – különösen figyelembe kell venni:
+(5) Az engedélyezés során – a kérelmező által benyújtott dokumentáció, továbbá az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által létrehozott állatvédelmi tanácsadó szakértői testület (a továbbiakban: szakértői testület) véleménye alapján – különösen figyelembe kell venni:
 
 a) az állatkísérlet elvégzésének indokoltságát és tudományos megalapozottságát,
 

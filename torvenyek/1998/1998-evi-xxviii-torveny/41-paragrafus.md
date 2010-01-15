@@ -14,10 +14,10 @@ c) az állatotthon működtetése nem sérti a köznyugalmat;
 
 d) az állatotthon vezetője vagy a (3) bekezdés szerinti működési szabályzatban megjelölt felelős személy szakirányú végzettséggel rendelkezik;
 
-e) a tartós működtetéshez szükséges vagyoni fedezet biztosított.
+e)
 
 (3) Az állatotthon létesítése iránti kérelemhez – a külön jogszabályban meghatározottakon túlmenően – mellékelni kell az állatotthon működési szabályzatát.
 
-(4)
+(4) A (2) bekezdésben foglaltakon túl az állatmenhely akkor létesíthető és tartható fenn, ha biztosított annak tartós működtetéshez szükséges vagyoni fedezet.
 
 (5) Az állatotthonok létesítésére vonatkozó részletes szabályokat külön jogszabály állapítja meg.

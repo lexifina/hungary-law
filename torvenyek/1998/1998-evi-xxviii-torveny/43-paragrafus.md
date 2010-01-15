@@ -1,7 +1,3 @@
-## IX. Fejezet
-
-## Állatvédelmi bírság
-
 43. § (1) Aki tevékenységével vagy mulasztásával az állatok védelmére, kíméletére vonatkozó jogszabály vagy hatósági határozat előírását megsérti, magatartásának súlyához, ismétlődéséhez igazodó mértékű állatvédelmi bírságot köteles fizetni. Állatvédelmi bírság kiszabása helyett, illetve azzal egyidejűleg az állattartót a hiányosságok kijavítására, illetve pótlására kell kötelezni.
 
 (2) Az állatvédelmi bírságot az élelmiszerlánc-felügyeleti szerv szabja ki.

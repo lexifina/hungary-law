@@ -1,6 +1,6 @@
 ## VIII. Fejezet
 
-## Az állatvédelmi feladatok pénzügyi fedezete
+## AZ ÁLLATVÉDELMI FELADATOK PÉNZÜGYI FEDEZETE, AZ ÁLLATVÉDELMI BÍRSÁG
 
 42. § (1) Az e törvény szerinti állami feladatok ellátásának, valamint az önkormányzati feladatok támogatásának állami pénzügyi forrásai:
 
