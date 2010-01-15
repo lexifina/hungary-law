@@ -18,6 +18,7 @@ d) HEFOP 2.1. a „Hátrányos helyzetű tanulók esélyegyenlőségének biztos
 
 (6) A felsőoktatásról szóló 1993. évi LXXX. törvény szerinti szakirányú továbbképzésben szerzett, a pedagógus-szakvizsga követelményeinek teljesítését igazoló oklevelet pedagógus-szakvizsgaként, az egyetemi és főiskolai szintű alapképzésben vagy szakirányú továbbképzésben megszerzett szakképzettségeket a hétévenkénti pedagógus-továbbképzésként el kell fogadni.
 
-(7) A 8/A. § (6) bekezdése szerinti adatlapot első ízben 2010. március 31-ig kell megküldeni az Oktatási Hivatal részére.
+(7)[^64] A 8/A. § (7) bekezdése szerinti adatlapot első ízben 2010. március 31-ig kell megküldeni az Oktatási Hivatal részére.
 
 [^63]: A 21. § a 93/2009. (IV. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^64]: A 21. § (7) bekezdése a 3/2010. (I. 14.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.

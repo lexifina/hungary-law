@@ -2,139 +2,9 @@
 
 ## engedélyezési eljárások
 
-## I. Rész
+## I–III. Rész[^78]
 
-## AZ ALAPÍTÁSI ENGEDÉLY
-
-## KIADÁSA ÉS VISSZAVONÁSA
-
-## 1.
-
-## a)[^76] A továbbképzési program jóváhagyásáról, az alapítási engedély kiadásáról az oktatásért felelős miniszter a Pedagógus-továbbképzési Akkreditációs Testület eljárása után dönt. A Pedagógus-továbbképzési Akkreditációs Testület javaslatát a kérelem megküldésétől számított kilencven napon belül alakítja ki.
-
-## b)[^77] A továbbképzési programot jóváhagyásra a program készítője nyújthatja be. A kérelmet az Oktatási Hivatalhoz kell benyújtani.
-
-## c) A továbbképzési program jóváhagyása iránti kérelemhez csatolni kell
-
-## – a továbbképzési programról készített szakértői véleményt,
-
-## – ha a továbbképzést nemzeti, etnikai kisebbségek óvodai nevelésében, iskolai nevelésében és oktatásában, kollégiumi nevelésben résztvevők részére kívánják indítani, az érintett országos kisebbségi önkormányzat véleményét,
-
-## – ha a továbbképzést szakmai elméleti, szakmai előkészítő tantárgyat oktató pedagógusok, gyakorlati képzést végző pedagógusok részére kívánják indítani, a szakképesítésért felelős miniszter által irányított minisztérium szakvéleményét,
-
-## – az eljárási díj befizetésének igazolását.
-
-## d)[^78] Ha a továbbképzés ismeretanyaga kötődik valamely valláshoz, világnézethez, e ténynek a továbbképzési programból ki kell derülnie.
-
-## e) Ha a továbbképzést távoktatási formában szervezik meg, a foglalkozási órák számítását a követelmények elsajátításához szükséges felkészülési idő, illetőleg a követelmények elsajátítását igazoló feladatok elkészítéséhez tervezett órák alapján kell számítani.
-
-## 2.
-
-## A Pedagógus-továbbképzés Akkreditációs Testület javaslatának meghozatala előtt szakértői véleményt szerez be. A szakértők foglalkoztatásának költségeit az eljárási díjból kell fedezni.
-
-## 3.
-
-## a) A Pedagógus-továbbképzési Akkreditációs Testület valamennyi továbbképzési program jóváhagyására és az alapítási engedély kiadására irányuló kérelmet – támogató vagy elutasító – javaslatával együtt megküldi az oktatási miniszter részére.
-
-## b) A Pedagógus-továbbképzési Akkreditációs Testület feltételhez kötheti a továbbképzési program jóváhagyására és az alapítási engedély kiadására vonatkozó javaslatának megadását. A feltételek teljesítésére vonatkozó felhívást meg kell indokolni, és a teljesítéshez határidőt kell biztosítani. A határidő kérelemre meghosszabbítható. E határidővel az 1. pont a) alpontban meghatározott határidő meghosszabbodik. Ha a javasolt változtatások végrehajtását vállalják, annak teljesítése után – újabb kérelem benyújtása nélkül – a továbbképzési programot a Pedagógus-továbbképzési Akkreditációs Testület elbírálja.
-
-## c)[^79] A Pedagógus-továbbképzési Akkreditációs Testület elutasító javaslatáról az Oktatási és Kulturális Minisztérium harminc napon belül értesíti a kérelem benyújtóját. A kérelem benyújtója a szakvéleményeket a Pedagógus-továbbképzési Akkreditációs Testület javaslatát megismerheti, illetve kérésére azok másolatát részére ki kell adni. A kérelem benyújtója a Pedagógus-továbbképzési Akkreditációs Testület javaslatára és a szakvéleményekre tizenöt napon belül észrevételt tehet, amelyet meg kell küldeni az Oktatási és Kulturális Minisztériumnak.
-
-## d) A továbbképzési program jóváhagyása – ha az egyébként megfelel az e rendeletben foglaltaknak – nem utasítható el azon az alapon, hogy világnézetileg elkötelezett ismereteket tartalmaz.
-
-## 4.[^80]
-
-## A Pedagógus-továbbképzési Akkreditációs Testületnek a kérelem elutasítását kell javasolnia az oktatásért felelős miniszternek, ha megállapítja, hogy
-
-## – a továbbképzési program követelményeinek teljesítéséhez nincs szükség legalább harminc foglalkozási órára,
-
-## – a továbbképzési program nem felel meg a tartalmi követelményeknek, és kiegészítését, kijavítását a kérelem benyújtója nem vállalta, illetve nem hajtotta végre.
-
-## 5.[^81]
-
-## Ha a továbbképzési program szakmai elméleti, szakmai előkészítő tantárgyakat oktató pedagógusok, gyakorlati képzést végző pedagógusok továbbképzése céljából készült, a továbbképzési program engedélyezéséről, az alapítási engedély megadásáról az oktatásért felelős miniszter a szakképesítésért felelős miniszterrel egyetértésben dönt.
-
-## 6.
-
-## Ha a továbbképzési program teljes egészében a szakvizsgára történő felkészítés oktatási és tanulmányi követelményeire épül, és a továbbképzés követelményeinek teljesítését a kidolgozó felsőoktatási intézmény beszámítja a szakvizsgára történő felkészülésbe, a kérelemhez a következőket kell csatolni:
-
-## – a továbbképzési programot,
-
-## – a felsőoktatási intézménynek a szakvizsgára történő felkészítésre vonatkozó oktatási és tanulmányi követelményét,
-
-## – a felsőoktatási intézmény nyilatkozatát arról, hogy milyen ismereteket számít be a szakvizsgára történő felkészítésbe,
-
-## – ha a továbbképzési programot nem az a felsőoktatási intézmény nyújtja be, amely a program alapjául szolgáló oktatási és tanulmányi követelményt készítette, a felsőoktatási intézménnyel kötött megállapodást,
-
-## – az eljárási díj befizetésének igazolását.
-
-## 7.[^82]
-
-## II. Rész
-
-## AZ INDÍTÁSI ENGEDÉLY KIADÁSA
-
-## ÉS VISSZAVONÁSA
-
-## 1.
-
-## a)[^83] Az indítási engedély kiadását a továbbképzés szervezője kérheti. A kérelmet az Oktatási Hivatalhoz kell benyújtani.
-
-## b) Az engedélyezési eljárásban azt kell vizsgálni, biztosítottak-e a továbbképzés megszervezéséhez és lebonyolításához szükséges személyi és tárgyi feltételek.
-
-## c) A kérelemnek a következőket kell tartalmaznia:
-
-## – a továbbképzés szervezőjének nevét, székhelyét, a továbbképzésért felelős nevét, címét,
-
-## – az indítani kívánt továbbképzés megnevezését, alapítási engedélyének számát,
-
-## – a továbbképzésben foglalkozási órákat tartók iskolai végzettségének, képesítésének, szakképesítésének jegyzékét,
-
-## – a rendelkezésre álló alapvető tárgyi feltételek (helyiségek, gyakorlóhelyek, eszközök, szolgáltatások stb.) jegyzékét,
-
-## – az oktatás formáját (tanfolyami, távoktatás),
-
-## – azokat az intézkedéseket, amelyekkel az oktatás szervezője az oktatás megfelelő színvonalát ellenőrzi, biztosítja.
-
-## d)[^84] A kérelemhez csatolni kell
-
-## – annak igazolását, hogy az oktatás szervezője jogosult a tevékenység folytatására,
-
-## – annak igazolását, hogy a továbbképzési program felhasználási jogával rendelkezik a továbbképzés szervezője,
-
-## –[^85] annak igazolását, hogy a kérelmező a felnőttképzést folytató intézmények nyilvántartásában szerepel,
-
-## – a továbbképzés szervezőjének nyilatkozatát arról, hogy minden helyszínen garantálja a továbbképzési programban szereplő tárgyi és személyi feltételeket,
-
-## – a továbbképzés szervezőjének kötelezettségvállalását arra, hogy minden továbbképzésre jelentkezővel írásban közli a továbbképzés feltételeire vonatkozó információkat, így különösen azt, ha a továbbképzés ismeretanyaga kötődik valamely valláshoz, világnézethez,
-
-## – a továbbképzésen való részvételről kiállított igazolás mintáját,
-
-## – az eljárási díj befizetésének igazolását.
-
-## 2.[^86]
-
-## Az indítási engedély kiadásáról az oktatásért felelős miniszter az Oktatási Hivatal javaslata alapján és a szakmai elméleti és szakmai előkészítő tantárgyakat oktató pedagógusok, gyakorlati képzést végző pedagógusok továbbképzése esetén a szakképesítésért felelős miniszterrel egyetértésben dönt.
-
-## 3.
-
-## El kell utasítani a kérelmet, ha nem tartalmazza az 1. pont c)–d) alpontjában foglaltakat, és kiegészítését a továbbképzés szervezője nem vállalta, illetve nem hajtotta végre.
-
-## 4.[^87]
-
-## III. Rész
-
-## AZ ENGEDÉLYEZÉSI ELJÁRÁSOKRA VONATKOZÓ KÖZÖS SZABÁLYOK
-
-## Nem működhet közre az alapítási engedély, illetve az indítási engedély kiadásával összefüggő eljárásban az, aki az engedély kiadásában érdekelt, így különösen
-
-## a) a továbbképzési program készítője, közeli hozzátartozója [Ptk. 685. § b) pont],
-
-## b) a továbbképzés szervezője, képviselője,
-
-## c) az, aki a továbbképzés szervezőjével munkaviszonyban, közalkalmazotti jogviszonyban áll.
-
-## IV. Rész[^88]
+## IV. Rész[^79]
 
 ## A) BÍRÁLATI SZEMPONTOK
 
@@ -870,19 +740,8 @@
 
 ## A programalapító számára a bemutatott eljárás megvalósulása esetén biztosított a visszacsatolás beépítése a programfejlesztésbe, bárki legyen is a program megvalósítója.
 
-2. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^89]
+2. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^80]
 
-[^76]: Az 1. számú melléklet I. Rész 1. pont a) alpontja a 93/2009. (IV. 24.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^77]: Az 1. számú melléklet I. rész 1. pontja b) alpontjának második mondata a 229/2007. (VIII. 31.) Korm. rendelet 21. § (5) bekezdésének i) pontja szerint módosított szöveg.
-[^78]: Az 1. számú melléklet I. Rész 1. pontjának d) alpontját a 273/2000. (XII. 27.) Korm. rendelet 3. §-ának (3) bekezdése iktatta a szövegbe, s egyidejűleg az eredeti d) alpont jelölését e) pontra változtatta.
-[^79]: Az 1. számú melléklet I. részének 3. pontjának c) alpontja a 229/2007. (VIII. 31.) Korm. rendelet 21. § (5) bekezdésének e) és j) pontja szerint módosított szöveg.
-[^80]: Az 1. számú melléklet I. rész 4. pontja a 93/2009. (IV. 24.) Korm. rendelet 14. § (4) bekezdése szerint módosított szöveg.
-[^81]: Az 1. számú melléklet I. rész 5. pontja a 93/2009. (IV. 24.) Korm. rendelet 14. § (5) bekezdése szerint módosított szöveg.
-[^82]: Az 1. számú melléklet I. Rész 7. pontját a 93/2009. (IV. 24.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
-[^83]: Az 1. számú melléklet II. rész 1. pontja a) alpontjának második mondata a 229/2007. (VIII. 31.) Korm. rendelet 21. § (5) bekezdésének i) pontja szerint módosított szöveg.
-[^84]: Az 1. számú melléklet II. Rész 1. pontjának d) alpontja a 273/2000. (XII. 27.) Korm. rendelet 3. §-ának (5) bekezdésével megállapított szöveg.
-[^85]: Az 1. számú melléklet II. rész 1. d) pontjának harmadik gondolatjeles szövegrészét a 36/2003. (III. 27.) Korm. rendelet 2. §-a iktatta a szövegbe.
-[^86]: Az 1. számú melléklet II. Rész 2. pontja a 93/2009. (IV. 24.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^87]: Az 1. számú melléklet II. Rész 4. pontját a 93/2009. (IV. 24.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
-[^88]: Az 1. számú melléklet IV. Része a 93/2009. (IV. 24.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^89]: A 2. számú melléklet a 93/2009. (IV. 24.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg.
+[^78]: Az 1. számú melléklet I–III. Részét a 3/2010. (I. 14.) Korm. rendelet 12. § (3) bekezdése hatályon kívül helyezte.
+[^79]: Az 1. számú melléklet IV. Része a 93/2009. (IV. 24.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^80]: A 2. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 10. §-ával megállapított szöveg.
