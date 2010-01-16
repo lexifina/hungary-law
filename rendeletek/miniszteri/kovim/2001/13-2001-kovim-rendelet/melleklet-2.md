@@ -1,4 +1,4 @@
-2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^36]
+2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^48]
 
 Az 1., 2., 3. és 4. zónába sorolt belvízi utakon
 
@@ -124,7 +124,7 @@ Az úszólétesítmények különleges terei
 
 51. Biztonsági terület – a hajótest középsíkjától párhuzamosan 1/5 BWL távolságra, a legnagyobb merülés síkjában futó, kívülről függőleges felülettel határolt tér;
 
-52. Gyülekezőhelyek – a hajó különlegesen védett területei, ahol az utasok veszély esetén gyülekeznek;
+52. Gyülekezőhelyek: a hajó különlegesen védett területei, ahol az utasok veszély esetén gyülekeznek;
 
 53. Evakuálási területek – a munkavégzési terület azon része, ahonnan a személyek evakuálását el lehet végezni;
 
@@ -174,7 +174,9 @@ Hajóműszaki fogalmak
 
 75. Oldalmagasság – a hajótest legalsó pontja vagy a gerinc és a fedélzet legalsó pontja között a hajó oldalán mért legrövidebb függőleges távolság, m;
 
-76. Merülés (T) – a hajótest legalsó pontja vagy a gerinc és a legnagyobb merülés síkja között mért függőleges távolság, m;
+76. Merülés (T): a hajótest legalsó pontja (a gerinc és a rögzített szerelvények figyelembevétele nélkül) és a legnagyobb merülési vonal között mért függőleges távolság méterben;
+
+76a. Teljes merülés (TOA): a hajótest legalsó pontja (a gerinc és a rögzített szerelvények figyelembevételével) és a legnagyobb merülési vonal között mért függőleges távolság méterben;
 
 77. Mellső függély – a hajótest és a legnagyobb merülés síkjának mellső metszéspontján keresztül húzott függőleges vonal;
 
@@ -223,6 +225,10 @@ A szerkezeti elemek és anyagok jellemzői
 Egyéb fogalmak
 
 97. Elismert hajóosztályozó társaság – az Európai Bizottság által elismert hajóosztályozó társaság;
+
+97a. Navigációs fények: a navigációs lámpák fénye, amely a úszólétesítmény azonosítására szolgál;
+
+97b. Jelzőfények: a vizuális vagy hangjelzések kíséretében megjelenő fények;
 
 98. Radarberendezés – a környezetet és a forgalmat érzékelő és megjelenítő elektronikus navigációs segédeszköz;
 
@@ -276,7 +282,7 @@ terjed ki.
 
 Hajóbizonyítvány
 
-Nem magyar lobogó alatt a Magyar Köztársaság területén közlekedő úszólétesítménynek rendelkeznie kell közösségi, dunai vagy rajnai hajóbizonyítvánnyal, illetve a lobogó szerinti illetékes hajózási hatóság által kiállított és érvényes, a Magyar Köztársaság által elismert hajóokmánnyal (az elismerésre vonatkozó szabályt nem kell alkalmazni az olyan lobogó alatt közlekedő úszólétesítményekre, amelyek nemzetközi szerződés alapján a nemzeti elbánás szabályai alá tartoznak).
+Nem magyar lobogó alatt a Magyar Köztársaság területén közlekedő úszólétesítménynek rendelkeznie kell közösségi, dunai vagy rajnai hajóbizonyítvánnyal, illetve a lobogó szerinti hajózási hatóság által kiállított, a Magyar Köztársaság által elismert hatályos hajóokmánnyal (az elismerésre vonatkozó szabályt nem kell alkalmazni az olyan lobogó alatt közlekedő úszólétesítményekre, amelyek nemzetközi szerződés alapján a nemzeti elbánás szabályai alá tartoznak).
 
 1.04 cikk
 
@@ -298,9 +304,9 @@ A Szemleszabályzat előírásait a rendelet átmeneti rendelkezései és a 24. 
 
 1.07 cikk
 
-Irányelvek a szemlebizottságok részére
+Utasítások a szemlebizottság részére
 
-A szemlebizottságok részére az irányelveket az NKH Központi Hivatala adja ki.
+A hajózási hatósági szemlék végrehajtásának egységes közösségi gyakorlata érdekében elfogadott utasításokat a 2. melléklet 2. függeléke tartalmazza.”
 
 2. Fejezet
 
@@ -326,7 +332,7 @@ Szemlebizottság
 
 Szemlekérelem
 
-1. Az úszólétesítmény tulajdonosának vagy meghatalmazottjának, aki szemlét kíván kérelmezni, a választása szerinti – hatáskörrel és illetékességgel rendelkező – szemlebizottságot kijelölő hatósághoz a 8. melléklet függeléke szerinti kérelmet kell benyújtani. A kijelölt szemlebizottság határozza meg azokat a dokumentumokat, amelyeket részére be kell terjeszteni.
+1. Az úszólétesítmény tulajdonosának, aki az üzembe helyezéshez szükséges, valamint az időszakos megfelelőséget tanúsító bizonyítvány kiadását kívánja kérelmezni, a választása szerinti – hatáskörrel, és illetékességgel rendelkező – szemlebizottságot kijelölő hatósághoz a 8. melléklet függeléke szerinti adattartalmú kérelmet kell benyújtani. A kijelölt szemlebizottság határozza meg azokat a dokumentumokat, amelyeket részére be kell terjeszteni.
 
 2. Olyan úszólétesítményre, amelyre a Szemleszabályzat hatálya nem terjed ki, a tulajdonos vagy megbízottja kérelmezheti hajóokmány kiadását. A kérelemnek helyt kell adni, amennyiben az úszólétesítmény az e szabályzatban foglaltaknak eleget tesz.
 
@@ -334,9 +340,9 @@ Szemlekérelem
 
 Az úszólétesítmény kiállítása szemlére
 
-1. A tulajdonosnak vagy megbízottjának az úszólétesítményt üresen, tisztán és felszerelve kell szemlére – beleértve a köbözést is – kiállítania. A szemle során meg kell adnia a szükséges segítséget, például egy megfelelő csónakot és személyzetet kell rendelkezésre bocsátania, továbbá szabaddá kell tennie a hajótest vagy a berendezések olyan részeit, amelyek közvetlenül nem hozzáférhetők vagy nem láthatók.
+1. A tulajdonosnak az úszólétesítményt üresen, tisztán és felszerelve kell szemlére – beleértve a köbözést is – kiállítania. A szemle során meg kell adnia a szükséges segítséget, például egy megfelelő csónakot és személyzetet kell rendelkezésre bocsátania, továbbá szabaddá kell tennie a hajótest vagy a berendezések olyan részeit, amelyek közvetlenül nem hozzáférhetők vagy nem láthatók.
 
-2. A szemlebizottságnak az úszólétesítmény első szemléje során azt a parton kell megszemlélnie. A parti szemle elhagyható, amennyiben osztályozási bizonyítvány vagy egy elismert hajóosztályozó társaság bizonylata, amely szerint az építés ennek a társaságnak az előírásai szerint történt, bemutatásra kerül, illetve ha egy olyan bizonyítványt mutatnak be, amely igazolja, hogy a parton végzett szemlét egy másik illetékes hatóság már elvégezte más célból. Időszakos vagy rendkívüli vizsgálatnál a szemlebizottság parti szemlét rendelhet el. A szemlebizottságnak a géphajók és a kötelékben való továbbításra szolgáló úszólétesítmények első vizsgálatánál, továbbá a hajtó berendezés vagy a kormányberendezés jelentős változtatásánál próbauta(ka)t kell végeztetnie.
+2. A szemlebizottságnak az úszólétesítmény első szemléje során azt a parton kell megszemlélnie. A parti szemle elhagyható, amennyiben osztályozási bizonyítvány vagy egy elismert hajóosztályozó társaság bizonylata, amely szerint az építés ennek a társaságnak az előírásai szerint történt, bemutatásra kerül, illetve ha egy olyan bizonyítványt mutatnak be, amely igazolja, hogy a parton végzett szemlét egy másik hatóság már elvégezte más célból. Időszakos vagy rendkívüli vizsgálatnál a szemlebizottság parti szemlét rendelhet el. A szemlebizottságnak a géphajók és a kötelékben való továbbításra szolgáló úszólétesítmények első vizsgálatánál, továbbá a hajtó berendezés vagy a kormányberendezés jelentős változtatásánál próbauta(ka)t kell végeztetnie.
 
 3. A szemlebizottság pótlólagos szemlé(ke)t és próbauta(ka)t vagy további vizsgálatokat rendelhet el. Ugyanez érvényes az építés során.
 
@@ -370,7 +376,7 @@ Ideiglenes közösségi hajóbizonyítvány
 
 (g) úszólétesítményeknek, amelyek részére a szemlebizottság a 2.19 cikk 2. pontja szerinti egyenértékűséget azokra az esetekre hagyja jóvá, amelyekre az NKH Központi Hivatala még nem adott ki ajánlást.
 
-2. Az ideiglenes közösségi hajóbizonyítvány az 5. mellékletben foglalt minta szerint kerül kiállításra, amennyiben az úszólétesítmény menetképessége megfelelően biztosítottnak fogadható el. Ez a bizonyítvány tartalmazza a szemlebizottság által szükségesnek tartott feltételeket és érvényes
+2. Az ideiglenes közösségi hajóbizonyítvány az 5. mellékletben foglalt minta szerint kerül kiállításra, amennyiben az úszólétesítmény menetképessége megfelelően biztosítottnak fogadható el. Ez a bizonyítvány tartalmazza a szemlebizottság által szükségesnek tartott feltételeket és hatályos
 
 (a) az 1. pont (a), (d)-(f) alpontig felsorolt esetekben egy egyszeri, meghatározott útra, egy méltányos időn belül, de legfeljebb egy hónapig,
 
@@ -380,25 +386,25 @@ Ideiglenes közösségi hajóbizonyítvány
 
 2.06 cikk
 
-A közösségi hajóbizonyítvány érvényességének tartama
+A közösségi hajóbizonyítvány időbeli hatálya
 
 1. Új úszólétesítményre kiállított bizonyítvány
 
-(a) kompnál két évig,
+(a) kompnál két évig,
 
-(b) személyhajónál, valamint a kereskedelmi szolgáltató úszóműnél öt évig,
+(b) személyhajónál, valamint a kereskedelmi szolgáltató úszóműnél öt évig,
 
-(c) minden egyéb úszólétesítménynél tíz évig
+(c) minden egyéb úszólétesítménynél tíz évig
 
-érvényes.
+hatályos.
 
-2. Meglévő úszólétesítmény bizonyítványának érvényességi idejét a szemle eredményétől függően a hajózási hatóság állapítja meg, azonban az nem haladhatja meg az 1. pontban megállapított időtartamot.
+2. Meglévő úszólétesítmény bizonyítványának időbeli hatályát a szemle eredményétől függően a hajózási hatóság állapítja meg, azonban az nem haladhatja meg az 1. pontban megállapított időtartamot.
 
 2.07 cikk
 
 Bejegyzések és módosítások a közösségi hajóbizonyítványban
 
-1. Az úszólétesítmény névváltozását, a tulajdonosváltozást, valamint a köbözési adatokban, az európai hajóazonosító számban, a lajstromozási vagy anyakikötőben történt változást a tulajdonos vagy megbízottja a változás bejegyzése céljából köteles bejelenteni az illetékes hajózási hatóságnak.
+1. Az úszólétesítmény tulajdonosa vagy annak képviselője a hatóság tudomására hoz minden, a hajó nevében vagy tulajdonjogában bekövetkezett változást, újabb köbözési eredményt, a bejegyzésben vagy honi kikötőben történt változást, és a közösségi bizonyítványt az említett hatósághoz elküldi módosításra.
 
 2. A közösségi hajóbizonyítványba minden bejegyzést vagy annak módosításait, amelyeket ez a rendelet, a Hajózási Szabályzat vagy egyéb rendelkezések írnak elő, bármelyik illetékes szemlebizottság elvégezheti.
 
@@ -410,21 +416,21 @@ Rendkívüli szemle
 
 1. Minden olyan jelentős változtatás vagy felújítás után, amely a szerkezeti szilárdságot, a menet- vagy műveletezési tulajdonságokat vagy az úszólétesítmény különleges jellemzőit befolyásolja, az újbóli forgalomba állítás előtt az úszólétesítményt rendkívüli szemlére kell kiállítani valamely illetékes szemlebizottság elé.
 
-2. A szemlebizottság, amelyik a rendkívüli szemlét végezte, ennek a szemlének az eredménye szerint határozza meg a közösségi hajóbizonyítvány érvényességének tartamát. Ez azonban nem lépheti túl a meglevő közösségi hajóbizonyítvány érvényességének tartamát. Az érvényesség időtartamát a szemlebizottság bejegyzi a közösségi hajóbizonyítványba és tudomására kell hoznia annak a szemlebizottságnak, amelyik a bizonyítványt kiállította.
+2. A szemlebizottság, amelyik a rendkívüli szemlét végezte, ennek a szemlének az eredménye szerint határozza meg a közösségi hajóbizonyítvány időbeli hatályát. Ez azonban nem lépheti túl a meglevő közösségi hajóbizonyítvány időbeli hatályát. Az időbeli hatályát a szemlebizottság bejegyzi a közösségi hajóbizonyítványba, és tudomására kell hoznia annak a szemlebizottságnak, amelyik a bizonyítványt kiállította.
 
 2.09 cikk
 
 Időszakos szemle
 
-1. A közösségi hajóbizonyítvány érvényességének lejárta előtt az úszólétesítményt szemlének kell alávetni.
+1. A közösségi hajóbizonyítvány hatályának lejárta előtt az úszólétesítményt szemlének kell alávetni.
 
-2. Kivételesen a tulajdonosnak vagy megbízottjának megalapozott kérelme alapján a szemlebizottság szemle nélkül meghosszabbíthatja a közösségi hajóbizonyítvány érvényességének tartamát legfeljebb hat hónappal. A meghosszabbításról kiállított dokumentumot az úszólétesítményen kell tartani.
+2. Kivételesen a tulajdonos megalapozott kérelme alapján a szemlebizottság szemle nélkül meghosszabbíthatja a közösségi hajóbizonyítvány időbeli hatályát legfeljebb hat hónappal. A meghosszabbításról kiállított dokumentumot az úszólétesítményen kell tartani.
 
-3. A szemlebizottság, amelyik az időszakos szemlét végrehajtotta, e szemle eredményétől függően határozza meg a közösségi hajóbizonyítvány új érvényességi tartamát a 2.06 cikk rendelkezéseit nem érintve.
+3. A szemlebizottság, amelyik az időszakos szemlét végrehajtotta, e szemle eredményétől függően határozza meg a közösségi hajóbizonyítvány új időbeli hatályát a 2.06. cikk rendelkezéseit nem érintve.
 
-4. Az érvényesség időtartamát a szemlebizottság bejegyzi a közösségi hajóbizonyítványba és ezt tudomására kell hoznia annak a szemlebizottságnak, amelyik a bizonyítványt kiállította.
+4. Az időbeli hatályát a szemlebizottság bejegyzi a közösségi hajóbizonyítványba, és ezt tudomására kell hoznia annak a szemlebizottságnak, amelyik a bizonyítványt kiállította.
 
-5. Amennyiben a közösségi hajóbizonyítvány érvényességi tartamának meghosszabbítása helyett a közösségi hajóbizonyítványt egy újjal pótolják, akkor a régi bizonyítványt vissza kell adni annak a szemlebizottságnak, amelyik azt kiállította. A közösségi hajóbizonyítványt a szemlebizottságot megbízó hajózási hatóság – jogszabályban előírt ideig – megőrzi.
+5. Amennyiben a közösségi hajóbizonyítvány időbeli hatályának meghosszabbítása helyett a közösségi hajóbizonyítványt egy újjal pótolják, akkor a régi bizonyítványt vissza kell adni annak a szemlebizottságnak, amelyik azt kiállította. A közösségi hajóbizonyítványt a szemlebizottságot megbízó hajózási hatóság – jogszabályban előírt ideig – megőrzi.
 
 2.10 cikk
 
@@ -466,7 +472,7 @@ Másolat, másodlat kiadása
 
 Költségek
 
-1. A 2.11 cikk 2. pontjának sérelme nélkül az úszólétesítmény tulajdonosa vagy annak képviselője viseli a szemlével és a közösségi hajóbizonyítvány kiadásával kapcsolatos költségeket a hajózási hatósági eljárási díjakról rendelkező külön jogszabály szerint. Nem tehető megkülönböztetés a lajstromozó országra, a tulajdonos állampolgárságára vagy a lakóhelyére való tekintettel.
+1. A 2.11. cikk 2. pontjának sérelme nélkül az úszólétesítmény tulajdonosa viseli a szemlével és a közösségi hajóbizonyítvány kiadásával kapcsolatos költségeket a hajózási hatósági eljárási díjakról rendelkező külön jogszabály szerint. Nem tehető megkülönböztetés a lajstromozó országra, a tulajdonos állampolgárságára vagy a lakóhelyére való tekintettel.
 
 2. A szemlebizottság a szemle lefolytatása előtt – hajózási hatósági eljárási díjakról rendelkező külön jogszabály szerint – megkövetelheti az előre látható díj és költségek mértékéig terjedő előleg befizetését.
 
@@ -502,7 +508,7 @@ Az olyan országból származó úszólétesítménynél, amelyekben nem lehet e
 
 4. Az európai hajóazonosító szám kiadását az illetékes hatóságtól az úszólétesítmény tulajdonosa vagy annak képviselője kérelmezi. Az úszólétesítmény tulajdonosa vagy annak képviselője felel azért is, hogy az úszólétesítményen az európai hajóazonosító szám fel legyen tüntetve.
 
-5. Az Európai Bizottságot az európai hajóazonosító szám kiadásáért felelős hatóság kijelöléséről a közlekedésért felelős miniszter által vezetett minisztérium értesíti.
+5. Az Európai Bizottságot az európai hajóazonosító szám kiadásáért felelős hatóság kijelöléséről a közlekedésért felelős miniszter értesíti.
 
 6. A hajózási hatóság megtesz minden ahhoz szükséges intézkedést, hogy az európai hajóazonosító szám kiadásáért felelős hatóságoknak az Európai Bizottság által vezetett nyilvántartásban felsorolt valamennyi hatóságot az általa kiadott európai hajóazonosító számokról, valamint az úszólétesítmények azonosítására szolgáló, a 3. függelékben foglalt adatokról tájékoztassa. Ezek az adatok a hajózás biztonságának fenntartására és megkönnyítésére, valamint e melléklet 2.02–2.15 cikkének, továbbá 8., 10., 11., 12., 16. és 17. fejezetének végrehatására szolgáló közigazgatási intézkedések megtétele érdekében a tagállamok, a rajnai hajózásról szóló Mannheimi Egyezményben részes államok, valamint – közigazgatási megállapodás alapján a magánélet azonos szintű védelmét garantáló harmadik országok – illetékes hatóságai részére tehetők hozzáférhetővé.
 
@@ -1112,7 +1118,7 @@ vonatkozó különleges követelmények
 
 2. Minden főgéphez csak egyetlen vezérlőkart lehet alkalmazni a gép vezérlésére. A vezérlőkar a hajó hossztengelyével közel párhuzamos függőleges síkban köríven legyen mozgatható. A vezérlőkar hajóorr irányában történő mozgatása az előremenetet, a hajófar felé történő mozgatása a hátramenetet idézze elő. A vezérlőkar nulla helyzetéhez közeli állásában történjen a főgép tengelykapcsolójának működtetése vagy átkormányzása. A vezérlőkar a nulla helyzetben érezhetően akadjon meg.
 
-3. Egyszemélyes radarhajózásra kialakított kormányállásoknál propeller(ek) tolóerő irányát, valamint a propeller(ek) vagy a főgép(ek) fordulatszámát ki kell jelezni.
+3. A kijelzőn tájékoztatást kell adni a hajóra gyakorolt tolóerő irányáról, valamint a hajócsavar vagy a főmotor fordulatszámáról.
 
 4. A 6.07 cikk 2. pont, a 8.03 cikk 2. pont és a 8.05 cikk 11. pont szerinti kijelzéseket és ellenőrző műszereket a kormányállás vezérlőpultban kell elhelyezni.
 
@@ -1124,7 +1130,9 @@ vonatkozó különleges követelmények
 
 8. A teljes kormányberendezés távvezérlő berendezéseit szilárdan be kell építeni és úgy kell elrendezni, hogy a választott haladási irány egyértelműen érzékelhető legyen. Ha a távvezérlő berendezések kikapcsolhatók, akkor ezeket olyan jelzőberendezéssel kell ellátni, amely az éppen érvényes „Be” vagy „Ki” helyzetet mutatja. A kezelőszervek elrendezését és működtetését a funkciónak megfelelően kell megvalósítani. A kiegészítő berendezések, mint például az orrsugárkormányok részére nem szilárdan beépített távvezérlő berendezések akkor engedhetők meg, ha a kormányállásban egy elsőbbségi kapcsolóval a kiegészítő berendezés működtetése bármikor átvehető.
 
-9. Kormánypropellereknél, vízsugár-hajtásoknál, cikloidál propellereknél és orrsugár kormányoknál egyenértékű kezelő, kijelző és ellenőrző berendezések engedhetők meg. Az 1-8. pont alatti követelményeket értelemszerűen és a fent nevezett aktív kormány- és propulziós berendezések különleges tulajdonságainak, választott elrendezésének figyelembevételével kell teljesíteni. A kijelzés alapján mindegyik berendezés helyzetének megfelelően felismerhető legyen a hajóra ható tolóerő vagy a vízsugár iránya.
+9. Kormánypropeller, vízsugár-hajtás, cikloidál propeller és orrsugár kormány üzemeltetéséhez egyenértékű kezelő, kijelző és ellenőrző berendezések engedhetők meg. Az 1–8. pontban előírt követelmények értelemszerűen vonatkoznak a fent említett aktív kormányberendezésekkel és hajtó rendszerekkel kapcsolatban kiválasztott külön jellemzőkre és intézkedésekre. A 2. pont mintájára minden berendezésnek szabályozhatónak kell lennie egy karral, amely ív alakban mozgatható egy függőleges sík mentén, amely sík hozzávetőlegesen párhuzamos a berendezés tolóerejének irányával. A kar helyzete alapján a hajóra ható tolóerő irányának egyértelműnek kell lennie.
+
+Ha a kormánypropeller vagy a cikloid propeller rendszert nem fogantyúkkal működtetik, a szemlebizottság engedélyezheti a 2. ponttól való eltérést. Ezeket a kivételeket a közösségi bizonyítvány 52. rovatába be kell jegyezni.
 
 7.05 cikk
 
@@ -1453,6 +1461,158 @@ Hajók által keltett zaj
 2. A hajók menetzaja a hajó oldalától mért 25 m-es távolságban nem lépheti túl a 75 dB(A) értéket.
 
 3. Veszteglő hajóknál – az átrakást kivéve – a hajó oldalától mért 25 m-es távolságban a zaj nem lépheti túl a 65 dB(A) értéket.
+
+8a. FEJEZET
+
+DÍZELMOTOROK GÁZ- ÉS SZILÁRD HALMAZÁLLAPOTÚ SZENNYEZŐANYAG-KIBOCSÁTÁSA
+
+8a.01. cikk
+
+Fogalommeghatározások
+
+Ebben a fejezetben:
+
+1. motor: a kompressziós gyújtás elve alapján működő motor (dízelmotor);
+
+1a. főmotor: a nem közúti mozgó gépekbe és berendezésekbe szánt belső égésű motorok gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátása elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1997. december 16-i európai parlamenti és a tanácsi irányelv (a továbbiakban: 97/68/EK irányelv) 2. cikkének meghatározása szerint belvízi hajó meghajtására szolgáló motor;
+
+1b. segédmotor: a hajó meghajtásától eltérő célú alkalmazáshoz használt motor;
+
+1c. cseremotor: használt vagy felújított motor, amely az üzemeltetésben lévő motor helyettesítésére szolgál, és amelynek konstrukciója (soros motor, V-motor) megegyezik a helyettesítendő motor konstrukciójával, hengereinek száma azonos, leadott teljesítménye és fordulatszáma legfeljebb 10%-kal tér el a helyettesítendő motor teljesítményétől és fordulatszámától;
+
+2. típusjóváhagyás: a módosított 97/68/EK irányelv 2. cikkének második francia bekezdése szerinti olyan eljárás, amelynek során egy tagállam tanúsítja, hogy egy motortípus vagy egy motorcsalád a motor(ok) által kibocsátott gáz-halmazállapotú szennyező anyagok és légszennyező részecskék tekintetében teljesíti az ezen irányelvben meghatározott vonatkozó műszaki követelményeket;
+
+3. beépítési vizsgálat: az eljárás, amelynek keretében az illetékes hatóság meggyőződik arról, hogy az úszólétesítménybe beépített motor a típusjóváhagyás kiadását követő időszak folyamán végrehajtott gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátást érintő módosítás vagy szabályozás mellett az ebben a fejezetben meghatározott műszaki követelményeiknek megfelel;
+
+4. közbenső vizsgálat: az eljárás, amelynek keretében az illetékes hatóság meggyőződik arról, hogy az úszólétesítménybe beépített motor az beépítési vizsgálat végrehajtását követő időszak folyamán végrehajtott gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátást érintő módosítás vagy szabályozás mellett az ebben a fejezetben meghatározott műszaki követelményeiknek megfelel;
+
+5. egyedi vizsgálat: az eljárás, amelynek keretében az illetékes hatóság meggyőződik arról, hogy az úszólétesítménybe beépített motor a vizsgálatok közötti időszakban végrehajtott gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátást érintő módosítás vagy szabályozás mellett az ebben a fejezetben meghatározott műszaki követelményeiknek megfelel;
+
+6. (Üres);
+
+7. motorcsalád: a módosított 97/68/EK irányelv 2. cikke negyedik francia bekezdésének meghatározása szerint a gyártó által csoportosított motorok, amelyek kialakításuk következtében várhatóan hasonló gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási tulajdonságokkal bírnak, és amelyek teljesítik a 8a.03. cikkben szereplő szabályok követelményeit;
+
+8. (Üres);
+
+9. (Üres);
+
+10. (Üres);
+
+11. gyártó: a módosított 97/68/EK irányelv 2. cikkében szereplő meghatározás szerint az a személy vagy szervezet, aki vagy amely a jóváhagyó hatósággal szemben minden szempontból felelős a típus-jóváhagyási eljárásért és a gyártás-megfelelőség biztosításáért. Nem szükségszerű, hogy a személy vagy szervezet közvetlenül részt vegyen a motor gyártásának minden szakaszában;
+
+12. (Üres);
+
+13. (Üres);
+
+14. (Üres);
+
+15. (Üres);
+
+16. motorparaméter-jegyzőkönyv: e melléklet V. függelékében meghatározott dokumentum, amely megfelelő módon tartalmazza az összes olyan paramétert, ezeknek változtatásait, valamint az összes olyan alkatrészt és motorbeállítást, amely befolyásolja a motor gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátását;
+
+17. a motor gyártójának utasításai a kipufogógázzal kapcsolatos alkatrészek és motorparaméterek megfigyeléséről: az a dokumentum, amelyet a beépítési vizsgálat, a közbenső és az egyedi vizsgálatok végrehajtásának céljából készítettek el.
+
+8a.02. cikk
+
+Általános rendelkezések
+
+1. A 97/68/EK irányelv követelményeinek sérelme nélkül e fejezet rendelkezéseit kell alkalmazni minden olyan motorra, amelynek névleges leadott teljesítménye több mint 19 kW, és amely belvízi hajókba vagy a fedélzetükön található gépekbe van beépítve.
+
+2. A motoroknak ki kell elégíteni a 97/68/EK irányelvben foglalt követelményeket.
+
+3. A vonatkozó alkalmazási terület kipufogógáz-kibocsátási határértékeinek való megfelelést a 8a.03. cikk alapján kiadott típusjóváhagyásban kell megállapítani.
+
+4. Beépítési vizsgálatok
+
+a) A motornak a hajóra történő beszerelése után, de még a használatbavétel előtt beépítési vizsgálatot kell lefolytatni. A vizsgálat alapján – amely az úszólétesítmény kezdeti ellenőrzésének, vagy a beszerelt érintett motoron végzett egyedi ellenőrzés része – a motort bejegyzik az első alkalommal kibocsátandó közösségi bizonyítványba, vagy módosítják a meglévő közösségi bizonyítványt.
+
+b) A szemlebizottság eltekinthet az a) alpontban meghatározott beépítési vizsgálattól, ha egy 130 kW-nál kisebb névleges teljesítményű motort az azonos típusjóváhagyás hatálya alá tartozó motorra cserélnek ki. Előfeltételként a hajó tulajdonosa vagy felhatalmazott képviselője értesíti a szemlebizottságot a motorcseréről és benyújtja a típus-jóváhagyási dokumentum egy példányát, valamint az újonnan beszerelt motor azonosítószámával kapcsolatos részletes adatokat. A szemlebizottság végrehajtja a közösségi bizonyítvány megfelelő módosításait (vö. 52. rovat).
+
+5. A motor közbenső vizsgálatait a 2.09. cikkben szereplő időszakos vizsgálatok keretében kell végrehajtani.
+
+6. A motor jelentős módosításait követően, ha az ilyen jellegű módosítások hatást gyakorolhatnak a motor gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátására, minden esetben egyedi vizsgálatot kell végezni.
+
+6a. A 8a.02. cikk 4–6. pontjában leírt vizsgálatok eredményeit fel kell jegyezni a motorparaméter-jegyzőkönyvben.
+
+7. A szemlebizottság a közösségi bizonyítvány 52. rovatában feltünteti a hajóra felszerelt és az e fejezet követelményeinek hatálya alá tartozó összes motor típusjóváhagyásának számát és motorszámát. A 97/68/EK irányelv 9. cikk 4. pontja a) alpontjának hatálya alá tartozó motorok esetében elegendő feltüntetni az azonosítószámot.
+
+8. Az e fejezetben szereplő feladatok ellátásának céljából az illetékes hatóság műszaki szolgálatot alkalmazhat.
+
+8a.03. cikk
+
+Elismert típusjóváhagyások
+
+1. A következő típusjóváhagyásokat el kell ismerni, amennyiben a motor alkalmazására kiterjed a megfelelő típusjóváhagyás:
+
+a) a 97/68/EK irányelv szerinti típusjóváhagyás;
+
+b) típusjóváhagyás, amelyet a 97/68/EK irányelv szerint egyenértékűnek ismernek el.
+
+2. A típusjóváhagyással rendelkező motor esetében a következő dokumentumokat vagy azok másolatait a hajón kell tartani:
+
+a) a típusjóváhagyásról szóló dokumentum;
+
+b) a motor gyártójának utasításai a kipufogógázzal kapcsolatos alkatrészek és motorparaméterek megfigyeléséről;
+
+c) a motorparaméter-jegyzőkönyv.
+
+8a.04. cikk
+
+Beépítési vizsgálat, közbenső vizsgálat és egyedi vizsgálat
+
+1. A 8a.02. cikk 4. pontja értelmében végrehajtott beépítési vizsgálat időpontjában, a 8a.02. cikk 5. pontja értelmében végrehajtott közbenső vizsgálatok esetén, valamint a 8a.02. cikk 6. pontja értelmében végrehajtott egyedi vizsgálatok esetén az illetékes hatóság megvizsgálja a motor aktuális állapotát az alkatrészek, a beállítások, valamint a 8a.01. cikk 17. pontja szerinti utasításokban meghatározott paraméterek szempontjából.
+
+Ha a hatóság megállapítja, hogy a motor nem felel meg a jóváhagyott motortípusnak vagy a jóváhagyott motorcsaládnak, akkor:
+
+a) előírhatja
+
+aa) a motor megfelelőségének helyreállítását;
+
+ab) a típus-jóváhagyási dokumentum megfelelő módosítását, vagy
+
+b) elrendelheti a tényleges károsanyag-kibocsátás mérés útján történő ellenőrzését.
+
+Amennyiben nem állítják helyre a motor megfelelőségét, nem hajtják végre a típus-jóváhagyási dokumentumon a megfelelő módosításokat, vagy amennyiben a mérések azt mutatják, hogy a motor nem teljesíti a károsanyag-kibocsátási határértékeket, az illetékes hatóság megtagadja a közösségi bizonyítvány kibocsátását, vagy visszavonja a korábban kibocsátott közösségi bizonyítványt.
+
+2. Kipufogógáz-utókezelő rendszerrel felszerelt motorok esetében az beépítési, közbenső és egyedi vizsgálatok alkalmával ellenőrzéseket kell végrehajtani annak megállapítása érdekében, hogy ezek a rendszerek megfelelően működnek-e.
+
+3. Az 1. pontban szereplő vizsgálatokat a motor gyártója által a kipufogógáz összetételére hatást gyakorló motor-alkotóelemek és motorjellemzők ellenőrzésének végrehajtásáról készített utasítás alapján kell elvégezni. Az utasításokban, amelyeket a gyártónak kell összeállítania és az illetékes hatóságnak jóvá kell hagynia, meg kell határozni a kipufogógázzal kapcsolatos alkatrészeket, valamint azokat a beállításokat és paramétereket, amelyek alapján a kipufogógáz-kibocsátási határértékeknek való megfelelés feltételezhető. Az utasítások legalább a következő részleteket tartalmazzák:
+
+a) a motortípus és adott esetben a motorcsalád, a névleges teljesítmény és a névleges fordulatszám feltüntetésével;
+
+b) a kipufogógázok kibocsátásával kapcsolatos alkatrészek és motorparaméterek felsorolása;
+
+c) a kipufogógázok kibocsátásával kapcsolatos engedélyezett alkatrészek azonosításához szükséges egyértelmű jellemzők (pl. az alkatrészeken feltüntetett alkatrészszámok);
+
+d) a kipufogógázok kibocsátásával kapcsolatos motorparaméterek, például a befecskendezési idők beállítási tartományai, a hűtővíz engedélyezett hőmérséklete, a kipufogógáz maximális ellennyomása stb.
+
+Kipufogógáz-utókezelő rendszerrel felszerelt motorok esetében az utasításoknak a kipufogógáz-utókezelő berendezések hatékony működésének ellenőrzésére szolgáló eljárásokat is tartalmazniuk kell.
+
+4. A motorok úszólétesítménybe történő beépítésének meg kell felelnie a típusjóváhagyás alkalmazási körében meghatározott korlátozásoknak. Ezenkívül a szívóoldali vákuum és a kipufogógáz ellennyomása nem haladhatja meg a jóváhagyott motorhoz feltüntetett értékeket.
+
+5. Ha a hajóba beépített motorok egy motorcsaládhoz tartoznak, nem hajthatók végre olyan utólagos beállítások vagy módosítások, amelyek hátrányosan érinthetik a motorok kipufogógáz- és szilárd halmazállapotú szennyezőanyag-kibocsátását, vagy amelyek a javasolt beállítási tartományon kívülre esnek.
+
+6. Ha a típusjóváhagyás kibocsátása után utólagos beállításokat vagy módosításokat kell végrehajtani a motoron, ezeket pontosan be kell vezetni a motorparaméter-jegyzőkönyvbe.
+
+7. Ha az beépítési és közbenső vizsgálatok azt mutatják, hogy a hajóba beépített motorok a paramétereik, alkatrészeik és szabályozható jellemzőik szempontjából teljesítik a 8a.01. cikk 17. pontja szerinti utasításokban meghatározott műszaki előírásokat, akkor feltételezhető, hogy a motorok kipufogógáz- és szilárd halmazállapotú szennyezőanyag-kibocsátása is megfelel az alapvető határértékeknek.
+
+8. Ha a motor megkapta a típusjóváhagyást, az illetékes hatóság saját belátása szerint csökkentheti az ezen rendelkezések alapján végrehajtandó beépítési és közbenső vizsgálatokat. Végre kell azonban hajtani a teljes vizsgálatot legalább egy henger vagy motorcsaládonként egy motor tekintetében, és a vizsgálatok csak akkor csökkenthetők, ha alapos okkal feltételezhető, hogy az összes többi henger vagy motor a vizsgálat alá vont hengerhez vagy motorhoz hasonlóan viselkedik.
+
+8a.05. cikk
+
+Vizsgáló és tanúsító szervezet
+
+1. A vizsgáló és tanúsító szervezetnek meg kell felelnie a vizsgáló és kalibrációs laboratóriumok illetékességének általános követelményeire vonatkozó európai szabványnak (EN ISO/IEC 17025:2000), a következő feltételek kellő figyelembevételével:
+
+a) A motorok gyártói nem ismerhetők el vizsgáló és tanúsító szervezetként;
+
+b) E fejezet alkalmazásában a műszaki szolgálat az illetékes hatóság engedélyével használhat a saját vizsgáló laboratóriumán kívüli berendezéseket;
+
+c) Az illetékes hatóság felszólítására a vizsgáló és tanúsító szervezetnek igazolnia kell, hogy az Európai Unión belül végezheti az e bekezdésben meghatározott típusú tevékenységeket;
+
+d) Harmadik országban bejegyzett tanúsító szervezetet a hajózási hatóság abban az esetben tekintheti elismert vizsgáló és tanúsító szervezetnek, amennyiben az Európai Unió és az érintett harmadik ország között vizsgáló és tanúsító szervezet elismerését érintően két- vagy többoldalú megállapodás került megkötésre.
+
+2. A közlekedésért felelős miniszter közli a Bizottsággal azon vizsgáló és tanúsító szervezetnek a nevét és címét, amelyek a hazai illetékes hatósággal együtt e fejezet alkalmazásáért felelősek.
 
 9. Fejezet
 
@@ -2118,7 +2278,7 @@ A vontatásra alkalmas géphajókat és tolóhajókat fel kell szerelni legaláb
 
 (e) Egy csáklya.
 
-(f) Külön jogszabályban[^37] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
+(f) Külön jogszabályban[^49] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
 
 (g) Egy távcső, amely legalább 7x50 lencseátmérőjű.
 
@@ -2156,7 +2316,7 @@ Hordozható tűzoltókészülékek
 
 10.03a cikk
 
-Lakóterekben, kormányállásban és utasterekben beépített tűzoltóberendezések
+A személyzeti lakóterek, kormányállások és utasterek védelmét szolgáló tartósan rögzített tűzvédelmi rendszerek
 
 1. A lakóterekben, a kormányállásban és az utasterekben a tüzet oltani csak megfelelő, automatikusan nyomás alá kerülő vízpermettel oltó beépített tűzoltórendszerekkel lehet.
 
@@ -2196,9 +2356,9 @@ Az ellenőrzés legalább a következőket tartalmazza:
 
 10.03b cikk
 
-A motorterekben, kazánterekben és szivattyúházakban tartósan rögzített
+A motorterek, kazánterek és szivattyúterek védelmét szolgáló
 
-tűzoltóberendezések
+tartósan rögzített tűzvédelmi rendszerek
 
 1. Oltóanyagok
 
@@ -3530,7 +3690,7 @@ A kabinok kivételével a csak egy kijárattal rendelkező helyiségeknek és he
 
 5. Az összekötő folyosóknak a következő követelményeknek kell megfelelniük:
 
-(a) Teljes szélességük legalább 0,80 m legyen, illetve ha 80-nál több utas által használt helyiségekbe vezetnek, utasonként legalább 0,01 m.
+(a) Előírt teljes szélességük legalább 0,80 méter legyen. Ha 80-nál több utas által használt helyiségekbe vezetnek, meg kell felelniük a 3. pont d) és e) alpontjában említett, az összekötő folyosókhoz vezető kijáratok szélességére vonatkozó rendelkezéseknek.
 
 (b) Teljes magasságuk legalább 2,00 m legyen.
 
@@ -3578,21 +3738,21 @@ Fmax – a hajóra engedélyezett legnagyobb utaslétszám.
 
 (d) Ha a gyülekezőhelyként kijelölt helyiségben elmozdítható bútorok vannak, azokat megcsúszás ellen megfelelően rögzíteni kell.
 
-(e) A mentőeszközöknek az evakuálási területekről könnyen megközelíthetőknek kell lenniük.
+(e) Ha a gyülekezőhelyként kijelölt helyiségekben rögzített ülések vagy padok találhatók, a megfelelő utaslétszámot nem kell figyelembe venni az a) alpont szerinti teljes gyülekezési terület kiszámításához. Az a létszám azonban, amelyre egy adott helyiségben ülőhelyeket vagy padokat helyeznek el, nem haladhatja meg a személyeknek azon számát, amelyre az említett helyiségben gyülekezőhely áll rendelkezésre.
 
-(f) Az utasoknak ezen evakuálási területekről történő biztonságos evakuálását lehetővé kell tenni a hajó bármelyik oldalán.
+(f) Az életmentő felszereléseknek az evakuálási területekről könnyen elérhetőnek kell lenniük.
 
-(g) A gyülekezőhelyeknek a biztonsági peremvonal felett kell lenniük.
+(g) Az utasoknak ezen evakuálási területekről történő biztonságos evakuálását a hajó mindkét oldalán lehetővé kell tenni.
 
-(h) A gyülekezőhelyeket és az evakuálási területeket a biztonsági tervrajzon meg kell jelölni, azt pedig a hajó fedélzetén ki kell függeszteni.
+(h) A gyülekezési helyeknek a biztonsági vonal felett kell elhelyezkedniük.
 
-(i) Ha a gyülekezőhelyként kijelölt helyiségekben rögzített ülések vagy padok vannak, a megfelelő utaslétszámot nem kell figyelembe venni, amikor az (a) alpont szerinti teljes gyülekezési területet kiszámítják. Azon személyek száma azonban, akiknek egy adott helyiségben az ülőhelyeket vagy padokat számításba veszik, nem haladhatja meg azt a létszámot, ahány személyre gyülekezőhely áll rendelkezésre az meghatározott helyiségben.
+(i) A gyülekezési helyeket és az evakuálási területeket a biztonságtechnikai tervrajzon meg kell jelölni, a hajó fedélzetén pedig jelzőtáblával kell jelezni.
 
-(j) A (d) és (i) alpont előírásai vonatkoznak azokra a szabad fedélzetekre is, amelyeken gyülekezőhelyeket kijelöltek.
+(j) A d) és e) alpont rendelkezései vonatkoznak azokra a szabad fedélzetekre is, amelyeken gyülekezőhelyeket jelöltek ki.
 
 (k) Amennyiben a 15.09 cikk 5. pontnak megfelelő kollektív mentőeszközök a hajón rendelkezésre állnak, azt a létszámot, amelynek számára ezek az eszközök szolgálnak, figyelmen kívül lehet hagyni az (a) alpont szerinti gyülekezőhelyek teljes felületének kiszámításánál.
 
-(l) Minden esetben, amikor az (i)–(k) alpontnál csökkentést alkalmaznak, az (a) alpont szerinti teljes területnek legalább a legnagyobb megengedett utaslétszám 50%-ára elegendőnek kell lennie.
+(l) Minden olyan esetben azonban, amikor az e), j) és k) alpont szerinti csökkentést alkalmaznak, az a) alpont szerinti teljes területnek legalább a legnagyobb megengedett utaslétszám 50%-ára elegendőnek kell lennie.
 
 9. Az utasterekben levő lépcsőknek és pihenőiknek meg kell felelniük az alábbi követelményeknek:
 
@@ -3700,7 +3860,7 @@ A riasztók kioldóit a véletlen használat ellen védeni kell.
 
 5. Két gépi hajtású fenékvízszivattyút kell biztosítani.
 
-6. A fedélzeten biztosítani kell egy, a 8.08 cikk 4. pont szerint beépített fenékvízrendszert.
+6. Egy tartósan rögzített csőhálózattal rendelkező fenékvízszívó-rendszernek rendelkezésre kell állnia.
 
 7. A hűtőraktáraknak még zárt állapotban is nyithatónak kell lenniük belülről.
 
@@ -4686,200 +4846,10 @@ Próbák
 
 (e) a felhúzókötelek és csigák horogszerkezeteinek szilárd rögzítése,
 
-(f) az árboctörzsek rögzítése, az álló- és futókötélzet egyéb rögzítési pontjai, amelyek a hajóhoz kapcsolódnak,
-
-(g) a vitorlák működtetéséhez szolgáló csörlők,
-
-(h) egyéb, a vitorlázás célját szolgáló szerkezetek, úgymint svertek, az azokat működtető szerelékek,
-
-(i) a rudak, a futó- és állókötélzet, valamint a vitorlák kopásának megelőzésére tett intézkedések,
-
-(j) a 15a.18 cikk szerinti felszerelés.
-
-2. A faárboc fedélzeten keresztülmenő és fedélzet alatti részét a hajózási hatóság által meghatározott időközökben, de legalább a 2.09 cikk szerinti minden egyes időszakos vizsgálat alkalmával újra kell vizsgálni. E célból az árbocot ki kell venni.
-
-3. Az 1. pont szerint elvégzett utolsó vizsgálat tanúsítványát, amelyet a hajózási hatóság dátummal és aláírással látott el, a fedélzeten kell tartani.
-
-16. Fejezet
-
-A TOLT, VONTATOTT KÖTELÉK VAGY MELLÉVETT ALAKZAT RÉSZÉT KÉPEZŐ ÚSZÓLÉTESÍTMÉNYEKRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
-
-16.01 cikk
-
-Tolóhajók
-
-1. A tolt kötelék továbbítására alkalmas hajót megfelelő tolóberendezéssel kell ellátni. Az ilyen célra szolgáló hajót úgy kell megépíteni és felszerelni, hogy
-
-(a) a tolt úszólétesítményre történő átjárás, a csatolóeszközök használata mellett is, könnyű és veszélytelen legyen,
-
-(b) szilárd, kellően merev kapcsolat létrehozására legyen képes a csatolt úszólétesítménnyel vagy úszólétesítményekkel és
-
-(c) akadályozza meg az úszólétesítmények egymáshoz viszonyított elmozdulását.
-
-2. Ha a csatolásnál sodronyköteleket használnak, akkor a tolóhajó a kötelek megfeszítésére legalább 2 db külön csörlővel vagy ezzel azonos értékű berendezéssel rendelkezzen.
-
-3. A csatoló berendezések alkalmazásával merev kapcsolatot kell létrehozni a tolt úszólétesítménnyel vagy úszólétesítményekkel.
-
-A kapcsolat a tolóhajó és csak egyetlen tolt úszólétesítményből álló kötelék esetében bizonyos mértékű vezérelt együttmozgást is lehetővé tehet. Az ilyen összeállítás létrehozásához szükséges csuklós berendezések maradéktalanul vegyék fel az átadandó erőket, kezelésük könnyű és veszélytelen legyen. Az ilyen csatoló berendezésekre értelemszerűen vonatkoznak a 6.02–6.04 cikkek rendelkezései.
-
-4. Tolóhajóknál a 3.03 cikk 1. pont szerinti első vízmentes (kollíziós) válaszfal elhagyható.
-
-16.02 cikk
-
-Tolt hajók
-
-1. A kormányberendezés, lakótér, gép- vagy kazántér nélküli tolt bárkára nem vonatkoznak az alábbiak:
-
-(a) az 5–7. és 12. fejezetek,
-
-(b) a 8.06 cikk 2–7. pont, a 10.02 cikk és a 10.05 cikk 1. pont.
-
-Ha ezek a bárkák kormányberendezéssel, lakótérrel, gép- vagy kazántérrel rendelkeznek, akkor a megjelölt előírásokat alkalmazni kell.
-
-2. Ezen túlmenően a 40 m-nél kisebb L hosszúságú hajón szállítható bárkáknak az alábbi követelményeknek kell megfelelniük:
-
-(a) A 3.03 cikk 1. pont szerinti ütköző válaszfalak elhagyhatók, ha a hajóorr legalább el tudja viselni az elismert hajóosztályozó társaság előírásai szerint épített, azonos merülésű belvízi hajó ütköző válaszfalára megállapított terhelés 2,5-szeresét.
-
-(b) A 8.06 cikk 1. pontjától eltérően a kettősfenék nehezen hozzáférhető terei kötelezően csak akkor legyenek vízteleníthetők, ha e kettősfenék-terek térfogata a legnagyobb megengedett merülésnél a hajón szállítható bárka vízkiszorításának 5%-át meghaladja.
-
-3. A tolt hajókat olyan csatolóberendezésekkel kell felszerelni, amely az alakzat többi járművével biztonságos összekötést létesít.
-
-16.03 cikk
-
-Mellévett alakzat továbbítására alkalmas hajók
-
-A mellévett alakzat továbbítására alkalmas hajó bakokkal vagy azokkal azonos értékű berendezésekkel legyen ellátva olyan számban és elrendezéssel, hogy a csatolt úszólétesítmények között biztosított legyen a megbízható összeköttetés.
-
-16.04 cikk
-
-Kötelékben történő továbbításra alkalmas hajók
-
-A kötelékben történő továbbításra szolgáló hajók e célra alkalmas csatoló berendezésekkel, bakokkal vagy azokkal azonos értékű felszerelésekkel rendelkezzenek olyan számban és elrendezéssel, hogy biztosított legyen a megbízható összeköttetés a kötelék más úszólétesítményével vagy úszólétesítményeivel.
-
-16.05 cikk
-
-Vontatásra alkalmas hajók
-
-1. A vontatott kötelék továbbítására szolgáló hajók elégítsék ki az alábbi követelményeket:
-
-(a) A vontatóberendezéseket úgy kell elhelyezni, hogy használatuk a hajó, a személyzet és a rakomány biztonságára veszélyt ne jelentsen.
-
-(b) A vontatóhajók a kormányállásból oldható vonóhoroggal szerelhetők fel. A kioldás szükségtelen, ha a hajó felborulása építési módjának vagy egyéb biztonsági berendezések révén nem következhet be.
-
-(c) Vontatóberendezésként vontatócsörlőket vagy vonóhorgokat kell alkalmazni. A vontató-berendezést a hajócsavar síkja előtt kell felszerelni. Ez nem vonatkozik azokra a vontatóhajókra, amelyek kormányzása aktív kormánnyal (kormánypropellerrel) vagy cikloidál-propellerrel történik.
-
-(d) A (c) ponttól eltérően az olyan járművek esetében, amelyeket kizárólag – a Hajózási Szabályzatnak megfelelően – géphajók vontatására használnak, a vontatás céljára bakok vagy ezekkel azonos értékű berendezések is megfelelnek. A (b) pont ennek figyelembevételével érvényes.
-
-(e) Ha fennáll annak veszélye, hogy a vontatókötél a hajó farán elakad, akkor leugrásgátló szerkezettel (például kötélakasztóval) kell felszerelni a kötélíveket.
-
-2. A völgymenetben történő vontatás nem engedélyezhető azoknál a hajóknál, amelyek hossza (L) a 86 m-t meghaladja.
-
-16.06 cikk
-
-Kötelékekkel végzett futópróbák
-
-1. A tolóhajó vagy hajók merev kötelékben történő továbbítására alkalmas önjáró teherhajó esetén az engedélyezés – és a közösségi hajóbizonyítványba a megfelelőség bejegyzése – céljából a hajózási hatóság döntési jogköre, hogy előírja az alakzatok bemutatását – és ha igen, akkor melyeket –, illetve kezdeményezi az 5.02 cikk szerinti futópróbákat a kötelékkel abban az alakzatban vagy alakzatokban, amelyeket a legkedvezőtlenebbnek tart.
-
-A szemlebizottság az 5. fejezet szerinti műveletek során megbizonyosodik, hogy megmarad-e a kötelék minden járművének merev kapcsolata.
-
-2. Ha az 1. pont szerinti futópróbák során, az 5.02–5.10 cikkek szerinti követelmények teljesítése érdekében, a kötelékben továbbított járműveken különlegesnek tekinthető berendezéseket alkalmaznak (kormányberendezést, hajtó vagy műveletezésre szolgáló berendezéseket, csuklós csatolóberendezést), akkor a köteléket továbbító hajó bizonyítványába be kell jegyezni a különleges felszerelésekkel rendelkező hajók alakzaton belüli elhelyezkedését, nevét és az európai hajóazonosító számát.
-
-16.07 cikk
-
-Bejegyzések a közösségi hajóbizonyítványba
-
-1. Ha a hajó kötelék továbbítását végzi vagy kötelékbe sorolva továbbítható, a közösségi hajóbizonyítványba be kell jegyezni, hogy a hajó a 16.01-16.06 cikkek követelményeinek megfelelően arra alkalmasnak bizonyult.
-
-2. A tolt, vontatott vagy mellévett alakzatot továbbító hajó közösségi hajóbizonyítványába be kell jegyezni:
-
-(a) engedélyezett kötelékeket és alakzatokat,
-
-(b) a csatolás módját,
-
-(c) az átadott legnagyobb csatolóerőt és
-
-(d) adott esetben a hosszirányú csatolókötelek legkisebb szakítóerejét, valamint a kötélágak számát.
-
-17. Fejezet
-
-ÚSZÓMUNKAGÉPEKRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
-
-17.01 cikk
-
-Általános meghatározások
-
-Az úszómunkagépek építésére és felszerelésére a 3., a 7–14-ig és a 16. fejezetek előírásai vonatkoznak. Ezen kívül az önjáró úszómunkagépekre érvényes az 5. és a 6. fejezet is. A csak kis helyváltoztatásokat lehetővé tevő gépi hajtással rendelkező úszómunkagépek ebben a tekintetben nem minősülnek önjárónak.
-
-17.02 cikk
-
-Eltérések
-
-1. A hajózási hatóság az alábbi előírásoktól eltérést engedélyezhet:
-
-(a) a 3.03 cikk 1. és 2. pontok értelemszerűen érvényesek,
-
-(b) a 7.02 cikk értelemszerűen érvényes,
-
-(c) a 12.02 cikk 5. pont 2. mondata szerinti legnagyobb megengedett hangnyomásszintek az üzemi berendezések működése során túlléphetők, ha az üzemeltetés alatt biztosított a szolgálaton kívüli személyzet alvása, pihenése az úszómunkagépen kívül;
-
-(d) az építésre, felszerelésre és berendezésre vonatkozó egyéb rendelkezésektől, amennyiben az egyenértékű biztonságot az adott esetben igazolják.
-
-2. A hajózási hatóság az alábbi előírások alkalmazásától eltekinthet:
-
-(a) a 10.01 cikk 1. ponttól, ha az úszómunkagép az üzemi berendezések működése alatt munkahorgonyokkal vagy cölöpökkel biztonságosan lehorgonyozható. Az önjáró úszómunkagépnek azonban legalább egy, a 10.01 cikk 1. pont szerinti olyan horgonnyal kell rendelkeznie, amelynél a k tényező nagysága 45 és T értékénél a legkisebb oldalmagasságot vették figyelembe;
-
-(b) a 12.02 cikk 1. pontban szereplő mondat második felében rögzített szabályoktól, ha a terek elektromos megvilágítása megfelelő.
-
-3. Kiegészítésképpen az alábbiakat kell figyelembe venni:
-
-(a) a 8.08 cikk 2. pont második mondatához: A fenékvíz-szivattyú gépi meghajtású legyen,
-
-(b) a 8.10 cikk 3. pontjához: Kikötött úszómunkagépek esetében, az üzemi berendezések működése közben a zajszint, oldalirányban 25 m távolságban mérve, túllépheti a 65 dB(A) értéket,
-
-(c) a 10.03 cikk 1. pontjához: A fedélzeten elhelyezett üzemi berendezésekhez legalább egy darab kézi tűzoltókészüléket kell rendszeresíteni,
-
-(d) a 14.02 cikk 2. pontjához: A cseppfolyósított gázzal működő háztartási célú berendezések mellett egyéb, más célra használható, cseppfolyósított gázzal működő berendezés is alkalmazható. Ezek a berendezések és tartozékaik feleljenek meg az ide vonatkozó előírásoknak és szabványoknak.
-
-17.03 cikk
-
-További követelmények
-
-1. Azoknak az úszómunkagépeknek, amelyeken üzemeltetés közben személyek tartózkodnak, általános riasztóberendezéssel kell rendelkezniük. A vészjelzésnek egyéb jelzésektől világosan megkülönböztethetőnek kell lennie és az összes lakóhelyiségben, valamint minden munkahelyen akkora hangnyomás szintet kell elérnie, amely legalább 5 dB(A) értékkel haladja meg a helyileg uralkodó legnagyobb zajszintet. A riasztóberendezést a központi vezérlőállásban és a legfontosabb kezelőhelyeken kell tudni működésbe hozni.
-
-2. Az üzemi berendezéseknek megfelelő szilárdsággal kell rendelkezniük, hogy ellenálljanak azoknak a terheléseknek, amelyeknek ki vannak téve, továbbá meg kell felelniük a gépekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1998. június 22-i 98/37/EK európai parlamenti és tanácsi irányelv követelményeinek.
-
-3. A stabilitásnak (a felborulásnak való ellenállásnak), az üzemi berendezések szilárdságának és indokolt esetben a hozzá kapcsolt eszközöknek ellen kell állniuk az úszómunkagép várható dőlése, trimmje és mozgása következtében kialakuló erőknek.
-
-4. Ha az úszómunkagépen elhelyezett berendezések teher emelésére szolgálnak, akkor a stabilitási és szilárdsági kritériumok alapján meghatározott legnagyobb megengedett terhelést a fedélzeten és a kezelőhelyeken jól láthatóan fel kell tüntetni. Ha a terhelés további úszótestek felcsatolásával megnövelhető, akkor a legnagyobb megengedett terhelés értékét a pótúszók figyelembevételével, továbbá azok nélkül is meg kell adni.
-
-17.04 cikk
-
-Maradó biztonsági távolság
-
-1. E fejezet alkalmazásában és e Szabályzat 1.01 cikkében meghatározottaktól eltérően a maradó biztonsági távolság a vízfelszín és az úszómunkagép azon legalacsonyabb pontja közötti legkisebb függőleges távolság, amelyen túl az úszómunkagép már nem tekinthető vízmentesnek, figyelembe véve a 17.07 cikk 5.1.–5.6. pont szerinti nyomatékok hatására fellépő trimmet és dőlést.
-
-2. A 17.07 cikk 1. pont szerinti maradó biztonsági távolság minden fröccsenővízmentes és víztömör nyílás tekintetében akkor kielégítő, ha legalább 300 mm.
-
-3. Ha a nyílások nem fröccsenővízmentesek és víztömörek, a maradó biztonsági távolság legalább 400 mm legyen.
-
-17.05 cikk
-
-Maradó szabadoldal
-
-1. E fejezet alkalmazásában és e Szabályzat 1.01 cikkében meghatározottaktól eltérően a maradó szabadoldal a legkisebb függőleges távolság a vízfelszin és a fedélzet felső éle között, figyelembe véve a 17.07 cikk 5.1–5.6. pont szerinti nyomatékok hatására fellépő trimmet és megdőlést.
-
-2. A 17.07 cikk 1. pont szerinti szabadoldal kielégítő, ha nagysága legalább 300 mm.
-
-3. A maradó szabadoldal csökkenthető, ha igazolják, hogy a 17.08 cikk előírásai teljesülnek az úszóból álló úszómunkagépekre is.
-
-4. Ha az úszótest lényegesen eltér a függőleges oldalú pontonformától – mint például amilyen a hengeres úszótest vagy egy olyan úszótest, amelynek keresztmetszete négy oldalnál többől áll – a szemlebizottság a 2. ponttól eltérő szabadoldalt is megkövetelhet vagy engedélyezhet. Ez a több úszótestből álló úszómunkagépekre is vonatkozik.
-
-17.06 cikk
-
-[^36]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 10. § (16) bekezdését. A 2. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése szerint módosított szöveg.
+[^48]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 10. § (16) bekezdését. A 2. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a szerint módosított szöveg.
 [^*]: * Kihirdette a 2001. évi XI. törvény
 [^**]: ** Kihirdette a 2003. évi LXV. törvény
 [^***]: *** Kihirdette a 2001. évi X. törvény
 [^*]: * 39/2003. (VI. 13.) GKM rendelet a víziközlekedés rendjéről.
 [^*]: * 39/2003. (VI. 13.) GKM rendelet a víziközlekedés rendjéről
-[^37]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész
+[^49]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész

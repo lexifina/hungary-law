@@ -6,17 +6,19 @@ b) amelyeknek a magyar lajstromba vételét kezdeményezik.
 
 (2)[^2] A rendeletnek az úszólétesítmények hajózásra alkalmasságának és megfelelőségének a 2–4. és 9. mellékletben foglalt feltételeire vonatkozó rendelkezései, ha nemzetközi szerződés eltérően nem rendelkezik – a (3) bekezdésben foglaltak kivételével – kiterjednek azokra az úszólétesítményekre is, amelyek nem tartoznak az (1) bekezdésben foglaltak hatálya alá, de a Magyar Köztársaság területén közlekednek vagy tartózkodnak.
 
-(3) A hajózási hatóság a Magyar Köztársaság belvízi útjain nem magyar lobogó alatt közlekedő úszólétesítmény üzemképességét tanúsító hajóokmányt elfogadja, amenynyiben az, az adott zónára érvényes, és azt
+(3)[^3] A hajózási hatóság a Magyar Köztársaság belvízi útjain nem magyar lobogó alatt közlekedő úszólétesítmény üzemképességét tanúsító hajóokmányt elfogadja, amennyiben annak hatálya az adott zónára kiterjed, és azt
 
-a) dunamenti állam vagy olyan állam illetékes hatósága állította ki, amellyel a Magyar Köztársaság nemzetközi szerződés keretében a kölcsönös elismerésről megállapodott, illetve
+a)[^4] Duna menti állam vagy olyan állam hatósága állította ki, amellyel a Magyar Köztársaság nemzetközi szerződés keretében a kölcsönös elismerésről megállapodott, illetve
 
-b)[^3] a Rajnai Hajók Szemleszabályzata alapján állították ki, illetve
+b)[^5] a Rajnai Hajók Szemleszabályzata alapján állították ki, illetve
 
-c)[^4] az Európai Gazdasági Térségről szóló megállapodásban részes államban vagy a Duna Bizottság tagállamában állították ki.
+c)[^6] az Európai Gazdasági Térségről szóló megállapodásban részes államban vagy a Duna Bizottság tagállamában állították ki.
 
 (4) A Magyar Honvédség úszólétesítményeire jogszabály e rendelettől eltérően rendelkezhet.
 
 [^1]: Az 1. § (1) bekezdése a 96/2004. (VII. 19.) GKM rendelet 19. §-ának (3) bekezdésével, bevezető szövegrésze a 9/2008. (III. 21.) GKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 9/2008. (III. 21.) GKM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (3) bekezdésének b) pontja a 16/2006. (IV. 6.) GKM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (3) bekezdésének c) pontját a 16/2006. (IV. 6.) GKM rendelet 4. § (2) bekezdése iktatta be, szövege a 9/2008. (III. 21.) GKM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés bevezető szövegrésze az 1/2010. (I. 8.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (3) bekezdés a) pontja az 1/2010. (I. 8.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § (3) bekezdésének b) pontja a 16/2006. (IV. 6.) GKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (3) bekezdésének c) pontját a 16/2006. (IV. 6.) GKM rendelet 4. § (2) bekezdése iktatta be, szövege a 9/2008. (III. 21.) GKM rendelet 1. § (3) bekezdésével megállapított szöveg.

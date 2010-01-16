@@ -1,4 +1,4 @@
-1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^35]
+1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^47]
 
 A FÖLDRAJZILAG AZ 1., 2., 3. ÉS 4. HAJÓZÁSI ZÓNÁBA TARTOZÓ KÖZÖSSÉGI BELVÍZI UTAK JEGYZÉKE
 
@@ -882,19 +882,7 @@ Az összes francia belvízi út, az 1., 2. és a 3. zónában levőkön kívül
 
 OLASZ KÖZTÁRSASÁG
 
-Pó folyó: Piacenzától a torkolatig
-
-Milánó-Cremona-csatorna, Pó folyó: a Póhoz vezető utolsó 15 km-es pont
-
-Mincio folyó: a governolói Mantuától a Póig
-
-Ferrara vízi út: a ferrarai Pótól (Pontelagoscuro) Porto Garibaldiig
-
-Brondolo és Valle csatornák: a keleti Pótól a velencei lagúnáig
-
-Fissero-csatorna – Tartaro – Canalbianco: az Adriától a keleti Póig
-
-A velencei partvonal: a velencei lagúnától Gradóig
+A hajózható olasz víziutak
 
 LITVÁN KÖZTÁRSASÁG
 
@@ -1070,4 +1058,4 @@ Bridgewater-csatorna | Az egész csatorna |
 
 [1] Azon hajók esetében, amelyek honi kikötője máshol van, az 1960. április 8-i Emst–Dollart-szerződés 32. cikkét kell figyelembe venni (BGBl. 1963 II, 602. o.).
 
-[^35]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^47]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a szerint módosított szöveg.
