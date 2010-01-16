@@ -1,4 +1,6 @@
-## 14. §[^23] Ez a rendelet a – az e rendelet 2. §-ában hivatkozott nemzetközi egyezményeket, illetve szabályzatokat kihirdető külön jogszabályokkal együtt – a személyhajókra vonatkozó biztonsági előírásokról és követelményekről szóló 1998. március 17-i 98/18/EK tanácsi irányelvének való megfelelést szolgálja.
+## 14. §[^23] Ez a rendelet a következő uniós jogi aktusnak való megfelelést szolgálja:
+
+## az Európai Parlament és a Tanács 2009/45/EK irányelve (2009. május 6.) a személyhajókra vonatkozó biztonsági szabályokról és követelményekről.
 
 1. számú melléklet a 12/2002. (II. 7.) KöViM rendelethez[^24]
 
@@ -4018,7 +4020,9 @@ Biztosítani kell a beszálló állás és a fedélzet közötti kommunikációt
 
 .4 Ro-Ro személyhajóra felszerelt valamennyi mentőtutajnak önfelegyenesedő, illetve fedett, a felfordított helyzetében is biztonságosan tengerálló, azaz ún. reverzibilis típusúnak (a továbbiakban: reverzibilis mentőtutaj) kell lennie. Nyitott reverzibilis mentőtutaj alkalmazása jóváhagyható, ha a vízi út védettsége, a hajó működési területének tengeri és éghajlati viszonyai ezt lehetővé teszik, továbbá a nyitott reverzibilis mentőtutaj megfelel a gyorsjáratú vízijárművekre vonatkozó szabályzat 10. mellékletében meghatározott követelményeket.
 
-[^23]: A 14. § az 55/2009. (X. 14.) KHEM rendelet 3. §-ával megállapított szöveg.
+Alternatív megoldásként a mentőtutajok előírt állományán túl a hajó felszerelhető önfelegyenesedő vagy fedett reverzibilis mentőtutajokkal, olyan összesített befogadóképességgel, amely a mentőcsónakokban már el nem helyezhető személyek legalább 50%-ának helyet biztosít. E kiegészítő mentőtutaj kapacitást a hajón tartózkodó személyek száma és a mentőcsónakokban elhelyezhető személyek száma közötti különbség alapján határozzák meg. Ezen mentőtutajok jóváhagyására a hajózási hatóság illetékes, a Nemzetközi Tengerészeti Szervezet 809. MSC körlevelében közreadott ajánlások figyelembe vételével.
+
+[^23]: A 14. § az 1/2010. (I. 8.) KHEM rendelet 15. § (3) bekezdésével megállapított szöveg.
 [^24]: Az 1. számú melléklet az 55/2004. (IV. 22.) GKM rendelet 4. §-ával megállapított szöveg.
 [^25]: 2/2004. (I.5.) GKM rendelet az úszólétesítmények megfelelősségét vizsgáló ellenőrző és tanúsító szervezetek elismeréséről, kijeloléséről és felhatalmazásáról
 [^26]: A térfelosztási merülésvonal jelöléseiben a „C” betű után álló arab számokat római számokkal vagy betűkkel is lehet helyettesíteni, amennyiben az így megjelölt merülésvonalat a hajózási hatóság eképpen kívánja megkülönböztetni a térfelosztási merülésvonal nemzetközi jelöléseitől.
