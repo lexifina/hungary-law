@@ -12,9 +12,9 @@ Melléklet az 5/2007. (II. 21.) IRM rendelethez[^2]
 
 | 2. | a munkaköri leírása szerint titokvédelmi feladatot ellátó köztisztviselő és ügykezelő | C |
 
-| 3. | az EU, illetve a NATO koordinációért és adatnyilvántartásért, valamint a nemzetközi bűnügyi együttműködésért felelős szervezeti egység valamennyi munkaköre | C |
+| 3. | az EU-NATO Adatnyilvántartó biztonsági megbízottja, rendszerbiztonsági felelőse, rendszer-üzemeltetési biztonsági felelőse és titkos ügykezelői, valamint a nemzetközi bűnügyi együttműködésért felelős szervezeti egység valamennyi munkaköre | C |
 
-| 4. | a nemzetbiztonsági megbízott és ügyintéző | C |
+| 4. | a nemzetbiztonsági megbízott és ügyintéző, valamint helyettese | C |
 
 | 5. | a munkaköri leírása szerint a rendvédelmi szervek irányításával vagy felügyeletével összefüggő feladatok ellátásáért felelős ügyintéző | C |
 
@@ -24,7 +24,7 @@ Melléklet az 5/2007. (II. 21.) IRM rendelethez[^2]
 
 | 8. | a belső ellenőr | B |
 
-| 9. | a Miniszteri Titkárság és az Államtitkári Titkárság állományába tartozó köztisztviselő és ügykezelő | A |
+| 9. | a Miniszteri Titkárság, az Államtitkári Titkárság állományába tartozó köztisztviselő és ügykezelő; a Szakállamtitkári Titkárságon mindazon munkakör, ahol a feladatok ellátásához államtitok minősítésű adat megismerése szükséges | C |
 
 | 10. | a közbeszerzési szakreferens | A |
 
@@ -33,6 +33,8 @@ Melléklet az 5/2007. (II. 21.) IRM rendelethez[^2]
 | 12. | a munkaköri leírása szerint protokollügyeket intéző köztisztviselő vagy ügykezelő | A |
 
 | 13. | a munkaköri leírása szerint titkos ügykezelést végző köztisztviselő vagy ügykezelő | A |
+
+| 14. | a rendszergazdai feladatokat ellátó köztisztviselő | C |
 
 | B) A KORMÁNYHIVATALNÁL ÉS A KÖZPONTI HIVATALOKNÁL |  |
 
@@ -74,59 +76,83 @@ Melléklet az 5/2007. (II. 21.) IRM rendelethez[^2]
 
 | I. A Magyar Köztársaság Rendőrségénél |  |
 
-| 1. | az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) Titkársági Főosztály valamennyi munkaköre, az országos rendőrfőkapitány helyetteseinek titkárságvezetői, több munkafolyamatot ellátó ügyviteli alkalmazottai, az országos rendőrfőkapitány helyetteseinek titkárságain dolgozó ügyintézők munkakörei (kivéve a gazdasági helyettes titkárságát) | C |
+| 1. | az Országos Rendőr-főkapitányság (a továbbiakban ORFK) Hivatalánál – a Jogi Főosztály kivételével – a főosztályvezető, a Szóvivői Iroda vezetője és a helyettesítésére feljogosított vezető, a Titkársági Főosztály Titkársági Osztály valamennyi munkakörét betöltő személyek és a Titkársági Főosztály Ügykezelési-, Adat- és Titokvédelmi Osztály vezetője és kiemelt főreferensei, valamint a Titkársági Főosztály Nemzetközi Kapcsolatok Osztályának vezetője | C |
 
-| 2. | az ORFK Bűnügyi Főigazgatóságán a Bűnügyi Főosztály Bűnügyi Osztály, Felderítő Osztály valamennyi munkaköre | C |
+| 2. | az ORFK Hivatalánál az EU-NATO nyilvántartó összes munkakörét betöltő személyek, a Nemzetközi Kapcsolatok Osztályán a köztisztviselői jogállású nemzetközi referens, a Stratégiai Elemző és Tervező Osztályon az osztályvezető, a Jogi Főosztályon a főosztályvezető és az osztályvezetők | B |
 
-| 3. | a Nemzetközi Bűnügyi Együttműködési Központ vezető besorolású munkakörei, az EUROPOL biztonsági tiszt, a SIRENE Iroda és az EUROPOL Magyar Nemzeti Iroda, valamint az INTERPOL Magyar Nemzeti Iroda minden munkaköre | C |
+| 3. | az ORFK Hivatal Titkársági Főosztály Nemzetközi Kapcsolatok Osztályának valamennyi, az 1. és 2. pontban nem említett munkakörét betöltő személyek | A |
 
-| 4. | az ORFK Bűnügyi Főigazgatóság Elemző és Koordinációs Igazgatóság igazgatója, az igazgató közvetlen irányítása alá tartozó ügyintézői, több munkafolyamatot ellátó ügyviteli alkalmazottai | C |
+| 4. | az ORFK Humánigazgatási Szolgálat vezetője | C |
 
-| 5. | az ORFK Bűnügyi Főigazgatóság Bűnügyi Ellátó Igazgatóság igazgatója, az igazgató közvetlen irányítása alá tartozó ügyintézői és több munkafolyamatot ellátó ügyviteli alkalmazotti munkakörök, az Ellenőrzési és Titkársági Osztály valamennyi munkaköre, a Tanúvédelmi Szolgálat valamennyi munkaköre, a Személyvédelmi Osztály valamennyi munkaköre, a Logisztikai Főosztály vezetője és több munkafolyamatot ellátó ügyviteli alkalmazottai és a Műveleti Főosztály valamennyi munkaköre | C |
+| 5. | az ORFK Ellenőrzési Szolgálat vezetői, kiemelt főreferensi és főrevizori munkaköröket betöltő személyek | C |
 
-| 6. | az ORFK Közbiztonsági Főigazgatóság Védelmi Iroda valamennyi munkaköre, a megyei (fővárosi) rendőr-főkapitányságokon, rendőrkapitányságokon, valamint a Rendészeti Biztonsági Szolgálatnál védelmi feladatokat ellátó munkakörök | C |
+| 6. | az ORFK Ellenőrzési Szolgálatnál a 5. pontban fel nem sorolt valamennyi személy | B |
 
-| 7. | az ORFK Köztársasági Őrezred parancsnokhelyettese, titkárságvezetője, hivatalvezetője, Gazdasági Igazgatója, Személyügyi Szolgálat vezetője, a Jogi és Koordinációs Osztály vezetője, az Ügyeleti és Védelmi Osztály vezetője, az osztályvezető-helyettesek és a védelmi feladatokat ellátó munkakörök, TÜK vezető, az Ellenőrzési Szolgálat szolgálatvezetője és helyettese, a Személyvédelmi Főosztályon főosztályvezető, osztályvezető, személyi védelmet ellátó valamennyi munkakör, a Személy- és Lakásbiztosító Osztály Lakásbiztosító Alosztály valamennyi munkaköre, a Személybiztosító Alosztály alosztályvezetői munkaköre, a Megelőző-Védelmi Osztály Felderítő Alosztály valamennyi munkaköre, az Objektumvédelmi Főosztályon főosztályvezető, osztályvezető, alosztályvezető, kiemelt főreferens, kiemelt főelőadó, szolgálatparancsnok, őrségparancsnok, csoportvezető, díszőrparancsnok-helyettes, koronaőrző parancsnok-helyettes | C |
+| 7. | az ORFK Bűnügyi Főigazgatóságán a Bűnügyi Főosztály vezetője és a főosztályvezető közvetlen irányítása alatt álló kiemelt főreferensek és több munkafolyamatot ellátó ügyintéző, a Bűnügyi Elemző-Értékelő Főosztály, a Felderítő Osztály valamennyi munkakörét betöltő személyek, a Bűnügyi Osztály vezetője és a kábítószer-felelős feladatát ellátó beosztottja, a Titkársági Osztály valamennyi munkakörét betöltő személyek | C |
 
-| 8. | az ORFK Köztársasági Őrezrednél a Parancsnoki Titkárságon – a 6. pontban meghatározott vezetőkön kívül – valamennyi munkakör, a parancsnokhelyettesek közvetlen irányítása alá tartozó több munkafolyamatot ellátó ügyviteli alkalmazotti munkakörök, az Ellenőrzési Szolgálat 6. pontban fel nem sorolt valamennyi munkaköre, a Személyvédelmi Főosztály Megelőző-Védelmi Osztály Tűzszerész Alosztály valamennyi munkaköre, a Gazdasági Igazgatóságon osztályvezető, rejtjelző, a Híradó- és Biztonságtechnikai Osztály Hírközlési és Biztonságtechnikai Alosztály valamennyi munkaköre, az Informatikai Osztály Üzemeltetési Alosztály valamennyi munkaköre, a Kormányvendégházak Osztálya Rezidenciák gazdaasszonyi munkaköre, valamint azok az őrzés-védelmi munkakörök, amelyek olyan objektumokban vannak rendszeresítve, ahol EU-NATO akkreditált nyilvántartó működik | C |
+| 8. | az ORFK Bűnügyi Főigazgatóság Bűnügyi Főosztály Bűnügyi Osztály 7. pontban nem említett valamennyi, továbbá a Gazdaságvédelmi és Pénzhamisítás Elleni Osztály valamennyi munkakörét betöltő személyek | B |
 
-| 9. | a Nemzeti Nyomozó Irodánál a titkos információgyűjtésben és titkos adatszerzésben részt vevők és az e tárgykörben keletkezett adatokat kezelők munkakörei | C |
+| 9. | a Nemzetközi Bűnügyi Együttműködési Központ valamennyi munkakörét betöltő személyek | C |
 
-| 10. | a Rendészeti Biztonsági Szolgálatnál a parancsnokhelyettesek, a Repülőtéri Biztonsági Szolgálat parancsnoka és helyettese, az Állami Futárszolgálat parancsnoka és helyettese, az Autópálya Rendőrség parancsnoka és helyettese, a Szakszolgálati és Koordinációs Főosztály vezetője és a közvetlen alárendeltségükbe tartozó több munkafolyamatot ellátó ügyviteli alkalmazotti, valamint előadói, a Hír és Informatikai Osztály vezetője és helyettese, a Különleges Szolgálatok Parancsnoksága Terrorelhárító Szolgálatnál szolgálatparancsnoki és osztályvezetői munkakörök, a Rendészeti Biztonsági Szolgálat, az Állami Futárszolgálat és az Autópálya Rendőrség osztályvezetői, a Repülőtéri Biztonsági Szolgálat és az Autópálya Rendőrség nyomozói, a Központi Objektumvédelmi Osztály osztályvezetői, osztályvezető-helyettesi és csoportvezetői munkakörök, valamint az ügyeletvezetők és ügyeletesek | C |
+| 10. | az ORFK Rendészeti Főigazgatóságán a főosztályvezetők és a helyettesítésükre feljogosított vezetők, az Ügyeleti és Védelmi Igazgatási Osztály vezetője és helyettese, valamint a Védelmi és Biztonság Felügyeleti Alosztály vezetője és kiemelt főreferensei, és a Titkársági Osztály vezetője és kiemelt főreferensei | C |
 
-| 11. | az ORFK Gazdasági és Igazgatási Főigazgatóság főosztályvezetői, titkárságvezetője és a közvetlen alárendeltségébe tartozó, több munkafolyamatot ellátó ügyviteli alkalmazotti munkakörök, az Információtechnológiai és Műszaki Főosztály osztályvezetői, informatikai technikusi, operátori, rendszeradminisztrátori, minősített adatokat kezelő ügyintézői munkakörei, a Jogi Főosztály vezetője, osztályvezetői és a közvetlen alárendeltségükbe tartozó, több munkafolyamatot ellátó ügyviteli alkalmazotti munkakörök, a Jogi Főosztályon minősített koordinációs anyagokat kezelő ügyintéző munkakörök, minősített adat felhasználásával folyó perben képviseletet ellátó ügyintéző, minősített adathordozó kezelését végző ügyintéző | C |
+| 11. | az ORFK Rendészeti Főigazgatóságon – az Ügyeleti és Védelmi Igazgatási, valamint a Titkársági Osztály vezetőinek kivételével – az osztályvezetők és a Határrendészeti Főosztály Dokumentációs Osztály valamennyi munkakörét betöltő személyek | B |
 
-| 12. | az ORFK Humánigazgatási Főosztály vezetője | C |
+| 12. | az ORFK Gazdasági Főigazgatóság főosztályvezetői, az Igazgatási és Ügyviteli Főosztály osztályvezetői, az Információtechnológiai és Műszaki Főosztály osztályvezetői, informatikai technikusi, operátori, rendszer-adminisztrátori, az Információtechnológiai és Műszaki Főosztály Hálózat és Rejtjelfelügyeleti Osztály valamennyi munkakörét betöltő személyek, Számítástechnikai Központ azon munkaköreit betöltő személyek, akik az országos informatikai rendszereket, adatbázisokat felügyelik és üzemeltetik | C |
 
-| 13. | az ORFK nemzetbiztonsági megbízott és helyettesi munkaköre | C |
+| 13. | az ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóság és a regionális gazdasági ellátó igazgatóságok igazgatói, igazgató-helyettesei, igazgatási és ügyviteli, információtechnológiai és műszaki osztályvezetői, az informatikai technikusi, a megyei gazdasági osztályok információtechnológiai csoportvezetői és főelőadói munkaköreit betöltő személyek | C |
 
-| 14. | az ORFK Adat- és Titokvédelmi Osztály valamennyi munkaköre | C |
+| 14. | az ORFK Gazdasági Főigazgatóság, az ORFK Gazdasági Főigazgatóság Gazdasági Ellátó Igazgatóság, valamint a regionális gazdasági ellátó igazgatóságok 12. és 13. pontban fel nem sorolt vezetői munkaköreit betöltő személyek | B |
 
-| 15. | a „T” ellátmány kezelő és az Ellenőrző Bizottság tagjai | C |
+| 15. | a Köztársasági Őrezred parancsnokhelyettesei és a közvetlen irányításuk alá tartozó több munkafolyamatot ellátó ügyviteli alkalmazottak; a Parancsnoki Titkárság; a nemzetközi- és sajtó kapcsolatokat ellátó munkaköröket betöltő személyek; a Személyvédelmi Főosztályon valamennyi munkakört betöltő személy, az Objektumvédelmi Főosztály teljes tiszti és szolgálatparancsnoki állománya és a főosztály titkárnője, az Ellenőrzési Szolgálat teljes személyi állománya, a Köztársasági Őrezred Hivatalánál a vezetői, a védelmi, a „T” ügykezelői, titkárnői munkaköröket betöltő személyek és az Ügyeleti és Védelmi Osztály teljes személyi állománya; a Humánigazgatási Szolgálat vezetője és helyettese; a Gazdasági Igazgatóságon a vezetői, a rejtjelezői, a rezidenciákon lévő gazdaasszonyi, a közbeszerzéssel kapcsolatos feladatokat ellátó és a hírközlési, biztonságtechnikai és az informatikai rendszereket üzemeltető munkaköröket betöltő személyek | C |
 
-| 16. | a titokvédelmi felügyelő, számítógépes titokvédelmi felelős, a titkos ügykezelő, ügykezelés-vezető | C |
+| 16. | az ORFK nemzetbiztonsági megbízottak | C |
 
-| 17. | a megyei (fővárosi) rendőr-főkapitányságokon főkapitány-helyettesi munkakörök és a közvetlen alárendeltségébe tartozó, több munkafolyamatot ellátó ügyviteli alkalmazottak | C |
+| 17. | – a 20. pont kivételével – a „T” ellátmány kezelő | B |
 
-| 18. | a megyei (fővárosi) rendőr-főkapitányságok hivatalvezetői, ellenőrzési szolgálat szolgálatvezetői, személyügyi szolgálat szolgálatvezetői, titkárságvezetői, híradó és informatikai, ügyeleti, közrendvédelmi, közlekedésrendészeti, igazgatásrendészeti és bűnügyi-technikai osztályvezetői, ügyeleti alosztály vezetői munkakörök és a közvetlen alárendeltségébe tartozó, több munkafolyamatot ellátó ügyviteli alkalmazottak | C |
+| 18. | a titokvédelmi felügyelő, a számítástechnikai titokvédelmi felelős, a „T” ügykezelés-vezető és ügykezelő, a biztonsági megbízott, a helyi rendszerbiztonsági felelős, a helyi rendszer üzemeltetés biztonsági felelős, a számítástechnikai rendszergazda | C |
 
-| 19. | a megyei (fővárosi) rendőr-főkapitányságokon a bűnügyi szakterület főosztályvezetői, osztályvezetői és a közvetlen alárendeltségükbe tartozó ügykezelők, továbbá a titkos információgyűjtésben és titkos adatszerzésben részt vevők munkakörei, valamint az elemző-értékelő és koordinációs tevékenységet ellátók | C |
+| 19. | a megyei (fővárosi) rendőr-főkapitányságokon a főkapitány-helyettes; a Készenléti Rendőrségen, a Nemzeti Nyomozó Irodán és a Repülőtéri Rendőr Igazgatóságon a parancsnok-helyettes, igazgató-helyettes | C |
 
-| 20. | a rendőrkapitányságokon a rendőrkapitány helyettesítésére feljogosított vezetői, hivatalvezetői, illetve a bűnügyi szakterület osztályvezetői, felderítő alosztályvezetői munkakörei és a közvetlen alárendeltségébe tartozó, több munkafolyamatot ellátó ügyviteli alkalmazottak | C |
+| 20. | a Nemzeti Nyomozó Irodánál az Ellenőrzési Szolgálat, a Bűnügyi Szervek, a Bűnügyi Ellátó Szervek, valamint a Gazdaságvédelmi Főosztály valamennyi munkakörét betöltő személyek, a Koordinációs Főosztály főosztályvezetője, Humánigazgatási Szolgálat vezetője, Hivatal vezetője és az Elemző- Értékelő Osztály állománya, a Titkársági Osztály vezetője, a, „T” ellátmány kezelő | C |
 
-| 21. | a rendőrkapitányságokon osztály jogállású őrsparancsnoki, titkos információgyűjtésben és titkos adatszerzésben részt vevő nyomozói és körzeti megbízotti munkakörök | C |
+| 21. | a Nemzeti Nyomozó Iroda Koordinációs Főosztály Őrségi és Ügyeleti Osztály vezetője és helyettese, Humánigazgatási Szolgálat valamennyi munkakörét betöltő személyek, valamint a 19. és 20. pontokba nem tartozó állomány – kivéve a 22. pont | B |
 
-| 22. | az ORFK-n, a Rendészeti Biztonsági Szolgálatnál, a Nemzeti Nyomozó Irodánál, a megyei (fővárosi) rendőr-főkapitányságon és a rendőrkapitányságon a számítástechnikai rendszergazda | C |
+| 22. | a Nemzeti Nyomozó Iroda Koordinációs Főosztály Őrségi és Ügyeleti Osztály állománya | A |
 
-| 23. | az ORFK Gazdasági és Igazgatási Főigazgatóság 11. pontban fel nem sorolt vezetői munkakörei és a közvetlen alárendeltségébe tartozó, több munkafolyamatot ellátó ügyviteli alkalmazottak | B |
+| 23. | a Készenléti Rendőrségnél a főosztályvezetők és a helyettesítésükre feljogosított vezetők, a Légirendészeti Parancsnokság parancsnoka és helyettese, az Állami Futárszolgálat vezetője, a Különleges Szolgálatok Parancsnokságának szolgálatparancsnokai, a Terrorelhárító Szolgálat osztályvezetői | C |
 
-| 24. | az ORFK Költségvetési Ellenőrzési Osztály osztályvezetője és a közvetlen alárendeltségébe tartozó, több munkafolyamatot ellátó ügyviteli alkalmazottak | B |
+| 24. | a Készenléti Rendőrség Rendészeti Igazgatóságánál az Állami Futárszolgálat osztályvezetői és a Bevetési Főosztály III., Informatikai, Híradó és Dokumentációs Osztály vezetője, valamint az Ügyeleti Osztály vezetője | B |
 
-| 25. | az ORFK Szóvivői Iroda vezetői munkaköre, az ORFK Megelőzési Főosztály vezetője és a közvetlen alárendeltségébe tartozó, több munkafolyamatot ellátó ügyintézők | B |
+| 25. | a Repülőtéri Rendőr Igazgatóságon a Bűnügyi Szolgálat, valamint a Rendészeti Szolgálat Határrendészeti Osztály valamennyi munkakörét betöltő személyek | B |
 
-| 26. | az ORFK-n, Rendészeti Biztonsági Szolgálatnál, valamint a megyei (fővárosi) rendőr-főkapitányságokon a rejtjelzési felügyeleti, rejtjelzői, rejtjelzőeszköz-kezelő hírforgalmi tevékenységet ellátók | B |
+| 26. | a Repülőtéri Rendőr Igazgatóságon a Határellenőrzési Osztály, valamint Szakirányítási Osztály vezetője és helyettese | B |
 
-| 27. | az ORFK-n, megyei (fővárosi) rendőr-főkapitányságon, rendőrkapitányságon ügyeletvezetők, ügyeletvezető-helyettesek, ügyeletesek | A |
+| 27. | a Repülőtéri Rendőr Igazgatóság Információtechnológiai Osztály vezetője és főelőadója | C |
+
+| 28. | a megyei (fővárosi) rendőr-főkapitányságokon, a Készenléti Rendőrségnél, a Nemzeti Nyomozó Irodánál és a Repülőtéri Rendőr Igazgatóságon védelmi feladatokat ellátó munkaköröket betöltő személyek | C |
+
+| 29. | a megyei (fővárosi) rendőr-főkapitányságokon, a Készenléti Rendőrségnél és a Repülőtéri Rendőr Igazgatóságon a hivatalvezető és a humánigazgatási szolgálat vezetője, az ellenőrzési szolgálat vezetője és helyettese | B |
+
+| 30. | a megyei (fővárosi) rendőr-főkapitányságokon, a Készenléti Rendőrségnél és a Repülőtéri Rendőr Igazgatóságon rejtjelezési felügyeletet ellátó, valamint a rejtjelezői, rejtjelező eszközkezelő munkaköröket betöltő személyek | B |
+
+| 31. | a megyei (fővárosi) rendőr-főkapitányságokon a bűnügyi, a felderítő, migrációs és a gazdaságvédelmi osztály osztályvezetői és a helyettesítésükre feljogosított személyek | B |
+
+| 32. | a megyei (fővárosi) rendőr-főkapitányságokon a rendészeti szakterület főosztályvezetői, zászlóaljparancsnoka, osztályvezetői, operatív és taktikai feladatokat ellátó munkaköreit betöltő személyek | B |
+
+| 33. | a megyei rendőr-főkapitányság határrendészeti kirendeltségének vezetője | C |
+
+| 34. | a megyei (fővárosi) rendőr-főkapitányságokon a bevetési szolgálatok szolgálatvezetői, osztály- és alosztályvezetői, a beavatkozó alosztály alosztályvezetői | B |
+
+| 35. | a megyei (fővárosi) rendőr-főkapitányságokon a határrendészeti szolgálatok szolgálatvezetője | B |
+
+| 36. | a megyei (fővárosi) rendőr-főkapitányságokon a felderítő, a bűnügyi és a gazdaságvédelmi osztályok I. besorolási osztályba tartozó munkaköreit betöltő személyek | B |
+
+| 37. | a megyei (fővárosi) rendőr-főkapitányságokon, a Készenléti Rendőrségen és a Repülőtéri Rendőr Igazgatóságon, valamint a rendőrkapitányságokon az ügyeletvezetői munkaköröket betöltő személyek | A |
+
+| 38. | a rendőrkapitányságokon a rendőrkapitány helyettesítésére feljogosított vezető, valamint a bűnügyi szakterület osztályvezetői és helyetteseik, a rendészeti szakterület osztályvezetői, és a határrendészeti kirendeltségek osztályvezetői | B |
+
+| 39. | a rendőrkapitányság osztály jogállású őrsparancsnoka | A |
 
 | II. |  |
 
@@ -196,7 +222,7 @@ Melléklet az 5/2007. (II. 21.) IRM rendelethez[^2]
 
 | 3. | az a személy, akinek a munkaköri leírása szerint az 1–2. pontokban meghatározott minősítési szintet el nem érő nemzetközi kötelezettségvállalás alapján védelmet igénylő adatot kell feldolgoznia, felhasználnia | A |
 
-| 4. | az A)–D) pontokban fel nem sorolt személy, aki a munkaköri leírása alapján a Ttv. 9. § (1) bekezdésének a) és ba) pontja szerinti „Szigorúan titkos” és „Titkos” minősítési jelölésű adatot szükséges megismernie | B |
+| 4. | az A)–D) pontokban fel nem sorolt személy, akinek munkaköri leírása alapján a Ttv. 9. § (1) bekezdésének a) pontja szerinti „Szigorúan titkos!” minősítési jelölésű adatot szükséges ismernie | B |
 
 [^1]: A rendelet száma helyesen 12/2006. (III. 23.) IM rendelet.
-[^2]: A melléklet a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 68. pontja és 3. §-ának 31. pontja, a 10/2009. (III. 12.) KHEM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^2]: A melléklet a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 68. pontja és 3. §-ának 31. pontja, a 10/2009. (III. 12.) KHEM rendelet 2. § (2) bekezdése, az 1/2010. (I. 8.) IRM rendelet 1. §-a szerint módosított szöveg.
