@@ -1,0 +1,1 @@
+A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174. § (4) bekezdésében kapott felhatalmazás alapján, valamint a nemzeti fejlesztési és gazdasági miniszter feladat- és hatásköréről szóló 134/2008. (V. 14.) Korm. rendelet 1. § b)–d), g) pontjában megállapított feladatkörömben eljárva a következőket rendelem el:
