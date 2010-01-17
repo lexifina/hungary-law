@@ -1,1 +1,0 @@
-## 1. § A Kormány a Magyar Köztársaság Kormánya és Románia Kormánya között a szervezett bűnözés, a terrorizmus és a kábítószer tiltott forgalma elleni harcban történő együttműködésről szóló, Budapesten 1997. február 19-én aláírt Egyezményt e rendelettel kihirdeti.
