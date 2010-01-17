@@ -1,1 +1,0 @@
-A víziközlekedésről szóló 2000. évi XLII. törvény 88. §-a (2) bekezdésének b) és p) pontjában kapott felhatalmazás alapján, a közlekedési, hírközlési és energiaügyi miniszter feladat- és hatásköréről szóló 133/2008. (V. 14.) Korm. rendelet 1. §-ának a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
