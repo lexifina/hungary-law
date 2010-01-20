@@ -1,1 +1,0 @@
-## 3. § Az R. Mellékletének 15. sora szerinti „Az élelmiszerekhez engedélyezett adalékanyagok általános előírásai” 1-2-89/107 számú előírás 2. kiadása 4. §-ában az „Országos Közegészségügyi Központ Országos Élelmezés- és Táplálkozástudományi Intézetéhez” szövegrész helyébe a „Mezőgazdasági Szakigazgatási Hivatal Központjához” szövegrész lép.
