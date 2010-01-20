@@ -48,6 +48,6 @@
 
 | c) az a) és b) pontban foglalt díj tartalmazza az ideiglenes forgalomban tartási engedély érvényességi idején belül a külön jogszabály alapján bejelentett járművet érintő változás indítási naplóba történő bejegyzését, illetve törlését. |  |
 
-2. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^9]
+2. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^10]
 
-[^9]: A 2. számú melléklet a 46/2009. (IX. 25.) IRM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
+[^10]: A 2. számú melléklet a 46/2009. (IX. 25.) IRM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
