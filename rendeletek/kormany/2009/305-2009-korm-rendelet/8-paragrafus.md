@@ -8,5 +8,8 @@
 
 (4)[^8] 2010. évben a hivatali szervezet vezetője a 7. §-ban megállapított adatszolgáltatáson kívül, adatot szolgáltat a Miniszterelnöki Hivatalt vezető miniszter részére a szervezet köztisztviselőit megillető cafetéria-juttatások fajtájáról, mértékéről, az éves keretösszegről 2010. március 31-éig.
 
+(5)[^9] A köztisztviselő számára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 49/F. § (1) bekezdése szerinti juttatás csak cafetéria-juttatásként nyújtható.
+
 [^7]: A 7. § – a 8. § (2) bekezdése alapján – 2010. január 1-jén lépett hatályba.
 [^8]: A 8. § (4) bekezdése – a (2) bekezdés alapján – 2010. január 1-jén lépett hatályba.
+[^9]: A 8. § (5) bekezdését az 5/2010. (I. 19.) Korm. rendelet 3. § (4) bekezdése iktatta be.
