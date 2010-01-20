@@ -1,128 +1,16 @@
-3. §[^3]
+3. §[^4]
 
-Melléklet az 57/2006. (VIII. 4.) FVM rendelethez[^4]
+Melléklet az 57/2006. (VIII. 4.) FVM rendelethez
 
-I.
+I.[^5]
 
-II.
-
-Az R. mellékletének 20. sora szerinti, „Az élelmiszerekben használható adalékanyagok, az édesítőszerek és a színezékek kivételével 1–2–95/2 számú előírás 4. kiadása” 4. számú melléklete táblázatának 2. sora helyébe a következő szövegrész lép:
-
-| [E szám | Név | Élelmiszer | Maximális szint] |
-
-|  | „A következő élelmiszerekben az E 338 foszforsav, az E 339, E 340, E 341, E 343, E 450, E 451, E 452 foszfátok egyedileg vagy keverten használhatók (P2O5-ben kifejezve). |  |
-
-| E 338 | foszforsav | Üdítőitalok | 700 mg/l |
-
-|  |  | Sterilezett és UHT-kezelt tej | 1 g/l |
-
-|  |  | Kandírozott gyümölcsök | 800 mg/kg |
-
-|  |  | Gyümölcskészítmények | 800 mg/kg |
-
-| E 339 | nátrium-foszfátok | Részlegesen dehidratált tej, 28% alatti szárazanyag-tartalommal | 1 g/kg |
-
-|  | a) nátrium-dihidrogén-foszfát | Részlegesen dehidratált tej, 28% feletti szárazanyag-tartalommal | 1,5 g/kg |
-
-|  | b) dinátrium-hidrogén-foszfát | Tejpor és sovány tejpor | 2,5 g/kg |
-
-|  | c) trinátrium-foszfát | Pasztőrözött, sterilezett és UHT-kezelt tejszín | 5 g/kg |
-
-|  |  | Tejszínhab és növényi zsíranalógok | 5 g/kg |
-
-|  |  | Nyers sajt (kivéve a Mozzarellát) | 2 g/kg |
-
-| E 340 | kálium-foszfátok | Ömlesztett sajtok és feldolgozott sajtanalógok | 20 g/kg |
-
-|  | a) kálium-dihidrogén-foszfát | Húskészítmények | 5 g/kg |
-
-|  | b) dikálium-hidrogén-foszfát | Sportitalok és ásványi anyaggal dúsított palackozott vizek | 0,5 g/l |
-
-|  | c) trikálium-foszfát | Étrend-kiegészítők | GMP |
-
-|  |  | Só és sóhelyettesítők | 10 g/kg |
-
-|  |  | Növényifehérje-italok | 20 g/l |
-
-| E 341 | kalcium-foszfátok | Italfehérítők | 30 g/kg |
-
-|  | a) kalcium-hidrogén-foszfát | Italfehérítők árusító automatákhoz | 50 g/kg |
-
-|  | b) dikalcium-foszfát | Fagyasztott állapotban fogyasztandó készítmények (például fagylaltok, jégkrémek) | 1 g/kg |
-
-|  | c) trikalcium-foszfát | Desszertek | 3 g/kg |
-
-|  |  | Desszertporok | 7 g/kg |
-
-| E 343 | magnézium-foszfátok | Finom pékáruk, sütemények, tartós lisztes készítmények | 20 g/kg |
-
-|  | a) mono-magnézium-foszfát | Liszt | 2,5 g/kg |
-
-|  | b) dimagnézium-foszfát | Liszt, sütéskész (sütőportartalmú) | 20 g/kg |
-
-|  |  | Soda bread | 20 g/kg |
-
-|  |  | Tojáslé (fehérje, sárgája vagy egész) | 10 g/kg |
-
-| E 450 | difoszfátok | Mártások, szószok | 5 g/kg |
-
-|  | a) dinátrium-difoszfát | Levesek és erőleves, levesalapok | 3 g/kg |
-
-|  | b) trinátrium-difoszfát | Instant tea és instant gyógynövény-kivonatok, főzetek | 2 g/l |
-
-|  | c) tetranátrium-difoszfát | Rágógumi | GMP |
-
-|  | d) tetrakálium-difoszfát | Szárított, porított élelmiszerek | 10 g/kg |
-
-|  | e) dikalcium-difoszfát | Tejalapú csokoládé és malátaitalok | 2 g/l |
-
-|  | f) kalcium-dihidrogén-difoszfát | Szeszes italok (kivéve a bort és a sört) | 1 g/l |
-
-|  |  | Reggeli-cereáliatermékek | 5 g/kg |
-
-|  |  | Snackek | 5 g/kg |
-
-| E 451 | trifoszfátok | Surimi | 1 g/kg |
-
-|  |  | Hal- és rákkrémek | 5 g/kg |
-
-|  | a) pentanátrium-trifoszfát | Öntetek (palacsinta-szirupok, ízesített szörpök tejturmixokhoz és fagylaltokhoz; hasonló termékek) | 3 g/kg |
-
-|  | b) pentakálium-trifoszfát | Különleges táplálkozási célokra készített élelmiszerek | 5 g/kg |
-
-|  |  | Hús- és zöldségtermékek bevonatai | 4 g/kg |
-
-| E 452 | polifoszfátok | Cukorkák | 5 g/kg |
-
-|  | a)  nátrium-polifoszfát | Porcukor | 10 g/kg |
-
-|  | b)  kálium-polifoszfát | Metélt tészták | 2 g/kg |
-
-|  | c)  nátrium-kalcium-polifoszfát | Folyékony tészták | 12 g/kg |
-
-|  | d)  kalcium-polifoszfát | Nyers halfilék, fagyasztva és gyorsfagyasztva | 5 g/kg |
-
-|  |  | Nyers és feldolgozott, fagyasztott és gyorsfagyasztott csiga- és ráktermékek | 5 g/kg |
-
-|  |  | Feldolgozott burgonyatermékek (beleértve a fagyasztott, gyorsfagyasztott, hűtött vagy szárított termékeket) elősütött fagyasztott és mélyhűtött burgonya | 5 g/kg |
-
-|  |  | Kenhető zsírok a vaj kivételével | 5 g/kg |
-
-|  |  | Savanyú tejszínvaj | 2 g/kg |
-
-|  |  | Rákkonzervek | 1 g/kg |
-
-|  |  | Víz alapú emulziók sütőformák kenésére | 30 g/kg |
-
-|  |  | Kávé alapú italok automatákhoz | 2 g/kg |
-
-|  |  | Aromák | 40 g/kg” |
+II.[^6]
 
 * * *
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének
 
-1. sorszámú előírása[^5]
+1. sorszámú előírása[^7]
 
 * * *
 
@@ -634,6 +522,7 @@ w) A cseh „sušená smetana” az 1. számú melléklet 2. pont a) alpontjába
 
 x) A cseh „sušené polotučné mléko” az 1. számú melléklet 2. pont c) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 14 és 16% (m/m) között van.
 
-[^3]: A 3. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 82. pontja hatályon kívül helyezte.
-[^4]: A melléklet a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 82. pontja szerint módosított szöveg.
-[^5]: Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: A 3. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 82. pontja hatályon kívül helyezte.
+[^5]: A melléklet I. pontját a 118/2008. (V. 8.) Korm. rendelet 9. § 82. pontja hatályon kívül helyezte.
+[^6]: A melléklet II. pontját a 152/2009. (XI. 12.) FVM rendelet 2. § (5) bekezdés h) pontja hatályon kívül helyezte.
+[^7]: Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.
