@@ -6,23 +6,7 @@
 
 (4) Az 1. § (2) bekezdésének c)–e) pontja és a 3–5. melléklet 2010. január 20-án lép hatályba.
 
-(5) 2010. január 20-án hatályát veszti
-
-a) az R. Mellékletének 10. sora;
-
-b) az R. Mellékletének 15. sora;
-
-c) az R. Mellékletének 18. sora, valamint a Magyar Élelmiszerkönyv közösségi előírások átvételét megvalósító kötelező előírásairól szóló 56/2004. (IV. 24.) FVM rendelet módosításáról szóló 2/2005. (I. 11.) FVM rendelet Mellékletében szereplő „Az élelmiszerekben használható édesítőszerek” 1-2-94/35 számú előírás;
-
-d) az R. Mellékletének 19. sora, valamint a Magyar Élelmiszerkönyv közösségi előírások átvételét megvalósító kötelező előírásairól szóló 56/2004. (IV. 24.) FVM rendelet módosításáról szóló 2/2005. (I. 11.) FVM rendelet Mellékletében szereplő „Az élelmiszerekben használható színezékek” 1-2-94/36 számú előírás;
-
-e) az R. Mellékletének 20. sora, valamint a Magyar Élelmiszerkönyv közösségi előírások átvételét megvalósító kötelező előírásairól szóló 56/2004. (IV. 24.) FVM rendelet módosításáról szóló 2/2005. (I. 11.) FVM rendelet Mellékletében szereplő „Az élelmiszerekben használható adalékanyagok, az édesítőszerek és a színezékek kivételével” 1-2-95/2 számú előírás;
-
-f) az R. Mellékletének 66. sora, valamint a Magyar Élelmiszerkönyv közösségi előírások átvételét megvalósító kötelező előírásairól szóló 56/2004. (IV. 24.) FVM rendelet módosításáról szóló 57/2007. (VII. 6.) FVM rendelet Mellékletében szereplő „A színezékeken és az édesítőszereken kívüli egyéb élelmiszer-adalékanyagokról szóló 1-2-95/2 előírás és az élelmiszerekben felhasználandó édesítőszerekről szóló 1-2-94/35 előírás módosításáról” 1-2-2006/52 számú előírás;
-
-g) a Magyar Élelmiszerkönyv közösségi előírások átvételét megvalósító kötelező előírásairól szóló 56/2004. (IV. 24.) FVM rendelet módosításáról szóló 6/2008. (I. 17.) FVM rendelet 3–6. §-a, 7. §-ának (2) bekezdése;
-
-h) a Magyar Élelmiszerkönyv közösségi előírások átvételét megvalósító kötelező előírásairól szóló 56/2004. (IV. 24.) FVM rendelet módosításáról szóló 57/2006. (VIII. 4.) FVM rendelet Mellékletének II. pontja.
+(5)[^6]
 
 (6) Az 1. § (2) bekezdésének h) pontja és a 8. melléklet 2010. február 13-án lép hatályba.
 
@@ -49,3 +33,4 @@ d) 2011. január 21-én a (8) bekezdés;
 e) 2011. január 22-én a (9) bekezdés.
 
 [^5]: A 2. § (2) bekezdését a (9) bekezdés a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (5) bekezdését a (9) bekezdés b) pontja hatályon kívül helyezte.
