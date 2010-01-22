@@ -1,1 +1,0 @@
-## 1. § A rendelet hatálya kiterjed a gazdasági miniszter (a továbbiakban: kijelölő) feladat- és hatáskörébe utalt szakágazatok vonatkozásában a műszaki termékek megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelölésére.
