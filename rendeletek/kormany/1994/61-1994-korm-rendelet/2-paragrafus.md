@@ -4,10 +4,10 @@
 
 ## 2. §
 
-(1)[^1] Az 1. §-ban foglaltak elősegítése érdekében a Magyar Honvédségnél Tábori Lelkészi Szolgálat (a továbbiakban: Szolgálat) létesül.
+(1)[^2] Az 1. §-ban foglaltak elősegítése érdekében a Magyar Honvédségnél Tábori Lelkészi Szolgálat (a továbbiakban: Szolgálat) létesül.
 
 (2) A Szolgálat négy egyház: a katolikus, a református, az evangélikus és a zsidó lelkészeiből áll.
 
 (3) A tábori lelkészek munkájukat ökumenikus szellemben, a felekezeti önállóság tiszteletben tartásával végzik.
 
-[^1]: A 2. § (1) bekezdése a 331/2007. (XII. 13.) Korm. rendelet 3. § 3. pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 331/2007. (XII. 13.) Korm. rendelet 3. § 3. pontja szerint módosított szöveg.
