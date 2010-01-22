@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-20-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2002-20-20-86.2 | 20/2002. (X. 4.) NKÖM rendelet |
+| 2010-01-22 | 2002-20-20-86.3 | 2/2010. (I. 14.) OKM rendelet |
