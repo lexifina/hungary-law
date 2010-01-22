@@ -1,0 +1,11 @@
+## 10. § Az országos múzeum működési engedélyének kiadása iránti kérelemben a fenntartó a 3. §-ban meghatározottak teljesítéséhez igazolja, hogy:
+
+a) a múzeumot befogadó épületben állandó és időszakos kiállítás bemutatására alkalmas kiállító helyiségeket, gyűjteményi raktárakat, előkészítő raktárt, felszerelt restaurátor műhelyeket, vegyszerraktárt, fotóműhelyt, szakkönyvtárat, adattárat, múzeumpedagógiai foglalkoztató teret és a közönség fogadását szolgáló helyiségeket alakított ki, valamint az épületet elektronikus és mechanikus, továbbá megfelelő élőerős védelemmel látta el,
+
+b) a múzeum állandó és időszaki kiállítást mutat be, amelyek hetente legalább hat napon át naponta nyolcórás nyitva tartás és a d) pontban meghatározott munkakört betöltő, felsőfokú végzettséggel rendelkező alkalmazott jelenléte mellett látogathatók, valamint a kiállításokhoz kapcsolódóan rendszeres közművelődési és múzeumpedagógiai szolgáltatásokat nyújt,
+
+c) a múzeum hetente legalább két napon négyórás időtartamban kutatószolgálatot működtet,
+
+d) a múzeumban a gyűjtőkörébe tartozó szakáganként több muzeológus, több restaurátor – természettudományi gyűjtemény esetén –, preparátor, továbbá több múzeumi közművelődési szakember, múzeumi könyvtáros, múzeumi adattáros, múzeumi fotós, múzeumi informatikus, és több múzeumi gyűjtemény- és raktárkezelő munkakört létesítenek, amelyet külön jogszabályban meghatározott képesítéssel rendelkező szakember tölt be,
+
+e) az arra jogosult a kérelem alapjául szolgáló kulturális javakat alapleltárba, illetve külön nyilvántartásba vette.
