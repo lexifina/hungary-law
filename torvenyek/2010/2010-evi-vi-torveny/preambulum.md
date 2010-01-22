@@ -1,0 +1,1 @@
+(Az Egyesült Nemzetek Főtitkára mint az ADN letéteményese körlevélben értesítette a Szerződő Feleket, hogy az ADN módosításáról szóló Jegyzőkönyv 2009. augusztus 6-án, az ADN-hez csatolt Szabályzat 2009. évi módosításai 2009. február 28-án hatályba léptek.)

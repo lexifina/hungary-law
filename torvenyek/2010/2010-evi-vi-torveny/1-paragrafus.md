@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Genfben 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodás (ADN) szövegének módosításáról szóló Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv), valamint az ADN-hez csatolt Szabályzat 2009. évi módosításokkal egységes szerkezetbe foglalt szövegét (a továbbiakban: Szabályzat) e törvénnyel kihirdeti.
