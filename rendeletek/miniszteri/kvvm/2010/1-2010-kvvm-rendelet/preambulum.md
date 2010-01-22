@@ -1,0 +1,1 @@
+A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 13. pontjában kapott felhatalmazás alapján, a környezetvédelmi és vízügyi miniszter feladat- és hatásköréről szóló 165/2006. (VII. 28.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
