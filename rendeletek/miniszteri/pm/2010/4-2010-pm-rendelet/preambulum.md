@@ -1,0 +1,1 @@
+A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény 69. §-a (1) bekezdésének c) pontjában kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § g) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
