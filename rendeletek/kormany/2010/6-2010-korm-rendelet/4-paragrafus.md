@@ -1,0 +1,1 @@
+## A fedezeti összeghatár
