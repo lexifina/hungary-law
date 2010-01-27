@@ -16,4 +16,6 @@ c) amennyiben az MVH vagy a borászati hatóság ellenőrzése során megállap�
 
 (5) Azon kérelmező, aki az 5. §-ban foglalt beszállítási kötelezettségének legalább 90%-os mértékben nem tesz eleget, 2011. július 31-ig nem kérelmezhet a tanácsi rendelet 103o–103u., valamint 103w–103y. cikkei alapján folyósított támogatást.
 
-(6) A (3) és (4) bekezdésekben foglalt szüreti, termelési vagy készlet-jelentési kötelezettségek teljesítését az MVH PKI a külön jogszabályban meghatározott integrált szőlészeti és borászati nyilvántartó rendszer segítségével ellenőrzi.
+(6)[^2]
+
+[^2]: A 8. § (6) bekezdését a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés d) pontja hatályon kívül helyezte.
