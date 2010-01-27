@@ -1,0 +1,7 @@
+## Az igénylések elbírálásának folyamata
+
+7. § (1) Az igényléseket a Magyar Államkincstár illetékes területi szervéhez (a továbbiakban: Igazgatóság) két – egy eredeti és egy hiteles másolati – példányban kell benyújtani a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény (a továbbiakban: költségvetési törvény) 5. számú melléklet 7. pontjában foglaltak szerinti határidőkig. A határidőn túl benyújtott igényléseket az Igazgatóság nem továbbítja a helyi önkormányzatokért felelős miniszter által vezetett minisztériumhoz (a továbbiakban: minisztérium).
+
+(2) Az Igazgatóság a rendelkezésére álló iratok, saját nyilvántartása, illetve helyszíni vizsgálat alapján szabályszerűségi szempontból megvizsgálja az igénylést, és szükség esetén, jogszabályban meghatározott rövid határidő kitűzésével hiánypótlásra, módosításra hívja fel az igénylőt. Ha az igénylő a felhívásnak a kitűzött határidőig nem tesz eleget, vagy nem megfelelően teljesíti azt, az Igazgatóság az igénylést nem továbbítja a minisztériumba, és erről értesíti az igénylőt.
+
+(3) Az Igazgatóság az igényléseket papír alapon egy eredeti példányban részletes véleményének egyidejű csatolásával küldi meg a minisztérium részére. Ha a minisztérium az igénylések vizsgálata során további tájékoztatást, illetve dokumentumok megküldését tartja szükségesnek, ezeket az igénylők – külön felhívásra – kötelesek részére teljesíteni.
