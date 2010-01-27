@@ -1,4 +1,4 @@
-## 13. §[^1]
+## 13. §[^4]
 
 ## Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 13. § 2010. január 1-jén hatályát veszti.
 
-[^1]: A 13. §-t a 14. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 13. §-t a 14. § (2) bekezdése hatályon kívül helyezte.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-13-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2009-13-20-82.2 | 13/2009. (II. 27.) FVM rendelet |
+| 2010-01-27 | 2009-13-20-82.3 | 3/2010. (I. 26.) FVM rendelet |

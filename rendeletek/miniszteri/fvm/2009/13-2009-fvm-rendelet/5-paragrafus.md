@@ -6,4 +6,6 @@
 
 (2) Nem igényelhető támogatás azon alkoholmennyiség után, amely meghaladja azoknak az adott borpiaci évben termelt borok alkoholtartalmának 10 százalékát, amelyek termelése során keletkezett melléktermékek, illetve borok támogatott lepárlás útján kerülnek megsemmisítésre.
 
-(3) A (2) bekezdésben meghatározott alkoholmennyiség megállapítása érdekében a 123/2008. FVM rendelet 7. §-ának (3) bekezdésében részletezett adatokat az MVH legkésőbb a borpiaci év március 3-ig megküldi a miniszter részére. A támogatást igénylő lepárlóüzem részére adható támogatás meghatározásához szükséges adatokról a miniszter az adott borpiaci év március 14-ig tájékoztatja az MVH-t.
+(3)[^1]
+
+[^1]: Az 5. § (3) bekezdését a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte.
