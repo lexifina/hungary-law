@@ -1,7 +1,12 @@
+## 20. §[^36]
+
 ## Az Európai Unió jogának való megfelelés
 
 ## 21. § E rendelet az alábbi közösségi rendelkezések végrehajtásához szükséges rendelkezéseket állapítja meg:
 
-a) a borpiac közös szervezéséről, az 1493/1999/EK, az 1782/2003/EK, az 1290/2005/EK és a 3/2008/EK rendelet módosításáról, valamint a 2392/86/EGK és az 1493/1999/EK rendelet hatályon kívül helyezéséről szóló 479/2008/EK (2008. április 29.) tanácsi rendelet 16. cikke,
+a)[^37] a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet 103v. cikke,
 
 b) a borpiac közös szervezéséről szóló 479/2008/EK tanácsi rendeletnek a támogatási programok, a harmadik országokkal folytatott kereskedelem, a termelési potenciál és borágazat ellenőrzése tekintetében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló 555/2008/EK (2008. június 27.) bizottsági rendeletének II. Cím II. fejezet 7. szakasza.
+
+[^36]: A 20. §-t a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^37]: A 21. § a) pontja a 3/2010. (I. 26.) FVM rendelet 11. §-ával megállapított szöveg.

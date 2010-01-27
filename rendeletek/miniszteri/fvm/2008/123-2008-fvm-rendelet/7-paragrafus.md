@@ -2,6 +2,9 @@
 
 7. § (1) A kötelezettnek a kivonás tényét – az időpont, a borászati melléktermék típusa, a mennyiség és alkoholtartalom, a szőlőtörköly és borseprő kivonás módjának feltüntetésével – a kivonás napján be kell jegyeznie a pincekönyvbe.
 
-(2) A szőlőtörköly és a borseprő kivonásával kapcsolatban keletkezett összes bizonylatot és a kivonáshoz szükséges hatósági engedélyeket a kötelezettnek a kötelezettség teljesítését követő ötödik naptári év végéig meg kell őriznie, és ellenőrzés esetén az ellenőrzést végző hatóságoknak be kell mutatnia.
+(2)[^5] A szőlőtörköly és a borseprő kivonásával kapcsolatban keletkezett összes bizonylatot és a kivonáshoz szükséges hatósági engedélyeket a kötelezettnek a kötelezettség teljesítését követő ötödik naptári év végéig meg kell őriznie.
 
-(3) Azon kötelezettnek, aki a 3. § (2) bekezdésének a) pontja szerinti lepárlóüzem részére adja le a borászati mellékterméket, az adott borpiaci év január 15. napjáig az MVH részére be kell nyújtani a szőlészeti és borászati adatszolgáltatás rendjéről és a nem hegyközségi településeken a közigazgatási feladatokat ellátó hegyközségek meghatározásáról szóló 96/2004 (VI. 3.) FVM rendelet 8. számú melléklete szerinti, az illetékes hegybíró által ellenjegyzett termelési jelentés másolatait, valamint azoknak az MVH által közleményben közzétett formanyomtatvány szerinti összesítőjét.
+(3)[^6] Az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) minden év április 5-ig tájékoztatja az MVH-t a szőlőfeldolgozás és a borkészítés során keletkező melléktermékek támogatással történő lepárlásának feltételeiről szóló 13/2009. (II. 27.) FVM rendelet 5. § (2) bekezdése szerinti, az adott borpiaci évben támogatható maximális alkoholmennyiségről.
+
+[^5]: A 7. § (2) bekezdése a 3/2010. (I. 26.) FVM rendelet 3. §-ával megállapított szöveg.
+[^6]: A 7. § (3) bekezdése a 3/2010. (I. 26.) FVM rendelet 3. §-ával megállapított szöveg.

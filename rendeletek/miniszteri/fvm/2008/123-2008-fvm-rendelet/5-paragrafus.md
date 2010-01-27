@@ -1,4 +1,4 @@
-5. § (1) A borászati melléktermékek ellenőrzés melletti kivonását a kivonás tényleges megkezdése előtt legalább 72 órával be kell jelenteni a Mezőgazdasági és Szakigazgatási Hivatal Borminősítési Igazgatóságának (a továbbiakban: borászati hatóság) postai úton, személyesen, elektronikusan vagy faxon.
+5. § (1)[^3] A borászati melléktermékek ellenőrzés melletti kivonását a kivonás tényleges megkezdése előtt legalább 72 órával írásban be kell jelenteni a Mezőgazdasági Szakigazgatási Hivatal területi szervének.
 
 (2) A bejelentésnek legalább az alábbi adatokat tartalmaznia kell:
 
@@ -11,3 +11,5 @@ c) az ellenőrzés mellett kivonandó borászati melléktermék becsült mennyis
 d) az ellenőrzés melletti kivonás tervezett módja,
 
 e) az ellenőrzés melletti kivonás tervezett időpontja.
+
+[^3]: Az 5. § (1) bekezdése a 3/2010. (I. 26.) FVM rendelet 2. §-ával megállapított szöveg.

@@ -1,13 +1,14 @@
+## 18. §[^32]
+
 ## Záró és átmeneti rendelkezések
 
-19. § (1) E rendelet a kihirdetését követő napon lép hatályba. Ezzel egyidejűleg hatályát veszti
+19. § (1)[^33] E rendelet a kihirdetését követő napon lép hatályba.
 
-a) a szőlőfeldolgozás és a borkészítés során keletkező melléktermékek lepárlásáról és kivonásáról szóló 75/2004. (VI. 4.) FVM rendelet[^3],
+a)–b)[^34]
 
-b) a szőlőfeldolgozás és a borkészítés során keletkező melléktermékek lepárlásáról és kivonásáról szóló 75/2004. (V. 4.) FVM rendelet módosításáról szóló 144/2007. (XII. 4.) FVM rendelet.
+(2)–(3)[^35]
 
-(2) A 16. § (1) bekezdése szerinti formanyomtatványokat az MVH az e rendelet hatálybalépésének napjától számított 5 napon belül a honlapján letölthető formában közzéteszi.
-
-(3) A 2008/2009. borpiaci évre vonatkozóan a lepárlóüzem által a kötelezettnek fizetendő beszállítási költségtérítésre vonatkozó összeget a miniszter hagyja jóvá a 13. § (1) bekezdés szerinti lepárlóüzem tájékoztatása alapján. A miniszter a jóváhagyott összegről tájékoztatja az MVH-t, aki a tájékoztatás kézhezvételétől számított 3 napon belül azt közleményben hirdeti ki.
-
-[^3]: A rendelet száma helyesen 75/2004. (V. 4.) FVM rendelet.
+[^32]: A 18. §-t és az azt megelőző alcímet a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^33]: A 19. § (1) bekezdés bevezető szövegrésze a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^34]: A 19. § (1) bekezdés a)–b) pontját a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^35]: A 19. § (2)–(3) bekezdését a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.

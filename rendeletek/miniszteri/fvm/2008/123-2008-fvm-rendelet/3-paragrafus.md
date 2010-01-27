@@ -36,4 +36,6 @@ c) csak borseprő leadása esetében az 5%-ot.
 
 (6) A borászati melléktermékek kivonásának kötelezettsége nem vonatkozik a tokaji fordítás, a tokaji máslás és a jégbor előállításához felhasznált szőlőtörkölyre, illetve borseprőre.
 
-(7) Ha a kötelezett a bor kezelésénél kékderítést alkalmazott, a keletkezett kékderítési alj kezeléséről a külön jogszabályoknak megfelelően köteles gondoskodni.
+(7)[^1] Ha a kötelezett a bor kezelésénél kékderítést alkalmazott, a keletkezett kékderítési alj kezeléséről a veszélyes hulladékra vonatkozó szabályok szerint köteles gondoskodni.
+
+[^1]: A 3. § (7) bekezdése a 3/2010. (I. 26.) FVM rendelet 1. §-ával megállapított szöveg.

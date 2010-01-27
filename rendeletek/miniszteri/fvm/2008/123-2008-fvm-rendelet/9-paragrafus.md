@@ -2,17 +2,17 @@
 
 9. § (1) Az MVH a borászati melléktermékek kivonására és lepárlására vonatkozó kötelezettségek teljesítésének ellenőrzéséhez kapcsolódó hatósági feladatok tekintetében
 
-a) részvételi felhívást tesz közzé a 479/2008/EK rendelet 16. cikkében szabályozott lepárlási műveleteket végző, borászati melléktermékek lepárlásában részt vevő üzemek és begyűjtőhelyeik jóváhagyásához,
+a)[^10] részvételi felhívást tesz közzé a 1234/2007/EK tanácsi rendelet 103v. cikkében szabályozott lepárlási műveleteket végző, borászati melléktermékek lepárlásában részt vevő üzemek és begyűjtőhelyeik jóváhagyásához,
 
 b) jóváhagyja a részvételi felhívásban, illetve az a) pontban meghatározott feltételeknek megfelelő lepárlóüzemeket és begyűjtőhelyeket,
 
 c) közzéteszi a jóváhagyott lepárlóüzemek és begyűjtőhelyeik listáját,
 
-d) ellenőrzi e rendelet alkalmazásában, hogy a lepárlóüzemek és a begyűjtőhelyek a vonatkozó közösségi, illetve nemzeti jogszabályokban meghatározott feltételeket betartják,
+d)[^11]
 
 e) azon kötelezettekről, akik borászati mellékterméket adtak le támogatott lepárlás céljából, az adott borpiaci év június 10-ig összesített jelentést küld a borászati hatóság részére, amely jelentésnek tartalmaznia kell a kötelezett nevét (cégnevét), regisztrációs számát, adóazonosító jelét vagy adószámát, valamint a leadott borászati melléktermékek mennyiségét és alkoholtartalmát típus szerinti bontásban,
 
-f) a VPOP részére megküldi a jóváhagyott lepárlóüzemek és begyűjtőhelyeik listáját a jóváhagyástól számított 15 napon belül,
+f)[^12] a Vám és Pénzügyőrség Országos Parancsnoksága (a továbbiakban: VPOP) részére megküldi a jóváhagyott lepárlóüzemek és begyűjtőhelyeik listáját a jóváhagyástól számított 10 munkanapon belül,
 
 g) a VPOP felé megkereséssel élhet a 8. § (2) bekezdésében meghatározott támogatások ellenőrzése céljából, amelyben megadja a kötelezett azonosításához szükséges adószámot vagy adóazonosító jelet.
 
@@ -20,7 +20,7 @@ g) a VPOP felé megkereséssel élhet a 8. § (2) bekezdésében meghatározott 
 
 a) évente legalább egy alkalommal ellenőrzi az Európai Unión belüli, vagy a Nemzetközi Szőlészeti és Borászati Szervezet (Organisation International de la Vigne et du Vin, a továbbiakban: OIV) előírásai szerinti analitikai vizsgálati szabályok betartását a jóváhagyott lepárlóüzemeknél,
 
-b) az ellenőrzött kivonásra vonatkozó bejelentések alapján helyszíni ellenőrzéseket végez,
+b)[^13]
 
 c) ellenőrzi a borászati melléktermékek kivonásával, leadásával, borseprő denaturálásával kapcsolatos pincekönyvbe történő bejegyzéseket,
 
@@ -28,14 +28,23 @@ d) ellenőrzi a lepárlásra leadott borászati melléktermékek minőségét,
 
 e) ellenőrzi a lepárlóüzem mérési eredményeinek pontosságát,
 
-f) az a) és e) pontokban meghatározott ellenőrzésekről az ellenőrzést követő 15 napon belül jelentést küld az MVH részére,
+f)[^14] az a) és e) pontokban meghatározott ellenőrzéseket követő 10 munkanapon belül az ellenőrzésről készült jegyzőkönyv vagy hivatalos feljegyzés másolatát megküldi az MVH részére,
 
-g) a jogszabálysértést megállapító, a b) és c) pontokban meghatározott ellenőrzések eredményéről a 8. § (1) bekezdésben foglaltakon túl borpiaci évenként összesített jelentést küld az MVH részére az adott borpiaci év június 15-ig.
+g)[^15] a jogszabálysértést megállapító, a b) és c) pontokban meghatározott ellenőrzések eredményéről borpiaci évenként összesített jelentést küld az MVH részére az adott borpiaci év június 15-ig.
 
-(3) A VPOP a borászati melléktermékek kivonására és lepárlására vonatkozó kötelezettségek teljesítésének ellenőrzéséhez kapcsolódó hatósági feladatok tekintetében
+(3)[^16] A vámhatóság a borászati melléktermékek kivonására és lepárlására vonatkozó kötelezettségek teljesítésének ellenőrzéséhez kapcsolódó hatósági feladatok tekintetében
 
 a) ellenőrzi az MVH által jóváhagyott lepárlóüzemek és begyűjtőhelyek működését,
 
-b) az MVH részére megküldi a Magyarországon bejegyzett székhelyű kereskedelmi szeszfőzdék jegyzékét minden borpiaci évben május 25-ig,
+b) a jóváhagyott lepárlóüzemek és begyűjtőhelyek ellenőrzése során a feltárt jogszabálysértésről az ellenőrzéstől számított 10 munkanapon belül tájékoztatja az MVH-t.
 
-c) a jóváhagyott lepárlóüzemek és begyűjtőhelyek ellenőrzése során a feltárt jogszabálysértést az ellenőrzéstől számított 15 napon belül megküldi az MVH részére.
+(4)[^17] A VPOP az MVH részére megküldi a Magyarországon bejegyzett székhelyű kereskedelmi szeszfőzdék, valamint a mezőgazdasági eredetű termékek kereskedelmi célú lepárlását végző adóraktárak jegyzékét minden borpiaci évben május 25-ig.
+
+[^10]: A 9. § (1) bekezdés a) pontja a 3/2010. (I. 26.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^11]: A 9. § (1) bekezdés d) pontját a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^12]: A 9. § (1) bekezdés f) pontja a 3/2010. (I. 26.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^13]: A 9. § (2) bekezdés b) pontját a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^14]: A 9. § (2) bekezdés f) pontja a 3/2010. (I. 26.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^15]: A 9. § (2) bekezdés g) pontja a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^16]: A 9. § (3) bekezdése a 3/2010. (I. 26.) FVM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^17]: A 9. § (4) bekezdését a 3/2010. (I. 26.) FVM rendelet 5. § (4) bekezdése iktatta be.

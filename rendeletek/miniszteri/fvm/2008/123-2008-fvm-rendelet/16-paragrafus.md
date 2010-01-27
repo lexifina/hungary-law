@@ -2,7 +2,7 @@
 
 ## Kérelem benyújtása
 
-16. § (1) A lepárlóüzem jóváhagyása iránti, illetve a begyűjtőhely üzemeltetése iránti kérelmeket postai úton kell benyújtani az MVH Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához. Az MVH közleményben teszi közzé a kérelem benyújtásához szükséges formanyomtatványokat. A kérelemnek tartalmaznia kell
+16. § (1)[^28] A lepárlóüzem jóváhagyása iránti, illetve a begyűjtőhely üzemeltetése iránti kérelmeket az MVH Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához kell benyújtani. Az MVH központi szerve a kérelem benyújtásához formanyomtatványt rendszeresít, amelyet honlapján tesz közzé. A kérelemnek tartalmaznia kell.
 
 a) a lepárlóüzem regisztrációs számát, cégnevét, székhelyét,
 
@@ -28,7 +28,7 @@ j) a lepárlóüzem cégszerű aláírását.
 
 a) 30 napnál nem régebbi cégkivonat másolatát,
 
-b) egyéni vállalkozó esetében a vállalkozói igazolvány másolatát,
+b)[^29] egyéni vállalkozó esetében a vállalkozói igazolvány másolatát, vagy nyilvántartási számát,
 
 c) az adóraktári engedély másolatát,
 
@@ -36,4 +36,8 @@ d) egyszerűsített adóraktár telephelyén működtetett begyűjtőhely eseté
 
 (3) A kérelmek folyamatosan nyújthatók be.
 
-(4) Hiányosan benyújtott kérelem esetében az MVH a kérelmezőt egy alkalommal hiánypótlásra szólítja fel. A hiánypótlást a felszólító végzésben előírt határidőn belül kell teljesíteni.
+(4)[^30]
+
+[^28]: A 16. § (1) bekezdés bevezető szövegrésze a 3/2010. (I. 26.) FVM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^29]: A 16. § (2) bekezdés b) pontja a 3/2010. (I. 26.) FVM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^30]: A 16. § (4) bekezdését a 3/2010. (I. 26.) FVM rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.

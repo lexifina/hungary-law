@@ -32,6 +32,6 @@ e) égetőműben történő ártalmatlanítás,
 
 f) biogáz előállítás céljára történő átadás.
 
-g)[^1] komposzt készítésére történő felhasználás.
+g)[^2] komposzt készítésére történő felhasználás.
 
-[^1]: A 4. § (2) bekezdés g) pontját a 165/2008. (XII. 20.) FVM rendelet 1. §-a iktatta be.
+[^2]: A 4. § (2) bekezdés g) pontját a 165/2008. (XII. 20.) FVM rendelet 1. §-a iktatta be.

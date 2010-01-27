@@ -16,9 +16,9 @@ f) az átvétel helyét (a lepárlóüzem telephelyén/begyűjtőhelyén vagy a 
 
 (3) Az átvételi elismervényt – amennyiben annak tartalmával egyetért – a kötelezettnek is alá kell írni.
 
-(4) Amennyiben a borászati melléktermékek támogatott lepárlás céljából történő leadásakor a kötelezett az átvevő lepárlóüzem által megállapítottakat vitatja, abban az esetben a kötelezett és az átvevő lepárlóüzem együttes jelenlétében ismételt vizsgálatokat kell végezni. Alkoholtartalom megállapítására vonatkozó analitikai vizsgálatok vitatása esetében a kötelezett és az átvevő lepárlóüzem együttes jelenlétében, közösen vett minták alapján a borászati hatóság a mintavételtől számított 5 napon belül végzi el az ismételt vizsgálatokat, és azok eredményét közli a kötelezettel és a lepárlóüzemmel. Ez az eredmény a kötelezettre és az átvevő lepárlóüzemre nézve is kötelező. A vizsgálat költségeit a kötelezett és az átvevő lepárlóüzem egyenlő mértékben viselik.
+(4)[^19] Amennyiben a borászati melléktermékek támogatott lepárlás céljából történő leadásakor a kötelezett az átvevő lepárlóüzem által megállapítottakat vitatja, abban az esetben a kötelezett és az átvevő lepárlóüzem együttes jelenlétében ismételt vizsgálatokat kell végezni. Alkoholtartalom megállapítására vonatkozó analitikai vizsgálatok vitatása esetében a kötelezett és az átvevő lepárlóüzem együttes jelenlétében, közösen vett minták alapján a borászati hatóság a mintavételtől számított 5 munkanapon belül végzi el az ismételt vizsgálatokat, és azok eredményét közli a kötelezettel és a lepárlóüzemmel. Ez az eredmény a kötelezettre és az átvevő lepárlóüzemre nézve is kötelező.
 
-(5) A lepárlóüzem borpiaci évenként az átvételi elismervényekben szereplő adatokról kötelezettenként tételes kimutatást vezet, és azt adott borpiaci év június 5-éig az MVH részére megküldi. Az MVH közleményben közzéteszi a kimutatás elkészítéséhez szükséges formanyomtatványt, amelynek tartalmaznia kell
+(5)[^20] A lepárlóüzem borpiaci évenként az átvételi elismervényekben szereplő adatokról kötelezettenként tételes kimutatást vezet, és azt adott borpiaci év június 5-éig az MVH részére megküldi. Az MVH központi szerve a kimutatás elkészítéséhez szükséges formanyomtatványt rendszeresít és azt a honlapján közzéteszi. A formanyomtatványnak tartalmaznia kell
 
 a) az átvevő lepárlóüzem és a kötelezett nevét (cégnevét), regisztrációs számát, adóazonosító jelét vagy adószámát,
 
@@ -37,3 +37,6 @@ g) a borászati melléktermék mennyiségét szőlőtörköly esetében kilogram
 h) a borászati melléktermék alkoholtartalmát térfogatszázalékban kifejezve,
 
 i) a borászati melléktermék számított alkoholtartalmát térfogatszázalék/hektoliterben kifejezve.
+
+[^19]: A 11. § (4) bekezdése a 3/2010. (I. 26.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^20]: A 11. § (5) bekezdés bevezető szövegrésze a 3/2010. (I. 26.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg.
