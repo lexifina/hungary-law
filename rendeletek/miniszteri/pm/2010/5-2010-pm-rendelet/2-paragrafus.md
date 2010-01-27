@@ -1,0 +1,3 @@
+## 1. § A pénzügyminiszter hatáskörébe tartozó szakképesítések szakmai vizsgáinak szervezésére feljogosított intézményekről szóló 43/2008. (XII. 31.) PM rendelet (a továbbiakban: R.) 1. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendelettel a pénzügyminiszter hatáskörébe utalt termékdíj ügyintéző szakképesítés-elágazás szakmai vizsgáinak szervezésére az egyes régiókban a 4. számú mellékletben felsorolt intézmények jogosultak az ott megjelölt időtartamban.”
