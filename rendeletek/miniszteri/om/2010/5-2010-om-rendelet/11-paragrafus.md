@@ -1,0 +1,1 @@
+## 10. § A támogatást kamattal növelt összegben vissza kell fizetni a központi költségvetésbe, ha azt nem a vonatkozó jogszabályoknak és a támogatási megállapodásban rögzített feltételeknek megfelelően használják fel.
