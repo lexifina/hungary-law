@@ -17,11 +17,3 @@
 (6) Ez a törvény 2014. január 1-jén hatályát veszti.
 
 (7) Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és tanácsi irányelv 9–11. cikkének való megfelelést szolgálja.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
