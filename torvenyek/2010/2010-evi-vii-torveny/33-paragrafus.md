@@ -1,0 +1,3 @@
+33. § A GET. 82. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A szállítási rendszerüzemeltető a többi rendszerüzemeltetővel együttműködve a szállítóvezeték – beleértve a gázátadó állomásokat is –, az elosztóvezetékek, valamint a gáztárolók kapacitás-felülvizsgálatát és a fejlesztési javaslatokat összehangolja és a Hivatal részére jóváhagyásra benyújtja. A Hivatal a jóváhagyási eljárás során dönt az elismerhető költségekről is. Véleményeltérés esetén a szállítási rendszerüzemeltető az eltérő véleményeket is köteles benyújtani a Hivatalhoz. A Hivatal az általa közzétett eljárásrendnek megfelelően nyilvános egyeztetést tart a rendszerhasználókkal a fejlesztési javaslatról és közzéteszi az annak eredményét tartalmazó emlékeztetőt.”

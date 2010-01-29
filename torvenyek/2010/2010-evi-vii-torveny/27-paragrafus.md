@@ -1,0 +1,1 @@
+27. § A VET. 17. § (1) bekezdésében az „átviteli rendszerirányító jogosult” szövegrész helyébe az „átviteli rendszerirányító a 16/A. § (1) bekezdés k) pontja szerinti feladatkörében jogosult” szövegrész, 31. § c) pontjában a „kétévente” szövegrész helyébe az „évente” szövegrész, 126. § (1) és (2) bekezdésében a „két” szövegrész helyébe az „öt” szövegrész lép.
