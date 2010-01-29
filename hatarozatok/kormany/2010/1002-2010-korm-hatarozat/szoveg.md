@@ -6,13 +6,11 @@ Határidő: azonnal
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-Melléklet az 1002/2010. (I. 19.) Korm. határozathoz
+Melléklet az 1002/2010. (I. 19.) Korm. határozathoz[^1]
 
 X.  Miniszterelnökség
 
 XVIII.  Külügyminisztérium
-
-Fejezet száma és megnevezése
 
 ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA*
 
@@ -20,7 +18,7 @@ a Kormány hatáskörében
 
 Költségvetési év: 2010.
 
-Millió forintban, egy tizedessel
+| Millió forintban, egy tizedessel |
 
 | Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | KIADÁSOK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
 
@@ -44,13 +42,9 @@ Millió forintban, egy tizedessel
 
 | 001414 |  |  | 1 |  |  |  |  |  |  | Költségvetés általános tartaléka |  |  |  |  |  |  |  |  | –17,1 |  |  |
 
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+|  | Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
 
-| Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | BEVÉTELEK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+* Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
 
 | Állam- háztartási egyedi azonosító | Fejezet- szám | Cím- szám | Al- cím- szám | Jog- cím- csop.- szám | Jog- cím- szám | Elő- ir.- cso- port- szám | Ki- emelt elő- ir.- szám | Feje- zet- név | Cím- név | Al- cím- név | Jog- cím- csop.- név | Jog- cím- név | Elő- ir.- csop.- név | TÁMOGATÁSOK | A módosítás jogcíme | Módosítás (+/–) | A módo- sítás követ- kező évre áthúzódó hatása | A módo- sítást elrendelő jog- szabály/ hatá- rozat száma |
 
@@ -58,19 +52,17 @@ Millió forintban, egy tizedessel
 
 |  | XVIII. |  |  |  |  |  |  | Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | 5 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  | 17,1 |  |  |
+|  |  | 5 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  |  | 22 |  |  |  |  |  |  | Nemzetközi fejlesztési együttműködés és humanitárius segélyezés |  |  |  |  |  |  |  |  |  |  |  |
 
-| 277045 |  |  |  | 4 |  |  |  |  |  |  | Humanitárius segélyezés |  |  |  |  |  |  |  |  |  |  |  |
+| 277045 |  |  |  | 4 |  |  |  |  |  |  | Humanitárius segélyezés |  |  |  |  |  |  |  |  | 17,1 |  |  |
 
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+|  | Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) – időszakra |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) – időszakra |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+|  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítás +/–) | Összesen | I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
 
@@ -82,4 +74,4 @@ Millió forintban, egy tizedessel
 
 | Pénzügyminisztérium | 2 példány | egyéb: azonnal | 17,1 | 17,1 |  |  |  |
 
-* Az összetartozó előirányzat-változásokat (+/–) egymást követően kell szerepeltetni.
+[^1]: A melléklet az 1016/2010. (I. 28.) Korm. határozat 2. pontjával megállapított szöveg.
