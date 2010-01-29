@@ -26,6 +26,6 @@
 
 ## * A nem kívánt rész törlendő.
 
-4. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^87]
+4. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^88]
 
-[^87]: A 4. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított szöveg, e rendelet 24. § – 67/2004. (VII. 29.) ESZCSM rendelet 1. § (2) bekezdésével módosított – (2) bekezdése alapján a rendelkezés 2004. augusztus 1. napján lép hatályba.
+[^88]: A 4. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított szöveg, e rendelet 24. § – 67/2004. (VII. 29.) ESZCSM rendelet 1. § (2) bekezdésével módosított – (2) bekezdése alapján a rendelkezés 2004. augusztus 1. napján lép hatályba.

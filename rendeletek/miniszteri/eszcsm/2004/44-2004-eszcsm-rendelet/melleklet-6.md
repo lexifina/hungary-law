@@ -68,7 +68,7 @@
 
 ## * A nem kívánt rész törlendő.
 
-6. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^89]
+6. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^90]
 
 Országos Gyógyszerészeti Intézet Kelt: , 20
 
@@ -82,7 +82,7 @@ INDIKÁCIÓN TÚLI GYÓGYSZERRENDELÉS ENGEDÉLYEZÉSÉRE
 
 Az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet 2/A. §-ában foglaltaknak megfelelően kérem az Országos Gyógyszerészeti Intézettől indikáción túli gyógyszerrendelés engedélyezését az alábbiak szerint
 
-◻ sürgősséggel (amit külön mellékletben indokolok[^90])
+◻ sürgősséggel (amit külön mellékletben indokolok[^91])
 
 ◻ a szokásos eljárási rendben
 
@@ -136,7 +136,7 @@ Az indikáción túli gyógyszerrendelés adatai
 
 Az engedélyezni kért javallat:
 
-Első ízben az adott beteg esetében az addig alkalmazott kezelés és annak indoklása, hogy az miért nem volt eredményes: [^91]
+Első ízben az adott beteg esetében az addig alkalmazott kezelés és annak indoklása, hogy az miért nem volt eredményes: [^92]
 
 A gyógyszer tervezett adagolása:
 
@@ -158,6 +158,6 @@ kezelőorvos
 
 P. H.
 
-[^89]: A 6. számú mellékletet a 39/2008. (X. 18.) EüM rendelet 6. §-a iktatta be, szövege a 46/2008. (XII. 3.) EüM rendelet 6. § (5) bekezdése, a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés c) pontja és (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
-[^90]: Kizárólag a hivatkozott rendelet 2/A. § (8) bekezdése szerint.
-[^91]: Részletes mellékletben.
+[^90]: A 6. számú mellékletet a 39/2008. (X. 18.) EüM rendelet 6. §-a iktatta be, szövege a 46/2008. (XII. 3.) EüM rendelet 6. § (5) bekezdése, a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés c) pontja és (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 3. § (1) bekezdése alapján a 2009. augusztus 12-én folyamatban lévő ügyekben is alkalmazni kell.
+[^91]: Kizárólag a hivatkozott rendelet 2/A. § (8) bekezdése szerint.
+[^92]: Részletes mellékletben.

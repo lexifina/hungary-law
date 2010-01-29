@@ -10,5 +10,8 @@ a) a kábítószerként (K1, K2) és pszichotróp anyagként (P2) minősített g
 
 b) az Egyesült Nemzetek Szervezete keretében a kábítószerek és pszichotróp anyagok tiltott forgalmazása elleni, 1988. december 20-án, Bécsben kelt Egyezmény kihirdetéséről szóló 1998. évi L. törvény mellékletében szereplő gyógyszeranyagok.
 
+(4)[^79] Automatából csak gyógyszertáron kívül is forgalmazható gyógyszerek adhatók ki.
+
 [^77]: A 21/A. §-t megelőző alcímet a 47/2005. (XI. 4.) EüM rendelet 17. §-a iktatta be.
 [^78]: A 21/A. §-t a 47/2005. (XI. 4.) EüM rendelet 17. §-a iktatta be.
+[^79]: A 21/A. § (4) bekezdését az 56/2009. (XII. 30.) EüM rendelet 23. §-a iktatta be.
