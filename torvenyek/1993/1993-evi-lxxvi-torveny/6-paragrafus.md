@@ -4,7 +4,7 @@ a) közreműködik az országos modultérkép összeállításában és nyilván
 
 b) működteti a nemzeti referencia- és tájékoztatási központot, valamint a szakképzési információs központot,
 
-c) vezeti a szakmai vizsgák adatait tartalmazó központi nyilvántartást,
+c) kezeli a szakmai vizsgák adatait és a törzslapokat magába foglaló központi nyilvántartást, valamint az abban szereplő, a vizsgázóra vonatkozó természetes személyazonosító adatokat,
 
 d) ellátja a szakképzési hozzájárulással, valamint a szakképzési és felnőttképzési támogatások kezelésével összefüggő külön jogszabályban meghatározott feladatokat,
 
@@ -19,3 +19,9 @@ f) nyilvántartást vezet az akkreditált intézményekről és programokról, v
 g) ellátja a külön jogszabályban meghatározott feladatokat.
 
 (2) Az állami szakképzési és felnőttképzési intézet feladatainak ellátása során együttműködik az 5. § (3) bekezdésében meghatározott kutató- és fejlesztő-szolgáltató intézetekkel.
+
+(3) Az állami szakképzési és felnőttképzési intézet az (1) bekezdésben szereplő törzslapokat tartalmazó központi nyilvántartás adatait elzártan, 50 évig más által nem hozzáférhető módon őrzi.
+
+(4) Az állami szakképzési és felnőttképzési intézet az általa őrzött törzslapokat 50 év után átadja az illetékes levéltárnak és az átadott törzslapok központi nyilvántartási adatait törli.
+
+(5) A nyilvántartás alapján az elveszett, ellopott, megrongálódott vagy megsemmisült bizonyítványról bizonyítványmásodlatot állít ki kérelemre az állami szakképzési és felnőttképzési intézet.

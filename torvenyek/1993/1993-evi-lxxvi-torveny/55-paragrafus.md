@@ -8,6 +8,6 @@
 
 (3) A szakképzési törvény hatálybalépése előtt megkezdett szakképzéseket még a beiskolázáskor hatályos rendelkezések szerint kell folytatni, illetőleg befejezni.
 
-(4) A törvény előírásait a Magyar Hovédség és a rendvédelmi szervek keretében folyó szakképzés, valamint a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozók tekintetében az eltérő sajátosságok figyelembevételével kell alkalmazni. A Magyar Hovédség és a rendvédelmi szervek keretében munkakör betöltésére jogosító szakképesítésre irányuló szakképzés megkezdéséhez a szakképesítésért felelős miniszter engedélye szükséges.
+(4) A törvény előírásait a Magyar Hovédség és a rendvédelmi szervek keretében folyó szakképzés, valamint a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozók tekintetében az eltérő sajátosságok figyelembevételével kell alkalmazni. A Magyar Hovédség és a rendvédelmi szervek keretében szolgálati beosztás betöltésére jogosító szakképesítésre irányuló szakképzés megkezdéséhez a szakképesítésért felelős miniszter engedélye szükséges.
 
 (5) A törvény 28–47. §-ainak a rendelkezéseit – a felsőfokú szakképzés sajátosságainak figyelembevételével – alkalmazni kell a 27. § (1) bekezdése alapján hallgatói szerződést kötött felsőfokú szakképzésben részt vevő hallgatóra is.

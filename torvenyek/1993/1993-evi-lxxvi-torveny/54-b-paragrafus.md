@@ -48,7 +48,7 @@
 
 22. szakmai tantárgy: a szakmai és vizsgakövetelmény teljesítéséhez a szakképesítés központi programjában (tantervében) előírt tantárgy;
 
-23. szakmai vizsga: az OKJ-ben meghatározott szakképesítés megszerzésére szervezett állami vizsga;
+23. szakmai vizsga: az OKJ-ben meghatározott állam által elismert szakképesítés megszerzéséhez szükséges, a szakképesítéshez tartozó feladatcsoport, feladatprofil szerinti munkakörök ellátásához meghatározott ismeretek elsajátítását tanúsító, külön jogszabályban meghatározott bizonyítvány kiadására irányuló eljárás;
 
 24. tanműhely: tanműhely, tangazdaság, tanbolt, tankórterem, tankert, tanudvar, tankonyha, laboratórium, taniroda, demonstrációs terem, gyakorló- és szaktanterem;
 

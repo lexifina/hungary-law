@@ -1,10 +1,14 @@
-5. § (1) Felhatalmazást kap a szakképesítésért felelős miniszter, hogy a külön kormányrendeletben meghatározott szakképesítések tekintetében rendeletben határozza meg:
+5. § (1) Felhatalmazást kap a szakképesítésért felelős miniszter, hogy az ágazatába tartozó szakképesítések tekintetében rendeletben határozza meg
 
 a) a szakképesítés szakmai és vizsgakövetelményeit a miniszter egyetértésével,
 
-b) a szakmai vizsgáztatás és a szakmai vizsga szakmai ellenőrzésének részletes szabályait, valamint a szakmai vizsga szervezésére feljogosított intézményt (a továbbiakban: szakmai vizsgát szervező intézmény) és
+b) a szakmai vizsgáztatás és a szakmai vizsga szakmai ellenőrzésének részletes szabályait,
 
-c) a 7. § (1) bekezdés szerinti mestervizsga követelményeit.
+c) a 7. § (3) bekezdés szerinti mestervizsga követelményeit,
+
+d) az Engedély megszerzésének és a szakmai vizsgaszervezési tevékenység folytatásának speciális szakmai, tárgyi és személyi feltételeit és
+
+e) a szakmai vizsga szervezésére kijelölt, irányítása alá tartozó intézményt.
 
 (2) A szakképesítésért felelős miniszter az ágazatába tartozó szakképesítések tekintetében
 
@@ -35,3 +39,5 @@ j) közreműködik a szakmai vizsgának a közoktatási feladatkörében eljár�
 (5)
 
 (6) A felsőfokú szakképzés tekintetében az (1) bekezdés a) pontjában, a (2) bekezdés a) és b) pontjában foglaltakat a központi program kidolgozásának kivételével, f) és g) pontjában, valamint a (4) bekezdésben foglaltakat kell alkalmazni.
+
+(7) A szakképesítésért felelős miniszter kezdeményezheti a szakmai vizsgát szervező vagy a 13. § (1) bekezdésében szereplő szakképzést folytató intézmény tevékenységének ellenőrzését. A szakképesítésért felelős miniszter által kezdeményezett ellenőrzést a Hivatal köteles lefolytatni.

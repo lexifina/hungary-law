@@ -6,23 +6,15 @@
 
 (2) Felhatalmazást kap a miniszter, hogy a szakképesítésért felelős miniszter egyetértésével rendeletben határozza meg
 
-a) az OKJ-t, az OKJ-be történő felvétel és az OKJ-ból való törlés eljárási rendjét,
+a) a szakmai vizsgáztatás általános szabályait és eljárási rendjét (a továbbiakban: szakmai vizsgaszabályzat), a szakmai vizsgák szakmai ellenőrzésének általános szabályait, valamint a szakmai vizsgák – személyes adatok körét nem érintő – adatait tartalmazó központi nyilvántartás vezetésének szabályait,
 
-b) a szakmai vizsgáztatás általános szabályait és eljárási rendjét (a továbbiakban: szakmai vizsgaszabályzat), a szakmai vizsgák szakmai ellenőrzésének általános szabályait, valamint a szakmai vizsgák adatait tartalmazó központi nyilvántartás vezetésének szabályait,
+b) a tanulókat a 48. § alapján megillető juttatások részletes szabályait,
 
-c) a szakmai vizsga szervezésére való jogosultság feltételeit,
+c) az Országos szakmai vizsgaelnöki névjegyzék (a továbbiakban: vizsgaelnöki névjegyzék) elkészítését és kiadását,
 
-d) a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
+d) a központi képzőhely működésére vonatkozó szabályokat,
 
-e) a szakképzés megkezdésére és folytatására vonatkozó feltételeket, a szakképzést folytató intézmények gyakorlati képzés szervezésére vonatkozó együttműködési megállapodásának tartalmi követelményeit, a pályakövetéssel összefüggő feladatokat,
-
-f) a tanulókat e törvény 48. §-a alapján megillető juttatások részletes szabályait,
-
-g) az Országos szakmai vizsgaelnöki névjegyzék (a továbbiakban: vizsgaelnöki névjegyzék) elkészítését és kiadását,
-
-h)
-
-j) a központi képzőhely működésére vonatkozó szabályokat.
+e) a szakmai vizsga szervezésére vonatkozó engedély megszerzésére irányuló engedélyezési eljárás igazgatási szolgáltatási díját és a díj megfizetésének szabályait.
 
 (3) A miniszter
 
@@ -36,9 +28,9 @@ d) létrehozza a regionális fejlesztési tanácsokkal együttműködő regioná
 
 (4) A miniszter az ágazatába tartozó, valamint az OKJ alapján hatáskörébe utalt szakképesítések tekintetében ellátja a szakképesítésért felelős miniszter 5. §-ban meghatározott feladatait.
 
-(5) A miniszter az iskolai rendszerben oktatott szakképesítések tekintetében a (2) bekezdés a), b), d), e), g), h) és i) pontjában meghatározott hatáskörét az oktatásért felelős miniszterrel egyetértésben gyakorolja.
+(5) A miniszter az iskolai rendszerben oktatott szakképesítések tekintetében a (2) bekezdés a), c) és d) pontjában meghatározott hatáskörét az oktatásért felelős miniszterrel egyetértésben gyakorolja.
 
-(6) A miniszter a (2) bekezdés d) és f) pontjában meghatározott hatáskörét az államháztartásért felelős miniszterrel egyetértésben gyakorolja.
+(6) A miniszter a (2) bekezdés b) pontjában meghatározott hatáskörét az államháztartásért felelős miniszterrel, a (2) bekezdés e) pontjában meghatározott hatáskörét az adópolitikáért felelős miniszterrel egyetértésben gyakorolja.
 
 (7)
 

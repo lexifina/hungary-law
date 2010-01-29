@@ -1,1 +1,5 @@
-58. § Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás kihirdetéséről szóló 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályával összeegyeztethető szabályozást tartalmaz: a Tanács 94/33/EK irányelve a fiatal személyek munkahelyi védelméről.
+58. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) a Tanács 94/33/EK irányelve (1994. június 22.) a fiatal személyek munkahelyi védelméről,
+
+b) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról (9–11. cikk).
