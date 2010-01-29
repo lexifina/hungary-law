@@ -12,13 +12,15 @@ e) „Impleálási napló”,
 
 f) „Sterilezési napló”,
 
-g) „Méregkönyv”,
+g)[^33]
 
 h) „Belső minőségellenőrzési napló”,
 
 i) „Nyilvántartás a forgalmazás megszüntetéséről, felfüggesztéséről”, valamint
 
-j) „Közforgalmú gyógyszertár ellenőrzött szer nyilvántartó lapja”
+j) „Közforgalmú gyógyszertár ellenőrzött szer nyilvántartó lapja”,
+
+k)[^34] „Hőmérséklet ellenőrzési napló”
 
 ## vezetése kötelező.
 
@@ -84,11 +86,11 @@ a) a sorszámot,
 
 b) a sterilezés dátumát,
 
-c) a sterilezett anyag megnevezését,
+c)[^35] a sterilezett anyag, eszköz megnevezését,
 
-d) a sterilezett anyag gyártási számát,
+d)[^36] a sterilezett anyag gyártási vagy vizsgálati számát,
 
-e) a sterilezett anyag darabszámát vagy térfogatát,
+e)[^37] a sterilezett anyag mennyiségét, a sterilezett eszköz darabszámát,
 
 f) a sterilezés kezdetét és végét rögzítő időpontokat (óra, perc),
 
@@ -98,33 +100,13 @@ h) a sterilezést végző aláírását, valamint
 
 i) a sterilizáló készülék(ek) azonosítóját.
 
-(9) A „Méregkönyv” a nem humán gyógyszerként kiadott mérgező anyagok nyilvántartására szolgál. A „Méregkönyv” tartalmazza:
-
-a) a sorszámot,
-
-b) a bejegyzés dátumát,
-
-c) a rendelő orvos nevét, orvosi bélyegzőjének számát,
-
-d) az engedélyező hatóság nevét, az engedély számát, keltét,
-
-e) az anyag nevét,
-
-f) az anyag mennyiségét,
-
-g) a felhasználás célját,
-
-h) a vásárló nevét, foglalkozását, lakcímét,
-
-i) a kiszolgáló gyógyszerész aláírását, valamint
-
-j) a méreg átvevőjének olvasható aláírását és lakcímét.
+(9)[^38]
 
 (10) A „Belső minőségellenőrzési napló” a gyógyszertári szakmai munka ellenőrzésére szolgáló nyilvántartás, mely tartalmazza:
 
-a) a gyógyszerkészítő nevét,
+a)[^39] az ellenőrzött szakszemély nevét,
 
-b) a laboratóriumi napló sorszámát,
+b)[^40]
 
 c) a vizsgálat megnevezését, idejét, eredményét, valamint
 
@@ -133,3 +115,25 @@ d) a vizsgáló gyógyszerész aláírását.
 (11) „A Nyilvántartás a forgalmazás megszüntetéséről, felfüggesztéséről” az OGYI honlapján közzétett döntések végrehajtásának dokumentumait tartalmazza.
 
 (12) Fokozottan ellenőrzött szerek nyilvántartásánál az e szerek gyógyszertárba történő beérkezésének és kiadásának eljárásrendjét, valamint a szükséges nyilvántartások vezetését meghatározó külön jogszabályban foglaltak szerint kell eljárni.
+
+(13)[^41] A „Hőmérséklet ellenőrzési napló” a hideg vagy hűvös helyen, továbbá a mélyhűtőben tartandó gyógyszerkészítmények eltartását biztosító hűtőszekrények és/vagy helyiségek hőmérsékletének ellenőrzésére szolgáló nyilvántartás, amely tartalmazza
+
+a) a hűtőszekrény vagy helyiség elnevezését, azonosítóját,
+
+b) a hőmérsékleti referenciatartományt,
+
+c) az ellenőrzés időpontját,
+
+d) a leolvasott hőmérsékletet, valamint
+
+e) az ellenőrzést végző aláírását.
+
+[^33]: A 18. § (1) bekezdés g) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^34]: A 18. § (1) bekezdés k) pontját az 56/2009. (XII. 30.) EüM rendelet 11. § (1) bekezdése iktatta be.
+[^35]: A 18. § (8) bekezdés c) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^36]: A 18. § (8) bekezdés d) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^37]: A 18. § (8) bekezdés e) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^38]: A 18. § (9) bekezdését az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^39]: A 18. § (10) bekezdés a) pontja az 56/2009. (XII. 30.) EüM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^40]: A 18. § (10) bekezdés b) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^41]: A 18. § (13) bekezdését az 56/2009. (XII. 30.) EüM rendelet 11. § (4) bekezdése iktatta be.

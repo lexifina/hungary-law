@@ -1,5 +1,3 @@
-## 7. § Vényezőnek olyan helyiség alkalmas, amely világos, száraz, szellőztethető, padozata résmentes, bútorzata, illetve falfelülete az ajtó magasságáig vegyszeresen tisztítható.
-
 8. § (1) Laboratóriumnak olyan helyiség alkalmas, amely világos, száraz, szellőztethető, padozata résmentes, bútorzata, illetve falfelülete az ajtó magasságáig vegyszeresen tisztítható.
 
 (2) A laboratóriumban végzett szaktevékenységek előírásait a hatályos Magyar és Európai Gyógyszerkönyv (a továbbiakban együtt: Gyógyszerkönyv), a Szabványos Vényminták (FoNo) gyűjteménye (a továbbiakban: FoNo), a Gyógyszerellátási Gyógyszerészeti Szakmai Kollégium és a Klinikai-Kórházi Gyógyszerészeti Szakmai Kollégium szakmai irányelvei, valamint az Országos Gyógyszerészeti Intézet (a továbbiakban: OGYI) módszertani levelei és szakmai irányelvei rögzítik.

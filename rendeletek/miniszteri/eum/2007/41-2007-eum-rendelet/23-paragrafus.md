@@ -4,7 +4,7 @@
 
 a) alapfeladatok:
 
-aa) külön jogszabály szerint forgalomba hozatalra engedélyezett gyógyszerek beszerzése, eltartása, raktározása, ellenőrzése, a kórházi fekvő- és járóbetegellátó osztályok, részlegek, valamint az azokkal funkcionális kapcsolatban álló részlegek (a továbbiakban együtt: osztály) részére történő kiszolgáltatása,
+aa)[^46] külön jogszabály szerint forgalomba hozatalra engedélyezett gyógyszerek beszerzése, eltartása, raktározása, ellenőrzése, a kórházi fekvő- és járóbeteg-ellátó osztályok, részlegek, valamint az azokkal funkcionális kapcsolatban álló részlegek (a továbbiakban együtt: osztály) részére történő kiszolgáltatása, szakmai információ nyújtása,
 
 ab) az aa) pont szerinti tevékenységen felül magisztrális gyógyszerek készítése,
 
@@ -31,3 +31,5 @@ be) betegágy melletti gyógyszerészi tanácsadás,
 (5) Az intézeti gyógyszertár nyilvántartásában az e rendeletben meghatározott adatokat – ha jogszabály másként nem rendelkezik – a nyilvántartásba történt utolsó bejegyzést követő 5 évig kell megőrizni.
 
 (6) Az intézeti gyógyszertárnak a 16. §-ban foglaltaknak eleget kell tennie.
+
+[^46]: A 23. § (2) bekezdés a) pont aa) alpontja az 56/2009. (XII. 30.) EüM rendelet 14. §-ával megállapított szöveg.

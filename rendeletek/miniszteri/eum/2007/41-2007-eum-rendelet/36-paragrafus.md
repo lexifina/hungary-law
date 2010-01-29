@@ -11,3 +11,9 @@
 a) fekvőbeteg-gyógyintézetben legalább háromszáz ágy,
 
 b) rendelőintézeti járóbeteg-szakellátást nyújtó szolgáltatónál legalább tíz féle járóbeteg-szakellátási forma
+
+## biztosítva van.
+
+(5)[^53] A közvetlen lakossági gyógyszerellátási tevékenység helyén biztosítani kell a Gyftv. 55. § (2) bekezdése szerinti tájékoztatáshoz szükséges rendszert, valamint a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
+
+[^53]: A 36. § (5) bekezdését az 56/2009. (XII. 30.) EüM rendelet 20. §-a iktatta be.

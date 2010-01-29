@@ -6,6 +6,8 @@
 
 (3) A kézigyógyszertár tartására jogosult háziorvos a gyógyszerek tárolására, kezelésére, kiszolgáltatására vonatkozó jogszabályokban meghatározottak alapján jár el.
 
-(4) A kézigyógyszertárban biztosítani kell a Gyftv. 55. § (2) bekezdése szerinti tájékoztatáshoz szükséges rendszert.
+(4)[^26]
 
 (5) Kézigyógyszertárban forgalmazott termékek beszerzése az ellátó közforgalmú gyógyszertárból történik.
+
+[^26]: A 13. § (4) bekezdését az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
