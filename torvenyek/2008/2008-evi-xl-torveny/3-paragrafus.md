@@ -145,3 +145,11 @@ b) Horizontálisan integrált vállalkozás: olyan vállalkozás, amely a földg
 69. Végső menedékes szolgáltatás: ideiglenes földgáz ellátás, amelyet a Hivatal által kijelölt földgázkereskedő vagy az egyetemes szolgáltató biztosít azon felhasználók részére, akiket kereskedőjük vagy egyetemes szolgáltatójuk valamilyen okból nem képes ellátni.
 
 70. Vezetékes PB-gáz szolgáltatás: a felhasználók részére propán-, butángázok és ezek elegyeiből álló gázok csővezetéken keresztül történő elosztása és értékesítése.
+
+71. Irányítás: bármely olyan jogosultság, szerződés vagy más megállapodás, illetve egyéb eszköz, amely akár külön-külön, akár más eszközökkel együttesen – és a kapcsolódó jogi és ténybeli körülményekre tekintettel – lehetővé teszi meghatározó befolyás gyakorlását egy vállalkozás felett. Meghatározó befolyás gyakorlását teszi lehetővé különösen:
+
+a) a tulajdonjog vagy a vállalkozás eszközei egészének vagy egy részének a használatának joga,
+
+b) bármely olyan jogosultság, szerződés vagy egyéb megállapodás, amely meghatározó befolyást biztosít a vállalkozás döntéshozó, illetve ellenőrző szerveinek összetételére, szavazatára vagy döntéseire,
+
+c) a szavazási megállapodás vagy más összehangolt magatartás.

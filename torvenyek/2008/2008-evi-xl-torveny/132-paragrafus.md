@@ -14,7 +14,7 @@
 
 5. az üzletszabályzat kötelező tartalmi elemeit, felépítésére vonatkozó általános előírásokat, a társadalmi egyeztetésre vonatkozó előírásokat és az üzletszabályzat benyújtásának formai követelményeit,
 
-6. a rendszerüzemeltetők által készítendő megfelelési program és megfelelési jelentés részletes szabályait,
+6. a rendszerüzemeltetők által készítendő megfelelési program és megfelelési jelentés részletes szabályait, valamint a szállítási rendszerüzemeltetőnél működő megfelelési ellenőr jogköreire és feladataira vonatkozó részletes szabályokat,
 
 7. a számviteli szétválasztásra vonatkozó fő követelményeket és alapelveket,
 
@@ -90,6 +90,6 @@
 
 43. a Magyar Köztársaság területén szabad kapacitások felhasználásával történő földgázátszállítás részletes szabályait,
 
-44. a rendszerirányító kijelölésére vonatkozó részletes szabályokat,
+44. a szállítási rendszerüzemeltető, valamint a szállítási rendszerüzemeltető ismételt súlyos kötelezettségszegése esetén a szállítási rendszerüzemeltetés gyakorlására más engedélyes kijelölésére vonatkozó részletes szabályokat,
 
 45.
