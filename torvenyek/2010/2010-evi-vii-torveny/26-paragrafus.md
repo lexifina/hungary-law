@@ -4,6 +4,4 @@
 
 (2) Az (1) bekezdés szerinti kérelemmel összefüggésben a Hivatal 2011. február 1-ig köteles lefolytatni a 160. § szerinti eljárást az átviteli rendszerirányító szétválasztási követelményeknek való megfelelésének ellenőrzése érdekében és a megfelelésről hozott határozatát legkésőbb 2011. március 1-ig köteles megküldeni az Európai Bizottságnak.”
 
-(2) A VET. 178/A. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az (1) bekezdés szerinti engedélyes kivételével kizárólag olyan vállalkozás számára adható ki átviteli rendszerirányítási engedély, amely nem része sem villamosenergia-ipari, sem földgázipari vertikálisan integrált vállalkozásnak, és amely felett nem rendelkezik irányítással villamos energia, illetve földgáz termelésével vagy kereskedelmével foglalkozó vállalkozás, vagy ilyen vállalkozások irányító részvényese. Az ilyen átviteli rendszerirányító villamos energia, illetve földgáz termelésével vagy kereskedelmével foglalkozó vállalkozásban részesedést nem szerezhet.”
+(2)
