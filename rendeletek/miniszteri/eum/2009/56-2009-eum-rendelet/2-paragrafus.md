@@ -1,0 +1,1 @@
+## „(2) Az építészeti fogalmak tekintetében – ha e jogszabály eltérő meghatározást nem tartalmaz – az épített környezetről szóló külön jogszabályokban foglalt értelmező rendelkezéseket kell alkalmazni.”
