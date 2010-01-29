@@ -1,1 +1,0 @@
-## 5. § Az MVH a monitoring adatokra vonatkozóan a 3. §-ban meghatározott adatszolgáltatási kötelezettség teljesítését ellenőrzi, valamint jogosult adminisztratív és helyszíni ellenőrzés keretében is az adatszolgáltatás pontosságát vizsgálni.
