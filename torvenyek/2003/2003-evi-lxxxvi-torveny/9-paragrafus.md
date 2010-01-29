@@ -18,7 +18,9 @@ g) a régiók számára decentralizált keretként biztosított, az a)–f) pont
 
 h) a felnőttképzési célok támogatására szolgáló, az a)–g) pontok levonását követően fennmaradó keretösszeg felével, valamint
 
-i) a szakiskolai fejlesztési programra és az Útravaló Ösztöndíjprogram Út a szakmához alprogramjára az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által együttesen a költségvetési évre megállapított keretösszeggel.
+i) a szakiskolai fejlesztési programra és az Útravaló Ösztöndíjprogram Út a szakmához alprogramjára az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által együttesen a költségvetési évre megállapított keretösszeggel,
+
+j) a szakmai vizsgát szervező intézmény vizsgaszervezési tevékenységének ellenőrzésére a szakmai vizsga szervezését engedélyező hivatalnak biztosított, az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által együttesen a költségvetési évre megállapított keretösszeggel.
 
 (3) A (2) bekezdés szerinti csökkentő tételek levonását követően a bevételi előirányzat fennmaradó keretösszegének 70 százaléka az oktatásért felelős miniszter, 30 százaléka a szakképzésért és felnőttképzésért felelős miniszter rendelkezési jogkörében használható fel.
 
