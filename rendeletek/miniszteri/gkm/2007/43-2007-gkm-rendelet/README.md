@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-43-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-01-01 | 2007-43-20-0L.2 | 43/2007. (IV. 4.) GKM rendelet |
+| 2010-01-29 | 2007-43-20-0L.3 | 3/2010. (I. 21.) KHEM rendelet |

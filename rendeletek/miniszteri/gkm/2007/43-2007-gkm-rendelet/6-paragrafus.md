@@ -8,4 +8,6 @@ a) a közúti szállításra vonatkozó közösségi szociális előírásokkal 
 
 b) a Bizottság 93/172/EGK határozata (1993. február 22.) a közúti szállításról szóló 88/599/EGK tanácsi irányelv 6. cikkében előírt szabványos formanyomtatvány elkészítéséről;
 
-c) a Bizottság 93/173/EGK határozata (1993. február 22.) a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 3820/85/EGK tanácsi rendelet 16. cikkében előírt formanyomtatvány kidolgozásáról.
+c)[^3] a Bizottság 2009/810/EK határozata (2008. szeptember 22.) az 561/2006/EK európai parlamenti és tanácsi rendelet 17. cikkében említett egységes formanyomtatvány meghatározásáról.
+
+[^3]: A 6. § (2) bekezdés c) pontja a 3/2010. (I. 21.) KHEM rendelet 2. §-ával megállapított szöveg.
