@@ -1,4 +1,4 @@
-4/A. §[^13] (1) Az egyetemes szolgáltató az Igazgatóság határozatának kézhezvételét követő 5 munkanapon belül megkeresi a kérelmezőt a korábbi tartozás kiegyenlítésére vonatkozó részletfizetési megállapodás megkötése érdekében. Az egyetemes szolgáltató a részletfizetési megállapodás aláírását követő 5 munkanapon belül intézkedik az illetékes elosztó felé a villamosenergia-szolgáltatás (2) bekezdés szerinti visszaállításáról.
+4/A. §[^15] (1) Az egyetemes szolgáltató az Igazgatóság határozatának kézhezvételét követő 5 munkanapon belül megkeresi a kérelmezőt a korábbi tartozás kiegyenlítésére vonatkozó részletfizetési megállapodás megkötése érdekében. Az egyetemes szolgáltató a részletfizetési megállapodás aláírását követő 5 munkanapon belül intézkedik az illetékes elosztó felé a villamosenergia-szolgáltatás (2) bekezdés szerinti visszaállításáról.
 
 (2) Az elosztó az (1) bekezdés szerinti tájékoztatás kézhezvételétől számított 15 munkanapon belül – amennyiben a kérelmező lakcíme szerinti felhasználási helyen a műszaki feltételek adottak – gondoskodik
 
@@ -20,4 +20,4 @@ b) az (1) bekezdés b) pontja szerinti esetben a támogatás átutalását köve
 
 (7) Amennyiben az (1) bekezdés szerinti részletfizetési megállapodás a jogosultnak felróható okból az egyetemes szolgáltató értesítésétől számított 20 munkanapon belül nem jön létre, akkor erről az egyetemes szolgáltató értesíti az Igazgatóságot és a tartozás rendezésére fordított összegen felüli támogatást – a támogatás jogosultja nevének, valamint annak a törzsszámnak a feltüntetésével, amelyen a Nyugdíjfolyósító Igazgatóság a támogatást átutalta – visszautalja a Nyugdíjfolyósító Igazgatóság részére. Az Igazgatóság az értesítés kézhezvételét követő öt munkanapon belül módosítja a határozatot, a Nyugdíjfolyósító Igazgatóság pedig gondoskodik a visszautalt támogatás elszámolásáról.
 
-[^13]: A 4/A. §-t a 251/2009. (XI. 13.) Korm. rendelet 4. §-a iktatta be.
+[^15]: A 4/A. §-t a 251/2009. (XI. 13.) Korm. rendelet 4. §-a iktatta be.
