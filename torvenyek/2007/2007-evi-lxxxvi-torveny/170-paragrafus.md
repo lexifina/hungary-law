@@ -36,7 +36,7 @@
 
 16. az egyetemes szolgáltatásra vonatkozó engedélykérelemben feltüntethető legkisebb szolgáltatási terület szabályait, valamint az egyetemes szolgáltatás bármely villamosenergia-kereskedő általi végzését lehetővé tevő részletes szabályokat,
 
-17. a folyamatos ellátás érdekében más engedélyes kijelölésére vonatkozó részletes szabályokat,
+17. a folyamatos ellátás érdekében, valamint az átviteli rendszerirányító ismételt súlyos kötelezettségszegése esetén más engedélyes kijelölésére vonatkozó részletes szabályokat,
 
 18. a jelentős piaci erő megállapítása szempontjából releváns piacok területi meghatározására, a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és a 110–111. §-ok szerinti kötelezettségek tartalmára, alkalmazási feltételeire, valamint a 106. § szerinti értékesítési kötelezettség teljesítésére, a teljesítés ellenőrzésére, az értékesítési szabályok kötelező formai és tartalmi elemeire vonatkozó részletes előírásokat,
 
@@ -80,7 +80,7 @@
 
 38. a végső menedékes kijelölésére, tevékenységére, jogaira és kötelezettségeire, valamint feladatai ellátására vonatkozó részletes szabályokat,
 
-39. a hálózati engedélyesek által készítendő megfelelési program és megfelelési jelentés részletes szabályait,
+39. a hálózati engedélyesek által készítendő megfelelési program és megfelelési jelentés részletes szabályait, valamint az átviteli rendszerirányítónál működő megfelelési ellenőr jogköreire és feladataira vonatkozó részletes szabályokat,
 
 40. a számviteli szétválasztásra vonatkozó fő követelményeket és alapelveket,
 

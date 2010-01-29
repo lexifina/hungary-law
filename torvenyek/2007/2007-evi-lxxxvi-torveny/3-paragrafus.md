@@ -153,3 +153,5 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 71. Villamosmű: az erőmű, az átviteli és az elosztó hálózat;
 
 72. Zöld bizonyítvány: a megújuló energiaforrásból vagy hulladékból nyert energiával előállított villamos energia mennyiségét igazoló, származási igazoláson alapuló forgalomképes okirat.
+
+74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény.
