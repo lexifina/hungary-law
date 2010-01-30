@@ -1,0 +1,7 @@
+## II. A 2010/2011-es tanév képesség-kibontakoztató, integrációs felkészítés, továbbá óvodai fejlesztő program szervezésének 2010. évi támogatása
+
+7. § (1) A Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény (a továbbiakban: költségvetési törvény) 5. számú melléklet 12. pont a) alpontja szerinti támogatást a fenntartó akkor igényelheti, ha az általa fenntartott intézmény a nevelési-oktatási intézmények működéséről szóló 11/1994. (VI. 8.) MKM rendelet (a továbbiakban: MKM rendelet) 39/D–39/E. §-ában, 54. § (15) bekezdésében meghatározott követelmények és a miniszter által kiadott Integrációs Pedagógiai Program (a továbbiakban: IPR) szerint képesség-kibontakoztató, integrációs felkészítést vagy óvodai fejlesztő program szerinti foglalkoztatást biztosít.
+
+(2) A képesség-kibontakoztató, integrációs felkészítés, valamint az óvodai fejlesztő program után igényelhető támogatás olyan intézményre tekintettel igényelhető, amelynek alapító okiratában, valamint helyi pedagógiai programjában, nevelési programjában az igényjogosultságot megalapozó tevékenység szerepel vagy a fenntartó kötelezettséget vállal annak beépítésére.
+
+(3) Képesség-kibontakoztató, integrációs felkészítés támogatása iránti igénylést az általános iskolában, a gimnáziumban, a szakközépiskolában és a szakiskolában a nappali oktatás munkarendje szerinti oktatásban részesülő tanulók számára megszervezett felkészítés esetén lehet benyújtani.

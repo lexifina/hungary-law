@@ -1,0 +1,5 @@
+13. § (1) Az OKM Támogatáskezelő a feldolgozott igénybejelentések alapján összesítő jelentést készít helyi önkormányzatok, közoktatási feladatot ellátó nem állami, nem helyi önkormányzati fenntartók, illetve központi költségvetési szervként működő felsőoktatási intézmények fenntartói szerint külön-külön összesítve, továbbá intézmény-, programtípusok és tanulói létszám szerint összesítve elektronikus és nyomtatott formában, amelyet 2010. július 15-ig megküld a miniszter részére.
+
+(2) Az összesítő jelentést hét tagból álló értékelő bizottság vizsgálja meg. A bizottság elnökét és két tagját a miniszter, két tagját az OOIH, további egy tagját szakmai érdekképviseleti társadalmi szervezet, egy tagot az önkormányzati miniszter jelöl ki. A bizottság az ügyrendjét maga állapítja meg.
+
+(3) Az értékelő bizottság a formai követelményeken túl az MKM rendelet 39/D–39/E. §-ának, 54. § (15) bekezdésének és e rendelet 8. §-ában szereplő rendelkezéseknek való megfelelést megvizsgálva szakmai véleményt készít, amelyben a támogatás odaítélésére (e körben a támogatás végleges fajlagos összegére) vagy elutasítására 2010. július 25-ig indokolt javaslatot tesz a miniszternek.
