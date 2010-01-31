@@ -84,7 +84,12 @@ C)[^405] Jelentési kötelezettség az ESZCSM részére:
 
 2.[^406] Gondozók szolgáltató egységenkénti tevékenysége, teljesítmény és finanszírozási adatai, havi, negyedéves, féléves és éves összesítésben
 
+3. Házi szakápoló szolgálatok tevékenysége, teljesítmény és finanszírozási adatai, negyedéves és éves összesítésben
+
+4.[^407] Járóbeteg-szakellátás szolgáltató egységenkénti (szakrendelésenként, szakambulanciánként) teljesítmény- és finanszírozási adatai, tevékenysége (OENO, eset, beavatkozás, pont stb.) havi, negyedéves, féléves és éves összesítésben
+
 [^403]: A 22. számú mellékletet a 264/2003. (XII. 24.) Korm. rendelet 26. §-ának (8) bekezdése iktatta be.
 [^404]: A 22. számú melléklet B) pontját a 112/2004. (IV. 28.) Korm. rendelet 16. § (3) bekezdésének b) pontja hatályon kívül helyezte.
 [^405]: A 22. számú melléklet C) pontjának felvezető szövege a 112/2004. (IV. 28.) Korm. rendelet 16. § (3) bekezdésének b) pontja szerint módosított szöveg.
 [^406]: A 22. számú melléklet C) pontjának 2. alpontja a 112/2004. (IV. 28.) Korm. rendelet 14. § (11) bekezdésének a) pontjával megállapított szöveg.
+[^407]: A 22. számú melléklet C) pontjának 4. alpontja a 112/2004. (IV. 28.) Korm. rendelet 14. § (11) bekezdésének b) pontjával megállapított szöveg.
