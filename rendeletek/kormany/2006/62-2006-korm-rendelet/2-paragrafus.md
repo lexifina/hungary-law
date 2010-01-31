@@ -8,7 +8,7 @@ b) b) pontja szerinti jogosult esetén az öregségi nyugdíj mindenkori legkise
 
 c) c) pontja szerinti jogosult esetén az öregségi nyugdíj mindenkori legkisebb összegének 130%-a.
 
-(2)[^8] A 2. számú melléklet szerinti adatlapon kifizetett összegként az Szt. 2008. december 31-én hatályos rendelkezései szerint rendszeres szociális segélyben részesülők számára kifizetett összeget, valamint az Szt. 37/B. § (1) bekezdése szerinti jogosultak részére megállapított rendszeres szociális segélynek a tárgyhónapban folyósított összegét – ideértve a természetbeni juttatásként biztosított összeget, továbbá az Szt. 2009. december 31-én hatályos 37/E. §-ának (1) bekezdése szerint folyósított összeget is – kell feltüntetni.
+(2)[^8] A 2. számú melléklet szerinti adatlapon kifizetett összegként az Szt. 37/B. § (1) bekezdése szerinti jogosultak részére megállapított rendszeres szociális segélynek a tárgyhónapban folyósított összegét – ideértve a természetbeni juttatásként biztosított összeget, továbbá az Szt. 2009. december 31-én hatályos 37/E. §-ának (1) bekezdése szerint folyósított összeget is – kell feltüntetni.
 
 (3) A 3. számú melléklet szerinti adatlapon kifizetett összegként az Szt. 38. §-a (1) bekezdésének a) pontja szerint megállapított lakásfenntartási támogatásnak tárgyhónapban folyósított összegét kell feltüntetni.
 
@@ -26,7 +26,7 @@ b) b) pontjában foglalt esetben az öregségi nyugdíj mindenkori legkisebb ös
 
 (8)[^11] Az Szt. 26/A. § (3) bekezdése szerint megállapított előleg összege az 1., a 2., a 4., és a 7. számú melléklet szerinti adatlapon a tárgyhóban kifizetett összegként feltüntethető.
 
-[^8]: A 2. § (2) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés c) pont cb) alpontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés c) pont cb) alpontja, a 14. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^9]: A 2. § (6) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^10]: A 2. § (7) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés c) pont cc) alpontja szerint módosított szöveg.
 [^11]: A 2. § (8) bekezdését a 75/2009. (IV. 8.) Korm. rendelet 5. §-a iktatta be.
