@@ -1,6 +1,6 @@
 ## Az államilag támogatott és költségtérítéses képzési forma közötti átsorolás rendje
 
-## [a felsőoktatási törvény 55. §-ának (6) bekezdéséhez][^36]
+## [a felsőoktatási törvény 55. §-ának (6) bekezdéséhez][^39]
 
 29. § (1) A felsőoktatási törvény 55. §-ának (1) bekezdése és 59. §-a (4) bekezdésének c) pontja szerinti döntést az államilag támogatott, illetve költségtérítéses képzési forma közötti átsorolásról a tanév végén a képzési időszak lezárását követően, de legkésőbb a következő képzési időszak kezdetét megelőző 30 nappal kell meghozni.
 
@@ -14,7 +14,7 @@
 
 a) az utolsó két bejelentkezett félévében megszerezte az ajánlott tantervben előírt kreditmennyiségnek legalább az 50%-át és az összesített korrigált kreditindex alapján létrehozott hallgatói rangsor elején lévő hallgató, továbbá akinek
 
-b)[^37] az összesített korrigált kreditindexe magasabb, mint az államilag támogatott hallgatók összesített korrigált kreditindex-jegyzékén a rangsor alsó ötödénél elhelyezkedő hallgató összesített kreditindexe.
+b)[^40] az összesített korrigált kreditindexe magasabb, mint az államilag támogatott hallgatók összesített korrigált kreditindex-jegyzékén a rangsor alsó ötödénél elhelyezkedő hallgató összesített kreditindexe.
 
 (6) A felsőoktatási intézménynek a következő képzési időszakra államilag támogatott formára átsorolható hallgatói létszáma meghatározásához a hallgatók tanulmányi teljesítménye alapján meg kell állapítania, hogy
 
@@ -28,5 +28,5 @@ c) hány olyan hallgató van, aki a lezárt félévvel már igénybe vette az ad
 
 (8) Az át nem sorolt hallgatók ugyanabban a képzési (finanszírozási) formában folytatják tanulmányaikat a következő tanévben, mint az azt megelőzőben.
 
-[^36]: A 29. §-t megelőző alcím a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének f) pontja szerint módosított szöveg.
-[^37]: A 29. § (5) bekezdésének b) pontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének g) pontja szerint módosított szöveg.
+[^39]: A 29. §-t megelőző alcím a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének f) pontja szerint módosított szöveg.
+[^40]: A 29. § (5) bekezdésének b) pontja a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének g) pontja szerint módosított szöveg.
