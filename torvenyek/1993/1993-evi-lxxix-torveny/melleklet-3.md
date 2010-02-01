@@ -21,5 +21,3 @@ Létszámhatárok
 ----------------------
 
 Á: Átlaglétszám
-
-M: Maximális létszám

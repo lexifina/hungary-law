@@ -144,6 +144,8 @@ A közoktatás információs rendszere
 
 7. A közoktatási információs rendszer a 6.6 pontban meghatározottakon túl tartalmazza továbbá azokat az adatokat, amelyek a jogszabályokban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához, kötelezettségek teljesítéséhez szükségesek, így a tanuló nemét, a fényképét, az igénybe vett szolgáltatást, az oktatás munkarendjét, a társadalombiztosítási azonosító jelét.
 
+[8. A közoktatás információs rendszerének kezelője a lakcímre is kiterjedő adatfelhasználás esetén a közoktatás információs rendszerébe bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személyiadat- és lakcímnyilvántartást vezető hatóság nyilvántartásában szereplő adattal. Ha a közoktatás információs rendszerébe bejegyzett lakcímadat nem egyezik meg a személyiadat- és lakcímnyilvántartásban szereplő adattal, a közoktatás információs rendszerének kezelője a személyiadat- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást a közoktatás információs rendszerében hivatalból átvezeti.]
+
 A pedagógusigazolvány
 
 A munkáltató a pedagógus-munkakörben, a pedagógiai előadó és pedagógiai szakértői munkakörben, továbbá a gyermek- és ifjúságvédelmi felelős, a szabadidő-szervező és a pedagógiai felügyelő munkakörökben foglalkoztatottak részére – kérelemre – pedagógusigazolványt ad ki. A pedagógusigazolvány a közoktatás információs rendszerében található adatokat tartalmazhatja. A pedagógusigazolvány tartalmazza továbbá az igazolvány számát, a jogosult fényképét és aláírását. A pedagógusigazolványt jogszabályban meghatározottak szerint kell igényelni.
