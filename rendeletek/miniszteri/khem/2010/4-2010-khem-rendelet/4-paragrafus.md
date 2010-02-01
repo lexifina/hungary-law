@@ -1,0 +1,1 @@
+## „(5) A regisztrációs jegy megváltására a menetjegy megváltására vonatkozó szabályokat kell alkalmazni, azzal a kivétellel, hogy az utazást a regisztrációs jeggyel az érvényesség első napján meg kell kezdeni, és az legfeljebb azt követő nap 24 óráig érvényes.”
