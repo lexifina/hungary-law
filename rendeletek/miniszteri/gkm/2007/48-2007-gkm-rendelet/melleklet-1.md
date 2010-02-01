@@ -1,3 +1,3 @@
 1. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^15]
 
-[^15]: Az 1. számú melléklet a 34/2009. (VII. 6.) KHEM rendelet 3. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^15]: Az 1. melléklet a 4/2010. (I. 22.) KHEM rendelet 5. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (5) bekezdését.

@@ -1,219 +1,219 @@
-## 1. Útipoggyász és élő állatok fuvarozásának díja a helyközi menetrend szerinti autóbusz-közlekedésben
+## 1. Útipoggyász és élő állatok fuvarozásának díja a helyközi menetrend szerinti autóbusz-közlekedésben
 
-| Távolság (km) | Útipoggyász fuvarozásának díja (Ft) |
+| Távolság (km) | Útipoggyász fuvarozásának díja (forint) |
 
-| 1–50 | 140 |
+| 1-50 | 155 |
 
-| 51–100 | 180 |
+| 51-100 | 195 |
 
-| 100 felett | 245 |
+| 100 felett | 270 |
 
 ## Kutyaszállításért és az autóbuszba bevitt, a kézipoggyásznál nagyobb tömegű vagy terjedelmű csomagok továbbításáért az útipoggyász fuvarozására meghatározott díjat kell fizetni. Kerékpár a kerékpár szállítására alkalmas autóbuszokon szállítható, az alkalmasságot a szolgáltató köteles az autóbuszokon feltüntetni.
 
-## Díjmentes a vakvezető, mozgáskorlátozottakat segítő és a rendőrségi kutya szállítása.
+## A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló 27/2009. (XII. 3.) SZMM rendelete szerinti segítő és a rendőrségi kutya szállítása díjtalan.
 
-## 2. Útipoggyász fuvarozásának díja a vasúti közlekedésben
+## 2. Útipoggyász fuvarozásának díja a vasúti közlekedésben
 
-| Távolság (km) | Útipoggyász fuvarozásának díja darabonként (Ft) |
+| Távolság (km) | Poggyászdarabonként forintban |
 
-| 5 | 440 |
+| 5 | 505 |
 
-| 10 | 440 |
+| 10 | 505 |
 
-| 15 | 440 |
+| 15 | 505 |
 
-| 20 | 440 |
+| 20 | 505 |
 
-| 25 | 440 |
+| 25 | 505 |
 
-| 30 | 440 |
+| 30 | 505 |
 
-| 35 | 440 |
+| 35 | 505 |
 
-| 40 | 440 |
+| 40 | 505 |
 
-| 45 | 440 |
+| 45 | 505 |
 
-| 50 | 440 |
+| 50 | 505 |
 
-| 60 | 525 |
+| 60 | 605 |
 
-| 70 | 615 |
+| 70 | 705 |
 
-| 80 | 700 |
+| 80 | 805 |
 
-| 90 | 790 |
+| 90 | 905 |
 
-| 100 | 875 |
+| 100 | 1 010 |
 
-| 120 | 1 030 |
+| 120 | 1 190 |
 
-| 140 | 1 190 |
+| 140 | 1 360 |
 
-| 160 | 1 330 |
+| 160 | 1 530 |
 
-| 180 | 1 470 |
+| 180 | 1 690 |
 
-| 200 | 1 610 |
+| 200 | 1 850 |
 
-| 220 | 1 740 |
+| 220 | 2 000 |
 
-| 240 | 1 860 |
+| 240 | 2 140 |
 
-| 260 | 1 970 |
+| 260 | 2 270 |
 
-| 280 | 2 090 |
+| 280 | 2 400 |
 
-| 300 | 2 190 |
+| 300 | 2 520 |
 
-| 350 | 2 430 |
+| 350 | 2 790 |
 
-| 400 | 2 630 |
+| 400 | 3 020 |
 
-| 450 | 2 790 |
+| 450 | 3 210 |
 
-| 500 | 2 920 |
+| 500 | 3 360 |
 
-| 500 felett | 3 010 |
+| 500 felett | 3 470 |
 
-## 3. Élő állatok fuvarozásának díja, valamint a kerékpár viteldíja a vasúti közlekedésben
+## 3. Élő állatok fuvarozásának díja, valamint a kerékpár viteldíja a vasúti közlekedésben
 
-## a) Egy útra szóló
+## a) Egy útra szóló
 
 | Bármely vonat 2. kocsiosztályában |
 
 | Távolság (km) | Forintban |
 
-| 5 | 200 |
+| 5 | 230 |
 
-| 10 | 200 |
+| 10 | 230 |
 
-| 15 | 200 |
+| 15 | 230 |
 
-| 20 | 200 |
+| 20 | 230 |
 
-| 25 | 200 |
+| 25 | 230 |
 
-| 30 | 200 |
+| 30 | 230 |
 
-| 35 | 200 |
+| 35 | 230 |
 
-| 40 | 200 |
+| 40 | 230 |
 
-| 45 | 200 |
+| 45 | 230 |
 
-| 50 | 200 |
+| 50 | 230 |
 
-| 60 | 240 |
+| 60 | 275 |
 
-| 70 | 280 |
+| 70 | 320 |
 
-| 80 | 320 |
+| 80 | 365 |
 
-| 90 | 360 |
+| 90 | 410 |
 
-| 100 | 400 |
+| 100 | 460 |
 
-| 120 | 470 |
+| 120 | 540 |
 
-| 140 | 540 |
+| 140 | 620 |
 
-| 160 | 605 |
+| 160 | 695 |
 
-| 180 | 670 |
+| 180 | 770 |
 
-| 200 | 730 |
+| 200 | 840 |
 
-| 220 | 790 |
+| 220 | 905 |
 
-| 240 | 845 |
+| 240 | 970 |
 
-| 260 | 900 |
+| 260 | 1 030 |
 
-| 280 | 950 |
+| 280 | 1 090 |
 
-| 300 | 995 |
+| 300 | 1 150 |
 
-| 350 | 1100 |
+| 350 | 1 270 |
 
-| 400 | 1200 |
+| 400 | 1 370 |
 
-| 450 | 1270 |
+| 450 | 1 460 |
 
-| 500 | 1330 |
+| 500 | 1 530 |
 
-| 500 felett | 1370 |
+| 500 felett | 1 580 |
 
-## A vakvezető, a mozgáskorlátozottakat segítő és a rendőrségi kutya szállítása díjtalan.
+## A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló 27/2009. (XII. 3.) SZMM rendelete szerinti segítő és a rendőrségi kutya szállítása díjtalan.
 
-## b) Havibérlet, 30 napos bérlet
+## b) Havibérlet, 30 napos bérlet
 
 | Bármely vonat 2. kocsiosztályában |
 
 | Távolság (km) | Forintban |
 
-| 5 | 1 190 |
+| 5 | 1 340 |
 
-| 10 | 1 910 |
+| 10 | 2 110 |
 
-| 15 | 2 390 |
+| 15 | 2 630 |
 
-| 20 | 2 860 |
+| 20 | 3 150 |
 
-| 25 | 3 580 |
+| 25 | 3 960 |
 
-| 30 | 4 300 |
+| 30 | 4 750 |
 
-| 35 | 5 020 |
+| 35 | 5 510 |
 
-| 40 | 5 740 |
+| 40 | 6 350 |
 
-| 45 | 6 460 |
+| 45 | 7 110 |
 
-| 50 | 7 180 |
+| 50 | 7 880 |
 
-| 60 | 8 600 |
+| 60 | 9 470 |
 
-| 70 | 10 000 |
+| 70 | 11 000 |
 
-| 80 | 11 500 |
+| 80 | 12 700 |
 
-| 90 | 12 900 |
+| 90 | 14 200 |
 
-| 100 | 14 300 |
+| 100 | 15 800 |
 
-| 120 | 16 900 |
+| 120 | 18 600 |
 
-| 140 | 19 400 |
+| 140 | 21 400 |
 
-| 160 | 21 800 |
+| 160 | 24 100 |
 
-| 180 | 24 100 |
+| 180 | 26 600 |
 
-| 200 | 26 300 |
+| 200 | 29 000 |
 
-| 220 | 28 400 |
+| 220 | 31 300 |
 
-| 240 | 30 400 |
+| 240 | 33 500 |
 
-| 260 | 32 300 |
+| 260 | 35 600 |
 
-| 280 | 34 100 |
+| 280 | 37 600 |
 
-| 300 | 35 800 |
+| 300 | 39 500 |
 
-| 350 | 39 700 |
+| 350 | 43 800 |
 
-| 400 | 43 000 |
+| 400 | 47 400 |
 
-| 450 | 45 700 |
+| 450 | 50 300 |
 
-| 500 | 47 800 |
+| 500 | 52 700 |
 
-| 500 felett | 49 300 |
+| 500 felett | 54 300 |
 
-## A vakvezető, a mozgáskorlátozottakat segítő és a rendőrségi kutya szállítása díjtalan.
+## A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló 27/2009. (XII. 3.) SZMM rendelete szerinti segítő és a rendőrségi kutya szállítása díjtalan.
 
 3. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^17]
 
-[^17]: A 3. számú melléklet a 34/2009. (VII. 6.) KHEM rendelet 3. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^17]: A 3. melléklet a 4/2010. (I. 22.) KHEM rendelet 5. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (5) bekezdését.
