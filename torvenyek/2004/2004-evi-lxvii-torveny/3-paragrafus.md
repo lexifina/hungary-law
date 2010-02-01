@@ -1,1 +1,9 @@
-3. § A VTT tervezésével, előkészítésével és megvalósításával kapcsolatos feladatok és tevékenységek a 2007. évtől beépülnek a nemzeti fejlesztési tervbe és a nemzeti vidékfejlesztési tervbe. A VTT pénzügyi forrásai a nemzeti fejlesztési terv operatív programjai és a nemzeti vidékfejlesztési stratégiai tervet megvalósító nemzeti vidékfejlesztési program keretében az Európai Unió támogatási alapjából pályázati úton elnyerhető pénzeszközök, valamint az európai uniós támogatások hazai társfinanszírozási kerete, továbbá a már megkezdett beruházások esetében a költségvetési támogatás, melynek biztosításáról – a központi költségvetésből – a Kormány gondoskodik.
+3. § A VTT tervezésével, előkészítésével és megvalósításával kapcsolatos feladatokhoz és tevékenységekhez szükséges pénzeszközökről
+
+a) a központi költségvetésnek az e célra létrehozott fejezeti kezelésű előirányzatából;
+
+b) a nemzeti fejlesztési terv operatív programjai és a nemzeti vidékfejlesztési stratégiai tervet megvalósító nemzeti vidékfejlesztési program keretében az Európai Unió támogatási alapjából pályázati úton elnyerhető pénzeszközökből, valamint az európai uniós támogatások hazai társfinanszírozási keretéből; továbbá
+
+c) a már megkezdett beruházások esetében a költségvetési támogatásból,
+
+a Kormány gondoskodik.

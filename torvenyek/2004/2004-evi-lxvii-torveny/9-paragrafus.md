@@ -1,6 +1,6 @@
 9. § (1) A 8. § (1) bekezdése szerinti egyszeri térítés megfizetéséről a vízügyi hatóság az 5. § (2) bekezdés szerinti határozatában dönt, és a beruházó gondoskodik az egyszeri térítés kifizetéséről.
 
-(2) Az egyszeri térítés alapja a termőföld nyilvántartott kataszteri tiszta jövedelme, aranykorona-érték (a továbbiakban: Ak). Az egyszeri térítés mértéke 6000 forint Ak-ként.
+(2) Az egyszeri térítés alapja a termőföld ingatlan-nyilvántartás szerinti kataszteri tiszta jövedelme, aranykorona-érték (a továbbiakban: Ak). Az egyszeri térítés mértéke 8000 forint Ak-ként.
 
 (3) Ha a 7. §-ban meghatározott korlátozás az ingatlan rendeltetésszerű használatát megszünteti, vagy jelentős mértékben akadályozza, a tulajdonos az ingatlan megvásárlását, illetőleg kisajátítását a beruházótól kérheti. Ebben az esetben a tulajdonost az egyszeri térítés nem illeti meg.
 
@@ -25,3 +25,5 @@ a) a természetes személy családi és utónevét, születési családi és ut�
 b) jogi személy, jogi személyiséggel nem rendelkező más szervezet nevét, székhelyét, cégjegyzékszámát, statisztikai számjelét.
 
 (9) Az ingatlanügyi hatóság – az árvízi tározó jogi jelleg ingatlan-nyilvántartásba történő feljegyzéséről szóló határozattal, illetve a földrészlet tulajdonosában bekövetkező változás esetén a tulajdonjog bejegyző határozattal egyidejűleg – a (6) és (8) bekezdésben meghatározott adatokat a beruházónak megküldi.
+
+(10) A (2) bekezdés szerinti egyszeri térítés mértéke évente növekszik a Központi Statisztikai Hivatal által közölt, a tárgyévre érvényes fogyasztói árindex mértékével.

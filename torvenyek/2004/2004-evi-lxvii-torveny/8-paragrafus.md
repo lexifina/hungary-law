@@ -2,7 +2,7 @@
 
 (2) Az árvízi tározó árvíz-szabályozási célból történő igénybevétele esetén az okozott kárért az ingatlan használóját teljes kártalanítás illeti meg.
 
-(3) Nem jár kártalanítás a kár azon része után, amely a földhasználati korlátozások megszegése miatt keletkezett.
+(3) Nem jár kártalanítás a kár azon része után, amely a 7. § szerinti korlátozások megszegése miatt keletkezett.
 
 (4) Az árvízi tározók területén lévő ingatlanok árvízi szabályozási célból történő igénybevételével kapcsolatos kártalanításra e törvény eltérő rendelkezése hiányában a Polgári Törvénykönyv szabályait kell alkalmazni.
 

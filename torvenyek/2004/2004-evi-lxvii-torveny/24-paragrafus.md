@@ -8,4 +8,6 @@ b) az egyszeri térítés és a kártalanítás, valamint az igénybevétel rés
 
 (3) Felhatalmazást kap a területfejlesztésért és területrendezésért felelős miniszter és az agrárpolitikáért felelős miniszter, hogy együttes rendeletben határozza meg a Vásárhelyi-terv integrált terület- és vidékfejlesztés programját.
 
+(4) Felhatalmazást kap a Kormány, hogy az ártéri gazdálkodás szakmai elveit, továbbá a tározó árapasztási célú igénybevétele esetén fizetendő kártalanítás feltételeit rendeletben állapítsa meg.
+
 ## Melléklet a 2004. évi LXVII. törvényhez
