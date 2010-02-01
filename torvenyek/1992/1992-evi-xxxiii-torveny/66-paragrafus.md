@@ -1,6 +1,6 @@
 66. § (1) A fizetési osztályok első fizetési fokozatához tartozó illetmény garantált összegét, valamint a növekvő számú fizetési fokozatokhoz tartozó – az első fizetési fokozat garantált illetményére épülő – legkisebb szorzószámokat az éves költségvetési törvény állapítja meg.
 
-(2) Amennyiben a közalkalmazottnak a munkaköre ellátásához a besorolás alapjául szolgáló iskolai végzettség, illetve szakképesítés, szakképzettség mellett a kinevezésében feltüntetett további szakképesítésre, szakképzettségre is szükség van, és azzal a közalkalmazott rendelkezik, az (1) bekezdés szerint járó garantált illetménye
+(2) Amennyiben a közalkalmazottnak a munkaköre ellátásához a besorolás alapjául szolgáló iskolai végzettség, illetve szakképesítés, szakképzettség mellett a kinevezésében feltüntetett további szakképesítésre, szakképzettségre vagy azzal jogszabályban egyenértékűnek elismert képesítésre is szükség van, és azzal a közalkalmazott rendelkezik, az (1) bekezdés szerint járó garantált illetménye
 
 a) egy további szakképesítés esetén legalább 5%-kal,
 
