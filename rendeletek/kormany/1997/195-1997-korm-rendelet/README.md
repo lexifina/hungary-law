@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-195-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1997-195-20-22.33 | 195/1997. (XI. 5.) Korm. rendelet |
+| 2010-02-01 | 1997-195-20-22.34 | 331/2009. (XII. 29.) Korm. rendelet |
