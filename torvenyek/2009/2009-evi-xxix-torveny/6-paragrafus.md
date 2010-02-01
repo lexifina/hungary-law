@@ -1,3 +1,0 @@
-6. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685/A. §-a helyébe a következő rendelkezés lép:
-
-„685/A. § Élettársi kapcsolat áll fenn két olyan házasságkötés vagy bejegyzett élettársi kapcsolat létesítése nélkül közös háztartásban érzelmi és gazdasági közösségben (életközösségben) együtt élő személy között, akik közül egyiknek sem áll fenn mással házassági életközössége, bejegyzett élettársi életközössége vagy élettársi kapcsolata, és akik nem állnak egymással egyenesági rokonságban vagy testvéri, féltestvéri kapcsolatban.”
