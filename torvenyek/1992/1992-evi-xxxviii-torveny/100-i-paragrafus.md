@@ -38,4 +38,4 @@ f) a Kormány irányítása alá tartozó közintézet jogi személyiségű szer
 
 (11) Amennyiben a (8) bekezdés szerinti jogi személyiségű szervezeti egység tevékenységének eredménye két éven át veszteséget mutat, akkor a 100/J. § (5) bekezdése szerinti engedélyt vissza kell vonni.
 
-(12) A közüzem külön törvényben foglaltak szerint jogosult a saját tulajdonában lévő vagyon értékének összesen legfeljebb 50%-os mértékéig hitelintézettől fejlesztési hitel felvételére. A közüzem saját tulajdonában álló vagyon körét külön törvény állapítja meg.
+(12) A közüzem külön törvényben foglaltak szerint, az ott meghatározott feltételekkel, az irányító szerv előzetes engedélyével pénzügyi intézménytől fejlesztési hitelt vehet fel. A külön törvényben foglalt feltételeknek ki kell terjednie a közüzem – hitel visszafizetését biztosító – saját vagyona vagy saját forrásai meglétére is. A közüzem hitelállományának mértéke nem haladhatja meg a saját vagyon könyv szerinti értékének és a saját források együttes összegének 50%-át.
