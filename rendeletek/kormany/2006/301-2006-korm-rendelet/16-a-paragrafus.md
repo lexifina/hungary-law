@@ -1,4 +1,4 @@
-16/A. §[^36] (1) A féléves áttekintő megbeszélést követően – a köztisztviselő céljainak, feladatainak időarányos teljesítésének figyelembevételével – az értékelő vezető a tárgyévi egyéni teljesítményjutalom terhére,
+16/A. §[^37] (1) A féléves áttekintő megbeszélést követően – a köztisztviselő céljainak, feladatainak időarányos teljesítésének figyelembevételével – az értékelő vezető a tárgyévi egyéni teljesítményjutalom terhére,
 
 a) vezető beosztású köztisztviselő és a tanácsadó esetén legfeljebb egyhavi illetménynek,
 
@@ -12,4 +12,4 @@ c) felsőfokú végzettséggel nem rendelkező köztisztviselők esetén legfelj
 
 (4) Amennyiben a köztisztviselő részére kifizetett részjutalom meghaladja a komplex teljesítményértékelés alapján megállapított jutalom összegét, a köztisztviselőt visszafizetési kötelezettség nem terheli.
 
-[^36]: A 16/A. §-t a 31/2008. (II. 21.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 11. § (2) bekezdése alapján a rendelkezést a folyamatban lévő célmeghatározások során is alkalmazni kell. Lásd még e módosító rendelet 13. §-át. A 260/2008. (XI. 3.) Korm. rendelet 2. § (4) bekezdése alapján részjutalom a 301/2006. (XII. 23.) Korm. rendeletben meghatározott időpont helyett kizárólag 2008. november 18. napjáig fizethető ki.
+[^37]: A 16/A. §-t a 31/2008. (II. 21.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 11. § (2) bekezdése alapján a rendelkezést a folyamatban lévő célmeghatározások során is alkalmazni kell. Lásd még e módosító rendelet 13. §-át. A 260/2008. (XI. 3.) Korm. rendelet 2. § (4) bekezdése alapján részjutalom a 301/2006. (XII. 23.) Korm. rendeletben meghatározott időpont helyett kizárólag 2008. november 18. napjáig fizethető ki.

@@ -1,4 +1,4 @@
-15. §[^32] (1) Az előértékelés során a köztisztviselő számára az év végi komplex értékelés eredményeként adott pontszámot úgy kell megállapítani, hogy az értékelés alá tartozó köztisztviselők létszámára, valamint a 2. mellékletben szereplő kötelező eloszlásra tekintettel megállapított létszámeloszlás az értékelés alá tartozó köztisztviselők teljesítményértékelési eredményére figyelemmel érvényesüljön. A kötelező eloszlás megállapításánál figyelembe kell venni a 16/B. § (2) bekezdése alkalmazásával besorolt köztisztviselőket is.
+15. §[^33] (1) Az előértékelés során a köztisztviselő számára az év végi komplex értékelés eredményeként adott pontszámot úgy kell megállapítani, hogy az értékelés alá tartozó köztisztviselők létszámára, valamint a 2. mellékletben szereplő kötelező eloszlásra tekintettel megállapított létszámeloszlás az értékelés alá tartozó köztisztviselők teljesítményértékelési eredményére figyelemmel érvényesüljön. A kötelező eloszlás megállapításánál figyelembe kell venni a 16/B. § (2) bekezdése alkalmazásával besorolt köztisztviselőket is.
 
 (2) A jutalom elosztása teljesítményszintek alapján történik a 3. mellékletben foglaltak figyelembevételével. A 2. mellékletben szereplő táblázat „kivételes teljesítmény”, „megfelelő teljesítmény” és „fejlesztés szükséges” kategóriájába nem kötelező köztisztviselőt besorolni, de egyéb tekintetben a kötelező eloszlás szabályát érvényesíteni kell.
 
@@ -12,4 +12,4 @@
 
 (7) A hivatali szervezet vezetője a (6) bekezdésben meghatározott jutalomkerettől szervezeti egységenként a szervezeti célok figyelembevételével legfeljebb 20%-kal eltérhet azzal, hogy a pozitív eltérések forintösszege nem haladhatja meg a negatív eltérések forintösszegét.
 
-[^32]: A 15. § a 31/2008. (II. 21.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a rendelkezést a folyamatban lévő célmeghatározások során is alkalmazni kell. Lásd még e módosító rendelet 13. §-át.
+[^33]: A 15. § a 31/2008. (II. 21.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a rendelkezést a folyamatban lévő célmeghatározások során is alkalmazni kell. Lásd még e módosító rendelet 13. §-át.

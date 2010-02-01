@@ -2,10 +2,10 @@
 
 ## A jutalom
 
-## 13. §[^30] A munkáltatói jogkör gyakorlója az értékelő vezető javaslata alapján az egyéni teljesítményalapú jutalom (a továbbiakban: jutalom) összegét
+## 13. §[^31] A munkáltatói jogkör gyakorlója az értékelő vezető javaslata alapján az egyéni teljesítményalapú jutalom (a továbbiakban: jutalom) összegét
 
 a) vezető beosztású köztisztviselő és a tanácsadó esetén a jutalom alapjának százalékában,
 
 b) az a) pont hatálya alá nem tartozó köztisztviselő esetén a jutalom alapjának szorzatában, a 3. mellékletben foglaltak figyelembevételével állapítja meg.
 
-[^30]: A 13. § a 31/2008. (II. 21.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a rendelkezést a folyamatban lévő célmeghatározások során is alkalmazni kell. Lásd még e módosító rendelet 13. §-át.
+[^31]: A 13. § a 31/2008. (II. 21.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a rendelkezést a folyamatban lévő célmeghatározások során is alkalmazni kell. Lásd még e módosító rendelet 13. §-át.

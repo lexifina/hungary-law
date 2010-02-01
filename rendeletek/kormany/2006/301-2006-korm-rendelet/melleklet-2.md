@@ -286,6 +286,6 @@
 
 ## Tájékoztatás: az értékelt köztisztviselő a teljesítményértékelés hibás vagy valótlan ténymegállapításának megsemmisítése iránt a kézbesítéstől számított 30 napon belül – a munkaügyi bírósághoz benyújtandó keresettel – közszolgálati jogvitát indíthat a Ktv. 34. § (7) bekezdése, valamint 59. § (3) bekezdésének c) pontja alapján.
 
-2. melléklet a 301/2006. (XII. 23.) Korm. rendelethez[^55]
+2. melléklet a 301/2006. (XII. 23.) Korm. rendelethez[^56]
 
-[^55]: A 2. melléklet a 31/2008. (II. 21.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján rendelkezéseit a folyamatban lévő célmeghatározások során is alkalmazni kell. Lásd még e módosító rendelet 13. §-át.
+[^56]: A 2. melléklet a 31/2008. (II. 21.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján rendelkezéseit a folyamatban lévő célmeghatározások során is alkalmazni kell. Lásd még e módosító rendelet 13. §-át.

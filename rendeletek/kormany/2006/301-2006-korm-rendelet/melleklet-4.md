@@ -62,7 +62,7 @@
 
 | Fejlesztés szükséges | 0 | 0 |
 
-4. melléklet a 301/2006. (XII. 23.) Korm. rendelethez[^57]
+4. melléklet a 301/2006. (XII. 23.) Korm. rendelethez[^58]
 
 A teljesítmény súlyozott komplex értékelése
 
@@ -100,4 +100,4 @@ nem tanácsadó köztisztviselő esetén
 
 | Fejlesztés szükséges | E | 0–49 |
 
-[^57]: A 4. mellékletet a 31/2008. (II. 21.) Korm. rendelet 10. § (2) bekezdése iktatta be. E módosító rendelet 11. § (2) bekezdése alapján rendelkezéseit a folyamatban lévő célmeghatározások során is alkalmazni kell. Lásd még e módosító rendelet 13. §-át.
+[^58]: A 4. mellékletet a 31/2008. (II. 21.) Korm. rendelet 10. § (2) bekezdése iktatta be. E módosító rendelet 11. § (2) bekezdése alapján rendelkezéseit a folyamatban lévő célmeghatározások során is alkalmazni kell. Lásd még e módosító rendelet 13. §-át.
