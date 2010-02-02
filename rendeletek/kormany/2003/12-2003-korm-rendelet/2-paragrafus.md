@@ -26,4 +26,7 @@ megjelölését.
 
 (9) Közös értékesítés esetén a zálogkötelezett a sikeres értékesítés előmozdítása érdekében a zálogjogosulttal együttműködni köteles.
 
+(10)[^2] A kötelezett által lakott lakóingatlan a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 257–258. § alkalmazásával 2010. április 15-ig nem értékesíthető.
+
 [^1]: A 2. § a 209/2009. (IX. 29.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést nem kell alkalmazni, ha az értékesítést végző zálogjogosult a zálogkötelezettet a zálogtárgy értékesítésének idejéről, helyéről és módjáról 2009. október 2. napja előtt már értesítette, feltéve, hogy az értékesítést az értesítésben foglalt feltételeknek megfelelően folytatja le.
+[^2]: A 2. § (10) bekezdését a 12/2010. (II. 2.) Korm. rendelet 1. §-a iktatta be.
