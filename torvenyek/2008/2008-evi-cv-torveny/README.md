@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-105-00-00
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-105-00-00.4 |
 | 2010-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-105-00-00.5 |
+| 2010-02-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-105-00-00.6 |
