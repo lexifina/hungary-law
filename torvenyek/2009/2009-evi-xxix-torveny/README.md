@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-29-00-00
 | --- | --- | --- |
 | 2009-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-29-00-00.1 |
 | 2010-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-29-00-00.2 |
+| 2010-02-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-29-00-00.3 |
