@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-2-00-00
 | --- | --- | --- |
 | 2010-02-01 | 2010. évi II. törvény | 2010-2-00-00.0 (közlönyállapot) |
 | 2010-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-2-00-00.1 |
+| 2010-02-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2010-2-00-00.2 |

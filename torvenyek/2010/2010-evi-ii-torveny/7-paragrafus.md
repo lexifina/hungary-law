@@ -1,1 +1,0 @@
-7. § A törvény 4. §-ának „árvízi tározók és a nagyvízi mederben történő” szövegrész helyébe „árvízvédelmi célú”, a 8. § (3) bekezdésének „földhasználati” szövegrésze helyébe „7. § szerinti”, a 9. § (2) bekezdésének a „nyilvántartott” szövegrésze helyébe az „ingatlan-nyilvántartás szerinti”, a „6000” szövegrésze helyébe a „8000” szövegrész lép.
