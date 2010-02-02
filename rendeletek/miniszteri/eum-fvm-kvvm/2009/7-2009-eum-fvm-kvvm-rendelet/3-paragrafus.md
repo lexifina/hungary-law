@@ -22,27 +22,7 @@ j) a Bizottság 2008/86/EK irányelve (2008. szeptember 5.) a 98/8/EK európai p
 
 Melléklet a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelethez[^2]
 
-1. Az R. 1. számú melléklete szerinti táblázat a következő új 4. sorral egészül ki:
-
-| [Sorszám | Közhasználatú név | IUPAC-név, azonosító számok | A hatóanyag minimális tisztasága a forgalomba hozott biocid termékben | A felvétel napja | A 16. § (3) bekezdésének való megfelelés határideje(1) | A felvétel lejárta | Terméktípus | Különös rendelkezések(2)] |
-
-| „4. | Klotianidin | (E)-1-(2-Klór-1,3- tiazol-5-ilmetil)- 3-metil-2- nitroguanidin EK-szám: 433-460-1 CAS-szám: 210880-92-5 | 950 g/kg | 2010. február 1. | 2012. január 31. | 2020. január 31. | 8 | 4.1. Összhangban az 5. §-ban és a 6. számú mellékletben foglaltakkal, a termékengedélyezés iránti kérelem elbírálása során értékelni kell azokat a felhasználási/expozíciós forgatókönyveket és/vagy lakosságcsoportokat, amelyeket nem érintett reprezentatív módon a közösségi szintű kockázatértékelés, de ki lehetnek téve a termék által okozott hatásoknak. A termék engedélyezése során értékelni kell a kockázatokat és ezt követően megfelelő intézkedéseket kell hozni a beazonosított kockázatok minimalizálása érdekében. |
-
-|  |  |  |  |  |  |  |  | 4.2. Termékengedély csak akkor adható ki, ha a kérelemben bizonyított, hogy a kockázatok elfogadható szintre csökkenthetők. |
-
-|  |  |  |  |  |  |  |  | 4.3. Engedély a következő feltételekkel adható ki: A talaj, a felszíni és a felszín alatti víz vonatkozásában megállapított kockázat fényében a termék nem engedélyezhető kültéri felhasználásra szánt fa kezelése céljából, kivéve, ha a benyújtott adatok bizonyítják, hogy a termék megfelel az 5. § és a 6. számú melléklet követelményeinek, szükség esetén a megfelelő kockázatcsökkentő intézkedések megtételével. |
-
-|  |  |  |  |  |  |  |  | Az ipari felhasználásra engedélyezett termék címkéjén és/vagy biztonsági adatlapján fel kell tüntetni azt, hogy a kezelt faárut a kezelést követően kemény, nem áteresztő helyen kell tárolni a talajba irányuló közvetlen veszteségek elkerülése és a veszteségek újrahasználatra vagy ártalmatlanításra való összegyűjtésének lehetővé tétele céljából.” |
-
-2. Az R. 1. számú melléklete szerinti táblázat a következő új 5. sorral egészül ki:
-
-| [Sorszám | Közhasználatú név | IUPAC-név, azonosító számok | A hatóanyag minimális tisztasága a forgalomba hozott biocid termékben | A felvétel napja | A 16. § (3) bekezdésének való megfelelés határideje(1) | A felvétel lejárta | Terméktípus | Különös rendelkezések(2)] |
-
-| „5. | etofenprox | 3-Fenoxibenzil-2- (4-etoxifenil)-2- metilpropiléter EK-szám: 407-980-2 CAS-szám: 80844-07-1 | 970 g/kg | 2010. február 1. | 2012. január 31. | 2020. január 31. | 8 | 5.1. A termékengedélyezési kérelmeknek az 5. §-sal és a 6. számú melléklettel összhangban végzett értékelése során értékelni kell azokat a felhasználási és/vagy expozíciós forgatókönyveket és/vagy lakosságcsoportokat, amelyeket a közösségi szintű kockázatértékelésnél nem reprezentatív módon vizsgáltak és amelyek ki lehetnek téve a termék által okozott hatásoknak. A termékengedélyek odaítélésekor fel kell mérni a kockázatokat, ezt követően pedig az azonosított kockázatok csökkentése érdekében megfelelő intézkedéseket kell hozni. 5.2. A termékengedély csak abban az esetben adható meg, ha a kérelem alapján bizonyított, hogy a kockázatok elfogadható szintre csökkenthetők. |
-
-|  |  |  |  |  |  |  |  | 5.3. Engedély a következő feltételekkel adható ki: Tekintettel a hatóanyag által a munkavállalókra és más foglalkozásszerű felhasználókra jelentett kockázatokra, a termék nem használható egész évben, kivéve, ha a bőrön át történő felszívódással összefüggésben adatokat szolgáltatnak annak bizonyítására, hogy a krónikus expozíció nem jelent elfogadhatatlan kockázatot. Ipari felhasználásra szánt termék csak megfelelő egyéni védőeszközzel használható.” |
-
-3.
+1−3.
 
 4. Az R. 1. számú melléklete szerinti táblázat a következő új 7. sorral egészül ki:
 
@@ -118,4 +98,4 @@ Melléklet a 7/2009. (III. 25.) EüM–FVM–KvVM együttes rendelethez[^2]
 
 |  |  |  |  |  |  |  |  | veszteségek újrahasználatra vagy ártalmatlanításra való összegyűjtésének lehetővé tétele céljából. 13.2. Termék nem engedélyezhető kültéri felhasználásra szánt fa kezelése céljából vagy a víz hatásának folyamatosan kitett fa kezelésére, kivéve, ha a benyújtott adatok bizonyítják, hogy a termék megfelel az 5. § és a 6. számú melléklet követelményeinek, szükség esetén a megfelelő kockázatcsökkentő intézkedések megtételével.” |
 
-[^2]: A melléklet 3. pontja e rendelet 2. § (8) bekezdésének a) pontja alapján hatályát vesztette.
+[^2]: A melléklet 1–3. pontja e rendelet 2. § (8) bekezdésének a)–b) pontja alapján hatályát vesztette.
