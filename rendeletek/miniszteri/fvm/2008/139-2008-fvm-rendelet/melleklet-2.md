@@ -1,8 +1,6 @@
-## Képzések
-
 | A képzés |
 
-| kód- száma | megnevezése | időtartama (45 perces tanóra) |
+| kódszáma | megnevezése | időtartama (45 perces tanóra) |
 
 | elmélet | gyakorlat |
 
@@ -12,109 +10,527 @@
 
 | an1 | Kölcsönös megfeleltetés és a Helyes Mezőgazdasági és Környezeti Állapot követelményei | 22 | – |
 
-|  | A képzés tartalma: 1. Kölcsönös megfeleltetés – célja, alapelvei; – jogszabályi háttere; – a követelmények csoportosítása, általános ismertetésük; – a követelmények ellenőrzése, jogkövetkezmények; – természetvédelmi követelmények; – környezetvédelmi követelmények; – állatjelölés és nyilvántartás. 2. A Helyes Mezőgazdasági és Környezeti Állapot előírásai 2.1. Európai Uniós jogszabályok rendelkezései, illetve az azoknak való megfelelés 2.2. Előzmények – a korábbi években alkalmazott HMKÁ előírások; – a változtatás szükségessége. 2.3. Az új, 2008. évtől alkalmazandó HMKÁ előírásokról általában – a szabályozásról; – kikre és hol vonatkozik. 2.4. Az uniós jogszabályban meghatározott 4 témakör és a hazai 8 HMKÁ előírás ismertetése – talajerózió elleni védelemre vonatkozó előírások; – talajszervesanyag tartalmára vonatkozó előírások; – talaj szerkezetére vonatkozó előírások; – minimális művelés szintjének megőrzése. 3. Az agrárszakigazgatás rendszere |  |  |
+|  | A képzés tartalma: |  |  |
+
+| 1. Kölcsönös megfeleltetés |
+
+| – célja, alapelvei; |
+
+| – jogszabályi háttere; |
+
+| – a követelmények csoportosítása, általános ismertetésük; |
+
+| – a követelmények ellenőrzése, jogkövetkezmények; |
+
+| – természetvédelmi követelmények; |
+
+| – környezetvédelmi követelmények; |
+
+| – állatjelölés és nyilvántartás. |
+
+| 2. A Helyes Mezőgazdasági és Környezeti Állapot előírásai |
+
+| 2.1. Európai Uniós jogszabályok rendelkezései, illetve az azoknak való megfelelés. |
+
+| 2.2. Előzmények |
+
+| – a korábbi években alkalmazott HMKÁ előírások; |
+
+| – a változtatás szükségessége. |
+
+| 2.3. Az új, 2008. évtől alkalmazandó HMKÁ előírásokról általában |
+
+| – a szabályozásról; |
+
+| – kikre és hol vonatkozik. |
+
+| 2.4. Az uniós jogszabályban meghatározott 4 témakör és a hazai 8 HMKÁ előírás ismertetése |
+
+| – talajerózió elleni védelemre vonatkozó előírások; |
+
+| – a talaj szervesanyag tartalmára vonatkozó előírások; |
+
+| – talaj szerkezetére vonatkozó előírások; |
+
+| – minimális művelés szintjének megőrzése. |
+
+| 3. Az agrárszakigazgatás rendszere |
 
 | an2 | Az agráriumban előállítható vagy keletkező biomassza hasznosítása és elsődleges feldolgozása | 22 | – |
 
-|  | A képzés tartalma: – az energetikai célú biomassza előállításhoz, elsődleges feldolgozáshoz igényelhető támogatások; – lágyszárú energianövények termesztése; – fásszárú energianövények termesztése, és annak jogi szabályozása; – a biomassza begyűjtése, felhasználása, feldolgozása (tüzeléstechnika, pelletálás), különös tekintettel a mezőgazdasági és kistérségi alkalmazásokra; – az agrárszakigazgatás rendszere. |  |  |
+|  | A képzés tartalma: |  |  |
+
+| – az energetikai célú biomassza előállításhoz, elsődleges feldolgozáshoz igényelhető támogatások; |
+
+| – lágy szárú energianövények termesztése; |
+
+| – fás szárú energianövények termesztése, és annak jogi szabályozása; |
+
+| – a biomassza begyűjtése, felhasználása, feldolgozása (tüzeléstechnika, pelletálás), különös tekintettel a mezőgazdasági és kistérségi alkalmazásokra; |
+
+| – az agrárszakigazgatás rendszere. |
 
 | an3 | Aktuális növényvédelmi ismeretek | 15 | 7 |
 
-|  | A képzés tartalma: Elméleti képzés – új növényvédő szerek ismertetése; – új védekezési módszerek egyes károsítók ellen; – a használatból kivont növényvédő szerek és helyettesítési lehetőségeik; – a növényvédelem ökonómiája; |  |  |
+|  | A képzés tartalma: |  |  |
 
-|  | – növényvédelmi előrejelzési információk, és azok felhasználása; – a növényvédelem környezetvédelmi vonatkozásai; – az agrárszakigazgatás rendszere. Gyakorlati képzés – fontosabb kórképek, kárképek, gyomnövények felismerése; – permetezőgépek beállítása; – permetlékészítési, kijuttatási számítások. |  |  |
+| Elméleti képzés |
+
+| – új növényvédő szerek ismertetése; |
+
+| – új védekezési módszerek egyes károsítók ellen; |
+
+| – a használatból kivont növényvédő szerek és helyettesítési lehetőségeik; |
+
+| – a növényvédelem ökonómiája; |
+
+| – növényvédelmi előrejelzési információk, és azok felhasználása; |
+
+| – a növényvédelem környezetvédelmi vonatkozásai; |
+
+| – az agrárszakigazgatás rendszere. |
+
+| Gyakorlati képzés |
+
+| – fontosabb kórképek, kárképek, gyomnövények felismerése; |
+
+| – permetezőgépek beállítása; |
+
+| – permetlékészítési, kijuttatási számítások. |
 
 | an4 | Kistermelői élelmiszer előállítás, elsődleges feldolgozás és értékesítés szabályai | 22 | – |
 
-|  | A képzés tartalma: – kistermelői élelmiszer-előállítás, elsődleges feldolgozás és értékesítés jogi szabályozása; – élelmiszerhigiénia; – a termékek csomagolása; – a jogszabályban előírt nyilvántartások vezetése; – a termékek nyomonkövethetősége; – az agrárszakigazgatás rendszere. |  |  |
+|  | A képzés tartalma: |  |  |
+
+| – kistermelői élelmiszer-előállítás, elsődleges feldolgozás és értékesítés jogi szabályozása; |
+
+| – élelmiszerhigiénia; |
+
+| – a termékek csomagolása; |
+
+| – a jogszabályban előírt nyilvántartások vezetése; |
+
+| – a termékek nyomonkövethetősége; |
+
+| – az agrárszakigazgatás rendszere. |
 
 | an5 | Talaj-tápanyaggazdálkodási terv készítése | 15 | 7 |
 
-|  | A képzés tartalma: Elméleti képzés – a növények tápanyagfelvétele; – a talaj tápanyagmérlege és befolyásoló tényezői; – a tápanyaggazdálkodás célja, feladatai, ökonómiai vonatkozásai; – a tápanyaggazdálkodási terv készítésének elve, lépései; – a nitrát-direktíva lényege, betartásának módja; – az agrárszakigazgatás rendszere. Gyakorlati képzés – tápanyaggazdálkodási terv készítése. |  |  |
+|  | A képzés tartalma: |  |  |
+
+| Elméleti képzés |
+
+| – a növények tápanyagfelvétele; |
+
+| – a talaj tápanyagmérlege és befolyásoló tényezői; |
+
+| – a tápanyaggazdálkodás célja, feladatai, ökonómiai vonatkozásai; |
+
+| – a tápanyaggazdálkodási terv készítésének elve, lépései; |
+
+| – a nitrát-direktíva lényege, betartásának módja; |
+
+| – az agrárszakigazgatás rendszere. |
+
+| Gyakorlati képzés |
+
+| – tápanyaggazdálkodási terv készítése. |
 
 | an6 | Agrárvállalkozói ismeretek | 22 | – |
 
-|  | A képzés tartalma: 1. A vállalkozás (kisvállalat) stratégiai tervezése – a stratégia kialakításának folyamata; – a cég tőkeköltségvetése; – beruházási változatok értékelése, beruházási döntés; – a kisvállalkozás életére ható kockázati tényezők, kockázatmenedzselés. 2. A vállalkozás működtetése – az üzlet finanszírozása; – költséggazdálkodás, költségelemzés; – a vállalati hozamok mérése, elemzése; – egyszerűsített mérleg, eredménykimutatás; – a nyereség növelésének lehetőségei a mezőgazdasági termelésben; – főbb pénzügyi mutatók képzése. 3. Üzleti terv készítése 4. Adózási ismeretek 5. Társadalombiztosítás 6. Az agrárszakigazgatás rendszere |  |  |
+|  | A képzés tartalma: |  |  |
+
+| 1. A vállalkozás (kisvállalat) stratégiai tervezése |
+
+| – a stratégia kialakításának folyamata; |
+
+| – a cég tőkeköltségvetése; |
+
+| – beruházási változatok értékelése, beruházási döntés; |
+
+| – a kisvállalkozás életére ható kockázati tényezők, kockázatmenedzselés. |
+
+| 2. A vállalkozás működtetése |
+
+| – az üzlet finanszírozása; |
+
+| – költséggazdálkodás, költségelemzés; |
+
+| – a vállalati hozamok mérése, elemzése; |
+
+| – egyszerűsített mérleg, eredménykimutatás; |
+
+| – a nyereség növelésének lehetőségei a mezőgazdasági termelésben; |
+
+| – főbb pénzügyi mutatók képzése. |
+
+| 3. Üzleti terv készítése |
+
+| 4. Adózási ismeretek |
+
+| 5. Társadalombiztosítás |
+
+| 6. Az agrárszakigazgatás rendszere |
 
 | an7 | Ökológiai gazdálkodás | 22 | – |
 
-|  | A képzés tartalma: – az ökológiai gazdálkodás fogalma, célja, alapelvei; – az ökológiai növénytermesztés jellemző technológiai elemei; – az ökológiai állattenyésztés jellemző technológiai elemei; – az ökológiai kertészet jellemző technológiai elemei; – átállás az ökológiai gazdálkodásra; – ökológiai gazdálkodáshoz igénybe vehető támogatások; – az ökológiai gazdálkodás jogszabályi háttere; – a biotermékek értékesítési lehetőségei; – az ökológiai gazdálkodás ökonómiája; – az agrárszakigazgatás rendszere. |  |  |
+|  | A képzés tartalma: |  |  |
+
+| – az ökológiai gazdálkodás fogalma, célja, alapelvei; |
+
+| – az ökológiai növénytermesztés jellemző technológiai elemei; |
+
+| – az ökológiai állattenyésztés jellemző technológiai elemei; |
+
+| – az ökológiai kertészet jellemző technológiai elemei; |
+
+| – átállás az ökológiai gazdálkodásra; |
+
+| – ökológiai gazdálkodáshoz igénybe vehető támogatások; |
+
+| – az ökológiai gazdálkodás jogszabályi háttere; |
+
+| – a biotermékek értékesítési lehetőségei; |
+
+| – az ökológiai gazdálkodás ökonómiája; |
+
+| – az agrárszakigazgatás rendszere. |
 
 | an8 | Termékértékesítés lehetőségei, termelői csoportok alakítása, helyi termékek értékesítése | 22 | – |
 
-|  | A képzés tartalma: – termelői csoportok formái, alakításuk lépései; – piacrajutási lehetőségek; – a helyi termékek marketingje, értékesítési lehetőségei; – az agrárszakigazgatás rendszere. |  |  |
+|  | A képzés tartalma: |  |  |
+
+| – termelői csoportok formái, alakításuk lépései; |
+
+| – piacrajutási lehetőségek; |
+
+| – a helyi termékek marketingje, értékesítési lehetőségei; |
+
+| – az agrárszakigazgatás rendszere. |
 
 | an9 | Alkalmazott számítástechnika, alapfokú számítógép-kezelői ismeretek gazdálkodók számára. Szaktanácsadási szolgáltatások igénybevétele | 8 | 30 |
 
-|  | A képzés tartalma: Elméleti képzés: – általános informatikai ismeretek (hardver, szoftver, OP rendszerek); – a Word és az Internet alapszintű ismertetése; – a szaktanácsadási szolgáltatások igénybevétele. Gyakorlati képzés: – a Word használata; – az Internet használata (gazdálkodók számára hasznos honlapokról információszerzés); – elektronikus levelezés. |  |  |
+|  | A képzés tartalma: |  |  |
+
+| Elméleti képzés: |
+
+| – általános informatikai ismeretek (hardver, szoftver, OP rendszerek); |
+
+| – a Word és az Internet alapszintű ismertetése; |
+
+| – a szaktanácsadási szolgáltatások igénybevétele. |
+
+| Gyakorlati képzés: |
+
+| – a Word használata; |
+
+| – az Internet használata (gazdálkodók számára hasznos honlapokról információszerzés); |
+
+| – elektronikus levelezés. |
 
 | an10 | Jó Mezőgazdasági Gyakorlat | 15 | 7 |
 
-|  | A képzés tartalma Elméleti képzés: – a mezőgazdaság és környezet viszonya, alkalmazott mezőgazdasági gyakorlatok, EU és hazai szabályozási rendszer, az EMVA tengelyei; – a Jó Mezőgazdasági Gyakorlat (JMGy) helye a termesztési rendszerekben; – a JMGy alkalmazása a növénytermesztésben; – termőterület kiválasztása, vetésforgó, fajtakiválasztás; – talajművelés, trágyázás, öntözés; – növényvédelem, hulladékanyagok kezelése; – betakarítás és betakarítás utáni kezelések; – élelmiszer- és takarmánybiztonság, a termékek nyomonkövetése; – a JMGy alkalmazása az állattenyésztésben, általános követelmények, telephely, az állomány nyomonkövetése, nyilvántartási rendszerek; – takarmányozás, takarmánygyártás és tárolás, állatjólét, állatszállítás; – a JMGy és a mezőgazdasági minőségbiztosítási rendszerek kapcsolata; – az agrárszakigazgatás rendszere. Gyakorlati képzés: – helyzetelemzések, gyakorlati kivitelezések. |  |  |
+|  | A képzés tartalma |  |  |
+
+| Elméleti képzés: |
+
+| – a mezőgazdaság és környezet viszonya, alkalmazott mezőgazdasági gyakorlatok, EU és hazai szabályozási rendszer, az EMVA tengelyei; |
+
+| – a Jó Mezőgazdasági Gyakorlat (JMGy) helye a termesztési rendszerekben; |
+
+| – a JMGy alkalmazása a növénytermesztésben; |
+
+| – termőterület kiválasztása, vetésforgó, fajtakiválasztás; |
+
+| – talajművelés, trágyázás, öntözés; |
+
+| – növényvédelem, hulladékanyagok kezelése; |
+
+| – betakarítás és betakarítás utáni kezelések; |
+
+| – élelmiszer- és takarmánybiztonság, a termékek nyomonkövetése; |
+
+| – a JMGy alkalmazása az állattenyésztésben, általános követelmények, telephely, az állomány nyomonkövetése, nyilvántartási rendszerek; |
+
+| – takarmányozás, takarmánygyártás és tárolás, állatjólét, állatszállítás; |
+
+| – a JMGy és a mezőgazdasági minőségbiztosítási rendszerek kapcsolata; |
+
+| – az agrárszakigazgatás rendszere. |
+
+| Gyakorlati képzés: |
+
+| – helyzetelemzések, gyakorlati kivitelezések. |
 
 | an11 | Az integrált növénytermesztés, gyümölcstermesztés technológiája | 15 | 7 |
 
-|  | A képzés tartalma: – az agrárszakigazgatás rendszere. Elméleti képzés: Általános rész: – az integrált gazdálkodás fogalma; – az integrált növénytermesztés hazai szabályozása; – integrált növénytermesztési célprogramok; – az integrált növénytermesztés feltételrendszere; – az integrált növénytermesztés jelentősebb elemei. Speciális rész: – integrált szántóföldi növénytermesztés; – integrált zöldségtermesztés; – integrált gyümölcstermesztés. Gyakorlati képzés: Gazdálkodási naplóban a – műveleti lapok kitöltése; – növényvédelmi előrejelzési adatlap kitöltése; – permetezési napló kitöltése. |  |  |
+|  | A képzés tartalma: |  |  |
 
-| an12 | A fásszárú energiaültetvények telepítése és kezelése | 22 | – |
+| – az agrárszakigazgatás rendszere. |
 
-|  | A képzés tartalma: – az agrárszakigazgatás rendszere; – fás szárú energiaültetvények telepítésére vonatkozó jogszabályok; – a fás szárú energianövények termesztéstechnológiája, betakarítása, tárolása; – a biomassza felhasználása illetve feldolgozása (tüzeléstechnika, pelletálás). |  |  |
+| Elméleti képzés: |
+
+| Általános rész: |
+
+| – az integrált gazdálkodás fogalma; |
+
+| – az integrált növénytermesztés hazai szabályozása; |
+
+| – integrált növénytermesztési célprogramok; |
+
+| – az integrált növénytermesztés feltételrendszere; |
+
+| – az integrált növénytermesztés jelentősebb elemei. |
+
+| Speciális rész: |
+
+| – integrált szántóföldi növénytermesztés; |
+
+| – integrált zöldségtermesztés; |
+
+| – integrált gyümölcstermesztés. |
+
+| Gyakorlati képzés: |
+
+| Gazdálkodási naplóban a |
+
+| – műveleti lapok kitöltése; |
+
+| – növényvédelmi előrejelzési adatlap kitöltése; |
+
+| – permetezési napló kitöltése. |
+
+| an12 | A fás szárú energiaültetvények telepítése és kezelése | 22 | – |
+
+|  | A képzés tartalma: |  |  |
+
+| – az agrárszakigazgatás rendszere; |
+
+| – fás szárú energiaültetvények telepítésére vonatkozó jogszabályok; |
+
+| – a fás szárú energianövények termesztéstechnológiája, betakarítása, tárolása; |
+
+| – a biomassza felhasználása, illetve feldolgozása (tüzeléstechnika, pelletálás). |
 
 | an13 | Élelmiszerbiztonsági ismeretek gazdálkodók részére | 22 | – |
 
-|  | A képzés tartalma: – az élelmiszerbiztonság fogalma, jelentősége; – biztosításának lehetőségei a termőföldtől a fogyasztó asztaláig; – élelmiszerek minősége, mikrobiológiai minősége, meghatározó tényezői; – alap- és adalékanyagok minősége, a késztermék minőségére gyakorolt hatása; – élelmiszerek biztonságos előállítása, csomagolása, tárolása, szállítása, értékesítése; – nyomon követés biztosítása az egész termékpályán; – romlást okozó tényezők, élelmiszer-fertőzés, ételmérgezés okai, következményei, megelőzési lehetőségek; – élelmiszer-előállítás higiéniája, személyi higiénia jelentősége, biztosításának lehetőségei az élelmiszer-előállításban, HACCP; – génmódosított élelmiszerrel kapcsolatos információk; – a kistermelői élelmiszer előállítás és forgalmazás jogi szabályozása; – fogyasztóvédelem célja, feladata, jelentősége, biztosításának lehetőségei; – az agrárszakigazgatás rendszere. |  |  |
+|  | A képzés tartalma: |  |  |
+
+| – az élelmiszerbiztonság fogalma, jelentősége; |
+
+| – biztosításának lehetőségei a termőföldtől a fogyasztó asztaláig; |
+
+| – élelmiszerek minősége, mikrobiológiai minősége, meghatározó tényezői; |
+
+| – alap- és adalékanyagok minősége, a késztermék minőségére gyakorolt hatása; |
+
+| – élelmiszerek biztonságos előállítása, csomagolása, tárolása, szállítása, értékesítése; |
+
+| – nyomon követés biztosítása az egész termékpályán; |
+
+| – romlást okozó tényezők, élelmiszer-fertőzés, ételmérgezés okai, következményei, megelőzési lehetőségek; |
+
+| – élelmiszer-előállítás higiéniája, személyi higiénia jelentősége, biztosításának lehetőségei az élelmiszer-előállításban, HACCP; |
+
+| – génmódosított élelmiszerrel kapcsolatos információk; |
+
+| – a kistermelői élelmiszer előállítás és forgalmazás jogi szabályozása; |
+
+| – fogyasztóvédelem célja, feladata, jelentősége, biztosításának lehetőségei; |
+
+| – az agrárszakigazgatás rendszere. |
 
 | an14 | Erdőgazdálkodás | 22 | – |
 
-|  | A képzés tartalma: – az erdőgazdálkodás keretrendszerét jelentő jogszabályi környezet ismertetése; – az erdő, mint ökoszisztéma; – alapfokú dendrológiai ismeretek; – az erdőgazdálkodás fenntarthatósága; – erdőgazdálkodói szervezeti formák; – erdőgazdálkodó hatósági nyilvántartásba vétele; – erdészeti szakszemélyzet alkalmazása; – erdőtervezés; – erdőnevelési, fakitermelési módok ismertetése; – erdőfelújítás; – az erdőgazdálkodási tevékenység hatósági engedélyezése; – erdőtelepítés; – természetközeli erdőgazdálkodási módszerek ismertetése; – az agrárszakigazgatás rendszere. |  |  |
+|  | A képzés tartalma: |  |  |
+
+| – az erdőgazdálkodás keretrendszerét jelentő jogszabályi környezet ismertetése; |
+
+| – az erdő, mint ökoszisztéma; |
+
+| – alapfokú dendrológiai ismeretek; |
+
+| – az erdőgazdálkodás fenntarthatósága; |
+
+| – erdőgazdálkodói szervezeti formák; |
+
+| – erdőgazdálkodó hatósági nyilvántartásba vétele; |
+
+| – erdészeti szakszemélyzet alkalmazása; |
+
+| – erdőtervezés; |
+
+| – erdőnevelési, fakitermelési módok ismertetése; |
+
+| – erdőfelújítás; |
+
+| – az erdőgazdálkodási tevékenység hatósági engedélyezése; |
+
+| – erdőtelepítés; |
+
+| – természetközeli erdőgazdálkodási módszerek ismertetése; |
+
+| – az agrárszakigazgatás rendszere. |
 
 | an15 | Vízgazdálkodás, belvízvédelem, melioráció (gazdákat érintő területe), Víz Keretirányelv fő követelményei | 22 | – |
 
-|  | A képzés tartalma: 1. Melioráció, mezőgazdasági vízgazdálkodás természeti tényezői – időjárás-változás, változékonyság Magyarországon; – időjárási szélsőségek; – a klímaváltozás történelmi vonatkozásai. 2. A mezőgazdasági termelés kettős veszélyeztetettsége 3. Aszály – történelmi aszályos időszakok; – aszálykárok; – az aszály enyhítésének lehetőségei. 4. Melioráció és az öntözés kapcsolata – melioráció; – a melioráció összetevői; – hatósági engedélyek; – a meliorációs tervek talajvédelmi szempontból történő megítélése; – a melioráció kivitelezése. 5. Vízgazdálkodás – víz Keretirányelv hazai végrehajtása; – vízkárelhárítás, belvízvédelem; = belvíz által veszélyeztetett területek; = erózió által veszélyeztetett területek; = belvízvédekezéssel kapcsolatos főbb teendők; = belvízvédekezés szervezeti rendje. 6. Agrárstratégiánk 7. Az uniós csatlakozásból adódó lehetőségeink 8. Az agrárszakigazgatás rendszere |  |  |
+|  | A képzés tartalma: |  |  |
+
+| 1. Melioráció, mezőgazdasági vízgazdálkodás természeti tényezői |
+
+| – időjárás-változás, változékonyság Magyarországon; |
+
+| – időjárási szélsőségek; |
+
+| – a klímaváltozás történelmi vonatkozásai. |
+
+| 2. A mezőgazdasági termelés kettős veszélyeztetettsége |
+
+| 3. Aszály |
+
+| – történelmi aszályos időszakok; |
+
+| – aszálykárok; |
+
+| – az aszály enyhítésének lehetőségei. |
+
+| 4. Melioráció és az öntözés kapcsolata |
+
+| – melioráció; |
+
+| – a melioráció összetevői; |
+
+| – hatósági engedélyek; |
+
+| – a meliorációs tervek talajvédelmi szempontból történő megítélése; |
+
+| – a melioráció kivitelezése. |
+
+| 5. Vízgazdálkodás |
+
+| – víz Keretirányelv hazai végrehajtása; |
+
+| – vízkárelhárítás, belvízvédelem; |
+
+| = belvíz által veszélyeztetett területek; |
+
+| = erózió által veszélyeztetett területek; |
+
+| = belvízvédekezéssel kapcsolatos főbb teendők; |
+
+| = belvízvédekezés szervezeti rendje. |
+
+| 6. Agrárstratégiánk |
+
+| 7. Az uniós csatlakozásból adódó lehetőségeink |
+
+| 8. Az agrárszakigazgatás rendszere |
 
 | an16 | Közvetlen kifizetések az SPS rendszerben, aktuális földügyi és birtokrendezési kérdések | 22 | – |
 
-|  | A képzés tartalma: 1. Az SPS rendszer 2. Aktuális földügyi és birtokrendezési kérdések – a termőföld tulajdonjogának megszerzése; – a birtokrendezés eszközei; – a termőföld használata és a földhasználati nyilvántartás; – a termőföldet érintő hasznosítási kötelezettség és a parlagfű-mentesítés; – a termőföld más célú hasznosítása. 3. Az agrárszakigazgatás rendszere |  |  |
+|  | A képzés tartalma: |  |  |
+
+| 1. Az SPS rendszer |
+
+| 2. Aktuális földügyi és birtokrendezési kérdések |
+
+| – a termőföld tulajdonjogának megszerzése; |
+
+| – a birtokrendezés eszközei; |
+
+| – a termőföld használata és a földhasználati nyilvántartás; |
+
+| – a termőföldet érintő hasznosítási kötelezettség és a parlagfű-mentesítés; |
+
+| – a termőföld más célú hasznosítása. |
+
+| 3. Az agrárszakigazgatás rendszere |
 
 | an17 | Vadgazdálkodási ismeretek | 22 | – |
 
-|  | A képzés tartalma: – a vadgazdálkodás jogszabályi keretei; – vadgazdálkodási célú élőhelyfejlesztés és az ÚMVP kapcsolata; – apróvadgazdálkodási alapismeretek; – az agrárszakigazgatás rendszere. |  |  |
+|  | A képzés tartalma: |  |  |
+
+| – a vadgazdálkodás jogszabályi keretei; |
+
+| – vadgazdálkodási célú élőhelyfejlesztés és az ÚMVP kapcsolata; |
+
+| – apróvad-gazdálkodási alapismeretek; |
+
+| – az agrárszakigazgatás rendszere. |
+
+| an18 | Borpiaci ismeretek | 15 | 7 |
+
+|  | A képzés tartalma |  |  |
+
+| – világpiaci és hazai trendek a borpiac alakulásában |
+
+| – a szőlő-bor ágazat hazai intézményrendszere |
+
+| – új borpiaci szabályozás az EU-ban |
+
+| – szőlő-bor ágazati támogatások |
+
+| – borkészítés és forgalomba hozatal szabályai |
+
+| – szőlő- és bortermelői adatszolgáltatási kötelezettségek |
+
+| – az eredetmegjelölés szabályai, termékleírások |
+
+| – a kölcsönös megfeleltetés szőlészeti vonatkozásai |
+
+| an19 | Mezőgazdasági szállítás, anyagmozgatás speciális esetei | 14 | – |
+
+|  | A képzés tartalma |  |  |
+
+| – a megengedett össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének feltételei |
+
+| – az üzemanyag és mezőgazdasági vegyszer szállítására vonatkozó általános előírások |
+
+| – a főbb veszélyek |
+
+| – a különböző veszélytípusoknak megfelelő megelőző és biztonsági intézkedések |
+
+| – a járművek és a küldeménydarabok jelölése |
+
+| – a be- és kirakodás, valamint a szállítás során alkalmazandó óvintézkedések |
+
+| – a rendkívüli esemény során alkalmazandó magatartási szabályok, a tűzoltó készülék használata |
 
 | OKJ szerinti szakképesítések |
 
-| ao1 | 33 621 02 0100 31 01 Aranykalászos gazda | a hatályos Szakmai és Vizsgaköve- telményekben meghatározott maximális képzési időtartam min. 30%-a, az előírt elméleti- gyakorlati óra arányt betartva |
+| ao1 | 33 621 02 0100 31 01 Aranykalászos gazda | a hatályos Szakmai és Vizsgakövetelményekben meghatározott maximális képzési időtartam min. 30%-a, az előírt elméleti-gyakorlati óra arányt betartva |
 
-| ao2 | 54 621 02 0100 31 01 Mezőgazdasági vállalkozó |
+| ao2 | 54 621 02 0100 31 01 Mezőgazdasági vállalkozó |  |
 
-| ao3 | 31 521 19 0010 31 03 Kertészeti gép kezelő |
+| ao3 | 31 521 19 0010 31 03 Elágazás: Kertészeti gép kezelő |
 
-| ao4 | 31 521 19 0010 31 04 Majorgép-kezelő |
+| ao4 | 31 521 19 0010 31 04 Elágazás: Majorgép-kezelő |
 
-| ao5 | 31 521 19 0010 31 06 Mezőgazdasági erő- és munkagépkezelő |
+| ao5 | 31 521 19 0010 31 06 Elágazás: Mezőgazdasági erő- és munkagépkezelő |
 
-| ao6 | 31 521 19 0010 31 07 Mezőgazdasági rakodógép kezelő |
+| ao6 | 31 521 19 0010 31 07 Elágazás: Mezőgazdasági rakodógép kezelő |
 
-| ao7 | 31 521 19 0010 31 09 Növényvédelmi gépkezelő |
+| ao7 | 31 521 19 0010 31 09 Elágazás: Növényvédelmi gépkezelő |
 
-| ao8 | 31 521 19 0010 31 10 Önjáró betakarítógép kezelője |
+| ao8 | 31 521 19 0010 31 10 Elágazás: Önjáró betakarítógép kezelője |
 
-| ao9 | 54 621 04 0100 31 02 Növényvédő és méregraktár-kezelő |
+| ao9 | 54 621 04 0100 31 02 Részszakképesítés: Növényvédő és méregraktár-kezelő |
 
-| ao10 | 31 623 01 0100 21 03 Motorfűrész-kezelő |
+| ao10 | 31 623 01 0100 21 03 Részszakképesítés: Motorfűrész-kezelő |
 
-| ao11 | 31 623 01 0100 31 03 Fakitermelő |
+| ao11 | 31 623 01 0100 31 03 Részszakképesítés: Fakitermelő |
 
 | ao12 | 31 621 05 0000 Méhész |
 
 | ao13 | 31 622 01 0010 31 03 Szőlőtermesztő |
 
-| ao14 | 31 521 20 0100 31 01Állattenyésztési gépüzemeltető, gépkarbantartó |
+| ao14 | 31 521 20 0100 31 01 Állattenyésztési gépüzemeltető, gépkarbantartó |
 
 | ao15 | 31 521 20 0100 31 04 Növénytermesztési gépüzemeltető, gépkarbantartó |
 
 | ao16 | 54 625 01 0100 31 01 Vadász, vadtenyésztő |
 
-| ao17 | 31 621 04 Lótartó és -tenyésztő |
+| ao17 | 31 621 04 0000 00 00 Lótartó és -tenyésztő |
 
 | ao18 | 31 621 04 0001 31 01 Belovagló |
 
@@ -166,7 +582,7 @@
 
 | ao42 | 31 521 01 0010 31 01 Elágazás: Erdészeti gépszerelő, gépjavító |
 
-| ao43 | 31 521 01 0010 31 02 Elágazás: Mezőgazdasági gépszerelő, gépjavító |
+| ao43 | 31 521 01 0010 31 02 Elágazás: Kertészeti gépszerelő, gépjavító |
 
 | ao44 | 31 521 01 0010 31 03 Elágazás: Mezőgazdasági gépszerelő, gépjavító |
 
@@ -178,9 +594,9 @@
 
 | ao48 | 31 521 01 0001 33 04 Ráépülő szakképesítés: Járműelektromos szerelő |
 
-| ao49 | 54 621 02 0010 54 02 Elágazás: Mezőgazdasági technikus |
+| ao49 | 54 621 02 0010 54 02 Mezőgazdasági technikus |
 
-| ao50 | 54 621 02 0010 54 03 Elágazás: Vidékfejlesztési technikus |
+| ao50 | 54 621 02 0010 54 03 Vidékfejlesztési technikus |
 
 | ao51 | 31 621 01 0100 21 01 Részszakképesítés: Állattartó-telepi munkás |
 
@@ -238,7 +654,7 @@
 
 | ao78 | 51 621 01 0000 00 00 Hobbiállat-tenyésztő és -forgalmazó |
 
-| ao79 | 31 641 01 0000 00 00 Inszeminátor |
+| ao79 | 31 641 01 Inszeminátor |
 
 | ao80 | 31 641 01 0010 31 01 Elágazás: Inszeminátor (baromfi és kisállat) |
 
@@ -400,11 +816,15 @@
 
 | ao159 | 51 541 01 0010 51 03 Elágazás: Szarvasmarhaminősítő |
 
+| ao160 | 31 623 01 1000 00 00 Erdészeti szakmunkás |
+
+| ao161 | 31 623 01 0001 33 01 Ráépülő: Lakott-területi fakitermelő |
+
 | Hatósági képzések |
 
 | h1 | Mezőgazdasági vontatóvezető képzés [a 24/2005. (IV. 21.) GKM rendeletben meghatározott követelmények szerint] |  |
 
-| h2 | 80 órás Növényvédelmi Tanfolyam [szervezése a Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 2. § (3) bekezdésének e) pontjában foglaltak alapján a Magyar Növényvédő Mérnöki és Növényorvosi Kamarával együttműködésben történhet] |  |
+| h2 | 80 órás Növényvédelmi Tanfolyam [szervezése a Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 2. § (3) bekezdésének e) pontjában foglaltak alapján a Magyar Növényvédő Mérnöki és Növényorvosi Kamarával együttműködésben történhet] |
 
 | 2. célterület: Kötelező képzések |
 
@@ -412,46 +832,354 @@
 
 | b1 | Beruházások a szántóföldi növénytermesztésben és a kertészetben című képzés a növénytermesztési létesítmények korszerűsítéséhez nyújtandó támogatásokról (terményszárítók) szóló 35/2008. (III. 27.) FVM rendelethez, valamint a kertészet korszerűsítéséhez nyújtandó támogatásról szóló 25/2008. (III. 7.) FVM rendelethez kapcsolódóan. | 14 | – |
 
-| A képzés tartalma: Általános rész – a KAP aktuális kérdései; – az SPS rendszer; – a kölcsönös megfeleltetés; – az agrárszakigazgatás rendszere; – a gazdálkodás ökonómiája – gazdaságossági számítások; Speciális rész – jogcím-specifikus kötelezettségek (monitoring mutatók kitöltése, üzemben tartás stb.); – terményszárítók üzemeltetése, energiagazdálkodási ismeretek; – magtisztítás (szabványok); – magtárolás (szabványok, eljárások a veszteségek csökkentésére stb.); – kapcsolódó jogszabályok. |
+| A képzés tartalma: |
+
+| Általános rész |
+
+| – a KAP aktuális kérdései; |
+
+| – az SPS rendszer; |
+
+| – a kölcsönös megfeleltetés; |
+
+| – az agrárszakigazgatás rendszere; |
+
+| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+
+| Speciális rész |
+
+| – jogcím-specifikus kötelezettségek (monitoring mutatók kitöltése, üzemben tartás stb.); |
+
+| – terményszárítók üzemeltetése, energiagazdálkodási ismeretek; |
+
+| – magtisztítás (szabványok); |
+
+| – magtárolás (szabványok, eljárások a veszteségek csökkentésére stb.); |
+
+| – kapcsolódó jogszabályok. |
 
 | b2 | Beruházások az állattenyésztésben című képzés az állattartó telepek korszerűsítéséhez nyújtandó támogatásról szóló 27/2007. (IV. 17.) FVM rendelethez kapcsolódóan. | 14 | – |
 
-| A képzés tartalma: Általános rész – a KAP aktuális kérdései; – az SPS rendszer; – a kölcsönös megfeleltetés; – az agrárszakigazgatás rendszere; – a gazdálkodás ökonómiája – gazdaságossági számítások; Speciális rész – az elnyert összeg felhasználási rendje, jogkövetkezmények, jogorvoslat; – az állattartó telepekre vonatkozó fontosabb környezetvédelmi szabályok; – állattartó telepi nyilvántartások szabályos vezetése; – szaktanácsadói szolgáltatások igénybevétele. |
+| A képzés tartalma: |
+
+| Általános rész |
+
+| – a KAP aktuális kérdései; |
+
+| – az SPS rendszer; |
+
+| – a kölcsönös megfeleltetés; |
+
+| – az agrárszakigazgatás rendszere; |
+
+| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+
+| Speciális rész |
+
+| – az elnyert összeg felhasználási rendje, jogkövetkezmények, jogorvoslat; |
+
+| – az állattartó telepekre vonatkozó fontosabb környezetvédelmi szabályok; |
+
+| – állattartó telepi nyilvántartások szabályos vezetése; |
+
+| – szaktanácsadói szolgáltatások igénybevétele. |
 
 | b3 | GAZDANet című képzés a külön jogszabályban meghatározott GAZDANet támogatási jogcímhez kapcsolódóan. | 8 | 30 |
 
-| A képzés tartalma: Számítástechnikai alapismeretekkel nem rendelkezők részére – jogcím-specifikus kötelezettségek; – általános informatikai ismeretek (hardver, szoftver, OP rendszerek); – a Word alapszintű ismerete, használata; – az Internet alapszintű ismerete, használata; – elektronikus levelezés; – a GazdaNet programcsomag használata; Számítástechnikai alapismeretekkel rendelkezők részére – jogcím-specifikus kötelezettségek; – az Internet, a Word és az Excel használata; – elektronikus levelezés; – a GazdaNet programcsomag használata; – FVM hatáskörébe tartozó ügyek elektronikus intézése; – elektronikus eszközök alkalmazása a mezőgazdaságban; – automatikus mérőeszközök alkalmazása a mezőgazdaságban; – mezőgazdasági célszoftverek típusai, alkalmazási lehetőségei; – vállalatirányítási rendszerek. |
+| A képzés tartalma: |
+
+| Számítástechnikai alapismeretekkel nem rendelkezők részére |
+
+| – jogcím-specifikus kötelezettségek; |
+
+| – általános informatikai ismeretek (hardver, szoftver, OP rendszerek); |
+
+| – a Word alapszintű ismerete, használata; |
+
+| – az Internet alapszintű ismerete, használata; |
+
+| – elektronikus levelezés; |
+
+| – a GazdaNet programcsomag használata; |
+
+| Számítástechnikai alapismeretekkel rendelkezők részére |
+
+| – jogcím-specifikus kötelezettségek; |
+
+| – az Internet, a Word és az Excel használata; |
+
+| – elektronikus levelezés; |
+
+| – a GazdaNet programcsomag használata; |
+
+| – FVM hatáskörébe tartozó ügyek elektronikus intézése; |
+
+| – elektronikus eszközök alkalmazása a mezőgazdaságban; |
+
+| – automatikus mérőeszközök alkalmazása a mezőgazdaságban; |
+
+| – mezőgazdasági célszoftverek típusai, alkalmazási lehetőségei; |
+
+| – vállalatirányítási rendszerek. |
 
 | b4 | Évelő ültetvények telepítése című képzés a rövid vágásfordulójú fás szárú energiaültetvény telepítéséhez nyújtandó támogatásról szóló 72/2007. (VII. 27.) FVM rendelethez, az évelő, lágy szárú energiaültetvény telepítéséhez nyújtandó támogatásról szóló 71/2007. (VII. 27.) FVM rendelethez, a mezőgazdasági energiafelhasználás megújuló energiaforrásból történő előállításához nyújtandó támogatásról szóló 78/2007. (VII. 30.) FVM rendelethez, valamint – a gyümölcs ültetvényekről szóló speciális részt alkalmazva – az ültetvények korszerűsítéséhez, telepítéséhez nyújtandó támogatásról szóló 75/2007. (VII. 27.) FVM rendelethez kapcsolódóan. | 14 | – |
 
-| A képzés tartalma: Általános rész – a KAP aktuális kérdései; – az SPS rendszer; – a kölcsönös megfeleltetés; – az agrárszakigazgatás rendszere; – a gazdálkodás ökonómiája – gazdaságossági számítások; Speciális rész (biomassza) – a 71/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; – a 72/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; – a lágyszárú energianövények termesztése; – a fás szárú energianövények termesztése, kapcsolódó jogszabályok; – a biomassza felhasználása, ill. feldolgozása (tüzeléstechnika, pelletálás). Speciális rész (gyümölcs ültetvények) – a 75/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; – az ültetvény ápolása termőrefordulásig (gyakori problémák); – az ültetvény fenntartásának környezetvédelmi követelmény; – az öntözés módjai és gazdaságossága; – termékértékesítési lehetőségek. |
+| A képzés tartalma: |
 
-| b5 | A fiatal mezőgazdasági termelők elindítása című képzés a fiatal mezőgazdasági termelők támogatásáról szóló 67/2007. (VII. 26.) FVM rendelethez kapcsolódóan. | 14 | – |
+| Általános rész |
 
-| A képzés tartalma: Általános rész – a KAP aktuális kérdései; – az SPS rendszer; – a kölcsönös megfeleltetés; – az agrárszakigazgatás rendszere; – a gazdálkodás ökonómiája – gazdaságossági számítások; Speciális rész – az elnyert összeg felhasználási rendje, a gazdaság működésével kapcsolatos bizonylatok szabályos vezetése, szankciók, jogorvoslati lehetőségek; – az üzleti terv megvalósulásának nyomonkövetés; – forrásbevonás lehetőségei, hitelfelvétel; – piacrajutási lehetőségek; – szaktanácsadási szolgáltatások igénybevétele. |
+| – a KAP aktuális kérdései; |
 
-| b6 | Mezőgazdasági termékek értéknövelése című képzés a mezőgazdasági termékek értéknöveléséhez nyújtandó támogatásról szóló 47/2008. (IV. 17.) FVM rendelethez, valamint a külön jogszabályban meghatározott kiskapacitású, növényi alapú nyersszesz-, nyersolaj-előállító üzemek létesítéséhez nyújtandó támogatások jogcímhez kapcsolódóan. | 14 | – |
+| – az SPS rendszer; |
 
-| A képzés tartalma: Általános rész – a KAP aktuális kérdései; – az SPS rendszer; – a kölcsönös megfeleltetés; – az agrárszakigazgatás rendszere; – a gazdálkodás ökonómiája – gazdaságossági számítások; Speciális rész – termelői együttműködések; – élelmiszer-biztonsági ismeretek. |
+| – a kölcsönös megfeleltetés; |
+
+| – az agrárszakigazgatás rendszere; |
+
+| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+
+| Speciális rész (biomassza) |
+
+| – a 71/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; |
+
+| – a 72/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; |
+
+| – a lágy szárú energianövények termesztése; |
+
+| – a fás szárú energianövények termesztése, kapcsolódó jogszabályok; |
+
+| – a biomassza felhasználása, illetve feldolgozása (tüzeléstechnika, pelletálás). |
+
+| Speciális rész (gyümölcs ültetvények) |
+
+| – a 75/2007. (VII. 27.) FVM rendelethez kapcsolódó kötelezettségek; |
+
+| – az ültetvény ápolása termőrefordulásig (gyakori problémák); |
+
+| – az ültetvény fenntartásának környezetvédelmi követelménye; |
+
+| – az öntözés módjai és gazdaságossága; |
+
+| – termékértékesítési lehetőségek. |
+
+| b5 | A fiatal mezőgazdasági termelők elindítása című képzés a fiatal mezőgazdasági termelők támogatásáról szóló 67/2007. (VII. 26.) FVM rendelethez, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2009. évtől nyújtandó támogatások részletes feltételeiről szóló 113/2009. (VIII. 29.) FVM rendelethez kapcsolódóan. | 14 | – |
+
+| A képzés tartalma: |
+
+| Általános rész |
+
+| – a KAP aktuális kérdései; |
+
+| – az SPS rendszer; |
+
+| – a kölcsönös megfeleltetés; |
+
+| – az agrárszakigazgatás rendszere; |
+
+| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+
+| Speciális rész |
+
+| – az elnyert összeg felhasználási rendje, a gazdaság működésével kapcsolatos bizonylatok szabályos vezetése, szankciók, jogorvoslati lehetőségek; |
+
+| – az üzleti terv megvalósulásának nyomonkövetése; |
+
+| – forrásbevonás lehetőségei, hitelfelvétel; |
+
+| – piacrajutási lehetőségek; |
+
+| – szaktanácsadási szolgáltatások igénybevétele. |
+
+| b6 | Mezőgazdasági termékek értéknövelése című képzés a mezőgazdasági termékek értéknöveléséhez nyújtandó támogatásról szóló 47/2008. (IV. 17.) FVM rendelethez, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból nem élelmiszeripari célú kiskapacitású, növényi alapú nyersszesz, nyersolaj előállító üzemek létesítéséhez nyújtandó támogatások részletes feltételeiről szóló 44/2009. (IV. 11.) FVM rendelethez kapcsolódóan. | 14 | – |
+
+| A képzés tartalma: |
+
+| Általános rész |
+
+| – a KAP aktuális kérdései; |
+
+| – az SPS rendszer; |
+
+| – a kölcsönös megfeleltetés; |
+
+| – az agrárszakigazgatás rendszere; |
+
+| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+
+| Speciális rész |
+
+| – termelői együttműködések; |
+
+| – élelmiszer-biztonsági ismeretek. |
 
 | b7 | A szerkezetátalakítás alatt álló félig önellátó gazdaságok támogatása című képzés a külön jogszabályban meghatározott ezen támogatási jogcímhez kapcsolódóan. | 14 | – |
 
-| A képzés tartalma: Általános rész – a KAP aktuális kérdései; – az SPS rendszer; – a kölcsönös megfeleltetés; – az agrárszakigazgatás rendszere; – a gazdálkodás ökonómiája – gazdaságossági számítások; Speciális rész – az elnyert támogatási összeg felhasználási rendje; – az üzleti terv megvalósulásának nyomonkövetése; – az igénylés módja, szüneteltetése, visszalépés a támogatástól; – jogorvoslati lehetőségek (vis major). |
+| A képzés tartalma: |
 
-| b8 | Agrár-környezetgazdálkodási kifizetések című képzés a külön jogszabályban meghatározott ezen támogatási jogcímhez kapcsolódóan. | 14 | – |
+| Általános rész |
 
-| A képzés tartalma: 1. Általános kérdések, jogszabályok, eljárásrend – agrár-környezetgazdálkodás Magyarországon (a korábbi évek tapasztalatai); – minimum követelmények az AKG-ban; – az AKG jogszabályi követelményei; – eljárásrendi kérdések (pl. részleges visszavonás, kötelezettségátadás, öröklés); – helyszíni ellenőrzés, jogkövetkezmények. 2. Agrár-környezetgazdálkodási célprogramok – szántóföldi célprogramok; – ültetvényes gazdálkodás; – gyepgazdálkodás; – vizes élőhelyeken történő gazdálkodás. 3. Talaj tápanyag-gazdálkodás 4. Az agrár-környezetgazdálkodáshoz kapcsolódó egyéb kérdések – a Gazdálkodási Napló vezetése; – a különböző támogatások együttes felvételének lehetőségei; – az Agrár-környezetgazdálkodási Információs Rendszer (AIR). 5. Az agrárszakigazgatás rendszere |
+| – a KAP aktuális kérdései; |
+
+| – az SPS rendszer; |
+
+| – a kölcsönös megfeleltetés; |
+
+| – az agrárszakigazgatás rendszere; |
+
+| – a gazdálkodás ökonómiája – gazdaságossági számítások; |
+
+| Speciális rész |
+
+| – az elnyert támogatási összeg felhasználási rendje; |
+
+| – az üzleti terv megvalósulásának nyomonkövetése; |
+
+| – az igénylés módja, szüneteltetése, visszalépés a támogatástól; |
+
+| – jogorvoslati lehetőségek (vis maior). |
+
+| b8 | Agrár-környezetgazdálkodási kifizetések című képzés az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelethez kapcsolódóan. | 14 | – |
+
+| A képzés tartalma: |
+
+| 1. Általános kérdések, jogszabályok, eljárásrend |
+
+| – agrár-környezetgazdálkodás Magyarországon (a korábbi évek tapasztalatai); |
+
+| – minimum követelmények az AKG-ban; |
+
+| – az AKG jogszabályi követelményei; |
+
+| – eljárásrendi kérdések (pl. részleges visszavonás, kötelezettségátadás, öröklés); |
+
+| – helyszíni ellenőrzés, jogkövetkezmények. |
+
+| 2. Agrár-környezetgazdálkodási célprogramok |
+
+| – szántóföldi célprogramok; |
+
+| – ültetvényes gazdálkodás; |
+
+| – gyepgazdálkodás; |
+
+| – vizes élőhelyeken történő gazdálkodás. |
+
+| 3. Talaj tápanyag-gazdálkodás |
+
+| 4. Az agrár-környezetgazdálkodáshoz kapcsolódó egyéb kérdések |
+
+| – a Gazdálkodási Napló vezetése; |
+
+| – a különböző támogatások együttes felvételének lehetőségei; |
+
+| – az Agrár-környezetgazdálkodási Információs Rendszer (AIR). |
+
+| 5. Az agrárszakigazgatás rendszere |
 
 | b9 | Erdő-környezetvédelmi kifizetések című képzés a külön jogszabályban meghatározott ezen támogatási jogcímhez kapcsolódóan. | 14 | – |
 
-| A képzés tartalma: 1. A természetközeli erdőgazdálkodás feltételrendszere – az erdőgazdálkodás fenntarthatósága; – az erdőgazdálkodási szemlélet, gyakorlat változásai; – jogi szabályozás; – természetvédelem és erdőgazdálkodás kapcsolata; – speciális erdőgazdálkodás védett területeken. 2. Az erdő-környezetvédelmi célprogramok – a célprogramok előírásainak részletes ismertetése; – a legkedvezőbb célprogramok kiválasztásának szempontjai; – eljárásrendi kérdések (pl. támogatás igénylése, részleges visszavonás, kötelezettség-átadás, öröklés); – helyszíni ellenőrzés, jogkövetkezmények. 3. Az erdőkörnyezetvédelmi intézkedés és más támogatási lehetőségek kapcsolata a különböző támogatások együttes igénybevételének lehetőségei 4. Az agrárszakigazgatás rendszere |
+| A képzés tartalma: |
+
+| 1. A természetközeli erdőgazdálkodás feltételrendszere |
+
+| – az erdőgazdálkodás fenntarthatósága; |
+
+| – az erdőgazdálkodási szemlélet, gyakorlat változásai; |
+
+| – jogi szabályozás; |
+
+| – természetvédelem és erdőgazdálkodás kapcsolata; |
+
+| – speciális erdőgazdálkodás védett területeken. |
+
+| 2. Az erdő-környezetvédelmi célprogramok |
+
+| – a célprogramok előírásainak részletes ismertetése; |
+
+| – a legkedvezőbb célprogramok kiválasztásának szempontjai; |
+
+| – eljárásrendi kérdések (pl. támogatás igénylése, részleges visszavonás, kötelezettség-átadás, öröklés); |
+
+| – helyszíni ellenőrzés, jogkövetkezmények. |
+
+| 3. Az erdő-környezetvédelmi intézkedés és más támogatási lehetőségek kapcsolata a különböző támogatások együttes igénybevételének lehetőségei |
+
+| 4. Az agrárszakigazgatás rendszere |
 
 | b10 | Natura 2000 kifizetések című képzés a külön jogszabályban meghatározott ezen támogatási jogcímhez kapcsolódóan, beleértve az Európai Mezőgazdasági Vidékfejlesztési Alapból a Natura 2000 gyepterületeken történő gazdálkodáshoz nyújtandó kompenzációs támogatás részletes szabályairól szóló 128/2007. (X. 31.) FVM rendeletet. | 14 | – |
 
-| A képzés tartalma: 1. Általános ismeretek a természetvédelemről és a Natura 2000 területekről – természetvédelmi alapismeretek; – a mezőgazdaság kulcsszerepe a környezet- és természetvédelemben; – a hazai természetvédelem működése; – az EU ökológiai hálózata: a Natura 2000 hálózat bemutatása; – jogi szabályozás; – a Natura 2000 területeken előforduló közösségi és kiemelt közösségi jelentőségű élőhelyek, valamint a növény- és állatfajok bemutatása. 2. A Natura 2000 gyepterületeken történő gazdálkodás 3. A Gazdálkodási Napló vezetése 4. Az agrárszakigazgatás rendszere |
+| A képzés tartalma: |
+
+| 1. Általános ismeretek a természetvédelemről és a Natura 2000 területekről |
+
+| – természetvédelmi alapismeretek; |
+
+| – a mezőgazdaság kulcsszerepe a környezet- és természetvédelemben; |
+
+| – a hazai természetvédelem működése; |
+
+| – az EU ökológiai hálózata: a Natura 2000 hálózat bemutatása; |
+
+| – jogi szabályozás; |
+
+| – a Natura 2000 területeken előforduló közösségi és kiemelt közösségi jelentőségű élőhelyek, valamint a növény- és állatfajok bemutatása. |
+
+| 2. A Natura 2000 gyepterületeken történő gazdálkodás |
+
+| 3. A Gazdálkodási Napló vezetése |
+
+| 4. Az agrárszakigazgatás rendszere |
 
 | b11 | Öntözési, meliorációs és egyéb vízgazdálkodási létesítmény-fejlesztés című képzés az öntözés, melioráció, területi vízgazdálkodás mezőgazdasági üzemi és közösségi létesítményei fejlesztésének támogatásáról szóló 34/2008. (III. 27.) FVM rendeletben meghatározott 2.1. és 3.1. célterülethez kapcsolódóan. | 14 | – |
 
-| A képzés tartalma: Általános rész – a KAP aktuális kérdései; – az SPS rendszer; – a kölcsönös megfeleltetés; – az agrárszakigazgatás rendszere; – a gazdálkodás ökonómiája – gazdaságossági számítások. Speciális rész – jogcím-specifikus kötelezettségek (monitoring mutatók kitöltése, üzemben tartás stb.); – kifizetés igénylés eljárási rendje; – szakszerű üzemeltetés, karbantartás. Szakmai rész Öntözés természeti tényezői – időjárás-változás, változékonyság Magyarországon; – időjárási szélsőségek; – a klímaváltozás történelmi vonatkozásai; A mezőgazdasági termelés kettős veszélyeztetettsége Aszály – történelmi aszályos időszakok; – aszálykárok; – az aszály enyhítésének lehetőségei; Öntözés – öntözésre vízjogilag engedélyezett területek; – öntözött területek; – felhasznált vízmennyiség. |
+| A képzés tartalma: |
+
+| Általános rész |
+
+| – a KAP aktuális kérdései; |
+
+| – az SPS rendszer; |
+
+| – a kölcsönös megfeleltetés; |
+
+| – az agrárszakigazgatás rendszere; |
+
+| – a gazdálkodás ökonómiája – gazdaságossági számítások. |
+
+| Speciális rész |
+
+| – jogcím-specifikus kötelezettségek (monitoring mutatók kitöltése, üzemben tartás stb.); |
+
+| – kifizetés igénylés eljárási rendje; |
+
+| – szakszerű üzemeltetés, karbantartás. |
+
+| Szakmai rész |
+
+| Öntözés természeti tényezői |
+
+| – időjárás-változás, változékonyság Magyarországon; |
+
+| – időjárási szélsőségek; |
+
+| – a klímaváltozás történelmi vonatkozásai; |
+
+| A mezőgazdasági termelés kettős veszélyeztetettsége |
+
+| Aszály |
+
+| – történelmi aszályos időszakok; |
+
+| – aszálykárok; |
+
+| – az aszály enyhítésének lehetőségei; |
+
+| Öntözés |
+
+| – öntözésre vízjogilag engedélyezett területek; |
+
+| – öntözött területek; |
+
+| – felhasznált vízmennyiség. |
 
 2. számú melléklet a 139/2008. (X. 22.) FVM rendelethez
