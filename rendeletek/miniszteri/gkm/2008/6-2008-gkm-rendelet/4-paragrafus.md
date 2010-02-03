@@ -16,7 +16,7 @@
 
 7. vállalkozások finanszírozási forrásokhoz való hozzáférésének megkönnyítése pénzügyi eszközök kínálata révén,
 
-8.[^2] kockázatitőke-befektetés nyújtása KKV-k részére,
+8.[^3] kockázatitőke-befektetés nyújtása KKV-k részére,
 
 9. vállalkozói kultúra fejlesztése és a vállalkozói szellem erősítése,
 
@@ -40,11 +40,11 @@
 
 19. logisztikai központok és szolgáltatások fejlesztése,
 
-20.[^3] innovációs hídképző-intézmények létrehozása, szolgáltatásainak fejlesztése,
+20.[^4] innovációs hídképző-intézmények létrehozása, szolgáltatásainak fejlesztése,
 
-21.[^4] KKV-k részére iparjogvédelmi jogok megszerzéséhez és megújításához nyújtott támogatás és tanácsadás,
+21.[^5] KKV-k részére iparjogvédelmi jogok megszerzéséhez és megújításához nyújtott támogatás és tanácsadás,
 
-22.[^5] találmányok piaci bevezetésének ösztönzése,
+22.[^6] találmányok piaci bevezetésének ösztönzése,
 
 23. az innováció társadalmi elismertségének támogatása, innovációs díjakhoz való hozzájárulás,
 
@@ -78,7 +78,7 @@
 
 (2) A rendelet hatálya alá tartozó előirányzatok az (1) bekezdésben meghatározott jogcímeken túl jogszabályban vagy a Kormány határozatában meghatározott egyes gazdaságstratégiai és egyéb célok végrehajtása érdekében is felhasználhatók a Magyar Köztársaság nemzetközi kötelezettségeivel, az állami támogatásokra vonatkozó közösségi szabályokkal és az Áht. előírásaival összhangban.
 
-[^2]: A 4. § (1) bekezdésének 8. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
-[^3]: A 4. § (1) bekezdésének 20. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
-[^4]: A 4. § (1) bekezdésének 21. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
-[^5]: A 4. § (1) bekezdésének 22. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
+[^3]: A 4. § (1) bekezdésének 8. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
+[^4]: A 4. § (1) bekezdésének 20. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
+[^5]: A 4. § (1) bekezdésének 21. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
+[^6]: A 4. § (1) bekezdésének 22. pontja e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.

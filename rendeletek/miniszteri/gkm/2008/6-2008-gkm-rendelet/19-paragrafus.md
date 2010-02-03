@@ -1,6 +1,6 @@
 ## Elszámolható költségek
 
-19. §[^12] (1) A KKV-k iparjogvédelmi támogatásával kapcsolatban felmerülő költségekhez nyújtott támogatás esetén az elszámolható költségek a következők:
+19. §[^13] (1) A KKV-k iparjogvédelmi támogatásával kapcsolatban felmerülő költségekhez nyújtott támogatás esetén az elszámolható költségek a következők:
 
 a) az oltalomnak az első iparjogvédelmi hatóság által történő megadását megelőzően felmerülő valamennyi költség, ideértve a bejelentés előkészítésével, benyújtásával és vizsgálatával kapcsolatos költségeket, valamint az oltalom megadása előtt az iparjogvédelmi oltalom megszerzése iránti eljárásban felmerülő költségeket,
 
@@ -24,4 +24,4 @@ b) a klaszter nyílt hozzáférésű eszközeinek kezelése,
 
 c) oktatási programok, workshopok és konferenciák szervezése azzal a céllal, hogy a klaszter tagjai megosszák egymással ismereteiket, hálózatot építsenek.
 
-[^12]: A 19. § e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
+[^13]: A 19. § e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.

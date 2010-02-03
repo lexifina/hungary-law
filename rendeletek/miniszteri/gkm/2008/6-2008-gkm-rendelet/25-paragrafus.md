@@ -8,11 +8,11 @@
 
 (4) E rendelet alapján támogatási döntést csekély összegű és regionális beruházási támogatások, valamint a K+F+I keretszabály hatálya alá tartozó támogatások tekintetében 2013. december 31-ig lehet hozni.
 
-(5)[^16] E rendelet alapján támogatási döntést KKV és képzési támogatás tekintetében 2008. december 31-ig lehet hozni.
+(5)[^17] E rendelet alapján támogatási döntést KKV és képzési támogatás tekintetében 2008. december 31-ig lehet hozni.
 
-(6)[^17]
+(6)[^18]
 
-(7)[^18]
+(7)[^19]
 
 (8) E rendelet
 
@@ -28,6 +28,6 @@ e) a kutatáshoz, fejlesztéshez és innovációhoz nyújtott állami támogatá
 
 f) a kis- és középvállalkozásokba történő kockázatitőke-befektetések előmozdítását célzó állami támogatásokról szóló 2006. augusztus 18-i 2006/C 194/02. számú közösségi iránymutatás (HL C 194/2. 2006. 08. 18. 2–21. o.)
 
-[^16]: A 25. § (5) bekezdése a 8/2008. (VII. 24.) NFGM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 8. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^17]: A 25. § (6) bekezdését e rendelet 25. § (7) bekezdése hatályon kívül helyezte.
-[^18]: A 25. § (7) bekezdése hatályát vesztette ugyanezen bekezdés alapján.
+[^17]: A 25. § (5) bekezdése a 8/2008. (VII. 24.) NFGM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 8. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^18]: A 25. § (6) bekezdését e rendelet 25. § (7) bekezdése hatályon kívül helyezte.
+[^19]: A 25. § (7) bekezdése hatályát vesztette ugyanezen bekezdés alapján.

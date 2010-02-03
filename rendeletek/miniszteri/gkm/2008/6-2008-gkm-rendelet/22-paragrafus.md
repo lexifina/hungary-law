@@ -1,6 +1,6 @@
 ## AZ ÁLLAMI TÁMOGATÁSOKRA VONATKOZÓ KÖZÖS SZABÁLYOK
 
-22. §[^14] (1) Nem nyújtható támogatás
+22. §[^15] (1) Nem nyújtható támogatás
 
 a) azon szervezet részére, amellyel szemben az Európai Bizottságnak valamely támogatás visszafizetésére kötelező határozata van érvényben,
 
@@ -16,7 +16,7 @@ f) azon gazdálkodó szervezet részére, amelynek a számviteli jogszabályok s
 
 g) azon személy vagy szervezet részére, aki vagy amely a beruházást vagy a fejlesztést olyan ingatlanon kívánja megvalósítani, amely a pályázat benyújtásának időpontjában nem per- és igénymentes, kivéve, ha a pályázó az igény jogosultja, vagy bérelt ingatlan esetében a bérleti szerződés kizárólagos joggal biztosítja a támogatással megvalósuló létesítmény üzemeltetésének lehetőségét legalább a külön rendeletben előírt üzemeltetési kötelezettség idejére,
 
-h)[^15] azon pályázó részére, amely nem felel meg a rendezett munkaügyi kapcsolatok az Áht. 15. §-ában meghatározott feltételeinek.
+h)[^16] azon pályázó részére, amely nem felel meg a rendezett munkaügyi kapcsolatok az Áht. 15. §-ában meghatározott feltételeinek.
 
 (2) Az (1) bekezdés d) pontja szerinti kizáró feltétel fennállásának hiányát a személy vagy szervezet
 
@@ -24,5 +24,5 @@ a) 30 napnál nem régebben kiállított közokirattal igazolja, vagy
 
 b) szerepel a köztartozásmentes adózói adatbázisban.
 
-[^14]: A 22. § a 20/2009. (VIII. 14.) NFGM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 15. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult eljárásokban kell alkalmazni.
-[^15]: A 22. § (1) bekezdés h) pontja a 22/2009. (IX. 17.) NFGM rendelet 1. §-ával megállapított szöveg.
+[^15]: A 22. § a 20/2009. (VIII. 14.) NFGM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 15. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult eljárásokban kell alkalmazni.
+[^16]: A 22. § (1) bekezdés h) pontja a 22/2009. (IX. 17.) NFGM rendelet 1. §-ával megállapított szöveg.
