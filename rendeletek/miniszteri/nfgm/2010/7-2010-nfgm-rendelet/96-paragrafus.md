@@ -1,1 +1,0 @@
-## „(2) Az 1. § (1) bekezdés a) pontjában szereplő előirányzat felhasználásánál a Gazdasági Minisztérium vállalkozási célelőirányzatainak szabályozásáról szóló 1/2001. (I. 5.) GM rendelet és a Gazdasági és Közlekedési Minisztérium egyes támogatási programjainak részletes szabályairól szóló 19/2004. (II. 27.) GKM rendelet előírásait is figyelembe kell venni.”
