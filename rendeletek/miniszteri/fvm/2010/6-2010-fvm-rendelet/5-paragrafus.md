@@ -1,3 +1,0 @@
-## „(14) A (4) bekezdés c) pontjában foglaltaktól eltérően az ÚMVP Képző Szervezet e rendelet alapján támogatható képzések szolgáltatására akkor is jogosult, ha az 1. számú melléklet szerinti kötelező képzések, a Mezőgazdasági vontatóvezető képzés, valamint az OKJ szerinti képzések közül az 1. számú mellékletben részszakképesítés vagy elágazás megjelölésű szakképesítések esetében a képzésen legalább 5, legfeljebb 30, e rendelet alapján támogatás igénybevételére jogosult ügyfél – képzési szerződéssel igazolt – részvételét biztosítja.”
-
-5. § (1) Az R. 7. § (1) bekezdés helyébe a következő rendelkezés lép:
