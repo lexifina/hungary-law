@@ -1,0 +1,221 @@
+# A Kormány 17/2010. (II. 5.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 14. szám, 2010. február 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6c98d4a0c630a291071c47bdeeb78017d5e12d7c/dokumentumok/51f017b98abdcbc1df950ddcdfcb6254361a4c99/letoltes)
+
+---
+
+A Kormány 17/2010. (II. 5.) Korm. rendelete
+a közalkalmazottakról szóló 1992. évi XXXIII. törvény végrehajtásáról
+a közoktatási intézményekben tárgyú 138/1992. (X. 8.) Korm. rendelet módosításáról
+A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (2) bekezdés a), b), d), f), g) pontjában, (3) bekezdés ca), cc), cg),
+ci), cj), ck) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében
+eljárva a Kormány a következőket rendeli el:
+1. §
+A közalkalmazottakról szóló 1992. évi XXXIII. törvény végrehajtásáról a közoktatási intézményekben tárgyú 138/1992.
+(X. 8.) Korm. rendelet (a továb biak ban: R.) 3/A. § (2) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+[Nem állapítható meg próbaidő annak a részére sem, aki]
+„a) a Kt. 18. § (6) bekezdésében meghatározott munkakörben eltöltött legalább öt év szakmai gyakorlattal
+rendelkezik, feltéve, hogy pedagógus-munkakörre szóló kinevezése mellett magasabb vezetői megbízást kap.”
+2. §
+(1) Az R. 5. § (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+[A közoktatási intézményben – az intézmény gazdálkodási jogosítványaitól függetlenül]
+„a) magasabb vezetői megbízásnak minősül:
+aa) a helyi önkormányzat képviselőtestülete, közgyűlése, a társulási tanács, illetve a fenntartó vezetője vagy
+megbízottja által adott intézményvezetői megbízás,
+ab) a tagintézmény, többcélú intézmény intézményegysége vezetőjének (igazgatójának, óvodavezetőjének,
+kollégiumvezetőjének) a megbízása,
+ac) az intézményvezető-helyettesi megbízás;”
+(2) Az R. 5. § (16) bekezdése helyébe a következő rendelkezés lép:
+„(16) Ha az intézményvezetői feladatok ellátására kiírt pályázat nem vezetett eredményre (pl. nem volt pályázó, illetve
+egyik pályázó sem kapott megbízást), vagy az intézményvezetői feladatok ellátására szóló megbízás a megbízás
+határidejének lejárta előtt megszűnt, az intézmény vezetésével kapcsolatos feladatokat a pályázati eljárás eredményes
+befejezéséig, de legfeljebb egy évig a szervezeti és működési szabályzatban meghatározott helyettesítés rendjében
+foglaltak szerint kell ellátni, a (14) bekezdésben meghatározottak alkalmazásával.”
+3. §
+(1) Az R. 14/A. §-át megelőző alcím helyébe a következő alcím lép:
+„[A Kjt. 66. § (4) bekezdéshez és 85. § (3) bekezdésének cg), ci) és ck) pontjához]”
+(2) Az R. 14/A. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az óvónőképzésben (óvodapedagógus-képzésben) és a tanítóképzésben a szakkollégiumi vagy műveltségi
+területen szerzett képesítés a Kjt. 66. § (2) bekezdésében szabályozott további szakképesítésnek minősül és az ott
+meghatározott feltételek mellett – figyelemmel az (1) bekezdésben foglaltakra is – illetménynövekedésre jogosít.”
+4. §
+Az R. 14/C. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
+„(1) A helyi önkormányzat képviselő-testülete, közgyűlése, a társulási tanács, illetve a fenntartó vezetője vagy
+megbízottja által adott intézményvezetői megbízás esetén a pótlék mértéke nem lehet kevesebb, mint
+a közalkalmazotti pótlékalap
+a) 200%-a, ha az intézményvezető heti kötelező óraszáma meghaladja a heti 6 órát, továbbá – a b)–c) pontban
+meghatározott kivétellel – azokban a közoktatási intézményekben, amelyekben a vezetőknek nincs kötelező
+óraszámuk,
+b) 230%-a, ha az intézményvezető heti kötelező óraszáma nem haladja meg a heti 6 órát, továbbá azokban
+a közoktatási intézményekben, amelyekben a vezetőknek nincs kötelező óraszámuk, ha az intézmény körzeti feladatot
+lát el,
+c) 250%-a, ha az intézményvezető heti kötelező óraszáma nem haladja meg a heti 2 órát, továbbá azokban
+a közoktatási intézményekben, amelyekben a vezetőknek nincs kötelező óraszámuk, ha az intézmény térségi vagy
+országos feladatot lát el.
+(2) Az intézményvezető helyettesének, a tagintézmény, többcélú intézményben az intézményegység vezetőjének
+(igazgatójának, óvodavezetőjének, kollégiumvezetőjének) magasabb vezetői megbízása, továbbá a vezetői feladatok
+ellátására szóló megbízás esetén a pótlék mértéke nem lehet kevesebb, mint a pótlékalap
+a) 100%-a, ha a vezetői megbízást az (1) bekezdés a) pontjában meghatározott intézményben adják,
+
+b) 130%-a, ha a vezetői megbízást az (1) bekezdés b) pontjában meghatározott intézményben adják,
+c) 150%-a, ha a vezetői megbízást az (1) bekezdés c) pontjában meghatározott intézményben adják, illetve
+d) 200%-a, ha a vezetői feladatok ellátása az 5. § (16)–(17) bekezdésében foglaltak alapján történik.”
+5. § Az R. 15. § (10) bekezdése helyébe a következő rendelkezés lép:
+„(10) A közalkalmazott valamennyi pótlékra jogosult, amely feltételeinek megfelel, azzal a megkötéssel, hogy az e §
+(2) bekezdése alapján kifizetett illetménypótlékok együttes összege nem haladhatja meg a közalkalmazotti pótlékalap
+75%-át. A korlátozást nem kell alkalmazni abban az esetben, ha a meghatározott mértéken felüli összeg központi
+költségvetési többlettámogatás nélkül biztosítható, vagy ha az összeget központi többlet-költségvetési támogatás
+biztosítja.”
+6. § (1) Az R. 18. § (2) bekezdés felvezető szövege helyébe a következő rendelkezés lép:
+„A gyermek- és ifjúságvédelmi intézmény pedagógus-munkakörben foglalkoztatott alkalmazottai közalkalmazotti
+jogviszonyára e rendelet 4. §-át, 7. §-át, 10. § (1) bekezdését, 11/A–11/D. §-ait, 12. §-át, 14/A. § (2) bekezdés a), c) és
+h) pontjait, 15. § (2) bekezdésének c)–e) pontjait, (3)–(4) bekezdését, (6) bekezdését, (8) bekezdését, (10) bekezdését,
+16. § (1)–(6) bekezdéseit kell alkalmazni azzal az eltéréssel, hogy”
+(2) Az R. 18. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A többcélú közoktatási intézmény esetében
+a) a vezetőnek a vezetői feladatok ellátásával való megbízására e rendelet 5. §-ában foglaltakat kell alkalmazni;
+b) a közös igazgatású közoktatási intézményben és az általános művelődési központban a munkáltatói jog
+gyakorlóját megillető jogosítványok közül az intézményegység-vezetői megbízásról és a megbízás visszavonásáról
+az igazgatótanács dönt.”
+(3) Az R. 18. § (5) bekezdés felvezető szövege és a) pontja helyébe a következő rendelkezés lép:
+„E rendelet 5. § (2)–(14) és (16)–(17) bekezdésében meghatározottakat a többcélú közoktatási intézmény
+intézményegység-vezetői megbízása, illetőleg tagintézmény-vezetői megbízása tekintetében is alkalmazni kell, azzal
+az eltéréssel, hogy
+a) a pályáztató feladatait a többcélú közoktatási intézmény igazgatója (főigazgatója) gyakorolja,”
+(4) Az R. 18. § (6) bekezdés helyébe a következő rendelkezés lép:
+„(6) A többcélú közoktatási intézmény szakmailag önálló intézményegysége alapfeladatára létesített munkakörre
+benyújtott pályázat elbírálásakor az intézményegység vezetőjét egyetértési jog illeti meg.”
+(5) Az R. 18. §-a a következő (9)–(10) bekezdéssel egészül ki:
+„(9) Az azonos feladatot ellátó tagintézmény vezetője tekintetében az e § (5) bekezdésének a) pontjában és
+(6) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(10) A közoktatási intézményben a közalkalmazotti jogviszony létesítésekor nem kell alkalmazni a Kjt. 20. §
+(2) bekezdése c) pontjának rendelkezéseit.”
+7. § Az R. Melléklet „Az egyes fizetési osztályokba tartozó közalkalmazotti munkakörök” rész „I. Közoktatási intézmények”
+cím „Pedagógus-munkakörök” alcím alatti táblázat helyébe az e rendelet melléklete lép.
+8. § (1) Ez a rendelet a kihirdetést követő 5. napon lép hatályba.
+(2) Az R.
+a) 3/A. § (2) bekezdés b) pontjában a „munkakörre nevezik ki” szövegrész helyébe a „megbízást kap” szövegrész,
+b) 5. § (4) bekezdés első mondatában a „A magasabb vezetői megbízásra és a magasabb vezetői munkakör
+betöltésére” szövegrész helyébe a „Az intézményvezetői magasabb vezetői megbízásra, munkakör betöltésére”
+szövegrész, (17) bekezdésében a „vezetői beosztás ellátására szóló megbízás” szövegrész helyébe a „vezetői
+beosztás ellátására szóló helyettesi megbízás” szövegrész, (18) bekezdésében a „(15)–(17) bekezdésében”
+szövegrész helyébe a „(16)–(17) bekezdésében” szövegrész,
+c) 7. § (1) bekezdésében a „nevelési-oktatási intézményben” szövegrész helyébe a „nevelési-oktatási intézményben,
+pedagógiai szakszolgálat intézményében”, „a nevelési-oktatási intézményen kívül” szövegrész helyébe „az
+intézményen kívül” szövegrész,
+d) 11/D. § (1) bekezdésében a „11/C. § (1) bekezdésének b) pontjában” szövegrész helyébe a „11/C. §
+(1) bekezdésében” szövegrész,
+
+e)
+12. § (1) bekezdés második mondatában a „Besorolás tekintetében a szakvizsgával egyenértékű” szövegrész
+helyébe „A szakvizsgával egyenértékű” szövegrész,
+f)
+15. § (2) bekezdés a) pontjában a „kollégiumban” szövegrész helyébe a „kollégiumban, alapfokú
+művészetoktatási intézményben” szövegrész,
+g)
+17. §-át megelőző alcímben a „Kjt. 20/A. § (2) bekezdésének c) pontjához” szövegrész helyébe a „Kjt. 20/A. §
+(2) bekezdés e) pontjához” szövegrész, a „85. § (2) bekezdésének b) és (3) bekezdésének ca) pontjához” szövegrész
+helyébe a „85. § (2) bekezdés b) és (3) bekezdés ca) és cj) pontjához” szövegrész
+lép.
+(3) Hatályát veszti az R.
+a)
+5. § (1) bekezdés b) pontjában a „a tagintézmény-vezetői,” szövegrész,
+b)
+5. § (15) bekezdése,
+c)
+17. § (2) bekezdése, (4) bekezdés c) pontja és (5) bekezdése.
+(4) E rendelet a kihirdetést követő 6. napon hatályát veszti.
+Bajnai Gordon s. k.,
+miniszterelnök
+Melléklet a 17/2010. (II. 5.) Korm. rendelethez
+„Melléklet a 138/1992. (X. 8.) Korm. rendelethez
+Az egyes fizetési osztályokba tartozó közalkalmazotti munkakörök
+Munkakör megnevezése
+Fizetési osztályok
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+I.
+Közoktatási intézmények
+Pedagógus-munkakörök
+óvodapedagógus
+*
+*
+*
+*
+tanító
+*
+*
+*
+tanár
+*
+*
+*
+*
+*
+napközis foglalkozást (tanulószobai
+foglalkozást) tartó pedagógus
+*
+*
+*
+*
+*
+gyógypedagógus (terapeuta)
+*
+*
+*
+*
+*
+konduktor
+*
+*
+*
+*
+*
+kollégiumi nevelő
+*
+*
+*
+*
+*
+pszichológus
+*
+*
+*
+szociálpedagógus
+*
+*
+*
+*
+*
+könyvtárostanár (tanító)
+*
+*
+*
+*
+*
+szakoktató, gyakorlati oktató
+(beleértve a gyors- és gépírást tanító,
+a szakmai alapozó, szakmai
+előkészítő, szakmai orientáció,
+szakmacsoportos alapozó oktatást
+végző, munkába állást előkészítő
+ismereteket oktató, tanórán kívüli
+foglalkozást tartó,
+művészetoktatásban gyakorlatot és
+elméletet oktató pedagógust)”
+*
+*
+*
+*
+*
+*
+*
+*
