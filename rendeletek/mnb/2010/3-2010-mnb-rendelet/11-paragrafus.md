@@ -1,0 +1,1 @@
+## 10. § E rendelet 8. §-a az euroérmék közös oldalának formatervezési mintájára vonatkozó szerzői jogi védelemről szóló, 2001. október 22-i COM/2001/0600 bizottsági közleménynek (HL C 318., 2001.11.13., 3. o.) való megfelelést szolgálja.
