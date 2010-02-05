@@ -1,0 +1,19 @@
+## A támogatás kifizetése, utólagos ellenőrzés
+
+7. § (1) Az MVH a kérelmezőtől átvett bormennyiség lepárlására és a támogatási feltételek teljesülésére vonatkozó ellenőrzése kiterjed:
+
+a) a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) által előírt, a szerződésben foglalt borok átvételére vonatkozó nyilvántartásokra, valamint szállítási okmányokra,
+
+b) a Jöt. által előírt, a szerződésben foglalt borok lepárlására vonatkozó jövedéki nyilvántartásokra (termékmérleg nyilvántartás, termelési napló).
+
+(2) Az MVH az ellenőrzése során figyelembe veszi a Jöt. rendelkezései szerint vezetett és a vámhatóság által ellenőrzött nyilvántartásokat és dokumentációkat.
+
+(3) A támogatás kifizetése az (1) bekezdés szerinti ellenőrzést követően kezdődhet meg.
+
+(4) Az MVH legkésőbb 2010. október 15-ig, forintban folyósítja a támogatást.
+
+(5) A támogatási összeg meghatározásakor a forintra történő átszámítást az első borbeszállítás hónapjának első napján érvényes, az Európai Központi Bank által jegyzett forint/euró átváltási árfolyam alapján kell elvégezni.
+
+(6) A borászati hatóság a lepárlás időszakában legalább havonta egy alkalommal a lepárlóüzem telephelyén ellenőrzést végez. Az ellenőrzésnek a lepárlással előállított bordesztillátumnak vagy borpárlatnak a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendeletben meghatározott feltételeknek való megfelelőségére kell vonatkoznia.
+
+(7) A borászati hatóság a (6) bekezdés szerinti ellenőrzések eredményét tartalmazó jegyzőkönyveket vagy hivatalos feljegyzéseket az ellenőrzés elvégzését követő 5 munkanapon belül megküldi az MVH PKI részére.
