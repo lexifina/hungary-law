@@ -8,7 +8,7 @@ b) megteremti és fenntartja a tűzvédelmi szervezet működéséhez szüksége
 
 c) a tűzoltásnál és a műszaki mentésnél – a bv. szerv biztonságára vonatkozó előírásokra is figyelemmel – betarttatja a tűzriadó tervben foglaltakat,
 
-d) tűzvédelmi bizottságot, tűzvédelmi vezetőt, illetve tűzvédelmi előadót vagy tűzvédelmi megbízottat foglalkoztat az irányítása alatt álló bv. szervnél; azokban a létesítményekben, ahol létesítményi tűzoltóságot kell működtetni, azt létrehozza,
+d)[^2] tűzvédelmi vezetőt, illetve tűzvédelmi előadót vagy tűzvédelmi megbízottat foglalkoztat az irányítása alatt álló bv. szervnél;
 
 e) intézkedik arról, hogy a foglalkoztatottak a tűzvédelmi szabályzat rájuk vonatkozó részét megismerjék és betartsák,
 
@@ -17,3 +17,5 @@ f) intézkedik arról, hogy a foglalkoztatottakat a munkába állás előtt és 
 g) a területileg illetékes hivatásos önkormányzati tűzoltóság vezetőjével egyeztetve – megállapodás szerinti időszakonként – együttműködési gyakorlatot szervez, illetve biztosítja annak megtartását.
 
 (2) Az együttműködési gyakorlaton különös tekintettel kell lenni a fogvatartottak létesítményen belüli mozgására vonatkozó biztonsági előírások betartására.
+
+[^2]: A 3. § (1) bekezdés d) pontja a 3/2010. (I. 28.) IRM rendelet 2. §-ával megállapított szöveg.

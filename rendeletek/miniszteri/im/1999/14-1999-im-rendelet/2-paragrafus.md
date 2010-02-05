@@ -10,7 +10,7 @@ b) meghatározza a bv. szervekre vonatkozó különleges tűzvédelmi szabályok
 
 c) ellenőrzi a bv. szervek tűzvédelemmel és a műszaki mentéssel összefüggő adatszolgáltatási, jelentési, beszámolási kötelezettségének teljesítését,
 
-d) együttműködik a Belügyminisztérium Tűzoltóság Országos Parancsnokságával a feladatok hatékonyabb megoldása, a tűzvédelmi eszközök gazdaságosabb kihasználása érdekében,
+d)[^1] együttműködik az Országos Katasztrófavédelmi Főigazgatósággal a feladatok hatékonyabb megoldása, a tűzvédelmi eszközök gazdaságosabb kihasználása érdekében;
 
 e) biztosítja a tűzvédelmi előírások érvényesülését a beruházások előkészítése és megvalósítása során.
 
@@ -33,3 +33,5 @@ g) intézkedéseket kezdeményez a tűzvédelemmel kapcsolatos hiányosságok me
 h) figyelemmel kíséri a beruházások előkészítését és a megvalósítás során a tűzvédelmi előírások érvényesülését.
 
 (3) Az országos tűzvédelmi vezetőt az országos parancsnok nevezi ki.
+
+[^1]: A 2. § (1) bekezdés d) pontja a 3/2010. (I. 28.) IRM rendelet 1. §-ával megállapított szöveg.

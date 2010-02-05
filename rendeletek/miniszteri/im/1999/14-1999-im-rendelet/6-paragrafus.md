@@ -1,4 +1,4 @@
-## 5. § Az országos tűzvédelmi vezetőnek felsőfokú tűzvédelmi és műszaki szakképesítéssel, a tűzvédelmi előadónak középfokú, a tűzvédelmi megbízottnak és a tűzvédelmi bizottság tagjának alapfokú tűzvédelmi képesítéssel kell rendelkeznie.
+## 5. §[^6] Az országos tűzvédelmi vezetőnek felsőfokú tűzvédelmi és műszaki szakképesítéssel, a bv. szerv tűzvédelmi vezetőjének, tűzvédelmi előadójának és tűzvédelmi megbízottjának középfokú tűzvédelmi képesítéssel kell rendelkeznie.
 
 ## Záró és hatályba léptető rendelkezések
 
@@ -10,7 +10,7 @@ a) a tűzvédelmi szabályzatok kötelező előírásainak,
 
 b) a tűzriadó tervnek,
 
-c) a létesítményi tűzoltóság kialakításának és működtetésének,
+c)[^7]
 
 d) a tűzesetekről szóló jelentéseknek,
 
@@ -33,3 +33,6 @@ l) a helyi szabályozások határidejének
 ## szabályait.
 
 (3) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+[^6]: Az 5. § a 3/2010. (I. 28.) IRM rendelet 4. §-ával megállapított szöveg.
+[^7]: A 6. § (2) bekezdés c) pontját a 3/2010. (I. 28.) IRM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
