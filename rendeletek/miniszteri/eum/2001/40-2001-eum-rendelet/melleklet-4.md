@@ -382,11 +382,11 @@
 
 | 184 | Opopanax chironium gyanta CAS-szám 93384-32-8 |  | 0,6% |  |  |
 
-| [185 | Toluol (CAS-szám 108-88-3; EK-szám 203-625-9) | Körömápolási termékek | 25% |  | Gyermekektől elzárva tartandó. Kizárólag felnőtteknél való alkalmazásra.] |
+| 185 | Toluol (CAS-szám 108-88-3; EK-szám 203-625-9) | Körömápolási termékek | 25% |  | Gyermekektől elzárva tartandó. Kizárólag felnőtteknél való alkalmazásra. |
 
 | 186 | Dietilén glikol (CAS-szám 111-46-6; EK-szám 203-872-2) 2,2’- oxidietanol | Nyomokban való jelenléte az összetevőkben | 0,1% |  |  |
 
-| 187 | Butoxidiglikol (CAS-szám: 112-34-5; EK-szám: 203-961-6) dietilén-glikol- monobutil-éter | Hajfestékek oldószereként | 9% | Aeroszolos flakonokban (spray) nem használható |  |
+| 187 | Butoxidiglikol (CAS-szám: 112-34-5; EK-szám: 203-961-6) dietilén-glikol-monobutil-éter | Hajfestékek oldószereként | 9% | Aeroszolos flakonokban (spray) nem használható |  |
 
 | 188 | Butoxietanol (CAS-szám 111-76-2; EK-szám 203-905-0) etilén-glikol-monobutil-éter | Oxidáló hajfestékek oldószereként | 4,0% | Aeroszolos flakonokban (spray) nem használható |  |
 
