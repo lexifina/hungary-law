@@ -1,28 +1,22 @@
-## Külön jogszabályokban foglalt jogosultságok megfeleltetése az Országos Képzési Jegyzékről szóló
-
-## 37/2003. (XII. 27.) OM rendelettel és az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe
-
-## történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendelettel kiadott
+## Külön jogszabályokban foglalt jogosultságok megfeleltetése az Országos Képzési Jegyzékről szóló 37/2003. (XII. 27.) OM rendelettel és az Országos Képzési Jegyzékről és az Országos Képzési Jegyzékbe történő felvétel és törlés eljárási rendjéről szóló 1/2006. (II. 17.) OM rendelettel kiadott
 
 ## Országos Képzési Jegyzékben szereplő szakképesítések között
 
 | Sor- szám | Szakképesítés 1/2006. (II. 17.) OM rendeletben szereplő adatai | A 37/2003. (XII. 27.) OM rendelet szerinti egyenértékű szakképesítés azonosító száma és megnevezése |
 
-| azonosító száma | megnevezése |
+|  | azonosító száma | megnevezése |
 
 | 1. | 61 | 582 | 01 | 0000 | 00 | 00 | Építési műszaki ellenőr I. | 71 5801 01 Építési műszaki ellenőr I. [Épület (É), Mélyépítés és mélyépítési műtárgyak (M), Építmény-épületgépészet (G), Építmény- és épületvillamosság (V) szakirány] |
 
-| 0100 | 52 | 01 | Részszakképesítés: Építési műszaki ellenőr II. | 53 5801 03 Építési műszaki ellenőr II. [Épület (É), Mélyépítés és mélyépítési műtárgyak (M), Építmény- épületgépészet (G), Építmény- és épületvillamosság (V) szakirány] |
+|  |  |  |  | 0100 | 52 | 01 | Részszakképesítés: Építési műszaki ellenőr II. | 53 5801 03 Építési műszaki ellenőr II. [Épület (É), Mélyépítés és mélyépítési műtárgyak (M), Építmény-épületgépészet (G), Építmény- és épületvillamosság (V) szakirány] |
 
 | 2. | 61 | 521 | 01 |  |  |  | Felvonó- és mozgólépcső ellenőr |  |
 
-| 0010 | 61 | 01 | Elágazás: Felvonóellenőr | 71 5483 01 Felvonó- és mozgólépcső- ellenőr (Felvonóellenőr szakirány) |
+|  |  |  |  | 0010 | 61 | 01 | Szakképesítés-elágazás: Felvonóellenőr | 71 5483 01 Felvonó- és mozgólépcső-ellenőr (Felvonóellenőr szakirány) |
 
-| 0010 | 61 | 02 | Elágazás: Mozgólépcső-ellenőr | 71 5483 01 Felvonó- és mozgólépcső- ellenőr (Mozgólépcső-ellenőr szakirány) |
+|  |  |  |  | 0010 | 61 | 02 | Szakképesítés-elágazás: Mozgólépcső-ellenőr | 71 5483 01 Felvonó- és mozgólépcső-ellenőr (Mozgólépcső-ellenőr szakirány) |
 
-| 3. | 33 | 814 | 01 | 0000 | 00 | 00 | Kéményvizsgáló | 33 7899 01 Kéményseprő és tüzeléstechnikai karbantartó |
-
-| 0100 | 31 | 01 | Részszakképesítés: Kéményseprő | 33 7899 01 Kéményseprő és tüzeléstechnikai karbantartó |
+| 3. | 33 | 814 | 01 | 0000 | 00 | 00 | Kéményseprő | 33 7899 01 Kéményseprő és tüzeléstechnikai karbantartó |
 
 6. melléklet a 3/2009. (I. 27.) NFGM rendelethez
 

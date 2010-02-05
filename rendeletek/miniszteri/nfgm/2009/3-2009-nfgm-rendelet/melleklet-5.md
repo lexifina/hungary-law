@@ -1,26 +1,20 @@
-## KÉMÉNYVIZSGÁLÓ SZAKKÉPESÍTÉS
-
-## SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI
+## KÉMÉNYSEPRŐ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI
 
 ## I.
 
-## Az Országos Képzési Jegyzékben szereplő adatok
+## AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
 
 ## 1. A szakképesítés azonosító száma: 33 814 01 0000 00 00
 
-## 2. A szakképesítés megnevezése: Kéményvizsgáló
+## 2. A szakképesítés megnevezése: Kéményseprő
 
 ## 3. Szakképesítések köre:
 
-## 3.1. Részszakképesítés
+## 3.1. Részszakképesítés: Nincs
 
-## Azonosítószám: 33 814 01 0100 31 01
+## 3.2. Szakképesítés-elágazások: Nincsenek
 
-## Megnevezés: Kéményseprő
-
-## 3.2. Elágazás: Nincs
-
-## 3.3. Ráépülés: Nincs
+## 3.3. Szakképesítés-ráépülés: Nincs
 
 ## 4. Hozzárendelt FEOR szám: 5351
 
@@ -28,17 +22,25 @@
 
 | Szakképesítés megnevezése | Szakképzési évfolyamok száma | Óraszám |
 
-| Kéményvizsgáló | 2 | 2000 |
+| Kéményseprő | 2 | 2000 |
 
 ## II.
 
-## Egyéb adatok
+## EGYÉB ADATOK
 
-## Szakképesítés megnevezése: Kéményvizsgáló
+## Szakképesítés megnevezése:
+
+## Kéményseprő
 
 ## 1. A képzés megkezdésének szükséges feltételei:
 
-## Bemeneti kompetenciák: A bemeneti kompetenciák felsorolását e rendelet 13. melléklete tartalmazza.
+## Bemeneti kompetenciák:
+
+## a képzés megkezdhető a gépészet szakmacsoportra jogszabály által meghatározott kompetenciák birtokában.
+
+## E kompetenciák megszerezhetőek a szakképzést előkészítő évfolyam keretében is.
+
+## Vagy
 
 ## Iskolai előképzettség: tizedik évfolyam elvégzésével tanúsított iskolai végzettség
 
@@ -56,51 +58,15 @@
 
 ## 3. Gyakorlat aránya: 70%
 
-## 4. Szakmai alapképzés (iskolai rendszerben): van
-
-## Időtartama (évben vagy félévben): 1 év
-
-## 5. Szintvizsga (iskolai rendszerben): nem szervezhető
+## 4. Szintvizsga (iskolai rendszerben): nem szervezhető
 
 ## Ha szervezhető, mikor: –
 
-## 6. Egészségügyi alkalmassági vizsgálat: szükséges
-
-## Részszakképesítés megnevezése: Kéményseprő
-
-## 1. A képzés megkezdésének szükséges feltételei:
-
-## Bemeneti kompetenciák: –
-
-## Iskolai előképzettség: nyolcadik évfolyam elvégzésével tanúsított alapfokú iskolai végzettség
-
-## Szakmai előképzettség: –
-
-## Előírt gyakorlat: –
-
-## Elérhető kreditek mennyisége: –
-
-## Pályaalkalmassági követelmények: nem szükségesek
-
-## Szakmai alkalmassági követelmények: nem szükségesek
-
-## 2. A képzés maximális időtartama: –
-
-## Szakképzési évfolyamok száma: –
-
-## Óraszám: 500
-
-## 3. Elmélet aránya: 30%
-
-## 4. Gyakorlat aránya: 70%
-
-## 5. Szakmai alapképzés időtartama (fogyatékossággal élők esetében, iskolai rendszerben): –
-
-## 6. Egészségügyi alkalmassági vizsgálat: szükséges
+## 5. Egészségügyi alkalmassági vizsgálat: szükséges
 
 ## III.
 
-## Munkaterület
+## MUNKATERÜLET
 
 ## 1. A szakképesítéssel legjellemzőbben betölthető munkakör, foglalkozás:
 
@@ -112,17 +78,17 @@
 
 ## 2. A szakképesítés munkaterületének rövid, jellemző leírása:
 
-## Megteremti az ellenőrzés feltételeit
+## Égéstermék-elvezetőt és tartozékokat ellenőriz és tisztít, valamint műszaki felülvizsgálatot végez
 
-## Égéstermék-elvezető berendezést és tartozékait tisztítja
+## Égéstermék-elvezetőnél és tartozékainál vizsgálatot és szaktanácsadást végez
 
-## Égéstermék-elvezető ellenőrzést és műszaki felülvizsgálatot végez (új készülék üzembe helyezésekor készülékcsere, illetve a készülék újra üzembe helyezésekor)
+## Égéstermék oldali tisztítást végez a tüzelőberendezésben
 
-## A megrendelőnek (felkérésre) méréseket végez
+## Tüzeléstechnikai műszeres mérést végez
 
-## Füstgázoldali tüzelőberendezést tisztít
+## Adminisztrációs tevékenységet folytat, szakmai nyilatkozatot készít
 
-## Adminisztrációs tevékenységet folytat, kapcsolatot tart a szolgáltatás érdekeltjeivel
+## Kapcsolatot tart a szolgáltatásban érintettekkel
 
 ## 3. A szakképesítéssel rokon szakképesítések:
 
@@ -130,65 +96,81 @@
 
 | azonosító száma | megnevezése |
 
-| 31 522 03 0000 00 00 | Légtechnikai rendszerszerelő |
+| – | – |
 
 ## IV.
 
-## Szakmai követelmények
+## SZAKMAI KÖVETELMÉNYEK
 
 ## A szakmai követelménymodulok felsorolása:
 
 ## A szakmai követelménymodul azonosítója és megnevezése:
 
-## 0055–06 Kémény tisztítása
+## 2588-09
+
+## Égéstermék-elvezető műszaki felülvizsgálata, ellenőrzése és tisztítása
 
 ## A szakmai követelménymodul tartalma:
 
 ## Feladatprofil:
 
+## Előzetes értesítési kötelezettségének eleget tesz
+
 ## Kiszáll a helyszínre
 
 ## Felveszi a kapcsolatot a tulajdonossal, a megrendelővel
 
-## Kívülről szemrevételezi az égéstermék-elvezetőt
+## Beazonosítja az égéstermék-elvezetőt és tartozékait az alsó-, felső tisztítás, és az üzemeltetés szintjén, valamint a nyomvonala mentén
 
-## Belülről szemrevételezi az égéstermék-elvezetőt
+## Szemrevételezi az égéstermék-elvezetőt, tartozékait és annak környezetét a teljes nyomvonalon
 
-## Meggyőződik az égéstermék-elvezető tisztíthatóságáról (pl. a tisztítóajtó meglétéről)
+## Megállapítja az égéstermék-elvezetőnek és tartozékainak ellenőrizhetőségét, tisztíthatóságát, a tisztítás szükségességét
 
-## Elhárítja a dugulást szabványszerszámmal
+## Előkészíti az égéstermék-elvezetőt és tartozékait a tisztításra
 
-## Égéstermék-elvezető tisztítást végez
+## Kiválasztja a tisztítás módját és a megfelelő szerszámokat
 
-## Szükség szerint kéményégetést végez, amennyiben a feltételek adottak
+## Elvégzi a tisztítást mechanikus módon
 
-## Eloltja a kéménytüzet
+## Meghatározza a tisztítással nem megszüntethető dugulás, szűkület helyét
 
-## Füstcsatornából eltávolítja a kormot
+## Szükség szerint kiégeti az égéstermék-elvezetőt, amennyiben a feltételek adottak, majd tisztítást végez
 
-## Kiszedi a koromzsákból a kormot a tulajdonos által biztosított edénybe
+## Kiszedi a koromzsákból a lesepert égésterméket és egyéb hulladékot
 
-## Meglévő tetőrajzot ellenőriz
+## Építész- és gépész tervet olvas
 
-## Ellenőrzi a nyomvonalat
+## Tetőrajzot készít
 
-## Szakszerszámmal (pl. tükör, körkefés golyóskészülék) ellenőrzi az égéstermék-elvezető átjárhatóságát
+## Ellenőrzi az égéstermék-elvezető átjárhatóságát
 
-## Infravörös kamerával feltárja az égéstermék-elvezető esetleges hibáit (pl. dugulás meghatározása)
+## Ellenőrzi az égéstermék maradéktalan eltávozását
 
-## Műszerrel vagy páralemezzel vizsgálja az égéstermék maradéktalan eltávozását
+## Ellenőrzi szemrevételezéssel az égési levegő utánpótlásának lehetőségét
 
-## Mérőszalaggal ellenőrzi az égéstermék-elvezető méreteit
+## Feltárja szemrevételezéssel a hibákat, szabálytalanságokat
 
-## Koromtalanítást végez kéziszerszámmal (pl. csőkefével)
+## Rögzíti az égéstermék-elvezető adatait
 
-## Koromtalanítást végez gépi szerszámmal (pl. csiszológéppel)
+## Megvizsgálja az égéstermék-elvezető tömörségét
 
-## Koromtalanítást végez vegyszeres úton
+## Megállapítja az égéstermék-elvezető hőterhelését
 
-## Előzetes értesítést küld az ellenőrzés, munkavégzés időpontjáról
+## Szükség esetén hőmérsékletet (külső, belső, égéstermék) és huzatot mér
 
-## Munkaigazoltatást vagy készpénzes beszedést végez
+## Méri az égéstermék szén-monoxid tartalmát
+
+## Rögzíti az égéstermék-elvezetőre csatlakoztatott tüzelőberendezések adatait, az alkalmazott tüzelőanyag paramétereit
+
+## Az új égéstermék-elvezetőt nyilvántartásba veszi
+
+## Rögzíti az észlelt hibákat, szabálytalanságokat
+
+## Az észlelt hibákról, szabálytalanságokról írásban tájékoztatja az ingatlan használóját, tulajdonosát
+
+## Betartja a munka-, tűz-, környezetvédelmi előírásokat, használja a munkavédelmi eszközöket
+
+## Elvégzi a munkavégzéssel járó adminisztrációt, szükség szerint számlát készít, pénzt kezel
 
 ## Tulajdonságprofil:
 
@@ -198,49 +180,51 @@
 
 ## B Anyagismeret
 
-## C Fizika (hőtan)
+## C Fizika (hő- és áramlástechnika)
 
-## A Tüzeléstechnikai szabványok
+## A Vonatkozó jogszabályok, műszaki előírások
 
-## A Szakmai számítások (kéményméretezés, áramlástechnika)
+## A Vonatkozó szabványok
 
-## B Építészeti alapismeretek
+## A Szakmai számítások
 
-## B Műszerek működése
+## C Építészeti alapismeretek
 
-## C Műszaki rajz, szakrajz
+## C Műszaki rajz, szakrajz olvasása
+
+## A Égéstermék-elvezetők, kialakítások, típusok
 
 ## A Munkabiztonság, tűz- és környezetvédelem
 
-## A Tüzeléstechnikai berendezések (fajtái, szerkezetük, működésük)
+## C Tüzelőberendezések
 
-## A Szakmai szerszámok alkalmazási, karbantartási lehetőségei
+## A Szerszámok ismerete, alkalmazása, karbantartása
 
-## B Műszerek alkalmazási lehetőségei
+## B Műszerek, alkalmazási lehetőségei és karbantartásuk
+
+## B Tüzeléstechnika
+
+## C Szakmai és pénzügyi adminisztráció
 
 ## A szint megjelölésével a szakmai készségek:
 
-## 3 Olvasott szöveg megértése
+## 3 Olvasott köznyelvi szöveg megértése
 
-## 3 Hallott szöveg megértése
+## 3 Olvasott szakmai szöveg megértése
 
-## 3 Rajzi készségek, képességek
+## 3 Köznyelvi szöveg hallás utáni megértése
 
-## 3 Képi jellegű, ábrázoló műszaki rajz olvasása, értelmezése
+## 3 Szakmai nyelvű, hallott szöveg megértése
+
+## 4 Képi jellegű, ábrázoló műszaki rajz olvasása, értelmezése
 
 ## 3 Szabadkézi rajzolás
 
 ## 3 Elemi számolási készség
 
-## 3 Mennyiségérzék
-
-## 4 Tájékozódás
-
-## 4 Térérzékelés
-
 ## 4 Komplex eszközhasználat
 
-## 4 A szakmában elterjedt és szabványos kézi kéményseprő szerszámok (pl. csőkefe, körkefés golyóskészülék stb.) használata
+## 4 A tisztításhoz, ellenőrzéshez szükséges szerszámok, eszközök célirányos kiválasztása és használata
 
 ## 4 A szakmában általánosan használt gépi eszközök alkalmazása
 
@@ -248,7 +232,9 @@
 
 ## Személyes kompetenciák:
 
-## Rugalmasság
+## Rugalmasság (tolerancia)
+
+## Problémamegoldó készség
 
 ## Kockázatvállalás
 
@@ -258,6 +244,8 @@
 
 ## Látás
 
+## Hallás
+
 ## Erős fizikum
 
 ## Egyensúlyérzékelés
@@ -265,6 +253,12 @@
 ## Önállóság
 
 ## Állóképesség
+
+## Mennyiségérzék
+
+## Tájékozódás
+
+## Térérzékelés
 
 ## Társas kompetenciák:
 
@@ -276,79 +270,59 @@
 
 ## Irányíthatóság
 
+## Kommunikációkészség
+
 ## Módszerkompetenciák:
 
 ## Ismeretek helyén való alkalmazása
 
 ## A szakmai követelménymodul azonosítója és megnevezése:
 
-## 0056–06 Kémény ellenőrzése
+## 2589-09
+
+## Tüzelő-, és légtechnikai berendezések ellenőrzése, tisztítása, vizsgálata
 
 ## A szakmai követelménymodul tartalma:
 
 ## Feladatprofil:
 
-## Meggyőződik az égéstermék-elvezető ellenőrizhetőségéről
+## Előkészíti a tüzelőberendezést az égéstermék oldali tisztításhoz
 
-## Ellenőrzi az égéstermék-elvezető építés folyamatát
+## Az égéstermék oldali tisztításhoz kiválasztja annak módját és a megfelelő szerszámokat, eszközöket
 
-## Tetőrajzot készít
+## A tüzelőberendezésből eltávolítja a lerakódott égésterméket
 
-## Terhelési vázlatot készít
+## Zárja a tüzelőberendezés tisztítónyílásait
 
-## Ellenőrzi az égéstermék-elvezető és a tüzelőberendezés összhangját
+## Tájékoztatja a megrendelőt a tüzelőberendezésen észlelt hibákról
 
-## Tűzvédelmi ellenőrzést végez
+## Kialakítja a tüzeléstechnikai mérés feltételeit
 
-## Műszerrel megméri a gáztömörséget
+## Tüzeléstechnikai műszeres mérést végez
 
-## Huzatmérést végez
+## Elemzi a mért értékeket
 
-## Kamerás égéstermék-elvezető vizsgálatot végez
+## Az elemzés eredményéről tájékoztatja a megrendelőt
 
-## Méri, kiszámítja a tüzelőberendezés hatásfokát
+## Szemrevételezi a légtechnikai berendezést és annak környezetét a teljes nyomvonalon
 
-## Megméri az égéstermék hőmérsékletét, elemzi az összetételét
+## Megállapítja a légtechnikai berendezés ellenőrizhetőségét, tisztíthatóságát
 
-## Szabvány szerint ellenőrző méréseket végez
+## Előkészíti a légtechnikai berendezést a tisztítási munka elvégzésére
 
-## A mérési eredmények ismeretében tüzeléstechnikai tanácsokat ad (energiamegtakarítás, környezetvédelem terén)
+## Kiválasztja az adott rendszerhez szükséges technológiát és szerszámokat
 
-## Szemrevételezi a kazán állapotát (pl. korrózió vizsgálata)
+## Elvégzi a légtechnikai berendezés tisztítását
 
-## Nyilvántartásba veszi a panaszokat, észrevételeket
+## Összegyűjti, és az előírásoknak megfelelően ártalmatlanítja a szennyeződést
 
-## Nyilvántartásba veszi a megrendeléseket (pl. ellenőrzés, új kémény üzembe helyezés stb.)
+## Visszaállítja a légtechnikai berendezés eredeti állapotát
 
-## Vezeti a sormunka könyvet
+## A tisztítás után méréseket végez
 
-## Folyamatosan tartja a kapcsolatot a tervezővel, a kivitelezővel, a szakhatóságokkal és a gázszolgáltatóval
+## Tájékoztatja a megrendelőt a légtechnikai berendezésen észlelt hibákról, valamint a mérések eredményéről
 
-## Szakvéleményt, megfelelőségi tanúsítványt vagy hibajegyzéket készít
-
-## Kiszáll a helyszínre
-
-## Felveszi a kapcsolatot a tulajdonossal, a megrendelővel
-
-## Kívülről szemrevételezi az égéstermék-elvezetőt
-
-## Belülről szemrevételezi az égéstermék-elvezetőt
-
-## Meggyőződik az égéstermék-elvezető tisztíthatóságáról (pl. a tisztítóajtó meglétéről)
-
-## Elhárítja a dugulást szabványszerszámmal
-
-## Égéstermék-elvezető tísztítást végez
-
-## Füstcsatornából eltávolítja a kormot
-
-## Műszerrel vagy páralemezzel vizsgálja az égéstermék maradéktalan eltávozását
-
-## Koromtalanítást végez kéziszerszámmal (pl. csőkefével)
-
-## Koromtalanítást végez gépi szerszámmal (pl. csiszológéppel)
-
-## Koromtalanítást végez vegyszeres úton
+## Betartja a munka-, tűz-, környezetvédelmi előírásokat, használja a munkavédelmi eszközöket
 
 ## Tulajdonságprofil:
 
@@ -358,33 +332,41 @@
 
 ## B Anyagismeret
 
-## C Fizika (hőtan)
+## B Fizika (hő és áramlástechnika)
 
-## A Tüzeléstechnikai szabványok
+## A Tüzeléstechnika
 
-## A Szakmai számítások (kéményméretezés, áramlástechnika)
+## B Légtechnika
 
-## B Építészeti alapismeretek
+## B Szakmai számítások
 
-## B Műszerek működése
+## B Gépészeti alapismeretek
 
 ## C Műszaki rajz, szakrajz
 
-## A Munkabiztonság, tűz- és környezetvédelemi ismeretek
+## C Vonatkozó jogszabályok
 
-## A Tüzeléstechnikai berendezések (fajtái, szerkezetük, működésük)
+## C Vonatkozó szabványok, műszaki előírások
 
-## A Szakmai szerszámok alkalmazása, karbantartása
+## A Munkabiztonság, tűz- és környezetvédelem
 
-## B Műszerek alkalmazási lehetőségei
+## A Tüzelőberendezések (fajtái, szerkezetük, működésük)
+
+## B Légtechnikai berendezések (fajtái, szerkezetük, működésük)
+
+## A Szerszámok ismerete alkalmazása, karbantartása
+
+## B Műszerek alkalmazási karbantartási lehetőségei
 
 ## A szint megjelölésével a szakmai készségek:
 
-## 3 Olvasott szöveg megértése
+## 3 Olvasott köznyelvi szöveg megértése
 
-## 3 Hallott szöveg megértése
+## 3 Olvasott szakmai szöveg megértése
 
-## 3 Rajzi készségek, képességek
+## 3 Köznyelvi szöveg hallás utáni megértése
+
+## 3 Szakmai nyelvű, hallott szöveg megértése
 
 ## 3 Képi jellegű, ábrázoló műszaki rajz olvasása, értelmezése
 
@@ -392,21 +374,13 @@
 
 ## 3 Elemi számolási készség
 
-## 3 Mennyiségérzék
-
-## 4 Tájékozódás
-
-## 4 Térérzékelés
-
 ## 4 Komplex eszközhasználat
 
-## 4 A szakmában elterjedt és szabványos kézi kéményseprő szerszámok (pl. csőkefe, körkefe golyóskészülék stb.) használata
-
-## 4 A szakmában általánosan használt gépi eszközök használata
+## 4 A szakmában általános gépi eszközök használata
 
 ## Személyes kompetenciák:
 
-## Rugalmasság
+## Rugalmasság (tolerancia)
 
 ## Kockázatvállalás
 
@@ -416,6 +390,8 @@
 
 ## Látás
 
+## Hallás
+
 ## Erős fizikum
 
 ## Egyensúlyérzékelés
@@ -424,13 +400,19 @@
 
 ## Állóképesség
 
+## Mennyiségérzék
+
+## Tájékozódás
+
+## Térérzékelés
+
 ## Társas kompetenciák:
 
 ## Kapcsolatfenntartó készség
 
 ## Kapcsolatteremtő készség
 
-## Tömör fogalmazás készség
+## Tömör fogalmazás készsége
 
 ## Határozottság
 
@@ -438,55 +420,59 @@
 
 ## Meggyőzőkészség
 
+## Kommunikációs készség
+
 ## Módszerkompetenciák:
 
 ## Ismeretek helyén való alkalmazása
 
-| A 33 814 01 0000 00 00 azonosító számú, Kéményvizsgáló megnevezésű szakképesítés szakmai követelménymoduljainak |
+| A 33 814 01 0000 00 00 azonosító számú, Kéményseprő megnevezésű szakképesítés szakmai követelménymoduljainak |
 
 | azonosítója | megnevezése |
 
-| 0055–06 | Kémény tisztítása |
+| 2588-09 | Égéstermék-elvezető műszaki felülvizsgálata, ellenőrzése és tisztítása |
 
-| 0056–06 | Kémény ellenőrzése |
-
-| A 33 814 01 0100 31 01 azonosító számú, Kéményseprő megnevezésű részszakképesítés szakmai követelménymoduljainak |
-
-| azonosítója | megnevezése |
-
-| 0055–06 | Kémény tisztítása |
+| 2589-09 | Tüzelő- és légtechnikai berendezések ellenőrzése, tisztítása, vizsgálata |
 
 ## V.
 
-## Vizsgáztatási követelmények
+## VIZSGÁZTATÁSI KÖVETELMÉNYEK
 
-## 1. A szakmai vizsgára bocsátás feltételei
+## 1. A szakmai vizsgára bocsátás feltételei
 
 ## Modulzáró vizsga eredményes letétele.
 
-## Iskolai rendszerben is oktatható szakképesítés esetén:
+## Iskolai rendszerű szakképzés esetén: Az utolsó szakképző évfolyam eredményes elvégzése, amely egyenértékű a modulzáró vizsga eredményes letételével.
 
-## Az utolsó szakképző évfolyam eredményes elvégzése, amely egyenértékű a modulzáró vizsga eredményes letételével.
-
-## 2. A szakmai vizsga részei
+## 2. A szakmai vizsga részei
 
 ## 1. vizsgarész
 
 ## A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
 
-## 0055–06 Kémény tisztítása
+## 2588-09
+
+## Égéstermék-elvezető műszaki felülvizsgálata, ellenőrzése és tisztítása
 
 ## A hozzárendelt 1. vizsgafeladat:
 
-## A kémény megközelítése, kémény átvizsgálása, kitisztítása, dugulások elhárítása, jegyzőkönyvek elkészítése
+## Az égéstermék-elvezető megközelítése, átvizsgálása, kitisztítása, égéstermék maradéktalan eltávozásának ellenőrzése, égési levegő utánpótlás ellenőrzése, szén-monoxid mérés, égéstermék-elvezető szivárgási érték vizsgálat, szükséges adminisztráció elkészítése
 
 ## A hozzárendelt jellemző vizsgatevékenység: gyakorlati
 
-## Időtartama: 120 perc
+## Időtartama: 60 perc
 
 ## A hozzárendelt 2. vizsgafeladat:
 
-## A kémény műszaki paraméterei, típusai és a kéményre vonatkozó környezetvédelmi és munkabiztonsági előírások
+## Szakrajz, szakmai számítások, anyagismeret, hő- és áramlástechnika, jogszabályok, szabványok, műszaki előírások
+
+## A hozzárendelt jellemző vizsgatevékenység: írásbeli
+
+## Időtartama: 120 perc
+
+## A hozzárendelt 3. vizsgafeladat:
+
+## Az égéstermék-elvezető kialakításai, típusai, a vonatkozó munkabiztonsági, tűz-, és környezetvédelmi előírások
 
 ## A hozzárendelt jellemző vizsgatevékenység: szóbeli
 
@@ -494,130 +480,146 @@
 
 ## A vizsgarészben az egyes feladatok aránya:
 
-## 1. feladat: 70%
+## 1. feladat: 50%
 
 ## 2. feladat: 30%
+
+## 3. feladat: 20%
 
 ## 2. vizsgarész
 
 ## A hozzárendelt szakmai követelménymodul azonosítója és megnevezése:
 
-## 0056–06 Kémény ellenőrzése
+## 2589-09
+
+## Tüzelő-, és légtechnikai berendezések ellenőrzése, tisztítása, vizsgálata
 
 ## A hozzárendelt 1. vizsgafeladat:
 
-## Tüzelőberendezés hatásfoka, kémény méretezése (számítások)
-
-## A hozzárendelt jellemző vizsgatevékenység: írásbeli
-
-## Időtartama: 180 perc
-
-## A hozzárendelt 2. vizsgafeladat:
-
-## Kémény tömítésének és átjárhatóságának ellenőrzése mérőszerszámokkal, mérőeszközökkel
+## Tüzelőberendezések tüzeléstechnikai mérése, tisztítása, légtechnikai berendezések ellenőrzése, tisztítása, vizsgálata
 
 ## A hozzárendelt jellemző vizsgatevékenység: gyakorlati
 
-## Időtartama: 120 perc
+## Időtartama: 60 perc
+
+## A hozzárendelt 2. vizsgafeladat:
+
+## Tüzelőberendezés hatásfoka, hőterhelés meghatározása, áramló közeg mennyiségének meghatározása és mértékegységek átszámítása
+
+## A hozzárendelt jellemző vizsgatevékenység: írásbeli
+
+## Időtartama: 60 perc
+
+## A hozzárendelt 3. vizsgafeladat:
+
+## Tüzelő- és légtechnikai berendezések fajtái, szerkezetük, működésük, a vonatkozó munkabiztonsági, tűz- és környezetvédelmi előírások
+
+## A hozzárendelt jellemző vizsgatevékenység: szóbeli
+
+## Időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
 
 ## A vizsgarészben az egyes feladatok aránya:
 
 ## 1. feladat: 50%
 
-## 2. feladat: 50%
+## 2. feladat: 30%
 
-## 3. A szakmai vizsga értékelése%-osan
+## 3. feladat: 20%
 
-## A 33 814 01 0000 00 00 azonosító számú, Kéményvizsgáló szakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében
+## 3. A szakmai vizsga értékelése %-osan
 
-## 1. vizsgarész: 40%
+## A 33 814 01 0000 00 00 azonosító számú, Kéményseprő szakképesítéshez rendelt vizsgarészek, és ezek súlya a vizsga egészében
 
-## 2. vizsgarész: 60%
+## 1. vizsgarész: 70%
 
-## A 33 814 01 0100 31 01 azonosító számú, Kéményseprő megnevezésű részszakképesítéshez rendelt vizsgarészek és ezek súlya a vizsga egészében
+## 2. vizsgarész: 30%
 
-## 1. vizsgarész: 100%
-
-## 4. A szakmai vizsgarészek alóli felmentés feltételei:
+## 4. A szakmai vizsgarészek alóli felmentés feltételei:
 
 ## A szakképesítéshez rendelt vizsgarészek valamelyikének korábbi teljesítése
 
-## 5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+## 5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
 ## VI.
 
-## Eszköz- és felszerelési jegyzék
+## ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
-| A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések minimuma | Kémény- vizsgáló | Kéményseprő |
+| A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések minimuma | Kéményseprő |
 
-| Tömörségvizsgáló | X |  |
+| Szivárgási érték vizsgáló berendezés | X |
 
-| Kézikefe | X | X |
+| Kézi kefe | X |
 
-| Mechanikus füstnyomás mérő készülék | X | X |
+| Mechanikus füstnyomás mérő készülék | X |
 
-| Kéménymérce | X |  |
+| Kéménymérce | X |
 
-| Körkefés golyóskészülék | X | X |
+| Körkefés golyós készülék | X |
 
-| Rugós aparát | X | X |
+| Rugós tisztítószerszám | X |
 
-| Fibriszfejes aparát | X | X |
+| Fibriszfejes tisztítószerszám | X |
 
-| Visszaáramlás jelző | X |  |
+| Visszaáramlás érzékelő | X |
 
-| Kéménykulcs | X | X |
+| Kéménykulcs | X |
 
-| Kaparóvas | X | X |
+| Kaparóvas | X |
 
-| Égetőkanna | X | X |
+| Égetőkanna, gázolaj | X |
 
-| Kötél | X | X |
+| Kötél kéménycsigával | X |
 
-| Központi acélszálas kefefej | X | X |
+| Központi acélszálas kefefej, pum kefe | X |
 
-| Brigond | X | X |
+| Tüzeléstechnikai mérőműszer | X |
 
-| Hideg füstpatron | X | X |
+| Füstpatron | X |
 
-| Gázolaj | X | X |
+| Áramlási sebesség mérő | X |
 
-| Dugulásjelző készülék | X | X |
+| Dugulásjelző készülék | X |
 
-| Huzatmérő | X |  |
+| Huzatmérő | X |
 
-| Ferdecsöves huzatmérő | X |  |
+| Műanyag kefefej | X |
 
-| Műanyag kefefej | X | X |
+| Légnyomás mérő | X |
 
-| Légnyomás mérő | X |  |
+| Kéményvizsgáló kamera | X |
 
-| Kéményvizsgáló kamera | X |  |
+| Bekötést lezáró dugók | X |
 
-| Ellenőrző tükör, páralemez | X | X |
+| Hőálló védőkesztyű | X |
 
-| Füstgáz elemző műszer | X |  |
+| Szájkendő | X |
 
-| Gumidugó | X |  |
+| Fejvédő (kapin) | X |
 
-| Védőfelszerelések |
+| Gumitalpú bakancs | X |
 
-| Azbeszt kesztyű | X | X |
+| Védő szemüveg | X |
 
-| Szájkendő | X | X |
+| Munkavédelmi kesztyű | X |
 
-| Fejvédő (kapin) | X | X |
+| Formaruha | X |
 
-| Gumitalpú bakancs | X | X |
+| Védőruha | X |
 
-| Védő szemüveg | X | X |
+| Beülős heveder | X |
 
-| Munkavédelmi kesztyű | X | X |
+| Munkavédelmi sisak | X |
 
-| Formaruha | X | X |
+| Porálarc | X |
 
-| Beülős heveder | X | X |
+| Munkaöv | X |
 
-| Munkavédelmi sisak | X | X |
+## VII.
 
-5. melléklet a 3/2009. (I. 27.) NFGM rendelethez
+## EGYEBEK
+
+## Iskolai rendszerű képzéseknél az összefüggő szakmai gyakorlat javasolt időtartama 90 óra.
+
+5. melléklet a 3/2009. (I. 27.) NFGM rendelethez[^9]
+
+[^9]: Az 5. melléklet a 8/2010. (I. 21.) NFGM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a rendelkezést a 2010. február 5. napját követően indított szakképzésekre kell alkalmazni.

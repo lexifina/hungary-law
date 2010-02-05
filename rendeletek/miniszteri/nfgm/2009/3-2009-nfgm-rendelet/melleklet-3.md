@@ -786,7 +786,7 @@
 
 | 1503–06 | Építési műszaki ellenőri feladatok II. |
 
-| A 61 582 01 0000 00 00 azonosító számú, Építési műszaki ellenőr II. megnevezésű szakképesítés szakmai követelménymoduljainak |
+| A 61 582 01 0100 52 01 azonosító számú, Építési műszaki ellenőr II. megnevezésű részszakképesítés szakmai követelménymoduljainak |
 
 | azonosítója | megnevezése |
 

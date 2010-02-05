@@ -1256,4 +1256,6 @@
 
 ## A vizsgabizottság egy tagját a Magyar Mérnöki Kamara delegálja. A vizsgaszervező intézmény a vizsga szakterületének figyelembevételével kéri fel az illetékes szakmai kamarát vizsgabizottsági tag kijelölésére.
 
-4. melléklet a 3/2009. (I. 27.) NFGM rendelethez
+4. melléklet a 3/2009. (I. 27.) NFGM rendelethez[^8]
+
+[^8]: A 4. melléklet a 8/2010. (I. 21.) NFGM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a rendelkezést a 2010. február 5. napját követően indított szakképzésekre kell alkalmazni.

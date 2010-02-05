@@ -10,12 +10,12 @@
 
 | 2. | 61 | 521 | 01 |  |  |  | Felvonó- és mozgólépcső ellenőr |
 
-| 0010 | 61 | 01 | Elágazás: Felvonóellenőr |
+| 0010 | 61 | 01 | Szakképesítés-elágazás: Felvonóellenőr |
 
-| 0010 | 61 | 02 | Elágazás: Mozgólépcső ellenőr |
+| 0010 | 61 | 02 | Szakképesítés-elágazás: Mozgólépcső ellenőr |
 
-| 3. | 33 | 814 | 01 | 0000 | 00 | 00 | Kéményvizsgáló |
+| 3. | 33 | 814 | 01 | 0000 | 00 | 00 | Kéményseprő |
 
-| 0100 | 31 | 01 | Részszakképesítés: Kéményseprő |
+2. melléklet a 3/2009. (I. 27.) NFGM rendelethez[^7]
 
-2. melléklet a 3/2009. (I. 27.) NFGM rendelethez
+[^7]: A 2. melléklet a 8/2010. (I. 21.) NFGM rendelet 3. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (2) bekezdése alapján a rendelkezést a 2010. február 5. napját követően indított szakképzésekre kell alkalmazni.
