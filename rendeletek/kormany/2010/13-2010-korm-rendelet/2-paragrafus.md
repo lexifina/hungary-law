@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Mongólia Kormánya között pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
