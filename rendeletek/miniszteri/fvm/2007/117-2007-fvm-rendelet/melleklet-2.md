@@ -1,55 +1,33 @@
-2. számú melléklet a 117/2007. (X. 10.) FVM rendelethez
+2. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^12]
 
-KIFIZETÉSI KÉRELEM
+Kifizetési kérelem adattartalma
 
-a 117/2007. (X. 10.) FVM rendelet alapján egyes növényegészségügyi
+– Benyújtó adatai
 
-vizsgálatok költségeinek támogatásához
+– Ügyfélregisztrációs száma;
 
-Benyújtó: Mezőgazdasági Szakigazgatási Hivatal Központja
+– Az MgSzH elnökének igazolása, hogy a 117/2007. (X. 10.) FVM rendelet alapján tárgyhónapban az MgSzH területi szervei által elvégzett szántóföldi, kertészeti, engedélyes faiskolai és erdészeti vetőmagtermesztésre és szaporítóanyag-előállításra használt területek növényegészségügyi vizsgálatok alapján mely költségek merültek fel;
 
-Székhelye: 1024 Budapest, Keleti Károly u. 24.
+– Tárgyhónap megjelölése;
 
-Ügyfélregisztrációs száma:  ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+– A támogatott növényegészségügyi szolgáltatást igénybe vevő:
 
-Alulírott .................................. az MgSzH elnöke igazolom, hogy a 117/2007. (X. 10.) FVM rendelet alapján tárgyhónapban az MgSzH területi szervei által elvégzett szántóföldi, kertészeti, engedélyes faiskolai és erdészeti vetőmagtermesztésre és szaporítóanyag-előállításra használt területek növényegészségügyi vizsgálatok alapján az alábbi költségei merültek fel:
+– nevének,
 
-Tárgyhónap: ........... év .......................................... hónap
+– ügyfélregisztrációs számának,
 
-| Sorszám | A támogatott növényegészségügyi szolgáltatást igénybe vevő | Az MgSzH által kiállított számla száma | A számlán szereplő támogatható nettó érték (Ft) | Igényelt összeg (a támogatható költségek 80%-a) (Ft) |
+– mikro-, kis- vagy középvállalkozás feltüntetése;
 
-| neve | ügyfélregisztrációs száma | KKV- státusza* |
+– Az MgSzH által kiállított számla számának megjelölése;
 
-| 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+– A számlán szereplő támogatható nettó érték forintban;
 
-| 2. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+– Igényelt összeg (a támogatható költségek 80%-a) forintban;
 
-| 3. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+– Az igényelt támogatás összege forintban;
 
-| 4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+– Keltezés, aláírás;
 
-| 5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+– Melléklet: az elvégzett szolgáltatásokról kiállított számlák másolatai.
 
-| 6. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 7. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 8. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 9. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Mindösszesen: |
-
-* 1 mikro; 2 kis; 3 közép, a megfelelő kódszámot kell beírni.
-
-Az igényelt támogatás összege: ................................................. Ft.
-
-Budapest, ......... év ............................... hó ............ nap
-
-............................................................
-
-MgSzH elnöke
-
-Melléklet:
-
-Az elvégzett szolgáltatásokról kiállított számlák másolatai.
+[^12]: A 2. számú melléklet a 8/2010. (II. 4.) FVM rendelet 3. § (6) bekezdésével megállapított szöveg.
