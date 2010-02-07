@@ -1,111 +1,83 @@
-## ÖSSZESÍTŐ
+## Összesítő adattartalma
 
 ## az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján elvégzett állat-egészségügyi szolgáltatásokról
 
-## I. Az állat-egészségügyi szolgáltatást végző engedélyes adatai
+## I.
 
-## Neve:
+## Az állat-egészségügyi szolgáltatást végző engedélyes adatai
 
-## Székhelye:
+## – Ügyfél-regisztrációs száma;
 
-## Ügyfél-regisztrációs száma:
+## II.
 
-## II. Az elvégzett állat-egészségügyi szolgáltatások részletezése
+## Az elvégzett állat-egészségügyi szolgáltatások részletezése
 
-## Tárgyidőszak: ......... év .............................. hónap
+## – Tárgyidőszak megjelölése;
 
-## Állatfaj*: Baromfi
+## – Állatfaj*: (Baromfi, Egyéb) megjelölése
 
-## Egyéb
+## Az összesítőn csak egy állatfajra vonatkozó számlák nyújthatók be.
 
-## * A megfelelőt kérjük X-szel jelölni. Az összesítőn csak egy állatfajra vonatkozó számlák nyújthatók be.
+## III.
 
-| Sorszám | A kedvezményezett | Az elvégzett szolgáltatás 1. melléklet szerinti technikai kódja | A kiállított számla száma | A számlán feltüntetett támogatható nettó költség (Ft) |
+## – A kedvezményezett neve, regisztrációs száma;
 
-| neve | regisztrációs száma | kkv státusa* | jogosultságát megállapító MgSzH igazolás száma |
+## – Mikro-, kis- vagy középvállalkozás megjelölése;
 
-| 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## – Jogosultságát megállapító MgSzH igazolás száma;
 
-| 2. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## – Az elvégzett szolgáltatás 1. számú melléklet szerinti technikai kódja;
 
-| 3. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## – A kiállított számla száma;
 
-| 4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## – A számlán feltüntetett támogatható nettó költség.
 
-| 5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## IV.
 
-| 6. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## Igényelt támogatás összege forintban
 
-| 7. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## V.
 
-| 8. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## Nyilatkozat:
 
-| Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## Az állat-egészségügyi hatóság és/vagy a Magyar Állatorvosi Kamara engedélyével, illetve a 148/2007. (XII. 8.) FVM rendelet 1. számú melléklet szerinti állat-egészségügyi szolgáltatás elvégzésére engedéllyel, laboratórium esetében akkreditációval, vagy jogszabályi felhatalmazással való rendelkezésről
 
-## * 1 mikro-; 2 kis-; 3 középvállalkozás – a megfelelő kódszámot kell beírni.
+## V.
 
-## III. Igényelt támogatás összege ................................................................................ Ft
+## Keltezés, a támogatott állat-egészségügyi szolgáltatást végző engedélyes aláírása
 
-## azaz ..................................................................................................................... forint.
+## VI.
 
-## IV. Nyilatkozat:
+## Mellékletek: számlamásolatok
 
-## Nyilatkozom, hogy az illetékes állat-egészségügyi hatóság és/vagy a Magyar Állatorvosi Kamara engedélyével, illetve a 148/2007. (XII. 8.) FVM rendelet 1. számú melléklet szerinti állat-egészségügyi szolgáltatás elvégzésére engedéllyel, laboratórium esetében akkreditációval vagy jogszabályi felhatalmazással rendelkezem (a vonatkozó rész aláhúzandó).
+## VII.
 
-## Kelt: .............................................., .............. év ...................... hónap ........... nap
+## A megyei MgSzH igazolása
 
-## ..............................................................................
+## Az összesítőben megjelölt engedélyes által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a jogosult támogatási összeg megjelöléséről.
 
-## a támogatott állat-egészségügyi szolgáltatást
+## VIII.
 
-## végző engedélyes
+## Keltezés, az igazgató főállatorvos (cégszerű) aláírása
 
-## Mellékletek: ........ db számlamásolat
+4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^27]
 
-## IV. A megyei MgSzH igazolása
-
-## ................................................... Megyei MgSzH
-
-## Iktatószám: ......................................
-
-## Igazolom, hogy az összesítő I. pontjában megjelölt engedélyes az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételeket teljesítette, és
-
-## a) ....................... Ft, azaz  ...................................................... .......................... Ft támogatási összegre jogosult.
-
-## b) ....................... Ft, azaz ................................................................... Ft támogatási összegre
-
-## .................................................................................................. miatt nem jogosult.
-
-## Kelt: .............................................., .............. év ...................... hónap ........... nap
-
-## ..................................................
-
-## igazgató főállatorvos
-
-4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez
-
-## TÁMOGATÁSI KÉRELEM az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján
+## Támogatási kérelem adattartalma
 
 1. Kérelmező adatai:
 
-Szolgáltató neve:
+– Adószáma;
 
-Székhelye:
+– Ügyfél-regisztrációs száma;
 
-Adószáma:   Ügyfél-regisztrációs száma: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+2. Tárgyhónap megjelölése;
 
-2. Tárgyhónap: ......... év .......................... hónap
+– Igényelt támogatás összege forintban.
 
-Igényelt támogatás összege: ......................... Ft
+3. Nyilatkozat arról, a támogatott állat-egészségügyi szolgáltatást olyan, a megjelölt terméktanáccsal közreműködő állatorvos, állat-egészségügyi vállalkozás, illetőleg laboratórium végezte, aki/amely megfelel a 148/2007. (XII. 8.) FVM rendelet 4. § (2) bekezdésében meghatározott előírásoknak.
 
-3. Nyilatkozat:
+4. Keltezés, a szolgáltató cégszerű aláírása
 
-Nyilatkozom, hogy a támogatott állat-egészségügyi szolgáltatást olyan a ....................... Terméktanáccsal közreműködő állatorvos, állat-egészségügyi vállalkozás, illetőleg laboratórium végezte, aki/amely megfelel a 148/2007. (XII. 8.) FVM rendelet 4. § (2) bekezdésében meghatározott előírásoknak.
+5. Mellékletek: összesítő kimutatások
 
-Kelt: ............................................, ......... év ........................... hónap .............. nap.
-
-............................................................
-
-szolgáltató cégszerű aláírása
-
-Mellékletek: ..... db összesítő kimutatás
+[^27]: A 4. számú melléklet a 8/2010. (II. 4.) FVM rendelet 2. § (12) bekezdésével megállapított szöveg.

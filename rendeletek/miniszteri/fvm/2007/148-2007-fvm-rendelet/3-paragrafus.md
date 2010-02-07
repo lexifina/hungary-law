@@ -6,7 +6,7 @@
 
 a) amelyeket az elfogadott hazai állat-egészségügyi programok alapján kötelezően végre kell hajtani,
 
-b) amelyeket az állat-egészségügyi hatóság rendelt el, vagy
+b)[^2] amelyeket a Mezőgazdasági Szakigazgatási Hivatal rendelt el, vagy
 
 c) amelyek az állatállományok állat-egészségügyi programjában szerepelnek.
 
@@ -15,3 +15,4 @@ A támogatható állatfajok, betegségek és szolgáltatások körét az 1. szá
 (3) A támogatás összege a szolgáltatásról kiállított számla nettó (ÁFA-t nem tartalmazó) értékének 100 százalékáig, de legfeljebb az 1. számú melléklet szerinti fajlagos összegig terjedhet.
 
 [^1]: A 3. § (2) bekezdése a 65/2008. (V. 14.) FVM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (2) bekezdés b) pontja a 8/2010. (II. 4.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.

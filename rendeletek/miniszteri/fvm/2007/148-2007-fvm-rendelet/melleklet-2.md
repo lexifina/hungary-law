@@ -1,8 +1,4 @@
-## Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének
-
-## és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján támogatható szolgáltatások
-
-## és elismerhető maximális költségeik
+## Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján támogatható szolgáltatások és elismerhető maximális költségeik
 
 | Technikai kód | Támogatási jogcím (állatbetegség megnevezése) | Támogatható állatfajok | Támogatható költségek maximális, áfát nem tartalmazó értéke forintban, szolgáltatási egységenként, amely tartalmazza a felhasznált eszközök, állatgyógyászati készítmények, továbbá a mintaküldés költségeit |
 
@@ -58,53 +54,35 @@
 
 ## – A pulyka esetében a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet 1. számú melléklete szerint.
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^13]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^25]
 
-## JÓVÁHAGYÁSI KÉRELEM
-
-## az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének
-
-## és kifizetésének rendjéről szóló
-
-## 148/2007. (XII. 8.) FVM rendelet alapján támogatott állat-egészségügyi szolgáltatás igénybevételére
-
-## való jogosultság igazolásához a 20..... támogatási évre
-
-## A kérelmet állatfajonként külön nyomtatványon kell benyújtani a kérelmező lakhelye/székhelye szerint illetékes MgSzH területi szervénél
+## Jóváhagyási kérelem adattartalma
 
 1. Az ügyfél adatai:
 
-Ügyfél neve:
+– Ügyfél-regisztrációs száma;
 
-Tel.:
+– Adószáma;
 
-Ügyfél-regisztrációs száma:  ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+– Adóazonosító jele;
 
-Adószáma:  ⬜⬜⬜⬜⬜⬜⬜⬜ ⬜ ⬜⬜
+– Őstermelői igazolvány száma;
 
-Adóazonosító jele:  ⬜⬜⬜⬜⬜⬜⬜⬜⬜
+– Felelős vezető neve és telefonszáma;
 
-Őstermelői igazolvány száma:  ⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-Lakhely/székhely címe:  ⬜⬜⬜⬜   (helység) ................................ út/utca/tér ...... hsz.
-
-Levelezési címe:  ⬜⬜⬜⬜   (helység) ................................ út/utca/tér ...... hsz.
-
-Felelős vezető neve:  Tel.: .....................
-
-Felelős ügyintéző neve:  Tel.: .....................
+– Felelős ügyintéző neve és telefonszáma.
 
 2. A kis- és középvállalkozás meghatározásához szükséges adatok:
 
 (előző évi beszámoló/bevallás alapján, illetve újonnan alakult vállalkozások esetében tervezett)
 
-Foglalkoztatott létszám (éves átlaglétszám):   fő
+– Foglalkoztatott létszám (éves átlaglétszám);
 
-Éves forgalom:   ezer Ft
+– Éves forgalom (forintban);
 
-Éves mérlegfőösszeg:   ezer Ft
+– Éves mérlegfőösszeg (forintban);
 
-Vállalkozás minősítése: ⬜ mikro ⬜ kis ⬜ közép
+– Vállalkozás minősítése (mikro, kis, közép)
 
 (középvállalkozás: kevesebb mint 250 személyt foglalkoztat, éves forgalma nem haladja meg az 50 millió EUR-t, és/vagy éves mérlegfőösszege nem haladja meg a 43 millió EUR-t;
 
@@ -112,40 +90,32 @@ kisvállalkozás: kevesebb mint 50 személyt foglalkoztat, éves forgalma és/va
 
 mikrovállalkozás: kevesebb mint 10 személyt foglalkoztat, éves forgalma és/vagy éves mérlegfőösszege nem haladja meg a 2 millió EUR-t.)
 
-3. a) A támogatást a ⬜⬜⬜⬜⬜⬜⬜ tenyészetkódon nyilvántartott,  fajú állatállományomban a/az
+3. Az állatállomány fajának, tenyészetkódjának, az 1. számú melléklet szerinti technikai kód, valamint a betegség, zoonózis megjelölése.
 
-|  | a 148/2007. (XII. 8.) FVM rendelet 1. számú melléklete szerinti technikai kód | betegség/zoonózis |
+4. Nyilatkozatok:
 
-megelőzésével, felszámolásával, illetve nyomon követésével kapcsolatos állat-egészségügyi szolgáltatás költségeinek csökkentésére kérem.
+– a csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személyi, jogi személyiség nélküli gazdasági társaság vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó létéről;
 
-4. Nyilatkozatok
+– lejárt köztartozásom fenn nem állóságáról;
 
-4.1. Nyilatkozom, hogy csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személyi, jogi személyiség nélküli gazdasági társaság vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó vagyok (a vonatkozó rész aláhúzandó).
+– valamennyi állat-egészségügyi nyilvántartásba vételi, nyilvántartási és adatszolgáltatási kötelezettségnek történő elégtételről;
 
-4.2. Nyilatkozom, hogy lejárt köztartozásom nincs.
+– mentesítési programok esetében az állatállományomra a Mezőgazdasági Szakigazgatási Hivatal által jóváhagyott mentesítési programtól való el nem térésről;
 
-4.3. Nyilatkozom, hogy valamennyi állat-egészségügyi nyilvántartásba vételi, nyilvántartási és adatszolgáltatási kötelezettségemnek eleget tettem.
+– az állat-egészségügyi szolgáltatást arra engedéllyel és/vagy akkreditációval, valamint ügyfél-regisztrációs számmal rendelkező személlyel, szervvel, illetve intézménnyel történő elvégeztetésről;
 
-4.4. Nyilatkozom, hogy mentesítési programok esetében nem térek el az állatállományomra az állat-egészségügyi hatóság által jóváhagyott mentesítési programtól.
+– állat-egészségügyi szaktanácsadási tevékenységre támogatás igényelése esetén az állatállomány állat-egészségügyi ellátására vonatkozó írásbeli szerződéssel való rendelkezésről;
 
-4.5. Nyilatkozom, hogy az állat-egészségügyi szolgáltatást arra engedéllyel és/vagy akkreditációval, valamint ügyfél-regisztrációs számmal rendelkező személlyel, szervvel, illetve intézménnyel végeztetem el.
-
-4.6. Nyilatkozom, hogy amennyiben állat-egészségügyi szaktanácsadási tevékenységre támogatást igénylek, rendelkezem az állatállományom állat-egészségügyi ellátására vonatkozó írásbeli szerződéssel.
-
-4.7. Hozzájárulok ahhoz, hogy a ..................... Terméktanács az általam igénybe vett állat-egészségügyi szolgáltatáshoz kapcsolódó számlán, valamint a szolgáltatást nyújtó által a számlák alapján kiállított összesítőben szereplő adataimat az általam igénybe vett támogatott szolgáltatás ellenértékének folyósítása céljából az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendeletben meghatározott mértékben kezelje.
+– hozzájárulás, hogy a megjelölt terméktanács az igénybe vett állat-egészségügyi szolgáltatáshoz kapcsolódó számlán, valamint a szolgáltatást nyújtó által a számlák alapján kiállított összesítőben szereplő adatokat az igénybe vett támogatott szolgáltatás ellenértékének folyósítása céljából az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendeletben meghatározott mértékben kezeléséhez.
 
 5. Kötelezettségvállalás:
 
-Kötelezettséget vállalok arra, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét a szolgáltatást nyújtó engedélyes részére megfizetem.
+a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét a szolgáltatást nyújtó engedélyes részére történő megfizetésről.
 
-Kelt: .............................................., .............. év ...................... hónap ........... nap
+6. Keltezés, támogatott szolgáltatást igénylő cégszerű aláírása
 
-........................................................................................
-
-támogatott szolgáltatást igénylő cégszerű aláírása
-
-Melléklet:
+7. Melléklet:
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^13]: A 2. számú melléklet a 45/2009. (IV. 11.) FVM rendelet 4. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést az MGSZH területi szervéhez 2009. április 14. napját követően benyújtott kérelmek alapján indult ügyekben kell alkalmazni.
+[^25]: A 2. számú melléklet a 8/2010. (II. 4.) FVM rendelet 2. § (12) bekezdésével megállapított szöveg.
