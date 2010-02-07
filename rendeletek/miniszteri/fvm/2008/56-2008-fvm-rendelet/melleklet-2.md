@@ -38,7 +38,7 @@
 
 ## 6. Mellékletek
 
-2. számú melléklet az 56/2008. (IV. 25.) FVM rendelethez[^9]
+2. számú melléklet az 56/2008. (IV. 25.) FVM rendelethez[^15]
 
 ## Adatlap és nyilatkozat adattartalma
 
@@ -72,4 +72,4 @@ Az állatfaj megnevezése.
 
 5. Keltezés és a kedvezményezett (cégszerű) aláírása
 
-[^9]: A 2. számú melléklet a 171/2009. (XII. 22.) FVM rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^15]: A 2. számú melléklet a 171/2009. (XII. 22.) FVM rendelet 5. § (8) bekezdésével megállapított szöveg.
