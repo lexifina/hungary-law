@@ -2,4 +2,6 @@
 
 (2) A Magyar Köztársaság Kiváló Művésze díj – az (1) bekezdésben meghatározott feltételeken túlmenően – akkor adományozható, ha a Magyar Köztársaság Érdemes Művésze díj adományozása óta legalább 5 év eltelt.
 
-(3) A Magyar Köztársaság Kiváló Művésze díjban – a 6. §-ban meghatározott kivétellel – évente öt személy részesülhet.
+(3)[^2] A Magyar Köztársaság Kiváló Művésze díjban – a 6. §-ban meghatározott kivétellel – évente hat személy részesülhet.
+
+[^2]: A 4. § (3) bekezdése a 18/2010. (II. 5.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.

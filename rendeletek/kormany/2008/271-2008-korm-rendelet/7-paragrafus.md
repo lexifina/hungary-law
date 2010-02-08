@@ -1,4 +1,4 @@
-## 6. § Ha egy adott évben a kiemelkedő művészeti teljesítményeknek a művészeti területek közötti eltérő megoszlása indokolja, a Kormány a 3. § (2) bekezdésében, a 4. § (3) bekezdésében és az 5. § (2) bekezdésében meghatározott rendelkezésektől eltérhet azzal, hogy a díjazottak száma ebben az esetben együttesen nem haladhatja meg a tizenhét főt.
+## 6. §[^4] Ha egy adott évben a kiemelkedő művészeti teljesítményeknek a művészeti területek közötti eltérő megoszlása indokolja, a Kormány a 3. § (2) bekezdésében, a 4. § (3) bekezdésében és az 5. § (2) bekezdésében meghatározott rendelkezésektől eltérhet azzal, hogy a díjazottak száma ebben az esetben együttesen nem haladhatja meg a huszonnégy főt.
 
 ## Az adományozás közös szabályai
 
@@ -9,3 +9,5 @@ a) a köztársasági elnök, az országgyűlési képviselő, az európai parlam
 b) a Kossuth- és Széchenyi-díj Bizottság, annak albizottságai és a Művészeti Díj Bizottság tagja.
 
 (2) A Kossuth- és Széchenyi-díj Bizottság posztumusz díjak adományozására nem tesz ajánlást.
+
+[^4]: A 6. § a 18/2010. (II. 5.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.

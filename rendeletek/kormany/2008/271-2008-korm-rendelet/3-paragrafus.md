@@ -2,4 +2,6 @@
 
 3. § (1) A Magyar Köztársaság Érdemes Művésze díj azoknak adományozható, akik a magyar nemzeti kultúra, művészi alkotómunka (színház-, zene-, tánc-, artista-, mozgókép-, képző-, fotó-, iparművészet) területén huzamosabb ideig kiemelkedő művészeti értékeket hoztak létre, és már rendelkeznek a kultúráért felelős miniszter által adományozott művészeti díjjal.
 
-(2) A Magyar Köztársaság Érdemes Művésze díjban – a 6. §-ban meghatározott kivétellel – évente tíz személy részesülhet.
+(2)[^1] A Magyar Köztársaság Érdemes Művésze díjban – a 6. §-ban meghatározott kivétellel – évente tizenöt személy részesülhet.
+
+[^1]: A 3. § (2) bekezdése a 18/2010. (II. 5.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.
