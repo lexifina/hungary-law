@@ -1,0 +1,3 @@
+1. § (1) A Kossuth-díj, a Széchenyi-díj adományozásának rendjéről, valamint a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja díj alapításáról és adományozásáról szóló 271/2008. (XI. 18.) Korm. rendelet (a továbbiakban: R.) 3. § (2) bekezdésében a „tíz” szövegrész helyébe a „tizenöt” szöveg, 4. § (3) bekezdésében az „öt” szövegrész helyébe a „hat” szöveg, 5. § (2) bekezdésében a „két” szövegrész helyébe a „három” szöveg, 6. §-ában a „tizenhét” szövegrész helyébe a „huszonnégy” szöveg lép.
+
+(2) Az R. 8. § (4) bekezdés a) és c) pontjában az „50%-a” szövegrész helyébe a „85%-a” szöveg, b) pontjában a „30%-a” szövegrész helyébe az „50%-a” szöveg lép.
