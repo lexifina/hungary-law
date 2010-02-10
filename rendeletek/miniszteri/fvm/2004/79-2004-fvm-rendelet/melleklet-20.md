@@ -190,64 +190,66 @@
 
 ## Készült:
 
-## (károsult)....................................................... vadkár ügyében.
+## (károsult) ................................. vadkár ügyében.
 
 ## Jelen vannak alulírottak:
 
-## 1. Vadgazdálkodó egység megnevezése:
+## 0M07187M_3
 
-## kódszáma:
+|  |  | 1. | Vadgazdálkodó egység megnevezése: |
 
-## 2. Erdőgazdálkodó megnevezése:
+|  |  | kódszáma: |
 
-## 3. Községhatár megnevezése:
+|  |  | 2. | Erdőgazdálkodó megnevezése: |
 
-## 4. Erdőtag száma:
+|  |  | 3. | Községhatár megnevezése: |
 
-## erdőrészlet megnevezése:
+|  |  | 4. | Erdőtag száma: |
 
-## területe: ha
+|  |  | erdőrészlet megnevezése: |
 
-## 5. Az erdősítés eredete
+|  |  | területe: | ha |
 
-## a) természetes mageredetű:
+|  |  | 5. | Az erdősítés eredete |
 
-## b) természetes sarjeredetű:
+|  |  | a) | természetes mageredetű: |
 
-## c) mesterséges erdőfelújítás:
+|  |  | b) | természetes sarjeredetű: |
 
-## 6. Sikeresen erdősült terület:
+|  |  | c) | mesterséges erdőfelújítás: |
 
-## 7. Elszámolható célállomány típus:
+|  |  | 6. | Sikeresen erdősült terület: |
 
-## 8. Az erdősítés készültségi foka:
+|  |  | 7. | Elszámolható célállomány típus: |
 
-## 9. A károsítást okozó vadfaj megnevezése:
+|  |  | 8. | Az erdősítés készültségi foka: |
 
-## 10. A károsítás időpontja:
+|  |  | 9. | A károsítást okozó vadfaj megnevezése: |
 
-## 11. A károsítás mértéke: %
+|  |  | 10. | A károsítás időpontja: |
 
-## 12. Károsult redukált terület: ha
+|  |  | 11. | A károsítás mértéke: | % |
 
-## (sikeresen erdősült terület × károsítási%)
+|  |  | 12. | Károsult redukált terület: | ha |
 
-## 13. A kárérték megállapításánál figyelembe vett újraerdősítési költség: Ft/ha
+|  |  | (sikeresen erdősült terület x károsítási %) |
 
-## 14. Az erdőrészletben keletkezett kár értéke: Ft
+|  |  | 13. | A kárérték megállapításánál figyelembe vett károsított erdő értéke: | Ft/ha |
 
-## (károsult redukált terület × újraerdősítési költség)
+|  |  | 14. | Az erdőrészletben keletkezett kár értéke: | Ft |
 
-## 15. A kárbecslő véleménye szerint az összes kárigény Ft
+|  |  | (károsult redukált terület/ha x erdő értéke Ft/ha) |
 
-## Kelt: ................................., ......... év ..................... hó ...... napján
+|  |  | 15. | A kárbecslő véleménye szerint az összes kárigény: | Ft |
 
-## ................................................
+## Kelt: ...................., .......... év ............ hó ............ napján
+
+## ...................................
 
 ## kárbecslő
 
-20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^104]
+20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^153]
 
 A VADÁSZHATÓ ÁLLATOK ÉS A HULLOTT AGANCS VADGAZDÁLKODÁSI ÉRTÉKE
 
-[^104]: A 20. számú melléklet a 85/2008. (VII. 5.) FVM rendelet 2. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^153]: A 20. számú melléklet a 85/2008. (VII. 5.) FVM rendelet 2. § (2) bekezdés d) pontja szerint módosított szöveg.

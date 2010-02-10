@@ -4,10 +4,11 @@ a) ki, és – településenkénti megoszlásban – mekkora területtel vesz r�
 
 b) a kialakítandó vadászterület egészéhez – és ezen belül is településenként – viszonyítottan e tulajdonosok vagy képviselők milyen arányt képviselnek.
 
-(2)[^11] A határozathozatal során a települési önkormányzat jegyzőjének szavazati hányadát úgy kell megállapítani, hogy az adott önkormányzat közigazgatási területén belül található, a vadászterület részének minősülő földterületből le kell vonni azokat a földterületeket, amelyek képviseletéről a földtulajdonos személyesen vagy képviselőjén keresztül gondoskodott.
+(2)[^12] A határozathozatal során a települési önkormányzat jegyzőjének szavazati hányadát úgy kell megállapítani, hogy az adott önkormányzat közigazgatási területén belül található, a vadászterület részének minősülő földterületből le kell vonni azokat a földterületeket, amelyek képviseletéről a földtulajdonos személyesen vagy képviselőjén keresztül gondoskodott.
 
-(3) A vadászterület földtulajdonosai számára a földtulajdonosi közösség képviselőjének is lehetővé kell tenni azt, hogy az őket érintő kérdésekben felvilágosítást kapjanak, továbbá az iratokba betekinthessenek.
+(3)[^13] A földtulajdonosi közösség képviselőjének és a földtulajdonosi gyűlésen megválasztott tulajdonosi képviselőnek lehetővé kell tennie azt, hogy a vadászterület földtulajdonosai az őket érintő kérdésekben felvilágosítást kapjanak, továbbá az iratokba betekinthessenek.
 
 (4) A földtulajdonosok gyűlésén megállapított képviseleti jogosultság vagy tulajdoni arány vitatása esetén a Vtv. 14. § (4) bekezdésének b) pontja szerint kell eljárni.
 
-[^11]: A Vhr. 9. §-ának (2) bekezdése a 42/2006. (V. 31.) FVM rendelet 5. §-ával megállapított szöveg.
+[^12]: A Vhr. 9. §-ának (2) bekezdése a 42/2006. (V. 31.) FVM rendelet 5. §-ával megállapított szöveg.
+[^13]: A Vhr. 9. § (3) bekezdése a 7/2010. (II. 2.) FVM rendelet 6. §-ával megállapított szöveg.

@@ -1,3 +1,5 @@
 ## (A Vtv. 95. §-ához)
 
-95. § A hatósági vadászat költségeinek megelőlegezésére a Vtv. 82. § szerinti vadvédelmi hozzájárulás is felhasználható. A hatósági vadászat megtérült költségét a jogosulttal történő elszámolást követően a 10032000-01031654-00000000 számú ,,Vadgazdálkodási bevételek'' központi kincstári számla javára kell visszafizetni.
+95. §[^135]
+
+[^135]: A Vhr. 95. §-át a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés i) pontja hatályon kívül helyezte.

@@ -1,23 +1,9 @@
-27/A. §[^33] (1) Amennyiben nincs más kielégítő megoldás, a vadászati hatóság a döntést az alábbi esetekben hozhatja meg:
+27/A. §[^36] (1) Az 5. számú melléklet II. részében felsorolt vízivad fészkelése és vonulása szempontjából nemzetközi jelentőségű és hazai kiemelt jelentőségű vízi élőhelyeken a vadászati hatóság szabályozza a vízivad vadászat rendjét. Ebben szabályozza a vízivad vadászatának helyét, módját, idejét, gyakoriságát.
 
-a) a Vtv. 28. § (4) bekezdése esetében a közegészség és közbiztonság, vagy a légi közlekedés biztonsága, vagy a mezőgazdasági hasznosítású növények és állatok, az erdők, a halgazdaságok és a vizek súlyos károsodásának megelőzése, vagy a növény- és állatvilág természetvédelmi célú védelme érdekében, valamint az állományfeljavítás, a visszatelepítés és az ezekhez szükséges tenyésztés céljából;
+(2) A vetési lúd és a nagylilik vadászati idénye Hajdú-Bihar, Békés és Csongrád megye teljes közigazgatási területén, valamint Jász-Nagykun-Szolnok megye Tiszántúli területén december 1-jén kezdődik és január 31-ig tart. Vetési lúdból és nagylilikből naponta, személyenként összesen legfeljebb 4 darab ejthető el.
 
-b) a Vtv. 30. § (2) bekezdése esetében a közegészség és közbiztonság, vagy a mezőgazdasági hasznosítású növények és állatok, az erdők, a halgazdaságok és a vizek súlyos károsodásának megelőzése vagy a növény- és állatvilág természetvédelmi célú védelme érdekében, valamint az állományfeljavítás, a visszatelepítés és az ezekhez szükséges tenyésztés céljából;
+(3) Természetes tőkés-, csörgő-, és kercerécéből, szárcsából naponta, személyenként összesen legfeljebb 8 darab ejthető el. Tenyésztett tőkésréce tilalmi időben is napi terítékkorlátozás nélkül lőhető.
 
-c) a Vtv. 38. § (3) bekezdésének a) és d) pontja esetében a közegészség és közbiztonság, vagy a légi közlekedés biztonsága, vagy a mezőgazdasági hasznosítású növények és az állatok, az erdők, a halgazdaságok és a vizek súlyos károsodásának megelőzése vagy a növény- és állatvilág természetvédelmi célú védelme érdekében, valamint a kutatás és oktatás, az állományfeljavítás, a visszatelepítés és az ezekhez szükséges tenyésztés céljából;
+(4) A vadállomány védelme és a vad kímélete miatt vadászati idényre való tekintet nélkül haladéktalanul el kell ejteni a súlyosan beteg és mozgásképtelen, illetve a súlyosan sérült és életképtelen vadat. Az elejtést a vadász, illetve a kísérő köteles a vadászati naplóban „beteg” megjelöléssel rögzíteni, és haladéktalanul bejelenteni a jogosultnak. A jogosult köteles az állat-egészségügyi okból elejtett vadat vizsgálatra alkalmas módon az elejtés helye szerint illetékes hatósági állatorvosnak bemutatni. A hatósági állatorvos az elejtés indokoltságáról külön jogszabály szerinti igazolást állít ki.
 
-d) a Vtv. 39. § (3) bekezdése esetében a közegészség és közbiztonság, vagy a légi közlekedés biztonsága, vagy a mezőgazdasági hasznosítású növények és állatok, az erdők, a halgazdaságok és a vizek súlyos károsodásának megelőzése vagy a növény- és állatvilág természetvédelmi célú védelme érdekében.
-
-(2) Az (1) bekezdés szerinti döntésben meg kell határozni:
-
-a) azt a vadfajt és az egyedek számát, amelyre a döntés vonatkozik,
-
-b) a befogás vagy elejtés engedélyezett módját, eszközeit,
-
-c) azt a területet, ahol a döntésben foglalt tevékenység gyakorolható,
-
-d) a döntés érvényességi idejét.
-
-(3) A vadászati hatóság meghatározott esetekben az engedélyes (kötelezett) részére a döntésben foglaltak végrehajtásáról jelentéstételi kötelezettséget is előírhat.
-
-[^33]: A Vhr. 27/A. §-át a 61/2007. (VII. 13.) FVM rendelet 1. §-a iktatta be.
+[^36]: A Vhr. 27/A. §-át a 61/2007. (VII. 13.) FVM rendelet 1. §-a iktatta be, szövege a 7/2010. (II. 2.) FVM rendelet 18. §-ával megállapított szöveg.

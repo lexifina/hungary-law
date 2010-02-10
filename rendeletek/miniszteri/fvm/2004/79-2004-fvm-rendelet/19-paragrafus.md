@@ -1,13 +1,7 @@
-19. § (1) A vad nem vadászati célú zárttéri tartásának minősül:
+19. §[^28] (1) A vadaskertben tartott vadállomány hasznosítását a vadászati hatóság – a létesítési engedélyben meghatározottak, továbbá az éves vadgazdálkodási terv szempontjai szerint – vadászati évenként engedélyezi. Az engedélyben meghatározza a vad vadaskertbe történő kiengedését, hasznosítását, amelyhez kizárólag vadaskerti felhasználásra, külön „Z” (zárttéri) megjelölésű azonosító jelet ad ki.
 
-a) ha a vad zárttéri tartását részben vagy egészben nem vadászati célra végzik;
+(2) Vadfarm rokon fajú állat – kereszteződés útján életképes utódok megszületésének elkerülése céljából – tartásának helyszínétől térben elkülönülten létesíthető. Az izolációs távolságot az állategészségügyi előírások szerint kell meghatározni.
 
-b) ha a vadaskertben tartható vad szaporítását, tartását szolgáló elkerített terület a vadaskerttől úgy áll külön, hogy a vad átjárása vagy lábon való átterelése nem lehetséges.
+(3) A vadfarm engedélyesének biztosítania kell a tartásra engedélyezett vadfaj megfelelő tartási körülményeit, rendelkeznie kell takarmánytárolóval, egyedi kezelésre alkalmas területtel, ivóvíz ellátással és karanténnal. A vadfarm üzemeltetője köteles a vadászati hatóság által hitelesített állomány-nyilvántartást vezetni, és évente, február utolsó napjával bezárólag az állományváltozásokat a vadászati hatóságnak bejelenteni.
 
-(2) A vadaskertben tartott vadállomány hasznosítását a vadászati hatóság – a minisztérium engedélyében meghatározottak, továbbá az éves vadgazdálkodási terv szempontjai szerint, valamint a vad zárttéri tartására a Vtv. 32. § (1) bekezdésében foglaltak figyelembevételével – vadászati évenként engedélyezi. Az engedélyben meghatározza a vad vadaskertbe történő kiengedését, hasznosítását, amelyhez kizárólag vadaskerti felhasználásra, külön ,,Z'' (zárttéri) megjelölésű azonosító jelet ad ki.
-
-(3)[^25]
-
-(4) Az (1) bekezdés a) pontjában foglalt zárttéri tartást az illetékes vadászati hatóság engedélyezi.
-
-[^25]: A Vhr. 19. §-ának (3) bekezdését a 61/2007. (VII. 13.) FVM rendelet 5. §-a hatályon kívül helyezte.
+[^28]: A Vhr. 19. §-a a 7/2010. (II. 2.) FVM rendelet 15. §-ával megállapított szöveg.

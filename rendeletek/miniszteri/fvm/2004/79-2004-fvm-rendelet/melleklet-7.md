@@ -22,9 +22,9 @@
 
 ## 3. Vadgazdálkodási terv (10 éves terv a körzeti vadgazdálkodási terv alapján)
 
-## 3.1.[^96] Nagyvadállományok kezelése: a gímszarvas, a dámszarvas, az őz, a muflon és a vaddisznó javasolt tervezési módszerei és szempontjai (az állomány minőségi besorolása, a golyóérettség kora). A nagyvad szempontjából javasolt élőhelyi beavatkozások és vadgazdálkodási fejlesztések. Zárttéri vadtenyésztés és vadaskerti vadtartás szempontjai.
+## 3.1.[^144] Nagyvadállományok kezelése: a gímszarvas, a dámszarvas, az őz, a muflon és a vaddisznó javasolt tervezési módszerei és szempontjai (az állomány minőségi besorolása, a golyóérettség kora). A nagyvad szempontjából javasolt élőhelyi beavatkozások és vadgazdálkodási fejlesztések. Zárttéri vadtenyésztés és vadaskerti vadtartás szempontjai.
 
-## 3.2.[^97] Apróvadállományok kezelése: a mezei nyúl, a fácán, a fogoly és a vízivad tervezési szempontjai és módszerei (az állomány állapota), az élőhely védelem és javítás szempontjai. Természetvédelmi jellemzők és gazdálkodási hatásaik (a vadgazdálkodást és vadászatot különösen érintő védett területek, a vadgazdálkodást érintő természetvédelmi előírások).
+## 3.2.[^145] Apróvadállományok kezelése: a mezei nyúl, a fácán, a fogoly és a vízivad tervezési szempontjai és módszerei (az állomány állapota), az élőhely védelem és javítás szempontjai. Természetvédelmi jellemzők és gazdálkodási hatásaik (a vadgazdálkodást és vadászatot különösen érintő védett területek, a vadgazdálkodást érintő természetvédelmi előírások).
 
 ## 3.3. A vadászterület különleges rendeltetéséből adódó feladatok és előírások.
 
@@ -56,5 +56,5 @@
 
 A VADÁLLOMÁNYBECSLÉS ÉS AZ ÉVES VADGAZDÁLKODÁSI TERV TARTALMI KÖVETELMÉNYEI
 
-[^96]: A Vhr. 6. számú melléklet 3.1. alpontja az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
-[^97]: A Vhr. 6. számú melléklet 3.2. alpontja az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^144]: A Vhr. 6. számú melléklet 3.1. alpontja az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^145]: A Vhr. 6. számú melléklet 3.2. alpontja az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.

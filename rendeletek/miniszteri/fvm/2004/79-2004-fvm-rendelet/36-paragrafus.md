@@ -5,3 +5,7 @@
 (2) A hivatásos vadász a szolgálati tevékenysége során elejtett vadat a vadászati napló és teríték nyilvántartásba is köteles bejegyezni.
 
 (3) A szolgálati napló ellenőrzésére a jogosulton kívül a vadászati, valamint a rendőrhatóság jogosult.
+
+(4)[^49] Erdészeti szolgálati napló vezetésére kötelezett, egy vagy több vadászterület vadgazdálkodását irányító hivatásos vadász nem köteles hivatásos vadász szolgálati naplót is vezetni. Az erdészeti szolgálati napló vezetésére kötelezett személy hivatásos vadászi feladataival kapcsolatos bejegyzéseit az erdészeti szolgálati naplóban is vezetheti, ekkor mentesül a hivatásos vadász szolgálati napló vezetési kötelezettség alól. Ez esetben a hivatásos vadász szolgálati napló ellenőrzésére jogosultak részére az erdészeti szolgálati naplóba történő betekintési és bejegyzési lehetőséget biztosítani kell.
+
+[^49]: A Vhr. 36. § (4) bekezdését a 7/2010. (II. 2.) FVM rendelet 23. §-a iktatta be.

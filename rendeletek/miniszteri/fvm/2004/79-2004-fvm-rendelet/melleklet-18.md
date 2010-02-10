@@ -1,29 +1,33 @@
-## TRÓFEA BÍRÁLATI JEGY
+## TRÓFEA BÍRÁLATI LAP
 
-## MINTA
+## Vadfaj:
 
-## Lapszám: .....
+| MINTA |
 
-## A vadászatra jogosult neve:
+| Vadászati hatóság neve: | Ügyszám: |
 
-## Vadászterület kódszáma:
+| Vadgazdálkodási egység neve: | Ügyintéző neve: |
 
-| Teríték nyilván- tartás bejegyzése | Elejtés | Elejtő | Vad | Trófeabírálat |
+| Vadazonosító szám: |
 
-| sorszáma | helye | elejtés (ideje) | kifőzés (ideje) | neve | engedélye száma | vadfaj | azonosítójel | bérvadlő- jegyzék száma | bemutatás ideje, trófea azonosító adatai | igazolása |
+| Elejtő neve: |
 
-## Mellékletként csatolt egyéb igazolások felsorolása (jegyzőkönyv elhullásról, gázolásról, állat-egészségügyi elejtésről stb.):
+| Vadászjegy vagy vadászati engedély száma: |
 
-## Kelt: ............ év .......................................... hó ...... napján
+| Elejtés ideje: |
 
-## P. H.
+| Trófea bírálati adatai: |
 
-## ...............................................
+| Minősítés: |
 
-## vadászatra jogosult
+| Mellékletként csatolt egyéb igazolások felsorolása (jegyzőkönyv elhullásról, gázolásról, állat-egészségügyi elejtésről stb.): |
 
-## Megjegyzés: a trófea bírálati jegyet kis alakú, sorba számozott, háromlapos átíró bizonylattömbből kell kiadni.
+| Kelt: ............... év ..... hó ..... napján |
 
-## A jegyet trófeadarabonként kell kiállítani, amelyből a tőpéldány a jogosultnál marad, kettő példány a trófeát kíséri a bírálatig, amelyből az egyik a vadászati hatóságot illeti, a másik a vadásznál a trófea eredetét és bírálatát igazolja.
+| P. H. |
+
+| ................................................ |
+
+| kiadmányozó |
 
 18. számú melléklet a 79/2004. (V. 4.) FVM rendelethez

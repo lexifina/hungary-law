@@ -2,4 +2,6 @@
 
 (2) A mezőgazdasági (ideértve a szőlőt és gyümölcsöst is) és az erdei vadkárok becsléséhez a szakértő által alkalmazott jegyzőkönyv mintáját a 19. számú melléklet tartalmazza. A jegyzőkönyvet a szakértőnek és a jelen levő feleknek (képviselőinek) kell aláírniuk.
 
-(3) A szakértő köteles a kárbecslésről készült jegyzőkönyveket haladéktalanul átadni a jegyzőnek. A jegyző a szakértői vadkárbecslési jegyzőkönyvben foglaltak alapján kísérli meg a felek között az egyezség létrehozását, illetve megállapítja az egyezség létrejöttének hiányát.
+(3)[^125]
+
+[^125]: A Vhr. 84. § (3) bekezdését a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés e) pontja hatályon kívül helyezte.
