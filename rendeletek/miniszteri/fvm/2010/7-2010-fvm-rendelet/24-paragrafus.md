@@ -1,0 +1,3 @@
+## 23. § Az R. 36. §-a következő (4) bekezdéssel egészül ki:
+
+## „(4) Erdészeti szolgálati napló vezetésére kötelezett, egy vagy több vadászterület vadgazdálkodását irányító hivatásos vadász nem köteles hivatásos vadász szolgálati naplót is vezetni. Az erdészeti szolgálati napló vezetésére kötelezett személy hivatásos vadászi feladataival kapcsolatos bejegyzéseit az erdészeti szolgálati naplóban is vezetheti, ekkor mentesül a hivatásos vadász szolgálati napló vezetési kötelezettség alól. Ez esetben a hivatásos vadász szolgálati napló ellenőrzésére jogosultak részére az erdészeti szolgálati naplóba történő betekintési és bejegyzési lehetőséget biztosítani kell.”

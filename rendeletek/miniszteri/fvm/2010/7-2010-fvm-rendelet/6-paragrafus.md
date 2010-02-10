@@ -1,0 +1,1 @@
+## „(4) A tulajdonosi vagy képviseleti jogosultság igazolását a kialakítandó vadászterületen belül, a vadászterület kiterjedésének megállapításánál figyelembe vehető földterülettel rendelkező bármely tulajdonos kérheti. A döntés során ez a jog a törvényes képviseleti jogában eljáró települési önkormányzat jegyzőjét is megilleti.”

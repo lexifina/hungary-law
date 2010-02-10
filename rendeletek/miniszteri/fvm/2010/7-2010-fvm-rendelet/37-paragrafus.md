@@ -1,0 +1,1 @@
+## „(4) A jogosult, illetve megbízottja a vadászati engedéllyel rendelkező vadász által elejtett vad trófeáját bármelyik vadászati hatóságnál bemutathatja. Ez esetben a trófeát elbíráló vadászati hatóság 22 munkanapon belül hivatalból küldi meg a bírálat eredményét az elejtés helye szerint illetékes vadászati hatóságnak.”

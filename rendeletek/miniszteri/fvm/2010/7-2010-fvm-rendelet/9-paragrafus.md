@@ -1,0 +1,1 @@
+## „(6) A Vtv. 12. § (1) bekezdés b) pontja esetében a hirdetmény mellékleteként csatolni kell a kialakítandó vadászterületen belül található vadászterület határának megállapításánál figyelembe vehető földterületek helyrajzi számait településenként azok nagyságának megadásával.”
