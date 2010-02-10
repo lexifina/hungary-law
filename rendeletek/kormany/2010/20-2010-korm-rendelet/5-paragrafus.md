@@ -1,0 +1,3 @@
+## 4. § A támogatások, illetve a költségtérítések folyósítása az 1. § (2) bekezdésének a) pontja, valamint az 1. § (3) bekezdésének a)–d) pontja esetében az APEH 10032000–01905049 Egyedi támogatás folyósítási számláról, az 1. § (2) bekezdésének b) pontja esetében a 10032000–01905135 Egyéb vállalati támogatás folyósítási számláról történik az adózás rendjéről szóló 2003. évi XCII. törvény rendelkezései alapján. Az 1. § (2) bekezdése esetében a szükséges igazolások csatolása alapján történő támogatás folyósítására, ellenőrzésére az adózás rendjéről szóló 2003. évi XCII. törvény szerinti folyósítási és ellenőrzési szabályok irányadók.
+
+5. § Ez a rendelet a kihirdetését követő napon lép hatályba és 2011. március 31-én hatályát veszti.
