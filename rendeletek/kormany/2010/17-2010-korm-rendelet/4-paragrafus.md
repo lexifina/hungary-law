@@ -1,1 +1,0 @@
-## „(5) Az óvónőképzésben (óvodapedagógus-képzésben) és a tanítóképzésben a szakkollégiumi vagy műveltségi területen szerzett képesítés a Kjt. 66. § (2) bekezdésében szabályozott további szakképesítésnek minősül és az ott meghatározott feltételek mellett – figyelemmel az (1) bekezdésben foglaltakra is – illetménynövekedésre jogosít.”
