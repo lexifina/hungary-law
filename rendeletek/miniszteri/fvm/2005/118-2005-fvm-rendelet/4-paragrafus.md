@@ -1,3 +1,0 @@
-4. § (1) Ha a kérelmező a kérelméhez kapcsolódóan soron kívüli ügyintézést kért és a kérelem benyújtásakor a Díjtörvény 32/A. § (4) bekezdésében meghatározott díjat nem fizette meg vagy a díj megfizetését nem igazolta, a körzeti földhivatal az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 45. §-ában meghatározott határidőn belül bírálja el a kérelmet.
-
-(2) Ha a soron kívüli ügyintézést nem engedélyezte a földhivatal vezetője, vagy az érdemi döntést határidőn belül nem hozta meg, a Díjtörvény 32/A. § (4) bekezdése alapján megfizetett díjat az ügyfél részére visszatéríti.
