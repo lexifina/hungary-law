@@ -1,0 +1,17 @@
+## 8. § A FÖMI az elektronikus adatszolgáltatásból őt megillető díjból biztosítja a TAKARNET rendszer üzemeltetését és fenntartását, valamint azt elsődlegesen a rendszer továbbfejlesztésére fordítja. A fennmaradó összeget a jogszabályban meghatározott feladatai ellátására használhatja fel.
+
+## Az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megállapítása, megfizetése és kezelése
+
+## 9. § Az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megállapításánál érintett ingatlanként:
+
+a) a Díjtörvény 32/A. § (7)–(9) bekezdéseiben meghatározott eljárásokban a bejegyzéssel, illetve a változással érintett különlapok számát,
+
+b) a telekalakítással az ingatlan(ok) adataiban, a bejegyzett jogok és a feljegyzett tények vonatkozásában bekövetkező változások ingatlan-nyilvántartási átvezetésére irányuló eljárásban:
+
+ba) telekegyesítés, telekhatár-rendezés esetén a kiinduló állapot szerinti földrészletek számát,
+
+bb) telekfelosztás, telekcsoport újraosztása esetén a kialakuló földrészletek számát,
+
+c) minden más esetben a kérelem benyújtásakor önálló földrészletként nyilvántartott ingatlanokat
+
+kell figyelembe venni.
