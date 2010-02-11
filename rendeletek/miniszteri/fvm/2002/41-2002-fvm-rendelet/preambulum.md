@@ -1,1 +1,0 @@
-Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 90. § (2) bekezdésében, valamint az illetékekről szóló 1990. évi XCIII. törvény 67. § (2) bekezdésében kapott felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
