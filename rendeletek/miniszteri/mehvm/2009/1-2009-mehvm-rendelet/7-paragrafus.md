@@ -8,4 +8,6 @@ b) a KSZK vonatkozásában a 2. számú melléklet,
 
 c) a NIIF Intézet vonatkozásában a 3. számú melléklet tartalmazza.
 
-(2) Az Iroda vonatkozásában az ágazatban betölthető közalkalmazotti munkaköröket, valamint a munkakörhöz kapcsolódó fizetési osztályokat külön jogszabály tartalmazza.
+(2)[^9]
+
+[^9]: A 7. § (2) bekezdését az 1/2010. (II. 9.) TM rendelet 10. § (3) bekezdés e) pontja hatályon kívül helyezte.

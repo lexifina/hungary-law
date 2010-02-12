@@ -1,8 +1,8 @@
-## A. A KSZK magasabb vezetői beosztású és vezetői beosztású közalkalmazottainak vezetői pótléka
+## A. A KSZK magasabb vezetői beosztású és vezetői beosztású közalkalmazottainak vezetői pótléka
 
-| Beosztás megnevezése | Vezetői pótlék mértéke |
+| Beosztás megnevezése | Vezetői pótlék mértéke % |
 
-| I. Magasabb vezetői munkakörök |
+| I. Magasabb vezetők |
 
 | 1. főigazgató | 300 |
 
@@ -22,47 +22,55 @@
 
 | Munkakör elnevezése | A | B | C | D | E | F | G | H | I | J |
 
-| 1. adatrögzítő |  | * | * | * |  |  |  |  |  |  |
+| 1. adatrögzítő |  | * | * | * |  |  |  |  |  |  |
 
-| 2. asszisztens (szakterülettel) |  |  | * | * | * | * |  |  |  |  |
+| 2. asszisztens (szakterülettel) |  |  | * | * | * | * |  |  |  |  |
 
-| 3. bér- és társadalombiztosítási előadó |  |  | * | * | * | * |  |  |  |  |
+| 3. bér- és társadalombiztosítási előadó |  |  | * | * | * | * |  |  |  |  |
 
-| 4. fejlesztő informatikus |  |  |  |  |  | * | * | * | * |  |
+| 4. fejlesztő informatikus |  |  |  |  |  | * | * | * | * |  |
 
-| 5. gépkocsivezető |  | * | * | * |  |  |  |  |  |  |
+| 5. gépkocsivezető |  | * | * | * |  |  |  |  |  |  |
 
-| 6. gondnok |  | * | * | * |  |  |  |  |  |  |
+| 6. gondnok |  | * | * | * |  |  |  |  |  |  |
 
-| 7. informatikus, számítógéphálózat-üzemeltető |  |  | * | * | * | * |  |  |  |  |
+| 7. informatikus, számítógéphálózat-üzemeltető |  |  | * | * | * | * |  |  |  |  |
 
-| 8. kiemelt szakkontroller (szakterülettel) |  |  |  |  |  | * | * | * | * |  |
+| 8. kiemelt szakkontroller (szakterülettel) |  |  |  |  |  | * | * | * | * |  |
 
-| 9. kiemelt szakreferens (szakterülettel) |  |  |  |  |  | * | * | * | * |  |
+| 9. kiemelt szakreferens (szakterülettel) |  |  |  |  |  | * | * | * | * |  |
 
-| 10. könyvelő |  |  | * | * | * | * |  |  |  |  |
+| 10. könyvelő |  |  | * | * | * | * |  |  |  |  |
 
-| 11. menedzser (szakterülettel) |  |  |  |  |  | * | * | * | * |  |
+| 11. menedzser (szakterülettel) |  |  |  |  |  | * | * | * | * |  |
 
-| 12. operátor (szakterülettel) |  |  | * | * | * | * |  |  |  |  |
+| 12. operátor (szakterülettel) |  |  | * | * | * | * |  |  |  |  |
 
-| 13. pénzügyi előadó |  |  | * | * | * | * |  |  |  |  |
+| 13. pénzügyi asszisztens |  |  | * | * | * |  |  |  |  |  |
 
-| 14. pénztáros |  |  | * | * | * | * |  |  |  |  |
+| 14. pénzügyi előadó |  |  | * | * | * | * |  |  |  |  |
 
-| 15. referens (szakterülettel) |  |  | * | * | * | * |  |  |  |  |
+| 15. pénztáros |  |  | * | * | * | * |  |  |  |  |
 
-| 16. szakkontroller (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
+| 16. projekt menedzser |  |  |  |  |  | * |  | * |  |  |
 
-| 17. szakoperátor (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
+| 17. referens (szakterülettel) |  |  | * | * | * | * |  |  |  |  |
 
-| 18. szakreferens (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
+| 18. szakkontroller (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
 
-| 19. számviteli előadó |  |  | * | * | * | * |  |  |  |  |
+| 19. szakoperátor (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
 
-| 20. titkárnő | . |  | * | * | * | * |  |  |  |  |
+| 20. szakreferens (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
 
-| 21. ügyintéző |  |  | * | * | * | * |  |  |  |  |
+| 21. számviteli előadó |  |  | * | * | * | * |  |  |  |  |
+
+| 22. személyügyi, munkaügyi előadó |  |  |  | * | * | * |  |  |  |  |
+
+| 23. titkárnő |  |  | * | * | * | * |  |  |  |  |
+
+| 24. ügyintéző |  |  | * | * | * | * |  |  |  |  |
+
+| 25. vezető koordinátor |  |  |  |  |  | * |  | * |  |  |
 
 3. számú melléklet az 1/2009. (I. 30.) MeHVM rendelethez
 

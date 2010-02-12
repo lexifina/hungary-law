@@ -1,8 +1,8 @@
-## A. A magasabb vezetői beosztású és vezetői beosztású közalkalmazottak vezetői pótléka a KSZF tekintetében
+## A. A magasabb vezetői beosztású és vezetői beosztású közalkalmazottak vezetői pótléka a KSZF tekintetében
 
-| Beosztás megnevezése | Vezetői pótlék mértéke |
+| Beosztás megnevezés | Vezetői pótlék mértéke % |
 
-| I. Magasabb vezetői munkakörök |
+| I. Magasabb vezetők |
 
 | 1. főigazgató | 300 |
 
@@ -12,7 +12,7 @@
 
 | II. Vezetők |
 
-| 1. magasabb vezető (I. 1–3. pont) által megbízott igazgató | 200 |
+| 1. főigazgató által megbízott igazgató | 200 |
 
 | 2. főosztályvezető | 200 |
 
@@ -30,114 +30,118 @@
 
 | 9. csoportvezető | 100 |
 
-## B. A KSZF közalkalmazottainak fizetési osztályba sorolása és a munkakörök elnevezése
+## B. A KSZF közalkalmazottainak fizetési osztályba sorolása és a munkakörök elnevezése
 
 | Munkakör elnevezése | A | B | C | D | E | F | G | H | I | J |
 
-| 1. adatrögzítő |  | * | * | * |  |  |  |  |  |  |
+| 1. adatrögzítő |  | * | * | * |  |  |  |  |  |  |
 
-| 2. adminisztrátor | * | * | * |  |  |  |  |  |  |  |
+| 2. adminisztrátor | * | * | * |  |  |  |  |  |  |  |
 
-| 3. anyagbeszerző |  | * | * | * |  |  |  |  |  |  |
+| 3. anyagbeszerző |  | * | * | * |  |  |  |  |  |  |
 
-| 4. asszisztens |  |  | * | * | * | * |  |  |  |  |
+| 4. asszisztens (szakterülettel) |  |  | * | * | * | * |  |  |  |  |
 
-| 5. belső ellenőr |  |  |  |  |  | * | * | * | * |  |
+| 5. belső ellenőr |  |  |  |  |  | * | * | * | * |  |
 
-| 6. belső ellenőrzési vezető |  |  |  |  |  | * | * | * | * |  |
+| 6. belső ellenőrzési vezető |  |  |  |  |  | * | * | * | * |  |
 
-| 7. betanított munkás | * |  |  |  |  |  |  |  |  |  |
+| 7. betanított munkás | * |  |  |  |  |  |  |  |  |  |
 
-| 8. diszpécser |  |  | * | * | * | * |  |  |  |  |
+| 8. diszpécser |  |  | * | * | * | * |  |  |  |  |
 
-| 9. előadó |  |  | * | * | * |  |  |  |  |  |
+| 9. előadó (szakterülettel) |  |  | * | * | * |  |  |  |  |  |
 
-| 10. főelőadó |  |  | * | * | * | * |  |  |  |  |
+| 10. főelőadó (szakterülettel) |  |  | * | * | * | * |  |  |  |  |
 
-| 11. garázsmester |  | * | * | * |  |  |  |  |  |  |
+| 11. garázsmester |  | * | * | * |  |  |  |  |  |  |
 
-| 12. gépjárművezető |  | * | * | * |  |  |  |  |  |  |
+| 12. gépjárművezető |  | * | * | * |  |  |  |  |  |  |
 
-| 13. gépkocsi ápoló | * | * |  |  |  |  |  |  |  |  |
+| 13. gépkocsi ápoló | * | * |  |  |  |  |  |  |  |  |
 
-| 14. gondnok | . | * | * | * | * |  |  |  |  |  |
+| 14. gondnok |  | * | * | * | * |  |  |  |  |  |
 
-| 15. hivatalsegéd | * | * |  |  |  |  |  |  |  |  |
+| 15. hivatalsegéd | * | * |  |  |  |  |  |  |  |  |
 
-| 16. honlap szerkesztő |  |  |  |  | * | * | * | * |  |  |
+| 16. honlap szerkesztő |  |  |  |  | * | * | * | * |  |  |
 
-| 17. iktató |  | * | * | * |  |  |  |  |  |  |
+| 17. iktató |  | * | * | * |  |  |  |  |  |  |
 
-| 18. iratkezelő |  | * | * | * |  |  |  |  |  |  |
+| 18. iratkezelő |  | * | * | * |  |  |  |  |  |  |
 
-| 19. jogtanácsos |  |  |  |  |  |  |  |  | * | * |
+| 19. jogtanácsos |  |  |  |  |  |  |  |  | * | * |
 
-| 20. karbantartó | * | * | * |  |  |  |  |  |  |  |
+| 20. karbantartó | * | * | * |  |  |  |  |  |  |  |
 
-| 21. kontroller |  |  |  |  |  | * | * | * |  |  |
+| 21. kontroller |  |  |  |  |  | * | * | * |  |  |
 
-| 22. könyvelő |  |  | * | * | * | * |  |  |  |  |
+| 22. korrektor |  |  | * | * | * |  |  |  |  |  |
 
-| 23. leltározó |  |  | * | * | * |  |  |  |  |  |
+| 23. könyvelő |  |  | * | * | * | * |  |  |  |  |
 
-| 24. mérnök |  |  |  |  |  | * | * | * | * |  |
+| 24. leltározó |  |  | * | * | * |  |  |  |  |  |
 
-| 25. műhelyvezető |  | * | * | * | * |  |  |  |  |  |
+| 25. mérnök (szakterülettel) |  |  |  |  |  | * | * | * | * |  |
 
-| 26. műhelyvezető-helyettes |  | * | * | * | * |  |  |  |  |  |
+| 26. műhelyvezető |  | * | * | * | * |  |  |  |  |  |
 
-| 27. nyilvántartó |  | * | * | * |  |  |  |  |  |  |
+| 27. műhelyvezető-helyettes |  | * | * | * | * |  |  |  |  |  |
 
-| 28. pénz- és értékkezelő |  | * | * | * |  |  |  |  | ’ |  |
+| 28. nyilvántartó (szakterülettel) |  | * | * | * |  |  |  |  |  |  |
 
-| 29. raktáros |  | * | * | * | * |  |  |  |  |  |
+| 29. olvasószerkesztő |  |  | * | * | * |  |  |  |  |  |
 
-| 30. referens |  |  |  |  | * | * | * | * |  |  |
+| 30. pénz- és értékkezelő |  | * | * | * |  |  |  |  |  |  |
 
-| 31. rendszerszervező |  |  |  |  |  | * | * | * |  |  |
+| 31. raktáros |  | * | * | * | * |  |  |  |  |  |
 
-| 32. segédmunkás | * | * |  |  | ’ |  |  |  |  |  |
+| 32. referens |  |  |  |  | * | * | * | * |  |  |
 
-| 33. sokszorosítógép-kezelő | * | * | * |  |  |  |  |  |  |  |
+| 33. rendszerszervező |  |  |  |  |  | * | * | * |  |  |
 
-| 34. system manager |  |  |  | * | * | * | * | * |  |  |
+| 34. segédmunkás | * | * |  |  |  |  |  |  |  |  |
 
-| 35. system operator |  |  | * | * | * | * |  |  |  |  |
+| 35. sokszorosítógép-kezelő | * | * | * |  |  |  |  |  |  |  |
 
-| 36. szakértő |  |  |  |  |  | * | * | * | * | * |
+| 36. szakértő (szakterülettel) |  |  |  |  |  | * | * | * | * | * |
 
-| 37. szakmunkás |  | * | * | * |  |  |  |  |  |  |
+| 37. szakmunkás (szakterülettel) |  | * | * | * |  |  |  |  |  |  |
 
-| 38. szakreferens |  |  |  |  |  | * | * | * |  |  |
+| 38. szakreferens (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
 
-| 39. szaktanácsadó |  |  |  |  |  | * | * | * |  |  |
+| 39. szaktanácsadó (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
 
-| 40. számítógépes rendszergazda |  |  |  |  |  | * | * | * | * |  |
+| 40. számítógépes rendszergazda |  |  |  |  |  | * | * | * | * |  |
 
-| 41. számítógép-hálózat üzemeltető |  |  |  |  | * | * | * | * |  |  |
+| 41. számítógép-hálózat üzemeltető |  |  |  |  | * | * | * | * |  |  |
 
-| 42. számítógép-rendszer üzemeltető |  |  |  | * | * | * | * | * |  |  |
+| 42. számítógép-rendszer üzemeltető |  |  |  | * | * | * | * | * |  |  |
 
-| 43. személyi titkár |  |  |  |  |  | * | * | * |  |  |
+| 43. személyi titkár |  |  |  |  |  | * | * | * |  |  |
 
-| 44. takarító | * | * |  |  |  |  |  |  |  |  |
+| 44. takarító | * | * |  |  |  |  |  |  |  |  |
 
-| 45. tanácsadó |  |  |  |  |  | * | * | * |  |  |
+| 45. tanácsadó |  |  |  |  |  | * | * | * |  |  |
 
-| 46. technikai alkalmazott |  |  | * | * | * | * |  |  |  |  |
+| 46. technikai alkalmazott |  |  | * | * | * | * |  |  |  |  |
 
-| 47. technikus |  |  |  | * | * |  |  |  |  |  |
+| 47. technikus (szakterülettel) |  |  |  | * | * |  |  |  |  |  |
 
-| 48. telefonközpont kezelő | * | * | * |  |  |  |  |  |  |  |
+| 48. telefonközpont kezelő | * | * | * |  |  |  |  |  |  |  |
 
-| 49. titkárnő |  |  | * | * | * | * |  |  |  |  |
+| 49. titkárnő |  |  | * | * | * | * |  |  |  |  |
 
-| 50. ügykezelő |  | * | * | * |  |  |  |  |  |  |
+| 50. tördelőszerkesztő |  |  | * | * | * |  |  |  |  |  |
 
-| 51. ügyviteli alkalmazott | * | * | * |  |  |  |  |  |  |  |
+| 51. ügykezelő |  | * | * | * |  |  |  |  |  |  |
 
-| 52. ügyvitelszervező |  |  |  |  |  | * | * | * | * |  |
+| 52. ügyviteli alkalmazott | * | * | * |  |  |  |  |  |  |  |
 
-| 53. üzemeltetésvezető (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
+| 53. ügyvitelszervező |  |  |  |  |  | * | * | * | * |  |
 
-2. számú melléklet az 1/2009. (I. 30.) MeHVM rendelethez
+| 54. üzemeltetésvezető (szakterülettel) |  |  |  |  |  | * | * | * |  |  |
+
+2. számú melléklet az 1/2009. (I. 30.) MeHVM rendelethez[^13]
+
+[^13]: A 2. számú melléklet az 1/2010. (II. 11.) MeHVM rendelet 3. § b) pontjával megállapított szöveg.

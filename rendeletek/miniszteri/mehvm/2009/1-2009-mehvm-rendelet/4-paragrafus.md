@@ -8,7 +8,7 @@ b) a KSZK főigazgatója, főigazgató-helyettese és igazgatója,
 
 c) a NIIF Intézet igazgatója és gazdasági igazgatója,
 
-d) az Iroda tekintetében a külön jogszabályban meghatározott személyek.
+d)[^7]
 
 (2) Vezető
 
@@ -17,3 +17,5 @@ a) a KSZF tekintetében a magasabb vezető által megbízott igazgató, a főosz
 b) a KSZK tekintetében az irodavezető, az osztályvezető, a titkárságvezető,
 
 c) a NIIF Intézet tekintetében az igazgatóhelyettes, a titkárságvezető, az osztályvezető, az osztályvezető-helyettes/csoportvezető.
+
+[^7]: A 4. § (1) bekezdés d) pontját az 1/2010. (II. 9.) TM rendelet 10. § (3) bekezdés d) pontja hatályon kívül helyezte.

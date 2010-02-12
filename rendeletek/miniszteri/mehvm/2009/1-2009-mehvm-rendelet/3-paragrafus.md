@@ -20,9 +20,7 @@ h) a raktáros,
 
 i) a referens,
 
-j) a system manager,
-
-k) a system operátor,
+j)–k)[^5]
 
 l) a szakértő,
 
@@ -60,4 +58,7 @@ h) a menedzser
 
 (3) A gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatosan a NIIF Intézet alaptevékenységének ellátásával összefüggő munkakörnek minősül az informatikus munkakör.
 
-(4) A gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatosan az Iroda alaptevékenységének ellátásával összefüggő munkakörnek minősül a pályázati referens munkakör.
+(4)[^6]
+
+[^5]: A 3. § (1) bekezdés j)–k) pontjait az 1/2010. (II. 11.) MeHVM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^6]: A 3. § (4) bekezdését az 1/2010. (II. 9.) TM rendelet 10. § (3) bekezdés c) pontja hatályon kívül helyezte.
