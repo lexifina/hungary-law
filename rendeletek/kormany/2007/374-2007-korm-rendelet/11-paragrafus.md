@@ -4,6 +4,6 @@
 
 11. § (1) Ez a rendelet 2008. január 1-jén lép hatályba.
 
-(2)[^9] E rendelet 7. § (3) bekezdése 2011. június 30-án hatályát veszti.
+(2)[^11] E rendelet 7. § (3) bekezdése 2011. június 30-án hatályát veszti.
 
-[^9]: A 11. § (2) bekezdése az 53/2009. (III. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^11]: A 11. § (2) bekezdése az 53/2009. (III. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
