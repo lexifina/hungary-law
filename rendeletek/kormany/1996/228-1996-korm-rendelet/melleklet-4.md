@@ -26,4 +26,4 @@
 
 4. számú melléklet a 228/1996. (XII. 26.) Korm. rendelethez[^35]
 
-[^35]: A 4. számú mellékletet újonnan a 326/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^35]: A 4. számú mellékletet újonnan a 326/2009. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 26/2010. (II. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.

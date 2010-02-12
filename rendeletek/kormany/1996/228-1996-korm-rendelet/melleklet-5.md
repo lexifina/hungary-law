@@ -2,7 +2,7 @@
 
 | Intézmény megnevezése | Előirányzat-felhasználási keretszámla |
 
-| 1. | Baranya Megyei Mezőgazdasági Szakigazgatási Hivatal | 10025003-00289809-00000000 |
+| 1. | Baranya Megyei Mezőgazdasági Szakigazgatási Hivatal | 10024003-00289809-00000000 |
 
 | 2. | Bács-Kiskun Megyei Mezőgazdasági Szakigazgatási Hivatal | 10025004-00289799-00000000 |
 

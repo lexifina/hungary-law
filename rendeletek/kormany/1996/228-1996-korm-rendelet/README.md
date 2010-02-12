@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-228-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1996-228-20-22.11 | 228/1996. (XII. 26.) Korm. rendelet |
+| 2010-02-12 | 1996-228-20-22.12 | 326/2009. (XII. 29.) Korm. rendelet |
