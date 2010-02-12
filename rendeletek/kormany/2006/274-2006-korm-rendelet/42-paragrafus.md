@@ -14,7 +14,7 @@ f) folyamatosan figyelemmel kíséri a mezőgazdasági termelők által igénybe
 
 g) részt vesz a térségfejlesztési, vízgazdálkodási és környezetvédelmi feladatok ellátásában;
 
-h)[^76]
+h)[^78]
 
 i) ellátja a termésbecsléssel, állapotminősítéssel, valamint az ezekhez kapcsolódó nyilvántartások vezetésével összefüggő feladatokat;
 
@@ -26,4 +26,4 @@ l) közreműködik a kábítószer előállítására alkalmas növények termes
 
 m) a tagállami állampolgárok termőföld tulajdonszerzésével kapcsolatosan környezettanulmányt készít, amelynek alapján igazolást ad ki a tagállami állampolgárok mezőgazdasági tevékenységének folytatásáról.
 
-[^76]: A 42. § h) pontját a 145/2009. (VII. 10.) Korm. rendelet 28. § (5) bekezdés g) pontja hatályon kívül helyezte. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^78]: A 42. § h) pontját a 145/2009. (VII. 10.) Korm. rendelet 28. § (5) bekezdés g) pontja hatályon kívül helyezte. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.

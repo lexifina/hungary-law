@@ -24,5 +24,8 @@
 
 (13) Az Éltv. 55. §-ában meghatározott kártalanításról ötmillió forint összeghatárig a kerületi hivatal, ötmillió forintot meghaladóan az MgSzH területi szerve dönt.
 
+(14)[^26] A Központ és az MgSzH területi szerve ellátja a Bizottság 2009. július 13-i, a 2005/94/EK tanácsi irányelvnek a baromfitartó egységek és más, fogságban tartott madarakat tartó egységek madárinfluenza szempontjából történő jóváhagyása, valamint az említett egységekben hozott további biológiai biztonsági megelőző intézkedések tekintetében történő végrehajtásáról szóló 616/2009/EK rendeletének végrehajtása során a tagállami feladatokat.
+
 [^24]: A 13. § a 145/2009. (VII. 10.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
 [^25]: A 13. § (5) bekezdése a 145/2009. (VII. 10.) Korm. rendelet 28. § (8) bekezdése szerint módosított szöveg.
+[^26]: A 13. § (14) bekezdését a 26/2010. (II. 12.) Korm. rendelet 1. §-a iktatta be.
