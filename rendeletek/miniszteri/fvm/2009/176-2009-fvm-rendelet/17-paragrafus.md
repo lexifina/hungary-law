@@ -1,10 +1,6 @@
 17. § (1) Ez a rendelet a kihirdetését követő 45. napon lép hatályba, azzal, hogy rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(2) Hatályát veszti:
-
-a) az egyes számítógépes adatbázisból történő lekérdezés útján szolgáltatható ingatlan-nyilvántartási adatok igazgatási szolgáltatási díjáról és az adatátviteli vonalon történő adatszolgáltatásról szóló 41/2002. (V. 14.) FVM rendelet,
-
-b) az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjáról szóló 118/2005. (XII. 19.) FVM rendelet.
+(2)[^1]
 
 (3) A (2) bekezdés a hatálybalépést követő napon hatályát veszti. E bekezdés a hatálybalépést követő második napon hatályát veszti.
 
@@ -53,3 +49,5 @@ Melléklet a 176/2009. (XII. 28.) FVM rendelethez
 | Zala Megyei Földhivatal | 10049006-01409505-00000000 |
 
 | Földmérési és Távérzékelési Intézet | 10032000-01474527-00000000 |
+
+[^1]: A 17. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
