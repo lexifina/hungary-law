@@ -1,9 +1,5 @@
+## 6. §[^5]
+
 ## Oktatás, kutatás célját szolgáló erdők
 
-7. § (1) Tanerdő.
-
-(2) Kísérleti erdő.
-
-(3) Vadaspark.
-
-Az erdőrészletekre megállapított rendeltetések, illetve feladatok nyilvántartásánál a 8–12. §-okban foglaltak figyelembevételével kell eljárni.
+[^5]: A 6. §-t a 11/2010. (II. 4.) FVM rendelet 16. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 15. § (1) bekezdése alapján a 2010. február 12-ét követően megindult eljárásokban kell alkalmazni.

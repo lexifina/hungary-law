@@ -1,7 +1,5 @@
+## 32. §[^18]
+
 ## Az erdőrészlet tízéves terve
 
-33. § (1) Az erdőrészlet szintű tervezés alapját – az erdőrészlet rendeltetései és a korlátozó tényezőkön kívül – az erdőrészlet állapotadatai, a területen folytatott erdőgazdálkodás értékelése, valamint az országos és helyi erdőtervezési irányelvek képezik.
-
-(2) Az erdőrészletre vonatkozó állománynevelés tervezése során figyelembe kell venni az érvényben levő erdőnevelési modelltáblák (a továbbiakban: modelltáblák) ajánlásait.
-
-(3) A erdősítések tervezése során meg kell tervezni a termőhelynek megfelelő erdőfelújítási célállományt és annak fafaj-összetételét.
+[^18]: A 32. §-t a 11/2010. (II. 4.) FVM rendelet 16. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 15. § (1) bekezdése alapján a 2010. február 12-ét követően megindult eljárásokban kell alkalmazni.

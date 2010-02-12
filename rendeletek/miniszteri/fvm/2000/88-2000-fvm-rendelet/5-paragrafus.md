@@ -1,15 +1,5 @@
+## 4. §[^3]
+
 ## Gazdasági erdők
 
-5. § (1) Faanyagtermelést szolgáló erdők:
-
-a) faanyagtermelő erdő,
-
-b) faültetvény.
-
-(2) Szaporítóanyag-termelést szolgáló erdők.
-
-(3) Vadaskert.
-
-(4) Karácsonyfatelep (erdőterületen létesített).
-
-(5) Bot, vessző és díszítőgally termelését szolgáló erdő (erdőterületen létesített).
+[^3]: A 4. §-t a 11/2010. (II. 4.) FVM rendelet 16. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 15. § (1) bekezdése alapján a 2010. február 12-ét követően megindult eljárásokban kell alkalmazni.

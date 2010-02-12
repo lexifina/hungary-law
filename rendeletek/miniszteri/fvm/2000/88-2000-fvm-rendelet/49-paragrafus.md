@@ -1,9 +1,5 @@
+## 48. §[^34]
+
 ## A körzeti erdőterv adatainak átvétele
 
-## 49. § A területi beosztást, a térképet és az állapotadatokat a körzeti erdőtervből kell átvenni, azok módosítására a következőket kell alkalmazni:
-
-a) ha az erdőterület határának változása miatt vagy más okból (például részterületre vonatkozó tervezés) az erdőrészletek határait az erdőtervhez képest meg kell változtatni, akkor ez az alrészletek alakításával történhet;
-
-b) a kialakított alrészletekre az erdőtervnek megfelelő tartalmú és pontosságú erdőleírást és az erdőtervi részlet korlátozásait érvényesítő tervezést kell készíteni;
-
-c) az így keletkezett alrészlet határait a nyilvántartási térképre is rá kell vezetni.
+[^34]: A 48. §-t a 11/2010. (II. 4.) FVM rendelet 16. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 15. § (1) bekezdése alapján a 2010. február 12-ét követően megindult eljárásokban kell alkalmazni.

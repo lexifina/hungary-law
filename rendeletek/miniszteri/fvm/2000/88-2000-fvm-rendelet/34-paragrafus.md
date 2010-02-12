@@ -1,19 +1,7 @@
+## 33. §[^19]
+
 ## A KÖRZETI ERDŐTERVI FELVÉTELEK FELDOLGOZÁSA
 
 ## Feldolgozási munkák
 
-34. § (1) A körzeti erdőtervezés feldolgozási munkái során a következő feladatokat kell elvégezni:
-
-a) alaptérkép készítése,
-
-b) területszámítás,
-
-c) termőhelyfeltárási,
-
-d) fakészletmérési és
-
-e) erdőleírási és tervezési adatok feldolgozása,
-
-f) az erdő nem anyagi szolgáltatásainak erdőrészlet szintű értékelése.
-
-(2) A körzeti erdőterv készítéséhez az Útmutatóban foglalt fatermési táblák, modelltáblák, valamint kezelő programjaik iránymutatást tartalmaznak.
+[^19]: A 33. §-t a 11/2010. (II. 4.) FVM rendelet 16. § (1) bekezdése hatályon kívül helyezte, e módosító rendelet 15. § (1) bekezdése alapján a 2010. február 12-ét követően megindult eljárásokban kell alkalmazni.
