@@ -1,3 +1,0 @@
-## 1. § A Mezőgazdasági Szakigazgatási Hivatal létrehozásáról és működéséről szóló 274/2006. (XII. 23.) Korm. rendelet 13. §-a a következő (14) bekezdéssel egészül ki:
-
-## „(14) A Központ és az MgSzH területi szerve ellátja a Bizottság 2009. július 13-i, a 2005/94/EK tanácsi irányelvnek a baromfitartó egységek és más, fogságban tartott madarakat tartó egységek madárinfluenza szempontjából történő jóváhagyása, valamint az említett egységekben hozott további biológiai biztonsági megelőző intézkedések tekintetében történő végrehajtásáról szóló 616/2009/EK rendeletének végrehajtása során a tagállami feladatokat.”
