@@ -2,7 +2,7 @@
 
 (2)[^1]
 
-(3) A (2) bekezdés a hatálybalépést követő napon hatályát veszti. E bekezdés a hatálybalépést követő második napon hatályát veszti.
+(3)[^2]
 
 Melléklet a 176/2009. (XII. 28.) FVM rendelethez
 
@@ -51,3 +51,4 @@ Melléklet a 176/2009. (XII. 28.) FVM rendelethez
 | Földmérési és Távérzékelési Intézet | 10032000-01474527-00000000 |
 
 [^1]: A 17. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^2]: A 17. § (3) bekezdése ugyanezen bekezdés alapján hatályát veszette.
