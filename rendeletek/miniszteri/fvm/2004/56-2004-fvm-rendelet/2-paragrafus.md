@@ -50,15 +50,15 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 22. |  |  |  |  |
 
-| 23. | 1–2–96/77 | Az élelmiszerekben használható egyes adalékanyagok tisztasági követelményei, az édesítőszerek és színezékek kivételével | A Bizottság 96/77/EK irányelve | 2004. május 1. |
+| 23. |  |  |  |  |
 
-| 24. | 1–2–98/86 | Az élelmiszerekben használható egyes adalékanyagok tisztasági követelményei, az édesítőszerek és színezékek kivételével (Első kiegészítés) | A Bizottság 98/86/EK irányelve | 2004. május 1. |
+| 24. |  |  |  |  |
 
 | 25. | 1–2–1999/2 | Az élelmiszerek ionizáló energiával való kezelési szabályai (2. kiadás)6 | Az Európai Parlament és a Tanács 1999/2/EK és 1999/3/EK irányelvei | 2007. január 1. |
 
-| 26. | 1–2–2000/63 | Az élelmiszerekben használható egyes adalékanyagok tisztasági követelményei, az édesítőszerek és színezékek kivételével (Második kiegészítés) | A Bizottság 2000/63/EK irányelve | 2004. május 1. |
+| 26. |  |  |  |  |
 
-| 27. | 1–2–2001/30 | Az élelmiszerekben használható egyes adalékanyagok tisztasági követelményei, az édesítőszerek és színezékek kivételével (Harmadik kiegészítés) | A Bizottság 2001/30/EK irányelve | 2004. május 1. |
+| 27. |  |  |  |  |
 
 | 28. |  |  |  |  |
 
@@ -68,9 +68,9 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 31. | 1–2–2002/72 | Az élelmiszerekkel érintkezésbe kerülő műanyagok és műanyag eszközök minőségi követelményei (2. kiadás)7 | A Bizottság 2002/72/EK irányelve, valamint az ezt módosító, a Bizottság 2004/1/EK és 2004/19/EK irányelvei | 2005. január 15. |
 
-| 32. | 1–2–2002/82 | Az élelmiszerekben használható egyes adalékanyagok tisztasági követelményei, az édesítőszerek és színezékek kivételével (Negyedik kiegészítés) | A Bizottság 2002/82/EK irányelve | 2004. május 1. |
+| 32. |  |  |  |  |
 
-| 33. | 1–2–2003/95 | Az élelmiszerekben használható egyes adalékanyagok tisztasági követelményei, az édesítőszerek és színezékek kivételével (Ötödik kiegészítés) | A Bizottság 2003/95/EK irányelve | 2004. szeptember 1. |
+| 33. |  |  |  |  |
 
 | 34. | 1–3–76/621 | Az étolajokban, zsírokban, valamint hozzáadott étolajat és zsírt tartalmazó élelmiszerekben megengedett erukasav- tartalom (2. kiadás)8 | A Tanács 76/621/EGK irányelve | 2006. szeptember 1. |
 
@@ -126,27 +126,27 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 | 60. |  |  |  |  |
 
-| 61. | 1–2–2004/45 | Az élelmiszerekben használható egyes adalékanyagok tisztasági követelményei, az édesítőszerek és színezékek kivételével (Hatodik kiegészítés)21 | A Bizottság 2004/45/EK irányelve | 2005. április 1. |
+| 61. |  |  |  |  |
 
 | 62. |  |  |  |  |
 
 | 63. |  |  |  |  |
 
-| 64. | 1–2–2005/79 | Az élelmiszerekkel érintkezésbe kerülő műanyagok és műanyag eszközök minőségi követelményeiről szóló 1–2–2002/72 előírás módosításáról22 | A Bizottság 2005/79/EK irányelve | 2006. december 1. |
+| 64. | 1–2–2005/79 | Az élelmiszerekkel érintkezésbe kerülő műanyagok és műanyag eszközök minőségi követelményeiről szóló 1–2–2002/72 előírás módosításáról21 | A Bizottság 2005/79/EK irányelve | 2006. december 1. |
 
 | 65. |  |  |  |  |
 
 | 66. |  |  |  |  |
 
-| 67. | 1–3–2006/128 | Az élelmiszerekben használható édesítőszerek különleges tisztasági követelményeinek megállapításáról szóló 95/31/EK irányelv módosításáról és helyesbítéséről23 | A Bizottság 2006/128/EK irányelve | 2008. február 15. |
+| 67. | 1–3–2006/128 | Az élelmiszerekben használható édesítőszerek különleges tisztasági követelményeinek megállapításáról szóló 95/31/EK irányelv módosításáról és helyesbítéséről22 | A Bizottság 2006/128/EK irányelve | 2008. február 15. |
 
-| 68. | 1–2–2006/129 | A színezékeken és édesítőszereken kívüli egyéb élelmiszer-adalékanyagokra vonatkozó különleges tisztasági követelmények megállapításáról szóló 96/77/EK irányelv módosításáról és helyesbítéséről24 | A Bizottság 2006/129/EK irányelve | 2008. február 15. |
+| 68. |  |  |  |  |
 
-| 69. | 1-2-2007/19 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv és az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagok és műanyag tárgyak komponensei kioldódásának vizsgálatához alkalmazandó élelmiszer-utánzó modellanyagok listájának megállapításáról szóló 85/572/EGK tanácsi irányelv módosításáról25 | A Bizottság 2007/19/EK irányelve | 2008. április 1. |
+| 69. | 1-2-2007/19 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv és az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagok és műanyag tárgyak komponensei kioldódásának vizsgálatához alkalmazandó élelmiszer-utánzó modellanyagok listájának megállapításáról szóló 85/572/EGK tanácsi irányelv módosításáról23 | A Bizottság 2007/19/EK irányelve | 2008. április 1. |
 
-| 70. | 1-3-2007/61 | Az egyes emberi fogyasztásra szánt, részben vagy teljesen dehidratált tartós tejekről szóló 1-3-2001/114 számú előírás módosításáról26 | A Tanács 2007/61/EK irányelve | 2008. július 1. |
+| 70. | 1-3-2007/61 | Az egyes emberi fogyasztásra szánt, részben vagy teljesen dehidratált tartós tejekről szóló 1-3-2001/114 számú előírás módosításáról24 | A Tanács 2007/61/EK irányelve | 2008. július 1. |
 
-| 71. | 1-2-2008/39 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv módosításáról27 | A Bizottság 2008/39/EK irányelve | 2009. március 1. |
+| 71. | 1-2-2008/39 | Az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő műanyagokról és műanyag tárgyakról szóló 2002/72/EK irányelv módosításáról25 | A Bizottság 2008/39/EK irányelve | 2009. március 1. |
 
 3 A 152/2009. (XI. 12.) FVM rendelet 2. § (3) bekezdése alapján a melléklet 2. sora szerinti, a Magyar Élelmiszerkönyv 1-1-90/496 számú előírása 2. kiadásának megfelelő, de a 152/2009. (XI. 12.) FVM rendelet 1. melléklete szerinti új előírásainak nem megfelelő termékek 2012. október 31-ig forgalmazhatóak.
 
@@ -184,19 +184,15 @@ Melléklet az 56/2004. (IV. 24.) FVM rendelethez[^2]
 
 20 Az előírást a 19/2007. (III. 29.) FVM rendelet melléklete tartalmazza.
 
-21 Az előírást a 2/2005. (I. 11.) FVM rendelet melléklete tartalmazza.
+21 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
 
-22 Az előírást a 79/2006. (XI. 17.) FVM rendelet melléklete tartalmazza.
+22 Az előírást az 57/2007. (VII. 6.) FVM rendelet melléklete tartalmazza.
 
-23 Az előírást az 57/2007. (VII. 6.) FVM rendelet melléklete tartalmazza.
+23 Az előírást a 6/2008. (I. 17.) FVM rendelet melléklete tartalmazza.
 
-24 Az előírást az 57/2007. (VII. 6.) FVM rendelet – Magyar Közlöny 2007. évi 140. számában megjelent helyesbítésnek megfelelő – melléklete tartalmazza.
+24 Az előírást a 68/2008. (V. 16.) FVM rendelet melléklete tartalmazza.
 
-25 Az előírást a 6/2008. (I. 17.) FVM rendelet melléklete tartalmazza.
-
-26 Az előírást a 68/2008. (V. 16.) FVM rendelet melléklete tartalmazza.
-
-27 Az előírást a 117/2008. (IX. 5.) FVM rendelet melléklete tartalmazza.
+25 Az előírást a 117/2008. (IX. 5.) FVM rendelet melléklete tartalmazza.
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 1. sorszámú előírása[^3]
 
@@ -5390,8 +5386,30 @@ Csapadékképző reagens: 3,0 g cink-szulfátot (ZnSO4 . 7H2O) és 0,6 g réz-sz
 
 Gibb reagens: 0,040 g 2,6-dibrómkinon-1,4-klórimidet (C6H2Br2ClNO) 10 ml 96%-os etil-alkoholban feloldunk. Az oldatot sötét üvegben hűtőszekrényben tároljuk. Elszíneződött reagens nem használható.
 
+4.6. Színhígító puffer
+
+A színképző B oldatból (4.2.) 10 ml-t vízzel 100 ml-re hígítunk.
+
+4.7. Réz-szulfát oldat
+
+0,05 g réz(II)-szulfátot (CuSO4 . 5H2O) vízben oldunk és vízzel 100 ml-re feltöltjük.
+
+4.8. Fenol törzsoldat
+
+0,200±0,001 g tiszta fenolt vízben oldunk és mérőlombikban 100 ml-re feltöltjük. Az oldat hűtőszekrényben néhány hónapig eltartható. Ebből az oldatból 10 ml-t vízzel 100 ml-re feltöltünk. Ezen hígított oldat 1 ml-e 200 µg fenolt tartalmaz és további hígítások előállításához is felhasználható.
+
+4.9. Kiforralt desztillált víz
+
+4.10. n-butanol
+
+5. Eszközök
+
+5.1. Analitikai mérleg
+
+5.2. Vízfürdő, 37±1 °C-ra beállítható
+
 [^1]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 240. pontja hatályon kívül helyezte.
-[^2]: A melléklet a 123/2004. (VII. 29.) FVM rendelet 2. §-a, a 2/2005. (I. 11.) FVM rendelet és a 20/2005. (III. 22.) FVM rendelet 1. §-a és 2. § (2) bekezdése, valamint a 72/2005. (VIII. 15.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, az 57/2006. (VIII. 4.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, a 79/2006. (XI. 17.) FVM rendelet 1. §-a, a 19/2007. (III. 29.) FVM rendelet 1. §-a, az 57/2007. (VII. 6.) FVM rendelet 1. §-a és 2. § (3) bekezdése szerint módosított, valamint a Magyar Közlöny 2007. évi 140. számában megjelent helyesbítésnek megfelelő szöveg. A melléklet a 6/2008. (I. 17.) FVM rendelet 1. §-a, a 68/2008. (V. 16.) FVM rendelet 1. §-a, a 117/2008. (IX. 5.) FVM rendelet 1. §-a, a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a)–h) pontja, 2. § (5) bekezdés a)–f) pontja szerint módosított szöveg.
+[^2]: A melléklet a 123/2004. (VII. 29.) FVM rendelet 2. §-a, a 2/2005. (I. 11.) FVM rendelet és a 20/2005. (III. 22.) FVM rendelet 1. §-a és 2. § (2) bekezdése, valamint a 72/2005. (VIII. 15.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, az 57/2006. (VIII. 4.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, a 79/2006. (XI. 17.) FVM rendelet 1. §-a, a 19/2007. (III. 29.) FVM rendelet 1. §-a, az 57/2007. (VII. 6.) FVM rendelet 1. §-a és 2. § (3) bekezdése szerint módosított, valamint a Magyar Közlöny 2007. évi 140. számában megjelent helyesbítésnek megfelelő szöveg. A melléklet a 6/2008. (I. 17.) FVM rendelet 1. §-a, a 68/2008. (V. 16.) FVM rendelet 1. §-a, a 117/2008. (IX. 5.) FVM rendelet 1. §-a, a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a)–h) pontja, 2. § (5) bekezdés a)–f) pontja, 2. § (7) bekezdés a)–c) pontja szerint módosított szöveg. A melléklet 14. sorát a 152/2009. (XI. 12.) FVM rendelet 2. § (8) bekezdése hatályon kívül helyezte 2011. január 20. napjával.
 [^3]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az 57/2006. (VIII. 4.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^4]: Az előírás a 72/2005. (VIII. 15.) FVM rendelet mellékletében jelent meg. A 72/2005. (VIII. 15.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni.
 [^5]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 17. sorszámú előírás a 6/2008. (I. 17.) FVM rendelet 2. §-a szerint módosított szöveg.
