@@ -2,7 +2,7 @@
 
 ## A díjfizetési szabályok
 
-4. § (1) A díjfizetési kötelezettség – adatszolgáltatási eljárás esetében ideértve a fellebbezés díját is – az adatszolgáltatásra illetékes szerv pénztárába készpénzben történő befizetéssel vagy az általa megjelölt költségvetési elszámolási számla, előirányzat-felhasználási keretszámla (a továbbiakban együtt: bankszámla) javára történő átutalási megbízással, illetőleg készpénz-átutalási megbízással való megfizetéssel teljesíthető. A díjat a szolgáltatás teljesítésétől számított 15 napon belül, illetőleg a fellebbezés benyújtásakor kell megfizetni.
+4. § (1)[^1] A díjfizetési kötelezettség – adatszolgáltatási eljárás esetében ideértve a fellebbezés díját is – az adatszolgáltatásra illetékes szerv pénztárába készpénzben történő befizetéssel vagy az általa megjelölt költségvetési elszámolási számla, előirányzat-felhasználási keretszámla (a továbbiakban együtt: bankszámla) javára történő átutalási megbízással, illetőleg készpénz-átutalási megbízással való megfizetéssel teljesíthető. A díjat a szolgáltatás teljesítésétől számított 15 napon belül, illetőleg a fellebbezés benyújtásakor kell megfizetni. A melléklet 6. pontja szerinti adatszolgáltatás díjának megfizetésére vonatkozó szabályokat a Magyar Országos Közjegyzői Kamara (a továbbiakban: országos kamara) és a nyilvántartást vezető szerv közötti együttműködési megállapodás rögzíti.
 
 (2) A nem elektronikus úton kezdeményezett eljárás megindításával egyidejűleg az igazgatási szolgáltatási díj fizetésére vonatkozó kötelezettség bankkártyával is teljesíthető, amennyiben az ehhez szükséges műszaki feltételek rendelkezésre állnak.
 
@@ -20,9 +20,9 @@ d) az adatszolgáltatásban közölt személyi vagy lakcímadatok megegyeznek az
 
 (5) A díjat az adatszolgáltatás teljesítésére illetékes szerv bevételként, a költségvetési gazdálkodási rend szerint működő szervek részére előírt könyvvezetési és beszámolási kötelezettségekről szóló kormányrendeletben foglaltak szerint számolja el. A kormányrendelet előírásait kell alkalmazni a díjak elszámolása, kezelése, nyilvántartása, illetve visszatérítése esetén is.
 
-(6)[^1] Az elektronikus kapcsolattartás keretében teljesített adatszolgáltatásért fizetendő díj a díjtétel és a tételszám szorzata.
+(6)[^2] Az elektronikus kapcsolattartás keretében teljesített adatszolgáltatásért fizetendő díj a díjtétel és – kivéve ahol e rendelet melléklete eltérően rendelkezik – a tételszám szorzata.
 
-(7)[^2] A fellebbezés díja 5000 Ft. A díj megfizetését, ha az ügyben első fokon
+(7)[^3] A fellebbezés díja 5000 Ft. A díj megfizetését, ha az ügyben első fokon
 
 a) a személyiadat- és lakcímnyilvántartás központi szerve járt el, az IRM-nek a Magyar Államkincstárnál vezetett, 10032000–01483305–00000000 számú előirányzat-felhasználási keretszámlájára,
 
@@ -30,5 +30,6 @@ b) a települési (fővárosi kerületi) önkormányzat jegyzője vagy a körzet
 
 átutalással vagy készpénz-átutalási megbízással kell teljesíteni.
 
-[^1]: A 4. § (6) bekezdése a 45/2009. (IX. 25.) IRM–MeHVM együttes rendelet 3. §-a szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
-[^2]: A 4. § (7) bekezdését a 45/2009. (IX. 25.) IRM–MeHVM együttes rendelet 1. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
+[^1]: A 4. § (1) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 2. §-ával megállapított szöveg.
+[^2]: A 4. § (6) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 3. §-ával megállapított szöveg.
+[^3]: A 4. § (7) bekezdését a 45/2009. (IX. 25.) IRM–MeHVM együttes rendelet 1. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
