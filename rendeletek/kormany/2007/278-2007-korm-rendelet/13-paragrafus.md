@@ -1,5 +1,3 @@
-## 12. §[^1]
-
 ## 13. § E rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) a Tanács 1407/2002/EK rendelete (2002. július 23.) a szénipar részére nyújtott állami támogatásról;
@@ -19,5 +17,3 @@ A kifizetett szénipari szerkezetátalakítási támogatás összege
 | 2010. | 6 960 300 000 |
 
 | Összes kifizetés 2008–2010. | 22 942 899 996 |
-
-[^1]: A 12. § ugyanezen § rendelkezése alapján 2008. január 2-án hatályát vesztette.
