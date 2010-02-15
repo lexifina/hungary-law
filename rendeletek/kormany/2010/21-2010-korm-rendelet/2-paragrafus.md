@@ -1,0 +1,43 @@
+## 1. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet (a továbbiakban: R.) a következő 28. §-sal egészül ki:
+
+## „28. § (1) Lőfegyver, lőszer megszerzése és tartása jogi személynek, illetve jogi személyiséggel nem rendelkező szervezetnek – az Ftv.-ben, valamint a (2) és (3) bekezdésben meghatározott kivétellel – nem engedélyezhető.
+
+## (2) Lőfegyver, lőszer megszerzése és tartása az alábbi szervezeteknek engedélyezhető:
+
+## a) hosszú lőfegyverre az erdő- és vadgazdálkodással, vadászattal, vadkereskedelemmel, erdészettel, természetvédelemmel foglalkozó gazdálkodó szervezet, közigazgatási szerv, egyesület, egyesületek megyei és országos szövetsége, a hivatásos és sportvadászok kamaraként működő köztestülete, tudományos kutatóintézet, felsőoktatási intézmény, nevelési-oktatási intézmény, ha bizonyítja, hogy feladatainak ellátásához szükséges a lőfegyver,
+
+## b) sportlőfegyverre a sportlövészet folytatása céljából nyilvántartásba vett sportegyesület, ha az országos sportági szakszövetség a szövetségi tagságot igazolja,
+
+## c) sportlövészetre, illetve lövészeti oktatásra az a szervezet, amely az adott típusú és kaliberjelű lőfegyverre kiadott lőtér-üzemeltetési engedéllyel, valamint lőtérszabályzattal rendelkezik,
+
+## d) a polgári célra felhasználható lőfegyverek, lőszerek és hatástalanított lőfegyverek vizsgálatára, valamint lőfegyverek és lőszerek hatástalanítására jogosult szervezet, feladatai ellátására,
+
+## e) igazságügyi fegyverszakértői vizsgálati tevékenységet folytató szervezet, valamint muzeális intézmény a feladatköréhez kapcsolódóan,
+
+## f) lőszerpróbára az a szervezet, amely lőszer gyártására jogosító engedéllyel rendelkezik,
+
+## g) rövid lőfegyverre az a szervezet, amely a saját vagy mások vagyonát hivatásszerűen őrzi, mások életét, testi épségét hivatásszerűen védi, ha bizonyítja, hogy feladatainak ellátásához szükséges a lőfegyver.
+
+## (3) Igazságügyi fegyverszakértői vizsgálati tevékenységet folytató és lőszergyártási engedéllyel rendelkező szervezetnek, valamint muzeális intézménynek – feladatkörére tekintettel – „A” kategóriába tartozó lőszer és automata lőfegyver, valamint hangtompító megszerzése és tartása is engedélyezhető.”
+
+2. § (1) Ez a rendelet 2010. február 15-én lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) Hatályát veszti az R. 1. § (1) bekezdés 6. pontjában a „rendeltetésszerűen” szövegrész, 13. §-ában a „ , valamint nem áll a 3. § (1) bekezdésében foglalt kizáró feltételeinek hatálya alatt” szövegrész, 26. § (1) bekezdés a) pontja.
+
+(3) Az R. 4. § (1) bekezdésében a „célú, kivitelét, a tevékenység helye, az ország területén történő átszállítását, behozatalát” szövegrész helyébe a „célú kivitelét, behozatalát a tevékenység helye, az ország területén történő átszállítását” szöveg, 4. § (2) bekezdésében az „üzemeltetését” szövegrész helyébe az „üzemeltetését, a lövészetvezetői tevékenység végzését” szöveg, 11. § (1) bekezdésében az „a 3. § (1) bekezdésében foglaltak ellenőrzése alapján kiadott” szövegrész helyébe az „az” szöveg, 13. §-ában az „a kérelmező, illetve a 3. § (2) bekezdésében meghatározott személy” szövegrész helyébe az „a kérelmező” szöveg, 29. §-ában a „28. §-ban” szövegrész helyébe a „28. § (2) bekezdésében” szöveg, 37. § (7) bekezdésében a „28. § (1) bekezdésében” szövegrész helyébe a „28. § (2) bekezdésében” szöveg, a „35. § (2) bekezdés szerinti határozatban” szövegrész helyébe a „35. § (1) bekezdése szerinti engedélyben” szöveg, valamint 38. § (1) bekezdés b) pontjában a „biztosítva, rejtve” szövegrész helyébe a „biztosítva, – a személy- és vagyonvédelemre engedélyezett rövid lőfegyver kivételével – rejtve” szöveg lép.
+
+(4) A közigazgatási versenyvizsgáról szóló 126/2009. (VI. 15.) Korm. rendelet 21. §-a helyébe a következő rendelkezés lép:
+
+## „21. § (1) Mentesül a versenyvizsga letétele alól az, aki legalább ötéves közigazgatási gyakorlattal rendelkezik.
+
+## (2) Mentesül a versenyvizsga letétele alól az, akivel a közigazgatási szerv határozott idejű közszolgálati jogviszonyt létesít az Európai Unió soros magyar elnökségben közvetlenül résztvevők kiválasztásáról, képzéséről és anyagi elismeréséről szóló 374/2007. (XII. 23.) Korm. rendelet 4. § (1) bekezdésében foglaltakra tekintettel elnökségi feladat ellátására kiírt pályázat lefolytatását követően. Az elnökségi feladat ellátására létesített határozott idejű közszolgálati jogviszony határozatlan idejű közszolgálati jogviszonnyá csak akkor módosítható, ha a köztisztviselő versenyvizsgát tesz.
+
+## (3) Mentesül a feladatátadással közvetlenül összefüggő kinevezés, illetve vezetői megbízás vonatkozásában a versenyvizsga letétele alól az, akinek
+
+## a) a közalkalmazotti jogviszonya a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (1) bekezdése alapján, vagy
+
+## b) a munkaviszonya a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 86/B. §-a alapján
+
+## azért szűnik meg, mert a költségvetési szerv vagy a munkáltató és a közigazgatási szerv között feladatátadására kerül sor.”
+
+(5) Hatályát veszti a közigazgatási versenyvizsgáról szóló 126/2009. (VI. 15.) Korm. rendelet 3. § (4) bekezdése és 1. számú melléklet 5. pontjában a „legalább 5 főt” szövegrészek.
