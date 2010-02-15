@@ -1,8 +1,8 @@
 ## – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
-## A halászati hatósági eljárásokban közreműködő szakhatóságok[^101]
+## A halászati hatósági eljárásokban közreműködő szakhatóságok[^102]
 
-43/H. §[^102] (1) A Kormány
+43/H. §[^103] (1) A Kormány
 
 a) a védett természeti területen, Natura 2000 területen található halászati vízterületen vagy annak egy részén a halászati tilalmi időtől való eltérésre feljogosító mentesítésre, illetve a mentesítés meghosszabbítására irányuló engedélyezési eljárásban, valamint
 
@@ -16,7 +16,7 @@ b) a védett természeti területen, Natura 2000 területen található halásza
 
 a) vízilétesítmény esetén, – a felszíni víztest állapotának védelme, továbbá a jó állapot, a jó ökológiai állapot és potenciál elérése érdekében a halászati tevékenységgel járó terhelés hatásainak vizsgálata, a környezeti célkitűzéseknek való megfelelés megítélése, valamint a monitoring tevékenység feltételei meglétének vizsgálata, továbbá a zsilipek és az engedélyezett és tényleges mederállapot mellett gyakorolható halgazdálkodás feltételeinek, valamint a szükséges és lehetséges beavatkozások, a vízkormányzás szakszerű biztosításának vizsgálata szakkérdésében – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget,
 
-b)[^103] természeti területen, országos jelentőségű védett természeti területen – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget, valamint
+b)[^104] természeti területen, országos jelentőségű védett természeti területen – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget, valamint
 
 c) helyi jelentőségű védett természeti terület esetén, – annak elbírálása kérdésében, hogy a tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a települési önkormányzat jegyzőjét, a fővárosban a főjegyzőt, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét
 
@@ -26,6 +26,6 @@ c) helyi jelentőségű védett természeti terület esetén, – annak elbírá
 
 (5) A Kormány a halfaj külföldről származó egyede vagy ennek továbbtenyésztéséből származó utódja telepítésének engedélyezésére irányuló eljárásban, – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
-[^101]: A 43/H. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^102]: A 43/H. §-t a 362/2008. (XII. 31.) Korm. rendelet 6. § (3) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^103]: A 43/H. § (3) bekezdés b) pontja a 145/2009. (VII. 10.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^102]: A 43/H. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^103]: A 43/H. §-t a 362/2008. (XII. 31.) Korm. rendelet 6. § (3) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^104]: A 43/H. § (3) bekezdés b) pontja a 145/2009. (VII. 10.) Korm. rendelet 20. §-ával megállapított szöveg. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.

@@ -444,6 +444,6 @@
 
 ## Zalai Erdészet és Faipari Zrt.
 
-4. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^115]
+4. számú melléklet a 274/2006. (XII. 23.) Korm rendelethez[^116]
 
-[^115]: A 4. számú mellékletet a 218/2008. (VIII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^116]: A 4. számú mellékletet a 218/2008. (VIII. 30.) Korm. rendelet 19. §-a iktatta be.
