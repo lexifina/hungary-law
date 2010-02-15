@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-328-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-09-22 | 2007-328-20-22.2 | 328/2007. (XII. 11.) Korm. rendelet |
+| 2010-02-15 | 2007-328-20-22.3 | 25/2010. (II. 12.) Korm. rendelet |
