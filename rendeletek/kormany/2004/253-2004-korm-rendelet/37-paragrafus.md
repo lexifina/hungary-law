@@ -12,4 +12,6 @@
 
 (6) A sportegyesület lőfegyverét és lőszerét a sportegyesület igazolt sportolójának a sporttevékenység (edzés, verseny), illetve az ezekre történő szállítás időtartamára átadhatja.
 
-(7) A 28. § (1) bekezdésében meghatározott szervezet lőfegyverét, lőszerét a 35. § (2) bekezdés szerinti határozatban feltüntetett, a vele írásban foglalt szerződés alapján munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban lévő, a lőfegyver megszerzéséhez és tartásához szükséges – e rendeletben meghatározott – feltételekkel rendelkező személynek, a szerződésben meghatározott feladat tényleges ellátásának időtartamára átadhatja.
+(7)[^45] A 28. § (2) bekezdésében meghatározott szervezet lőfegyverét, lőszerét a 35. § (1) bekezdése szerinti engedélyben feltüntetett, a vele írásban foglalt szerződés alapján munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban lévő, a lőfegyver megszerzéséhez és tartásához szükséges – e rendeletben meghatározott – feltételekkel rendelkező személynek, a szerződésben meghatározott feladat tényleges ellátásának időtartamára átadhatja.
+
+[^45]: A 37. § (7) bekezdése a 21/2010. (II. 9.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

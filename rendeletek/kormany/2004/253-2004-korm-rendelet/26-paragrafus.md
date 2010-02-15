@@ -1,6 +1,6 @@
 26. § (1) E rendelet eltérő rendelkezése hiányában lőfegyver megszerzésére és tartására engedély csak akkor adható, ha a kérelmező személy
 
-a) nem áll a 3. § (1) bekezdésében foglalt kizáró rendelkezések hatálya alatt;
+a)[^32]
 
 b) külön jogszabályban meghatározottak szerint a lőfegyver tartásához előírt egészségi alkalmasságát igazolja;
 
@@ -14,10 +14,11 @@ d) a lőfegyver, lőszer tárolásának e rendeletben meghatározott feltételei
 
 (4) E rendelet eltérő rendelkezése hiányában a sportlőfegyver tartásához szükséges elméleti és gyakorlati jártasságot igazoló vizsgát a sportlövő versenybírák esetében a Versenybírói Igazolvány, a sportlövő edzők esetében az Edzői Oklevél helyettesíti.
 
-(5)[^29] E rendelet eltérő rendelkezése hiányában a Rendőrség, a Rendvédelmi Szervek Védelmi Szolgálata, a nemzetbiztonsági szolgálatok, a Vám- és Pénzügyőrség, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának lőfegyver megszerzése és tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.
+(5)[^33] E rendelet eltérő rendelkezése hiányában a Rendőrség, a Rendvédelmi Szervek Védelmi Szolgálata, a nemzetbiztonsági szolgálatok, a Vám- és Pénzügyőrség, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának lőfegyver megszerzése és tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.
 
 (6) Az Európai Unió más tagállamában lakóhellyel rendelkező személy részére lőfegyver tartása akkor engedélyezhető, ha a lakóhely szerinti tagállam illetékes hatósága ezzel előzetesen egyetértett.
 
 (7) A 26. § (1) bekezdésének c) pontja szerinti vizsga letételére kell kötelezni a lőfegyver megszerzését és tartását kérelmező személyt, ha lőfegyvertartási engedélyét az 5. § c) pontja alapján vonták vissza.
 
-[^29]: A 26. § (5) bekezdése a 331/2007. (XII. 13.) Korm. rendelet 1. § 59. pontja szerint módosított szöveg.
+[^32]: A 26. § (1) bekezdés a) pontját a 21/2010. (II. 9.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^33]: A 26. § (5) bekezdése a 331/2007. (XII. 13.) Korm. rendelet 1. § 59. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 29. § Lőfegyver, lőszer megszerzésére és tartására jogosító engedély a 28. §-ban meghatározott szervezet részére csak akkor adható, ha a kérelmező szervezetnél a lőfegyverek, lőszerek tárolásával, átadásával megbízott személy rendelkezik a 26. § (1) bekezdésének a)–c) pontjában meghatározott feltételekkel, és a szervezet a Magyar Köztársaság területén a lőfegyver, lőszer tárolásának e rendeletben meghatározott feltételeivel rendelkezik.
+## 29. §[^36] Lőfegyver, lőszer megszerzésére és tartására jogosító engedély a 28. § (2) bekezdésében meghatározott szervezet részére csak akkor adható, ha a kérelmező szervezetnél a lőfegyverek, lőszerek tárolásával, átadásával megbízott személy rendelkezik a 26. § (1) bekezdésének a)–c) pontjában meghatározott feltételekkel, és a szervezet a Magyar Köztársaság területén a lőfegyver, lőszer tárolásának e rendeletben meghatározott feltételeivel rendelkezik.
 
 30. § (1) Muzeális fegyver sportlövészeti célú használata csak sportlövészettel foglalkozó sportegyesületnek engedélyezhető.
 
@@ -7,3 +7,5 @@
 (3) Muzeális fegyvert sportlövészetre csak sportegyesület tagja használhat.
 
 (4) Muzeális fegyver önvédelmi célra nem viselhető.
+
+[^36]: A 29. § a 21/2010. (II. 9.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

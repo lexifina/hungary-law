@@ -4,6 +4,6 @@
 
 (3) Az (1) bekezdés rendelkezésének alkalmazása során minősített sportlövő az, akinek az országos sportági szakszövetség által kiadott minősítése van.
 
-(4)[^28] Sportlövőnek sportlőfegyver megszerzése, illetve tartása engedélyezhető.
+(4)[^31] Sportlövőnek sportlőfegyver megszerzése, illetve tartása engedélyezhető.
 
-[^28]: A 23. § (4) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 334/2009. (XII. 29.) Korm. rendelet 5. 5 (3) bekezdés a) pontja szerint módosított szöveg.
+[^31]: A 23. § (4) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése, a 334/2009. (XII. 29.) Korm. rendelet 5. 5 (3) bekezdés a) pontja szerint módosított szöveg.

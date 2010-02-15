@@ -10,7 +10,7 @@
 
 5. fegyverviselés: fegyver természetes személy testén, illetve a testén lévő ruházatán rejtett vagy nyílt módon történő elhelyezése;
 
-6. gáz- és riasztófegyver: olyan eszköz, amely rendeltetésszerűen csak gáztöltény és riasztótöltény működtetésére alkalmas;
+6.[^1] gáz- és riasztófegyver: olyan eszköz, amely csak gáztöltény és riasztótöltény működtetésére alkalmas;
 
 7. gáztöltény: olyan, szilárd anyagú lövedékkel nem rendelkező töltény, amely a szemre és a légutakra ingerlő hatást kifejtő adalékanyagot tartalmaz;
 
@@ -33,3 +33,5 @@
 16. vadászlőfegyver: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény (a továbbiakban: Vtv.) szerint vadászatra használható lőfegyver.
 
 (2) Ha kétséges, hogy valamely tárgy az (1) bekezdésben meghatározott fogalmi körbe tartozik-e, a fegyverek és lőszerek vizsgálatára kijelölt szervezet vagy igazságügyi fegyverszakértő álláspontját kell kérni.
+
+[^1]: Az 1. § (1) bekezdés 6. pontja a 21/2010. (II. 9.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

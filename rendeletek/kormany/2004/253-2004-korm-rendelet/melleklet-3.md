@@ -38,7 +38,7 @@
 
 3. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
 
-1.[^77] A fegyver, lőszer (töltény) és lőszerelem gyártása, forgalmazása, illetve a lőfegyver javítása iránti kérelemnek tartalmaznia kell
+1.[^83] A fegyver, lőszer (töltény) és lőszerelem gyártása, forgalmazása, illetve a lőfegyver javítása iránti kérelemnek tartalmaznia kell
 
 – a kérelmező statisztikai jelét (statisztikai törzsszám vagy adószám első nyolc számjegye);
 
@@ -104,4 +104,4 @@ a) a javításra és tárolásra használt helyiségek számát és nagyságát;
 
 b) a javító tevékenység pontos leírását (lőfegyverjavítás, gáz- és riasztófegyver javítás, távcső-szerelés, farészek készítése stb.).
 
-[^77]: A 3. számú melléklet 1. pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (7) bekezdése szerint módosított szöveg.
+[^83]: A 3. számú melléklet 1. pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (7) bekezdése szerint módosított szöveg.

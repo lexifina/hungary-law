@@ -24,7 +24,7 @@ a) a javítási engedéllyel rendelkező a fegyverek és lőszerek vizsgálatár
 
 b) az alkatrésznek megvásárolt és a javításra átvett lőfegyverről a 12. számú mellékletben meghatározott átvételi elismervényt kell adni, két példányban, az átvételi elismervényen fel kell tüntetni a vásárlás vagy a javítás tényét;
 
-c)[^25] a javításra leadott lőfegyver és a fegyvertartási engedély adatait a 9. számú melléklet szerint – a javítási tevékenységet engedélyező hatóság által hitelesített – nyilvántartókönyvben kell vezetni;
+c)[^28] a javításra leadott lőfegyver és a fegyvertartási engedély adatait a 9. számú melléklet szerint – a javítási tevékenységet engedélyező hatóság által hitelesített – nyilvántartókönyvben kell vezetni;
 
 d) a c) pontban említett nyilvántartókönyv elkülönített részében nyilvántartást kell vezetni a megvásárolt lőfegyverekről, fődarabokról és azok hasznosításáról;
 
@@ -40,4 +40,4 @@ b) a lőfegyver (gáz- és riasztófegyver) javítása során a fokozott igényb
 
 c) a lőfegyver (gáz- és riasztófegyver) javítása során fődarabcsere történt.
 
-[^25]: A 15. § (3) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^28]: A 15. § (3) bekezdés c) pontja a 247/2009. (XI. 10.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg.
