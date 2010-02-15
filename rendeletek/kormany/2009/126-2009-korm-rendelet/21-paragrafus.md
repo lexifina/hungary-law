@@ -1,11 +1,15 @@
 ## Mentesség
 
-## 21. § Mentesül a versenyvizsga letétele alól
+21. §[^3] (1) Mentesül a versenyvizsga letétele alól az, aki legalább ötéves közigazgatási gyakorlattal rendelkezik.
 
-a) közszolgálati jogviszonyának fennállása alatt az, aki legalább ötéves közigazgatási gyakorlattal rendelkezik,
+(2) Mentesül a versenyvizsga letétele alól az, akivel a közigazgatási szerv határozott idejű közszolgálati jogviszonyt létesít az Európai Unió soros magyar elnökségben közvetlenül résztvevők kiválasztásáról, képzéséről és anyagi elismeréséről szóló 374/2007. (XII. 23.) Korm. rendelet 4. § (1) bekezdésében foglaltakra tekintettel elnökségi feladat ellátására kiírt pályázat lefolytatását követően. Az elnökségi feladat ellátására létesített határozott idejű közszolgálati jogviszony határozatlan idejű közszolgálati jogviszonnyá csak akkor módosítható, ha a köztisztviselő versenyvizsgát tesz.
 
-b) e jogviszonyának létesítése során az, aki az Európai Unió soros magyar elnökségben közvetlenül résztvevők kiválasztásáról, képzéséről és anyagi elismeréséről szóló 374/2007. (XII. 23.) Korm. rendelet 4. § (9) bekezdése szerint létesít közszolgálati jogviszonyt,
+(3) Mentesül a feladatátadással közvetlenül összefüggő kinevezés, illetve vezetői megbízás vonatkozásában a versenyvizsga letétele alól az, akinek
 
-c)[^2] 2009. november 30-ig a jogviszony létesítése során az, aki a jogviszony létesítésével egy időben vezetői megbízást vagy kinevezést kap.
+a) a közalkalmazotti jogviszonya a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (1) bekezdése alapján, vagy
 
-[^2]: A 21. § c) pontját a 163/2009. (VIII. 6.) Korm. rendelet 24. §-a iktatta be.
+b) a munkaviszonya a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 86/B. §-a alapján
+
+azért szűnik meg, mert a költségvetési szerv vagy a munkáltató és a közigazgatási szerv között feladatátadására kerül sor.
+
+[^3]: A 21. § a 21/2010. (II. 9.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

@@ -8,7 +8,7 @@
 
 ## 4. A szóbeli vizsgán a vizsgázó a vizsgakövetelmények ismeretanyagából tantárgycsoportonként [4. § (1) bekezdés] egy-egy szóbeli tételt (összesen ötöt) húz, majd a vizsgabizottság a tételhez nem tartozó, de a vizsgakövetelmény-rendszeren belüli további kérdések feltevésével is tájékozódhat a vizsgázó felkészültségéről. A szóbeli vizsgarész esetében a vizsgázó tárgyi tudása legfeljebb 40 ponttal, a lényeglátási képessége legfeljebb 20 ponttal, a kommunikációs- és beszédképessége legfeljebb 20 ponttal, a problémafelismerő és reagáló képessége legfeljebb 20 ponttal értékelhető.
 
-## 5. Egy írásbeli vizsgacsoportba legalább 5 főt és legfeljebb 20 főt, egy szóbeli vizsgacsoportba legalább 5 főt és legfeljebb 12 főt lehet beosztani.
+## 5.[^4] Egy írásbeli vizsgacsoportba és legfeljebb 20 főt, egy szóbeli vizsgacsoportba és legfeljebb 12 főt lehet beosztani.
 
 ## 6. A teszt-feladatsor és az esszé megoldása számítógépen történik.
 
@@ -43,3 +43,5 @@
 ## 21. A versenyvizsga anyagai (megírt esszék, adatellenőrző lapok, adminisztrációs lapok, a vizsgajegyzőkönyvek) a versenyvizsgát követő öt év után selejtezhetők.
 
 2. számú melléklet a 126/2009. (VI. 15.) Korm. rendelethez
+
+[^4]: Az 1. számú melléklet 5. pontja a 21/2010. (II. 9.) Korm. rendelet 2. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

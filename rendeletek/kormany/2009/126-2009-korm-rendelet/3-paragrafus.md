@@ -6,4 +6,6 @@
 
 (3) A versenyvizsga kétszintű: középszintű és felsőszintű. A felsőfokú iskolai végzettséggel nem rendelkező vizsgázó a versenyvizsgára történő jelentkezésnél kiválasztja, hogy középszintű vagy felsőszintű versenyvizsgát tesz. A felsőfokú iskolai végzettséggel rendelkező vizsgázó felsőszintű versenyvizsgát tesz. A vizsgázó a versenyvizsga szintjét a versenyvizsgára történő jelentkezés után nem változtathatja meg.
 
-(4) Az I. besorolási osztályba a Ktv. 26. § (2) bekezdése alapján történő besoroláshoz felsőszintű versenyvizsga vagy közigazgatási szakvizsga szükséges.
+(4)[^1]
+
+[^1]: A 3. § (4) bekezdését a 21/2010. (II. 9.) Korm. rendelet 2. § (5) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
