@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1-20-2S
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-02-12 | 2010-1-20-2S.1 | 1/2010. (II. 9.) TM rendelet |
+| 2010-02-17 | 2010-1-20-2S.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
