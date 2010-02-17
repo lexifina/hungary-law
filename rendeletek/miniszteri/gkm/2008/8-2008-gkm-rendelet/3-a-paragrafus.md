@@ -1,5 +1,0 @@
-3/A. §[^9] (1) A Magyar Közút Állami Közútkezelő, Fejlesztő, Műszaki és Információs Közhasznú Társaság (a továbbiakban: Magyar Közút Kht.) által végzett, az országos közutakhoz kapcsolódó, részben vagy egészben európai uniós forrásokból megvalósított beruházások esetében a Magyar Közút Kht. a Kkt. 29. § (3) és (4) bekezdésében foglaltak szerint köteles a forrásokat rendelkezésre bocsátó szervvel elszámolni, és a létrehozott eszközöket, továbbá az elvégzett értéknövelő beruházásokat az MNV Zrt., illetve a vagyonkezelő részére átadni.
-
-(2) Az 1. § a) és b) pontjában meghatározott fejezeti kezelésű előirányzatok felhasználásához kapcsolódóan az országos közutak fejlesztése körében a befejezett beruházásokhoz felhasznált ingatlanok jogi helyzetének rendezését (területrendezést) és az ahhoz kapcsolódó feladatokat, valamint a KKK vagyonkezelésében lévő ingatlanok hasznosításához szükséges területszerzést a KKK végzi el, vagy azt megbízás alapján mással elvégeztetheti.
-
-[^9]: A 3/A. §-t a 7/2009. (II. 28.) KHEM rendelet 4. §-a iktatta be.
