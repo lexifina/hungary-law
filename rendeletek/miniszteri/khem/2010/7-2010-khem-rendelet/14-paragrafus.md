@@ -1,0 +1,5 @@
+14. § (1) A támogatás felhasználására a miniszter pályázatot ír ki a tehergépkocsik, vontatók és a pótkocsik (a továbbiakban együtt: tehergépkocsik) vasúton történő fuvarozását végző vasúti társaságok számára.
+
+(2) Támogatásban bármely, Magyarországon, az Európai Gazdasági Térség területén avagy nemzetközi szerződés vagy viszonosság esetén egyéb államban székhellyel rendelkező, a Magyar Köztársaság területén vasúti árutovábbításra jogosult, a Tanács 1995. június 19-i, a vasúttársaságok engedélyezéséről szóló 95/18/EK irányelvével összhangban kiadott működési engedéllyel rendelkező vasúti társaság részesülhet, amely a pályázatban foglaltaknak igazolhatóan eleget tesz és a támogatás igénybevételére szerződést köt a támogatáskezelővel.
+
+(3) A támogatást elnyerő vasúti társaság a támogatáskezelővel kötött szerződés alapján jogosult a támogatás igénybevételére. A támogatáskezelő a beérkezett igényeket a beérkezés sorrendjében, számlákon és kifizetési dokumentumokon alapuló elszámolás alapján utólagosan teljesíti.
