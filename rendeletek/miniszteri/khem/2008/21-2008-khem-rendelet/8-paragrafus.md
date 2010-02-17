@@ -1,5 +1,0 @@
-8. § (1) A támogatás diszkriminációmentes igénybevételének biztosítása érdekében a miniszter nyilvános pályázatot ír ki a tehergépkocsik, vontatók és a pótkocsik (a továbbiakban: tehergépkocsik) vasúton történő fuvarozását végző vasúti társaságok számára.
-
-(2) Támogatásra jogosult bármely, Magyarországon, az Európai Gazdasági Térség területén, illetőleg nemzetközi szerződés vagy viszonosság esetén az egyéb államokban székhellyel rendelkező, a Magyar Köztársaság területén vasúti árutovábbításra jogosult, a Tanács 1995. június 19-i, a vasúttársaságok engedélyezéséről szóló 95/18/EK irányelvével összhangban kiadott működési engedéllyel rendelkező vasúti társaság, mely a pályázatban foglaltaknak igazolhatóan eleget tesz és a támogatás igénybevételére szerződést köt a támogatáskezelővel.
-
-(3) A támogatást elnyerő vasúti társaság a támogatáskezelővel kötött szerződés alapján jogosult a támogatás igénybevételére. A támogatáskezelő a beérkezett igényeket a beérkezés sorrendjében, számlákon és kifizetési dokumentumokon alapuló elszámolás alapján utólagosan teljesíti.
