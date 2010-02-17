@@ -1,0 +1,1 @@
+## 2. § Az e rendelet hatálya alá tartozó előirányzatokról rendelkezni, azok terhére döntést hozni, kötelezettséget vállalni a Miniszterelnöki Hivatal kisebbség- és nemzetpolitikáért felelős szakállamtitkára (a továbbiakban: szakállamtitkár) jogosult.
