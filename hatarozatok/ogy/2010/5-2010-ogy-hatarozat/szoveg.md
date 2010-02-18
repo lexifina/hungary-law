@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Dávid Ibolya országgyűlési képviselő mentelmi jogát a Budapesti II. és III. kerületi Bíróság 12. B.1787/2009/3. számú megkeresésével érintett ügyben nem függeszti fel.
