@@ -1,0 +1,1 @@
+A Magyar Köztársaság Országgyűlése dr. Szabó Zoltán országgyűlési képviselő mentelmi jogát a Pesti Központi Kerületi Bíróság 16. B.28.395/2009/6-I. számú megkeresésével érintett ügyben nem függeszti fel.
