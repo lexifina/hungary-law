@@ -38,10 +38,10 @@ l) nem felel meg az Áht. 15. § (1) bekezdésében foglalt feltételeknek, vagy
 
 m) a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 6. és 8. §-ában foglalt kizáró okok hiányáról nem nyilatkozik.
 
-(4)[^3] A beruházási célú támogatás esetén a (3) bekezdésben foglalt eseteken túl nem nyújtható támogatás:
+(4)[^5] A beruházási célú támogatás esetén a (3) bekezdésben foglalt eseteken túl nem nyújtható támogatás:
 
 a) nehéz helyzetben lévő vállalkozásnak,
 
 b) azon személy vagy szervezet részére, aki vagy amely a támogatás nyújtásának évét megelőző mind a három évben veszteséges volt, vagy elvesztette korábbi saját tőkéjének ötven százalékát.
 
-[^3]: A 3. § (4) bekezdése a 12/2009. (III. 10.) ÖM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 3. § (4) bekezdése a 12/2009. (III. 10.) ÖM rendelet 3. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-2. §[^2] (1) E rendelet hatálya kiterjed a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény (a továbbiakban: költségvetési törvény) 1. számú melléklet XI. Önkormányzati Minisztérium (a továbbiakban: ÖM) fejezet alábbi fejezeti kezelésű előirányzataira:
+2. §[^3] (1) E rendelet hatálya kiterjed a Magyar Köztársaság 2010. évi költségvetéséről szóló 2009. évi CXXX. törvény (a továbbiakban: költségvetési törvény) 1. számú melléklet XI. Önkormányzati Minisztérium (a továbbiakban: ÖM) fejezet alábbi fejezeti kezelésű előirányzataira:
 
 a) 12. cím, 20. alcím, 6. Magyar Polgári Védelmi Szövetség támogatása jogcímcsoport,
 
@@ -10,34 +10,38 @@ d) 12. cím, 20. alcím, 12. Magyar Tűzoltó Szövetség támogatása jogcímcs
 
 e) 12. cím, 20. alcím, 13. Létesítményi és Önkéntes Tűzoltóságok Országos Szövetségének támogatása jogcímcsoport,
 
-f) 12. cím, 20. alcím, 14. Önkéntes tűzoltósággá váló tűzoltó egyesületek támogatása jogcímcsoport,
+f) 12. cím, 20. alcím, 82. A hét önkormányzati érdekszövetség működésének támogatása jogcímcsoport,
 
-g) 12. cím, 20. alcím, 82. A hét önkormányzati érdekszövetség működésének támogatása jogcímcsoport,
+g) 12. cím, 20. alcím, 95. Duna Művész Együttesek támogatása jogcímcsoport,
 
-h) 12. cím, 20. alcím, 95. Duna Palota Kulturális Közhasznú Társaságnak nyújtott támogatás jogcímcsoport,
+h) 12. cím, 21. alcím, 2. Társadalmi szervezetek és segítők támogatása jogcímcsoport,
 
-i) 12. cím, 21. alcím, 2. Társadalmi szervezetek és segítők támogatása jogcímcsoport,
+i) 12. cím, 21. alcím, 3. Rádiós Segélyhívó és Infokommunikációs Országos Egyesület jogcímcsoport,
 
-j) 12. cím, 21. alcím, 3. Rádiós Segélyhívó és Infokommunikációs Országos Egyesület jogcímcsoport,
+j) 12. cím, 22. Önkéntes tűzoltóságok normatív támogatása alcím,
 
-k) 12. cím, 22. Önkéntes tűzoltóságok normatív támogatása alcím,
+k) 12. cím, 23. Segítsünk az árvízkárosultakon alcím,
 
-l) 12. cím, 23. „Segítsünk az árvízkárosultakon” alcím,
+l) 12. cím, 25. alcím, 2. A 2010. évi országgyűlési és önkormányzati választások lebonyolítása jogcímcsoport,
 
-m) 12. cím, 25. alcím, 1. Az európai parlamenti választások támogatása jogcímcsoport,
+m) 12. cím, 25. alcím, 3. Időközi és kisebbségi választások lebonyolítása jogcímcsoport.
 
-n) 12. cím, 25. alcím, 2. A 2010. évi országgyűlési választások előkészítése jogcímcsoport,
+(2) Az (1) bekezdés a), d), e), f), g), h), i), k) pontjaiban megjelölt előirányzatok felhasználása egyedi döntés alapján történik.
 
-o) 12. cím, 25. alcím, 3. Időközi és kisebbségi választások lebonyolítása jogcímcsoport.
+(3) Az (1) bekezdés b) pontjában megjelölt előirányzat átcsoportosításra kerül az Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) részére, amely a saját belső szabályzatainak megfelelően gondoskodik annak cél szerinti és szabályszerű felhasználásáról.
 
-(2) Az (1) bekezdés a), d), e), g), h), j), l) pontjaiban megjelölt előirányzatok felhasználása egyedi döntés alapján, az (1) bekezdés i) pontjában megjelölt előirányzat felhasználása részben pályázati rendszerben, részben egyedi támogatásként, az (1) bekezdés b), f) és k) pontjaiban megjelölt előirányzatok vonatkozásában bejelentett támogatási igény elbírálása az Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) közreműködésével, az (1) bekezdés c) pontjában megjelölt előirányzat felhasználása pedig normatív módon és egyedi döntés alapján történik.
+(4) Az (1) bekezdés g) pontjában megjelölt előirányzat fedezetet nyújt az ÖM és a Duna Palota Kulturális Kiemelten Közhasznú Nonprofit Korlátolt Felelősségű Társasággal létrejövő közhasznú szerződés keretében ellátandó feladatok finanszírozására, az alábbiak figyelembevételével:
 
-(3) Az (1) bekezdés m)–o) pontjaiban meghatározott előirányzatok fedezetet nyújtanak a választási eljárásról szóló 1997. évi C. törvény (a továbbiakban: Ve.) alapján a jogcímekben szereplő választási eljárások lebonyolítására.
+a) az előirányzat célja a kultúra és a kulturális örökség megőrzése,
 
-(4) Az (1) bekezdés m) pontjában meghatározott előirányzatnak a választás lebonyolításával összefüggő kiadásai az Országos Választási Iroda előzetes költségkalkulációjának megfelelő mértékben átadásra kerülnek a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: KEKKH), a Külügyminisztérium, a Kormány általános hatáskörű területi államigazgatási szervei, valamint az ÖM Igazgatás részére azzal, hogy az ezekkel történő elszámolásra a KEKKH útján kerül sor. Az előirányzat-felhasználásra az európai parlamenti képviselők választása költségeinek normatíváiról, tételeiről, elszámolási és belső ellenőrzési rendjéről szóló külön jogszabályt is alkalmazni kell.
+b) az előirányzat kizárólag a közhasznú szervezetekről szóló 1997. évi CLVI. törvény 26. § c) pont 4. és 5. alpontjában meghatározott közhasznú feladatokra, azaz a Duna Művészegyüttes és a Duna Szimfonikus Zenekar működési kiadásaira használható fel, így különösen a próbák, a rendezvények, és a beszerzések, valamint a művészek bérköltségeinek kiadásaira,
 
-(5) Az (1) bekezdés o) pontjában meghatározott előirányzat fedezetet nyújt az Országos Választási Bizottság (a továbbiakban: OVB) működési költségére is. Az előirányzat-felhasználásra a helyi önkormányzati képviselők és polgármesterek, valamint a kisebbségi önkormányzati képviselők választása költségeinek normatíváiról, tételeiről, elszámolási és belső ellenőrzési rendjéről szóló 4/2006. (VIII. 1.) ÖTM rendeletet is alkalmazni kell.
+c) az igénybe vehető támogatás maximális mértéke az egyéb forrásokból nyújtott támogatásokkal együtt sem haladhatja meg az elszámolható költségek 100%-át,
 
-(6) E rendelet hatálya – a 4–16. § szerinti előírások kivételével – kiterjed az ÖM fejezet 12. cím, 20. alcím, 89. Egyéb helyi önkormányzati beruházások támogatása jogcímcsoportra azzal, hogy annak forrását a költségvetési törvényben foglalt felhatalmazás alapján a pénzügyminiszter fejezetek közötti átcsoportosítással biztosítja a Pénzügyminisztérium fejezet Rendkívüli beruházási tartalék előirányzatából. A támogatás mértékéről és a támogatottakról a pénzügyminiszter egyedi hatáskörben dönt.
+d) a c) pont szerinti költségek körébe kizárólag azok sorolhatók, amelyek a támogatási célok megvalósítása során merültek fel és igazoltan a kulturális cél elérését szolgálják.
 
-[^2]: A 2. § a 12/2009. (III. 10.) ÖM rendelet 2. §-ával megállapított szöveg.
+(5) Az (1) bekezdés j) pontjában megjelölt előirányzatból a folyósítás a költségvetési törvény 52. § (16) bekezdésében meghatározott normatívák alapján, az OKF kezdeményezésére történik. Az előirányzat-felhasználás a tűzoltóságok legkisebb erő- és eszközállományáról, a Riasztási és Segítségnyújtási Tervről, a működési területről, valamint a tűzoltóságok vonulásaival kapcsolatos költségek megtérítéséről szóló ÖM rendelet alapján történik.
+
+(6) Az (1) bekezdés c) pontjában megjelölt előirányzat felhasználása normatív módon és egyedi döntés alapján történik.
+
+[^3]: A 2. § a 7/2010. (II. 18.) ÖM rendelet 2. §-ával megállapított szöveg.

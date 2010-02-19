@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-6-20-2L
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-19 | 2008-6-20-2L.4 | 6/2008. (X. 8.) ÖM rendelet |
+| 2010-02-19 | 2008-6-20-2L.5 | 7/2010. (II. 18.) ÖM rendelet |

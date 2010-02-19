@@ -2,6 +2,8 @@
 
 (2) A pályázat benyújtására legalább 1, legfeljebb 3 hónap írható elő.
 
-(3) A pályázatnak az Ámr. 83. § (1)–(2) és (4) bekezdésében, valamint 84. §-ában, a pályázat jellegétől függően az e rendeletben, valamint a pályázati felhívásban megjelölt adatokat, dokumentumokat kell tartalmaznia.
+(3)[^7] A pályázatnak az Ámr. 133 §-ában, az e rendeletben, valamint a pályázati felhívásban megjelölt adatokat, dokumentumokat kell tartalmaznia.
 
 (4) A szükséges saját forrás mértékét a pályázati kiírás tartalmazza. A pályázati programhoz szükséges saját forrás meglétét a pályázati felhívásban meghatározott módon igazolni kell.
+
+[^7]: A 9. § (3) bekezdése a 7/2010. (II. 18.) ÖM rendelet 5. §-ával megállapított szöveg.

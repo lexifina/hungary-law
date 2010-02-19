@@ -6,4 +6,9 @@
 
 (2) Az e rendelet hatálybalépését megelőzően benyújtott, de el nem bírált pályázatokat a pályázati kiírás közzététele napján hatályos jogszabályi rendelkezések és a közzétett pályázati felhívás feltételei szerint kell elbírálni. Egyedi döntések esetén a támogatási igény benyújtásának napján hatályos jogszabályok az irányadóak.
 
-(3) Az államháztartáson kívüli szervezetek támogatását szolgáló BM fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló 34/2005. (VII. 18.) BM rendelet hatályát veszti.
+(3)[^21] A 2. § (1) bekezdésében meghatározott előirányzatokból tárgyévben nyújtott támogatások felhasználására e rendeletnek a támogatás nyújtása időpontjában hatályos rendelkezéseit kell alkalmazni.
+
+(4)[^22] Az államháztartáson kívüli szervezetek támogatását szolgáló BM fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló 34/2005. (VII. 18.) BM rendelet hatályát veszti.
+
+[^21]: A 26. § új (3) bekezdését a 7/2010. (II. 18.) ÖM rendelet 9. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatta.
+[^22]: A 26. § eredeti (3) bekezdésének számozását a 7/2010. (II. 18.) ÖM rendelet 9. §-a (4) bekezdésre változtatta.

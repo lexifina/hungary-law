@@ -4,7 +4,7 @@
 
 (2) A beszámoló szakmai részének tartalmaznia kell legalább a támogatott feladatok (projektek) főbb naturális adatait, a támogatási szerződésben rögzített feladat vagy beruházás megvalósításának helyét és időpontját.
 
-(3)[^7] A beszámoló pénzügyi része az alábbiakat tartalmazza:
+(3)[^19] A beszámoló pénzügyi része az alábbiakat tartalmazza:
 
 a) az összesített kimutatást a pályázattal kapcsolatban felmerülő költségekről (költségnemenkénti bontásban), kiadásokról;
 
@@ -22,4 +22,4 @@ g) a személyi költségek és azok közterheinek részletes kimutatását.
 
 (4) A beszámolásra kötelezett köteles a támogató felhívására beszámolóját 10 napon belül pontosítani.
 
-[^7]: A 22. § (3) bekezdése a 12/2009. (III. 10.) ÖM rendelet 4. §-ával megállapított szöveg.
+[^19]: A 22. § (3) bekezdése a 12/2009. (III. 10.) ÖM rendelet 4. §-ával megállapított szöveg.

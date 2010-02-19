@@ -20,4 +20,6 @@ g) a kedvezményezett késlelteti vagy akadályozza a támogatás felhasználás
 
 (4) Amennyiben a támogatott projekt megvalósítása a kedvezményezettnek fel nem róható okból meghiúsul vagy tartós akadályba ütközik, az igénybe nem vett támogatás visszavonásra kerül, amelynek értékét a kedvezményezett köteles visszafizetni a meghiúsulás, illetve akadály bekövetkeztétől számított 5 napon belül.
 
-(5) A támogatás visszavonása, illetve a támogatási szerződéstől való elállás esetén a már átutalt támogatási összeg, eszköztámogatás szerződéskori bruttó nyilvántartáskori értéke, továbbá annak kamata megfizetésére irányuló visszakövetelés érvényesítése a 6. § (4) bekezdés d) pontja szerinti biztosítéki szerződésben meghatározott biztosítékok érvényesítésével, illetve azonnali beszedési megbízás alkalmazásával is történhet, amelyet a támogatás forrásaként meghatározott előirányzat javára kell teljesíteni.
+(5)[^20] A támogatás visszavonása, illetve a támogatási szerződéstől való elállás esetén a már átutalt támogatási összeg, eszköztámogatás szerződéskori bruttó nyilvántartáskori értéke, továbbá annak kamata megfizetésére irányuló visszakövetelés érvényesítése a 6. § (4) bekezdés d) pontja szerinti biztosítéki szerződésben meghatározott biztosítékok érvényesítésével, illetve beszedési megbízás alkalmazásával is történhet, amelyet a támogatás forrásaként meghatározott előirányzat javára kell teljesíteni.
+
+[^20]: A 24. § (5) bekezdése a 7/2010. (II. 18.) ÖM rendelet 11. § (2) bekezdése szerint módosított szöveg.
