@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-15-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1991-12-31 | 1991-15-20-6D.1 | 15/1991. (XII. 24.) KTM rendelet |
+| 2010-02-19 | 1991-15-20-6D.2 | 3/2010. (II. 11.) KvVM rendelet |
