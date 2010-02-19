@@ -1,6 +1,6 @@
-## Az állami támogatásokra vonatkozó külön szabályok[^28]
+## Az állami támogatásokra vonatkozó külön szabályok[^29]
 
-## 6. §[^29] Amennyiben a 3. §-ban megjelölt támogatási jogcímek alapján nyújtandó támogatás állami támogatás
+## 6. §[^30] Amennyiben a 3. §-ban megjelölt támogatási jogcímek alapján nyújtandó támogatás állami támogatás
 
 a) a 3. § a) pontja alapján nyújtott támogatás csekély összegű támogatásnak,
 
@@ -30,5 +30,5 @@ m) a 3. § o) pontja alapján nyújtott támogatás beruházási támogatásnak,
 
 n) a 3. § p) pontja alapján nyújtott támogatás kulturális támogatásnak
 
-[^28]: A 6. §-t megelőző alcím a 2/2007. (I. 31.) ÖTM rendelet 5. §-ával megállapított szöveg.
-[^29]: A 6. § a 2/2007. (I. 31.) ÖTM rendelet 5. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 16. § (1) bekezdését.
+[^29]: A 6. §-t megelőző alcím a 2/2007. (I. 31.) ÖTM rendelet 5. §-ával megállapított szöveg.
+[^30]: A 6. § a 2/2007. (I. 31.) ÖTM rendelet 5. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 16. § (1) bekezdését.

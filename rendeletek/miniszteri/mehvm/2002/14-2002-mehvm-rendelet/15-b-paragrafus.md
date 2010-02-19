@@ -1,6 +1,6 @@
-## A képzési támogatásokra vonatkozó szabályok[^97]
+## A képzési támogatásokra vonatkozó szabályok[^106]
 
-15/B. §[^98] (1) Képzési támogatást általános képzéshez és szakképzéshez lehet nyújtani.
+15/B. §[^107] (1) Képzési támogatást általános képzéshez és szakképzéshez lehet nyújtani.
 
 (2) E rendelet alapján képzési támogatás kizárólag a kedvezményezettel munkaviszonyban álló munkavállalók képzéséhez nyújtható.
 
@@ -36,5 +36,5 @@ f) a képzésben részt vevők személyi jellegű költségei és elszámolható
 
 (8) Az elszámolható költségeket dokumentált bizonylatokkal kell alátámasztani, áttekinthetően és tételesen részletezve.
 
-[^97]: A 15/B. §-t megelőző alcímet a 2/2007. (I. 31.) ÖTM rendelet 11. §-a iktatta be.
-[^98]: A 15/B. §-t a 2/2007. (I. 31.) ÖTM rendelet 11. §-a iktatta be, szövege a 18/2009. (IV. 2.) ÖM rendelet 13. §-ával megállapított szöveg.
+[^106]: A 15/B. §-t megelőző alcímet a 2/2007. (I. 31.) ÖTM rendelet 11. §-a iktatta be.
+[^107]: A 15/B. §-t a 2/2007. (I. 31.) ÖTM rendelet 11. §-a iktatta be, szövege a 18/2009. (IV. 2.) ÖM rendelet 13. §-ával megállapított szöveg.

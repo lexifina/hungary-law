@@ -1,6 +1,6 @@
-## A támogatási szerződés módosítása[^82]
+## A támogatási szerződés módosítása[^90]
 
-14/A. §[^83] (1) A támogatási szerződés módosítását írásban kell kezdeményezni. A kedvezményezettnek a támogatási szerződés módosítására irányuló kérelmét pályázati úton, valamint támogatási program keretében nyújtott támogatás esetén a közreműködő szervezethez, egyedi támogatás esetén a támogatási szerződésben megjelöltek szerint kell benyújtania. Ha a módosítás a támogatás folyósítását érinti, a módosítás hatálybalépéséig a támogatás folyósítását fel kell függeszteni.
+14/A. §[^91] (1) A támogatási szerződés módosítását írásban kell kezdeményezni. A kedvezményezettnek a támogatási szerződés módosítására irányuló kérelmét pályázati úton, valamint támogatási program keretében nyújtott támogatás esetén a közreműködő szervezethez, egyedi támogatás esetén a támogatási szerződésben megjelöltek szerint kell benyújtania. Ha a módosítás a támogatás folyósítását érinti, a módosítás hatálybalépéséig a támogatás folyósítását fel kell függeszteni.
 
 (2) A támogatási szerződés módosítása tárgyában egyedi támogatás esetén a Minisztérium, pályázati úton, valamint támogatási program keretében nyújtott támogatás esetén – a (3) bekezdésben foglaltak kivételével – a közreműködő szervezet dönt azzal, hogy a Minisztérium bármely ügyben a döntés jogát magának fenntarthatja.
 
@@ -18,5 +18,5 @@ b) azt a közreműködő szervezet kifejezetten kéri.
 
 (7) Nincs helye a támogatási szerződés módosításának, ha a módosítás jogszabályba, illetve – pályázati úton, valamint támogatási program keretében nyújtott támogatás esetén – a pályázati dokumentáció, az üzletszabályzat vagy a termékleírás valamely rendelkezésébe ütközik, továbbá a pályázat támogatásának alapjául szolgáló értékelés során a pályázatok összehasonlítására és rangsorolására került sor, valamint a módosítás következtében e sorrend megváltozna és a sorrend megváltozása a pályázat elutasítását eredményezné. Nincs helye továbbá a támogatási szerződés módosításának a támogatás támogatási szerződésben meghatározott összegének növelése tekintetében.
 
-[^82]: A 14/A. §-t megelőző alcímet a 18/2009. (IV. 2.) ÖM rendelet 10. §-a iktatta be.
-[^83]: A 14/A. §-t a 18/2009. (IV. 2.) ÖM rendelet 10. §-a iktatta be.
+[^90]: A 14/A. §-t megelőző alcímet a 18/2009. (IV. 2.) ÖM rendelet 10. §-a iktatta be.
+[^91]: A 14/A. §-t a 18/2009. (IV. 2.) ÖM rendelet 10. §-a iktatta be.

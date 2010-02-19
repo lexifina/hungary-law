@@ -1,8 +1,8 @@
 ## A támogatott beruházások elszámolható költségei
 
-## és támogatási intenzitása[^92]
+## és támogatási intenzitása[^101]
 
-15/A. §[^93] (1)[^94] A támogatás iránti kérelem 11. § (14) bekezdésében meghatározott megerősítését követően az alábbi költségek számolhatóak el:
+15/A. §[^102] (1)[^103] A támogatás iránti kérelem 11. § (14) bekezdésében meghatározott megerősítését követően az alábbi költségek számolhatóak el:
 
 a) a beruházási költségek alapján számított támogatás esetén a beruházás célját szolgáló
 
@@ -34,12 +34,12 @@ f) támogatható immateriális javak bekerülési értéke, ha azt a kedvezmény
 
 g) pénzügyi lízing formájában beszerzett tárgyi eszköz bekerülési értéke, ha a szerződés nem tartalmazza a tárgyi eszköznek a bérleti időtartam lejáratakor történő megvásárlására vonatkozó kötelezettséget.
 
-(5)[^95] A (3) bekezdés és a (4) bekezdés g) pontja esetében a pénzügyi lízing lejárata nem lépheti túl a projekt befejezésének dátumát.
+(5)[^104] A (3) bekezdés és a (4) bekezdés g) pontja esetében a pénzügyi lízing lejárata nem lépheti túl a projekt befejezésének dátumát.
 
-(6)[^96] Beruházási támogatás esetében a támogatási intenzitás mértéke – beleértve a más államháztartási forrásokból kapott állami támogatásokat – nem haladhatja a Korm. rendelet 30. §-ában meghatározott százalékos mértéket. Regionális beruházási támogatás esetében a Korm. rendelet 30. §-ában meghatározott támogatási intenzitást a beruházás elszámolható tárgyi és immateriális költségeinek hányadaként, – közvetlenül a beruházási projekttel létrehozott munkahelyek esetén – az alkalmazott személy két évre becsült bérköltségeinek hányadaként, vagy e fenti két módszer kombinált alkalmazásával kell kiszámítani, feltéve, hogy a támogatás nem lépi túl a kétfajta számítás alkalmazásából eredő kedvezőbb értéket.
+(6)[^105] Beruházási támogatás esetében a támogatási intenzitás mértéke – beleértve a más államháztartási forrásokból kapott állami támogatásokat – nem haladhatja a Korm. rendelet 30. §-ában meghatározott százalékos mértéket. Regionális beruházási támogatás esetében a Korm. rendelet 30. §-ában meghatározott támogatási intenzitást a beruházás elszámolható tárgyi és immateriális költségeinek hányadaként, – közvetlenül a beruházási projekttel létrehozott munkahelyek esetén – az alkalmazott személy két évre becsült bérköltségeinek hányadaként, vagy e fenti két módszer kombinált alkalmazásával kell kiszámítani, feltéve, hogy a támogatás nem lépi túl a kétfajta számítás alkalmazásából eredő kedvezőbb értéket.
 
-[^92]: A 15/A. §-t megelőző alcímet a 2/2007. (I. 31.) ÖTM rendelet 10. §-a iktatta be, szövege a 18/2009. (IV. 2.) ÖM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^93]: A 15/A. §-t a 2/2007. (I. 31.) ÖTM rendelet 10. §-a iktatta be, alkalmazására lásd e módosító rendelet 16. § (1) bekezdését.
-[^94]: A 15/A. § (1) bekezdése a 18/2009. (IV. 2.) ÖM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^95]: A 15/A. § (5) bekezdését a 18/2009. (IV. 2.) ÖM rendelet 12. § (3) bekezdése iktatta be.
-[^96]: A 15/A. § (6) bekezdését a 18/2009. (IV. 2.) ÖM rendelet 12. § (3) bekezdése iktatta be.
+[^101]: A 15/A. §-t megelőző alcímet a 2/2007. (I. 31.) ÖTM rendelet 10. §-a iktatta be, szövege a 18/2009. (IV. 2.) ÖM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^102]: A 15/A. §-t a 2/2007. (I. 31.) ÖTM rendelet 10. §-a iktatta be, alkalmazására lásd e módosító rendelet 16. § (1) bekezdését.
+[^103]: A 15/A. § (1) bekezdése a 18/2009. (IV. 2.) ÖM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^104]: A 15/A. § (5) bekezdését a 18/2009. (IV. 2.) ÖM rendelet 12. § (3) bekezdése iktatta be.
+[^105]: A 15/A. § (6) bekezdését a 18/2009. (IV. 2.) ÖM rendelet 12. § (3) bekezdése iktatta be.
