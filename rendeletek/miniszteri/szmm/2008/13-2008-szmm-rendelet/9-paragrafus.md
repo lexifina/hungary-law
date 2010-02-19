@@ -1,1 +1,3 @@
-## 8. § A hozzájárulásra kötelezett az 1–7. §-ban megjelölt okiratokat és nyilvántartást 5 évig köteles megőrizni és az ellenőrzés során rendelkezésre bocsátani.
+## 4–8. §[^6]
+
+[^6]: A 4–8. §-t a 3/2010. (II. 18.) SZMM rendelet 16. § (5) bekezdés a) pontja hatályon kívül helyezte.

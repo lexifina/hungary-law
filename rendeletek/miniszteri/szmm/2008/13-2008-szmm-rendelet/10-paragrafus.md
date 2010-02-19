@@ -1,6 +1,6 @@
 ## 9. § Az Szht. 4. § (1) bekezdése szerint teljesítő hozzájárulásra kötelezett bevallásának másolatát az NSZFI a bevallások feldolgozását követően negyedévente megküldi az állami adóhatóságnak.
 
-10. § (1) Az Szht. 4. § (7) bekezdése alapján a gyakorlati képzésnek több hozzájárulásra kötelezett által közösen megteremtett – gyakorlati képzési célú – tárgyi feltételrendszer igénybevételével történő megszervezése esetén a költségelszámolás lehetőségét igénybe vevő hozzájárulásra kötelezetteknek az Szht. 4. § (10) bekezdése alapján bejelentkezési, bevallási és elszámolási kötelezettsége van. A hozzájárulásra kötelezettek a költségek egymás közötti megosztásáról számlát kötelesek kibocsátani, amelynek adattartalma lehetőséget ad a teljes felosztott költség és az elszámolásra kerülő költséghányad ellenőrizhetőségére. A számlán minden esetben szerepeltetni kell az ügyletben részt vevő hozzájárulásra kötelezettek részére a bejelentkezésükkor kapott nyilvántartásbavételi számot is.
+10. § (1)[^7] Az Szht. 4. § (7) bekezdése alapján a gyakorlati képzésnek több hozzájárulásra kötelezett által közösen megteremtett – gyakorlati képzési célú – tárgyi feltételrendszer igénybevételével történő megszervezése esetén a költségelszámolás lehetőségét igénybe vevő hozzájárulásra kötelezetteknek az Szht. 4. § (10) bekezdése alapján bejelentkezési, bevallási és elszámolási kötelezettsége van. A hozzájárulásra kötelezettek a költségek egymás közötti megosztásáról megállapodást kötnek, amelynek megfelelően számlát kötelesek kibocsátani úgy, hogy annak adattartalma lehetőséget adjon a teljes felosztott költség és az elszámolásra kerülő költséghányad ellenőrizhetőségére. A számlán szerepeltetni kell az ügyletben részt vevő hozzájárulásra kötelezettek részére a bejelentkezésükkor kapott nyilvántartásbavételi számot is.
 
 (2) Az Szht. 4. § (8) bekezdése alapján a megállapodásban költség-hozzájárulásként rögzített, a kiegészítő gyakorlati képzéssel összefüggő, az átirányított tanulói, hallgatói létszámmal és a kiegészítő gyakorlati képzés időtartamával arányosan elszámolható összeg adható át.
 
@@ -16,8 +16,11 @@
 
 a) a tárgyi eszközt értékesítik, a jelzett időszak hátralévő hónapjaira időarányosan eső bekerülési értéknek,
 
-b) a tárgyi eszközt bérbeadják, a jelzett időszak hátralévő hónapjaira időarányosan eső bekerülési értékből a bérbeadás idejére jutó részének
+b)[^8] a tárgyi eszközt bérbe adják, a jelzett időszak hátralévő hónapjaira időarányosan eső bekerülési értékből a bérbeadás idejére jutó részének
 
 ## azt a hányadát kell a Magyar Államkincstárnál (a továbbiakban: Kincstár) vezetett NSZFI-Munkaerőpiaci Alap (a továbbiakban: MPA) területi előirányzat-felhasználási keretszámlára (a továbbiakban: EFK számla) befizetni, amilyen arányban a tárgyi eszköz beszerzése a hozzájárulási kötelezettség terhére elszámolásra került.
 
 (8) Az Szht. 4. § (2) bekezdés c) pontja alapján elszámolható összeg a tanműhely gyakorlati képzéssel hasznosított időtartamára vonatkozó, a tanműhely adottságaihoz viszonyított, a tanműhelyben oktatott tanulói, illetve hallgatói létszámmal arányos, igazolt és ellenőrizhető összeg.
+
+[^7]: A 10. § (1) bekezdése a 3/2010. (II. 18.) SZMM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 10. § (7) bekezdés b) pontja a 3/2010. (II. 18.) SZMM rendelet 16. § (6) bekezdés a) pontja szerint módosított szöveg.
