@@ -12,7 +12,7 @@ b) a forgalomban való részvétel jogosultságát (ideértve a származási ors
 
 (4) A jármű-honosítási eljárásban a jármű nyilvántartásba vételéhez szükséges, valamint a regisztrációs adóról szóló törvényben meghatározott további adatait a (2) bekezdés b) pontjában meghatározott okmányok figyelembevételével kell megállapítani.
 
-(5)[^64] A jármű-honosítási eljárásban végzett szemle során eredetiségvizsgálattal kell ellenőrizni a jármű azonosító adatait, valamint a (2) bekezdésben említett okmányait, továbbá meg kell állapítani és elektronikusan rögzíteni a jármű nyilvántartásba vételéhez szükséges – az 1. számú mellékletben foglalt „Műszaki adatlap"-on meghatározott – adatokat. A „Műszaki adatlap” „45. Záradékok” rovatában fel kell tüntetni a (2) bekezdésben említett, a jármű-honosítási eljárás alapjául szolgáló okmányok azonosítóit is.
+(5)[^64] A jármű-honosítási eljárásban végzett szemle során ellenőrizni kell a jármű azonosító adatait, valamint a (2) bekezdésben említett okmányait, továbbá meg kell állapítani és elektronikusan rögzíteni a jármű nyilvántartásba vételéhez szükséges – az 1. számú mellékletben foglalt „Műszaki adatlap”-on meghatározott – adatokat. A „Műszaki adatlap” „45. Záradékok” rovatában fel kell tüntetni a (2) bekezdésben említett, a jármű-honosítási eljárás alapjául szolgáló okmányok azonosítóit is.
 
 (6) A nyilvántartásba vételhez szükséges típusjellemző adatokat az EK típusjóváhagyással rendelkező járműtípus esetén a járműhöz a gyártó által kiadott „Megfelelőségi nyilatkozat” alapján, az EK típusjóváhagyással nem rendelkező közösségi jármű esetén a származási ország illetékes hatósága által kiadott forgalmi engedély alapján kell megállapítani.
 
@@ -28,7 +28,7 @@ b) a forgalomban való részvétel jogosultságát (ideértve a származási ors
 [^61]: A 4/C. §-t a 105/2007. (XII. 23.) GKM rendelet 4. §-a iktatta be.
 [^62]: A 4/C. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés e) pontja szerint módosított szöveg.
 [^63]: A 4/C. § (3) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés d) pontja hatályon kívül helyezte.
-[^64]: A 4/C. § (5) bekezdése a 81/2009. (XII. 29.) KHEM rendelet 6. § (5) bekezdése szerint módosított szöveg; e módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2010. január 1-jét követően indult hatósági eljárásokban kell alkalmazni.
+[^64]: A 4/C. § (5) bekezdése a 81/2009. (XII. 29.) KHEM rendelet 6. § (5) bekezdése, a 8/2010. (II. 18.) KHEM rendelet 2. § (2) bekezdése szerint módosított szöveg.
 [^65]: A 4/C. § (7) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés d) pontja hatályon kívül helyezte.
 [^66]: A 4/C. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 5. §-ával megállapított szöveg.
 [^67]: A 4/C. § (9) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 5. §-ával megállapított szöveg.

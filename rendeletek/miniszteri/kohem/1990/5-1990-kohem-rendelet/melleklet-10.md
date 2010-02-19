@@ -128,6 +128,8 @@ A vizsgálóhatóság/ügynök vagy ellenőr aláírása
 
 6 Nyerges vontatóval való vontatásra készült (O3 vagy O4 kategóriájú) pótkocsi.
 
+7 Nyerges vontatóból és a hozzá kapcsolt félpótkocsiból képzett járműszerelvény.
+
 [^257]: A 10. számú mellékletet a 39/2002. (XII. 28.) GKM rendelet 12. § c) pontja iktatta be, szövege a 34/2004. (III. 30.) GKM rendelet 6. § (3) bekezdésének b) pontja és a 125/2005. (XII. 29.) GKM rendelet 3. § (2) bekezdése, valamint a 95/2006. (XII. 27.) GKM rendelet 12. § (1) bekezdésének b) pontja, (2) bekezdésének f)–g) és k) pontja szerint módosított szöveg. Ez a melléklet a 2000/30/EK irányelvével és az azt módosító, a Bizottság 2003/26/EK irányelvével összeegyeztethető szabályozást tartalmaz. A 10. számú melléklet a 44/2007. (IV. 4.) GKM rendelet 2. § a) pontja, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés d) és j)–k) pontja szerint módosított szöveg. [Ez utóbbi módosító rendeletnek a 10. melléklet II. Fejezetre vonatkozó módosításait nem lehetett végrehajtani, tekintettel arra, hogy a II. Fejezetet a 44/2007. (IV. 4.) GKM rendelet 2. § a) pontja hatályon kívül helyezte.]
 [^258]: 175 Ez a fejezet a Tanács 2000/30/EK irányelvével és az azt módosító , a Bizottság 2003/26 EK irányelvével összeegyeztethető szabályzást tartalmaz.
 [^259]: 169 Az időszakos vizsgálatról szóló 96/96/EK irányelvben meghatározott közlekedési alkalmassági vizsgálat.

@@ -32,15 +32,15 @@ bb) egyéb okból vonták vissza, és az engedély időbeli hatálya lejárt.
 
 (13)[^114] A vizsgáló állomáson az időszakos vizsgálat tárgyi feltételeit, technológiáját és az ügyrendet az 5. számú melléklet határozza meg. A kizárólag környezetvédelmi tanúsítást végző vizsgáló állomáson (a továbbiakban: környezetvédelmi vizsgáló állomás) biztosítandó tárgyi feltételekre, technológiára és ügyrendre a közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló együttes rendeletben meghatározott követelményeket kell alkalmazni.
 
-(14)[^115] Az időszakos vizsgálat során a vizsgáló állomáson a járműazonosítók ellenőrzése a (16) bekezdésben meghatározottak kivételével szemle keretében történik.
+(14)[^115] Az időszakos vizsgálat során a járműazonosítók ellenőrzése – a (15) bekezdésben meghatározott kivétellel – szemrevételezéssel történik.
 
-(15)[^116] Az időszakos vizsgálat során a vizsgáló állomás – a 2006. január 1-jét követően újként forgalomba helyezett jármű kivételével – a gépjármű és a gépjármű pótkocsija azonosító adatainak ellenőrzését előzetes eredetiségvizsgálat keretében végzi:
+(15)[^116] A járműazonosítók ellenőrzését előzetes eredetiségvizsgálat alkalmazásával kell elvégezni:
 
-a) amennyiben a vizsgált járművön nem végeztek sem eredetiségvizsgálatot, sem integrált vizsgálatot, továbbá
+a) ha a jármű üzemben tartója az előzetes eredetiségvizsgálat elvégzését kérelmezi, továbbá
 
-b) a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló miniszteri rendeletben meghatározott feltételek esetén.
+b) a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló miniszteri rendeletben meghatározott esetben.
 
-(16)[^117] A (15) bekezdésben meghatározott előzetes eredetiségvizsgálati kötelezettség hatálya alá tartozó jármű időszakos vizsgálata csak olyan vizsgáló állomáson végezhető el, ahol biztosított az előzetes eredetiségvizsgálat meghatározott technológiája.
+(16)[^117] A vizsgáló állomáson biztosítani kell – a (15) bekezdésben meghatározott esetekben elvégzendő előzetes eredetiségvizsgálathoz – az előzetes eredetiségvizsgálati eljárás részletes szabályairól szóló kormányrendeletben meghatározott feltételeket is.
 
 (17)[^118] Az előzetes eredetiségvizsgálat eredményét az időszakos vizsgálatról kiadott műszaki adatlap is tartalmazza.
 
@@ -60,9 +60,9 @@ b) a közúti közlekedési igazgatási feladatokról, a közúti közlekedési 
 [^112]: A 12. § (11) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^113]: A 12. § (12) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^114]: A 12. § (13) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^115]: A 12. § (14) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^116]: A 12. § (15) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet – 81/2009. (XII. 29.) KHEM rendelet 6. § (6) bekezdésével megállapított – 10. § (3) bekezdésével megállapított szöveg; ez utóbbi módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2010. január 1-jét követően indult hatósági eljárásokban kell alkalmazni.
-[^117]: A 12. § (16) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^115]: A 12. § (14) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 8/2010. (II. 18.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^116]: A 12. § (15) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 8/2010. (II. 18.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^117]: A 12. § (16) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 8/2010. (II. 18.) KHEM rendelet 1. §-ával megállapított szöveg.
 [^118]: A 12. § (17) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^119]: A 12. § (18) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be.
 [^120]: A 12. § (19) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be.
