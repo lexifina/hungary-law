@@ -96,7 +96,7 @@ I. FEJEZET
 
 | 5.9. | Kettőnél több tengelyes jármű vizsgálatának díja | 5 900 |
 
-| 6. | Vizsgáló állomás engedélyezésére irányuló eljárás díja, valamint a sorozatszerű átalakítást végző gépjárműfenntartó szervezet feljogosítása az átalakított jármű vizsgálatára, járműkategóriánként | 171 200 |
+| 6. | Vizsgáló állomás engedélyezésére irányuló eljárás díja, valamint a sorozatszerű átalakítást végző gépjárműfenntartó szervezet feljogosítása az átalakított jármű vizsgálatára | 171 200 |
 
 | 7. | A „Megfelelőségi nyilatkozattal” történő forgalomba helyezés esetén – az engedélyezési és ellenőrzési tevékenységért fizetendő díj – megegyezik a 4. pontban a jármű kategóriájához meghatározott forgalomba helyezés előtti vizsgálat díjával |  |
 
@@ -142,4 +142,4 @@ III. FEJEZET
 
 IV. FEJEZET
 
-[^14]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított szöveg; e módosító rendelet 6. § (2) bekezdése alapján rendelkezéseit a 2010. január 1-jét követően indult hatósági eljárásokban kell alkalmazni.
+[^14]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (5) bekezdése alapján az 1. számú melléklet I. Fejezet 6. pontjában foglaltakat a 2010. február 19-én folyamatban lévő eljárásokban is alkalmazni kell.
