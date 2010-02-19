@@ -1,4 +1,4 @@
-## 6. §[^1]
+## 6. §[^9]
 
 ## Az engedély formája és tartalma
 
@@ -6,15 +6,17 @@
 
 a) a kérelemben megjelölt felhasználási célnak,
 
-b) a Tv. 37. §-a (1) bekezdésének a) pontjában foglaltaknak,
+b)[^10] a 3. § (1) bekezdésének a) pontjában foglaltaknak,
 
-c) a 3. számú mellékletben terméktípusonként meghatározott minőségi előírásoknak.
+c) a 3. számú mellékletben terméktípusonként meghatározott minőségi előírásoknak,
 
-(2)[^2] A külön jogszabály szerinti mentett humuszos termőréteg termésnövelő anyagként önmagában nem engedélyezhető, de termesztő közeg előállításához annak összetevőjeként felhasználható és az így előállított anyag termésnövelő anyagként engedélyezhető.
+d)[^11] a 3. számú mellékletben a toxikus elemekre előírt határértékeknek azzal, hogy a toxikus elemek határértéke 0,5 l/ha felhasználási mennyiség alatt a 3. számú mellékletben előírt határérték háromszorosa lehet, 0,5 l/ha és 1 l/ha felhasználási mennyiség között a 3. számú mellékletben előírt határérték kétszerese lehet.
+
+(2)[^12] A külön jogszabály szerinti mentett humuszos termőréteg termésnövelő anyagként önmagában nem engedélyezhető, de termesztő közeg előállításához annak összetevőjeként felhasználható és az így előállított anyag termésnövelő anyagként engedélyezhető.
 
 (3) Az engedélyről az engedélyező hatóság engedélyokiratot állít ki.
 
-(4)[^3] Az engedélyokirat eredeti példányát az engedélyesnek, egy-egy másolati példányát a Földművelésügyi és Vidékfejlesztési Minisztériumnak, a megyei (fővárosi) növény- és talajvédelmi szolgálatoknak (a továbbiakban: Szolgálat) kell megküldeni. Az engedélyező hatóság az engedélyezett import műtrágyák adatait elektronikus úton a Vám- és Pénzügyőrség Országos Parancsnokságának továbbítja.
+(4)[^13] Az engedélyokiratot közölni kell a földművelésügyi és vidékfejlesztési miniszterrel és Mezőgazdasági Szakigazgatási Hivatal területi szerveivel (a továbbiakban: az MgSzH területi szerve) is.
 
 (5) Az engedélynek a következő adatokat kell tartalmaznia:
 
@@ -38,7 +40,7 @@ i) a termésnövelő anyag tűzveszélyességi osztályba sorolását,
 
 j) a tárolás, a csomagolás, az eltarthatóság jelölését,
 
-k) az engedély érvényességi idejét (év, hónap, nap),
+k)[^14] az engedély hatályát (év, hónap, nap),
 
 l) a csomagolóeszközön, illetve a kísérőokmányon a 4. számú melléklet szerint kötelezően feltüntetendő adatokat,
 
@@ -48,8 +50,15 @@ n) a lejárt szavatossági idejű termésnövelő anyag kezelésére vonatkozó 
 
 o) az engedélyező hatóság által előírt egyéb előírásokat.
 
-(6) Az engedélyes engedélyokiratának megsemmisülése esetén az engedélyező hatóságtól kérheti az engedély másodlatának – külön jogszabályban megállapított díj ellenében történő – kiadását.
+(6)[^15] Az engedélyes engedélyokiratának megsemmisülése, elvesztése esetén az engedélyező hatóságtól kérheti az engedély másodlatának – külön jogszabályban megállapított díj ellenében történő – kiadását.
 
-[^1]: A 6. §-t a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 13. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^2]: A 7. § (2) bekezdése a 90/2008. (VII. 18.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (4) bekezdése alapján a rendelkezést a 2008. augusztus 2. napját követően indult eljárásokban kell alkalmazni.
-[^3]: A 7. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 13. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+(7)[^16] Az engedélyező hatóság hivatalos honlapján közzé kell tenni az engedélyezett termésnövelő anyagok engedélyokiratának adatait, az engedély lejártának időpontját, valamint, ha az intézkedésre egészségügyi vagy környezetvédelmi okból került sor, az arra okot adó körülményeket.
+
+[^9]: A 6. §-t a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 13. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^10]: A 7. § (1) bekezdés b) pontja a 10/2010. (II. 4.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^11]: A 7. § (1) bekezdés d) pontját a 10/2010. (II. 4.) FVM rendelet 6. § (2) bekezdése iktatta be.
+[^12]: A 7. § (2) bekezdése a 90/2008. (VII. 18.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (4) bekezdése alapján a rendelkezést a 2008. augusztus 2. napját követően indult eljárásokban kell alkalmazni.
+[^13]: A 7. § (4) bekezdése a 10/2010. (II. 4.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^14]: A 7. § (5) bekezdés k) pontja a 10/2010. (II. 4.) FVM rendelet 13. § (4) bekezdése szerint módosított szöveg.
+[^15]: A 7. § (6) bekezdése a 10/2010. (II. 4.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^16]: A 7. § (7) bekezdését a 10/2010. (II. 4.) FVM rendelet 6. § (4) bekezdése iktatta be.

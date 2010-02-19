@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-36-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-01 | 2006-36-20-82.4 | 36/2006. (V. 18.) FVM rendelet |
+| 2010-02-19 | 2006-36-20-82.5 | 10/2010. (II. 4.) FVM rendelet |

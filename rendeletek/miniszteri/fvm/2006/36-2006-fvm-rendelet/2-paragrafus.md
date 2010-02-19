@@ -16,4 +16,9 @@
 
 8. Mikrobiológiai készítmény: a talaj termékenységét javító mikroszervezeteket (baktériumokat, gombákat, algákat) tartalmazó termésnövelő anyag, amely mentes az emberre fertőzőképes és a talaj természetes mikroflóráját kedvezőtlenül befolyásoló szervezetektől.
 
-9. Termékcsalád: termésnövelő anyagok, termesztő közegek és növénykondicionáló szerek azonos gyártó által, azonos halmazállapotban, azonos felhasználási céllal gyártott kombinációi.
+9.[^2] Termékcsalád: azonos gyártó által, azonos halmazállapotban, azonos felhasználási céllal gyártott, azonos alapanyagokat különböző összetételben tartalmazó termésnövelő anyagok.
+
+10.[^3] Növénykondicionáló készítmény: a növények fejlődésére, terméshozamára és általános állapotára kedvezően ható, szerves vagy szervetlen anyagokból előállított készítmény, amely a növényi életfolyamatokra elsődlegesen a tápanyagforgalom befolyásolásán keresztül hat.
+
+[^2]: A 2. § 9. pontja a 10/2010. (II. 4.) FVM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § 10. pontját a 10/2010. (II. 4.) FVM rendelet 2. §-a iktatta be.

@@ -1,4 +1,4 @@
-3. számú melléklet a 36/2006. (V. 18.) FVM rendelethez
+3. számú melléklet a 36/2006. (V. 18.) FVM rendelethez[^47]
 
 ## Minőségi előírások a termésnövelő anyagokra
 
@@ -75,8 +75,6 @@ Ammónium-nitrát, illetve 80%-nál több ammónium-nitrátot tartalmazó műtr�
 – szárazanyag-tartalom (m/m%) legalább 40,0
 
 – szervesanyag-tartalom (m/m%) sz.a. legalább 50,0
-
-– vízben oldható összes sótartalom (m/m%) sz.a. legfeljebb 4,0
 
 – szemcseméret eloszlás 25,0 mm alatt legalább 100,0
 
@@ -801,3 +799,5 @@ F. EGYÉB MŰTRÁGYÁK
 | 2–10 tömegszázalék között | ± 0,4 |
 
 | 10 tömegszázalék felett | ± 1,1 |
+
+[^47]: A 3. számú melléklet a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése szerint módosított szöveg.

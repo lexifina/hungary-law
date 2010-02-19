@@ -1,12 +1,10 @@
 ## Forgalombahozatali és felhasználási engedély iránti kérelem
 
-## A 2000. évi XXXV. törvény 38. §-a, valamint a 36/2006. (V. 18.) FVM rendelet 4. §-a alapján kérelmet nyújtok be a ....................... kereskedelmi nevű termék forgalombahozatali és felhasználási engedélyének megadásához.
-
 ## 1. A termésnövelő anyag kereskedelmi neve.
 
 ## 2. A termésnövelő anyag típusa, az 1. számú melléklet függeléke szerint.
 
-## 3. A gyártó neve, címe és statisztikai számjele.
+## 3.[^35] Gyártó és az engedély jogosultjának neve, címe és statisztikai számjele.
 
 ## 4. A kérelmező neve, címe és statisztikai számjele.
 
@@ -38,7 +36,7 @@
 
 ## 15.3. Az engedélyezési eljárási díj befizetésének igazolása.
 
-## 15.4. A veszélyes hulladéknak minősülő összetevőt tartalmazó termésnövelő anyagnál a veszélytelenség megállapításáról szóló határozat.
+## 15.4.[^36]
 
 ## 15.5. A külön jogszabály szerint kockázatos anyagot tartalmazó termésnövelő anyagok esetén annak bemutatása, hogyan viselkednek a kockázatos anyagok a talajban, milyen hatással vannak a felszín alatti vizekre.
 
@@ -208,7 +206,7 @@
 
 – kelátképző anyag.
 
-1.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:[^7]
+1.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:[^37]
 
 – P, K, NPK műtrágyák: As, Cd, Cr, Hg, Ni, Pb,
 
@@ -270,7 +268,7 @@ Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a 
 
 – szervesanyag-tartalom,
 
-– vízben oldható összes sótartalom,
+–[^38]
 
 – szemcseméret eloszlás,
 
@@ -278,7 +276,7 @@ Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a 
 
 2.2. Toxikus elemek vizsgálata 3 x 1 kg mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^8]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^39]
 
 2.3. Szerves szennyezők vizsgálata
 
@@ -314,7 +312,7 @@ Amennyiben a szerves trágya előállításához hulladékot (is) használtak fe
 
 – Humán parazita bélféreg peteszám meghatározása.
 
-2.6.2. Sugárbiológiai vizsgálat 3 x 0,5 kg mintából.
+2.6.2.[^40]
 
 2.7. Amennyiben a szerves trágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további ökotoxikológiai (Daphnia-teszt, halteszt, algateszt) és egyéb vizsgálatok is elrendelhetőek.
 
@@ -340,7 +338,7 @@ Amennyiben a szerves trágya előállításához hulladékot (is) használtak fe
 
 3.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^9]
+– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^41]
 
 3.3. Biológiai hatás vizsgálata: 2 szántóföldi, illetve 2 kertészeti tesztnövénnyel, növényenként legalább egy szabadföldi és egy tenyészedényes vizsgálat végzése.
 
@@ -432,7 +430,7 @@ A komposzt előállításához felhasznált hulladék minőségétől függően 
 
 5.2. Toxikus elemek vizsgálata 3 x 1 kg mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^10]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^42]
 
 5.3. Szerves szennyezők vizsgálata
 
@@ -668,7 +666,7 @@ Amennyiben a talajjavító anyag előállításához hulladékot (is) használta
 
 7.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^11]
+– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^43]
 
 7.3. Szerves szennyezők vizsgálata
 
@@ -706,7 +704,7 @@ Amennyiben a talajkondicionáló készítmény előállításához hulladékot (
 
 8.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^12]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^44]
 
 8.3. Mikrobiológiai minősítés 3 x 1 kg vagy liter mintából.
 
@@ -766,7 +764,7 @@ Amennyiben a talajkondicionáló készítmény előállításához hulladékot (
 
 9.2. Toxikus elemek vizsgálata 3 x 1 kg mintából:
 
-– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^13]
+– As, Cd, Cr, Co, Cu, Hg, Ni, Pb, Se.[^45]
 
 9.3. Szerves szennyezők vizsgálata
 
@@ -822,7 +820,7 @@ Amennyiben a termesztőközeg előállításához hulladékot (is) használtak f
 
 10.2. Toxikus elemek vizsgálata 3 x 1 kg vagy liter mintából:
 
-– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^14]
+– As, Cd, Co, Cr, Cu, Hg, Ni, Pb, Se.[^46]
 
 10.3. Szerves szennyezők vizsgálata
 
@@ -858,11 +856,15 @@ Amennyiben a növénykondicionáló készítmény előállításához hulladéko
 
 Az anyag minőségétől függően az engedélyező hatóság esetenként adja meg a szükséges vizsgálatok körét.
 
-[^7]: Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikus elemek vizsgálata is elrendelhető.
-[^8]: A hulladékot is tartalmazó készítményeknél.
-[^9]: A hulladékot is tartalmazó készítményeknél.
-[^10]: A hulladékot is tartalmazó készítményeknél.
-[^11]: A hulladékot is tartalmazó készítményeknél.
-[^12]: A hulladékot is tartalmazó készítményeknél.
-[^13]: A hulladékot is tartalmazó készítményeknél.
-[^14]: A hulladékot is tartalmazó készítményeknél.
+[^35]: Az 1. számú melléklet 3. pontja a 10/2010. (II. 4.) FVM rendelet 12. §-ával megállapított szöveg.
+[^36]: Az 1. számú melléklet 15.4. pontját a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^37]: Amennyiben a műtrágya előállításához hulladékot (is) használtak fel, a hulladék minőségétől függően további toxikus elemek vizsgálata is elrendelhető.
+[^38]: A 2. számú melléklet 2.1. pont hatodik franciabekezdését a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^39]: A hulladékot is tartalmazó készítményeknél.
+[^40]: A 2. számú melléklet 2.6.2. pontját a 10/2010. (II. 4.) FVM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^41]: A hulladékot is tartalmazó készítményeknél.
+[^42]: A hulladékot is tartalmazó készítményeknél.
+[^43]: A hulladékot is tartalmazó készítményeknél.
+[^44]: A hulladékot is tartalmazó készítményeknél.
+[^45]: A hulladékot is tartalmazó készítményeknél.
+[^46]: A hulladékot is tartalmazó készítményeknél.
