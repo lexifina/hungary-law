@@ -1,0 +1,1 @@
+## 4. § A Dokumentációs Központ a részére átadott és beküldött dokumentációt megőrzi, nyilvántartja, rendszerezi és katalogizálja. A Dokumentációs Központ a dokumentumok biztonságos tárolását, a további megtekintésre, hasznosításra, jó minőségű másolat készítésére alkalmas állapotban tartását a megfelelő intézményi feltételek kialakításával folyamatosan biztosítja.

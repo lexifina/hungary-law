@@ -1,0 +1,9 @@
+# 16/2010. (II. 5.) Korm. rendelet
+
+a területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, megőrzéséről, nyilvántartásáról és hasznosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2010-02-20 | 2010-16-20-22.1 | 16/2010. (II. 5.) Korm. rendelet |
