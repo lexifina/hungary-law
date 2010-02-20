@@ -52,7 +52,7 @@ d) a tachográf-kártya nyilvántartás központi adatkezelési és nemzetközi 
 
 a) a közúti járművezetők és a közúti közlekedési szakemberek tanfolyami képzése, továbbképzése és utánképzése, az e képzésekkel összefüggő iskolavezetői, szakoktatói és vizsgabiztosi tevékenység,
 
-b) a Kkt. 16/A. §-a szerinti szakértői tevékenység,
+b)[^26] a Kkt. 16/A. §-a szerinti szakértői tevékenység, ha kormányrendelet eltérően nem rendelkezik,
 
 c) a Kkt. 24. § (3) bekezdése szerinti kijelölt vizsgáló állomás tevékenysége,
 
@@ -64,7 +64,7 @@ f) a gépjárműfenntartói tevékenység, valamint
 
 g) a veszélyes áru szállítási biztonsági tanácsadói tevékenység.
 
-(11)[^26] A Kknyt. 33/A. § (1) bekezdése szerinti engedélyező hatóságként a Kormány a Hatóságot jelöli ki.
+(11)[^27] A Kknyt. 33/A. § (1) bekezdése szerinti engedélyező hatóságként a Kormány a Hatóságot jelöli ki.
 
 [^8]: A 4. § (1) bekezdése a 105/2009. (V. 14.) Korm. rendelet 4. § (5) bekezdésének a) pontja, a 182/2009. (IX. 10.) Korm. rendelet 488. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^9]: A 4. § (2) bekezdése a 166/2007. (VI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
@@ -84,4 +84,5 @@ g) a veszélyes áru szállítási biztonsági tanácsadói tevékenység.
 [^23]: A 4. § (8) bekezdését a 62/2008. (III. 28.) Korm. rendelet 1. §-a iktatta be.
 [^24]: A 4. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^25]: A 4. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^26]: A 4. § (11) bekezdését a 301/2009. (XII. 22.) Korm. rendelet 20. § (1) bekezdése iktatta be.
+[^26]: A 4. § (10) bekezdés b) pontja a 14/2010. (II. 5.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^27]: A 4. § (11) bekezdését a 301/2009. (XII. 22.) Korm. rendelet 20. § (1) bekezdése iktatta be.

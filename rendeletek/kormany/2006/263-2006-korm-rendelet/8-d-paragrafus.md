@@ -1,6 +1,6 @@
-## A vasúti közlekedési hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^83]
+## A vasúti közlekedési hatóság eljárásaiban közreműködő szakhatóságok kijelölése[^84]
 
-8/D. §[^84] (1) A Kormány a vasúti építmény engedélyezésére irányuló eljárásban,
+8/D. §[^85] (1) A Kormány a vasúti építmény engedélyezésére irányuló eljárásban,
 
 a) – az államhatár rendje, a határrend-sértések és határesemények megelőzéséhez szükséges feltételek, valamint a közlekedésbiztonsági követelmények megállapítása kérdésében – első fokú eljárásban a megyei, fővárosi rendőr-főkapitányságot, másodfokú eljárásban az Országos Rendőr-főkapitányságot,
 
@@ -12,11 +12,11 @@ d) ha az eljárás régészeti lelőhelyen, régészeti védőövezet területé
 
 e) – a bányatelek, a bányatelekkel nem rendelkező felhagyott bánya, meddőhányó, célkitermelő hely, bányászati tevékenységgel érintett egyéb terület, bányászati vagy gázipari létesítmények biztonsági övezetének, (az ugyanazon helyrajzi számú földrészletről nyíló, egyenként 100 m2-nél nagyobb alapterületű, mesterségesen földbe vájt üregek együttes alapterületével számítva) a 300 m2-nél nagyobb alapterületű, bányászati módszerekkel kialakított föld alatti térség, föld alatti tároló térség építéssel kapcsolatos érintettségének megállapításával, az építés során kitermelt ásványi nyersanyag felhasználása, értékesítése, hasznosítása feltételeinek és a fizetendő bányajáradék mértékének meghatározásával kapcsolatos szakkérdésben – első fokú eljárásban a bányakapitányságot, másodfokú eljárásban a Magyar Bányászati és Földtani Hivatalt,
 
-f)[^85] ha az építmény külterületen, továbbá egyedi tájérték, természeti terület, országos jelentőségű védett természeti terület, Natura 2000 terület vagy barlang védőövezete esetén belterületen valósul meg, és a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges, – annak elbírálása kérdésében, hogy az építmény vagy az építési tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget, valamint
+f)[^86] ha az építmény külterületen, továbbá egyedi tájérték, természeti terület, országos jelentőségű védett természeti terület, Natura 2000 terület vagy barlang védőövezete esetén belterületen valósul meg, és a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges, – annak elbírálása kérdésében, hogy az építmény vagy az építési tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget, valamint
 
 g) helyi jelentőségű védett természeti területen vagy arra közvetlen hatást gyakorló módon megvalósuló vasúti építmény esetén, – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó helyi önkormányzati rendeletben meghatározott követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a települési önkormányzat jegyzőjét, a fővárosban a főjegyzőt, másodfokú eljárásban a Kormány általános hatáskörű területi államigazgatási szervét,
 
-h)[^86] erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló területen vagy arra közvetlen hatást gyakorló módon megvalósuló – normál és keskeny nyomtávú – vasúti pályaépítmény esetén, – annak elbírálása kérdésében, hogy a tevékenység az erdő védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal területi szervét, másodfokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal Központját
+h)[^87] erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló területen vagy arra közvetlen hatást gyakorló módon megvalósuló – normál és keskeny nyomtávú – vasúti pályaépítmény esetén, – annak elbírálása kérdésében, hogy a tevékenység az erdő védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e – első fokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal területi szervét, másodfokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal Központját
 
 ## szakhatóságként jelöli ki.
 
@@ -24,9 +24,9 @@ h)[^86] erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló t
 
 a) ügyfélnek az eljárás megindítását megelőzően benyújtott kérelmére a szakhatóságként kijelölt hatóság előzetes szakhatósági állásfoglalást ad ki,
 
-b)[^87] a meghozott döntést az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
+b)[^88] a meghozott döntést az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
 
-(3)[^88] A Kormány az (1) bekezdésben nem említett, a hagyományos és a nagysebességű transzeurópai vasúti rendszerrel összefüggésben a Vtv. 10. § (1) bekezdés b)–d) pontja szerinti műszaki engedély kiadására irányuló vasúti hatósági eljárásban
+(3)[^89] A Kormány az (1) bekezdésben nem említett, a hagyományos és a nagysebességű transzeurópai vasúti rendszerrel összefüggésben a Vtv. 10. § (1) bekezdés b)–d) pontja szerinti műszaki engedély kiadására irányuló vasúti hatósági eljárásban
 
 a) a zajvédelemre vonatkozó követelményeknek való megfelelés megállapítása érdekében,
 
@@ -38,9 +38,9 @@ d) a hagyományos és a nagysebességű transzeurópai vasúti rendszer részét
 
 első fokú eljárásban a környezetvédelmi, természetvédelmi és vízügyi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőséget szakhatóságként jelöli ki.
 
-[^83]: A 8/D. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^84]: A 8/D. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^85]: A 8/D. § (1) bekezdés f) pontja a 182/2009. (IX. 10.) Korm. rendelet 488. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^86]: A 8/D. § (1) bekezdés h) pontját a 145/2009. (VII. 10.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
-[^87]: A 8/D. § (2) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 488. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^88]: A 8/D. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 487. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^84]: A 8/D. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^85]: A 8/D. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^86]: A 8/D. § (1) bekezdés f) pontja a 182/2009. (IX. 10.) Korm. rendelet 488. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^87]: A 8/D. § (1) bekezdés h) pontját a 145/2009. (VII. 10.) Korm. rendelet 24. § (2) bekezdése iktatta be. E módosító rendelet 28. § (1) bekezdése alapján a rendelkezést a 2009. július 10. napját követően indult eljárásokban kell alkalmazni.
+[^88]: A 8/D. § (2) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 488. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^89]: A 8/D. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 487. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
