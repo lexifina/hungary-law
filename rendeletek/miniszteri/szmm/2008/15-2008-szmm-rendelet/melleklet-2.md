@@ -1126,39 +1126,45 @@
 
 | 188. | 361. | 31 | 815 | 01 | 0000 | 00 | 00 | Kéz- és lábápoló, műkörömépítő | Egyéb szolgáltatások szakmacsoport |
 
-| 189. | 362. | 52 | 815 | 01 | 0000 | 00 | 00 | Kozmetikus | Egyéb szolgáltatások szakmacsoport |
+| 189. | 362. | 52 | 815 | 01 | 0000 | 00 | 00 | Kozmetikus | Egyéb szolgáltatások |
+
+|  |  | 52 | 815 | 01 | 0001 | 52 | 01 | Szakképesítés-ráépülés: Tartós sminkkészítő |  |
+
+|  |  | 52 | 815 | 01 | 0001 | 52 | 02 | Szakképesítés-ráépülés: Speciális testkezelő |  |
 
 | 190. | 364. | 31 | 853 | 04 | 0000 | 00 | 00 | Köztisztasági munkagép- és járműkezelő | Egyéb szolgáltatások szakmacsoport |
 
 |  |  | 31 | 853 | 04 | 0100 | 31 | 01 | Részszakképesítés: Településtisztasági szippantógépkezelő |  |
 
-| 191. | 366. | 55 | 810 | 01 |  |  |  | Mérnökasszisztens | Egyéb szolgáltatások szakmacsoport |
+| 191. | 366. | 55 | 810 | 01 |  |  |  | Mérnökasszisztens | Egyéb szolgáltatások |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 01 | Szakképesítés-elágazás: Energetikai mérnökasszisztens | Elektrotechnika-elektronika szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 01 | Szakképesítés-elágazás: Energetikai mérnökasszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 02 | Szakképesítés-elágazás: Építettkörnyezetmérnök-asszisztens | Építészet szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 02 | Szakképesítés-elágazás: Építettkörnyezetmérnök-asszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 03 | Szakképesítés-elágazás: Faipari terméktervező | Faipar szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 03 | Szakképesítés-elágazás: Faipari terméktervező |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 04 | Szakképesítés-elágazás: Faipari termelésszervező | Faipar szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 04 | Szakképesítés-elágazás: Faipari termelésszervező |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 05 | Szakképesítés-elágazás: Gépipari mérnökasszisztens | Gépészet szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 05 | Szakképesítés-elágazás: Gépipari mérnökasszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 06 | Szakképesítés-elágazás: Hálózati informatikus | Informatika szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 06 | Szakképesítés-elágazás: Hálózati informatikus |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 07 | Szakképesítés-elágazás: Kohómérnök asszisztens | Gépészet szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 07 | Szakképesítés-elágazás: Kohómérnök asszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 08 | Szakképesítés-elágazás: Könnyűipari mérnökasszisztens | Könnyűipar szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 08 | Szakképesítés-elágazás: Könnyűipari mérnökasszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 09 | Szakképesítés-elágazás: Mechatronikai mérnökasszisztens | Gépészet szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 09 | Szakképesítés-elágazás: Mechatronikai mérnökasszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 10 | Szakképesítés-elágazás: Műszaki informatikai mérnökasszisztens | Informatika szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 10 | Szakképesítés-elágazás: Műszaki informatikai mérnökasszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 11 | Szakképesítés-elágazás: Vegyész mérnökasszisztens | Vegyipar szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 11 | Szakképesítés-elágazás: Vegyész mérnökasszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 12 | Szakképesítés-elágazás: Vegyipari gépészmérnök-asszisztens | Gépészet szakmacsoport |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 12 | Szakképesítés-elágazás: Vegyipari gépészmérnök- asszisztens |  |
 
-|  |  | 55 | 810 | 01 | 0010 | 55 | 13 | Szakképesítés-elágazás: Villamosmérnök-asszisztens | Elektrotechnika-elektronika |
+|  |  | 55 | 810 | 01 | 0010 | 55 | 13 | Szakképesítés-elágazás: Villamosmérnök- asszisztens |  |
+
+|  |  | 55 | 810 | 01 | 0010 | 55 | 14 | Szakképesítés-elágazás: Területfejlesztési szakasszisztens |  |
 
 | 192. | 367. | 52 | 345 | 03 | 0000 | 00 | 00 | Munkaelemző | Egyéb szolgáltatások szakmacsoport |
 
@@ -1178,7 +1184,7 @@
 
 | 198. | 381. | 31 | 543 | 09 | 0000 | 00 | 00 | Üvegcsiszoló | Egyéb szolgáltatások szakmacsoport |
 
-2. számú melléklet a 15/2008. (VIII. 13.) SZMM rendelethez[^2]
+2. számú melléklet a 15/2008. (VIII. 13.) SZMM rendelethez[^3]
 
 CSECSEMŐ- ÉS GYERMEKNEVELŐ- GONDOZÓ
 
@@ -3942,42 +3948,4 @@ Személyes kompetenciák:
 
 Szervezőkészség
 
-Elhivatottság, elkötelezettség
-
-Döntésképesség
-
-Kézügyesség
-
-Tájékozódás
-
-Türelem
-
-Társas kompetenciák:
-
-Határozottság
-
-Közérthetőség
-
-Adekvát metakommunikáció
-
-Konfliktusmegoldó készség
-
-Segítőkészség
-
-Kapcsolatteremtő készség
-
-Kompromisszumkészség
-
-Empátia
-
-Módszerkompetenciák:
-
-Áttekintő képesség
-
-Gyakorlatias feladatértelmezés
-
-A környezet tisztántartása
-
-Tervezés
-
-[^2]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. számú melléklet a – 19/2009. (IX. 25.) SZMM rendelet 1. § (1) bekezdése szerint módosított – 18/2009. (IX. 10.) SZMM rendelet 1. § (2) bekezdése, az 1/2010. (II. 5.) SZMM rendelet 2. § b) pontja szerint módosított szöveg.
