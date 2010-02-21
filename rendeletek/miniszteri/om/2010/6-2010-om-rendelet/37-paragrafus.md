@@ -1,0 +1,1 @@
+## 36. § A miniszter a „Sportteljesítmények elismerése, megbecsülése” előirányzat terhére, a Wesselényi Miklós Sport- közalapítványon keresztül biztosítja az olimpiai, paralimpiai, speciális világjáték-válogatott kerettag sportolók, továbbá a felkészülésükben közreműködő sportszakemberek részére a Gerevich Aladár-sportösztöndíj juttatását.
