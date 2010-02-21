@@ -1,1 +1,0 @@
-A szakképzésről szóló 1993. évi LXXVI. törvény 5. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, a szociális és munkaügyi miniszter feladat- és hatásköréről szóló 170/2006. (VII. 28.) Korm. rendelet 1. § g) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
