@@ -11,11 +11,3 @@
 (6) Hatályát veszti a Bt. 1. § (5) bekezdésének a) pontja, valamint a 49. § 5. pontjának a) alpontja.
 
 (7) A Bt. 26/A. § (3) bekezdésének b) pontjában az „a tevékenység” szövegrész helyébe a „szilárd ásványi nyersanyag feltárása és kitermelése esetében a tevékenység” szöveg lép.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
