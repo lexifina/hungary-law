@@ -1,6 +1,6 @@
 50/A. § (1) Felhatalmazást kap a Kormány
 
-a) a bejelentés alapján végezhető felszíni előkutatásra,
+a) a földtani kutatásra és a bejelentés alapján végezhető felszíni előkutatásra,
 
 b) e törvény hatálya alá tartozó, hatósági engedély alapján végezhető tevékenységekre,
 

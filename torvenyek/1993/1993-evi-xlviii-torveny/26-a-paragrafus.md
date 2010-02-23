@@ -10,7 +10,7 @@ b) az a természetes vagy jogi személy, illetve jogi személyiség nélküli ga
 
 a) kutatási adatokkal (kutatási zárójelentés vagy készletszámítási jelentés) igazolja, hogy a bányatelekkel lehatárolni kért lelőhely kitermelhető ásványvagyonnal rendelkezik,
 
-b) a tevékenység végzéséhez szükséges környezetvédelmi, illetve – ha azt külön jogszabály elrendeli – egységes környezethasználati engedéllyel rendelkezik,
+b) szilárd ásványi nyersanyag feltárása és kitermelése esetében a tevékenység végzéséhez szükséges környezetvédelmi, illetve – ha azt külön jogszabály elrendeli – egységes környezethasználati engedéllyel rendelkezik,
 
 c) meghatározza az általa alkalmazni kívánt bányaművelési technológiát (mélyművelés, külfejtés, fúrólyukas kitermelés), és műszaki leírással igazolja a kitermelési feltételek teljesíthetőségét, valamint megjelöli a kitermelés ütemterv szerinti időpontját,
 

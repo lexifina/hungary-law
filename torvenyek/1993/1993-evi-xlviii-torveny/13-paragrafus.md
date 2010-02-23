@@ -1,7 +1,13 @@
 ## A koncessziós társaság
 
-13. § A koncesszió jogosultja a bányászati tevékenységet akkor kezdheti meg, ha a szerződés aláírásától számított 90 napon belül igazolja, hogy
+13. § (1) A koncesszió jogosultja köteles a szerződés aláírásától számított 90 napon belül a bányászati tevékenység végzésére koncessziós társaságot létrehozni. Koncessziós társaság
 
-a) bányászati tevékenység végzésére belföldi gazdálkodó szervezetet hozott létre,
+a) belföldi gazdálkodó szervezet vagy
 
-b) a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvényben meghatározott külföldi vállalkozás bányászati tevékenység végzésére saját részvételével magyarországi fióktelepet hozott létre.
+b) a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben meghatározott külföldi vállalkozás
+
+lehet.
+
+(2) A koncessziós szerződés alapján keletkezett jogok és kötelezettségek az (1) bekezdésben meghatározott gazdálkodó szervezet létrehozását követően a koncessziós társaságot mint bányavállalkozót illetik meg, illetve terhelik.
+
+(3) Amennyiben a koncessziós szerződés aláírásától számított 90 napon belül a koncessziós társaság nem jön létre, a koncesszió megszűnik.

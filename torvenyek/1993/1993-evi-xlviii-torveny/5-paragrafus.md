@@ -14,7 +14,7 @@ e) az 1. § (1) bekezdés f) pontja szerinti létesítmények, továbbá a föld
 
 f) a cseppfolyós propán-, bután gázok és ezek elegyei töltő és tároló létesítményeinek, valamint elosztóvezetékeinek létesítését, használatba vételét és elbontását, illetőleg felhagyását,
 
-g) a geotermikus energia kutatását, kinyerését és hasznosítását, beleértve az ehhez szükséges föld alatti és felszíni létesítmények megépítését és használatba vételét, amennyiben az nem érinti felszín alatti vizek felszínre hozatalát,
+g) a geotermikus energia kinyerését és hasznosítását, valamint az ehhez szükséges – külön jogszabályban meghatározott – földalatti és felszíni létesítmények megépítését és használatba vételét, ha a tevékenység nem vízjogi engedély köteles,
 
 h) a bányászati tevékenység során keletkező hulladék kezelését,
 

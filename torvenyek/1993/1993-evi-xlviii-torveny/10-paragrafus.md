@@ -4,11 +4,11 @@
 
 (2) A pályázati kiírásnak, a koncesszióról szóló 1991. évi XVI. törvényben meghatározottakon túlmenően, tartalmaznia kell:
 
-a) a pályázatra bocsátott terület térbeli lehatárolását annak feltüntetésével, hogy a területen vagy annak egy részén harmadik személy szerzett-e már jogot valamely ásványi nyersanyag bányászatára, vagy e törvény hatálya alá tartozó más tevékenység gyakorlására;
+a) a pályázatra bocsátott földrajzi terület lehatárolását és a meghirdetett térrész meghatározását annak feltüntetésével, hogy a területen (térben) vagy annak egy részén harmadik személy szerzett-e már jogot valamely ásványi nyersanyag bányászatára, geotermikus energia kinyerésére és hasznosítására vagy az e törvény hatálya alá tartozó más tevékenység gyakorlására;
 
 b) az e törvény hatálya alá tartozó koncesszió-köteles tevékenység meghatározását;
 
-c) a koncessziós tevékenység szakmai, környezetvédelmi, földügyi, vízügyi, közegészségügyi, egészségvédelmi, természet- és tájvédelmi követelményeit, valamint a követelmények teljesítésére szolgáló biztosíték-adási kötelezettségeket;
+c) a koncessziós tevékenység szakmai követelményeit, valamint a komplex érzékenységi és terhelhetőségi vizsgálat alapján meghatározott követelményeket, továbbá a követelmények teljesítésére szolgáló biztosíték-adási kötelezettségeket;
 
 d) a benyújtandó munkaprogram főbb tartalmi követelményeit;
 
@@ -22,6 +22,6 @@ h) a pályázatok elbírálásának szempontjait (pl. a munkaprogram tartalma, a
 
 i) a koncessziós társaság alapítási kényszerére vonatkozó tájékoztatást;
 
-j) mindazokat a további feltételeket, kikötéseket, amelyeket a koncessziós szerződés megkötésekor vagy a szerződésben rendezni kell (pl. az állam által vállalt kisajátításokkal kapcsolatos költségek megtérítése, az ásványi nyersanyag állami elővásárlási jogának kikötése).
+j) mindazokat a további feltételeket, kikötéseket, amelyeket a koncessziós szerződés megkötésekor vagy a szerződésben rendezni kell (például az állam által vállalt kisajátításokkal kapcsolatos költségek megtérítése, az ásványi nyersanyag, a hasznosításra kinyert geotermikus energia állami elővásárlási jogának kikötése).
 
 (3) A nyilvános pályázati felhívást a koncesszióról szóló 1991. évi XVI. törvényben foglaltakon túl az Európai Unió Hivatalos Lapjában is meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam lejártát megelőző legalább kilencven nappal.

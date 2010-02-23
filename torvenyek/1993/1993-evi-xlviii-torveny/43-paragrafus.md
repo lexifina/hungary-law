@@ -6,7 +6,7 @@
 
 43. § (1) A bányászattal kapcsolatos közigazgatási feladatokat a bányafelügyelet látja el.
 
-(2) A bányafelügyelet feladata, hogy a felügyelete alá tartozó tevékenységek (44—46. §) végzése során védje a dolgozók életét, testi épségét és egészségét, ellenőrizze az ásványvagyon gazdálkodásra, a környezet-, a táj- és a természetvédelemre, valamint a műszaki biztonságra és a tűzvédelemre vonatkozó szabályok megtartását.
+(2) A bányafelügyelet feladata, hogy a felügyelete alá tartozó tevékenységek (44–46. §) végzése során védje a dolgozók életét, testi épségét és egészségét, ellenőrizze az ásvány- és geotermikusenergia-vagyonnal való gazdálkodásra, a környezet-, a táj- és a természetvédelemre, valamint a műszaki biztonságra és a tűzvédelemre vonatkozó szabályok megtartását.
 
 (3) A bányafelügyelet a hatósági felügyelete keretében – az e törvényben és a külön jogszabályokban meghatározott – műszaki-biztonsági, munkavédelmi, építésügyi hatósági, építésfelügyeleti, ásványvagyon-gazdálkodási, piacfelügyeleti és földtani hatásköröket gyakorol. A bányafelügyelet tűzvédelmi hatósági jogköre a bányák föld alatti, valamint ezzel egy tekintet alá eső külszíni részére terjed ki.
 

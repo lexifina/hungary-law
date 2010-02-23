@@ -22,7 +22,7 @@ d) a bányászati tevékenység befejezését követő tájrendezés,
 
 e) a szénhidrogén tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása és hasznosítása,
 
-f) a felszín alatti víz kutatásával és kitermelésével nem járó geotermikus energia kutatása, kinyerése és hasznosítása, továbbá
+f) a geotermikus energia kutatása, kinyerése és hasznosítása, továbbá
 
 g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hulladék kezelése is.
 
@@ -30,7 +30,7 @@ g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hullad
 
 Bányavállalkozónak minősül e törvény
 
-a) 3. §-ának, 20. §-ának, 41. §-ának szabályai alkalmazásában az energetikai célra kinyert geotermikus energia vízjogi engedély alapján történő hasznosítására,
+a)
 
 b) 2. §-ának, 16. § (4) bekezdésének, 18. §-ának, 21. § (1) bekezdésének, 24. § (1) bekezdésének, 28. § (1) bekezdésének, 31–35. §-ainak, 37–38. §-ainak, 41. §-ának szabályai alkalmazásában, a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására, valamint
 
@@ -68,17 +68,17 @@ E törvény alkalmazásában feltárás
 
 16. „Kivett hely”: ahol bányászati tevékenységet a kivettség tárgya szerint hatáskörrel rendelkező illetékes hatóság hozzájárulásával, az általa előírt külön feltételek megtartásával szabad folytatni. Kivett helynek minősül a belterület, a külterület beépítésre szánt része, a közlekedési célt szolgáló terület, temető, vízfolyás vagy állóvíz medre, függőpálya vagy vezeték biztonsági, illetve védő övezete, vízi létesítmény, ivóvíz, ásvány-, gyógyvíz, bármely forrás és kijelölt védőterülete, védőerdő, gyógy- és üdülőhely védőövezete, a védett természeti terület, a műemléki, illetve régészeti védettség alatt álló ingatlan, továbbá a honvédelmi létesítmények területe, a külfejtés vonatkozásában a termőföld, valamint amit jogszabály a bányászati tevékenység tekintetében annak minősít.
 
-17. ,,Kutatás'' olyan földtani (geológiai, geofizikai, geokémiai) és mérnöki módszerekkel végzett bányászati tevékenység, amelynek célja:
+17. „Kutatás”: olyan földtani (geológiai, geofizikai, geokémiai) és mérnöki módszerekkel végzett bányászati tevékenység, amelynek célja:
 
-— az ásványi nyersanyagok lelőhelyének felfedezése,
+a) az ásványi nyersanyagok lelőhelyének felfedezése,
 
-— a felfedezett ásványi nyersanyag lelőhely lehatárolása és mennyiségi, minőségi megismerése, továbbá
+b) a felfedezett ásványi nyersanyag lelőhely lehatárolása és mennyiségi, minőségi megismerése, továbbá
 
-— a földtani szerkezetek megismerése szénhidrogén föld alatti tárolására való alkalmasság szempontjából.
+c) a geotermikus energia földkéregbeli viszonyainak megismerése, valamint
 
-A barlangok feltárására, kutatására irányuló tevékenységekről a természetvédelmi jogszabályok rendelkeznek.
+d) a földtani szerkezetek megismerése szénhidrogén föld alatti tárolására való alkalmasság szempontjából.
 
-18. „Kutatási terület”: a koncessziós szerződésben vagy a kutatási jogot adományozó határozatban meghatározott ásványi nyersanyag kutatására körülhatárolt terület.
+18. „Kutatási terület”: a koncessziós szerződésben vagy a kutatási jogot adományozó határozatban meghatározott ásványi nyersanyag, vagy geotermikus energia kutatására körülhatárolt terület.
 
 19. ,,Lelőhely'' az ásványi nyersanyagok természetes előfordulásának helye (pl. réteg, telep, lerakódás).
 
@@ -100,7 +100,7 @@ A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a száll
 
 23.
 
-24. ,,Zárt terület'' meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölt terület, továbbá e törvény 50. §-ának (6) bekezdése a)–c) pontjaiban meghatározott területek az adott ásványi nyersanyag vonatkozásában.
+24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt. A geotermikus energia vonatkozásában zárt területnek minősül az ország egész területén a természetes felszíntől mért 2500 m alatti földkéreg-rész.
 
 25. ,,Növelt hatékonyságú művelési eljárás'': olyan végső többletolaj kihozatali eljárás, amely megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető olajmennyiséget. A réteg-energia megnövelése termikus, gázos, kémiai vagy egyéb módon (pl. elektromágneses) történik.
 
@@ -147,3 +147,7 @@ A vezetékek alkotórészei:
 – a vezeték üzemeltetését, irányítását, ellenőrzését szolgáló létesítmények és berendezések (távfelügyeleti, hírközlési, korrózióvédelem) a távadat átvitelt biztosító szolgáltatás hozzáférési pontjáig.
 
 40. Szénhidrogén mező”: egy vagy több, szakmailag igazolható módon ugyanazon földtani szerkezethez vagy szerkezetileg összefüggő, közös hidrodinamikai rendszerű, jól lehatárolható rétegtani képződményhez tartozó szénhidrogén telepből álló szénhidrogén előfordulás.
+
+41. „Kinyerés”: a geotermikus energiának a geotermikus energiahordozóból történő hő ellátási vagy villamos energia előállítási célú elvonása.
+
+42. „Geotermikus energia hasznosítása”: azon tevékenység, amely során a kinyert geotermikus energia felhasználásra kerül.

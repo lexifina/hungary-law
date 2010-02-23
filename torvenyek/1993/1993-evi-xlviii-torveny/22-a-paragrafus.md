@@ -43,3 +43,5 @@ a) a kutatási jogadomány, valamint a bányatelek jogosultjának névátírása
 b) kutatási jogadományt vagy bányatelek megállapítását követően a kutatási, illetve feltárási, kitermelési műszaki üzemi terv jóváhagyása;
 
 c) a bányafelügyelet olyan eljárás keretében hozott határozata, amely a tevékenységek megkezdésére, félbeszakítására, meghosszabbítására vagy megszüntetésére, illetve magának az engedélynek a meghosszabbítására vonatkozik.
+
+(12) Ha egyes szénhidrogén-bányászati tevékenységek megkezdéséhez, illetve e tevékenységek végzéséhez szükséges létesítmények megépítéséhez jogszabály környezetvédelmi-, vagy egységes környezethasználati engedély megszerzését írja elő, akkor e tevékenységeket, illetve ilyen létesítmények megépítését a bányafelügyelet csak jogerős és végrehajtható környezetvédelmi-, illetve egységes környezethasználati engedély megléte esetén engedélyezi.

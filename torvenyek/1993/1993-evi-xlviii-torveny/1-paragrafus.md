@@ -20,7 +20,7 @@ f) a szénhidrogén-termelésben, -előkészítésben és az elsődleges feldolg
 
 g) szénhidrogének tárolására alkalmas földtani szerkezetek kiképezése és tárolásra történő hasznosítása;
 
-h) a geotermikus energia hasznosítása, valamint a felszín alatti víz termelésével együtt nem járó kutatása és kinyerése;
+h) a geotermikus energia kutatása, kinyerése és hasznosítása;
 
 i) az állam más törvény hatálya alá nem tartozó földtani feladatai;
 
@@ -36,7 +36,7 @@ k) az a)–j) pontokban felsorolt tevékenységek gyakorlásához szükséges l�
 
 (5) Nem tartozik e törvény hatálya alá:
 
-a) a geotermikus energiát hordozó felszín alatti vizek kutatása és kitermelése,
+a)
 
 b) az építés, tereprendezés és a vizek medrének – a külön törvényben meghatározott – vízgazdálkodási célból végzett alakítása, továbbá a kézi erővel végzett aranymosás,
 
