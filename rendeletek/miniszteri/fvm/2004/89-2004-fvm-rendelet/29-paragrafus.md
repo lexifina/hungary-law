@@ -2,7 +2,7 @@
 
 ## Növényvédő szerek osztályozása
 
-29. §[^88] (1) A növényvédő szereket a 6. számú melléklet szerinti értékelés során az embert és a környezetet veszélyeztető tulajdonságaik alapján, a veszélyes anyagok és veszélyes készítmények osztályozásáról szóló külön jogszabályban foglaltak szerint kell besorolni, továbbá a 4. és 5. számú melléklet szerinti kiegészítő R- és S-mondatokkal kell jellemezni a (2) bekezdésben foglaltak figyelembevételével. A besorolásnál az Európai Unióban osztályozott veszélyes anyagok jegyzékéről szóló külön jogszabály előírásait is figyelembe kell venni. Indokolt esetben az ember és az állat egészségének, továbbá a környezet védelme érdekében a címkén további mondatok feltüntetése írható elő, amelyről a Szerződő Államokat és a Bizottságot tájékoztatni kell, a megfelelő indokolás megadásával. Az esetleges felülvizsgálatra a Bizottság döntése alapján kerülhet sor.
+29. §[^92] (1) A növényvédő szereket a 6. számú melléklet szerinti értékelés során az embert és a környezetet veszélyeztető tulajdonságaik alapján, a veszélyes anyagok és veszélyes készítmények osztályozásáról szóló külön jogszabályban foglaltak szerint kell besorolni, továbbá a 4. és 5. számú melléklet szerinti kiegészítő R- és S-mondatokkal kell jellemezni a (2) bekezdésben foglaltak figyelembevételével. A besorolásnál az Európai Unióban osztályozott veszélyes anyagok jegyzékéről szóló külön jogszabály előírásait is figyelembe kell venni. Indokolt esetben az ember és az állat egészségének, továbbá a környezet védelme érdekében a címkén további mondatok feltüntetése írható elő, amelyről a Szerződő Államokat és a Bizottságot tájékoztatni kell, a megfelelő indokolás megadásával. Az esetleges felülvizsgálatra a Bizottság döntése alapján kerülhet sor.
 
 (2) Az (1) bekezdés szerinti kiegészítő R- és S-mondatokat azokra a Magyarországon engedélyezett növényvédő szerekre kell alkalmazni, amelyek hatóanyagai szerepelnek az 1. számú melléklet A. részében. A kiegészítő R- és S-mondatokat a 15. számú mellékletben megjelölt határidők alapján kell feltüntetni. Amennyiben a növényvédő szer több hatóanyagot tartalmaz, akkor a legkésőbbi határidőt kell figyelembe venni.
 
@@ -30,4 +30,4 @@ e) A biztonsági távolság megállapításának részletes szabályait a Gyűjt
 
 (6) A forgalmi kategóriába sorolás feltételeit a Gyűjtemény tartalmazza.
 
-[^88]: A 29. § a 15/2009. (III. 6.) FVM rendelet 26. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^92]: A 29. § a 15/2009. (III. 6.) FVM rendelet 26. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.

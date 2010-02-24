@@ -1,8 +1,8 @@
-## 27. §[^85]
+## 27. §[^89]
 
 ## Minőség-ellenőrzés
 
-28. §[^86] (1) A növényvédő szerek engedélyben előírt minőségét és a címkézését a Mezőgazdasági Szakigazgatási Hivatal területi szervei rendszeresen ellenőrzik.
+28. §[^90] (1) A növényvédő szerek engedélyben előírt minőségét és a címkézését a Mezőgazdasági Szakigazgatási Hivatal területi szervei rendszeresen ellenőrzik.
 
 (2) Ha a minőség-ellenőrzés alapján a növényvédő szer adott tétele eltér az engedélyokiratban meghatározottaktól, vagy bizonyíthatóan nem egyenértékű az engedélyezett növényvédő szerrel, vagy felhasználásra alkalmatlanná, illetve veszélyessé vált, annak további sorsáról az engedélyező hatóság dönt.
 
@@ -12,5 +12,5 @@
 
 (5) Az eltarthatósági időszak meghosszabbítása nem kérhető olyan termékre vonatkozóan, melynek forgalomba hozatali és felhasználási engedélye érvényessége lejárt, illetve az engedélye visszavonásra került.
 
-[^85]: A 27. §-t a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének f) pontja hatályon kívül helyezte.
-[^86]: A 28. § a 15/2009. (III. 6.) FVM rendelet 25. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^89]: A 27. §-t a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének f) pontja hatályon kívül helyezte.
+[^90]: A 28. § a 15/2009. (III. 6.) FVM rendelet 25. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.

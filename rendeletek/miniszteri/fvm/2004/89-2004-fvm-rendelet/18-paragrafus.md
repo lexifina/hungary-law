@@ -1,6 +1,6 @@
 ## Az engedély módosítása, visszavonása
 
-18. §[^61] (1) Az engedélyező hatóság az engedélyt hivatalból vagy kérelemre módosíthatja, ha azt szakmai vagy tudományos szempontok indokolttá teszik.
+18. §[^64] (1) Az engedélyező hatóság az engedélyt hivatalból vagy kérelemre módosíthatja, ha azt szakmai vagy tudományos szempontok indokolttá teszik.
 
 (2) Az engedély módosítását az (1) bekezdése alapján az engedélyesen kívül kérheti a felhasználásban érdekelt természetes személy, gazdálkodó szervezet, társadalmi szervezet, köztestület, költségvetési szerv. Az engedélyes hozzájáruló nyilatkozatát az engedély módosítására vonatkozóan az engedélyező hatóság szükség szerint beszerzi. Amennyiben a felhasználásra vonatkozó engedélymódosítást nem az engedélyes kéri, az engedély akkor módosítható, ha a kérelmező benyújtotta a módosítást alátámasztó dokumentációt és adatokat, továbbá ha azok megfelelnek a 16. §-ban foglaltaknak.
 
@@ -26,7 +26,7 @@ g) az engedélyes az előírt analitikailag tiszta hatóanyagmintát, illetve e 
 
 h) amennyiben az 5. § (5) bekezdésében írt feltételek bármely okból nem teljesülnek.
 
-(6) Az engedély visszavonásáról az engedélyező hatóság az engedélyest határozatban értesíti, továbbá a visszavonás okától függően türelmi időt biztosíthat a meglévő készletek selejtezésére, raktározására, forgalomba hozatalára és felhasználására.
+(6)[^65] Az engedély visszavonásáról szóló döntését az engedélyező hatóság közli az engedélyessel, továbbá a visszavonás okától függően türelmi időt biztosíthat a meglévő készletek selejtezésére, raktározására, forgalomba hozatalára és felhasználására.
 
 (7) A visszavont engedélyű növényvédő szerek raktárkészleteinek felhasználása legfeljebb két vegetációs időszakra kiterjedően engedélyezhető, kivéve, ha a további felhasználást az engedélyező hatóság megtiltotta. Az engedély visszavonására vonatkozó határozatban foglaltakat a címkén fel kell tüntetni.
 
@@ -40,4 +40,5 @@ h) amennyiben az 5. § (5) bekezdésében írt feltételek bármely okból nem t
 
 (12) Az engedély ismételt megadását új eljárásban kell kezdeményezni lejárt érvényességű, illetve visszavont engedélyű termék esetén.
 
-[^61]: A 18. § a 15/2009. (III. 6.) FVM rendelet 15. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^64]: A 18. § a 15/2009. (III. 6.) FVM rendelet 15. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^65]: A 18. § (6) bekezdése a 12/2010. (II. 9.) FVM rendelet 4. § (3) bekezdése szerint módosított szöveg.

@@ -10,7 +10,7 @@ b) olyan ismeretekkel rendelkeznek, amelyek biztosítják, hogy a növényvédő
 
 (3) Az eseti engedélynek a friss fogyasztásra szánt, és az élelmiszer-, valamint a takarmány-előállítás céljára szolgáló növényekre vonatkozóan tartalmaznia kell:
 
-a)[^76] az élelmezés-egészségügyi várakozási időt, és
+a)[^80] az élelmezés-egészségügyi várakozási időt, és
 
 b) a növényvédőszer-maradék előírást,
 
@@ -20,11 +20,11 @@ c) a kezelt területről származó termés ideiglenes forgalmazására, korlát
 
 (5) Amennyiben a növény, növényi termék a megengedettnél nagyobb mennyiségű növényvédőszer-maradékot tartalmaz, annak további felhasználhatóságáról a külön jogszabály szerint kell dönteni.
 
-(6)[^77] Az engedély iránti kérelmet az engedélyesen kívül benyújthatják
+(6)[^81] Az engedély iránti kérelmet az engedélyesen kívül benyújthatják
 
 a) azok a földhasználók és termelők, akik mezőgazdasági, illetve erdőgazdasági tevékenységet folytatnak, továbbá
 
 b) azok, akiknek tevékenysége ezt indokolja.
 
-[^76]: A 23. § (3) bekezdésének a) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 29. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^77]: A 23. § (6) bekezdését a 15/2009. (III. 6.) FVM rendelet 21. §-a iktatta be; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^80]: A 23. § (3) bekezdésének a) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 29. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^81]: A 23. § (6) bekezdését a 15/2009. (III. 6.) FVM rendelet 21. §-a iktatta be; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.

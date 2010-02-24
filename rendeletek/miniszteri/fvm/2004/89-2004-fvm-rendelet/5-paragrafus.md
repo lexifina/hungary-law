@@ -40,7 +40,7 @@ a) a növényvédő szerek alkalmazásának feltételeiről,
 
 b) az ember és az állat egészségének, valamint a környezet és a természet védelmének érdekében szükséges alkalmazási előírásokról.
 
-(7) Az engedélyező hatóság a kérelmezőtől az engedélyezési eljárás során további adatok, mellékletek, kísérleti és analitikailag tiszta hatóanyagminták benyújtását kérheti, amennyiben ezek az engedélyezés feltételeinek elbírálásához szükségesek. Ezek teljesítéséig az engedélyező hatóság az engedélyezési eljárást felfüggeszti.
+(7)[^27] Az engedélyező hatóság a kérelmezőtől az engedélyezési eljárás során további adatok, mellékletek, kísérleti és analitikailag tiszta hatóanyagminták benyújtását kérheti, amennyiben ezek az engedélyezés feltételeinek elbírálásához szükségesek.
 
 (8) A kérelmező, illetve az engedélyes az engedélyező hatóságnak köteles azonnal bejelenteni
 
@@ -56,8 +56,10 @@ b) a növényvédő szereknek az ember és az állat egészségére, valamint a 
 
 (12) Az engedély ismételt megadását legkésőbb az érvényességi ideje lejáratát 18 hónappal megelőzően lehet kérni az engedély folyamatosságának fenntartása érdekében. Az engedélyt ismételten meg lehet adni, illetve meg lehet hosszabbítani, ha a növényvédő szer megfelel az (5) bekezdés c)–f) pontjában előírt feltételeknek.
 
-(13) Az engedélyező hatóság az engedélyt a kérelem alapján az ismételt engedély megadására vonatkozó határozat időpontjáig meghosszabbíthatja, ha az ismételt engedély megadásáról az engedély lejártát megelőző 18 hónapon belül nem döntöttek.
+(13)[^28] Az engedélyező hatóság az engedélyt a kérelem alapján az ismételt engedély megadására vonatkozó határozat meghozatalának időpontjáig meghosszabbíthatja, ha az ismételt engedély megadásáról az engedély lejártát megelőző 18 hónapon belül nem döntöttek.
 
 (14) Az engedélyesnek az engedély érvényességi időtartama alatt évenként analitikailag tiszta hatóanyagmintát kell benyújtania az engedélyező hatóságnak.
 
 [^26]: Az 5. § a 15/2009. (III. 6.) FVM rendelet 4. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^27]: Az 5. § (7) bekezdése a 12/2010. (II. 9.) FVM rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^28]: Az 5. § (13) bekezdése a 12/2010. (II. 9.) FVM rendelet 4. § (3) bekezdése szerint módosított szöveg.
