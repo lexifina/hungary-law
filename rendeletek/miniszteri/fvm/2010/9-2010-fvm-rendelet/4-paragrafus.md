@@ -58,7 +58,7 @@ b) az a) pont szerinti bor származási bizonyítványokhoz tartozó szőlő sz�
 
 c) a szerződésben foglalt bor teljes mennyiségére vonatkozóan a borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló rendelet szerinti pincekönyv Hitelesítési részének és Termék-előállítás nyilvántartó lapjának másolatát,
 
-d) amennyiben a szerződésben foglalt bor nem a kérelmező adóraktárában került előállításra, úgy a bérfeldolgozásra vonatkozó szerződés másolatát,
+d)[^1]
 
 e) amennyiben a szerződésben foglalt bor bértárolásban van, úgy a bértárolásra vonatkozó szerződés másolatát.
 
@@ -73,3 +73,5 @@ c) a támogatási kérelem nem tartalmazza a (3) bekezdésben meghatározott ben
 d) a borászati hatóság által kiállított minősítési bizonyítvány alapján a lepárlásra szánt bor minősége nem felel meg a tanácsi rendelet XIb. melléklete 1. pontjában meghatározott feltételeknek.
 
 (9) Támogatás csak a szőlő, illetve bor származási bizonyítvány alapján megállapított területnagyságra nyújtható.
+
+[^1]: A 4. § (7) bekezdés d) pontját a 14/2010. (II. 23.) FVM rendelet 19. § (2) bekezdése hatályon kívül helyezte, azzal, hogy e hatályon kívül helyező rendelkezést a 2010. február 5-től benyújtott hatósági bizonyítvány iránti kérelmek alapján indult eljárásokban is alkalmazni kell.
