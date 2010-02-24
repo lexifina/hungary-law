@@ -1,1 +1,0 @@
-## Átmeneti és záró rendelkezések
