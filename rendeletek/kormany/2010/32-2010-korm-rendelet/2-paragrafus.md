@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad az ENSZ Transz-Európai Vasúti Együttműködési Alapítványi Egyezményhez (a továbbiakban: TER) a 2006. és 2010. közötti időszak tekintetében történő csatlakozásra, valamint a TER Melléklete és függelékei (a továbbiakban: Mellékletek) kötelező hatályának elismerésére.
