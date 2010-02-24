@@ -6,10 +6,12 @@
 
 (3) Ha a házityúk brojler-, illetve a hízópulyka-állomány szalmonella vizsgálatának eredménye pozitív, a vállalkozó kezdeményezésére az MgSzH Központ által erre kijelölt és engedéllyel rendelkező laboratóriumban lehetőség van csoportspecifikus 'O'ellenanyag felhasználásával a Salmonella Enteritidis és Salmonella Typhimurium szerotípusokkal való fertőzöttség gyors kizárására. Ebben az esetben az izolált törzset az 'O' csoporttipizálást végző laboratórium küldi meg az NRL-be a szerotípus pontos meghatározására.
 
-(4) Amennyiben csoport-specifikus 'O' ellenanyag felhasználásával a Salmonella Typhimurium, illetve Salmonella Enteritidis fertőzöttség kizárható, akkor az adott házityúk brojler- vagy hízópulyka-állomány a kerületi hivatal határozatával bocsátható bocsátható. Egyidejűleg a (2) és az (5) bekezdés szerinti intézkedéseket is alkalmazni kell.
+(4)[^1] Amennyiben csoport-specifikus 'O' ellenanyag felhasználásával a Salmonella Typhimurium, illetve Salmonella Enteritidis fertőzöttség kizárható, akkor az adott házityúk brojler- vagy hízópulyka-állomány a kerületi hivatal határozatával vágásra bocsátható. Egyidejűleg a (2) és az (5) bekezdés szerinti intézkedéseket is alkalmazni kell.
 
 (5) Amennyiben a szerotipizálás során az NRL a Salmonella Enteritidistől, illetve Salmonella Typhimuriumtól eltérő szerotípussal való fertőzöttséget állapít meg, a kerületi hivatal – amennyiben azzal vállalkozó rendelkezik – haladéktalanul visszavonja az állomány adott szerotípusra kiterjedő mentességről szóló hatósági bizonyítványát. A vállalkozó köteles gondoskodni az állomány termelési ciklusát követően a tartási hely (az épület, annak felszerelési és berendezési tárgyai, a hozzá tartozó helyiségek és közlekedő utak) takarításáról és az Állategészségügyi Szabályzat kiadásáról szóló külön jogszabály szerinti szigorított fertőtlenítéséről, valamint rágcsáló- és rovarirtásáról.
 
 (6) A vállalkozó az érintett légteret csak akkor telepítheti be újra, ha a fertőtlenítés hatékonyságáról környezeti tamponminta negatív eredményű laboratóriumi vizsgálata alapján megbizonyosodik. A környezeti tamponminta mintavételi és vizsgálati költségei a vállalkozót terhelik.
 
 (7) Amennyiben házityúk tenyészállomány esetében az NRL olyan Salmonella szerotípussal való fertőzöttséget állapít meg, amely az 1003/2005/EK rendelet szerinti közösségi célkitűzés körébe tartozik, a takarmány vonatkozásában a 12. § (9) bekezdése szerint, a légtér újbóli betelepítése tekintetében a 12. § (8) bekezdése szerint kell eljárni.
+
+[^1]: A 11. § (4) bekezdése a 12/2010. (II. 9.) FVM rendelet 4. § (4) bekezdése szerint módosított szöveg.
