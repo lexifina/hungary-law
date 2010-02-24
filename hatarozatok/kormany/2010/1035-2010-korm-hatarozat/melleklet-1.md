@@ -14,7 +14,7 @@
 
 ## Határidő: azonnal
 
-1. számú melléklet az 1035/2010. (II. 12.) Korm. határozathoz
+1. számú melléklet az 1035/2010. (II. 12.) Korm. határozathoz[^2]
 
 ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA*
 
@@ -22,4 +22,6 @@ a Kormány hatáskörében
 
 Költségvetési év: 2010.
 
-| Millió forintban, egy tizedessel |
+| Ezer forintban |
+
+[^2]: Az 1. számú melléklet az 1041/2010. (II. 23.) Korm. határozat 1. pontja szerint módosított szöveg.
