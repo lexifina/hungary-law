@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-45-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-01-01 | 2006-45-20-0B.1 | 45/2006. (XII. 27.) EüM rendelet |
+| 2010-02-24 | 2006-45-20-0B.2 | 4/2010. (II. 9.) EüM rendelet |
