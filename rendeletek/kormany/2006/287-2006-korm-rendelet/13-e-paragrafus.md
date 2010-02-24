@@ -1,4 +1,4 @@
-13/E. §[^24] (1) Amennyiben az egészségügyi szolgáltató vagy szervezeti egysége egészségügyi szolgáltatást a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 5/B. § k) pontja szerinti intézményi várólista alapján végez, és az intézményi várólistával érintett szakma megszűnik, a várólistára felvett beteget a beteg választása alapján annak az egészségügyi szolgáltatónak kell átadni, amelyik
+13/E. §[^30] (1) Amennyiben az egészségügyi szolgáltató vagy szervezeti egysége egészségügyi szolgáltatást a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 5/B. § k) pontja szerinti intézményi várólista alapján végez, és az intézményi várólistával érintett szakma megszűnik, a várólistára felvett beteget a beteg választása alapján annak az egészségügyi szolgáltatónak kell átadni, amelyik
 
 a) az átadó szolgáltató által ellátott feladatot a továbbiakban végzi, vagy
 
@@ -12,4 +12,4 @@ b) az adott ellátás tekintetében a biztosított ellátására területileg k�
 
 (5) Az (1)–(4) bekezdés szerinti eljárással szemben az Egészségbiztosítási Felügyeletnél lehet panasszal élni.
 
-[^24]: A 13/E. §-t a 72/2009. (IV. 3.) Korm. rendelet 2. §-a iktatta be.
+[^30]: A 13/E. §-t a 72/2009. (IV. 3.) Korm. rendelet 2. §-a iktatta be.

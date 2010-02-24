@@ -16,7 +16,7 @@
 
 | Gerincsérv műtétek | 58033–58036. |
 
-| Sebészet | Epekövesség miatti beavatkozás feltárás | 55110; 5112; 55119; 55131. |
+| Sebészet | Epekövesség miatti beavatkozás feltárás | 55110; 55112; 55119; 55131. |
 
 | Epekövesség miatti beavatkozás laparaszkópia | 55118; 55137–55138. |
 
@@ -38,7 +38,7 @@
 
 | Nőgyógyászat | Nőgyógyászati műtétek nem malignus folyamatokban | 56850; 56860; 56540; 56550; 56560; 56511; 56710; 56721; 56722. |
 
-6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^30]
+6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^36]
 
 Várólista jelentés az Egészségbiztosítási Felügyelet részére
 
@@ -90,4 +90,4 @@ A jelentés adattartalma a következő:
 
 | Nincs esemény (várakozás) Csak igénybevett ellátás estén kitöltendő. | NES |
 
-[^30]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, e módosító rendelet 6. § (1) bekezdése alapján a betegfogadási listákat és az intézményi várólistákat 2008. február 1. napjáig kell kialakítani. A 6. számú melléklet a 43/2008. (II. 29.) Korm. rendelet 4. § (4) bekezdése, a 69/2008. (III. 31.) Korm. rendelet 7. § (7) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 7. § (1) bekezdését.
+[^36]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, e módosító rendelet 6. § (1) bekezdése alapján a betegfogadási listákat és az intézményi várólistákat 2008. február 1. napjáig kell kialakítani. A 6. számú melléklet a 43/2008. (II. 29.) Korm. rendelet 4. § (4) bekezdése, a 69/2008. (III. 31.) Korm. rendelet 7. § (7) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 7. § (1) bekezdését.

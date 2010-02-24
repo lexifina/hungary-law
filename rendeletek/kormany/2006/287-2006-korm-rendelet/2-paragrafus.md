@@ -8,9 +8,9 @@ c) szervriadó: az az eseménysorozat, amelynek időtartama a potenciális donor
 
 d) vérsejtképző őssejt: csontvelő,
 
-e)[^2] betegfogadási lista: az Ebtv. 5/B. §-ának m) pontja szerinti lista,
+e)[^3] betegfogadási lista: az Ebtv. 5/B. §-ának m) pontja szerinti lista,
 
-f)[^3] azonnali ellátást igénylő eset: az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ának i) pontja szerinti sürgős szükség.
+f)[^4] azonnali ellátást igénylő eset: az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ának i) pontja szerinti sürgős szükség.
 
-[^2]: A 2. § e) pontját a 8/2008. (I. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 69/2008. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § f) pontját a 8/2008. (I. 23.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 2. § e) pontját a 8/2008. (I. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 69/2008. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § f) pontját a 8/2008. (I. 23.) Korm. rendelet 2. §-a iktatta be.
