@@ -4,4 +4,7 @@
 
 (2) A 2005. évben kifizetett támogatás és az (1) bekezdés alapján fizetett támogatás összege nem lehet magasabb, mint a 2004. évben kifizetett támogatás.
 
+(3)[^2] Az (1)–(2) bekezdés alapján történő kifizetésre az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 72. § (12) bekezdésében foglaltakat kell alkalmazni.
+
 [^1]: A 12. § ugyanezen § rendelkezése alapján 2008. január 2-án hatályát vesztette. A 12. §-t újonnan a 27/2010. (II. 14.) Korm. rendelet iktatta be.
+[^2]: A 12. § (3) bekezdését a 34/2010. (II. 24.) Korm. rendelet 3. § (4) bekezdése iktatta be.
