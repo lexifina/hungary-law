@@ -1,6 +1,6 @@
 ## első fokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal területi szervét, másodfokú eljárásban a Mezőgazdasági Szakigazgatási Hivatal Központját szakhatóságként jelöli ki. A részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetése tárgyában hozott határozatot a környezetvédelmi, természetvédelmi és vízügyi felügyelőséggel is közölni kell, ha az érintett ingatlan védett természeti terület vagy Natura 2000 terület.
 
-## II/A. Fejezet[^32]
+## II/A. Fejezet[^33]
 
 ## TELEKALAKÍTÁSI ELJÁRÁS
 
@@ -60,4 +60,4 @@ f) az igazgatási szolgáltatási díj befizetésének igazolását.
 
 (8) A telekalakítási eljárás megindítása iránti kérelemhez minden esetben mellékelni kell a külön jogszabályban meghatározott geodéziai tervezési szakterületen építészeti-műszaki tervezési jogosultsággal és ingatlanrendező földmérő minősítéssel rendelkező földmérő által elkészített telekalakítási dokumentációt. A telekalakítási dokumentáció a 3. mellékletben felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében.
 
-[^32]: A II/A. Fejezetet (17/A-17/C. §-t) a 246/2009. (XI. 3.) Korm. rendelet 2. §-a iktatta be, alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^33]: A II/A. Fejezetet (17/A-17/C. §-t) a 246/2009. (XI. 3.) Korm. rendelet 2. §-a iktatta be, alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.

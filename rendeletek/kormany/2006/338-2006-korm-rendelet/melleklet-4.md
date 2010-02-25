@@ -50,7 +50,7 @@
 
 4. melléklet a
 
-338/2006. (XII. 23.) Korm. rendelethez[^42]
+338/2006. (XII. 23.) Korm. rendelethez[^43]
 
 A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
@@ -76,4 +76,4 @@ A földhivatal telekalakítási eljárásában közreműködő szakhatóságok
 
 | 7. | Erdő megosztása. | A fenntartható erdőgazdálkodás vizsgálata az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. §-a alapján. | Mezőgazdasági Szakigazgatási Hivatal területi szerve | Mezőgazdasági Szakigazgatási Hivatal Központja |
 
-[^42]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^43]: A 4. mellékletet a 246/2009. (XI. 3.) Korm. rendelet 3. §-a iktatta be, alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.

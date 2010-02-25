@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-338-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2006-338-20-22.11 | 338/2006. (XII. 23.) Korm. rendelet |
+| 2010-02-25 | 2006-338-20-22.12 | 31/2010. (II. 22.) Korm. rendelet |
