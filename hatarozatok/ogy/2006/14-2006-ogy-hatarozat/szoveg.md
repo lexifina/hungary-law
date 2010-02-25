@@ -100,23 +100,23 @@
 
 |  | Alexa György17 | (MSZP) |
 
-|  | Horváth Csaba | (MSZP) |
+|  | Puch László18 | (MSZP) |
 
-|  | Kiss Ferenc18 | (MSZP) |
+|  | Kiss Ferenc19 | (MSZP) |
 
 |  | Dr. Kálmán András | (MSZP) |
 
 |  | Dr. Kapolyi László | (MSZP) |
 
-|  | dr. Tompa Sándor19 | (MSZP) |
+|  | dr. Tompa Sándor20 | (MSZP) |
 
-|  | dr. Szabadkai Tamás20 | (MSZP) |
+|  | dr. Szabadkai Tamás21 | (MSZP) |
 
-|  | dr. Szanyi Tibor21 | (MSZP) |
+|  | dr. Szanyi Tibor22 | (MSZP) |
 
-|  | dr. Baráth Etele22 | (MSZP) |
+|  | dr. Baráth Etele23 | (MSZP) |
 
-|  | Nagy Sándor23 | (Fidesz) |
+|  | Nagy Sándor24 | (Fidesz) |
 
 |  | Bencsik János | (Fidesz) |
 
@@ -130,17 +130,17 @@
 
 |  | Püski András | (Fidesz) |
 
-|  | Koszorús László24 | (Fidesz) |
+|  | Koszorús László25 | (Fidesz) |
 
 |  | Dr. Selmeczi Gabriella | (Fidesz) |
 
 |  | Szatmáry Kristóf | (Fidesz) |
 
-|  | Molnár Béla25 | (KDNP) |
+|  | Molnár Béla26 | (KDNP) |
 
-|  | Lakos Imre26 | (SZDSZ) |
+|  | Lakos Imre27 | (SZDSZ) |
 
-|  | Dr. Vas János27 | (MDF) |
+|  | Dr. Vas János28 | (MDF) |
 
 13 A 49/2008. (V. 8.) OGY határozattal megállapított szöveg.
 
@@ -152,35 +152,37 @@
 
 17 A 123/2008. (XII. 3.) OGY határozattal megállapított szöveg.
 
-18 A 49/2008. (V. 8.) OGY határozattal megállapított szöveg.
+18 A 17/2010. (II. 25.) OGY határozattal megállapított szöveg.
 
-19 Az 52/2006. (XI. 15.) OGY határozattal megállapított szöveg.
+19 A 49/2008. (V. 8.) OGY határozattal megállapított szöveg.
 
-20 A 82/2008. (IX. 18.) OGY határozattal megállapított szöveg.
+20 Az 52/2006. (XI. 15.) OGY határozattal megállapított szöveg.
 
-21 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
+21 A 82/2008. (IX. 18.) OGY határozattal megállapított szöveg.
 
 22 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-23 A 46/2006. (X. 27.) OGY határozattal megállapított szöveg.
+23 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-24 A 19/2007. (III. 14.) OGY határozattal megállapított szöveg.
+24 A 46/2006. (X. 27.) OGY határozattal megállapított szöveg.
 
-25 A 37/2008. (IV. 17.) OGY határozattal megállapított szöveg.
+25 A 19/2007. (III. 14.) OGY határozattal megállapított szöveg.
 
-26 A 28/2006. (VII. 5.) OGY határozattal megállapított szöveg.
+26 A 37/2008. (IV. 17.) OGY határozattal megállapított szöveg.
 
-27 A 114/2008. (X. 17.) OGY határozattal megállapított szöveg.
+27 A 28/2006. (VII. 5.) OGY határozattal megállapított szöveg.
+
+28 A 114/2008. (X. 17.) OGY határozattal megállapított szöveg.
 
 3. Ifjúsági, szociális és családügyi bizottság (29 fő)
 
-| Elnöke: | dr. Vidorné dr. Szabó Györgyi28 | (MSZP) |
+| Elnöke: | dr. Vidorné dr. Szabó Györgyi29 | (MSZP) |
 
 | Alelnöke: | Soltész Miklós | (KDNP) |
 
-|  | Winkfein Csaba29 | (MSZP) |
+|  | Winkfein Csaba30 | (MSZP) |
 
-| Tagjai: | Deák Istvánné30 | (MSZP) |
+| Tagjai: | Deák Istvánné31 | (MSZP) |
 
 |  | Dér Zsuzsanna | (MSZP) |
 
@@ -188,11 +190,11 @@
 
 |  | Farkas Imre | (MSZP) |
 
-|  | dr. Szabóné Müller Tímea31 | (MSZP) |
+|  | dr. Szabóné Müller Tímea32 | (MSZP) |
 
 |  | Dr. Juhászné Lévai Katalin | (MSZP) |
 
-|  | Bókay Endre32 | (MSZP) |
+|  | Bókay Endre33 | (MSZP) |
 
 |  | Lombos István | (MSZP) |
 
@@ -202,17 +204,17 @@
 
 |  | Török Zsolt | (MSZP) |
 
-|  | Rónavölgyi Endréné33 | (MSZP) |
+|  | Rónavölgyi Endréné34 | (MSZP) |
 
-|  | dr. Nyul István34 | (MSZP) |
+|  | dr. Nyul István35 | (MSZP) |
 
-|  | dr. Dragon Pál35 | (Fidesz) |
+|  | dr. Dragon Pál36 | (Fidesz) |
 
-|  | dr. Hoppál Péter36 | (Fidesz) |
+|  | dr. Hoppál Péter37 | (Fidesz) |
 
-|  | Tóth András37 | (Fidesz) |
+|  | Tóth András38 | (Fidesz) |
 
-|  | dr. Tiba István38 | (Fidesz) |
+|  | dr. Tiba István39 | (Fidesz) |
 
 |  | Hirt Ferenc | (Fidesz) |
 
@@ -232,27 +234,27 @@
 
 |  | Béki Gabriella | (SZDSZ) |
 
-28 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
-
 29 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
 
-30 A 49/2008. (V. 8.) OGY határozattal megállapított szöveg.
+30 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
 
-31 A 4/2008. (II. 21.) OGY határozattal megállapított szöveg.
+31 A 49/2008. (V. 8.) OGY határozattal megállapított szöveg.
 
-32 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
+32 A 4/2008. (II. 21.) OGY határozattal megállapított szöveg.
 
-33 A 34/2009. (IV. 30.) OGY határozattal megállapított szöveg.
+33 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
 
-34 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
+34 A 34/2009. (IV. 30.) OGY határozattal megállapított szöveg.
 
-35 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
+35 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-36 A 26/2009. (IV. 2.) OGY határozattal megállapított szöveg.
+36 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
 
-37 A 108/2008. (X. 10.) OGY határozattal megállapított szöveg.
+37 A 26/2009. (IV. 2.) OGY határozattal megállapított szöveg.
 
-38 A 114/2008. (X. 17.) OGY határozattal megállapított szöveg.
+38 A 108/2008. (X. 10.) OGY határozattal megállapított szöveg.
+
+39 A 114/2008. (X. 17.) OGY határozattal megállapított szöveg.
 
 4. Költségvetési, pénzügyi és számvevőszéki bizottság (29 fő)
 
@@ -262,31 +264,31 @@
 
 |  | Domokos László | (Fidesz) |
 
-| Tagjai: | Végh Tibor39 | (MSZP) |
+| Tagjai: | Végh Tibor40 | (MSZP) |
 
 |  | Barabásné Czövek Ágnes | (MSZP) |
 
 |  | Boldvai László | (MSZP) |
 
-|  | Puch László40 | (MSZP) |
+|  | Puch László41 | (MSZP) |
 
 |  | Dr. Kékesi Tibor | (MSZP) |
 
-|  | Tukacs István41 | (MSZP) |
+|  | Tukacs István42 | (MSZP) |
 
 |  | Kovács Tibor | (MSZP) |
 
 |  | Molnár László | (MSZP) |
 
-|  | Molnár Albert42 | (MSZP) |
+|  | Molnár Albert43 | (MSZP) |
 
 |  | Schwartz Béla | (MSZP) |
 
-|  | Farkas Imre43 | (MSZP) |
+|  | Farkas Imre44 | (MSZP) |
 
 |  | Szabados József | (MSZP) |
 
-|  | Keller László44 | (MSZP) |
+|  | Keller László45 | (MSZP) |
 
 |  | Babák Mihály | (Fidesz) |
 
@@ -294,67 +296,67 @@
 
 |  | Dr. Dancsó József | (Fidesz) |
 
-|  | Schmidt Ferenc45 | (Fidesz) |
+|  | Schmidt Ferenc46 | (Fidesz) |
 
-|  | Ágh Péter46 | (Fidesz) |
+|  | Ágh Péter47 | (Fidesz) |
 
 |  | Mádi László | (Fidesz) |
 
 |  | Szijjártó Péter | (Fidesz) |
 
-|  | Borsos József47 | (Fidesz) |
+|  | Borsos József48 | (Fidesz) |
 
 |  | Tóth András | (Fidesz) |
 
 |  | Dr. Hargitai János | (KDNP) |
 
-|  | dr. Kóka János48 | (SZDSZ) |
+|  | dr. Kóka János49 | (SZDSZ) |
 
-|  | Horn Gábor49 | (SZDSZ) |
+|  | Horn Gábor50 | (SZDSZ) |
 
 |  | Molnár Oszkár |  |
 
-39 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
+40 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-40 A 38/2009. (V. 12.) OGY határozattal megállapított szöveg.
+41 A 38/2009. (V. 12.) OGY határozattal megállapított szöveg.
 
-41 A 30/2009. (IV. 24.) OGY határozattal megállapított szöveg.
-
-42 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
+42 A 30/2009. (IV. 24.) OGY határozattal megállapított szöveg.
 
 43 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-44 A 38/2009. (V. 12.) OGY határozattal megállapított szöveg.
+44 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-45 A 71/2007. (IX. 21.) OGY határozattal megállapított szöveg.
+45 A 38/2009. (V. 12.) OGY határozattal megállapított szöveg.
 
-46 A 114/2008. (X. 17.) OGY határozattal megállapított szöveg.
+46 A 71/2007. (IX. 21.) OGY határozattal megállapított szöveg.
 
-47 A 108/2008. (X. 10.) OGY határozattal megállapított szöveg.
+47 A 114/2008. (X. 17.) OGY határozattal megállapított szöveg.
 
-48 A 97/2008. (IX. 26.) OGY határozattal megállapított szöveg.
+48 A 108/2008. (X. 10.) OGY határozattal megállapított szöveg.
 
-49 Az 53/2008. (V. 14.) OGY határozattal megállapított szöveg.
+49 A 97/2008. (IX. 26.) OGY határozattal megállapított szöveg.
+
+50 Az 53/2008. (V. 14.) OGY határozattal megállapított szöveg.
 
 5. Önkormányzati és területfejlesztési bizottság (29 fő)
 
-| Elnöke: | Gy. Németh Erzsébet50 | (MSZP) |
+| Elnöke: | Gy. Németh Erzsébet51 | (MSZP) |
 
 | Alelnöke: | Dr. Kovács Zoltán | (Fidesz) |
 
-|  | Balogh József51 | (MSZP) |
+|  | Balogh József52 | (MSZP) |
 
-|  | Szabó György52 | (MSZP) |
+|  | Szabó György53 | (MSZP) |
 
-| Tagjai: | Hajdu László53 | (MSZP) |
+| Tagjai: | Hajdu László54 | (MSZP) |
 
 |  | Dr. Buzás Péter | (MSZP) |
 
 |  | Ecsődi László | (MSZP) |
 
-|  | dr. Lampert Mónika54 | (MSZP) |
+|  | dr. Lampert Mónika55 | (MSZP) |
 
-|  | dr. Steiner Pál55 | (MSZP) |
+|  | dr. Steiner Pál56 | (MSZP) |
 
 |  | Dr. Mester László | (MSZP) |
 
@@ -364,7 +366,7 @@
 
 |  | Sós Tamás | (MSZP) |
 
-|  | Molnár Gyula56 | (MSZP) |
+|  | Molnár Gyula57 | (MSZP) |
 
 |  | Warvasovszky Tihamér | (MSZP) |
 
@@ -390,31 +392,31 @@
 
 |  | Nógrádi László | (KDNP) |
 
-|  | Geberle Erzsébet57 | (SZDSZ) |
+|  | Geberle Erzsébet58 | (SZDSZ) |
 
-|  | dr. Bácskai János58 | (SZDSZ) |
+|  | dr. Bácskai János59 | (SZDSZ) |
 
-|  | Hock Zoltán59 |  |
+|  | Hock Zoltán60 |  |
 
-50 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
-
-51 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
+51 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
 
 52 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-53 A 2/2008. (II. 14.) OGY határozattal megállapított szöveg.
+53 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-54 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
+54 A 2/2008. (II. 14.) OGY határozattal megállapított szöveg.
 
-55 A 2/2008. (II. 14.) OGY határozattal megállapított szöveg.
+55 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
 
-56 A 123/2008. (XII. 3.) OGY határozattal megállapított szöveg.
+56 A 2/2008. (II. 14.) OGY határozattal megállapított szöveg.
 
-57 Az 53/2008. (V. 14.) OGY határozattal megállapított szöveg.
+57 A 123/2008. (XII. 3.) OGY határozattal megállapított szöveg.
 
-58 A 3/2009. (II. 19.) OGY határozattal megállapított szöveg.
+58 Az 53/2008. (V. 14.) OGY határozattal megállapított szöveg.
 
-59 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
+59 A 3/2009. (II. 19.) OGY határozattal megállapított szöveg.
+
+60 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
 
 6. Egészségügyi bizottság (23 fő)
 
@@ -422,7 +424,7 @@
 
 | Alelnöke: | Dr. Mikola István | (Fidesz) |
 
-|  | dr. Schvarcz Tibor60 | (MSZP) |
+|  | dr. Schvarcz Tibor61 | (MSZP) |
 
 | Tagjai: | Dr. Czinege Imre | (MSZP) |
 
@@ -430,7 +432,7 @@
 
 |  | Gyula Ferencné | (MSZP) |
 
-|  | dr. Havas Szófia61 | (MSZP) |
+|  | dr. Havas Szófia62 | (MSZP) |
 
 |  | Dr. Nyul István | (MSZP) |
 
@@ -440,9 +442,9 @@
 
 |  | Dr. Tóth István | (MSZP) |
 
-|  | Fetser János62 | (MSZP) |
+|  | Fetser János63 | (MSZP) |
 
-|  | dr. Juhászné Lévai Katalin63 | (MSZP) |
+|  | dr. Juhászné Lévai Katalin64 | (MSZP) |
 
 |  | Dr. Heintz Tamás | (Fidesz) |
 
@@ -460,21 +462,21 @@
 
 |  | Dr. Puskás Tivadar | (KDNP) |
 
-|  | Velkey Gábor64 | (SZDSZ) |
+|  | Velkey Gábor65 | (SZDSZ) |
 
-|  | Dr. Csáky András65 |  |
+|  | Dr. Csáky András66 |  |
 
-60 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
+61 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-61 A 71/2007. (IX. 21.) OGY határozattal megállapított szöveg.
+62 A 71/2007. (IX. 21.) OGY határozattal megállapított szöveg.
 
-62 A 123/2008. (XII. 3.) OGY határozattal megállapított szöveg.
+63 A 123/2008. (XII. 3.) OGY határozattal megállapított szöveg.
 
-63 A 60/2007. (VI. 27.) OGY határozattal megállapított szöveg.
+64 A 60/2007. (VI. 27.) OGY határozattal megállapított szöveg.
 
-64 A 98/2009. (XII. 15.) OGY határozattal megállapított szöveg.
+65 A 98/2009. (XII. 15.) OGY határozattal megállapított szöveg.
 
-65 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
+66 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
 
 7. Oktatási és tudományos bizottság (23 fő)
 
@@ -488,7 +490,7 @@
 
 |  | Deák Istvánné | (MSZP) |
 
-|  | Földesi Zoltán66 | (MSZP) |
+|  | Földesi Zoltán67 | (MSZP) |
 
 |  | Katanics Sándor | (MSZP) |
 
@@ -496,7 +498,7 @@
 
 |  | Mohácsi József | (MSZP) |
 
-|  | dr. Kolber István67 | (MSZP) |
+|  | dr. Kolber István68 | (MSZP) |
 
 |  | Rózsa Endre | (MSZP) |
 
@@ -506,7 +508,7 @@
 
 |  | Tóth Tiborné dr. | (MSZP) |
 
-|  | Cseresnyés Péter68 | (Fidesz) |
+|  | Cseresnyés Péter69 | (Fidesz) |
 
 |  | Pánczél Károly | (Fidesz) |
 
@@ -522,27 +524,27 @@
 
 |  | Kuzma László | (KDNP) |
 
-|  | Almássy Kornél69 | (MDF) |
+|  | Almássy Kornél70 | (MDF) |
 
-66 A 28/2006. (VII. 5.) OGY határozattal megállapított szöveg.
+67 A 28/2006. (VII. 5.) OGY határozattal megállapított szöveg.
 
-67 A 34/2009. (IV. 30.) OGY határozattal megállapított szöveg.
+68 A 34/2009. (IV. 30.) OGY határozattal megállapított szöveg.
 
-68 A 71/2008. (VI. 10.) OGY határozattal megállapított szöveg.
+69 A 71/2008. (VI. 10.) OGY határozattal megállapított szöveg.
 
-69 A 108/2008. (X. 10.) OGY határozattal megállapított szöveg.
+70 A 108/2008. (X. 10.) OGY határozattal megállapított szöveg.
 
 8. Mezőgazdasági bizottság (22 fő)
 
 | Elnöke: | Font Sándor | (Fidesz) |
 
-| Alelnökei: | Herbály Imre70 | (MSZP) |
+| Alelnökei: | Herbály Imre71 | (MSZP) |
 
 |  | Jakab István | (Fidesz) |
 
 | Tagjai: | Bedő Tamás | (MSZP) |
 
-|  | Borenszki Ervin71 | (MSZP) |
+|  | Borenszki Ervin72 | (MSZP) |
 
 |  | Csontos János | (MSZP) |
 
@@ -550,13 +552,13 @@
 
 |  | Godó Lajos | (MSZP) |
 
-|  | Frankné dr. Kovács Szilvia72 | (MSZP) |
+|  | Frankné dr. Kovács Szilvia73 | (MSZP) |
 
 |  | Dr. Karsai József | (MSZP) |
 
 |  | Kis Péter László | (MSZP) |
 
-|  | dr. Legény Zsolt73 | (MSZP) |
+|  | dr. Legény Zsolt74 | (MSZP) |
 
 |  | Zatykó János | (MSZP) |
 
@@ -566,31 +568,31 @@
 
 |  | Czerván György | (Fidesz) |
 
-|  | Kékkői Zoltán József74 | (Fidesz) |
+|  | Kékkői Zoltán József75 | (Fidesz) |
 
 |  | Járvás István | (Fidesz) |
 
-|  | Bodó Imre75 | (Fidesz) |
+|  | Bodó Imre76 | (Fidesz) |
 
 |  | Örvendi László József | (Fidesz) |
 
 |  | Dr. Medgyasszay László | (KDNP) |
 
-|  | Gulyás József76 | (SZDSZ) |
-
-70 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
+|  | Gulyás József77 | (SZDSZ) |
 
 71 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-72 A 21/2008. (III. 12.) OGY határozattal megállapított szöveg.
+72 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-73 A 4/2010. (II. 18.) OGY határozattal megállapított szöveg.
+73 A 21/2008. (III. 12.) OGY határozattal megállapított szöveg.
 
-74 Az 55/2007. (VI. 20.) OGY határozattal megállapított szöveg.
+74 A 4/2010. (II. 18.) OGY határozattal megállapított szöveg.
 
-75 A 101/2007. (XI. 22.) OGY határozattal megállapított szöveg.
+75 Az 55/2007. (VI. 20.) OGY határozattal megállapított szöveg.
 
-76 A 98/2009. (XII. 15.) OGY határozattal megállapított szöveg.
+76 A 101/2007. (XI. 22.) OGY határozattal megállapított szöveg.
+
+77 A 98/2009. (XII. 15.) OGY határozattal megállapított szöveg.
 
 9. Európai ügyek bizottsága (20 fő)
 
@@ -606,15 +608,15 @@
 
 |  | Dr. Legény Zsolt | (MSZP) |
 
-|  | dr. Szanyi Tibor77 | (MSZP) |
+|  | dr. Szanyi Tibor78 | (MSZP) |
 
 |  | Szirbik Imre | (MSZP) |
 
-|  | Gál J. Zoltán78 | (MSZP) |
+|  | Gál J. Zoltán79 | (MSZP) |
 
-|  | dr. Veres János79 | (MSZP) |
+|  | dr. Veres János80 | (MSZP) |
 
-|  | Szűcs Erika80 | (MSZP) |
+|  | Szűcs Erika81 | (MSZP) |
 
 |  | Veress József | (MSZP) |
 
@@ -632,17 +634,17 @@
 
 |  | Pelczné dr. Gáll Ildikó | (Fidesz) |
 
-|  | Dr. Csapody Miklós81 |  |
+|  | Dr. Csapody Miklós82 |  |
 
-77 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
+78 Az 56/2008. (V. 22.) OGY határozattal megállapított szöveg.
 
-78 A 4/2008. (II. 21.) OGY határozattal megállapított szöveg.
+79 A 4/2008. (II. 21.) OGY határozattal megállapított szöveg.
 
-79 A 46/2009. (V. 22.) OGY határozattal megállapított szöveg.
+80 A 46/2009. (V. 22.) OGY határozattal megállapított szöveg.
 
-80 A 30/2009. (IV. 24.) OGY határozattal megállapított szöveg.
+81 A 30/2009. (IV. 24.) OGY határozattal megállapított szöveg.
 
-81 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
+82 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
 
 10. Külügyi és határon túli magyarok bizottsága (20 fő)
 
@@ -650,7 +652,7 @@
 
 | Alelnöke: | Dr. Kozma József | (MSZP) |
 
-|  | dr. Szakács László82 | (MSZP) |
+|  | dr. Szakács László83 | (MSZP) |
 
 | Tagjai: | Dr. Gedei József | (MSZP) |
 
@@ -662,11 +664,11 @@
 
 |  | Kránitz László | (MSZP) |
 
-|  | Kőhegyi István83 | (MSZP) |
+|  | Kőhegyi István84 | (MSZP) |
 
 |  | Dr. Varga László | (MSZP) |
 
-|  | Velez Árpád84 | (MSZP) |
+|  | Velez Árpád85 | (MSZP) |
 
 |  | Balla Mihály | (Fidesz) |
 
@@ -682,19 +684,19 @@
 
 |  | Potápi Árpád | (Fidesz) |
 
-|  | dr. Nagy Andor85 | (Fidesz) |
+|  | dr. Nagy Andor86 | (Fidesz) |
 
-|  | Kovács Kálmán86 | (SZDSZ) |
+|  | Kovács Kálmán87 | (SZDSZ) |
 
-82 A 34/2009. (IV. 30.) OGY határozattal megállapított szöveg.
+83 A 34/2009. (IV. 30.) OGY határozattal megállapított szöveg.
 
-83 A 46/2009. (V. 22.) OGY határozattal megállapított szöveg.
+84 A 46/2009. (V. 22.) OGY határozattal megállapított szöveg.
 
-84 A 30/2009. (IV. 24.) OGY határozattal megállapított szöveg.
+85 A 30/2009. (IV. 24.) OGY határozattal megállapított szöveg.
 
-85 A 84/2007. (X. 5.) OGY határozattal megállapított szöveg.
+86 A 84/2007. (X. 5.) OGY határozattal megállapított szöveg.
 
-86 Az 53/2008. (V. 14.) OGY határozattal megállapított szöveg.
+87 Az 53/2008. (V. 14.) OGY határozattal megállapított szöveg.
 
 11. Emberi jogi, kisebbségi, civil- és vallásügyi bizottság (19 fő)
 
@@ -706,7 +708,7 @@
 
 | Tagjai: | Donáth László | (MSZP) |
 
-|  | Teleki László87 | (MSZP) |
+|  | Teleki László88 | (MSZP) |
 
 |  | Godó Lajos | (MSZP) |
 
@@ -714,7 +716,7 @@
 
 |  | Nyakó István | (MSZP) |
 
-|  | dr. Wiener György88 | (MSZP) |
+|  | dr. Wiener György89 | (MSZP) |
 
 |  | Dr. Szabóné Müller Tímea | (MSZP) |
 
@@ -724,9 +726,9 @@
 
 |  | Farkas Flórián | (Fidesz) |
 
-|  | Ékes Ilona89 | (Fidesz) |
+|  | Ékes Ilona90 | (Fidesz) |
 
-|  | dr. Fazekas Sándor90 | (Fidesz) |
+|  | dr. Fazekas Sándor91 | (Fidesz) |
 
 |  | Varga József | (Fidesz) |
 
@@ -734,29 +736,29 @@
 
 |  | Gusztos Péter | (SZDSZ) |
 
-|  | Pettkó András91 |  |
-
-87 A 49/2006. (XI. 9.) OGY határozattal megállapított szöveg.
+|  | Pettkó András92 |  |
 
 88 A 49/2006. (XI. 9.) OGY határozattal megállapított szöveg.
 
-89 A 40/2006. (X. 10.) OGY határozattal megállapított szöveg.
+89 A 49/2006. (XI. 9.) OGY határozattal megállapított szöveg.
 
-90 A 71/2007. (IX. 21.) OGY határozattal megállapított szöveg.
+90 A 40/2006. (X. 10.) OGY határozattal megállapított szöveg.
 
-91 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
+91 A 71/2007. (IX. 21.) OGY határozattal megállapított szöveg.
+
+92 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
 
 12. Foglalkoztatási és munkaügyi bizottság (19 fő)
 
-| Elnöke: | Gúr Nándor92 | (MSZP) |
+| Elnöke: | Gúr Nándor93 | (MSZP) |
 
 | Alelnöke: | Bernáth Ildikó | (Fidesz) |
 
-|  | Filló Pál93 | (MSZP) |
+|  | Filló Pál94 | (MSZP) |
 
 | Tagjai: | Dr. Bóth János István | (MSZP) |
 
-|  | Vécsi István94 | (MSZP) |
+|  | Vécsi István95 | (MSZP) |
 
 |  | Kiss Ferenc | (MSZP) |
 
@@ -766,7 +768,7 @@
 
 |  | Rózsa Endre | (MSZP) |
 
-|  | Lénárt László95 | (MSZP) |
+|  | Lénárt László96 | (MSZP) |
 
 |  | Dr. Czira Szabolcs | (Fidesz) |
 
@@ -774,43 +776,43 @@
 
 |  | Kontur Pál | (Fidesz) |
 
-|  | Herényi Károly96 |  |
+|  | Herényi Károly97 |  |
 
 |  | Nagy István | (Fidesz) |
 
-|  | Gyopáros Alpár Ádám97 | (Fidesz) |
+|  | Gyopáros Alpár Ádám98 | (Fidesz) |
 
 |  | Rácz István | (Fidesz) |
 
 |  | Wittner Mária | (Fidesz) |
 
-|  | dr. Magyar Bálint98 | (SZDSZ) |
-
-92 A 4/2008. (II. 21.) OGY határozattal megállapított szöveg.
+|  | dr. Magyar Bálint99 | (SZDSZ) |
 
 93 A 4/2008. (II. 21.) OGY határozattal megállapított szöveg.
 
 94 A 4/2008. (II. 21.) OGY határozattal megállapított szöveg.
 
-95 A 49/2008. (V. 8.) OGY határozattal megállapított szöveg.
+95 A 4/2008. (II. 21.) OGY határozattal megállapított szöveg.
 
-96 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
+96 A 49/2008. (V. 8.) OGY határozattal megállapított szöveg.
 
-97 A 94/2009. (XII. 3.) OGY határozattal megállapított szöveg.
+97 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
 
-98 Az 53/2008. (V. 14.) OGY határozattal megállapított szöveg.
+98 A 94/2009. (XII. 3.) OGY határozattal megállapított szöveg.
+
+99 Az 53/2008. (V. 14.) OGY határozattal megállapított szöveg.
 
 13. Környezetvédelmi bizottság (19 fő)
 
-| Elnöke: | dr. Nagy Andor99 | (KDNP) |
+| Elnöke: | dr. Nagy Andor100 | (KDNP) |
 
 | Alelnökei: | Dr. Orosz Sándor | (MSZP) |
 
-|  | dr. Turi-Kovács Béla100 | (Fidesz) |
+|  | dr. Turi-Kovács Béla101 | (Fidesz) |
 
-| Tagjai: | Winkfein Csaba101 | (MSZP) |
+| Tagjai: | Winkfein Csaba102 | (MSZP) |
 
-|  | dr. Tompa Sándor102 | (MSZP) |
+|  | dr. Tompa Sándor103 | (MSZP) |
 
 |  | Fetser János | (MSZP) |
 
@@ -820,41 +822,41 @@
 
 |  | Kis Péter László | (MSZP) |
 
-|  | Gyula Ferencné103 | (MSZP) |
+|  | Gyula Ferencné104 | (MSZP) |
 
-|  | Kránitz László104 | (MSZP) |
+|  | Kránitz László105 | (MSZP) |
 
 |  | Balogh József | (Fidesz) |
 
 |  | Bányai Gábor | (Fidesz) |
 
-|  | Császár Antal105 | (Fidesz) |
+|  | Császár Antal106 | (Fidesz) |
 
 |  | Farkas Sándor | (Fidesz) |
 
 |  | Fehérvári Tamás | (Fidesz) |
 
-|  | dr. Rétvári Bence106 | (KDNP) |
+|  | dr. Rétvári Bence107 | (KDNP) |
 
-|  | Velkey Gábor Dániel107 | (SZDSZ) |
+|  | Velkey Gábor Dániel108 | (SZDSZ) |
 
-99 A 46/2009. (V. 22.) OGY határozattal megállapított szöveg.
+100 A 46/2009. (V. 22.) OGY határozattal megállapított szöveg.
 
-100 A 47/2009. (V. 27.) OGY határozattal megállapított szöveg.
+101 A 47/2009. (V. 27.) OGY határozattal megállapított szöveg.
 
-101 A 2/2008. (II. 14.) OGY határozattal megállapított szöveg.
+102 A 2/2008. (II. 14.) OGY határozattal megállapított szöveg.
 
-102 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
-
-103 A 49/2008. (V. 8.) OGY határozattal megállapított szöveg.
+103 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
 104 A 49/2008. (V. 8.) OGY határozattal megállapított szöveg.
 
-105 A 115/2008. (XI. 6.) OGY határozattal megállapított szöveg.
+105 A 49/2008. (V. 8.) OGY határozattal megállapított szöveg.
 
-106 A 37/2008. (IV. 17.) OGY határozattal megállapított szöveg.
+106 A 115/2008. (XI. 6.) OGY határozattal megállapított szöveg.
 
-107 A 84/2007. (X. 5.) OGY határozattal megállapított szöveg.
+107 A 37/2008. (IV. 17.) OGY határozattal megállapított szöveg.
+
+108 A 84/2007. (X. 5.) OGY határozattal megállapított szöveg.
 
 14. Kulturális és sajtóbizottság (19 fő)
 
@@ -872,7 +874,7 @@
 
 |  | Fedor Vilmos | (MSZP) |
 
-|  | dr. Schiffer János108 | (MSZP) |
+|  | dr. Schiffer János109 | (MSZP) |
 
 |  | Halmai Gáborné | (MSZP) |
 
@@ -880,7 +882,7 @@
 
 |  | Dr. Vitányi Iván | (MSZP) |
 
-|  | Kubatov Gábor109 | (Fidesz) |
+|  | Kubatov Gábor110 | (Fidesz) |
 
 |  | Gulyás Dénes | (Fidesz) |
 
@@ -888,7 +890,7 @@
 
 |  | Kiss Attila | (Fidesz) |
 
-|  | dr. Cser-Palkovics András110 | (Fidesz) |
+|  | dr. Cser-Palkovics András111 | (Fidesz) |
 
 |  | Tellér Gyula | (Fidesz) |
 
@@ -896,31 +898,31 @@
 
 |  | Dr. Lukács Tamás | (KDNP) |
 
-108 A 49/2006. (XI. 9.) OGY határozattal megállapított szöveg.
+109 A 49/2006. (XI. 9.) OGY határozattal megállapított szöveg.
 
-109 A 40/2006. (X. 10.) OGY határozattal megállapított szöveg.
+110 A 40/2006. (X. 10.) OGY határozattal megállapított szöveg.
 
-110 A 33/2006. (VII. 19.) OGY határozattal megállapított szöveg.
+111 A 33/2006. (VII. 19.) OGY határozattal megállapított szöveg.
 
 15. Sport- és turisztikai bizottság (19 fő)
 
-| Elnöke: | Bánki Erik111 | (Fidesz) |
+| Elnöke: | Bánki Erik112 | (Fidesz) |
 
-| Alelnöke: | Pál Béla112 | (MSZP) |
+| Alelnöke: | Pál Béla113 | (MSZP) |
 
-|  | Szijjártó Péter113 | (Fidesz) |
+|  | Szijjártó Péter114 | (Fidesz) |
 
 | Tagjai: | Dr. Horváth Klára | (MSZP) |
 
 |  | Koscsó Lajos | (MSZP) |
 
-|  | Mohácsi József114 | (MSZP) |
+|  | Mohácsi József115 | (MSZP) |
 
 |  | Nagy Jenő | (MSZP) |
 
-|  | Páva Zoltán115 | (MSZP) |
+|  | Páva Zoltán116 | (MSZP) |
 
-|  | dr. Nagy Imre116 | (MSZP) |
+|  | dr. Nagy Imre117 | (MSZP) |
 
 |  | Tóth József | (MSZP) |
 
@@ -932,29 +934,29 @@
 
 |  | Kovács Ferenc | (Fidesz) |
 
-|  | Lasztovicza Jenő117 | (Fidesz) |
+|  | Lasztovicza Jenő118 | (Fidesz) |
 
 |  | Szalay Ferenc | (Fidesz) |
 
 |  | Dr. Világosi Gábor | (SZDSZ) |
 
-|  | Dr. Gyenesei István118 | (független) |
+|  | Dr. Gyenesei István119 | (független) |
 
-111 A 46/2006. (X. 27.) OGY határozattal megállapított szöveg.
+112 A 46/2006. (X. 27.) OGY határozattal megállapított szöveg.
 
-112 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
+113 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-113 A 46/2009. (V. 22.) OGY határozattal megállapított szöveg.
+114 A 46/2009. (V. 22.) OGY határozattal megállapított szöveg.
 
-114 A 60/2007. (VI. 27.) OGY határozattal megállapított szöveg.
+115 A 60/2007. (VI. 27.) OGY határozattal megállapított szöveg.
 
-115 A 99/2007. (XI. 8.) OGY határozattal megállapított szöveg.
+116 A 99/2007. (XI. 8.) OGY határozattal megállapított szöveg.
 
-116 Az 52/2006. (XI. 15.) OGY határozattal megállapított szöveg.
+117 Az 52/2006. (XI. 15.) OGY határozattal megállapított szöveg.
 
-117 A 46/2006. (X. 27.) OGY határozattal megállapított szöveg.
+118 A 46/2006. (X. 27.) OGY határozattal megállapított szöveg.
 
-118 A 30/2009. (IV. 24.) OGY határozattal megállapított szöveg.
+119 A 30/2009. (IV. 24.) OGY határozattal megállapított szöveg.
 
 16. Honvédelmi és rendészeti bizottság (17 fő)
 
@@ -962,19 +964,19 @@
 
 | Alelnökei: | Keleti György | (MSZP) |
 
-|  | dr. Gál Zoltán119 | (MSZP) |
+|  | dr. Gál Zoltán120 | (MSZP) |
 
 | Tagjai: | Ecsődi László | (MSZP) |
 
-|  | Rába László120 | (MSZP) |
+|  | Rába László121 | (MSZP) |
 
 |  | Laboda Gábor | (MSZP) |
 
 |  | Mécs Imre | (MSZP) |
 
-|  | Katanics Sándor121 | (MSZP) |
+|  | Katanics Sándor122 | (MSZP) |
 
-|  | Tóth Károly122 | (MSZP) |
+|  | Tóth Károly123 | (MSZP) |
 
 |  | Csampa Zsolt | (Fidesz) |
 
@@ -988,21 +990,21 @@
 
 |  | Básthy Tamás | (KDNP) |
 
-|  | Molnár Lajos123 | (SZDSZ) |
+|  | Molnár Lajos124 | (SZDSZ) |
 
-|  | Karsai Péter124 |  |
+|  | Karsai Péter125 |  |
 
-119 A 47/2009. (V. 27.) OGY határozattal megállapított szöveg.
+120 A 47/2009. (V. 27.) OGY határozattal megállapított szöveg.
 
-120 A 28/2006. (VII. 5.) OGY határozattal megállapított szöveg.
+121 A 28/2006. (VII. 5.) OGY határozattal megállapított szöveg.
 
-121 A 87/2007. (X. 12.) OGY határozattal megállapított szöveg.
+122 A 87/2007. (X. 12.) OGY határozattal megállapított szöveg.
 
-122 A 60/2007. (VI. 27.) OGY határozattal megállapított szöveg.
+123 A 60/2007. (VI. 27.) OGY határozattal megállapított szöveg.
 
-123 A 94/2007. (X. 31.) OGY határozattal megállapított szöveg.
+124 A 94/2007. (X. 31.) OGY határozattal megállapított szöveg.
 
-124 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
+125 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
 
 17. Nemzetbiztonsági bizottság (11 fő)
 
@@ -1010,13 +1012,13 @@
 
 | Alelnöke: | Tóth Károly | (MSZP) |
 
-| Tagjai: | Juhász Ferenc125 | (MSZP) |
+| Tagjai: | Juhász Ferenc126 | (MSZP) |
 
-|  | dr. Molnár Zsolt126 | (MSZP) |
+|  | dr. Molnár Zsolt127 | (MSZP) |
 
 |  | Mécs Imre | (MSZP) |
 
-|  | Földesi Zoltán127 | (MSZP) |
+|  | Földesi Zoltán128 | (MSZP) |
 
 |  | Demeter Ervin | (Fidesz) |
 
@@ -1024,56 +1026,56 @@
 
 |  | Lezsák Sándor | (Fidesz) |
 
-|  | dr. Bőhm András128 | (SZDSZ) |
+|  | dr. Bőhm András129 | (SZDSZ) |
 
-|  | dr. Hende Csaba129 | (Fidesz) |
+|  | dr. Hende Csaba130 | (Fidesz) |
 
-125 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
+126 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-126 A 28/2006. (VII. 5.) OGY határozattal megállapított szöveg.
+127 A 28/2006. (VII. 5.) OGY határozattal megállapított szöveg.
 
-127 A 87/2007. (X. 12.) OGY határozattal megállapított szöveg.
+128 A 87/2007. (X. 12.) OGY határozattal megállapított szöveg.
 
-128 A 101/2009. (XII. 18.) OGY határozattal megállapított szöveg.
+129 A 101/2009. (XII. 18.) OGY határozattal megállapított szöveg.
 
-129 A 34/2009. (IV. 30.) OGY határozattal megállapított szöveg.
+130 A 34/2009. (IV. 30.) OGY határozattal megállapított szöveg.
 
 18. Mentelmi, összeférhetetlenségi és mandátumvizsgáló bizottság (10 fő)
 
 | Elnöke: | Dr. Géczi József Alajos | (MSZP) |
 
-| Alelnöke: | dr. Balsai István130 | (Fidesz) |
+| Alelnöke: | dr. Balsai István131 | (Fidesz) |
 
-| Tagjai: | dr. Csákabonyi Balázs131 | (MSZP) |
+| Tagjai: | dr. Csákabonyi Balázs132 | (MSZP) |
 
-|  | Sándor István132 | (MSZP) |
+|  | Sándor István133 | (MSZP) |
 
-|  | Tatai-Tóth András133 | (MSZP) |
+|  | Tatai-Tóth András134 | (MSZP) |
 
-|  | Németh Szilárd István134 | (Fidesz) |
+|  | Németh Szilárd István135 | (Fidesz) |
 
-|  | dr. Cser-Palkovics András135 | (Fidesz) |
+|  | dr. Cser-Palkovics András136 | (Fidesz) |
 
 |  | Móring József Attila | (KDNP) |
 
-|  | dr. Bőhm András136 | (SZDSZ) |
+|  | dr. Bőhm András137 | (SZDSZ) |
 
-|  | Dr. Dávid Ibolya137 |  |
+|  | Dr. Dávid Ibolya138 |  |
 
-130 Az 57/2009. (VI. 24.) OGY határozattal megállapított szöveg.
+131 Az 57/2009. (VI. 24.) OGY határozattal megállapított szöveg.
 
-131 A 49/2006. (XI. 9.) OGY határozattal megállapított szöveg.
+132 A 49/2006. (XI. 9.) OGY határozattal megállapított szöveg.
 
-132 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
+133 A 18/2006. (VI. 19.) OGY határozattal megállapított szöveg.
 
-133 A 49/2006. (XI. 9.) OGY határozattal megállapított szöveg.
+134 A 49/2006. (XI. 9.) OGY határozattal megállapított szöveg.
 
-134 A 73/2009. (IX. 17.) OGY határozattal megállapított szöveg.
+135 A 73/2009. (IX. 17.) OGY határozattal megállapított szöveg.
 
-135 A 40/2006. (X. 10.) OGY határozattal megállapított szöveg.
+136 A 40/2006. (X. 10.) OGY határozattal megállapított szöveg.
 
-136 A 84/2007. (X. 5.) OGY határozattal megállapított szöveg.
+137 A 84/2007. (X. 5.) OGY határozattal megállapított szöveg.
 
-137 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
+138 A 24/2009. (III. 25.) OGY határozattal megállapított szöveg.
 
 2. Az Országgyűlés bizottságairól, tisztségviselőiről és tagjairól szóló 20/2002. (V. 16.) OGY határozat, valamint az ideiglenes és egyéb bizottságokra, valamint tagjainak megválasztására vonatkozó országgyűlési határozatok hatályukat vesztik.
