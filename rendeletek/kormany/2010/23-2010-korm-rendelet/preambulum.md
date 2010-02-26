@@ -1,0 +1,1 @@
+A természet védelméről szóló 1996. évi LIII. törvény 85. § (1) bekezdés 3. pontjában és a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés e) pontjában kapott felhatalmazás alapján a Kormány – az Alkotmány 35. §-a (1) bekezdésének b) pontjában foglalt feladatkörében eljárva – a következőket rendeli el:
