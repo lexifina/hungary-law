@@ -1,0 +1,5 @@
+A Kormány egyetért azzal, hogy a földművelésügyi és vidékfejlesztési miniszter
+
+a) az Európai Mezőgazdasági Garancia Alapból fizetendő 2010. évi egységes területalapú támogatás (SAPS) nemzeti forrásból legfeljebb 100 százalékpontig történő kiegészítése céljából – a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapí- tásáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i, 73/2009/EK tanácsi rendelet 132. cikk (2) bekezdés a) pontjában foglaltak végrehajtása érdekében – a 2011. évi költségvetés terhére 40 milliárd forint összeghatárig rendeletben kötelezettséget vállaljon;
+
+b) az egységes mezőgazdasági támogatási rendszer (SPS) 2010. évi bevezetésének elhalasztásáról az Európai Bizottságot haladéktalanul tájékoztassa.
