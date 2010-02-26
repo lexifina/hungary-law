@@ -1,4 +1,4 @@
-9. §[^28] (1) A 8. §-ban meghatározottak vizsgálatát a Hivatal által kirendelt szakértők végzik. A szakértők vizsgálatuk eredményéről írásban véleményt készítenek.
+9. §[^31] (1) A 8. §-ban meghatározottak vizsgálatát a Hivatal által kirendelt szakértők végzik. A szakértők vizsgálatuk eredményéről írásban véleményt készítenek.
 
 (2) A tankönyvvé nyilvánítási eljárásban
 
@@ -22,7 +22,7 @@ d) az idegen nyelvre történt fordítást ellenőrző szakértő a fordításna
 
 (7) A tankönyvvé nyilvánítási eljárásban az működhet közre
 
-a)[^29] tantárgypedagógiai szakértőként, aki elvégezte az Országos Köznevelési Tanács által ajánlott és a Hivatal által nyilvános pályázat keretében kiválasztott pedagógus-továbbképzési programot, valamint akit az Országos szakértői és Országos vizsgáztatási névjegyzékről és a szakértői tevékenységről szóló jogszabályban rögzített szakterület szakértőjeként tartanak nyilván,
+a)[^32] tantárgypedagógiai szakértőként, akit az Országos szakértői névjegyzéken az akkreditáció szakterület tankönyv szakértői szakirány, illetve tantervi szakértői szakirány közoktatási szakértőjeként tartanak nyilván az új megnevezés szerint,
 
 b) tudományos-szakmai szakértőként, aki az adott szakterületen tudományos címmel vagy tudományos fokozattal rendelkezik, vagy 10 év gyakorlati idő meglétét tanúsító igazolást tud bemutatni az adott szakterületről a felsőoktatásban.
 
@@ -34,5 +34,5 @@ b) tudományos-szakmai szakértőként, aki az adott szakterületen tudományos 
 
 (11) A (2), (6) és (7) bekezdésekben meghatározott szakértőket szakértői véleményük megfelelő elkészítéséért e rendelet 9. számú mellékletében meghatározott díjazás illeti meg.
 
-[^28]: A 9. § a 40/2007. (XII. 22.) OKM rendelet 8. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni. Lásd még e módosító rendelet 24. §-át.
-[^29]: A 9. § (7) bekezdésének a) pontja a 40/2007. (XII. 22.) OKM rendelet 25. § (2) bekezdése alapján 2008. július 1-jén lépett hatályba.
+[^31]: A 9. § a 40/2007. (XII. 22.) OKM rendelet 8. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni. Lásd még e módosító rendelet 24. §-át.
+[^32]: A 9. § (7) bekezdés a) pontja a 7/2010. (II. 11.) OKM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.

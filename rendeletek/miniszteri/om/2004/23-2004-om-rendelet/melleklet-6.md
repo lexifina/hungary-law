@@ -78,7 +78,7 @@
 
 ## Igénylés esetén ingyenes tankönyvellátást (normatív kedvezmény) köteles az iskola biztosítani a nappali rendszerű iskolai oktatásban résztvevő tanuló számára, ha a gyermek:
 
-## a) tartósan beteg (szakorvos igazolja),
+## a)  tartósan beteg (szakorvos, illetve a megállapított családi pótlék igazolja),
 
 ## b) testi, érzékszervi, értelmi, beszédfogyatékos, autista, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos (szakértői és rehabilitációs bizottság igazolja),
 

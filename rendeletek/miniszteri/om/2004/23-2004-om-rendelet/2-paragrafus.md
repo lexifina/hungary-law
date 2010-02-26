@@ -10,7 +10,7 @@
 
 (3) A szerző akkor nyújthat be tankönyvvé nyilvánítás iránti kérelmet, ha a kérelem benyújtásakor a könyv kiadására mással nem kötött kiadói szerződést és a könyvnek nincs kiadója.
 
-(4)[^3] A kérelmet a Hivatal által felügyelt elektronikus rendszer segítségével papír alapon vagy – legalább fokozott biztonságú elektronikus aláírással ellátva – elektronikus formában lehet benyújtani.
+(4)[^3] A kérelmet a Hivatal által felügyelt elektronikus rendszer segítségével írásban lehet benyújtani.
 
 (5)[^4] A tankönyvvé nyilvánítási kérelemhez csatolni kell:
 
@@ -30,15 +30,15 @@ g) a 2. számú mellékletben meghatározott igazgatási szolgáltatási díj me
 
 (6)[^5] Az (5) bekezdés c) pontjában meghatározott adatokat a könyvből véletlenszerűen kiválasztott minta (tetszőleges oldalpárt követő minden 7. oldalpár) alapján kell megadni, a minta oldalszámának feltüntetésével. A minta terjedelme el kell hogy érje a könyv terjedelmének 15%-át.
 
-(7)[^6] A tankönyvvé nyilvánítási kérelemnek az (5) bekezdés a), b) és c) pontjaiban meghatározott mellékleteit három-három, a d), e) és g) pontjaiban felsorolt mellékleteit egy-egy példányban kell benyújtani. Az f) pontban meghatározott mellékleteket a Hivatal által felügyelt elektronikus rendszeren keresztül kell benyújtani.
+(7)[^6] A tankönyvvé nyilvánítási kérelemnek az (5) bekezdés a), b) és c) pontjaiban meghatározott mellékleteit három-három, a d), e) és g) pontjaiban felsorolt mellékleteit egy-egy példányban kell benyújtani. Az f) pontban meghatározott mellékleteket a Hivatal által felügyelt elektronikus rendszer segítségével lehet benyújtani.
 
 (8) Tankönyvvé nyilvánításra benyújtható a sokszorosításra kész levonat (a továbbiakban: imprimatúra) is. Ha az imprimatúra tankönyvvé nyilvánítását kérik, az (5) bekezdésben meghatározottakon kívül a kérelemhez – három példányban – csatolni kell a végleges könyv könyvészeti (tipográfiai) leírását (körülvágott méret, papírfajta stb.).
 
 (9)[^7] Az eljárás tartama alatt a benyújtott könyvet vagy imprimatúrát – a 10. § (1) bekezdésében meghatározott eset kivételével – a kiadó vagy a szerző sem tartalmában, sem kivitelében nem változtathatja meg.
 
 [^2]: A 2. § (2) bekezdése a 40/2007. (XII. 22.) OKM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^3]: A 2. § (4) bekezdése a 40/2007. (XII. 22.) OKM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^3]: A 2. § (4) bekezdése a 40/2007. (XII. 22.) OKM rendelet 2. § (2) bekezdésével megállapított, a 7/2010. (II. 11.) OKM rendelet 21. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
 [^4]: A 2. § (5) bekezdése a 40/2007. (XII. 22.) OKM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
 [^5]: A 2. § (6) bekezdése a 40/2007. (XII. 22.) OKM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^6]: A 2. § (7) bekezdése a 40/2007. (XII. 22.) OKM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni. A (7) bekezdés második mondata e módosító rendelet 25. § (2) bekezdése alapján 2008. július 1-jén lépett hatályba.
+[^6]: A 2. § (7) bekezdése a 40/2007. (XII. 22.) OKM rendelet 2. § (2) bekezdésével megállapított, a 7/2010. (II. 11.) OKM rendelet 21. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
 [^7]: A 2. § (9) bekezdését a 10/2006. (III. 27.) OM rendelet 1. § (4) bekezdése iktatta be, szövege a 40/2007. (XII. 22.) OKM rendelet 2. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.

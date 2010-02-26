@@ -56,7 +56,7 @@
 
 ## Az ábrák aránya
 
-## 4. Az oktatás típusa, amelyhez a könyvet (imprimatúrát) készítették
+## 4.  Az oktatás típusa, amelyhez a könyvet (imprimatúrát) készítették
 
 ## Sajátos nevelési igényű tanulók oktatása
 
@@ -67,6 +67,8 @@
 ## Alapfokú művészetoktatás
 
 ## Nat műveltségterület
+
+## Kompetencia alapú oktatás
 
 ## Kapcsolódó kerettanterv
 
@@ -468,30 +470,54 @@
 
 ## A tankönyv
 
-## a) fejlesztésének – elsősorban módszertani – indoklása
+## a) fejlesztésének – elsősorban módszertani – indoklása
 
-## b) szaktudományi felfogásának ismertetése
+## b) szaktudományi felfogásának ismertetése
 
-## c) pedagógiai, didaktikai, tantárgypedagógiai (tanítás- és tanulásmódszertani) koncepciójának bemutatása
+## c) pedagógiai, didaktikai, tantárgypedagógiai (tanítás- és tanulásmódszertani) koncepciójának bemutatása
 
-## d) tartalmának, a tananyagválasztás szempontjainak összegzése
+## d) tartalmának, a tananyagválasztás szempontjainak összegzése
 
-## e) szerkezetének ismertetése
+## e) szerkezetének ismertetése
 
-## f) tananyag-feldolgozási módszereinek bemutatása
+## f) tananyag-feldolgozási módszereinek bemutatása
 
-## g) elsajátítást segítő apparátusának ismertetése
+## g) elsajátítást segítő apparátusának ismertetése
 
-## h) motivációs eszközeinek leírása
+## h) motivációs eszközeinek leírása
 
-## i) tanulás-módszertani megoldásainak bemutatása és
+## i) tanulás-módszertani megoldásainak bemutatása és
 
-## j) a rendeletben meghatározott bírálati szempontok kapcsolatának ismertetése
+## j) a rendeletben meghatározott bírálati szempontok kapcsolatának ismertetése
 
-## k) használatához szükséges tanítást-tanulást segítő eszközök felsorolása, azok rövid bemutatása
+## k) használatához szükséges tanítást-tanulást segítő eszközök felsorolása, azok rövid bemutatása
 
-## l) beválás-vizsgálata (amennyiben volt ilyen) tapasztalatainak összegzése.
+## l) beválás-vizsgálata (amennyiben volt ilyen) tapasztalatainak összegzése.
 
-2. számú melléklet a 23/2004. (VIII. 27.) OM rendelethez[^82]
+## A kompetencia alapú oktatáshoz készített tankönyv esetén vizsgálni kell továbbá, hogy a tankönyv alkalmas-e a kompetencia alapú oktatáshoz, illeszkedik-e a tankönyvben beazonosítható módon meghatározott oktatási programhoz (pedagógiai rendszerhez). Kompetencia alapú oktatásra szánt könyv esetében további szempontként a szerkesztői jelentés a közvetve megvalósuló kulcskompetencia fejlesztési feladatok vonatkozásában jelezni köteles az alábbi táblázat vonatkozó részében, hogy milyen és hány kulcskompetenciát fejleszt az adott könyv.
 
-[^82]: A 2. számú melléklet a 11/2007. (III. 14.) OKM rendelet 3. § (1) bekezdésével megállapított, valamint a 40/2007. (XII. 22.) OKM rendelet 18. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+|  | A Nemzeti alaptantervben megjelenő kulcskompetenciák | A tankönyvben közvetve megvalósuló kulcskompetencia-fejlesztési feladatok az egyes Nat műveltségi területeken |
+
+| Magyar nyelv és iroda- lom | Élő idegen nyelv | Mate- matika | Ember és társa- dalom | Ember a termé- szetben | Földünk – környe- zetünk | Művé- szetek | Infor- matika | Életvitel és gyakor- lati isme- retek | Test- nevelés és sport |
+
+| 1. | Anyanyelvi kommunikáció |  |  |  |  |  |  |  |  |  |  |
+
+| 2. | Idegen nyelvi kommunikáció |  |  |  |  |  |  |  |  |  |  |
+
+| 3. | Matematika kompetencia |  |  |  |  |  |  |  |  |  |  |
+
+| 4. | Természettudományos kompetencia |  |  |  |  |  |  |  |  |  |  |
+
+| 5. | Digitális kompetencia |  |  |  |  |  |  |  |  |  |  |
+
+| 6. | A hatékony önálló tanulás |  |  |  |  |  |  |  |  |  |  |
+
+| 7. | Szociális és állampolgári kompetencia |  |  |  |  |  |  |  |  |  |  |
+
+| 8. | Kezdeményezőkészség és Vállalkozói kompetencia |  |  |  |  |  |  |  |  |  |  |
+
+| 9. | Esztétikai-művészeti Tudatosság és kifejezőképesség |  |  |  |  |  |  |  |  |  |  |
+
+2. számú melléklet a 23/2004. (VIII. 27.) OM rendelethez[^106]
+
+[^106]: A 2. számú melléklet a 11/2007. (III. 14.) OKM rendelet 3. § (1) bekezdésével megállapított, valamint a 40/2007. (XII. 22.) OKM rendelet 18. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján rendelkezéseit a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.

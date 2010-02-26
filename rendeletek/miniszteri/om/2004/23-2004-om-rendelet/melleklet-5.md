@@ -20,7 +20,7 @@
 
 ## – tankönyv esetén a kiadói kódot, digitális tananyag esetén az alkalmazott kódot, illetve az elérési útvonalat,
 
-## –[^92] a tankönyvvé nyilvánítás tényét (a jogerős határozat számát és a jogerőre emelkedés időpontját),
+## –[^116] a tankönyvvé nyilvánítás tényét (a jogerős határozat számát és a jogerőre emelkedés időpontját),
 
 ## – a tankönyvcsaládok, sorozatok összetartozását, külön jelölve a nyomtatottól eltérő megjelenési formát,
 
@@ -30,9 +30,9 @@
 
 ## – a tankönyv tömegét grammban kifejezve,
 
-## – azt a tényt, hogy a tankönyv a Nemzeti Fejlesztési Terv keretében kifejlesztett oktatási anyagok felhasználásával készült.
+## –[^117] azt a tényt, hogy a tankönyv a kompetenciaalapú oktatáshoz, oktatási programhoz, illetve programcsomaghoz készült.
 
-## II.[^93] A szakképzési tankönyvjegyzék tartalmazza:
+## II.[^118] A szakképzési tankönyvjegyzék tartalmazza:
 
 ## – a tankönyv, illetve a digitális tananyag szerzőjét vagy szerkesztőjét (alkotószerkesztőjét),
 
@@ -44,7 +44,7 @@
 
 ## – az iskolatípust, amelyben a tankönyv alkalmazását javasolják,
 
-## –[^94] az évfolyam(ok) megjelölését (a szakmai előkészítés és a régi OKJ esetében),
+## –[^119] az évfolyam(ok) megjelölését (a szakmai előkészítés és a régi OKJ esetében),
 
 ## – tankönyv esetén a kiadói kódot, digitális tananyag esetén az alkalmazott kódot, illetve az elérési útvonalat,
 
@@ -116,9 +116,10 @@
 
 ## * amennyiben van ilyen
 
-5. számú melléklet a 23/2004. (VIII. 27.) OM rendelethez[^95]
+5. számú melléklet a 23/2004. (VIII. 27.) OM rendelethez[^120]
 
-[^92]: A 4. számú melléklet I. pontjának tizedik francia bekezdése a 40/2007. (XII. 22.) OKM rendelet 20. § (1) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^93]: A 4. számú melléklet II. pontja a 40/2007. (XII. 22.) OKM rendelet 20. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^94]: A 4. számú melléklet II. pontjának hatodik francia bekezdése a 40/2007. (XII. 22.) OKM rendelet 20. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^95]: Az 5. számú melléklet a 11/2007. (III. 14.) OKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^116]: A 4. számú melléklet I. pontjának tizedik francia bekezdése a 40/2007. (XII. 22.) OKM rendelet 20. § (1) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^117]: A 4. számú melléklet I. pontjának 15. franciabekezdése a 7/2010. (II. 11.) OKM rendelet 18. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
+[^118]: A 4. számú melléklet II. pontja a 40/2007. (XII. 22.) OKM rendelet 20. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^119]: A 4. számú melléklet II. pontjának hatodik francia bekezdése a 40/2007. (XII. 22.) OKM rendelet 20. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^120]: Az 5. számú melléklet a 11/2007. (III. 14.) OKM rendelet 3. § (2) bekezdésével megállapított, a 7/2010. (II. 11.) OKM rendelet 19. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2010. február 26. után indult és a megismételt eljárásokban kell alkalmazni.
