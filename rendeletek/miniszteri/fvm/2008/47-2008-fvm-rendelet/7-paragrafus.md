@@ -1,6 +1,6 @@
 ## A kérelem benyújtása
 
-7. § (1)[^12] A támogatási kérelmet 2009. október 20. és november 30. között, ezt követően évente május 5. és június 16. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatalnak (a továbbiakban: MVH) a támogatási kérelemben szereplő tevékenység megvalósítási helye szerint illetékes kirendeltségéhez, több megvalósítási hely esetén az MVH-nak az ügyfél székhelye szerint illetékes kirendeltségéhez.
+7. § (1)[^12] A támogatási kérelmet 2011. évtől évente május 5. és június 16. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatalnak (a továbbiakban: MVH) a támogatási kérelemben szereplő tevékenység megvalósítási helye szerint illetékes kirendeltségéhez, több megvalósítási hely esetén az MVH-nak az ügyfél székhelye szerint illetékes kirendeltségéhez.
 
 (2) E rendelet alapján egy ügyfél a támogatási kérelem benyújtására nyitva álló időszakonként egy támogatási kérelmet nyújthat be.
 
@@ -34,7 +34,7 @@ d) a szakmai szervezet nyilatkozata arra vonatkozóan, hogy az ügyfél tagja a 
 
 e) a keltezés, a szakmai szervezet cégszerű aláírása.
 
-[^12]: A 7. § (1) bekezdése a 136/2009. (X. 16.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
+[^12]: A 7. § (1) bekezdése a 136/2009. (X. 16.) FVM rendelet 5. § (1) bekezdésével megállapított, a 15/2010. (II. 25.) FVM rendelet 6. § (4) bekezdése szerint módosított szöveg.
 [^13]: A 7. § (3) bekezdés b) pontja a 136/2009. (X. 16.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
 [^14]: A 7. § (3) bekezdés f) pontja a 136/2009. (X. 16.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
 [^15]: A 7. § (3) bekezdés g) pontját a 136/2009. (X. 16.) FVM rendelet 5. § (4) bekezdése iktatta be, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
