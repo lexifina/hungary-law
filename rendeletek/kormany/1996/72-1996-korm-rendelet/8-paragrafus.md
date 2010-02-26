@@ -4,9 +4,9 @@
 
 (3) A vízjogi engedély módosítása során a vízvezetési szolgalom változatlan fenntartásának feltételeit is vizsgálni kell a szolgalom alapítására irányadó rendelkezések megfelelő alkalmazásával.
 
-(4)[^40] A vízvezetési, valamint vízhasználati szolgalmi jogot – külön jogszabály szerint – az ingatlan-nyilvántartásba be kell jegyezni.
+(4)[^42] A vízvezetési, valamint vízhasználati szolgalmi jogot – külön jogszabály szerint – az ingatlan-nyilvántartásba be kell jegyezni.
 
-(5)[^41] Vízvezetési szolgalom alapításával kapcsolatos kártalanítási igény (Vgtv. 21. §) elbírálására, továbbá a vízhasználati szolgalommal összefüggő költségviselésre e rendeletnek a kártalanításra és költségmegosztásra vonatkozó szabályai irányadók.
+(5)[^43] Vízvezetési szolgalom alapításával kapcsolatos kártalanítási igény (Vgtv. 21. §) elbírálására, továbbá a vízhasználati szolgalommal összefüggő költségviselésre e rendeletnek a kártalanításra és költségmegosztásra vonatkozó szabályai irányadók.
 
-[^40]: A 8. § (4) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
-[^41]: A 8. § (5) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^42]: A 8. § (4) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^43]: A 8. § (5) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.

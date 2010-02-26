@@ -34,6 +34,16 @@ d)[^35] az engedély hatályáról.
 
 (9)[^39] Az üzemeltetésre jogosító vízjogi engedélyeket – ha külön jogszabály másképp nem rendelkezik – az e rendelet szerinti ellenőrzés során felül kell vizsgálni. A felülvizsgálat eredményétől függően az engedély hivatalból visszavonható vagy a 12. §-ban meghatározott esetben módosítható.
 
+(10)[^40] A vizek kártétel nélküli levezetése érdekében szükséges üzemeltetési, fenntartási, helyreállítási, illetve kármegelőzési munka elvégzésére jogosító vízjogi engedély – a vízjogi létesítési engedélyre vonatkozó előírásoknak megfelelően – a védett természeti területnek nem minősülő Natura 2000 területen lévő nagyvízi mederben, parti sávon, vízjárta, valamint fakadó vizek által veszélyeztetett területen 5 évre adható a Natura 2000 terület jelölésének alapjául szolgáló fajok, illetve élőhelytípusok természetvédelmi helyzetére gyakorolt hatások vizsgálatát követően. Az eljárás során a felügyelőség beszerzi a természetvédelmi kezelésért felelős szerv véleményét.
+
+(11)[^41] A (10) bekezdés szerinti engedélyben rendelkezni kell
+
+a) az üzemeltetési, fenntartási, helyreállítási, illetve kármegelőzési tevékenységekkel összefüggő jogokról és kötelezettségekről,
+
+b) az üzemeltetési, fenntartási, helyreállítási, illetve kármegelőzési munka elvégzésének feltételeiről, különös tekintettel a Natura 2000 terület fenntartási céljaira, valamint
+
+c) az engedély területi és időbeli hatályáról.
+
 [^33]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 83. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^34]: Az 5. § (3) bekezdésének b) pontja a 10/2000. (II. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^35]: Az 5. § (4) bekezdésének d) pontja a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -41,3 +51,5 @@ d)[^35] az engedély hatályáról.
 [^37]: Az 5. § (7) bekezdése a 120/1999. (VIII. 6.)Korm. rendelet 13. §-ának (3) bekezdésével megállapított szöveg.
 [^38]: Az 5. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^39]: Az 5. § (9) bekezdését a 10/2000. (II. 2.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 377/2007. (XII. 23.) Korm. rendelet 8. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: Az 5. § (10) bekezdését a 23/2010. (II. 11.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 6. § (4) bekezdése alapján az engedélyeket 2010. december 31-ig felül kell vizsgálni. Amennyiben a vízjogi engedélyezési eljárásokra még nem került sor, azokat 2010. december 31-ig le kell folytatni.
+[^41]: Az 5. § (11) bekezdését a 23/2010. (II. 11.) Korm. rendelet 5. §-a iktatta be.
