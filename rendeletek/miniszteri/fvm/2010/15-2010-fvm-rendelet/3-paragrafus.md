@@ -1,0 +1,3 @@
+## 2. § Az Európai Mezőgazdasági Alapból az öntözés, a melioráció és a területi vízgazdálkodás mezőgazdasági üzemi és közösségi létesítményeinek fejlesztéséhez nyújtandó támogatások részletes feltételeiről szóló 34/2008. (III. 27.) FVM rendelet (a továbbiakban: R2.) 9. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) Az az ügyfél, aki az Új Magyarország Vidékfejlesztési Program egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg fizetéséről szóló kormányrendelet alapján támogatási előleget vett igénybe, kizárólag a támogatási előleg elszámolása érdekében az (1) bekezdés a) pont ab) alpontja szerinti időszak mellett 2010. március 1. és 31. között is nyújthat be kifizetési kérelmet az MVH-hoz.”

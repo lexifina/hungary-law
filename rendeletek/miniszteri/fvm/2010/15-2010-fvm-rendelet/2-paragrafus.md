@@ -1,0 +1,3 @@
+## 1. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészet korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 25/2008. (III. 7.) FVM rendelet (a továbbiakban: R1.) 8. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) Az az ügyfél, aki az Új Magyarország Vidékfejlesztési Program egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg fizetéséről szóló kormányrendelet alapján támogatási előleget vett igénybe, kizárólag a támogatási előleg elszámolása érdekében az (1) bekezdés a) pontja szerinti időszak mellett 2010. március 1. és 31. között is nyújthat be kifizetési kérelmet az MVH-hoz.”

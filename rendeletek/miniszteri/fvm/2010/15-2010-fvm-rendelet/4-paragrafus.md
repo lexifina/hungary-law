@@ -1,0 +1,3 @@
+## 3. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a növénytermesztés létesítményeinek korszerűsítéséhez nyújtott támogatás igénybevételének részletes feltételeiről szóló 35/2008. (III. 27.) FVM rendelet (a továbbiakban: R3.) 8. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) Az az ügyfél, aki az Új Magyarország Vidékfejlesztési Program egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg fizetéséről szóló kormányrendelet alapján támogatási előleget vett igénybe, kizárólag a támogatási előleg elszámolása érdekében az (1) bekezdés a) pontja szerinti időszak mellett 2010. március 1. és 31. között is nyújthat be kifizetési kérelmet az MVH-hoz.”
