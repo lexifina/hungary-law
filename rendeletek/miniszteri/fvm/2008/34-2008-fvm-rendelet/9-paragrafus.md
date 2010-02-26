@@ -30,9 +30,12 @@ b) az 5. § (3) bekezdése szerinti képzésen való részvételről szóló iga
 
 (4)[^39] Az (1) bekezdés a) pont ab) alpontja szerinti időszakban benyújtott kifizetési kérelmek és azok módosításai esetében a 2009. december 15-ével lezárt Gépkatalógust kell alkalmazni.
 
-(5)[^40] Az (1) bekezdés a) pont ab) alpontja szerinti időszakban benyújtott, az Új Magyarország Vidékfejlesztési Program egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg fizetéséről szóló kormányrendelet alapján igénybe vett támogatási előleg elszámolásával érintett kifizetési kérelmet nem kell figyelembe venni a Vhr. 17. § (2) bekezdésében meghatározott szabályok alkalmazásakor.
+(5)[^40] Az (1) bekezdés a) pont ab) alpontja és a (6) bekezdés szerinti időszakban benyújtott, az Új Magyarország Vidékfejlesztési Program egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg fizetéséről szóló kormányrendelet alapján igénybe vett támogatási előleg elszámolásával érintett kifizetési kérelmet nem kell figyelembe venni a Vhr. 17. § (2) bekezdésében meghatározott szabályok alkalmazásakor.
+
+(6)[^41] Az az ügyfél, aki az Új Magyarország Vidékfejlesztési Program egyes intézkedései esetén 2009. évben nyújtandó támogatási előleg fizetéséről szóló kormányrendelet alapján támogatási előleget vett igénybe, kizárólag a támogatási előleg elszámolása érdekében az (1) bekezdés a) pont ab) alpontja szerinti időszak mellett 2010. március 1. és 31. között is nyújthat be kifizetési kérelmet az MVH-hoz.
 
 [^37]: A 9. § a 114/2009. (VIII. 29.) FVM rendelet 7. §-ával megállapított szöveg.
 [^38]: A 9. § (1) bekezdés ab) alpontja a 175/2009. (XII. 23.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg; e módosító rendelet 6. §-a alapján a rendelkezést a 2009. november 15-ét követően, 2009. december 24-e előtt benyújtott kifizetési kérelmekre is alkalmazni kell.
 [^39]: A 9. § (4) bekezdését a 175/2009. (XII. 23.) FVM rendelet 4. § (2) bekezdése iktatta be; e módosító rendelet 6. §-a alapján a rendelkezést a 2009. november 15-ét követően, 2009. december 24-e előtt benyújtott kifizetési kérelmekre is alkalmazni kell.
-[^40]: A 9. § (5) bekezdését a 175/2009. (XII. 23.) FVM rendelet 4. § (2) bekezdése iktatta be; e módosító rendelet 6. §-a alapján a rendelkezést a 2009. november 15-ét követően, 2009. december 24-e előtt benyújtott kifizetési kérelmekre is alkalmazni kell.
+[^40]: A 9. § (5) bekezdését a 175/2009. (XII. 23.) FVM rendelet 4. § (2) bekezdése iktatta be, szövege a 15/2010. (II. 25.) FVM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^41]: A 9. § (6) bekezdését a 15/2010. (II. 25.) FVM rendelet 2. §-a iktatta be.

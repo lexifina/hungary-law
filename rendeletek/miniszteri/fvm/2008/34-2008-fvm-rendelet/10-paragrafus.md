@@ -6,9 +6,9 @@
 
 (3) Ha az ügyfél a 5. § (3) bekezdésében meghatározott képzési kötelezettségének nem tesz eleget, a támogatási összeget 20%-kal csökkenteni kell, kivéve, ha a támogatási határozat kézhezvételét követő 30. nap és az utolsó kifizetési kérelem benyújtására megjelölt időszak első napját megelőző 30. nap között nem volt képzés.
 
-(4)[^41]
+(4)[^42]
 
-(5)[^42] Ha az ügyfél a 4. § (9) bekezdésében foglalt teljes bizonyító erejű okiratot nem nyújtja be az első kifizetési kérelemmel, akkor az ügyfél támogatáshoz való joga megszűnik.
+(5)[^43] Ha az ügyfél a 4. § (9) bekezdésében foglalt teljes bizonyító erejű okiratot nem nyújtja be az első kifizetési kérelemmel, akkor az ügyfél támogatáshoz való joga megszűnik.
 
-[^41]: A 10. § (4) bekezdését a 97/2008. (VII. 25.) FVM rendelet 21. § (4) bekezdésének f) pontja hatályon kívül helyezte.
-[^42]: A 10. § (5) bekezdését a 145/2008. (XI. 7.) FVM rendelet 2. §-a iktatta be, e módosító rendelet 3. §-a alapján a rendelkezést a 2008. június 15. napja után benyújtott támogatási kérelmek esetében is alkalmazni kell.
+[^42]: A 10. § (4) bekezdését a 97/2008. (VII. 25.) FVM rendelet 21. § (4) bekezdésének f) pontja hatályon kívül helyezte.
+[^43]: A 10. § (5) bekezdését a 145/2008. (XI. 7.) FVM rendelet 2. §-a iktatta be, e módosító rendelet 3. §-a alapján a rendelkezést a 2008. június 15. napja után benyújtott támogatási kérelmek esetében is alkalmazni kell.
