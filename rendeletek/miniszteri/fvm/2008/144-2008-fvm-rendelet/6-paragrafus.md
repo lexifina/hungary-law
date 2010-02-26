@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^1] A támogatási kérelmet a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített formanyomtatványon, postai úton 2010. évtől évente március 1. és 31. között lehet benyújtani az MVH, erdőgazdálkodó lakóhelye, vagy székhelye szerint illetékes megyei kirendeltségéhez.
+6. § (1)[^1] A támogatási kérelmet a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített formanyomtatványon, postai úton 2011. évtől évente március 1. és 31. között lehet benyújtani az MVH, erdőgazdálkodó lakóhelye, vagy székhelye szerint illetékes megyei kirendeltségéhez.
 
 (2) E jogcím keretében egy erdőgazdálkodó, egy támogatási kérelem benyújtási időszakban, egy támogatási kérelmet nyújthat be.
 
@@ -16,4 +16,4 @@
 
 (8) A kérelemnek tartalmaznia kell a támogatásból beszerzendő gép Gépkatalógus szerinti kódját, mennyiségét, illetve a beszerzés tervezett árát.
 
-[^1]: A 6. § (1) bekezdése a 29/2009. (III. 25.) FVM rendelet 4. §-ával megállapított szöveg.
+[^1]: A 6. § (1) bekezdése a 29/2009. (III. 25.) FVM rendelet 4. §-ával megállapított, a 15/2010. (II. 25.) FVM rendelet 7. § (3) bekezdése szerint módosított szöveg.
