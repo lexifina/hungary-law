@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-31-20-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2004-31-20-45.9 | 31/2004. (XI. 13.) OM rendelet |
+| 2010-02-26 | 2004-31-20-45.10 | 7/2010. (II. 11.) OKM rendelet |
