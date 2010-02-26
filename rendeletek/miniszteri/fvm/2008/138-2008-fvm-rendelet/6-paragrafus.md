@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^24] A támogatási kérelmet postai úton 2009. november 16. és december 20. között, azt követően évente május 1. és május 31. között, valamint október 1. és október 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített, a (2) bekezdésben meghatározott adattartalmú formanyomtatványon – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához.
+6. § (1)[^24] A támogatási kérelmet postai úton 2010. október 1. és október 31. között, azt követően évente május 1. és május 31. között, valamint október 1. és október 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített, a (2) bekezdésben meghatározott adattartalmú formanyomtatványon – a Törvény 16. §-a, valamint 21. §-a alapján az MVH és a LEADER HACS között létrejött delegálási szerződés szerint – a beruházás helye szerint illetékes LEADER HACS munkaszervezeti irodájához.
 
 (2)[^25] A támogatási kérelemnek a következőket kell tartalmaznia:
 
@@ -58,7 +58,7 @@ b) a 3. § (1) bekezdés a) pont ab) alpontjában meghatározott célterületre 
 
 (8)[^29] A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségétől. Benyújtásuk esetén a fejezeteket a (7) bekezdésben meghatározott arányosítást követően a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
 
-[^24]: A 6. § (1) bekezdése a 159/2009. (XI. 19.) FVM rendelet 4. § (1) bekezdésével megállapított, a 167/2009. (XII. 15.) FVM rendelet 6. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. december 16-át követően indult ügyekben kell alkalmazni.
+[^24]: A 6. § (1) bekezdése a 159/2009. (XI. 19.) FVM rendelet 4. § (1) bekezdésével megállapított, a 15/2010. (II. 25.) FVM rendelet 7. § (6) bekezdése szerint módosított szöveg.
 [^25]: A 6. § (2) bekezdése a 159/2009. (XI. 19.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^26]: A 6. § (3) bekezdését a 159/2009. (XI. 19.) FVM rendelet 8. §-a hatályon kívül helyezte.
 [^27]: A 6. § (4) bekezdésének f) pontját a 159/2009. (XI. 19.) FVM rendelet 8. §-a hatályon kívül helyezte.
