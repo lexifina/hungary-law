@@ -46,6 +46,6 @@
 
 ## D. Az A. és B. pont alapján kiválasztott területek jegyzékében fel kell tünteti azokat a területeket, amelyeken kiemelt közösségi jelentőségű élőhelytípusok, illetve kiemelt közösségi jelentőségű fajok fordulnak elő.
 
-10. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^63]
+10. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^70]
 
-[^63]: A 10. számú mellékletet a 201/2006. (X. 2.) Korm. rendelet 15. §-a iktatta be.
+[^70]: A 10. számú mellékletet a 201/2006. (X. 2.) Korm. rendelet 15. §-a iktatta be.

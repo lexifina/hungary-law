@@ -1,6 +1,6 @@
-## A Natura 2000 területek lehatárolása[^14]
+## A Natura 2000 területek lehatárolása[^17]
 
-5. §[^15] (1) A különleges madárvédelmi területek kialakítása, valamint a különleges és a kiemelt jelentőségű természetmegőrzési területek jelölése során a 9. számú melléklet szerinti szempontokat kell figyelembe venni.
+5. §[^18] (1) A különleges madárvédelmi területek kialakítása, valamint a különleges és a kiemelt jelentőségű természetmegőrzési területek jelölése során a 9. számú melléklet szerinti szempontokat kell figyelembe venni.
 
 (2) Az 5–7. és a 11–12. számú mellékletben felsorolt területekkel érintett földrészletek helyrajzi számos jegyzékét külön jogszabály állapítja meg.
 
@@ -16,5 +16,5 @@
 
 (8) Ha az Európai Bizottság vagy a Tanács határozata az élőhelyvédelmi irányelv 9. cikke alapján Natura 2000 terület visszaminősítéséről dönt, a (7) bekezdés szerint kell eljárni.
 
-[^14]: Az 5. §-t megelőző cím a 201/2006. (X. 2.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^15]: Az 5. § a 266/2008. (XI. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^17]: Az 5. §-t megelőző cím a 201/2006. (X. 2.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^18]: Az 5. § a 266/2008. (XI. 6.) Korm. rendelet 3. §-ával megállapított szöveg.

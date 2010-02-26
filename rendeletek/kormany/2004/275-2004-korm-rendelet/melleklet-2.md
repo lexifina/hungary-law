@@ -1,4 +1,4 @@
-## 1. A) számú melléklet[^51]
+## 1. A) számú melléklet[^57]
 
 ## Közösségi jelentőségű madárfajok
 
@@ -530,7 +530,7 @@
 
 ## Emberiza caesia rozsdás sármány
 
-## 1. B) számú melléklet[^52]
+## 1. B) számú melléklet[^58]
 
 ## Az Európai Közösség területén rendszeresen előforduló egyéb, vonuló madárfajok
 
@@ -1152,7 +1152,7 @@
 
 ## Miliaria calandra sordély
 
-2. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^53]
+2. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^59]
 
 2. A) számú melléklet
 
@@ -1822,9 +1822,9 @@
 
 | Congeria kusceri | dinári kecskekörömkagyló |
 
-2. B) számú melléklet[^54]
+2. B) számú melléklet[^60]
 
-[^51]: Az 1. A) számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (1) bekezdése és 2. § (1) bekezdése szerint módosított szöveg.
-[^52]: Az 1. B) számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
-[^53]: A 2. számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^54]: A 2. B) számú melléklet címe a 266/2008. (XI. 6.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^57]: Az 1. A) számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (1) bekezdése és 2. § (1) bekezdése szerint módosított szöveg.
+[^58]: Az 1. B) számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^59]: A 2. számú melléklet a 144/2007. (VI. 22.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^60]: A 2. B) számú melléklet címe a 266/2008. (XI. 6.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.

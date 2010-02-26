@@ -402,7 +402,7 @@
 
 ## 95A0 Magas hegyvidéki mediterrán fenyvesek
 
-## 4. B) számú melléklet[^58]
+## 4. B) számú melléklet[^64]
 
 ## Kiemelt közösségi jelentőségű élőhelytípusok
 
@@ -624,7 +624,7 @@
 
 ## 9590 Ciprusicédrus-erdők (Cedrosetum brevifoliae)
 
-5. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^59]
+5. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^65]
 
-[^58]: A 4. B) számú melléklet címe a 266/2008. (XI. 6.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^59]: Az 5. számú melléklet szerinti különleges madárvédelmi területek helyrajzi számos jegyzékét a 45/2006. (XII. 8.) KvVM rendelet 1. számú melléklete tartalmazza.
+[^64]: A 4. B) számú melléklet címe a 266/2008. (XI. 6.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^65]: Az 5. számú melléklet szerinti különleges madárvédelmi területek helyrajzi számos jegyzékét a 45/2006. (XII. 8.) KvVM rendelet 1. számú melléklete tartalmazza. Az 5. számú melléklet a 23/2010. (II. 11.) Korm. rendelet 2. § (2) bekezdése és 6. § (2) bekezdés b) pontja szerint módosított szöveg.

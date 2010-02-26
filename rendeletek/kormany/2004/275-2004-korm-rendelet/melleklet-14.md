@@ -40,9 +40,9 @@
 
 ## 3.3.1. Agrártámogatások
 
-## 3.4.1.1. Jelenlegi működő agrártámogatási rendszer
+## 3.3.1.1. Jelenlegi működő agrártámogatási rendszer
 
-## 3.4.1.2. Javasolt agrártámogatási rendszer
+## 3.3.1.2. Javasolt agrártámogatási rendszer
 
 ## 3.3.2. Pályázati források
 
@@ -128,7 +128,7 @@
 
 ## 1.2.4. A tervezési területen előforduló egyéb jelentős fajok
 
-## 1.3. Területhasználat
+## 1.3. Területhasználat*
 
 ## 1.3.1. Művelési ág szerinti megoszlás
 
@@ -152,6 +152,8 @@
 
 ## 1.3.3.8. Egyéb
 
+## * A területhasználat meghatározásakor figyelembe kell venni a területtel érintett társadalmi, gazdasági, kulturális igényeket.
+
 ## 2. Felhasznált irodalom
 
 ## 3. Térképek
@@ -164,7 +166,7 @@
 
 ## 3.4. Jelölő élőhelytípusok: a tervezési területen előforduló közösségi jelentőségű jelölő élőhelyek lehatárolása
 
-14. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^67]
+14. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^74]
 
 ## A hatásbecslési dokumentáció tartalmi követelményei
 
@@ -254,4 +256,4 @@ A tervezett, illetve javasolt, a terv vagy beruházás révén bekövetkező ked
 
 A tervező, illetve a beruházó által javasolt, felajánlott, a kedvezőtlen hatással legalább azonos nagyságú kiegyenlítő intézkedések, a terület kijelölésének alapjául szolgáló, valamennyi érintett faj vagy élőhelytípus természetvédelmi helyzetére irányuló kedvezőtlen hatások vonatkozásában (például élőhelyrekonstrukció vagy -létesítés, az állománynagyságot már korábban is kedvezőtlenül befolyásoló tényező megszüntetése, az állománynagyságot pozitívan befolyásoló intézkedések bevezetése)
 
-[^67]: A 14. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be.
+[^74]: A 14. számú mellékletet a 266/2008. (XI. 6.) Korm. rendelet 6. § (5) bekezdése iktatta be.

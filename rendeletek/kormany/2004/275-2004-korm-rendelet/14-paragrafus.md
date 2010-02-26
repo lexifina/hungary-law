@@ -2,7 +2,7 @@
 
 14. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^49] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(2)[^55] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 79/409/EGK irányelve (1979. április 2.) a vadon élő madarak védelméről 3. cikke (2) bekezdésének a) pontja, 4. cikkének (1)–(3) bekezdése, 9. cikkének (3) bekezdése, 10. cikke, 12. cikkének (1) bekezdése, I. melléklete, V. melléklete, valamint az I. mellékletet módosító
 
@@ -32,7 +32,7 @@ bb) az Osztrák Köztársaság, a Finn Köztársaság és a Svéd Királyság cs
 
 bc) a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány;
 
-c)[^50] a Tanács 2006. november 20-i 2006/105/EK irányelve a környezetvédelem területén elfogadott 79/409/EGK, 92/43/EGK, 97/68/EK, 2001/80/EK és 2001/81/EK irányelveknek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról.
+c)[^56] a Tanács 2006. november 20-i 2006/105/EK irányelve a környezetvédelem területén elfogadott 79/409/EGK, 92/43/EGK, 97/68/EK, 2001/80/EK és 2001/81/EK irányelveknek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról.
 
-[^49]: A 14. § (2) bekezdése a 201/2006. (X. 2.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^50]: A 14. § (2) bekezdésének c) pontját a 144/2007. (VI. 22.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^55]: A 14. § (2) bekezdése a 201/2006. (X. 2.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^56]: A 14. § (2) bekezdésének c) pontját a 144/2007. (VI. 22.) Korm. rendelet 1. § (4) bekezdése iktatta be.

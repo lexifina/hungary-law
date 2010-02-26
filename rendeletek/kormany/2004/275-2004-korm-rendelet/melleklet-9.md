@@ -76,6 +76,6 @@
 
 ## Tervezett kiegyenlítő intézkedések és az intézkedési terv ütemezése
 
-9. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^62]
+9. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^69]
 
-[^62]: A 9. számú mellékletet a 201/2006. (X. 2.) Korm. rendelet 15. §-a iktatta be, szövege a 266/2008. (XI. 6.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^69]: A 9. számú mellékletet a 201/2006. (X. 2.) Korm. rendelet 15. §-a iktatta be, szövege a 266/2008. (XI. 6.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
