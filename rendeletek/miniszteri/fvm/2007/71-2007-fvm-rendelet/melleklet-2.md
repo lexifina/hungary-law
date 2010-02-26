@@ -1,26 +1,22 @@
-## Az R. 1. számú melléklete helyébe a következő rendelkezés lép:
-
-## „1. számú melléklet a 71/2007. (VII. 27.) FVM rendelethez
-
-## Támogatható kultúrák, igényelhető maximális támogatás, vegetatív terjeszkedés, termőre fordulás időpontja
-
 | Sor- szám | Kultúra megnevezése | Igénybe vehető maximális támogatás (Ft/ha) | Minimális tőszám (tő/ha) | Produkció, terjeszkedés |
 
 | latin név | magyar név (tájékoztatás) | H | T | VT |
 
-| 1. | Agropyron és Elytrigia nemzetség, kivéve a védett, őshonos típus és Elytrigia repens | Energiafű, kivéve közönséges tarackbúza és védett típus | 75 000 | 5 000 000 | 8 | 2. | N |
+| 1. | Agropyron és Elytrigia nemzetség, kivéve a védett, őshonos típus és Elytrigia repens | Energiafű, kivéve közönséges tarackbúza és védett típus | 75 000 | 5 000 000 | 8 | 2 | N |
 
-| 2. | Miscanthus nemzetség | Kínai nád, elefántfű, energianád, japán díszfű | 250 000 | 9 000 | 25 | 3. | I |
+| 2. | Miscanthus nemzetség | Kínai nád, elefántfű, japán díszfű | 250 000 | 9 000 | 25 | 3 | I |
+
+| 3. | Sida Hermaphrodita L. Rusby | Amerikai bársonymályva | 110 000 | 22 000 | 8 | 3 | N |
 
 ## ahol:
 
-## H – átlagos terméshozam (t/ha/év);
+## H – átlagos terméshozam (t/ha/év);
 
-## T – teljes termőre fordulás éve a telepítést követően;
+## T – teljes termőre fordulás éve a telepítést követően;
 
-## VT – vegetatív úton történő terjeszkedés, I – igen, N – nem.”
+## VT – vegetatív úton történő terjeszkedés, I – igen, N – nem.
 
-2. számú melléklet a 71/2007. (VII. 27.) FVM rendelethez[^37]
+2. számú melléklet a 71/2007. (VII. 27.) FVM rendelethez[^41]
 
 Értékelés
 
@@ -158,4 +154,4 @@ An – az értékelési szempontnak megfelelő adott terület hektárban kifej
 
 7. Ha a telepítéssel érintett terület szerinti településen, illetve az ügyfél lakhelyén, székhelyén nincs cigány kisebbségi önkormányzat, akkor az országos, vagy a településhez legközelebbi cigány önkormányzat nyilatkozata alapján értékelhető a szempont.
 
-[^37]: A 2. számú melléklet a 133/2007. (XI. 13.) FVM rendelet 6. § (2) bekezdése, a 49/2009. (IV. 16.) FVM rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a 2009. április 19-ét követően benyújtott kérelmek esetében lehet alkalmazni.
+[^41]: A 2. számú melléklet a 133/2007. (XI. 13.) FVM rendelet 6. § (2) bekezdése, a 49/2009. (IV. 16.) FVM rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a 2009. április 19-ét követően benyújtott kérelmek esetében lehet alkalmazni.
