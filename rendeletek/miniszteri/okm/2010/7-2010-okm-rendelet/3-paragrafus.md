@@ -1,0 +1,3 @@
+## 2. § A Tr. 4. §-a helyébe a következő rendelkezés lép:
+
+## „4. § Ha a tankönyvet tartalmában vagy – kötésmódja, illetve borítója kivételével – kivitelében megváltoztatták, a tankönyvvé nyilvánítási eljárást ismételten le kell folytatni. E rendelet alkalmazásában nem jelenti a könyv tartalmi változtatását a benne szereplő helyesírási, illetve nyomdahibák, továbbá a tankönyvvé nyilvánítás ideje alatt megváltozott tényeknek, adatoknak a tankönyv adott oldalain történő javítása, feltéve, hogy a javítás miatt nem változik meg a lapok számozása, és a javításról készült jegyzéket – ellenszolgáltatás nélkül – megküldik a Hivatalnak és azoknak az iskoláknak, amelyek az adott tankönyvből a javítás évét megelőző három évben rendeltek.”

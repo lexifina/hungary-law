@@ -1,0 +1,1 @@
+## 18. § A Tr. 4. számú melléklet A tankönyvjegyzékre történő felvételhez szükséges adatok cím I. A közismereti tankönyvjegyzék tartalmazza: alcím utolsó francia bekezdése helyébe a 4. számú melléklet lép.
