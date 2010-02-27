@@ -1,35 +1,35 @@
 ## ÉRTESÍTÉS
 
-## a kivitelezés kezdéséről
+## A beruházó önkormányzat (a támogatás címzettje) neve:
 
-## A beruházó önkormányzat (a támogatás címzettje) neve: .................................................................
+## Az önkormányzat címe (megye, irányítószám, település, út, hsz.):
 
-## KSH kódja (megye- és településazonosító): ......................................................................................
+## A beruházó önkormányzat KSH kódja [megye (2 jegyű) és településazonosító (5 jegyű)]:
 
-## Támogatást jóváhagyó törvény, közlemény száma: ..........................................................................
+| Támogatást jóváhagyó közlemény száma, a közlemény mellékletének száma, sorszáma: | közl. szám: |
 
-## melléklet száma: ........................................................ sorszám: ..................................................
+| mell. szám: |
 
-## beruházás típusszáma: .................................................................................................................
+| sorszám: |
 
-## beruházás megnevezése: ..............................................................................................................
+## A beruházás megnevezése:
 
-## beruházási összköltség: ...............................................................................................................
+## A beruházási összköltsége (E Ft):
 
-## A kivitelezés kezdését az építési napló, egészségügyi gép-műszer beszerzésnél a szerződés – önkormányzat által hitelesített – másolatának megküldésével kell igazolni.
+## a) A közbeszerzési eredményhirdetés időpontja:
 
-## Melléklet:
+## Melléklet: Az 5/2009. (III. 31.) IRM rendelet 7. számú mellékletének hitelesített másolata
 
-## Hitelesített építési napló másolat, vagy
+## b) A kivitelezés megkezdésének időpontja:
 
-## Szerződés másolat.
+## Melléklet: Egészségügyi gép-műszer beszerzés szerződésének hitelesített másolata
 
-## Kelt: ........................., 200..... év .......................... hó ..... nap
+| Kelt: ..........................................., 20.... év ..................... hó ........... nap |
 
-## P. H.
+| P. H. |
 
-## ....................................................
+| .......................................... polgármester |
 
-## polgármester
+5/B. melléklet a 19/2005. (II. 11.) Korm. rendelethez[^62]
 
-5/B. számú melléklet a 19/2005. (II. 11.) Korm. rendelethez
+[^62]: Az 5/B. melléklet megjelölése a 36/2010. (II. 26.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg.

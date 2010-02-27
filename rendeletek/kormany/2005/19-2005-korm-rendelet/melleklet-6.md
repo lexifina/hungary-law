@@ -30,4 +30,6 @@
 
 ## polgármester
 
-6. számú melléklet a 19/2005. (II. 11.) Korm. rendelethez
+6. melléklet a 19/2005. (II. 11.) Korm. rendelethez[^63]
+
+[^63]: A 6. melléklet megjelölése a 36/2010. (II. 26.) Korm. rendelet 17. § (5) bekezdése szerint módosított szöveg.

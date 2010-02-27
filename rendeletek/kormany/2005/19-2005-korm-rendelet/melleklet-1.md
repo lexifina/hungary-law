@@ -1,3 +1,3 @@
-1. számú melléklet a 19/2005. (II. 11.) Korm. rendelethez[^62]
+1. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^57]
 
-[^62]: Az 1. számú melléklet a 97/2008. (IV. 29.) Korm. rendelet 7. §-ának 22. pontja szerint módosított szöveg.
+[^57]: Az 1. melléklet a 36/2010. (II. 26.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.

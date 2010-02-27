@@ -1,7 +1,8 @@
-## 8. § Az önkormányzat a 4. számú melléklet szerinti beruházási adatlapon nyújtja be támogatási igényét.
+## 8. §[^16]
 
 9. § (1) Közös beruházás esetén a Cct. 7. §-a szerinti emelt összegű támogatás az egyes települési önkormányzatokat a törvény mellékletében meghatározott támogatási mérték szerint illeti meg. A támogatás számításának alapja az önkormányzatra jutó beruházási összköltség.
 
-(2)[^15] Amennyiben a közös beruházás a régióhatárokon túlnyúlik, az igénybejelentés teljes dokumentációját mindkét régióba be kell nyújtani. A támogatási igényről az RFT-k külön-külön döntenek. A támogatási szerződést a gesztor önkormányzat köti meg az RFT-vel. A két RFT megállapodásban rögzíti a támogatási előirányzat átadását annak a régiónak, amelyben a gesztor önkormányzat működik.
+(2)[^17] Amennyiben a közös beruházás a régióhatáron túlnyúlik, az igénybejelentés teljes dokumentációját a társult önkormányzatok által – külön megállapodásban – a beruházás finanszírozásával összefüggő feladatok ellátására felhatalmazott, valamint a címzett támogatás alapdokumentumaiban a támogatás címzettjeként meghatározott önkormányzat (a továbbiakban: gesztor) szerint illetékes Igazgatósághoz kell benyújtani.
 
-[^15]: A 9. § (2) bekezdése a 106/2006. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^16]: A 8. §-t a 36/2010. (II. 26.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^17]: A 9. § (2) bekezdése a 36/2010. (II. 26.) Korm. rendelet 1. §-ával megállapított szöveg.

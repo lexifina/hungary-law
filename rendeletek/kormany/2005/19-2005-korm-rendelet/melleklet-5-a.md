@@ -1,316 +1,128 @@
-## A)[^72] A címzett és céltámogatási igénybejelentés 1. dokumentuma
+## A) A céltámogatási igénybejelentés 1. dokumentuma
 
-## A) A címzett és céltámogatási igénybejelentés 1. dokumentuma
+## „BERUHÁZÁSI ADATLAP
 
-## BERUHÁZÁSI ADATLAP[^73]
+## a céltámogatással megvalósuló beruházásokhoz
 
-## a .................................... támogatással megvalósuló beruházásokhoz
+## I. A beruházó önkormányzat (a támogatás címzettje) neve:
 
-## I. A beruházó önkormányzat neve (a támogatás címzettje) és címe:[^74]
-
-## ...........................................................................................................................................................
-
-## ...........................................................................................................................................................
-
-## ...........................................................................................................................................................
+## Az önkormányzat címe (megye, irányítószám, település, út, hsz.):
 
 ## II. A beruházás helye (kistérség és település megnevezése is):
 
-## ...........................................................................................................................................................
+## III. A beruházás támogatásban részesíthető műszaki tartalma:
 
-## ...........................................................................................................................................................
+## IV. A beruházás támogatásban nem részesíthető műszaki tartalma:
 
-## ...........................................................................................................................................................
+## V. Egészségügyi gép-műszer (db)
 
-## III. A beruházás támogatásban részesíthető műszaki tartalma:[^75]
+## VI. A beruházás támogatott műszaki tartalmának tervezett kivitelezési, üzembe helyezési időpontja
 
-## ...........................................................................................................................................................
+## A kivitelezés kezdésének időpontja (év, hó):
 
-## ...........................................................................................................................................................
+## A kivitelezés befejezésének időpontja (év, hó):
 
-## ...........................................................................................................................................................
+## A beruházás támogatott műszaki tartalmának tervezett befejezési éve:
 
-## IV. A beruházás támogatásban nem részesíthető műszaki tartalma:[^76]
+## VII. A beruházás költségelőirányzatai
 
-## ...........................................................................................................................................................
+## A) A támogatott műszaki tartalom beruházási költségei
 
-## ...........................................................................................................................................................
+| VII./A/1. Beruházási költség (áfa nélkül) | forint |
 
-## ...........................................................................................................................................................
+| VII./A/2. Első készlet beszerzés (áfá nélkül) | forint |
 
-## V. A beruházás kapacitása, mennyiségi mutatói a céltámogatásoknál és az 1 milliárd Ft feletti beruházási összköltségű szennyvízelvezetést és -tisztítást szolgáló beruházásoknál:
+| VII./A/3. Az előzetesen felszámított, de le nem vonható áfa | forint |
 
-## Sorsz. …………………..
+| VII./A/4. A beruházás összköltsége, támogatott műszaki tartalom (VII./A/1.+2+3): | forint |
 
-## V.1. Szennyvízelvezetés és -tisztítás:
+## B) A nem támogatott műszaki tartalom beruházási költségei
 
-## V.1.1. Szennyvíztisztító telep (címzett és céltámogatás):
+| VII./B/1. Beruházási költség (előzetesen felszámított, de le nem vonható áfával) | forint |
 
-| a megvalósítandó beruházással tisztítandó szennyvíz mennyisége53 ..................... | m3/nap |
+| VII. Összesen (VII./A/4+VII./B/1.): | forint |
 
-| szennyvíztisztító telep kapacitása .......................................................................... | m3/nap |
+| Részletes költségszámítás alapján számított költség: | forint |
 
-| ebből: |  |
+## VIII. Közös beruházásnál igényelhető céltámogatás számítása az egyes önkormányzatokat megillető támogatás figyelembevételével
 
-| mechanikai ................................................................................................. | m3/nap |
+| Önkormányzat neve | Támogatás mértéke (%) | Önkormányzat saját forrása (a tényleges saját forrással együtt) (E Ft) | Igényelhető céltámogatás (E Ft) | Önkormányzat beruházási összköltsége (3+4) (E Ft) |
 
-| biológiai ..................................................................................................... | m3/nap |
+| 1 | 2 | 3 | 4 | 5 |
 
-| kémiai ........................................................................................................ | m3/nap |
+| Támogatás címzettje: |  |  |  |  |
 
-| szennyvíziszap lerakás ............................................................................... | m3/év |
+| 1. |  |  |  |  |
 
-| szennyvíziszap mezőgazdasági felhasználása ............................................ | m3/év |
+| Társultak: |  |  |  |  |
 
-| szennyvíziszap megsemmisítése ................................................................ | m3/év |
+| 1. |  |  |  |  |
 
-## 53 Támogatás nem igényelhető, például ipartelep, utolsó állandó lakoson túli ellátására, építésre kijelölt terület elő közművesítésére stb.
+| 2. |  |  |  |  |
 
-## V.1.2. Települési folyékony hulladék tisztító telep:
+| 3. |  |  |  |  |
 
-| a megvalósítandó beruházással tisztítandó szennyvíz mennyisége5 ..................... | m3/nap |
+| 4. |  |  |  |  |
 
-| települési folyékony hulladék tisztítótelep kapacitása ........................................... | m3/nap |
+| 5. |  |  |  |  |
 
-| ebből: |  |
+| Összesen(támogatás címzettjének adata is): |  |  |  |  |
 
-| mechanikai ................................................................................................. | m3/nap |
+## IX. A beruházás pénzügyi forrásai (ezer forintban)
 
-| biológiai ..................................................................................................... | m3/nap |
+| Önkormányzat neve | Összesen | I. ütemév | II. ütemév | III. ütemév |
 
-| kémiai ......................................................................................................... | m3/nap |
+| .év | .év | .év |
 
-| szennyvíziszap lerakás ............................................................................... | m3/év |
+| A) A támogatott műszaki tartalom szerint |  |  |  |  |
 
-| szennyvíziszap mezőgazdasági felhasználása ............................................ | m3/év |
+| IX./A/1. Összes saját forrás (1.1–1.4.) [Cct. 23. § c) pont] |  |  |  |  |
 
-| szennyvíziszap megsemmisítése ................................................................ | m3/év |
+| 1.1. Az önkormányzat(ok) költségvetési rendeletében vagy képviselő-testületi határozatában, illetőleg a képviselő- testület költségvetési rendeletbe foglalt felhatalmazása alapján a polgármester nyilatkozatában a beruházásra jóváhagyott saját forrás (kizárólag saját bevétel) |  |  |  |  |
 
-## V.1.3. Szennyvízcsatorna-hálózat építés (címzett és céltámogatás):
+| – ebből a kötelező feladat ellátását szolgáló vagyon értékesítéséből származó saját bevétel [Cct. 19. § (2) bek.] |  |  |  |  |
 
-| a megvalósítandó beruházással elvezetendő szennyvíz mennyisége5 ................... | m3/nap |
+| 1.2. Hitel |  |  |  |  |
 
-| szennyvízcsatorna-hálózat építése .......................................................................... | fm |
+| 1.3. Egyéb állami támogatások |  |  |  |  |
 
-| tervezett bekötővezetékek hossza ........................................................................... | fm |
+| – ebből: önkormányzatok fejlesztési feladataira szolgáló előirányzatból |  |  |  |  |
 
-| tervezett bekötések száma ...................................................................................… | (db) |
+| – ebből: egyéb |  |  |  |  |
 
-## V.2. Egészségügyi gép-műszer (céltámogatás) ...................................(db)
+| 1.4. Egyéb nemzetközi forrásokból származó támogatás (EU): |  |  |  |  |
 
-## V. 3. Címzett támogatással megvalósuló beruházások naturális mutatói (az V. 1. kivételével):
+| IX./A/2. Céltámogatás [Cct. 8. § (5) bek.] |  |  |  |  |
 
-| Megnevezés | Mennyiségi egység | Mennyiség |
+| IX./A/3.Beruházási összköltség (IX./A/1.+IX./A/2.) |  |  |  |  |
 
-## VI. A beruházás támogatott műszaki tartalmának tervezett kivitelezési, üzembe helyezési időpontja:
+| B) A nem támogatott műszaki tartalom szerint |  |  |  |  |
 
-| A kivitelezés kezdésének időpontja (év, hó): ............................................................................................... |
+| IX./B/1. Nem támogatott műszaki tartalom saját forrás |  |  |  |  |
 
-| A kivitelezés befejezésének időpontja (év, hó): ........................................................................................... |
-
-| A beruházás támogatott műszaki tartalmának tervezett befejezési éve54 ..................................................… |
-
-## 54 A beruházás támogatott műszaki tartalmának tervezett befejezése (üzembe helyezés évének meg kell egyeznie a támogatási igény utolsó beruházási ütemével.
-
-## VII. A beruházás költségelőirányzata
-
-| Ezer forintra kerekítve |
-
-| No | Megnevezés | Összesen | Ebből |
-
-| ............... | ............... | ............... | ............... | ............... |
-
-| éves ütemek |
-
-| 1. | 2. | 3. | 4. | 5. | 6. |
-
-## A) A támogatott műszaki tartalom beruházási költségei[^77]
-
-| 1. | Beruházási költség (áfa nélkül) |
-
-| 2. | Első készlet beszerzés |
-
-| 3. | Az előzetesen felszámított, de le nem vonható áfa |
-
-| 4. | Beruházási összköltség (1+2+3)56 |
-
-## 56A beruházás költségirányzata és pénzügyi forrásai beruházási összköltség sorának (VII/4. sor és IX/3. sor) évente meg kell egyeznie.
-
-## B) A nem támogatott műszaki tartalom beruházási költségei[^78]
-
-| 5. | Beruházási költség (előzetesen felszámított, de le nem vonható áfával) |
-
-| 6. | Összesen (4+5)58 |
-
-## 58 Mindig ki kell tölteni! A beruházás költségirányzata és pénzügyi forrásai összesen sorának (VII/6. és IX/5. sor) évente meg kell egyeznie.
-
-## Részletes költségszámítás alapján számított költség: ....................... ezer Ft.[^79]
-
-## VIII. Közös beruházásnál igényelhető címzett és céltámogatás számítása az egyes önkormányzatokat megillető támogatás figyelembevételével
-
-| Önkormányzat neve | Támogatás mértéke a többlet- támogatással (%) | Saját tisztítótelepre csatlakozik (meg kell jelölni) | Önkormányzat saját forrása (a tényleges saját forrással együtt) (E Ft) | Igényelhető címzett vagy céltámogatás (E Ft) | Önkormányzat beruházási összköltsége (3+4) (E Ft) |
-
-| 1. | 2. | 3. | 4. | 5. |
-
-| Támogatás címzettje: |
-
-| 1. |
-
-| Társultak: |
-
-| 2. |
-
-| 3. |
-
-| 4. |
-
-| 5. |
-
-| 6. |
-
-| 7. |
-
-| 8. |
-
-| 9. |
-
-| 10. |
-
-| 11. |
-
-| 12. |
-
-| 13. |
-
-| 14. |
-
-|  | ............................................. | ............................................. | ......................................... |
-
-|  | saját forrás60 összesen | címzett/céltámogatás összesen12 | beruházási összköltség12 |
-
-## 60 A jelzett összegnek meg kell egyeznie a beruházási adatlap IX. táblázat 1., 2. és 3. sorában feltüntetett adatokkal.
-
-## IX. A beruházás pénzügyi forrásai
-
-## Ezer forintra kerekítve
-
-| No | Megnevezés | Összesen | Ebből |
-
-| ................ | ................ | ................ | ................ | ................ |
-
-| éves ütemek61 |
-
-| 1. | 2. | 3. | 4. | 5. | 6. |
-
-## 61 Az éves ütemnek meg kell egyeznie a VII. táblázatban feltüntetett éves ütemekkel.
-
-## A) A támogatott műszaki tartalom szerint
-
-| 1. |  | Összes saját forrás (1.1-1.5.) [Cct. 23. § c) pont] |  |
-
-|  | 1.1. | Az önkormányzat(ok) költségvetési rendeletében vagy képviselő-testületi határozatában, illetőleg a képviselő-testület költségvetési rendeletbe foglalt felhatalmazása alapján a polgármester nyilatkozatában a beruházásra jóváhagyott saját forrás (kizárólag saját bevétel) Ebből: |  |
-
-|  |  | 1. a) Kötelező feladat ellátását szolgáló vagyon értékesítéséből származó saját bevétel [Cct. 19. § (2) bek.] |  |
-
-|  | 1.2. | Lakossági hozzájárulás (amennyiben a beruházás megvalósításához víziközmű-társulati hitel igénybevételét tervezik, úgy az annak fedezetéül szolgáló lakossági hozzájárulást is e soron kell szerepeltetni) |  |
-
-|  | 1.3. | Hitel |  |
-
-|  | 1.4. | Egyéb állami támogatások62 |  |
-
-|  |  | Helyi önkormányzatok fejlesztési és vis maior feladataira szolgáló előirányzat |  |
-
-|  |  | Egyéb |  |
-
-|  | 1.5. | Egyéb (rövid megnevezés) |  |
-
-|  |  | ... |  |
-
-|  |  | ... |  |
-
-| 2. |  | Címzett, illetőleg céltámogatás (a megfelelő szövegrész aláhúzandó) [Cct. 8. § (5) bek.] |  |
-
-| 3. |  | Beruházási összköltség (1.+2.)63 |  |
-
-## 62 A Cct. 10. § (3) bekezdése szerinti ígérvény; az egyéb állami, illetve decentralizált állami támogatások előirányzata felett rendelkező személy/szervezet döntése a beruházás meghatározott összeggel történő támogatásáról. Kizárólag a címzett és céltámogatási igénybejelentéssel egyidejűleg szabályosan dokumentált, konkrét összegről szóló, írásbeli igények vehetők figyelembe.
-
-## 63 Mindig ki kell tölteni! A beruházás költségelőirányzata és pénzügyi forrásai beruházási összköltség sorainak (VII/4. és IX/3. sor, illetve VII/6. és IX/5. sor) évente meg kell egyeznie.
-
-## B) A nem támogatott műszaki tartalom szerint
-
-| 4. |  | Saját forrás |  |
-
-| 5. |  | Összesen (3.+4.) |  |
-
-## 1. Létesítmény, illetve egészségügyi gép-műszer jegyzék[^80]
-
-|  | Ezer forintban |
-
-| A létesítmény megnevezése | Költség-előirányzat összesen |
-
-## Létesítmények tételes felsorolása[^81] (a létesítmények rövid, tételes felsorolása max. 1 oldal)
-
-## 1. ........................................................................................................................................................
-
-## 2. ........................................................................................................................................................
-
-## 3. ........................................................................................................................................................
-
-## . .........................................................................................................................................................
-
-## . .........................................................................................................................................................
-
-## . .........................................................................................................................................................
-
-| I. | Létesítmények összesen: |
-
-| II. | Létesítményekre közvetlenül fel nem osztható költségek tételes felsorolása66 |
-
-| 1. | Lebonyolítási díj és a műszaki ellenőr igénybevételének díja67 |
-
-| 2. | Tervezési díj |
-
-| 3. | Támogatás kezelési költség |
-
-| 4. | Egyéb – az alapfunkcióhoz közvetlenül nem kapcsolódó – költségek |
-
-|  | – tereprendezés |
-
-|  | – kerítésépítés |
-
-|  | – ………………… |
-
-|  | – ………………… |
-
-| II. | Létesítményekre közvetlenül fel nem osztható költségek összesen: |
-
-| III. | Összesen (I+II)68: |
-
-## 66 A beruházás egyéb költségei.
-
-## 67 Kötelező kitölteni! Amennyiben az önkormányzat központi támogatásban részesül, köteles megfelelő képesítéssel rendelkező műszaki ellenőrt biztosítani a Cct. 23.§ a)–g) pontjának 1. pontja szerinti 1% lebonyolítási díj terhére [Cct. 11/A. § (1) bekezdés].
-
-## 68 A jelzett összegnek meg kell egyeznie a Beruházási adatlap VII. 1. oszlop 6. és a IX. táblázat 1. oszlop 5. sorában feltüntetett adatokkal.
+| Összesen (IX./A/3.+ IX./B/1.): |  |  |  |  |
 
 ## X. Létesítmény, illetve egészségügyi gép-műszer jegyzék
 
-## Ezer forintban
+| Ezer forintban |
 
 | A létesítmény megnevezése | Költség-előirányzat összesen |
 
 | nettó | áfa | nettó + áfa |
 
-| I. Létesítmények tételes felsorolása (a létesítmények rövid, tételes felsorolása, legfeljebb 1 oldal) |
+| I. Létesítmények, illetve egészségügyi gép-műszerek rövid, tételes felsorolása: |  |  |  |
 
-| 1. |  |  |  |
+| – |  |  |  |
 
-| 2. |  |  |  |
+| – |  |  |  |
 
-| 3. |  |  |  |
+| – |  |  |  |
 
-| I. Létesítmények összesen: |  |  |  |
+| – |  |  |  |
 
-| II. Létesítményekre közvetlenül fel nem osztható költségek tételes felsorolása |
+| I. Létesítmények, illetve egészségügyi gép-műszerek összesen: |  |  |  |
+
+| II. Létesítményekre, illetve egészségügyi gép-műszerekre közvetlenül fel nem osztható költségek tételes felsorolása |  |  |  |
 
 | 1. Lebonyolítási díj és a műszaki ellenőr igénybevételének díja |  |  |  |
 
@@ -320,303 +132,237 @@
 
 | 4. Egyéb – az alapfunkcióhoz közvetlenül nem kapcsolódó – költségek |  |  |  |
 
-| – tereprendezés |  |  |  |
+| – |  |  |  |
 
-| – kerítésépítés |  |  |  |
+| – |  |  |  |
 
-| – .................................... |  |  |  |
+| – |  |  |  |
 
-| – .................................... |  |  |  |
+| II. Létesítményekre, illetve egészségügyi gép-műszerekre közvetlenül fel nem osztható költségek összesen: |  |  |  |
 
-| II. Létesítményekre közvetlenül fel nem osztható költségek összesen: |  |  |  |
+| III. Összesen (I+II): |  |  |  |
 
-| III. Összesen (I.+II.) |  |  |  |
-
-## Kelt: ................., ........év ........ hó ........ nap
+## Kelt: ..........................................., 20.... év ..................... hó ........... nap
 
 ## P. H.
 
-## ..................................................
+| .......................................... ................................................. polgármester jegyző |
 
-## polgármester
+## B) A céltámogatási igénybejelentés 2. dokumentuma
 
-## B)[^82] A címzett és céltámogatási igénybejelentés 2. számú dokumentuma
+## számú képviselő-testületi/közgyűlési határozat
 
-## ....... számú képviselő-testületi/közgyűlési határozat
+## önkormányzat képviselő-testülete/közgyűlése a céltámogatással megvalósuló beruházásáról az alábbiak szerint dönt:
 
-## B) A címzett és céltámogatási igénybejelentés 2. számú dokumentuma
+| I. A beruházás pénzügyi forrásai |  |
 
-## .............................. számú képviselő-testületi/közgyűlési határozat
+| I.1. A beruházás összköltsége: | ezer forint |
 
-## ............................... önkormányzat képviselő-testülete/közgyűlése a ................................, címzett/céltámogatással megvalósuló beruházásáról az alábbiak szerint dönt:
+| I.2. A képviselő-testület/közgyűlés saját forrásként az éves költségvetési rendeleteiben a beruházási adatlap szerinti ütemezésben biztosított összeg: | ezer forint |
 
-## I. A beruházás pénzügyi forrásai
+| I.3. A saját forrás összegéből: |  |
 
-## I.1. A beruházás összköltsége: ................................................ ezer forint
+| Saját bevétel | ezer forint |
 
-## I.2. A képviselő-testület/közgyűlés saját forrásként az éves költségvetési rendeleteiben ..............................
+| Hitel | ezer forint |
 
-## ........................ ezer forintot – a beruházási adatlap szerinti ütemezésben – biztosítja
+| Egyéb állami támogatások | ezer forint |
 
-| I.3. A saját forrás összegéből: |  |  |
+| – ebből: önkormányzatok fejlesztési feladataira szolgáló előirányzat | ezer forint |
 
-| Saját bevétel: |  | ............... ezer forint |
+| Egyéb nemzetközi forrásokból származó támogatások (EU) | ezer forint |
 
-| Lakossági hozzájárulás: (amennyiben a beruházás megvalósításához víziközműtársulati hitel igénybevételét tervezik, úgy az annak fedezetéül szolgáló lakossági hozzájárulást is e soron kell szerepeltetni) |  | ............... ezer forint |
+| I.4. A képviselő-testület/közgyűlés a beruházáshoz vállalt saját bevételeit az alábbiak szerint biztosítja |  |
 
-| Hitel: |  | ............... ezer forint |
+| Lekötött betét: | ezer forint |
 
-| Egyéb állami támogatások |  | ............... ezer forint |
+| Tárgyi eszközök, immateriális javak értékesítése: | ezer forint |
 
-| ebből: |  |  |
+| Privatizációból származó bevétel: | ezer forint |
 
-| Helyi önkormányzatok fejlesztési és vis maior feladataira szolgáló előirányzat | ............... ezer forint |  |
+| Önkormányzati vagyon bérbeadásából, üzemeltetéséből, koncesszióból származó bevétel: | ezer forint |
 
-| Egyéb: | ............... ezer forint |  |
+| Felhalmozási célú pénzeszköz-átvétel (önkormányzati körön belül): | ezer forint |
 
-| I.4. A képviselő-testület/közgyűlés a beruházáshoz vállalt saját bevételeit az alábbiak szerint biztosítja |
+| Részvények, kárpótlási jegyek, államkötvények, egyéb értékpapírok értékesítése: | ezer forint |
 
-| Lekötött betét: | ............... ezer forint |
+| Osztalék- és hozambevétel: | ezer forint |
 
-| Tárgyi eszközök, immateriális javak értékesítése: | ............... ezer forint |
+| Egyéb (rövid megnevezéssel): | ezer forint |
 
-| Privatizációból származó bevétel (pl. gázközműjuttatás): | ............... ezer forint |
+| Összesen: | ezer forint |
 
-| Önkormányzati vagyon bérbeadásából, üzemeltetéséből, koncesszióból származó bevétel: | ............... ezer forint |
+| I.5. A képviselő-testület/közgyűlés az önkormányzat korrigált saját folyó bevételét a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 88. §-a szerint a beruházási adatlap szerinti ütemezésben az alábbiak szerint igazolja [Cct. 10. § (3) bek. b) pont]. Ezen adatlappal egyidejűleg nyilatkozik, hogy az önkormányzat hitelkérelme legalább a hitelfelvétel évére és az azt követő két évre vonatkozóan megfelel az Ötv. 88. §-ában foglaltaknak. (Az önkormányzatnak az I. 5. pontot kizárólag abban az esetben kell kitöltenie, amennyiben az igénybejelentésben megjelölt beruházásához hitelt kíván felvenni!) |
 
-| Felhalmozási célú pénzeszköz átvétel (önkormányzati körön belül): | ............... ezer forint |
+| Önkormányzat neve | Összesen | I. ütemév | II. ütemév | III. ütemév |
 
-| Részvények, kárpótlási jegyek, államkötvények, egyéb értékpapírok értékesítése: | ............... ezer forint |
+| .év | .év | .év | .év |
 
-| Osztalék- és hozambevétel: | ............... ezer forint |
+| I.5.1. Saját folyó bevétel |  |  |  |  |
 
-| Egyéb (rövid megnevezéssel): | ............... ezer forint |
+| Helyi adók |  |  |  |  |
 
-| Összesen: | ............... ezer forint |
+| Illetékbevételek |  |  |  |  |
 
-| I.5. Az egy érdekeltségi egységre jutó költség (szennyvízberuházás esetén): | ............... ezer forint/bekötés. |
+| Bírságok |  |  |  |  |
 
-## I.6. A képviselő-testület/közgyűlés az önkormányzat korrigált saját folyó bevételét a helyi önkormány-zatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 88. §-a szerint a beruházási adatlap szerinti ütemezésben az alábbiak szerint igazolja [Cct. 10. § (3) bek. b) pont]. Ezen adatlappal egyidejűleg nyilatkozik, hogy az önkormányzat hitelkérelme legalább a hitelfelvétel évére és az azt követő két évre vonatkozóan megfelel az Ötv. 88. §-ában foglaltaknak. (Az önkormányzatnak az I. 6. pontot kizárólag abban az esetben kell kitöltenie, amennyiben az igénybejelentésben megjelölt beruházásához hitelt kíván felvenni!)
+| Kamatbevételek |  |  |  |  |
 
-## Ezer forintra kerekítve
+| Egyéb sajátos bevételek |  |  |  |  |
 
-| No. | Megnevezés | Összesen | Ebből |
+| I.5.2. Rövid lejáratú kötelezettségek [az 1990. évi LXV. törvény 88. § (3) bekezdésének c) pontja szerint] |  |  |  |
 
-| ............. | ............. | ............. | ............. | ............. |
+| Tőke- és kamattörlesztés |  |  |  |  |
 
-| éves ütemek |
+| Lízingdíj |  |  |  |  |
 
-| 1. | 2. | 3. | 4. | 5. | 6. |
+| I.5.3. Korrigált saját folyó bevétel [(I.5.1.–I.5.2.) x 0,7] |  |  |  |
 
-| 1. | Saját folyó bevétel |  |  |  |  |  |  |
+| I.5.4. Az önkormányzat által adott év(ek)ben még vállalható fizetési kötelezettségek (az önkormányzat részére legfeljebb ezen összeg erejéig bocsátható ki hitelígérvény) |  |  |  |
 
-| 1.1. | Helyi adók |  |  |  |  |  |  |
+## II. Kötelező feladat ellátását szolgáló vagyon korábbi elidegenítése
 
-| 1.2. | Illetékbevételek |  |  |  |  |  |  |
+## Az önkormányzat az igénybejelentést megelőző tíz évben az igénybejelentésben megjelölt ugyanazon kötelező feladat ellátását szolgáló vagyonát nem idegenítette el/elidegenítette (a megfelelő szöveg aláhúzandó). Amennyiben az önkormányzat az igénybejelentést megelőző tíz évben e vagyonát elidegenítette, úgy nyilatkozik, hogy az elidegenítést műszaki vagy szakmai okok tették szükségessé. Az elidegenítésből befolyt vételárat vagy annak megfelelő összeget az önkormányzat saját forrásként a fenti beruházásra biztosítja [Cct. 19. § (2) bek.].
 
-| 1.3. | Bírságok |  |  |  |  |  |  |
-
-| 1.4. | Kamatbevételek |  |  |  |  |  |  |
-
-| 1.5. | Egyéb sajátos bevételek |  |  |  |  |  |  |
-
-| 2. | Rövid lejáratú kötelezett- ségek [az 1990. évi LXV. törvény 88. § (6) bekezdése szerint] |  |  |  |  |  |  |
-
-| 2.1. | Tőke- és kamattörlesztés |  |  |  |  |  |  |
-
-| 2.2. | Lízingdíj |  |  |  |  |  |  |
-
-| 3. | Korrigált saját folyó bevétel [(1.-2.) × 0,7] |  |  |  |  |  |  |
-
-| 4. | Az önkormányzat által adott év(ek)ben még vállalható fizetési kötelezettségek (az önkormányzat részére legfeljebb ezen összeg erejéig bocsátható ki hitelígérvény) (3.4.) |  |  |  |  |  |  |
-
-## II. A településrendezési tervvel és a települési környezetvédelmi programmal való összhang
-
-## 1. A képviselő-testület/közgyűlés igazolja, hogy a címzett/céltámogatással megvalósítandó beruházás a ...... számú képviselő-testületi/közgyűlési rendeletben elfogadott településrendezési tervvel összhangban van.
-
-## 2. A képviselő-testület/közgyűlés igazolja, hogy a címzett/céltámogatással megvalósítandó beruházás a ...... számú tervvel és a ...... számú képviselő-testületi/közgyűlési határozatban elfogadott környezetvédelmi programmal összhangban van.
-
-## III. Tulajdonjog
-
-## A képviselő-testület/közgyűlés igazolja, hogy a címzett/céltámogatással megvalósítandó beruházás (kivéve szennyvízcsatorna, egészségügyi gép-műszer beszerzés) az önkormányzat kizárólagos tulajdonában lévő teher-, per- és igénymentes ingatlanon valósul meg.
-
-## IV. Kötelező feladat ellátását szolgáló vagyon korábbi elidegenítése
-
-## Az önkormányzat az igénybejelentést megelőző tíz évben az igénybejelentésben megjelölt ugyanazon kötelező feladat ellátását szolgáló vagyonát nem idegenítette el/elidegenítette (a megfelelő szöveg aláhúzandó).
-
-## Amennyiben az önkormányzat az igénybejelentést megelőző tíz évben e vagyonát elidegenítette, úgy nyilatkozik, hogy az elidegenítést műszaki vagy szakmai okok tették szükségessé. Az elidegenítésből befolyt vételárat vagy annak megfelelő összeget az önkormányzat saját forrásként a fenti beruházásra biztosítja [Cct. 19. § (2) bek.].
-
-## Kelt: ................................, .................... év ..................................... hó ................ nap
-
-| .......................................... | .................................................... |
-
-| Jegyző | polgármester |
+## Kelt: ..........................................., 20.... év ..................... hó ........... nap
 
 ## P. H.
 
-## Eredeti aláírásokkal, vagy:
+| .......................................... ................................................. polgármester jegyző |
 
-## a kiadmány hiteléül:
+## Eredeti aláírásokkal, vagy: a kiadmány hiteléül:
 
-## .............................................
+| ............................................................... (aláírás, dátum, bélyegző)” |
 
-## (aláírás, dátum, pecsét)
-
-## Melléklet: 30 napnál nem régebbi tulajdoni lap
-
-## C) A címzett és céltámogatási igénybejelentés 3. dokumentuma
+## C) A céltámogatási igénybejelentés 3. dokumentuma
 
 ## Részletes költségszámítás
 
-| Azonosító jel; anyag; technológia; építési osztály; jellemző méret | Mennyiség (víztelenítéssel, közútkezelői előírás szerinti teljes, félpályás úthelyreállítással érintett szakasz hossza stb.) | Egységár (tervezői költségszámítás ezer Ft/jellemző méret) | Számított költség (mennyiség × egységár) ezer forintra kerekítve |
+| Kód | Egészségügyi gép-műszerek megnevezése | Beszerzett mennyiség (db) | Egységár (Ft) | Számított költség (mennyiség × egységár/E Ft/) ezer forintra kerekítve |
 
-| Előzetesen felszámított, de le nem vonható ÁFA25: |  |
+| 01 | Endoszkópok |  |  |  |
 
-| Tervezői költségszámítás alapján számított költség26: |  |
+| 02 | Elektrokardiografok – Elektrokardioszkópok |  |  |  |
 
-## 25 Akkor kell kitölteni, ha a tervezői egységár ÁFÁ-t nem tartalmaz.
+| 03 | Pacemakerek |  |  |  |
 
-## 26 A jelzett összegnek meg kell egyeznie a beruházási VII. táblázatánál feltüntetett összeggel.
+| 04 | Betegmegfigyelő és -ellenőrző rendszerek |  |  |  |
 
-## Kelt: ................., ........ év ........ hó ........ nap
+| 05 | Újraélesztés eszközei |  |  |  |
 
-## P. H.
+| 08 | Hőmérők, Bőrhőmérők |  |  |  |
 
-## ..................................................
+| 11 | EEG-k, EEG analizátorok, EEG integrátorok |  |  |  |
 
-## polgármester
+| 20 | Telemetrikus készülékek |  |  |  |
 
-## D) A címzett és céltámogatási igénybejelentés 4. dokumentuma
+| 23 | Légzésfunkciós vizsgálók, ergométerek |  |  |  |
 
-## D) A címzett és céltámogatási igénybejelentés 4. Dokumentuma
+| 29 | Altatók, altató-lélegeztetők |  |  |  |
+
+| 30 | Lélegeztetők |  |  |  |
+
+| 32 | Extrakorporális keringést biztosítók |  |  |  |
+
+| 34 | Oxigénterápiás eszközök, hiperborikus kamrák |  |  |  |
+
+| 38 | Szívóberendezések |  |  |  |
+
+| 39 | Inkubátorok |  |  |  |
+
+| 41 | Speciális ágyak, ágymérlegek |  |  |  |
+
+| 42 | Dializáló berendezések |  |  |  |
+
+| 45 | Termoterápiás készülékek |  |  |  |
+
+| 50 | Inhalátorok – Aerosolok |  |  |  |
+
+| 54 | Képalkotós ultrahang diagnosztikai készülékek |  |  |  |
+
+| 55 | Röntgen diagnosztikai berendezések |  |  |  |
+
+| 57 | Nukleárdiagnosztika készülékei |  |  |  |
+
+| 58 | Nukleárterápia készülékei |  |  |  |
+
+| 65 | Műtő-, vizsgáló asztalok, székek |  |  |  |
+
+| 66 | Műtő-, vizsgáló lámpák |  |  |  |
+
+| 69 | Fertőtlenítő készülékek – adagolók |  |  |  |
+
+| 70 | Betegszállítás eszközei |  |  |  |
+
+| 77 | Haenmatológiai – szerológiai készülékek |  |  |  |
+
+| 79 | Ionkoncentráció és vérgáz analizátorok |  |  |  |
+
+| 88 | Központi gázellátó berendezések |  |  |  |
+
+| 97 | Volumetriás adagolók (motoros fecskendő/perfusor, infúziós pumpa/infusor) |  |  |  |
+
+| 98 | Defibrillátorok (külön is – nem csak resuscitációs egység részeként) |  |  |  |
+
+| 99 | Vérmentő rendszerek (cellsaver) |  |  |  |
+
+| 100 | Betegágy melletti gyorsdiagnosztika laboratóriumi eszközei |  |  |  |
+
+| 101 | Intenzív- és sürgősség ápolás technika eszközei (például: mozgatók, emelők, betegvédők) |  |  |  |
+
+| 102 | Enteralis táplálás eszközei |  |  |  |
+
+| 103 | Háttérben képalkotó diagnosztika (CT, MRI) |  |  |  |
+
+| 104 | Betegágy melletti gyorsdiagnosztika képalkotó eszközei (például: sonograph, doppler) |  |  |  |
+
+| 105 | Neurostimulatorok |  |  |  |
+
+| 106 | Relaxometerek |  |  |  |
+
+| 95 | A fentiekben fel nem sorolt egyéb, az aneszteziológiai, intenzív terápiás, sürgősségi betegellátást közvetlenül szolgáló eszközök |  |  |  |
+
+| 96 | Összesen (nettó): |  |  |  |
+
+|  | Előzetesen felszámított, de le nem vonható áfa: |  |  |  |
+
+|  | Számított költség (áfával): |  |  |  |
+
+| Kelt: ..........................................., 20.... év ..................... hó ........... nap |
+
+| P. H. |
+
+| .......................................... aláírás |
+
+## D) A céltámogatási igénybejelentés 4. dokumentuma
 
 ## IGAZOLÁS
 
-## céltámogatás igénylésénél a megvalósíthatósági tanulmány szakmai
+## céltámogatás igénylésénél a megvalósíthatósági tanulmány szakmai értékelése által összességében legelőnyösebb- nek tartott megoldás és a hatósági engedélyes dokumentáció, valamint az egészségügyi gép-műszer igénybejelentés azonosságáról
 
-## értékelése által összességében legelőnyösebbnek tartott megoldás és a hatósági engedélyes
+## A beruházó önkormányzat (a támogatás címzettje) neve:
 
-## dokumentáció, valamint az egészségügyi gép-műszer igénybejelentés azonosságáról
+## Az önkormányzat címe (megye, irányítószám, település, út, hsz.):
 
-## A beruházó önkormányzat (a támogatás címzettje) neve[^83]: .................................................………..
+## 1. társult önkormányzat neve:
 
-## A beruházó (társult) önkormányzatok neve: .....................................................................…….........
+## 2. társult önkormányzat neve:
 
-## ..........................................................................................................................................…...…........
+## 3. társult önkormányzat neve:
 
-## ..........................................................................................................................................….....…......
+## A beruházás helye:
 
-## A beruházás helye: .........................................................................................................…........….....
+## A beruházás műszaki tartalma:
 
-## A beruházás műszaki tartalma: .......................................................................................….........…...
+## Igazolom, hogy a támogatás címzettje a megvalósíthatósági tanulmányban bemutatott változatok közül a legelőnyösebb megoldásra kérte meg egészségügyi gép-műszer beszerzésnél a támogatást.
 
-## Igazolom, hogy
+| Kelt: ..........................................., 20.... év ..................... hó ........... nap |
 
-## 1. a támogatás címzettje a megvalósíthatósági tanulmányban bemutatott változatok közül a legelőnyösebb megoldásra kérte meg az építési/vízjogi létesítési engedélyt (melynek száma, kelte: .................................................................), illetve egészségügyi gép-műszer beszerzésnél a támogatást.
+| P. H. |
 
-## 2. Az alábbi 2000 fő állandó népesség alatti település(ek) ivóvízbázis védelem és/vagy tartósan magas talajvízállás (a megfelelő részt aláhúzással kell jelölni) szempontjából indokolt a beruházásban való részvétele.
+| .......................................... aláírás |
 
-## Az érintett 2000 fő alatti állandó népességű települések:
-
-|  |  | Önkormányzat neve | Szakmai ok [a megfelelő betűjel(ekk)el kérjük jelezni] I = ivóvízbázis védelem T = tartósan magas talajvízállás |
-
-|  | 1. | .................................................. | .................................................. |
-
-|  | 2. | .................................................. | .................................................. |
-
-|  | 3. | .................................................. | .................................................. |
-
-|  | 4. | .................................................. | .................................................. |
-
-|  | 5. | .................................................. | .................................................. |
-
-|  | 6. | .................................................. | .................................................. |
-
-|  | 7. | .................................................. | .................................................. |
-
-|  | 8. | .................................................. | .................................................. |
-
-|  | 9. | .................................................. | .................................................. |
-
-|  | 10. | .................................................. | .................................................. |
-
-|  | 11. | .................................................. | .................................................. |
-
-|  | 12. | .................................................. | .................................................. |
-
-## Kelt: ................., ........ év ........ hó ........ nap
-
-## P. H.
-
-## ..................................................
-
-## aláírás[^84]
-
-## E) A címzett és céltámogatási igénybejelentés 5. dokumentuma
-
-## NYILATKOZAT
-
-## a ............... számú képviselő-testületi/közgyűlési határozat alapján[^85]
-
-## I.
-
-## A ........................................................................ önkormányzat képviselő-testülete/közgyűlése a szennyvíz-csatorna-hálózat építése mellett döntött, mivel az érintett területre vonatkozóan az ingatlantulajdonosok legalább 80%-a vállalta a hálózatra való bekötést.
-
-## A 80%-os bekötési arányon túl az önkormányzat képviselő-testülete/közgyűlése igazolja, hogy kilométerenként a 30 (községekben), illetve az 50 (városokban) rákötés biztosított.
-
-## Kelt: ................., ........év ........ hó ........ nap
-
-## P. H.
-
-| .................................................. | .................................................. |
-
-| jegyző | polgármester |
-
-## II.
-
-## Abban az esetben kell kitölteni, ha az önkormányzat az igénybejelentést megelőzően szennyvízcsatorna-hálózat megvalósítására céltámogatásban részesült (a Cct. 5. számú melléklet I. pont 3. pontja szerint nem igényelhet támogatást az az önkormányzat, ahol a bekötések száma a meglévő szennyvízcsatorna-hálózat 1 kilométerére vonatkozóan a városokban az 50, a községekben a 30 bekötést nem éri el). E törvényi feltétel teljesítésének igazolására be kell mutatni a korábbi években megvalósult csatornaberuházások esetében az alábbiakat (ha több beruházásról van szó, úgy beruházásonként külön adatlapokon kell nyilatkozni).
-
-|  | Támogatást jóváhagyó törvény, közlemény száma: | ................................................................................................... |
-
-|  | melléklet száma:......................................... | sorszám:..................................................................................... |
-
-|  | beruházás megnevezése: | ................................................................................................... |
-
-|  | beruházási összköltség: | ................................................................................................... |
-
-|  | a beruházás nyomvonalán lévő ingatlanok száma | ........................................................................................... (db) |
-
-|  | a beruházás teljes nyomvonalán vezetékes ivóvíz szolgáltatásba bekötött ingatlanok száma | ........................................................................................... (db) |
-
-|  | a beruházás nyomvonalán a csatornába bekötött ingatlanok száma | ........................................................................................... (db) |
-
-|  | az 1 km-re jutó bekötések száma | ........................................................................................... (db) |
-
-## (1 km szennyvízcsatorna-hálózaton olyan gyűjtőcsatorna értendő, melyre szennyvízbekötő vezetékkel csatlakozni lehet. Nem értendők a gyűjtőcsatorna fogalmába az olyan különböző funkciójú szennyvízvezetékek mint például a településeket összekötő térségi vezeték, a szennyvizet az átemelőből a gravitációs csatornába juttató nyomóvezeték, a bekötésre már nem használt főgyűjtő szakasz stb.)
-
-## Kelt: ................., ........év ........ hó ........ nap
-
-## P. H.
-
-| .................................................. | .................................................. |
-
-| jegyző | polgármester |
-
-## Hatósági igazolás (az I. fokú vízügyi hatóság tölti ki)
-
-## Igazolom, hogy a fenti II. pontban megjelölt szennyvízcsatorna-hálózat megvalósítására vonatkozó – az önkormányzat által közölt adatok – a valóságnak megfelelnek.
-
-## Kelt: ................., ........év ........ hó ........ nap
-
-## P. H.
-
-## ..................................................
-
-## igazgató
-
-## F)[^86]
-
-## G)[^87] A címzett és céltámogatási igénybejelentés 7. dokumentuma
+## G) A céltámogatási igénybejelentés 7. dokumentuma
 
 ## NYILATKOZAT
 
@@ -626,7 +372,7 @@
 
 ## b) az önkormányzatnak az államháztartás alrendszereiből folyósított támogatásból eredő lejárt és ki nem egyenlített tartozása nincs;
 
-## c) a támogatással létrejött létesítmény működtetésének fedezetét
+## c) a támogatással létrejött egészségügyi gép-műszer működtetésének fedezetét
 
 ## 1. az önkormányzat saját forrása, és/vagy
 
@@ -638,47 +384,26 @@
 
 ## Tudomásul veszem, hogy
 
-## a) amennyiben az önkormányzat az igénybejelentésben eltér a beruházási koncepciónak a Kormány által jóváhagyott, az ÖTM-mel és szakminisztériummal egyeztetett változatától (a támogatható műszaki tartalom, valamint a bevonható önkormányzati saját forrás vonatkozásában), úgy a szaktárca erről szóló - előzetesen az érintett önkormányzat tudomására hozott - nyilatkozatában az ÖTM felé kezdeményezi a támogatási javaslat felülvizsgálatát;
+## a) amennyiben az önkormányzat az igénybejelentésben eltér a beruházási koncepciónak a helyi önkormányzatokért felelős miniszterrel és a szakminiszterrel egyeztetett változatától (a támogatható műszaki tartalom, valamint a bevonható önkormányzati saját forrás vonatkozásában), úgy a szakminiszter erről szóló – előzetesen az érintett önkormányzat tudomására hozott – nyilatkozatában a helyi önkormányzatokért felelős miniszter felé kezdeményezi a támogatási javaslat felülvizsgálatát;
 
-## b) ha az Országgyűlés által elfogadott új címzett támogatásokról szóló törvény adatai eltérnek a benyújtott törvényjavaslatétól, úgy az önkormányzat a törvénynek megfelelően - az ÖTM és a szakminisztériummal történő egyeztetést követően - módosítja a címzett támogatás igénybejelentésének dokumentumait. Az egyeztetett tartalmú módosítás hiányában finanszírozási szerződés nem köthető;
+## b) 60 napon túli köztartozás esetén az önkormányzatot a köztartozás megfizetéséig a támogatás nem illeti meg, az esedékes támogatások folyósítása az Ámr. 151. §-ának (2) bekezdése szerint felfüggesztésre kerül, illetve az Áht. 13/A. §-ának (6) bekezdése alapján az esedékes támogatás a köztartozások megfizetése érdekében – a támogatás ellenében vállalt kötelezettségeket nem érintő módon – visszatartásra kerülhet:
 
-## c) 60 napon túli köztartozás esetén az önkormányzatot a köztartozás megfizetéséig a támogatás nem illeti meg, az esedékes támogatások folyósítása az Ámr. 151. §-ának (2) bekezdése szerint felfüggesztésre kerül, illetve az Áht. 13/A. §-ának (6) bekezdése alapján az esedékes támogatás a köztartozások megfizetése érdekében - a támogatás ellenében vállalt kötelezettségeket nem érintő módon - visszatartásra kerülhet;
+## c) a támogatás kedvezményezettjének megnevezése, a támogatás tárgya, a támogatás összege, a támogatott program megvalósítása helye az Ámr.-ben szabályozott módon nyilvánosságra hozhatók;
 
-## d) a támogatás kedvezményezettjének megnevezése, a támogatás tárgya, a támogatás összege, a támogatott program megvalósítási helye az Ámr.-ben szabályozott módon nyilvánosságra hozhatók;
+## Hozzájárul, hogy
 
-## e)
+## a) a köztartozások – az Áht. 13/A. § (4) bekezdésében foglaltak szerint – figyelemmel kísérése céljából a pályázó adószámát, társadalombiztosítási törzsszámát, társadalombiztosítási folyószámlaszámát a Kincstár, illetve a támogatást nyújtó szerv felhasználja a lejárt köztartozások teljesítése, illetőleg az adósság bekövetkezése tényének és összegének megismeréséhez;
 
-## Hozzájárulok, hogy
-
-## a) a köztartozások - az Áht. 13/A. § (4) bekezdésében és az e rendelet 92. §-ának (4) bekezdésében foglaltak szerint - figyelemmel kísérése céljából a pályázó adószámát vagy adóazonosító jelét, társadalombiztosítási azonosító jelét, társadalombiztosítási folyószámlaszámát a Kincstár, illetve a támogatást nyújtó szerv felhasználja a lejárt köztartozások teljesítése, illetőleg az adósság bekövetkezése tényének és összegének megismeréséhez;
-
-## b) az igénybejelentés szabályszerűségét és a támogatás rendeltetésszerű felhasználását az ÖTM és a szakminisztériumok, valamint az RFT ellenőrizzék;
+## b) az igénybejelentés szabályszerűségét és a támogatás rendeltetésszerű felhasználását a helyi önkormányzatokért felelős miniszter és a szakminiszter, valamint a Regionális Egészségügyi Tanács, illetve a Területi Vízgazdálkodási Tanács ellenőrizzék;
 
 ## c) a Kincstár által működtetett monitoring rendszer a jogszabályban meghatározott jogosultak (döntéshozók, előirányzat-kezelők, Monitoring Bizottságok) számára hozzáférési lehetőséget biztosíthasson a pénzügyi adatbázishoz.
 
-## Kelt: ..........., 200.... év ........ hó .... nap
+| Kelt: ..........................................., 20.... év ..................... hó ........... nap |
 
-## P. H.
+| P. H. |
 
-## ......................
+| .......................................... polgármester |
 
-## aláírás
+5/A. melléklet adattartalma a 19/2005. (II. 11.) Korm. rendelethez[^61]
 
-5/A. számú melléklet a 19/2005. (II. 11.) Korm. rendelethez
-
-[^72]: A 4. számú melléklet A) része a 106/2006. (IV. 28.) Korm. rendelet 15. § (1)–(4) bekezdése szerint módosított szöveg.
-[^73]: Címzett vagy cél szövegrészt kell beírni.
-[^74]: Közös beruházás esetén a megállapodás szerint megbízott önkormányzat neve és címe.
-[^75]: A módosított Cct. melléklete szerint támogatható műszaki tartalom megnevezése – azonosításra alkalmas módon – tömör mondatban.
-[^76]: A támogatásban nem részesíthető műszaki tartalom jelzése esetén a VII. és IX. táblázat B) pontjában összegnek kell szerepelnie.
-[^77]: A módosított Cct. szerint címzett támogatásban részesíthető, illetve a törvény adott évre érvényes mellékletében felsorolt céloknak és feltételeknek megfelelő műszaki tartalom. Folyamatban lévő beruházásoknál a támogatásban még nem részesült beruházási költséget a módosított Cct. 11. § (1) és (2) bekezdésében foglaltak figyelembevételével kell meghatározni, és a támogatás első évét megelőző év oszlopában az előző évek költségeit összevonva feltüntetni. Az 1999–2000. években a megvalósíthatósági tanulmány és a hatósági engedélyhez tartozó tervdokumentáció tervezői költségét a támogatás első évének oszlopában kell figyelembe venni.
-[^78]: Az építési, illetve vízjogi létesítési engedélyben foglalt azon műszaki tartalom, mely nem részesíthető támogatásban, ideértve a tervezői egységár alapján számított költséget meghaladó többletköltséget.
-[^79]: Céltámogatásoknál, illetve címzett támogatásnál – támogatott műszaki tartalomra vonatkozó – beruházási összköltség (1. oszlop 4. sor) nem haladhatja meg a részletes költségszámítással meghatározott költséget.
-[^80]: Amennyiben a felsorolásra nem elegendő a biztosított hely, külön lapon kell folytatni a felsorolást.
-[^81]: A fő- és melléklétesítményeket kell felsorolni.
-[^82]: A 4. számú melléklet B) része a 106/2006. (IV. 28.) Korm. rendelet 15. § (5) bekezdése szerint módosított szöveg.
-[^83]: Az adatoknak meg kell egyeznie az igénybejelentő lap és a beruházási adatalap adataival.
-[^84]: A hitelesítés fénymásolatban nem fogadható el.
-[^85]: Közös beruházásnál minden társult önkormányzatnak be kell csatolnia a nyilatkozatot.
-[^86]: A 4. számú melléklet F) részét a 106/2006. (IV. 28.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte.
-[^87]: A 4. számú melléklet G) pontja a 29/2007. (II. 28.) Korm. rendelet 6. § (2) bekezdése, a 401/2007. (XII. 27.) Korm. rendelet 62. § (9) bekezdésének e) pontja, a 292/2009. (XII. 19.) Korm. rendelet 247. § (3) bekezdése, a 314/2009. (XII. 28.) Korm. rendelet 30. §-a szerint módosított szöveg. [Ez utóbbi módosítás nem vezethető át.]
+[^61]: Az 5/A. melléklet a 36/2010. (II. 26.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
