@@ -1,0 +1,1 @@
+## „(5) A Regionális Egészségügyi Tanács a Cct. 8. számú mellékletében szereplő szempontok alapján, május 5-ig megküldi a támogatási döntésre vonatkozó javaslatát a helyi önkormányzatokért felelős miniszternek.”
