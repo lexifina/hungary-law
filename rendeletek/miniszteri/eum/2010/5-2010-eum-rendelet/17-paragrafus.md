@@ -1,0 +1,1 @@
+17. § Nem lép hatályba az otthoni szakápolási tevékenységről szóló 20/1996. (VII. 26.) NM rendelet módosításáról szóló 26/2009. (VIII. 5.) EüM rendelet 2. § (2) bekezdésének az otthoni szakápolási tevékenységről szóló 20/1996. (VII. 26.) NM rendelet 2. § (3) bekezdés e) pontját megállapító rendelkezése.
