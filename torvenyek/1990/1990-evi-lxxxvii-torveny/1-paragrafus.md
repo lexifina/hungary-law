@@ -18,6 +18,8 @@ d) az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény alapján meg
 
 e) a villamos energiáról szóló 2007. évi LXXXVI. törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
 
-f) a földgázellátásról szóló 2008. évi XL. törvény hatálya alá tartozó termékek vagy szolgáltatások árára.
+f) a földgázellátásról szóló 2008. évi XL. törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
+
+g) pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben szabályozott szolgáltatási díjakra.
 
 (3) E törvény alkalmazásában gazdasági tevékenység: nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében történő termelő vagy szolgáltatási tevékenység folytatása.
