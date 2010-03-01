@@ -1,4 +1,4 @@
-4. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez[^222]
+4. számú melléklet a 203/1998. (XII. 19.) Korm. rendelethez[^220]
 
 A Magyar Bányászati és Földtani Hivatal számára szolgáltatandó, a földtani kutatás során nyert földtani adatok köre és az adatszolgáltatás teljesítésének határideje
 
@@ -42,7 +42,7 @@ II. Az adatszolgáltatás teljesítésének határideje
 
 1. számú függelék
 
-a 203/1998. (XII. 19.) Korm. rendelethez[^223]
+a 203/1998. (XII. 19.) Korm. rendelethez[^221]
 
 ## BÁNYAFELÜGYELETI SZOLGÁLATI IGAZOLVÁNY
 
@@ -76,7 +76,7 @@ a 203/1998. (XII. 19.) Korm. rendelethez[^223]
 
 2. számú függelék
 
-a 203/1998. (XII. 19.) Korm. rendelethez[^224]
+a 203/1998. (XII. 19.) Korm. rendelethez[^222]
 
 Nyilvántartás a szolgálati igazolvánnyal és jelvénnyel ellátott
 
@@ -86,6 +86,6 @@ bányafelügyeleti hatósági feladatokat végző személyekről
 
 | neve | szül. helye, ideje | lakóhelye |
 
-[^222]: A Vhr. 4. számú mellékletét a 268/2006. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^223]: A Vhr. 1. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^224]: A Vhr. 2. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta a szövegbe.
+[^220]: A Vhr. 4. számú mellékletét a 268/2006. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^221]: A Vhr. 1. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta be, szövege a 145/2006. (VII. 11.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^222]: A Vhr. 2. számú függelékét a 106/2005. (VI. 16.) Korm. rendelet 39. §-ának (2) bekezdése iktatta a szövegbe.

@@ -1,8 +1,8 @@
-25/A. §[^162] (1) Pénzügyi biztosítékként olyan eredeti bankgarancia fogadható el, amely
+25/A. §[^160] (1) Pénzügyi biztosítékként olyan eredeti bankgarancia fogadható el, amely
 
 a) a Bt. 22/A. §-a (8) bekezdésében meghatározott összegre szól és az engedélyezésre kért kutatási időszakra érvényes, valamint a garanciát vállaló hitelintézet kielégíti a Bt. 22/A. §-a (8) bekezdésében támasztott követelményeket,
 
-b)[^163] okiratban a garanciát vállaló hitelintézet arra vállal kötelezettséget, hogy a Bt. 22/A. §-ának (9) bekezdése szerinti esetekben, az MBFH igénybejelentése alapján, feltétel nélkül – legfeljebb 3 banki napon belül – teljesít,
+b)[^161] okiratban a garanciát vállaló hitelintézet arra vállal kötelezettséget, hogy a Bt. 22/A. §-ának (9) bekezdése szerinti esetekben, az MBFH igénybejelentése alapján, feltétel nélkül – legfeljebb 3 banki napon belül – teljesít,
 
 c) kizárólag a bányafelügyelet jóváhagyásával vonható vissza, vagy visszavonhatatlan.
 
@@ -14,7 +14,7 @@ a) a bankgaranciát nyújtó hitelintézet megnevezését, bankszámlaszámát,
 
 b) az Európai Gazdasági Térség tagállamában székhellyel nem rendelkező külföldi hitelintézet garanciája esetén a felülgarantáló bank (hitelintézet) megnevezését, bankszámlaszámát,
 
-c)[^164] a megbízó nevét, címét, pénzforgalmi számlaszámát, adószámát,
+c)[^162] a megbízó nevét, címét, pénzforgalmi számlaszámát, adószámát,
 
 d) a garancia összegét számmal és betűvel,
 
@@ -38,6 +38,6 @@ e) a pénzügyi biztosíték visszavonása, felhasználása, érvényesítése, 
 
 f) a rendelkezésre álló, felhasználható szabad keret összege, lejárat szerint részletezve.
 
-[^162]: A Vhr. 25/A. §-t a 145/2006. (VII. 11.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2006. augusztus 26. napját követően indult ügyekben kell alkalmazni.
-[^163]: A Vhr. 25/A. §-a (1) bekezdésének b) pontja a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
-[^164]: A Vhr. 25/A. § (3) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^160]: A Vhr. 25/A. §-t a 145/2006. (VII. 11.) Korm. rendelet 6. §-a iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2006. augusztus 26. napját követően indult ügyekben kell alkalmazni.
+[^161]: A Vhr. 25/A. §-a (1) bekezdésének b) pontja a 268/2006. (XII. 20.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^162]: A Vhr. 25/A. § (3) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## (A Bt. 42. §-ához)
 
-26. § (1)[^165] A bánya bezárása (megszüntetése), a mező felhagyása és a tájrendezés befejezése tervezhető a kitermelésre készített műszaki üzemi tervben [14. § (3) bekezdése] vagy külön e célra kidolgozott műszaki üzemi tervben.
+26. § (1)[^163] A bánya bezárása (megszüntetése), a mező felhagyása és a tájrendezés befejezése tervezhető a kitermelésre készített műszaki üzemi tervben [14. § (3) bekezdése] vagy külön e célra kidolgozott műszaki üzemi tervben.
 
 (2) A bánya bezárására (megszüntetésére), a mező felhagyására készített műszaki üzemi tervnek tartalmaznia kell
 
@@ -42,7 +42,7 @@ f) a külön jogszabályban előírt környezetvédelmi engedélyt.
 
 (6) A feltárt ipartörténeti jelentőségű tárgyi emlékek értékesítése esetében a bányászati emlékek gyűjtésére és őrzésére alapított múzeumokat elővásárlási jog illeti meg.
 
-(7)[^166] A megszűnt föld alatti bánya nyitvamaradó térségének más célú hasznosítása a hatóság által – a külön jogszabályban meghatározottakon túlmenően – akkor engedélyezhető, ha
+(7)[^164] A megszűnt föld alatti bánya nyitvamaradó térségének más célú hasznosítása a hatóság által – a külön jogszabályban meghatározottakon túlmenően – akkor engedélyezhető, ha
 
 a) a bányavállalkozó a más célú hasznosítással érintett bányatérséggel kapcsolatban végrehajtotta a bányabezárás műszaki üzemi tervében előírt kötelezettségeit;
 
@@ -52,8 +52,8 @@ c) a hasznosító biztosítékot ad a nyitvamaradó bányatérséggel összefüg
 
 (8) A más célra hasznosított föld alatti bányatérségek felhagyását a bányafelügyelet engedélyezi. Az engedély iránti kérelemhez mellékelni kell a föld alatti bányatérségek felhagyására vonatkozó műszaki tervet.
 
-(9)[^167] Szénhidrogén mezők, mezőrészek esetében, amennyiben még létezik kitermelhető ásványvagyon, de annak kitermelése az adott feltételek mellett nem gazdaságos, a mező felhagyása helyett a bányavállalkozó kezdeményezheti a felszín alatti és a felszíni létesítmények biztonságba helyezésével a mező újra termelésbe állíthatóságának biztosítását, konzerválását.
+(9)[^165] Szénhidrogén mezők, mezőrészek esetében, amennyiben még létezik kitermelhető ásványvagyon, de annak kitermelése az adott feltételek mellett nem gazdaságos, a mező felhagyása helyett a bányavállalkozó kezdeményezheti a felszín alatti és a felszíni létesítmények biztonságba helyezésével a mező újra termelésbe állíthatóságának biztosítását, konzerválását.
 
-[^165]: A Vhr. 26. §-ának (1) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^166]: A Vhr. 26. § (7) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^167]: A Vhr. 26. § (9) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 19. §-a iktatta a szövegbe.
+[^163]: A Vhr. 26. §-ának (1) bekezdése a 106/2005. (VI. 16.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^164]: A Vhr. 26. § (7) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 147. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^165]: A Vhr. 26. § (9) bekezdését a 282/2003. (XII. 29.) Korm. rendelet 19. §-a iktatta a szövegbe.
