@@ -1,21 +1,15 @@
 ## 8. § A Kkt. 21. § (1) bekezdés g) pontjához kapcsolódóan a gépjármű üzemeltetője a 7. mellékletben meghatározott összegű bírságot köteles fizetni az abban hivatkozott jogszabályi rendelkezés megsértése esetében.
 
-## 9. § A Kormány a bírságolással kapcsolatos eljárás lefolytatására
+9. §[^2] (1) A Kormány a Kkt. 21. §-a szerinti bírságolással kapcsolatos eljárás lefolytatására a Rendőrséget jelöli ki.
 
-a) első fokon
+(2) A Kkt. 21. §-a szerinti bírságolással kapcsolatos
 
-aa) Heves, Borsod-Abaúj-Zemplén és Nógrád megyékre kiterjedő illetékességgel a Borsod-Abaúj-Zemplén megyei rendőrfőkapitányt,
+a) első fokú eljárás lefolytatására országos illetékességgel a Vas megyei rendőrfőkapitány,
 
-ab) Szabolcs-Szatmár-Bereg, Hajdú-Bihar, Jász-Nagykun-Szolnok megyékre kiterjedő illetékességgel a Szabolcs-Szatmár-Bereg megyei rendőrfőkapitányt,
+b) másodfokú eljárás lefolytatására országos illetékességgel a budapesti rendőrfőkapitány
 
-ac) Békés, Csongrád, Bács-Kiskun megyékre kiterjedő illetékességgel a Csongrád megyei rendőrfőkapitányt,
+rendelkezik hatáskörrel.
 
-ad) Vas, Győr-Moson-Sopron, Zala megyékre kiterjedő illetékességgel a Vas megyei rendőrfőkapitányt,
+(3) A bírságolással kapcsolatos eljárás során az ügyfél részére az eljárás irataiba való betekintés lehetőségét az ügyfél lakcíme vagy székhelye szerint illetékes rendőr-kapitányságon kell biztosítani, továbbá az ügyfél a 2–8. §-ban meghatározott jogszabályi rendelkezések megsértését igazoló képfelvételeket elektronikusan, egyedi azonosításra alkalmas módon is megtekintheti.
 
-ae) Baranya, Somogy, Tolna megyékre kiterjedő illetékességgel a Baranya megyei rendőrfőkapitányt,
-
-af) Fejér, Veszprém, Komárom-Esztergom megyékre kiterjedő illetékességgel a Fejér megyei rendőrfőkapitányt,
-
-ag) Budapestre és Pest megyére kiterjedő illetékességgel a budapesti rendőrfőkapitányt,
-
-b) másodfokon az országos rendőrfőkapitányt
+[^2]: A 9. § a 348/2009. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (4) bekezdését.
