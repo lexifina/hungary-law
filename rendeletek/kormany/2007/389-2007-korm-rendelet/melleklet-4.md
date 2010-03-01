@@ -1,3 +1,3 @@
-4. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^74]
+4. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^75]
 
-[^74]: A 4. számú melléklet a 287/2008. (XI. 28.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^75]: A 4. számú melléklet a 287/2008. (XI. 28.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
