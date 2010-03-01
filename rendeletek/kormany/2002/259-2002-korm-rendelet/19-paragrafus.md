@@ -1,8 +1,8 @@
 19. § (1) A szolgáltató tevékenység engedélyezésére vonatkozó rendelkezéseket csak az e rendelet hatálybalépését követően beadott kérelmek elbírálása során kell alkalmazni.
 
-(2)–(3)[^111]
+(2)–(3)[^126]
 
-(4)–(8)[^112]
+(4)–(8)[^127]
 
-[^111]: A 19. § (2)–(3) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 30. § (1) bekezdése b) pontjának bd) alpontja hatályon kívül helyezte.
-[^112]: A 19. § (4)–(8) bekezdését a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdés b) pontjának bd) alpontja hatályon kívül helyezte.
+[^126]: A 19. § (2)–(3) bekezdését a 339/2007. (XII. 15.) Korm. rendelet 30. § (1) bekezdése b) pontjának bd) alpontja hatályon kívül helyezte.
+[^127]: A 19. § (4)–(8) bekezdését a 376/2004. (XII. 28.) Korm. rendelet 25. § (1) bekezdés b) pontjának bd) alpontja hatályon kívül helyezte.

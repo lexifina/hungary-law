@@ -1,4 +1,4 @@
-14/B. §[^102] (1) A működést engedélyező szerv
+14/B. §[^117] (1) A működést engedélyező szerv
 
 a) a működési engedélyt visszavonja, ha a szolgáltató (intézmény, hálózat) megszűnt vagy szolgáltató tevékenységet nem végez;
 
@@ -66,4 +66,4 @@ k) alkalmazhatja a Gyvt.-ben meghatározott egyéb jogkövetkezményeket.
 
 (8) Az újabb gyermekek, illetve más ellátottak felvétele a (3) bekezdés c) pontjában foglaltaktól eltérő időpontig is megtiltható, ha az egyidejűleg alkalmazott más jogkövetkezmény azt indokolja. Ha a tilalmat megszegik, a működést engedélyező szerv a (3) bekezdésben meghatározott más jogkövetkezményt alkalmazhat.
 
-[^102]: A 14/B. §-t a 320/2009. (XII. 29.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még e módosító rendelet 20. § (9)–(10) bekezdését.
+[^117]: A 14/B. §-t a 320/2009. (XII. 29.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni. Alkalmazására lásd még e módosító rendelet 20. § (9)–(10) bekezdését.

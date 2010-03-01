@@ -1,4 +1,4 @@
-14/A. §[^101] (1) Ha a működést engedélyező szerv a 4. § (9) bekezdése szerinti hatóságot ellenőrzés lefolytatása céljából megkeresi, az a feladat- és hatáskörébe tartozó kérdésekben – ideértve a meleg étkeztetést nyújtó családi napközinek és a Gyvt. 41. §-ának (4) bekezdése szerinti ellátásnak, valamint a 4. § (9) bekezdésének cd) alpontja szerinti szolgáltató tevékenységnek az ÁNTSZ által történő ellenőrzése során a táplálkozás-egészségügyi és dietetikai feltételek teljesítését is – a szolgáltatónál (intézménynél, hálózatnál), a működést engedélyező szervvel együttműködve, huszonkét munkanapon belül ellenőrzést folytat le.
+14/A. §[^116] (1) Ha a működést engedélyező szerv a 4. § (9) bekezdése szerinti hatóságot ellenőrzés lefolytatása céljából megkeresi, az a feladat- és hatáskörébe tartozó kérdésekben – ideértve a meleg étkeztetést nyújtó családi napközinek és a Gyvt. 41. §-ának (4) bekezdése szerinti ellátásnak, valamint a 4. § (9) bekezdésének cd) alpontja szerinti szolgáltató tevékenységnek az ÁNTSZ által történő ellenőrzése során a táplálkozás-egészségügyi és dietetikai feltételek teljesítését is – a szolgáltatónál (intézménynél, hálózatnál), a működést engedélyező szervvel együttműködve, huszonkét munkanapon belül ellenőrzést folytat le.
 
 (2) A működést engedélyező szerv a 14. § (1) bekezdése szerinti ellenőrzést megelőzően legalább tizenöt munkanappal ellenőrzés lefolytatása céljából megkeresi
 
@@ -14,4 +14,4 @@ a) az ellenőrzésről készült jegyzőkönyv, illetve hivatalos feljegyzés m�
 
 b) az ügyben hozott döntését közli az első fokú működést engedélyező szervvel.
 
-[^101]: A 14/A. §-t a 320/2009. (XII. 29.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.
+[^116]: A 14/A. §-t a 320/2009. (XII. 29.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 20. § (2) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult ügyekben kell alkalmazni.

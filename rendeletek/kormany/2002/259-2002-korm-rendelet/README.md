@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-259-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2002-259-20-22.21 | 259/2002. (XII. 18.) Korm. rendelet |
+| 2010-03-01 | 2002-259-20-22.22 | 38/2010. (II. 26.) Korm. rendelet |
