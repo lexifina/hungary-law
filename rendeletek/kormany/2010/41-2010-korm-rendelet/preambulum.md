@@ -1,0 +1,1 @@
+A Kormány az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 49. §-a (3) bekezdésének f) pontjában, a kereskedelemről szóló 2005. évi CLXIV. törvény 12. §-a (1) bekezdésének b) és d) pontjában kapott felhatalmazás alapján – az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva – a következőket rendeli el:
