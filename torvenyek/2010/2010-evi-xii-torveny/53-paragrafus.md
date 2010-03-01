@@ -70,14 +70,6 @@ c) a közbeszerzésekről szóló 2003. évi CXXIX. törvény módosításáról
 
 d) a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló 2009. évi LII. törvény 9. §-a.
 
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2010. évi XII. törvényhez
 
 „5. számú melléklet a 2003. évi LX. törvényhez

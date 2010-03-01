@@ -1,5 +1,0 @@
-29. § A Bit. 49. §-ának (1) és (2) bekezdései helyébe a következő rendelkezések lépnek:
-
-„(1) A biztosító köteles meggyőződni arról, hogy az általa megbízott biztosításközvetítést végző természetes személy, vagy, ha a közvetítői tevékenységgel vállalkozást bízott meg, ennél a vállalkozásnál közvetítő tevékenységet végző természetes személy szerepel-e a felügyeleti nyilvántartásban.
-
-(2) A biztosító az általa alkalmazott vagy megbízott biztosításközvetítést végző természetes személyekről, vagy, ha a közvetítői tevékenységgel vállalkozást bízott meg, akkor erről a vállalkozásról, illetve az ennél a vállalkozásnál közvetítő tevékenységet végző természetes személyről köteles nyilvántartást vezetni. A nyilvántartás részletes szabályait az 5. számú melléklet 2. pontja tartalmazza. A biztosító köteles e nyilvántartásban az 5. számú melléklet 2. pontjában [az A) b) és f), valamint a B) b) alpont kivételével] meghatározott adatokban bekövetkezett változásokat a Felügyeletnek 30 napon belül bejelenteni.”

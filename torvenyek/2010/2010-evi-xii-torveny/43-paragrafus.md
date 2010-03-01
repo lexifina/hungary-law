@@ -1,3 +1,0 @@
-43. § A Vbit. 59. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A viszontbiztosító vezető állású személyei, egyéb vezetői, valamint érdemi ügyintézői kinevezésükkor (megválasztásukkor) kötelesek írásbeli nyilatkozatot tenni a viszontbiztosító részére arról, hogy ők vagy közeli hozzátartozójuk a viszontbiztosítónál, más biztosítónál vagy viszontbiztosítónál, biztosításközvetítői tevékenységet végző vállalkozásnál, vagy biztosítási szaktanácsadással foglalkozó vállalkozásnál rendelkeznek-e, illetve ha igen, mekkora és milyen névértékű közvetlen vagy közvetett tulajdoni hányaddal vagy ezek által kibocsátott értékpapírral.”
