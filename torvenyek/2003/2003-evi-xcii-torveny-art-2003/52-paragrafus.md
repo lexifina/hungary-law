@@ -26,7 +26,7 @@ f) külön törvény szerint befektetési szolgáltatási tevékenység végzés
 
 g) a vámhatóság és a jegyző,
 
-h) egyes adóterhet nem viselő járandóságokat (nyugdíjat, rehabilitációs járadékot, családi pótlékot) folyósító szerv,
+h) egyes adóterhet nem viselő járandóságot (nyugdíjat, rehabilitációs járadékot, anyasági támogatást) folyósító szerv,
 
 i) az engedélyt kiadó hatóság,
 
