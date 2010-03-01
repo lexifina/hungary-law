@@ -10,7 +10,7 @@
 
 1. § (1) A közbeszerzési eljárásban – ideértve a szerződés megkötését is – az ajánlatkérő köteles biztosítani, az ajánlattevő pedig tiszteletben tartani a verseny tisztaságát és nyilvánosságát.
 
-(2) A verseny tisztaságának és nyilvánosságának erősítése érdekében az ajánlatkérő és az ajánlattevő(k) átláthatósági megállapodást köthetnek egymással. A megállapodás alapján felkért független szakértő bevonásával (az általa nyújtott monitoring szolgáltatás igénybevételével) a felek előmozdíthatják a közbeszerzési eljárásra, valamint az annak alapján megkötött szerződésre vonatkozó jogszabályi előírások és a nyilvánosság követelményének érvényesülését.
+(2)
 
 (3) Az ajánlatkérőnek esélyegyenlőséget és egyenlő bánásmódot kell biztosítania az ajánlattevők számára.
 

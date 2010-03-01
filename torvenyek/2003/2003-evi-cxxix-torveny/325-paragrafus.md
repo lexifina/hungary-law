@@ -1,6 +1,6 @@
 325. § (1) A Közbeszerzési Döntőbizottság a jogorvoslati eljárást legkésőbb a 323. § (1)–(4) bekezdésének és a 324. §-nak megfelelő kérelem beérkezését követő munkanapon indítja meg.
 
-(2) Ha a kérelem a 324. § (1) bekezdése szerinti adatokat nem tartalmazza, vagy a 324. § (3) bekezdése szerinti díj befizetéséről szóló igazolást, illetőleg a meghatalmazott képviselő meghatalmazását nem csatolták, vagy – ha a kérelem e törvény második része szerinti közbeszerzéshez vagy annak mellőzéséhez kapcsolódik – a kérelmet nem elektronikus úton vagy elektronikus úton, de nem olvasható formában nyújtották be, a Közbeszerzési Döntőbizottság felhívja a kérelmezőt a hiányok öt napon belüli pótlására, és egyben figyelmezteti, hogy ha a kérelmet újból hiányosan nyújtja be, a Közbeszerzési Döntőbizottság azt el fogja utasítani.
+(2) Ha a kérelem a 324. § (1) bekezdése szerinti adatokat nem tartalmazza, vagy a 324. § (3) bekezdése szerinti díj befizetéséről szóló igazolást, illetőleg a meghatalmazott képviselő meghatalmazását nem csatolták, a Közbeszerzési Döntőbizottság felhívja a kérelmezőt a hiányok öt napon belüli pótlására, és egyben figyelmezteti, hogy ha a kérelmet újból hiányosan nyújtja be, a Közbeszerzési Döntőbizottság azt el fogja utasítani.
 
 (3) A Közbeszerzési Döntőbizottság a kérelmet – érdemi vizsgálat nélkül – öt napon belül végzéssel elutasítja, ha megállapítja, hogy
 

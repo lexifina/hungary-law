@@ -16,13 +16,15 @@ g) a közbeszerzéshez támogatást nyújtó, illetve a támogatás felhasznál�
 
 h) a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
 
-i) a Gazdasági Versenyhivatal.
+i) a Gazdasági Versenyhivatal;
+
+j) az átláthatósági biztos azzal az eljárással kapcsolatban, amelyben átláthatósági biztosként részt vesz vagy részt vett.
 
 (2) A Közbeszerzési Döntőbizottság hivatalból való eljárását
 
 a) az (1) bekezdés a)–f), valamint h) és i) pontja szerinti szervezet a közbeszerzési eljárást lezáró jogsértő döntés esetében az eredményhirdetést követő naptól, egyéb esetekben a vitatott ajánlatkérői döntés közzétételétől számított harminc napon belül,
 
-b) az (1) bekezdés g) pontja szerinti szervezet a jogsértés tudomásra jutásától számított harminc napon belül,
+b) az (1) bekezdés g) pontja szerinti szervezet vagy j) pontja szerinti személy a jogsértés tudomásra jutásától számított harminc napon belül,
 
 c) az (1) bekezdés szerinti szervezet a közbeszerzési eljárás mellőzésével történő beszerzés esetében a szerződés megkötésének időpontjától, illetőleg ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történő megkezdésétől számított egy éven belül
 

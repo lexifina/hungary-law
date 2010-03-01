@@ -7,3 +7,5 @@
 (3) A VI. fejezet szerint kell eljárni, amennyiben a közbeszerzés az ajánlatkérőnek a 163. §-ban meghatározott egy vagy több tevékenységének folytatásával és az azon kívüli tevékenységének folytatásával is összefügg, és nem állapítható meg, hogy a közbeszerzés elsősorban mely tevékenység ellátásához szükséges, illetve a közbeszerzés tárgya természetben nem osztható, illetőleg részekre bontása esetén nem használható megfelelően, feltéve, hogy az ajánlatkérő egyben a 162. § (1) bekezdésének a) pontja szerinti ajánlatkérőnek minősül.
 
 (4) E fejezet szerint kell eljárni akkor is, amennyiben a közbeszerzés az ajánlatkérőnek a 163. §-ban meghatározott egy vagy több tevékenységének folytatásával és egyben azon kívüli, de az VI. fejezet hatálya alá nem tartozó tevékenységének folytatásával is összefügg, és nem állapítható meg, hogy a közbeszerzés elsősorban mely tevékenység ellátásához szükséges, illetve a közbeszerzés tárgya természetben nem osztható, illetőleg részekre bontása esetén nem használható megfelelően.
+
+(5)

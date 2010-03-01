@@ -6,6 +6,6 @@
 
 (4) Ha a bíróság a keresettel megtámadott határozatot hatályon kívül helyezi és új eljárás lefolytatását rendeli el, határozatának tartalmaznia kell a Közbeszerzési Döntőbizottság megismételt eljárására vonatkozó utasításokat.
 
-(5) A bíróság határozatát – ha a per tárgya e törvény második része szerinti közbeszerzéshez vagy annak mellőzéséhez kapcsolódik – a meghozatalától számított nyolc napon belül a felek részére kézbesíteni kell.
+(5) A bíróság határozatát a meghozatalától számított nyolc napon belül a felek részére kézbesíteni kell.
 
 (6) A bíróság a 340. § (2) bekezdés f) pontját alkalmazó határozatát megküldi a Közbeszerzések Tanácsának.

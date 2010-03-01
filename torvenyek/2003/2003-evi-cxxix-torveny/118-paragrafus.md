@@ -1,4 +1,4 @@
-118. § (1) A részvételi szakasz eredményhirdetése során az ajánlatkérő köteles ismertetni a 116. § (2) bekezdése szerinti összegezésben foglalt adatokat. Az összegezést az eredményhirdetésen jelen levő jelentkezőknek át kell adni, a távollevő jelentkezőknek pedig az eredményhirdetés napján, az eredményhirdetést követően haladéktalanul elektronikus úton meg kell küldeni.
+118. § (1) A részvételi szakasz eredményhirdetése során az ajánlatkérő köteles ismertetni a 116. § (2) bekezdése szerinti összegezésben foglalt adatokat. Az összegezést az eredményhirdetésen jelen levő jelentkezőknek át kell adni, a távollevő jelentkezőknek pedig az eredményhirdetés napján, az eredményhirdetést követően haladéktalanul faxon vagy elektronikus úton meg kell küldeni.
 
 (2) Az összegezést a Közbeszerzések Tanácsának is meg kell küldeni az (1) bekezdésben előírt határidő lejártáig.
 

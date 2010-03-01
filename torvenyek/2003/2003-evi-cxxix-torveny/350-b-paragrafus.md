@@ -2,4 +2,4 @@
 
 (2) Ha a bíróság a közbeszerzési eljárás alapján megkötött szerződés részleges érvénytelenségét, illetve az érvénytelenség hiányát kifejezetten a 306/A. § (3) bekezdése alapján állapítja meg, bírságot köteles kiszabni, amelynek összege a szerződés értékének tíz százaléka.
 
-(3) A bíróság határozata ellen fellebbezésnek van helye, a másodfokú perre a 347. § (3) bekezdését és a 349. § (1) bekezdését alkalmazni kell.
+(3) A bíróság határozata ellen a határozat közlésétől számított nyolc napon belül fellebbezésnek van helye.

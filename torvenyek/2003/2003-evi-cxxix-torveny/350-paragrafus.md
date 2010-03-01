@@ -16,6 +16,6 @@ b) a felek a szerződéskötési moratóriumra [96/B. § (4) bekezdése, 99. § 
 
 (4) A perben a Pp. XX. fejezetét az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(5) A keresetlevelet a határozat kézbesítésétől számított tizenöt napon belül kell benyújtani a Közbeszerzési Döntőbizottsághoz. A keresetlevél – ha annak tárgya e törvény második része szerinti közbeszerzéshez vagy annak mellőzéséhez kapcsolódik – a Közbeszerzési Döntőbizottsághoz kizárólag elektronikus úton nyújtható be.
+(5) A keresetlevelet a határozat kézbesítésétől számított tizenöt napon belül kell benyújtani a Közbeszerzési Döntőbizottsághoz.
 
-(6) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – a keresetlevél beérkezését követő három munkanapon belül – ha annak tárgya e törvény második része szerinti közbeszerzéshez vagy annak mellőzéséhez kapcsolódik – elektronikus úton továbbítja a bírósághoz.
+(6) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – a keresetlevél beérkezését követő három munkanapon belül továbbítja a bírósághoz.

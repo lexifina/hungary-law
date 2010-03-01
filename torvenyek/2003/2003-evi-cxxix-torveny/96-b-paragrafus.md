@@ -4,7 +4,7 @@
 
 (2) Az ajánlattevőnek az ajánlatkérőhöz benyújtott kérelmében (a továbbiakban: előzetes vitarendezési kérelem) meg kell jelölnie az írásbeli összegezés vitatott pontját, javaslatát, észrevételét, valamint az álláspontját alátámasztó adatokat, tényeket, illetőleg az azt alátámasztó dokumentumokra hivatkoznia kell.
 
-(3) Az előzetes vitarendezési kérelmet elektronikus úton, a törvény harmadik része szerinti eljárásban faxon vagy elektronikus úton kell megküldeni az ajánlatkérő részére, aki a kérelemmel kapcsolatos álláspontjáról az ajánlattevőt a kérelem megérkezésétől számított három napon belül, a törvény harmadik része szerinti eljárásban a benyújtási módnak megegyező módon tájékoztatja.
+(3) Az előzetes vitarendezési kérelmet faxon vagy elektronikus úton kell megküldeni az ajánlatkérő részére, aki a kérelemmel kapcsolatos álláspontjáról az ajánlattevőt a kérelem megérkezésétől számított három napon belül a benyújtási módnak megegyező módon tájékoztatja, továbbá az előzetes vitarendezési kérelem benyújtásáról, valamint az arra adott válaszáról az eljárás valamennyi ajánlattevőjét is tájékoztatja.
 
 (4) Amennyiben valamely ajánlattevő előzetes vitarendezési kérelmet nyújtott be, az ajánlatkérő a kérelem benyújtásától a válaszának megküldését követő tizedik napig nem kötheti meg a szerződést.
 

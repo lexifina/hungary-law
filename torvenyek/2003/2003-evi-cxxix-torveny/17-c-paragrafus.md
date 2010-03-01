@@ -1,6 +1,6 @@
 ## A közbeszerzési eljárás nyilvánossága
 
-17/C. § (1) Az ajánlatkérő köteles az alábbi adatokat, információkat, hirdetményeket – közbeszerzési eljárásonként csoportosítva – a Közbeszerzések Tanácsa honlapján, ha rendelkezik honlappal, saját honlapján is öt munkanapon belül közzétenni, továbbá a 22. § (1) bekezdés d) pontja szerinti ajánlatkérő a kötelező közzétételt követően a helyben szokásos módon is közzéteheti:
+17/C. § (1) Az ajánlatkérő köteles az alábbi adatokat, információkat, hirdetményeket – közbeszerzési eljárásonként csoportosítva – ha rendelkezik honlappal, saját honlapján, ha honlappal nem rendelkezik a Közbeszerzések Tanácsa honlapján öt munkanapon belül közzétenni, továbbá a 22. § (1) bekezdés d) pontja szerinti ajánlatkérő a kötelező közzétételt követően a helyben szokásos módon is közzéteheti:
 
 a) a közbeszerzési eljárást megindító hirdetményt [48. § (1) bekezdés, 101. § (1) bekezdés, 138. § (2) bekezdés, 144. § (3) bekezdés, 157. § (1) bekezdés, 182. § (1) bekezdés, 189. §, 208. § (2) bekezdés, 214. § (2) bekezdés, 249. § (1) bekezdés];
 

@@ -18,4 +18,4 @@ c) az ajánlatkérő a részvételi szakasz eredményét a részvételi felhív�
 
 d) az ajánlatkérő az ajánlattételi felhívást az eredményhirdetéstől számított öt munkanapon belül nem küldi meg.
 
-(6) Az ajánlatkérő a részvételi dokumentációban felhívhatja a figyelmet arra, hogy közbeszerzési eljárása független szakértő bevonásával történő monitoringja céljából megállapodást (átláthatósági megállapodás) kötött vagy ilyen megállapodás megkötésére lehetőséget biztosít. Ez a figyelemfelhívás nem jelent kötelezettséget az átláthatósági megállapodásban való részvételre. A megállapodásban való részvétel hiánya miatt a részvételre jelentkezőt a közbeszerzési eljárásban hátrány nem érheti.
+(6)

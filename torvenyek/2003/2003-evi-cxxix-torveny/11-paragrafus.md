@@ -27,3 +27,5 @@ d) a Közbeszerzések Tanácsának tagja.
 (7) Az ügyvédi vagy jogtanácsosi tevékenység ellátására jogosult is folytathat hivatalos közbeszerzési tanácsadói tevékenységet, ha megfelel az e §-ban foglalt feltételeknek.
 
 (8) Hivatalos közbeszerzési tanácsadó akkor láthat el az ügyvédekről szóló 1998. évi XI. törvény 5. § (1)–(2) bekezdésében meghatározott tevékenységet, ha ilyen tevékenység ellátására egyébként jogosult.
+
+(9) Hivatalos közbeszerzési tanácsadóként nem járhat el az, aki az adott eljárásban átláthatósági biztosként jár el.

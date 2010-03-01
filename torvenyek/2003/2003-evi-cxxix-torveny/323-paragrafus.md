@@ -14,7 +14,7 @@ c) egyéb esetekben a vitatott ajánlatkérői döntés közzétételét vagy a 
 
 d) a közbeszerzési eljárás mellőzésével történő beszerzés esetében a szerződés megkötésének időpontjától, illetőleg ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történő megkezdésétől
 
-számított tizenöt napon belül, ha a kérelem e törvény második része szerinti közbeszerzési eljárással vagy annak mellőzésével kapcsolatos tíz napon belül nyújtható be.
+számított tizenöt napon belül nyújtható be.
 
 (3) Ha a közbeszerzési eljárás mellőzésével történő beszerzés a (2) bekezdés szerinti határidő leteltét követően jut a kérelmező tudomására, a kérelmet a szerződés megkötésének időpontjától, illetőleg ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történő megkezdésétől számított egy éven belül nyújthatja be.
 

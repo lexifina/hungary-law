@@ -4,10 +4,6 @@
 
 (2) Ha az ajánlatkérő lehetővé tette a közbeszerzés egy részére történő ajánlattételt, a részek tekintetében nyertesekkel (91. §) kell szerződést kötni. E szerződés szükség esetén az ajánlatoknak, illetőleg az ajánlati felhívásnak megfelelően tartalmazhatja az ajánlattevőként szerződést kötők közötti együttműködés feltételeit is.
 
-(3) A szerződéskötés tervezett időpontját az ajánlati felhívásban kell megadni, azzal, hogy az nem határozható meg
-
-a) az írásbeli összegezés [93. § (2) bekezdés] megküldését követő naptól számított tizenkettedik napnál korábbi és harmincadik – építési beruházás esetében hatvanadik – napnál későbbi időpontban,
-
-b) a törvény harmadik része szerinti eljárásban az írásbeli összegezés megküldését követő naptól számított huszadik napnál korábbi és harmincadik – építési beruházás esetében hatvanadik – napnál későbbi időpontban.
+(3) A szerződéskötés tervezett időpontját az ajánlati felhívásban kell megadni azzal, hogy az nem határozható meg az írásbeli összegezés [93. § (2) bekezdés] eredményhirdetésen történő átadását vagy megküldését követő naptól számított huszadik napnál korábbi és harmincadik – építési beruházás esetén hatvanadik – napnál későbbi időpontban.
 
 (4) Amennyiben jogorvoslati eljárás indul, a szerződéskötés ajánlati felhívásban megadott időpontjától eltérve a szerződést az ügy érdemében hozott vagy a közbeszerzési ügy befejezését eredményező határozat meghozataláig nem lehet megkötni, kivéve, ha a Közbeszerzési Döntőbizottság a szerződés megkötését engedélyezi [332. § (4) bekezdés].

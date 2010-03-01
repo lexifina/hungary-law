@@ -2,7 +2,7 @@
 
 (2) A szerződés – a 73. § (1) bekezdése szerinti melléklete kivételével, feltéve, hogy az abban foglaltak nem ellentétesek a 96/A. §-sal – nyilvános, annak tartalma közérdekű adatnak minősül.
 
-(3) Az ajánlatkérő a közbeszerzési eljárás alapján megkötött szerződést a Közbeszerzések Tanácsa honlapján, ha rendelkezik honlappal, saját honlapján is a megkötését követően haladéktalanul köteles közzétenni. A szerződésnek a honlapon a teljesítéstől számított öt évig folyamatosan elérhetőnek kell lennie.
+(3) Az ajánlatkérő a közbeszerzési eljárás alapján megkötött szerződést ha rendelkezik honlappal, saját honlapján, ha honlappal nem rendelkezik a Közbeszerzések Tanácsa honlapján a megkötését követően haladéktalanul köteles közzétenni. A szerződésnek a honlapon a teljesítéstől számított öt évig folyamatosan elérhetőnek kell lennie.
 
 (4) Az ajánlatkérő és
 

@@ -20,4 +20,4 @@ h) az előzetes vitarendezés eredményét, illetve az ajánlatkérő válaszát
 
 (3) A Közbeszerzési Döntőbizottság kérelemre indult eljárásáért igazgatási szolgáltatási díjat kell fizetni, amelynek mértéke az e törvény második része szerinti közbeszerzési eljárásokban kilencszázezer forint, az e törvény harmadik része, valamint negyedik része szerinti közbeszerzési eljárásokban százötvenezer forint. Amennyiben a kérelem a közbeszerzési eljárást megindító hirdetmény (felhívás) jogellenességének megállapítására irányul, a díj mértéke egységesen százötvenezer forint. A díj megfizetése alól mentesség nem adható. A kérelemhez csatolni kell a díj befizetéséről szóló igazolást.
 
-(4) A kérelmet, ha az e törvény harmadik része szerinti eljárással vagy annak mellőzésével kapcsolatos közbeszerzési ügyre irányul, eggyel több példányban kell benyújtani, mint ahány – a kérelmező által ismert – ügyfél az eljárásban részt vesz.
+(4) A kérelmet eggyel több példányban kell benyújtani, mint ahány – a kérelmező által ismert – ügyfél az eljárásban részt vesz.

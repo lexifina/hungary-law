@@ -30,7 +30,9 @@ m) a védett foglalkoztatók részére fenntartott közbeszerzések részletes �
 
 n) a szindikált hitelfelvétellel kapcsolatos közbeszerzések – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő, a hitelügylet tartalmi jellemzőihez igazodó – szabályait;
 
-o) a kötelező közmegrendelés eseteit.
+o) a kötelező közmegrendelés eseteit;
+
+p) az átláthatósági megállapodás megkötésének kötelező eseteit, az átláthatósági megállapodás e törvényben nem szabályozott tartalmi elemeit, az átláthatósági biztosi tevékenység végzésének feltételeit, továbbá az átláthatósági biztosi tevékenységet végző személyek nyilvántartásának Közbeszerzések Tanácsa általi vezetésének rendjét.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben szabályozza
 

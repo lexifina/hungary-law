@@ -6,7 +6,7 @@ a) a 29. § szerinti kivételek esetében azzal, hogy az (1) bekezdésének a) p
 
 b) tankönyv beszerzésére, amennyiben arra a tankönyvpiac rendjéről szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
 
-c) a 4. számú melléklet szerinti jogi szolgáltatások és a hivatalos közbeszerzési tanácsadói tevékenység esetében, ha a szolgáltatás értéke nem éri el a közösségi értékhatárt;
+c) a 4. számú melléklet szerinti jogi szolgáltatások, a hivatalos közbeszerzési tanácsadói tevékenység és az átláthatósági biztos tevékenysége esetében, ha a szolgáltatás értéke nem éri el a közösségi értékhatárt;
 
 d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetőleg utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti lakóotthonban élő személyek teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
 
