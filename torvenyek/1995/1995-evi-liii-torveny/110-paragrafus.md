@@ -50,33 +50,37 @@
 
 17. a nyilvánosság környezeti információkhoz való hozzáférésének rendjét és a környezeti alapnyilvántartás rendjét;
 
-18. az előzetes vizsgálati eljárás részletes szabályait és az előzetes vizsgálati eljárás iránti kérelem tartalmi elemeit;
+18. az előzetes vizsgálati eljárás és az előzetes konzultáció részletes szabályait;
 
 19. a környezetvédelmi, természetvédelmi, tájvédelmi szakértői tevékenység folytatásának részletes feltételeit, a szakértői szakterületeket és részszakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 
-20. az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait,
+21. az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait,
 
-21. a környezetkárosodás megelőzésének és elhárításának rendjét,
+22. a környezetkárosodás megelőzésének és elhárításának rendjét,
 
-21. a zaj és rezgés elleni védelem szabályait;
+23. a zaj és rezgés elleni védelem szabályait;
 
-22. a levegő védelmével kapcsolatos szabályokat;
+24. a levegő védelmével kapcsolatos szabályokat;
 
-23. a Program tervezésének, végrehajtásának és ellenőrzésének, valamint az ebben közreműködő szerv létrehozásának és működésének részletes szabályait;
+25. a Program tervezésének, végrehajtásának és ellenőrzésének, valamint az ebben közreműködő szerv létrehozásának és működésének részletes szabályait;
 
-24. az egyes sajátos szabályozást igénylő élő szervezetek, életközösségeik és élőhelyeik védelmére vonatkozó szabályokat;
+26. az egyes sajátos szabályozást igénylő élő szervezetek, életközösségeik és élőhelyeik védelmére vonatkozó szabályokat;
 
-25. a külön törvény hatálya alá nem tartozó fás szárú növények védelmével kapcsolatos részletes szabályokat;
+27. a külön törvény hatálya alá nem tartozó fás szárú növények védelmével kapcsolatos részletes szabályokat;
 
-26. a felszín alatti vizek védelmének szabályait;
+28. a felszín alatti vizek védelmének szabályait;
 
-27. a felszíni vizek minősége védelmének szabályait;
+29. a felszíni vizek minősége védelmének szabályait;
 
-28. a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmének szabályait;
+30. a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmének szabályait;
 
-29. a települési szennyvíztisztítás szempontjából érzékeny felszíni vizeket és vízgyűjtőterületüket;
+31. a települési szennyvíztisztítás szempontjából érzékeny felszíni vizeket és vízgyűjtőterületüket;
 
-30. a környezetre súlyos veszélyt jelentő anyagok és termékek minősítésének részletes szabályait.
+32. a környezetre súlyos veszélyt jelentő anyagok és termékek minősítésének részletes szabályait;
+
+33. az egybefoglalt környezethasználati engedély keretében kiadható engedélyeket és az egybefoglalt környezethasználati engedély szabályait;
+
+34. azon környezethasználattal járó tevékenységeket, amelyek a környezetvédelmi hatóságnak történő bejelentést követően kezdhetők meg, illetve folytathatók, továbbá a bejelentés tartalmi elemeit, a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályait, valamint az alkalmazható jogkövetkezményeket.
 
 (8) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben állapítsa meg
 
@@ -134,7 +138,7 @@ kapcsolatos részletes szabályokat.
 
 (13) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg:
 
-a) az igazgatási szolgáltatási díj fizetésére kötelezett eljárásokat, a fizetendő díj mértékét és a fizetésre vonatkozó egyéb szabályokat;
+a) az igazgatási szolgáltatási díj fizetésére kötelezett eljárásokat, igazgatási jellegű szolgáltatásokat és bejelentéseket, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat;
 
 b) a felügyeleti díjjal kapcsolatos részletes szabályokat.
 

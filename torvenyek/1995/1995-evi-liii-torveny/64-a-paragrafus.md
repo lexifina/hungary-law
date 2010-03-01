@@ -24,7 +24,7 @@ ab) lakcím;
 
 b) jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég esetében
 
-ba) cég neve, cégjegyzék száma, törzsszáma (adószámának első nyolc számjegye) statisztikai tevékenységének kódja,
+ba) cég neve, cégjegyzék száma, adószáma, statisztikai számjele,
 
 bb) székhely településazonosító törzsszámmal, illetve telephelyei településazonosító törzsszámmal;
 
@@ -32,7 +32,7 @@ c) egyéni vállalkozó esetében
 
 ca) neve,
 
-cb) egyéni vállalkozói igazolvány kiállítója és száma, ennek hiányában az egyéni vállalkozói nyilvántartási szám,
+cb) egyéni vállalkozói igazolvány kiállítója és száma, valamint adószáma és statisztikai számjele, ennek hiányában az egyéni vállalkozói nyilvántartási szám,
 
 cc) székhely településazonosító törzsszámmal, illetve telephelyei településazonosító törzsszámmal;
 

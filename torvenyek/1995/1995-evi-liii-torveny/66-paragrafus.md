@@ -1,21 +1,25 @@
 ## A környezethasználat feltételei és hatósági engedélyezése
 
-66. § (1) A környezethasználat
+66. § (1) A környezethasználat – a (2) bekezdésben meghatározott kivételekkel –
 
-a) környezeti hatásvizsgálat hatálya alá tartozó tevékenységek esetén – a b) pontban foglaltak kivételével – a tevékenységre a környezetvédelmi hatóság által kiadott környezetvédelmi engedély,
+a) a környezeti hatásvizsgálat hatálya alá tartozó tevékenységek esetén – a b) pontban foglaltak kivételével – a tevékenységre a környezetvédelmi hatóság által kiadott környezetvédelmi engedély,
 
 b) az egységes környezethasználati engedélyezés hatálya alá tartozó esetekben a környezetvédelmi hatóság által kiadott egységes környezethasználati engedély,
 
-c) környezetvédelmi felülvizsgálat hatálya alá tartozó tevékenységek esetén a környezetvédelmi hatóság által kiadott környezetvédelmi működési engedély,
+c) a környezetvédelmi felülvizsgálat hatálya alá tartozó tevékenységek esetén a környezetvédelmi hatóság által kiadott környezetvédelmi működési engedély,
 
-d) egyéb, az a)–c) pont hatálya alá nem tartozó – külön jogszabályokban meghatározott – esetekben a környezetvédelmi hatóság által kiadott határozat, vagy szakhatóságként való közreműködésük esetén szakhatósági állásfoglalásuk figyelembevételével más hatóság által kiadott határozat
+d) az a)–c) pont hatálya alá nem tartozó – az e törvény végrehajtására kiadott rendeletben meghatározott – esetekben a környezethasználó kérelmére a környezetvédelmi hatóság által kiadott egybefoglalt környezethasználati engedély,
 
-jogerőre emelkedését követően kezdődhet meg, illetőleg folytatható.
+e) az a)–d) pont hatálya alá nem tartozó – külön jogszabályban meghatározott – esetekben a környezetvédelmi hatóság által kiadott határozat, vagy szakhatóságként való közreműködése esetén szakhatósági állásfoglalása figyelembevételével más hatóság által kiadott határozat
 
-(2) A környezetvédelmi hatóság az (1) bekezdésben meghatározott hatósági határozatairól, illetőleg szakhatósági állásfoglalásairól hatósági nyilvántartást vezet.
+jogerőre emelkedését követően kezdődhet meg, illetve folytatható.
 
-(3) Törvény a gyorsforgalmi utak, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló árvízvédelmi létesítmények tervezésével, építésével összefüggő környezethasználat esetében a hatósági engedélyezésre eltérő szabályokat állapíthat meg.
+(2) Az e törvény végrehajtására kiadott rendeletben meghatározott esetekben a környezethasználat a környezethasználó által a környezetvédelmi hatóság részére adott bejelentést követően kezdhető meg, illetve folytatható.
 
-(4) Ha az (1) bekezdés a) és b) pontjának hatálya alá tartozó környezethasználathoz más jogszabály által meghatározott létesítési, illetve működési engedélyezési eljárás is szükséges, az engedély akkor adható meg, ha a környezethasználó környezetvédelmi, illetve egységes környezethasználati engedéllyel rendelkezik. A létesítési (építési), illetve működési (használatbavételi) engedély a környezetvédelmi, illetve egységes környezethasználati engedélyben foglaltaktól nem térhet el.
+(3) A környezetvédelmi hatóság az (1) bekezdés a)–e) pontjában meghatározott hatósági határozatairól, szakhatósági állásfoglalásairól, valamint a környezethasználók által a (2) bekezdés szerint tett bejelentésekről hatósági nyilvántartást vezet.
 
-(5) Ha jogszabály a környezethasználattal összefüggő elvi engedélyezési eljárás lefolytatását írja elő, akkor az ügyfél kérelme alapján az elvi engedélyezési eljárás – külön eljárás lefolytatása nélkül – az (1) bekezdés a), illetve b) pontja szerinti eljárás keretében is lefolytatható.
+(4) Törvény a gyorsforgalmi utak, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló árvízvédelmi létesítmények tervezésével, építésével összefüggő környezethasználat esetében a hatósági engedélyezésre eltérő szabályokat állapíthat meg.
+
+(5) Ha az (1) bekezdés a) és b) pontjának hatálya alá tartozó környezethasználathoz más jogszabály által meghatározott létesítési, illetve működési engedélyezési eljárás is szükséges, az engedély akkor adható meg, ha a környezethasználó környezetvédelmi, illetve egységes környezethasználati engedéllyel rendelkezik. A létesítési (építési), illetve működési (használatbavételi) engedély a környezetvédelmi, illetve egységes környezethasználati engedélyben foglaltaktól nem térhet el.
+
+(6) Ha jogszabály a környezethasználattal összefüggő elvi engedélyezési eljárás lefolytatását írja elő, akkor az ügyfél kérelme alapján az elvi engedélyezési eljárás – külön eljárás lefolytatása nélkül – az (1) bekezdés a), illetve b) pontja szerinti eljárás keretében is lefolytatható.

@@ -12,7 +12,7 @@ b) a háztartási tevékenységgel okozott légszennyezésre vonatkozó egyes sa
 
 c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével kapcsolatos eljárásban való közreműködés.
 
-(5) A (3) bekezdés a) pontjában meghatározott füstködriadó terv rendelettel történő megállapítása Budapesten a Fővárosi Közgyűlés hatáskörébe tartozik.
+(5) A (3) bekezdés a)–b) pontjában meghatározottak rendelettel történő megállapítása Budapesten a Fővárosi Közgyűlés hatáskörébe tartozik.
 
 (6) A polgármester (főpolgármester) levegőtisztaság-védelmi feladatkörébe, illetőleg államigazgatási, hatósági hatáskörébe tartozik:
 

@@ -6,7 +6,7 @@ a) környezetkárosítást észlel;
 
 b) kiemelten védett, védett, illetőleg védőterületen (nemzeti park, tájvédelmi körzet, természetvédelmi terület, természeti emlék, valamint ezek védőövezetei, vízminőség-védelmi terület, hidrogeológiai védőterület, valamint az ivó-, ásvány- és gyógyvízkivételek védőterületei), környezetet veszélyeztető, szennyező vagy károsító tevékenységet észlel;
 
-c) a környezetvédelmi engedélyhez, illetőleg egységes környezethasználati engedélyhez kötött tevékenységet ilyen engedély nélkül kezdett meg vagy folytat;
+c) a környezeti hatásvizsgálat, illetve az egységes környezethasználati engedélyezés hatálya alá tartozó tevékenységet előzetes vizsgálat vagy előzetes konzultáció, illetve környezetvédelmi engedély vagy egységes környezethasználati engedély nélkül kezdett meg vagy folytat;
 
 d) a külön jogszabályban meghatározott feltételek fennállnak.
 

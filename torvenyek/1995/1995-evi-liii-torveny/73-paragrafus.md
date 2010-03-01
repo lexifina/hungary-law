@@ -4,7 +4,7 @@
 
 (2) A felülvizsgálat szempontjából:
 
-a) tevékenységnek minősül valamely — a környezet igénybevételével, veszélyeztetésével vagy környezetszennyezéssel járó — művelet, illetőleg technológia folytatása, felújítása, helyreállítása és felhagyása;
+a) tevékenységnek minősül valamely – környezethasználattal, környezetveszélyeztető magatartással vagy környezetszennyezéssel járó – művelet, illetőleg technológia megkezdése, folytatása, felújítása, helyreállítása és felhagyása, továbbá az ezekhez szükséges építési és egyéb előkészítési munka végzése;
 
 b) érdekelt az a) pontban meghatározott tevékenység gyakorlója vagy amennyiben az nem ismert, annak az ingatlannak a tulajdonosa, amelyen a műveletet (technológiát) folytatták, vagy folytatják.
 
