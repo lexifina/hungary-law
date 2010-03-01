@@ -38,11 +38,11 @@ j) a gyógyszer, illetve gyógyászati segédeszköz ismertetésének és az ism
 
 k) a minőségi és hatékony gyógyszerrendelés értékelésének alapjául szolgáló ATC-csoportokat és a célértéket,
 
-l) a 24. § (4) bekezdésében, valamint a 33. § (3) bekezdésében foglalt, a társadalombiztosítási támogatásba befogadott gyógyszerek, tápszerek és gyógyászati segédeszközök körét tartalmazó közlemény adattartalmát és a közzététel eljárási rendjét,
+l) a 24. § (4) bekezdésében, valamint a 33. § (6) bekezdésében foglalt, a társadalombiztosítási támogatásba befogadott gyógyszerek, tápszerek és gyógyászati segédeszközök körét tartalmazó közlemény adattartalmát és a közzététel eljárási rendjét,
 
-[m) a szállítójegyzékre és a szállító-előminősítésre vonatkozó részletes szabályokat,
+m) a szállítójegyzékre és a szállító-előminősítésre vonatkozó részletes szabályokat,
 
-n) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógusra vonatkozó részletes szabályokat,]
+n) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógusra vonatkozó részletes szabályokat,
 
 o) az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait,
 
@@ -68,7 +68,9 @@ d) az egészségbiztosítási felügyeleti hatóság e törvény alapján nyújt
 
 e) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez szükséges számítógépes program minősítési eljárásáért,
 
-f) a gyógyszerek gyógyszertáron kívüli forgalmazását elősegítő elektronikus információs rendszer minősítési eljárásáért
+f) a gyógyszerek gyógyszertáron kívüli forgalmazását elősegítő elektronikus információs rendszer minősítési eljárásáért,
+
+g) a szállító-előminősítésért
 
 fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket.
 

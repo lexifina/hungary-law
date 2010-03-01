@@ -1,23 +1,17 @@
 34. § (1) Ha a gyógyászati segédeszköz gyártója vagy annak meghatalmazott képviselője az egészségbiztosítási szerv 32. § szerinti határozatának jogerőre emelkedését követően a befogadott és támogatással forgalmazható gyógyászati segédeszköz árát érintő változtatással kíván élni, új kérelmet kell előterjesztenie a támogatás iránt.
 
-(2) Az egészségbiztosítási szerv a gyógyászati segédeszköz támogatásba való befogadásának eljárását a külön jogszabály megfelelő módosításának hatálybalépéséig, legfeljebb azonban a kérelem benyújtását követő egy évig felfüggeszti, és erről a kérelmezőt értesíti, amennyiben:
+(2) Amennyiben az egészségbiztosítási szervhez olyan új gyógyászati segédeszköz befogadása iránti kérelem érkezik, amelynek funkcionális csoportját (alcsoportját), illetve az azon belüli támogatási mértékét nem tartalmazza külön jogszabály, az egészségbiztosítási szerv a gyógyászati segédeszköz támogatásba való befogadásának eljárását a külön jogszabály megfelelő módosításának hatálybalépéséig, legfeljebb azonban a kérelem benyújtását követő 180 napig felfüggeszti, és erről a kérelmezőt értesíti.
 
-a) az egészségbiztosítási szervhez olyan új gyógyászati segédeszköz befogadása iránti kérelem érkezik, amelynek termékcsoportját, illetve az azon belüli támogatási mértékét,
+(3) Amennyiben a (2) bekezdés szerinti jogszabály módosítására nem kerül sor, úgy az egészségbiztosítási szerv a 180 nap elteltével a hatályos jogszabályi rendelkezések alapján bírálja el a kérelmet.
 
-b) az egészségbiztosítási szervhez olyan gyógyászati segédeszköz emelt, illetve kiemelt támogatással történő befogadása iránti kérelem érkezik, amely emelt, illetve kiemelt támogatási csoportokat, illetve az azon belüli támogatási mértékét,
+(4)
 
-c) az egészségbiztosítási szervhez olyan gyógyászati segédeszköz támogatással történő kölcsönzése iránti kérelem érkezik, amely eszköz támogatással történő kölcsönzését
+(5) A 32. § (4)–(5) bekezdései szerinti eljárásokban részt vevő intézményekkel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló és az eljárásban közvetlenül feladatot ellátó személyeknek nyilatkozniuk kell arról, hogy nem állnak érdekeltségi, üzleti és egyéb kapcsolatban az eljárás tárgyát képező kérelmet benyújtó forgalomba hozóval vagy a kérelem tárgyát képező eszközzel azonos funkcionális csoportba tartozó eszköz forgalomba hozójával.
 
-nem tartalmazza a külön jogszabály.
+(6) Támogatással rendelt gyógyászati segédeszközt a külön jogszabály szerinti feltételeknek megfelelő, működési engedéllyel rendelkező forgalmazó (gyógyászatisegédeszköz-szaküzlet vagy gyógyszertár) szállíthat házhoz.
 
-(3) Amennyiben a (2) bekezdés szerinti jogszabály módosítására nem kerül sor, úgy az egészségbiztosítási szerv az egy év elteltével a hatályos jogszabályi rendelkezések alapján bírálja el a kérelmet.
+(7) Támogatással rendelt kötszert gyógyszertár és gyógyászatisegédeszköz-szaküzlet szolgáltathat ki.
 
-(4) Abban az esetben, ha az egészségbiztosítási szerv a 32. § (7) bekezdése szerinti eljárását követően valamely gyógyászati segédeszköz támogatásának megszüntetéséről, illetve támogatási mértékének vagy összegének csökkentéséről dönt, a támogatás megszüntetésének napját, illetve a támogatás változásának kezdőnapját a határozat meghozatalának napjától számított első negyedév első napjánál korábbi időpontban nem lehet meghatározni.
+(8) Az egészségbiztosítási szerv a költségvetési keretek betarthatósága érdekében, a már támogatott, illetve az újonnan befogadott gyógyászati segédeszközökre támogatásvolumen-szerződést köthet.
 
-(5) Az eljárásban részt vevő intézményekkel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló és az eljárásban közvetlenül feladatot ellátó személyeknek nyilatkozniuk kell arról, hogy nem állnak érdekeltségi, üzleti és egyéb kapcsolatban az eljárás tárgyát képező kérelmet benyújtó gyártóval, annak meghatalmazott képviselőjével vagy a kérelem tárgyát képező eszközzel azonos funkcionális csoportba tartozó eszköz gyártójával vagy meghatalmazott képviselőjével.
-
-(6) Társadalombiztosítási támogatással sorozatgyártású és adaptív gyógyászati segédeszközt – a külön jogszabályban foglalt kivétellel – a működési engedéllyel rendelkező gyógyászatisegédeszköz-szaküzlet szállíthat házhoz.
-
-(7) Az egészségbiztosítási szerv a költségvetési keretek betarthatósága érdekében, a már támogatott, illetve az újonnan befogadott gyógyászati segédeszközökre támogatásvolumen-szerződést köthet.
-
-(8) A befizetés részletes szabályait a gyártó vagy annak meghatalmazott képviselője és az egészségbiztosítási szerv között létrejött támogatásvolumen-szerződés tartalmazza.
+(9) A befizetés részletes szabályait a gyártó vagy annak meghatalmazott képviselője és az egészségbiztosítási szerv között létrejött támogatásvolumen-szerződés tartalmazza.
