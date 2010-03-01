@@ -1,1 +1,0 @@
-## „(3) A Szakképzési Tankönyv és Taneszköz Tanács tagjait és elnökét a Nemzeti Szakképzési és Felnőttképzési Tanács javaslata alapján a szociális és munkaügyi miniszter, a Szakmai tankönyv bizottság tagjait és elnökét a szakképesítésért felelős miniszter kéri fel és bízza meg öt évre.”
