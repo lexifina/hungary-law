@@ -14,23 +14,23 @@
 
 ## 2. A szolgáltató (intézmény, hálózat) adatai:
 
-## 2.1. a szolgáltató (intézmény, hálózat) ágazati azonosítója[^49],
+## 2.1. a szolgáltató (intézmény, hálózat) ágazati azonosítója[^58],
 
 ## 2.2. a szolgáltató (intézmény, működtető) neve,
 
 ## 2.3. a szolgáltató (intézmény, működtető) székhelye,
 
-## 2.4. a szolgáltató (intézmény) telephelye[^50],
+## 2.4. a szolgáltató (intézmény) telephelye[^59],
 
-## 2.5. a telephely ágazati azonosítója[^51],
+## 2.5. a telephely ágazati azonosítója[^60],
 
-## 2.6. területi irodák címe[^52],
+## 2.6. területi irodák címe[^61],
 
 ## 2.7. a szolgáltató (intézmény, működtető) adószáma,
 
 ## 2.8. ha a szolgáltató (intézmény, hálózat) részben önállóan gazdálkodó költségvetési szerv, annak az önállóan gazdálkodó költségvetési szervnek a neve, székhelye és adószáma, amely a külön jogszabály szerinti pénzügyi-gazdasági feladatokat ellátja.
 
-## 3. A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység adatai[^53]:
+## 3. A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység adatai[^62]:
 
 ## 3.1. a szolgáltató tevékenység típusa és formája,
 
@@ -62,7 +62,7 @@
 
 ## 3.9. a szolgáltató (intézmény, hálózat) megszűnésének időpontja.
 
-## 4.[^54] A működést engedélyező (módosító, visszavonó) határozat adatai[^55]:
+## 4.[^63] A működést engedélyező (módosító, visszavonó) határozat adatai[^64]:
 
 ## 4.1. a határozatot hozó hatóság megnevezése,
 
@@ -70,10 +70,10 @@
 
 5. számú melléklet a 226/2006. (XI. 20.) Korm. rendelethez
 
-[^49]: Telephelyre vonatkozó adatszolgáltatás esetén a székhely nyilvántartási számát kell feltüntetni.
-[^50]: Csak telephelyre vonatkozó adatszolgáltatás esetén kell feltüntetni.
-[^51]: Csak telephelyre vonatkozó adatszolgáltatás esetén kell feltüntetni.
-[^52]: Csak gyermekjóléti szolgáltatás és területi gyermekvédelmi szakszolgáltatás esetén kell feltüntetni.
-[^53]: Telephelyre vonatkozó adatszolgáltatás esetén csak a telephely adatait kell feltüntetni.
-[^54]: A 4. számú melléklet 4. pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés i) pont ib) alpontja szerint módosított szöveg.
-[^55]: Telephelyre vonatkozó adatszolgáltatás esetén csak a telephely adatait kell feltüntetni.
+[^58]: Telephelyre vonatkozó adatszolgáltatás esetén a székhely nyilvántartási számát kell feltüntetni.
+[^59]: Csak telephelyre vonatkozó adatszolgáltatás esetén kell feltüntetni.
+[^60]: Csak telephelyre vonatkozó adatszolgáltatás esetén kell feltüntetni.
+[^61]: Csak gyermekjóléti szolgáltatás és területi gyermekvédelmi szakszolgáltatás esetén kell feltüntetni.
+[^62]: Telephelyre vonatkozó adatszolgáltatás esetén csak a telephely adatait kell feltüntetni.
+[^63]: A 4. számú melléklet 4. pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés i) pont ib) alpontja szerint módosított szöveg.
+[^64]: Telephelyre vonatkozó adatszolgáltatás esetén csak a telephely adatait kell feltüntetni.

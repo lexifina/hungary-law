@@ -1,13 +1,23 @@
 ## szerinti adatokat.
 
-9. § (1)[^15] Az első fokon eljáró működést engedélyező szerv, illetve az első fokú ellenőrzési jogkörében eljáró Hivatal az intézményi nyilvántartás adatait az általa közvetlenül elérhető nyilvántartásban
+9. § (1)[^18] Az első fokon eljáró működést engedélyező szerv, illetve az első fokú ellenőrzési jogkörében eljáró Hivatal a 3. számú melléklet 1–4. pontja szerinti adatokat az általa közvetlenül elérhető nyilvántartásban
 
-a)[^16] a működési engedélyt kiadó, módosító vagy visszavonó határozat jogerőre emelkedését követő öt munkanapon belül rögzíti, ha a határozat első fokon jogerőre emelkedett,
+a)[^19] a működési engedélyt kiadó, módosító vagy visszavonó határozat jogerőre emelkedését követő öt munkanapon belül rögzíti, ha a határozat első fokon jogerőre emelkedett,
 
 b) az iratok hozzá történő visszaérkezését követő öt munkanapon belül rögzíti, ha az a) pont szerinti határozat másodfokon emelkedett jogerőre, vagy ha a határozatot a bíróság hatályon kívül helyezte, illetve a felügyeleti szerv megváltoztatta, megsemmisítette.
 
-(2)[^17] Ha az első fokú működést engedélyező szerv vagy a Hivatal az intézményi nyilvántartásban hibás vagy hiányos adatot észlel, azt soron kívül kijavítja, kiegészíti, illetve törli. A Hivatal az adat kijavításáról, kiegészítéséről, illetve törléséről egyidejűleg értesíti az első fokú működést engedélyező szervet. Ha a fenntartó vagy az engedélyes ilyen adatot észlel, nyolc napon belül értesíti az első fokú működést engedélyező szervet.
+(2)[^20] A 3. számú melléklet 5. pontja szerinti adatokat a szociális foglalkoztatást első fokon engedélyező szerv, illetve az ellenőrzést végző Hivatal az általa közvetlenül elérhető nyilvántartásban az (1) bekezdésben foglaltak megfelelő alkalmazásával rögzíti.
 
-[^15]: A 9. § (1) bekezdésének bevezető szövegrésze a 142/2008. (V. 16.) Korm. rendelet 7. § (2) bekezdésének b) pontja szerint módosított szöveg.
-[^16]: A 9. § (1) bekezdés a) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés i) pont ib) alpontja szerint módosított szöveg.
-[^17]: A 9. § (2) bekezdése a 142/2008. (V. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+(3)[^21] Ha a Hivatal, vagy a 3. számú melléklet 1–4. pontja szerinti adatok tekintetében az első fokú működést engedélyező szerv, illetve a 3. számú melléklet 5. pontja szerinti adatok tekintetében a szociális foglalkoztatást első fokon engedélyező szerv az intézményi nyilvántartásban hibás vagy hiányos adatot észlel, azt soron kívül kijavítja, kiegészíti, illetve törli. A Hivatal az adat kijavításáról, kiegészítéséről, illetve törléséről egyidejűleg értesíti az első fokú működést engedélyező szervet, illetve a szociális foglalkoztatást első fokon engedélyező szervet.
+
+(4)[^22] Ha a fenntartó vagy az engedélyes hibás vagy hiányos adatot észlel, nyolc napon belül értesíti
+
+a) a 3. számú melléklet 1–4. pontja szerinti adatok tekintetében az első fokú működést engedélyező szervet,
+
+b) a 3. számú melléklet 5. pontja szerinti adatok tekintetében a szociális foglalkoztatást első fokon engedélyező szervet.
+
+[^18]: A 9. § (1) bekezdésének bevezető szövegrésze a 142/2008. (V. 16.) Korm. rendelet 7. § (2) bekezdésének b) pontja, a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés aa) alpontja szerint módosított szöveg; alkalmazására lásd ez utóbbi módosító rendelet 7. § (2)–(6) bekezdését.
+[^19]: A 9. § (1) bekezdés a) pontja a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés i) pont ib) alpontja szerint módosított szöveg.
+[^20]: A 9. § (2) bekezdése a 38/2010. (II. 26.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 7. § (3) bekezdését.
+[^21]: A 9. § (3) bekezdését a 38/2010. (II. 26.) Korm. rendelet 3. § (2) bekezdése iktatta be; alkalmazására lásd e módosító rendelet 7. § (3) bekezdését.
+[^22]: A 9. § (4) bekezdését a 38/2010. (II. 26.) Korm. rendelet 3. § (2) bekezdése iktatta be; alkalmazására lásd e módosító rendelet 7. § (3) bekezdését.
