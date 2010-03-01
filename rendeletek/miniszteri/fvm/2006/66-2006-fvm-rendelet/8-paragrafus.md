@@ -28,50 +28,9 @@ l) a tengeri puhatestű állatok tenyésztésének és élve történő forgalom
 
 m) az Állategészségügyi Szabályzat kiadásáról szóló 41/1997. (V. 28.) FM rendelet 1. számú mellékletének második része.
 
-(2)[^10]
+(2)[^11]
 
-Melléklet a 66/2006. (IX. 15.) FVM rendelethez
+Melléklet a 66/2006. (IX. 15.) FVM rendelethez[^12]
 
-Vad-kísérő jegy mintája
-
-„
-
-Vad-kísérő jegy
-
-Sorszám: ............................
-
-Elejtés helye, ideje (év, hó, nap, óra):
-
-Nagyvad azonosító jel száma:
-
-Vadászatra jogosult neve:
-
-KIFOGÁSMENTES
-
-(aláhúzással jelölni a vizsgálat eredménye szerint)
-
-KIFOGÁSOLT, HATÓSÁGI HÚSVIZSGÁLATRA
-
-Tapasztalt elváltozások:
-
-Vadász, illetve vadászatra jogosult aláírása:
-
-Vizsgálat helye, ideje (év, hó nap, óra):
-
-Vizsgáló neve:
-
-Vizsgáló nyilvántartási száma:
-
-KIFOGÁSMENTES
-
-(aláhúzással jelölni a vizsgálat szerint)
-
-KIFOGÁSOLT, HATÓSÁGI HÚSVIZSGÁLATRA
-
-(hatósági állatorvoshoz)
-
-A vizsgáló aláírása:
-
-”
-
-[^10]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 76. pontja hatályon kívül helyezte.
+[^11]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 76. pontja hatályon kívül helyezte.
+[^12]: A mellékletet a 141/2009. (X. 29.) FVM rendelet 14. § (2) bekezdése hatályon kívül helyezte. A vadkísérő jegyre vonatkozó rendelkezések alkalmazására lásd e módosító rendelet 14. § (3) bekezdését.
