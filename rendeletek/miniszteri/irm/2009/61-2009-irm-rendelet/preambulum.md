@@ -1,0 +1,1 @@
+A jogalkotásról szóló 1987. évi XI. törvény 62. §-ában foglalt felhatalmazás alapján – az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § h) pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:

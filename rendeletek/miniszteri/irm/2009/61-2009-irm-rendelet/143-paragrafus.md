@@ -1,0 +1,1 @@
+## 142. § Jogszabály és jogszabályi rendelkezés alkotmánybírósági megsemmisítése és hatályvesztése esetén a jogszabályra vagy a jogszabályi rendelkezésre hivatkozó rendelkezéseket módosítani kell, vagy hatályon kívül kell helyezni.
