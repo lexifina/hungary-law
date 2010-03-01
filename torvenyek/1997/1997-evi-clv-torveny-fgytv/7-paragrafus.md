@@ -28,4 +28,4 @@ h) ha a termék vagy az ingatlan ára a szerződés időtartama alatt változhat
 
 (7) Ha a fogyasztási kölcsönt nyújtó vállalkozás, illetve a vállalkozás által nyújtott fogyasztási kölcsönt közvetítő harmadik személy kereskedelmi kommunikációjában szerepel a fogyasztási kölcsön kamata, bármilyen költsége vagy törlesztőrészlete, vagy ezekkel összefüggésbe hozható bármely utalás, közvetlenül ezt követően a (2) bekezdés e) pontja szerinti éves, százalékban kifejezett teljes hiteldíjmutatót is fel kell tüntetni legalább ugyanakkora méretben és megegyező megjelenítésben, illetőleg jól érthetően el kell hangoznia.
 
-(8) Fogyasztási kölcsönszerződés esetében a fogyasztó minden esetben élhet a lejárat előtti teljesítés jogával. Ebben az esetben a vállalkozás köteles a hiteldíjat arányosan csökkenteni.
+(8)
