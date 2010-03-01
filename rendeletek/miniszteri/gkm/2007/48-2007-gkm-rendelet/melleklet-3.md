@@ -214,6 +214,6 @@
 
 ## A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló 27/2009. (XII. 3.) SZMM rendelete szerinti segítő és a rendőrségi kutya szállítása díjtalan.
 
-3. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^17]
+3. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^21]
 
-[^17]: A 3. melléklet a 4/2010. (I. 22.) KHEM rendelet 5. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (5) bekezdését.
+[^21]: A 3. melléklet a 4/2010. (I. 22.) KHEM rendelet 5. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 6. § (5) bekezdését.

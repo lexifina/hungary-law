@@ -86,6 +86,6 @@
 
 ## 6. A különjárat teljesítése során felmerülő autópálya-használati, parkolási és kompdíjak a megrendelőt terhelik.
 
-4. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^18]
+4. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^22]
 
-[^18]: A 4. számú melléklet a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^22]: A 4. számú melléklet a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.

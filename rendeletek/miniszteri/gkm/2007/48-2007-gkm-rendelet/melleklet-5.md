@@ -26,9 +26,9 @@
 
 ## 2. A szolgáltató tájékoztatóiban, menetrendi kiadványaiban és az utasforgalmi terekben megszokott módon feltünteti az 1. pontban meghatározott, az érvényes Budapest-bérlettel többletszolgáltatásként igénybe vehető vonatokat, valamint a Budapest-bérletek a Fővárosi Önkormányzat rendeletében megállapított típusait és árait.
 
-5. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^19]
+5. melléklet a 48/2007. (IV. 26.) GKM rendelethez[^23]
 
-1.[^20] A szolgáltató tájékoztatóiban és menetrendi kiadványaiban az alábbi tartalommal tünteti fel az érvényes Budapest-bérlettel – az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvény 3. §-a (4) bekezdésének a) pontja alapján a Fővárosi Önkormányzat, valamint a gazdasági és közlekedési miniszter között a helyi személyszállítás helyközi (távolsági) járattal történő lebonyolítására létrejött megállapodásban (a továbbiakban: megállapodás) foglaltak szerint – többletszolgáltatásként igénybe vehető helyközi autóbuszvonalak szolgáltatásait:
+1.[^24] A szolgáltató tájékoztatóiban és menetrendi kiadványaiban az alábbi tartalommal tünteti fel az érvényes Budapest-bérlettel – az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvény 3. §-a (4) bekezdésének a) pontja alapján a Fővárosi Önkormányzat, valamint a gazdasági és közlekedési miniszter között a helyi személyszállítás helyközi (távolsági) járattal történő lebonyolítására létrejött megállapodásban (a továbbiakban: megállapodás) foglaltak szerint – többletszolgáltatásként igénybe vehető helyközi autóbuszvonalak szolgáltatásait:
 
 a) a vonal menetrendi száma,
 
@@ -36,11 +36,11 @@ b) a belső végállomás, a közbenső menetrendi megállóhelyek és a Budapes
 
 c) további útvonal BKSZ területén belüli és kívüli szakaszai,
 
-d)[^21] a Budapest-bérletek – a fővárosi önkormányzat rendeletében meghatározott – típusait, árait.
+d)[^25] a Budapest-bérletek – a fővárosi önkormányzat rendeletében meghatározott – típusait, árait.
 
-2.[^22] A szolgáltató a megállapodás szerinti 1. a) pontba tartozó vonalakon közlekedő autóbuszokon feltünteti, hogy a járat Budapest-bérlettel igénybe vehető.
+2.[^26] A szolgáltató a megállapodás szerinti 1. a) pontba tartozó vonalakon közlekedő autóbuszokon feltünteti, hogy a járat Budapest-bérlettel igénybe vehető.
 
-[^19]: Az 5. számú melléklet a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
-[^20]: Az 5. számú melléklet 1. pontja a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
-[^21]: Az 5. számú melléklet 1. pont d) alpontja a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
-[^22]: Az 5. számú melléklet 2. pontja a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^23]: Az 5. számú melléklet a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^24]: Az 5. számú melléklet 1. pontja a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^25]: Az 5. számú melléklet 1. pont d) alpontja a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
+[^26]: Az 5. számú melléklet 2. pontja a 34/2009. (VII. 6.) KHEM rendelet 3. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2) bekezdését.
