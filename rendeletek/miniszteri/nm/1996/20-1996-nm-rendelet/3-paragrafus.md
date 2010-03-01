@@ -4,4 +4,7 @@
 
 (3) Az otthoni szakápolás és az otthoni hospice ellátás befejezésekor az ápolásért felelős szolgálat vezetője és az elrendelő orvos kiállítja az 5. számú melléklet szerinti otthoni szakápolást/otthoni hospice ellátást lezáró lapot, amelynek egy példányát a beteg részére átadja.
 
+(4)[^6] Otthoni parenterális táplálás végzése esetén az ellátást végző orvos, illetve ápoló a 6. számú mellékletben meghatározott tartalommal vezeti az otthoni parenterális táplálás felmérő és követő lapját.
+
 [^5]: A 3. § a 26/2009. (VIII. 5.) EüM rendelet 3. §-ával megállapított szöveg.
+[^6]: A 3. § (4) bekezdése a 26/2009. (VIII. 5.) EüM rendelet 5. § (2) bekezdése alapján 2010. március 1-jén lépett hatályba.
