@@ -69,3 +69,5 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 13. A szövetkezetnél a közösségi alapból a szövetkezetekről szóló 2006. évi X. törvény 57. §-ának (2) bekezdése szerinti céloknak megfelelő felhasználás alapján elszámolt költség;
 
 14. A kifizető által viselt képzés (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is) költsége.
+
+15. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha az adóévben visszafizetési kötelezettség nélkül adott támogatásra, juttatásra a 4. § 36. vagy 38. pontja alapján került sor.
