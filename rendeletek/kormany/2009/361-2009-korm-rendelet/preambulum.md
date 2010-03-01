@@ -1,0 +1,1 @@
+A Kormány a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 235. § (1) bekezdésének a) és g) pontjában, és a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 30. §-ának b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva a következőket rendeli el.
