@@ -1,4 +1,4 @@
-32. § (1) A Hjt. 104. § (6) bekezdése, a 287. § (2) bekezdés a) pont ae) alpontjában az „és azoknak a vezetőknek a körét, akik nem folytathatnak más kereső foglalkozást,” szövegrész, valamint a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény (a továbbiakban: Hft.) 15. § (3) bekezdésében a „kizárólag” szövegrész és a 31. § (3) bekezdés c) pontja a hatályát veszti.
+32. § (1)
 
 (2) E törvény – a (3)–(5) bekezdésben meghatározott eltéréssel – 2010. március 1-jén a hatályát veszti.
 

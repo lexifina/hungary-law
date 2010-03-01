@@ -1,4 +1,4 @@
-31. § (1) E törvény – a (2)–(4) bekezdésekben meghatározott eltérésekkel – 2010. január 1-jén lép hatályba.
+31. § (1)
 
 (2) A 3. § 2010. július 1-jén lép hatályba.
 
