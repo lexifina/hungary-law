@@ -1,1 +1,1 @@
-31. §
+31. § A vízügyi hatóság által lefolytatott egyes közigazgatási eljárásokért (ideértve a szakhatósági eljárásokat, az igazgatási jellegű szolgáltatásokat, továbbá a bejelentéseket) igazgatási szolgáltatási díjat kell fizetni.

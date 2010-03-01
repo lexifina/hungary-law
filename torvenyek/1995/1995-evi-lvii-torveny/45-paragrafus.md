@@ -48,7 +48,9 @@ p) a vízgazdálkodási szakértői tevékenység folytatásának részletes fel
 
 q) a vizek többletéből eredő kockázattal érintett területek meghatározására, veszély- és kockázati térkép, valamint kockázatkezelési terv készítésére, tartalmára vonatkozó szabályok;
 
-r) az e törvényben, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben foglaltakkal összhangban a vízgyűjtő-gazdálkodási tervezésre és a jó vízállapotok eléréséhez szükséges intézkedések programjának kialakítására vonatkozó szabályok
+r) az e törvényben, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben foglaltakkal összhangban a vízgyűjtő-gazdálkodási tervezésre és a jó vízállapotok eléréséhez szükséges intézkedések programjának kialakítására vonatkozó szabályok;
+
+s) a vízügyi hatóságnak történő bejelentést követően megkezdhető, illetve folytatható tevékenységek körének, továbbá a bejelentés tartalmi elemeinek és a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályainak, valamint az alkalmazható jogkövetkezményeknek
 
 rendeletben történő megállapítására.
 
@@ -76,7 +78,9 @@ j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfig
 
 k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
 
-l) az állam kizárólagos tulajdonában lévő vizek és vízilétesítmények jegyzékének
+l) az állam kizárólagos tulajdonában lévő vizek és vízilétesítmények jegyzékének;
+
+m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben
 
 rendeletben történő megállapítására.
 
