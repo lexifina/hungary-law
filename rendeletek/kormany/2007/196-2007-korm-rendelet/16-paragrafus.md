@@ -22,6 +22,6 @@ b) ötven százalékos kockázati súly alkalmazandó, ha az elszámolt értékv
 
 (9) Ha az ügyletnek nincs elismert külső hitelminősítő szervezet általi hitelminősítése, akkor az ügylet kockázattal súlyozott kitettség értéke az ügylethez kapcsolódó kitettségek – (n–1)-dik kitettség kivétele mellett – kockázati súlyának legfeljebb egyezerkettőszázötven százalékig történő összesítése szorozva a hitelderivatíva által nyújtott fedezet névértékével. Az ügylethez kapcsolódó és kizárandó (n–1)-dik kitettség meghatározásakor a kitettségek mindegyikének kisebb kockázattal súlyozott kitettség értéket kell eredményeznie, mint az összesítésbe bekerülő bármely kitettség kockázattal súlyozott kitettség értéke.
 
-(10)[^7] Ha a hitelintézet hitelkockázat fedezetének nyújtásakor az n-dik nemteljesítést követően kerül a fedezet lehívásra és ennek bekövetkeztével a szerződés megszűnik, valamint a fedezett ügylet egy elismert külső hitelminősítő szervezet hitelminősítési kategóriával rendelkezik, akkor az Épkr.-ben meghatározottak szerinti kockázati súlyokat kell alkalmazni.
+(10)[^8] Ha a hitelintézet hitelkockázat fedezetének nyújtásakor az n-dik nemteljesítést követően kerül a fedezet lehívásra és ennek bekövetkeztével a szerződés megszűnik, valamint a fedezett ügylet egy elismert külső hitelminősítő szervezet hitelminősítési kategóriával rendelkezik, akkor az Épkr.-ben meghatározottak szerinti kockázati súlyokat kell alkalmazni.
 
-[^7]: A 16. § (10) bekezdését a 380/2007. (XII. 23.) Korm. rendelet 55. § (3) bekezdése iktatta be.
+[^8]: A 16. § (10) bekezdését a 380/2007. (XII. 23.) Korm. rendelet 55. § (3) bekezdése iktatta be.

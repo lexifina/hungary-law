@@ -1,4 +1,4 @@
-## 125/A. §[^20] A központi kormány készfizető kezessége melletti nem piacképes kockázatú biztosítás akkor ismerhető el hitelkockázati fedezetként, ha megfelel a nem piacképes kockázatú biztosítások feltételeiről szóló külön jogszabályban foglalt feltételeknek. A hitelintézet ebben az esetben a kitettséget a biztosított összeg önrészesedéssel csökkentett mértékéig a központi kormánnyal szembeni kitettségnek tekintheti.
+## 125/A. §[^21] A központi kormány készfizető kezessége melletti nem piacképes kockázatú biztosítás akkor ismerhető el hitelkockázati fedezetként, ha megfelel a nem piacképes kockázatú biztosítások feltételeiről szóló külön jogszabályban foglalt feltételeknek. A hitelintézet ebben az esetben a kitettséget a biztosított összeg önrészesedéssel csökkentett mértékéig a központi kormánnyal szembeni kitettségnek tekintheti.
 
 ## 126. § A kockázattal súlyozott kitettség érték 30. § (3) bekezdése szerinti számításához a garanciából, készfizető kezességből vagy hitelderivatívából származó hitelkockázati fedezet akkor ismerhető el, ha
 
@@ -36,4 +36,4 @@ j) a hitelintézet eljárással rendelkezik a hitelkockázati fedezet nyújtója
 
 k) felhígulási kockázatra vonatkozó hitelkockázati fedezet esetén a vásárolt követelés eladója nem tartozhat a hitelkockázati fedezetet nyújtóval azonos ügyfélcsoportba.
 
-[^20]: A 125/A. §-t a 380/2007. (XII. 23.) Korm. rendelet 55. § (10) bekezdése iktatta be.
+[^21]: A 125/A. §-t a 380/2007. (XII. 23.) Korm. rendelet 55. § (10) bekezdése iktatta be.

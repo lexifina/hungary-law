@@ -46,6 +46,6 @@ g) a rulírozó, lakossággal szembeni kitettségként való kezelése összhang
 
 (10) Ha a vásárolt lakossági követelések pooljai (halmazai) esetében nem különíthető el az ingatlannal fedezett és a rulírozó, lakossággal szembeni kitettség az egyéb lakossággal szembeni kitettségtől, akkor ezekre a kitettségekre azon lakossággal szembeni kitettségi alosztályhoz tartozó kockázati súlyt kell alkalmazni, amely a legmagasabb tőkekövetelményt eredményezi.
 
-(11)[^12] Az értékpapírosítás keretében első veszteségviselő pozícióként kezelhető az olyan lakossággal szembeni vásárolt követelés, visszafizetendő árengedmény, valamint biztosíték vagy részleges garancia, amely nemteljesítési veszteségre, felhígulásból származó veszteségre vagy mindkettőre vonatkozó első veszteségviselést jelentő fedezetet biztosít.
+(11)[^13] Az értékpapírosítás keretében első veszteségviselő pozícióként kezelhető az olyan lakossággal szembeni vásárolt követelés, visszafizetendő árengedmény, valamint biztosíték vagy részleges garancia, amely nemteljesítési veszteségre, felhígulásból származó veszteségre vagy mindkettőre vonatkozó első veszteségviselést jelentő fedezetet biztosít.
 
-[^12]: A 31. § (11) bekezdését a 380/2007. (XII. 23.) Korm. rendelet 55. § (6) bekezdése iktatta be.
+[^13]: A 31. § (11) bekezdését a 380/2007. (XII. 23.) Korm. rendelet 55. § (6) bekezdése iktatta be.

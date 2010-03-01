@@ -12,7 +12,7 @@ b) az ügyfél minősítése és a lakóingatlan fedezeti értéke független eg
 
 c) a kötelezettség törlesztése legalább nyolcvan százalékban nem a lakóingatlanból származó bevételtől függ, valamint
 
-d) a kitettség értéke nem haladja meg a lakóingatlan piaci értékének hetven százalékát.
+d)[^6] a kitettség értéke nem haladja meg a lakóingatlan piaci értékének hetvenöt százalékát.
 
 (4) A lakóingatlannal kapcsolatos pénzügyi lízing ügylethez harmincöt százalékos kockázati súlyt kell rendelni, ha
 
@@ -47,3 +47,5 @@ b) az ingatlan hitelbiztosítéki értékének hatvan százaléka.
 (8) Ha az Európai Unió másik tagállama alkalmazza a lakóingatlannak nem minősülő ingatlannal fedezett kitettség esetén az (5)–(6) bekezdés szerinti ötven százalékos kockázati súlyt, és a kitettség megfelel az (5)–(6) bekezdésben meghatározott további feltételeknek, akkor ezen tagállamban lévő, lakóingatlannak nem minősülő ingatlannal fedezett kitettség esetén ezen kockázati súlyozás Magyarországon is alkalmazható.
 
 (9) A jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárból származó követelését ingatlannal fedezett kitettség kategóriába sorolhatja, ha az önálló zálogjog a (3) vagy (5) bekezdésben foglalt feltételeknek megfelelő követelés fedezetéül szolgál.
+
+[^6]: A 12. § (3) bekezdés d) pontja a 361/2009. (XII. 30.) Korm. rendelet 9. §-a szerint módosított szöveg. E módosító rendelet 8. § (3) bekezdése alapján a rendelkezést a 2010. március 1-jét követően kötött szerződésekre kell alkalmazni.

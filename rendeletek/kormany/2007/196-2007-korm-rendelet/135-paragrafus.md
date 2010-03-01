@@ -1,4 +1,4 @@
-135. § (1)[^22] A pénzügyi biztosítékok egyszerű módszere esetén a biztosíték értéke a 114. § (2) bekezdésének e) pontja szerint megállapított piaci érték.
+135. § (1)[^23] A pénzügyi biztosítékok egyszerű módszere esetén a biztosíték értéke a 114. § (2) bekezdésének e) pontja szerint megállapított piaci érték.
 
 (2) A pénzügyi biztosítékok egyszerű módszere esetén a kockázattal súlyozott kitettség érték kiszámításakor a kitettségnek a biztosíték piaci értéke által fedezett részéhez azt a kockázati súlyt – de legalább 20%-ot – kell rendelni, amelyet a sztenderd módszer szerint akkor kell alkalmazni, ha a kitettség közvetlenül a pénzügyi biztosíték miatt keletkezik. A kitettségnek a biztosíték piaci értéke által nem fedezett részéhez azt a kockázati súlyt kell rendelni, amelyet a sztenderd módszer szerint az ügyféllel szembeni fedezetlen kitettségre kell alkalmazni.
 
@@ -28,4 +28,4 @@ a) regionális kormány vagy helyi önkormányzat által kibocsátott hitelviszo
 
 b) multilaterális fejlesztési bank vagy nemzetközi szervezet által kibocsátott hitelviszonyt megtestesítő értékpapír is, amelyhez a sztenderd módszer alkalmazásában – a 7. § (5) bekezdésének és a 8. §-nak megfelelően – 0%-os kockázati súlyt lehet rendelni.
 
-[^22]: A 135. § (1) bekezdése a 380/2007. (XII. 23.) Korm. rendelet 55. § (12) bekezdésével megállapított szöveg.
+[^23]: A 135. § (1) bekezdése a 380/2007. (XII. 23.) Korm. rendelet 55. § (12) bekezdésével megállapított szöveg.

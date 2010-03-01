@@ -36,6 +36,6 @@ b) a devizaügylet és az arannyal kapcsolatos szerződés, amely lehet
 
 c) az a) pont 1–5. alpontjához és a b) pont 1–4. alpontjához hasonló jellegű, más referencia eszközt tartalmazó szerződés.
 
-(2)[^9] A származtatott ügylet értékelését és kockázati súlyozását a partnerkockázatról szóló kormányrendelet határozza meg.
+(2)[^10] A származtatott ügylet értékelését és kockázati súlyozását a partnerkockázatról szóló kormányrendelet határozza meg.
 
-[^9]: A 18. § (2) bekezdése e rendelet 161. § (2) bekezdése alapján 2008. január 1. napján lép hatályba.
+[^10]: A 18. § (2) bekezdése e rendelet 161. § (2) bekezdése alapján 2008. január 1. napján lép hatályba.

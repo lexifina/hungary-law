@@ -14,7 +14,7 @@ b) CFt az ügyfél által szerződés alapján, t időszak során kifizetett pé
 
 (4) Az olyan származtatott ügylet esetében, amelyre szabványosított nettósítási megállapodást alkalmaznak, a lejárati idő a kitettség súlyozott átlagos hátralévő lejárati ideje, de legalább egy év. A lejárati idő súlyozása során minden kitettség névértékét kell figyelembe venni.
 
-(5)[^13] Az olyan – hitelkockázati fedezettel teljes mértékben ellátott – származtatott ügylet és értékpapír ügylethez kapcsolódó hitel esetében, amelyre szabványosított nettósítási megállapodást alkalmaznak, a lejárati idő a kitettség súlyozott átlagos hátralévő lejárati ideje, de legalább tíz nap. A lejárati idő súlyozása során minden kitettség névértékét kell figyelembe venni.
+(5)[^14] Az olyan – hitelkockázati fedezettel teljes mértékben ellátott – származtatott ügylet és értékpapír ügylethez kapcsolódó hitel esetében, amelyre szabványosított nettósítási megállapodást alkalmaznak, a lejárati idő a kitettség súlyozott átlagos hátralévő lejárati ideje, de legalább tíz nap. A lejárati idő súlyozása során minden kitettség névértékét kell figyelembe venni.
 
 (6) Ha a hitelintézet a vállalkozással szembeni vásárolt követelésére saját nemteljesítési valószínűség becslést alkalmaz, akkor a lehívott összeg lejárata a vásárolt követelések súlyozott átlagos hátralévő lejárati ideje, de legalább kilencven nap. Ugyanezt a lejárati időt kell alkalmazni a szerződésben meghatározott, vásárolt követelésre vonatkozó kötelezettségvállalás le nem hívott részére, ha a szerződés lejárat előtti visszafizetést vagy törlesztést biztosít, vagy a vásárolt követelést megvásárló hitelintézet számára hitelkockázati fedezetet nyújt az olyan jövőbeli követelés jelentős minőségromlása ellen, amelyet megvásárol az ügyleti feltételeknek megfelelően. Az ilyen hitelkockázati fedezettel el nem látott kitettség esetében a le nem hívott összeg lejárata a vásárlási megállapodás leghosszabb időtartamú, potenciális követelésének és a vásárolt követelés hátralévő lejáratának az összege, de legalább kilencven nap.
 
@@ -56,4 +56,4 @@ c) repóügylet, értékpapír- vagy áru-kölcsönzési ügylet
 
 (14) A lejárati eltéréseket a XVII. Fejezet szerint kell kezelni.
 
-[^13]: A 47. § (5) bekezdésének első mondata a 380/2007. (XII. 23.) Korm. rendelet 55. § (7) bekezdésével megállapított szöveg.
+[^14]: A 47. § (5) bekezdésének első mondata a 380/2007. (XII. 23.) Korm. rendelet 55. § (7) bekezdésével megállapított szöveg.
