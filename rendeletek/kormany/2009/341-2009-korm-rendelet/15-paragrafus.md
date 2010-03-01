@@ -1,4 +1,4 @@
-## 14. § A 102/2009. (V. 11.) Korm. rendelet a 13. §-át követően a következő alcímmel és 13/A. §-sal egészül ki:
+## 14. §[^2] A 102/2009. (V. 11.) Korm. rendelet a 13. §-át követően a következő alcímmel és 13/A. §-sal egészül ki:
 
 ## „Eljárás a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv szerinti bejelentési kötelezettség egyidejű teljesítése esetén
 
@@ -9,3 +9,5 @@
 ## a) a Bizottságnak a tervezet elfogadásától való tartózkodásra vagy az abban foglalt korlátozó követelmény megszüntetésére felszólító határozatára, és
 
 ## b) az EGT-államok Bizottság által megküldött olyan műszaki szabálytervezeteire, amelyek bejelentése egyben a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentésnek is eleget tesz.”
+
+[^2]: A – 2009. december 31. napján hatályba lépő – rendelet 14. §-át a 17. § (1) bekezdése hatályon kívül helyezte 2009. december 29. napjával. [A rendelkezést nem lehet átvezetni.]

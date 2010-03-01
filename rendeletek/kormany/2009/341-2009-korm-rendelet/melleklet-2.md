@@ -1,4 +1,4 @@
-## Formanyomtatvány[^1] a jogszabálytervezet 341/2009. (XII. 30.) Korm. rendelet 3. §-a szerinti bejelentéséhez
+## Formanyomtatvány[^5] a jogszabálytervezet 341/2009. (XII. 30.) Korm. rendelet 3. §-a szerinti bejelentéséhez
 
 ## 1. Tagállam.
 
@@ -56,4 +56,4 @@
 
 2. melléklet a 341/2009. (XII. 30.) Korm. rendelethez
 
-[^1]: A formanyomtatvány kitöltési útmutatót tartalmazó elektronikus változata letölthető a külpolitikáért felelős miniszter által vezetett minisztérium honlapjáról.
+[^5]: A formanyomtatvány kitöltési útmutatót tartalmazó elektronikus változata letölthető a külpolitikáért felelős miniszter által vezetett minisztérium honlapjáról.

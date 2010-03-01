@@ -1,4 +1,4 @@
-## 15. § A külügyminiszter feladat- és hatásköréről szóló 166/2006. (VII. 28.) Korm. rendelet 4. § (1) bekezdése a következő q) és r) ponttal egészül ki:
+## 15. §[^3] A külügyminiszter feladat- és hatásköréről szóló 166/2006. (VII. 28.) Korm. rendelet 4. § (1) bekezdése a következő q) és r) ponttal egészül ki:
 
 ## (A miniszter az európai integrációs ügyekért való felelőssége keretében felel az Európai Unió politikáiból eredő és az európai uniós tagsághoz kapcsolódó kormányzati feladatok tárcaközi összehangolásáért, ennek körében)
 
@@ -13,3 +13,5 @@ a) a 11. § és az azt megelőző alcím, valamint a 4. melléklet,
 b) a 102/2009. (V. 11.) Korm. rendelet 8. §-a és 2. melléklete.
 
 (2) Ez a § 2010. március 2-án hatályát veszti.
+
+[^3]: A – 2009. december 31. napján hatályba lépő – rendelet 15. §-át a 17. § (1) bekezdése hatályon kívül helyezte 2009. december 29. napjával. [A rendelkezést nem lehet átvezetni.]

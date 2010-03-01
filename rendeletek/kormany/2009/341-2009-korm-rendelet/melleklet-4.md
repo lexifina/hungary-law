@@ -86,8 +86,6 @@
 
 ## ⬜ Nem
 
-4. melléklet a 341/2009. (XII. 30.) Korm. rendelethez
+4. melléklet a 341/2009. (XII. 30.) Korm. rendelethez[^6]
 
-Hivatkozás a jogszabálytervezetnek a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv alapján történt előzetes bejelentésére
-
-A [rendelet (VAGY) törvény] tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv [15. cikk (7) bekezdése (VAGY) 39. cikk (5) bekezdése (VAGY) 15. cikk (7) bekezdése és 39. cikk (5) bekezdése] szerinti előzetes bejelentése megtörtént.
+[^6]: A 4. mellékletet a 16. § (1) bekezdés a) pontja hatályon kívül helyezte.
