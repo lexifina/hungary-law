@@ -12,8 +12,11 @@ d) használtcikk-vásár, illetve -piac: olyan helyi jellegű, általában idős
 
 e)[^3] fenntartó: a vásár, piac, illetve a bevásárlóközpont helyszínéül szolgáló terület, ingatlan tulajdonosa, bérlője vagy más jogcímen használója, aki a vásáron, piacon, illetve a bevásárlóközpontban kereskedelmi tevékenységet folytatók részére a helyhasználatot biztosítja, és aki a vásár, piac, illetve a bevásárlóközpontban kereskedelmi tevékenységet folytatók részére a kereskedelmet kiszolgáló szolgáltatási tevékenység folytatásáért felelős;
 
-f)[^4] üzemeltető: a fenntartó vagy a fenntartó által kijelölt, a vásár, piac, illetve a bevásárlóközpont vezetését, illetve annak működtetésével kapcsolatos feladatokat ellátó személy, aki a fenntartó nevében eljárni jogosult.
+f)[^4] üzemeltető: a fenntartó vagy a fenntartó által kijelölt, a vásár, piac, illetve a bevásárlóközpont vezetését, illetve annak működtetésével kapcsolatos feladatokat ellátó személy, aki a fenntartó nevében eljárni jogosult;
+
+g)[^5] állatvásár: olyan időszaki értékesítési hely – ideértve az állatbörzét és az állatárverést is –, ahol nem kizárólag egy állattartási helyről származó élő állatot – ide nem értve a fogyasztási célra szánt halat és más hasznos vízi állatot – árusítanak.
 
 [^2]: Az 1. § (1) bekezdése a 212/2009. (IX. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^3]: Az 1. § (2) bekezdés e) pontja a 212/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
 [^4]: Az 1. § (2) bekezdés f) pontja a 212/2009. (IX. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^5]: Az 1. § (2) bekezdés g) pontját a 41/2010. (II. 26.) Korm. rendelet 20. § (1) bekezdése iktatta be.
