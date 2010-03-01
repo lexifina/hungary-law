@@ -2,6 +2,8 @@
 
 ## 1. § A rendelet hatálya
 
-a) az ózonréteget lebontó anyagokról szóló, 2000. június 29-i 2037/2000/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 2037/2000/EK rendelet) szerinti anyagokkal (a továbbiakban: szabályozott anyagok), valamint
+a)[^1] az ózonréteget lebontó anyagokról szóló, 2009. szeptember 16-i 1005/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1005/2009/EK európai parlamenti és tanácsi rendelet) szerinti anyagokkal (a továbbiakban: szabályozott anyagok), valamint
 
 b) az egyes fluortartalmú üvegházhatású gázokról szóló, 2006. május 17-i 842/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 842/2006/EK rendelet) szerinti gázokkal (a továbbiakban: fluortartalmú üvegházhatású gázok)
+
+[^1]: Az 1. § a) pontja a 34/2010. (II. 24.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
