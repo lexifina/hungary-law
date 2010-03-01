@@ -16,7 +16,7 @@ ad) az ellátási szerződés adataiban bekövetkező változás miatt,
 
 ae) be nem töltött férőhelyek megszüntetése miatt, valamint házi segítségnyújtás esetén az ellátható személyek számának, jelzőrendszeres házi segítségnyújtás esetén a kihelyezhető jelzőkészülékek számának csökkentése miatt, ha ez intézményi jogviszony megszüntetésével nem jár,
 
-af) fenntartóváltozás miatt, ha az új fenntartó a korábbi fenntartó jogutódlással történő megszűnése révén jött létre, vagy a fenntartó egyéni vállalkozó halála esetén a vállalkozói tevékenységet özvegye folytatja, vagy a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruházással megszerezte az egyéni cég vagyoni betétjét, és a szociális szolgáltatót, intézményt az egyéni cég veszi át;
+af)[^1] fenntartóváltozás miatt, ha az új fenntartó a korábbi fenntartó jogutódlással történő megszűnése révén jött létre, vagy a fenntartó egyéni vállalkozó halála esetén a vállalkozói tevékenységet özvegye vagy örököse folytatja, vagy a fenntartó egyéni vállalkozó egyéni céget alapított, illetve átruházással megszerezte az egyéni cég vagyoni betétjét, és a szociális szolgáltatót, intézményt az egyéni cég veszi át;
 
 b) az a) pontban nem említett esetben azt megelőzően kell kérelmezni, hogy a szociális szolgáltatót, intézményt elkezdenék a módosítás iránti kérelemben foglaltaknak megfelelően működtetni.
 
@@ -71,3 +71,5 @@ b) a működési engedélynek a módosítást követően hatályos valamennyi ad
 (11) Ha a fenntartó azelőtt kérelmezi a határozott idejű, illetve az ideiglenes működési engedély hatályának módosítását, mielőtt az hatályát vesztené, a kérelem elbírálásáig a működési engedély hatálya meghosszabbodik. A működési engedély hatályának meghosszabbítása során a 6. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 (12) Ha a működést engedélyező szerv tudomására jutott tény vagy adat alapján kétséges, hogy a szociális szolgáltató, intézmény a kérelemmel nem érintett, jogszabályokban meghatározott feltételeket teljesíti, a működést engedélyező szerv egyéb működési feltételeket is megvizsgálhat, azokkal kapcsolatban bizonyítási eljárást folytathat le, szükség esetén az 5. § (3) bekezdése szerinti hatóságokat is bevonhatja, továbbá – ha jogsértést állapít meg, a kérelemmel érintett változások és a jogsértés jellegétől függően – erre hivatkozva a kérelmet elutasíthatja, illetve alkalmazhatja a 13. § szerinti jogkövetkezményeket.
+
+[^1]: A 7. § (2) bekezdés af) alpontja a 38/2010. (II. 26.) Korm. rendelet 7. § (7) bekezdés c) pontja szerint módosított szöveg; alkalmazására lásd e módosító rendelet 7. § (4)–(6) bekezdését.
