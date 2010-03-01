@@ -1,1 +1,0 @@
-## A kulturális járulék teljesítése

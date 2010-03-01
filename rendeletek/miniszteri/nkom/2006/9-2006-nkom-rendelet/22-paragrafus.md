@@ -6,6 +6,6 @@
 
 (3) A kollégium a döntéséről – támogató döntés esetén a Bizottság elnökének kifogást nem emelő nyilatkozatától, nyilatkozattétel hiányában pedig a kifogásra biztosított határidő leteltétől számított – 10 napon belül értesíti a pályázókat.
 
-(4)[^14] A Bizottság elnöke jóváhagyásától, illetve a miniszteri keret terhére nyújtott támogatás esetén a támogatási szerződés aláírásától számított 10 napon belül az Igazgatóság gondoskodik a támogatott pályázók nevének és lakcímének, székhelyének, a megítélt támogatás összegének és módjának, valamint a támogatott pályázatok rövid tartalmi összefoglalójának nyilvános közzétételéről az Alap Honlapján.
+(4)[^15] A Bizottság elnöke jóváhagyásától, illetve a miniszteri keret terhére nyújtott támogatás esetén a támogatási szerződés aláírásától számított 10 napon belül az Igazgatóság gondoskodik a támogatott pályázók nevének és lakcímének, székhelyének, a megítélt támogatás összegének és módjának, valamint a támogatott pályázatok rövid tartalmi összefoglalójának nyilvános közzétételéről az Alap Honlapján.
 
-[^14]: A 22. § (4) bekezdése a 42/2007. (XII. 28.) OKM rendelet 6. §-ával megállapított szöveg.
+[^15]: A 22. § (4) bekezdése a 42/2007. (XII. 28.) OKM rendelet 6. §-ával megállapított szöveg.

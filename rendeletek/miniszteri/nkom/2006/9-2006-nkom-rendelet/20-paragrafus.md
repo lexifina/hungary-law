@@ -12,6 +12,6 @@ e) a pályázati cél megvalósításához esetenként szükséges szerződések
 
 f) a Bizottság vagy a kollégiumok által előírt, a pályázati kiírásban meghatározott egyéb adatokat,
 
-g)[^13] a pályázó hozzájárulását, hogy a Kincstár keretében működő, alapvetően pénzügyi szemléletű megfigyelő rendszerhez, az OTMR-hez a jogszabályban meghatározott döntéshozók, előirányzat-kezelők, Monitoring bizottságok tagjai a támogatásban részesülő adataihoz hozzáférhessenek.
+g)[^14] a pályázó hozzájárulását, hogy a Kincstár keretében működő, alapvetően pénzügyi szemléletű megfigyelő rendszerhez, az OTMR-hez a jogszabályban meghatározott döntéshozók, előirányzat-kezelők, Monitoring bizottságok tagjai a támogatásban részesülő adataihoz hozzáférhessenek.
 
-[^13]: A 20. § g) pontját a 6/2008. (III. 5.) OKM rendelet 2. §-a iktatta be.
+[^14]: A 20. § g) pontját a 6/2008. (III. 5.) OKM rendelet 2. §-a iktatta be.
