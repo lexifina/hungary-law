@@ -2,7 +2,7 @@
 
 7. § (1) A támogatási igényekről – a területileg illetékes államigazgatási hivatal 6. § szerinti véleményének figyelembevételével – a miniszter dönt. Az utalványozás és az előirányzat-felhasználás módosításának alapdokumentuma a miniszter által jóváhagyott döntésről készült feljegyzés. A támogatásokat a minisztérium – e feljegyzésen alapuló – utalványozása alapján a Kincstár folyósítja.
 
-(2) Különösen súlyos természeti, a település nagyobb részét érintő károk (pl. földrengés, árvíz, lakott területen belüli nagy kiterjedésű belvíz, tornádó, tűzvész, robbanás, pince- vagy partfalomlás) mérséklésére a támogatás azonnali segítségnyújtásként, előleg formájában is folyósítható a miniszter előzetes döntésével, a kedvezményezettet terhelő elszámolási kötelezettséggel.
+(2)[^5] Különösen súlyos természeti, a település nagyobb részét érintő károk (pl. földrengés, árvíz, lakott területen belüli nagy kiterjedésű belvíz, tornádó, tűzvész, robbanás, pince- vagy partfalomlás, földcsuszamlás) mérséklésére a támogatás azonnali segítségnyújtásként, előleg formájában is folyósítható a miniszter előzetes döntésével, a kedvezményezettet terhelő elszámolási kötelezettséggel.
 
 (3) Vis maior tartalékból történő támogatás kifizetése a következő évre nem vihető át.
 
@@ -43,3 +43,5 @@ becsatolásával köteles az Igazgatóság és a területileg illetékes állami
 (6) Az elszámolásokról, illetve az esetleges visszafizetési kötelezettség előírásáról az Igazgatóság dönt, amelyről értesíti a Támogatottat és a minisztert. Az Igazgatóság ellenőrzi az esetleges visszafizetési kötelezettség teljesítését.
 
 (7) Amennyiben a Támogatott a támogatást vagy annak egy részét jogtalanul vette igénybe, azt nem a megjelölt feladatra használta fel, vagy a munka a tervezettnél alacsonyabb összköltséggel valósult meg, akkor a támogatásról vagy meghatározott részéről haladéktalanul köteles lemondani, és a támogatást a központi költségvetés javára visszafizetni. A jogtalanul igénybe vett összeg után a Támogatott a jegybanki alapkamat kétszeresének megfelelő mértékű kamatot fizet a jogtalan igénybevétel napjától a visszafizetés napjáig.
+
+[^5]: A 7. § (2) bekezdése a 47/2010. (II. 26.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.

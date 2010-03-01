@@ -14,7 +14,7 @@
 
 | 6. | Fax: |  |
 
-| 7. | Vis maior esemény megnevezése (több is választható): | (az előre nem látható természeti vagy más eredetű veszély miatt szükségessé váló védekezés, önkormányzati épület, út, híd, komp, ár-, belvízvédelmi létesítmény, közmű és műtárgyai, pince- partfal) |
+| 7. | Vis maior esemény megnevezése (több is választható): | (az előre nem látható természeti vagy más eredetű veszély miatt szükségessé váló védekezés, önkormányzati épület, út, híd, komp, ár-, belvízvédelmi létesítmény, közmű és műtárgyai, pince- partfal, földcsuszamlás) |
 
 | 8. | Vis maior esemény pontos időpontja: |  |
 
@@ -42,4 +42,6 @@
 
 | ............................................... ........................................................................ polgármester/elnök (kör)jegyző/munkaszervezet vezető |
 
-2. melléklet a 8/2010. (I. 28.) Korm. rendelethez
+2. melléklet a 8/2010. (I. 28.) Korm. rendelethez[^8]
+
+[^8]: A 2. melléklet a 47/2010. (II. 26.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg. [A 2. melléklet címében a 47/2010. (II. 26.) Korm. rendelet 2. § (3) bekezdésével elrendelt módosítás, amely szerint az „az OKF” szövegrész helyébe „a Védelmi Igazgatóság” szöveg lép, nem vezethető át.]

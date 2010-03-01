@@ -6,7 +6,7 @@
 
 | 2. Bejelentett vis maior esemény megnevezése: |  |
 
-| 3. OKF tájékoztatása a 3. § (5) bekezdés alapján a bejelentés valódiságáról, a vis maior esemény jellegéről és a védekezési munkálatok szükségességéről: |
+| 3.  Védelmi Igazgatóság tájékoztatása a 3. § (5) bekezdés alapján a bejelentés valódiságáról, a vis maior esemény jellegéről és a védekezési munkálatok szükségességéről: |
 
 | a) A bejelentés valódisága: |  |
 
@@ -28,7 +28,7 @@
 
 | .................................................................................................. | ................................................. |
 
-| Megyei Katasztrófavédelmi Igazgatóság részéről: | Önkormányzat részéről: |
+| Védelmi Igazgatóság részéről: | Önkormányzat részéről: |
 
 | Név: | Név |
 

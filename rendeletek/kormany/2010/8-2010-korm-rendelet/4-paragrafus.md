@@ -40,7 +40,7 @@ e) a rendkívüli időjárás által közvetlenül okozott károk esetében az O
 
 f) a bejelentett védekezési eseményekről, károkról készített fotódokumentáció;
 
-g) az OKF tájékoztatója, illetve helyszíni ellenőrzés jegyzőkönyvét tartalmazó 2. melléklet;
+g)[^3] a Védelmi Igazgatóság tájékoztatója, illetve helyszíni ellenőrzés jegyzőkönyvét tartalmazó 2. melléklet;
 
 h) az előzetes helyszíni vizsgálat jegyzőkönyvét tartalmazó 3. melléklet;
 
@@ -56,4 +56,7 @@ m) a miniszter által a kérelmek elbírálása során egyedileg meghatározott,
 
 (4) A (3) bekezdés b) pontja szerinti szakértőnek függetlennek kell lennie a kérelmet benyújtó önkormányzattól, többcélú kistérségi társulástól és a helyreállítás későbbi kivitelezőjétől egyaránt.
 
-(5) Ár- és belvíz-védekezési költségek elszámolásával kapcsolatos kérelmek esetén – kizárólag a védekezési költségek vonatkozásában – a (3) bekezdés b), ca), cb), cd), d), e), h) és i) pontjában megjelölt dokumentumok csatolása nem kötelező.
+(5)[^4] Ár- és belvíz-védekezési költségek elszámolásával kapcsolatos kérelmek esetén – kizárólag a védekezési költségek vonatkozásában – a (3) bekezdés b), ca), cb), cd), d), e) és i) pontjában megjelölt dokumentumok csatolása nem kötelező.
+
+[^3]: A 4. § (3) bekezdés g) pontja a 47/2010. (II. 26.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 4. § (5) bekezdése a 47/2010. (II. 26.) Korm. rendelet 2. § (6) bekezdése szerint módosított szöveg.

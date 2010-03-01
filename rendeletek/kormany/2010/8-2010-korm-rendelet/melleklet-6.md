@@ -128,7 +128,9 @@
 
 | Egyéb kötelező feladatot ellátó intézmények károsodása esetében biztosítással, illetve arra vonatkozó igazolással, hogy az adott ingatlanra nem köthető biztosítás rendelkezik-e |  |
 
-| Igényelt támogatás egyéb kötelező feladatot ellátó, illetve ár- és belvízvédelmi építmények károsodása esetén |  |
+| Igényelt támogatás egyéb kötelező feladatot ellátó intézmények károsodása esetén |  |
+
+| Igényelt támogatás ár- és belvízvédelmi építmények károsodása esetén |  |
 
 | Vis maior támogatás összesen: |  |
 
