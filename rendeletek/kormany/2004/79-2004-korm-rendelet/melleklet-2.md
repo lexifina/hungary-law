@@ -1,8 +1,8 @@
 ## A postai dátumnyomat kötelező tartalmi követelményei
 
-## 1.[^43] A postai dátumnyomat lenyomati képe kötelezően tartalmazza:
+## 1.[^44] A postai dátumnyomat lenyomati képe kötelezően tartalmazza:
 
-## a) egyetemes és engedélyes postai szolgáltatónál a postai szolgáltatóhely megnevezését;
+## a)[^45] egyetemes és engedélyes postai szolgáltatónál a postai szolgáltatóhely megnevezését, valamint levélgyűjtő szekrényben vagy más e célra szolgáló berendezésben való elhelyezéssel felvett postai küldemény esetében a nyomat részeként vagy külön nyomaton a levélgyűjtő szekrényben vagy más e célra szolgáló berendezés egyértelmű azonosítását szolgáló jelzetet;
 
 ## b) a lenyomat elhelyezésének keltét, év, hó, nap megjelöléssel;
 
@@ -30,4 +30,5 @@
 
 2. számú melléklet a 79/2004. (IV. 19.) Korm. rendelethez
 
-[^43]: Az 1. számú melléklet 1. pontja a 196/2005. (IX. 22.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^44]: Az 1. számú melléklet 1. pontja a 196/2005. (IX. 22.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^45]: Az 1. számú melléklet 1. pont a) alpontja a 2/2010. (I. 14.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.

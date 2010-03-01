@@ -14,7 +14,7 @@
 
 (4) A feladó az egyetemes postai szolgáltatási körbe tartozó küldeményeihez – válaszadás céljából – saját nevére és címére megcímzett levélküldeményt (a továbbiakban: válaszküldemény) csatolhat. A válaszküldeményre vonatkozó részletes szabályokat a postai szolgáltató az üzletszabályzatban teszi közzé.
 
-(5)[^1] A hivatalos irat tértivevény nyomtatványának kötelezően alkalmazandó tartalmi követelményeit, valamint a gépi feldolgozásra alkalmas és a gépi feldolgozásra nem alkalmas tértivevények formai követelményeit és mintáit, továbbá a hivatalos iratokhoz választható értesítők meghatározott típusait e rendelet 2. és 3. melléklete tartalmazza. A feladó a hivatalos irat feladásához használni kívánt tértivevényt – a rendszeresített nyomtatványok közül – szabadon megválaszthatja. Amennyiben a feladó a visszaérkező tértivevény digitalizált képének elektronikus úton, illetőleg adathordozón történő átadására is megállapodik a postai szolgáltatóval, a hivatalos irathoz csak a gépi feldolgozásra alkalmas tértivevény nyomtatvány csatolható.
+(5)[^2] A hivatalos irat tértivevény nyomtatványának kötelezően alkalmazandó tartalmi követelményeit, valamint a gépi feldolgozásra alkalmas és a gépi feldolgozásra nem alkalmas tértivevények formai követelményeit és mintáit, továbbá a hivatalos iratokhoz választható értesítők meghatározott típusait e rendelet 2. és 3. melléklete tartalmazza. A feladó a hivatalos irat feladásához használni kívánt tértivevényt – a rendszeresített nyomtatványok közül – szabadon megválaszthatja. Amennyiben a feladó a visszaérkező tértivevény digitalizált képének elektronikus úton, illetőleg adathordozón történő átadására is megállapodik a postai szolgáltatóval, a hivatalos irathoz csak a gépi feldolgozásra alkalmas tértivevény nyomtatvány csatolható.
 
 (6) A hivatalos irat feladásához rendszeresített tértivevény megfelelő rovatainak kitöltése során a feladó köteles megjelölni, hogy eredménytelen házhoz kézbesítés esetén a szolgáltató a címzettet milyen típusú értesítővel tájékoztassa.
 
@@ -24,4 +24,4 @@
 
 (9) A (7) és a (8) bekezdésben foglalt kötelezettség a postai szolgáltatót csak akkor terheli, ha a korlátozásról vagy tilalomról hivatalosan is értesült.
 
-[^1]: A 6. § (5) bekezdése a 196/2005. (IX. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 6. § (5) bekezdése a 196/2005. (IX. 22.) Korm. rendelet 1. §-ával megállapított szöveg.

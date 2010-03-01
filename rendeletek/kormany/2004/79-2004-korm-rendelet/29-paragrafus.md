@@ -10,7 +10,7 @@
 
 (5) Az értesítőben megjelölt – a (4) bekezdésben említett – átvételi határidő eredménytelen elteltét követően a postai szolgáltató a hivatalos iratot a tértivevényen feltüntetett ,,nem kereste'' jelzéssel a feladónak visszaküldi.
 
-(6)[^23]
+(6)[^24]
 
 (7) Ha a címzett, illetve a meghatalmazottja a hivatalos irat átvételét a kézbesítési kísérlet alkalmával megtagadja, azt az egyetemes postai szolgáltató – rendelkezésre tartási idő mellőzésével – a tértivevényen feltüntetett ,,az átvételt megtagadta'' jelzéssel visszaküldi a feladónak.
 
@@ -20,9 +20,9 @@
 
 (10) A postafiókra címzett hivatalos irat érkezéséről az egyetemes postai szolgáltató a fiókban elhelyezett értesítéssel ad tájékoztatást, abban az esetben is, ha a hivatalos irat postafiókra címzett, de nem a postafiók bérlőjének szól.
 
-(11)[^24] A hivatalos iratot, ha a feladó így rendelkezett a címzett saját kezéhez kell kézbesíteni. Az egyetemes postai szolgáltató nem kézbesíthet meghatalmazott részére „a címzett saját kezéhez” jelzésű hivatalos iratot. Ha a feladó a hivatalos irat feladásakor „a címzett saját kezéhez” jelzést alkalmazott, és a sikeres kézbesítés érdekében a címzett nevén és címén kívül egyéb személyazonosító adatát vagy személyazonosító okiratának számát is feltüntette, az egyetemes postai szolgáltató a címzett személyazonosságának a megállapításakor köteles azokat figyelembe venni.
+(11)[^25] A hivatalos iratot, ha a feladó így rendelkezett a címzett saját kezéhez kell kézbesíteni. Az egyetemes postai szolgáltató nem kézbesíthet meghatalmazott részére „a címzett saját kezéhez” jelzésű hivatalos iratot. Ha a feladó a hivatalos irat feladásakor „a címzett saját kezéhez” jelzést alkalmazott, és a sikeres kézbesítés érdekében a címzett nevén és címén kívül egyéb személyazonosító adatát vagy személyazonosító okiratának számát is feltüntette, az egyetemes postai szolgáltató a címzett személyazonosságának a megállapításakor köteles azokat figyelembe venni.
 
 (12) Az egyetemes postai szolgáltató a hivatalos iratot közvetett úton csak a 20. § (1) bekezdésének a)–c) pontjaiban meghatározott és a c) pontban foglaltakkal jogszabály alapján egy tekintet alá eső szervezetek esetében kézbesítheti.
 
-[^23]: A 29. § (6) bekezdését a 196/2005. (IX. 22.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
-[^24]: A 29. § (11) bekezdése a 196/2005. (IX. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^24]: A 29. § (6) bekezdését a 196/2005. (IX. 22.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^25]: A 29. § (11) bekezdése a 196/2005. (IX. 22.) Korm. rendelet 9. §-ával megállapított szöveg.

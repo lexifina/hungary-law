@@ -6,7 +6,7 @@
 
 ## Az egyetemes postai szolgáltatások területi hozzáférhetősége
 
-39. § (1)[^37] Az egyetemes postai szolgáltató a települések belterületén kívüli lakott helyeken az egyetemes postai szolgáltatás körébe tartozó postai szolgáltatásokat és az azokhoz kapcsolódó – a Pt. 5. §-ának (2) bekezdésében meghatározott – különszolgáltatásokat (e fejezet alkalmazásában a továbbiakban együtt: egyetemes postai szolgáltatás), valamint a szolgáltatónak az igénybevevők számára történő rendelkezésre állását legalább az erre alkalmas postai berendezések telepítésével és üzemeltetésével köteles biztosítani. A postai berendezések telepítésénél figyelembe kell venni, hogy azok megközelíthetősége és a postai küldemények elhelyezésének a lehetősége a mozgáskorlátozott személyek számára – más személy segítségnyújtása nélkül is – biztosított legyen. E rendelet alkalmazásában belterületen kívüli lakott hely a belterületen kívülálló olyan épület vagy területrész, ahol postai igénybevevő bejelentett lakóhelye, tartózkodási helye, székhelye, telephelye található.
+39. § (1)[^38] Az egyetemes postai szolgáltató a települések belterületén kívüli lakott helyeken az egyetemes postai szolgáltatás körébe tartozó postai szolgáltatásokat és az azokhoz kapcsolódó – a Pt. 5. §-ának (2) bekezdésében meghatározott – különszolgáltatásokat (e fejezet alkalmazásában a továbbiakban együtt: egyetemes postai szolgáltatás), valamint a szolgáltatónak az igénybevevők számára történő rendelkezésre állását legalább az erre alkalmas postai berendezések telepítésével és üzemeltetésével köteles biztosítani. A postai berendezések telepítésénél figyelembe kell venni, hogy azok megközelíthetősége és a postai küldemények elhelyezésének a lehetősége a mozgáskorlátozott személyek számára – más személy segítségnyújtása nélkül is – biztosított legyen. E rendelet alkalmazásában belterületen kívüli lakott hely a belterületen kívülálló olyan épület vagy területrész, ahol postai igénybevevő bejelentett lakóhelye, tartózkodási helye, székhelye, telephelye található.
 
 (2) Az egyetemes postai szolgáltatónak az egyetemes postai szolgáltatást igénybevevők számára történő rendelkezésre állását a hatszáz – bejelentett lakóhellyel rendelkező – lakosnál kisebb népességszámú településeken állandó postai szolgáltató hely üzemeltetésével vagy mobilposta működtetésével kell biztosítania.
 
@@ -32,14 +32,14 @@ c) az azonos településen belüli két állandó belterületi postai szolgálta
 
 (10) A levélgyűjtő szekrényeknek meg kell felelniük az 5. számú mellékletben foglalt követelményeknek.
 
-(11)[^38] Település külterületének belterületté minősítése, vagy településből kiváló településrész önálló településsé válása esetén az érintett területen lakó állampolgár – az átminősítésről, önálló településsé válásról szóló, írásbeli döntés benyújtásával – kérheti az egyetemes postai szolgáltatótól a korábbi külterületen vagy korábbi településrészen a belterületi postai szolgáltatás biztosítását, amelyet a szolgáltató a kéréstől számított 1 éven belül köteles teljesíteni.
+(11)[^39] Település külterületének belterületté minősítése, vagy településből kiváló településrész önálló településsé válása esetén az érintett területen lakó állampolgár – az átminősítésről, önálló településsé válásról szóló, írásbeli döntés benyújtásával – kérheti az egyetemes postai szolgáltatótól a korábbi külterületen vagy korábbi településrészen a belterületi postai szolgáltatás biztosítását, amelyet a szolgáltató a kéréstől számított 1 éven belül köteles teljesíteni.
 
-(12)[^39] A (3) bekezdés szerinti szerződés megkötéséről, továbbá a (11) bekezdés alapján történt szolgáltatás-változásról az egyetemes postai szolgáltató köteles a hírközlési hatóságot hivatalosan értesíteni.
+(12)[^40] A (3) bekezdés szerinti szerződés megkötéséről, továbbá a (11) bekezdés alapján történt szolgáltatás-változásról az egyetemes postai szolgáltató köteles a hírközlési hatóságot hivatalosan értesíteni.
 
 (13) Ha a (12) bekezdésben említett települési önkormányzat a későbbiekben mégis a belterületi postai szolgáltatás biztosítását kéri, akkor azt az egyetemes postai szolgáltató az írásbeli kérelem keltétől számított egy éven belül köteles nyújtani.
 
 (14) A (3) bekezdés szerinti szerződés megkötéséről, továbbá a (11)–(13) bekezdésben foglaltak bekövetkezésének tényéről az egyetemes postai szolgáltató – a határozat kézhezvételét követő 30 napon belül – köteles a hírközlési hatóságot hivatalosan értesíteni.
 
-[^37]: A 39. § (1) bekezdésének harmadik mondatát a 196/2005. (IX. 22.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^38]: A 39. § (11) bekezdése a 196/2005. (IX. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^39]: A 39. § (12) bekezdése a 196/2005. (IX. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^38]: A 39. § (1) bekezdésének harmadik mondatát a 196/2005. (IX. 22.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^39]: A 39. § (11) bekezdése a 196/2005. (IX. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^40]: A 39. § (12) bekezdése a 196/2005. (IX. 22.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

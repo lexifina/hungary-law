@@ -4,7 +4,7 @@
 
 ## A felhasználók tájékoztatása
 
-31. § (1)[^28] A postai szolgáltató minden állandó postai szolgáltató helyén és ügyfélszolgálati helyiségében, továbbá honlapján köteles közzé tenni:
+31. § (1)[^29] A postai szolgáltató minden állandó postai szolgáltató helyén és ügyfélszolgálati helyiségében, továbbá honlapján köteles közzé tenni:
 
 a) postai szolgáltatásainak a díjait,
 
@@ -18,9 +18,9 @@ e) az egyetemes postai szolgáltatás vonatkozásában az állandó postai szolg
 
 f) a feladás napján továbbításra kerülő küldemények feladási határidejét,
 
-g)[^29]
+g)[^30]
 
 (2) A mobilposta-szolgáltatással ellátott településeken a postai szolgáltató alkalmazottja a kért információt a küldeményfelvétel és a postai kézbesítés alkalmával bocsátja rendelkezésre.
 
-[^28]: A 31. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 342. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^29]: A 31. § (1) bekezdésének g) pontját a 182/2009. (IX. 10.) Korm. rendelet 342. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 31. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 342. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^30]: A 31. § (1) bekezdésének g) pontját a 182/2009. (IX. 10.) Korm. rendelet 342. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

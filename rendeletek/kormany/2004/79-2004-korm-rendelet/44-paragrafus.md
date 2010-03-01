@@ -20,7 +20,7 @@ a) az elsőbbségi küldeménykategóriába tartozó levélküldemények átfut�
 
 b) a nem elsőbbségi levélküldemények átfutási idejének követelményszintje a (3) bekezdés b) pontjában foglaltakkal megegyező.
 
-(5) Az Európai Unió tagállamai közötti határt átlépő nemzetközi forgalomban a szolgáltatónak úgy kell eljárnia, hogy a leggyorsabb egyetemes szolgáltatási kategóriába tartozó levélküldemények – a küldemények kezelésének gyorsaságán is alapuló rendszer esetében az elsőbbségi levélküldemények – legalább 85%-a a feladást követő harmadik munkanap, legalább 97%-a a feladást követő ötödik munkanap végéig kézbesítésre kerüljön, vagy ennek megkísérlése megtörténhessen.[^41]
+(5) Az Európai Unió tagállamai közötti határt átlépő nemzetközi forgalomban a szolgáltatónak úgy kell eljárnia, hogy a leggyorsabb egyetemes szolgáltatási kategóriába tartozó levélküldemények – a küldemények kezelésének gyorsaságán is alapuló rendszer esetében az elsőbbségi levélküldemények – legalább 85%-a a feladást követő harmadik munkanap, legalább 97%-a a feladást követő ötödik munkanap végéig kézbesítésre kerüljön, vagy ennek megkísérlése megtörténhessen.[^42]
 
 (6) A Pt. 7. §-a (1) bekezdésének a) pontja vonatkozásában a leggyorsabb szolgáltatási kategóriába tartozó levélküldeménynek tekintendő
 
@@ -42,4 +42,4 @@ d) a (3) bekezdés c) pontja vonatkozásában, a postacsomagok hálózati felad�
 
 (8) Az egyetemes postai szolgáltató, illetve az engedélyes postai szolgáltató a mérések lefolytatására alkalmazott mérési módszereket köteles a hírközlési hatósággal évente jóváhagyatni, és a mért értékekről évente egyszer a hírközlési hatóságot tájékoztatni. A hírközlési hatóság az átfutási időt ellenőrzi vagy ellenőrizteti.
 
-[^41]: Lásd e rendelet 47. §-ának (2) bekezdését.
+[^42]: Lásd e rendelet 47. §-ának (2) bekezdését.

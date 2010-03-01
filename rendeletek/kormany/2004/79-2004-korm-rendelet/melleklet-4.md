@@ -2,9 +2,9 @@
 
 ## Ezen melléklet szerinti nyomtatványokat a hivatalos iratok feladásakor és kézbesítésekor kell használni.
 
-## I.[^45]
+## I.[^47]
 
-## II.[^46] Gépi feldolgozásra alkalmas tértivevény-nyomtatvány
+## II.[^48] Gépi feldolgozásra alkalmas tértivevény-nyomtatvány
 
 ## II. Gépi feldolgozásra alkalmas tértivevény-nyomtatvány
 
@@ -458,8 +458,8 @@
 
 | Tájékoztatjuk, hogy abban az esetben, ha az iratot a postán a kézbesítés második megkísérlését követő 5 munkanapon belül személyesen nem veszi át, a Polgári perrendtartásról szóló 1952. évi III. törvény 99. § (2) bekezdése alapján – ellenkező bizonyításig – a kézbesítés második megkísérlését követő ötödik munkanapon azt kézbesítettnek kell tekinteni. Keresetlevél (fizetési meghagyás) kézbesítése esetén e vélelem beálltáról a bíróság külön értesíti Önt. |
 
-4. számú melléklet a 79/2004. (IV. 19.) Korm. rendelethez[^47]
+4. számú melléklet a 79/2004. (IV. 19.) Korm. rendelethez[^49]
 
-[^45]: A 3. számú melléklet I. pontja a 196/2005. (IX. 22.) Korm. rendelet 15. § (2) bekezdése alapján 2007. január 1. napjával hatályát vesztette.
-[^46]: A 3. számú melléklet II. pontja a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének l) pontja szerint módosított szöveg.
-[^47]: A 4. számú melléklet az 59/2005. (IV. 4.) Korm. rendelet 2. §-ával megállapított, valamint a 196/2005. (IX. 22.) Korm. rendelet 13. § (3) bekezdése szerint módosított és a Magyar Közlöny 2005. évi 131. számában megjelent helyesbítésnek megfelelő szöveg. A 4. számú melléklet a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének l) pontja szerint módosított szöveg.
+[^47]: A 3. számú melléklet I. pontja a 196/2005. (IX. 22.) Korm. rendelet 15. § (2) bekezdése alapján 2007. január 1. napjával hatályát vesztette.
+[^48]: A 3. számú melléklet II. pontja a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének l) pontja szerint módosított szöveg.
+[^49]: A 4. számú melléklet az 59/2005. (IV. 4.) Korm. rendelet 2. §-ával megállapított, valamint a 196/2005. (IX. 22.) Korm. rendelet 13. § (3) bekezdése szerint módosított és a Magyar Közlöny 2005. évi 131. számában megjelent helyesbítésnek megfelelő szöveg. A 4. számú melléklet a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének l) pontja szerint módosított szöveg.

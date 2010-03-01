@@ -32,6 +32,6 @@ c) az olyan postai küldemény, amelynek közvetett kézbesítő útján való k
 
 (6) A közvetett kézbesítő köteles a saját szervezete (vagy annak alkalmazottjai) részére érkező postai küldeményeket és az (1) bekezdés szerint címzett küldeményeit elkülönítetten kezelni.
 
-(7)[^19] Ha a közvetett kézbesítésről a közvetett kézbesítő nem gondoskodik (a postai küldeményeket, illetve az (5) bekezdés alapján az értesítőket a postai szolgáltatótól nem veszi át, a szolgáltató a küldeményt a feladó részére visszakézbesíti.
+(7)[^20] Ha a közvetett kézbesítésről a közvetett kézbesítő nem gondoskodik (a postai küldeményeket, illetve az (5) bekezdés alapján az értesítőket a postai szolgáltatótól nem veszi át, a szolgáltató a küldeményt a feladó részére visszakézbesíti.
 
-[^19]: A 20. § (7) bekezdését a 196/2005. (IX. 22.) Korm. rendelet 6. §-a iktatta be.
+[^20]: A 20. § (7) bekezdését a 196/2005. (IX. 22.) Korm. rendelet 6. §-a iktatta be.
