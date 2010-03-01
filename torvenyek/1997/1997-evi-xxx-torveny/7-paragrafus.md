@@ -1,1 +1,1 @@
-7. § A jelzálog-hitelintézet jogosult a lejárat előtti visszafizetéssel járó költségeit érvényesíteni.
+7. § A jelzálog-hitelintézet jogosult az előtörlesztés miatt keletkező költségeinek megtérítésére. Fogyasztónak nyújtott hitel esetében az előtörlesztésre a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény rendelkezéseit kell alkalmazni.
