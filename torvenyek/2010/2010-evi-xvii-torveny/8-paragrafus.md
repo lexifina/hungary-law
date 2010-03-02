@@ -1,0 +1,1 @@
+8. § A kérelmet elutasító végzés ellen a kérelmező, a támogatót kinevező végzés ellen a kérelmező és a kinevezett támogató fellebbezéssel élhet. Ha a kérelmet a hozzátartozó nyújtotta be, a segítségre szoruló mind a kérelmet elutasító, mind a támogatót kinevező végzés ellen fellebbezéssel élhet.

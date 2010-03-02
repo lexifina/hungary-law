@@ -1,0 +1,9 @@
+3. § (1) Ha a korlátozottan cselekvőképes személy gondnokát önálló eljárásra jogosítja fel a bíróság, a határozatban rendelkezni kell arról, hogy a feljogosítás a korlátozás alá tartozó mely ügycsoportokra, vagy az ügycsoporton belül mely ügyekre és mely időtartamra vonatkozik. A feljogosítás legfeljebb 3 éves időtartamra adható meg. Ha a gondnokoltnak ingatlana van, vagy ingatlanon haszonélvezeti joga áll fenn, továbbá, ha ingatlanra a gondnokoltat érintő egyéb jog vagy tény van bejegyezve, feljegyezve, és a feljogosítás az ingatlannal való rendelkezésre is vonatkozik, az első fokú bíróság hivatalból megkeresi az ingatlanügyi hatóságot a feljogosítás tényének az ingatlan-nyilvántartásba való feljegyzése iránt.
+
+(2) A korlátozottan cselekvőképes személy gondnokát önálló eljárásra feljogosító jogerős végzést az első fokú bíróság megküldi a gyámhatóságnak.
+
+(3) A kérelmet elutasító végzés ellen a kérelmező, a gondnokot önálló eljárásra feljogosító végzés ellen a kérelmezett fellebbezéssel élhet.
+
+(4) A gondnok önálló eljárásra való feljogosítása időtartamának lejártát megelőzően a gyámhatóság a feljogosítás felülvizsgálata iránti kérelmet köteles előterjeszteni. Ha a gondnok önálló eljárásra való feljogosítására a Ptk 2:25. § a) pontja alapján került sor, a gondnokolt mint kérelmező a gondnokkal mint kérelmezettel szemben a feljogosítás megszüntetése iránti kérelmet nyújthat be a feljogosítás időtartamának lejáratát megelőzően.
+
+(5) A feljogosítás felülvizsgálata és a feljogosítás megszüntetése iránti eljárásban a bíróság a gondnok önálló eljárásra való feljogosítása iránti eljárás szabályainak megfelelő alkalmazásával jár el azzal, hogy ha a feljogosítás megszüntetéséről rendelkezik és a feljogosítás az ingatlan-nyilvántartásba az (1) bekezdés szerint feljegyzésre került, az első fokú bíróság megkeresi az ingatlanügyi hatóságot a feljogosítás törlése iránt.

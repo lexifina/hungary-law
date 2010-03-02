@@ -1,0 +1,1 @@
+Az Országgyűlés az új Polgári Törvénykönyv által bevezetett, a nagykorú személyek védelmét szolgáló jogintézmények, így a gondnokság alá helyezéssel összefüggésben a gondnok önálló eljárásra való feljogosítása és a támogatott döntéshozatal feltételeinek polgári nemperes eljárásban való megteremtése érdekében a következő törvényt alkotja:
