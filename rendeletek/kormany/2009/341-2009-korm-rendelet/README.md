@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-341-20-
 | --- | --- | --- |
 | 2009-12-31 | 2009-341-20-22.1 | 341/2009. (XII. 30.) Korm. rendelet |
 | 2010-03-01 | 2009-341-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2010-03-02 | 2009-341-20-22.3 | 354/2013. (X. 7.) Korm. rendelet |

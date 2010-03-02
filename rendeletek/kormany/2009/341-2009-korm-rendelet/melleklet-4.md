@@ -86,6 +86,6 @@
 
 ## ⬜ Nem
 
-4. melléklet a 341/2009. (XII. 30.) Korm. rendelethez[^6]
+4. melléklet a 341/2009. (XII. 30.) Korm. rendelethez[^8]
 
-[^6]: A 4. mellékletet a 16. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^8]: A 4. mellékletet a 16. § (1) bekezdés a) pontja hatályon kívül helyezte.
