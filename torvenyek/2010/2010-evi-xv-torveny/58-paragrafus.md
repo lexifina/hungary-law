@@ -1,0 +1,15 @@
+58. § (1) Ha a korrigált nyitó követelésrendezési eljárási mérleg alapján megállapítható, hogy az alapítvány vagyona a hitelezők követeléseinek fedezésére nem elegendő, erről az elszámoló bizottság haladéktalanul értesíti az alapítvány alapítóját. Amennyiben az alapító – vagy az alapító jóváhagyása alapján más személy – a hiányzó összeget 30 napon belül nem bocsátja az elszámoló bizottság rendelkezésre, az elszámoló bizottság haladéktalanul köteles felszámolási eljárást indítani. A felszámolási eljárás megindítására és lefolytatására a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) rendelkezéseit a (2)–(7) bekezdések szerinti eltérésekkel kell alkalmazni.
+
+(2) Ha a felszámolás elrendelésére az (1) bekezdés szerinti kérelemre kerül sor, a Cstv. 25–27. §-ban foglaltakat nem kell alkalmazni.
+
+(3) Ahol a Cstv. adós szervezetet említ, azon az üzletszerű gazdasági tevékenységet nem folytató alapítványt is érteni kell. Ahol a Cstv. az adós szerv legfőbb szervét említi, azon az alapítvány alapítóját kell érteni. Ahol a Cstv. az adós szerv vezetőjét említi, azon az alapítvány kezelőjét (kuratóriumi tagjait) kell érteni. Ahol a Cstv. az adóst nyilvántartó cégbíróságot említi, ott az alapítványt nyilvántartó megyei (fővárosi) bíróságot kell érteni. Az alapítvány felszámolását fizetésképtelenség esetén a hitelező is kérheti.
+
+(4) A Cstv. 33/A. §-a és 63. § (3) bekezdése szerinti pereket az alapítvány kezelője (kuratóriumi tagjai) ellen kell megindítani. A Cstv. 33. § (2) bekezdése, 33/A. § (1) bekezdése és a 63/B. § (6) bekezdése szerinti kezesi felelősségre vonatkozó rendelkezések az alapítóval szemben abban az esetben alkalmazhatók, ha az a kezelő kijelölésével kapcsolatos alapítói jogokat fenntartotta magának, és a kezelő felelősségét megalapozó tények ismeretében az alapítvány cél szerinti működésének helyreállítása érdekében szükséges intézkedések megtételét elmulasztotta. A Cstv. 63/A. §-ban foglaltakat nem kell alkalmazni. A Cstv. 63/B. § (6) bekezdése szerinti esetekben az alapítvány kezelő szervét (kuratóriumi tagjait) – követelésrendezési eljárás alatti mulasztások esetében pedig az elszámoló bizottságot – kell a felszámolási eljárás költségeinek viselésére kötelezni.
+
+(5) A felszámolási eljárás alatt az alapítvány tevékenységének folytatására, a felszámolási eljárás során egyezség megkötésére, valamint a felszámolási eljárás megszüntetésére akkor kerülhet sor, ha azt az alapítvány alapítója is jóváhagyja.
+
+(6) A felszámoló jogszabálysértő intézkedése vagy mulasztása ellen az alapítvány alapítója is nyújthat be kifogást.
+
+(7) Az alapítványnak a felszámolás körébe tartozó vagyonából a Cstv.-nek a tartozások kifizetésének sorrendjére vonatkozó 57. §-át azzal az eltéréssel kell alkalmazni, hogy a szervezet legalább többségi befolyással rendelkező tagján az alapítvány alapítóját, a szervezet vezető tisztségviselőjén az alapítvány korábbi kezelőjét (kuratóriumi tagjait) kell érteni.
+
+Üzletszerű gazdasági tevékenységet folytató alapítvány jogutód nélküli megszüntetése

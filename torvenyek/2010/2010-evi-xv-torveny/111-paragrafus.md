@@ -1,0 +1,1 @@
+111. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a zálogjog bírósági végrehajtáson kívüli érvényesítésének, a kielégítési jog gyakorlása felfüggesztésének és korlátozásának részletes eljárási szabályait.

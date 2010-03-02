@@ -1,0 +1,1 @@
+167. § A Ptk. öröklési jogi rendelkezéseinek hatálybalépése előtt tett lemondásra a lemondó nyilatkozat megtételének időpontjában hatályos jogszabályi rendelkezéseket kell alkalmazni akkor is, ha a hagyaték a Ptk. öröklési jogi rendelkezéseinek hatálybalépése után nyílik meg.

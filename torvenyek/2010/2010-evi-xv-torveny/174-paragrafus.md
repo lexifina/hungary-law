@@ -1,0 +1,3 @@
+174. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 14. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A Tanács tagja, illetve a polgári törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozója – a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (Ktv.) 21. § (1), (3) és (6) bekezdésében foglalt összeférhetetlenségi szabályokon túl – nem lehet gazdasági társaságban, szövetkezetben személyes közreműködésre kötelezett tag, valamint nem rendelkezhet tulajdoni részesedéssel, továbbá nem lehet vezető tisztségviselő, illetve felügyelő bizottsági tag hírközlési tevékenységet végző gazdálkodóban, illetve ilyen szervezettel rendszeres üzleti kapcsolatban álló gazdálkodóban.”

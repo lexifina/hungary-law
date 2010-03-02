@@ -1,0 +1,1 @@
+53. § Az állam bírósági, hatósági határozattal történő kártalanítás nélküli tulajdonszerzése esetén a helytállási kötelezettséggel kapcsolatos polgári jogi jogviszonyokban a Magyar Államot a Magyar Nemzeti Vagyonkezelő Zrt. képviseli.

@@ -1,0 +1,1 @@
+82. § A Ptk. 3:30. § (2) bekezdésében meghatározott, tartásra irányadó ötéves időkorlátot a Ptk. hatálybalépése előtt felbontott házasság esetében a házasság felbontásának időpontjától, a Ptk. hatálybalépését megelőzően a házasság felbontása nélkül megszűnt házassági életközösség esetében pedig a Ptk. hatálybalépésétől kell számítani.

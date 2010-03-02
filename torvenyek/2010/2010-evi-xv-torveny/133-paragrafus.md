@@ -1,0 +1,1 @@
+133. § Felhatalmazást kap az építésügyért, a területfejlesztésért és területrendezésért, az iparügyekért, az energiapolitikáért, az elektronikus hírközlésért, az agrárpolitikáért, a közlekedésért és a vízgazdálkodásért felelős miniszter, hogy rendeletben megállapítsa a nyomvonal jellegű építményszerkezetek kötelező alkalmassági idejét.
