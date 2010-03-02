@@ -35,3 +35,11 @@
 3. a Polgári Törvénykönyvről szóló 1959. évi IV. törvény,
 
 4. a termékfelelősségről szóló 1993. évi X. törvény,
+
+5. a Polgári Törvénykönyv egyes rendelkezéseinek módosításáról szóló 1993. évi XCII. törvény 40. § (1) és (9) bekezdése,
+
+6. a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 15. § (3) bekezdése és 30. § (2) bekezdése,
+
+7. a védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény 7. § (3) bekezdése, 22. §-a, 26. § (2) bekezdése,
+
+8. a fogyasztóvédelemről szóló 1997. évi CLV. törvény 7/A. § (1) bekezdése és 55. § (1) bekezdés c)–e) pontja,
