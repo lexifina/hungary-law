@@ -1,8 +1,8 @@
-## 37. §[^79] E rendelet alkalmazása során hozzátartozó a Büntető Törvénykönyvben hozzátartozóként meghatározott személy.
+## 37. §[^80] E rendelet alkalmazása során hozzátartozó a Büntető Törvénykönyvben hozzátartozóként meghatározott személy.
 
 ## Záró rendelkezések
 
-38. § (1)[^80] E rendelet a kihirdetése napját követő hónap első napján lép hatályba.
+38. § (1)[^81] E rendelet a kihirdetése napját követő hónap első napján lép hatályba.
 
 (2) Az e rendeletből a rendőrségre háruló feladatok végrehajtását az országos rendőrfőkapitány utasításban szabályozza.
 
@@ -24,5 +24,5 @@ A fogvatartott birtokában tartható tárgyak
 
 7. Gyógyszerek, gyógyászati segédeszközök: az egészségügyi szolgálat által írásban engedélyezett gyógyszerek és gyógyászati segédeszközök, vitaminok, tápszerek, az orvos engedélyével.
 
-[^79]: A 37. § a 42/2003. (X. 3.) BM rendelet 7. §-ával megállapított szöveg.
-[^80]: A 38. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 3. § 218. pontja hatályon kívül helyezte.
+[^80]: A 37. § a 42/2003. (X. 3.) BM rendelet 7. §-ával megállapított szöveg.
+[^81]: A 38. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 3. § 218. pontja hatályon kívül helyezte.
