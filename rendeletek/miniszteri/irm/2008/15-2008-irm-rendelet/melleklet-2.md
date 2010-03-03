@@ -7780,7 +7780,7 @@ A szakmai kamara szakmai vizsgabizottságban betöltött feladatait a Büntetés
 
 KÖZTERÜLETFELÜGYELŐ
 
-SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI
+SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYEI[^3]
 
 I.
 
@@ -7862,7 +7862,7 @@ Védi a közterületek rendjét
 
 Védi a közterületek tisztaságát
 
-Közreműködik a közbiztonság védelmében
+Közreműködik a társadalmi bűnmegelőzési feladatok megvalósításában, valamint a közbiztonság védelmében
 
 Együttműködik a társhatóságokkal és társadalmi szervezetekkel
 
@@ -8082,6 +8082,10 @@ Védi az épített és természeti környezetet
 
 Őrzi az önkormányzati vagyont őrszolgálat során
 
+Térfigyelő rendszert működtet
+
+Járművet elszállít
+
 Tulajdonságprofil:
 
 Szakmai kompetenciák:
@@ -8138,6 +8142,4 @@ C A rendszeresített szolgálati eszközök alkalmazásának szabályai
 
 B Munkavédelmi szabályok
 
-C Az önkormányzatok közbiztonsággal kapcsolatos szerepe
-
-B A közterületi jogsértések közbiztonsággal való összefüggései
+[^3]: A 2. számú melléklet Közterületfelügyelő szakképesítés szakmai és vizsgakövetelményeire vonatkozó előírás a 4/2010. (II. 23.) IRM rendelet 20. §-a szerint módosított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-15-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-03-01 | 2008-15-20-1U.3 | 15/2008. (VII. 28.) IRM rendelet |
+| 2010-03-03 | 2008-15-20-1U.4 | 4/2010. (II. 23.) IRM rendelet |
