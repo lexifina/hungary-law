@@ -1,4 +1,4 @@
-## 10. §[^17]
+## 10. §[^18]
 
 (1) Ha az eltűntként körözött személy cselekvőképességet kizáró vagy korlátozó gondnokság alatt áll, a tartózkodási helyét megállapító rendőri szerv gondoskodik a körözött személy törvényes képviselőjének, ennek hiányában cselekvőképes hozzátartozójának értesítéséről, valamint az előállítás helyén a felkutatott személyt átadja az értesített személynek. Ha nincs olyan személy, akinek a körözött személy átadható lenne, biztonságba helyezéséről kell gondoskodni.
 
@@ -22,4 +22,4 @@ e) a gyermekvédelmi gondoskodás alatt álló, gyermekotthonból vagy más gond
 
 (6) A meghallgatás során megállapítottak alapján az előállító szerv megteszi a kiskorú védelmében a szükséges intézkedéseket, illetőleg bűncselekmény, szabálysértés gyanúja esetén megteszi a feljelentést.
 
-[^17]: A 10. § a 22/2001. (X. 11.) BM rendelet 3. §-ával megállapított szöveg. A 22/2001. (X. 11.) BM rendelet 7. §-a értelmében a rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+[^18]: A 10. § a 22/2001. (X. 11.) BM rendelet 3. §-ával megállapított szöveg. A 22/2001. (X. 11.) BM rendelet 7. §-a értelmében a rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.

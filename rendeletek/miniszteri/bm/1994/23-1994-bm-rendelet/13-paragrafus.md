@@ -1,4 +1,4 @@
-## 13. §[^22]
+## 13. §[^23]
 
 (1) Ha a 3. §-ban meghatározott eltűnt személy tartózkodási helyét megállapították, a felkutatott személyt tájékoztatni kell arról, hogy eltűnt személyként – bejelentés alapján, illetve hivatalból elrendelt – körözés alatt áll.
 
@@ -10,7 +10,7 @@
 
 (5) Ha a felkutatott személy – illetőleg a (3) bekezdésben meghatározott esetben törvényes képviselője, illetve gondnoka – nem nyilatkozik, vagy nem járul hozzá a tartózkodási hely közléséhez, az nem közölhető a bejelentővel.
 
-(6)[^23] Ha a felkutatott személy – illetőleg a (3) bekezdésben meghatározott esetben törvényes képviselője, illetve gondnoka – nem járult hozzá a tartózkodási hely közléséhez, vagy e kérdésben nem nyilatkozott, erre utalni kell a döntésben, és abban nem tüntethető fel a felkutatott személy tartózkodási helye.
+(6)[^24] Ha a felkutatott személy – illetőleg a (3) bekezdésben meghatározott esetben törvényes képviselője, illetve gondnoka – nem járult hozzá a tartózkodási hely közléséhez, vagy e kérdésben nem nyilatkozott, erre utalni kell a döntésben, és abban nem tüntethető fel a felkutatott személy tartózkodási helye.
 
-[^22]: A 13. § a 22/2001. (X. 11.) BM rendelet 4. §-ával megállapított szöveg. A 22/2001. (X. 11.) BM rendelet 7. §-a értelmében a rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
-[^23]: A 13. § (6) bekezdése a 41/2009. (IX. 15.) IRM rendelet 4. §-a szerint módosított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 13. § a 22/2001. (X. 11.) BM rendelet 4. §-ával megállapított szöveg. A 22/2001. (X. 11.) BM rendelet 7. §-a értelmében a rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell.
+[^24]: A 13. § (6) bekezdése a 41/2009. (IX. 15.) IRM rendelet 4. §-a szerint módosított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
