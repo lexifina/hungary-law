@@ -4,6 +4,6 @@
 
 (2) Járőrszolgálatra a felügyelőt lehetőleg járőrtárssal vagy segítővel kell vezényelni.
 
-(3)[^3] A felügyelő járőrtársként beosztható rendvédelmi szerv tagja mellé. A vegyes összetételű járőrszolgálatban részt vevő felügyelő intézkedési jogára a közterület-felügyeletre vonatkozó törvény szabályai az irányadók.
+(3)[^7] A felügyelő járőrtársként beosztható rendvédelmi szerv tagja mellé. A vegyes összetételű járőrszolgálatban részt vevő felügyelő intézkedési jogára a közterület-felügyeletre vonatkozó törvény szabályai az irányadók.
 
-[^3]: A 20. § (3) bekezdésének első mondata a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 9. pontja szerint módosított szöveg.
+[^7]: A 20. § (3) bekezdésének első mondata a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 9. pontja szerint módosított szöveg.
