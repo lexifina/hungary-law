@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet 2000. január 1. napján lép hatályba.
 
-12. §[^2] (1)[^3]
+12. §[^9] (1)[^10]
 
 (2) Az Előírás szerinti egyenruházati termékek műszaki leírását a Belügyi Közlönyben kell közzétenni.
 
@@ -18,5 +18,5 @@ b) az a) pontba nem tartozó felsőruházat és sapka esetében a Textil Pantone
 
 – felső színhatár a 19–4028 TC kóddal jelölt szín.
 
-[^2]: A 12. § a 67/2004. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 12. § (1) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 169. pontja hatályon kívül helyezte.
+[^9]: A 12. § a 67/2004. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 12. § (1) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 169. pontja hatályon kívül helyezte.

@@ -4,4 +4,6 @@ a) a közterület-felügyelőre (a továbbiakban: felügyelő);
 
 b) a felügyelő munkáltatójára (a továbbiakban: munkáltató); valamint
 
-c) a felügyelői szolgálati igazolvány- és jelvényellátással, továbbá ezek központi nyilvántartásával kapcsolatos feladatot ellátó szervre.
+c)[^1] a felügyelő hatósági szolgálati igazolvánnyal (a továbbiakban: szolgálati igazolvány) és egyedi azonosító számmal ellátott felügyelői jelvénnyel (a továbbiakban: felügyelői jelvény) történő ellátását, továbbá ezek nyilvántartását végző szervre.
+
+[^1]: Az 1. § c) pontja a 4/2010. (II. 23.) IRM rendelet 9. §-ával megállapított szöveg.
