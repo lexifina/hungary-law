@@ -1,0 +1,3 @@
+## 5. § A közterület-felügyelői intézkedések végrehajtásának módjáról és eszközeiről szóló 43/1999. (XI. 26.) BM rendelet (a továbbiakban: R1.) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A felügyelői intézkedést a napszaknak megfelelő köszönéssel, a személy nemének és életkorának megfelelő megszólítással és a tervezett intézkedés közlésével kell megkezdeni. Az intézkedés foganatosítása során az elérni kívánt célt egyértelműen kell megfogalmazni. Az intézkedés során alkalmazott felszólításból, figyelmeztetésből a cselekmény jogsértő jellegének abbahagyására, illetve a távozásra történő felhívásnak ki kell tűnnie.”
