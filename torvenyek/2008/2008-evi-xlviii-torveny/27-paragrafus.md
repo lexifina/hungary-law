@@ -1,1 +1,1 @@
-27. § Az eljáró hatóság, illetve a bíróság a még közzé nem tett reklám közzétételét megtiltja, ha megállapítja, hogy a reklám – közzététele esetén – a gazdasági reklámtevékenységre vonatkozó rendelkezésbe ütközne. A közzététel megtiltása mellett bírság kiszabásának nincs helye.
+27. §
