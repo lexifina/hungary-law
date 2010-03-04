@@ -1,5 +1,0 @@
-## 15. § A megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló 12/2007. (III. 13.) IRM rendelet (a továbbiakban: R3.) a következő 5. §-sal egészül ki:
-
-## „5. § (1) A megkülönböztető jelzést adó készülék felszerelésének engedélyezése iránti kérelemhez csatolni kell a megkülönböztető jelzés felszerelését és használatát megalapozó tevékenység végzését igazoló okirat másolatát. Ha a kérelmező a megkülönböztető jelzés felszerelését és használatát megalapozó tevékenység végzését igazoló okirat másolatát nem csatolja, az engedélyező hatóság az engedély iránti kérelem elbírálásához adatszolgáltatási kérelemmel fordulhat az e bekezdésben foglalt adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
-
-## (2) Ha a megkülönböztető jelzést adó készülék felszerelésének engedélyezése iránti kérelmet benyújtó szervezet az (1) bekezdés szerinti tevékenységét megbízás alapján végzi, a megkülönböztető jelzést adó készülék felszerelésének engedélyezése iránti kérelemhez csatolni kell az ezt igazoló okirat másolatát.”
