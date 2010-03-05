@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-94-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2003-94-20-0L.5 | 94/2003. (XII. 18.) GKM rendelet |
+| 2010-03-05 | 2003-94-20-0L.6 | 10/2010. (III. 2.) NFGM rendelet |

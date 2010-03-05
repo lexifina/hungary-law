@@ -2,7 +2,7 @@
 
 4. § (1) Pébégáz forgalmazására az a jogi személyiségű gazdasági társaság jogosult, amely a következő feltételeknek megfelel:
 
-a) a cégjegyzékbe a pébégáz forgalmazási tevékenységét (TEÁOR 40.22) bejegyezték,
+a)[^19] a cégjegyzékbe a pébégáz forgalmazási tevékenységét bejegyezték,
 
 b) a pébégáz forgalmazási tevékenységet végző tagja, munkavállalója vagy alvállalkozója rendelkezik az általa ellátott pébégáz forgalmazási tevékenység végzéséhez előírt szakmai képesítéssel vagy személyzet tanúsítással,
 
@@ -29,3 +29,5 @@ c) az éves pébégáz forgalmának legalább 5%-át kitevő saját tulajdonú p
 (4) Tartályos pébégáz forgalmazás esetén, az (1) bekezdésben előírt általános követelmények teljesítésén túlmenően, a gázforgalmazónak rendelkeznie kell két darab, a pébégáz szállítására alkalmas, legalább 5 tonna szállítókapacitású közúti tartányjárművel vagy ennek megfelelő szállítókapacitást biztosító, határozott idejű szerződéssel.
 
 (5) A gázforgalmazók kötelesek mind a gázkiskereskedőkkel, mind pedig a fogyasztókkal kötött szerződéseikben a folyamatos és biztonságos pébégáz ellátást vállalni.
+
+[^19]: A 4. § (1) bekezdés a) pontja a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

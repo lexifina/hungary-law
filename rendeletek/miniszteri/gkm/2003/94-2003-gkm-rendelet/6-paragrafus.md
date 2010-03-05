@@ -4,6 +4,9 @@
 
 (3) A gázforgalmazó köteles a bányafelügyeletet, valamint a szakmai érdekképviseleti szervezetet legalább 30 nappal korábban írásban értesíteni arról, ha a pébégáz forgalmazási tevékenysége megszüntetését határozta el.
 
-(4) A gázforgalmazási tevékenység megszüntetését a Hivatal a GKM hivatalos lapjában közleményként közzéteszi.
+(4)[^23] A gázforgalmazási tevékenység megszüntetését a Hivatal a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közleményként közzéteszi.
 
-(5) Ha a bányakapitányság a (2) bekezdésben nem említett, a gázforgalmazási tevékenység végzéséhez az e rendeletben előírt egyéb feltétel hiányát állapítja meg, felszólítja a gázforgalmazót a hiány pótlására, és annak teljesítésére határidőt állapít meg. A határidő eredménytelen eltelte esetén a gázforgalmazási engedélyt visszavonja és az erről szóló jogerős határozatát a Hivatalnak megküldi, amelynek alapján a Hivatal a gázforgalmazót a nyilvántartásából törli, és az erről szóló tájékoztatást a GKM hivatalos lapjában közleményként közzéteszi.
+(5)[^24] Ha a bányakapitányság a (2) bekezdésben nem említett, a gázforgalmazási tevékenység végzéséhez az e rendeletben előírt egyéb feltétel hiányát állapítja meg, felszólítja a gázforgalmazót a hiány pótlására, és annak teljesítésére határidőt állapít meg. A határidő eredménytelen eltelte esetén a gázforgalmazási engedélyt visszavonja és az erről szóló jogerős határozatát a Hivatalnak megküldi, amelynek alapján a Hivatal a gázforgalmazót a nyilvántartásából törli, és az erről szóló tájékoztatást a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közleményként közzéteszi.
+
+[^23]: A 6. § (4) bekezdése a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^24]: A 6. § (5) bekezdése a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
