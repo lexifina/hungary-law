@@ -1,6 +1,6 @@
-1. § (1) A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési, valamint az egyenértékűség megállapítási tevékenységéért igazgatási szolgáltatási díjat kell fizetni.
+1. § (1)[^1] A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési, továbbá az egyenértékűség megállapítási tevékenységéért, valamint a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak készítését, javítását, árverését folytató, illetve az ilyen tárgyakat kereskedelmi tevékenység keretében forgalmazó vállalkozások tevékenységének engedélyezéséért, és nyilvántartásba vételéért fizetendő igazgatási szolgáltatási díj mértékét a melléklet tartalmazza.
 
-(2) A Hivatal fémjelzési, nemesfémtartalom-vizsgálati és -hitelesítési, valamint az egyenértékűség megállapítási tevékenységéért fizetendő igazgatási szolgáltatási díj mértékét a melléklet tartalmazza.
+(2)[^2]
 
 (3) A díjat a Hivatal pénztárában vagy a Hivatal Magyar Államkincstárnál vezetett 10032000-00282448-00000000 számú számlájára kell befizetni. A befizetett díjról a Hivatal számlát állít ki. A díjakból származó bevételt a Hivatal egyéb bevételeitől elkülönítve köteles nyilvántartani és kezelni.
 
@@ -19,3 +19,6 @@ b) a díjfizetésre kötelezettek körének megállapítására az Itv. 31. §-a
 c) az elévülésre az Itv. 86. §-ában foglaltakat,
 
 d) a díj biztosítására, behajtására és a fizetési kedvezményekre az Itv. 88. §-ában foglaltakat
+
+[^1]: Az 1. § (1) bekezdése a 10/2010. (III. 2.) NFGM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: Az 1. § (2) bekezdését a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

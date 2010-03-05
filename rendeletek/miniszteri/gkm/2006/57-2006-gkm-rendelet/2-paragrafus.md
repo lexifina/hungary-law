@@ -2,9 +2,9 @@
 
 2. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba. Rendelkezéseit a hatálybalépését követően kezdeményezett eljárásokra kell alkalmazni.
 
-(2)[^1]
+(2)[^3]
 
-Melléklet az 57/2006. (VIII. 3.) GKM rendelethez
+Melléklet az 57/2006. (VIII. 3.) GKM rendelethez[^4]
 
 Fémjelzési, nemesfémtartalom-vizsgálati
 
@@ -100,7 +100,7 @@ l) sürgősséggel megrendelt munkálatokat a Hivatal:
 
 III. Egyéb díjak:
 
-a) a nyilvántartásba vétel díja 9 200,00 Ft
+a) a nemesfémből készült ékszer, díszműáru és egyéb tárgy készítését, javítását, árverését folytató, illetve kereskedelmi tevékenység keretében forgalmazó vállalkozás tevékenysége engedélyezésének díja 9 200,00 Ft
 
 b) a nyilvántartási adatok módosításának díja 6 800,00 Ft
 
@@ -116,4 +116,5 @@ g) egyenértékűség megállapítását célzó eljárás díja 565 000,00 Ft
 
 h) nyilvántartásból készített kivonat díja (az illetéktörvény szerint), oldalanként 100,00 Ft
 
-[^1]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 53. pontja hatályon kívül helyezte.
+[^3]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 53. pontja hatályon kívül helyezte.
+[^4]: A melléklet a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

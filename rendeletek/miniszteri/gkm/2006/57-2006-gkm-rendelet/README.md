@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-57-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2006-57-20-0L.2 | 57/2006. (VIII. 3.) GKM rendelet |
+| 2010-03-05 | 2006-57-20-0L.3 | 10/2010. (III. 2.) NFGM rendelet |
