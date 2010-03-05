@@ -1,1 +1,1 @@
-3. § Az Országgyűlés e törvénnyel felhatalmazást ad az Egyezmény 2008. április 28., valamint május 5. napján kelt ötödik módosítása (a továbbiakban: ötödik módosítás) kötelező hatályának elismerésére.
+3. § Az Országgyűlés e törvénnyel felhatalmazást ad az Egyezmény 2008. április 28., valamint május 5. napján kelt ötödik módosítása (a továbbiakban: ötödik módosítás) kötelező hatályának felismerésére.
