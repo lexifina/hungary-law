@@ -1,7 +1,11 @@
-3. § (1) A hatóság az alkalmasságot igazoló hatósági bizonyítványt a 2. § (3) és (4) bekezdése szerinti szervezet tanúsítása alapján adja ki. A bizonyítványon fel kell tüntetni a (bizonyítvány) kiadásához alapot adó dokumentumok azonosító jelét, a tanúsítást végző szervezet nevét és (azonosításra alkalmas) adatait.
+3. § (1)[^8] A hatóság az engedélyt a 2. § (3) bekezdése szerinti szervezet tanúsítása alapján adja ki. Az engedélyben a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott adatokon túl fel kell tüntetni a kiadásához alapot adó dokumentumok azonosító jelét, a tanúsítást végző szervezet nevét és (azonosításra alkalmas) adatait.
 
-(2) A hatósági bizonyítvány a kibocsátás napjától számított három évig érvényes.
+(2)[^9] Az engedély a megadásának napjától számított három évig hatályos.
 
-(3) Az érvényesség időtartama alatt a hatóság ellenőrizheti a gyártó alkalmasságát. Indokolt esetben a bizonyítványt visszavonja.
+(3)[^10] A hatóság ellenőrzi, hogy a gazdálkodó szervezet megfelel-e a 2. § (2) bekezdésében meghatározott követelményeknek. Amennyiben az ellenőrzés során megállapítja, hogy az érintett gazdálkodó szervezet nem felel meg ezeknek a követelményeknek, a hatóság az engedélyt visszavonja.
 
 (4) A hatósági eljárás díját külön jogszabály tartalmazza.
+
+[^8]: A 3. § (1) bekezdése a 10/2010. (III. 2.) NFGM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 3. § (2) bekezdése a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 3. § (3) bekezdése a 10/2010. (III. 2.) NFGM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

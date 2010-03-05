@@ -1,8 +1,8 @@
 ## A gyártóra vonatkozó kiegészítő követelmények
 
-## 1. A hegesztéstechnológia megfelelőségének tanúsítását (WPAR)[^10] a rendelet 2. §-ának (3) bekezdésében meghatározott szervezet végzi. A tanúsított hegesztéstechnológia alapján a hegesztési utasítást (WPS)[^11] a gyártó készíti el.
+## 1. A hegesztéstechnológia megfelelőségének tanúsítását (WPAR)[^15] a rendelet 2. §-ának (3) bekezdésében meghatározott szervezet végzi. A tanúsított hegesztéstechnológia alapján a hegesztési utasítást (WPS)[^16] a gyártó készíti el.
 
-## 2.[^12] A gyártó hegesztési felelőse az MSZ EN 719 szabvány szerinti követelmények kielégítésén túl
+## 2.[^17] A gyártó hegesztési felelőse az MSZ EN 719 szabvány szerinti követelmények kielégítésén túl
 
 ## – független legyen a tevékenységéért felelős szervezeti egységtől,
 
@@ -10,7 +10,7 @@
 
 ## – legalább kétéves szakmai gyakorlata legyen.
 
-## 3.[^13] Ha a gyártó az MSZ EN 729–3 szabvány szerinti minőségirányítási követelményt alkalmaz, akkor működtessen
+## 3.[^18] Ha a gyártó az MSZ EN 729–3 szabvány szerinti minőségirányítási követelményt alkalmaz, akkor működtessen
 
 ## – dokumentációs rendszert a hegesztési utasítások, a hegesztéstechnológia megfelelőség-tanúsítására (WPAR), a hegesztők, forrasztók, valamint gépkezelők minősítési bizonyítványai kezelésére, karbantartására, és
 
@@ -58,7 +58,7 @@
 
 ## j) anyagvizsgáló berendezések és eszközök (univerzális szakítógép, ingás ütőmű, keménységmérő, mikroszkóp, spektroszkóp, ultrahangos vizsgálókészülék, mágneses repedésvizsgáló, röntgenkészülék, izotópos vizsgálóeszköz stb.):
 
-3. számú melléklet a 3/1998. (I. 12.) IKIM rendelethez[^14]
+3. számú melléklet a 3/1998. (I. 12.) IKIM rendelethez[^19]
 
 A bejegyzett szervezetre vonatkozó
 
@@ -88,8 +88,8 @@ II. Tárgyi feltétel:
 
 – a szervezet legyen tagja a Magyar Hegesztéstechnikai és Anyagvizsgálati Egyesülésnek.
 
-[^10]: Hegesztéstechnológia jóváhagyása [Welding Procedure Approval Record (WPAR)].
-[^11]: Hegesztési utasítás [Welding Procedure Specification (WPS)].
-[^12]: A 2. számú melléklet 2. pontja a 119/2004. (IX. 30.) GKM rendelet 3. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 4. §-ának (1) bekezdése alapján előírásait a 2004. október 30. napját megelőzően kezdeményezett, de még folyamatban lévő eljárásoknál is alkalmazni kell.
-[^13]: A 2. számú melléklet 3. pontja a 119/2004. (IX. 30.) GKM rendelet 3. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 4. §-ának (1) bekezdése alapján előírásait a 2004. október 30. napját megelőzően kezdeményezett, de még folyamatban lévő eljárásoknál is alkalmazni kell.
-[^14]: A 3. számú mellékletet a 119/2004. (IX. 30.) GKM rendelet 3. §-ának (3) bekezdése iktatta be, e módosító rendelet 4. §-ának (1) bekezdése alapján előírásait a 2004. október 30. napját megelőzően kezdeményezett, de még folyamatban lévő eljárásoknál is alkalmazni kell.
+[^15]: Hegesztéstechnológia jóváhagyása [Welding Procedure Approval Record (WPAR)].
+[^16]: Hegesztési utasítás [Welding Procedure Specification (WPS)].
+[^17]: A 2. számú melléklet 2. pontja a 119/2004. (IX. 30.) GKM rendelet 3. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 4. §-ának (1) bekezdése alapján előírásait a 2004. október 30. napját megelőzően kezdeményezett, de még folyamatban lévő eljárásoknál is alkalmazni kell.
+[^18]: A 2. számú melléklet 3. pontja a 119/2004. (IX. 30.) GKM rendelet 3. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 4. §-ának (1) bekezdése alapján előírásait a 2004. október 30. napját megelőzően kezdeményezett, de még folyamatban lévő eljárásoknál is alkalmazni kell.
+[^19]: A 3. számú mellékletet a 119/2004. (IX. 30.) GKM rendelet 3. §-ának (3) bekezdése iktatta be, e módosító rendelet 4. §-ának (1) bekezdése alapján előírásait a 2004. október 30. napját megelőzően kezdeményezett, de még folyamatban lévő eljárásoknál is alkalmazni kell.
