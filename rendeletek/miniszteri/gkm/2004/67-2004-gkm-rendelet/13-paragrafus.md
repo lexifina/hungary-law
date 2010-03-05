@@ -1,5 +1,6 @@
-13. § (1) Az egyes engedélyezési eljárások lefolytatásáért a külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell megfizetni. Az engedélynek a kérelmező adataiban bekövetkezett változások miatt történő újbóli kiadása, illetve módosítása az illetékekről szóló 1990. évi XCIII. törvény 33. §-ának 26. pontja alapján illetékmentes.
+13. § (1)[^34]
 
-(2)[^14] A Hivatal az engedélyek kiadásának árucsoportonként meghatározott lebonyolítási rendjéről a Gazdasági Tájékoztatóban, valamint internetes honlapján közlemények formájában ad tájékoztatást.
+(2)[^35] A Hivatal az engedélyek kiadásának árucsoportonként meghatározott lebonyolítási rendjéről internetes honlapján közlemények formájában ad tájékoztatást.
 
-[^14]: A 13. § (2) bekezdése a 12/2008. (VIII. 6.) NFGM rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2008. augusztus 14-e után indított eljárásokban kell alkalmazni.
+[^34]: A 13. § (1) bekezdését a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés g) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^35]: A 13. § (2) bekezdése a 12/2008. (VIII. 6.) NFGM rendelet 9. § (2) bekezdés a) pontja, a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

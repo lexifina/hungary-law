@@ -1,4 +1,4 @@
-4/B. számú melléklet a 67/2004. (IV. 28.) GKM rendelethez[^21]
+4/B. számú melléklet a 67/2004. (IV. 28.) GKM rendelethez[^42]
 
 Vállalkozási import engedély
 
@@ -72,4 +72,4 @@ Magyar Kereskedelmi Engedélyezési Hivatal
 
 – ,,Vám példány”
 
-[^21]: A 4/B. számú mellékletet a 86/2005. (X. 21.) GKM rendelet 16. § (4) bekezdése iktatta be.
+[^42]: A 4/B. számú mellékletet a 86/2005. (X. 21.) GKM rendelet 16. § (4) bekezdése iktatta be.
