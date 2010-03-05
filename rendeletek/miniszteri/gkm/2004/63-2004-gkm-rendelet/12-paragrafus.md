@@ -1,6 +1,6 @@
 ## Ciklusidő, időszakos és rendkívüli hatósági ellenőrzés
 
-12. § (1)[^33] Az 5. § (3) bekezdése szerint felügyelet alá tartozó létesítmény élettartama alatt időszakos hatósági ellenőrzéseket kell tartani. Az ellenőrzés feltételeit az engedélyes köteles biztosítani.
+12. § (1)[^38] Az 5. § (3) bekezdése szerint felügyelet alá tartozó létesítmény élettartama alatt időszakos hatósági ellenőrzéseket kell tartani. Az ellenőrzés feltételeit az engedélyes köteles biztosítani.
 
 (2) A ciklusidő az egyes létesítményeknél általában a következő:
 
@@ -12,12 +12,12 @@ c) a töltő-létesítmény üzem közbeni külső ellenőrzését legalább 5 �
 
 d) a folytonos üzemben működő nyomástartó létesítmény berendezéseinek belső szerkezeti ellenőrzését és szilárdsági nyomáspróbáját a tervezett karbantartási (nagyjavítási) üzemleállások során kell megtartani, legalább a ciklusidőnek megfelelő naptári éven belül.
 
-(3)[^34] A ciklusidőt az üzemben tartó kérésére a hatóság meghosszabbíthatja, ha az üzemben tartó vállalja az ehhez szükséges többletinformációkat nyújtó, üzemszünettel nem járó ellenőrzések elvégzését, illetve diagnosztikai megfigyelés biztosítását.
+(3)[^39] A ciklusidőt az üzemben tartó kérésére a hatóság meghosszabbíthatja, ha az üzemben tartó vállalja az ehhez szükséges többletinformációkat nyújtó, üzemszünettel nem járó ellenőrzések elvégzését, illetve diagnosztikai megfigyelés biztosítását.
 
-(4)[^35] Az időszakos hatósági ellenőrzésről készített bizonylat egy példányát a hatóság átadja az üzemben tartónak. A bizonylat tartalmazza az ellenőrzés módszerét, eredményét és a következő időszakos hatósági ellenőrzés esedékességének időpontját. A hatósági ellenőrzések, elvégzett vizsgálatok bizonylatait csatolni kell a használatbavételi engedélyhez.
+(4)[^40] Az időszakos hatósági ellenőrzésről készített bizonylat egy példányát a hatóság átadja az üzemben tartónak. A bizonylat tartalmazza az ellenőrzés módszerét, eredményét és a következő időszakos hatósági ellenőrzés esedékességének időpontját. A hatósági ellenőrzések, elvégzett vizsgálatok bizonylatait csatolni kell a használatbavételi engedélyhez.
 
 (5) A műszaki-biztonsági hiányosságot feltáró időszakos hatósági ellenőrzést a hiányosságok megszüntetése után meg kell ismételni.
 
-[^33]: A 12. § (1) bekezdése a 121/2004. (X. 15.) GKM rendelet 4. §-ával megállapított szöveg.
-[^34]: A 12. § (3) bekezdése a 127/2005. (XII. 29.) GKM rendelet 21. § (6) bekezdése szerint módosított szöveg.
-[^35]: A 12. § (4) bekezdése a 127/2005. (XII. 29.) GKM rendelet 21. § (6) bekezdése szerint módosított szöveg.
+[^38]: A 12. § (1) bekezdése a 121/2004. (X. 15.) GKM rendelet 4. §-ával megállapított szöveg.
+[^39]: A 12. § (3) bekezdése a 127/2005. (XII. 29.) GKM rendelet 21. § (6) bekezdése szerint módosított szöveg.
+[^40]: A 12. § (4) bekezdése a 127/2005. (XII. 29.) GKM rendelet 21. § (6) bekezdése szerint módosított szöveg.

@@ -1,6 +1,6 @@
 13. § (1) Ha a hatósági felügyeletre kötelezett létesítmény használaton kívül van, amikor az időszakos hatósági ellenőrzés esedékes, akkor az csak a hatósági ellenőrzés sikeres elvégzése után vehető újból használatba.
 
-(2)[^36] Az üzemben tartó javítás vagy átalakítás esetén rendkívüli ellenőrzést köteles kezdeményezni. A hatóság a rendkívüli ellenőrzés eredménye alapján ítéli meg a tervezett beavatkozás hatását a berendezés biztonsági jellemzőire és határozza meg az ismételt használatba vétel feltételeit.
+(2)[^41] Az üzemben tartó javítás vagy átalakítás esetén rendkívüli ellenőrzést köteles kezdeményezni. A hatóság a rendkívüli ellenőrzés eredménye alapján ítéli meg a tervezett beavatkozás hatását a berendezés biztonsági jellemzőire és határozza meg az ismételt használatba vétel feltételeit.
 
 (3) Nem szükséges a rendkívüli ellenőrzés, ha az üzemben tartó a berendezés megfelelőségét a beavatkozást követően tanúsítással kívánja megállapítani.
 
@@ -12,4 +12,4 @@
 
 (7) A hatóság a létesítményben bekövetkezett rendkívüli eseményt követően, továbbá javítás, átalakítás esetén az üzemben tartó kezdeményezésére, valamint ha egyéb, a tudomására jutott tény indokolja, váratlanul, saját kezdeményezésére rendkívüli ellenőrzést tarthat.
 
-[^36]: A 13. § (2) bekezdése a 127/2005. (XII. 29.) GKM rendelet 21. § (6) bekezdése szerint módosított szöveg.
+[^41]: A 13. § (2) bekezdése a 127/2005. (XII. 29.) GKM rendelet 21. § (6) bekezdése szerint módosított szöveg.

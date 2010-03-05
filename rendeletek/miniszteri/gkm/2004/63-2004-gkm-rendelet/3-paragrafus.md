@@ -1,4 +1,4 @@
-## 2. §[^4] A hatósági felügyeletet első fokon a hatóság, másodfokon a Magyar Kereskedelmi Engedélyezési Hivatal központi szerv látja el.
+## 2. §[^5] A hatósági felügyeletet első fokon a hatóság, másodfokon a Magyar Kereskedelmi Engedélyezési Hivatal központi szerv látja el.
 
 ## Fogalom meghatározások
 
@@ -38,7 +38,7 @@ c) amely a nyomástartó létesítmény és környezete kölcsönös biztonsága
 
 14. szilárdsági ellenőrzés: a berendezés – műszaki dokumentációban megadott mértékű – nyomás terheléssel végrehajtott ellenőrzése;
 
-15. telepített nyomástartó berendezés: a külön jogszabályban[^5] meghatározott nyomástartó berendezés és rendszer, valamint egyszerű nyomástartó edény, amelyet helyhez kötötten használnak;
+15. telepített nyomástartó berendezés: a külön jogszabályban[^6] meghatározott nyomástartó berendezés és rendszer, valamint egyszerű nyomástartó edény, amelyet helyhez kötötten használnak;
 
 16. töltőlétesítmény:
 
@@ -48,14 +48,15 @@ b) a gázt a szállítható nyomástartó berendezésből a telepített nyomást
 
 17. üzembe helyezés: a nyomástartó létesítmény, kazán létesítmény, és a töltőlétesítmény (a továbbiakban együtt: létesítmény) rendeltetés szerinti működtetésének megkezdése;
 
-18. üzemben tartó: a hatósági felügyelet alá tartozó létesítmény tulajdonosa, üzemeltetője, valamint a szállítható nyomástartó berendezés töltetét forgalmazó, vagy ezt szállító gazdálkodó szervezet;
+18.[^7] üzemben tartó: a hatósági felügyelet alá tartozó létesítmény tulajdonosa, üzemeltetője, valamint a szállítható nyomástartó berendezés töltetét forgalmazó, vagy ezt szállító vállalkozás;
 
 19. üzemeltetés: a létesítmény rendeltetésszerű használata, beleértve az üzemzavar elhárítást, a leállítást, a karbantartást, valamint az üzemben tartó ellenőrzéseit is;
 
 20. üzemeltető: az a magánszemély, jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet, aki/amely a megtöltött nyomástartó berendezés töltetét használja;
 
-21. veszélyes töltet: a kémiai biztonságról szóló külön jogszabály[^6] szerinti töltet.
+21. veszélyes töltet: a kémiai biztonságról szóló külön jogszabály[^8] szerinti töltet.
 
-[^4]: A 2. § a 127/2005. (XII. 29.) GKM rendelet 21. § (1) bekezdésével megállapított, valamint a 87/2006. (XII. 26.) GKM rendelet 11. § (1) bekezdése szerint módosított szöveg.
-[^5]: A nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló 9/2001. (IV. 5.) GM rendelet.
-[^6]: A kémiai biztonságról szóló 2000. évi XXV. törvény. 3. § ab), ac), ad), ae), b) és c) pontjai szerinti veszélyes anyagok.
+[^5]: A 2. § a 127/2005. (XII. 29.) GKM rendelet 21. § (1) bekezdésével megállapított, valamint a 87/2006. (XII. 26.) GKM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^6]: A nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló 9/2001. (IV. 5.) GM rendelet.
+[^7]: A 3. § 18. pontja a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A kémiai biztonságról szóló 2000. évi XXV. törvény. 3. § ab), ac), ad), ae), b) és c) pontjai szerinti veszélyes anyagok.

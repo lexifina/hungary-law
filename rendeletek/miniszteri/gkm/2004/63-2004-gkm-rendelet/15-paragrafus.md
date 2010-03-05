@@ -1,6 +1,6 @@
 ## Eljárás rendkívüli esemény alkalmával
 
-15. § (1)[^37] A hatósági felügyelet alá tartozó létesítményekkel kapcsolatos rendkívüli eseményeket az üzemben tartó köteles a hatóságnak haladéktalanul bejelenteni, majd ezt 24 órán belül írásban a hatóság által rendelkezésre bocsátott bejelentő űrlapon részletezni.
+15. § (1)[^42] A hatósági felügyelet alá tartozó létesítményekkel kapcsolatos rendkívüli eseményeket az üzemben tartó köteles a hatóságnak haladéktalanul bejelenteni, majd ezt 24 órán belül írásban a hatóság által rendelkezésre bocsátott bejelentő űrlapon részletezni.
 
 (2) A rendkívüli esemény helyszíne a hatósági vizsgálat befejezéséig nem változtatható meg, kivéve, ha a további károk, balesetek megelőzése vagy más ok azt indokolttá és szükségessé teszi. Ez esetben a helyszín megváltoztatása előtti állapotot rögzíteni kell (például fotón, videofelvételen, helyszínrajzon).
 
@@ -38,4 +38,4 @@ d) az egyéb szükséges feltételeket, intézkedéseket.
 
 (8) A rendkívüli esemény vizsgálatával járó költségeket – vétkessége estén – az üzemben tartó viseli.
 
-[^37]: A 15. § (1) bekezdése a 127/2005. (XII. 29.) GKM rendelet 21. § (6) bekezdése szerint módosított szöveg.
+[^42]: A 15. § (1) bekezdése a 127/2005. (XII. 29.) GKM rendelet 21. § (6) bekezdése szerint módosított szöveg.

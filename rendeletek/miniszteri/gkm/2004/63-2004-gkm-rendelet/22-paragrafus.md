@@ -60,7 +60,7 @@ a legnagyobb megengedhető PS nyomás nagyobb mint 0,5 bar, a mm-ben megadott DN
 
 7. ábra
 
-h)[^45] Folyadék töltetű csővezeték, azzal jellemezve, hogy
+h)[^60] Folyadék töltetű csővezeték, azzal jellemezve, hogy
 
 a legnagyobb megengedhető PS nyomás nagyobb mint 10 bar, a mm-ben megadott DN névleges méret nagyobb mint 25 és a PSDN > 2000, és töltetük a veszélyes anyagok csoportjába tartozik (8. ábra).
 
@@ -72,4 +72,4 @@ a legnagyobb megengedhető PS nyomás nagyobb, mint 10 bar, a mm-ben megadott DN
 
 9. ábra
 
-[^45]: A melléklet 7. pontjának h) alpontja a 121/2004. (X. 15.) GKM rendelet 5. §-ával megállapított szöveg.
+[^60]: A melléklet 7. pontjának h) alpontja a 121/2004. (X. 15.) GKM rendelet 5. §-ával megállapított szöveg.

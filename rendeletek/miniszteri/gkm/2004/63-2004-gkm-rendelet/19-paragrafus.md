@@ -12,6 +12,6 @@ d) kezeli a nyomástartó létesítmények adatbázisát,
 
 e) szervezi az R. 15. §-a szerinti külön jogszabályban foglaltaknak megfelelő, az e rendelet 17. § (1) bekezdésében említett szakvizsgához szükséges teendőket.
 
-(2) A hatóság gyakorolja az R. 7. §-ának (2) bekezdésében foglalt létesítményekkel kapcsolatos építésügyi hatósági engedélyezési és mindazokat a feladatokat, amelyeket az épített környezet alakításáról és védelméről szóló jogszabály[^43] a sajátos építmények vonatkozásában a hatáskörébe utal.
+(2) A hatóság gyakorolja az R. 7. §-ának (2) bekezdésében foglalt létesítményekkel kapcsolatos építésügyi hatósági engedélyezési és mindazokat a feladatokat, amelyeket az épített környezet alakításáról és védelméről szóló jogszabály[^56] a sajátos építmények vonatkozásában a hatáskörébe utal.
 
-[^43]: Az épített környezet alakításáról szóló 1997. évi LXXVIII. törvény 62. § (4) bekezdése.
+[^56]: Az épített környezet alakításáról szóló 1997. évi LXXVIII. törvény 62. § (4) bekezdése.
