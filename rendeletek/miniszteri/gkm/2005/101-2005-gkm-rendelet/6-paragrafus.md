@@ -2,6 +2,6 @@
 
 6. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba, rendelkezéseit az ezt követően kezdeményezett eljárásoknál kell alkalmazni.
 
-(2)[^7]
+(2)[^11]
 
-[^7]: A 6. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 83. pontja hatályon kívül helyezte.
+[^11]: A 6. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 83. pontja hatályon kívül helyezte.
