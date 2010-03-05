@@ -10,9 +10,9 @@
 
 ## 2. Az engedélyező hatóság
 
-## a) A létesítési és használatbavételi engedélyezési ügyekben első fokon a létesítmény helye szerint illetékes engedélyező hatóság, másodfokon a Gazdasági és Közlekedési Minisztérium[^27] (a továbbiakban: GKM) jár el.
+## a)[^31]
 
-## b) Az engedélyező hatóság szakterületi főosztálya — hivatalból vagy tervező előterjesztésére — létesítményekre (létesítményrészekre) típusterveket engedélyezhet.
+## b)[^32] Az engedélyező hatóság — hivatalból vagy tervező előterjesztésére — létesítményekre (létesítményrészekre) típusterveket engedélyezhet.
 
 ## c) Az engedélyező hatóság az építtető vagy megbízottja (a továbbiakban: építtető) kérésére a létesítési engedély iránti kérelem benyújtását megelőzően is köteles a műszaki előírásokban kellően nem szabályozott kérdésekben, vagy az előírásoktól eltérő, de egyenértékű biztonsági szintre vonatkozó megoldás alkalmazásáról az egyeztetés lehetőségét biztosítani.
 
@@ -34,15 +34,15 @@
 
 ## b) műszaki leírást és tervrajzokat;
 
-## c) a tervező nyilatkozatát egy példányban arról, hogy az általános elrendezési tervet, a műszaki terveket az érdekelt szakhatóságokkal és közművekkel egyeztette, valamint arról, hogy a műszaki megoldás megfelel az általános érvényű és az eseti hatósági előírásoknak;
+## c)[^33] a tervező nyilatkozatát egy példányban arról, hogy az általános elrendezési tervet, a műszaki terveket az érdekelt közművekkel egyeztette, valamint arról, hogy a műszaki megoldás megfelel az általános érvényű és az eseti hatósági előírásoknak;
 
-## d) az idegen ingatlan tulajdonosának nyilatkozatát arra vonatkozóan, hogy a szolgalmi jog alapításához és az ingatlan-nyilvántartásba történő bejegyzéshez hozzájárul, amennyiben a vonatkozó szabvány alapján a létesítmény biztonsági övezetébe eső idegen ingatlanon szolgalmi jog alapítása szükséges;
+## d)[^34]
 
-## e) az építtető építési jogosultságát igazoló okiratot egy példányban;
+## e)[^35] idegen vagy közös tulajdonban álló ingatlanon elhelyezendő létesítmény esetében a tulajdonos (kezelő, használó, haszonélvező tulajdonostárs) hozzájáruló nyilatkozatát vagy az ezt pótló jogerős bírósági ítéletet, megszerzett ingatlan azonnali birtokba adását elrendelő határozatot,
 
 ## f) a mezőgazdasági rendeltetésű föld termelésből való kivonása engedélyének másolatát, ha annak beszerzését jogszabály előírja;
 
-## g) a tervezői egyeztetés során beszerzett szakhatósági hozzájárulásokat és közművek nyilatkozatait, illetve az ezeket tartalmazó jegyzőkönyveket egy-egy példányban;
+## g)[^36] a tervezői egyeztetés során beszerzett közművek nyilatkozatait, illetve az ezeket tartalmazó jegyzőkönyveket egy-egy példányban;
 
 ## h) tervezői előterjesztés esetén az építtetőnek a tervekkel való egyetértésére vonatkozó nyilatkozatát egy példányban; továbbá
 
@@ -86,19 +86,13 @@
 
 ## e) A biztonsági, egészség- és tűz-, valamint környezetvédelmi tervekben részletezni kell, hogy az általános érvényű és az eseti hatósági előírásokat hogyan érvényesítették.
 
-## 7. Az építési jogosultság igazolása
-
-## Az építtető az építési jogosultságát igazolhatja
-
-## a) a létesítménnyel érintett ingatlanra vonatkozó tulajdonjogát (kezelői, használati) feltüntető, 90 napnál nem régibb keletű tulajdoni lappal vagy jogerős bírósági vagy államigazgatási határozattal;
-
-## b) idegen vagy közös tulajdonban álló ingatlanon elhelyezendő létesítmény esetében a tulajdonos (kezelő, használó, haszonélvező tulajdonostárs) hozzájáruló nyilatkozatával vagy az ezt pótló jogerős bírósági ítélettel, megszerzett ingatlan azonnali birtokba adását elrendelő határozattal.
+## 7.[^37]
 
 ## 8. A kérelem elbírálása
 
 ## a) Az engedélyező hatóság a létesítési engedély iránti kérelem elbírálása során meggyőződik arról, hogy az építtető a kérelemhez csatolta-e az előírt mellékleteket, s azok megfelelnek-e az előírt követelményeknek.
 
-## b) Ha a kérelem vagy a mellékletek nem felelnek meg az előírásoknak és a követelményeknek, az engedélyező hatóság a kérelmezőt — határidő kitűzésével — 8 napon belül a kérelem kiegészítésére, illetőleg hiánypótlásra hívja fel.
+## b)[^38] Ha a kérelem vagy a mellékletek nem felelnek meg az előírásoknak és a követelményeknek, az engedélyező hatóság a kérelmezőt — határidő kitűzésével — 5 munkanapon belül a kérelem kiegészítésére, illetőleg hiánypótlásra hívja fel.
 
 ## c) Az engedélyező hatóságnak, figyelemmel arra, hogy az előírásszerű tervekért a tervező felelős, a 4. pontban foglaltakat kell ellenőriznie.
 
@@ -110,7 +104,7 @@
 
 ## fa) az építtető a hiánypótlási kötelezettségét, illetőleg a kérelem kiegészítését határidőben nem teljesítette, és azok nélkül a kérelem nem bírálható el;
 
-## fb)[^28]
+## fb)[^39]
 
 ## 9. A határozat közlése
 
@@ -118,13 +112,13 @@
 
 ## aa) az építtetőnek, továbbá, ha az építtető nem azonos az üzemeltetővel, az üzemeltetőnek is;
 
-## ab)[^29]
+## ab)[^40]
 
 ## ac) a területileg illetékes önkormányzat részére;
 
 ## ad) a létesítmény biztonsági övezetével érintett ingatlanok tulajdonosainak.
 
-## b)[^30]
+## b)[^41]
 
 ## c) Az engedélyt megtagadó jogerős határozatot — ha az mezőgazdasági rendeltetésű földet érint — a földhivatalnak is meg kell küldeni.
 
@@ -132,7 +126,7 @@
 
 ## a) A hatóság által megadott létesítési engedély nem menti fel az építtetőt a külön jogszabály szerint szükséges más hatósági engedélyek megszerzésének kötelezettsége alól.
 
-## b) Az engedély érvényességi idején belül a kivitelezési munkálatokat be kell fejezni. Ellenkező esetben az engedély megújítását kell kérelmezni az engedélyező hatóságtól, aki a készültségi állapottól függően dönt a meghosszabbításról vagy az új eljárás lefolytatásáról.
+## b)[^42] Az engedély hatálya alatt a kivitelezési munkálatokat be kell fejezni. Ellenkező esetben az engedély megújítását kell kérelmezni az engedélyező hatóságtól, aki a készültségi állapottól függően dönt a meghosszabbításról vagy az új eljárás lefolytatásáról.
 
 ## c) Az engedélyt az építtető jogutódja is felhasználhatja, köteles azonban a jogutódlást az engedélyező hatóságnak írásban bejelenteni.
 
@@ -172,7 +166,7 @@
 
 ## cd) a közműveknek az üzemeltetéssel kapcsolatos nyilatkozatát;
 
-## ce) a 4. d) pontban meghatározott esetben a szolgalom alapítására vonatkozó szerződést, okiratot, továbbá az ingatlan-nyilvántartásba történő bejegyzésének igazolását.
+## ce)[^43]
 
 ## 12. A kérelem elbírálása
 
@@ -192,7 +186,7 @@
 
 ## a) Az engedélyező hatóság használatbavétel engedélyezése vagy megtagadása felől határozatban dönt. A döntést akkor is határozatba kell foglalni, ha a helyszíni szemle során a használatbavétel ügyében már nyilatkozott és azt helyszíni szemle jegyzőkönyvében rögzítették.
 
-## b) A határozat jogerőre emelkedését követően az építtető köteles a földmérési alaptérkép tartalmában bekövetkezett változás térképi átvezetése végett, a megvalósulási térkép példányát a területileg illetékes földhivatalba 90 napon belül benyújtani.
+## b)[^44] A határozat jogerőre emelkedését követően az építtető köteles a földmérési alaptérkép tartalmában bekövetkezett változás térképi átvezetése végett, a megvalósulási térkép példányát a területileg illetékes földhivatalba 3 hónapon belül benyújtani.
 
 ## c) A határozatot a 9. pontban foglaltaknak megfelelően kell megküldeni.
 
@@ -208,7 +202,7 @@
 
 ## 15. Vegyes és záró rendelkezések
 
-## a) A létesítés és használatbavétel engedélyezéséért hatósági eljárási díjat kell fizetni. Az engedélyezési eljárás díját az IKM-nek külön rendelete szabályozza.
+## a)[^45] A létesítés és használatbavétel engedélyezéséért hatósági eljárási díjat kell fizetni. Az engedélyezési eljárás díját külön jogszabály határozza meg.
 
 ## b) Az engedélyezési eljárás díját elutasító határozat esetén is meg kell fizetni.
 
@@ -218,7 +212,18 @@
 
 5. számú melléklet a 11/1994. (III. 25.) IKM rendelethez
 
-[^27]: Az időközi szervezeti változásoknak megfelelő szöveg.
-[^28]: A 4. számú melléklet 8. pont fb) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^29]: A 4. számú melléklet 9. pont ab) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^30]: A 4. számú melléklet 9. pont b) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^31]: A 4. számú melléklet 2. pont a) alpontját a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés i) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 4. számú melléklet 2. pont b) alpontja a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés i) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A 4. számú melléklet 4. pont c) alpontja a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés i) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: A 4. számú melléklet 4. pont d) alpontját a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés i) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^35]: A 4. számú melléklet 4. pont e) alpontja a 10/2010. (III. 2.) NFGM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^36]: A 4. számú melléklet 4. pont g) alpontja a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés i) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^37]: A 4. számú melléklet 7. pontját a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés i) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^38]: A 4. számú melléklet 8. pont b) alpontja a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^39]: A 4. számú melléklet 8. pont fb) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^40]: A 4. számú melléklet 9. pont ab) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^41]: A 4. számú melléklet 9. pont b) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^42]: A 4. számú melléklet 10. pont b) alpontja a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: A 4. számú melléklet 11. c) pont ce) alpontját a 10/2010. (III. 2.) NFGM rendelet 12. § (2) bekezdés i) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^44]: A 4. számú melléklet 13. pont b) alpontja a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^45]: A 4. számú melléklet 15. pont a) alpontja a 10/2010. (III. 2.) NFGM rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést a 2010. március 5. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -82,6 +82,6 @@
 
 ## A megfelelő négyzetbe X írandó.
 
-2–3. számú melléklet a 11/1994. (III. 25.) IKM rendelethez[^26]
+2–3. számú melléklet a 11/1994. (III. 25.) IKM rendelethez[^30]
 
-[^26]: A 2–3. számú mellékletet az 58/2004. (IV. 24.) GKM rendelet 2. §-a hatályon kívül helyezte.
+[^30]: A 2–3. számú mellékletet az 58/2004. (IV. 24.) GKM rendelet 2. §-a hatályon kívül helyezte.

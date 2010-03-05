@@ -76,7 +76,7 @@
 
 ## id) a területileg illetékes polgármesteri hivatalnak.
 
-## ie)[^31]
+## ie)[^46]
 
 ## k) Amennyiben a hasonló esetek megelőzésére szükséges intézkedés nem tartozik az engedélyező hatóság hatáskörébe, az esetben köteles a hatáskörrel rendelkező szervnél kezdeményezni az intézkedés kiadását.
 
@@ -96,7 +96,7 @@
 
 ## b) Az üzemzavar hatósági vizsgálatára az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény rendelkezései vonatkoznak, a jelen szabályzatban foglalt kiegészítésekkel.
 
-6. számú melléklet a 11/1994. (III. 15.) IKM rendelethez[^32]
+6. számú melléklet a 11/1994. (III. 15.) IKM rendelethez[^47]
 
-[^31]: Az 5. számú melléklet 4. pont ie) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^32]: A 6. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^46]: Az 5. számú melléklet 4. pont ie) alpontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^47]: A 6. számú mellékletet a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 102. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
