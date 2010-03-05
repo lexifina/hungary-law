@@ -80,6 +80,6 @@
 
 ## –  ,,Vám példány”
 
-2–3. számú melléklet az 53/1999. (IX. 24.) GM rendelethez[^31]
+2–3. számú melléklet az 53/1999. (IX. 24.) GM rendelethez[^33]
 
-[^31]: A 2–3. számú mellékletet a 12/2008. (VIII. 6.) NFGM rendelet 9. § (2) bekezdés b) pontja hatályon kívül helyezte, e módosító rendelet 9. § (1) bekezdése alapján a 2008. augusztus 14-e után indított eljárásokban kell alkalmazni.
+[^33]: A 2–3. számú mellékletet a 12/2008. (VIII. 6.) NFGM rendelet 9. § (2) bekezdés b) pontja hatályon kívül helyezte, e módosító rendelet 9. § (1) bekezdése alapján a 2008. augusztus 14-e után indított eljárásokban kell alkalmazni.

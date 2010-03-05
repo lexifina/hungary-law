@@ -106,6 +106,6 @@
 
 | Végösszesen statisztikai munkahónap: |  |
 
-1/B. számú melléklet az 53/1999. (IX. 24.) GM rendelethez[^29]
+1/B. számú melléklet az 53/1999. (IX. 24.) GM rendelethez[^31]
 
-[^29]: Az 1/B. számú mellékletet a 86/2005. (X. 21.) GKM rendelet 4. § (3) bekezdése iktatta be.
+[^31]: Az 1/B. számú mellékletet a 86/2005. (X. 21.) GKM rendelet 4. § (3) bekezdése iktatta be.

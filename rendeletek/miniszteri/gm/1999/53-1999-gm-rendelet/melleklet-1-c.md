@@ -82,6 +82,6 @@
 
 ## – ,,Vám példány”
 
-1/C. számú melléklet az 53/1999. (IX. 24.) GM rendelethez[^30]
+1/C. számú melléklet az 53/1999. (IX. 24.) GM rendelethez[^32]
 
-[^30]: Az 1/C. számú mellékletet a 86/2005. (X. 21.) GKM rendelet 4. § (3) bekezdése iktatta be.
+[^32]: Az 1/C. számú mellékletet a 86/2005. (X. 21.) GKM rendelet 4. § (3) bekezdése iktatta be.

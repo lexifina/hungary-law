@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-53-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-08-14 | 1999-53-20-83.9 | 53/1999. (IX. 24.) GM rendelet |
+| 2010-03-05 | 1999-53-20-83.10 | 52/2012. (III. 28.) Korm. rendelet |
