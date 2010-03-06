@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaságnak a Moldovai Köztársaságban működő nagykövetségén a vízumkérelmek kezelésével kapcsolatos együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
