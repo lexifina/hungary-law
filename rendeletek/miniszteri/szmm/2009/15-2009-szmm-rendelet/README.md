@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-15-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-07-27 | 2009-15-20-1X.1 | 15/2009. (VII. 24.) SZMM rendelet |
+| 2010-03-06 | 2009-15-20-1X.2 | 4/2010. (II. 26.) SZMM rendelet |

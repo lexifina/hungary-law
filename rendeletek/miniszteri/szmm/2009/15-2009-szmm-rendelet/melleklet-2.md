@@ -70,6 +70,7 @@
 
 ## a hozzájárulásra kötelezett cégszerű aláírása
 
-2. számú melléklet a 15/2009. (VII. 24.) SZMM rendelethez
+2. számú melléklet a 15/2009. (VII. 24.) SZMM rendelethez[^5]
 
 [^*:]: A megfelelő rész egyértelműen jelölendő.
+[^5]: A 2. számú melléklet a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés c) pont cb) alpontja szerint módosított szöveg, e módosító rendelet 23. § (1) bekezése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

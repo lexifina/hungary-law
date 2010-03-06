@@ -1,31 +1,23 @@
-## A munkaügyi központ kötelező nyilvántartása a szakképzési hozzájárulási kötelezettséget
+## A munkaügyi központ kötelező nyilvántartása a szakképzési hozzájárulási kötelezettséget a saját munkavállalóik képzésére fordító hozzájárulásra kötelezettek által benyújtott elszámolásokról
 
-## a saját munkavállalóik képzésére fordító hozzájárulásra kötelezettek által benyújtott
+| Adat- szolgál- tatás sor- száma | Képzés sor- száma | Gazdálkodó szervezet | A bruttó köte- lezett- ség | Az átla- gos sta- tisz- tikai állo- mányi lét- szám | A bruttó köte- lezett- ség 33%/ 66%- nak össze- ge | A kép- zés meg- neve- zése | A kép- zés azo- nosító száma | Az áthú- zódó kép- zés | A képzés idő- tartama tól-ig | A képzést folytató intézmény | A kép- zés hely- színe | A kép- zés típusa | A kép- zés for- mája | A kép- zés jelle- ge | A kép- zés- ben részt vevő saját mun- ka- vál- lalók össz- lét- száma | A kép- zés- ben részt vevők közül fo- gyaté- kos- sággal élő mun- ka- vál- lalók össz- lét- száma | A kép- zés- ben részt vevők közül hátrá- nyos hely- zetű mun- ka- vál- lalók össz- lét- száma | A kép- zés ösz- szes óra- száma | Általá- nos képzés aránya az összes óra- szám- hoz viszo- nyítva | Speciá- lis képzés aránya az összes óra- szám- hoz viszo- nyítva | Felnőtt- képzési szolgál- tatás aránya az összes óra- szám- hoz viszo- nyítva | A képzés tárgy- évi elszá- molt óra- száma | A képzés összes el- számol- ható költ- sége | A képzés- re érvénye- síthető intenzi- tás mértéke | A képzés- re igény- be- vehető támoga- tás | A képzés fajlagos költsége | A szakképzési hozzájárulási kötelezettség terhére |
 
-## elszámolásokról
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | tárgy- évben igénybe vett támogatás összege | előző év(ek)ben igénybe vett támogatás összege | következő év(ek)ben igénybe venni kívánt támogatás összege |
 
-| Adat- szol- gál- tatás sor- száma | Képzés sor- száma | Gazdálkodó szervezet | A bruttó köte- lezett- ség ösz- szege | Az átlagos sta- tiszti- kai állo- mányi lét- szám | A bruttó köte- lezett- ség 33%/ 60%- ának ösz- szege | A képzés meg- neve- zése | A képzés azo- nosító száma | Áthú- zódó képzés | A képző intézmény | A képzés hely- színe | A képzés típusa | A képzés for- mája | A képzés jellege | A kép- zésben részt vevő saját mun- kavál- lalók száma | A képzés összes el- szá- mol- ható költ- sége | A szak- kép- zési hozzá- járu- lási köte- lezett- ség terhére tény- lege- sen el- szá- molt kép- zési költség | Az áthú- zódó képzés előző évek- ben elszá- molt költ- sége | Az áthú- zódó képzés követ- kező évek- ben elszá- molni terve- zett költ- sége | A képzés fajlagos elszámolható költsége | A képzés ösz- szes óra- száma | Álta- lános képzés aránya az ösz- szes óra- szám- hoz viszo- nyítva | Spe- ciális képzés aránya az ösz- szes óra- szám- hoz viszo- nyítva | Felnőtt kép- zési szol- gálta- tás aránya az ösz- szes óra- szám- hoz viszo- nyítva | A képzés időtartama | Az adat- szol- gál- tatás be- nyúj- tásá- nak napja |
+|  |  | Megne- ve- zése | Cég- jegyzék száma | Adó- száma | Statisz- tikai szám- jele | Eltérő üzleti éves vállal- kozás I/N | Gyakor- lati képző I/N | Kis- vagy közép vállal- kozás | Ft | Fő | Ft |  | OKJ/ Lajst- rom/ OM rende- let szám | I/N | év | év | Meg- neve- zése | Lajst- rom száma |  | Á/S | B/ K/ V |  | Fő | Fő | Fő | óra | % | % | % | óra | Ft | % | Ft | Ft/ fő/ óra | Ft/ fő/ kép- zés | Ft | Ft | Ft |
 
-|  |  | Meg- neve- zése | Cég- be- jegy- zés száma | Sta- tisz- tikai szám- jele | Eltérő üzleti éves I/N | Gya- kor- lati képző I/N | Nyíl- ván- tartási száma | Mikro- vagy kis- vagy egyéb vállal- kozás M/K/E | Ft | Fő | Ft |  | OKJ/ akkre- ditá- ciós lajst- rom/ OM rende- let sz. | I/N | Meg- neve- zése | Akk- red. lajst- rom- száma |  | Á/S | B/K/V | Fő | Ft | Ft | Ft | Ft | Ft | Ft/fő/ óra | Ft/fő/ nap | Ft/fő/ képzés | óra | % | % | % | év/hó/ naptól | év/hó/ napig | év/hó/ nap |
+|  |  |  |  |  |  |  |  |  | hó | hó |  |  |  |  |  |  |  |  |  |
 
-| 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 3. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## A táblázatot a benyújtott 1. és 2. számú melléklet alapján kell kitölteni. A táblázat az összesen sorral zárul.
 
-## A nyilvántartást készítő neve: ..................................................... telefonszáma: .......................
+## A nyilvántartást készítő neve: ..................................................... telefonszáma: .......................
 
-## Kelt: ................................... 200... év ......................... hó ................ nap
+## Kelt: ................................... 20... év ......................... hó ................ nap
 
-## ............................
-
-## munkaügyi központ igazgatója
+| ................................................................................... munkaügyi központ igazgatója |
 
 4. számú melléklet a 15/2009. (VII. 24.) SZMM rendelethez

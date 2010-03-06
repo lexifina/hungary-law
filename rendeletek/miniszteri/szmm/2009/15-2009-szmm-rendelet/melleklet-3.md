@@ -14,12 +14,6 @@
 
 ## b) akkreditált képzési program alapján folytatott képzés esetén akkreditációs lajstromszám:
 
-## c) az OKJ-ben nem szereplő és nyelvi képzés esetén:
-
-## [a felnőttképzést folytató intézmények nyilvántartásba vételének részletes szabályairól szóló 48/2001. (XII. 29.)
-
-## OM rendelet 3. számú mellékletében meghatározott azonosító]
-
 ## 5. A képzés áthúzódó képzés[^*:] igen nem
 
 ## 6. A képzés időtartama: ............... év .................... hótól ............... év .................... hóig.
@@ -96,6 +90,7 @@
 
 3. számú melléklet
 
-15/2009. (VII. 24.) SZMM rendelethez
+15/2009. (VII. 24.) SZMM rendelethez[^6]
 
 [^*:]: A megfelelő rész egyértelműen jelölendő.
+[^6]: A 3. számú melléklet 4/2010. (II. 26.) SZMM rendelet 22. § (1) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

@@ -1,12 +1,12 @@
 4. § (1) Külső képzés esetén a hozzájárulásra kötelezett és a képző intézmény közötti szolgáltatási szerződés és az annak alapján képzésenkénti részletezettséggel kiállított számla képezi az elszámolás alapját.
 
-(2) Az (1) bekezdésben meghatározott szolgáltatási szerződésben az OKJ-ben nem szereplő képzés, továbbá nyelvi képzés esetén fel kell tüntetni a képzésnek – a felnőttképzést folytató intézmények nyilvántartásba vételének részletes szabályairól szóló 48/2001. (XII. 29.) OM rendelet [a továbbiakban: 48/2001. (XII. 29.) OM rendelet] 3. számú mellékletében meghatározott – 8 számjegyű azonosítóját, valamint a hozzájárulásra kötelezett statisztikai számjelét.
+(2)[^1] Az (1) bekezdésben meghatározott szolgáltatási szerződésben fel kell tüntetni a hozzájárulásra kötelezett statisztikai számjelét.
 
 (3) Külső képzés esetén a képző intézmény köteles a hozzájárulásra kötelezettnek – az e rendeletben előírt dokumentálási kötelezettség teljesítése érdekében – átadni:
 
 a) a külön jogszabályban meghatározott intézmény-akkreditációs tanúsítvány,
 
-b) a 48/2001. (XII. 29.) OM rendelet 4. §-ában meghatározott értesítés, illetve igazolás,
+b)[^2]
 
 c) a hozzájárulásra kötelezett saját munkavállalójával megkötött felnőttképzési szerződés,
 
@@ -21,3 +21,6 @@ e) akkreditált képzés estén a program-akkreditációs tanúsítvány
 (5) Vegyes képzés esetén az (l)–(4) bekezdés rendelkezéseit megfelelően alkalmazni kell azzal, hogy a felnőttképzési szerződést a képző intézmény köti meg a hozzájárulásra kötelezett saját munkavállalójával.
 
 (6) Áthúzódó képzés esetén a hozzájárulásra kötelezett a képzés költségeit évente, a hatályos számviteli szabályoknak, valamint a képzés tárgyévében érvényes, e rendeletben meghatározott pénzügyi előírásoknak megfelelően teljesítésarányosan számolhatja el, amennyiben a képzés megkezdésének tárgyévétől kezdődően a képzés költségeit a szakképzési hozzájárulási kötelezettség terhére évente elszámolta.
+
+[^1]: A 4. § (2) bekezdése a 4/2010. (II. 26.) SZMM rendelet 19. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^2]: A 4. § (3) bekezdés b) pontját a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés c) pont ca) alpontja hatályon kívül helyezte, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
