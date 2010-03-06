@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság és az Indiai Köztársaság között a szociális biztonságról szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
