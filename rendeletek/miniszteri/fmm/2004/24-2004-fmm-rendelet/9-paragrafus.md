@@ -4,8 +4,8 @@ a) a személyes megkeresés és a telefonon történő elérés lehetőségét, 
 
 b) távoktatás esetén a megfelelő kapcsolattartást (levél, e-mail, honlap).
 
-(2)[^16] A kérelmező intézménynek rendelkeznie kell olyan szabályzattal, amely tartalmazza az információs, ügyfélszolgálati és panaszkezelési rendszer leírását. Erről a képzés megkezdése előtt a képzésben részt vevőket tájékoztatni kell, és ezt számukra hozzáférhetővé kell tenni.
+(2)[^21] A kérelmező intézmény az ügyfélszolgálati és panaszkezelési rendszer leírását a képzésben részt vevők számára hozzáférhetővé teszi.
 
 (3) A kérelmező intézménynek a képzésben részt vevők által bejelentett panaszok kivizsgálásának eredményéről, illetve a megtett intézkedésekről nyilvántartást kell vezetnie.
 
-[^16]: A 9. § (2) bekezdése a 4/2007. (II. 12.) SZMM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
+[^21]: A 9. § (2) bekezdése a 4/2010. (II. 26.) SZMM rendelet 5. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

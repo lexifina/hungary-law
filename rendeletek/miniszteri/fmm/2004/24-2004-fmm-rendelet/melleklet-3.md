@@ -1,122 +1,106 @@
 ## Kérelem intézmény-akkreditáció iránt
 
-## Az intézmény neve:
+| Az intézmény neve: |
 
-## Az intézmény hivatalosan rövidített neve:
+| Az intézmény hivatalosan rövidített neve: |
 
-## Az intézmény székhelye:  ⬜⬜⬜⬜
+| Az intézmény székhelye: ⬜ ⬜ ⬜ ⬜ |
 
-## Az intézmény levelezési címe:  ⬜⬜⬜⬜
+| Az intézmény levelezési címe: ⬜ ⬜ ⬜ ⬜ |
 
-## Telefonszáma: ................................................................. Faxszáma:
+| Telefonszáma: ........................................................ Faxszáma: |
 
-## Elektronikus levelezési címe: ......................................... Weblap címe:
+| Elektronikus levelezési címe: ............................. Weblap címe: |
 
-## Állandó képzési helyszíne(i):
+| Állandó képzési helyszíne(i): |
 
-## ⬜⬜⬜⬜
+| ⬜ ⬜ ⬜ ⬜ |
 
-## (postai irányítószám, helység, út, utca, tér, házszám)
+| (postai irányítószám, helység, út, utca, tér, házszám) |
 
-## ⬜⬜⬜⬜
+| ⬜ ⬜ ⬜ ⬜ |
 
-## (postai irányítószám, helység, út, utca, tér, házszám)
+| (postai irányítószám, helység, út, utca, tér, házszám) |
 
-## Az intézmény cégformája:
+| Az intézmény cégformája: |
 
-## bankszámlaszáma:
+| bankszámlaszáma: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
-## Az intézmény képviseletére jogosult vezető neve:
+| Az intézmény képviseletére jogosult vezető neve: |
 
-## elérhetősége:
+| elérhetősége: |
 
-## A képzési tevékenységért felelős vezető neve:
+| A képzési tevékenységért felelős vezető neve: |
 
-## beosztása:
+| beosztása: |
 
-## elérhetősége:
+| elérhetősége: |
 
-## Az intézménynek a felnőttképzést folytató intézmények nyilvántartásában szereplő
+| Az igazgatási szolgáltatási díjat teljesítő megnevezése, bankszámlaszáma, teljesítés időpontja: |
 
-## nyilvántartási száma:
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
-## nyilvántartásba vétel időpontja:
+| A felnőttképzési tevékenység célja: |
 
-## nyilvántartásba vétel lejártának időpontja:
+| Általános képzés ⬜ Nyelvi képzés ⬜ Szakmai képzés ⬜ Szolgáltatás ⬜ |
 
-## (Amennyiben a nyilvántartásba vétel érvényességi ideje 60 napon belül jár le, a nyilvántartásba vétel meghosszabbítása iránti kérelmet mellékelni kell.)
+| Az intézmény FAT által kiadott akkreditációs tanúsítvánnyal rendelkező programjainak felsorolása: |
 
-## A felnőttképzési tevékenység célja:
+| A kérelemhez csatolt összes dokumentum száma: ............... db. |
 
-## Általános képzés ⬜  Nyelvi képzés ⬜  Szakmai képzés ⬜  Szolgáltatás ⬜
+| Kelt: ................................................ |
 
-## Az intézmény FAT által kiadott akkreditációs tanúsítvánnyal rendelkező programjainak felsorolása:
+| P. H. |
 
-## Egyúttal kijelentem, hogy
-
-## – az intézménynek nincs az adó- és vámhatóság által nyilvántartott, lejárt köztartozása,
-
-## – az intézmény nem áll csőd-, végelszámolási és felszámolási eljárás hatálya alatt.
-
-## A kérelemhez csatolt összes dokumentum száma: ............... db.
-
-## Kelt: ...........................................................
-
-## P. H.
-
-## ………………………………………
-
-## cégszerű aláírás
+| ................................................ cégszerű aláírás |
 
 ## I. Az intézmény tevékenységének ismertetése:
 
-## 1. Az akkreditáció iránti kérelem beadásának időpontjában érvényes képzési tervben szereplő képzési programok és felnőttképzési szolgáltatások felsorolása képzési helyszínenként.
+## 1. Az akkreditált képzési program megnevezése, megvalósításának bemutatása, értékelése.
 
-## 2. Az akkreditált képzési program megnevezése, megvalósításának bemutatása, értékelése.
+## 2. A gyakorlati képzés megszervezési módjának (saját tanműhely, gazdasági szervezet stb.) bemutatása.
 
-## 3. A gyakorlati képzés megszervezési módjának (saját tanműhely, gazdasági szervezet stb.) bemutatása.
-
-## 4. A képzési tervben szereplő programok és felnőttképzési szolgáltatások megvalósításához rendelkezésre álló feltételek bemutatása – az akkreditáció iránti kérelem benyújtásának időpontjában folytatott – képzési helyszínenként az alábbiak szerint:
+## 3. A képzési programok és felnőttképzési szolgáltatások megvalósításához rendelkezésre álló feltételek bemutatása – az akkreditáció iránti kérelem benyújtásának időpontjában meghirdetett vagy megkezdett képzések vonatkozásában – képzési helyszínenként az alábbiak szerint:
 
 ## (Az állandó képzési helyszín bemutatása kötelező.)
 
 ## Képzési tevékenységért felelős személy:
 
-## – végzettsége,
+## –  végzettsége,
 
-## – felnőttképzési gyakorlatának időtartama,
+## –  felnőttképzési gyakorlatának időtartama,
 
-## – foglalkoztatásra irányuló jogviszonyának jellege és kezdete.
+## –  foglalkoztatásra irányuló jogviszonyának jellege és kezdete.
 
 ## Oktatók:
 
-## A képzési programok és a felnőttképzési szolgáltatások megvalósításához szükséges oktatói kör (tanárok, trénerek, instruktorok, tutorok, mentorok stb.) összetételének bemutatása képzési programonként:
+## A képzési programok és a nyújtott felnőttképzési szolgáltatások megvalósításához szükséges oktatói kör (tanárok, trénerek, instruktorok, tutorok, mentorok stb.) összetételének bemutatása képzési programonként:
 
-## – az oktatók végzettsége,
+## –  az oktatók
 
-## – az oktatók szakmai gyakorlatának időtartama az adott területen,
+## –  végzettsége,
 
-## – az oktatók oktatói gyakorlatának időtartama,
+## –  szakmai gyakorlatának időtartama az adott területen,
 
-## – az oktatók felnőttképzési gyakorlatának időtartama,
+## –  oktatói gyakorlatának időtartama,
 
-## – az oktatók nyelvismerete,
+## –  felnőttképzési gyakorlatának időtartama,
 
-## – az oktatók foglalkoztatásra irányuló jogviszony jellege.
+## –  nyelvismerete.
 
 ## Tárgyi feltételek képzési helyszínenként:
 
-## – a képzési helyszín igénybevételének jogcíme, a használatra feljogosító dokumentumok megnevezése,
+## –  a képzési helyszín igénybevételének jogcíme, a használatra feljogosító dokumentumok megnevezése,
 
-## – a képzési helyszínen található oktatótermek száma,
+## –  a képzési helyszínen található oktatótermek száma,
 
-## – az oktatótermek felszerelése (oktatótermenként férőhelyek száma, asztalok, székek száma, tanterem egyéb felszerelésének bemutatása – gyakorlati képzések esetében a felhasznált felszerelés bemutatása, nyelvi képzések esetében a hangfelvételre, lejátszásra alkalmas berendezések bemutatása, informatikai képzések esetében az informatikai infrastruktúra bemutatása),
+## –  az oktatótermek felszerelése (oktatótermenként férőhelyek száma, asztalok, székek száma, tanterem egyéb felszerelésének bemutatása – gyakorlati képzések esetében a felhasznált felszerelés bemutatása, nyelvi képzések esetében a hangfelvételre, lejátszásra alkalmas berendezések bemutatása, informatikai képzések esetében az informatikai infrastruktúra bemutatása),
 
-## – oktatótermenként az igénybevétel céljának megnevezése a képzési tevékenység szempontjából: szakmai elméleti, gyakorlati képzés, informatikai képzés, nyelvi képzés, általános képzés,
+## –  oktatótermenként az igénybevétel céljának megnevezése a képzési tevékenység szempontjából: szakmai elméleti, gyakorlati képzés, informatikai képzés, nyelvi képzés, általános képzés,
 
-## – közösségi és szociális helyiségek leírása,
+## –  közösségi és szociális helyiségek leírása,
 
-## – egyéb rendelkezésre álló feltételek bemutatása.
+## –  egyéb rendelkezésre álló feltételek bemutatása.
 
 ## Ügyfélszolgálat:
 
@@ -130,6 +114,6 @@
 
 ## Ügyfélszolgálat nyitva tartásának ideje:
 
-3. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^80]
+3. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^100]
 
-[^80]: A 3. számú mellékletet a 31/2007. (XII. 21.) SZMM rendelet 9. § (2) bekezdésének f) pontja hatályon kívül helyezte.
+[^100]: A 3. számú mellékletet a 31/2007. (XII. 21.) SZMM rendelet 9. § (2) bekezdésének f) pontja hatályon kívül helyezte.

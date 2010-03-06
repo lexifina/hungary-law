@@ -2,112 +2,78 @@
 
 ## (az intézmény által kidolgozott, továbbá a FAT által már akkreditált képzési program esetén)
 
-## Az intézmény neve:
+| Az intézmény neve: |
 
-## Az intézmény hivatalosan rövidített neve:
+| Az intézmény hivatalosan rövidített neve: |
 
-## Az intézmény székhelye:  ⬜⬜⬜⬜
+| Az intézmény székhelye: ⬜ ⬜ ⬜ ⬜ |
 
-## Az intézmény levelezési címe:  ⬜⬜⬜⬜
+| Az intézmény levelezési címe: ⬜ ⬜ ⬜ ⬜ |
 
-## Telefonszáma: ................................................................. Faxszáma:
+| Telefonszáma: ............................................................ Faxszáma: |
 
-## Elektronikus levelezési címe: ......................................... Weblap címe:
+| Elektronikus levelezési címe: ................................. Weblap címe: |
 
-## Állandó képzési helyszíne(i):
+| Az intézmény cégformája: |
 
-## ⬜⬜⬜⬜
+| bankszámlaszáma: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
-## (postai irányítószám, helység, út, utca, tér, házszám)
+| Az igazgatási szolgáltatási díjat teljesítő megnevezése, bankszámlaszáma, teljesítés időpontja: |
 
-## ⬜⬜⬜⬜
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
-## (postai irányítószám, helység, út, utca, tér, házszám)
+| Az intézmény képviseletére jogosult vezető neve: |
 
-## Az intézmény cégformája:
+| elérhetősége: |
 
-## bankszámlaszáma:
+| A képzési programért felelős vezető neve: |
 
-## Az intézmény képviseletére jogosult vezető neve:
+| beosztása: |
 
-## elérhetősége:
+| elérhetősége: |
 
-## A képzési tevékenységért felelős vezető neve:
+| A képzési program pontos megnevezése, az annak alapján megszerezhető kompetencia: |
 
-## beosztása:
+| A kérelemhez csatolt összes dokumentum száma: ................ db. |
 
-## elérhetősége:
+| Kelt: .......................................................... |
 
-## Az intézménynek a felnőttképzést folytató intézmények nyilvántartásában szereplő
+| P. H. |
 
-## nyilvántartási száma:
-
-## nyilvántartásba vétel időpontja:
-
-## nyilvántartásba vétel lejártának időpontja:
-
-## (Amennyiben a nyilvántartásba vétel érvényességi ideje 60 napon belül jár le, a nyilvántartásba vétel meghosszabbítása iránti kérelmet mellékelni kell.)
-
-## A képzési program pontos megnevezése, az annak alapján megszerezhető kompetencia:
-
-## A kérelmező intézmény FAT által már akkreditált programjainak felsorolása:
-
-## A FAT által már akkreditált képzési program esetén a képzési program lajstromszáma:
-
-## Akkreditált intézmény esetén az intézmény-akkreditációs lajstromszám:
-
-## A kérelemhez csatolt összes dokumentum száma: ............... db.
-
-## Kelt: ...........................................................
-
-## P. H.
-
-## ………………………………………
-
-## cégszerű aláírás
+| ................................................ cégszerű aláírás |
 
 ## A személyi és tárgyi feltételek biztosításának bemutatása:
 
 ## Oktatók:
 
-## A képzési programok és a felnőttképzési szolgáltatások megvalósításához szükséges oktatói kör (tanár, tréner, instruktor, tutor, mentor stb.) összetételének bemutatása:
+## A képzési programhoz rendelkezésre álló oktatói kör (tanár, tréner, instruktor, tutor, mentor stb.) összetételének bemutatása:
 
-## – az oktatók végzettsége,
+## – az oktatók
 
-## – az oktatók szakmai gyakorlatának időtartama az adott területen,
+## = végzettsége,
 
-## – az oktatók oktatói gyakorlatának időtartama,
+## = szakmai gyakorlatának időtartama az adott területen,
 
-## – az oktatók felnőttképzési gyakorlatának időtartama,
+## = oktatói gyakorlatának időtartama,
 
-## – az oktatók nyelvismerete,
+## = felnőttképzési gyakorlatának időtartama,
 
-## – az oktatók foglalkoztatásra irányuló jogviszony jellege.
+## = nyelvismerete,
+
+## = egyéb, a képzés szempontjából lényeges releváns adatai (tapasztalatok, végzettségek, képesítések stb.)
 
 ## Tárgyi feltételek bemutatása:
 
-## – az oktatótermek száma,
+## – a rendelkezésre álló oktatótermek száma,
 
-## – oktatótermek felszerelésének bemutatása (az 1. számú melléklet II. 1–5. pontja szerint),
+## – oktatótermek felszerelésének bemutatása (az 1. számú melléklet II. 1–5. pontja szerint),
 
-## – OKJ-s szakképesítés esetén a gyakorlati képzés megszervezési módjának (saját tanműhely, gazdálkodó szervezet stb.) bemutatása,
+## – OKJ-s szakképesítés esetén a gyakorlati képzés megszervezési módjának (saját tanműhely, gazdálkodó szervezet stb.) bemutatása,
 
-## – közösségi és szociális helyiségek leírása,
+## – közösségi és szociális helyiségek leírása,
 
-## – egyéb rendelkezésre álló feltételek bemutatása.
+## – egyéb rendelkezésre álló feltételek bemutatása.
 
-## Ügyfélszolgálat:
+8. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^105]
 
-## Címe:
-
-## Telefonszáma(i):
-
-## E-mail címe:
-
-## Honlapja:
-
-## Ügyfélszolgálat nyitvatartási ideje:
-
-8. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^85]
-
-[^85]: A 8. számú melléklet a 4/2007. (II. 12.) SZMM rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján rendelkezéseit a 2007. február 15. napja után indult ügyekben kell alkalmazni.
+[^105]: A 8. számú melléklet a 4/2010. (II. 26.) SZMM rendelet 18. § (5) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

@@ -1,3 +1,3 @@
-1. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^78]
+1. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^98]
 
-[^78]: Az 1. számú melléklet a 31/2007. (XII. 21.) SZMM rendelet 8. §-ával megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^98]: Az 1. számú melléklet a 4/2010. (II. 26.) SZMM rendelet 18. § (1) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

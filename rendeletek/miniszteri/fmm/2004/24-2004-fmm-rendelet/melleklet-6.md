@@ -38,23 +38,11 @@
 
 ## elérhetősége:
 
-## Az intézménynek a felnőttképzést folytató intézmények nyilvántartásában szereplő
-
-## nyilvántartási száma:
-
-## nyilvántartásba vétel időpontja:
-
-## nyilvántartásba vétel lejártának időpontja:
-
-## (Amennyiben a nyilvántartásba vétel érvényességi ideje 60 napon belül jár le, a nyilvántartásba vétel meghosszabbítása iránti kérelmet mellékelni kell.)
-
 ## A felnőttképzési tevékenység célja:
 
 ## Általános képzés ⬜  Nyelvi képzés ⬜  Szakmai képzés ⬜  Szolgáltatás ⬜
 
 ## Az intézmény FAT által kiadott akkreditációs tanúsítvánnyal rendelkező programjainak felsorolása:
-
-## Egyúttal kijelentem, hogy az intézménynek nincs az adó- és vámhatóság által nyilvántartott, lejárt köztartozása.
 
 ## A kérelemhez csatolt összes dokumentum száma: ............... db.
 
@@ -74,7 +62,7 @@
 
 ## 3. A gyakorlati képzés megszervezési módjának (saját tanműhely, gazdasági szervezet stb.) bemutatása.
 
-## 4. A képzési tervben szereplő programok és felnőttképzési szolgáltatások megvalósításához rendelkezésre álló feltételek bemutatása felnőttképzési helyszínenként az alábbiak szerint:
+## 4. A programok és felnőttképzési szolgáltatások megvalósításához rendelkezésre álló feltételek bemutatása felnőttképzési helyszínenként az alábbiak szerint:
 
 ## Felnőttképzési tevékenységért felelős személy:
 
@@ -112,6 +100,6 @@
 
 ## Ügyfélszolgálat nyitva tartási ideje:
 
-6. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^83]
+6. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^103]
 
-[^83]: A 6. számú melléklet a 4/2007. (II. 12.) SZMM rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján rendelkezéseit a 2007. február 15. napja után indult ügyekben kell alkalmazni.
+[^103]: A 6. számú melléklet a 4/2007. (II. 12.) SZMM rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján rendelkezéseit a 2007. február 15. napja után indult ügyekben kell alkalmazni.

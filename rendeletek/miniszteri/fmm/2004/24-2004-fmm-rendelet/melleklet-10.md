@@ -1,72 +1,54 @@
-## Bejelentés
+## Bejelentés más törvény alapján kiadott program-akkreditáció vagy hatósági jogkörben
 
-## más törvény alapján kiadott program-akkreditáció vagy hatósági jogkörben engedélyezett
+## engedélyezett program elismerése érdekében
 
-## program elismerése érdekében
+| Az intézmény neve: |
 
-## Az intézmény neve:
+| Az intézmény hivatalosan rövidített neve: |
 
-## Az intézmény hivatalosan rövidített neve:
+| Az intézmény székhelye: ⬜ ⬜ ⬜ ⬜ |
 
-## Az intézmény székhelye:  ⬜⬜⬜⬜
+| Az intézmény levelezési címe: |
 
-## Az intézmény levelezési címe:
+| Telefonszáma: .............................................................. Faxszáma: |
 
-## Telefonszáma: ................................................................. Faxszáma:
+| Elektronikus levelezési címe: ................................... Weblap címe: |
 
-## Elektronikus levelezési címe: ......................................... Weblap címe:
+| Állandó képzési helyszíne(i): ⬜ ⬜ ⬜ ⬜ |
 
-## Állandó képzési helyszíne(i):
+| (postai irányítószám, helység, út, utca, tér, házszám) |
 
-## ⬜⬜⬜⬜
+| ⬜ ⬜ ⬜ ⬜ |
 
-## (postai irányítószám, helység, út, utca, tér, házszám)
+| (postai irányítószám, helység, út, utca, tér, házszám) |
 
-## ⬜⬜⬜⬜
+| Az intézmény cégformája: |
 
-## (postai irányítószám, helység, út, utca, tér, házszám)
+| bankszámlaszáma: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
-## Az intézmény cégformája:
+| Az intézmény képviseletére jogosult vezető neve: |
 
-## bankszámlaszáma:
+| elérhetősége: |
 
-## Az intézmény képviseletére jogosult vezető neve:
+| A képzési tevékenységért felelős vezető neve: |
 
-## elérhetősége:
+| beosztása: |
 
-## A képzési tevékenységért felelős vezető neve:
+| elérhetősége: |
 
-## beosztása:
+| Az intézmény FAT által már akkreditált programjainak felsorolása: |
 
-## elérhetősége:
+| Más törvény alapján kiadott, vagy hatósági jogkörben engedélyezett program-akkreditációt tanúsító okirat száma, kelte, érvényességi ideje, valamint kiállítójának megnevezése: |
 
-## Az intézménynek a felnőttképzést folytató intézmények nyilvántartásában szereplő
+| A bejelentéshez csatolt összes dokumentum száma: .............................. db. |
 
-## nyilvántartási száma:
+| Kelt: .................................................................. |
 
-## nyilvántartásba vétel időpontja:
+| P. H. |
 
-## nyilvántartásba vétel lejártának időpontja:
+| ................................................ cégszerű aláírás |
 
-## (Amennyiben a nyilvántartásba vétel érvényességi ideje 60 napon belül jár le, a nyilvántartásba vétel meghosszabbítása iránti kérelmet mellékelni kell.)
-
-## Az intézmény FAT által már akkreditált programjainak felsorolása:
-
-## Akkreditált intézmény esetén az intézmény-akkreditációs lajstromszám:
-
-## A más jogszabály alapján kiadott program-akkreditációt tanúsító okirat száma, kelte, érvényességi ideje:
-
-## A bejelentéshez csatolt összes dokumentum száma: .............................. db.
-
-## Kelt: ...........................................................
-
-## P. H.
-
-## ………………………………………
-
-## cégszerű aláírás
-
-10. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^87]
+10. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^107]
 
 PROGRAM-AKKREDITÁCIÓS TANÚSÍTVÁNY
 
@@ -92,4 +74,4 @@ P. H.
 
 Felnőttképzési Akkreditáló Testület elnöke
 
-[^87]: A 10. számú melléklet a 4/2007. (II. 12.) SZMM rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján rendelkezéseit a 2007. február 15. napja után indult ügyekben kell alkalmazni.
+[^107]: A 10. számú melléklet a 4/2007. (II. 12.) SZMM rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján rendelkezéseit a 2007. február 15. napja után indult ügyekben kell alkalmazni.

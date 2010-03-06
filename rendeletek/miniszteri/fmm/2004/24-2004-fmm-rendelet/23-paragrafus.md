@@ -1,22 +1,12 @@
 ## Az intézmény-akkreditációra vonatkozó eljárási szabályok
 
-23. § (1)[^40] Az intézmény-akkreditáció iránti kérelmet a 18. §-ban foglaltak figyelembevételével a 2. számú melléklet szerinti formanyomtatványon kell benyújtani. A kérelemhez mellékelni kell
+23. § (1)[^52] Az intézmény-akkreditáció iránti kérelmet a 18. §-ban foglaltak figyelembevételével a 2. számú melléklet szerinti formanyomtatványon kell benyújtani. A kérelemhez mellékelni kell
 
 a) az intézmény létesítését igazoló okirat másolatát,
 
 b) az intézmény képviseletére jogosult személy aláírási címpéldányának másolatát,
 
-c) a felnőttképzést folytató intézmény nyilvántartásba vételét igazoló dokumentum másolatát,
-
-d) a képzési tevékenységért felelős személy szakmai önéletrajzát, mely magában foglalja a felnőttképzési gyakorlat bemutatását is,
-
-e) az intézmény képviseletére jogosult személy nyilatkozatát arról, hogy a szakmai tanácsadó testület tagjai közül mely személy áll az intézménnyel foglalkoztatásra irányuló jogviszonyban,
-
-f) a szakmai tanácsadó testület alapítását, működtetését igazoló dokumentumokat (jegyzőkönyv, ügyrend stb.),
-
-g) a kérelem benyújtásakor érvényes, a szakmai tanácsadó testület által jóváhagyott képzési tervet, illetve az október 1-jét követően benyújtott kérelmek esetén a tárgyévi és a következő naptári évre vonatkozó képzési tervet,
-
-h) a képzési terv szakmai tanácsadó testület által történő jóváhagyásának dokumentumát,
+c)–h)[^53]
 
 i) a humánerőforrás-tervet,
 
@@ -26,7 +16,7 @@ k) a tárgyévi minőségcélokat,
 
 l) a képzési és értékelési folyamat leírását,
 
-m) az előzetesen megszerzett tudás felmérésének és beszámításának folyamatleírását, valamint legalább még egy végzett szolgáltatás folyamatleírását,
+m)[^54] az intézmény által nyújtott, felnőttképzéshez kapcsolódó szolgáltatások folyamatleírását,
 
 n) az információs, ügyfélszolgálati és panaszkezelési rendszer leírását,
 
@@ -36,16 +26,19 @@ p) az intézmény működési folyamatait meghatározó minőségirányítási r
 
 q) az önértékelési rendszer leírását és az önértékelés alapján készített fejlesztési tervet,
 
-r)[^41] az intézmény által megvalósított képzési program akkreditációs tanúsítványának másolatát,
+r)[^55]
 
 s) a képzési helyszíneket és az azokon megvalósított képzéseket tartalmazó, az 5. § (4) bekezdés szerinti naprakész kimutatás másolatát,
 
 t) az intézmény tevékenységének a 2. számú melléklet szerinti ismertetését,
 
-u) a képzési tevékenységért felelős vezetőnek és az oktatóknak arra vonatkozó nyilatkozatát, hogy az akkreditációs eljárás lefolytatásához szükséges, e rendeletben meghatározott adataiknak a kirendelt szakértők, az NSZFI és a FAT által történő kezeléséhez hozzájárulnak.
+u)[^56]
 
-(2)[^42]
+(2)[^57]
 
-[^40]: A 23. § (1) bekezdése a 4/2007. (II. 12.) SZMM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
-[^41]: A 23. § (1) bekezdésének r) pontja a 4/2007. (II. 12.) SZMM rendelet 21. § (2) bekezdésének – Magyar Közlöny 2007. évi 21. számában megjelent helyesbítésnek megfelelő – a) pontja alapján 2007. július 1. napján lépett hatályba.
-[^42]: A 23. § (2) bekezdését a 31/2007. (XII. 21.) SZMM rendelet 9. § (2) bekezdésének c) pontja hatályon kívül helyezte.
+[^52]: A 23. § (1) bekezdése a 4/2007. (II. 12.) SZMM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
+[^53]: A 23. § (1) bekezdés c)–h) pontját a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés a) pont ah) alpontja hatályon kívül helyezte, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^54]: A 23. § (1) bekezdés m) pontja a 4/2010. (II. 26.) SZMM rendelet 13. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^55]: A 23. § (1) bekezdés r) pontját a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés a) pont ah) alpontja hatályon kívül helyezte, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^56]: A 23. § (1) bekezdés u) pontját a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés a) pont ah) alpontja hatályon kívül helyezte, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^57]: A 23. § (2) bekezdését a 31/2007. (XII. 21.) SZMM rendelet 9. § (2) bekezdésének c) pontja hatályon kívül helyezte.

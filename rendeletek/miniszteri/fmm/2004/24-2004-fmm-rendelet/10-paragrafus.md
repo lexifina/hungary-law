@@ -1,29 +1,35 @@
 ## Az intézmény-akkreditáció megtagadása, visszavonása
 
-10. § (1) Nem adható intézmény-akkreditáció, ha
+10. §[^22] (1) Nem adható intézmény-akkreditáció, ha
 
-a) annak az Fktv.-ben, a kormányrendeletben és e rendeletben meghatározott feltételei nem állnak fenn,
+a) a kérelmező intézmény a felnőttképzési tevékenység folytatásától eltiltó intézkedés hatálya alatt áll,
 
-b)[^17] a kérelmező intézmény a képzési tevékenység folytatásától eltiltó intézkedés hatálya alatt áll,
+b) a FAT az intézmény-akkreditációs tanúsítványt a kérelem beadását megelőző 1 évben – az ellenőrzése során észlelt jogszabálysértés miatt – visszavonta,
 
-c)[^18] a FAT az intézmény-akkreditációs tanúsítványt a kérelem beadását megelőző 1 évben visszavonta,
+c) a kérelmező intézmény az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint – a kérelem benyújtásának időpontjában – nem minősül köztartozásmentes adózónak.
 
-d) a kérelmező intézménynek az illetékes adó- és vámhatóság által nyilvántartott, lejárt köztartozása van, vagy csőd-, végelszámolási, illetve felszámolási eljárás alatt áll.
+(2) Az (1) bekezdés c) pontja szerinti kizáró feltétel fennállásának hiánya
 
-(2) Az intézmény-akkreditáció visszavonásának van helye, ha
+a) 30 napnál nem régebben kiállított közokirattal igazolható, vagy
+
+b) a kérelmezőnek a köztartozásmentes adózói adatbázisban való szereplésével bizonyítható.
+
+(3) Vissza kell vonni az intézmény-akkreditációt, ha
 
 a) az intézmény az Fktv., illetve a kormányrendelet szabályainak megsértésével folytatja tevékenységét,
 
-b)[^19] a munkaügyi központ az intézményt a képzési tevékenységétől eltiltotta,
+b) a munkaügyi központ az intézménynek a felnőttképzési tevékenység folytatását megtiltotta,
 
 c) az e rendeletben előírt akkreditációs követelmények nem teljesülnek,
 
-d) az intézmény az akkreditáció feltételeit nem érintő adataiban bekövetkezett változás ellenére nem kezdeményezi az egyszerűsített akkreditációs eljárás lefolytatását,
+d) az intézmény nem kezdeményezte határidőben az e rendelet 11. § szerinti adatváltozásnak az intézmény-, illetőleg a programakkreditációs tanúsítványon való átvezetését,
 
-e) azt az intézmény maga kérelmezi,
+e) a jogutódlás miatti adatváltozás kezdeményezése esetén a jogutódlás nem igazolható,
 
-f) az intézményt a felnőttképzést folytató intézmények nyilvántartásából törölték.
+f) azt az intézmény maga kérelmezi,
 
-[^17]: A 10. § (1) bekezdésének b) pontja a 31/2007. (XII. 21.) SZMM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^18]: A 10. § (1) bekezdésének c) pontja a 4/2007. (II. 12.) SZMM rendelet 7. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
-[^19]: A 10. § (2) bekezdésének b) pontja a 4/2007. (II. 12.) SZMM rendelet 21. § (3) bekezdése szerint módosított szöveg.
+g) az Oktatási Hivatal ezt a felsőoktatási intézménynek a felsőoktatási nyilvántartásból történő törlése miatt kéri,
+
+h) az intézményt a felnőttképzést folytató intézmények nyilvántartásából törölték.
+
+[^22]: A 10. § a 4/2010. (II. 26.) SZMM rendelet 6. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

@@ -1,4 +1,6 @@
-20. § (1)[^36] A FAT elnöke az NSZFI javaslata alapján a javaslat átvételétől számított 5 napon belül kirendeli a szakértő(ke)t, illetve a szakértői bizottság tagjait. Az eljárás a szakértői vélemény megérkezéséig felfüggeszthető.
+## 19. §[^44]
+
+20. § (1)[^45] A FAT elnöke az NSZFI javaslatának átvételétől számított három munkanapon belül dönt a szakértő, vagy a szakértői bizottság tagjainak kirendeléséről.
 
 (2) A szakértő(k), illetve a szakértői bizottság szakvéleményének elkészítése érdekében
 
@@ -14,11 +16,14 @@ cb) azt, hogy az intézmény rendelkezik-e akkreditációs követelményrendszer
 
 cc) azt, hogy az intézmény gyakorlata követi-e az írásban rögzített terveket, előírásokat, szabályozásokat,
 
-cd) a 6. § (2) bekezdésében meghatározott dokumentumok meglétét és tartalmi megfelelőségét.
+cd)[^46] a 6. §-ban meghatározott dokumentumok meglétét és tartalmi megfelelőségét.
 
-(3) Helyszíni szemle esetén a szakértői bizottság vezetője a szemle időpontjáról – a kirendelés kézhezvételétől számított legkésőbb 3 napon belül és legalább 8 nappal a helyszíni szemle előtt – a kérelmező intézményt írásban értesíti.
+(3)[^47] Helyszíni szemle esetén a szakértői bizottság vezetője a szemle időpontjáról – a kirendelés kézhezvételétől számított legkésőbb három munkanapon belül és legalább öt munkanappal a helyszíni szemle előtt – a kérelmező intézményt írásban értesíti.
 
-(4)[^37] A szakértő(k), illetve a szakértői bizottság – az írásba foglalt és valamennyi tagja által aláírt – szakvéleményt a kirendelés kézhezvételétől számított 20 napon belül megküldi az NSZFI-nek. A kérelmező intézmény a szakértői véleményt megtekintheti, arra vonatkozóan nyilatkozatot tehet.
+(4)[^48] A szakértő(k), illetve a szakértői bizottság – az írásba foglalt és valamennyi tagja által aláírt – szakvéleményt a kirendelés kézhezvételétől számított 15 munkanapon belül megküldi az NSZFI-nek. A kérelmező intézmény a szakértői véleményt megtekintheti, arra vonatkozóan nyilatkozatot tehet.
 
-[^36]: A 20. § (1) bekezdése a 19/2005. (X. 21.) FMM rendelet 5. §-ával megállapított, a 4/2007. (II. 12.) SZMM rendelet 21. § (4) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
-[^37]: A 20. § (4) bekezdése a 4/2007. (II. 12.) SZMM rendelet 21. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
+[^44]: A 19. §-t a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés a) pont af) alpontja hatályon kívül helyezte, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^45]: A 20. § (1) bekezdése a 4/2010. (II. 26.) SZMM rendelet 12. §-ával megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^46]: A 20. § (2) bekezdés c) pont cd) alpontja a 4/2010. (II. 26.) SZMM rendelet 23. § (3) bekezdés c) pontja szerint módosított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^47]: A 20. § (3) bekezdése a 4/2010. (II. 26.) SZMM rendelet 23. § (3) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^48]: A 20. § (4) bekezdése a 4/2007. (II. 12.) SZMM rendelet 21. § (5) bekezdése, a 4/2010. (II. 26.) SZMM rendelet 23. § (3) bekezdés e) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

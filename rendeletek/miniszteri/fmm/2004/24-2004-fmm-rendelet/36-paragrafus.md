@@ -1,22 +1,27 @@
-36. § (1)[^70] A FAT az ellenőrzési tevékenységét szakértő(k) bevonásával végzi. A kirendelt szakértőnek az akkreditációs követelmények megtartásáról helyszíni szemlén kell meggyőződnie. A helyszíni szemle időpontjáról az NSZFI – a helyszíni szemle előtt legalább 15 nappal korábban – írásban értesíti az intézményt.
+36. § (1)[^89] A FAT az ellenőrzési tevékenységét szakértő bevonásával végzi. A kirendelt szakértőnek az akkreditációs követelmények megtartásáról helyszíni ellenőrzésen kell meggyőződnie.
 
 (2) A FAT ellenőrzési tevékenysége során megvizsgálja
 
 a) az intézmény képes-e az akkreditációs követelményrendszerben meghatározott feltételek folyamatos fenntartására és teljesítésére,
 
-b)[^71] az akkreditációval összefüggő dokumentumokat,
+b)[^90] az akkreditációval összefüggő dokumentumokat,
 
-c) az intézmény képzési tervében szereplő akkreditált képzési program megvalósításához rendelkezésre álló feltételek fennállását,
+c)[^91] az akkreditált képzési program megvalósításához rendelkezésre álló feltételek fennállását,
 
 d) az intézmény gyakorlata követi-e az akkreditációval összefüggő szabályozásokat,
 
-e) az intézmény minőségfejlesztő munkájának eredményességét.
+e)[^92] az intézmény minőségfejlesztő munkájának a saját célkitűzéseihez mért eredményességét,
 
-(3)[^72] A FAT – a szervezeti és működési rendje alapján – a felkért szakértő(k) közreműködésével elvégzett ellenőrzéssel kapcsolatos értékeléséről az NSZFI útján tájékoztatja az intézmény vezetőjét. Az ellenőrzött intézmény 15 napon belül észrevételt tehet a FAT által készített értékeléshez.
+f)[^93] a képzési program Fktv. szerinti megvalósulását.
 
-(4)[^73]
+(3)[^94]
 
-[^70]: A 36. § (1) bekezdése a 4/2007. (II. 12.) SZMM rendelet 21. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
-[^71]: A 36. § (2) bekezdésének b) pontja a 4/2007. (II. 12.) SZMM rendelet 18. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
-[^72]: A 36. § (3) bekezdése a 4/2007. (II. 12.) SZMM rendelet 18. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
-[^73]: A 36. § (4) bekezdését a 4/2007. (II. 12.) SZMM rendelet 21. § (3) bekezdése hatályon kívül helyezte.
+(4)[^95]
+
+[^89]: A 36. § (1) bekezdése a 4/2010. (II. 26.) SZMM rendelet 16. § (1) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^90]: A 36. § (2) bekezdésének b) pontja a 4/2007. (II. 12.) SZMM rendelet 18. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján a rendelkezést a 2007. február 15. napja után indult ügyekben kell alkalmazni.
+[^91]: A 36. § (2) bekezdés c) pontja a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés a) pont ap) alpontja szerint módosított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^92]: A 36. § (2) bekezdés e) pontja a 4/2010. (II. 26.) SZMM rendelet 16. § (2) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^93]: A 36. § (2) bekezdés f) pontját a 4/2010. (II. 26.) SZMM rendelet 16. § (2) bekezdése iktatta be, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^94]: A 36. § (3) bekezdését a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés a) pont aq) alpontja hatályon kívül helyezte, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
+[^95]: A 36. § (4) bekezdését a 4/2007. (II. 12.) SZMM rendelet 21. § (3) bekezdése hatályon kívül helyezte.

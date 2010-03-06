@@ -1,41 +1,81 @@
-## Kérelem
+## Kérelem adatváltozásra irányuló eljárás lefolytatása iránt
 
-## egyszerűsített intézmény-akkreditációs eljárás lefolytatása iránt adatváltozás esetén
+| Az intézmény neve: |
 
-## Az intézmény neve:
+| Az intézmény hivatalosan rövidített neve: |
 
-## Az intézmény hivatalosan rövidített neve:
+| Az intézmény székhelye: ⬜ ⬜ ⬜ ⬜ |
 
-## Az intézmény székhelye:  ⬜⬜⬜⬜
+| Az intézmény levelezési címe: ⬜ ⬜ ⬜ ⬜ |
 
-## Az intézmény levelezési címe:  ⬜⬜⬜⬜
+| Telefonszáma: .............................................................. Faxszáma: |
 
-## Telefonszáma: ................................................................. Faxszáma:
+| Elektronikus levelezési címe: ................................... Weblap címe: |
 
-## Elektronikus levelezési címe: ......................................... Weblap címe:
+| Az intézmény bankszámlaszáma: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
-## Intézmény-akkreditációs lajstromszám:
+| A igazgatási szolgáltatási díjat teljesítő megnevezése, bankszámlaszáma, teljesítés időpontja: |
 
-## Az intézmény adataiban bekövetkezett változás ismertetése:
+| ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ |
 
-## Egyúttal kijelentem, hogy
+| Az intézmény/program adataiban bekövetkezett változás ismertetése: |
 
-## – az intézménynek nincs az adó- és vámhatóság által nyilvántartott, lejárt köztartozása,
+| Egyúttal kijelentem, hogy a fenti adatváltozás az akkreditáció feltételeit nem érinti. |
 
-## – az intézmény nem áll csőd-, végelszámolási és felszámolási eljárás hatálya alatt.
+| A kérelemhez csatolt összes dokumentum száma: ....................db. |
 
-## – a fenti adatváltozás az akkreditáció feltételeit nem érinti.
+| Kelt: .................................................................. |
 
-## A kérelemhez csatolt összes dokumentum száma: ............... db.
+| P. H. |
 
-## Kelt: ...........................................................
+| ................................................ cégszerű aláírás |
 
-## P. H.
+## I. Az intézmény tevékenységének ismertetése:
 
-## ………………………………………
+## 1. Az akkreditáció iránti kérelem beadásának időpontjában érvényes képzési programok és nyújtott felnőttképzési szolgáltatások felsorolása képzési helyszínenként.
 
-## cégszerű aláírás
+## 2. Akkreditált képzési program megnevezése, megvalósításának bemutatása, értékelése.
 
-5. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^82]
+## 3. A gyakorlati képzés megszervezési módjának (saját tanműhely, gazdasági szervezet stb.) bemutatása.
 
-[^82]: Az 5. számú melléklet a 4/2007. (II. 12.) SZMM rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján rendelkezéseit a 2007. február 15. napja után indult ügyekben kell alkalmazni. E módosító rendelet 21. § (2) bekezdésének d) pontja alapján az 5. számú melléklet I. 2. pontja 2007. július 1. napján lépett hatályba.
+## 4. A képzési programok és nyújtott felnőttképzési szolgáltatások megvalósításához rendelkezésre álló feltételek bemutatása felnőttképzési helyszínenként az alábbiak szerint:
+
+## Felnőttképzési tevékenységért felelős személy:
+
+## – végzettsége,
+
+## – felnőttképzési gyakorlatának időtartama,
+
+## – foglalkoztatásra irányuló jogviszonyának jellege és kezdete.
+
+## Oktatók:
+
+## A felnőttképzési programok és a felnőttképzési szolgáltatások megvalósításához szükséges oktatói kör (tanár, tréner, instruktor, tutor, mentor stb.) összetételének bemutatását képzési programonként:
+
+## – az oktatók
+
+## = végzettsége,
+
+## = szakmai gyakorlatának időtartama az adott területen,
+
+## = oktatói gyakorlatának időtartama,
+
+## = felnőttképzési gyakorlatának időtartama,
+
+## = nyelvismerete.
+
+## Ügyfélszolgálat:
+
+## Címe:
+
+## Telefonszáma(i):
+
+## E-mail címe:
+
+## Honlapja:
+
+## Ügyfélszolgálat nyitva tartási ideje:
+
+5. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^102]
+
+[^102]: Az 5. számú melléklet a 4/2007. (II. 12.) SZMM rendelet 20. §-ával megállapított, a 4/2010. (II. 26.) SZMM rendelet 23. § (4) bekezdés b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.

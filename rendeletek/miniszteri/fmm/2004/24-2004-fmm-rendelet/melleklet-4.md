@@ -1,3 +1,3 @@
-4. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^81]
+4. számú melléklet a 24/2004. (VI. 22.) FMM rendelethez[^101]
 
-[^81]: A 4. számú melléklet a 4/2007. (II. 12.) SZMM rendelet 20. §-ával megállapított szöveg. E módosító rendelet 21. § (6) bekezdése alapján rendelkezéseit a 2007. február 15. napja után indult ügyekben kell alkalmazni.
+[^101]: A 4. számú melléklet a 4/2010. (II. 26.) SZMM rendelet 18. § (3) bekezdésével megállapított szöveg, e módosító rendelet 23. § (1) bekezdése alapján a 2010. március 6-át követően indult eljárások esetében kell alkalmazni.
