@@ -5,11 +5,3 @@
 (3) Az Egyezmény, illetve e törvény 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 (4) E törvény végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter, valamint a szociál- és nyugdíjpolitikáért felelős miniszter gondoskodik.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
