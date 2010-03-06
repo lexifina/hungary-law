@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a jövedelemadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról Budapesten, 2010. február 4. napján aláírt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
