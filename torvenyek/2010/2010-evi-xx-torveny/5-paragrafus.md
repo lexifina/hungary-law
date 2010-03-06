@@ -7,11 +7,3 @@
 (4) A Megállapodás hatálybalépésének naptári napját, valamint a (2)–(3) bekezdésében meghatározott időpont naptári napját a külpolitikáért felelős miniszter azok ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
 (5) E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
