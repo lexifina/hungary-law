@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad egyrészről az Amerikai Egyesült Államok, másrészről az Európai Közösség és tagállamai, harmadrészről Izland és negyedrészről a Norvég Királyság közötti légiközlekedési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
