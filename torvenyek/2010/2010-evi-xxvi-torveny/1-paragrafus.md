@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Helyi Önkormányzatok Európai Chartájáról szóló, Strasbourgban, 1985. október 15-én kelt egyezménynek a helyi közéletben való részvételről szóló kiegészítő jegyzőkönyve (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
