@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Közösség és tagállamai, másrészről Kanada közötti légiközlekedési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
