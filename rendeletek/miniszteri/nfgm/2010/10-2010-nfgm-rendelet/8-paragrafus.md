@@ -1,1 +1,0 @@
-## „e) idegen vagy közös tulajdonban álló ingatlanon elhelyezendő létesítmény esetében a tulajdonos (kezelő, használó, haszonélvező tulajdonostárs) hozzájáruló nyilatkozatát vagy az ezt pótló jogerős bírósági ítéletet, megszerzett ingatlan azonnali birtokba adását elrendelő határozatot,”
