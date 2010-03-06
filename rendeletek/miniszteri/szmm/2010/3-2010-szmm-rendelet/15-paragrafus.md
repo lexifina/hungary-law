@@ -1,1 +1,0 @@
-## „a) a fejlesztési támogatásban részesített, és a támogatást felhasználó valamennyi TISZK, központi képzőhely, speciális és készségfejlesztő speciális szakképző iskola, és felsőoktatási intézmény ötévente legalább egy alkalommal ellenőrzésre kerüljön,”

@@ -1,7 +1,0 @@
-## 12. § Az R. 29. §-a a következő (7)–(9) bekezdéssel egészül ki:
-
-## „(7) Az alaprész terhére történő támogatásnál, ha a támogatott gyakorlati képzés megszervezésével teljesítő hozzájárulásra kötelezett, a csoportos gyakorlati képzést közvetlenül szolgáló, az Szht. 19. § 4. pontja szerinti tárgyi eszköz beszerzésére nyújtott támogatás esetében a tárgyi eszközt köteles elkülönítetten nyilvántartani és 5 évig – ingatlan esetén 10 évig – a pályázatában megjelölt gyakorlati képzés céljaira használni.
-
-## (8) A (7) bekezdés szerinti tárgyi eszköz esetében, ha a rendeltetésszerű használatbavétel hónapjától számított 5 éven – ha a tárgyi eszköz ingatlan 10 éven – belül a támogatással érintett gyakorlati képzést egy tanítási éven túl szüneteltetik, megszüntetik vagy a támogatott megszűnik, a jelzett időszak hátralévő hónapjaira időarányosan eső támogatási összegnek azt a hányadát kell a Kincstárnál vezetett MPA EFK számlára visszafizetni, amilyen arányban a tárgyi eszköz beszerzése a támogatás terhére elszámolásra került.
-
-## (9) A támogatás hasznosulásának vizsgálatához a támogatott köteles a támogatás évétől számítva 5 éven keresztül évente minden év október 15-éig monitoring jelentést küldeni az NSZFI részére a támogatással érintett gyakorlati képzés(ek)ben résztvevők létszámáról és a tárgyi eszközök használatának időtartamáról. Amennyiben a támoga- tottnál a gyakorlati képzésben résztvevők létszáma nullára csökken, a (8) bekezdés szerint kell eljárni.”
