@@ -1,0 +1,5 @@
+## 1. § A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendelet (a továbbiakban: R1.) 2. § t) pontja helyébe a következő rendelkezés lép:
+
+## (E rendelet alkalmazásában:)
+
+## „t) tevékenységigazoló lap: a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos forma- nyomtatványról szóló 2007/230/EK határozat módosításáról szóló, 2009. december 14-i 2009/959/EU bizottsági határozat mellékletében meghatározott okmány, amelyen a munkáltató igazolja, és a gépjárművezető nyilatkozik arról, hogy betegállományban volt, szabadságát, pihenőidejét, készenléti idejét töltötte, a járművezetésen kívüli egyéb tevékenységet végzett vagy egy meghatározott időszakban nem végzett az 561/2006/EK európai parlamenti és tanácsi rendelet vagy a 2001. évi IX. törvénnyel kihirdetett, a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (a továbbiakban: AETR Megállapodás) hatálya alá tartozó tevékenységet.”
