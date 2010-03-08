@@ -1,0 +1,3 @@
+14. § (1) A regionális egyeztetési eljárás résztvevői további tárgyalásokat folytatnak a menetrend hatálybalépését megelőző hetedik, hatodik és ötödik hónapban, amennyiben – az ütköző pályakapacitási igények és az éves pályakapacitás-elosztási folyamat során felmerülő szempontok miatt, továbbá az éves üzemi menetrend tervezete alapján – az előzetesen jóváhagyott menetrendi javaslat módosítása válik szükségessé.
+
+(2) A menetrendi ajánlatot – az előzetesen jóváhagyott menetrendi javaslat módosítása esetén a módosítás indokainak ismertetésével együtt – a szolgáltató a menetrend hatálybalépését megelőző negyedik hónap második hétfőjéig jóváhagyásra felterjeszti a miniszternek.
