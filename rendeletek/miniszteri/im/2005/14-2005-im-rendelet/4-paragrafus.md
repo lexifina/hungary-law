@@ -1,25 +1,23 @@
-## 4. §[^1] A radioaktív hulladékok és a kiégett üzemanyag elhelyezésére, valamint a nukleáris létesítmények leszerelésére kijelölt szerv létrehozásáról és tevékenységének pénzügyi forrásáról szóló kormányrendelet szerinti KNPA Szakbizottság tagjai az alábbi miniszterek és intézmények által delegált képviselők:
+## 4. §[^3] A radioaktív hulladékok és a kiégett üzemanyag elhelyezésére, valamint a nukleáris létesítmények leszerelésére kijelölt szerv létrehozásáról és tevékenységének pénzügyi forrásáról szóló kormányrendelet szerinti KNPA Szakbizottság tagjai a következő miniszterek és intézmények által delegált képviselők:
 
 a) az OAH-t felügyelő miniszter,
 
-b) az iparügyekért felelős miniszter,
+b) az energiapolitikáért felelős miniszter,
 
-c) a közlekedésért felelős miniszter ,
+c) a rendészetért felelős miniszter,
 
-d) a rendészetért felelős miniszter,
+d) a környezetvédelemért felelős miniszter,
 
-e) a környezetvédelemért felelős miniszter,
+e) az egészségügyért felelős miniszter,
 
-f) az egészségügyért felelős miniszter,
+f) a katasztrófák elleni védekezésért felelős miniszter,
 
-g) a katasztrófák elleni védekezésért felelős miniszter,
+g) az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter,
 
-h) az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter,
+h) az OAH,
 
-i) Országos Atomenergia Hivatal,
+i) a Paksi Atomerőmű Zrt.,
 
-j) Paksi Atomerőmű Zrt.,
+j) az RHK Kft.
 
-k) Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft.
-
-[^1]: A 4. § a 48/2009. (IX. 30.) KHEM rendelet 44. §-ával megállapított szöveg, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 4. § a 9/2010. (II. 26.) KHEM rendelet 6. §-ával megállapított szöveg.
