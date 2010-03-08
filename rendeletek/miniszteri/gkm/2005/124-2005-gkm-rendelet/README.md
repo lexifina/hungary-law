@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-124-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-31 | 2005-124-20-0L.9 | 124/2005. (XII. 29.) GKM rendelet |
+| 2010-03-08 | 2005-124-20-0L.10 | 76/2007. (VIII. 30.) GKM rendelet |

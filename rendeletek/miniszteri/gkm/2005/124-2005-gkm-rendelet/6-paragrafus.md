@@ -40,18 +40,26 @@ a) elveszett, ellopták vagy megsemmisült,
 
 b) megrongálódás vagy elhasználódás miatt működésképtelenné vált.
 
-(9)[^25] A munkáltató a gépjárművezető részére a 3. számú mellékletben meghatározott tevékenységigazoló lapot köteles kiadni azokra a napokra, amelyeken a gépjárművezető nem végzett az 561/2006/EK európai parlamenti és tanácsi rendelet vagy az AETR Megállapodás hatálya alá tartozó tevékenységet. Az igazoláson a munkáltató – a részére a külön jogszabályban meghatározott nyilvántartás adataival összhangban – meg kell jelölje
+(9)[^25] A munkáltató a gépjárművezető részére a tevékenységigazoló lapot köteles kiadni azokra a napokra, amelyeken a gépjárművezető nem végzett az 561/2006/EK európai parlamenti és tanácsi rendelet vagy az AETR Megállapodás hatálya alá tartozó tevékenységet. Az igazoláson a munkáltatónak – a részére a külön jogszabályban meghatározott nyilvántartás adataival összhangban – meg kell jelölnie
 
-a) a 13. pontot, ha a gépjárművezető keresőképtelenséget okozó betegség miatt nem végzett munkát,
+a) a 14. pontot, ha a gépjárművezető keresőképtelenséget okozó betegség miatt nem végzett munkát,
 
-b) a 14. pontot, ha a gépjárművezető a szabadsága miatt nem végzett munkát, vagy
+b) a 15. pontot, ha a gépjárművezető az éves szabadságát (rendes szabadságát) töltötte,
 
-c) a 15. pontot, ha a gépjárművezető olyan munkát végzett, amely nem tartozik az 561/2006/EK európai parlamenti és tanácsi rendelet vagy az AETR Megállapodás hatálya alá.
+c) a 16. pontot, ha a gépjárművezető a szabadsága vagy pihenőideje miatt nem végzett munkát,
 
-(10)[^26] A gépjárművezető köteles a részére kiadott tevékenységigazoló lap 17–18. pontját a járművezetői tevékenységének megkezdése előtt kitölteni, továbbá a tevékenységigazoló lapot a 3821/85/EGK tanácsi rendeletben meghatározott módon – az adatrögzítő lapokra vonatkozó előírások megfelelő alkalmazásával – kell kezelni.
+d) a 17. pontot, ha a gépjárművezető olyan munkát végzett, amely nem tartozik az 561/2006/EK európai parlamenti és tanácsi rendelet vagy az AETR Megállapodás hatálya alá,
+
+e) a 18. pontot, ha a gépjárművezető a járművezetésen kívüli egyéb tevékenységet végzett,
+
+f) a 19. pontot, ha a gépjárművezető rendelkezésre állt, készenléti idejét töltötte.
+
+A 14–19. pont közül csak az egyik jelölhető meg.
+
+(10)[^26] A gépjárművezető köteles a részére kiadott tevékenységigazoló lap 21–22. pontját a járművezetői tevékenységének megkezdése előtt kitölteni, továbbá a tevékenységigazoló lapot a 3821/85/EGK tanácsi rendeletben meghatározott módon – az adatrögzítő lapokra vonatkozó előírások megfelelő alkalmazásával – kell kezelni.
 
 [^22]: A 6. §-t megelőző alcím a 76/2007. (VIII. 30.) GKM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^23]: A 6. § (3) bekezdése a 42/2007. (IV. 4.) GKM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^24]: A 6. § (5) bekezdése a 42/2007. (IV. 4.) GKM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^25]: A 6. § (9) bekezdését a 76/2007. (VIII. 30.) GKM rendelet 3. § (2) bekezdése iktatta be.
-[^26]: A 6. § (10) bekezdését a 76/2007. (VIII. 30.) GKM rendelet 3. § (2) bekezdése iktatta be.
+[^25]: A 6. § (9) bekezdését a 76/2007. (VIII. 30.) GKM rendelet 3. § (2) bekezdése iktatta be, szövege a 9/2010. (II. 26.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^26]: A 6. § (10) bekezdését a 76/2007. (VIII. 30.) GKM rendelet 3. § (2) bekezdése iktatta be, szövege a 9/2010. (II. 26.) KHEM rendelet 4. § (2) bekezdése szerint módosított szöveg.
