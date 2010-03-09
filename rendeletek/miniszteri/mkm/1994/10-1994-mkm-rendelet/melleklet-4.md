@@ -92,7 +92,7 @@
 
 ## 4. A 3. pontban felsoroltakon kívüli alapszolgáltatásokat az veheti igénybe, aki beiratkozott a könyvtárba. A beiratkozásért a könyvtár a fenntartó által meghatározott mértékű beiratkozási díjat kérhet. A pedagógus igazolvánnyal rendelkezők mentesülnek a beiratkozási díj alól. Az iskolai, kollégiumi könyvtári hálózat részére nyújtott szolgáltatásokért kérhető ellenszolgáltatás megállapítása e rendelet 11. §-ában foglaltak szerint történhet.
 
-4. számú melléklet a 10/1994. (V. 13.) MKM rendelethez[^28]
+4. számú melléklet a 10/1994. (V. 13.) MKM rendelethez[^43]
 
 Jegyzék
 
@@ -372,4 +372,4 @@ Megjegyzés:
 
 2. A mellékletben foglaltaktól az intézmény javára el lehet térni.
 
-[^28]: A 4. számú mellékletet a 25/1998. (VI. 9.) MKM rendelet 12. §-ának (2) bekezdése, illetve 3. számú melléklete iktatta a szövegbe.
+[^43]: A 4. számú mellékletet a 25/1998. (VI. 9.) MKM rendelet 12. §-ának (2) bekezdése, illetve 3. számú melléklete iktatta a szövegbe.

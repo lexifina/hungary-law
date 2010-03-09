@@ -10,9 +10,9 @@ c) a pedagógusok továbbképzéséről szóló 12/1985. (X. 1.) MM rendelet mó
 
 d) a pedagógiai intézetekről szóló 102/1985. (Műv. K. 4.) MM utasítás.
 
-(2)[^23]
+(2)[^38] A 14. § (6)–(7) bekezdése, valamint a 14/A. § (2) bekezdése és a jelen bekezdés 2014. január 1-jén hatályát veszti.
 
-(3)[^24]
+(3)[^39]
 
-[^23]: A 15. § (2)-(3) bekezdését a 25/1998. (VI. 9.) MKM rendelet 13. §-a (1) bekezdésének c) pontja hatályon kívül helyezte.
-[^24]: A 15. § (2)-(3) bekezdését a 25/1998. (VI. 9.) MKM rendelet 13. §-a (1) bekezdésének c) pontja hatályon kívül helyezte.
+[^38]: A 15. § (2) bekezdését a 25/1998. (VI. 9.) MKM rendelet 13. §-a (1) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 8/2010. (III. 2.) OKM rendelet 6. §-a iktatta be. A (2) bekezdés ugyanezen bekezdés alapján hatályát vesztette 2014. január 1. napjával.
+[^39]: A 15. § (3) bekezdését a 25/1998. (VI. 9.) MKM rendelet 13. §-a (1) bekezdésének c) pontja hatályon kívül helyezte.

@@ -16,9 +16,9 @@ e) egyéni szakmai tanácsadás.
 
 (3) A szaktanácsadói feladatok ellátásában az vehet részt, aki szerepel a szaktanácsadói névjegyzékben. A szaktanácsadói névjegyzékbe történő felvétel nyilvános pályázat útján történik. A pályázat feltételeiről és közzétételéről, a pályázatok elbírálásáról a pedagógiai intézet dönt. A pályázat kiírásához be kell szerezni a pedagógiai intézet fenntartójának az egyetértését.
 
-(4) Az, aki szaktanácsadói névjegyzékben szerepel, bármelyik pedagógiai szakmai szolgáltatást ellátó intézetben közreműködhet a szaktanácsadói feladatok ellátásában.
+(4)[^8] A pedagógiai intézet a (2) bekezdés szerinti megállapodást a megrendelő igénye szerint köti meg, és – amennyiben arra a megrendelő igényt tart – segítséget nyújt a szaktanácsadó kiválasztásához. A pedagógiai intézet a szaktanácsadó felhatalmazása alapján adhat tájékoztatást a szaktanácsadó adatairól azok részére, akik szaktanácsadót kívánnak igénybe venni. A pedagógiai intézet a szaktanácsadó kérésére és hozzájárulása alapján – a honlapján, szaktanácsadói névjegyzék formájában – nyilvánosságra hozza a szaktanácsadók adatait.
 
-(5) A szaktanácsadói rendszer kialakítása, a névjegyzék összeállítása és helyben szokásos módon való nyilvánosságra hozatala a pedagógiai intézet feladata. A szaktanácsadói névjegyzékeket – a pedagógiai intézet megkeresésére – a Művelődési és Közoktatási Minisztérium[^8] hivatalos lapjában közzé kell tenni.
+(5)[^9] A pedagógiai intézetek megállapodhatnak egymással arról, hogy közösen szervezik meg a szaktanácsadást. A szaktanácsadók hozzájárulása alapján a pedagógiai intézetek közösen is nyilvánosságra hozhatják a szaktanácsadók adatait, illetve egymás névjegyzékéről is igénybe vehetik a szaktanácsadót.
 
 (6) Törölni kell a szaktanácsadói névjegyzékből azt,
 
@@ -30,6 +30,8 @@ c) aki elhunyt,
 
 d) akit jogerős bírósági ítélettel a közügyektől vagy foglalkozásának gyakorlásától eltiltottak.
 
-(7) Ha a megyében, fővárosban több pedagógiai intézet működik, a megyei, fővárosi önkormányzat által fenntartott pedagógiai intézet – az érdekelt pedagógiai intézetek közreműködésével – egységes megyei, fővárosi szaktanácsadói névjegyzéket készít.
+(7)[^10]
 
-[^8]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének a) pontját.
+[^8]: A 8. § (4) bekezdése a 8/2010. (III. 2.) OKM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 8. § (5) bekezdése a 8/2010. (III. 2.) OKM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 8. § (7) bekezdését a 8/2010. (III. 2.) OKM rendelet 8. § (3) bekezdése hatályon kívül helyezte.
