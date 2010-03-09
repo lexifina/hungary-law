@@ -134,9 +134,9 @@
 
 |  | szóbeli és gyakorlati: | 2010. január 18–22. |  |
 
-| c) | írásbeli | 2010. május 31. |  |
+| c) | írásbeli | 2010. március 16. |  |
 
-|  | szóbeli és gyakorlati | 2010. június 7–18. |  |
+|  | szóbeli és gyakorlati | 2010. március 22−29. |  |
 
 ## 4. A Földművelésügyi és Vidékfejlesztési Minisztérium illetékességi körébe tartozó, iskolarendszerű szakképzésben oktatott szakképesítések szakmai vizsgáinak írásbeli és szóbeli (gyakorlati) vizsgaidőpontjai:
 

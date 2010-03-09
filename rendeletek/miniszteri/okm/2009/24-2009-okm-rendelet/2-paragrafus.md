@@ -8,7 +8,7 @@
 
 a) középiskolákban és a szakiskolákban – a b)–c) pontban meghatározott kivétellel – 2010. április 30.,
 
-b) az Igazságügyi és Rendészeti Minisztérium fenntartásában lévő szakközépiskolákban 2010. május 28., a Honvédelmi Minisztérium fenntartásában lévő szakképző iskolában 2010. június 4.,
+b)[^1] az Igazságügyi és Rendészeti Minisztérium fenntartásában lévő szakközépiskolákban 2010. március 12., a Honvédelmi Minisztérium fenntartásában lévő szakképző iskolában 2010. június 4.,
 
 c) szakiskolákban, szakközépiskolákban másfél, két és fél éves képzésben tanulók részére 2010. január 15.
 
@@ -19,3 +19,5 @@ c) szakiskolákban, szakközépiskolákban másfél, két és fél éves képzé
 (6) A szorgalmi idő első féléve 2010. január 15-ig tart. Az iskolák 2010. január 22-ig értesítik a tanulókat, illetőleg a kiskorú tanulók szüleit az első félévben elért tanulmányi eredményekről. A (4)–(5) bekezdésben meghatározott esetben az első félév utolsó napját az igazgató állapítja meg. Az értesítést ettől a naptól számított hét napon belül kell megküldeni.
 
 (7) Az első és a második félév (a szorgalmi idő utolsó napja) lezárását követő tizenöt napon belül az iskoláknak nevelőtestületi értekezleten el kell végezniük a pedagógiai munka elemzését, értékelését, hatékonyságának vizsgálatát. A nevelőtestületi értekezletről készített jegyzőkönyvet meg kell küldeni – tájékoztatás céljából – az iskolaszéknek és a fenntartónak.
+
+[^1]: A 2. § (3) bekezdés b) pontja a 8/2010. (III. 2.) OKM rendelet 7. § (1) bekezdésével megállapított szöveg.
