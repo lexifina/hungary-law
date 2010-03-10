@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 71. ülésszakán elfogadott, a munkaügyi statisztikáról szóló 160. számú egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
