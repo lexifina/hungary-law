@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 81. ülésszakán elfogadott, a részmunkaidős foglalkoztatásról szóló 175. számú egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
