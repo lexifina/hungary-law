@@ -1,0 +1,335 @@
+## A Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet alapító okiratának módosítása
+
+## 1. Az alapító okirat „3. A NUSI közfeladatai/alaptevékenység” pontjában „A NUSI alaptevékenységének 2009. december 31-ig érvényes szakfeladatrend szerinti besorolása:” és az azt követő felsorolás elhagyásra kerül, továbbá „Az alaptevékenységek 2010. január 1-jétől érvényes államháztartási szakfeladatrend szerinti besorolása” szövegrész a következővel egészül ki:
+
+## „910204 Múzeumi közművelődési, közönségkapcsolati tevékenység”
+
+## 2. Az alapító okirat 5. pontja helyébe a következő rendelkezés lép:
+
+## „5. Az irányítási jogokat az önkormányzati miniszter (1051 Budapest, József Attila u. 2–4.) gyakorolja. Az irányítási jogkört a miniszter a sportszakállamtitkár útján gyakorolja. Az irányítási jogok gyakorlásának további szabályait az Önkormányzati Minisztérium a Szervezeti és Működési Szabályzatában rögzíti.”
+
+## 3. Az alapító okirat „7. A NUSI vezetőjének megbízási rendje” pontjának 3. bekezdése elhagyásra kerül.
+
+## 4. Az alapító okirat „8. A foglalkoztatási jogviszonyok megjelölése” pont utolsó bekezdése helyébe a következő szövegrész lép:
+
+## „Az alkalmazottak felett a munkáltatói jogokat – a jogi személyiségű szervezeti egységek kivételével – a főigazgató gyakorolja.”
+
+## 5. Az alapító okirat az alábbi 10. ponttal egészül ki:
+
+## „10. A NUSI jogi személyiségű szervezeti egységei
+
+## A NUSI jogi személyiségű szervezeti egységeinek adatait az alapító okirat 1. és 2. számú mellékletei tartalmazzák. A NUSI jogi személyiségű szervezeti egységei:
+
+## 1. neve: Utánpótlás-nevelési Igazgatóság
+
+## 2. neve: Testnevelési és Sportmúzeumi Igazgatóság”
+
+## 6. Az alapító okirat az alábbi mellékletekkel egészül ki:
+
+## „1. melléklet a Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet alapító okiratához
+
+## Az Utánpótlás-nevelési Igazgatóság mint a Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet jogi személyiségű szervezeti egysége
+
+## Az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendeletben nevesített Utánpótlás-nevelési Igazgatóság jogi személyiségét azáltal nyeri el, hogy azt a Magyar Államkincstár – az irányító Önkormányzati Minisztérium kérelmére – nyilvántartásában a NUSI alapító okiratának külön alszámán bejegyzi.
+
+## I. Neve, székhelye, típusa és fontosabb adatai
+
+## 1. A jogi személyiségű szervezeti egység megnevezése:
+
+## Utánpótlás-nevelési Igazgatóság
+
+## Rövidített – az ügyvitel során használt – megnevezése: UPI
+
+## 2. Székhelye: 1146 Budapest, Istvánmezei út 1–3.
+
+## 3. Levelezési címe: 1146 Budapest, Istvánmezei út 1–3.
+
+## 4. Irányítást ellátó szerv: az Utánpótlás-nevelési Igazgatóság a NUSI önálló jogi személyiséggel rendelkező szervezeti egysége, amelyet az Önkormányzati Minisztérium sportszakállamtitkára a NUSI főigazgatóján keresztül irányít.
+
+## 5. Működési köre: országos
+
+## II. Tevékenysége
+
+## Feladatait a sportról szóló 2004. évi I. törvény, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet, valamint az Önkormányzati Minisztérium Szervezeti és Működési Szabályzatának kiadásáról szóló 5/2008. (HÉ 39.) ÖM utasítás alapján látja el az alábbi kérdések tekintetében: közreműködés a magyar sport utánpótlás-nevelési koncepciójának kialakításában, a fiatal sportolók általános és sportági felkészítése tudományos vizsgálatának megszervezése, integrálása és végrehajtása, közreműködés a korszerű edzésmódszerek kidolgozásában, alkalmazásában, sportcélú támogatások kezelése, továbbá a NUSI-ra vonatkozó hatályos jogszabályokban, valamint a NUSI Szervezeti és Működési Szabályzatában foglalt egyéb feladatok vonatkozásában.
+
+## III. Vezetőjének kinevezési rendje
+
+## Az Utánpótlás-nevelési Igazgatóságot igazgató vezeti. Az igazgatót – pályáztatást követően – a főigazgató javaslata alapján a sportszakállamtitkár előterjesztésére az önkormányzati miniszter határozatlan időre bízza meg és menti fel. Az igazgatói megbízás legfeljebb 5 éves határozott időtartamra is adható. Az igazgató felett az egyéb munkáltatói jogokat a NUSI főigazgatója gyakorolja.
+
+## IV. Munkáltatói jogkör gyakorlása
+
+## Az Utánpótlás-nevelési Igazgatóság alkalmazottai felett az igazgató gyakorolja a munkáltatói jogokat.
+
+## V. Képviseletére jogosult személy
+
+## Az Utánpótlás-nevelési Igazgatóság képviseletét teljes jogkörrel és felelősséggel az igazgató látja el, az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 102. § (1)–(3) és (5) bekezdéseiben foglaltakra figyelemmel. Képviseleti jogát esetenként, vagy az ügyek meghatározott csoportjára nézve az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 21. § (2) bekezdésében foglaltaknak megfelelően átruházhatja.
+
+## VI. Gazdálkodással kapcsolatos jogok, kötelezettségek, felelősség
+
+## Az Utánpótlás-nevelési Igazgatóság részelőirányzatának legkisebb mértékét az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 101. § (1) és (3) bekezdése alapján az irányító szerv határozza meg. A részelőirányzatok feletti kötelezettségvállalást, azzal kapcsolatos felelősséget az igazgató látja el, illetve viseli. Az Utánpótlás-nevelési Igazgatóság gazdálkodásával összefüggő szabályokat a NUSI Szervezeti és Működési Szabályzata és egyéb belső szabályzatai állapítják meg.
+
+## VII. Szerv szervezeti felépítése és működési rendje
+
+## Szervezeti és működési rendjét a NUSI – az Önkormányzati Minisztérium sportszakállamtitkára javaslatára az önkormányzati miniszter által jóváhagyott – Szervezeti és Működési Szabályzata tartalmazza.
+
+## 2. melléklet a Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet alapító okiratához
+
+## A Testnevelési és Sportmúzeumi Igazgatóság mint a Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet jogi személyiségű szervezeti egysége
+
+## Az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendeletben nevesített Testnevelési és Sportmúzeumi Igazgatóság jogi személyiségét azáltal nyeri el, hogy azt a Magyar Államkincstár – az irányító Önkormányzati Minisztérium kérelmére – nyilvántartásában a NUSI alapító okiratának külön alszámán bejegyzi.
+
+## I. Neve, székhelye, típusa és fontosabb adatai
+
+## 1. A jogi személyiségű szervezeti egység megnevezése:
+
+## Testnevelési és Sportmúzeumi Igazgatóság
+
+## Rövidített – az ügyvitel során használt – megnevezése: TSI
+
+## 2. Székhelye: 1146 Budapest, Istvánmezei út 1–3.
+
+## 3. Levelezési címe: 1146 Budapest, Istvánmezei út 1–3.
+
+## 4. Irányítást ellátó szerv: a Testnevelési és Sportmúzeumi Igazgatóság a NUSI önálló jogi személyiséggel rendelkező szervezeti egysége, amelyet az Önkormányzati Minisztérium sportszakállamtitkára a NUSI főigazgatóján keresztül irányít.
+
+## 5. Működési köre: országos
+
+## II. Tevékenysége
+
+## Feladatait a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet, valamint az Önkormányzati Minisztérium Szervezeti és Működési Szabályzatának kiadásáról szóló 5/2008. (HÉ 39.) ÖM utasítás alapján látja el az alábbiak tekintetében: a sport és testnevelés területén a hazai és nemzetközi jelentőségű muzeális tárgyi és dokumentációs anyagok felkutatása, gyűjtése, őrzése, védése, rendszerezése, nyilvántartása, tudományos feldolgozása, közlése, a tudományos eredmények kiállítások, tudományos és ismeretterjesztő előadások, közlemények és kiadványok útján való hasznosítása, továbbá a NUSI-ra vonatkozó hatályos jogszabályokban, valamint a NUSI Szervezeti és Működési Szabályzatában foglalt egyéb feladatok vonatkozásában.
+
+## III. Vezetőjének kinevezési rendje
+
+## A Testnevelési és Sportmúzeumi Igazgatóságot igazgató vezeti. Az igazgatót a főigazgató javaslata alapján a sportszakállamtitkár előterjesztésére – a kultúráért felelős miniszter véleményének kikérésével – az önkormányzati miniszter pályázat útján legfeljebb 5 év határozott időre bízza meg és menti fel, az egyéb munkáltatói jogokat a NUSI főigazgatója gyakorolja.
+
+## IV. Munkáltatói jogkör gyakorlása
+
+## A Testnevelési és Sportmúzeumi Igazgatóság alkalmazottai felett az igazgató gyakorolja a munkáltatói jogokat.
+
+## V. Képviseletére jogosult személy
+
+## A Testnevelési és Sportmúzeumi Igazgatóság képviseletét teljes jogkörrel és felelősséggel az igazgató látja el, az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 102. § (1)–(3) és (5) bekezdéseiben foglaltakra figyelemmel. Képviseleti jogát esetenként, vagy az ügyek meghatározott csoportjára nézve az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 21. § (2) bekezdésében foglaltaknak megfelelően átruházhatja.
+
+## VI. Gazdálkodással kapcsolatos jogok, kötelezettségek, felelősség
+
+## A Testnevelési és Sportmúzeumi Igazgatóság részelőirányzatának legkisebb mértékét az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 101. § (1) és (3) bekezdése alapján az irányító szerv határozza meg. A részelőirányzatok feletti kötelezettségvállalást, azzal kapcsolatos felelősséget az igazgató látja el, illetve viseli. A Testnevelési és Sportmúzeumi Igazgatóság gazdálkodásával összefüggő szabályokat a NUSI Szervezeti és Működési Szabályzata és egyéb belső szabályzatai állapítják meg.
+
+## VII. Szerv szervezeti felépítése és működési rendje
+
+## Szervezeti és működési rendjét a NUSI – az Önkormányzati Minisztérium sport szakállamtitkára javaslatára az önkormányzati miniszter által jóváhagyott – Szervezeti és Működési Szabályzata tartalmazza.
+
+## 7. Jelen alapító okirat-módosítás a Magyar Államkincstár által vezetett törzskönyvi nyilvántartásba történő bejegyzés napjával lép hatályba.
+
+## Varga Zoltán s. k.,
+
+## önkormányzati miniszter”
+
+3. melléklet az 1/2010. (III. 12.) ÖM határozathoz
+
+Okirat száma: A-1115/3/2009.
+
+A Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet alapító okirata a módosításokkal egységes szerkezetbe foglalva
+
+Az olimpiai központok működtetésére és fejlesztésére, a magyar versenysport és utánpótlás-nevelés felkészülési bázisának biztosítása, valamint egyes sporttal kapcsolatos kiemelt állami feladatok ellátásának elősegítése érdekében – figyelemmel az 1100/2004. {X. 12.) Korm. határozat 2. pontjára, valamint az olimpiai központokról szóló 38/2004. (III. 12.) Korm. rendeletre – az államháztartásról szóló 1992. évi XXXVIII. törvény (Áht.) alapján a Miniszterelnöki Hivatalt vezető miniszter által a pénzügyminiszter egyetértésével létrehozott Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet (a továbbiakban: NUSI) költségvetési szerv alapító okiratát a 2008. évi CV. törvény 2. § (2) bekezdésében biztosított jogkörömben eljárva a pénzügyminiszter egyetértésével az alábbiak szerint állapítom meg.
+
+1. A költségvetési szerv neve, székhelye
+
+neve: Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet
+
+nevének hivatalos rövidítése: NUSI
+
+neve angolul: National Institute for Sport Talent Care and Sport Service
+
+székhelye: 1146 Budapest, Istvánmezei út 3–5.
+
+2. Létrehozásáról szóló jogszabály/határozat
+
+1100/2004. (X. 12.) Korm. határozat, 2118/2006. (VI. 30.) Korm. határozat
+
+3. A NUSI közfeladatai/alaptevékenység
+
+A NUSI alaptevékenységként ellátott feladatait a sportról szóló 2004. évi I. törvény, a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény, az olimpiai központokról szóló 38/2004. (III. 12.) Korm. rendelet, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet, valamint az önkormányzati miniszter 5/2008. (HÉ 39.) ÖM utasítása az Önkormányzati Minisztérium Szervezeti és Működési Szabályzatának kiadásáról, továbbá a 1100/2004. (X. 12.) Korm. határozat alapján látja el az alábbi kérdések tekintetében: olimpiai központok működtetése és fejlesztése, az egyes sporttal kapcsolatos, kiemelt állami feladatok ellátásának elősegítése, az egyéb, állami tulajdonban lévő, az állami vagyon részét képező, vagyonkezelésébe, használatába, üzemeltetésébe adott, valamint egyes, az ÖM vagyonkezelésébe tartozó ingatlanok – különösen sportlétesítmények – üzemeltetéséről, hasznosításáról, fejlesztéséről történő gondoskodás, közreműködés a magyar sport utánpótlás-nevelési koncepciójának kialakításában, a fiatal sportolók általános és sportági felkészítésének tudományos vizsgálatának megszervezése, integrálása és végrehajtása, közreműködés a korszerű edzésmódszerek kidolgozásában, alkalmazásában, továbbá , a sport és testnevelés területén a hazai és nemzetközi jelentőségű muzeális tárgyi és dokumentációs anyagok felkutatása, gyűjtése, őrzése, védése, rendszerezése, nyilvántartása, tudományos feldolgozása, közlése, a tudományos eredmények kiállítások, tudományos és ismeretterjesztő előadások, közlemények és kiadványok útján való hasznosítása, továbbá a NUSI-ra vonatkozó hatályos jogszabályokban, valamint a NUSI Szervezeti és Működési Szabályzatában foglalt egyéb feladatok vonatkozásában.
+
+Szakágazati besorolása:
+
+931100 Sportlétesítmény működtetése
+
+Az alaptevékenységek 2010. január 1-jétől érvényes államháztartási szakfeladatrend szerinti besorolása:
+
+Sportolók részére nyújtott edzőtábori szálláshely-szolgáltatás
+
+Sportolók edzőtábori étkeztetése
+
+Orvostudományi alkalmazott kutatás
+
+Szociológiai alkalmazott kutatás
+
+Pszichológiai és viselkedéstudományi alkalmazott kutatás
+
+Múzeumi gyűjteményi tevékenység
+
+Múzeumi tudományos feldolgozó és publikációs tevékenység
+
+Múzeumi kiállítási tevékenység
+
+Múzeumi közművelődési, közönségkapcsolati tevékenység
+
+Edzőtáborok működtetése és fejlesztése
+
+Sportlétesítmények működtetése és fejlesztése
+
+Versenysport-tevékenység és támogatása
+
+Utánpótlás-nevelési tevékenység és támogatása
+
+Fogyatékossággal élők versenysport-tevékenysége és támogatása
+
+Szabadidősport- (rekreációs sport-) tevékenység és támogatása
+
+Fogyatékossággal élők szabadidősport- (rekreációs sport-) tevékenysége és támogatása
+
+A költségvetési szerv által végzett kisegítő tevékenységhez kapcsolódó kiadások nem haladhatják meg a szerv összes kiadásainak 20%-át és a kisegítő tevékenységből származó bevételek összegét.
+
+4. A NUSI működési köre
+
+A NUSI működési köre Magyarország területére terjed ki.
+
+5. Az irányítási jogokat az önkormányzati miniszter (1051 Budapest, József Attila u. 2–4.) gyakorolja. Az irányítási jogkört a miniszter a sportszakállamtitkár útján gyakorolja. Az irányítási jogok gyakorlásának további szabályait az Önkormányzati Minisztérium a Szervezeti és Működési Szabályzatában rögzíti.
+
+6. A NUSI besorolása:
+
+A tevékenység jellege alapján: közszolgáltató közintézet.
+
+Feladatellátáshoz kapcsolódó funkciója alapján: önállóan működő és gazdálkodó költségvetési szerv.
+
+7. A NUSI vezetőjének megbízási rendje
+
+A NUSI vezetését főigazgató látja el. A főigazgatót – pályáztatást követően – a sportszakállamtitkár javaslatára az önkormányzati miniszter bízza meg határozatlan időre és menti fel. Főigazgatói megbízás legfeljebb 5 éves határozott időtartamra is adható. A főigazgató feletti egyéb munkáltatói jogok gyakorlója a sportszakállamtitkár.
+
+A NUSI gazdálkodásával kapcsolatos feladatokat gazdasági igazgató irányítja.
+
+A gazdasági igazgató a NUSI gazdasági vezetője, gazdálkodási és pénzügyekben a főigazgató helyettese. A gazdasági igazgatót a főigazgató javaslata alapján a sportszakállamtitkár előterjesztésére az önkormányzati miniszter határozatlan időre bízza meg és menti fel, az egyéb munkáltatói jogokat a NUSI főigazgatója gyakorolja.
+
+8. A foglalkoztatási jogviszonyok megjelölése
+
+A NUSI alkalmazottai a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény, a muzeális feladatokat ellátó jogi személyiségű szervezeti egység alkalmazottai kivételével a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a testnevelés és sport területén történő végrehajtásáról szóló 325/2008. (XII. 29.) Korm. rendelet, a muzeális feladatokat ellátó jogi személyiségű szervezeti egység alkalmazottai és vezetője tekintetében pedig a művészeti, a közművelődési és a közgyűjteményi területen foglalkoztatott közalkalmazottak jogviszonyával összefüggő egyes kérdések rendezésére vonatkozó 150/1992. (XI. 20.) Korm. rendelet hatálya alá tartoznak.
+
+Az alkalmazottak felett a munkáltatói jogokat – a jogi személyiségű szervezeti egységek kivételével – a főigazgató gyakorolja.
+
+9. Jogelőd szerv neve, székhelye:
+
+neve: Nemzeti Utánpótlás-nevelési Intézet,
+
+székhelye: 1146 Budapest, Istvánmezei út 1–3.
+
+neve: Testnevelési Sportmúzeum
+
+székhelye: 1146 Budapest, Istvánmezei út 1–3.
+
+10. A NUSI jogi személyiségű szervezeti egységei
+
+A NUSI jogi személyiségű szervezeti egységeinek adatait az alapító okirat 1. és 2. számú mellékletei tartalmazzák. A NUSI jogi személyiségű szervezeti egységei:
+
+1. neve: Utánpótlás-nevelési Igazgatóság
+
+2. neve: Testnevelési és Sportmúzeumi Igazgatóság
+
+A NUSI jelen módosításokkal egységes szerkezetbe foglalt alapító okirata a Magyar Államkincstár által vezetett törzskönyvi nyilvántartásba történő bejegyzés napjával lép hatályba.
+
+Budapest, 2010. március 1.
+
+Varga Zoltán s. k.,
+
+önkormányzati miniszter
+
+1. melléklet a Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet alapító okiratához
+
+Az Utánpótlás-nevelési Igazgatóság mint a Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet jogi személyiségű szervezeti egysége
+
+Az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendeletben nevesített Utánpótlás-nevelési Igazgatóság jogi személyiségét azáltal nyeri el, hogy azt a Magyar Államkincstár – az irányító Önkormányzati Minisztérium kérelmére – nyilvántartásában a NUSI alapító okiratának külön alszámán bejegyzi.
+
+I. Neve, székhelye, típusa és fontosabb adatai
+
+1. A jogi személyiségű szervezeti egység megnevezése:
+
+Utánpótlás-nevelési Igazgatóság
+
+Rövidített – az ügyvitel során használt – megnevezése: UPI
+
+2. Székhelye: 1146 Budapest, Istvánmezei út 1–3.
+
+3. Levelezési címe: 1146 Budapest, Istvánmezei út 1–3.
+
+4. Irányítást ellátó szerv: az Utánpótlás-nevelési Igazgatóság a NUSI önálló jogi személyiséggel rendelkező szervezeti egysége, amelyet az Önkormányzati Minisztérium sportszakállamtitkára a NUSI főigazgatóján keresztül irányít.
+
+5. Működési köre: országos
+
+II. Tevékenysége
+
+Feladatait a sportról szóló 2004. évi I. törvény, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet, valamint az Önkormányzati Minisztérium Szervezeti és Működési Szabályzatának kiadásáról szóló 5/2008. (HÉ 39.) ÖM utasítás alapján látja el az alábbi kérdések tekintetében: közreműködés a magyar sport utánpótlás-nevelési koncepciójának kialakításában, a fiatal sportolók általános és sportági felkészítése tudományos vizsgálatának megszervezése, integrálása és végrehajtása, közreműködés a korszerű edzésmódszerek kidolgozásában, alkalmazásában, sportcélú támogatások kezelése, továbbá a NUSI-ra vonatkozó hatályos jogszabályokban, valamint a NUSI Szervezeti és Működési Szabályzatában foglalt egyéb feladatok vonatkozásában.
+
+III. Vezetőjének kinevezési rendje
+
+Az Utánpótlás-nevelési Igazgatóságot igazgató vezeti. Az igazgatót – pályáztatást követően – a főigazgató javaslata alapján a sportszakállamtitkár előterjesztésére az önkormányzati miniszter határozatlan időre bízza meg és menti fel. Az igazgatói megbízás legfeljebb 5 éves határozott időtartamra is adható. Az igazgató felett az egyéb munkáltatói jogokat a NUSI főigazgatója gyakorolja.
+
+IV. Munkáltatói jogkör gyakorlása
+
+Az Utánpótlás-nevelési Igazgatóság alkalmazottai felett az igazgató gyakorolja a munkáltatói jogokat.
+
+V. Képviseletére jogosult személy
+
+Az Utánpótlás-nevelési Igazgatóság képviseletét teljes jogkörrel és felelősséggel az igazgató látja el, az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 102. § (1)–(3) és (5) bekezdéseiben foglaltakra figyelemmel. Képviseleti jogát esetenként, vagy az ügyek meghatározott csoportjára nézve az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 21. § (2) bekezdésében foglaltaknak megfelelően átruházhatja.
+
+VI. Gazdálkodással kapcsolatos jogok, kötelezettségek, felelősség
+
+Az Utánpótlás-nevelési Igazgatóság részelőirányzatának legkisebb mértékét az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 101. § (1) és (3) bekezdése alapján az irányító szerv határozza meg. A részelőirányzatok feletti kötelezettségvállalást, azzal kapcsolatos felelősséget az igazgató látja el, illetve viseli. Az Utánpótlás-nevelési Igazgatóság gazdálkodásával összefüggő szabályokat a NUSI Szervezeti és Működési Szabályzata és egyéb belső szabályzatai állapítják meg.
+
+VII. Szerv szervezeti felépítése és működési rendje
+
+Szervezeti és működési rendjét a NUSI – az Önkormányzati Minisztérium sportszakállamtitkára javaslatára az önkormányzati miniszter által jóváhagyott – Szervezeti és Működési Szabályzata tartalmazza.
+
+2. melléklet a Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet alapító okiratához
+
+A Testnevelési és Sportmúzeumi Igazgatóság mint a Nemzeti Utánpótlás-nevelési és Sportszolgáltató Intézet jogi személyiségű szervezeti egysége
+
+Az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendeletben nevesített Testnevelési és Sportmúzeumi Igazgatóság jogi személyiségét azáltal nyeri el, hogy azt a Magyar Államkincstár – az irányító Önkormányzati Minisztérium kérelmére – nyilvántartásában a NUSI alapító okiratának külön alszámán bejegyzi.
+
+I. Neve, székhelye, típusa és fontosabb adatai
+
+1. A jogi személyiségű szervezeti egység megnevezése:
+
+Testnevelési és Sportmúzeumi Igazgatóság
+
+Rövidített – az ügyvitel során használt – megnevezése: TSI
+
+2. Székhelye: 1146 Budapest, Istvánmezei út 1–3.
+
+3. Levelezési címe: 1146 Budapest, Istvánmezei út 1–3.
+
+4. Irányítást ellátó szerv: a Testnevelési és Sportmúzeumi Igazgatóság a NUSI önálló jogi személyiséggel rendelkező szervezeti egysége, amelyet az Önkormányzati Minisztérium sportszakállamtitkára a NUSI főigazgatóján keresztül irányít.
+
+5. Működési köre: országos
+
+II. Tevékenysége
+
+Feladatait a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény, az önkormányzati miniszter feladat- és hatásköréről szóló 132/2008. (V. 14.) Korm. rendelet, valamint az Önkormányzati Minisztérium Szervezeti és Működési Szabályzatának kiadásáról szóló 5/2008. (HÉ 39.) ÖM utasítás alapján látja el az alábbiak tekintetében: a sport és testnevelés területén a hazai és nemzetközi jelentőségű muzeális tárgyi és dokumentációs anyagok felkutatása, gyűjtése, őrzése, védése, rendszerezése, nyilvántartása, tudományos feldolgozása, közlése, a tudományos eredmények kiállítások, tudományos és ismeretterjesztő előadások, közlemények és kiadványok útján való hasznosítása, továbbá a NUSI-ra vonatkozó hatályos jogszabályokban, valamint a NUSI Szervezeti és Működési Szabályzatában foglalt egyéb feladatok vonatkozásában.
+
+III. Vezetőjének kinevezési rendje
+
+A Testnevelési és Sportmúzeumi Igazgatóságot igazgató vezeti. Az igazgatót a főigazgató javaslata alapján a sport szakállamtitkár előterjesztésére – a kultúráért felelős miniszter véleményének kikérésével – az önkormányzati miniszter pályázat útján legfeljebb 5 év határozott időre bízza meg és menti fel, az egyéb munkáltatói jogokat a NUSI főigazgatója gyakorolja.
+
+IV. Munkáltatói jogkör gyakorlása
+
+A Testnevelési és Sportmúzeumi Igazgatóság alkalmazottai felett az igazgató gyakorolja a munkáltatói jogokat.
+
+V. Képviseletére jogosult személy
+
+A Testnevelési és Sportmúzeumi Igazgatóság képviseletét teljes jogkörrel és felelősséggel az igazgató látja el, az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 102. § (1)–(3) és (5) bekezdéseiben foglaltakra figyelemmel. Képviseleti jogát esetenként, vagy az ügyek meghatározott csoportjára nézve az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 21. § (2) bekezdésében foglaltaknak megfelelően átruházhatja.
+
+VI. Gazdálkodással kapcsolatos jogok, kötelezettségek, felelősség
+
+A Testnevelési és Sportmúzeumi Igazgatóság részelőirányzatának legkisebb mértékét az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet 101. § (1) és (3) bekezdése alapján az irányító szerv határozza meg. A részelőirányzatok feletti kötelezettségvállalást, azzal kapcsolatos felelősséget az igazgató látja el, illetve viseli. A Testnevelési és Sportmúzeumi Igazgatóság gazdálkodásával összefüggő szabályokat a NUSI Szervezeti és Működési Szabályzata és egyéb belső szabályzatai állapítják meg.
+
+VII. Szerv szervezeti felépítése és működési rendje
+
+Szervezeti és működési rendjét a NUSI – az Önkormányzati Minisztérium sportszakállamtitkára javaslatára az önkormányzati miniszter által jóváhagyott – Szervezeti és Működési Szabályzata tartalmazza.
