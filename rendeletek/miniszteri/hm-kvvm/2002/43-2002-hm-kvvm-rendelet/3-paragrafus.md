@@ -18,4 +18,6 @@ e) a légijárművek földi üzemeltetéséből származó emissziós zajadatok;
 
 f) a repülőteret jellemző módon használó légijárművek zajkibocsátási adatai (zajkarakterisztikái).
 
-(2) A zajgátló védőövezetre vonatkozó számításokat – beleértve a kiinduló adatokat is – a Hatóság ellenőrzi. A Hatóság az ellenőrzéshez szakértő intézményt vehet igénybe. A szakértői közreműködés költségei a zajgátló védőövezet kijelölésének kérelmezőjét terhelik.
+(2)[^1] A zajgátló védőövezetre vonatkozó számításokat – beleértve a kiinduló adatokat is – a Hatóság ellenőrzi. A Hatóság az ellenőrzéshez szakértő intézményt vehet igénybe.
+
+[^1]: A 3. § (2) bekezdése a 4/2010. (III. 4.) HM–KvVM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 2. § (1) bekezdése alapján a 2010. március 12-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -4,8 +4,10 @@
 
 (3) A zajmonitor rendszer kiépítésére vonatkozó terveket a Hatóságnak jóvá kell hagynia.
 
-(4) A zajmonitor rendszer kiépítését a Hatóság határozatban rendeli el a jóváhagyott tervek alapján. A határozatnak tartalmaznia kell a zajmonitor rendszer kiépítésének határidejét is. A határidő megállapítása tekintetében figyelembe kell venni a következőket:
+(4)[^3] A zajmonitor rendszer kiépítését a Hatóság rendeli el a jóváhagyott tervek alapján. A határozatnak tartalmaznia kell a zajmonitor rendszer kiépítésének határidejét is. A határidő megállapítása tekintetében figyelembe kell venni a következőket:
 
 a) új repülőtér létesítése vagy meglévő repülőtér jelentős mértékű bővítése esetén a zajmonitor rendszert a beruházás részeként kell megvalósítani,
 
 b) meglévő repülőtéren, az e rendelet hatálybalépése miatt szükségessé váló zajmonitor rendszer kiépítését, vagy szükségessé váló bővítését a zajgátló védőövezet kijelölésétől számított három éven belül el kell végezni. A Hatóság a zajmonitor rendszer kiépítésére három éven túli határidőt is előírhat, ha a zajgátló védőövezetben a zajvédelmi intézkedések végrehajtása az R. 17. § (5) bekezdése szerinti program alapján történik.
+
+[^3]: A 12. § (4) bekezdése a 4/2010. (III. 4.) HM–KvVM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg, e módosító rendelet 2. § (1) bekezdése alapján a 2010. március 12-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
