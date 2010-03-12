@@ -14,9 +14,9 @@ c) forgalmi korlátozás;
 
 d) helyi zárlat;
 
-e) települési zárlat (védőzóna);
+e) védőkörzet;
 
-f) védőkörzet (megfigyelési zóna) létesítése;
+f) megfigyelési körzet;
 
 g) a marhalevél kezelésének tilalma;
 

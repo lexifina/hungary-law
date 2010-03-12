@@ -1,16 +1,6 @@
-35. § (1) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerint engedélyezi
+35. § (1) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerint engedélyezi a 23. § (1) bekezdése szerint engedélyköteles élelmiszer- vagy takarmányvállalkozási tevékenységet, illetve élelmiszer- vagy takarmánylétesítményt.
 
-a) az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, az Európai Parlament és a Tanács 2004. április 29-i 853/2004/EK rendelete 4. cikkének (2) bekezdése alapján engedélyköteles élelmiszer-vállalkozás működését;
-
-b) az élelmiszer-szállító járműveket, illetve az ilyen járművek mosását és fertőtlenítését végző helyeket.
-
-(2) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv nyilvántartásba veszi
-
-a) a (1) bekezdés a) pontja szerinti engedélyezési kötelezettség alá nem tartozó élelmiszer-vállalkozásokat;
-
-b) az élelmiszer-csomagolóanyag gyártókat, forgalomba hozókat;
-
-c) az élelmiszer-iparban felhasználható fertőtlenítőszereket előállítókat.
+(2) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv nyilvántartásba veszi az engedéllyel rendelkező vagy bejelentett élelmiszer- vagy takarmányvállalkozásokat, illetve az engedélyezett vagy bejelentett élelmiszer- vagy takarmányvállalkozási létesítményeket.
 
 (3) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv ellenőrzi
 

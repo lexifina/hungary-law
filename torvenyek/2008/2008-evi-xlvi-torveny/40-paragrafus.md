@@ -6,4 +6,4 @@
 
 (4) A növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárásában a hiánypótlási felhívás kibocsátásának határideje negyvenöt munkanap, a termésnövelő anyagok engedélyezési eljárásában pedig huszonkét munkanap.
 
-(5) Az állatgyógyászati készítmény laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, valamint az állatgyógyászati készítmények hatóanyaga gyártásának engedélyezéséről szóló határozatot kilencven napon belül, az állatgyógyászati termék és az állatgyógyászati készítmény forgalomba hozatalának engedélyezéséről szóló határozatot kétszáztíz napon belül kell meghozni.
+(5) Az állatgyógyászati termék laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, ideiglenes jellegű felhasználásának, valamint az állatgyógyászati készítmények hatóanyaga gyártásának engedélyezéséről és az engedély módosításáról, a rendszeres gyógyszerbiztonsági jelentések értékeléséről szóló döntést kilencven napon belül, az állatgyógyászati termék és az állatgyógyászati készítmény forgalomba hozatalának engedélyezéséről és megújításáról szóló döntést kétszáztíz napon belül kell meghozni.

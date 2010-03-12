@@ -20,15 +20,15 @@ i) a nem állami laboratóriumokról;
 
 j) az állat-egészségügyi szolgáltató létesítményekről;
 
-k) az élelmiszer-szállító és a közúti élőállat-szállításra engedélyezett gépjárművekről;
+k) a közúti élőállat-szállításra engedélyezett gépjárművekről;
 
-l) az állatgyógyászati készítményt forgalomba hozókról, illetve gyártókról;
+l) az állatgyógyászati terméket forgalomba hozókról, illetve gyártókról;
 
 m) az engedélyköteles termékekről, a magyarországi forgalomba hozatalukról;
 
 n) az engedélyköteles termékek vásárlási és felhasználási engedélyeiről;
 
-o) az állatgyógyászatban használatos állatgyógyászati készítményekről, gyógyhatású készítményekről, ápolószerekről, segédanyagokról, az engedélyezett mikrochipekről;
+o) az engedélyezett állatgyógyászati termékekről, az engedélyezett mikrochipekről;
 
 p) az egyedi azonosítású állatokról;
 

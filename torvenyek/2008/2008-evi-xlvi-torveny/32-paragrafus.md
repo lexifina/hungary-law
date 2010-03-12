@@ -4,7 +4,7 @@
 
 a) e törvény végrehajtására kiadott jogszabály szerint szervezi, irányítja, felügyeli az élelmiszerlánc felügyeletével összefüggő állami feladatok ellátását;
 
-b) gondoskodik az élelmiszerlánc-felügyeleti feladatok egységes végrehajtásához szükséges szakmai továbbképzésekről, valamint a hatósági szakemberek képzéséről, részt vesz az élelmiszerlánccal kapcsolatos kutatásban;
+b) gondoskodik az élelmiszerlánc területén az iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás szervezéséről, illetve végzéséről, továbbá az élelmiszerlánc-felügyeleti feladatok egységes végrehajtásához szükséges szakmai továbbképzésekről, valamint a hatósági szakemberek képzéséről, részt vesz az élelmiszerlánccal kapcsolatos kutatásban;
 
 c) végzi az ellenőrzések során vett minták vizsgálati eredményeinek országos értékelését az élelmiszerlánc-felügyelet, élelmiszer- és takarmányminőség vonatkozásában;
 

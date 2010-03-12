@@ -10,13 +10,13 @@ d) az állat-egészségügyi szolgáltató létesítmények, az e törvény vég
 
 e) az élelmiszert előállító üzemekből származó, takarmányként felhasználható melléktermékek kezelését, felhasználását, további feldolgozását;
 
-f) az állatok jelölésére szolgáló mikrochip és az állatgyógyászati készítmények forgalomba hozatalát;
+f) az állatok jelölésére szolgáló mikrochip forgalomba hozatalát;
 
-g) az állatgyógyászati készítmények és hatóanyagaik üzemi méretű előállítását, az állatgyógyászati készítmények gyakorlati kipróbálását;
+g) az állatgyógyászati készítmények és hatóanyagaik üzemi méretű előállítását, egyes állatgyógyászati termékek gyakorlati kipróbálását;
 
-h) az állatgyógyászati termékek forgalomba hozatalát, országba történő behozatalát; valamint
+h) egyes állatgyógyászati termékek első forgalomba hozatalát, országba történő behozatalát; valamint
 
-i) az állatgyógyászati készítmények, illetve azok hatóanyagainak forgalomba hozatalát.
+i) az állatgyógyászati termékekkel végzett forgalomba hozatali tevékenységet.
 
 (2) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban foglaltak szerint ellenőrzi
 
@@ -34,7 +34,7 @@ f) az állatok tenyésztésének, szaporításának állat-egészségügyi kör�
 
 g) az állatgyógyászati termékek kereskedelmi forgalomba hozatalának körülményeit, valamint az állatgyógyászati készítmények felhasználását;
 
-h) az állatgyógyászati készítmények gyakorlati kipróbálását és hitelesíti annak vizsgálati jegyzőkönyvét;
+h) az állatgyógyászati termékek gyakorlati kipróbálását és hitelesíti annak vizsgálati jegyzőkönyvét;
 
 i) a gyógyszeres takarmány előállítását, forgalomba hozatalát és felhasználását;
 

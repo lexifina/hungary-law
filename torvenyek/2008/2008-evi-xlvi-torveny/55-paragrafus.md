@@ -1,6 +1,6 @@
 55. § (1) A 51. § (3) bekezdésének i)–q) pontjaiban felsorolt járványügyi intézkedések elrendelése esetében – a (2) és (3) bekezdésben meghatározott kivételekkel – az államtól kártalanításra jogosult
 
-a) az e törvény végrehajtására kiadott jogszabályban meghatározott állatbetegségben a 18. § (1) bekezdésének f) pontjában előírt bejelentés teljesítésének időpontját követően elhullott, illetve a járványügyi intézkedésként leölt bejelentett állat, megsemmisített termék, anyag, eszköz és tárgy tulajdonosa;
+a) az e törvény végrehajtására kiadott jogszabályban meghatározott állatbetegségben a 18. § (1) bekezdésének f) pontjában előírt bejelentés teljesítésének időpontját követően vagy járványügyi intézkedés következtében elhullott, illetve a járványügyi intézkedésként leölt bejelentett állat, megsemmisített termék, anyag, eszköz és tárgy tulajdonosa;
 
 b) a 51. § (3) bekezdésének p) pontjában meghatározott földterület, jármű, épület, berendezés, eszköz és anyag tulajdonosa, használója, amennyiben az igénybevételre, illetve használatra kifejezetten az erre irányuló határozat alapján került sor;
 

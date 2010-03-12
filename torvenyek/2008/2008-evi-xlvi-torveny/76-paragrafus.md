@@ -36,7 +36,7 @@ g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásána
 
 9. a növényvédő szer hatóanyagok, valamint növényvédő szerek engedélyezésének, növényvédő szerek forgalmi kategóriába sorolásának, tárolásának, szállításának, csomagolásának, jelölésének, forgalomba hozatalának, felhasználásának és ezek ellenőrzésének részletes szabályait;
 
-10. a növényben, növényi termékben megengedhető növényvédőszer-maradék, illetőleg termésnövelő anyagból származó megengedett toxikus vegyianyag-tartalom mértéket;
+10. a növényi és állati eredetű élelmiszerekben és takarmányokban, illetve azok felületén megengedhető növényvédőszer-maradék, illetőleg termésnövelő anyagból származó megengedett toxikus vegyianyag-tartalom mértéket;
 
 11. a növényvédő szer kis- és nagykereskedelmi forgalomba hozatalának részletes szabályait;
 
@@ -54,9 +54,9 @@ g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásána
 
 18. az állatok jelölésére, nyilvántartására, a marhalevél kiállítására és kezelésére vonatkozó részletes szabályokat;
 
-19. az állat tartásának, tenyésztésének, szaporításának, forgalomba hozatalának, levágásának, leölésének, az állatvásár, az állatkiállítás, az állatbemutató, az állatverseny tartásának állat-járványügyi és higiéniai szabályait;
+19. az állat tartásának, tenyésztésének, szaporításának, forgalomba hozatalának, levágásának, leölésének, az állatvásár, az állatkiállítás, az állatbemutató, az állatverseny tartásának állat-egészségügyi szabályait;
 
-20. az állatállományok állat-egészségügyi védelmének részletes szabályait;
+20. az állatállományok állat-egészségügyi védelmének, állatbetegségektől való mentesítésének részletes szabályait;
 
 21. az állatok belföldi forgalmára és szállítására, belső piaci kereskedelmére, behozatalára vonatkozó feltételeket;
 
@@ -64,7 +64,7 @@ g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásána
 
 23. az állati eredetű melléktermék előállításának, feldolgozásának, ártalmatlanításának, gyűjtésének, tárolásának, szállításának, forgalomba hozatalának, felhasználásának állat-egészségügyi szabályait;
 
-24. az állatgyógyászati készítmények és egyes állatgyógyászati termékek előállítására, törzskönyvezésére, forgalomba hozatalára, rendelésére, felhasználására, az állatgyógyászatban használt elektroorvosi eszközök használatára vonatkozó részletes szabályokat, a gyógyszeres takarmányok előállításának, forgalomba hozatalának, felhasználásának, az állatgyógyászatban használatos gyógyhatású készítmények, ápolószerek, segédanyagok forgalomba hozatalának feltételeit;
+24. az állatgyógyászati készítmények és egyes állatgyógyászati termékek előállítására, törzskönyvezésére, gyakorlati kipróbálására, forgalomba hozatalára, rendelésére, felhasználására, az állatgyógyászatban használt elektroorvosi eszközök használatára vonatkozó részletes szabályokat, a gyógyszeres takarmányok előállításának, forgalomba hozatalának, felhasználásának, az állatgyógyászatban használatos gyógyhatású készítmények, ápolószerek, segédanyagok forgalomba hozatalának feltételeit;
 
 25. a nem állami laboratóriumok engedélyezésének és működésének részletes szabályait;
 
@@ -95,6 +95,12 @@ g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásána
 38. az étkezési célra kerülő vadon termett gombák gyűjtésére, feldolgozására, forgalomba hozatalára vonatkozó minőségi, élelmiszerbiztonsági és ellenőrzési szabályokat;
 
 39. a gombaszakellenőri tevékenység folytatásának részletes feltételeit, a gombaszakellenőri tevékenység bejelentésére és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a gombaszakellenőri tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
+
+40. az élelmiszer-vállalkozás működéséhez szükséges szakképesítéseket;
+
+41. az élelmiszerlánc területén alkalmazott iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait;
+
+42. az élelmiszerek ionizáló energiával való kezelésének feltételeit és szabályait.
 
 (3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszterrel együttes rendeletben szabályozza.
 
