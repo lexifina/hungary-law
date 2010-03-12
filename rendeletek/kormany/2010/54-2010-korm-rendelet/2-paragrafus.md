@@ -1,0 +1,1 @@
+## 1. § A Kormány felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya közötti, Kiszombor–Nagycsanád (Cenad) határátkelőhelyen közös kapcsolattartási szolgálati hely létrehozásáról szóló, jegyzékváltás útján létrejött Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
