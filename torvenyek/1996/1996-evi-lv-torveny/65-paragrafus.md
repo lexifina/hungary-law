@@ -1,6 +1,6 @@
 65. § (1) A vadászati hatóság az engedélyt az elkövetett cselekmény súlyától függően három hónaptól öt évig terjedő időtartamra visszavonja attól a vadásztól:
 
-a) akinek vadászlőfegyver vagy ragadozó madár vagy vadászíj tartására szolgáló engedélyét a hatáskörrel rendelkező hatóság jogerősen visszavonta;
+a) akinek vadászlőfegyver vagy ragadozó madár tartására szolgáló engedélyét a hatáskörrel rendelkező hatóság jogerősen visszavonta;
 
 b)
 

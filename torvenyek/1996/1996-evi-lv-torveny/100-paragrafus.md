@@ -66,7 +66,7 @@ c) rendeletben szabályozza
 
 25. a vadászati jog gyakorlásának, hasznosításának módjáról és feltételeiről szóló működési szabályzatra vonatkozó szabályokat,
 
-26. a vadgazdálkodási-vadászati képzettségekre, képesítésekre vonatkozó szabályokat,
+26. a vadgazdálkodási-vadászati, valamint vadhúsvizsgálói képzettségekre, képesítésekre vonatkozó szabályokat,
 
 27. a vadászati hatóság eljárására vonatkozó szabályokat,
 

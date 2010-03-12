@@ -8,6 +8,6 @@
 
 a) vad-, illetve állományvédelmi okból a vadászati idényen belül meghatározott vadászterületeken korlátozhatja vagy megtilthatja egy vagy több vadfaj vadászatát;
 
-b) meghatározott vadfaj túlszaporodása esetén vadászati tilalmi időben vadászatot engedélyezhet vagy vadászatra kötelezheti a vadászatra jogosultat.
+b) meghatározott vadfaj esetén vadászati tilalmi időben vadászatot engedélyezhet vagy vadászatra kötelezheti a vadászatra jogosultat.
 
 (4) A vadászható madárfajok egyedeire, a fészekrakás és fiókanevelés időszakában, illetve a szaporodási időszakban – vonuló fajok esetében a fiókanevelési területükre történő visszatérésük során is – tilos vadászni.

@@ -26,9 +26,9 @@ ka) tartalmazza a kötelezett természetes személyazonosító adatait is,
 
 kb) meghozatalának alapjául szolgáló jogszabályhelyet minden esetben meg kell jelölni,
 
-kc) nem tartalmazhatja az eljáró hatóság egyéb döntését, azokról külön döntésben kell rendelkezni,
+kc) nem tartalmazhatja a jegyző egyéb döntését, azokról külön döntésben kell rendelkezni,
 
-l) eljárási költség, megelőlegezése, viselése, költségmentesség azzal, hogy a költségek megelőlegezésének hiányában az eljáró hatóság az eljárást megszünteti,
+l) eljárási költség, megelőlegezése, viselése, költségmentesség azzal, hogy a költségek megelőlegezésének hiányában a jegyző az eljárást megszünteti,
 
 m) döntés közlése, kijavítása, kiegészítése,
 
