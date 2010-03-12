@@ -1,0 +1,3 @@
+7. § (1) A miniszter a támogatási szerződések egy-egy eredeti példányát, valamint a támogatásban részesített kérelmezők és a részükre jóváhagyott támogatási összegek jegyzékét legkésőbb 2010. augusztus 15-ig utalványozás céljából megküldi a helyi önkormányzatokért felelős miniszternek.
+
+(2) A megítélt támogatást a kincstári finanszírozás általános szabályai szerint közvetlenül teljesített kifizetéssel egy összegben a helyi önkormányzatokért felelős miniszter által vezetett minisztérium utalványozása alapján a Kincstár a támogatási szerződések és az (1) bekezdés szerinti jegyzék beérkezését követő 15 munkanapon belül, de legkésőbb 2010. szeptember 5-ig folyósítja a kérelmezők költségvetési elszámolási számlájára.
