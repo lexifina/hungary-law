@@ -10,7 +10,7 @@ Vhr. 1. § (1) Az 1. mellékletben meghatározott üvegházhatású gázkibocs
 
 (5) A környezetvédelmi hatóság a kibocsátási engedélyt a környezethasználat feltételeit megállapító engedélyben foglaltakra tekintettel kiadja, ha megállapítja, hogy az üzemeltető képes az üvegházhatású gázok kibocsátásait a 2. § szerint nyomon követni és arról jelentést tenni. A kibocsátási engedély részletes tartalmi követelményeit a 3. melléklet állapítja meg.
 
-(6) Ugyanazon üzemeltető által egy – a társasági és osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 33. pontja szerinti – telephelyen működtetni kívánt több tevékenység esetén az üzemeltető kérheti egyetlen kibocsátási engedély kiadását. A kérelemben a 2. melléklet szerinti adatokat valamennyi, technológiailag nem egybe tartozó tevékenységre külön-külön kell megadni.
+(6) Ugyanazon üzemeltető által egy – a társasági adóról és az osztalékadóról szóló törvény szerinti – telephelyen működtetni kívánt több tevékenység esetén az üzemeltető kérheti egyetlen kibocsátási engedély kiadását. A kérelemben a 2. melléklet szerinti adatokat valamennyi, technológiailag nem egybe tartozó tevékenységre külön-külön kell megadni.
 
 (7) A kibocsátási engedély alapján létesítmény a kibocsátási engedély közlésétől számított három éven belül, illetve, ha a (3)–(4) bekezdés szerinti engedély lejártának az időpontja hamarabb következik be, az engedély lejártának időpontjáig helyezhető üzembe. Az üzembe helyezést az üzemeltető köteles a hatóságnak 15 napon belül bejelenteni. Ha az üzembe helyezés az előírt időpontig nem következett be, a hatóság a kibocsátási engedélyt visszavonja.
 

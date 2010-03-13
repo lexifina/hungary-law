@@ -8,21 +8,25 @@ Vhr. 19. § (1) Amennyiben az üzemeltető az 1. mellékletben meghatározott 
 
 (4) Amennyiben az üzemeltető a 2. § (4) bekezdés szerinti bejelentési kötelezettségének nem tesz eleget, a környezetvédelmi hatóság – a kötelezettségszegés súlyát és az érintett létesítmény kapacitását figyelembe véve – az üzemeltetőt ötvenezertől ötszázezer forintig terjedő egyszeri bírság megfizetésére kötelezi. A (2) bekezdésen alapuló bírság kiszabásával egyidejűleg ezen jogkövetkezmény nem alkalmazható.
 
-(5) A (4) bekezdéstől eltérően az Üht. 17. § (1) bekezdése alapján a bezárás bejelentésének
+(5) Amennyiben a környezetvédelmi hatóság az Üht. 5. § (1) bekezdése szerint benyújtott hitelesített jelentésben foglaltak alapján megállapítja, hogy az üzemeltető a tárgyévben nem folytatott üvegházhatású gázkibocsátással járó tevékenységet, a környezetvédelmi hatóság az üzemeltetőt kötelezi a 9. § (1) bekezdés alapján kiosztott kibocsátási egységmennyiségnek a határozat közlésétől számított 30 napon belül történő visszaadására. E rendelkezést első alkalommal a 2010. évről készített hitelesített jelentések alapján kell alkalmazni.
 
-a) elmulasztása esetén a környezetvédelmi hatóság az üzemeltetőt – e kötelezettsége teljesítéséig – a (1) bekezdés szerinti bírság megfizetésére kötelezi, és
+(6) Ha az üzemeltető a kibocsátási egységmennyiség visszaadására irányuló kötelezettségének határidőre nem tesz eleget, a környezetvédelmi hatóság az üzemeltetőt minden egyes jóváírt kibocsátási egységmennyiség után 100 eurónak megfelelő forintösszegű bírság egyszeri megfizetésére kötelezi.
 
-b) amennyiben a mulasztás a bezárt létesítmény üzemeltetője számára olyan kibocsátási egységek jóváírását eredményezi a bezárt létesítményhez rendelt üzemeltetői számlán, melyekre egyébként az üzemeltető a létesítmény bezárása következtében már nem lett volna jogosult, a környezetvédelmi hatóság az a) pontban meghatározott bírság megfizetésén felül az üzemeltetőt arra kötelezi, hogy:
+(7) A (4) bekezdéstől eltérően az Üht. 17. § (1) bekezdése alapján a bezárás bejelentésének
 
-ba) az üzemeltetői számlán jogosulatlanul jóváírt kibocsátási egység-mennyiséget adja vissza, az erről szóló határozat kézhezvételétől számított 30 napon belül, illetve
+a) elmulasztása esetén a környezetvédelmi hatóság az üzemeltetőt – e kötelezettsége teljesítéséig – az (1) bekezdés szerinti bírság megfizetésére kötelezi, és
 
-bb) amennyiben a jogosulatlanul jóváírt kibocsátási egység-mennyiséget nem adja vissza a ba) pontban meghatározott időpontig, minden egyes jogosulatlanul jóváírt kibocsátási egység-mennyiség után 100 eurónak megfelelő pénzbírságot fizessen meg.
+b) ha a mulasztás a bezárt létesítmény üzemeltetője számára olyan kibocsátási egységek jóváírását eredményezi a bezárt létesítményhez rendelt üzemeltetői számlán, melyekre egyébként az üzemeltető a létesítmény bezárása következtében már nem lett volna jogosult, a környezetvédelmi hatóság az a) pontban meghatározott bírság megfizetésén felül az üzemeltetőt kötelezi, hogy
 
-(6) Amennyiben az üzemeltető a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság az üzemeltetőt a mulasztással érintett minden egyes tonna szén-dioxid-egyenértéknek megfelelő kibocsátás után 100 eurónak megfelelő forintösszeg egyszeri megfizetésére kötelezi.
+ba) az üzemeltetői számlán jogosulatlanul jóváírt kibocsátási egység-mennyiséget adja vissza, az erről szóló határozat közlésétől számított 30 napon belül,
 
-(7) A bírság összegének megállapítása során a Magyar Nemzeti Bank által megállapított, a visszaadás napján közzétett hivatalos devizaárfolyamot kell figyelembe venni.
+bb) amennyiben a jogosulatlanul jóváírt kibocsátási egység-mennyiséget nem adja vissza a ba) pontban meghatározott időpontig, minden egyes jogosulatlanul jóváírt kibocsátási egység-mennyiség után 100 eurónak megfelelő forintösszegű bírságot fizessen meg.
 
-(8) Az (1), valamint a (3)–(6) bekezdésekben szabályozott eljárásokban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(8) Amennyiben az üzemeltető a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság az üzemeltetőt a mulasztással érintett minden egyes tonna szén-dioxid-egyenértéknek megfelelő kibocsátás után 100 eurónak megfelelő forintösszegű egyszeri bírság megfizetésére kötelezi.
+
+(9) A bírság összegének megállapítása során a Magyar Nemzeti Bank által megállapított, a visszaadás napján közzétett hivatalos devizaárfolyamot kell figyelembe venni.
+
+(10) Az (1) bekezdésben, valamint a (3)–(8) bekezdésekben szabályozott eljárásokban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
 [Üht. 17. §] (2) Az (1) bekezdés szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető a jelentési és hitelesítési kötelezettségének, illetőleg a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig nem jogosult kibocsátási egységek értékesítésére.
 

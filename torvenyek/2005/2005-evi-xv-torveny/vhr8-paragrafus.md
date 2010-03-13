@@ -1,4 +1,4 @@
-Vhr. 8. § (1) A Kiosztási Lista tervezetét a miniszter – a gazdasági és közlekedési miniszterrel egyetértésben – a Kiosztási Terv 6. § (5) bekezdés szerinti kihirdetését követő 5 napon belül észrevételezés céljából közzéteszi a minisztérium honlapján.
+Vhr. 8. § (1) A Kiosztási Lista tervezetét a miniszter – a gazdaságpolitikáért felelős miniszterrel egyetértésben – a Kiosztási Terv 6. § (5) bekezdés szerinti kihirdetését követő 5 napon belül észrevételezés céljából közzéteszi a minisztérium honlapján.
 
 (2) A Kiosztási Lista tervezetében az egyes létesítmények részére kiosztani tervezett kibocsátási egységek mennyiségére vonatkozóan az érintett létesítmény üzemeltetője a miniszternél számítási hibára vagy egyéb elírásra hivatkozva az (1) bekezdés szerinti közzétételt követő 10 napon belül írásban észrevételt tehet. Az észrevételhez csatolni kell a hiba fennállását megalapozó számításokat és dokumentumokat.
 

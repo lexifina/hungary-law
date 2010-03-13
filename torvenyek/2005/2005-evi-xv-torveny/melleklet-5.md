@@ -30,19 +30,19 @@ Amennyiben a legmagasabb adatmeghatározási szinthez tartozó módszer vagy a j
 
 Mennyiségmérés hitelessége
 
-Tömegmérési eredményeken alapuló számítás esetében az üzemeltető köteles gondoskodni a mérőberendezés használatbavétele előtt, majd használata közben rendszeres időközönként történő hitelesítéséről. A hitelesítést a Magyar Engedélyezési és Kereskedelmi Hivatal (MKEH) által kiadott tanúsítvánnyal köteles igazolni a környezetvédelmi hatóság felé. Ahol a mérőberendezés hitelesítése műszakilag nem lehetséges, az üzemeltető köteles a mérőberendezés ellenőrzését akkreditált szervezet által történő kalibrálással biztosítani.
+Tömegmérési eredményeken alapuló számítás esetében az üzemeltető köteles gondoskodni a mérőberendezés használatbavétele előtt, majd használata közben rendszeres időközönként történő hitelesítéséről. A hitelesítést a Magyar Kereskedelmi és Engedélyezési Hivatal (MKEH) által kiadott tanúsítvánnyal köteles igazolni a környezetvédelmi hatóság felé. Ahol a mérőberendezés hitelesítése műszakilag nem lehetséges, az üzemeltető köteles a mérőberendezés alkalmasságát független akkreditált szervezet által történő kalibrálással biztosítani.
 
-Gáz normál állapot (N)
+Gáztechnikai normál állapot (N)
 
-A gáztérfogatot minden esetben a gáz normál állapotára vonatkoztatva kell meghatározni és jelenteni (gáz normál állapotának értékei: T = 15 °C; p = 101325 Pa, ahol T: hőmérséklet; p: nyomás).
+A gáztérfogatot minden esetben a gáztechnikai normál állapotra vonatkoztatva kell meghatározni és jelenteni (gáztechnikai normál állapot értékei: T =15 °C; p = 101325 Pa, ahol T: hőmérséklet; p: nyomás).
 
-Felhasznált forrásanyagok száraz mennyisége
+Felhasznált forrásanyagok mennyisége
 
-A tárgyévben felhasználásra került forrásanyagok mennyiségét, valamint valamennyi tevékenységspecifikus kibocsátási változót száraz állapotra vonatkoztatva kell meghatározni és jelenteni.
+A tárgyévben felhasználásra kerülő gáz halmazállapotú forrásanyagok mennyiségét gáztechnikai normál állapotban kell megadni (Nm3). A tárgyévben felhasználásra került szilárd és folyékony forrásanyagok mennyiségét, valamint valamennyi tevékenységspecifikus kibocsátási változót száraz állapotra vonatkoztatva kell meghatározni és jelenteni.
 
 1.4. Kibocsátási tényező
 
-A kibocsátási tényezőt tCO2/TJ (tüzelésből származó kibocsátások) vagy tCO2/t vagy tCO2/Nm3 (technológiai kibocsátások) mértékegységben kell megadni. Amennyiben valamely tüzelőanyag esetében az üzemeltető rendelkezésére állnak MSZ EN ISO 17025:2005. szabvány szerint akkreditált laborvizsgálati eredmények a tüzelőanyag karbontartalmára vonatkozóan, és azokat a környezetvédelmi hatóság is jóváhagyta, akkor a tüzelőanyag kibocsátási tényezőjét az üzemeltető meghatározhatja a tüzelőanyag karbontartalmából is a 3,667 tCO2/tC sztöchiometriai tényezővel számolva. Mindazonáltal ilyen esetben az üzemeltető köteles meghatározni és jelenteni a tüzelőanyag fűtőértékét [TJ], valamint a kibocsátási tényezőjét tCO2/TJ mértékegységben is.
+A kibocsátási tényezőt tCO2/TJ (tüzelésből származó kibocsátások) vagy tCO2/t vagy tCO2/Nm3 (technológiai kibocsátások) mértékegységben kell megadni. Amennyiben valamely tüzelőanyag esetében az üzemeltető rendelkezésére állnak MSZ EN ISO 17025:2005. szabvány szerint akkreditált laborvizsgálati eredmények a tüzelőanyag karbontartalmára vonatkozóan, és azokat a környezetvédelmi hatóság is jóváhagyta, akkor a tüzelőanyag kibocsátási tényezőjét az üzemeltető meghatározhatja a tüzelőanyag karbontartalmából is a 3,664 tCO2/tC sztöchiometriai tényezővel számolva. Mindazonáltal ilyen esetben az üzemeltető köteles meghatározni és jelenteni a tüzelőanyag fűtőértékét [TJ], valamint a kibocsátási tényezőjét tCO2/TJ mértékegységben is.
 
 1.5. Tevékenységspecifikus adatok és tényezők
 

@@ -8,11 +8,11 @@ b) a létesítményben folytatott üvegházhatású gáz-kibocsátási engedély
 
 c) a létesítmény kapacitásának az Üht. 1. mellékletében meghatározott küszöbérték alá csökkentése végleges jelleggel, vagy
 
-d) a létesítményben folytatott tevékenység hat hónapot meghaladó szüneteltetése (beleértve a karbantartást is). A létesítményben folytatott tevékenység hat hónapot meghaladó szüneteltetése nem minősül bezárásnak, amennyiben azt a tevékenység időszakos jellege indokolja (így különösen a mezőgazdasági termékek feldolgozása). Utóbbi esetben bezárásnak minősül, ha évi 20 napnál kevesebb napon történik termelés a létesítményben.
+d)
 
-(2) A létesítmény üzemeltetője köteles a létesítmény bezárását tizenöt napon belül a környezetvédelmi hatóság számára bejelenteni a bezárást megalapozó esemény napjának megjelölésével és annak igazolásával (bezárás napja).
+(2) A létesítmény üzemeltetője az (1) bekezdés b) és c) pontjában meghatározott esetekben, a bezárás napjától számított tizenöt napon belül, köteles a létesítmény bezárását bejelenteni a környezetvédelmi hatóságnak. A bejelentés tartalmazza a bezárás napjának megjelölését és annak igazolására alkalmas dokumentumot. A bezárás napja a bezárást megalapozó esemény bekövetkezésének a napja.
 
-(3) Az (1) bekezdés b)–d) pontjában meghatározott esetekben a környezetvédelmi hatóság a kibocsátási engedélyt a (2) bekezdés szerinti bejelentés alapján visszavonja. A bezárásra tekintet nélkül a bezárás napjáig fennálló nyomon követési, jelentéstételi kötelezettségét az üzemeltetőnek a vonatkozó jogszabályok szerint teljesítenie kell. A bezárás napjáig fennálló kibocsátási egységek visszaadására vonatkozó kötelezettségét az üzemeltetőnek legkésőbb a bezárás napjától számított 45 napon belül teljesítenie kell.
+(3) Az (1) bekezdés b)–c) pontjában meghatározott esetekben a környezetvédelmi hatóság a kibocsátási engedélyt a (2) bekezdés szerinti bejelentés alapján visszavonja. A bezárásra tekintet nélkül a bezárás napjáig fennálló nyomon követési, jelentéstételi kötelezettségét az üzemeltetőnek a vonatkozó jogszabályok szerint teljesítenie kell. A bezárás napjáig fennálló kibocsátási egységek visszaadására vonatkozó kötelezettségét az üzemeltetőnek legkésőbb a bezárás napjától számított 45 napon belül teljesítenie kell.
 
 (4) A (3) bekezdésben szabályozott, a kibocsátási engedély visszavonására irányuló eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
