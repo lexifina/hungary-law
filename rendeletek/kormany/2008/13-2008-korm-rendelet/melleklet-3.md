@@ -36,7 +36,7 @@
 
 ## b) a c) és d) pontja szerinti esetben a módosított engedélyben szereplő berendezések együttes 2005. évi kibocsátása, valamint
 
-## c) az e) pontja szerinti esetben a 2005. évi kibocsátásoknak a 2005. évi új belépő tartalékból 2006. évre kapott egységmennyiség átlagával megnövelt értéke.
+## c)[^6]
 
 ## 3.3. A 3.1. a) pontja szerinti létesítményeknél az üzembe helyezés napjának meghatározása a 2005. évi új belépő tartalék iránti igényhez csatolt dokumentumok alapján történik.
 
@@ -115,3 +115,5 @@
 ## 9.3. A 2005 előtti évekre vonatkozóan az agyag szervesanyag tartalmából eredő kibocsátást becsülni kell, olyan módon, hogy a technológiai kibocsátásnak a teljes ilyen kibocsátásokat eredményező alapanyag felhasználáshoz viszonyított arányát változatlannak kell feltételezni.
 
 3. melléklet a 13/2008. (I. 30.) Korm. rendelethez
+
+[^6]: A 2. melléklet 3.2. pontjának c) alpontját a 42/2010. (II. 26.) Korm. rendelet 12. § (2) bekezdése alapján hatályon kívül helyezte.
