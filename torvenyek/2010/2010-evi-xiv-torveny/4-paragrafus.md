@@ -13,11 +13,3 @@ a) a munkaügyi hatóság a foglalkoztatóknak a Met. 8/C. § (4) bekezdése ala
 b) az állami adóhatóság az adózóknak az Art. 55. § (6) bekezdése alapján nyilvánosságra hozott adatai közül
 
 törli azoknak a munkáltatóknak az adatait, amelyek az Áht. e törvénnyel megállapított 15. § (5) bekezdés a) pontja és (8) bekezdése, valamint jelen § (3) bekezdése alapján nem minősülnek jogsértőnek.
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
