@@ -1,0 +1,1 @@
+## „(6) A dohánytermelői csoport a 2007. évtől kezdődően a tárgyév június 30-áig a (2) bekezdésben foglaltak szerint értesíti az MVH Központi Hivatalát a tagjait megillető dohánytermelési jog mértékéről.”
