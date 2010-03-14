@@ -1,3 +1,0 @@
-8. § (1) Amennyiben a tejtermelő az 5. § (3) bekezdése szerinti értesítés kézhezvételét követően is értékesít feldolgozónak vagy felvásárlónak, illetve tejgyűjtőnek vagy közvetlenül fogyasztónak tejet, a külön jogszabályban meghatározott, valamint a Kvótaszabályzat túlteljesítésre vonatkozó szankciói kerülnek alkalmazásra.
-
-(2) Az (1) bekezdés, valamint a szerződés 8. pontjának e) alpontja szerinti értékesítés szerződésszegésnek is minősül, ezért a tejtermelőnek az MVH 11. § (3) bekezdése szerinti határozata alapján kártérítést kell fizetnie. A kártérítés a kvóta vételárának a jegybanki alapkamat kétszeresének megfelelő kamattal növelt összege, amelyet a szerződésbe ütközően értékesített tejmennyiséggel arányosan kell kifizetni.
