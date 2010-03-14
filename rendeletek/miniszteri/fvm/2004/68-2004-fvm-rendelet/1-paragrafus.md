@@ -1,3 +1,5 @@
-1. § (1) E rendelet alapján támogatásban az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság részesülhet, aki/amely az Európai Unió Közös Agrárpolitikája magyarországi végrehajtásában, illetve a nemzeti agrártámogatási rendszerben érintett ügyfelekkel összefüggő ügyfélregiszter létrehozásáról és az ezzel kapcsolatos nyilvántartásba vételről szóló 141/2003. (IX. 9.) Korm. rendelet szerint regisztrált.
+1. § (1)[^2]
 
 (2) Az e rendeletben szabályozott támogatásokkal, intézkedésekkel kapcsolatos, az Európai Bizottság felé történő adatszolgáltatásért a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a felelős.
+
+[^2]: Az 1. § (1) bekezdését a 19/2010. (III. 11.) FVM rendelet 22. § b) pontja hatályon kívül helyezte. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
