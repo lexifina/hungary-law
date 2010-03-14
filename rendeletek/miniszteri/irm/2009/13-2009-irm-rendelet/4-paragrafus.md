@@ -1,17 +1,5 @@
+## 2–3. §[^3]
+
 ## Kötelezettségvállalás, ellenjegyzés, szakmai teljesítésigazolás
 
-4. § (1) Kötelezettségvállalásra az előirányzatok tekintetében – a büntetőeljárásról szóló törvény alapján megállapított kártalanítás, a jogi segítségnyújtás és a bűncselekmények áldozatainak kárenyhítése előirányzatok kivételével – a miniszter vagy az általa írásban meghatalmazott személy jogosult a gazdasági vezető vagy az általa írásban kijelölt személy ellenjegyzése után. A kötelezettségvállalás megtörténte előtt az államháztartás működési rendjéről szóló 217/1998. (XII. 30.) Korm. rendelet (a továbbiakban: Ámr.) előírásai szerint ellenőrizni és érvényesíteni kell annak jogosságát, összegszerűségét, a fedezet meglétét és rendelkezésre állását, továbbá azt, hogy az előírt alaki követelményeket betartották-e.
-
-(2) A büntetőeljárásról szóló törvény alapján megállapított kártalanítás esetében kötelezettségvállalás a jogerős bírósági határozat. A jogi segítségnyújtás és a bűncselekmények áldozatainak támogatása esetében kötelezettségvállalás az Igazságügyi Hivatal eljárásra illetékes területi hivatala által hozott határozat vagy – a fellebbezési jogra tekintet nélkül teljesítendő kifizetések kivételével – jogorvoslat folytán a Központi Igazságügyi Hivatal által hozott határozat vagy jogerős bírósági határozat.
-
-(3) Tárgyéven túli kötelezettség – a tárgyévet követő év(ek) előirányzata terhére történő kifizetésre vonatkozó kötelezettség – az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 12/A– 12/B. §-ában és 22–23/A. §-ában foglaltakra figyelemmel, illetve a Kormány határozatában megjelölt előirányzatok mértékéig vállalható. Tárgyéven túli fizetési kötelezettség – kivéve a jogszabályon, jogerős bírósági, illetve közigazgatási döntésen alapuló kötelezettségvállalást – csak olyan mértékben vállalható, amely a kötelezettségvállalás időpontjában ismert feltételek mellett az esedékességkor a rendeltetésszerű működés veszélyeztetése nélkül finanszírozható.
-
-(4) A tárgyéven túli kötelezettségvállalások során figyelemmel kell lenni arra is, hogy a kötelezettségvállalás forrásául megjelölt előirányzatra addig vállalt éven túli kötelezettségek és az előirányzat egyéb, az adott évben előre becsülhető kiadásainak összege a 2010–2012. közötti időszakban egyik évben se haladja meg az Áht. 47. § (1)–(2) bekezdéseinek rendelkezése alapján a Kormány által az adott évben az adott előirányzatra megállapított költségvetési keretet.
-
-(5) A feladatfinanszírozás körébe tartozó beruházások esetében tárgyéven túli kötelezettségvállalás a jóváhagyott beruházás finanszírozási alapokmány éves ütemezésének és az Ámr.-ben foglalt előírások figyelembevételével történhet.
-
-(6) Nem vállalható tárgyéven túli kötelezettség, ha jogszabály a támogatás célját úgy jelöli meg, hogy annak megvalósítása érdekében nem szükséges éven túli kötelezettségvállalás, illetve ha nem indokolt a többéves kötelezettségvállalás.
-
-(7) A szakmai teljesítésigazolást a miniszter által írásban felhatalmazott személyek végzik. A szakmai teljesítésigazolást „A kifizetés jogosságát és összegszerűségét szakmailag igazolom” szöveg feltüntetésével és megfelelő aláírással, dátummal ellátva kell elvégezni.
-
-(8) A kötelezettségvállalásra, ellenjegyzésre, szakmai teljesítésigazolásra, érvényesítésre felhatalmazott személyeket a fejezeti kezelésű előirányzatokra vonatkozó, az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 249/2000. (XII. 24.) Korm. rendeletben foglaltak alapján belső szabályozásként kiadott számviteli politika (a továbbiakban: számviteli politika) mellékletei tartalmazzák.
+[^3]: A 2–3. §-t az 5/2010. (III. 9.) IRM rendelet 32. § (3) bekezdés a) pontja hatályon kívül helyezte.

@@ -1,3 +1,5 @@
-## 5. § A fejezet költségvetésében alapítvány, közalapítvány, köztestület, társadalmi szervezet (társadalmi önszerveződés) támogatására jóváhagyott normatív támogatás folyósítása a támogatott szervezetekkel az Áht.-ban foglaltaknak megfelelő támogatási szerződés kötését követően történhet.
+## 5. §[^5]
 
 ## Visszatérítés mellett nyújtott támogatások, kölcsönök
+
+[^5]: Az 5. §-t az 5/2010. (III. 9.) IRM rendelet 32. § (3) bekezdés a) pontja hatályon kívül helyezte.
