@@ -28,13 +28,13 @@
 
 | 0124103220 | növendék pulyka 3 hónapos és idősebb | 18 970 |
 
-(3)[^24] Az igénylő által használt baromfi nevelő-, házityúknál tojó-I, pulyka utónevelésnél befejező táp állati fehérje eredetű anyagok a laborvizsgálati kimutatási határértéket nem érhetik el. Az igénylő köteles baromfiállományonként vagy naptári negyedévenként egy alkalommal ilyen irányú vizsgálatot végeztetni akkreditált laboratóriumban, az állatállományt felügyelő, kezelő állatorvos által célzottan vett takarmány mintából. A laboratóriumi vizsgálat dokumentuma a takarmánygyártótól is beszerezhető, ebben az esetben a takarmánygyártó nyilatkozik az igénylő által vásárolt takarmány mennyiségéről és a vásárlás időpontjáról. Az a vizsgálati eredmény fogadható el, amelyet a szóban forgó állomány nevelési ideje alatt vagy a vágás naptári negyedévében végeztek el.
+(3)[^31] Az igénylő által használt baromfi nevelő-, házityúknál tojó-I, pulyka utónevelésnél befejező táp állati fehérje eredetű anyagok a laborvizsgálati kimutatási határértéket nem érhetik el. Az igénylő köteles a baromfiállományok nevelési ideje alatt (a letelepítés/átminősítés és a vágás közötti időszakban) egy alkalommal ilyen irányú vizsgálatot végeztetni akkreditált laboratóriumban, az állatállományt felügyelő, kezelő állatorvos által célzottan vett takarmány mintából. A laboratóriumi vizsgálat dokumentuma a takarmánygyártótól is beszerezhető, ebben az esetben a takarmánygyártó nyilatkozik az igénylő által vásárolt takarmány mennyiségéről és a vásárlás időpontjáról.
 
-(4)[^25] A 2. számú melléklet szerinti támogatási kérelemhez csatolni kell:
+(4)[^32] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell:
 
 a) az akkreditált laboratórium vonatkozó igazolását, és
 
 b) a takarmányellátó nyilatkozatát az előállított takarmány állati fehérje, illetve halliszt mentességéről.
 
-[^24]: A 6. § (3) bekezdése az 57/2009. (IV. 29.) FVM rendelet 6. §-ával megállapított szöveg.
-[^25]: A 6. § (4) bekezdése az 57/2009. (IV. 29.) FVM rendelet 6. §-ával megállapított szöveg.
+[^31]: A 6. § (3) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (5) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^32]: A 6. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (5) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

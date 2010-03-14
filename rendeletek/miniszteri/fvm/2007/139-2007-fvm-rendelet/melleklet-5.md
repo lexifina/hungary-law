@@ -24,84 +24,54 @@
 
 | Összesen: |  | 4000 |
 
-5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^33]
+5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^41]
 
-SZAKMAI ELLENŐRZÉSI LAP
+A szakmai ellenőrzési lap adattartalma és a csatolandó mellékletek a 139/2007. (XI. 28.) FVM rendelet alapján
 
-az állatjóléti támogatásról szóló 57/2009. (IV. 29.) FVM rendeletben foglalt
+1. Kérelmező azonosító adatai.
 
-támogatási kérelemhez
+1.1. regisztrációs szám.
 
-Kérelmező neve:
+2. Tenyészetkód.
 
-címe:
+3. Tartási hely azonosító.
 
-Felelős ügyintéző:   Telefon: ..................
+4. A támogatott baromfi megnevezése, BTO száma.
 
-Adószám/adóazonosító jel:   MVH reg. szám.: .............................................
+5. Támogatási jogcímek, állategység.
 
-Tenyészetkód:
+6. A kérelemben igényelt támogatás összege (Ft).
 
-Tartási hely azonosító:
+7. Napos vagy előnevelt baromfi beszerzés
 
-| Támogatott baromfi megnevezése | BTO száma |
+7.1. napos vagy előnevelt baromfi megnevezése,
 
-| Támogatási jogcímek | Állategység |
+7.2. keltető/szállító neve, címe,
 
-| 3. §, A takarmányok nem kívánatos anyagtartalma mentességének biztosítása |  |
+7.3. tenyészetkód,
 
-| 4. §, Mechanikai sérülés megelőzése |  |
+7.4 átvétel ideje, átvett darabszáma.
 
-| 5. §, Kíméletes állatmozgatás és szállítás biztosítása |  |
+8. Vágás vagy tömésre való kihelyezés, eladás
 
-| 6. §, Állati fehérje mentes takarmány biztosítása |  |
+8.1. baromfiféle megnevezése,
 
-| 7. §, Takarmányhoz ivóvíz minőségű víz biztosítása |  |
+8.2. átvevő neve, címe,
 
-A kérelemben igényelt támogatás összege:   Ft.
+8.3. tenyészetkód,
 
-Napos vagy előnevelt baromfi beszerzés*:
+8.4. átadás ideje, átvett darabszám.
 
-| Napos vagy előnevelt baromfi megnevezése: |  |
+9. Keltezés, kérelmező aláírása.
 
-| Keltető / szállító | Tenyészetkód | Átvétel |
+10. A Baromfi Termék Tanács javaslata a kérelem szakmailag történő áttekintéséről, elfogadásáról, részbeni elfogadásáról, elutasításáról (indokolás).
 
-| neve | címe | ideje | darab |
+11. Keltezés, Baromfi Termék Tanács cégszerű aláírása.
 
-* Csatolni kell a napos vagy előnevelt baromfi vételről szóló számlamásolatot, saját keltetőből vagy előnevelő telepről való szállítás esetén a szigorú számadású belső szállítólevelet, tömő alapanyag számla nélküli kihelyezése esetén a szállítólevél másolatát.
+12. Mellékletek:
 
-Vágás* vagy tömésre való kihelyezés, eladás*:
+12.1. a napos- és előnevelt baromfi vételéről szóló számlamásolatok,
 
-(a megfelelő szót kérjük aláhúzni)
+12.2. a korosbításról szóló, vagy saját üzembe történő napos állat telepítése esetén az arról kiállított bizonylatok.
 
-Baromfiféle megnevezése
-
-| ÁTVEVŐ | ÁTADÁS |
-
-| Neve | Címe | Tenyészetkód | Ideje | Darab |
-
-* Vágás esetén a darabszámot a vágóhídi igazolás alapján kell megadni, a rendelet 5. § és 6. § szerint az MVH-nak benyújtott állategység számításnál figyelembe vett állatdarabszámmal azonosan.
-
-Kelt: ....................................
-
-......................................................
-
-kérelmező aláírása
-
-A kérelmet szakmailag áttekintettük és elfogadásra
-
-| javaslom | nem javaslom | § szerinti jogcímre javaslom |
-
-Nemleges vagy részbeni javaslat esetén indoklás:
-
-Kelt: ....................................
-
-......................................................
-
-Baromfi Termék Tanács
-
-P. H.
-
-Csatolni kell a napos- és előnevelt baromfi vételéről szóló számlamásolatokat, a korosbításról szóló vagy saját üzembe történő napos állat telepítése esetén az arról kiállított bizonylatokat.
-
-[^33]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be.
+[^41]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 19/2010. (III. 11.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

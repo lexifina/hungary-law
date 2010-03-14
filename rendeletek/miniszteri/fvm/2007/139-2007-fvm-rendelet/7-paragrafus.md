@@ -1,6 +1,6 @@
 ## Takarmányozáshoz ivóvíz minőségű víz biztosítása
 
-7. § (1)[^26] E jogcím alapján az az igénylő jogosult támogatásra, aki (amely) a baromfiállomány takarmányozásához – a 3. számú mellékletben előírt dokumentumokkal igazolt – ivóvíz minőségű vizet használ.
+7. § (1)[^33] E jogcím alapján az az igénylő jogosult támogatásra, aki (amely) a baromfiállomány takarmányozásához – a 3. számú mellékletben előírt dokumentumokkal igazolt – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet előírásainak megfelelő minőségű vizet használ.
 
 (2) A támogatás mértéke baromfifajonként és állategységenként:
 
@@ -28,10 +28,10 @@
 
 | 0124103220 | növendék pulyka 3 hónapos és idősebb | 6134 |
 
-(3)[^27] Az igénylőnek az általa a takarmányozáshoz használt víz (1) bekezdésben előírt feltételnek való megfelelését a támogatási évben legalább egy alkalommal ellenőriztetnie kell ivóvízvizsgálatra akkreditált laboratóriummal.
+(3)[^34] Az igénylőnek az általa a takarmányozáshoz használt víz (1) bekezdésben előírt feltételnek való megfelelését a támogatási évben legalább egy alkalommal ellenőriztetnie kell ivóvízvizsgálatra akkreditált laboratóriummal.
 
-(4)[^28] A rendelet 2. számú melléklete szerinti támogatási kérelemhez csatolni kell a 3. számú mellékletben meghatározott dokumentumok valamelyikét.
+(4)[^35] A rendelet 2. számú melléklete szerinti adattartalmú támogatási kérelemhez csatolni kell a 3. számú mellékletben meghatározott dokumentumok valamelyikét.
 
-[^26]: A 7. § (1) bekezdése a 81/2008. (VI. 24.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. január 1-je utáni időszakra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
-[^27]: A 7. § (3) bekezdése a 81/2008. (VI. 24.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. január 1-je utáni időszakra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
-[^28]: A 7. § (4) bekezdése a 81/2008. (VI. 24.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. január 1-je utáni időszakra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
+[^33]: A 7. § (1) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (6) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^34]: A 7. § (3) bekezdése a 81/2008. (VI. 24.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. január 1-je utáni időszakra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
+[^35]: A 7. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (7) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

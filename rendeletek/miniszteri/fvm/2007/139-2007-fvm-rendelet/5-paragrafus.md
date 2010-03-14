@@ -30,6 +30,6 @@
 
 (3) Az igénylő által a vágóhídra leadott állatoknál a törött végtagú állatok aránya állományonként nem haladhatja meg az 5%-ot.
 
-(4)[^23] A 2. számú melléklet szerinti támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a törött végtagú állatok (3) bekezdésben meghatározott arányára vonatkozó igazolását is, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
+(4)[^30] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a törött végtagú állatok (3) bekezdésben meghatározott arányára vonatkozó igazolását is, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
 
-[^23]: Az 5. § (4) bekezdése az 57/2009. (IV. 29.) FVM rendelet 5. §-ával megállapított szöveg.
+[^30]: Az 5. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (4) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

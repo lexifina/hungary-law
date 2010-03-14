@@ -1,36 +1,14 @@
-## TÁMOGATÁSI KÉRELEM
+## A támogatási kérelem adattartalma és a csatolandó mellékletek a 139/2007. (XI. 28.) FVM rendelet alapján
 
-## a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről
+## 1. Az igénylő azonosító-adatai.
 
-## a 139/2007. (XI. 28.) FVM rendelet alapján
+## 1.1. regisztrációs szám.
 
-## Benyújtás helye: az igénylő lakhelye, illetve székhelye szerint illetékes MVH Megyei Kirendeltség
+## 2. Támogatás jogcíme.
 
-## 1. Az igénylő adatai:
+## 2.1. A támogatott állomány azonosítója.
 
-## Név:
-
-## Tel.:
-
-## MVH Regisztrációs száma:
-
-## Adószáma:
-
-## Adóazonosító jele:
-
-## Lakhely/székhely címe:  (helység) ................................. út/utca/tér ................. hsz.
-
-## Levelezési címe:   (helység) ................................. út/utca/tér ................. hsz.
-
-## Felelős vezető neve:  Tel.: ..................................
-
-## Felelős ügyintéző neve:  Tel.: ..................................
-
-## 2. Támogatás
-
-## A támogatott állomány azonosítója:
-
-## 2.1. Takarmány nem kívánatos anyagtartalmának rendszeres ellenőrzése
+## 2.2. Takarmány nem kívánatos anyagtartalmának rendszeres ellenőrzése
 
 | BTO termékszám | Baromfi megnevezése BTO szerint | Támogatás (Ft/ÁE) | Igényelt mennyiség (ÁE) | Igényelt támogatás (Ft) |
 
@@ -54,9 +32,7 @@
 
 | 0124103220 | növendék pulyka 3 hónapos és idősebb | 4425 |  |  |
 
-## Kijelentem, hogy az általam felhasznált takarmány nem kívánatos anyagtartalmát, ezen belül a mikotoxin-tartalmat baromfiállományonként vagy naptári negyedévenként egy alkalommal akkreditált laboratóriummal ellenőriztetem.
-
-## 2.2. Mechanikai sérülések megelőzése
+## 2.3. Mechanikai sérülések megelőzése
 
 | BTO termékszám | Baromfi megnevezése BTO szerint | Támogatás (Ft/ÁE) | Igényelt mennyiség (ÁE) | Igényelt támogatás (Ft) |
 
@@ -82,9 +58,7 @@
 
 | 0124103220 | növendék pulyka 3 hónapos és idősebb | 9 822 |  |  |
 
-## Kijelentem, hogy a baromfiállomány tartása során a mellsérülés megelőzéséhez szükséges feltételeket biztosítom.
-
-## 2.3. Kíméletes állatmozgás és szállítás biztosítása
+## 2.4. Kíméletes állatmozgás és szállítás biztosítása
 
 | BTO termékszám | Baromfi megnevezése BTO szerint | Támogatás (Ft/ÁE) | Igényelt mennyiség (ÁE) | Igényelt támogatás (Ft) |
 
@@ -110,9 +84,7 @@
 
 | 0124103220 | növendék pulyka 3 hónapos és idősebb | 2 324 |  |  |
 
-## Kijelentem, hogy a baromfiállomány tartása során a kíméletes állatmozgatás és szállítás feltételeit biztosítom.
-
-## 2.4. Állati fehérje mentes takarmány használata
+## 2.5. Állati fehérje mentes takarmány használata
 
 | BTO termékszám | Baromfi megnevezése BTO szerint | Támogatás (Ft/ÁE) | Igényelt mennyiség (ÁE) | Igényelt támogatás (Ft) |
 
@@ -138,9 +110,7 @@
 
 | 0124103220 | növendék pulyka 3 hónapos és idősebb | 18 970 |  |  |
 
-## Kijelentem, hogy az általam felhasznált takarmány állati fehérje mentességét, különös tekintettel a halliszt mentességét baromfiállományonként vagy naptári negyedévenként egy alkalommal akkreditált laboratóriummal ellenőriztetem.
-
-## 2.5. Takarmányozáshoz ivóvíz minőségű víz biztosítása
+## 2.6. Takarmányozáshoz ivóvíz minőségű víz biztosítása
 
 | BTO termékszám | Baromfi megnevezése BTO szerint | Támogatás (Ft/ÁE) | Igényelt mennyiség (ÁE) | Igényelt támogatás (Ft) |
 
@@ -166,72 +136,58 @@
 
 | 0124103220 | növendék pulyka 3 hónapos és idősebb | 6134 |  |  |
 
-## Kijelentem, hogy a baromfi állomány takarmányozásához az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet előírásainak megfelelő vizet használok.
+## 2.7. Támogatási igény összesen (A 2.2–2.6. pontok „Igényelt támogatás” oszlopában foglalt összegek összesítése Ft-ban).
 
-## (Írja be támogatási jogcímenként és baromfifajonként az igényelt mennyiséget és az ennek alapján számított támogatási összeget!)
+## 3. Az igénylő nyilatkozata arról, hogy
 
-## 2.6. Támogatási igény összesen (Ft): ...........................
+## 3.1. csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiség nélküli gazdasági társaság vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó;
 
-## (A 2.1–2.5. pontok „Igényelt támogatás” oszlopában foglalt összegek összesítése.)
+## 3.2. nincs adó-, vám-, egészség-, nyugdíj-, társadalombiztosítási járuléktartozása;
 
-## 3. Nyilatkozatok
+## 3.3. az érintett termékpályán működő, olyan államilag elismert termelői csoport, BÉSZ, tenyésztő szervezet, terméktanács vagy szakmai szervezet tagja, amely nyitott tagsággal működik;
 
-## 3.1. Nyilatkozom, hogy csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiség nélküli gazdasági társaság vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó vagyok.
+## 3.4. a Mezőgazdasági Szakigazgatási Hivatal által működtetett Tenyészet Információs Rendszerben és Baromfi Információs Rendszerben részt vesz;
 
-## 3.2. Nyilatkozom, hogy adó-, vám-, egészség-, nyugdíj-, társadalombiztosítási járuléktartozásom nincs.
+## 3.5. megfelel az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott rendezett munkaügyi kapcsolatok feltételeinek megfelel;
 
-## 3.3. Nyilatkozom, hogy az érintett termékpályán működő, olyan államilag elismert termelői csoport, BÉSZ, tenyésztő szervezet, terméktanács vagy szakmai szervezet tagja vagyok, amely nyitott tagsággal működik.
+## 3.6. hozzájárul ahhoz, hogy a támogatásra való jogosultság ellenőrzése és a támogatás folyósítása érdekében a szükséges mértékig és időtartamban az Adó- és Pénzügyi Ellenőrzési Hivatal, a Vám- és Pénzügyőrség, az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár Rt. az általa közölt adatokat felhasználja;
 
-## 3.4. Nyilatkozom, hogy a Mezőgazdasági Szakigazgatási Hivatal által működtetett Tenyészet Információs Rendszerben és Baromfi Információs Rendszerben részt veszek.
+## 3.7. a kérelem benyújtásakor agrár- vagy agrár-vidékfejlesztési támogatás jogosulatlan igénybevétele miatt jogerős határozattal megállapított köztartozással nem rendelkezik;
 
-## 3.5. Nyilatkozom, hogy a rendezett munkaügyi kapcsolatoknak az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott feltételeinek megfelelek.
+## 3.8. a támogatási kérelmében megjelölt állatjóléti tevékenységeket a támogatási kérelem benyújtásától számított legalább öt éven át folytatja;
 
-## 3.6. Hozzájárulok ahhoz, hogy a támogatásra való jogosultság ellenőrzése és a támogatás folyósítása érdekében a szükséges mértékig és időtartamban az Adó- és Pénzügyi Ellenőrzési Hivatal, a Vám- és Pénzügyőrség, az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár Rt. az általam közölt adataimat felhasználják.
+## 3.9. a támogatási kérelmen és a mellékleteken feltüntetett adatok a valóságnak megfelelnek.
 
-## 3.7. Nyilatkozom, hogy a kérelem benyújtásakor agrár- vagy agrár-vidékfejlesztési támogatás jogosulatlan igénybevétele miatt jogerős határozattal megállapított köztartozással nem rendelkezem.
+## 4. Keltezés, igénylő (cégszerű) aláírása.
 
-## 3.8. Nyilatkozom, hogy a támogatási kérelmemben megjelölt állatjóléti tevékenységeket a támogatási kérelem benyújtásától számított legalább öt éven át folytatom.
+## 5. Az állatállományt felügyelő/kezelő állatorvos igazolása arról, hogy a kérelemben megjelölt támogatási igény megalapozott.
 
-## Nyilatkozom, hogy a támogatási kérelmen és a mellékleteken feltüntetett adatok a valóságnak megfelelnek.
+## 6. Keltezés, állatállományt felügyelő/kezelő állatorvos aláírása.
 
-## Dátum: ...................................
+## 7. Mellékletek:
 
-## ......................................................
+## 7.1. Az MgSzH területi szervének igazolása – bűnügyi személyes adat közlésének kivételével – a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről.
 
-## igénylő (cégszerű) aláírása
+## 7.2. A termelői csoport, Beszerzési és Értékesítő Szövetkezet, tenyésztő szervezet, az adott termékpályán működő terméktanács vagy szakmai szervezet tárgyévre vonatkozó tagsági igazolása.
 
-## Igazolom, hogy a kérelemben megjelölt támogatási igény megalapozott.
+## 7.3. Takarmány nem kívánatos anyagtartalmának ellenőrzése esetén a 3. § (4) bekezdésében előírt dokumentumok.
 
-## Dátum: ...................................
+## 7.4. Mechanikai sérülés megelőzése esetén a 4. § (4) bekezdésében előírt dokumentumok.
 
-## ........................................................................
+## 7.5. Kíméletes állatmozgás és szállítás biztosítása esetén az 5. § (4) bekezdésében előírt dokumentumok.
 
-## állatállományt felügyelő kezelő állatorvos
+## 7.6. Állati fehérje mentes takarmány használata esetén a 6. § (4) bekezdésében előírt dokumentumok.
 
-## Mellékletek:
+## 7.7. Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok.
 
-## – Területileg illetékes állategészségügyi hatóság igazolása a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről.
+## 7.8. Napos vagy előnevelt baromfi számla másolata az 1. § (5) bekezdés szerint.
 
-## – A termelői csoport, Beszerzési és Értékesítő Szövetkezet, tenyésztő szervezet, az adott termékpályán működő terméktanács vagy szakmai szervezet tárgyévre vonatkozó tagsági igazolása.
+## 7.9. Tyúknál, pulykánál átminősítésről készült bizonylat az 1. § (5) bekezdés szerint.
 
-## – Takarmány nem kívánatos anyagtartalmának ellenőrzése esetén a 3. § (4) bekezdésében előírt dokumentumok.
+## 7.10. Szakmai Ellenőrzési Lap a 2. § (5) bekezdés szerint.
 
-## – Mechanikai sérülés megelőzése esetén a 4. § (4) bekezdésében előírt dokumentumok.
+## 7.11. Szigorú számadású bizonylat az 1. § (5) bekezdése szerint.
 
-## – Kíméletes állatmozgás és szállítás biztosítása esetén az 5. § (4) bekezdésében előírt dokumentumok.
+3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^39]
 
-## – Állati fehérje mentes takarmány használata esetén a 6. § (4) bekezdésében előírt dokumentumok.
-
-## – Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok.
-
-## – Napos vagy előnevelt baromfi számla másolata az 1. § (5) bekezdés szerint.
-
-## – Tyúknál, pulykánál átminősítésről készült bizonylat az 1. § (5) bekezdés szerint.
-
-## – Szakmai Ellenőrzési Lap a 2. § (5) bekezdés szerint.
-
-## – Szigorú számadású bizonylat az 1. § (5) bekezdése szerint.
-
-3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^31]
-
-[^31]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege az 57/2009. (IV. 29.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^39]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege az 57/2009. (IV. 29.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.

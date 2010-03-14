@@ -24,6 +24,6 @@
 
 | 0124103220 | növendék pulyka 3 hónapos és idősebb | 0,0067 |
 
-2. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^30]
+2. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^38]
 
-[^30]: A 2. számú melléklet az 57/2009. (IV. 29.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^38]: A 2. számú melléklet a 19/2010. (III. 11.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

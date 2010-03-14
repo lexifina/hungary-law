@@ -30,6 +30,6 @@
 
 (3) Az igénylő által a vágóhídra leadott állatoknál a mellsérülést szenvedő állatok aránya állományonként nem haladhatja meg az 5%-ot.
 
-(4)[^22] A 2. számú melléklet szerinti támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a mellsérülések (3) bekezdésben meghatározott arányára vonatkozó igazolását, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
+(4)[^29] A 2. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a mellsérülések (3) bekezdésben meghatározott arányára vonatkozó igazolását, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
 
-[^22]: A 4. § (4) bekezdése az 57/2009. (IV. 29.) FVM rendelet 4. §-ával megállapított szöveg.
+[^29]: A 4. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
