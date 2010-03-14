@@ -1,0 +1,1 @@
+## 3. § A szakmai teljesítés igazolását a fejezet felügyeletét ellátó miniszter (a továbbiakban: miniszter) által az általa vezetett minisztérium vagy az irányítása alatt álló költségvetési szerv alkalmazásában álló, írásban felhatalmazott személyek végzik.
