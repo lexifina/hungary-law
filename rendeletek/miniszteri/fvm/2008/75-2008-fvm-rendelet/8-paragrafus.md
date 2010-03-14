@@ -28,7 +28,7 @@ A mintavételi naplót szigorú számadású bizonylatként kell kezelni.
 
 (4) Minden hónapra vonatkozóan, az adott hónapot megelőző hónap végéig a feldolgozónak írásos formában be kell nyújtania az MVH-hoz az adott hónapra tervezett kiszállítások és bekeverések jegyzékét, megjelölve a tervezett dátumokat és a kiszállítandó, illetve bekeverendő takarmány típusát és mennyiségét.
 
-(5) Annak érdekében, hogy az MVH a szükséges ellenőrzéseket elvégezhesse, az MVH felszólítására a feldolgozónak be kell jelentenie a szárított takarmány tervezett kiszállítását vagy bekeverését, annak megkezdése előtt legalább két munkanappal, az MVH által erre rendszeresített formanyomtatványon.
+(5)[^12] Annak érdekében, hogy az MVH a szükséges ellenőrzéseket elvégezhesse, az MVH felszólítására a feldolgozónak be kell jelentenie a szárított takarmány tervezett kiszállítását vagy bekeverését, annak megkezdése előtt legalább két munkanappal az MVH központi szerve által rendszeresített, az MVH honlapján közleményben közzétett formanyomtatványon.
 
 (6) A bejelentésnek az alábbi adatokat kell tartalmaznia:
 
@@ -42,6 +42,9 @@ c) a kiszállításra vagy bekeverésre kerülő szárított takarmány tétel m
 
 (8) A Bizottsági rendelet 10. és 11. cikkében említett mérésekhez a mérésügyről szóló 1991. évi XLV. törvény alapján hitelesített mérleget kell használni.
 
-(9) A Bizottsági rendelet 13. cikk (1) bekezdésének a) pontjában meghatározott, az üzem termelési kapacitásának meghatározását lehetővé tevő adatokat a feldolgozó üzemnaplójában kell nyilvántartani, az MVH által erre vonatkozóan kiadott közleményben meghatározott formában.
+(9)[^13] A Bizottsági rendelet 13. cikk (1) bekezdés a) pontjában meghatározott, az üzem termelési kapacitásának meghatározását lehetővé tevő adatokat a feldolgozó üzemnaplójában kell nyilvántartani az MVH központi szerve által rendszeresített, az MVH honlapján közleményben közzétett formanyomtatványnak megfelelően.
 
 (10) Az üzemnaplót és a Bizottsági rendelet 12. cikkében meghatározott készletnyilvántartásnak minden bizonylatát szigorú számadású bizonylatként kell kezelni.
+
+[^12]: A 8. § (5) bekezdése a 19/2010. (III. 11.) FVM rendelet 20. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
+[^13]: A 8. § (9) bekezdése a 19/2010. (III. 11.) FVM rendelet 20. § (4) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

@@ -2,6 +2,6 @@
 
 12. § (1) E rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2)[^1]
+(2)[^15]
 
-[^1]: A 12. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^15]: A 12. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

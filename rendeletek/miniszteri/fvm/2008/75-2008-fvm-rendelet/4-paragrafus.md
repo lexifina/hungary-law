@@ -8,7 +8,7 @@ b) szállítási nyilatkozatot tesz az általa hasznosított mezőgazdasági par
 
 c) szállítási nyilatkozatot tesz a felvásárlótól beszerzett zöldtakarmányra vonatkozóan a Bizottsági rendelet 15. cikk (2) bekezdésének megfelelően, amelyre a felvásárló termeltetési szerződést kötött a termelővel.
 
-(2) Az (1) bekezdésben meghatározott szerződéseknek, illetve szállítási nyilatkozatoknak a Bizottsági rendelet 14. cikk (1) és 15. cikk (1) bekezdésének megfelelően elválaszthatatlan részét képezi a vonatkozó mezőgazdasági parcellák jegyzéke, melyet az MVH által közleményben e célra rendszeresített formanyomtatványon (a továbbiakban: Parcellajegyzék) kell kiállítani az alábbi adattartalommal:
+(2)[^4] A támogatás igénylésének feltétele, hogy az (1) bekezdésben meghatározott szerződéseknek, illetve szállítási nyilatkozatoknak a Bizottsági rendelet 14. cikk (1) és 15. cikk (1) bekezdésének megfelelően elválaszthatatlan részét képezi a vonatkozó mezőgazdasági parcellák jegyzéke, amelyet az MVH központi szerve által rendszeresített, az MVH honlapján közleményben közzétett formanyomtatványon (a továbbiakban: Parcellajegyzék) kell kiállítani a következő adattartalommal:
 
 a) a szerződő felek azonosító adatai,
 
@@ -25,3 +25,5 @@ f) hivatkozás az adott parcellára vonatkozóan benyújtott területalapú tám
 g) szerződő felek aláírása.
 
 (3) A Bizottsági rendelet 17. cikkében előírt tájékoztatási kötelezettségnek a Parcellajegyzék benyújtásával kell eleget tenni.
+
+[^4]: A 4. § (2) bekezdése a 19/2010. (III. 11.) FVM rendelet 19. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

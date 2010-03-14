@@ -6,4 +6,6 @@
 
 (3) Az előleg, illetve a biztosíték összegének kiszámításához a 2. § (3) bekezdésében meghatározott átváltási árfolyamot kell alkalmazni.
 
-(4) Amennyiben a kifizetett előleg mértéke meghaladja a Tanácsi rendelet 88. cikk (2) bekezdése alapján kiszámított végső támogatási összeget, az MVH elrendeli az előleg ezen részének visszafizetését, mely összeget a feldolgozónak az elrendelő határozat kézhezvételétől számított tizenöt napon belül kell az MVH-nak visszafizetnie.
+(4)[^3] Amennyiben a kifizetett előleg mértéke meghaladja a Tanácsi rendelet 88. cikk (2) bekezdése alapján kiszámított végső támogatási összeget, az MVH elrendeli az előleg ezen részének visszafizetését, mely összeget a feldolgozónak az elrendelő határozat jogerőre emelkedésétől számított tizenöt napon belül kell az MVH-nak visszafizetnie.
+
+[^3]: A 3. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 19. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
