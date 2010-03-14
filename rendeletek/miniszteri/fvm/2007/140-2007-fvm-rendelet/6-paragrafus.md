@@ -6,10 +6,10 @@
 
 (3) Az igénylő által tartott vágósertések vonatkozásában a fülroncsolás és farokrágás, valamint a mechanikai sérülések aránya nem haladhatja meg a 10%-ot, amelynek teljesülését a kezelő állatorvos legalább negyedévenként ellenőrzi.
 
-(4)[^16] A rendelet 1. számú melléklete szerinti támogatási kérelemhez csatolni kell
+(4)[^21] Az 1. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell:
 
 a) a kezelő állatorvos igazolását arról, hogy a vágósertéseket származás-igazolással rendelkező apaállattal, vagy engedélyezett mesterséges termékenyítő állomásról származó szaporítóanyaggal állították elő, és
 
-b) a kezelő állatorvos igazolását az (1) bekezdésben meghatározott feltétel teljesítéséről. Az igazoláson fel kell tüntetni annak érvényességi idejét.
+b) a kezelő állatorvos igazolását az (1) bekezdésben meghatározott feltétel teljesítéséről. Az igazoláson fel kell tüntetni annak időbeli hatályát.
 
-[^16]: A 6. § (4) bekezdésének bevezető szövegrésze a 80/2008. (VI. 24.) FVM rendelet 5. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2008. január 1-je utáni időszakra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
+[^21]: A 6. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 10. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

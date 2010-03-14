@@ -6,6 +6,6 @@
 
 (3) Az (1) bekezdés szerinti feltétel biztosítását a kezelő állatorvos a támogatási évben legalább egy alkalommal vizsgálja.
 
-(4)[^14] A rendelet 1. számú melléklete szerinti támogatási kérelemhez csatolni kell a kezelő állatorvos igazolását az (1) bekezdésben meghatározott feltétel teljesítéséről, valamint a (3) bekezdés szerinti vizsgálatról. Az igazoláson fel kell tüntetni annak érvényességi idejét.
+(4)[^19] Az 1. számú melléklet szerinti adattartalmú támogatási kérelemhez csatolni kell a kezelő állatorvos igazolását az (1) bekezdésben meghatározott feltétel teljesítéséről, valamint a (3) bekezdés szerinti vizsgálatról. Az igazoláson fel kell tüntetni annak időbeli hatályát.
 
-[^14]: A 4. § (4) bekezdésének első mondata a 80/2008. (VI. 24.) FVM rendelet 5. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2008. január 1-je utáni időszakra vonatkozóan benyújtott támogatási kérelmekre kell alkalmazni.
+[^19]: A 4. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 9. § (5) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

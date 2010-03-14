@@ -1,168 +1,66 @@
-## TÁMOGATÁSI KÉRELEM
+## A támogatási kérelem adattartalma és a csatolandó mellékletek a 140/2007. (XI. 28.) FVM rendelet alapján
 
-## a sertés ágazatban igénybe vehető állatjóléti támogatás feltételeiről
+## 1. Az igénylő azonosító-adatai.
 
-## a 140/2007. (XI. 28.) FVM rendelet alapján
+## 1.1. regisztrációs szám.
 
-## Benyújtás helye:
+## 2. Támogatás jogcímének meghatározás.
 
-## az igénylő lakhelye, illetve székhelye szerint illetékes MVH Megyei Kirendeltség
+## 2.1. a vágósertés/tenyészkoca süldő darabszáma.
 
-## 1. Az igénylő adatai:
+## 2.2. igénylő meghatározása (alapanyag-termelő, bérhízlaló/bérnevelő, bérhízlaltató/bérneveltető).
 
-## Név:
+## 3. Az igényelt támogatás összesen (Ft).
 
-## Tel.:
+## 4. Az igénylő nyilatkozata arról, hogy
 
-## MVH Regisztrációs száma:
+## 4.1. csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiség nélküli gazdasági társaság vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó;
 
-## Adószáma:
+## 4.2. nincs adó-, vám-, egészség-, nyugdíj-, társadalombiztosítási járuléktartozása;
 
-## Adóazonosító jele:
+## 4.3. az érintett termékpályán működő, olyan államilag elismert termelői csoport, BÉSZ, tenyésztő szervezet, terméktanács vagy szakmai szervezet tagja, amely nyitott tagsággal működik;
 
-## Lakhely/székhely címe:   (helység) ........................... út/utca/tér ............ hsz.
+## 4.4. eleget tett a sertések jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 116/2003. (XI. 18.) FVM rendelet előírásainak;
 
-## Levelezési címe:   (helység) ........................... út/utca/tér ............ hsz.
+## 4.5. megfelel az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában meghatározott rendezett munkaügyi kapcsolatok feltételeinek;
 
-## Felelős vezető neve:   Tel.: ........................
+## 4.6. hozzájárul ahhoz, hogy a támogatásra való jogosultság ellenőrzése és a támogatás folyósítása érdekében a szükséges mértékig és időtartamban az Adó- és Pénzügyi Ellenőrzési Hivatal, a Vám- és Pénzügyőrség, az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár Rt. az általa közölt adatokat felhasználja;
 
-## Felelős ügyintéző neve:   Tel.: ........................
+## 4.7. a kérelem benyújtásakor agrár- vagy agrár-vidékfejlesztési támogatás jogosulatlan igénybevétele miatt jogerős határozattal megállapított köztartozással nem rendelkezik;
 
-## 2. Támogatás
+## 4.8. a támogatási kérelmében megjelölt állatjóléti tevékenységeket a támogatási kérelem benyújtásától számított legalább öt éven át folytatja;
 
-## A támogatást a ............. db vágósertés/tenyészkoca süldő leadása/értékesítése után
+## 4.9. a támogatási kérelmen és a mellékleteken feltüntetett adatok a valóságnak megfelelnek.
 
-## – alapanyag-termelőként
+## 5. Keltezés, igénylő (cégszerű) aláírása.
 
-## – bérhízlalóként/bérnevelőként
+## 6. Az állatállományt felügyelő/kezelő állatorvos igazolása arról, hogy a kérelemben megjelölt támogatási igény megalapozott.
 
-## – bérhízlaltatóként/bérneveltetőként
+## 7. Keltezés, állatállományt felügyelő/kezelő állatorvos aláírása.
 
-## kérem.*
+## 8. Mellékletek:
 
-## –––––––––––––
+## 8.1. Az MgSzH területi szervének igazolása – bűnügyi személyes adat közlésének kivételével – a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről;
 
-## * A megfelelő válasz aláhúzandó.
+## 8.2. Bérhízlaló/bérnevelő esetén a 2. § (6) bekezdésében előírt dokumentumok;
 
-## 2.1. Nagyobb férőhely biztosítása
+## 8.3. Bérhízlaltató/bérneveltető esetén a 2. § (7) bekezdésében előírt dokumentumok;
 
-| Támogatás mértéke (Ft/állategység) | Igényelt mennyiség (állategység) | Igényelt támogatás (Ft) |
+## 8.4. Nagyobb férőhely biztosítása esetén a 3. § (4) bekezdésében előírt dokumentumok;
 
-| 1280 |  |  |
+## 8.5. Természetes feltétel biztosítása esetén a 4. § (4) bekezdésében előírt dokumentumok;
 
-## Kijelentem, hogy a vágósertés tartása során a mezőgazdasági haszonállatok tartásának állatvédelmi szabályairól szóló 32/1999. (III. 31.) FVM rendelet 2. számú melléklet 1.2.1. pontjában meghatározott nagyságú férőhelynél legalább 10%-kal nagyobb (110 kg alatti vágósertés esetén legalább 0,715 m2 , 110 kg feletti vágósertés esetén legalább 1,1 m2 nagyságú) alapterületet biztosítok.
+## 8.6. Fény biztosítása esetén az 5. § (3) bekezdésében előírt dokumentumok;
 
-## 2.2. Természetes feltétel biztosítása a tartási rendszerben
+## 8.7. Verekedések, kimarások megelőzése esetén a 6. § (4) bekezdésében előírt dokumentumok;
 
-| Támogatás mértéke (Ft/állategység) | Igényelt mennyiség (állategység) | Igényelt támogatás (Ft) |
+## 8.8. Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok;
 
-| 370 |  |  |
+## 8.9. Alom biztosítása esetén a 8. § (4) bekezdésében előírt dokumentumok;
 
-## Kijelentem, hogy a vágósertés tartási helyén a természetes feltétel biztosítása érdekében legalább az előírt férőhely 20%-ának nagyságában kifutót alkalmazok.
+## 8.10. Mikroklíma biztosítása esetén a 9. § (3) bekezdésében előírt dokumentumok.
 
-## 2.3. Fény biztosítása
-
-| Támogatás mértéke (Ft/állategység) | Igényelt mennyiség (állategység) | Igényelt támogatás (Ft) |
-
-| 880 |  |  |
-
-## Kijelentem, hogy a vágósertés tartási helyén legalább 9 órán át természetes vagy legalább 11 órán át mesterséges (50 lux/m2) fényt biztosítok.
-
-## 2.4. Verekedések, kimarások megelőzése
-
-| Támogatás mértéke (Ft/állategység) | Igényelt mennyiség (állategység) | Igényelt támogatás (Ft) |
-
-| 1320 |  |  |
-
-## Kijelentem, hogy a vágósertés tartása során a verekedések, kimarások megelőzéséhez szükséges feltételeket biztosítom, ezen belül gondoskodom a szakszerű apaállat-használatról.
-
-## 2.5. Takarmányozáshoz ivóvíz minőségű víz biztosítása
-
-| Támogatás mértéke (Ft/állategység) | Igényelt mennyiség (állategység) | Igényelt támogatás (Ft) |
-
-| 1540 |  |  |
-
-## Kijelentem, hogy a vágósertés takarmányozásához az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet előírásainak megfelelő vizet használok.
-
-## 2.6. Almozás biztosítása
-
-| Támogatás mértéke (Ft/állategység) | Igényelt mennyiség (állategység) | Igényelt támogatás (Ft) |
-
-| 670 |  |  |
-
-## Kijelentem, hogy alom alkalmazásával a vágósertésnek száraz, meleg tartási helyet biztosítok.
-
-## 2.7. Megfelelő mikroklíma biztosítása
-
-| Támogatás mértéke (Ft/állategység) | Igényelt mennyiség (állategység) | Igényelt támogatás (Ft) |
-
-| 1100 |  |  |
-
-## (Írja be támogatási jogcímenként az igényelt mennyiséget és az ennek alapján számított támogatási összeget!)
-
-## Igényelt támogatás összesen: ...................................... Ft.
-
-## (A 2.1–2.7 pontok „Igényelt támogatás” oszlopában foglalt összegek összesítése.)
-
-## 3. Nyilatkozatok
-
-## 3.1. Nyilatkozom, hogy csőd-, felszámolási vagy végelszámolási eljárás alatt nem álló jogi személy, jogi személyiség nélküli gazdasági társaság vagy végrehajtási eljárás alatt nem álló egyéni vállalkozó vagyok.
-
-## 3.2. Nyilatkozom, hogy adó-, vám-, egészség-, nyugdíj-, társadalombiztosítási járuléktartozásom nincs.
-
-## 3.3. Nyilatkozom, hogy az érintett termékpályán működő olyan államilag elismert termelői csoport, Beszerzési és Értékesítő Szövetkezet, tenyésztő szervezet, terméktanács vagy szakmai szervezet tagja vagyok, amely nyitott tagsággal működik.
-
-## 3.4. Nyilatkozom, hogy a sertések jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 116/2003. (XI. 18.) FVM rendelet előírásainak eleget tettem.
-
-## 3.5. Nyilatkozom, hogy az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában szabályozott rendezett munkaügyi kapcsolatok feltételeinek megfelelek.
-
-## 3.6. Hozzájárulok ahhoz, hogy a támogatásra való jogosultság ellenőrzése és a támogatás folyósítása érdekében a szükséges mértékig és időtartamban az Adó- és Pénzügyi Ellenőrzési Hivatal, a Vám- és Pénzügyőrség, az Országos Egészségbiztosítási Pénztár, az Országos Nyugdíjbiztosítási Főigazgatóság, illetve azok szervei, továbbá a Magyar Államkincstár Rt. az általam közölt adataimat felhasználják.
-
-## 3.7. Nyilatkozom, hogy a kérelem benyújtásakor agrár- vagy agrár-vidékfejlesztési támogatás jogosulatlan igénybevétele miatt jogerős határozattal megállapított köztartozással nem rendelkezem.
-
-## 3.8. Nyilatkozom, hogy a támogatási kérelmemben szereplő állatjóléti tevékenységeket a támogatási kérelem benyújtásától számított legalább öt éven át folytatom.
-
-## Nyilatkozom, hogy a támogatási kérelmen és a mellékleteken feltüntetett adatok a valóságnak megfelelnek.
-
-## Dátum: ..................................
-
-## ........................................................
-
-## igénylő (cégszerű) aláírása
-
-## Igazolom, hogy a kérelemben feltüntetett támogatási igény megalapozott.
-
-## Dátum: ...................................
-
-## ..........................................................
-
-## állatállományt felügyelő
-
-## kezelő állatorvos
-
-## Mellékletek:
-
-## – A területileg illetékes állategészségügyi hatóság igazolása a 2. § (2) bekezdés d) pontjában előírt feltételek teljesítéséről;
-
-## – Bérhízlaló/bérnevelő esetén a 2. § (6) bekezdésében előírt dokumentumok;
-
-## – Bérhízlaltató/bérneveltető esetén a 2. § (7) bekezdésében előírt dokumentumok;
-
-## – Nagyobb férőhely biztosítása esetén a 3. § (4) bekezdésében előírt dokumentumok;
-
-## – Természetes feltétel biztosítása esetén a 4. § (4) bekezdésében előírt dokumentumok;
-
-## – Fény biztosítása esetén az 5. § (3) bekezdésében előírt dokumentumok;
-
-## – Verekedések, kimarások megelőzése esetén a 6. § (4) bekezdésében előírt dokumentumok;
-
-## – Ivóvíz minőségű víz biztosítása esetén a 7. § (4) bekezdésében előírt dokumentumok;
-
-## – Alom biztosítása esetén a 8. § (4) bekezdésében előírt dokumentumok;
-
-## – Mikroklíma biztosítása esetén a 9. § (3) bekezdésében előírt dokumentumok.
-
-2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^22]
+2. számú melléklet a 140/2007. (XI. 28.) FVM rendelethez[^28]
 
 A takarmányozáshoz használt itatóvizet ivóvíz minőségűnek kell tekinteni, ha az igénylő a támogatási kérelemhez csatolja:
 
@@ -176,4 +74,4 @@ valamint az igénylő nyilatkozatát arról, hogy a víznyerőhely megfelelően 
 
 b) a vízszolgáltató írásos nyilatkozatát arról, hogy az általa szolgáltatott víz ivóvíz minőségű, ha a telepen az állatok vízellátása vezetékes vízhálózatról történik.
 
-[^22]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított szöveg.
+[^28]: A 2. számú mellékletet a 80/2008. (VI. 24.) FVM rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva. A 2. számú melléklet az 56/2009. (IV. 29.) FVM rendelet 3. §-ával megállapított szöveg.
