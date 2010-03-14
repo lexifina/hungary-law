@@ -1,7 +1,8 @@
 6. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^2]
+(2)[^7]
 
-(3) E rendelet 6. §-ának (2) bekezdése a rendelet hatálybalépését követő napon hatályát veszti.
+(3)[^8]
 
-[^2]: A 6. § (2) bekezdése e rendelet 6. § (3) bekezdése alapján hatályát vesztette.
+[^7]: A 6. § (2) bekezdése e rendelet 6. § (3) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § (3) bekezdését a 19/2010. (III. 11.) FVM rendelet 15. §-a hatályon kívül helyezte.

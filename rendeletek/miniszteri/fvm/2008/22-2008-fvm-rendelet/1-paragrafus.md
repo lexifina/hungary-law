@@ -8,4 +8,6 @@ c) támogatási küszöbérték: az R. 5. cikk (1) bekezdésében meghatározott
 
 d) referencia időszak: a 2006/2007. gazdasági év;
 
-e) termelői szervezet: a gyümölcs- és zöldségágazat tekintetében különleges szabályok megállapításáról, a 2001/112/EK és a 2001/113/EK irányelv, valamint a 827/68/EGK, a 2200/96/EK, a 2201/96/EK, a 2826/2000/EK, az 1782/2003/EK és a 318/2006/EK rendelet módosításáról, továbbá a 2202/96/EK rendelet hatályon kívül helyezéséről szóló, 2007. szeptember 26-i 1182/2007/EK tanácsi rendelet 4. és 7. cikkében meghatározott szervezet.
+e)[^1] termelői szervezet: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló („az egységes közös piacszervezésről szóló rendelet”) 2007. október 22-i 1234/2007/EK tanácsi rendelet 122. cikk a) pont (iii) alpontjában meghatározott, valamint a 122. cikk b)–c) pontjában foglaltak szerint létrejött, és a tanácsi rendelet 125b. cikkében meghatározott feltételekkel elismert szervezet;
+
+[^1]: Az 1. § e) pontja a 19/2010. (III. 11.) FVM rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

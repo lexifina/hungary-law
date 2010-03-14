@@ -1,10 +1,8 @@
-## 7. § E rendelet a következő közösségi jogszabályok végrehajtásához szükséges rendelkezéseket állapítja meg:
+## 7. §[^9] E rendelet a következő közösségi jogszabályok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
-a) a Tanács 1782/2003/EK rendelete (2003. szeptember 29.) a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról, továbbá a 2019/93/EGK, 1452/2001/EK, 1453/2001/EK, 1454/2001/EK, 1868/94/EK, 1251/1999/EK, 1254/1999/EK, 1673/2000/EK, 2358/71/EGK és a 2529/2001/EK rendelet módosításáról;
+a) a Tanács 73/2009/EK rendelete (2009. január 19.) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről,
 
-b) a Bizottság 1973/2004/EK rendelete (2004. október 29.) az 1782/2003/EK tanácsi rendelet IV. és IVa. címeiben meghatározott támogatási rendszereket, továbbá a pihentetett terület alapanyag-termelésre való használatát illetően ugyanezen rendelet alkalmazásának részletes szabályozásáról;
-
-c) a Bizottság 796/2004/EK (2004. április 21.) rendelete a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról szóló, 2003. szeptember 29-i 1782/2003/EK tanácsi rendelet által előírt kölcsönös megfeleltetés, moduláció, valamint integrált igazgatási és ellenőrzési rendszer végrehajtására vonatkozó részletes szabályok megállapításáról.
+b) a Bizottság 1122/2009/EK rendelete (2009. november 30.) a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról.
 
 Melléklet a 22/2008. (II. 28.) FVM rendelethez
 
@@ -19,3 +17,5 @@ A támogatási jogosultság kiszámításának módja
 | c | = a termékre vonatkozó támogatási küszöbérték és egységnyi támogatás szorzata |
 
 |  | x = a/b * c * 1,036 |
+
+[^9]: A 7. § a 19/2010. (III. 11.) FVM rendelet 14. § (4) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.

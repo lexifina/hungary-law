@@ -4,4 +4,6 @@ a) a tárgyévben külön jogszabály szerinti egységes területalapú támogat
 
 b) a tárgyévben termelői szervezet tagjai és az ebből eredő, külön jogszabályban foglalt kötelességeiket teljesítették;
 
-c) a referencia időszakban közvetve termelői szervezeten keresztül kapott zöldség-gyümölcs feldolgozóipari támogatás figyelembevételével a 3. §-ban foglaltak alapján kiszámított támogatási jogosultsággal rendelkeznek.
+c)[^2] a referencia időszakban közvetve termelői szervezeten keresztül kapott zöldség-gyümölcs feldolgozóipari támogatás figyelembevételével az e rendelet melléklete alapján kiszámított, az MVH támogatási jogosultságot megállapító döntésével rendelkeznek.
+
+[^2]: A 2. § c) pontja a 19/2010. (III. 11.) FVM rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. § (2) bekezdése alapján a 2010. március 14. napját követően benyújtott támogatási kérelmek esetén kell alkalmazni.
