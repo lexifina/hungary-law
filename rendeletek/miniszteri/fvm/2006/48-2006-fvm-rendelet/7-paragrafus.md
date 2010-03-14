@@ -1,8 +1,8 @@
-## 6. §[^10]
+## 6. §[^12]
 
 7. § (1) E rendelet a kihirdetése napján lép hatályba.
 
-(2)–(3)[^11]
+(2)–(3)[^13]
 
 (4) E rendelet a következő közösségi jogszabályok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -12,5 +12,5 @@
 
 – a Bizottság 659/2006/EK rendelete (2006. április 27.) a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról szóló 1782/2003/EK tanácsi rendelet által előírt kölcsönös megfeleltetés, moduláció, valamint integrált igazgatási és ellenőrzési rendszer végrehajtására vonatkozó részletes szabályok megállapításáról szóló 796/2004/EK rendelet módosításáról.
 
-[^10]: A 6. §-t a 60/2007. (VII. 11.) FVM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^11]: A 7. § (2)–(3) bekezdését a 129/2007. (X. 31.) FVM rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^12]: A 6. §-t a 60/2007. (VII. 11.) FVM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^13]: A 7. § (2)–(3) bekezdését a 129/2007. (X. 31.) FVM rendelet 9. § (1) bekezdése hatályon kívül helyezte.
