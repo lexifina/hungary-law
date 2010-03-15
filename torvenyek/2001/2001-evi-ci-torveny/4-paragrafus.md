@@ -32,7 +32,7 @@ g) a 20/A. § (1) és (2) bekezdéseiben foglaltak figyelembevételével azon in
 
 h) a felnőttképzésben résztvevők adatai elektronikus nyilvántartásának részletes szabályait,
 
-i) – az informatikáért felelős miniszterrel és az oktatásért felelős miniszterrel egyetértésben – a 20/A. § (2) bekezdésében meghatározottakon túl a digitális írástudás megszerzéséhez szükséges ismereteket és kompetenciákat, valamint azon felnőttképzési programok körét, amelyek esetében 240 órát meg nem haladó időtartamú képzés esetében is kötelező a digitális írástudás megszerzése.
+i)
 
 (4) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály a felnőttképzési szakterületen felnőttképzési szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
