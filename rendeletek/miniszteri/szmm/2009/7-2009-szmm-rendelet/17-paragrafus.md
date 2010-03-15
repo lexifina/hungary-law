@@ -1,3 +1,0 @@
-17. § (1) Előfinanszírozás esetén a kedvezményezett a szerződésben meghatározott teljesítési határidőt követő harminc napon belül köteles benyújtani az elszámolást. Tárgyéven túli megvalósítás esetén a szerződésben a teljesítési határidőt az 5. § (2)–(4) bekezdéseiben foglaltak figyelembevételével kell meghatározni.
-
-(2) Az elszámolás maradványösszegét előfinanszírozás és támogatási (program) előleg esetén a kedvezményezett köteles a végső elszámolás benyújtásával egyidejűleg visszautalni az előirányzat javára – a támogatási szerződés számára történő hivatkozással – a támogatási szerződésben meghatározott számlára. A keletkezett maradvány visszautalásáról az elszámolás során a kedvezményezett nyilatkozni köteles.
