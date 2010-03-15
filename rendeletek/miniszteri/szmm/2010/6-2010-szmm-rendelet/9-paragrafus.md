@@ -1,0 +1,5 @@
+## 8. § A pályázati feltételek teljesítése nem jelent jogosultságot a pályázatban megjelölt összegű költségvetési támogatás igénybevételére.
+
+9. § (1) A pályázat elbírálása bírálati bizottság javaslatára, a jogszabályokban rögzített, valamint a pályázati felhívásban közzétett szempontrendszer alapján történik. Ha a bírálati bizottság összetételét jogszabály nem állapítja meg vagy a miniszter ettől eltérően nem rendelkezik, a bírálati bizottság tagjait a kötelezettségvállaló jelöli ki, illetve kéri fel. A beérkezett pályázatokat a döntési javaslat megtétele céljából a bírálati bizottság részére a kötelezettségvállaló készíti elő, a pályázat benyújtási határidejét – hiánypótlás esetén a hiánypótlásra megállapított határidő leteltét – követő 10 napon belül.
+
+(2) A bírálati bizottság a pályázatokkal kapcsolatosan kialakított szakmai álláspontjára figyelemmel köteles a döntési javaslatát a pályázat benyújtási határidejétől – hiánypótlás esetén a hiánypótlásra megállapított határidő lejártának napjától – számított 30 napon belül elkészíteni.
