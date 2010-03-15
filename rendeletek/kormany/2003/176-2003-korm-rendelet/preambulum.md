@@ -1,1 +1,0 @@
-A Kormány a honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Hvt.) 8. §-ának (5) bekezdésében, valamint a 260. §-ának b), d) és e) pontjában foglalt felhatalmazás alapján a befogadó nemzeti támogatás egyes feladatainak végrehajtására a következőket rendeli el:
