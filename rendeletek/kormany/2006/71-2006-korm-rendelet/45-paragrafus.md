@@ -1,4 +1,4 @@
-## A honvédelmi miniszter, a miniszterek és a kormányhivatalok vezetőinek honvédelmi igazgatási feladatai[^33]
+## A honvédelmi miniszter, a miniszterek és a kormányhivatalok vezetőinek honvédelmi igazgatási feladatai[^34]
 
 ## 45. § A honvédelmi miniszter
 
@@ -10,4 +10,4 @@ c) a minőség- (megfelelőség-) tanúsításról és az akkreditálásról sz�
 
 d) együttműködik a Magyar Szabványügyi Testülettel és az érdekelt miniszterekkel a katonai szabványosítás fő irányainak meghatározásában, a szabványok kidolgozásában.
 
-[^33]: A 45. § előtti alcím a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^34]: A 45. § előtti alcím a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.

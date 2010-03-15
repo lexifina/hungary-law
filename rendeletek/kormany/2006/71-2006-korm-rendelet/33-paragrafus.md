@@ -1,4 +1,4 @@
-## 32/E. §[^28] A honvédelmi miniszter megnevezésének rövidítéseként a „HM” megjelölést kell alkalmazni.
+## 32/E. §[^29] A honvédelmi miniszter megnevezésének rövidítéseként a „HM” megjelölést kell alkalmazni.
 
 ## IV. Fejezet
 
@@ -28,4 +28,4 @@ i) megőrzi a részére átadott honvédelmi rendeltetésű eszközöket, berend
 
 j) ellátja mindazon feladatokat, amelyeket – a Hvt. 44. §-ára, 56. §-a (1) bekezdésének d) pontjára figyelemmel – részére jogszabály, valamint az irányításáért felelős igazgatási szerv vezetője meghatároz.
 
-[^28]: A 32/E. §-t a 284/2008. (XI. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^29]: A 32/E. §-t a 284/2008. (XI. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be.

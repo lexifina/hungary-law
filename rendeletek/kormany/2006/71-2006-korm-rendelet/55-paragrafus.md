@@ -2,7 +2,7 @@
 
 a) a HM Védelmi Hivatal vezetőjét,
 
-b)[^40] a katasztrófák elleni védekezésért felelős miniszter által kijelölt védelmi igazgatási feladatokat ellátó szervezeti egység vezetőjét,
+b)[^41] a katasztrófák elleni védekezésért felelős miniszter által kijelölt védelmi igazgatási feladatokat ellátó szervezeti egység vezetőjét,
 
 c) gazdaságfelkészítési tárgyú napirend esetén a Gazdasági és Közlekedési Minisztérium képviselőjét,
 
@@ -10,7 +10,7 @@ d) a megyei, fővárosi védelmi bizottság illetékességi területén működ�
 
 e) a megyei, fővárosi védelmi bizottság elnökének helyettesítésére kijelölt alelnököt, illetve főpolgármester-helyettest,
 
-f)[^41] a Bevándorlási és Állampolgársági Hivatal területileg illetékes vezetőjét,
+f)[^42] a Bevándorlási és Állampolgársági Hivatal területileg illetékes vezetőjét,
 
 g) a megyei, fővárosi védelmi bizottság elnökének döntésétől függően azon honvédelemben közreműködő szerv vezetőjét, amelynek feladat- és hatáskörét a megyei, fővárosi védelmi bizottság napirendjén szereplő, vagy napirenden kívül megvitatni kívánt kérdés érinti,
 
@@ -22,5 +22,5 @@ h) a Honvéd Vezérkar főnöke által a megyei, fővárosi védelmi bizottságg
 
 (3) A megyei, fővárosi védelmi bizottság illetékességi területén működő, több azonos hatáskörű rendvédelmi szerv közül a honvédelmi feladatok koordinálásáért felelős szervet az országos parancsnok (vezető) jelöli ki.
 
-[^40]: Az 55. § (1) bekezdésének b) pontja a 344/2006. (XII. 23.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 458. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^41]: Az 55. § (1) bekezdésének f) pontja a 344/2006. (XII. 23.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^41]: Az 55. § (1) bekezdésének b) pontja a 344/2006. (XII. 23.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 458. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: Az 55. § (1) bekezdésének f) pontja a 344/2006. (XII. 23.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

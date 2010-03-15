@@ -8,7 +8,7 @@ a) a megyei közgyűlés elnöke, a fővárosban a főpolgármester,
 
 b) a hadköteles bejelentett lakóhelye szerint illetékes községi, városi, megyei jogú városi, fővárosi kerületi polgármester,
 
-c)[^29] a megyei (fővárosi) rendőrfőkapitány és a hadköteles bejelentett lakóhelye szerint illetékes helyi rendőri szerv vezetője,
+c)[^30] a megyei (fővárosi) rendőrfőkapitány és a hadköteles bejelentett lakóhelye szerint illetékes helyi rendőri szerv vezetője,
 
 d) a sorozásra kijelölt orvosokat, pszichológusokat foglalkoztató, illetve a sorozással kapcsolatos szakorvosi, pszichológiai vizsgálatok végrehajtásában érintett egészségügyi intézmények vezetői
 
@@ -16,4 +16,4 @@ d) a sorozásra kijelölt orvosokat, pszichológusokat foglalkoztató, illetve a
 
 (2) A tájékoztató tartalmazza mindazokat a feladatokat, amelyek teljesítésében az érintett szervnek kell közreműködnie, illetve azokat a tényeket, amelyekről tudomással kell bírnia.
 
-[^29]: A 38. § (1) bekezdésének c) pontja a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának n) pontja szerint módosított szöveg.
+[^30]: A 38. § (1) bekezdésének c) pontja a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának n) pontja szerint módosított szöveg.

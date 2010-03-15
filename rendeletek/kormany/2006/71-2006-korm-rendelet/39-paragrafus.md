@@ -1,6 +1,6 @@
 ## V. Fejezet
 
-## A MINISZTÉRIUMOK ÉS A KORMÁNYHIVATALOK HONVÉDELMI TEVÉKENYSÉGE[^30]
+## A MINISZTÉRIUMOK ÉS A KORMÁNYHIVATALOK HONVÉDELMI TEVÉKENYSÉGE[^31]
 
 ## Az irányítás és vezetés rendje
 
@@ -8,7 +8,7 @@
 
 (2) Az irányítási és vezetési rendszer részei
 
-a)[^31] a honvédelem központi irányítását végző szervek, a minisztériumok és a kormányhivatalok,
+a)[^32] a honvédelem központi irányítását végző szervek, a minisztériumok és a kormányhivatalok,
 
 b) a területi és helyi védelmi igazgatási szervek,
 
@@ -18,5 +18,5 @@ d) a Kormány által állandó vagy ideiglenes jelleggel létrehozott testülete
 
 (3) A (2) bekezdésben felsorolt szerveknél a honvédelemmel foglalkozó sajátos szervezetet kell létrehozni.
 
-[^30]: Az V. Fejezet címe a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
-[^31]: A 39. § (2) bekezdésének a) pontja a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^31]: Az V. Fejezet címe a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 39. § (2) bekezdésének a) pontja a 344/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
