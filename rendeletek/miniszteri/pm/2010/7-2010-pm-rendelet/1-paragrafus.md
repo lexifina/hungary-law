@@ -1,0 +1,3 @@
+1. § (1) A felszámoló díjának a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 59. § (5) bekezdésében meghatározott összegre való kiegészítése esetén a Fővárosi Bíróság Gazdasági Hivatala (a továbbiakban: Gazdasági Hivatal) – a felszámolást lefolytató bíróságnak a felszámoló nevéről, székhelyéről, számlaszámáról és a részére megállapított összegről szóló értesítése alapján – összesített kimutatást készít.
+
+(2) Az összesített kimutatásban – negatív tételként – külön soron kell feltüntetni a Cstv. 49/D. § (1) bekezdése alapján kezelt pénzösszeget.
