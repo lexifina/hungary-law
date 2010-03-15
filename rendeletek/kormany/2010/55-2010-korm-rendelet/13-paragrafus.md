@@ -1,0 +1,1 @@
+## 12. § A befogadó nemzeti támogatás tervezése során az egyetértési nyilatkozatot, a technikai megállapodást, az összhaderőnemi, haderőnemi végrehajtási megállapodást, valamint a befogadó nemzeti támogatás végrehajtására vonatkozó intézkedési terveket a nemzeti érdekek, valamint a műveleti és anyagi NATO- szabványok együttes figyelembevételével kell előkészíteni.

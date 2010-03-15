@@ -1,0 +1,1 @@
+## 19. § A NATO-művelet befogadó nemzeti támogatására vonatkozó megállapodásokat, részletes szükségleti jegyzékeket csak a NATO műveleti parancsnokkal, a befogadó állam és az érintett küldő állam képviselőivel történt egyeztetést követően írásban lehet módosítani.

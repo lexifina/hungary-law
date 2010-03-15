@@ -1,0 +1,5 @@
+16. § (1) A Kormány tagja, a területi és helyi védelmi igazgatási szervek a befogadó nemzeti támogatásra vonatkozó igény gazdasági és anyagi szolgáltatás elrendelésével történő biztosításának tervezése érdekében – adatszolgáltatás céljából – megkereséssel fordulhatnak a hadkiegészítő parancsnokságokhoz.
+
+(2) A megkeresés esetén a hatáskörrel rendelkező igénybevételi hatóság a megkeresés tartalmának megfelelően egyszeri adatszolgáltatást írhat elő a gazdasági és anyagi szolgáltatásra kötelezettek részére.
+
+(3) A megkeresett hadkiegészítő parancsnokság a megkereső szerv részére – a megkeresés tartalmának megfelelően – adatot szolgáltat az egyszeri adatszolgáltatás alapján pontosított nyilvántartásában szereplő, nemzeti igénybevételi célú kijelölés hatálya alatt nem álló technikai eszközökről, ingatlanokról és szolgáltatásokról. Az adatszolgáltatást a védelmi igazgatás zártkörű informatikai rendszerén, elektronikus úton kell teljesíteni. Az adatszolgáltatása során személyes adatok átadására nem kerülhet sor.
