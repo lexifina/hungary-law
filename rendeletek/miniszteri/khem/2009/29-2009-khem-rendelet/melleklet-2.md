@@ -76,13 +76,7 @@
 
 ## fgFtA: a földgáz aktuális ára, Ft/MJ
 
-## fgFtT: tárolói készletérték
-
-## a negyedik negyedévre a szeptember 30-ra becsült tárolói készletérték {figyelembe véve az előző gázévre az egyetemes szolgáltatás érdekében (a szolgáltatónak vagy jogelődjének) betárolt földgáz beszerzési értékét, valamint a betároláshoz tartozó szállítási és betárolási költséget (Ft/MJ)};
-
-## az első negyedévre az ármegállapítást megelőző szeptember 30-i szintre korrigált tárolói készletérték (Ft/MJ);
-
-## a tárolt gáz értékének nyilvántartása a tárolóban elhelyezett gáz beszerzéséhez kapcsolódó számlafizetés napja előtti második munkanapot megelőző 5 munkanapon érvényes átlagos MNB hivatalos devizaárfolyam és a likviditási tényező szorzata (Ft/USD)
+## fgFtT: tárolói készletérték a negyedik negyedévre a szeptember 30-ra becsült tárolói készletérték; az első negyedévre az ármegállapítást megelőző szeptember 30-i szintre korrigált tárolói készletérték (Ft/MJ); a tárolt gáz értékének nyilvántartása a tárolóban elhelyezett gáz beszerzéséhez kapcsolódó számlafizetés napja előtti második munkanapot megelőző 5 munkanapon érvényes átlagos MNB hivatalos devizaárfolyam és a likviditási tényező szorzata (Ft/USD)
 
 ## fo: az 1%-os kéntartalmú fűtőolaj havi átlagárainak egyszerű számtani középértéke az aktuális naptári negyedévet megelőző 9 naptári hónap során USD/t-ban (3 tizedes értékre kerekítve), USD/t
 
@@ -118,6 +112,6 @@
 
 ## zh: a következő gázévre érvényes árrés-megállapítási javaslatban figyelembe veendő, hibakorrekciós tényezővel korrigált inflációkövetési tényező
 
-2. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^20]
+2. melléklet a 29/2009. (VI. 25.) KHEM rendelethez[^22]
 
-[^20]: A 2. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be.
+[^22]: A 2. mellékletet újonnan a 72/2009. (XII. 7.) KHEM rendelet 6. §-a iktatta be.
