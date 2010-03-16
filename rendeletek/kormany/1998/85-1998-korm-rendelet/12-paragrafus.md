@@ -1,4 +1,4 @@
-## 11/B. §[^37] Az Eximbank a garanciabeváltás kapcsán a jogosultat megillető összeget határidős beszedési megbízás benyújtásával igényli a központi költségvetésből.
+## 11/B. §[^37]
 
 12. §[^38] E rendelet a kihirdetését követő 5. napon lép hatályba.
 
@@ -58,6 +58,6 @@ b) Az adós státusát illető vita esetén a közreműködő ECA-k a rendelkez�
 
 c) Amennyiben a ECA-k az információkéréstől számított 10 munkanapon belül nem tudnak megállapodni az adós státusáról, a közreműködő ECA-k az ügyet a vonatkozó információval együtt a Bizottság tudomására hozzák, amely a reá vonatkozó eljárásnak megfelelően határozatot hoz.
 
-[^37]: A 11/B. §-t a 304/2005. (XII. 25.) Korm. rendelet 12. §-a iktatta be. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után megkötött exporthitel-, pénzkölcsön- és garancia-szerződésekre irányadó.
+[^37]: A 11/B. §-t a 304/2005. (XII. 25.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 50/2010. (III. 9.) Korm. rendelet 21. § (2) bekezdése.
 [^38]: A 12. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1280. pontja szerint módosított szöveg.
 [^39]: A mellékletet a 304/2005. (XII. 25.) Korm. rendelet 13. §-a iktatta be.
