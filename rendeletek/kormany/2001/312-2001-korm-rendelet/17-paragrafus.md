@@ -1,8 +1,18 @@
 ## A kárrendezés
 
-17. § (1)[^52] Devizakövetelés biztosítása esetén – amennyiben a kárfizetés forintban történik – a Mehib Rt. a kárfizetést az ügyletet lebonyolító hitelintézet által a kárfizetési türelmi idő lejártának, ennek hiányában a követelés esedékességének napján alkalmazott devizavételi árfolyamon teljesíti.
+17. §[^70] (1) Devizakövetelés biztosítása esetén – amennyiben a kárfizetés forintban történik – a Mehib Rt. a kárfizetést az ügyletet lebonyolító hitelintézet által a kárfizetési türelmi idő lejártának, ennek hiányában a követelés esedékességének napján alkalmazott devizavételi árfolyamon állapítja meg.
 
-(2) A Mehib Rt. kárfizetési kötelezettsége a kárfizetési türelmi idő lejártakor áll be, feltéve, hogy a biztosított eleget tett a 18. § (2) bekezdésében és a 20. §-ban előírt kötelezettségeinek. Ha a kárfizetési türelmi idő lejártáig a biztosított a kár elbírálásához a Mehib Rt. által szükségesnek tartott iratokat a Mehib Rt. részére nem adta át, a kárfizetési kötelezettség csak az iratok átadásától számított 30 napon belül áll be.
+(2) A biztosított a kár megtérítésére abban az esetben jogosult, ha a 18. § (2) bekezdésben és a 20. §-ban előírt kötelezettségeinek – a (3) és (5) bekezdésben foglaltak kivételével – eleget tett. A Mehib Rt. a kárfizetési kötelezettségét
+
+a) a b)–c) pontban meghatározott kivétellel a kárfizetési türelmi idő lejártát követő,
+
+b) a 15. § (3) bekezdésben meghatározott esetekben a kárelbíráláshoz szükséges utolsó dokumentum beérkezését követő,
+
+c) ha a kárfizetési türelmi idő lejártáig a biztosított a kárelbíráláshoz szükséges valamennyi dokumentumot nem adta át, a legutolsó irat átadásától számított
+
+30 napon belül teljesíti.
+
+Kárfizetési türelmi idő nem kerül alkalmazásra az első kárfizetést követően, ha a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint – több időpontban – történik a kárfizetés.
 
 (3) A Mehib Rt. mentesül a kárfizetési kötelezettség alól, ha
 
@@ -12,7 +22,7 @@ b) a biztosított a biztosítási szerződésből eredő kötelezettségeit megs
 
 c) a biztosított a biztosított ügylethez kapcsolódóan bűncselekményt vagy jogszabálysértést követ el;
 
-d) a biztosított és az adós vagy kezes között a külkereskedelmi szerződés vagy hitelmegállapodás teljesítésével kapcsolatban jogvita van, az adós vagy a kezes a követelés jogalapját vagy összegszerűségét vitatja, mindaddig amíg a vitát a külkereskedelmi vagy hitelszerződésben kikötött bíróság, választottbíróság, ennek hiányában az irányadó jog szerinti bíróság jogerős ítélete vagy határozata nem zárja le a biztosított javára. Ebben az esetben a kárfizetés mértéke nem haladhatja meg a biztosított javára megítélt összeget;
+d) a biztosított és az adós vagy kezes között a külkereskedelmi szerződés vagy hitelmegállapodás teljesítésével kapcsolatban jogvita van, az adós vagy a kezes a követelés jogalapját vagy összegszerűségét vitatja mindaddig, amíg a vitát a külkereskedelmi vagy hitelszerződésben kikötött bíróság, választottbíróság, ennek hiányában az irányadó jog szerinti bíróság jogerős ítélete vagy határozata nem zárja le a biztosított javára. Ebben az esetben a kárfizetés mértéke nem haladhatja meg a biztosított javára megítélt összeget;
 
 e) ha a kár közvetve vagy közvetlenül az alábbi okok miatt következett be:
 
@@ -22,15 +32,22 @@ eb) olyan rendelkezés, előírás a biztosított kereskedelmi, hitelszerződés
 
 ec) a biztosítási szerződés megkötése után a biztosított és az adós között létrejött olyan megállapodás, amely a követelés kifizetését késlelteti vagy megakadályozza,
 
-ed) szállítói hitel esetében az alvállalkozók, társvállalkozók, más szállítók nem teljesítik a szerződésben foglalt kötelezettségeiket, feltéve hogy ez nem a 5. § d)–j) pontjaiban meghatározott biztosítási események következménye.
+ed) szállítói hitel esetében az alvállalkozók, társvállalkozók, más szállítók nem teljesítik a szerződésben foglalt kötelezettségeiket, feltéve, hogy ez nem az 5. § d)–j) pontjaiban meghatározott biztosítási események következménye.
 
-(4)[^53]
+(4) A Mehib Rt. a 19. §-ban meghatározott általános szerződési feltételeiben kizárja fizetési kötelezettségét, ha a kár közvetve vagy közvetlenül az alábbi okok miatt következett be:
 
-(5)[^54] A biztosított követelés egészének egyösszegű azonnali esedékessé válása esetén a Mehib Rt. jogosult a kárt a biztosított hitelszerződés törlesztő-tervében meghatározott eredeti esedékességek szerint megállapítani és annak ütemezése szerint kifizetni a biztosított részére.
+a) a biztosított vagy a nevében eljáró személy cselekménye vagy mulasztása,
 
-(6)[^55] A Mehib Rt. a kárfizetéshez szükséges összeget határidős beszedési megbízás benyújtásával igényli a központi költségvetésből.
+b) olyan rendelkezés, előírás a biztosított kereskedelmi vagy hitelszerződésben, vagy bármely a bankgaranciával, egyéb biztosítékokkal kapcsolatos dokumentumokban, amely a biztosított jogait korlátozza,
 
-[^52]: A 17. § (1) bekezdése a 48/2003. (IV. 3.) Korm. rendelet 9. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
-[^53]: A 17. § (4) bekezdését a 48/2003. (IV. 3.) Korm. rendelet 9. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 303/2005. (XII. 25.) Korm. rendelet 19. § (2) bekezdése.
-[^54]: A 17. § (5) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó. A rendelkezés alkalmazására lásd még e módosító rendelet 20. § (2) bekezdését.
-[^55]: A 17. § (6) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó. A rendelkezés alkalmazására lásd még e módosító rendelet 20. § (2) bekezdését.
+c) a biztosítási szerződés megkötése után a biztosított és az adós olyan megállapodása, amely a követelés kifizetését késlelteti vagy megakadályozza,
+
+d) szállítói hitel esetében az alvállalkozók, társvállalkozók, más szállítók által a szerződésben foglalt kötelezettségeiknek nemteljesítése, feltéve, hogy ez nem az 5. § d)–j) pontjaiban meghatározott biztosítási események következménye.
+
+(5) Ha az adós vagy a kezes a követelés jogalapját vagy összegszerűségét vitatja, a Mehib Rt. mindaddig elhalasztja a kárfizetést, amíg a vitát a külkereskedelmi szerződésben vagy a hitelmegállapodásban kikötött választottbíróság, ezek hiányában az irányadó jog szerinti bíróság jogerős ítélete vagy határozata nem zárja le a biztosított javára. A Mehib Rt. a kárfizetést a választottbíróság vagy bíróság jogerős ítéletének vagy határozatának kézhezvételétől számított 30 napon belül teljesíti.
+
+(6) A biztosított követelés egészének egyösszegű azonnali esedékessé válása esetén a Mehib Rt. jogosult a kárt a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint megállapítani.
+
+(7) Az (5) bekezdésben foglalt esetekben a Mehib Rt. a kárfizetést az eredeti esedékességek napját követő 30 napon belül teljesíti, feltéve, hogy a biztosított a törlesztési ütemtervében meghatározott eredeti esedékességi időpontokig minden esetben eleget tett a 18. § (2) bekezdésben és a 20. §-ban előírt kötelezettségeinek.
+
+[^70]: A 17. § az 50/2010. (III. 9.) Korm. rendelet 15. §-ával megállapított szöveg.

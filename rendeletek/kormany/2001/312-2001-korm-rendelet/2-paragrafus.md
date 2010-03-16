@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya az Etv. 3. §-ának (3)–(4) bekezdése szerinti kockázatok Magyar Exporthitel Biztosító Részvénytársaság (a továbbiakban: Mehib Rt.) által történő biztosítására terjed ki.
+## 1. §[^1] E rendelet hatálya az Etv. 3. § (4)–(7) bekezdése szerinti kockázatok Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság (a továbbiakban: Mehib Rt.) által történő biztosítására és viszontbiztosítására terjed ki.
 
 2. § (1) E rendelet alkalmazásában
 
@@ -6,36 +6,46 @@ a) állami adós: a központi kormányzat, a jegybank (a továbbiakban együtt: 
 
 b) magánadós: minden olyan szervezet, amely nem tartozik az a) pontba;
 
-c)[^1] külföldi vállalkozás: olyan külföldi székhelyű gazdasági társaság, amely vállalkozás létrehozásával a biztosított e vállalkozásban közvetlenül, illetve más hazai és külföldi vállalkozása(i) útján közvetetten tőkebefektetéssel rendelkezik, vagy amelybe tőkebefektetést kíván eszközölni;
+c)[^2] külföldi vállalkozás: olyan külföldi székhelyű gazdasági társaság, amely vállalkozás létrehozásával a belföldi gazdálkodó szervezet e vállalkozásban közvetlenül vagy más hazai és külföldi vállalkozása útján közvetetten tőkebefektetéssel rendelkezik, vagy amelybe tőkebefektetést kíván eszközölni;
 
-d)[^2] külföldi vállalkozásba befektetett tőke és annak hozama:
+d)[^3] külföldi vállalkozásba befektetett tőke és annak hozama:
 
 da) külföldi vállalkozásba befektetett tőke: a c) pontban meghatározott külföldi vállalkozás javára teljesített pénzbeli befizetés, nem pénzbeli betét,
 
 db) külföldi vállalkozásba befektetett tőke hozama: a c) pontban meghatározott külföldi vállalkozásból származó osztalék, nyereségrészesedés, tulajdonosi hitel miatt felmerült kamat, prémium, továbbá bármilyen, a külföldi vállalkozás székhelye szerinti ország joga alapján harmadik országba irányuló tőkebefektetésből származó jövedelem;
 
-e)[^3] idegen tartalom: azok a termékek, illetve szolgáltatások, amelyeket külföldi beszállító, illetve alvállalkozó szállít, vagy nyújt az exportirányú külkereskedelmi szerződés vagy fővállalkozói szerződés teljesítéséhez;
+e)[^4] idegen tartalom: azok a termékek, illetve szolgáltatások, amelyeket külföldi beszállító, illetve alvállalkozó szállít, vagy nyújt az exportirányú külkereskedelmi szerződés vagy fővállalkozói szerződés teljesítéséhez;
 
-f)[^4] állami adós által vállalt szerződéses kötelezettség: a 4. § (1) bekezdésének e) pontjában meghatározott szerződéseket érintően a harmadik országba irányuló tőkebefektetéshez kacsolódóan az a) pontban foglalt meghatározásnak megfelelő harmadik országbeli állami adós szerződő által szerződésben vállalt kötelezettsége;
+f)[^5] állami adós által vállalt szerződéses kötelezettség: a 4. § (1) bekezdésének e) pontjában meghatározott szerződéseket érintően a harmadik országba irányuló tőkebefektetéshez kacsolódóan az a) pontban foglalt meghatározásnak megfelelő harmadik országbeli állami adós szerződő által szerződésben vállalt kötelezettsége;
 
-g)[^5] bankgarancia: ajánlati, előleg-visszafizetési, teljesítési, jólteljesítési, szavatossági bankgarancia;
+g)[^6] bankgarancia: ajánlati, előleg-visszafizetési, teljesítési, jólteljesítési, szavatossági bankgarancia;
 
-h)[^6] export: olyan termékértékesítés vagy szolgáltatásnyújtás, amelyet a gazdálkodó szervezet a számviteli szabályok szerint exportárbevételként számol el azzal, hogy a szolgáltatás nyújtás teljesítésének helye a szerződésben – az általános forgalmi adóról szóló 1992. évi LXXIV. törvény előírásaitól függetlenül meghatározott – egyértelműen rögzített, a magyar államhatáron kívüli azon terület (külföld), ahol a vevő a szolgáltatást igénybe veszi, élvezi;
+h)[^7] export: olyan termékértékesítés vagy szolgáltatásnyújtás, amelyet a gazdálkodó szervezet a számviteli szabályok szerint exportárbevételként számol el azzal, hogy a szolgáltatás nyújtás teljesítésének helye a szerződésben – az általános forgalmi adóról szóló törvény előírásaitól függetlenül meghatározott – egyértelműen rögzített, a magyar államhatáron kívüli azon terület (külföld), ahol a vevő a szolgáltatást igénybe veszi, élvezi;
 
-i)[^7] szállítói hitel: olyan tagállami származású áruk vagy szolgáltatások exportjáról szóló, egy vagy több szállító és egy vagy több vevő közötti kereskedelmi szerződésre vonatkozik, ahol a vevő(k) vállalja (vállalják), hogy a szállító(k)nak készpénzzel vagy hitelmegállapodás keretében fizet(nek);
+i)[^8] szállítói hitel: olyan tagállami származású áruk vagy szolgáltatások exportjáról szóló, egy vagy több szállító és egy vagy több vevő közötti kereskedelmi szerződésre vonatkozik, ahol a vevő(k) vállalja (vállalják), hogy a szállító(k)nak készpénzzel vagy hitelmegállapodás keretében fizet(nek);
 
-j)[^8] vevőhitel: olyan kereskedelmi szerződést finanszírozó, egy vagy több pénzügyi intézmény és egy vagy több kölcsönvevő közötti, egy vagy több tagállamból származó termékek és szolgáltatások exportjáról szóló hitelszerződésre vonatkozik, ahol a hitelintézet(ek) vállalja (vállalják), hogy a szállító(k)nak a kölcsön alapjául szolgáló ügylet alapján készpénzben fizet(nek) a vevő(k)/kölcsönvevő(k) nevében, míg a vevő(k)/kölcsönvevő(k) lejáratkor visszafizetik azt a hitelintézet(ek)nek.
+j)[^9] vevőhitel: olyan kereskedelmi szerződést finanszírozó, egy vagy több pénzügyi intézmény és egy vagy több kölcsönvevő közötti, egy vagy több tagállamból származó termékek és szolgáltatások exportjáról szóló hitelszerződésre vonatkozik, ahol a hitelintézet(ek) vállalja (vállalják), hogy a szállító(k)nak a kölcsön alapjául szolgáló ügylet alapján készpénzben fizet(nek) a vevő(k)/kölcsönvevő(k) nevében, míg a vevő(k)/kölcsönvevő(k) lejáratkor visszafizetik azt a hitelintézet(ek)nek.
+
+k)[^10] nemzeti érdekű fedezetnyújtás: exporthitel biztosítás keretében a Mehib Rt. olyan kockázatvállalása, amelynél a fedezet az ügyletnek a biztosított által benyújtott dokumentumokkal alátámasztható stratégiai jelentősége vagy meghatározott nemzetgazdasági hatásai alapján terjed ki az idegen tartalomra;
+
+l)[^11] viszontbiztosítás: olyan külföldi székhelyű hitelbiztosító által vállalt kockázat egy részének vagy egészének szerződésben meghatározott feltételek alapján, díjfizetés ellenében történő átvállalása, amely hitelbiztosító a székhelye szerinti állam számlájára végez hitelbiztosítási tevékenységet;
+
+m)[^12] OECD: Gazdasági és Együttműködési Fejlesztési Szervezet.
 
 (2) Az állami adósra vonatkozó előírásokat kell alkalmazni az (1) bekezdés b) pontja szerinti szervezet esetében, ha a kötelezettségeiért az állami adós, mint kezes vállal felelősséget.
 
-(3)[^9] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
+(3)[^13] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
 
-[^1]: A 2. § (1) bekezdésének c) pontja a 303/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^2]: A 2. § (1) bekezdésének d) pontja a 303/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^3]: A 2. § (1) bekezdésének e) pontját a 48/2003. (IV. 3.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
-[^4]: A 2. § (1) bekezdésének f) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^5]: A 2. § (1) bekezdésének g) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^6]: A 2. § (1) bekezdésének h) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^7]: A 2. § (1) bekezdésének i) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^8]: A 2. § (1) bekezdésének j) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
-[^9]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^1]: Az 1. § az 50/2010. (III. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés c) pontja az 50/2010. (III. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdésének d) pontja a 303/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^4]: A 2. § (1) bekezdésének e) pontját a 48/2003. (IV. 3.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
+[^5]: A 2. § (1) bekezdésének f) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^6]: A 2. § (1) bekezdésének g) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^7]: A 2. § (1) bekezdésének h) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdésének i) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^9]: A 2. § (1) bekezdésének j) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^10]: A 2. § (1) bekezdés k) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^11]: A 2. § (1) bekezdés l) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^12]: A 2. § (1) bekezdés m) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
