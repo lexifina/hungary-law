@@ -4,7 +4,7 @@ a) kiállítja az igazolványt, azt tulajdonosának az átvétel igazolása mell
 
 b) ha hivatalos tudomása van a kicserélés alapjául szolgáló körülmény bekövetkezéséről, hivatalból, egyébként a tulajdonos bejelentése alapján gondoskodik az igazolvány kicseréléséről, amennyiben annak adataiban változás történt, az igazolvány megrongálódott, vagy érvényességének időtartama lejárt,
 
-c) az igazolványt bevonja, ha tulajdonosának végrehajtói, végrehajtó-helyettesi, végrehajtójelölti szolgálata megszűnt, ha tulajdonosát hivatalából felfüggesztették, vagy szolgálata szünetel, az igazolványban feltüntetett adatokban változás történt, az igazolvány megrongálódott, vagy a kiállításától számítva 5 év eltelt,
+c)[^40] az igazolványt bevonja, ha tulajdonosának végrehajtói, végrehajtó-helyettesi, végrehajtójelölti szolgálata megszűnt, végrehajtói kinevezése érvénytelenségét a miniszter megállapította, ha tulajdonosát hivatalából felfüggesztették, vagy szolgálata szünetel, az igazolványban feltüntetett adatokban változás történt, az igazolvány megrongálódott, vagy a kiállításától számítva 5 év eltelt,
 
 d) nyilvántartást vezet a kiállított igazolványokról,
 
@@ -14,6 +14,7 @@ f) gondoskodik a bevont igazolvány megsemmisítéséről.
 
 (2) Az Országos Igazságszolgáltatási Tanács Hivatala és a kamara beszerzi az igazolvány kiállításához szükséges technikai felszereléseket, a megfelelő számú kitöltendő igazolványt, és a (3) bekezdésben foglaltak kivételével ellátja a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendeletben a biztonsági okmány kibocsátója részére előírt feladatokat. Az Országos Igazságszolgáltatási Tanács Hivatala az igazolvány kiállításához szükséges felszereléseket és igazolványokat megküldi a kiállítónak.
 
-(3)[^33] A minisztérium az igazolvány előállítását megelőzően lefolytatja a Nemzetbiztonsági Szakszolgálatnál a szükséges engedélyeztetési eljárást.
+(3)[^41] A minisztérium az igazolvány előállítását megelőzően lefolytatja a Nemzetbiztonsági Szakszolgálatnál a szükséges engedélyeztetési eljárást.
 
-[^33]: Az 57. § (3) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^40]: Az 57. § (1) bekezdés c) pontja a 6/2010. (III. 12.) IRM rendelet 6. § h) pontja szerint módosított szöveg.
+[^41]: Az 57. § (3) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

@@ -1,4 +1,4 @@
-## 47–54. §[^32]
+## 47–54. §[^39]
 
 ## V. Fejezet
 
@@ -12,4 +12,4 @@
 
 (3) Az igazolvány A/7 méretű PES-fólia között lévő papírkártya, amely a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 2. számú mellékletében meghatározott ,,B'' védelmi kategóriába tartozik.
 
-[^32]: A 47–54. §-okat és alcímeiket a 23/2005. (XI. 10.) IM rendelet 4. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^39]: A 47–54. §-okat és alcímeiket a 23/2005. (XI. 10.) IM rendelet 4. § (2) bekezdésének b) pontja hatályon kívül helyezte.

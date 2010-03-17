@@ -1,18 +1,17 @@
-10. § (1) A pályázatot a kamara elnökéhez kell benyújtani, és mellékelni kell hozzá
+10. §[^9] (1) A pályázatot a kamara elnökéhez kell benyújtani, és mellékelni kell hozzá
 
 a) a kinevezési feltételek fennállását igazoló okiratok eredeti példányát vagy hiteles másolatát,
 
-b) részletes szakmai önéletrajzot,
+b) a részletes szakmai önéletrajzot,
 
-c) pályamunkát,
+c) a pályamunkát.
 
-d) az arról szóló nyilatkozatot, hogy a pályázó hozzájárul a bűnügyi nyilvántartást végző szerv megkereséséhez és a nyilvántartás teljes köréről történő adatszolgáltatáshoz.
+(2) Az (1) bekezdésben meghatározottakon túl a Vht. 233. § (2) bekezdés a)–d) pontjában foglalt feltételek igazolása céljából kiállított hatósági bizonyítvánnyal összefüggésben a pályázathoz mellékelni kell
 
-(2) A pályamunka a választott tárgykör szakmai szempontok szerinti írásbeli kidolgozása, amely a pályázónak a tárgykörre vonatkozó elméleti felkészültségéről és a gyakorlatban való alkalmazásának ismereteiről tanúskodik.
+a) a hatósági bizonyítvány kiadása iránti eljárásért fizetendő igazgatási szolgáltatási díj megfizetésének igazolását, vagy
 
-(3)[^7] A miniszter az Országos Igazságszolgáltatási Tanács Hivatalának és a kamarának a javaslatait beszerezve tájékoztatót ad ki azoknak a témaköröknek a felsorolásáról, amelyek tárgyában pályamunka készíthető a pályázatra.
+b) ha a hatósági bizonyítvány kiadása iránti kérelmét a pályázó a kamara elnöksége adatigénylésének kezdeményezése útján terjeszti elő, a bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás rendjéről, valamint a bűnügyi nvilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjéről szóló 22/2009. (VI. 19.) IRM rendelet 6. § (1)–(3) és (6) bekezdésében meghatározott adatokat és nyilatkozatokat.
 
-(4)[^8] A pályamunka terjedelme legalább 48 000 karakter, amelybe nem számít bele a fedlap, a tartalomjegyzék, a felhasznált irodalom jegyzéke, valamint azon mellékletek, amelyek nem a szakdolgozat szerzőjének szellemi termékei.
+(3) Ha a pályázó a kamara elnökségénél bűnügyi személyes adatainak igazolására adatigénylést kezdeményez, az adatigénylést haladéktalanul meg kell küldeni a bűnügyi nyilvántartó szervhez.
 
-[^7]: A 10. § (3) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^8]: A 10. § (4) bekezdését a 6/2008. (III. 1.) IRM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a 2008. március 31. napját követően kiírt pályázatok elbírálása során kell alkalmazni.
+[^9]: A 10. § a 6/2010. (III. 12.) IRM rendelet 5. § (2) bekezdésével megállapított szöveg.

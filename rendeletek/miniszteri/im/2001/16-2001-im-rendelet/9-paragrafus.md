@@ -14,10 +14,14 @@ a) az állás betöltéséhez szükséges törvényi feltételeket és a kinevez
 
 b) a Vht. szerint az állás betöltésénél előnyt jelentő feltételeket,
 
-c) a pályázat mellékletét képező pályamunka elkészítésének és a bűnügyi nyilvántartás megkeresésére vonatkozó hozzájáruló nyilatkozat adásának követelményét,
+c)[^6] a pályázat mellékletét képező pályamunka elkészítésének követelményét,
 
-d) a pályázat leadásának módját és a pályázati határidő utolsó napját naptári nap szerint meghatározva.
+d) a pályázat leadásának módját és a pályázati határidő utolsó napját naptári nap szerint meghatározva,
 
-(3)[^6] A hirdetményt a pályázati határidő utolsó napját megelőző 15. napig a Hivatalos Értesítőben, a kamara hivatalos lapjában és egy országos napilapban közzé kell tenni.
+e)[^7] a pályázathoz mellékelendő iratok, igazolások körét és a Vht. 233. § (2) bekezdés a)–d) pontjában foglalt feltételek igazolásának módját.
 
-[^6]: A 9. § (3) bekezdése a 28/2008. (XII. 10.) IRM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+(3)[^8] A hirdetményt a pályázati határidő utolsó napját megelőző 15. napig a Hivatalos Értesítőben, a kamara hivatalos lapjában és egy országos napilapban közzé kell tenni.
+
+[^6]: A 9. § (2) bekezdés c) pontja a 6/2010. (III. 12.) IRM rendelet 7. § a) pontja szerint módosított szöveg.
+[^7]: A 9. § (2) bekezdés e) pontját a 6/2010. (III. 12.) IRM rendelet 5. § (1) bekezdése iktatta be.
+[^8]: A 9. § (3) bekezdése a 28/2008. (XII. 10.) IRM rendelet 7. § (2) bekezdése szerint módosított szöveg.
