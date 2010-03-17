@@ -1,9 +1,9 @@
-## 13. §[^2]
+## 13. §[^7]
 
-14. § (1)[^3]
+14. § (1)[^8]
 
-(2)[^4]
+(2)[^9]
 
-[^2]: A 13. § a 14. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 14. § (1) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^4]: A 14. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^7]: A 13. § a 14. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 14. § (1) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^9]: A 14. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
