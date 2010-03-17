@@ -1,0 +1,1 @@
+## 24. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló 139/2008. (X. 22.) FVM rendelet 7. § (8) bekezdés a) pontjának aa) alpontjában a „március 15-ig” szövegrész helyébe a „március 22-ig” szöveg lép.

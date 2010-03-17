@@ -1,0 +1,1 @@
+## 27. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 27/2007. (IV. 17.) FVM rendelet [a továbbiakban 27/2007. (IV. 17.) FVM rendelet] 9. § (6) bekezdése.

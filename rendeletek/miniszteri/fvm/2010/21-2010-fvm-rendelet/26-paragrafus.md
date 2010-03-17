@@ -1,0 +1,1 @@
+## 25. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatott intézkedések monitoring adatszolgáltatási rendjére vonatkozó részletes szabályokról szóló 18/2009. (III. 6.) FVM rendelet 4. § (1) bekezdésében a „március 16.” szövegrészek helyébe a „március 22.” szöveg lép.
