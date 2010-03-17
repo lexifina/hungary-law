@@ -1,6 +1,6 @@
 ## (A Ktv. 21. §-ához)
 
-7. §[^6] (1) A közjegyző a hivatalba lépését megelőzően a területi elnökségnek bejelenti irodája címét, amely megállapítja, hogy a közjegyző irodája a hivatás gyakorlására alkalmas-e, és erről igazolást ad ki. Az iroda alkalmasságának megállapítása után a közjegyző a Magyar Országos Közjegyzői Kamara (a továbbiakban: országos kamara) elnökétől kéri az eskütétel időpontjának kitűzését.
+7. §[^7] (1) A közjegyző a hivatalba lépését megelőzően a területi elnökségnek bejelenti irodája címét, amely megállapítja, hogy a közjegyző irodája a hivatás gyakorlására alkalmas-e, és erről igazolást ad ki. Az iroda alkalmasságának megállapítása után a közjegyző a Magyar Országos Közjegyzői Kamara (a továbbiakban: országos kamara) elnökétől kéri az eskütétel időpontjának kitűzését.
 
 (2) Az (1) bekezdés szerinti kérelemhez csatolni kell:
 
@@ -18,6 +18,7 @@ d) a kötelező felelősségbiztosítás fennállásáról szóló igazolást.
 
 (5) A bélyegzőkészítő a bélyegzőt az elkészítését követően annak lenyomatával és az egyedi azonosító jel jegyzékével együtt megküldi az országos kamarának, amely a bélyegzőt a közjegyző részére átadja.
 
-(6) A bélyegzőt megrongálódása, ellopása, elvesztése és megsemmisülése, továbbá a közjegyző szolgálatának megszűnése és névaláírásának megváltoztatása esetén érvényteleníteni kell, és a közjegyző részére – a szolgálatának megszűnését kivéve – új bélyegzőt kell készíttetni. Az új bélyegző sorszáma és egyedi azonosító jele nem lehet azonos az érvénytelen bélyegző sorszámával és egyedi azonosító jelével.
+(6)[^8] A bélyegzőt megrongálódása, ellopása, elvesztése és megsemmisülése, továbbá a közjegyző szolgálatának megszűnése, a közjegyzői kinevezés érvénytelenségének megállapítása és a közjegyző névaláírásának megváltozása esetén érvényteleníteni kell, és a közjegyző részére – szolgálatának megszűnését és a kinevezés érvénytelenségének megállapítását kivéve – új bélyegzőt kell készíttetni. Az új bélyegző sorszáma és egyedi azonosító jele nem lehet azonos az érvénytelen bélyegző sorszámával és egyedi azonosító jelével.
 
-[^6]: A Vhr. 7. §-a az 55/2007. (XII. 21.) IRM rendelet 1. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. § (3) bekezdését és 7. §-át.
+[^7]: A Vhr. 7. §-a az 55/2007. (XII. 21.) IRM rendelet 1. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. § (3) bekezdését és 7. §-át.
+[^8]: A Vhr. 7. § (6) bekezdése a 6/2010. (III. 12.) IRM rendelet 2. § a) pontja szerint módosított szöveg.

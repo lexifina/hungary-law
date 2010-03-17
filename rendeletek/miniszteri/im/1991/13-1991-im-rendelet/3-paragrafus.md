@@ -4,13 +4,38 @@
 
 ## (A Ktv. 18. §-ához)
 
-3. § (1)[^2] A területi elnökség köteles a pályázati hirdetményt legkésőbb a pályázati határidő lejártát megelőző 15. napig közzétenni a Hivatalos Értesítőben és egy országos napilapban. A hirdetményben a pályázati határidő utolsó napját naptár szerint kell meghatározni.
+3. §[^2] (1) A területi elnökség a pályázati hirdetményt a pályázati határidő lejártát megelőző tizenötödik napig közzéteszi a Hivatalos Értesítőben és egy országos napilapban. A hirdetményben a pályázati határidő utolsó napját naptár szerint kell meghatározni. A hirdetményben fel kell tüntetni
 
-(2)[^3] A pályázatot ahhoz a területi elnökséghez kell benyújtani, amelyik azt közzétette. A pályázathoz mellékelni kell a kinevezési feltételek fennállását igazoló okiratok hiteles másolatát és az összeférhetetlenség kinevezés esetére vállalt megszüntetésére vonatkozó nyilatkozatot (Ktv. 17. §).
+a) a közjegyzői kinevezéshez szükséges törvényi feltételeket és a kinevezést kizáró okokat,
 
-(3) Ha a pályázó közjegyző vagy közjegyzőhelyettes, pályázatát, a működése szerint illetékes területi elnökségnél kell benyújtania, amely gondoskodik a továbbításáról.
+b) a pályázathoz mellékelendő iratok körét és a Ktv. 17. § (3) bekezdés a)–d) pontjában foglalt feltételek igazolásának módját, továbbá
 
-(4) A területi elnökség határozathozatala után beérkezett pályázatot az elbírálásnál figyelmen kívül kell hagyni.
+c) a pályázat leadásának módját és a pályázati határidőt.
 
-[^2]: A Vhr. 3. § (1) bekezdése a 43/2009. (IX. 22.) IRM rendelet 35. § (6) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^3]: A Vhr. 3. § (2) bekezdése a 7/1999. (VII. 16.) IM rendelet 1. §-ával megállapított szöveg.
+(2) A pályázatot ahhoz a területi kamarai elnökséghez kell benyújtani, amelyik a pályázati hirdetményt közzétette. A pályázathoz mellékelni kell
+
+a) a Ktv. 17. § (1) és (2) bekezdésében foglalt kinevezési feltételek fennállását igazoló okiratokat vagy azok hiteles másolatát,
+
+b) az összeférhetetlenségnek a kinevezés esetére vállalt megszüntetésére vonatkozó nyilatkozatot,
+
+c) a köztartozás-mentesség igazolására szolgáló iratot,
+
+d) a vagyonnyilatkozat-tételi kötelezettség vállalását tartalmazó nyilatkozatot,
+
+e) a pályázó részletes szakmai önéletrajzát, továbbá
+
+f) közjegyzőhelyettes pályázó esetén az alkalmazó közjegyző értékelését.
+
+(3) A (2) bekezdésben meghatározottakon túl, a Ktv. 17. § (3) bekezdés a)–d) pontjában foglalt feltételek igazolása céljából kiállított hatósági bizonyítvánnyal összefüggésben a pályázathoz mellékelni kell
+
+a) a hatósági bizonyítvány kiadása iránti eljárásért fizetendő igazgatási szolgáltatási díj megfizetésének igazolását, vagy
+
+b) ha a hatósági bizonyítvány kiadása iránti kérelmét a pályázó a területi kamara elnöksége adatigénylésének kezdeményezése útján terjeszti elő, a bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás rendjéről, valamint a bűnügyi nyilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjéről szóló 22/2009. (VI. 19.) IRM rendelet 6. § (1)–(3) és (6) bekezdésében meghatározott adatokat és nyilatkozatokat.
+
+(4) A pályázati határidő utolsó napján postára adott és a személyes meghallgatás lezárultának időpontjáig beérkezett pályázatot határidőben beadottnak kell tekinteni.
+
+(5) Ha a pályázó a területi kamara elnökségénél bűnügyi személyes adatainak igazolására adatigénylést kezdeményez, az adatigénylést haladéktalanul meg kell küldeni a bűnügyi nyilvántartó szervhez.
+
+(6) Ha a közjegyzői álláshelyre más kamara illetékességi területén működő közjegyző vagy közjegyzőhelyettes nyújt be pályázatot, a pályázatot közzétevő területi elnökség az illetékes területi kamara elnökségének a pályázóra vonatkozó írásbeli véleményét beszerzi.
+
+[^2]: A Vhr. 3. §-a a 6/2010. (III. 12.) IRM rendelet 1. § (1) bekezdésével megállapított szöveg.

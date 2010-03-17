@@ -1,7 +1,9 @@
-34. § (1) A pénztárnapló folyamatos sorszám szerint időrendben és elkülönítve tartalmazza a készpénz, értékpapír vagy értéktárgy tekintetében a tárgyévi valamennyi bevételt és kiadást. A tételszámot a közjegyzői szolgálat megkezdésekor vagy a naptári év kezdetén 1-gyel kell kezdeni, és az év végéig folytatni kell, kivéve ha a közjegyző szolgálata előbb megszűnik.
+34. § (1)[^81] A pénztárnapló folyamatos sorszám szerint időrendben és elkülönítve tartalmazza a készpénz, értékpapír vagy értéktárgy tekintetében a tárgyévi valamennyi bevételt és kiadást. A tételszámot a közjegyzői szolgálat megkezdésekor vagy a naptári év kezdetén 1-gyel kell kezdeni, és az év végéig folytatni kell, kivéve, ha a közjegyző szolgálat előbb megszűnik, vagy a miniszter a közjegyzői kinevezés érvénytelenségét állapítja meg.
 
 (2) Az értéktárgyak esetében az azonosítás szempontjából lényeges ismertető jegyeket is fel kell tüntetni. Értékként a névértéket vagy a becsértéket kell megjelölni; ha egyik sem állapítható meg, az értékrovatba 0 Ft-ot kell írni.
 
 (3) Megjegyzésként a pénztárkönyvnek azt az oldalszámát kell feltüntetni, ahol az adott tétel szerepel.
 
 (4) A pénztárnaplót minden hó végével le kell zárni, és az így kapott egyenleg összegét a következő hónapra át kell vinni.
+
+[^81]: A Vhr. 34. § (1) bekezdése a 6/2010. (III. 12.) IRM rendelet 2. § h) pontja szerint módosított szöveg.
