@@ -2,11 +2,21 @@
 
 ## TÍPUSALKALMASSÁGI BIZONYÍTVÁNY
 
-40. § (1) A Hatóság a típusvizsgálat lefolytatását követően az alkalmasnak minősített légijármű típusra e rendelet 3. számú melléklete szerinti ,,Típusalkalmassági bizonyítvány''-t ad ki.
+40. § (1)[^15] A Hatóság a típusvizsgálat lefolytatását követően az alkalmasnak minősített légijármű típusra „Típusalkalmassági bizonyítvány”-t ad ki a következő adattartalommal:
+
+a) a légijármű típusa,
+
+b) a légijármű rendeltetése,
+
+c) a légijármű gyártója,
+
+d) arra való utalás, hogy a légijárműre vonatkozó műszaki adatokat a bizonyítványhoz csatolt „Műszaki és teljesítményadatok” leírás tartalmazza,
+
+e) a légijárműre vonatkozó, érvényesnek elismert dokumentációk felsorolása.
 
 (2) A típusalkalmassági bizonyítvány az első légialkalmassági bizonyítvánnyal együtt is kiadható.
 
-(3) A típusalkalmassági bizonyítvány visszavonásig érvényes.
+(3)[^16] A típusalkalmassági bizonyítvány visszavonásig hatályos.
 
 (4) A Hatóság a típusalkalmassági bizonyítványt visszavonja
 
@@ -15,3 +25,6 @@ a) a légijármű típus utolsó egyedi példányának nyilvántartásból való
 b) a légijármű típus jelentős módosítása esetén,
 
 c) ha a légijármű a biztonságos üzemeltetésre alkalmatlannak bizonyul.
+
+[^15]: A 40. § (1) bekezdése az 5/2010. (III. 9.) HM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 40. § (3) bekezdése az 5/2010. (III. 9.) HM rendelet 1. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
