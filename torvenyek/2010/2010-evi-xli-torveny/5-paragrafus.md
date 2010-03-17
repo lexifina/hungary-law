@@ -6,14 +6,6 @@
 
 (4) E törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter és a külgazdaságért felelős miniszter gondoskodik.
 
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2010. évi XLI. törvényhez
 
 GAZDASÁGI PARTNERSÉGI MEGÁLLAPODÁSRA IRÁNYULÓ ÁTMENETI MEGÁLLAPODÁS EGYRÉSZRŐL AZ EURÓPAI KÖZÖSSÉG ÉS TAGÁLLAMAI, MÁSRÉSZRŐL AZ SADC-EPA-ÁLLAMOK KÖZÖTT
