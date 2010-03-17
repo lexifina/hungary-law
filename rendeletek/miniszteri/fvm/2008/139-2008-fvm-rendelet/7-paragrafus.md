@@ -28,7 +28,7 @@ b) nem kell feltüntetni az Európai Mezőgazdasági Vidékfejlesztési Alap tá
 
 a) 2010. évben
 
-aa) február 15-től március 15-ig;
+aa)[^29] február 15-től március 22-ig;
 
 ab) június 1-jétől 30-ig;
 
@@ -42,7 +42,7 @@ bb) június 1-jétől 30-ig;
 
 bc) október 1-jétől 31-ig.
 
-(9)[^29] Az egyesített támogatási és kifizetési kérelmet a 3. melléklet szerinti adattartalommal kell benyújtani. Az egyesített támogatási és kifizetési kérelem elektronikus űrlapját az MVH rendszeresíti, és azt közzé kell tenni az MVH honlapján.
+(9)[^30] Az egyesített támogatási és kifizetési kérelmet a 3. melléklet szerinti adattartalommal kell benyújtani. Az egyesített támogatási és kifizetési kérelem elektronikus űrlapját az MVH rendszeresíti, és azt közzé kell tenni az MVH honlapján.
 
 [^19]: A 7. § (1) bekezdése a 6/2010. (II. 2.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^20]: A 7. § (2) bekezdése az 50/2009. (IV. 16.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
@@ -54,4 +54,5 @@ bc) október 1-jétől 31-ig.
 [^26]: A 7. § (5) bekezdése a 6/2010. (II. 2.) FVM rendelet 8. §-a szerint módosított szöveg.
 [^27]: A 7. § (7) bekezdése a 6/2010. (II. 2.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^28]: A 7. § (8) bekezdését az 50/2009. (IV. 16.) FVM rendelet 4. § (3) bekezdése iktatta be, szövege a 6/2010. (II. 2.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^29]: A 7. § (9) bekezdését a 6/2010. (II. 2.) FVM rendelet 5. § (3) bekezdése iktatta be.
+[^29]: A 7. § (8) bekezdés a) pont aa) alpontja a 21/2010. (III. 16.) FVM rendelet 24. §-a szerint módosított szöveg.
+[^30]: A 7. § (9) bekezdését a 6/2010. (II. 2.) FVM rendelet 5. § (3) bekezdése iktatta be.
