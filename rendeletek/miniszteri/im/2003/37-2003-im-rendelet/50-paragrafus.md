@@ -10,9 +10,9 @@
 
 (5) Ha az irattárba helyezett iratot más hatóság megkeresésére kell megküldeni, azt a közjegyző utasítására az irodavezető vagy a közjegyző által erre kijelölt dolgozó küldi meg.
 
-(6)[^39] Ha a közjegyző szolgálata megszűnt vagy áthelyezték, a közjegyző utódja, a tartós helyettes, vagy a területi kamara által kijelölt közjegyző köteles átvenni, kezelni és megőrizni azokat a közjegyzői iratokat, amelyek nem kerülhetnek a bírósági irattárba vagy a MOKK levéltárába.
+(6)[^39] Ha a közjegyző szolgálata megszűnt, közjegyzői kinevezés érvénytelenségét állapították meg, vagy a közjegyzőt áthelyezték, a közjegyző utódja, a tartós helyettes, vagy a területi kamara által kijelölt közjegyző köteles átvenni, kezelni és megőrizni azokat a közjegyzői iratokat, amelyek nem kerülhetnek a bírósági irattárba vagy a MOKK levéltárába.
 
 [^36]: Az 50. § (1) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (4) bekezdésével megállapított szöveg.
 [^37]: Az 50. § (2) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (4) bekezdésével megállapított szöveg.
 [^38]: Az 50. § (4) bekezdése a 62/2009. (XII. 17.) IRM rendelet 61. § (5) bekezdésével megállapított szöveg.
-[^39]: Az 50. § (6) bekezdését a 62/2009. (XII. 17.) IRM rendelet 61. § (6) bekezdése iktatta be.
+[^39]: Az 50. § (6) bekezdését a 62/2009. (XII. 17.) IRM rendelet 61. § (6) bekezdése iktatta be, szövege a 6/2010. (III. 12.) IRM rendelet 3. §-a szerint módosított szöveg.
