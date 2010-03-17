@@ -4,7 +4,7 @@
 
 (2) Ha a hadfelszerelési anyagok üzemeltetése, használata során magyartól eltérő nyelv használata kötelező, az üzemeltetési dokumentációt a munkavégzésre előírt nyelven kell biztosítani az érintett állomány részére.
 
-(3) A (2) bekezdés szerinti eltérést a Honvéd Vezérkar főnöke indokolt kezdeményezésére, az elsőfokú munkavédelmi hatóság javaslata alapján a honvédelmi miniszter engedélyezi. A kockázatértékelési dokumentációt és a 14. § (4) bekezdés szerinti tájékoztatót magyar nyelven kell összeállítani.
+(3)[^2] A (2) bekezdés szerinti eltérést a Honvéd Vezérkar főnöke indokolt kezdeményezésére, az elsőfokú munkavédelmi hatóság javaslata alapján a honvédelemért felelős miniszter engedélyezi. A kockázatértékelési dokumentációt és a 14. § (4) bekezdés szerinti tájékoztatót magyar nyelven kell összeállítani.
 
 (4) A (2) bekezdés szerinti esetekben a munkavégzés feltétele a munkavégzésre előírt nyelvből a munkakörre a munkaköri leírásban is előírt szintű NATO STANAG nyelvvizsga megszerzése és ugyanezen nyelv szerinti – a hadfelszerelési anyag kezelésére vonatkozó – használói tanfolyam eredményes elvégzése.
 
@@ -13,3 +13,5 @@
 (6) Az üzemeltetett munkaeszközök, hadfelszerelési anyagok üzemeltetési dokumentációját a beosztott parancsnoknál, munkahelyi vezetőnél kell tárolni. A szolgálati helyen, munkahelyen csak a kezelési és karbantartási utasítást, illetve azok kivonatát kell jól látható vagy a szolgálati idő alatt állandóan hozzáférhető helyen tartani.
 
 (7) Munkaeszközöket, hadfelszerelési anyagokat az üzemeltetéshez szükséges, – a (2) bekezdés szerinti hadfelszerelési anyagokat kivéve – magyar nyelvű feliratokkal, tájékoztatókkal is el kell látni.
+
+[^2]: A 20. § (3) bekezdése az 5/2010. (III. 9.) HM rendelet 7. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

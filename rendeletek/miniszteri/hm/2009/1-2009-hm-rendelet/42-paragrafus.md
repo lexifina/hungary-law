@@ -4,8 +4,8 @@
 
 (2) E rendelet hatálybalépése előtt üzembe helyezett létesítmények, építmények, technológiák és munkahelyek esetében az üzembe helyezési eljárást legkésőbb 2012. december 31-ig ismételten le kell folytatni.
 
-(3)–(6)[^1]
+(3)–(6)[^7]
 
 (7) A (3)–(6) bekezdés 2009. december 31-én a hatályát veszti.
 
-[^1]: A 42. § (3)–(6) bekezdését a (7) bekezdés hatályon kívül helyezte.
+[^7]: A 42. § (3)–(6) bekezdését a (7) bekezdés hatályon kívül helyezte.
