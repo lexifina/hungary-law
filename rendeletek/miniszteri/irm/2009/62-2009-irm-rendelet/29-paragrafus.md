@@ -6,6 +6,8 @@
 
 (2) Az e rendelet szerinti levéltári anyagokkal kapcsolatban a közjegyzőknél és a közjegyzői kamaráknál a levéltár látja el a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvényben foglalt, köziratok kezelésének levéltári ellenőrzésével összefüggő feladatokat.
 
-(3) A levéltár a (2) bekezdés szerinti ellenőrzés során a közjegyzőkre vonatkozó titoktartási kötelezettség megtartásával a közokiratokról, közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény szabályai szerint vizsgálja a levéltári anyag nyilvántartását, a nyilvántartáshoz kapcsolódó segédletek készítését, és általában azt, hogy a levéltári anyag kezelése megfelel-e a közjegyzőkről szóló törvényben, a közjegyzői nemperes eljárásokról szóló jogszabályokban, továbbá a közjegyzői és a közjegyzői kamarai ügyvitelről, iratkezelésről szóló jogszabályokban előírt követelményeknek.
+(3)[^11] A levéltár a (2) bekezdés szerinti ellenőrzés során a közjegyzőkre vonatkozó titoktartási kötelezettség megtartásával a köziratokról, közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény szabályai szerint vizsgálja a levéltári anyag nyilvántartását, a nyilvántartáshoz kapcsolódó segédletek készítését, és általában azt, hogy a levéltári anyag kezelése megfelel-e a közjegyzőkről szóló törvényben, a közjegyzői nemperes eljárásokról szóló jogszabályokban, továbbá a közjegyzői és a közjegyzői kamarai ügyvitelről, iratkezelésről szóló jogszabályokban előírt követelményeknek.
 
 (4) Ha az ellenőrzés során tapasztalt hiányosságok megszüntetése iránt az érintett határidőben nem intézkedett, erről a levéltár a területi kamarát és a MOKK elnökségét értesíti.
+
+[^11]: Az 29. § (3) bekezdése 6/2010. (III. 12.) IRM rendelet 4. § e) pontja szerint módosított szöveg.

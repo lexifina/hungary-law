@@ -1,4 +1,4 @@
-## 21. §[^6] A levéltár az iratjegyzéknek megfelelően a kamara megbízottjának jelenlétében iratonként számba veszi az átvett levéltári anyagokat, és azok mennyiségéről, továbbá a megállapított hiányosságokról átadás-átvételi jegyzőkönyvet készít.
+## 21. §[^10] A levéltár az iratjegyzéknek megfelelően a kamara megbízottjának jelenlétében iratonként számba veszi az átvett levéltári anyagokat, és azok mennyiségéről, továbbá a megállapított hiányosságokról átadás-átvételi jegyzőkönyvet készít.
 
 ## III. Fejezet
 
@@ -16,4 +16,4 @@
 
 (5) A raktárhelyiség megvilágítására UV-mentes vagy kevés UV-sugárzást kibocsátó világítótestek használhatók. A levéltár a megvilágítás erősségét és idejét minimalizálja, a világítás ereje legfeljebb 200 lux lehet.
 
-[^6]: A 21. § az 58. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
+[^10]: A 21. § az 58. § (2) bekezdése alapján 2011. július 1-jén lép hatályba.
