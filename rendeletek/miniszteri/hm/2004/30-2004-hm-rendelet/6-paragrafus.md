@@ -1,6 +1,6 @@
 ## 5. § A Hivatal – a Szolgálat megkeresésére – szakértőként vesz részt a Szolgálat által az egyes munkakörök minősítésével kapcsolatban hozott határozat ellen indult jogorvoslati eljárásban, és szakvéleményt ad ki a vitás kérdésekben. A Szolgálat az általa végrehajtott mérések alapján határozatban állapítja meg a kockázati tényezők fennállását vagy hiányát.
 
-6. § (1)[^7] Az állományilletékes parancsnok (vezető) feladata
+6. § (1)[^8] Az állományilletékes parancsnok (vezető) feladata
 
 a) az egészséget nem veszélyeztető és biztonságos munkavégzés körülményeinek biztosítása és folyamatos fenntartása, illetőleg ennek érdekében az előírt kockázatértékelés végrehajtása,
 
@@ -14,13 +14,13 @@ e) a Szolgálat által kiadott határozat alapján a szolgálati beosztások, mu
 
 f) az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeinek biztosítása érdekében a Szolgálat, illetve a Hivatal által meghatározottak végrehajtása.
 
-(2)[^8] Az egyes munkakörök vizsgálatát az állományilletékes parancsnok (vezető) kezdeményezi a Szolgálatnál. Az írásbeli kezdeményezésnek tartalmaznia kell az egészségkárosító kockázati tényező jellegére, valamint a védőeszközök állandó vagy tartós használatára vonatkozó utalást is.
+(2)[^9] Az egyes munkakörök vizsgálatát az állományilletékes parancsnok (vezető) kezdeményezi a Szolgálatnál. Az írásbeli kezdeményezésnek tartalmaznia kell az egészségkárosító kockázati tényező jellegére, valamint a védőeszközök állandó vagy tartós használatára vonatkozó utalást is.
 
-(3)[^9] A minősítést az állományilletékes parancsnoknál (vezetőnél) a munkavállaló, annak munkavédelmi képviselője és a munkavállalói érdekvédelmi szervezet is kezdeményezheti. E kezdeményezés esetén az állományilletékes parancsnok (vezető) az (1) bekezdés a)–c) pontjában, valamint a (2) bekezdésben foglaltak szerint köteles eljárni.
+(3)[^10] A minősítést az állományilletékes parancsnoknál (vezetőnél) a munkavállaló, annak munkavédelmi képviselője és a munkavállalói érdekvédelmi szervezet is kezdeményezheti. E kezdeményezés esetén az állományilletékes parancsnok (vezető) az (1) bekezdés a)–c) pontjában, valamint a (2) bekezdésben foglaltak szerint köteles eljárni.
 
-(4)[^10] Az egészséges és biztonságos munkavégzés körülményeit elsősorban szervezési intézkedésekkel kell megteremteni. Ezeken túlmenően kollektív védelemmel vagy egyéni védőeszközökkel kell biztosítani a kockázati tényezők megszüntetését, illetőleg minimalizálását.
+(4)[^11] Az egészséges és biztonságos munkavégzés körülményeit elsősorban szervezési intézkedésekkel kell megteremteni. Ezeken túlmenően kollektív védelemmel vagy egyéni védőeszközökkel kell biztosítani a kockázati tényezők megszüntetését, illetőleg minimalizálását.
 
-[^7]: A 6. § (1) bekezdése a 38/2005. (X. 5.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^8]: A 6. § (2) bekezdése a 38/2005. (X. 5.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^9]: A 6. § (3) bekezdése a 38/2005. (X. 5.) HM rendelet 6. § (4) bekezdése szerint módosított szöveg.
-[^10]: A 6. § (4) bekezdése a 38/2005. (X. 5.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A 6. § (1) bekezdése a 38/2005. (X. 5.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 6. § (2) bekezdése a 38/2005. (X. 5.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: A 6. § (3) bekezdése a 38/2005. (X. 5.) HM rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^11]: A 6. § (4) bekezdése a 38/2005. (X. 5.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.

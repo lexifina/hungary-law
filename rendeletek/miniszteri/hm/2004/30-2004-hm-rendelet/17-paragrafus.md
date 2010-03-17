@@ -1,6 +1,6 @@
-17. §[^18] E rendelet hatálybalépése előtt megállapított egészségi veszélyességi pótlékot az 5. § szerinti jogerős határozat meghozataláig visszamenőleges hatállyal fizetni kell a személyi állomány azon tagjai részére, akik az egészségkárosító kockázati tényezők fennállása szempontjából – szervezeti változások ellenére – változatlan munkakörben teljesítenek szolgálatot, ha a munkavégzésre a munkaidő több mint 50%-ában vagy ionizáló sugárzásnak kitett beosztásokban legalább 3 órában e munkakörben kerül sor, illetve az egészséget nem veszélyeztető munkavégzés csak egyéni védőeszköz állandó vagy tartós használatával valósítható meg, és amelynek viselése egyidejűleg fokozott megterhelést jelent.
+17. §[^22] E rendelet hatálybalépése előtt megállapított egészségi veszélyességi pótlékot az 5. § szerinti jogerős határozat meghozataláig visszamenőleges hatállyal fizetni kell a személyi állomány azon tagjai részére, akik az egészségkárosító kockázati tényezők fennállása szempontjából – szervezeti változások ellenére – változatlan munkakörben teljesítenek szolgálatot, ha a munkavégzésre a munkaidő több mint 50%-ában vagy ionizáló sugárzásnak kitett beosztásokban legalább 3 órában e munkakörben kerül sor, illetve az egészséget nem veszélyeztető munkavégzés csak egyéni védőeszköz állandó vagy tartós használatával valósítható meg, és amelynek viselése egyidejűleg fokozott megterhelést jelent.
 
-Melléklet a 30/2004. (XII. 6.) HM rendelethez[^19]
+Melléklet a 30/2004. (XII. 6.) HM rendelethez[^23]
 
 Egészségkárosító kockázati tényezők, beosztások
 
@@ -16,11 +16,11 @@ Egészségkárosító kockázati tényezők, beosztások
 
 |  | b) Nem ionizáló sugárzás | Olyan tevékenység, melyet nagyfrekvenciás elektromágneses sugárzás hatásának kitéve kell végezni, figyelembe véve az Európai Parlament és a Tanács 2004/40/EK irányelvében foglalt egészségügyi határértéket, valamint munkáltatói feladatokat. |
 
-|  | c) Zaj | Olyan beosztás, amelyben a munkavégzés helyének zajszintje 8 órára vonatkoztatva eléri a 85 dB Aeq-t. Ezt meghaladó zajszintek esetén az expozíciós időt 3 dB-enként felezni kell. Egyben be kell tartani a 3/2002. (II. 8.) SZCSM–EüM együttes rendelet 5. számú mellékletében és a 18/2001. (IV. 28.) EüM rendelet 5. § (1) bekezdésében megadott határértékeket. |
+|  | c) Zaj | Olyan beosztás, amelyben a munkavégzés helyének zajszintje 8 órára vonatkoztatva eléri a 85 dB Aeq-t. Ezt meghaladó zajszintek esetén az expozíciós időt 3 dB-enként felezni kell. Egyben be kell tartani a 3/2002. (II. 8.) SZCSM–EüM együttes rendelet 5. számú mellékletében és a 66/2005. (XII. 22.) EüM rendelet 3. § (1) bekezdésében megadott határértékeket. |
 
-|  | d) Testrészt érő vibráció | Olyan tevékenység, melynek során a testrészt érő rezgésterhelés mértéke meghaladja az 1,4 m/sec2 súlyozott egyenértékű rezgésgyorsulást. A mérés során a 3/2002. (II. 8.) SZCSM–EüM együttes rendelet 6. számú mellékletét kell figyelembe venni. |
+|  | d) Testrészt érő vibráció | Olyan tevékenység, melynek során a testrészt érő rezgésterhelés mértéke meghaladja az 1,4 m/sec2 súlyozott egyenértékű rezgésgyorsulást. A mérés során a 22/2005. (VI. 24.) EüM rendelet 3. § (1) bekezdését kell figyelembe venni. |
 
-|  | e) Egész testet érő vibráció | Olyan tevékenység, melynek során az egész testet érő rezgésgyorsulás meghaladja a 0,9 m/sec2-t. A mérés során a 3/2002. (II. 8.) SZCSM–EüM együttes rendelet 6. számú mellékletét kell figyelembe venni. |
+|  | e) Egész testet érő vibráció | Olyan tevékenység, melynek során az egész testet érő rezgésgyorsulás meghaladja a 0,9 m/sec2-t. A mérés során a 22/2005. (VI. 24.) EüM rendelet 3. § (2) bekezdését kell figyelembe venni. |
 
 |  | f) Hősugárzás | A munkavégzés során be kell tartani a 3/2002. (II. 8.) SZCSM–EüM együttes rendelet 7. §-ában és a 2. számú mellékletében foglaltakat. |
 
@@ -32,5 +32,5 @@ Egészségkárosító kockázati tényezők, beosztások
 
 |  | b) föld alatti létesítmény | Olyan beosztás, amelynél a napi szolgálatteljesítési vagy munkaidő felét, de legfeljebb 6 órát a föld alatti létesítményen belül kell tölteni. |
 
-[^18]: A 17. §-t a 38/2005. (X. 5.) HM rendelet 5. §-a iktatta be.
-[^19]: A melléklet a 38/2005. (X. 5.) HM rendelet 6. § (3) bekezdés b) pontja és (4)–(5) bekezdése szerint módosított szöveg.
+[^22]: A 17. §-t a 38/2005. (X. 5.) HM rendelet 5. §-a iktatta be.
+[^23]: A melléklet a 38/2005. (X. 5.) HM rendelet 6. § (3) bekezdés b) pontja és (4)–(5) bekezdése, az 5/2010. (III. 9.) HM rendelet 6. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
