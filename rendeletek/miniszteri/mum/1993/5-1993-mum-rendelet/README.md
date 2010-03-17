@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-5-20-39
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1993-5-20-39.9 | 5/1993. (XII. 26.) MüM rendelet |
+| 2010-03-17 | 1993-5-20-39.10 | 5/2010. (III. 9.) SZMM rendelet |

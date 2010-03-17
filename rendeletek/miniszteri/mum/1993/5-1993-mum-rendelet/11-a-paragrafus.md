@@ -1,6 +1,6 @@
-## [Az Mvt. 82. § (2) bekezdéséhez][^20]
+## [Az Mvt. 82. § (2) bekezdéséhez][^19]
 
-11/A. §[^21] A munkavállaló életét, testi épségét vagy egészségét súlyosan veszélyezteti a tevékenysége alapján a 2. számú melléklet szerinti I. veszélyességi osztályba sorolt munkáltató esetében a kockázatértékelés [Mvt. 54. § (2) bekezdés] elmulasztása.
+11/A. §[^20]
 
-[^20]: A Vhr. 11/A. §-át megelőző alcímet a 16/2004. (IV. 19.) FMM rendelet 3. §-a iktatta a szövegbe.
-[^21]: A Vhr. 11/A. §-át a 16/2004. (IV. 19.) FMM rendelet 3. §-a iktatta a szövegbe.
+[^19]: A Vhr. 11/A. §-át megelőző alcímet a 16/2004. (IV. 19.) FMM rendelet 3. §-a iktatta a szövegbe.
+[^20]: A Vhr. 11/A. §-át a 16/2004. (IV. 19.) FMM rendelet 3. §-a iktatta be, hatályon kívül helyezte az 5/2010. (III. 9.) SZMM rendelet 9. § (3) bekezdése.

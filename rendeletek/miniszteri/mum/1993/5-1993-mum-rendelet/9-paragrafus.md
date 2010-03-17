@@ -1,14 +1,35 @@
-9. §[^15] A munkáltató köteles a kivizsgálás befejezésekor, de legkésőbb a tárgyhót követő hónap 8. napjáig megküldeni a jegyzőkönyvet
+9. §[^16] (1) A munkáltató köteles a kivizsgálás befejezésekor, de legkésőbb a tárgyhót követő hónap 8. napjáig megküldeni a jegyzőkönyvet
 
-a) a sérültnek, halála esetén közvetlen hozzátartozójának;
+a) a sérültnek, halála esetén hozzátartozójának;
 
-b)[^16] a halált, illetve a három napot meghaladó munkaképtelenséget okozó munkabalesetről a megyei (fővárosi) munkabiztonsági és munkaügyi felügyelőség,[^17] illetve a Magyar Bányászati Hivatal (a továbbiakban: MBH) baleset helyszíne szerint illetékes területi szervének;
+b) a halált, illetve a három napot meghaladó munkaképtelenséget okozó munkabalesetről a munkabaleset helyszíne szerint illetékes munkavédelmi felügyelőségnek, illetve a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) munkabaleset helyszíne szerint illetékes területi szervének;
 
-c) külföldi kiküldetés, külszolgálat esetén a magyarországi székhelyű munkáltató magyar munkavállalójának a b) pont szerinti munkabalesetéről a megyei (fővárosi) munkabiztonsági és munkaügyi felügyelőség,[^18] illetve az MBH — munkáltató székhelye szerint illetékes — területi szervének;
+c) külföldi kiküldetés, külszolgálat, munkaerő-kölcsönzés esetén a magyarországi székhelyű munkáltató magyar munkavállalójának a b) pont szerinti munkabalesetéről a munkáltató székhelye szerint illetékes munkavédelmi felügyelőségnek, illetve az MBFH munkáltató székhelye szerint illetékes területi szervének;
 
-d) a társadalombiztosítási kifizetőhelynek, ennek hiányában az illetékes egészségbiztosítási pénztárnak (kirendeltségnek).
+d) a társadalombiztosítási kifizetőhelynek, ennek hiányában az illetékes regionális egészségbiztosítási pénztárnak (kirendeltségnek);
 
-[^15]: A Vhr. 9. §-a a 9/1996. ( XII. 20.) MüM rendelet 10. §-a (2) bekezdésének a) pontja szerint módosított szöveg.
-[^16]: A Vhr. 9. §-ának b) pontja a 20/1997. ( XII.19.) MüM rendelet 7.§-ának (2) bekezdése szerint módosított szöveg.
-[^17]: A 2004: XI. törvény 34. § (5) bekezdése alapján a megyei (fővárosi) munkabiztonsági és munkaügyi felügyelőségen területi felügyelőséget, a 2005: CLV. törvény 12. § (6) bekezdése alapján a munkabiztonsági és munkaügyi felügyelőségen munkabiztonsági, munkaügyi felügyelőséget kell érteni.
-[^18]: A 2004: XI. törvény 34. § (5) bekezdése alapján a megyei (fővárosi) munkabiztonsági és munkaügyi felügyelőségen területi felügyelőséget, a 2005: CLV. törvény 12. § (6) bekezdése alapján a munkabiztonsági és munkaügyi felügyelőségen munkabiztonsági, munkaügyi felügyelőséget kell érteni.
+e) munkaerő-kölcsönzés, kirendelés esetén a kölcsönbeadó, kirendelő munkáltatónak.
+
+(2) Súlyos munkabaleset esetén az (1) bekezdés szerinti határidő indokolt esetben 30 nappal meghosszabbítható.
+
+(3) A súlyos munkabalesetről készített jegyzőkönyvnek a munkavédelmi felügyelőséghez történő megküldésekor másolatban mellékelni kell a munkáltatói balesetvizsgálat teljes dokumentációját így különösen:
+
+a) a meghallgatási jegyzőkönyveket,
+
+b) a szakmai képzettséget igazoló dokumentumot,
+
+c) a kezelési jogosultságot igazoló dokumentumot,
+
+d) az egészségügyi alkalmasságot igazoló dokumentumot,
+
+e) az üzembe helyezést dokumentáló iratot,
+
+f) időszakos biztonsági felülvizsgálatot dokumentáló iratot,
+
+g) a kockázatértékelést dokumentáló iratot,
+
+h) fényképfelvételeket, videófelvételeket,
+
+i) a belső szabályzatok vonatkozó részeit.
+
+[^16]: A Vhr. 9. §-a az 5/2010. (III. 9.) SZMM rendelet 5. §-ával megállapított szöveg.

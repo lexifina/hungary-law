@@ -16,7 +16,8 @@ d) a sérült ellátására tett intézkedést;
 
 e) annak tényét, hogy a sérült folytatta-e a munkáját.
 
-(3) A munkabaleseti nyilvántartást a munkáltató székhelyén vagy a munkáltató nyilvántartását vezető szervezeténél (irodánál) összesítve, és minden területileg elkülönült szervezeti egységénél külön-külön vezetni kell.
+(3)[^9] A munkabaleseti nyilvántartást a munkáltató székhelyén vagy a munkáltató nyilvántartását vezető szervezeténél (irodánál) összesítve, és minden területileg elkülönült szervezeti egységénél külön-külön vezetni kell. A munkáltató azon szervezeti egységénél, ahol időszakosan és rövid időtartamban történik a munkavégzés, így különösen a kizárólag irattárolásra, műszeres vagy egyéb ellenőrzésre szolgáló egységnél, telephelyen, nem kötelező munkabaleseti nyilvántartást vezetni.
 
 [^7]: A Vhr. 5. §-a a 20/1997. ( XII.19.) MüM rendelet 2. §-ával megállapított szöveg.
 [^8]: A Vhr. 5. § (2) bekezdésének c) pontja a 16/2004. (IV. 19.) FMM rendelet 2. §-ával megállapított szöveg.
+[^9]: A Vhr. 5. § (3) bekezdése az 5/2010. (III. 9.) SZMM rendelet 1. §-ával megállapított szöveg.

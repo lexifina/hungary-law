@@ -2,265 +2,229 @@
 
 Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglalkoztatásának feltételei
 
-## Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglalkoztatásának feltételei
-
-1. A munkáltatók tevékenységük alapján a következő munkavédelmi szempontú veszélyességi osztályba tartoznak [ágazati számjelként a gazdasági tevékenységek egységes ágazati osztályozás rendszeréről szóló 9003/2002. (SK. 6.) KSH közlemény számjele szerepel]:
+1. A munkáltatók tevékenységük alapján a következő munkavédelmi szempontú veszélyességi osztályba tartoznak az EU tagországok számára kötelezően alkalmazandó a NACE Rev. 2. (magyar nyelvű megfelelője, a gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere: TEÁOR ’08) alapján.
 
 | Ágazati számjel | Gazdasági tevékenység megnevezése |
 
 | I. VESZÉLYESSÉGI OSZTÁLY |
 
-| 02.01 | Erdőgazdálkodási termék-előállítás |
+| 02 | Erdőgazdálkodás Kivéve: 02.3 Vadon termő egyéb erdei termék gyűjtése |
 
-| 10 | Szénbányászat, tőzegkitermelés |
+| 05 | Szénbányászat |
 
-| 11.10 | Kőolaj-, földgázkitermelés |
+| 06 | Kőolaj-, földgázkitermelés |
 
-| 12 | Urán-, tóriumérc-bányászat |
+| 07 | Fémtartalmú érc bányászata |
 
-| 13 | Fémtartalmú érc bányászata |
+| 08 | Egyéb bányászat |
 
-| 14 | Egyéb bányászat |
+| 09 | Bányászati szolgáltatás |
 
-| 15.1 | Húsfeldolgozás |
+| 10.1 | Húsfeldolgozás, -tartósítás, húskészítmény gyártása |
 
-| 15.2 | Halfeldolgozás |
+| 10.2 | Halfeldolgozás, -tartósítás |
 
-| 20 | Fafeldolgozás, fonottáru gyártása |
+| 16 | Fafeldolgozás (kivéve: bútor), fonottáru gyártása Kivéve: 16.29 Egyéb fa-, parafatermék, fonottáru gyártása |
 
-|  | Kivéve: |
+| 17 | Papír, papírtermék gyártása |
 
-|  | 20.52 Parafa-, fonottáru gyártása |
+| 19 | Kokszgyártás, kőolaj-feldolgozás |
 
-| 21 | Papír, papírtermék gyártása |
+| 20 | Vegyi anyag, -termék gyártása |
 
-| 23 | Kokszgyártás, kőolaj-feldolgozás, nukleáris fűtőanyag gyártása |
+| 21 | Gyógyszergyártás |
 
-| 24 | Vegyi anyag, termék gyártása |
+| 22 | Gumi-, műanyag termék gyártása |
 
-| 25 | Gumi-, műanyag termék gyártása |
+| 23 | Nemfém ásványi termék gyártása |
 
-| 26 | Nemfém ásványi termék gyártása |
+| 24 | Fémalapanyag gyártása |
 
-| 27 | Fémalapanyag gyártása |
+| 25.2 | Fűtési kazán, radiátor, fémtartály gyártása |
 
-| 28.2 | Fémtartály, fűtési kazán, radiátor gyártása |
+| 25.3 | Gőzkazán gyártása |
 
-| 28.3 | Gőzkazán gyártása |
+| 25.4 | Fegyver-, lőszergyártás |
 
-| 28.4 | Fémalakítás, porkohászat |
+| 25.5 | Fémalakítás, porkohászat |
 
-| 29 | Gép, berendezés gyártása |
+| 28 | Gép, gépi berendezés gyártása Kivéve: 28.23 Irodagép gyártása (kivéve: számítógép és perifériái) |
 
-| 35.11 | Hajógyártás, -javítás |
+| 30.11 | Hajógyártás |
 
-| 35.2 | Vasúti, kötöttpályás jármű gyártása |
+| 30.2 | Vasúti, kötöttpályás jármű gyártása |
 
-| 37.10 | Fém visszanyerése hulladékból |
+| 31 | Bútorgyártás |
 
-| 40 | Villamosenergia-, gáz-, gőz-, melegvízellátás |
+| 35 | Villamosenergia-, gáz-, gőzellátás, légkondicionálás |
 
-| 45 | Építőipar |
+| 37 | Szennyvíz gyűjtése, kezelése |
 
-| 60 | Szárazföldi, csővezetékes szállítás |
+| 38 | Hulladékgazdálkodás |
 
-| 61 | Vízi szállítás |
+| 39 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
-| 62 | Légi szállítás |
+| 41.2 | Lakó- és nem lakóépület építése |
 
-| 63 | Szállítást kiegészítő tevékenység, utazásszervezés |
+| 42 | Egyéb építmény építése |
 
-|  | Kivéve: |
+| 43 | Speciális szaképítés |
 
-|  | 63.3 Utazásszervezés |
+| 49 | Szárazföldi, csővezetékes szállítás |
 
-|  | 63.4 Szállítmányozás |
+| 50 | Vízi szállítás |
 
-| 73 | Kutatás, fejlesztés |
+| 51 | Légi szállítás |
 
-|  | Kivéve: |
+| 52 | Raktározás, szállítást kiegészítő tevékenység |
 
-|  | 73.2 Humán kutatás, fejlesztés |
-
-| 90 | Szennyvíz-, hulladékkezelés, szennyeződés mentesítés |
+| 72.1 | Természettudományi, műszaki kutatás, fejlesztés |
 
 | II. VESZÉLYESSÉGI OSZTÁLY |
 
-| 01 | Mezőgazdaság, vadgazdálkodás |
+| 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 
-| 02 | Erdőgazdálkodás |
+| 02.3 | Vadon termő egyéb erdei termék gyűjtése |
 
-|  | Kivéve: |
+| 03 | Halászat, halgazdálkodás |
 
-|  | 02.01. Erdőgazdálkodási termék-előállítás |
+| 10 | Élelmiszergyártás Kivéve: 10.1 Húsfeldolgozás, -tartósítás, húskészítmény gyártása 10.2 Halfeldolgozás, -tartósítás |
 
-| 05 | Halgazdálkodás |
+| 11 | Italgyártás |
 
-| 15 | Élelmiszer, ital gyártása |
+| 12 | Dohánytermék gyártása |
 
-|  | Kivéve: |
+| 13 | Textília gyártása |
 
-|  | 15.1 Húsfeldolgozás |
+| 14 | Ruházati termék gyártása |
 
-|  | 15.2 Halfeldolgozás |
+| 15 | Bőr, bőrtermék, lábbeli gyártása |
 
-| 16 | Dohánytermék gyártása |
+| 16.29 | Egyéb fa-, parafatermék, fonottáru gyártása |
 
-| 17 | Textília gyártása |
+| 18 | Nyomdai és egyéb sokszorosítási tevékenység |
 
-| 18 | Ruházati termék gyártása, szőrme-kikészítés, -konfekcionálás |
+| 25 | Fémfeldolgozási termék gyártása Kivéve: 25.2 Fűtési kazán, radiátor, fémtartály gyártása 25.3 Gőzkazán gyártása 25.4 Fegyver-, lőszergyártás 25.5 Fémalakítás, porkohászat |
 
-| 19 | Bőrkikészítés, táskafélék, szíjazat, lábbeli gyártása |
+| 26 | Számítógép, elektronikai, optikai termék gyártása |
 
-| 20.52 | Parafa-, fonottáru gyártása |
+| 27 | Villamos berendezés gyártása |
 
-| 22 | Kiadói, nyomdai, egyéb sokszorosítási tevékenység |
+| 28.23 | Irodagép gyártása (kivéve: számítógép és perifériái) |
 
-| 28 | Fémfeldolgozási termék gyártása |
+| 29 | Közúti jármű gyártása |
 
-|  | Kivéve: |
+| 30 | Egyéb jármű gyártása Kivéve: 30.11 Hajógyártás 30.2 Vasúti, kötöttpályás jármű gyártása |
 
-|  | 28.2 Fémtartály, fűtési kazán, radiátor gyártása |
+| 32 | Egyéb feldolgozóipari tevékenység |
 
-|  | 28.3 Gőzkazán gyártása |
+| 33 | Ipari gép, berendezés, eszköz javítása |
 
-|  | 28.4 Fémalakítás, porkohászat |
+| 36 | Víztermelés, -kezelés, -ellátás |
 
-| 30 | Iroda-, számítógépgyártás |
+| 41.10 | Épületépítési projekt szervezése |
 
-| 31 | Máshova nem sorolt villamos gép gyártása |
+| 45.2 | Gépjárműjavítás, karbantartás |
 
-| 32 | Híradástechnikai termék, készülék gyártása |
+| 45.4 | Motorkerékpár, -alkatrész kereskedelme, javítása |
 
-| 33 | Műszergyártás |
+| 58 | Kiadói tevékenység |
 
-| 34 | Közúti jármű gyártása |
+| 59 | Film, videó gyártás, televízióműsor gyártása, hangfelvétel kiadás |
 
-| 35 | Egyéb jármű gyártása |
+| 60 | Műsorösszeállítás, műsorszolgáltatás |
 
-|  | Kivéve: |
+| 61 | Távközlés |
 
-|  | 35.11 Hajógyártás, -javítás |
+| 71.2 | Műszaki vizsgálat, elemzés |
 
-|  | 35.2 Vasúti, kötöttpályás jármű gyártása |
+| 75 | Állat-egészségügyi ellátás |
 
-| 36 | Bútorgyártás, máshova nem sorolt feldolgozóipari termék gyártása |
+| 80 | Biztonsági, nyomozói tevékenység |
 
-| 37 | Nyersanyag visszanyerése hulladékból |
+| 81 | Építmény üzemeltetés, zöldterület-kezelés |
 
-|  | Kivéve: |
+| 85.32 | Szakmai középfokú oktatás |
 
-|  | 37.10 Fém visszanyerése hulladékból |
+| 85.41 | Felső szintű, nem felsőfokú oktatás |
 
-| 41 | Víztermelés, -kezelés, -elosztás |
+| 85.42 | Felsőfokú oktatás |
 
-| 50.2 | Gépjárműjavítás |
+| 85.5 | Egyéb oktatás |
 
-| 64 | Posta, távközlés |
+| 86 | Humán-egészségügyi ellátás |
 
-|  | Kivéve: |
+| 87 | Bentlakásos, nem kórházi ápolás |
 
-|  | 64.1 Postai, futárpostai tevékenység |
+| 95 | Számítógép, személyi-, háztartási cikk javítása |
 
-| 74.3 | Műszaki vizsgálat, elemzés |
+| 96 | Egyéb személyi szolgáltatás |
 
-| 74.6 | Nyomozási, biztonsági tevékenység |
-
-| 74.7 | Takarítás, tisztítás |
-
-| 80.22 | Szakmai középfokú oktatás |
-
-| 80.3 | Felsőoktatás |
-
-| 80.42 | Máshova nem sorolt felnőtt- és egyéb oktatás |
-
-| 85 | Egészségügyi, szociális ellátás |
-
-|  | Kivéve: |
-
-|  | 85.3 Szociális ellátás |
-
-| 92.11 | Film-, videogyártás |
-
-| 92.2 | Rádió-televízió műsorszolgáltatás |
-
-| 92.3 | Egyéb szórakoztatás |
-
-| 93 | Egyéb szolgáltatás |
+| 97 | Háztartási alkalmazottat foglalkoztató magánháztartás |
 
 | III. VESZÉLYESSÉGI OSZTÁLY |
 
-| 50 | Járműkereskedelem, -javítás, üzemanyag-kereskedelem |
+| 45 | Gépjármű-, motorkerékpár kereskedelme, javítása Kivéve: 45.2 Gépjárműjavítás, karbantartás 45.4 Motorkerékpár, -alkatrész kereskedelme, javítása |
 
-|  | Kivéve: |
+| 46 | Nagykereskedelem (kivéve: jármű, motorkerékpár) |
 
-|  | 50.2 Gépjárműjavítás |
+| 47 | Kiskereskedelem (kivéve: gépjármű, motorkerékpár) |
 
-| 51 | Nagykereskedelem |
+| 53 | Postai, futárpostai tevékenység |
 
-| 52 | Kiskereskedelem |
+| 55 | Szálláshely-szolgáltatás |
 
-| 55 | Szálláshely-szolgáltatás, vendéglátás |
+| 56 | Vendéglátás |
 
-| 63.3 | Utazásszervezés |
+| 62 | Információ- technológiai szolgáltatás |
 
-| 63.4 | Szállítmányozás |
+| 63 | Információs szolgáltatás |
 
-| 64 | Posta, távközlés |
+| 64 | Pénzügyi közvetítés, kivéve: biztosítási, nyugdíjpénztári tevékenység |
 
-|  | Kivéve: |
+| 65 | Biztosítás, viszontbiztosítás, nyugdíjalapok (kivéve: kötelező társadalombiztosítás) |
 
-|  | 64.2 Távközlés |
+| 66 | Egyéb pénzügyi tevékenység |
 
-| 65 | Pénzügyi közvetítés |
+| 68 | Ingatlanügyletek |
 
-| 66 | Biztosítás, nyugdíjalap |
+| 69 | Jogi, számviteli, adószakértői tevékenység |
 
-| 67 | Pénzügyi kiegészítő tevékenység |
+| 70 | Üzletvezetési, vezetői tanácsadás |
 
-| 70 | Ingatlanügyletek |
+| 71 | Építészmérnöki tevékenység; műszaki vizsgálat, elemzés Kivéve: 71.2 Műszaki vizsgálat, elemzés |
 
-| 71 | Kölcsönzés |
+| 72.2 | Társadalomtudományi, humán kutatás, fejlesztés |
 
-| 72 | Számítástechnikai tevékenység |
+| 73 | Reklám, piackutatás |
 
-| 73.2 | Humán kutatás, fejlesztés |
+| 74 | Egyéb szakmai, tudományos, műszaki tevékenység |
 
-| 74 | Egyéb gazdasági szolgáltatás |
+| 77 | Kölcsönzés, operatív lízing |
 
-|  | Kivéve: |
+| 78 | Munkaerőpiaci szolgáltatás |
 
-|  | 74.3 Műszaki vizsgálat, elemzés |
+| 79 | Utazásközvetítés, utazásszervezés, egyéb foglalás |
 
-|  | 74.6 Nyomozási, biztonsági tevékenység |
+| 82 | Adminisztratív-, kiegészítő egyéb üzleti szolgáltatás |
 
-|  | 74.7 Takarítás, tisztítás |
+| 84 | Közigazgatás, védelem; kötelező társadalombiztosítás |
 
-| 75 | Közigazgatás, védelem, kötelező társadalombiztosítás |
+| 85 | Oktatás Kivéve: 85.32 Szakmai középfokú oktatás 85.41 Felső szintű, nem felsőfokú oktatás 85.42 Felsőfokú oktatás 85.5 Egyéb oktatás |
 
-| 80 | Oktatás |
+| 88 | Szociális ellátás bentlakás nélkül |
 
-|  | Kivéve: |
+| 91 | Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység |
 
-|  | 80.22 Szakmai középfokú oktatás |
+| 92 | Szerencsejáték, fogadás |
 
-|  | 80.3 Felsőoktatás |
+| 93 | Sport-, szórakoztató-, szabadidős tevékenység |
 
-|  | 80.42 Máshova nem sorolt felnőtt- és egyéb oktatás |
+| 94 | Érdekképviselet |
 
-| 85.3 | Szociális ellátás |
+| 96 | Egyéb személyi szolgáltatás |
 
-| 91 | Érdekképviselet |
-
-| 92 | Szórakoztatás, kultúra, sport |
-
-|  | Kivéve: |
-
-|  | 92.11 Film-, videogyártás |
-
-|  | 92.2 Rádió-televízió műsorszolgáltatás |
-
-2. A munkáltatókat a veszélyességi osztályon belül az általuk foglalkoztatott munkavállalók előző évi átlagos állományi – ennek hiányában a besoroláskori átlagos állományi – létszáma alapján kell csoportosítani:
+2. A munkáltatókat a veszélyességi osztályon belül az általuk foglalkoztatott munkavállalók – beleértve a munkaerő-kölcsönzés keretében átengedett munkavállalókat is – állományi létszáma alapján kell csoportosítani:
 
 a) 1–9 munkavállaló között;
 
@@ -272,7 +236,7 @@ d) 501–1000 munkavállaló között;
 
 e) 1000 munkavállaló felett.
 
-3. Az 1. és 2. pontban leírt szempontok alapján besorolt munkáltató – a 4–5. pontokban meghatározott eltérés figyelembevételével – legalább a következő számú és munkavédelmi szakképesítésű személyt köteles, minimálisan az e pontban megállapított munkaidőtartamot kitöltő, munkavédelmi tevékenységre foglalkoztatni:
+3. Az 1. és 2. pontban leírt szempontok alapján besorolt munkáltató – a 4–5. pontokban meghatározott eltérés figyelembevételével – legalább az alábbiakban meghatározott létszámú és munkavédelmi szakképesítésű személyt köteles, minimálisan az e pontban megállapított munkaidőtartamot kitöltő, munkavédelmi tevékenységre foglalkoztatni:
 
 I/a) egy fő középfokú munkavédelmi szakképesítésű heti két órára,
 
@@ -286,13 +250,21 @@ I/e) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel é
 
 II/a) egy fő középfokú munkavédelmi szakképesítésű heti egy órára,
 
-II/b)–d) egy fő középfokú munkavédelmi szakképesítésű napi egy órára [II/b) esetén] napi két órára [II/c) esetén], illetve teljes munkaidővel [II/d) esetén],
+II/b) egy fő középfokú munkavédelmi szakképesítésű napi egy órára,
+
+II/c) egy fő középfokú munkavédelmi szakképesítésű napi két órára,
+
+II/d) egy fő középfokú munkavédelmi szakképesítésű teljes munkaidővel,
 
 II/e) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel és minden megkezdett 800 munkavállaló után további egy-egy fő középfokú munkavédelmi szakképesítésű teljes munkaidővel,
 
 III/a) egy fő középfokú munkavédelmi szakképesítésű heti egy órára,
 
-III/b)–d) egy fő középfokú munkavédelmi szakképesítésű napi egy órára [III/b)–c) esetén], illetve napi négy órára [III/d) esetén],
+III/b) egy fő középfokú munkavédelmi szakképesítésű napi egy órára,
+
+III/c) egy fő középfokú munkavédelmi szakképesítésű napi egy órára napi négy órára,
+
+III/d) egy fő középfokú munkavédelmi szakképesítésű napi egy órára napi négy órára,
 
 III/e) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel.
 
@@ -302,16 +274,16 @@ III/e) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel.
 
 Amennyiben a munkáltató az ágazati számjele szerinti tevékenység mellett más veszélyességi osztályba sorolásra alapot adó tevékenységet is folytat:
 
-— ha ez utóbbi tevékenység magasabb veszélyességi osztályba tartozik és az e körben foglalkoztatottak száma az összlétszám 40%-át eléri, számjeléhez képest eggyel magasabb;
+–  ha ez utóbbi tevékenység magasabb veszélyességi osztályba tartozik és az e körben foglalkoztatottak száma az összlétszám 40%-át eléri, számjeléhez képest eggyel magasabb;
 
-— ha ez utóbbi tevékenység alacsonyabb veszélyességi osztályba tartozik és az e körben foglalkoztatottak száma az összlétszám 60%-át eléri, számjeléhez képest eggyel alacsonyabb
-
-veszélyességi osztályba kell a munkáltatót besorolni.
+–  ha ez utóbbi tevékenység alacsonyabb veszélyességi osztályba tartozik és az e körben foglalkoztatottak száma az összlétszám 60%-át eléri, számjeléhez képest eggyel alacsonyabb veszélyességi osztályba kell a munkáltatót besorolni.
 
 A 2. pontban megjelölt létszámkategória szerinti besorolás alapja minden esetben a munkáltató teljes állományi létszáma (akkor is, ha a létszám százalékos aránya miatt magasabb vagy alacsonyabb veszélyességi osztályba kell sorolni a fentiek szerint).
 
 Tanulókat, hallgatókat abban az arányban kell a munkavállalói létszámhoz számítani, amilyen arányt a gyakorlati képzésük képvisel a teljes oktatási idő tartamához képest.
 
-6. A munkavédelmi hatósági ellenőrzés során a munkáltatónak kell bizonyítani a besorolás helyességét, az alapul vett adatok valódiságát.
+6. A munkavédelmi hatósági ellenőrzés során a munkáltatónak kell bizonyítani a besorolás helyességét, az alapul vett adatok valódiságát továbbá a munkavédelmi szakember előírt óraszámban történő foglalkoztatását.
 
-[^26]: A 2. számú melléklet a Magyar Közlöny 1994. évi 3. számában megjelent helyesbítésnek megfelelő és a 20/1997. (XII. 19.) MüM rendelet 7. §-ának (2) bekezdése, a 11/2002. (XII. 28.) FMM rendelet 6. §-ának (2) bekezdése és 7. §-ának (1) bekezdése, valamint a 16/2004. (IV. 19.) FMM rendelet 4. §-a szerint módosított szöveg.
+7. A munkáltató köteles a besorolását veszélyességi osztály vagy létszám kategória megváltozásakor módosítani és a besorolás megfelelősségét évenként felülvizsgálni, valamint mindezt írásban dokumentálni.
+
+[^26]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított szöveg.

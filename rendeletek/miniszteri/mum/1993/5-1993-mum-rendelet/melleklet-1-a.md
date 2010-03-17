@@ -1,69 +1,69 @@
 1/a. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^24]
 
-Az Mvt. 21. §-ának (2) bekezdése alá tartozó veszélyes munkaeszközök jegyzéke
+Az Mvt. 21. § (2) bekezdése alapján veszélyesnek minősülő munkaeszközök jegyzéke
 
-## A gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 21/1998. (IV. 17.) IKIM rendelet alapján:
+1. A famegmunkálásra vagy a fához hasonló fizikai tulajdonsággal rendelkező anyagok megmunkálására, húsfeldolgozásra vagy a húshoz hasonló fizikai tulajdonságokkal rendelkező anyagok feldolgozására szolgáló (egy- vagy többélű), következő típusú körfűrészek:
 
-1. Körfűrészek egy vagy több fűrészlappal, fa vagy hasonló, hús vagy hasonló anyagokhoz.
+1.1. működés közben rögzített fűrészéllel/fűrészélekkel dolgozó fűrészgép, amely rögzített gépággyal rendelkezik, és a munkadarabot kézi előtolással vagy leszerelhető gépi előtolással mozgatja;
 
-1.1. Rögzített szerszámmal dolgozó fűrészgépek, amelyeknek fix a gépágyuk és a munkadarabot kézi vagy leszerelhető előtolással juttatják a szerszámhoz.
+1.2. működés közben rögzített fűrészlappal dolgozó fűrészgép, kézzel működtetett váltakozó mozgású fűrészpaddal vagy kocsival;
 
-1.2. Rögzített szerszámmal dolgozó fűrészgépek, amelyeknél az alternáló mozgású fűrészállványt kézzel vezérlik vagy azt hajtóművel szerelték fel.
+1.3. működés közben rögzített fűrészlappal dolgozó fűrészgép, amely a munkadarabot beépített mechanikus előtolással, kézi behelyezéssel és/vagy kivétellel mozgatja;
 
-1.3. Rögzített szerszámmal dolgozó fűrészgépek, amelyek a munkadarabot gépi előtolással mozgatják és a munkadarab behelyezése (adagolása) és/vagy kivétele kézzel történik.
+1.4. mozgó élű fűrészgép, amely a munkadarabot mechanikus előtolással, kézi behelyezéssel és/vagy kivétellel mozgatja.
 
-1.4. Mozgószerszámú fűrészgépek gépi előtolással és a munkadarab kézzel végzett behelyezésével és/vagy kivételével.
+2. Faipari gyalugép kézi előtolással.
 
-2. Faipari gyalugépek kézi előtolással.
+3. Faipari vastagsági gyalugép egyoldali megmunkálásra, amely beépített mechanikus előtolással rendelkezik, a munkadarab kézi behelyezésével és/vagy kivételével.
 
-3. Faipari vastagsági gyalugépek egyoldali megmunkálásra, ha a munkadarab behelyezése és/vagy kivétele kézzel történik.
+4. A következő típusú szalagfűrészek kézi behelyezéssel és/vagy kivétellel, famegmunkálásra és a fához hasonló fizikai tulajdonságokkal rendelkező anyagok megmunkálására, vagy húsfeldolgozásra és a húshoz hasonló fizikai tulajdonságokkal rendelkező anyagok feldolgozására:
 
-4. Szalagfűrészek egy vagy több fűrészlappal, fa vagy hasonló, hús vagy hasonló anyagokhoz, ha a munkadarab behelyezése és/vagy kivétele kézzel történik.
+4.1. működés közben rögzített éllel/élekkel dolgozó fűrészgép, rögzített vagy váltakozó mozgású fűrészpaddal vagy gépággyal;
 
-5. Az 1–4. és a 7. pont alatti munkaeszköz kombinált kivitelben.
+4.2. váltakozó mozgású kocsira szerelt éllel rendelkező fűrészgép.
 
-6. Faipari csapmarógépek több szerszámtartóval, kézi előtolással.
+5. Az 1–4. és a 7. pont szerinti gépek kombinált kivitelben famegmunkálásra és a fához hasonló fizikai tulajdonságokkal rendelkező anyag megmunkálására.
 
-7. Kézi láncfűrészgépek fa megmunkálására.
+6. Faipari csapmarógép több szerszámtartóval, kézi előtolással.
 
-8. Függőleges marógépek kézi előtolással, fa és hasonló anyagok megmunkálására.
+7. Függőleges marógép kézi előtolással famegmunkálásra és a fához hasonló fizikai tulajdonságokkal rendelkező anyagok megmunkálására.
 
-9. Prések, hajlítógépek fémmegmunkáláshoz, ha a munkadarab behelyezése és/vagy kivétele kézzel történik és a mozgó elemek lökete túllépheti a 6 millimétert, valamint a sebesség a 30 mm/s-ot.
+8. Faipari kézi láncfűrészgép.
 
-10. Műanyag-feldolgozó fröccsöntőgépek vagy formázóprések, ha a munkadarab behelyezése és/vagy kivétele kézzel történik.
+9. Kézzel adagolt és ürített, fémek hidegátalakítására való sajtó, beleértve azt az élhajlítógépet is, amely mozgó elemeinek elmozdulása meghaladhatja a 6 mm-t, és a sebessége meghaladhatja a 30 mm/s értéket.
 
-11. Gumiipari fröccsöntőgépek vagy formázóprések, ha a munkadarab behelyezése és/vagy kivétele kézzel történik.
+10. Műanyag-feldolgozó fröccsöntőgép vagy formázóprés a munkadarab kézi behelyezésével és/vagy kivételével.
 
-12. Föld alatti munkára szolgáló
+11. Gumiipari fröccsöntőgép vagy formázóprés a munkadarab kézi behelyezésével és/vagy kivételével.
 
-– vasúti munkagépek, mozdonyok és fékezőkocsik;
+12. A következő föld alatti munkára szolgáló gépek:
 
-– hidraulikus energiával működtetett emelőtalpak;
+12.1. mozdony és fékezőkocsi,
 
-– munkagépekbe beépített belső égésű motorok.
+12.2. hidraulikus energiával működtetett alátámasztó biztosító berendezés.
 
-13. Háztartási hulladékgyűjtő teherjárművek kézi töltésű és présmechanizmussal rendelkező kivitelben.
+13. Kézi adagolású háztartási hulladékgyűjtő teherjármű, amely présmechanizmussal van felszerelve.
 
-14. A 21/1998. (IV. 17.) IKIM rendelet 1. számú mellékletének 3.4.7. pontjában meghatározott védőburkolatok és erőátviteli tengelyek univerzális csatlakozóval.
+14. Járműemelők.
 
-15. Járművekre szerelt emelők.
+15. Személyek vagy személyek és terhek emelésére szolgáló szerkezetek, amelyeknél fennáll a leesés veszélye több mint három méter magasságból.
 
-16. Személyek emelésére szolgáló gépek, amelyeknél fennáll a több mint 3 méter magasból történő leesés veszélye.
+16. Hordozható patronos rögzítő- és egyéb összekapcsoló gép.
 
-17. Pirotechnikai termékeket gyártó gépek.
+További munkaeszközök:
 
-Egyéb jogszabályok alapján:
+17. Daruk és futómacskák gépi meghajtással.
 
-18. Daruk és futómacskák gépi meghajtással.
+18. Gépi hajtású emelőtargoncák.
 
-19. Gépi hajtású emelőtargoncák.
+19. Villamos emelődobok.
 
-20. Villamos emelődobok.
+20. Rakodógépek, jövesztő-rakodógépek.
 
-21. Rakodógépek.
+21. Mezőgazdasági és erdészeti traktorok.
 
-22. Mezőgazdasági és erdészeti traktorok.
+22. Járműürítés és -mozgatás különleges berendezései.
 
-23. Járműürítés és -mozgatás különleges berendezései.
+23. Személyszállításra használt folyamatos szállítóberendezések.
 
-[^24]: A Vhr. 1/a. számú melléklete a 11/2002. (XII. 28.) FMM rendelet 6. §-ának (1) bekezdésével megállapított szöveg.
+[^24]: A Vhr. 1/a. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (1) bekezdésével megállapított szöveg.
