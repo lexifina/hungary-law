@@ -6,4 +6,6 @@
 
 14. § (1) Az állami repülések céljára szolgáló repülőtér újonnan létesített, illetve telepített léginavigációs berendezéseinek konfigurációs változatait az illetékes szolgálati elöljáró (Honvéd Vezérkar) irányításával és közreműködésével kell megtervezni.
 
-(2) Az elkészített tervet a tervező(k) jóváhagyásra terjesztik fel a Hatósághoz.
+(2)[^16] Az elkészített terv jóváhagyásáról a tervező kérelmére a Hatóság dönt.
+
+[^16]: A 14. § (2) bekezdése az 5/2010. (III. 9.) HM rendelet 3. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

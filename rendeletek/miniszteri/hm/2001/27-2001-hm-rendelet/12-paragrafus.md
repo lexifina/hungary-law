@@ -2,7 +2,7 @@
 
 ## illetve az üzemben tartási engedély visszavonása
 
-12. §[^8] (1) A Hatóság az üzemben tartási engedély szerinti tevékenység gyakorlását felfüggeszti, ha
+12. §[^15] (1) A Hatóság az üzemben tartási engedély szerinti tevékenység gyakorlását felfüggeszti, ha
 
 a) a léginavigációs berendezés előírt, időszakos ellenőrző berepülését nem hajtották végre;
 
@@ -24,4 +24,4 @@ b) a léginavigációs berendezés ipari nagyjavításra, felújításra szorul,
 
 c) a léginavigációs berendezés konfigurációjában oly mértékű változás állt be, amely miatt az előírt szolgáltatásokat nem biztosíthatja (pl. a fénytechnikai rendszer rongált állapota).
 
-[^8]: A 12. § a 22/2008. (IX. 23.) HM rendelet 3. §-ával megállapított szöveg.
+[^15]: A 12. § a 22/2008. (IX. 23.) HM rendelet 3. §-ával megállapított szöveg.

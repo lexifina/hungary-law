@@ -14,4 +14,6 @@ d) a repülőtér tervezett kategóriája szerint előírt légiforgalmi, repül
 
 (3) Ha az üzemeltető a jogszabályban előírt feltételeknek eleget tesz, a Hatóság az üzemben tartási engedélyt kiadja.
 
-(4) A Hatóság – az üzemben tartás feltételei részleges teljesítése esetén – dönthet úgy is, hogy az üzemben tartási engedélyt üzemeltetési korlátozásokkal adja ki, de a 4. § b)–e) pontjaiban foglaltak alkalmazásától ekkor sem tekinthet el. A korlátozásokról a Hatóság indokolással ellátott határozatot hoz.
+(4)[^4] A Hatóság – az üzemben tartás feltételei részleges teljesítése esetén – dönthet úgy is, hogy az üzemben tartási engedélyt üzemeltetési korlátozásokkal adja ki, de a 4. § b)–e) pontjaiban foglaltak alkalmazásától ekkor sem tekinthet el.
+
+[^4]: Az 5. § (4) bekezdése az 5/2010. (III. 9.) HM rendelet 3. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

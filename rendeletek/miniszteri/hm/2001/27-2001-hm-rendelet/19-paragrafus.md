@@ -4,9 +4,9 @@
 
 19. § (1) Ez a rendelet a kihirdetését követő második hónap első napján lép hatályba.
 
-(2)[^11]
+(2)[^20]
 
-Melléklet a 27/2001. (XI. 23.) HM rendelethez[^12]
+Melléklet a 27/2001. (XI. 23.) HM rendelethez[^21]
 
 A repülőtérrend részletes tartalma
 
@@ -18,7 +18,7 @@ I. Fejezet
 
 2. módosítások jegyzéke,
 
-3. érvényes oldalak jegyzéke[^13],
+3. érvényes oldalak jegyzéke[^22],
 
 4. a repülőtérrend kiadásának jogi alapjai,
 
@@ -186,6 +186,6 @@ A repülőtérre vonatkozó térképek (mellékletek)
 
 12. egyéb térképek/vázlatok, táblázatok (egyéb térképek, vázlatok, táblázatok, amelyek az adott repülőtér konkrét sajátossága és a végrehajtásra kerülő feladatok jellege miatt szükségesek).
 
-[^11]: A 19. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 107. pontja hatályon kívül helyezte.
-[^12]: A melléklet a 22/2008. (IX. 23.) HM rendelet 4. §-ával megállapított szöveg.
-[^13]: Az érvényes oldalak jobb felső részében a hatálybalépés időpontját fel kell tüntetni.
+[^20]: A 19. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 13. §-ának 107. pontja hatályon kívül helyezte.
+[^21]: A melléklet a 22/2008. (IX. 23.) HM rendelet 4. §-ával megállapított szöveg.
+[^22]: Az érvényes oldalak jobb felső részében a hatálybalépés időpontját fel kell tüntetni.
