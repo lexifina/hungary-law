@@ -1,0 +1,3 @@
+2. § (1) A nyilvános repülőrendezvény szabályairól az állami célú légiközlekedésben című 11/1999. (VIII. 26.) HM rendelet (a továbbiakban: R2.) 5. § (1) bekezdésében az „igényét” szövegrész helyébe a „kérelmét”, az „igényről” szövegrész helyébe a „kérelemről” szöveg, 16. § (1) bekezdésében a „90 nappal” szövegrész helyébe a „3 hónappal” szöveg, 16. § (2) bekezdésében a „15 napon belül” szövegrész helyébe a „10 munkanapon belül” szöveg lép.
+
+(2) Hatályát veszti az R2. 4. § (2) bekezdésében az „előzetes” szövegrész, 16. § (2) bekezdésében az „indokolt” szövegrész, valamint 16. § (3)–(4) bekezdése.
