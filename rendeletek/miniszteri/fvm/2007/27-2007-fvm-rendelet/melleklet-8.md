@@ -60,6 +60,6 @@
 
 | 5 | 1 | 2 | 3 | 1 | Állati hullaégető kazánok telepítése | 12 000 | Ft/ÁE |
 
-8. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^93]
+8. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^94]
 
-[^93]: A 8. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (5) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^94]: A 8. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (5) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.

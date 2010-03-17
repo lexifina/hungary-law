@@ -242,7 +242,7 @@
 
 |  | – Rezsióradíj alapján számított élőmunka költség. |
 
-13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^98]
+13. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^99]
 
 Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javító, állatbetegségek kialakulását
 
@@ -322,12 +322,4 @@ Telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javí
 
 |  | – A beépítés és a betanítás élőmunka- és dologi költségei. |
 
-| 5.1.1.2.1. Automata sorozatoltó fecskendő beszerzése |
-
-| MT | – A korszerű üzemeltetési funkcióknak és a kapcsolódó állategészségügyi előírásoknak megfelelő működést biztosító technológiai kivitelezés. |
-
-|  | – A sorozatoltók állatjóléti előírásoknak a telepi állatorvos által igazoltan megfelelő használata. |
-
-| EK | – A sorozatoltó fecskendők, illetve tartozékok, pótalkatrészek, segédanyagok és állatgyógyászati engedélyköteles eszközök és anyagok beszerzése, azok helyszínre szállításával. |
-
-[^98]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^99]: A 13. számú melléklet a 130/2008. (X. 1.) FVM rendelet 6. § (6) bekezdésével megállapított szöveg.
