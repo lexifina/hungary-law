@@ -6,7 +6,7 @@ b) a Bizottság 1974/2006/EK rendelete (2006. december 15.) az Európai Mezőgaz
 
 c) a Bizottság 1320/2006/EK rendelete (2006. szeptember 5.) az 1698/2005/EK tanácsi rendeletben előírt vidékfejlesztési támogatásra történő átmenet részletes szabályainak megállapításáról.
 
-Melléklet a 18/2009. (III. 6.) FVM rendelethez[^9]
+Melléklet a 18/2009. (III. 6.) FVM rendelethez[^13]
 
 1. Az Európai Mezőgazdasági Vidékfejlesztési Alapból közbeszerzési eljárás keretében kötött szerződés alapján a komplex tájékoztatási tevékenység, a gazdálkodói információs szolgálat fenntartására igénybe vett támogatásokhoz kapcsolódó adatszolgáltatás:
 
@@ -950,4 +950,4 @@ a) a helyi akciócsoport területe és népessége,
 
 b) a helyi akciócsoportok működési költségeiből végrehajtott tevékenységek száma és felhasznált támogatási összege tevékenységtípusonkénti bontásban.
 
-[^9]: A melléklet az 5/2010. (I. 28.) FVM rendelet 3. §-ával megállapított szöveg.
+[^13]: A melléklet az 5/2010. (I. 28.) FVM rendelet 3. §-ával megállapított szöveg.
