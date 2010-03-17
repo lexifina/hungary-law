@@ -192,6 +192,8 @@
 
 | 9112 | Szakmai érdekképviselet |
 
-3. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^40]
+| 6210 | Menetrendszerű légi szállítás |
 
-[^40]: A 3. számú melléklet a 8/2009. (II. 4.) FVM rendelet 5. § (1) bekezdése, a 123/2009. (IX. 17.) FVM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+3. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^54]
+
+[^54]: A 3. számú melléklet a 8/2009. (II. 4.) FVM rendelet 5. § (1) bekezdése, a 123/2009. (IX. 17.) FVM rendelet 8. § (2) bekezdése, a 21/2010. (III. 16.) FVM rendelet 22. § (2) bekezdése szerint módosított szöveg.

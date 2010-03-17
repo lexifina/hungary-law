@@ -6,30 +6,26 @@
 
 ## c) jogszabály alapján fizetett költségtérítések (munkába járás, napidíj, utazási költségtérítés) a jogszabályokban meghatározott adómentes összegig fizetett része;
 
-## d) a munkáltató által a munkavállaló javára munkáltatói hozzájárulásként, természetbeni juttatásként, költségtérítésként fizetett összeg adómentes része:
+## d)[^56] a munkáltató által a munkavállaló javára munkáltatói hozzájárulásként, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 70. §-a és 71. §-a alapján jutatott kedvezményes adózású természetbeni és béren kívüli juttatások közül
 
-## – étkezési utalvány,
+## da) melegétkezési utalvány,
 
-## – önkéntes pénztárba befizetett munkáltatói tagdíj-hozzájárulás,
+## db) önkéntes nyugdíjpénztári hozzájárulás,
 
-## – magánnyugdíjpénztárba befizetett munkáltatói tagdíj-kiegészítés,
+## dc) önkéntes egészségpénztári hozzájárulás,
 
-## – egészségpénztári tagdíj finanszírozásának átvállalása,
+## dd) helyi utazási bérlet,
 
-## – hozzájárulás egészségpénztári egyéni számlához a tagdíjon felül is,
+## de) üdülési csekk hozzájárulás,
 
-## – kultúra utalvány,
+## df) iskolakezdési támogatás utalvány formájában,
 
-## – iskolakezdési támogatás utalvány formájában,
+## dg) iskolarendszerű képzés támogatása;
 
-## – tanulmányi ösztöndíj, képzési, továbbképzési, nyelvtanulási támogatás,
+## e)[^57] a munkáltató a LEADER HACS főállású munkavállalói részére a d) pontban meghatározott természetbeni és béren kívüli juttatásokat munkavállalónként és naptári évenként legfeljebb bruttó 400 000 forint erejéig számolhatja el.
 
-## – üdülési csekk,
+5. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^58]
 
-## – helyi utazási bérlet;
-
-## e) a munkáltató a LEADER HACS főállású munkavállalói részére a d) pontban meghatározott természetbeni juttatásokat munkavállalónként legfeljebb naptári évenként 400 000 forint erejéig elszámolhatja;
-
-5. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^42]
-
-[^42]: Az 5. számú melléklet a 123/2009. (IX. 17.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^56]: A 4. számú melléklet d) pontja a 21/2010. (III. 16.) FVM rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^57]: A 4. számú melléklet e) pontja a 21/2010. (III. 16.) FVM rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^58]: Az 5. számú melléklet a 123/2009. (IX. 17.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg.

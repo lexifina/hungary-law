@@ -226,6 +226,16 @@
 
 | 9613 | Öngyújtó és más gyújtó, mechanikus vagy elektromos is, és ezek alkatrésze, a tűzkő és a kanóc kivételével |
 
+| 8506 | Primer elem és primer telep |
+
+| 8535 | 1000 V-nál nagyobb feszültségű elektromos áramkör összekapcsolására vagy védelmére vagy elektromos áramkörbe vagy azon belüli összekapcsolásra szolgáló elektromos készülék (például kapcsoló, olvadóbiztosíték, túlfeszültség-levezető, feszültséghatároló vagy -korlátozó, túlfeszültség-csökkentő, dugasz, csatlakozódoboz) |
+
+| 3405 | Lábbeli-, bútor-, padló-, autókarosszéria-, üvegfényesítők és fémpolírozók, krémek, súrolókrémek, -porok és hasonló készítmények, valamint az ezekkel impregnált, bevont, beborított papír, vatta, nemez, nem szőtt textília, porózus műanyag, szivacsgumi is, a 3404 vtsz. alá tartozó viaszok kivételével |
+
+| 9015 | Földmérő (a fotogrammetriai földmérő is), hidrográfiai, oceánográfiai, hidrológiai, meteorológiai vagy geofizikai műszer és készülék, az iránytű kivételével; távolságmérő |
+
+| 9017 | Rajzoló-, jelölő- vagy matematikai számolóműszer és eszköz (például rajzológép, pantográf, szögmérő, rajzolókészlet, logarléc, logartárcsa); ebbe az árucsoportba más vtsz. alá nem besorolható kézi hosszúságmérő eszköz (például mérőrúd és -szalag, mikrométer, körző) |
+
 ## 2. táblázat
 
 | 0802 | Más dióféle frissen vagy szárítva, héjastól is |
@@ -484,6 +494,6 @@
 
 | 9617 | Hőpalack és egyéb vákuumos edény tokkal együtt; ezek alkatrésze, az üvegbetét kivételével |
 
-4. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^41]
+4. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^55]
 
-[^41]: A 4. számú melléklet a 123/2009. (IX. 17.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^55]: A 4. számú melléklet a 123/2009. (IX. 17.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg.

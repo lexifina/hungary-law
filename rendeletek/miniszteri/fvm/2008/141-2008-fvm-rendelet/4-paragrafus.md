@@ -20,7 +20,7 @@ b) ha a beszerzés eléri a közbeszerzésekről szóló 2003. évi CXXIX. törv
 
 (6) Ha a teljesítési igazolás a beszámolóban szereplő feladatok 100%-nál kisebb mértékű teljesítéséről szól, a támogatás legmagasabb összege a kifizetési kérelem alapján az 1975/2006/EK rendelet 31. cikk (1) bekezdése szerinti szankcióval csökkentett támogatási összegének és a teljesítés mértékének a szorzata.
 
-(7) Az e rendelet 3. § (1) bekezdés c) pontjában meghatározott feladat vonatkozásában egy adott témában évente csak egy tanulmány, helyzetfeltáró elemzés készíthető, és évente legfeljebb hat tanulmány, helyzetfeltáró elemzés elkészítése támogatható. Az elismerhető költség tanulmányonként és helyzetfeltáró elemzésenként legfeljebb nettó 2 millió Ft. Az elkészült tanulmányokat a LEADER HACS vagy a HVK a weboldalán mindenki számára elérhető formában köteles közzétenni.
+(7)[^19] Az e rendelet 3. § (1) bekezdés c) pontjában meghatározott feladat vonatkozásában egy adott témában évente csak egy tanulmány, helyzetfeltáró elemzés készíthető, és évente legfeljebb hat tanulmány, helyzetfeltáró elemzés elkészítése támogatható. Az elismerhető költség tanulmányonként és helyzetfeltáró elemzésenként legfeljebb nettó 2 millió Ft. Az elkészült tanulmányokat a LEADER HACS vagy a HVK tagjainak gyűlésének jóvá kell hagynia és a LEADER HACS vagy HVK weboldalán mindenki számára elérhető formában köteles közzétenni.
 
 (8) A LEADER HACS és a HVK az e rendeletben foglalt támogatáson felül, a HVS végrehajtása érdekében végzett tevékenysége vonatkozásában további támogatás igénybevételére, illetve díjszedésre nem jogosult.
 
@@ -28,9 +28,10 @@ b) ha a beszerzés eléri a közbeszerzésekről szóló 2003. évi CXXIX. törv
 
 (10) A támogatás keretében beszerzésre kerülő eszközök vonatkozásában a Vhr. 23. § (1) bekezdés b) pontjától eltérően, az üzemeltetési kötelezettség a kifizetési kérelem benyújtásától számítva 5 évig tart.
 
-(11)[^19] Ha a 3. § (1) bekezdés l) pontjában meghatározott feladatellátás érdekében felmerülő teljes költség egy elszámolási időszakban meghaladja a nettó 500 000 Ft-ot, akkor a feladatellátás az IH előzetes jóváhagyásával végezhető. Az IH jóváhagyását a 6. számú melléklet szerinti adattartalmú, az FVM honlapján közzétett formanyomtatványon lehet kérelmezni.
+(11)[^20] Ha a 3. § (1) bekezdés l) pontjában meghatározott feladatellátás érdekében felmerülő teljes költség egy elszámolási időszakban meghaladja a nettó 500 000 Ft-ot, akkor a feladatellátás az IH előzetes jóváhagyásával végezhető. Az IH jóváhagyását a 6. számú melléklet szerinti adattartalmú, az FVM honlapján közzétett formanyomtatványon lehet kérelmezni.
 
 [^16]: A 4. § (3) bekezdése a 123/2009. (IX. 17.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^17]: A 4. § (4) bekezdés bevezető szövegrésze a 8/2009. (II. 4.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^18]: A 4. § (5) bekezdése a 123/2009. (IX. 17.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^19]: A 4. § (11) bekezdését a 123/2009. (IX. 17.) FVM rendelet 3. § (3) bekezdése iktatta be.
+[^19]: A 4. § (7) bekezdése a 21/2010. (III. 16.) FVM rendelet 16. §-ával megállapított szöveg.
+[^20]: A 4. § (11) bekezdését a 123/2009. (IX. 17.) FVM rendelet 3. § (3) bekezdése iktatta be.
