@@ -10,10 +10,12 @@ b) az Alkotmány szerinti minősített időszakokban (kivéve, ha a veszélyhely
 
 ## köteles javaslatot tenni.
 
-(4) A honvédségi szervezeteknél az At. hatálya alá tartozó tevékenységekre békeidőszakban és NVH esetén, figyelemmel az At. 68. § (2) c) pontjában kapott felhatalmazásra, az egészségügyi miniszter által rendeletben[^1] megállapított sugáregészségügyi határértékek és vonatkoztatási szintek, valamint az egyéni sugárterhelés rendszeres ellenőrzésének általános rendje, a nyilvántartás kivételével, kötelezően alkalmazandók.
+(4) A honvédségi szervezeteknél az At. hatálya alá tartozó tevékenységekre békeidőszakban és NVH esetén, figyelemmel az At. 68. § (2) c) pontjában kapott felhatalmazásra, az egészségügyi miniszter által rendeletben[^2] megállapított sugáregészségügyi határértékek és vonatkoztatási szintek, valamint az egyéni sugárterhelés rendszeres ellenőrzésének általános rendje, a nyilvántartás kivételével, kötelezően alkalmazandók.
 
-(5) Az atomenergia alkalmazási körében a személyi állomány egyéni sugárterhelése központi nyilvántartásának vezetése, az ellenőrzés megszervezése, a nem rendszeres egyéni sugárterhelés ellenőrzésének elrendelése a Magyar Honvédség Tisztiorvosi Szolgálatának (a továbbiakban: MH TSZ/hatóság) feladata.
+(5)[^3] Az atomenergia alkalmazási körében a személyi állomány egyéni sugárterhelése központi nyilvántartásának vezetése, az ellenőrzés megszervezése, a nem rendszeres egyéni sugárterhelés ellenőrzésének elrendelése a Magyar Honvédség Közegészségügyi-Járványügyi Szolgálatának (a továbbiakban: hatóság) feladata.
 
-(6) Az MH Tisztiorvosi Szolgálat a leszerelő állomány személyi sugárterhelési adatait megküldi az Országos Személyi Dozimetriai Szolgálat részére.
+(6)[^4] A hatóság a leszerelő állomány személyi sugárterhelési adatait megküldi az Országos Személyi Dozimetriai Szolgálat részére.
 
-[^1]: Az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet 2. számú melléklet – és az 1. és 2. számú függelék a 2. számú melléklethez – szerint.
+[^2]: Az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet 2. számú melléklet – és az 1. és 2. számú függelék a 2. számú melléklethez – szerint.
+[^3]: A 4. § (5) bekezdése az 5/2010. (III. 9.) HM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 4. § (6) bekezdése az 5/2010. (III. 9.) HM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

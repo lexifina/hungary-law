@@ -8,11 +8,11 @@
 
 ## bejelentés: jogi személy által a hatóság részére megküldött dokumentum azon szándék bejelentésére, hogy sugárveszélyes tevékenységet vagy egyéb, az At. hatálya alá tartozó tevékenységet kíván folytatni;
 
-## birtokos: valamely forrásra vagy tevékenységre (jellemzően tárolásra, kiadásra, ellenőrzésre) vonatkozó érvényes engedély birtokosa, akinek jogai és kötelezettségei vannak az atomenergia alkalmazási körében a védelem és biztonság tekintetében;
+## birtokos: valamely forrásra vagy tevékenységre (jellemzően tárolásra, kiadásra, ellenőrzésre) vonatkozó hatályos engedély birtokosa, akinek jogai és kötelezettségei vannak az atomenergia alkalmazási körében a védelem és biztonság tekintetében;
 
 ## biztonsági kultúra: szervezetek és egyének jellegzetességeinek és állásfoglalásainak összessége, amely alapját képezi annak, hogy a védelem és biztonság kérdései, mindent megelőző elsőbbséggel, jelentőségüknek megfelelő figyelmet kapnak;
 
-## felhasználó: valamely forrásra vagy tevékenységre (alkalmazásra, kiképzésre) vonatkozó érvényes engedély birtokosa, akinek jogai és kötelezettségei vannak az atomenergia alkalmazási körében a védelem és biztonság tekintetében;
+## felhasználó: valamely forrásra vagy tevékenységre (alkalmazásra, kiképzésre) vonatkozó hatályos engedély birtokosa, akinek jogai és kötelezettségei vannak az atomenergia alkalmazási körében a védelem és biztonság tekintetében;
 
 ## felhatalmazás: a hatóság által írásban kiadott engedély azon jogi személy részére, aki/amely az At. hatálya alá tartozó sugárveszélyes tevékenység végzése ügyében folyamodott jóváhagyásért. A felhatalmazás formáját tekintve lehet bejegyzés vagy engedély;
 
@@ -24,11 +24,9 @@
 
 ## haditechnikai termék: haditechnikai eszköz és/vagy a hozzá tartozó haditechnikai szolgáltatás;
 
-## honvédségi szervezet: a Magyar Honvédség olyan szervezeti egysége, amely önálló állománytáblával rendelkezik és a honvédelmi miniszter vagy a Magyar Honvédség parancsnoka irányítása és/vagy vezetése alá tartozik;
+## honvédségi szervezet: a Magyar Honvédség olyan szervezeti egysége, amely önálló állománytáblával rendelkezik és a honvédelemért felelős miniszter vagy a Magyar Honvédség parancsnoka irányítása és/vagy vezetése alá tartozik;
 
-## kérelmező: bármely jogi személy, aki a hatósághoz folyamodik engedélyért bármely olyan tevékenység végzéséhez, amely az At. hatálya alá tartozik;
-
-## rendszeresítő: valamely tevékenységre (rendszeresítésre, alkalmazásba vételre, létesítésre, elosztásra, kivonásra stb.) vagy forrásra vonatkozó érvényes engedély birtokosa, akinek elismert jogai és kötelezettségei vannak az adott tevékenységre, illetve forrásra vonatkozóan, elsősorban a védelem és biztonság tekintetében;
+## rendszeresítő: valamely tevékenységre (rendszeresítésre, alkalmazásba vételre, létesítésre, elosztásra, kivonásra stb.) vagy forrásra vonatkozó hatályos engedély birtokosa, akinek elismert jogai és kötelezettségei vannak az adott tevékenységre, illetve forrásra vonatkozóan, elsősorban a védelem és biztonság tekintetében;
 
 ## az ionizáló sugárforrás fokozott kockázatával járó tevékenység: olyan emberi tevékenység, amely a háttér-sugárzáshoz képest megnöveli a sugárterhelést vagy annak valószínűségét;
 

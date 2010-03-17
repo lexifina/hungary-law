@@ -20,7 +20,7 @@
 
 ## 6. Szándékosan okozott, illetve dózismérő nem rendeltetésszerű használatából eredő kárért a dózismérő viselőjét anyagi kártérítésre kell kötelezni.
 
-## 7. Az engedélyes honvédségi szervezet sugárvédelmi megbízottja (sugárvédelmi szolgálat) köteles a dózismérőkről, a személyi dózisokról saját nyilvántartást vezetni, amelyben fel kell tüntetni az érintett személyek adatait, a kiadott dózismérő számát, a kiadás (csere) és a hatóság részére való továbbítás napját. Az ellenőrzésre bejelentett létszám vagy a személyek adataiban bekövetkezett változásokat a hatósággal, a változás időpontjában írásban közölni kell. Az értékelés és központi nyilvántartás vezetése érdekében, a dózismérőket és kísérő űrlapokat pontosan kitöltve, az ellenőrzési időszak végén a hatóságnak vissza kell küldeni.
+## 7.[^38] Az engedélyes honvédségi szervezet sugárvédelmi megbízottja (sugárvédelmi szolgálat) köteles a dózismérőkről, a személyi dózisokról saját nyilvántartást vezetni, amelyben fel kell tüntetni az érintett személyek természetes személyazonosító adatait, a kiadott dózismérő számát, a kiadás (csere) és a hatóság részére való továbbítás napját. Az ellenőrzésre bejelentett létszám vagy a személyek természetes személyazonosító adataiban bekövetkezett változásokat a hatósággal, a változás időpontjában írásban közölni kell. Az értékelés és központi nyilvántartás vezetése érdekében, a dózismérőket és kísérő űrlapokat pontosan kitöltve, az ellenőrzési időszak végén a hatóságnak vissza kell küldeni.
 
 ## 8. A személyi állomány foglalkozási sugárterhelésének központi nyilvántartását a hatóság vezeti. Az egyéni dózis adatait, az értékelést végző országos szervezettől átvéve, 10 munkanapon belül, írásban közli az engedélyesekkel.
 
@@ -41,3 +41,5 @@
 ## 15. Amennyiben a hatóság előírta a személyi állomány egyes csoportjainak béta-, illetőleg neutron-sugárterhelés ellenőrzését – a munkahely sugárvédelmi megbízottjának (sugárvédelmi szolgálatának) szervezésében – a mérési eredményeket a központi nyilvántartás vezetése érdekében – a munkahelyre előírt rendszerességgel – közölni kell a hatósággal.
 
 3. számú melléklet a 33/2002. (V. 3.) HM rendelethez
+
+[^38]: A 2. számú melléklet 7. pontja az 5/2010. (III. 9.) HM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -16,19 +16,43 @@
 
 (6) Az engedély, az At. 14. § (1) bekezdésben foglalt előírásoknak megfelelően, lehet határozott, vagy határozatlan időre szóló, illetve bizonyos feltételekhez kötött. A határozott időre adott engedély kérelemre meghosszabbítható.
 
-(7)[^5] A hatósági engedély kiadása a 4. számú melléklet szerinti engedélykérelem benyújtását követően történik. Az engedély iránti kérelmet az atomenergia alkalmazója terjeszti elő. Szükség esetén a hatóság az adatok kiegészítését kérheti.
+(7)[^9] A hatósági engedély kiadása iránti kérelmet a hatóság által a következő adattartalommal rendszeresített formanyomtatványon az atomenergia alkalmazója terjeszti elő:
 
-(8) A hatóság az engedélyes kezdeményezésére az atomenergia alkalmazási köre szerint besorolja az engedélyköteles anyagokat, létesítményeket, haditechnikai termékeket, tevékenységeket. Megállapítja esetleges mentességüket, feltételhez kötött mentességüket, a tevékenység feltételeit, az alkalmazás során keletkező radioaktív hulladék kezelésének szabályait. A besorolás a 124/1997. (VII. 18.)[^6] Korm. rendelet és 23/1997. (VII. 18.)[^7] NM rendelet előírásait alkalmazva történik.
+a) a kérelmező felelős vezetőjének családi és utóneve, születési családi és utóneve, beosztása,
 
-(9) Az engedély megadása ügyében első fokon a hatóság, másodfokon a honvédelmi miniszter megbízásából az egészségügyi csoportfőnök jár el az At. 20. § a)–c), d)–f), h) pontjai vonatkozásában.
+b) a sugárvédelmi szolgálat vezetőjének és helyettesének családi és utóneve, születési családi és utóneve, munkaköri beosztása, iskolai végzettsége, sugárvédelmi képesítése,
 
-(10) A hatóság az engedélyt a sugáregészségügyi szempontból megfelelő személyi és tárgyi feltételek, a sugárvédelmi jogszabályokban előírt követelmények megléte (biztosítása) esetén, indokolt esetben további szakvélemény beszerzése után, adja meg.
+c) a sugárveszélyes tevékenység ismertetése,
 
-(11) Az engedély érvényét veszti, ha az abban meghatározott időtartam lejár, vagy az engedélyben meghatározott feltételek nem teljesültek, vagy az engedélyezett tevékenység tartósan, de legalább 6 hónapig szünetel.
+d) a sugárveszélyes tevékenységet végző szervezeti egység megnevezése, címe, felelős vezetője,
 
-(12) Az engedélyt a hatóság visszavonhatja, illetve érvényességi időtartamát korlátozhatja, amennyiben a biztonsági követelmények kedvezőtlen változása következik be.
+e) a kérelem tárgyának leírása,
 
-(13) Az engedélyek érvényességi időtartama és az ellenőrzés gyakorisága vonatkozásában az egészségügyi miniszter 16/2000. (VI. 1.) EüM rendelete az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról rendelet 19. §-a és 7. számú mellékletének függeléke előírásai az irányadók, haditechnikai termékek esetében pedig a rendszeresítési engedélyben a hatóság által meghatározott feltételek.
+ea) radioaktív anyag vagy zárt sugárforrás fajtájának, aktivitásának (legnagyobb aktivitásának) és felhasználásának megnevezése,
+
+eb) haditechnikai termék leírása,
+
+ec) tevékenységet szolgáló létesítmény leírása,
+
+ed) ionizáló sugárzást létrehozó berendezés, készülék megnevezése, gyártója, típusa és minősítésének száma,
+
+f) a sugárveszélyes munkakörök megnevezése, az ott foglalkoztatott személyi állomány létszáma és képzettsége,
+
+g) az alkalmazni kívánt sugárvédelmi mérőműszerek felsorolása,
+
+h) a kérelmezett engedély területi hatályára vonatkozó megjelölés.
+
+(8) A hatóság az engedélyes kezdeményezésére az atomenergia alkalmazási köre szerint besorolja az engedélyköteles anyagokat, létesítményeket, haditechnikai termékeket, tevékenységeket. Megállapítja esetleges mentességüket, feltételhez kötött mentességüket, a tevékenység feltételeit, az alkalmazás során keletkező radioaktív hulladék kezelésének szabályait. A besorolás a 124/1997. (VII. 18.)[^10] Korm. rendelet és 23/1997. (VII. 18.)[^11] NM rendelet előírásait alkalmazva történik.
+
+(9)[^12] Az engedély megadása ügyében első fokon a hatóság, másodfokon a honvédelemért felelős miniszter jár el az At. 20. § a)–c), d)–f), h) pontjai vonatkozásában.
+
+(10)[^13] A hatóság az engedélyt a sugáregészségügyi szempontból megfelelő személyi és tárgyi feltételek, a sugárvédelmi jogszabályokban előírt követelmények megléte (biztosítása) esetén adja meg.
+
+(11)[^14] Az engedély hatályát veszti, ha az abban meghatározott időtartam lejár, vagy az engedélyben meghatározott feltételek nem teljesültek, vagy az engedélyezett tevékenység tartósan, de legalább 6 hónapig szünetel.
+
+(12)[^15] Az engedélyt a hatóság visszavonhatja, illetve időbeli hatályát korlátozhatja, amennyiben a biztonsági követelmények kedvezőtlen változása következik be.
+
+(13)[^16] Az engedélyek időbeli hatálya és az ellenőrzés gyakorisága vonatkozásában az egészségügyi miniszter 16/2000. (VI. 1.) EüM rendelete az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról rendelet 19. §-a és 7. számú mellékletének függeléke előírásai az irányadók, haditechnikai termékek esetében pedig a rendszeresítési engedélyben a hatóság által meghatározott feltételek.
 
 (14) A honvédségi szervezeteknél az atomenergia alkalmazási körében folytatott tevékenység engedélyezésének további feltételei:
 
@@ -38,8 +62,14 @@ b) a hatóság által felügyelt sugárvédelmi szolgálat vagy kijelölt sugár
 
 Az MSSZ tartalmi követelményeit és a sugárvédelmi szolgálat feladatait a 16/2000. (VI. 1.) EüM rendelete az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról rendelet 6. és 8. számú mellékletének előírásait alkalmazva, figyelemmel az 5. számú mellékletben foglaltakra, kell meghatározni.
 
-(15) A hatóság határozatai ellen fellebbezésnek van helye. A fellebbezést az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény rendelkezései szerint a másodfokú hatóságnak címezve az elsőfokú hatósághoz kell benyújtani.
+(15)[^17]
 
-[^5]: A 6. § (7) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 55. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^6]: 124/1997. (VII. 18.) Korm. rendelet az atomenergiáról szóló 1996. évi CXVI. törvény hatálya alá nem tartozó radioaktív anyagok, valamint ionizáló sugárzást létrehozó berendezések köréről.
-[^7]: 23/1997. (VII. 18.) NM rendelet a radionuklidok mentességi aktivitás koncentrációja és mentességi aktivitása szintjének meghatározásáról.
+[^9]: A 6. § (7) bekezdése az 5/2010. (III. 9.) HM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: 124/1997. (VII. 18.) Korm. rendelet az atomenergiáról szóló 1996. évi CXVI. törvény hatálya alá nem tartozó radioaktív anyagok, valamint ionizáló sugárzást létrehozó berendezések köréről.
+[^11]: 23/1997. (VII. 18.) NM rendelet a radionuklidok mentességi aktivitás koncentrációja és mentességi aktivitása szintjének meghatározásáról.
+[^12]: A 6. § (9) bekezdése az 5/2010. (III. 9.) HM rendelet 5. § (2)–(3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 6. § (10) bekezdése az 5/2010. (III. 9.) HM rendelet 5. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 6. § (11) bekezdése az 5/2010. (III. 9.) HM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: A 6. § (12) bekezdése az 5/2010. (III. 9.) HM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 6. § (13) bekezdése az 5/2010. (III. 9.) HM rendelet 5. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A 6. § (15) bekezdését az 5/2010. (III. 9.) HM rendelet 5. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.

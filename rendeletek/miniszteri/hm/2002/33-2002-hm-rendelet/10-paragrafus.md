@@ -18,9 +18,9 @@
 
 (9) A szállítás tényét annak megkezdése előtt 24 órával, az MH Közlekedési Szolgálat ügyeletéhez be kell jelenteni. A szállítás idejére a szállítást végző járművet a veszélyes áruk szállításáról szóló jogszabályokban meghatározott jelzéssel, felszereléssel és okmányokkal kell ellátni.
 
-(10) A szállításoknak közúton, vízi és légi úton saját járművel történő elvégzésére, a radioaktív anyagok szállítására és csomagolására, az (1)–(8) bekezdésben felsoroltakon túlmenően a veszélyes áruk szállítására vonatkozó jogszabályok[^10] előírásait is alkalmazni kell.
+(10) A szállításoknak közúton, vízi és légi úton saját járművel történő elvégzésére, a radioaktív anyagok szállítására és csomagolására, az (1)–(8) bekezdésben felsoroltakon túlmenően a veszélyes áruk szállítására vonatkozó jogszabályok[^23] előírásait is alkalmazni kell.
 
-(11) Honvédségi területen kívül bekövetkezett szállítási balesetnél, sérült személyek és a környezet sugárszennyezése vagy annak gyanúja esetén a honvédségi szerveken túl értesíteni kell a települési önkormányzat polgármesterét és a külön jogszabályban kijelölt szerveket, szervezeteket[^11] is.
+(11) Honvédségi területen kívül bekövetkezett szállítási balesetnél, sérült személyek és a környezet sugárszennyezése vagy annak gyanúja esetén a honvédségi szerveken túl értesíteni kell a települési önkormányzat polgármesterét és a külön jogszabályban kijelölt szerveket, szervezeteket[^24] is.
 
-[^10]: A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR), a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Szabályzat (ADN), a Nemzetközi Polgári Repülésről szóló Egyezmény 18. függeléke a Veszélyes Áruk Biztonságos Légi Szállításáról (ICAO TI), Veszélyes Áruk Nemzetközi Vasúti fuvarozásáról szóló szabályzat (RID).
-[^11]: 14/1997. (IX. 3.) KHVM rendelet a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról, 10. §.
+[^23]: A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR), a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Szabályzat (ADN), a Nemzetközi Polgári Repülésről szóló Egyezmény 18. függeléke a Veszélyes Áruk Biztonságos Légi Szállításáról (ICAO TI), Veszélyes Áruk Nemzetközi Vasúti fuvarozásáról szóló szabályzat (RID).
+[^24]: 14/1997. (IX. 3.) KHVM rendelet a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról, 10. §.
