@@ -12,7 +12,7 @@
 
 4. faállomány egyedi védelme: a telepített facsemeték védelmének olyan közvetlen módja, amely megakadályozza azok megdőlését, valamint megvédi azokat a vadállomány által okozott károktól;
 
-5. fásítás: az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény (a továbbiakban: Evt.) 6. § (1) bekezdésének a)–c) pontja szerinti fogalom;
+5.[^1] fásítás: az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 12. § (1) bekezdés a)–d) pontja szerinti fogalom;
 
 6. fás szárú energetikai célú ültetvények: a fás szárú energetikai ültetvényekről szóló 71/2007. (IV. 14.) Korm. rendelet 2. § (1) bekezdésében meghatározott növényi kultúra;
 
@@ -52,8 +52,11 @@
 
 24. támogatott terület: e rendelet alapján a támogatási kérelemnek helyt adó, vagy annak részben helyt adó jogerős támogatási határozatban megállapított terület;
 
-25. telepítés: a gyeptelepítés, valamint a fásítás első évi munkái a talaj-előkészítéstől a csemeteültetés vagy dugványozás befejezéséig;
+25.[^2] telepítés: a gyeptelepítés, valamint a fásítás első évi munkái a talaj-előkészítéstől a csemeteültetés befejezéséig;
 
 26. túllegeltetés: a gyep olyan legeltetési módból eredő károsodása, melynek során a gyepben állományalkotó fűfélék rövidre rágása és taposása következtében a gyep foltokban megritkul, a talajfelszín fedetlenné válik;
 
 27. védett őshonos mezőgazdasági állatfajta: a védett őshonos mezőgazdasági állatfajták és a veszélyeztetett mezőgazdasági állatfajták körének megállapításáról szóló 4/2007. (I. 18.) FVM–KvVM együttes rendelet 1. számú mellékletében felsorolt védett, őshonos állatfajták.
+
+[^1]: A 2. § 5. pontja a 21/2010. (III. 16.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 25. pontja a 21/2010. (III. 16.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.

@@ -8,7 +8,7 @@
 
 a) a termőföldről szóló, 1994. évi LV. törvény 25/A. § szerinti földhasználati nyilvántartásba bejegyzett, legkésőbb a telepítés megkezdésétől kezdődő, a kötelezettség-vállalási időszak teljes időtartamára vonatkozó földhasználati joggal rendelkezik a támogatható területre, melyről a támogatási kérelem benyújtásakor nyilatkozik;
 
-b) a támogatási kérelem mellékleteként benyújtja az adott területre vonatkozó e rendelet szerinti, felsőfokú erdészeti szakirányú végzettséggel rendelkező erdészeti szakszemélyzet által készített fásítási tervet, amely az alábbi adatokat tartalmazza:
+b)[^3] a támogatási kérelem mellékleteként benyújtja az adott területre vonatkozó e rendelet szerinti, felsőfokú erdészeti szakirányú végzettséggel rendelkező mérnök által készített fásítási tervet, amely az alábbi adatokat tartalmazza:
 
 ba) a kérelmező neve, lakóhelye (székhelye),
 
@@ -35,3 +35,5 @@ d) Natura 2000 területen a külön jogszabályban előírt fenntartási, illetv
 e) 50% feletti állami tulajdonú területre;
 
 f) az 50% feletti állami tulajdonban levő gazdálkodó szervezet vagy központi költségvetési szerv kérelmező részére.
+
+[^3]: A 4. § (3) bekezdés b) pontja a 21/2010. (III. 16.) FVM rendelet 2. §-ával megállapított szöveg.

@@ -24,9 +24,9 @@
 
 14. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2)[^1]
+(2)[^25]
 
-(3)[^2]
+(3)[^26]
 
-[^1]: A 14. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
-[^2]: A 14. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^25]: A 14. § (2) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^26]: A 14. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

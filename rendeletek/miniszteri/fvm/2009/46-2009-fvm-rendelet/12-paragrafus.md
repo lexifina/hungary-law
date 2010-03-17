@@ -2,7 +2,7 @@
 
 12. § (1) A támogatás alapjául szolgáló terület méretének meghatározásánál, illetve az igényelt, valamint az ellenőrzés alapján megállapított valós terület méretéből adódó eltérések esetén a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2006. december 7-i, 1975/2006/EK bizottsági rendelet 16. cikkében foglaltakat kell alkalmazni.
 
-(2) A 11. § (3) bekezdésében foglaltak alapján a területnek a rendelkezésre álló határidőn belüli földhasználati nyilvántartásba vételéig a támogatás teljes összegének kifizetése felfüggesztésre, a nyilvántartásba vétel elmulasztása esetén az adott területre vonatkozóan benyújtott támogatási kérelem elutasításra kerül.
+(2)[^24] A 11. § (2) bekezdésében foglaltak alapján a területnek a rendelkezésre álló határidőn belüli földhasználati nyilvántartásba vételéig a támogatás teljes összegének kifizetése felfüggesztésre kerül.
 
 (3) Az e rendelet előírásainak meg nem feleléséhez köthető, annak súlyosságának, mértékének és folytonosságának figyelembevételével kialakított jogkövetkezményi rendszert az 1. számú melléklet tartalmazza. A mellékletben alkalmazott kódok magyarázata a következő:
 
@@ -17,3 +17,5 @@ c) E-Kizár: Az adott mezőgazdasági parcellára támogatás nem fizethető. Az
 (5) A 2. számú melléklet alapján nyilatkozattal igazolt feltétel be nem tartása a támogatási összeg 30%-os csökkentését vonja maga után.
 
 (6) Amennyiben egy adott mezőgazdasági parcella vonatkozásában több jogkövetkezmény is megállapításra kerül, úgy a magasabb százalékos arányú szankció jogkövetkezményeit kell érvényesíteni.
+
+[^24]: A 12. § (2) bekezdése a 21/2010. (III. 16.) FVM rendelet 10. §-ával megállapított szöveg.

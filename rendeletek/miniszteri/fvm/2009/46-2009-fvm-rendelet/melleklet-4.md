@@ -1,34 +1,30 @@
 ## E rendelet alkalmazásában a telepíthető fafajok listája
 
-## A) Lombos fafajok
+## 1. Lombos fafajok
 
 ## barkócaberkenye (Sorbus torminalis)
 
-## bibircses nyír (Betula pendula)
-
 ## budai berkenye (Sorbus semiincisa)
 
-## bükk (Fagus sylvatica)
+## csertölgy (Quercus cerris)
 
-## cser (Quercus cerris)
-
-## érdeslevelű mezei szil (Ulmus procera)
+## déli berkenye (Sorbus graeca)
 
 ## ezüst hárs (Tilia tomentosa)
 
-## ezüst juhar (Acer saccharinum)
-
 ## fehér fűz (Salix alba)
 
-## fehérnyár (Populus alba)
+## fehérnyár és szürkenyár (Populus alba és P. canescens)
 
-## feketegyűrű juhar (Acer tataricum)
+## feketegyűrű (tatár) juhar (Acer tataricum)
 
 ## feketenyár (Populus nigra)
 
 ## gyertyán (Carpinus betulus)
 
 ## hamvas éger (Alnus incana)
+
+## házi berkenye (Sorbus domestica)
 
 ## hegyi juhar (Acer pseudoplatanus)
 
@@ -42,11 +38,15 @@
 
 ## kocsányos tölgy (Quercus robur)
 
-## kocsánytalan tölgy (Quercus petraea)
+## kocsánytalan tölgyek (Quercus petraea agg.)
 
 ## korai juhar (Acer platanoides)
 
-## lisztes berkenye (Sorbus aria)
+## közönséges bükk (Fagus sylvatica)
+
+## közönséges nyír (Betula pendula)
+
+## lisztes berkenyék (Sorbus aria agg.)
 
 ## madárberkenye (Sorbus aucuparia)
 
@@ -56,7 +56,7 @@
 
 ## magyar kőris (Fraxinus angustifolia ssp. pannonica)
 
-## magyar tölgy (Quercus frainetto)
+## magyar tölgy (Quercus farnetto)
 
 ## mezei juhar (Acer campestre)
 
@@ -66,15 +66,13 @@
 
 ## molyhos tölgy (Quercus pubescens)
 
-## olasz molyhos tölgy (Quercus virgiliana)
-
-## nagylevelű hárs (Tilia platyphyllos)
+## nagylevelű hársak (Tilia platyphyllos agg.)
 
 ## rezgőnyár (Populus tremula)
 
 ## szőrös nyír (Betula pubescens)
 
-## szürkenyár (Populus canescens)
+## tiszaháti nyár (Populus nigra 'Thevestina')
 
 ## törékeny fűz (Salix fragilis)
 
@@ -82,17 +80,15 @@
 
 ## vadkörte (Pyrus pyraster)
 
-## varjútövis benge (Rhamnus cathartica)
-
 ## vénic szil (Ulmus laevis)
 
 ## virágos kőris (Fraxinus ornus)
 
-## B) Tűlevelű fafajok (fenyők)
+## 2. Tűlevelű fafajok (fenyők)
 
 ## közönséges boróka (Juniperus communis)
 
-## erdei fenyő (Pinus sylvestris)
+## erdei fenyő és fajtái (Pinus sylvestris és P. sylvestris convar.)
 
 ## tiszafa (Taxus baccata)
 

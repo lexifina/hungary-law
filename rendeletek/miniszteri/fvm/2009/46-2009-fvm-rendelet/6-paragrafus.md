@@ -1,6 +1,6 @@
 ## Telepítési előírások
 
-6. § (1) A támogatásra jogosult köteles a fák, valamint a gyep telepítését legkésőbb a támogatási határozat jogerőre emelkedését követő második év május 15-éig megvalósítani.
+6. § (1)[^9] A támogatásra jogosult köteles a gyep, illetve a fák telepítését legkésőbb a támogatási határozat jogerőre emelkedését követő második év május 15-éig megvalósítani.
 
 (2) A támogatásra jogosult a fák telepítése esetén:
 
@@ -10,9 +10,9 @@ b) a 3. számú mellékletben felsorolt fafajok telepítését és az azt követ
 
 c) a 4. számú mellékletben felsorolt tájjellegű gyümölcsfa fajtákat legfeljebb 50% elegyarányban telepítheti;
 
-d) tájjellegű gyümölcsfa fajták telepítése esetén a származási igazolást helyettesítő, a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) által a 64/2004. (IV. 27.) FVM rendelet szerint engedélyezett gyümölcsfaiskola által kiadott olyan bizonylattal rendelkezik, amely tartalmazza a szaporítóanyag származását, a vásárló nevét, valamint a beszerzett ültetési anyag fajtájának és mennyiségének az adatait;
+d)[^10] a 4. számú mellékletben felsorolt tájjellegű gyümölcsfa fajták telepítését és az azt követő esetleges pótlásokat kizárólag igazolt származású szaporítóanyaggal végezheti;
 
-e) a területen hektáronként minimum 100 db fát köteles telepíteni, illetve fenntartani, melynek mérete a gyökfőtől a csúcsrügyig legalább 100 cm;
+e)[^11] a területen hektáronként minimum 100 db fát köteles telepíteni, illetve fenntartani, melyek mérete a gyökfőtől a csúcsrügyig legalább 80 cm;
 
 f) a területen hektáronként legfeljebb 150 db fát telepíthet, ügyelve arra, hogy a meglévő és az újonnan telepített fák száma együttesen se haladja meg a 150 db-ot hektáronként;
 
@@ -21,3 +21,10 @@ g) a telepítést úgy köteles elvégezni, hogy a fák egymástól való távol
 h) az ötödik év végére köteles biztosítani, hogy a telepített fák 1–4 éves egyedeinek száma elérje az e) pontban meghatározott hektáronkénti minimális darabszámot.
 
 (3) A támogatásra jogosult köteles a gyeptelepítéshez legalább négy fajból álló fű magkeverékét használni, amelyben a négy fajból legalább egynek pillangós növénynek kell lennie.
+
+(4)[^12] Az (1)–(3) bekezdésben foglalt előírásokat a támogatásra jogosultnak mezőgazdasági parcella szinten kell teljesítenie.
+
+[^9]: A 6. § (1) bekezdése a 21/2010. (III. 16.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: A 6. § (2) bekezdés d) pontja a 21/2010. (III. 16.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^11]: A 6. § (2) bekezdés e) pontja a 21/2010. (III. 16.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^12]: A 6. § (4) bekezdését a 21/2010. (III. 16.) FVM rendelet 4. § (3) bekezdése iktatta be.
