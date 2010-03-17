@@ -1,6 +1,6 @@
 ## 18. §[^25] A HM pénzügyi feladatot ellátó központi szerve hivatalból intézkedik a rokkantság, illetve egészségkárosodás alapján megállapított rokkantsági nyugdíj, özvegyi nyugdíj, árvaellátás és szülői nyugdíj továbbfolyósításához szükséges szakértői szerv megkeresése iránt.
 
-## 19. §[^26] A HM pénzügyi feladatot ellátó központi szerve kérelemre bírálja el és hoz határozatot minden egyéb nyugdíj- és baleseti járadék igény tárgyában, így különösen:
+## 19. §[^26] A HM pénzügyi feladatot ellátó központi szerve kérelemre dönt minden egyéb nyugdíj- és baleseti járadék megállapítására irányuló kérelemről:
 
 a) a baleseti járadékról;
 
@@ -21,6 +21,6 @@ h) az özvegyi nyugdíj, az árvaellátás és a szülői nyugdíj ismételt meg
 i)[^28] a Hjt. 259. §-ának (6) bekezdés szerinti jogosultságról benyújtott kérelemről.
 
 [^25]: A 18. § a 21/2008. (IX. 16.) HM rendelet 10. §-ával megállapított szöveg.
-[^26]: A 19. § a 21/2008. (IX. 16.) HM rendelet 11. §-ával megállapított szöveg.
+[^26]: A 19. § a 21/2008. (IX. 16.) HM rendelet 11. §-ával megállapított, nyitó szövegrésze az 5/2010. (III. 9.) HM rendelet 4. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^27]: A 19. § e) pontja a 22/2009. (XII. 29.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^28]: A 19. § i) pontját a 22/2009. (XII. 29.) HM rendelet 8. § (2) bekezdése iktatta be.
