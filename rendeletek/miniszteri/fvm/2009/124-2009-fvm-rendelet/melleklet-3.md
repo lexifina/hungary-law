@@ -172,7 +172,7 @@
 
 ## – Más célállománytípusok (pl. juharos, hársas, tölgyes-kőrises) csak bizonyos termőhelyi szituációban fogadhatók el természetszerű célállománytípusoknak, más termőhelyeken konszociációk, azaz nem erdősítési célállománytípusok.
 
-3. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^8]
+3. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^10]
 
 ## Támogatási kérelmek részletes pontozási rendszere
 
@@ -230,4 +230,4 @@
 
 Speciális szakmai pontozási szempontok:
 
-[^8]: A 3. melléklet a 139/2009. (X. 22.) FVM rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^10]: A 3. melléklet a 139/2009. (X. 22.) FVM rendelet 15. § (5) bekezdése szerint módosított szöveg.
