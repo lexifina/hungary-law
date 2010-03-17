@@ -1,0 +1,3 @@
+## 1. § A munkavédelemről szóló 1993. évi XCIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 5/1993. (XII. 26.) MüM rendelet (a továbbiakban: R.) 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A munkabaleseti nyilvántartást a munkáltató székhelyén vagy a munkáltató nyilvántartását vezető szervezeténél (irodánál) összesítve, és minden területileg elkülönült szervezeti egységénél külön-külön vezetni kell. A munkáltató azon szervezeti egységénél, ahol időszakosan és rövid időtartamban történik a munkavégzés, így különösen a kizárólag irattárolásra, műszeres vagy egyéb ellenőrzésre szolgáló egységnél, telephelyen, nem kötelező munkabaleseti nyilvántartást vezetni.”
