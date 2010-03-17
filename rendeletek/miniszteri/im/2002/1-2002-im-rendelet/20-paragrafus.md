@@ -32,15 +32,15 @@ o) az iratok hollétére vonatkozó adatok (iratok bíróságnak történő megk
 
 p) a végrehajtási ügy típusa,
 
-q)[^14] a végrehajtási ügyben tett utolsó érdemi intézkedés időpontja,
+q)[^15] a végrehajtási ügyben tett utolsó érdemi intézkedés időpontja,
 
-r)[^15] irattári tételszám,
+r)[^16] irattári tételszám,
 
-s)[^16] őrzési idő,
+s)[^17] őrzési idő,
 
-t)[^17] megjegyzés.
+t)[^18] megjegyzés.
 
-(2)[^18] A végrehajtási ügy típusaként [(1) bekezdés p) pont] a következő megnevezések egyikét kell feltüntetni a nyilvántartásban:
+(2)[^19] A végrehajtási ügy típusaként [(1) bekezdés p) pont] a következő megnevezések egyikét kell feltüntetni a nyilvántartásban:
 
 a) bírósági végrehajtási ügy, ezen belül megkeresés útján érkezett ügy,
 
@@ -56,8 +56,8 @@ f) végrehajtási kérelem elkészítése.
 
 (3) A megjegyzés rovatban fel kell tüntetni az iratok teljes vagy részleges eltűnését, megsemmisülését, illetve az egyéb szükséges adatokat.
 
-[^14]: A 20. § (1) bekezdésének új q) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti q) pont jelölését t) pontra változtatva. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^15]: A 20. § (1) bekezdésének r) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^16]: A 20. § (1) bekezdésének s) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^17]: A 20. § (1) bekezdése eredeti q) pontjának jelölését t) pontra változtatta a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése.
-[^18]: A 20. § (2) bekezdése a 28/2008. (XII. 10.) IRM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^15]: A 20. § (1) bekezdésének új q) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti q) pont jelölését t) pontra változtatva. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^16]: A 20. § (1) bekezdésének r) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^17]: A 20. § (1) bekezdésének s) pontját a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése iktatta be, e módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^18]: A 20. § (1) bekezdése eredeti q) pontjának jelölését t) pontra változtatta a 4/2004. (II. 27.) IM rendelet 1. § (3) bekezdése.
+[^19]: A 20. § (2) bekezdése a 28/2008. (XII. 10.) IRM rendelet 1. § (3) bekezdésével megállapított szöveg.

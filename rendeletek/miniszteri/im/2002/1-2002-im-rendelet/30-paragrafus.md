@@ -10,6 +10,6 @@
 
 (5) E § szerint kell eljárni akkor is, ha a végrehajtási ügy iratait a jogutódlás megállapítása végett kell a bírósághoz beterjeszteni. A végrehajtó a bíróság döntéséig – a Vht.-ban foglalt kivételekkel – az eljárást folytatja, a feleknek kézbesítendő iratokat a jogutódként megjelölt személynek is kézbesíti, a befolyt összeget pedig a letéti számlán kezeli.
 
-(6)[^29] Ha a zálogjogosult a végrehajtásba történő bekapcsolódása iránti kérelméhez nem csatolta a zálogtárgy lefoglalásáról szóló okiratot, a végrehajtó a kérelmet az ingóság lefoglalásáról szóló jegyzőkönyv, illetve az ingatlanra vonatkozó végrehajtási jog bejegyzéséről szóló földhivatali határozat másolatával együtt továbbítja a bíróságnak.
+(6)[^31] Ha a zálogjogosult a végrehajtásba történő bekapcsolódása iránti kérelméhez nem csatolta a zálogtárgy lefoglalásáról szóló okiratot, a végrehajtó a kérelmet az ingóság lefoglalásáról szóló jegyzőkönyv, illetve az ingatlanra vonatkozó végrehajtási jog bejegyzéséről szóló földhivatali határozat másolatával együtt továbbítja a bíróságnak.
 
-[^29]: A 30. § (6) bekezdését a 14/2006. (III. 28.) IM rendelet 9. §-a iktatta be.
+[^31]: A 30. § (6) bekezdését a 14/2006. (III. 28.) IM rendelet 9. §-a iktatta be.

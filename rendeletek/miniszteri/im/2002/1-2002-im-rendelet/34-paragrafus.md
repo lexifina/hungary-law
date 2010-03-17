@@ -14,6 +14,6 @@ f) biztosítási intézkedés végrehajtása esetén a végrehajtó a szüksége
 
 g) a meghatározott cselekmény végrehajtása során a végrehajtást kérő a Vht. 172. §-ának (3) bekezdése szerinti közlési kötelezettségének határidőben nem tett eleget,
 
-h)[^35] a végrehajtói kézbesítés szünetel, vagy eredménytelen.
+h)[^37] a végrehajtói kézbesítés szünetel, vagy eredménytelen.
 
-[^35]: A 34. § h) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (10) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^37]: A 34. § h) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (10) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

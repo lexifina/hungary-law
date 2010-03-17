@@ -1,6 +1,6 @@
 ## Be- és kifizetések kezelése és nyilvántartása
 
-50. §[^59] (1) A végrehajtó a felvett pénzösszegről vagy más értékről (takarékbetétkönyv, értékpapír) a felügyelő szerv által rendszeresített nyomtatvány kitöltésével átvételi elismervényt köteles kiállítani.
+50. §[^63] (1) A végrehajtó a felvett pénzösszegről vagy más értékről (takarékbetétkönyv, értékpapír) a felügyelő szerv által rendszeresített nyomtatvány kitöltésével átvételi elismervényt köteles kiállítani.
 
 (2) Az átvételi elismervény szigorú számadású nyomtatvány, mely a következő adatokat tartalmazza:
 
@@ -24,4 +24,4 @@ g) az átvételi elismervény kiállításának időpontja és a kiállító al�
 
 (5) Az átvételi elismervény számítástechnikai eszköz útján történő kiállítására szolgáló számítógépes programot a végrehajtó a felügyelő szerv engedélyével használhat.
 
-[^59]: Az 50. § a 23/2005. (XI. 10.) IM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^63]: Az 50. § a 23/2005. (XI. 10.) IM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

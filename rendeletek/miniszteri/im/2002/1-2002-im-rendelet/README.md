@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-1-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-11-01 | 2002-1-20-06.12 | 1/2002. (I. 17.) IM rendelet |
+| 2010-03-17 | 2002-1-20-06.13 | 6/2010. (III. 12.) IRM rendelet |

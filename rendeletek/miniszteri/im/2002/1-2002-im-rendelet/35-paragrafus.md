@@ -2,6 +2,6 @@
 
 (2) Az irattárként használt helyiségnek alkalmasnak kell lenni a végrehajtási iratok őrzésére, és annak biztosítására, hogy az iratokhoz illetéktelen személyek ne férhessenek hozzá, az iratok ne sérüljenek vagy semmisüljenek meg.
 
-(3)[^36]
+(3)[^38]
 
-[^36]: A 35. § (3) bekezdését a 4/2004. (II. 27.) IM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^38]: A 35. § (3) bekezdését a 4/2004. (II. 27.) IM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
