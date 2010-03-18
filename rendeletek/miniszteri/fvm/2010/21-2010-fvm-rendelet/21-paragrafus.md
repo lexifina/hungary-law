@@ -1,3 +1,0 @@
-## 20. § A 141/2008. (X. 30.) FVM rendelet 7. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-## „(8) A kifizetési kérelemben kizárólag az adott benyújtási időszakot megelőző, a költségfelmerülési időpont szerinti két havi kiadásokat igazoló, pénzügyileg rendezett bizonylatok ismerhetők el. Kivételt képez ez alól a 2009. április 1-jétől április 30-ig tartó kifizetési időszak, amely során a benyújtási időszakot megelőző, a költségfelmerülési időpont szerinti egy havi kiadásokat igazoló bizonylatok ismerhetők el, és a 2009. október 1-jén megnyíló kifizetési kérelem benyújtási időszak, amely során a benyújtási időszakot megelőző, pénzügyileg teljesített és 2008. augusztus 1. után felmerülő kiadásokat igazoló bizonylatok ismerhetők el.”

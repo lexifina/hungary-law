@@ -1,1 +1,0 @@
-## 15. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdő-környezetvédelmi intézkedésekhez nyújtandó támogatások részletes feltételeiről szóló 124/2009. (IX. 24.) FVM rendelet 6. § (1) bekezdés h) pontjában a „10 munkanappal” szövegrész helyébe a „15 nappal” szöveg lép.

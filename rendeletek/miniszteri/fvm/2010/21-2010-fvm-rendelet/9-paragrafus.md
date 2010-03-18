@@ -1,1 +1,0 @@
-## „(4) Ha a telepítés a támogatási határozatban szereplő területen az (1) bekezdésben meghatározott időpontra csak részben valósul meg, az elmaradással érintett terület támogatási jogosultsága az adott kérelem vonatkozásában megszűnik.”
