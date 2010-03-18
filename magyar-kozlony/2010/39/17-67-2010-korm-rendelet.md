@@ -1,0 +1,144 @@
+# A Kormány 67/2010. (III. 18.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 39. szám, 2010. március 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d806f27abf2195e245fe1edf3e990184339b0413/dokumentumok/6398c4967696af9e0407b924b49bb5dec4ce7c86/letoltes)
+
+---
+
+A Kormány 67/2010. (III. 18.) Korm. rendelete
+a rend őrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló
+16/1999. (II. 5.) Korm. rendelet, valamint a fegyverekről és lőszerekről szóló
+253/2004. (VIII. 31.) Korm. rendelet módosításáról
+A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés f) pontjában és
+a 2–8. §, a 9. § (2) bekezdése, 10. § (2) bekezdése és 11. §-a tekintetében a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény
+22. § (1) bekezdésében kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. §
+A rend őrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló 16/1999. (II. 5.) Korm. rendelet
+(a továb biak ban: R1.) 1. §-a a következő e) ponttal egészül ki:
+(A rend őrség – mint közhatalmi jogosítványokkal és kötelezettségekkel felruházott fegyveres rendvédelmi szerv –
+jogszabályban meghatározott feladatai kivételével – az államháztartásról szóló 1992. évi XXXVIII. törvény 96. §-ában
+foglaltakra figyelemmel – kizárólag az alábbi szolgáltatások nyújtására, írásban szerződhet:)
+„e) a lőfegyver, lőszer vagy lőszerelem rend őrség által történő tárolása.”
+2. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet (a továb biak ban: R2.) 5. §-a helyébe a következő
+rendelkezés lép:
+„5. § (1) Az engedélyt, valamint az európai lőfegyvertartási engedélyt vissza kell vonni, ha
+a) a kiadásának valamely feltétele nem áll fenn, vagy
+b) az engedéllyel rendelkező az Ftv.-ben és az e rendeletben meghatározott kötelezettségét megszegi.
+(2) Az (1) bekezdés a) pontja alapján az engedély, valamint az európai lőfegyvertartási engedély nem vonható vissza,
+ha a lőfegyver, lőszer vagy lőszerelem tárolását a 44/A. §-ban meghatározott módon biztosítják.”
+
+3. §
+Az R2. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) E rendelet eltérő rendelkezése hiányában sportlövészetre legfeljebb három darab hosszú és kettő darab rövid
+lőfegyver, valamint ezekhez tartozó lőszer megszerzése és tartása annak a minősített sportlövőnek engedélyezhető,
+aki
+a) sportegyesületnek legalább 3 éve igazolt tagja,
+b) az országos sportági szakszövetség által kiadott, érvényes versenyengedéllyel rendelkezik, és
+c) rendszeres sporttevékenysége alapján a saját tulajdonú lőfegyver tartását az országos sportági szakszövetség
+javasolja.”
+4. §
+Az R2. 34. § (1) bekezdése a következő e) ponttal egészül ki:
+(Az engedélyes számára kiadott, lőfegyver tartására vonatkozó engedély, valamint az ennek meglétét igazoló hatósági
+igazolvány tartalmazza)
+„e) a lőfegyvernek az engedélyes lakóhelyétől eltérő helyen történő tárolása esetén a tárolóhely címét.”
+5. §
+Az R2. 37. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A sportegyesület a lőfegyverét és a lőszerét
+a) a sportegyesület igazolt sportlövőjének
+aa) a lőfegyver és a lőszer tárolásának helye és a sporttevékenység (edzés, verseny) végzésének helyszíne közötti
+közvetlen szállítás és
+ab) a sporttevékenység (edzés, verseny) végzésének időtartamára átadhatja, továbbá
+b) a sportegyesület tagjának az edzés időtartamára átengedheti.”
+6. §
+Az R2. 42. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A tárolásra szolgáló helyiség nyílászáróit acélráccsal vagy ultraerős biztonsági fóliával kell ellátni, valamint
+a tárolóhelyet őrszemélyzettel kell őrizni vagy távfelügyeleti rendszerbe bekötött elektronikus riasztóberendezéssel
+kell ellátni
+a) „A” kategóriába tartozó lőfegyver,
+b) 10 darabot meghaladó számú lőfegyver, illetve 1000 darabot meghaladó számú lőszer, vagy
+c) lőfegyvernek vagy lőszernek a 28. § (2) bekezdés b) vagy c) pontja alapján kiadott engedéllyel rendelkező szervezet
+által történő
+tárolása esetén.”
+7. §
+Az R2. „A lőfegyver, lőszer, lőszerelem tárolása” alcíme a következő 44. és 44/A. §-sal egészül ki:
+„44. § (1) A 28. § (2) bekezdés b) vagy c) pontja alapján kiadott engedéllyel rendelkező szervezet és a sportlövő írásbeli
+megállapodása esetén e szervezet tárolja a sportlövő sportlőfegyverét és a hozzá tartozó lőszert.
+(2) A sportlövő köteles sportlőfegyverének és a hozzá tartozó lőszernek tárolás céljából történő átadását vagy a tárolás
+helyének megváltozását – a lőfegyver Ftv. szerinti adatait, a lőszer azonosítását lehetővé tevő adatokat, a tárolás helyét
+és várható időtartamát tartalmazó, a tárolást végző szervezet által kiállított igazolás benyújtásával – az átadástól vagy
+a tárolás helyének megváltozásától számított öt munkanapon belül a tárolás helye szerint ille té kes
+rend őrkapitányságnak írásban bejelenteni.
+(3) A (2) bekezdés szerinti bejelentésről a tárolás helye szerint ille té kes rend őrkapitányság a tárolást végző,
+(1) bekezdés szerinti szervezet és a sportlövő részére igazolást ad ki.
+(4) A tárolást végző, (1) bekezdés szerinti szervezet – a lőfegyver Ftv. szerinti adatait és a lőszer azonosítását lehetővé
+tevő adatokat tartalmazó – naprakész nyilvántartást vezet az általa tárolt lőfegyverről, lőszerről.
+(5) A sportlövő köteles sportlőfegyverének és a hozzá tartozó lőszernek a (2) bekezdés szerinti átadását követő
+visszavételét – a visszavétel időpontjának megjelölésével – a visszavételtől számított öt munkanapon belül a tárolás
+helye szerint ille té kes rend őrkapitányságnak írásban bejelenteni.
+44/A. § (1) Aki az engedéllyel tartott lőfegyver, lőszer vagy lőszerelem tárolásának e rendeletben meghatározott
+feltételeit átmenetileg nem tudja biztosítani, a lőfegyver, lőszer vagy lőszerelem rend őrségi tárolását
+kezdeményezheti a rend őrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló kormányrendeletben
+meghatározottak szerint.
+
+(2) A lőfegyver, lőszer vagy lőszerelem rend őrségi tárolásának időtartama legfeljebb 180 nap.
+(3) Ha a (2) bekezdés szerinti időtartam lejártát követő 5 munkanapon belül a lőfegyver, lőszer vagy lőszerelem
+visszavételére nem kerül sor, az engedélyt, valamint az európai lőfegyvertartási engedélyt vissza kell vonni.”
+8. §
+Az R2. „Átmeneti rendelkezések” alcíme a következő 53. és 53/A. §-sal egészül ki:
+„53. § A rend őrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló 16/1999. (II. 5.) Korm. rendelet,
+valamint a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet módosításáról szóló 67/2010. (III. 18.)
+Korm. rendelettel (a továb biak ban: módosító rendelet) megállapított 23. § (1) és (3) bekezdésben foglalt feltételek
+nem érintik a módosító rendelet hatálybalépését megelőzően kiadott engedélyek hatályosságát.
+53/A. § A módosító rendelettel megállapított 42. § (3) bekezdésben foglalt feltételeket 2010. augusztus 31-ig kell
+biztosítani.”
+9. §
+(1) Az R1. 2. § c) pontjában a „tartozik” szövegrész helyébe a „tartozik, az 1. § e) pontjában foglalt szolgáltatás kivételével”
+szöveg lép.
+(2) Az R2.
+a)
+1. § (1) bekezdés 6. pontjában az „amely csak” szövegrész helyébe az „amely rendeltetésszerűen csak” szöveg,
+b)
+10. § (4) bekezdésében és 26. § (7) bekezdésében az „5. § c) pontja” szövegrészek helyébe az „5. § (1) bekezdés
+b) pontja” szöveg,
+c)
+15. § (2) bekezdés f) pontjában a „sportlövészettel foglalkozó sportegyesület” szövegrész helyébe a „sportlövészet
+folytatása céljából nyilvántartásba vett sportegyesület (a továb biak ban: sportegyesület)” szöveg,
+d)
+23. § (3) bekezdésében a „kiadott minősítése” szövegrész helyébe a „kiadott, legalább A, illetve II. osztályú vagy
+annál magasabb minősítése” szöveg,
+e)
+26. § (1) bekezdés b) pontjában a „tartásához” szövegrész helyébe a „biztonságos használatához” szöveg,
+f)
+27. §-ában az „1. számú melléklet” szövegrész helyébe az „1. számú melléklet vagy – az Ftv. 3/B. §
+(2) bekezdésében meghatározott szervezet esetén – a 20. számú melléklet” szöveg,
+g)
+37. § (1) bekezdésében az „a (6)–(7) bekezdésben foglaltak kivételével” szövegrész helyébe az „e rendelet eltérő
+rendelkezése hiányában” szöveg,
+h)
+37. § (2) bekezdésében az „írásban be kell jelenteni” szövegrész helyébe az „írásban be kell jelenteni az átadás
+várható időtartamának megjelölésével” szöveg,
+i)
+38. § (1) bekezdés a) pontjában a „szállíthatja” szövegrész helyébe a „szállíthatja, amelynek során a lőfegyver és
+a lőszer a felügyelete alól nem kerülhet ki” szöveg,
+j)
+38. § (1) bekezdés b) pontjában a „fegyvertartási” szövegrész helyébe a „viselési” szöveg
+lép.
+10. §
+(1) Hatályát veszti az R1. 4. § (4) bekezdése.
+(2) Hatályát veszti az R2. 28. § (2) bekezdés b) pontjában a „sportlövészet folytatása céljából nyilvántartásba vett”
+szövegrész, 30. § (1) bekezdésében a „sportlövészettel foglalkozó” szövegrész, 47. § (3) bekezdés a) pontjában
+a „(nyilvántartásba vett)” szövegrész, és 48. § (6) bekezdésében a „Magyar Köztársaságban nyilvántartásba vett”
+szövegrész.
+11. §
+Hatályát veszti az R2. 42. § (4) bekezdése, és 53/A. §-a.
+12. §
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő tizenötödik napon lép hatályba.
+(2) A 11. § 2010. szeptember 1-jén lép hatályba.
+13. §
+Ez a rendelet 2010. szeptember 2-án hatályát veszti.
+Bajnai Gordon s. k.,
+miniszterelnök
+
+V. A Kormány tagjainak rendeletei

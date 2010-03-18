@@ -1,0 +1,253 @@
+# A Kormány 62/2010. (III. 18.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 39. szám, 2010. március 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d806f27abf2195e245fe1edf3e990184339b0413/dokumentumok/6398c4967696af9e0407b924b49bb5dec4ce7c86/letoltes)
+
+---
+
+A Kormány 62/2010. (III. 18.) Korm. rendelete
+a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának
+és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet módosításáról
+A Kormány az Alkotmány 35. §-ának (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 35. §-a
+(1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló
+162/2003. (X. 16.) Korm. rendelet (a továb biak ban: R.) 1. §-a helyébe a következő rendelkezés lép:
+„1. § E rendelet alkalmazásában:
+a) mák: a mák vagy ópiummák (Papaver somniferum L.) faj fajtáihoz, valamint a murvásmák (Papaver bracteatum
+Lindl.) faj fajtáihoz tartozó növény;
+„b) ipari mák: a Mezőgazdasági Szakigazgatási Hivatal Központja (a továb biak ban: MgSzH Központ) által a Nemzeti
+Fajtajegyzékben, valamint az Európai Bizottság által a mezőgazdasági növényfajok közösségi fajtajegyzékében
+(a továb biak ban: Közösségi Fajtajegyzék) közzétett olyan – magas alkaloid tartalmú – mákfajta (a továb biak ban:
+mákfajta), amelyben a kábítószerekkel és pszichotróp anyagokkal végezhető tevékenységekről szóló Korm. rendelet
+(a továb biak ban: KKR.) 1. számú melléklete szerint kábítószernek minősülő ópium alkaloidok összes hatóanyag
+koncentrációja a légszáraz állapotú kifejtett máktokban átlagosan 0,7% feletti;
+c) étkezési mák: az MgSzH Központ által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a Közösségi
+Fajtajegyzékben közzétett olyan – alacsony alkaloid tartalmú – mákfajta, amelyben a KKR. 1. számú melléklete szerint
+kábítószernek minősülő ópium alkaloidok összes hatóanyag koncentrációja a légszáraz állapotú kifejtett máktokban
+átlagosan 0,7% vagy az alatti;
+d) díszítő mák: virágkötészeti célra előállított étkezési mákfajta. A díszítő mák virágkötészeti célra felhasznált
+mákszalmája a növény 30–50 cm hosszú mákszára és kifejtett vagy kifejtetlen máktokja;
+e) mákszalma: a levágott máknövény minden része. A magok a tokból való kifejtés és tisztítás után nem minősülnek
+a KKR. 1. számú melléklete szerint ellenőrzött szernek, kivéve az ipari mák vetőmagját, amelynek kivitele, illetve
+behozatala eseti export-, illetve import engedélyköteles;
+f) kifejtetlen ipari máktok: teljes éréskor legfeljebb 10 cm-es szárrésszel betakarított ipari mák magot tartalmazó tokja;
+g) kifejtett máktok: teljes éréskor legfeljebb 10 cm-es szárrésszel betakarított mák magot már nem tartalmazó tokja;
+h) kender: minden Cannabis nemzetséghez tartozó növény;
+i) alacsony tetrahidrocannabinol (a továb biak ban: THC) tartalmú kender (Cannabis sativa L.): olyan, az MgSzH Központ
+által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a Közösségi Fajtajegyzékben közzétett rost- és
+magkenderfajta, amelynek szabad THC tartalma a növény légszáraz állapotú, gyökérzettől és száraktól mentes
+homogenizált részében, a növény érettségi állapotától függetlenül nem éri el a 0,2%-ot;
+j) magas THC tartalmú kender: olyan, az MgSzH Központ által a Nemzeti Fajtajegyzékben, valamint az Európai
+Bizottság által a Közösségi Fajtajegyzékben közzétett rost- és magkenderfajta, amelynek szabad THC tartalma
+a növény légszáraz állapotú, gyökérzettől és száraktól mentes homogenizált részében, a növény érettségi állapotától
+függetlenül eléri vagy meghaladja a 0,2%-ot.”
+2. §
+Az R. 4. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A (2) bekezdése szerinti tevékenységi és eseti termesztetési engedélyt az EEKH közli az agrárpolitikáért felelős
+miniszterrel (a továb biak ban: miniszterrel).”
+3. §
+(1) Az R. 5. §-a (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+[A termesztető köteles]
+„a) a Mezőgazdasági Szakigazgatási Hivatalnak a termőterület szerint ille té kes területi szervével (a továb biak ban:
+MgSzH területi szerve) az MgSzH Központ által rendszeresített, és az MgSzH Központ honlapján közzétett
+formanyomtatványon az alábbi aa)–ah) pontokban meghatározott adatokat tárgyév május 15-ig, az ai) pont szerinti
+adatot pedig november 30-áig közölni:
+aa) a termesztető neve, címe,
+ab) a termesztők neve, címe,
+ac) a vetett termőterületek nagysága,
+ad) a termőterületek helye, helyrajzi száma, vagy fizikai blokk és parcella szám,
+
+ae) a termesztett fajták neve,
+af) a kiadott vetőmag fajtája, fémzár száma, mennyisége,
+ag) a termesztési szerződések megkötésének dátuma, iktatószáma,
+ah) az előző évi betakarított terület nagysága,
+ai) a termesztető részére a termesztők által leadott mákszalma vagy kifejtetlen ipari máktok mennyisége (kg).”
+(2) Az R. 5. §-a (1) bekezdésének c) pontja helyébe a következő rendelkezés lép:
+[A termesztető köteles]
+„c) folyamatos nyilvántartást vezetni a szerződéses máktermesztőkről, azok vetőmag és ipari mák termőterületeinek
+helyéről és nagyságáról, az átadott és visszaszolgáltatott vetőmag, valamint az átvett ipari mák mákszalmájának
+mennyiségéről, továbbá a bejelentett különleges esetekről,”
+(3) Az R. 5. §-a (1) bekezdésének f)–h) pontja helyébe a következő rendelkezés lép:
+[A termesztető köteles]
+„f) a megkötött szerződés alapján előállított kifejtetlen ipari mák mákszalmájának teljes mennyiségét átvenni,
+g) a felhasználni nem kívánt mákszalmát legkésőbb augusztus 15-ig megsemmisíteni, illetve annak várható
+időpontját az MgSzH területi szervének legalább 7 nappal korábban bejelenteni,
+h) biztosítani, hogy a mákszalma, a kifejtett máktok, illetve a máktokkal szennyezett mákmag csak megfelelő
+biztonsági eljárások mellett kerüljön felhasználásra vagy megsemmisítésre,”
+4. §
+(1) Az R. 6. §-a (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+[Az ipari mák termesztője köteles]
+„a) az MgSzH Központ által rendszeresített, és az MgSzH Központ honlapján közzétett formanyomtatvány szerinti
+nyilvántartást vezetni, amely az alábbi adatokat tartalmazza:
+aa) a szerződött terület nagysága, helye, helyrajzi száma, vagy fizikai blokk és parcella száma,
+ab) a termesztetőtől átvett vetőmag mennyisége, fémzár száma,
+ac) a fajta neve,
+ad) a vetés ideje,
+ae) a vetett terület nagysága,
+af) a termesztetőnek visszaszolgáltatott vetőmag mennyisége, fémzár száma,
+ag) a virágzás kezdetének időpontja,
+ah) a betakarítás kezdetének időpontja,
+ai) a betakarított terület nagysága,
+aj) a termesztetőnek átadott mákszalma vagy kifejtetlen ipari máktok mennyisége.”
+(2) Az R. 6. §-a (1) bekezdésének d)–e) pontjai helyébe a következő rendelkezés lép:
+[Az ipari mák termesztője köteles]
+„d) az ipari mák mákszalmáját teljes mennyiségben a termesztető részére átadni, a tok átmeneti őrzésére alkalmas
+tárolóhelyet biztosítani, és annak folyamatos őrzéséről gondoskodni,
+e) a betakarítás után a kifejtetlen ipari mák mákszalmájának a termesztető általi átvételét köve tően az általa
+az a) pontban meghatározott adattartalommal vezetett nyilvántartást a 7. § (2) bekezdése szerint aláíratni.”
+5. §
+(1) Az R. 7. §-ának (2) bekezdése helyébe a következő rendelékezés lép:
+„(2) Az ellenőrzésről az MgSzH Központ által rendszeresített, és az MgSzH Központ honlapján közzétett
+formanyomtatványnak megfelelő jegyzőkönyvet, vagy hivatalos feljegyzést kell készíteni a (4) bekezdés szerinti
+adattartalommal. Az ellenőrzést végző a betakarítást köve tően aláírja a termesztő által vezetett nyilvántartást. Ha
+az ellenőrzés arra az eredményre vezet, hogy a termesztő a 6. § (1) bekezdésében foglalt bármely kötelezettségének
+nem tett eleget, az MgSzH területi szerve haladéktalanul értesíti a termesztetőt, egyúttal elrendelheti
+a növényállománynak, illetve a termésnek a termesztő költségén történő megsemmisítését.”
+(2) Az R. 7. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Az ellenőrzésről készített jegyzőkönyv, vagy hivatalos feljegyzés – a közigazgatási hatósági eljárás és szolgáltatás
+általános szabályairól szóló tör vény ben foglaltakon túl – a következő adatokat tartalmazza:
+a) a termesztő neve, címe, telefonszáma,
+b) a tábla helye, helyrajzi száma, vagy fizikai blokk és parcella száma,
+c) a faj és fajta megnevezése,
+d) a nyilvántartás szerinti táblaméret,
+
+e) a nyilvántartott és tényleges táblaméret közötti különbség,
+f) az eltérés indoklása,
+g) észlelt rendellenességek,
+h) megtett intézkedések.”
+6. §
+Az R. 8. §-ának (1)–(3) bekezdése helyébe a következő rendelkezés lép:
+„(1) Étkezési mák vetéséhez kizárólag étkezési mákfajtának a termőterülettel arányos mennyiségű, fémzárolt
+vetőmagja használható fel. A termesztőnek a vetőmaggal kapcsolatos bizonylatokat és számlákat legalább
+a tenyészidőszak végéig meg kell őriznie.
+(2) A termesztő az étkezési mák kereskedelmi céllal történő termesztése, illetve az étkezési mák 500 m2-t meghaladó
+termőterületen történő termesztése esetén köteles az MgSzH területi szerve részére a termesztés megkezdése előtt,
+de legkésőbb tárgyév május 15-ig a következő adattartalmú bejelentést tenni az MgSzH Központ által rendszeresített,
+és az MgSzH Központ honlapján közzétett formanyomtatványon:
+a) a termesztő neve, címe,
+b) a vetett termőterület nagysága, helye, helyrajzi száma, vagy fizikai blokk és parcella száma,
+c) a termesztett fajta neve, vetőmag fémzár száma és mennyisége,
+d) virágkötészeti célból termesztett mák esetén az exportáló, illetve a belföldi forgalmazó neve, címe,
+e) az előző évi betakarított terület nagysága.
+(3) A termesztőnek a bejelentésről az MgSzH területi szerve az MgSzH Központ által rendszeresített, és az MgSzH
+Központ honlapján közzétett formanyomtatvány szerinti igazolást állítja ki. Étkezési mák kizárólag ilyen igazolás
+birtokában hozható kereskedelmi forgalomba.”
+7. §
+Az R. 9. §-a helyébe a következő rendelkezés lép:
+„9. § (1) Az étkezési mák fel nem használt mákszalmáját, illetve kifejtett máktokját a termesztő felajánlhatja az ipari
+mákot termesztetőnek átvételre, aki a mákszalma, illetve a kifejtett máktok elfogadása esetén az elszállításról saját
+költségén gondoskodik, továbbá a nyilvántartás érdekében jegyzőkönyvvel dokumentálja az elszállítást.
+(2) A fel nem ajánlott, továbbá át nem vett mákszalmát és kifejtett máktokot égetéssel vagy talajba forgatással
+legkésőbb augusztus 15-ig meg kell semmisíteni. A megsemmisítés időpontjáról a 8. § (2) bekezdése szerinti
+bejelentésre kötelezett termesztő legalább 7 nappal korábban értesíti az MgSzH területi szervét, amely
+a megsemmisítés tényét a helyszínen ellenőrzi.”
+8. §
+(1) Az R. 10. §-ának (2) bekezdése helyébe a következő rendelékezés lép:
+„(2) A díszítő mák termesztője tárgyév május 15-ig a 8. § (2) bekezdése szerinti adatokat, az ott megjelölt módon
+köteles az MgSzH területi szervével közölni.”
+(2) Az R. 10. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A mákszalmát a díszítő mák termesztője virágkötészeti céllal értékesítheti, amennyiben
+a) a KKR. 1. számú melléklete szerint kábítószernek minősülő ópium alkaloidok összes hatóanyag koncentrációja
+a légszáraz állapotú kifejtett máktokban 0,7% vagy az alatti, vagy
+b) a díszítő mákot, illetve mákszalmát kábítószerként való felhasználást megnehezítő eljárással (így különösen
+festéssel, lakkozással, fehérítéssel) kezelték, vagy
+c) a Magyar Köztársaság területén kívülre történő értékesítés esetében a fogadó állam importőre írásos
+nyilatkozatban vállalja, hogy a díszítőmákot, illetve a mákszalmát a b) pont szerint, illetve saját nemzeti elő írásainak
+meg fele lően kezelni fogja, és a nyilatkozatot a KKR. szerinti eseti export engedély iránti kérelemhez csatolják.”
+(3) Az R. 10. §-ának (5)–(7) bekezdése helyébe a következő rendelkezés lép:
+„(5) Díszítő mák exportja esetén az EEKH adja ki az eseti export engedélyt, a KKR. szerint.
+(6) A díszítő mák virágkötészeti célra fel nem használt mákszalmáját a termesztő felajánlhatja az ipari mákot
+termesztetőnek átvételre, aki a mákszalma elfogadása esetén az elszállításról saját költségén gondoskodik, továbbá
+a nyilvántartás érdekében jegyzőkönyvvel dokumentálja az elszállítást, és a jegyzőkönyv másolatát megküldi
+az EEKH-nak.
+(7) A fel nem ajánlott, továbbá át nem vett, valamint virágkötészeti célra nem értékesített díszítő mák mákszalmáját
+égetéssel vagy talajba forgatással legkésőbb augusztus 15-ig meg kell semmisíteni. A megsemmisítés időpontjáról
+a 8. § (2) bekezdése szerinti bejelentésre kötelezett termesztő legalább 7 nappal korábban értesíti az MgSzH területi
+szervét, amely a megsemmisítés tényét a helyszínen ellenőrzi.”
+
+9. §
+Az R. 11. §-ának (2) és (3) bekezdése helyébe a következő rendelkezés lép:
+„(2) A forgalomba hozatalra kerülő étkezési mákmagból az MgSzH területi szerve mintát vesz, és azt az élelmiszerek
+vegyi szennyezettségének megengedhető mértékéről szóló jogszabály szerinti határértékeknek való megfelelést
+ellenőrző vizsgálat céljából megküldi az erre akkreditált hatósági laboratóriumnak.
+(3) Ipari mák magjának étkezési célra történő forgalomba hozatala esetén az első alkalommal forgalomba hozónak
+alkaloidvizsgálatra akkreditált laboratóriumban be kell vizsgáltatni a mákmagot az alkaloidtartalom meghatározása
+céljából. A vizsgálathoz szükséges mintavételt kérelemre, a külön jogszabály szerinti igazgatási szolgáltatási díj
+ellenében az MgSzH területi szerve végzi.”
+10. §
+Az R. 12. §-a helyébe a következő rendelkezés lép:
+„12. § A mák és a kender termesztésére és forgalomba hozatalára vonatkozó szabályok betartásának ellenőrzésére
+a rend őrhatóság és az ÁNTSZ mellett az MgSzH területi szerve jogosult. Az MgSzH Központ az MgSzH területi szervei
+által végzett, a kábítószer előállítására alkalmas növények termesztésének helyszíni ellenőrzésével kapcsolatos
+adatokat összesíti, és gondoskodik az ipari-, az étkezési és a díszítőmák termesztésével kapcsolatos, a miniszter részére
+történő adatszolgáltatásról.”
+11. §
+(1) Az R. 13. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ipari mák termesztéstechnológiai kutatásával, nemesítésével, fajtakísérleteinek beállításával, kísérleti
+termesztésével, tudományos célú termesztésével és termeltetésével, vetőmagja előállításával, genetikai
+alapanyagainak tárolásával, továbbá a magas THC tartalmú kender genetikai alapanyagainak tárolásával az EEKH
+engedélyével rendelkező szervezet (a továb biak ban: engedélyes) foglalkozhat. Az EEKH a tevékenység folytatására
+engedéllyel rendelkezőkről nyilvántartást vezet.”
+(2) Az R. 13. §-ának (3)–(4) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az (1) bekezdésben meghatározott tevékenységekre vonatkozó engedély (a továb biak ban: tevékenységi
+engedély) iránti kérelmet az EEKH-hoz kell benyújtani.
+(4) A tevékenységi engedély iránti kérelemnek – a KKR szerinti gyógyászati célú tevékenységi engedély iránti kérelem
+tartalmi elemein túl – tartalmaznia kell
+a) a kábítószer előállítására felhasználható, az (1) bekezdés szerinti tevékenységgel érintett növények körét és
+a tevékenység formáját,
+b) a kábítószer előállítására felhasználható növényekkel kapcsolatos fajtafenntartási kötelezettségvállalást.”
+12. §
+Az R. 14. §-a helyébe a következő rendelkezés lép:
+„14. § Tevékenységi engedély hiányában mák és kender kábítószernek minősülő hatóanyag-tartalmának növelésére
+gyógyászati célú tudományos kutatási tevékenység az EEKH által kibocsátott eseti kutatási engedély birtokában
+folytatható. Az EEKH az engedélyt közli a miniszterrel és az Országos Rendőr-főkapitánysággal is.”
+13. §
+Az R. a következő 17. §-sal egészül ki:
+„17. § E rendelet a vetőmagok piacának közös szervezéséről szóló 2358/71/EGK rendelet módosításáról, valamint
+a vetőmagágazatban a 2000/2001. és 2001/2002. gazdasági évben nyújtandó támogatásról szóló 1405/1999/EK
+tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.”
+14. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba és a hatálybalépést követő napon hatályát veszti.
+15. §
+A rendelet tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira
+vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és
+tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt
+egyeztetése megtörtént.
+16. §
+Az R.
+a)
+4. §-ának (2) bekezdésében a „(a továb biak ban: EKH)” szövegrész helyébe a „(a továb biak ban: EEKH)”,
+b)
+5. §-a (1) bekezdésének b) pontjában, 7. §-ának (3) bekezdésében, 10. §-ának (3) bekezdésében, 13. §-ának
+(7) bekezdésében az „EKH-nak” szövegrész helyébe az „EEKH-nak”,
+
+c) 5. §-a (1) bekezdésének i) pontjában és 5. §-ának (2) bekezdésében az „az illetékes helyi rendőrhatóságot”
+szövegrész helyébe az „a rendőrséget”,
+d) 6. §-ának (2) bekezdésében a „vele” szövegrész helyébe a „termesztővel”,
+e) 6. §-ának (2) bekezdésében, 8. §-ának (4) bekezdésében és a 10. §-ának (8) bekezdésében az „az illetékes helyi
+rendőrhatóságnak” szövegrész helyébe az „a rendőrségnek”,
+f) 7. §-ának (3) bekezdésében az „Az MgSzH területi szerve” szövegrész helyébe „Az MgSzH területi szerve az MgSzH
+Központon keresztül” szövegrész, a „Minisztérium” szövegrész helyébe a „miniszter”,
+g) 8. §-ának (5) bekezdésében „Az MgSzH területi szerve” szövegrész helyébe „Az MgSzH területi szerve az MgSzH
+Központon keresztül”,
+h) 10. §-ának (3) bekezdésében a „május 31-ig” szövegrész helyébe a „június 15-ig”,
+i) 11. §-ának (4) bekezdésében a „külön jogszabály” szövegrész helyébe a „KKR.”,
+j) 11. §-ának (4) és a 13. §-ának (8) bekezdésében az „EKH” szövegrész helyében az „EEKH”,
+k) 12. §-ában a „rendőrhatóság”szövegrész helyébe a „rendőrség”
+szövegrész lép.
+17. § (1) A kábítószerekkel és pszichotróp anyagokkal végezhető tevékenységekről szóló 142/2004. (IV. 29.) Korm. rendelet
+(a továbbiakban: R1.) 5. §-a (2) bekezdésének b) pontjában az „élelmiszerlánc-felügyeletért” szövegrész helyébe
+az „agrárpolitikáért” szövegrész lép.
+(2) Az R1. 14. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Nem tekintendő engedélyköteles exportnak, importnak vagy transzfernek a K1, K2, illetve a P2, a P3 vagy a P4
+jegyzéken szereplő anyag olyan korlátozott mennyiségű – nemzetközi vonalakon közlekedő hajón, repülőgépen,
+vonaton, vagy nemzetközi autóbuszjáraton történő – szállítása, amelyre útközben elsősegélynyújtás miatt vagy egyéb
+sürgős esetben szükség lehet. E kábítószer és pszichotróp anyag megrendelése, tárolásának, felhasználásának
+ellenőrzése és nyilvántartása a személyszállítást végző gazdálkodó szervezet üzemorvosának, vagy más, a gazdálkodó
+szervezettel szerződésben álló orvosnak, mint egészségügyi szolgáltatónak a felelőssége.”
+18. § (1) Az R. 4. §-ának (2) bekezdésében az „érvényes” és a „továbbiakban: tevékenységi engedély” szövegrész, továbbá
+11. §-ának (5) bekezdése, 13. §-ának (5)–(8) bekezdése, 15. §-a, 16. §-ának (2) bekezdése, valamint 1–5. számú
+melléklete hatályát veszti.
+(2) Az R1. 14. §-ának (11) bekezdése hatályát veszti.
+Bajnai Gordon s. k.,
+miniszterelnök

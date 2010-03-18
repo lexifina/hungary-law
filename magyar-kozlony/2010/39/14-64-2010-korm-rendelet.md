@@ -1,0 +1,443 @@
+# A Kormány 64/2010. (III. 18.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 39. szám, 2010. március 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d806f27abf2195e245fe1edf3e990184339b0413/dokumentumok/6398c4967696af9e0407b924b49bb5dec4ce7c86/letoltes)
+
+---
+
+A Kormány 64/2010. (III. 18.) Korm. rendelete
+a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló
+335/2005. (XII. 29.) Korm. rendelet módosításáról
+A Kormány a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 35/A. §
+(1) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében
+eljárva a következőket rendeli el:
+1. § (1) A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet
+(a továbbiakban: R.) 2. § 10. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„10. érkeztetés: az érkezett küldemény azonosítóval történő ellátása és adatainak nyilvántartásba vétele;”
+(2) Az R. 2. § 12. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„12. iktatás: az irat iktatószámmal történő nyilvántartásba vétele az érkeztetést vagy a keletkezést követően;”
+(3) Az R. 2. § 18. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„18. irattárba helyezés: az irattári tételszámmal ellátott ügyirat irattárban történő dokumentált elhelyezése, illetve
+kezelési jogának átadása az irattárnak az ügyintézés befejezését követő időre;”
+(4) Az R. 2. § 32. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„32. szerelés: ügyiratok végleges jellegű összekapcsolása;”
+(5) Az R. 2. §-a a következő 40. és 41. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„40. archiválás: elektronikus iktatókönyvek és adatállományaik, valamint elektronikus dokumentumok hosszú távú
+biztonságos megőrzése elektronikus adathordozón;
+41. ügykezelő: iratkezelési feladatokat végző személy.”
+
+2. §
+Az R. a következő 4. §-sal egészül ki:
+„4. § A központi elektronikus szolgáltató rendszer (a továb biak ban: központi rendszer) igénybevételére kötelezett,
+valamint az azt igénybe vevő közfeladatot ellátó szerv iratkezelési vagy – a g) és h) pont kivételével – más belső
+szabályzatában a hivatali kapu igénybevételével meg valósuló iratforgalom szabályozásával kapcsolatban rendezendő
+kérdések különösen az alábbiak:
+a) a központi rendszeren keresztüli hiteles elektronikus dokumentumforgalomban részt vevő felhasználók kijelölése,
+b) a hivatali kapuval kapcsolatos informatikai feladatok ellátására feljogosítottak kijelölése,
+c) a hivatali célra használandó ügyfélkapu biztosításához (a díjmentesség érdekében) munkáltatói igazolás kiadása,
+d) a hivatali kapu működtetésében részt vevők személyi adatai kezelésének, megőrzésének rendje,
+e) a hivatali célú ügyfélkapu hozzáférési jogosultságának megszüntetésével (a hivatali célú ügyfélkapuval rendelkező
+munkatárs jogviszonyának megszűnéséből eredő feladatok ellátását is beleértve) kapcsolatos feladatok
+végrehajtásának rendje,
+f) a hivatali kapu nyilvántartásának kezelésére való jogosultság megszűnésével járó feladatok, a kezelt adatok
+átadásának rendje,
+g) a hiteles elektronikus dokumentumforgalomban kézbesíteni rendelt elektronikus irat hivatali kapuba történő
+feltöltésének eljárásrendje,
+h) a hiteles elektronikus dokumentumforgalomban érkező küldemény érkeztetésének rendje.”
+3. §
+Az R. a következő 15/A. és 15/B. §-sal egészül ki:
+„15/A. § (1) A közfeladatot ellátó szerv szervezeti egységének megszűnése esetén a kezelésébe tartozó valamennyi
+küldeményt, az el nem intézett, folyamatban lévő ügyek iratait átadás-átvételi jegyzőkönyv kíséretében át kell adni
+a megszűnő szervezeti egység feladatkörét átvevő szervezeti egységnek (a továb biak ban: átvevő szervezeti egység).
+(2) Amennyiben a megszűnő szervezeti egység különálló iktatókönyvvel rendelkezett, akkor az iktatókönyvében
+a végleges átadást jelölni kell, az iktatókönyvet le kell zárni és az átadott folyamatban lévő ügyek iratait az átvevő
+szervezeti egység iktatókönyvébe – az irat korábbi iktatószámának és iktatókönyve azonosítójának feltüntetésével –
+be kell iktatni.
+(3) Amennyiben a megszűnő és az átvevő szervezeti egység közös iktatókönyvet használt, az iktatókönyvben
+az átvevő szervezeti egységet, mint felelőst, rögzíteni kell.
+(4) Ha a megszűnő szervezeti egység feladatköre több szervezeti egység között oszlik meg, az irattári anyagot
+– a közfeladatot ellátó szerv iratkezelési szabályzatában meghatározottak szerint – a feladathoz kapcsolódóan lehet
+megosztani, vagy a központi irattárban elhelyezni. Az egyes ügyiratokra vonatkozó igényt másolat készítésével vagy
+kölcsönzéssel kell teljesíteni. A folyamatban lévő és a befejezett ügyek iratait az (1) bekezdésben meghatározottak
+szerint kell kezelni.
+(5) A megszűnő szervezeti egység papír alapú lezárt iktatókönyvét a központi irattárban kell elhelyezni és
+a továb biak ban kezelni. Elektronikus iktatókönyv esetében az átvevő szervezeti egység számára a hozzáférést
+biztosítani kell.
+(6) Ha a megszűnt szervezeti egység feladatkörét nem veszi át más szervezeti egység, iratanyagát a központi
+irattárban kell elhelyezni.
+15/B. § A 15/A. § (1)–(4) bekezdésének rendelkezéseit a közfeladatot ellátó szerv szervezeti egységét érintő feladatkör
+átadása esetén is alkalmazni kell.”
+4. §
+Az R. 21. §-a helyébe a következő rendelkezés lép:
+„21. § (1) Az átvevő a papír alapú iratok esetében a kézbesítőokmányon olvasható aláírásával és az átvétel dátumának
+feltüntetésével az átvételt elismeri. Az „azonnal” és „sürgős” jelzésű küldemények átvételi idejét óra, perc
+pontossággal kell megjelölni, amit a kézbesítőokmányon kívül az átvett küldeményen is rögzíteni kell.
+(2) Elektronikus úton, nem a központi rendszeren keresztül érkezett küldemények esetében az átvevő a feladónak
+– amennyiben azt kéri, és elektronikus válaszcímét megadja – haladéktalanul elküldi a küldemény átvételét igazoló és
+az érkeztetés egyedi azonosítóját is tartalmazó elektronikus visszaigazolást (átvételi nyugtát).
+(3) A központi rendszeren keresztül érkezett küldemények esetében az átvétel visszaigazolása az elektronikus
+közszolgáltatásról és annak igénybevételéről szóló kormányrendeletben meghatározottak szerint történik.
+(4) Amennyiben iratkezelésre nem jogosult személy vagy szervezeti egység veszi át a küldeményt, úgy azt köteles
+haladéktalanul, de legkésőbb az érkezést követő első munkanap kezdetén az ille té kes iratkezelési egységnek
+az iratkezelési szabályzat szerinti kezelése céljából átadni.”
+
+5. §
+Az R. 23. §-a helyébe a következő rendelkezés lép:
+„23. § Sérült küldemény átvétele esetén a sérülés tényét papír alapú iratok esetében az átvételi okmányon jelölni kell,
+és a küldemény tartalmát külön jegyzékben fel kell tüntetni. A megállapíthatóan hiányzó iratokról vagy mellékletekről
+a feladót értesíteni kell.”
+6. §
+Az R. 25. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az elektronikus úton, nem a központi rendszeren keresztül érkezett küldemény átvételét meg kell tagadni, ha
+az biztonsági kockázatot jelent a fogadó szerv számítástechnikai rendszerére.”
+7. §
+Az R. 28. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A névre szóló küldemények kezeléséről a közfeladatot ellátó szerv iratkezelési szabályzata rendelkezik.”
+8. §
+Az R. 31. §-a helyébe a következő rendelkezés lép:
+„31. § (1) Az elektronikusan érkezett küldeményt – kivéve a központi rendszeren érkezett küldeményeket – iktatás előtt
+megnyithatóság (olvashatóság) szempontjából ellenőrizni kell.
+(2) Amennyiben a küldemény az egységes közigazgatási informatikai követelmény- és tudástárban közzétett
+formátumokat kezelő programokkal nem nyitható meg, úgy a küldőt – amennyiben elektronikus válaszcímét
+megadta – az érkezéstől számított legkésőbb három munkanapon belül elektronikus úton értesíteni kell a küldemény
+értelmezhetetlenségéről és a közfeladatot ellátó szerv által használt formátumokról.
+(3) Amennyiben a küldeménynek csak egyes elemei nem nyithatóak meg az egységes közigazgatási informatikai
+követelmény- és tudástárban közzétett formátumokat kezelő programokkal, úgy a küldőt a (2) bekezdés szerint kell
+értesíteni az értelmezhetetlen elemekről és a hiánypótlás szükségességéről, lehetőségeiről.
+(4) A (2) bekezdés szerinti küldeményeket nem kell iktatni.”
+9. §
+Az R. 32. §-a helyébe a következő rendelkezés lép:
+„32. § (1) Ha a felbontás alkalmával kiderül, hogy a küldemény pénzt, illetékbélyeget vagy egyéb értéket tartalmaz,
+a felbontó az összeget, az illetékbélyeg értékét, ille tő leg a küldemény egyéb értékét köteles a küldeményen vagy
+feljegyzés formájában a küldeményhez csatoltan feltüntetni.
+(2) A pénzt, illetékbélyeget és egyéb értéket – elismervény ellenében – a pénzkezeléssel megbízott dolgozónak kell
+átadni és az elismervényt a küldeményhez kell csatolni.
+(3) Amennyiben megállapításra kerül, hogy az illetékbélyeget illetékköteles küldeményhez csatolták és az illetéket
+illetékbélyeggel kell leróni, a közfeladatot ellátó szerv az iratkezelési szabályzatában – a (2) bekezdésben foglaltaktól
+eltérően – rendelkezhet annak a küldeményre történő felragasztásáról és értéktelenítéséről.”
+10. §
+Az R. 33. §-a helyébe a következő rendelkezés lép:
+„33. § (1) Amennyiben a küldemény benyújtásának időpontjához jogkövetkezmény fűződik vagy fűződhet,
+gondoskodni kell arról, hogy annak időpontja megállapítható legyen.
+(2) Papír alapú küldemény esetében, amennyiben csak a borítékról állapítható meg az ügy szempontjából valamely
+fontos adat vagy tény, amely jogkövetkezménnyel bírhat, a borítékot a küldeményhez kell csatolni.
+(3) Amennyiben a beküldő nevét vagy pontos címét a küldeményből nem lehet megállapítani, a hiányos
+adatmegadásra vonatkozó bizonyítékokat a küldeményhez kell csatolni.”
+11. §
+Az R. 34. §-a helyébe a következő rendelkezés lép:
+„34. § (1) Minden beérkezett küldeményt a beérkezés időpontjában – a 21. § (4) bekezdésében meghatározott esetben
+az érkezést követő első munkanap kezdetén – érkeztetni kell. A visszaérkezett tértivevények és elektronikus
+visszaigazolások érkeztetési eljárását és az érkeztetés dokumentálásának módját a közfeladatot ellátó szerv
+iratkezelési szabályzata határozza meg.
+(2) Az érkeztetési nyilvántartás tartalmazza minimálisan az alábbi adatokat:
+a) a küldő neve,
+b) a beérkezés időpontja,
+c) könyvelt postai küldeménynél a küldemény postai azonosítója (különösen kód, ragszám),
+d) központi rendszeren keresztül érkező elektronikus küldemény esetén a központi rendszer által a küldeményhez
+rendelt érkeztető szám, továbbá
+
+e) a közfeladatot ellátó szerv által képzett, folyamatos sorszámot és az évszámot tartalmazó érkeztetési azonosító
+vagy nyilvántartott zárt számmezőből kiosztott érkeztetési azonosító.
+(3) Papír alapú vagy elektronikus adathordozón érkező küldemény esetén az érkeztetés dátumát és az érkeztetési
+azonosítót a küldeményen vagy az elektronikus adathordozó kísérő lapján, annak elválaszthatatlan részeként fel kell
+tüntetni. Az érkeztetési azonosító küldeményen való feltüntetése mellőzhető, ha az iktatás az érkeztetéssel
+egyidejűleg megtörténik.
+(4) Nem kell érkeztetni abban az esetben, ha a közfeladatot ellátó szerv papír alapú iktatást vezet, és valamennyi
+beérkező küldeményt az érkezés időpontjában a papír alapú iktatókönyvben iktat.
+(5) Az (1) bekezdéstől eltérően, azon beadványt, amelyet a szerv foglalkoztatottjának elektronikus levélcímére
+küldtek, akkor kell érkeztetni, ha a beadvány tartalmából egyértelműen megállapítható, hogy az a szerv hatáskörébe
+tartozó eljárás kezdeményezésére irányul.
+(6) Az (5) bekezdés alapján érkeztetett beadványt nem kell iktatni, ha azt nem a jogszabályban meghatározott
+formában nyújtották be, azzal, hogy a küldőt ebben az esetben egy munkanapon belül elektronikus úton tájékoztatni
+kell a beadvány elő ter jesz tésére irányadó formáról.”
+12. §
+Az R. 35. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az elektronikus úton, nem a központi rendszeren keresztül érkezett iraton szereplő elektronikus aláírás
+érvényességét az iratkezelési szabályzatban meghatározott esetekben ellenőrizni, az ellenőrzés tényét és eredményét
+az iratkezelési szoftverben rögzíteni kell.”
+13. §
+Az R. 37. §-a helyébe a következő rendelkezés lép:
+„37. § A küldemény munkahelyről történő kiviteléről, munkahelyen kívüli tanulmányozásáról, feldolgozásáról,
+tárolásáról belső szabályzatban kell rendelkezni.”
+14. §
+Az R. 39. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+„(2) Az iktatókönyv tartalmazza minimálisan az alábbi, az iktatókönyvben nyilvántartott iratokra vonatkozó adatokat,
+azok rendelkezésre állása esetén:
+a) iktatószám,
+b) iktatás időpontja,
+c) beérkezés időpontja, módja, érkeztetési azonosítója,
+d) adathordozó típusa (papír alapú, elektronikus), adathordozó fajtája,
+e) expediálás időpontja, módja,
+f) küldő adatai (név, cím),
+g) címzett adatai (név, cím),
+h) hivatkozási szám (idegen szám),
+i) mellékletek száma, típusa (papír alapú, elektronikus),
+j) ügyintéző megnevezése,
+k) irat tárgya,
+l) elő- és utóiratok iktatószáma,
+m) kezelési feljegyzések,
+n) intézés határideje, módja és elintézés időpontja,
+o) irattári tételszám,
+p) irattárba helyezés.
+(3) Az iraton és az előadói íven fel kell tüntetni az irat egyértelmű azonosítást lehetővé tevő egyedi azonosító adatát.”
+15. §
+Az R. 40. §-a helyébe a következő rendelkezés lép:
+„40. § (1) Az iktatószám kötelezően tartalmazza a főszám-alszám/évszám/ – egy adategyüttesként kezelendő
+– adatokat, amelyben az évszám az aktuális év négy számjegye.
+(2) Amennyiben az ügyintézés szakmai követelménye szükségessé teszi, az iktatószám tetszőlegesen bővíthető
+– az (1) bekezdésben meghatározottak szerint képzett adategyüttest megelőzően – a szervezeti egységre,
+iktatóhelyre vagy iktatókönyvre utaló, számot, betűt vagy ezek kombinációját tartalmazó azonosítóval.
+
+(3) Amennyiben az ügyintézés szakmai követelménye szükségessé teszi, az iktatószám tetszőlegesen bővíthető
+– az (1) bekezdésben meghatározottak szerint képzett adategyüttest köve tően – számot, betűt vagy ezek
+kombinációját tartalmazó további azonosítóval.
+(4) A (2) és (3) bekezdésben meghatározottak szerint képzett azonosítókat az iratkezelési feladatok felügyeletét ellátó
+felelős vezető adja ki és tartja nyilván. Az azonosítók képzésére vonatkozó részletes szabályokat a közfeladatot ellátó
+szerv iratkezelési szabályzata határozza meg.”
+16. §
+(1) Az R. 41. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+„(2) Egy iktatókönyvön belül az iktatószámokat folyamatos, zárt, emelkedő sorszámos rendszerben kell kiadni és
+nyilvántartani.
+(3) Az ügyirathoz tartozó iratokat a főszám alatt kiadott alszámokon, folyamatos, zárt, emelkedő sorszámos
+rendszerben kell kiadni és nyilvántartani.”
+(2) Az R. 41. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az (1) bekezdésben foglaltaktól eltérően a különböző években, de ugyanazon ügyben keletkezett iratokat is egy
+főszámon lehet nyilvántartani:
+a) papír alapú iktatás esetén a rendvédelmi szerveknél, a bírósági és ügyészi szerveknél, pártfogó felügyelői
+szolgálatnál és az állami adóhatóságnál, a közjegyzőknél, a bírósági végrehajtóknál, valamint ezek kamaráinál,
+továbbá az igazságügyi szakértői névjegyzékbe bejegyzett természetes személyeknél és gazdasági társaságoknál,
+igazságügyi szakértői intézményeknél, hatósági tolmácsoknál, hiteles szakfordítóknál és büntető ügyekben közvetítői
+tevékenységet végző ügyvédeknél azzal a feltétellel, hogy a különböző években, de ugyanazon ügyben keletkezett,
+egy főszámon nyilvántartható ügyek körét az iratkezelési szabályzatban kell meghatározni,
+b) iratkezelési szoftver alkalmazása esetén valamennyi közfeladatot ellátó szervnél.”
+17. §
+Az R. 43. §-a helyébe a következő rendelkezés lép:
+„43. § (1) Az iktatókönyvet az év utolsó munkanapján, az utolsó irat iktatása után le kell zárni.
+(2) Papír alapú iktatókönyv zárása esetén az iktatásra felhasznált utolsó számot követő aláhúzással kell a zárást
+elvégezni, majd azt a keltezést köve tően aláírással, továbbá a közfeladatot ellátó szerv hivatalos
+bélyegzőlenyomatával kell hitelesíteni. Ezt köve tően a lezárt iktatókönyvben nem lehet iktatást végezni.
+(3) Iratkezelési szoftver alkalmazása esetén valamennyi közfeladatot ellátó szervnek az iktatókönyv zárásának
+részeként el kell készítenie az elektronikus érkeztető nyilvántartásnak, elektronikus iktatókönyvnek, azok
+adatállományainak (címlista, tételszám, megőrzés, naplózás információi) és az elektronikus dokumentumoknak az év
+utolsó munkanapi iktatási állapotát tükröző, időbélyegzővel ellátott, elektronikus adathordozóra elmentett változatát.
+Az elektronikus dokumentumokat külön adathordozóra kell elmenteni.
+(4) A 41. § (6) bekezdésében meghatározott szerveknél az (1) és (3) bekezdés szerint végrehajtott zárás után a lezárt
+iktatókönyvben új irat új főszámra történő iktatása nem megengedett, az érkezett újabb iratot az ugyanazon ügy
+főszámának soron következő alszámára kell iktatni.
+(5) Az időbélyegzővel ellátott, lezárt érkeztető nyilvántartást, iktatókönyvet, adatállományait és az elektronikus
+dokumentumokat archiválni kell, és a biztonsági másolatot elektronikus adathordozón tűzbiztos helyen kell tárolni.
+Az elektronikus érkeztető nyilvántartás elektronikus adathordozóra elmentett példányát az archiválást követő
+második évben meg kell semmisíteni.”
+18. §
+Az R. 47. § f) pontja helyébe a következő rendelkezés lép:
+(Nem kell iktatni, de jogszabályban meghatározott esetekben nyilván kell tartani:)
+„f) nyugtákat, pénzügyi kimutatásokat, fizetésiszámla-kivonatokat, számlákat;”
+19. §
+Az R. 48. §-a helyébe a következő rendelkezés lép:
+„48. § (1) Téves iktatás esetén a papír alapú iktatókönyvben a bejegyzést áthúzással kell érvényteleníteni oly módon,
+hogy az érvénytelenítés ténye – az eredeti bejegyzés olvashatósága mellett – kétségtelen legyen.
+(2) Elektronikus iktatókönyv használata esetén a változásokat (módosítás, az adatok fizikai törlése nélküli törlésre
+jelölése), tartalmuk megőrzésével, naplózással dokumentálni kell.
+(3) A tévesen kiadott iktatószám nem használható fel újra.”
+
+20. §
+Az R. 49. §-a helyébe a következő rendelkezés lép:
+„49. § (1) A papír alapú iktatókönyvbe ceruzával beírni, sorszámot üresen hagyni, a felhasznált lapokat összeragasztani,
+a bejegyzett adatokat kiradírozni, vagy bármely más módon olvashatatlanná tenni nem szabad. Ha helyesbítés
+szükséges, a téves adatot vagy számot egy vonallal úgy kell áthúzni, hogy az eredeti feljegyzés olvasható maradjon.
+A javítást keltezéssel és kézjeggyel kell igazolni.
+(2) Iratkezelési szoftver alkalmazása esetén az utólagos módosítás tényét a jogosultsággal rendelkező felhasználó
+azonosítójával és a javítás idejének megjelölésével naplózni kell. A naplóban követhetően rögzíteni kell az eredeti és
+a módosított adatokat.”
+21. §
+Az R. 50. §-a helyébe a következő rendelkezés lép:
+„50. § (1) Az irat iktatása előtt meg kell állapítani, hogy van-e előzménye.
+(2) Amennyiben a küldeménynek a tárgyévben van előzménye, akkor azt az előzmény következő alszámára kell
+iktatni.
+(3) Amennyiben a küldeménynek a korábbi évben (években) van előzménye, akkor az előzményt a tárgyévi
+ügyirathoz kell szerelni és rögzíteni kell az iktatókönyvben az előirat iktatószámát, az előzménynél pedig az utóirat
+iktatószámát. A szerelést papír alapú irat esetében az iraton is jelölni kell.
+(4) A 41. § (6) bekezdésében meghatározottak szerinti iktatást végző szerveknél a különböző években, de ugyanazon
+ügyben keletkezett, egy főszámon nyilvántartható ügyek esetében a küldeményt az előzmény következő alszámára
+kell iktatni.”
+22. §
+Az R. 53. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+„53. § (1) Jogszabály eltérő rendelkezése hiányában az irat akkor hiteles kiadmány, ha
+a) azt az ille té kes kiadmányozó saját kezűleg aláírja, és aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel,
+b) a kiadmányozó neve mellett az „s. k.” jelzés szerepel, a hitelesítésre felhatalmazott személy azt aláírásával igazolja,
+továbbá a felhatalmazott személy aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel,
+c) a közigazgatási hatóság a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő elektronikus
+aláírással látta el,
+d) a bíró, az igazságügyi alkalmazott, a bírósági végrehajtó, a közjegyző a külön jogszabályban meghatározott
+követelményeknek megfelelő elektronikus aláírással látta el, vagy
+e) a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló tör vény ben meghatározottak
+szerint elektronikus közokiratnak minősül és az elküldését igazoló visszaigazolás rendelkezésre áll.
+(2) Nyomdai sokszorosítás esetén elegendő
+a) a kiadmányozó neve mellett az „s. k.” jelzés és a kiadmányozó szerv bélyegzőlenyomata, vagy
+b) a kiadmányozó alakhű aláírásmintája és a kiadmányozó szerv bélyegzőlenyomata.
+(3) A közfeladatot ellátó szerv által készített hiteles kiadmányról a külön jogszabályban foglaltak szerint lehet hiteles
+másolatot készíteni.”
+23. §
+Az R. 54. §-a helyébe a következő rendelkezés lép:
+„54. § A kiadmányozáshoz használt bélyegzőkről, érvényes aláírás-bélyegzőkről és a hivatalos célra felhasználható
+elektronikus aláírásokról nyilvántartást kell vezetni. A közfeladatot ellátó szerv által használt valamennyi bélyegző és
+elektronikus aláírás kezelésének rendjéről és nyilvántartásáról az iratkezelési szabályzat vagy más belső szabályzat
+rendelkezik.”
+24. §
+Az R. 57. §-a helyébe a következő rendelkezés lép:
+„57. § Az elektronikus iratok kézbesítésének rendjét a közfeladatot ellátó szerv az iratkezelési szabályzatában – az adott
+közfeladatot ellátó szervre és eljárására vonatkozó, továbbá az elektronikus iratok kézbesítését előíró jogszabályi
+rendelkezések figye lembe véte lével – határozza meg.”
+25. §
+(1) Az R. 61. § (1) bekezdése helyébe a következő rendelkezés lép
+„(1) Az ügyintézőnek legkésőbb az ügy befejezésével egyidejűleg meg kell határoznia (papír alapú irat esetén
+rávezetnie) az irattári tételszámot, és meg kell vizsgálnia az előírt kezelési és kiadási utasítások teljesülését.”
+
+(2) Az R. 61. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+„(3) Az irattárba helyezés alkalmával az ügykezelő köteles ellenőrizni, hogy az ügykezelés szabályainak eleget tettek-e.
+Amennyiben az ügykezelő hiányosságot észlel az iraton, visszaadja az ügyintézőnek, aki gondoskodik annak
+javításáról. Ezt köve tően az iktatókönyv megfelelő rovatába be kell vezetni az irattárba helyezés időpontját.
+(4) Az irattárban a papír alapú ügyiratokat – biztosítva azok gyors és hatékony visszakereshetőségét, selejtezését,
+valamint átadás-átvételét – a közfeladatot ellátó szerv iratkezelési szabályzatában meghatározott rendben kell tárolni.
+Az elektronikus ügyiratok tárolásának rendjét a közfeladatot ellátó szerv belső szabályzata határozza meg.”
+(3) Az R. 61. §-a a következő (5) és (6) bekezdéssel egészül ki:
+„(5) A központi irattárba
+a) a lezárt évfolyamú, papír alapú ügyiratokat és azok papír alapú segédkönyveit,
+b) a 41. § (6) bekezdésében meghatározottak szerinti iktatást végző szerveknek – az iratkezelési szabályzatban
+meghatározott helyi megőrzési idő után – az évfolyam lezárásától függetlenül a lezárt ügyiratait, továbbá
+c) a 43. § (3) bekezdése szerint elkészített elektronikus adathordozókat
+kell leadni.
+(6) Az elektronikus dokumentumokat tartalmazó adathordozó esetében a központi irattárban csak az irattári tervben
+meghatározott őrzési időnek meg fele lően aktualizált állapotot tükröző példányt lehet tárolni.”
+26. §
+Az R. 62. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az elektronikusan tárolt és archivált adatállományok, elektronikus dokumentumok utólagos olvashatóságát,
+visszakereshetőségét, használatát a megőrzési idő lejáratáig biztosítani kell.”
+27. §
+(1) Az R. 63. § (1) bekezdése helyébe a következő rendelkezés lép:
+„63. § (1) A közfeladatot ellátó szerv dolgozói az érvényes belső szabályzatban rögzített jogosultságuk alapján
+az irattárból hivatalos használatra kölcsönözhetnek ügyiratokat.”
+(2) Az R. 63. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A (3) bekezdésben megjelölt ügyiratpótló lappal egyenértékű, ha a közfeladatot ellátó szerv az iratkezelési
+szabályzatában meghatározottak szerint a kölcsönzésről – az irat átadás-átvételét igazoló – elektronikus nyilvántartást
+vezet.”
+(3) Az R. 63. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Elektronikus ügyiratok esetében a jogosult felhasználók naplózás mellett tekinthetik meg az ügyiratot és annak
+iratait.”
+28. §
+Az R. 64. §-a a következő (5) és (6) bekezdéssel egészül ki:
+„(5) A megőrzési határidő lejáratának számításakor az irattári tételbe sorolás évében érvényes irattári tervben
+megjelölt megőrzési időt az ügyirat lezárását követő év első napjától kell számítani.
+(6) Elektronikus dokumentumkezelés esetén az adatbázisban levő iratok metaadatainak selejtezése fizikai törlés
+nélkül, a selejtezés tényére vonatkozó megjelöléssel történik. A selejtezést köve tően az elektronikus
+dokumentumokat meg kell semmisíteni, azaz visszaállíthatatlanul törölni kell az adatállományból.”
+29. §
+Az R. 65. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Ha a levéltári átadásra kötelezett iratok átadás-átvételére azért nem kerül sor, mert a nem selejtezhető iratokra
+a közfeladatot ellátó szervnek ügyviteli szempontból még rendszeresen szüksége van, vagy ha az ille té kes közlevéltár
+az iratok átvételéhez szükséges raktári férőhellyel nem rendelkezik, az irattári megőrzési idő felülvizsgálata keretében
+az átadás-átvételi határidő a levéltárral egyeztetett időtartammal meghosszabbításra kerül. Ennek időpontját és
+a további őrzési évek számát dokumentáltan rögzíteni kell.”
+30. §
+Az R. „A központi államigazgatási szervek, az önkormányzati hivatalok és az önkormányzati társulások iratkezelési
+szabályzataiban foglaltak végrehajtásának ellenőrzési rendje” címet megelőzően az alábbi szöveggel egészül ki:
+„V/A. Fejezet”.
+31. §
+Az R. 67/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az ellenőrzésben nem vehet részt az ellenőrzött szerv dolgozójának a Polgári Törvénykönyv szerinti
+hozzátartozója.”
+
+32. §
+Az R. 67/B. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+[Ellenőrzésre a KIF, a Kormány általános hatáskörű területi államigazgatási szerve és a helyi önkormányzatok tör vényességi
+ellenőrzésére hatáskörrel rendelkező szerv megbízott köztisztviselője jogosult. Az ellenőrzésre jogosult személy
+az ellenőrzési jogosultságát az ellenőrzés megkezdése előtt köteles igazolni. Az ellenőrzésre jogosult személyt ellenőrzési
+megbízólevéllel kell ellátni, amely a munkáltatói (szolgálati) igazolvánnyal együtt érvényes. Az ellenőrzési megbízólevélnek
+tartalmaznia kell:]
+„e) a megbízólevél időbeli hatályát;”
+33. §
+(1) Az R. 67/C. § (1) bekezdése a következő e) ponttal egészül ki:
+(Az ellenőrzést végző személy az ellenőrzés eredményes lefolytatása érdekében jogosult:)
+„e) az alkalmazott iratkezelési szoftver helyszíni ellenőrzéséhez szakértő bevonására.”
+(2) Az R. 67/C. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+(Az iratkezelés helyzetének feltárása érdekében az ellenőrzést végző ellenőrzése során az alábbi körülményeket vizsgálja
+különösen:)
+„g) az iktatási, nyilvántartási fegyelmet, az iktatókönyvek hitelességét, a küldemények útjának pontos nyomon
+követhetőségét, a hivatali bélyegzők és a hivatalos célra felhasználható elektronikus aláírások nyilvántartásának és
+használatának rendjét, az irategység elvének érvényesülését;”
+34. §
+Az R. a következő 70. §-sal egészül ki:
+„70. § A közfeladatot ellátó szerv e rendeletnek a közfeladatot ellátó szervek iratkezelésének általános
+követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosításáról szóló 64/2010. (III. 18.) Korm. rendelettel
+megállapított rendelkezéseinek meg fele lően legkésőbb 2011. december 31-ig köteles a hatályban lévő iratkezelési
+szabályzatát módosítani.”
+35. §
+Az R.
+a)
+2. § 30. pontjában az „elektronikus iratkezelési rendszerben, a” szövegrész helyébe az „iratkezelési szoftverben és
+az általa”,
+b)
+14. § (3) bekezdésében a „végezni” szövegrész helyébe a „dokumentálni”,
+c)
+16. § (1) bekezdésében az „iktatást” szövegrész helyébe az „iratkezelést”,
+d)
+25. § (4) bekezdésében a „beadvány” szövegrész helyébe a „küldemény”, valamint az „az Iratkezelési Szabályzat”
+szövegrész helyébe az „a belső szabályzat”,
+e)
+36. §-ában, valamint 66. § (1) és (2) bekezdésében a „gépi” szövegrész helyébe az „elektronikus”,
+f)
+44. §-ában az „expressz” szövegrész helyébe az „elsőbbségi”,
+g)
+51. § (1) bekezdésében az „ille té kes” szövegrész helyébe a „jogosult”,
+h)
+67/B. § (1) bekezdésében a „tizenöt nappal” szövegrész helyébe a „tíz munkanappal”,
+i)
+67/C. § (4) bekezdésében a „napon” szövegrész helyébe a „munkanapon”,
+j)
+15. §-ában, 51. § (1) bekezdésében az „iratkezelő” szövegrész helyébe az „ügykezelő”,
+k)
+44. §-ában az „iratkezelőnek” szövegrész helyébe az „ügykezelőnek”,
+l)
+55. §-ában az „iratkezelőjének” szövegrész helyébe „ügykezelőjének”
+szöveg lép.
+36. §
+(1) Hatályát veszti az R.
+a)
+14. § (1) bekezdésében a „papíralapú vagy elektronikus” szövegrész,
+b)
+2. § 3., 5. és 11. pontja,
+c)
+13. § (1) bekezdésében az „(ügydarabnak)” szövegrész,
+d)
+18. §-ában a „– levél, távirat, fax, csomag stb. –” szövegrész,
+e)
+22. §-a,
+f)
+24. §-ában „,az elektronikus iratot részére továbbítani kell” szövegrész,
+g)
+28. §-a (1) bekezdése b) pontjában a „valamint” szövegrész, továbbá c) pontja,
+h)
+36. §-ában a „(hajlékony lemez, CD-ROM stb.)” szövegrész,
+i)
+41. § (4) és (5) bekezdése,
+j)
+45. §-a,
+k)
+58. §-a,
+
+l)
+60. §-a (1) bekezdésében a „kiadmányozott, ” szövegrész,
+m) 67/B. § (1) bekezdésében az „írásban” szövegrész,
+n)
+69. § (3) és (5) bekezdése.
+(2) Hatályát veszti az R. 70. §-a.
+37. §
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2010. április 1-jén lép hatályba, és 2012. január 2-án
+hatályát veszti.
+(2) A 36. § (2) bekezdése 2012. január 1-jén lép hatályba.
+Bajnai Gordon s. k.,
+miniszterelnök
