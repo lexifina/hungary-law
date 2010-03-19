@@ -10,7 +10,7 @@ lehet benyújtani a Mezőgazdasági Szakigazgatási Hivatalhoz a Mezőgazdasági
 
 (2) A támogatási kérelemhez mellékelni kell:
 
-a)[^24] a mezőgazdasági őstermelői igazolvány, illetve az egyéni vállalkozói igazolvány hiteles másolatát,
+a)[^24] a mezőgazdasági őstermelői igazolvány hiteles másolatát;
 
 b)[^25] az energiaültetvények határvonalait ábrázoló MePAR rendelet szerinti egyedi blokktérképeket;
 
@@ -57,7 +57,7 @@ e) a 2. számú melléklet szerinti értékelési rendszer „Pénzügyi terv”
 f) a támogatási kérelem értékeléséhez, bírálatához szükséges egyéb információkat, adatokat.
 
 [^23]: A 6. § (1) bekezdése a 143/2009. (XI. 5.) FVM rendelet 11. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2009. november 6. napját megelőzően, de 2009. október 30-át követően benyújtott még el nem bírált támogatási kérelmek esetében is alkalmazni kell.
-[^24]: A 6. § (2) bekezdésének a) pontja a 133/2007. (XI. 13.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^24]: A 6. § (2) bekezdés a) pontja a 23/2010. (III. 16.) FVM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^25]: A 6. § (2) bekezdésének b) pontja a 133/2007. (XI. 13.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^26]: A 6. § (2) bekezdésének d) pontját a 133/2007. (XI. 13.) FVM rendelet 7. § (1) bekezdése hatályon kívül helyezte.
 [^27]: A 6. § (2) bekezdésének e) pontja a 133/2007. (XI. 13.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
