@@ -40,7 +40,7 @@ bc) november 1-jétől 30-ig
 
 (13)[^23] A Vhr. 6. § (5) bekezdésében foglaltaktól eltérően – mezőgazdasági őstermelő ügyfél esetében – a támogatási kérelméhez nem kell mellékelni az őstermelői igazolvány hiteles másolatát.
 
-(14)[^24] A Vhr. 15. § (2) bekezdésében foglaltaktól eltérően – egyéni vállalkozó ügyfél esetében – a támogatási kérelméhez nem kell mellékelni az egyéni vállalkozói igazolványt kiállító szerv igazolását vállalkozói tevékenységéről.
+(14)[^24] Egyéni vállalkozó ügyfél esetében a Vhr. 15. § (2) bekezdésében foglaltakat nem kell alkalmazni.
 
 [^13]: A 6. § (1) bekezdése a 96/2008. (VII. 25.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^14]: A 6. § (1) bekezdés a) pontját a 168/2009. (XII. 15.) FVM rendelet 5. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
@@ -53,4 +53,4 @@ bc) november 1-jétől 30-ig
 [^21]: A 6. § (11) bekezdését a 96/2008. (VII. 25.) FVM rendelet 4. § (4) bekezdése iktatta be, szövege a 168/2009. (XII. 15.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^22]: A 6. § (12) bekezdését a 96/2008. (VII. 25.) FVM rendelet 4. § (4) bekezdése iktatta be, hatályon kívül helyezte a 168/2009. (XII. 15.) FVM rendelet 5. § (3) bekezdése. Ez utóbbi módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
 [^23]: A 6. § (13) bekezdését a 154/2008. (XI. 26.) FVM rendelet 3. §-a iktatta be, szövege a 168/2009. (XII. 15.) FVM rendelet 3. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^24]: A 6. § (14) bekezdését a 154/2008. (XI. 26.) FVM rendelet 3. §-a iktatta be. E módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2008. augusztus 31. után benyújtott támogatási kérelmekre is alkalmazni kell.
+[^24]: A 6. § (14) bekezdését a 154/2008. (XI. 26.) FVM rendelet 3. §-a iktatta be, szövege a 23/2010. (III. 16.) FVM rendelet 17. §-ával megállapított szöveg.
