@@ -1,0 +1,1 @@
+## 39. § Hatályát veszti az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás (SAPS), valamint az ahhoz kapcsolódó kiegészítő nemzeti támogatások (top up) 2009. évi igénybevételével kapcsolatos egyes kérdésekről szóló 37/2009. (IV. 3.) FVM rendelet.
