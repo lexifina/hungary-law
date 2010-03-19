@@ -120,7 +120,7 @@
 
 ## Az A1, A2 és a vezetői szerepkör csak felsőfokú végzettséggel tölthető be. További új munkatárs felvételére, illetve vezető kinevezésére kötelező érvényűek a köztisztviselők képesítési előírásairól szóló 9/1995. (II. 3.) Korm. rendelet előírásai. Ha a LEADER HACS nem rendelkezik jelen esetben olyan munkavállalóval, aki a köztisztviselők képesítési előírásairól szóló 9/1995. (II. 3.) Korm. rendelet 3. számú melléklete szerinti képesítési előírásoknak megfelel (különös tekintettel a 89., 121. és 126. pontokban foglaltaknak), akkor köteles felvenni legalább egy főt a vonatkozó rendelet előírásainak megfelelően.
 
-9. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^62]
+9. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^63]
 
 A LEADER HACS-ok tervezési területei
 
@@ -6166,4 +6166,4 @@ A LEADER HACS-ok tervezési területei
 
 | Zselicszentpál |
 
-[^62]: A 9. számú mellékletet a 123/2009. (IX. 17.) FVM rendelet 8. § (4) bekezdése iktatta be.
+[^63]: A 9. számú mellékletet a 123/2009. (IX. 17.) FVM rendelet 8. § (4) bekezdése iktatta be.

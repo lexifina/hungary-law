@@ -20,7 +20,7 @@ b) a 4. számú melléklet szerinti, működéshez kötődő személyi jellegű 
 
 (6)[^25] A működési költség finanszírozásának első három évében (2008, 2009, 2010) az évente igényelhető összeg nem haladhatja meg az FVM rendelet 1. számú mellékletében meghatározott működési költség 30%-át, azt követő években a 20%-át azzal, hogy a LEADER HACS és a HVK az IH-val kötött együttműködési megállapodás alapján köteles ellátni a feladatot.
 
-(7)[^26] Az 5., 6. és 7. számú melléklet szerinti adattartalmú, az FVM honlapján közzétett formanyomtatványokon kérvényezett IH jóváhagyásról a kérelemnek az IH-hoz postai úton vagy személyesen átadott irat útján történő kézbesítésétől számított 22 munkanapon belül dönt az IH.
+(7)[^26] Az 5., 6. és 7. számú melléklet szerinti adattartalmú, az FVM honlapján közzétett formanyomtatványokon kérvényezett jóváhagyásról a kérelemnek az IH-hoz postai úton vagy személyesen átadott irat útján történő közlést követően az IH határozatot hoz.
 
 (8) A jogi személyiséggel rendelkező LEADER HACS-ok és HVK-k vállalkozási tevékenységéhez kötődő költségei nem számolhatóak el. A működési költség terhére beszerzésre kerülő eszközök a vállalkozási tevékenység végzését nem segíthetik elő. A 3. § (1) bekezdésében szereplő feladatok és a vállalkozási tevékenység kapcsán egyaránt felmerült költségek esetében a költségeket arányosítani szükséges. Személyi jellegű kiadások esetében az arányosítás a feladatellátásra fordított munkaidő alapján, az iroda fenntartásával kapcsolatban felmerülő általános költségek esetében pedig az alapterület alapján történik a költségek megosztása.
 
@@ -47,7 +47,7 @@ c) munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló m
 [^23]: Az 5. § (4) bekezdése a 123/2009. (IX. 17.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^24]: Az 5. § (5) bekezdése a 123/2009. (IX. 17.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^25]: Az 5. § (6) bekezdése a 123/2009. (IX. 17.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^26]: Az 5. § (7) bekezdése a 123/2009. (IX. 17.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^26]: Az 5. § (7) bekezdése a 23/2010. (III. 16.) FVM rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^27]: Az 5. § (11) bekezdését a 8/2009. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^28]: Az 5. § (12) bekezdését a 8/2009. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^29]: Az 5. § (13) bekezdését a 21/2010. (III. 16.) FVM rendelet 17. §-a iktatta be.

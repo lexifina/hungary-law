@@ -196,6 +196,6 @@
 
 | 96. | Zselici Lámpások | Zselici Lámpások Vidékfejlesztési Egyesület |
 
-2. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^53]
+2. számú melléklet a 141/2008. (X. 30.) FVM rendelethez[^54]
 
-[^53]: A 2. számú melléklet a 8/2009. (II. 4.) FVM rendelet 5. § (1) bekezdése, a 123/2009. (IX. 17.) FVM rendelet 8. § (2) bekezdése, a 21/2010. (III. 16.) FVM rendelet 22. § (1) bekezdése szerint módosított szöveg.
+[^54]: A 2. számú melléklet a 8/2009. (II. 4.) FVM rendelet 5. § (1) bekezdése, a 123/2009. (IX. 17.) FVM rendelet 8. § (2) bekezdése, a 21/2010. (III. 16.) FVM rendelet 22. § (1) bekezdése szerint módosított szöveg.
