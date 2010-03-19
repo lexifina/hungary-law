@@ -30,7 +30,7 @@ f) a telepi infrastruktúra fejlesztésével kapcsolatos tevékenység esetén a
 
 g)[^57] a Mezőgazdasági Parcella Azonosító Rendszerről szóló 115/2003. (XI. 13.) FVM rendelet szerinti egyedi blokktérképet, amelyen be kell jelölni a beruházással érintett megvalósítási helyet;
 
-h)[^58] ha az ügyfél őstermelő vagy egyéni vállalkozó, akkor – a Vhr. 6. § (5) bekezdésében, valamint a Vhr. 15. § (2) bekezdésében foglaltaktól eltérően – a hatályos őstermelői igazolvány, illetve a hatályos egyéni vállalkozói igazolvány 30 napnál nem régebbi másolatát;
+h)[^58] ha az ügyfél őstermelő, akkor – a Vhr. 6. § (5) bekezdésében foglaltaktól eltérően – a hatályos őstermelői igazolvány 30 napnál nem régebbi másolatát;
 
 i)[^59] a 15 millió Ft alatti támogatási igényű támogatási kérelmek esetében a Vhr. 27. § (1) bekezdés e) pontja szerint pénzügyi tervet;
 
@@ -60,7 +60,7 @@ l)[^62] a k) pont szerinti teleprajzhoz mellékelni kell az ügyfél nyilatkozat
 [^55]: A 7. § (2) bekezdés d) pontja a 143/2009. (XI. 5.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^56]: A 7. § (2) bekezdés e) pontja a 143/2009. (XI. 5.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^57]: A 7. § (2) bekezdésének g) pontja a 82/2007. (VIII. 3.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^58]: A 7. § (2) bekezdésének h) pontját a 38/2007. (V. 15.) FVM rendelet 5. § (2) bekezdése iktatta be, szövege a 143/2009. (XI. 5.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^58]: A 7. § (2) bekezdésének h) pontját a 38/2007. (V. 15.) FVM rendelet 5. § (2) bekezdése iktatta be, szövege a 23/2010. (III. 16.) FVM rendelet 16. §-ával megállapított szöveg.
 [^59]: A 7. § (2) bekezdés i) pontját a 143/2009. (XI. 5.) FVM rendelet 5. § (4) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^60]: A 7. § (2) bekezdés j) pontját a 143/2009. (XI. 5.) FVM rendelet 5. § (4) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
 [^61]: A 7. § (2) bekezdés k) pontját a 143/2009. (XI. 5.) FVM rendelet 5. § (4) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
