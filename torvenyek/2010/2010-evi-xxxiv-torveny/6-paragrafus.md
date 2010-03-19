@@ -7,11 +7,3 @@
 (4) E törvény végrehajtásához szükséges intézkedésekről az adópolitikáért felelős miniszter gondoskodik.
 
 (5) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az Egyezménynek a Módosítással egységes szerkezetbe foglalt, hiteles angol és magyar nyelvű szövegét a Magyar Közlönyben közzétegye
-
-Sólyom László s. k.,
-
-köztársasági elnök
-
-Dr. Katona Béla s. k.,
-
-az Országgyűlés elnöke
