@@ -1,6 +1,18 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^1] A támogatási kérelmet a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített formanyomtatványon, postai úton 2011. évtől évente március 1. és 31. között lehet benyújtani az MVH, erdőgazdálkodó lakóhelye, vagy székhelye szerint illetékes megyei kirendeltségéhez.
+6. § (1)[^1] A támogatási kérelmet 2011. évtől évente március 1. és 31. között a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített, az MVH honlapján közzétett formanyomtatványon lehet benyújtani. A formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
+
+a) az ügyfél-azonosítási adatok,
+
+b) az igényelt támogatásra vonatkozó adatok,
+
+c) a tervezett elszámolható kiadás,
+
+d) a kalkulált támogatási összeg,
+
+e) a művelt erdőterület tényleges és tervezett nagysága,
+
+f) az erdőgazdálkodó nyilvántartási száma.
 
 (2) E jogcím keretében egy erdőgazdálkodó, egy támogatási kérelem benyújtási időszakban, egy támogatási kérelmet nyújthat be.
 
@@ -8,12 +20,14 @@
 
 (4) A Vhr. 27. § (1) bekezdés e)–f) pontjaiban meghatározott összeghatártól függetlenül, kizárólag pénzügyi tervet kell elkészíteni, és azt a támogatási kérelemmel együtt kell benyújtani.
 
-(5) A támogatási kérelem az érdemi határozat jogerőre emelkedéséig bármely időpontban részben vagy egészben visszavonható a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Eljárási törvény) 43. § (1) bekezdésének figyelembevételével. A támogatási kérelem részleges visszavonása kizárólag gépre, a hozzá kapcsolódó darabszámra, illetve a hozzá kapcsolódó összegre vonatkozhat.
+(5)[^2] A támogatási kérelem benyújtására nyitva álló határidő utolsó napját követően, a támogatási határozat jogerőre emelkedéséig a kérelem részlegesen is visszavonható. A részleges visszavonás kizárólag gépre, a hozzá kapcsolódó darabszámra, illetve a hozzá kapcsolódó összegre vonatkozhat.
 
-(6) Amennyiben az erdőgazdálkodó őstermelő vagy egyéni vállalkozó, a támogatási kérelemhez mellékelni kell az érvényes mezőgazdasági őstermelői igazolvány hiteles másolatát, illetve az egyéni vállalkozói igazolványt kiállító szerv igazolását a vállalkozói tevékenységi köréről és az egyéni vállalkozói igazolvány érvényességéről.
+(6)[^3] Ha az erdőgazdálkodó őstermelő, a támogatási kérelemhez mellékelni kell a hatályos mezőgazdasági őstermelői igazolvány hiteles másolatát.
 
 (7) A támogatási kérelemhez csatolni kell a rendelet 1. számú mellékletében meghatározott igazolásokat, nyilatkozatokat, bizonyítvány másolatot.
 
 (8) A kérelemnek tartalmaznia kell a támogatásból beszerzendő gép Gépkatalógus szerinti kódját, mennyiségét, illetve a beszerzés tervezett árát.
 
-[^1]: A 6. § (1) bekezdése a 29/2009. (III. 25.) FVM rendelet 4. §-ával megállapított, a 15/2010. (II. 25.) FVM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^1]: A 6. § (1) bekezdése a 23/2010. (III. 16.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^2]: A 6. § (5) bekezdése a 23/2010. (III. 16.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^3]: A 6. § (6) bekezdése a 23/2010. (III. 16.) FVM rendelet 6. § (3) bekezdésével megállapított szöveg.

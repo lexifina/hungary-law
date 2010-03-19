@@ -40,7 +40,7 @@
 
 |  | 175 000 001 Ft/új munkahely felett |  | 2 |
 
-| Az erdőgazdálkodó részt vesz az erdő környezetvédelmi programban. A támogatási kérelem benyújtásakor érvényes helyt adó vagy részben helyt adó támogatási határozattal rendelkezik. |  |  | 8 |
+| Az erdőgazdálkodó részt vesz az erdő környezetvédelmi programban. A támogatási kérelem benyújtásakor hatályos helyt adó vagy részben helyt adó támogatási határozattal rendelkezik. |  |  | 8 |
 
 | Az erdőgazdálkodó székhelye vagy lakhelye |  |  |  |
 

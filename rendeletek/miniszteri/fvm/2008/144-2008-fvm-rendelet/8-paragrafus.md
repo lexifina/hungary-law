@@ -2,11 +2,7 @@
 
 ## 8. § A kifizetési kérelmet
 
-a) a 2009 évben
-
-aa) július 1–31.,
-
-ab) október 1–31.;
+a)[^4]
 
 b) a 2010. évtől kezdődően évente
 
@@ -17,3 +13,5 @@ bb) április 1–30.,
 bc) július 1–31.,
 
 bd) október 1–31.
+
+[^4]: A 8. § a) pontját a 23/2010. (III. 16.) FVM rendelet 6. § (5) bekezdése hatályon kívül helyezte.
