@@ -16,8 +16,10 @@
 
 6. átadás időpontja: a kifizetési kérelem benyújtásának időpontja,
 
-7. főtevékenység: az egyéni vállalkozói igazolványban főtevékenységként megjelölt, a gazdasági tevékenységek egységes ágazati osztályozási rendszeréről kiadott TEÁOR'03 és TEÁOR'08 közötti fordítókulcsról szóló 9002/2007. (SK. 3.) KSH Közlemény (a továbbiakban: TEÁOR'08) szerinti 0111-0150 és 0170 tevékenység,
+7.[^2] főtevékenység: az egyéni vállalkozói nyilvántartásban főtevékenységként megjelölt, az 1893/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: NACE Rev. 2.) I. Melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdés d) pontja alapján az állami adóhatósághoz bejelentett – 01.11–01.50 és 01.70 szakágazatba tartozó tevékenység,
 
-8. üzleti célú növénytermesztési, állattenyésztési, vegyes gazdálkodási mezőgazdasági tevékenység: a TEÁOR'08 szerinti 0111-0170 tevékenység.
+8.[^3] üzleti célú növénytermesztési, állattenyésztési, vegyes gazdálkodási mezőgazdasági tevékenység: a NACE Rev. 2. szerinti 01.11–01.70 szakágazatba tartozó tevékenység.
 
 [^1]: A 2. § a 133/2009. (X. 14.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmek esetében alkalmazható, (2) bekezdése alapján a 2. § 6. pontját a 2007. december 3. és 2008. január 15. között benyújtott támogatási kérelmekhez kapcsolódó kifizetési kérelmek esetében is alkalmazni kell.
+[^2]: A 2. § 7. pontja a 23/2010. (III. 16.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 8. pontja a 23/2010. (III. 16.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg.

@@ -1,0 +1,1 @@
+## 12. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 23. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.

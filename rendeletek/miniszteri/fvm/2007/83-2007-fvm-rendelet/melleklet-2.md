@@ -24,6 +24,6 @@
 
 ## 1 db nyúl 0,02 ÁE-nek felel meg.
 
-2. számú melléklet a 83/2007. (VIII. 10.) FVM rendelethez[^44]
+2. számú melléklet a 83/2007. (VIII. 10.) FVM rendelethez[^49]
 
-[^44]: A 2. számú melléklet a 125/2008. (IX. 23.) FVM rendelet 8. § (1) bekezdésével megállapított és a 133/2009. (X. 14.) FVM rendelet 8. § (2) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmek esetében alkalmazható.
+[^49]: A 2. számú melléklet a 125/2008. (IX. 23.) FVM rendelet 8. § (1) bekezdésével megállapított és a 133/2009. (X. 14.) FVM rendelet 8. § (2) bekezdése, a 23/2010. (III. 16.) FVM rendelet 8. § (6) bekezdése szerint módosított szöveg.

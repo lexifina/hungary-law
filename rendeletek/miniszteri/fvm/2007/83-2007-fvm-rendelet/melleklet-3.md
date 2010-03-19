@@ -12,9 +12,9 @@
 
 | HORIZONTÁLIS SZEMPONTOK |
 
-| Az átadó betöltött életkora az átadás időpontjában | – 60 és 60 év felett – 59 év – 58 év – 57 év – 55–56 év | 10 pont 8 pont 6 pont 4 pont 2 pont |
+| Az átadó betöltött életkora a támogatási kérelem benyújtásakor | – 60 és 60 év felett – 59 év – 58 év – 57 év – 55–56 év | 10 pont 8 pont 6 pont 4 pont 2 pont |
 
-| Az átvevő betöltött életkora az átadás időpontjában | – 30 éves vagy fiatalabb – 31–34 év – 35 és 35 év feletti | 10 pont 8 pont 6 pont |
+| Az átvevő betöltött életkora a támogatási kérelem benyújtásakor | – 30 éves vagy fiatalabb – 31–34 év – 35 és 35 év feletti | 10 pont 8 pont 6 pont |
 
 | Az átvevő nő |  | 3 pont |
 
@@ -28,34 +28,32 @@
 
 | Összesen maximum: |  | 70 pont |
 
-3. számú melléklet a 83/2007. (VIII. 10.) FVM rendelethez[^45]
+3. számú melléklet a 83/2007. (VIII. 10.) FVM rendelethez[^50]
 
 A támogatás iránti kérelemhez szükséges igazolások listája
 
-A) A gazdaságot átadó mezőgazdasági termelőre vonatkozóan
+1. A gazdaságot átadó mezőgazdasági termelőre vonatkozóan
 
-Az átadó a támogatási kérelem benyújtását megelőző 10 év során folytatott mezőgazdasági termelő tevékenységének igazolására szolgáló dokumentumok az alábbiak:
+1.1. A következő dokumentumokkal igazolható, hogy a gazdaságot átadó a támogatási kérelem benyújtását megelőző tíz év során mezőgazdasági termelő tevékenységet folytatott:
 
-– egyéni vállalkozói igazolvány hiteles másolata, amely tartalmazza a TEÁOR'08 szerinti 0111-0150 növénytermelési, állattenyésztési, vegyes gazdálkodási tevékenységet,
+1.1.1. a NACE Rev. 2. szerinti 01.11–01.50 szakágazatba tartozó tevékenység az egyéni vállalkozói nyilvántartás alapján,
 
-– őstermelői igazolvány hiteles másolata, értékesítési betétlapokkal együtt,
+1.1.2. őstermelői igazolvány hiteles másolata az értékesítési betétlapokkal együtt,
 
-– a Mezőgazdasági és Szakigazgatási Hivatal területi szerve által – a falugazdász a tevékenysége során szerzett információja alapján – a kérelmező mezőgazdasági termelő tevékenység folytatásáról kiadott hatósági bizonyítványa,
+1.1.3. az MgSzH területi szerve által a falugazdász a tevékenysége során szerzett információja alapján a kérelmező mezőgazdasági termelő tevékenység folytatásáról kiadott hatósági bizonyítványa,
 
-– munkavállalóként végzett mezőgazdasági termelő tevékenység igazolása munkakör megjelölését is tartalmazó munkaszerződés másolatával és egyéb dokumentummal, illetve
+1.1.4. munkavállalóként végzett mezőgazdasági termelő tevékenység igazolása a munkakör megjelölését is tartalmazó munkaszerződés másolatával vagy egyéb dokumentummal,
 
-– adott évre vonatkozó Nyugdíjbiztosítási Egyéni Nyilvántartó Lap (a továbbiakban: NYENYI lap) másolata
+1.1.5. adott évre vonatkozó Nyugdíjbiztosítási Egyéni Nyilvántartó Lap (a továbbiakban: NYENYI lap) másolata. 2. A gazdaságot átadó munkavállalójára vonatkozóan
 
-B) A gazdaságot átadó munkavállalójára vonatkozóan
+2.1. A következő dokumentumokkal igazolható, hogy a munkavállaló a támogatási kérelem benyújtását megelőző öt év során munkaidejének legalább a felét mezőgazdasági munkával az átadó gazdálkodó gazdaságában töltötte:
 
-Igazolás, hogy a támogatási kérelem benyújtását megelőző öt év során munkaidejének legalább a felét mezőgazdasági munkával, az átadó gazdálkodó gazdaságában töltötte:
+2.1.1. a kérelem benyújtását megelőző öt évre vonatkozó NYENYI lap másolata, és
 
-– a kérelem benyújtását megelőző öt évre vonatkozó NYENYI lap másolata, illetve
+2.1.2. mezőgazdasági termelő tevékenység igazolása a munkakör megjelölését is tartalmazó munkaszerződés másolatával vagy egyéb dokumentummal.
 
-– mezőgazdasági termelő tevékenység igazolása munkakör megjelölését is tartalmazó munkaszerződés másolatával és egyéb dokumentummal
+3. A gazdaságot átvevő természetes személyre vonatkozóan
 
-C) A gazdaságot átvevő természetes személyre vonatkozóan
+3.1. Az 5. § (4) bekezdés c) pontjában meghatározott végzettséget igazoló dokumentum hiteles másolata.
 
-– az 5. § (4) bekezdés c) pontjában meghatározott végzettséget igazoló dokumentum hiteles másolata
-
-[^45]: A 3. számú melléklet a 133/2009. (X. 14.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmek esetében alkalmazható.
+[^50]: A 3. számú melléklet a 23/2010. (III. 16.) FVM rendelet 8. § (5) bekezdésével megállapított szöveg.
