@@ -1,3 +1,0 @@
-42. § (1) Amennyiben az egységes kérelem által lefedett terület hasznosítása vonatkozásában az egységes kérelem benyújtását követően a mezőgazdasági termelő személye megváltozik, a terület új hasznosítója a változást követő tíz munkanapon belül bejelentést köteles tenni az MVH-nak. A bejelentést kizárólag az MVH által közzétett formanyomtatványon lehet benyújtani. A bejelentés elmulasztása miatt az Eljárási tv. 71. §-a alapján az MVH mulasztási bírságot szabhat ki.
-
-(2) Az (1) bekezdés alkalmazása esetén a bejelentést benyújtó mezőgazdasági termelőnek a bejelentéshez csatolnia kell a területet hasznosításba vevő mezőgazdasági termelő nyilatkozatát a támogatási feltételek teljesítésére vonatkozó kötelezettségek betartásáról.

@@ -1,1 +1,0 @@
-## A támogatás kiszámításának alapja
