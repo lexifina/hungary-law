@@ -52,11 +52,11 @@ c) a 3. § c) pontjában meghatározott célterületre irányuló tevékenység 
 
 (10) A nonprofit gazdasági társaságra a cégjegyzékbe történő bejegyzésig a gazdasági társaságokról szóló 2006. évi IV. törvény 15–16. §-ának rendelkezései (előtársaság) az irányadók.
 
-(11) Előtársaság esetén a cégjegyzékbe történő bejegyzés hiteles másolatát-a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban MVH) értesítésére – a kérelem befogadásáig kell benyújtani az MVH-hoz.
+(11)[^18] Előtársaság esetén a cégjegyzékbe történő bejegyzésről szóló végzéshiteles másolatát – a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) értesítésére – a kérelem befogadásáig kell benyújtani az MVH-hoz.
 
-(12)[^18] A vízgazdálkodási társulat, amennyiben közcélú vízilétesítményt hoz létre vagy a beruházást közcélú vízilétesítményen hajtja végre, saját kivitelező szervezetével is elvégezheti a munkát.
+(12)[^19] A vízgazdálkodási társulat, amennyiben közcélú vízilétesítményt hoz létre vagy a beruházást közcélú vízilétesítményen hajtja végre, saját kivitelező szervezetével is elvégezheti a munkát.
 
-(13)[^19] E rendelet alkalmazásában saját munkaként kizárólag az építésügyi normagyűjteményben (a továbbiakban: ÉNGY) szereplő tételek számolhatók el, a vízgazdálkodási társulat önköltségszámítás rendjére vonatkozó belső szabályzatának és a számviteli szabályoknak megfelelően nyilvántartott kiadások alapján. Saját munka esetén a gépköltség és rezsióradíj az adott építési tételhez kapcsolódó, az ÉNGY-ben szereplő referenciaár 90%-áig számolható el.
+(13)[^20] E rendelet alkalmazásában saját munkaként kizárólag az építésügyi normagyűjteményben (a továbbiakban: ÉNGY) szereplő tételek számolhatók el, a vízgazdálkodási társulat önköltségszámítás rendjére vonatkozó belső szabályzatának és a számviteli szabályoknak megfelelően nyilvántartott kiadások alapján. Saját munka esetén a gépköltség és rezsióradíj az adott építési tételhez kapcsolódó, az ÉNGY-ben szereplő referenciaár 90%-áig számolható el.
 
 [^12]: A 4. § (2) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 3. §-ával megállapított szöveg.
 [^13]: A 4. § (3) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 3. §-ával megállapított szöveg.
@@ -64,5 +64,6 @@ c) a 3. § c) pontjában meghatározott célterületre irányuló tevékenység 
 [^15]: A 4. § (5) bekezdése a 114/2009. (VIII. 29.) FVM rendelet 3. §-ával megállapított szöveg.
 [^16]: A 4. § (6) bekezdését a 77/2008. (VI. 14.) FVM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
 [^17]: A 4. § (9) bekezdése a 145/2008. (XI. 7.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 3. §-a alapján a rendelkezést a 2008. június 15. napja után benyújtott támogatási kérelmek esetében is alkalmazni kell.
-[^18]: A 4. § (12) bekezdését a 77/2008. (VI. 14.) FVM rendelet 4. § (3) bekezdése iktatta be.
-[^19]: A 4. § (13) bekezdését a 77/2008. (VI. 14.) FVM rendelet 4. § (3) bekezdése iktatta be.
+[^18]: A 4. § (11) bekezdése a 23/2010. (III. 16.) FVM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^19]: A 4. § (12) bekezdését a 77/2008. (VI. 14.) FVM rendelet 4. § (3) bekezdése iktatta be.
+[^20]: A 4. § (13) bekezdését a 77/2008. (VI. 14.) FVM rendelet 4. § (3) bekezdése iktatta be.

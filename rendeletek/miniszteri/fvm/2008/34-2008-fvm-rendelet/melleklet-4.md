@@ -508,7 +508,7 @@
 
 |  | Társadalmi felelősségvállalás | (+)5” |
 
-4. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^46]
+4. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^50]
 
 Nem engedélyköteles beruházások tervmellékleteinek minimális tartalma
 
@@ -628,4 +628,4 @@ Rajzok
 
 (mind a meglévő, mind pedig a tervezett létesítmények, nyomvonalak, területi határok jelölésével).
 
-[^46]: A 4. számú mellékletet a 114/2009. (VIII. 29.) FVM rendelet 8. § (3) bekezdése iktatta be.
+[^50]: A 4. számú mellékletet a 114/2009. (VIII. 29.) FVM rendelet 8. § (3) bekezdése iktatta be.

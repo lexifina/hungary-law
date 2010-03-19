@@ -18,7 +18,7 @@ f) vízilétesítmény: a vízgazdálkodásról szóló 1995. évi LVII. törvé
 
 g) mezőgazdasági célú víz: minden mezőgazdasági hasznosítású víz;
 
-h)[^2] ügyfél: az a vízgazdálkodási társulat, önkormányzat, mezőgazdasági termelő, TÉSZ, termelői csoport, nonprofit gazdasági társaság, aki e rendelet alapján támogatásra jogosult;
+h)[^2] ügyfél: vízgazdálkodási társulat, önkormányzat, mezőgazdasági termelő, TÉSZ, termelői csoport, nonprofit gazdasági társaság
 
 i)[^3] közösségi beruházás: olyan e rendelet 3. § bb), illetve cb) pontja alapján megvalósítható beruházás (új építésű, vagy felújítani kívánt közösségi létesítmény, meliorációs tevékenység), ami a vonatkozó terv és engedély alapján közösségi létesítmény felújítására, illetve létrehozására irányul;
 
@@ -41,7 +41,7 @@ q)[^9] zöldség-gyümölcs termelői csoport: a zöldség-gyümölcs termelői 
 r)[^10] öntözéssel érintett terület: olyan, a támogatott fejlesztés megvalósításával öntözött terület, amely az alkalmazott öntözési technológia vagy azok kombinációja alapján egyértelműen lehatárolható.
 
 [^1]: Az 1. § a 77/2008. (VI. 14.) FVM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § h) pontja a 77/2008. (VI. 14.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § h) pontja a 23/2010. (III. 16.) FVM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § i) pontja a 114/2009. (VIII. 29.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § l) pontja a 114/2009. (VIII. 29.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § m) pontját a 77/2008. (VI. 14.) FVM rendelet 2. § (3) bekezdése iktatta be.
