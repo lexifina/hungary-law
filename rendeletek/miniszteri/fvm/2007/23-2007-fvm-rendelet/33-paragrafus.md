@@ -1,6 +1,6 @@
 ## Közbeszerzés
 
-33. § (1)[^139] Amennyiben az ügyfél az adott tevékenység vonatkozásában közbeszerzésre kötelezett – a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alapján –, vagy a Kbt.-t önként alkalmazza, az eljárást megindító felhívás, illetve hirdetmény „az aktába rendelt hivatkozási szám” rovatában hivatkozási számként fel kell tüntetni az ügyfél Tv. 28. §-a szerinti regisztrációs számát. Az ügyfél köteles továbbá:
+33. § (1)[^152] Amennyiben az ügyfél az adott tevékenység vonatkozásában közbeszerzésre kötelezett – a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alapján –, vagy a Kbt.-t önként alkalmazza, az eljárást megindító felhívás, illetve hirdetmény „az aktába rendelt hivatkozási szám” rovatában hivatkozási számként fel kell tüntetni az ügyfél Tv. 28. §-a szerinti regisztrációs számát. Az ügyfél köteles továbbá:
 
 a) az eljárást megindító, illetve módosító felhívást, illetve hirdetményt az annak megküldését, illetve megjelenését bizonyító dokumentumokkal,
 
@@ -12,7 +12,7 @@ d) a szerződés teljesítéséről szóló hirdetményt,
 
 ## annak megjelenését – eljárást indító hirdetmény közvetlen megküldése esetében a megküldést – követő 3 munkanapon belül az MVH részére benyújtani.
 
-(2)[^140] Az ügyfél köteles továbbá:
+(2)[^153] Az ügyfél köteles továbbá:
 
 a) MVH által rendszeresített formanyomtatványon a közbeszerzéssel érintett tételek részletezését, és
 
@@ -20,7 +20,7 @@ b) az eljárás – fentiek alapján még be nem nyújtott – összes érdemi d
 
 ## ahhoz az első kifizetési kérelemhez csatolni, amely a közbeszerzéssel érintett műveleti tevékenység elszámolására vonatkozik.
 
-(3)[^141]
+(3)[^154]
 
 (4) Ha a közbeszerzési eljárás megindítását az ügyfél igazolta, a művelet megvalósításának határideje
 
@@ -34,6 +34,6 @@ b) építési beruházás esetén 12 hónappal
 
 (6) Az (5) bekezdés alapján az MVH a kérelem elbírálását felfüggeszti. Az MVH a kérelem elbírálását a Közbeszerzési Döntőbizottság érdemi határozatának vagy a közbeszerzési ügy befejezését eredményező végzésének a Kbt. 343. § (1) bekezdésében előírt kézbesítését követően folytatja.
 
-[^139]: A 33. § (1) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^140]: A 33. § (2) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^141]: A 33. § (3) bekezdését az 51/2009. (IV. 16.) FVM rendelet 25. § (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^152]: A 33. § (1) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^153]: A 33. § (2) bekezdése az 51/2009. (IV. 16.) FVM rendelet 22. §-ával megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^154]: A 33. § (3) bekezdését az 51/2009. (IV. 16.) FVM rendelet 25. § (3) bekezdésének b) pontja hatályon kívül helyezte.

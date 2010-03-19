@@ -1,4 +1,4 @@
-## 25/A. §[^97] A beruházás helyének a támogatási kérelem benyújtási időszakot követő módosítása az alábbi feltételekkel lehetséges:
+## 25/A. §[^107] A beruházás helyének a támogatási kérelem benyújtási időszakot követő módosítása az alábbi feltételekkel lehetséges:
 
 a) bírósági vagy közigazgatási határozattal igazoltan, az ügyfélnek fel nem róható okból a beruházás a kérelemben megjelölt helyen nem megvalósítható, vagy nem folytatható;
 
@@ -8,4 +8,4 @@ c) a beruházás új helyére megállapítható támogatás összege és mérté
 
 d) a támogatás részletes feltételeit megállapító jogszabály alapján adható pontszámok változatlanok.
 
-[^97]: A 25/A. §-t a 97/2008. (VII. 25.) FVM rendelet 13. §-a iktatta be.
+[^107]: A 25/A. §-t a 97/2008. (VII. 25.) FVM rendelet 13. §-a iktatta be.

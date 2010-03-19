@@ -44,6 +44,6 @@
 
 ## A tárgyévben elemi kárt szenvedett termelők a Mezőgazdasági Szakigazgatási Hivatal területi szerve által kiadott igazolás alapján megállapított árbevétel kieséssel a mezőgazdasági árbevételüket módosíthatják.
 
-3. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^150]
+3. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^163]
 
-[^150]: A 3. számú melléklet az 51/2009. (IV. 16.) FVM rendelet 24. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^163]: A 3. számú melléklet az 51/2009. (IV. 16.) FVM rendelet 24. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.

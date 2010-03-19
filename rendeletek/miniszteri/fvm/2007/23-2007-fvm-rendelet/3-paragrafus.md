@@ -22,7 +22,7 @@
 
 10. mezőgazdasági üzem: egy adott mezőgazdasági termelő által mezőgazdasági tevékenység folytatásához használt termelőegységek, különösen termőföld, állatállomány, gép, épület, berendezés összessége;
 
-11.[^8] mezőgazdasági tevékenység: a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet (TEÁOR'08) I. Melléklete szerinti 01.1., 01.2., 01.3., 01.4., 01.5., 01.6. és 01.7 szerinti tevékenységek;
+11.[^8] mezőgazdasági tevékenység: a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. Melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdés d) pontja alapján az állami adóhatósághoz bejelentett – 01.1, 01.2, 01.3, 01.4, 01.5, 01.6 és 01.7 alágazatba tartozó tevékenység;
 
 12. mezőgazdasági termelő: az a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság, aki/amely mezőgazdasági tevékenységet folytat;
 
@@ -38,7 +38,7 @@
 
 18. TÉSZ: a zöldség-gyümölcs termelői értékesítő szervezetek nemzeti szabályozásáról szóló 60/2005. (VII. 1.) FVM rendeletnek megfelelően előzetesen, illetve véglegesen elismert zöldség-gyümölcs termelői értékesítő szervezet;
 
-19.[^11] induló vállalkozás: a jogi személy, a jogi személyiség nélküli gazdasági társaság, amennyiben a támogatási kérelem benyújtását megelőző 12 hónapon belül jegyezték be, az egyéni vállalkozó, illetve az őstermelő, amennyiben a vállalkozói, illetve őstermelői igazolvány kiadására a támogatási kérelem benyújtását megelőző 12 hónapon belül került sor. Azon jogcímek esetében, ahol a támogatás igénybevételére jogosult mezőgazdasági üzeme méretének el kell érnie meghatározott mértékű európai méretegységet, ott az induló vállalkozás fogalma kiterjed azokra a jogi személy, a jogi személyiség nélküli gazdasági társaságokra, egyéni vállalkozókra, akik a mezőgazdasági tevékenységüket a támogatási kérelem benyújtását megelőző 12 hónapon belül kezdték meg;
+19.[^11] induló vállalkozás: a jogi személy, a jogi személyiség nélküli gazdasági társaság, ha a támogatási kérelem benyújtását megelőző 12 hónapon belül jegyezték be, az egyéni vállalkozó valamint az őstermelő, ha egyéni vállalkozói nyilvántartásba vételére, vagy őstermelői igazolványának kiadására a támogatási kérelem benyújtását megelőző 12 hónapon belül került sor. Azon jogcímek esetében, ahol a támogatás igénybevételére jogosult mezőgazdasági üzeme méretének el kell érnie meghatározott mértékű európai méretegységet, ott az induló vállalkozás fogalma kiterjed azokra a jogi személyekre, jogi személyiség nélküli gazdasági társaságokra, egyéni vállalkozókra, akik a mezőgazdasági tevékenységüket a támogatási kérelem benyújtását megelőző 12 hónapon belül kezdték meg;
 
 20. nitrátérzékeny terület: a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló 27/2006. (II. 7.) Korm. rendelet szerinti terület;
 
@@ -86,10 +86,10 @@ Az a) vagy b) pontban meghatározott dokumentumnak legkésőbb annak, a támogat
 
 [^6]: A 3. § 4. pontja a 97/2008. (VII. 25.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § 5. pontja a 97/2008. (VII. 25.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^8]: A 3. § 11. pontja az 53/2008. (IV. 24.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § 11. pontja a 23/2010. (III. 16.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § 14. pontja a 97/2008. (VII. 25.) FVM rendelet 2. § (3) bekezdésével megállapított, valamint az 53/2008. (IV. 24.) FVM rendelet 20. § (2) bekezdése szerint módosított szöveg.
 [^10]: A 3. § 16. pontja az 53/2008. (IV. 24.) FVM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^11]: A 3. § 19. pontja a 127/2007. (X. 29.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § 19. pontja a 23/2010. (III. 16.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^12]: A 3. § 21. pontját a 39/2007. (V. 15.) FVM rendelet 1. §-a iktatta be, szövege a 97/2008. (VII. 25.) FVM rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^13]: A 3. § 22. pontját a 39/2007. (V. 15.) FVM rendelet 1. §-a iktatta be.
 [^14]: A 3. § 23. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.

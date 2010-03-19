@@ -6,7 +6,7 @@
 
 4. § (1)[^30] A támogatás és egyéb intézkedés forrása:
 
-a) a központi költségvetés Földművelésügyi és Vidékfejlesztési Minisztérium fejezetében az ÚMVP-ben meghatározott célok támogatására előirányzott összeg, valamint
+a)[^31] a központi költségvetés Földművelésügyi és Vidékfejlesztési Minisztérium (a továbbiakban: FVM) fejezetében az ÚMVP-ben meghatározott célok támogatására előirányzott összeg, valamint
 
 b) az EMVA terhére a 2007. január 1. és 2013. december 31. közötti időszakra vonatkozó közösségi vidékfejlesztési támogatás tagállamonkénti és évenkénti összegének meghatározásáról szóló 2006/636/EK (2006. szeptember 12.) bizottsági határozat mellékletében Magyarország részére meghatározott kötelezettségvállalási előirányzatok.
 
@@ -15,3 +15,4 @@ b) az EMVA terhére a 2007. január 1. és 2013. december 31. közötti időszak
 (3) Ha a támogatás részletes feltételeit megállapító jogszabály másként nem rendelkezik, akkor a támogatás vissza nem térítendő jellegű.
 
 [^30]: A 4. § (1) bekezdése az 53/2008. (IV. 24.) FVM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^31]: A 4. § (1) bekezdés a) pontja a 23/2010. (III. 16.) FVM rendelet 3. § (6) bekezdése szerint módosított szöveg.

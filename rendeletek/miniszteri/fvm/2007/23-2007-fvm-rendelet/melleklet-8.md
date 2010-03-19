@@ -1,74 +1,4 @@
-## Kérelem
-
-## a fiatal mezőgazdasági termelői minőség megállapításához
-
-## Ügyfél adatai:
-
-## Neve:
-
-## Születéskori neve:
-
-## Születési helye, ideje:
-
-## Anyja leánykori neve:
-
-## Adóazonosító jele:
-
-## Adószáma:
-
-## Egyéni vállalkozói igazolvány száma:
-
-## Őstermelői igazolvány száma:
-
-## Ügyfél-regisztrációs száma*:
-
-## Ügyfél lakhelye:
-
-## Ügyfél elérhetőségi adatai:
-
-## Levelezési cím:
-
-## Telefonszám:
-
-## E-mail:
-
-## Kérelemhez csatolt mellékletek:
-
-## 8M06686_0
-
-|  | Db |
-
-| Őstermelői igazolvány másolata |  |
-
-| Egyéni vállalkozói igazolvány másolata |  |
-
-| Végzettséget igazoló okirat másolata |  |
-
-| Üzleti terv papír alapon |  |
-
-| Üzleti terv elektronikus adathordozón (CD) |  |
-
-| Egyéb: .................................................................. |  |
-
-## Büntetőjogi felelősségem tudatában kijelentem, hogy a kérelemben és a mellékletekben szolgáltatott adatok megfelelnek a valóságnak.
-
-## Hozzájárulok ahhoz, hogy elérhetőségi adataimat szakmai rendezvénnyel kapcsolatos értesítés céljából a minisztérium felhasználja.
-
-## ⎕ Igen ⎕ Nem
-
-## Kérem, a csatolt mellékletek alapján a fiatal mezőgazdasági termelői minőség igazolását.
-
-## Dátum: .............................
-
-## ..............................................
-
-## aláírás
-
-## ––––––––––––––
-
-## * Amennyiben rendelkezik vele. Felhívjuk figyelmét, hogy a Fiatal mezőgazdasági termelői minőség megszerzésének nem előfeltétele, hogy rendelkezzen az MVH által kiadott Ügyfél-regisztrációs számmal.
-
-8. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^156]
+8. számú melléklet a 23/2007. (IV. 17.) FVM rendelethez[^169]
 
 ## Támogatási összeg felső határa intézkedésenként, illetve alintézkedésenként
 
@@ -208,4 +138,4 @@ IV. tengely intézkedései
 
 | A helyi fejlesztési stratégiák megvalósítása |  | Az egy projektre kifizetett támogatás maximális mértéke nem haladhatja meg a Helyi Akciócsoport részére az összes projektre kiutalt hozzájárulás 20%-át, ill. az 50 millió Ft-ot. |
 
-[^156]: A 8. számú mellékletet az 53/2008. (IV. 24.) FVM rendelet 19. § (3) bekezdése iktatta be, szövege a 97/2008. (VII. 25.) FVM rendelet 20. § (4) bekezdése, az 51/2009. (IV. 16.) FVM rendelet 24. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^169]: A 8. számú mellékletet az 53/2008. (IV. 24.) FVM rendelet 19. § (3) bekezdése iktatta be, szövege a 97/2008. (VII. 25.) FVM rendelet 20. § (4) bekezdése, az 51/2009. (IV. 16.) FVM rendelet 24. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
