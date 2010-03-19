@@ -1,13 +1,35 @@
-## 4. § Amennyiben jogszabály eltérően nem rendelkezik, a vis maior esemény bekövetkeztével kapcsolatos bejelentést az 1. számú melléklet szerinti nyomtatványon ott kell benyújtani, ahol az érintett intézkedésben való részvételre vonatkozó kérelem benyújtásra került. Ha a kérelem több intézkedést érint, amelyek esetében a benyújtás helye eltér, úgy a bejelentést az MVH központi hivatalához kell benyújtani. Jogszabály eltérő rendelkezése hiányában
+4. §[^1] (1) Ha jogszabály eltérően nem rendelkezik, a vis maior esemény bekövetkeztével kapcsolatos bejelentést az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani ahhoz az MVH kirendeltséghez, amelynél az érintett intézkedésben való részvételre vonatkozó kérelem benyújtásra került. Ha a kérelem több olyan intézkedést érint, amelyek esetében a benyújtás helye eltér, a bejelentést az MVH Központhoz kell benyújtani.
 
-a) a bejelentést a vis maior esemény bekövetkezésétől számított harminc napon belül, az ügyfél elhalálozása esetén a halotti anyakönyvi kivonat kézhezvételét követő harminc napon belül, amennyiben a vis maior esemény az ügyfelet a bejelentésben akadályozza, úgy attól az időponttól számított harminc napon, de legkésőbb a vis maior bekövetkezésétől számított hat hónapon belül kell benyújtani, amikor az ügyfél olyan helyzetbe kerül, amely ezt lehetővé teszi;
+(2) Az (1) bekezdés szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
 
-b) a bejelentésben fel kell tüntetni az intézkedések megnevezését, amellyel kapcsolatban az ügyfél a vis maior esetet bejelenti, illetve annak figyelembevételét kéri;
+a) ügyfél-azonosítási adatok, valamint a kapcsolattartó azonosító adatai,
+
+b) vis maior esetre vonatkozó adatok,
+
+c) az ügyfél nyilatkozata arra vonatkozóan, hogy a vis maior eset csak azon intézkedések esetében kerül figyelembevételre, amelyeket a bejelentő lapon feltüntetett,
+
+d) az ügyfél aláírása.
+
+(3) Jogszabály eltérő rendelkezése hiányában
+
+a) a bejelentést a vis maior esemény bekövetkezésétől számított harminc napon belül, az ügyfél elhalálozása esetén a halotti anyakönyvi kivonat kézhezvételét követő harminc napon belül, ha a vis maior esemény az ügyfelet a bejelentésben akadályozza, attól az időponttól számított harminc napon belül, amikor az ügyfél olyan helyzetbe kerül, amely lehetővé teszi, de legkésőbb a vis maior bekövetkezésétől számított hat hónapon belül kell benyújtani,
+
+b) a bejelentésben fel kell tüntetni az intézkedések megnevezését, amellyel kapcsolatban az ügyfél a vis maior esetet bejelenti, vagy annak figyelembevételét kéri,
 
 c) a bejelentéshez mellékelni kell
 
-ca) a vis maior bekövetkezését tanúsító igazolást (hatósági igazolás, halotti anyakönyvi kivonat, MgSzH által kiadott igazolás, egyéb hitelt érdemlő igazolás), vagy
+ca) a vis maior bekövetkezését tanúsító igazolást (hatósági igazolás, halotti anyakönyvi kivonat, MgSzH által kiadott igazolás, egyéb hitelt érdemlő igazolás) vagy
 
-cb) az igazolás kiállítására hatáskörrel rendelkező hatóság, szerv által kiadott nyilatkozatot, amely tanúsítja, hogy az ügyfél a vonatkozó igazolás kiadása iránt a kérelmét benyújtotta. Ebben az esetben a vis maior bekövetkezését tanúsító igazolást annak kézhezvételétől számított tizenöt napon belül, a 2. számú melléklet szerinti nyomtatvánnyal együtt – az 1. számú melléklet szerinti bejelentéssel megegyező helyen – kell benyújtani;
+cb) az igazolás kiállítására hatáskörrel rendelkező hatóság, szerv által kiadott nyilatkozatot, amely tanúsítja, hogy az ügyfél a vonatkozó igazolás kiadása iránt a kérelmét benyújtotta.
 
-d) a véglegesen és az előzetesen elismert termelői szervezeteknek az 1433/2003/EK bizottsági rendelet 4. cikk (4) bekezdésében és az 1943/2003/EK bizottsági rendelet 2. cikk (3) bekezdésében foglaltak alkalmazása érdekében a bejelentést a hivatkozott rendeletekben meghatározott támogatási kérelmekkel, illetve éves jelentésekkel egyidejűleg kell benyújtani.
+(4) A (3) bekezdés c) pont cb) alpontja szerinti esetben a vis maior bekövetkezését tanúsító igazolást annak közlésétől számított tizenöt napon belül, az MVH által rendszeresített, az MVH honlapján közzétett kiegészítő formanyomtatvánnyal együtt kell benyújtani az (1) bekezdés szerint illetékes kirendeltséghez.
+
+(5) A (4) bekezdés szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
+
+a) ügyfél-azonosítási adatok, valamint a kapcsolattartó azonosító adatai,
+
+b) a csatolt igazolás típusának megjelölése,
+
+c) az ügyfél aláírása.
+
+[^1]: A 4. § a 23/2010. (III. 16.) FVM rendelet 26. § (1) bekezdésével megállapított szöveg.
