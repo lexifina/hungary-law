@@ -1,3 +1,3 @@
-## 7. §[^8] A légifuvarozó köteles a mérlegfordulónaptól számított 180 napon belül a légiközlekedési hatósághoz benyújtani az előző év könyvvizsgáló által ellenőrzött és záradékkal ellátott elszámolásait.
+## 7. §[^9] A légi fuvarozó köteles a mérlegfordulónaptól számított 180 napon belül a légiközlekedési hatósághoz benyújtani az előző üzleti év könyvvizsgáló által ellenőrzött és záradékkal ellátott beszámolóját.
 
-[^8]: A 7. § a 104/2003. (XII. 29.) GKM rendelet 7. §-ának (2) bekezdésével megállapított szöveg.
+[^9]: A 7. § a 14/2010. (III. 4.) KHEM rendelet 2. §-ával megállapított szöveg.
