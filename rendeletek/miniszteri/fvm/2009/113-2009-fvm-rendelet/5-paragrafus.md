@@ -1,18 +1,16 @@
 ## A támogatási kérelem benyújtása
 
-5. § (1)[^3] A támogatási kérelmet évente szeptember 15. és október 31. között postai úton lehet benyújtani az MVH honlapján közzétett formanyomtatványon az MVH-hoz.
+5. § (1)[^8] A támogatási kérelmet évente szeptember 15. és október 31. között postai úton lehet benyújtani az MVH honlapján közzétett formanyomtatványon az MVH-hoz.
 
-(2) A formanyomtatvány tartalmi elemei legalább az alábbiak:
+(2)[^9] Az (1) bekezdés szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
 
-a) az ügyfél regisztrációs száma;
+a) az ügyfél ügyfél-azonosítási adatok,
 
-b) az ügyfél neve;
+b) az ügyfél szakirányú végzettségének megnevezése és azonosító száma vagy felsőfokú végzettségének megnevezése,
 
-c) az ügyfél szakirányú végzettségének megnevezése és azonosító száma, vagy felsőfokú végzettségének megnevezése;
+c) az ügyfél által a működtetési időszak 4. évének végére vállalt üzemmérete,
 
-d) az ügyfél által a működtetési időszak 4. évének végére vállalt üzemmérete;
-
-e) az üzleti terv és annak részét képező pénzügyi terv, amelynek SFH betétlapján be kell mutatni az egyes években megvalósítani tervezett, termékszintre lebontott termelési szerkezetet.
+d) az üzleti terv és annak részét képező pénzügyi terv, amelynek SFH betétlapján be kell, mutatni az egyes években megvalósítani tervezett, termékszintre lebontott termelési szerkezetet.
 
 (3) A támogatási kérelemhez mellékelni kell:
 
@@ -24,4 +22,5 @@ b) az 5. számú mellékletben megadott értékelési szempontokkal kapcsolatos 
 
 (5) A (4) bekezdésben meghatározott dokumentum esetében lehetőség van hiánypótlásra, amennyiben a benyújtott dokumentumok nem megfelelőek, vagy a kérelem benyújtásakor az ügyfél a dokumentumokat nem nyújtotta be, de a benyújtás szándékát a kérelem benyújtásakor jelezte.
 
-[^3]: Az 5. § (1) bekezdése a 133/2009. (X. 14.) FVM rendelet 10. §-ával megállapított szöveg.
+[^8]: Az 5. § (1) bekezdése a 133/2009. (X. 14.) FVM rendelet 10. §-ával megállapított szöveg.
+[^9]: Az 5. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 11. § (5) bekezdésével megállapított szöveg.

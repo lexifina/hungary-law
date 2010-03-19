@@ -6,7 +6,7 @@ a) a támogatási kérelem benyújtásának időpontjában elmúlt 18 éves, de 
 
 b) mezőgazdasági üzem vezetőjeként első alkalommal kezd gazdálkodni, új gazdaságot hoz létre vagy gazdaság átvétele történik meg;
 
-c)[^1] az 1. számú mellékletben meghatározott szakképesítések, a 2–4. számú mellékletben meghatározott felsőfokú végzettségek, illetve a 2–4. számú mellékletben meghatározott végzettségeknek a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005 (XII. 22.) Korm. rendelet alapján megfeleltethető végzettségek legalább egyikével rendelkezik, ideértve a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény szerint elismert, illetve honosított, külföldön szerzett bizonyítványt és oklevelet is, továbbá azt a felsőoktatási intézmény által kiadott igazoló dokumentumot, mely szerint az ügyfél valamely, a 2–4. számú mellékletben meghatározott felsőfokú végzettség tekintetében sikeres záróvizsgát tett;
+c)[^4] az 1. számú mellékletben meghatározott szakképesítések, a 2–4. számú mellékletben meghatározott felsőfokú végzettségek, illetve a 2–4. számú mellékletben meghatározott végzettségeknek a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005 (XII. 22.) Korm. rendelet alapján megfeleltethető végzettségek legalább egyikével rendelkezik, ideértve a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény szerint elismert, illetve honosított, külföldön szerzett bizonyítványt és oklevelet is, továbbá azt a felsőoktatási intézmény által kiadott igazoló dokumentumot, mely szerint az ügyfél valamely, a 2–4. számú mellékletben meghatározott felsőfokú végzettség tekintetében sikeres záróvizsgát tett;
 
 d) gazdálkodási tevékenysége fejlesztésére vonatkozó üzleti tervet, annak részét képező pénzügyi tervet nyújt be, és a tervek értékelése során összesen legalább 50 pontot elér.
 
@@ -16,9 +16,9 @@ d) gazdálkodási tevékenysége fejlesztésére vonatkozó üzleti tervet, anna
 
 a) az Agrár- és Vidékfejlesztési Operatív Program 1.4. Fiatal gazdálkodók induló támogatása című intézkedésre nyújtott be pályázatot, illetve az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet alapján nyújtott be támogatási kérelmet, és azt az MVH nem hagyta jóvá, vagy
 
-b) az 5. § (1) bekezdése szerinti e támogatási kérelem benyújtási időszak megnyílta előtt egyéb jogcímre benyújtott pályázatát, illetve támogatási kérelmét az arra vonatkozó döntés jogerőre emelkedése előtt visszavonta;
+b)[^5] az 5. § (1) bekezdése szerinti e támogatási kérelem benyújtási időszak megnyílta előtt egyéb jogcímre benyújtott pályázatát, támogatási kérelmét az arra vonatkozó támogatási határozat jogerőre emelkedése előtt visszavonta;
 
-c)[^2] az ügyfél kizárólag az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet alapján nyújtott be a 2009. évben támogatási kérelmet, és e rendelet alapján 2009. szeptember 15. és október 31. között támogatási kérelmet nyújt be.
+c)[^6] az ügyfél kizárólag az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet alapján nyújtott be a 2009. évben támogatási kérelmet, és e rendelet alapján 2009. szeptember 15. és október 31. között támogatási kérelmet nyújt be.
 
 (4) A támogatásra jogosult ügyfél köteles:
 
@@ -26,7 +26,7 @@ a) az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország 
 
 b) a mezőgazdasági üzemet személyesen vezetni, a támogatási összeg 90%-ára vonatkozó kifizetési kérelem benyújtásának időpontjától a működtetési időszak végéig a mezőgazdasági tevékenységet főtevékenységként, egyéni vállalkozóként folytatni;
 
-c) a működtetési időszak során a gazdaság működésével kapcsolatos bizonylatokat megőrizni, amelyeket az MVH ellenőrizhet;
+c)[^7] a működtetési időszak során a gazdaság működésével kapcsolatos bizonylatokat megőrizni;
 
 d) az üzleti terv részét képező kommunikációs tervben – amely tartalmazza a kommunikációs eszköz bemutatását, használatának módját, ütemezését és a használatára tervezett nettó összeget – vállalt feladatokat a megadott ütemezésnek megfelelően az azt igazoló dokumentumok alapján teljesíteni;
 
@@ -50,5 +50,7 @@ ic) juh-, kecskefajokra vonatkozóan a juh- és kecskefajok egyedeinek Egységes
 
 (6) Azon támogatásra jogosult ügyfél, aki a támogatási kérelem benyújtásakor megadott tevékenységgel releváns elismert termelői csoporthoz, illetve zöldség-gyümölcs termelői csoporthoz, termelői szervezethez való csatlakozási szándékát jelezte, köteles a működtetési időszak végéig a tagságát fenntartani, illetve az üzleti tervben megnevezett termékek más termékcsoportba tartozó termékekkel való helyettesítése esetén a tevékenységgel kapcsolatos termékcsoportban működő elismert termelői csoport, illetve zöldség-gyümölcs termelői csoport, termelői szervezet tagság kialakítására és fenntartására.
 
-[^1]: A 4. § (1) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^2]: A 4. § (3) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: A 4. § (1) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^5]: A 4. § (3) bekezdés b) pontja a 23/2010. (III. 16.) FVM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^6]: A 4. § (3) bekezdés c) pontja a 167/2009. (XII. 15.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^7]: A 4. § (4) bekezdés c) pontja a 23/2010. (III. 16.) FVM rendelet 11. § (4) bekezdésével megállapított szöveg.

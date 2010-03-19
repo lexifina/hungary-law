@@ -74,7 +74,7 @@
 
 | MINDÖSSZESEN: | max. 170 pont |
 
-6. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^5]
+6. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^18]
 
 A tesztüzemi rendszer adatbázisa alapján kialakított SFH értékek listája A magyarországi SFH SFH számítás
 
@@ -278,4 +278,4 @@ A tesztüzemi rendszer adatbázisa alapján kialakított SFH értékek listája 
 
 * Egyedi adatgyűjtés alapján
 
-[^5]: A 6. számú melléklet a 124/2009. (IX. 24.) FVM rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^18]: A 6. számú melléklet a 124/2009. (IX. 24.) FVM rendelet 27. § (2) bekezdése szerint módosított szöveg.

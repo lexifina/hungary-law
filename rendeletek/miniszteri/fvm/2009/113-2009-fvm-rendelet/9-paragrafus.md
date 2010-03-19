@@ -2,7 +2,7 @@
 
 9. § (1) Amennyiben az ügyfél nem teljesíti a 4. § (4) bekezdésének b), c) valamint f)–i) pontjaiban foglaltakat, az igénybe vett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
-(2) Az MVH a helyszíni ellenőrzés keretében ellenőrizheti, hogy a kérelemben, illetve a döntést követően a határozatban foglalt adatok, tények, körülmények megfelelnek-e a valóságnak. Az MVH a 4. § (4) bekezdés d)–e) pontjának teljesülése tekintetében a működtetési időszakban az ellenőrzés időpontját megelőző naptári éveket is ellenőrizheti.
+(2)[^15] Az MVH a 4. § (4) bekezdés d) és e) pontjának teljesülése tekintetében a működtetési időszakban az ellenőrzés időpontját megelőző naptári éveket is ellenőrizheti.
 
 (3) Amennyiben
 
@@ -22,7 +22,7 @@ b) az ügyfél pénzügyi tervében a működtetési időszak 4. vagy 5. événe
 
 (5) Amennyiben visszafizetési kötelezettség áll fenn, a (3) bekezdés a), b) pontja és a (4) bekezdés b) pontja alapján meghatározott visszafizetendő támogatás együttes összege nem haladhatja meg az igénybe vett támogatás összegét.
 
-(6) Amennyiben az 5. számú melléklet szerinti nyilatkozatok (3. év végére EUME vállalása, állattenyésztés aránya, lakóhely és gazdaság távolsága) ellenőrzése során kiderül, hogy az ügyfél nem valós adatot szolgáltatott, akkor az addig kifizetett támogatás jogosulatlanul igénybe vett támogatásnak minősül, és az ügyfél támogatáshoz való joga megszűnik.
+(6)[^16]
 
 (7) Amennyiben az ügyfél nyilatkozatában vállalta, hogy
 
@@ -37,3 +37,6 @@ c) a működtetési időszak 4. évének végéig a lakóhelyéhez képest a gaz
 (9) Amennyiben az ügyfél nem teljesíti a 8. § (3) bekezdésében meghatározott kérelembenyújtási valamint a 4. § (4) bekezdés a) pontjában foglalt kötelezettségeit, úgy az ügyfél támogatási jogosultsága megszűnik, valamint az ügyfelet további 5 évre kizárja az intézkedés keretében nyújtott támogatásból, valamint az addig igénybe vett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
 (10) Az ügyfélre kiszabott összes visszafizetési kötelezettség nem haladhatja meg a Tv. 69. § (5) bekezdése szerint meghatározott, jogosulatlanul igénybe vett támogatás esetén alkalmazandó szankció mértékét.
+
+[^15]: A 9. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^16]: A 9. § (6) bekezdését a 23/2010. (III. 16.) FVM rendelet 12. § (6) bekezdése hatályon kívül helyezte.
