@@ -4,24 +4,6 @@
 
 ## * A 01–13. típusba nem tartozó 14. típus megjelölése esetén az ügyfélnek meg kell határoznia az energianövényt.
 
-4. számú melléklet a 141/2007. (XI. 28.) FVM rendelethez
+4. számú melléklet a 141/2007. (XI. 28.) FVM rendelethez[^8]
 
-NYILATKOZAT
-
-Alulírott ...................................................................................... (ügyfél neve, székhelye) hozzájárulok ahhoz, hogy a Mezőgazdasági és Vidékfejlesztési Hivatal a piaci szereplőknek az 1973/2004/EK rendelet 37. cikke alapján energianövény feldolgozóként, illetve felvásárlóként történő elismeréséről szóló 141/2007. (XI. 28.) FVM rendelet 7. §-a alapján közzétett adatok között a
-
-| Adat | Aláírás* |
-
-| A kérelem 8. pontja szerinti elérhetőségemet |  |
-
-| A feldolgozni/felvásárolni tervezett energianövény típusát |  |
-
-nyilvánosságra hozza.
-
-* Csak azok az adatok kerülnek közzétételre, ahol az ügyfél a vonatkozó oszlopot az aláírás rovatban cégszerűen aláírja.
-
-Kelt, ...........................................................
-
-.............................................
-
-Cégszerű aláírás
+[^8]: A 4. számú mellékletet a 23/2010. (III. 16.) FVM rendelet 28. § a) pontja hatályon kívül helyezte.
