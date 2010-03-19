@@ -20,4 +20,6 @@ b) a működési kiadás igénybevétele érdekében évente négy
 
 kifizetési kérelem benyújtására jogosult.
 
-(3) Az első kifizetési kérelemhez csatolni kell az adóbejelentkezési lap másolatát, továbbá induló egyéni vállalkozó ügyfél esetén hatósági igazolást az egyéni vállalkozói igazolvány érvényességéről és az ügyfél egyéni vállalkozói tevékenységi köréről.
+(3)[^2] Az első kifizetési kérelemhez magánszemély ügyfél esetén csatolni kell az adóbejelentkezési lap másolatát.
+
+[^2]: A 10. § (3) bekezdése a 23/2010. (III. 16.) FVM rendelet 20. §-ával megállapított szöveg.
