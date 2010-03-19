@@ -1,17 +1,20 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^1] A támogatási kérelmet a 2010. évben szeptember 1. és 30. között, ezt követően évente március 1. és március 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített formanyomtatványon postai úton az MVH-hoz.
+6. § (1)[^3] Támogatási kérelmet 2010. évben szeptember 1. és 30. között, ezt követően évente március 1. és március 31. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített, az MVH honlapján közzétett formanyomtatványon. A formanyomtatványt az 5. számú melléklet szerinti adattartalommal kell az MVH-nak rendszeresíteni.
 
 (2) A támogatási kérelemhez mellékelni kell:
 
 a) az értékelési szempontokhoz a 4. számú mellékletben meghatározott igazolásokat, dokumentumokat;
 
-b) ha az ügyfél őstermelő, akkor az érvényes őstermelői igazolvány hiteles másolatát;
+b)[^4] ha az ügyfél őstermelő, akkor az őstermelői igazolvány hiteles másolatát;
 
-c) ha az ügyfél egyéni vállalkozó, akkor a hatósági igazolást az egyéni vállalkozói igazolvány érvényességéről és a vállalkozói tevékenységi körről.
+c)[^5]
 
 (3) E rendelet alapján egy ügyfél támogatási kérelem benyújtási időszakonként egy támogatási kérelmet nyújthat be.
 
-(4) A támogatási kérelem az érdemi határozat jogerőre emelkedéséig bármely időpontban részben vagy egészben visszavonható a mezőgazdasági, agrárfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 43. § (1) bekezdésének figyelembevételével. A támogatási kérelem részleges visszavonása kizárólag támogatási egységre, a hozzá kapcsolódó mértékre, illetve összegre vonatkozhat.
+(4)[^6] A támogatási kérelem benyújtására nyitva álló határidő utolsó napját követően, a támogatási határozat jogerőre emelkedéséig a kérelem részlegesen is visszavonható. A részleges visszavonás kizárólag támogatási egységre, vagy létesítményre, a hozzá kapcsolódó mértékre, összegre vonatkozhat.
 
-[^1]: A 6. § (1) bekezdése a 29/2009. (III. 25.) FVM rendelet 6. §-ával megállapított, a 15/2010. (II. 25.) FVM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^3]: A 6. § (1) bekezdése a 23/2010. (III. 16.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^4]: A 6. § (2) bekezdés b) pontja a 23/2010. (III. 16.) FVM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^5]: A 6. § (2) bekezdés c) pontját a 23/2010. (III. 16.) FVM rendelet 4. § (9) bekezdése hatályon kívül helyezte.
+[^6]: A 6. § (4) bekezdése a 23/2010. (III. 16.) FVM rendelet 4. § (7) bekezdésével megállapított szöveg.
