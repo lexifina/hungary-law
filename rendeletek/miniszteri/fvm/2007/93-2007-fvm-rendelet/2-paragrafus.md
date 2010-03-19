@@ -10,9 +10,9 @@ b) helyi közösség: a civil, az üzleti és a közszféra, valamint – indoko
 
 c) egymással átfedő helyi közösség: kettő vagy több helyi közösség egymással átfedő, amennyiben azok területi hatálya alá tartozó települések közül bármelyiket a nyilvántartásba vételi eljárás során a civil, üzleti és közszféra képviselői a 4. § (2) bekezdésében meghatározottak szerint több helyi közösség által lefedetté tettek;
 
-d) földrajzilag folytonos terület: közös közigazgatási határral rendelkező települések összefüggő egysége, amelyet legfeljebb kettő – az Irányító Hatóság (a továbbiakban: IH) jóváhagyása mellett – az egység részét képező, a melléklet szerinti településlistán nem szereplő település megszakíthat;
+d)[^2] földrajzilag folytonos terület: közös közigazgatási határral rendelkező települések összefüggő egysége, amelyet legfeljebb kettő – az Irányító Hatóság (a továbbiakban: IH) jóváhagyása mellett – az egység részét képező, az 1. melléklet szerinti településlistán nem szereplő település megszakíthat;
 
-e) helyi közösség által lefedett terület: a melléklet szerinti településlistán megtalálható települések közül a helyi közösség által lefedett települések összessége, ide nem értve a d) pontban meghatározott, a települések egységét képező, a melléklet szerinti településlistán azonban nem szereplő települést;
+e)[^3] helyi közösség által lefedett terület: az 1. melléklet szerinti településlistán megtalálható települések közül a helyi közösség által lefedett települések összessége, ide nem értve a d) pontban meghatározott, a települések egységét képező, a melléklet szerinti településlistán azonban nem szereplő települést;
 
 f) közszféra: a közszféra részét képezik az önkormányzatok, a településrészi önkormányzatok, az önkormányzat tulajdonában álló gazdasági társaságok, valamint azon társadalmi szervezetek, amelyekben ezek tagsági viszony alapján járó szavazatai arányának nagysága az 50%-ot meghaladja;
 
@@ -24,7 +24,7 @@ i) LEADER helyi akciócsoport: az IH által az előzetesen elismert vidékfejles
 
 j) Helyi Vidékfejlesztési Közösség: az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 59. cikk e) pontjának megfelelő helyi közösség;
 
-k)[^1] területileg illetékes Helyi Vidékfejlesztési Iroda (a továbbiakban: HVI): a kistérségek megállapításáról, lehatárolásáról és megváltoztatásának rendjéről szóló 244/2003. (XII. 18.) Korm. rendelet által megjelölt kistérségek vonatkozásában kistérségenként egy, az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 59. cikke szerinti készségek elsajátítására, ösztönzésére és végrehajtására igénybe vehető támogatás részletes feltételeiről szóló 79/2007. (VII. 30.) FVM rendelet értelmében az IH által elismert, HVI címmel rendelkező szervezet vagy egyéni vállalkozó, amelyhez tartozó kistérségben a helyi közösség képviselőjének civil, üzleti vagy közszféra esetében a székhelye, magánszemély esetében a lakóhelye megtalálható;
+k)[^4] területileg illetékes Helyi Vidékfejlesztési Iroda (a továbbiakban: HVI): a kistérségek megállapításáról, lehatárolásáról és megváltoztatásának rendjéről szóló 244/2003. (XII. 18.) Korm. rendelet által megjelölt kistérségek vonatkozásában kistérségenként egy, az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 59. cikke szerinti készségek elsajátítására, ösztönzésére és végrehajtására igénybe vehető támogatás részletes feltételeiről szóló 79/2007. (VII. 30.) FVM rendelet értelmében az IH által elismert, HVI címmel rendelkező szervezet vagy egyéni vállalkozó, amelyhez tartozó kistérségben a helyi közösség képviselőjének civil, üzleti vagy közszféra esetében a székhelye, magánszemély esetében a lakóhelye megtalálható;
 
 l) érintett HVI: az a Helyi Vidékfejlesztési Iroda, amelyhez tartozó kistérségben a helyi közösség által lefedett terület valamely települése megtalálható;
 
@@ -32,4 +32,6 @@ m) üzleti szféra: az üzleti szféra részét képezik az állami vagy önkorm
 
 n) stratégiai vázlat: a helyi közösség által a nyilvántartásba vételi eljárás második szakaszában, a helyi közösség által lefedett területre vonatkozóan elkészített 2–5 oldalas fejlesztési dokumentum.
 
-[^1]: A 2. § k) pontja a 110/2007. (X. 1.) FVM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § d) pontja a 23/2010. (III. 16.) FVM rendelet 22. § (8) bekezdése szerint módosított szöveg.
+[^3]: A 2. § e) pontja a 23/2010. (III. 16.) FVM rendelet 22. § (8) bekezdése szerint módosított szöveg.
+[^4]: A 2. § k) pontja a 110/2007. (X. 1.) FVM rendelet 1. §-ával megállapított szöveg.

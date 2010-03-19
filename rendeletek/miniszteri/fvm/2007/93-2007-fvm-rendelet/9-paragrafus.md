@@ -1,6 +1,6 @@
 ## Az előzetes elismerés iránti kérelem benyújtása
 
-9. § (1) Az elismerési kérelem a nyilvántartásba vett helyi közösség írásos dokumentációja, amely tartalmazza:
+9. § (1)[^18] A helyi közösségnek az előzetes elismerés iránti kérelmet írásban kell benyújtania. A kérelem tartalmazza:
 
 a) a 6. § (1) bekezdésében meghatározott stratégiai vázlatot és a 6. § (2) bekezdésében meghatározott, szakmai tapasztalatokat igazoló dokumentumot, valamint
 
@@ -22,7 +22,7 @@ d) az általa lefedett terület állandó lakossága 10 000 és 100 000 fő köz
 
 e) legalább húsz tagból áll,
 
-f) az általa lefedett települések megtalálhatók a mellékletben szereplő településlistán,
+f)[^19] az általa lefedett települések megtalálhatók az 1. melléklet szerinti településlistán,
 
 g) a tagjainak egyikét a helyi közösség alapító tagjai maguk közül az alapító tagok több mint felének egybehangzó szavazatával képviselőnek választják, továbbá
 
@@ -30,4 +30,8 @@ h) a tagok közül két főt az alapító tagok több mint felének egybehangzó
 
 (5) Amennyiben a hiánypótlást követően a helyi közösség nem felel meg a (4) bekezdésben foglalt feltételeknek, úgy az IH a helyi közösség elismerési kérelmét elutasítja.
 
-(6) Az (1) bekezdésben meghatározott elismerési kérelem benyújtásához szükséges formanyomtatványt az IH az FVM honlapján közleményben teszi közzé. A formanyomtatványok használata az eljárás során kötelező.
+(6)[^20] Az (1) bekezdésben meghatározott elismerési kérelem benyújtásához szükséges, a 2. mellékletben meghatározott adattartalmú formanyomtatványt az IH-nak az FVM honlapján közzé kell tenni.
+
+[^18]: A 9. § (1) bekezdése a 23/2010. (III. 16.) FVM rendelet 22. § (6) bekezdésével megállapított szöveg.
+[^19]: A 9. § (4) bekezdés f) pontja a 23/2010. (III. 16.) FVM rendelet 22. § (8) bekezdése szerint módosított szöveg.
+[^20]: A 9. § (6) bekezdése a 23/2010. (III. 16.) FVM rendelet 22. § (7) bekezdésével megállapított szöveg.

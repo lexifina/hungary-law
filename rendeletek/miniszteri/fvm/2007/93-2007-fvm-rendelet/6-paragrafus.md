@@ -2,9 +2,9 @@
 
 (2) A helyi közösség köteles a stratégiai vázlatot, valamint húsz tagnak és a tagot a helyi közösségben képviselő személynek a terület- és vidékfejlesztés, helyi igazgatás, valamint a helyi közösségépítés és közösségi kezdeményezések területén szerzett tapasztalatait igazoló dokumentumokat a helyi közösség képviselőjének székhelye vagy lakóhelye szerint illetékes HVI-nek a nyilvántartásba vételi eljárás második szakasza lejáratának határnapjáig írásban megküldeni.
 
-(3)[^4] Amennyiben a helyi közösségek 8. § (2) bekezdés szerinti egyesülésére a nyilvántartásba vételi eljárás második szakasza lejárta előtti öt munkanapon belül kerül sor, az egyesülő közösségek a stratégiai vázlatukat külön-külön is benyújthatják.
+(3)[^11] Amennyiben a helyi közösségek 8. § (2) bekezdés szerinti egyesülésére a nyilvántartásba vételi eljárás második szakasza lejárta előtti öt munkanapon belül kerül sor, az egyesülő közösségek a stratégiai vázlatukat külön-külön is benyújthatják.
 
-(4)[^5] A 6. §-ban foglaltakhoz szükséges formanyomtatványokat az IH az FVM honlapján közleményben teszi közzé. A formanyomtatványok használata az eljárásban kötelező.
+(4)[^12] A 6. §-ban foglaltakhoz szükséges, a 2. mellékletben meghatározott adattartalmú formanyomtatványokat az IH-nak az FVM honlapján közzé kell tenni.
 
-[^4]: A 6. § új (3) bekezdését a 110/2007. (X. 1.) FVM rendelet 4. §-a iktatta be, egyidejűleg az eredeti (3) bekezdésének számozását (4) bekezdésre változtatta.
-[^5]: A 6. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 110/2007. (X. 1.) FVM rendelet 4. §-a.
+[^11]: A 6. § új (3) bekezdését a 110/2007. (X. 1.) FVM rendelet 4. §-a iktatta be, egyidejűleg az eredeti (3) bekezdésének számozását (4) bekezdésre változtatta.
+[^12]: A 6. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 110/2007. (X. 1.) FVM rendelet 4. §-a, szövege a 23/2010. (III. 16.) FVM rendelet 22. § (4) bekezdésével megállapított szöveg.

@@ -2,7 +2,7 @@
 
 12. § (1) Az IH által előzetesen elismert vidékfejlesztési akciócsoport az előzetes elismeréstől számított négy hónapon belül köteles helyi vidékfejlesztési stratégiát készíteni.
 
-(2)[^11] A helyi vidékfejlesztési stratégia legalább az alábbi fő tartalmi elemeket tartalmazza:
+(2)[^22] A helyi vidékfejlesztési stratégia legalább az alábbi fő tartalmi elemeket tartalmazza:
 
 a) kapcsolódás a stratégiai vázlat célkitűzéseihez;
 
@@ -16,9 +16,9 @@ e) helyi szolgáltatás-, valamint falu- és településfejlesztési terv;
 
 f) fenntarthatósági és esélyegyenlőségi szempontok ismertetése.
 
-(3)[^12] Az előzetesen elismert vidékfejlesztési akciócsoport az általa elkészített helyi vidékfejlesztési stratégiát a területileg illetékes HVI-hez nyújtja be, amely azt – előzetes véleményezést követően – továbbítja az IH részére.
+(3)[^23] Az előzetesen elismert vidékfejlesztési akciócsoport az általa elkészített helyi vidékfejlesztési stratégiát a területileg illetékes HVI-hez nyújtja be, amely azt – előzetes véleményezést követően – továbbítja az IH részére.
 
-(4)[^13] A helyi vidékfejlesztési stratégiát az IH az alábbi szempontok szerint értékeli:
+(4)[^24] A helyi vidékfejlesztési stratégiát az IH az alábbi szempontok szerint értékeli:
 
 a) a stratégiai vázlat célkitűzéseihez való igazodás leírása;
 
@@ -48,6 +48,6 @@ m) fenntarthatósági és esélyegyenlőségi szempontok figyelembevétele;
 
 n) a fejlesztési elképzelések megvalósításából származó eredmények számszerűsítése, a monitoring indikátorok kidolgozottsága.
 
-[^11]: A 12. § (2) bekezdése a 110/2007. (X. 1.) FVM rendelet 8. §-ával megállapított szöveg.
-[^12]: A 12. § (3) bekezdése a 101/2008. (VIII. 8.) FVM rendelet 2. §-ával megállapított szöveg.
-[^13]: A 12. § (4) bekezdése a 110/2007. (X. 1.) FVM rendelet 9. §-ával megállapított szöveg.
+[^22]: A 12. § (2) bekezdése a 110/2007. (X. 1.) FVM rendelet 8. §-ával megállapított szöveg.
+[^23]: A 12. § (3) bekezdése a 101/2008. (VIII. 8.) FVM rendelet 2. §-ával megállapított szöveg.
+[^24]: A 12. § (4) bekezdése a 110/2007. (X. 1.) FVM rendelet 9. §-ával megállapított szöveg.

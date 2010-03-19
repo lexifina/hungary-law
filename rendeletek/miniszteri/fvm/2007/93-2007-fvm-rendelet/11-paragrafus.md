@@ -1,6 +1,6 @@
 ## Az előzetesen elismert vidékfejlesztési akciócsoport szervezeti formája
 
-11. §[^10] (1) Az IH által elismert helyi közösség előzetesen elismert vidékfejlesztési akciócsoporttá válik és köteles legkésőbb 2008. október 1-jéig a tagjai több mint felének részvételével jogi személyiséggel rendelkező szervezeti formát alakítani az alábbi feltételek együttes betartása mellett:
+11. §[^21] (1) Az IH által elismert helyi közösség előzetesen elismert vidékfejlesztési akciócsoporttá válik és köteles legkésőbb 2008. október 1-jéig a tagjai több mint felének részvételével jogi személyiséggel rendelkező szervezeti formát alakítani az alábbi feltételek együttes betartása mellett:
 
 a) a megalakítandó jogi személyiségű szervezeti forma egyesület vagy a gazdasági társaságokról szóló 2006. évi IV. törvény 4. §-a szerinti nonprofit korlátolt felelősségű társaság, illetve nonprofit zárt körűen működő részvénytársaság;
 
@@ -18,4 +18,4 @@ g) a létrejövő jogi személyiséggel rendelkező szervezeti forma végrehajt�
 
 (2) Amennyiben az előzetesen elismert vidékfejlesztési akciócsoport nem alakít az (1) bekezdésben meghatározott jogi személyiségű szervezeti formát, az IH által finanszírozásban nem részesül.
 
-[^10]: A 11. § a 101/2008. (VIII. 8.) FVM rendelet 1. §-ával megállapított szöveg.
+[^21]: A 11. § a 101/2008. (VIII. 8.) FVM rendelet 1. §-ával megállapított szöveg.

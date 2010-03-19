@@ -16,7 +16,7 @@ d) a b) és c) alpontokban meghatározott szervezetek közös csoportja, amely 3
 
 (3) A helyi közösség tagjai lehetnek:
 
-a) a rendelet hatálybalépésekor érvényes vállalkozói engedéllyel rendelkező egyéni vállalkozók, cégbíróságon bejegyzett gazdálkodó szervezetek,
+a)[^5] a rendelet hatálybalépésekor hatályos vállalkozói engedéllyel rendelkező egyéni vállalkozók, cégbíróságon bejegyzett gazdálkodó szervezetek,
 
 b) a rendelet hatálybalépésekor bírósági nyilvántartásba vett alapítványok, közalapítványok és társadalmi szervezetek, kivéve a politikai pártokat,
 
@@ -26,7 +26,7 @@ d) a Magyar Államkincstár által törzskönyvi nyilvántartásba vett települ
 
 e) megyei, regionális vagy országos hatáskörű társadalmi szervezetek és köztestületek,
 
-f) indokolt esetben magánszemélyek, amennyiben a térségben nem található olyan társadalmi szervezet, amely a magánszemély érdekeit a helyi közösségben megfelelően képviselné. Az indokoltságról az IH előzetes elismerési eljárás során dönt.
+f)[^6] indokolt esetben magánszemélyek, amennyiben a térségben nem található olyan társadalmi szervezet, amely a magánszemély érdekeit a helyi közösségben megfelelően képviselné. Az indokoltságról az IH előzetes elismerési eljárás során határozatot hoz.
 
 (4) A (3) bekezdésben felsorolt tagoknak nyilatkozniuk kell arról, hogy
 
@@ -38,9 +38,9 @@ c) hozzájárulnak ahhoz, hogy az általuk megadott adatokat a Földművelésüg
 
 (5) A (3) bekezdés a)–e) pontjában felsorolt tagok képviselőik útján vesznek részt a helyi közösségben.
 
-(6)[^2] A (3) bekezdés a)–f) pontjában felsorolt tagok – kivéve a (3) bekezdés e) pontjában felsorolt társadalmi szervezeteket és köztestületeket, amelyek kizárólag különböző, képviseleti jogukat megfelelően igazoló meghatalmazottjaik révén lehetnek tagjai több helyi közösségnek – kizárólag egy helyi közösségnek lehetnek tagjai, további tagfelvételi kérelmüket el kell utasítani. Egy személy csak egy, a (3) bekezdés a)–f) pontjában felsorolt tagot képviselhet a helyi közösségben.
+(6)[^7] A (3) bekezdés a)–f) pontjában felsorolt tagok – kivéve a (3) bekezdés e) pontjában felsorolt társadalmi szervezeteket és köztestületeket, amelyek kizárólag különböző, képviseleti jogukat megfelelően igazoló meghatalmazottjaik révén lehetnek tagjai több helyi közösségnek – kizárólag egy helyi közösségnek lehetnek tagjai, további tagfelvételi kérelmüket el kell utasítani. Egy személy csak egy, a (3) bekezdés a)–f) pontjában felsorolt tagot képviselhet a helyi közösségben.
 
-(7) A (3) bekezdés e) pontjában felsorolt társadalmi szervezetek és köztestületek esetén nem feltétel, hogy azok a mellékletet képező településlistán szereplő településen székhellyel rendelkezzenek. Ha három vagy több, a (3) bekezdés e) pontjában felsorolt társadalmi szervezet vagy köztestület – amely ugyanazon, a melléklet szerinti településlistán nem található településen rendelkezik székhellyel – egyaránt a helyi közösség tagja, úgy ezen település lakosságszámát nem kell figyelembe venni a 9. § (4) bekezdésének d) pontjában meghatározott feltétel teljesítésének megállapítása során.
+(7)[^8] A (3) bekezdés e) pontjában felsorolt társadalmi szervezetek és köztestületek esetén nem feltétel, hogy azok az 1. melléklet szerinti településlistán szereplő településen székhellyel rendelkezzenek. Ha három vagy több, a (3) bekezdés e) pontjában felsorolt társadalmi szervezet vagy köztestület – amely ugyanazon, az 1. melléklet szerinti településlistán nem található településen rendelkezik székhellyel – egyaránt a helyi közösség tagja, úgy ezen település lakosságszámát nem kell figyelembe venni a 9. § (4) bekezdésének d) pontjában meghatározott feltétel teljesítésének megállapítása során.
 
 (8) A HVI-k nem lehetnek a helyi közösségek tagjai, azonban az érintett HVI-k az előzetesen elismert vidékfejlesztési akciócsoportnak az elismerést követően – az IH iránymutatása szerint – tagjává válnak.
 
@@ -48,4 +48,7 @@ c) hozzájárulnak ahhoz, hogy az általuk megadott adatokat a Földművelésüg
 
 (10) A (4) bekezdésben meghatározott nyilatkozatokat az FVM hivatalos honlapján közzétett IH közleményben foglaltak szerinti formában kell megtenni.
 
-[^2]: A 4. § (6) bekezdése a 110/2007. (X. 1.) FVM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 4. § (3) bekezdés a) pontja a 23/2010. (III. 16.) FVM rendelet 22. § (8) bekezdése szerint módosított szöveg.
+[^6]: A 4. § (3) bekezdés f) pontja a 23/2010. (III. 16.) FVM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (6) bekezdése a 110/2007. (X. 1.) FVM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 4. § (7) bekezdése a 23/2010. (III. 16.) FVM rendelet 22. § (8) bekezdése szerint módosított szöveg.
