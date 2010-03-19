@@ -60,7 +60,7 @@ A költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008
 
 30. Az Országos Mezőgazdasági Könyvtár és Dokumentációs Központ központi közszolgáltató költségvetési szerv, közintézmény.
 
-31. A Magyar Mezőgazdasági Múzeum központi közszolgáltató költségvetési szerv, közintézmény.
+31.[^2] A Magyar Mezőgazdasági Múzeum központi közszolgáltató költségvetési szerv, közintézet.
 
 32. A Magyar Élelmiszer-biztonsági Hivatal központi közhatalmi költségvetési szerv.
 
@@ -77,3 +77,5 @@ A költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008
 38. A Központi Élelmiszer-tudományi Kutatóintézet központi közszolgáltató költségvetési szerv, közintézet.
 
 39. A Mezőgazdasági Biotechnológiai Kutatóközpont központi közszolgáltató költségvetési szerv, közintézet.
+
+[^2]: A 31. pont az 1/2010. (III. 19.) FVM határozat 1. pontjával megállapított szöveg.
