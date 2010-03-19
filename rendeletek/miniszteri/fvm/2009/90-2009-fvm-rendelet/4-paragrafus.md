@@ -1,6 +1,6 @@
 4. § (1) A kérelemben meg kell jelölni azt a – 2. számú melléklet szerinti – egy vagy több szakterületet, amelyen szaktanácsadóként a kérelmező működni kíván. A kérelmező megjelölhet ezeken belül speciális szakterületet is.
 
-(2) A kérelemnek tartalmaznia kell a kérelmező szakmai tevékenységének részletes ismertetését. Ezen belül az egyes választott szakterületeken végzett tevékenységet külön-külön kell részletesen ismertetni a 3. számú mellékletben foglalt bővített szakmai önéletrajzban meghatározott adattartalomnak megfelelően.
+(2)[^2] A kérelemhez mellékelni kell az FVM VKSZI által a 3. számú melléklet szerinti adattartalommal rendszeresített, az FVM VKSZI honlapján közzétett formanyomtatvány szerinti bővített szakmai önéletrajzot, amelyben részletesen ismertetni kell választott szakterületenként az adott szakterületen végzett szakmai tevékenységet.
 
 (3) A kérelemhez csatolni kell
 
@@ -13,3 +13,5 @@ c) földügyi szakterület megjelölése esetén a 3. § (4) bekezdés f) pontj�
 d) erdészeti technikus szaktanácsadó vagy 4. erdő- és fagazdálkodás szakterület megjelölése esetén az erdészeti hatóság által kiállított igazolványának másolatát,
 
 e) nyilatkozatot arról, hogy vele szemben nem áll fenn a 3. § (3) bekezdésének a) és b) pontjaiban meghatározott kizáró körülmény.
+
+[^2]: A 4. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 19. § (2) bekezdésével megállapított szöveg.

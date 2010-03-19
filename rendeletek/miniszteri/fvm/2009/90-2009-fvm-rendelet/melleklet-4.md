@@ -1,79 +1,29 @@
-## Önéletrajz
+## A bővített szakmai önéletrajz kötelező adattartalma
 
-## Személyes adatok
+## 1. A kérelmező iskolai végzettségei
 
-## Név
+## 1.1. a képzés kezdetének és befejezésének dátuma,
 
-## Születési hely, év, hó, nap
+## 1.2. a képzést nyújtó szervezet neve, székhelye és típusa,
 
-## Anyja neve
+## 1.3. a megszerzett végzettség megnevezése,
 
-## Cím
+## 2. A kérelmező munkahelyei
 
-## Telefon
+## 2.1. a munkáltató megnevezése,
 
-## Fax
+## 2.2. a munkaviszony kezdetének és megszűnésének dátuma,
 
-## E-mail
+## 2.3. beosztása,
 
-## Állampolgárság
+## 3. A kérelmezőnek a választani kívánt szaktanácsadói szakterületen végzett eddigi tevékenységének részletes ismertetése
 
-## Iskolai végzettség (szükség esetén bővíthető)
+## 4. A kérelmező anyanyelve és egyéb nyelvismeretének szintje, típusa
 
-## Időtartam (-tól -ig)
+## 5. A kérelmező gépjárművezetői engedéllyel rendelkezik-e
 
-## Oktatást/képzést nyújtó szervezet neve, helye és típusa
+## 6. A kérelmező technikai (számítógép-használói) készségei és képességei
 
-## Elnyert képesítés megnevezése
-
-## Időtartam (-tól -ig)
-
-## Oktatást/képzést nyújtó szervezet neve, helye és típusa
-
-## Elnyert képesítés megnevezése
-
-## Anyanyelv
-
-## Egyéb nyelvismeret
-
-## (szükség esetén bővíthető)
-
-## 1. Nyelv
-
-## Foka
-
-## Típusa
-
-## 2. Nyelv
-
-## Foka
-
-## Típusa
-
-## Technikai készségek
-
-## és képességek
-
-## Vezetői engedély(ek)
-
-## Kiegészítő információk
-
-## (pl. Tagság szakmai szervezetekben stb.)
-
-## Munkahelyek (szükség esetén bővíthető)
-
-| Időtartam (-tól -ig) | Megnevezés | Beosztás |
-
-## A választott szakterületeken végzett eddigi tevékenység részletes ismertetése (szükség esetén bővíthető).
-
-## 1. szakterület (a szakerület megnevezése):
-
-## 2. szakterület (a szakerület megnevezése):
-
-## 3. szakterület (a szakerület megnevezése):
-
-| Dátum: ........................................ | ....................................... |
-
-|  | aláírás |
+## 7. A kérelmezőre vonatkozó, a szaktanácsadói tevékenység folytatásához kapcsolódó kiegészítő információk.
 
 4. számú melléklet a 90/2009. (VII. 24.) FVM rendelethez

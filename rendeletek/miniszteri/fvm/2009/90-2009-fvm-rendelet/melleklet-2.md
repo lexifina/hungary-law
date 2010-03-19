@@ -1,69 +1,19 @@
-## Minta!
+## A szaktanácsadói tevékenység folytatásának engedélyezése iránti kérelem kötelező adattartalma
 
-## Földművelésügyi és Vidékfejlesztési Minisztérium
+## 1. A kérelmező természetes személyazonosító adatai.
 
-## Vidékfejlesztési, Képzési és Szaktanácsadási Intézet
+## 2. A folytatni kívánt szaktanácsadói tevékenység
 
-## Budapest
+## 2.1. kategóriája (szaktanácsadó, szaktanácsadó asszisztens, erdészeti technikus szaktanácsadó),
 
-## Andor u. 47–49.
+## 2.2. szakterülete,
 
-## 1119
+## 2.3. szakterületen belüli speciális területe.
 
-## Kérelem
+## 3. A kérelmező nyilatkozata a 3. § (3) bekezdés a) és b) pontjában meghatározott feltételekre vonatkozóan.
 
-## a szaktanácsadói tevékenység folytatásának engedélyezése iránt
+## 4. A kérelemhez csatolt mellékletek [a 3. § (3) bekezdés c) és d) pontjában előírt feltételeket igazoló okirat másolata, a büntetlen előélet igazolására kiállított hatósági bizonyítvány vagy az igazolás a bűnügyi nyilvántartási rendszerből a kérelmező kérelmére történő adattovábbítási eljárás igazgatási szolgáltatási díjának a befizetéséről, bővített szakmai önéletrajz] felsorolása.
 
-## A kérelmező családi és utóneve:
-
-## születési családi és utóneve:
-
-## születési helye és ideje:
-
-## anyja születési család és utóneve:
-
-## neme:
-
-## állampolgársága:
-
-## értesítési címe:
-
-## Hivatkozva az agrár-szaktanácsadói tevékenység engedélyezéséről szóló 90/2009. (VII. 24.) FVM rendeletre, kérem, hogy a mellékelt dokumentumok alapján
-
-## a) szaktanácsadóként
-
-## b) szaktanácsadó asszisztensként
-
-## c) erdészeti technikus szaktanácsadóként
-
-## folytatni kívánt szaktanácsadói tevékenységemet engedélyezni szíveskedjenek (a megfelelő meghatározás aláhúzással jelölendő).
-
-## A szaktanácsadást a 90/2009. (VII. 24.) FVM rendelet 2. számú melléklete szerinti szakterületek közül az alább felsoroltakon kívánom végezni:
-
-| Szakterület | Szakterületen belüli speciális terület megnevezése (megjelölése nem kötelező) |
-
-| Sorszáma | Megnevezése |
-
-## (A táblázat szükség szerint bővíthető.)
-
-## Nyilatkozatok
-
-## 1. Nem vagyok mezőgazdasági vagy erdészeti tevékenységgel összefüggően használatos termékeket a mezőgazdasági termelők és erdőgazdálkodók számára értékesítő szervezetnek tagja, tulajdonosa vagy alkalmazottja és ezekkel összefüggő ügynöki tevékenységet, valamint tanácsadást sem folytatok.
-
-## 2. Közpénzekből nyújtott agrártámogatásokhoz kapcsolódó adminisztratív vagy fizikai ellenőrző tevékenységet nem végzek.
-
-| Dátum: ......................................... | ....................................... |
-
-|  | aláírás |
-
-## Mellékletek:
-
-## 1. A szaktanácsadói tevékenység folytatásához szükséges okirat/okiratok (oklevél, bizonyítvány stb.) másolata.
-
-## 2. Három hónapnál nem régebbi erkölcsi bizonyítvány.
-
-## 3. Önéletrajz (3. sz. melléklet szerint), a kérelmező eddigi szakmai tevékenységének ismertetésével (szakterületenként).
-
-## 4. 1 db szabványméretű igazolványfénykép.
+## 5. 1 db szabványméretű igazolványfénykép.
 
 2. számú melléklet a 90/2009. (VII. 24.) FVM rendelethez

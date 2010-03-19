@@ -70,4 +70,6 @@
 
 ## 23.7. Helyes Mezőgazdasági és Környezeti Állapot
 
-3. számú melléklet a 90/2009. (VII. 24.) FVM rendelethez
+3. számú melléklet a 90/2009. (VII. 24.) FVM rendelethez[^6]
+
+[^6]: A 3. számú melléklet a 23/2010. (III. 16.) FVM rendelet 19. § (3) bekezdésével megállapított szöveg.
