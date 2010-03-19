@@ -30,10 +30,13 @@ m) a regionális fejlesztési ügynökség,
 
 n) egyéb vidékfejlesztésben érintett szereplő.
 
-(2) Regisztrálni az 1. számú melléklet szerinti regisztrációs adatlap kitöltésével, a regisztrálni kívánó személy lakcíme vagy székhelye szerint illetékes HVI-nél lehet. A HVI a regisztrációs adatlapokat továbbítja az FVM Vidékfejlesztési Képzési és Szaktanácsadási Intézet (a továbbiakban: FVM VKSZI) részére.
+(2)[^2] Regisztrálni az MNVH honlapján közzétett, az 1. számú melléklet szerinti adattartalmú regisztrációs adatlap kitöltésével a HVI-nél lehet. A HVI a regisztrációs adatlapokat továbbítja a Földművelésügyi és Vidékfejlesztési Minisztérium Vidékfejlesztési Képzési és Szaktanácsadási Intézet (a továbbiakban: FVM VKSZI) részére.
 
 (3) Amennyiben a regisztrálni kívánó személyre nem terjed ki egyik HVI illetékessége sem, akkor a regisztrációra az FVM VKSZI az illetékes.
 
 (4) A regisztráció létrejöttéről a regisztráltakat az FVM VKSZI írásban értesíti.
 
-(5) A regisztrált személy vagy szervezet a 2. számú melléklet szerinti írásbeli nyilatkozat benyújtásával törölheti regisztrációját az MNVH-ból.
+(5)[^3] A regisztrált személy vagy szervezet az MNVH honlapján közzétett, a 2. számú melléklet szerinti adattartalommal rendelkező írásbeli nyilatkozat benyújtásával törölheti regisztrációját az MNVH-ból.
+
+[^2]: A 4. § (2) bekezdése a 23/2010. (III. 16.) FVM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (5) bekezdése a 23/2010. (III. 16.) FVM rendelet 24. § (2) bekezdésével megállapított szöveg.

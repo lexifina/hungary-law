@@ -1,159 +1,65 @@
-## Regisztrációs lap
+## Az e rendelet szerinti regisztrációs lap kötelező adattartalma
 
-## A Magyar Nemzeti Vidéki Hálózatba történő regisztrációhoz magánszemély részére
+## 1. A Magyar Nemzeti Vidéki Hálózatba történő regisztrációhoz magánszemély részére
 
-## Regisztráló magánszemély adatai
+## 1.1. ügyfélazonosító adatok
 
-## 1. Alapadatok:
+## 1.2. iskolai végzettségre, valamint szakmai tapasztalatra vonatkozó adatok
 
-## – név:
+## 1.3. elektronikus úton történő regisztráció adatai:
 
-## – születési név:
+## 1.3.1. regisztráció időpontja
 
-## – anyja neve:
+## 1.3.2. regisztráció azonosítószáma
 
-## – születési hely:
+## 1.3.3. megjelölt szakterület, szaterületek neve
 
-## – születési idő:
+## 1.4. szakterülethez történő csatlakozásról szóló nyilatkozat
 
-## – személyigazolvány szám:
+## 1.5. az MNVH-ba történő regisztrációról szóló nyilatkozat
 
-## 2. Címadatok:
+## 1.6. regisztráló személy aláírása
 
-## – állandó lakcím:
+## 2. A Magyar Nemzeti Vidéki Hálózatba történő regisztrációhoz a 4. § (1) bekezdés b)–i) és m) pontjában meghatározott szervezetek részére
 
-## – levelezési cím (amennyiben eltér az állandó lakcímtől):
+## 2.1. alapadatok:
 
-## – telefonszám:
+## 2.1.1. főtevékenység megjelölése
 
-## – e-mailcím:
+## 2.1.2. alapítás éve
 
-## 3. Iskolai végzettségre, valamint szakmai tapasztalatra vonatkozó adatok:
+## 2.1.3. jogi státusza (gazdasági társaság, önkormányzat, egyesület, alapítvány stb., KKV kód)
 
-## – végzettség(ek) megnevezése és a főbb tárgyak megnevezése:
+## 2.1.4. adószám
 
-## – szakmai tapasztalat megszerzésének helye, rövid leírása:
+## 2.1.5. működési szint (települési, térségi, kistérségi, megyei, regionális, országos, nemzetközi)
 
-## Elektronikus úton történő regisztráció adatai
+## 2.1.6. KSH törzsszám
 
-## – Regisztráció időpontja:
+## 2.1.7. bírósági nyilvántartási szám vagy cégjegyzékszám
 
-## – Regisztráció azonosító száma:
+## 2.1.8. civil szervezet jogállása
 
-## – Megjelölt Szakterület(ek) neve:
+## 2.1.9. közhasznúsági végzés bírósági száma
 
-## Szakterületehez történő csatlakozás
+## 2.1.10. közhasznúságba vétel időpontja
 
-## Érdeklődési köröm alapján az alábbi, 131/2008. (X. 1.) FVM rendelet 3. számú mellékletében nevesített szakterület(ek)hez kívánok csatlakozni:
+## 2.1.11. cégjegyzésre jogosultság módja (önálló vagy együttes)
 
-## – Szakterület neve:
+## 2.2. elektronikus úton történő regisztráció adatai:
 
-## Nyilatkozat
+## 2.2.1. regisztráció időpontja
 
-## Büntetőjogi felelősségem tudatában kijelentem, hogy az MNVH FVM VKSZI részére kitöltött jelen nyilvántartásba vételi lapon megadott adatok valósak. Hozzájárulok, hogy az általam megadott adatokat az MNVH Állandó Titkársága és az FVM VKSZI nyilvántartsa és a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény betartása mellett kezelje, használja a Magyar Nemzeti Vidéki Hálózat regisztrációs folyamata, valamint az MNVH tevékenységéből adódó kapcsolattartás során.
+## 2.2.2. regisztráció azonosítószáma
 
-## Kijelentem továbbá, hogy a Magyar Nemzeti Vidéki Hálózat 131/2008. (X. 1.) FVM rendeletben meghatározott céljait megismertem, működési feltételeit elfogadom és betartom, tevékenységemmel hozzájárulok a hálózat hatékony működéséhez.
+## 2.2.3. megjelölt szakterület, szakterületek neve
 
-## Aláírásommal igazolom továbbá, hogy a Magyar Nemzeti Vidéki Hálózat elektronikus adatbázisába történő regisztrációt megtettem.
+## 2.3. szakterülethez történő csatlakozásról szóló nyilatkozat
 
-## Kelt: ....................................
+## 2.4. az MNVH-ba történő regisztrációról szóló nyilatkozat
 
-## ......................................................
+## 2.5. képviselő cégszerű aláírása
 
-## aláírás
+2. számú melléklet a 131/2008. (X. 1.) FVM rendelethez[^8]
 
-## Regisztrációs lap
-
-## A Magyar Nemzeti Vidéki Hálózatba történő regisztrációhoz
-
-## a 131/2008. (X. 1.) FVM rendelet 4. § (1) bekezdés b)–i) és m) pontjaiban meghatározott szervezetek részére
-
-## Regisztráló szervezet adatai
-
-## 1. Alapadatok
-
-## – Szervezet neve:
-
-## – Fő tevékenység (TEAOR/SZJA szám szerint):
-
-## – Alapítás éve:
-
-## – Jogi státusza (gazdasági társaság, önkormányzat, egyesület, alapítvány stb. – KKV kód):
-
-## – Adószám:
-
-## – Működési szint (települési, térségi, kistérségi, megyei, regionális, országos, nemzetközi):
-
-## – KSH törzsszám:
-
-## – Bírósági nyilvántartási szám/cégjegyzékszám:
-
-## – Civil szervezet jogállása:
-
-## – Közhasznúsági végzés bírósági száma:
-
-## – Közhasznúságba vétel időpontja:
-
-## – Hivatalos képviselő neve:
-
-## – Cégjegyzésre jogosultság módja (önálló/együttes):
-
-## – MVH által kiadott ügyfél regisztrációs szám:
-
-## 2. Címadatok
-
-## – Székhely irányítószáma:
-
-## – Székhely település:
-
-## – Székhely utca, házszám:
-
-## – Székhely kistérség:
-
-## – Székhely megye:
-
-## – Székhely régió:
-
-## – Telefonszám:
-
-## – Faxszám:
-
-## – Levelezési név:
-
-## – Levelezési cím:
-
-## – Internetcím:
-
-## – Nyilvános e-mailcím:
-
-## Elektronikus úton történő regisztráció adatai
-
-## – Regisztráció időpontja:
-
-## – Regisztráció azonosító száma:
-
-## – Megjelölt Szakterület(ek) neve:
-
-## Szakterülethez történő csatlakozás
-
-## Az általam képviselt szervezet alaptevékenysége alapján az alábbi 131/2008. (X. 1.) FVM rendelet 3. számú mellékletében nevesített szakterület(ek)hez kíván csatlakozni:
-
-## – Szakterület(ek) neve:
-
-## Nyilatkozat
-
-## Büntetőjogi felelősségem tudatában kijelentem, hogy jogosult vagyok a ........................................................... (szervezet megnevezése) képviseletére és az FVM VKSZI részére kitöltött jelen nyilvántartásba vételi lapon megadott adatok valósak. Hozzájárulok, hogy az általam képviselt szervezet nyilvántartásba vételéhez megadott adatokat az MNVH Állandó Titkársága és az FVM VKSZI nyilvántartsa és a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény betartása mellett kezelje és használja a Magyar Nemzeti Vidéki Hálózat regisztrációs folyamata, valamint az MNVH tevékenységéből adódó kapcsolattartás során.
-
-## Kijelentem továbbá, hogy az általam képviselt szervezet tagja a Magyar Nemzeti Vidéki Hálózat 131/2008. (X. 1.) FVM rendeletben meghatározott céljait megismerte, működési feltételeit elfogadja és betartja, tevékenységével hozzájárul a hálózat hatékony működéséhez.
-
-## Aláírásommal igazolom továbbá, hogy a Magyar Nemzeti Vidéki Hálózat elektronikus adatbázisába történő regisztrációt megtettem.
-
-## Kelt: ..................................................
-
-## ............................................................
-
-## képviselő
-
-## cégszerű aláírása
-
-2. számú melléklet a 131/2008. (X. 1.) FVM rendelethez
+[^8]: A 2. számú melléklet a 23/2010. (III. 16.) FVM rendelet 24. § (4) bekezdésével megállapított szöveg.

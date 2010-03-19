@@ -1,40 +1,22 @@
-## Nyilatkozat regisztráció törléséről
+## Az e rendelet szerinti regisztráció törléséről szóló nyilatkozat kötelező adattartalma
 
-## Magánszemélyek részére
+## 1. Magánszemélyek részére
 
-## Alulírott,    (név) (anyja neve: ...................................................................,
+## 1.1. nyilatkozó személy azonosító adatai
 
-## születési hely/idő  ) kijelentem,
+## 1.2. regisztráció törléséről szóló nyilatkozat
 
-## hogy 200... .......................... hó ........... napon regisztrációmat törlöm a Magyar Nemzeti Vidéki Hálózatból.
+## 1.3. nyilatkozó személy aláírása
 
-## Kelt: .............................................................
+## 2. A 4. § (1) bekezdés b)–i) és m) pontjában meghatározott szervezetek részére
 
-## .......................................
+## 2.1. szervezet megnevezése
 
-## aláírás
+## 2.2. képviselő születési helye, ideje
 
-## Nyilatkozat regisztráció törléséről
+## 2.3. regisztráció törléséről szóló nyilatkozat
 
-## a 131/2008. (X. 1.) FVM rendelet 4. § (1) bekezdés b)–i) és m) pontjaiban meghatározott
-
-## szervezetek részére
-
-## Alulírott,    (név) (anyja neve: ...................................................................,
-
-## születési hely/idő  ), mint a............................
-
-## (szervezet megnevezése) képviselője kijelentem,
-
-## hogy 200... .......................... hó ........... napon az általam képviselt szervezet törli regisztrációját a Magyar Nemzeti Vidéki Hálózatból.
-
-## Kelt: .............................................................
-
-## .......................................
-
-## képviselő
-
-## cégszerű aláírása
+## 2.4. képviselő cégszerű aláírása
 
 3. számú melléklet a 131/2008. (X. 1.) FVM rendelethez
 
