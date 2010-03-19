@@ -8,17 +8,17 @@
 
 (3) Az ügyfél köteles a támogatási kérelemben megjelölt összes ültetvény vonatkozásában:
 
-a) a támogatási határozat kézhezvételétől számított 12 hónapon belül az ültetvénytelepítést befejezni;
+a)[^2] a támogatási kérelemnek helyt adó határozat jogerőre emelkedésétől számított 12 hónapon belül az ültetvénytelepítést befejezni;
 
-b)[^2] legalább a telepítésétől számított öt évig az ültetvényt fenntartani, termőképességét megőrizni;
+b)[^3] legalább a telepítésétől számított öt évig az ültetvényt fenntartani, termőképességét megőrizni;
 
-c)[^3] az ültetvény hozamát a telepítéstől számított öt naptári éven belül betakarítani;
+c)[^4] az ültetvény hozamát a telepítéstől számított öt naptári éven belül betakarítani;
 
-d)[^4] termelt faapríték – a melléklet 2. pontja szerint számított – mennyiség legalább 50%-ának értékesítésére vonatkozó, a beruházás befejezésétől számított legalább öt évre szóló előszerződéssel, szerződéssel rendelkezni, illetve saját célú felhasználás esetén a felhasználásról nyilatkozni. Az előszerződésnek, szerződésnek tartalmaznia kell legalább az alábbi adatokat:
+d)[^5] termelt faapríték – a melléklet 2. pontja szerint számított – mennyiség legalább 50%-ának értékesítésére vonatkozó, a beruházás befejezésétől számított legalább öt évre szóló előszerződéssel, szerződéssel rendelkezni, illetve saját célú felhasználás esetén a felhasználásról nyilatkozni. Az előszerződésnek, szerződésnek tartalmaznia kell legalább az alábbi adatokat:
 
 da) szerződő felek azonosító adatait, az ügyfél regisztrációs számát,
 
-db)[^5] a fafajtának a fás szárú energetikai ültetvények telepítésének engedélyezése, telepítése, művelése és megszüntetése részletes szabályairól, valamint ezen eljárások igazgatási szolgáltatási díjáról szóló 45/2007. (VI. 11.) FVM rendelet 1. számú melléklete szerinti magyar, vagy tudományos megnevezését;
+db)[^6] a fafajtának a fás szárú energetikai ültetvények telepítésének engedélyezése, telepítése, művelése és megszüntetése részletes szabályairól, valamint ezen eljárások igazgatási szolgáltatási díjáról szóló 45/2007. (VI. 11.) FVM rendelet 1. számú melléklete szerinti magyar, vagy tudományos megnevezését;
 
 dc) az átadási helyet, az átadás tervezett időpontját (év, hónapok) és mennyiségét (t),
 
@@ -26,13 +26,13 @@ dd) a szerződés időtartamát;
 
 e) az Új Magyarország Vidékfejlesztési Program keretében, e jogcím tárgyában szervezett kötelező képzésen részt venni az utolsó kifizetési kérelem benyújtása előtt;
 
-f)[^6]
+f)[^7]
 
 (4) A támogatás igénybevételének további feltétele, hogy az ügyfél rendelkezzen az engedélyezési R. alapján saját nevére kiállított, a támogatási kérelemben megjelölt területekre vonatkozó, jogerős telepítési engedélyekkel.
 
-(5)[^7] E rendelet alapján a legkisebb támogatható tábla nagysága 1 hektár.
+(5)[^8] E rendelet alapján a legkisebb támogatható tábla nagysága 1 hektár.
 
-(6)[^8] Nem vehető igénybe támogatás:
+(6)[^9] Nem vehető igénybe támogatás:
 
 a) védett természeti, illetve Natura 2000 területen történő telepítéshez, illetve
 
@@ -48,16 +48,17 @@ bd) erdőtelepítési támogatást
 
 ## igényeltek.
 
-(7)[^9] A 15 millió forint vagy azt meghaladó támogatási kérelem esetén a támogatás igénybevételének további feltétele – a jogcímre vonatkozó IH közleményben meghatározott – üzleti terv benyújtása.
+(7)[^10] A 15 millió forint vagy azt meghaladó támogatási kérelem esetén a támogatás igénybevételének további feltétele – a jogcímre vonatkozó IH közleményben meghatározott – üzleti terv benyújtása.
 
-(8)[^10] A Vhr. 17. § (4) bekezdésétől eltérően a 6. § (1) bekezdés a) pontja szerinti időpontban benyújtott kérelmek esetében a művelet legkorábban a támogatási kérelem benyújtási évének január 1-jétől az ügyfél saját felelősségére megkezdhető.
+(8)[^11] A Vhr. 17. § (4) bekezdésétől eltérően a 6. § (1) bekezdés a) pontja szerinti időpontban benyújtott kérelmek esetében a művelet legkorábban a támogatási kérelem benyújtási évének január 1-jétől az ügyfél saját felelősségére megkezdhető.
 
-[^2]: A 4. § (3) bekezdésének b) pontja a 134/2007. (XI. 13.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^3]: A 4. § (3) bekezdésének c) pontja a 134/2007. (XI. 13.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^4]: A 4. § (3) bekezdésének d) pontja a 134/2007. (XI. 13.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^5]: A 4. § (3) bekezdés d) pont db) alpontja a 48/2009. (IV. 16.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. április 19. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^6]: A 4. § (3) bekezdésének f) pontját a 134/2007. (XI. 13.) FVM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 48/2009. (IV. 16.) FVM rendelet 8. § (2) bekezdés a) pontja. Ez utóbbi módosító rendelet 8. § (3) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
-[^7]: A 4. § (5) bekezdése a 48/2009. (IV. 16.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. április 19. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^8]: A 4. § (6) bekezdése a 134/2007. (XI. 13.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^9]: A 4. § (7) bekezdését a 134/2007. (XI. 13.) FVM rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^10]: A 4. § (8) bekezdését a 48/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. április 19. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^2]: A 4. § (3) bekezdés a) pontja a 23/2010. (III. 16.) FVM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (3) bekezdésének b) pontja a 134/2007. (XI. 13.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: A 4. § (3) bekezdésének c) pontja a 134/2007. (XI. 13.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^5]: A 4. § (3) bekezdésének d) pontja a 134/2007. (XI. 13.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^6]: A 4. § (3) bekezdés d) pont db) alpontja a 48/2009. (IV. 16.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. április 19. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^7]: A 4. § (3) bekezdésének f) pontját a 134/2007. (XI. 13.) FVM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 48/2009. (IV. 16.) FVM rendelet 8. § (2) bekezdés a) pontja. Ez utóbbi módosító rendelet 8. § (3) bekezdése alapján a folyamatban lévő ügyekben is alkalmazni kell.
+[^8]: A 4. § (5) bekezdése a 48/2009. (IV. 16.) FVM rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. április 19. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^9]: A 4. § (6) bekezdése a 134/2007. (XI. 13.) FVM rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^10]: A 4. § (7) bekezdését a 134/2007. (XI. 13.) FVM rendelet 1. § (4) bekezdése iktatta be. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^11]: A 4. § (8) bekezdését a 48/2009. (IV. 16.) FVM rendelet 2. § (3) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. április 19. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.

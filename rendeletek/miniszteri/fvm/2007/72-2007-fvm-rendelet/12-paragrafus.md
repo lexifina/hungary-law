@@ -1,10 +1,10 @@
-## 11. §[^31]
+## 11. §[^33] E rendeletnek az egyes vidékfejlesztési támogatásokkal kapcsolatos miniszteri rendeleteknek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosításáról szóló 2008. évi CXI. törvény hatálybalépésével, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK irányelv átültetésével összefüggő módosításáról szóló 23/2010. (III. 16.) FVM rendelet 10. §-ával megállapított rendelkezéseit a 2010. március 1-jét követően benyújtott támogatási kérelem alapján indult eljárásban is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
 12. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 26. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-Melléklet a 72/2007. (VII. 27.) FVM rendelethez[^32]
+Melléklet a 72/2007. (VII. 27.) FVM rendelethez[^34]
 
 ÉRTÉKELÉS
 
@@ -156,5 +156,5 @@ P – a berendezés teljesítménye (kW);
 
 η – a tüzelőberendezés hatásfoka.
 
-[^31]: A 11. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 15. pontja hatályon kívül helyezte.
-[^32]: A melléklet a 134/2007. (XI. 13.) FVM rendelet 6. §-a, a 48/2009. (IV. 16.) FVM rendelet 7. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. április 19. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^33]: A 11. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 15. pontja hatályon kívül helyezte, újonnan a 23/2010. (III. 16.) FVM rendelet 10. § (5) bekezdése iktatta be.
+[^34]: A melléklet a 134/2007. (XI. 13.) FVM rendelet 6. §-a, a 48/2009. (IV. 16.) FVM rendelet 7. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. április 19. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
