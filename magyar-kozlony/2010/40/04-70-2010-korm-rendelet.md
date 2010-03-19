@@ -1,0 +1,95 @@
+# A Kormány 70/2010. (III. 19.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 40. szám, 2010. március 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/9a69f2d69e24bf3928eb75583c8df05fa6fea185/dokumentumok/23c81725214566708fc08bc5f07dde7687e7b524/letoltes)
+
+---
+
+A Kormány 70/2010. (III. 19.) Korm. rendelete
+a polgári nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának,
+előirányzat-felhasználásának, kincstári gazdálkodásának és nyilvántartásának egyes szabályairól
+szóló 32/2004. (III. 2.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés d) pontjában, a költségvetési szervek jogállásáról és
+gazdálkodásáról szóló 2008. évi CV. törvény 56. § (1) bekezdés c) pontjában, a számvitelről szóló 2000. évi C. törvény 178. § (1) bekezdés
+a) pontjában, valamint az állami vagyonról szóló 2007. évi CVI. törvény 71. § (1) bekezdés h) pontjában kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § A polgári nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának,
+kincstári gazdálkodásának és nyilvántartásának egyes szabályairól szóló 32/2004. (III. 2.) Korm. rendelet
+(a továbbiakban: Rendelet) 2. §-a, valamint az azt megelőző alcím helyébe a következő rendelkezés lép:
+„A Szolgálatok és az SZBKK irányítása
+2. § (1) A Szolgálatok és az SZBKK vonatkozásában a fejezetet irányító szerv vezetője a polgári nemzetbiztonsági
+szolgálatokat irányító tárca nélküli miniszter (a továbbiakban: miniszter), a fejezetet irányító szerv az Iroda.
+(2) A Szolgálatok és az SZBKK tekintetében az Iroda belső ellenőrzést végez.”
+2. § A Rendelet 3. §-a helyébe a következő rendelkezés lép:
+„3. § A Szolgálatok és az SZBKK önállóan működő és gazdálkodó költségvetési szervek.”
+3. § (1) A Rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Szolgálatok kötelezettségvállalásaikat saját hatáskörben vezetik.”
+(2) A Rendelet 6. § (6)–(7) bekezdése helyébe a következő rendelkezés lép:
+„(6) A Szolgálatok az 1 millió forint feletti kötelezettségvállalásaikról havonta, a tárgyhót követő hónap 15-éig
+tájékoztatják az Irodát. Az Iroda 5 munkanapon belül a kötelezettségvállalások együttes összegéről értesíti
+a Pénzügyminisztériumot.
+(7) A Szolgálatok a tárgyévben vállalt, de a következő évek előirányzatait terhelő 1 millió forint feletti kötelezettségeikről
+azok létrejöttét követő 8 munkanapon belül tájékoztatják az Irodát. Az Iroda évente kétszer, július 10-éig és november
+30-áig tájékoztatja a Pénzügyminisztériumot az aktuális kötelezettségvállalások együttes összegéről.”
+4. § A Rendelet a következő 6/A. §-sal egészül ki:
+„6/A. § A Szolgálatoknak éves költségvetésük összeállítása során nem kell teljesítménytervet készíteniük.”
+5. § A Rendelet 8. §-a a következő (3)–(5) bekezdéssel egészül ki:
+„(3) A Nemzetbiztonsági Szakszolgálat az MNV Zrt. előzetes engedélye és tájékoztatása nélkül jogosult
+a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 8. § (1) bekezdés b) pontja
+alapján a titkos információgyűjtő, illetve a titkos adatszerző tevékenységhez szükséges különleges technikai
+eszközöket és anyagokat térítésmentesen biztosítani az erre törvény által feljogosított szervezetek részére,
+amennyiben a vagyonelemek egyedi könyv szerinti bruttó értéke az állami vagyonról szóló 2007. évi CVI. törvény 28. §
+(4) bekezdése szerinti értéket nem éri el.
+(4) Az (1) bekezdésben meghatározott vagyontárgyak zártkörű pályázattal történő értékesítése esetén
+a Szolgálatoknak az ajánlatkérés tényét sem kell nyilvánosságra hozniuk.
+(5) Az (1) bekezdésben meghatározott értékesítések során nem kötelező közjegyző igénybevétele, ha az értékesítési
+folyamatot minimum 3 főből álló, a Szolgálatok főigazgatói által kinevezett bizottság felügyeli. A bizottság tagja nem
+lehet olyan személy, aki az értékesítési eljárás eredményében bármilyen okból érdekelt, vagy akitől egyéb okból nem
+várható el az értékesítési eljárás szabályszerűségének tárgyilagos megítélése.”
+6. § A Rendelet 13. §-a helyébe a következő rendelkezés lép:
+„13. § (1) A költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény 5. §-a szerinti törzskönyvi
+nyilvántartás a Szolgálatokról a Szolgálat nevét, nyilvántartási számát, székhelyét, az alapító nevét, az alapító okirat
+keltét, az alapítás időpontját, a Szolgálat gazdálkodási jogkörét, a felügyeleti szerv megnevezését, a vezető nevét,
+az alapító okirat szerinti alaptevékenységét, adószámát és KSH statisztikai számjelét tartalmazhatja.
+
+(2) A törzskönyvi nyilvántartás szerinti, de kincstári nyilvántartásba nem vehető adatokat az Iroda tartja nyilván.
+Amennyiben az adatokban változás következik be, a Szolgálatok arról és a változás időpontjáról 8 munkanapon belül
+tájékoztatják az Irodát.
+(3) Az Irodánál nyilvántartott adatokról külső szerv csak a miniszter engedélyével kaphat tájékoztatást.”
+7. § A Rendelet 14. § (5)–(8) bekezdése helyébe a következő rendelkezés lép, ezzel egyidejűleg a § a következő
+(9) bekezdéssel egészül ki:
+„(5) A (3) bekezdésben szereplő számlán keletkezett kamat az érintett szolgálat speciális bevétele.
+(6) A Szolgálatok a (3) bekezdésben szereplő számlákról tranzakció mélységig a számviteli rendszertől elkülönített
+nyilvántartást vezetnek. A számlák év végi egyenlegét nem kell a könyvviteli mérlegben szerepeltetni. A számlák év
+végi egyenlegéről, összetételéről (tőke, lekötött tőke, kamat), annak indokolásáról az éves elemi költségvetési
+beszámoló kiegészítő melléklete szöveges indokolásának külön mellékletében kell – a műveleti szempontokat
+figyelembe véve – tájékoztatni az Irodát. Ezt a mellékletet a miniszter külön jóváhagyja.
+(7) A Szolgálatok áthúzódó speciális kiadásaik fedezetére év végén házipénztárukban elkülönített módon készpénzt
+tarthatnak. Ebből a tárgyévet követő év január 15. napjáig történő kifizetést a tárgyév terhére kell elszámolni. Az így
+elkülönítetten kezelt pénzkészlet maradványát az elemi költségvetési beszámoló könyvviteli mérlegében a pénztár
+nyitó állományában fel kell tüntetni.
+(8) A Szolgálatok költségvetéseikben az alaptevékenységgel összefüggő speciális bevételeiket a működési bevételek
+kiemelt előirányzaton belül egy összegben az „Egyéb sajátos bevétel” előirányzaton tervezik és számolják el. Az ilyen
+bevételekről elkülönített nyilvántartást kell vezetni és azok éves összegéről az éves beszámoló szöveges
+indokolásában, annak külön mellékleteként kell – a műveleti szempontokat figyelembe véve – tájékoztatást adni
+az Iroda részére. A Szolgálatok az ilyen bevételek 100%-át felhasználhatják kiadásaik fedezésére.
+(9) Az (1) és (3)–(5) bekezdés szerinti speciális működési kiadásokra vonatkozó felhasználás, bizonylatolás, elszámolás
+és ellenőrzés részletes szabályait a miniszter külön utasításban határozza meg.”
+8. § A Rendelet a következő 14/D. §-sal egészül ki:
+„14/D. § A Szolgálatok éves elemi költségvetési beszámolóinak megbízhatósági ellenőrzését az Iroda elvégzi és annak
+eredményéről a tárgyévet követő év július 15-éig tájékoztatja a Pénzügyminisztériumot.”
+9. § A Rendelet 7. § (2) bekezdésében az „az MNV Zrt.-nek” szövegrész helyébe az „a Magyar Nemzeti Vagyonkezelő
+Zártkörűen működő Részvénytársaságnak (a továbbiakban: MNV Zrt.)” szöveg, 10. § (1) bekezdésében
+az „a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.)” szövegrész helyébe
+az „az Nbtv.” szöveg, 10. § (3) bekezdésében a „14. § (7) bekezdése” szövegrész helyébe a „14. § (8) bekezdése” szöveg,
+11. § (2) bekezdésében a „részletes költségvetés” szövegrész helyébe az „éves költségvetés” szöveg, a „részletes
+beszámoló” szövegrész helyébe az „éves elemi költségvetési beszámoló” szöveg, 11. § (3) bekezdésében a „részletes
+költségvetés” szövegrész helyébe az „éves költségvetés” szöveg, a „részletes beszámoló” szövegrész helyébe az „éves
+elemi költségvetési beszámoló” szöveg, 11. § (5) bekezdésében az „Ámr. 157. §-ának (3) bekezdése” szövegrész
+helyébe az „államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) 230. §
+(3) bekezdése” szöveg, 13/B. §-ában az „Ámr. 135. §-ában” szövegrész helyébe az „Ámr. 76. §-ában” szöveg, 14. §
+(1) bekezdésében az „Ámr. 135. §-ában” szövegrész helyébe az „Ámr. 76. §-ában” szöveg lép.
+10. § Hatályát veszti a Rendelet 6. § (4) bekezdése,9. §-a, 11. § (4) bekezdése,14/B. §-ában „,a berendeléstőlszámított három
+évig” szövegrész, valamint 1. és 2. számú melléklete.
+11. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+Bajnai Gordon s. k.,
+miniszterelnök
