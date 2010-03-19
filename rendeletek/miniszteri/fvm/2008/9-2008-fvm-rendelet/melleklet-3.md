@@ -34,7 +34,7 @@
 
 ## – kerekesszékben ülők szállításának megoldása, mely esetben a gépkocsira feljutást segítő rámpa, a kerekesszék egyszerű rögzítését szolgáló eszköz beépítése.
 
-3. számú melléklet a 9/2008. (I. 24.) FVM rendelethez[^22]
+3. számú melléklet a 9/2008. (I. 24.) FVM rendelethez[^24]
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető maximális pontszám |
 
@@ -112,4 +112,4 @@
 
 |  |  | Szakmai: 58 pont Komplexitás: 20 pont Horizontális: 22 pont Összesen: 100 pont |
 
-[^22]: A 3. számú melléklet az 54/2008. (IV. 24.) FVM rendelet 6. §-ával megállapított, a 132/2008. (X. 3.) FVM rendelet 2. §-a szerint módosított szöveg.
+[^24]: A 3. számú melléklet az 54/2008. (IV. 24.) FVM rendelet 6. §-ával megállapított, a 132/2008. (X. 3.) FVM rendelet 2. §-a szerint módosított szöveg.
