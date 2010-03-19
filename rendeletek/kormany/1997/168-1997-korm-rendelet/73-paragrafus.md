@@ -1,5 +1,15 @@
 ## A nyugellátás folyósítása
 
-73. § (1) Arra az időre, amely alatt a jogosult – beleszámítva az őrizetbe vétel idejét is – harminc napot meghaladóan előzetes letartóztatásban van, szabadságvesztését tölti, nyugellátását, baleseti rokkantsági nyugdíjat, hozzátartozói baleseti és hozzátartozói nyugellátását szüneteltetni kell, illetőleg, ha kéri azt az általa – visszavonásig érvényes – szabályszerű meghatalmazással ellátott személy kezéhez vagy a büntetés-végrehajtási intézethez kell részére folyósítani.
+73. §[^167] (1) Ha a jogosult előzetes letartóztatását vagy szabadságvesztés büntetését tölti, nyugellátását kérelmére
 
-(2) A szüneteltetett nyugellátást, baleseti rokkantsági nyugdíjat, hozzátartozói, baleseti hozzátartozói nyugellátást a büntetőeljárás befejezése, illetőleg a szabadságvesztés letöltése után egy éven belül előterjesztett kérelemre a jogosult részére egy összegben ki kell utalni.
+a) az általa – visszavonásig érvényes – meghatalmazással ellátott személynek,
+
+b) az általa megjelölt belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlájára, vagy
+
+c) a büntetés-végrehajtási intézethez
+
+kell folyósítani.
+
+(2) Ha a jogosult részére korábban a nyugellátást pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján folyósították, és a jogosult nem kéri a nyugellátásnak az (1) bekezdés szerinti folyósítását, a 75/C. § (1) bekezdését kell alkalmazni azzal, hogy a nyugellátást az előzetes letartóztatás (őrizetbe vétel) és a szabadságvesztés teljes időtartamára ki kell utalni.
+
+[^167]: A 73. § az 58/2010. (III. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
