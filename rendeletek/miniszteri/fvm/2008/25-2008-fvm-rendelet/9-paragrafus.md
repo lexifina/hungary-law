@@ -4,7 +4,7 @@
 
 (2)[^26]
 
-(3)[^27] Amennyiben az ügyfél a 4. § (5) bekezdésében meghatározott képzési kötelezettségének nem tesz eleget vagy a képzésben való részvételt nem igazolja legkésőbb az utolsó kifizetési kérelem benyújtásáig, a támogatási határozattal jóváhagyott összeget 20%-kal csökkenteni kell kivéve, ha a támogatási határozat kézhezvételét követő 30. nap és az utolsó kifizetési kérelem benyújtási időszak első napját megelőző 30. nap közötti időszakban nem volt képzés.
+(3)[^27] Ha az ügyfél a 4. § (5) bekezdésében meghatározott képzési kötelezettségének nem tesz eleget vagy a képzésben való részvételt nem igazolja legkésőbb az utolsó kifizetési kérelem benyújtásáig, a támogatási határozattal jóváhagyott összeget 20%-kal csökkenteni kell kivéve, ha a támogatási határozat közlését követő 30. nap és az utolsó kifizetési kérelem benyújtási időszak első napját megelőző 30. nap közötti időszakban nem volt képzés.
 
 (4) Ha a mezőgazdasági termelő ügyfél – induló vállalkozásként – a 4. § (3) bekezdésében foglalt nyilatkozata ellenére a beruházás befejezését követő első teljes évben nem felel meg a 4. § (2) bekezdésében foglalt feltételeknek, akkor köteles a már igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint visszafizetni, és az ügyfél e rendelet szerinti támogatáshoz való joga megszűnik.
 
@@ -13,4 +13,4 @@
 (6) Ha az ügyfél a fejlesztéssel megvalósított hőenergia előállító berendezéshez összességében az előállítható hőenergia 50%-át meghaladó kapacitású olyan fogyasztó(ka)t csatlakoztat, amely(ek) nem felel(nek) meg a 4. § (6) bekezdés c) pont szerinti felhasználási célnak, akkor köteles a már igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint visszafizetni, és az ügyfél e rendelet szerinti támogatáshoz való joga megszűnik.
 
 [^26]: A 9. § (2) bekezdését a 97/2008. (VII. 25.) FVM rendelet 21. § (4) bekezdésének d) pontja hatályon kívül helyezte.
-[^27]: A 9. § (3) bekezdése a 164/2009. (XI. 30.) FVM rendelet 8. §-a szerint módosított szöveg.
+[^27]: A 9. § (3) bekezdése a 23/2010. (III. 16.) FVM rendelet 13. § (1) bekezdésével megállapított szöveg.

@@ -12,7 +12,7 @@ d) a tervezett elszámolható kiadás és kalkulált támogatási összeg célte
 
 (2) A támogatási kérelemhez csatolni kell:
 
-a)[^13] ha az ügyfél őstermelő, a mezőgazdasági őstermelői igazolvány hiteles másolatát; ha az ügyfél egyéni vállalkozó, hatósági igazolást az egyéni vállalkozói igazolvány hatályáról és az ügyfél egyéni vállalkozói tevékenységi köréről;
+a)[^13] ha az ügyfél őstermelő, a mezőgazdasági őstermelői igazolvány hiteles másolatát;
 
 b) a 3. számú mellékletben szereplő értékelési szempontokat alátámasztó igazolásokat, nyilatkozatokat, dokumentumokat szükség szerint;
 
@@ -33,7 +33,7 @@ h)[^18] a Vhr. 27. § (1) bekezdés f) pontja szerinti pénzügyi tervet és üz
 (4)[^19] A támogatási kérelem részleges visszavonása kizárólag támogatási egységre, a hozzá kapcsolódó mértékre, illetve összegre vonatkozhat.
 
 [^12]: A 6. § (1) bekezdése a 164/2009. (XI. 30.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^13]: A 6. § (2) bekezdés a) pontja a 164/2009. (XI. 30.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^13]: A 6. § (2) bekezdés a) pontja a 23/2010. (III. 16.) FVM rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^14]: A 6. § (2) bekezdésének d) pontja a 34/2009. (IV. 2.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^15]: A 6. § (2) bekezdésének e) pontja a 34/2009. (IV. 2.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^16]: A 6. § (2) bekezdés f) pontja a 164/2009. (XI. 30.) FVM rendelet 5. § (3) bekezdésével megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
