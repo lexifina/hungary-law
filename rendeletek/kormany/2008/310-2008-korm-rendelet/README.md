@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-310-20-
 | --- | --- | --- |
 | 2009-10-01 | 2008-310-20-22.4 | 310/2008. (XII. 20.) Korm. rendelet |
 | 2010-03-01 | 2008-310-20-22.5 | 34/2010. (II. 24.) Korm. rendelet |
+| 2010-03-19 | 2008-310-20-22.6 | 34/2010. (II. 24.) Korm. rendelet |
