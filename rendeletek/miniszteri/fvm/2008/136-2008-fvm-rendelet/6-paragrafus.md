@@ -24,26 +24,27 @@ h) az ügyfél aláírása.
 
 (4) A támogatási kérelemhez csatolni kell:
 
-a) ha az ügyfél egyéni vállalkozó, hatósági igazolást az egyéni vállalkozói igazolvány érvényességéről és az ügyfél egyéni vállalkozói tevékenységi köréről, amennyiben a nyilvántartásba vétele folyamatban van, akkor nyilatkozatát a tervezett tevékenységről;
+a)[^20]
 
 b) a Vhr. 27. § (1) bekezdésének h) pontjában foglaltaknak megfelelően pénzügyi tervet, ha a kérelmezett támogatás összege az 5 000 000 forintot nem haladja meg;
 
-c)[^20] a Vhr. 27. § (1) bekezdésének i) pontjában foglaltaknak megfelelően, amennyiben az ügyfél természetes személy vagy mikrovállalkozás, pénzügyi és üzleti tervet, ha a kérelmezett támogatás összege az 5 000 000 forintot meghaladja;
+c)[^21] a Vhr. 27. § (1) bekezdésének i) pontjában foglaltaknak megfelelően, amennyiben az ügyfél természetes személy vagy mikrovállalkozás, pénzügyi és üzleti tervet, ha a kérelmezett támogatás összege az 5 000 000 forintot meghaladja;
 
 d) az értékeléshez az 1. számú mellékletben meghatározott igazolásokat, nyilatkozatokat, dokumentumokat;
 
-e)[^21]
+e)[^22]
 
 f) az 1998/2006/EK tanácsi rendelet hatálya alá tartozó szervezetek esetében az ügyfél által az adott és az előző két pénzügyi évben igénybe vett csekély összegű támogatásról szóló nyilatkozatát.
 
-(5)[^22] Ha az ügyfél a (4) bekezdés b) és c) pontjában meghatározott értékhatárokra tekintettel nem köteles üzleti tervet vagy működtetési és fenntarthatósági tervet benyújtani, a támogatási kérelem elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
+(5)[^23] Ha az ügyfél a (4) bekezdés b) és c) pontjában meghatározott értékhatárokra tekintettel nem köteles üzleti tervet vagy működtetési és fenntarthatósági tervet benyújtani, a támogatási kérelem elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
 
-(6)[^23] A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségtől. Benyújtásuk esetén a fejezeteket az (5) bekezdésben meghatározott arányosítást követően, a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
+(6)[^24] A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségtől. Benyújtásuk esetén a fejezeteket az (5) bekezdésben meghatározott arányosítást követően, a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
 
 [^17]: A 6. § (1) bekezdése a 158/2009. (XI. 19.) FVM rendelet 5. § (1) bekezdésével megállapított, a 15/2010. (II. 25.) FVM rendelet 7. § (5) bekezdése szerint módosított szöveg.
 [^18]: A 6. § (2) bekezdése a 158/2009. (XI. 19.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^19]: A 6. § (3) bekezdését a 158/2009. (XI. 19.) FVM rendelet 9. §-a hatályon kívül helyezte.
-[^20]: A 6. § (4) bekezdés c) pontja a 169/2008. (XII. 31.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^21]: A 6. § (4) bekezdésének e) pontját a 158/2009. (XI. 19.) FVM rendelet 9. §-a hatályon kívül helyezte.
-[^22]: A 6. § (5) bekezdését a 158/2009. (XI. 19.) FVM rendelet 5. § (2) bekezdése iktatta be.
-[^23]: A 6. § (6) bekezdését a 158/2009. (XI. 19.) FVM rendelet 5. § (2) bekezdése iktatta be.
+[^20]: A 6. § (4) bekezdés a) pontját a 23/2010. (III. 16.) FVM rendelet 28. § b) pontja hatályon kívül helyezte.
+[^21]: A 6. § (4) bekezdés c) pontja a 169/2008. (XII. 31.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^22]: A 6. § (4) bekezdésének e) pontját a 158/2009. (XI. 19.) FVM rendelet 9. §-a hatályon kívül helyezte.
+[^23]: A 6. § (5) bekezdését a 158/2009. (XI. 19.) FVM rendelet 5. § (2) bekezdése iktatta be.
+[^24]: A 6. § (6) bekezdését a 158/2009. (XI. 19.) FVM rendelet 5. § (2) bekezdése iktatta be.
