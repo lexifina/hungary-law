@@ -30,9 +30,9 @@ b)[^6] az állagmegóvásról gondoskodni és az üzemeltetési kötelezettség�
 
 c) az Új Magyarország Vidékfejlesztési Program keretében, e jogcím tárgyában szervezett kötelező képzésen részt venni az utolsó kifizetési kérelem benyújtása előtt;
 
-d)[^7] a Vhr. 25. § (2) bekezdésétől eltérően a beruházást a támogatási döntés kézhezvételétől számított 12 hónapon belül befejezni.
+d)[^7] a Vhr. 25. § (2) bekezdésétől eltérően a beruházást a támogatási kérelemnek helyt adó határozat közlésétől számított 12 hónapon belül befejezni.
 
 [^4]: A 4. § (4) bekezdésének f) pontja a 101/2007. (IX. 21.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^5]: A 4. § (5) bekezdése a 101/2007. (IX. 21.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^6]: A 4. § (6) bekezdésének b) pontja a 101/2007. (IX. 21.) FVM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^7]: A 4. § (6) bekezdésének d) pontját a 101/2007. (IX. 21.) FVM rendelet 3. § (3) bekezdése iktatta be.
+[^7]: A 4. § (6) bekezdésének d) pontját a 101/2007. (IX. 21.) FVM rendelet 3. § (3) bekezdése iktatta be, szövege a 23/2010. (III. 16.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
