@@ -1,0 +1,1 @@
+3. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyar Köztársaság Kormánya és Mongólia Kormánya között a vámügyekben történő együttműködésről és kölcsönös segítségnyújtásról szóló Egyezmény módosítása (a továbbiakban: Módosítás) kötelező hatályának elismerésére.

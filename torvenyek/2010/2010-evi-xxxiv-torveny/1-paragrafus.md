@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és Mongólia Kormánya között a vámügyekben történő együttműködésről és kölcsönös segítségnyújtásról szóló Egyezményt (a továbbiakban: Egyezmény) e törvénnyel kihirdeti.
