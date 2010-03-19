@@ -194,10 +194,10 @@
 
 | Zselici Lámpások | 49 | 777 954 | 4 408 409 | 5 186 363 | 1 607 484 | 1 117 083 | 5 676 763 | 6 793 847 |
 
-2. számú melléklet a 147/2007. (XII. 4.) FVM rendelethez[^20]
+2. számú melléklet a 147/2007. (XII. 4.) FVM rendelethez[^24]
 
 Előzetesen elismert vidékfejlesztési akciócsoportok területéhez tartozó leghátrányosabb helyzetű/elmaradott
 
 települések és az azokra kötelezően fordítandó források
 
-[^20]: A 2. számú melléklet a 83/2008. (VI. 30.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^24]: A 2. számú melléklet a 83/2008. (VI. 30.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
