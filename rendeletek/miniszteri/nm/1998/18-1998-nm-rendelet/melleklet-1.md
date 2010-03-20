@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^134]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^137]
 
 Be- és kijelentésre kötelezett betegségek felsorolása
 
@@ -4276,20 +4276,4 @@ BNO10: J00-J06
 
 4. Lappangási idő: A kórokozótól függően 1–7 nap.
 
-5. Fontosabb klinikai tünetek: Rendszerint hirtelen kezdet, nátha, pharyngitis, laryngitis, tracheobronchitis, láz. A rhinovírusok többnyire csak enyhe náthát okoznak. A csecsemők és kisgyermekek betegsége RS vírus és parainfluenza vírusfertőzés esetén súlyosabb tünetekkel járhat, eclampsiával, hasmenéssel, folyadékvesztéssel. Egyes adenovírus szerotípusok nyaki nyirokcsomó-duzzanatokat, „pharyngoconjunctivalis lázat” okoznak. A heveny légúti infekciók szövődményeként croup syndroma, bronchiolitis, pneumonia, meningitis és encephalitis is előfordulhat, bakteriális szuperinfekció esetén pedig sinusitis, otitis stb. A megbetegedések túlnyomó többsége azonban enyhe lefolyású, 2–6 nap alatt gyógyul, az idősebb betegeknél néha hosszabb rekonvaleszcenciával. A valódi influenzát, különösen az influenzajárványok kezdetén, ezektől az „influenza-szerű megbetegedésektől” néha csak járványtani sajátosságai, azaz a hosszabb lappangási idő és a laboratóriumi vizsgálatok alapján lehet megkülönböztetni. Az influenzaszerű, „grippés” megbetegedések aetiológiai elkülönítésére egyébként a mindennapi gyakorlatban a direkt antigénkimutatás(ok) biztosítanak elkülönítési lehetőségeket. Ez a vizsgálat csak az azok végzésére alkalmas laboratóriumokkal történő előzetes megbeszélés alapján, súlyos klinikai megbetegedés vagy halmozott előfordulás esetén kérhető.
-
-6. Fertőzőképesség tartama: Amíg a kórokozó a légúti váladékokkal ürül.
-
-7. Teendők a betegség előfordulásakor:
-
-A) Teendők a beteggel:
-
-a) Jelentés: Nem bejelentendő.
-
-b) Elkülönítés: A beteget csecsemőktől, koraszülöttektől el kell különíteni, csecsemőotthonokban, kórházi csecsemőosztályokon külön részlegen kell őket elhelyezni.
-
-c) Fertőtlenítés: A beteg váladékait és velük szennyezett tárgyakat folyamatosan fertőtleníteni kell.
-
-Human toxocariasis
-
-[^134]: Az 1. számú melléklet a 33/2006. (VIII. 23.) EüM rendelet 11. § (1) bekezdésével megállapított, a 13/2008. (IV. 8.) EüM rendelet 6. § (1) bekezdése, az 5/2009. (III. 20.) EüM rendelet 3. §-a szerint módosított szöveg.
+[^137]: Az 1. számú melléklet a 33/2006. (VIII. 23.) EüM rendelet 11. § (1) bekezdésével megállapított, a 13/2008. (IV. 8.) EüM rendelet 6. § (1) bekezdése, az 5/2009. (III. 20.) EüM rendelet 3. §-a szerint módosított szöveg.
