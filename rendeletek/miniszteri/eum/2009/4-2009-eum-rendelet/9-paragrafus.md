@@ -1,0 +1,1 @@
+## 8. § Ha a felmerült kockázat azt indokolttá teszi, a külön jogszabály szerint gépnek is minősülő eszköznek az e rendeletben foglaltakon túl meg kell felelnie a gépekre vonatkozó külön jogszabály szerinti alapvető egészségügyi és biztonsági követelményeknek is.

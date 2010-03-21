@@ -1,0 +1,1 @@
+## 9. § Ha az eszköz az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 18/2008. (XII. 3.) SZMM rendelet szerint egyéni védőeszköznek minősül, akkor annak az abban foglalt alapvető egészségügyi és biztonsági előírásoknak is meg kell felelnie.
