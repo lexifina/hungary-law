@@ -1,4 +1,4 @@
-## 17–18. §[^5]
+## 17–18. §[^6]
 
 1. számú melléklet a 8/2003. (III. 13.) ESZCSM rendelethez
 
@@ -214,4 +214,4 @@ t) az önellenőrzésre szolgáló eszközök specifikációit:
 
 u) a használati útmutató kiadásának vagy utolsó felülvizsgálatának keltét.
 
-[^5]: A 17–18. §-t a 118/2008. (V. 8.) Korm. rendelet 4. § 91. pontja hatályon kívül helyezte.
+[^6]: A 17–18. §-t a 118/2008. (V. 8.) Korm. rendelet 4. § 91. pontja hatályon kívül helyezte.
