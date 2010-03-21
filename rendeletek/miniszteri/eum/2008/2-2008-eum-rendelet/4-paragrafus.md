@@ -2,7 +2,7 @@
 
 a) az OGYI által forgalomba hozatalra és gyógyszertáron kívül is forgalmazásra engedélyezett gyógyszerek;
 
-b)[^1] a Magyar Köztársaság területén gyártott vagy forgalmazott és alkalmazott, az orvostechnikai eszközökről szóló 16/2006. (III. 27.) EüM rendelet és az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendelet szerinti követelményeknek megfelelő
+b)[^1] a Magyar Köztársaság területén gyártott vagy forgalmazott és alkalmazott, az orvostechnikai eszközökről szóló EüM rendelet és az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESZCSM rendelet szerinti követelményeknek megfelelő
 
 ba) sorozatgyártású gyógyászati segédeszközök – külön jogszabályban meghatározott szakképesítés hiányában,
 
@@ -52,4 +52,4 @@ n) kontaktlencse tárolásához és tisztításához szükséges oldatok, folyad
 
 o) olvasó- és tartalékszemüvegek, napszemüvegek.
 
-[^1]: A 4. § b) pontjában az „az orvostechnikai eszközökről szóló 16/2006. (III. 27.) EüM rendelet” szövegrész helyébe a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének a) pontja alapján az „az orvostechnikai eszközökről szóló EüM rendelet” szövegrész lép; a rendelkezés 2010. március 21-én lép hatályba.
+[^1]: A 4. § b) pontja a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének a) pontja szerint módosított szöveg.
