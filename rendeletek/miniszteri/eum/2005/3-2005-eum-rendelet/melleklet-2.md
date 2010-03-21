@@ -62,9 +62,7 @@
 
 ## 3. Csak a mindenkor érvényes jogszabályokat teljesítő, azaz jóváhagyott szállítóktól származó, a dokumentált követelményeknek és előírásoknak megfelelő reagenseket és anyagokat szabad felhasználni. Kritikus anyagok felszabadítását csak az ehhez képzettséggel rendelkező személy végezheti. Adott esetben az anyagoknak, reagenseknek és berendezéseknek meg kell felelniük:
 
-## – orvostechnikai eszközök esetében a 16/2006. (III. 27.) EüM rendelet,
-
-## [–[^41] orvostechnikai eszközök esetében az orvostechnikai eszközökről szóló EüM rendelet,]
+## –[^41] orvostechnikai eszközök esetében az orvostechnikai eszközökről szóló EüM rendelet,
 
 ## – in vitro diagnosztikai orvostechnikai eszközök esetében a 8/2003. (III. 13.) ESZCSM rendelet
 
@@ -200,5 +198,5 @@
 
 2. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^42]
 
-[^41]: Az 1/A. számú melléklet 4. része 3. pontjának első franciabekezdése a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének c) pontjával megállapított szöveg; a rendelkezés 2010. március 21-én lép hatályba.
+[^41]: Az 1/A. számú melléklet 4. része 3. pontjának első franciabekezdése a 4/2009. (III. 17.) EüM rendelet 29. § (4) bekezdésének c) pontjával megállapított szöveg.
 [^42]: A 2. számú melléklet a 2/2007. (I. 24.) EüM rendelet 7. § (2) bekezdésével megállapított szöveg.
