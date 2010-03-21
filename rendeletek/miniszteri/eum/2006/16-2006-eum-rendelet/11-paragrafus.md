@@ -1,1 +1,0 @@
-## Nyilvántartásba vételi díj
