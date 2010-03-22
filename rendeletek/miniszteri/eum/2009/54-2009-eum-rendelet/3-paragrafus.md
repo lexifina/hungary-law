@@ -4,4 +4,6 @@
 
 (3) E rendelet rendelkezéseit a felügyeleti eljárás során az e rendelet hatálybalépése előtt meghozott döntésekre is alkalmazni kell.
 
-(4) A 2. § c) pontja 2010. március 21-én hatályát veszti. E bekezdés 2010. március 22-én hatályát veszti.
+(4)[^3]
+
+[^3]: A 3. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
