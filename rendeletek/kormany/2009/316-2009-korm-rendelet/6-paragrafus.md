@@ -1,4 +1,4 @@
-6. §[^7] (1) A központosított illetményszámfejtést nem igénylő helyi önkormányzati költségvetési szervek esetében
+6. §[^8] (1) A központosított illetményszámfejtést nem igénylő helyi önkormányzati költségvetési szervek esetében
 
 a) az E. Alapból finanszírozott egészségügyi szolgáltatónak minősülő költségvetési szervek az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) 15/B. 2.5. számú adatlapján,
 
@@ -16,4 +16,4 @@ b) a helyi önkormányzatok a nem az a) pont hatálya alá tartozó költségvet
 
 (6) Az E. Alapból finanszírozott egészségügyi szolgáltatónak minősülő helyi önkormányzati költségvetési szervek esetében az Önkormányzati Minisztérium az OEP részére a megállapított támogatás összegéről legkésőbb 2010. január 29-éig, illetve március 30-áig adatot szolgáltat a Magyar Államkincstár – az Ámr. 15. számú melléklete 15/B. 2.6. számú adatlapján alapuló – adatfeldolgozása alapján.
 
-[^7]: A 6. § a 9. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
+[^8]: A 6. § a 9. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
