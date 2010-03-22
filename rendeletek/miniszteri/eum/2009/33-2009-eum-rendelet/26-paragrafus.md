@@ -8,29 +8,9 @@
 
 (3)–(4)[^2]
 
-(5) Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet
+(5)–(6)[^3]
 
-a) 3. § (14) bekezdése az „a Fodor József Országos Közegészségügyi Központ Országos Kémiai Biztonsági Intézete” szövegrész helyett az „az Országos Kémiai Biztonsági Intézet (a továbbiakban: OKBI)” szöveggel,
-
-b) 28. § (5) bekezdése az „a Fodor József Országos Közegészségügyi Központ Országos Kémiai Biztonsági Intézetét (a továbbiakban: OKK-OKBI). Az OKK-OKBI” szövegrész helyett az „az OKBI-t. Az OKBI” szöveggel,
-
-c) 14. melléklete a „Fodor József Országos Közegészségügyi Központ
-
-Országos Kémiai Biztonsági Intézete” szövegrész helyett az „Országos Kémiai Biztonsági Intézet” szöveggel
-
-lép hatályba.
-
-(6) Nem lép hatályba az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet
-
-a) 3. § (8) bekezdésében a „vagy klinikai vizsgálatra szánt, osztályba sorolt” szövegrész,
-
-b) 13. § (6) bekezdése,
-
-c) 8. melléklete A. részének címében a „vagy klinikai vizsgálatra szánt, osztályba sorolt eszközökre”, valamint B. részének címében a „vagy klinikai vizsgálatra szánt aktív beültethető” szövegrész,
-
-d) 8. melléklete A. részének 2.2., 3.2. pontja, valamint B. részének 2.2., 3.2. pontja.
-
-(7)[^3] Ez a rendelet az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról szóló, 2007. szeptember 5-i 2007/47/EK európai parlamenti és tanácsi irányelv rendelkezéseinek való megfelelést szolgálja.
+(7)[^4] Ez a rendelet az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról szóló, 2007. szeptember 5-i 2007/47/EK európai parlamenti és tanácsi irányelv rendelkezéseinek való megfelelést szolgálja.
 
 (8) E rendelet 25. §-a, valamint e § (3)–(4) bekezdése a hatálybalépését követő napon hatályát veszti. E § (5)–(6) bekezdése 2010. március 22-én hatályát veszti. E bekezdés 2010. március 23-án hatályát veszti.
 
@@ -104,4 +84,5 @@ b) az eszköz működtetésének megfelelő felsőfokú műszaki végzettséggel
 
 [^1]: A 25. §-t a 26. § (8) bekezdése hatályon kívül helyezte.
 [^2]: A 26. § (3)–(4) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^3]: A 26. § (7) bekezdése a (2) bekezdés alapján 2010. március 21-én lép hatályba.
+[^3]: A 26. § (5)–(6) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^4]: A 26. § (7) bekezdése a (2) bekezdés alapján 2010. március 21-én lép hatályba.
