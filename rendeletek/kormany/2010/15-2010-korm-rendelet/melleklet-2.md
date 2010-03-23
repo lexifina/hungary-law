@@ -12,17 +12,17 @@
 
 | 5. | útügyi hatósági eljárások gyorsforgalmi utak és 30 méter szabad nyílást meghaladó közúti hidak esetében | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
-| 6. | útügyi hatósági eljárások az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | Nemzeti Közlekedési Hatóság Dél-dunántúli Regionális Igazgatósága |  |
+| 6. | útügyi hatósági eljárások az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | Nemzeti Közlekedési Hatóság Dél-dunántúli Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
 | 7. | vízjogi hatósági eljárások | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség |
 
 | 8. | földvédelmi hatósági eljárások | Paksi Körzeti Földhivatal | Tolna Megyei Földhivatal |
 
-| 9. | ingatlan- nyilvántartási hatósági eljárások |  |  |
+| 9. | ingatlan- nyilvántartási hatósági eljárások | Paksi Körzeti Földhivatal | Tolna Megyei Földhivatal |
 
-| 10. | telekalakítási hatósági eljárások |  |  |
+| 10. | telekalakítási hatósági eljárások | Paksi Körzeti Földhivatal | Tolna Megyei Földhivatal |
 
-| 11. | földmérési hatósági eljárások |  |  |
+| 11. | földmérési hatósági eljárások | Paksi Körzeti Földhivatal | Tolna Megyei Földhivatal |
 
 | 12. | erdővédelmi hatósági eljárások | Baranya Megyei Mezőgazdasági Szakigazgatási Hivatal | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
@@ -46,7 +46,7 @@
 
 | 22. | nyomástartó berendezések, veszélyes folyadéktárolók engedélyezésével kapcsolatos hatósági eljárások | Magyar Kereskedelmi Engedélyezési Hivatal Pécsi Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
-2. melléklet a 15/2010. (II. 5.) Korm. rendelethez
+2. melléklet a 15/2010. (II. 5.) Korm. rendelethez[^2]
 
 A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
 
@@ -82,11 +82,11 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 15. | ingatlan-nyilvántartás | Paksi Körzeti Földhivatal | Tolna Megyei Földhivatal |
 
-| 16. | földművelésügy: termőföldvédelem |  |  |
+| 16. | földművelésügy: termőföldvédelem | Paksi Körzeti Földhivatal | Tolna Megyei Földhivatal |
 
 | 17. | földművelésügy: talajvédelem | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
-| 18. | földművelésügy: erdővédelem | Baranya Megyei Mezőgazdasági Szakigazgatási Hivatal |  |
+| 18. | földművelésügy: erdővédelem | Baranya Megyei Mezőgazdasági Szakigazgatási Hivatal | Mezőgazdasági Szakigazgatási Hivatal Központ |
 
 | 19. | kulturális örökségvédelem | Kulturális Örökségvédelmi Hivatal Dél-dunántúli Iroda | Kulturális Örökségvédelmi Hivatal központi szerve |
 
@@ -97,3 +97,5 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 | 22. | műszaki biztonság | Magyar Kereskedelmi Engedélyezési Hivatal Pécsi Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal központi szerve |
 
 | 23. | élelmiszer-egészségügy | Tolna Megyei Mezőgazdasági Szakigazgatási Hivatal | Mezőgazdasági Szakigazgatási Hivatal Központ |
+
+[^2]: A 2. melléklet a 61/2010. (III. 18.) Korm. rendelet 4. § (2)–(4) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2010. március 23. napját követően indult eljárásokban kell alkalmazni.
