@@ -12,7 +12,7 @@
 
 (7)[^4] Ez a rendelet az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról szóló, 2007. szeptember 5-i 2007/47/EK európai parlamenti és tanácsi irányelv rendelkezéseinek való megfelelést szolgálja.
 
-(8) E rendelet 25. §-a, valamint e § (3)–(4) bekezdése a hatálybalépését követő napon hatályát veszti. E § (5)–(6) bekezdése 2010. március 22-én hatályát veszti. E bekezdés 2010. március 23-án hatályát veszti.
+(8)[^5]
 
 Melléklet a 33/2009. (X. 20.) EüM rendelethez
 
@@ -86,3 +86,4 @@ b) az eszköz működtetésének megfelelő felsőfokú műszaki végzettséggel
 [^2]: A 26. § (3)–(4) bekezdését a (8) bekezdés hatályon kívül helyezte.
 [^3]: A 26. § (5)–(6) bekezdését a (8) bekezdés hatályon kívül helyezte.
 [^4]: A 26. § (7) bekezdése a (2) bekezdés alapján 2010. március 21-én lép hatályba.
+[^5]: A 26. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
