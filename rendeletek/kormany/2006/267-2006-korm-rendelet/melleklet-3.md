@@ -24,13 +24,13 @@
 
 | b) egyéb országos közút esetén: |
 
-| Nemzeti Közlekedési Hatóság illetékes regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| Nemzeti Közlekedési Hatóság regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
 | Helyi közút |
 
 | a) a települési önkormányzat tulajdonában lévő helyi közutak esetén: |
 
-| Nemzeti Közlekedési Hatóság illetékes regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| Nemzeti Közlekedési Hatóság regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
 | b) a fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: |
 
@@ -40,7 +40,7 @@
 
 | Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
-| 5. | A vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli építmény építése, elhelyezése, megszüntetése esetén, ha a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a vasúti pálya területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasút kezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság illetékes regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
+| 5. | A vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli építmény építése, elhelyezése, megszüntetése esetén, ha a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a vasúti pálya területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasút kezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
 | 6. | A bányák föld alatti létesítményei kivételével, ha vízi utat, vízi közlekedést érint az építmény. | Annak elbírálása kérdésében, a keresztező műtárgy méretei megfelelnek-e a vonatkozó jogszabály követelményeinek, továbbá a Dunán a Duna Bizottság hatályos ajánlásainak, a tervezett, felújított vagy átalakított keresztező műtárgy és tartozékai alkalmasak-e a zavartalan és biztonságos hajóforgalom lebonyolítására és megfelelnek-e a nemzetközi gyakorlatnak. | Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |
 
@@ -56,7 +56,7 @@
 
 | 12. | Az államhatártól számított 100 méteren belül épülő létesítmény esetén | Annak elbírálása kérdésében, hogy a létesítmény a kérelemben foglaltak szerinti vagy további feltételek melletti megvalósítása esetén az államhatár rendje biztosított-e, a határrend-sértések és határesemények megelőzhetők-e. | megyei (fővárosi) rendőr-főkapitányság | Országos Rendőr- főkapitányság |
 
-3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^13]
+3. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^25]
 
 A bányászati szakigazgatással kapcsolatos eljárásokban közreműködő szakhatóságok
 
@@ -78,13 +78,13 @@ A bányászati szakigazgatással kapcsolatos eljárásokban közreműködő szak
 
 | b) egyéb országos közút esetén: |  |  |  |  |
 
-| Nemzeti Közlekedési Hatóság illetékes regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |  |  |  |  |
+| Nemzeti Közlekedési Hatóság regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |  |  |  |  |
 
 | Helyi közút |  |  |  |  |
 
 | a) a települési önkormányzat tulajdonában lévő helyi közutak esetén: |  |  |  |  |
 
-| Nemzeti Közlekedési Hatóság illetékes regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |  |  |  |  |
+| Nemzeti Közlekedési Hatóság regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |  |  |  |  |
 
 | b) a fővárosi kerületi önkormányzat tulajdonában lévő helyi közutak esetén: |  |  |  |  |
 
@@ -94,11 +94,11 @@ A bányászati szakigazgatással kapcsolatos eljárásokban közreműködő szak
 
 | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala |  |  |  |  |
 
-| 6. | A vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli építmény építése, elhelyezése, megszüntetése esetén, ha a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a vasúti pálya területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasút kezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság illetékes regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala | IGEN | IGEN | IGEN | NEM |
+| 6. | A vasúti pálya szélső vágányának tengelyétől számított 100 méteren belüli építmény építése, elhelyezése, megszüntetése esetén, ha a vasúti pályahálózat működtetője hozzájárulásának a megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja. | Annak elbírálása kérdésében, hogy a vasúti pálya területének nem közlekedési célú igénybevétele a kérelemben foglaltak szerint vagy további feltételek mellett – a tervezett igénybevétel a vasút állagára, a vasúti forgalom biztonságára, a vasút kezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására gyakorolt hatása alapján – engedélyezhető-e. | Nemzeti Közlekedési Hatóság regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala | IGEN | IGEN | IGEN | NEM |
 
 | 7. | A vízi utat keresztező szénhidrogén vezetékkel kapcsolatos eljárásban | Annak vizsgálata, hogy a keresztező műtárgy méretei megfelelnek-e a vonatkozó jogszabály követelményeinek, továbbá a Dunán a Duna Bizottság hatályos ajánlásainak, valamint hogy a tervezett, felújított vagy átalakított keresztező műtárgy és tartozékai alkalmasak-e a zavartalan és biztonságos hajóforgalom lebonyolítására és megfelelnek-e a nemzetközi gyakorlatnak. | Nemzeti Közlekedési Hatóság Kiemelt Ügyek Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala | IGEN | NEM | IGEN | NEM |
 
-| 8. | Az eljárás egyéb víziközlekedési létesítményt érint | Az építmény nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a vízi közlekedési létesítmények működését. | Nemzeti Közlekedési Hatóság illetékes regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala | IGEN | NEM | IGEN | NEM |
+| 8. | Az eljárás egyéb víziközlekedési létesítményt érint | Az építmény nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a vízi közlekedési létesítmények működését. | Nemzeti Közlekedési Hatóság regionális igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala | IGEN | NEM | IGEN | NEM |
 
 | 9. | Ha az eljárás tárgya meddőhányó vagy 40 m-nél magasabb építmény. | A létesítmény elhelyezkedésének, magassága, jellege közvetlen és közvetett hatásainak vizsgálata a légiközlekedésre, a földi telepítésű berendezések működésére és a légiközlekedés biztonságára. | Nemzeti Közlekedési Hatóság Légiközlekedési Igazgatósága | Nemzeti Közlekedési Hatóság Központi Hivatala | IGEN | NEM | IGEN | NEM |
 
@@ -164,4 +164,4 @@ A bányászati szakigazgatással kapcsolatos eljárásokban közreműködő szak
 
 | 13. | Bányatavak fennmaradási engedélye kivételével, ha a létesítményt régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy külön jogszabályban meghatározott esetekben műemléket érintő módon valósítják meg. | Annak elbírálása kérdésében, hogy a létesítmény a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Kulturális Örökségvédelmi Hivatal területi szerve | Kulturális Örökségvédelmi Hivatal központi szerve | IGEN | IGEN | Bányatavak fennmaradása és hasznosítása kivételével | IGEN | NEM |
 
-[^13]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^25]: A 3. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta, szövege az 59/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
