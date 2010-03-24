@@ -1,6 +1,6 @@
 ## A Nemzetközi Bűnügyi Együttműködési Központ
 
-3. § (1) A magyar együttműködő szerv a nemzetközi bűnügyi együttműködés céljából létrehozott szervezettel és nemzeti egységeivel, valamint a két- és többoldalú nemzetközi szerződésben részes állammal folytatott együttműködése során – ha más jogszabály eltérően nem rendelkezik – a Rendőrség szervezetébe tartozó Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) útján továbbít adatot, információt, illetőleg kezdeményez adat-, illetve információigénylést vagy egyéb intézkedést.
+3. § (1) A magyar együttműködő szerv a nemzetközi bűnügyi együttműködés céljából létrehozott szervezettel és nemzeti egységeivel, az Európai Unió jogi aktusával létrehozott információs rendszerhez betekintés céljából történő hozzáférés során, valamint a két- és többoldalú nemzetközi szerződésben részes állammal folytatott együttműködése során – ha más jogszabály eltérően nem rendelkezik – a Rendőrség szervezetébe tartozó Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) útján továbbít adatot, információt, illetőleg kezdeményez adat-, illetve információigénylést vagy egyéb intézkedést.
 
 (2) Az INTERPOL-lal történő együttműködés során a Rendőrség a szervezet alapszabálya és működési elvei szerint folytat információcserét a tagországokkal és az INTERPOL Főtitkárságával. Az INTERPOL tagság nemzetközi kötelezettségvállalásnak minősül.
 
