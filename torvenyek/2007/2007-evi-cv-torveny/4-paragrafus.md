@@ -5,3 +5,5 @@
 (3) A SIRENE Iroda feladatai végrehajtása érdekében hozzáféréssel rendelkezik a SIS-ben tárolt adatokhoz.
 
 (4) A SIRENE Iroda nyilvántartást vezet a kiegészítő információk beszerzéséről, továbbításáról és az ahhoz történő hozzáférési jogosultságokról.
+
+(5) A SIRENE Iroda a (2)–(4) bekezdésben meghatározott feladatokkal érintett személyes adatok tekintetében adatkezelő.

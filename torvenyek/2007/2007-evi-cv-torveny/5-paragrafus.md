@@ -8,9 +8,9 @@ c) arról, akit a büntetőeljárásban terheltként vagy tanúként kívánnak 
 
 d) arról, aki szabadságvesztés büntetésének letöltését, vagy a vele szemben elrendelt kényszergyógykezelés végrehajtását nem kezdte meg, és emiatt körözését rendelték el, de az európai elfogatóparancs vagy a nemzetközi elfogatóparancs kibocsátásának törvényi feltételei nem állnak fenn,
 
-e) arról a nem EGT-állampolgár külföldiről, aki beutazási és tartózkodási tilalom hatálya alatt áll, kivéve, ha a beutazási és tartózkodási tilalom elrendelésére a kiszabott, de meg nem fizetett helyszíni bírság vagy szabálysértési bírság végrehajtásának eredménytelensége miatt került sor,
+e) arról a nem EGT-állampolgár külföldiről, aki beutazási és tartózkodási tilalom hatálya alatt áll, kivéve, ha a beutazási és tartózkodási tilalom elrendelésére a magyar állam által megtérítési kötelezettséggel megelőlegezett költség vissza nem térítése vagy a kiszabott, de meg nem fizetett helyszíni bírság vagy szabálysértési bírság végrehajtásának eredménytelensége miatt került sor,
 
-f) arról a személyről vagy gépjárműről, akivel avagy amellyel kapcsolatban az eljárás jellegének leplezésével (puhatolás) vagy a kilétét leplező fedett nyomozó igénybevételével a Rendőrség vagy a Vám- és Pénzügyőrség információgyűjtést vagy adatellenőrzést végez,
+f) arról a személyről vagy gépjárműről, akivel vagy amellyel kapcsolatban a Rendőrség vagy a Vám- és Pénzügyőrség leplezett figyelést rendelt el,
 
 g) arról a 6. § (3) bekezdésében meghatározott tárgyról, amelynek körözését rendelték el,
 
