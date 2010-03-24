@@ -1,6 +1,6 @@
-37/B. § (1) A munkáltatói jogkört gyakorló elöljáró a szolgálati viszony fennállása alatt évente, írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a hivatásos állomány tagját annak igazolására, hogy a hivatásos állomány tagjával szemben nem áll fenn a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény.
+37/B. § (1) A munkáltatói jogkört gyakorló elöljáró a szolgálati viszony fennállása alatt írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a hivatásos állomány tagját annak igazolására, hogy a hivatásos állomány tagjával szemben nem áll fenn a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény.
 
-(2) Ha az (1) bekezdésben meghatározott felhívásra a hivatásos állomány tagja igazolja, hogy vele szemben a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, a fegyveres szerv az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a hivatásos állomány tagja részére megtéríti.
+(2) Ha az (1) bekezdésben meghatározott felhívásra a hivatásos állomány tagja igazolja, hogy vele szemben – a munkáltatói jogkört gyakorló elöljáró által hivatalosan ismert adatokon túl – a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, a fegyveres szerv az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a hivatásos állomány tagja részére megtéríti.
 
 (3) A fegyveres szerv a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény fennállásának megállapítása céljából kezeli
 

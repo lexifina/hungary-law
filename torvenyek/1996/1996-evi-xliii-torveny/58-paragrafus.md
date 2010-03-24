@@ -8,6 +8,6 @@ c) a terhesség ideje, a szülést követő 3 hónap, illetőleg a szülési sza
 
 d) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság.
 
-(2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány szolgálati vagy rokkantsági nyugdíjra jogosult, illetőleg a szolgálatra méltatlanná vált tagja szolgálati viszonyának a megszüntetésére.
+(2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány szolgálati vagy rokkantsági nyugdíjra jogosult, a szolgálatra méltatlanná vagy a 258. § (4) bekezdés alapján alkalmatlanná vált tagja szolgálati viszonyának a megszüntetésére.
 
 (3) Az (1) bekezdésben meghatározott védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó.

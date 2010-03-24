@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-43-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2010-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1996-43-00-00.53 |
+| 2010-03-24 | 2010. évi XL. törvény | 1996-43-00-00.54 |

@@ -135,11 +135,3 @@ VI. A szolgálat teljesítésének adatai:
 – fenyítés(ek) és a folyamatban levő fegyelmi eljárások adatai,
 
 – folyamatban levő büntetőeljárás(ok), büntető ügyben hozott érdemi döntések adatai
-
-– legutóbbi minősítés ideje,
-
-– külföldi szolgálati hely(ek), idő,
-
-– szabadságolási adatok,
-
-– sebesülések,

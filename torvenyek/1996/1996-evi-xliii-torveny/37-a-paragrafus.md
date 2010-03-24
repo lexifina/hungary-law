@@ -12,6 +12,6 @@ d) korábban már rendelkezett hivatásos szolgálati viszonnyal, és az az 53. 
 
 a) a szolgálati viszony létesítését megelőzően a hivatásos állomány tagjaként szolgálati viszonyt létesíteni szándékozó személy,
 
-b) a hivatásos állomány tagja – a szolgálati viszony fennállása alatt – a munkáltatói jogkört gyakorló elöljáró írásbeli felhívására évente, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a hivatásos állomány tagján kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul
+b) a hivatásos állomány tagja – a szolgálati viszony fennállása alatt – a munkáltatói jogkört gyakorló elöljáró írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a hivatásos állomány tagján kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul
 
 hatósági bizonyítvánnyal igazolja.

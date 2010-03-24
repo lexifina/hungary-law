@@ -38,7 +38,7 @@ b) akit – a d) pontban meghatározott eseteken kívül – a bíróság joger�
 
 c) aki szolgálaton kívüli magatartásával a fegyveres szerv működéséhez szükséges közbizalom fenntartását súlyosan veszélyezteti;
 
-d) akinek büntetőjogi felelősségét a bíróság szolgálati viszony keretében vagy annak felhasználásával, 2009. december 31-ét követően szándékosan elkövetett bűncselekmény miatt jogerősen megállapította, és a szolgálati viszony az a)–c) pontban, valamint az 53. § g) pontban foglaltak alapján nem szűnt meg.
+d) akivel szemben a bíróság – katonai bűntett kivételével – szolgálati viszony keretében vagy annak felhasználásával, 2009. december 31-ét követően elkövetett bűntett miatt jogerősen büntetést szabott ki, és a szolgálati viszonya az a)–c) pontban, valamint az 53. § g) pontban foglaltak alapján nem szűnt meg.
 
 (7) A miniszter a (6) bekezdés a) és b) pontja esetén a méltatlanság megállapításától eltekinthet. A (6) bekezdés a) pontja esetén erre csak akkor kerülhet sor, ha a szabadságvesztés mértéke az 1 évet nem haladja meg.
 

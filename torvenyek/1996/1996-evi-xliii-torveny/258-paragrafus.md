@@ -14,12 +14,12 @@ bb) életvitele kifogástalanságának a felvételét megelőzően és a szolgá
 
 (3) A biztonsági ellenőrzés során az ellenőrzést folytató fegyveres szerv és az RSZVSZ kezelheti az ellenőrzöttel egy háztartásban élők nevét, a vele fennálló kapcsolatuk jellegét, valamint a közeli hozzátartozói nevét, lakcímét, illetve tartózkodási helyét.
 
-(4) Ha a 258/A. § alapján elrendelt biztonsági ellenőrzés megállapítja, hogy az életvitel kifogásolható és a törvényes, befolyástól mentes szolgálatellátást veszélyeztető körülmény áll fenn, a felvételt el kell utasítani, illetőleg a hivatásos állományú szolgálati viszonyát – feltéve, hogy 30 napon belül a kifogásolt életvitelt nem változtatja meg, illetve a törvényes és befolyástól mentes szolgálatellátást veszélyeztető körülményt nem szünteti meg, és szolgálati viszonya az 53. § g) pontban vagy az 56. § (6) bekezdésben foglaltak alapján nem szűnt meg – alkalmatlanság miatt felmentéssel meg kell szüntetni.
+(4) Ha a 258/A. § alapján elrendelt biztonsági ellenőrzés megállapítja, hogy az életvitel kifogásolható és a törvényes, befolyástól mentes szolgálatellátást veszélyeztető körülmény áll fenn, a felvételt el kell utasítani, illetőleg a hivatásos állományú szolgálati viszonyát – feltéve, hogy 30 napon belül a kifogásolt életvitelt nem változtatja meg, illetve a törvényes és befolyástól mentes szolgálatellátást veszélyeztető körülményt nem szünteti meg, és szolgálati viszonya az 53. § g) pontban vagy az 56. § (6) bekezdésben foglaltak alapján nem szűnt meg – alkalmatlanság miatt felmentéssel meg kell szüntetni, kivéve, ha a miniszter az 56. § (7) bekezdése alapján a méltatlanság megállapításától eltekintett.
 
 (5) Ha a jelentkezés alapján a hivatásos szolgálati viszony nem jön létre, illetve a szolgálati viszony megszűnik, akkor az (1) bekezdés b) pontjában előírt biztonsági ellenőrzés során szerzett adatokat haladéktalanul meg kell semmisíteni.
 
 (6) Többes állampolgárságú magyar állampolgár szolgálati viszonyának létesítését a miniszter engedélyezi.
 
-(7) Nem állapítható meg a kifogástalan életvitel, ha az érintett büntetőjogi felelősségét hivatalból üldözendő bűncselekmény szándékos elkövetése miatt a bíróság jogerősen megállapította, és büntetést szabott ki, ha a bűncselekményt 2009. december 31-ét követően követték el.
+(7) Nem állapítható meg a kifogástalan életvitel, ha az érintettre nem szolgálati viszony keretében vagy annak felhasználásával elkövetett, hivatalból üldözendő bűntett elkövetése miatt a bíróság jogerősen büntetést szabott ki, ha a bűncselekményt 2009. december 31-ét követően követték el.
 
 (8) A biztonsági ellenőrzés céljából az ellenőrzést folytató szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra a tényre irányulhat, hogy a (7) bekezdésben meghatározott körülmény – a bűnügyi nyilvántartási rendszer adatállománya alapján – az ellenőrzött személlyel szemben fennáll-e.
