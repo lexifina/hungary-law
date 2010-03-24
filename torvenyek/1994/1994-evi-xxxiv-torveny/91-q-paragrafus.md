@@ -10,7 +10,9 @@ c) külön jogszabályban meghatározottak szerint a Rendőrség által kiadott 
 
 d) az ismeretlen holttestek és a rendkívüli halálesetek jellemzőit a holttest azonosításáig, illetve a holttest megtalálásától vagy a haláleset bekövetkezésétől számított húsz évig,
 
-e) a szakhatósági és engedélyezési nyilvántartási rendszerben a kiadott engedély és szakhatósági hozzájárulás alapján az engedéllyel és szakhatósági hozzájárulással érintett személy személyazonosító és lakcím adatát, továbbá az engedély tárgyával, illetve a szakhatósági hozzájárulással folytatott tevékenységgel összefüggő adatokat az engedély időtartamának lejártától, illetve a visszavonástól számított két évig.
+e) a szakhatósági és engedélyezési nyilvántartási rendszerben a kiadott engedély és szakhatósági hozzájárulás alapján az engedéllyel és szakhatósági hozzájárulással érintett személy személyazonosító és lakcím adatát, továbbá az engedély tárgyával, illetve a szakhatósági hozzájárulással folytatott tevékenységgel összefüggő adatokat az engedély időtartamának lejártától, illetve a visszavonástól számított két évig,
+
+f) a hozzátartozók közötti erőszak alapján hozott ideiglenes megelőző távoltartó határozattal érintett személyek természetes személyazonosító adatait, lakcím adatait, a hozzátartozók közötti erőszakot megvalósító cselekmény jellemzőit, a hozzátartozók közötti erőszak megállapítását igazoló adatokat, az erre utaló bizonyítékokat, eszközöket az ideiglenes megelőző távoltartó határozat hatályának megszűnésétől számított egy évig.
 
 (2) A Rendőrség az (1) bekezdés a) pontja alapján vezetett nyilvántartásban szereplő személyek személyazonosító és lakcímadatainak megállapításához, illetőleg egyeztetéséhez a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott adatokat – a személyi azonosító használatával – igényelheti a személyi adat- és lakcímnyilvántartás szervétől, valamint a személyi azonosítót e nyilvántartásaiban belső azonosítóként használhatja.
 

@@ -16,7 +16,7 @@ f) az adóhatóság által vezetett nyilvántartásból,
 
 g) a közúti közlekedési nyilvántartásokból (az engedély-nyilvántartás, a járműnyilvántartás, a származás-ellenőrzési nyilvántartás, az okmánytár, a parkolási igazolvány nyilvántartás és az előzetes eredetiségvizsgálati nyilvántartás),
 
-h) a bűnügyi nyilvántartásból (a bűntettesek, a kényszerintézkedés alatt állók, a büntetőeljárás alatt állók, az ujj- és tenyérnyomatok, a fényképek, valamint a DNS-profilok nyilvántartása),
+h) törvényben meghatározottak szerint a bűnügyi nyilvántartási rendszer nyilvántartásaiból, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásaiból,
 
 i) a büntetés-végrehajtási intézetekben fogvatartottak nyilvántartásából,
 
@@ -24,7 +24,7 @@ j) a központi idegenrendészeti nyilvántartásból,
 
 k) a menekültügyi nyilvántartásból,
 
-l) a határrendészeti nyilvántartásból,
+l)
 
 m) a személyszállítást végző légi fuvarozóknak a légi közlekedésről szóló törvény alapján kezelt adatokat tartalmazó adatbázisából,
 
@@ -38,7 +38,9 @@ r) az ingatlan-nyilvántartásból,
 
 s) az egyéni vállalkozói igazolvánnyal rendelkező vállalkozók nyilvántartásából,
 
-t) a közjegyzői zálogjogi nyilvántartásból.
+t) a közjegyzői zálogjogi nyilvántartásból,
+
+u) a központi szabálysértési nyilvántartásból.
 
 (3) Az általános munkarend korlátaitól függetlenül kérhető adat a (2) bekezdés a), d), i), j), k) és m) pontjaiban felsorolt nyilvántartásokból, a közúti közlekedési nyilvántartások közül az engedély-nyilvántartásból és a járműnyilvántartásból, valamint a bűnügyi nyilvántartások közül a bűntettesek nyilvántartásából. Az adatkéréseket hiányos és töredékadatok esetén is teljesíteni kell.
 

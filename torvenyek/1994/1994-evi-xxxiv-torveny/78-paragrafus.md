@@ -2,7 +2,7 @@
 
 (2) A
 
-a) megyei (budapesti) rendőr-főkapitányság adatait a rendőrfőkapitány,
+a) megyei (fővárosi) rendőr-főkapitányság adatait a rendőrfőkapitány,
 
 b) rendőrkapitányság, illetve a határrendészeti kirendeltség adatait a rendőrkapitány, illetve a határrendészeti kirendeltség vezetője
 

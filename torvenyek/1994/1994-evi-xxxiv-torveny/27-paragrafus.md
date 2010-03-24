@@ -1,6 +1,6 @@
 ## Díjkitűzés
 
-27. § (1) A Rendőrség a 84. § j) pontjában felsorolt bűncselekmények és a bűncselekmény elkövetésével gyanúsítható személy felderítése, a rejtőzködő vagy szökésben lévő elkövető elfogásának elősegítése, eltűnt személy megtalálásának érdekében a nyomozás eredményességét, illetőleg a szükséges rendőri intézkedést közvetlenül elősegítő személy részére előzetesen és nyilvánosan díjat tűzhet ki.
+27. § (1) A Rendőrség a 91/A. § (1) bekezdés e) pontjában felsorolt bűncselekmények és a bűncselekmény elkövetésével gyanúsítható személy felderítése, a rejtőzködő vagy szökésben lévő elkövető elfogásának elősegítése, eltűnt személy megtalálásának érdekében a nyomozás eredményességét, illetőleg a szükséges rendőri intézkedést közvetlenül elősegítő személy részére előzetesen és nyilvánosan díjat tűzhet ki.
 
 (2) A kitűzött díjra nem tarthat igényt az a személy, akit jogszabály alapján feljelentési kötelezettség terhel, valamint az elkövető, továbbá az, aki a korábban tett tanúvallomásában a nyomozás szempontjából fontos tényt vagy körülményt elhallgatott, illetőleg valótlan adatot közölt.
 

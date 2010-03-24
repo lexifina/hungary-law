@@ -8,7 +8,7 @@ b) rendőr-főkapitányságokat, rendőrkapitányságokat, határrendészeti kir
 
 c) meghatározza a rendőrség szerveinek feladatát és hatáskörét,
 
-d) meghatározza a közbiztonságra veszélyt jelentő egyes eszközök és anyagok, valamint a polgári felhasználású robbanóanyagok és pirotechnikai termékek gyártására, forgalmazására, szállítására, tárolására, birtoklására és használatára vonatkozó szabályokat,
+d) meghatározza a közbiztonságra veszélyt jelentő egyes eszközök és anyagok, valamint a polgári felhasználású robbanóanyagok gyártására, forgalmazására, szállítására, tárolására, birtoklására és használatára vonatkozó szabályokat,
 
 e) meghatározza a személyes javak rendőri intézkedés keretében történő igénybevételével és a kártalanítással kapcsolatos eljárás szabályait,
 
@@ -22,7 +22,9 @@ i) meghatározza a határterülethez tartozó településeket, valamint a nemzet
 
 j) állapítsa meg a határátkelőhely területére nem határátlépés céljából történő belépés és tartózkodás rendjét,
 
-k) állapítsa meg a kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat.
+k) állapítsa meg a kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat,
+
+l) állapítsa meg a kerékbilincs alkalmazásával, a járművek elszállításával, valamint az ezen intézkedések során felmerült költségekkel kapcsolatos szabályokat.
 
 (2)
 

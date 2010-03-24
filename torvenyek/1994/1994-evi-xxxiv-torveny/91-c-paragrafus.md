@@ -1,4 +1,4 @@
-91/C. § (1) A Rendőrség bűnüldözési célból jogosult átvenni és az egyedi ügyhöz kapcsolódóan kezelni a bűnügyi nyilvántartásban szereplő adatokat, valamint a hatáskörébe tartozó üggyel összefüggésben a 84. § (2) bekezdésében foglaltakon túlmenően egyéb, általa jogszerűen kezelhető adatot igényelhet bármely adatkezelő szervtől. A Rendőrség az adatszolgáltatás teljesítésére határidőt jelölhet meg. A megkeresett adatkezelő szerv – ha törvény eltérően nem rendelkezik – köteles a Rendőrség jogszerű adatszolgáltatás iránti igényét teljesíteni.
+91/C. § (1) A Rendőrség bűnüldözési célból jogosult átvenni és az egyedi ügyhöz kapcsolódóan kezelni a 84. § (2) bekezdés h) pontja szerinti nyilvántartásban szereplő adatokat, valamint a hatáskörébe tartozó üggyel összefüggésben a 84. § (2) bekezdésében foglaltakon túlmenően egyéb, általa jogszerűen kezelhető adatot igényelhet bármely adatkezelő szervtől. A Rendőrség az adatszolgáltatás teljesítésére határidőt jelölhet meg. A megkeresett adatkezelő szerv – ha törvény eltérően nem rendelkezik – köteles a Rendőrség jogszerű adatszolgáltatás iránti igényét teljesíteni.
 
 (2) A Rendőrség a bűnüldözési feladatai ellátása céljából – személy- és tárgykörözés során, illetőleg lakhelyelhagyási tilalom, házi őrizet elrendelése vagy biztosíték letétbe helyezésének engedélyezése esetén, továbbá nemzetközi kötelezettségvállalás alapján – jelzés elhelyezését rendelheti el az alábbi nyilvántartásokban:
 
@@ -12,7 +12,7 @@ d) a bűntettesek (bíróság által jogerősen elítéltek) nyilvántartása,
 
 f) a büntetés-végrehajtási intézetekben fogvatartottak nyilvántartása,
 
-g) a határrendészeti nyilvántartás,
+g)
 
 h) az ingatlan-nyilvántartás, és
 
