@@ -1,0 +1,3 @@
+## 3. § Az R. 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A Mehib Zrt. a (2) és (3) bekezdés szerinti biztosítási események miatti tényleges fizetések összegéről, devizaneméről és értéknapjáról haladéktalanul értesíti a PM-et, és egyidejűleg – számlaszámának megjelölésével – kéri a biztosításból eredően fizetendő összeg költségvetésből történő folyósítását. A PM – a fedezetnyújtás alapját képező ügylet és a biztosítási ügylet tartalmi vizsgálata nélkül – az igénylés beérkezésétől számított 10 munkanapon belül megküldi a Magyar Államkincstár részére a biztosításból eredően fizetendő összeget tartalmazó utalványt. Az utalványon szereplő összeget a Magyar Államkincstár átutalja a Mehib Zrt. által megjelölt devizanemben, értéknapra és számla javára.”

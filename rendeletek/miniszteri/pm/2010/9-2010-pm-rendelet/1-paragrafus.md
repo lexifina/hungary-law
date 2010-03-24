@@ -1,0 +1,5 @@
+1. § (1) A Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet (a továbbiakban: R.) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az Eximbank az (1) bekezdés szerinti garanciaügyletek tényleges beváltásának összegéről, devizaneméről és értéknapjáról haladéktalanul értesíti a PM-et, és egyidejűleg – számlaszámának megjelölésével – kéri a beváltott garanciának megfelelő összeg költségvetésből történő folyósítását. A PM – a fedezetnyújtás alapját képező ügylet és a garanciaügylet tartalmi vizsgálata nélkül – az igénylés beérkezésétől számított 10 munkanapon belül megküldi a Magyar Államkincstár részére a garanciabeváltás összegét tartalmazó utalványt. Az utalványon szereplő összeget a Magyar Államkincstár átutalja az Eximbank Zrt. által megjelölt devizanemben, értéknapra és számla javára.”
+
+(2) Az R. 2. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
