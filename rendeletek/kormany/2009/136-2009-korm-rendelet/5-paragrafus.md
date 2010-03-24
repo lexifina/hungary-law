@@ -8,7 +8,10 @@
 
 (5)[^19] Az előirányzat terhére teljesített kifizetésnek kell tekinteni a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti engedélyesnek az egyetemes szolgáltatási árrésen elért, a külön jogszabályban meghatározott szinthez képesti többlet terhére a rászoruló lakossági villamosenergia-fogyasztókat támogató alapítvány, illetve kiemelkedően közhasznú szervezet javára teljesített befizetéseit.
 
+(6)[^20] A szociál- és nyugdíjpolitikáért felelős miniszter az előirányzat e rendelkezés hatálybalépését követően jóváírt bevételeinek terhére – a 2008. szeptember 30-át követően kilakoltatott, kiskorú gyermeket nevelő családok lakhatását elősegítő program megvalósítására, az előirányzat javára 2010. február 12-éig teljesített befizetések legfeljebb 6%-a erejéig – külön támogatási keretösszeget különíthet el.
+
 [^16]: Az 5. § (1) bekezdése a 9/2010. (I. 28.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
 [^17]: Az 5. § (3) bekezdése a 9/2010. (I. 28.) Korm. rendelet 2. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^18]: Az 5. § (4) bekezdését a 251/2009. (XI. 13.) Korm. rendelet 5. §-a iktatta be.
 [^19]: Az 5. § (5) bekezdését a 335/2009. (XII. 29.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^20]: Az 5. § (6) bekezdését az 56/2010. (III. 16.) Korm. rendelet 1. §-a iktatta be.
