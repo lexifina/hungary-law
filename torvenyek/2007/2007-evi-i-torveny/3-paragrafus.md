@@ -6,9 +6,9 @@
 
 3. § (1) Az EGT-állampolgár érvényes úti okmánnyal vagy személyazonosító igazolvánnyal jogosult beutazni a Magyar Köztársaság területére.
 
-(2) Az EGT-állampolgárt, illetve a magyar állampolgárt kísérő vagy a Magyar Köztársaság területén tartózkodó EGT-állampolgárhoz, illetve magyar állampolgárhoz csatlakozó harmadik ország állampolgárságával rendelkező családtag érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes vízummal jogosult beutazni a Magyar Köztársaság területére.
+(2) Az EGT-állampolgárt, illetve a magyar állampolgárt kísérő vagy a Magyar Köztársaság területén tartózkodó EGT-állampolgárhoz, illetve magyar állampolgárhoz csatlakozó harmadik ország állampolgárságával rendelkező családtag érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes három hónapot meg nem haladó tartózkodásra jogosító vízummal jogosult beutazni a Magyar Köztársaság területére.
 
-(3) Érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes vízummal családtagként jogosult beutazni a Magyar Köztársaság területére az a harmadik ország állampolgárságával rendelkező személy is, aki
+(3) Érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes három hónapot meg nem haladó tartózkodásra jogosító vízummal családtagként jogosult beutazni a Magyar Köztársaság területére az a harmadik ország állampolgárságával rendelkező személy is, aki
 
 a) a magyar állampolgár eltartottja, vagy vele legalább egy éve egy háztartásban él, illetve akiről súlyos egészségügyi okból a magyar állampolgár személyesen gondoskodik, vagy
 

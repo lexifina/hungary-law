@@ -1,4 +1,4 @@
-73. § (1) A vízum kiadására irányuló eljárásban a fordítási és tolmácsolási költséget, továbbá a jeltolmácsolás költségét (a továbbiakban: az anyanyelv használatával kapcsolatos költség) a kérelmező viseli.
+73. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum kiadására irányuló eljárásban a fordítási és tolmácsolási költséget, továbbá a jeltolmácsolás költségét (a továbbiakban: az anyanyelv használatával kapcsolatos költség) a kérelmező viseli.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően az e törvényben szabályozott kérelemre indult eljárásokban a döntés közlésével felmerülő, az anyanyelv használatával kapcsolatos költségeket az eljáró hatóság viseli, az egyéb eljárási cselekmények elvégzésével felmerülő, az anyanyelv használatával kapcsolatos költséget a kérelmező viseli.
 

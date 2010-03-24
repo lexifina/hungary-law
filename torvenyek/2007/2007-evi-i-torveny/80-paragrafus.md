@@ -2,7 +2,7 @@
 
 a) az EGT-állampolgár és a családtag nevét, születési helyét és idejét, anyja nevét, állampolgárságát, személyazonosító jelét,
 
-b) az elveszettként bejelentett úti okmány típusát és számát,
+b) az elveszettként eltulajdonítottként vagy megsemmisültként bejelentett úti okmány, illetve személyazonosító igazolvány típusát és azonosító adatait, valamint a Schengeni Információs Rendszerbe elhelyezett figyelmeztető jelzés tényét,
 
 c) a bejelentés időpontját,
 
