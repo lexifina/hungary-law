@@ -4,7 +4,7 @@
 
 (2) Az elveszettnek hitt és az erről szóló bejelentés után megtalált úti okmányról az idegenrendészeti hatóságot haladéktalanul értesíteni kell.
 
-(3) Az idegenrendészeti hatóság a harmadik országbeli állampolgár úti okmányának, illetve tartózkodásra jogosító engedélyének körözését rendelheti el, ha az okmány holléte ismeretlen.
+(3)
 
 (4) Az elveszett, eltulajdonított, megsemmisült vagy lejárt úti okmány helyett – ha nemzetközi szerződés másként nem rendelkezik – a harmadik országbeli állampolgár köteles új úti okmányt beszerezni. A harmadik országbeli állampolgár az új úti okmány, valamint az (1) bekezdésben foglalt – a bejelentésről szóló – igazolás vagy a lejárt úti okmány birtokában hagyhatja el az ország területét.
 

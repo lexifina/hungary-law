@@ -2,7 +2,7 @@
 
 a) a természetes személyazonosító adatok;
 
-b) az elveszettként, eltulajdonítottként vagy megsemmisültként bejelentett úti okmány típusa és azonosító adatai;
+b) az elveszettként, eltulajdonítottként vagy megsemmisültként bejelentett úti okmány, illetve tartózkodási engedély típusa és azonosító adatai, valamint a Schengeni Információs Rendszerbe elhelyezett figyelmeztető jelzés ténye;
 
 c) a bejelentés időpontja;
 
