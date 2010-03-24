@@ -28,4 +28,6 @@ k) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megad
 
 a) a Tanács 343/2003/EK (2003. február 18.) rendelete az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról;
 
-b) a Tanács 2725/2000/EK (2000. december 11.) rendelete a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról.
+b) a Tanács 2725/2000/EK (2000. december 11.) rendelete a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról;
+
+c) az Európai Parlament és a Tanács 767/2008/EK (2008. július 9.) rendelete a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) [35. §, 83. §].
