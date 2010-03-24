@@ -16,11 +16,11 @@ a) a közvetlenül alkalmazandó európai közösségi jogi aktusban meghatároz
 
 b) az útlevél iránti kérelem benyújtásakor a második biometrikus adat adására átmenetileg fizikailag képtelen személyek esetében, valamint
 
-c) azon személyek esetében, akiknek az útlevél iránti kérelem előterjesztésekor történő személyes megjelenését – a kezelőorvos által kiállított igazolás szerint – egészségi állapotuk nem teszi lehetővé,
+c) azon személyek esetében, akiknek az útlevél iránti kérelem előterjesztésekor történő személyes megjelenését – a kezelőorvos által kiállított igazolás szerint – egészségi állapotuk nem teszi lehetővé.
 
-d) külföldön tartózkodó személy esetén, ha az útlevele, illetve a külföldre utazáshoz felhasznált személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, amennyiben a további tartózkodás, tovább-, illetve hazautazása céljából az ideiglenes magánútlevél nem használható fel.
+d)
 
-(5) A (4) bekezdés alapján kiadott útlevél érvényességi ideje – a 18. életévét be nem töltött személy számára kiadott okmány kivételével – egy év.
+(5) A (4) bekezdés b) és c) pontja alapján kiadott útlevél érvényességi ideje egy év.
 
 (6) Az ideiglenes magánútlevél adatoldala az (1) bekezdésben meghatározott adatokon kívül tartalmazza az ellenőrző sorszámot, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását. A hazatérés céljából kiállított ideiglenes magánútlevél az (1) bekezdés c) pontjában meghatározott adatot a gépi kiállításhoz szükséges technikai feltételek fennállása esetén tartalmazza.
 

@@ -1,6 +1,6 @@
-10. § (1) A magyar állampolgár részére külföldön való további tartózkodásához, tovább-, illetve hazautazásához legfeljebb egy évig érvényes ideiglenes magánútlevelet lehet kiállítani, ha az állampolgár útlevele, illetőleg a külföldre utazáshoz felhasznált személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították.
+10. § (1) A magyar állampolgár részére külföldön való további tartózkodásához, tovább- és hazautazásához legfeljebb egy évig érvényes ideiglenes magánútlevelet lehet kiállítani, ha az állampolgárnak a külföldre utazáshoz felhasznált útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és az utazásig magánútlevél nem állítható ki.
 
-(2) Külföldön tartózkodó magyar állampolgár kérelmére hazatérés céljából ideiglenes magánútlevelet kell kiállítani legfeljebb hat hónapos érvényességi időtartammal, ha az állampolgár útlevele, illetőleg a külföldre utazáshoz felhasznált személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították.
+(2) Külföldön tartózkodó magyar állampolgár kérelmére hazatérés céljából ideiglenes magánútlevelet kell kiállítani legfeljebb hat hónapos érvényességi időtartammal, ha az állampolgárnak a külföldre utazáshoz felhasznált útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és a hazautazásig magánútlevél nem állítható ki.
 
 (3) Az ideiglenes magánútlevelet legfeljebb hat hónapos érvényességi időtartammal hivatalból kell kiadni
 
