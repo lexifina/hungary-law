@@ -1,37 +1,43 @@
-## 1. számú táblázat
+## 1. táblázat a Mehib Zrt. által vállalt más hitelbiztosító által viszontbiztosított biztosítási kötelezettségvállalásról a Mehib Korm. rendelet alapján
 
-## A MEHIB Zrt. által vállalt más hitelbiztosító által viszontbiztosított biztosítási kötelezettségvállalásról
+|  | A | B | C | D | E | F | G | H | I | J |
 
-| Módozat | Ország | Mehib által vállalt összes kötelezettség összege | ...év ...n.év | Lejárat | Összesen | VB neve | VB % | Összeg Ft |
+| 1. | Módozat | Ország | Mehib által vállalt összes kötelezettség összege | ... év ... negyed- év | Lejárati év | Összesen | Viszont- biztosító neve | VB% | Összesen (Forint) |
 
-| Ft | USD | 2004 | 2005 | 2006 |
+| Forint | Deviza |
 
-| Összesen: |  |  |  |  |  |  |  |  |  |  |
+| ... |  |  |  |  |  |  |  |  |  |  |
 
-## Dátum: .......................................................................................
+| 2. | Összesen: |  |  |  |  |  |  |  |  |  |
 
-## Készítette: ..................................................................................
+## Dátum: ............................................................
 
-|  | ............................................................ |
+## Készítette: ......................................................
 
-|  | cégszerű aláírás |
+## ...........................................................
 
-## 2. számú táblázat
+## Cégszerű aláírás
 
-## A viszontbiztosító által teljesített fizetés elszámolása
+## 2. táblázat a viszontbiztosító által teljesített fizetés elszámolásáról a Mehib Korm. rendelet alapján
 
-| Módozat | Viszontbiztosító neve | Viszontbiztosító % | Összeg USD | Árfolyam Ft/USD | Összeg Ft |
+|  | A | B | C | D | E | F |
 
-| Összesen: |  |  |  |
+| 1. | Módozat | Viszontbiztosító | Összeg (Deviza) | Árfolyam | Összeg (Forint) |
 
-## Dátum: .......................................................................................
+| neve | % |
 
-## Készítette: ..................................................................................
+| ... |  |  |  |  |  |  |
 
-|  | ............................................................ |
+| 2. | Összesen: |  |  |  |  |  |
 
-|  | cégszerű aláírás |
+## Dátum: .......................................................
 
-9. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^43]
+## Készítette: .................................................
 
-[^43]: A 9. számú mellékletet a 15/2006. (V. 17.) PM rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+## ...........................................................
+
+## Cégszerű aláírás
+
+9. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^48]
+
+[^48]: A 9. számú mellékletet a 15/2006. (V. 17.) PM rendelet 6. § (3) bekezdése hatályon kívül helyezte.

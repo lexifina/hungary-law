@@ -1,21 +1,27 @@
 ## Várható kárfizetési állomány előrejelzése
 
-| Ügyfél | Ország | Ügylet | Kárfizetés | Árfolyam (Ft/USD) | Kárfizetés |
+|  | A | B | C | D | E | F | G | H |
 
-| jogcíme | várható időpontja | Ft | USD |
+| 1. | Ügyfél | Ország | Ügylet | Kárfizetés | Árfolyam (Forint/ Deviza) | Kárfizetés |
 
-| Módozatonként |  |  |  |  |  |  |  |
+| jogcíme | várható időpontja | Forint | Deviza |
 
-| Év: | Negyedéves várható kárfizetés összesen: |  |  |
+| 2. | Módozatonként |  |  |  |  |  |  |  |
 
-## Dátum: ………………………………………………
+| ... |  |  |  |  |  |  |  |  |
 
-## Készítette: ………………………………………………
+| 3. | Év: |  |  |  |  |  |  |  |
 
-## ………………………………………………
+| 4. | Negyedéves várható kárfizetés összesen: |  |  |  |  |  |  |  |
+
+## Dátum: ....................................................
+
+## Készítette: ..............................................
+
+## ...........................................................
 
 ## Cégszerű aláírás
 
-6. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^39]
+6. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^45]
 
-[^39]: A 6. számú melléklet a 15/2006. (V. 17.) PM rendelet 5. § (3) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit először a 2006. május 25. napját követő első elszámolási időszakra kell alkalmazni.
+[^45]: A 6. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (4) bekezdésével megállapított szöveg.

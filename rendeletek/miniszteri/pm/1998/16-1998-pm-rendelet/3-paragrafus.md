@@ -1,11 +1,11 @@
-3. § (1) Az Eximbank a központi költségvetés terhére vállalt garanciák nyújtásakor garanciadíjat számít fel. A garanciabeváltások nyomán keletkezett követelések behajtásával kapcsolatos költségeit a garancianyújtásból befolyó díjbevételekből finanszírozza.
+3. §[^8] (1) Az Eximbank a Magyar Állam készfizető kezessége mellett vállalt garanciák nyújtásakor garanciadíjat számít fel. A garanciabeváltások nyomán keletkezett követelések behajtásával kapcsolatos költségeit a garancianyújtásból befolyó díjbevételekből finanszírozza.
 
-(2) Az Eximbank a hozzá befolyt követeléseket a befolyást követő 5. banki munkanapig köteles a 10032000-01907003 APEH Állami kezességbeváltás folyósítási számla javára, ,,kezesség-visszatérülés'' megjegyzéssel átutalni. A devizában befolyt követelés forintértékét az átutalást megelőző napon érvényes, az MNB által hivatalosan közzétett devizaárfolyamon kell megállapítani.
+(2) Az Eximbank a hozzá befolyt követeléseket a befolyást követő 5. munkanapig a 10032000-01907003 APEH Állami kezességbeváltás folyósítása számla javára, a befolyás devizanemében „kezesség-visszatérülés” megjegyzéssel átutalja.
 
-(3) A befolyt kamat és késedelmi kamat összegeit az Eximbanknak a befolyás tudomására jutását követő 5. banki munkanapig át kell utalnia a költségvetés javára, a 10032000-01907003 APEH Állami kezességbeváltás folyósítási számla javára, ,,kezesség-visszatérülés'' megjegyzéssel.
+(3) A befolyt kamat és késedelmi kamat összegeit az Eximbank a befolyás tudomására jutását követő 5. banki munkanapig a befolyás devizanemében átutalja a 10032000–01907003 APEH Állami kezességbeváltás folyósítása számla javára, „kezesség-visszatérülés” megjegyzéssel.
 
-(4) Az Eximbankot a költségvetés terhére vállalható garanciaügyletek beváltásából eredő, befolyt követelések kamat és késedelmi kamat nélkül számított összegének 5%-a illeti meg jutalékként.
+(4) Az Eximbankot a Magyar Állam készfizető kezessége mellett vállalható garanciaügyletek beváltásából eredő, befolyt követelések kamat és késedelmi kamat nélkül számított összegének 5%-a illeti meg jutalékként. Devizában befolyt megtérülés esetén a jutalék alapjának forint értékét a befolyás napján érvényes, az MNB által hivatalosan közzétett devizaárfolyamon állapítja meg.
 
-(5)[^4] Az Eximbank a jutalék folyósításához a (2) bekezdés szerinti átutalást követő hónap 15-éig elkészíti a 2. számú melléklet szerinti kimutatást, és a (4) bekezdés szerint számított jutalékot egyidejűleg igényli a PM-től a 10032000-01457058 Egyéb pénzügyi elszámolások kiadási számláról. A PM az igénylés beérkezésétől számított 10 munkanapon belül megküldi a Magyar Államkincstár részére a jutalék összegét tartalmazó utalványt.
+(5) Az Eximbank a jutalék folyósításához a (2) bekezdés szerinti átutalást követő hónap 15. napjáig elkészíti a 2. melléklet szerinti kimutatást, és a (4) bekezdés szerint megállapítja a jutalék összegét. A kimutatás alapján kiállított számla megküldésével egyidejűleg igényli a jutalék összegét a PM-től a 10032000–01457058 Egyéb pénzügyi elszámolások kiadási számláról. A PM az igénylés beérkezésétől számított 10 munkanapon belül megküldi a Magyar Államkincstár részére a jutalék összegét tartalmazó utalványt.
 
-[^4]: A 3. § (5) bekezdésének utolsó mondata az 5/2002. (II. 8.) PM rendelet 1. §-ával megállapított, valamint a 16/2003. (VII. 1.) PM rendelet 25. §-a szerint módosított szöveg.
+[^8]: A 3. § a 9/2010. (III. 23.) PM rendelet 2. §-ával megállapított szöveg.

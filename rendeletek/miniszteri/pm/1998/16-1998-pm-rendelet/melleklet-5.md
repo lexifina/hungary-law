@@ -1,89 +1,101 @@
-## 1. számú táblázat
+## 1. táblázat a biztosítási kötelezettségvállalási állományról ... év .... negyedévében
 
-## Biztosítási kötelezettségvállalási állomány 19... év .... negyedévében
+|  | A | B | C | D |
 
-| Megnevezés | Érték | Árfolyam (Ft/USD) |
+| 1. | Megnevezés | Érték | Árfolyam (Forint/USD) |
 
-| millió Ft | ezer USD |
+| millió Forint | ezer USD |
 
-| 1. Fedezetbe vett biztosítás |  |  |  |
+| 2. | 1. Fedezetbe vett biztosítás |  |  |  |
 
-| 2. Szerződött biztosítás |  |  |  |
+| 3. | 2. Szerződött biztosítás |  |  |  |
 
-| 3. Tényleges biztosítás (1.+2.) |  |  |  |
+| 4. | 3. Maximális kötelezettségvállalás („C” + „KKV”) |  |  |  |
 
-| 4. Feltételes biztosítás |  |  |  |
+| 5. | 4. Tényleges biztosítás (1+2+3.) |  |  |  |
 
-| 5. Fennálló biztosítás (3.+4.) |  |  |  |
+| 6. | 5. Feltételes biztosítás |  |  |  |
 
-| 6. Vállalási lehetőség (globállimit — 5.) |  |  |  |
+| 7. | 6. Fennálló biztosítás (4+5.) |  |  |  |
 
-## Dátum: ………………………………………………
+| 8. | 7. Vállalási lehetőség (globállimit – 6.) |  |  |  |
 
-## Készítette: ………………………………………………
+## „C” = Teljes forgalom típusú szállítói hitelbiztosítás teljesítés utáni időszakra, választható gyártási kockázat kiegészítéssel a Mehib Korm. rendelet alapján.
 
-## ………………………………………………
+## „KKV” = Kis és középvállalkozások számára nyújtott teljes forgalmú exporthitel biztosítás teljesítés utáni időszakra, választható gyártási kockázat kiegészítéssel a Mehib Korm. rendelet alapján.
 
-## Cégszerű aláírás
+## Dátum: ..............................................
 
-## 2. számú táblázat[^38]
+## Készítette: .........................................
 
-## Fedezetbe vett biztosítási állomány
-
-## Érték: M Ft, E USD
-
-| Ország | Lejárat (év) | Összesen |
-
-| Tárgyév I., II., III., IV. negyedév | Tárgyévet követő év | Tárgyévet követő második év | Tárgyévet követő harmadik év | Tárgyévet követő negyedik év | Tárgyévet követő negyedik év után |
-
-| Módozatonként |  |  |  |  |  |  |  |
-
-| Összesen: |  |  |  |  |  |  |  |
-
-## Dátum: ......................................................................
-
-## Készítette: .................................................................
-
-## .....................................................................
-
-## cégszerű aláírás
-
-## 3. számú táblázat
-
-## Szerződött (fedezetbe nem vett) biztosítási állomány 19.... év .... negyedévében
-
-| Ország | Érték |
-
-| M Ft | E USD |
-
-| Összesen: |  |  |
-
-## Dátum: ………………………………………………
-
-## Készítette: ………………………………………………
-
-## ………………………………………………
+## ...........................................................
 
 ## Cégszerű aláírás
 
-## 4. számú táblázat
+## 2. táblázat a fedezetbe vett biztosítási állományról
 
-## Feltételes biztosítási állomány 19.... év ..... negyedévében
+| Érték: M Ft, E USD |
 
-| Ország | Érték |
+|  | A | B | C | D | E | F | G | H |
 
-| M Ft | E USD |
+| 1. | Ország | Tárgyév (I., II., III., IV.) negyedév | Tárgyévet követő | Összesen |
 
-| Összesen: |  |  |
+| 1. lejárati év | 2. lejárati év | 3. lejárati év | 4. lejárati év | 5. lejárati év |
 
-## Dátum: ………………………………………………
+| 2. | Módozatonként |  |  |  |  |  |  |  |
 
-## Készítette: ………………………………………………
+| ... |  |  |  |  |  |  |  |  |
 
-## ………………………………………………
+| 4. | Összesen: |  |  |  |  |  |  |  |
+
+## Dátum: ....................................................
+
+## Készítette: ..............................................
+
+## ...........................................................
 
 ## Cégszerű aláírás
 
-5. számú melléklet a 16/1998. (V. 20.) PM rendelethez
+## 3. táblázat a szerződött (fedezetbe nem vett) biztosítási állományról ... év .... negyedévében
 
-[^38]: A 4. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit először a 2006. május 25. napját követő első elszámolási időszakra kell alkalmazni.
+|  | A | B | C |
+
+| 1. | Ország | Érték |
+
+| millió Forint | ezer USD |
+
+| ... |  |  |  |
+
+| 2. | Összesen: |  |  |
+
+## Dátum: ....................................................
+
+## Készítette: ..............................................
+
+## ...........................................................
+
+## Cégszerű aláírás
+
+## 4. táblázat a feltételes biztosítási állományról ... év .... negyedévében
+
+|  | A | B | C |
+
+| 1. | Ország | Érték |
+
+| millió Forint | ezer USD |
+
+| ... |  |  |  |
+
+| 2. | Összesen: |  |  |
+
+## Dátum: ....................................................
+
+## Készítette: ..............................................
+
+## ...........................................................
+
+## Cégszerű aláírás
+
+5. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^44]
+
+[^44]: Az 5. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (3) bekezdésével megállapított szöveg.

@@ -1,70 +1,69 @@
-## Kárkintlévőségi állomány ......... év ...... negyedév
+## Kárkintlévőségi állomány .... év ...... negyedév
 
-| Ügyfél | Ország | Biztosítási kötvény száma | A központi költségvetést megillető kárkintlévőség Mehib Zrt. nyilvántartása szerinti | 5 oszlopból a jogelődöktől átvett biztosítási szerződések alapján keletkezett kárkintlévőségek összege |
+|  | A | B | C | D | E | F | G |
 
-| összege összesen | ebből: | ere- deti lejá- rata |
+| 1. | Ügyfél | Ország | Kárfizetés éve | Kárkintlévőség összege | Kárkintlévőség összesen |
 
-| tőke | kamat |
+| Forint | Deviza | Forint | Deviza |
 
-| Ft | USD | Ft | USD | Ft | USD | (év) | USD |
+| 2. | Módozatonként |  |  |  |  |  |  |
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| ... |  |  |  |  |  |  |  |
 
-| Módozatonként |  |  |  |  |  |  |  |  |  |  |
+| 3. | Összesen |  |  |  |  |  |  |
 
-| Összesen: |  |  |  |  |  |  |  |  |  |  |
+## Dátum: ....................................................
 
-## Dátum: .....................................................................
+## Készítette: ..............................................
 
-## Készítette: ................................................................
+## ...........................................................
 
-## ..................................................................
+## Cégszerű aláírás
 
-## cégszerű aláírás
+7. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^46]
 
-7. számú melléklet a 16/1998. (V. 20.) PM rendelethez
+1. táblázat a kármegtérülés elszámolásról .... év ......... negyedévben
 
-1. számú táblázat[^40]
+|  | A | B | C | D | E | F | G | H |
 
-Kármegtérülés elszámolása
+| 1. | Ügyfél | Ország | Ügylet | Árfolyam | Kármegtérülés összege | Kárfizetés |
 
-.... év ......... negyedév
+| Forint | Deviza | Forint | Deviza |
 
-| Ügyfél | Ország | Biztosítási szerződés száma | Árfolyam | Kármegtérülés összege | Ebből: | Kárfizetés összege |
+| 2. | Módozatonként |  |  |  |  |  |  |  |
 
-| tőke | kamat |
+| ... |  |  |  |  |  |  |  |  |
 
-| Ft/USD | Ft | USD | Ft | USD | Ft | USD | Ft | USD |
+| 3. | Összesen: |  |  |  |  |  |  |  |
 
-| Módozatonként |  |  |  |  |  |  |  |  |  |  |  |
+Dátum: .................................................
 
-| Összesen: |  |  |  |  |  |  |  |  |  |  |  |
+Készítette: ...........................................
 
-Dátum: .....................................................................
-
-Készítette: ................................................................
-
-.....................................
-
-cégszerű aláírás
-
-2. számú táblázat[^41]
-
-Jelentés a Mehib Zrt. által a központi költségvetés javára behajtott kárkintlévőségekről
-
-| ...... év ........... hónapban befolyt tőkekövetelések |
-
-| Sorszám | Ország | Bonyolító hitelintézet | Ügyfél | Devizanem | Összeg, devizában | Összeg, forintban (jutalék alapja) | Jutalék, forintban |
-
-| Összesen: |  |  |  |
-
-Dátum: ………………………………………………
-
-Készítette: ………………………………………………
-
-………………………………………………
+...........................................................
 
 Cégszerű aláírás
 
-[^40]: A 7. számú melléklet 1. számú táblázata a 15/2006. (V. 17.) PM rendelet 5. § (4) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit először a 2006. május 25. napját követő első elszámolási időszakra kell alkalmazni.
-[^41]: A 7. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének b) pontja alapján módosított szöveg.
+2. táblázat a Mehib Zrt. által a Magyar Állam javára behajtott kárkintlévőségekről szóló jelentésről
+
+... év ... hónapban befolyt követelések
+
+|  | A | B | C | D | E | F | G | H |
+
+| 1. | Sorszám | Ország | Bonyolító hitelintézet | Ügyfél | Devizanem | Összeg | Jutalék |
+
+| Forint (jutalék alapja) | Deviza | Forint |
+
+| ... |  |  |  |  |  |  |  |  |
+
+| 2. | Összesen: |  |  |  |  |  |  |  |
+
+Dátum: ....................................................
+
+Készítette: ..............................................
+
+.........................................................
+
+Cégszerű aláírás
+
+[^46]: A 7. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (5) bekezdésével megállapított szöveg.

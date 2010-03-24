@@ -4,13 +4,13 @@
 
 (2) Az Eximbank az (1) bekezdés szerinti beszámolóban a következő negyedév várható garanciabeváltási kötelezettsége összegét is köteles jelezni.
 
-(3) Az Eximbank az (1) bekezdés szerinti garanciaügyletek tényleges beváltásának összegéről és értéknapjáról haladéktalanul értesíti a PM-et, és egyidejűleg a beváltás értéknapjára határidős beszedési megbízást nyújt be a 10032000-01907003 APEH Állami kezességbeváltás folyósítási számla terhére. A devizában kiadott garancia forintösszegét a határidős beszedési megbízás benyújtása napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell megállapítani.
+(3)[^4] Az Eximbank az (1) bekezdés szerinti garanciaügyletek tényleges beváltásának összegéről, devizaneméről és értéknapjáról haladéktalanul értesíti a PM-et, és egyidejűleg – számlaszámának megjelölésével – kéri a beváltott garanciának megfelelő összeg költségvetésből történő folyósítását. A PM – a fedezetnyújtás alapját képező ügylet és a garanciaügylet tartalmi vizsgálata nélkül – az igénylés beérkezésétől számított 10 munkanapon belül megküldi a Magyar Államkincstár részére a garanciabeváltás összegét tartalmazó utalványt. Az utalványon szereplő összeget a Magyar Államkincstár átutalja az Eximbank Zrt. által megjelölt devizanemben, értéknapra és számla javára.
 
-(4) Az Eximbank által ténylegesen kifizetett és a költségvetésből igényelt összeg dokumentált árfolyamváltozás miatt keletkezett különbözetét – a PM egyidejű értesítése mellett – az Eximbank egy újabb határidős beszedési megbízással jogosult igényelni, illetve köteles a költségvetés (3) bekezdésben megnevezett számlájára, ,,helyesbítés'' megjegyzéssel haladéktalanul befizetni.
+(4)[^5]
 
-(5) Az Eximbank a (3) bekezdés szerinti garanciabeváltás okafogyottságáról vagy a határidős beszedési megbízáson szereplőnél kisebb összegéről haladéktalanul köteles a PM-et értesíteni.
+(5)[^6] Az Eximbank a (3) bekezdés szerinti garanciabeváltás okafogyottságáról vagy az értesítésben szereplőnél kisebb összegéről haladéktalanul értesíti a PM-et.
 
-(6) Az Eximbank a központi költségvetés kockázatának felmérése céljából, a Kormány készfizető kezességével fedezett exportcélú garanciaügyletekből adódó be nem váltott kötelezettségeket negyedévente rendszeresen – a kintlévőségek, befektetések, a mérlegen kívüli tételek és a fedezetek minősítésének, illetőleg értékelésének szempontjaira vonatkozó rendelet általános előírásain túlmenően – a saját kockázatra vállalt kötelezettséggel azonos módon külön is köteles minősíteni. E minősítés során fedezetként nem vehető figyelembe a központi költségvetés készfizető kezességvállalása.
+(6)[^7] Az Eximbank a Magyar Állam kockázatának felmérése céljából, az állami készfizető kezességgel fedezett exportcélú garanciaügyletekből adódó be nem váltott kötelezettségeket negyedévente rendszeresen – a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet általános előírásaival összhangban – a saját kockázatra vállalt kötelezettséggel azonos módon külön is minősíti. E minősítés során fedezetként nem vehető figyelembe a Magyar Állam készfizető kezességvállalása.
 
 (7) Az Eximbank a (6) bekezdés szerinti minősítést követően a kötelezettségek egyes minősítési kategóriákba tartozó állományának nagyságáról a tárgynegyedévet követő hónap 15-éig tájékoztatja a PM-et.
 
@@ -18,3 +18,7 @@
 
 [^2]: Az 1. § az 5/2002. (II. 8.) PM rendelet 5. §-ának (2) bekezdése, valamint a 16/2003. (VII. 1.) PM rendelet 25. §-a, a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdése az 5/2002. (II. 8.) PM rendelet 5. §-ának (2) bekezdése, valamint a 16/2003. (VII. 1.) PM rendelet 25. §-a szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 9/2010. (III. 23.) PM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (4) bekezdését a 9/2010. (III. 23.) PM rendelet 11. §-a hatályon kívül helyezte.
+[^6]: A 2. § (5) bekezdése a 9/2010. (III. 23.) PM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (6) bekezdése a 9/2010. (III. 23.) PM rendelet 1. § (2) bekezdésével megállapított szöveg.

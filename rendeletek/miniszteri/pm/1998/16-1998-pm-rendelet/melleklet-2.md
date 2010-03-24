@@ -1,4 +1,4 @@
-## 1. számú táblázat[^31]
+## 1. számú táblázat[^36]
 
 ## Az Eximbank Zrt. .... év ....... negyedév végén fennálló kötelezettségállománya
 
@@ -30,7 +30,7 @@
 
 ## cégszerű aláírás
 
-## 2. számú táblázat[^32]
+## 2. számú táblázat[^37]
 
 ## Az Eximbank Zrt. .... év ....... negyedévi adósságszolgálati kötelezettsége
 
@@ -60,7 +60,7 @@
 
 2. számú melléklet a 16/1998. (V. 20.) PM rendelethez
 
-1. számú táblázat[^33]
+1. számú táblázat[^38]
 
 Negyedéves jelentés az Eximbank Zrt. garanciaállományáról
 
@@ -80,7 +80,7 @@ Készítette: ……………………………………………..
 
 Cégszerű aláírás
 
-2. számú táblázat[^34]
+2. számú táblázat[^39]
 
 Negyedéves jelentés
 
@@ -100,7 +100,7 @@ Készítette: ………………………………………………
 
 Cégszerű aláírás
 
-3. számú táblázat[^35]
+3. számú táblázat[^40]
 
 Jelentés az Eximbank Zrt. által a központi költségvetés javára behajtott tőkekövetelésekről
 
@@ -118,7 +118,7 @@ Készítette: ………………………………………………
 
 Cégszerű aláírás
 
-4. számú táblázat[^36]
+4. számú táblázat[^41]
 
 Negyedéves jelentés az Eximbank Zrt. kamatkiegyenlítési igényéről
 
@@ -142,9 +142,9 @@ Készítette: ................................................................
 
 cégszerű aláírás
 
-[^31]: Az 1. számú melléklet 1. számú táblázata az 5/2002. (II. 8.) PM rendelet 4. §-ával megállapított, valamint a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^32]: Az 1. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^33]: A 2. számú melléklet 1. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^34]: A 2. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^35]: A 2. számú melléklet 3. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^36]: A 2. számú melléklet 4. számú táblázata a 15/2006. (V. 17.) PM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit először a 2006. május 25. napját követő első elszámolási időszakra kell alkalmazni.
+[^36]: Az 1. számú melléklet 1. számú táblázata az 5/2002. (II. 8.) PM rendelet 4. §-ával megállapított, valamint a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^37]: Az 1. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^38]: A 2. számú melléklet 1. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^39]: A 2. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^40]: A 2. számú melléklet 3. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^41]: A 2. számú melléklet 4. számú táblázata a 15/2006. (V. 17.) PM rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján rendelkezéseit először a 2006. május 25. napját követő első elszámolási időszakra kell alkalmazni.
