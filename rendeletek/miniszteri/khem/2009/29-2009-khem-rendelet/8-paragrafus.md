@@ -12,12 +12,12 @@
 
 (6)[^17] A 2010. januári árváltoztatásnál – az (5) bekezdésben el nem számolt mértékben – figyelembe kell venni a 2009. júliusi induló ár megállapításához felhasznált árfolyam és földgáz beszerzési ár változásának hatását a 2009. harmadik negyedévben értékesített tény mennyiségekkel.
 
-(7)[^18] A 2010. januári árváltoztatásnál kereskedőnként kell figyelembe venni a 3. § (1) bekezdésének b) pontja szerinti kiegyenlítő elem 2009. július és 2009. december között kereskedőnként beszedett összegét. Az árváltoztatás jóváhagyásakor a figyelembevétel kereskedőnként a befolyt összeg és a prognosztizált értékesítési mennyiség alapján történik. A 2010. áprilisi, és – szükség esetén – a 2010. júliusi árváltoztatáskor a beszedett összeggel az adott felhasználói körre el kell számolni.
+(7)[^18] A 2010. januári árváltoztatásnál kereskedőnként kell figyelembe venni a 3. § (1) bekezdésének b) pontja szerinti kiegyenlítő elem 2009. július és 2009. december között kereskedőnként beszedett összegét. Az árváltoztatás jóváhagyásakor a figyelembevétel kereskedőnként a befolyt összeg és a prognosztizált értékesítési mennyiség alapján történik. A 2010. júliusi árváltoztatáskor a beszedett összeggel az adott felhasználói körre el kell számolni.
 
 (8)[^19] A 7. § e) pontja szerinti árfolyam-korrekciós hatást először 2009. negyedik negyedévre vonatkozóan kell figyelembe venni, a 2010. második negyedéves árváltoztatási kérelem benyújtásakor.
 
 [^15]: A 8. § (4) bekezdése a 9. § alapján hatályát vesztette.
 [^16]: A 8. § (5) bekezdését a 42/2009. (VIII. 31.) KHEM rendelet 4. §-a iktatta be.
 [^17]: A 8. § (6) bekezdését a 42/2009. (VIII. 31.) KHEM rendelet 4. §-a iktatta be.
-[^18]: A 8. § új (7) bekezdését a 72/2009. (XII. 7.) KHEM rendelet 4. §-a iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (8) bekezdésre változtatta.
+[^18]: A 8. § új (7) bekezdését a 72/2009. (XII. 7.) KHEM rendelet 4. §-a iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (8) bekezdésre változtatta, szövege a 23/2010. (III. 24.) KHEM rendelet 3. §-a szerint módosított szöveg.
 [^19]: A 8. § (7) bekezdését a 42/2009. (VIII. 31.) KHEM rendelet 4. §-a iktatta be. A 8. § eredeti (7) bekezdésének számozását a 72/2009. (XII. 7.) KHEM rendelet 4. §-a (8) bekezdésre változtatta.
