@@ -1,0 +1,210 @@
+# A Kormány 84/2010. (III. 25.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 43. szám, 2010. március 25. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/41a9e2435122119e8d48a11803d48851b217b29e/dokumentumok/f12068ab8142fc9057d2c8cc988623b166c23778/letoltes)
+
+---
+
+A Kormány 84/2010. (III. 25.) Korm. rendelete
+a védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó
+részletes szabályokról szóló 348/2006. (XII. 23.) Korm. rendelet és a veszélyeztetett
+vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai
+közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet
+módosításáról
+A Kormány a természet védelméről szóló 1996. évi LIII. törvény 85. § (1) bekezdés 4. pontjában kapott felhatalmazás alapján
+– az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva –, a 16–23. § tekintetében a természet
+védelméről szóló 1996. évi LIII. törvény 85. § (1) bekezdés 2. pontjában és a Washingtonban, 1973. március 3. napján elfogadott,
+a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelméről szóló egyezmény kihirdetéséről szóló 2003. évi
+XXXII. törvény 3. § (2) bekezdésében kapott felhatalmazás alapján – az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt
+feladatkörében eljárva – a következőket rendeli el:
+
+1. §
+(1) A védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes szabályokról szóló
+348/2006. (XII. 23.) Korm. rendelet (a továb biak ban: R.) 2. § (1) bekezdésének e) pontja helyébe a következő
+rendelkezés lép:
+[E rendelet alkalmazásában]
+„e) tartás: a hasznosítás, a bemutatás és a mentési szállítás kivételével a védelemben részesülő állatfaj egyedének
+birtokban vagy élőállat gyűjteményben tartása – ideértve az eladásra történő tartást, valamint az egyed gondozását,
+országhatáron belüli, nem eladásra történő szállítását, idomítását, továbbá preparátumának birtokban tartását is;”
+(2) Az R. 2. § (1) bekezdése a következő j) ponttal egészül ki:
+[E rendelet alkalmazásában]
+„j) mentési szállítás: védelemben részesülő gerinces faj sérült, beteg vagy egyéb ok miatt szabad életre alkalmatlan
+egyedének életmentés céljából történő és ahhoz szükséges mértékű birtokban tartása, gondozása, belföldi szállítása,
+amely az egyed mentőközpontba való eljuttatásáig tart.”
+2. §
+Az R. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Védelemben részesülő állatfajok egyedének tartásához, hasznosításához, bemutatásához, valamint az egyed
+tartójának, hasznosítójának személyében bekövetkező változáshoz – a természetvédelemért felelős miniszternek
+a Tvt. 44. § (4) bekezdése alapján kiadott rendeletében foglalt tevékenység kivételével, vagy ha az Európai
+Közösségben természetvédelmi szempontból jelentős állatfajokra vonatkozó jogszabály másként nem rendelkezik –
+a természetvédelmi hatóság engedélye szükséges.”
+3. §
+Az R. 4. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Felelős személy az lehet, aki nagykorú, továbbá rendelkezik – a gyűrűzési és jelölési tevékenység kivételével –
+az 1. számú melléklet szerinti szakirányú végzettséggel és gyakorlattal, valamint megfelel a védelemben részesülő
+állatfaj egyede tartására vonatkozó engedély megszerzéséhez a természetes személyekre meghatározott jogosultsági
+feltételeknek a (2) bekezdés c) pontjának kivételével.”
+4. §
+Az R. 5. §-a helyébe a következő rendelkezés lép:
+„5. § (1) Védelemben részesülő állatfaj valamely épületbe tévedt egyedének megfogása – ha az egyedet a megfogást
+köve tően közvetlenül szabadon bocsátják – nem minősül tartásnak vagy befogásnak.
+(2) A védelemben részesülő állatfaj egyede által lakó-, élő-, költő-, búvó- vagy pihenőhelyként használt épületrészen
+külső felújítás vagy karbantartás a természetvédelmi hatóság engedélyével végezhető.
+(3) A (2) bekezdés szerinti tevékenység engedélyezhető, ha az nem veszélyezteti az egyed élettevékenységét, túlélési
+vagy szaporodási esélyeit, továbbá fennmaradását. A természetvédelmi hatóság az engedélyben meghatározza
+a tevékenység végzésének feltételeit.”
+5. §
+Az R. 6. §-a a következő (8) bekezdéssel egészül ki:
+„(8) Ha a tartási engedély jogosultja természetes személy, akkor a tartást személyesen látja el.”
+6. §
+Az R. 7. §-a helyébe a következő rendelkezés lép:
+„7. § (1) Védelemben részesülő állatfaj egyedének mentési szállításáról annak megkezdése előtt a szállítás végzője
+– a megfelelő elhelyezés érdekében – tájékoztatja az egyed megtalálásának helye szerint ille té kes természetvédelmi
+hatóságot. A természetvédelmi hatóság felvilágosítást ad arról a mentőközpontról, ahol az egyed elhelyezhető.
+(2) Ha az egyed szabad életre alkalmas, a természetvédelmi hatóság – engedély kiadása nélkül – dönt az egyed
+szabadba történő visszajuttatásának helyéről, idejéről és módjáról.
+(3) Ha a mentőközpont állatorvosának véleménye alapján az egyed stabil, fájdalommentes állapota elérhető, azonban
+az egyed a szabad életre alkalmatlan, a természetvédelmi hatóság – külön engedély kiadása nélkül – a 8. § szerint jár el.
+(4) Ha a mentőközpont állatorvosának véleménye alapján az egyed stabil, fájdalommentes állapota nem érhető el,
+a természetvédelmi hatóság – engedély kiadása nélkül – megteszi az egyed életének fájdalommentes kioltásához
+szükséges intézkedéseket, továbbá dönt az elpusztult egyed elhelyezéséről.”
+7. §
+Az R. 15. §-a helyébe a következő rendelkezés lép:
+„15. § (1) Természetes személy vadon élő állományból kivett héjából (Accipiter gentilis) és karvalyból (Accipiter nisus)
+egyidejűleg legfeljebb 2 példány tartására jogosult.
+
+(2) A solymászmadár tartására vonatkozó engedély az egyednek az országból az Európai Unió valamely tagállamába
+történő kivitelére és onnan 30 napon belüli visszaszállítására is jogosít, ha a szállítást a tartási engedély jogosultja
+személyesen végzi.”
+8. §
+Az R. 16. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A solymászmadarakat – szirti sas (Aquila chrysaetos) esetében legalább 28 négyzetméter alapterületű és 3 méter
+magas, az északi sólyom (Falco rusticolus), a Feldegg-sólyom (Falco biarmicus), a vándorsólyom (Falco peregrinus) és
+a héja törzsalakja (Accipiter gentilis gentilis) esetében legalább 12 négyzetméter alapterületű és 2 méter magas –
+röpdében kell elhelyezni. Egy röpdében legfeljebb 2 madár, továbbá függetlenné válásukig a tenyészpár utódai
+tarthatók.”
+9. §
+Az R. 17. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A védelemben részesülő állatfajok egyedének tartását, hasznosítását, bemutatását
+a) solymászmadarak esetében országos ille té kességgel a Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi
+és Vízügyi Felügyelőség
+b) egyéb fokozottan védett állatfaj esetében a Főfelügyelőség, vagy
+c) az a)–b) pont alá nem tartozó, védelemben részesülő állatfaj esetében a környezetvédelmi, természetvédelmi és
+vízügyi felügyelőség (a továb biak ban: felügyelőség)
+engedélyezi.”
+10. §
+Az R.18. §-a a következő l) és m) pontokkal egészül ki:
+[A védelemben részesülő állatfaj egyedének tartását, hasznosítását, bemutatását engedélyező határozatban rendelkezni
+kell]
+„l) az állat elpusztulása esetére a tetem elhelyezésének, ártalmatlanításának helyéről, módjáról, időtartamáról,
+valamint a tetem megsemmisítéséről;
+m) a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai
+közösségi jogi aktusok végrehajtásának egyes szabályairól szóló kormányrendelet hatálya alá tartozó védelemben
+részesülő állat egyede esetében a származási igazolásban, az eredetigazolásban vagy a tenyésztői bizonylatban
+szereplő adatokról.”
+11. §
+(1) Az R. 19. §-a helyébe a következő rendelkezés lép:
+„(1) A szaporulat tartására irányuló kérelmet a szaporulat születését, kelését követő 30 napon belül kell
+a természetvédelmi hatósághoz benyújtani.
+(2) A védelemben részesülő állatfaj egyede tartására, hasznosítására, bemutatására jogosult a jogszabályokban vagy
+az engedélyben előírt feltételek megváltozását (ideértve a pusztulást, elszökést) 8 napon belül, a felelős személy
+személyében bekövetkezett változást a változás megtörténtét követő 15 napon belül köteles bejelenteni
+a természetvédelmi hatóságnak.
+(3) A szervező vagy rendező legkésőbb a nemzetközi solymásztalálkozó időpontját megelőző 60. napon írásban
+tájékoztatja a Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőséget.
+(4) Nemzetközi solymásztalálkozó esetén a behozatali, tartási és kiviteli engedély iránti kérelmet a solymásztalálkozó
+időpontját megelőző legkésőbb 60. napig be kell nyújtani a természetvédelmi hatósághoz, amely a kérelem
+benyújtásától számított 22 munkanapon belül dönt.
+(5) Nemzetközi solymásztalálkozónak minősül az a rendezvény, amely solymászati céllal, tizenöt napnál nem hosszabb
+ideig kerül megrendezésre, és amelyen legalább három országból vesz részt olyan személy, amely a 16. § (1) vagy
+(3) bekezdése szerinti vizsgával rendelkezik.”
+12. §
+Az R. 21. §-a helyébe a következő rendelkezés lép:
+„21. § (1) Engedéllyel tartott
+a) solymászmadárról a Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség
+b) egyéb fokozottan védett állatfaj egyedéről a Főfelügyelőség, vagy
+c) az a)–b) pont alá nem tartozó, védelemben részesülő állatfaj egyedéről a felügyelőség
+nyilvántartást vezet.
+
+(2) Az (1) bekezdésben meghatározott hatóságok a megelőző tárgyévre vonatkozóan az (1) bekezdés szerint
+nyilvántartott adatokat, a 3. § (1) bekezdésben foglalt engedélyek, valamint a 18. § k) pontja szerinti jelentésekről
+vezetett nyilvántartás adatait minden év május 31-ig megküldik a minisztérium részére.”
+13. §
+Az R. 22. §-a a következő (2) bekezdéssel egészül ki:
+„(2) E rendeletnek a védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes
+szabályokról szóló 348/2006. (XII. 23.) Korm. rendelet és a veszélyeztetett vadon élő állat- és növényfajok nemzetközi
+kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló
+292/2008. (XII. 10.) Korm. rendelet módosításáról szóló 84/2010. (III. 25.) Korm. rendelettel (a továb biak ban: Mód. Kr.)
+megállapított rendelkezéseit a Mód. Kr. hatályba lépését köve tően indult eljárásokban kell alkalmazni.”
+14. §
+Az R.
+a)
+6. § (1) bekezdésében a „négy évre” szövegrész helyébe az „öt évre” szöveg,
+b)
+16. § (1) bekezdésében a „4. § (2) bekezdés b) és c) pontjában” szövegrész helyébe a „4. § (2) bekezdés a) és
+b) pontjában” szöveg,
+c)
+16. § (1) bekezdés d) pontjában a „3 év” szövegrész helyébe „5 év” szöveg
+lép.
+15. §
+Hatályát veszti az R. 16. § (7) bekezdése.
+16. §
+A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai
+közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet (a továb biak ban:
+Kr.) 3. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
+„3. § (1) Az igazgatási hatóság állítja ki a tanácsi rendeletben meghatározott engedélyeket és – a (2) bekezdésben
+foglaltak kivételével – a bizonylatokat, valamint vezeti az Egyezményben és a tanácsi rendeletben meghatározott
+nyilvántartásokat. E feladatok ellátása során jogosult a tanácsi rendeletben, illetve az e rendeletben meghatározott
+nyilvántartásokban szereplő példányok adatainak kezelésére.
+(2) A környezetvédelmi, természetvédelmi és vízügyi felügyelőség (a továb biak ban: felügyelőség) és az Országos
+Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továb biak ban: Főfelügyelőség) nyilvántartást
+vezet a 4. § szerinti bejelentésekről, továbbá a felügyelőség kiállítja a 6. és 7. § szerinti bizonylatokat és igazolásokat,
+valamint a görögteknős, a mórteknős és a szegélyes teknős esetében a tanácsi rendelet 8. cikk (3) bekezdése vagy
+9. cikk (2) bekezdése szerinti bizonylatokat (a tanácsi rendelet 8. cikk (3) bekezdése vagy 9. cikk (2) bekezdése szerinti
+bizonylat a továb biak ban együtt: EU-bizonylat).”
+17. §
+A Kr. 3. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A Közép-Dunavölgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség ellátja a 4. § szerinti
+bejelentésekről, a 6. és 7. § szerinti bizonylatokról és igazolásokról szóló nyilvántartások központi koordinációját,
+valamint kiállítja a 6. § (4) bekezdés szerinti eredetigazolást.”
+18. §
+A Kr. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„4. § (1) Akinek a tanácsi rendelet A. mellékletében szereplő gerinces állatfaj példánya, valamint a tanácsi rendelet
+B. mellékletében szereplő emlős-, madár- és szárazfölditeknős-faj élő példánya (a továb biak ban együtt:
+bejelentésköteles példány) van a birtokában, köteles annak megszerzését, tartását, az ország területére történő
+behozatalát és az ország területéről történő kivitelét, elidegenítését, elhullását, megsemmisülését, valamint
+szaporulatát bejelenteni. A bejelentést
+a) solymászmadár esetén a Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőséghez,
+b) egyéb fokozottan védett állatfaj esetén a Főfelügyelőséghez vagy
+c) az a)–b) pont alá nem eső faj esetén a tartás helye szerint ille té kes felügyelőséghez
+kell megtenni.”
+19. §
+A Kr. 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség a 3. számú melléklet szerint
+eredetigazolást állít ki
+
+a) a 2004. november 22. napját megelőzően az igazgatási hatóság által nyilvántartott példányok esetében, ha
+tenyésztői bizonylat, származási igazolás, EU-bizonylat, valamint a tanácsi rendelet 4. cikke szerinti importengedély,
+5. cikke szerinti exportengedély és re-export bizonylat nem került kiadásra, valamint
+b) a lefoglalt, illetve elkobzott példányok esetében.”
+20. §
+A Kr. 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Főfelügyelőség vagy a felügyelőség ahhoz a példányhoz nem állít ki származási igazolást, eredetigazolást vagy
+tenyésztői bizonylatot, amelyhez valamely tagállam igazgatási hatósága az EU-bizonylatot kiállította.”
+21. §
+A Kr. 10. § (3) bekezdése helyébe az alábbi rendelkezés lép:
+„(3) Ha származási igazolással, tenyésztői bizonylattal vagy eredetigazolással rendelkező példányhoz EU-bizonylat
+kerül kiállításra, a származási igazolást, a tenyésztői bizonylatot vagy az eredetigazolást az EU-bizonylatot kiállító
+hatóság bevonja.”
+22. §
+A Kr. 24. §-a a következő (3) bekezdéssel egészül ki:
+„(3) E rendeletnek a védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes
+szabályokról szóló 348/2006. (XII. 23.) Korm. rendelet és a veszélyeztetett vadon élő állat- és növényfajok nemzetközi
+kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló
+292/2008. (XII. 10.) Korm. rendelet módosításáról szóló 84/2010. (III. 25.) Korm. rendelettel megállapított
+rendelkezéseit 2010. április 1-jétől kell alkalmazni.”
+23. §
+A Kr. 10. § (2) bekezdés b) pontjában az „az igazgatási hatóság” szövegrész helyébe az „a kiállító hatóság” szöveg lép.
+24. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba, és a hatályba lépését követő napon hatályát veszti.
+Bajnai Gordon s. k.,
+miniszterelnök
