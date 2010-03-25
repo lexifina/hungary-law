@@ -1,5 +1,0 @@
-## 1. § A krízishelyzetbe került személyek támogatásáról szóló 136/2009. (VI. 24.) Korm. rendelet (a továbbiakban: R.) 5. §-a a következő (6) bekezdéssel egészül ki:
-
-## „(6) A szociál- és nyugdíjpolitikáért felelős miniszter az előirányzat e rendelkezés hatálybalépését követően jóváírt bevételeinek terhére – a 2008. szeptember 30-át követően kilakoltatott, kiskorú gyermeket nevelő családok lakhatását elősegítő program megvalósítására, az előirányzat javára 2010. február 12-éig teljesített befizetések legfeljebb 6%-a erejéig – külön támogatási keretösszeget különíthet el.”
-
-2. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
