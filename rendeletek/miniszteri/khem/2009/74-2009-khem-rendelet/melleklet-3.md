@@ -60,7 +60,7 @@
 
 ## A korrigált mennyiségi adatok megállapítása során a fogyasztást befolyásoló más tényezők – mint pl. világgazdasági reálfolyamatok, illetve a fogyasztói szokások változásának – hatását a Hivatal indokolt esetben figyelembe veszi.
 
-3. melléklet a 74/2009. (XII. 7.) KHEM rendelethez
+3. melléklet a 74/2009. (XII. 7.) KHEM rendelethez[^2]
 
 A 2010. január 1. és a 2013. december 31. közötti hatósági ármegállapítások árszabályozásának keretei
 
@@ -108,15 +108,15 @@ A tárgyévben beszedett pótdíjak és aukciós bevételek a következő árkor
 
 1.6. Nyereségkorlát és nyereség-visszajuttatás
 
-a) A rendszerirányító, a földgázszállítók, a földgázelosztók, és a földgáztárolók engedélyköteles tevékenysége(i) által szabadon elérhető nyereség felső korlátjának (NYK) kiszámítása adott engedélyesre:
+a) A szállítói, a rendszerirányítói, az elosztói, és a tárolói működési engedélyesek engedélyköteles tevékenysége(i) által szabadon elérhető nyereség felső korlátjának (NYK) kiszámítása adott engedélyesre:
 
-2010-re: NYK = 1,2 × TK × (1+CPIX2010/100–k3)3/4 + TFK
+2010-re: NYK = 1,2 × TK × (1+CPIX2010/100–k3)1/4+TFK
 
-2011-re: NYK = 1,2 × TK × (1+CPIX2010/100–k3)3/4 × (1+CPIX2011/100–k4) + TFK
+2011-re: NYK = 1,2 × TK × (1+CPIX2010/100–k3)1/4 × (1+CPIX2011/100–k4)+TFK
 
-2012-re: NYK = 1,2 × TK × (1+CPIX2010/100–k3)3/4 × (1+CPIX2011/100–k4) × (1+CPIX2012/100–k5) + TFK
+2012-re: NYK = 1,2 × TK × (1+CPIX2010/100–k3)1/4 × (1+CPIX2011/100–k4) × (1+CPIX2012/100–k5)+TFK
 
-2013-ra: NYK = 1,2 × TK × (1+CPIX2010/100–k3)3/4 × (1+CPIX2011/100–k4) × (1+CPIX2012/100–k5) × (1+CPIX2013/100–k6) + TFK
+2013-ra: NYK = 1,2 × TK × (1+CPIX2010/100–k3)1/4 × (1+CPIX2011/100–k4) × (1+CPIX2012/100–k5) × (1+CPIX2013/100–k6)+TFK
 
 ahol:
 
@@ -136,21 +136,15 @@ TFK: a párnagáz elismert tőkefedezeti költsége,
 
 k3; k4; k5; k6: inflációkorrekciós tényezők a 0,013 ≤ k ≤ 0,017 sávban.
 
-b) A földgázszállítók, a földgázelosztók és a földgáztárolók engedélyköteles tevékenysége(i) által szabadon elérhető 2009. évi nyereség felső korlátjának (NYK) kiszámítására 2010-ben az alábbi képlet alkalmazandó az adott társaságra:
+b) A földgázszállítási, földgáztárolási és földgázelosztási működési engedélyesek engedélyköteles tevékenysége(i) által szabadon elérhető 2009. évi nyereség felső korlátjának (NYK) kiszámítására 2010-ben az alábbi képlet alkalmazandó az adott társaságra:
 
-2009-re NYK = 1,2 × TK × KIX2008/2006 *(1+CPIX2009/100–k2) + TFK
+2009-re NYK = 1,2 × TK × 1,0982+TFK
 
 ahol:
 
 NYK: a 2009. évi szabadon elérhető nyereség felső korlátja,
 
-TK: a földgázszállító és földgázelosztó földgázszállítási és elosztási engedélyköteles tevékenysége(i) részére a 2006. január 1-jei induló árak megállapításánál kalkulált tőkeköltségelem,
-
-KIX2008/2006: a KSH által közzétett éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított, a 2006. január 1-jei induló árak megállapításától 2009. január 1-ig eltelt időszakra jellemző árindex, értéke 0,098
-
-CPIX2009: a KSH által közzétett 2009. évi éves átlagos fogyasztói árindexből a háztartási energia sor elhagyásával számított árindex, százalék
-
-k2: inflációkorrekciós tényező, értéke 2009-ben 0,022
+TK: a földgázszállítási és földgázelosztási működési engedélyes földgázszállítási és elosztási engedélyköteles tevékenysége(i) részére a 2006. január 1-jei induló árak megállapításánál kalkulált tőkeköltségelem,
 
 TFK: a párnagáz elismert tőkefedezeti költsége.
 
@@ -225,3 +219,5 @@ YRe: a háztartási energia sor elhagyásával számított éves átlagos KSH t�
 z: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban számított inflációkövetési tényező (hibakorrekciós tényező nélkül)
 
 zh: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban figyelembe veendő, a hibakorrekciós tényezővel korrigált inflációkövetési tényező
+
+[^2]: A 3. melléklet a 23/2010. (III. 24.) KHEM rendelet 2. §-a szerint módosított szöveg.
