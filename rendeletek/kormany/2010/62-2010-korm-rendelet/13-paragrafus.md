@@ -1,0 +1,3 @@
+## 12. § Az R. 14. §-a helyébe a következő rendelkezés lép:
+
+## „14. § Tevékenységi engedély hiányában mák és kender kábítószernek minősülő hatóanyag-tartalmának növelésére gyógyászati célú tudományos kutatási tevékenység az EEKH által kibocsátott eseti kutatási engedély birtokában folytatható. Az EEKH az engedélyt közli a miniszterrel és az Országos Rendőr-főkapitánysággal is.”
