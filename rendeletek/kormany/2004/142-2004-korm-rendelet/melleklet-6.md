@@ -28,6 +28,6 @@
 
 ## Cégszerű aláírás, cégbélyegző, dátum, a kábítószer felelős ellenjegyzése:
 
-6. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^173]
+6. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^174]
 
-[^173]: A 6. számú melléklet a 153/2005. (VIII. 2.) Korm. rendelet 17. §-ának (1) bekezdése, a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^174]: A 6. számú melléklet a 153/2005. (VIII. 2.) Korm. rendelet 17. §-ának (1) bekezdése, a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés k) pontja szerint módosított szöveg.

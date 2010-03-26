@@ -4,6 +4,7 @@
 
 a) az exportra, importra irányuló tevékenységi engedély iránti kérelem esetén a Vám- és Pénzügyőrség Országos Parancsnokságával;
 
-b) az állatgyógyászati készítményekkel, illetve kábítószer előállítására alkalmas növények termesztésével, forgalmazásával összefüggő tevékenységre vonatkozó kérelem esetén az élelmiszerlánc-felügyeletért felelős miniszterrel (a továbbiakban: miniszter).
+b)[^34] az állatgyógyászati készítményekkel, illetve kábítószer előállítására alkalmas növények termesztésével, forgalmazásával összefüggő tevékenységre vonatkozó kérelem esetén az agrárpolitikáért felelős miniszterrel (a továbbiakban: miniszter).
 
 [^33]: Az 5. § a 258/2009. (XI. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: Az 5. § (2) bekezdés b) pontja a 62/2010. (III. 18.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.

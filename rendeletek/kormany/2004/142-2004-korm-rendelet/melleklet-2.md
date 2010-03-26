@@ -660,6 +660,6 @@
 
 ## A P4 jegyzék az 1971-es Pszichotrop Egyezmény aktualizált IV. listája alapján készült.
 
-2. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^169]
+2. számú melléklet a 142/2004. (IV. 29.) Korm. rendelethez[^170]
 
-[^169]: A 2. számú melléklet a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^170]: A 2. számú melléklet a 258/2009. (XI. 20.) Korm. rendelet 19. § (2) bekezdés i) pontja szerint módosított szöveg.
