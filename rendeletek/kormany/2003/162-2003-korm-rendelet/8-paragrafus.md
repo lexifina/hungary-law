@@ -1,15 +1,27 @@
 ## Étkezési mák termesztése
 
-8. § (1) Étkezési mák vetéséhez kizárólag étkezési mákfajta fémzárolt vetőmagja használható fel. A termesztőnek a vetőmaggal kapcsolatos bizonylatokat és számlákat legalább a tenyészidőszak végéig meg kell őriznie.
+8. § (1)[^22] Étkezési mák vetéséhez kizárólag étkezési mákfajtának a termőterülettel arányos mennyiségű, fémzárolt vetőmagja használható fel. A termesztőnek a vetőmaggal kapcsolatos bizonylatokat és számlákat legalább a tenyészidőszak végéig meg kell őriznie.
 
-(2)[^18] A termesztő az étkezési mák kereskedelmi céllal történő termesztése, illetve az étkezési mák 500 m2-t meghaladó termőterülete esetén köteles a 4. számú melléklet szerinti adatokat a termesztés megkezdése előtt, de legkésőbb tárgyév április 30-áig az MgSzH területi szerve részére bejelenteni.
+(2)[^23] A termesztő az étkezési mák kereskedelmi céllal történő termesztése, illetve az étkezési mák 500 m2-t meghaladó termőterületen történő termesztése esetén köteles az MgSzH területi szerve részére a termesztés megkezdése előtt, de legkésőbb tárgyév május 15-ig a következő adattartalmú bejelentést tenni az MgSzH Központ által rendszeresített, és az MgSzH Központ honlapján közzétett formanyomtatványon:
 
-(3)[^19] A termesztőnek a bejelentésről az MgSzH területi szerve az 5. számú melléklet szerinti igazolást állítja ki. Étkezési mák kizárólag ilyen igazolás birtokában hozható kereskedelmi forgalomba.
+a) a termesztő neve, címe,
 
-(4) Az étkezési mák termesztője minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását az illetékes helyi rendőrhatóságnak köteles jelenteni.
+b) a vetett termőterület nagysága, helye, helyrajzi száma, vagy fizikai blokk és parcella száma,
 
-(5)[^20] Az MgSzH területi szerve a (2) bekezdés szerinti bejelentésben foglalt adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában megküldi a Minisztériumnak.
+c) a termesztett fajta neve, vetőmag fémzár száma és mennyisége,
 
-[^18]: A 8. § (2) bekezdése a 337/2007. (XII. 13.) Korm. rendelet 17. § (1) bekezdésének g) pontja szerint módosított szöveg.
-[^19]: A 8. § (3) bekezdése a 337/2007. (XII. 13.) Korm. rendelet 17. § (1) bekezdésének g) pontja szerint módosított szöveg.
-[^20]: A 8. § (5) bekezdése a 337/2007. (XII. 13.) Korm. rendelet 17. § (1) bekezdésének g) pontja szerint módosított szöveg.
+d) virágkötészeti célból termesztett mák esetén az exportáló, illetve a belföldi forgalmazó neve, címe,
+
+e) az előző évi betakarított terület nagysága.
+
+(3)[^24] A termesztőnek a bejelentésről az MgSzH területi szerve az MgSzH Központ által rendszeresített, és az MgSzH Központ honlapján közzétett formanyomtatvány szerinti igazolást állítja ki. Étkezési mák kizárólag ilyen igazolás birtokában hozható kereskedelmi forgalomba.
+
+(4)[^25] Az étkezési mák termesztője minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek köteles jelenteni.
+
+(5)[^26] Az MgSzH területi szerve az MgSzH Központon keresztül a (2) bekezdés szerinti bejelentésben foglalt adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában megküldi a Minisztériumnak.
+
+[^22]: A 8. § (1) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^23]: A 8. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A 8. § (3) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^25]: A 8. § (4) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^26]: A 8. § (5) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
-## 12. §[^33] A mák és a kender termesztésére és forgalomba hozatalára vonatkozó szabályok betartásának ellenőrzésére a rendőrhatóság és az ÁNTSZ mellett az MgSzH illetékes területi szerve jogosult. Az MgSzH Központ a kábítószer előállítására alkalmas növények termesztésének helyszíni ellenőrzési és elszámolási munkáiban közreműködik, valamint a Minisztérium részére az ipari-, az étkezési és a díszítőmák termesztésével kapcsolatos adatszolgáltatásról gondoskodik.
+## 12. §[^40] A mák és a kender termesztésére és forgalomba hozatalára vonatkozó szabályok betartásának ellenőrzésére a rendőrség és az ÁNTSZ mellett az MgSzH területi szerve jogosult. Az MgSzH Központ az MgSzH területi szervei által végzett, a kábítószer előállítására alkalmas növények termesztésének helyszíni ellenőrzésével kapcsolatos adatokat összesíti, és gondoskodik az ipari-, az étkezési és a díszítőmák termesztésével kapcsolatos, a miniszter részére történő adatszolgáltatásról.
 
 ## Ipari mákkal és magas THC tartalmú kenderrel végezhető egyéb tevékenységek
 
-13. § (1)[^34] Ipari mák termesztés-technológiai kutatásával, nemesítésével, fajtakísérleteinek beállításával, kísérleti termesztésével, tudományos célú termesztésével és termeltetésével, vetőmagja előállításával, genetikai alapanyagainak tárolásával, továbbá a magas THC tartalmú kender genetikai alapanyagainak tárolásával az EKH engedélyével rendelkező szervezet (a továbbiakban: engedélyes) foglalkozhat.
+13. § (1)[^41] Ipari mák termesztéstechnológiai kutatásával, nemesítésével, fajtakísérleteinek beállításával, kísérleti termesztésével, tudományos célú termesztésével és termeltetésével, vetőmagja előállításával, genetikai alapanyagainak tárolásával, továbbá a magas THC tartalmú kender genetikai alapanyagainak tárolásával az EEKH engedélyével rendelkező szervezet (a továbbiakban: engedélyes) foglalkozhat. Az EEKH a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
 
 (2) Az (1) bekezdésben meghatározott tevékenységet az az engedélyes folytathat, amely
 
@@ -14,45 +14,31 @@ c) ipari mákfajták, fajtajelöltek és kísérleti populációk termesztése s
 
 d) a magas THC tartalmú kenderfajták, ipari mákfajták, fajtajelöltek és kísérleti populációk termesztéséhez, feldolgozásához és raktározásához saját tulajdonú vagy bérelt területtel rendelkezik.
 
-(3)[^35] Az (1) bekezdésben meghatározott tevékenységekre vonatkozó engedély (a továbbiakban: engedély) iránti kérelmet az EKH-hoz kell benyújtani.
+(3)[^42] Az (1) bekezdésben meghatározott tevékenységekre vonatkozó engedély (a továbbiakban: tevékenységi engedély) iránti kérelmet az EEKH-hoz kell benyújtani.
 
-(4) Az engedély iránti kérelemnek tartalmaznia kell
+(4)[^43] A tevékenységi engedély iránti kérelemnek – a KKR szerinti gyógyászati célú tevékenységi engedély iránti kérelem tartalmi elemein túl – tartalmaznia kell
 
-a) a kérelmező nevét, címét,
+a) a kábítószer előállítására felhasználható, az (1) bekezdés szerinti tevékenységgel érintett növények körét és a tevékenység formáját,
 
-b) a kérelmező alaptevékenységének meghatározását,
+b) a kábítószer előállítására felhasználható növényekkel kapcsolatos fajtafenntartási kötelezettségvállalást.
 
-c) a kérelmező adószámát,
+(5)[^44]
 
-d) a kábítószer előállítására felhasználható, kutatott növények körét és a kutatás formáját,
+(6)[^45]
 
-e) a kábítószer előállítására felhasználható növényekkel kapcsolatos fajtafenntartási kötelezettségvállalást.
+(7)[^46]
 
-(5) Az engedély iránti kérelemhez mellékelni kell
-
-a) a kérelmező alapító okiratának másolatát, vagy gazdasági társaság esetén 30 napnál nem régebbi cégkivonatát,
-
-b)[^36] a kérelmező üzemének, illetve érintett üzemrészének és raktárának vázlatos tervrajzát (amelyen fel kell tüntetni a telepített biztonságtechnikai eszközök helyét és a biztonságtechnikai rendszer működőképességét igazoló kivitelezői szakvéleményt),
-
-c)–d)[^37]
-
-e) a kérelmezőnél kutatásokat, nemesítést vagy fajtakísérletet végző felelős szakember felsőfokú iskolai végzettségét igazoló bizonyítvány hiteles másolatát.
-
-(6)[^38] Az engedély egy példányát az EKH megküldi az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) részére.
-
-(7)[^39] Az engedélyes köteles a (4) bekezdésben meghatározott adatok bármelyikének megváltozását 15 napon belül jelenteni az EKHM-nak.
-
-(8)[^40] Az engedély visszavonásig érvényes, azonban azt az engedélyesnek 3 évenként meg kell újíttatnia. Ha az engedélyes működése vagy tevékenységének gyakorlása e rendeletben foglalt feltételeknek nem felel meg, az engedélyt az EKH visszavonja. Az engedély visszavonását az e rendelet szerint ellenőrzésre feljogosított bármelyik hatóság kezdeményezheti.
+(8)[^47]
 
 (9) Az (1) bekezdés szerinti vetőmag-előállítás során a vetőmag tisztítási aljat zárttéri égetéssel meg kell semmisíteni.
 
 (10) Az (1) bekezdés szerinti nemesítési és fajtafenntartási tevékenység fajtakísérletek, gyűjteményfenntartás, újraszaporítás, valamint a nemzetközi megrendelésekhez való adatszolgáltatás céljából csak ellenőrzött körülmények között végezhető.
 
-[^33]: A 12. § a 337/2007. (XII. 13.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^34]: A 13. § (1) bekezdése a 153/2005. (VIII. 2.) Korm. rendelet 18. § (1) bekezdésének c) pontja szerint módosított szöveg.
-[^35]: A 13. § (3) bekezdése a 153/2005. (VIII. 2.) Korm. rendelet 18. § (1) bekezdésének c) pontja szerint módosított szöveg.
-[^36]: A 13. § (5) bekezdésének b) pontja a 228/2006. (XI. 20.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 6. §-át.
-[^37]: A 13. § (5) bekezdésének c)–d) pontját a 228/2006. (XI. 20.) Korm. rendelet 7. § (1) bekezdése hatályon kívül helyezte.
-[^38]: A 13. § (6) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 32. §-ával megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^39]: A 13. § (7) bekezdése a 153/2005. (VIII. 2.) Korm. rendelet 18. § (1) bekezdésének c) pontja szerint módosított szöveg.
-[^40]: A 13. § (8) bekezdése a 153/2005. (VIII. 2.) Korm. rendelet 18. § (1) bekezdésének c) pontja szerint módosított szöveg.
+[^40]: A 12. § a 62/2010. (III. 18.) Korm. rendelet 10. §-ával megállapított, a 16. § k) pontja szerint módosított szöveg.
+[^41]: A 13. § (1) bekezdése a 62/2010. (III. 18.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^42]: A 13. § (3) bekezdése a 62/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^43]: A 13. § (4) bekezdése a 62/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^44]: A 13. § (5) bekezdését a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^45]: A 13. § (6) bekezdését a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^46]: A 13. § (7) bekezdését a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^47]: A 13. § (8) bekezdését a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.

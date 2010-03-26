@@ -1,3 +1,3 @@
-## 14. §[^41] Mák és kender kábítószernek minősülő hatóanyag tartalmának növelésére gyógyászati célú tudományos kutatási tevékenység folytatható az EKH által kibocsátott kutatási engedély birtokában.
+## 14. §[^48] Tevékenységi engedély hiányában mák és kender kábítószernek minősülő hatóanyag-tartalmának növelésére gyógyászati célú tudományos kutatási tevékenység az EEKH által kibocsátott eseti kutatási engedély birtokában folytatható. Az EEKH az engedélyt közli a miniszterrel és az Országos Rendőr-főkapitánysággal is.
 
-[^41]: A 14. § a 153/2005. (VIII. 2.) Korm. rendelet 18. § (1) bekezdésének b) pontja, a 228/2006. (XI. 20.) Korm. rendelet 7. § (2) bekezdésének b) pontja, a 331/2007. (XII. 13.) Korm. rendelet 3. § 18. pontja, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 40. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^48]: A 14. § a 62/2010. (III. 18.) Korm. rendelet 12. §-ával megállapított szöveg.

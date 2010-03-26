@@ -1,32 +1,6 @@
-1. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez[^43]
+## 17. §[^52] E rendelet a vetőmagok piacának közös szervezéséről szóló 2358/71/EGK rendelet módosításáról, valamint a vetőmagágazatban a 2000/2001. és 2001/2002. gazdasági évben nyújtandó támogatásról szóló 1405/1999/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-## Az ipari mák termesztetőjének adatszolgáltatása
+1. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez[^53]
 
-Az MgSzH területi szervei felé történő kötelező adatszolgáltatás az alábbi adatokra terjed ki:
-
-1. A termesztető neve, címe
-
-2. A termesztők neve, címe
-
-3. A vetett termőterületek nagysága
-
-4. A termőterületek helye, hrsz.-a
-
-5. A termesztett fajták neve
-
-6. A kiadott vetőmag fajtája, fémzár száma, mennyisége
-
-7. A termesztési szerződések megkötésének dátuma, iktatószáma
-
-8. A termesztető részére a termesztők által leadott ipari mákszalma mennyisége (kg)
-
-9.[^44] Az előző évi betakarított terület nagysága
-
-Kelt: ............................
-
-Aláírás: ................
-
-termesztető
-
-[^43]: A 1. számú melléklet a 337/2007. (XII. 13.) Korm. rendelet 17. § (3) bekezdésének a) pontja szerint módosított szöveg.
-[^44]: Az 1. számú melléklet 9. pontját a 228/2006. (XI. 20.) Korm. rendelet 5. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^52]: A 17. §-t a 62/2010. (III. 18.) Korm. rendelet 13. §-a iktatta be.
+[^53]: Az 1. számú mellékletet a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.

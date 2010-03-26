@@ -1,29 +1,3 @@
-3. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez
+3. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez[^55]
 
-## Ellenőrzési jegyzőkönyv
-
-1. A termesztő neve, címe, telefonszáma
-
-2. A tábla helye, hrsz.-a
-
-3. A faj és fajta megnevezése
-
-4. A nyilvántartás szerinti táblaméret
-
-5. A nyilvántartott és tényleges táblaméret közötti különbség
-
-6. Az eltérés indoklása
-
-7. Észlelt rendellenességek
-
-8. Megtett intézkedések
-
-Kelt: ............................
-
-...........................
-
-termesztő
-
-Ellenőrizte: ....................
-
-falugazdász
+[^55]: A 3. számú mellékletet a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
