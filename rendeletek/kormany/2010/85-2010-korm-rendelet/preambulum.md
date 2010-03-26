@@ -1,0 +1,1 @@
+A Kormány az elektronikus információszabadságról szóló 2005. évi XC. törvény 22. § (1) bekezdés a) pontjában foglalt felhatalmazás alapján, valamint az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés a) és b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
