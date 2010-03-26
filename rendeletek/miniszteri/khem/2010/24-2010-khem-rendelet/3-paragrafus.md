@@ -1,0 +1,3 @@
+## 2. § Az R. 4. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) A Közösségi irányelv A.1. mellékletében szereplő táblázat A.1/1.29, A.1/2.8–9, A.1/3.10, A.1/3.49, A.1/3.55–61, A.1/4.9 és A.1/4.20–22, A.1/4.45, A.1/4.48–51, A.2/4.34, A.2/4.35 és A.2/4.36 pontjában megjelölt felszerelés, amelynek gyártása 2010. április 6. napját megelőzően, az Európai Gazdasági Térség tagállamában hatályban lévő típus-jóváhagyási eljárásnak megfelelően történt, 2010. április 6. napját követő két év folyamán forgalomba hozható, illetve az Európai Gazdasági Térség tagállamának lobogója alatt közlekedő hajón történő használata engedélyezett.”
