@@ -2,7 +2,7 @@
 
 a) megfelelőség tanúsítása: az e rendelet 3. § és 7. §-ában, valamint B) mellékletében meghatározott eljárások, illetve az azok eredményéről kiállított bizonyítvány;
 
-b)[^1] felszerelés: a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2008. június 30-ai 2008/67/EK bizottsági irányelv (a továbbiakban: Közösségi irányelv) A.1. és A.2. mellékletében meghatározott, a nemzetközi dokumentumokban foglalt követelmények teljesítése céljából a hajón kötelezően elhelyezendő, vagy a használat céljából a hajón önkéntesen elhelyezett, és a nemzetközi dokumentumokban foglalt követelményeknek megfelelően a hajózási hatóság által engedélyezett berendezés, eszköz;
+b)[^1] felszerelés: a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2009. április 6-ai 2009/26/EK bizottsági irányelv (a továbbiakban: Közösségi irányelv) A.1. és A.2. mellékletében meghatározott, a nemzetközi dokumentumokban foglalt követelmények teljesítése céljából a hajón kötelezően elhelyezendő, vagy a használat céljából a hajón önkéntesen elhelyezett, és a nemzetközi dokumentumokban foglalt követelményeknek megfelelően a hajózási hatóság által engedélyezett berendezés, eszköz;
 
 c) rádió hírközlési felszerelés: a 2001. évi XI. törvénnyel kihirdetett, a Londonban, 1974. november hó 1. napján kelt ,,Életbiztonság a tengeren'' tárgyú nemzetközi egyezmény és az ahhoz csatolt 1978. évi Jegyzőkönyv (,,SOLAS 1974/1978.'') IV. fejezetében előírt felszereléseket, valamint ezen egyezmény III/6.2.1 Szabályában a túlélő járművek számára előírt kétirányú VHF üzemmódú rádiótelefon készülék;
 
@@ -56,7 +56,7 @@ n) típusjóváhagyás: a nemzetközi vizsgálati követelmények alapján a fel
 
 o) EK típusvizsgálat: az e rendelet 7. §-ában meghatározott termékellenőrzés.
 
-[^1]: Az 1. § b) pontja a 65/2009. (XI. 26.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § b) pontja a 24/2010. (III. 25.) KHEM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § d) pontja a 82/2003. (XII. 10.) GKM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § g) pontja a 65/2009. (XI. 26.) KHEM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § i) pontja a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.

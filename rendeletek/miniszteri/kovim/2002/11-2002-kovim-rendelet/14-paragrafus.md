@@ -1,16 +1,26 @@
 ## 13. § Ez a rendelet 2004. január 1-jén lép hatályba.
 
-14. §[^18] (1) Ez a rendelet a következő uniós jogi aktusnak való megfelelést szolgálja:
+14. §[^19] (1)[^20] Ez a rendelet
 
-a) a Bizottság 98/85/EK és 2002/75/EK irányelvével, valamint az Európai Parlament és a Tanács 2002/84/EK irányelvével módosított Tanács 96/98/EK irányelve (1996. december 20.) tengerészeti felszerelésekről, valamint
+1. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelvnek,
 
-b) a Bizottság 2008/67/EK irányelve (2008. június 30.) a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról.
+2. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelv módosításáról szóló, 1998. november 11-i 98/85/EK bizottsági irányelvnek,
+
+3. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelv módosításáról szóló, 2002. szeptember 2-i 2002/75/EK bizottsági irányelvnek,
+
+4. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelv módosításáról szóló, 2002. november 5-i 2002/84/EK parlamenti és tanácsi irányelvnek,
+
+5. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelv módosításáról szóló, 2008. június 30-i 2008/67/EK bizottsági irányelvnek,
+
+6. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelv módosításáról szóló, 2009. április 6-i 2009/26/EK bizottsági irányelvnek
+
+való megfelelést szolgálja.
 
 (2) Ez a rendelet a hajófelügyeleti és hajóvizsgáló szervezetek közös szabályairól és szabványairól szóló, 2009. április 23-i 391/2009/EK európai parlamenti és tanácsi rendelettel összeegyeztethető szabályozást tartalmaz.
 
-A) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^19]
+A) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^21]
 
-B) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^20]
+B) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^22]
 
 A megfelelőség tanúsítás moduljai
 
@@ -410,6 +420,7 @@ A jelölés különféle elemeinek lényegileg ugyanolyan függőleges méretez�
 
 Kis méretű felszerelések esetében a minimális méretkorlátozástól el lehet tekinteni.
 
-[^18]: A 14. § a 65/2009. (XI. 26.) KHEM rendelet 7. §-ával megállapított szöveg.
-[^19]: Az A) mellékletet a 65/2009. (XI. 26.) KHEM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
-[^20]: A B) melléklet a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
+[^19]: A 14. § a 65/2009. (XI. 26.) KHEM rendelet 7. §-ával megállapított szöveg.
+[^20]: A 14. § (1) bekezdése a 24/2010. (III. 25.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^21]: Az A) mellékletet a 65/2009. (XI. 26.) KHEM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^22]: A B) melléklet a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
