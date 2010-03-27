@@ -1,0 +1,1 @@
+## 54. § A támogatási szerződés megszüntetésére, az elállásra, illetve a szerződés felmondására irányuló feljegyzést a kötelezettségvállaló az igazgatási szakállamtitkárnál köteles előterjeszteni, a Miniszterelnöki Hivatal jognyilatkozatát a JKO készíti elő.

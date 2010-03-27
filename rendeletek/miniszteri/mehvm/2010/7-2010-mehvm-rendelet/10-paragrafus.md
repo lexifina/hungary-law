@@ -1,0 +1,1 @@
+## 9. § Tárgyéven túli kötelezettség az Áht. 12/A. §-ának (2)–(3) bekezdéseiben foglaltak szerint vállalható. A Kormány által egyedileg jóváhagyott fejlesztési programok esetén a kötelezettségvállalás a Kormány által meghatározott feltételek szerint – figyelemmel az Áht. 22–23/A. §-okban foglaltakra is – történhet.

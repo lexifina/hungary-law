@@ -1,0 +1,1 @@
+## 37. § Az elkészített szerződés-tervezetet a JKO elektronikus úton előzetes véleményezésre küldi meg a KF ügyintézője és a kötelezettségvállaló által kijelölt ügyintéző részére, akik észrevételeiket, illetőleg jóváhagyásukat elektronikus úton 2 munkanapon belül jelzik.

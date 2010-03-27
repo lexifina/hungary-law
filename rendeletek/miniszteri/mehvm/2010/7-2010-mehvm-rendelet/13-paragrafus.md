@@ -1,0 +1,1 @@
+## 12. § Az előirányzatok fejezeten belüli költségvetési címeken, illetve fejezetek között (beleértve a fejezeti kezelésű előirányzat felhasználásának a fejezet irányítása alá tartozó költségvetési szerve általi lebonyolítását is) történő felhasználása esetén, az érintett fejezet(ek) hatáskörében előirányzat-módosítást kell végrehajtani.

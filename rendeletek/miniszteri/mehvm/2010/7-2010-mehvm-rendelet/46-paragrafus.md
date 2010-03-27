@@ -1,0 +1,1 @@
+## 45. § Támogatási előleg egy összegben vagy részletekben történő folyósítására akkor kerülhet sor, ha a teljesítésarányos finanszírozás a támogatási cél megvalósítását nem teszi lehetővé. Támogatási előleg részletekben történő folyósítása esetén a fennmaradó támogatás folyósításának feltétele a már folyósított támogatással történő elszámolás.

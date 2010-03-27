@@ -1,0 +1,1 @@
+## 16. § Az előirányzat felett szakmai felügyeletet ellátó személynek – az éves beszámoló, illetve a zárszámadás keretében – szöveges értékelést kell adnia az előirányzat felhasználásáról, a megvalósított szakmai célokról és a nevesített feladatok végrehajtásáról, az előirányzat-maradványról.

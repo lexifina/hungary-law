@@ -1,0 +1,1 @@
+Az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 24. § (9) bekezdésében, valamint a 49. § (5) bekezdés p) pontjában kapott felhatalmazás alapján – az államháztartásért felelős miniszterrel egyetértésben – a fejezeti kezelésű előirányzatok felhasználásával kapcsolatosan az alábbiakat rendelem el.

@@ -1,0 +1,1 @@
+## 25. § A támogatási kérelem akkor minősül befogadottnak, ha a kérelem és a 24. § szerinti hiánytalanul kitöltött nyilatkozatok a kötelezettségvállaló rendelkezésére állnak. A nyilatkozatok hiányában a kérelem nem bírálható el.

@@ -1,0 +1,1 @@
+## 39. § A szerződéstervezet előkészítése, illetve egyeztetése során a 8. számú melléklet szerinti „kezdeményező irat” tartalmától való eltérésre csak a kötelezettségvállaló írásban – papír alapon vagy elektronikus úton – előterjesztett kezdeményezésére van lehetőség.

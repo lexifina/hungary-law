@@ -1,0 +1,1 @@
+## 32. § A költségvetési törvényben meghatározott címzett támogatás esetében a szerződéskötést a kötelezettségvállaló a támogatás fedezetéről a KF vezetőjével történő egyeztetést követően, a támogatási kérelem és a 29. § szerinti értesítés csatolása nélkül, a 31. §-ban írtak szerint kezdeményezi.

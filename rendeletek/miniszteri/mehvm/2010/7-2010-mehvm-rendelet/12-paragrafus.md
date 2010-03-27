@@ -1,0 +1,1 @@
+## 11. § A fejezeten belüli, vagy más fejezethez tartozó központi költségvetési szerv javára többlettámogatás – a lebonyolítás céljából átcsoportosított előirányzatok, kormányzati beruházás és a felújítás kivételével – kizárólag új feladat ellátására, illetve a meglévő feladatok növekedésével összefüggő kiadások finanszírozására nyújtható.

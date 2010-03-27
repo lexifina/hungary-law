@@ -1,0 +1,1 @@
+## 40. § Az egyeztetett támogatási szerződést a JKO jogi ellenjegyzéssel látja el, majd soron kívül továbbítja pénzügyi ellenjegyzésre. A szerződést a kötelezettségvállaló részére a pénzügyi ellenjegyző küldi meg. A szerződésnek a kedvezményezett által történő aláírásáról a kötelezettségvállaló gondoskodik.
