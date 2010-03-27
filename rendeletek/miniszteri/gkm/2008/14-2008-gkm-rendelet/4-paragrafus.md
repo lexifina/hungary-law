@@ -56,8 +56,8 @@ h) a hulladékkezelő létesítmény területe állapotának felmérésére vona
 
 (4) A bányafelügyelet a bányászatihulladék-gazdálkodási terv alapján értékeli az üzemeltető képességét a bányászatihulladék-gazdálkodási tervben meghatározott céloknak, valamint az e rendeletben meghatározott kötelezettségeinek teljesítésére.
 
-(5)[^1] A bányászatihulladék-gazdálkodási tervet ötévenként felül kell vizsgálni, és amennyiben a hulladékkezelő létesítmény üzemelésében vagy az elhelyezett hulladékban jelentős, mennyiségi és minőségi változások következnek be, módosítani kell. A bányafelügyeletet minden változásról írásban értesíteni kell, amely ennek elfogadásáról határozatban dönt.
+(5)[^2] A bányászatihulladék-gazdálkodási tervet ötévenként felül kell vizsgálni, és amennyiben a hulladékkezelő létesítmény üzemelésében vagy az elhelyezett hulladékban jelentős, mennyiségi és minőségi változások következnek be, módosítani kell. A bányafelügyeletet minden változásról írásban értesíteni kell, amely ennek elfogadásáról határozatban dönt.
 
 (6) A (3) bekezdésben meghatározott információkat tartalmazó, külön jogszabály szerint készített terveket és engedélyezési dokumentációt fel lehet használni az azokra való tételes hivatkozással, ha így elkerülhető az ismételt információszolgáltatás, feltéve hogy az (1)–(5) bekezdésben foglalt követelmények teljesülnek.
 
-[^1]: A 4. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 3. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^2]: A 4. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 3. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.

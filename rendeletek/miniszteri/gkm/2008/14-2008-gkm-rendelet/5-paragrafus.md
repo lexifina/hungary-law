@@ -34,7 +34,7 @@ d) a megtett intézkedésekre
 
 (8) A bányafelügyelet döntése alapján nem készül külső vészhelyzeti terv, ha a lehetséges súlyos baleset következményeinek értékeléséből alaposan feltételezhető, hogy a településen nem alakulhat ki az egészséget és a környezetet veszélyeztető hatás.
 
-(9) A külső vészhelyzeti tervről annak elkészítése során a végrehajtásában érintettek (az illetékes megyei katasztrófavédelmi igazgatóság, fővárosban a Fővárosi Polgári Védelmi Igazgatóság, az Állami Népegészségügyi és Tisztiorvosi Szolgálat illetékes intézete, az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség, az illetékes önkormányzati tűzoltóság, mentőszolgálat, rendőrség), valamint az üzemeltető véleményt nyilvánít. A külső vészhelyzeti terv jóváhagyását megelőzően az érintett nyilvánosság részére lehetővé kell tenni, hogy a külső vészhelyzeti terv nyilvánosságra hozható részeihez 30 napon belül észrevételeket tehessen, amelyeket a bányafelügyelet a terv véglegesítése során figyelembe vesz.
+(9)[^3] A külső vészhelyzeti tervről annak elkészítése során a végrehajtásában érintettek (az illetékes megyei katasztrófavédelmi igazgatóság, fővárosban a Fővárosi Polgári Védelmi Igazgatóság, az Állami Népegészségügyi és Tisztiorvosi Szolgálat illetékes intézete, az illetékes környezetvédelmi, természetvédelmi és vízügyi felügyelőség, az illetékes önkormányzati tűzoltóság, mentőszolgálat, rendőrség), valamint az üzemeltető véleményt nyilvánít. A külső vészhelyzeti terv jóváhagyását megelőzően a nyilvánosság részére lehetővé kell tenni, hogy a külső vészhelyzeti terv nyilvánosságra hozható részeihez 30 napon belül észrevételeket tehessen, amelyeket a bányafelügyelet a terv véglegesítése során figyelembe vesz.
 
 (10) A külső vészhelyzeti tervet a helyi védelmi bizottság elnöke hagyja jóvá. A jóváhagyott külső vészhelyzeti tervet a bányafelügyelet megküldi a (9) bekezdésben felsorolt szervek és szervezetek részére.
 
@@ -42,6 +42,9 @@ d) a megtett intézkedésekre
 
 (12) A külső vészhelyzeti tervet a bányafelügyelet legalább háromévente felülvizsgálja és szükség szerint módosítja. A külső vészhelyzeti tervben végrehajtott módosításokról jegyzőkönyv készül. Amennyiben a külső vészhelyzeti terv jelentős módosítása szükséges, annak során a (9) bekezdés előírásait alkalmazni kell. A bányafelügyelet a külső vészhelyzeti terv módosításáról tájékoztatja a (9) bekezdésben felsoroltakat.
 
-(13) A bányafelügyelet gondoskodik arról, hogy a lehetséges súlyos balesettel kapcsolatos információkhoz – amelyek legalább a 3. melléklet II. pontjában felsorolt elemeket tartalmazzák – az érintett nyilvánosság ingyenesen hozzáférhessen.
+(13)[^4] A bányafelügyelet gondoskodik arról, hogy a lehetséges súlyos balesettel kapcsolatos információkhoz – amelyek legalább a 3. melléklet II. pontjában felsorolt elemeket tartalmazzák – a bányavállalkozó, az e rendeletben meghatározott döntéshozatali eljárásban részt vevők, valamint az ezekhez kapcsolódó nem kormányzati szervek ingyenesen hozzáférjenek.
 
 (14) A bányászatihulladék-kezelő létesítmény területén kívüli hatásokat okozó súlyos baleset bekövetkezése esetén a bányafelügyelet a veszélyeztetett település polgármesterét és a külső vészhelyzeti terv végrehajtásában érintetteket a megyei katasztrófavédelmi igazgatóság, fővárosban a Fővárosi Polgári Védelmi Igazgatóság ügyeleti szolgálata útján köteles haladéktalanul tájékoztatni a (6) bekezdésben felsorolt információkról.
+
+[^3]: Az 5. § (9) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
+[^4]: Az 5. § (13) bekezdése a 22/2010. (III. 19.) KHEM rendelet 6. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.

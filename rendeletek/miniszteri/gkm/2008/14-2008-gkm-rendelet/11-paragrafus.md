@@ -6,7 +6,7 @@ a) az engedélyben megszabott vonatkozó feltételek teljesülnek,
 
 b) az üzemeltető kérelmére a bányafelügyelet erre engedélyt ad vagy
 
-c) a bányafelügyelet saját hatáskörében ilyen értelmű határozatot bocsát ki.
+c)[^12] a bányafelügyelet erre vonatkozóan ilyen értelmű határozatot hoz.
 
 (2) A hulladékkezelő létesítmény akkor tekinthető véglegesen bezártnak, ha a bányafelügyelet végrehajtotta az érintett szakhatóság bevonásával végső helyszíni vizsgálatát, kiértékelte az üzemeltető által benyújtott összes jelentést, megállapította, hogy a hulladékkezelő létesítmény által érintett területet rehabilitálták és közölte az üzemeltetővel, hogy jóváhagyja a bezárást. A jóváhagyás nem mentesíti az üzemeltetőt az engedélyezési feltételekben foglalt vagy egyéb jogszabályi kötelezettségei alól.
 
@@ -21,3 +21,5 @@ b) a túlfolyócsatornákat és a bukógátakat tisztán és szabadon tartsák.
 (5) A hulladékkezelő létesítmény bezárása után az üzemeltető késedelem nélkül értesíti a bányafelügyeletet minden olyan eseményről vagy fejleményről, amely veszélyeztetheti a hulladékkezelő létesítmény stabilitását, valamint minden jelentős kedvezőtlen környezeti hatásról, amelyet a hulladékkezelő létesítmény ellenőrzése és monitoringja feltár. Az üzemeltető, ahol alkalmazható, a belső vészhelyzeti tervet hajtja végre és követi az illetékes hatóság minden más utasítását a végrehajtandó korrekciós intézkedéseket illetően. Az üzemeltető fedezi a végrehajtandó intézkedések költségeit.
 
 (6) A bányafelügyelet által meghatározott esetekben és gyakorisággal az üzemeltető az összegyűjtött adatok alapján jelentést készít az ellenőrzési eredményekről abból a célból, hogy bizonyítsa az engedélyezési feltételek betartását, valamint gyarapítsa a hulladék és a hulladékkezelő létesítmény viselkedésére vonatkozó ismereteket.
+
+[^12]: A 11. § (1) bekezdés c) pontja a 22/2010. (III. 19.) KHEM rendelet 6. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.

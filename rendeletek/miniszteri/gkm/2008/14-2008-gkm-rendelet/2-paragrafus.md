@@ -6,7 +6,7 @@
 
 2. dúsítási maradékok: szilárd vagy iszapszerű hulladékok, amelyek az ásványok elválasztástechnikai eljárásokkal (például törés, őrlés, osztályozás, flotálás és más fizikai, kémiai eljárások) történő – az értékes ásványi részeknek a kevésbé értékes kőzettől való eltávolítása érdekében végzett – előkészítése után maradnak vissza;
 
-3. érintett nyilvánosság: e rendeletben meghatározott, a környezetvédelmi döntéshozatal által érintett vagy valószínűleg érintett, illetve abban érdekelt nyilvánosság, és nem kormányzati szervezeteik;
+3.[^1]
 
 4. gát: mesterséges építmény víznek vagy hulladéknak egy mesterséges térben való visszatartására vagy elkerítésére;
 
@@ -43,3 +43,5 @@ d) három évet meghaladó időtartamnál a nem szennyezett talaj; a nem veszél
 16. üzemeltető: az a természetes vagy jogi személy, aki a bányászati hulladék kezeléséért felelős, beleértve a bányászati hulladék ideiglenes tárolását, valamint a működési és a bezárás utáni időszakot is;
 
 17. veszélyes hulladék: a Hgt. 3. § b) pontjában meghatározott hulladék.
+
+[^1]: A 2. § 3. pontját a 22/2010. (III. 19.) KHEM rendelet 6. § (7) bekezdése hatályon kívül helyezte. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
