@@ -1,0 +1,3 @@
+## „(3) Az (1) bekezdés c)–d) pontjában feltüntetett dokumentumokra vonatkozóan hiánypótlásnak nincs helye.
+
+## (4) Amennyiben a támogatási kérelemben a drágább árajánlatot szerepelteti elszámolható költségként, úgy azt köteles megindokolni. Az árajánlatok nem származhatnak az ügyfél saját vagy kapcsolt vállalkozásától vagy olyan vállalkozástól, amelyben az ügyfél tulajdoni hányaddal rendelkezik, vagy olyan vállalkozástól, amelyben valamely természetes vagy jogi személy úgy rendelkezik tulajdoni hányaddal, hogy közben a támogatási kérelmet benyújtó társaságban is, ugyanez a feltétel vonatkozik a kivitelezőkre és a beszállítókra. Az építmények elszámolható költségeit az elfogadott kivitelezői árajánlat alapján kell meghatározni.”

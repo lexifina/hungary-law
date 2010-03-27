@@ -1,0 +1,1 @@
+## „(10) Kizárólag a legalább 200 hektár összes üzemelő halastó területtel rendelkező ügyfelek a HOP 2007–2013-as időszakában egy alkalommal támogatást igényelhetnek egy darab lánctalpas hidraulikus forgó kotró tókarbantartó gép beszerzéséhez.”
