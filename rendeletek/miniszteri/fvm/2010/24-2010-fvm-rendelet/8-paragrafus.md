@@ -1,0 +1,5 @@
+## 7. § A bizottsági rendelet 48. cikkében meghatározottakra figyelemmel nem jogosult az e rendelet szerinti támogatásra az a zöldség-gyümölcs termelői csoport, amely tulajdonosainak, szövetkezet esetében tagjainak legalább 60%-a a támogatás alapjául szolgáló időszak kezdetét megelőző öt évben bármikor egyidejűleg ugyanazon termelői szervezetnek volt a tagja.
+
+8. § (1) A Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a zöldség-gyümölcs termelői csoport kérelmére hatósági bizonyítványt állít ki az elismerési tervben jóváhagyott beruházásokról, azok keretösszegéről és a végrehajtásuk esetén igénybe vehető támogatási összeg maximumáról.
+
+(2) A hatósági bizonyítvány kiállítása iránti kérelmet az MVH által rendszeresített és az MVH honlapján közzétett formanyomtatványon lehet benyújtani az MVH-hoz. A hatósági bizonyítvány kiállítása iránti kérelem tartalmazza a kérelmező azonosító adatait, regisztrációs számát, valamint az elismerési tervnek azt az időszakát, amelyre a kérelem vonatkozik.
