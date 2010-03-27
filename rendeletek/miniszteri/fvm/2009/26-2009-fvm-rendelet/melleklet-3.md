@@ -14,15 +14,17 @@
 
 ## f) takarmányfúvó gépek.
 
-## 2. Halászat gépei, eszközei:
+## 2.[^36] Halászat gépei, eszközei:
 
-## a) halszákoló gépek;
+## a) lánctalpas kotrógép;
 
-## b) halszivattyúk;
+## b) halszákoló gépek;
 
-## c) halválogató asztalok, halválogató gépek;
+## c) halszivattyúk;
 
-## d) halaskosarak.
+## d) halválogató asztalok, halválogató gépek;
+
+## e) halaskosarak.
 
 ## 3. Halszállítás eszközei:
 
@@ -62,4 +64,7 @@
 
 ## f) ózonos sterilizáló.
 
-3. számú melléklet a 26/2009. (III. 17.) FVM rendelethez
+3. számú melléklet a 26/2009. (III. 17.) FVM rendelethez[^37]
+
+[^36]: A 2. számú melléklet 2. pontja a 27/2010. (III. 26.) FVM rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^37]: A 3. számú melléklet a 27/2010. (III. 26.) FVM rendelet 27. § (3) bekezdésével megállapított szöveg.

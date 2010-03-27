@@ -6,23 +6,23 @@
 
 | Szakmai szempontok |
 
-| A művelet műszaki tartalma |  | max.: 10 |
+| A művelet műszaki tartalma |  | max.: 6 |
 
-|  | Az alkalmazott műszaki megoldásoknak köszönhetően a projekt eredménye hosszú távon fenntartható, az alkalmazott műszaki megoldások újszerűek | 10 |
+|  | Az alkalmazott műszaki megoldásoknak köszönhetően a projekt eredménye hosszú távon fenntartható, az alkalmazott műszaki megoldások újszerűek | 6 |
 
-|  | A halászati ágazatban általános műszaki megoldásokat alkalmaz | 5 |
+|  | A halászati ágazatban általános műszaki megoldásokat alkalmaz | 3 |
 
-| Alkalmazott termelési technológia |  | max.: 7 |
+| Alkalmazott termelési technológia |  | max.: 5 |
 
-|  | A művelet megvalósulásával új termeléstechnológia kerül bevezetésre | 7 |
+|  | A művelet megvalósulásával új termeléstechnológia kerül bevezetésre | 5 |
 
-| Termelési struktúra |  | max.: 6 |
+| Termelési struktúra |  | max.: 5 |
 
-|  | Tógazdasági beruházás megvalósulásával új, az ügyfél korábbi tevékenysége során nem termelt halfaj kerül termelésbe vonásra | 6 |
+|  | Tógazdasági beruházás megvalósulásával új, az ügyfél korábbi tevékenysége során nem termelt halfaj kerül termelésbe vonásra | 5 |
 
-|  | Intenzív üzemi haltermelő beruházás megvalósulásával új, az ügyfél korábbi tevékenysége során nem termelt halfaj kerül termelésbe vonásra | 6 |
+|  | Intenzív üzemi haltermelő beruházás megvalósulásával új, az ügyfél korábbi tevékenysége során nem termelt halfaj kerül termelésbe vonásra | 5 |
 
-|  | A művelet megvalósulásával nem kerül új halfaj termelésbe, azonban a termelés struktúrája, a termelés vertikálisan szélesedik | 4 |
+|  | A művelet megvalósulásával nem kerül új halfaj termelésbe, azonban a termelés struktúrája, a termelés vertikálisan szélesedik | 3 |
 
 | Komplexitás |  | max.: 6 |
 
@@ -32,13 +32,13 @@
 
 |  | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 6–7 valósul meg | 6 |
 
-| Termelés volumene |  | max.: 5 |
+| Termelés volumene |  | max.: 3 |
 
-|  | A művelet megvalósulásával az ágazati átlagon felüli, de reálisan megvalósítható a tervezett termelés | 5 |
+|  | A művelet megvalósulásával az ágazati átlagon felüli, de reálisan megvalósítható a tervezett termelés | 3 |
 
 |  | A művelet megvalósulásával az ágazati átlagos szintet éri el a tervezett termelés | 2 |
 
-| Összesen |  | max.: 34 |
+| Összesen |  | max.: 25 |
 
 | Horizontális szempontok |
 
@@ -48,17 +48,17 @@
 
 |  | A művelet megvalósulásával csak közvetett úton csökken a környezetterhelés | 6 |
 
-| Foglalkoztatás |  | max.: 12 |
+| Foglalkoztatás |  | max.: 10 |
 
-|  | A művelet megvalósulásával legalább 3 új munkahely jön létre | 12 |
+|  | A művelet megvalósulásával legalább 3 új munkahely jön létre | 10 |
 
-|  | A művelet megvalósulásával 1, vagy két új munkahely jön létre | 10 |
+|  | A művelet megvalósulásával 1, vagy két új munkahely jön létre | 8 |
 
-|  | Csak munkahelymegőrzés történik | 8 |
+|  | Csak munkahelymegőrzés történik | 5 |
 
-| Munkakörülményekre gyakorolt hatás |  | max.: 6 |
+| Munkakörülményekre gyakorolt hatás |  | max.: 5 |
 
-|  | A művelet megvalósulásával közvetlenül javulnak a munkavégzés körülményei, feltételei, a művelet egy része vagy egésze erre irányul | 6 |
+|  | A művelet megvalósulásával közvetlenül javulnak a munkavégzés körülményei, feltételei, a művelet egy része vagy egésze erre irányul | 5 |
 
 |  | Csak közvetett úton javulnak a munkavégzés körülményei, feltételei | 3 |
 
@@ -70,21 +70,21 @@
 
 |  | A női foglalkoztatottak aránya 20 és 50% között van | 3 |
 
-| Összesen |  | max.: 33 |
+| Összesen |  | max.: 30 |
 
 | Vállalkozás-/cégértékelés |
 
-| A vállalkozás mérete |  | max.: 10 |
+| A vállalkozás mérete |  | max.: 8 |
 
-|  | Az ügyfél a támogatási kérelem benyújtásakor mikrovállalkozásnak minősül | 10 |
+|  | Az ügyfél a támogatási kérelem benyújtásakor mikrovállalkozásnak minősül | 8 |
 
-|  | Az ügyfél a támogatási kérelem benyújtásakor kisvállalkozásnak minősül | 8 |
+|  | Az ügyfél a támogatási kérelem benyújtásakor kisvállalkozásnak minősül | 4 |
 
-| Értékesítés |  | max.: 4 |
+| Értékesítés |  | max.: 3 |
 
-|  | A megtermelt hal legalább 50%-a feldolgozva kerül értékesítésre | 4 |
+|  | A megtermelt hal legalább 50%-a feldolgozva kerül értékesítésre | 3 |
 
-|  | A megtermelt hal 10–50%-a feldolgozva kerül értékesítésre | 3 |
+|  | A megtermelt hal 30–50%-a feldolgozva kerül értékesítésre | 2 |
 
 | Alkalmazott minőségbiztosítás |  | max.: 4 |
 
@@ -92,179 +92,71 @@
 
 |  | Az ügyfél csak HACCP minőségbiztosítási rendszerrel rendelkezik | 2 |
 
-| Ágazati szerveződés(az alábbi két pont együttes teljesülése esetén érhető el a maximális pont) |  | max.: 3 |
+| Ágazati szerveződés (az alábbi két pont együttes teljesülése esetén érhető el a maximális pont) |  | max.: 2 |
 
-|  | Az ügyfél a kérelem benyújtásakor termelői szervezet, vagy termelői csoport tagja | 2 |
+|  | Az ügyfél a kérelem benyújtásakor termelői szervezet, termelői csoport, vagy ágazati érdekképviseleti szervezet tagja | 2 |
 
-|  | Az ügyfél a kérelem benyújtásakor, ágazati érdekképviseleti szervezet tagja | 1 |
-
-| Összesen |  | max.: 21 |
-
-| Pénzügyi értékelés |
-
-| Árbevétel aránya |  | max.: 3 |
+| Árbevétel arány |  | max: 3 |
 
 |  | Az összes árbevétel legalább 80%-a a haltermelési és/vagy halfeldolgozási tevékenységből származik, a kérelem benyújtását megelőző lezárt üzleti évben | 3 |
 
-|  | Az összes árbevétel 50–80%-ig a haltermelési és/vagy halfeldolgozási tevékenységből származik, a kérelem benyújtását megelőző lezárt üzleti évben | 2 |
+|  | Az összes árbevétel 50–80%-ig a haltermelési és/vagy halfeldolgozási tevékenységből származik, a kérelem benyújtását megelőző lezárt üzleti évben | 1 |
 
-| Üzemi eredmény változása |  | max.: 3 |
-
-|  | Az üzemi eredmény a bázisévtől számított 5 éven belül legalább 5%-kal növekszik | 3 |
-
-|  | Az üzemi eredmény a bázisévtől számított 5 éven belül legalább 2–5%-kal növekszik | 2 |
-
-| Adózás előtti eredmény, vagy vállalkozási adóalap |  | max.: 3 |
-
-|  | Adózás előtti eredmény, vagy vállalkozási adóalap bázisévtől számított 5 éven belül legalább 5%-kal növekszik | 3 |
-
-|  | Adózás előtti eredmény, vagy vállalkozási adóalap bázisévtől számított 5 éven belül legalább 2–5%-kal növekszik | 2 |
-
-| A vállalkozás üzem tevékenységének hatékonysága |  | max.: 3 |
-
-|  | Az üzemi eredmény és a közvetlen költségek százalékos aránya 2–3% közötti | 3 |
-
-|  | Az üzemi eredmény és a közvetlen költségek százalékos aránya 1–2% közötti | 2 |
-
-| Összesen |  | max.: 12 |
-
-| Mindösszesen |  | max.: 100 |
-
-## Kiválasztási kritériumok
-
-## Halfeldolgozás 2.3.
+| Összesen |  | max.: 20 |
 
 | Értékelési szempont megnevezése | Pontszám |
 
-| Szakmai szempontok |
-
-| A művelet műszaki tartalma |  | max.: 10 |
-
-|  | Az alkalmazott műszaki megoldásoknak köszönhetően a projekt eredménye hosszú távon fenntartható, az alkalmazott műszaki megoldások újszerűek | 10 |
-
-|  | A halászati ágazatban általános műszaki megoldásokat alkalmaz | 7 |
-
-| Alkalmazott termelési technológia |  | max.: 6 |
-
-|  | A művelet megvalósulásával új technológia kerül bevezetésre | 6 |
-
-| Termelési struktúra |  | max.: 7 |
-
-|  | A művelet megvalósulásával a termelési struktúra bővül, a termelés vertikálisan szélesedik | 7 |
-
-|  | A művelet megvalósulásával nem kerül új halfaj termelésbe, azonban a termelés struktúrája, a termelés vertikálisan szélesedik | 5 |
-
-| Új termékek, hozzáadott érték |  | max.: 6 |
-
-|  | A művelet megvalósulásával új, a hazai piacon eddig jellemzően jelen nem lévő, készterméket állít elő | 6 |
-
-|  | A művelet megvalósulásával a hozzáadott értéket növeli, de új terméket a piac szempontjából nem állít elő | 4 |
-
-| Komplexitás |  | max.: 5 |
-
-|  | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 1–3 valósul meg | 2 |
-
-|  | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 4–5 valósul meg | 4 |
-
-|  | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 6–7 valósul meg | 5 |
-
-| Összesen |  | max.: 34 |
-
-| Horizontális szempontok |
-
-| Környezetvédelem |  | max.: 10 |
-
-|  | A művelet megvalósulásával közvetlenül csökken a környezetterhelés, a művelet egy része, vagy egésze erre a célra irányul | 10 |
-
-|  | A művelet megvalósulásával csak közvetett úton csökken a környezetterhelés | 6 |
-
-| Foglalkoztatás |  | max.: 12 |
-
-|  | A művelet megvalósulásával legalább 3 új munkahely jön létre | 12 |
-
-|  | A művelet megvalósulásával egy vagy két új munkahely jön létre | 10 |
-
-|  | Csak munkahelymegőrzés történik | 8 |
-
-| Munkakörülményekre gyakorolt hatás |  | max.: 6 |
-
-|  | A művelet megvalósulásával közvetlenül javulnak a munkavégzés körülményei, feltételei, a művelet egy része, vagy egésze erre irányul | 6 |
-
-|  | Csak közvetett úton javulnak a munkavégzés körülményei, feltételei | 3 |
-
-| Esélyegyenlőség |  | max.: 5 |
-
-|  | A foglalkoztatottak legalább 50%-a nő, és/vagy a cég vezetője nő | 5 |
-
-|  | A művelet megvalósulásával legalább egy új női munkahely is létrejön | 4 |
-
-|  | A női foglalkoztatottak aránya 20 és 50% között van | 3 |
-
-| Összesen |  | max.: 33 |
-
-| Vállalkozás-/cégértékelés |
-
-| A vállalkozás mérete |  | max.: 10 |
-
-|  | Az ügyfél a támogatási kérelem benyújtásakor mikrovállalkozásnak minősül | 10 |
-
-|  | Az ügyfél a támogatási kérelem benyújtásakor kisvállalkozásnak minősül | 8 |
-
-| Értékesítés |  | max.: 4 |
-
-|  | Az éves feldolgozott halmennyiség legalább 50%-a saját termelésből származott a kérelem benyújtását megelőző lezárt üzleti évben | 4 |
-
-|  | Az éves feldolgozott halmennyiség 10–50%-ig saját termelésből származott a kérelem benyújtását megelőző lezárt üzleti évben | 3 |
-
-| Alkalmazott minőségbiztosítás |  | max.: 4 |
-
-|  | Az ügyfél a HACCP-n felül rendelkezik más minőségbiztosítási, és/vagy nyomonkövetési rendszerrel | 4 |
-
-|  | Az ügyfél csak HACCP minőségbiztosítási rendszerrel rendelkezik | 2 |
-
-| Ágazati szerveződés(az alábbi két pont együttes teljesülése esetén érhető el a maximális pont) |  | max.: 3 |
-
-|  | Az ügyfél a kérelem benyújtásakor termelői szervezet, vagy termelői csoport tagja | 2 |
-
-|  | Az ügyfél a kérelem benyújtásakor, ágazati érdekképviseleti szervezet tagja | 1 |
-
-| Összesen |  | max.: 21 |
-
 | Pénzügyi értékelés |
 
-| Árbevétel aránya |  | max.: 3 |
+| Kettős könyvvitelt vezetők esetében |  |
 
-|  | Az összes árbevétel legalább 80%-a a haltermelési és/vagy halfeldolgozási tevékenységből származik, a kérelem benyújtását megelőző lezárt üzleti évben | 3 |
+|  |  | Legutolsó lezárt üzleti év pénzügyi beszámolója alapján: | max:10 |
 
-|  | Az összes árbevétel 50–80%-ig a haltermelési és/vagy halfeldolgozási tevékenységből származik, a kérelem benyújtását megelőző lezárt üzleti évben | 2 |
+|  |  | A következő számított mutatók megfelelnek-e az iparági átlagnak? |  |
 
-| Üzemi eredmény változása |  | max.: 3 |
+|  |  | Tőke arányos jövedelmezőség = Mérleg szerinti eredmény*100/ Saját tőke | 2 |
 
-|  | Az üzemi eredmény a bázisévtől számított 5 éven belül legalább 5%-kal növekszik | 3 |
+|  |  | Eszköz arányos jövedelmezőség = Adózott eredmény*100/ Összes eszköz | 2 |
 
-|  | Az üzemi eredmény a bázisévtől számított 5 éven belül legalább 2–5%-kal növekszik | 2 |
+|  |  | Eladósodottsági mutató= Kötelezettségek*100/ Összes forrás | 2 |
 
-| Adózás előtti eredmény, vagy vállalkozási adóalap |  | max.: 3 |
+|  |  | Likviditási mutató = Forgóeszköz*100/ Rövid lejáratú kötelezettségek | 2 |
 
-|  | Adózás előtti eredmény, vagy vállalkozási adóalap bázisévtől számított 5 éven belül legalább 5%-kal növekszik | 3 |
+|  |  | Befektetett eszközök fedezete = Saját tőke*100/ Befektetett eszközök | 2 |
 
-|  | Adózás előtti eredmény, vagy vállalkozási adóalap bázisévtől számított 5 éven belül legalább 2–5%-kal növekszik | 2 |
+|  |  | Üzleti terv alapján: | max: 15 |
 
-| A vállalkozás üzem tevékenységének hatékonysága |  | max.: 3 |
+|  |  | Beruházás átlagos hatékonysága (= 5 év átlagos nettó árbevétele/ Beruházás összege) | 40% fölött van. | 8 |
 
-|  | Az üzemi eredmény és a közvetlen költségek százalékos aránya 2–3% közötti | 3 |
+|  |  | 20% fölött van | 5 |
 
-|  | Az üzemi eredmény és a közvetlen költségek százalékos aránya 1–2% közötti | 2 |
+|  |  | Tervezett beruházás elszámolható költségeinek realitása | A beruházás feltüntetett összköltsége a normaértékek alapján elfogadható, vagy maximum 5%-kal kerül csökkentésre az MVH által | 7 |
 
-| Összesen |  | max.: 12 |
+|  |  |  | A beruházás feltüntetett összköltsége a normaértékek alapján 6% és 10% közötti csökkentéssel kerül jóváhagyásra az MVH által | 4 |
 
-| Mindösszesen |  | max.: 100 |
+|  | Összesen | max.:25 |
+
+|  | VAGY Kettőskönyvvitelt nem vezetők, induló vállalkozások esetében: |  |
+
+|  | Üzleti terv alapján: | max: 25 |
+
+|  |  | Tervezett beruházás elszámolható költségeinek realitása | A beruházás feltüntetett összköltsége a normaértékek alapján elfogadható, vagy maximum 5%-kal kerül csökkentésre az MVH által | 15 |
+
+|  |  | A beruházás feltüntetett összköltsége a normaértékek alapján 6% és 10% közötti- csökkentéssel kerül jóváhagyásra az MVH által | 5 |
+
+|  |  | Beruházás átlagos hatékonysága (= 5 év átlagos nettó árbevétele/ Beruházás összege) | 40% fölött | 10 |
+
+|  |  | 20% felett | 5 |
+
+| Amennyiben a támogatási kérelmet benyújtó mindkét utolsó lezárt évben veszteséges volt üzemi/üzleti eredmény szintjén (egyéni vállalkozóknál, őstermelőknél adózás előtti eredmény szintjén, egy lezárt üzleti évvel rendelkezők esetében a lezárt évre vonatkozóan), úgy a pénzügyi szempontokra adható pontszám 0. |
+
+|  | Mindösszesen: | max: 100 |
 
 ## Kiválasztási kritériumok
 
 ## Belvízi halászat 2.2.
 
-| Értékelési szempont megnevezése | Pontszám |
+|  | Értékelési szempont megnevezése | Pontszám |
 
 | Szakmai szempontok |
 
@@ -292,7 +184,7 @@
 
 | Környezetvédelem |  | max.: 20 |
 
-|  | A művelet megvalósulásával közvetlenül csökken a környezetterhelés, a művelet egy része, vagy egésze erre a célra irányul | 20 |
+|  | A művelet megvalósulásával közvetlenül csökken a környezetterhelés, a művelet egy része vagy egésze erre a célra irányul | 20 |
 
 |  | A művelet megvalósulásával csak közvetett úton csökken a környezetterhelés | 10 |
 
@@ -306,7 +198,7 @@
 
 | Munkakörülményekre gyakorolt hatás |  | max.: 15 |
 
-|  | A művelet megvalósulásával közvetlenül javulnak a munkavégzés körülményei, feltételei, a művelet egy része, vagy egésze erre irányul | 15 |
+|  | A művelet megvalósulásával közvetlenül javulnak a munkavégzés körülményei, feltételei, a művelet egy része vagy egésze erre irányul | 15 |
 
 |  | Csak közvetett úton javulnak a munkavégzés körülményei, feltételei | 7 |
 
@@ -318,7 +210,7 @@
 
 |  | A halászzsákmány legalább 50%-át közvetlenül halfeldolgozók részére, vagy saját halfeldolgozón keresztül értékesítette a kérelem benyújtását megelőző lezárt üzleti évben | 10 |
 
-|  | A halászzsákmány 10–50%-át közvetlenül halfeldolgozók részére, vagy saját halfeldolgozón keresztül értékesítette a kérelem benyújtását megelőző lezárt üzleti évben | 6 |
+|  | A halászzsákmány 10 50%-át közvetlenül halfeldolgozók részére, vagy saját halfeldolgozón keresztül értékesítette a kérelem benyújtását megelőző lezárt üzleti évben | 6 |
 
 | Ágazati szerveződés (az alábbi két pont együttes teljesülése esetén érhető el a maximális pont) |  | max.: 3 |
 
@@ -330,164 +222,344 @@
 
 | Mindösszesen |  | max.: 100 |
 
-4. számú melléklet a 26/2009. (III. 17.) FVM rendelethez
+## Kiválasztási kritériumok
 
-(1) Az akvakultúra termelő beruházásaihoz nyújtandó támogatások című intézkedéshez nyújtandó monitoring adatok
+## Halfeldolgozás 2.3.
 
-a) Termelési kapacitás növelése új halgazdaságok építésével című alintézkedés esetén:
+|  | Értékelési szempont megnevezése | Pontszám |
 
-– új halastó területe (ha)
+| Szakmai szempontok |
 
-– új intenzív halnevelő rendszer termelő részének térfogata (m3)
+| A művelet műszaki tartalma |  | max.: 6 |
 
-– az ügyfél éves termelése ponty (t), pisztráng (t), angolna (t), egyéb fajok (t) bontásban
+|  | Az alkalmazott műszaki megoldásoknak köszönhetően a projekt eredménye hosszú távon fenntartható, az alkalmazott műszaki megoldások újszerűek | 6 |
 
-– foglalkoztatás: teljes és részmunkaidős, női és férfi foglalkoztatottak
+|  | A halászati ágazatban általános műszaki megoldásokat alkalmaz | 3 |
 
-– éves nettó árbevétel
+| Alkalmazott termelési technológia |  | max.: 3 |
 
-– haltermelési és halfeldolgozási tevékenységből származó árbevétel
+|  | A művelet megvalósulásával új technológia kerül bevezetésre | 3 |
 
-– közvetlen költségek
+| Termelési struktúra |  | max.: 5 |
 
-– üzemi eredmény
+|  | A művelet megvalósulásával a termelési struktúra bővül, a termelés vertikálisan szélesedik | 5 |
 
-– adózás előtti eredmény, vagy vállalkozási adóalap
+|  | A művelet megvalósulásával nem kerül új halfaj termelésbe, azonban a termelés struktúrája, a termelés vertikálisan szélesedik | 3 |
 
-– mérleg szerinti eredmény, vagy adózás utáni vállakozási jövedelem
+| Új termékek, hozzáadott érték |  | max.: 6 |
 
-– anyag és anyagi jellegű szolgáltatás
+|  | A művelet megvalósulásával új, a hazai piacon eddig jellemzően jelen nem lévő, készterméket állít elő | 6 |
 
-– saját termelésű hal feldolgozásának aránya
+|  | A művelet megvalósulásával a hozzáadott értéket növeli, de új terméket a piac szempontjából nem állít elő | 3 |
 
-– a vállalkozás mérete
+| Komplexitás |  | max.: 5 |
 
-b) Termelésben meglévő gazdaságok korszerűsítése vagy bővítése című alintézkedés esetén:
+|  | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 1–3 valósul meg | 2 |
 
-– új halastó területe (ha)
+|  | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 4–5 valósul meg | 4 |
 
-– felújított halastó területe (ha)
+|  | A művelet megvalósulásával a támogatási rendeletben megfogalmazott célkitűzések közül 6–7 valósul meg | 5 |
 
-– új intenzív halnevelő rendszer termelő részének térfogata (m3)
+| Összesen |  | max.: 25 |
 
-– felújított intenzív halnevelő rendszer térfogata
+| Horizontális szempontok |
 
-– az ügyfél éves termelése ponty (t), pisztráng (t), angolna (t), egyéb fajok (t) bontásban
+| Környezetvédelem |  | max.: 10 |
 
-– foglalkoztatás: teljes és részmunkaidős, női és férfi foglalkoztatottak
+|  | A művelet megvalósulásával közvetlenül csökken a környezetterhelés, a művelet egy része vagy egésze erre a célra irányul | 10 |
 
-– éves nettó árbevétel
+|  | A művelet megvalósulásával csak közvetett úton csökken a környezetterhelés | 6 |
 
-– haltermelési és halfeldolgozási tevékenységből származó árbevétel
+| Foglalkoztatás |  | max.: 10 |
 
-– közvetlen költségek
+|  | A művelet megvalósulásával legalább 3 új munkahely jön létre | 10 |
 
-– üzemi eredmény
+|  | A művelet megvalósulásával egy vagy két új munkahely jön létre | 8 |
 
-– adózás előtti eredmény, vagy vállalkozási adóalap
+|  | Csak munkahelymegőrzés történik | 5 |
 
-– mérleg szerinti eredmény, vagy adózás utáni vállalkozási jövedelem
+| Munkakörülményekre gyakorolt hatás |  | max.: 5 |
 
-– anyag és anyagi jellegű szolgáltatás
+|  | A művelet megvalósulásával közvetlenül javulnak a munkavégzés körülményei, feltételei, a művelet egy része vagy egésze erre irányul | 5 |
 
-– saját termelésű hal feldolgozásának aránya
+|  | Csak közvetett úton javulnak a munkavégzés körülményei, feltételei | 3 |
 
-– a vállalkozás mérete
+| Esélyegyenlőség |  | max.: 5 |
 
-c) Halkeltetők építése, bővítése, korszerűsítése című alintézkedés esetén:
+|  | A foglalkoztatottak legalább 50%-a nő, és/vagy a cég vezetője nő | 5 |
 
-– keltetőből származó ponty (db/év), pisztráng (db/év), egyéb fajok (db/év)
+|  | A művelet megvalósulásával legalább egy új női munkahely is létrejön | 4 |
 
-– foglalkoztatás: teljes és részmunkaidős, női és férfi foglalkoztatottak
+|  | A női foglalkoztatottak aránya 20 és 50% között van | 3 |
 
-– éves nettó árbevétel
+| Összesen |  | max.: 30 |
 
-– haltermelési és halfeldolgozási tevékenységből származó árbevétel
+| Vállalkozás-/cégértékelés |
 
-– közvetlen költségek
+| A vállalkozás mérete |  | max.: 8 |
 
-– üzemi eredmény
+|  | Az ügyfél a támogatási kérelem benyújtásakor mikrovállalkozásnak minősül | 8 |
 
-– adózás előtti eredmény, vagy vállalkozási adóalap
+|  | Az ügyfél a támogatási kérelem benyújtásakor kisvállalkozásnak minősül | 4 |
 
-– mérleg szerinti eredmény, vagy adózás utáni vállalkozási jövedelem
+| Értékesítés |  | max.: 3 |
 
-– anyag és anyagi jellegű szolgáltatás
+|  | Az éves feldolgozott halmennyiség legalább 50%-a saját termelésből származott a kérelem benyújtását megelőző lezárt üzleti évben | 3 |
 
-– saját termelésű hal feldolgozásának aránya
+|  | Az éves feldolgozott halmennyiség 30–50%-ig saját termelésből származott a kérelem benyújtását megelőző lezárt üzleti évben | 2 |
 
-– a vállalkozás mérete
+| Alkalmazott minőségbiztosítás |  | max.: 4 |
 
-(2) A halfeldolgozáshoz és értékesítéshez nyújtandó támogatások című intézkedéshez nyújtandó monitoring adatok
+|  | Az ügyfél a HACCP-n felül rendelkezik más minőségbiztosítási, és/vagy nyomonkövetési rendszerrel | 4 |
 
-a) Halfeldolgozó kapacitás növelése című alintézkedéshez:
+|  | Az ügyfél csak HACCP minőségbiztosítási rendszerrel rendelkezik | 2 |
 
-– új halfeldolgozó éves kapcitása (t/év)
+| Ágazati szerveződés (az alábbi két pont együttes teljesülése esetén érhető el a maximális pont) |  | max.: 2 |
 
-– felújított halfeldolgozó éves kapcitása (t/év)
+|  | Az ügyfél a kérelem benyújtásakor termelői szervezet, termelői csoport vagy ágazati érdekképviseleti szervezet tagja | 2 |
 
-– friss, vagy hűtött termékek (t/év)
+| Árbevétel arány |  | max: 3 |
 
-– tartósított, vagy félig tatósított termékek (t/év)
+|  | Az összes árbevétel legalább 80%-a a haltermelési és/vagy halfeldolgozási tevékenységből származik, a kérelem benyújtását megelőző lezárt üzleti évben | 3 |
 
-– fagyasztott, vagy mélyfagyasztott termékek (t/év)
+|  | Az összes árbevétel 50–80%-ig a haltermelési és/vagy halfeldolgozási tevékenységből származik, a kérelem benyújtását megelőző lezárt üzleti évben | 1 |
 
-– egyéb feldolgozott termékek (t/év)
+| Összesen |  | max.: 20 |
 
-– foglalkoztatás: teljes és részmunkaidős, női és férfi foglalkoztatottak
+| Értékelési szempont megnevezése | Pontszám |
 
-– éves nettó árbevétel
+| Pénzügyi értékelés |
 
-– haltermelési és halfeldolgozási tevékenységből származó árbevétel
+| Kettős könyvvitelt vezetők esetében |  |
 
-– közvetlen költségek
+|  | Legutolsó lezárt üzleti év pénzügyi beszámolója alapján: | max:10 |
 
-– üzemi eredmény
+|  | A következő számított mutatók megfelelnek-e az iparági átlagnak? |  |
 
-– adózás előtti eredmény, vagy vállalkozási adóalap
+| Tőke arányos jövedelmezőség = Mérleg szerinti eredmény*100/ Saját tőke | 2 |
 
-– mérleg szerinti eredmény, vagy adózás utáni vállalkozási jövedelem
+| Eszköz arányos jövedelmezőség = Adózott eredmény*100/ Összes eszköz | 2 |
 
-– anyag és anyagi jellegű szolgáltatás
+| Eladósodottsági mutató= Kötelezettségek*100/ Összes forrás | 2 |
 
-– saját termelésű hal feldolgozásának aránya
+| Likviditási mutató = Forgóeszköz*100/ Rövid lejáratú kötelezettségek | 2 |
 
-– a vállalkozás mérete
+| Befektetett eszközök fedezete = Saját tőke*100/ Befektetett eszközök | 2 |
 
-b) Halfeldolgozó egységek fejlesztése, korszerűsítése:
+|  | Üzleti terv alapján: | max: 15 |
 
-– a halfeldolgozó éves kapacitása (t/év)
+|  |  | Beruházás átlagos hatékonysága (= 5 év átlagos nettó árbevétele/ Beruházás összege) | 40% fölött van | 8 |
 
-– halfeldolgozó egység száma, ahol javultak a higiéniai és munkakörülmények
+| 20% fölött van | 5 |
 
-– halfeldolgozó egység száma, ahol javultak a környezeti feltételek
+| Tervezett beruházás elszámolható költségeinek realitása | A beruházás feltüntetett összköltsége a normaértékek alapján elfogadható, vagy maximum 5%-kal kerül csökkentésre az MVH által | 7 |
 
-– halfeldolgozó egységek száma, ahol jobb termelési rendszerek kerültek bevezetésre
+| A beruházás feltüntetett összköltsége a normaértékek alapján 6% és 10% közötti csökkentéssel kerül jóváhagyásra az MVH által | 4 |
 
-– egyéb feldolgozott termékek (t/év)
+| Összesen | max.:25 |
 
-– foglalkoztatás: teljes és részmunkaidős, női és férfi foglalkoztatottak
+| VAGY Kettőskönyvvitelt nem vezetők, induló vállalkozások esetében: |
 
-– éves nettó árbevétel
+|  | Üzleti terv alapján: | max: 25 |
 
-– haltermelési és halfeldolgozási tevékenységből származó árbevétel
+|  | Tervezett beruházás elszámolható költségeinek realitása | A beruházás feltüntetett összköltsége a normaértékek alapján elfogadható, vagy maximum 5%-kal kerül csökkentésre az MVH által | 15 |
 
-– közvetlen költségek
+| A beruházás feltüntetett összköltsége a normaértékek alapján 6% és 10% közötti csökkentéssel kerül jóváhagyásra az MVH által | 5 |
 
-– üzemi eredmény
+| Beruházás átlagos hatékonysága (= 5 év átlagos nettó árbevétele/ Beruházás összege) | 40% fölött | 10 |
 
-– adózás előtti eredmény, vagy vállalkozási adóalap
+| 20% felett | 5 |
 
-– mérleg szerinti eredmény, vagy adózás utáni vállalkozási jövedelem
+| Amennyiben a támogatási kérelmet benyújtó mindkét utolsó lezárt évben veszteséges volt üzemi/üzleti eredmény szintjén (egyéni vállalkozóknál, őstermelőknél adózás előtti eredmény szintjén, egy lezárt üzleti évvel rendelkezők esetében a lezárt évre vonatkozóan), úgy a pénzügyi szempontokra adható pontszám 0. |
 
-– anyag és anyagi jellegű szolgáltatás
+| Mindösszesen: | max: 100 |
 
-– saját termelésű hal feldolgozásának aránya
+4. számú melléklet a 26/2009. (III. 17.) FVM rendelethez[^38]
 
-– a vállalkozás mérete
+1. Az akvakultúra termelő beruházásaihoz nyújtandó támogatások című intézkedéshez nyújtandó monitoring adatok
 
-c) Belvízi (természetes vízi) halászat című intézkedéshez nyújtandó monitoring adatok:
+1.1. Támogatással létrejött új halastó területe (ha)
 
-– támogatásban részesített egységek száma
+1.1.1. ebből új halgazdaságok halastó területe (ha)
 
-– foglalkoztatás: teljes és részmunkaidő, női és férfi foglalkoztatottak
+1.2. Támogatással létrejött intenzív haltermelő rendszer új, termelő részének térfogata (m3)
+
+1.2.1. ebből új intenzív haltermelő rendszer termelő részének térfogata (m3)
+
+1.3. Támogatással felújított halastavak területe (m3)
+
+1.4. Támogatással felújított, intenzív halnevelő rendszer termelő részének térfogata (m3)
+
+1.5. Összes haltermelés (t)
+
+1.5.1. ebből ponty (t)
+
+1.5.1.1. ebből a támogatásnak köszönhető pontytermelés (t)
+
+1.5.2. ebből pisztráng (t)
+
+1.5.2.1. ebből a támogatásnak köszönhető pisztrángtermelés (t)
+
+1.5.3. ebből angolna (t)
+
+1.5.3.1. ebből a támogatásnak köszönhető angolnatermelés (t)
+
+1.5.4. ebből egyéb fajok (t)
+
+1.5.4.1. ebből a támogatásnak köszönhető egyéb fajok termelése (t)
+
+1.6. A támogatott halkeltetők kibocsátása (db)
+
+1.6.1. ebből ponty (db)
+
+1.6.2. ebből pisztráng (db)
+
+1.6.3. ebből egyéb fajok (db)
+
+1.7. A saját termelésből származó, feldolgozott hal mennyisége (t)
+
+1.8. Átlagos foglalkoztatotti létszám (fő)
+
+1.8.1. ebből részmunkaidős (fő)
+
+1.8.2. ebből nő (fő)
+
+1.9. Támogatottságnak köszönhető új foglalkoztatottak száma (fő)
+
+1.9.1. ebből részmunkaidős (fő)
+
+1.9.2. ebből nő (fő)
+
+1.10. Támogatottságnak köszönhetően megtartott foglalkoztatottak száma (fő)
+
+1.10.1. ebből részmunkaidős (fő)
+
+1.10.2. ebből nő (fő)
+
+1.11. Nettó árbevétel (ezer Ft)
+
+1.11.1. ebből haltermelési és/vagy halfeldolgozási tevékenységből származó árbevétel (ezer Ft)
+
+1.12. Közvetlen költségek (ezer Ft)
+
+1.13. Üzemi eredmény (ezer Ft)
+
+1.14. Adózás előtti eredmény, vagy vállalkozási adóalap (ezer Ft)
+
+1.15. Mérleg szerinti eredmény, vagy adózás utáni vállalkozási jövedelem (ezer Ft)
+
+1.16. Amortizáció (ezer Ft)
+
+1.16. Anyag és anyagi jellegű szolgáltatás (ezer Ft)
+
+1.17. A vállalkozás mérete (mikró, kis, közép)
+
+1.1. Beruházás összes kiadása (ezer Ft)
+
+2. Természetes vízi halászat című intézkedéshez nyújtandó monitoring adatok
+
+2.1. Átlagos foglalkoztatotti létszám (fő)
+
+2.1.1. ebből részmunkaidős (fő)
+
+2.1.2. ebből nő (fő)
+
+2.2. Támogatottságnak köszönhető új foglalkoztatottak száma (fő)
+
+2.2.1. ebből részmunkaidős (fő)
+
+2.2.2. ebből nő (fő)
+
+2.3. Támogatottságnak köszönhetően megtartott foglalkoztatottak száma (fő)
+
+2.3.1. ebből részmunkaidős (fő)
+
+2.3.2. ebből nő (fő)
+
+2.4. Támogatásban részesített egységek száma (db)
+
+2.5. Nettó árbevétel (ezer Ft)
+
+2.5.1. ebből haltermelési és/vagy halfeldolgozási tevékenységből származó árbevétel (ezer Ft)
+
+2.6. Közvetlen költségek (ezer Ft)
+
+2.7. Üzemi eredmény (ezer Ft)
+
+2.8. Adózás előtti eredmény, vagy vállalkozási adóalap (ezer Ft)
+
+2.9. Mérleg szerinti eredmény, vagy adózás utáni vállalkozási jövedelem (ezer Ft)
+
+2.10. Amortizáció (ezer Ft)
+
+2.11. Anyag és anyagi jellegű szolgáltatás (ezer Ft)
+
+2.12. A vállalkozás mérete (mikró, kis, közép)
+
+2.13. Beruházás összes kiadása (ezer Ft)
+
+3. A halfeldolgozáshoz és értékesítéshez nyújtandó támogatások című intézkedéshez nyújtandó monitoring adatok
+
+3.1. Az új halfeldolgozó éves kapacitása (t)
+
+3.2. Felújított halfeldolgozó éves kapacitása (t)
+
+3.3. Feldolgozott hal mennyisége (t)
+
+3.3.1. ebből édesvízi hal feldolgozott mennyisége (t)
+
+3.3.2. ebből saját termelésből származó hal feldolgozott mennyisége (t)
+
+3.4. Friss vagy hűtött termékek (t)
+
+3.5. Tartósított vagy félig tartósított termékek (t)
+
+3.6. Fagyasztott vagy mélyfagyasztott termékek (t)
+
+3.7. Egyéb feldolgozott termékek (t)
+
+3.8. Egységek száma, ahol javultak a higiéniai és munkakörülmények (db)
+
+3.9. Egységek száma, ahol javultak a környezeti feltételek (db)
+
+3.10. Egységek száma ahol jobb termelési rendszerek kerültek bevezetésre (db)
+
+3.11. Átlagos foglalkoztatotti létszám (fő)
+
+3.11.1. ebből részmunkaidős (fő)
+
+3.11.2. ebből nő (fő)
+
+3.12. Támogatottságnak köszönhető új foglalkoztatottak száma (fő)
+
+3.12.1. ebből részmunkaidős (fő)
+
+3.12.2. ebből nő (fő)
+
+3.13. Támogatottságnak köszönhetően megtartott foglalkoztatottak száma (fő)
+
+3.13.1. ebből részmunkaidős (fő)
+
+3.13.2. ebből nő (fő)
+
+3.14. Nettó árbevétel (ezer Ft)
+
+3.14.1. ebből haltermelési és/vagy halfeldolgozási tevékenységből származó árbevétel (ezer Ft)
+
+3.15. Közvetlen költségek (ezer Ft)
+
+3.16. Üzemi eredmény (ezer Ft)
+
+3.17. Adózás előtti eredmény, vagy vállalkozási adóalap (ezer Ft)
+
+3.18. Mérleg szerinti eredmény, vagy adózás utáni vállalkozási jövedelem (ezer Ft)
+
+3.19. Amortizáció (ezer Ft)
+
+3.20. Anyag és anyagi jellegű szolgáltatás (ezer Ft)
+
+3.21. A vállalkozás mérete (mikró, kis, közép)
+
+3.22. Beruházás összes kiadása (ezer Ft)
+
+[^38]: A 4. számú melléklet a 27/2010. (III. 26.) FVM rendelet 27. § (4) bekezdésével megállapított szöveg.

@@ -1,25 +1,27 @@
 ## Támogatható tevékenységek
 
-## 11. § E rendelet alapján az „akvakultúra termelő beruházásaihoz nyújtandó támogatások” című intézkedésen belül, az alábbi tevékenységek megvalósítására vehető igénybe támogatás:
+## 11. §[^29] E rendelet alapján az „akvakultúra termelő beruházásaihoz nyújtandó támogatások” című intézkedéseken belül, az alábbi tevékenységek megvalósítására vehető igénybe támogatás, a meghatározott igényelhető támogatások mellett:
 
-a) új haltermelő telephely létrehozása, a hozzá tartozó termelési és telep infrastruktúrával együtt;
+a) új haltermelő telephely létrehozása, a hozzá tartozó termelési és telepi infrastruktúrával együtt legfeljebb 200 millió forint támogatási igényig,
 
-b) halszállító gépjármű beszerzése;
+b) termelői infrastruktúra értéknövelő felújítása, bővítése, korszerűsítése, fejlesztése, legfeljebb 120 millió forint támogatási igényig,
 
-c) halastó építés esetében földterület, halfeldolgozó, illetve intenzív üzemek esetében építési telek vásárlás;
+c) halszállító gépjármű a 10. § (6) bekezdése alapján,
 
-d) a haltermelési és telepi infrastruktúra értéknövelő felújítása, bővítése, korszerűsítése, fejlesztése;
+d) környezetterhelést csökkentő beruházások legfeljebb 50 millió forint támogatási igényig,
 
-e) környezetterhelést csökkentő beruházások;
+e) telephelyen történő közvetlen értékesítés kialakítása, bővítése korszerűsítése, felújítása, fejlesztése, kivéve a horgásztatással való értékesítés infrastruktúráját, legfeljebb 20 millió forint támogatás igényig,
 
-f) telephelyen történő közvetlen értékesítés kialakítása, bővítése, korszerűsítése, felújítása, fejlesztése, kivéve a horgásztatással való értékesítés infrastruktúráját;
+f) halkeltetők építése legfeljebb 50 millió forint támogatás igényig,
 
-g) halkeltetők építése;
+g) halkeltetők felújítása, korszerűsítése, bővítése, fejlesztése legfeljebb 30 millió forint támogatási igényig,
 
-h) halkeltetők felújítása, korszerűsítése, bővítése, fejlesztése;
+h) közvetlenül a munkakörülmények javítását szolgáló beruházások, legfeljebb 20 millió forint támogatás igényig,
 
-i) a halkeltetéshez szükséges gépek, eszközök, berendezések beszerzése;
+i) gép-és eszközbeszerzés legfeljebb 50 millió forint támogatás igényig,
 
-j) munkakörülmények javítását szolgáló beruházások;
+j) telepi infrastruktúra értéknövelő felújítása, bővítése, korszerűsítése, fejlesztése, legfeljebb 30 millió forint támogatási igényig,
 
-k) gép- és eszközbeszerzés.
+k) szervesanyagban gazdag üledék csökkentő biológiai beavatkozásokhoz hektáronként legfeljebb 360 ezer forint, de összesen legfeljebb 20 millió forint támogatási igényig.
+
+[^29]: A 11. § a 27/2010. (III. 26.) FVM rendelet 22. §-ával megállapított szöveg.

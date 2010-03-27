@@ -16,8 +16,11 @@ e) értékelésre vonatkozó adatok;
 
 f) az ügyfél gazdasági tevékenységére, működésére, a támogatandó tervezett beruházásra vonatkozó információk.
 
-(3) Támogatási kérelmet 2009. évben június 1-jétől július 31-ig, majd az ezt követő években április 1-jétől május 31-ig lehet benyújtani.
+(3)[^12] Támogatási kérelmet július 1-jétől augusztus 31-ig lehet benyújtani.
 
-(4) Egy kérelemben egy telephelyen történő beruházásra kérhető támogatás. Ugyanaz az ügyfél több kérelmet is benyújthat egyazon támogatási időszakban, amennyiben több telephelyen kíván beruházást megvalósítani.
+(4)[^13] Egy ügyfél egy támogatási kérelem benyújtási időszakban egy intézkedésre egy támogatási kérelmet nyújthat be, azonban egy támogatási kérelemben több telephelyre is igényelhet támogatást. Egy támogatási kérelem kizárólag vagy konvergencia, vagy nem konvergencia területre vonatkozhat.
 
 (5) A támogatási kérelemhez mellékelni kell az 1. számú mellékletben felsorolt, a kérelemmel érintett intézkedésre vonatkozó dokumentumokat.
+
+[^12]: A 3. § (3) bekezdése a 27/2010. (III. 26.) FVM rendelet 17. §-ával megállapított szöveg.
+[^13]: A 3. § (4) bekezdése a 27/2010. (III. 26.) FVM rendelet 17. §-ával megállapított szöveg.

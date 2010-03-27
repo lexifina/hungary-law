@@ -1,27 +1,20 @@
-## lehet benyújtani.
-
 ## Monitoring intézkedések
 
 6. § (1) Az ügyfél monitoring adatszolgáltatási kötelezettsége a támogatási kérelem benyújtásával kezdődik.
 
 (2) A szolgáltatandó monitoring adatokat a 4. számú melléklet tartalmazza.
 
-(3) Az ügyfél köteles:
+(3)[^15] Az ügyfél köteles az induló adatszolgáltatást a támogatási határozat közlését követő évben, azt követően az általános gazdálkodási bázisadat szolgáltatást a kötelező üzemeltetés ideje alatt évente a 4. számú melléklet szerinti adattartalmú formanyomtatványon február 1. és március 1. között elektronikus úton az Ügyfélkapun keresztül teljesíteni.
 
-a) a támogatási kérelem benyújtásával egyidejűleg az általános gazdálkodási bázisadatokra, illetve a kötelező üzemeltetési időszak végére a támogatásnak köszönhetően elérni kívánt céladatokra vonatkozó induló,
+(4)[^16]
 
-b) a művelet megvalósításának időszakában, az utolsó kifizetési határozat kézhezvételének évét is ideértve, minden év február 1. és március 1. között, a művelet megvalósításának hatására, annak egy fázisában elért eredményekre, illetve azok változására vonatkozó éves rendszeres,
-
-c) a művelet befejezését követően az utolsó kifizetési határozat kézhezvételét követő év február 1. és március 1. közötti időszakában, a művelet keretében igénybe vett támogatásnak köszönhetően ténylegesen elért eredményekre vonatkozó záró,
-
-d) a kötelező üzemeltetés ideje alatt, minden év február 1. és március 1. közötti időszakban éves rendszeres
-
-## adatszolgáltatási kötelezettséget teljesíteni.
-
-(4) A (3) bekezdés a) pontja szerinti induló adatszolgáltatási kötelezettséget az MVH által rendszeresített formanyomtatványon, míg a (3) bekezdés b), c) és d) pontja szerinti adatszolgáltatási kötelezettséget elektronikus úton kell teljesíteni.
-
-(5) A számvitelről szóló 2000. évi C. törvény szerinti mérlegben szereplő adatokat az adatszolgáltatás időpontjában már elérhető mérlegből kell szolgáltatni.
+(5)[^17]
 
 (6) Az ügyfél adatszolgáltatása akkor tekinthető teljeskörűnek, amennyiben minden támogatási határozattal rendelkező jogcíme esetében eleget tett e rendelet szerinti monitoring adatszolgáltatási kötelezettségének.
 
-(7) Az MVH a monitoring adatokra vonatkozóan az adatszolgáltatási kötelezettség teljesítését ellenőrzi, valamint jogosult helyszíni ellenőrzés keretében is az adatszolgáltatás pontosságát vizsgálni.
+(7)[^18]
+
+[^15]: A 6. § (3) bekezdése a 27/2010. (III. 26.) FVM rendelet 19. §-ával megállapított szöveg.
+[^16]: A 6. § (4) bekezdését a 27/2010. (III. 26.) FVM rendelet 29. §-a hatályon kívül helyezte.
+[^17]: A 6. § (5) bekezdését a 27/2010. (III. 26.) FVM rendelet 29. §-a hatályon kívül helyezte.
+[^18]: A 6. § (7) bekezdését a 27/2010. (III. 26.) FVM rendelet 29. §-a hatályon kívül helyezte.
