@@ -6,12 +6,17 @@
 
 (2) Az ügyfél köteles legalább két – egy elfogadott és egy vagy több el nem fogadott – részletes-tételes árajánlatot a támogatási kérelméhez csatolni. Amennyiben a támogatási kérelemben a drágább árajánlatot szerepelteti elszámolható költségként, úgy azt köteles megindokolni.
 
-(3) Az árajánlatok valódiságát és realitását az MVH ellenőrzi, és ennek alapján dönt a támogatás összegéről.
-
-(4) Amennyiben az építési beruházásra vonatkozó támogatási döntés több építési kiadási tételt állapít meg, a kifizetési kérelem azonos kiadási tételéhez tartozó elszámolható kiadás összege azt legfeljebb húsz százalékos mértékben meghaladhatja, azonban a kifizetési kérelemnek minden megállapított kiadási tételre ki kell terjednie.
+(3)–(4)[^34]
 
 (5) Építési beruházás esetén építési műszaki ellenőr alkalmazása, építési és felmérési napló vezetése akkor is kötelező, ha a beruházás nem építési engedély köteles.
 
-(6) Építési, illetve vízjogi engedélyköteles beruházás esetén a támogatási kérelem eredeti műszaki tartalma a hatóság kötelező előírásának teljesítése érdekében a kifizetési kérelem benyújtására nyitva álló időszak első napját megelőző harmincadik napig módosítható. A módosítás nem érintheti a támogatott célterületet, és nem növelheti a támogatás összegét. A módosító kérelemhez az ügyfélnek mellékelnie kell a hatóság kötelező előírását igazoló dokumentumot.
+(6)[^35] Az eredeti műszaki tartalom nem változhat a támogatási kérelemben benyújtott tervdokumentációhoz képest, kivétel, ha tervdokumentáció kiviteli tervekké történő feldolgozása során vagy a kivitelezés során gazdaságosabb, korszerűbb megoldások alakíthatók ki. A módosítás nem érintheti a támogatott célterületet, növelheti a támogatás összegét, nem jelenthet visszalépést technológia és termelékenység tekintetében a támogatási kérelem mellékleteként dokumentált tervhez képest. A módosításra az ügyfélnek kifizetési kérelem benyújtásakor van lehetősége.
 
-(7) Építési beruházás esetén az elszámolni kívánt bizonylathoz a benyújtott és elfogadott tételes-részletes árajánlat szerinti bontású számlarészletezőnek is rendelkezésre kell állnia.
+(7)[^36] A (6) bekezdés szerinti módosító kérelemhez ügyfélnek mellékelnie kell a módosított tervdokumentációt, a módosított kivitelezői költségvetést, a tervezői indoklást a módosítás szükségességéről, a tervezői nyilatkozatot, hogy a módosítás az eredeti technológia színvonalát, és az eredeti termelékenységet megtartja, továbbá a hatóság építési vagy vízjogi engedélyét, amennyiben az engedélyköteles.
+
+(8)[^37] Építési beruházás esetén az elszámolni kívánt bizonylathoz a benyújtott és elfogadott kivitelezői költségvetés szerinti bontású számlarészletezőt a kifizetési kérelemhez csatolni kell.
+
+[^34]: A 27. § (3)–(4) bekezdését a 27/2010. (III. 26.) FVM rendelet 14. §-a hatályon kívül helyezte.
+[^35]: A 27. § (6) bekezdése a 27/2010. (III. 26.) FVM rendelet 9. §-ával megállapított szöveg.
+[^36]: A 27. § (7) bekezdése a 27/2010. (III. 26.) FVM rendelet 9. §-ával megállapított szöveg.
+[^37]: A 27. § (8) bekezdését a 27/2010. (III. 26.) FVM rendelet 9. §-a iktatta be.

@@ -6,7 +6,7 @@
 
 (3) A kifizetés alapját csak az ügyfélnél felmerült kiadások képezhetik, amelyeket a művelet megvalósítása érdekében teljesített gazdasági eseményről az ügyfél nevére kiállított, és – a TS intézkedés kivételével – pénzügyileg rendezett kiadásigazoló bizonylat igazol.
 
-(4) A (3) bekezdésben foglalt kiadások igazolására a művelet megkezdése utáni gazdasági eseményről kiállított bizonylat szolgálhat. Ez a korlátozás nem vonatkozik a támogatási kérelem összeállítása érdekében felmerült kiadásokra, amelyek esetében a művelet megkezdése előtti 12 hónapon belül kiállított bizonylat kerülhet elszámolásra a 10. § (4) bekezdés sérelme nélkül.
+(4)[^19] A (3) bekezdésben foglalt kiadásokat a művelet megkezdése utáni gazdasági eseményről kiállított bizonylatok igazolják. Ez a korlátozás nem vonatkozik a támogatási kérelem során közvetlenül felmerült egyéb kiadásokra, amelyek esetében a támogatási kérelmek beadási időszakának első napját megelőző 12 hónapon belül kiállított bizonylat kerülhet elszámolásra.
 
 (5) Egy bizonylat csak egy kifizetési kérelemhez számolható el.
 
@@ -42,7 +42,7 @@ bd) a számlatétel mennyiségét és mértékegységét.
 
 (9) TS intézkedés esetében tételrészletezőt nem kell benyújtani.
 
-(10) A TS intézkedés esetét kivéve, csak a készpénzzel és banki átutalással kiegyenlített kiadások fogadhatók el a támogatás alapjaként.
+(10)[^20] A TS intézkedés esetét kivéve, csak a készpénzzel vagy banki átutalással kiegyenlített kiadások fogadhatók el a támogatás alapjaként.
 
 (11) A TS intézkedés keretében a bizonylatok támogatási összegének kifizetése utófinanszírozás keretében kedvezményezettnek vagy közvetlenül a szállító részére történik.
 
@@ -65,3 +65,6 @@ c) a hal megfogására, gyűjtésére szolgáló eszközök (különösen: halá
 d) élőhal, haltakarmányok, továbbá halászati, illetve akvakultúra haltermékek beszerzési költségei;
 
 e) az EHA Rendelet 55. cikk (5) bekezdése szerinti kiadások.
+
+[^19]: A 13. § (4) bekezdése a 27/2010. (III. 26.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: A 13. § (10) bekezdése a 27/2010. (III. 26.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
