@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-6-20-82
 | --- | --- | --- |
 | 2008-01-25 | 2008-6-20-82.1 | 6/2008. (I. 17.) FVM rendelet |
 | 2010-01-20 | 2008-6-20-82.2 | 152/2009. (XI. 12.) FVM rendelet |
+| 2010-03-27 | 2008-6-20-82.3 | 65/2010. (V. 12.) FVM rendelet |

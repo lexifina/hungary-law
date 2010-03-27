@@ -6,7 +6,7 @@ b) a Bizottság 2007/42/EK irányelve (2007. június 29.) az élelmiszerekkel re
 
 (2) Ez a rendelet az E 128 Vörös 2G élelmiszer-színezékként történő felhasználását felfüggesztő sürgősségi intézkedésekről szóló, 2007. július 26-i 884/2007/EK bizottsági rendelet végrehajtását szolgálja.
 
-Melléklet a 6/2008. (I. 17.) FVM rendelethez
+Melléklet a 6/2008. (I. 17.) FVM rendelethez[^4]
 
 1. Az R. Mellékletének 17. sora helyébe a következő szövegrész lép:
 
@@ -458,160 +458,6 @@ c) A táblázatból a következő adalékanyagokat el kell hagyni:
 
 4. számú melléklet az 1-2-2007/19 számú előíráshoz
 
-Az 1-2-2002/72 számú előírás a következő 4a. melléklettel egészül ki:
-
-„4a. melléklet
-
-LIPOFIL ANYAGOK, AMELYEKNÉL HASZNÁLNI KELL A ZSÍR REDUKCIÓS FAKTORT
-
-| EGK szám | CAS-szám | Név |
-
-| 31520 | 061167-58-6 | Akrilsav, 2-terc-butil-6-(3-terc-butil-2-hidroxi-5-metilbenzil)-4-metilfenil- észter |
-
-| 31530 | 123968-25-2 | Akrilsav, 2,4-di-terc-pentil-6-[1-(3,5-di-terc-pentil-2-hidroxifenil)etil]fenil- észter |
-
-| 31920 | 000103-23-1 | Adipinsav, bisz(2-etilhexil)- észter |
-
-| 38240 | 000119-61-9 | Benzofenon |
-
-| 38515 | 001533-45-5 | 4,4’-Bisz(2-benzoxazolil)sztilbén |
-
-| 38560 | 007128-64-5 | 2,5-Bisz(5-terc-butil-2-benzoxazolil)tiofén |
-
-| 38700 | 063397-60-4 | Bisz(2-karbobutoxietil)ón-bisz(izooktil-merkaptoacetát) |
-
-| 38800 | 032687-78-8 | N,N’-Bisz(3-(3,5-di-terc-butil-4-hidroxifenil)propionil)hidrazid |
-
-| 38810 | 080693-00-1 | Bisz(2,6-di-terc-butil-4-metilfenil)pentaeritritol-difoszfit |
-
-| 38820 | 026741-53-7 | Bisz(2,4-di-terc-butilfenil)pentaeritritol-difoszfit |
-
-| 38840 | 154862-43-8 | Bisz(2,4-dikumilfenil)pentaeritritol-difoszfit |
-
-| 39060 | 035958-30-6 | 1,1-Bisz(2-hidroxi-3,5-di-terc-butilfenil)etán |
-
-| 39925 | 129228-21-3 | 3,3-Bisz(metoximetil)-2,5-dimetilhexán |
-
-| 40000 | 000991-84-4 | 2,4-Bisz(oktilmerkapto)-6-(4-hidroxi-3,5-di-terc-butilanilin)-1,3,5-triazin |
-
-| 40020 | 110553-27-0 | 2,4-Bisz(oktiltiometil)-6-metilfenol |
-
-| 40800 | 013003-12-8 | 4,4’-Butilidén-bisz(6-terc-butil-3-metilfenil-ditridecil-foszfit) |
-
-| 42000 | 063438-80-2 | (2-Karbobutoxietil)ón-trisz(izooktil-merkaptoacetát) |
-
-| 45450 | 068610-51-5 | p-Krezol-diciklopentadién-izobutilén, kopolimer |
-
-| 45705 | 166412-78-8 | 1,2-ciklohexándikarbonsav, diizononil- észter |
-
-| 46720 | 004130-42-1 | 2,6-Di-terc-butil-4-etilfenol |
-
-| 47540 | 027458-90-8 | Di-terc-dodecil-diszulfid |
-
-| 47600 | 084030-61-5 | Di-n-dodecil-ón-bisz(izooktil-merkaptoacetát) |
-
-| 48800 | 000097-23-4 | 2,2’-Dihidroxi-5,5’-diklór-difenilmetán |
-
-| 48880 | 000131-53-3 | 2,2’-Dihidroxi-4-metoxibenzofenon |
-
-| 49485 | 134701-20-5 | 2,4-Dimetil-6-(1-metilpentadecil)-fenol |
-
-| 49840 | 002500-88-1 | Dioktadecil-diszulfid |
-
-| 51680 | 000102-08-9 | N,N’-Difeniltiokarbamid |
-
-| 52320 | 052047-59-3 | 2-(4-Dodecilfenil)indol |
-
-| 53200 | 023949-66-8 | 2-Etoxi-2’-etiloxanilid |
-
-| 54300 | 118337-09-0 | 2,2’-Etilidén-bisz(4,6-di-terc-butil-fenil)fluor-foszfonit |
-
-| 59120 | 023128-74-7 | 1,6-Hexametilén-bisz(3-(3,5-di-terc-butil-4-hidroxifenil)propionamid] |
-
-| 59200 | 035074-77-2 | 1,6-Hexametilén-bisz[(3-(3,5-di-terc-butil-4-hidroxifenil)propionát] |
-
-| 60320 | 070321-86-7 | 2-[2-Hidroxi-3,5-bisz(1,1-dimetilbenzil)fenil]benzotriazol |
-
-| 60400 | 003896-11-5 | 2-(2’-Hidroxi-3’-terc-butil-5’-metilfenil)-5-klórbenzotriazol |
-
-| 60480 | 003864-99-1 | 2-(2’-Hidroxi-3,5’-di-terc-butilfenil)-5-klórbenzotriazol |
-
-| 61280 | 003293-97-8 | 2-Hidroxi-4-n-hexiloxibenzofenon |
-
-| 61360 | 000131-57-7 | 2-Hidroxi-4-metoxibenzofenon |
-
-| 61600 | 001843-05-6 | 2-Hidroxi-4-n-oktiloxibenzofenon |
-
-| 66360 | 085209-91-2 | 2,2’-Metilén-bisz(4,6-di-terc-butilfenil)-nátrium-foszfát |
-
-| 66400 | 000088-24-4 | 2,2’-Metilén-bisz(4-etil-6-terc-butilfenol) |
-
-| 66480 | 000119-47-1 | 2,2’-Metilén-bisz(4-metil-6-terc-butilfenol) |
-
-| 66560 | 004066-02-8 | 2,2’-Metilén-bisz(4-metil-6-ciklohexilfenol) |
-
-| 66580 | 000077-62-3 | 2,2’-Metilén-bisz(4-metil-6-(1-metil-ciklohexil)fenol) |
-
-| 68145 | 080410-33-9 | 2,2’,2”-Nitrilo[trietil-trisz(3,3’,5,5’-tetra-terc-butil-1,1’-bi-fenil-2,2’-diil)foszfit] |
-
-| 68320 | 002082-79-3 | Oktadecil-3-(3,5-di-terc-butil-4-hidroxifenil)propionát |
-
-| 68400 | 010094-45-8 | Oktadecilerukamid |
-
-| 69840 | 016260-09-6 | Oleilpalmitamid |
-
-| 71670 | 178671-58-4 | Pentaeritritol-tetrakisz(2-ciano-3,3-difenilakrilát) |
-
-| 72081/10 | – | Kőolajalapú szénhidrogén gyanták (hidrogénezett) |
-
-| 72160 | 000948-65-2 | 2-Fenilindol |
-
-| 72800 | 001241-94-7 | Foszforsav, difenil-2-etilhexil- észter |
-
-| 73160 | – | Foszforsav, mono- és di-n-alkil(C16 és C18)- észterek |
-
-| 74010 | 145650-60-8 | Foszforsav, bisz(2,4-di-terc-butil-6-metilfenil)-etil- észter |
-
-| 74400 | – | Foszforsav, trisz(nonil- és/vagy dinonilfenil)- észter |
-
-| 76866 | – | 1,2-propándiol és/vagy 1,3- és/vagy 1,4-butándiol és/vagy polipropilénglikol adipin- savval képzett poliészterei, lezárás ecetsavval vagy C12–C18 zsírsavakkal vagy n-oktanollal és/vagy n-dekanollal |
-
-| 77440 | – | Polietilénglikol-diricinoleát |
-
-| 78320 | 009004-97-1 | Polietilénglikol-monoricinoleát |
-
-| 81200 | 071878-19-8 | Poli[6-[(1,1,3,3-tetrametilbutil)amino]-1,3,5-triazin-2,4-diil]-[(2,2,6,6-tetrametil-4- piperidil)-imino]hexametilén[(2,2,6,6-tetrametil-4-piperidil)imino] |
-
-| 83599 | 068442-12-6 | Olajsav, 2-merkaptoetil- észter reakciótermékei diklór-dimetil-ónnal, nátrium-szulfiddal és triklór-metil-ónnal |
-
-| 83700 | 000141-22-0 | Ricinolsav |
-
-| 84800 | 000087-18-3 | Szalicilsav, 4-terc-butilfenil- észter |
-
-| 92320 | – | Glikolsav tetradecil-polietilénglikol(EO = 3–8)-étere |
-
-| 92560 | 038613-77-3 | Tetrakisz(2,4-di-terc-butil-fenil)-4,4’-bifenililén-difoszfonit |
-
-| 92700 | 078301-43-6 | 2,2,4,4-Tetrametil-20-(2,3-epoxipropil)-7-oxa-3,20-diazadispiro[5.1.11.2]-heneikozan-21-on, polimer |
-
-| 92800 | 000096-69-5 | 4,4’-Tio-bisz(6-terc-butil-3-metilfenol) |
-
-| 92880 | 041484-35-9 | Tiodietanol-bisz(3-(3,5-di-terc-butil-4-hidroxifenil)propionát) |
-
-| 93120 | 000123-28-4 | Tiodipropionsav, didodecil- észter |
-
-| 93280 | 000693-36-7 | Tiodipropionsav, dioktadecil- észter |
-
-| 95270 | 161717-32-4 | 2,4,6-Trisz(terc-butil)fenil-2-butil-2-etil-1,3-propándiol-foszfit |
-
-| 95280 | 040601-76-1 | 1,3,5-Trisz(4-terc-butil-3-hidroxi-2,6-dimetilbenzil)-1,3,5-triazin-2,4,6(1H,3H,5H)-trion |
-
-| 95360 | 027676-62-6 | 1,3,5-Trisz(3,5-di-terc-butil-4-hidroxibenzil)-1,3,5-triazin-2,4,6(1H,3H,5H)-trion |
-
-| 95600 | 001843-03-4 | 1,1,3-Trisz(2-metil-4-hidroxi-5-terc-butilfenil)-bután |
-
-”
-
 5. számú melléklet az 1-2-2007/19 számú előíráshoz
 
 A MÉ 1-2-2002/72 számú előírás 5. melléklete a következőképpen módosul:
@@ -725,3 +571,5 @@ Az 1-2-82/711 előírás melléklete a következőképpen módosul:
 |  | A. Folyékony vagy sűrű formában | X(a) | X(a) |  |  |
 
 |  | B. Por formában vagy szárítva” |  |  |  |  |
+
+[^4]: A melléklet a 26/2010. (III. 19.) FVM rendelet 5. § (5) bekezdés b) pontja szerint módosított szöveg.
