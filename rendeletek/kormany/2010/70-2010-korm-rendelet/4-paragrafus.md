@@ -1,0 +1,3 @@
+## „(6) A Szolgálatok az 1 millió forint feletti kötelezettségvállalásaikról havonta, a tárgyhót követő hónap 15-éig tájékoztatják az Irodát. Az Iroda 5 munkanapon belül a kötelezettségvállalások együttes összegéről értesíti a Pénzügyminisztériumot.
+
+## (7) A Szolgálatok a tárgyévben vállalt, de a következő évek előirányzatait terhelő 1 millió forint feletti kötelezettségeikről azok létrejöttét követő 8 munkanapon belül tájékoztatják az Irodát. Az Iroda évente kétszer, július 10-éig és november 30-áig tájékoztatja a Pénzügyminisztériumot az aktuális kötelezettségvállalások együttes összegéről.”
