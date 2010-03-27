@@ -1,0 +1,1 @@
+77. § Az eljárás során készült irat nem hiteles másolatáért a másolat kiadását kérőnek a külön jogszabályban meghatározott másolati díjat kell fizetnie a közjegyző részére, a jegyző eljárásában készült irat másolata esetén a települési önkormányzatnak.

@@ -1,0 +1,1 @@
+42. § A biztosítási intézkedés foganatosításával felmerült költséget az intézkedést megszüntető vagy az eljárást befejező végzésében – ha az intézkedést vagy az eljárást a jegyző szünteti meg, a jegyző végzésében – kell megállapítani. Ugyanebben a végzésben – az elrendelés indokoltságával kapcsolatos összes körülmény figyelembevételével – kell dönteni a költség viseléséről.

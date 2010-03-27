@@ -1,0 +1,3 @@
+15. § (1) A közjegyzőre vonatkozó, a közjegyzőkről szóló törvényben foglalt titoktartás szabályai a jegyzőre és az eljárásban közreműködő személyre is irányadóak. A titoktartási kötelezettség a jegyzőre az eljárás megindulása, a közre- működőre az erre történő figyelmeztetésről való tudomásszerzés időpontjával áll be; a figyelmeztetést a jegyzőkönyvben, illetve a közreműködő kirendeléséről, kijelöléséről szóló iratban fel kell tüntetni.
+
+(2) A titoktartás alóli felmentés megadására a jogorvoslatot elbíráló bíróság, a hagyatéki ügyben eljárt közjegyző, szolgálatának megszűnése után a területi közjegyzői kamara elnöke jogosult; a felmentés nem tagadható meg, ha azt az ügyben eljárt közjegyző a közjegyzőkről szóló törvényben meghatározottak alapján megkapta.

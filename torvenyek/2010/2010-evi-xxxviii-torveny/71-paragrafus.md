@@ -1,0 +1,33 @@
+## A hagyatéki eljárás felfüggesztése
+
+71. § (1) A közjegyző a hagyatéki eljárást felfüggesztheti, ha
+
+a) az öröklésben érdekelt gondnokság alá helyezési eljárásának megindítása érdekében az illetékes ügyészt vagy az illetékes gyámhatóságot értesítette, vagy
+
+b) a hagyaték vagy egy részének átadása olyan előzetes kérdés elbírálásától függ, amelynek tárgyában
+
+ba) büntetőeljárás vagy közigazgatási hatósági eljárás, vagy
+
+bb) polgári per vagy a bíróság hatáskörébe tartozó más polgári eljárás
+
+van folyamatban.
+
+(2) A közjegyző a hagyatéki eljárást felfüggeszti, ha a hagyaték átadását befolyásoló kérdésben
+
+a) házasság létezésének, érvényességének vagy gyermek családi jogállásának bírósági megállapítása,
+
+b) holtnak nyilvánítási vagy halál tényének megállapítása iránti eljárás vagy
+
+c) az ingatlan-nyilvántartásban az örökhagyó tulajdonaként,
+
+ca) bejegyzett ingatlanra vagy annak a tulajdoni hányadára az örökhagyó túlélő házastársa vagy volt (elvált) házastársa házastársi vagyonközösség vagy élettársa élettársi vagyonközösség jogcímén őt megillető részesedés megállapítása vagy
+
+cb) be nem jegyzett ingatlannal kapcsolatban az örökhagyó tulajdonjogának ingatlan-nyilvántartásba való bejegyzése
+
+tárgyában bírósági vagy hatósági eljárás van folyamatban.
+
+(3) Ha az (1) és (2) bekezdésekben meghatározott eljárás még nincs megindítva, de a rendelkezésre álló adatok és a megindításra jogosult nyilatkozata alapján rövid időn belül megindulása valószínűnek mutatkozik, a közjegyző az eljárás megindítására és annak igazolására az arra jogosultnak megfelelő határidőt tűz. Ha a határidő eredménytelenül telik le, az eljárás felfüggesztésének nincs helye.
+
+(4) A hagyatéki eljárás felfüggesztése az (1) és (2) bekezdésekben meghatározott eljárások jogerős befejezéséig tarthat.
+
+(5) A hagyatéki eljárás felfüggesztése alatt rész-hagyatékátadó végzés (79. §) hozható.

@@ -1,0 +1,1 @@
+51. § Ügygondnokul a közjegyzőnek elsősorban ügyvédi irodát vagy egyéni ügyvédet kell kirendelnie. Sürgős esetben ügygondnokul az öröklésben érdekelt másik személy is kirendelhető, ha sem ő, sem az esetlegesen általa képviselt harmadik személy az érintettel nem ellentétesen érdekelt.

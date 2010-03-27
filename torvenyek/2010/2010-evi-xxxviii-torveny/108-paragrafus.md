@@ -1,0 +1,1 @@
+108. § A megismételt hagyatéki eljárás eredménye alapján a közjegyző új végzése a korábbi hagyatéki eljárást érdemben befejező végzést hatályában fenntartja, vagy (részben vagy egészben) hatályon kívül helyezi, és a korábbi végzéstől eltérő hagyatéki eljárást érdemben befejező végzést hoz.

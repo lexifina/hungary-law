@@ -1,0 +1,3 @@
+55. § (1) A közjegyző a szóbeli végrendeletet a tanúk előzetes írásbeli nyilatkozatainak, illetve tárgyalási jegyzőkönyvbe foglalt vallomásainak felolvasásával hirdeti ki.
+
+(2) A közjegyző a szóbeli végrendelet tanúinak kihallgatásakor vagy kihirdetésekor jelen nem levő – korábban ismert vagy a tanúk kihallgatásának következtében ismertté vált – örökösként érdekelteknek a tanúk előzetes nyilatkozatait, illetve a meghallgatásukról szóló tárgyalási jegyzőkönyvet megküldi. Ha ilyen érdekelt nem ismert, a közjegyző az örökhagyó szóbeli végrendeletét nyomban kihirdeti, ellenkező esetben a végrendelet kihirdetésére azt követően kerülhet sor, miután a végrendelet lényeges tartalma a tanúk meghallgatásakor jelen nem lévő érdekeltekkel is szabályszerűen közlésre került.

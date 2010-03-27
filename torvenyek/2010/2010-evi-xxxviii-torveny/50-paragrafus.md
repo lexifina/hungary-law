@@ -1,0 +1,1 @@
+50. § A közjegyző ügygondnokot csak akkor rendelhet ki, ha az ügygondnok előreláthatólag felmerülő készkiadásának és várható díjának megelőlegezése megtörtént. Az ügygondnok előreláthatólag felmerülő készkiadásának és várható díjának előlegezéséről a közjegyző külön végzésben rendelkezik.

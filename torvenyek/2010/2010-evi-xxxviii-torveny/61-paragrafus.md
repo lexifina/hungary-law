@@ -1,0 +1,1 @@
+61. § Bármelyik hagyatéki eljárásban érdekelt kérelmére a hirdetményt közzé kell tenni az elektronikus közszolgáltatásról szóló törvény szerinti kormányzati portálon vagy – ha annak költségeit előlegezi – más egyéb módon is (országos napilapban vagy más formában). Az ezzel felmerült költséget a kérelmező viseli.

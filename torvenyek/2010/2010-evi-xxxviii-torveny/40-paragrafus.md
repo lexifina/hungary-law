@@ -1,0 +1,3 @@
+40. § (1) A biztosítási intézkedéssel érintett vagyontárgy értékesítéséből befolyt ellenérték a biztosítási intézkedéssel érintett vagyontárgy helyébe lép.
+
+(2) Ha más törvényes örökös hiányában a Magyar Állam öröklése valószínűsíthető, és a temetési költségek fedezése céljából feltétlenül szükséges, a jegyző, illetőleg a közjegyző a biztosítási intézkedés elrendelésére és foganatosítására vonatkozó szabályok megfelelő alkalmazásával a Magyar Állam kérelmére hozzájárulhat a hagyatékhoz tartozó egyes ingóságok értékesítéséhez. Az értékesítés során befolyt összeget a temetési költségek fedezésére kell fordítani, a fennmaradó összeget pedig bírósági letétbe vagy közjegyzői letétbe kell helyezni.

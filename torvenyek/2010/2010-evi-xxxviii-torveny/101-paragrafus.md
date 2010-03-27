@@ -1,0 +1,1 @@
+101. § A végrendeleti végrehajtó felmentését az örökhagyó egyes rendelkezései alól – ezek pontos megjelölésével – a közjegyző végzéssel állapítja meg; a végzést az öröklésben érdekeltekkel közölni kell. A felmentés kérdésében a közjegyző a hagyatéki eljárást érdemben befejező végzésben is dönthet.

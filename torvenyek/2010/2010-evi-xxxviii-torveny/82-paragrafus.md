@@ -1,0 +1,1 @@
+82. § A hagyatékátadó végzésben a hagyatékot abban a részében teljes hatállyal kell átadni, amelyben a teljes hatályú átadás feltételei fennállnak, míg ideiglenes hatállyal kell átadni abban a részében, amelyben az ideiglenes hatályú átadás feltételei állnak fenn.

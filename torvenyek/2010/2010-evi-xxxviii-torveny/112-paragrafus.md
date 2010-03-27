@@ -1,0 +1,1 @@
+112. § A fellebbezési jogról előzetesen lemondani nem lehet. A végzés közlése után sem mondhat le képviseltje nevében a fellebbezési jogról a természetes személy törvényes képviselője, valamint a gyám, az eseti és az ügygondnok.

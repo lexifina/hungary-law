@@ -1,0 +1,3 @@
+27. § (1) Ha a hagyatéki eljárás során adat merül fel arra vonatkozóan, hogy a hagyatékba olyan vagyon, vagyonrész vagy vagyontárgy tartozhat, amely egy másik hagyatéki eljárásban még nem lett teljes hatállyal átadva, e vagyontárgyat fel kell venni a leltárba e körülmény, valamint annak a közjegyzőnek a megjelölésével, aki a másik hagyatéki eljárást folytatja.
+
+(2) Az (1) bekezdésben foglalt hagyatéki eljárásokat folytató közjegyzők a Magyar Országos Közjegyzői Kamara (a továbbiakban: országos kamara) iránymutatása szerint együttműködve kötelesek eljárni annak érdekében, hogy az eljárásokban érdekelt személyek jogaikkal élhessenek és az érintett vagyon, vagyonrész vagy vagyontárgy az élő örökösnek kerüljön átadásra.

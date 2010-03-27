@@ -1,0 +1,11 @@
+## A tárgyalás menete
+
+67. § (1) A tárgyalás megnyitása után a közjegyző megállapítja, hogy a megidézettek személyesen vagy képviselőik útján megjelentek-e. Ha valamelyik idézett a tárgyaláson nem jelent meg, meg kell állapítani, hogy a tárgyalásra e törvény szabályai szerinti idézése megtörtént-e. A szabályszerűen megidézett érdekelt távolmaradása a hagyatéki tárgyalás megtartását és a határozathozatalt nem akadályozza.
+
+(2) A hagyatéki tárgyalást akkor is meg lehet tartani, ha valamelyik meg nem jelent, a tárgyalásra egyébként megidézendő érdekelt a tárgyalásra nem volt szabályszerűen megidézve. Ilyen esetben azonban a tárgyaláson érdemi végzést hozni nem lehet, hanem a tárgyalás folytatására új határnapot kell kitűzni és arra a tárgyalásra megidézendő, de szabályszerűen meg nem idézett és meg nem jelent érdekeltet meg kell idézni. A megjelent érdekelteket az újabb tárgyalásra csak szükség esetén kell megidézni.
+
+(3) Ha valamelyik meg nem jelent érdekelt idézésének kézbesítési bizonyítványa a tárgyalás határnapjáig nem érkezett vissza, az érdemi végzés meghozatalát a kézbesítési bizonyítvány megérkezéséig el kell halasztani. Ha a kézbesítési bizonyítvány a tárgyalás megtartását követő 30 napon belül a közjegyzőhöz megérkezik, és abból megállapítható, hogy a meg nem jelent érdekelt tárgyalásra történő megidézése szabályszerű volt – ha újabb tárgyalás megtartása nem szükséges –, az érdemi végzés újabb tárgyalás kitűzése nélkül is meghozható; az ekként hozott végzést kézbesítés útján kell közölni.
+
+(4) Ha a hagyatéki eljárásban érdekelt nevében megjelent meghatalmazott vagy törvényes képviselő a képviseleti jogát nem igazolja, a közjegyző az érdekelt nevében megjelent személyt megfelelő határidő kitűzésével felhívja a képviseleti jog megfelelő igazolására. Ha a képviselőként megjelent személy az érdekeltet nem képviselheti, az érdekeltet megfelelő határidő kitűzésével fel kell hívni, hogy személyesen vagy a törvénynek megfelelő képviselő útján járjon el.
+
+(5) Ha a (4) bekezdésben említett hiány pótolható, a közjegyző a tárgyalást a hiány pótlása előtt is folytathatja, a megjelent érdekeltek egyező kérelmére pedig a tárgyalást folytatni köteles. Ha a hiányt a kitűzött határidő alatt nem pótolták, a közjegyző az (1)–(3) bekezdésben foglaltak szerint jár el.

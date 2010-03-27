@@ -1,0 +1,3 @@
+92. § (1) A közjegyző a jogerős teljes hatályú hagyatékátadó végzést és a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzést az illetékkiszabás végett megküldi az illetékes állami adóhatóságnak.
+
+(2) A hagyaték bejelentése céljából a közjegyző a jogerős teljes hatályú hagyatékátadó végzést, a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzést és a jogszabályban előírt egyéb iratokat a teljes hatályú hagyatékátadó végzés, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedésének megállapításától számított 15 napon belül az illetékes állami adóhatóságnak küldi meg.

@@ -1,0 +1,7 @@
+56. § (1) Ha a hagyatéki eljárásban érdekelt belföldön lakóhellyel, tartózkodási hellyel (e §-ban együtt: lakóhellyel) vagy székhellyel nem rendelkezik, és magyarországi lakóhellyel vagy székhellyel rendelkező meghatalmazottja nincs, őt a közjegyző az idézés kézbesítésével egyidejűleg felhívja kézbesítési megbízott megjelölésére.
+
+(2) Az (1) bekezdés szerinti érdekelt a kézbesítési megbízott nevét és címét legkésőbb az első hagyatéki tárgyaláson köteles bejelenteni, egyidejűleg benyújtani a kézbesítési megbízottal kötött és teljes bizonyítóerejű magánokiratba vagy közokiratba foglalt megbízási szerződését. Cég esetében kézbesítési megbízottként külön megbízás nélkül a külföldi érdekeltnek a cégjegyzékben szereplő kézbesítési megbízottja jár el.
+
+(3) Ha az érdekelt a (2) bekezdésben meghatározott időpontig, továbbá a megbízás megszűnésének akár a megbízó, akár a megbízott általi bejelentését követően külön felhívás nélkül haladéktalanul új kézbesítési megbízottat nem jelöl meg, vagy az iratokat a kézbesítési megbízott részére kézbesíteni nem lehet, erre tekintettel hiánypótlás elrendelésének vagy az érdekelt külön felhívásának nincs helye, hanem a közjegyző az érdekelt részére hirdetményi úton kézbesít. E rendelkezés nem alkalmazható az első tárgyalásra szóló idézés kézbesítésére; ezen iratok kézbesítésére a Pp. külföldön történő kézbesítésre vonatkozó szabályait kell alkalmazni.
+
+(4) E §-ban foglaltakra az (1) bekezdés szerinti érdekeltet külön is figyelmeztetni kell.
