@@ -1,0 +1,9 @@
+15. § (1) Az Áht. 64/B. § (1) és (2) bekezdése szerint, ha a támogatást vagy annak egy részét a fenntartó önkormányzat jogtalanul vette igénybe, azt nem a megjelölt feladatra használta fel, illetve a jogszabályban rögzített arányt meghaladó mértékű támogatást vett igénybe, vagy a támogatás igényléséhez valótlan adatot szolgáltatott, az OKM Támogatáskezelő egyidejű értesítése mellett
+
+a) év közben az Igazgatóságon keresztül az ÖM-nél haladéktalanul köteles lemondani a jogtalanul igénybe vett összegről, amely esetben a már átutalt összeg visszavonásra kerül a következő havi, de még tárgyévi nettósításban, és a lemondásnak megfelelően módosításra kerül az előirányzat,
+
+b) év végi elszámolás esetén befizetéssel kell elszámolnia a többlet igénybevétellel.
+
+(2) Ha a támogatást vagy annak egy részét a közoktatási humánszolgáltató, illetve a központi költségvetési szervként működő felsőoktatási intézmény jogtalanul vette igénybe, azt nem a megjelölt feladatra használta fel, illetve a jogszabályban rögzített arányt meghaladó mértékű támogatást vett igénybe, vagy a támogatás igényléséhez valótlan adatot szolgáltatott, a közoktatási humánszolgáltató köteles a közoktatásról szóló 1993. évi LXXIX. törvény végrehajtásáról szóló 20/1997. (II. 13.) Korm. rendeletnek (a továbbiakban: Korm. rendelet) a közoktatási humánszolgáltatók állami hozzájárulásának és támogatásának elszámolására, ellenőrzésére, a központi költségvetési szervként működő felsőoktatási intézmény pedig a Korm. rendelet 17/C. §-ának vonatkozó rendelkezéseit alkalmazni.
+
+(3) A támogatásokat – az 5. § (3) bekezdése szerint engedélyezett áthúzódó kötelezettségvállalással terhelt maradvány kivételével – 2010. december 31-éig lehet felhasználni. A támogatás maradvány összegét legkésőbb a beszámoló benyújtását követő 15. napig a központi költségvetésbe vissza kell fizetni. Az 1–6. § szerint elnyert támogatások az elszámolásnál nem vonhatók össze.

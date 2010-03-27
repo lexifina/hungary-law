@@ -1,0 +1,7 @@
+## A támogatások igénylése és folyósítása
+
+7. § (1) A támogatási igény legkésőbb 2010. április 20-áig nyújtható be. Az e napon postára adott és elektronikusan rögzített támogatási igényt határidőben benyújtottnak kell tekinteni. A határnap elmulasztása jogvesztő.
+
+(2) Az 1–6. § szerinti támogatásokat a költségvetési törvény 16. § (1) bekezdésében és 52. § (1) bekezdés a) pontjában meghatározott fenntartók a helyi önkormányzatokkal, többcélú kistérségi társulásokkal, intézményi társulásokkal (a továbbiakban együtt: helyi önkormányzatok) azonos feltételekkel igényelhetik.
+
+(3) A támogatás igénylését az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 64/B. § (3) bekezdése alapján a helyi önkormányzatok a Magyar Államkincstár területileg illetékes szervéhez (a továbbiakban: Igazgatóság) nyújthatják be egy eredeti és két másolati példányban, a közoktatási humánszolgáltatók és a központi költségvetési szervként működő felsőoktatási intézmények pedig az Oktatási és Kulturális Minisztérium Támogatás- kezelő Igazgatóságához (a továbbiakban: OKM Támogatáskezelő) nyújthatják be egy eredeti és egy másolati példányban. Az (1) bekezdésben foglalt határidőig a fenntartónak az igénylést az OKM Támogatáskezelő honlapján található elektronikus adatlap kitöltésével elektronikus úton is be kell nyújtania azzal, hogy a támogatások odaítélésére a papír alapon benyújtott igénylés alapján kerül sor.
