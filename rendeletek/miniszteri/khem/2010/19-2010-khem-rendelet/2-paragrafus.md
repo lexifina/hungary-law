@@ -1,0 +1,1 @@
+## 1. § A rendelet 1. melléklete a hagyományos vasúti rendszer ellenőrző-irányító és jelzőberendezések alrendszerére vonatkozó részletes műszaki és üzemeltetési szabályokat, illetve az alrendszer hitelesítési és engedélyezési eljárása során alkalmazandó eljárások követelményeit határozza meg.
