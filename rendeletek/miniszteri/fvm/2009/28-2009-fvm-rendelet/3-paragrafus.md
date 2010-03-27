@@ -1,1 +1,0 @@
-## 2. § Az e rendelet szerinti támogatás forrása a 2009. évben a Magyar Köztársaság 2009. évi költségvetéséről szóló 2008. évi CII. törvény XII. Földművelésügyi és Vidékfejlesztési Minisztérium fejezet, 10. cím, 4. alcím, 8. jogcímcsoport, 1. Egyes speciális szövetkezetek (TESZ, BÉSZ) 5. kiemelt előirányzata, valamint az Európai Mezőgazdasági Garancia Alap.
