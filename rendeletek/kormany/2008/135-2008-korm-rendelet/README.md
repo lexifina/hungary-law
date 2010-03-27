@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-135-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-17 | 2008-135-20-22.1 | 135/2008. (V. 16.) Korm. rendelet |
+| 2010-03-27 | 2008-135-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
