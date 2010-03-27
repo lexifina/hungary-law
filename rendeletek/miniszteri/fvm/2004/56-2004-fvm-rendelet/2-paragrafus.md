@@ -1476,6 +1476,10 @@ Engedélyezett monomerek és más kiindulási anyagok
 
 | 14570 | 000106-89-8 | 2,3-epoxi-1-klórpropán | Lásd az “epiklórhidrin”-t |
 
+| 14627 | 0000117–21–5 | 3-klórftálsav-anhidrid | SKH = 0,05 mg/kg, 3-klórftálsavként kifejezve |
+
+| 14628 | 0000118–45–6 | 4-klórftálsav-anhidrid | SKH = 0,05 mg/kg, 4-klórftálsavként kifejezve |
+
 | 14650 | 000079-38-9 | Trifluor-klór-etilén | MMF=0,5 mg/6 dm2 |
 
 | 14680 | 000077-92-9 | Citromsav |  |
@@ -1489,6 +1493,8 @@ Engedélyezett monomerek és más kiindulási anyagok
 | 14800 | 003724-65-0 | Krotonsav | MMF(E)=0,05 mg/6 dm2 (33) |
 
 | 14841 | 000599-64-4 | 4-(4-izopropilfenil)fenol (4-kumilfenol) | SKH=0,05 mg/kg |
+
+| 14876 | 0001076–97–7 | 1,4-ciklohexán-dikarboxilsav | SKH = 5 mg/kg Kizárólag poliészterek előállításához használható |
 
 | 14880 | 000105-08-8 | Ciklohexán-1,4-dimetanol | Lásd az „1,4-bisz(hidroximetil)cik-lohexán”-t |
 
@@ -1608,6 +1614,8 @@ Engedélyezett monomerek és más kiindulási anyagok
 
 | 18100 | 000056-81-5 | Glicerin |  |
 
+| 18117 | 0000079–14–1 | Glikolsav | Kizárólag élelmiszerrel való közvetett érintkezésre, polietilén-tereftalát (PET)- réteg mögött |
+
 | 18220 | 068564-88-5 | 11-(Heptilamino)-undekánsav | SKH=0,05 mg/kg (1) |
 
 | 18250 | 000115-28-6 | 1,4,5,6,7,7-Hexaklór-biciklo [2.2.1]hept-5-én-2,3-dikarbonsav | SKH=NK (KH=0,01 mg/kg) |
@@ -1668,6 +1676,8 @@ Engedélyezett monomerek és más kiindulási anyagok
 
 | 19960 | 000108-31-6 | Maleinsav-anhidrid | SKH(E)=30 mg/kg (4) (maleinsavban kifejezve) |
 
+| 19965 | 0006915–15–7 | Almasav | Kizárólag komonomerként használható alifás poliészterekben maximum 1%-ig, moláris alapon |
+
 | 19975 | 000108-78-1 | Melamin | Lásd a „2,4,6-Triamino-1,3,5-triazin”-t |
 
 | 19990 | 000079-39-0 | Metakrilamid | SKH=NK (KH=0,02 mg/kg, a vizsgálati módszer hibáját is beleértve) |
@@ -1715,6 +1725,8 @@ Engedélyezett monomerek és más kiindulási anyagok
 | 21460 | 000760-93-0 | Metakrilsav-anhidrid |  |
 
 | 21490 | 000126-98-7 | Metakrilonitril | SKH=NK (KH=0,020 mg/kg, a vizsgálati módszer hibáját is beleértve) |
+
+| 21498 | 0002530–85–0 | [3-(metakriloxi) propil]trimetoxi-szilán | SKH = 0,05 mg/kg Kizárólag szervetlen töltőanyagok felületkezelő szereként használható |
 
 | 21520 | 001561-92-8 | Nátrium-metallil-szulfonát | SKH =5 mg/kg |
 
@@ -1968,7 +1980,7 @@ Az A) részbe való besorolásukkal kapcsolatos döntésig felhasználható mono
 
 3. számú melléklet az 1-2-2002/72 számú előíráshoz
 
-Az adalék- és segédanyagok részleges listája
+Az adalék- és segédanyagok listája
 
 Általános bevezetés
 
@@ -2032,7 +2044,7 @@ Azoknak az anyagoknak és eszközöknek, amelyek az a) és b) pont szerinti anya
 
 A) rész
 
-Az adalék- és segédanyagok részleges listája
+Az adalék- és segédanyagok listája
 
 | EGK-szám | CAS-szám | Név | Korlátozások, illetve előírások |
 
@@ -2056,6 +2068,8 @@ Az adalék- és segédanyagok részleges listája
 
 | 30400 | ⎯ | Acilezett gliceridek |  |
 
+| 30607 | – | Alifás, el nem ágazó (C2–C24) szénatomszámú, természetes olajokból és zsírokból származó savak, lítiumsó | SKH(T) = 0,6 mg/kg (lítiumként kifejezve)(8) |
+
 | 30610 | — | C2-C24 szénatomszámú alifás el nem ágazó természetes olajokból és zsírokból származó mono-karbonsavak és ezek glicerinnel alkotott mono-, di- és triészterei (elágazó láncú zsírsavakat a természetes arányig tartalmaz) |  |
 
 | 30612 | — | C2-C24 szénatomszámú alifás el nem ágazó, szintetikus mono-karbonsavak és azok glicerinnel alkotott mono-, di- és triészterei |  |
@@ -2068,9 +2082,13 @@ Az adalék- és segédanyagok részleges listája
 
 | 31730 | 000124-04-9 | Adipinsav |  |
 
+| 33105 | 0146340–15–0 | (C12–14) szénatomszámú szekunder alkoholok, β-(2-hidroxietoxi), etoxilálva | SKH = 5 mg/kg(44) |
+
 | 33120 | ⎯ | Telített, el nem ágazó egyértékű, alifás (C4-C24) primer alkoholok |  |
 
 | 33350 | 009005-32-7 | Alginsav |  |
+
+| 33535 | 0152261–33–1 | α-alkének (C20–C24), malein anhidrid kopolimere, 4-amino– 2,2,6,6-tetrametil-piperidinnel lejátszódó reakció terméke | Nem alkalmazható olyan zsíros élelmiszerekkel érintkezésbe kerülő tárgyakban, melyekre a D-modellanyagot határozták meg. Nem használható alkoholos élemiszerekkel való érintkezéskor |
 
 | 33801 | — | Alkilbenzolszulfonsav (alkil: C10-C20) | SKH=30 mg/kg |
 
@@ -2148,6 +2166,8 @@ Az adalék- és segédanyagok részleges listája
 
 | 38515 | 001533-45-5 | 4,4-Bisz(benzoxazol-2-il)stilbén | SKH=0,05 mg/ kg (1) |
 
+| 38550 | 0882073–43–0 | bisz(4-propilbenzilidén)propil- szorbitol | SKH = 5 mg/kg (beleértve hidrolízis- termékeinek összegét is) |
+
 | 38810 | 080693-00-1 | Bisz[2,6-di(terc-butil)-4-metil-fenil]pentaeritit-difoszfit | SKH=5 mg/kg (foszfit és foszfát összesen) |
 
 | 38840 | 154862-43-8 | Bisz(2,4- -dikumilfenilpentaeretrit)difoszfit | SKH=5 mg/kg magának az anyagnak, oxidált formájának, bisz(2,4- -dikumilfenilpentaerit)difoszfát és hidrolizis termékének(2,4- -dikumilfenol) összege. |
@@ -2174,7 +2194,9 @@ Az adalék- és segédanyagok részleges listája
 
 | 39925 | 129228-21-3 | 3,3-Bisz(metoximetil)-2,5- -dimetilhexán | SKH=0,05 mg/kg |
 
-| 40120 | 068951-50-8 | Bisz(polietilénglikol)-hidroxi-metilfoszfonát | SKH=0,6 mg/kg |
+| 40120 | 068951-50-8 | Bisz(polietilénglikol)-hidroxi- metilfoszfonát | SKH=0,6 mg/kg |
+
+| 40155 | 0124172–53–8 | N,N’-bisz(2,2,6,6-tetrametil-4-piperidil)-N,N’-diformil-hexametilén-diamin | SKH = 0,05 mg/kg(1)(44) |
 
 | 40320 | 10043-35-3 | Bórsav | SKH(E)=6 mg/kg (23) (bórban kifejezve), az ivóvíz előírás figyelembevételével. |
 
@@ -2291,6 +2313,8 @@ Az adalék- és segédanyagok részleges listája
 | 48620 | 000123-31-9 | Benzol-1,4-diol („Hidrokinon”) | SKH=0,6 mg/kg |
 
 | 48720 | 000611-99-4 | 4,4’-Dihidroxibenzofenon | SKH=6 mg/kg(15) |
+
+| 49080 | 0852282–89–4 | N-(2,6-Diizopropilfenil)-6-[4-(1,1,3,3-tetrametilbutil)fenoxi]-1H- benzo[de]izokinolin-1,3(2H)-dion | SKH = 0,05 mg/kg(39)(45)(46)Kizárólag polietilén-tereftalátban (PET) való felhasználásra |
 
 | 49485 | 134701-20-5 | 2,4-Dimetil-6-(1-metil-pentadecil)fenol | SKH=1 mg/kg |
 
@@ -2436,6 +2460,8 @@ Az adalék- és segédanyagok részleges listája
 
 | 59990 | 007647-01-0 | Hidrogén-klorid |  |
 
+| 60027 | – | Hidrogénezett homopolimerek és/vagy kopolimerek 1-hexénből és/vagy 1- okténből és/vagy 1-decénből és/vagy 1- dodecénből és/vagy 1-tetracénből (Mw: 440-12000) | Nem alkalmazható olyan zsíros élelmiszerekkel érintkezésbe kerülő tárgyakban, melyekre a D-modellanyagot határozták meg. Az 5. mellékletben megállapított előírásoknak megfelelően |
+
 | 60030 | 012072-90-1 | Hidromagnezit |  |
 
 | 60080 | 012304-65-3 | Hidrotalkit |  |
@@ -2467,6 +2493,8 @@ Az adalék- és segédanyagok részleges listája
 | 61840 | 000106-14-9 | 12-Hidroxi-sztearinsav |  |
 
 | 62140 | 006303-21-5 | Hipofoszforossav (foszfinsav) |  |
+
+| 62215 | 0007439–89–6 | Vas | SKH = 48 mg/kg |
 
 | 62240 | 001332-37-2 | Vas-oxid |  |
 
@@ -2542,6 +2570,8 @@ Az adalék- és segédanyagok részleges listája
 
 | 68078 | 027253-31-2 | Hexametilén-tetramin | SKH(E)= 0,05 mg/kg (neodekánsavban kifejezve) és SKH(E)=0,05 mg/kg (14) (kobaltban kifejezve). Nem alkalmazható olyan élelmiszerrel érintkző polimerekre, ahol a MÉ-1-2-82/711 számú előírás D modell oldatot ír elő. |
 
+| 68119 | – | Neopentil glikol, diészterek és monoészterek benzoesavval és 2- etilhexánsavval | SKH = 5 mg/kg Nem alkalmazható olyan zsíros élelmiszerekkel érintkezésbe kerülő tárgyakban, melyekre a D-modellanyagot határozták meg |
+
 | 68125 | 037244-96-5 | Nefelin-szienit |  |
 
 | 68145 | 080410-33-9 | 2,2',2"-Nitrilo{trietil-trisz[3,3',5,5'- -tetra-(terc-butil)-1,1'-bifenil-2,2'- -diil]-foszfit} | SKH=5 mg/kg (foszfit és foszfát összesen) |
@@ -2576,6 +2606,8 @@ Az adalék- és segédanyagok részleges listája
 
 | 71720 | 000109-66-0 | Pentán |  |
 
+| 72141 | 0018600–59–4 | 2,2’-(1,4-fenilén)bisz[4H-3,1- benzoxazin-4-on] | SKH = 0,05 mg/kg (beleértve hidrolízis- termékeinek összegét is) |
+
 | 72640 | 007664-38-2 | Foszforsav |  |
 
 | 73160 |  | Foszforsav (C16 és C18 mono- és dialkil)-észterei | SKH=0,05 mg/kg |
@@ -2594,6 +2626,8 @@ Az adalék- és segédanyagok részleges listája
 
 | 76730 |  | γ-Hidroxipropilezett polidimetilsziloxan | SKH=6 mg/kg |
 
+| 76807 | 00073018–26–5 | Adipinsav poliésztere, 1,3-butándiollal, 1,2-propándiollal és 2-etil-1-hexanollal | SKH = 30 mg/kg |
+
 | 76866 | — | Adipinsav propán-1,2-diollal, illetve bután-1,3-diollal és vagy bután-1,4-diollal és vagy propilénglikollal alkotott poliészterei, a láncok végén ecetsavval vagy n-oktanollal és vagy n-dekanollal lezárva | SKH=30 mg/kg |
 
 | 76960 | 025322-68-3 | Polietilénglikol |  |
@@ -2601,6 +2635,8 @@ Az adalék- és segédanyagok részleges listája
 | 77600 | 061788-85-0 | Hidrogénezett ricinusolaj polietilénglikol észtere |  |
 
 | 77702 | — | Alifás (C6-C22) monokarbonsavak polietilénglikol észterei és azok ammónium- és nátrium szulfátjai |  |
+
+| 77708 | – | El nem ágazó és elágazó, (C8–C22) primer alkoholok polietilénglikol (EO =1–50)-éterei | SKH = 1,8 mg/kg Az 5. mellékletben megállapított előírásoknak megfelelően |
 
 | 77895 | 068439-49-6 | Polietilénglikol-monoalkil-éter (EO=2-6, alkil: C16-C18) | SKH=0,05 mg/kg, és az 5. számú melléklet szerinti előírásoknak megfelelően |
 
@@ -2616,7 +2652,15 @@ Az adalék- és segédanyagok részleges listája
 
 | 79440 | 009005-71-4 | Polietilénglikol-1,4-anhidro-szorbit- -trisztearát |  |
 
+| 80077 | 0068441–17–8 | Polietilén gyanták oxidálva | SKH = 60 mg/kg |
+
 | 80240 | 029894-35-7 | Ricinolsav poliglicerin észtere |  |
+
+| 80350 | 0124578–12–7 | Poli(12-hidroxi-sztearátsav)- polietilén-imin kopolimer | Kizárólag polietilén-tereftalátban (PET), polisztirénben (PS), ütésálló polisztirénben (HIPS) és poliamidban (PA) való felhasználásra, 0,1 tömegszázalékig. Az 5. mellékletben megállapított előírásoknak megfelelően |
+
+| 80480 | 0090751–07–8; 0082451–48–7 | Poli(6-morfolin-1,3,5-triazin-2,4- diil)-[(2,2,6,6-tetrametil-4-piperidil) imino)]- hexametilén- [(2,2,6,6-tetrametil-4- piperidil)imino)] | SML = 5 mg/kg(47)Az 5. mellékletben megállapított előírásoknak megfelelően |
+
+| 80510 | 1010121–89–7 | Poli(3-nonil-1,1-dioxo-1-tiopropán- 1,3-diil)-blokk-poli(x-oleil-7-hidroxi- 1,5-diimino-oktán-1,8-diil), folyamatkeverék, x=1 és/vagy 5, dodecilbenzolszulfonsavval semlegesítve | Kizárólag polimerizációs gyártási segédanyagként használható polietilénben (PE), polipropilénben (PP) és polisztirénben (PS) |
 
 | 80640 | — | Poli-(hidroxi-alkil, C2-C4)- -dimetil-polisziloxán |  |
 
@@ -2768,6 +2812,10 @@ Az adalék- és segédanyagok részleges listája
 
 | 91360 | 000126-14-7 | Szacharóz-oktaacetát |  |
 
+| 91530 | – | Szulfoszukcinátsav alkil (C4–C20) vagy ciklohexil diészterek, sók | SKH = 5 mg/kg |
+
+| 91815 | – | Szulfoszukcinátsav monoalkil (C10–C16) polietilén-glikol észterek, sók | SKH = 2 mg/kg |
+
 | 91840 | 007704-34-9 | Kén |  |
 
 | 91920 | 007664-93-9 | Kénsav |  |
@@ -2782,9 +2830,15 @@ Az adalék- és segédanyagok részleges listája
 
 | 92195 | — | Taurinsók |  |
 
+| 92200 | 0006422–86–2 | Tereftálsav, bisz(2-etilhexil)-észter | SKH = 60 mg/kg |
+
 | 92205 | 057569-40-1 | [2,2'-Metilén-bisz(4-metil-6-terc- -butil-fenol)]tereftalát |  |
 
 | 92350 | 000112-60-7 | Tetraetilénglikol |  |
+
+| 92470 | 0106990–43–6 | N,N’,N”,N”-tetrakisz(4,6-bisz(N-butil- (N-metil-2,2,6,6-tetrametil-piperidin-4-il) amino)triazin-2-il)-4,7-diazadekan- 1,10-diamin | SKH = 0,05 mg/kg |
+
+| 92475 | 0203255–81–6 | 3,3’,5,5’-tetrakisz(tert-butil)-2,2’- dihidroxibifenil, ciklikus észter [3-(3-tert- butil-4-hidroxi-5-metilfenil) propil] oxi-foszfonsavval | SKH= 5 mg/kg (az anyag és a hidrolízis- termékek foszfit és foszfát formájának összegeként kifejezve) |
 
 | 92640 | 000102-60-3 | N,N,N',N'-Tetrakisz(2-hidroxi- -propil)-etiléndiamin |  |
 
@@ -2794,6 +2848,8 @@ Az adalék- és segédanyagok részleges listája
 
 | 93440 | 013463-67-7 | Titán-dioxid |  |
 
+| 93450 | – | Titánium-dioxid, az n-oktiltriklór-szilán és [aminotrisz(metilén-foszfinsav), penta nátrimsó kopolimerével bevonva] | Az 5. mellékletben megállapított előírásoknak megfelelően |
+
 | 93520 | 000059-02-9 | α-Tokoferol |  |
 
 |  | 010191-41-0 | 2,5,7,8-Tetrametil-2-(4,8,12- -trimetildecil)-3,4-dihidro-2H-1- -benzopirán-6-ol |  |
@@ -2802,9 +2858,15 @@ Az adalék- és segédanyagok részleges listája
 
 | 93720 | 000108-78-1 | 2,4,6-Triamino-1,3,5-triazin | SKH=30 mg/kg |
 
+| 94000 | 0000102–71–6 | Trietanolamin | SKH = 0,05 mg/kg (beleértve a hidroklorid adduktot is) |
+
+| 94425 | 0000867–13–0 | Trietil-foszfonacetát | Kizárólag polietilén-tereftalátban (PET) való felhasználásra |
+
 | 94320 | 000112-27-6 | Trietilénglikol |  |
 
 | 94960 | 000077-99-6 | 2-Etil-2-hidroximetilpropán-1,3-diol | SKH=6 mg/kg |
+
+| 94985 | – | Trimetilol-propán, vegyes triészterek és diészterek benzoesavval és 2-etilhexánsavval | SKH = 5mg/kg Nem alkalmazható olyan zsíros élelmiszerekkel érintkezésbe kerülő tárgyak esetében, melyekre a D- modellanyagot határozták meg. |
 
 | 95000 | 028931-67-1 | Trimetilol-propán trimetakrilát-metil-metakrilát kopolimer |  |
 
@@ -2834,7 +2896,7 @@ Az adalék- és segédanyagok részleges listája
 
 B) rész
 
-Az adalék- és segédanyagok részleges listája a 4. § (2) bekezdése szerint
+Az adalék- és segédanyagok listája a 4. § (2) bekezdése szerint
 
 | EGK-szám | CAS-szám | Név | Korlátozások, illetve előírások |
 
@@ -3110,6 +3172,164 @@ Baktériumos fermentációval előállított termékek
 
 | 18888 | 080181-31-3 | 3-Hidroxilbutánsav és 3-hidroxipentánsav kopolimer | SKH=0,05 mg/kg krotonsavra (mint szennyeződésre) és az 5. számú melléklet előírásai szerint. |
 
+4/A. számú melléklet az 1-2-2002/72 számú előíráshoz
+
+LIPOFIL ANYAGOK, AMELYEKNÉL HASZNÁLNI KELL A ZSÍR REDUKCIÓS FAKTORT
+
+| EGK szám | CAS-szám | Név |
+
+| 31520 | 061167–58–6 | Akrilsav, 2-terc-butil-6-(3-terc-butil-2-hidroxi-5-metilbenzil)- 4-metilfenil-észter |
+
+| 31530 | 123968–25–2 | Akrilsav, 2,4-di-terc-pentil-6-[1-(3,5-di-terc-pentil-2-hidroxifenil) etil]fenil-észter |
+
+| 31920 | 000103–23–1 | Adipinsav, bisz(2-etilhexil)-észter |
+
+| 38240 | 000119–61–9 | Benzofenon |
+
+| 38515 | 001533–45–5 | 4,4’-Bisz(2-benzoxazolil)sztilbén |
+
+| 38560 | 007128–64–5 | 2,5-Bisz(5-terc-butil-2-benzoxazolil)tiofén |
+
+| 38700 | 063397–60–4 | Bisz(2-karbobutoxietil)ón-bisz(izooktil-merkaptoacetát) |
+
+| 38800 | 032687–78–8 | N,N’-Bisz(3-(3,5-di-terc-butil-4-hidroxifenil)propionil)hidrazid |
+
+| 38810 | 080693–00–1 | Bisz(2,6-di-terc-butil-4-metilfenil)pentaeritritol-difoszfit |
+
+| 38820 | 026741–53–7 | Bisz(2,4-di-terc-butilfenil)pentaeritritol-difoszfit |
+
+| 38840 | 154862–43–8 | Bisz(2,4-dikumilfenil)pentaeritritol-difoszfit |
+
+| 39060 | 035958–30–6 | 1,1-Bisz(2-hidroxi-3,5-di-terc-butilfenil)etán |
+
+| 39925 | 129228–21–3 | 3,3-Bisz(metoximetil)-2,5-dimetilhexán |
+
+| 40000 | 000991–84–4 | 2,4-Bisz(oktilmerkapto)-6-(4-hidroxi-3,5-di-terc-butilanilin)-1,3,5-triazin |
+
+| 40020 | 110553–27–0 | 2,4-Bisz(oktiltiometil)-6-metilfenol |
+
+| 40800 | 013003–12–8 | 4,4’-Butilidén-bisz(6-terc-butil-3-metilfenil-ditridecil-foszfít) |
+
+| 42000 | 063438–80–2 | (2-Karbobutoxietil)ón-trisz(izooktil-merkaptoacetát) |
+
+| 45450 | 068610–51–5 | p-Krezol-diciklopentadién-izobutilén, kopolimer |
+
+| 45705 | 166412–78–8 | 1,2-ciklohexándikarbonsav, diizononil-észter |
+
+| 46720 | 004130–42–1 | 2,6-Di-terc-butil-4-etilfenol |
+
+| 47540 | 027458–90–8 | Di-terc-dodecil-diszulfid |
+
+| 47600 | 084030–61–5 | Di-n-dodecil-ón-bisz(izooktil-merkaptoacetát) |
+
+| 48800 | 000097–23–4 | 2,2’-Dihidroxi-5,5’-diklór-difenilmetán |
+
+| 48880 | 000131–53–3 | 2,2’-Dihidroxi–4-metoxibenzofenon |
+
+| 49080 | 852282–89–4 | N-(2,6-Diizopropilfenil)-6-[4-(1,1,3,3-tetrametilbutil)fenoxi]-1H-benzo [de]izokinolin-1,3(2H)-dion |
+
+| 49485 | 134701–20–5 | 2,4-Dimetil-6-(1-metilpentadecil)-fenol |
+
+| 49840 | 002500–88–1 | Dioktadecil-diszulfid |
+
+| 51680 | 000102–08–9 | N,N’-Difeniltiokarbamid |
+
+| 52320 | 052047–59–3 | 2-(4-Dodecilfenil)indol |
+
+| 53200 | 023949–66–8 | 2-Etoxi-2’-etiloxanilid |
+
+| 54300 | 118337–09–0 | 2,2’-Etilidén-bisz(4,6-di-terc-butil-fenil)fluor-foszfonit |
+
+| 59120 | 023128–74–7 | l,6-Hexametilén-bisz(3-(3,5-di-terc-butil-4-hidroxifenil)propionamid] |
+
+| 59200 | 035074–77–2 | l,6-Hexametilén-bisz[(3-(3,5-di-terc-butil-4-hidroxifenil)propionát] |
+
+| 60320 | 070321–86–7 | 2-[2-Hidroxi-3,5-bisz(1,1-dimetilbenzil)fenil]benzotriazol |
+
+| 60400 | 003896–11–5 | 2-(2’-Hidroxi-3’-terc-butil-5’-metilfenil)-5-klórbenzotriazol |
+
+| 60480 | 003864–99–1 | 2-(2’-Hidroxi-3,5’-di-terc-butilfenil)-5-klórbenzotriazol |
+
+| 61280 | 003293–97–8 | 2-Hidroxi-4-n-hexiloxibenzofenon |
+
+| 61360 | 000131–57–7 | 2-Hidroxi-4-metoxibenzofenon |
+
+| 61600 | 001843–05–6 | 2-Hidroxi-4-n-oktiloxibenzofenon |
+
+| 66360 | 085209–91–2 | 2,2’-Metilén-bisz(4,6-di-terc-butilfenil)-nátrium-foszfát |
+
+| 66400 | 000088–24–4 | 2,2’-Metilén-bisz(4-etil-6-terc-butilfenol) |
+
+| 66480 | 000119–47–1 | 2,2’-Metilén-bisz(4-metil-6-terc-butilfenol) |
+
+| 66560 | 004066–02–8 | 2,2’-Metilén-bisz(4-metil-6-ciklohexilfenol) |
+
+| 66580 | 000077–62–3 | 2,2’-Metilén-bisz(4-metil-6-(1-metil-ciklohexil)fenol) |
+
+| 68145 | 080410–33–9 | 2,2’,2”-Nitrilo[trietil-trisz(3,3’,5,5’-tetra-terc-butil-1,1-bi-fenil-2,2’-diil)foszfit] |
+
+| 68320 | 002082–79–3 | Oktadecil-3-(3,5-di-terc-butil-4-hidroxifenil)propionát |
+
+| 68400 | 010094–45–8 | Oktadecilerukamid |
+
+| 69840 | 016260–09–6 | Oleilpalmitamid |
+
+| 71670 | 178671–58–4 | Pentaeritritol-tetrakisz(2-ciano-3,3-difenilakrilát) |
+
+| 72081/10 | – | Kőolajalapú szénhidrogén gyanták (hidrogénezett) |
+
+| 72141 | 0018600–59–4 | 2,2’-(1,4-fenilén)bisz[4H-3,1-benzoxazin-4-on] |
+
+| 72160 | 000948–65–2 | 2-Fenilindol |
+
+| 72800 | 001241–94–7 | Foszforsav, difenil-2-etilhexil-észter |
+
+| 73160 | – | Foszforsav, mono- és di-n-alkil(C16 és C18)-észterek |
+
+| 74010 | 145650–60–8 | Foszforsav, bisz(2,4-di-terc-butil-6-metilfenil)-etil-észter |
+
+| 74400 | – | Foszforsav, trisz(nonil- és/vagy dinonilfenil)-észter |
+
+| 76807 | 0007308–26–5 | Adipinsav poliésztere, 1,3-butándiollal, 1,2-propándiollal és 2-etil-1-hexanollal |
+
+| 76866 | – | 1,2-propándiol és/vagy 1,3- és/vagy 1,4-butándiol és/vagy polipropilénglikol adipinsavval képzett poliészterei, lezárás ecetsavval vagy C12–C18 zsírsavakkal vagy n-oktanollal és/vagy n-dekanollal |
+
+| 77440 | – | Polietilénglikol-diricinoleát |
+
+| 78320 | 009004–97–1 | Polietilénglikol-monoricinoleát |
+
+| 81200 | 071878–19–8 | Poli[6-[(1,1,3,3-tetrametilbutil)amino]-1,3,5-triazin-2,4-diil]-[(2,2,6,6-tetra- metil-4-piperidil)-imino]hexametilén[(2,2,6,6-tetrametil-4-piperidil)imino] |
+
+| 83599 | 068442–12–6 | Olajsav, 2-merkaptoetil-észter reakciótermékei diklór-dimetil-ónnal, nátrium-szulfiddal és triklór-metil-ónnal |
+
+| 83700 | 000141–22–0 | Ricinolsav |
+
+| 84800 | 000087–18–3 | Szalicilsav, 4-terc-butilfenil-észter |
+
+| 92320 | – | Glikolsav tetradecil-polietilénglikol(EO = 3–8)-étere |
+
+| 92475 | 0203255–81–6 | 3,3’,5,5’-tetrakisz(tert-butil)-2,2’-dihidroxibifenil, ciklikus észter [3-(3-tert-butil-4-hidroxi-5-metilfenil)propil] oxifoszfonsavval” |
+
+| 92560 | 038613–77–3 | Tetrakisz(2,4-di-terc-butil-fenil)-4,4’-bifenililén-difoszfonit |
+
+| 92700 | 078301–43–6 | 2,2,4,4-Tetrametil-20-(2,3-epoxipropil)-7-oxa-3,20-diazadispiro[5.1.11.2]- heneikozan-21-on, polimer |
+
+| 92800 | 000096–69–5 | 4,4’-Tio-bisz(6-terc-butil-3-metilfenol) |
+
+| 92880 | 041484–35–9 | Tiodietanol-bisz(3-(3,5-di-terc-butil-4-hidroxifenil)propionát) |
+
+| 93120 | 000123–28–4 | Tiodipropionsav, didodecil-észter |
+
+| 93280 | 000693–36–7 | Tiodipropionsav, dioktadecil-észter |
+
+| 95270 | 161717–32–4 | 2,4,6-Trisz(terc-butil)feni-2-butil-2-etil-1,3-propándiol-foszfit |
+
+| 95280 | 040601–76–1 | 1,3,5-Trisz(4-terc-buti-3-hidroxi-2,6-dimetilbenzil)-l,3,5-triazi- 2,4,6(1H,3H,5H)-trion |
+
+| 95360 | 027676–62–6 | 1,3,5-Trisz(3,5-di-terc-butil-4-hidroxibenzil)-1,3,5-triazin-2,4,6(1H,3H,5H)- trion |
+
+| 95600 | 001843–03–4 | 1,1,3-Trisz(2-metil-4-hidroxi-5-terc-butilfenil)-bután |
+
 5. számú melléklet az 1-2-2002/72 számú előíráshoz
 
 A műanyagokra és műanyag eszközökre vonatkozó előírások
@@ -3150,19 +3370,29 @@ Egyéb előírások
 
 | 47210 | DIBUTILTIOSZTANNÁNSAV-POLIMER Molekulaegység= (C8 H18 S3 Sn2 )n (n=1,5-2) |
 
+| 60027 | Hidrogénezett homopolimerek és/vagy kopolimerek 1-hexénből és/vagy 1-okténből és /vagy 1-decénből és/vagy 1-dodecénből és/vagy 1-tetradecénből (Mw: 440–12000) Az átlagos molekulatömeg legalább 440 Da Viszkozitás 100 °C-on: legalább 3,8 cSt (3,8 x 10–6 m2/s) |
+
 | 76721 | POLIDIMETIL-SZILOXÁN (móltömeg > 6800 ) viszkozitás legalább 100 × 10-6 m2 /s (=100 centistokes) 25 oC |
+
+| 77708 | El nem ágazó és elágazó, (C8–C22) primer alkoholok polietilénglikol (EO = 1–50) -éterei Az etilén-oxid maximális maradványanyag-mennyisége az anyagban vagy a termékben = 1 mg/kg |
 
 | 77895 | Polietilénglikol(EO= 2-6)-monoalkil(C16 -C18 )-éter A keverék összetétele a következő: -polietilénglikol(EO= 2-6)-monoalkil(C16 -C18 )-éter (kb. 28%) -zsíralkoholok (C16 -C18 ) (kb. 48%) -etilénglikol-monoalkil(C16 -C18 )-éter (kb. 24%) |
 
-| 83595 | DI-TERC-BUTILFOSZFONIT BIFENILLEL KÉPZETT REAKCIÓTERMÉKE, AMELYET DI-TERC-BUTILFENOL, FOSZFOR-TRIKLORID ÉS BIFENIL FRIEDEL–CRAFTS-REAKCIÓJÁVAL NYERNEK Összetétel – 4,4’-Bifenilén-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 38613-77-3); 36–46% (m/m) (29) – 4,3’-Bifenilén-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 118421-00-4); 17–23% (m/m) – 3,3’-Bifenilén-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 118421-00-4); 1–5% (m/m) - – 4-Bifenilén-O,O-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 91362-37-7); 11–19% (m/m) – Trisz(2,4-di-terc-butilfenil)foszfit (CAS No 31570-04-4); 9–18% (m/m) – 4,4’-Bifenilén-O,O-bisz(2,4-di-terc-butilfenil)foszfonát-O,O-bisz(2,4-di- -terc-butilfenil)foszfonit (CAS No 112949-97-0); <5% (m/m) Egyéb előírások -Foszfortatalom minimuma 5,4–5,9% -Max. savszám 10 mg KOH grammonként -Olvadási tartomány 85–110 oC |
+| 80350 | Poli(12-hidroxi-sztearátsav)-polietilén-imin kopolimer A poli(12-hidroxi-sztearátsav) polietilén-iminnel való reakciója során keletkezik. |
+
+| 80480 | Poli(6-morfolin-1,3,5-triazin-2,4-diil)-[(2,2,6,6-tetrametil-4-piperidil)imino)]-hexametilén- [(2,2,6,6-tetrametil-4-piperidil)imino)] Az átlagos molekulatömeg legalább 2400 Da Maradékanyag-tartalom: morfolin ≤30 mg/kg, N,N’-bisz(2,2,6,6-tetrametil-piperidin-4-il)hexán-1,6-diamin <15000 mg/kg, és 2,4-diklór-6-morfolin-1,3,5-triazin ≤20 mg/kg |
+
+| 83595 | DI-TERC-BUTILFOSZFONIT BIFENILLEL KÉPZETT REAKCIÓTERMÉKE, AMELYET DI-TERC-BUTILFENOL, FOSZFOR-TRIKLORID ÉS BIFENIL FRIEDEL–CRAFTS-REAKCIÓJÁVAL NYERNEK Összetétel – 4,4’-Bifenilén-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 38613-77-3); 36–46% (m/m) (37) – 4,3’-Bifenilén-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 118421-00-4); 17–23% (m/m) – 3,3’-Bifenilén-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 118421-00-4); 1–5% (m/m) - – 4-Bifenilén-O,O-bisz[O,O-bisz(2,4-di-terc-butilfenil)foszfonit] (CAS No 91362-37-7); 11–19% (m/m) – Trisz(2,4-di-terc-butilfenil)foszfit (CAS No 31570-04-4); 9–18% (m/m) – 4,4’-Bifenilén-O,O-bisz(2,4-di-terc-butilfenil)foszfonát-O,O-bisz(2,4-di- -terc-butilfenil)foszfonit (CAS No 112949-97-0); <5% (m/m) Egyéb előírások -Foszfortatalom minimuma 5,4–5,9% -Max. savszám 10 mg KOH grammonként -Olvadási tartomány 85–110 oC |
 
 | 88640 | EPOXIDÁLT SZÓJAOLAJ Epoxid < 8%, Jódszám < 6 |
+
+| 93450 | Titánium-dioxid, az n-oktiltriklór-szilán és [aminotrisz(metilén-foszfinsav), penta nátrimsó] kopolimerével bevonva] A bevont titánium-dioxid felületkezelő kopolimer-tartalma nem haladhatja meg az 1 tömegszázalékot. |
 
 | 95859 | FINOMÍTOTT GYANTÁK, AMELYEK TERMÉSZETES VAGY SZINTETIKUS SZÉNHIDROGÉNEKBŐL KÉSZÜLTEK A termékekre a következő előírások vonatkoznak: – ásványi szénhidrogén-tartalom, amelyben a szénatomszám kevesebb, mint 25: kevesebb, mint 5% (m/m) - viszkozitás legalább 10 × 10-4 m2/s (=11 centistokes) 100 °C-on – átlagos móltömeg legalább 500 |
 
 | 95883 | ÁSVÁNYI EREDETŰ FEHÉROLAJOK, PARAFFINOK, AMELYEK TERMÉSZETES SZÉNHIDROGÉNBŐL KÉSZÜLTEK A termékekre vonatkozó előírások: – ásványi szénhidrogén-tartalom, amelynek szénatomszáma kevesebb, mint 25: nem több, mint 5% (m/m) - viszkozitás legalább 8,5 × 10-6 m2 /sec (= 8,5 centistokes) 100 °C-on - átlagos móltömeg legalább 480 |
 
-(29) Felhasznált/képződött anyag mennyisége.
+(37) Felhasznált/képződött anyag mennyisége.
 
 6. számú melléklet az 1-2-2002/72 számú előíráshoz
 
@@ -3182,7 +3412,7 @@ Megjegyzések a 2. és a 3. számú mellékletben szereplő „Korlátozások, i
 
 (7) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 30080, 42320, 45195, 45200, 53610, 81760, 89200 és 92030 EGK-számú anyagok kioldódásainak összege.
 
-(8) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 38000, 42400, 64320, 67896, 73040, 85760, 85840, 85920 és 95725 EGK-számú anyagok kioldódásainak összege.
+(8) Ebben az esetben az SKH(E) azt jelenti, hogy a 24886, 62020, 30607, 38000, 42400, 64320, 66350, 67896, 73040, 85760, 85840, 85920 és 95725 hivatkozási szám alatt szereplő anyagok kioldódási értékének az összege nem haladja meg a korlátozást.
 
 (9) Figyelmeztetés: fennáll a veszélye annak, hogy a kioldódott anyagok károsan befolyásolják az élelmiszerek érzékszervi tulajdonságait, így a késztermék nem felel meg az MÉ 1-2-89/109 számú előírás 2. §-a 2. pontjának.
 
@@ -3235,6 +3465,14 @@ Megjegyzések a 2. és a 3. számú mellékletben szereplő „Korlátozások, i
 (33) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 14800 és 45600 EGK-számú anyagok kioldódásainak összege.
 
 (34) Az SKH(E) ebben az esetben azt jelenti, hogy a korlátozást nem haladhatja meg a 14800 és 45600 EGK-számú anyagok kioldódásainak összege.
+
+(44) Fennáll annak veszélye, hogy az SKH-t túllépik a poliolefinek.
+
+(45) Fennáll annak veszélye, hogy az SKH-t túllépik azok a műanyagok, melyek az adott anyagból 0,5 tömegszázaléknál többet tartalmaznak.
+
+(46) Fennáll annak veszélye, hogy az SKH-t túllépik a magas alkoholtartalmú élelmiszerekkel való érintkezés során.
+
+(47) Fennáll annak veszélye, hogy az SKH-t túllépi az az alacsony sűrűségű polietilén (LDPE), mely az adott anyagból 0,3 tömegszázaléknál többet tartalmaz és zsíros élelmiszerekkel kerül érintkezésbe.
 
 Az 56/2004. (IV. 24.) FVM rendelet mellékletének 34. sorszámú előírása[^14]
 
@@ -5076,340 +5314,8 @@ A szűrlet inverzió előtti és utáni forgatóképességéből számítjuk ki 
 
 4.1. Cink-acetát oldat, 1 mólos: 21,9 g kristályos cink-acetátot (Zn(C2H3O2)2 . 2H2O) és 3 ml jégecetet vízzel 100 ml-re feltöltünk.
 
-4.2. Kálium-hexaciano-ferrát/II/ oldat 0,25 mólos : 10,6 g kristályos kálium-hexaciano-ferrát/II/-ot (K4(Fe(CN)6) . 3H2O vízzel 100 ml-re feltöltünk.
-
-4.3. Sósav-oldat, 6,35 + 0,20 mólos (20–22%), vagy 5,0 + 0,2 mólos (16–18%)
-
-4.4. Ammónia-oldat, 2,0 + 0,2 mólos, kb. 3,5% (m/m)
-
-4.5. Ecetsav-oldat, 2,0 + 0,2 mólos, 12% (m/m)
-
-4.6. Brómtimolkék-indikátor 1%-os (m/v) etanolos oldata.
-
-5. Eszközök
-
-5.1. Mérleg, 10 mg-os pontosságú
-
-5.2. Polarimétercső, 2 dm-es, pontosan kalibrált hosszúságú
-
-5.3. Polariméter vagy szachariméter:
-
-a) polariméter nátriumfénnyel vagy zöld higanyfénnyel (higanygőzlámpa prizmával vagy speciális Wrattenszűrővel Nr. 77A), legalább 0,05 szögfok leolvasási pontossággal,
-
-b) szachariméter nemzetközi cukorskálával, 6%-os kálium-bikromát oldat 15 mm vastag szűrőjén átvezetett fehér fénnyel vagy nátriumfénnyel. A nemzetközi cukorskálán a leolvasási pontosság legalább 0,1 fok legyen.
-
-5.4. Vízfürdő, 60±1 °C-ra beállítható.
-
-6. A vizsgálat menete
-
-6.1. Ellenőrző vizsgálat
-
-A módszer, a reagensek és a készülékek ellenőrzésére a következő módszerrel kettős ellenőrző vizsgálatot végzünk 100 g tej, vagy 110 g soványtej és 18,00 g tiszta szacharóz felhasználásával. Ez a keverék 40,00 g 45% szacharóztartalmú sűrített tejnek felel meg. A cukortartalmat a 7. pontban megadott képlettel számítjuk ki, ahol az 1. képletben szereplő M, F és P a bemért tejmennyiséget, a tej zsír- és fehérjetartalmát jelenti, a 2. képletben szereplő M helyére 40,00 számot kell beírni. A megállapított értékek középértéke a tényleges 45%-tól legfeljebb 0,2%-kal térhet el.
-
-6.2. Meghatározás
-
-6.2.1. A jól összekevert mintából kb. 40 g-ot 10 mg pontossággal 100 ml térfogatú főzőpohárba mérünk. 50 ml forróvizet (80–90 °C) adunk hozzá és alaposan összekeverjük.
-
-6.2.2. A keveréket 200 ml-es mérőlombikba maradéktalanul áttöltjük és a főzőpoharat kis mennyiségű desztillált vízzel többször átöblítjük. A desztillált víz hőmérséklete 60 °C, összes térfogata 120–150 ml legyen. Összekeverjük és szobahőfokra hűtjük.
-
-6.2.3. 5 ml hígított ammónia-oldatot (4.4.) adunk hozzá, újra összekeverjük és 15 percig állni hagyjuk.
-
-6.2.4. Az ammóniát ekvivalens mennyiségű ecetsav-oldat (4.5.) hozzáadásával semlegesítjük. Előzetesen a pontos mennyiséget az ammónia-oldat brómtimolkék indikátor (4.6.) jelenlétében történő titrálásával állapítjuk meg. Összekeverjük az oldatot.
-
-6.2.5. 12,5 ml cink-acetát oldatot (4.1.) adunk hozzá, miközben a megdöntött lombikot körkörösen forgatjuk.
-
-6.2.6. Az acetát-oldat adagolásával azonos módon 12,5 ml kálium-hexaciano-ferrát (4.2.) oldatot adunk hozzá.
-
-6.2.7. A lombik tartalmát 20 °C-ra beállítjuk és 20 °C-os vízzel a 200 ml-es jelig töltjük.
-
-Megjegyzés:
-
-Eddig a műveletig a víz vagy a reagensek adagolását úgy kell végezni, hogy a légbuborékok képződését elkerüljük. Ugyanebből a célból minden keverést a lombik óvatos körkörös forgatásával és nem rázogatással kell végezni. A 200 ml végtérfogatra való feltöltést megelőzően keletkezett légbuborékokat a lombikra kapcsolt vákuumszivattyúval és a lombik körkörös mozgatásával távolítjuk el.
-
-6.2.8. A lombikot száraz dugóval lezárjuk, és erős rázással alaposan összekeverjük.
-
-6.2.9. Néhány percig állni hagyjuk, majd száraz szűrőpapíron átszűrjük, a szürlet első 25 ml-ét kiöntjük.
-
-6.2.10. Közvetlen polarizáció: meghatározzuk a szürlet optikai forgatóképességét 20±1 °C-on.
-
-6.2.11. Inverzió: az előbbiek szerint nyert szürletből 40 ml-t 50 ml-es mérőlombikba pipettázunk. 6,0 ml 6,35 mólos vagy 7,5 ml 5,0 mólos sósavat (4.3.) adunk hozzá.
-
-A lombikot 15 percre 60 °C-os vízfürdőbe állítjuk úgy, hogy a lombik a nyakáig belemerüljön. Az első 5 percben körkörös mozgatással keverjük, ezalatt a lombik tartalmának el kell érnie a vízfürdő hőmérsékletét. 20 °C-ra lehűtjük és 20 °C-os vízzel a 50 ml-es jelig feltöltjük. Összekeverjük és ezen a hőmérsékleten 1 órán keresztül állni hagyjuk.
-
-6.2.12. Inverzió utáni polarizáció
-
-Az invertált oldat forgatóképességét 20±0,2 °C-on mérjük. (Ha a polarizálócsőben a folyadék hőmérséklete több mint 0,2 °C-kal eltér a 20 °C-tól, akkor a 7.2. pontban megadott hőmérsékletkorrekciót kell alkalmazni.)
-
-7. Az eredmények kiszámítása
-
-7.1. Számítás
-
-A szacharóztartalom kiszámítását a következő képletek szerint végezzük:
-
-| 1. v= | M | ⋅ (1,08F+1,55P) |
-
-| 100 |
-
-| 2. S= | D–1,25I | ⋅ | V–v | ⋅ | V | % |
-
-| Q | V | L ⋅ M |
-
-ahol:
-
-S = szacharóztartalom,
-
-M = a bemért minta tömege g-ban,
-
-F = a minta zsírtartalma %-ban,
-
-P = a minta fehérjetartalma (N×6,38) %-ban,
-
-V = az a térfogat ml-ben, amire a mintát a szűrés előtt felhígítjuk,
-
-v = a szűréskor képződött csapadék térfogat korrekciója ml-ben,
-
-D = a közvetlen polarizációs érték (az inverzió előtti polarizáció),
-
-I = az inverzió utáni polarizációs érték,
-
-L = a polarimétercső hossza dm-ben,
-
-Q = inverziós faktor, amelynek az értékére a következőkben térünk ki.
-
-Megjegyzések:
-
-a) Ha pontosan 40,00 g sűrített tejet mértünk be, és nátriumlámpás polariméter szögfokot és 2 dm-es polarimétercsövet használunk 20±0,1 °C-on, akkor a normál sűrített tej (C=9) szacharóztartalmát a következő képlettel számítjuk ki:
-
-S = (D–1,25 I) × (2,833–0,00612 F–0,00878 P)
-
-b) Ha a polarizációt inverzió után a megadott 20 °C-tól (T) eltérő hőmérsékleten mértük, az értéket meg kell szorozni a következő faktorral: [1+0,0037 (T–20)]
-
-7.2. Az inverziós faktor (Q) értéke
-
-A következő képletek megadják a Q pontos értékét különböző fényforrások, különböző koncentrációk és hőmérsékletek esetén:
-
-nátriumfénynél és polariméter szögfokban mérve:
-
-Q = 0,8825+0,0006 (C–9)–0,0033 (T–20),
-
-zöld higanyfénynél és polariméter szögfokban mérve:
-
-Q = 1,0392+0,0007 (C–9)–0,0039 (T–20),
-
-fehér fénynél bikromátszűrővel és nemzetközi cukorskálával ellátott szachariméterrel mérve:
-
-Q = 2,549+0,0017 (C–9)–0,0095 (T–20).
-
-Az előbbi képletekben a betűk jelentése:
-
-C = a polarimetriás mérésnek megfelelő összes cukortartalom az invertált oldatban, százalékban,
-
-T = az invertált oldat hőmérséklete a polarimetriás mérés alatt.
-
-1. megjegyzés:
-
-Az invertált oldatban lévő összes cukortartalmat %-ban (C) a közvetlen polarizációs érték és az inverzió utáni polarizációs érték a szacharóz, laktóz és invertcukor specifikus forgatóképességének normál értékével a szokásos módon lehet kiszámítani.
-
-A 0,0006 (C–9) korrekció csak akkor pontos, ha C kb. = 9, szokásos sűrített tejnél ez a korrekció elhagyható, mivel C 9-hez közel van.
-
-2. megjegyzés:
-
-A 20 °C mérési hőmérséklethez képest 1 °C hőmérséklet eltérés a közvetlen leolvasásban keveset jelent, de az inverzió utáni leolvasásnál a 0,2 °C-nál nagyobb eltérés esetén már korrekcióra van szükség. A 0,0033 (T–20) korrekció stb. csak 18 °C–22 °C között pontos.
-
-8. Ismételhetőség
-
-A párhuzamos vizsgálatok eredményei között, azaz ugyanazon vizsgáló által, ugyanabból a mintából egyidejűleg vagy közvetlenül egymás után végzett vizsgálatok eredménye között a megengedett eltérés legfeljebb 0,3 g szacharóz/100 g termék lehet.
-
-6. módszer: Tejsav és laktáttartalom meghatározás
-
-1. Tárgy és alkalmazási terület
-
-Ezzel a módszerrel a következő termékek tejsav- és laktáttartalmát határozzuk meg:
-
-– emelt zsírtartalmú tejpor,
-
-– teljes tejpor,
-
-– félzsíros tejpor,
-
-– sovány tejpor.
-
-2. Fogalommeghatározás
-
-A tejpor tejsav- és laktáttartalma: az ezzel a módszerrel meghatározott tejsav- és laktáttartalom, tejsavban kifejezve.
-
-3. A módszer elve
-
-Réz-szulfát és kalcium-hidroxid egyidejű adagolása után a zsírt, a fehérjét és laktózt szűréssel eltávolítjuk. A szürletben lévő tejsavat tömény kénsavval réz-szulfát jelenlétében acetaldehiddé alakítjuk. Az acetaldehidet 4-hidroxi-difenillel fotometriásan meghatározzuk. A tejsav és laktáttartalmat tejsav mg/100 g zsírmentes szárazanyag értékben adjuk meg.
-
-4. Vegyszerek
-
-4.1. Réz/II/szulfát oldat: 250 g réz/II/szulfátot (CuSO4 . 5H2O) vízben oldunk, és 1000 ml-re feltöltjük.
-
-4.2. Kálcium-hidroxid-szuszpenzió:
-
-4.2.1. 300 g kálcium-hidroxidot [Ca(OH)2] mozsárban összesen 900 ml víz felhasználásával eldörzsöljük. A szuszpenziót a felhasználás előtt frissen készítjük.
-
-4.2.2. Másik változat: 300 g kálcium-hidroxidot [Ca(OH)2] mozsárban összesen 1400 ml víz felhasználásával eldörzsölünk. A szuszpenziót a felhasználás előtt frissen készítjük.
-
-4.3. Kénsavas réz/II/szulfát oldat: 300 ml kénsavhoz (95,5–97,0% (m/m) H2SO4) 0,5 ml réz/II/szulfát oldatot (4.1.) adunk.
-
-4.4. 4-hidroxi-difenil oldat (C6H5C6H4OH): 0,75 g 4-hidroxi-difenilt enyhe melegítés és keverés közben 5 gramm NaOH/100 ml koncentrációjú vizes nátrium-hidroxid oldat 5 ml-ében feloldunk. Mérőlombikban vízzel 50 ml-re feltöltjük. Az oldatot sötét, hűvös helyen, barna folyadéküvegben tároljuk. Ne használjuk, ha színváltozás vagy zavarosodás lép fel. Legfeljebb 72 óráig tárolható.
-
-4.5. Tejsav kalibráló oldat: közvetlenül a felhasználás előtt 0,1067 g lítium-laktátot (CH3CHOHCOOLi) vízben feloldunk és mérőlombikban 1000 ml-re feltöltünk. Ennek az oldatnak 1 ml-e 0,1 mg tejsavnak felel meg.
-
-4.6. Visszaállított normál tej: jó minőségű tejpor mintákat előzőleg megvizsgálunk. A kalibrációs görbe felvételéhez azokat a mintákat választjuk ki, amelyek tejsav tartalma a legkisebb, legfeljebb 30 mg/100 g zsírmentes szárazanyag tartalommal. A műveleteket a 6.2.1. és a 6.2.2. szerint végezzük.
-
-5. Eszközök
-
-5.1. Analitikai mérleg
-
-5.2. Spektrofotométer, 570 nm hullámhosszra beállítható
-
-5.3. Vízfürdő, 30+2 °C-ra beállítható
-
-5.4. Dörzsmozsár törővel
-
-5.5. Szürőpapír, (Schleicher és Schüll 595, Whatman 1 vagy azzal egyenértékű)
-
-5.6. Reagensüveg Pyrex vagy azzal egyenértékű üvegből (mérete: 25x150 mm)
-
-Megjegyzés:
-
-Minden üvegedény teljesen tiszta legyen, és csak ehhez a vizsgálathoz használjuk. A csapadékot tartalmazó üvegedényeket tömény sósavas kiöblítés után mosogassuk el.
-
-6. A vizsgálat menete
-
-6.1. Vakpróba
-
-Vakpróbát készítünk, amelyhez 30 ml vizet töltünk egy 50 ml-es mérőlombikba és a 6.2.4–6.2.11. műveleteket elvégezzük. Ha a vakpróba eredménye vízzel szemben mérve a 20 mg tejsav/100 mg zsírmentes szárazanyagnak megfelelő értéket túllépi, a reagenseket felül kell vizsgálni, a szennyezett reagenseket, illetve reagenst mással kell pótolni. A vakpróbát a minta vizsgálatával egyidejűleg kell végezni.
-
-6.2. Meghatározás
-
-Megjegyzés:
-
-Különösen nyállal és izzadsággal való szennyeződéstől óvjuk a mintákat.
-
-6.2.1. A minta zsírmentes szárazanyagtartalmát (a) megkapjuk, ha 100-ból levonjuk a zsírtartalmat (meghatározása a 4. módszerrel) és a víztartalmat (meghatározása a 2. módszerrel).
-
-| 6.2.2. A minta | 1000 | g-ját 0,1 g pontossággal lemérjük. |
-
-| a–10 |
-
-Ehhez a mintamennyiséghez 100 ml vizet adunk és alaposan összekeverjük.
-
-6.2.3. Az így kapott oldatból 5 ml-t 50 ml-es mérőlombikba pipettázunk és vízzel kb. 30 ml-re felhígítjuk.
-
-6.2.4. Forgatás közben lassan hozzáadunk 5 ml réz-szulfát oldatot (4.1.) és 10 percig állni hagyjuk.
-
-6.2.5. Forgatás közben lassan hozzáadunk 5 ml kálcium-hidroxid szuszpenziót (4.2.1.) vagy 10 ml kalcium-hidroxid szuszpenziót (4.2.2.).
-
-6.2.6. Vízzel 50 ml-re feltöltjük, erősen összerázzuk, 10 percig állni hagyjuk, majd szűrjük. A szürlet első részét elöntjük.
-
-6.2.7. A szürlet 1 ml-ét reagensüvegbe pipettázzuk (5.6.).
-
-6.2.8. Bürettával vagy osztott pipettával a kénsav-réz-szulfát-oldatból (4.3.) 6,0 ml-t a reagensüvegbe adagolunk. Összekeverjük.
-
-6.2.9. A reagensüveget 5 percen keresztül forró vízfürdőn melegítjük. Folyó vízzel szobahőfokra hűtjük.
-
-6.2.10. Két csepp 4-hidroxi-difenil-reagenst (4.4.) adunk hozzá és erősen összerázzuk, hogy a reagens az egész folyadékban egyenletesen eloszoljon. A reagensüveget 30±2 °C hőmérsékletű vízfürdőbe helyezzük, 15 percen keresztül benne hagyjuk és időnként rázogatjuk.
-
-6.2.11. A reagensüveget 90 másodpercre forró vízfürdőbe helyezzük, majd folyó vízzel szobahőmérsékletre hűtjük.
-
-6.2.12. Az optikai sűrűséget a vakpróbával szemben (6.1.) 3 órán belül az 5.2. pontban megadott hullámhosszon mérjük.
-
-6.2.13. Amennyiben az optikai sűrűség a kalibrációs görbe legmagasabb pontját túllépi, a 6.2.6. szerint nyert szürlet megfelelő hígításával kapott mintával a vizsgálatot megismételjük.
-
-6.3. A kalibrációs görbe felvétele
-
-6.3.1. A visszaállított tej (4.6.) 5 ml-ét 5 db 50 ml-es mérőlombikba pipettázzuk. Ezekbe a lombikokba 0, 1, 2, 3, 4 ml kalibráló oldatot (4.5.) pipettázunk. Az így kapott oldatok 0, 20, 40, 60, 80 mg tejsav/100 g zsírmentes szárazanyag koncentrációnak felelnek meg.
-
-6.3.2. Vízzel kb. 30 ml-re hígítjuk és a 6.2.4–6.2.11. pontban leírtak szerint járunk el.
-
-6.3.3. A standard (6.3.1.) optikai sűrűségét a vakpróbával (6.1.) szemben az 5.2. pontban megadott hullámhosszon mérjük. Az optikai sűrűség adatait a 6.3.1. pontban megadott 0 mg, 20 mg, 40 mg, 60 mg, 80 mg/100 g zsírmentes szárazanyagra vonatkoztatott tejsav mennyiségének függvényében diagramon ábrázoljuk. Ezeknek a pontoknak legjobban megfelelő egyenest megrajzoljuk, és a kalibrációs görbét úgy készítjük el, hogy az egyenes önmagával párhuzamosan eltolva a koordinátarendszer nullpontját metssze.
-
-7. Az eredmények kiszámítása
-
-A minta 6.2.12. vagy 6.2.13. szerint mért optikai sűrűségét a kalibrációs görbe segítségével tejsav mg/100 g zsírmentes szárazanyag értékre számoljuk át. Az eredményt a hígítási faktorral megszorozzuk, amennyiben a szürletet a 6.2.13. szerint hígítottuk.
-
-8. Ismételhetőség
-
-A párhuzamos vizsgálatok eredményei között, azaz ugyanazon vizsgáló által, ugyanabból a mintából egyidejűleg vagy közvetlenül egymás után végzett vizsgálati eredmények között a megengedett eltérés legfeljebb 8 mg tejsav/100 g zsírmentes szárazanyag lehet 80 mg/100 g mért értékig. Nagyobb értékeknél ez a különbség a legkisebb érték 10%-nál nem lehet nagyobb.
-
-7. módszer: Foszfatáz-aktivitás meghatározás (módosított Sanders-Sagar-eljárás)
-
-1. Tárgy és alkalmazási terület
-
-Ez a módszer a foszfatáz-aktivitás meghatározását írja le a következő termékekben:
-
-– emelt zsírtartalmú tejpor,
-
-– teljes tejpor,
-
-– félzsíros tejpor,
-
-– sovány tejpor.
-
-2. Fogalommeghatározás
-
-A foszfatáz-aktivitás a jelenlévő aktív, alkalikus foszfatáz mennyiségének a mértéke. Ezt az értéket az 1 ml hígított tejből, az itt leírt módszerrel felszabadított fenol µg-ban állapítjuk meg.
-
-3. A módszer elve
-
-A tejpor foszfatáz-aktivitását a foszfatáz azon képessége alapján határozzuk meg, hogy dinátrium-fenil-foszfátból fenolt képes felszabadítani. Az alább leírt feltételek közt felszabaduló fenol mennyiségét spektrofotometriás méréssel, a Gibb reagenssel kialakított szín mérése útján határozzuk meg.
-
-4. Vegyszerek
-
-4.1. A oldat
-
-Bárium-borát-hidroxid-puffer: pH 10,6±0,1 20 °C-on. 25,0 g bárium-hidroxidot (Ba(OH)2 . 8H2O) vízben oldunk és 500 ml-re felhígítjuk. 11,0 g bórsavat (H3BO3) vízben feloldunk és 500 ml-re felhígítjuk.
-
-Mindkét oldatot 50 °C-ra felmelegítjük és összekeverjük. Az elegyet rázogatva szobahőmérsékletre hűtjük. A pH-értékét bárium-hidroxid-oldattal 10,6±0,1-re állítjuk be és leszűrjük. Az oldatot jól zárható edényben tároljuk. A puffert felhasználás előtt azonos mennyiségű vízzel felhígítjuk.
-
-4.2. B oldat
-
-Színképző puffer: 6,0 g nátrium-metaborátot (NaBO2) vagy (12,5 g NaBO2 . 4H2O) és 20 g nátrium-kloridot (NaCl) vízben feloldunk és 1000 ml-re feltöltjük.
-
-4.3. C oldat
-
-Szubsztrátum-puffer oldat
-
-4.3.1. 0,5 g dinátrium-fenil-foszfátot (Na2C6H5PO4 . 2H2O) 4,5 ml B oldatban (4.2.) feloldunk. Az E oldatból (4.5.) 2 cseppet adunk hozzá, és 30 percig állni hagyjuk. A színanyagot 2,5 ml butanollal (4.10.) extraháljuk. Amennyiben szükséges, a színanyag extrakciót megismételjük. A kivonás után a butanolt kiöntjük. Az oldat hűtőszekrényben több napig eltartható. A felhasználás előtt a színezéket újra kifejlesztjük és extraháljuk.
-
-4.3.2. Ebből az oldatból 1 ml-t egy 100 ml-es mérőlombikba viszünk át és az A oldattal jelig töltjük. A pufferoldatot közvetlenül a felhasználás előtt készítjük el.
-
-4.4. D oldat
-
-Csapadékképző reagens: 3,0 g cink-szulfátot (ZnSO4 . 7H2O) és 0,6 g réz-szulfátot (CuSO4 . 5H2O) vízben feloldunk, és 100 ml-re feltöltjük.
-
-4.5. E oldat
-
-Gibb reagens: 0,040 g 2,6-dibrómkinon-1,4-klórimidet (C6H2Br2ClNO) 10 ml 96%-os etil-alkoholban feloldunk. Az oldatot sötét üvegben hűtőszekrényben tároljuk. Elszíneződött reagens nem használható.
-
-4.6. Színhígító puffer
-
-A színképző B oldatból (4.2.) 10 ml-t vízzel 100 ml-re hígítunk.
-
-4.7. Réz-szulfát oldat
-
-0,05 g réz(II)-szulfátot (CuSO4 . 5H2O) vízben oldunk és vízzel 100 ml-re feltöltjük.
-
-4.8. Fenol törzsoldat
-
-0,200±0,001 g tiszta fenolt vízben oldunk és mérőlombikban 100 ml-re feltöltjük. Az oldat hűtőszekrényben néhány hónapig eltartható. Ebből az oldatból 10 ml-t vízzel 100 ml-re feltöltünk. Ezen hígított oldat 1 ml-e 200 µg fenolt tartalmaz és további hígítások előállításához is felhasználható.
-
-4.9. Kiforralt desztillált víz
-
-4.10. n-butanol
-
-5. Eszközök
-
-5.1. Analitikai mérleg
-
-5.2. Vízfürdő, 37±1 °C-ra beállítható
-
 [^1]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 240. pontja hatályon kívül helyezte.
-[^2]: A melléklet a 123/2004. (VII. 29.) FVM rendelet 2. §-a, a 2/2005. (I. 11.) FVM rendelet és a 20/2005. (III. 22.) FVM rendelet 1. §-a és 2. § (2) bekezdése, valamint a 72/2005. (VIII. 15.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, az 57/2006. (VIII. 4.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, a 79/2006. (XI. 17.) FVM rendelet 1. §-a, a 19/2007. (III. 29.) FVM rendelet 1. §-a, az 57/2007. (VII. 6.) FVM rendelet 1. §-a és 2. § (3) bekezdése szerint módosított, valamint a Magyar Közlöny 2007. évi 140. számában megjelent helyesbítésnek megfelelő szöveg. A melléklet a 6/2008. (I. 17.) FVM rendelet 1. §-a, a 68/2008. (V. 16.) FVM rendelet 1. §-a, a 117/2008. (IX. 5.) FVM rendelet 1. §-a, a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a)–h) pontja, 2. § (5) bekezdés a)–f) pontja, 2. § (7) bekezdés a)–c) pontja szerint módosított szöveg. A melléklet 14. sorát a 152/2009. (XI. 12.) FVM rendelet 2. § (8) bekezdése hatályon kívül helyezte 2011. január 20. napjával.
+[^2]: A melléklet a 123/2004. (VII. 29.) FVM rendelet 2. §-a, a 2/2005. (I. 11.) FVM rendelet és a 20/2005. (III. 22.) FVM rendelet 1. §-a és 2. § (2) bekezdése, valamint a 72/2005. (VIII. 15.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, az 57/2006. (VIII. 4.) FVM rendelet 1. §-a és 2. §-ának (2) bekezdése, a 79/2006. (XI. 17.) FVM rendelet 1. §-a, a 19/2007. (III. 29.) FVM rendelet 1. §-a, az 57/2007. (VII. 6.) FVM rendelet 1. §-a és 2. § (3) bekezdése szerint módosított, valamint a Magyar Közlöny 2007. évi 140. számában megjelent helyesbítésnek megfelelő szöveg. A melléklet a 6/2008. (I. 17.) FVM rendelet 1. §-a, a 68/2008. (V. 16.) FVM rendelet 1. §-a, a 117/2008. (IX. 5.) FVM rendelet 1. §-a, a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a)–h) pontja, 2. § (5) bekezdés a)–f) pontja, 2. § (7) bekezdés a)–c) pontja szerint módosított szöveg. A melléklet 14. sorát a 152/2009. (XI. 12.) FVM rendelet 2. § (8) bekezdése hatályon kívül helyezte 2011. január 20. napjával. A melléklet a 26/2010. (III. 19.) FVM rendelet 4. §-a és 5. § (5) bekezdése szerint módosított szöveg.
 [^3]: Az előírás az 57/2006. (VIII. 4.) FVM rendelet mellékletében jelent meg. Az 57/2006. (VIII. 4.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni. Az előírást a 152/2009. (XI. 12.) FVM rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^4]: Az előírás a 72/2005. (VIII. 15.) FVM rendelet mellékletében jelent meg. A 72/2005. (VIII. 15.) FVM rendelet 2. § (1) bekezdése alapján az előírást az abban megjelölt határidőtől kell alkalmazni.
 [^5]: Az előírás a 2/2005. (I. 11.) FVM rendelet mellékletében jelent meg. A 17. sorszámú előírás a 6/2008. (I. 17.) FVM rendelet 2. §-a szerint módosított szöveg.
