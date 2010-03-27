@@ -1,0 +1,1 @@
+Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 5. és 26. pontjában foglalt felhatalmazás alapján, a földművelésügyi és vidékfejlesztési miniszter feladat- és hatásköréről szóló 162/2006. (VII. 28.) Korm. rendelet 1. §-ának c) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
