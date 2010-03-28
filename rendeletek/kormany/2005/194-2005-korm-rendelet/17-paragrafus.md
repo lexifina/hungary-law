@@ -1,1 +1,0 @@
-## Tájékoztatás a hivatali aláírásról
