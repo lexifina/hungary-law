@@ -2,11 +2,11 @@
 
 a) ellenőrzi az elektronikus aláírás érvényességét,
 
-b) szükség esetén a hitelesítés-szolgáltatónál viszontazonosítás útján ellenőrzi a felhasználó természetes személyazonosító adatait, továbbá
+b)[^6]
 
 c) ellenőrzi az elektronikus űrlapon megadott adatok és az 5. § (2), illetőleg (3) bekezdés szerinti nyilvántartásban szereplő adatok egyezőségét.
 
-(2)[^5] Az EGT más részes államának állampolgára, aki nem magyar hitelesítés-szolgáltatótól rendelkezik elektronikus aláírással az (1) bekezdés szerinti elektronikus űrlapot az EU tagállamai által kölcsönösen elfogadott bizalmi listán – melyet a kormányzati portál regisztrációs szekciójában folyamatosan közzétesz – szereplő elektronikus aláírással ellátva nyújthatja be. Álnévre kiállított tanúsítvány itt sem használható. Ez esetben az ellenőrzés kizárólag az aláírás érvényességére, és a tanúsítványban és az űrlapon megtalálható adatok egyezésére terjed ki.
+(2)[^7] Az EGT más államának állampolgára az (1) bekezdés szerinti elektronikus űrlapot a közigazgatási felhasználásra alkalmas aláírásokra vonatkozó kormányrendelet alapján közigazgatási felhasználásra alkalmasnak minősített, más EGT-állam által felügyelt, vagy más EGT-állam területén jogszerűen működő önkéntes akkreditációs rendszer keretében tanúsított hitelesítési rend alapján kibocsátott aláírással is aláírhatja. Amennyiben adatai az 5. § (3) bekezdés szerinti nyilvántartásban nem szerepelnek, az ellenőrzés az aláírás érvényességére, valamint a tanúsítványban és az űrlapon egyaránt megtalálható adatok egyezésére terjed ki.
 
 (3) Ha az ellenőrzés sikeres volt, a központi rendszer elektronikus levélben tájékoztatja a felhasználót a regisztráció sikeréről. A regisztráció az elektronikus aláírás ellenőrzési ciklusának megfelelő késleltetéssel lép hatályba. Valós idejű tanúsítványszolgáltatás esetén a kapu az elektronikus válaszüzenet kézbesítését követően haladéktalanul igénybe vehető. Ha az ellenőrzés bármely eleme sikertelen, a regisztráció kérőt a központi rendszer tájékoztatja a regisztráció sikertelenségéről, és az adatokat visszaállíthatatlanul törli.
 
@@ -14,4 +14,5 @@ c) ellenőrzi az elektronikus űrlapon megadott adatok és az 5. § (2), illető
 
 (5) Ha a felhasználó az elektronikus aláírás nélküli elektronikus űrlap elküldésétől számított 30 napon belül nem jelenik meg személyesen egy regisztrációs szerv előtt az azonosítás végett, a központi rendszer az ügyfélkaput törli.
 
-[^5]: A 6. § (2) bekezdése a 38. § (2) bekezdése alapján 2009. december 28-án lép hatályba.
+[^6]: A 6. § (1) bekezdés b) pontját a 78/2010. (III. 25.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
+[^7]: A 6. § (2) bekezdése a 78/2010. (III. 25.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.

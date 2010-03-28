@@ -16,7 +16,7 @@ f)[^4] nem költségvetési intézményként működő felsőoktatási intézmé
 
 épülve.
 
-[^1]: A 4. § (2) bekezdés c) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba.
+[^1]: A 4. § (2) bekezdés c) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba. A 160/2010. (V. 6.) Korm. rendelet 11. § (3) bekezdése alapján a hatálybalépés időpontja 2010. szeptember 1.
 [^2]: A 4. § (2) bekezdés d) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba.
 [^3]: A 4. § (2) bekezdés e) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba.
 [^4]: A 4. § (2) bekezdés f) pontja a 38. § (4) bekezdése alapján külön jogszabály alapján lép hatályba.

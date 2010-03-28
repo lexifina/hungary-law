@@ -12,7 +12,7 @@ ca) a felhasználó haláláról való tudomásszerzést követő 4 hónap eltel
 
 cb) ha a felhasználó a rendelkezésre álló adatok alapján személyét illetően nem azonosítható, illetve ismeretlen helyen tartózkodik, ezen tény nyilvántartásba vételét követő 1 év leteltével.
 
-(2)[^9] A felhasználó az ügyfélkapu megszüntetését a kormányzati portálról letölthető elektronikus űrlap kitöltésével kezdeményezheti. Az űrlap a kormányzati portál elektronikus űrlapok beküldésére szolgáló felületén, illetve a regisztrációs szervnél személyesen vagy postán is benyújtható.
+(2)[^15] A felhasználó az ügyfélkapu megszüntetését a kormányzati portálról letölthető elektronikus űrlap kitöltésével kezdeményezheti. Az űrlap a kormányzati portál elektronikus űrlapok beküldésére szolgáló felületén, illetve a regisztrációs szervnél személyesen vagy postán is benyújtható.
 
 (3) Amennyiben az elektronikus tárhely üres, a regisztrációs adatbázis adatkezelője a (2) bekezdés szerint írásban kezdeményezett megszüntetést a kérelem beérkezésétől számított 3 munkanapon belül hajtja végre. A megszüntetendő ügyfélkapun keresztül küldött elektronikus bejelentés esetén a megszüntetést haladéktalanul végrehajtja. A megszüntetés megtörténtéről a felhasználót – a kérelem benyújtásának módjától függően elektronikus levélben vagy írásban – haladéktalanul értesíti a regisztrációs nyilvántartás adatkezelője. A megszüntetésre vonatkozó kérelmet a regisztrációs adatbázis adatkezelője 8 évig megőrzi.
 
@@ -20,4 +20,4 @@ cb) ha a felhasználó a rendelkezésre álló adatok alapján személyét illet
 
 (5) A megszüntetett tárhelyen tárolt információt helyreállíthatatlan módon kell törölni.
 
-[^9]: A 20. § (2) bekezdése a 244/2009. (X. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 20. § (2) bekezdése a 244/2009. (X. 29.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
