@@ -1,4 +1,4 @@
-## 32. §[^6] A jelenleg elektronikus közszolgáltatást nyújtó rendszereknek az e rendelet 18–20. §-aiban foglalt együttműködési feltételeknek 2011. december 31-ig kell megfelelniük az elektronikus közszolgáltatás biztonságáról szóló kormányrendelet szerinti auditálással együtt.
+## 32. §[^7] A jelenleg elektronikus közszolgáltatást nyújtó rendszereknek az e rendelet 18–20. §-aiban foglalt együttműködési feltételeknek 2011. december 31-ig kell megfelelniük az elektronikus közszolgáltatás biztonságáról szóló kormányrendelet szerinti auditálással együtt.
 
 33. § A mezőgazdasági és vidékfejlesztési támogatási szerv a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény hatálya alá tartozó intézkedésekkel összefüggő eljárásokban 2012. január 1-jéig terjedő időszakban az ügyfélkapu azonosításával, részben a központi rendszeren keresztül nyújtja az elektronikus közszolgáltatást.
 
@@ -1734,4 +1734,4 @@ A jogok, kötelezettségek, felelősségek összefoglalása
 
 | EU adminisztrációs partner |  | – Az érintett EU szolgáltatók értesítése a magyar felhasználó intézmény és az EU adminisztrációs partner közötti együttműködésről – az együttműködési megállapodás megküldésével. |
 
-[^6]: A 32. §-t a 28. § (6) bekezdése hatályon kívül helyezte 2012. január 2. napjával.
+[^7]: A 32. §-t a 28. § (6) bekezdése hatályon kívül helyezte 2012. január 2. napjával.

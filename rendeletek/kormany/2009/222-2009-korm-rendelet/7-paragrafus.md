@@ -7,3 +7,7 @@
 (4) A közüzemi szolgáltatók csatlakozására a 6. § (4) bekezdésében meghatározott követelmények érvényesek azzal, hogy amennyiben az (1) és (2) bekezdésben meghatározott tevékenységeken túlmenő szolgáltatásokkal kívánnak csatlakozni, akkor ezen szolgáltatások tekintetében – az Ekszt. 6. § (7) bekezdésében foglaltak alapján – a kapcsolattartás a 11. §-ban foglaltak szerint díjköteles.
 
 (5) A közüzemi szolgáltatók a várható ügyfélforgalommal arányosan – melynek megállapítására évenként, az előző év a központi rendszer naplózása nyomán megállapított forgalma alapján kerül sor – hozzájárulnak a központi rendszer fenntartásához. A hozzájárulást időarányosan, havonta kell megfizetni.
+
+(6)[^2] A közüzemi szolgáltatók az egységes elektronikus űrlaphasználat biztosítása érdekében jogosultak az általános nyomtatványtervező részükre biztosított verziójának külön díjazás nélküli használatára. Az abban biztosítottat meghaladó igények esetén a fejlesztést saját forrásaikból biztosíthatják, melyre azonban érvényes az Ekszt. 4. § (3) bekezdésében foglalt követelmény.
+
+[^2]: A 7. § (6) bekezdését a 78/2010. (III. 25.) Korm. rendelet 23. §-a iktatta be.
