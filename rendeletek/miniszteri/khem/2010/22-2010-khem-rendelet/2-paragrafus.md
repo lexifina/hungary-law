@@ -1,1 +1,0 @@
-## „(6) A bányafelügyelet az (1) bekezdésben meghatározott módon tájékoztatja a bányavállalkozót, az e rendeletben meghatározott döntéshozatali eljárásban részt vevőket, valamint az ezekhez kapcsolódó nem kormányzati szerveket a döntés tartalmáról, ideértve az engedély másolatának közzétételét is.”
