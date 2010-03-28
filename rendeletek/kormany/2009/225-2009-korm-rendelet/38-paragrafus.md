@@ -2,7 +2,7 @@
 
 ## Elektronikus tárhely és központi cím
 
-38. §[^5] (1) Az ügyfélkapu részét képező tartós elektronikus tárhely mérete 30 Mb. Ezt meghaladó kapacitású tartós tár külön díjazás mellett vehető igénybe.
+38. § (1) Az ügyfélkapu részét képező tartós elektronikus tárhely mérete 30 Mb. Ezt meghaladó kapacitású tartós tár külön díjazás mellett vehető igénybe.
 
 (2) A hivatali kapu szervezeti postafiókja csak értesítési tárhelyet biztosít.
 
@@ -11,5 +11,3 @@
 (4) Az igénybe venni kívánt többlet tárhely mennyiségét a felhasználó az erre a célra rendszeresített és a kormányzati portálon hozzáférhetővé tett elektronikus űrlap kitöltésével a központi rendszer üzemeltetőjénél jelentheti be.
 
 (5) Az üzemeltető a tárhely kapacitásának bővítését – szabad kapacitás esetén – a befizetés megérkezésétől számított 3 munkanapon belül végzi el. A megnövelt kapacitású tárhely hozzáférhetőségéről a működtető szervezet haladéktalanul automatikus értesítést küld a felhasználó értesítési tárhelyére.
-
-[^5]: A 38. § a 46. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.

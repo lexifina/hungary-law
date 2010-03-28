@@ -4,7 +4,7 @@ a) az elektronikus úton érkezett küldemények fogadása, időbélyeggel való
 
 b) a befogadott elektronikus küldeményekről a befogadás időpontját és a befogadott elektronikus küldemény érkeztető számát és lenyomatát igazoló befogadási igazolás kiállítása és visszaküldése az elektronikus küldemény feladójának;
 
-c)[^4] értesítő elektronikus levél, illetőleg – az ügyfél és elektronikus hírközlési szolgáltatója előzetes megállapodása esetén – rövid üzenetküldési szolgáltatás segítségével értesítés kiküldése a felhasználó ügyfélkapu-nyilvántartásban szereplő elektronikus levélcímére, illetőleg – az SMS díjának vállalása esetén – telefonszámára, ha az értesítési tárhelyre dokumentum érkezett;
+c) értesítő elektronikus levél, illetőleg – az ügyfél és elektronikus hírközlési szolgáltatója előzetes megállapodása esetén – rövid üzenetküldési szolgáltatás segítségével értesítés kiküldése a felhasználó ügyfélkapu-nyilvántartásban szereplő elektronikus levélcímére, illetőleg – az SMS díjának vállalása esetén – telefonszámára, ha az értesítési tárhelyre dokumentum érkezett;
 
 d) általános nyomtatványkitöltő alkalmazás biztosítása a kormányzati portálról történő letöltési lehetőséggel a nyomtatványok hagyományos és elektronikus kitöltéséhez, tikosításához, küldésre előkészítéséhez;
 
@@ -35,5 +35,3 @@ g) általános nyomtatványtervező biztosítása az általános nyomtatványkit
 h) proaktív, a lehetőség vagy szükséglet felmerülésére személyre szabottan figyelmet felhívó ügyfél-tájékoztatás támogatása.
 
 (4) Az elektronikus közszolgáltatást nyújtó szervezet a tájékoztató szolgáltatása keretében tájékoztatja a felhasználót a dokumentum elektronikus úton történő benyújtásának lehetőségéről, a kormányzati portál pedig oktatási anyagot biztosít az eszköz, illetve szolgáltatás használatához.
-
-[^4]: A 35. § (1) bekezdés c) pont „illetőleg – az SMS díjának vállalása esetén – telefonszámára,” szövegrésze a 46. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
