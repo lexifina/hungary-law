@@ -6,7 +6,7 @@ a) biztosítja a kezelt és nyilvántartott adatok biztonságát, az adat- és t
 
 b) működteti a Központi Okmányirodát,
 
-c)[^14] biztosítja az okmányirodák feladatainak ellátásához a külön rendeletben meghatározott technikai eszközöket, valamint részt vesz az okmányirodai dolgozók és a Kormány általános hatáskörű területi államigazgatási szerve ügyfélkapcsolattal foglalkozó munkatársainak képzésében, továbbképzésében, vizsgáztatásában,
+c)[^15] biztosítja az okmányirodák feladatainak ellátásához a külön rendeletben meghatározott technikai eszközöket, valamint részt vesz az okmányirodai dolgozók és a Kormány általános hatáskörű területi államigazgatási szerve ügyfélkapcsolattal foglalkozó munkatársainak képzésében, továbbképzésében, vizsgáztatásában,
 
 d) vezeti a feladat- és hatáskörébe tartozó országos informatikai rendszerekhez és adatbázisokhoz történő hozzáférést biztosító – azonosító és jelszó adatokat tartalmazó – jogosultsági nyilvántartásokat.
 
@@ -14,4 +14,4 @@ d) vezeti a feladat- és hatáskörébe tartozó országos informatikai rendszer
 
 (3) Az elnök felelős a hatáskörébe tartozó okmányokkal kapcsolatos okmánybiztonsági feladatok ellátásáért.
 
-[^14]: A 12. § (1) bekezdés c) pontja a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 18. pontja szerint módosított szöveg.
+[^15]: A 12. § (1) bekezdés c) pontja a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 18. pontja szerint módosított szöveg.

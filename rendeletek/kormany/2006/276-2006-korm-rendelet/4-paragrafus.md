@@ -22,7 +22,9 @@ g)[^7] szabálysértési nyilvántartás vezetésével összefüggő
 
 (3)[^8] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 2. §-ának (3) bekezdésében meghatározott hatásköröket a KEKKH jogszabályban meghatározott választási ügycsoportjai tekintetében a helyi önkormányzatokért felelős miniszter gyakorolja.
 
-(4)[^9] A KEKKH hatósági eljárásaiban a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+[(3a)[^9] A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 2. § (3) bekezdésében meghatározott hatásköröket a KEKKH elektronikus anyakönyvi nyilvántartással összefüggő ügycsoportjai tekintetében az anyakönyvi ügyekért felelős miniszter gyakorolja.]
+
+(4)[^10] A KEKKH hatósági eljárásaiban a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
 [^3]: A 4. § (2) bekezdés záró szövegrésze a 278/2008. (XI. 28.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
 [^4]: A 4. § (2) bekezdés c) pontja a 131/2009. (VI. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
@@ -30,4 +32,5 @@ g)[^7] szabálysértési nyilvántartás vezetésével összefüggő
 [^6]: A 4. § (2) bekezdésének f) pontja a 310/2007. (XI. 16.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
 [^7]: A 4. § (2) bekezdésének g) pontját a 310/2007. (XI. 16.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte, újonnan az 1/2010. (I. 8.) Korm. rendelet 2. §-a iktatta be.
 [^8]: A 4. § (3) bekezdését a 310/2007. (XI. 16.) Korm. rendelet 1. §-a iktatta be, szövege a 278/2008. (XI. 28.) Korm. rendelet 4. § (5) bekezdése szerint módosított szöveg.
-[^9]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^9]: A 4. § (3a) bekezdését a 105/2010. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be. [E módosító rendelet 3. §-a alapján 2011. január 1-jén lép hatályba.]
+[^10]: A 4. § (4) bekezdését a 212/2009. (IX. 29.) Korm. rendelet 10. § (15) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
