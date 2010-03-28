@@ -1,0 +1,9 @@
+## 11. § Ha a hitelesítés-szolgáltató a közigazgatási célra alkalmas tanúsítványhoz tartozó hitelesítési rendben vállalja a viszontazonosítás biztosítását is, úgy az aláírás külön azonosítási célú tanúsítvány vagy más segédeszköz nélkül is alkalmas az aláíró azonosítására.
+
+## 5. A hatóságok által használt aláíráshoz tartozó tanúsítvánnyal szembeni követelmények
+
+12. § (1) A döntést tartalmazó elektronikus dokumentumot a hatóság Szervezeti és Működési Szabályzatában kiadmányozásra feljogosított személy láthatja el elektronikus aláírással.
+
+(2) A hatóság az elektronikus aláírási szabályzatát a honlapján közzéteszi. E szabályzatban kell rendelkezni arról, hogy a hatóság nevében használt elektronikus aláírás tartalmazza-e a hatóság megnevezését, valamint rögzíti, hogy az aláírás-létrehozó adat előállításához szükséges regisztráció során a hatóság nevében kiadmányozásra való jogosultságot milyen eljárással (dokumentummal) kell a hitelesítés-szolgáltatónál igazolni.
+
+(3) Az elektronikus aláírással kiadmányozásra feljogosított személyek családi és utónevét, aláírási tanúsítványának nyilvános adatait, az aláírás automatizált ellenőrzéséhez szükséges címet a hatóság honlapján közzéteszi. Ugyanitt közzé kell tenni – az időpont megjelölésével –, ha egy tanúsítvány visszavonásra került vagy egyéb okból már nem alkalmas a hatóság nevében történő eljárásra. Az aláírás az erre vonatkozó közlés közzétételi időpontjától a szervezet nevében további dokumentumhitelesítésre nem alkalmas. Ha a hitelesítés-szolgáltató a tanúsítványt visszavonta, az aláírás a továbbiakban, ha felfüggesztette, a felfüggesztés időtartama alatt dokumentumhitelesítésre nem alkalmas. Az e bekezdés szerinti információkat a tanúsítvány használatra alkalmatlanná válásától számított 10 évig kell a honlapon hozzáférhetővé tenni.

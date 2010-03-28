@@ -1,0 +1,1 @@
+## 21. § A 2010. december 31. előtt kibocsátott, külön törvény alapján alkalmazott elektronikus aláírás közigazgatási felhasználása esetén a hitelesítési rendnek nem kell a 17. § (2) bekezdésében rögzített nyilvántartásban szerepelnie.

@@ -1,0 +1,3 @@
+6. § (1) A titkos információgyűjtés, illetve titkos adatszerzés eszközei és módszerei alkalmazásában, engedélyezésében részt vevő szervek, illetve személyek e feladatkörükben eljárva, egymás közötti, zárt körben történő elektronikus aláírás- létrehozó eszközön aláírás-létrehozó adat elhelyezését, elektronikus aláírás létrehozását, elfogadását, felhasználását az Eat. 1. § (2) bekezdése alapján külön megállapodásban szabályozhatják.
+
+(2) Az (1) bekezdés szerinti megállapodás alapján nyújtott szolgáltatásokra a közigazgatási szervek által felhasználható aláírásokra vonatkozó jogszabályi előírásokat nem kell alkalmazni.
