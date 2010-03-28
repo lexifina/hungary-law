@@ -1,1 +1,0 @@
-A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról rendelkező 115/1993. (VIII. 12.) Korm. rendelet 20. §-ának (6) bekezdésében kapott felhatalmazás alapján – az érdekelt miniszterekkel egyetértésben – a következőket rendelem el:
