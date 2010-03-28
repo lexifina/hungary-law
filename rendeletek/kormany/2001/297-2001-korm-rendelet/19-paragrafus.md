@@ -6,6 +6,6 @@
 
 (3) A pénzváltó köteles a könyvvitelét úgy kialakítani, hogy az alkalmas legyen a Felügyeletnek, valamint a jegybanknak, szolgáltatandó információkról szóló jogszabály vagy jegybanki rendelkezés szerinti adatok szolgáltatására és ellenőrzésére.
 
-(4)[^11] A pénzváltási tevékenységet ügynökként folytató vállalkozásnak a számvitelről szóló törvény szerinti napi készpénz záró állomány maximális mértékének, illetve havi szintű átlagának megállapítása során nem kell figyelembe vennie az e tevékenység során birtokába került, a megbízót megillető készpénzállomány elkülönített nyilvántartásban szereplő, kötelezettségként kimutatott összegét.
+(4)[^21] A pénzváltási tevékenységet közvetítő vállalkozásnak a számvitelről szóló törvény szerinti napi készpénz záró állomány maximális mértékének, illetve havi szintű átlagának megállapítása során nem kell figyelembe vennie az e tevékenység során birtokába került, a megbízót megillető készpénzállomány elkülönített nyilvántartásban szereplő, kötelezettségként kimutatott összegét.
 
-[^11]: A 19. § (4) bekezdését a 325/2009. (XII. 29.) Korm. rendelet 45. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^21]: A 19. § (4) bekezdését a 325/2009. (XII. 29.) Korm. rendelet 45. §-a iktatta be; szövege a 80/2010. (III. 25.) Korm. rendelet 6. §-ával megállapított szöveg.

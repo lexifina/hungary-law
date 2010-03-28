@@ -1,4 +1,4 @@
-3. § (1)[^1] A hitelintézet ügynökének a pénzváltási tevékenység engedélyezése iránt a Felügyelethez benyújtott kérelemhez – a (4) bekezdésben foglaltak figyelembevételével – mellékelni kell:
+3. § (1)[^3] A pénzváltási tevékenységet közvetítőnek az engedély iránti kéreleméhez – a (4) bekezdésben foglaltak figyelembevételével – mellékelni kell:
 
 a) a kérelmező alapító okiratát,
 
@@ -18,13 +18,15 @@ h) a folytatni kívánt pénzváltási tevékenységre vonatkozó, a hitelintéz
 
 i) nyilatkozatot arra vonatkozóan, hogy a pénzváltási tevékenységét mikor kívánja megkezdeni,
 
-j) nyilatkozatot arról, hogy a jogszabályban vagy MNB rendelkezésben meghatározott adatszolgáltatások teljesítésére felkészült.
+j) nyilatkozatot arról, hogy a jogszabályban meghatározott adatszolgáltatások teljesítésére felkészült.
 
-(2) A hitelintézet ügynökének a kérelem előterjesztésekor rendelkeznie kell egy hitelintézettel kötött megbízási szerződéssel. A megbízási szerződés megkötése előtt a hitelintézet köteles meggyőződni arról, hogy az ügynök megfelel az e rendelet 3. §-ában, valamint 10–14. §-aiban foglalt feltételeknek.
+(2)[^4] A közvetítőnek a kérelem előterjesztésekor rendelkeznie kell egy hitelintézettel kötött pénzváltási tevékenység közvetítésére irányuló megbízási szerződéssel. A megbízási szerződés megkötése előtt a hitelintézet köteles meggyőződni arról, hogy a közvetítő megfelel az (1) és (3) bekezdésben, valamint 10–14. §-ban foglalt feltételeknek.
 
-(3) A hitelintézet ügynökének az (1) bekezdés e)–f) pontjaiban előírt feltételt akkor kell teljesíteni, ha a pénzváltási tevékenységet kizárólagos tevékenységként kívánja gyakorolni.
+(3)[^5] A közvetítőnek az (1) bekezdés e) és f) pontjaiban előírt feltételt akkor kell teljesíteni, ha a pénzváltási tevékenységet kizárólagos tevékenységként kívánja gyakorolni.
 
-(4)[^2] Ha a kérelmező az (1) bekezdés a)–c) pontjában meghatározott okiratokat, adatokat a kérelemhez nem csatolja, a Felügyelet az adatok szolgáltatása érdekében megkeresi az okiratokról, adatokról nyilvántartást vezető hatóságot, bíróságot.
+(4)[^6] Ha a kérelmező az (1) bekezdés a)–c) pontjában meghatározott okiratokat, adatokat a kérelemhez nem csatolja, a Felügyelet az adatok szolgáltatása érdekében megkeresi az okiratokról, adatokról nyilvántartást vezető hatóságot, bíróságot.
 
-[^1]: A 3. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 685. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 685. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 3. § (1) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 3. § (3) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 685. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

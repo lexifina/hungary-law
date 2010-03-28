@@ -4,7 +4,7 @@ a) azt a Felügyelet megtévesztésével vagy más jogszabályt sértő módon s
 
 b) törvény által tiltott tevékenységet folytat,
 
-c)[^6] az engedély közlésétől számított hat hónapon belül a tevékenységét nem kezdi meg,
+c)[^10] az engedély közlésétől számított hat hónapon belül a tevékenységét nem kezdi meg,
 
 d) tizenkét hónapon keresztül nem folytat pénzváltási tevékenységet,
 
@@ -20,4 +20,4 @@ i) akadályozza vagy meghiúsítja a pénzváltási tevékenység ellenőrzésé
 
 j) tevékenységi engedélyét visszaadja.
 
-[^6]: A 7. § c) pontja a 182/2009. (IX. 10.) Korm. rendelet 259. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 7. § c) pontja a 182/2009. (IX. 10.) Korm. rendelet 259. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

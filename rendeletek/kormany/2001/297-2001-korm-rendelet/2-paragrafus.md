@@ -2,4 +2,6 @@
 
 (2) A Felügyelet az engedély kiadására vonatkozóan véleményt kér az Országos Rendőr-főkapitányságtól. Az Országos Rendőr-főkapitányság véleményében a bűnügyi, közbiztonsági szempontokat értékeli.
 
-(3) Pénzváltási tevékenység ügynökként csak a Hpt. 2. számú mellékletének 12. a) pontjának megfelelően végezhető.
+(3)[^2]
+
+[^2]: A 2. § (3) bekezdését a 80/2010. (III. 25.) Korm. rendelet 9. §-a hatályon kívül helyezte.
