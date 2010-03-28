@@ -1,0 +1,3 @@
+## 8. § A hallgatói hitelrendszerről és a Diákhitel Központról szóló 86/2006. (IV. 12.) Korm. rendelet 25. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A Diákhitel Központ a hallgatói hitelrendszer működtetését és a hallgatói hitelek folyósítását végzi. E célok elérése érdekében szükséges tevékenységeken kívül elsődleges célja és alapvető feladatai teljesítésének veszélyeztetése nélkül adatfeldolgozói és a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott ügynöki tevékenységet is folytathat az adatvédelmi jogszabályok figyelembevételével és a tulajdonosi jogok gyakorlójának jóváhagyásával.”
