@@ -1,6 +1,6 @@
 ## 31. § Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
 
-32. § Hatályát veszti a bányatérképek méretarányáról és tartalmáról szóló Bányabiztonsági Szabályzat kiadásáról szóló 69/1995. (XII. 26.) IKM rendelet. Ez a § az e rendelet hatálybalépését követő napon hatályát veszti.
+32. §[^1]
 
 Melléklet a 10/2010. (II. 26.) KHEM rendelethez
 
@@ -25,3 +25,5 @@ MSZ–09 10.0134–6:1990 Bányászati térképezés. Régi szén- és uránbán
 MSZ–09 10.0134–7:1990 Bányászati térképezés. Régi bauxitbányáknál alkalmazható térképjelek
 
 OKGT 1976-ban kiadott Gázipari térképjelkulcsa
+
+[^1]: A 32. § ugyanezen § alapján hatályát vesztette.
