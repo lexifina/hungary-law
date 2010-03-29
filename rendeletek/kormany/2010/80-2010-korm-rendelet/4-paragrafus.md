@@ -1,1 +1,0 @@
-## „(5) Az (1) bekezdésnek g) pontjának megfelelő technikai eszköz telepítését a pénzváltási tevékenységet közvetítőnek a rendszer telepítőjével vagy üzemeltetőjével kötött szerződéssel kell igazolnia.”
