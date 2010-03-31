@@ -187,3 +187,13 @@ a hagyatéki eljárásról szóló 6/1958. (VII. 4.) IM rendelet 1. §-ának (3)
 (2) Hatályukat vesztik a különféle szabályzatoknak a Ptk. valamint e törvényerejű rendelet szabályaival ellentétes rendelkezései.
 
 Ptké.97. § (1) Ha valamely jogszabály e törvényerejű rendelettel hatályon kívül helyezett jogszabályra, illetőleg valamely jogszabálynak e törvényerejű rendelettel hatályon kívül helyezett rendelkezésére utal, ehelyett a Ptk.-t vagy e törvényerejű rendeletet, illetőleg ezek megfelelő rendelkezéseit kell érteni.
+
+(2) Ha valamely jogszabály pénztartozás késedelmes fizetése esetére kötbérfizetési kötelezettséget ír elő, az ilyen rendelkezést késedelmi kamatfizetési kötelezettséget előíró rendelkezésnek kell tekinteni.
+
+(3) Ha valamely jogszabály a határidőszámítással kapcsolatban vasárnapot vagy ünnepnapot említ, ezek helyett munkaszüneti napot kell érteni.
+
+## A határidők számítása
+
+Ptké.3. § (1) A napokban megállapított határidőbe a kezdő napot nem kell beleszámítani.
+
+(2) A hetekben, hónapokban vagy években megállapított hatáidő azon a napon jár le, amely elnevezésénél vagy számánál fogva megfelel a kezdő napnak; ha ilyen nap az utolsó hónapban nincs, a határidő a hónap utolsó napján jár le.
