@@ -18,8 +18,8 @@
 
 7. idős, méretes fa: a talajfelszín felett harminc centiméter törzsátmérőt elérő, Magyarországon őshonos fafaj egyede;
 
-8.[^3] gazdálkodási napló: az Európai Mezőgazdasági Vidékfejlesztési Alap agrár-környezetgazdálkodási intézkedéseihez külön jogszabályban előírt formanyomtatvány.
+8.[^3] gazdálkodási napló: az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott agrár-környezetgazdálkodási támogatások igénybevételének részletes feltételeiről szóló 61/2009. (V. 14.) FVM rendelet 21. számú melléklete szerinti dokumentum, amelyet a földhasználó a támogatási időszakban, az adott gazdálkodási évben végzett mezőgazdasági tevékenységeiről vezet.
 
 [^1]: A 2. § 3. pontja a 17/2009. (III. 6.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^2]: A 2. § 6. pontja a 17/2009. (III. 6.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^3]: A 2. § 8. pontja a 17/2009. (III. 6.) FVM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. szeptember 1. napját követően indult ügyekben kell alkalmazni.
+[^3]: A 2. § 8. pontja a 31/2010. (III. 30.) FVM rendelet 27. §-ával megállapított szöveg.
