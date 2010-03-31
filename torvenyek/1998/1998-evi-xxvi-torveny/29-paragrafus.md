@@ -6,7 +6,7 @@
 
 (4) A fogyatékos személy speciális munkahelyen történő foglalkoztatásának 16. § szerinti feltételeit fokozatosan, de legkésőbb 2005. január 1-jéig kell megteremteni.
 
-(5) A fogyatékos személyek számára tartós bentlakást nyújtó intézményeket fokozatosan, de legkésőbb 2010. január 1-jéig át kell alakítani oly módon, hogy az önálló életvitelre személyi segítséggel képes fogyatékos személyek ellátása kisközösséget befogadó lakóotthonban történjen, továbbá az arra rászoruló súlyos fogyatékos személyek számára humanizált, modernizált intézményi ellátást kell biztosítani.
+(5)
 
 (6)
 
