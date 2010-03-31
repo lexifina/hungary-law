@@ -8,11 +8,11 @@ b) a harmadik országbeli állampolgároknak az Európai Közösség területén
 
 való megfelelést szolgálja.
 
-(3)[^1]
+(3)[^2]
 
-(4)[^2]
+(4)[^3]
 
 (5) E rendelet 2. § (1) bekezdésének 20. pontja 2010. március 31-én hatályát veszti. Ez a bekezdés 2010. április 1-jén hatályát veszti.
 
-[^1]: Az 5. § (3) bekezdését a (4) bekezdés hatályon kívül helyezte.
-[^2]: Az 5. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^2]: Az 5. § (3) bekezdését a (4) bekezdés hatályon kívül helyezte.
+[^3]: Az 5. § (4) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

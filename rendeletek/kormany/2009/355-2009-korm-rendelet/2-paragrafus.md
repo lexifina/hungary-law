@@ -38,7 +38,7 @@
 
 19. magyar állampolgár olyan özvegyének munkavégzéséhez, aki az elhunyt házastárssal annak halála előtt legalább egy évig Magyar Köztársaság területén együtt élt;
 
-20. a külön jogszabály alapján alkalmi munkavállalói könyvvel rendelkező harmadik országbeli állampolgár mezőgazdasági idénymunka keretében, naptári évenként 60 napot meg nem haladó munkavégzéséhez;
+20.[^1]
 
 21. a kutató olyan magyarországi kutatási tevékenységéhez, amelyet külön jogszabály rendelkezései szerint, akkreditált kutató szervezettel kötött fogadási megállapodás alapján végez;
 
@@ -55,3 +55,5 @@
 (3) Az (1) bekezdés 3. és 5. pontjában meghatározott viszonosság fennállásának tekintetében a külügyminiszter nyilatkozata az irányadó.
 
 (4) A mentesség alapjául szolgáló feltételek fennállását a foglalkoztatónak kell bizonyítani.
+
+[^1]: A 2. § (1) bekezdés 20. pontját az 5. § (5) bekezdése hatályon kívül helyezte.
