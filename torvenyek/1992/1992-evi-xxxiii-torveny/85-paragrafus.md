@@ -230,26 +230,4 @@ b) a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások,
 
 c) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat.
 
-(9) Eltérő rendelkezés hiányában, ahol jogszabály
-
-a) munkaviszonyra vonatkozó szabályt említ, azon közalkalmazotti jogviszonyra vonatkozó szabályt;
-
-b) munkaviszonyt említ, azon közalkalmazotti jogviszonyt;
-
-c) munkavállalót említ, azon közalkalmazottat;
-
-d) munkaszerződést említ, azon kinevezést;
-
-e) rendes felmondást említ, azon felmentést;
-
-f) munkavégzés alóli felmentést említ, azon munkavégzés alóli mentesítést;
-
-g) üzemi tanácsot, illetve üzemi megbízottat említ, azon közalkalmazotti tanácsot, illetve közalkalmazotti képviselőt;
-
-h) munkabért említ, azon illetményt, illetménypótlékot, illetménykiegészítést, egyhavi különjuttatást, keresetkiegészítést és jutalmat;
-
-i) személyi alapbért említ, azon illetményt;
-
-j) bérpótlékot említ, azon illetménypótlékot
-
-is érteni kell.
+(9) Felhatalmazást kap az államháztartásért felelős miniszter, hogy az ágazati irányítása, illetve felügyelete alá tartozó szervek tekintetében rendeletben határozza meg a külföldi kiküldetést teljesítő közalkalmazottak pénzbeni járandóságaira és a kiküldetésre vonatkozó részletes szabályokat.
