@@ -4,7 +4,7 @@
 
 (2) Az MVH a kifizetési kérelem adatait a MePAR rendelet szerinti adatbázis adataival összeveti, és túligénylés esetén az érintett földhasználókat a túligénylés tisztázására szólítja fel.
 
-(3) Adott területre vonatkozóan ugyanazon ügyfél jogosult a 36/2009. (IV. 3.) FVM rendelet szerinti egységes kérelem keretén belül igényelhető területalapú, így az agrár-környezetgazdálkodási, a kedvezőtlen adottságú területek, valamint a Natura 2000 támogatások igénybevételére. Az MVH a kifizetési kérelem adatait a fenti területalapú támogatások adatbázisával összeveti, és amennyiben ugyanazon terület vonatkozásában a kérelmezők személye nem azonos, úgy a támogatásra jogosultat egyszeri alkalommal a jogszerű földhasználat tisztázására szólítja fel.
+(3)[^52] Adott területre vonatkozóan ugyanazon kérelmező jogosult az egységes kérelemről szóló rendelet szerinti egységes kérelem keretén belül igényelhető területalapú, így az agrár-környezetgazdálkodási, a kedvezőtlen adottságú területek, valamint a Natura 2000 támogatások igénybevételére. Az MVH a kifizetési kérelem adatait a fenti területalapú támogatások adatbázisával összeveti, és ha ugyanazon terület vonatkozásában a kérelmezők személye nem azonos, úgy a támogatásra jogosultat egyszeri alkalommal a jogszerű földhasználat tisztázására szólítja fel.
 
 (4) A 3. § (1) bekezdés b) pont bd) alpontjának 1. pontja szerinti környezetvédelmi célú gyeptelepítés támogatás kifizetésének feltétele, hogy a támogatásra jogosult az adott földterületre:
 
@@ -19,3 +19,5 @@ b) a 46/2009. (IV. 16.) FVM rendelet szerinti agrár-erdészeti intézkedés von
 (7) Amennyiben a támogatásra jogosult az adott gazdálkodási évben nem nyújt be kifizetési kérelmet, úgy arra a gazdálkodási évre vonatkozóan nem részesül kifizetésben, a vállalt kötelezettségei azonban adott gazdálkodási évben is fennállnak.
 
 (8) A (7) bekezdésben foglalt esetben az MVH helyszíni ellenőrzés keretében vizsgálhatja a kötelezettségek betartását.
+
+[^52]: A 44. § (3) bekezdése a 31/2010. (III. 30.) FVM rendelet 17. §-ával megállapított szöveg.

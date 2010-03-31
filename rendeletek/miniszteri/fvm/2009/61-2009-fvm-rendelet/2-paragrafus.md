@@ -84,7 +84,7 @@
 
 40. MePAR: a Tv. 31. §-ának (1) bekezdésében meghatározott és a MePAR rendeletben szabályozott rendszer;
 
-41. mezőgazdasági hasznosítású terület: adott gazdálkodási évben az Európai Mezőgazdasági Garancia Alapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló 36/2009. (IV. 3.) FVM rendelet [a továbbiakban: 36/2009. (IV. 3.) FVM rendelet] szerinti egységes kérelemben bejelentett szántó, gyep, ültetvény és konyhakert összes területe, amely a MePAR-ban lehatárolt támogatható területre esik;
+41.[^1] mezőgazdasági hasznosítású terület: adott gazdálkodási évben az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló rendelet (a továbbiakban: egységes kérelemről szóló rendelet) szerinti egységes kérelemben bejelentett szántó, gyep, ültetvény és konyhakert összes területe, amely a MePAR-ban lehatárolt támogatható területre esik;
 
 42. mezőgazdasági parcella: egy vagy több szomszédos táblából álló összefüggő földterület, amelyen egy növénycsoportot termeszt egy földhasználó (15. számú melléklet szerinti ábra);
 
@@ -114,11 +114,11 @@
 
 55. szarvasmarhafélék: szarvasmarha, bivaly, bölény;
 
-56.[^1] szálas pillangós takarmánynövények: lucerna, bükköny-félék, vöröshere, bíborhere, fehér here, korcshere, perzsa here, alexandriai here, somkóró, takarmány baltacím, szarvaskerep, nyúlszapuka, szeradella, borsó, tarka koronafürt, görögszéna, fehérvirágú somkóró vagy ezen növények keveréke, füves keveréke;
+56.[^2] szálas pillangós takarmánynövények: lucerna, bükköny-félék, vöröshere, bíborhere, fehér here, korcshere, perzsa here, alexandriai here, somkóró, takarmány baltacím, szarvaskerep, nyúlszapuka, szeradella, borsó, tarka koronafürt, görögszéna, fehérvirágú somkóró vagy ezen növények keveréke, füves keveréke;
 
 57. széleróziós mintaterület: a 7. számú mellékletben foglaltak szerint a Homokhátság és a Nyírség MePAR-ban meghatározott, fizikai blokk szinten lehatárolt mintaterületei;
 
-58.[^2] szemeskukorica: hibrid kukorica, kukorica, pattogatni való kukorica;
+58.[^3] szemeskukorica: hibrid kukorica, kukorica, pattogatni való kukorica;
 
 59. szórványgyümölcsös: olyan szórt vagy szabályos elrendezésű homogén vagy vegyes gyümölcsfajokból álló ültetvény, amelyben hektáronként 30–150 darab, dió esetén 30–80 darab egyedülálló gyümölcsfa vagy cserjésedő, illetve sarjakat nevelő gyümölcstermő haszonnövény található;
 
@@ -154,7 +154,11 @@
 
 75. zöldtrágya-növény: olyan vetett növényfaj, amely növénytakaróként beborítja a talajt és a fejlődése vegetatív szakaszában, de legkésőbb virágzáskor teljes tömegében a talajba bedolgozásra kerül a talajtermékenység javításának céljából. Az árvakelés nem minősül zöldtrágya-növénynek;
 
-76. zsombékos: időszakosan vízzel borított területen kialakuló, csomókban fejlődő növényekből álló, magasfüvű, oszlopos gyepes társulások összessége, amelyekre jellemző, hogy a növényzet növekedése révén szembetűnő felszíni egyenlőtlenségek jönnek létre. A növényzet alatt rendszeres a tőzegképződés.
+76. zsombékos: időszakosan vízzel borított területen kialakuló, csomókban fejlődő növényekből álló, magasfüvű, oszlopos gyepes társulások összessége, amelyekre jellemző, hogy a növényzet növekedése révén szembetűnő felszíni egyenlőtlenségek jönnek létre. A növényzet alatt rendszeres a tőzegképződés;
 
-[^1]: A 2. § 56. pontja a 77/2009. (VI. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^2]: A 2. § 58. pontja a 77/2009. (VI. 30.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+77.[^4] kalászos gabona: árpa, búza, durumbúza, tavaszi búza, kétszeres és egyéb búza, rozs, tritikálé, zab.
+
+[^1]: A 2. § 41. pontja a 31/2010. (III. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 56. pontja a 77/2009. (VI. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 2. § 58. pontja a 77/2009. (VI. 30.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: A 2. § 77. pontját a 31/2010. (III. 30.) FVM rendelet 1. § (2) bekezdése iktatta be.

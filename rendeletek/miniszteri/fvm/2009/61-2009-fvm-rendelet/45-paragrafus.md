@@ -1,6 +1,10 @@
 ## Ellenőrzés
 
-45. § (1) A jogosultsági feltételek és az agrár-környezetgazdálkodási kötelezettségvállalások, valamint a 11. § (4) bekezdésében foglalt követelmények teljesítését az MVH évente ellenőrzi, amelybe külön megállapodás alapján az illetékes állami szerveket bevonja.
+45. § (1)[^53] Az évente történő ellenőrzéseket
+
+a) a jogosultsági feltételek és az agrár-környezetgazdálkodási kötelezettségvállalások teljesítésének vonatkozásában az MVH végzi, amelybe külön megállapodás alapján állami szerveket bevon;
+
+b) a 11. § (4) bekezdésben foglalt követelmények teljesítésének vonatkozásában az arra hatáskörrel rendelkező hatóság végzi.
 
 (2) Az (1) bekezdés szerinti ellenőrzés a támogatási, illetve a kifizetési kérelemre vonatkozóan a külön jogszabályokban meghatározottak szerint:
 
@@ -25,3 +29,5 @@ c) helyszíni ellenőrzést
 (8) Minden gazdálkodási évben kétszer a 13. § (2) bekezdés d) pontja szerinti talajlaboratóriumok az MVH részére a rendelkezésükre álló adatok alapján adatot szolgáltatnak a kötelezően előírt talajvizsgálatok elvégeztetéséről.
 
 (9) Minden gazdálkodási évben kétszer a 14. § (3) bekezdés szerinti laboratóriumok az MVH részére a rendelkezésükre álló adatok alapján adatot szolgáltatnak a kötelezően előírt levélanalízis elvégeztetéséről.
+
+[^53]: A 45. § (1) bekezdése a 31/2010. (III. 30.) FVM rendelet 18. §-ával megállapított szöveg.

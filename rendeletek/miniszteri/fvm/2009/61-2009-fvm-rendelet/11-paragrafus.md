@@ -16,6 +16,8 @@ c) a 16. számú melléklet szerint a tápanyag-gazdálkodásra, valamint
 
 d) a 17. számú melléklet szerint a növényvédőszer- használatra vonatkozó minimumkövetelményeket.
 
-(5) Amennyiben a 3. § (1) bekezdés b) pont bc) alpontja, bd) alpontjának 2. pontja, valamint d) pont db)–dc) alpontjai szerinti célprogramok keretében támogatott területen felszíni vízállás található, úgy ennek tekintetében nem kell alkalmazni a (4) bekezdés b) pontja szerinti előírásokat, ha ezzel kapcsolatban vis maior kérelmet nyújtott be a támogatásra jogosult székhelye vagy lakhelye szerinti illetékes MVH megyei kirendeltséghez.
+(5)[^10] Ha a 3. § (1) bekezdés b) pont bc) alpontja, a 3. § (1) bekezdés b) pont bd) alpont 2. pontja, valamint a 3. § (1) bekezdés d) pont db) és dc) alpontja szerinti célprogramok keretében támogatott területen felszíni vízállás található, és a támogatásra jogosult ezzel kapcsolatban vis maior kérelmet nyújtott be az MVH-hoz, akkor ezen támogatott terület tekintetében nem kell alkalmazni a (4) bekezdés b) pontja szerinti előírásokat.
 
 (6) A célprogramok teljesítéséhez köthető legfontosabb adminisztrációs tevékenységek összefoglaló táblázatát a 22. számú melléklet tartalmazza.
+
+[^10]: A 11. § (5) bekezdése a 31/2010. (III. 30.) FVM rendelet 5. §-ával megállapított szöveg.

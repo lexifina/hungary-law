@@ -14,6 +14,8 @@ b) ültetvény célprogramok esetében legfeljebb 3 egymást követő gazdálkod
 
 (6) A miniszter tájékoztatja az MVH-t
 
-a) az átállási idő lerövidítése iránti kérelem jóváhagyásától számított 8 napon belül az engedély kedvezményezettjének azonosítására és a földterület azonosítására szolgáló adatokról, valamint az engedélyben foglalt földterület ökológiai státusza megváltozásának kezdő időpontjáról;
+a)[^23] az átállási idő lerövidítése iránti kérelem jóváhagyásától számított 5 munkanapon belül az engedély kedvezményezettjének azonosítására és a földterület azonosítására szolgáló adatokról, valamint az engedélyben foglalt földterület ökológiai státusza megváltozásának kezdő időpontjáról,
 
 b) a támogatásra jogosult ökológiai ellenőrzési rendszerből történő kizárásáról.
+
+[^23]: A 30. § (6) bekezdés a) pontja a 31/2010. (III. 30.) FVM rendelet 12. §-ával megállapított szöveg.

@@ -52,6 +52,6 @@ c) a 13. számú melléklet szerinti ritka szántóföldi zöldségnövények es
 
 d) a 12. számú melléklet szerinti egyéb ritka szántóföldi növény esetén a célprogramba bevitt terület után 261 euró/ha-nak megfelelő forintösszeg.
 
-(6)[^22] A támogatási kérelemhez mellékelni kell a tulajdoni lap harminc napnál nem régebbi hiteles másolatát arról, hogy a célprogramba bevinni kívánt területhez tartozó lakott terület az ingatlan-nyilvántartásban a 2. § 60. pontjában meghatározottak szerint van bejegyezve, és a tulajdoni lapon szereplő ingatlan részben vagy egészben a kérelmező tulajdonában vagy haszonélvezetében van.
+(6)[^60] A támogatási kérelemhez mellékelni kell a tulajdoni lap harminc napnál nem régebbi hiteles másolatát arról, hogy a célprogramba bevinni kívánt területhez tartozó lakott terület az ingatlan-nyilvántartásban a 2. § 60. pontjában meghatározottak szerint van bejegyezve, és a tulajdoni lapon szereplő ingatlan részben vagy egészben a kérelmező tulajdonában vagy haszonélvezetében van.
 
-[^22]: Az 59. § (6) bekezdése a 77/2009. (VI. 30.) FVM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^60]: Az 59. § (6) bekezdése a 77/2009. (VI. 30.) FVM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

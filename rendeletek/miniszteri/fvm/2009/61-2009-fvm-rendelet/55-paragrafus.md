@@ -10,6 +10,6 @@
 
 (6) Amennyiben a 16. § (4) bekezdésében foglalt zöldugarra vonatkozó előírásoknak való meg nem felelés kerül megállapításra, úgy a vetésszerkezet tekintetében a zöldugarra vonatkozó pont nem teljesítettnek minősül.
 
-(7)[^21] Nem kerül alkalmazásra jogkövetkezmény, amennyiben a támogatásra jogosult teljesíti a 69. § (4) bekezdés b) pontjának bl) alpontjában foglaltakat, de ezzel a terület méretéből adódóan túllépi a 69. § (4) bekezdés b) pontjának bd) alpontjában foglalt előírás szerinti maximális kaszálatlanul hagyandó területnagyságot.
+(7)[^56] Nem kerül alkalmazásra jogkövetkezmény, amennyiben a támogatásra jogosult teljesíti a 69. § (4) bekezdés b) pontjának bl) alpontjában foglaltakat, de ezzel a terület méretéből adódóan túllépi a 69. § (4) bekezdés b) pontjának bd) alpontjában foglalt előírás szerinti maximális kaszálatlanul hagyandó területnagyságot.
 
-[^21]: Az 55. § (7) bekezdését a 77/2009. (VI. 30.) FVM rendelet 11. §-a iktatta be. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^56]: Az 55. § (7) bekezdését a 77/2009. (VI. 30.) FVM rendelet 11. §-a iktatta be. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

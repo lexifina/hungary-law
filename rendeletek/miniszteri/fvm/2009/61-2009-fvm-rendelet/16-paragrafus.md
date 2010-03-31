@@ -30,14 +30,15 @@ f) a pihentetett terület nem vehető figyelembe zöldugarként.
 
 (5) A 29. § (3) bekezdése szerinti ritka növényfajták termesztése esetén egy adott kötelezettségvállalással érintett egybefüggő területen belül a ritka növényfajtát tartalmazó tábla mellett nem lehet ugyanolyan fajú, nem ritka növényfajtával borított táblát elhelyezni.
 
-(6)[^8] Az 58. § (4) bekezdés d) és g) pontjai, 59. § (4) bekezdés e) és h) pontjai, 60. § (4) bekezdés e) és h) pontjai, valamint 65. § (4) bekezdés d) és g) pontjai szerinti előírásokat nem kell alkalmazni az adott táblára vonatkozóan, amennyiben a táblán a teljes támogatási időszak alatt évelő szálas pillangós takarmánynövény termesztése történik.
+(6)[^15] Az 58. § (4) bekezdés d) és g) pontja, az 59. § (4) bekezdés e) és h) pontja, a 60. § (4) bekezdés e) és h) pontja, a 65. § (4) bekezdés d) és g) pontja, valamint a 66. § (4) bekezdés d) és g) pontja szerinti előírásokat nem kell alkalmazni azon táblára vonatkozóan, amelyen a teljes támogatási időszak alatt évelő szálas pillangós takarmánynövény termesztése történik.
 
-(7) A 3. § (1) bekezdés a) pontjai szerinti célprogramok esetében a támogatásra jogosultnak az MVH által közleményben közzétett módon be kell jelentenie:
+(7)[^16] A 3. § (1) bekezdés a) pontja szerinti célprogramok esetében a támogatásra jogosultnak az MVH által közleményben közzétett módon be kell jelentenie:
 
-a) zöldtrágyázás megvalósítása esetén a vetés beforgatását megelőző 10 munkanapon belül a zöldtrágyázásra kerülő növényfajt, a munkálat végzésének helyét és időpontját;
+a) zöldtrágyázás megvalósítása esetén a növényállomány beforgatását megelőző 15 napon belül a zöldtrágyázásra kerülő növényfajt, a munkálat végzésének helyét és időpontját;
 
-b) másodvetés megvalósítása esetén a munkálatok elvégzését követő 10 munkanapon belül az elvetett növényfajt, a munkálat végzésének helyét és időpontját;
+b) másodvetés megvalósítása esetén a munkálatok elvégzését követő 15 napon belül az elvetett növényfajt, a munkálat végzésének helyét és időpontját;
 
-c) középmély lazítás megvalósítása esetén a munkálat végzését követő 10 munkanapon belül a megvalósítás helyét és időpontját.
+c) középmély lazítás megvalósítása esetén a munkálat elvégzését követő 15 napon belül a megvalósítás helyét és időpontját.
 
-[^8]: A 16. § (6) bekezdése a 77/2009. (VI. 30.) FVM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^15]: A 16. § (6) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.
+[^16]: A 16. § (7) bekezdése a 31/2010. (III. 30.) FVM rendelet 8. §-ával megállapított szöveg.

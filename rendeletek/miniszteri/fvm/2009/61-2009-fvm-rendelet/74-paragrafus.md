@@ -6,7 +6,7 @@
 
 a) a legkisebb támogatható terület 0,5 ha;
 
-b)[^26] az ökológiai szőlő- és gyümölcstermesztési támogatásra jogosult minden gyümölcsfaj homogén vagy vegyes állományban és szőlő, a 9. számú mellékletben meghatározottak szerint, kivéve faiskola, csemetekert;
+b)[^64] az ökológiai szőlő- és gyümölcstermesztési támogatásra jogosult minden gyümölcsfaj homogén vagy vegyes állományban és szőlő, a 9. számú mellékletben meghatározottak szerint, kivéve faiskola, csemetekert;
 
 c) a támogatás nem termő és termőre fordult ültetvényre igényelhető;
 
@@ -72,4 +72,4 @@ b) amennyiben a támogatási kérelem benyújtásának naptári évet megelőző
 
 c) amennyiben a támogatási kérelem benyújtásának naptári évét megelőző második évben kezdte meg az átállást, úgy egy alkalommal jogosult átállási támogatásra.
 
-[^26]: A 74. § (2) bekezdés b) pontja a 77/2009. (VI. 30.) FVM rendelet 16. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^64]: A 74. § (2) bekezdés b) pontja a 77/2009. (VI. 30.) FVM rendelet 16. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

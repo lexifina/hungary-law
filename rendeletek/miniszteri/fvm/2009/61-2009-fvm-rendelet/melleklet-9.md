@@ -18,6 +18,6 @@
 
 ## A MePAR fizikai blokklistát az IH a Tv. 14. § (1) bekezdés c) pontjának cg) alpontja alapján közleményben adja ki.
 
-9. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^31]
+9. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^71]
 
-[^31]: A 9. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^71]: A 9. számú melléklet a 31/2010. (III. 30.) FVM rendelet 23. § (1) bekezdésével megállapított szöveg.

@@ -20,8 +20,14 @@ b) a jogosult terület vonatkozásában a Magyar Nemzeti Vagyonkezelő Zrt. vagy
 
 c) a jogosult területen a Vásárhelyi-terv továbbfejlesztése (a továbbiakban: VTT) program keretében árvízi tározó működtetésére került sor;
 
-d) a támogatásra jogosultat az illetékes természetvédelmi hatóság kötelezi a célprogramban rögzített földhasználati előírások szerinti gazdálkodási tervékenység megváltoztatására.
+d)[^57] a támogatásra jogosultat a természetvédelmi hatóság kötelezi a célprogramban rögzített földhasználati előírások szerinti gazdálkodási tevékenység megváltoztatására;
+
+e)[^58] a jogosult terület vonatkozásában az MNV Zrt. és a támogatásra jogosult között az 5. § (6) bekezdésében foglalt határidőben benyújtott, a bérleti szerződés meghosszabbítására vonatkozó eljárás eredményeképpen nem jön létre a földhasználatra vonatkozó jogviszony.
 
 (6) Az (5) bekezdés a) és b) pontjai szerinti események esetében a (2) bekezdés b) pontjában, míg az (5) bekezdés c), illetve d) pontjai szerinti események esetében a (2) bekezdés a) pontjában foglaltakat kell alkalmazni.
 
-(7) A (2) és az (5) bekezdésben foglalt esetekben a támogatásra jogosultnak az ügyben eljáró más szerv által kiadott irat másolatát a kézhezvételt követő 10 munkanapon belül meg kell küldenie az MVH-nak.
+(7)[^59] A (2) és az (5) bekezdésben foglalt esetekben a támogatásra jogosultnak az ügyben eljáró más szerv által kiadott irat másolatát a közlést követő 15 napon belül meg kell küldenie az MVH-nak.
+
+[^57]: Az 57. § (5) bekezdés d) pontja a 31/2010. (III. 30.) FVM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^58]: Az 57. § (5) bekezdés e) pontját a 31/2010. (III. 30.) FVM rendelet 20. § (2) bekezdése iktatta be.
+[^59]: Az 57. § (7) bekezdése a 31/2010. (III. 30.) FVM rendelet 20. § (3) bekezdésével megállapított szöveg.

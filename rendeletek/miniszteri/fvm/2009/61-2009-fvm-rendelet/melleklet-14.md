@@ -178,7 +178,7 @@
 
 | Nagykállói | FAO WIEWS, ECP/GR | <1 ha | géntartalék |
 
-14. számú melléklet a 61/2009. (V. 14.) FVM rendelethez
+14. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^73]
 
 ## A földterület beazonosításának útmutatója
 
@@ -232,7 +232,7 @@ e) a lemért földterületet legalább egy pontban jól láthatóan meg kell jel
 
 A mérésről jegyzőkönyvet kell készíteni az alábbi tartalmi követelmények szerint:
 
-a) előzetesen támogatásra jogosult földhasználó neve és regisztrációs száma;
+a) a területazonosítási kérelmet benyújtó földhasználó neve és regisztrációs száma;
 
 b) AKG célprogram megnevezése;
 
@@ -247,3 +247,5 @@ f) terület X(EOV), Y(EOV) koordinátáinak megadása;
 g) pontszámos területszámítási jegyzőkönyv;
 
 h) pontszámos területszámítási vázrajz (shape formátumban).
+
+[^73]: A 14. számú melléklet a 31/2010. (III. 30.) FVM rendelet 23. § (2) bekezdése szerint módosított szöveg.

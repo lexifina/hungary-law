@@ -4,7 +4,7 @@
 
 (2) A 3. § (1) bekezdés a) pont ad)–ae) alpontjai, b) pont bc)–bd) alpontjai, továbbá d) pont db)–dc) alpontjai alapján kizárólag a fizikai blokk szinten, illetve a fizikai blokkon belüli szinten a MePAR-ban lehatárolt területek után igényelhető támogatás.
 
-(3) A (2) bekezdésekben szereplő területek fizikai blokkazonosító szinten meghatározott listáját az IH a Tv. 14. § (1) bekezdés c) pontjának cg) alpontja alapján e rendelet hatálybalépését követő 15 napon belül teszi közzé.
+(3)[^7] A (2) bekezdésben meghatározott területek fizikai blokkazonosító szinten meghatározott listáját az IH a Tv. 14. § (1) bekezdés c) pont cg) alpontja alapján évente április 15-ig közleményben teszi közzé.
 
 (4) A területazonosítási kérelemnek helyt adó vagy részben helyt adó határozatban jóváhagyott területek a MePAR változása következtében nem veszítik el támogatási jogosultságukat.
 
@@ -15,3 +15,5 @@
 (7) Amennyiben a 3. § (1) bekezdés a) pont ab) alpontja szerinti tanyás gazdálkodás célprogram esetében a célprogramba bevinni kívánt földterület nagyobb, mint 50 hektár, akkor az 50 hektárt meghaladó területrész nem támogatható.
 
 (8) A 3. § (1) bekezdés a)–c) pontjai szerinti célprogramok esetében a támogatható terület a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendelet (a továbbiakban: 73/2009/EK rendelet) 124. cikk (2) bekezdésében meghatározott terület.
+
+[^7]: A 7. § (3) bekezdése a 31/2010. (III. 30.) FVM rendelet 3. §-ával megállapított szöveg.

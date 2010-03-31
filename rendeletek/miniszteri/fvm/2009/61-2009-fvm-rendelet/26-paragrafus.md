@@ -1,8 +1,8 @@
 ## A kötelezettségvállalás területére vonatkozó visszavonás szabályai
 
-26. § (1) A támogatási időszak alatt a támogatásra jogosult a székhelye vagy lakhelye szerint a területileg illetékes MVH megyei kirendeltségére benyújtott, az MVH által rendszeresített formanyomtatványon kérelmezheti
+26. § (1)[^22] A támogatási időszak alatt a támogatásra jogosult az MVH központi szerve által rendszeresített és az MVH honlapján közzétett formanyomtatványon kérelmezheti
 
-a) a teljes kérelem visszavonását;
+a) a teljes kérelem visszavonását,
 
 b) a teljes célprogram visszavonását, valamint
 
@@ -29,3 +29,5 @@ d) a 2013/2014., azaz az ötödik gazdálkodási év vonatkozásában: 2013. dec
 (7) Ha a kötelezettségvállalással érintett egybefüggő terület visszavonása után maradó terület nem éri el a jogosultsági feltételként szereplő minimális területnagyságot, a fennmaradó terület a célprogramból kizárásra kerül.
 
 (8) Az (1) bekezdésben meghatározott kérelem alapján az MVH a területazonosítási kérelemre hozott határozatot módosítja.
+
+[^22]: A 26. § (1) bekezdése a 31/2010. (III. 30.) FVM rendelet 11. §-ával megállapított szöveg.
