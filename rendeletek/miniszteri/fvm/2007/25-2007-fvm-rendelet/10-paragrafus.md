@@ -16,10 +16,12 @@ d) 1 gazdálkodási évben nem teljesítette, úgy a kifizetett támogatás öss
 
 (3) Amennyiben az ügyfél nem tesz eleget a 6. § a) pontjában meghatározott kötelezettségnek, úgy az 1975/2006/EK bizottsági rendelet 23–24. cikkének rendelkezéseit kell alkalmazni.
 
-(4) Ha az ügyfél nem tesz eleget a 6. § c) pontjában meghatározott kötelezettségnek, akkor
+(4)[^8] Ha az ügyfél nem tesz eleget a 6. § c) pontjában meghatározott kötelezettségnek, akkor
 
-a) az 1. alkalommal figyelmeztetést kap;
+a) az első alkalommal figyelmeztetést kap;
 
-b) a 2. alkalommal a kifizetett támogatás 10%-át köteles visszafizetni;
+b) a második alkalommal az adott évben kifizetett támogatás 10%-kal csökkentésre kerül;
 
-c) a 3. és az azt követő minden alkalommal a kifizetett támogatás 20%-át köteles visszafizetni.
+c) a harmadik és az azt követő minden alkalommal az adott évben kifizetett támogatás 20%-kal csökkentésre kerül.
+
+[^8]: A 10. § (4) bekezdése a 31/2010. (III. 30.) FVM rendelet 25. §-ával megállapított szöveg.
