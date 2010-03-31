@@ -2,7 +2,7 @@
 
 20. § (1) A 13/A. § (3) bekezdésében, a 14–16/A. §-ban, a 17–18/A. §-ban, a 19/A. §-ban, valamint a 22. §-ban meghatározott támogatás a Munkaerőpiaci Alap foglalkoztatási alaprészéből, a 19/B–19/C. §-ban meghatározott támogatások a Munkaerőpiaci Alap foglalkoztatási és rehabilitációs alaprészéből nyújthatók.
 
-(2) A 16/B. §-ban meghatározott támogatás a Munkaerőpiaci Alapba a 39. § (13) bekezdése szerint átcsoportosított pénzeszközből nyújtható.
+(2) A 16/B. §-ban meghatározott támogatás a Munkaerőpiaci Alapba a 39. § (13) bekezdése szerint átcsoportosított pénzeszközből nyújtható. E támogatással kapcsolatos, a 2010. költségvetési éven túl áthúzódó kötelezettségvállalás fedezetét a Munkaerőpiaci Alap foglalkoztatási alaprész központi kerete finanszírozza.
 
 (3) A 13/A. § (1)–(2) bekezdésében meghatározott szolgáltatások, a 14. §-ban, a 16–18. §-okban, valamint a 19/B–19/C. §-okban meghatározott támogatások a Társadalmi Megújulás Operatív Program keretében az állami foglalkoztatási szerv közreműködésével megvalósításra kerülő munkaerő-piaci programokban is nyújthatók.
 

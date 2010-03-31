@@ -2,9 +2,9 @@
 
 (2) A Munkaerőpiaci Alap Pénzeszközeinek hatékony felhasználása, valamint az azokból történő téves kifizetések elkerülése érdekében, ha a tényállás tisztázott,
 
-a) a munkanélküli ellátás iránti kérelemnek helyt adó,
+a) az álláskeresési járadék és álláskeresési segély iránti kérelemnek helyt adó,
 
-b) a munkanélküli ellátás folyósítását szüneteltető, valamint megszüntető, továbbá
+b) az álláskeresési járadék és álláskeresési segély folyósítását szüneteltető, valamint megszüntető, továbbá
 
 c) a foglalkoztatást elősegítő támogatás folyósítását megszüntető
 

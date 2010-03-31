@@ -4,7 +4,7 @@
 
 a) aki álláskereső,
 
-b) aki 25. életévét – felsőfokú végzettségű személy esetén a 30. életévét – nem töltötte be, és a tanulói, hallgatói jogviszonya megszűnését követően munkanélküli járadékra nem szerzett jogosultságot,
+b) aki 25. életévét – felsőfokú végzettségű személy esetén a 30. életévét – nem töltötte be, és a tanulói, hallgatói jogviszonya megszűnését követően álláskeresési járadékra és álláskeresési segélyre nem szerzett jogosultságot,
 
 c) aki gyermekgondozási segélyben, gyermeknevelési támogatásban, illetőleg terhességi gyermekágyi segélyben, gyermekgondozási díjban vagy ápolási díjban részesül,
 
