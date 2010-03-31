@@ -52,7 +52,7 @@ sc) az egyéni vállalkozó,
 
 sd) az sa)–sb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
 
-se) az a jogi személyiséggel rendelkező gazdálkodó szervezet, illetve jogi személyiség nélküli gazdasági társaság, amelynek székhelye, központi ügyvezetése vagy üzleti tevékenységének fő helye az Európai Gazdasági Térségről szóló megállapodásban részes, illetve nemzetközi szerződés alapján azonos jogállást élvező más államban van [az sc)–se) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
+se) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az sc)–se) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
 
 ha az e törvényben és más jogszabályban meghatározott feltételek szerint, működési engedély alapján gondoskodik a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység biztosításához szükséges feltételekről. Ha jogszabály másképp nem rendelkezik, az egyházi fenntartóra a nem állami fenntartóra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 

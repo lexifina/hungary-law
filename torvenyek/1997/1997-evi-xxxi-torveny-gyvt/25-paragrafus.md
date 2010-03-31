@@ -6,7 +6,7 @@
 
 a) legalább hároméves időtartamú folyamatos – gondozási helyén töltött – nevelésbe vétele a nagykorúvá válásával szűnt meg, és
 
-b) készpénzének, biztosításra vagy más célból lekötött betétjének, vagy ingatlan vagyonának értéke nem haladja meg az öregségi nyugdíj legkisebb összegének hatvanszorosát, azzal, hogy az öregségi nyugdíj legkisebb összegeként az otthonteremtési támogatás megállapítása időpontjában érvényes öregségi nyugdíj legkisebb összegét kell figyelembe venni.
+b) készpénzének, biztosításra vagy más célból lekötött betétjének, vagy ingatlan vagyonának értéke a nagykorúvá válásakor nem haladja meg az öregségi nyugdíj legkisebb összegének hatvanszorosát, azzal, hogy az öregségi nyugdíj legkisebb összegeként az otthonteremtési támogatás megállapítása időpontjában érvényes öregségi nyugdíj legkisebb összegét kell figyelembe venni.
 
 (3) A készpénz vagyonba a fiatal felnőtt árvaellátásából és keresményéből származó megtakarítást nem lehet beszámítani. A nevelésbe vétel időtartamába az ideiglenes hatályú elhelyezés időtartamát is be kell számítani, feltéve, ha a gyermeket ideiglenesen nevelőszülőnél vagy gyermekotthonban helyezték el.
 
