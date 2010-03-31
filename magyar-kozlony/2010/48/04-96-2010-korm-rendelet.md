@@ -1,0 +1,269 @@
+# A Kormány 96/2010. (III. 31.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 48. szám, 2010. március 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7ba03f51232a115932b86c8802d897407176fa8f/dokumentumok/ebbd4cc1bfc598d919c2ca9f91eb686837b82f72/letoltes)
+
+---
+
+A Kormány 96/2010. (III. 31.) Korm. rendelete
+egyes migrációs tárgyú kormányrendeleteknek a Vízuminformációs Rendszer alkalmazásával,
+valamint a Vízumkódex hatálybalépésével összefüggő jogharmonizációs célú módosításáról
+A Kormány
+a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 86. §
+(1) bekezdés a) és c) pontjában,
+a 10–25. § tekintetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 111. §
+(1) bekezdés a) és b) pontjában,
+a 26. § tekintetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 111. §
+(1) bekezdés d) pontjában
+kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló
+2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet egyes rendelkezéseinek
+módosításáról
+1. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi
+I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet (a továbbiakban: Szmtv. Vhr.) 4. §-a helyébe
+a következő rendelkezés lép:
+
+„4. § A 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) szerinti három hónapot
+meg nem haladó tartózkodásra jogosító vízum kiadására irányuló eljárás
+a) a külpolitikáért felelős miniszter,
+b) a konzuli tisztviselő,
+c) a Hivatal
+(a továbbiakban együtt: vízumkiadó hatóság) hatáskörébe tartozik.”
+2. § Az Szmtv. Vhr. 7. §-a helyébe a következő rendelkezés lép:
+„7. § (1) A Vízumkódex VI. fejezetében szabályozott három hónapot meg nem haladó tartózkodásra jogosító vízum
+iránti kérelmet a Magyar Köztársaság közúti, légi, valamint vízi határátkelőhelyén (a továbbiakban együtt:
+határátkelőhely) a Rendőrségnél lehet előterjeszteni.
+(2) A határátkelőhelyen előterjesztett három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelmet
+a Rendőrség köteles haladéktalanul – elektronikus úton – döntésre felterjeszteni a Hivatalhoz.
+(3) A Hivatal a kérelemről a kézhezvételt követően azonnal, de legkésőbb három órán belül határoz, és
+döntését – a Rendőrség útján – közli a kérelmezővel.
+(4) A kérelemnek helyt adó döntés esetén a három hónapot meg nem haladó tartózkodásra jogosító vízumot
+a Rendőrség állítja ki a kérelmező részére.”
+3. § Az Szmtv. Vhr. 9. §-a helyébe a következő rendelkezés lép:
+„9. § A vízumkiadó hatóság a tartózkodás teljes időtartamára, valamint a vissza- vagy továbbutazáshoz szükséges
+anyagi fedezet meglétét vélelmezi.”
+4. § Az Szmtv. Vhr. 16–18. §-a helyébe a következő rendelkezés lép:
+„16. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum megsemmisítéséről vagy visszavonásáról
+a Magyar Köztársaság területére történő beutazást megelőzően az a vízumkiadó hatóság dönt, amely eljárása során
+a vízum megsemmisítésére vagy visszavonására okot adó körülményről tudomást szerez.
+(2) Az 562/2006/EK európai parlamenti és tanácsi rendeletnek a Vízumkódex 55. cikkével módosított V. melléklet
+A. részében foglaltak alapján a három hónapot meg nem haladó tartózkodásra jogosító vízum megsemmisítéséről
+vagy visszavonásáról a Rendőrség dönt.
+(3) A Magyar Köztársaság területén tartózkodó harmadik ország állampolgárságával rendelkező családtag három
+hónapot meg nem haladó tartózkodásra jogosító vízumának megsemmisítéséről vagy visszavonásáról a harmadik
+ország állampolgárságával rendelkező családtag lakóhelye, ennek hiányában szokásos tartózkodási helye szerint
+illetékes regionális igazgatóság dönt.
+17. § (1) A központi vízumhatóságnak a 767/2008/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: VIS
+rendelet), a Vízumkódexben, valamint a Tv.-ben meghatározott feladatait a Hivatal látja el.
+(2) Ha – a Tv. 3. § (6) bekezdése alapján – a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához
+a központivízumhatósághozzájárulásaszükséges,a konzulitisztviselőkötelesa vízumkérelmeta benyújtást követően
+haladéktalanul felterjeszteni a központi vízumhatósághoz.
+(3) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való
+hozzájárulásáról vagy a hozzájárulás megtagadásáról
+a) ha a Tv. 3. § (7) bekezdése szerinti egyeztetésre nincs szükség, vagy attól a központi vízumhatóság eltekint, vagy
+a Vízumkódex 8. cikke szerinti képviseleti megállapodás szerint az egyeztetést a képviselő tagállam végzi,
+a vízumkérelem felterjesztésétől számított hét napon belül,
+b) a Tv. 3. § (7) bekezdése szerinti egyeztetés esetén, valamennyi válasz beérkezését vagy a válaszok beérkezésére
+nyitva álló határidő lejártát követően haladéktalanul
+tájékoztatja a konzuli tisztviselőt.
+(4) Ha a központi vízumhatóság a vízumkérelem felterjesztését követően megállapítja, hogy a három hónapot meg
+nem haladó tartózkodásra jogosító vízum iránti kérelmet el kell utasítani, akkor a Tv. 3. § (7) bekezdése szerinti
+egyeztetéstől eltekint.
+(5) Ha a központi vízumhatóság úgy ítéli meg, hogy a három hónapot meg nem haladó tartózkodásra jogosító vízum
+iránti kérelem elutasítására okot adó körülmény nem áll fenn, a vízumkérelem felterjesztését követően megkeresi
+az egyeztetést kérő schengeni államok központi hatóságait, nyilatkozzanak arra nézve, hogy a három hónapot meg
+nem haladó tartózkodásra jogosító vízum kiadásához hozzájárulnak-e.
+
+18. § (1) A központi vízumhatóság a Tv. 3. § (6) bekezdésében meghatározott hozzájárulás megadása, valamint a Tv.
+86. § (6) bekezdés b) pontja szerinti egyeztetés során történő válaszadás előtt köteles a vízumkérelemről
+a Nemzetbiztonsági Hivatal véleményét kérni.
+(2) A Nemzetbiztonsági Hivatal köteles a központi vízumhatóság megkeresésében foglaltaknak hat napon belül
+eleget tenni.”
+5. § Az Szmtv. Vhr. 18/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A kishatárforgalmiengedélyt a harmadikországokállampolgáraitartózkodásiengedélye egységes formátumának
+megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet szerint matrica formátumban kell kiállítani.
+A kishatárforgalmi engedély okmány tartalmazza a „kishatárforgalom céljából kiadva” megjegyzést.”
+6. § Az Szmtv. Vhr. a következő új alcímmel és 78/A. §-sal egészül ki:
+„A Vízuminformációs Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok
+78/A. § A VIS rendelet alapján a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben tárolt
+adatokhoz történő hozzáférés szempontjából:
+a) a VIS rendelet 15. cikke szerinti vízumhatóság a 4. §-ban meghatározott hatóság, a Rendőrség pedig a 7. §
+(4) bekezdés és a 16. § (2) bekezdés szerinti eljárásában;
+b) a VIS rendelet 16. cikke szerinti központi vízumhatóság a Hivatal;
+c) a VIS rendelet 17. cikke szerinti vízumhatóság a 4. §-ban meghatározott hatóság;
+d) a VIS rendelet 19. és 20. cikke szerinti ellenőrző hatóság a Rendőrség, a Hivatal és a regionális igazgatóság.”
+7. § Az Szmtv. Vhr. 80. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ez a rendelet
+1. a 18/A-C. §-ban a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról,
+valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i 1931/2006/EK európai
+parlamenti és tanácsi rendelet,
+2. a 16. § (2) bekezdésében a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni
+határ-ellenőrzésikódex)létrehozásárólszóló,2006. március15-i562/2006/EKeurópaiparlamentiéstanácsirendelet,
+3. a 17. § (1) bekezdésében és a 78/A. §-ban a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra
+jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK
+európai parlamenti és tanácsi rendelet,
+4. a 4. §-ban, a 7. §-ban, a 16. §-ban, a 17. §-ban és 18. §-ban a Közösségi Vízumkódex létrehozásáról (Vízumkódex)
+szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.”
+8. § Az Szmtv. Vhr. 37. § (2) bekezdésében az „– a 13. §-ban meghatározott esetben –” szövegrész helyébe a „– ha a három
+hónapot meg nem haladó tartózkodásra jogosító vízumot külön lapon adták ki –” szöveg lép.
+9. § Hatályát veszti az Szmtv. Vhr. 5. §-a, 8. §-a, 10. §-a, 12. §-a, 13. §-a, 15. §-a, 1. melléklete és 2. melléklete.
+2. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
+végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet egyes rendelkezéseinek módosításáról
+10. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló
+114/2007. (V. 24.) Korm. rendelet (a továbbiakban: Harmtv. Vhr.) 4. §-a helyébe a következő rendelkezés lép:
+„4. § Figyelemmel az 539/2001/EK tanácsi rendeletre, három hónapot meg nem haladó tartózkodás céljából
+vízummentes beutazásra és három hónapot meg nem haladó tartózkodásra jogosult
+a) az a menekültként vagy hontalanként elismert harmadik országbeli állampolgár, aki az 539/2001/EK tanácsi
+rendelet II. mellékletében szereplő állam által kiállított úti okmánnyal rendelkezik,
+b) katasztrófa vagy baleset során a segély- vagy mentő légi jármű személyzetének tagjaként szolgálatot teljesítő,
+továbbá a segítségnyújtásban közreműködő harmadik országbeli állampolgár,
+c) az Egyesült Nemzetek Szervezete, az Európa Tanács vagy a Nemzetközi Büntetőbíróság által kiállított úti
+okmánnyal rendelkező harmadik országbeli állampolgár,
+
+d) a polgári légijármű hajózó személyzetének tagja és a légi-utaskísérő,
+e) a tengerhajózási személyzet tagja, és
+f) a nemzetközi belvízi utakon közlekedő úszólétesítmény személyzetének tagja.”
+11. § A Harmtv. Vhr. 7. §-a helyébe a következő rendelkezés lép:
+„7. § A 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) szerinti három hónapot
+meg nem haladó tartózkodásra jogosító vízum kiadására irányuló eljárás
+a) a külpolitikáért felelős miniszter,
+b) a konzuli tisztviselő,
+c) a Hivatal
+(a továbbiakban együtt: vízumkiadó hatóság) hatáskörébe tartozik.”
+12. § A Harmtv. Vhr. 10. §-a helyébe a következő rendelkezés lép:
+„10. § (1) A Vízumkódex VI. fejezetében szabályozott három hónapot meg nem haladó tartózkodásra jogosító vízum
+iránti kérelmet a Magyar Köztársaság közúti, légi, valamint vízi határátkelőhelyén (a továbbiakban együtt:
+határátkelőhely) a Rendőrségnél lehet előterjeszteni.
+(2) A határátkelőhelyen előterjesztett három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelmet
+a Rendőrség köteles haladéktalanul – elektronikus úton – döntésre felterjeszteni a Hivatalhoz.
+(3) A Hivatal a kérelemről a kézhezvételt követően azonnal, de legkésőbb három órán belül határoz, és
+döntését – a Rendőrség útján – közli a kérelmezővel.
+(4) A kérelemnek helyt adó döntés esetén a három hónapot meg nem haladó tartózkodásra jogosító vízumot
+a Rendőrség állítja ki a kérelmező részére.”
+13. § A Harmtv Vhr. 14. §-a helyébe a következő rendelkezés lép:
+„14. § Soron kívül, de legkésőbb tíz napon belül kell elbírálni
+a) akiskorúkérelmező,valamintakiskorúkérelmezővelegyütt utazó törvényesképviselővízumkérelmét,haazutazás
+igazolt célja a kiskorú gyógykezelése,
+b) a kísérő nélküli kiskorú hazakísérése céljából beutazó, a kiskorú felügyeletéért felelős személy vízumkérelmét, és
+c) a három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelmet, ha a kérelmező beutazásához és
+tartózkodásához a Magyar Köztársaságnak jelentős gazdasági, kulturális, tudományos vagy sportérdeke fűződik.”
+14. § A Harmtv. Vhr. 15. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[A Nemzetbiztonsági Hivatal köteles a megkeresésnek:]
+„a) a 14. §-ban foglalt esetben öt,”
+[munkanapon belül eleget tenni.]
+15. § A Harmtv. Vhr. 20. §-a helyébe a következő rendelkezés lép:
+„20. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum megsemmisítéséről vagy visszavonásáról
+a Magyar Köztársaság területére történő beutazást megelőzően az a vízumkiadó hatóság dönt, amely eljárása során
+a vízum megsemmisítésére vagy visszavonására okot adó körülményről tudomást szerez.
+(2) Az 562/2006/EK európai parlamenti és tanácsi rendeletnek a Vízumkódex 55. cikke által módosított V. melléklet
+A. részében foglaltak alapján a három hónapot meg nem haladó tartózkodásra jogosító vízum megsemmisítéséről
+vagy visszavonásáról a Rendőrség dönt.
+(3) A Magyar Köztársaság területén tartózkodó harmadik országbeli állampolgár három hónapot meg nem haladó
+tartózkodásra jogosító vízumának megsemmisítéséről vagy visszavonásáról a harmadik országbeli állampolgár
+szálláshelye szerint illetékes regionális igazgatóság dönt.”
+16. § A Harmtv. Vhr. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A központi vízumhatóságnak a 767/2008/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: VIS
+rendelet), a Vízumkódexben, valamint a Tv.-ben meghatározott feladatait a Hivatal látja el.”
+
+17. § A Harmtv. Vhr. 21. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való
+hozzájárulásáról vagy a hozzájárulás megtagadásáról
+a) ha a Tv. 9. § (2) bekezdése szerinti egyeztetésre nincs szükség, vagy attól a központi vízumhatóság eltekint, vagy
+a Vízumkódex 8. cikke szerinti képviseleti megállapodás szerint az egyeztetést a képviselő tagállam végzi,
+a vízumkérelem felterjesztésétől számított hét napon belül,
+b) a Tv. 9. § (2) bekezdése szerinti egyeztetés esetén valamennyi válasz beérkezését vagy a válaszok beérkezésére
+nyitva álló határidő lejártát követően haladéktalanul
+tájékoztatja a konzuli tisztviselőt.”
+18. § A Harmtv. Vhr. 25. §-a helyébe a következő rendelkezés lép:
+„25. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum meghosszabbítása a harmadik országbeli
+állampolgár szálláshelye szerint illetékes regionális igazgatóság hatáskörébe tartozik.
+(2) A regionális igazgatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum meghosszabbítása
+iránti kérelemről azonnal dönt.”
+19. § A Harmtv. Vhr. 47. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) A (4) bekezdés a) pontja alapján a harmadik országbeli állampolgár akkor jogosult a tartózkodási engedély iránti
+kérelmet a szálláshelye szerint illetékes regionális igazgatóságon előterjeszteni, ha a regionális
+igazgatóság – a harmadik országbeli állampolgár kérelmére – megállapította a kivételes méltánylást érdemlő
+körülmény fennállását. A regionális igazgatóság a kérelemről öt munkanapon belül határozattal dönt.”
+20. § A Harmtv. Vhr. 153. §-a helyébe a következő rendelkezés lép:
+„153. § (1) A harmadik országbeli állampolgárok adatait tartalmazó, a Tv. 73. § (2) bekezdésében meghatározott
+vendégkönyv a kereskedelemről szóló törvény hatálya alá tartozó szálláshelyen és a nem üzleti célú közösségi,
+szabadidős szálláshelyeken (a továbbiakban együtt: vendégkönyv vezetésére kötelezett szálláshely) manuális
+módszerrel (könyv formájában) vagy számítógéppel vezethető.
+(2) A vendégkönyv vezetésének módját a szálláshely vezetője határozza meg.”
+21. § A Harmtv. Vhr. a következő új alcímmel és 181/A. §-sal egészül ki:
+„A Vízuminformációs Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok
+181/A. § (1) A VIS rendelet 34. cikke szerinti nyilvántartás vezetőjeként, a 28. cikk (4) bekezdés c) pont szerinti
+hozzáférést biztosító nemzeti hatóságként, valamint a 41. cikk (4) bekezdése szerinti adatkezelőként a Kormány
+a Hivatalt jelöli ki.
+(2) A VIS rendelet alapján a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben tárolt
+adatokhoz történő hozzáférés szempontjából
+a) a VIS rendelet 15. cikke szerinti vízumhatóság a 7. §-ban meghatározott hatóság, a Rendőrség pedig a 10. §
+(4) bekezdés és a 20. § (2) bekezdés szerinti eljárásában;
+b) a VIS rendelet 16. cikke szerinti központi vízumhatóság a Hivatal;
+c) a VIS rendelet 17. cikke szerinti vízumhatóság a 7. §-ban meghatározott hatóság;
+d) a VIS rendelet 19. és 20. cikke szerinti ellenőrző hatóság a Rendőrség, a Hivatal és a regionális igazgatóság.”
+22. § A Harmtv. Vhr. 183. § (2) bekezdése a következő h)–i) ponttal egészül ki:
+[E rendelet]
+„h) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok
+tagállamokközötticseréjéről(VIS-rendelet) szóló,2008. július9-i767/2008/EKeurópaiparlamentiéstanácsirendelet;
+i) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és
+tanácsi rendelet”
+[végrehajtásához szükséges rendelkezéseket állapít meg.]
+23. § A Harmtv. Vhr. II. melléklete helyébe az 1. melléklet lép.
+
+24. § A Harmtv. Vhr.
+a) 21. § (2) bekezdésében az „– a Tv. 9. § (6) bekezdése alapján –” szövegrész helyébe az „– a Tv. 9. § (1) bekezdése
+alapján –” szöveg;
+b) 22. § (1) bekezdésében az „úgy a Tv. 9. § (7) bekezdése szerinti egyeztetéstől eltekint” szövegrész helyébe
+az „akkor a Tv. 9. § (2) bekezdése szerinti egyeztetéstől eltekint” szöveg;
+c) 24. § (1) bekezdésébenaz „a Tv. 9. § (6) bekezdésében”szövegrészhelyébeaz „a Tv. 9. § (1) bekezdésében”szöveg,
+az „a Tv. 111. § (6) bekezdése alapján kiadott miniszteri rendelet szerinti egyeztetés” szövegrész helyébe az „a Tv.
+111. § (6) bekezdés b) pontja szerinti egyeztetés” szöveg;
+d) 24. § (2) bekezdésében a „hét napon belül” szövegrész helyébe a „hat napon belül” szöveg;
+e) 28/A. § (2) bekezdésében az „az e rendelet II. mellékletének 3. pontja szerinti formában” szövegrész helyébe az „a
+II. melléklet 2. pontja szerinti formában” szöveg;
+f) 120. § (2) bekezdésében az „a 11. §-ban meghatározott konzuli tisztviselőnél” szövegrész helyébe az „a harmadik
+országbeli állampolgár állandó vagy szokásos tartózkodási helye vagy az állampolgársága szerinti országban
+működő konzuli tisztviselőnél” szöveg
+lép.
+25. § Hatályát veszti a Harmtv. Vhr. 5. §-a, 8. §-a, 11. §-a, 12. §-a, 13. §-a, 16. §-a, 17. §-a, 18. §-a, 19. §-a, 22. § (3)–(5) bekezdése,
+23. §-a, 26. §-a, 27. §-a, 28. §-a és I. melléklete.
+3. A harmadik országbeli állampolgárok részére kiállított, magyarországi beutazás céljából elismert
+okmányok meghatározásáról szóló 328/2007. (XII. 11.) Korm. rendelet módosítása
+26. § A harmadik országbeli állampolgárok részére kiállított, magyarországi beutazás céljából elismert okmányok
+meghatározásáról szóló 328/2007. (XII. 11.) Korm. rendelet a következő 1/A. §-sal egészül ki:
+„1/A. § Ha egy harmadik országbeli állampolgár tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési,
+nemzeti letelepedési vagy EK letelepedési engedéllyel rendelkezik, úti okmányát az engedély érvényességi idejének
+lejártáig elismertnek kell tekinteni akkor is, ha az okmánytípus már nem elismert úti okmány.”
+4. Záró rendelkezések
+27. § Ez a rendelet 2010. április 5-én lép hatályba és 2010. április 6-án hatályát veszti.
+28. § Ez a rendelet
+1. a 10. §-ban a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik
+országbeli állampolgárok országainak felsorolásáról szóló, 2001. március 15-i 539/2001/EK tanácsi rendelet,
+2. a 4. §-ban és a 15. §-ban a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni
+határ-ellenőrzésikódex)létrehozásárólszóló,2006. március15-i562/2006/EKeurópaiparlamentiéstanácsirendelet,
+3. a 4. §-ban, a 6. §-ban, a 16. §-ban és a 21. §-ban a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra
+jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK
+európai parlamenti és tanácsi rendelet,
+4. az 1. §-ban, a 2. §-ban, a 4. §-ban, a 8. §-ban, a 9. §-ban, a 11. §-ban, a 12. §-ban, a 15. §-ban, a 16. §-ban, a 17. §-ban,
+a 18. §-ban, a 24. § a)–c) pontjában és a 25. §-ban a Közösségi Vízumkódex létrehozásáról (Vízumkódex) szóló, 2009.
+július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.
+Bajnai Gordon s. k.,
+miniszterelnök
+
+1. melléklet a 96/2010. (III. 31.) Korm. rendelethez
+„II. melléklet a 114/2007. (V. 24.) Korm. rendelethez
+Vízum
+1. Vízumokmány: a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i 1683/95/EK tanácsi
+rendeletben, a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról
+szóló, 2002. február 18-i 334/2002/EK tanácsi rendeletben, és a vízumok egységes formátumának meghatározásáról
+szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2008. július 24-i 856/2008/EK tanácsi rendeletben
+meghatározott formájú és adattartalmú okmány.
+Kishatárforgalmi engedély okmány
+2. Kishatárforgalmi engedély: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának
+megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendeletben meghatározott formájú okmány.
+Az okmány formátuma: matrica.
+Megjegyzés: kishatárforgalom céljából kiadva.”

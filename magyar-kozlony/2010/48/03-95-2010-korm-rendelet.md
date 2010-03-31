@@ -1,0 +1,361 @@
+# A Kormány 95/2010. (III. 31.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 48. szám, 2010. március 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7ba03f51232a115932b86c8802d897407176fa8f/dokumentumok/ebbd4cc1bfc598d919c2ca9f91eb686837b82f72/letoltes)
+
+---
+
+A Kormány 95/2010. (III. 31.) Korm. rendelete
+a Svájci–Magyar Együttműködési Program végrehajtási rendjéről szóló
+237/2008. (IX. 26.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés v) pontjában kapott felhatalmazás alapján,
+az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Svájci–Magyar Együttműködési Program végrehajtási rendjéről szóló 237/2008. (IX. 26.) Korm. rendelet
+(a továbbiakban: R.) 2. § (1) bekezdés 1. pontja helyébe a következő rendelkezés lép:
+[E rendelet alkalmazásában]
+„1. állami támogatás: az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSZ) 107. cikk (1) bekezdése
+és az 1998/2006/EK bizottsági rendelet szerinti támogatás;”
+(2) Az R. 2. § (2) bekezdése a következő 2a. ponttal egészül ki:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„2a. alternatív helyzet: olyan beruházás megvalósítását jelenti, amely műszaki szempontból hasonló (azaz
+a közvetlenül a környezetvédelmi többletberuházáshoz kapcsolódó jellemzők kivételével termelőkapacitása és
+minden egyéb műszaki jellemzője azonos a beruházáséval és üzletileg hiteles alternatívát jelent) az értékelés tárgyát
+képező beruházáshoz, de alacsonyabb környezetvédelmi szintet képvisel, és amennyiben vannak ilyenek, megfelel
+a vonatkozó kötelező közösségi szabványoknak, valamint hitelt érdemlően megvalósítható lenne támogatás nélkül;”
+(3) Az R. 2. § (2) bekezdése a következő 3a. ponttal egészül ki:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„3a. belső szolgáltató: vasúti személyszállítási közszolgáltatás esetén a vasúti közlekedésről szóló 2005. évi
+CLXXXIII. törvény (a továbbiakban: Vtv.) 2. § (2) bekezdés 21. pontja, és közúti személyszállítási közszolgáltatás esetén
+
+az autóbusszal végzett menetrend szerinti személyszállításrólszóló 2004. évi XXXIII. törvény (a továbbiakban:Atv.) 2. §
+f) pontja szerinti fogalom;”
+(4) Az R. 2. § (2) bekezdése a következő 5a–5d. ponttal egészül ki:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„5a. diszkont kamatláb: az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami
+támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet
+(a továbbiakban: 85/2004. Korm. rendelet) 1. § 36. pontja szerinti kamatláb;
+5b. elszámolható költség: a támogatás alapjának meghatározásakor figyelembe vett, a támogatás tárgyával
+összefüggésben közvetlenül felmerült vagy ahhoz közvetett módon hozzárendelhető költségek, ráfordítások és
+beszerzett eszközök bekerülési értéke, amelyek finanszírozására a támogatás felhasználható;
+5c. energiamegtakarítási intézkedések: azok az intézkedések, amelyek révén a vállalkozások csökkenteni tudják
+a termelési folyamatban felmerülő energiafelhasználást;
+5d. érték: a személyszállítás tekintetében valamely szolgáltatás, útvonal, közszolgáltatási szerződés vagy
+ellentételezési rendszer értéke, amely megfelel a közszolgáltató vagy közszolgáltatók általános forgalmi adó
+(a továbbiakban: ÁFA) nélküli teljes bevételének, beleértve a hatóságok által kifizetett, bármilyen jellegű
+ellentételezéseket is, valamint az olyan menetjegyek eladásából származó bevételeket, amelyeket nem fizetnek vissza
+a kérdéses a települési (fővárosi) önkormányzat számára;”
+(5) Az R. 2. § (2) bekezdése a következő 17a–17b. ponttal egészül ki:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„17a. környezetvédelem: minden olyan intézkedés, amely a fizikai környezetnek vagy a természeti erőforrásoknak
+a kedvezményezett saját tevékenységei által történő károsodásának felszámolására vagy megakadályozására,
+e károsodás bekövetkezése kockázatának csökkentésére, vagy a természeti erőforrások hatékonyabb felhasználására
+irányul, beleértve az energia-megtakarítási intézkedéseket és a megújuló energiaforrások használatát is;
+17b. közösségi szabvány: olyan kötelező közösségi szabvány, amely környezeti mutatókra ír elő a vállalkozások által
+elérendő szinteket, vagy a környezetszennyezés integrált megelőzéséről és csökkentéséről szóló 2008. január 15-i
+2008/1/EK európai parlamenti és tanácsi irányelvben rögzített, az elérhető legjobb technikák használatára vonatkozó
+kötelezettség;”
+(6) Az R. 2. § (2) bekezdése a következő 18a–18d. ponttal egészül ki:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„18a. közszolgáltató: a személyszállítási ágazathoz kapcsolódó közszolgáltatás vonatkozásában, bármely köz- vagy
+magánvállalkozásvagy e vállalkozásokcsoportja,amely személyszállításiközszolgáltatásokatműködtet, vagy bármely
+olyan közjogi szerv, amely személyszállítási közszolgáltatásokat nyújt;
+18b. közszolgáltatási kötelezettség: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk e) pontjában
+meghatározott fogalom;
+18c. közszolgáltatási ellentételezés: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk g) pontjában
+meghatározott fogalom;
+18d. közszolgáltatási szerződés: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk i) pontjában
+meghatározott fogalom;”
+(7) Az R. 2. § (2) bekezdése a következő 25a–25b. ponttal egészül ki:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„25a. megújuló energiaforrás: a villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 45. pontjában meghatározott
+energiaforrás;
+25b. megújuló energiaforrásokból származó energia: a kizárólag megújuló energiaforrásokat felhasználó erőművek
+által végzett energiatermelés, valamint hagyományos energiaforrásokat is alkalmazó vegyes létesítményekben
+megújuló energiaforrásokból nyert, az energiaérték alapján számított energiarész, beleértve a tárolórendszerek
+feltöltésére használt megújuló villamos energiát, a tárolórendszerek eredményeként nyert villamos energia
+kivételével;”
+(8) Az R. 2. § (2) bekezdés 29. pontja helyébe a következő rendelkezés lép:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„29. nehéz helyzetben lévő vállalkozás: a 85/2004. (IV. 19.) Korm. rendelet 8. számú mellékletében meghatározott
+vállalkozás;”
+
+(9) Az R. 2. § (2) bekezdése a következő 30a. ponttal egészül ki:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„30a. női vállalkozó által újonnan létrehozott vállalkozás: a 800/2008/EK bizottsági rendelet 2. cikk 28. pontjában
+meghatározott vállalkozás;”
+(10) Az R. 2. § (2) bekezdés 31. pontja helyébe a következő rendelkezés lép:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„31. referencia alapkamatláb: a 85/2004. Korm. rendelet 1. § 20. pontjában meghatározott kamatláb;”
+(11) Az R. 2. § (2) bekezdése a következő 35a. ponttal egészül ki:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„35a. személyszállítási közszolgáltatás: a nyilvánosság számára megkülönböztetés nélkül és folyamatosan nyújtott
+általános gazdasági érdekű személyszállítási szolgáltatás;”
+(12) Az R. 2. § (2) bekezdés 38–41. pontja helyébe a következő rendelkezések lépnek:
+[E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában]
+„38. támogatási intenzitás: a 85/2004. (IV. 19.) Korm. rendelet 1. § 24. pontjában meghatározott támogatási mérték;
+39. támogatástartalom: a 85/2004. (IV. 19.) Korm. rendelet 1. § 31. pontjában meghatározott érték;
+40. támogatott területek: az EUMSZ 107. cikk (3) bekezdés a) pontja szerint támogatott régiók: Észak-Magyarország,
+Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl, az EUMSZ 107. cikk (3) bekezdés c) pontja
+szerint támogatott régió: Közép-Magyarország;
+41. tárgyi eszköz: a 800/2008/EK bizottsági rendelet 2. cikk 10. pontja szerinti, illetve környezetvédelmi támogatások
+esetében a 800/2008/EK bizottsági rendelet 17. cikk 12. pontja szerinti eszköz;”
+2. § Az R. 86. § (2) bekezdése a következő i)–l) ponttal egészül ki:
+[Az (1) bekezdésben meghatározottakon túl az adott támogatási kategóriára vonatkozóan az alábbi előírásokat, az ott
+meghatározottak szerint kell alkalmazni:]
+„i) környezetvédelmitámogatás a 800/2008/EK bizottsági rendelet I. fejezetébenés II. fejezet 4. szakaszában,valamint
+a 112/F–112/K. §-ban foglaltakkal összhangban nyújtható,
+j) kkv-k részére tanácsadáshoz és a kkv-k vásárokon való részvételéhez a 800/2008/EK bizottsági rendelet
+I. fejezetében és II. fejezet 5. szakaszában, valamint a 112/C–112/D. §-ban foglaltakkal összhangban nyújtható
+támogatás,
+k) vasúti és közúti személyszállítási közszolgáltatás finanszírozására az 1370/2007/EK európai parlamenti és tanácsi
+rendeletben, valamint a 112/L–112/O. §-ban foglaltakkal összhangban nyújtható támogatás,
+l) női vállalkozókáltal újonnan létrehozott kisvállalkozásokrészére a 800/2008/EK bizottsági rendelet I. fejezetében és
+II. fejezet 3. szakaszában, valamint a 112/E. §-ban foglaltakkal összhangban nyújtható támogatás.”
+3. § Az R. a 112/B. §-t követően a következő 112/C–112/O. §-sal és a §-okat megelőző alcímekkel egészül ki:
+„A kkv-k részére tanácsadáshoz nyújtott támogatás
+112/C. § (1) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+(2) Az elszámolható költségek a külső tanácsadók által nyújtott szolgáltatások tanácsadói költségei. Az érintett
+szolgáltatás nem lehet folyamatos vagy időszakosan visszatérő tevékenység, és nem kapcsolódhat a vállalkozás
+szokásos működési költségeihez, így különösen folyamatos adótanácsadáshoz, rendszeres jogi szolgáltatáshoz vagy
+hirdetéshez.
+A kkv-k vásárokon való részvételéhez nyújtott támogatás
+112/D. § (1) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+(2) Az elszámolható költségek a vállalkozásnak valamely kiállításon vagy vásáron való első részvétele esetén a kiállító
+helyiség vagy kiállítási terület bérletével, felállításával és működtetésével kapcsolatos költségei.
+Női vállalkozók által újonnan létrehozott kisvállalkozások részére nyújtott támogatás
+112/E. § (1) A támogatás a női vállalkozó által újonnan létrehozott kisvállalkozásnak nyújtható.
+(2) A támogatás összege nem haladhatja meg vállalkozásonként az 1 millió eurót, valamint a támogatás éves összege
+nem haladhatja meg a támogatás teljes összegének 33%-át.
+(3) A támogatási intenzitás nem haladhatja meg a vállalkozás megalakulását követő első három évben felmerült
+elszámolható költségek 15%-át.
+
+(4) A elszámolható költségek a vállalkozás létrehozásához közvetlenül kapcsolódó jogi, tanácsadói, konzultációs és
+adminisztratív költségek, valamint – amennyiben a vállalkozás létrehozását követő első öt évben merülnek
+fel – a következő költségek:
+a) a külső finanszírozás kamata és a saját tőkére jutó osztalék, amennyiben a referencia-kamatlábbal számolt
+osztalékot nem haladja meg;
+b) a termelési létesítmény, vagy felszerelés bérleti díja;
+c) energia-,víz- ésfűtési díj, valamint– az ÁFA, a társaságiadórólésosztalékadórólszólótörvény szerintitársaságiadó,
+az egyszerűsített vállalkozási adóról szóló törvény szerinti egyszerűsített vállalkozói adó, az államháztartás
+egyensúlyát javító különadóról és járadékról szóló törvény szerinti különadó és a helyi adókról szóló törvény szerinti
+helyi iparűzési adó kivételével – adók és adminisztratív díjak;
+d) az értékcsökkenés,a termelési létesítmény vagy felszereléslízingdíja,valamint a bérköltségek,ha az alapulszolgáló
+beruházás vagy a munkahely teremtési és a munkaerő-felvételi intézkedések nem részesültek egyéb támogatásban;
+e) agyermekellátásésaszülőiellátásköltségei,beleértveaszülőiszabadsággalkapcsolatbanfelmerültköltségeketis.
+(5) Nem részesülhet a támogatásban az a kisvállalkozás, amelyet a gazdasági társaságokról szóló 2006. évi IV. törvény
+23. § (3)–(4) bekezdése szerinti vállalkozások résztulajdonosai irányítanak, ha az érintett vállalkozások ugyanazon
+érintett piacokon vagy szomszédos piacokon tevékenykednek.
+A vállalatok számára a közösségi környezetvédelmi szabványok túlteljesítését, illetve közösségi
+szabványok hiányában a környezetvédelem szintjének emelését lehetővé tevő beruházási támogatás
+112/F. § (1) A támogatás akkor nyújtható, ha a beruházás
+a) a közösségi szabványok túlteljesítése révén lehetővé teszi a kedvezményezett számára a tevékenységeiből eredő
+környezetvédelmi szint emelését, függetlenül az alkalmazandó közösségi szabványoknál szigorúbb kötelező nemzeti
+szabványoktól, vagy
+b) lehetővé teszi a kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését a közösségi
+szabványok hiányában.
+(2) Nem nyújtható támogatás olyan beruházásra, amely a vállalkozásnak a már elfogadott, de még hatályba nem
+lépett közösségi szabványoknak való megfelelését szolgálja.
+(3) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 35%-át. A támogatási intenzitás
+20 százalékponttal növelhető kisvállalkozásnak, illetve 10 százalékponttal középvállalkozásnak nyújtott támogatás
+esetén.
+(4) Az elszámolható költségek a vonatkozó közösségi szabványok által előírtnál magasabb környezetvédelmi szint
+eléréséhez szükséges többletköltségek, a működési előnyök és működési költségek figyelembevétele nélkül.
+(5) A (4) bekezdés alkalmazása szempontjából a beruházásnak a környezetvédelemhez közvetlenül kapcsolódó
+költségeit az alternatív helyzetből kiindulva kell meghatározni:
+a) ha a beruházás összköltségén belül a környezetvédelmi beruházás költsége egyszerűen meghatározható,
+a környezetvédelemhez szorosan kapcsolódó költség az elszámolható költség,
+b) mindenmásesetbenúgy kellmegállapítania beruházástöbbletköltségeit,hogy a beruházástösszekellhasonlítani
+az állami támogatás nélküli alternatív helyzettel.
+(6) A beruházást tárgyi eszközökbe vagy immateriális javakba történő beruházás formájában kell megvalósítani.
+(7) A közösségi szabványok által előírt szintnél magasabb környezetvédelemi szint megvalósítását célzó beruházások
+esetében az alternatív helyzetet a következők szerint kell meghatározni:
+a) ha a vállalkozás a közösségi szabványok hiányában elfogadott nemzeti szabványokhoz igazodik, az elszámolható
+költségek a nemzeti szabványok által előírt környezetvédelmi szint megvalósításához szükséges beruházási
+többletköltséget foglalják magukban;
+b) ha a vállalkozás olyan nemzeti szabványokhoz igazodik vagy olyanokat teljesít túl, amelyek szigorúbbak
+a közösségi szabványoknál, vagy túlteljesítik a közösségi szabványokat, az elszámolható költségek a közösségi
+szabványok által előírt szintnél magasabb környezetvédelemi szint megvalósításához szükséges beruházási
+többletköltséget foglalják magukban, azzal, hogy a közösségi szabványok által előírt környezetvédelmi szint
+megvalósításához szükséges beruházások költségei nem számolhatók el;
+c) szabványok hiányában az elszámolható költségek azon beruházási költségek, amelyek ahhoz szükségesek, hogy
+magasabb környezetvédelmi szintet valósítsanak meg annál, mint amelyet a környezetvédelmi támogatás hiányában
+az érintett vállalkozás vagy vállalkozások elérnének.
+(8) Más vállalkozás hulladékának gazdálkodásával kapcsolatos beruházásokhoz nem nyújtható az e § szerinti
+támogatás.
+
+A közösségi szabványok túlteljesítését, illetve közösségi szabványok hiányában a környezetvédelem
+szintjének emelését lehetővé tevő, új szállítóeszközök beszerzéshez nyújtott támogatás
+112/G. § (1) A támogatás akkor nyújtható, ha a beruházás megfelel a 112/F. § (1) bekezdésében foglalt feltételnek.
+(2) Az elfogadott közösségi szabványoknak megfelelő – közúton, vasúton, belvízi hajóúton történő szállítást vagy
+fuvarozást szolgáló – új járművek beszerzéséhez abban az esetben nyújtható támogatás, ha a beszerzés a közösségi
+szabványok hatálybalépése előtt történik, és kötelezővé válásukkor azok nem alkalmazhatók visszamenőleges
+hatállyal a már megvásárolt járművekre.
+(3) A környezetvédelmi visszamenőleges műveletekhez támogatás abban az esetben nyújtható, ha a meglévő
+szállítási eszközöket a szállítási eszköz forgalomba helyezésekor még nem hatályos környezetvédelmi szabványoknak
+megfelelően átalakították, vagy ha a szállítási eszközökre nem vonatkoznak környezetvédelmi szabványok.
+(4) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 35%-át. A támogatási intenzitás
+kisvállalkozásnak nyújtott támogatás esetében 20 százalékponttal, középvállalkozásnaknyújtott támogatás esetében
+10 százalékponttal növelhető.
+(5) Az elszámolhatóköltségeka közösségiszabványokáltalelőírtkörnyezetvédelmiszintmeghaladásátlehetővétevő
+beruházási többletköltségek. Az elszámolható költségek kiszámításához a 112/F. § (5) és (6) bekezdésében
+meghatározott módszert kell alkalmazni, azzal, hogy a működési előnyöket és a működési költségeket figyelmen kívül
+kell hagyni.
+Az energiamegtakarítási intézkedésekhez nyújtott környezetvédelmi beruházási támogatás
+112/H. § (1) A támogatást a (2)–(3) bekezdésben vagy a (4)–(5) bekezdésben meghatározott feltételek alapján lehet
+nyújtani.
+(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 60%-át. A támogatási intenzitás
+20 százalékponttal növelhető kisvállalkozásnak, illetve 10 százalékponttal középvállalkozásnak nyújtott támogatás
+esetén.
+(3) Az elszámolható költségek a közösségi szabványok által előírtnál magasabb szintű energiamegtakarítás
+megvalósításához szükséges beruházási többletköltségek. Az elszámolható költségek kiszámításához a 112/F. § (5) és
+(6) bekezdésében meghatározott módszert kell alkalmazni. Az elszámolható költségek kiszámítása során figyelmen
+kívül kell hagyni az energiamegtakarításhoz szükséges többletberuházáshoz kapcsolódó költségeket és működési
+előnyöket, amelyek kkv-k esetében a beruházás első három éve alatt, az Európai Unió széndioxidkibocsátás-
+kereskedelmi rendszerében részt nem vevő nagyvállalatok esetében a beruházás első négy éve alatt, az Európai Unió
+széndioxidkibocsátás-kereskedelmi rendszerében részt vevő nagyvállalatok esetében a beruházás első öt éve alatt
+jelentkeztek. Nagyvállalkozások esetén ez az időszak csökkenthető a beruházás élettartamának első három évére, ha
+bizonyítható, hogy a beruházás értékcsökkenés-leírási ideje nem haladja meg a három évet. Az elszámolható
+költségek számítását független könyvvizsgálóval kell hitelesíttetni.
+(4) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 20%-át. A támogatási intenzitás
+20 százalékponttal növelhető kisvállalkozásnak, illetve 10 százalékponttal középvállalkozásnak nyújtott támogatás
+esetén.
+(5) Az elszámolható költségek kiszámításához 112/F. § (5) és (6) bekezdésében meghatározott módszert kell
+alkalmazni, azzal, hogy a működési előnyöket és működési költségeket figyelmen kívül kell hagyni.
+A megújuló energiaforrásokból származó energia előmozdítására irányuló környezetvédelmi beruházási
+támogatás
+112/I. § (1) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 45%-át. A támogatási intenzitás 20
+százalékponttal növelhető kisvállalkozásnak, illetve 10 százalékponttal középvállalkozásnak nyújtott támogatás
+esetén.
+(2) Az elszámolható költségek azok a többletköltségek, amelyek a kedvezményezettet terhelik egy hagyományos,
+a tényleges energiatermelés szempontjából ugyanolyan kapacitású erőműhöz vagy fűtőrendszerhez képest.
+Az elszámolható költségek kiszámításához a 112/F. § (5) és (6) bekezdésében meghatározott módszert kell alkalmazni,
+azzal, hogy a működési előnyöket és működési költségeket figyelmen kívül kell hagyni.
+(3) Bioüzemanyag előállításához abban az esetben nyújtható környezetvédelmi beruházási támogatás, ha
+a támogatott beruházást kizárólag a megújuló energiaforrásból előállított energia támogatásáról, valamint
+a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló 2009. április 23-i
+2009/28/EK európai parlamenti és tanácsi irányelv 17. cikk (2)–(6) bekezdésében megállapított fenntarthatósági
+kritériumoknak megfelelő bioüzemanyagok előállítására használják fel.
+
+Környezetvédelmi tanulmányokra nyújtott támogatás
+112/J. § (1) Környezetvédelmi tanulmányok elkészítéséhez abban az esetben nyújtható támogatás, ha azok a 112/F. §,
+a 112/H. § vagy a 112/I. § alapján támogatott beruházásokhoz kapcsolódnak.
+(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át. A támogatási intenzitás
+20 százalékponttal növelhető kisvállalkozásnak készített, illetve 10 százalékponttal középvállalkozásnak készített
+tanulmány esetén.
+(3) Az elszámolható költségek a tanulmány költségei.
+A kkv-k jövőbeni közösségi szabványokhoz idő előtt történő alkalmazkodásához nyújtott támogatás
+112/K. § (1) A támogatás kkv-k olyan beruházására nyújtható, amely a környezetvédelmi szintet emelő, de még
+hatályba nem lépett új közösségi szabványoknak való megfelelést biztosítja.
+(2) A közösségi szabvány elfogadása, valamint a beruházás végrehajtása és befejezése legalább egy évvel meg kell,
+hogy előzze a közösségi szabvány hatálybalépésének időpontját.
+(3) A támogatási intenzitás kisvállalkozás esetében nem haladhatja meg az elszámolható költségek 15%-át, illetve
+középvállalkozás esetében az elszámolható költségek 10%-át, ha a beruházás végrehajtása és befejezése több mint
+három évvel a szabvány hatálybalépése előtt megtörténik. A támogatási intenzitás kisvállalkozás esetében nem
+haladhatja meg az elszámolható költségek 10%-át, ha a beruházás végrehajtása és befejezése egy-három évvel
+a szabvány hatálybalépése előtt megtörténik.
+(4) Az elszámolható költségek a közösségi szabvány hatálybalépése előtti környezetvédelemi szinthez viszonyítva,
+a közösségi szabvány által előírt környezetvédelmi szint megvalósításához szükséges beruházási többletköltségek.
+Az elszámolható költségek kiszámításához a 112/F. § (5) és (6) bekezdésében meghatározott módszert kell alkalmazni,
+azzal, hogy a működési előnyöket és működési költségeket figyelmen kívül kell hagyni.
+Vasúti és közúti személyszállítási közszolgáltatás finanszírozására vonatkozó szabályok
+112/L. § (1) A vasúti és a közúti személyszállítási közszolgáltatás finanszírozása esetén a közszolgáltatási szerződésnek
+tartalmaznia kell vasúti személyszállítási közszolgáltatás esetén a Vtv. 27. § (1)–(2) bekezdésében, illetve közúti
+személyszállítási közszolgáltatás esetén az Atv. 9. § (1)–(2) bekezdésében meghatározottakat.
+(2) A személyszállítási közszolgáltatásra vonatkozó közszolgáltatási szerződéssel történő megbízásnak meg kell
+felelni vasúti személyszállítási közszolgáltatás esetén a Vtv. 27–27/F. §-ában, közúti személyszállítási közszolgáltatás
+esetén az Atv. 6–10. §-ában, illetve e rendelet 112/M–112/O. §-ában foglaltaknak.
+112/M. § (1) Az autóbusszal vagy villamossal végzett személyszállítási közszolgáltatásra irányuló közszolgáltatási
+szerződéseket a Kbt. szabályai szerint kell megkötni, kivéve, ha a közszolgáltatási szerződés a Kbt. szerint szolgáltatási
+koncessziónak minősül. Ha a közszolgáltatási szerződés megkötése a Kbt. alapján történik, a 112/N. §-t nem kell
+alkalmazni.
+(2) Ha az autóbusszal vagy villamossal végzett személyszállítási közszolgáltatásra irányuló közszolgáltatási szerződés
+a Kbt. alapján szolgáltatási koncessziónak minősül, a közszolgáltatási szerződést autóbusszal végzett személyszállítási
+közszolgáltatás esetében az Atv.-nek, villamossal végzett személyszállítási közszolgáltatás esetében a Vtv.-nek
+a szolgáltató kiválasztására vonatkozó pályázati eljárás szabályai szerint kell megkötni.
+112/N. § (1) Ha az ellátásért felelős települési önkormányzat az 1370/2007/EK európai parlamenti és tanácsi rendelet
+5. cikk (2) bekezdése alapján úgy dönt, hogy saját maga nyújt személyszállítási közszolgáltatást vagy közvetlenül bíz
+meg közszolgáltatási szerződéssel belső szolgáltatót, a következő feltételeknek kell megfelelni:
+a) a belső szolgáltató, és bármely olyan egység, amelyre ezen szolgáltató akár minimális befolyást is gyakorol,
+személyszállítási közszolgáltatási tevékenységét – a tevékenységnek a szomszédos települési önkormányzat
+területére belépő kimenő útvonalaktól vagy egyéb kisegítő elemeitől függetlenül – a települési önkormányzat
+illetékességi területén végzi, és nem vesz részt a települési önkormányzat illetékességi területén kívül szervezett,
+személyszállítási közszolgáltatás nyújtására irányuló pályázati vagy közbeszerzési eljáráson;
+b) az a) ponttól eltérően a belső szolgáltató részt vehet pályázati vagy közbeszerzési eljáráson a közvetlen
+megbízáson alapuló közszolgáltatási szerződésének lejártát megelőző két évben, azzal a feltétellel, hogy végleges
+döntés született a belső szolgáltató szerződésének hatálya alá tartozó személyszállítási közszolgáltatások pályázati
+vagy közbeszerzésieljáráskeretében történő kiírására,és a belső szolgáltatónem kötött egyéb, közvetlen megbízáson
+alapuló közszolgáltatási szerződést;
+c) ha a közszolgáltatás ellátásába alvállalkozó bevonására kerül sor, a belső szolgáltató köteles a személyszállítási
+közszolgáltatás több mint 50%-át maga nyújtani.
+(2) Az (1) bekezdés a)–b) pontját kell alkalmazni arra a hatóságra is, amely Magyarország teljes területénél kisebb,
+adott földrajzi területre vonatkozóan rendelkezik illetékességgel, feltéve, hogy a belső szolgáltató nem vesz részt
+
+személyszállítási közszolgáltatási szerződésre irányuló olyan pályázati vagy közbeszerzési eljárásban, amelyet azon
+a területen kívül szerveztek, amelyre a közszolgáltatási szerződést megkötötték.
+(3) Ha a települési önkormányzat belső szolgáltatótól eltérő harmadik személy szolgáltatásait veszi igénybe,
+a közszolgáltatási szerződést – a (4)–(5) bekezdésben meghatározottak kivételével – közúti személyszállítási
+közszolgáltatás esetében az Atv.-nek, vasúti személyszállítási közszolgáltatás esetében a Vtv.-nek a szolgáltató
+kiválasztására vonatkozó pályázati eljárás szabályai szerint kell megkötni.
+(4) A települési önkormányzat közvetlenül bízhat meg szolgáltatót közszolgáltatási szerződéssel közúti
+személyszállítási közszolgáltatás esetében az Atv. 8. § (1)–(4) és (6) bekezdése, illetve vasúti személyszállítási
+közszolgáltatás esetében a Vtv. 27/D. § (1)–(4) és (6) bekezdése alapján.
+(5) A települési önkormányzat dönthet úgy, hogy a vasúti szállítást érintő közszolgáltatási szerződéssel – az egyéb
+kötöttpályás szállítás kivételével – közvetlenül bíz meg szolgáltatót. A szerződés időtartama ebben
+az esetben – az 1370/2007/EK európai parlamenti és tanácsi rendelet 4. cikk (4) bekezdése szerinti esetek
+kivételével – nem haladhatja meg a 10 évet.
+112/O. § (1) A szolgáltató vasúti személyszállítási közszolgáltatás esetén a Vtv. 27/A. §-a és közúti személyszállítási
+közszolgáltatás esetén az Atv. 11. §-a szerinti ellentételezésre jogosult.
+(2) Ellentételezés esetén a közszolgáltatási kötelezettségből származó gazdasági hátrány számszerűsítésére,
+a szolgáltatót megillető pénzügyi ellentételezés mértékére és módjára vasúti személyszállítási közszolgáltatás esetén
+a Vtv. 27/A. §-ában és közúti személyszállítási közszolgáltatás esetén az Atv. 11. §-ában meghatározott
+rendelkezéseket kell alkalmazni.
+(3) A közszolgáltatási szerződéshez kapcsolódó ellentételezés nem haladhatja meg azon nettó pénzügyi hatásnak
+megfelelő összeget, amely megfelel a közszolgáltatási kötelezettség teljesítése által a közszolgáltató költségeire és
+bevételeire gyakorolt – pozitív vagy negatív – hatások összegének. A hatásokat úgy kell értékelni, hogy azt a helyzetet,
+amelyben a közszolgáltatási kötelezettséget teljesítik, összehasonlítják azzal a helyzettel, amely akkor állt volna fenn,
+ha a kötelezettséget nem teljesítették volna. A nettó pénzügyi hatás kiszámításakor a települési önkormányzatnak
+az 1370/2007/EK európai parlamenti és tanácsi rendelet mellékletében meghatározott rendszert kell követnie.”
+4.§ Az R. 114. §-a helyébe a következő rendelkezés lép és a következő 114/A. §-sal egészül ki:
+„114. § (1) Az e rendeletben szabályozott programból – a (2) bekezdésben foglaltak kivételével – 2012. június 13-ig
+lehet támogatást nyújtani.
+(2) E rendelet alapján támogatási döntést a csekély összegű (de minimis) és a 800/2008/EK bizottsági rendelet hatálya
+alá tartozó támogatások tekintetében 2013. december 31-ig, az átmeneti támogatások tekintetében 2010. december
+31-ig lehet hozni.
+114/A. § Az e rendeletben euróban meghatározott összegek forintra való átszámításakor a támogatási döntés napját
+megelőző hónap utolsó napján érvényes, a Magyar Nemzeti Bank által közzétett, két tizedes jegy pontossággal
+meghatározott deviza középárfolyamot kell alkalmazni.”
+5.§ Az R. 116. §-a helyébe a következő rendelkezés lép:
+„116. § Ez a rendelet
+a) az EK Szerződés 87. és 88 cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal
+összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-i 800/2008/EK
+bizottsági rendelet (HL L 214/3., 2008.08.09. 3–47. o.),
+b) a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i
+1998/2006/EK bizottsági rendelet (HL L 379., 2006.12.28., 5–10. o.),
+c) azEurópaiKözösségetlétrehozóSzerződés86. cikke(2) bekezdésénekazáltalánosgazdaságiérdekű szolgáltatások
+működtetésével megbízott vállalkozásoknak közszolgáltatásért járó ellentételezés formájában megítélt állami
+támogatásokra történő alkalmazásáról szóló 2005. november 28-i 2005/842/EK bizottsági határozat (HL L 312.,
+2005.11.29., 67–73. o.), és
+d) a vasúti és a közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1007/70/EGK tanácsi
+rendelet hatályon kívül helyezéséről szóló 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet
+(HL L 315/1., 2007.12.03.)
+hatálya alá tartozó támogatást tartalmaz.”
+
+6.§ Az R. 2. § (2) bekezdés 18. pontjában az „EK Szerződés 86. cikk (2) bekezdése” szövegrész helyébe az „EUMSZ 106. cikk
+(2) bekezdése” szöveg; 52. § (1) bekezdésében a „217/1998. (XII. 30.) Korm. rendelet” szövegrész helyébe a „292/2009
+(XII. 19.) Korm. rendelet” szöveg; 86. § (1) bekezdésében az „az EK Szerződés 87. cikkének (1) bekezdése szerinti állami
+támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelettel”
+szövegrész helyébe az „a 85/2004. (IV. 19.) Korm. rendelettel” szöveg; 86. § (2) bekezdés h) pontjában és 89. §
+(1) bekezdésében az „az EK Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról
+és a regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet” szövegrészek helyébe az „a 85/2004.
+(IV. 19.) Korm. rendelet” szöveg; 89. § (4) bekezdés a)–b) pontjában, 94. § (1) bekezdés a)–b) pontjában és 94. §
+(4) bekezdésébenaz„EKSzerződés87. cikk”szövegrészekhelyébeaz„EUMSZ 107. cikk”szöveg;91. § (7) bekezdésében
+az „Ámr. 89. §-ának (1) bekezdésében” szövegrész helyébe az „Ámr. 128. § (1) bekezdésében” szöveg; 104. §
+(3) bekezdésében az „EK Szerződés 87. cikke” szövegrészekhelyébe az „EUMSZ 107. cikk” szöveg; 112/B. § (1) bekezdés
+b) pontjában és 112/B. § (1) bekezdés c) pont nyitó szövegrészében az „EK Szerződés” szövegrészek helyébe
+az „EUMSZ” szöveg lép.
+7.§ Hatályát veszti az R. 2. § (2) bekezdés 1. pontja és melléklete.
+8.§ Ez a rendelet a kihirdetését követő harmadik napon lép hatályba, és a hatálybalépését követő napon hatályát veszti.
+9.§ Ez a rendeleta vasúti ésközúti személyszállításiközszolgáltatásról,valamintaz1191/69/EGKésaz1170/70/EGKtanácsi
+rendelet hatályon kívül helyezéséről szóló 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.
+Bajnai Gordon s. k.,
+miniszterelnök
