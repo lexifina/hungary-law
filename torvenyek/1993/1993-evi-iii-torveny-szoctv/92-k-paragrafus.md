@@ -20,6 +20,8 @@ b) bentlakásos intézmény esetén a működési engedélyben meghatározott f�
 
 (6) Házi segítségnyújtás esetében az ellátottak száma egyetlen napon sem haladhatja meg a működési engedélyben meghatározott ellátotti létszám száztíz százalékát, éves átlagban pedig annak száz százalékát.
 
+(6) A Kormány által kijelölt szerv a működési engedéllyel rendelkező szociális szolgáltatókról, intézményekről nyilvántartást vezet, amelynek adattartalma nyilvános.
+
 (7) A működést engedélyező szerv a működés személyi és tárgyi feltételeinek, a működés jogszerűségének, a szociális szolgáltatásra való jogosultság megállapításának, illetőleg az intézményi jogviszonyra vonatkozó szabályok megtartásának ellenőrzése érdekében, az ahhoz szükséges mértékben
 
 a) megismerheti és kezelheti az ellátott, törvényes képviselője, az ellátott tartására jogszabály, szerződés vagy bírósági határozat alapján köteles személy, a térítési díjat, az egyszeri hozzájárulást megfizető személy, továbbá a szolgáltató, intézmény alkalmazottjának a személyes adatait,

@@ -76,7 +76,7 @@ mc) az egyéni vállalkozó,
 
 md) az ma)–mb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
 
-me) az a jogi személyiséggel rendelkező gazdálkodó szervezet, illetve jogi személyiség nélküli gazdasági társaság, amelynek székhelye, központi ügyvezetése vagy üzleti tevékenységének fő helye az Európai Gazdasági Térségről szóló megállapodásban részes más tagállamban van [az mc)–me) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
+me) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az mc)–me) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó];
 
 ha az e törvényben és más jogszabályokban meghatározott feltételek szerint szociális szolgáltatót, illetve szociális intézményt létesít és működtet.
 

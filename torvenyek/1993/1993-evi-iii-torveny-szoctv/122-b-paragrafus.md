@@ -1,6 +1,6 @@
 122/B. § (1) A szerződéses szolgáltatások alapján kötött szerződés – függetlenül a közbeszerzés vagy a pályáztatás alkalmazásától – tartalmazza
 
-a) a szolgáltatást végző jogi személyiségének formája szerinti bírósági bejegyzés vagy az egyéni vállalkozói nyilvántartás bárki számára nyilvános adatait;
+a) a szolgáltató nevét, székhelyét és adószámát,
 
 b) szükség esetén az adott tevékenység végzésére jogosító hatósági engedélyt vagy a szakképzettséget igazoló irat adatait;
 
