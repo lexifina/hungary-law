@@ -1,0 +1,7 @@
+20. § A Cst. a következő 20/B. §-sal egészül ki:
+
+„20/B. § (1) A gyermek örökbefogadás előtti gondozásba történő kihelyezésének időpontjától számított hat hónap időtartamig gyermekgondozási segélyre jogosult az örökbefogadó szülő – a házastársi és rokoni örökbefogadás kivételével –, amennyiben a gyermek az örökbefogadás előtti gondozásba történő kihelyezéskor a 20. § (1) bekezdésének a)–b) pontjai szerinti életkort már betöltötte, azonban a 10. életévét még nem töltötte be.
+
+(2) Amennyiben a gyermek a 20. § (1) bekezdésének a)–c) pontjai szerinti életkort az örökbefogadás előtti gondozásba történő kihelyezést követő hat hónapon belül tölti be, akkor az örökbefogadó szülő 20. § (1) bekezdése szerinti gyermekgondozási segélyre való jogosultsága a gyermek 20. § (1) bekezdésének a)–c) pontjai szerinti életkorának betöltését követően a jogosultság kezdő időpontjától számított hat hónap elteltéig meghosszabbodik.
+
+(3) Az (1)–(2) bekezdés szerint gyermekgondozási segélyben részesülő személy kereső tevékenységet heti húsz órát meg nem haladó időtartamban folytathat.”
