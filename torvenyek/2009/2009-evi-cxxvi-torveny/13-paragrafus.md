@@ -1,3 +1,0 @@
-13. § A Kjt. a következő 57/B. §-sal egészül ki:
-
-„57/B. § A magasabb vezető beosztású és a vezető beosztású közalkalmazottat az 57/A. §-ban meghatározott mértékű alapszabadság illeti meg, kivéve a bölcsődében, csecsemőotthonban, óvodában, továbbá az alsó-, közép- és felsőfokú oktatás keretében, valamint az egészségügyi ágazatban oktató, nevelő munkát végző megbízott vezetőket, akik az 56. §-ban meghatározott alapszabadságra és az 57. § (3) bekezdése szerinti pótszabadságra jogosultak.”
