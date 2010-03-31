@@ -28,4 +28,4 @@ i) a magasabb összegű családi pótlékban részesülő, 18. életévét betö
 
 (4) A (2) bekezdésben meghatározott adatok közül az adatkezelésre jogosult szerv csak az adott támogatás elbírálásához szükséges adatokat kezelheti.
 
-(5) Az igényelbíráló szerv az állami adóhatóság felé fennálló adatszolgáltatási kötelezettségének teljesítése érdekében kezelheti a jogosult és a jogosult házastársa, élettársa adóazonosító jelét.
+(5) Az igényelbíráló szerv az állami adóhatóság felé fennálló adatszolgáltatási kötelezettségének teljesítése érdekében kezelheti a jogosult adóazonosító jelét.

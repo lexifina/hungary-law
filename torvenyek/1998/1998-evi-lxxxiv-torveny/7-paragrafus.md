@@ -39,3 +39,5 @@ b) akit 30 napot meg nem haladóan szociális intézményben helyeztek el;
 c) aki a szülő kérelmére átmeneti gondozásban részesül, vagy szülőjével együtt családok átmeneti otthonában [Gyvt. 49–51. §] tartózkodik.
 
 (5) Ha a kiskorú szülő gyermekének nincs gyámja, vagy ha a 16. életévét betöltött kiskorú szülő a saját háztartásban nevelt gyermekének gyámjával a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 77. §-ának (2) bekezdése szerint nem él egy háztartásban, a családi pótlékot a kiskorú szülőnek kell megállapítani.
+
+[(5) Ha a kiskorú szülő gyermekének nincs gyámja, vagy ha a 16. életévét betöltött kiskorú szülő a saját háztartásban nevelt gyermekének gyámjával a Polgári Törvénykönyv 3:157. §-ának (4) bekezdése szerint nem él egy háztartásban, a családi pótlékot a kiskorú szülőnek kell megállapítani.]
