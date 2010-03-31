@@ -2,7 +2,7 @@
 
 ## Jogkövetkezmények
 
-21. §[^56] (1) Ha a támogatásra jogosult a 6. § (2) és (3) bekezdésében, a 7. § (2) és (3) bekezdésében, a 8. § (2) bekezdésében, a 9. § (2) bekezdésében, a 10. § (2) bekezdésében, a 11. § (2) bekezdésében, a 12. § (2) bekezdésében, a 13. § (2) bekezdésében, valamint a 14. § (2) bekezdésében foglaltakat megszegi, akkor:
+21. §[^57] (1) Ha a támogatásra jogosult a 6. § (2) és (3) bekezdésében, a 7. § (2) és (3) bekezdésében, a 8. § (2) bekezdésében, a 9. § (2) bekezdésében, a 10. § (2) bekezdésében, a 11. § (2) bekezdésében, a 12. § (2) bekezdésében, a 13. § (2) bekezdésében, valamint a 14. § (2) bekezdésében foglaltakat megszegi, akkor:
 
 a) részleges teljesítés esetén a támogatás 30%-át köteles a jogosulatlanul igénybe vett támogatásokra vonatkozó szabályok szerint visszafizetni;
 
@@ -16,4 +16,4 @@ b) nem teljesítés esetén a támogatás egészét köteles a jogosulatlanul ig
 
 (5) Amennyiben a 3. § (1) bekezdésének a) pontja és b) pontjának ba) alpontja szerinti földhasználati intézkedések esetében a támogatási kérelmet a 2010. évi támogatási kérelem benyújtási időszaktól kezdődően nyújtották be és az 5. § (1) bekezdése szerinti támogatásban részesült területre vonatkozik, úgy annak a területrésznek, amelyen a beruházás megvalósult, az 5. § (1) bekezdése szerinti támogatásra való jogosultsága megszűnik, a támogatásra jogosultat azonban támogatás-visszafizetési kötelezettség nem terheli.
 
-[^56]: A 21. § a 14/2009. (II. 28.) FVM rendelet 19. §-ával megállapított szöveg.
+[^57]: A 21. § a 14/2009. (II. 28.) FVM rendelet 19. §-ával megállapított szöveg.

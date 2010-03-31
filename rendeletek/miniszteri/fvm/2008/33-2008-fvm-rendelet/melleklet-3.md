@@ -60,6 +60,6 @@
 
 | T-ülőfa | 5–6 cm vastag és 2,5–3 méter hosszú rúd vagy oszlop, tetején keresztben 0,5–0,6 m hosszú és kissé vékonyabb vízszintes farúd | talajba ásva vagy ütve, nyílt szántóföldi részeken, fátlan szegélyeken |
 
-3. számú melléklet a 33/2008. (III. 27.) FVM rendelethez[^58]
+3. számú melléklet a 33/2008. (III. 27.) FVM rendelethez[^60]
 
-[^58]: A 3. számú melléklet a 14/2009. (II. 28.) FVM rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^60]: A 3. számú melléklet a 14/2009. (II. 28.) FVM rendelet 21. § (1) bekezdése szerint módosított szöveg.

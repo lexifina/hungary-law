@@ -6,6 +6,6 @@
 
 (3) A támogatás elszámolásának alapját a támogatásra jogosult által benyújtott számlaösszesítők képezik.
 
-(4)[^55] Amennyiben a 3. § (1) és (2) bekezdéseiben szereplő intézkedések esetében 2009. évben az agrár-környezetgazdálkodási intézkedéssel egyazon támogatási kérelem beadási időszakban nyújtottak be támogatási kérelmet, a támogatás folyósításának feltétele, hogy az agrár-környezetgazdálkodási intézkedés az érintett területre vonatkozó területazonosítási kérelme benyújtásra kerüljön.
+(4)[^56] Amennyiben a 3. § (1) és (2) bekezdéseiben szereplő intézkedések esetében 2009. évben az agrár-környezetgazdálkodási intézkedéssel egyazon támogatási kérelem beadási időszakban nyújtottak be támogatási kérelmet, a támogatás folyósításának feltétele, hogy az agrár-környezetgazdálkodási intézkedés az érintett területre vonatkozó területazonosítási kérelme benyújtásra kerüljön.
 
-[^55]: A 19. § (4) bekezdését a 14/2009. (II. 28.) FVM rendelet 18. §-a iktatta be.
+[^56]: A 19. § (4) bekezdését a 14/2009. (II. 28.) FVM rendelet 18. §-a iktatta be.
