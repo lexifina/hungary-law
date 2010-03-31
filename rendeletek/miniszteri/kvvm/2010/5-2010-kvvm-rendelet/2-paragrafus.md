@@ -1,0 +1,1 @@
+## 1. § A 2/1987. (VII. 10.) OKTH rendelkezéssel védetté nyilvánított, valamint a Tállyai Patócs-hegy természetvédelmi terület védettségének fenntartásáról szóló 76/2007. (X. 18.) KvVM rendelettel fenntartott védettségű Tállyai Patócs-hegy természetvédelmi terület természetvédelmi kezelési tervét az 1. melléklet szerint állapítom meg.
