@@ -1,0 +1,77 @@
+# A Kormány 93/2010. (III. 31.) Korm. rendelete
+
+Magyar Közlöny 2010. évi 47. szám, 2010. március 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7c959c061fed7c9198fe1983b1cbac5a50dc1793/dokumentumok/c30f32fa1de301d243f4c8e14ca7a86b7a3973f3/letoltes)
+
+---
+
+A Kormány 93/2010. (III. 31.) Korm. rendelete
+a polgármester öregségi nyugdíja, valamint közszolgálati járadéka megállapításáról
+és folyósításáról szóló 209/2006. (X. 17.) Korm. rendelet módosításáról
+A Kormány a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi
+LXIV. törvény 19. § (3) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott
+feladatkörében eljárva a következőket rendeli el.
+1. §
+(1) A polgármester öregségi nyugdíja, valamint közszolgálati járadéka megállapításáról és folyósításáról szóló 209/2006.
+(X. 17.) Korm. rendelet (a továb biak ban: R.) 1. § (4)–(6) bekezdései helyébe a következő rendelkezések lépnek, ezzel
+egyidejűleg az 1. § a következő (7) bekezdéssel egészül ki:
+„(4) A kérelemhez csatolni kell az Országos Nyugdíjbiztosítási Főigazgatóság által e célra rendszeresített, a kitöltéshez
+szükséges tájékoztatót tartalmazó nyomtatványt vagy elektronikus űrlapot (a továb biak ban: igénybejelentő pótlap)
+és annak a helyi önkormányzatnak a jegyzője, főjegyzője (a továb biak ban együtt: jegyző) által a polgármester öregségi
+nyugdíja és közszolgálati járadéka megállapításához kiállított igazolást, amelynél a polgármester tisztsége megszűnt.
+(5) Az igénybejelentő pótlap tartalmazza az igénylő:
+a) nevét és születési nevét,
+b) Társadalombiztosítási Azonosítási Jelét,
+c) polgármesteri megbízatása megszűnésének évét, hónapját és napját,
+d) arra vonatkozó nyilatkozatát, hogy
+da) öregségi nyugdíj vagy közszolgálati járadék megállapítását kéri,
+db) tisztségét a Pttv. mely rendelkezése szerint látta el foglalkoztatási jogviszonyban vagy társadalmi megbízatásban,
+dc) tisztsége a Pttv. mely rendelkezése szerint szűnt meg,
+dd) munkavégzésre irányuló jogviszonyban áll vagy sem,
+e) igénybejelentő pótlapja kiállításának helyét, évét, hónapját és napját,
+f) aláírását és
+g) az igényfelvevő nevét, aláírását.
+(6) A polgármester öregségi nyugdíja és közszolgálati járadéka megállapításához kiállított igazolás tartalmazza:
+a) a jegyző megnevezését és címét,
+b) az ügyirat számát, az ügyintéző nevét és telefonszámát,
+c) az (5) bekezdés a)–c) pontjaiban foglalt adatokat,
+d) a jegyző arra vonatkozó nyilatkozatát, hogy a polgármester megbízatása megszűnésének időpontjában tisztségét
+foglalkoztatási jogviszonyban vagy társadalmi megbízatásban látta el,
+e) a Pttv. 13/A. § és 13/B. § szerint a tisztségben folyamatosan eltöltött időt (év, hónap és nap)
+ea) összesítve és a tisztség szerint külön bontásban,
+eb) a kezdés és a befejezés éve, hónapja és napja megjelölésével,
+ec) a foglakoztatási jogviszonyban és a társadalmi megbízatásban eltöltött időszak megjelölésével,
+f) az igazolás kiállításának helyét, évét, hónapját és napját és
+g) a jegyző aláírását, bélyegzőjét.
+(7) A megállapított öregségi nyugdíjat, közszolgálati járadékot a Nyugdíjfolyósító Igazgatóság (a továb biak ban:
+folyósító szerv) folyósítja.”
+(2) Az R. 5. §-a helyébe a következő rendelkezés lép:
+„5. § (1) Ha a polgármester a munkavégzésre irányuló jogviszonya, rokkantsági (baleseti rokkantsági) nyugdíja
+megszűnését az Országos Nyugdíjbiztosítási Főigazgatóság által e célra rendszeresített nyomtatványon vagy
+elektronikus űrlapon bejelenti a folyósító szervnek, az dönt a megszüntetett közszolgálati járadék időközi emelésekkel
+növelt összegének újrafolyósításáról.
+(2) A közszolgálati járadék újrafolyósítása iránti kérelem tartalmazza a korábban közszolgálati járadékban részesült
+személy
+a) nevét és születési nevét,
+b) születési helyét, idejét és anyja nevét,
+c) lakcímét,
+d) nyugdíjfolyósítási törzsszámát és Társadalombiztosítási Azonosítási Jelét,
+
+e) munkavégzésre irányuló jogviszonya, rokkantsági (baleseti rokkantsági) nyugdíjjogosultsága megszűnésének
+évét, hónapját és napját,
+f) aláírását és
+g) a kérelem kiállításának helyét, évét, hónapját és napját.”
+(3) Az R. 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A polgármester öregségi nyugdíjának, közszolgálati járadékának megfelelő összeget a központi költségvetés
+a Nyugdíjbiztosítási Alap részére megtéríti. A megtérítésére, elszámolására, folyósítására a kincstári számlavezetés és
+finanszírozás, a feladatfinanszírozási körbe tartozó előirányzatok felhasználása, valamint egyes államháztartási
+adatszolgáltatások rendjéről szóló jogszabálynak a társadalombiztosítás pénzügyi alapjainak finanszírozási és
+elszámolási rendjére vonatkozó rendelkezéseit kell alkalmazni.”
+(4) Az R. 8. § e) pontjában a „Pttv. 2. § (1) bekezdésének a) pontja” szövegrész helyébe a „Pttv. 2. § (1) bekezdés a) vagy
+c) pontja” szöveg lép.
+2. § Hatályát veszti az R. 6. § (2) bekezdése, a 7. § (7) bekezdése és az 1–4. mellékletei.
+3. § Ez a rendelet 2010. április 1-jén lép hatályba és a hatálybalépését követő napon a hatályát veszti.
+Bajnai Gordon s. k.,
+miniszterelnök
+
+V.
+A Kor mány tag ja i nak ren de le tei
