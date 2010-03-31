@@ -22,7 +22,7 @@ b) e törvény 52. §-ának (28) bekezdése.
 
 (8) E törvény 30. §-a és 51. § (10) bekezdése 2010. május 1-jén lép hatályba, azzal, hogy
 
-a) az Ebktv. 63/A. § (5) bekezdését a külön jogszabály szerint leghátrányosabb helyzetű kistérségekben levő, valamint a húszezer lakos feletti települések esetében 2010. május 1-től, egyéb települések esetében 2011. január 1-től kell alkalmazni,
+a) az Ebktv. 63/A. § (5) bekezdését a külön jogszabály szerint leghátrányosabb helyzetű kistérségekben levő, valamint a húszezer lakos feletti települések esetében 2010. július 1-től, egyéb települések esetében 2011. január 1-től kell alkalmazni,
 
 b) az Ebktv. 63/A. § (6)–(7) bekezdését a 2010. július 1-jét követően meghirdetett pályázatokra kell alkalmazni.
 
