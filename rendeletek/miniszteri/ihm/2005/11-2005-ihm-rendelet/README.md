@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-11-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2005-11-20-0P.3 | 11/2005. (IX. 28.) IHM rendelet |
+| 2010-04-01 | 2005-11-20-0P.4 | 3/2010. (III. 26.) MeHVM rendelet |
