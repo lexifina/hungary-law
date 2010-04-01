@@ -4,17 +4,17 @@
 
 a) a munkaköri alkalmasság esetében a munkáltató által megjelölt munkakörre,
 
-b) a szakmai alkalmasság esetében az adott szakmára, illetve szakmai jellegű képzésre; a munkanélküli esetében szakmai jellegű képzésre, átképzésre, az adott személy számára ellátható foglalkozási csoportokra vagy szakmák megjelölésére,
+b)[^8] a szakmai alkalmasság esetében az adott szakmára, illetve szakmai jellegű képzésre; az álláskereső esetében szakmai jellegű képzésre, átképzésre, az adott személy számára ellátható foglalkozási csoportokra vagy szakmák megjelölésére,
 
 c) a személyi higiénés alkalmasság esetében a járványügyi szempontból kiemelt jelentőségű munkaterületen folytatott tevékenységre
 
 történik.
 
-(2)[^10] A munkaköri és a szakmai alkalmasság orvosi vizsgálata lehet előzetes, időszakos és soron kívüli. A munkaköri alkalmasság vizsgálata és véleményezése a 8. §-ban meghatározott esetekben záróvizsgálattal egészül ki. A szakképző intézménybe jelentkező tanulónál a beiskolázáskor – a pedagógus, a szülő, illetve a tanuló kérésére – pályaválasztási tanácsadás céljából iskolaorvosi vizsgálat végezhető.
+(2)[^9] A munkaköri és a szakmai alkalmasság orvosi vizsgálata lehet előzetes, időszakos és soron kívüli. A munkaköri alkalmasság vizsgálata és véleményezése a 8. §-ban meghatározott esetekben záróvizsgálattal egészül ki. A szakképző intézménybe jelentkező tanulónál a beiskolázáskor – a pedagógus, a szülő, illetve a tanuló kérésére – pályaválasztási tanácsadás céljából iskolaorvosi vizsgálat végezhető.
 
-(3)[^11] A személyi higiénés alkalmassági vizsgálat lehet előzetes, időszakos és soron kívüli.
+(3)[^10] A személyi higiénés alkalmassági vizsgálat lehet előzetes, időszakos és soron kívüli.
 
-(4) A munkaköri és a szakmai alkalmasság vizsgálatának célja annak elbírálása, hogy a munkavállaló, illetve a tanuló vagy a hallgató, a munkanélküli:
+(4)[^11] A munkaköri és a szakmai alkalmasság vizsgálatának célja annak elbírálása, hogy a munkavállaló, illetve a tanuló vagy a hallgató, az álláskereső:
 
 a) a munkavégzésből és a munkakörnyezetből eredő megterhelés által okozott igénybevétele
 
@@ -42,7 +42,9 @@ g) külföldön történő munkavégzés esetén egészségi szempontból várha
 
 (7)[^13] A soron kívüli munkaköri, illetve személyi higiénés alkalmasság vizsgálata keretében végzett, HIV fertőzés megállapítására irányuló szűrővizsgálati kötelezettség körét, a szűrővizsgálatok elvégzésének rendjét külön jogszabály állapítja meg.
 
-[^10]: A 3. § (2) bekezdése a 80/2003. (XII. 23.) ESZCSM rendelet 2. §-ával megállapított szöveg.
-[^11]: A 3. § (3) bekezdése a 27/2000. (IX. 30.) EüM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (1) bekezdés b) pontja a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 3. § (2) bekezdése a 80/2003. (XII. 23.) ESZCSM rendelet 2. §-ával megállapított szöveg.
+[^10]: A 3. § (3) bekezdése a 27/2000. (IX. 30.) EüM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (4) bekezdés nyitó szövegrésze a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^12]: A 3. § (6) bekezdése a 27/2000. (IX. 30.) EüM rendelet 3. §-ának (2) bekezdésével megállapított szöveg.
 [^13]: A 3. § (7) bekezdését a 18/2002. (XII. 28.) ESZCSM rendelet 14. §-ának a) pontja iktatta a szövegbe.

@@ -30,13 +30,13 @@
 
 ## ** Az élelmiszerekről szóló 1995. évi XC. törvény fogalommeghatározása szerinti résztevékenységeket foglalja magában.
 
-2. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^59]
+2. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^67]
 
 Egészségügyi nyilatkozat
 
 ## (Járványügyi érdekből kiemelt munkakörökben dolgozók, tanulók* számára)
 
-I. Munkavállaló/tanuló/munkanélküli/munkát végző személy (a továbbiakban együtt: vizsgált személy)
+I. Munkavállaló, tanuló, álláskereső vagy munkát végző személy (a továbbiakban együtt: vizsgált személy)
 
 ## Neve: .............................
 
@@ -96,4 +96,4 @@ _______
 
 * Tanulók esetében a szakmai gyakorlat megkezdése előtt 1 héten belül töltendő ki.
 
-[^59]: A 2. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének c) pontja szerint módosított szöveg.
+[^67]: A 2. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének c) pontja, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.

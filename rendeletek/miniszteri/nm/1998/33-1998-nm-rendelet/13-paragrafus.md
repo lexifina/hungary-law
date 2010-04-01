@@ -1,8 +1,8 @@
 ## A munkaköri, szakmai, illetve személyi higiénés alkalmassági vélemény
 
-13. § (1)[^43] A munkaköri, szakmai, illetve személyi higiénés alkalmassági véleményben meg kell határozni, hogy a vizsgált személy az adott munkakörre, tevékenységre, a tanuló és hallgató esetében az adott szakmára, a munkanélküli esetében az adott szakmára, ellátható foglalkozási csoportokra alkalmas, ideiglenesen nem alkalmas vagy nem alkalmas.
+13. § (1)[^47] A munkaköri, szakmai, illetve személyi higiénés alkalmassági véleményben meg kell határozni, hogy a vizsgált személy az adott munkakörre, tevékenységre, a tanuló és hallgató esetében az adott szakmára, az álláskereső esetében az adott szakmára, ellátható foglalkozási csoportokra alkalmas, ideiglenesen nem alkalmas vagy nem alkalmas.
 
-(2)[^44] A 11. és 12. §-ban foglalt szervek a munkaköri, szakmai, illetve személyi higiénés alkalmassági vélemény közlésén túlmenően a foglalkoztatással, képzéssel kapcsolatos korlátozásokat írhatnak elő, az egyén, illetve munkatársai egészségének védelme érdekében.
+(2)[^48] A 11. és 12. §-ban foglalt szervek a munkaköri, szakmai, illetve személyi higiénés alkalmassági vélemény közlésén túlmenően a foglalkoztatással, képzéssel kapcsolatos korlátozásokat írhatnak elő, az egyén, illetve munkatársai egészségének védelme érdekében.
 
 Az ideiglenesen nem alkalmas véleményezésnél meg kell jelölni a következő vizsgálat időpontját.
 
@@ -10,13 +10,14 @@ Az ideiglenesen nem alkalmas véleményezésnél meg kell jelölni a következő
 
 (4) A véleményt és a (2) bekezdésben szereplő korlátozásokat, a munkaköri, illetve szakmai alkalmasságot véleményező szerv a 12. számú melléklet szerinti, az ,,Elsőfokú munkaköri orvosi alkalmassági vélemény'' elnevezésű nyomtatványon közli a munkáltatóval, a szakképző és felsőoktatási intézménnyel, munkaügyi központtal.
 
-(5) A munkaköri, szakmai, illetve személyi higiénés alkalmasság vizsgálatát végző az alkalmatlanság okát a munkavállalóval, tanulóval, hallgatóval, munkanélkülivel, illetve a munkát végző személlyel ismerteti; a munkáltatóval, illetve a szakképző és felsőoktatási intézménnyel, munkaügyi központtal csak a vizsgált személy írásbeli hozzájárulásával közölheti.
+(5)[^49] A munkaköri, szakmai, illetve személyi higiénés alkalmasság vizsgálatát végző az alkalmatlanság okát a munkavállalóval, tanulóval, hallgatóval, álláskeresővel, illetve a munkát végző személlyel ismerteti; a munkáltatóval, illetve a szakképző és felsőoktatási intézménnyel, munkaügyi központtal csak a vizsgált személy írásbeli hozzájárulásával közölheti.
 
-(6)[^45] A 11. § (1)–(5) bekezdéseiben megjelölt orvos a nem alkalmasnak véleményezett személyt betegsége esetén vizsgálatra vagy gyógykezelésre az alapellátás orvosához, illetve területileg illetékes szakellátó helyre utalja.
+(6)[^50] A 11. § (1)–(5) bekezdéseiben megjelölt orvos a nem alkalmasnak véleményezett személyt betegsége esetén vizsgálatra vagy gyógykezelésre az alapellátás orvosához, illetve területileg illetékes szakellátó helyre utalja.
 
-(7)[^46] A pályaválasztási tanácsadás céljából vizsgálatot végző orvos a szakvéleményét a 15/A. számú melléklet szerinti nyomtatványon adja meg a vizsgált személynek. Amennyiben a vizsgálatot végző orvos nem javasolja a vizsgált személyt az adott szakmára, az a szakképző intézménybe történő felvételnek nem képezi akadályát, de az első szakképzési évfolyamra való felvételnél a szakvéleményt figyelembe kell venni.
+(7)[^51] A pályaválasztási tanácsadás céljából vizsgálatot végző orvos a szakvéleményét a 15/A. számú melléklet szerinti nyomtatványon adja meg a vizsgált személynek. Amennyiben a vizsgálatot végző orvos nem javasolja a vizsgált személyt az adott szakmára, az a szakképző intézménybe történő felvételnek nem képezi akadályát, de az első szakképzési évfolyamra való felvételnél a szakvéleményt figyelembe kell venni.
 
-[^43]: A 13. § (1) bekezdése a 27/2000. (IX. 30.) EüM rendelet 10. §-ának (1) bekezdésével megállapított szöveg.
-[^44]: A 13. § (2) bekezdése a 27/2000. (IX. 30.) EüM rendelet 10. §-ának (2) bekezdése szerint kiegészített szöveg.
-[^45]: A 13. § (6) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének j) pontja szerint módosított szöveg.
-[^46]: A 13. § (7) bekezdését a 80/2003. (XII. 23.) ESZCSM rendelet 6. §-a iktatta a szövegbe.
+[^47]: A 13. § (1) bekezdése a 27/2000. (IX. 30.) EüM rendelet 10. §-ának (1) bekezdésével megállapított, a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^48]: A 13. § (2) bekezdése a 27/2000. (IX. 30.) EüM rendelet 10. §-ának (2) bekezdése szerint kiegészített szöveg.
+[^49]: A 13. § (5) bekezdése a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^50]: A 13. § (6) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (4) bekezdésének j) pontja szerint módosított szöveg.
+[^51]: A 13. § (7) bekezdését a 80/2003. (XII. 23.) ESZCSM rendelet 6. §-a iktatta a szövegbe.

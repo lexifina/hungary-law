@@ -24,7 +24,7 @@ j) biológiai monitorozás: biológiai anyagból (vér, vizelet) a munkakörnyez
 
 k) munkaügyi központ: megyei (fővárosi) munkaügyi központ és kirendeltségei;
 
-l)[^1] foglalkoztathatóság szakvéleményezése: annak megállapítása, hogy a vizsgált személy megváltozott munkaképessége mennyiben befolyásolja a munkavégzését különböző foglalkozásokban, illetve az alkalmi munkavállalók esetében annak megállapítása, hogy az alkalmi munkavállaló mely foglalkoztatási korlátozás mellett folytathat tevékenységet;
+l)[^1] foglalkoztathatóság szakvéleményezése: annak megállapítása, hogy a vizsgált személy megváltozott munkaképessége mennyiben befolyásolja a munkavégzését különböző foglalkozásokban, vagy az egyszerűsített foglalkoztatás körébe tartozó idénymunka és alkalmi munka esetében annak megállapítása, hogy a munkavállaló mely foglalkoztatási korlátozás mellett folytathat tevékenységet;
 
 m) munkaviszony: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény hatálya alá tartozó munkavégzésre irányuló jogviszony;
 
@@ -36,6 +36,6 @@ p) nemrégen szült nő: aki legfeljebb hat héttel korábban szült, de gyermek
 
 q)[^3]
 
-[^1]: Az 1. § l) pontja a 18/2007. (V. 10.) SZMM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § l) pontja a 8/2010. (III. 31.) SZMM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § n)-q) pontját a 27/2000. (IX. 30.) EüM rendelet 1. §-a iktatta a szövegbe.
 [^3]: Az 1. § q) pontot a 18/2007. (V. 10.) SZMM rendelet 24. § d) pontja hatályon kívül helyezte.

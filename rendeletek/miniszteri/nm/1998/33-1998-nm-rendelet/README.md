@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-33-20-3
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 1998-33-20-3D.14 | 33/1998. (VI. 24.) NM rendelet |
+| 2010-04-01 | 1998-33-20-3D.15 | 8/2010. (III. 31.) SZMM rendelet |

@@ -2,7 +2,7 @@
 
 15. § (1) A munkáltatónak írásban kell meghatároznia
 
-a)[^52] a munkaköri alkalmassági vizsgálatok rendjét, valamint a vizsgálatokkal kapcsolatos feladatait, beleértve az időszakos munkaköri alkalmassági vizsgálatok irányát és gyakoriságát is, figyelemmel a 3. számú mellékletben foglaltakra is,
+a)[^57] a munkaköri alkalmassági vizsgálatok rendjét, valamint a vizsgálatokkal kapcsolatos feladatait, beleértve az időszakos munkaköri alkalmassági vizsgálatok irányát és gyakoriságát is, figyelemmel a 3. számú mellékletben foglaltakra is,
 
 b) azokat a munkaköröket, amelyekben az e rendelet 8. számú melléklete szerinti megterhelések miatt a 10. § szerinti személyek nem foglalkoztathatók.
 
@@ -10,9 +10,9 @@ b) azokat a munkaköröket, amelyekben az e rendelet 8. számú melléklete szer
 
 (3) A munkáltató köteles
 
-a)[^53] munkába lépés előtt valamennyi munkavállalót, a munkahely, a munkakör megváltoztatása előtt pedig a 4. § (1) bekezdés b) pontjába, továbbá a kéthetes időtartamot meghaladó külföldi munkavégzés esetén a 4. § (1) bekezdés c) pontjába tartozó munkavállalót előzetes,
+a)[^58] munkába lépés előtt valamennyi munkavállalót, a munkahely, a munkakör megváltoztatása előtt pedig a 4. § (1) bekezdés b) pontjába, továbbá a kéthetes időtartamot meghaladó külföldi munkavégzés esetén a 4. § (1) bekezdés c) pontjába tartozó munkavállalót előzetes,
 
-b)[^54] e rendelet 6. §-a (1) bekezdés hatálya alá tartozó munkavállalót időszakos,
+b)[^59] e rendelet 6. §-a (1) bekezdés hatálya alá tartozó munkavállalót időszakos,
 
 c) e rendelet 7. §-ának (1) bekezdése hatálya alá tartozó munkavállalót soron kívüli,
 
@@ -24,19 +24,17 @@ vizsgálatra küldeni a 14. számú mellékletben megjelölt ,,Beutalás munkak�
 
 a) valamennyi tanulóját előzetes,
 
-b)[^55] a rendelet 6. §-a (3) bekezdésének hatálya alá tartozó tanuló időszakos,
+b)[^60] a rendelet 6. §-a (3) bekezdésének hatálya alá tartozó tanuló időszakos,
 
 c) e rendelet 7. §-ának (1) bekezdés hatálya alá tartozó tanulót vagy hallgatót soron kívüli
 
 vizsgálatra küldeni.
 
-(5)[^56] A munkaügyi központ a szociális és munkaügyi miniszter rendeletében meghatározott esetekben a munkanélkülit munkaköri, szakmai alkalmassági vizsgálatra vagy a foglalkoztathatóság szakvéleményezésére, az alkalmi munkavállalót a foglalkoztathatóság szakvéleményezésére küldi. A foglalkozás-egészségügyi szakellátóhely
+(5)[^61] A munkaügyi központ a munkaügyért felelős miniszter rendeletében meghatározott esetekben az álláskeresőt munkaköri, szakmai alkalmassági vizsgálatra vagy a foglalkoztathatóság szakvéleményezésére küldi. A foglalkozás-egészségügyi szakellátóhely
 
-a) a munkaköri szakmai alkalmasságról a 15. számú melléklet szerinti nyomtatványon,
+a) az álláskereső munkaköri szakmai alkalmasságáról a 15. számú melléklet szerinti nyomtatványon,
 
-b) a munkanélküli foglalkoztathatóságról a 16. számú melléklet szerinti nyomtatványon,
-
-c) az alkalmi munkavállaló foglalkoztathatóságáról a 16/A. számú melléklet szerinti nyomtatványon
+b) az álláskereső foglalkoztathatóságáról a 16. számú melléklet szerinti nyomtatványon
 
 adja meg a véleményét.
 
@@ -44,8 +42,8 @@ adja meg a véleményét.
 
 (7) Ha a munkaköri, illetve szakmai alkalmasságot elbíráló szerv a munkahelyi körülményekről a helyszínen kíván tájékozódni, a munkáltatónak, szakképző vagy felsőoktatási intézménynek lehetővé kell ezt tenni.
 
-[^52]: A 15. § (1) bekezdésének a) pontja a 18/2007. (V. 10.) SZMM rendelet 10. § (9) bekezdésével megállapított szöveg.
-[^53]: A 15. § (3) bekezdésének a) pontja a 27/2000. (IX. 30.) EüM rendelet 12. §-ával megállapított szöveg.
-[^54]: A 15. § (3) bekezdésének b) pontja a 27/2000. (IX. 30.) EüM rendelet 14.§-ának (1) bekezdése szerint módosított szöveg.
-[^55]: A 15. § (4) bekezdésének b) pontja a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének b) pontja szerint módosított szöveg.
-[^56]: A 15. § (5) bekezdése a 18/2007. (V. 10.) SZMM rendelet 10. § (10) bekezdésével megállapított szöveg.
+[^57]: A 15. § (1) bekezdésének a) pontja a 18/2007. (V. 10.) SZMM rendelet 10. § (9) bekezdésével megállapított szöveg.
+[^58]: A 15. § (3) bekezdésének a) pontja a 27/2000. (IX. 30.) EüM rendelet 12. §-ával megállapított szöveg.
+[^59]: A 15. § (3) bekezdésének b) pontja a 27/2000. (IX. 30.) EüM rendelet 14.§-ának (1) bekezdése szerint módosított szöveg.
+[^60]: A 15. § (4) bekezdésének b) pontja a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének b) pontja szerint módosított szöveg.
+[^61]: A 15. § (5) bekezdése a 8/2010. (III. 31.) SZMM rendelet 6. § (3) bekezdésével megállapított szöveg.

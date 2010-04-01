@@ -28,8 +28,8 @@
 
 ## * A megfelelő szöveget alá kell húzni
 
-16. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^67]
+16. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^75]
 
 Foglalkozás-egészségügyi szakvélemény a foglalkoztathatóságról
 
-[^67]: A 16. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (3) bekezdésének b) pontja szerint kiegészített szöveg.
+[^75]: A 16. számú melléklet a 27/2000. (IX. 30.) EüM rendelet 14. §-a (3) bekezdésének b) pontja szerint kiegészített szöveg.

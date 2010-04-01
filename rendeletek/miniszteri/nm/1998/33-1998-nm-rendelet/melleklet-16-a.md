@@ -58,6 +58,6 @@
 
 |  | 4.1. |  |  | Fokozott figyelmet igénylő munkát nem végezhet |  |  |  |  |  |
 
-16/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^68]
+16/A. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^76]
 
-[^68]: A 16/A. számú mellékletet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdése iktatta be.
+[^76]: A 16/A. számú mellékletet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdése iktatta be, szövege a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés g) pontja szerint módosított szöveg.
