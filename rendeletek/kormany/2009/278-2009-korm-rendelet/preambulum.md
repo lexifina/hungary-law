@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, valamint a Magyar Köztársaság 2009. évi költségvetésről szóló 2008. évi CII. törvény (a továbbiakban: költségvetési törvény) 49. § (1) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének g) pontjában foglalt feladatkörében eljárva a következő rendeletet alkotja:
