@@ -1,4 +1,4 @@
-5. § (1)[^15]
+5. § (1)[^16]
 
 (2) Az adóhatóság az elektronikus űrlap adatait informatikai rendszerében rögzíti. Az adózó (képviselője) az adóhatóság informatikai rendszerében rögzített adatokat az érkeztető szám felhasználásával ellenőrizheti.
 
@@ -6,4 +6,4 @@
 
 (4) Az elektronikus űrlapnak az adózó (cég) együttes képviselete miatt szükséges együttes jóváhagyása esetén az adóhatóság valamely jóváhagyás hiányáról a KR értesítési tárhely útján az adózót értesíti és – az elektronikus űrlap feldolgozása visszautasításának terhe mellett – három napos határidő tűzésével felhívja a jóváhagyás teljesítésére.
 
-[^15]: Az 5. § (1) bekezdését a 40/2009. (XII. 22.) PM rendelet 3. § (3) bekezdése hatályon kívül helyezte.
+[^16]: Az 5. § (1) bekezdését a 40/2009. (XII. 22.) PM rendelet 3. § (3) bekezdése hatályon kívül helyezte.
