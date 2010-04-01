@@ -34,6 +34,6 @@ f) a munkatapasztalat-szerzést segítő, a foglalkoztató által alkalmazottai 
 
 a) az ösztöndíjas foglalkoztatási jogviszony fennállása alatt tartózkodik olyan magatartás tanúsításától, amely veszélyeztetheti a foglalkoztató jogos gazdasági érdekeit,
 
-b) a tevékenysége során tudomására jutó állam- és szolgálati titkot külön jogszabály rendelkezései szerint megőrzi.
+b) a tevékenysége során tudomására jutó minősített adatot külön jogszabály rendelkezései szerint megőrzi.
 
 (8) Az ösztöndíjas foglalkoztatásról szóló szerződést a foglalkoztató és az ösztöndíjas foglalkoztatott csak közös megegyezéssel módosíthatja. Erre a (6) bekezdést megfelelően alkalmazni kell.
