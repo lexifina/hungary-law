@@ -1,0 +1,1 @@
+## 1. § Az egészségügyi bírságot az Állami Népegészségügyi és Tisztiorvosi Szolgálat azon regionális intézetének a Magyar Államkincstárnál vezetett, az 1. melléklet szerinti előirányzat-felhasználási keretszámlájára kell átutalással vagy készpénzátutalással megfizetni, amelynek illetékességi területén működő kistérségi intézet a bírságot kiszabta.
