@@ -8,4 +8,4 @@ Tbj. 57. § (1) E törvény hatálybaléptetéséről a magánnyugdíjról és
 
 (2)
 
-(3) Az alkalmi munkavégzésre e törvény rendelkezéseit az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvényben foglalt eltérések figyelembevételével kell alkalmazni.
+(3) Az egyszerűsített foglalkoztatásra e törvény rendelkezéseit az egyszerűsített foglalkoztatásról szóló külön törvényben foglalt eltérések figyelembevételével kell alkalmazni.
