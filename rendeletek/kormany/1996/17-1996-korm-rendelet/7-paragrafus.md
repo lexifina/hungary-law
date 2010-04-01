@@ -6,9 +6,10 @@
 
 (4)[^20] A Magyar Köztársaság által a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződésben[^21] és az ennek végrehajtására a Nemzetközi Atomenergia Ügynökséggel (a továbbiakban: NAÜ) kötött biztosítéki egyezményben vállalt kötelezettségnek megfelelően – az MTA KK IKI jelentése alapján – az OAH jelentést küld a NAÜ-nek a talált vagy lefoglalt nukleáris anyagról.
 
-(5) A NAÜ által létrehozott adatbank számára az OAH szolgáltat adatokat – államtitkot kivéve –, az anyagok illegális forgalmával kapcsolatos nemzetközi együttműködés elősegítése érdekében.
+(5)[^22] A NAÜ által létrehozott adatbank számára az OAH szolgáltat adatokat – a „Szigorúan titkos!” minősítési szintű minősített adatot kivéve –, az anyagok illegális forgalmával kapcsolatos nemzetközi együttműködés elősegítése érdekében.
 
 [^18]: A 7. § (1) bekezdése a 122/1998. (VI. 17.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^19]: A 7. § (3) bekezdése a 122/1998. (VI. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^20]: A 7. § (4) bekezdése a 122/1998. (VI. 17.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^21]: Lásd a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződést kihirdető 1970. évi 12. törvényerejű rendeletet.
+[^22]: A 7. § (5) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (1) bekezdése szerint módosított szöveg.
