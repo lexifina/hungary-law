@@ -1,6 +1,6 @@
 169. § (1) Azt, akitől testi vagy szellemi fogyatkozása miatt helyes vallomás nem várható, tanúként kihallgatni nem lehet.
 
-(2) A tanú, ha a titoktartás alól felmentést nem kapott, nem hallgatható ki olyan kérdésről, amely államtitoknak vagy szolgálati titoknak minősül.
+(2) A tanú, ha a titoktartás alól felmentést nem kapott, nem hallgatható ki olyan kérdésről, amely minősített adatnak minősül.
 
 (3) A titoktartási kötelezettség az annak alapjául szolgáló viszony megszűnése után is fennmarad.
 

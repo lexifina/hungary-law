@@ -20,4 +20,4 @@ e) elrendelheti a felek tárgyaláson kívüli, egymás jelenlétében történ�
 
 (5) Ha a (3)–(4) bekezdésben foglalt intézkedések megtételével egyidejűleg a tárgyalási határnap kitűzésére nem kerül sor, a bíróság – az intézkedés megtételekor – a keresetlevelet kézbesíti az ellenfél számára.
 
-(6) Ha a bíróság észleli, hogy a keresetlevél vagy az ahhoz csatolt okirat államtitkot vagy szolgálati titkot tartalmaz, megkeresi a minősítőt a megismerési engedély beszerzése végett. A 192/A. § rendelkezéseit ebben az esetben is megfelelően alkalmazni kell.
+(6) Ha a bíróság észleli, hogy a keresetlevél vagy az ahhoz csatolt okirat minősített adatot tartalmaz, megkeresi a minősítőt a megismerési engedély beszerzése végett. A 192/A. § rendelkezéseit ebben az esetben is megfelelően alkalmazni kell.

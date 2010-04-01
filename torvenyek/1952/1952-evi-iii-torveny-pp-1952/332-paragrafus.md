@@ -14,6 +14,6 @@ d) az alperes kérelmére elrendeli a keresettel megtámadott környezetvédelmi
 
 (4) A végrehajtás felfüggesztése tárgyában hozott végzés ellen külön fellebbezésnek van helye. A bíróságnak a végrehajtás felfüggesztését elrendelő végzése fellebbezésre tekintet nélkül végrehajtható.
 
-(5) Ha a közigazgatási eljárásban ellenérdekű fél is szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
+(5) Ha a közigazgatási eljárásban ellenérdekű ügyfél vagy a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt szerv ügyfélként szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
 
 (6) Ha a közigazgatási határozat meghozatalára szakhatósági állásfoglalás alapulvételével került sor, az alperes a szakhatóságot perbe hívhatja, amely a perbehívást nem utasíthatja vissza.
