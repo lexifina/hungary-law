@@ -1,0 +1,5 @@
+23. § (1) A munkavállaló kérelmére a Hivatal védelmet nyújt a munkavállalónak, ha a közérdekvédelmi bejelentéssel összefüggésben a munkáltató vagy más részéről hátrány érte, vagy az eset körülményei alapján fennáll a veszélye annak, hogy hátrány éri. Ennek körében a Hivatal a munkavállalónak jogi tanácsadást nyújt, szükség esetén jogi képviseletet és anyagi támogatást biztosít. A munkavállaló kérelmére a munkavállaló személyes adatait a Hivatal zártan kezeli.
+
+(2) A munkavállaló kérelmére a Hivatal a munkavállaló részére – ügyvédi megbízás útján – a közérdekvédelmi bejelentés miatt a munkáltató által okozott hátrányra alapított jogvita esetén jogi képviseletet, továbbá anyagi hátránnyal járó munkáltatói intézkedés esetén pénzbeli támogatást biztosít. A jogi képviselet költségét a Hivatal megelőlegezi. Ha a bíróság az ügyvéd díjának viselésére a munkáltatót kötelezte, a megelőlegezett díjat a munkáltató köteles az állam javára megfizetni, az ítélet erre vonatkozó rendelkezése szerint.
+
+(3) Ha a munkavállaló a védelme érdekében a Hivatal eljárását kezdeményezte, az Egyenlő Bánásmód Hatóság eljárása nem kezdeményezhető.
