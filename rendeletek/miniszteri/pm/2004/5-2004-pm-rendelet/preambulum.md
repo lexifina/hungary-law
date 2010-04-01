@@ -1,1 +1,0 @@
-A tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 451. §-a (2) bekezdésének l) pontjában, valamint a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 235. §-a (2) bekezdésének g) pontjában kapott felhatalmazás alapján az alábbiakat rendelem el:

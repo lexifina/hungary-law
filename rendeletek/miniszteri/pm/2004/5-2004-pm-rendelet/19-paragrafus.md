@@ -1,1 +1,0 @@
-## 18. § Az árutőzsdei szolgáltatást nyújtó és a külföldi befektetési szolgáltató árutőzsdei szolgáltatást nyújtó magyarországi fióktelepe az árutőzsdei kereskedés adatairól havonta készített jelentését a tárgyhónapot követő hónap 20. munkanapjának végéig eljuttatja a Felügyelethez.

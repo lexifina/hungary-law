@@ -1,7 +1,0 @@
-7. § (1) A befektetési vállalkozás az ügyfelekkel szembeni kockázatvállalásokról havonta készített jelentését a tárgyhónapot követő hónap 20. munkanapjának végéig eljuttatja a Felügyelethez.
-
-(2)[^7] A befektetési vállalkozás és a külföldi székhelyű befektetési vállalkozás magyarországi fióktelepe a beszámolási időszak végén fennálló befektetési hitelek és halasztott pénzügyi teljesítések állományának adatairól, a befektetési szolgáltató és a külföldi székhelyű befektetési szolgáltató magyarországi fióktelepe a beszámolási időszak végén jegyzési garanciavállalás, valamint hozamra és tőkemegóvásra tett ígéret miatt fennálló kötelezettségeinek adatairól havonta készített jelentését a tárgyhónapot követő hónap 20. munkanapjának végéig eljuttatja a Felügyelethez.
-
-(3) A befektetési szolgáltató és a külföldi székhelyű befektetési szolgáltató magyarországi fióktelepe a beszámolási időszak végén fennálló értékpapír-kölcsönzési ügyletekről, a befektetési vállalkozás és a külföldi székhelyű befektetési vállalkozás magyarországi fióktelepe a beszámolási időszak végén fennálló repóügyleteiről havonta készített jelentését a tárgyhónapot követő hónap 20. munkanapjának végéig eljuttatja a Felügyelethez.
-
-[^7]: A 7. § (2) bekezdése az 54/2005. (XII. 28.) PM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést először a 2006. január hónapra vonatkozó jelentések esetében kell alkalmazni.

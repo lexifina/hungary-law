@@ -1,9 +1,0 @@
-9. § (1) A Felügyelet a befektetési vállalkozást és a kereskedési könyvet vezető hitelintézetet a piaci kockázat alapú tőkekövetelmény számításához kapcsolódóan, a kereskedési könyvben nyilvántartott pozíciókról és a pozíciókockázat tőkekövetelményéről, a partnerkockázat tőkekövetelményéről előkészített jelentés előállítására kötelezheti. A jelentést az intézmény a felhívásban foglalt időszakra vonatkozóan, az abban foglalt határidővel eljuttatja a Felügyelethez.
-
-(2) A Felügyelet a befektetési vállalkozást a tevékenysége egészében meglévő árukockázat és devizaárfolyam-kockázat tőkekövetelményéről, a kereskedési könyvet vezető hitelintézetet a tevékenysége egészében meglévő árukockázat tőkekövetelményéről előkészített jelentés előállítására kötelezheti. A jelentést az intézmény a felhívásban foglalt időszakra vonatkozóan, az abban foglalt határidővel eljuttatja a Felügyelethez.
-
-(3) A befektetési vállalkozás a nagykockázat vállalás tőkekövetelményéről, a befektetési vállalkozás és a kereskedési könyvet vezető hitelintézet a nagykockázat vállalási korlát tárgyhavi túllépéseiről havonta készített jelentését a tárgyhónapot követő hónap 20. munkanapjának végéig eljuttatja a Felügyelethez. A kereskedési könyvet vezető hitelintézet a nagykockázat vállalási korlát tárgyhavi túllépéseiről havonta készített jelentését a tárgyhónapot követő hónap 20. munkanapjának végéig a Magyar Nemzeti Bankhoz is eljuttatja.
-
-(4)[^8] A belső modelleket alkalmazó befektetési vállalkozás és kereskedési könyvet vezető hitelintézet a belső modellekre vonatkozó havi információs jelentését a tárgyhónapot követő hónap 20. munkanapjának végéig eljuttatja a Felügyelethez.
-
-[^8]: A 9. § (4) bekezdése az 54/2005. (XII. 28.) PM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 9. §-a alapján a rendelkezést először a 2006. január hónapra vonatkozó jelentések esetében kell alkalmazni.
