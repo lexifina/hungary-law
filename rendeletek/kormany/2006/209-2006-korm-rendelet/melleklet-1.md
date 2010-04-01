@@ -1,3 +1,3 @@
-1. melléklet a 209/2006. (X. 17.) Korm. rendelethez[^10]
+1. melléklet a 209/2006. (X. 17.) Korm. rendelethez[^17]
 
-[^10]: Az 1. melléklet a 365/2007. (XII. 23.) Korm. rendelet 18. § (1) bekezdésének d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 17. § (5) bekezdését.
+[^17]: Az 1. mellékletet a 93/2010. (III. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
