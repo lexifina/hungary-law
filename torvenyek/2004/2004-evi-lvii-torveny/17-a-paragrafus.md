@@ -1,0 +1,1 @@
+17/A. § Az európai parlamenti képviselő a feladatai ellátásához szükséges minősített adatot csak a minősített adat védelméről szóló törvényben foglaltak szerinti engedély alapján használhatja fel, és köteles a minősített adat védelmére vonatkozó követelményeket megtartani.
