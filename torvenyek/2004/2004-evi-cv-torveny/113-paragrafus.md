@@ -1,6 +1,6 @@
 ## A közzététel
 
-113. § (1) A honvédelemért felelős miniszter normatív utasításait, a Honvédség szakirányítása és vezetése keretében kiadott normatív intézkedéseket, továbbá a szabályzatokat, szakutasításokat hatályba léptető rendelkezéseket, amelyek a személyi állomány egészét érintik, vagy meghatározott feltétel bekövetkezése esetén érinthetik – az állam- és szolgálati titkot tartalmazók kivételével – a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni.
+113. § (1) A honvédelemért felelős miniszter normatív utasításait, a Honvédség szakirányítása és vezetése keretében kiadott normatív intézkedéseket, továbbá a szabályzatokat, szakutasításokat hatályba léptető rendelkezéseket, amelyek a személyi állomány egészét érintik, vagy meghatározott feltétel bekövetkezése esetén érinthetik – a minősített adatot tartalmazók kivételével – a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni.
 
 (2) Ha az (1) bekezdés szerinti rendelkezést nem teszik közzé, annak számát és címét közölni kell a hivatalos lapban.
 

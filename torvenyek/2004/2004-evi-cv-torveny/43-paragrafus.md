@@ -37,3 +37,5 @@ e) közreműködnek a lakosság honvédelmi célú tájékoztatásában, szüks�
 f) teljesítik gazdasági és anyagi szolgáltatási kötelezettségeiket,
 
 g) közreműködnek a XIV. fejezetben meghatározott rendeletek és intézkedések végrehajtásában.
+
+(3) Az (1) bekezdésben meghatározott szervek vezetői a honvédelmi felkészülés egyes feladatainak ellátása során a minősített adat védelméről szóló törvény szerinti minősítésre jogosultak.
