@@ -1,1 +1,0 @@
-## 12. § Az e rendeletben és a Jöt.-ben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló 2003. évi XCII. törvényt kell irányadónak tekinteni azzal, hogy az adó visszatérítésére a költségvetési támogatás kiutalására vonatkozó rendelkezéseit kell megfelelően alkalmazni.
