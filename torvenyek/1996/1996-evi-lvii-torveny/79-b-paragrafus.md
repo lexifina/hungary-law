@@ -1,0 +1,11 @@
+79/B. § (1) A Gazdasági Versenyhivatal köteles biztosítani azt, hogy azok a személyek, akik feltételezésük szerint a 79/A. § (1) bekezdése alá eső irattal rendelkeznek, személyazonosságuk feltárása nélkül tudakozódhassanak az irat feltehető minősítéséről. A tudakozódó személyt figyelmeztetni kell arra, hogy a vele közölt előzetes minősítés nem köti a Gazdasági Versenyhivatalt, továbbá tájékoztatni kell a díjra vonatkozó szabályokról.
+
+(2) A feltehetően a 79/A. § (1) bekezdésében említett iratot szolgáltató személyt tájékoztatni kell a 79/A. § szerinti díjazás szabályairól. Az iratot szolgáltató személy díjigényét legkésőbb a tájékoztatástól számított öt napon belül köteles közölni a Gazdasági Versenyhivatallal. A díjat igénylőt figyelmeztetni kell arra, hogy a törvény tanúként való meghallgatását is lehetővé teszi, illetve arra, hogy kérelmezheti személyazonosító adatainak zárt kezelését. E kérelem teljesítése nem tagadható meg, de a kérelmezőt figyelmeztetni kell arra, hogy személyazonosító adatainak zárt kezelése kihatással lehet a szolgáltatott irat bizonyító erejére.
+
+(3) Ha a vizsgáló, vagy az eljáró versenytanács álláspontja szerint a versenyfelügyeleti eljárás során szolgáltatott irat alkalmatlan a 79/A. § (1) bekezdése szerinti jogsértés bizonyítására, erről meghallgatás keretében tájékoztatja az iratot szolgáltató személyt, illetve kérelmére az irat visszautasításáról külön végzést hoz. A meghallgatás jegyzőkönyve, illetve a külön végzés nem betekinthető iratnak minősül.
+
+(4) A díj kifizetéséről az eljáró versenytanács a (2) bekezdés szerinti igényt előterjesztő személyek vonatkozásában külön végzést hoz, legkésőbb az eljárást befejező határozatának meghozatalát követő harminc napon belül. A végzés ellen az érintett személy külön jogorvoslattal (82. §) élhet.
+
+(5) A díj a (4) bekezdés szerinti végzés jogerőre emelkedésétől számított harminc napon belül esedékes. A kifizetésről a Gazdasági Versenyhivatal bírságbevételi számlája terhére kell intézkedni.
+
+(6) Ha a jutalmat vissza kell fizetni, ennek az eljáró versenytanács e tárgyban, legkésőbb a visszafizetést megalapozó határozat jogerőre emelkedésétől számított harminc napon belül hozott külön végzése alapján van helye. A végzés ellen az érintett személy külön jogorvoslattal (82. §) élhet. A visszafizetendő díj adók módjára behajtandó köztartozásnak minősül.
