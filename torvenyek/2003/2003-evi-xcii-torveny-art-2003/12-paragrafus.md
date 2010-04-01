@@ -12,7 +12,7 @@ b) a határozat (végzés) tervezetébe,
 
 c) a tanú vagy az eljárásban részt vevő más személy természetes személyazonosító adatait tartalmazó jegyzőkönyvbe (iratba), ha az adóhatóság ezen adatokat zártan kezeli,
 
-d) betekintési engedély hiányában az államtitkot vagy szolgálati titkot tartalmazó iratba,
+d) felhasználói engedély hiányában a minősített adatot tartalmazó iratba,
 
 e) az iratnak azon részébe, amelynek megismerése a más személyre vonatkozó, adótitkot érintő rendelkezésbe ütközik,
 

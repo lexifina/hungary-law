@@ -66,7 +66,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 26. a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 31. § (6) bekezdése szerinti nyilatkozatában foglalt választásáról,
 
-27. az e bekezdés szerint havi adó- és járulékbevallás benyújtására kötelezett munkáltató, ha a tárgyhóban alkalmi munkavállalói könyvvel (AM könyv) rendelkező személyt foglalkoztat, e foglalkoztatási jogviszonnyal összefüggésben feltünteti az alkalmi munkavállaló AM könyvébe az adott hónapban történt alkalmi foglalkoztatás napjára (napjaira) beragasztott közteherjegy – hónapon belüli több napi foglalkoztatás esetén a közteherjegyek együttes – összegét, és a foglalkoztatás napját (napjait),
+27. az a munkáltató, amely a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, e foglalkoztatási jogviszonnyal összefüggésben feltünteti az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér együttes – összegét, és a foglalkoztatás napját (napjait),
 
 28. a felszolgálási díj után fizetett nyugdíjjárulékot is magában foglaló nyugdíj-biztosítási járulék alapjáról és összegéről.
 
