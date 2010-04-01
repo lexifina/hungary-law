@@ -28,6 +28,4 @@
 
 (14) Ha a központi költségvetésnek az MNB tv. – e törvény 70. § (1) bekezdésével megállapított – 78. §-a alapján a jegybankkal szemben fizetési kötelezettsége keletkezik, azt a XLI. A belföldi államadósság költségvetési elszámolásai fejezet kiadásai terhére teljesíti.
 
-(15) Az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvénynek (a továbbiakban: Alk.tv.) az e törvény 78. §-ának (2) bekezdésével megállapított rendelkezését első ízben az 1998. év utáni elszámolások esetében kell alkalmazni.
-
-(16) Az Alk.tv.-nek az e törvény 78. §-ában megállapított rendelkezései hatálybalépésének időpontjától az Alk.tv. melléklete helyébe az e törvény 21. számú melléklete lép.
+(15)–(16)
