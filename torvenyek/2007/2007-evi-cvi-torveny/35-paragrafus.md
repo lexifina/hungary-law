@@ -24,7 +24,7 @@ j) nemzetközi szerződés végrehajtása érdekében történő értékesítés
 
 k) külföldi állam részére történő értékesítés esetén a j) pont alá nem tartozó esetben is,
 
-l) államtitkot vagy szolgálati titkot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő értékesítés esetén,
+l) minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő értékesítés esetén,
 
 m) külön jogszabályban meghatározott, a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk értékesítése esetén.
 

@@ -8,4 +8,4 @@ c) a folyamatban lévő ügyekről tájékoztatást készít,
 
 d) a hatályos szerződéseiről jegyzéket készít és azok iratanyagát átadásra előkészíti,
 
-e) a folyamatban lévő ügyek iratairól, valamint az állami vagy szolgálati titkot tartalmazó iratokról iratjegyzéket készít, és azokat, valamint az irattárakat átadásra előkészíti.
+e) a folyamatban lévő ügyek iratairól, valamint a minősített adatot tartalmazó iratokról iratjegyzéket készít, és azokat, valamint az irattárakat átadásra előkészíti.
