@@ -1,8 +1,8 @@
 ## A védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk, illetőleg kapcsolódó szolgáltatások
 
-## I. Fejezet[^14]
+## I. Fejezet[^15]
 
-## Sima csövű fegyverek 20 mm-nél kisebb kaliberrel, más kézifegyverek és automata fegyverek 12,7 mm (0,50 hüvelyk/inch) vagy kisebb kaliberrel és tartozékok a következők szerint, és a kifejezetten azokhoz tervezett részegységek (ML 1[^15])
+## Sima csövű fegyverek 20 mm-nél kisebb kaliberrel, más kézifegyverek és automata fegyverek 12,7 mm (0,50 hüvelyk/inch) vagy kisebb kaliberrel és tartozékok a következők szerint, és a kifejezetten azokhoz tervezett részegységek (ML 1[^16])
 
 ## a) Puskák, karabélyok, revolverek, pisztolyok, géppisztolyok és géppuskák;
 
@@ -26,7 +26,7 @@
 
 ## c) Az I. fejezet a) és b) pontjaiban felsorolt eszközök kipróbálásához vagy illesztéséhez használatos berendezések, amelyeket kifejezetten e célra terveztek.
 
-## II. Fejezet[^16]
+## II. Fejezet[^17]
 
 ## 20 mm és ennél nagyobb kaliberű sima csövű fegyverek, más fegyverek és fegyverzetek 12,7 mm-nél (0,50 hüvelyk/inch) nagyobb kaliberrel, tűzvetők és tartozékok, és az azokhoz tervezett különleges részegységek a következők szerint (ML 2)
 
@@ -46,7 +46,7 @@
 
 ## d) A II. fejezet a), b) és c) pontjaiban felsorolt eszközök kipróbálásához vagy illesztéséhez használatos berendezések, amelyeket kifejezetten e célra terveztek.
 
-## III. Fejezet[^17]
+## III. Fejezet[^18]
 
 ## Lőszerek és mechanikus gyújtószerkezetek, és az azokhoz tervezett különleges részegységek a következők szerint (ML 3)
 
@@ -120,7 +120,7 @@
 
 ## d) Az V. fejezet a) és b) pontjaiban felsorolt eszközök kipróbálásához vagy illesztéséhez használatos berendezések, amelyeket kifejezetten e célra terveztek.
 
-## VI. Fejezet[^18]
+## VI. Fejezet[^19]
 
 ## Szárazföldi járművek és részegységeik a következők szerint (ML 6)
 
@@ -294,7 +294,7 @@
 
 ## Általános megjegyzés:
 
-## A polgári gázálarcok, védő- és fertőtlenítő felszerelésekről további részletek az 1334/2000EK[^19] Mellékletének 1A004. pontjában találhatóak.
+## A polgári gázálarcok, védő- és fertőtlenítő felszerelésekről további részletek az 1334/2000EK[^20] Mellékletének 1A004. pontjában találhatóak.
 
 ## f) A kifejezetten katonai célra tervezett, a VII. fejezet a) vagy c) pontjai alatt felsorolt anyagok felderítésére és azonosítására szolgáló berendezések és azok részegységei;
 
@@ -450,9 +450,9 @@
 
 ## b) „Hajtóanyagok”
 
-## 1. Minden az ENSZ „UN 1.1”[^20] osztályába tartozó szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között) több mint 250 másodperc a nem fémezett, vagy több mint 270 másodperc az alumíniumozott kompozíciók esetében;
+## 1. Minden az ENSZ „UN 1.1”[^21] osztályába tartozó szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között) több mint 250 másodperc a nem fémezett, vagy több mint 270 másodperc az alumíniumozott kompozíciók esetében;
 
-## 2. Minden az ENSZ „UN 1.3.”[^21] osztályába tartozó szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között) több mint 230 másodperc a nem halogénezett, 250 másodperc a nem fémes kompozíciók, és 266 másodperc a fémes kompozíciók esetében;
+## 2. Minden az ENSZ „UN 1.3.”[^22] osztályába tartozó szilárd „hajtóanyag”, amelynek elméleti specifikus impulzusa (szabványos feltételek között) több mint 230 másodperc a nem halogénezett, 250 másodperc a nem fémes kompozíciók, és 266 másodperc a fémes kompozíciók esetében;
 
 ## 3. „Hajtóanyagok”, amelyek erőállandója nagyobb, mint 1200 Kj/kg;
 
@@ -854,7 +854,7 @@
 
 ## 3. számú Megjegyzés: A X. fejezet b) és d) pontjai szerinti a Jegyzék hatálya alá csak azok a kifejezetten nem katonai repülőgépekhez, vagy légi hajtóművekhez tervezett azon fődarabok/részegységek/alkatrészek és kapcsolódó berendezések tartoznak, amelyek kifejezetten katonai használatra kerültek módosításra.
 
-## XI. Fejezet[^22]
+## XI. Fejezet[^23]
 
 ## A jelen Jegyzékben másutt nem szereplő, kifejezetten katonai célra tervezett elektronikai berendezések, valamint kifejezetten ezekhez tervezett alkatrészek
 
@@ -922,7 +922,7 @@
 
 ## 3. számú Megjegyzés: A XII. fejezet nem vonja a Jegyzék hatálya alá a polgári közlekedési eszközök állandó mágneses indukción alapuló hajtási technológiáját.
 
-## XIII. Fejezet[^23]
+## XIII. Fejezet[^24]
 
 ## Páncélozott, vagy védőberendezések és szerkezetek, valamint anyagok az alábbiak szerint
 
@@ -1260,7 +1260,7 @@
 
 ## 3. A jelen fejezet a), b) 1. vagy b) 2. alpontok szerinti „szoftver”, amely kifejezetten arra van tervezve, vagy módosítva, hogy lehetővé tegye az V. fejezet, a VII. fejezet f) pontja, a IX. fejezet c) és e) pontjai, a X. fejezet e) pontja, a XI., a XIV., XV. fejezetek, a XVII. fejezet i) pontja, vagy a XVIII. fejezet alapján a berendezések számára katonai rendeltetés betöltését.
 
-## XXII. Fejezet[^24]
+## XXII. Fejezet[^25]
 
 ## „Technológia” a következők szerint (ML 22)
 
@@ -1314,7 +1314,7 @@
 
 ## Lásd a VII. fejezet 2. sz. Megjegyzését.
 
-## XXIII. Fejezet[^25]
+## XXIII. Fejezet[^26]
 
 ## Kifejezetten katonai célú szolgáltatások
 
@@ -1334,7 +1334,7 @@
 
 ## 3. Ahol jelen Jegyzékben az angol vagy más idegen nyelven megfogalmazott termék megnevezés (vagy márkanév) szerepel, ott értelemszerűen a magyar nyelvű termékmeghatározás alá eső termék is a Jegyzék hatálya alá tartozónak értendő.
 
-## XXIV. Fejezet[^26]
+## XXIV. Fejezet[^27]
 
 ## Rendvédelmi, rendészeti kényszerítő eszközök, illetve azok alkalmazáshoz szükséges anyagok
 
@@ -1394,16 +1394,16 @@
 
 2. számú melléklet a 228/2004. (VII. 30.) Korm. rendelethez
 
-[^14]: Az 1. számú melléklet I. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
-[^15]: ML: Munition List/Military List = Haditechnikai Jegyzék, a Wassenaar-i Megállapodás és az EU által alkalmazott jelölés a Haditechnikai Jegyzék fejezeteire.
-[^16]: Az 1. számú melléklet II. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^17]: Az 1. számú melléklet III. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^18]: Az 1. számú melléklet VI. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
-[^19]: A Tanács 2000. június 22-i 1334/2000/EK rendelete a kettős felhasználású termékek és technológia kivitelére vonatkozó közösségi ellenőrzési rendszer kialakításáról (a továbbiakban: 1334/2000/EK).
-[^20]: Lásd a Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (IV. 3.) rendelet módosításáról, valamint a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendelet módosításait.
+[^15]: Az 1. számú melléklet I. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^16]: ML: Munition List/Military List = Haditechnikai Jegyzék, a Wassenaar-i Megállapodás és az EU által alkalmazott jelölés a Haditechnikai Jegyzék fejezeteire.
+[^17]: Az 1. számú melléklet II. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^18]: Az 1. számú melléklet III. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^19]: Az 1. számú melléklet VI. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^20]: A Tanács 2000. június 22-i 1334/2000/EK rendelete a kettős felhasználású termékek és technológia kivitelére vonatkozó közösségi ellenőrzési rendszer kialakításáról (a továbbiakban: 1334/2000/EK).
 [^21]: Lásd a Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (IV. 3.) rendelet módosításáról, valamint a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendelet módosításait.
-[^22]: Az 1. számú melléklet XI. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
-[^23]: Az 1. számú melléklet XIII. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (6) bekezdése szerint módosított szöveg.
-[^24]: Az 1. számú melléklet XXII. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (7) bekezdése szerint módosított szöveg.
-[^25]: Az 1. számú melléklet XXIII. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (8)–(9) bekezdése szerint módosított szöveg.
-[^26]: Az 1. számú melléklet XXIV. Fejezetét a 384/2007. (XII. 23.) Korm. rendelet 32. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 33. § (2) bekezdését.
+[^22]: Lásd a Nemzetközi Vasúti Árufuvarozási Egyezményre vonatkozó Egységes Szabályok (CIM) mellékleteinek kihirdetéséről szóló 4/1987. (IV. 3.) rendelet módosításáról, valamint a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendelet módosításait.
+[^23]: Az 1. számú melléklet XI. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
+[^24]: Az 1. számú melléklet XIII. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (6) bekezdése szerint módosított szöveg.
+[^25]: Az 1. számú melléklet XXII. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (7) bekezdése szerint módosított szöveg.
+[^26]: Az 1. számú melléklet XXIII. Fejezete a 87/2005. (V. 5.) Korm. rendelet 6. § (8)–(9) bekezdése szerint módosított szöveg.
+[^27]: Az 1. számú melléklet XXIV. Fejezetét a 384/2007. (XII. 23.) Korm. rendelet 32. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 33. § (2) bekezdését.

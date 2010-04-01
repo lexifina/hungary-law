@@ -1,6 +1,6 @@
 ## Összeférhetetlenség
 
-7/A. §[^5] (1) A beszerzési eljárás előkészítése, a részvételi, ajánlati és az ajánlattételi felhívás, valamint a dokumentáció elkészítése során vagy az eljárás más szakaszában az ajánlatkérő nevében nem járhat el, az eljárásba nem vonható be a beszerzés tárgyával kapcsolatos gazdasági tevékenységet végző gazdálkodó szervezet (a továbbiakban: érdekelt gazdálkodó szervezet), továbbá az olyan személy vagy szervezet, aki, illetőleg amely
+7/A. §[^6] (1) A beszerzési eljárás előkészítése, a részvételi, ajánlati és az ajánlattételi felhívás, valamint a dokumentáció elkészítése során vagy az eljárás más szakaszában az ajánlatkérő nevében nem járhat el, az eljárásba nem vonható be a beszerzés tárgyával kapcsolatos gazdasági tevékenységet végző gazdálkodó szervezet (a továbbiakban: érdekelt gazdálkodó szervezet), továbbá az olyan személy vagy szervezet, aki, illetőleg amely
 
 a) az érdekelt gazdálkodó szervezettel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll;
 
@@ -22,4 +22,4 @@ d) az a)–c) pont szerinti személynek a Polgári Törvénykönyvről szóló 1
 
 (7) Az ajánlatkérő nevében eljáró, illetőleg az eljárásba bevonni kívánt személy vagy szervezet írásban köteles nyilatkozni arról, hogy vele szemben nem áll fenn az e § szerinti összeférhetetlenség.
 
-[^5]: A 7/A. §-t és az előtte lévő alcímet a 87/2005. (V. 5.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 7/A. §-t és az előtte lévő alcímet a 87/2005. (V. 5.) Korm. rendelet 2. §-a iktatta be.

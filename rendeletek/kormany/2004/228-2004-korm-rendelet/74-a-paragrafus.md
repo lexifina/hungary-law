@@ -1,6 +1,6 @@
 ## Különleges eljárás
 
-74/A. §[^13] (1) Az ajánlatkérő különleges eljárást alkalmazhat a fegyveres szervezet alkalmazási képességét befolyásoló, külföldi kormányok, minisztériumok, más állami szervek, egyéb külföldi szervezetek (a továbbiakban együttesen: felajánló szervezet) által előnyös feltételek mellett felajánlott haditechnikai eszközök beszerzésére.
+74/A. §[^14] (1) Az ajánlatkérő különleges eljárást alkalmazhat a fegyveres szervezet alkalmazási képességét befolyásoló, külföldi kormányok, minisztériumok, más állami szervek, egyéb külföldi szervezetek (a továbbiakban együttesen: felajánló szervezet) által előnyös feltételek mellett felajánlott haditechnikai eszközök beszerzésére.
 
 (2) A különleges eljárás akkor alkalmazható, ha a felajánlás nemzetközi megállapodásban, jegyzőkönyvben, egyetértési nyilatkozatban vagy más egyéb hivatalos felajánlás formájában rögzítésre kerül, és a Kormány vagy az illetékes miniszter döntött a felajánlás elfogadásáról.
 
@@ -10,4 +10,4 @@
 
 (5) A szerződést a tárgyalások lezárását követően, a végső ajánlat tartalma szerint kell megkötni a felajánló szervezet által felhatalmazott szervezettel.
 
-[^13]: A 74/A. §-t és az előtte lévő alcímet a 87/2005. (V. 5.) Korm. rendelet 5. §-a iktatta be.
+[^14]: A 74/A. §-t és az előtte lévő alcímet a 87/2005. (V. 5.) Korm. rendelet 5. §-a iktatta be.

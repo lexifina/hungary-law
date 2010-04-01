@@ -22,9 +22,9 @@ j) az Országgyűlés vagy a Kormány által elrendelt speciális alkalmazásra 
 
 k) a haderő valamely meghatározó képességét befolyásoló technikai eszköz meghibásodás elhárítását célzó beszerzés esetében;
 
-l)[^9] a korábban rendszeresített, e rendelet hatálya alá tartozó áruk pótlására vagy mennyiségi bővítésére van szükség.
+l)[^10] a korábban rendszeresített, e rendelet hatálya alá tartozó áruk pótlására vagy mennyiségi bővítésére van szükség.
 
-(2)[^10] Az (1) bekezdés e), f), j), valamint l) pontja szerinti esetekben az ajánlatkérőnek lehetőség szerint legalább három ajánlattevőt kell ajánlattételre felhívnia.
+(2)[^11] Az (1) bekezdés e), f), j), valamint l) pontja szerinti esetekben az ajánlatkérőnek lehetőség szerint legalább három ajánlattevőt kell ajánlattételre felhívnia.
 
-[^9]: Az 56. § (1) bekezdésének l) pontját a 384/2007. (XII. 23.) Korm. rendelet 32. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 33. § (2) bekezdését.
-[^10]: Az 56. § (2) bekezdése a 384/2007. (XII. 23.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 33. § (2) bekezdését.
+[^10]: Az 56. § (1) bekezdésének l) pontját a 384/2007. (XII. 23.) Korm. rendelet 32. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 33. § (2) bekezdését.
+[^11]: Az 56. § (2) bekezdése a 384/2007. (XII. 23.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 33. § (2) bekezdését.

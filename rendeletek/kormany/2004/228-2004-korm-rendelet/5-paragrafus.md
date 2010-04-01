@@ -6,6 +6,8 @@
 
 (3) Az Európai Unióban letelepedett ajánlattevők és a közösségi áruk számára nemzeti elbánást kell nyújtani a beszerzési eljárásban.
 
-(4) A beszerzés során a gazdaságosság, a honvédelem és a nemzetbiztonság, továbbá az állami és szolgálati titok védelmének szempontjait egyaránt figyelembe kell venni. A beszerzés során fokozottan figyelembe kell venni a mindenkori munka-, tűz- és környezetvédelmi előírásokat.
+(4)[^5] A beszerzés során a gazdaságosság, a honvédelem és a nemzetbiztonság, továbbá a minősített adat védelmének szempontjait egyaránt figyelembe kell venni. A beszerzés során fokozottan figyelembe kell venni a mindenkori munka-, tűz- és környezetvédelmi előírásokat.
 
 (5) E rendelet szabályaitól csak annyiban lehet eltérni, amennyiben e rendelet az eltérést kifejezetten megengedi.
+
+[^5]: Az 5. § (4) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (13) bekezdése szerint módosított szöveg.
