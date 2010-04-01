@@ -1,1 +1,0 @@
-Az alkalmi munkavállalókat foglalkoztató munkáltatónak az ehhez a foglalkoztatáshoz kapcsolódó közterhei egyszerűsített módon történő megfizetése érdekében az Országgyűlés a következő törvényt alkotja:

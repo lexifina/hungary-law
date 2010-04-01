@@ -1,3 +1,0 @@
-2/B. § (1) A mezőgazdasági (különösen növénytermesztés, állattenyésztés, halászat) tevékenységet végző munkavállalónak az Mt. 117. §-a (1) bekezdésének j) pontja szerinti idénymunka keretében történő foglalkoztatása során a 2. § (1) bekezdésének b) pontjában foglalt rendelkezés nem alkalmazható.
-
-(2) Az 1. § (2) bekezdésének e) pontjában meghatározott külföldi személy az (1) bekezdésben megjelölt idénymunka keretében egy évben legfeljebb hatvan napot tölthet alkalmi foglalkoztatásnak minősülő munkaviszonyban, és munkavállalása során a 2. § (1) bekezdésének b)–c) pontjaiban, a 2. § (3) bekezdésében, valamint a 2/A. § (2) bekezdésében foglalt rendelkezések nem alkalmazhatók.
