@@ -2,4 +2,4 @@
 
 (2) A Hjt. 84. § (2) bekezdése szerinti várakozási időt az e törvény hatálybalépését megelőzően megkezdett rendfokozati várakozási idő esetében nem kell alkalmazni.
 
-(3) A Hjt. 259. § (6) bekezdése alapján 2010. március 31-ig hivatalból ismételten el kell bírálni az állomány tagjának korábban a szakközépiskolai tanulmányi idő társadalombiztosítási beszámítása érdekében benyújtott és elutasított kérelmét.
+(3)
