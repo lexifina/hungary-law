@@ -1,0 +1,1 @@
+## 3. § Hatályát veszti az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet módosításáról szóló 48/2009. (XII. 29.) EüM rendelet (a továbbiakban: Módr.).
