@@ -1,6 +1,6 @@
-## A vizsgáló állomásra vonatkozó feltételek[^125]
+## A vizsgáló állomásra vonatkozó feltételek[^121]
 
-## 12/B. §[^126] Vizsgáló állomási tevékenységet az a vállalkozás végezhet, amely a következő feltételeknek megfelel:
+## 12/B. §[^122] Vizsgáló állomási tevékenységet az a vállalkozás végezhet, amely a következő feltételeknek megfelel:
 
 a) a kérelmében meghatározott időtartamban és járműkategóriára (járműtípusra) vonatkozóan folyamatosan végez közlekedésbiztonsági és környezetvédelmi diagnosztikai átvizsgálást,
 
@@ -10,5 +10,5 @@ c) a közlekedési hatóság Nyilvántartásában szereplő vizsgabiztost alkalm
 
 d) a tanúsítói tevékenységét az MSZ EN ISO 9001 szabvány szerint tanúsított és a közlekedési hatóság által elfogadott minőségirányítási rendszer alkalmazásával végzi.
 
-[^125]: A 12/B. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 11. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 12. §-ával megállapított szöveg.
-[^126]: A 12/B. §-t a 12/1998. (V. 22.) KHVM rendelet 11. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 12. §-ával megállapított szöveg.
+[^121]: A 12/B. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 11. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 12. §-ával megállapított szöveg.
+[^122]: A 12/B. §-t a 12/1998. (V. 22.) KHVM rendelet 11. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 12. §-ával megállapított szöveg.

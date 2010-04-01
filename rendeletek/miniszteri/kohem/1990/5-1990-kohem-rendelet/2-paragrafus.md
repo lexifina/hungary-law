@@ -38,7 +38,7 @@ d) ,,új jármű'': az a jármű, amelynek a használatba vétele a c) pont szer
 
 e)[^13] „közösségi jármű”: az Európai Gazdasági Térségről szóló megállapodásban, részes államban, továbbá Svájcban (a továbbiakban: származási ország) nyilvántartásba vett, forgalmi engedéllyel és rendszámmal ellátott jármű,
 
-f)[^14]
+f)[^14] „gyártó”: az A. Függelék 3. cikk 27. pontjában meghatározott személy vagy szerv,
 
 g)[^15] „jármű-honosítási eljárás”: a közösségi jármű egyedi forgalomba helyezésére irányuló engedélyezési eljárás, amelyben a közlekedési hatóság elismeri a jármű forgalomban tartására a származási országban megszerzett jogosultságot,
 
@@ -130,7 +130,7 @@ c) a mezőgazdasági vagy erdészeti traktorok, azok pótkocsijainak és cserél
 [^11]: A 2. § (4) bekezdése a 11/2000. (V. 24.) KHVM rendelet – a Magyar Közlöny 2000. évi 73. számában közzétett helyesbítésének megfelelő – 2. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (4) bekezdésének b) pontja a 43/2001. (XII. 18.) KöViM rendelet 2. §-ával megállapított és a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^13]: A 2. § (4) bekezdésének e) pontját a 34/2004. (III. 30.) GKM rendelet 1. § (1) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^14]: A 2. § (4) bekezdésének f) pontját a 19/2006. (IV. 19.) GKM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés a) pontja.
+[^14]: A 2. § (4) bekezdésének f) pontját a 19/2006. (IV. 19.) GKM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés a) pontja, újonnan a 27/2010. (III. 31.) KHEM rendelet 1. §-a iktatta be.
 [^15]: A 2. § (4) bekezdésének g) pontját a 105/2007. (XII. 23.) GKM rendelet 1. § (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^16]: A 2. § (4) bekezdés h) pontját a 66/2009. (XI. 27.) KHEM rendelet 1. § (3) bekezdése iktatta be, szövege a 8/2010. (II. 18.) KHEM rendelet 2. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^17]: A 2. § (4) bekezdés i) pontját a 66/2009. (XI. 27.) KHEM rendelet 1. § (3) bekezdése iktatta be, szövege a 8/2010. (II. 18.) KHEM rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.

@@ -2,9 +2,9 @@
 
 ## Közúti ellenőrzés
 
-14. §[^137] (1)[^138] A járművek (ideértve a külföldi hatósági jelzéssel közlekedő járműveket is) műszaki, közlekedésbiztonsági és környezetvédelmi állapotát, valamint a közúti forgalomban való részvételükhöz kapcsolódó előírások megtartását a közlekedési hatóság a közúti forgalomban közúti ellenőrzés keretében ellenőrzi.
+14. §[^133] (1)[^134] A járművek (ideértve a külföldi hatósági jelzéssel közlekedő járműveket is) műszaki, közlekedésbiztonsági és környezetvédelmi állapotát, valamint a közúti forgalomban való részvételükhöz kapcsolódó előírások megtartását a közlekedési hatóság a közúti forgalomban közúti ellenőrzés keretében ellenőrzi.
 
-(2)[^139] A közúti ellenőrzés során a közlekedési hatóság szemrevételezéssel és a rendelkezésére álló vizsgáló eszközökkel megvizsgálja:
+(2)[^135] A közúti ellenőrzés során a közlekedési hatóság szemrevételezéssel és a rendelkezésére álló vizsgáló eszközökkel megvizsgálja:
 
 a) a jármű és a jármű kötelező tartozékai közlekedésbiztonsági és környezetvédelmi (a továbbiakban együtt: műszaki) megfelelőségére (műszaki ellenőrzés),
 
@@ -12,7 +12,7 @@ b) a járművezetőre (a jármű személyzetére), illetőleg a vezetési és pi
 
 c) a veszélyes áru szállításához előírt különleges feltételekre (ADR ellenőrzés),
 
-d)[^140] a közúti közlekedési szolgáltatási tevékenység (árufuvarozás vagy díj ellenében végzett személyszállítás) és sajátszámlás áruszállítás, illetve személyszállítás végzésére (tevékenység ellenőrzés),
+d)[^136] a közúti közlekedési szolgáltatási tevékenység (árufuvarozás vagy díj ellenében végzett személyszállítás) és sajátszámlás áruszállítás, illetve személyszállítás végzésére (tevékenység ellenőrzés),
 
 e) a nemzetközi forgalomban közlekedő jármű közlekedésének külön feltételeire (nemzetközi ellenőrzés),
 
@@ -22,27 +22,27 @@ g) a szállítmány elhelyezésére és rögzítésére (rakomány biztonsági e
 
 ## vonatkozó – jogszabályban, továbbá a nemzetközi forgalomban közlekedő járműre nemzetközi egyezményben vagy megállapodásban foglalt – követelmények teljesítését.
 
-(3)[^141] A (2) bekezdés a)–g) pontjaiban meghatározott közúti ellenőrzési módok különállóan és összevontan is végezhetők. A (2) bekezdés b) és c) pontjaiban meghatározott ellenőrzési módokra vonatkozóan a külön jogszabályokban[^142] előírt feltételek alkalmazandók. A jármű és kötelező tartozékai műszaki megfelelőségére vonatkozó részletes feltételeket, továbbá az ellenőrzések során általánosan használt okmányok mintáját és az ellenőrzött adatok körét a 10. számú melléklet határozza meg.
+(3)[^137] A (2) bekezdés a)–g) pontjaiban meghatározott közúti ellenőrzési módok különállóan és összevontan is végezhetők. A (2) bekezdés b) és c) pontjaiban meghatározott ellenőrzési módokra vonatkozóan a külön jogszabályokban[^138] előírt feltételek alkalmazandók. A jármű és kötelező tartozékai műszaki megfelelőségére vonatkozó részletes feltételeket, továbbá az ellenőrzések során általánosan használt okmányok mintáját és az ellenőrzött adatok körét a 10. számú melléklet határozza meg.
 
-(4)[^143] A közúti ellenőrzés során a közlekedési hatóság a járművet, továbbá a járműre és a jármű vezetőjére vonatkozó, valamint a jármű közúti forgalomban való részvételéhez, a tevékenység végzéséhez és a szállításhoz előírt okmányokat vizsgálja át. Ha az ellenőrzés során szabálysértés alapos gyanúja merül fel, a közlekedési hatóság az okmányokat bevonja és legkésőbb a következő munkanapon – szabálysértési eljárás kezdeményezésével – az eljárás lefolytatására jogosult hatóságnak megküldi.
+(4)[^139] A közúti ellenőrzés során a közlekedési hatóság a járművet, továbbá a járműre és a jármű vezetőjére vonatkozó, valamint a jármű közúti forgalomban való részvételéhez, a tevékenység végzéséhez és a szállításhoz előírt okmányokat vizsgálja át. Ha az ellenőrzés során szabálysértés alapos gyanúja merül fel, a közlekedési hatóság az okmányokat bevonja és legkésőbb a következő munkanapon – szabálysértési eljárás kezdeményezésével – az eljárás lefolytatására jogosult hatóságnak megküldi.
 
-(5)[^144] A közlekedési hatóság a szabálysértési eljárás kezdeményezésétől elállhat és a helyszínen elvett okmányokat visszaadhatja, amennyiben a szabálysértési eljárás kezdeményezésére okot adó körülmény megszűnését – az okmányoknak a szabálysértési hatósághoz történő továbbítást megelőzően – igazolják.
+(5)[^140] A közlekedési hatóság a szabálysértési eljárás kezdeményezésétől elállhat és a helyszínen elvett okmányokat visszaadhatja, amennyiben a szabálysértési eljárás kezdeményezésére okot adó körülmény megszűnését – az okmányoknak a szabálysértési hatósághoz történő továbbítást megelőzően – igazolják.
 
-(6)[^145] A (2) bekezdés a), b), c) és f) pontjaiban meghatározott közúti ellenőrzések esetén a közlekedési hatóság a járművet műszeres ellenőrző vizsgálat alá vonhatja, amelynek – legfeljebb 15 km távolságban lévő – helyszínére történő közlekedésre a jármű vezetőjét utasíthatja.
+(6)[^141] A (2) bekezdés a), b), c) és f) pontjaiban meghatározott közúti ellenőrzések esetén a közlekedési hatóság a járművet műszeres ellenőrző vizsgálat alá vonhatja, amelynek – legfeljebb 15 km távolságban lévő – helyszínére történő közlekedésre a jármű vezetőjét utasíthatja.
 
-(7)[^146] A közlekedési hatóság a járművet vizsgálatra rendeli, amennyiben a közúti ellenőrzés során alapos gyanú merül fel arra, hogy
+(7)[^142] A közlekedési hatóság a járművet vizsgálatra rendeli, amennyiben a közúti ellenőrzés során alapos gyanú merül fel arra, hogy
 
 a) a jármű a jogszabályban meghatározott feltételeknek nem felel meg,
 
-b)[^147] a járművet engedély nélkül átalakították, illetőleg átalakítás után a közlekedési hatóságnál vizsgálatra nem mutatták be,
+b)[^143] a járművet engedély nélkül átalakították, illetőleg átalakítás után a közlekedési hatóságnál vizsgálatra nem mutatták be,
 
 c) a jármű a környezetvédelmi előírásoknak nem felel meg.
 
-(8)[^148] A (7) bekezdés alapján elvégzett vizsgálatra és a vizsgálatot követő intézkedésekre az időszakos vizsgálatra vonatkozó szabályok az irányadók.
+(8)[^144] A (7) bekezdés alapján elvégzett vizsgálatra és a vizsgálatot követő intézkedésekre az időszakos vizsgálatra vonatkozó szabályok az irányadók.
 
-(9)[^149] Ha a (2) bekezdés a), b), d) és e) pontjaiban meghatározott közúti ellenőrzés során a közlekedési hatóság súlyos vagy ismételt szabálysértést állapít meg, akkor – szabálysértési eljárás kezdeményezése mellett – a külön jogszabály[^150] szerinti eljárást is lefolytatja.
+(9)[^145] Ha a (2) bekezdés a), b), d) és e) pontjaiban meghatározott közúti ellenőrzés során a közlekedési hatóság súlyos vagy ismételt szabálysértést állapít meg, akkor – szabálysértési eljárás kezdeményezése mellett – a külön jogszabály[^146] szerinti eljárást is lefolytatja.
 
-(10)[^151] Ha az ellenőrző szerv megállapítja, hogy
+(10)[^147] Ha az ellenőrző szerv megállapítja, hogy
 
 a) a jármű közúti forgalomban való további részvétele közvetlen balesetveszéllyel jár, vagy
 
@@ -50,34 +50,34 @@ b) a járművel az előírt hatósági engedély nélkül végeznek közúti kö
 
 ## a forgalmi engedélyt érvényteleníti, a rendszámtáblát az érvényesítő címke és – ha van – a plakett eltávolítja, valamint ennek tényét elektronikus úton közli Nyilvántartóval.
 
-(11)[^152] A közlekedési hatóság a forgalmi engedély elvételéről átvételi elismervényt ad, amely a (10) bekezdés b) pontjában meghatározott esetben a lakóhelyig vagy a telephelyig történő közlekedésre jogosít. A közúti ellenőrzés során elvett forgalmi engedélyt – szabálysértési eljárás egyidejű kezdeményezésével – az ellenőrző szerv legkésőbb a következő munkanapon megküldi az illetékes közlekedési igazgatási hatóságnak.
+(11)[^148] A közlekedési hatóság a forgalmi engedély elvételéről átvételi elismervényt ad, amely a (10) bekezdés b) pontjában meghatározott esetben a lakóhelyig vagy a telephelyig történő közlekedésre jogosít. A közúti ellenőrzés során elvett forgalmi engedélyt – szabálysértési eljárás egyidejű kezdeményezésével – az ellenőrző szerv legkésőbb a következő munkanapon megküldi az illetékes közlekedési igazgatási hatóságnak.
 
 (12) A (7)–(11) bekezdések rendelkezései a külföldi járművekre nem alkalmazandók.
 
-(13)[^153] Ha a külföldi jármű közúti ellenőrzése során a közlekedési hatóság megállapítja, hogy
+(13)[^149] Ha a külföldi jármű közúti ellenőrzése során a közlekedési hatóság megállapítja, hogy
 
-a) a jármű műszaki állapota nem felel meg a nemzetközi egyezményben[^154] a gépjárművekre és a pótkocsikra vonatkozó műszaki feltételeknek,
+a) a jármű műszaki állapota nem felel meg a nemzetközi egyezményben[^150] a gépjárművekre és a pótkocsikra vonatkozó műszaki feltételeknek,
 
-b)[^155]
+b)[^151]
 
 c) a két- vagy többoldalú nemzetközi egyezményben meghatározott engedéllyel nem rendelkezik a jármű,
 
-[^137]: A 14. § és alcíme a 43/2001. (XII. 18.) KöViM rendelet 6. §-ával megállapított szöveg.
-[^138]: A 14. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^139]: A 14. § (2) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
-[^140]: A 14. § (2) bekezdésének d) pontja a 86/2005. (X. 21.) GKM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^141]: A 14. § (3) bekezdése a 44/2007. (IV. 4.) GKM rendelet 1. §-ával megállapított szöveg.
-[^142]: A veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló 1/2002. (I. 11.) Korm. rendelet, a közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének ellenőrzéséről szóló 66/2007. (IV. 4.) Korm. rendelet, valamint a közúti szállításra vonatkozó egyes szociális jogszabályok alapján végzett közlekedési hatósági ellenőrzés részletes szabályairól szóló 43/2007. (IV. 4.) GKM rendelet.
-[^143]: A 14. § (4) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
-[^144]: A 14. § (5) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja szerint módosított szöveg.
-[^145]: A 14. § (6) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
-[^146]: A 14. § (7) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja szerint módosított szöveg.
-[^147]: A 14. § (7) bekezdés b) pontja a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés l) pontja szerint módosított szöveg.
-[^148]: A 14. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^149]: A 14. § (9) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
-[^150]: Lásd a belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló 14/2001. (IV. 20.) KöViM rendelet 7. és 11. §-ait.
-[^151]: A 14. § (10) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^152]: A 14. § (11) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja szerint módosított szöveg.
-[^153]: A 14. § (13) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
-[^154]: Lásd az 1980. évi 3. törvényerejű rendelettel kihirdetett, az 1968. évi november hó 8. napján, Bécsben aláírásra megnyitott Közúti Közlekedési Egyezmény 5. függeléke.
-[^155]: A 14. § (13) bekezdésének b) pontját a 44/2007. (IV. 4.) GKM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^133]: A 14. § és alcíme a 43/2001. (XII. 18.) KöViM rendelet 6. §-ával megállapított szöveg.
+[^134]: A 14. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^135]: A 14. § (2) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^136]: A 14. § (2) bekezdésének d) pontja a 86/2005. (X. 21.) GKM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^137]: A 14. § (3) bekezdése a 44/2007. (IV. 4.) GKM rendelet 1. §-ával megállapított szöveg.
+[^138]: A veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló 1/2002. (I. 11.) Korm. rendelet, a közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének ellenőrzéséről szóló 66/2007. (IV. 4.) Korm. rendelet, valamint a közúti szállításra vonatkozó egyes szociális jogszabályok alapján végzett közlekedési hatósági ellenőrzés részletes szabályairól szóló 43/2007. (IV. 4.) GKM rendelet.
+[^139]: A 14. § (4) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^140]: A 14. § (5) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja szerint módosított szöveg.
+[^141]: A 14. § (6) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^142]: A 14. § (7) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja szerint módosított szöveg.
+[^143]: A 14. § (7) bekezdés b) pontja a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés l) pontja szerint módosított szöveg.
+[^144]: A 14. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^145]: A 14. § (9) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^146]: Lásd a belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló 14/2001. (IV. 20.) KöViM rendelet 7. és 11. §-ait.
+[^147]: A 14. § (10) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^148]: A 14. § (11) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés k) pontja szerint módosított szöveg.
+[^149]: A 14. § (13) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^150]: Lásd az 1980. évi 3. törvényerejű rendelettel kihirdetett, az 1968. évi november hó 8. napján, Bécsben aláírásra megnyitott Közúti Közlekedési Egyezmény 5. függeléke.
+[^151]: A 14. § (13) bekezdésének b) pontját a 44/2007. (IV. 4.) GKM rendelet 2. § a) pontja hatályon kívül helyezte.

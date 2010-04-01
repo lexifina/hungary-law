@@ -1980,6 +1980,6 @@
 
 |  |  | 3 Közlekedésbiztonságot és környezetvédelmet nem veszélyeztető hiba | 0 099. kódszótárban nem szereplő | H |
 
-6. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^252]
+6. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^248]
 
-[^252]: A 6. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §- iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés l) pontja.
+[^248]: A 6. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §- iktatta be, hatályon kívül helyezte a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés l) pontja.

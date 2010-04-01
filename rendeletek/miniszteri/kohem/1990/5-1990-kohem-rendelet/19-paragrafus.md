@@ -4,7 +4,7 @@
 
 ## Forgalomba helyezés előtti vizsgálat és közúti műszaki ellenőrzés
 
-19. §[^182] (1) A típusbizonyítvány nélkül forgalomba helyezhető két- és háromkerekű segédmotoros kerékpárt forgalomba helyezés előtti vizsgálat céljából az NKH regionális igazgatóságánál be kell mutatni. Ha az NKH regionális igazgatósága a forgalomba helyezés előtti vizsgálat alapján megállapítja, hogy a jármű a jogszabályban meghatározott műszaki feltételeknek megfelel, azonosítási jellel látja el.
+19. §[^180] (1) A típusbizonyítvány nélkül forgalomba helyezhető két- és háromkerekű segédmotoros kerékpárt forgalomba helyezés előtti vizsgálat céljából az NKH regionális igazgatóságánál be kell mutatni. Ha az NKH regionális igazgatósága a forgalomba helyezés előtti vizsgálat alapján megállapítja, hogy a jármű a jogszabályban meghatározott műszaki feltételeknek megfelel, azonosítási jellel látja el.
 
 (2) A típusbizonyítvánnyal rendelkező két- és háromkerekű segédmotoros kerékpárokat – a típusbizonyítvány alapján – a gyártónak vagy a forgalmazónak azonosítási jellel kell ellátnia. Az azonosítási jel hatósági jelzésként elfogadható.
 
@@ -16,7 +16,7 @@ a) a járműkategória besorolást megalapozó műszaki jellemzőket a jármű g
 
 b) a vizsgálat technológiáját a járműkivitel sajátosságai határozzák meg,
 
-c)[^183] eredetiségvizsgálatot nem kell végezni,
+c)[^181] eredetiségvizsgálatot nem kell végezni,
 
 d) a külön jogszabályban a segédmotoros kerékpárokhoz meghatározott rendszámtábla típust kell megállapítani.
 
@@ -26,5 +26,5 @@ d) a külön jogszabályban a segédmotoros kerékpárokhoz meghatározott rends
 
 (7) A segédmotoros kerékpár közúti műszaki ellenőrzésére a 14. § rendelkezéseit kell megfelelően alkalmazni.
 
-[^182]: A 19. § a 14/2009. (III. 31.) KHEM rendelet 3. §-ával megállapított szöveg.
-[^183]: A 19. § (4) bekezdés c) pontja a 81/2009. (XII. 29.) KHEM rendelet 6. § (5) bekezdése szerint módosított szöveg; e módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2010. január 1-jét követően indult hatósági eljárásokban kell alkalmazni.
+[^180]: A 19. § a 14/2009. (III. 31.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^181]: A 19. § (4) bekezdés c) pontja a 81/2009. (XII. 29.) KHEM rendelet 6. § (5) bekezdése szerint módosított szöveg; e módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2010. január 1-jét követően indult hatósági eljárásokban kell alkalmazni.

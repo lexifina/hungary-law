@@ -16,6 +16,6 @@ kell alkalmazni.
 
 (5) E rendelet hatálybalépése előtt indult eljárásokat az eljárás megindulásának időpontjában hatályos jogszabályok szerint kell lefolytatni.
 
-(6)[^239]
+(6)[^237]
 
-[^239]: A 30. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 25. §-ának 3. pontja hatályon kívül helyezte.
+[^237]: A 30. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 25. §-ának 3. pontja hatályon kívül helyezte.

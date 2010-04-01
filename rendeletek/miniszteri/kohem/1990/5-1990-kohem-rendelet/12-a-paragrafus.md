@@ -1,6 +1,6 @@
-## A vizsgabiztosokra vonatkozó feltételek[^122]
+## A vizsgabiztosokra vonatkozó feltételek[^118]
 
-12/A. §[^123] (1) Vizsgabiztosi tevékenységet a közlekedési hatóság köztisztviselője vagy a tanúsító vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel a (2) bekezdésben meghatározott követelményeknek, és rendelkezik e rendelet 7. mellékletében meghatározott adattartalmú engedéllyel. Az engedély határozatlan időbeli hatályú.
+12/A. §[^119] (1) Vizsgabiztosi tevékenységet a közlekedési hatóság köztisztviselője vagy a tanúsító vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel a (2) bekezdésben meghatározott követelményeknek, és rendelkezik e rendelet 7. mellékletében meghatározott adattartalmú engedéllyel. Az engedély határozatlan időbeli hatályú.
 
 (2) Vizsgabiztosi tevékenység folytatását a közlekedési hatóság annak engedélyezi, aki
 
@@ -84,7 +84,7 @@ f) e rendeletben meghatározott kötelezettségeit ismételten vagy súlyosan me
 
 (8) A közlekedési hatóság felfüggeszti a vizsgabiztos tevékenységét, ha:
 
-a)[^124]
+a)[^120]
 
 b) e rendeletben foglalt előírásokat megszegte,
 
@@ -94,6 +94,6 @@ c) a (7) bekezdésben előírt bejelentési kötelezettség teljesítését elmu
 
 (10) A vizsgabiztosok szakmai képzésének szabályait a 12. számú melléklet tartalmazza.
 
-[^122]: A 12/A. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be.
-[^123]: A 12/A. §-t a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 11. §-ával megállapított szöveg.
-[^124]: A 12/A. § (8) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (1) bekezdése alapján nem lépett hatályba.
+[^118]: A 12/A. §-t megelőző alcímet a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be.
+[^119]: A 12/A. §-t a 12/1998. (V. 22.) KHVM rendelet 10. §-a iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 11. §-ával megállapított szöveg.
+[^120]: A 12/A. § (8) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (1) bekezdése alapján nem lépett hatályba.
