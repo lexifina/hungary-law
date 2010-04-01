@@ -1,0 +1,1 @@
+A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 67. § (3) bekezdés a) pontjában kapott felhatalmazás alapján, az egészségügyi miniszter feladat- és hatásköréről szóló 161/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
