@@ -30,7 +30,7 @@ e) a belső ellenőr ellenőrzési tevékenységen kívül más tevékenység v�
 
 (7) A belső ellenőrzést végző személyek feladatainak maradéktalan ellátása érdekében az ellenőrzött szerv, illetve szervezeti egység bármely helyiségébe beléphet, számára akadálytalan hozzáférést kell biztosítani valamennyi irathoz, adathoz és informatikai rendszerhez, kérésére az ellenőrzött szerv, illetve szervezeti egység bármely dolgozója köteles szóban vagy írásban információt szolgáltatni.
 
-(8) A belső ellenőrzést végző személy az ellenőrzött szervnél, illetve szervezeti egységnél államtitkot, szolgálati titkot, üzleti titkot tartalmazó iratokba és más dokumentumokba is betekinthet, azokról másolatot, kivonatot kérhet, illetve személyes adatokat kezelhet, a jogszabályokban meghatározott adat- és titokvédelmi előírások betartásával.
+(8) A belső ellenőrzést végző személy az ellenőrzött szervnél, illetve szervezeti egységnél minősített adatot, üzleti titkot tartalmazó iratokba és más dokumentumokba is betekinthet, azokról másolatot, kivonatot kérhet, illetve személyes adatokat kezelhet, a jogszabályokban meghatározott adatvédelmi, illetve a minősített adat védelmére vonatkozó előírások betartásával.
 
 (9) Büntető-, szabálysértési, kártérítési, illetve fegyelmi eljárás megindítására okot adó cselekmény, mulasztás vagy hiányosság gyanúja esetén a belső ellenőrzést végző szerv, illetve szervezeti egység vezetője köteles a költségvetési szerv vezetőjét haladéktalanul tájékoztatni.
 
