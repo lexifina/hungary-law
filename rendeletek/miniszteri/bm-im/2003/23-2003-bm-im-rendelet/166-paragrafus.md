@@ -6,8 +6,8 @@
 
 (2) A diplomáciai mentességet élvező személlyel szemben büntetőeljárási cselekmény tettenérés esetén sem alkalmazható.
 
-(3)[^89] A diplomáciai mentesség fennállásának kérdésében – kétség esetén – az ORFK útján a külügyminisztert kell megkeresni.
+(3)[^92] A diplomáciai mentesség fennállásának kérdésében – kétség esetén – az ORFK útján a külügyminisztert kell megkeresni.
 
 (4) Ha a büntetőeljárás során adat merül fel arra, hogy az, akinek tanúkénti kihallgatása szükséges, illetőleg aki magánfélként lép fel, diplomáciai mentességet élvező személy, előterjesztést kell tenni az ügyészhez annak érdekében, hogy indítványozza a mentesség felfüggesztésére jogosult döntését.
 
-[^89]: A 166. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 5. pontja szerint módosított szöveg.
+[^92]: A 166. § (3) bekezdése a 8/2008. (IV. 22.) IRM rendelet 3. §-ának 5. pontja szerint módosított szöveg.

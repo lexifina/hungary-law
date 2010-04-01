@@ -1,4 +1,4 @@
-## 78. § Ha a házkutatás, lefoglalás, motozás végrehajtása különleges szakismeretet igényel – így különösen államtitkot, szolgálati titkot tartalmazó adatokat, számítógépben tárolt adatokat, banktitkot, biztosítási titkot, értékpapír-titkot, távközlési titkot, ügyvédi titkot, orvosi titkot tartalmazó adathordozók lefoglalása – szaktanácsadót kell alkalmazni.
+## 78. §[^55] Ha a házkutatás, lefoglalás, motozás végrehajtása különleges szakismeretet igényel – így különösen minősített adatot, számítógépben tárolt adatokat, banktitkot, biztosítási titkot, értékpapír-titkot, távközlési titkot, ügyvédi titkot, orvosi titkot tartalmazó adathordozók lefoglalása – szaktanácsadót kell alkalmazni.
 
 ## 79. § A házkutatásról, lefoglalásról, motozásról felvett jegyzőkönyvnek a Be. 166. §-ában foglalt adatokon, illetve a bűnjelkezelésre vonatkozó jogszabály által előírtakon kívül tartalmaznia kell a nyomozási cselekmény lefolytatását, így különösen:
 
@@ -21,3 +21,5 @@ h) az egyes bűnjeleket milyen sorszámú bűnjelcímkével látták el,
 i) a hatósági tanú észrevételeit,
 
 j) a házkutatást szenvedőnek, illetve megbízottjának (képviselőjének), illetőleg a lefoglalást, motozást szenvedőnek a nyilatkozatát arra vonatkozóan, hogy a nyomozási cselekmény ténye, illetve lefolytatásának módja miatt él-e panasszal.
+
+[^55]: A 78. § a 11/2010. (III. 31.) IRM rendelet 43. § (1) bekezdés e) pontja szerint módosított szöveg.

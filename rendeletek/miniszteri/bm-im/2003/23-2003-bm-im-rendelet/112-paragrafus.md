@@ -6,9 +6,9 @@
 
 (4) A megkeresést lehetőleg telefaxon, vagy elektronikus úton, illetve ha a késedelem veszéllyel járna, távbeszélőn kell továbbítani. Ebben az esetben a szükséges iratokat egyidejűleg meg kell küldeni. A távbeszélőn kért megkeresésről feljegyzést kell készíteni.
 
-(5)[^61] A megkeresés alapján őrizetbe vett személy elszállításáról a megkereső nyomozó szervnek kell gondoskodnia.
+(5)[^63] A megkeresés alapján őrizetbe vett személy elszállításáról a megkereső nyomozó szervnek kell gondoskodnia.
 
-(6)[^62]
+(6)[^64]
 
-[^61]: A 112. § (5) bekezdése a 36/2004. (VI. 29.) BM–IM együttes rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^62]: A 112. § (6) bekezdését a 36/2004. (VI. 29.) BM–IM együttes rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte.
+[^63]: A 112. § (5) bekezdése a 36/2004. (VI. 29.) BM–IM együttes rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^64]: A 112. § (6) bekezdését a 36/2004. (VI. 29.) BM–IM együttes rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte.

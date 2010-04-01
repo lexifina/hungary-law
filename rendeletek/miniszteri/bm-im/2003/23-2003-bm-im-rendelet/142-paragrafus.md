@@ -1,4 +1,4 @@
-## 141. §[^78] A nyomozás során a panaszt a határozatot hozó, az intézkedést foganatosító, illetőleg az intézkedést elmulasztó nyomozó szervnél célszerű előterjeszteni.
+## 141. §[^81] A nyomozás során a panaszt a határozatot hozó, az intézkedést foganatosító, illetőleg az intézkedést elmulasztó nyomozó szervnél célszerű előterjeszteni.
 
 ## A Be. 200. §-ához
 
@@ -20,7 +20,7 @@
 
 (8) A titkos adatszerzés végrehajtásáról készített jelentést annak aláírását követően haladéktalanul meg kell küldeni az ügyésznek.
 
-(9)[^79] Az (1) és (6) bekezdésben meghatározott esetben az értesítés, illetőleg a (2) és (4) bekezdés szerinti előterjesztés megtételére, továbbá a titkos adatszerzés végrehajtásáról a Be. 204. § (5) bekezdése alapján készített jelentés aláírására – ha a nyomozást –
+(9)[^82] Az (1) és (6) bekezdésben meghatározott esetben az értesítés, illetőleg a (2) és (4) bekezdés szerinti előterjesztés megtételére, továbbá a titkos adatszerzés végrehajtásáról a Be. 204. § (5) bekezdése alapján készített jelentés aláírására – ha a nyomozást –
 
 a) az ORFK nyomozó szerve végzi, akkor a nyomozó szerv vezetője,
 
@@ -32,5 +32,5 @@ d) az RRI nyomozó szerve végzi, akkor az RRI parancsnoka,
 
 e) az NNI nyomozó szerve végzi, akkor az NNI igazgatója
 
-[^78]: A 141. § a 24/2007. (V. 24.) IRM rendelet 9. §-ával megállapított szöveg.
-[^79]: A 142. § (9) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (10) bekezdésével megállapított szöveg.
+[^81]: A 141. § a 24/2007. (V. 24.) IRM rendelet 9. §-ával megállapított szöveg.
+[^82]: A 142. § (9) bekezdése a 8/2008. (IV. 22.) IRM rendelet 2. § (10) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-39. § (1)[^38] A helyszíni kihallgatásról készült jegyzőkönyv a Be. 166. §-ában meghatározottak mellett tartalmazza:
+39. § (1)[^39] A helyszíni kihallgatásról készült jegyzőkönyv a Be. 166. §-ában meghatározottak mellett tartalmazza:
 
 a) a nyomozási cselekmény foganatosítása idején fennálló időjárási, megvilágítási, környezeti és forgalmi viszonyok, illetve az ügy szempontjából lényeges egyéb körülmény leírását,
 
@@ -16,4 +16,4 @@ g) a helyszíni kihallgatás kezdetének és befejezésének időpontját.
 
 (2) A helyszíni kihallgatás során készített helyszínrajzot, vázlatot, fénykép-, video- vagy hangfelvételt a jegyzőkönyvhöz kell csatolni.
 
-[^38]: A 39. § (1) bekezdésének felvezető szövege a 24/2007. (V. 24.) IRM rendelet 14. § (3) bekezdése szerint módosított szöveg.
+[^39]: A 39. § (1) bekezdésének felvezető szövege a 24/2007. (V. 24.) IRM rendelet 14. § (3) bekezdése szerint módosított szöveg.
