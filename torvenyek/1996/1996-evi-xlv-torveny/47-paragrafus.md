@@ -1,1 +1,1 @@
-47. § A minősített adatot tartalmazó dokumentációk, könyvtári segédletek az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény IV. Fejezete alapján az intézmény titokvédelmi szabályzatában meghatározottak szerint ismerhetőek meg.
+47. § A minősített adatot tartalmazó dokumentációk, könyvtári segédletek a minősített adat védelmére vonatkozó jogszabályok alapján az intézmény minősített adat védelmére vonatkozó szabályzatában meghatározottak szerint ismerhetőek meg.

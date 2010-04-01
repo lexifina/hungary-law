@@ -1,6 +1,6 @@
 20. § A hallgató köteles
 
-a) megtartani az államtitkot és a szolgálati titkot,
+a) megtartani a minősített adatot,
 
 b) óvni és rendeltetésszerűen használni a rábízott haditechnikai eszközöket és felszerelési tárgyakat,
 
