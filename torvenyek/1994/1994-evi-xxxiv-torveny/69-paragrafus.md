@@ -18,7 +18,7 @@ a) az (1) bekezdésben nem említett, üzletszerűen vagy bűnszövetségben elk
 
 b) az emberkereskedelem, a tiltott pornográf felvétellel visszaélés, a kitartottság, a kerítés, az embercsempészés, a hivatali visszaélés és a bűnpártolás három évig terjedő szabadságvesztéssel fenyegetett alakzata,
 
-c) szolgálati titoksértés bűncselekménye,
+c) visszaélés minősített adattal bűncselekménye,
 
 d) az (1) bekezdésben vagy az a)–c) pontban meghatározott bűncselekmény kísérlete, valamint – ha az előkészületet a törvény büntetni rendeli – előkészülete
 
