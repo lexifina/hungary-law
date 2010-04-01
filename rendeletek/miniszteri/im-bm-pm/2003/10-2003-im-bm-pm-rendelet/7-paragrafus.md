@@ -1,10 +1,10 @@
 7. § (1) Ez a rendelet 2003. július 1-jén lép hatályba.
 
-(2)[^7]
+(2)[^8]
 
 Melléklet a 10/2003. (V. 6.) IM–BM–PM
 
-együttes rendelethez[^8]
+együttes rendelethez[^9]
 
 INGYENESEN KIADOTT IRATMÁSOLATOK JEGYZÉKE
 
@@ -24,5 +24,5 @@ első alkalommal – illetékmentesen – kiadott iratokról
 
 | Az iratmásolatot kérő neve és eljárásjogi helyzete | Az irat megnevezése, amelyről a másolatot kérték | Kezdő és befejező oldalak száma | Dátum | Elektronikus formában történt-e az irat kiadása? | Átvevő aláírása |
 
-[^7]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 80. pontja hatályon kívül helyezte.
-[^8]: A mellékletet a 16/2006. (VIII. 14.) IRM–PM együttes rendelet 3. §-a iktatta be.
+[^8]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 80. pontja hatályon kívül helyezte.
+[^9]: A mellékletet a 16/2006. (VIII. 14.) IRM–PM együttes rendelet 3. §-a iktatta be.

@@ -12,8 +12,8 @@ a) a terhelt, a védő és a fiatalkorú törvényes képviselője másolatot ka
 
 b) a sértett és képviselője másolatot kaphat a nyomozás azon iratairól, amelyeknek a megismerésére a Be. 229. §-a (2) bekezdése alapján jogosult.
 
-(5)[^1] A bírósági eljárásban a vádlott, a védő, a fiatalkorú törvényes képviselője, a sértett, a magánvádló, a pótmagánvádló, a magánfél és a felsoroltak képviselője részére – ha a Be. eltérően nem rendelkezik – a másolat kiadása nem korlátozható.
+(5)[^2] A bírósági eljárásban a vádlott, a védő, a fiatalkorú törvényes képviselője, a sértett, a magánvádló, a pótmagánvádló, a magánfél és a felsoroltak képviselője részére – ha a Be. eltérően nem rendelkezik – a másolat kiadása nem korlátozható.
 
 (6) Az egyéb érdekelt és képviselője részére az iratokból az őt érintő körben adható másolat. A tanú részére a vallomását tartalmazó jegyzőkönyvről, illetőleg jegyzőkönyvrészről adható másolat.
 
-[^1]: A 2. § (5) bekezdése a 16/2006. (VIII. 14.) IRM–PM együttes rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (5) bekezdése a 16/2006. (VIII. 14.) IRM–PM együttes rendelet 1. §-ával megállapított szöveg.
