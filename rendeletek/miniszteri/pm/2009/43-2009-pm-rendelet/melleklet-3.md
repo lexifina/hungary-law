@@ -10,7 +10,7 @@
 
 |  | Adószám: |
 
-|  | A megrendelő tevékenységének minősége (adóraktár/bejegyzett kereskedő/nem bejegyzett kereskedő/közösségi kereskedelmi tevékenységet végző/importőr): |
+|  | A megrendelő tevékenységének minősége (adóraktár/bejegyzett kereskedő/közösségi kereskedelmi tevékenységet végző/importőr): |
 
 |  | Székhelye (pontos címe): |
 
