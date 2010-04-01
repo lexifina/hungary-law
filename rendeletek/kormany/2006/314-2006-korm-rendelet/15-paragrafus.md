@@ -2,7 +2,7 @@
 
 a)[^50] végzik az áruk vámkezelését, kiszabják, beszedik, visszafizetik, elengedik és könyvelik a vámot, továbbá – ha jogszabály a Vám- és Pénzügyőrség hatáskörébe utalja – a nem közösségi adókat, díjakat és az egyéb költségeket, határoznak a vámfelügyelet kérdésében, valamint első fokon eljárnak a kiszabott vámigazgatási bírságok elengedése, mérséklése tekintetében,
 
-b)[^51] ellátják a jövedéki ellenőrzéssel, hatósági felügyelettel, a vámhatóság hatáskörébe utalt adók, díjak tekintetében az adóztatással, adóellenőrzéssel és hatósági ellenőrzéssel, engedélyezéssel, valamint a Jöt. és a környezetvédelmi termékdíjról, továbbá az egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény szerinti nyilvántartásba vétellel kapcsolatos jogszabályban meghatározott elsőfokú hatósági feladatokat,
+b)[^51] ellátják a jövedéki ellenőrzéssel, hatósági felügyelettel, a vámhatóság hatáskörébe utalt adók, díjak tekintetében az adóztatással, adóellenőrzéssel és hatósági ellenőrzéssel, engedélyezéssel, valamint – a 18. § (7) bekezdésben foglaltak kivételével – a Jöt. és a környezetvédelmi termékdíjról, továbbá az egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény szerinti nyilvántartásba vétellel kapcsolatos jogszabályban meghatározott elsőfokú hatósági feladatokat,
 
 c) intézkedéseket tesznek a Vám- és Pénzügyőrség hatáskörébe utalt jogszabálysértések megelőzésére, felderítésére,
 
@@ -76,7 +76,15 @@ m)[^74] végzik a fémkereskedelmi tevékenység engedélyezése során az enged
 
 (7)[^79] A fokozott ellenőrzés alá eső termékek vámeljárás alá vonására kijelölt vám- és pénzügyőri hivatalokat a Melléklet tartalmazza.
 
-(8)[^80] Az (1) bekezdés l) pontja szerinti feladatok közül elsőfokú adóhatósági jogkörben a regisztrációs adó különös szabályok szerint történő megállapítása, beszedése és ellenőrzése tekintetében a Vám- és Pénzügyőri Hivatal Békéscsaba jár el.
+(8)[^80] A regisztrációs adónak a különös szabályok szerint történő megállapítása, beszedése és ellenőrzése tekintetében vámhatóságként első fokú eljárásban
+
+a) a Vám- és Pénzügyőri Hivatal Békéscsaba,
+
+b) a Vám- és Pénzügyőri Hivatal Tatabánya, valamint
+
+c) a Vám- és Pénzügyőri Hivatal Szombathely
+
+jár el.
 
 (9)[^81] A 17. számú Vám- és Pénzügyőri Hivatal rendelkezik hatáskörrel:
 
@@ -107,7 +115,7 @@ l) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkoz
 (10)[^83] A (2) bekezdés c) pontja szerinti eljárások tekintetében a Regionális Ellenőrzési Központ Budapest rendelkezik hatáskörrel.
 
 [^50]: A 15. § (1) bekezdésének a) pontja a 320/2008. (XII. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
-[^51]: A 15. § (1) bekezdésének b) pontja a 359/2007. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. E módosító rendelet 16. § (1) bekezdése alapján a rendelkezést a 2007. december 30. napját követően indított eljárásokban kell alkalmazni.
+[^51]: A 15. § (1) bekezdés b) pontja a 312/2009. (XII. 28.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^52]: A 15. § (1) bekezdésének h) pontja a 320/2008. (XII. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
 [^53]: A 15. § (1) bekezdésének i) pontja a 359/2007. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. E módosító rendelet 16. § (1) bekezdése alapján a rendelkezést a 2007. december 30. napját követően indított eljárásokban kell alkalmazni.
 [^54]: A 15. § (1) bekezdésének k) pontja a 359/2007. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. E módosító rendelet 16. § (1) bekezdése alapján a rendelkezést a 2007. december 30. napját követően indított eljárásokban kell alkalmazni.
@@ -125,7 +133,7 @@ l) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkoz
 [^66]: A 15. § (1) bekezdés új e) pontját a 248/2009. (XI. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be, egyidejűleg az eredeti e)–j) pont megjelölését f)–k) pontra változtatta.
 [^67]: A 15. § (2) bekezdésének e) pontja a 320/2008. (XII. 29.) Korm. rendelet 18. § (1) bekezdése szerint módosított szöveg. A 15. § (2) bekezdés eredeti e) pontjának megjelölését a 248/2009. (XI. 13.) Korm. rendelet 15. § (2) bekezdése f) pontra változtatta.
 [^68]: A 15. § (2) bekezdés eredeti f) pontjának megjelölését a 248/2009. (XI. 13.) Korm. rendelet 15. § (2) bekezdése g) pontra változtatta.
-[^69]: A 15. § (2) bekezdésének új g) pontját a 320/2008. (XII. 29.) Korm. rendelet 10. § (5) bekezdése iktatta be, egyidejűleg az eredeti g)–h) pont jelölését h)–i) pontra változtatva. A g) pont megjelölését a 248/2009. (XI. 13.) Korm. rendelet 15. § (2) bekezdése h) pontra változtatta, szövege a 312/2009. (XII. 28.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg.
+[^69]: A 15. § (2) bekezdésének új g) pontját a 320/2008. (XII. 29.) Korm. rendelet 10. § (5) bekezdése iktatta be, egyidejűleg az eredeti g)–h) pont jelölését h)–i) pontra változtatva. A g) pont megjelölését a 248/2009. (XI. 13.) Korm. rendelet 15. § (2) bekezdése h) pontra változtatta, szövege a 312/2009. (XII. 28.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg. A h) pontból az „a termékkísérő okmány,” szövegrészt a 312/2009. (XII. 28.) Korm. rendelet 25. § (9) bekezdése hatályon kívül helyezte [e módosító rendelet 25. § (4) bekezdése alapján 2011. január 1-jén lép hatályba].
 [^70]: A 15. § (2) bekezdés h) – eredeti g) – pontjának megjelölését a 248/2009. (XI. 13.) Korm. rendelet 5. § (2) bekezdése i) pontra változtatta.
 [^71]: A 15. § (2) bekezdés i) – eredeti h) – pontjának megjelölését a 248/2009. (XI. 13.) Korm. rendelet 5. § (2) bekezdése j) pontra változtatta.
 [^72]: A 15. § (2) bekezdésének j) pontját a 138/2009. (VI. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be. A 15. § (2) bekezdés eredeti j) pontjának megjelölését a 248/2009. (XI. 13.) Korm. rendelet 5. § (2) bekezdése k) pontra változtatta.
@@ -136,7 +144,7 @@ l) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkoz
 [^77]: A 15. § (5) bekezdését a 359/2007. (XII. 23.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 248/2009. (XI. 13.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^78]: A 15. § (6) bekezdését a 320/2008. (XII. 29.) Korm. rendelet 10. § (6) bekezdése iktatta be; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
 [^79]: A 15. § (7) bekezdését a 248/2009. (XI. 13.) Korm. rendelet 5. § (4) bekezdése iktatta be.
-[^80]: A 15. § (8) bekezdését a 248/2009. (XI. 13.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+[^80]: A 15. § (8) bekezdését a 248/2009. (XI. 13.) Korm. rendelet 5. § (4) bekezdése iktatta be, szövege a 91/2010. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^81]: A 15. § (9) bekezdését a 248/2009. (XI. 13.) Korm. rendelet 5. § (4) bekezdése iktatta be.
 [^82]: A 15. § (9) bekezdés d) pontja a 312/2009. (XII. 28.) Korm. rendelet 25. § (6) bekezdése szerint módosított szöveg.
 [^83]: A 15. § (10) bekezdését a 248/2009. (XI. 13.) Korm. rendelet 5. § (4) bekezdése iktatta be.

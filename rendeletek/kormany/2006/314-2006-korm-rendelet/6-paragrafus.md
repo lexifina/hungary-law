@@ -22,7 +22,7 @@ j) intézi – amennyiben külön jogszabály ettől eltérően nem rendelkezik 
 
 k) ellátja, koordinálja és felügyeli a Vám- és Pénzügyőrséget érintő piacfelügyeleti ellenőrzéssel kapcsolatos jogszabályban foglalt feladatokat, valamint együttműködik a piacfelügyeleti hatóságokkal,
 
-l)[^28] engedélyezi az anyagkísérő okmány formanyomtatványként történő előállítását,
+l)[^28] engedélyezi a termékkísérő okmány, az egyszerűsített kísérő okmány, a borkísérő okmány, valamint az anyagkísérő okmány formanyomtatványként történő előállítását,
 
 m) végzi a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény (a továbbiakban: Vtv.) 7/D. §-a szerinti felülellenőrzést, valamint a vámhatóság hatáskörébe tartozó adók tekintetében lefolytatja az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti felülellenőrzést és az ahhoz kapcsolódó adóigazgatási eljárást,
 
@@ -31,4 +31,4 @@ n) eljár első fokon az e § m) pontja szerinti felülellenőrzés során kisza
 [^25]: A 6. § a 359/2007. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 16. § (1) bekezdése alapján a rendelkezést a 2007. december 30. napját követően indult eljárásokban kell alkalmazni.
 [^26]: A 6. § d) pontja a 320/2008. (XII. 29.) Korm. rendelet 18. § (1) bekezdése szerint módosított szöveg; alkalmazására lásd e módosító rendelet 17. § (2) bekezdését és 22. §-át.
 [^27]: A 6. § i) pontja a 359/2007. (XII. 23.) Korm. rendelet 16. § (2) bekezdése alapján 2008. január 1-jén lépett hatályba.
-[^28]: A 6. § l) pontját a 320/2008. (XII. 29.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte, újonnan a 312/2009. (XII. 28.) Korm. rendelet 26. § (5) bekezdése iktatta be.
+[^28]: A 6. § l) pontját a 320/2008. (XII. 29.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte, újonnan a 312/2009. (XII. 28.) Korm. rendelet 26. § (5) bekezdése iktatta be, szövege ez utóbbi módosító rendelet 25. (7) bekezdése szerint módosított szöveg. Az l) pontból az „a termékkísérő okmány,” szövegrészt a 312/2009. (XII. 28.) Korm. rendelet 25. § (9) bekezdése hatályon kívül helyezte [e módosító rendelet 25. § (4) bekezdése alapján 2011. január 1-jén lép hatályba].
