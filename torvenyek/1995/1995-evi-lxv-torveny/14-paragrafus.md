@@ -1,1 +1,0 @@
-14. § A minősített adatot tartalmazó irat egyéb adatainak, illetve önállóan kezelhető iratrészeinek megismerése nem korlátozható, amennyiben az ilyen adatok, illetve iratrészek a minősített adattól a minősített adat felismerésének veszélye nélkül, arányos munkaráfordítással technikailag elkülöníthetők.
