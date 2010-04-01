@@ -12,6 +12,6 @@
 
 (7) A Levéltár köteles minden olyan iratot, amelynek őrzésére e törvény nem hatalmazza fel, a törvény hatálybalépésétől számított hat hónapon belül eredeti tulajdonosának vagy jogutódjának, köziratok esetében pedig az arra illetékes levéltárnak átadni.
 
-(8) A Levéltár kezelésében levő, a Ttv. szerinti minősített adatot tartalmazó irat megismeréséhez a Ttv. 2. § (1) bekezdésének 7. pontjában meghatározott engedély szükséges.
+(8) A Levéltár kezelésében levő, a minősített adatot tartalmazó irat megismeréséhez a Ttv. 2. § (1) bekezdésének 7. pontjában meghatározott engedély szükséges.
 
 (9) A törvény hatálya alá tartozó iratok a törvény hatálybalépésének napjától kizárólag az Ltv. szabályai alapján, a Levéltárban selejtezhetőek.

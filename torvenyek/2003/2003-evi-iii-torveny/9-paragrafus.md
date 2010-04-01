@@ -6,7 +6,7 @@
 
 (4) A főigazgató évente beszámol a 8. § (5) bekezdésben szereplő országgyűlési bizottságok előtt.
 
-(5) A főigazgató a Levéltár által kezelt, az államtitok és szolgálati titok körébe tartozó adatok védelmére szolgáló rendszerek és intézkedések adatai tekintetében a Ttv. szerinti minősítői jogkört gyakorol.
+(5) A főigazgató a Levéltár által kezelt, a minősített adatok védelmére szolgáló rendszerek és intézkedések adatai tekintetében a minősített adat védelméről szóló törvény szerinti minősítői jogkört gyakorol.
 
 (6) A kinevezés és a felmentés kivételével az egyéb munkáltatói jogokat a főigazgató tekintetében az Országgyűlés Főtitkára gyakorolja.
 

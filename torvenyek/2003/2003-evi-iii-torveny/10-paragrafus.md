@@ -2,7 +2,7 @@
 
 (2) A Levéltár az e törvény alapján anonimizáltan megismerhető adatokat olyan módon teszi hozzáférhetővé a kérelmező számára, hogy az adatokat tartalmazó irat másolatát átadja, és a kérelmező számára nem megismerhető adatokat azon olvashatatlanná teszi. A megfigyelt számára minden, az iratokról készült másolatot soron kívül és térítésmentesen kell biztosítani.
 
-(3) A Levéltár a Ttv. alapján minősített adatok vonatkozásában gondoskodik a titokvédelmi szabályok betartásáról.
+(3) A Levéltár a Ttv. alapján minősített adatok vonatkozásában gondoskodik a minősítettadat-védelmi szabályok betartásáról.
 
 (4) A Levéltár gondoskodik az átvett, valamint a keletkező iratok egységes szempontok alapján történő nyilvántartásáról és kezeléséről.
 
