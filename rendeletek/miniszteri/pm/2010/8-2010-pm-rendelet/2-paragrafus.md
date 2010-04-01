@@ -1,0 +1,7 @@
+## 1. § A közteherjegy forgalomba hozataláról, a közteherjeggyel kapcsolatos eljárási, forgalmazási és elszámolási szabályokról szóló 29/1997. (IX. 3.) PM rendeletben (a továbbiakban: R.) meghatározott közteherjegyek (a továbbiakban: közteherjegyek) előállítása és forgalmazása e rendelet hatálybalépésével egyidejűleg megszűnik.
+
+2. § (1) A fel nem használt közteherjegyek értékének visszatérítését a kérelmező a közteherjegyek benyújtásával, valamint a vásárlását (megszerzését) igazoló számla vagy egyéb okirat bemutatásával – postai úton előterjesztett kérelem esetén benyújtásával – az állami adóhatóságnál 2010. szeptember 30-i jogvesztő határidőig az állami adóhatóság erre a célra rendszeresített nyomtatványán személyesen vagy postai úton kérheti.
+
+(2) Az (1) bekezdésben említett nyomtatvány tartalmazza a kérelmező azonosításra alkalmas adatait (név, lakóhely vagy székhely, adóazonosító jel vagy adószám), az átadott (beküldött) közteherjegyek címletét és darabszámát, együttes összegét, valamint a számla (okirat) számát, arra vonatkozó nyilatkozatot, hogy a kérelmezőnek köztartozása nincs, és kéri a közteherjegy értékének megfelelő összeg kiutalását, továbbá – pénzforgalmi számla nyitására nem köteles magánszemély kérelmező esetén – a visszafizetés módjára vonatkozó nyilatkozatot (belföldi fizetési számlára történő átutalás vagy készpénzfizetés kézbesítése).
+
+(3) Postai úton előterjesztett kérelem esetén a nyomtatványhoz külön, zárt, a lezárására szolgáló felületen a kérelmező által aláírt borítékba helyezve kell a közteherjegyeket mellékelni.
