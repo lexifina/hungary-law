@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-131-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-10-01 | 2003-131-20-22.8 | 131/2003. (VIII. 22.) Korm. rendelet |
+| 2010-04-01 | 2003-131-20-22.9 | 90/2010. (III. 26.) Korm. rendelet |
