@@ -36,10 +36,11 @@ l) családtag: a saját jogú igényjogosult személy házastársa (özvegye), a
 
 m) biztosított: az Ebtv. 5/B. §-ának aa) alpontja szerinti személyi kör;
 
-n) védett személyek: a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 1. §-ának (1) bekezdése szerinti személy;
+n)[^2] védett személyek: a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 1. § a)–d) pontja szerinti személy;
 
 o) saját jogú igényjogosult: a b)–d), valamint f) pontok szerinti személyek, valamint az e pontban nevesített szervezetektől és azok jogelőd szervezeteitől nyugállományba helyezett személyek;
 
 p) hozzátartozói jogon igényjogosult: a saját jogú igényjogosult biztosított közeli hozzátartozója és biztosított családtagja.
 
 [^1]: Az 1. § a) pontja a 236/2009. (X. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § n) pontja a 63/2010. (III. 18.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.

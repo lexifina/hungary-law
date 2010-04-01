@@ -4,7 +4,7 @@
 
 9. § (1) A saját jogú igényjogosult a járóbeteg-szakellátást és a fekvőbeteg-gyógyintézeti ellátást
 
-a)[^21] a HM ÁEK-nél, és
+a)[^22] a HM ÁEK-nél, és
 
 b) a szolgálatteljesítés helye szerint a társadalombiztosítás keretében működő, területileg illetékes járó-, illetve fekvőbeteg-ellátást nyújtó egészségügyi szolgáltatónál
 
@@ -22,4 +22,4 @@ c) a vasútegészségügyi szolgálat által fenntartott járóbeteg-szakellát�
 
 (3) A hivatásos vagy szerződéses állományú, valamint a vasutas igényjogosult a járóbeteg-szakellátás vagy a fekvőbeteg-gyógyintézeti ellátás igénybevétele után az ellátásról szóló igazolást az illetékes szerv alapellátó orvosának haladéktalanul, de legkésőbb a szolgálatképesség visszanyerésekor köteles bemutatni.
 
-[^21]: A 9. § (1) bekezdés a) pontja a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^22]: A 9. § (1) bekezdés a) pontja a 236/2009. (X. 20.) Korm. rendelet 5. § (2) bekezdés h) pontja szerint módosított szöveg.

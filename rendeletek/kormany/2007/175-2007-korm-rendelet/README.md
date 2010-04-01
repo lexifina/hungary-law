@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-175-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 2007-175-20-22.5 | 175/2007. (VI. 30.) Korm. rendelet |
+| 2010-04-01 | 2007-175-20-22.6 | 63/2010. (III. 18.) Korm. rendelet |
