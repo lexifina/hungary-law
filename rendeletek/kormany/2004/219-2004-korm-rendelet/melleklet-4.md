@@ -6,11 +6,11 @@
 
 I. Törzsadatok
 
-1.[^246] A kérelmező tevékenységi köre ezen belül kiemelve azt, amelyhez az engedélyköteles tevékenység kapcsolódik.
+1.[^247] A kérelmező tevékenységi köre ezen belül kiemelve azt, amelyhez az engedélyköteles tevékenység kapcsolódik.
 
 2. Az engedélyköteles tevékenység folytatásának módja, helye (település név, hrsz. szám), feltüntetve a hely területi kiterjedését is. Az engedélyköteles tevékenység folytatása helyének (a továbbiakban: érintett terület) tulajdonosa, az érintett terület használata, valamint az érintett területtel közvetlenül szomszédos, annak 500 m-es környezetében lévő területek használata.
 
-3. Az engedélyköteles tevékenység folytatása során a felszín alatti vízbe, a földtani közegbe kerülő anyagfajtája, jellemző mennyisége, a szennyező anyag, s azon belül e rendelet 1. számú melléklete, továbbá külön jogszabály[^247] szerinti szennyező anyag tartalma (a koncentrációérték megadásával), és ezek időbeli változása.
+3. Az engedélyköteles tevékenység folytatása során a felszín alatti vízbe, a földtani közegbe kerülő anyagfajtája, jellemző mennyisége, a szennyező anyag, s azon belül e rendelet 1. számú melléklete, továbbá külön jogszabály[^248] szerinti szennyező anyag tartalma (a koncentrációérték megadásával), és ezek időbeli változása.
 
 4. Az érintett terület érzékenységi besorolása, illetve annak nem kielégítő volta, esetleges hiánya esetén az érzékenységre vonatkozó, egyedi lokális érzékenységi vizsgálat eredményei.
 
@@ -28,24 +28,24 @@ c) időszakos vízfolyásba történő tisztított, közműves települési szen
 
 II. Kiegészítő adatok
 
-1.[^248] Az érintett terület és a hatásterület koncepcionális modelljének (így különösen természeti adottságainak, földtani, hidrogeológiai és talajtani viszonyainak, érzékenységének) bemutatása, továbbá a talaj és altalaj esetleges tisztító hatásának jellemzése.
+1.[^249] Az érintett terület és a hatásterület koncepcionális modelljének (így különösen természeti adottságainak, földtani, hidrogeológiai és talajtani viszonyainak, érzékenységének) bemutatása, továbbá a talaj és altalaj esetleges tisztító hatásának jellemzése.
 
 2. A felszín alatti víz és a földtani közeg állapotának vizsgálata, az engedélyköteles tevékenység következtében fellépő hatásokkal szembeni érzékenység jellemzése.
 
-3. Az engedélyköteles tevékenység folytatása során a felszín alatti vízbe, a földtani közegbe kerülő anyag(ok), továbbá az ezek lebomlásával, átalakulásával keletkező anyag(ok) által okozott várható terhelés becsült hatásterületének (a továbbiakban: hatásterület) meghatározása. A hatásterület meghatározása során a külön jogszabály[^249] felszín alatti vízre, földtani közegre vonatkozó szabályait kell alkalmazni.
+3. Az engedélyköteles tevékenység folytatása során a felszín alatti vízbe, a földtani közegbe kerülő anyag(ok), továbbá az ezek lebomlásával, átalakulásával keletkező anyag(ok) által okozott várható terhelés becsült hatásterületének (a továbbiakban: hatásterület) meghatározása. A hatásterület meghatározása során a külön jogszabály[^250] felszín alatti vízre, földtani közegre vonatkozó szabályait kell alkalmazni.
 
-4.[^250] Az engedélyköteles tevékenység felszín alatti vízre, földtani közegre gyakorolt hatásának előrejelzése a hatásterületre kiterjedően bemutatva az e rendeletben meghatározott kritériumokat.
+4.[^251] Az engedélyköteles tevékenység felszín alatti vízre, földtani közegre gyakorolt hatásának előrejelzése a hatásterületre kiterjedően bemutatva az e rendeletben meghatározott kritériumokat.
 
-5.[^251] Az engedélyköteles tevékenység következtében fellépő emberi egészségi, környezeti (ez utóbbiba beleértve a felszín alatti vízben a szennyezőanyag emelkedő tendenciája kialakulásának veszélyét is) kockázat meghatározása, értékelése.
+5.[^252] Az engedélyköteles tevékenység következtében fellépő emberi egészségi, környezeti (ez utóbbiba beleértve a felszín alatti vízben a szennyezőanyag emelkedő tendenciája kialakulásának veszélyét is) kockázat meghatározása, értékelése.
 
 6. Bevezetés esetén más megoldás lehetőségének műszaki- és gazdasági vizsgálata, illetve a tervezett bevezetésnél hatékonyabb megoldás hiányának indokolása. Időszakos vízfolyásba történő bevezetés esetén a vizsgálatnak ki kell terjednie legalább az állandó vízfolyásba történő bevezetés, illetve a teljes vagy részleges mezőgazdasági felhasználás lehetőségeire.
 
-7.[^252]
+7.[^253]
 
-[^246]: A 4. számú melléklet I. pontjának 1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 359. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^247]: A felszín alatti víz és földtani közeg minőségi védelméhez szükséges határértékekről szóló 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet.
-[^248]: A 4. számú melléklet II. Kiegészítő adatok részének 1. pontja a 302/2008. (XII. 17.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^249]: A környezeti hatásvizsgálat elvégzéséhez kötött tevékenységek köréről és az ezzel kapcsolatos hatósági eljárás részletes szabályairól szóló 20/2001. (II. 14.) Korm. rendelet 2. számú melléklete.
-[^250]: A 4. számú melléklet II. Kiegészítő adatok részének 4. pontja a 302/2008. (XII. 17.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^251]: A 4. számú melléklet II. Kiegészítő adatok részének 5. pontja a 302/2008. (XII. 17.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^252]: A 4. számú melléklet II. pontjának 7. alpontját a 182/2009. (IX. 10.) Korm. rendelet 359. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^247]: A 4. számú melléklet I. pontjának 1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 359. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^248]: A felszín alatti víz és földtani közeg minőségi védelméhez szükséges határértékekről szóló 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet.
+[^249]: A 4. számú melléklet II. Kiegészítő adatok részének 1. pontja a 302/2008. (XII. 17.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^250]: A környezeti hatásvizsgálat elvégzéséhez kötött tevékenységek köréről és az ezzel kapcsolatos hatósági eljárás részletes szabályairól szóló 20/2001. (II. 14.) Korm. rendelet 2. számú melléklete.
+[^251]: A 4. számú melléklet II. Kiegészítő adatok részének 4. pontja a 302/2008. (XII. 17.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^252]: A 4. számú melléklet II. Kiegészítő adatok részének 5. pontja a 302/2008. (XII. 17.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^253]: A 4. számú melléklet II. pontjának 7. alpontját a 182/2009. (IX. 10.) Korm. rendelet 359. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
