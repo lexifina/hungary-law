@@ -1,0 +1,7 @@
+A büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (2) bekezdés n) pontjában kapott felhatalmazás alapján az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § h) és n) pontjában és a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörünkben eljárva,
+
+a 2. § tekintetében a büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (2) bekezdés m) pontjában kapott felhatalmazás alapján az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § h) és n) pontjában és a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörünkben eljárva,
+
+a 3–5. § tekintetében a büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (2) bekezdés j) pontjában, valamint a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet 127. § (1) bekezdés a) pontjában kapott felhatalmazás alapján az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § h) és n) pontjában és a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § a) pontjában meghatározott feladatkörünkben eljárva – a legfőbb ügyésszel egyetértésben –
+
+a következőket rendeljük el:

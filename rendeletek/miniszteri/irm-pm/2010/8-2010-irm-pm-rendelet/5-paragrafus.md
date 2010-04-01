@@ -1,0 +1,1 @@
+## 4. § A 11/2003. (V. 8.) IM–BM–PM együttes rendelet 3. § (1) bekezdésében az „[a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 137. § 17. pont]” szövegrész helyébe az „[a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 137. § 19. pont]” szöveg lép.
