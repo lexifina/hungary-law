@@ -278,7 +278,7 @@ A) A gyógyszerész oklevelek megnevezései, kibocsátó szervei, valamint a ké
 
 | Norvégia | Vitnemål for fullført grad candidata/candidatus pharmaciae, röv.: cand.pharm. (Candidate/candidates pharmaciae, röv.: cand.pharm. fokozat megszerzését tanúsító diploma) | Universitetsfakultet (Egyetemi kar) |  |
 
-| Ausztria | Staatliches Apothekerdiplom (Állami gyógyszerészoklevél) | Bundesministerium für Arbeit, Gesundheit und Soziales (Szövetségi Munka-, Egészség- és Szociálisügyi Minisztérium) |  |
+| Ausztria | Staatliches Apothekerdiplom (Állami gyógyszerészoklevél) | Österreichische Apothekerkammer (Osztrák Gyógyszerész Kamara) |  |
 
 | Lengyelország | Dyplom ukończenia studiów wyższych na kierunku farmacja z tytułem magistra (Egyetemi gyógyszerésztudományi kar elvégzését igazolói oklevél „okleveles gyógyszerész” címmel) | 1. Akademia Medyczna (Orvostudományi Akadémia), 2. Uniwersytet Medyczny (Orvostudományi Egyetem) 3. Collegium Medicum Uniwersytetu Jagiellońskiego [A Jagello Egyetem orvostudományi kara (Collegium Medicum)] |  |
 
@@ -296,7 +296,7 @@ A) A gyógyszerész oklevelek megnevezései, kibocsátó szervei, valamint a ké
 
 | Svájc | Diplôme de pharmacien (Gyógyszerészi oklevél); Eidgenössisches Apothekerdiplom (Szövetségi gyógyszerészi oklevél); Diploma federale di farmacista (Szövetségi gyógyszerészi oklevél) | Département fédéral de l’intérieur (Szövetségi Belügyminisztérium) Eidgenössisches Departement des Innern Dipartimento federale dell’interno |  |
 
-| Egyesült Királyság | Certificate of Registered Pharmaceutical Chemist (Bejegyzett gyógyszerészi bizonyítvány) |  |  |
+| Egyesült Királyság | Certificate of registered pharmacist (Bejegyzett gyógyszerészi bizonyítvány) | Nagy-Britannia esetében: Royal Pharmaceutical Society of Great Britain (Nagy-britanniai Királyi Gyógyszerészeti Társaság) Észak-Írország esetében: Pharmaceutical Society of Northern Ireland (Észak-írországi Királyi Gyógyszerészeti Társaság) |  |
 
 B) Feltétel nélküli elismerés a szerzett jogok esetén
 
@@ -338,4 +338,4 @@ i) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állam
 
 k) Amennyiben az adott gyógyszerészi tevékenység végzéséhez az A) pont szerinti oklevél megszerzése mellett a külön jogszabály szakmai gyakorlat követelményét írja elő, a szakmai gyakorlathoz kötött gyógyszerészi tevékenység megkezdésének feltételeként előírt gyakorlat igazolásaként el kell fogadni a tagállami állampolgár származási vagy küldő tagállamának illetékes hatósága által kiadott olyan igazolást, amely tanúsítja, hogy a tagállami állampolgár a gyógyszerészi tevékenységet a külön jogszabályban előírttal azonos ideig gyakorolta a származási vagy küldő tagállamban.
 
-[^5]: Az 5. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § e) pontja szerint módosított szöveg.
+[^5]: Az 5. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § e) pontja, a 12/2010. (III. 23.) EüM rendelet 1. § b) pontja szerint módosított szöveg.

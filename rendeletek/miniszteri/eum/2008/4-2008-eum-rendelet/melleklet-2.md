@@ -130,7 +130,7 @@
 
 | Svájc | Diplôme de médecin spécialiste (Szakorvos) Diplom als Facharzt (Szakorvos) Diploma di medico specilista (Szakorvos) | Département fédéral de l’intérieur et Fédération des médecins suisses (Szövetségi Belügyminisztérium) Eidgenössisches Departement des Innern und Verbindung der Schweizer Ärztinnen und Ärzte Dipartimento federale dell’interno e Federazione dei medici svizzeri |
 
-| Egyesült Királyság | Certificate of Completion of specialist Training (Bizonyítvány szakorvosi képzés teljesítéséről) | Competent authority (Illetékes hatóság) |
+| Egyesült Királyság | Certificate of completion of training (Bizonyítvány képzés teljesítéséről) | Postgraduate Medical Education and Training Board (Posztgraduális Orvosi Oktatási és Képzési Tanács) |
 
 ## C) Az egyes szakorvosi szakképesítések megnevezései Magyarországon, valamint az egyes tagállamokban:
 
@@ -202,7 +202,7 @@
 
 | Aneszteziológia A képzés legrövidebb időtartama: 3 év |
 
-| Belgium | Anesthésie-réanimation / Anesthesie reanimatie |  |
+| Belgium | Anesthésie-réanimation/Anesthesie- reanimatie |  |
 
 | Bulgária | Анестезиология и интензивно лечение |  |
 
@@ -290,7 +290,7 @@
 
 | Olaszország | – |  |
 
-| Ciprus | Σταματο-Γναθο- Προσωποχειρουργικη |  |
+| Ciprus | Σταματο-Γναθο- Пροσωποχειρουργικη |  |
 
 | Lettország | – |  |
 
@@ -308,7 +308,7 @@
 
 | Norvégia | Kjevekirurgi og munnhulesykdommer |  |
 
-| Ausztria | – |  |
+| Ausztria | Mund-, Kiefer- und Gesichtschirurgie |  |
 
 | Lengyelország | – |  |
 
@@ -372,7 +372,7 @@
 
 | Norvégia | – |  |
 
-| Ausztria | Mund- Kiefer- und Gesichtschirurgie |  |
+| Ausztria | Mund-, Kiefer- und Gesichtschirurgie (2013. február 28-ig) |  |
 
 | Lengyelország | Chirurgia szczękowo-twarzowa |  |
 
@@ -586,7 +586,7 @@
 
 | Bőr- és nemibeteg-gyógyászat A képzés legrövidebb időtartama: 3 év |
 
-| Belgium | Dermato-vénéréologie / dermato-venerologie |  |
+| Belgium | Dermato-vénéréologie/Dermato- venereologie |  |
 
 | Bulgária | Кожни и венерически болести |  |
 
@@ -982,7 +982,7 @@
 
 | Észtország | Taastusravi ja füsiaatria |  |
 
-| Görögország | Фνσικη Ιατρικη και Aποκατασταση |  |
+| Görögország | Фυσικη Ιατρικη και Aποκατασταση |  |
 
 | Spanyolország | Rehabilitación |  |
 
@@ -994,7 +994,7 @@
 
 | Olaszország | Medicina fisica e riabilitazione |  |
 
-| Ciprus | Φυσικη Ιατρικη και Aποκατασταση |  |
+| Ciprus | Фυσικη Ιατρικη και Aποκατασταση |  |
 
 | Lettország | Rehabilitoloģija Fiziskā rehabilitācija Fizikālā medicīna |  |
 
@@ -1012,7 +1012,7 @@
 
 | Norvégia | Fysikalsk medisin og rehabilitering |  |
 
-| Ausztria | Physikalische Medizin |  |
+| Ausztria | Physikalische Medizin und Allgemeine Rehabilitation |  |
 
 | Lengyelország | Rehabilitacja medyczna |  |
 
@@ -1076,7 +1076,7 @@
 
 | Norvégia | Arbeidsmedisin |  |
 
-| Ausztria | Arbeits- und Betriebsmedizin |  |
+| Ausztria | Arbeitsmedizin |  |
 
 | Lengyelország | Medycyna pracy |  |
 
@@ -1226,7 +1226,7 @@
 
 | Geriátria A képzés legrövidebb időtartama: 4 év |
 
-| Belgium | – |  |
+| Belgium | Gériatrie/Geriatrie |  |
 
 | Bulgária | Гериатрична медицина |  |
 
@@ -1286,11 +1286,11 @@
 
 | Svájc | – |  |
 
-| Egyesült Királyság | Geriatrics |  |
+| Egyesült Királyság | Geriatric medicine |  |
 
 | Gyermekpszichiátria A képzés legrövidebb időtartama: 4 év |
 
-| Belgium | Psychiatrie infanto-juvénile/Kinder- en jeugdpsychiatrie |  |
+| Belgium | Psychiatrie, particulierement en psychiatrie infanto-juvénile/Psychiatrie, meer bepaald in de kinder- en jeugdpsychiatrie |  |
 
 | Bulgária | Детска психиатрия |  |
 
@@ -1332,7 +1332,7 @@
 
 | Norvégia | Barne- og ungdomspsykiatri |  |
 
-| Ausztria | – |  |
+| Ausztria | Kinder- und Jugendpsychiatrie |  |
 
 | Lengyelország | Psychiatria dzieci i młodziezy |  |
 
@@ -1396,7 +1396,7 @@
 
 | Norvégia | Barnekirurgi |  |
 
-| Ausztria | Kinderchirurgie |  |
+| Ausztria | Kinder- und Jugendchirurgie |  |
 
 | Lengyelország | Chirurgia dziecieca |  |
 
@@ -1780,7 +1780,7 @@
 
 | Norvégia | Thoraxkirurgi |  |
 
-| Ausztria | – |  |
+| Ausztria | Thoraxchirurgie |  |
 
 | Lengyelország | Chirurgia klatki piersiowej |  |
 
@@ -2228,7 +2228,7 @@
 
 | Norvégia | Plastikkirurgi |  |
 
-| Ausztria | Plastische Chirurgie |  |
+| Ausztria | Plastische, Ästhetische und Rekonstruktive Chirurgie |  |
 
 | Lengyelország | Chirurgia plastyczna |  |
 
@@ -2250,7 +2250,7 @@
 
 | Pszichiátria A képzés legrövidebb időtartama: 4 év |
 
-| Belgium | Psychiatrie de l’adulte/Volwassen psychiatrie |  |
+| Belgium | Psychiatrie, particulierement en psychiatrie de l’adulte/Psychiatrie, meer bepaald in de volwassenpsychiatrie |  |
 
 | Bulgária | Психиатрия |  |
 
@@ -2292,7 +2292,7 @@
 
 | Norvégia | Psykiatri |  |
 
-| Ausztria | Psychiatrie |  |
+| Ausztria | Psychiatrie (und Psychotherapeutische Medizin) |  |
 
 | Lengyelország | Psychiatria |  |
 
@@ -2356,7 +2356,7 @@
 
 | Norvégia | – |  |
 
-| Ausztria | Radiologie |  |
+| Ausztria | Radiologie (2004. március 31-ig) |  |
 
 | Lengyelország | – |  |
 
@@ -2634,7 +2634,7 @@
 
 | Szülészet-nőgyógyászat A képzés legrövidebb időtartama: 4 év |
 
-| Belgium | Gynécologie-obstétrique / Gynaecologie en verloskunde |  |
+| Belgium | Gynécologie-obstétrique/Gynaecologie- verloskunde |  |
 
 | Bulgária | Акушерство и гинекология |  |
 
@@ -2956,7 +2956,7 @@
 
 | Ország | Oklevél megnevezése |
 
-| Belgium | Arrêté ministériel d’agrément de médecin généraliste/ministerieel erkenningsbesluit van huisarts |
+| Belgium | Bijzondere beroepstitel van huisarts/Titre professionnel particulier de médecin généraliste |
 
 | Bulgária | Свидетелство за призната специалност по Обща медицина |
 
@@ -3016,7 +3016,7 @@
 
 | Svájc |  |
 
-| Egyesült Királyság | Certificate of prescribed/equivalent experience |
+| Egyesült Királyság | Certificate of completion of training in general practice |
 
 ## E) A háziorvosi szakképesítés megnevezései Magyarországon, valamint az egyes tagállamokban:
 
