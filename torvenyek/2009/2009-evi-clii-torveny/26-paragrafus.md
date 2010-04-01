@@ -1,0 +1,9 @@
+26. § E törvény hatálybalépésével egyidejűleg az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 16/A. §-ának (1) bekezdésében az „(ide nem értve különösen a tevékenységében személyesen közreműködő tagját, valamint az alkalmi munkavállalói könyvvel foglalkoztatott személyt)” szövegrész helyébe az „(ide nem értve különösen a tevékenységében személyesen közreműködő tagját, valamint az egyszerűsített foglalkoztatásról szóló törvény alapján alkalmi munka keretében foglalkoztatott személyt)” szöveg lép.
+
+Sólyom László s. k.,
+
+köztársasági elnök
+
+Dr. Katona Béla s. k.,
+
+az Országgyűlés elnöke

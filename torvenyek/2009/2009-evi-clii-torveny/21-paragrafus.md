@@ -1,0 +1,5 @@
+21. § A munkavédelemről szóló 1993. évi XCIII. törvény 87. § 9. pontjának helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában]
+
+„9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában egyszerűsített foglalkoztatás keretében történő munkavégzést –, a közszolgálati, a közalkalmazotti jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, a szakképző iskolákban a tanulói jogviszony keretében a szakmai képzési követelmények teljesülése során, továbbá a tanulószerződés alapján, a hallgatói jogviszonyban a gyakorlati képzés során, a büntetés-végrehajtási jogviszonyban (előzetes letartóztatásban, elítéltként), a közigazgatási határozat alapján, a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a katasztrófavédelem szerveinek tagjai által szolgálati viszonyukban, az önkéntes jogviszonyban végzett munka, valamint a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka.”
