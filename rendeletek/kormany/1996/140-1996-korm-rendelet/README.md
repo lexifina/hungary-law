@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-140-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1996-140-20-22.19 | 140/1996. (VIII. 31.) Korm. rendelet |
+| 2010-04-01 | 1996-140-20-22.20 | 90/2010. (III. 26.) Korm. rendelet |

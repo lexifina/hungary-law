@@ -284,7 +284,7 @@
 
 | Osztályvezetői illetményre jogosult | Osztályvezető | alezredes | egyetem vagy főiskola | szakirányú felsőfokú_ |
 
-2/B. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^80]
+2/B. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^81]
 
 A rendszeresített alapbeosztások beosztási kategóriába sorolása
 
@@ -370,4 +370,4 @@ A rendszeresített alapbeosztások beosztási kategóriába sorolása
 
 | Pályakezdő |
 
-[^80]: A 2/B. számú mellékletet a 115/2001. (VI. 29.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 140/2008. (V. 16.) Korm. rendelet 2. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 5. §-a alapján az új besorolások miatt az érintettek illetménye nem csökkenhet. Lásd még e módosító rendelet 4. §-át.
+[^81]: A 2/B. számú mellékletet a 115/2001. (VI. 29.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 140/2008. (V. 16.) Korm. rendelet 2. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 5. §-a alapján az új besorolások miatt az érintettek illetménye nem csökkenhet. Lásd még e módosító rendelet 4. §-át.

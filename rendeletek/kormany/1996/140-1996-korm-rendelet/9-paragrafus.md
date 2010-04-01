@@ -4,7 +4,7 @@ a) a fegyveres szerv által tartott továbbképzésen való részvétel;
 
 b) a fegyveres szervnél előírt egyenruha és felszerelési tárgyak beszerzése és tartása;
 
-c) az állam- és szolgálati titok védelmére, az egyenruha viselésére a hivatásos állomány tagjára vonatkozó szabályok betartása.
+c)[^12] a minősített adat védelmére, az egyenruha viselésére a hivatásos állomány tagjára vonatkozó szabályok betartása.
 
 (2) A vezényeltet a polgári szervnél az alábbi kötelezettségek terhelik:
 
@@ -13,3 +13,5 @@ a) a beosztására meghatározott munkaköri leírás szerinti tevékenység fol
 b) a polgári szerv munkarendjének, a munka- és tűzvédelmi rendszabályok betartása;
 
 c) a polgári szervnek okozott kár esetén a polgári szerv munkavállalóira vonatkozó szabályok szerinti kártérítés.
+
+[^12]: A 9. § (1) bekezdés c) pontja a 90/2010. (III. 26.) Korm. rendelet 69. § (2) bekezdése szerint módosított szöveg.

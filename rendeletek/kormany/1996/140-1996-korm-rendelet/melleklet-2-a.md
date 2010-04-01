@@ -34,6 +34,6 @@
 
 | I. |  |  | szerződéses | pályakezdő | szerződéses | pályakezdő szerződéses | ált. isk. + szakmunk. + bv.alapvizsga | minden egyéb, a fenti kategóriákba nem tartozó beosztás |
 
-2/A. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^79]
+2/A. számú melléklet a 140/1996. (VIII. 31.) Korm. rendelethez[^80]
 
-[^79]: A 2/A. számú mellékletet a 115/2001. (VI. 29.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 282/2004. (X. 20.) Korm. rendelet 1. § (1) bekezde, a 86/2005. (V. 5.) Korm. rendelet 1. §-a, a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdés g) pontja és 8. § e)–g) pontja, a 140/2008. (V. 16.) Korm. rendelet 1. §-a és 7. §-a, a 320/2008. (XII. 29.) Korm. rendelet 16. §-a, a 333/2009. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^80]: A 2/A. számú mellékletet a 115/2001. (VI. 29.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 282/2004. (X. 20.) Korm. rendelet 1. § (1) bekezde, a 86/2005. (V. 5.) Korm. rendelet 1. §-a, a 390/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdés g) pontja és 8. § e)–g) pontja, a 140/2008. (V. 16.) Korm. rendelet 1. §-a és 7. §-a, a 320/2008. (XII. 29.) Korm. rendelet 16. §-a, a 333/2009. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.

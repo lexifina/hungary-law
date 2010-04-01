@@ -10,7 +10,7 @@ d) a hivatásos állomány tagjait megillető egészségügyi ellátás;
 
 e) az egyenruha, a kitüntetés és a fegyver viselése a hivatásos állomány tagjaira vonatkozó szabályok szerint;
 
-f)[^12] évi ruházati utánpótlási ellátmány.
+f)[^13] évi ruházati utánpótlási ellátmány.
 
 (2) A vezényeltet a polgári szervnél az alábbi jogosultságok illetik meg:
 
@@ -34,4 +34,4 @@ i) a Hszt. 109. § szerinti külön juttatás.
 
 (3) A (2) bekezdésben meghatározott illetmény, juttatások és térítések, valamint ezek közterhei – eltérő megállapodás hiányában – a polgári szervet terhelik.
 
-[^12]: A 10. § (1) bekezdés f) pontja a 333/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 10. § (1) bekezdés f) pontja a 333/2009. (XII. 29.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
