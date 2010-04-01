@@ -1,4 +1,4 @@
-13. §[^17] (1) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+13. §[^18] (1) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) a kábítószer-prekurzorokról szóló, 2004. február 11-i 273/2004/EK európai parlamenti és tanácsi rendelet 3. cikkének (2) és (6) bekezdése, 8. cikkének (2) bekezdése, 9. cikkének (3) bekezdése, 10. cikkének (1) bekezdése, 11. cikke, valamint 13. cikkének (1) bekezdése;
 
@@ -8,4 +8,4 @@ c) a kábítószer-prekurzorokról szóló 273/2004/EK európai parlamenti és t
 
 (2) Ez a rendelet az Európai Unió tagállamaiban a kábítószer-prekurzorok tiltott kereskedelme elleni fellépésre szakosodott különböző operatív egységek közötti együttműködés és információcsere fokozásának szükségességéről szóló, 2002. április 25-i tanácsi ajánlásnak való megfelelést szolgálja (2002/C 114/02).
 
-[^17]: A 13. § a 88/2008. (IV. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 13. § a 88/2008. (IV. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
