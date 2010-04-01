@@ -8,8 +8,10 @@
 
 (4) A anyagkísérő okmány formanyomtatványként történő előállítása kizárólag a Vám- és Pénzügyőrség Központi Ellenőrzési Parancsnoksága engedélyével, az engedélyben meghatározott feltételek szerint végezhető.
 
-(5) Az anyagkísérő okmányt a fémkereskedő a regionális ellenőrzési központ engedélye alapján számítógéppel előállíthatja a regionális ellenőrzési központ által kiadott, az engedélyben meghatározott sorszámtartományon belüli azonosító számok felhasználásával. A tárgyhót követő hónap 10. napjáig engedélyes a tárgyhóban felhasznált, számítógéppel előállított anyagkísérő okmányok azonosító számait megadja a regionális ellenőrzési központnak, vagy amennyiben a tárgyhóban nem állított ki anyagkísérő okmányt, erről tájékoztatja a regionális ellenőrzési központot.
+(5)[^1] Az anyagkísérő okmányt a fémkereskedő a regionális ellenőrzési központ engedélye alapján számítógéppel előállíthatja a regionális ellenőrzési központ által kiadott, az engedélyben meghatározott sorszámtartományon belüli azonosító számok felhasználásával. A tárgyhót követő hónap 20. napjáig engedélyes a tárgyhóban felhasznált, számítógéppel előállított anyagkísérő okmányok azonosító számait megadja a regionális ellenőrzési központnak, vagy amennyiben a tárgyhóban nem állított ki anyagkísérő okmányt, erről tájékoztatja a regionális ellenőrzési központot.
 
 (6) A fémkereskedelmi engedélyköteles anyagot szállító személy az anyagkísérő okmányt a fémkereskedelmi hatóság képviselőjének, annak kérésére bemutatja.
 
 (7) Az ellenőrzést végző jogosult az anyagkísérő okmány adatait a tényleges szállítmánnyal összehasonlítani. Az ellenőrzés során a szállító jelenlévő képviselője köteles a fémkereskedelmi hatósággal közreműködni.
+
+[^1]: A 24. § (5) bekezdése a 91/2010. (III. 31.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.

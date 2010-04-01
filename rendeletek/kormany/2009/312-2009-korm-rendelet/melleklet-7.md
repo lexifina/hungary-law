@@ -50,6 +50,8 @@
 
 ## Aláírás
 
-## VII. A nyilatkozat melléklete a személyazonosító okmány fénymásolata.
+## VII.[^18]
 
 7. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez
+
+[^18]: A 6. melléklet VII. pontját a 91/2010. (III. 31.) Korm. rendelet 3. § (5) bekezdése hatályon kívül helyezte.

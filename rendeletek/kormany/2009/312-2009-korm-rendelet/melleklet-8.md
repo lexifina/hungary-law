@@ -68,6 +68,6 @@
 
 ## X. Dátum, aláírás, bélyegzőlenyomat:
 
-8. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez[^8]
+8. számú melléklet a 312/2009. (XII. 28.) Korm. rendelethez[^19]
 
-[^8]: A 8. számú mellékletet a 25. § (10) bekezdése hatályon kívül helyezte.
+[^19]: A 8. számú mellékletet a 25. § (10) bekezdése hatályon kívül helyezte.
