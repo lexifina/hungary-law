@@ -1,1 +1,1 @@
-141. § A fegyelmi ügyben megindokolt határozatot kell hozni, amelyet az eljárás alá vont személy előtt ki kell hirdetni. A határozat egy példányát – ha államtitkot vagy szolgálati titkot nem tartalmaz – az eljárás alá vont személy részére kézbesíteni kell.
+141. § A fegyelmi ügyben megindokolt határozatot kell hozni, amelyet az eljárás alá vont személy előtt ki kell hirdetni. A határozat egy példányát – ha minősített adatot nem tartalmaz – az eljárás alá vont személy részére kézbesíteni kell.

@@ -14,7 +14,7 @@ f) a külön jogszabályban foglalt esetben kötelező védőoltásnak magát �
 
 g) szolgálaton kívül is a hivatásos állomány tagjához és beosztásához méltó magatartást tanúsítani.
 
-(2) A hivatásos állomány tagja köteles megtartani az állami és a szolgálati titkot, valamint az adatok védelmére vonatkozó szabályokat.
+(2) A hivatásos állomány tagja köteles megtartani a minősített adatot, valamint az adatok védelmére vonatkozó szabályokat.
 
 (3) A hivatásos állomány tagja a szolgálati feladathoz kapcsolódó nyilvános szerepléséért tiszteletdíjat nem fogadhat el.
 

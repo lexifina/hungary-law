@@ -4,4 +4,4 @@
 
 (3) A fegyelmi eljárás során a fontosabb eljárási cselekményeket (pl. az eljárás alá vont személy és a tanúk meghallgatását) jegyzőkönyvbe kell foglalni. A szemléről és a helyszíni szemléről jelentés is készülhet.
 
-(4) A fegyelmi eljárás alá vont személy és képviselője a fegyelmi ügy irataiba betekinthet, azokról – az állam és szolgálati titok védelméről szóló jogszabályok szerint – feljegyzést, másolatot készíthet, az eljárással összefüggő indítvánnyal élhet.
+(4) A fegyelmi eljárás alá vont személy és képviselője a fegyelmi ügy irataiba betekinthet, azokról – a minősített adat védelméről szóló jogszabályok szerint – feljegyzést, másolatot készíthet, az eljárással összefüggő indítvánnyal élhet.

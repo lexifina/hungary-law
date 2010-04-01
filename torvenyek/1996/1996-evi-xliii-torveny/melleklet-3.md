@@ -14,7 +14,7 @@ Esküszöm, hogy elöljáróimat, munkatársaimat megvédem, fegyveremet, felsze
 
 A szolgálati ismereteket elsajátítom. A rendet és fegyelmet minden törvényes eszközzel fenntartom. Alárendeltjeimről a legjobb tudásom szerint gondoskodom, őket öntudatos hazafiakká, a népek kölcsönös tiszteletére nevelem. Minden erőmmel, törekvésemmel, tudásommal a Magyar Köztársaság fejlődését szolgálom.
 
-Az állam- és szolgálati titkot híven megtartom. Szolgálatban és szolgálaton kívül példamutatóan viselkedem.
+A minősített adatot híven megtartom. Szolgálatban és szolgálaton kívül példamutatóan viselkedem.
 
 _______
 
@@ -28,7 +28,7 @@ Az eskü szövege:
 
 „Én .......................... a Magyar Köztársaság ...........................* tagja esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt és az alkotmányos jogszabályokat megtartom; a szolgálati kötelezettségeimet, ha kell, életem kockáztatásával is teljesítem. A rendet és a fegyelmet minden törvényes eszközzel fenntartom. Elöljáróimat, munkatársaimat megvédem, fegyveremet,** felszerelésemet megóvom.
 
-A szolgálati ismereteket elsajátítom. Elöljáróim és feljebbvalóim utasításainak engedelmeskedem. Az alárendeltjeimről a legjobb tudásom szerint gondoskodom. Az állam- és szolgálati titkot megőrzöm, kötelezettségeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.
+A szolgálati ismereteket elsajátítom. Elöljáróim és feljebbvalóim utasításainak engedelmeskedem. Az alárendeltjeimről a legjobb tudásom szerint gondoskodom. A minősített adatot megőrzöm, kötelezettségeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.
 
 Esküszöm, hogy minden erőmmel, törekvésemmel, tudásommal a Magyar Köztársaság javát szolgálom.
 
@@ -36,7 +36,7 @@ A fogadalom szövege:
 
 „Én .......................... a Magyar Köztársaság ...........................* tagja fogadom, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt és az alkotmányos jogszabályokat megtartom; a szolgálati kötelezettségeimet, ha kell, életem kockáztatásával is teljesítem. A rendet és a fegyelmet minden törvényes eszközzel fenntartom. Elöljáróimat, munkatársaimat megvédem, fegyveremet,** felszerelésemet megóvom.
 
-A szolgálati ismereteket elsajátítom. Elöljáróim és feljebbvalóim utasításainak engedelmeskedem. Az alárendeltjeimről a legjobb tudásom szerint gondoskodom. Az állam- és szolgálati titkot megőrzöm, kötelezettségeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.
+A szolgálati ismereteket elsajátítom. Elöljáróim és feljebbvalóim utasításainak engedelmeskedem. Az alárendeltjeimről a legjobb tudásom szerint gondoskodom. A minősített adatot megőrzöm, kötelezettségeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.
 
 Fogadom, hogy minden erőmmel, törekvésemmel, tudásommal a Magyar Köztársaság javát szolgálom.
 
