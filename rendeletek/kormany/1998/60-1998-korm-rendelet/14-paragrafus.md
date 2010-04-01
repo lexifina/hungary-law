@@ -6,4 +6,6 @@ a) a nemzeti bibliográfiában regisztrálja,
 
 b) a korlátozásnak megfelelően kezeli,
 
-c) a terjesztési korlátozás tartama alatt csak az állami és szolgálati titok kutatási szabályainak megfelelően szolgáltatja.
+c)[^2] a terjesztési korlátozás tartama alatt csak a minősített adat kutatási szabályainak megfelelően szolgáltatja.
+
+[^2]: A 14. § (2) bekezdés c) pontja a 90/2010. (III. 26.) Korm. rendelet 69. § (4) bekezdése szerint módosított szöveg.

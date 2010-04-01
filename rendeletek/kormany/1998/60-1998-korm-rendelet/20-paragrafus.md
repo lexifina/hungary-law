@@ -1,6 +1,6 @@
-20. § (1)[^2] Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+20. § (1)[^3] Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^3]
+(2)[^4]
 
 Melléklet a 60/1998. (III. 27.) Korm. rendelethez
 
@@ -168,5 +168,5 @@ versenytérképek
 
 vizsgarendek
 
-[^2]: A 20. § (1) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1282. pontja hatályon kívül helyezte.
-[^3]: A 20. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1282. pontja hatályon kívül helyezte.
+[^3]: A 20. § (1) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1282. pontja hatályon kívül helyezte.
+[^4]: A 20. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1282. pontja hatályon kívül helyezte.
