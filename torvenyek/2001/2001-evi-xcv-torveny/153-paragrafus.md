@@ -4,4 +4,4 @@
 
 (3) A fegyelmi eljárás során a fontosabb eljárási cselekményeket jegyzőkönyvbe kell foglalni.
 
-(4) Az állomány fegyelmi eljárás alá vont tagja (képviselője) a fegyelmi ügy irataiba betekinthet, azokról – az állami és szolgálati titokról, valamint az adatvédelemről szóló rendelkezések betartása mellett – feljegyzést, másolatot készíthet.
+(4) Az állomány fegyelmi eljárás alá vont tagja (képviselője) a fegyelmi ügy irataiba betekinthet, azokról – a minősített adat védelméről, valamint az adatvédelemről szóló rendelkezések betartása mellett – feljegyzést, másolatot készíthet.
