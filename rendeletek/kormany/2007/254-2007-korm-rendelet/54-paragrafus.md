@@ -4,9 +4,9 @@
 
 54. § (1) E rendelet a kihirdetése napján lép hatályba.
 
-(2)–(3)[^12]
+(2)–(3)[^13]
 
-(4)[^13] A 14. § (3) bekezdésében megjelölt szabályzatot az MNV Zrt. a Magyar Közlönyben közzéteszi.
+(4)[^14] A 14. § (3) bekezdésében megjelölt szabályzatot az MNV Zrt. a Magyar Közlönyben közzéteszi.
 
 (5) Az MNV Zrt. jogelődei által állami tulajdonú termőföldre kötött haszonbérleti szerződéseket – figyelemmel a külön jogszabályok szerinti védettségi szempontokra is – 2008. december 31-ig kell felülvizsgálni és e rendelet szabályainak megfelelő módosításukat kezdeményezni. A felülvizsgálat alapján azon szerződéseknél, ahol a haszonbérleti díj mértéke nem éri el a helyben kialakult díjtételt, illetve amelyek nem felelnek meg a jogszabályi feltételeknek, az MNV Zrt. a szerződés módosítását haladéktalanul köteles kezdeményezni.
 
@@ -44,5 +44,5 @@ A 14. § (1) bekezdésében megjelölt adatszolgáltatást rendszeresen, az alá
 
 Az I. pont szerint összevontan nyilvántartott vagyonelemek adatait az 1–4. pontban meghatározott határidőig összesítve kell jelenteni.
 
-[^12]: Az 54. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 28. pontja hatályon kívül helyezte.
-[^13]: Az 54. § (4) bekezdése a 118/2008. (V. 8.) Korm. rendelet 52. § (1) bekezdése szerint módosított szöveg.
+[^13]: Az 54. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 28. pontja hatályon kívül helyezte.
+[^14]: Az 54. § (4) bekezdése a 118/2008. (V. 8.) Korm. rendelet 52. § (1) bekezdése szerint módosított szöveg.

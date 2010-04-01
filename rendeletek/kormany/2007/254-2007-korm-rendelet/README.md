@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-08-07 | 2007-254-20-22.5 | 254/2007. (X. 4.) Korm. rendelet |
+| 2010-04-01 | 2007-254-20-22.6 | 90/2010. (III. 26.) Korm. rendelet |
