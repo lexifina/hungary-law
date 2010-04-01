@@ -1,4 +1,4 @@
-## 9. §[^10]
+## 9. §[^19]
 
 ## Az irattári tételek kialakítása
 
@@ -18,4 +18,4 @@ b) az a) pont szerinti nyilvántartások alapirataiból, ha azokat külön iratt
 
 c) a választott testületek, bizottságok, valamint a szerv működése szempontjából meghatározó jelentőségű, rendszeresen megtartott értekezletek irataiból (ideértve az előterjesztéseket, a jegyzőkönyveket vagy emlékeztetőket és a határozatokat is), továbbá a belső utasításokból.
 
-[^10]: A 9. §-t a 239/2007. (IX. 12.) Korm. rendelet 11. § (1) bekezdése, a 9. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 389. pontja hatályon kívül helyezte.
+[^19]: A 9. §-t a 239/2007. (IX. 12.) Korm. rendelet 11. § (1) bekezdése, a 9. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 389. pontja hatályon kívül helyezte.

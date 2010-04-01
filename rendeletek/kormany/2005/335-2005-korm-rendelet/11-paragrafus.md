@@ -1,5 +1,5 @@
 11. § (1) Az egyes irattári tételekhez kapcsolódóan meg kell határozni, hogy melyek azok az irattári tételek, amelyek iratai nem selejtezhetők, és melyek azok, amelyek iratait meghatározott idő eltelte után ki lehet selejtezni. A nem selejtezhető irattári tételek esetében meg kell jelölni azt is, hogy melyek azok, amelyek iratait meghatározott idő eltelte után levéltárba kell adni, és melyek azok, amelyek megőrzéséről az iratképző – határidő megjelölése nélkül – helyben köteles gondoskodni. A nem selejtezhető és levéltárba adandó irattári tételek, továbbá a selejtezhető irattári tételek esetében meg kell jelölni az irattári őrzés időtartamát. A személyes adatot tartalmazó iratok őrzési és selejtezési idejét a célhoz kötött adatkezelés követelményére tekintettel kell meghatározni. A nem selejtezhető iratok levéltárba adásának határidejét az Ltv. 12. §-ában foglaltak figyelembevételével kell meghatározni.
 
-(2)[^11]
+(2)[^20]
 
-[^11]: A 11. § (2) bekezdését a 239/2007. (IX. 12.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
+[^20]: A 11. § (2) bekezdését a 239/2007. (IX. 12.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.

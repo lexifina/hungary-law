@@ -1,8 +1,8 @@
-## 15. § Az iratkezelési folyamat szereplőit (szervezeti egység, szignáló, kiadmányozó, ügyintéző, iratkezelő) megszűnés, átszervezés és személyi változás esetén a kezelésükben lévő iratokkal, a nyilvántartások alapján tételesen el kell számoltatni, az elszámoltatásról jegyzőkönyvet kell felvenni.
+## 15/B. §[^26] A 15/A. § (1)–(4) bekezdésének rendelkezéseit a közfeladatot ellátó szerv szervezeti egységét érintő feladatkör átadása esetén is alkalmazni kell.
 
 ## Az iratkezelés megszervezése
 
-16. § (1) A közfeladatot ellátó szerv adottságainak és igényeinek megfelelően az iktatást
+16. § (1)[^27] A közfeladatot ellátó szerv adottságainak és igényeinek megfelelően az iratkezelést
 
 a) központilag, egyetlen szervezeti egység vagy személy feladataként,
 
@@ -13,3 +13,6 @@ c) vegyes rendszerben, az a) és b) pontban foglaltak együttes alkalmazásával
 ## szervezheti meg.
 
 (2) A szerv az elintézett ügyek iratait irattárában helyezi el.
+
+[^26]: A 15/B. §-t a 64/2010. (III. 18.) Korm. rendelet 3. §-a iktatta be.
+[^27]: A 16. § (1) bekezdés nyitó szövegrésze a 64/2010. (III. 18.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.

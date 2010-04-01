@@ -1,3 +1,5 @@
+## 45. §[^55]
+
 46. § (1) Az elektronikus úton érkezett iratok automatikus iktatását az iratkezelési szabályzat lehetővé teheti.
 
 (2) Az automatikus iktatás akkor alkalmazható, ha
@@ -11,3 +13,5 @@ c) a közfeladatot ellátó szerv által előzetesen közzétett formátumban é
 d) az iratkezelési szabályzat rendelkezik a tévesen az automatikus iktatási rendszerbe került iratok kezeléséről.
 
 (3) Automatikus iktatási rendszer alkalmazása esetén az elektronikus irat beérkezésekor elküldött automatikus visszaigazolás egyben az iktatásról (a 45. § szerinti adattartalommal), valamint a fizetési kötelezettségről szóló tájékoztatást is tartalmazhatja.
+
+[^55]: A 45. §-t a 64/2010. (III. 18.) Korm. rendelet 36. § (1) bekezdés j) pontja hatályon kívül helyezte.

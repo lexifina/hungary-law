@@ -1,9 +1,7 @@
-## 32. § Ha felbontás alkalmával kiderül, hogy a küldemény pénzt vagy egyéb értéket tartalmaz, a felbontó az összeget, illetőleg a küldemény értékét köteles az iratokon vagy feljegyzés formájában az irathoz csatoltan feltüntetni, és a pénzt, illetékbélyeget és egyéb értéket – elismervény ellenében – a pénzkezeléssel megbízott dolgozónak átadni. Az elismervényt az irathoz kell csatolni.
+33. §[^41] (1) Amennyiben a küldemény benyújtásának időpontjához jogkövetkezmény fűződik vagy fűződhet, gondoskodni kell arról, hogy annak időpontja megállapítható legyen.
 
-33. § (1) Amennyiben az irat benyújtásának időpontjához jogkövetkezmény fűződik vagy fűződhet, gondoskodni kell, hogy annak időpontja harmadik fél által megállapítható legyen.
+(2) Papír alapú küldemény esetében, amennyiben csak a borítékról állapítható meg az ügy szempontjából valamely fontos adat vagy tény, amely jogkövetkezménnyel bírhat, a borítékot a küldeményhez kell csatolni.
 
-(2) Papír alapú irat esetében a benyújtás időpontjának megállapítása a boríték csatolásával biztosítható.
+(3) Amennyiben a beküldő nevét vagy pontos címét a küldeményből nem lehet megállapítani, a hiányos adatmegadásra vonatkozó bizonyítékokat a küldeményhez kell csatolni.
 
-(3) Elektronikus úton érkezett irat esetében az Iratkezelési Szabályzatban rendelkezni kell azokról a technikai követelményekről, amelyek az (1) bekezdésben meghatározott időpont megállapíthatóságát biztosítják.
-
-(4) Amennyiben a beküldő nevét vagy pontos címét az iratból nem lehet megállapítani, az ezek igazolására szolgáló információhordozókat az irathoz kell csatolni.
+[^41]: A 33. § a 64/2010. (III. 18.) Korm. rendelet 10. §-ával megállapított szöveg.

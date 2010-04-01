@@ -4,38 +4,41 @@
 
 39. § (1) Iktatás céljára évente megnyitott, hitelesített iktatókönyvet kell használni.
 
-(2) Az iktatókönyvnek kötelezően kell tartalmaznia az alábbi adatokat:
+(2)[^46] Az iktatókönyv tartalmazza minimálisan az alábbi, az iktatókönyvben nyilvántartott iratokra vonatkozó adatokat, azok rendelkezésre állása esetén:
 
-a) iktatószám;
+a) iktatószám,
 
-b) iktatás időpontja;
+b) iktatás időpontja,
 
-c) küldemény érkezésének időpontja, módja, érkeztető száma;
+c) beérkezés időpontja, módja, érkeztetési azonosítója,
 
-d) küldemény elküldésének időpontja, módja;
+d) adathordozó típusa (papír alapú, elektronikus), adathordozó fajtája,
 
-e) küldemény adathordozójának típusa (papír alapú, elektronikus), adathordozója;
+e) expediálás időpontja, módja,
 
-f) küldő megnevezése, azonosító adatai;
+f) küldő adatai (név, cím),
 
-g) címzett megnevezése, azonosító adatai;
+g) címzett adatai (név, cím),
 
-h) érkezett irat iktatószáma (idegen szám);
+h) hivatkozási szám (idegen szám),
 
-i) mellékletek száma;
+i) mellékletek száma, típusa (papír alapú, elektronikus),
 
-j) ügyintéző szervezeti egység és az ügyintéző megnevezése;
+j) ügyintéző megnevezése,
 
-k) irat tárgya;
+k) irat tárgya,
 
-l) elő- és utóiratok iktatószáma;
+l) elő- és utóiratok iktatószáma,
 
-m) kezelési feljegyzések;
+m) kezelési feljegyzések,
 
-n) ügyintézés határideje, és végrehajtásának időpontja;
+n) intézés határideje, módja és elintézés időpontja,
 
-o) irattári tételszám;
+o) irattári tételszám,
 
-p) irattárba helyezés időpontja.
+p) irattárba helyezés.
 
-(3) Az iratot el kell látni iktatószámmal és az irat egyéb azonosító adataival.
+(3)[^47] Az iraton és az előadói íven fel kell tüntetni az irat egyértelmű azonosítást lehetővé tevő egyedi azonosító adatát.
+
+[^46]: A 39. § (2) bekezdése a 64/2010. (III. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^47]: A 39. § (3) bekezdése a 64/2010. (III. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
