@@ -1,6 +1,6 @@
-## 36. §[^109]
+## 36. §[^115]
 
-## 37. §[^110] Az eljáró hatóság soron kívüli orvosi vizsgálatot kezdeményezhet, ha
+## 37. §[^116] Az eljáró hatóság soron kívüli orvosi vizsgálatot kezdeményezhet, ha
 
 a) a járművezető a közúti közlekedés szabályainak megszegésével halállal, tömegszerencsétlenséggel járó balesetet okozott,
 
@@ -14,5 +14,5 @@ a) ha a járművezető az (1) bekezdés a) pontjában meghatározott balesetet o
 
 b) az eljárás során a járművezetést hátrányosan befolyásoló pszichés állapotára hivatkozik.
 
-[^109]: A 36. §-t a 27/2003. (VII. 4.) BM rendelet 59. §-ának (3) bekezdése hatályon kívül helyezte.
-[^110]: A 37. § a 27/2003. (VII. 4.) BM rendelet 16. §-ával megállapított szöveg.
+[^115]: A 36. §-t a 27/2003. (VII. 4.) BM rendelet 59. §-ának (3) bekezdése hatályon kívül helyezte.
+[^116]: A 37. § a 27/2003. (VII. 4.) BM rendelet 16. §-ával megállapított szöveg.

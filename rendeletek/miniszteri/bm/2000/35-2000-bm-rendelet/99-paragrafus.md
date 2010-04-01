@@ -1,6 +1,6 @@
-## 98. §[^368]
+## 98. §[^381]
 
-## A kötelező gépjármű-felelősségbiztosítás ellenőrzése[^369]
+## A kötelező gépjármű-felelősségbiztosítás ellenőrzése[^382]
 
-[^368]: A 98. §-t a 6/2009. (III. 31.) IRM rendelet 43. § (1) bekezdése hatályon kívül helyezte. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
-[^369]: A 99. §-t megelőző alcímet a 41/2005. (X. 7.) BM rendelet 10. §-a iktatta be.
+[^381]: A 98. §-t a 6/2009. (III. 31.) IRM rendelet 43. § (1) bekezdése hatályon kívül helyezte. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
+[^382]: A 99. §-t megelőző alcímet a 41/2005. (X. 7.) BM rendelet 10. §-a iktatta be.

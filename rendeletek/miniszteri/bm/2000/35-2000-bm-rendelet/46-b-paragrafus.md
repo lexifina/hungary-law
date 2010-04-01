@@ -1,4 +1,4 @@
-46/B. §[^161] (1) A regisztrációs matrica utángyártása a közlekedési igazgatási hatóság engedélyével lehetséges. Ez esetben a külön jogszabályban meghatározott igazgatási szolgáltatási díj ügyfél által történő megfizetése után a Hivatal gondoskodik a regisztrációs matrica gyártótól való megrendeléséről.
+46/B. §[^168] (1) A regisztrációs matrica utángyártása a közlekedési igazgatási hatóság engedélyével lehetséges. Ez esetben a külön jogszabályban meghatározott igazgatási szolgáltatási díj ügyfél által történő megfizetése után a Hivatal gondoskodik a regisztrációs matrica gyártótól való megrendeléséről.
 
 (2) Az elveszett, eltulajdonított és a (3) bekezdésben meghatározottak kivételével a megrongálódott regisztrációs matrica utángyártása nem engedélyezhető. A járművet ebben az esetben át kell rendszámozni.
 
@@ -18,4 +18,4 @@ b) az egyénileg kiválasztott és egyedileg előállított rendszámtábla jogo
 
 c) az 50. § (2) bekezdés a) és b) pontjában, illetve az 51. §-ban meghatározott különleges rendszámtábla jogosítottja a rendszámtáblát más gépjárműre kívánja felszerelni.
 
-[^161]: A 46/B. §-t a 34/2004. (VI. 28.) BM rendelet 20. §-a iktatta be, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.
+[^168]: A 46/B. §-t a 34/2004. (VI. 28.) BM rendelet 20. §-a iktatta be, e módosító rendelet 64. §-ának (10) bekezdése alapján a 2004. július 1. napján folyamatban lévő eljárásokban az ügyfélre nézve kedvezőbb szabályokat kell alkalmazni. Az ideiglenes forgalomban tartási engedéllyel, az ideiglenes forgalmi engedéllyel, a járműkísérő lappal, az eredetiségvizsgálat-igazolással, valamint a rendszámtáblákkal kapcsolatban lásd e módosító rendelet 64. §-ának (1)–(9) bekezdését.

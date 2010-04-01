@@ -20,5 +20,14 @@ b) nem állapítható meg a vezetési jogosultság tartalma, vagy az nem felelte
 
 (6) Kétség esetén a magyar vezetői engedély kiadására irányuló eljárásban a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: Hivatal) ellenőrzi a külföldi vezetői engedély adatainak egyezőségét.
 
+(7)[^46] A harmadik ország által kiállított vezetői engedély honosítása során az engedély-nyilvántartásba és a kiadásra kerülő magyar vezetői engedélybe be kell jegyezni a vezetői engedély honosításának tényét, valamint a kérelmező által benyújtott vezetői engedélyt kiadó államot. A nyilvántartásba és a kiadásra kerülő vezetői engedélybe a bejegyzés a 7. számú melléklet 70. kódjának, valamint a kiadó állam – az országok és igazgatási egységeik nevének kódjaira vonatkozó MSZ EN ISO 3166–1 nemzeti szabványban meghatározott – háromjegyű betűkódjának (a továbbiakban: országkód) alkalmazásával történik.
+
+(8)[^47] A honosított vezetői engedély cseréjére vagy pótlására irányuló eljárás során kiadásra kerülő vezetői engedélybe is be kell jegyezni a (7) bekezdés szerinti kódokat.
+
+(9)[^48] Ha egy másik EGT-állam által kiadott – a 7. számú mellékletben meghatározott 70. kódot és a kiadó harmadik állam országkódját tartalmazó – vezetői engedély jogosultja szokásos tartózkodási helyét Magyarországra helyezi át, a vezetői engedély kiadására irányuló eljárásban az e rendeletben meghatározott, eredeti vezetői engedélyt kiadó harmadik ország tekintetében alkalmazandó szabályokat kell alkalmazni, és a (7) bekezdés szerint kell eljárni.
+
 [^44]: A 17. § a 6/2009. (III. 31.) IRM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
 [^45]: A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet.
+[^46]: A 17. § (7) bekezdését a 9/2010. (III. 31.) IRM rendelet 1. §-a iktatta be.
+[^47]: A 17. § (8) bekezdését a 9/2010. (III. 31.) IRM rendelet 1. §-a iktatta be.
+[^48]: A 17. § (9) bekezdését a 9/2010. (III. 31.) IRM rendelet 1. §-a iktatta be.

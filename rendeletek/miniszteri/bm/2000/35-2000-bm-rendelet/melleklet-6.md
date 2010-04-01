@@ -50,7 +50,7 @@
 
 ## 20. Személyszállításra használt gépjárművek, melyeknek – a vezető ülését nem számítva – több mint nyolc ülőhely van. ,,D''
 
-## 21.[^410] Gépjárműszerelvények, melyeknél a vontató gépjármű megfelel a ,,B'', ,,C'' vagy ,,D'' kategóriáknak – melyre a vezető fel van jogosítva –, de maga a gépjárműszerelvény nem felel meg a kategóriák egyikének sem ,,E''.
+## 21.[^424] Gépjárműszerelvények, melyeknél a vontató gépjármű megfelel a ,,B'', ,,C'' vagy ,,D'' kategóriáknak – melyre a vezető fel van jogosítva –, de maga a gépjárműszerelvény nem felel meg a kategóriák egyikének sem ,,E''.
 
 ## 22. HASZNÁLATRA VONATKOZÓ KORLÁTOZÁSOK
 
@@ -82,4 +82,4 @@
 
 6. számú melléklet a 35/2000. (XI. 30.) BM rendelethez
 
-[^410]: Az 5. számú melléklet 21. pontja a 27/2003. (VII. 4.) BM rendelet 58. §-ának (5) bekezdésével megállapított szöveg.
+[^424]: Az 5. számú melléklet 21. pontja a 27/2003. (VII. 4.) BM rendelet 58. §-ának (5) bekezdésével megállapított szöveg.

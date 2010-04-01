@@ -74,6 +74,6 @@
 
 ## 13. P. H.
 
-16. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^431]
+16. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^445]
 
-[^431]: A 16. számú melléklet a 41/2009. (IX. 15.) IRM rendelet 25. §-ával megállapított szöveg. E módosító rendelet 55. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni; 55. § (3) bekezdése alapján a módosítás nem érinti a 2009. október 1. napja előtt kiadott vezetői engedélyek érvényességét.
+[^445]: A 16. számú melléklet a 41/2009. (IX. 15.) IRM rendelet 25. §-ával megállapított szöveg. E módosító rendelet 55. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni; 55. § (3) bekezdése alapján a módosítás nem érinti a 2009. október 1. napja előtt kiadott vezetői engedélyek érvényességét.

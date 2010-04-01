@@ -1,4 +1,4 @@
-25. §[^85] (1) A pályaalkalmassági minősítést és annak érvényességi idejét – kivéve a (2) bekezdésben foglaltakat – a közlekedési hatóság jogerős határozata alapján kell a nyilvántartásba bejegyezni.
+25. §[^91] (1) A pályaalkalmassági minősítést és annak érvényességi idejét – kivéve a (2) bekezdésben foglaltakat – a közlekedési hatóság jogerős határozata alapján kell a nyilvántartásba bejegyezni.
 
 (2) A vezetői engedély cseréjekor a meglévő vezetői engedélyben szereplő bejegyzés alapján, továbbá az alábbi okiratok alapján lehet a következő PÁV kategóriákat a nyilvántartásba bejegyezni:
 
@@ -20,7 +20,7 @@ c) PÁV III. (harmadik) kategória minősítés:
 
 – az 1978. április 1-je után kiadott ,,Gépjárműkezelői bizonyítvány'', valamint PÁV III. alkalmasságot tanúsító határozat (igazolás).
 
-(3)[^86] A közlekedési igazgatási hatóság a vezetői engedély cseréjével egyidejűleg a korábbi vezetői engedélybe bejegyzett pályaalkalmassági minősítés engedély nyilvántartásban szereplő adatáról első alkalommal térítésmentesen hitelesített kivonatot állít ki.
+(3)[^92] A közlekedési igazgatási hatóság a vezetői engedély cseréjével egyidejűleg a korábbi vezetői engedélybe bejegyzett pályaalkalmassági minősítés engedély nyilvántartásban szereplő adatáról első alkalommal térítésmentesen hitelesített kivonatot állít ki.
 
-[^85]: A 25. § a 27/2003. (VII. 4.) BM rendelet 10. §-ával megállapított szöveg.
-[^86]: A 25. § (3) bekezdése a 63/2005. (XII. 22.) BM rendelet 3. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^91]: A 25. § a 27/2003. (VII. 4.) BM rendelet 10. §-ával megállapított szöveg.
+[^92]: A 25. § (3) bekezdése a 63/2005. (XII. 22.) BM rendelet 3. § (2) bekezdésének a) pontja szerint módosított szöveg.

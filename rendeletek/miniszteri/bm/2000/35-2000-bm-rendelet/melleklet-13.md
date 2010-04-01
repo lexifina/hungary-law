@@ -1,4 +1,4 @@
-## A.[^424]
+## A.[^438]
 
 ## A törzskönyv tartalmi elemei
 
@@ -44,7 +44,7 @@
 
 ## 17. A törzskönyv nyomdai sorszámának vonalkódja
 
-## B.[^425]
+## B.[^439]
 
 ## A 2009. július 1-jét követően kiadásra kerülő törzskönyv tartalmi elemei
 
@@ -82,5 +82,5 @@
 
 13. számú melléklet a 35/2000. (XI. 30.) BM rendelethez
 
-[^424]: A 12. számú melléklet eredeti szövegének megjelölését A. pontra változtatta a 6/2009. (III. 31.) IRM rendelet 40. § (3) bekezdése.
-[^425]: A 12. számú melléklet B. pontját a 6/2009. (III. 31.) IRM rendelet 40. § (3) bekezdése iktatta be, egyidejűleg a melléklet eredeti szövegének megjelölését A. pontra változtatva. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
+[^438]: A 12. számú melléklet eredeti szövegének megjelölését A. pontra változtatta a 6/2009. (III. 31.) IRM rendelet 40. § (3) bekezdése.
+[^439]: A 12. számú melléklet B. pontját a 6/2009. (III. 31.) IRM rendelet 40. § (3) bekezdése iktatta be, egyidejűleg a melléklet eredeti szövegének megjelölését A. pontra változtatva. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.

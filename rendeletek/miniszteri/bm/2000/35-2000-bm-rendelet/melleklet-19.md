@@ -12,7 +12,7 @@
 
 ## 6. A regisztrációs matrica egyedi sorszáma
 
-19. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^436]
+19. számú melléklet a 35/2000. (XI. 30.) BM rendelethez[^450]
 
 A hatósági bizonyítvány minimális adattartalma
 
@@ -26,4 +26,4 @@ A hatósági bizonyítvány minimális adattartalma
 
 5. Kiadás helye, ideje, a hatóság bélyegzőlenyomata, kiadmányozó neve, hivatali beosztása, aláírása
 
-[^436]: A 19. számú mellékletet a 6/2009. (III. 31.) IRM rendelet 40. § (6) bekezdése iktatta be. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
+[^450]: A 19. számú mellékletet a 6/2009. (III. 31.) IRM rendelet 40. § (6) bekezdése iktatta be. E módosító rendelet 42. § (1) bekezdése alapján a rendelkezést a 2009. április 1. napját követően indult eljárásokban kell alkalmazni.
