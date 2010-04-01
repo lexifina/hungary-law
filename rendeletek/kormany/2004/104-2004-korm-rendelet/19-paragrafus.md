@@ -2,7 +2,7 @@
 
 ## 19. § A légijármű földi kiszolgáló, karbantartó és javító szervezet
 
-a)[^40] a légiközlekedés védelme érdekében, a Nemzeti Légiközlekedés Védelmi Programmal összhangban elkészíti és jóváhagyásra az NKH Légiközlekedési Igazgatósága részére benyújtja a Védelmi Tervét, valamint módosításait, továbbá gondoskodik az abban foglaltak végrehajtásáról;
+a)[^42] a légiközlekedés védelme érdekében, a Nemzeti Légiközlekedés Védelmi Programmal összhangban elkészíti és jóváhagyásra az NKH Légiközlekedési Igazgatósága részére benyújtja a Védelmi Tervét, valamint módosításait, továbbá gondoskodik az abban foglaltak végrehajtásáról;
 
 b) a Repülőtér Rend, a Repülőtéri Védelmi Terv, a Légitársasági Védelmi Terv és saját Védelmi Terve alapján
 
@@ -18,4 +18,4 @@ c) felkérésre részt vesz a Repülőtéri Kényszer-Vészhelyzeti Irányító 
 
 d) megbízható személyzetet alkalmaz, és ennek érdekében az illetékes szerveknél kezdeményezi a személyzet védelmi ellenőrzését.
 
-[^40]: A 19. § a) pontja a 264/2006. (XII. 20.) Korm. rendelet 26. § d) pontja, a 168/2007. (VI. 28.) Korm. rendelet 28. § (3) bekezdésének e) pontja szerint módosított szöveg.
+[^42]: A 19. § a) pontja a 264/2006. (XII. 20.) Korm. rendelet 26. § d) pontja, a 168/2007. (VI. 28.) Korm. rendelet 28. § (3) bekezdésének e) pontja szerint módosított szöveg.

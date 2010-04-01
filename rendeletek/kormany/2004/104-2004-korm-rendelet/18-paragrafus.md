@@ -2,7 +2,7 @@
 
 ## 18. § A légitársaság
 
-a)[^39] a légiközlekedés védelme érdekében, a Nemzeti Légiközlekedés Védelmi Programmal összhangban elkészíti és jóváhagyásra az NKH Légiközlekedési Igazgatósága részére benyújtja a Légitársasági Védelmi Tervet, valamint módosításait, továbbá gondoskodik az abban foglaltak végrehajtásáról;
+a)[^41] a légiközlekedés védelme érdekében, a Nemzeti Légiközlekedés Védelmi Programmal összhangban elkészíti és jóváhagyásra az NKH Légiközlekedési Igazgatósága részére benyújtja a Légitársasági Védelmi Tervet, valamint módosításait, továbbá gondoskodik az abban foglaltak végrehajtásáról;
 
 b) a Repülőtér Rend, a Repülőtéri Védelmi Terv és a Légitársasági Védelmi Terv alapján
 
@@ -32,4 +32,4 @@ bl) kidolgozza a védelmi feladatok oktatását, gyakorlását, továbbá érté
 
 c) részt vesz a Repülőtéri Kényszer-Vészhelyzeti Irányító Központ munkájában.
 
-[^39]: A 18. § a) pontja a 264/2006. (XII. 20.) Korm. rendelet 26. § d) pontja, a 168/2007. (VI. 28.) Korm. rendelet 28. § (3) bekezdésének e) pontja szerint módosított szöveg.
+[^41]: A 18. § a) pontja a 264/2006. (XII. 20.) Korm. rendelet 26. § d) pontja, a 168/2007. (VI. 28.) Korm. rendelet 28. § (3) bekezdésének e) pontja szerint módosított szöveg.

@@ -6,8 +6,8 @@ b) engedélyezi a személyek vámterületre történő belépését,
 
 c) ellenőrzi és felügyeli a vámterületet,
 
-d)[^33] indokolt esetben ellenőrzi – a Rendőrséggel együttműködve – repülés előtt a légjárművek fedélzetét és a repülőtéri vámterületet,
+d)[^35] indokolt esetben ellenőrzi – a Rendőrséggel együttműködve – repülés előtt a légjárművek fedélzetét és a repülőtéri vámterületet,
 
 e) a külön jogszabályban meghatározott módon ellenőrzi a légiközlekedés védelme szempontjából ellenőrzés alá vonható személyeket.
 
-[^33]: A 13. § d) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 53. pontja szerint módosított szöveg.
+[^35]: A 13. § d) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 53. pontja szerint módosított szöveg.

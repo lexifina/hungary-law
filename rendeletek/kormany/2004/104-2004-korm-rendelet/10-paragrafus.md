@@ -8,7 +8,7 @@ c) szükség esetén gondoskodik a kísérővel utaztatott személyek részére 
 
 d) szükség esetén biztosítja a megtagadott belépés miatt visszafordított személyek kíséretét,
 
-e)[^30] végrehajtja és értékeli a repülőtér védelmi rendszereinek védelmi tesztelését a Nemzetbiztonsági Hivatallal együttműködve, az értékelés eredményét megküldi a repülőtér üzemben tartója és az NKH Légiközlekedési Igazgatósága részére,
+e)[^31] végrehajtja és értékeli a repülőtér védelmi rendszereinek védelmi tesztelését a Nemzetbiztonsági Hivatallal együttműködve, az értékelés eredményét megküldi a repülőtér üzemben tartója és az NKH Légiközlekedési Igazgatósága részére,
 
 f) végzi a veszélyeztetett, illetve kockázatelemzés alapján kijelölt légjármű repülés előtti védelmi ellenőrzését, a közbiztonságra és a légiközlekedés biztonságára különösen veszélyes eszközök felkutatását és hatástalanítását,
 
@@ -26,4 +26,4 @@ l) külön jogszabályban meghatározott módon ellenőrzi a légiközlekedés v
 
 m) szakértőként részt vesz a légiközlekedés védelmi személyzetnek a Nemzeti Polgári Légiközlekedés Védelmi Képzési Programban szabályozott védelmi oktatásában.
 
-[^30]: A 10. § e) pontja a 264/2006. (XII. 20.) Korm. rendelet 26. § d) pontja, a 168/2007. (VI. 28.) Korm. rendelet 28. § (3) bekezdésének e) pontja szerint módosított szöveg.
+[^31]: A 10. § e) pontja a 264/2006. (XII. 20.) Korm. rendelet 26. § d) pontja, a 168/2007. (VI. 28.) Korm. rendelet 28. § (3) bekezdésének e) pontja szerint módosított szöveg.

@@ -30,7 +30,7 @@ e) közreműködik a nem azonosított, elhagyott poggyásszal, csomaggal kapcsol
 
 (3) A repülőtér üzemben tartója a légiközlekedés védelmével összefüggésben
 
-a)[^34] a légiközlekedés védelme érdekében a Nemzeti Légiközlekedés Védelmi Programmal összhangban elkészíti és jóváhagyásra az NKH Légiközlekedési Igazgatósága részére benyújtja a Repülőtéri Védelmi Tervet és a Repülőtér Rendet, valamint azok módosításait, továbbá gondoskodik az azokban foglaltak végrehajtásáról,
+a)[^36] a légiközlekedés védelme érdekében a Nemzeti Légiközlekedés Védelmi Programmal összhangban elkészíti és jóváhagyásra az NKH Légiközlekedési Igazgatósága részére benyújtja a Repülőtéri Védelmi Tervet és a Repülőtér Rendet, valamint azok módosításait, továbbá gondoskodik az azokban foglaltak végrehajtásáról,
 
 b) a repülőtéren lévő, a légiközlekedés védelmében közreműködő szervezetek bevonásával évente legalább egyszer végrehajtja a Repülőtéri Védelmi Tervben foglalt feladatok gyakoroltatását, önellenőrző eljárásokat folytat le, értékeli az eredményeket, annak alapján végrehajtja a szükséges módosításokat,
 
@@ -40,4 +40,4 @@ d) a Repülőtéri Védelmi Tervben foglaltak szerint kialakítja a nemzetközi 
 
 e) részt vesz a Repülőtéri Kényszer-Vészhelyzeti Irányító Központ munkájában.
 
-[^34]: A 15. § (3) bekezdésének a) pontja a 264/2006. (XII. 20.) Korm. rendelet 26. § d) pontja, a 168/2007. (VI. 28.) Korm. rendelet 28. § (3) bekezdésének e) pontja szerint módosított szöveg.
+[^36]: A 15. § (3) bekezdésének a) pontja a 264/2006. (XII. 20.) Korm. rendelet 26. § d) pontja, a 168/2007. (VI. 28.) Korm. rendelet 28. § (3) bekezdésének e) pontja szerint módosított szöveg.
