@@ -6,6 +6,6 @@ b) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 3. §
 
 c) a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 1. § (2) bekezdésében és a 3. §-ban a ,,személy'' szövegrész ,,személyek'' szövegrészre változik;
 
-d) az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény (a továbbiakban: AM tv.) 8. § (6) bekezdésének ,,évi 250 ezer forint'' szövegrésze helyébe ,,évi 350 ezer forint'' szövegrész kerül. Az AM tv. melléklete helyébe e törvény 23. számú melléklete lép.
+d)
 
 (2) E törvény kihirdetésével egyidejűleg az adókra, járulékokra és egyéb költségvetési befizetésekre vonatkozó egyes törvények módosításáról szóló 2000. évi CXIII. törvény 1. számú mellékletének 6. pontjában az Szja tv. 1. számú melléklet 8.19. pontja a ,,valamint annak a terméknek és szolgáltatásnak az értéke, amelyet a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, a külügyminiszter reprezentáció címén nyújt az államközi és az államok feletti szervezetekkel kapcsolatos diplomáciai esemény alkalmával; a külügyminiszter esetében ide kell érteni azt az esetet is, amikor a reprezentációt külképviselet által közvetve nyújtja;'' szövegrésszel egészül ki.
